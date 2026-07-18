@@ -2,7 +2,7 @@
 
 This file tracks all chronological shifts, score changes, tier promotions, and deactivations.
 
-### Run: 2026-07-18T14:54:40.263591+05:30
+### Run: 2026-07-18T16:32:29.269377+05:30
 - **[New Discovery]** `Medium - Apps on Google Play` registered with score `0` in `ai/rag`
 - **[New Discovery]** `pinecone-io/canopy` registered with score `0` in `ai/rag`
 - **[New Discovery]** `Medium Terms of Service | by Medium | Medium Policy` registered with score `0` in `ai/rag`
@@ -12330,7 +12330,12 @@ This file tracks all chronological shifts, score changes, tier promotions, and d
 - **[Rank Drop]** `Medium Privacy Policy | by Medium | Medium Policy`: Rank dropped by -6
 - **[Rank Drop]** `stanford-oval/storm`: Rank dropped by -6
 
-### Run: 2026-07-18T13:39:54.097639+05:30
+### Run: 2026-07-18T14:54:40.263591+05:30
+- **[New Discovery]** `Medium - Apps on Google Play` registered with score `0` in `ai/rag`
+- **[New Discovery]** `pinecone-io/canopy` registered with score `0` in `ai/rag`
+- **[New Discovery]** `Medium Terms of Service | by Medium | Medium Policy` registered with score `0` in `ai/rag`
+- **[New Discovery]** `The Medium Blog` registered with score `0` in `ai/rag`
+- **[New Discovery]** `Medium Rules | by Medium | Medium Policy` registered with score `0` in `ai/rag`
 - **[New Discovery]** `EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI` registered with score `0` in `ai/companies/mistral`
 - **[New Discovery]** `langchain-ai/langgraph` registered with score `0` in `Agent Framework`
 - **[New Discovery]** `ProductIntroducing Search ToolkitProduction search pipelines, anywhere.May 28, 2026By Mistral` registered with score `0` in `ai/companies/mistral`
@@ -13261,4074 +13266,4069 @@ This file tracks all chronological shifts, score changes, tier promotions, and d
 - **[Rank Rise]** `Web Vitals | Articles | web.dev`: Rank rose by +4
 - **[Rank Rise]** `Chrome for Developers - YouTube`: Rank rose by +4
 - **[Rank Rise]** `Launch in Fiddle`: Rank rose by +4
-- **[Rank Rise]** `Terms & Conditions | Speechify`: Rank rose by +4
-- **[Rank Rise]** `pnpm/pnpm`: Rank rose by +4
-- **[Rank Rise]** `GitHub CLI | webinstall.dev`: Rank rose by +4
-- **[Rank Rise]** `Homebrew: The Package Manager for Everywhere`: Rank rose by +4
-- **[Rank Rise]** `Nx â Smart Monorepos Â· Fast Builds`: Rank rose by +4
-- **[Rank Rise]** `git/git`: Rank rose by +4
-- **[Rank Rise]** `yarnpkg/berry`: Rank rose by +4
-- **[Rank Rise]** `Vite | Next Generation Frontend Tooling`: Rank rose by +4
-- **[Rank Rise]** `Documentation/RelNotes/2.55.0.adoc · HEAD · git-scm / Git · GitLab`: Rank rose by +4
-- **[Rank Rise]** `Black Forest Labs · GitHub`: Rank rose by +4
-- **[Rank Rise]** `run-llama/chat-ui`: Rank rose by +4
-- **[Rank Rise]** `Introduction | Documentation | Poetry - Python dependency management and packaging made easy`: Rank rose by +4
-- **[Rank Rise]** `Home | Zendesk CX Trends 2026`: Rank rose by +4
-- **[Rank Rise]** `Zendesk Academy`: Rank rose by +4
-- **[Rank Rise]** `Using generative AI to expand and enhance help center content – Zendesk help`: Rank rose by +4
-- **[Rank Rise]** `AI for Research | Scite`: Rank rose by +4
-- **[Rank Rise]** `European Interactive Digital Advertising Alliance (EDAA)`: Rank rose by +4
-- **[Rank Rise]** `Opt-Out Tools — AdChoices in Canada`: Rank rose by +4
-- **[Rank Rise]** `LangChain Blog`: Rank rose by +4
-- **[Rank Rise]** `Sign in to GitHub · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Sign in on a device that's not yours - Computer - Google Account Help`: Rank rose by +4
-- **[Rank Rise]** `Project Fugu API Showcase | Capabilities | Chrome for Developers`: Rank rose by +4
-- **[Rank Rise]** `Android Developers Blog: Android 17 is here`: Rank rose by +4
-- **[Rank Rise]** `Google Account Help`: Rank rose by +4
-- **[Rank Rise]** `Case studies | web.dev`: Rank rose by +4
-- **[Rank Rise]** `Medium Partner Program`: Rank rose by +4
-- **[Rank Rise]** `Home page | Yarn`: Rank rose by +4
-- **[Rank Rise]** `Git`: Rank rose by +4
-- **[Rank Rise]** `google-gemini/cookbook`: Rank rose by +4
-- **[Rank Rise]** `project-miracl/miracl`: Rank rose by +4
-- **[Rank Rise]** `Site Policies | Google for Developers`: Rank rose by +4
-- **[Rank Rise]** `Image Generation - Black Forest Labs`: Rank rose by +4
-- **[Rank Rise]** `LlamaIndex Chat UI`: Rank rose by +4
-- **[Rank Rise]** `Terms of Service`: Rank rose by +4
-- **[Rank Rise]** `Article Galaxy Tutorials – Research Solutions Help & Support Center`: Rank rose by +4
-- **[Rank Rise]** `AI-powered knowledge base software`: Rank rose by +4
-- **[Rank Rise]** `Release Notes | Research Solutions/Reprints Desk`: Rank rose by +4
-- **[Rank Rise]** `LangSmith Observability - Docs by LangChain`: Rank rose by +4
-- **[Rank Rise]** `GitHub Features · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Getting Started | Electron Forge`: Rank rose by +4
-- **[Rank Rise]** `Grounding with Google Search | Gemini API | Google AI for Developers`: Rank rose by +4
-- **[Rank Rise]** `Foundry Models sold by Azure - Microsoft Foundry | Microsoft Learn`: Rank rose by +4
-- **[Rank Rise]** `Welcome to LlamaIndex.TS | Developer Documentation`: Rank rose by +4
-- **[Rank Rise]** `Scite Status`: Rank rose by +4
-- **[Rank Rise]** `Scite – Research Solutions Help & Support Center`: Rank rose by +4
-- **[Rank Rise]** `Chat LangChain`: Rank rose by +4
-- **[Rank Rise]** `youtube/api-samples`: Rank rose by +4
-- **[Rank Rise]** `ChatVertexAI integration - Docs by LangChain`: Rank rose by +4
-- **[Rank Rise]** `vibrantlabsai/ragas`: Rank rose by +4
-- **[Rank Rise]** `AzureChatOpenAI integration - Docs by LangChain`: Rank rose by +4
-- **[Rank Rise]** `stanfordnlp/dspy`: Rank rose by +4
-- **[Rank Rise]** `Testset Generation for RAG - Ragas`: Rank rose by +4
-- **[Rank Rise]** `adityatelange/hugo-PaperMod`: Rank rose by +4
-- **[Rank Rise]** `msitarzewski/agency-agents`: Rank rose by +4
-- **[Rank Rise]** `vercel-labs/knowledge-agent-template`: Rank rose by +4
-- **[Rank Rise]** `GoogleCloudPlatform/agent-starter-pack`: Rank rose by +4
-- **[Rank Rise]** `NVIDIA-AI-Blueprints/aiq`: Rank rose by +4
-- **[Rank Rise]** `Tracer-Cloud/opensre`: Rank rose by +4
-- **[Rank Rise]** `FLYNN: Robust Neural Network for Robot Navigation using Fly Brain Topology`: Rank rose by +4
-- **[Rank Rise]** `CMSL: Constructive Multi-Sequence Learning for Recommendation Systems`: Rank rose by +4
-- **[Rank Rise]** `NaviCache: Test-Time Self-Calibration Caching for Video Generation`: Rank rose by +4
-- **[Rank Rise]** `Assert, don't describe: Linguistic features that shift LLM reasoning about animal welfare`: Rank rose by +4
-- **[Rank Rise]** `Helpfulness Hurts: Domain-Dependent Degradation of Mid-Trained Compassion Values Under Post-Training`: Rank rose by +4
-- **[Rank Rise]** `The Cross-Architecture Substrate: A Domain-Transcendent, Calibration-Surviving Geometric Invariant of Modern Vision Encoders`: Rank rose by +4
-- **[Rank Rise]** `A Multi-Model Metric-based Selection Framework for Abstractive Text summarization`: Rank rose by +4
-- **[Rank Rise]** `Prompt Compression in Diffusion Large Language Models: Evaluating LLMLingua-2 on LLaDA`: Rank rose by +4
-- **[Rank Rise]** `IntentVLA: Short-Horizon Intent Modeling for Aliased Robot Manipulation`: Rank rose by +4
-- **[Rank Rise]** `Toward a Scientific Discovery Engine for Weather and Climate Data: A Visual Analytics Workbench for Embedding-Based Exploration`: Rank rose by +4
-- **[Rank Rise]** `Graph Construction and Matching for Imperative Programs using Neural and Structural Methods`: Rank rose by +4
-- **[Rank Rise]** `PivotMerge: Bridging Heterogeneous Multimodal Pre-training via Post-Alignment Model Merging`: Rank rose by +4
-- **[Rank Rise]** `Learning in Blocks: A Multi Agent Debate Assisted Personalized Adaptive Learning Framework for Language Learning`: Rank rose by +4
-- **[Rank Rise]** `Filtered Reasoning Score: Evaluating Reasoning Quality on a Model's Most-Confident Traces`: Rank rose by +4
-- **[Rank Rise]** `Private Seeds, Public LLMs: Realistic and Privacy-Preserving Synthetic Data Generation`: Rank rose by +4
-- **[Rank Rise]** `Tool-MCoT: Tool Augmented Multimodal Chain-of-Thought for Content Safety Moderation`: Rank rose by +4
-- **[Rank Rise]** `MG$^2$-RAG: Multi-Granularity Graph for Multimodal Retrieval-Augmented Generation`: Rank rose by +4
-- **[Rank Rise]** `Pickalo: Leveraging 6D Pose Estimation for Low-Cost Industrial Bin Picking`: Rank rose by +4
-- **[Rank Rise]** `How Annotation Trains Annotators: Competence Development in Social Influence Recognition`: Rank rose by +4
-- **[Rank Rise]** `Uncertainty-guided Compositional Alignment with Part-to-Whole Semantic Representativeness in Hyperbolic Vision-Language Models`: Rank rose by +4
-- **[Rank Rise]** `Evolutionarily Stable Stackelberg Equilibrium`: Rank rose by +4
-- **[Rank Rise]** `Towards Robust Speech Deepfake Detection via Human-Inspired Reasoning`: Rank rose by +4
-- **[Rank Rise]** `MUGEN: Evaluating and Improving Multi-audio Understanding of Large Audio-Language Models`: Rank rose by +4
-- **[Rank Rise]** `VehAnchor: Metadata-Free Metric Scale Recovery from Vehicle Cues in Aerial Imagery`: Rank rose by +4
-- **[Rank Rise]** `RVN-Bench: A Benchmark for Reactive Visual Navigation`: Rank rose by +4
-- **[Rank Rise]** `A General Equilibrium Theory of Orchestrated AI Agent Systems`: Rank rose by +4
-- **[Rank Rise]** `Debiasing Central Fixation Confounds Reveals a Peripheral "Sweet Spot" for Human-like Scanpaths in Hard-Attention Vision`: Rank rose by +4
-- **[Rank Rise]** `Understanding Persuasive Interactions between Generative Social Agents and Humans: The Knowledge-based Persuasion Model (KPM)`: Rank rose by +4
-- **[Rank Rise]** `Referential Regimes: Transformation-Invariant Identity for Neutral Substrates`: Rank rose by +4
-- **[Rank Rise]** `Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `BiasLab: A Multilingual Dual-Framing Framework for LLM Bias Measurement, Applied to Workplace and HR Contexts`: Rank rose by +4
-- **[Rank Rise]** `MixFlow Training: Alleviating Exposure Bias with Slowed Interpolation Mixture`: Rank rose by +4
-- **[Rank Rise]** `Emotion Recognition in Signers`: Rank rose by +4
-- **[Rank Rise]** `The Theory of Strategic Evolution: Games with Endogenous Players and Strategic Replicators`: Rank rose by +4
-- **[Rank Rise]** `Improving Topic Modeling of Social Media Short Texts with Rephrasing: A Case Study of COVID-19 Related Tweets`: Rank rose by +4
-- **[Rank Rise]** `People use fast and flat simulation to reason about new games`: Rank rose by +4
-- **[Rank Rise]** `Toward Autonomous Soft Robotic Endovascular Navigation via Imitation Learning`: Rank rose by +4
-- **[Rank Rise]** `TENET: One Step Toward Test-Driven Development for Repository-Level Code Generation`: Rank rose by +4
-- **[Rank Rise]** `PiCSAR: Probabilistic Confidence Selection And Ranking for Reasoning Chains`: Rank rose by +4
-- **[Rank Rise]** `SWE-MERA: A Dynamic Benchmark for Agenticly Evaluating Large Language Models on Software Engineering Tasks`: Rank rose by +4
-- **[Rank Rise]** `Can Argus Judge Them All? Comparing VLMs Across Domains`: Rank rose by +4
-- **[Rank Rise]** `Training-Free, Identity-Preserving Image Editing for Fashion Pose Alignment and Normalization`: Rank rose by +4
-- **[Rank Rise]** `Asynchronous Perception Machine For Efficient Test-Time-Training`: Rank rose by +4
-- **[Rank Rise]** `On Occlusions in Video Action Detection: Benchmark Datasets And Training Recipes`: Rank rose by +4
-- **[Rank Rise]** `Profiling and Evolution of Intellectual Property`: Rank rose by +4
-- **[Rank Rise]** `Research on Cross-media Science and Technology Information Data Retrieval`: Rank rose by +4
-- **[Rank Rise]** `FARS: A Fully Automated Research System Deployed at Scale`: Rank rose by +4
-- **[Rank Rise]** `Characterizing Large Language Model Agentic Workflows: A Study on N8n Ecosystem`: Rank rose by +4
-- **[Rank Rise]** `NormAct: A Benchmark for Hidden Social Norm Compliance in Embodied Planning`: Rank rose by +4
-- **[Rank Rise]** `Severity-Aware Curriculum Learning with Multi-Model Response Selection for Medical Text Generation`: Rank rose by +4
-- **[Rank Rise]** `MindClaw: Closed-Loop Embodied Mental-State Reasoning for Precision Intervention`: Rank rose by +4
-- **[Rank Rise]** `EmbodiSkill: Skill-Aware Reflection for Self-Evolving Embodied Agents`: Rank rose by +4
-- **[Rank Rise]** `A Low-Latency Fraud Detection Layer for Detecting Adversarial Interaction Patterns in LLM-Powered Agents`: Rank rose by +4
-- **[Rank Rise]** `Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs`: Rank rose by +4
-- **[Rank Rise]** `GrandCode: Achieving Grandmaster Level in Competitive Programming via Agentic Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents`: Rank rose by +4
-- **[Rank Rise]** `When Sensing Varies with Contexts: Context Probing for Tactile Few-Shot Class-Incremental Learning`: Rank rose by +4
-- **[Rank Rise]** `Where Experts Disagree, Models Fail: Detecting Implicit Legal Citations in French Court Decisions`: Rank rose by +4
-- **[Rank Rise]** `FIRE-Bench: Evaluating AI Agents on the Rediscovery of Scientific Insights`: Rank rose by +4
-- **[Rank Rise]** `BizFinBench.v2: Towards Reliable LLMs in Finance via Real-User Data and Offline/Online Bilingual Evaluation`: Rank rose by +4
-- **[Rank Rise]** `Do Implicit Personalization and Explicit Styles Conflict? PsPLUG: A Lightweight Plug-in for Balancing Personalization and Style in Customized LLMs`: Rank rose by +4
-- **[Rank Rise]** `Mini Amusement Parks (MAPs): A Testbed for Modelling Business Decisions`: Rank rose by +4
-- **[Rank Rise]** `InqEduAgent: Adaptive AI Learning Partners with Gaussian Process Augmentation`: Rank rose by +4
-- **[Rank Rise]** `LLM-Driven Collaborative Model for Untangling Commits via Explicit and Implicit Dependency Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Trojan Horse Prompting: Jailbreaking Conversational Multimodal Models by Forging Assistant Message`: Rank rose by +4
-- **[Rank Rise]** `Metacognition in LLMs: Foundations, Progress, and Opportunities`: Rank rose by +4
-- **[Rank Rise]** `Evidence-Backed Video Question Answering`: Rank rose by +4
-- **[Rank Rise]** `LoRA-Based Cascaded Multimodal Fusion for Action Recognition in Medical Training Environments`: Rank rose by +4
-- **[Rank Rise]** `MM-ToolSandBox: A Unified Framework for Evaluating Visual Tool-Calling Agents`: Rank rose by +4
-- **[Rank Rise]** `Introducing Human-Centeredness in AI-Assisted Lexicography`: Rank rose by +4
-- **[Rank Rise]** `Encoder-Side Neuron Identification and Amplification for Acoustic Perception in Large Audio-Language Models`: Rank rose by +4
-- **[Rank Rise]** `StoryTeller: Training-Free Narrative Grounding for Long-Form Audio Description`: Rank rose by +4
-- **[Rank Rise]** `Evaluating RE Practices for Explainability: Synthesizing Insights from Daimler Truck into an Explainable RE Framework Proposal`: Rank rose by +4
-- **[Rank Rise]** `An Explainable Agentic System for Detection of Conversational Scams with Summary-Based Memory`: Rank rose by +4
-- **[Rank Rise]** `VoxENES 2026: Benchmarking Generalization of Speech Spoofing Detectors Against LLM-Era TTS and Voice Conversion`: Rank rose by +4
-- **[Rank Rise]** `Agent Hacks Agent: Autoresearch for Production-Agent Red-Teaming`: Rank rose by +4
-- **[Rank Rise]** `From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence`: Rank rose by +4
-- **[Rank Rise]** `RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM`: Rank rose by +4
-- **[Rank Rise]** `Closing the Loop: An Access-Control Architecture for Automated, Anomaly-Driven Network Revocation in IoT Deployments`: Rank rose by +4
-- **[Rank Rise]** `Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model`: Rank rose by +4
-- **[Rank Rise]** `Extending LLM Context via Associative Recurrent Memory`: Rank rose by +4
-- **[Rank Rise]** `Technical Report on the CVPR 2026@AdvML Workshop Challenge`: Rank rose by +4
-- **[Rank Rise]** `Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos`: Rank rose by +4
-- **[Rank Rise]** `Toward Inclusive Avatar Design with Limb Differences Through Artificial Intelligence`: Rank rose by +4
-- **[Rank Rise]** `See like a Robot: Robot-Centric Pointmaps for Vision-Language-Action Models`: Rank rose by +4
-- **[Rank Rise]** `LightMem-Ego: Your AI Memory for Everyday Life`: Rank rose by +4
-- **[Rank Rise]** `A Multimodal Dataset for Large Language Model Applications in the Energy Domain`: Rank rose by +4
-- **[Rank Rise]** `Uncertainty Quantification for EO Regression Tasks: Building Height, Tree Canopy Height and Above-ground Biomass Estimation`: Rank rose by +4
-- **[Rank Rise]** `Agentic Routing: The Harness-Native Data Flywheel`: Rank rose by +4
-- **[Rank Rise]** `A Glimpse into Long-term Physical Coexistence with Intelligent Robots`: Rank rose by +4
-- **[Rank Rise]** `Beyond Sally-Anne: Evaluating Theory of Mind in LLMs using Epistemic Schelling Points`: Rank rose by +4
-- **[Rank Rise]** `Understanding the Impact of AI Code Assistants on Security API Usage: An Empirical Study`: Rank rose by +4
-- **[Rank Rise]** `Longitudinal Multi-View Breast Cancer Risk Prediction`: Rank rose by +4
-- **[Rank Rise]** `Fail-Aware and Explainable Test Oracle Prediction`: Rank rose by +4
-- **[Rank Rise]** `Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis`: Rank rose by +4
-- **[Rank Rise]** `The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students`: Rank rose by +4
-- **[Rank Rise]** `Mako: A Self-Evolving Agentic Operating System (SE-AOS) for Autonomous Web Exploitation`: Rank rose by +4
-- **[Rank Rise]** `A Unified Framework for Comprehensive Cardiac CT Segmentation and Phenotyping: Human-in-the-Loop Data Annotation, Vision Foundation Model Development, Multicenter Evaluation and Clinical Validation`: Rank rose by +4
-- **[Rank Rise]** `Automated Textbook Auditing with Multi-Agent LLM Systems`: Rank rose by +4
-- **[Rank Rise]** `Towards Predictive, Aligned, and Scalable Robot Learning`: Rank rose by +4
-- **[Rank Rise]** `Enhancing LLMs through human feedback: a journey towards self-improvement`: Rank rose by +4
-- **[Rank Rise]** `Multi-Agent LLMs Fail to Explore Each Other`: Rank rose by +4
-- **[Rank Rise]** `An Empirical Study for GUI Test Migration from Android to OpenHarmony System`: Rank rose by +4
-- **[Rank Rise]** `DeepBias: Adaptive In-depth Probing of Social Biases in LVLMs`: Rank rose by +4
-- **[Rank Rise]** `HandFlow: Fully Generative 4D Hand Recovery with Flow Matching`: Rank rose by +4
-- **[Rank Rise]** `ProgramTab: Boosting Table Reasoning of LLMs via Programmatic Paradigm`: Rank rose by +4
-- **[Rank Rise]** `RepTran: Search-Based Repair of Transformer Models`: Rank rose by +4
-- **[Rank Rise]** `AMT-X: Phase-Structured Multi-Turn Red-Teaming with Checklist-Gated Evaluation`: Rank rose by +4
-- **[Rank Rise]** `BeatEdit: Symbolic Music Generation as Explicit Editing`: Rank rose by +4
-- **[Rank Rise]** `VIA: Visual Interface Agent for Robot Control`: Rank rose by +4
-- **[Rank Rise]** `MusicMark: A Robust Generative Watermarking Framework for Music Generation`: Rank rose by +4
-- **[Rank Rise]** `AgentCheck: A Reproduce-Intervene-Mitigate Workbench for LLM Agents over MCP`: Rank rose by +4
-- **[Rank Rise]** `Controlling Motion Transfer in Diffusion Transformers via Attention Heads`: Rank rose by +4
-- **[Rank Rise]** `Do Video-LLMs Actually Watch? Diagnosing Character-Tracking Failures in Long-Form Video`: Rank rose by +4
-- **[Rank Rise]** `Flout at Your Own Risk: LLMs Struggle with Pragmatic Cooperativity Under Epistemic Asymmetry`: Rank rose by +4
-- **[Rank Rise]** `BackendForge: Benchmarking Agentic End-to-End Code Generation with Backend Services`: Rank rose by +4
-- **[Rank Rise]** `Same Stories, Different Journeys: From Social Comparison to Sensemaking in AI-Mediated Peer Career Exploration`: Rank rose by +4
-- **[Rank Rise]** `SynCLIP: Synonym-Coherent Language-Image Pretraining for Robust Open-Vocabulary Dense Perception`: Rank rose by +4
-- **[Rank Rise]** `Affordance-Based Manipulation Planning with Text Goals and Sim-to-Real Generalisation via Real-to-Sim Image Conversion`: Rank rose by +4
-- **[Rank Rise]** `LoSA-Net: A Localized and Scale-Adaptive Network for Boundary-Sensitive Prediction of Perineural Invasion in 3D MRI`: Rank rose by +4
-- **[Rank Rise]** `Think When It Matters: Conditional VLM Reasoning for Social Navigation with RL Policies`: Rank rose by +4
-- **[Rank Rise]** `MMA-Former: Multi-Window Mixture-of-Head Attention Transformer for Adaptive PNI Prediction in 3D MRI`: Rank rose by +4
-- **[Rank Rise]** `Edge Physical AI Deployment of Vision Transformers on Heterogeneous Edge GPU Targeting Autonomous Vehicles`: Rank rose by +4
-- **[Rank Rise]** `The Nuts and Bolts of Natural Language to SQL Translation: A Systematic Analysis of Model Pipeline Optimisation Approaches and their Interactions`: Rank rose by +4
-- **[Rank Rise]** `How Do Practitioners Build SE Agents? Insights from a Mixed-Methods Study`: Rank rose by +4
-- **[Rank Rise]** `3D-DefectBench: A Controlled Factorial Study of Vision-Language Model Evaluation Pipelines for Fine-Grained 3D Generation Defects`: Rank rose by +4
-- **[Rank Rise]** `Auditing Belief-Conditioned LLM Agents in Hidden-Information Social Deduction Games`: Rank rose by +4
-- **[Rank Rise]** `Distributed Agent System: Fault-Tolerant Collaboration Among Embodied Agents`: Rank rose by +4
-- **[Rank Rise]** `Abstractiveness Metrics for Evaluating Text Summarization: A Refined Formulation with Empirical Validation`: Rank rose by +4
-- **[Rank Rise]** `A Corpus of Persuasion Techniques in Slavic Languages`: Rank rose by +4
-- **[Rank Rise]** `Distributed Denial of Science: How Indirect Data Poisoning of AI Systems Can Industrialize Scientific Fraud`: Rank rose by +4
-- **[Rank Rise]** `PromptGraph: Graph-Guided Prompt Sanitization for Balancing Privacy and Utility in LLM Inference`: Rank rose by +4
-- **[Rank Rise]** `Commenting with Copilot: A Taxonomy and Multi-Year Analysis of Student Code-Generation Specifications`: Rank rose by +4
-- **[Rank Rise]** `Unlocking Parallelism in Autoregressive Language Models via Speculative Decoding with Progressive Tree Drafting`: Rank rose by +4
-- **[Rank Rise]** `Coverage Path Planning: Classical Foundations, Recent Advances, and Future Directions`: Rank rose by +4
-- **[Rank Rise]** `World Models as Adversaries: Multi-Agent Self-Play Fine-Tuning for Robust Motion Planning`: Rank rose by +4
-- **[Rank Rise]** `Anamnesis: An Open-Source Platform for Large-Scale Backstory-Conditioned Survey Simulation`: Rank rose by +4
-- **[Rank Rise]** `WasteAssistant: Regulation-Guided Visual Question Answering Framework for Intelligent Waste Segregation and Sustainable Managemen`: Rank rose by +4
-- **[Rank Rise]** `DiffUE: Enhancing Utility-Unlearnability Trade-off of Unlearnable Examples via Diffusion Autoencoders`: Rank rose by +4
-- **[Rank Rise]** `Tool-Adaptive LLM Reranker`: Rank rose by +4
-- **[Rank Rise]** `Motif: Discovering and Automating Personal Web Workflows`: Rank rose by +4
-- **[Rank Rise]** `Towards Autonomous and Auditable Medical Imaging Model Development`: Rank rose by +4
-- **[Rank Rise]** `Confining Nondeterminism: AI-Driven Research Systems as DBMSs for Reliable, Non-Wasteful, Transparent, and Collaborative Research [Vision]`: Rank rose by +4
-- **[Rank Rise]** `Temporary Authority, Permanent Effects: Commit-Time Authorization for LLM Agents`: Rank rose by +4
-- **[Rank Rise]** `Annotation-Free Furniture Codes: What They Encode, and How Far They Transfer`: Rank rose by +4
-- **[Rank Rise]** `Learning the Brain's Dynamics as a Port-Hamiltonian System`: Rank rose by +4
-- **[Rank Rise]** `Mitigating LLM Sycophancy in Code Smell Detection Using Evidence-Guided Reasoning Prompts`: Rank rose by +4
-- **[Rank Rise]** `Spatula: Exploring On-Demand In-Situ Interfaces and Interaction for Attribute Control`: Rank rose by +4
-- **[Rank Rise]** `Large Language Models in Misinformation Ecosystems: Misuse, Defense, and Vulnerability`: Rank rose by +4
-- **[Rank Rise]** `SynthDocBench: Controlled Benchmark for Long-Context Visual Document Understanding`: Rank rose by +4
-- **[Rank Rise]** `A Stepwise Questioning Expert-Editor Multi-Agent Framework for Long-Document Summarization`: Rank rose by +4
-- **[Rank Rise]** `The evolution of AI from image interpretation toward scientific inference in nanoparticle electron microscopy`: Rank rose by +4
-- **[Rank Rise]** `Structured Thoughts For Improved Reasoning And Context Pruning`: Rank rose by +4
-- **[Rank Rise]** `ABot-N1: Toward a General Visual Language Navigation Foundation Model`: Rank rose by +4
-- **[Rank Rise]** `VINE: Taming Generative Control Policies for Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Benchmarking the Robustness of Foundation Models for Mammography under Domain Shift`: Rank rose by +4
-- **[Rank Rise]** `GRC-ProbNet: Uncertainty-aware Feature Extraction for Cardiovascular Disease Classification`: Rank rose by +4
-- **[Rank Rise]** `From Stochastic to Stable: Rank Stability and Structural Sufficiency in AI Visibility Measurement`: Rank rose by +4
-- **[Rank Rise]** `Neutralizing Structural Inequality in the Nigerian FinTech Sector`: Rank rose by +4
-- **[Rank Rise]** `Polarization Detection: A Hybrid Approach with AfroXLMR-Social and DeBERTa for Low- and High-Resource Settings`: Rank rose by +4
-- **[Rank Rise]** `Program-Synthesis-Driven Autodesign of Universal Unitary Operators`: Rank rose by +4
-- **[Rank Rise]** `Partial Contracts Suffice: Sound, LLM-Inferred Regression Verification`: Rank rose by +4
-- **[Rank Rise]** `PhenoEmbed: Self-Supervised Multispectral UAV Time-Series Embeddings for Individual Tree Crown Phenology`: Rank rose by +4
-- **[Rank Rise]** `Source-Lifted Flow Matching for Intervenable Multimodal Imitation`: Rank rose by +4
-- **[Rank Rise]** `Comparing Socially-Equitable Renewable Energy Budget Allocation MDP Policies in Mature and Emerging Economies`: Rank rose by +4
-- **[Rank Rise]** `Instruction Set and Language for Hypergraphs`: Rank rose by +4
-- **[Rank Rise]** `Breaking the Quality--Intelligibility Trade-off in Streaming Target Speaker Extraction via Deep-Feature-Anchored Preference Optimization`: Rank rose by +4
-- **[Rank Rise]** `ActiveFly-Bench: Aligning Embodied Question Answering with Vision-Language-Action for Aerial Embodied Perception`: Rank rose by +4
-- **[Rank Rise]** `Transcript-Free Lightweight Detection of Alzheimer's Disease from Spontaneous Speech Using Handcrafted MFCC-Dominant Acoustic Biomarkers`: Rank rose by +4
-- **[Rank Rise]** `EmoStyle: Affective Conditioning of Style-Specialist Experts for Emotional Image Generation`: Rank rose by +4
-- **[Rank Rise]** `FlowPainter: Inpainting Optical Flow via Confidence-Guided Completion`: Rank rose by +4
-- **[Rank Rise]** `ML in a Box: Analyzing Containerization Practices in Open Source ML Projects`: Rank rose by +4
-- **[Rank Rise]** `A Large-Scale Dataset of MCP Implementations on GitHub`: Rank rose by +4
-- **[Rank Rise]** `Minionese: Comprehensive Benchmark and Mechanistic Study of Multilingual LLM Safety`: Rank rose by +4
-- **[Rank Rise]** `Efficiently Adapting Spoken Language Models for the Singaporean Context`: Rank rose by +4
-- **[Rank Rise]** `Quantum Circuit Vision: Cost-Aware Evaluation of Visual AI Agents for Quantum Code Generation`: Rank rose by +4
-- **[Rank Rise]** `Geometric mean-based pairwise comparison method with the reference values -- statistical approach`: Rank rose by +4
-- **[Rank Rise]** `FindMyText: Robust, Scalable Detection of Text Containment in Large Web-Crawled Corpora`: Rank rose by +4
-- **[Rank Rise]** `An LLM-powered Agentic Recommendation System for Connected TV Content Discovery`: Rank rose by +4
-- **[Rank Rise]** `A Production-Oriented Framework for Evaluation of SFX Generation`: Rank rose by +4
-- **[Rank Rise]** `Workload-Driven Optimization for On-Device Real-Time Subtitle Translation`: Rank rose by +4
-- **[Rank Rise]** `Faithful by Design: Evaluating and Improving LLM-Generated Clinical Trial Summaries for Multi-Stakeholder Audiences`: Rank rose by +4
-- **[Rank Rise]** `Do These Violent Delights Have Violent Ends? Measuring the Post-Merge Fate of Agentic Code`: Rank rose by +4
-- **[Rank Rise]** `Next-Dense-Stride Prediction for Multimodal Autoregressive Visual Modeling`: Rank rose by +4
-- **[Rank Rise]** `What You Train Is What You Get: Gender Bias, Training Composition, and Post-Hoc Mitigation in Audio Deepfake Detection`: Rank rose by +4
-- **[Rank Rise]** `CLIR-Bench: Benchmarking Multimodal Question Answering over Irregular Clinical Time Series`: Rank rose by +4
-- **[Rank Rise]** `Prompting-MammAlps: Fine-Grained Text-to-Video Retrieval for Camera-Trap Data`: Rank rose by +4
-- **[Rank Rise]** `Robo-ValueRL: Reliable Value Estimation for Offline-to-Online Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Towards Objective Dysgraphia Detection: A Multi-Branch Deep Learning Approach for Online Handwriting Analysis`: Rank rose by +4
-- **[Rank Rise]** `More Structure, Not More Capacity: Object-Centric Representations for Visuomotor Imitation Learning`: Rank rose by +4
-- **[Rank Rise]** `Memory-Conditioned Tool Calling for Camera-First Visual Agents`: Rank rose by +4
-- **[Rank Rise]** `TS-Mask VLA: 2D Temporal-Spatial Masking for Vision-Language-Action Model with Effective Bridging`: Rank rose by +4
-- **[Rank Rise]** `An Autonomous Scientific Knowledge Generation Framework for AI-Driven Scientific Discovery`: Rank rose by +4
-- **[Rank Rise]** `A Unified Model for Highly Accurate ECG-Free Dynamic Coronary Roadmapping Using Spatio-Temporal Transformers`: Rank rose by +4
-- **[Rank Rise]** `Trivial Prompt Reframing Bypasses Safety Guardrails in Google\'s MedGemma-4B`: Rank rose by +4
-- **[Rank Rise]** `Large Multimodal Model-Based Environment-Aware Mobility Management`: Rank rose by +4
-- **[Rank Rise]** `A Comprehensive Survey and Systematic Real-World Evaluation of Embodied Vision-and-Language Navigation`: Rank rose by +4
-- **[Rank Rise]** `Lifelong Representations: A Survey on Continual Self-Supervised Learning for Vision Models`: Rank rose by +4
-- **[Rank Rise]** `Maximizing Human Efficiency in Large-Scale Robot Post-Training via VLAC-Cut Guided Pipeline`: Rank rose by +4
-- **[Rank Rise]** `Listen to the Features: Voice Anonymization Driven by Content Embedding Matching over Signal Reconstruction`: Rank rose by +4
-- **[Rank Rise]** `OmniSCS: Omni Safety-Critical Scenario Synthesis for Autonomous Driving via a Fully Editable Driving World`: Rank rose by +4
-- **[Rank Rise]** `Physics-Informed Structure Anchoring With Capture-Aware Prototype Calibration for Cross-Environment RF Fingerprinting`: Rank rose by +4
-- **[Rank Rise]** `ReflectWorld-MM: An Entity-Oriented Multi-Media Memory System for Open-Ended Video Streams`: Rank rose by +4
-- **[Rank Rise]** `RSLoRA: Training-free Rank Allocation for LoRA via Representational Sensitivity Probing`: Rank rose by +4
-- **[Rank Rise]** `Data-Driven Forward and Inverse Modeling of V-Beam Thermal Sensors`: Rank rose by +4
-- **[Rank Rise]** `SWIFT: A Small-World Interaction Framework for Flow-Aware Trajectory Prediction in Autonomous Driving`: Rank rose by +4
-- **[Rank Rise]** `The Universal Language of CSI:Unifying Wireless Sensing Across Devices and Environments`: Rank rose by +4
-- **[Rank Rise]** `The Ramanujan Challenge For AI`: Rank rose by +4
-- **[Rank Rise]** `Reverse Engineering Compliance: A Dual-Graph Verification Framework for Auditing Legacy IT Security Concepts`: Rank rose by +4
-- **[Rank Rise]** `Playful AI in Professional Email: A Field Experiment on Tone and Recipient Engagement`: Rank rose by +4
-- **[Rank Rise]** `Think Through a Bottleneck: Hourglass Reasoning for Rigorous Induction`: Rank rose by +4
-- **[Rank Rise]** `Interaction Scaling: Grounding the Third Axis of Test-Time Compute`: Rank rose by +4
-- **[Rank Rise]** `MAGIC: Transition-Aware Generation of Navigable Multi-Scene Game Worlds with Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `HCRMap: Pressure-Aware Hot-Expert Residency Mapping for 3.5D MoE Chiplet Inference`: Rank rose by +4
-- **[Rank Rise]** `Comparative Analysis of GAT and BERT for Human-Like Playtesting`: Rank rose by +4
-- **[Rank Rise]** `Enhancing Query Efficiency for d-DNNF Representations Through Preprocessing`: Rank rose by +4
-- **[Rank Rise]** `The Ebb and Flow of Multimodal Focus: Scheduling Visual Relay Windows for Grounded VLM Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Omni-Decision: A Progressive Evidence-State Agent System for Omni-Modal QA`: Rank rose by +4
-- **[Rank Rise]** `OpsMem: Dual-Memory Reasoning with Cross-Memory Resonance for Failure Diagnosis`: Rank rose by +4
-- **[Rank Rise]** `From Neural Network Decisions to Training Cases: An Exact Account via Case-Based Decision Theory`: Rank rose by +4
-- **[Rank Rise]** `Compile, Then Page: Executable SOP Programs and a Capability-Gated Runtime for Procedural LLM Agents`: Rank rose by +4
-- **[Rank Rise]** `AutoVSR: Automatic Visual-to-Symbolic Reasoning for Symbolic Expression Generation from Circuit Schematic`: Rank rose by +4
-- **[Rank Rise]** `Verifier-Guided Twelve-Tone Composition: A Generate-Verify-Repair Harness for Symbolic Music Generation`: Rank rose by +4
-- **[Rank Rise]** `Calibrated e-CUSUM Decoding for Quantized Reasoning Models: Why Token Log-Probability Is the Wrong Observable for Decoding Monitors`: Rank rose by +4
-- **[Rank Rise]** `Efficient Test-Time Optimization for Multi-Agent Proof Autoformalization`: Rank rose by +4
-- **[Rank Rise]** `Valid $\ne$ Necessary: Diagnosing Latent Inefficiency in Chain-of-Thought`: Rank rose by +4
-- **[Rank Rise]** `Heterogeneous Agent Cohorts for Safe Open-Ended Exploration with Runtime Constraint Memory`: Rank rose by +4
-- **[Rank Rise]** `What We Talk About When We Talk About LLM Planning: Evidence for Two Distinct Planning Abilities`: Rank rose by +4
-- **[Rank Rise]** `SCALECUA: Scaling Computer Use Agents with Verifiable Task Synthesis and Efficient Online RL`: Rank rose by +4
-- **[Rank Rise]** `The Path to Self-Evolving Clinical Systems: Scaling Medical Agents from Assistance to Autonomy`: Rank rose by +4
-- **[Rank Rise]** `The Hidden Footprint: Making Storage a First-Class Metric for LLM Agent Evaluation`: Rank rose by +4
-- **[Rank Rise]** `NextFund: A Unified Performance Tracking Platform for Agentic Portfolio Management`: Rank rose by +4
-- **[Rank Rise]** `OS-Pruner: Pruning Chains-of-Thought of Reasoning Models via Optimal Stopping`: Rank rose by +4
-- **[Rank Rise]** `NVAITC AI Scientist: A Governed End-to-End Research System -- A Hypertension GWAS Case Study`: Rank rose by +4
-- **[Rank Rise]** `Are LLMs Ready for Scientific Discovery? A Capability-Oriented Benchmark for AI Scientists`: Rank rose by +4
-- **[Rank Rise]** `AdvNav: Behavior-Guided Black-Box Adversarial Attacks on Vision-Language Navigation`: Rank rose by +4
-- **[Rank Rise]** `QwenPaw-Data: Bridging Facts, Methodology, and Execution for Autonomous Enterprise Data Analytics`: Rank rose by +4
-- **[Rank Rise]** `From Checker to Forecaster: Code-Owned Evaluation of Model-Generated Strategic Routes Under Delayed Ground Truth`: Rank rose by +4
-- **[Rank Rise]** `SVR-R1: Bootstrapping Multi-modal Reasoning with Self-verification in Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Learning Linear Temporal Specifications from Demonstrations with Uncertainty`: Rank rose by +4
-- **[Rank Rise]** `Incremental Transformer for Surrogate-Based Inverse Design of Geopolymer Mixtures`: Rank rose by +4
-- **[Rank Rise]** `SETA: Scaling Environments for Terminal Agents`: Rank rose by +4
-- **[Rank Rise]** `First-Order Modal Logic in HOL: Deep and Shallow Embeddings with Automated Faithfulness (Extended Preprint)`: Rank rose by +4
-- **[Rank Rise]** `LOGOS: A Living Logic for AI Agent Teams That Evolve With Humans`: Rank rose by +4
-- **[Rank Rise]** `Toward Contemplative LLM: A Modular Framework for Evaluating and Enhancing LLM Alignment in Mental Health`: Rank rose by +4
-- **[Rank Rise]** `STEC: Evidence Compression for Deep Search in Open-domain Multi-Hop QA`: Rank rose by +4
-- **[Rank Rise]** `Imaging-101: Benchmarking LLM Coding Agents on Scientific Computational Imaging`: Rank rose by +4
-- **[Rank Rise]** `Opti-Agent-Bench: Benchmarking End-to-End Optimization R&D Agents on Real-World Business Problems`: Rank rose by +4
-- **[Rank Rise]** `Personalized Emotional Intelligence in Generative AI through Symbolic Affective Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Embark Now: User Demand Oriented Framework for Multi-day Urban Travel Itinerary Planning`: Rank rose by +4
-- **[Rank Rise]** `The Compliance Trap: Diagnosing How AI Agents Consume Conflicting Memory`: Rank rose by +4
-- **[Rank Rise]** `Agentic-DPO: From Imitation to Agentic Policy Optimization on Expert Trajectories`: Rank rose by +4
-- **[Rank Rise]** `MRUF: Multi-granularity Routing with Uncertainty-Aware Fusion for Robust Multimodal Sentiment Analysis`: Rank rose by +4
-- **[Rank Rise]** `Constraint-Aware Hierarchical Search for Regulation-Driven Fine-Grained Classification`: Rank rose by +4
-- **[Rank Rise]** `Laguerre Geometry for Interpreting Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `CRiT-QA: Evaluating Multi-hop Reasoning with Counterfactual Chains and Distractor Traps`: Rank rose by +4
-- **[Rank Rise]** `Large language model agents accelerate inverse design of metal-organic frameworks for gas separation`: Rank rose by +4
-- **[Rank Rise]** `AI YOU Town: Make Friends and Money with Your Digital Twin`: Rank rose by +4
-- **[Rank Rise]** `Agents Don't Just Agree, They Remember: Benchmarking Persistent Sycophancy in Stateful Personal Agents`: Rank rose by +4
-- **[Rank Rise]** `GRASP: GRanularity-Aware Search Policy for Agentic RAG`: Rank rose by +4
-- **[Rank Rise]** `ANCHOR: Automated Alignment Auditing for CLI Agents on Real-World Harm`: Rank rose by +4
-- **[Rank Rise]** `Co4ICF: Co-evolving Physics-Informed Surrogate and RL-based Pulse Optimizer for Inertial Confinement Fusion`: Rank rose by +4
-- **[Rank Rise]** `ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory`: Rank rose by +4
-- **[Rank Rise]** `Comparing Socio-technical Design Principles with Guidelines for Human-centered AI`: Rank rose by +4
-- **[Rank Rise]** `Measure the Sim-to-Real Gap: Designing an Affordable Real-World Benchmark Platform for Reinforcement Learning in AIoT Systems`: Rank rose by +4
-- **[Rank Rise]** `SPARK: Susceptibility-Guided Profiling and Steering of Latent Reasoning States in Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `Can Agentic Trading Systems Pay for Their Own Intelligence?`: Rank rose by +4
-- **[Rank Rise]** `Information-seeking failures of large language models in agentic clinical reasoning`: Rank rose by +4
-- **[Rank Rise]** `Behavioural Signatures of Risk-Sensitive Decision-Making in Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `When Are Sparse Feature Interventions Actually Localized? Matched Evaluation for SAE-Based Safety Control`: Rank rose by +4
-- **[Rank Rise]** `KGCQual: An Interpretable Framework for Evaluating the Knowledge Graph Construction Quality from Text`: Rank rose by +4
-- **[Rank Rise]** `GRATE: Temporal Extensions for Inductive KG Foundation Models via Gated Rotary Attention`: Rank rose by +4
-- **[Rank Rise]** `UNIT: Unleash Large Language Models Potential for Graph Continual Learning`: Rank rose by +4
-- **[Rank Rise]** `IdeaTrail: Full-Process Agent Trajectories for Scientific Ideation`: Rank rose by +4
-- **[Rank Rise]** `Dynamic Agent Skills: A Lifecycle Survey and Taxonomy of Evolving Skill Libraries`: Rank rose by +4
-- **[Rank Rise]** `Looped State-Space Language Models with Adaptive Exit-State Selection`: Rank rose by +4
-- **[Rank Rise]** `MAG: A Web-Agent Benchmark and Harness for Multimodal Action and Guide Generation`: Rank rose by +4
-- **[Rank Rise]** `From ambiguous utterances to governed reuse classes: canonicalization, quotient invariance, and conditional decidability`: Rank rose by +4
-- **[Rank Rise]** `AgentAbstain: Do LLM Agents Know When Not to Act?`: Rank rose by +4
-- **[Rank Rise]** `Who&When Pro: Can LLMs Really Attribute Failures in AI Agents?`: Rank rose by +4
-- **[Rank Rise]** `TopoExplore: Topological Discrimination for Archive-Based Exploration`: Rank rose by +4
-- **[Rank Rise]** `Exploring Agentic Workflows for Generating High Quality Math Visual Aids`: Rank rose by +4
-- **[Rank Rise]** `Agentic Context Learning with Self-Discovered Specification`: Rank rose by +4
-- **[Rank Rise]** `Semantic Drift and the Stability of Operator Control in Reasoning-Class Decision Support Systems`: Rank rose by +4
-- **[Rank Rise]** `PHITSBench: an execution-scored benchmark for AI-assisted PHITS radiation-transport input generation using natural language`: Rank rose by +4
-- **[Rank Rise]** `From Patterns to Maze Structures: SMT-Based Path Synthesis and 2D/3D Construction`: Rank rose by +4
-- **[Rank Rise]** `Verification of Adaptive Agentic Controllers through Finite Rule Revision`: Rank rose by +4
-- **[Rank Rise]** `How Much Does Correctness Cost? Budgeted Placement of Strong Correctors in a Weak Multi-Agent Swarm`: Rank rose by +4
-- **[Rank Rise]** `BatteryLake: Agentic, Physics-Grounded Curation of Heterogeneous Battery Aging Data and Benchmarking`: Rank rose by +4
-- **[Rank Rise]** `LegalFarePlan: A Label-Setting Framework for Fare-Transparent Urban Rail Route Planning under Non-Additive Fare Rules`: Rank rose by +4
-- **[Rank Rise]** `Replicating Belief, Not Bits: Epistemic State Replication for Agentic Systems`: Rank rose by +4
-- **[Rank Rise]** `A Theory of Least Autonomy in AI`: Rank rose by +4
-- **[Rank Rise]** `Scaffolding the Strategist: Architecture-Dependent Reasoning Interventions in Hotelling Spatial Markets`: Rank rose by +4
-- **[Rank Rise]** `A Dynamic Scene Interaction Reasoning Framework for Scene-level Lane-Change Intention and Trajectory Prediction of Multiple Interacting Vehicles`: Rank rose by +4
-- **[Rank Rise]** `Coresets Before Score Sets: Evaluation-Unsupervised Prompt Subset Selection for LLM Benchmarks`: Rank rose by +4
-- **[Rank Rise]** `AGM-like Paraconsistent Partial Meet Abductive Expansion Operation`: Rank rose by +4
-- **[Rank Rise]** `Feedback-Coupled Memory Systems in Continuous Time`: Rank rose by +4
-- **[Rank Rise]** `Closed-Loop Control with Rule-Aligned Small Language Models and Multi-Agent Self-Correction`: Rank rose by +4
-- **[Rank Rise]** `The Verifier is the Curriculum: Execution-Gated Self-Distillation for Cross-Family Game Generation`: Rank rose by +4
-- **[Rank Rise]** `Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes`: Rank rose by +4
-- **[Rank Rise]** `From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation`: Rank rose by +4
-- **[Rank Rise]** `SUNTA: Hierarchical Video Prediction with Surprise-based Chunking`: Rank rose by +4
-- **[Rank Rise]** `Optimal scaling of MCMC algorithms: the Hamiltonian approach`: Rank rose by +4
-- **[Rank Rise]** `Freeform Preference Learning for Robotic Manipulation`: Rank rose by +4
-- **[Rank Rise]** `Safety from Honesty in a Disinterested AI Predictor`: Rank rose by +4
-- **[Rank Rise]** `Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction`: Rank rose by +4
-- **[Rank Rise]** `Betting on Moments: Legendre Jumper Martingales for Online Exchangeability Testing`: Rank rose by +4
-- **[Rank Rise]** `Let It Be Simple: One-Step Action Generation for Vision-Language-Action Models`: Rank rose by +4
-- **[Rank Rise]** `Branched Signature Kernel Solvers for ODEs with rough Single-Trajectory signals`: Rank rose by +4
-- **[Rank Rise]** `Community-Aware Vertex Ordering for Reference-Based Graph Compression: A Cross-Encoder Empirical Study`: Rank rose by +4
-- **[Rank Rise]** `Recursive Multi-Agent Systems`: Rank rose by +4
-- **[Rank Rise]** `Ideological Bias in LLMs' Economic Causal Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Algorithm Selection with Zero Domain Knowledge via Text Embeddings`: Rank rose by +4
-- **[Rank Rise]** `Fairness Constraints in High-Dimensional Generalized Linear Models`: Rank rose by +4
-- **[Rank Rise]** `BARD: Bridging AutoRegressive and Diffusion Vision-Language Models Via Highly Efficient Progressive Block Merging and Stage-Wise Distillation`: Rank rose by +4
-- **[Rank Rise]** `SegWithU: Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation`: Rank rose by +4
-- **[Rank Rise]** `Rare Event Analysis via Stochastic Optimal Control`: Rank rose by +4
-- **[Rank Rise]** `StanceMoE: Mixture-of-Experts Architecture for Stance Detection`: Rank rose by +4
-- **[Rank Rise]** `An Empirical Recipe for Universal Phone Recognition`: Rank rose by +4
-- **[Rank Rise]** `Tokenization vs. Augmentation: A Systematic Study of Writer Variance in IMU-Based Online Handwriting Recognition`: Rank rose by +4
-- **[Rank Rise]** `An Approximate Graph Elicits Detonation Lattice`: Rank rose by +4
-- **[Rank Rise]** `Bilateral Trade Under Heavy-Tailed Valuations: Minimax Regret with Infinite Variance`: Rank rose by +4
-- **[Rank Rise]** `Context-Dependent Affordance Computation in Vision-Language Models`: Rank rose by +4
-- **[Rank Rise]** `MetaState: Persistent Working Memory Enhances Reasoning in Discrete Diffusion Language Models`: Rank rose by +4
-- **[Rank Rise]** `Precedence-Constrained Decision Trees and Coverings`: Rank rose by +4
-- **[Rank Rise]** `Bures-Wasserstein Importance-Weighted Evidence Lower Bound: Exposition and Applications`: Rank rose by +4
-- **[Rank Rise]** `FineInstructions: Scaling Synthetic Instructions to Pre-Training Scale`: Rank rose by +4
-- **[Rank Rise]** `PUMA: Perception-driven Unified Foothold Prior for Mobility Augmented Quadruped Parkour`: Rank rose by +4
-- **[Rank Rise]** `Reinforcement Learning in the Real World: A Survey of Statistical Challenges and Future Directions`: Rank rose by +4
-- **[Rank Rise]** `Accelerated MR Elastography Using Learned Neural Network Representation`: Rank rose by +4
-- **[Rank Rise]** `Self-Creating Random Walks for Decentralized Learning under Pac-Man Attacks`: Rank rose by +4
-- **[Rank Rise]** `NMIRacle: Multi-modal Generative Molecular Elucidation from IR and NMR Spectra`: Rank rose by +4
-- **[Rank Rise]** `An Elementary Proof of the Near Optimality of LogSumExp Smoothing`: Rank rose by +4
-- **[Rank Rise]** `Graph-Based Bayesian Optimization for Quantum Circuit Architecture Search with Uncertainty Calibrated Surrogates`: Rank rose by +4
-- **[Rank Rise]** `On the Condition Number Dependency in Bilevel Optimization`: Rank rose by +4
-- **[Rank Rise]** `SPQR: A Multi-Dimensional Benchmark for Safety Alignment under Benign Model Adaptation`: Rank rose by +4
-- **[Rank Rise]** `Towards Blind Lens Aberration Correction via Large LensLib Pre-training and Discrete Degradation Priors`: Rank rose by +4
-- **[Rank Rise]** `Online conformal inference with retrospective adjustment for faster adaptation to distribution shift`: Rank rose by +4
-- **[Rank Rise]** `Redundancy Maximization as a Principle of Associative Memory Learning in Hopfield Networks`: Rank rose by +4
-- **[Rank Rise]** `Monitoring the calibration of probability forecasts with an application to concept drift detection involving image classification`: Rank rose by +4
-- **[Rank Rise]** `Oracle-Efficient Combinatorial Semi-Bandits`: Rank rose by +4
-- **[Rank Rise]** `Survival of the fittest Cox model: Pivotal variable selection for time-to-event data`: Rank rose by +4
-- **[Rank Rise]** `Learnable Mixed Nash Equilibria are Collectively Rational`: Rank rose by +4
-- **[Rank Rise]** `Exact Dynamics of Multi-class Stochastic Gradient Descent`: Rank rose by +4
-- **[Rank Rise]** `Efficient Group Lasso Regularized Rank Regression with Simulation-Based Tuning`: Rank rose by +4
-- **[Rank Rise]** `Maximum diversity and weighting for invariants of periodic time series`: Rank rose by +4
-- **[Rank Rise]** `Forecasting Generative Amplification`: Rank rose by +4
-- **[Rank Rise]** `Likelihood Matching for Diffusion Models`: Rank rose by +4
-- **[Rank Rise]** `Detecting and measuring respiratory events in horses during exercise with a microphone: deep learning vs. standard signal processing`: Rank rose by +4
-- **[Rank Rise]** `funOCLUST: Clustering Functional Data with Outliers`: Rank rose by +4
-- **[Rank Rise]** `Neural Human Pose Prior`: Rank rose by +4
-- **[Rank Rise]** `Generalized and Unified Equivalences between Hardness and Pseudoentropy`: Rank rose by +4
-- **[Rank Rise]** `Gaussian Invariant Markov Chain Monte Carlo`: Rank rose by +4
-- **[Rank Rise]** `Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Understanding`: Rank rose by +4
-- **[Rank Rise]** `Parameter estimation for land-surface models using Neural Physics`: Rank rose by +4
-- **[Rank Rise]** `A Provably Convergent Plug-and-Play Framework for Stochastic Bilevel Optimization`: Rank rose by +4
-- **[Rank Rise]** `A computational model of infant sensorimotor exploration in the mobile paradigm`: Rank rose by +4
-- **[Rank Rise]** `Hyperflux: Pruning Reveals Importance`: Rank rose by +4
-- **[Rank Rise]** `Measuring AI Ability to Complete Long Software Tasks`: Rank rose by +4
-- **[Rank Rise]** `SpurLens: Automatic Detection of Spurious Cues in Multimodal LLMs`: Rank rose by +4
-- **[Rank Rise]** `Disentangling Feature Structure: A Mathematically Provable Two-Stage Training Dynamics in Transformers`: Rank rose by +4
-- **[Rank Rise]** `Low-dimensional adaptation of diffusion models: Convergence in total variation`: Rank rose by +4
-- **[Rank Rise]** `Big data approach to Kazhdan-Lusztig polynomials`: Rank rose by +4
-- **[Rank Rise]** `HiQA: A Hierarchical Contextual Augmentation RAG for Multi-Documents QA`: Rank rose by +4
-- **[Rank Rise]** `Interventions Against Machine-Assisted Statistical Discrimination`: Rank rose by +4
-- **[Rank Rise]** `Research on Intellectual Property Resource Profile and Evolution Law`: Rank rose by +4
-- **[Rank Rise]** `Bridging the Gap Between Latent and Explicit Reasoning with Looped Transformers`: Rank rose by +4
-- **[Rank Rise]** `Multi-Agent Routing as Set-Valued Prediction: A WildChat Benchmark and Cost-Aware Evaluation`: Rank rose by +4
-- **[Rank Rise]** `FAST: A Framework for Aligned Sampling and Training in Parallel Reinforcement Learning for Autonomous Driving`: Rank rose by +4
-- **[Rank Rise]** `Detecting Explanatory Insufficiency in Learned Representations: A Framework for Representational Vigilance`: Rank rose by +4
-- **[Rank Rise]** `The Injection Paradox: Brand-Level Suppression in Safety-Trained LLM Recommendations via RAG Context Injection`: Rank rose by +4
-- **[Rank Rise]** `Bootstrap Theory of Representational Emergence: Explanatory Insufficiency as a Driver of Representation Learning and World Models`: Rank rose by +4
-- **[Rank Rise]** `Online KL-Regularized Reinforcement Learning with Function Approximation under Misspecification`: Rank rose by +4
-- **[Rank Rise]** `IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning`: Rank rose by +4
-- **[Rank Rise]** `Revisiting Neural Processes via Fourier Transform and Volterra Series`: Rank rose by +4
-- **[Rank Rise]** `Student Capacity Moderates Knowledge Distillation Effectiveness: A Systematic Study Across ResNet Teacher-Student Pairs on CIFAR-10`: Rank rose by +4
-- **[Rank Rise]** `Prune, Update and Trim: Robust Structured Pruning for Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `From Observed Viability to Internal Predictive Approximation: A Single-Subject Latent-Space Analysis of Gait Dynamics Under Occlusal Constraint`: Rank rose by +4
-- **[Rank Rise]** `Causal Foundation Models with Continuous Treatments`: Rank rose by +4
-- **[Rank Rise]** `Selective Safety Steering via Value-Filtered Decoding`: Rank rose by +4
-- **[Rank Rise]** `CTFusion: A CTF-based Benchmark for LLM Agent Evaluation`: Rank rose by +4
-- **[Rank Rise]** `COSMOS: Model-Agnostic Personalized Federated Learning with Clustered Server Models and Pseudo-Label-Only Communication`: Rank rose by +4
-- **[Rank Rise]** `Attribution-Guided Continual Learning for Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `Retrieval with Multiple Query Vectors through Anomalous Pattern Detection`: Rank rose by +4
-- **[Rank Rise]** `Congestion-Aware Dynamic Axonal Delay for Spiking Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `Observable Performance Does Not Fully Reflect Adaptive System Organization: A Multi-Level Analysis of Gait Dynamics Under Occlusal Constraint`: Rank rose by +4
-- **[Rank Rise]** `ACES: Who Tests the Tests? Leave-One-Out AUC Consistency for Code Generation`: Rank rose by +4
-- **[Rank Rise]** `Neural Collapse Dynamics: Depth, Activation, Regularisation, and Feature Norm Threshold`: Rank rose by +4
-- **[Rank Rise]** `Critical Damping as a Momentum Schedule: Multi-Seed Validation, a Hybrid Recipe, and an Exhaustive Negative Result on Surgical Layer Selection`: Rank rose by +4
-- **[Rank Rise]** `The Cost of Reasoning: Chain-of-Thought Induces Overconfidence in Vision-Language Models`: Rank rose by +4
-- **[Rank Rise]** `Simple Recipe Works: Vision-Language-Action Models are Natural Continual Learners with Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `ECoLAD: Selecting Anomaly Detectors for Automotive Deployment via Compute-Reduction Evaluation`: Rank rose by +4
-- **[Rank Rise]** `Local Message-Passing for Discrete Graph Generation`: Rank rose by +4
-- **[Rank Rise]** `First-Order Softmax Weighted Switching Gradient Method for Distributed Stochastic Minimax Optimization with Stochastic Constraints`: Rank rose by +4
-- **[Rank Rise]** `Autocorrelation effects in a stochastic-process model for solving two-armed bandit problems`: Rank rose by +4
-- **[Rank Rise]** `Dynamics of Learning under User Choice: Overspecialization and Peer-Model Probing`: Rank rose by +4
-- **[Rank Rise]** `Turbo Connection: Reasoning as Information Flow from Higher to Lower Layers`: Rank rose by +4
-- **[Rank Rise]** `SynthSAEBench: Evaluating Sparse Autoencoders on Scalable Realistic Synthetic Data`: Rank rose by +4
-- **[Rank Rise]** `Probabilistic Wind Power Forecasting with Tree-Based Machine Learning and Weather Ensembles`: Rank rose by +4
-- **[Rank Rise]** `Separation-Utility Pareto Frontier: An Information-Theoretic Characterization`: Rank rose by +4
-- **[Rank Rise]** `Disentangling Intrinsic Importance from Emergent Structure in Multi-Expert Orchestration`: Rank rose by +4
-- **[Rank Rise]** `CoGenCast: A Coupled Autoregressive-Flow Generative Framework for Time Series Forecasting`: Rank rose by +4
-- **[Rank Rise]** `Rethinking Zero-Shot Time Series Classification: From Task-specific Classifiers to In-Context Inference`: Rank rose by +4
-- **[Rank Rise]** `Explainability Methods for Hardware Trojan Detection: A Systematic Comparison`: Rank rose by +4
-- **[Rank Rise]** `SFO: Learning PDE Operators via Spectral Filtering`: Rank rose by +4
-- **[Rank Rise]** `HyperNet-Adaptation for Diffusion-Based Test Case Generation`: Rank rose by +4
-- **[Rank Rise]** `Multimodal rumor detection enhanced by external evidence and forgery features`: Rank rose by +4
-- **[Rank Rise]** `TimeSAE: Causal Sparse Decoding for Faithful Explanations of Black-Box Time Series Models`: Rank rose by +4
-- **[Rank Rise]** `BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning`: Rank rose by +4
-- **[Rank Rise]** `Stable On-Policy Distillation through Adaptive Target Reformulation`: Rank rose by +4
-- **[Rank Rise]** `From Confounding to Learning: Dynamic Service Fee Pricing on Third-Party Platforms`: Rank rose by +4
-- **[Rank Rise]** `CUDA-L2: Surpassing cuBLAS Performance for Matrix Multiplication through Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Enhancing Adversarial Transferability through Block Stretch and Shrink`: Rank rose by +4
-- **[Rank Rise]** `Enabling Agents to Communicate Entirely in Latent Space`: Rank rose by +4
-- **[Rank Rise]** `Controllably Efficient Language Models`: Rank rose by +4
-- **[Rank Rise]** `CANDI: Hybrid Discrete-Continuous Diffusion Models`: Rank rose by +4
-- **[Rank Rise]** `OpenEM: Large-scale multi-structural 3D datasets for electromagnetic methods`: Rank rose by +4
-- **[Rank Rise]** `Enhancing Reasoning for Diffusion LLMs via Distribution Matching Policy Optimization`: Rank rose by +4
-- **[Rank Rise]** `Unveiling the Mechanisms of Multi-Hop Reasoning in Transformers via Identity Bridge`: Rank rose by +4
-- **[Rank Rise]** `Graph Optimization Foundation Model: Tokenizing Graph via A Language-Model Paradigm`: Rank rose by +4
-- **[Rank Rise]** `Beyond Slater's Condition in Online CMDPs with Stochastic and Adversarial Constraints`: Rank rose by +4
-- **[Rank Rise]** `A Data-Driven Interpolation Method on Smooth Manifolds via Diffusion Processes and Voronoi Tessellations`: Rank rose by +4
-- **[Rank Rise]** `Nested-ReFT: Efficient Reinforcement Learning for Large Language Model Fine-Tuning via Off-Policy Rollouts`: Rank rose by +4
-- **[Rank Rise]** `Beyond Na\"ive Prompting: Strategies for Improved Context-aided Forecasting with LLMs`: Rank rose by +4
-- **[Rank Rise]** `CRINN: Contrastive Reinforcement Learning for Approximate Nearest Neighbor Search`: Rank rose by +4
-- **[Rank Rise]** `Hyper-modal Imputation Diffusion Embedding with Dual-Distillation for Federated Multimodal Knowledge Graph Completion`: Rank rose by +4
-- **[Rank Rise]** `Memory Savings at What Cost? A Study of Alternatives to Backpropagation`: Rank rose by +4
-- **[Rank Rise]** `On the Necessity of Output Distribution Reweighting for Effective Class Unlearning`: Rank rose by +4
-- **[Rank Rise]** `Adaptive Reinforcement Learning for Unobservable Random Delays`: Rank rose by +4
-- **[Rank Rise]** `Efficient Q-Learning and Actor-Critic Methods for Robust Average-Reward Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `A Learning-Based Ansatz Satisfying Boundary Conditions in Variational Problems`: Rank rose by +4
-- **[Rank Rise]** `Riemannian Denoising Diffusion Probabilistic Models`: Rank rose by +4
-- **[Rank Rise]** `Meta-Dependence in Conditional Independence Testing`: Rank rose by +4
-- **[Rank Rise]** `Training Diagonal Linear Networks with Stochastic Sharpness-Aware Minimization`: Rank rose by +4
-- **[Rank Rise]** `Device-Cloud Collaborative LLM Inference with Multi-Modal, Multi-Task, Multi-Turn Conversations`: Rank rose by +4
-- **[Rank Rise]** `Disentangled Unsupervised Skill Discovery for Efficient Hierarchical Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Training on Irrelevant States Implies Data Augmentation: Generalization in Contextual MDPs`: Rank rose by +4
-- **[Rank Rise]** `Constrained Reinforcement Learning for Safe Heat Pump Control`: Rank rose by +4
-- **[Rank Rise]** `Neural Active Learning Meets the Partial Monitoring Framework`: Rank rose by +4
-- **[Rank Rise]** `Distributionally Robust Reinforcement Learning with Interactive Data Collection: Fundamental Hardness and Near-Optimal Algorithms`: Rank rose by +4
-- **[Rank Rise]** `Randomized Confidence Bounds for Stochastic Partial Monitoring`: Rank rose by +4
-- **[Rank Rise]** `Federated Topic Model and Model Pruning Based on Variational Autoencoder`: Rank rose by +4
-- **[Rank Rise]** `Learning to Schedule in Parallel-Server Queues with Stochastic Bilinear Rewards`: Rank rose by +4
-- **[Rank Rise]** `A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation`: Rank rose by +4
-- **[Rank Rise]** `A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol`: Rank rose by +4
-- **[Rank Rise]** `Input-Aware Dynamic Backdoor Attack Against Quantum Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `Paradoxes of Game Theoretic Equilibria and Price of Anarchy`: Rank rose by +4
-- **[Rank Rise]** `When Local Monitors Miss Compositional Harm: Diagnosing Distributed Backdoors in Multi-Agent Systems`: Rank rose by +4
-- **[Rank Rise]** `NeuralActuator: Neural Actuation Modeling for Robot Dynamics and External Force Perception`: Rank rose by +4
-- **[Rank Rise]** `$\mathtt{Q^2SAR}$: overcoming classical bottlenecks in drug discovery via quantum multiple kernel learning`: Rank rose by +4
-- **[Rank Rise]** `Self-Healing Visual Recovery for Autonomous Ground Vehicles Using Camera-Only Visual Odometry`: Rank rose by +4
-- **[Rank Rise]** `Diversified Multinomial Logit Contextual Bandits`: Rank rose by +4
-- **[Rank Rise]** `Imputation-free transformer learning enables robust Alzheimer's disease prediction and calibrated uncertainty quantification across heterogeneous clinical cohorts`: Rank rose by +4
-- **[Rank Rise]** `Reproducing human biases in route choice using large language models: Toward scalable behavioral modeling`: Rank rose by +4
-- **[Rank Rise]** `SKooP: Symmetric Koopman Predictions for Faster and More Generalizable Legged Robot Locomotion with Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Lesioned Multimodal Language Models Reproduce Aphasic Picture-Naming Patterns`: Rank rose by +4
-- **[Rank Rise]** `Auditing the Risk Claims of Distributional Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Globally Consistent Coloring Schemes for Language Identification`: Rank rose by +4
-- **[Rank Rise]** `Machine Learning-Based Reconstruction for Resistive Silicon Sensors`: Rank rose by +4
-- **[Rank Rise]** `Training-Free Off-Screen Player Imputation for Broadcast-Based Spatial Football Analytics`: Rank rose by +4
-- **[Rank Rise]** `Tropical Circuits with Scalar Multiplication Gates`: Rank rose by +4
-- **[Rank Rise]** `Adaptive Routing for Efficient Diffusion Transformer-Based PNI Prediction`: Rank rose by +4
-- **[Rank Rise]** `Learning Residual Kinematic Corrections for Continuous Neural Decoding via Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Compound Interference Recognition for LR-FHSS Satellite IoT Uplinks via Multi-Domain Instance Fusion`: Rank rose by +4
-- **[Rank Rise]** `Towards Efficient Convolutional Neural Network for Embedded Hardware via Multi-Dimensional Pruning`: Rank rose by +4
-- **[Rank Rise]** `Climate-Invariant Conformal Prediction Intervals for Multi-Horizon Solar and Wind Forecasting`: Rank rose by +4
-- **[Rank Rise]** `StructAgent: Harness Long-horizon Digital Agents with Unified Causal Structure`: Rank rose by +4
-- **[Rank Rise]** `Decomposing Runtime, Kernel, and Quantization Speedups via a Matched FP16 Intermediate: A Hardware-Conditioned Case Study on Four NVIDIA RTX A5000 GPUs`: Rank rose by +4
-- **[Rank Rise]** `Characterising AI Models for Cataloguing`: Rank rose by +4
-- **[Rank Rise]** `Inter-Stop Energy Prediction and Causal Driver Quantification for Dual-Source Trolleybuses via a Time-Aware Tabular Deep Learning Architecture`: Rank rose by +4
-- **[Rank Rise]** `Backpropagation as a Nilpotent Linear System`: Rank rose by +4
-- **[Rank Rise]** `Fixed-Protocol Amortized MPS Tomography with Conformalized Predictive Uncertainty`: Rank rose by +4
-- **[Rank Rise]** `Long-Memory Reservoir Computing for Data-Scarce Dengue Forecasting`: Rank rose by +4
-- **[Rank Rise]** `Bringing Back Rule Induction to Fluid Intelligence Research? An Initial Validation of the ARC-AGI Benchmark in Humans`: Rank rose by +4
-- **[Rank Rise]** `LaGuadia: Language-Guided Adaptive Distillation from Pathology Foundation Models`: Rank rose by +4
-- **[Rank Rise]** `PREF-Gate: Provenance-Constrained Relational Evidence Fusion with Validation-Gated Selection for Graph Fraud Detection`: Rank rose by +4
-- **[Rank Rise]** `STAMP: Provenance-Guided Credit Assignment for Deep Search Agents`: Rank rose by +4
-- **[Rank Rise]** `Pix2Act: Image-Space Manipulation Policies with Equivariant Augmentation`: Rank rose by +4
-- **[Rank Rise]** `A Formal Hierarchical Architecture for Agentic Orchestration with Stack-Based Execution and Lazy Discovery`: Rank rose by +4
-- **[Rank Rise]** `Comparison-Based Ordinal Learning for Proactive Driving Risk Assessment`: Rank rose by +4
-- **[Rank Rise]** `Implicit Neural Networks as Static Controllers: Certificates and Performance Separation`: Rank rose by +4
-- **[Rank Rise]** `When cheap gradients fail: the measurement cost of attacking quantum classifiers`: Rank rose by +4
-- **[Rank Rise]** `MMRM: A Multiplex Multimodal Representation Model for Product Ranking in E-commerce Search`: Rank rose by +4
-- **[Rank Rise]** `Reference-Based Face Super-Resolution Using the Spatial Transformer`: Rank rose by +4
-- **[Rank Rise]** `Can a Language Model Learn Facts Continually in Its Weights?`: Rank rose by +4
-- **[Rank Rise]** `Overcoming Fourier Locking in Quantum Data Re-uploading Classifiers via Spectral Homotopy`: Rank rose by +4
-- **[Rank Rise]** `Actor-Critic Learning for Extended Mean Field Control with Deterministic Policies`: Rank rose by +4
-- **[Rank Rise]** `EquiFusion: Kinematics-Agnostic Human Motion Prediction via Equivariant Latent Diffusion`: Rank rose by +4
-- **[Rank Rise]** `CGS: Configurable Graph Summarization with Bounded Neighborhood Loss and Query Support`: Rank rose by +4
-- **[Rank Rise]** `Fast Whole-Brain, Geometry-Aware Functional Alignment for Cross-Subject Decoding`: Rank rose by +4
-- **[Rank Rise]** `Normative Alignment of Recommender Systems via Internal Label Shift`: Rank rose by +4
-- **[Rank Rise]** `ZoRRO: A Zero-Weight Personalized Recommender System for Scalable News Recommendation`: Rank rose by +4
-- **[Rank Rise]** `Transferable Implicit Solvent Machine Learning Potential for Drugs and Proteins Approaching Ab Initio Accuracy`: Rank rose by +4
-- **[Rank Rise]** `Diversify Diffusion with Temperature Sampling and Variance-Corrective Time Shifting`: Rank rose by +4
-- **[Rank Rise]** `Route, Communicate, and Reason: Gated Routing and Adaptive Depth for Efficient Multi-Agent Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Large Language Models for Token-Efficient and Semantic-Preserving Opinion Summarization`: Rank rose by +4
-- **[Rank Rise]** `Diagnosing and Mitigating Thinking Collapse in On-Policy Self-Distillation`: Rank rose by +4
-- **[Rank Rise]** `Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis`: Rank rose by +4
-- **[Rank Rise]** `Toward Efficient Weakly Supervised Semantic Segmentation Using Only Low-Magnification Histopathological Images`: Rank rose by +4
-- **[Rank Rise]** `Lightning Fast Matching Dependency Discovery with Desbordante`: Rank rose by +4
-- **[Rank Rise]** `TOLiD: Bridging the Architecture Gap in Vision Foundation Model to LiDAR Pretraining via Token Lifting for Distillation`: Rank rose by +4
-- **[Rank Rise]** `Filtering Harmful Actions Isn't Enough: Phantom Transfer in Agentic SDF`: Rank rose by +4
-- **[Rank Rise]** `WattCouncil: Context-Aware Household Energy Scenario Generation With Governed LLMs`: Rank rose by +4
-- **[Rank Rise]** `MDQEC-QAS: Meta-Decoding for Quantum Error Correction with Hardware-Aware VQC Search and Confidence-Gated Recovery`: Rank rose by +4
-- **[Rank Rise]** `Action Map Policy: Learning 3D Closed-loop Manipulation via Pixel Classification`: Rank rose by +4
-- **[Rank Rise]** `Answer-Conditioned Chain-of-Thought Distillation for Few-Shot Industrial Vision with Small VLMs`: Rank rose by +4
-- **[Rank Rise]** `Edge Cluster Expansion with Radial Rotary Attention for Interatomic Potentials`: Rank rose by +4
-- **[Rank Rise]** `Learning Topological Quantum Phases from Limited Subsystems`: Rank rose by +4
-- **[Rank Rise]** `Demixing Sparse Signals from Nonlinear Observations using Generalized Non-convex Regularization`: Rank rose by +4
-- **[Rank Rise]** `End-to-End Real-Time Drone-Based Person Detection Framework Using Deep Learning`: Rank rose by +4
-- **[Rank Rise]** `Approximation of Analytic Functions by ReLU Neural Networks with Adjustable Depth and Width`: Rank rose by +4
-- **[Rank Rise]** `When Does Restricting a Coding Agent to execute_code Help? A Regime $\times$ Agent-Design Ablation`: Rank rose by +4
-- **[Rank Rise]** `BucketKD: A Safety-Aware Bucket-Based Knowledge Distillation Framework for End-to-End Motion Planning`: Rank rose by +4
-- **[Rank Rise]** `Observation-Level Watermarking and Detection for Tabular Data`: Rank rose by +4
-- **[Rank Rise]** `Projection-Domain Sensitivity Analysis of Vertebral DRRs Under Intrinsic Calibration Perturbation`: Rank rose by +4
-- **[Rank Rise]** `Beyond Looking Up, Try Looking Around: Harmonizing Global Structure and Local Consistency in Optimal Transport for Short Text Clustering`: Rank rose by +4
-- **[Rank Rise]** `RecRec: Recursive Refinement for Sequential Recommendation`: Rank rose by +4
-- **[Rank Rise]** `Representation Learning for Semiparametric Causal Mediation Analysis under No Essential Heterogeneity`: Rank rose by +4
-- **[Rank Rise]** `Cross-Layer Misalignment Detection in Agent Skills: A Progressive Loading-Aware Contrastive Learning Approach`: Rank rose by +4
-- **[Rank Rise]** `NetInjectBench: Benchmarking Indirect Prompt Injection in Tool-Using Large Language Model Agents for Network Operations`: Rank rose by +4
-- **[Rank Rise]** `Fast Data-Driven Modeling of Hydraulic Clutch Control Pressure with Latch-State Classification and Gaussian Process Regression`: Rank rose by +4
-- **[Rank Rise]** `Hallucination Detection in Large Language Models Using Diversion Decoding`: Rank rose by +4
-- **[Rank Rise]** `Toward Production-Ready Federated Learning in Healthcare: Privacy, Orchestration, and Governance in MLOps`: Rank rose by +4
-- **[Rank Rise]** `Integrating Background Knowledge for Scalable Causal Discovery`: Rank rose by +4
-- **[Rank Rise]** `Emergent Generalization by Representation Learning in Artificial Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `Is Model Instability just Noise to be Tolerated or a Property that can be Managed?`: Rank rose by +4
-- **[Rank Rise]** `SPORT: Structure-Aware Prototype Disentanglement for Incomplete Multi-View Clustering`: Rank rose by +4
-- **[Rank Rise]** `TSCoNet: A Two-Stage Copula CNN-LSTM for Uncertainty-Aware Spatio-Temporal Forecasting`: Rank rose by +4
-- **[Rank Rise]** `TVT-PAPD: Pathology-Aware Prototype Distillation for Self-Supervised Whole Slide Image Classification`: Rank rose by +4
-- **[Rank Rise]** `Vertical Fusion: Condensing Internal Representations for Robust ViT Classification`: Rank rose by +4
-- **[Rank Rise]** `Stateful Worlds, Stateless Elasticity: Exact-State Serving for Interactive World Models`: Rank rose by +4
-- **[Rank Rise]** `Gradient-Skipping Relevance Propagation for Efficient Explainability of Vision Transformers`: Rank rose by +4
-- **[Rank Rise]** `Byzantine Accountability Without Consensus: Strong Eventual Consistency for Non-Associative, Stochastic, Robust Aggregation`: Rank rose by +4
-- **[Rank Rise]** `One Token Is Enough: Fingerprinting and Verifying Large Language Models from Single-Token Output Distributions`: Rank rose by +4
-- **[Rank Rise]** `One mechanism for many mental spaces: a shared router over a value slot in language models`: Rank rose by +4
-- **[Rank Rise]** `MeloBottleneck: Self-Supervised Melody Skeleton Extraction with a Latent Subsequence Bottleneck`: Rank rose by +4
-- **[Rank Rise]** `How much Data do We Need? Sequential Data Collection for Stochastic Programming`: Rank rose by +4
-- **[Rank Rise]** `BiLoG-Net: A Bi-Context Location-Guided Network for Breast Mass Segmentation and Malignancy Classification in Mammography`: Rank rose by +4
-- **[Rank Rise]** `Automated Tensor Scheduling for Hybrid CPU-GPU LLM Inference on Consumer Devices`: Rank rose by +4
-- **[Rank Rise]** `On the Efficiency of LoRA Fine-Tuning for Vision-Language-Action Models in Industrial Robotic Manipulation`: Rank rose by +4
-- **[Rank Rise]** `Cost of Reasoning in non-English Languages: A Case Study on Japanese`: Rank rose by +4
-- **[Rank Rise]** `Adaptive Model Compression (AMC): Saliency-Driven Resource Allocation for Ultra-Low-Power Transformer Inference`: Rank rose by +4
-- **[Rank Rise]** `DynaFilter: Cloud-driven Dynamic Filtering for Satellite Edge Intelligence`: Rank rose by +4
-- **[Rank Rise]** `Are We Ready for AI-Driven Discovery? AI Verification Before the Next Fundamental Physics Breakthrough`: Rank rose by +4
-- **[Rank Rise]** `Robustly Invertible Nonlinear Dynamics and the BiLipREN: From Inversion-Based Control to Generative Trajectory Modelling`: Rank rose by +4
-- **[Rank Rise]** `Local Multimodal Music Alignment from Global Supervision`: Rank rose by +4
-- **[Rank Rise]** `A Symbolic Neural CPU for Quantization-Simulated Writeback and Interpretable Program Execution`: Rank rose by +4
-- **[Rank Rise]** `Tokenizing Numerical and Embedding Features for LLM RecSys`: Rank rose by +4
-- **[Rank Rise]** `Runtime Safety Filtering for Learned Small UAS Separation Policies under GNSS Degradation`: Rank rose by +4
-- **[Rank Rise]** `Manifold Constrained Conformal Prediction for Spatial Events`: Rank rose by +4
-- **[Rank Rise]** `Silent Failures in Quantized LLM Reasoning: A Taxonomy-Based Analysis of Hollow Convergence and Failure Mode Shifts`: Rank rose by +4
-- **[Rank Rise]** `Beyond Bayesian Nash: Learning Minimax-Regret Equilibria for Adversarial Team Games under Asymmetric Information`: Rank rose by +4
-- **[Rank Rise]** `Inverse-IMPRESSION: A Graph-based Platform for Molecular Structure Elucidation from Experimental NMR Spectroscopic Properties`: Rank rose by +4
-- **[Rank Rise]** `A Knowledge-Based Multi-Agent Framework for Security Control Recommendation`: Rank rose by +4
-- **[Rank Rise]** `Artificial Intelligence Across the Cardiac Amyloidosis Diagnostic Pathway: From Single-Modality Detection to Multimodal Clinical Integration`: Rank rose by +4
-- **[Rank Rise]** `Learning Partition Trees for Nearest Neighbor Search`: Rank rose by +4
-- **[Rank Rise]** `Depth-Efficient Quantum Topological Data Analysis for Regime-Specific Detection of Financial Stress`: Rank rose by +4
-- **[Rank Rise]** `When Classical Baselines Are Tuned as Carefully as the Quantum Model, Does Quantum Reservoir Computing Still Win?`: Rank rose by +4
-- **[Rank Rise]** `An End-to-End Hybrid Quantum--Classical Sampling Workflow for Discrete Markov Random Fields: A Reproducible Case Study`: Rank rose by +4
-- **[Rank Rise]** `ShapKO: Shapley-Adaptive Modality Knockout for Robust Multimodal Learning`: Rank rose by +4
-- **[Rank Rise]** `Generative Testing of Automated Speech Recognition Systems`: Rank rose by +4
-- **[Rank Rise]** `CHM-Net: Center Heatmap-driven Macro-Micro Modeling Network for MRI-based Microbial Density Stratification`: Rank rose by +4
-- **[Rank Rise]** `MVMGNN;Multi-View Masked Graph Neural Network for Alzheimer's Disease Diagnosis using Structural MRI`: Rank rose by +4
-- **[Rank Rise]** `Adversarially Guided Diffusion for LiDAR Range Image Synthesis`: Rank rose by +4
-- **[Rank Rise]** `Length Penalties Make Chain-of-Thought Less Monitorable`: Rank rose by +4
-- **[Rank Rise]** `Towards Real-World Wearable Motion Reconstruction`: Rank rose by +4
-- **[Rank Rise]** `EvoCUA-1.5: Online Reinforcement Learning for Multi-turn Computer-Use Agents`: Rank rose by +4
-- **[Rank Rise]** `A Risk-Field Enhanced Closed-Loop Digital Twin Framework for Autonomous Driving Safety Validation`: Rank rose by +4
-- **[Rank Rise]** `Norm Enforcement for AI Agents: Robustly Shaping Behavior in Multi-Agent Systems`: Rank rose by +4
-- **[Rank Rise]** `Knowledge-Constrained Shape Optimization with a Mixture-of-Experts Neural Operator for High-Confidence Design`: Rank rose by +4
-- **[Rank Rise]** `Cross-Subject Modeling for Widefield Calcium Imaging via Atlas-Aligned Spatiotemporal Tokenization`: Rank rose by +4
-- **[Rank Rise]** `Unified Backbone Refinement for Diffusion Models via Internal-Latent Analysis`: Rank rose by +4
-- **[Rank Rise]** `Task-Conditioned Synthetic Data Generation for Improving Machine Learning Performance in Agricultural Prediction Tasks`: Rank rose by +4
-- **[Rank Rise]** `MorphologyFM: A Foundation Model for Morphology-Aware Representation Learning from ECG and Pulse Oximetry Waveforms`: Rank rose by +4
-- **[Rank Rise]** `SupplyNetPy: An Open-Source Python Library for High-Fidelity Modeling and Simulation of Arbitrary Supply Chain and Inventory Networks`: Rank rose by +4
-- **[Rank Rise]** `Q-Score: A Quantum-Native Scoring Function for Molecular Docking`: Rank rose by +4
-- **[Rank Rise]** `Saturation-Aware Robust Trajectory Optimization for Reusable Launch Vehicles via Differentiable Physics`: Rank rose by +4
-- **[Rank Rise]** `GES-TSP: Graph Edge Sparsification for TSP`: Rank rose by +4
-- **[Rank Rise]** `YUKTI: From Natural-Language Situations to Robust, Verifiable Decisions An Uncertainty-Typed Proposition IR, Assumption-Robust Pareto Frontiers, and a Regret Certificate`: Rank rose by +4
-- **[Rank Rise]** `Model Collapse: On Recursion, Noise, and Uncharted Machine Visions`: Rank rose by +4
-- **[Rank Rise]** `Interpreting Latent CoT Reasoning as Dynamical Systems`: Rank rose by +4
-- **[Rank Rise]** `Transfer Learning Across Policy Regimes in Adaptive Multi-Agent Systems`: Rank rose by +4
-- **[Rank Rise]** `ECG-LDC: A Hardware-Efficient Low-Dimensional Computing Framework for ECG Arrhythmia Classification`: Rank rose by +4
-- **[Rank Rise]** `Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent`: Rank rose by +4
-- **[Rank Rise]** `Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking`: Rank rose by +4
-- **[Rank Rise]** `Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data`: Rank rose by +4
-- **[Rank Rise]** `Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks`: Rank rose by +4
-- **[Rank Rise]** `Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias`: Rank rose by +4
-- **[Rank Rise]** `Transformer-Guided Swarm Intelligence for Frugal Neural Architecture Search`: Rank rose by +4
-- **[Rank Rise]** `Relaxing Faithfulness with Intervention-Only Causal Discovery`: Rank rose by +4
-- **[Rank Rise]** `An Exact Instrument for State Usage in Selective State-Space Models, and the Input-Driven Migration It Reveals`: Rank rose by +4
-- **[Rank Rise]** `From Expressivity to Sample Complexity: Narrow Teachers for Transformers via C-RASP`: Rank rose by +4
-- **[Rank Rise]** `From Global to Factor-Wise Expert Composition in Discrete Diffusion Models`: Rank rose by +4
-- **[Rank Rise]** `HiFi-LLP: High-Fidelity, Low-Cost Latency Predictors with Confidence for Robust HW-NAS`: Rank rose by +4
-- **[Rank Rise]** `Time-Lag-Aware Deep Reinforcement Learning for Flexible Job-Shop Scheduling in PPVC Module Factories`: Rank rose by +4
-- **[Rank Rise]** `Active Offline-to-Online Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `CatRetriever: Contrastive Representation Learning for Slab-to-Bulk Retrieval in Generative Catalyst Discovery`: Rank rose by +4
-- **[Rank Rise]** `A multi-scale feature enhanced graph neural network for fluid dynamics prediction in complex geometries`: Rank rose by +4
-- **[Rank Rise]** `How to Tame Grokking: Representation Geometry as a Control Signal`: Rank rose by +4
-- **[Rank Rise]** `Bet on Features: Anytime-Valid and Feature-Aware Auditing of Conditional Quantile Forecasters`: Rank rose by +4
-- **[Rank Rise]** `Fundamental Limitations of Fixed-Budget Best-Arm Identification`: Rank rose by +4
-- **[Rank Rise]** `Privacy-Aware Collaborative and Distributed Bayesian Optimization`: Rank rose by +4
-- **[Rank Rise]** `DiffEEG: A Self-Supervised Denoising Diffusion Model for Learning EEG Generic Representations`: Rank rose by +4
-- **[Rank Rise]** `Structure-Feature Aligned Graph Learning via Alternating Constrained Optimization`: Rank rose by +4
-- **[Rank Rise]** `Heuristic Learning for Active Flow Control Using Coding Agents`: Rank rose by +4
-- **[Rank Rise]** `Advancing Optimal Subset Oracle via Learning Relaxation of Neural Set Functions`: Rank rose by +4
-- **[Rank Rise]** `Condition-Stratified Robustness Analysis of Post-Hoc Calibration Methods for Probabilistic Classifiers`: Rank rose by +4
-- **[Rank Rise]** `Random Label Prediction Heads for Studying Memorization in Deep Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `AutoMatBench: An Automatic Optimization Toolkit for the Acceleration of Material Properties Prediction Benchmarking`: Rank rose by +4
-- **[Rank Rise]** `DAG-FM: A Foundation Model for Causal Discovery under Heterogeneous Causal Mechanisms`: Rank rose by +4
-- **[Rank Rise]** `CDFM: Towards a General-Purpose Causal Discovery Foundation Model`: Rank rose by +4
-- **[Rank Rise]** `SCOPE-RL: Optimizing Reasoning Paths Before and After Success`: Rank rose by +4
-- **[Rank Rise]** `Proxy Exploration and Reusable Guidance: A Modular LLM Post-Training Paradigm via Proxy-Guided Update Signals`: Rank rose by +4
-- **[Rank Rise]** `IG-GAN: A Generative Adversarial Network for Aerodynamic Data Generation Based on Intrinsic Geometry`: Rank rose by +4
-- **[Rank Rise]** `Agentic Skill Optimization over Lie Algebroids`: Rank rose by +4
-- **[Rank Rise]** `HyperSafe: Inference-Time Safety Recovery for Fine-Tuned Language Models`: Rank rose by +4
-- **[Rank Rise]** `Event-based Neural Decoding for Neuroprosthetic Motor Control`: Rank rose by +4
-- **[Rank Rise]** `Velocity Scheduled Flow Matching`: Rank rose by +4
-- **[Rank Rise]** `Generalizing Preference-based Reinforcement Learning: a Rationality Model for Incomparability`: Rank rose by +4
-- **[Rank Rise]** `Physics-Aware Conditional SetGAN for Spatially Consistent Multi-User TR 38.901 Channel Generation`: Rank rose by +4
-- **[Rank Rise]** `Surprisingly Simple and Effective Multi-Domain Graph Foundation Model through Graph-to-Table Alignment`: Rank rose by +4
-- **[Rank Rise]** `BackgroundMellow: A Multi-Modal Cohesive Framework for Narrative-Driven Rich Cinematic Soundscape Generation`: Rank rose by +4
-- **[Rank Rise]** `PRISM Edit: One Vector for All Temporal Answers`: Rank rose by +4
-- **[Rank Rise]** `SPARC-Net: A Spectral, Causality-Aware, and Hard-Constrained Physics-Informed Architecture for Stiff and Shock-Dominated Partial Differential Equations`: Rank rose by +4
-- **[Rank Rise]** `Trustworthy synthetic data for campaign decision support: strategy simulation fidelity and the PolicySynth framework`: Rank rose by +4
-- **[Rank Rise]** `FastTPS: An Optimized Method for LLM Token Phase for AI accelerators`: Rank rose by +4
-- **[Rank Rise]** `NeuroMem-FHP: A Likelihood-Free Deep Learning Framework for Parameter Estimation of Fractional Hawkes Process`: Rank rose by +4
-- **[Rank Rise]** `Rank-Conditioned Sample Reuse for the Plackett--Luce Best-of-$K$ Objective`: Rank rose by +4
-- **[Rank Rise]** `Learning Subgroup Relations Using Siamese Graph Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `ToolAtlas: Learning Once, Reusing Everywhere with Tool-Side Memory`: Rank rose by +4
-- **[Rank Rise]** `The Equilibrium Is the Initialization: Lazy Identity Collapse in Physics-Structured Deep Equilibrium Reasoning`: Rank rose by +4
-- **[Rank Rise]** `CA-DGCL: Dynamic Graph Continual Learning via Condensation and Attachment`: Rank rose by +4
-- **[Rank Rise]** `Neural Discovery of Memory and Nonlocal Kernels in Integro-Differential Equations with Constrained Kolmogorov--Arnold Networks`: Rank rose by +4
-- **[Rank Rise]** `A Novel Graph Fraud Detector via Grouped Attribute Completion and Confidence-Aware Contrastive Learning`: Rank rose by +4
-- **[Rank Rise]** `Multi-dimensional training-priority weighting based on physical information propagation paths: a unified residual-weighting framework for physics-informed neural networks`: Rank rose by +4
-- **[Rank Rise]** `Adapting Evidential Neural Networks to Test-Time Neighbor Fusion Improves Molecular Property Prediction`: Rank rose by +4
-- **[Rank Rise]** `Link Adaptation Using Joint-Thompson Sampling`: Rank rose by +4
-- **[Rank Rise]** `AeroMELD: A Linear Embedding of Aerosol Populations for Diagnostics and Latent Dynamics`: Rank rose by +4
-- **[Rank Rise]** `Domain-Aware Scaling Laws Uncover Data Synergy`: Rank rose by +4
-- **[Rank Rise]** `When the Reward Suite Is Leaky: A Preregistered Causal Contrast of Natural Verifier False Positives in RLVR`: Rank rose by +4
-- **[Rank Rise]** `TabPFN beyond Tabular Data: Calibration and Accuracy on Multimodal Embeddings`: Rank rose by +4
-- **[Rank Rise]** `A Multi-Agent Framework for Zero-Dimensional Reduced-Order Model Planning`: Rank rose by +4
-- **[Rank Rise]** `Enhanced Byzantine-Robust Federated Learning Via Truncated-Quadratic Loss for Heterogeneous Data`: Rank rose by +4
-- **[Rank Rise]** `Efficient Online Proportional Sampling with Applications to Smoothed Online Learning`: Rank rose by +4
-- **[Rank Rise]** `Reinforcement Learning for Execution under Dynamic Fees in a Closed-Loop DEX Simulator`: Rank rose by +4
-- **[Rank Rise]** `WSqD: A Horizon-Free Learning Rate Schedule for Large Model Training`: Rank rose by +4
-- **[Rank Rise]** `Sticky Jump Diffusions: A Unifying View of Masked, Continuous, and Hybrid Diffusion`: Rank rose by +4
-- **[Rank Rise]** `Bandit PCA with Minimax Optimal Regret`: Rank rose by +4
-- **[Rank Rise]** `The Singularity Space: A Generative Diffusion Framework for Signal Representation`: Rank rose by +4
-- **[Rank Rise]** `The Spectral Structure of Latent Treatment Effects`: Rank rose by +4
-- **[Rank Rise]** `Infrared Organization and Critical Cognitive Field Formation in Transformer Dynamics`: Rank rose by +4
-- **[Rank Rise]** `Singular perturbations and hierarchical learning in two-layer neural networks`: Rank rose by +4
-- **[Rank Rise]** `Reliability Scaling Laws for Quantized Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `Predictive Divergence Masks for LLM RL`: Rank rose by +4
-- **[Rank Rise]** `Graph Neural Networks for RFID-Based Spatial Geometry Inference in Spatial AI Systems`: Rank rose by +4
-- **[Rank Rise]** `Diachronic Sample Integration: Robust Tail-Risk Estimation with Generative Models`: Rank rose by +4
-- **[Rank Rise]** `Lower Bound on the Cumulative Constrained Violation for the OGD+Projection algorithm for Constrained Online Convex Optimization (COCO)`: Rank rose by +4
-- **[Rank Rise]** `When does distribution shift break graph neural networks calibration?`: Rank rose by +4
-- **[Rank Rise]** `Weight-Adjusted Gradients Reveal Parameter Importance and Failure Modes in LLMs`: Rank rose by +4
-- **[Rank Rise]** `Hierarchical Bayesian Quadrature`: Rank rose by +4
-- **[Rank Rise]** `LSTrans: Efficient Knowledge Transfer for Lightweight and Automated ECG Classification`: Rank rose by +4
-- **[Rank Rise]** `The VC dimension of partial concept classes via Radon's theorem`: Rank rose by +4
-- **[Rank Rise]** `Policy-Driven CT-Agent: Modeling Phase-Aware Diagnostic Control for Clinically Consistent CT Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Multi-Scale Convolution with Optimal Transport Attention Effect on Multivariate Time Series`: Rank rose by +4
-- **[Rank Rise]** `To Answer or to Abstain: Mitigating Search-Agent Hallucinations via Abstention-Aware Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Scaffold splits hide structural-frontier failures in ADMET models`: Rank rose by +4
-- **[Rank Rise]** `On the modality gap and the contrastive loss in multi-modal representation learning`: Rank rose by +4
-- **[Rank Rise]** `Learning to Fine-tune Foundation Models under Resource Limitations`: Rank rose by +4
-- **[Rank Rise]** `LayerNorm as Implicit Gain Control in Looped Transformers`: Rank rose by +4
-- **[Rank Rise]** `From Self-Attention to Connection Laplacian: A Unified Operator View of Transformers`: Rank rose by +4
-- **[Rank Rise]** `Modernizing HEBO: a robust Bayesian optimization baseline for practical heteroskedastic and non-stationary problems`: Rank rose by +4
-- **[Rank Rise]** `Auditing Construct Overlap in Explainable Machine Learning: Evidence from Burnout-Depression Prediction Across Student Cohorts`: Rank rose by +4
-- **[Rank Rise]** `modelDNA: Calibrated Lineage Verification and Merge Decomposition from Sampled Weight Fingerprints`: Rank rose by +4
-- **[Rank Rise]** `M+Adam: Low-Precision Training via Additive-Multiplicative Optimization`: Rank rose by +4
-- **[Rank Rise]** `AutoNorm: Understanding Adaptive Normalization in Transformers through Differentiable Gating`: Rank rose by +4
-- **[Rank Rise]** `Sharp Concentration Bounds for Bundle-Valued Statistics on Manifolds`: Rank rose by +4
-- **[Rank Rise]** `MemDecay: Region-Aware KV Cache Eviction for Efficient LLM Agent Inference`: Rank rose by +4
-- **[Rank Rise]** `Learning from Local Walks on Dynamic Graphs with Bandit Feedback`: Rank rose by +4
-- **[Rank Rise]** `LLM-PDESR: Robust PDE Discovery via Subdomain Weighted Residuals and LLM-Guided Symbolic Hypothesis Generation`: Rank rose by +4
-- **[Rank Rise]** `Conditional Optimal Bridge for Riemannian Activation Steering`: Rank rose by +4
-- **[Rank Rise]** `Learning from Noise: Effective-Rank Collapse and Out-of-Distribution Rejection in Restricted Boltzmann Machines`: Rank rose by +4
-- **[Rank Rise]** `EvidentialRAG: Quantifying and Mitigating Information Conflict in Multi-Source Retrieval-Augmented Generation via Evidential Deep Learning`: Rank rose by +4
-- **[Rank Rise]** `ARMOR: Stabilizing On-Policy LLM RL with Off-Policy Anchor Samples`: Rank rose by +4
-- **[Rank Rise]** `Reinforcement Learning with Verifiable Physics: Post-training LLMs with Continuous Rewards`: Rank rose by +4
-- **[Rank Rise]** `Pitfalls of Administrative Censoring in Survival Models with Time-Indexed Inputs`: Rank rose by +4
-- **[Rank Rise]** `Context by Distinct Information: An Auditable Dirichlet-Process Working Memory for Long, Redundant Context Streams`: Rank rose by +4
-- **[Rank Rise]** `Machine Learning-based Correlation of Charpy Impact Properties Between Sub-sized and Standard-sized Specimens for Nuclear Structural Materials`: Rank rose by +4
-- **[Rank Rise]** `A Hyperbolic Neural Closure for M1 Radiation Transfer`: Rank rose by +4
-- **[Rank Rise]** `A Control Theory of Predictability in Latent World Models`: Rank rose by +4
-- **[Rank Rise]** `Empowering Long-form Omni-modal Understanding with Robust Audio Perception`: Rank rose by +4
-- **[Rank Rise]** `Interpreting learning dynamics of autoencoders: Transient scaling and emerging concepts of the Ising model`: Rank rose by +4
-- **[Rank Rise]** `Sharper Analysis of Single-Loop Methods for Bilevel Optimization`: Rank rose by +4
-- **[Rank Rise]** `Data-Driven Telecom Marketing Optimization: A Machine Learning-Based Churn Prediction and Customer Segmentation Framework`: Rank rose by +4
-- **[Rank Rise]** `DSSMs: State Space Models with Explicit Memory via Delay Differential Equations`: Rank rose by +4
-- **[Rank Rise]** `Exploratory Analysis of Deep Learning Models for Forecasting Meteorological Parameters in the Agricultural Sector`: Rank rose by +4
-- **[Rank Rise]** `When Does Depth Survive Composition? Compute--Quality Regimes in Latent World Models`: Rank rose by +4
-- **[Rank Rise]** `Two Confounds in Cross-Model Value Comparison: Response Determinism and the Access Harness`: Rank rose by +4
-- **[Rank Rise]** `The Differential Neural Tangent Kernel and Its Positivity`: Rank rose by +4
-- **[Rank Rise]** `Generative Augmentation of Raman Spectra for Glioma Classification`: Rank rose by +4
-- **[Rank Rise]** `PhysMRV: Physical Memory Retrieval and Verification for Physics Plausibility Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Knowledge-Conditioned, Single-Pass LLM Synthesis of Executable Unity Game Scenes: A Compiler Error Census across 26 Goal Playable Concepts`: Rank rose by +4
-- **[Rank Rise]** `Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization`: Rank rose by +4
-- **[Rank Rise]** `LLMs as a Jury: Cross-Model Consensus Can Outperform Process Reward Models for LLM Reasoning`: Rank rose by +4
-- **[Rank Rise]** `RDQ: Residual Distribution Quantization for Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `LeRoPE: Learnable RoPE Frequencies Improve Language Modeling`: Rank rose by +4
-- **[Rank Rise]** `SALT-GNN: Handling Dense Neighborhoods in Anti-Money Laundering Graphs via Statistics-Aware Attention`: Rank rose by +4
-- **[Rank Rise]** `Energy-guided Recursive Model`: Rank rose by +4
-- **[Rank Rise]** `GAE: Graph-Augmented Evolution for Scientific Discovery via Reinforcement Optimization`: Rank rose by +4
-- **[Rank Rise]** `When Data Imbalance Helps: Robust Generalization Through Shortcut Saturation`: Rank rose by +4
-- **[Rank Rise]** `TabLoRA: Parameter-Efficient Low-Rank Ensemble Learning for Large-Scale Tabular Data`: Rank rose by +4
-- **[Rank Rise]** `Distance-Preserving Embeddings in Inhomogeneous Random Graphs`: Rank rose by +4
-- **[Rank Rise]** `Error Aware Distribution Prediction for Lightweight Implicit Neural Representations`: Rank rose by +4
-- **[Rank Rise]** `Conservation Laws for Diffusion Models`: Rank rose by +4
-- **[Rank Rise]** `FlashTrie: A GPU-Accelerated Constrained Beam Search for Generative Retrieval`: Rank rose by +4
-- **[Rank Rise]** `MLPs are Hebbians: Constructing Efficient Fact-Storing MLPs for Transformers`: Rank rose by +4
-- **[Rank Rise]** `Vilya-1: An all-atom foundation model for macrocycle structure prediction and design`: Rank rose by +4
-- **[Rank Rise]** `Multimodal Routing for Interpretable, Robust, and Auditable Clinical Prediction`: Rank rose by +4
-- **[Rank Rise]** `Learning in Curved Weight Space:Exponential-Linear Weight Reparameterization for Improved Optimization`: Rank rose by +4
-- **[Rank Rise]** `Optimizing ARDL Models for Retail Sales Forecasting and Fair Pricing`: Rank rose by +4
-- **[Rank Rise]** `A Foundation Model for Multimodal Event Sequences in Financial Applications`: Rank rose by +4
-- **[Rank Rise]** `SMETA-ZSL:Semantic Meta-Alignment for Zero-Shot Threat Classification`: Rank rose by +4
-- **[Rank Rise]** `Remembering Distinct Items, Not Tokens: A Learnable Dirichlet-Process Cache Between State-Space Models and Attention`: Rank rose by +4
-- **[Rank Rise]** `Nonparametric Bayesian Inverse Reinforcement Learning with Data-Parallel Gibbs Sampling`: Rank rose by +4
-- **[Rank Rise]** `Serving the Long Tail: Training-Free LLM Candidate Generation for Vacation Rental Marketplaces`: Rank rose by +4
-- **[Rank Rise]** `Nonlinear Axiomatic Attribution for Cooperative Games`: Rank rose by +4
-- **[Rank Rise]** `From Direction to Magnitude: How Multimodal Instruction-Tuning Reorganizes the Geometric Encoding of Identity-Specifying Prompts in Transformer Hidden States`: Rank rose by +4
-- **[Rank Rise]** `A Strong Balanced-Softmax Classifier-Retraining Baseline for Long-Tailed Recognition`: Rank rose by +4
-- **[Rank Rise]** `Learning Predictive Ambiguity Sets for Decision-Focused Distributionally Robust Optimization`: Rank rose by +4
-- **[Rank Rise]** `Estimation, Prediction, and Assortment Optimization for Markov Chain Choice Models with Panel Data`: Rank rose by +4
-- **[Rank Rise]** `RUBRIC: Realism--Utility Balanced Ranking for Imbalanced Classification`: Rank rose by +4
-- **[Rank Rise]** `Spectral Origins of the Self-Correction Blind Spot in Autoregressive Generation`: Rank rose by +4
-- **[Rank Rise]** `Quota Marketplace: Dynamic Pricing for Efficient Allocation of ML Training Resources`: Rank rose by +4
-- **[Rank Rise]** `Discovering Latent Response Laws in Forced Physical Systems`: Rank rose by +4
-- **[Rank Rise]** `The Silent Freeze: Predicting When Low-Precision Training Stops Learning`: Rank rose by +4
-- **[Rank Rise]** `JEPA for AI-Native 6G: Predictive Representations and Open Challenges`: Rank rose by +4
-- **[Rank Rise]** `Metadata-Free Meta-Reweighted Direct Preference Optimization under Noisy Preference Labels`: Rank rose by +4
-- **[Rank Rise]** `Gauge dependence and structured-output corruption in sign-branched repetition penalties: measurements across models, inference stacks, and alternative repetition controls`: Rank rose by +4
-- **[Rank Rise]** `ERP Data Provisioning Financial Control Testing`: Rank rose by +4
-- **[Rank Rise]** `EvoClawBench: Can Agents Learn Reusable Skills from Their Own Runs?`: Rank rose by +4
-- **[Rank Rise]** `Manifold Constrained Tabular Deep Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `Quantum-Inspired Contextual Learning for Sparse-Ring Fraud Detection in Dynamic Transaction Graphs`: Rank rose by +4
-- **[Rank Rise]** `Safe responses matter: Output-aware safety guardrail mitigate over-refusal in MLLMs`: Rank rose by +4
-- **[Rank Rise]** `Mitigating Early Training Collapse in CTR Models`: Rank rose by +4
-- **[Rank Rise]** `FedCausal-Dyn: A Causal-Dynamic Paradigm for Federated Learning under Dynamic Feature Drift`: Rank rose by +4
-- **[Rank Rise]** `Low-Rank Attention Residuals`: Rank rose by +4
-- **[Rank Rise]** `Depth-Entropy Guided Sampling for Training-Free LLM Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Reference-Based Distillation Detection in LLMs`: Rank rose by +4
-- **[Rank Rise]** `What Context Does a Coding Agent Actually Need to Act?`: Rank rose by +4
-- **[Rank Rise]** `Prioritizing Search Space Regions in the Low Autocorrelation Binary Sequences Problem`: Rank rose by +4
-- **[Rank Rise]** `MawForge: Memory-Bounded Expert Materialization for Local Mixture-of-Experts Inference`: Rank rose by +4
-- **[Rank Rise]** `SciML in the Wild: A Diagnostic Study of When Structural Priors Help and When They Hurt`: Rank rose by +4
-- **[Rank Rise]** `Ablation, Statistical Inference, and Validation for KV-Cache Compression`: Rank rose by +4
-- **[Rank Rise]** `AuditWeave: A Tamper-Evident, Auditor-Navigable Evidence Layer for AI-Assisted and Data-Transformation Workflows`: Rank rose by +4
-- **[Rank Rise]** `Position: Every Ground Truth is a Human Construction, not an Objective Truth`: Rank rose by +4
-- **[Rank Rise]** `Knowledge Graphs Meet Graph Neural Networks: A Comprehensive Survey`: Rank rose by +4
-- **[Rank Rise]** `Upsonic/Tiger`: Rank rose by +4
-- **[Rank Rise]** `wxmb01/codex-app-autonomous-runs`: Rank rose by +4
-- **[Rank Rise]** `plusai-solutions/ai-scrum-master-template`: Rank rose by +4
-- **[Rank Rise]** `yzhao062/pyod`: Rank rose by +4
-- **[Rank Rise]** `ashishpatel26/500-AI-Agents-Projects`: Rank rose by +4
-- **[Rank Rise]** `SWE-agent/SWE-agent`: Rank rose by +4
-- **[Rank Rise]** `Next.js Security Release and Our Next Patch Release`: Rank rose by +4
-- **[Rank Rise]** `google-t5/t5-small`: Rank rose by +4
-- **[Rank Rise]** `YouTube’s contest policies and guidelines - YouTube Help`: Rank rose by +4
-- **[Rank Rise]** `Troubleshoot video removals - YouTube Help`: Rank rose by +4
-- **[Rank Rise]** `Report inappropriate videos, channels & other content on YouTube - Computer - YouTube Help`: Rank rose by +4
-- **[Rank Rise]** `Create a YouTube channel - YouTube Help`: Rank rose by +4
-- **[Rank Rise]** `Agents - Docs by LangChain`: Rank rose by +4
-- **[Rank Rise]** `Membership Terms of Service – Medium Help Center`: Rank rose by +4
-- **[Rank Rise]** `About Medium`: Rank rose by +4
-- **[Rank Rise]** `Manage renewal for NFL Sunday Ticket on YouTube TV - Computer - YouTube TV Help`: Rank rose by +4
-- **[Rank Rise]** `Purchase & watch Primetime Channels on YouTube - Computer - YouTube Help`: Rank rose by +4
-- **[Rank Rise]** `Weaviate vector database - YouTube`: Rank rose by +4
-- **[Rank Rise]** `Changelog | Firecrawl`: Rank rose by +4
-- **[Rank Rise]** `How Klarna's AI assistant redefined customer support at scale for 85 million active users`: Rank rose by +4
-- **[Rank Rise]** `facebookresearch/faiss`: Rank rose by +4
-- **[Rank Rise]** `VivekMalhan666/rag-beginner-guide`: Rank rose by +4
-- **[Rank Rise]** `The AI database developers love | Weaviate`: Rank rose by +4
-- **[Rank Rise]** `Introduction | Firecrawl`: Rank rose by +4
-- **[Rank Rise]** `Ed1s0nZ/CyberStrikeAI`: Rank rose by +4
-- **[Rank Rise]** `czl9707/build-your-own-openclaw`: Rank rose by +4
-- **[Rank Rise]** `RAG Techniques, Beginner to Advanced: Practical Patterns, Code, and Resources | martinuke0's Blog`: Rank rose by +4
-- **[Rank Rise]** `Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium`: Rank rose by +4
-- **[Rank Rise]** `Memory-Managed Long-Context Attention: Bounded Editable Memory with a Hard Lifecycle and Calibrated Sparse Fallback`: Rank rose by +4
-- **[Rank Rise]** `XAI and Statistical Analysis for Reliable Intrusion Detection in the UAVIDS-2025 Dataset: From Tree to Hybrid and Tabular DNN Ensembles`: Rank rose by +4
-- **[Rank Rise]** `RELISH: LLM REgression with a Latent Iterative State Head`: Rank rose by +4
-- **[Rank Rise]** `From Cross-Validation to SURE: Asymptotic Risk of Tuned Regularized Estimators`: Rank rose by +4
-- **[Rank Rise]** `Fine-grained Soundscape Control for Augmented Hearing`: Rank rose by +4
-- **[Rank Rise]** `Global Sequential Testing for Multi-Stream Auditing`: Rank rose by +4
-- **[Rank Rise]** `Near-optimal Delta-convex Estimation of Lipschitz Functions`: Rank rose by +4
-- **[Rank Rise]** `Is data-efficient learning feasible with quantum models?`: Rank rose by +4
-- **[Rank Rise]** `A Practical Guide to Interpretable Role-Based Clustering in Multi-Layer Financial Networks`: Rank rose by +4
-- **[Rank Rise]** `Uncovering smooth structures in single-cell data with PCS-guided neighbor embeddings`: Rank rose by +4
-- **[Rank Rise]** `Transformer-Based Inverse Microrheology for Experimental Mechanics at Ultra-High Strain Rates`: Rank rose by +4
-- **[Rank Rise]** `Human Vision Constrained Super-Resolution`: Rank rose by +4
-- **[Rank Rise]** `Accelerating Large Language Model Inference with Self-Supervised Early Exits`: Rank rose by +4
-- **[Rank Rise]** `Accelerated Fully First-Order Methods for Bilevel and Minimax Optimization`: Rank rose by +4
-- **[Rank Rise]** `Contrastive Learning on Multimodal Analysis of Electronic Health Records`: Rank rose by +4
-- **[Rank Rise]** `Ruby: Unmasking Unsafe Rust in Stripped Binaries via Machine Learning`: Rank rose by +4
-- **[Rank Rise]** `A Fourier analytique approach to Gaussian mixture learning`: Rank rose by +4
-- **[Rank Rise]** `Estimation-Prediction Tradeoff in Causal Probabilistic Temporal Graphs`: Rank rose by +4
-- **[Rank Rise]** `Evolutionary Discovery of Developmental Reward Schedules in Deep Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `CITRAS-FM: Tiny Time Series Foundation Model for Covariate-Informed Zero-Shot Forecasting`: Rank rose by +4
-- **[Rank Rise]** `Enhancing AI and Dynamical Subseasonal Forecasts with Probabilistic Bias Correction`: Rank rose by +4
-- **[Rank Rise]** `Logarithmic High-Probability Regret for Online Convex Optimization with Two-Point Bandit Feedback`: Rank rose by +4
-- **[Rank Rise]** `Kronecker-Structured Nonparametric Spatiotemporal Point Processes`: Rank rose by +4
-- **[Rank Rise]** `Policy-based Tuning of Autoregressive Image Models with Instance- and Distribution-Level Rewards`: Rank rose by +4
-- **[Rank Rise]** `How Can Machine Learning Emulators Best Support Climate Science?`: Rank rose by +4
-- **[Rank Rise]** `Learning Lineage-guided Geodesics with Finsler Geometry`: Rank rose by +4
-- **[Rank Rise]** `Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking`: Rank rose by +4
-- **[Rank Rise]** `Upper-Linearizability of Online Non-Monotone DR-Submodular Maximization over Down-Closed Convex Sets`: Rank rose by +4
-- **[Rank Rise]** `Hair-Trigger Alignment: Black-Box Evaluation Cannot Guarantee Post-Update Alignment`: Rank rose by +4
-- **[Rank Rise]** `Forking-Sequences: Statistically and Computationally Efficient Multi-Horizon Forecasting with Reduced Volatility`: Rank rose by +4
-- **[Rank Rise]** `Information-Theoretic Bayesian Optimization for Bilevel Optimization Problems`: Rank rose by +4
-- **[Rank Rise]** `Cluster and then Embed: A Modular Approach for Visualization`: Rank rose by +4
-- **[Rank Rise]** `Scalable Varied-Density Clustering via Graph Propagation`: Rank rose by +4
-- **[Rank Rise]** `Regression-aware Continual Learning for Android Malware Detection`: Rank rose by +4
-- **[Rank Rise]** `Multi-Metric Adaptive Experimental Design Under a Fixed Budget with Validation`: Rank rose by +4
-- **[Rank Rise]** `Towards Identifiability of Interventional Stochastic Differential Equations`: Rank rose by +4
-- **[Rank Rise]** `LDPKiT: Superimposing Remote Queries for Privacy-Preserving Distillation`: Rank rose by +4
-- **[Rank Rise]** `Deep Gaussian Processes on Directed Acyclic Graphs`: Rank rose by +4
-- **[Rank Rise]** `LLM for EDA in Front-End Design: Challenges and Opportunities`: Rank rose by +4
-- **[Rank Rise]** `Entropy-Constrained Machine Learning with Residual Data Augmentation for Modeling Chemical Kinetics`: Rank rose by +4
-- **[Rank Rise]** `The Count Is There, but Misaligned: Understanding and Correcting Counting Failures in VLMs`: Rank rose by +4
-- **[Rank Rise]** `Terminal Dimension Reduction for Time Series with Applications`: Rank rose by +4
-- **[Rank Rise]** `Foveation-Guided Dynamic Token Selection for Robust and Efficient Vision Transformers`: Rank rose by +4
-- **[Rank Rise]** `Robustifying Vision-Language Models via Test-Time Prompt Adaptation`: Rank rose by +4
-- **[Rank Rise]** `Multimodal Scenario Similarity Search for Autonomous Driving`: Rank rose by +4
-- **[Rank Rise]** `Spectrally Deconfounded Gradient Boosting`: Rank rose by +4
-- **[Rank Rise]** `From Classification to Localization and Clinical Validation: Large-Scale Development of a Deep Learning System for Thoracic Disease Detection on Chest Radiographs in Thailand`: Rank rose by +4
-- **[Rank Rise]** `Leveraging Interpretable Tsetlin Machine for PDF Malware Detection`: Rank rose by +4
-- **[Rank Rise]** `Influence Diagnostics in High-dimensional M-estimation: Precise Asymptotics`: Rank rose by +4
-- **[Rank Rise]** `When Does Order Flow Matter? State-Dependent L2 Liquidity-State Transitions in Crypto Futures`: Rank rose by +4
-- **[Rank Rise]** `Complexity-Guided Component-wise Initialization for Language Model Pretraining`: Rank rose by +4
-- **[Rank Rise]** `GenVid2Robot: From Video Generation to Robot Manipulation via Rigid-Geometric Consistency`: Rank rose by +4
-- **[Rank Rise]** `Control Laguerre Tessellation: Semi-discrete Optimal Transport Over Control Systems`: Rank rose by +4
-- **[Rank Rise]** `Quantum-Enhanced Synthetic Data Generation Using Quantum Circuit Born Machines for Imbalanced Tabular Learning`: Rank rose by +4
-- **[Rank Rise]** `Solving Stochastic Fixed-Point Equations with High Probability`: Rank rose by +4
-- **[Rank Rise]** `RaMark: Radioactive Watermarking for Generated Tabular Data`: Rank rose by +4
-- **[Rank Rise]** `Nonconvex Composite Functional Constraints via First-Order Augmented Lagrangian Methods under Local Regularity`: Rank rose by +4
-- **[Rank Rise]** `Learning-enabled Parameter Synthesis for Nonlinear Systems from Signal Temporal Logic`: Rank rose by +4
-- **[Rank Rise]** `FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space`: Rank rose by +4
-- **[Rank Rise]** `Secure-by-Disguise: A Systematic Evaluation of Image Disguising for Confidential Medical Image Modeling`: Rank rose by +4
-- **[Rank Rise]** `Clean2FX: Label-conditioned modeling for clean-to-effect guitar audio transformations`: Rank rose by +4
-- **[Rank Rise]** `Mixture of Probes: Learning from Privileged Modalities in Multimodal LLMs Through Probing`: Rank rose by +4
-- **[Rank Rise]** `HALO: Hybrid Adaptive Latent Reasoning for Language Models`: Rank rose by +4
-- **[Rank Rise]** `Graph-Regularized Low-Rank Matrix Completion by Variable Projection`: Rank rose by +4
-- **[Rank Rise]** `CoCoT-EEG: Contrastive-Pretrained Multiscale Convolutional Transformer for EEG Decoding`: Rank rose by +4
-- **[Rank Rise]** `GatedLinear: Adaptive Routing of Complementary Linear Bases for Time Series Forecasting`: Rank rose by +4
-- **[Rank Rise]** `Statistically Undetectable Backdoors in Deep Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `TSAI-MetaFraud: A Benchmark Dataset for Financial Fraud Transaction and Behavioral Risk Detection in Metaverse Ecosystems`: Rank rose by +4
-- **[Rank Rise]** `Neural Collapse Is Forbidden: Information Floors in Language Models`: Rank rose by +4
-- **[Rank Rise]** `Active rejection enables reliable generalization of universal machine-learning interatomic potentials`: Rank rose by +4
-- **[Rank Rise]** `Action-Factored Multi-Agent Reinforcement Learning for Scalable Quantum Device Tuning`: Rank rose by +4
-- **[Rank Rise]** `Similarity search generalisation in contrastive learning with InfoNCE loss`: Rank rose by +4
-- **[Rank Rise]** `SYNRARE: Synthetic Rare Disease EHR Generation for ML Benchmarking`: Rank rose by +4
-- **[Rank Rise]** `Data-Efficient Deep Learning: Empirical Guidelines for Training Set Size Estimation in Inertial Sensor Classification`: Rank rose by +4
-- **[Rank Rise]** `Learning Physics-Informed Surrogate Model of Linear Elastic Displacement Fields from Geometry`: Rank rose by +4
-- **[Rank Rise]** `Mach-Mind-4-Flash Technical Report`: Rank rose by +4
-- **[Rank Rise]** `Graph Neural Networks for Scalable and Transferable Node Centrality Approximation`: Rank rose by +4
-- **[Rank Rise]** `Super-Tuning: From Activation-Aware Pruning to Sparse Fine-Tuning`: Rank rose by +4
-- **[Rank Rise]** `Autoregressive latent diffusion for 3D molecule generation`: Rank rose by +4
-- **[Rank Rise]** `LionVote: Per-Layer Learning Rate Adaptation for Lion`: Rank rose by +4
-- **[Rank Rise]** `Forget Narrowly, Retain Broadly: Unlearning as an Asymmetric Generalization Problem`: Rank rose by +4
-- **[Rank Rise]** `Temporal Knowledge Graph Forecasting under Distribution Shifts: A Synthetic Evaluation`: Rank rose by +4
-- **[Rank Rise]** `Application of machine learning to monster level prediction in tabletop RPG game design`: Rank rose by +4
-- **[Rank Rise]** `Understanding Schedule-Free Methods in Nonconvex Optimization: Rate Guarantees and Escaping Saddles`: Rank rose by +4
-- **[Rank Rise]** `COAST: Context-Aware Differential Learning for Gene Expression Prediction in Spatial Transcriptomics`: Rank rose by +4
-- **[Rank Rise]** `Present but Rescaled: Chat-to-Agent Transfer of Additive Activation Steering`: Rank rose by +4
-- **[Rank Rise]** `Power Flow Feasibility Assessment Using Variational Graph Autoencoders`: Rank rose by +4
-- **[Rank Rise]** `Quantum Circuits in Diffusion Models: A Fair-Comparison Study and a Mechanistic Analysis of Angle-Embedding Failures`: Rank rose by +4
-- **[Rank Rise]** `EXHOLD: Experience-Aware Real-Time Hold Control for Large-Scale Ride-Hailing Matching at DiDi`: Rank rose by +4
-- **[Rank Rise]** `A Survey on the Green Development of Large Models: From Resource-Efficient Architectures to Hardware-Software Co-Design`: Rank rose by +4
-- **[Rank Rise]** `Pitfalls and Remedies for Multi-Task Bayesian Optimization`: Rank rose by +4
-- **[Rank Rise]** `EvoLP: Self-Evolving Latency Predictor for Model Compression in Real-Time Edge Systems`: Rank rose by +4
-- **[Rank Rise]** `COBS: Cumulant Order Block Sparse Attention`: Rank rose by +4
-- **[Rank Rise]** `Learning More from Less: Reinforcement Learning from Hindsight`: Rank rose by +4
-- **[Rank Rise]** `Variable-Length Generative Protein Design via Generalized Poisson Flow`: Rank rose by +4
-- **[Rank Rise]** `Sensitivity-Aware Thresholding and Token Routing for Activation Sparsification in Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `Group Invariant Spectral Embedding`: Rank rose by +4
-- **[Rank Rise]** `Optimal Top-$k$ Identification from Pairwise Comparisons`: Rank rose by +4
-- **[Rank Rise]** `Federated Low-Rank Koopman Learning for Multivariate Time-Series Anomaly Detection in IoT Systems`: Rank rose by +4
-- **[Rank Rise]** `Stochastic Linear Bandits with Partially Observed Actions`: Rank rose by +4
-- **[Rank Rise]** `FairSelect: A Systematic Evaluation of Multi-Level and Intersectional Algorithmic Fairness`: Rank rose by +4
-- **[Rank Rise]** `Training, Reading, and Editing Legible Transformers`: Rank rose by +4
-- **[Rank Rise]** `TSRouter: Dynamic Modality-Model Selection for Time Series Reasoning`: Rank rose by +4
-- **[Rank Rise]** `BlockServe: Block-Grained Continuous Batching for High-Throughput Diffusion LLM Serving`: Rank rose by +4
-- **[Rank Rise]** `SafeExplorer: An Unbiased Policy Gradient for Reinforcement Learning with Recovery Interventions`: Rank rose by +4
-- **[Rank Rise]** `A Machine Learning Surrogate for Component Criticality Ranking in Interdependent Power-Communication Networks`: Rank rose by +4
-- **[Rank Rise]** `Pattern-Aware Graph Neural Networks for Handling Missing Data`: Rank rose by +4
-- **[Rank Rise]** `Optimizing Against Safety Representations: Activation-Guided Adversarial Suffixes and the Geometry of Refusal`: Rank rose by +4
-- **[Rank Rise]** `How are linear representations learned? Exact solutions to the dynamics of abstraction`: Rank rose by +4
-- **[Rank Rise]** `Adaptive Bayes exactly tracks information over intrinsic time`: Rank rose by +4
-- **[Rank Rise]** `ECHO: Prune To Act, Trace To Learn With Selective Turn Memory In Agentic RL`: Rank rose by +4
-- **[Rank Rise]** `Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories`: Rank rose by +4
-- **[Rank Rise]** `AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE`: Rank rose by +4
-- **[Rank Rise]** `Embodied Multi-Agent Coordination by Aligning World Models Through Dialogue`: Rank rose by +4
-- **[Rank Rise]** `Tuning Derivatives for Causal Fairness in Machine Learning`: Rank rose by +4
-- **[Rank Rise]** `SLIDERS: Systematic Reviews via Automated Evidence Synthesis and Reconciliation`: Rank rose by +4
-- **[Rank Rise]** `Machine Learning for Network Attacks Classification and Statistical Evaluation of Adversarial Learning Methodologies for Synthetic Data Generation`: Rank rose by +4
-- **[Rank Rise]** `SWE-Milestone: Evaluating AI Agents on Continuous Software Evolution`: Rank rose by +4
-- **[Rank Rise]** `The LLMbda Calculus: AI Agents, Conversations, and Information Flow`: Rank rose by +4
-- **[Rank Rise]** `Empowering 9-1-1 Calltaking Training with Generative AI: Experiences and Lessons Learned`: Rank rose by +4
-- **[Rank Rise]** `Knowledge-Based Design Requirements for Generative Social Robots in Higher Education`: Rank rose by +4
-- **[Rank Rise]** `Preference Conditioned Multi-Objective Reinforcement Learning: Decomposed, Diversity-Driven Policy Optimization`: Rank rose by +4
-- **[Rank Rise]** `Principles of Lipschitz continuity in neural networks`: Rank rose by +4
-- **[Rank Rise]** `Transition Matching Distillation for Fast Video Generation`: Rank rose by +4
-- **[Rank Rise]** `ReinforceGen: Hybrid Skill Policies with Automated Data Generation and Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `How to DP-fy Your Data: A Practical Guide to Generating Synthetic Data With Differential Privacy`: Rank rose by +4
-- **[Rank Rise]** `Data-Driven Learnability Transition of Measurement-Induced Entanglement`: Rank rose by +4
-- **[Rank Rise]** `RIS-Assisted Downlink Pinching-Antenna Systems: GNN-Enabled Optimization Approaches`: Rank rose by +4
-- **[Rank Rise]** `Point of Order: Action-Aware LLM Persona Modeling for Data-Grounded Civic Deliberation`: Rank rose by +4
-- **[Rank Rise]** `AutoGraphAD: Unsupervised network anomaly detection using Variational Graph Autoencoders`: Rank rose by +4
-- **[Rank Rise]** `H3Former: Hypergraph-based Semantic-Aware Aggregation via Hyperbolic Hierarchical Contrastive Loss for Fine-Grained Visual Classification`: Rank rose by +4
-- **[Rank Rise]** `Explaining Human Choice Probabilities with Simple Vector Representations`: Rank rose by +4
-- **[Rank Rise]** `Contrastive Weak-to-strong Generalization`: Rank rose by +4
-- **[Rank Rise]** `REAL: REtrieval-reAsoning and Logic-constructed Attention Behaviors for Long-Context KV Cache Compression`: Rank rose by +4
-- **[Rank Rise]** `Evaluating Retrieval-Augmented Generation vs. Long-Context Input for Clinical Reasoning over EHRs`: Rank rose by +4
-- **[Rank Rise]** `GrAInS: Gradient-based Attribution for Inference-Time Steering of LLMs and VLMs`: Rank rose by +4
-- **[Rank Rise]** `Single-Frame Point-Pixel Registration via Supervised Cross-Modal Feature Matching`: Rank rose by +4
-- **[Rank Rise]** `M4V: Multimodal Mamba for Efficient Text-to-Video Generation`: Rank rose by +4
-- **[Rank Rise]** `Transformer-Empowered Actor-Critic Reinforcement Learning for Sequence-Aware Service Function Chain Partitioning`: Rank rose by +4
-- **[Rank Rise]** `Multi-Attribute Steering of Language Models via Targeted Intervention`: Rank rose by +4
-- **[Rank Rise]** `Projection Methods for Operator Learning and Universal Approximation`: Rank rose by +4
-- **[Rank Rise]** `Coding-agents can replicate scientific machine learning papers`: Rank rose by +4
-- **[Rank Rise]** `Latent Reward Steering: An Adaptive Inference-Time Framework that Implicitly Promotes Cognitive Behaviors in Reasoning LLMs`: Rank rose by +4
-- **[Rank Rise]** `Explaining is Harder Than Predicting Alone: Evaluating Concept-based Explanations of MLLMs as ICL Visual Classifiers`: Rank rose by +4
-- **[Rank Rise]** `Heterogeneous Information-Bottleneck Coordination Graphs for Multi-Agent Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `HiPO: Hierarchical Preference Optimization for Adaptive Reasoning in LLMs`: Rank rose by +4
-- **[Rank Rise]** `Towards Shutdownable Agents: Generalizing Stochastic Choice in RL Agents and LLMs`: Rank rose by +4
-- **[Rank Rise]** `Rectification Difficulty and Optimal Sample Allocation in LLM-Augmented Surveys`: Rank rose by +4
-- **[Rank Rise]** `A Self-Evolving Agentic Framework for Metasurface Inverse Design`: Rank rose by +4
-- **[Rank Rise]** `PACE: A Personalized Adaptive Curriculum Engine for 9-1-1 Call-taker Training`: Rank rose by +4
-- **[Rank Rise]** `Improving Language Agents through BREW: Bootstrapping expeRientially-learned Environmental knoWledge`: Rank rose by +4
-- **[Rank Rise]** `Leveraging Multi-Agent System (MAS) and Fine-Tuned Small Language Models (SLMs) for Automated Telecom Network Troubleshooting`: Rank rose by +4
-- **[Rank Rise]** `Beyond Embeddings: Interpretable Feature Extraction for Binary Code Similarity`: Rank rose by +4
-- **[Rank Rise]** `QAgent: An LLM-based Multi-Agent System for Autonomous OpenQASM programming`: Rank rose by +4
-- **[Rank Rise]** `A Descriptive and Normative Theory of Human Beliefs in RLHF`: Rank rose by +4
-- **[Rank Rise]** `Beyond Black-Box Obfuscation: Mechanistic Analysis and Defense of White-Box Monitors`: Rank rose by +4
-- **[Rank Rise]** `PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis`: Rank rose by +4
-- **[Rank Rise]** `Scalable Visual Pretraining for Language Intelligence`: Rank rose by +4
-- **[Rank Rise]** `Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models`: Rank rose by +4
-- **[Rank Rise]** `VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents`: Rank rose by +4
-- **[Rank Rise]** `Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection`: Rank rose by +4
-- **[Rank Rise]** `Lean-QIT: Towards a Formal Infrastructure for Quantum Information Theory`: Rank rose by +4
-- **[Rank Rise]** `4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception`: Rank rose by +4
-- **[Rank Rise]** `Task-Specific Multimodal Question Answering Agents via Confidence Calibration and Incremental Reasoning for QANTA 2026`: Rank rose by +4
-- **[Rank Rise]** `PAC-ACT: Post-training Actor-Critic for Action Chunking Transformers`: Rank rose by +4
-- **[Rank Rise]** `Conceptual Networks for Cross-Linguistic Idiomatic Expressions: A Feature-Based Graph Approach`: Rank rose by +4
-- **[Rank Rise]** `Large-Scale Portfolio Optimization Problem Under Cardinality Constraint With Enhanced Multi-Objective Evolutionary Algorithms`: Rank rose by +4
-- **[Rank Rise]** `TCLA: Training-Free Class-wise Logit Adaptation for Medical Vision-Language Models`: Rank rose by +4
-- **[Rank Rise]** `ALICE: Learning a General-Purpose Pathology Foundation Model from Vision, Vision-Language, and Slide-Level Experts`: Rank rose by +4
-- **[Rank Rise]** `Seeing is Free, Speaking is Not: Uncovering the True Energy Bottleneck in Edge VLM Inference`: Rank rose by +4
-- **[Rank Rise]** `Failure as a Process: An Anatomy of CLI Coding Agent Trajectories`: Rank rose by +4
-- **[Rank Rise]** `What VGGT Knows About Overlap: Probing Geometric Foundation Models for Co-Visibility`: Rank rose by +4
-- **[Rank Rise]** `All Explanations are Wrong, But Many Are Useful: Exploring the Rashomon Explanation Set with Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `Decoupling Language Guidance from Backbones for Text-Guided Medical Segmentation`: Rank rose by +4
-- **[Rank Rise]** `Practical Source Code Recovery from Binary Functions Using Anchor-Based Retrieval and LLM Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Parameter-Efficient Vision-Language Adaptation with Continuous Metadata Conditioning for Animal Re-Identification`: Rank rose by +4
-- **[Rank Rise]** `Test-Time Scaling for Small VLMs on Multilingual Visual MCQ`: Rank rose by +4
-- **[Rank Rise]** `A Sovereign, Open-Source Foundation Model for German and English`: Rank rose by +4
-- **[Rank Rise]** `SVF-CR: Synchronized Visual-Facial Cross-Refinement for Multimodal Ambivalence and Hesitancy Recognition`: Rank rose by +4
-- **[Rank Rise]** `Self-Guided Test-Time Training for Long-Context LLMs`: Rank rose by +4
-- **[Rank Rise]** `On-Device Adaptive Battery Power Prediction for Electric Vehicles`: Rank rose by +4
-- **[Rank Rise]** `Fully Trainable Deep Differentiable Logic Gate Networks and Lookup Table Networks`: Rank rose by +4
-- **[Rank Rise]** `STEEL: Sparsity-Aware Fused Attention for Energy-Efficient Long-Sequence Inference on AMD's XDNA NPU`: Rank rose by +4
-- **[Rank Rise]** `When Routes Run Out: Adversarial Co-Learning and Explainable Robustness in Quantum Repeater Networks`: Rank rose by +4
-- **[Rank Rise]** `Diversifying to Verify: When Task-Equivalent Programs Differ in Verifiability`: Rank rose by +4
-- **[Rank Rise]** `CtrlVTON: Controllable Virtual Try-On via Visual-Instance-Prompt Segmentation`: Rank rose by +4
-- **[Rank Rise]** `Deceptive Grounding: Entity Attribution Failure in Clinical Retrieval-Augmented Generation`: Rank rose by +4
-- **[Rank Rise]** `Shortcut Trajectory Planning for Efficient Offline Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `WILDTRACE: Benchmarking Natural Evidence Trails in Long-Context Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Letting the Data Speak: Extracting Keywords from Crowdsourced Collections with AI`: Rank rose by +4
-- **[Rank Rise]** `Automatic Thematic Indexing of Large Literary Corpora: A Machine Learning Approach to Voltaire's Complete Works`: Rank rose by +4
-- **[Rank Rise]** `Creativity, honesty and designed forgetting emerge in small hyperbolic language models`: Rank rose by +4
-- **[Rank Rise]** `Risk-Aware General-Utility Markov Decision Processes`: Rank rose by +4
-- **[Rank Rise]** `Geopolitical alignment: Endorsement effects in large language models`: Rank rose by +4
-- **[Rank Rise]** `Blockchain-Linked Auditable Decision Management for Telecom/IoT Fraud-Control Requests`: Rank rose by +4
-- **[Rank Rise]** `LLMs for health: Perceived benefits, risks, intention to use AI chatbots, and willingness to self-disclose across sensitive health topics`: Rank rose by +4
-- **[Rank Rise]** `All you need is SAMPAT`: Rank rose by +4
-- **[Rank Rise]** `Git-Assistant: Planning-Based Support for Updating Git Repositories`: Rank rose by +4
-- **[Rank Rise]** `TACTIC: Tactile and Vision Conditioned Contact-Centric Control for Whole-Arm Manipulation`: Rank rose by +4
-- **[Rank Rise]** `Interference and Retention in Continual Learning`: Rank rose by +4
-- **[Rank Rise]** `Generative Communications: Overview, Technologies, and Trends`: Rank rose by +4
-- **[Rank Rise]** `Attention to Detail: Evaluating Energy, Performance, and Accuracy Trade-offs Across vLLM Configurations`: Rank rose by +4
-- **[Rank Rise]** `A Personalized Computational Framework for Assessing the Sufficiency of Partially Observed Data in Healthcare AI models`: Rank rose by +4
-- **[Rank Rise]** `ReGen: Hierarchical Multi-Prompt Representation Generation for Efficient Waveform Diffusion Models`: Rank rose by +4
-- **[Rank Rise]** `IB-Flow: Information Bottleneck-Guided CFG Distillation for Few-Step Text-to-Image Generation`: Rank rose by +4
-- **[Rank Rise]** `Augmenting Fundamental Analysis with Large Language Models: A RAG-Based System for Generating Investor Briefs`: Rank rose by +4
-- **[Rank Rise]** `Event Stream based Multi-Modal Video Anomaly Detection: A Benchmark Dataset and Algorithms`: Rank rose by +4
-- **[Rank Rise]** `Integrating Large Language Models and Graph Convolutional Networks for Semi-Supervised Image Classification`: Rank rose by +4
-- **[Rank Rise]** `Beyond Metadata: CAPRA for Hidden Subgroup Analysis under Missing Metadata in Medical Imaging`: Rank rose by +4
-- **[Rank Rise]** `A Coreset Selection Framework with Ensemble Aggregation for Image Classification`: Rank rose by +4
-- **[Rank Rise]** `PRecG: Legal Precedent Retrieval with Graph Neural Networks and Rhetorical Role Segmentation`: Rank rose by +4
-- **[Rank Rise]** `OmniMapBench: Benchmarking Visual-Centric Reasoning on Diverse Map Documents`: Rank rose by +4
-- **[Rank Rise]** `Inside the Skill Market: From Software Engineering Activities to Reusable Agent Skills`: Rank rose by +4
-- **[Rank Rise]** `On Locality and Length Generalization in Visual Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Quantum Logic as the Logic of Contexts`: Rank rose by +4
-- **[Rank Rise]** `Evolutionary Intelligence for Scientific Discovery: From Evolutionary Computation to Cumulative Discovery Systems`: Rank rose by +4
-- **[Rank Rise]** `Video Generation Models are General-Purpose Vision Learners`: Rank rose by +4
-- **[Rank Rise]** `Phone Segmentation and Recognition through Phonological Activation Mapping`: Rank rose by +4
-- **[Rank Rise]** `Correlation-Aware Contextual Bandits with Surrogate Rewards for LLM Routing`: Rank rose by +4
-- **[Rank Rise]** `Model Agnostic Graph Prompt Learning for Crystal Property Prediction`: Rank rose by +4
-- **[Rank Rise]** `AlphaZero in Sparsely Rewarded Games: Limits and Auxiliary Supervision`: Rank rose by +4
-- **[Rank Rise]** `SCATE: Learning to Supervise Coding Agents for Cost-Effective Test Generation`: Rank rose by +4
-- **[Rank Rise]** `The Patchwork Problem in LLM-Generated Code`: Rank rose by +4
-- **[Rank Rise]** `CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding`: Rank rose by +4
-- **[Rank Rise]** `MultiView-Bench: A Diagnostic Benchmark for World-Centric Multi-View Integration in VLMs`: Rank rose by +4
-- **[Rank Rise]** `NL-PAC: Specification Ambiguity and Certified Minimax Risk Floors in LLM-Mediated Supervision`: Rank rose by +4
-- **[Rank Rise]** `Eluna: An Agentic LLM System for Automating Warehouse Operations with Reasoning and Task Execution`: Rank rose by +4
-- **[Rank Rise]** `A Novel Parallel QCNN Architecture with Efficient Classical Simulability`: Rank rose by +4
-- **[Rank Rise]** `Prompt-Driven Exploration`: Rank rose by +4
-- **[Rank Rise]** `TheBioCollection: Unified Pre-Training Scale LLM Corpus for Biology`: Rank rose by +4
-- **[Rank Rise]** `Multi-Conditioned Diffusion Synthesis of Sand Boils for Low-Resource Earthen-Levee Inspection`: Rank rose by +4
-- **[Rank Rise]** `EHR-MPC: Inference-Time Control for Sepsis Treatment with Generative Patient Digital Twins`: Rank rose by +4
-- **[Rank Rise]** `LLM-Driven Evolutionary Generation of Multi-Objective Bayesian Optimization Algorithms`: Rank rose by +4
-- **[Rank Rise]** `Accelerating GPU Inference of Large Language Models with Moderately Unstructured Sparse Weight Matrices`: Rank rose by +4
-- **[Rank Rise]** `DaDaDa: A Dataset for Data Pricing in Data Marketplaces`: Rank rose by +4
-- **[Rank Rise]** `HERO: A Heterogeneity-Aware Benchmark Library for Federated Continual Learning`: Rank rose by +4
-- **[Rank Rise]** `LieBN: Batch Normalization over Lie Groups`: Rank rose by +4
-- **[Rank Rise]** `Director: Accelerating Distributed MoE Serving via Online Proactive Expert Placement`: Rank rose by +4
-- **[Rank Rise]** `Reward Transport: Property Control in Flow Matching via Noise-Space Alignment`: Rank rose by +4
-- **[Rank Rise]** `Sticky Routing: Training MoE Models for Memory-Efficient Inference`: Rank rose by +4
-- **[Rank Rise]** `Signed Symmetric Quantization for Few-Bit Integers`: Rank rose by +4
-- **[Rank Rise]** `iLENS: Interpretable LLM-Guided Mixture-of-Experts for Neuroimaging Survival Analysis`: Rank rose by +4
-- **[Rank Rise]** `A Unified Approach to Interpreting Knowledge Distillation for Large Language Models via Interactions`: Rank rose by +4
-- **[Rank Rise]** `REFORGE: A Method for Benchmarking LLMs' Reverse Engineering Capabilities in Decompiled Binary Function Naming`: Rank rose by +4
-- **[Rank Rise]** `Minimal Decision Dynamics and Contextual Probability: A Quantum Tug-of-War Model`: Rank rose by +4
-- **[Rank Rise]** `ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI`: Rank rose by +4
-- **[Rank Rise]** `Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation`: Rank rose by +4
-- **[Rank Rise]** `TrustX Agent Risk Classification Framework (ARC): Risk-Tiering Internally Created Agentic AI Systems`: Rank rose by +4
-- **[Rank Rise]** `Knowledge Graphs and Explainable AI as Complementary Resources for Urban Mining`: Rank rose by +4
-- **[Rank Rise]** `Beyond Fixed Representations: The Vocabulary and Verifier Gaps in Open-Ended AI`: Rank rose by +4
-- **[Rank Rise]** `SAGEAgent: A Self-Evolving Agent for Cost-Aware Modality Acquisition in Multimodal Survival Prediction`: Rank rose by +4
-- **[Rank Rise]** `Shared Selective Persistent Memory for Agentic LLM Systems`: Rank rose by +4
-- **[Rank Rise]** `Multimodal Reward Hacking in Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Ceci n'est pas une pipe: AI systems as semantic abstractions`: Rank rose by +4
-- **[Rank Rise]** `ProofCouncil: An LLM Agent for Solving Open Mathematical Problems`: Rank rose by +4
-- **[Rank Rise]** `How Does Bayesian Causal Discovery Fail? Characterising Structural Consequences in Linear Gaussian Networks under Latent Confounding`: Rank rose by +4
-- **[Rank Rise]** `Fictional Worldbuilding: Multi-Agent LLM Collaboration with Hierarchical Context Compression and Iterative Review`: Rank rose by +4
-- **[Rank Rise]** `Communication-Efficient Digital-Twin Coordination for Heterogeneous LLM Embodied Agents over Computing Power Networks`: Rank rose by +4
-- **[Rank Rise]** `LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making`: Rank rose by +4
-- **[Rank Rise]** `OpenProver: Agentic and Interactive Theorem Proving with Lean 4`: Rank rose by +4
-- **[Rank Rise]** `Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents`: Rank rose by +4
-- **[Rank Rise]** `Scoped Verification for Reliable Long-Horizon Agentic Context Evolution under Distribution Shift`: Rank rose by +4
-- **[Rank Rise]** `KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling`: Rank rose by +4
-- **[Rank Rise]** `MedRealMM: A Real-World Multimodal Benchmark for Chinese Online Medical Consultation`: Rank rose by +4
-- **[Rank Rise]** `L-MAD: A Systematic Evaluation of Multi-Agent Debate Structures in Legal Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls`: Rank rose by +4
-- **[Rank Rise]** `ARCANA: A Reflective Multi-Agent Program Synthesis Framework for ARC-AGI-2 Reasoning`: Rank rose by +4
-- **[Rank Rise]** `A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game`: Rank rose by +4
-- **[Rank Rise]** `Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading`: Rank rose by +4
-- **[Rank Rise]** `GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning`: Rank rose by +4
-- **[Rank Rise]** `CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions`: Rank rose by +4
-- **[Rank Rise]** `Interval Certifications for Multilayered Perceptrons via Lattice Traversal`: Rank rose by +4
-- **[Rank Rise]** `Profiling in PyTorch (Part 3): Attention is all you profile`: Rank rose by +4
-- **[Rank Rise]** `hf-doc-build/doc-build-dev`: Rank rose by +4
-- **[Rank Rise]** `Qwen/Qwen3-VL-Embedding-2B · Hugging Face`: Rank rose by +4
-- **[Rank Rise]** `Quickstart — Sentence Transformers documentation`: Rank rose by +4
-- **[Rank Rise]** `blog/train-sentence-transformers.md at main · huggingface/blog · GitHub`: Rank rose by +4
-- **[Rank Rise]** `huggingface/sentence-transformers`: Rank rose by +4
-- **[Rank Rise]** `monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1`: Rank rose by +4
-- **[Rank Rise]** `deepset (deepset)`: Rank rose by +4
-- **[Rank Rise]** `SentenceTransformers Documentation — Sentence Transformers documentation`: Rank rose by +4
-- **[Rank Rise]** `Evaluate a simple LLM application - Ragas`: Rank rose by +4
-- **[Rank Rise]** `Haystack | Haystack`: Rank rose by +4
-- **[Rank Rise]** `HKUDS/LightRAG`: Rank rose by +4
-- **[Rank Rise]** `jim-schwoebel/awesome_ai_agents`: Rank rose by +4
-- **[Rank Rise]** `AhsanAyaz/ai-agents-google-adk`: Rank rose by +4
-- **[Rank Rise]** `coleam00/pydantic-ai-github-agent`: Rank rose by +4
-- **[Rank Rise]** `promptfoo/promptfoo-action`: Rank rose by +4
-- **[Rank Rise]** `ALucek/GraphRAG-Breakdown`: Rank rose by +4
-- **[Rank Rise]** `RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug`: Rank rose by +4
-- **[Rank Rise]** `Understanding RAG from Scratch | martinuke0's Blog`: Rank rose by +4
-- **[Rank Rise]** `Jul 9, 2026Case StudyUST is bringing Claude to physical AI`: Rank rose by +4
-- **[Rank Rise]** `How to Leverage Synthetic Speech for LLM-Based ASR Systems?`: Rank rose by +4
-- **[Rank Rise]** `Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?`: Rank rose by +4
-- **[Rank Rise]** `Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method`: Rank rose by +4
-- **[Rank Rise]** `MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation`: Rank rose by +4
-- **[Rank Rise]** `EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models`: Rank rose by +4
-- **[Rank Rise]** `Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin`: Rank rose by +4
-- **[Rank Rise]** `Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory`: Rank rose by +4
-- **[Rank Rise]** `MAVEN: A Multi-stage Agentic Annotation Pipeline for Video Reasoning Tasks`: Rank rose by +4
-- **[Rank Rise]** `CriterAlign: Criterion-Centric Rationale Alignment for Code Preference Judging`: Rank rose by +4
-- **[Rank Rise]** `DeepTutor: Towards Agentic Personalized Tutoring`: Rank rose by +4
-- **[Rank Rise]** `Predicting Scale-Up of Metal-Organic Framework Syntheses with Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `Peer-Predictive Self-Training for Language Model Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Beyond Attention Scores: SVD-Based Vision Token Pruning for Efficient Vision-Language Models`: Rank rose by +4
-- **[Rank Rise]** `Persona Matters: Effects of Activation Steering on Short Answer Generation and Scoring`: Rank rose by +4
-- **[Rank Rise]** `LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows`: Rank rose by +4
-- **[Rank Rise]** `Echoes: A semantically-aligned music deepfake detection dataset`: Rank rose by +4
-- **[Rank Rise]** `Robust Weighted Triangulation of Causal Effects Under Model Uncertainty`: Rank rose by +4
-- **[Rank Rise]** `An Online Reference-Free Evaluation Framework for Flowchart Image-to-Code Generation`: Rank rose by +4
-- **[Rank Rise]** `Self-EvolveRec: Self-Evolving Recommender Systems with LLM-based Directional Feedback`: Rank rose by +4
-- **[Rank Rise]** `SwinIFS: Landmark Guided Swin Transformer For Identity Preserving Face Super Resolution`: Rank rose by +4
-- **[Rank Rise]** `V-VLAPS: Value-Guided Planning for Vision-Language-Action Models`: Rank rose by +4
-- **[Rank Rise]** `CoCo-Fed: A Unified Framework for Memory- and Communication-Efficient Federated Learning at the Wireless Edge`: Rank rose by +4
-- **[Rank Rise]** `MSRNet: A Multi-Scale Recursive Network for Camouflaged Object Detection`: Rank rose by +4
-- **[Rank Rise]** `OREN: Octree Residual Network for Real-Time Euclidean Signed Distance Mapping`: Rank rose by +4
-- **[Rank Rise]** `Adaptive Generation of Bias-Eliciting Questions for LLMs`: Rank rose by +4
-- **[Rank Rise]** `TOPO-Bench: An Open-Source Topological Mapping Evaluation Framework with Quantifiable Perceptual Aliasing`: Rank rose by +4
-- **[Rank Rise]** `Less Is More: Reducing Token Counts Without Compromising Performance`: Rank rose by +4
-- **[Rank Rise]** `Concept-as-Tree: A Controllable Synthetic Data Framework Makes Stronger Personalized VLMs`: Rank rose by +4
-- **[Rank Rise]** `Simulator Ensembles for Trustworthy Autonomous Driving Systems Testing`: Rank rose by +4
-- **[Rank Rise]** `ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation`: Rank rose by +4
-- **[Rank Rise]** `The Contribution of XAI for the Safe Development and Certification of AI: An Expert-Based Analysis`: Rank rose by +4
-- **[Rank Rise]** `Retrieval of Scientific and Technological Resources for Experts and Scholars`: Rank rose by +4
-- **[Rank Rise]** `Accurate Portraits of Scientific Resources and Knowledge Service Components`: Rank rose by +4
-- **[Rank Rise]** `Distributed Attacks in Persistent-State AI Control`: Rank rose by +4
-- **[Rank Rise]** `Narration-of-Thought: Inference-Time Scaffolding for Defeasible Ethical Reasoning in Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `Deployment-Time Memorization in Foundation-Model Agents`: Rank rose by +4
-- **[Rank Rise]** `Retrieval-Augmented Generation Must Move Beyond Factual Grounding to Represent Diverse Opinions`: Rank rose by +4
-- **[Rank Rise]** `RetailBench: Evaluating Long-Horizon Autonomous Decision-Making and Strategy Stability of LLM Agents in Realistic Retail Environments`: Rank rose by +4
-- **[Rank Rise]** `Conversational AI for Rapid Scientific Prototyping: A Case Study on ESA's ELOPE Competition`: Rank rose by +4
-- **[Rank Rise]** `SimRPD: Optimizing Recruitment Proactive Dialogue Agents through Simulator-Based Data Evaluation and Selection`: Rank rose by +4
-- **[Rank Rise]** `Dual-Difficulty Curriculum Learning for Direct Preference Optimization`: Rank rose by +4
-- **[Rank Rise]** `Goal-Driven Reasoning in DatalogMTL with Magic Sets`: Rank rose by +4
-- **[Rank Rise]** `IFAR: Multi-Perspective and Multi-Level Causal Discovery with LLMs`: Rank rose by +4
-- **[Rank Rise]** `OpenCoF: Learning to Reason Through Video Generation`: Rank rose by +4
-- **[Rank Rise]** `Validity of LLMs as data annotators: AMALIA on authority`: Rank rose by +4
-- **[Rank Rise]** `ProjAgent: Procedural Similarity Retrieval for Repository-Level Code Generation`: Rank rose by +4
-- **[Rank Rise]** `WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search`: Rank rose by +4
-- **[Rank Rise]** `UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing`: Rank rose by +4
-- **[Rank Rise]** `SMetric: Rethink LLM Scheduling for Serving Agents with Balanced Session-centric Scheduling`: Rank rose by +4
-- **[Rank Rise]** `VocaDet: Sample-Driven Open-Vocabulary Object Detection and Segmentation via Visual Tokenization and Vector Database Retrieval`: Rank rose by +4
-- **[Rank Rise]** `DocMaster: A Hierarchical Structure-Aware System for Document Analysis`: Rank rose by +4
-- **[Rank Rise]** `When the Judge Changes, So Does the Measurement: Auditing LLM-as-Judge Reliability`: Rank rose by +4
-- **[Rank Rise]** `The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality`: Rank rose by +4
-- **[Rank Rise]** `VEGAS: Human-Aligned Video Caption Evaluation via Gaze`: Rank rose by +4
-- **[Rank Rise]** `Two Axes of LLM Abstention: Answer Correctness and Question Answerability`: Rank rose by +4
-- **[Rank Rise]** `Spatio-Temporal Scheduling Prediction Under Backhaul Delay for Resilient Coordinated Beamforming`: Rank rose by +4
-- **[Rank Rise]** `ADORN: Adaptive Drift handling for Open RAN using Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data`: Rank rose by +4
-- **[Rank Rise]** `When Synthetic Speech Is All You Have: Better Call GRPO`: Rank rose by +4
-- **[Rank Rise]** `Track2Map: Online Deformable SLAM with Motion-Aware Pose Optimization in Robotic Surgery`: Rank rose by +4
-- **[Rank Rise]** `Swapping Faces, Saving Features: A Dual-Purpose Pipeline for Pedestrian Privacy in ITS`: Rank rose by +4
-- **[Rank Rise]** `WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving`: Rank rose by +4
-- **[Rank Rise]** `Large-Language-Models-as-a-Judge in Theory-Agnostic Adaptive Metric-Alignment for Prototypical Networks in Personality Recognition`: Rank rose by +4
-- **[Rank Rise]** `On the Role of Conversational Timing in Synthetic Training Data for ASR`: Rank rose by +4
-- **[Rank Rise]** `FSD-VLN: Fast-Slow Dual-System Modeling for Aerial Long-Horizon Vision-Language Navigation`: Rank rose by +4
-- **[Rank Rise]** `TypeProbe: Recovering Type Representations from Hidden States of Pre-trained Code Models`: Rank rose by +4
-- **[Rank Rise]** `GitLake: Git-for-data for the agentic lakehouse`: Rank rose by +4
-- **[Rank Rise]** `From Legacy Documentation to OSCAL: An MCP-Based Agent Pipeline for Threat-Informed Continuous Compliance in Critical Infrastructure`: Rank rose by +4
-- **[Rank Rise]** `Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models`: Rank rose by +4
-- **[Rank Rise]** `TMI: Text-to-Image Meets Image-to-Image for Complementary Data Synthesis to Boost Long-Tailed Instance Segmentation`: Rank rose by +4
-- **[Rank Rise]** `Leveraging Color Naming for Image Enhancement`: Rank rose by +4
-- **[Rank Rise]** `LEEVLA: Seeing What Matters in Latent Environment Evolution for Vision-Language-Action`: Rank rose by +4
-- **[Rank Rise]** `Out of Sight: Compression-Aware Content Protection against Agentic Crawlers`: Rank rose by +4
-- **[Rank Rise]** `Prismata: Confining Cross-Site Prompt Injection in Web Agents`: Rank rose by +4
-- **[Rank Rise]** `ICDAR 2026 HIPE-OCRepair Competition on LLM-Assisted OCR Post-Correction for Historical Documents`: Rank rose by +4
-- **[Rank Rise]** `PS4: Proxy-Supervised Joint Training for Real Target Speaker Extraction`: Rank rose by +4
-- **[Rank Rise]** `LDFE: Laplacian Decoupled Feature Enhancement Block for Dual-Stream CNN-based RGB-IR Object Detection`: Rank rose by +4
-- **[Rank Rise]** `What LLM Forecasters Know but Don't Say: Probing Internal Representations for Calibration and Faithfulness`: Rank rose by +4
-- **[Rank Rise]** `Aleena: Alignment Agent for Research Software Engineering Collaborations`: Rank rose by +4
-- **[Rank Rise]** `PLURAL: A Global Dataset for Value Alignment`: Rank rose by +4
-- **[Rank Rise]** `DKDNet: Dual Knowledge and Data-Driven Network for Cross-Domain Automatic Modulation Classification`: Rank rose by +4
-- **[Rank Rise]** `Structured Pruning of Large Language Models via Power Transformation and Sign-Preserving Score Aggregation with Adaptive Feature Retention`: Rank rose by +4
-- **[Rank Rise]** `Can We Trust LLM's Logic? Quantifying Uncertainty, Coherence, and Robustness via a Graph-Based Framework`: Rank rose by +4
-- **[Rank Rise]** `Reaction-network reasoning with frontier models for experimentally confirmed catalyst-selectivity hypotheses`: Rank rose by +4
-- **[Rank Rise]** `A Reliability Assessment of LALM Audio Judges for Full-Duplex Voice Agents`: Rank rose by +4
-- **[Rank Rise]** `3100 Opinions on Code Review in an AI World: Building Causal Theory from Practitioner Discourse`: Rank rose by +4
-- **[Rank Rise]** `A Multi-cluster Boundary Learning Method for Out-of-Scope Intent Detection via MiniLM Embedding`: Rank rose by +4
-- **[Rank Rise]** `Beyond Thermal Imaging: Inferring Thermophysical Properties from Time-Resolved Thermal Observations`: Rank rose by +4
-- **[Rank Rise]** `Adversarial Decoys: Misdirecting Attention-Based Defenses in ViT`: Rank rose by +4
-- **[Rank Rise]** `Mechanistic Interpretability of LLM Jailbreaks via Internal Attribution Graphs`: Rank rose by +4
-- **[Rank Rise]** `Closed-Loop Dynamic Validator Node Scaling in Private Substrate Blockchains Using Takagi-Sugeno Fuzzy Inference`: Rank rose by +4
-- **[Rank Rise]** `How Do I Know What to Say Next? Barenholtz's Autogenerative Theory as an Enrichment of Harrisean Integrationism`: Rank rose by +4
-- **[Rank Rise]** `Time-to-Collision Based Dynamic Obstacle Avoidance Using Pretrained Vision Models for Robots in Unstructured Environments`: Rank rose by +4
-- **[Rank Rise]** `Multi-agent Autoformalization of Tensor Network Theory`: Rank rose by +4
-- **[Rank Rise]** `Kime-Representation Formulations of Three Open Problems in the Foundations of Classical Mechanics: Uncertainty, Invariant Entropy, and Directional Degrees of Freedom`: Rank rose by +4
-- **[Rank Rise]** `From Triggers to Emotions: A CPM-Grounded Appraisal Multi-Agent for Dynamic Emotional Evolution in Persona-Based Dialogue`: Rank rose by +4
-- **[Rank Rise]** `DreamCharacter-1: From 3D Generative Foundation Models to Product-Ready Character Generation`: Rank rose by +4
-- **[Rank Rise]** `From Solvers to Research: Large Language Model-Driven Formal Mathematics at the Research Frontier`: Rank rose by +4
-- **[Rank Rise]** `Collective Intelligence with Foundation Models`: Rank rose by +4
-- **[Rank Rise]** `Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation`: Rank rose by +4
-- **[Rank Rise]** `Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis`: Rank rose by +4
-- **[Rank Rise]** `AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding`: Rank rose by +4
-- **[Rank Rise]** `Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows`: Rank rose by +4
-- **[Rank Rise]** `The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs`: Rank rose by +4
-- **[Rank Rise]** `Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents`: Rank rose by +4
-- **[Rank Rise]** `SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets`: Rank rose by +4
-- **[Rank Rise]** `Formal Mechanisms for Market Stability in Self-Interested Agent Societies: A Marketplace Simulation Study`: Rank rose by +4
-- **[Rank Rise]** `The complexities of patient-centred conversational artificial intelligence`: Rank rose by +4
-- **[Rank Rise]** `Towards Precision Therapy in Hepatocellular Carcinoma: A Clinical-Reasoning LLM for Risk Stratification and Treatment Guidance`: Rank rose by +4
-- **[Rank Rise]** `SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits`: Rank rose by +4
-- **[Rank Rise]** `CommuniWave:A Machine Learning Model for Quantifying the Degree of Temporary Informal Behavior in Urban Communities`: Rank rose by +4
-- **[Rank Rise]** `Drift-Aware Temporal Graph Rewiring (DATGR) for Adaptive Semantic Modeling in Biomedical Text`: Rank rose by +4
-- **[Rank Rise]** `Applying JEPA-Style Predictive Learning to JA4-Derived Network Fingerprints`: Rank rose by +4
-- **[Rank Rise]** `OmniFood-Bench: Evaluating VLMs for Nutrient Reasoning and Personalized Health Advice`: Rank rose by +4
-- **[Rank Rise]** `Game Theory Driven Multi-Agent Framework Mitigates Language Model Hallucination`: Rank rose by +4
-- **[Rank Rise]** `Towards Mechanistically Understanding Why Memorized Knowledge Fails to Generalize in Large Language Model Finetuning`: Rank rose by +4
-- **[Rank Rise]** `FedOPAL: One-Shot Federated Learning via Analytic Visual Prompt Tuning`: Rank rose by +4
-- **[Rank Rise]** `MobiDiff: Semantic-Aware Multi-Channel Discrete Diffusion for Human Mobility Data Generation`: Rank rose by +4
-- **[Rank Rise]** `Blind-Spots-Bench: Evaluating Blind Spots in Multimodal Models`: Rank rose by +4
-- **[Rank Rise]** `Psychological Competence as a Missing Dimension in AI Evaluation`: Rank rose by +4
-- **[Rank Rise]** `Understanding Axes of Difficulty For Long Context Tasks Via PredicateLongBench`: Rank rose by +4
-- **[Rank Rise]** `PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs`: Rank rose by +4
-- **[Rank Rise]** `Different Teachers, Different Capabilities: Sub-1B On-Device Distillation for Structured Text Enrichment`: Rank rose by +4
-- **[Rank Rise]** `MentalHospital: A Virtual Environment for Evaluating Psychiatric Clinical Encounters`: Rank rose by +4
-- **[Rank Rise]** `Compete Then Collaborate: Frontier AI Teachers Build a Verifiable Curriculum to Improve a Coding Student Beyond Imitation`: Rank rose by +4
-- **[Rank Rise]** `AutoPersonas: A Multi-Timescale Loop Engine for Open-Ended Persona Evolution`: Rank rose by +4
-- **[Rank Rise]** `Playing ZendoWorld: Challenging AI Agents on Active Visual Concept Induction`: Rank rose by +4
-- **[Rank Rise]** `ASMR: Agentic Schema Generation for Ship Maintenance Report Writing`: Rank rose by +4
-- **[Rank Rise]** `Overthinking: Amplifying Reasoning Weights to Extract Learned Secrets`: Rank rose by +4
-- **[Rank Rise]** `Answer Set Programming Energised! End-to-End Neurosymbolic Reasoning and Learning with ASP and Energy Based Models`: Rank rose by +4
-- **[Rank Rise]** `PARA-PV: Physics-Aware Retrieval-Augmented PV Prediction Based on Frozen Foundation Model and Distribution Shift Correction`: Rank rose by +4
-- **[Rank Rise]** `When LLMs Agree, Are They Right? Auditing Self-Consistency and Cross-Model Agreement as Confidence Signals`: Rank rose by +4
-- **[Rank Rise]** `A safety-oriented hypothetico-deductive framework for AI-assisted differential diagnosis`: Rank rose by +4
-- **[Rank Rise]** `From Prompts to Contracts: Harness Engineering for Auditable Enterprise LLM Agents`: Rank rose by +4
-- **[Rank Rise]** `Concretized Proposition Prompting Resolves Composition-Knowledge Dichotomy in Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `Agentic Neural Architecture Search`: Rank rose by +4
-- **[Rank Rise]** `Nigeria Machinery: A Low-Resource Industrial Dataset with a Domain-Grounded Reasoning Layer`: Rank rose by +4
-- **[Rank Rise]** `A Graph Neural Network Model for Real-Time Gesture Recognition Based on sEMG Signals`: Rank rose by +4
-- **[Rank Rise]** `VectorizationLLM: Smart Vectorization Based AI Assistant`: Rank rose by +4
-- **[Rank Rise]** `Infinity-Parser2 Technical Report`: Rank rose by +4
-- **[Rank Rise]** `Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses`: Rank rose by +4
-- **[Rank Rise]** `Alignment Plausibility: A New Standard for Assuring AI in Healthcare`: Rank rose by +4
-- **[Rank Rise]** `Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Adversarial Social Epistemology for Assemblies of Humans and Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `AI-integrated models for assessing agricultural resilience`: Rank rose by +4
-- **[Rank Rise]** `Theoria: Rewrite-Acceptability Verification over Informal Reasoning States`: Rank rose by +4
-- **[Rank Rise]** `SHARP: Sleep-based Hierarchical Accelerated Replay for Long Range Non-Stationary Temporal Pattern Recognition`: Rank rose by +4
-- **[Rank Rise]** `Benchmarking Recursive-Collapse Warning Claims Under Matched False-Positive Control`: Rank rose by +4
-- **[Rank Rise]** `ZAPS-DA: Zero-Phase Action Policy Smoothing with Decoupled Actor for Continuous Control in Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `The Proxy Presumption: From Semantic Embeddings to Valid Social Measures`: Rank rose by +4
-- **[Rank Rise]** `The Power of Power Law: Asymmetry Enables Compositional Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Tessera: Unlocking Heterogeneous GPUs through Kernel-Granularity Disaggregation`: Rank rose by +4
-- **[Rank Rise]** `Weak Adversarial Neural Pushforward Method for the Wigner Transport Equation`: Rank rose by +4
-- **[Rank Rise]** `Spatiotemporal Gaussian representation-based dynamic reconstruction and motion estimation framework for time-resolved volumetric MR imaging (DREME-GSMR)`: Rank rose by +4
-- **[Rank Rise]** `Neural Harmonic Textures for High-Quality Primitive Based Neural Reconstruction`: Rank rose by +4
-- **[Rank Rise]** `Less Data, Faster Convergence: Goal-Driven Data Optimization for Multimodal Instruction Tuning`: Rank rose by +4
-- **[Rank Rise]** `Sign Identifiability of Causal Effects in Stationary Stochastic Dynamical Systems`: Rank rose by +4
-- **[Rank Rise]** `Curvature-Weighted Capacity Allocation: A Minimum Description Length Framework for Layer-Adaptive Large Language Model Optimization`: Rank rose by +4
-- **[Rank Rise]** `Rethinking LLM-as-a-Judge: Representation-as-a-Judge with Small Language Models via Semantic Capacity Asymmetry`: Rank rose by +4
-- **[Rank Rise]** `A Tool Bottleneck Framework for Clinically-Informed and Interpretable Medical Image Understanding`: Rank rose by +4
-- **[Rank Rise]** `Maximum Mean Discrepancy with Unequal Sample Sizes via Generalized U-Statistics`: Rank rose by +4
-- **[Rank Rise]** `DualHNIE: Dual-Channel Hypergraph Learning for Node Importance Estimation in Heterogeneous Knowledge Graphs`: Rank rose by +4
-- **[Rank Rise]** `SeFA-Policy: Fast and Accurate Visuomotor Policy Learning with Selective Flow Alignment`: Rank rose by +4
-- **[Rank Rise]** `Robustness to Sparse Adversarial Corruption in Arbitrary Linear Measurements: Beyond Exact Recovery`: Rank rose by +4
-- **[Rank Rise]** `A Vision Toward Energy-Efficient Domain-Specific Artificial Intelligence Models and Agents`: Rank rose by +4
-- **[Rank Rise]** `Dropping Just a Handful of Preferences Can Change Top Large Language Model Rankings`: Rank rose by +4
-- **[Rank Rise]** `Douglas-Rachford Splitting for Group-Sparse Feedback Linear-Quadratic Control`: Rank rose by +4
-- **[Rank Rise]** `Instance Generation for Patient-to-room Assignment and Admission Scheduling Based on Real Hospital Data`: Rank rose by +4
-- **[Rank Rise]** `Bayesian Deep Learning for Discrete Choice`: Rank rose by +4
-- **[Rank Rise]** `ToDMA: Large Model-Driven Massive Token Communications for Semantic Multiple Access`: Rank rose by +4
-- **[Rank Rise]** `($\theta_l, \theta_u$)-Parametric Multi-Task Optimization: Joint Search in Solution and Infinite Task Spaces`: Rank rose by +4
-- **[Rank Rise]** `Joint Bayesian Parameter and Model Order Estimation for Low-Rank Probability Mass Tensors`: Rank rose by +4
-- **[Rank Rise]** `Data Alchemy: Mitigating Cross-Site Model Variability Through Test Time Data Calibration`: Rank rose by +4
-- **[Rank Rise]** `Conformal Predictive Programming for Chance Constrained Optimization`: Rank rose by +4
-- **[Rank Rise]** `Calibrated Stackelberg Games: Learning Optimal Commitments Against Calibrated Agents`: Rank rose by +4
-- **[Rank Rise]** `Knowledge Graph and Accurate Portrait Construction of Scientific and Technological Academic Conferences`: Rank rose by +4
-- **[Rank Rise]** `Generalization in offline RL: The structure is more important than the amount of pessimism`: Rank rose by +4
-- **[Rank Rise]** `SOAP-Bubbles: Structured Weight Uncertainty for Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `Hierarchical Control in Multi-Agent Games: LLM-based Planning and RL Execution`: Rank rose by +4
-- **[Rank Rise]** `KG-SoftMAP: Soft Knowledge-Graph Priors for Bayesian Network Structure Learning from Sparse Discrete Data`: Rank rose by +4
-- **[Rank Rise]** `A Sliced-Wasserstein Framework on Correlation Matrices for EEG Decoding`: Rank rose by +4
-- **[Rank Rise]** `Temporal Preference Concepts and their Functions in a Large Language Model`: Rank rose by +4
-- **[Rank Rise]** `When RLHF Fails: A Mechanistic Taxonomy of Reward Hacking, Collapse, and Evaluator Gaming`: Rank rose by +4
-- **[Rank Rise]** `From Performance to Representational Adequacy: A Representational Bootstrap Framework for Adaptive Biological Systems`: Rank rose by +4
-- **[Rank Rise]** `Coupling-Robust Accuracy in Multiphysics Physics Informed Neural Networks via Kronecker-Preconditioned Optimization`: Rank rose by +4
-- **[Rank Rise]** `MasFACT: Continual Multi-Agent Topology Learning via Geometry-Aware Posterior Transfer`: Rank rose by +4
-- **[Rank Rise]** `Second-Order Actor-Critic Methods for Discounted MDPs via Policy Hessian Decomposition`: Rank rose by +4
-- **[Rank Rise]** `Before the Last Token: Diagnosing Final-Token Safety Probe Failures`: Rank rose by +4
-- **[Rank Rise]** `LoKA: Low-precision Kernel Applications for Recommendation Models At Scale`: Rank rose by +4
-- **[Rank Rise]** `Wasserstein Distributionally Robust Regret Optimization for Reinforcement Learning from Human Feedback`: Rank rose by +4
-- **[Rank Rise]** `Does Dimensionality Reduction via Random Projections Preserve Landscape Features?`: Rank rose by +4
-- **[Rank Rise]** `Beyond Fixed False Discovery Rates: Post-Hoc Conformal Selection with E-Variables`: Rank rose by +4
-- **[Rank Rise]** `StateLinFormer: Stateful Training Enhancing Long-term Memory in Navigation`: Rank rose by +4
-- **[Rank Rise]** `Robustness Quantification for Discriminative Models: a New Robustness Metric and its Application to Dynamic Classifier Selection`: Rank rose by +4
-- **[Rank Rise]** `Improving RCT-Based Treatment Effect Estimation Under Covariate Mismatch via Calibrated Alignment`: Rank rose by +4
-- **[Rank Rise]** `Variational Phasor Circuits for Phase-Native Brain-Computer Interface Classification`: Rank rose by +4
-- **[Rank Rise]** `The Phasor Transformer: Resolving Attention Bottlenecks on the Unit Circle`: Rank rose by +4
-- **[Rank Rise]** `Optimal uncertainty bounds for multivariate kernel regression under bounded noise: A Gaussian process-based dual function`: Rank rose by +4
-- **[Rank Rise]** `PhasorFlow: A Python Library for Unit Circle Based Computing`: Rank rose by +4
-- **[Rank Rise]** `Safe Flow Q-Learning: Offline Safe Reinforcement Learning with Reachability-Based Flow Policies`: Rank rose by +4
-- **[Rank Rise]** `Partial Causal Structure Learning for Valid Selective Conformal Inference under Interventions`: Rank rose by +4
-- **[Rank Rise]** `Provable Subspace Identification of Nonlinear Multi-view CCA`: Rank rose by +4
-- **[Rank Rise]** `Communication-Efficient Byzantine-Robust Federated Conformal Prediction via Partial Model Sharing`: Rank rose by +4
-- **[Rank Rise]** `BRIDGE: Bridging Reasoning In Distillation Gap Elimination via Structure-Aware Masking`: Rank rose by +4
-- **[Rank Rise]** `Beyond Success Rates: Trainability and Extractability for Offline GCRL`: Rank rose by +4
-- **[Rank Rise]** `Towards Isolated Interventions via Almost Orthogonal Features in Language Models`: Rank rose by +4
-- **[Rank Rise]** `HeaPA: Difficulty-Aware Heap Sampling and On-Policy Query Augmentation for LLM Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `XFACTORS: Disentangled Information Bottleneck via Contrastive Supervision`: Rank rose by +4
-- **[Rank Rise]** `Threshold Differential Attention for Sink-Free, Ultra-Sparse, and Non-Dispersive Language Modeling`: Rank rose by +4
-- **[Rank Rise]** `GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance`: Rank rose by +4
-- **[Rank Rise]** `Bridging Cognitive Neuroscience and Graph Intelligence: Hippocampus-Inspired Multi-View Hypergraph Learning for Web Finance Fraud`: Rank rose by +4
-- **[Rank Rise]** `Resolving Predictive Multiplicity for the Rashomon Set`: Rank rose by +4
-- **[Rank Rise]** `Multi-Distribution Robust Conformal Prediction`: Rank rose by +4
-- **[Rank Rise]** `Deep Neural Networks as Discrete Dynamical Systems: Implications for Physics-Informed Learning`: Rank rose by +4
-- **[Rank Rise]** `Persistent Multiscale Density-based Clustering`: Rank rose by +4
-- **[Rank Rise]** `Geometry-Aware Deep Congruence Networks for Manifold Learning in Cross-Subject Motor Imagery`: Rank rose by +4
-- **[Rank Rise]** `On the Gradient Complexity of Private Optimization with Private Oracles`: Rank rose by +4
-- **[Rank Rise]** `Are Current Continual Learning Methods Truly Agnostic? Introducing OPRE, a Step Toward Agnostic Continual Learning`: Rank rose by +4
-- **[Rank Rise]** `MultiFair: Multimodal Balanced Fairness-Aware Medical Classification with Dual-Level Gradient Modulation`: Rank rose by +4
-- **[Rank Rise]** `Neural non-canonical Hamiltonian dynamics for long-time simulations`: Rank rose by +4
-- **[Rank Rise]** `How Causal Abstraction Underpins Computational Explanation`: Rank rose by +4
-- **[Rank Rise]** `Koopman-informed recurrent neural networks`: Rank rose by +4
-- **[Rank Rise]** `Precise localization within the GI tract by combining classification of CNNs and time-series analysis of HMMs`: Rank rose by +4
-- **[Rank Rise]** `Efficient Partitioning Method of Large-Scale Public Safety Spatio-Temporal Data based on Information Loss Constraints`: Rank rose by +4
-- **[Rank Rise]** `Computation, Condensation, and the Incompleteness Between Them: A Coupled Foundation of Intelligence`: Rank rose by +4
-- **[Rank Rise]** `Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling`: Rank rose by +4
-- **[Rank Rise]** `MulTTiPop: A Multitrack Transcription Dataset for Pop Music`: Rank rose by +4
-- **[Rank Rise]** `ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation`: Rank rose by +4
-- **[Rank Rise]** `Pose-to-Biomechanics: Bridging 3D Human Pose Estimation and Biomechanical Attribute Prediction`: Rank rose by +4
-- **[Rank Rise]** `LTM: Large-scale Terrain Model for Wildfire-prone Landscapes`: Rank rose by +4
-- **[Rank Rise]** `When Structured Sparse Autoencoders Learn Consistent Concepts Across Modalities`: Rank rose by +4
-- **[Rank Rise]** `ImputeViz: A Visual Analytics Dashboard for Diagnosing Missing Data and Comparing Imputation Methods`: Rank rose by +4
-- **[Rank Rise]** `Structural Bottlenecks on Frequency Representation in End-to-End Audio Models`: Rank rose by +4
-- **[Rank Rise]** `High-Dimensional Procrustes Matching via Tree Counts`: Rank rose by +4
-- **[Rank Rise]** `AI-guided stimuli discovery and generation to optimize facial emotion perception studies in autism`: Rank rose by +4
-- **[Rank Rise]** `Cognitive-structured Multimodal Agent for Multimodal Understanding, Generation, and Editing`: Rank rose by +4
-- **[Rank Rise]** `Predicting Viticulture Potential through an Ensemble of U-Net and a Geospatial Foundation Model`: Rank rose by +4
-- **[Rank Rise]** `Statistical Efficiency and Inference of Quantile Distributional Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `FPGN: Redefining Ultra-Fast Programmable Gate-based Neural Acceleration with Differentiable LUTs`: Rank rose by +4
-- **[Rank Rise]** `DrugGen 2: A disease-aware language model for enhancing drug discovery`: Rank rose by +4
-- **[Rank Rise]** `TRACE: A Two-Channel Robust Attribution Watermark via Complementary Embeddings for LLM-Agent Trajectories`: Rank rose by +4
-- **[Rank Rise]** `Prompt Compression via Activation Aggregation`: Rank rose by +4
-- **[Rank Rise]** `Joint Discrete-Continuous Flow Matching for Open-Vocabulary Inverse Design of Multilayer Optical Coatings`: Rank rose by +4
-- **[Rank Rise]** `On Exploring Input Resolution Scaling For Anytime LiDAR Object Detection`: Rank rose by +4
-- **[Rank Rise]** `Revisiting One-Zero and Two-Zero Neutrino Mass Textures in Light of Recent Oscillation and Cosmological Data`: Rank rose by +4
-- **[Rank Rise]** `Tubular Neighbourhoods of Pfaffian Sets and Applications to Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `Prediction-Powered Active Testing`: Rank rose by +4
-- **[Rank Rise]** `Bayesian Experimental Design via Score Matching`: Rank rose by +4
-- **[Rank Rise]** `INTENT: An LSTM Framework for Vehicle Intention Prediction in Intersection Scenarios with Comprehensive Ablation Analysis`: Rank rose by +4
-- **[Rank Rise]** `Best-of-$N$ TTS Evaluation is Confounded by ASR Family Alignment`: Rank rose by +4
-- **[Rank Rise]** `Closing the Null Space: Guidance-Aware Quantization for Classifier-Free Diffusion`: Rank rose by +4
-- **[Rank Rise]** `Benchmark Evaluation of Feredated Learning on Multi-organ Images`: Rank rose by +4
-- **[Rank Rise]** `MLQENABLER: Enabling Secure Machine Learning Queries over Encrypted Database in Cloud Computing`: Rank rose by +4
-- **[Rank Rise]** `A First-Principles Theory of Slow Thinking and Active Perception`: Rank rose by +4
-- **[Rank Rise]** `MuScriptor: An Open Model for Multi-Instrument Music Transcription`: Rank rose by +4
-- **[Rank Rise]** `ProsMAE: Multi-Source MAE Pretraining for ISUP Grade Classification`: Rank rose by +4
-- **[Rank Rise]** `LEXIC: Lightweight Eye-tracking eXtension via Injected Complexity`: Rank rose by +4
-- **[Rank Rise]** `Generalization Theory for Through-the-Wall Radar Human Activity Recognition`: Rank rose by +4
-- **[Rank Rise]** `Securing Autonomous Vehicle Systems via Twin-Aware Federated Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `TTHE: Test-Time Harness Evolution`: Rank rose by +4
-- **[Rank Rise]** `BACH: A Bayesian Admixture of Contrastive Heads for Multi-Interest Two-Tower Retrieval`: Rank rose by +4
-- **[Rank Rise]** `CausalDS: Benchmarking Causal Reasoning in Data-Science Agents`: Rank rose by +4
-- **[Rank Rise]** `ConRad: Efficient Conformal Prediction for Radiomics`: Rank rose by +4
-- **[Rank Rise]** `COBART: Controlled, Optimized, Bidirectional and Auto-Regressive Transformer for Ad Headline Generation`: Rank rose by +4
-- **[Rank Rise]** `Persuasion Attacks Can Decrease Effectiveness of CoT Monitoring`: Rank rose by +4
-- **[Rank Rise]** `Holographic Neural PCFG for Unsupervised Parsing`: Rank rose by +4
-- **[Rank Rise]** `RadioDiff-v2: Generative Angular Radio Maps for Multi-Beam Selection and Localization`: Rank rose by +4
-- **[Rank Rise]** `APIVOT: Adaptive Planning with Interleaved Vision-Language Thoughts`: Rank rose by +4
-- **[Rank Rise]** `FedTR: Federated Learning Framework with Transfer Learning for Industrial Visual Inspection`: Rank rose by +4
-- **[Rank Rise]** `Beware What You Autocomplete: Forensic Attribution of Backdoored Code Completions`: Rank rose by +4
-- **[Rank Rise]** `Tool-Making and Self-Evolving LLM Agents in Low-Latency Systems`: Rank rose by +4
-- **[Rank Rise]** `Unit-Independent Low-Rate Wrist GSR Processing for Stress Detection Using Phasic nSCR Features`: Rank rose by +4
-- **[Rank Rise]** `SpO$_2$ Predictor-Guided Stage-Wise Time-Frequency Reconstruction of Low-Quality Dual-Wavelength PPG for Oxygen Saturation Estimation`: Rank rose by +4
-- **[Rank Rise]** `Hallucination Self-Play: Bootstrapping Reinforced Detector via Evolved Generator`: Rank rose by +4
-- **[Rank Rise]** `Who Broke the System? Failure Localization in LLM-Based Multi-Agent Systems`: Rank rose by +4
-- **[Rank Rise]** `A Quantum Reservoir Architecture for Chaotic Forecasting and a Test of Whether Its High Dimension Helps`: Rank rose by +4
-- **[Rank Rise]** `When Implausible Tokens Get Reinforced: Tail-Aware Credit Calibration for LLM Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Expressivity and Statistical Trade-offs in Diffusion Policy Learning`: Rank rose by +4
-- **[Rank Rise]** `Evaluating the Effect of Frame Rate in Sequence-Based Classification of Autism-Related Self-Stimulatory Hand Idiosyncrasies`: Rank rose by +4
-- **[Rank Rise]** `DeepSWE: Measuring Frontier Coding Agents on Original, Long-Horizon Engineering Tasks`: Rank rose by +4
-- **[Rank Rise]** `Persona Cartography: Charting Language Model Personality Traits in Weight Space`: Rank rose by +4
-- **[Rank Rise]** `Functional and Secure Code Generation with Task Vectors`: Rank rose by +4
-- **[Rank Rise]** `CTA-Pipelining: A Latency-Oriented Spatial Scaling Method for Multi-GPU Systems`: Rank rose by +4
-- **[Rank Rise]** `Feedback Manipulation Regularization: Enabling Offline Agent Alignment for Imitation Learning`: Rank rose by +4
-- **[Rank Rise]** `Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting`: Rank rose by +4
-- **[Rank Rise]** `False Confidence: Automated Labels Confound Fairness Audits in Cervical Spine Segmentation`: Rank rose by +4
-- **[Rank Rise]** `Shift & Drift: A Zero-Shot Benchmark for Generalizable and Robust Autonomous Driving Motion Planning`: Rank rose by +4
-- **[Rank Rise]** `GradInf: Gradient Estimation as Probabilistic Inference`: Rank rose by +4
-- **[Rank Rise]** `Distributionally Faithful Imputation via Positive Semi-Definite Kernel Density Estimation`: Rank rose by +4
-- **[Rank Rise]** `SASGeo: Stability-Aware Semantic Map Localization for GNSS-Denied UAVs -- A Framework and Synthetic Proof of Concept`: Rank rose by +4
-- **[Rank Rise]** `The Regularization Parameter: Sparse Precision Matrix Estimation`: Rank rose by +4
-- **[Rank Rise]** `A Self-Supervised Approach for Minimal-Annotation Hydroacoustic Data Exploration`: Rank rose by +4
-- **[Rank Rise]** `Context Graphs for Proactive Enterprise Agents`: Rank rose by +4
-- **[Rank Rise]** `Statistical inverse learning problems with random observations`: Rank rose by +4
-- **[Rank Rise]** `SLORR: Simple and Efficient In-Training Low-Rank Regularization`: Rank rose by +4
-- **[Rank Rise]** `Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph`: Rank rose by +4
-- **[Rank Rise]** `Super Weights in LLMs and the Failure of Selective Training`: Rank rose by +4
-- **[Rank Rise]** `Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference`: Rank rose by +4
-- **[Rank Rise]** `Deep Learning for Joint Narrowband Interference Cancellation and Soft Demodulation in OFDM Systems`: Rank rose by +4
-- **[Rank Rise]** `MPFlow: Learning Budgeted Max-Flow Optimization on the Lightning Network with Deep Graph Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `A Practical Investigation of Training-free Relaxed Speculative Decoding`: Rank rose by +4
-- **[Rank Rise]** `Resample or Reroute? Budget-Aware Test-Time Model Selection for Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `EdgeRefine: Privacy-Utility Balance for Graphs via Jaccard Sampling under Edge Differential Privacy`: Rank rose by +4
-- **[Rank Rise]** `Secure Decentralized Federated Learning via Gossip and Virtual Voting`: Rank rose by +4
-- **[Rank Rise]** `Multi-Modal, Multi-Environment Machine Teaching for Robust Reward Learning`: Rank rose by +4
-- **[Rank Rise]** `BiSCo-LLM: Lookup-Free Binary Spherical Coding for Extreme Low-Bit Large Language Model Compression`: Rank rose by +4
-- **[Rank Rise]** `Steering Neural Network Training through Interpretable Constraints Based on Partial Dependence`: Rank rose by +4
-- **[Rank Rise]** `Federated Deep Learning for Privacy-Preserving Cardiovascular Disease Risk Prediction`: Rank rose by +4
-- **[Rank Rise]** `Robust Bayesian Decision Making under Adversarial Uncertainty`: Rank rose by +4
-- **[Rank Rise]** `Spectral Stability of Pseudoinverse-Based Extreme Learning Machine`: Rank rose by +4
-- **[Rank Rise]** `Contravariance Theory: Strong Alignment for Minimal Solutions to Hard Tasks`: Rank rose by +4
-- **[Rank Rise]** `CAAD: Causality-Aware Multivariate Time Series Anomaly Detection via Multi-Scale Alignment and Structural Causal Consistency`: Rank rose by +4
-- **[Rank Rise]** `Stop Guessing When to Stop Testing: Efficient Model Evaluation with Just Enough Data`: Rank rose by +4
-- **[Rank Rise]** `Systematic Evaluation of Learning Rate Scheduling Strategies Across Heterogeneous Architectures`: Rank rose by +4
-- **[Rank Rise]** `Ensemble Diversity Optimization for Subjective Supervision`: Rank rose by +4
-- **[Rank Rise]** `Frequency-Domain Multi-Modality Transportation Modeling`: Rank rose by +4
-- **[Rank Rise]** `MatBind: A Shared Embedding Space for Multimodal Materials Characterization`: Rank rose by +4
-- **[Rank Rise]** `Predicting Male Fertility Using Machine Learning: A Semen Parameters Based Analysis with the VISEM Dataset`: Rank rose by +4
-- **[Rank Rise]** `Beyond Backpropagation: Monte Carlo Method Can Train Deep Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `Dynamics of Gradient Descent with Large Step Size Near a Manifold of Flat Minima`: Rank rose by +4
-- **[Rank Rise]** `Eigenvalue Calibration for Semantic Embeddings of Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `Self-Adaptive Anomaly Detection with Reinforcement Learning and Human Feedback in Connected Vehicles`: Rank rose by +4
-- **[Rank Rise]** `Certified Interventional Fidelity: Anytime-Valid, Adaptive Evaluation of Causal Claims in Mechanistic Interpretability`: Rank rose by +4
-- **[Rank Rise]** `Spectral Analysis of Dueling Q-Learning`: Rank rose by +4
-- **[Rank Rise]** `AutoAnchor: Stable Diffusion Unlearning Using Cross-Attention as a Manifold Surrogate`: Rank rose by +4
-- **[Rank Rise]** `ArtMine: Discovering and Formalizing Artistic Processes`: Rank rose by +4
-- **[Rank Rise]** `Write-Protected Discrete Bottlenecks for Language-Grounded World Models: A Structural Limitation and Sufficient Fix`: Rank rose by +4
-- **[Rank Rise]** `Learning $\mathsf{AC}^0$ under Locally Sampleable Graphical Models`: Rank rose by +4
-- **[Rank Rise]** `Classifier Chain-based Pathological Test Recommendation`: Rank rose by +4
-- **[Rank Rise]** `CASL-VAE: Learning Structured Latent Variables from Unpaired Data for Semi-supervised Clustering and Paired Sample Generation`: Rank rose by +4
-- **[Rank Rise]** `An interpretable Good--Turing restart criterion for k-means++`: Rank rose by +4
-- **[Rank Rise]** `Structure Learning on Clustered Data`: Rank rose by +4
-- **[Rank Rise]** `RhyMix: A Lightweight Adaptive Multi-Rhythm Network for Long-Term Time Series Forecasting`: Rank rose by +4
-- **[Rank Rise]** `PIT-SUN: A Deployable Empirical Marginal Transform Framework with Expectation-Consistent Recovery for Regression in Recommender Systems`: Rank rose by +4
-- **[Rank Rise]** `Open-ended Multi-agent Autocurricula via Visual Inspection of Policies with Multi-modal LLMs`: Rank rose by +4
-- **[Rank Rise]** `Understanding Layer Patching in Model Size Interpolation`: Rank rose by +4
-- **[Rank Rise]** `DeepPySR -- A Symbolic Regression Framework with Dynamic Pruning, Pareto Selection, and Hierarchical Composition for Real-World Scientific Discovery`: Rank rose by +4
-- **[Rank Rise]** `Workload-Preserving Differentially Private Synthetic Data for Causal Inference via Maximum-Entropy Calibration`: Rank rose by +4
-- **[Rank Rise]** `Contrastive Order Learning: A General Framework for Ordinal Regression`: Rank rose by +4
-- **[Rank Rise]** `Vanilla SGD with Momentum Survives Heavy-Tailed Noise: Convergence Analysis without Gradient Clipping or Normalization`: Rank rose by +4
-- **[Rank Rise]** `Stochastic Order Learning: An Approach to Rank Estimation Using Noisy Data`: Rank rose by +4
-- **[Rank Rise]** `Deep Learning Method for Stationary Distribution of Reflected Brownian Motion`: Rank rose by +4
-- **[Rank Rise]** `Modular Pretraining Enables Access Control`: Rank rose by +4
-- **[Rank Rise]** `Cross-Modal Generative Framework for Signal Translation from Fetal-Maternal Electrocardiograms to Fetal Doppler Waveforms`: Rank rose by +4
-- **[Rank Rise]** `When Thinking Hurts: Epistemic Signals in the Reasoning Chains of Visual Language Models`: Rank rose by +4
-- **[Rank Rise]** `Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization`: Rank rose by +4
-- **[Rank Rise]** `Reinforcing the Generation Order of Multimodal Masked Diffusion Models`: Rank rose by +4
-- **[Rank Rise]** `Who Analyses the Analyser? Self-Validating LLM Hazard Analysis with Constitutional Meta-STPA`: Rank rose by +4
-- **[Rank Rise]** `An exact information theory of generalization phase transitions in Bayesian diffusion models`: Rank rose by +4
-- **[Rank Rise]** `What to Keep, What to Forget: A Rate--Distortion View of Memory Compaction in LLMs and Agents`: Rank rose by +4
-- **[Rank Rise]** `Rethinking Small VLM Quantization: From Component-Wise Analysis to Hardware-Aware Edge Deployment`: Rank rose by +4
-- **[Rank Rise]** `PGD-NO: A Neural Operator with Precomputed Geometry Decomposition for 3D Million-scale Physics Simulations`: Rank rose by +4
-- **[Rank Rise]** `Collate: Collaborative Neural Network Learning for Latency-Critical Edge Systems`: Rank rose by +4
-- **[Rank Rise]** `Provably Optimal Learning Algorithms for Assistance Games`: Rank rose by +4
-- **[Rank Rise]** `KronQ: LLM Quantization via Kronecker-Factored Hessian`: Rank rose by +4
-- **[Rank Rise]** `Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing`: Rank rose by +4
-- **[Rank Rise]** `Evaluating the Generalizability of Foundation Models for Extreme Environmental Events: Case Study of California Wildfire PM2.5`: Rank rose by +4
-- **[Rank Rise]** `path_boost: A Python Package for Interpretable Graph-Level Prediction using Path-Based Gradient Boosting`: Rank rose by +4
-- **[Rank Rise]** `Efficient Safety Alignment of Language Models via Latent Personality Traits`: Rank rose by +4
-- **[Rank Rise]** `Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks`: Rank rose by +4
-- **[Rank Rise]** `Distributed Sketching on Data Partitions for OLS Regression`: Rank rose by +4
-- **[Rank Rise]** `Optimal Learning Rate Scaling Depends on Data in Deep Scalar Linear Networks`: Rank rose by +4
-- **[Rank Rise]** `Physics-Informed Machine Learning Under Small-Data Constraints: Lessons from Abrasive Waterjet Milling`: Rank rose by +4
-- **[Rank Rise]** `NFTR: From Provable Mode-Averaging to Geodesic Subgoal Selection in Offline Goal-Conditioned RL`: Rank rose by +4
-- **[Rank Rise]** `When Does Continual Learning Require Learning`: Rank rose by +4
-- **[Rank Rise]** `Explaining Near-Zero Hessian Eigenvalues Through Approximate Symmetries in Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `Predicting Pseudo-nitzschia harmful algal blooms along the Portuguese Coast using satellite-derived predictors`: Rank rose by +4
-- **[Rank Rise]** `A law of robustness for two-layer neural networks with arbitrary weights`: Rank rose by +4
-- **[Rank Rise]** `Graph-Regularized Deep Learning for EEG-Based Emotion Recognition with Psychologically-Grounded Label Structure`: Rank rose by +4
-- **[Rank Rise]** `Principled Analysis of Deep Reinforcement Learning Evaluation and Design Paradigms`: Rank rose by +4
-- **[Rank Rise]** `Unlocking Temporal Generalization in Hamiltonian Video Dynamics Models`: Rank rose by +4
-- **[Rank Rise]** `Trustworthy Machine Learning through the Lens of Combinatorial Optimization: Survey and Research Perspectives`: Rank rose by +4
-- **[Rank Rise]** `Scalable and Trustworthy Earth Observation Foundation Models`: Rank rose by +4
-- **[Rank Rise]** `The Importance of Encoder Choice:A Tabular-Image Study`: Rank rose by +4
-- **[Rank Rise]** `Image classification via a quantum-inspired strategy involving a mixture of experts`: Rank rose by +4
-- **[Rank Rise]** `A Transdiagnostic Space of Disorder Like Phenotypes in Reinforcement Learning Agents`: Rank rose by +4
-- **[Rank Rise]** `Selective Left-Shift: Turning Test-Time Compute and Difficulty-based Curation into Training Data for Low-Resource Code Generation`: Rank rose by +4
-- **[Rank Rise]** `LiST: Lipschitz Scaling Training for Robust and Calibrated Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `Architecture Generalization with MetaNCA`: Rank rose by +4
-- **[Rank Rise]** `Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE`: Rank rose by +4
-- **[Rank Rise]** `SHIFT: Survival Prediction from Incomplete and Heterogeneous Genomic Data`: Rank rose by +4
-- **[Rank Rise]** `Uncertainty-gated selection for block-sparse attention`: Rank rose by +4
-- **[Rank Rise]** `Omni-Sleep: A Sleep Foundation Model via Hierarchical Contrastive Learning of CNS-ANS Dynamics`: Rank rose by +4
-- **[Rank Rise]** `ReCoLoRA: Spectrum-Aware Recursive Consolidation for Continual LLM Fine-Tuning`: Rank rose by +4
-- **[Rank Rise]** `LLT: Local Linear Transformer for PDE Operator Learning`: Rank rose by +4
-- **[Rank Rise]** `Who Gets Missed in the Tail? Thresholded Subgroup Underdiagnosis in Long-Tailed Chest X-ray Classification`: Rank rose by +4
-- **[Rank Rise]** `Towards the Explainability of Temporal Graph Networks via Memory Backtracking and Topological Attribution`: Rank rose by +4
-- **[Rank Rise]** `Issues · ietf-tools/red · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Create an Incoming Webhook - Teams | Microsoft Learn`: Rank rose by +4
-- **[Rank Rise]** `W3C Status`: Rank rose by +4
-- **[Rank Rise]** `Let's Encrypt Status`: Rank rose by +4
-- **[Rank Rise]** `Prossimo`: Rank rose by +4
-- **[Rank Rise]** `Let's Encrypt (ISRG) · GitHub`: Rank rose by +4
-- **[Rank Rise]** `LICENSE - chromium/src - Git at Google`: Rank rose by +4
-- **[Rank Rise]** `RFC 7258: Pervasive Monitoring Is an Attack | RFC Editor`: Rank rose by +4
-- **[Rank Rise]** `HTML Standard`: Rank rose by +4
-- **[Rank Rise]** `Secure Contexts`: Rank rose by +4
-- **[Rank Rise]** `Chrome Extensions | Chrome for Developers`: Rank rose by +4
-- **[Rank Rise]** `Web Application Security | Working Groups | Discover W3C groups | W3C`: Rank rose by +4
-- **[Rank Rise]** `Let's Encrypt`: Rank rose by +4
-- **[Rank Rise]** `Prefer Secure Origins For Powerful New Features`: Rank rose by +4
-- **[Rank Rise]** `w3c/webappsec`: Rank rose by +4
-- **[Rank Rise]** `Securing the Web`: Rank rose by +4
-- **[Rank Rise]** `Web IDL Standard`: Rank rose by +4
-- **[Rank Rise]** `Subresource Integrity`: Rank rose by +4
-- **[Rank Rise]** `Frederik Braun: A CDN that can not XSS you: Using Subresource Integrity`: Rank rose by +4
-- **[Rank Rise]** `whatwg/url`: Rank rose by +4
-- **[Rank Rise]** `CI · Workflow runs · GeopJr/Tuba · GitHub`: Rank rose by +4
-- **[Rank Rise]** `GNOME Development`: Rank rose by +4
-- **[Rank Rise]** `GeopJr/Tuba: Browse the Fediverse - Codeberg.org`: Rank rose by +4
-- **[Rank Rise]** `mastodon/mastodon · Discussions · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Tuba`: Rank rose by +4
-- **[Rank Rise]** `URL Standard`: Rank rose by +4
-- **[Rank Rise]** `content/files/en-us/web/security/defenses/subresource_integrity/index.md at main · mdn/content · GitHub`: Rank rose by +4
-- **[Rank Rise]** `SRI Hash Generator`: Rank rose by +4
-- **[Rank Rise]** `Hugging Face · GitHub`: Rank rose by +4
-- **[Rank Rise]** `nbconvert: Convert Notebooks to other formats — nbconvert 7.17.1 documentation`: Rank rose by +4
-- **[Rank Rise]** `Python Developer’s Guide`: Rank rose by +4
-- **[Rank Rise]** `Configuration file overview — Read the Docs user documentation`: Rank rose by +4
-- **[Rank Rise]** `Read the Docs (@readthedocs@fosstodon.org) - Fosstodon`: Rank rose by +4
-- **[Rank Rise]** `Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium`: Rank rose by +4
-- **[Rank Rise]** `Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust`: Rank rose by +4
-- **[Rank Rise]** `Get started with Crashlytics for Android | Firebase Crashlytics`: Rank rose by +4
-- **[Rank Rise]** `Safetensors · Hugging Face`: Rank rose by +4
-- **[Rank Rise]** `Gemma 4 QAT - a mlx-community Collection`: Rank rose by +4
-- **[Rank Rise]** `MedGemma: Our most capable open models for health AI development`: Rank rose by +4
-- **[Rank Rise]** `Gemma 4 with quantization-aware training`: Rank rose by +4
-- **[Rank Rise]** `platform/system/update_engine - Git at Google`: Rank rose by +4
-- **[Rank Rise]** `Android Developers Blog`: Rank rose by +4
-- **[Rank Rise]** `Gemma â Google DeepMind`: Rank rose by +4
-- **[Rank Rise]** `A/B (seamless) system updates | Android Open Source Project`: Rank rose by +4
-- **[Rank Rise]** `gitiles - Git at Google`: Rank rose by +4
-- **[Rank Rise]** `Factory Images for Nexus and Pixel Devices | Google Play services | Google for Developers`: Rank rose by +4
-- **[Rank Rise]** `Analyze issues from Firebase Crashlytics and Android Vitals with App Quality Insights | Android Studio | Android Develop`: Rank rose by +4
-- **[Rank Rise]** `ASA-WG/Mobile App Profile/Mobile App Specification.md at v1.0 · appdefensealliance/ASA-WG · GitHub`: Rank rose by +4
-- **[Rank Rise]** `ASA/MobileAppSecurityAssessment/MobileSecurityGuide.md at main · appdefensealliance-dev/ASA · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Mobile Application Security Assessment | App Defense Alliance`: Rank rose by +4
-- **[Rank Rise]** `Google Family Link - Apps on Google Play`: Rank rose by +4
-- **[Rank Rise]** `cloudflare/cloudflare-docs`: Rank rose by +4
-- **[Rank Rise]** `openai/openai-cookbook`: Rank rose by +4
-- **[Rank Rise]** `Sign in to GitHub · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Firecrawl - The context API to search, scrape, and interact with the web at scale. 🔥`: Rank rose by +4
-- **[Rank Rise]** `The Linux Kernel documentation — The Linux Kernel documentation`: Rank rose by +4
-- **[Rank Rise]** `LangChain Support Portal`: Rank rose by +4
-- **[Rank Rise]** `[2504.20734] UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities`: Rank rose by +4
-- **[Rank Rise]** `tomasonjo/langchain-neo4j`: Rank rose by +4
-- **[Rank Rise]** `explodinggradients/ragas`: Rank rose by +4
-- **[Rank Rise]** `Weaviate Database | Weaviate Documentation`: Rank rose by +4
-- **[Rank Rise]** `Introduction - Firecrawl Docs`: Rank rose by +4
-- **[Rank Rise]** `imadmaalouf02/RAG`: Rank rose by +4
-- **[Rank Rise]** `langchain-ai/langgraph-swarm-py`: Rank rose by +4
-- **[Rank Rise]** `Using a knowledge graph to implement a RAG application`: Rank rose by +4
-- **[Rank Rise]** `Your Prompts and Skills need a system of record.`: Rank rose by +4
-- **[Rank Rise]** `Jul 9, 2026AnnouncementsIntroducing a way to reflect on how you use Claude`: Rank rose by +4
-- **[Rank Rise]** `CFO.com | News for CFOs`: Rank rose by +4
-- **[Rank Rise]** `Accessibility at Harvard Business Publishing`: Rank rose by +4
-- **[Rank Rise]** `Harvard Business Publishing`: Rank rose by +4
-- **[Rank Rise]** `Jennifer Moss - Professional Speaker on Burnout and Work Culture`: Rank rose by +4
-- **[Rank Rise]** `Frontier NFL Sunday Ticket and YouTube TV`: Rank rose by +4
-- **[Rank Rise]** `JAMS: Mediation, Arbitration and ADR Services`: Rank rose by +4
-- **[Rank Rise]** `Creating a Happier Workplace Is Possible — and Worth It`: Rank rose by +4
-- **[Rank Rise]** `Culture Is A Company’s Single Most Powerful Advantage. Here’s Why`: Rank rose by +4
-- **[Rank Rise]** `AWS Privacy Notice`: Rank rose by +4
-- **[Rank Rise]** `Workplace Conflict Resolution & Organizational Development | JAMS Pathways`: Rank rose by +4
-- **[Rank Rise]** `Delete or deactivate your account – Medium Help Center`: Rank rose by +4
-- **[Rank Rise]** `Export your account data – Medium Help Center`: Rank rose by +4
-- **[Rank Rise]** `Medium Privacy Policy - Effective date December 31, 2019 through August 31, 2020 – Medium Help Center`: Rank rose by +4
-- **[Rank Rise]** `Deed - Attribution 4.0 International - Creative Commons`: Rank rose by +4
-- **[Rank Rise]** `VivekMalhan666/Toasts-library`: Rank rose by +4
-- **[Rank Rise]** `Medium’s Copyright and DMCA Policy | by Medium | Medium Policy`: Rank rose by +4
-- **[Rank Rise]** `Google Drive - Report Abuse`: Rank rose by +4
-- **[Rank Rise]** `Neo4j · GitHub`: Rank rose by +4
-- **[Rank Rise]** `confident-ai/deepeval`: Rank rose by +4
-- **[Rank Rise]** `Vivek Malhan — Full Cycle Developer`: Rank rose by +4
-- **[Rank Rise]** `Models – Hugging Face`: Rank rose by +4
-- **[Rank Rise]** `DenCabinetmaker/Rust-Rage`: Rank rose by +4
-- **[Rank Rise]** `study8677/antigravity-workspace-template`: Rank rose by +4
-- **[Rank Rise]** `RhinoVLA Technical Report`: Rank rose by +4
-- **[Rank Rise]** `Data-Driven Forecasting of three-Component Seismograms Using Transformer Architectures`: Rank rose by +4
-- **[Rank Rise]** `Unveiling the Visual Counting Bottleneck in Vision-Language Models`: Rank rose by +4
-- **[Rank Rise]** `Operationalizing Individual Fairness via Gradient Descent and Bradley-Terry Models`: Rank rose by +4
-- **[Rank Rise]** `MARGIN: Margin-Aware Regularized Geometry for Imbalanced Vulnerability Detection`: Rank rose by +4
-- **[Rank Rise]** `ML-based approach to classification and generation of structured light propagation in turbulent media`: Rank rose by +4
-- **[Rank Rise]** `VTC: DNN Compilation with Virtual Tensors for Data Movement Elimination`: Rank rose by +4
-- **[Rank Rise]** `Transferable FB-GNN-MBE Framework for Potential Energy Surfaces: Data-Adaptive Transfer Learning in Deep Learned Many-Body Expansion Theory`: Rank rose by +4
-- **[Rank Rise]** `Amortized Inference for Correlated Discrete Choice Models via Equivariant Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `Optimization-Embedded Active Multi-Fidelity Surrogate Learning for Multi-Condition Airfoil Shape Optimization`: Rank rose by +4
-- **[Rank Rise]** `Latent Policy Steering through One-Step Flow Policies`: Rank rose by +4
-- **[Rank Rise]** `Scaling Quantum Machine Learning without Tricks: Full-Resolution and Diverse Image Generation`: Rank rose by +4
-- **[Rank Rise]** `Approximate full conformal prediction in an RKHS`: Rank rose by +4
-- **[Rank Rise]** `Diffusion Models in Simulation-Based Inference: A Tutorial Review`: Rank rose by +4
-- **[Rank Rise]** `Fast segmentation of watermarked texts from large language models through an epidemic change-point framework`: Rank rose by +4
-- **[Rank Rise]** `Siamese Neural Network for Label-Efficient Critical Phenomena Prediction in 3D Percolation Models`: Rank rose by +4
-- **[Rank Rise]** `Optimal Conformal Prediction under Epistemic Uncertainty`: Rank rose by +4
-- **[Rank Rise]** `Superstate Quantum Mechanics`: Rank rose by +4
-- **[Rank Rise]** `Fixed-Gaussian Spectral Algorithms: Minimax Optimal Rates for Misspecified Learning and Transfer`: Rank rose by +4
-- **[Rank Rise]** `Deep Operator BSDE: a Numerical Scheme to Approximate Solution Operators`: Rank rose by +4
-- **[Rank Rise]** `From system models to class models: An in-context learning paradigm`: Rank rose by +4
-- **[Rank Rise]** `Research on Domain Information Mining and Theme Evolution of Scientific Papers`: Rank rose by +4
-- **[Rank Rise]** `Can Tabular In-Context Learners Generalize to Biomolecular Property Prediction?`: Rank rose by +4
-- **[Rank Rise]** `A Novel Approach to Temporal QoS Estimation via Extended Kalman Filter-Incorporated Latent Feature Analysis`: Rank rose by +4
-- **[Rank Rise]** `DICE: Entropy-Regularized Equilibrium Selection for Stable Multi-Agent LLM Coordination`: Rank rose by +4
-- **[Rank Rise]** `Momentum Based Reward Design for Low Emission Traffic Signal Control`: Rank rose by +4
-- **[Rank Rise]** `Chebyshev Policies and the Mountain Car Problem: Reinforcement Learning for Low-Dimensional Control Tasks`: Rank rose by +4
-- **[Rank Rise]** `A Van Trees Lower Bound for Fully Interactive Differentially Private Federated Learning`: Rank rose by +4
-- **[Rank Rise]** `SNLP: Layer-Parallel Inference via Structured Newton Corrections`: Rank rose by +4
-- **[Rank Rise]** `TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination`: Rank rose by +4
-- **[Rank Rise]** `Nectar: Neural Estimation of Cached-Token Attention via Regression`: Rank rose by +4
-- **[Rank Rise]** `Event-Centric World Modeling with Memory-Augmented Retrieval for Embodied Decision-Making`: Rank rose by +4
-- **[Rank Rise]** `Toward Robust Open-set Adaptation: Synapse Consolidation Inspired by Rac1/MAPK Pathways`: Rank rose by +4
-- **[Rank Rise]** `Dual Path Attribution: Efficient Attribution for SwiGLU-Transformers through Layer-Wise Target Propagation`: Rank rose by +4
-- **[Rank Rise]** `Bound to Disagree: Generalization Bounds via Certifiable Surrogates`: Rank rose by +4
-- **[Rank Rise]** `The Appeal and Reality of Recycling LoRAs with Adaptive Merging`: Rank rose by +4
-- **[Rank Rise]** `Predicting integers from continuous parameters`: Rank rose by +4
-- **[Rank Rise]** `Towards Understanding Steering Strength`: Rank rose by +4
-- **[Rank Rise]** `Synthetic Time Series Generation via Complex Networks`: Rank rose by +4
-- **[Rank Rise]** `Parametric and Generative Forecasts of EPEX Day\char45 Ahead Energy Market Curves`: Rank rose by +4
-- **[Rank Rise]** `Counterfactual Modeling with Fine-Tuned LLMs for Health Intervention Design and Sensor Data Augmentation`: Rank rose by +4
-- **[Rank Rise]** `Attention in Geometry: Scalable Spatial Modeling via Adaptive Density Fields and FAISS-Accelerated Kernels`: Rank rose by +4
-- **[Rank Rise]** `Distributed Dynamic Associative Memory via Online Convex Optimization`: Rank rose by +4
-- **[Rank Rise]** `What's on My Network? Using Large Language Models to Identify Real-World IoT Devices at Scale`: Rank rose by +4
-- **[Rank Rise]** `Provable Affine Identifiability of Nonlinear CCA under Latent Distributional Priors`: Rank rose by +4
-- **[Rank Rise]** `Activation Quantization of Vision Encoders Needs Prefixing Registers`: Rank rose by +4
-- **[Rank Rise]** `FPTQuant: Function-Preserving Transforms for LLM Quantization`: Rank rose by +4
-- **[Rank Rise]** `Subspace Networks: Scaling Decentralized Training with Communication-Efficient Model Parallelism`: Rank rose by +4
-- **[Rank Rise]** `Bifidelity Parameter Estimation Using Conditional Diffusion Models`: Rank rose by +4
-- **[Rank Rise]** `PB-OEL: A Performance-Bounded Online Ensemble Learning Framework With Mixed Feedback for Real-Time Safety Assessment`: Rank rose by +4
-- **[Rank Rise]** `Network Dynamics-Based Framework for Understanding Deep Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `How Learning Dynamics Drive Adversarially Robust Generalization?`: Rank rose by +4
-- **[Rank Rise]** `Provably Efficient Off-Policy Adversarial Imitation Learning with Convergence Guarantees`: Rank rose by +4
-- **[Rank Rise]** `Lipschitz-Regularized Critics Lead to Policy Robustness Against Transition Dynamics Uncertainty`: Rank rose by +4
-- **[Rank Rise]** `A Distributionally Robust Optimisation Approach to Fair Credit Scoring`: Rank rose by +4
-- **[Rank Rise]** `Reinforcement Federated Learning Method Based on Adaptive OPTICS Clustering`: Rank rose by +4
-- **[Rank Rise]** `InferNet: Exploiting Aggregate GPU Profiles as Side-Channel for DNN Architecture Inference`: Rank rose by +4
-- **[Rank Rise]** `Adversarial Rademacher Complexity of Deep Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `Any-Dimensional Learning by Sampling`: Rank rose by +4
-- **[Rank Rise]** `MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models`: Rank rose by +4
-- **[Rank Rise]** `Does Bielik Know What It Doesn't Know? Activation Dispersion Separates Entity Familiarity from Factual Reliability Across Model Scale`: Rank rose by +4
-- **[Rank Rise]** `PALS: Percentile-Aware Layerwise Sparsity for LLM Pruning`: Rank rose by +4
-- **[Rank Rise]** `A Unified Detection Framework for AI-Related Content and Artifacts`: Rank rose by +4
-- **[Rank Rise]** `GIFT: Geometry-Informed Low-precision Gradient Communication for LLM Pretraining`: Rank rose by +4
-- **[Rank Rise]** `Statistical inverse learning and $\ell^1$-regularization`: Rank rose by +4
-- **[Rank Rise]** `Reliable mechanistic operator recovery with biologically-informed neural networks: principles for architecture and optimisation design`: Rank rose by +4
-- **[Rank Rise]** `TF-Engram: A Train-Free Engram with SSD-Backed Memory for Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `R^3: Advertisement Compliance Rectification via Group-Relative Experience Extractor and Curriculum Reinforcement`: Rank rose by +4
-- **[Rank Rise]** `Continual Learning With Participation Privacy: An Auditable Buffering-Aggregation Recipe`: Rank rose by +4
-- **[Rank Rise]** `Restricted Dynamic Geometric Complexity: Path-Space Reduction and M\"obius--Jacobi Response`: Rank rose by +4
-- **[Rank Rise]** `Comparative Study of Domain-adapted VLMs for General Document Visual Question Answering`: Rank rose by +4
-- **[Rank Rise]** `Weight-Space Physics: Interpretable Hypernetworks for Lattice Quantum Field Theories`: Rank rose by +4
-- **[Rank Rise]** `Is Randomness Necessary for Adaptive Data Analysis?`: Rank rose by +4
-- **[Rank Rise]** `Prior-aware and Context-guided Group Sampling for Active Probabilistic Subsampling`: Rank rose by +4
-- **[Rank Rise]** `Behavior Leverage Imbalance in Multi-Teacher On-Policy Distillation`: Rank rose by +4
-- **[Rank Rise]** `Tensorized algorithms and scalable filtering methods for hidden Markov and factorial hidden Markov models`: Rank rose by +4
-- **[Rank Rise]** `EdgeCompress: Coupling Multidimensional Model Compression and Dynamic Inference for EdgeAI`: Rank rose by +4
-- **[Rank Rise]** `MILES: Modular Instruction Memory with Learnable Selection for Self-Improving LLM Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Flow-ERD: Agent-type Aware Flow Matching with Entropy-Regularized Distillation for Diverse Traffic Simulation`: Rank rose by +4
-- **[Rank Rise]** `Mathematical methods of reinforcement learning`: Rank rose by +4
-- **[Rank Rise]** `Compass: Prostate Cancer Detection Needs Multi-View Context`: Rank rose by +4
-- **[Rank Rise]** `Smart Scissor: Coupling Spatial Redundancy Reduction and CNN Compression for Embedded Hardware`: Rank rose by +4
-- **[Rank Rise]** `Finding a stationary point of a stochastic convex problem`: Rank rose by +4
-- **[Rank Rise]** `Video2Reaction: Mapping Video to Audience Reaction Distribution in the Wild`: Rank rose by +4
-- **[Rank Rise]** `Gen4U: Unifying Video Generation and Understanding via Diffusion`: Rank rose by +4
-- **[Rank Rise]** `Tensor Train Diffusion: Leveraging Low-Rank Structures for High-Dimensional Score-Based Sampling`: Rank rose by +4
-- **[Rank Rise]** `CaLiSym: Learning Symplectic Dynamics of Real-World Systems through Structured Canonical Lifts`: Rank rose by +4
-- **[Rank Rise]** `Deployment Risk Assessment Using Diff-Aware Features: A Case Study at Prime Video`: Rank rose by +4
-- **[Rank Rise]** `Optimization Geometrodynamics: Variational Reduction and Interaction Curvature`: Rank rose by +4
-- **[Rank Rise]** `Macroeconomic Message Passing for Anticipating Foreign Exchange Regime Changes: A Deep Logical Learning Approach using Graph Tsetlin Machines`: Rank rose by +4
-- **[Rank Rise]** `Heat-Kernel Entropy Profiles and Geometric Effective Sample Size for Weighted Measures on Manifolds`: Rank rose by +4
-- **[Rank Rise]** `Pelican-VLA 0.5: Attending Before Acting Benefits Generalization`: Rank rose by +4
-- **[Rank Rise]** `POPS: Recovering Unlearned Multi-Modality Knowledge in MLLMs with Prompt-Optimized Parameter Shaking`: Rank rose by +4
-- **[Rank Rise]** `ORAN-DEFEND: Subspace Detection and Sanitization of Backdoor DRL xApps in Open RAN`: Rank rose by +4
-- **[Rank Rise]** `Fast determinantal sampling on general spaces and diffusion geometry`: Rank rose by +4
-- **[Rank Rise]** `The Power of Backdoor Absorption in Community Training`: Rank rose by +4
-- **[Rank Rise]** `Creating Power Distribution Network Layouts Using Generative Adversarial Networks and Image-Based Representations`: Rank rose by +4
-- **[Rank Rise]** `HiFuzz: Hierarchical Reinforcement Learning for Semantic-Aware and Adaptive CPU Fuzzing`: Rank rose by +4
-- **[Rank Rise]** `Format-Controlled Multi-Scale JPEG Compression Response Analysis for Image-Level Forgery Screening`: Rank rose by +4
-- **[Rank Rise]** `Calibration-Family Overfit: Why Trusted Sabotage Monitors Don't Transfer Across Lineages`: Rank rose by +4
-- **[Rank Rise]** `AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis`: Rank rose by +4
-- **[Rank Rise]** `Pixel-Precise Explainable Stress Indexing: A Semantic Segmentation Framework for Disease Severity Quantification in Field Crops`: Rank rose by +4
-- **[Rank Rise]** `Trajectory Inference of Human Aging from Cross-Sectional DNA Methylation Data`: Rank rose by +4
-- **[Rank Rise]** `Recovering Candidate Circadian Regulators of Arrhythmic Pituitary Hormone Genes Using Reliability-Weighted Magnetic Laplacian with rwMagLap`: Rank rose by +4
-- **[Rank Rise]** `Value of Information under Imprecise Probabilities: Decision-Rule-Specific Values and Fixed-Measure Envelopes on a Credal Set`: Rank rose by +4
-- **[Rank Rise]** `Towards a Pseudo-Labeling Workflow for Celltype-Classification from Explanted Brain Slice Recordings`: Rank rose by +4
-- **[Rank Rise]** `The Key to Going Linear: Analysis-Driven Transformer Linearization`: Rank rose by +4
-- **[Rank Rise]** `ECGLight: Compute-Light Framework For Paper ECG Digitization and Myocardial Infarction Screening`: Rank rose by +4
-- **[Rank Rise]** `Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrained Optimization`: Rank rose by +4
-- **[Rank Rise]** `How Data Shapes RoPE Frequency Usage: From Positional Scale Matching to Length Generalization`: Rank rose by +4
-- **[Rank Rise]** `Max Out GRPO Signal: Adaptive Trace Prefix Control for Hard Reasoning Problems`: Rank rose by +4
-- **[Rank Rise]** `PeTeR: Post-Training Robustification of Probabilistic Circuits`: Rank rose by +4
-- **[Rank Rise]** `Guidance Breaks the Fitted Operator: A Terminal-Fitted Repair for Classifier-Free Guidance`: Rank rose by +4
-- **[Rank Rise]** `An optimal control approach for neural network architecture adaptation with a posteriori error estimation`: Rank rose by +4
-- **[Rank Rise]** `Higher-Order Geometric Updates for Levenberg-Marquardt Method via Riemann Normal Coordinates`: Rank rose by +4
-- **[Rank Rise]** `Asymmetric Focal Loss Improves Graph Neural Network Prediction of Drug-Drug Interactions`: Rank rose by +4
-- **[Rank Rise]** `Multi-Class vs. Multi-Label BERT for CVE-to-CWE Mapping: How Taxonomy Structure Shapes the Errors`: Rank rose by +4
-- **[Rank Rise]** `Avoiding unsafe sets when training with Langevin Dynamics`: Rank rose by +4
-- **[Rank Rise]** `Gradient-free Riemannian Langevin Sampler`: Rank rose by +4
-- **[Rank Rise]** `Fast Rates for Semi-Supervised Learning via Data-Augmentation Graph Regularization`: Rank rose by +4
-- **[Rank Rise]** `FourierQK: Spectral Preprocessing of Query-Key Projections Improves Transformer Attention`: Rank rose by +4
-- **[Rank Rise]** `The Optimal Sample Complexity of Learning Autoregressive Chain-of-Thought`: Rank rose by +4
-- **[Rank Rise]** `Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity`: Rank rose by +4
-- **[Rank Rise]** `Generalist Vision-Language Models for Fast Radio Burst detection: a zero-shot benchmark against a specialized detector`: Rank rose by +4
-- **[Rank Rise]** `Mechanistic Interpretability for Neural Networks: Circuits, Sparse Features and Symbolic Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Nonlinear Bandit`: Rank rose by +4
-- **[Rank Rise]** `BubbleSH: A Dataset of Rising Bubbles with Deformable Interfaces`: Rank rose by +4
-- **[Rank Rise]** `Safe Reinforcement Learning using Ideas from Model Predictive Control`: Rank rose by +4
-- **[Rank Rise]** `HPG-Diff: Hierarchical physics-guided diffusion with differentiable connectivity constraints for topology optimization`: Rank rose by +4
-- **[Rank Rise]** `Causal Optimizer Interaction Calculus: Hidden Geometric Relaxation and Identifiable Interventions`: Rank rose by +4
-- **[Rank Rise]** `The Anatomy of Implicit Bias: Information Allocation in Neural Network Training`: Rank rose by +4
-- **[Rank Rise]** `Prior-matched evaluation of operational Earth-observation classifiers: a three-number reporting method demonstrated on Sentinel-1 internal-wave detection`: Rank rose by +4
-- **[Rank Rise]** `Fractal KV-Cache Archives: Lossless Symbolic Storage with In-Place Retrieval for Long-Context LLM Inference`: Rank rose by +4
-- **[Rank Rise]** `Distributed Sparse Interventions in Language Models`: Rank rose by +4
-- **[Rank Rise]** `A knowledge-augmented dataset of high-risk driving scenarios with LLM annotations for autonomous driving`: Rank rose by +4
-- **[Rank Rise]** `Structural Adversarial Attacks on Relational Deep Learning under Integrity Constraints`: Rank rose by +4
-- **[Rank Rise]** `An Hybrid Quantum-Classical Diffusion Model for Image Generation`: Rank rose by +4
-- **[Rank Rise]** `Eigenbasis-Independent Learnable Spectral Positional Encodings for Directed Graphs via Hermitian Block Krylov Subspaces`: Rank rose by +4
-- **[Rank Rise]** `Constrained Decoding for Diffusion Language Models via Efficient Inference over Finite Automata`: Rank rose by +4
-- **[Rank Rise]** `Online Data Selection Is Implicit Alignment`: Rank rose by +4
-- **[Rank Rise]** `Dissociating the Internal Representations of Sycophancy in LLMs`: Rank rose by +4
-- **[Rank Rise]** `UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma`: Rank rose by +4
-- **[Rank Rise]** `Robust Federated Learning Under Real-World Client Churn`: Rank rose by +4
-- **[Rank Rise]** `Rethinking Multimodal Time-Series Forecasting Evaluation`: Rank rose by +4
-- **[Rank Rise]** `Physical activities enable scalable foundation modelling for broad-spectrum health prediction`: Rank rose by +4
-- **[Rank Rise]** `Intrinsic-Noise Consolidation: A Doob-Barrier-Conditioned Diffusion Turns Analog Device Noise into a Continual-Learning Resource`: Rank rose by +4
-- **[Rank Rise]** `Latency-Constrained DNN Architecture Learning for Edge Systems using Zerorized Batch Normalization`: Rank rose by +4
-- **[Rank Rise]** `Converge to Surprise: Evolutionary Self-supervised Image Clustering`: Rank rose by +4
-- **[Rank Rise]** `Best-Arm Identification with Generative Proxy`: Rank rose by +4
-- **[Rank Rise]** `Geometric Self-Distillation for Reasoning Generalization`: Rank rose by +4
-- **[Rank Rise]** `LEMUR 2: Unlocking Neural Network Diversity for AI`: Rank rose by +4
-- **[Rank Rise]** `Generative Diffusion Models of Stochastic Graph Signals`: Rank rose by +4
-- **[Rank Rise]** `On Explicit Super-Expressive Approximation for Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `Efficient Bayesian Deep Ensembles via Analytic Predictive Inference`: Rank rose by +4
-- **[Rank Rise]** `Efficient Long-Horizon Learning for Learned Optimization`: Rank rose by +4
-- **[Rank Rise]** `Trees from Marginals: Autoregressive drafting with factorized priors`: Rank rose by +4
-- **[Rank Rise]** `Robust Human-AI Complementarity under Uncertainty`: Rank rose by +4
-- **[Rank Rise]** `Dual Attention Heads for Personalized Federated Learning in ECG Classification`: Rank rose by +4
-- **[Rank Rise]** `From Jumps to Signatures: a Generative Method for Temporal Point Processes`: Rank rose by +4
-- **[Rank Rise]** `Entropy-Guided Tensor Compression for Multimodal Federated Learning on Edge Devices`: Rank rose by +4
-- **[Rank Rise]** `Final Checkpoints Are Not Enough: Analyzing Latent Reasoning Faithfulness Along Training Trajectories`: Rank rose by +4
-- **[Rank Rise]** `The Approximation Ratio for the Risk of Myopic Bayesian Active Learning for Linear Regression`: Rank rose by +4
-- **[Rank Rise]** `UASPL: Uncertainty-Aware Self-Paced Learning with Evidential Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `Optimized Instance Alteration for Explaining and Assessing Robustness of Classifiers`: Rank rose by +4
-- **[Rank Rise]** `When Do Geometric Algebra Layers Beat Scalarization? A Controlled Study on SO(3)-Equivariant Vector Laws`: Rank rose by +4
-- **[Rank Rise]** `Does Demand Response Increase Vulnerability to Cyber Attacks by Adversarial Data Modifications?`: Rank rose by +4
-- **[Rank Rise]** `When Certificates Fail: A Unified Safety Framework for Embedded Neural Interface Models`: Rank rose by +4
-- **[Rank Rise]** `STST-JEPA: Shallow-Target Spatio-Temporal Joint Embedding Prediction Architecture For EEG Self-Supervised Learning`: Rank rose by +4
-- **[Rank Rise]** `Reward Valuation in Vision Language Models: Causal Mechanisms Underlying Anhedonia`: Rank rose by +4
-- **[Rank Rise]** `Fingerprint, Not Blueprint: How Positional Schemes Set the Default Spectral Algebra of Attention`: Rank rose by +4
-- **[Rank Rise]** `A Quiet Failure in Calibrated Virtual Screening: Marginal Conformal Prediction Under-Covers the Minority Class, and a Class-Conditional Fix Recovers It`: Rank rose by +4
-- **[Rank Rise]** `JuZhou 1.0 Technical Report: The First Edge-Native Text-to-Image Foundation Model Trained Entirely on China-Developed AI Accelerators`: Rank rose by +4
-- **[Rank Rise]** `MetaConfigurator: AI-Assisted RDF Authoring from JSON Data`: Rank rose by +4
-- **[Rank Rise]** `Trust, but Don't Verify: Epistemic Blind Spots in LLM Source Evaluation`: Rank rose by +4
-- **[Rank Rise]** `Trading Human Curation for Synthetic Augmentation in RLVR`: Rank rose by +4
-- **[Rank Rise]** `Informing AI Policy Assessment using Large-Scale Simulation of Interventions`: Rank rose by +4
-- **[Rank Rise]** `Cast a Wider Net: Coordinated Pass@K Policy Optimization for Code Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Structured Belief State and the First Precision-Aware Benchmark for LLM Memory Retrieval`: Rank rose by +4
-- **[Rank Rise]** `Optimal FALQON for Quantum Approximate Optimization via Layer-wise Parameter Tuning`: Rank rose by +4
-- **[Rank Rise]** `From Beats to Breaches:How Offensive AI Infers Sensitive User Information from Playlists`: Rank rose by +4
-- **[Rank Rise]** `Health System Scale Semantic Search Across Unstructured Clinical Notes`: Rank rose by +4
-- **[Rank Rise]** `AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection`: Rank rose by +4
-- **[Rank Rise]** `Diversity Without Fidelity: A Solver-Sampler Mismatch in Multi-Agent LLM Negotiation Simulation`: Rank rose by +4
-- **[Rank Rise]** `Exploration of Fast-Slow Latent Recurrence for Train-Short, Test-Long Generalization`: Rank rose by +4
-- **[Rank Rise]** `From Content to Audience: A Multimodal Annotation Framework for Broadcast Television Analytics`: Rank rose by +4
-- **[Rank Rise]** `Object Search in Partially-Known Environments via LLM-informed Model-based Planning and Prompt Selection`: Rank rose by +4
-- **[Rank Rise]** `Effective Strategies for Asynchronous Software Engineering Agents`: Rank rose by +4
-- **[Rank Rise]** `CompDiff: Hierarchical Compositional Diffusion for Fair and Zero-Shot Intersectional Medical Image Generation`: Rank rose by +4
-- **[Rank Rise]** `DASH: Dynamic Audio-Driven Semantic Chunking for Efficient Omnimodal Token Compression`: Rank rose by +4
-- **[Rank Rise]** `Named-Entity Recognition in the Crime Domain (CrimeNER): Case Study and Dataset`: Rank rose by +4
-- **[Rank Rise]** `Can We Really Learn One Representation to Optimize All Rewards?`: Rank rose by +4
-- **[Rank Rise]** `Spatiotemporal Semantic V2X Framework for Cooperative Collision Prediction`: Rank rose by +4
-- **[Rank Rise]** `ButterflyMoE: Compression-Scalable Ternary Experts via Structured Butterfly Orbits`: Rank rose by +4
-- **[Rank Rise]** `HiDVFS: Hierarchical Multi-Agent DVFS for Real-Time OpenMP DAG Workloads`: Rank rose by +4
-- **[Rank Rise]** `HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies`: Rank rose by +4
-- **[Rank Rise]** `FDRMFL: Multimodal Federated Feature Extraction Model Based on Information Maximization and Contrastive Learning`: Rank rose by +4
-- **[Rank Rise]** `Thinking Ahead: Foresight Intelligence in MLLMs and World Model`: Rank rose by +4
-- **[Rank Rise]** `T2T-VICL: Cross-Task Visual In-Context Learning via Implicit Text-Driven VLMs`: Rank rose by +4
-- **[Rank Rise]** `Refine Thought: A Test-Time Inference Method for Embedding Model Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Rapidly Learning Soft Robot Control via Implicit Time-Stepping`: Rank rose by +4
-- **[Rank Rise]** `NonTextual Target Attack`: Rank rose by +4
-- **[Rank Rise]** `Explain Before You Answer: A Survey on Compositional Visual Reasoning`: Rank rose by +4
-- **[Rank Rise]** `LHM-Humanoid: Long-Horizon Human Motion Control for Continuous Object Transport in Cluttered Scenes`: Rank rose by +4
-- **[Rank Rise]** `A Study of Commonsense Reasoning over Visual Object Properties`: Rank rose by +4
-- **[Rank Rise]** `L-GTA: Latent Generative Modeling for Time Series Augmentation`: Rank rose by +4
-- **[Rank Rise]** `Understanding Two-Layer Neural Networks with Smooth Activation Functions`: Rank rose by +4
-- **[Rank Rise]** `VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting`: Rank rose by +4
-- **[Rank Rise]** `Silent Neuron Theory and Plasticity Preservation for Deep Reinforcement Learning in Adaptive Video Streaming`: Rank rose by +4
-- **[Rank Rise]** `The Minimal Search Space for Conditional Causal Bandits`: Rank rose by +4
-- **[Rank Rise]** `ContrastiveCFG: Guiding Diffusion Sampling by Contrasting Positive and Negative Concepts`: Rank rose by +4
-- **[Rank Rise]** `Faster and Simpler Greedy Algorithm for $k$-Median and $k$-Means`: Rank rose by +4
-- **[Rank Rise]** `A-TMA: Decoupling State-Aware Memory Failures in Long-Term Agent Memory`: Rank rose by +4
-- **[Rank Rise]** `When Summaries Distort Decisions: Information Fidelity in LLM-Compressed Financial Analysis`: Rank rose by +4
-- **[Rank Rise]** `M$^3$: Reframing Training Measures for Discretized Physical Simulations`: Rank rose by +4
-- **[Rank Rise]** `Terminus-4B: Can a Smaller Model Replace Frontier LLMs at Agentic Execution Tasks?`: Rank rose by +4
-- **[Rank Rise]** `Participatory provenance as representational auditing for AI-mediated public consultation`: Rank rose by +4
-- **[Rank Rise]** `Measuring the metacognition of AI`: Rank rose by +4
-- **[Rank Rise]** `Anomaly detection in time-series via inductive biases in the latent space of conditional normalizing flows`: Rank rose by +4
-- **[Rank Rise]** `EMO-R3: Reflective Reinforcement Learning for Emotional Reasoning in Multimodal Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `Power and Limitations of Aggregation in Compound AI Systems`: Rank rose by +4
-- **[Rank Rise]** `SOMtime the World Ain$'$t Fair: Violating Fairness Using Self-Organizing Maps`: Rank rose by +4
-- **[Rank Rise]** `An Adaptive Differentially Private Federated Learning Framework`: Rank rose by +4
-- **[Rank Rise]** `AI Chatbot Suicide Risk Detection and Response: Human Validation Study of the Open-Source VERA-MH Safety Evaluation`: Rank rose by +4
-- **[Rank Rise]** `Framing Instability in LLM Ethical Stance: Auditing Negation Sensitivity in Moral Dilemmas`: Rank rose by +4
-- **[Rank Rise]** `Neutral Substrates: A Design Constraint for Shared Records Under Persistent Interpretive Disagreement`: Rank rose by +4
-- **[Rank Rise]** `AGAPI-Agents: An Open-Access Agentic AI Platform for Accelerated Materials Design on AtomGPT.org`: Rank rose by +4
-- **[Rank Rise]** `LiveOIBench: Can Large Language Models Outperform Human Contestants in Informatics Olympiads?`: Rank rose by +4
-- **[Rank Rise]** `Shared Modular Recurrence in Contextual MDPs for Universal Morphology Control`: Rank rose by +4
-- **[Rank Rise]** `Successor-Generator Planning with LLM-generated Heuristics`: Rank rose by +4
-- **[Rank Rise]** `Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Co-LMLM: Continuous-Query Limited Memory Language Models`: Rank rose by +4
-- **[Rank Rise]** `Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass`: Rank rose by +4
-- **[Rank Rise]** `Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF`: Rank rose by +4
-- **[Rank Rise]** `Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning`: Rank rose by +4
-- **[Rank Rise]** `DiaLLM: An Investigation into the Robustness-Generation Gap in English Dialect Adaptation`: Rank rose by +4
-- **[Rank Rise]** `ALER-TI: Aligned Latent Embedding Retrieval for Time Series Imputation`: Rank rose by +4
-- **[Rank Rise]** `QCNN with Rough Path Signature Kernels`: Rank rose by +4
-- **[Rank Rise]** `Future Confidence Distillation in Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `Towards Agentic AI Governance: A Preliminary Assessment`: Rank rose by +4
-- **[Rank Rise]** `CARLA-GS: Decoupling Representation, Reasoning, and Physics Simulation for Autonomous Driving Corner-Case Synthesis`: Rank rose by +4
-- **[Rank Rise]** `Collaborative Synthetic Data Generation for Knowledge Transfer in Federated Learning`: Rank rose by +4
-- **[Rank Rise]** `Creativity from Friction: Human-AI Interaction for Exploratory Structural Design`: Rank rose by +4
-- **[Rank Rise]** `Stability of Flow Models for Graph Signals`: Rank rose by +4
-- **[Rank Rise]** `Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `HIVE: Understanding Post-Hallucination Reasoning in Vision Language Models`: Rank rose by +4
-- **[Rank Rise]** `TimEE: End-to-end Time Series Classification via In-Context Learning`: Rank rose by +4
-- **[Rank Rise]** `Reward-Adaptive Iterative Discovery: A Case Study on Automated Game Testing for NHL26`: Rank rose by +4
-- **[Rank Rise]** `Beyond Attack-Success Rate: Action-Graded Severity Scale for Tool-Using AI Agents`: Rank rose by +4
-- **[Rank Rise]** `Where to Intervene? Benchmarking Fairness-Aware Learning on Differentially Private Synthetic Tabular Data`: Rank rose by +4
-- **[Rank Rise]** `SynthAVE: Scalable Synthetic Labeling for E-Commerce with LLM-Arena Validation`: Rank rose by +4
-- **[Rank Rise]** `RLVP: Penalize the Path, Reward the Outcome`: Rank rose by +4
-- **[Rank Rise]** `Heterogeneity-Adaptive Diffusion Schrodinger Bridge for PET-Guided Whole-Body MRI Translation`: Rank rose by +4
-- **[Rank Rise]** `When Prompts Ignore Structure: Graph-Based Attribute Reasoning for Calibrated VLMs`: Rank rose by +4
-- **[Rank Rise]** `On Adversarial Vulnerability of Vision-Language Models through the Lens of Intermediate Spectral Subspaces`: Rank rose by +4
-- **[Rank Rise]** `Behavior Foundations for Quadruped Robots: ABot-C0 Technical Report`: Rank rose by +4
-- **[Rank Rise]** `Multi-Agent AI Control: Distributed Attacks Hamper Per-Instance Monitors`: Rank rose by +4
-- **[Rank Rise]** `HumAIN: Human-Aware Implicit Social Robot Navigation`: Rank rose by +4
-- **[Rank Rise]** `Latency-Aware Bid Acceptance under Operational Feasibility: A Public Benchmark with Hindsight Ceilings`: Rank rose by +4
-- **[Rank Rise]** `Quantum simulation of real-world nonlinear dynamics via Koopman method`: Rank rose by +4
-- **[Rank Rise]** `Hypergraph Neural Stochastic Diffusion: An SDE Framework for Uncertainty Estimation`: Rank rose by +4
-- **[Rank Rise]** `HAJJv2-CrowdCount: Zero-Shot Benchmark for Dense Crowd Counting`: Rank rose by +4
-- **[Rank Rise]** `FedCVESA: Taking Away Training Data in Federated Learning via Correlation Value Encoding and Segmented Aggregation`: Rank rose by +4
-- **[Rank Rise]** `POO-LPSP: Parallel Osprey Optimized Least Penalty-Squared Prioritization Methods for Priority Derivation in the Analytic Hierarchy Process`: Rank rose by +4
-- **[Rank Rise]** `Multimodal Voice Activity Projection for Turn-Taking in Social Robots with Voice-Activity-Related Pretrained Encoders`: Rank rose by +4
-- **[Rank Rise]** `CarbonCLIP: Enhance Carbon Prediction from Satellite Imagery via Integrated Street-View Semantics and Temporal Context Training`: Rank rose by +4
-- **[Rank Rise]** `Bayesian Optimization of Genetic Algorithm Hyperparameters in a Multi-Fidelity Framework for Efficient Lattice Material Design`: Rank rose by +4
-- **[Rank Rise]** `FMMVCC: Fuzzy Mamba-based Multi-View Contrastive Clustering for Univariate Time Series`: Rank rose by +4
-- **[Rank Rise]** `ORCAID: Oblique Rule-Based Continuous-Action Interpretation for Deep RL Policies`: Rank rose by +4
-- **[Rank Rise]** `DiPhon: Diffusion on Graphons for Scalable Graph Generation`: Rank rose by +4
-- **[Rank Rise]** `Vision Foundation Models in Radiology: A Scoping Review of Data, Methodology, Evaluation and Clinical Translation`: Rank rose by +4
-- **[Rank Rise]** `Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030 -- A quantitative scenario analysis of inference economics, training-cost divergence, and infrastructure solvency`: Rank rose by +4
-- **[Rank Rise]** `Validate the Dream Before You Trust Its Verdict: Admissibility for World-Model Simulators`: Rank rose by +4
-- **[Rank Rise]** `Predicting LLM Safety Before Release by Simulating Deployment`: Rank rose by +4
-- **[Rank Rise]** `Entropy Pacing Policy Optimization for Multi-Task Agentic Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Tree-of-Thoughts Reasoning for Text-to-Image In-Context Learning`: Rank rose by +4
-- **[Rank Rise]** `GeoProp: Grounding Robot State in Vision for Generalist Manipulation`: Rank rose by +4
-- **[Rank Rise]** `AT-Attn: Temporal-Aware Cross-Attention for Longitudinal Multimodal Alzheimer's Disease Diagnosis`: Rank rose by +4
-- **[Rank Rise]** `Navigating Hierarchy: Hyperbolic Learning on Brain Graphs for Disorder Diagnosis`: Rank rose by +4
-- **[Rank Rise]** `Multiplication Beyond Groups: Stratified Fourier Mechanisms in Transformer Circuits`: Rank rose by +4
-- **[Rank Rise]** `Complexity-Budgeted, Interaction-Aware Interpretable Model for Tabular Data`: Rank rose by +4
-- **[Rank Rise]** `Progressive Crystallization: Turning Agent Exploration into Deterministic, Lower-Cost Workflows in Production`: Rank rose by +4
-- **[Rank Rise]** `Making Implicit Preservation Intent Explicit in Conversational Image Editing`: Rank rose by +4
-- **[Rank Rise]** `Riemannian Geometry for Pre-trained Language Model Embeddings`: Rank rose by +4
-- **[Rank Rise]** `On the Principles of Deep Feedforward ReLU Networks`: Rank rose by +4
-- **[Rank Rise]** `Intrinsic Green's Learning: Supervised Learning on Manifolds via Inverse PDE`: Rank rose by +4
-- **[Rank Rise]** `AnchorPrune: Relevance-Anchored Contextual Expansion for Visual Token Pruning`: Rank rose by +4
-- **[Rank Rise]** `Gimitest: A Comprehensive Tool for Testing Reinforcement Learning Policies`: Rank rose by +4
-- **[Rank Rise]** `Latent graph encoding of multimodal neuroimaging features with generative AI architectures`: Rank rose by +4
-- **[Rank Rise]** `Multimodal Spatiotemporal-Frequency Fusion with Peak Enhancement for Cellular Traffic Forecasting`: Rank rose by +4
-- **[Rank Rise]** `Physics-guided spatiotemporal neural models for fuel density prediction`: Rank rose by +4
-- **[Rank Rise]** `WAM-TTT: Steering World-Action Models by Watching Human Play at Test Time`: Rank rose by +4
-- **[Rank Rise]** `Hybrid Least Squares/Gradient Descent Methods for MIONets`: Rank rose by +4
-- **[Rank Rise]** `End-to-End LLM Flight Planning with RAG-based Memory and Multi-modal Coach Agent`: Rank rose by +4
-- **[Rank Rise]** `Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies`: Rank rose by +4
-- **[Rank Rise]** `Self-Supervised Pretraining Improves Cross-Site and Cross-Scale Robustness of Point Cloud Leaf-Wood Segmentation`: Rank rose by +4
-- **[Rank Rise]** `Comprehensive Evaluation of Large Language Model Responses: A Multi-Factor Scoring System`: Rank rose by +4
-- **[Rank Rise]** `Imputation Meets Clustering: Exploiting Latent Subgroup Structure for Missing Data Recovery`: Rank rose by +4
-- **[Rank Rise]** `MADB: A Large-Scale Music Aesthetics Dataset with Professional and Multi-Dimensional Annotations`: Rank rose by +4
-- **[Rank Rise]** `LoCA: Spatially-Aware Low-Rank Convolutional Adaptation of Vision Foundation Models`: Rank rose by +4
-- **[Rank Rise]** `Computing with Stochastic Oracles in AI-Augmented Computation`: Rank rose by +4
-- **[Rank Rise]** `ReMoDEx: A Local-to-Global Relevance-Based Model Decision Explainability Framework for large-Scale Image Datasets`: Rank rose by +4
-- **[Rank Rise]** `GemNav: Discrete-Token Visual Robot Navigation using a Multimodal Large Language Model`: Rank rose by +4
-- **[Rank Rise]** `A Gold-Standard Study of What Makes a Lightweight Game-Playing Agent Strong`: Rank rose by +4
-- **[Rank Rise]** `Gradient-Based Speech-to-Text Alignment for Any ASR Model: From CTC to Speech LLMs`: Rank rose by +4
-- **[Rank Rise]** `Ad Headline Generation using Self-Critical Masked Language Model`: Rank rose by +4
-- **[Rank Rise]** `When Agents Go Rogue: Activation-Based Detection of Malicious Behaviors in Multi-Agent Systems`: Rank rose by +4
-- **[Rank Rise]** `A Multi-Analyst LLM Pipeline for Auditable Rule Discovery Across 68 Public Physiological Corpora`: Rank rose by +4
-- **[Rank Rise]** `What Predicts Correctness in Text-to-SQL? A Selective-Prediction Study`: Rank rose by +4
-- **[Rank Rise]** `Enhancing deep learning models for time series classification via knowledge distillation`: Rank rose by +4
-- **[Rank Rise]** `From Agentic to Autogenic Network Management for AI-Native 6G and Beyond: A Standards Perspective`: Rank rose by +4
-- **[Rank Rise]** `AirPASS: Over-the-Air Federated Learning via Pinching Antenna Systems`: Rank rose by +4
-- **[Rank Rise]** `SmartHomeSecure: Automated Detection and Repair of Smart Home Configuration Errors Using Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `A Continual Learning Framework for Adaptive Control of Modular Soft Robots`: Rank rose by +4
-- **[Rank Rise]** `Reliable and Developer-Aligned Evaluation of Agents for Software Engineering`: Rank rose by +4
-- **[Rank Rise]** `Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review`: Rank rose by +4
-- **[Rank Rise]** `SPEAR: A Simulator for Photorealistic Embodied AI Research`: Rank rose by +4
-- **[Rank Rise]** `tsbootstrap: Distribution-Free Uncertainty Quantification and Conformal Prediction for Time Series`: Rank rose by +4
-- **[Rank Rise]** `Digital Fragmentation and Generative AI Use Across 103 Million Application Events`: Rank rose by +4
-- **[Rank Rise]** `Diffusion enabled Optimal Transport distances for graph matching`: Rank rose by +4
-- **[Rank Rise]** `Healthier LLMs: Retrieval-Augmented Generation for Public Health Question Answering`: Rank rose by +4
-- **[Rank Rise]** `The Rank-One Corner: How Much Value Equivalence Does a Task Need from a World Model?`: Rank rose by +4
-- **[Rank Rise]** `At-Grok Is Not Converged:A Measurement-Validity Audit for Grokking Representation Metrics`: Rank rose by +4
-- **[Rank Rise]** `Specification Grounding Drives Test Effectiveness for LLM Code`: Rank rose by +4
-- **[Rank Rise]** `ProMoE-FL: Prototype-conditioned Mixture of Experts for Multimodal Federated Learning with Missing Modalities`: Rank rose by +4
-- **[Rank Rise]** `Dynamic-in-Few-Step: Unifying Dynamic Computation and Few-Step Distillation for Efficient Video Generation`: Rank rose by +4
-- **[Rank Rise]** `Cross-Trajectory Chimera Interventions Reveal Dissociable Roles of Weight Magnitude and Direction in Grokking`: Rank rose by +4
-- **[Rank Rise]** `Open-Ended Scenario Reasoning for Specialist Model Adaptation`: Rank rose by +4
-- **[Rank Rise]** `LLM-Guided Task-Semantic Field Factorization for Industrial Process Forecasting`: Rank rose by +4
-- **[Rank Rise]** `SpaR3D-MoE: Adaptive 3D Spatial Reasoning from Sparse Views Meets Geometry-Inductive Mixture-of-Experts`: Rank rose by +4
-- **[Rank Rise]** `Overview of the NLPCC 2026 Shared Task 1: Difficulty-Aware Multilingual and Multimodal Medical Instructional Video Understanding Evaluation`: Rank rose by +4
-- **[Rank Rise]** `Inertia-1: An Open Exploration of Wearable Motion Foundation Models`: Rank rose by +4
-- **[Rank Rise]** `WHERE to Generate Matters: Budget-Aware Synthetic Augmentation for Label Skewed Federated Learning`: Rank rose by +4
-- **[Rank Rise]** `STAGformer: A Spatio-temporal Agent Graph Transformer for Micro Mobility Demand Forecasting`: Rank rose by +4
-- **[Rank Rise]** `PRoVeFL: Private Robust and Verifiable Aggregation in Federated Learning`: Rank rose by +4
-- **[Rank Rise]** `Audio Sentiment Analysis via Distillation and Cross-Modal Integration of Generated Multilingual Transcripts`: Rank rose by +4
-- **[Rank Rise]** `Deep Reinforcement Learning for Reliability Based Bi-Objective Portfolio Optimization`: Rank rose by +4
-- **[Rank Rise]** `D2PO: Optimizing Diffusion Samplers via Dynamic Preference`: Rank rose by +4
-- **[Rank Rise]** `Security and Privacy in Agentic AI: Grand Challenges and Future Directions`: Rank rose by +4
-- **[Rank Rise]** `NEST: Tackling Dataset-Level Distribution Shifts via Regime-Oriented Mixture-of-Experts`: Rank rose by +4
-- **[Rank Rise]** `Do Counterfactually Fair Image Classifiers Satisfy Group Fairness? -- A Theoretical and Empirical Study`: Rank rose by +4
-- **[Rank Rise]** `TriRoute: Unified Learned Routing for Joint Adaptive Attention, Experts, and KV-Cache Allocation`: Rank rose by +4
-- **[Rank Rise]** `MiLSD: A Micro Line-Segment Detector for Resource-Constrained Devices`: Rank rose by +4
-- **[Rank Rise]** `Non-contact, Real-time, Heart-rate Measurement using Image Processing with Commodity Cameras and AI Agents`: Rank rose by +4
-- **[Rank Rise]** `When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents`: Rank rose by +4
-- **[Rank Rise]** `LipSSD: Lipschitz-Constrained Single-Shot Detection for Adversarially Robust Object Detection`: Rank rose by +4
-- **[Rank Rise]** `Can Reinforcement Learning Efficiently Discover Price Manipulation?`: Rank rose by +4
-- **[Rank Rise]** `Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety`: Rank rose by +4
-- **[Rank Rise]** `SkillCenter: A Large-Scale Source-Grounded Skill Library for Autonomous AI Agents`: Rank rose by +4
-- **[Rank Rise]** `Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous Research Loops`: Rank rose by +4
-- **[Rank Rise]** `RL Post-Training Builds Compositional Reasoning Strategies`: Rank rose by +4
-- **[Rank Rise]** `Do LLM-Generated Skills Make Better AI Data Scientists? A Component Ablation Across Data-Science Workflows`: Rank rose by +4
-- **[Rank Rise]** `Search, Fail, Recover: A Training Framework for Correction-Aware Reasoning`: Rank rose by +4
-- **[Rank Rise]** `SpaCellAgent: A Self-Evolving LLM-Based Multi-Agent Framework for Trajectory Analysis`: Rank rose by +4
-- **[Rank Rise]** `The Blind Curator: How a Biased Judge Silently Disables Skill Retirement in Self-Evolving Agents`: Rank rose by +4
-- **[Rank Rise]** `InductWave: Inductive Multi-Hop Logical Query Answering on Knowledge Graphs`: Rank rose by +4
-- **[Rank Rise]** `Reason Less, Verify More: Deterministic Gates Recover a Silent Policy-Violation Failure Mode in Tool-Using LLM Agents`: Rank rose by +4
-- **[Rank Rise]** `Agentic Data Environments`: Rank rose by +4
-- **[Rank Rise]** `MIRA-Math: A Benchmark for Minimal Information Requesting and Mathematical Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Physics-Audited Agentic Discovery in Scientific Machine Learning`: Rank rose by +4
-- **[Rank Rise]** `From Atomic Actions to Standard Operating Procedures: Iterative Tool Optimization for Self-Evolving LLM Agents`: Rank rose by +4
-- **[Rank Rise]** `Reasoning Consistency Scanning: A Framework for Auditing Chain-of-Thought Validity in AI Safety Evaluations`: Rank rose by +4
-- **[Rank Rise]** `Does AI Understand Imaging? A Systematic Benchmark of Agentic AI for Computational Imaging Tasks`: Rank rose by +4
-- **[Rank Rise]** `Operational Reframing and Approval-Framed Delegation in Multi-Agent LLM Safety`: Rank rose by +4
-- **[Rank Rise]** `Measuring Intelligence Beyond Human Scale`: Rank rose by +4
-- **[Rank Rise]** `Learning social norms enhances compatibility in dynamic human-AI coordination`: Rank rose by +4
-- **[Rank Rise]** `Large Behavior Model: A Promptable Digital Twin of the Retail Customer`: Rank rose by +4
-- **[Rank Rise]** `Grounding Spatial Relations in a Compact World Model: Instruction Leakage and a Goal-Free Dynamics Fix`: Rank rose by +4
-- **[Rank Rise]** `The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI`: Rank rose by +4
-- **[Rank Rise]** `Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics`: Rank rose by +4
-- **[Rank Rise]** `Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1`: Rank rose by +4
-- **[Rank Rise]** `QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron`: Rank rose by +4
-- **[Rank Rise]** `LLM-powered reasoning in agent-based modeling`: Rank rose by +4
-- **[Rank Rise]** `When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning`: Rank rose by +4
-- **[Rank Rise]** `AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation`: Rank rose by +4
-- **[Rank Rise]** `Tutorials | Haystack`: Rank rose by +4
-- **[Rank Rise]** `Build & Scale AI Agents and Apps Faster | Haystack Enterprise Platform`: Rank rose by +4
-- **[Rank Rise]** `Introduction to Haystack | Haystack Documentation`: Rank rose by +4
-- **[Rank Rise]** `Google Cloud Blog | News, Features and Announcements`: Rank rose by +4
-- **[Rank Rise]** `AI and ML | Google Cloud Documentation`: Rank rose by +4
-- **[Rank Rise]** `Google Cloud Platform · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Gemini for Google Cloud pricing | Google Cloud`: Rank rose by +4
-- **[Rank Rise]** `Gemini for Google Cloud overview | Google Cloud Documentation`: Rank rose by +4
-- **[Rank Rise]** `Set up Gemini Code Assist Standard and Enterprise | Gemini for Google Cloud | Google Cloud Documentation`: Rank rose by +4
-- **[Rank Rise]** `Code customization overview | Gemini for Google Cloud | Google Cloud Documentation`: Rank rose by +4
-- **[Rank Rise]** `cwebp | WebP | Google for Developers`: Rank rose by +4
-- **[Rank Rise]** `disintegration/imaging`: Rank rose by +4
-- **[Rank Rise]** `Gemini in Android Studio - Android Developers`: Rank rose by +4
-- **[Rank Rise]** `Haystack`: Rank rose by +4
-- **[Rank Rise]** `Hugging Face – The AI community building the future.`: Rank rose by +4
-- **[Rank Rise]** `kernels-community (kernels-community)`: Rank rose by +4
-- **[Rank Rise]** `Privacy Checkup`: Rank rose by +4
-- **[Rank Rise]** `Control Your Online Safety and Privacy - Google Safety Center`: Rank rose by +4
-- **[Rank Rise]** `Review your order history - Google Play Help`: Rank rose by +4
-- **[Rank Rise]** `encoding.HexDecode`: Rank rose by +4
-- **[Rank Rise]** `encoding.HexEncode`: Rank rose by +4
-- **[Rank Rise]** `Discord RSS Bot — Auto-Send YouTube, Reddit, Twitter, Twitch & News to Discord | Readybot.io`: Rank rose by +4
-- **[Rank Rise]** `The Sovereign AI Platform for Agents`: Rank rose by +4
-- **[Rank Rise]** `Cypher: Variable-length relationships by example`: Rank rose by +4
-- **[Rank Rise]** `NVIDIA Nemotron V2 - a nvidia Collection`: Rank rose by +4
-- **[Rank Rise]** `Build a Retrieval-Augmented Generation (RAG) Agent with NVIDIA Nemotron | NVIDIA Technical Blog`: Rank rose by +4
-- **[Rank Rise]** `收藏备用！2026 年所有主流 RAG 开源项目都在这里了 - 技术栈`: Rank rose by +4
-- **[Rank Rise]** `Introducing Robostral Navigate`: Rank rose by +4
-- **[Rank Rise]** `Native-speed vLLM transformers modeling backend`: Rank rose by +4
-- **[Rank Rise]** `Data for Agents`: Rank rose by +4
-- **[Rank Rise]** `Spaces - Hugging Face`: Rank rose by +4
-- **[Rank Rise]** `Litmaps | Your Literature Review Assistant`: Rank rose by +4
-- **[Rank Rise]** `- YouTube`: Rank rose by +4
-- **[Rank Rise]** `supermldev/agenticAI`: Rank rose by +4
-- **[Rank Rise]** `2026 Company Logos (External) - Google Drive`: Rank rose by +4
-- **[Rank Rise]** `How Podium optimized agent behavior and reduced engineering intervention by 90% with LangSmith`: Rank rose by +4
-- **[Rank Rise]** `deepset-ai/haystack-experimental`: Rank rose by +4
-- **[Rank Rise]** `supermlorg (SuperML.org) · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Agentic AI, NL2SQL & Enterprise AI Architecture â SuperML.dev | SuperML.dev â AI/ML Architecture for Enterprise`: Rank rose by +4
-- **[Rank Rise]** `google/flan-t5-base · Hugging Face`: Rank rose by +4
-- **[Rank Rise]** `Firebase Documentation`: Rank rose by +4
-- **[Rank Rise]** `googleapis/googleapis`: Rank rose by +4
-- **[Rank Rise]** `Protocol Buffers Documentation`: Rank rose by +4
-- **[Rank Rise]** `github/codeql`: Rank rose by +4
-- **[Rank Rise]** `Add and manage MCP servers in VS Code`: Rank rose by +4
-- **[Rank Rise]** `Creating Your First QA Pipeline with Retrieval-Augmentation | Haystack`: Rank rose by +4
-- **[Rank Rise]** `Jobs at Medium`: Rank rose by +4
-- **[Rank Rise]** `Digital Millennium Copyright Act - Wikipedia`: Rank rose by +4
-- **[Rank Rise]** `Databricks Online Feature Stores | Databricks on AWS`: Rank rose by +4
-- **[Rank Rise]** `modelcontextprotocol/typescript-sdk`: Rank rose by +4
-- **[Rank Rise]** `openai/simple-evals`: Rank rose by +4
-- **[Rank Rise]** `modelcontextprotocol/python-sdk`: Rank rose by +4
-- **[Rank Rise]** `Tools - Model Context Protocol`: Rank rose by +4
-- **[Rank Rise]** `What is the Model Context Protocol (MCP)? - Model Context Protocol`: Rank rose by +4
-- **[Rank Rise]** `Use Supervisor Agent to create a coordinated multi-agent system | Databricks on AWS`: Rank rose by +4
-- **[Rank Rise]** `Specification - Model Context Protocol`: Rank rose by +4
-- **[Rank Rise]** `Welcome, GraphAware`: Rank rose by +4
-- **[Rank Rise]** `knative/docs`: Rank rose by +4
-- **[Rank Rise]** `Privacy Sandbox`: Rank rose by +4
-- **[Rank Rise]** `GraphAcademy — Free, Hands-On Neo4j Training & Certification`: Rank rose by +4
-- **[Rank Rise]** `Connected data. Smarter AI. 230% ROI.`: Rank rose by +4
-- **[Rank Rise]** `The Firebase Blog`: Rank rose by +4
-- **[Rank Rise]** `specs/specs/serving/knative-api-specification-1.0.md at main · knative/specs · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Colab | Google for Developers`: Rank rose by +4
-- **[Rank Rise]** `Develop for Android | Android Developers`: Rank rose by +4
-- **[Rank Rise]** `Download Android Studio & App Tools - Android Developers`: Rank rose by +4
-- **[Rank Rise]** `News | Android Developers`: Rank rose by +4
-- **[Rank Rise]** `GitHub Security · GitHub`: Rank rose by +4
-- **[Rank Rise]** `haystack-tutorials/Contributing.md at main · deepset-ai/haystack-tutorials · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Careers at Medium | by Jobs @ Medium | Jobs at Medium | Medium`: Rank rose by +4
-- **[Rank Rise]** `GitHub · Change is constant. GitHub keeps you ahead. · GitHub`: Rank rose by +4
-- **[Rank Rise]** `tavily-ai/tavily-search-evals`: Rank rose by +4
-- **[Rank Rise]** `Speechify: Text to Speech & Voice Typing AI Assistant | 60M+ Users`: Rank rose by +4
-- **[Rank Rise]** `Building custom connectors - Claude.ai Documentation`: Rank rose by +4
-- **[Rank Rise]** `Accelerate AI Development with Databricks: Discover, Govern, and Build with MCP and Agent Bricks | Databricks Blog`: Rank rose by +4
-- **[Rank Rise]** `Model Context Protocol · GitHub`: Rank rose by +4
-- **[Rank Rise]** `[2411.04368] Measuring short-form factuality in large language models`: Rank rose by +4
-- **[Rank Rise]** `Understand errors and warnings better with console insights | Chrome DevTools | Chrome for Developers`: Rank rose by +4
-- **[Rank Rise]** `deepset · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Methods`: Rank rose by +4
-- **[Rank Rise]** `Medium: Read and write stories.`: Rank rose by +4
-- **[Rank Rise]** `Tavily`: Rank rose by +4
-- **[Rank Rise]** `VivekMalhan666/npm-package-combobox`: Rank rose by +4
-- **[Rank Rise]** `run-llama/liteparse`: Rank rose by +4
-- **[Rank Rise]** `dorianbrown/rank_bm25`: Rank rose by +4
-- **[Rank Rise]** `Categorizing Mathematical Concepts with LLM Voting Ensembles in Mathswitch`: Rank rose by +4
-- **[Rank Rise]** `Application of LLMs to Threat Assessment of Foreign Peacekeeping Missions`: Rank rose by +4
-- **[Rank Rise]** `The Inattentional Gap: Task-Conditioned Language and Vision Models Omit the Safety-Critical Signals They Can Otherwise Report`: Rank rose by +4
-- **[Rank Rise]** `A Neuromorphic Reinforcement Learning Framework for Efficient Pathfinding in Robotic Mobile Fulfillment Systems`: Rank rose by +4
-- **[Rank Rise]** `When Lower Privileges Suffice: Investigating Over-Privileged Tool Selection in LLM Agents`: Rank rose by +4
-- **[Rank Rise]** `An LLM-Native Psychometric Instrument Reveals a Self-Report--Behavior Gap Across 25 Models`: Rank rose by +4
-- **[Rank Rise]** `MechVQA: Benchmarking and Enhancing Multimodal LLMs on Comprehensive Mechanical Drawing Understanding`: Rank rose by +4
-- **[Rank Rise]** `Mathematical Reasoning in Large Language Models: Benchmarks, Architectures, Evaluation, and Open Challenges`: Rank rose by +4
-- **[Rank Rise]** `Geometry-Aware Uncertainty Coresets for Robust Visual In-Context Learning in Histopathology`: Rank rose by +4
-- **[Rank Rise]** `ROK-FORTRESS: Measuring the Effect of Geopolitical Transcreation for National Security and Public Safety`: Rank rose by +4
-- **[Rank Rise]** `Few Channels Draw The Whole Picture: Revealing Massive Activations in Diffusion Transformers`: Rank rose by +4
-- **[Rank Rise]** `Constitutional Governance in Metric Spaces`: Rank rose by +4
-- **[Rank Rise]** `Learning from Execution: Self-Evolving Memory for Private-Library Code Generation`: Rank rose by +4
-- **[Rank Rise]** `Do Quantum Transformers Help? A Systematic VQC Architecture Comparison on Tabular Benchmarks`: Rank rose by +4
-- **[Rank Rise]** `CLAY: Conditional Visual Similarity Modulation in Vision-Language Embedding Space`: Rank rose by +4
-- **[Rank Rise]** `HST-HGN: Heterogeneous Spatial-Temporal Hypergraph Networks with Bidirectional State Space Models for Global Fatigue Assessment`: Rank rose by +4
-- **[Rank Rise]** `DecepGPT: Schema-Driven Deception Detection with Multicultural Datasets and Robust Multimodal Learning`: Rank rose by +4
-- **[Rank Rise]** `SpatialFly: Implicit 3D Prior-Guided Visual Reparameterization for Continuous UAV Vision-and-Language Navigation`: Rank rose by +4
-- **[Rank Rise]** `From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation`: Rank rose by +4
-- **[Rank Rise]** `Volumetric Directional Diffusion: Anchoring Uncertainty Quantification in Anatomical Consensus for Ambiguous Medical Image Segmentation`: Rank rose by +4
-- **[Rank Rise]** `Quantifying Frontier LLM Capabilities for Container Sandbox Escape`: Rank rose by +4
-- **[Rank Rise]** `From Global to Granular: Revealing IQA Model Performance via Correlation Surface`: Rank rose by +4
-- **[Rank Rise]** `Multi-Task Instruction Tuning via Data Scheduling for Low-Resource Arabic SpeechLLMs`: Rank rose by +4
-- **[Rank Rise]** `OpenGround: Planning-based Online Perception for Open-World 3D Visual Grounding`: Rank rose by +4
-- **[Rank Rise]** `SWITCH: Benchmarking Modeling and Handling of Tangible Interfaces in Long-horizon Embodied Scenarios`: Rank rose by +4
-- **[Rank Rise]** `Perceptually Aligning Representations of Music via Noise-Augmented Autoencoders`: Rank rose by +4
-- **[Rank Rise]** `Rethinking Visual Autoregressive Sampling with Information-Grounding Guidance`: Rank rose by +4
-- **[Rank Rise]** `Detoxify: A framework for abusive text transformation using LLMs`: Rank rose by +4
-- **[Rank Rise]** `Narrative-Centered Emotional Reflection: An Early Prototype for AI-Supported Emotional Self-Reflection`: Rank rose by +4
-- **[Rank Rise]** `Toward AI standardization: A triadic human-ai collaboration framework for multi-level autonomous mobility`: Rank rose by +4
-- **[Rank Rise]** `Leveraging Metamemory Agent for Enhanced Data-Free Code Generation in Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `Replication in Visual Diffusion Models: A Survey and Outlook`: Rank rose by +4
-- **[Rank Rise]** `HARC: Coupling Harmfulness and Refusal Directions for Robust Safety Alignment`: Rank rose by +4
-- **[Rank Rise]** `Accelerating Returns and the Qualitative Engine for Science`: Rank rose by +4
-- **[Rank Rise]** `Reward as An Agent for Embodied World Models`: Rank rose by +4
-- **[Rank Rise]** `EVA-Net: Subject-Independent EEG Motor Decoding with Video-Derived Motor Priors`: Rank rose by +4
-- **[Rank Rise]** `Doing What They Say, Not What They Reason: Locating the Faithfulness Gap in LLM Agents`: Rank rose by +4
-- **[Rank Rise]** `Self-Routing: Parameter-Free Expert Routing from Hidden States`: Rank rose by +4
-- **[Rank Rise]** `Implementing Metric Temporal Answer Set Programming`: Rank rose by +4
-- **[Rank Rise]** `VASP Agent: An Agentic Framework for Autonomous First-principles Calculations`: Rank rose by +4
-- **[Rank Rise]** `When Assisting One Disempowers Another`: Rank rose by +4
-- **[Rank Rise]** `Beyond Reactivity: Measuring Proactive Problem Solving in LLM Agents`: Rank rose by +4
-- **[Rank Rise]** `Platonic Representations for Poverty Mapping: Unified Vision-Language Codes or Agent-Induced Novelty?`: Rank rose by +4
-- **[Rank Rise]** `RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation`: Rank rose by +4
-- **[Rank Rise]** `Industry Classification of GitHub Repositories Using the North American Industry Classification System (NAICS)`: Rank rose by +4
-- **[Rank Rise]** `AirflowAttack: Thermal-Airflow Adversarial Perturbations against Infrared Remote-Sensing Vision-Language Models`: Rank rose by +4
-- **[Rank Rise]** `Data Analysis in the Wild: Benchmarking Large Language Models Against Real-World Data Complexities`: Rank rose by +4
-- **[Rank Rise]** `Prompt-Adapter Context Routing for Parameter-Efficient Multi-Shot Long Video Extrapolation`: Rank rose by +4
-- **[Rank Rise]** `From Voting to Agent Collaboration: Answer-Type-Aware LLM Pipelines for BioASQ 14b`: Rank rose by +4
-- **[Rank Rise]** `Analysis-by-Proxy: Localization Signals in VLMs Operating as Condition Encoders`: Rank rose by +4
-- **[Rank Rise]** `An Experimental Design Approach to Evaluating Agentic AI's Autonomous Model Discovery`: Rank rose by +4
-- **[Rank Rise]** `RuBench: A Repository-Level Agentic Coding Benchmark with Natively Authored Russian Task Specifications`: Rank rose by +4
-- **[Rank Rise]** `Responsible Personalisation: The Double-Edged Sword of Personalisation in Human-Robot Interaction`: Rank rose by +4
-- **[Rank Rise]** `Harnessing Code Agents for Automatic Software Verification`: Rank rose by +4
-- **[Rank Rise]** `Estimating Uncertainty from Reasoning: A Large-Scale Study of Multi- and Crosslingual MCQA Performance in LLMs`: Rank rose by +4
-- **[Rank Rise]** `Token-Based Dual-view Fusion and Adaptation of Large Vision Models for Breast Cancer Classification`: Rank rose by +4
-- **[Rank Rise]** `UI2App: Benchmarking Visual Interaction Inference in Executable Web Application Generation`: Rank rose by +4
-- **[Rank Rise]** `Designing Maintainable Hybrid Generative Systems: A Quantum-Inspired Approach to Automated Music Harmony Generation`: Rank rose by +4
-- **[Rank Rise]** `VendorBench-100: A Unified Cross-Paradigm Benchmark for Deepfake Image Detection`: Rank rose by +4
-- **[Rank Rise]** `Spider 2.0-AIFunc: Extending Real-World Text-to-SQL to AI-Native SQL Workflows`: Rank rose by +4
-- **[Rank Rise]** `UBEP: Re-architecting Expert Parallelism Communication Library for Production Superpods`: Rank rose by +4
-- **[Rank Rise]** `LongCrafter: Towards Diverse Long-Context Understanding via Evidence-Graph-Guided Instruction Synthesis`: Rank rose by +4
-- **[Rank Rise]** `LLM Agents for Deliberative Collaboration: A Study on Joint Decision Making Under Partial Observability`: Rank rose by +4
-- **[Rank Rise]** `Property-Driven Synthetic Data Engineering for Data-Scarce Software Systems: Reflections from the Breast Cancer Domain`: Rank rose by +4
-- **[Rank Rise]** `Evaluating Fine-Tuning and Metrics for Neural Decompilation of Dart AOT Binaries`: Rank rose by +4
-- **[Rank Rise]** `LLM-Guided Measurement Credibility Correction for Trustworthy Industrial Process Inference`: Rank rose by +4
-- **[Rank Rise]** `RoME: Robust Mixture of Low-Rank Experts against Multiple Adversarial Perturbations`: Rank rose by +4
-- **[Rank Rise]** `EcoVision: AI-Powered Drone Imaging for Salt Marsh Vegetation Monitoring and Dominance Mapping`: Rank rose by +4
-- **[Rank Rise]** `Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development`: Rank rose by +4
-- **[Rank Rise]** `PVCap: Towards Accurate 3D Dense Captioning via PseudoCap and VoxelCapNet`: Rank rose by +4
-- **[Rank Rise]** `From Blueprint to Reality: Modeling and Applying Putnam's Social Capital Theory with LLM-based Multi-agent Simulations`: Rank rose by +4
-- **[Rank Rise]** `Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development`: Rank rose by +4
-- **[Rank Rise]** `PluraMath: Extending Mathematical Reasoning Evaluation Beyond High-Resource Languages`: Rank rose by +4
-- **[Rank Rise]** `Propose and Attend: Training-free MLLM Grounding Confidence via Multi-Token Localized Attention`: Rank rose by +4
-- **[Rank Rise]** `MCP-Enabled Agentic AI for Autonomous IPoDWDM Network Lifecycle Automation`: Rank rose by +4
-- **[Rank Rise]** `Faithful or Findable? Evaluating LLM-Generated Metadata for RDF Dataset Search`: Rank rose by +4
-- **[Rank Rise]** `InfluMatch: Frontier-Quality KOL Search at 4B-Model Cost`: Rank rose by +4
-- **[Rank Rise]** `Decoupled Single-Mask Annotation Noise Detection via Cross-Sectional Patch Self-Consistency`: Rank rose by +4
-- **[Rank Rise]** `Agentic AI for IPoDWDM Network Lifecycle Automation: An MCP-Enabled Architecture`: Rank rose by +4
-- **[Rank Rise]** `NegROI: Click-Centric Uncertainty-Guided Refinement with Scene-Conditioned Negative Prompts for Robust Interactive 3D Segmentation`: Rank rose by +4
-- **[Rank Rise]** `Signed-Graph Recommendation as Structural Consistency Maximization`: Rank rose by +4
-- **[Rank Rise]** `CMDR: Contextual Multimodal Document Retrieval`: Rank rose by +4
-- **[Rank Rise]** `PolicyShiftGuard: Benchmarking and Improving Policy-Adaptive Image Guardrails`: Rank rose by +4
-- **[Rank Rise]** `From Textural Counterpoint to Feature Encoding: A Multi-Dimensional Machine Representation Study of Haydn's "The Lark" Integrating Electroacoustic Analysis`: Rank rose by +4
-- **[Rank Rise]** `i-EXAM: Instructable and Explainable Attack Connectivity Graph Modeler`: Rank rose by +4
-- **[Rank Rise]** `Harrison.Rad 1.5 Technical Report: A radiology foundation model that can draft reports from images, priors and clinical context`: Rank rose by +4
-- **[Rank Rise]** `Think Before You Grid-Search: Floor-First Triage for LLM Serving`: Rank rose by +4
-- **[Rank Rise]** `Beyond Refusal: A Same-Lineage Study of Aligned and Abliterated LLMs for Vulnerability Analysis`: Rank rose by +4
-- **[Rank Rise]** `VisTCP: A Visualization Framework to Construct Knowledge-Graph-Based Representation for Traditional Chinese Painting`: Rank rose by +4
-- **[Rank Rise]** `Tangent classes of matroids and wonderful compactifications`: Rank rose by +4
-- **[Rank Rise]** `Complementary Roles of Image Classification and Vessel Segmentation in AI-Based Screening for Retinopathy of Prematurity Plus Disease in a Kenyan Preterm Cohort`: Rank rose by +4
-- **[Rank Rise]** `Segmentation before Answering: Pixel Grounding for MLLM Visual Reasoning`: Rank rose by +4
-- **[Rank Rise]** `FORGE: Towards Functional Tool-Use Generalization via Keypoint Trajectory Reasoning`: Rank rose by +4
-- **[Rank Rise]** `LEGATO 2: Toward Multimodal Sheet Music Recognition and Understanding`: Rank rose by +4
-- **[Rank Rise]** `Data-dependent Evaluations for Budgeted Submodular Maximization`: Rank rose by +4
-- **[Rank Rise]** `When Should LLMs Search? Counterfactual Supervision for Search Routing`: Rank rose by +4
-- **[Rank Rise]** `Unicode TAG-Block Concealment of Tool-Metadata Payloads in the Model Context Protocol: An Approval-View Fidelity Gap Across Three Independent Server Implementations`: Rank rose by +4
-- **[Rank Rise]** `The Balkanization of Execution-Security Research for AI Coding Agents: Isolation, Access Control, and Time-of-Check-to-Time-of-Use Vulnerabilities`: Rank rose by +4
-- **[Rank Rise]** `SCOReD: Student-Aware CoT Optimization for Recommendation Distillation`: Rank rose by +4
-- **[Rank Rise]** `Plainbook: Data Science, in Plain Language`: Rank rose by +4
-- **[Rank Rise]** `Depression Symptoms and Relational Patterns in 187k ChatGPT Histories`: Rank rose by +4
-- **[Rank Rise]** `Beyond Accuracy: How Humans Evaluate Legally Correct but Socially Controversial Legal Advice from Machines`: Rank rose by +4
-- **[Rank Rise]** `RPAM: A Principled Metric for Evaluating Associations in Language Models with High Predictive Validity in Downstream Outputs`: Rank rose by +4
-- **[Rank Rise]** `What Do AI Agents Actually Change? An Empirical Taxonomy of Mutation Patterns in Performance-Improving Pull Requests`: Rank rose by +4
-- **[Rank Rise]** `Do It Right! A Methodology for Successful NLP System Development`: Rank rose by +4
-- **[Rank Rise]** `EvalLoop: A Methodology for Evaluation-Driven Iterative Improvement of Business AI Systems`: Rank rose by +4
-- **[Rank Rise]** `BaFCo: A Document Understanding Benchmark for Complex Bangla Form Comprehension`: Rank rose by +4
-- **[Rank Rise]** `ResonatorLM: Causal Resonant Field Mixing for Efficient Long-Context Language Modeling`: Rank rose by +4
-- **[Rank Rise]** `Whose fairness? Structural concentration in AI bias research`: Rank rose by +4
-- **[Rank Rise]** `Harnessing Generative Image Models for Training-Free Primitive Shape Abstraction`: Rank rose by +4
-- **[Rank Rise]** `Prompt Robustness Is Task-Dependent: Comparing Objective and Belief-Style Questions in LLM Evaluation`: Rank rose by +4
-- **[Rank Rise]** `The yes-no bias of large language models reflects answer order and wording, not shifts in moral judgment`: Rank rose by +4
-- **[Rank Rise]** `Most LLM Conformity Needs No Speaker: Measuring the Speaker-Free Floor in Peer-Pressure Benchmarks`: Rank rose by +4
-- **[Rank Rise]** `Rendering-Aware Bayesian 3D Gaussian Splatting with Native Uncertainty and Adaptive Complexity Control`: Rank rose by +4
-- **[Rank Rise]** `aiAuthZ: Off-Host, Identity-Bound Authorization for AI Agents`: Rank rose by +4
-- **[Rank Rise]** `Lean-Quantum: Toward AI-Assisted Formalization of Quantum Information`: Rank rose by +4
-- **[Rank Rise]** `Privilege and confidentiality in generative AI workflows`: Rank rose by +4
-- **[Rank Rise]** `Decision Protocols in Multi-Agent Large Language Model Conversations`: Rank rose by +4
-- **[Rank Rise]** `Is Your NPU Ready for LLMs? Dissecting the Hidden Efficiency Bottlenecks in Mobile LLM Inference`: Rank rose by +4
-- **[Rank Rise]** `Binocular Gaze Estimation with Single Camera and Single Light Source`: Rank rose by +4
-- **[Rank Rise]** `KAT-Coder-V2.5 Technical Report`: Rank rose by +4
-- **[Rank Rise]** `Learning 4D Geometric Priors for Inference-Efficient World Action Models`: Rank rose by +4
-- **[Rank Rise]** `CanvasAgent: Enabling Complex Image Creation and Editing via Visual Tool Orchestration`: Rank rose by +4
-- **[Rank Rise]** `Evaluating calibrated refusal and safe usefulness in dual-use biology settings`: Rank rose by +4
-- **[Rank Rise]** `Scientific Code Search at Scale: A Multi-Domain Dataset and Benchmark`: Rank rose by +4
-- **[Rank Rise]** `PORTS: Preference-Optimized Retrievers for Tool Selection with Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `Modality Relevance is not Modality Utility: Post-hoc Selective Modality Escalation for Cost-Aware Multimodal RAG`: Rank rose by +4
-- **[Rank Rise]** `CHARLIE: An On-Premise Multi-Agent Retrieval-Augmented Generation System for Evidential Reasoning in Forensic Science`: Rank rose by +4
-- **[Rank Rise]** `When AI Classifies: What Counts as Public Administration?`: Rank rose by +4
-- **[Rank Rise]** `Contrastive Predictive Coding with Compression for Enhanced Channel State Feedback in Wireless Networks`: Rank rose by +4
-- **[Rank Rise]** `Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda`: Rank rose by +4
-- **[Rank Rise]** `The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy`: Rank rose by +4
-- **[Rank Rise]** `CANONIC: Governance Is Compilation`: Rank rose by +4
-- **[Rank Rise]** `Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components`: Rank rose by +4
-- **[Rank Rise]** `Position: Preventing AI-Generated CSAM Necessitates New Approaches to AI Safety`: Rank rose by +4
-- **[Rank Rise]** `A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding`: Rank rose by +4
-- **[Rank Rise]** `CCBENCH: Assessing LLM Cultural Competence via Implicitly Signaled Norms using Health Queries`: Rank rose by +4
-- **[Rank Rise]** `The Jagged Global Economy: Frontier AI Unevenly Exposes National Economies`: Rank rose by +4
-- **[Rank Rise]** `AI tools in Arab University English classrooms: Looking back and forward`: Rank rose by +4
-- **[Rank Rise]** `Catalyst Papers in Artificial Intelligence Research: A Landscape on ICLR from 2017 to 2025`: Rank rose by +4
-- **[Rank Rise]** `Benchmarking KV-Cache Optimizations across Task Quality and System Performance for Long-Context Serving`: Rank rose by +4
-- **[Rank Rise]** `Proof of Execution: Runtime Verification for Governed AI Agent Actions`: Rank rose by +4
-- **[Rank Rise]** `Lingering Authority: Revocable Resource-and-Effect Capabilities for Coding Agents`: Rank rose by +4
-- **[Rank Rise]** `Rethinking Indic AI from a Lens of Cultural Heritage Preservation`: Rank rose by +4
-- **[Rank Rise]** `DepthWeave-KV: Token-Adaptive Cross-Layer Residual Factorization for Long-Context KV Cache Compression`: Rank rose by +4
-- **[Rank Rise]** `Bridging Physical Reasoning and Task Generalization via Visual Action Outcome Reasoning Alignment`: Rank rose by +4
-- **[Rank Rise]** `FreqDepthKV: Frequency-Guided Depth Sharing for Robust KV Cache Compression in Long-Context LLM Inference`: Rank rose by +4
-- **[Rank Rise]** `FootsiesGym: A Fighting Game Benchmark for Two-Player Zero-Sum Imperfect-Information Games`: Rank rose by +4
-- **[Rank Rise]** `RMISC: A Large-scale Real-world Multivariate Corpus for Time Series Foundation Models`: Rank rose by +4
-- **[Rank Rise]** `Doomed from the Start: Early Abort of LLM Agent Episodes via a Recall-Controlled Probe Cascade`: Rank rose by +4
-- **[Rank Rise]** `Multi-Agent Deep Reinforcement Learning for Multi Objective Battery Management in Dairy Farms`: Rank rose by +4
-- **[Rank Rise]** `A Physics-Informed Neural Network Framework for Elastodynamic Wave Propagation in Bimaterial Systems`: Rank rose by +4
-- **[Rank Rise]** `Danus: Orchestrating Mathematical Reasoning Agents with Fact-Graph Memory`: Rank rose by +4
-- **[Rank Rise]** `Finding H. pylori in the Fine Print: Evidence-Linked Multi-Agent Case Finding from Gastric Biopsy Reports`: Rank rose by +4
-- **[Rank Rise]** `ExplAIner: A Declarative Query Language for Explaining Classification Models`: Rank rose by +4
-- **[Rank Rise]** `A Definition and Roadmap for World Models`: Rank rose by +4
-- **[Rank Rise]** `TopoBrick: Agentic Topology Sampling of Exogenous Variables for Zero-Shot Building IoT Forecasting`: Rank rose by +4
-- **[Rank Rise]** `Driving the Wrong Way: Leveraging Interpretability in End2End Autonomous Driving Models`: Rank rose by +4
-- **[Rank Rise]** `DT-Guard: Intent-Driven Reasoning-Active Training for Reasoning-Free LLM Safety Guardrail`: Rank rose by +4
-- **[Rank Rise]** `Task Decomposition-Guided Reranking for Adaptive Agent Skill Retrieval`: Rank rose by +4
-- **[Rank Rise]** `From Application-Layer Simulation to Native Meta-Architecture: Structural Tension as an Endogenous Driver for Heterogeneous AI Evolution`: Rank rose by +4
-- **[Rank Rise]** `Demonstrating TOFFEE: A Learned System for Synthesizing Data Agent Trajectories at Scale`: Rank rose by +4
-- **[Rank Rise]** `Information Gain-based Rollout Policy Optimization: An Adaptive Tree-Structured Rollout Approach for Multi-Turn LLM Agents`: Rank rose by +4
-- **[Rank Rise]** `A framework for single and multi-agent human-AI curiosity ecosystems`: Rank rose by +4
-- **[Rank Rise]** `When do prophets profit in prediction markets?`: Rank rose by +4
-- **[Rank Rise]** `Reward-Density Heuristic for Dynamic Multi-Vehicle Routing: Performance and Computational Efficiency`: Rank rose by +4
-- **[Rank Rise]** `PolyWorkBench: Benchmarking Multilingual Long-Horizon LLM Agents`: Rank rose by +4
-- **[Rank Rise]** `Information Limits and Attractor Dynamics in Economies of Frontier LLM Agents: A Pre-Registered Test`: Rank rose by +4
-- **[Rank Rise]** `AgoraSim: A Hybrid Agent-Based Modeling Framework`: Rank rose by +4
-- **[Rank Rise]** `Auto-DSM Under the Lens: A Black-Box Evaluation Framework for LLM-Based DSM Generation`: Rank rose by +4
-- **[Rank Rise]** `Integrating knowledge graphs and multilingual scholarly corpora for domain-adaptive LLMs in SSH`: Rank rose by +4
-- **[Rank Rise]** `SearchEyes: Towards Frontier Multimodal Deep Search Intelligence via Search World Simulation`: Rank rose by +4
-- **[Rank Rise]** `PCBWorld: A Benchmark Environment for Engine-Grounded PCB Design Automation`: Rank rose by +4
-- **[Rank Rise]** `Uncovering Latent Depression Severity for Binary Depression Detection via Advantage-weighting Ranking`: Rank rose by +4
-- **[Rank Rise]** `StateFuse: Deterministic Conflict-Preserving Memory for Multi-Agent Systems`: Rank rose by +4
-- **[Rank Rise]** `TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training`: Rank rose by +4
-- **[Rank Rise]** `From Passive Retrieval to Active Memory Navigation: Learning to Use Memory as a Structured Action Space`: Rank rose by +4
-- **[Rank Rise]** `Controlling Tool Use with Heading-Specific Activation Steering`: Rank rose by +4
-- **[Rank Rise]** `Beyond the Leaderboard: A Synthesis of Tool-Use, Planning, and Reasoning Failures in Large Language Model Agents`: Rank rose by +4
-- **[Rank Rise]** `Beyond Static Evaluation: Building Simulation Environments for Scalable Agentic Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Synthetic Consumer Insight Generation with Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation`: Rank rose by +4
-- **[Rank Rise]** `Akashic: A Low-Overhead LLM Inference Service with MemAttention`: Rank rose by +4
-- **[Rank Rise]** `Memory in the Loop: In-Process Retrieval as ExtendedWorking Memory for Language Agents`: Rank rose by +4
-- **[Rank Rise]** `FirstResearch: Auditable Question Formation for LLM Scientific Discovery Agents`: Rank rose by +4
-- **[Rank Rise]** `Narrative World Model: Narratology-Grounded Writer Memory for Long-Form Fiction`: Rank rose by +4
-- **[Rank Rise]** `Foundation Models for Automatic CAD Generation`: Rank rose by +4
-- **[Rank Rise]** `CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming`: Rank rose by +4
-- **[Rank Rise]** `From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond`: Rank rose by +4
-- **[Rank Rise]** `Prompt-to-Paper: Agentic AI System for Bioinformatics`: Rank rose by +4
-- **[Rank Rise]** `How Environment and Urbanization Shape Bird Diversity in Sri Lanka`: Rank rose by +4
-- **[Rank Rise]** `DanceOPD: On-Policy Generative Field Distillation`: Rank rose by +4
-- **[Rank Rise]** `CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention`: Rank rose by +4
-- **[Rank Rise]** `It does what it says on the tin: safe synthetic data from coarsened margins`: Rank rose by +4
-- **[Rank Rise]** `Distribution-free changepoint localization after sequential change detection`: Rank rose by +4
-- **[Rank Rise]** `Parameter-Free and Group Conditional Online Conformal Prediction`: Rank rose by +4
-- **[Rank Rise]** `A semantic mutation metric for metamorphic relation adequacy in scientific computing programs`: Rank rose by +4
-- **[Rank Rise]** `Model-based Bootstrap of Controlled Markov Chains`: Rank rose by +4
-- **[Rank Rise]** `Data-Efficient Indentation Size Effect Correction in Steels Using Machine Learning and Physics-Constrained Neural Network`: Rank rose by +4
-- **[Rank Rise]** `Fine-Tuning Integrity for Modern Neural Networks: Structured Drift Proofs via Norm, Rank, and Sparsity Certificates`: Rank rose by +4
-- **[Rank Rise]** `Multimodal Analytics of Cybersecurity Crisis Preparation Exercises: What Predicts Success?`: Rank rose by +4
-- **[Rank Rise]** `DreamPartGen: Semantically Grounded Part-Level 3D Generation via Collaborative Latent Denoising`: Rank rose by +4
-- **[Rank Rise]** `Towards Interpretable Foundation Models for Retinal Fundus Images`: Rank rose by +4
-- **[Rank Rise]** `What Counts as Real? Speech Restoration and Voice Quality Conversion Pose New Challenges to Deepfake Detection`: Rank rose by +4
-- **[Rank Rise]** `PoseVLA: Universal Pose Pretraining for Generalizable Vision-Language-Action Policies`: Rank rose by +4
-- **[Rank Rise]** `Agentic AI for Commercial Insurance Underwriting with Adversarial Self-Critique`: Rank rose by +4
-- **[Rank Rise]** `Estimation of instrument and noise parameters for inverse problem based on prior diffusion model`: Rank rose by +4
-- **[Rank Rise]** `A Gibbs posterior sampler for inverse problem based on prior diffusion model`: Rank rose by +4
-- **[Rank Rise]** `Conformal Prediction Sets for Instance Segmentation`: Rank rose by +4
-- **[Rank Rise]** `Reliable Mislabel Detection for Video Capsule Endoscopy Data`: Rank rose by +4
-- **[Rank Rise]** `RayRoPE: Projective Ray Positional Encoding for Multi-view Attention`: Rank rose by +4
-- **[Rank Rise]** `SecureCode: A Production-Grade Multi-Turn Dataset for Training Security-Aware Code Generation Models`: Rank rose by +4
-- **[Rank Rise]** `A Comparative Study of EMG- and IMU-based Gesture Recognition at the Wrist and Forearm`: Rank rose by +4
-- **[Rank Rise]** `No-Regret Gaussian Process Optimization of Time-Varying Functions`: Rank rose by +4
-- **[Rank Rise]** `A Fast Binary Splitting Approach for Non-Adaptive Learning of Erd\H{o}s--R\'enyi Graphs`: Rank rose by +4
-- **[Rank Rise]** `Base Models Know How to Reason, Thinking Models Learn When`: Rank rose by +4
-- **[Rank Rise]** `Reduced NEXI protocol for the quantification of human gray matter microstructure on the Connectome 2.0 scanner`: Rank rose by +4
-- **[Rank Rise]** `Unequal Uncertainty: Rethinking Algorithmic Interventions for Mitigating Discrimination from AI`: Rank rose by +4
-- **[Rank Rise]** `MASCA: LLM based-Multi Agents System for Credit Assessment`: Rank rose by +4
-- **[Rank Rise]** `Position: EU AI Act's Research Exemptions Can Break the Publication Norms of Major AI Conferences`: Rank rose by +4
-- **[Rank Rise]** `Leveraging Neural Graph Compilers in Machine Learning Research for Edge-Cloud Systems`: Rank rose by +4
-- **[Rank Rise]** `HERB: Human-augmented Efficient Reinforcement learning for Bin-packing`: Rank rose by +4
-- **[Rank Rise]** `Benign Overfitting with Quantum Kernels`: Rank rose by +4
-- **[Rank Rise]** `Classification of Financial Data Using Quantum Support Vector Machine`: Rank rose by +4
-- **[Rank Rise]** `MLLM-LLaVA-FL: Multimodal Large Language Model Assisted Federated Learning`: Rank rose by +4
-- **[Rank Rise]** `Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches`: Rank rose by +4
-- **[Rank Rise]** `Label Hierarchy Transition: Delving into Class Hierarchies to Enhance Deep Classifiers`: Rank rose by +4
-- **[Rank Rise]** `Learning the Supports for Categorical Critic in Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `PHOENIX: Resilient LLM Training with Hot-Swapping via Zero-Overhead Checkpoint`: Rank rose by +4
-- **[Rank Rise]** `Token Geometry`: Rank rose by +4
-- **[Rank Rise]** `When Prices Double in a Week: Forecasting of Agricultural Volatility in Import-Isolated Markets`: Rank rose by +4
-- **[Rank Rise]** `Active Quantum Kernel Acquisition for Gaussian Process Regression`: Rank rose by +4
-- **[Rank Rise]** `Reproducibility Study of "AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models"`: Rank rose by +4
-- **[Rank Rise]** `On the Redundancy of Timestep Embeddings in Diffusion Models`: Rank rose by +4
-- **[Rank Rise]** `Gaussian Process Latent Factor Regression for Low-Data, High-Dimensional Output Problems`: Rank rose by +4
-- **[Rank Rise]** `BigMac: Breaking the Pareto Frontier of Compute and Memory in Multimodal LLM Training`: Rank rose by +4
-- **[Rank Rise]** `Streaming Reinforcement Learning under Partial Observability with Real-Time Recurrent Learning`: Rank rose by +4
-- **[Rank Rise]** `MambaGaze: Bidirectional Mamba with Explicit Missing Data Modeling for Cognitive Load Assessment from Eye-Gaze Tracking Data`: Rank rose by +4
-- **[Rank Rise]** `PerCaM-Health: Personalized Dynamic Causal Graphs for Healthcare Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Joint Energy Management and Coordinated AIGC Workload Scheduling for Distributed Data Centers: A Diffusion-Aided Reward Shaping Approach`: Rank rose by +4
-- **[Rank Rise]** `Fine-Tuning Regimes Define Distinct Continual Learning Problems`: Rank rose by +4
-- **[Rank Rise]** `Channel-wise Retrieval for Multivariate Time Series Forecasting`: Rank rose by +4
-- **[Rank Rise]** `Policy Improvement Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Leech Lattice Vector Quantization for Efficient LLM Compression`: Rank rose by +4
-- **[Rank Rise]** `Improving TabPFN's Synthetic Data Generation by Integrating Causal Structure`: Rank rose by +4
-- **[Rank Rise]** `Transformers converge to invariant algorithmic cores`: Rank rose by +4
-- **[Rank Rise]** `Universal Algorithm-Implicit Learning`: Rank rose by +4
-- **[Rank Rise]** `BitLogic: Training Framework for Gradient-Based FPGA-Native Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `StepShield: When, Not Whether to Intervene on Rogue Agents`: Rank rose by +4
-- **[Rank Rise]** `TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning`: Rank rose by +4
-- **[Rank Rise]** `GraphAllocBench: A Flexible Benchmark for Preference-Conditioned Multi-Objective Policy Learning`: Rank rose by +4
-- **[Rank Rise]** `A Constrained Optimization Perspective of Unrolled Transformers`: Rank rose by +4
-- **[Rank Rise]** `Factorizable joint shift revisited`: Rank rose by +4
-- **[Rank Rise]** `Geometric Stability: The Missing Axis of Representations`: Rank rose by +4
-- **[Rank Rise]** `FlexAct: Why Learn when you can Pick?`: Rank rose by +4
-- **[Rank Rise]** `SGD-Based Knowledge Distillation with Bayesian Teachers: Theory and Guidelines`: Rank rose by +4
-- **[Rank Rise]** `KernelEvolve: Scaling Agentic Kernel Coding for Heterogeneous AI Accelerators at Meta`: Rank rose by +4
-- **[Rank Rise]** `PGOT: A Physics-Geometry Operator Transformer for Complex PDEs`: Rank rose by +4
-- **[Rank Rise]** `Adaptive digital twins for predictive decision-making: Online Bayesian learning of transition dynamics`: Rank rose by +4
-- **[Rank Rise]** `Deep Reinforcement Learning for Dynamic Origin-Destination Matrix Estimation in Microscopic Traffic Simulations Considering Credit Assignment`: Rank rose by +4
-- **[Rank Rise]** `LLM4Delay: Flight Delay Prediction via Cross-Modality Adaptation of Large Language Models and Aircraft Trajectory Representation`: Rank rose by +4
-- **[Rank Rise]** `SmartMixed: A Two-Phase Training Strategy for Adaptive Activation Function Learning in Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `Solver-Integrated Adversarial Attacking and Training of Neural Operators`: Rank rose by +4
-- **[Rank Rise]** `AtomBench: A Benchmarking Framework for Generative Crystal Reconstruction Models in Conventional Superconductors`: Rank rose by +4
-- **[Rank Rise]** `Medix: Out-of-Distribution Detection from Unlabeled Wild Data via Robust Gradient Statistics`: Rank rose by +4
-- **[Rank Rise]** `How Can Mamba Learn In Context with Outliers and Generalize Provably?`: Rank rose by +4
-- **[Rank Rise]** `FedDAF: Federated Domain Adaptation Using Model Functional Distance`: Rank rose by +4
-- **[Rank Rise]** `Sparse but Wrong: Incorrect L0 Leads to Incorrect Features in Sparse Autoencoders`: Rank rose by +4
-- **[Rank Rise]** `Imbalance-Robust and Sampling-Efficient Continuous Conditional GANs via Adaptive Vicinal Learning and Auxiliary Regularization`: Rank rose by +4
-- **[Rank Rise]** `Variational Learning of Disentangled Representations`: Rank rose by +4
-- **[Rank Rise]** `Learning The Minimum Action Distance`: Rank rose by +4
-- **[Rank Rise]** `Temporal Variational Implicit Neural Representations`: Rank rose by +4
-- **[Rank Rise]** `Explainable embeddings with Distance Explainer`: Rank rose by +4
-- **[Rank Rise]** `Regularity and Stability Properties of Selective SSMs with Discontinuous Gating`: Rank rose by +4
-- **[Rank Rise]** `MAME: Multidimensional Adaptive Metamer Exploration with Human Perceptual Feedback`: Rank rose by +4
-- **[Rank Rise]** `Supervised Reward Inference`: Rank rose by +4
-- **[Rank Rise]** `The relationship between reasoning and performance in large language models--o3 (mini) thinks harder, not longer`: Rank rose by +4
-- **[Rank Rise]** `Universality of Benign Overfitting in Binary Linear Classification`: Rank rose by +4
-- **[Rank Rise]** `Trust-free Personalized Decentralized Learning`: Rank rose by +4
-- **[Rank Rise]** `A Functional-Space Mean-Field Theory of Partially-Trained Three-Layer Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation`: Rank rose by +4
-- **[Rank Rise]** `The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology`: Rank rose by +4
-- **[Rank Rise]** `Pitwall: Faithful Natural-Language Race-Strategy Briefings from a Calibrated Real-Time Monte Carlo Engine`: Rank rose by +4
-- **[Rank Rise]** `Assessing the Operational Impact of Poisoning Attacks over Augmented 3D Point Cloud Public Datasets for Connected and Autonomous Vehicles`: Rank rose by +4
-- **[Rank Rise]** `Provable learning separation for predicting time-evolution of quantum many-body systems`: Rank rose by +4
-- **[Rank Rise]** `What Images Cannot Say: Language-Guided Olfactory Representation Learning`: Rank rose by +4
-- **[Rank Rise]** `Learning to Throw Objects Safely in Multi-Obstacle Environments`: Rank rose by +4
-- **[Rank Rise]** `A Function-Space Dichotomy for Compositional Learning: Exponential Sub-Optimality of the Neural Tangent Kernel`: Rank rose by +4
-- **[Rank Rise]** `Training-Free Acceleration for Vision-Language-Action Models with Action Caching and Refinement`: Rank rose by +4
-- **[Rank Rise]** `Dithered Gaussian Mechanism for Randomness-Efficient Differential Privacy`: Rank rose by +4
-- **[Rank Rise]** `Kernel-based Operator Learning: Error Analysis, Budget Allocation, and a Physics-Informed Extension`: Rank rose by +4
-- **[Rank Rise]** `A Convex Approximation Framework for Neural Likelihood-Based Bayesian Inverse Problems`: Rank rose by +4
-- **[Rank Rise]** `Entanglement as a Structural Complexity Axis: A PAC-Bayesian View of Generalization in Quantum Policies and Value Functions`: Rank rose by +4
-- **[Rank Rise]** `TriA Pipeline: A Large-Scale Automatic Audio Annotation Pipeline For Audio Classification In Specific Scenarios`: Rank rose by +4
-- **[Rank Rise]** `Improving LLM-Generated Process Model Quality Through Reinforcement Learning: The Role of Reward Function Design`: Rank rose by +4
-- **[Rank Rise]** `Enhanced Seam Segmentation for Automated Welding Robot in Construction Through Transfer Learning: Addressing Limitations of Bilateral Segmentation Network`: Rank rose by +4
-- **[Rank Rise]** `Static Metrics Are Insufficient: Predicting Java Method Energy Usage with Execution Time`: Rank rose by +4
-- **[Rank Rise]** `6G Sensing Security: Distributed Game-Theoretic RL for Urban Beamforming and Attacker Detection`: Rank rose by +4
-- **[Rank Rise]** `Determinantal point process sampling for bioacoustic active learning`: Rank rose by +4
-- **[Rank Rise]** `Separation Capacity of Scattering Networks on Low-Dimensional Datasets`: Rank rose by +4
-- **[Rank Rise]** `REAN: Reconstruction-aware ECG Anonymization Based on Privacy--Utility Orthogonality`: Rank rose by +4
-- **[Rank Rise]** `Multi-Channel Spread-Spectrum Code Watermarking`: Rank rose by +4
-- **[Rank Rise]** `Discovering Frequent Closed Embedded Sub-DAGs in Spatio-Temporal Event Data`: Rank rose by +4
-- **[Rank Rise]** `Is Domain Adaptation Always Helpful? A Frozen-Backbone Study of Cross-Domain Sentiment Transfer`: Rank rose by +4
-- **[Rank Rise]** `Mitigating Errors in LLM-Generated Web API Invocations via Retrieval-Augmented Generation and Constrained Decoding`: Rank rose by +4
-- **[Rank Rise]** `Energy-Efficient GPU DVFS for Fine-Tuning of SLMs on Resource-constrained Embedded Devices`: Rank rose by +4
-- **[Rank Rise]** `On the convergence of graph Laplacians with a symmetric divergence`: Rank rose by +4
-- **[Rank Rise]** `Few-Medoids: An Embarrassingly Simple Coreset Selection Method for Few-Shot Knowledge Distillation`: Rank rose by +4
-- **[Rank Rise]** `Mitigating Factual Hallucination in Large Reasoning Models via Mixed-Mode Advantage Regularization`: Rank rose by +4
-- **[Rank Rise]** `On the Condition Number Upper Bound of the L-BFGS Inverse Hessian Approximation Matrix with a Two-Sided Geometric Envelope Safeguarding Mechanism`: Rank rose by +4
-- **[Rank Rise]** `Latency-Constrained Hardware-Aware Quantum Error Correction Co-Design with Adaptive Confidence-Gated Neural Decoding for the Rotated Surface Code`: Rank rose by +4
-- **[Rank Rise]** `Contextual Procurement Auctions with Bandit Learning`: Rank rose by +4
-- **[Rank Rise]** `Onnes: A Physics-Grounded Multi-Agent LLM Simulator for Cryogenic Fault Diagnosis in Quantum Computing Infrastructure`: Rank rose by +4
-- **[Rank Rise]** `Boosting with List-Decodable Codes`: Rank rose by +4
-- **[Rank Rise]** `From Closed-Loop Optimization to Open Decision Making: Coupled Digital Twins for Predictive and Autonomous Microscopy`: Rank rose by +4
-- **[Rank Rise]** `Width-Robust Learnability in Mean-Field Bayesian Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `Association Restoration Test: Revealing Restorable Shortcuts after Unlearning`: Rank rose by +4
-- **[Rank Rise]** `IMR: Iterative Mode-World Weighted Regression for Multi-Agent Trajectory Prediction`: Rank rose by +4
-- **[Rank Rise]** `Beyond Heuristic Tuning: Power-Calibrated LLM Watermarking`: Rank rose by +4
-- **[Rank Rise]** `Where to cut, how deep: BPE and Unigram-LM on chemistry SMILES`: Rank rose by +4
-- **[Rank Rise]** `Uncertainty-Aware Velocity Correction for Proprioceptive Vehicle Localization using Evidential Mamba`: Rank rose by +4
-- **[Rank Rise]** `Physics-Regularized Machine Learning for Proprioceptive Vehicle Localization Using Onboard Sensors`: Rank rose by +4
-- **[Rank Rise]** `Integrating GNSS-Derived Zenith Wet Delay into a Weather Foundation Model Improves Precipitation Forecasting`: Rank rose by +4
-- **[Rank Rise]** `REVIVE: A Multi-Modal Framework for Vandalism Detection and Recovery in Autonomous Vehicles`: Rank rose by +4
-- **[Rank Rise]** `Taxlifier: Leveraging Disease Taxonomy for Enhanced Multi-Label Classification in Chest Radiography`: Rank rose by +4
-- **[Rank Rise]** `To Retain or to Adapt? Generalizing Continual Learning`: Rank rose by +4
-- **[Rank Rise]** `DBNN: Neural Spike Classification Using a Deep Binarized Neural Network`: Rank rose by +4
-- **[Rank Rise]** `Hierarchical Classification via Cascading Feature Elimination: Application to Human Phenotype Ontology-Aligned Facial Phenotyping (FaceMesh2HPO)`: Rank rose by +4
-- **[Rank Rise]** `Deep Neural Variation Spaces: A Unifying Perspective on Depth and Complexity`: Rank rose by +4
-- **[Rank Rise]** `Higher-Order Certified Robustness for Regression`: Rank rose by +4
-- **[Rank Rise]** `Statistical Adversaries: Natural Backdoor-like Features in Vision Datasets`: Rank rose by +4
-- **[Rank Rise]** `Black Hole Black Boxes: Numerical Black Hole Metrics via AInstein Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `SHARC: SHAP-Based Interpretability in Machine Learning Risk Models for Regulatory Capital under ICAAP and CCAR`: Rank rose by +4
-- **[Rank Rise]** `Full-range Binary Classifier Calibration for Stable Model Updates in Production`: Rank rose by +4
-- **[Rank Rise]** `A Task-Driven Evaluation of UAV Detection and Tracking under Synthetic Fog`: Rank rose by +4
-- **[Rank Rise]** `Life Cycle Assessment of Pre-training the Lucie 7B Open-Source Large Language Model on the Jean Zay Supercomputer`: Rank rose by +4
-- **[Rank Rise]** `Performance Optimization and Comparative Analysis of Generative AI Models on Advanced Accelerators`: Rank rose by +4
-- **[Rank Rise]** `Broken Ergodicity and the Violation of the Fluctuation-Dissipation Theorem Lead to Generalization Beyond Overfitting in Machine Learning`: Rank rose by +4
-- **[Rank Rise]** `Diffusion Language Model Parallel Decoding via Product-of-Experts Bridge`: Rank rose by +4
-- **[Rank Rise]** `Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion`: Rank rose by +4
-- **[Rank Rise]** `GraphBU: MILP Instance Generation with Graph-Native Block Units`: Rank rose by +4
-- **[Rank Rise]** `EntroPath: Maximum Entropy Path Ensemble Embedding for Manifold Learning`: Rank rose by +4
-- **[Rank Rise]** `TILDE: TILt-based Distributional Erasure for Concept Unlearning`: Rank rose by +4
-- **[Rank Rise]** `Physics-Informed Neural Embeddings of PDE Solution Families`: Rank rose by +4
-- **[Rank Rise]** `Quantitative Gaussian-Process limits of Tensor Programs`: Rank rose by +4
-- **[Rank Rise]** `Canopy: A Heterograph Foundation Model for Metabolic Engineering`: Rank rose by +4
-- **[Rank Rise]** `X-FEMR: A Token-level Explainable Approach for Electronic Health Records Foundation Models using Transformer-based Models`: Rank rose by +4
-- **[Rank Rise]** `Leveraging Extragradient for Effective Sharpness-Aware Minimization in Deep Learning`: Rank rose by +4
-- **[Rank Rise]** `Self-Supervised Implicit CEST Reconstruction via Physics-Informed Lorentz Encoding`: Rank rose by +4
-- **[Rank Rise]** `x-Prediction Is All You Need:Training-Free Accelerated Generation via Endpoint Decodability`: Rank rose by +4
-- **[Rank Rise]** `Modeling Normal Is All You Need: Joint Latent Clustering for Anomaly Detection in Multimodal Cyber-Physical Systems`: Rank rose by +4
-- **[Rank Rise]** `Scalable Perturbation Learning for Online Self-Supervised Echo State Networks`: Rank rose by +4
-- **[Rank Rise]** `SplineNet: An Isogeometric Deep Learning Method for Complex Shells`: Rank rose by +4
-- **[Rank Rise]** `Learning When to Automate: Queue Control in Human-AI Service Systems`: Rank rose by +4
-- **[Rank Rise]** `Stability Annealing Selects the Implicit Bias of Smoothed Sign Descent: A Rate-Indexed Barrier Path on Separable Data`: Rank rose by +4
-- **[Rank Rise]** `Learning Sparsest Linear Causal DAGs with Latent Confounders via Higher-Order Cumulants`: Rank rose by +4
-- **[Rank Rise]** `Drift Happens: An Empirical Study of Neural Architecture Robustness to Temporal Distribution Shift`: Rank rose by +4
-- **[Rank Rise]** `More Convincing, Not More Correct: Self-Play Reward Hacking of Reference-Free LLM Judges`: Rank rose by +4
-- **[Rank Rise]** `K-ABENA: K-Adaptive Backpropagation with Error-based N-exclusion Algorithm : (Compensated Loss-Based Sample Exclusion with Unbiased Gradient Estimation)`: Rank rose by +4
-- **[Rank Rise]** `Auditing of Unlearning Algorithms`: Rank rose by +4
-- **[Rank Rise]** `No Subspace to Track: Non-Identifiability and Optimizer State in Low-Rank Training`: Rank rose by +4
-- **[Rank Rise]** `Differentially Private Natural Gradient Descent`: Rank rose by +4
-- **[Rank Rise]** `Strategic Bargaining in Multi-Buyer Markets: Reinforcement Learning from Verifiable Rewards for LLM Negotiations`: Rank rose by +4
-- **[Rank Rise]** `Unsupervised Anomaly Detection of Information Operations Users via Behavioral and Language Patterns`: Rank rose by +4
-- **[Rank Rise]** `AbICL: In-Context Learning for Antigen-Specific Antibody Affinity Ranking`: Rank rose by +4
-- **[Rank Rise]** `Decision-Focused Scenario Generation and Selection for Efficient and Robust Grid Dispatch`: Rank rose by +4
-- **[Rank Rise]** `Level-Crossing Density as a Mesh-Free High-Frequency Auxiliary Loss for Implicit Neural Representations`: Rank rose by +4
-- **[Rank Rise]** `Heckman-Corrected Epistemic Uncertainty: Selection on Unobservables Defeats Importance Weighting`: Rank rose by +4
-- **[Rank Rise]** `Two Sides of the Same Coin: Learning the Backdoor to Remove the Backdoor`: Rank rose by +4
-- **[Rank Rise]** `Multimodal Molecular Representation Learning with Graph Neural Networks, Deep & Cross Networks, and SMILES Embeddings`: Rank rose by +4
-- **[Rank Rise]** `Low-Overhead Error-Corrected QCNNs Using Bivariate Bicycle Codes`: Rank rose by +4
-- **[Rank Rise]** `FourTune: Towards Fully 4-Bit Efficient Post-Training for Diffusion Models`: Rank rose by +4
-- **[Rank Rise]** `LLM-Driven Neural Network Generation with Same-Family Architecture Guidance: Disentangling Transfer and Adaptation`: Rank rose by +4
-- **[Rank Rise]** `Deep Reinforcement Learning for Dynamic Battery Management of Autonomous Order Pickers`: Rank rose by +4
-- **[Rank Rise]** `Orthogonal Dendritic Intrinsic Networks: An Architecture for Significance-Ordered, Orthogonal Latent Spaces`: Rank rose by +4
-- **[Rank Rise]** `Domain-Adaptive Climate Downscaling Under Temporal Distribution Shift`: Rank rose by +4
-- **[Rank Rise]** `Intuitionistic Fuzzy Graph Embedded Random Vector Functional Link with Multiview Learning`: Rank rose by +4
-- **[Rank Rise]** `Safe Bayesian Optimization with Counterfactual Policies`: Rank rose by +4
-- **[Rank Rise]** `A Coin Flip Per Token: Bernoulli Sparse Steering of Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `SafeImpute: Reliable Clinical Data Imputation via Conformal Selection`: Rank rose by +4
-- **[Rank Rise]** `EquiFiLM: Charge-Conditioned Equivariant Force Fields via Feature-wise Linear Modulation`: Rank rose by +4
-- **[Rank Rise]** `Federated Physics-Grounded Reinforcement Learning for Distributed Stability Control in Smart Grids`: Rank rose by +4
-- **[Rank Rise]** `Self-Review Reinforcement Learning (SRRL) with Cross-Episode Memory and Policy Distillation`: Rank rose by +4
-- **[Rank Rise]** `$\mathbf{\lambda}$-VAE: Variance Equalization for Posterior Collapse`: Rank rose by +4
-- **[Rank Rise]** `PatchOptic for Shared-State LLM Workflows with Projected Views and Verified Structured Updates`: Rank rose by +4
-- **[Rank Rise]** `InvWeaver: Deductive Feedback for Invariant Synthesis in Interacting-Loop Programs`: Rank rose by +4
-- **[Rank Rise]** `Parameter-Free Encoders Remain Viable for RDB Foundation Models`: Rank rose by +4
-- **[Rank Rise]** `Breaking Structural Isolation: Scalable Graph Clustering via Community-Aware Sampling and Structural Entropy`: Rank rose by +4
-- **[Rank Rise]** `Learnable Weighting of Intra-Attribute Distances for Categorical Data Clustering with Nominal and Ordinal Attributes`: Rank rose by +4
-- **[Rank Rise]** `AdaStop: Cost-Aware Early Stopping for DNN Test Selection`: Rank rose by +4
-- **[Rank Rise]** `Learning to Control LLM Agent Harnesses with Offline Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Empirical Minimal-Realisation Compression of Deep Neural Networks via Controllability-Observability Tests`: Rank rose by +4
-- **[Rank Rise]** `Exogenous Dropout: A Simple, Strong Baseline for Corruption-Robust Time Series Forecasting with Covariates`: Rank rose by +4
-- **[Rank Rise]** `The Granularity Paradox: How Temporal Disaggregation Inflates In-Sample Fit and Compounds Out-of-Sample Error`: Rank rose by +4
-- **[Rank Rise]** `Geometry-Aware Infrastructure-Anchored Denoiser for UWB Sensing and Work-Zone Reconstruction`: Rank rose by +4
-- **[Rank Rise]** `Design-CP: Context Parallelism for Design of Protein Nanoparticles`: Rank rose by +4
-- **[Rank Rise]** `Statistically Meaningful Geometry and Gauge Symmetry Breaking: A Geometric Foundation for Scientific Discovery and Intelligence Emergence`: Rank rose by +4
-- **[Rank Rise]** `pandoc: Conversion between markup formats`: Rank rose by +4
-- **[Rank Rise]** `Typst: The new foundation for documents`: Rank rose by +4
-- **[Rank Rise]** `Daring Fireball: Markdown`: Rank rose by +4
-- **[Rank Rise]** `New and Updated Solutions | Eclipse Plugins, Bundles and Products - Eclipse Marketplace | Eclipse Foundation`: Rank rose by +4
-- **[Rank Rise]** `Eclipse Projects / AsciiDoc Language / AsciiDoc Language · GitLab`: Rank rose by +4
-- **[Rank Rise]** `AsciiDoc Language Documentation | Asciidoctor Docs`: Rank rose by +4
-- **[Rank Rise]** `Free book: Essential GraphRAG from Manning Publications - Neo4j`: Rank rose by +4
-- **[Rank Rise]** `Binaries · openssl/openssl Wiki · GitHub`: Rank rose by +4
-- **[Rank Rise]** `azure-ai-docs/articles/search/index.yml at main · MicrosoftDocs/azure-ai-docs · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Google DeepMind`: Rank rose by +4
-- **[Rank Rise]** `Azure/azure-search-vector-samples`: Rank rose by +4
-- **[Rank Rise]** `Google DeepMind · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Azure AI Search documentation - Azure AI Search | Microsoft Learn`: Rank rose by +4
-- **[Rank Rise]** `Quickstart: Vector Search - Azure AI Search | Microsoft Learn`: Rank rose by +4
-- **[Rank Rise]** `martiansideofthemoon/rankgen`: Rank rose by +4
-- **[Rank Rise]** `Pandoc - index`: Rank rose by +4
-- **[Rank Rise]** `AsciiDoc`: Rank rose by +4
-- **[Rank Rise]** `CopyrightWebToCase`: Rank rose by +4
-- **[Rank Rise]** `Section 1201 - 2010 | U.S. Copyright Office`: Rank rose by +4
-- **[Rank Rise]** `Veo 3.1 â Google DeepMind`: Rank rose by +4
-- **[Rank Rise]** `[2112.07916] LongT5: Efficient Text-To-Text Transformer for Long Sequences`: Rank rose by +4
-- **[Rank Rise]** `[2002.05202] GLU Variants Improve Transformer`: Rank rose by +4
-- **[Rank Rise]** `azure-search-javascript-samples/quickstart-vector-ts at main · Azure-Samples/azure-search-javascript-samples · GitHub`: Rank rose by +4
-- **[Rank Rise]** `supabase/examples/ai at master · supabase/supabase · GitHub`: Rank rose by +4
-- **[Rank Rise]** `[2205.09726] RankGen: Improving Text Generation with Large Ranking Models`: Rank rose by +4
-- **[Rank Rise]** `GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Install WSL | Microsoft Learn`: Rank rose by +4
-- **[Rank Rise]** `AI & Vectors | Supabase Docs`: Rank rose by +4
-- **[Rank Rise]** `google-research/t5x`: Rank rose by +4
-- **[Rank Rise]** `zilliztech/deep-searcher`: Rank rose by +4
-- **[Rank Rise]** `milvus-io/milvus-lite`: Rank rose by +4
-- **[Rank Rise]** `Google Colab`: Rank rose by +4
-- **[Rank Rise]** `zilliztech/milvus-skill`: Rank rose by +4
-- **[Rank Rise]** `Build RAG with Milvus | Milvus Documentation`: Rank rose by +4
-- **[Rank Rise]** `Quickstart | Milvus Documentation`: Rank rose by +4
-- **[Rank Rise]** `From Hugging Face to Amazon SageMaker Studio in one click`: Rank rose by +4
-- **[Rank Rise]** `OpenTelemetry`: Rank rose by +4
-- **[Rank Rise]** `rpm-software-management/dnf`: Rank rose by +4
-- **[Rank Rise]** `DNF Command Reference — DNF @DNF_VERSION@-1 documentation`: Rank rose by +4
-- **[Rank Rise]** `RFC 3339 - Date and Time on the Internet: Timestamps`: Rank rose by +4
-- **[Rank Rise]** `Cloud SDK - Libraries and Command Line Tools | Google Cloud`: Rank rose by +4
-- **[Rank Rise]** `Quickstart: Install the Google Cloud CLI | Google Cloud SDK | Google Cloud Documentation`: Rank rose by +4
-- **[Rank Rise]** `Create a Google Cloud project | Google Workspace | Google for Developers`: Rank rose by +4
-- **[Rank Rise]** `JSON functions | BigQuery | Google Cloud Documentation`: Rank rose by +4
-- **[Rank Rise]** `firebase/extensions`: Rank rose by +4
-- **[Rank Rise]** `Introduction to materialized views | BigQuery | Google Cloud Documentation`: Rank rose by +4
-- **[Rank Rise]** `Create and manage databases | Firestore in Native mode | Google Cloud Documentation`: Rank rose by +4
-- **[Rank Rise]** `generative-ai/setup-env at main · GoogleCloudPlatform/generative-ai · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Firestore Vector Store | Developer Documentation`: Rank rose by +4
-- **[Rank Rise]** `Algolia documentation | Search API guides, SDK and developer docs - Algolia`: Rank rose by +4
-- **[Rank Rise]** `Algolia Academy`: Rank rose by +4
-- **[Rank Rise]** `Algolia`: Rank rose by +4
-- **[Rank Rise]** `API keys - Algolia`: Rank rose by +4
-- **[Rank Rise]** `Firestore | Google Cloud`: Rank rose by +4
-- **[Rank Rise]** `Firestore | Firebase`: Rank rose by +4
-- **[Rank Rise]** `googleapis/nodejs-firestore`: Rank rose by +4
-- **[Rank Rise]** `Home - Documentation`: Rank rose by +4
-- **[Rank Rise]** `firestore package - cloud.google.com/go/firestore - Go Packages`: Rank rose by +4
-- **[Rank Rise]** `Get started with Firestore Standard edition | Firebase`: Rank rose by +4
-- **[Rank Rise]** `Stream Firestore to BigQuery | Firebase Extensions Hub`: Rank rose by +4
-- **[Rank Rise]** `GitHub - algolia/firestore-algolia-search at 6af4b6de9301f25718743af54105d37ebd0606f1 · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Cloud Firestore Data model | Firebase`: Rank rose by +4
-- **[Rank Rise]** `Search Firestore with Algolia | Firebase Extensions Hub`: Rank rose by +4
-- **[Rank Rise]** `EFF's Copyright Policy | Electronic Frontier Foundation`: Rank rose by +4
-- **[Rank Rise]** `Who Has Your Back? Censorship Edition 2019 | Electronic Frontier Foundation`: Rank rose by +4
-- **[Rank Rise]** `The Shift from Models to Compound AI Systems – The Berkeley Artificial Intelligence Research Blog`: Rank rose by +4
-- **[Rank Rise]** `Introducing TXYZ: The AI Platform Revolutionizing PDF Reading and Writing for Academic - The Globe and Mail`: Rank rose by +4
-- **[Rank Rise]** `🧑‍🍳 Cookbook | Haystack`: Rank rose by +4
-- **[Rank Rise]** `Software for Complex Networks — NetworkX 3.7rc0.dev0 documentation`: Rank rose by +4
-- **[Rank Rise]** `What's Haystack Enterprise Platform? | Haystack Enterprise Platform Documentation`: Rank rose by +4
-- **[Rank Rise]** `Neo4j Graph Intelligence Platform`: Rank rose by +4
-- **[Rank Rise]** `medium-policy/Rules.md at master · Medium/medium-policy · GitHub`: Rank rose by +4
-- **[Rank Rise]** `FTC's Endorsement Guides: What People Are Asking | Federal Trade Commission`: Rank rose by +4
-- **[Rank Rise]** `The Santa Clara Principles on Transparency and Accountability in Content Moderation`: Rank rose by +4
-- **[Rank Rise]** `Medium | Official Merchandise | Bonfire`: Rank rose by +4
-- **[Rank Rise]** `DSPy on Databricks | Databricks Blog`: Rank rose by +4
-- **[Rank Rise]** `How we optimized Dash's relevance judge with DSPy - Dropbox`: Rank rose by +4
-- **[Rank Rise]** `TXYZ - Integrate all paths to knowledge`: Rank rose by +4
-- **[Rank Rise]** `LangGraph overview - Docs by LangChain`: Rank rose by +4
-- **[Rank Rise]** `DSPy`: Rank rose by +4
-- **[Rank Rise]** `Redirecting to LangGraph Documentation`: Rank rose by +4
-- **[Rank Rise]** `Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot`: Rank rose by +4
-- **[Rank Rise]** `Differential protection against SARS-CoV-2 reinfection pre- and post-Omicron | Nature`: Rank rose by +4
-- **[Rank Rise]** `Exoplanets - NASA Science`: Rank rose by +4
-- **[Rank Rise]** `NASA’s Webb Studies How Planet Survived Death of its Star - NASA Science`: Rank rose by +4
-- **[Rank Rise]** `NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision - NASA Science`: Rank rose by +4
-- **[Rank Rise]** `Commercial UAV News`: Rank rose by +4
-- **[Rank Rise]** `Webinars | Commercial UAV News`: Rank rose by +4
-- **[Rank Rise]** `Cornell Students Aid NASA with Drone Safety in Sky - NASA`: Rank rose by +4
-- **[Rank Rise]** `Geo Week – A Year of Geospatial Business in Just One Week`: Rank rose by +4
-- **[Rank Rise]** `GEO Week News | Lidar, AEC, 3D Technology & Geospatial Insights`: Rank rose by +4
-- **[Rank Rise]** `Commercial UAV Expo | Drone Conference & Trade Show`: Rank rose by +4
-- **[Rank Rise]** `UAV Reports | Commercial UAV News`: Rank rose by +4
-- **[Rank Rise]** `Orion-Real-Time Validation Infrastructure | Commercial UAV Expo`: Rank rose by +4
-- **[Rank Rise]** `Project Orion | Real-Time Infrastructure for Autonomous Cooperative Airspace`: Rank rose by +4
-- **[Rank Rise]** `How SARS-CoV-2 evolved through the pandemic | Cornell Chronicle`: Rank rose by +4
-- **[Rank Rise]** `Kyle Kimball | University Relations | Cornell University`: Rank rose by +4
-- **[Rank Rise]** `Cornell University`: Rank rose by +4
-- **[Rank Rise]** `Smart drones, safe skies: Student’s system tests, coordinates drone fleets | Cornell Chronicle`: Rank rose by +4
-- **[Rank Rise]** `Research Impact | Cornell Chronicle`: Rank rose by +4
-- **[Rank Rise]** `Publications & Data - Cornell Research & Innovation`: Rank rose by +4
-- **[Rank Rise]** `GitHub Flavored Markdown Spec`: Rank rose by +4
-- **[Rank Rise]** `Overview of Parse | Developer Documentation`: Rank rose by +4
-- **[Rank Rise]** `Getting Started | Developer Documentation`: Rank rose by +4
-- **[Rank Rise]** `JAMS Pathways - YouTube`: Rank rose by +4
-- **[Rank Rise]** `CORE · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Sign in to GitHub · GitHub`: Rank rose by +4
-- **[Rank Rise]** `CORE Recommender`: Rank rose by +4
-- **[Rank Rise]** `HKUDS/RAG-Anything`: Rank rose by +4
-- **[Rank Rise]** `Hugging Face Models on Foundry Managed Compute`: Rank rose by +4
-- **[Rank Rise]** `Installation — MPI for Python 4.1.2 documentation`: Rank rose by +4
-- **[Rank Rise]** `voila-dashboards/voila`: Rank rose by +4
-- **[Rank Rise]** `The PyData Sphinx Theme — PyData Theme 0.19.0 documentation`: Rank rose by +4
-- **[Rank Rise]** `python/cpython`: Rank rose by +4
-- **[Rank Rise]** `Packaging Python Projects - Python Packaging User Guide`: Rank rose by +4
-- **[Rank Rise]** `Get Started | DataCamp`: Rank rose by +4
-- **[Rank Rise]** `Home - RDocumentation`: Rank rose by +4
-- **[Rank Rise]** `Cloudflare's Privacy Policy | Cloudflare`: Rank rose by +4
-- **[Rank Rise]** `Careers at Cloudflare â Open Positions | Cloudflare`: Rank rose by +4
-- **[Rank Rise]** `Self-Serve Subscription Agreement | Cloudflare`: Rank rose by +4
-- **[Rank Rise]** `GitHub Terms of Service - GitHub Docs`: Rank rose by +4
-- **[Rank Rise]** `About building integrations - GitHub Docs`: Rank rose by +4
-- **[Rank Rise]** `- YouTube`: Rank rose by +4
-- **[Rank Rise]** `Home · nltk/nltk Wiki · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Discovered Web Resource`: Rank rose by +4
-- **[Rank Rise]** `Using IPython for parallel computing — ipyparallel 9.2.1.dev documentation`: Rank rose by +4
-- **[Rank Rise]** `Table of contents — voila 0.5.8 documentation`: Rank rose by +4
-- **[Rank Rise]** `Run Milvus Lite Locally | Milvus Documentation`: Rank rose by +4
-- **[Rank Rise]** `Cloudflare Research`: Rank rose by +4
-- **[Rank Rise]** `GitHub - pinecone-io/contextual-webinar-rag: Contextual RAG over webinar videos using Pinecone, Claude and AWS. · GitHub`: Rank rose by +4
-- **[Rank Rise]** `NLTK :: Natural Language Toolkit`: Rank rose by +4
-- **[Rank Rise]** `bootcamp/tutorials/quickstart/apps/rag_search_with_milvus at master · milvus-io/bootcamp · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Sign in to GitHub · GitHub`: Rank rose by +4
-- **[Rank Rise]** `pgvector/pgvector`: Rank rose by +4
-- **[Rank Rise]** `Understanding Agent-Based Patching of Compiler Missed Optimizations`: Rank rose by +4
-- **[Rank Rise]** `GAP-GDRNet: Geometry-aware monocular 6D pose estimation for spacecraft using synthetic geometric supervision`: Rank rose by +4
-- **[Rank Rise]** `Guided Action Flow: Q-Guided Inference for Flow-Matching Vision-Language-Action Policies`: Rank rose by +4
-- **[Rank Rise]** `AI Virtue: What is "Good" Knowledge in the Age of Artificial Intelligence?`: Rank rose by +4
-- **[Rank Rise]** `DiPS: Dialogue Policy Selection for High-Stakes Persuasion Agents`: Rank rose by +4
-- **[Rank Rise]** `MultAttnAttrib: Training-Free Multimodal Attribution in Long Document Question Answering`: Rank rose by +4
-- **[Rank Rise]** `TurnNat: Automatic Evaluation of Turn-Taking Naturalness in Dyadic Spoken Dialogue`: Rank rose by +4
-- **[Rank Rise]** `KARA: Efficient Reasoning LLM Serving via Sliding-Window KV Cache Compression`: Rank rose by +4
-- **[Rank Rise]** `Diffusion-GR2: Diffusion Generative Reasoning Re-ranker`: Rank rose by +4
-- **[Rank Rise]** `Cheap Code, Costly Judgment: A Case Study on Governable Agentic Software Engineering`: Rank rose by +4
-- **[Rank Rise]** `Learning Cardiac Motion Priors for Implicit Neural Representations`: Rank rose by +4
-- **[Rank Rise]** `Post-Training Pruning for Diffusion Transformers`: Rank rose by +4
-- **[Rank Rise]** `From World Models to World Action Models: A Concise Tutorial for Robotics`: Rank rose by +4
-- **[Rank Rise]** `Pano2World: End-to-End 3D Generation via Unified Multi-View Sequences`: Rank rose by +4
-- **[Rank Rise]** `Phantom References: Hallucinated Citations That Survive Peer Review at Top-Tier Conferences`: Rank rose by +4
-- **[Rank Rise]** `Real-Time Hard Negative Sampling via LLM-based Clustering for Large-Scale Two-Tower Retrieval`: Rank rose by +4
-- **[Rank Rise]** `Hate Speech Detection in Turkish and Arabic: A Comprehensive Study`: Rank rose by +4
-- **[Rank Rise]** `Spectral Geometry and Bosonic-Bloch Probes: Explorations in Quantum Learning`: Rank rose by +4
-- **[Rank Rise]** `GR2 Technical Report`: Rank rose by +4
-- **[Rank Rise]** `WorldRoamBench: An Open-World Benchmark for Long-Horizon Stability of Interactive World Models`: Rank rose by +4
-- **[Rank Rise]** `CVE-TTP KG: Knowledge Graph Linking Software Vulnerabilities to Attack Behaviors`: Rank rose by +4
-- **[Rank Rise]** `From Materials Database to Materials Bank: Assetizing Data for AI Driven Materials Innovation`: Rank rose by +4
-- **[Rank Rise]** `Modeling Cell-Cycle-Aware Single-Cell Drug Perturbation Responses`: Rank rose by +4
-- **[Rank Rise]** `TRACE: Temporal Relationship-Aware Conversational Entrainment Detection in Dyadic Speech`: Rank rose by +4
-- **[Rank Rise]** `A Deep Multiscale Neural Network for Accurate Neurological Disorder Detection from MRI Scans and Real-Time Web Deployment`: Rank rose by +4
-- **[Rank Rise]** `Reward-Free Code Alignment from Pretrained or Fine-Tuned LLM: Unpacking the Trade-offs for Code Generation`: Rank rose by +4
-- **[Rank Rise]** `The Unverifiability of Artificial General Intelligence (AGI) Alignment, Static and Dynamic: From Trakhtenbrot's Wall to the Safety-Generality Tension`: Rank rose by +4
-- **[Rank Rise]** `Hybrid privacy-aware semantic search: SVD-truncated document geometry and CKKS-encrypted query reranking under a restricted threat model`: Rank rose by +4
-- **[Rank Rise]** `VideoAgent: All-in-One Framework for Video Understanding and Editing`: Rank rose by +4
-- **[Rank Rise]** `The Power of Light: Improving Synthetic-to-Real Domain Adaptation through Physically-Based Indirect Illumination`: Rank rose by +4
-- **[Rank Rise]** `A Digital Twin Framework for Traffic-Aware UAV Pavement Monitoring in Open-Traffic Conditions`: Rank rose by +4
-- **[Rank Rise]** `NRT-Bench: Benchmarking Multi-Turn Red-Teaming of LLM Operator Agents in Safety-Critical Control Rooms`: Rank rose by +4
-- **[Rank Rise]** `ELVA: Exploring Ranking-Driven Universal Multimodal Retrieval`: Rank rose by +4
-- **[Rank Rise]** `Triangular Consistency as a Universal Constraint for Learning Optical Flow`: Rank rose by +4
-- **[Rank Rise]** `Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms`: Rank rose by +4
-- **[Rank Rise]** `Evaluating Skill and Stability of ArchesWeather and ArchesWeatherGen under Multi-Decadal Climate Simulations`: Rank rose by +4
-- **[Rank Rise]** `IndexMem: Learned KV-Cache Eviction with Latent Memory for Long-Context LLM Inference`: Rank rose by +4
-- **[Rank Rise]** `Active Sensing with Meta-Reinforcement Learning for Emitter Localization from RF Observations`: Rank rose by +4
-- **[Rank Rise]** `BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation`: Rank rose by +4
-- **[Rank Rise]** `IRC-Bench: Recognizing Entities from Contextual Cues in First-Person Reminiscences`: Rank rose by +4
-- **[Rank Rise]** `ARISE: A Repository-level Graph Representation and Toolset for Agentic Program Repair and Fault Localization`: Rank rose by +4
-- **[Rank Rise]** `Shao: Scaling Acoustic Token Language Models Toward High-Fidelity Music Generation`: Rank rose by +4
-- **[Rank Rise]** `Fitting Horn DL Ontologies to ABox and Query Examples: A Tale of Simulation Quantifiers and Finite Models`: Rank rose by +4
-- **[Rank Rise]** `Seeing Is No Longer Believing: Frontier Image Generation Models, Synthetic Visual Evidence, and Real-World Risk`: Rank rose by +4
-- **[Rank Rise]** `Query2Diagram: Answering Developer Queries with UML Diagrams`: Rank rose by +4
-- **[Rank Rise]** `CorridorVLA: Explicit Spatial Constraints for Generative Action Heads via Sparse Anchors`: Rank rose by +4
-- **[Rank Rise]** `StarTSE: Towards Streaming Target Speaker Extraction via Chunk-wise Interleaved Splicing of Autoregressive Language Model`: Rank rose by +4
-- **[Rank Rise]** `The Rise of Verbal Tics in Large Language Models: A Systematic Analysis Across Frontier Models`: Rank rose by +4
-- **[Rank Rise]** `Governed MCP: Kernel-Level Tool Governance for AI Agents via Logit-Based Safety Primitives`: Rank rose by +4
-- **[Rank Rise]** `Don't Make Models Guess Security and Safety: Symbolic Guardrails for Domain-Specific AI Agents`: Rank rose by +4
-- **[Rank Rise]** `CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas`: Rank rose by +4
-- **[Rank Rise]** `SeaAlert: Robust Severity Classification and LLM-Based Information Extraction for Noisy Maritime Distress Communications`: Rank rose by +4
-- **[Rank Rise]** `DF3DV-1K: A Large-Scale Dataset and Benchmark for Distractor-Free Novel View Synthesis`: Rank rose by +4
-- **[Rank Rise]** `Council Mode: A Heterogeneous Multi-Agent Consensus Framework for Reducing LLM Hallucination and Bias`: Rank rose by +4
-- **[Rank Rise]** `Streaming Model Cascades for Semantic SQL`: Rank rose by +4
-- **[Rank Rise]** `Beyond Task Completion: A Verification-vs.-Conformance Gap in Tool-Evolving Agents`: Rank rose by +4
-- **[Rank Rise]** `Reachability Across the NL/PL Boundary: A Taxonomy-Driven Dataflow Model for LLM-Integrated Applications`: Rank rose by +4
-- **[Rank Rise]** `SutureFormer: Learning Surgical Trajectories via Goal-conditioned Offline RL in Pixel Space`: Rank rose by +4
-- **[Rank Rise]** `MCLMR: A Model-Agnostic Causal Learning Framework for Multi-Behavior Recommendation`: Rank rose by +4
-- **[Rank Rise]** `A Two-stage Transformer Framework for Temporal Localization of Distracted Driver Behaviors`: Rank rose by +4
-- **[Rank Rise]** `Towards Reliable Local Security Agents: Verifiable Post-Training for Linux Privilege Escalation`: Rank rose by +4
-- **[Rank Rise]** `CABTO: Context-Aware Behavior Tree Grounding for Robot Manipulation`: Rank rose by +4
-- **[Rank Rise]** `Human-like Object Grouping in Self-supervised Vision Transformers`: Rank rose by +4
-- **[Rank Rise]** `How Transformers Reject Wrong Answers: Rotational Dynamics of Factual Constraint Processing`: Rank rose by +4
-- **[Rank Rise]** `LAW & ORDER: Adaptive Spatial Weighting for Medical Diffusion and Segmentation`: Rank rose by +4
-- **[Rank Rise]** `Efficient Flow Matching for Sparse-View CT Reconstruction`: Rank rose by +4
-- **[Rank Rise]** `SFL-Net: Source-Factorized Latent Representation Learning for Multi-Contrast MRI to Tau-PET Synthesis`: Rank rose by +4
-- **[Rank Rise]** `Inelastic Constitutive Kolmogorov-Arnold Networks: A generalized framework for automated discovery of interpretable inelastic material models`: Rank rose by +4
-- **[Rank Rise]** `NextCrystal: a Symmetry-Driven Generative Framework for Crystal Structure Prediction`: Rank rose by +4
-- **[Rank Rise]** `pFedNavi: Structure-Aware Personalized Federated Vision-Language Navigation for Embodied AI`: Rank rose by +4
-- **[Rank Rise]** `Implementing Grassroots Logic Programs with Multiagent Transition Systems and AI (Full Version)`: Rank rose by +4
-- **[Rank Rise]** `SHINE: A Scalable In-Context Hypernetwork for Mapping Context to LoRA in a Single Pass`: Rank rose by +4
-- **[Rank Rise]** `FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion`: Rank rose by +4
-- **[Rank Rise]** `MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources`: Rank rose by +4
-- **[Rank Rise]** `BoRP: Bootstrapped Regression Probing for Scalable and Human-Aligned LLM Evaluation`: Rank rose by +4
-- **[Rank Rise]** `The Rise of Large Language Models and the Direction and Impact of US Federal Research Funding`: Rank rose by +4
-- **[Rank Rise]** `No Reliable Evidence of Self-Reported Sentience in Small Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `Predicting Biased Human Decision-Making with Large Language Models in Conversational Settings`: Rank rose by +4
-- **[Rank Rise]** `One Prompt, Many Sounds: Modeling Listener Variability in LLM-Based Equalization`: Rank rose by +4
-- **[Rank Rise]** `Generative Semantic Multi-Object Tracking: A Large-Scale Benchmark and an MLLM-Driven Reasoning Framework`: Rank rose by +4
-- **[Rank Rise]** `Resource-constrained Project Scheduling with Time-of-Use Energy Tariffs and Machine States: A Logic-based Benders Decomposition Approach`: Rank rose by +4
-- **[Rank Rise]** `AOI: Context-Aware Multi-Agent Operations via Dynamic Scheduling and Hierarchical Memory Compression`: Rank rose by +4
-- **[Rank Rise]** `Developing an LLM-Based Feedback System Grounded in Evidence-Centered Design to Support Physics Problem Solving`: Rank rose by +4
-- **[Rank Rise]** `Resilient by Design -- Active Inference for Distributed Continuum Intelligence`: Rank rose by +4
-- **[Rank Rise]** `Large Language Models Develop Novel Social Biases Through Adaptive Exploration`: Rank rose by +4
-- **[Rank Rise]** `Neurosymbolic Characterization for Reliable Access Control Policy Analysis`: Rank rose by +4
-- **[Rank Rise]** `SoK: Systematizing LLM Prompt Security: Taxonomies, Datasets, and Unified Evaluation of Attacks and Defenses`: Rank rose by +4
-- **[Rank Rise]** `TaoSR-AGRL: Adaptive Guided Reinforcement Learning Framework for E-commerce Search Relevance`: Rank rose by +4
-- **[Rank Rise]** `Quadratic Programming Approach for Nash Equilibrium Computation in Multiplayer Imperfect-Information Games`: Rank rose by +4
-- **[Rank Rise]** `VISOR++: Universal Visual Inputs based Steering for Large Vision Language Models`: Rank rose by +4
-- **[Rank Rise]** `MAD-PINN: A Decentralized Physics-Informed Machine Learning Framework for Safe and Optimal Multi-Agent Control`: Rank rose by +4
-- **[Rank Rise]** `OctoPipe: Reducing Pipeline Bubbles for Heterogeneous Models via Co-Optimizing Partitioning, Placement, and Scheduling`: Rank rose by +4
-- **[Rank Rise]** `Polarity Detection of Sustainable Development Goals in News Text`: Rank rose by +4
-- **[Rank Rise]** `Agentic Artificial Intelligence for Multistage Physics Experiments at a Large-Scale User Facility Particle Accelerator`: Rank rose by +4
-- **[Rank Rise]** `Interpretable Nanoporous Materials Design with Symmetry-Aware Networks`: Rank rose by +4
-- **[Rank Rise]** `Layout-Conditioned Autoregressive Text-to-Image Generation via Structured Masking`: Rank rose by +4
-- **[Rank Rise]** `A Systematic Survey on Large Language Models for Evolutionary Optimization: From Modeling to Solving`: Rank rose by +4
-- **[Rank Rise]** `EyeMulator: Improving Code Language Models by Mimicking Human Visual Attention`: Rank rose by +4
-- **[Rank Rise]** `LLM-Assisted Semantic Alignment and Integration in Collaborative Model-Based Systems Engineering Using SysML v2`: Rank rose by +4
-- **[Rank Rise]** `EGRA:Toward Enhanced Behavior Graphs and Representation Alignment for Multimodal Recommendation`: Rank rose by +4
-- **[Rank Rise]** `Context Misleads LLMs: The Role of Context Filtering in Maintaining Safe Alignment of LLMs`: Rank rose by +4
-- **[Rank Rise]** `Rational Inverse Reasoning: Few-Shot Imitation by Inferring Intent through Planning`: Rank rose by +4
-- **[Rank Rise]** `VISOR: Visual Input-based Steering for Output Redirection in Vision-Language Models`: Rank rose by +4
-- **[Rank Rise]** `Algorithmic Shortlisting in Participatory Budgeting`: Rank rose by +4
-- **[Rank Rise]** `Web-CogReasoner: Towards Multimodal Knowledge-Induced Cognitive Reasoning for Web Agents`: Rank rose by +4
-- **[Rank Rise]** `Interaction Techniques that Encourage Longer Prompts Can Improve Psychological Ownership when Writing with AI`: Rank rose by +4
-- **[Rank Rise]** `Structured Prompting and Automated Evaluation in Fixed Synthetic Japanese-Language Counseling Dialogues`: Rank rose by +4
-- **[Rank Rise]** `ELBO-T2IAlign: A Generic ELBO-Based Method for Calibrating Pixel-level Text-Image Alignment in Diffusion Models`: Rank rose by +4
-- **[Rank Rise]** `Leveraging Natural Language Processing to Unravel the Mystery of Life: A Review of NLP Approaches in Genomics, Transcriptomics, and Proteomics`: Rank rose by +4
-- **[Rank Rise]** `Seven Security Challenges in Cross-domain Multi-agent LLM Systems`: Rank rose by +4
-- **[Rank Rise]** `kAgent: An execution-guided crash resolution agent for the Linux kernel`: Rank rose by +4
-- **[Rank Rise]** `Exploring Context-aware and LLM-driven Locomotion for Immersive Virtual Reality`: Rank rose by +4
-- **[Rank Rise]** `MOSAIC: Skill-Centric Manipulation Planning with Physics Simulation`: Rank rose by +4
-- **[Rank Rise]** `GenShin: Guiding Rational Liposome Design by Ranking Liposomal Protein Corona through a Docking-Pose-Free GNN`: Rank rose by +4
-- **[Rank Rise]** `AgentDynEx: Nudging the Mechanics and Dynamics of Multi-Agent Simulations`: Rank rose by +4
-- **[Rank Rise]** `Prima.cpp: Fast 30-70B LLM Inference on Heterogeneous and Low-Resource Home Clusters`: Rank rose by +4
-- **[Rank Rise]** `Measuring the Robustness of Audio Deepfake Detection under Real-World Corruption`: Rank rose by +4
-- **[Rank Rise]** `Empirical Computation: Prompting versus Programming`: Rank rose by +4
-- **[Rank Rise]** `Evaluating LLM-Based Regression Test Generation`: Rank rose by +4
-- **[Rank Rise]** `Code Benchmarks Should Prioritize Rigor, Reliability, and Reproducibility`: Rank rose by +4
-- **[Rank Rise]** `Saving GPU Hours in LLM Inference System Development and Online Workloads with Simulation and DBMS-Inspired Cache Replacement Policies`: Rank rose by +4
-- **[Rank Rise]** `Restricted Bernoulli Matrix Factorization: Balancing the trade-off between prediction accuracy and coverage in classification based collaborative filtering`: Rank rose by +4
-- **[Rank Rise]** `Double Fuzzy Probabilistic Interval Linguistic Term Set and a Dynamic Fuzzy Decision Making Model based on Markov Process with tts Application in Multiple Criteria Group Decision Making`: Rank rose by +4
-- **[Rank Rise]** `Querying and Repairing Inconsistent Prioritized Knowledge Bases: Complexity Analysis and Links with Abstract Argumentation`: Rank rose by +4
-- **[Rank Rise]** `ContextNest: Verifiable Context Governance for Autonomous AI Agent`: Rank rose by +4
-- **[Rank Rise]** `PACE: A Proxy for Agentic Capability Evaluation`: Rank rose by +4
-- **[Rank Rise]** `ContextSniper: AntTrail's Token-Efficient Code Memory for Repository-Level Program Repair`: Rank rose by +4
-- **[Rank Rise]** `Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification`: Rank rose by +4
-- **[Rank Rise]** `Repair the Amplifier, Not the Symptom: Stable World-Model Correction for Agent Rollouts`: Rank rose by +4
-- **[Rank Rise]** `Separating Expert Retention from Autonomous Source Inference in Raw-ECG-Replay-Free Continual ECG Deployment`: Rank rose by +4
-- **[Rank Rise]** `Hawk: Harnessing Hardware-Aware Knowledge for High-Performance NPU Kernel Generation`: Rank rose by +4
-- **[Rank Rise]** `Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases`: Rank rose by +4
-- **[Rank Rise]** `Agentic generation of verifiable rules for deterministic, self-expanding reaction classification`: Rank rose by +4
-- **[Rank Rise]** `PedNStream: Scalable Network Flow Simulation for Pedestrian Traffic Management`: Rank rose by +4
-- **[Rank Rise]** `AI Native Games: A Survey and Roadmap`: Rank rose by +4
-- **[Rank Rise]** `Mnemosyne: Agentic Transaction Processing for Validating and Repairing AI-generated Workflows`: Rank rose by +4
-- **[Rank Rise]** `The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons`: Rank rose by +4
-- **[Rank Rise]** `Ask the World Before Acting: Environment Probing for Calibrated Agent World Models`: Rank rose by +4
-- **[Rank Rise]** `World-Model Collapse as a Phase Transition`: Rank rose by +4
-- **[Rank Rise]** `A Three-Phase Foundation Model for Tax-Aware Personalized Portfolio Management`: Rank rose by +4
-- **[Rank Rise]** `Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing`: Rank rose by +4
-- **[Rank Rise]** `FADE: Mitigating Hallucinations by Reducing Language-Prior Dominance in Large Vision-Language Models`: Rank rose by +4
-- **[Rank Rise]** `Customized Generative AI Agent for Transportation Engineering Practice: A Development and Continued Pre-training Guideline`: Rank rose by +4
-- **[Rank Rise]** `Agent vs. Parametric World Models: Hybrid Planning for Reliable Language Agents`: Rank rose by +4
-- **[Rank Rise]** `Understanding Rollout Error in Graph World Models`: Rank rose by +4
-- **[Rank Rise]** `Text Dictates, Music Decorates: Energy-based Attention for Editable Dance Motion Generation`: Rank rose by +4
-- **[Rank Rise]** `ComplexConstraints and Beyond: Expert Rubrics for RLVR`: Rank rose by +4
-- **[Rank Rise]** `Some hypotheses on how chatbots work in problem-solving-driven conversations. Large Language Models as confirmation of the Innovation Illusion`: Rank rose by +4
-- **[Rank Rise]** `TokenMizer: Graph-Structured Session Memory for Long-Horizon LLM Context Management`: Rank rose by +4
-- **[Rank Rise]** `Reasoning4Sciences: Bridging Reasoning Language Models to All Scientific Branches`: Rank rose by +4
-- **[Rank Rise]** `Sign-Separated Asymmetric Finite-Time Error Analysis of Q-Learning`: Rank rose by +4
-- **[Rank Rise]** `Attributing Emergence in Million-Agent Systems`: Rank rose by +4
-- **[Rank Rise]** `Beyond the Black Box: Interpretability of Agentic AI Tool Use`: Rank rose by +4
-- **[Rank Rise]** `Agentic Retrieval-Augmented Generation for Financial Document Question Answering`: Rank rose by +4
-- **[Rank Rise]** `Stop Automating Peer Review Without Rigorous Evaluation`: Rank rose by +4
-- **[Rank Rise]** `To Use AI as Dice of Possibilities with Timing Computation`: Rank rose by +4
-- **[Rank Rise]** `CAP-CoT: Cycle Adversarial Prompt for Improving Chain of Thoughts in LLM Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Fun-TSG: A Function-Driven Multivariate Time Series Generator with Variable-Level Anomaly Labeling`: Rank rose by +4
-- **[Rank Rise]** `Gypscie: A Cross-Platform AI Artifact Management System`: Rank rose by +4
-- **[Rank Rise]** `TRACE: Capability-Targeted Agentic Training`: Rank rose by +4
-- **[Rank Rise]** `Chronos: The AI Co-Historian`: Rank rose by +4
-- **[Rank Rise]** `The Anatomy of Uncertainty in LLMs`: Rank rose by +4
-- **[Rank Rise]** `Mecha-nudges for Machines`: Rank rose by +4
-- **[Rank Rise]** `Correlation-Weighted Multi-Reward Optimization for Compositional Generation`: Rank rose by +4
-- **[Rank Rise]** `Exploring Plan Space through Conversation: An Agentic Framework for LLM-Mediated Explanations in Planning`: Rank rose by +4
-- **[Rank Rise]** `HVR-Met: A Hypothesis-Verification-Replanning Agentic System for Extreme Weather Diagnosis`: Rank rose by +4
-- **[Rank Rise]** `ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Framework of Thoughts: A Foundation Framework for Dynamic and Optimized Reasoning based on Chains, Trees, and Graphs`: Rank rose by +4
-- **[Rank Rise]** `NEST: Nascent Encoded Steganographic Thoughts`: Rank rose by +4
-- **[Rank Rise]** `Insect-inspired Visual Point-goal Navigation`: Rank rose by +4
-- **[Rank Rise]** `Toward Efficient Agents: Memory, Tool learning, and Planning`: Rank rose by +4
-- **[Rank Rise]** `Programming over Thinking: Efficient and Robust Multi-Constraint Planning`: Rank rose by +4
-- **[Rank Rise]** `OpenTinker: Separating Concerns in Agentic Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `The Language of Bargaining: Linguistic Effects in LLM Negotiations`: Rank rose by +4
-- **[Rank Rise]** `Turbo-Muon: Almost-Orthogonal Pre-Conditioning for Fast Muon Updates`: Rank rose by +4
-- **[Rank Rise]** `CoT-X: An Adaptive Framework for Cross-Model Chain-of-Thought Transfer and Optimization`: Rank rose by +4
-- **[Rank Rise]** `Optimal-Agent-Selection: State-Aware Routing Framework for Efficient Multi-Agent Collaboration`: Rank rose by +4
-- **[Rank Rise]** `A Unified Geometric Space for Topological Alignment Between Transformer-Based Models and Human Brain Networks`: Rank rose by +4
-- **[Rank Rise]** `RLIE: Rule Generation with Logistic Regression, Iterative Refinement, and Evaluation for Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `Interactive Learning for LLM Reasoning`: Rank rose by +4
-- **[Rank Rise]** `A Technical Survey of Reinforcement Learning Techniques for Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `Policy Improvement with Style-Specific Demonstrations`: Rank rose by +4
-- **[Rank Rise]** `AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario`: Rank rose by +4
-- **[Rank Rise]** `Shutdownable Agents through POST-Agency`: Rank rose by +4
-- **[Rank Rise]** `Serious Games: Human-AI Interaction, Evolution, and Coevolution`: Rank rose by +4
-- **[Rank Rise]** `Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation`: Rank rose by +4
-- **[Rank Rise]** `Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation`: Rank rose by +4
-- **[Rank Rise]** `SPEARBench: A Benchmark for Naturalness Evaluation in Streaming Speech-to-Speech Language Models`: Rank rose by +4
-- **[Rank Rise]** `REDDIT: Correcting Model-Generated Timestamp Drift in ASR without Forgetting via Replay-Based Distribution Editing`: Rank rose by +4
-- **[Rank Rise]** `Steering Optimisation Trajectories in Diffusion Representation Learning`: Rank rose by +4
-- **[Rank Rise]** `ProPS: Prompted Profile Synthesis for Natural Language-Conditioned Speaker Embedding Distributions`: Rank rose by +4
-- **[Rank Rise]** `Shifting from Discrete to Continuous Reference Data: QSM-Derived Horizontal Tree Biomass Distribution for Deep Learning Biomass Estimation`: Rank rose by +4
-- **[Rank Rise]** `When Claws Remember but Do Not Tell: Stealthy Memory Injection in Persistent Personal Agents`: Rank rose by +4
-- **[Rank Rise]** `Open Problems in AI Incident Governance`: Rank rose by +4
-- **[Rank Rise]** `Three-Phase Evaluation of AI-Assisted Software Development Life Cycle`: Rank rose by +4
-- **[Rank Rise]** `Agent Data Injection Attacks are Realistic Threats to AI Agents`: Rank rose by +4
-- **[Rank Rise]** `AIFS-SUBS: Extending Data-Driven Forecasting to Sub-Seasonal Timescales`: Rank rose by +4
-- **[Rank Rise]** `RUFNet: Query-Guided Support Mask Refinement and Uncertainty Fusion based on Hybrid Mamba for Few-Shot Brain Tumor Segmentation`: Rank rose by +4
-- **[Rank Rise]** `LLM-Based Test Oracles: Source-of-Authority Taxonomy -- A Systematic Literature Review`: Rank rose by +4
-- **[Rank Rise]** `Your Agent's Memories Are Not Its Own: Forged Reasoning Attacks on LLM Agent Memory and Defenses`: Rank rose by +4
-- **[Rank Rise]** `Comparison of Loss Functions for Robust Deep Learning-based Echocardiography Segmentation when Learning with Partially Labelled Data from Multiple Domains`: Rank rose by +4
-- **[Rank Rise]** `Multi-Robot Open Adaptive Teaming Across Unseen Environments, Partners, and Scales`: Rank rose by +4
-- **[Rank Rise]** `MemPose: Category-level Object Pose Estimation with Memory`: Rank rose by +4
-- **[Rank Rise]** `DSWAM: A Dual-System World Action Foundation Model for Fine-Grained Robot Manipulation`: Rank rose by +4
-- **[Rank Rise]** `Efficient Perception in Automotive Detection and Tracking Using Neuromorphic Computing`: Rank rose by +4
-- **[Rank Rise]** `EventCoT: Event-centric Video Chain-of-thought for Reasoning Temporal Localization`: Rank rose by +4
-- **[Rank Rise]** `SynSFX: Multi-Model Sound Effects Synthesis Dataset for Deepfake Detection and Evaluation`: Rank rose by +4
-- **[Rank Rise]** `HamQASBench: A Hamiltonian-Informed Diagnostic Benchmark for Evaluating Quantum Architecture Search`: Rank rose by +4
-- **[Rank Rise]** `Evaluating the Effect of Linguistic Relatedness on Cross-Lingual Transfer in Large Multilingual Automatic Speech Recognition`: Rank rose by +4
-- **[Rank Rise]** `An Exploration of Agentic Information Fusion for Test Maintenance Prediction`: Rank rose by +4
-- **[Rank Rise]** `RustMizan: A Compilable, Contamination-Aware Benchmarking Framework for Rust Vulnerabilities`: Rank rose by +4
-- **[Rank Rise]** `Dashboard2Code: Evaluating Multimodal Models on Reconstructing Interactive Dashboards`: Rank rose by +4
-- **[Rank Rise]** `Geometry-Aware Motion Latents for Learning Robust Manipulation Policies`: Rank rose by +4
-- **[Rank Rise]** `Strategic Buying Agents`: Rank rose by +4
-- **[Rank Rise]** `ToolFailBench: Diagnosing Tool-Use Failures in LLM Agents`: Rank rose by +4
-- **[Rank Rise]** `Do Vision-Language-Action Models Mean What They Say? On the Role of Faithfulness in Embodied Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Elastic Gang: Per-Token Membership Change for a Hard-Barriered LLM Inference Gang Co-Scheduled with OS Processes`: Rank rose by +4
-- **[Rank Rise]** `Targeted Structure Completion for Sparse-View 3D Reconstruction in Autonomous Driving`: Rank rose by +4
-- **[Rank Rise]** `Hierarchical Evidence-Driven Reasoning for Long Document Understanding`: Rank rose by +4
-- **[Rank Rise]** `SILO: Simulation-in-the-Loop Sim-to-Real Transfer for Multi-Stage Cable Routing`: Rank rose by +4
-- **[Rank Rise]** `G2VD: Generalizable AI-Generated Video Detection via Counterfactual Intervention and Causal Disentanglement`: Rank rose by +4
-- **[Rank Rise]** `Do All Visual Tokens Matter Equally? Object-Evidence Preserving Token Merging for Vision-Language Retrieval`: Rank rose by +4
-- **[Rank Rise]** `LCPNet: Latent Consistent Proximal Unfolding Network for Infrared Small Target Detection`: Rank rose by +4
-- **[Rank Rise]** `TORINO: Token Reduction via Interpretable Concept Overlap in Vision-Language Models`: Rank rose by +4
-- **[Rank Rise]** `Simple-to-Complex Structured Demonstrations for Vision-Language-Action Learning`: Rank rose by +4
-- **[Rank Rise]** `LLM-Driven CI-CD Workflow Intelligence for Cyber Systems Engineering`: Rank rose by +4
-- **[Rank Rise]** `Lights, Camera, Carbon: Architectural Scaling Laws for Video Generation Energy Consumption`: Rank rose by +4
-- **[Rank Rise]** `Explainable Novel Category Discovery in Semantic Concept Space`: Rank rose by +4
-- **[Rank Rise]** `Obey, Diverge, Collapse: Blind Obedience to Incorrect Instructions Drives Code LLMs to Irrecoverable Code Semantic Collapse`: Rank rose by +4
-- **[Rank Rise]** `Training-Free Model Selection and Domain-Aware Score Calibration for First-Shot Anomalous Sound Detection`: Rank rose by +4
-- **[Rank Rise]** `Language Models Represent and Transform Concepts with Shared Geometry`: Rank rose by +4
-- **[Rank Rise]** `Failures and Successes to Learn a Core Conceptual Distinction from the Statistics of Language`: Rank rose by +4
-- **[Rank Rise]** `Robustness Verification of an Autonomous Underwater Vehicle-based Plankton Classifier`: Rank rose by +4
-- **[Rank Rise]** `From Regulation to Requirements: An Automated Requirement Derivation and Explanation Pipeline`: Rank rose by +4
-- **[Rank Rise]** `Generative wave propagator`: Rank rose by +4
-- **[Rank Rise]** `ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog`: Rank rose by +4
-- **[Rank Rise]** `A Retrieval-Augmented Framework for Detecting and Resolving Pragmatic Ambiguities in Natural Language Requirements`: Rank rose by +4
-- **[Rank Rise]** `RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies`: Rank rose by +4
-- **[Rank Rise]** `evalci: A Python Library for Statistically Rigorous Comparison of Language Model Evaluations`: Rank rose by +4
-- **[Rank Rise]** `dOPSD: On-Policy Self-Distillation for Diffusion Language Models`: Rank rose by +4
-- **[Rank Rise]** `Transferability Between Understanding and Generation in Unified Multimodal Models`: Rank rose by +4
-- **[Rank Rise]** `Auto-AEG: Scalable Data Construction for Open-Vocabulary Audio Event Grounding`: Rank rose by +4
-- **[Rank Rise]** `HASSL: Hierarchy-Aware Self-Supervised Learning Framework for Single Cell Microscopy`: Rank rose by +4
-- **[Rank Rise]** `IRIS: An Intelligent Vision-Language System for Ocular Surface Diseases via Topic Tree and Scene-Driven VQA Generation`: Rank rose by +4
-- **[Rank Rise]** `Agentic-V2X: Small Language Model Agents for Deadline-Aware V2X Scheduling in 5G/6G Networks`: Rank rose by +4
-- **[Rank Rise]** `Risk-Constrained Freshness-Aware Semantic Caching for Open-Web Retrieval-Augmented LLMs`: Rank rose by +4
-- **[Rank Rise]** `Self-Reference in Large Language Models: The Introspection Threshold for Recursive Self-Improvement`: Rank rose by +4
-- **[Rank Rise]** `LBR: Towards Mitigating Length Bias in Large Language Models for Recommendation`: Rank rose by +4
-- **[Rank Rise]** `HALO-WA: Hybrid-Attention Latent-Guided Online Reinforcement Learning for World-Action Models`: Rank rose by +4
-- **[Rank Rise]** `SoftVTBench: A Safety-Aware Visuo-Tactile Benchmark for Physically Constrained Robotic Manipulation of Deformable Objects`: Rank rose by +4
-- **[Rank Rise]** `CritiqueDriveVLM: From Verifier-Guided Reinforcement Learning to Latent Thought Distillation for Autonomous Driving`: Rank rose by +4
-- **[Rank Rise]** `Piercing Gilbreath's Conjecture: From Deep Number Theory Insights to Fintech and Cybersecurity`: Rank rose by +4
-- **[Rank Rise]** `SeeMe: Mitigating Hallucinations in Large Vision-Language Models through Effective Visual Token Engineering`: Rank rose by +4
-- **[Rank Rise]** `Information-Geometric Superposed Vowel Evaluation: Part 1. Moraic Syllabary (Japanese)`: Rank rose by +4
-- **[Rank Rise]** `HCSU: A Dataset and Benchmark for Fine-Grained Historical Calligraphy Style Understanding`: Rank rose by +4
-- **[Rank Rise]** `CSB: A Counting and Sampling tool for Bit-vectors`: Rank rose by +4
-- **[Rank Rise]** `Conflict-Based Lazy Search for Fast Multi-Manipulator Planning`: Rank rose by +4
-- **[Rank Rise]** `SOV-CAD: Stepwise Orthographic Views Guided CAD Modeling Sequence Reconstruction`: Rank rose by +4
-- **[Rank Rise]** `Submitted and Diagnostic Analysis of Full-Text Temporal Retrieval for LongEval-Sci`: Rank rose by +4
-- **[Rank Rise]** `Benchmarking API Drift in LLM-Generated Quantum Code Across Successive SDK Versions`: Rank rose by +4
-- **[Rank Rise]** `Enhancing Implicit Neural Representations with Image Feature Embedding for Unsupervised Cardiac Cine MRI Reconstruction`: Rank rose by +4
-- **[Rank Rise]** `Speaker-Disentangled Chunk-Wise Regression for Syllabic Tokenization`: Rank rose by +4
-- **[Rank Rise]** `The "I Don't Know" Filter: Enhancing Agentic Reliability in Function Calling`: Rank rose by +4
-- **[Rank Rise]** `Finite Reliability Representations: Noise-Calibrated Belief-Space Covers for Reliable Decision-Making`: Rank rose by +4
-- **[Rank Rise]** `Separating Representation from Reconstruction Enables Scalable Text Encoders`: Rank rose by +4
-- **[Rank Rise]** `Full Glyph Images Beat Token Embeddings: A Controlled Study for Transformers`: Rank rose by +4
-- **[Rank Rise]** `NouveauVoice: Generating Novel Pseudo Speakers for Voice Anonymization`: Rank rose by +4
-- **[Rank Rise]** `BanglaMemeEvidence: A Multimodal Benchmark Dataset for Explanatory Evidence Detection in Bengali Memes`: Rank rose by +4
-- **[Rank Rise]** `Scalable Semantic Steering of Embedding Projections`: Rank rose by +4
-- **[Rank Rise]** `Refused in Chat, Written in Code: Workflow-Level Jailbreak Construction in IDE Coding Agents`: Rank rose by +4
-- **[Rank Rise]** `Worldscape-MoE: A Unified Mixture-of-Experts World Model for Scalable Heterogeneous Action Control`: Rank rose by +4
-- **[Rank Rise]** `NormWorlds-CF: Solver-Verified Counterfactual Normative Reasoning with Metamorphic-Relation GRPO`: Rank rose by +4
-- **[Rank Rise]** `The Remarkable Effectiveness of Providing AI Agents with Natural Language Tools: A Replication Study Validating NLT Performance Across 14 Models`: Rank rose by +4
-- **[Rank Rise]** `Why3-py: A Tool for Formal Verification of Hypothesis Testing and Meta-Analysis in Python`: Rank rose by +4
-- **[Rank Rise]** `TokAN: Accent Normalization Using Self-Supervised Speech Tokens`: Rank rose by +4
-- **[Rank Rise]** `TabQueryBench: A Query-Centric Benchmark for Synthetic Tabular Data`: Rank rose by +4
-- **[Rank Rise]** `Advanced Topic Modeling Techniques for Categorizing Software Vulnerabilities`: Rank rose by +4
-- **[Rank Rise]** `Enhancement of E-commerce Sponsored Search Relevancy with LLM`: Rank rose by +4
-- **[Rank Rise]** `Consistent but Miscalibrated: Evaluating LLM Limitations for Risk Communication in Natural Language`: Rank rose by +4
-- **[Rank Rise]** `Next-Gen Sponsored Search: Crafting the Perfect Query with Inventory-Aware RAG (InvAwr-RAG) Based GenAI`: Rank rose by +4
-- **[Rank Rise]** `GeoSelect: Spatial-Program Execution for Training-Free Referring Remote Sensing Image Segmentation`: Rank rose by +4
-- **[Rank Rise]** `High-Fidelity One-Step Generative Visuomotor Policy via Recursive Correction, Frequency Consistency, and Contrastive Flow Matching`: Rank rose by +4
-- **[Rank Rise]** `When Simpler Is Better: Evaluating Translation Pipelines for Medieval Latin Manuscripts`: Rank rose by +4
-- **[Rank Rise]** `Beyond Static Rules: Automated Discovery of Latent Vulnerabilities in Text-to-SQL`: Rank rose by +4
-- **[Rank Rise]** `How Do Diffusion Classifiers Decide? A Bias-Centric Evaluation`: Rank rose by +4
-- **[Rank Rise]** `Q-TriM: Question-Guided Tri-Modal Attention for Audio-Visual Question Answering`: Rank rose by +4
-- **[Rank Rise]** `DualView: Preventing Indirect Prompt Injection in Personal AI Agents`: Rank rose by +4
-- **[Rank Rise]** `CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation`: Rank rose by +4
-- **[Rank Rise]** `Probing Low-Level Acoustic Attribute Encoding in CLAP Audio Embeddings`: Rank rose by +4
-- **[Rank Rise]** `CineMobile: On-Device Image-to-Video Diffusion for Cinematic Camera Motion Generation`: Rank rose by +4
-- **[Rank Rise]** `Rethinking Depth Pruning for Vision Transformers: A Heterogeneity-Aware Perspective`: Rank rose by +4
-- **[Rank Rise]** `SkillFab: An Agent-Native Skill Production Platform`: Rank rose by +4
-- **[Rank Rise]** `EmCom-Diffusion: Probing Visual Reflection in Emergent Languages via Image Generation`: Rank rose by +4
-- **[Rank Rise]** `A Failure-Mode Benchmark for Polymorphic Sybil Poisoning in RAG`: Rank rose by +4
-- **[Rank Rise]** `Attending to Multimodal Generation One Token at a Time`: Rank rose by +4
-- **[Rank Rise]** `CoGen3D: An Agentic Human-AI Co-Design Pipeline for 3D Asset Generation for Virtual Reality`: Rank rose by +4
-- **[Rank Rise]** `OmniTacTune: Policy-Agnostic Real-World RL for Tactile Residual Adaptation of Visual Policies`: Rank rose by +4
-- **[Rank Rise]** `A Fair Benchmarking of Deep Relational Database Learning Models`: Rank rose by +4
-- **[Rank Rise]** `ViPo-MLLM: Visual-Pose Multimodal LLM for Gloss-Free Sign Language Translation`: Rank rose by +4
-- **[Rank Rise]** `AutoCedar: An Agentic Framework for Verifier-Guided Access Control Policy Synthesis`: Rank rose by +4
-- **[Rank Rise]** `ELiTeFormer: An Efficient Transformer for FPGAs`: Rank rose by +4
-- **[Rank Rise]** `ClinOCR-Bench: A Comprehensive Clinical Scanned Document Dataset for Optical Character Recognition Model Evaluation`: Rank rose by +4
-- **[Rank Rise]** `Moonstone: A Multimodal Foundation Model and Benchmark for Lunar Remote Sensing`: Rank rose by +4
-- **[Rank Rise]** `An AI-Assisted Solution to the Signed BAR Conjecture: Uniqueness in the Harrison--Reiman Class and a Completely-$\mathcal{S}$ Class Obstruction`: Rank rose by +4
-- **[Rank Rise]** `A Step Towards Robust Unsupervised Domain Adaptation via Fine-Tuning and Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Token-Based Affordance Grounding with Large Vision-Language Models`: Rank rose by +4
-- **[Rank Rise]** `An Interpretable Deep Learning Framework for Discovery and Clinical Validation of Deep Radiomic Signatures in Tumor Classification`: Rank rose by +4
-- **[Rank Rise]** `Responsibility Distribution Estimation in Ego-View Accident Videos with Multimodal Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `PLGSA-Transformer: Periocular Landmark-Guided Attention with Occlusion-Adaptive Cosine Thresholding for Cross-Modal Masked and Unmasked Face Recognition`: Rank rose by +4
-- **[Rank Rise]** `EPRA U-Net: An Efficient Pyramid Residual Attention Framework for Accurate Infarct Segmentation in Diffusion-Weighted MRI`: Rank rose by +4
-- **[Rank Rise]** `AGL-1: The Enterprise AI Governance Layer as a Control Plane for Trusted Enterprise Intelligence`: Rank rose by +4
-- **[Rank Rise]** `CAGE-1: Control, Assurance, and Governance Evaluation for Enterprise Agentic AI`: Rank rose by +4
-- **[Rank Rise]** `STRATOS: Bridging the Symbolic-to-Numeric Gap in Spatio-Temporal Text-to-SQL for Meteorological Data`: Rank rose by +4
-- **[Rank Rise]** `HiMe: Hierarchical Embodied Memory for Long-Horizon Vision-Language-Action Control`: Rank rose by +4
-- **[Rank Rise]** `TRIAGE: Trustworthy Retrieval Instrumentation And Graph Evaluation`: Rank rose by +4
-- **[Rank Rise]** `Securing Multi-Tool AI Agent Chains With Dynamic, Real-Time Compositional Policies`: Rank rose by +4
-- **[Rank Rise]** `DETECT-3B-Omni is Agnostic of Content and Demographics`: Rank rose by +4
-- **[Rank Rise]** `The S-ICDF Dataset: Sionna-Simulated Dynamic Interference Characterization and Direction Finding`: Rank rose by +4
-- **[Rank Rise]** `Spectral Signatures of Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `Brand-as-Memory: Vision-Language Models Encode Causal, Mechanistically Localizable Credibility Priors for News Sources`: Rank rose by +4
-- **[Rank Rise]** `LLM-Enhanced Hierarchical Heterogeneous Graph Representation Learning for Malicious Python Package Detection`: Rank rose by +4
-- **[Rank Rise]** `From Judgments to Issues: Structured Extraction of Legal Reasoning with Citation-Hallucination Control`: Rank rose by +4
-- **[Rank Rise]** `Hierarchical Multi-Agent Reinforcement Learning for Carbon-Aware AI Data Centers in Power Distribution Systems`: Rank rose by +4
-- **[Rank Rise]** `Is Agentic Code Review Helpful? Mining Developers' Feedback to CodeRabbit Reviews in the Wild`: Rank rose by +4
-- **[Rank Rise]** `Semantic Segmentation-Driven Image-Level Diagnosis of Liver Cancers in Hematoxylin and Eosin Histopathology Images`: Rank rose by +4
-- **[Rank Rise]** `Agentic and Generative AI for Open-Source Intelligence and Cyber Investigations: Taxonomy, Evaluation, Challenges, and Future Directions`: Rank rose by +4
-- **[Rank Rise]** `CONTRA: Red-Teaming Configurations of Personalizable Agents`: Rank rose by +4
-- **[Rank Rise]** `Builder, Defender, Breaker: The Case Against Removing the Human from the AI-Driven Security Lifecycle`: Rank rose by +4
-- **[Rank Rise]** `OpenGlass: A Sensing-Computing Split Architecture for Local MLLM-Driven Real-Time Visual Assistance`: Rank rose by +4
-- **[Rank Rise]** `AnchorVLA: Bridging Discrete Decisions and Continuous Trajectories for Vision-Language-Action Planning`: Rank rose by +4
-- **[Rank Rise]** `Teaming Up with AI: Coordination and Cooperation`: Rank rose by +4
-- **[Rank Rise]** `Effectiveness of LLM-based Software Diversity for Reliability Improvement -- an Empirical Study`: Rank rose by +4
-- **[Rank Rise]** `The Role of Prompt Language and Translation-Theory-Driven Prompts in Large Language Models: A Case Study on Spanish-Chinese Journalistic Translation`: Rank rose by +4
-- **[Rank Rise]** `Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion`: Rank rose by +4
-- **[Rank Rise]** `Text as Partial Constraint: Core-Residual Alignment for Robust Vision-Language Learning`: Rank rose by +4
-- **[Rank Rise]** `Detecting Architectural Drift in Safety-Critical Firmware through Runtime Trace Analysis`: Rank rose by +4
-- **[Rank Rise]** `A Multi-Task Deep Learning Framework for Real-Time Intelligent Video Surveillance with Temporal Event Validation`: Rank rose by +4
-- **[Rank Rise]** `SNR-Adaptive Unified Diffusion for Multi-Task Medical Image Segmentation`: Rank rose by +4
-- **[Rank Rise]** `Flow-A11y: Flow-Aware Accessibility Testing`: Rank rose by +4
-- **[Rank Rise]** `Don't Wait to Reply: Towards Responsive yet Thoughtful Dialogue through Proactive Thinking`: Rank rose by +4
-- **[Rank Rise]** `Attention-Guided Efficientnet Architecture For Precise Criminal Identification in Surveillance Images`: Rank rose by +4
-- **[Rank Rise]** `MambaLIE: Scene Light Intensity-Boosted Low-Light Image Enhancement with State Space Model`: Rank rose by +4
-- **[Rank Rise]** `PosterHarness: Turning Scientific Poster Generation into an Auditable Instruction-Following Benchmark`: Rank rose by +4
-- **[Rank Rise]** `VISTA: Auditing Semantic Divergence in Vision-Language Models`: Rank rose by +4
-- **[Rank Rise]** `Enhanced Feature Extraction for IoT Network Intrusion Detection Using GNNs and KAN`: Rank rose by +4
-- **[Rank Rise]** `Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling`: Rank rose by +4
-- **[Rank Rise]** `Parallelized Autoregressive Decoding for Omni-Modal Dense Video Captioning`: Rank rose by +4
-- **[Rank Rise]** `The Foreign Policy AI Evaluation Gap`: Rank rose by +4
-- **[Rank Rise]** `Pooling-Based Context Modeling for Convolution-Free Deep Image Prior`: Rank rose by +4
-- **[Rank Rise]** `MatPhaseBench: A Semantics-Guided Benchmark for Materials Phase Diagrams Understanding`: Rank rose by +4
-- **[Rank Rise]** `Modeling the Impact of Visual Brand Language on Attention, Object Recognition, and Memory Retrieval`: Rank rose by +4
-- **[Rank Rise]** `VideoSearcher: Empowering Video Deep Research with Multi-Tool Agentic Reasoning via Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `R3D: Quantitative 3D Spatial Reasoning for Egocentric Wearables`: Rank rose by +4
-- **[Rank Rise]** `Harmonic-Aware Transformer for Real-Time Catheter Localization in Interventional Procedures of Magnetic Particle Imaging`: Rank rose by +4
-- **[Rank Rise]** `CoACT: Action-Preserving Observation Compression for Coding Agents`: Rank rose by +4
-- **[Rank Rise]** `Learning Taxonomic Trees with Hierarchical Representation Regularization for Large Multimodal Models`: Rank rose by +4
-- **[Rank Rise]** `TIER: Trajectory-Invariant Explanation Regularization for Membership Privacy`: Rank rose by +4
-- **[Rank Rise]** `PPE-Bench: A Benchmark for Evaluating MLLM Unlearning under Private-Public Entanglement`: Rank rose by +4
-- **[Rank Rise]** `Where do LLMs Fall Short in CBT-Guided Affective Reasoning?`: Rank rose by +4
-- **[Rank Rise]** `Determinants and Limits of LLM Security-Tool Orchestration: A Study with HexStrike-AI`: Rank rose by +4
-- **[Rank Rise]** `Differential Amplifier-Inspired AmpAttention for Multi-View Robotic Manipulation`: Rank rose by +4
-- **[Rank Rise]** `JavaVulBench: A Java Vulnerability Benchmark with Realistic Splits, a Unified Multi-Backend Harness, and a Leakage-Aware Evaluation Mode`: Rank rose by +4
-- **[Rank Rise]** `Vision Token Manipulation Attacks on Cloud-Edge Inference of Large Vision-Language Models`: Rank rose by +4
-- **[Rank Rise]** `SovereignNegotiation-Bench: Evaluating User-Owned Personal Agents In Delegated Bargaining Under Privacy, Consent, Evidence, And Institutional Pressure`: Rank rose by +4
-- **[Rank Rise]** `Seduced by the Narrative: Assessing Rule Adherence in Semi-Open Textual Sandboxes`: Rank rose by +4
-- **[Rank Rise]** `A Preliminary Study on Explaining Risk of Code Changes using LLM-Based Prediction Models`: Rank rose by +4
-- **[Rank Rise]** `Gemma 4 Technical Report`: Rank rose by +4
-- **[Rank Rise]** `Echoes of Unrest: A Multimodal NLP Framework for Early Warning of Fake News and Violence-Driven Mob Activity`: Rank rose by +4
-- **[Rank Rise]** `SMOCS: A Streaming Framework for Simplified Deployment, Monitoring, and Optimization of ML Systems in Production`: Rank rose by +4
-- **[Rank Rise]** `Signal from Space: Detecting Schools and Towers to Bridge the Digital Divide`: Rank rose by +4
-- **[Rank Rise]** `Not All Refusals Are Equal: How Safety Alignment Fails Cybersecurity at Scale`: Rank rose by +4
-- **[Rank Rise]** `LLMoxie: Exploring Agentic AI for Scientific Software Development`: Rank rose by +4
-- **[Rank Rise]** `S-EMBER: A Large-Scale Benchmark for Streaming Egocentric Memory Retrieval`: Rank rose by +4
-- **[Rank Rise]** `K9-Bench: Evaluating Multimodal LLMs on Canine-Centric Videos`: Rank rose by +4
-- **[Rank Rise]** `Metronome: Bound the Cache, Keep the Beat for Real-Time Interaction Model Serving`: Rank rose by +4
-- **[Rank Rise]** `Fine-Grained Computation Offload for Off-the-Shelf Servers in Tens of Lines`: Rank rose by +4
-- **[Rank Rise]** `COMET: Combinatorial Optimization for Multiplex Editing Targets Via Constraint-Preserving QAOA`: Rank rose by +4
-- **[Rank Rise]** `TAG: A Lightweight Framework for Test-Driven Agentic Artifact Generation`: Rank rose by +4
-- **[Rank Rise]** `Knowledge-Centric Information Systems`: Rank rose by +4
-- **[Rank Rise]** `AgentLTL: A Trace-Verification Framework for Measuring, Enforcing, and Training Procedural Compliance in Tool-Using LLM Agents`: Rank rose by +4
-- **[Rank Rise]** `An automated method of identifying incorrectly labelled images based on the sequences of loss functions of deep learning networks`: Rank rose by +4
-- **[Rank Rise]** `Homer: Understanding Long-form Videos with Hierarchical Memory and Agentic Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Criterion-Conditional In-Context Learning: Evaluating Criterion-Shift Adaptation in Vision-Language Models`: Rank rose by +4
-- **[Rank Rise]** `Additive Causal Construction for Transferable and Reconfigurable Cross-System Learning in Multi-Source Image Fusion`: Rank rose by +4
-- **[Rank Rise]** `DOSE-I: A Multimodal Biosignal Dataset of Procedural Sedation for Endoscopy -- Technical Report`: Rank rose by +4
-- **[Rank Rise]** `Cross-Receiver Open-Set Radio Frequency Fingerprinting via Structure-First Adaptation`: Rank rose by +4
-- **[Rank Rise]** `From Raw Segmentations to Simulation-Ready Cardiac Meshes: An Automated Framework for Anatomical Reconstruction and Virtual Cohort Generation`: Rank rose by +4
-- **[Rank Rise]** `Attention Dynamics in Diffusion Models: A Visual Analytics Framework for Human-AI Collaboration`: Rank rose by +4
-- **[Rank Rise]** `Double-Helix Active Geometry: LiDAR-Anchored Multi-View Depth with Selective Abstention`: Rank rose by +4
-- **[Rank Rise]** `DELTAVID: Enhancing Fine-Grained Spatiotemporal Perception with Cross-Video Differences`: Rank rose by +4
-- **[Rank Rise]** `Not Every Sync Is Safe: Calibrated DiLoCo Scheduling for Shared AI Infrastructure`: Rank rose by +4
-- **[Rank Rise]** `The Hidden Water Geography of U.S. Hyperscale Data Centers in the AI Era`: Rank rose by +4
-- **[Rank Rise]** `PEEK: Predictive Queue-Informed KV Cache Management for LLM Serving`: Rank rose by +4
-- **[Rank Rise]** `SWIFT: Spatio-temporal Wavelet Integrated Forecasting Framework for Workload Traces`: Rank rose by +4
-- **[Rank Rise]** `AutoResearch: An Execution-Grounded Multi-Agent Framework for Reliable Research Workflow Automation`: Rank rose by +4
-- **[Rank Rise]** `GLM-5 Serving Parameter Tuning for OpenClaw: Single-Deployment MaaS Inference Optimization for Long-Context Agent Workloads`: Rank rose by +4
-- **[Rank Rise]** `Neural-Network Inverse Design of SRF Cavities and Transmons for Bosonic Quantum Computation`: Rank rose by +4
-- **[Rank Rise]** `Specific Domain Ontology Construction Using Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification`: Rank rose by +4
-- **[Rank Rise]** `SovereignPA-Bench: Evaluating User-Owned Personal Agents under Evolving Intent, Platform Mediation, and Consent Constraints`: Rank rose by +4
-- **[Rank Rise]** `Graph Sparse Sampling: Breaking the Curse of the Horizon in Continuous MDP Planning`: Rank rose by +4
-- **[Rank Rise]** `OptiAgent: End-to-End Optimization Modeling via Multi-Agent Iterative Refinement`: Rank rose by +4
-- **[Rank Rise]** `Evaluating and Understanding Model Editing for Medical Vision Language Models`: Rank rose by +4
-- **[Rank Rise]** `MetaSkill-Evolve: Recursive Self-Improvement of LLM Agents via Two-Timescale Meta-Skill Evolution`: Rank rose by +4
-- **[Rank Rise]** `MoP-JEPA: Hard-Assigned Predictor Mixtures for Stochastic JEPA World Models`: Rank rose by +4
-- **[Rank Rise]** `EvoAgentBench: Benchmarking Agent Self-Evolution via Ability Transfer`: Rank rose by +4
-- **[Rank Rise]** `Reason, Reward, Refine: Step-Level Errors Corrections with Structured Feedback for Physics Reasoning in Small Language Models`: Rank rose by +4
-- **[Rank Rise]** `ClassicLogic: A Knowledge-Driven Benchmark of Classic Puzzle Games for Evaluating Compositional Generalization`: Rank rose by +4
-- **[Rank Rise]** `CP-WSP: A Declarative CP-SAT Framework for Configurable Multi-Constraint Workforce Scheduling`: Rank rose by +4
-- **[Rank Rise]** `AgentGym2: Benchmarking Large Language Model Agents in De-Idealized Real-World Environments`: Rank rose by +4
-- **[Rank Rise]** `The Changing Role of Symbolic Methods in Artificial Intelligence`: Rank rose by +4
-- **[Rank Rise]** `DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation`: Rank rose by +4
-- **[Rank Rise]** `TacReasoner: A Dynamic Tactile-Language Framework for Interactive Reasoning in Real-World Scenarios`: Rank rose by +4
-- **[Rank Rise]** `ASSEMCAD: Production-Ready CAD Assembly Generation from Natural Language`: Rank rose by +4
-- **[Rank Rise]** `Diffusion-Guided Uncertainty-Aware Delayed Policy Optimization`: Rank rose by +4
-- **[Rank Rise]** `Toward Trustworthy Large Language Model Agents in Healthcare`: Rank rose by +4
-- **[Rank Rise]** `Quantum-Inspired Harmonic Decision Models: A Computational Framework for Music Generation`: Rank rose by +4
-- **[Rank Rise]** `STAPO: Selective Trajectory-Aware Policy Optimization for LLM Agent Training`: Rank rose by +4
-- **[Rank Rise]** `Medi-Gemma: A Hybrid Clinical Decision Support System Integrating Deterministic EMR Analytics and Retrieval-Augmented Generation`: Rank rose by +4
-- **[Rank Rise]** `CARL: Constraint-Aware Reinforcement Learning for Planning with LLMs`: Rank rose by +4
-- **[Rank Rise]** `AgenticPD: A Stage-Aware Agentic Framework for Physical Design QoR Optimization`: Rank rose by +4
-- **[Rank Rise]** `FM-ChangeNet: Learning Change through Pathwise Feature Transport`: Rank rose by +4
-- **[Rank Rise]** `FORGE: Research-Trajectory Hijacking Attacks on Deep Research Agents`: Rank rose by +4
-- **[Rank Rise]** `Integrated Altruistic and Fairness Preference Induces Advanced Mutual Cooperation in Sequential Social Dilemmas`: Rank rose by +4
-- **[Rank Rise]** `Formal Disco: Scalable Open-Ended Generation of Formally Verified Programs`: Rank rose by +4
-- **[Rank Rise]** `MRMS: A Multi-Resolution Memory Substrate for Long-Lived AI Agents`: Rank rose by +4
-- **[Rank Rise]** `Governed Individuation: Cryptographically Decoupling an Agent's Learning from Its Authority`: Rank rose by +4
-- **[Rank Rise]** `Attention Limited Reward Learning`: Rank rose by +4
-- **[Rank Rise]** `Heaviside Continuity of Rolling Coefficients for Eliminating Epistemic Entropy in Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `Measuring Harness-Induced Belief Divergence in Multi-Step LLM Agents`: Rank rose by +4
-- **[Rank Rise]** `VLA Grounder: Language-Conditioning Space Optimization for Black-Box VLA Models`: Rank rose by +4
-- **[Rank Rise]** `Compressing the Validation Bottleneck: An Agentic Self-Driving Lab for Scientific Discovery`: Rank rose by +4
-- **[Rank Rise]** `Why Pure Reasoning is Not Enough: Nature as the Source of Mathematical Innovation`: Rank rose by +4
-- **[Rank Rise]** `ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes`: Rank rose by +4
-- **[Rank Rise]** `Agent Step Value: Auditing Evaluator-Channel Reversals in Black-Box Agent Traces`: Rank rose by +4
-- **[Rank Rise]** `LLM-as-a-Tutor: Policy-Aware Prompt Adaptation for Non-Verifiable RL`: Rank rose by +4
-- **[Rank Rise]** `MechMath Agent Team: LLM Driven Agents for Mathematical Research`: Rank rose by +4
-- **[Rank Rise]** `Decentralized Aggregation of LLM Predictions via Wagering Mechanisms`: Rank rose by +4
-- **[Rank Rise]** `Nemotron-Labs-3-Puzzle-75B-A9B: Compressing Hybrid MoE LLMs`: Rank rose by +4
-- **[Rank Rise]** `Do GUI Agents Believe Their Eyes? Diagnosing State-Belief Reliance on Pixels versus Structure`: Rank rose by +4
-- **[Rank Rise]** `HAS-Bench: Evaluating LLM-Based Human-Agent Systems under Configurable Human Participation`: Rank rose by +4
-- **[Rank Rise]** `Agentic SABRE: An Uncertainty-Aware Neuro-Symbolic Multi-Agent Framework for Adaptive Ransomware Detection`: Rank rose by +4
-- **[Rank Rise]** `Shortcut Learning in Legal Judgment Prediction: Empirical Evidence from the UK Employment Tribunal`: Rank rose by +4
-- **[Rank Rise]** `Progress- and Reliability-Oriented Group Policy Optimization for Agentic Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Biological Motifs for Agentic Control`: Rank rose by +4
-- **[Rank Rise]** `Unsupervised Features Mining via Activation Geometry`: Rank rose by +4
-- **[Rank Rise]** `Agentic IoT: Architectures, Applications, and Challenges Toward the Internet of Agents`: Rank rose by +4
-- **[Rank Rise]** `Language models guide symbolic equation discovery by controlling search`: Rank rose by +4
-- **[Rank Rise]** `Forethought: Verifiable Reasoning from Neurosymbolic Primitive Programming`: Rank rose by +4
-- **[Rank Rise]** `PLACEMEM: Toward a Compute-Aware Memory Plane for Lifelong Agents`: Rank rose by +4
-- **[Rank Rise]** `What is Left for Us? Second Scholarship Against the Degradation of Research by AI`: Rank rose by +4
-- **[Rank Rise]** `Harness-Aware Self-Evolving: Co-Evolving Model Weights, Harness, and Task Solutions`: Rank rose by +4
-- **[Rank Rise]** `Folding, Reasoning, and Scaling with Open-source Drug Discovery Engine`: Rank rose by +4
-- **[Rank Rise]** `Bridging Interleaved Multi-Modal Reasoning as a Unified Decision Process`: Rank rose by +4
-- **[Rank Rise]** `Can Conversational Temporal Dynamics Improve Depression Detection in Dyads? A Preliminary Investigation in Multi-Modality Perspectives`: Rank rose by +4
-- **[Rank Rise]** `Agent Reinforcement Learning via Pivotal-Aware Self-Feedback Retry`: Rank rose by +4
-- **[Rank Rise]** `Robust Feasible Route Construction through Collaborative Partition Optimization`: Rank rose by +4
-- **[Rank Rise]** `The Role of Rigor in Artificial Intelligence`: Rank rose by +4
-- **[Rank Rise]** `Applying Answer Set Programming with Fuzzy Membership Functions: a Case Study`: Rank rose by +4
-- **[Rank Rise]** `MentalThink: Shaping Thoughts in Mental SVG World`: Rank rose by +4
-- **[Rank Rise]** `Demonstrating Generalization Failures via Mixtures of Conditional Policies`: Rank rose by +4
-- **[Rank Rise]** `Personalized Causal Recourse: A Human-In-The-Loop Approach`: Rank rose by +4
-- **[Rank Rise]** `Efficient bias mitigation in T2I diffusion models using Concept Graphs`: Rank rose by +4
-- **[Rank Rise]** `Reflective Dialogue or Prompt Refinement? Effects of Tutor Scaffolding on Students' Independent LLM Use for Programming`: Rank rose by +4
-- **[Rank Rise]** `Embodied Operators and Benchmarking: Toward Reusable and Deployable Embodied Intelligence Systems`: Rank rose by +4
-- **[Rank Rise]** `Organizational Memory for Agentic Business Process Execution`: Rank rose by +4
-- **[Rank Rise]** `APeB: Benchmarking Personalization Ability of Large Language Model Agents`: Rank rose by +4
-- **[Rank Rise]** `Silicon Sampling via Cross-Survey Transfer`: Rank rose by +4
-- **[Rank Rise]** `Human-Centric Reflective Architecture for Human-AI Collaborative Decision-Making`: Rank rose by +4
-- **[Rank Rise]** `Beyond Forecasting: The Belief-to-Trade Layer in Prediction-Market Agents`: Rank rose by +4
-- **[Rank Rise]** `Reinforcement Learning for Evidence-Seeking Diagnostic Reasoning with Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `Evaluating Generative Agents with Actions Grounded in Socially Distributed Task Environments using Incognita`: Rank rose by +4
-- **[Rank Rise]** `A Sliding-Window-Based Reinforcement Learning for Dynamic Assembly Flow Shop Scheduling with Multi-Product Delivery`: Rank rose by +4
-- **[Rank Rise]** `VERITAS: Towards a General-Purpose Replication Tool for Scientific Research`: Rank rose by +4
-- **[Rank Rise]** `Oyster-II: Reinforcement Learning for Constructive Safety Alignment in Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `MedCalc-Pro: Solving Complex Medical Calculations with LLM Agents`: Rank rose by +4
-- **[Rank Rise]** `Object-Centric Environment Modeling for Agentic Tasks`: Rank rose by +4
-- **[Rank Rise]** `SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery`: Rank rose by +4
-- **[Rank Rise]** `Automated Data Readiness for Scientific AI`: Rank rose by +4
-- **[Rank Rise]** `Internal Pluralism and the Limits of Pairwise Comparisons`: Rank rose by +4
-- **[Rank Rise]** `iFLYTEK-Embodied-Omni Technical Report`: Rank rose by +4
-- **[Rank Rise]** `HNSW with Accuracy Guarantees Using Graph Spanners`: Rank rose by +4
-- **[Rank Rise]** `An Additive MLP-GNN Framework for Characterizing Chemical and Structural Contributions to Aqueous Solubility`: Rank rose by +4
-- **[Rank Rise]** `MMAO-Cls: Metabolic Multi-Agent Optimization for Joint Feature Selection and Classifier Tuning`: Rank rose by +4
-- **[Rank Rise]** `A global predicted-fMRI drive signal from TRIBE does not predict YouTube replay heatmaps`: Rank rose by +4
-- **[Rank Rise]** `Harnessing Textual Refusal Directions for Multimodal Safety`: Rank rose by +4
-- **[Rank Rise]** `When Does Learning to Stop Help? A Cost-Aware Study of Early Exits in Reasoning Models`: Rank rose by +4
-- **[Rank Rise]** `SGD Provably Prioritizes a Shortcut Spurious Feature in the XOR Model`: Rank rose by +4
-- **[Rank Rise]** `A Stochastic--Geometric Theory of Scaling Laws in Grokking`: Rank rose by +4
-- **[Rank Rise]** `Automating the Design of Embodied Agent Architectures`: Rank rose by +4
-- **[Rank Rise]** `Boundary Degree as a Node-level Feature for Epidemic Scenario Identification in Agent-based Cascade Simulations`: Rank rose by +4
-- **[Rank Rise]** `RolloutPipe: Overlapping Pipelined Rollout and Training in Disaggregated On-Policy LLM Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Two Layers of Instability in Causal Estimation`: Rank rose by +4
-- **[Rank Rise]** `Skill Coverage: A Test Adequacy Metric for Agent Skills`: Rank rose by +4
-- **[Rank Rise]** `Identifiability Without Gaussianity: Symbolic World Models and Near-Infinite Temporal Consistency`: Rank rose by +4
-- **[Rank Rise]** `Trainability of IQP Quantum Circuit Born Machines Under Gaussian Initialization`: Rank rose by +4
-- **[Rank Rise]** `Artificial Intelligence for Mathematical Reasoning: An Integrated Survey of Language Models, Neuro-symbolic Systems, and Verified Discovery`: Rank rose by +4
-- **[Rank Rise]** `Deterministic Envelopes for Tamed SGLD: Decoupling Stochastic Gradient Noise and Localizing Taming`: Rank rose by +4
-- **[Rank Rise]** `MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems`: Rank rose by +4
-- **[Rank Rise]** `Cultural Binding Heads in Language Models`: Rank rose by +4
-- **[Rank Rise]** `Gradient-Flow Optimization as Dynamic Random-Effects Inference: Testing and Early Stopping with Applications to Deep Learning`: Rank rose by +4
-- **[Rank Rise]** `MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation`: Rank rose by +4
-- **[Rank Rise]** `High-Risk AI Systems and the Problem of Identity in the European AI Act`: Rank rose by +4
-- **[Rank Rise]** `HaorFloodAlert: A 72-Hour Machine Learning Early Warning System for Flash Floods in Bangladesh's Haor Wetlands`: Rank rose by +4
-- **[Rank Rise]** `When Outcome Looks Right But Discipline Fails: Trace-Based Evaluation Under Hidden Competitor State`: Rank rose by +4
-- **[Rank Rise]** `Yield Curves Dynamics Using Variational Autoencoders Under No-arbitrage`: Rank rose by +4
-- **[Rank Rise]** `BioSEN: A Bio-acoustic Signal Enhancement Network for Animal Vocalizations`: Rank rose by +4
-- **[Rank Rise]** `When Style Similarity Scores Fail: Diagnosing Raw CSD Cosine in Artist-Style Evaluation`: Rank rose by +4
-- **[Rank Rise]** `Evolutionary Ensemble of Agents`: Rank rose by +4
-- **[Rank Rise]** `Undetectable Backdoors in Model Parameters: Hiding Sparse Secrets in High Dimensions`: Rank rose by +4
-- **[Rank Rise]** `Kwai Summary Attention Technical Report`: Rank rose by +4
-- **[Rank Rise]** `Towards Generalizable Deepfake Image Detection with Vision Transformers`: Rank rose by +4
-- **[Rank Rise]** `SynthFix: Adaptive Neuro-Symbolic Code Vulnerability Repair`: Rank rose by +4
-- **[Rank Rise]** `Modelling Gas-Phase Reaction Kinetics with Guided Particle Diffusion Sampling`: Rank rose by +4
-- **[Rank Rise]** `ProbeLogits: Kernel-Level LLM Inference Primitives for AI-Native Operating Systems`: Rank rose by +4
-- **[Rank Rise]** `Multimodal Ambivalence/Hesitancy Recognition in Videos for Personalized Digital Health Interventions`: Rank rose by +4
-- **[Rank Rise]** `CableTract: A Co-Designed Cable-Driven Field Robot for Low-Compaction, Off-Grid Capable Agriculture`: Rank rose by +4
-- **[Rank Rise]** `Large Language Models Generate Harmful Responses Using a Distinct Mechanism, Shared Across Harm Types`: Rank rose by +4
-- **[Rank Rise]** `AViS-Mamba: Adaptive Visual Steering of Audio State-Space Dynamics for Violence Detection`: Rank rose by +4
-- **[Rank Rise]** `Model Predictive Path Integral PID Control for Learning-Based Path Following`: Rank rose by +4
-- **[Rank Rise]** `Walma: Learning to See Memory Corruption in WebAssembly`: Rank rose by +4
-- **[Rank Rise]** `Estimating Individual Tree Height and Species from UAV Imagery`: Rank rose by +4
-- **[Rank Rise]** `On the Ability of Transformers to Verify Plans`: Rank rose by +4
-- **[Rank Rise]** `The Truncation Blind Spot: How Decoding Strategies Systematically Exclude Human-Like Token Choices`: Rank rose by +4
-- **[Rank Rise]** `Learning When to Attend: Conditional Memory Access for Long-Context LLMs`: Rank rose by +4
-- **[Rank Rise]** `Convergence Rate of a Functional Learning Method for Contextual Stochastic Optimization`: Rank rose by +4
-- **[Rank Rise]** `Na\"ive PAINE: Lightweight Text-to-Image Generation Improvement with Prompt Evaluation`: Rank rose by +4
-- **[Rank Rise]** `Coverage-Controlled Preference Mining from Noisy Claim Verification for Evidence-Grounded Generation`: Rank rose by +4
-- **[Rank Rise]** `SpreadsheetArena: Decomposing Preference in LLM Generation of Spreadsheet Workbooks`: Rank rose by +4
-- **[Rank Rise]** `Adaptive Entropy-Driven Sensor Selection in a Camera-LiDAR Particle Filter for Single-Vessel Tracking`: Rank rose by +4
-- **[Rank Rise]** `Local Constrained Bayesian Optimization`: Rank rose by +4
-- **[Rank Rise]** `Language-Guided Grasping under Partial Observation for Mobile Manipulation in Field Inspection and Maintenance`: Rank rose by +4
-- **[Rank Rise]** `Deep Generative Spatiotemporal Engression for Probabilistic Forecasting of Epidemics`: Rank rose by +4
-- **[Rank Rise]** `CN-CBF: Composite Neural Control Barrier Function for Robot Navigation in Dynamic Environments`: Rank rose by +4
-- **[Rank Rise]** `Multi-Agent Reinforcement Learning for V2X Resource Allocation: Disentangling MARL Challenges Through Benchmarking`: Rank rose by +4
-- **[Rank Rise]** `BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations`: Rank rose by +4
-- **[Rank Rise]** `When Rubrics Fail: Error Enumeration as Reward in Reference-Free RL Post-Training for Virtual Try-On`: Rank rose by +4
-- **[Rank Rise]** `Learning with the Nash-Sutcliffe loss`: Rank rose by +4
-- **[Rank Rise]** `A short tour of operator learning theory: Convergence rates, statistical limits, and open questions`: Rank rose by +4
-- **[Rank Rise]** `Compositional Generalization Requires Linear, Orthogonal Representations in Vision Embedding Models`: Rank rose by +4
-- **[Rank Rise]** `Data Driven Optimization of GPU efficiency for Distributed LLM-Adapter Serving`: Rank rose by +4
-- **[Rank Rise]** `Enhancing Automatic Chord Recognition via Pseudo-Labeling and Knowledge Distillation`: Rank rose by +4
-- **[Rank Rise]** `SpectralGCD: Spectral Concept Selection and Cross-modal Representation Learning for Generalized Category Discovery`: Rank rose by +4
-- **[Rank Rise]** `LGQ: Learnable Geometric Quantization for Image Tokenization`: Rank rose by +4
-- **[Rank Rise]** `Few-Step Diffusion Language Models via Trajectory Self-Distillation`: Rank rose by +4
-- **[Rank Rise]** `Scalable Cross-Attention Transformer for Cooperative Multi-AP OFDM Uplink Reception`: Rank rose by +4
-- **[Rank Rise]** `PCA of probability measures: Sparse and Dense sampling regimes`: Rank rose by +4
-- **[Rank Rise]** `Spectral Gradient Descent Mitigates Anisotropy-Driven Misalignment: A Case Study in Phase Retrieval`: Rank rose by +4
-- **[Rank Rise]** `It's all In the (Exponential) Family: An Equivalence between Maximum Likelihood Estimation and Control Variates for Sketching Algorithms`: Rank rose by +4
-- **[Rank Rise]** `Agentic Very Long Video Understanding`: Rank rose by +4
-- **[Rank Rise]** `Learning to Optimize by Differentiable Programming`: Rank rose by +4
-- **[Rank Rise]** `Tracing 3D Anatomy in 2D Strokes: A Multi-Stage Projection Driven Approach to Cervical Spine Fracture Identification`: Rank rose by +4
-- **[Rank Rise]** `Graph Neural Networks are Heuristics`: Rank rose by +4
-- **[Rank Rise]** `Motion Attribution for Video Generation`: Rank rose by +4
-- **[Rank Rise]** `Zero-Shot Distracted Driver Detection via Vision Language Models with Double Decoupling`: Rank rose by +4
-- **[Rank Rise]** `JADAI: Jointly Amortizing Adaptive Design and Bayesian Inference`: Rank rose by +4
-- **[Rank Rise]** `TokSuite: Measuring the Impact of Tokenizer Choice on Language Model Behavior`: Rank rose by +4
-- **[Rank Rise]** `Global universal approximation with Brownian signatures`: Rank rose by +4
-- **[Rank Rise]** `Parameter Efficient Multimodal Instruction Tuning for Romanian Vision Language Models`: Rank rose by +4
-- **[Rank Rise]** `Emergence of Nonequilibrium Latent Cycles in Unsupervised Generative Modeling`: Rank rose by +4
-- **[Rank Rise]** `Is Generation Required for Data-Efficient Perception?`: Rank rose by +4
-- **[Rank Rise]** `InverseCrafter: Efficient Video ReCapture as a Latent Domain Inverse Problem`: Rank rose by +4
-- **[Rank Rise]** `Score-Regularized Joint Sampling with Importance Weights for Flow Matching`: Rank rose by +4
-- **[Rank Rise]** `When is a System Discoverable from Data? Discovery Requires Chaos`: Rank rose by +4
-- **[Rank Rise]** `SpatialThinker: Reinforcing Scene Graph-Grounded Spatial Reasoning via Dense Rewards`: Rank rose by +4
-- **[Rank Rise]** `A Provably-Correct and Robust Convex Model for Smooth Separable NMF`: Rank rose by +4
-- **[Rank Rise]** `Feature weighting for data analysis via evolutionary simulation`: Rank rose by +4
-- **[Rank Rise]** `MetaCaDI: A Meta-Learning Framework for Causal Discovery from Multiple Environments with Unknown Interventions`: Rank rose by +4
-- **[Rank Rise]** `UNDREAM: Bridging Differentiable Rendering and Photorealistic Simulation for End-to-end Adversarial Attacks`: Rank rose by +4
-- **[Rank Rise]** `SilvaScenes: Tree Detection and Species Classification from Under-Canopy Images in Natural Forests`: Rank rose by +4
-- **[Rank Rise]** `Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation`: Rank rose by +4
-- **[Rank Rise]** `Verifier-free Test-Time Sampling for Vision-Language-Action Models`: Rank rose by +4
-- **[Rank Rise]** `MACS: Measurement-Aware Consistency Sampling for Inverse Problems`: Rank rose by +4
-- **[Rank Rise]** `Activation-Deactivation: A General Framework for Robust Post-hoc Explainable AI`: Rank rose by +4
-- **[Rank Rise]** `Quantum Variational Activation Functions Empower Kolmogorov-Arnold Networks`: Rank rose by +4
-- **[Rank Rise]** `On a Geometry of Interbrain Networks`: Rank rose by +4
-- **[Rank Rise]** `Convergence Analysis of the ProbAbilistic Gradient Estimator Algorithm for Weakly Convex Finite-Sum Optimization`: Rank rose by +4
-- **[Rank Rise]** `ChainReaction: Causal Chain-Guided Reasoning for Modular and Explainable Causal-Why Video Question Answering`: Rank rose by +4
-- **[Rank Rise]** `Robust Sparse Bayesian Learning Based on Minimum Error Entropy for Noisy High-Dimensional Brain Activity Decoding`: Rank rose by +4
-- **[Rank Rise]** `Extending Foundational Monocular Depth Estimators to Fisheye Cameras with Calibration Tokens`: Rank rose by +4
-- **[Rank Rise]** `Parity-Aware Byte-Pair Encoding: Improving Cross-lingual Fairness in Tokenization`: Rank rose by +4
-- **[Rank Rise]** `FastCSP: Accelerated Molecular Crystal Structure Prediction with Universal Model for Atoms`: Rank rose by +4
-- **[Rank Rise]** `The Bayesian Approach to Continual Learning: An Overview`: Rank rose by +4
-- **[Rank Rise]** `CLEAR: Calibrated Learning for Epistemic and Aleatoric Risk`: Rank rose by +4
-- **[Rank Rise]** `Semi-parametric Functional Classification via Path Signatures Logistic Regression with Adaptive Order Selection`: Rank rose by +4
-- **[Rank Rise]** `Context Tuning for In-Context Optimization`: Rank rose by +4
-- **[Rank Rise]** `Bayesian Invariance Modeling of Multi-Environment Data`: Rank rose by +4
-- **[Rank Rise]** `Interactive Multi-Objective Probabilistic Preference Learning with Soft and Hard Bounds`: Rank rose by +4
-- **[Rank Rise]** `Topological data analysis using persistent discrete homology`: Rank rose by +4
-- **[Rank Rise]** `FuseMamba-VD: Dual Branch VideoMamba with Gated Class Token Fusion for Violence Detection`: Rank rose by +4
-- **[Rank Rise]** `Improved generalization bounds for binary linear classification via isoperimetry`: Rank rose by +4
-- **[Rank Rise]** `Quick ViTs: Speeding up Vision Transformers through Equivariance`: Rank rose by +4
-- **[Rank Rise]** `Towards Understanding Deep Learning Model in Image Recognition via Coverage Test`: Rank rose by +4
-- **[Rank Rise]** `Neuro-symbolic Weak Supervision: Theory and Semantics`: Rank rose by +4
-- **[Rank Rise]** `Explainable Bayesian deep learning through input-skip Latent Binary Bayesian Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `Evolutionary Guided Decoding: Iterative Value Refinement for LLMs`: Rank rose by +4
-- **[Rank Rise]** `Engineering Carbon Credits Towards A Responsible FinTech Era: The Practices, Implications, and Future`: Rank rose by +4
-- **[Rank Rise]** `Batch effects can impair federated learning in multi-center omics studies`: Rank rose by +4
-- **[Rank Rise]** `Inclusive KL Gradient Flows: Otto-Wasserstein, Fisher-Rao-Gaussian, and Local-Estimator Dynamics`: Rank rose by +4
-- **[Rank Rise]** `Discrete distributions are learnable from metastable samples`: Rank rose by +4
-- **[Rank Rise]** `Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models`: Rank rose by +4
-- **[Rank Rise]** `AMT-APC: Automatic Piano Cover by Fine-Tuning an Automatic Music Transcription Model`: Rank rose by +4
-- **[Rank Rise]** `Improved Finite-Particle Convergence Rates for Stein Variational Gradient Descent`: Rank rose by +4
-- **[Rank Rise]** `DrugAgent: Reliable Multi-Agent Integration of Conflicting Biomedical Evidence for Drug-Target Interaction Assessment`: Rank rose by +4
-- **[Rank Rise]** `Granger Causality in Extremes`: Rank rose by +4
-- **[Rank Rise]** `Learning rate adaptive stochastic gradient descent optimization methods: numerical simulations for deep learning methods for partial differential equations and convergence analyses`: Rank rose by +4
-- **[Rank Rise]** `Nonparametric Control Koopman Operators`: Rank rose by +4
-- **[Rank Rise]** `Fortifying Fully Convolutional Generative Adversarial Networks for Image Super-Resolution Using Divergence Measures`: Rank rose by +4
-- **[Rank Rise]** `CausalChaos! Dataset for Comprehensive Causal Action Question Answering Over Longer Causal Chains Grounded in Dynamic Visual Scenes`: Rank rose by +4
-- **[Rank Rise]** `Replicability is Asymptotically Free in Multi-armed Bandits`: Rank rose by +4
-- **[Rank Rise]** `Semidefinite programming relaxations and debiasing for MAXCUT-based clustering`: Rank rose by +4
-- **[Rank Rise]** `Learning to Visually Connect Actions and their Effects`: Rank rose by +4
-- **[Rank Rise]** `GestaltMML: Enhancing Rare Genetic Disease Diagnosis through Multimodal Machine Learning Combining Facial Images and Clinical Text`: Rank rose by +4
-- **[Rank Rise]** `Efficient Cross-Validation for Sparse Linear Regression`: Rank rose by +4
-- **[Rank Rise]** `Distribution-free Deviation Bounds and The Role of Domain Knowledge in Learning via Model Selection with Cross-validation Risk Estimation`: Rank rose by +4
-- **[Rank Rise]** `A Transformer-Based Contrastive Learning Approach for Few-Shot Sign Language Recognition`: Rank rose by +4
-- **[Rank Rise]** `Domain Knowledge-Informed Self-Supervised Representations for Workout Form Assessment`: Rank rose by +4
-- **[Rank Rise]** `Analytical Standard Errors for Exploratory Factor Solutions`: Rank rose by +4
-- **[Rank Rise]** `DemoPSD: Disagreement-Modulated Policy Self-Distillation`: Rank rose by +4
-- **[Rank Rise]** `Online Resource Allocation with Continuous Random Consumption: Regret under Degeneracy`: Rank rose by +4
-- **[Rank Rise]** `ART for Diffusion Sampling: Continuous-Time Control and Actor-Critic Learning`: Rank rose by +4
-- **[Rank Rise]** `kNNGuard: Turning LLM Hidden Activations into a Training-Free Configurable Guardrail`: Rank rose by +4
-- **[Rank Rise]** `A Memory Efficient Unified Algorithm for Online Learning of Linear Dynamical Systems`: Rank rose by +4
-- **[Rank Rise]** `Predicting Closed-Loop Performance of Latent World Models: Offline Checkpoint Selection for MPC and Model-Based RL Under Non-Markovian Rewards in LunarLander`: Rank rose by +4
-- **[Rank Rise]** `Spin-Weighted Spherical Harmonics Enable Complete and Scalable $\mathrm{E}(3)$-Equivariant Networks`: Rank rose by +4
-- **[Rank Rise]** `Generative Model Proposal based Particle Filtering for Data Assimilation`: Rank rose by +4
-- **[Rank Rise]** `TRIAGE: Role-Typed Credit Assignment for Agentic Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Curvature-Guided Sheaf Diffusion for Unsupervised Community Detection on Heterophilic Graphs`: Rank rose by +4
-- **[Rank Rise]** `Golden Hour Divide: Trauma Care Accessibility and Resource Vulnerability in Sri Lanka`: Rank rose by +4
-- **[Rank Rise]** `NormGuard: Reward-Preserving Norm Constraints in Flow-Matching Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Heavy-Ball Q-Learning with Residual Weighting Correction`: Rank rose by +4
-- **[Rank Rise]** `Multipath Adaptive Gated Bottleneck Latent ODE with Raman Data Fusion for Cell Culture Process Forecasting`: Rank rose by +4
-- **[Rank Rise]** `Hard or Just Unreached? Diagnosing the Sampling Blind Spot in Math-Reasoning Difficulty Estimation`: Rank rose by +4
-- **[Rank Rise]** `Selecting Samples on Graphs: A Unified Dataset Pruning Framework for Lossless Training Acceleration`: Rank rose by +4
-- **[Rank Rise]** `PBSD: Privileged Bayesian Self-Distillation for Long-Horizon Credit Assignment`: Rank rose by +4
-- **[Rank Rise]** `ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion`: Rank rose by +4
-- **[Rank Rise]** `Pseudospectral Bounds for Transient Amplification in Coupled Gradient Descent`: Rank rose by +4
-- **[Rank Rise]** `Private and Stable Test-Time Adaptation with Differential Privacy`: Rank rose by +4
-- **[Rank Rise]** `Automatically Differentiable Nonlinear Tensor Networks (ADNTNs) for Exponential Parameter Compression of Deep Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `De-attribute to Forget for LLM Unlearning`: Rank rose by +4
-- **[Rank Rise]** `Prior-Guided Frequency-Calibrated Virtual EEG Channel Inference from Four Frontal Electrodes for Wearable EEG Augmentation`: Rank rose by +4
-- **[Rank Rise]** `Emergent Semantic Representations in World Models through Physical Interaction without Linguistic Supervision`: Rank rose by +4
-- **[Rank Rise]** `Learning in Low-Dimensional Subspaces: Orthogonal Bottlenecks for Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Hidden-State Privacy Has an Empty Middle`: Rank rose by +4
-- **[Rank Rise]** `CogAdapt: Adapting Clinical ECG Foundation Models for Wearable Cognitive Load Assessment`: Rank rose by +4
-- **[Rank Rise]** `A 10,000-Year Global Stochastic Tropical Cyclone Catalog with Wind-Dependent Track Transitions (WHITS)`: Rank rose by +4
-- **[Rank Rise]** `Memisis: Orchestrating and Evaluating Synthetic Data for Tabular Health Datasets`: Rank rose by +4
-- **[Rank Rise]** `MPINeuralODE: Multiple-Initial-Condition Physics-Informed Neural ODEs for Globally Consistent Dynamical System Learning`: Rank rose by +4
-- **[Rank Rise]** `A Switching System Theory of Q-Learning with Linear Function Approximation`: Rank rose by +4
-- **[Rank Rise]** `MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI`: Rank rose by +4
-- **[Rank Rise]** `Direct Bethe Free Energy Minimization for Bayesian Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs`: Rank rose by +4
-- **[Rank Rise]** `How Many Iterations to Jailbreak? Dynamic Budget Allocation for Multi-Turn LLM Evaluation`: Rank rose by +4
-- **[Rank Rise]** `Uni-OPD: Unifying On-Policy Distillation with a Dual-Perspective Recipe`: Rank rose by +4
-- **[Rank Rise]** `Instance-Level Costs for Nuanced Classifier Evaluation`: Rank rose by +4
-- **[Rank Rise]** `DBLP: Phase-Aware Bounded-Loss Transport for Burst-Resilient Distributed ML Training`: Rank rose by +4
-- **[Rank Rise]** `Incompressible Knowledge Probes: Estimating Black-Box LLM Parameter Counts via Factual Capacity`: Rank rose by +4
-- **[Rank Rise]** `ML-Guided Primal Heuristics for Mixed Binary Quadratic Programs`: Rank rose by +4
-- **[Rank Rise]** `Learning Coverage- and Power-Optimal Transmitter Placement from City Maps: A Comparative Study of Direct and Indirect Neural Approaches`: Rank rose by +4
-- **[Rank Rise]** `Test-Time Adaptation for EEG Foundation Models: A Systematic Study under Real-World Distribution Shifts`: Rank rose by +4
-- **[Rank Rise]** `OC-Distill: Ontology-aware Contrastive Learning with Cross-Modal Distillation for ICU Risk Prediction`: Rank rose by +4
-- **[Rank Rise]** `Unveiling Stochasticity: Universal Multi-modal Probabilistic Modeling for Traffic Forecasting`: Rank rose by +4
-- **[Rank Rise]** `A Complete Symmetry Classification of Shallow ReLU Networks`: Rank rose by +4
-- **[Rank Rise]** `When Can You Poison Rewards? A Tight Characterization of Reward Poisoning in Linear MDPs`: Rank rose by +4
-- **[Rank Rise]** `Unsupervised Behavioral Compression: Learning Low-Dimensional Policy Manifolds through State-Occupancy Matching`: Rank rose by +4
-- **[Rank Rise]** `i-IF-Learn: Iterative Feature Selection and Unsupervised Learning for High-Dimensional Complex Data`: Rank rose by +4
-- **[Rank Rise]** `From Arithmetic to Logic: The Resilience of Logic and Lookup-Based Neural Networks Under Parameter Bit-Flips`: Rank rose by +4
-- **[Rank Rise]** `Generative Inverse Design with Abstention via Diagonal Flow Matching`: Rank rose by +4
-- **[Rank Rise]** `Effective Distillation to Hybrid xLSTM Architectures`: Rank rose by +4
-- **[Rank Rise]** `Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks`: Rank rose by +4
-- **[Rank Rise]** `Trust-Region Noise Search for Black-Box Alignment of Diffusion and Flow Models`: Rank rose by +4
-- **[Rank Rise]** `Lipschitz-Based Robustness Certification Under Floating-Point Execution`: Rank rose by +4
-- **[Rank Rise]** `Disentangled Latent Dynamics Manifold Fusion for Solving Parameterized PDEs`: Rank rose by +4
-- **[Rank Rise]** `Language Generation with Replay: A Learning-Theoretic View of Model Collapse`: Rank rose by +4
-- **[Rank Rise]** `Deep Learning Network-Temporal Models For Traffic Prediction`: Rank rose by +4
-- **[Rank Rise]** `Safe RLHF Beyond Expectation: Stochastic Dominance for Universal Spectral Risk Control`: Rank rose by +4
-- **[Rank Rise]** `A Hybrid Quantum Circuit Born Machine Framework for Financial Volatility Forecasting: Quantum-Assisted Training and Classical Inference`: Rank rose by +4
-- **[Rank Rise]** `TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables`: Rank rose by +4
-- **[Rank Rise]** `Asymptotic Behavior of Multi--Task Learning: Implicit Regularization and Double Descent Effects`: Rank rose by +4
-- **[Rank Rise]** `GIPO: Gaussian Importance Sampling Policy Optimization`: Rank rose by +4
-- **[Rank Rise]** `ParEVO: Synthesizing Code for Irregular Data: High-Performance Parallelism through Agentic Evolution`: Rank rose by +4
-- **[Rank Rise]** `Decentralized Federated Learning by Partial Message Exchange`: Rank rose by +4
-- **[Rank Rise]** `OSF: On Pre-training and Scaling of Sleep Foundation Models`: Rank rose by +4
-- **[Rank Rise]** `Causal Mechanism Reduction: Mechanism Replacement for Neural Network Pruning and Abstraction`: Rank rose by +4
-- **[Rank Rise]** `Agentic AI-RAN: Enabling Intent-Driven, Explainable and Self-Evolving Open RAN Intelligence`: Rank rose by +4
-- **[Rank Rise]** `QEDBENCH: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs`: Rank rose by +4
-- **[Rank Rise]** `Incremental Learning of Sparse Attention Patterns in Transformers`: Rank rose by +4
-- **[Rank Rise]** `Gradient Regularization Mitigates Reward Hacking in Reinforcement Learning from Human Feedback and Verifiable Rewards`: Rank rose by +4
-- **[Rank Rise]** `MARS: Margin and Semantic-Aware Data Augmentation for Reward Modeling`: Rank rose by +4
-- **[Rank Rise]** `Efficient privacy loss accounting for subsampling and random allocation`: Rank rose by +4
-- **[Rank Rise]** `Learning on the Manifold: Unlocking Standard Diffusion Transformers with Representation Encoders`: Rank rose by +4
-- **[Rank Rise]** `Learning to Discover Iterative Spectral Algorithms`: Rank rose by +4
-- **[Rank Rise]** `DynamiQ: Accelerating Gradient Synchronization using Compressed Multi-hop All-reduce`: Rank rose by +4
-- **[Rank Rise]** `rePIRL: Learn PRM with Inverse RL for LLM Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Deriving Neural Scaling Laws from the statistics of natural language`: Rank rose by +4
-- **[Rank Rise]** `Scalable Dexterous Robot Learning with AR-based Remote Human-Robot Interactions`: Rank rose by +4
-- **[Rank Rise]** `Endogenous Resistance to Activation Steering in Language Models`: Rank rose by +4
-- **[Rank Rise]** `Multi-Way Representation Alignment`: Rank rose by +4
-- **[Rank Rise]** `Variational Sparse Paired Autoencoders (vsPAIR) for Inverse Problems and Uncertainty Quantification`: Rank rose by +4
-- **[Rank Rise]** `A Random Matrix Theory Perspective on the Consistency of Diffusion Models`: Rank rose by +4
-- **[Rank Rise]** `Self-Supervised Learning from Structural Invariance`: Rank rose by +4
-- **[Rank Rise]** `Explicit Credit Assignment through Local Rewards and Dependence Graphs in Multi-Agent Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `CLEANER: Self-Purified Trajectories Boost Agentic Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `R$^2$PO: Decoupling Rollout and Inference Policies for LLM Reasoning`: Rank rose by +4
-- **[Rank Rise]** `ARCQuant: Boosting NVFP4 Quantization with Augmented Residual Channels for LLMs`: Rank rose by +4
-- **[Rank Rise]** `Prior Diffusiveness and Regret in the Linear-Gaussian Bandit`: Rank rose by +4
-- **[Rank Rise]** `Gradient Descent as Implicit EM in Distance-Based Neural Models`: Rank rose by +4
-- **[Rank Rise]** `EvoXplain: When Machine Learning Models Agree on Predictions but Disagree on Why -- Measuring Mechanistic Multiplicity Across Training Runs`: Rank rose by +4
-- **[Rank Rise]** `Out-of-Distribution Detection in Molecular Complexes via Diffusion Models for Irregular Graphs`: Rank rose by +4
-- **[Rank Rise]** `Shapley-based Data Valuation for LLM Alignment via Sequential Preference Optimization`: Rank rose by +4
-- **[Rank Rise]** `Adaptive Partitioning and Learning for Stochastic Control of Diffusion Processes`: Rank rose by +4
-- **[Rank Rise]** `CLARITY: Medical World Model for Guiding Treatment Decisions by Modeling Context-Aware Disease Trajectories in Latent Space`: Rank rose by +4
-- **[Rank Rise]** `Exploring the Rashomon Set for Concept-Based Models`: Rank rose by +4
-- **[Rank Rise]** `Closing Gaps in Emissions Monitoring with Climate TRACE`: Rank rose by +4
-- **[Rank Rise]** `KAN vs LSTM Performance in Time Series Forecasting`: Rank rose by +4
-- **[Rank Rise]** `Equivalence of Context and Parameter Updates in Modern Transformer Blocks`: Rank rose by +4
-- **[Rank Rise]** `Walrus: A Cross-Domain Foundation Model for Continuum Dynamics`: Rank rose by +4
-- **[Rank Rise]** `Recursive Entropic Variational Inference for Nonlinear State-Space Models`: Rank rose by +4
-- **[Rank Rise]** `Transformer-Based Multi-Agent Reinforcement Learning for Networked Systems with Long-Range Interactions`: Rank rose by +4
-- **[Rank Rise]** `Can Stationary Distributions of Scale-Invariant Neural Networks Be Described by the Thermodynamics of an Ideal Gas?`: Rank rose by +4
-- **[Rank Rise]** `QiVC-Net: Quantum-Inspired Variational Convolutional Network, with Application to Biosignal Classification`: Rank rose by +4
-- **[Rank Rise]** `PuzzleMoE: Efficient Compression of Large Mixture-of-Experts Models via Sparse Expert Merging and Bit-packed inference`: Rank rose by +4
-- **[Rank Rise]** `Uncertainty Quantification for Regression: A Unified Framework based on kernel scores`: Rank rose by +4
-- **[Rank Rise]** `Machine Learning Guided Optimal Transmission Switching to Mitigate Wildfire Ignition Risk`: Rank rose by +4
-- **[Rank Rise]** `APEX: Approximate-but-exhaustive search for ultra-large combinatorial synthesis libraries`: Rank rose by +4
-- **[Rank Rise]** `Learning to Reason Efficiently with Discounted Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `A Model Can Help Itself: Reward-Free Self-Training for LLM Reasoning`: Rank rose by +4
-- **[Rank Rise]** `Conditional Clifford-Steerable CNNs for PDE Modeling`: Rank rose by +4
-- **[Rank Rise]** `Batched Bandits with Heavy-Tailed Rewards`: Rank rose by +4
-- **[Rank Rise]** `Octax: Accelerated CHIP-8 Arcade Environments for Reinforcement Learning in JAX`: Rank rose by +4
-- **[Rank Rise]** `The Three Regimes of Offline-to-Online Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Panorama: Fast-Track Nearest Neighbors`: Rank rose by +4
-- **[Rank Rise]** `Adaptive Margin RLHF via Preference over Preferences`: Rank rose by +4
-- **[Rank Rise]** `Self-Improving Neural-Guided Pruning: A Graph Neural Network Framework for Scalable Mixed Bundle Pricing`: Rank rose by +4
-- **[Rank Rise]** `Towards a more realistic evaluation of machine learning models for bearing fault diagnosis`: Rank rose by +4
-- **[Rank Rise]** `Trajectory-Aware Information Matching for Multi-Step Gradient Inversion in Federated Learning`: Rank rose by +4
-- **[Rank Rise]** `ICR-RL: Deep Reinforcement Learning via In-Context Regression`: Rank rose by +4
-- **[Rank Rise]** `Self-Supervised Goal-Reaching Results in Multi-Agent Cooperation and Exploration`: Rank rose by +4
-- **[Rank Rise]** `Convergence of Stochastic Gradient Methods for Wide Two-Layer Physics-Informed Neural Networks for the Poisson Equation`: Rank rose by +4
-- **[Rank Rise]** `Sequential Cohort Selection under Uncertainty`: Rank rose by +4
-- **[Rank Rise]** `DynamixSFT: Dynamic Mixture Optimization of Instruction Tuning Collections`: Rank rose by +4
-- **[Rank Rise]** `GlaBoost: A Multimodal Structured Framework for Glaucoma Risk Stratification`: Rank rose by +4
-- **[Rank Rise]** `PLoRA: Efficient Concurrent LoRA Training for Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `Toward Efficient Uncertainty in LLMs through Evidential Knowledge Distillation`: Rank rose by +4
-- **[Rank Rise]** `Towards Mitigation of Hallucination for LLM-empowered Agents: Progressive Generalization Bound Exploration and Watchdog Monitor`: Rank rose by +4
-- **[Rank Rise]** `Last Layer Hamiltonian Monte Carlo`: Rank rose by +4
-- **[Rank Rise]** `Position: Use Sparse Autoencoders to Discover Unknowns`: Rank rose by +4
-- **[Rank Rise]** `Counterfactual Operator Relevance for PDE Discovery: Screening, Pruning, and Identifiability`: Rank rose by +4
-- **[Rank Rise]** `Local Learning Rules for Out-of-Equilibrium Physical Generative Models`: Rank rose by +4
-- **[Rank Rise]** `Tight Stability Bounds for Robust Distributed Learning: Byzantine Failures Hurt Generalization More than Data Poisoning`: Rank rose by +4
-- **[Rank Rise]** `Interpretability and Generalization Bounds for Learning Spatial Physics`: Rank rose by +4
-- **[Rank Rise]** `Chasing Moving Targets with Online Self-Play Reinforcement Learning for Safer Language Models`: Rank rose by +4
-- **[Rank Rise]** `InverseScope: Scalable Activation Inversion for Interpreting Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `Ensemble Elastic DQN: A Step Dependent Ensemble Approach for Reducing Overestimation in Deep Value-Based Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Boosting Automatic Exercise Evaluation Through Musculoskeletal Simulation-Based IMU Data Augmentation`: Rank rose by +4
-- **[Rank Rise]** `PDFBench: A Benchmark for De novo Protein Design from Function`: Rank rose by +4
-- **[Rank Rise]** `An Axiomatic Assessment of Entropy- and Variance-based Uncertainty Quantification in Regression`: Rank rose by +4
-- **[Rank Rise]** `FLASH: Flexible Learning of Adaptive Sampling from History in Temporal Graph Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `A Survey of Reinforcement Learning-Based Motion Planning for Autonomous Driving: Lessons Learned from a Driving Task Perspective`: Rank rose by +4
-- **[Rank Rise]** `Cohort-attention Evaluation Metrics for Tied Data`: Rank rose by +4
-- **[Rank Rise]** `Using Mechanistic Interpretability to Craft Adversarial Attacks against Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `Machine Unlearning via Information Theoretic Regularization`: Rank rose by +4
-- **[Rank Rise]** `Robust Counterfactual Explanations under Model Multiplicity Using Multi-Objective Optimization`: Rank rose by +4
-- **[Rank Rise]** `Stroke Prediction using Clinical and Social Features in Machine Learning`: Rank rose by +4
-- **[Rank Rise]** `GDBR: Label Recovery Attack Against Partial Gradient Encryption in Federated Learning`: Rank rose by +4
-- **[Rank Rise]** `The Method of Gaps: Exact Expressions for the Generalization Error of Supervised Learning Algorithms`: Rank rose by +4
-- **[Rank Rise]** `VLMGuard: Bootstrapping Malicious Prompt Detectors from Unlabeled Vision-Language Prompts in the Wild`: Rank rose by +4
-- **[Rank Rise]** `Training Verifiably Robust Agents Using Set-Based Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `MambaCapsule: Towards Transparent Cardiac Disease Diagnosis with Electrocardiography Using Mamba Capsule Network`: Rank rose by +4
-- **[Rank Rise]** `On Regularization via Early Stopping for Least Squares Regression`: Rank rose by +4
-- **[Rank Rise]** `Hierarchical Bayesian Crowdsourcing with Item Difficulty`: Rank rose by +4
-- **[Rank Rise]** `Graph Unitary Message Passing`: Rank rose by +4
-- **[Rank Rise]** `TERC: A Transfer Entropy Redundancy Criterion for State Variable Selection in Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Interpretable factorization of clinical questionnaires to identify latent factors of psychopathology`: Rank rose by +4
-- **[Rank Rise]** `DIRA-SS:Dynamic Domain Incremental Regularised Adaptation -- Self-Supervised`: Rank rose by +4
-- **[Rank Rise]** `Unveiling the Unborn: Advancing Fetal Health Classification through Machine Learning`: Rank rose by +4
-- **[Rank Rise]** `Proportionally Representative Clustering`: Rank rose by +4
-- **[Rank Rise]** `A Bayesian Approach for the Network Reconstruction of Interdependent Critical Infrastructure Systems from Cascading Failures`: Rank rose by +4
-- **[Rank Rise]** `From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model`: Rank rose by +4
-- **[Rank Rise]** `Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification`: Rank rose by +4
-- **[Rank Rise]** `LLM-as-a-Verifier: A General-Purpose Verification Framework`: Rank rose by +4
-- **[Rank Rise]** `Fitted Occupancy-Ratio Evaluation without Bellman Completeness`: Rank rose by +4
-- **[Rank Rise]** `GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks`: Rank rose by +4
-- **[Rank Rise]** `Faithfulness to Refusal: A Causal Audit of Neuron Selectors`: Rank rose by +4
-- **[Rank Rise]** `Selective Disclosure Watermarking for Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `Multiplayer Interactive World Models with Representation Autoencoders`: Rank rose by +4
-- **[Rank Rise]** `Shape Over Intensity: Directional Topological Encoding for False Positive Reduction in Intracranial Aneurysm Detection`: Rank rose by +4
-- **[Rank Rise]** `How Much is Left? LLMs Linearly Encode Their Remaining Output Length`: Rank rose by +4
-- **[Rank Rise]** `Quantum Spectral Anomaly Detection`: Rank rose by +4
-- **[Rank Rise]** `Wavelet Scattering Transform for Interpretable Schizophrenia Biomarker Discovery and Classification from Resting-State EEG`: Rank rose by +4
-- **[Rank Rise]** `Routing Anonymity and Identifiability of Noisy Quantum Hardware`: Rank rose by +4
-- **[Rank Rise]** `Untrusted Content Masking for Web Agents with Security Guarantees`: Rank rose by +4
-- **[Rank Rise]** `Is the Geometry Doing the Work? An Operating-Point Audit of Hierarchy in Hyperbolic Vision-Language Models`: Rank rose by +4
-- **[Rank Rise]** `SalAngaBhava: A Sinhala Market Dataset for Aspect-based Sentiment Analysis`: Rank rose by +4
-- **[Rank Rise]** `Privacy-Preserving Robustness Verification for Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `Optimizing ML Workload Partitioning between CPUs and CIM Accelerators for Heterogeneous Computing`: Rank rose by +4
-- **[Rank Rise]** `msPCA: An R Package for Sparse PCA with Multiple Components`: Rank rose by +4
-- **[Rank Rise]** `Probing Geospatial SSL Representations with Environmental Signals`: Rank rose by +4
-- **[Rank Rise]** `Unified Audio Intelligence Without Regressing on Text Intelligence`: Rank rose by +4
-- **[Rank Rise]** `Rethinking On-Policy Self-Distillation for Thinking Models`: Rank rose by +4
-- **[Rank Rise]** `EdgeBench: Unveiling Scaling Laws of Learning from Real-World Environments`: Rank rose by +4
-- **[Rank Rise]** `Geometric Causal Models`: Rank rose by +4
-- **[Rank Rise]** `Physically-Relevant Information Learning in High-Dimensional Time-Derivatives Spaces`: Rank rose by +4
-- **[Rank Rise]** `Beyond Independent Labels: Schwartz-Geometry Decoding for Human Value Detection`: Rank rose by +4
-- **[Rank Rise]** `Knowledge Knows, Verbalization Tells: Disentangling Latent Directions for Mathematical Solvability in LLMs`: Rank rose by +4
-- **[Rank Rise]** `TACTIC-KG: Toward Small Agent Teams for Cyber Threat Intelligence Knowledge Graph Construction`: Rank rose by +4
-- **[Rank Rise]** `Canonical quantization of neurons`: Rank rose by +4
-- **[Rank Rise]** `LLM for the development of FCM`: Rank rose by +4
-- **[Rank Rise]** `Joint Velocity Slope Diffusion Prior for Structurally Constrained Velocity Model Building`: Rank rose by +4
-- **[Rank Rise]** `Graph Representation Learning of Longitudinal Medical Imaging Trajectories for Treatment Response Prediction`: Rank rose by +4
-- **[Rank Rise]** `Unsupervised Detection of Underground Tunnels in Ground-Penetrating Radar Using Depth-Restricted Reconstruction Scoring`: Rank rose by +4
-- **[Rank Rise]** `SleepBand: Single-Source Domain Generalization for Sleep Staging via Physiologically Structured Spectral Modeling`: Rank rose by +4
-- **[Rank Rise]** `Context-Constrained Transfer Learning for Tabular Foundation Models via Data Distillation`: Rank rose by +4
-- **[Rank Rise]** `Non-Asymptotic Error Bounds for SMC with Biased Proposals: Application to Conditional Diffusion Sampling`: Rank rose by +4
-- **[Rank Rise]** `Non-asymptotic Convergence of Stochastic Gradient Descent in Score-based Generative Models`: Rank rose by +4
-- **[Rank Rise]** `Wasserstein Residuals: Learning Gradient Flows from Population Dynamics`: Rank rose by +4
-- **[Rank Rise]** `Identifiability of Relational Queries in Multi-View Pretraining`: Rank rose by +4
-- **[Rank Rise]** `LP-SFT: Local-Preserving Supervised Fine-Tuning via Multimodal Entropy Structure`: Rank rose by +4
-- **[Rank Rise]** `Turning Off-Policy Tokens On-Policy: A Plug-in Approach for Improving LLM Alignment`: Rank rose by +4
-- **[Rank Rise]** `What You See Is What You Get: Observation-Aligned Supervision for Chart-to-Code Generation`: Rank rose by +4
-- **[Rank Rise]** `PAST-TIDE: Prototype-Anchored Statement Tuning with Topic-Invariant Normalization for Stance Detection`: Rank rose by +4
-- **[Rank Rise]** `GlaKG: A Biomarker-Centric Fundus Knowledge Graph for Explainable Glaucoma Diagnosis and Risk Assessment`: Rank rose by +4
-- **[Rank Rise]** `Decomposition for Bayesian Networks: Local and Parallel Inference`: Rank rose by +4
-- **[Rank Rise]** `Integrating Neural Encoders in Bayesian Generalized Linear Mixed Models for Multimodal Data`: Rank rose by +4
-- **[Rank Rise]** `Retroactive Chain-of-Thought (RetroCoT): Forensic Reconstruction Prompts as a Safety Diagnostic Across Model Generations`: Rank rose by +4
-- **[Rank Rise]** `Breaking the One-Dimensional Expressibility-Trainability Tradeoff`: Rank rose by +4
-- **[Rank Rise]** `MTEB-BR: A Text Embedding Benchmark for Brazilian Portuguese`: Rank rose by +4
-- **[Rank Rise]** `Detecting Answer-Driven Reasoning in LLM-Based Educational Tutors via Truncated Chain-of-Thought Auditing`: Rank rose by +4
-- **[Rank Rise]** `EEG-SpikeAgent: Agentic Closed-Loop Program Synthesis for Automated EEG Spike Detection`: Rank rose by +4
-- **[Rank Rise]** `Mask2Real-WM: Segmentation Masks as a Sim-to-Real Bridge for Controllable Dexterous World Models`: Rank rose by +4
-- **[Rank Rise]** `CRISP: A Spatiotemporal Camera-Radar Backbone for Driving via Forecasting-Based World-Model Pretraining`: Rank rose by +4
-- **[Rank Rise]** `Causal ASCEND: Scalable Two-tier Causal Discovery on High Dimensional Multi-omics Data`: Rank rose by +4
-- **[Rank Rise]** `Boundary-layer asymptotics for Gaussian-smoothed singular measures`: Rank rose by +4
-- **[Rank Rise]** `Constrained Flow Matching via Lagrangian Dual Flows`: Rank rose by +4
-- **[Rank Rise]** `Transplanting, inverting, and preventing a misalignment persona: method-conditional emergent misalignment in Qwen2.5`: Rank rose by +4
-- **[Rank Rise]** `From Interaction to Intent: Inferring User Objectives from Provenance Logs`: Rank rose by +4
-- **[Rank Rise]** `PulmoSight-XAI: An Explainable Multi-View Attention Ensemble with Gradient Boosting Meta-Learning for Multi-Label Chest X-Ray Classification`: Rank rose by +4
-- **[Rank Rise]** `Weakly Guided and Autoregressive Beamformer Parameterization for Generalizable Moving Speaker Extraction in Higher-Order Ambisonics`: Rank rose by +4
-- **[Rank Rise]** `Fields of the Planet: Field Boundary Mapping Beyond 10m`: Rank rose by +4
-- **[Rank Rise]** `Wan-Streamer v0.2: Higher Resolution, Same Latency`: Rank rose by +4
-- **[Rank Rise]** `Tightening the Score Matching Gap for Diffusion Models`: Rank rose by +4
-- **[Rank Rise]** `On Pairwise Quantile Regression -- Statistical Guarantees and Applications`: Rank rose by +4
-- **[Rank Rise]** `UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning`: Rank rose by +4
-- **[Rank Rise]** `Quadrature-Aware Complex-Linear Neural Operator for Boundary-to-Field Prediction in Resonant Acoustics`: Rank rose by +4
-- **[Rank Rise]** `The Good, the Bad, and the Brittle: Benchmarking Robustness and Generalisation of Histopathology Foundation Models`: Rank rose by +4
-- **[Rank Rise]** `Optimal Mixture-of-Experts Model Averaging for Conditional Generative Models`: Rank rose by +4
-- **[Rank Rise]** `Server-side Anti-cheat in FPS games for Aimbot detection using Deep learning and Machine learning`: Rank rose by +4
-- **[Rank Rise]** `Legible-by-Construction: Attention and End-to-End Transformers`: Rank rose by +4
-- **[Rank Rise]** `Fixed-Confidence Best-Arm Identification for Causal Mediation Analysis`: Rank rose by +4
-- **[Rank Rise]** `CausalGame: Benchmarking Causal Thinking of LLM Agents in Games`: Rank rose by +4
-- **[Rank Rise]** `Deep Learning for Dynamic Programming with Recursive Utility`: Rank rose by +4
-- **[Rank Rise]** `Air-Plan: Query-Optimized Topology Selection for Over-the-Air Decentralized Federated Learning`: Rank rose by +4
-- **[Rank Rise]** `Hierarchical Multi-to-Single-Modal Knowledge Distillation for Disruption Prediction in EAST`: Rank rose by +4
-- **[Rank Rise]** `Robust Bayes-Assisted Conformal Prediction`: Rank rose by +4
-- **[Rank Rise]** `Unified convergence analysis for gradient descent optimization methods in the training of deep neural networks`: Rank rose by +4
-- **[Rank Rise]** `AI-RAN on NPUs: Baseband Processing Without Baseband Chips`: Rank rose by +4
-- **[Rank Rise]** `Detecting Hallucinations in Retrieval-Augmented Generation through Grounding-Aware Sensitivity by Perturbation (GASP)`: Rank rose by +4
-- **[Rank Rise]** `Sangam: Efficiently Serving Diffusion LLMs with the AR Stack`: Rank rose by +4
-- **[Rank Rise]** `A Clustering-Based Framework for Identifying Suspicious Trading Patterns in Capital Market`: Rank rose by +4
-- **[Rank Rise]** `XS-VLA: Coupling Coarse-grained Spatial Distillation with Latent Flow Matching for Lightweight Robotic Control`: Rank rose by +4
-- **[Rank Rise]** `ACE: Agentic Control for Embodied Manipulation via Zero-shot Workflow Reasoning`: Rank rose by +4
-- **[Rank Rise]** `!Imperio, smolVLA: The Implications of Data Poisoning on Open Source Robotics`: Rank rose by +4
-- **[Rank Rise]** `Governing Generative AI Across Financial Institutions: A Framework for Generative AI Risk Control`: Rank rose by +4
-- **[Rank Rise]** `Seeing Once is Enough? Online Geometry-Aware Token Pruning for 3D Question Answering`: Rank rose by +4
-- **[Rank Rise]** `Beyond Multilingual Averages: MTEB-PT, a Benchmark for Portuguese Sentence Encoders`: Rank rose by +4
-- **[Rank Rise]** `Fast, Parallel, Query-Efficient Binary Classification`: Rank rose by +4
-- **[Rank Rise]** `Telescope: Improving Zero Shot Detection of LLM Generated Content By Measuring Token Repetition Probability`: Rank rose by +4
-- **[Rank Rise]** `A Policy Decomposition Framework for Dynamic Order Fulfillment Operations`: Rank rose by +4
-- **[Rank Rise]** `Efficient Discovery of Conditional Dependencies with Desbordante`: Rank rose by +4
-- **[Rank Rise]** `Explainable AI for Screening Abuse-Related Trauma in Bangladeshi Children: A Training-Free Multimodal Framework Evaluated on Noise-Aware Synthetic Data`: Rank rose by +4
-- **[Rank Rise]** `Significance-First Splitting: Aligning Treatment Heterogeneity Detection with Honest Estimation`: Rank rose by +4
-- **[Rank Rise]** `Cross-Modal Fusion of OCT and OCT angiography enface for Improved Diagnostics of Diabetic Retinopathy`: Rank rose by +4
-- **[Rank Rise]** `TESSERA v2: Scaling Pixel-wise Earth Foundation Models`: Rank rose by +4
-- **[Rank Rise]** `Online Linear Programming for Multi-Objective Routing in LLM Serving`: Rank rose by +4
-- **[Rank Rise]** `Probe, Don't Prompt: A Hidden-State Probe for Metadata Filtering in Multi-Meta-RAG`: Rank rose by +4
-- **[Rank Rise]** `USE: A Unified Self-Ensembling Framework for Test-Time Prompt Tuning`: Rank rose by +4
-- **[Rank Rise]** `Smooth $\%$MinMax: A Differentiable Relaxation for Codon Harmonization`: Rank rose by +4
-- **[Rank Rise]** `Evaluating LLM Uncertainty in Long-Form Generation Using Deterministic Ground Truth`: Rank rose by +4
-- **[Rank Rise]** `Weave: Verified Netlist-to-Schematic Conversion via Layered Graph Layout`: Rank rose by +4
-- **[Rank Rise]** `A simplex-based measure of symmetry`: Rank rose by +4
-- **[Rank Rise]** `TSP with Predictions: Heatmap to Tour with Provable Guarantees`: Rank rose by +4
-- **[Rank Rise]** `Self-Improving Diffusion Classifiers with Minority Preference Optimization`: Rank rose by +4
-- **[Rank Rise]** `Explainable Reinforcement Learning for Adaptive Traffic Signal Control`: Rank rose by +4
-- **[Rank Rise]** `SABLE: An NDA-Safe Closed-Loop LLM Framework for Analog Circuit Optimization in Industrial EDA Flows`: Rank rose by +4
-- **[Rank Rise]** `Don't Blame the Large Language Model: How Scaffolding Evolution Shapes Coding Agent Quality`: Rank rose by +4
-- **[Rank Rise]** `LRX-PINN: A Layer-Resolving XNet Physics-Informed Neural Network with Integrated Cauchy Activations for Convection-Dominated Problems`: Rank rose by +4
-- **[Rank Rise]** `Diffusion learning reveals viable parameter manifolds and compensation geometry in biological dynamical systems`: Rank rose by +4
-- **[Rank Rise]** `Sequential Correlations Change In-Context Learning: Effective Context Length and Architectural Mismatch`: Rank rose by +4
-- **[Rank Rise]** `ThreatVisionAI: A Hybrid CNN-ViT Framework for Image-Based Malware Classification`: Rank rose by +4
-- **[Rank Rise]** `Missing Data Imputation under Manifold Hypothesis`: Rank rose by +4
-- **[Rank Rise]** `Revealing Hidden Model Behaviors with Task-Specific Self-Reports`: Rank rose by +4
-- **[Rank Rise]** `RADIO1D: Elastic Representations for Condensed Vision Modeling`: Rank rose by +4
-- **[Rank Rise]** `SAF3R: Dynamic Sparse Attention for Feed-Forward 3D Reconstruction Transformers`: Rank rose by +4
-- **[Rank Rise]** `They Infer What You Meant: Models Represent Communicative Intent More Reliably Than They Act On It`: Rank rose by +4
-- **[Rank Rise]** `How to Avoid Debate: Scalable AI Safety via Doubly-Efficient Interactive Proofs`: Rank rose by +4
-- **[Rank Rise]** `Latent Clarity: Bridging World-Model Kinematics to Semantic Manifolds for Video Anomaly Anticipation`: Rank rose by +4
-- **[Rank Rise]** `Relevance-Based Embeddings: Lightweight Candidate Retrieval via Heavy-Ranker Calls`: Rank rose by +4
-- **[Rank Rise]** `AquaGen: Scaling generative models to molecular dynamics precision on thousands of atoms`: Rank rose by +4
-- **[Rank Rise]** `Reading Between the Dots: Decoding Hidden Computation across Filler Tokens`: Rank rose by +4
-- **[Rank Rise]** `CaresAI at SMM4H-HeaRD 2026: Predicting TNM Staging`: Rank rose by +4
-- **[Rank Rise]** `WorldBagel: Uncovering the Power of Unified Multimodal Models for Vision-Language-Action-World Modeling`: Rank rose by +4
-- **[Rank Rise]** `ADP: Adversarial Dynamics Priors for Physically Grounded Humanoid Locomotion`: Rank rose by +4
-- **[Rank Rise]** `SkillOpt-Lite: Better and Faster Agent Self-evolution via One Line of Vibe`: Rank rose by +4
-- **[Rank Rise]** `From Mobile Data to Business Insights: An End-to-End Analytics Framework for Large-Scale Urban Mobility Analysis and Decision Support`: Rank rose by +4
-- **[Rank Rise]** `Scalable Differentially Private Data Compression via Diffusion and Stochastic Codes`: Rank rose by +4
-- **[Rank Rise]** `When Aggregate Alignment Misleads: Auditing Policy Repair Without Per-State Expert Actions`: Rank rose by +4
-- **[Rank Rise]** `A Hierarchy of Policy Learning Problems`: Rank rose by +4
-- **[Rank Rise]** `CaSPECT: Discovering Causally Homogeneous Subgroups via Directed Spectral Clustering`: Rank rose by +4
-- **[Rank Rise]** `Pathways of Visual Information Flow in Vision-Language Models`: Rank rose by +4
-- **[Rank Rise]** `Efficient Decentralized Multi-task Dataset Valuation via Model Merging`: Rank rose by +4
-- **[Rank Rise]** `SPORK: Self-Speculative Forking to Accelerate Agentic LLM Inference`: Rank rose by +4
-- **[Rank Rise]** `Adaptive Loss Balancing for Multi-Task Bioacoustic Classification of Bird Species and Call Types`: Rank rose by +4
-- **[Rank Rise]** `Piecewise Dynamic Diffusion Regularization for Reconstruction of Cardiac Cine MRI`: Rank rose by +4
-- **[Rank Rise]** `Taste-aware music retrieval from audio embeddings`: Rank rose by +4
-- **[Rank Rise]** `Complexity of Normalized Persistence Problems for Topological Data Analysis and Local Hamiltonians`: Rank rose by +4
-- **[Rank Rise]** `Deriving Benchmarking Datasets from Long-Form Recordings: Challenges and Opportunities`: Rank rose by +4
-- **[Rank Rise]** `Seeing Through WiFi: Lightweight Human Pose Estimation with Dynamic Kernel Attention`: Rank rose by +4
-- **[Rank Rise]** `Self-Specializing Vision-Language Transmon Chip Calibration in a Physics-Grounded Environment`: Rank rose by +4
-- **[Rank Rise]** `Scalable Maximal Frequent Episode Mining with Desbordante`: Rank rose by +4
-- **[Rank Rise]** `Quantum Kolmogorov--Arnold representation theorem for continuous unitary-valued maps`: Rank rose by +4
-- **[Rank Rise]** `CRRL: A Causality-Based Reinforcement Learning Framework for Autonomous System Recovery`: Rank rose by +4
-- **[Rank Rise]** `Entropy Regularization Improves Policy Robustness in Continuous-Time Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `KARMA: Knowledge graph-based Automated Reasoning Materialization and Alignment`: Rank rose by +4
-- **[Rank Rise]** `Denoised Conformal Alignment for Reliable Selection of Conditional Average Treatment Effect Predictions`: Rank rose by +4
-- **[Rank Rise]** `Which Algorithm Specification Formats Help Language Models Implement Machine Learning Algorithms?`: Rank rose by +4
-- **[Rank Rise]** `An Intervention-Based Framework for Shortcut Diagnosis in Spoofing Countermeasures`: Rank rose by +4
-- **[Rank Rise]** `Open-Set Source Tracing as Compositional Factors via Structured Prototypes`: Rank rose by +4
-- **[Rank Rise]** `Vidu S1: A Real-Time Interactive Video Generation Model`: Rank rose by +4
-- **[Rank Rise]** `Dimension Reduction for Curves: Simplified and Generalized`: Rank rose by +4
-- **[Rank Rise]** `Graph Neural Networks for the Graphical Bootstrap`: Rank rose by +4
-- **[Rank Rise]** `PixCon: Clean-Positive Contrastive Learning for Foundation-Model Semi-Supervised Segmentation`: Rank rose by +4
-- **[Rank Rise]** `HyperVAttention: Efficient Sparse Attention with Spatio-Temporal Clustering for Video Diffusion`: Rank rose by +4
-- **[Rank Rise]** `CONFLUX: A Latent Diffusion Model for 3D Chest-CT Synthesis with RL Post-Training`: Rank rose by +4
-- **[Rank Rise]** `Incentivizing Vision Language Models to Search for Long Video Question Answering`: Rank rose by +4
-- **[Rank Rise]** `PromptPET: Privacy-Utility Optimized Prompt Obfuscation`: Rank rose by +4
-- **[Rank Rise]** `Open Problem: Is Interaction Necessary for Order-Optimal 1-bit Mean Estimation?`: Rank rose by +4
-- **[Rank Rise]** `Selectivity Estimation for Linear Queries via Online Learning`: Rank rose by +4
-- **[Rank Rise]** `SPLIT: Training-Free AI-Generated and Partially Edited Video Detection via Spatial Patch-Level Incoherence and Temporal Roughness`: Rank rose by +4
-- **[Rank Rise]** `EvoOtter: Evolutionary Reproduction Test Generator`: Rank rose by +4
-- **[Rank Rise]** `Pretreatment MRI reveals a latent, molecular-subtype-independent structural phenotype that organizes treatment trajectories and recurrence risk`: Rank rose by +4
-- **[Rank Rise]** `CodeJeNN: A simple C++ neural network generator for physics applications`: Rank rose by +4
-- **[Rank Rise]** `Optimality-Informed Neural Networks for Lunar Landing Trajectory Optimization`: Rank rose by +4
-- **[Rank Rise]** `Provable Pruning for Efficient 3D Gaussian Splatting via Coresets`: Rank rose by +4
-- **[Rank Rise]** `Diagnosing Aerial-View Object Detectors with Foundational Image Generative Models`: Rank rose by +4
-- **[Rank Rise]** `Property-Constrained 3D Porous Media Reconstruction from 2D Images via Conditional Generative Adversarial Networks`: Rank rose by +4
-- **[Rank Rise]** `RES-DARE: Failure-Aware Expert Adaptation and Rollback-Safe Self-Repair for Intrusion Detection`: Rank rose by +4
-- **[Rank Rise]** `ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability`: Rank rose by +4
-- **[Rank Rise]** `Contaminated Multi-task Learning with Heterogeneity: Fundamental Limits and Optimal Algorithms`: Rank rose by +4
-- **[Rank Rise]** `Benign Overfitting Does Not Occur in Diffusion Models`: Rank rose by +4
-- **[Rank Rise]** `SE-UNet: Singular Equivariant Imaging for Real-World Constrained Generation`: Rank rose by +4
-- **[Rank Rise]** `Schedulable Job-Level Dependencies for Cause-Effect Chains via Graph Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `Fusion: A Framework for Unified Sequential Token AdaptatIon in VisiOn TraNsformers`: Rank rose by +4
-- **[Rank Rise]** `Privacy-Preserving Industrial Ergonomics: mmWave-Based Automated REBA Scoring and Pose Estimation`: Rank rose by +4
-- **[Rank Rise]** `Towards transferable lightweight neuromorphic computing through a model-free temporal-switch framework`: Rank rose by +4
-- **[Rank Rise]** `Scaling Weisfeiler-Leman Expressiveness Analysis to Massive Graphs with GPUs`: Rank rose by +4
-- **[Rank Rise]** `CIPHER: Causal Intervention Pathways for Healthcare Equity and Robustness`: Rank rose by +4
-- **[Rank Rise]** `H-OPD: Confidence Aware Heterogeneous Multi-Teacher Multimodal On-policy Distillation`: Rank rose by +4
-- **[Rank Rise]** `The Moving Target: A Longitudinal Audit of Trustworthiness Drift Across Twelve Checkpoints of Open-Source Chat LLMs`: Rank rose by +4
-- **[Rank Rise]** `CORA: Per-Slice Coherent Orthogonal Rotation for SVD-based Low-Rank Adaptation`: Rank rose by +4
-- **[Rank Rise]** `From Tensor Buffer to Distributed Memory Hierarchy: A Survey of KV Cache Management for LLM Serving`: Rank rose by +4
-- **[Rank Rise]** `Uncertainty-Aware Last-Layer Adaptation of RETFound for Referable Diabetic Retinopathy Screening Under Dataset Shift`: Rank rose by +4
-- **[Rank Rise]** `MLSYSIM: First-Principles Infrastructure Modeling for Machine Learning Systems`: Rank rose by +4
-- **[Rank Rise]** `Interpretable machine learning predicts Parkinson's disease severity using motion-corrected QSM MRI and multiband multiecho fMRI features`: Rank rose by +4
-- **[Rank Rise]** `Transformer-based Multisensor Data Fusion of Ultrasonic Guided Wave and FBG-based Strain Measurements for Multitask Aerospace Structural Health Monitoring`: Rank rose by +4
-- **[Rank Rise]** `Beyond Satisfaction: Learning Associations Between Content, Reviews, and Well-Being`: Rank rose by +4
-- **[Rank Rise]** `Physics-Informed Domain-Invariant Feature Learning with Autoencoder-Driven Gaussian Clustering for Robust Non-line-of-Sight Scenarios`: Rank rose by +4
-- **[Rank Rise]** `Tile-Level Activation Overlap for Efficient LLM Inference`: Rank rose by +4
-- **[Rank Rise]** `Open-Weather Robust 3D Detection via Dual-Critic Diffusion Alignment`: Rank rose by +4
-- **[Rank Rise]** `Inverse Design of Metainterfaces for Static Friction Control: Beyond the Hertzian Limit`: Rank rose by +4
-- **[Rank Rise]** `miMamba: EEG-based Emotion Recognition with Multi-scale Inverted Mamba Models`: Rank rose by +4
-- **[Rank Rise]** `SiamixFormer: a fully-transformer Siamese network with temporal Fusion for accurate building detection and change detection in bi-temporal remote sensing images`: Rank rose by +4
-- **[Rank Rise]** `Weak-to-Strong Generalization via Direct On-Policy Distillation`: Rank rose by +4
-- **[Rank Rise]** `What Does a Discrete Diffusion Model Learn?`: Rank rose by +4
-- **[Rank Rise]** `TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning`: Rank rose by +4
-- **[Rank Rise]** `CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents`: Rank rose by +4
-- **[Rank Rise]** `TREK: Distill to Explore, Reinforce to Refine`: Rank rose by +4
-- **[Rank Rise]** `How Far is Too Far? Defining the Distance Threshold for Verification Siamese Networks`: Rank rose by +4
-- **[Rank Rise]** `Biologically Informed Deep Neural Networks for Multi-Omic Integration, Pathway Activity Inference and Risk Stratification in Cancer`: Rank rose by +4
-- **[Rank Rise]** `Learning Only What Valid Adapters Can Express: Subspace-Constrained Adaptation Against Fine-Tuning Poisoning`: Rank rose by +4
-- **[Rank Rise]** `Air Quality Downscaling with Station-Guided Pseudo-Supervision`: Rank rose by +4
-- **[Rank Rise]** `Advances in Neural Controlled Differential Equations`: Rank rose by +4
-- **[Rank Rise]** `Adaptive Inference Batching using Policy Gradients`: Rank rose by +4
-- **[Rank Rise]** `Target-Guided Selective Reweighting for Physics-Informed Neural Network Inverse Problems: A Transfer Learning Approach`: Rank rose by +4
-- **[Rank Rise]** `GeoFlow: Geo-Aware Modeling of Inter-Area Relationships in Origin-Destination Flow Prediction and Generation`: Rank rose by +4
-- **[Rank Rise]** `FUSE: FK-Steered Multi-Modal Flow Matching for Efficient Simulation-Based Posterior Estimation`: Rank rose by +4
-- **[Rank Rise]** `CanniUplift: A Holistic Framework for Mitigating Seller and Incentive Cannibalization in E-commerce Uplift Modeling`: Rank rose by +4
-- **[Rank Rise]** `Video-based detection of cessation of breathing in pre-term infants using machine learning`: Rank rose by +4
-- **[Rank Rise]** `FlatManifold: Robust Continual Learning under Severe Label Noise and Domain Shifts via Intrinsic Manifold Flattening`: Rank rose by +4
-- **[Rank Rise]** `Noisy-Channel Minimum Bayes Risk Decoding`: Rank rose by +4
-- **[Rank Rise]** `SMART: A Machine Learning and Monte Carlo Framework for Rapid Analysis of Stochastic Transistor Aging and Process Variation in Digital Circuits`: Rank rose by +4
-- **[Rank Rise]** `Relational Multi-Agent Reinforcement Learning for Dynamic Pricing in High-Speed Railway Markets`: Rank rose by +4
-- **[Rank Rise]** `Platonic Projection Structures: Operator-Induced Observability in Representation Learning`: Rank rose by +4
-- **[Rank Rise]** `MeGA-MP: Metric Graph Advection Message Passing -- A Physics-Informed Message Passing Operator for Advection-Dominated Metric Graphs`: Rank rose by +4
-- **[Rank Rise]** `Physiological Noise Augmentation Improves Non-Invasive Brain-to-Speech`: Rank rose by +4
-- **[Rank Rise]** `PDEFlow: Autonomous Agentic PDE Pipelines for Neural Operator Learning and Solver-Free Inference`: Rank rose by +4
-- **[Rank Rise]** `Localized LoRA-MoE: Block-wise Low-Rank Experts With Adaptive Routing`: Rank rose by +4
-- **[Rank Rise]** `Grokking Is Conditional and Fragile: A Fully-Tractable, Multi-Seed Study at 12K Parameters`: Rank rose by +4
-- **[Rank Rise]** `Choosing a parallel heterogeneous ensemble method for tabular classification`: Rank rose by +4
-- **[Rank Rise]** `Counterfactual Methods for Detecting Unfairness in Anti-Money Laundering Algorithms`: Rank rose by +4
-- **[Rank Rise]** `Functional Bilevel Optimization for Predictive Fairness`: Rank rose by +4
-- **[Rank Rise]** `FAST: A Holistic Framework for Optimizing Memory-I/O, Computation, and Sampling in Temporal GNN Training`: Rank rose by +4
-- **[Rank Rise]** `Computing Monetary Risk Measures in Linear Time`: Rank rose by +4
-- **[Rank Rise]** `KVpop -- Key-Value Cache Compression with Predictive Online Pruning`: Rank rose by +4
-- **[Rank Rise]** `CollabEval: Statistically Efficient Collaborative Model Evaluation via Matrix Completion`: Rank rose by +4
-- **[Rank Rise]** `Uncertainty-aware damage identification in short-span bridges via physics-informed variational autoencoder`: Rank rose by +4
-- **[Rank Rise]** `Beyond Modality Fusion: Deep Ensembles for Multimodal Classification`: Rank rose by +4
-- **[Rank Rise]** `Hyperparameter Transfer in Graph Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `ImputeECG: Deep Learning Reconstruction of Complete 12-Lead Electrocardiograms from Incomplete Recordings for Cardiac Assessment`: Rank rose by +4
-- **[Rank Rise]** `The Map Behind the Flow: Finite-Step Gradient Descent as a Dynamical System`: Rank rose by +4
-- **[Rank Rise]** `Non-Convex Sparse Reinforcement Learning via Non-Monotone Inclusions`: Rank rose by +4
-- **[Rank Rise]** `Data-Driven Soft Labeling Scales DNA Read Classification to Whole-Body Cell-Type Deconvolution`: Rank rose by +4
-- **[Rank Rise]** `Qantara: Bridge-Flow Training for Multi-Paradigm JEPA Control`: Rank rose by +4
-- **[Rank Rise]** `Geometry-Aware Bayesian Quantification via Compositional Data Analysis`: Rank rose by +4
-- **[Rank Rise]** `Train Smarter, Not Longer: Memorization-Guided Data Reuse for Efficient LLM Training`: Rank rose by +4
-- **[Rank Rise]** `Sensitivity Sampling with Predictions for k-Means Clustering`: Rank rose by +4
-- **[Rank Rise]** `Lightweight ML-Based Automatic Sleep Staging Framework with Constrained CNN and Mamba for Small-Sample EEG Datasets`: Rank rose by +4
-- **[Rank Rise]** `Input Pathways Shape Few-Shot, Not Zero-Shot, Binding in Tiny Transformers: A Fully-Enumerable Study`: Rank rose by +4
-- **[Rank Rise]** `When Do Foundation Models Pay Off? A Break-Even Analysis of Pretrained Time Series Forecasters`: Rank rose by +4
-- **[Rank Rise]** `RL-Ballast: Ship Ballast Water Path Planning and Clog Prediction via Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Active Learning on Adversarially Corrupted Graphs`: Rank rose by +4
-- **[Rank Rise]** `Enhancing the Forecasting Capability of Multi-Model Blending Algorithms for Extreme Precipitation via Joint Use of Station and Gridded Observations`: Rank rose by +4
-- **[Rank Rise]** `Framework for Grouping Local Process Models`: Rank rose by +4
-- **[Rank Rise]** `Pretraining Curricula Enable Selective Fine-tuning`: Rank rose by +4
-- **[Rank Rise]** `Representing and Detecting Label Ambiguity in IMU-Based Exercise Evaluation`: Rank rose by +4
-- **[Rank Rise]** `Probably Correct Optimal Stable Matching under Two-Sided Uncertainty`: Rank rose by +4
-- **[Rank Rise]** `KinEMbed: Decoding Kinematics from Electromyography via Cross-Modal Contrastive Learning`: Rank rose by +4
-- **[Rank Rise]** `Layer-Parallel Inference Reduces Encrypted Nonlinear Depth in Transformers`: Rank rose by +4
-- **[Rank Rise]** `Compressed Computation under $L^4$ Loss is likely Computation in Superposition`: Rank rose by +4
-- **[Rank Rise]** `Predicting Drafted Deck Strength for "Magic: the Gathering"`: Rank rose by +4
-- **[Rank Rise]** `Towards Personalized Differentially Private Learning for Decentralized Local Graphs`: Rank rose by +4
-- **[Rank Rise]** `MARLIN: De Novo Molecular Structure Elucidation from Tandem Mass Spectra without a Ground-Truth Formula`: Rank rose by +4
-- **[Rank Rise]** `Multi-Turn On-Policy Distillation with Prefix Replay`: Rank rose by +4
-- **[Rank Rise]** `Trust Region Policy Distillation`: Rank rose by +4
-- **[Rank Rise]** `RSPO: Reward-Swap Policy Optimization for Multi-Turn LLM Agents`: Rank rose by +4
-- **[Rank Rise]** `Hierarchical Scaffolding Enables Human-Like Cognitive Selectivity under Data Scarcity`: Rank rose by +4
-- **[Rank Rise]** `F-ACVAE: A Federated Adaptive Conditional Variational Auto-Encoder for Privacy-Preserving Intrusion Detection in IoT Networks`: Rank rose by +4
-- **[Rank Rise]** `URSA: Chemistry-Aware Benchmark for Utilitarian Retrosynthesis Assessment`: Rank rose by +4
-- **[Rank Rise]** `A Physics-Regulated Neural Framework for Learning 3D Grain Growth Dynamics`: Rank rose by +4
-- **[Rank Rise]** `Machine Learning for Depression Screening and Intervention: an Original Circadian Rhythm Score-based Methodology`: Rank rose by +4
-- **[Rank Rise]** `Reliability and Identifiability in Persona-Trained Monte Carlo: Variance Decomposition, Stability Bounds, and the Identifiability of Heterogeneous News Reaction`: Rank rose by +4
-- **[Rank Rise]** `Measuring What Matters: A Unified Evaluation Framework for GNN Explainability`: Rank rose by +4
-- **[Rank Rise]** `Minimum Block Width for Universal Approximation by Residual Neural Networks with Inner Width One`: Rank rose by +4
-- **[Rank Rise]** `Score Distributions, Not Cells: Evaluating Single-Cell Perturbations Under Class Overlap`: Rank rose by +4
-- **[Rank Rise]** `Beyond the Need for Speed: Energy-Aware Code Generation via Simulation-Guided Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `A Few Teacher Steps Go a Long Way: Cost-Efficient On-Policy Data Augmentation for Agent Post-Training`: Rank rose by +4
-- **[Rank Rise]** `Predicting Therapeutic Outcome via Aligning Patient-Specific Knowledge Graph and Gene-Level Perturbation Representations`: Rank rose by +4
-- **[Rank Rise]** `Auto: The AGI Compiler`: Rank rose by +4
-- **[Rank Rise]** `ManifoldFlow: SPD-Relaxed Stiefel Layers with Learnable Singular Spectrum`: Rank rose by +4
-- **[Rank Rise]** `Lyapunov-Guided Training for Hardware-Safe Neural Networks Under Fixed-Point Arithmetic`: Rank rose by +4
-- **[Rank Rise]** `Beyond travel mode: urban context shapes active mobility's mental health effects over time`: Rank rose by +4
-- **[Rank Rise]** `Two Black Boxes, One Solver: Encoder Probing and Decoder Attribution for Neural Multi-Attribute VRP under Hard-Mask and Recourse Decoders`: Rank rose by +4
-- **[Rank Rise]** `LeukocyteCount: Automatic Identification and Counting for leukocytes using Deep Learning`: Rank rose by +4
-- **[Rank Rise]** `Regime-Conditional Stabilisation of LLM-Augmented Cooperative Multi-Agent Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Operator-on-F complements value-equivalence: a planning-time diagnostic for latent world models`: Rank rose by +4
-- **[Rank Rise]** `A Deep Learning-based surrogate model for Severe Accidents in nuclear reactors using ASTEC`: Rank rose by +4
-- **[Rank Rise]** `Knowledge-Informed Local Causal Discovery of Optimal Adjustment Sets`: Rank rose by +4
-- **[Rank Rise]** `Covert Trait Propagation Is Representation Alignment: Mechanistic Evidence from Hidden-Channel Distillation`: Rank rose by +4
-- **[Rank Rise]** `Full-Stack FP4: Stable LLM Pretraining with Quantized Projections, Optimizers, and Attention`: Rank rose by +4
-- **[Rank Rise]** `Environmental Drivers of Respiratory Disease: A District Level Analysis`: Rank rose by +4
-- **[Rank Rise]** `Learning Task-Sufficient World Models by Synergizing Agentic Exploration and Structured Modeling`: Rank rose by +4
-- **[Rank Rise]** `NKI-Agent: Domain-Specific Fine-Tuning and Agentic Tool Use for Neuron Kernel Generation`: Rank rose by +4
-- **[Rank Rise]** `RL Forgets! Towards Continual Policy Optimization`: Rank rose by +4
-- **[Rank Rise]** `How Many Initial Points Does Bayesian Optimization Need?`: Rank rose by +4
-- **[Rank Rise]** `One Framework for All: Cross-Modal Membership Inference for Generative Models`: Rank rose by +4
-- **[Rank Rise]** `Structure-Specific Representational Priors Causally Control the Grokking Delay`: Rank rose by +4
-- **[Rank Rise]** `On the effectiveness of reward functions in reinforcement learning for confidence calibration of large language models`: Rank rose by +4
-- **[Rank Rise]** `SAD-LoRA: Spectral Alignment for Low-Rank Knowledge Distillation`: Rank rose by +4
-- **[Rank Rise]** `HiFA4: Training-Free 4-bit FlashAttention on Ascend HIF4 NPUs for LLM Inference`: Rank rose by +4
-- **[Rank Rise]** `On Preserving Geometrical Invariance for Superpixel Image Classification using Graph Transformer`: Rank rose by +4
-- **[Rank Rise]** `Signal or Noise? Understanding Generative Models for Real-World Sensor Time Series`: Rank rose by +4
-- **[Rank Rise]** `Quantize the Target, Quantize the Drafter: Efficient Inference with Qwen3.5-4B`: Rank rose by +4
-- **[Rank Rise]** `Channel-Adaptive Robust Aggregation for Over-the-Air Federated Learning in Heterogeneous Networks`: Rank rose by +4
-- **[Rank Rise]** `Exploring Convolutional Neural Processes for Weather Downscaling`: Rank rose by +4
-- **[Rank Rise]** `SpecGradFilter: A Spectral Gradient Filtering Framework for Taming Federated Heterogeneity`: Rank rose by +4
-- **[Rank Rise]** `Physics-Informed Graph Learning with Uncertainty Awareness for Open-Set Domain Generalization in Fault Diagnosis`: Rank rose by +4
-- **[Rank Rise]** `FedFFT: Taming Client Drift in Federated SAM via Spectral Perturbation Filtering`: Rank rose by +4
-- **[Rank Rise]** `Geometry of Ordinal Representations in Language Models`: Rank rose by +4
-- **[Rank Rise]** `Mask-based Predictive Representations for Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Binary Iterative Method for Non-targeted Adversarial Attack`: Rank rose by +4
-- **[Rank Rise]** `Masked Generative-Contrastive Representation Learning for Cross-Dataset EEG-Based Emotion Recognition`: Rank rose by +4
-- **[Rank Rise]** `MDL Meets Latent Confounders: LNML-based Causal Discovery`: Rank rose by +4
-- **[Rank Rise]** `CertMix: Certified, Data-Efficient Metamaterial Design by Affine Mixing of Aligned Neural-Implicit Weight Spaces`: Rank rose by +4
-- **[Rank Rise]** `Parametric Memory Decoding for Zero-Shot Routing in LoRA-Based External Parametric Memory`: Rank rose by +4
-- **[Rank Rise]** `GlacierCastAI: Predicting Glacier Retreat from Multi-Modal Satellite Imagery and Climate Signals`: Rank rose by +4
-- **[Rank Rise]** `Asymptotic-Preserving A Posteriori Analysis of Diffusion and Flow-Matching Samplers`: Rank rose by +4
-- **[Rank Rise]** `DynaVieW: Schema-Guided World Modeling for Understanding Hierarchical Visual Dynamics`: Rank rose by +4
-- **[Rank Rise]** `Dictionaries, Not Darwin: Set-Level Selection Beats LLM Evolution in Scientific Equation Discovery`: Rank rose by +4
-- **[Rank Rise]** `Target-Aware Interaction-Guided Reinforcement Learning for Black-Box Node Injection Attacks on Graph Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `FedSPM: Routing-Enabled Federated Learning under Dual Heterogeneity via Semiparametric Mixture`: Rank rose by +4
-- **[Rank Rise]** `A Unified Framework for In-Context Learning with Causal and Masked Language Models`: Rank rose by +4
-- **[Rank Rise]** `Reward-Gated On-Policy Distillation`: Rank rose by +4
-- **[Rank Rise]** `OmniOpt: Taxonomy, Geometry, and Benchmarking of Modern Optimizers`: Rank rose by +4
-- **[Rank Rise]** `A Unified Algebraic Framework for Classification Performance Evaluation`: Rank rose by +4
-- **[Rank Rise]** `When Does Small Data Work? Accuracy and Efficiency Trade-offs Between Tabular Foundation Models and Conventional Methods for Crowd-State Classification at Hajj and Umrah`: Rank rose by +4
-- **[Rank Rise]** `Directional Curvature from Armijo Backtracking: A Low-Cost Sharpness Probe and a Calibration-Free Learning-Rate Safeguard for Adam`: Rank rose by +4
-- **[Rank Rise]** `Knowing When to Stop: Predicting Execution-Consistency Convergence in Text-to-SQL`: Rank rose by +4
-- **[Rank Rise]** `MANCE: Manifold Aware Concept Erasure`: Rank rose by +4
-- **[Rank Rise]** `Order-based Causal Discovery for Multistage Processes`: Rank rose by +4
-- **[Rank Rise]** `MPSelectTune: Prompt-type Selection for Fine-tuning improves Concept Unlearning in LLMs`: Rank rose by +4
-- **[Rank Rise]** `NeuroOnline: Bridging Pretraining and Online Adaptation for EEG Foundation Models`: Rank rose by +4
-- **[Rank Rise]** `Transformers with Physics-Informed Encodings and Simulation-Based Inference for Robust Detection of Eccentric Binary Black Holes in Pulsar Timing Array Data`: Rank rose by +4
-- **[Rank Rise]** `CDCP: Conditional Diffusion Model with Contextual Prompts for Multi-task Offline Safe Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `AdaptiveSD A Stability-Aware, Runtime-Adaptive Speculative Decoding Framework with Multi-Policy Orchestration for CPU-Constrained LLM Inference`: Rank rose by +4
-- **[Rank Rise]** `A Gradient Flow Perspective on Minimum MMD Estimation`: Rank rose by +4
-- **[Rank Rise]** `A Unified Framework for Quantized and Continuous Strong Lottery Tickets`: Rank rose by +4
-- **[Rank Rise]** `NeSy-CSA: A Neuro-Symbolic Framework for Open-Ended Critical Scenario Attribution`: Rank rose by +4
-- **[Rank Rise]** `Adversarial LassoNet: Robust Feature Selection via Stability-Driven Sparse Learning`: Rank rose by +4
-- **[Rank Rise]** `Stable Global Weighting of Flow Mixtures using Simplex Exponential Moving Average`: Rank rose by +4
-- **[Rank Rise]** `Punching Above Their Weight: Classification-Head Fine-Tuning of Tiny Language Models (TLMs) for Verifiable Multiple-Choice Tasks`: Rank rose by +4
-- **[Rank Rise]** `Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks`: Rank rose by +4
-- **[Rank Rise]** `Tensor-Train Joint Modeling for Few-Step Discrete Diffusion`: Rank rose by +4
-- **[Rank Rise]** `Conservative Subject Invariant EMG-based Gesture Recognition`: Rank rose by +4
-- **[Rank Rise]** `FedACT: Federated Adaptive Coordinate Trust Modulation for Robust Transformer Training under Data Heterogeneity`: Rank rose by +4
-- **[Rank Rise]** `SAVER: Stochastic Adaptive Variance-Driven Exploration and Reconstruction for Low-Dose Computed Tomography`: Rank rose by +4
-- **[Rank Rise]** `Social Networks of LLM Agents`: Rank rose by +4
-- **[Rank Rise]** `PIEFS: Physics-Informed Eigenfunction Features with Learnable Scaling`: Rank rose by +4
-- **[Rank Rise]** `Rethinking AI-Generated Text Detection: A Strong Baseline and the Distribution-Shift Problem That Remains`: Rank rose by +4
-- **[Rank Rise]** `Validation-Induced Shapley Shifts: How Validation Structure Distorts Data Valuation`: Rank rose by +4
-- **[Rank Rise]** `A Structural Interpretation of GELU and Threshold-Transmission Activations via the First-Order Loss Function`: Rank rose by +4
-- **[Rank Rise]** `Phase-Preserving Trimodal Transformer for Tropical Forest Biomass Estimation Using Optical and PolInSAR Data`: Rank rose by +4
-- **[Rank Rise]** `LLM-Guided Transportation Hub Capacity Planning with Textual Business Inputs`: Rank rose by +4
-- **[Rank Rise]** `Reflected Schr\"odinger Bridge Matching`: Rank rose by +4
-- **[Rank Rise]** `Implicit Bias of SGD in Multivariate ReLU Networks: Effective Width Collapse`: Rank rose by +4
-- **[Rank Rise]** `Graph Classification via Network Usable Information: From Representation Evaluation to Structure Selection`: Rank rose by +4
-- **[Rank Rise]** `Modular Foundation Models for Time-Series Perception in Digital Twins`: Rank rose by +4
-- **[Rank Rise]** `When Geometry Aligns: Dihedral Hidden-State Transformations in UNet, ViT, and DiT Architectures`: Rank rose by +4
-- **[Rank Rise]** `Differentiate the Evaluator, Not the Program: An Efficient Runtime Representation for Neuro-Symbolic Learning`: Rank rose by +4
-- **[Rank Rise]** `Teacher Supervision over Representation Equivalence Classes`: Rank rose by +4
-- **[Rank Rise]** `WeightCLIP: Aligning Datasets and Models for Weight Space Learning`: Rank rose by +4
-- **[Rank Rise]** `Aligning Language Models with Selective Prediction`: Rank rose by +4
-- **[Rank Rise]** `Co-Adaptive Multi-Task LoRA: Transfer-Aware, Label-Free Control of Domain Participation`: Rank rose by +4
-- **[Rank Rise]** `On the Convergence of Adam, Revisited`: Rank rose by +4
-- **[Rank Rise]** `Mixture-of-Gaussians-Guided Schedule Design for Brownian Bridge Diffusion Models`: Rank rose by +4
-- **[Rank Rise]** `A Near-Linear-Time Solver for Graph $p$-Laplacian Semi-Supervised Learning via Continuation in $p$`: Rank rose by +4
-- **[Rank Rise]** `Towards Diverse and Comprehensive Benchmarks for Mutual Information Estimation`: Rank rose by +4
-- **[Rank Rise]** `Best-of-Better-$N$: Generating Pre-Aligned Responses with In-Context Learning`: Rank rose by +4
-- **[Rank Rise]** `No Time Like the Present: Agentic Test-Time Training for LLM Agents`: Rank rose by +4
-- **[Rank Rise]** `How Much of the Routing Gap Is Real? Decomposing the Router-to-Oracle Gap into Reproducible Specialist Advantage and Single-Draw Label Noise`: Rank rose by +4
-- **[Rank Rise]** `Amortising Bayesian Experimental Design for Sequential Information Gathering in LLMs`: Rank rose by +4
-- **[Rank Rise]** `PedestrianDiffusion: Multimodal Generative Denoising and Dense State Estimation for Inertial Navigation`: Rank rose by +4
-- **[Rank Rise]** `The Multiscale Single-Index Model: A Stylized Model for Hierarchical Feature Learning`: Rank rose by +4
-- **[Rank Rise]** `CSympNet-ID: conformal-symplectic map learning for linearly damped Hamiltonian systems`: Rank rose by +4
-- **[Rank Rise]** `FedAvg for HAR: Exploring the Tradeoff Between Personalized and Generalization Accuracy`: Rank rose by +4
-- **[Rank Rise]** `Statistically Meaningful Geometry (SMG) Beyond the Euclidean Paradigm, with Application to Generative AI`: Rank rose by +4
-- **[Rank Rise]** `A harmonised dataset for Earth system foundation models`: Rank rose by +4
-- **[Rank Rise]** `From Global to Local: Efficient Regional Weather Downscaling with Global Weather Foundation Model`: Rank rose by +4
-- **[Rank Rise]** `Unbiased Alignment for Large Language Models with Noisy Preferences`: Rank rose by +4
-- **[Rank Rise]** `PhenoNEST: A Neuro-Symbolic Framework for Ontology-Aware Multimodal Plant Phenotyping and Trait Discovery`: Rank rose by +4
-- **[Rank Rise]** `Joint distribution of upstream runoff governs downstream river-discharge prediction uncertainty in distributed ML models`: Rank rose by +4
-- **[Rank Rise]** `Transition Information Density: Morphological Trajectories, Synesthetic Perception, and Structured Interpolation in Neural Training (or: The Synesthetic AI)`: Rank rose by +4
-- **[Rank Rise]** `OpFlow: Learning Opportunity-Conditioned Choice Potentials for Robust OD Flow Prediction`: Rank rose by +4
-- **[Rank Rise]** `Reduced-Order Models: The Mother of World Models`: Rank rose by +4
-- **[Rank Rise]** `A Bayesian Framework for Evaluating Scenario Compatibility in Generative Population Synthesis`: Rank rose by +4
-- **[Rank Rise]** `Understanding electricity consumption behaviour through Inverse Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Decentralised Federated Learning over Temporal Networks: The Role of Heterogeneities`: Rank rose by +4
-- **[Rank Rise]** `Rethinking Neural Nonlinearity as Gating`: Rank rose by +4
-- **[Rank Rise]** `CuBAS: Information Geometric Curvature-Based Adaptive Sampling for Supervised Classification`: Rank rose by +4
-- **[Rank Rise]** `Sample-Efficient Pareto Front Modeling for Energy-Aware Reinforcement Learning Using Bayesian Optimization`: Rank rose by +4
-- **[Rank Rise]** `Anticipatory Reinforcement Learning for Trajectory Tracking`: Rank rose by +4
-- **[Rank Rise]** `ACPO: Adaptive Credit Policy Optimization via Fine-Grained Surrogate Entropy`: Rank rose by +4
-- **[Rank Rise]** `Integrating Physics-Informed Neural Networks for Safe Reinforcement Learning in a 1-DoF Helicopter System`: Rank rose by +4
-- **[Rank Rise]** `Observable- and Positional-Encoding-Dependent Symmetry Readout from Neural Network Weights`: Rank rose by +4
-- **[Rank Rise]** `Heterogeneous Graph Condensation via Role-Aware Clustering`: Rank rose by +4
-- **[Rank Rise]** `Stacked LoRA for Subject-Adaptive EEG Foundation Models in Motor Imagery Decoding`: Rank rose by +4
-- **[Rank Rise]** `STELLA: Efficient Sensor-to-LLM Translation for On-Device Human Activity Recognition`: Rank rose by +4
-- **[Rank Rise]** `Robustness Meets Uncertainty: Evidential Adversarial Training for Robust Selective Classification`: Rank rose by +4
-- **[Rank Rise]** `Spectral Rewiring for Exploration, Purification, and Model Merging`: Rank rose by +4
-- **[Rank Rise]** `LACE-SVD: Loss-Aware SVD with Cumulative Error Correction for LLM Compression`: Rank rose by +4
-- **[Rank Rise]** `SHiPPO: Recurrent Memory with Transported Polynomial Projections`: Rank rose by +4
-- **[Rank Rise]** `OmniFocus: Query-Guided Modality-Balanced Token Compression for Omni-Modal Large Language Models`: Rank rose by +4
-- **[Rank Rise]** `Out-of-distribution Neural Inference in Dynamical Ising Models`: Rank rose by +4
-- **[Rank Rise]** `Can Model Merging Improve Aggregation in DiLoCo?`: Rank rose by +4
-- **[Rank Rise]** `Do ECG Foundation Models Transfer to Rare Cardiac Diseases? Evidence from Brugada Syndrome Detection`: Rank rose by +4
-- **[Rank Rise]** `Back to Basics: Improving Molecular Understanding in LLMs via SMILES-Graph Translation`: Rank rose by +4
-- **[Rank Rise]** `Transfer Learning in High-dimensional Ising Models`: Rank rose by +4
-- **[Rank Rise]** `MABLE: Masked Autoencoding with Bi-Lipschitz Decoding for Embeddings and Graph Metric Learning`: Rank rose by +4
-- **[Rank Rise]** `Rank-Order N-of-M Codes for Sparse Distributed Memory: Disentangling Representation and Learning Effects in Noise Robustness Against Contemporary Neuromorphic Architectures`: Rank rose by +4
-- **[Rank Rise]** `Individual Parameters in Weight-Sparse Transformers Appear Interpretable`: Rank rose by +4
-- **[Rank Rise]** `A Precedent-Guided Co-Scientist for Side-Effect-Aware Drug Redesign`: Rank rose by +4
-- **[Rank Rise]** `Missingness as Signal: Channel-Independent Spectrogram Learning for Clinical Time Series Prediction`: Rank rose by +4
-- **[Rank Rise]** `In-span learning: adapting reduced-order models using their own predictions`: Rank rose by +4
-- **[Rank Rise]** `CoFEND: A Cross-Modal Fusion End-to-End Network for Cold-Start Drug-Drug Interaction Prediction`: Rank rose by +4
-- **[Rank Rise]** `Bootstrap Flow-Map Tree Sampling Enables Online Feedback Driven Search`: Rank rose by +4
-- **[Rank Rise]** `Variable Bit-width Quantization: Learning Per-Group Precision for "Bigger-but-Smaller" Language Models`: Rank rose by +4
-- **[Rank Rise]** `Dynamic Regret for Non-Stationary Linear Bandits via Misspecification Reductions`: Rank rose by +4
-- **[Rank Rise]** `Poisson-Gamma Modeling of Inter-Relational Dependencies in Dynamic Knowledge Graphs`: Rank rose by +4
-- **[Rank Rise]** `Reward Granularity in RLVR: Comparing Process and Outcome Reward Structures for Mathematical Reasoning in Small Language Models`: Rank rose by +4
-- **[Rank Rise]** `Trading Confidence: Comprehensive Uncertainty Estimation in Algorithmic Trading`: Rank rose by +4
-- **[Rank Rise]** `Labeled-Data-Free Meta-Learning: Efficient Task Generation Using Pre-trained Models and Unlabeled Data`: Rank rose by +4
-- **[Rank Rise]** `On the Design Space of Discrete Diffusion Online Adaptation for Molecular Optimization`: Rank rose by +4
-- **[Rank Rise]** `Less Tokens, Better Forecasts: Sparse Residual Routing for Efficient Weather Prediction`: Rank rose by +4
-- **[Rank Rise]** `Training Hybrid Block Diffusion Language Models with Partial Bidirectionality`: Rank rose by +4
-- **[Rank Rise]** `Induction Heads Interpolate N-Grams`: Rank rose by +4
-- **[Rank Rise]** `Safe Inference-Time Alignment via Lagrangian Reward Augmentation`: Rank rose by +4
-- **[Rank Rise]** `Out-of-Distribution Generalization of Risk Aversion in Language Models`: Rank rose by +4
-- **[Rank Rise]** `Weighted Conformal Prediction for Lab-to-Track Thermal Transfer in EV Motorsport Powertrains`: Rank rose by +4
-- **[Rank Rise]** `LiNO: Lifting based multiresolution neural operator`: Rank rose by +4
-- **[Rank Rise]** `A Granularity-Aware EEG Feature Framework for Psychopathology Dimension Prediction`: Rank rose by +4
-- **[Rank Rise]** `Post-Generation Curation of Synthetic Images via Homogeneous-Heterogeneous Splitting`: Rank rose by +4
-- **[Rank Rise]** `Federated Learning for Object Detection: Enabling Collaborative Drone Learning Without Centralizing Data`: Rank rose by +4
-- **[Rank Rise]** `GRAFT: Grafted Reference Audio for Fine-grained Pronunciation in Zero-shot Text-to-Speech`: Rank rose by +4
-- **[Rank Rise]** `QuantFlow: A Federated Mamba-Based Post-Transformer Foundation Model for Time-Series Forecasting`: Rank rose by +4
-- **[Rank Rise]** `Evaluating Time Series Foundation Models for Electricity Price Forecasting: Contamination Risk, Distributional Shifts, and Covariate Dependence`: Rank rose by +4
-- **[Rank Rise]** `Auditing the Audit: Five Failure Modes in Benchmark-Validity Audits`: Rank rose by +4
-- **[Rank Rise]** `GrahamDumpleton/wsgiorg`: Rank rose by +4
-- **[Rank Rise]** `pallets/werkzeug`: Rank rose by +4
-- **[Rank Rise]** `Train deep learning PyTorch models (SDK v2) - Azure Machine Learning | Microsoft Learn`: Rank rose by +4
-- **[Rank Rise]** `ClickHouse/ClickHouse`: Rank rose by +4
-- **[Rank Rise]** `AWS Deep Learning Containers Documentation Has Moved - AWS Deep Learning Containers`: Rank rose by +4
-- **[Rank Rise]** `clickhouse/clickhouse-server - Docker Image`: Rank rose by +4
-- **[Rank Rise]** `pypa/pip`: Rank rose by +4
-- **[Rank Rise]** `pradyunsg/furo`: Rank rose by +4
-- **[Rank Rise]** `PyTorch`: Rank rose by +4
-- **[Rank Rise]** `Pradyun Gedam`: Rank rose by +4
-- **[Rank Rise]** `WSGI — WSGI.org`: Rank rose by +4
-- **[Rank Rise]** `Werkzeug · PyPI`: Rank rose by +4
-- **[Rank Rise]** `huggingface/course`: Rank rose by +4
-- **[Rank Rise]** `langfuse/langfuse`: Rank rose by +4
-- **[Rank Rise]** `Models compatible with the Transformers library – Hugging Face`: Rank rose by +4
-- **[Rank Rise]** `Fast Open-Source OLAP DBMS | ClickHouse`: Rank rose by +4
-- **[Rank Rise]** `Introduction · Hugging Face`: Rank rose by +4
-- **[Rank Rise]** `Langfuse`: Rank rose by +4
-- **[Rank Rise]** `QwenLM/Qwen-Agent`: Rank rose by +4
-- **[Rank Rise]** `Qwen3 Demo - a Hugging Face Space by Qwen`: Rank rose by +4
-- **[Rank Rise]** `Qwen · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Qwen3 - a Qwen Collection`: Rank rose by +4
-- **[Rank Rise]** `Watch YouTube TV on supported devices - Computer - YouTube TV Help`: Rank rose by +4
-- **[Rank Rise]** `YouTube TV: Live TV & more - Apps on Google Play`: Rank rose by +4
-- **[Rank Rise]** `The Python Tutorial — Python 3.14.6 documentation`: Rank rose by +4
-- **[Rank Rise]** `deepset-ai/haystack-cookbook`: Rank rose by +4
-- **[Rank Rise]** `Secure installs - pip documentation v26.1.2`: Rank rose by +4
-- **[Rank Rise]** `Python Packaging User Guide`: Rank rose by +4
-- **[Rank Rise]** `Werkzeug — Werkzeug Documentation (3.1.x)`: Rank rose by +4
-- **[Rank Rise]** `Flask · PyPI`: Rank rose by +4
-- **[Rank Rise]** `Qwen3: Think Deeper, Act Faster | Qwen`: Rank rose by +4
-- **[Rank Rise]** `QwenLM/Qwen3`: Rank rose by +4
-- **[Rank Rise]** `Qwen`: Rank rose by +4
-- **[Rank Rise]** `Qwen/Qwen3-4B-Instruct-2507 · Hugging Face`: Rank rose by +4
-- **[Rank Rise]** `What Is Retrieval Augmented Generation? | deepset Blog`: Rank rose by +4
-- **[Rank Rise]** `Haystack Enterprise Starter`: Rank rose by +4
-- **[Rank Rise]** `Prompt engineering | OpenAI API`: Rank rose by +4
-- **[Rank Rise]** `Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech`: Rank rose by +4
-- **[Rank Rise]** `Age appropriate design | ICO`: Rank rose by +4
-- **[Rank Rise]** `Accountability | ICO`: Rank rose by +4
-- **[Rank Rise]** `Accueil | European Data Protection Board`: Rank rose by +4
-- **[Rank Rise]** `Federal Trade Commission | Protecting America's Consumers`: Rank rose by +4
-- **[Rank Rise]** `Information Commissioner's Office`: Rank rose by +4
-- **[Rank Rise]** `python-poetry/poetry`: Rank rose by +4
-- **[Rank Rise]** `pypa/pipx`: Rank rose by +4
-- **[Rank Rise]** `Install pipx - pipx`: Rank rose by +4
-- **[Rank Rise]** `Technologies émergentes et protection des mineurs : les autorités de protection des données du G7 s’accordent sur des pr`: Rank rose by +4
-- **[Rank Rise]** `How do we ensure our IoT products process information lawfully? | ICO`: Rank rose by +4
-- **[Rank Rise]** `Information Commissioner's Office | LinkedIn`: Rank rose by +4
-- **[Rank Rise]** `LlamaIndexTS/CONTRIBUTING.md at main · run-llama/LlamaIndexTS · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Contact the LangChain Sales Team`: Rank rose by +4
-- **[Rank Rise]** `Developer Labs â Build on Cloudflare`: Rank rose by +4
-- **[Rank Rise]** `Deep Agents overview - Docs by LangChain`: Rank rose by +4
-- **[Rank Rise]** `Overview Â· Cloudflare Workers AI docs`: Rank rose by +4
-- **[Rank Rise]** `sanbuphy/learn-coding-agent`: Rank rose by +4
-- **[Rank Rise]** `atticus98/codex-turbo`: Rank rose by +4
-- **[Rank Rise]** `Leanstral 1.5: Proof Abundance for All`: Rank rose by +4
-- **[Rank Rise]** `Jul 2, 2026AnnouncementsMore details on Fable 5’s cyber safeguards and our jailbreak framework`: Rank rose by +4
-- **[Rank Rise]** `Jul 6, 2026Case StudyGovernment of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems`: Rank rose by +4
-- **[Rank Rise]** `ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.`: Rank rose by +4
-- **[Rank Rise]** `Next.js 16.3: Instant Navigations`: Rank rose by +4
-- **[Rank Rise]** `Next.js 16.3: AI Improvements`: Rank rose by +4
-- **[Rank Rise]** `Turbopack: What's New in Next.js 16.3`: Rank rose by +4
-- **[Rank Rise]** `Run a vLLM Server on HF Jobs in One Command`: Rank rose by +4
-- **[Rank Rise]** `DiScoFormer: One transformer for density and score, across distributions`: Rank rose by +4
-- **[Rank Rise]** `Featuring Every Eval Ever Results on Hugging Face Model Pages`: Rank rose by +4
-- **[Rank Rise]** `Why Specialization Is Inevitable`: Rank rose by +4
-- **[Rank Rise]** `ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration`: Rank rose by +4
-- **[Rank Rise]** `Hugging Face and Cerebras bring Gemma 4 to real-time voice AI`: Rank rose by +4
-- **[Rank Rise]** `🤗 Kernels: Major Updates`: Rank rose by +4
-- **[Rank Rise]** `PRX Part 4: Our Data Strategy`: Rank rose by +4
-- **[Rank Rise]** `LeRobot v0.6.0: Imagine, Evaluate, Improve`: Rank rose by +4
-- **[Rank Rise]** `timm/mobilenetv3_small_100.lamb_in1k`: Rank rose by +4
-- **[Rank Rise]** `hallucinations-leaderboard/results`: Rank rose by +4
-- **[Rank Rise]** `anisoleai/fineweb-tokenized`: Rank rose by +4
-- **[Rank Rise]** `codeparrot/github-code`: Rank rose by +4
-- **[Rank Rise]** `Postman Inc. · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Astro AI | Where agents become teammates`: Rank rose by +4
-- **[Rank Rise]** `Fern: Docs, SDKs, and CLIs for your API`: Rank rose by +4
-- **[Rank Rise]** `Postman: The World's Leading API Platform | Sign Up for Free`: Rank rose by +4
-- **[Rank Rise]** `Cloudflare · GitHub`: Rank rose by +4
-- **[Rank Rise]** `cosai-oasis/ws2-defenders`: Rank rose by +4
-- **[Rank Rise]** `Home - Coalition for Secure AI`: Rank rose by +4
-- **[Rank Rise]** `Advancing AI safely and responsibly â Google AI`: Rank rose by +4
-- **[Rank Rise]** `Cloudflare Developer Docs | Cloudflare Docs`: Rank rose by +4
-- **[Rank Rise]** `GATE Exam Tutorial - GeeksforGeeks`: Rank rose by +4
-- **[Rank Rise]** `Protect Privacy Online with Google - Google Safety Center`: Rank rose by +4
-- **[Rank Rise]** `GDPR FAQs | Cloudflare`: Rank rose by +4
-- **[Rank Rise]** `Release Notes | Cohere`: Rank rose by +4
-- **[Rank Rise]** `GeeksforGeeks - YouTube`: Rank rose by +4
-- **[Rank Rise]** `FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub`: Rank rose by +4
-- **[Rank Rise]** `databrickslabs/doc-qa`: Rank rose by +4
-- **[Rank Rise]** `- YouTube`: Rank rose by +4
-- **[Rank Rise]** `All Sites - Stack Exchange`: Rank rose by +4
-- **[Rank Rise]** `Latest product releases - Stack Overflow`: Rank rose by +4
-- **[Rank Rise]** `Update your account to meet age requirements - Google Account Help`: Rank rose by +4
-- **[Rank Rise]** `Safe Browsing â Google Safe Browsing`: Rank rose by +4
-- **[Rank Rise]** `Transparency Center - Google Product Policies and Policy Areas`: Rank rose by +4
-- **[Rank Rise]** `How We Handle Ads, Funding, and Data Security - Google - About Google`: Rank rose by +4
-- **[Rank Rise]** `System Design Tutorial - GeeksforGeeks`: Rank rose by +4
-- **[Rank Rise]** `hwchase17/langchain`: Rank rose by +4
-- **[Rank Rise]** `qdrant/qdrant`: Rank rose by +4
-- **[Rank Rise]** `Machine Learning Tutorial - GeeksforGeeks`: Rank rose by +4
-- **[Rank Rise]** `Python Tutorial - GeeksforGeeks`: Rank rose by +4
-- **[Rank Rise]** `qdrant/docs/roadmap/README.md at dev · qdrant/qdrant · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Changelog - Chroma`: Rank rose by +4
-- **[Rank Rise]** `crazyaiml/nl-2-sql-agent`: Rank rose by +4
-- **[Rank Rise]** `FlagOpen/FlagEmbedding`: Rank rose by +4
-- **[Rank Rise]** `DSA Tutorial - GeeksforGeeks`: Rank rose by +4
-- **[Rank Rise]** `Best Practices for LLM Evaluation | Databricks Blog`: Rank rose by +4
-- **[Rank Rise]** `Chroma - open-source search infrastructure for AI`: Rank rose by +4
-- **[Rank Rise]** `chroma-core/chroma`: Rank rose by +4
-- **[Rank Rise]** `Docker Systems Status Page`: Rank rose by +4
-- **[Rank Rise]** `Sign in to GitHub · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Log In - Stack Overflow`: Rank rose by +4
-- **[Rank Rise]** `cloudflare/mcp`: Rank rose by +4
-- **[Rank Rise]** `Job-a-Thon`: Rank rose by +4
-- **[Rank Rise]** `CompendiumLabs/bge-base-en-v1.5-gguf · Hugging Face`: Rank rose by +4
-- **[Rank Rise]** `Official App - GeeksforGeeks`: Rank rose by +4
-- **[Rank Rise]** `Qdrant - Vector Search Engine`: Rank rose by +4
-- **[Rank Rise]** `LLM Powered Autonomous Agents | Lil'Log`: Rank rose by +4
-- **[Rank Rise]** `ollama/ollama-python`: Rank rose by +4
-- **[Rank Rise]** `crazyaiml/Superml.DataTruth`: Rank rose by +4
-- **[Rank Rise]** `Modular RAG: Transforming RAG Systems into LEGO-like Reconfigurable Frameworks`: Rank rose by +4
-- **[Rank Rise]** `Practice | GeeksforGeeks | A computer science portal for geeks`: Rank rose by +4
-- **[Rank Rise]** `Introduction - Chroma Docs`: Rank rose by +4
-- **[Rank Rise]** `Get Docker | Docker Docs`: Rank rose by +4
-- **[Rank Rise]** `AI-Application-and-Integration-Lab/MegaRAG`: Rank rose by +4
-- **[Rank Rise]** `volcengine/OpenViking`: Rank rose by +4
-- **[Rank Rise]** `RAG System with LangChain and LangGraph - GeeksforGeeks`: Rank rose by +4
-- **[Rank Rise]** `datawhalechina/wow-rag`: Rank rose by +4
-- **[Rank Rise]** `Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium`: Rank rose by +4
-- **[Rank Rise]** `Build a RAG agent with LangChain - Docs by LangChain`: Rank rose by +4
-- **[Rank Rise]** `Code a simple RAG from scratch`: Rank rose by +4
-- **[Rank Rise]** `7 Steps to Build a Simple RAG System from Scratch - KDnuggets`: Rank rose by +4
-- **[Rank Rise]** `Building a RAG Application - GeeksforGeeks`: Rank rose by +4
-- **[Rank Rise]** `Which tokens does a hybrid model predict better?`: Rank rose by +4
-- **[Rank Rise]** `OWASP Top 10 for LLM — AI Vendor Risk Assessment | PromptArmor`: Rank rose by +4
-- **[Rank Rise]** `Dropbox's AI Transparency Center`: Rank rose by +4
-- **[Rank Rise]** `bvaughn/react-window`: Rank rose by +4
-- **[Rank Rise]** `AddyOsmani.com - Infinite Scroll without Layout Shifts`: Rank rose by +4
-- **[Rank Rise]** `Issues · godotengine/godot · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Linux man pages online`: Rank rose by +4
-- **[Rank Rise]** `The GNU C Library - GNU Project - Free Software Foundation`: Rank rose by +4
-- **[Rank Rise]** `Dropbox Dash - Dropbox Help`: Rank rose by +4
-- **[Rank Rise]** `Dropbox Dash`: Rank rose by +4
-- **[Rank Rise]** `Dropbox July 2024 Product Updates`: Rank rose by +4
-- **[Rank Rise]** `Databricks documentation | Databricks on AWS`: Rank rose by +4
-- **[Rank Rise]** `Learn Databricks - Training & Resources | Databricks`: Rank rose by +4
-- **[Rank Rise]** `Dropbox AI Principles`: Rank rose by +4
-- **[Rank Rise]** `Built on Open Source: Innovation and Efficiency | Databricks`: Rank rose by +4
-- **[Rank Rise]** `Building Agentic Retrieval with LlamaParse Index`: Rank rose by +4
-- **[Rank Rise]** `neo4j-contrib/rabbithole`: Rank rose by +4
-- **[Rank Rise]** `Build a User Management App with Next.js | Supabase Docs`: Rank rose by +4
-- **[Rank Rise]** `Diagram Syntax | Mermaid`: Rank rose by +4
-- **[Rank Rise]** `Markdown for the component era | MDX`: Rank rose by +4
-- **[Rank Rise]** `allauth/django-allauth: Integrated set of Django applications addressing authentication, registration, account managemen`: Rank rose by +4
-- **[Rank Rise]** `The Linux man-pages project`: Rank rose by +4
-- **[Rank Rise]** `Own Your Impact At Dropbox | Dropbox Careers`: Rank rose by +4
-- **[Rank Rise]** `Dropbox Dash: Find anything. Protect everything.`: Rank rose by +4
-- **[Rank Rise]** `Home | Databricks`: Rank rose by +4
-- **[Rank Rise]** `- YouTube`: Rank rose by +4
-- **[Rank Rise]** `- YouTube`: Rank rose by +4
-- **[Rank Rise]** `Read the Docs · GitHub`: Rank rose by +4
-- **[Rank Rise]** `Interrupt 2026 Recordings | The Agent Conference by LangChain`: Rank rose by +4
-- **[Rank Rise]** `Towards a Bathroom-Centered Human-Building Digital Twin Framework for Indoor Safety Analysis`: Rank rose by +4
-- **[Rank Rise]** `PhoneBuddy: Training Open Models for Agentic Phone Use`: Rank rose by +4
-- **[Rank Rise]** `RARM: Confidence-Gated Progress Reward Modeling for RL in Manipulation`: Rank rose by +4
-- **[Rank Rise]** `FinRED: An Expert-Guided Benchmark Generation and Evaluation Framework for Financial LLM Red-Teaming`: Rank rose by +4
-- **[Rank Rise]** `BioVid: Autoregressive Video Generation with Biological Behavior Semantic Comprehension`: Rank rose by +4
-- **[Rank Rise]** `MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism`: Rank rose by +4
-- **[Rank Rise]** `ECM Contracts: Contract-Aware, Versioned, and Governable Capability Interfaces for Embodied Agents`: Rank rose by +4
-- **[Rank Rise]** `Backbone-Conditional Behavior of Modality Gating in Multi-Modal Prostate MRI Segmentation: A 5-Fold Cross-Validation and Gate Mechanism Analysis`: Rank rose by +4
-- **[Rank Rise]** `Evaluating Scene-based In-Situ Item Labeling for Immersive Conversational Recommendation`: Rank rose by +4
-- **[Rank Rise]** `Incremental Residual Reinforcement Learning Toward Real-World Learning for Social Navigation`: Rank rose by +4
-- **[Rank Rise]** `PhyGile: Physics-Prefix Guided Motion Generation for Agile General Humanoid Motion Tracking`: Rank rose by +4
-- **[Rank Rise]** `Spatial Transcriptomics as Images for Large-Scale Pretraining`: Rank rose by +4
-- **[Rank Rise]** `ZeroWBC: Learning Natural Whole-Body Humanoid Interaction from Human Egocentric Data`: Rank rose by +4
-- **[Rank Rise]** `How Small Can 6G Reason? Scaling Tiny-to-Small Language Models for AI-Native Networks`: Rank rose by +4
-- **[Rank Rise]** `Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?`: Rank rose by +4
-- **[Rank Rise]** `ReaDy-Go: Real-to-Sim Dynamic 3D Gaussian Splatting Simulation for Environment-Specific Visual Navigation with Moving Obstacles`: Rank rose by +4
-- **[Rank Rise]** `SPARC: Separating Perception And Reasoning Circuits for Test-time Scaling of VLMs`: Rank rose by +4
-- **[Rank Rise]** `Tinker Tales: A Tangible Dialogue System for Child-AI Co-Creative Storytelling`: Rank rose by +4
-- **[Rank Rise]** `Verifiable Manifest Signing and Transparency Enforcement for Secure MCP-Based LLM Pipelines`: Rank rose by +4
-- **[Rank Rise]** `AMVICC: A Novel Benchmark for Cross-Modal Failure Mode Profiling for VLMs and IGMs`: Rank rose by +4
-- **[Rank Rise]** `TIDAL: Temporally Interleaved Diffusion and Action Loop for High-Frequency VLA Control`: Rank rose by +4
-- **[Rank Rise]** `A Marketplace for AI-Generated Adult Content and Deepfakes`: Rank rose by +4
-- **[Rank Rise]** `Membox: Weaving Topic Continuity into Long-Range Memory for LLM Agents`: Rank rose by +4
-- **[Rank Rise]** `HaineiFRDM: Structure-Preserving Diffusion for Film Restoration under Fast Motion and Diverse Defects`: Rank rose by +4
-- **[Rank Rise]** `CustomX: Unified Character, Action, and Scene Customization in Video World Models`: Rank rose by +4
-- **[Rank Rise]** `Epistemic Bias Injection: Manipulating LLM Opinion via Selective Context Retrieval`: Rank rose by +4
-- **[Rank Rise]** `Introduction to Automated Negotiation`: Rank rose by +4
-- **[Rank Rise]** `Reinforcement Learning Improves Traversal of Parametric Knowledge in LLMs`: Rank rose by +4
-- **[Rank Rise]** `Domain-Specific Agents for Cherenkov Telescope Array Control Software and Gamma-Ray Data Analysis`: Rank rose by +4
-- **[Rank Rise]** `Agentic Software Engineering: Foundational Pillars and a Research Roadmap`: Rank rose by +4
-- **[Rank Rise]** `Position: Reasoning After Perception Means Reasoning Without Vision`: Rank rose by +4
-- **[Rank Rise]** `Latent Space Analysis for Interpretable Uncertainty in Melanoma Classification`: Rank rose by +4
-- **[Rank Rise]** `Agent-as-a-Router: Agentic Model Routing for Coding Tasks`: Rank rose by +4
-- **[Rank Rise]** `VADAOrchestra: Neurosymbolic Orchestration of Adaptive Reasoning Workflows`: Rank rose by +4
-- **[Rank Rise]** `Geometry-Aware Online Scheduling for LLM Serving: From Theoretical Bound to System Practice`: Rank rose by +4
-- **[Rank Rise]** `Specifying AI-SDLC Processes: A Protocol Language for Human-Agent Boundaries`: Rank rose by +4
-- **[Rank Rise]** `Toten: A Knowledge-Based System For Structure-Preserving Representation Of Physical Quantities And Technical Notation In Brazilian Portuguese`: Rank rose by +4
-- **[Rank Rise]** `The Token Not Taken: Sampling, State, and the Stochasticity of AI Agents`: Rank rose by +4
-- **[Rank Rise]** `Entropy-Based Observability for AI Agent Behavior`: Rank rose by +4
-- **[Rank Rise]** `Distilling Answer-Set Programming Rules from LLMs for Neurosymbolic Visual Question Answering`: Rank rose by +4
-- **[Rank Rise]** `Governing Technical Debt in Agentic AI Systems`: Rank rose by +4
-- **[Rank Rise]** `Shepherd: Enabling Programmable Meta-Agents via Reversible Agentic Execution Traces`: Rank rose by +4
-- **[Rank Rise]** `Improving Zero-Shot Offline RL via Behavioral Task Sampling`: Rank rose by +4
-- **[Rank Rise]** `Plausible but Wrong: A case study on Agentic Failures in Astrophysical Workflows`: Rank rose by +4
-- **[Rank Rise]** `Judging the Judges: A Systematic Evaluation of Bias Mitigation Strategies in LLM-as-a-Judge Pipelines`: Rank rose by +4
-- **[Rank Rise]** `EvoAgent: An Evolvable Agent Framework with Skill Learning and Multi-Agent Delegation`: Rank rose by +4
-- **[Rank Rise]** `CLEF HIPE-2026: Evaluating Accurate and Efficient Person-Place Relation Extraction from Multilingual Historical Texts`: Rank rose by +4
-- **[Rank Rise]** `CausalRAG2: Hierarchical Causal Knowledge Graph Design for RAG`: Rank rose by +4
-- **[Rank Rise]** `Exploring Information Seeking Agent Consolidation`: Rank rose by +4
-- **[Rank Rise]** `SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care`: Rank rose by +4
-- **[Rank Rise]** `Learning Action Priors for Cross-embodiment Robot Manipulation`: Rank rose by +4
-- **[Rank Rise]** `A cross-process welding penetration status prediction algorithm based on unsupervised domain adaptation in laser and TIG welding`: Rank rose by +4
-- **[Rank Rise]** `A welding penetration prediction model for laser welding process based on self-supervised learning using physics-informed neural networks`: Rank rose by +4
-- **[Rank Rise]** `TriViewBench: Controlled Complexity Scaling for Multi-View Structural Reasoning in MLLMs`: Rank rose by +4
-- **[Rank Rise]** `Can Trustless Agents Be Trusted? An Empirical Study of the ERC-8004 Decentralized AI Agent Ecosystem`: Rank rose by +4
-- **[Rank Rise]** `Privacy Vulnerabilities of Attention Layers in Tabular Foundation Models and Protection of High-Risk Queries`: Rank rose by +4
-- **[Rank Rise]** `FORCE: Efficient VLA Reinforcement Fine-Tuning via Value-Calibrated Warm-up and Self-Distillation`: Rank rose by +4
-- **[Rank Rise]** `Variable Bound Tightening for Nash Equilibrium Computation in Multiplayer Imperfect-Information Games`: Rank rose by +4
-- **[Rank Rise]** `SpeechEQ: Benchmarking Emotional Intelligence Quotient in Socially Aware Voice Conversational Models`: Rank rose by +4
-- **[Rank Rise]** `Helpful or Harmful? Evaluating LLM-Assisted Vulnerability Patching via a Human Study`: Rank rose by +4
-- **[Rank Rise]** `SE-AGCNet: An End-to-End Framework for Joint Speech Enhancement and Loudness Control in Meeting Scenarios`: Rank rose by +4
-- **[Rank Rise]** `Measurable Majorities Are Not Finitely Axiomatizable`: Rank rose by +4
-- **[Rank Rise]** `Explainable Control Framework (XCF) based on Fuzzy Model-Agnostic Explanation and LLM Agent-Supported Interface`: Rank rose by +4
-- **[Rank Rise]** `Overview of HIPE-2026: Person-Place Relation Extraction from Multilingual Historical Texts`: Rank rose by +4
-- **[Rank Rise]** `Enhancing Brain MRI Anomaly Detection and Reasoning with ROI Rethink and Synthetic Data`: Rank rose by +4
-- **[Rank Rise]** `AI-Assisted Computational Reproducibility on the FABRIC Testbed`: Rank rose by +4
-- **[Rank Rise]** `AutoRelAnnotator: Calibrated Model Cascades for Cost-Efficient Relevance Evaluation in Sponsored Search`: Rank rose by +4
-- **[Rank Rise]** `Edges Before Embeddings: A Confidence-Aware Blur Gate for Vision-Language Pipelines`: Rank rose by +4
-- **[Rank Rise]** `SARA: Unlocking Multilingual Knowledge in Mixture-of-Experts via Semantically Anchored Routing Alignment`: Rank rose by +4
-- **[Rank Rise]** `Do Encoders Suffice? A Systematic Comparison of Encoder and Decoder Safety Judges for LLM Adversarial Evaluation`: Rank rose by +4
-- **[Rank Rise]** `Point Cloud Diffusion with Global and Local Reconstruction for Instance-Level 3D Anomaly Detection`: Rank rose by +4
-- **[Rank Rise]** `Average-Power-Budgeted Underwater Vehicle Control via Constrained Reinforcement Learning`: Rank rose by +4
-- **[Rank Rise]** `Steering Vision-Language Models with Joint Sparse Autoencoders`: Rank rose by +4
-- **[Rank Rise]** `Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization`: Rank rose by +4
-- **[Rank Rise]** `Taxonomy of Risks on Automated Fact-Checking Systems Considering its Propagation`: Rank rose by +4
-- **[Rank Rise]** `Staying In Character: Perspective-Bounded Memory For Book-Based Role-Playing Agents`: Rank rose by +4
-- **[Rank Rise]** `Probabilistic Agents in Deterministic Audits: Evaluating Multi-Agent Systems for Automated Audits Based on the German IT-Grundschutz`: Rank rose by +4
-- **[Rank Rise]** `An Approach for a Supporting Multi-LLM System for Automated Certification Based on the German IT-Grundschutz`: Rank rose by +4
-- **[Rank Rise]** `SFL-MTSC: Leveraging Semantic Frame-Level Multi-Task Self-Consistency for Robust Multi-Intent Spoken Language Understanding`: Rank rose by +4
-- **[Rank Rise]** `Evaluating LLMs on Real-World Software Performance Optimization`: Rank rose by +4
-- **[Rank Rise]** `STEB: A Speech-to-Speech Translation Expressiveness Benchmark for Evaluating Beyond Translation Fidelity`: Rank rose by +4
-- **[Rank Rise]** `The impact of artificial intelligence on enterprise software user roles`: Rank rose by +4
-- **[Rank Rise]** `Spam and Sentiment Detection in Arabic Tweets Using MARBERT Model`: Rank rose by +4
-- **[Rank Rise]** `HG-Bench: A Benchmark for Multi-Page Handwritten Answer-Region Grounding in Automated Homework Assessment`: Rank rose by +4
-- **[Rank Rise]** `Rate-Aware Quantum-Inspired Trajectory Learning for Interference-Limited Multi-UAV Networks`: Rank rose by +4
-- **[Rank Rise]** `A Red Teaming Framework for Large Language Models: A Case Study on Faithfulness Evaluation`: Rank rose by +4
-- **[Rank Rise]** `EchoStyle: Unlocking High-Fidelity Video Stylization with Reverse Data Synthesis`: Rank rose by +4
-- **[Rank Rise]** `C3-Bench: A Context-Aware Change Captioning Benchmark`: Rank rose by +4
-- **[Rank Rise]** `Adaptive Oscillatory Inductive Bias for Modeling Sharp Prosodic Dynamics in Diffusion-Based TTS`: Rank rose by +4
-- **[Rank Rise]** `CrossAccent-TTS: Cross-Lingual Accent-Intensity Controllable Text-to-Speech via Disentangled Speaker and Accent Representations`: Rank rose by +4
-- **[Rank Rise]** `LibEvoBench: Probing Temporal Knowledge Stratification in Code Generation Models`: Rank rose by +4
-- **[Rank Rise]** `Lightweight PCGAE-Net: Parallel CrossGate Attention and Bottleneck AutoEncoder for Efficient 5G Channel Prediction`: Rank rose by +4
-- **[Rank Rise]** `From Sounds to Scenes: A Benchmark for Evaluating Context-Aware Auditory Scene Understanding in Large Audio Language Models`: Rank rose by +4
-- **[Rank Rise]** `Anatomically-conditioned Latent Diffusion Model for Data-Efficient Few-Shot Cross-Domain 3D Glioma MRI Synthesis`: Rank rose by +4
-- **[Rank Rise]** `Beyond Visual Forensics: Auditing Multimodal Robustness for Synthetic Medical Image Detection`: Rank rose by +4
-- **[Rank Rise]** `Conformal Recovery-Deadline Certificates for Runtime Assurance of Adapting Controllers`: Rank rose by +4
-- **[Rank Rise]** `Sarashina2.2-TTS: Tackling Kanji Polyphony in Japanese Speech Generation via Data Scaling and Targeted Data Synthesis`: Rank rose by +4
-- **[Rank Rise]** `Reliability-Asymmetric Spacecraft Autonomy: Co-Designing a Capable Learned GNC Stack with a Verified, Adaptation-Aware Runtime Shield`: Rank rose by +4
-- **[Rank Rise]** `Neural Machine Translation for Low-Resource Tangkhul--English`: Rank rose by +4
-- **[Rank Rise]** `TheoremGraph: Bridging Formal and Informal Mathematics`: Rank rose by +4
+- **[Rank Rise]** `Terms & Conditions | Speechify`: Rank rose by +3
+- **[Rank Rise]** `pnpm/pnpm`: Rank rose by +3
+- **[Rank Rise]** `GitHub CLI | webinstall.dev`: Rank rose by +3
+- **[Rank Rise]** `Homebrew: The Package Manager for Everywhere`: Rank rose by +3
+- **[Rank Rise]** `Nx â Smart Monorepos Â· Fast Builds`: Rank rose by +3
+- **[Rank Rise]** `git/git`: Rank rose by +3
+- **[Rank Rise]** `yarnpkg/berry`: Rank rose by +3
+- **[Rank Rise]** `Vite | Next Generation Frontend Tooling`: Rank rose by +3
+- **[Rank Rise]** `Documentation/RelNotes/2.55.0.adoc · HEAD · git-scm / Git · GitLab`: Rank rose by +3
+- **[Rank Rise]** `Black Forest Labs · GitHub`: Rank rose by +3
+- **[Rank Rise]** `run-llama/chat-ui`: Rank rose by +3
+- **[Rank Rise]** `Introduction | Documentation | Poetry - Python dependency management and packaging made easy`: Rank rose by +3
+- **[Rank Rise]** `Home | Zendesk CX Trends 2026`: Rank rose by +3
+- **[Rank Rise]** `Zendesk Academy`: Rank rose by +3
+- **[Rank Rise]** `Using generative AI to expand and enhance help center content – Zendesk help`: Rank rose by +3
+- **[Rank Rise]** `AI for Research | Scite`: Rank rose by +3
+- **[Rank Rise]** `European Interactive Digital Advertising Alliance (EDAA)`: Rank rose by +3
+- **[Rank Rise]** `Opt-Out Tools — AdChoices in Canada`: Rank rose by +3
+- **[Rank Rise]** `LangChain Blog`: Rank rose by +3
+- **[Rank Rise]** `Sign in to GitHub · GitHub`: Rank rose by +3
+- **[Rank Rise]** `Sign in on a device that's not yours - Computer - Google Account Help`: Rank rose by +3
+- **[Rank Rise]** `Project Fugu API Showcase | Capabilities | Chrome for Developers`: Rank rose by +3
+- **[Rank Rise]** `Android Developers Blog: Android 17 is here`: Rank rose by +3
+- **[Rank Rise]** `Google Account Help`: Rank rose by +3
+- **[Rank Rise]** `Case studies | web.dev`: Rank rose by +3
+- **[Rank Rise]** `Medium Partner Program`: Rank rose by +3
+- **[Rank Rise]** `Home page | Yarn`: Rank rose by +3
+- **[Rank Rise]** `Git`: Rank rose by +3
+- **[Rank Rise]** `google-gemini/cookbook`: Rank rose by +3
+- **[Rank Rise]** `project-miracl/miracl`: Rank rose by +3
+- **[Rank Rise]** `Site Policies | Google for Developers`: Rank rose by +3
+- **[Rank Rise]** `Image Generation - Black Forest Labs`: Rank rose by +3
+- **[Rank Rise]** `LlamaIndex Chat UI`: Rank rose by +3
+- **[Rank Rise]** `Terms of Service`: Rank rose by +3
+- **[Rank Rise]** `Article Galaxy Tutorials – Research Solutions Help & Support Center`: Rank rose by +3
+- **[Rank Rise]** `AI-powered knowledge base software`: Rank rose by +3
+- **[Rank Rise]** `Release Notes | Research Solutions/Reprints Desk`: Rank rose by +3
+- **[Rank Rise]** `LangSmith Observability - Docs by LangChain`: Rank rose by +3
+- **[Rank Rise]** `GitHub Features · GitHub`: Rank rose by +3
+- **[Rank Rise]** `Getting Started | Electron Forge`: Rank rose by +3
+- **[Rank Rise]** `Grounding with Google Search | Gemini API | Google AI for Developers`: Rank rose by +3
+- **[Rank Rise]** `Foundry Models sold by Azure - Microsoft Foundry | Microsoft Learn`: Rank rose by +3
+- **[Rank Rise]** `Welcome to LlamaIndex.TS | Developer Documentation`: Rank rose by +3
+- **[Rank Rise]** `Scite Status`: Rank rose by +3
+- **[Rank Rise]** `Scite – Research Solutions Help & Support Center`: Rank rose by +3
+- **[Rank Rise]** `Chat LangChain`: Rank rose by +3
+- **[Rank Rise]** `youtube/api-samples`: Rank rose by +3
+- **[Rank Rise]** `ChatVertexAI integration - Docs by LangChain`: Rank rose by +3
+- **[Rank Rise]** `vibrantlabsai/ragas`: Rank rose by +3
+- **[Rank Rise]** `AzureChatOpenAI integration - Docs by LangChain`: Rank rose by +3
+- **[Rank Rise]** `stanfordnlp/dspy`: Rank rose by +3
+- **[Rank Rise]** `Testset Generation for RAG - Ragas`: Rank rose by +3
+- **[Rank Rise]** `adityatelange/hugo-PaperMod`: Rank rose by +2
+- **[Rank Rise]** `msitarzewski/agency-agents`: Rank rose by +2
+- **[Rank Rise]** `vercel-labs/knowledge-agent-template`: Rank rose by +2
+- **[Rank Rise]** `GoogleCloudPlatform/agent-starter-pack`: Rank rose by +2
+- **[Rank Rise]** `NVIDIA-AI-Blueprints/aiq`: Rank rose by +2
+- **[Rank Rise]** `Tracer-Cloud/opensre`: Rank rose by +2
+- **[Rank Rise]** `FLYNN: Robust Neural Network for Robot Navigation using Fly Brain Topology`: Rank rose by +2
+- **[Rank Rise]** `CMSL: Constructive Multi-Sequence Learning for Recommendation Systems`: Rank rose by +2
+- **[Rank Rise]** `NaviCache: Test-Time Self-Calibration Caching for Video Generation`: Rank rose by +2
+- **[Rank Rise]** `Assert, don't describe: Linguistic features that shift LLM reasoning about animal welfare`: Rank rose by +2
+- **[Rank Rise]** `Helpfulness Hurts: Domain-Dependent Degradation of Mid-Trained Compassion Values Under Post-Training`: Rank rose by +2
+- **[Rank Rise]** `The Cross-Architecture Substrate: A Domain-Transcendent, Calibration-Surviving Geometric Invariant of Modern Vision Encoders`: Rank rose by +2
+- **[Rank Rise]** `A Multi-Model Metric-based Selection Framework for Abstractive Text summarization`: Rank rose by +2
+- **[Rank Rise]** `Prompt Compression in Diffusion Large Language Models: Evaluating LLMLingua-2 on LLaDA`: Rank rose by +2
+- **[Rank Rise]** `IntentVLA: Short-Horizon Intent Modeling for Aliased Robot Manipulation`: Rank rose by +2
+- **[Rank Rise]** `Toward a Scientific Discovery Engine for Weather and Climate Data: A Visual Analytics Workbench for Embedding-Based Exploration`: Rank rose by +2
+- **[Rank Rise]** `Graph Construction and Matching for Imperative Programs using Neural and Structural Methods`: Rank rose by +2
+- **[Rank Rise]** `PivotMerge: Bridging Heterogeneous Multimodal Pre-training via Post-Alignment Model Merging`: Rank rose by +2
+- **[Rank Rise]** `Learning in Blocks: A Multi Agent Debate Assisted Personalized Adaptive Learning Framework for Language Learning`: Rank rose by +2
+- **[Rank Rise]** `Filtered Reasoning Score: Evaluating Reasoning Quality on a Model's Most-Confident Traces`: Rank rose by +2
+- **[Rank Rise]** `Private Seeds, Public LLMs: Realistic and Privacy-Preserving Synthetic Data Generation`: Rank rose by +2
+- **[Rank Rise]** `Tool-MCoT: Tool Augmented Multimodal Chain-of-Thought for Content Safety Moderation`: Rank rose by +2
+- **[Rank Rise]** `MG$^2$-RAG: Multi-Granularity Graph for Multimodal Retrieval-Augmented Generation`: Rank rose by +2
+- **[Rank Rise]** `Pickalo: Leveraging 6D Pose Estimation for Low-Cost Industrial Bin Picking`: Rank rose by +2
+- **[Rank Rise]** `How Annotation Trains Annotators: Competence Development in Social Influence Recognition`: Rank rose by +2
+- **[Rank Rise]** `Uncertainty-guided Compositional Alignment with Part-to-Whole Semantic Representativeness in Hyperbolic Vision-Language Models`: Rank rose by +2
+- **[Rank Rise]** `Evolutionarily Stable Stackelberg Equilibrium`: Rank rose by +2
+- **[Rank Rise]** `Towards Robust Speech Deepfake Detection via Human-Inspired Reasoning`: Rank rose by +2
+- **[Rank Rise]** `MUGEN: Evaluating and Improving Multi-audio Understanding of Large Audio-Language Models`: Rank rose by +2
+- **[Rank Rise]** `VehAnchor: Metadata-Free Metric Scale Recovery from Vehicle Cues in Aerial Imagery`: Rank rose by +2
+- **[Rank Rise]** `RVN-Bench: A Benchmark for Reactive Visual Navigation`: Rank rose by +2
+- **[Rank Rise]** `A General Equilibrium Theory of Orchestrated AI Agent Systems`: Rank rose by +2
+- **[Rank Rise]** `Debiasing Central Fixation Confounds Reveals a Peripheral "Sweet Spot" for Human-like Scanpaths in Hard-Attention Vision`: Rank rose by +2
+- **[Rank Rise]** `Understanding Persuasive Interactions between Generative Social Agents and Humans: The Knowledge-based Persuasion Model (KPM)`: Rank rose by +2
+- **[Rank Rise]** `Referential Regimes: Transformation-Invariant Identity for Neutral Substrates`: Rank rose by +2
+- **[Rank Rise]** `Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models`: Rank rose by +2
+- **[Rank Rise]** `BiasLab: A Multilingual Dual-Framing Framework for LLM Bias Measurement, Applied to Workplace and HR Contexts`: Rank rose by +2
+- **[Rank Rise]** `MixFlow Training: Alleviating Exposure Bias with Slowed Interpolation Mixture`: Rank rose by +2
+- **[Rank Rise]** `Emotion Recognition in Signers`: Rank rose by +2
+- **[Rank Rise]** `The Theory of Strategic Evolution: Games with Endogenous Players and Strategic Replicators`: Rank rose by +2
+- **[Rank Rise]** `Improving Topic Modeling of Social Media Short Texts with Rephrasing: A Case Study of COVID-19 Related Tweets`: Rank rose by +2
+- **[Rank Rise]** `People use fast and flat simulation to reason about new games`: Rank rose by +2
+- **[Rank Rise]** `Toward Autonomous Soft Robotic Endovascular Navigation via Imitation Learning`: Rank rose by +2
+- **[Rank Rise]** `TENET: One Step Toward Test-Driven Development for Repository-Level Code Generation`: Rank rose by +2
+- **[Rank Rise]** `PiCSAR: Probabilistic Confidence Selection And Ranking for Reasoning Chains`: Rank rose by +2
+- **[Rank Rise]** `SWE-MERA: A Dynamic Benchmark for Agenticly Evaluating Large Language Models on Software Engineering Tasks`: Rank rose by +2
+- **[Rank Rise]** `Can Argus Judge Them All? Comparing VLMs Across Domains`: Rank rose by +2
+- **[Rank Rise]** `Training-Free, Identity-Preserving Image Editing for Fashion Pose Alignment and Normalization`: Rank rose by +2
+- **[Rank Rise]** `Asynchronous Perception Machine For Efficient Test-Time-Training`: Rank rose by +2
+- **[Rank Rise]** `On Occlusions in Video Action Detection: Benchmark Datasets And Training Recipes`: Rank rose by +2
+- **[Rank Rise]** `Profiling and Evolution of Intellectual Property`: Rank rose by +2
+- **[Rank Rise]** `Research on Cross-media Science and Technology Information Data Retrieval`: Rank rose by +2
+- **[Rank Rise]** `FARS: A Fully Automated Research System Deployed at Scale`: Rank rose by +2
+- **[Rank Rise]** `Characterizing Large Language Model Agentic Workflows: A Study on N8n Ecosystem`: Rank rose by +2
+- **[Rank Rise]** `NormAct: A Benchmark for Hidden Social Norm Compliance in Embodied Planning`: Rank rose by +2
+- **[Rank Rise]** `Severity-Aware Curriculum Learning with Multi-Model Response Selection for Medical Text Generation`: Rank rose by +2
+- **[Rank Rise]** `MindClaw: Closed-Loop Embodied Mental-State Reasoning for Precision Intervention`: Rank rose by +2
+- **[Rank Rise]** `EmbodiSkill: Skill-Aware Reflection for Self-Evolving Embodied Agents`: Rank rose by +2
+- **[Rank Rise]** `A Low-Latency Fraud Detection Layer for Detecting Adversarial Interaction Patterns in LLM-Powered Agents`: Rank rose by +2
+- **[Rank Rise]** `Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs`: Rank rose by +2
+- **[Rank Rise]** `GrandCode: Achieving Grandmaster Level in Competitive Programming via Agentic Reinforcement Learning`: Rank rose by +2
+- **[Rank Rise]** `Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents`: Rank rose by +2
+- **[Rank Rise]** `When Sensing Varies with Contexts: Context Probing for Tactile Few-Shot Class-Incremental Learning`: Rank rose by +2
+- **[Rank Rise]** `Where Experts Disagree, Models Fail: Detecting Implicit Legal Citations in French Court Decisions`: Rank rose by +2
+- **[Rank Rise]** `FIRE-Bench: Evaluating AI Agents on the Rediscovery of Scientific Insights`: Rank rose by +2
+- **[Rank Rise]** `BizFinBench.v2: Towards Reliable LLMs in Finance via Real-User Data and Offline/Online Bilingual Evaluation`: Rank rose by +2
+- **[Rank Rise]** `Do Implicit Personalization and Explicit Styles Conflict? PsPLUG: A Lightweight Plug-in for Balancing Personalization and Style in Customized LLMs`: Rank rose by +2
+- **[Rank Rise]** `Mini Amusement Parks (MAPs): A Testbed for Modelling Business Decisions`: Rank rose by +2
+- **[Rank Rise]** `InqEduAgent: Adaptive AI Learning Partners with Gaussian Process Augmentation`: Rank rose by +2
+- **[Rank Rise]** `LLM-Driven Collaborative Model for Untangling Commits via Explicit and Implicit Dependency Reasoning`: Rank rose by +2
+- **[Rank Rise]** `Trojan Horse Prompting: Jailbreaking Conversational Multimodal Models by Forging Assistant Message`: Rank rose by +2
+- **[Rank Rise]** `Metacognition in LLMs: Foundations, Progress, and Opportunities`: Rank rose by +2
+- **[Rank Rise]** `Evidence-Backed Video Question Answering`: Rank rose by +2
+- **[Rank Rise]** `LoRA-Based Cascaded Multimodal Fusion for Action Recognition in Medical Training Environments`: Rank rose by +2
+- **[Rank Rise]** `MM-ToolSandBox: A Unified Framework for Evaluating Visual Tool-Calling Agents`: Rank rose by +2
+- **[Rank Rise]** `Introducing Human-Centeredness in AI-Assisted Lexicography`: Rank rose by +2
+- **[Rank Rise]** `Encoder-Side Neuron Identification and Amplification for Acoustic Perception in Large Audio-Language Models`: Rank rose by +2
+- **[Rank Rise]** `StoryTeller: Training-Free Narrative Grounding for Long-Form Audio Description`: Rank rose by +2
+- **[Rank Rise]** `Evaluating RE Practices for Explainability: Synthesizing Insights from Daimler Truck into an Explainable RE Framework Proposal`: Rank rose by +2
+- **[Rank Rise]** `An Explainable Agentic System for Detection of Conversational Scams with Summary-Based Memory`: Rank rose by +2
+- **[Rank Rise]** `VoxENES 2026: Benchmarking Generalization of Speech Spoofing Detectors Against LLM-Era TTS and Voice Conversion`: Rank rose by +2
+- **[Rank Rise]** `Agent Hacks Agent: Autoresearch for Production-Agent Red-Teaming`: Rank rose by +2
+- **[Rank Rise]** `From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence`: Rank rose by +2
+- **[Rank Rise]** `RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM`: Rank rose by +2
+- **[Rank Rise]** `Closing the Loop: An Access-Control Architecture for Automated, Anomaly-Driven Network Revocation in IoT Deployments`: Rank rose by +2
+- **[Rank Rise]** `Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model`: Rank rose by +2
+- **[Rank Rise]** `Extending LLM Context via Associative Recurrent Memory`: Rank rose by +2
+- **[Rank Rise]** `Technical Report on the CVPR 2026@AdvML Workshop Challenge`: Rank rose by +2
+- **[Rank Rise]** `Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos`: Rank rose by +2
+- **[Rank Rise]** `Toward Inclusive Avatar Design with Limb Differences Through Artificial Intelligence`: Rank rose by +2
+- **[Rank Rise]** `See like a Robot: Robot-Centric Pointmaps for Vision-Language-Action Models`: Rank rose by +2
+- **[Rank Rise]** `LightMem-Ego: Your AI Memory for Everyday Life`: Rank rose by +2
+- **[Rank Rise]** `A Multimodal Dataset for Large Language Model Applications in the Energy Domain`: Rank rose by +2
+- **[Rank Rise]** `Uncertainty Quantification for EO Regression Tasks: Building Height, Tree Canopy Height and Above-ground Biomass Estimation`: Rank rose by +2
+- **[Rank Rise]** `Agentic Routing: The Harness-Native Data Flywheel`: Rank rose by +2
+- **[Rank Rise]** `A Glimpse into Long-term Physical Coexistence with Intelligent Robots`: Rank rose by +2
+- **[Rank Rise]** `Beyond Sally-Anne: Evaluating Theory of Mind in LLMs using Epistemic Schelling Points`: Rank rose by +2
+- **[Rank Rise]** `Understanding the Impact of AI Code Assistants on Security API Usage: An Empirical Study`: Rank rose by +2
+- **[Rank Rise]** `Longitudinal Multi-View Breast Cancer Risk Prediction`: Rank rose by +2
+- **[Rank Rise]** `Fail-Aware and Explainable Test Oracle Prediction`: Rank rose by +2
+- **[Rank Rise]** `Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis`: Rank rose by +2
+- **[Rank Rise]** `The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students`: Rank rose by +2
+- **[Rank Rise]** `Mako: A Self-Evolving Agentic Operating System (SE-AOS) for Autonomous Web Exploitation`: Rank rose by +2
+- **[Rank Rise]** `A Unified Framework for Comprehensive Cardiac CT Segmentation and Phenotyping: Human-in-the-Loop Data Annotation, Vision Foundation Model Development, Multicenter Evaluation and Clinical Validation`: Rank rose by +2
+- **[Rank Rise]** `Automated Textbook Auditing with Multi-Agent LLM Systems`: Rank rose by +2
+- **[Rank Rise]** `Towards Predictive, Aligned, and Scalable Robot Learning`: Rank rose by +2
+- **[Rank Rise]** `Enhancing LLMs through human feedback: a journey towards self-improvement`: Rank rose by +2
+- **[Rank Rise]** `Multi-Agent LLMs Fail to Explore Each Other`: Rank rose by +2
+- **[Rank Rise]** `An Empirical Study for GUI Test Migration from Android to OpenHarmony System`: Rank rose by +2
+- **[Rank Rise]** `DeepBias: Adaptive In-depth Probing of Social Biases in LVLMs`: Rank rose by +2
+- **[Rank Rise]** `HandFlow: Fully Generative 4D Hand Recovery with Flow Matching`: Rank rose by +2
+- **[Rank Rise]** `ProgramTab: Boosting Table Reasoning of LLMs via Programmatic Paradigm`: Rank rose by +2
+- **[Rank Rise]** `RepTran: Search-Based Repair of Transformer Models`: Rank rose by +2
+- **[Rank Rise]** `AMT-X: Phase-Structured Multi-Turn Red-Teaming with Checklist-Gated Evaluation`: Rank rose by +2
+- **[Rank Rise]** `BeatEdit: Symbolic Music Generation as Explicit Editing`: Rank rose by +2
+- **[Rank Rise]** `VIA: Visual Interface Agent for Robot Control`: Rank rose by +2
+- **[Rank Rise]** `MusicMark: A Robust Generative Watermarking Framework for Music Generation`: Rank rose by +2
+- **[Rank Rise]** `AgentCheck: A Reproduce-Intervene-Mitigate Workbench for LLM Agents over MCP`: Rank rose by +2
+- **[Rank Rise]** `Controlling Motion Transfer in Diffusion Transformers via Attention Heads`: Rank rose by +2
+- **[Rank Rise]** `Do Video-LLMs Actually Watch? Diagnosing Character-Tracking Failures in Long-Form Video`: Rank rose by +2
+- **[Rank Rise]** `Flout at Your Own Risk: LLMs Struggle with Pragmatic Cooperativity Under Epistemic Asymmetry`: Rank rose by +2
+- **[Rank Rise]** `BackendForge: Benchmarking Agentic End-to-End Code Generation with Backend Services`: Rank rose by +2
+- **[Rank Rise]** `Same Stories, Different Journeys: From Social Comparison to Sensemaking in AI-Mediated Peer Career Exploration`: Rank rose by +2
+- **[Rank Rise]** `SynCLIP: Synonym-Coherent Language-Image Pretraining for Robust Open-Vocabulary Dense Perception`: Rank rose by +2
+- **[Rank Rise]** `Affordance-Based Manipulation Planning with Text Goals and Sim-to-Real Generalisation via Real-to-Sim Image Conversion`: Rank rose by +2
+- **[Rank Rise]** `LoSA-Net: A Localized and Scale-Adaptive Network for Boundary-Sensitive Prediction of Perineural Invasion in 3D MRI`: Rank rose by +2
+- **[Rank Rise]** `Think When It Matters: Conditional VLM Reasoning for Social Navigation with RL Policies`: Rank rose by +2
+- **[Rank Rise]** `MMA-Former: Multi-Window Mixture-of-Head Attention Transformer for Adaptive PNI Prediction in 3D MRI`: Rank rose by +2
+- **[Rank Rise]** `Edge Physical AI Deployment of Vision Transformers on Heterogeneous Edge GPU Targeting Autonomous Vehicles`: Rank rose by +2
+- **[Rank Rise]** `The Nuts and Bolts of Natural Language to SQL Translation: A Systematic Analysis of Model Pipeline Optimisation Approaches and their Interactions`: Rank rose by +2
+- **[Rank Rise]** `How Do Practitioners Build SE Agents? Insights from a Mixed-Methods Study`: Rank rose by +2
+- **[Rank Rise]** `3D-DefectBench: A Controlled Factorial Study of Vision-Language Model Evaluation Pipelines for Fine-Grained 3D Generation Defects`: Rank rose by +2
+- **[Rank Rise]** `Auditing Belief-Conditioned LLM Agents in Hidden-Information Social Deduction Games`: Rank rose by +2
+- **[Rank Rise]** `Distributed Agent System: Fault-Tolerant Collaboration Among Embodied Agents`: Rank rose by +2
+- **[Rank Rise]** `Abstractiveness Metrics for Evaluating Text Summarization: A Refined Formulation with Empirical Validation`: Rank rose by +2
+- **[Rank Rise]** `A Corpus of Persuasion Techniques in Slavic Languages`: Rank rose by +2
+- **[Rank Rise]** `Distributed Denial of Science: How Indirect Data Poisoning of AI Systems Can Industrialize Scientific Fraud`: Rank rose by +2
+- **[Rank Rise]** `PromptGraph: Graph-Guided Prompt Sanitization for Balancing Privacy and Utility in LLM Inference`: Rank rose by +2
+- **[Rank Rise]** `Commenting with Copilot: A Taxonomy and Multi-Year Analysis of Student Code-Generation Specifications`: Rank rose by +2
+- **[Rank Rise]** `Unlocking Parallelism in Autoregressive Language Models via Speculative Decoding with Progressive Tree Drafting`: Rank rose by +2
+- **[Rank Rise]** `Coverage Path Planning: Classical Foundations, Recent Advances, and Future Directions`: Rank rose by +2
+- **[Rank Rise]** `World Models as Adversaries: Multi-Agent Self-Play Fine-Tuning for Robust Motion Planning`: Rank rose by +2
+- **[Rank Rise]** `Anamnesis: An Open-Source Platform for Large-Scale Backstory-Conditioned Survey Simulation`: Rank rose by +2
+- **[Rank Rise]** `WasteAssistant: Regulation-Guided Visual Question Answering Framework for Intelligent Waste Segregation and Sustainable Managemen`: Rank rose by +2
+- **[Rank Rise]** `DiffUE: Enhancing Utility-Unlearnability Trade-off of Unlearnable Examples via Diffusion Autoencoders`: Rank rose by +2
+- **[Rank Rise]** `Tool-Adaptive LLM Reranker`: Rank rose by +2
+- **[Rank Rise]** `Motif: Discovering and Automating Personal Web Workflows`: Rank rose by +2
+- **[Rank Rise]** `Towards Autonomous and Auditable Medical Imaging Model Development`: Rank rose by +2
+- **[Rank Rise]** `Confining Nondeterminism: AI-Driven Research Systems as DBMSs for Reliable, Non-Wasteful, Transparent, and Collaborative Research [Vision]`: Rank rose by +2
+- **[Rank Rise]** `Temporary Authority, Permanent Effects: Commit-Time Authorization for LLM Agents`: Rank rose by +2
+- **[Rank Rise]** `Annotation-Free Furniture Codes: What They Encode, and How Far They Transfer`: Rank rose by +2
+- **[Rank Rise]** `Learning the Brain's Dynamics as a Port-Hamiltonian System`: Rank rose by +2
+- **[Rank Rise]** `Mitigating LLM Sycophancy in Code Smell Detection Using Evidence-Guided Reasoning Prompts`: Rank rose by +2
+- **[Rank Rise]** `Spatula: Exploring On-Demand In-Situ Interfaces and Interaction for Attribute Control`: Rank rose by +2
+- **[Rank Rise]** `Large Language Models in Misinformation Ecosystems: Misuse, Defense, and Vulnerability`: Rank rose by +2
+- **[Rank Rise]** `SynthDocBench: Controlled Benchmark for Long-Context Visual Document Understanding`: Rank rose by +2
+- **[Rank Rise]** `A Stepwise Questioning Expert-Editor Multi-Agent Framework for Long-Document Summarization`: Rank rose by +2
+- **[Rank Rise]** `The evolution of AI from image interpretation toward scientific inference in nanoparticle electron microscopy`: Rank rose by +2
+- **[Rank Rise]** `Structured Thoughts For Improved Reasoning And Context Pruning`: Rank rose by +2
+- **[Rank Rise]** `ABot-N1: Toward a General Visual Language Navigation Foundation Model`: Rank rose by +2
+- **[Rank Rise]** `VINE: Taming Generative Control Policies for Reinforcement Learning`: Rank rose by +2
+- **[Rank Rise]** `Benchmarking the Robustness of Foundation Models for Mammography under Domain Shift`: Rank rose by +2
+- **[Rank Rise]** `GRC-ProbNet: Uncertainty-aware Feature Extraction for Cardiovascular Disease Classification`: Rank rose by +2
+- **[Rank Rise]** `From Stochastic to Stable: Rank Stability and Structural Sufficiency in AI Visibility Measurement`: Rank rose by +2
+- **[Rank Rise]** `Neutralizing Structural Inequality in the Nigerian FinTech Sector`: Rank rose by +2
+- **[Rank Rise]** `Polarization Detection: A Hybrid Approach with AfroXLMR-Social and DeBERTa for Low- and High-Resource Settings`: Rank rose by +2
+- **[Rank Rise]** `Program-Synthesis-Driven Autodesign of Universal Unitary Operators`: Rank rose by +2
+- **[Rank Rise]** `Partial Contracts Suffice: Sound, LLM-Inferred Regression Verification`: Rank rose by +2
+- **[Rank Rise]** `PhenoEmbed: Self-Supervised Multispectral UAV Time-Series Embeddings for Individual Tree Crown Phenology`: Rank rose by +2
+- **[Rank Rise]** `Source-Lifted Flow Matching for Intervenable Multimodal Imitation`: Rank rose by +2
+- **[Rank Rise]** `Comparing Socially-Equitable Renewable Energy Budget Allocation MDP Policies in Mature and Emerging Economies`: Rank rose by +2
+- **[Rank Rise]** `Instruction Set and Language for Hypergraphs`: Rank rose by +2
+- **[Rank Rise]** `Breaking the Quality--Intelligibility Trade-off in Streaming Target Speaker Extraction via Deep-Feature-Anchored Preference Optimization`: Rank rose by +2
+- **[Rank Rise]** `ActiveFly-Bench: Aligning Embodied Question Answering with Vision-Language-Action for Aerial Embodied Perception`: Rank rose by +2
+- **[Rank Rise]** `Transcript-Free Lightweight Detection of Alzheimer's Disease from Spontaneous Speech Using Handcrafted MFCC-Dominant Acoustic Biomarkers`: Rank rose by +2
+- **[Rank Rise]** `EmoStyle: Affective Conditioning of Style-Specialist Experts for Emotional Image Generation`: Rank rose by +2
+- **[Rank Rise]** `FlowPainter: Inpainting Optical Flow via Confidence-Guided Completion`: Rank rose by +2
+- **[Rank Rise]** `ML in a Box: Analyzing Containerization Practices in Open Source ML Projects`: Rank rose by +2
+- **[Rank Rise]** `A Large-Scale Dataset of MCP Implementations on GitHub`: Rank rose by +2
+- **[Rank Rise]** `Minionese: Comprehensive Benchmark and Mechanistic Study of Multilingual LLM Safety`: Rank rose by +2
+- **[Rank Rise]** `Efficiently Adapting Spoken Language Models for the Singaporean Context`: Rank rose by +2
+- **[Rank Rise]** `Quantum Circuit Vision: Cost-Aware Evaluation of Visual AI Agents for Quantum Code Generation`: Rank rose by +2
+- **[Rank Rise]** `Geometric mean-based pairwise comparison method with the reference values -- statistical approach`: Rank rose by +2
+- **[Rank Rise]** `FindMyText: Robust, Scalable Detection of Text Containment in Large Web-Crawled Corpora`: Rank rose by +2
+- **[Rank Rise]** `An LLM-powered Agentic Recommendation System for Connected TV Content Discovery`: Rank rose by +2
+- **[Rank Rise]** `A Production-Oriented Framework for Evaluation of SFX Generation`: Rank rose by +2
+- **[Rank Rise]** `Workload-Driven Optimization for On-Device Real-Time Subtitle Translation`: Rank rose by +2
+- **[Rank Rise]** `Faithful by Design: Evaluating and Improving LLM-Generated Clinical Trial Summaries for Multi-Stakeholder Audiences`: Rank rose by +2
+- **[Rank Rise]** `Do These Violent Delights Have Violent Ends? Measuring the Post-Merge Fate of Agentic Code`: Rank rose by +2
+- **[Rank Rise]** `Next-Dense-Stride Prediction for Multimodal Autoregressive Visual Modeling`: Rank rose by +2
+- **[Rank Rise]** `What You Train Is What You Get: Gender Bias, Training Composition, and Post-Hoc Mitigation in Audio Deepfake Detection`: Rank rose by +2
+- **[Rank Rise]** `CLIR-Bench: Benchmarking Multimodal Question Answering over Irregular Clinical Time Series`: Rank rose by +2
+- **[Rank Rise]** `Prompting-MammAlps: Fine-Grained Text-to-Video Retrieval for Camera-Trap Data`: Rank rose by +2
+- **[Rank Rise]** `Robo-ValueRL: Reliable Value Estimation for Offline-to-Online Reinforcement Learning`: Rank rose by +2
+- **[Rank Rise]** `Towards Objective Dysgraphia Detection: A Multi-Branch Deep Learning Approach for Online Handwriting Analysis`: Rank rose by +2
+- **[Rank Rise]** `More Structure, Not More Capacity: Object-Centric Representations for Visuomotor Imitation Learning`: Rank rose by +2
+- **[Rank Rise]** `Memory-Conditioned Tool Calling for Camera-First Visual Agents`: Rank rose by +2
+- **[Rank Rise]** `TS-Mask VLA: 2D Temporal-Spatial Masking for Vision-Language-Action Model with Effective Bridging`: Rank rose by +2
+- **[Rank Rise]** `An Autonomous Scientific Knowledge Generation Framework for AI-Driven Scientific Discovery`: Rank rose by +2
+- **[Rank Rise]** `A Unified Model for Highly Accurate ECG-Free Dynamic Coronary Roadmapping Using Spatio-Temporal Transformers`: Rank rose by +2
+- **[Rank Rise]** `Trivial Prompt Reframing Bypasses Safety Guardrails in Google\'s MedGemma-4B`: Rank rose by +2
+- **[Rank Rise]** `Large Multimodal Model-Based Environment-Aware Mobility Management`: Rank rose by +2
+- **[Rank Rise]** `A Comprehensive Survey and Systematic Real-World Evaluation of Embodied Vision-and-Language Navigation`: Rank rose by +2
+- **[Rank Rise]** `Lifelong Representations: A Survey on Continual Self-Supervised Learning for Vision Models`: Rank rose by +2
+- **[Rank Rise]** `Maximizing Human Efficiency in Large-Scale Robot Post-Training via VLAC-Cut Guided Pipeline`: Rank rose by +2
+- **[Rank Rise]** `Listen to the Features: Voice Anonymization Driven by Content Embedding Matching over Signal Reconstruction`: Rank rose by +2
+- **[Rank Rise]** `OmniSCS: Omni Safety-Critical Scenario Synthesis for Autonomous Driving via a Fully Editable Driving World`: Rank rose by +2
+- **[Rank Rise]** `Physics-Informed Structure Anchoring With Capture-Aware Prototype Calibration for Cross-Environment RF Fingerprinting`: Rank rose by +2
+- **[Rank Rise]** `ReflectWorld-MM: An Entity-Oriented Multi-Media Memory System for Open-Ended Video Streams`: Rank rose by +2
+- **[Rank Rise]** `RSLoRA: Training-free Rank Allocation for LoRA via Representational Sensitivity Probing`: Rank rose by +2
+- **[Rank Rise]** `Data-Driven Forward and Inverse Modeling of V-Beam Thermal Sensors`: Rank rose by +2
+- **[Rank Rise]** `SWIFT: A Small-World Interaction Framework for Flow-Aware Trajectory Prediction in Autonomous Driving`: Rank rose by +2
+- **[Rank Rise]** `The Universal Language of CSI:Unifying Wireless Sensing Across Devices and Environments`: Rank rose by +2
+- **[Rank Rise]** `The Ramanujan Challenge For AI`: Rank rose by +2
+- **[Rank Rise]** `Reverse Engineering Compliance: A Dual-Graph Verification Framework for Auditing Legacy IT Security Concepts`: Rank rose by +2
+- **[Rank Rise]** `Playful AI in Professional Email: A Field Experiment on Tone and Recipient Engagement`: Rank rose by +2
+- **[Rank Rise]** `Think Through a Bottleneck: Hourglass Reasoning for Rigorous Induction`: Rank rose by +2
+- **[Rank Rise]** `Interaction Scaling: Grounding the Third Axis of Test-Time Compute`: Rank rose by +2
+- **[Rank Rise]** `MAGIC: Transition-Aware Generation of Navigable Multi-Scene Game Worlds with Large Language Models`: Rank rose by +2
+- **[Rank Rise]** `HCRMap: Pressure-Aware Hot-Expert Residency Mapping for 3.5D MoE Chiplet Inference`: Rank rose by +2
+- **[Rank Rise]** `Comparative Analysis of GAT and BERT for Human-Like Playtesting`: Rank rose by +2
+- **[Rank Rise]** `Enhancing Query Efficiency for d-DNNF Representations Through Preprocessing`: Rank rose by +2
+- **[Rank Rise]** `The Ebb and Flow of Multimodal Focus: Scheduling Visual Relay Windows for Grounded VLM Reasoning`: Rank rose by +2
+- **[Rank Rise]** `Omni-Decision: A Progressive Evidence-State Agent System for Omni-Modal QA`: Rank rose by +2
+- **[Rank Rise]** `OpsMem: Dual-Memory Reasoning with Cross-Memory Resonance for Failure Diagnosis`: Rank rose by +2
+- **[Rank Rise]** `From Neural Network Decisions to Training Cases: An Exact Account via Case-Based Decision Theory`: Rank rose by +2
+- **[Rank Rise]** `Compile, Then Page: Executable SOP Programs and a Capability-Gated Runtime for Procedural LLM Agents`: Rank rose by +2
+- **[Rank Rise]** `AutoVSR: Automatic Visual-to-Symbolic Reasoning for Symbolic Expression Generation from Circuit Schematic`: Rank rose by +2
+- **[Rank Rise]** `Verifier-Guided Twelve-Tone Composition: A Generate-Verify-Repair Harness for Symbolic Music Generation`: Rank rose by +2
+- **[Rank Rise]** `Calibrated e-CUSUM Decoding for Quantized Reasoning Models: Why Token Log-Probability Is the Wrong Observable for Decoding Monitors`: Rank rose by +2
+- **[Rank Rise]** `Efficient Test-Time Optimization for Multi-Agent Proof Autoformalization`: Rank rose by +2
+- **[Rank Rise]** `Valid $\ne$ Necessary: Diagnosing Latent Inefficiency in Chain-of-Thought`: Rank rose by +2
+- **[Rank Rise]** `Heterogeneous Agent Cohorts for Safe Open-Ended Exploration with Runtime Constraint Memory`: Rank rose by +2
+- **[Rank Rise]** `What We Talk About When We Talk About LLM Planning: Evidence for Two Distinct Planning Abilities`: Rank rose by +2
+- **[Rank Rise]** `SCALECUA: Scaling Computer Use Agents with Verifiable Task Synthesis and Efficient Online RL`: Rank rose by +2
+- **[Rank Rise]** `The Path to Self-Evolving Clinical Systems: Scaling Medical Agents from Assistance to Autonomy`: Rank rose by +2
+- **[Rank Rise]** `The Hidden Footprint: Making Storage a First-Class Metric for LLM Agent Evaluation`: Rank rose by +2
+- **[Rank Rise]** `NextFund: A Unified Performance Tracking Platform for Agentic Portfolio Management`: Rank rose by +2
+- **[Rank Rise]** `OS-Pruner: Pruning Chains-of-Thought of Reasoning Models via Optimal Stopping`: Rank rose by +2
+- **[Rank Rise]** `NVAITC AI Scientist: A Governed End-to-End Research System -- A Hypertension GWAS Case Study`: Rank rose by +2
+- **[Rank Rise]** `Are LLMs Ready for Scientific Discovery? A Capability-Oriented Benchmark for AI Scientists`: Rank rose by +2
+- **[Rank Rise]** `AdvNav: Behavior-Guided Black-Box Adversarial Attacks on Vision-Language Navigation`: Rank rose by +2
+- **[Rank Rise]** `QwenPaw-Data: Bridging Facts, Methodology, and Execution for Autonomous Enterprise Data Analytics`: Rank rose by +2
+- **[Rank Rise]** `From Checker to Forecaster: Code-Owned Evaluation of Model-Generated Strategic Routes Under Delayed Ground Truth`: Rank rose by +2
+- **[Rank Rise]** `SVR-R1: Bootstrapping Multi-modal Reasoning with Self-verification in Reinforcement Learning`: Rank rose by +2
+- **[Rank Rise]** `Learning Linear Temporal Specifications from Demonstrations with Uncertainty`: Rank rose by +2
+- **[Rank Rise]** `Incremental Transformer for Surrogate-Based Inverse Design of Geopolymer Mixtures`: Rank rose by +2
+- **[Rank Rise]** `SETA: Scaling Environments for Terminal Agents`: Rank rose by +2
+- **[Rank Rise]** `First-Order Modal Logic in HOL: Deep and Shallow Embeddings with Automated Faithfulness (Extended Preprint)`: Rank rose by +2
+- **[Rank Rise]** `LOGOS: A Living Logic for AI Agent Teams That Evolve With Humans`: Rank rose by +2
+- **[Rank Rise]** `Toward Contemplative LLM: A Modular Framework for Evaluating and Enhancing LLM Alignment in Mental Health`: Rank rose by +2
+- **[Rank Rise]** `STEC: Evidence Compression for Deep Search in Open-domain Multi-Hop QA`: Rank rose by +2
+- **[Rank Rise]** `Imaging-101: Benchmarking LLM Coding Agents on Scientific Computational Imaging`: Rank rose by +2
+- **[Rank Rise]** `Opti-Agent-Bench: Benchmarking End-to-End Optimization R&D Agents on Real-World Business Problems`: Rank rose by +2
+- **[Rank Rise]** `Personalized Emotional Intelligence in Generative AI through Symbolic Affective Reasoning`: Rank rose by +2
+- **[Rank Rise]** `Embark Now: User Demand Oriented Framework for Multi-day Urban Travel Itinerary Planning`: Rank rose by +2
+- **[Rank Rise]** `The Compliance Trap: Diagnosing How AI Agents Consume Conflicting Memory`: Rank rose by +2
+- **[Rank Rise]** `Agentic-DPO: From Imitation to Agentic Policy Optimization on Expert Trajectories`: Rank rose by +2
+- **[Rank Rise]** `MRUF: Multi-granularity Routing with Uncertainty-Aware Fusion for Robust Multimodal Sentiment Analysis`: Rank rose by +2
+- **[Rank Rise]** `Constraint-Aware Hierarchical Search for Regulation-Driven Fine-Grained Classification`: Rank rose by +2
+- **[Rank Rise]** `Laguerre Geometry for Interpreting Large Language Models`: Rank rose by +2
+- **[Rank Rise]** `CRiT-QA: Evaluating Multi-hop Reasoning with Counterfactual Chains and Distractor Traps`: Rank rose by +2
+- **[Rank Rise]** `Large language model agents accelerate inverse design of metal-organic frameworks for gas separation`: Rank rose by +2
+- **[Rank Rise]** `AI YOU Town: Make Friends and Money with Your Digital Twin`: Rank rose by +2
+- **[Rank Rise]** `Agents Don't Just Agree, They Remember: Benchmarking Persistent Sycophancy in Stateful Personal Agents`: Rank rose by +2
+- **[Rank Rise]** `GRASP: GRanularity-Aware Search Policy for Agentic RAG`: Rank rose by +2
+- **[Rank Rise]** `ANCHOR: Automated Alignment Auditing for CLI Agents on Real-World Harm`: Rank rose by +2
+- **[Rank Rise]** `Co4ICF: Co-evolving Physics-Informed Surrogate and RL-based Pulse Optimizer for Inertial Confinement Fusion`: Rank rose by +2
+- **[Rank Rise]** `ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory`: Rank rose by +2
+- **[Rank Rise]** `Comparing Socio-technical Design Principles with Guidelines for Human-centered AI`: Rank rose by +2
+- **[Rank Rise]** `Measure the Sim-to-Real Gap: Designing an Affordable Real-World Benchmark Platform for Reinforcement Learning in AIoT Systems`: Rank rose by +2
+- **[Rank Rise]** `SPARK: Susceptibility-Guided Profiling and Steering of Latent Reasoning States in Large Language Models`: Rank rose by +2
+- **[Rank Rise]** `Can Agentic Trading Systems Pay for Their Own Intelligence?`: Rank rose by +2
+- **[Rank Rise]** `Information-seeking failures of large language models in agentic clinical reasoning`: Rank rose by +2
+- **[Rank Rise]** `Behavioural Signatures of Risk-Sensitive Decision-Making in Large Language Models`: Rank rose by +2
+- **[Rank Rise]** `When Are Sparse Feature Interventions Actually Localized? Matched Evaluation for SAE-Based Safety Control`: Rank rose by +2
+- **[Rank Rise]** `KGCQual: An Interpretable Framework for Evaluating the Knowledge Graph Construction Quality from Text`: Rank rose by +2
+- **[Rank Rise]** `GRATE: Temporal Extensions for Inductive KG Foundation Models via Gated Rotary Attention`: Rank rose by +2
+- **[Rank Rise]** `UNIT: Unleash Large Language Models Potential for Graph Continual Learning`: Rank rose by +2
+- **[Rank Rise]** `IdeaTrail: Full-Process Agent Trajectories for Scientific Ideation`: Rank rose by +2
+- **[Rank Rise]** `Dynamic Agent Skills: A Lifecycle Survey and Taxonomy of Evolving Skill Libraries`: Rank rose by +2
+- **[Rank Rise]** `Looped State-Space Language Models with Adaptive Exit-State Selection`: Rank rose by +2
+- **[Rank Rise]** `MAG: A Web-Agent Benchmark and Harness for Multimodal Action and Guide Generation`: Rank rose by +2
+- **[Rank Rise]** `From ambiguous utterances to governed reuse classes: canonicalization, quotient invariance, and conditional decidability`: Rank rose by +2
+- **[Rank Rise]** `AgentAbstain: Do LLM Agents Know When Not to Act?`: Rank rose by +2
+- **[Rank Rise]** `Who&When Pro: Can LLMs Really Attribute Failures in AI Agents?`: Rank rose by +2
+- **[Rank Rise]** `TopoExplore: Topological Discrimination for Archive-Based Exploration`: Rank rose by +2
+- **[Rank Rise]** `Exploring Agentic Workflows for Generating High Quality Math Visual Aids`: Rank rose by +2
+- **[Rank Rise]** `Agentic Context Learning with Self-Discovered Specification`: Rank rose by +2
+- **[Rank Rise]** `Semantic Drift and the Stability of Operator Control in Reasoning-Class Decision Support Systems`: Rank rose by +2
+- **[Rank Rise]** `PHITSBench: an execution-scored benchmark for AI-assisted PHITS radiation-transport input generation using natural language`: Rank rose by +2
+- **[Rank Rise]** `From Patterns to Maze Structures: SMT-Based Path Synthesis and 2D/3D Construction`: Rank rose by +2
+- **[Rank Rise]** `Verification of Adaptive Agentic Controllers through Finite Rule Revision`: Rank rose by +2
+- **[Rank Rise]** `How Much Does Correctness Cost? Budgeted Placement of Strong Correctors in a Weak Multi-Agent Swarm`: Rank rose by +2
+- **[Rank Rise]** `BatteryLake: Agentic, Physics-Grounded Curation of Heterogeneous Battery Aging Data and Benchmarking`: Rank rose by +2
+- **[Rank Rise]** `LegalFarePlan: A Label-Setting Framework for Fare-Transparent Urban Rail Route Planning under Non-Additive Fare Rules`: Rank rose by +2
+- **[Rank Rise]** `Replicating Belief, Not Bits: Epistemic State Replication for Agentic Systems`: Rank rose by +2
+- **[Rank Rise]** `A Theory of Least Autonomy in AI`: Rank rose by +2
+- **[Rank Rise]** `Scaffolding the Strategist: Architecture-Dependent Reasoning Interventions in Hotelling Spatial Markets`: Rank rose by +2
+- **[Rank Rise]** `A Dynamic Scene Interaction Reasoning Framework for Scene-level Lane-Change Intention and Trajectory Prediction of Multiple Interacting Vehicles`: Rank rose by +2
+- **[Rank Rise]** `Coresets Before Score Sets: Evaluation-Unsupervised Prompt Subset Selection for LLM Benchmarks`: Rank rose by +2
+- **[Rank Rise]** `AGM-like Paraconsistent Partial Meet Abductive Expansion Operation`: Rank rose by +2
+- **[Rank Rise]** `Feedback-Coupled Memory Systems in Continuous Time`: Rank rose by +2
+- **[Rank Rise]** `Closed-Loop Control with Rule-Aligned Small Language Models and Multi-Agent Self-Correction`: Rank rose by +2
+- **[Rank Rise]** `The Verifier is the Curriculum: Execution-Gated Self-Distillation for Cross-Family Game Generation`: Rank rose by +2
+- **[Rank Rise]** `Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes`: Rank rose by +2
+- **[Rank Rise]** `From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation`: Rank rose by +2
+- **[Rank Rise]** `SUNTA: Hierarchical Video Prediction with Surprise-based Chunking`: Rank rose by +2
+- **[Rank Rise]** `Optimal scaling of MCMC algorithms: the Hamiltonian approach`: Rank rose by +2
+- **[Rank Rise]** `Freeform Preference Learning for Robotic Manipulation`: Rank rose by +2
+- **[Rank Rise]** `Safety from Honesty in a Disinterested AI Predictor`: Rank rose by +2
+- **[Rank Rise]** `Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction`: Rank rose by +2
+- **[Rank Rise]** `Betting on Moments: Legendre Jumper Martingales for Online Exchangeability Testing`: Rank rose by +2
+- **[Rank Rise]** `Let It Be Simple: One-Step Action Generation for Vision-Language-Action Models`: Rank rose by +2
+- **[Rank Rise]** `Branched Signature Kernel Solvers for ODEs with rough Single-Trajectory signals`: Rank rose by +2
+- **[Rank Rise]** `Community-Aware Vertex Ordering for Reference-Based Graph Compression: A Cross-Encoder Empirical Study`: Rank rose by +2
+- **[Rank Rise]** `Recursive Multi-Agent Systems`: Rank rose by +2
+- **[Rank Rise]** `Ideological Bias in LLMs' Economic Causal Reasoning`: Rank rose by +2
+- **[Rank Rise]** `Algorithm Selection with Zero Domain Knowledge via Text Embeddings`: Rank rose by +2
+- **[Rank Rise]** `Fairness Constraints in High-Dimensional Generalized Linear Models`: Rank rose by +2
+- **[Rank Rise]** `BARD: Bridging AutoRegressive and Diffusion Vision-Language Models Via Highly Efficient Progressive Block Merging and Stage-Wise Distillation`: Rank rose by +2
+- **[Rank Rise]** `SegWithU: Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation`: Rank rose by +2
+- **[Rank Rise]** `Rare Event Analysis via Stochastic Optimal Control`: Rank rose by +2
+- **[Rank Rise]** `StanceMoE: Mixture-of-Experts Architecture for Stance Detection`: Rank rose by +2
+- **[Rank Rise]** `An Empirical Recipe for Universal Phone Recognition`: Rank rose by +2
+- **[Rank Rise]** `Tokenization vs. Augmentation: A Systematic Study of Writer Variance in IMU-Based Online Handwriting Recognition`: Rank rose by +2
+- **[Rank Rise]** `An Approximate Graph Elicits Detonation Lattice`: Rank rose by +2
+- **[Rank Rise]** `Bilateral Trade Under Heavy-Tailed Valuations: Minimax Regret with Infinite Variance`: Rank rose by +2
+- **[Rank Rise]** `Context-Dependent Affordance Computation in Vision-Language Models`: Rank rose by +2
+- **[Rank Rise]** `MetaState: Persistent Working Memory Enhances Reasoning in Discrete Diffusion Language Models`: Rank rose by +2
+- **[Rank Rise]** `Precedence-Constrained Decision Trees and Coverings`: Rank rose by +2
+- **[Rank Rise]** `Bures-Wasserstein Importance-Weighted Evidence Lower Bound: Exposition and Applications`: Rank rose by +2
+- **[Rank Rise]** `FineInstructions: Scaling Synthetic Instructions to Pre-Training Scale`: Rank rose by +2
+- **[Rank Rise]** `PUMA: Perception-driven Unified Foothold Prior for Mobility Augmented Quadruped Parkour`: Rank rose by +2
+- **[Rank Rise]** `Reinforcement Learning in the Real World: A Survey of Statistical Challenges and Future Directions`: Rank rose by +2
+- **[Rank Rise]** `Accelerated MR Elastography Using Learned Neural Network Representation`: Rank rose by +2
+- **[Rank Rise]** `Self-Creating Random Walks for Decentralized Learning under Pac-Man Attacks`: Rank rose by +2
+- **[Rank Rise]** `NMIRacle: Multi-modal Generative Molecular Elucidation from IR and NMR Spectra`: Rank rose by +2
+- **[Rank Rise]** `An Elementary Proof of the Near Optimality of LogSumExp Smoothing`: Rank rose by +2
+- **[Rank Rise]** `Graph-Based Bayesian Optimization for Quantum Circuit Architecture Search with Uncertainty Calibrated Surrogates`: Rank rose by +2
+- **[Rank Rise]** `On the Condition Number Dependency in Bilevel Optimization`: Rank rose by +2
+- **[Rank Rise]** `SPQR: A Multi-Dimensional Benchmark for Safety Alignment under Benign Model Adaptation`: Rank rose by +2
+- **[Rank Rise]** `Towards Blind Lens Aberration Correction via Large LensLib Pre-training and Discrete Degradation Priors`: Rank rose by +2
+- **[Rank Rise]** `Online conformal inference with retrospective adjustment for faster adaptation to distribution shift`: Rank rose by +2
+- **[Rank Rise]** `Redundancy Maximization as a Principle of Associative Memory Learning in Hopfield Networks`: Rank rose by +2
+- **[Rank Rise]** `Monitoring the calibration of probability forecasts with an application to concept drift detection involving image classification`: Rank rose by +2
+- **[Rank Rise]** `Oracle-Efficient Combinatorial Semi-Bandits`: Rank rose by +2
+- **[Rank Rise]** `Survival of the fittest Cox model: Pivotal variable selection for time-to-event data`: Rank rose by +2
+- **[Rank Rise]** `Learnable Mixed Nash Equilibria are Collectively Rational`: Rank rose by +2
+- **[Rank Rise]** `Exact Dynamics of Multi-class Stochastic Gradient Descent`: Rank rose by +2
+- **[Rank Rise]** `Efficient Group Lasso Regularized Rank Regression with Simulation-Based Tuning`: Rank rose by +2
+- **[Rank Rise]** `Maximum diversity and weighting for invariants of periodic time series`: Rank rose by +2
+- **[Rank Rise]** `Forecasting Generative Amplification`: Rank rose by +2
+- **[Rank Rise]** `Likelihood Matching for Diffusion Models`: Rank rose by +2
+- **[Rank Rise]** `Detecting and measuring respiratory events in horses during exercise with a microphone: deep learning vs. standard signal processing`: Rank rose by +2
+- **[Rank Rise]** `funOCLUST: Clustering Functional Data with Outliers`: Rank rose by +2
+- **[Rank Rise]** `Neural Human Pose Prior`: Rank rose by +2
+- **[Rank Rise]** `Generalized and Unified Equivalences between Hardness and Pseudoentropy`: Rank rose by +2
+- **[Rank Rise]** `Gaussian Invariant Markov Chain Monte Carlo`: Rank rose by +2
+- **[Rank Rise]** `Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Understanding`: Rank rose by +2
+- **[Rank Rise]** `Parameter estimation for land-surface models using Neural Physics`: Rank rose by +2
+- **[Rank Rise]** `A Provably Convergent Plug-and-Play Framework for Stochastic Bilevel Optimization`: Rank rose by +2
+- **[Rank Rise]** `A computational model of infant sensorimotor exploration in the mobile paradigm`: Rank rose by +2
+- **[Rank Rise]** `Hyperflux: Pruning Reveals Importance`: Rank rose by +2
+- **[Rank Rise]** `Measuring AI Ability to Complete Long Software Tasks`: Rank rose by +2
+- **[Rank Rise]** `SpurLens: Automatic Detection of Spurious Cues in Multimodal LLMs`: Rank rose by +2
+- **[Rank Rise]** `Disentangling Feature Structure: A Mathematically Provable Two-Stage Training Dynamics in Transformers`: Rank rose by +2
+- **[Rank Rise]** `Low-dimensional adaptation of diffusion models: Convergence in total variation`: Rank rose by +2
+- **[Rank Rise]** `Big data approach to Kazhdan-Lusztig polynomials`: Rank rose by +2
+- **[Rank Rise]** `HiQA: A Hierarchical Contextual Augmentation RAG for Multi-Documents QA`: Rank rose by +2
+- **[Rank Rise]** `Interventions Against Machine-Assisted Statistical Discrimination`: Rank rose by +2
+- **[Rank Rise]** `Research on Intellectual Property Resource Profile and Evolution Law`: Rank rose by +2
+- **[Rank Rise]** `Bridging the Gap Between Latent and Explicit Reasoning with Looped Transformers`: Rank rose by +2
+- **[Rank Rise]** `Multi-Agent Routing as Set-Valued Prediction: A WildChat Benchmark and Cost-Aware Evaluation`: Rank rose by +2
+- **[Rank Rise]** `FAST: A Framework for Aligned Sampling and Training in Parallel Reinforcement Learning for Autonomous Driving`: Rank rose by +2
+- **[Rank Rise]** `Detecting Explanatory Insufficiency in Learned Representations: A Framework for Representational Vigilance`: Rank rose by +2
+- **[Rank Rise]** `The Injection Paradox: Brand-Level Suppression in Safety-Trained LLM Recommendations via RAG Context Injection`: Rank rose by +2
+- **[Rank Rise]** `Bootstrap Theory of Representational Emergence: Explanatory Insufficiency as a Driver of Representation Learning and World Models`: Rank rose by +2
+- **[Rank Rise]** `Online KL-Regularized Reinforcement Learning with Function Approximation under Misspecification`: Rank rose by +2
+- **[Rank Rise]** `IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning`: Rank rose by +2
+- **[Rank Rise]** `Revisiting Neural Processes via Fourier Transform and Volterra Series`: Rank rose by +2
+- **[Rank Rise]** `Student Capacity Moderates Knowledge Distillation Effectiveness: A Systematic Study Across ResNet Teacher-Student Pairs on CIFAR-10`: Rank rose by +2
+- **[Rank Rise]** `Prune, Update and Trim: Robust Structured Pruning for Large Language Models`: Rank rose by +2
+- **[Rank Rise]** `From Observed Viability to Internal Predictive Approximation: A Single-Subject Latent-Space Analysis of Gait Dynamics Under Occlusal Constraint`: Rank rose by +2
+- **[Rank Rise]** `Causal Foundation Models with Continuous Treatments`: Rank rose by +2
+- **[Rank Rise]** `Selective Safety Steering via Value-Filtered Decoding`: Rank rose by +2
+- **[Rank Rise]** `CTFusion: A CTF-based Benchmark for LLM Agent Evaluation`: Rank rose by +2
+- **[Rank Rise]** `COSMOS: Model-Agnostic Personalized Federated Learning with Clustered Server Models and Pseudo-Label-Only Communication`: Rank rose by +2
+- **[Rank Rise]** `Attribution-Guided Continual Learning for Large Language Models`: Rank rose by +2
+- **[Rank Rise]** `Retrieval with Multiple Query Vectors through Anomalous Pattern Detection`: Rank rose by +2
+- **[Rank Rise]** `Congestion-Aware Dynamic Axonal Delay for Spiking Neural Networks`: Rank rose by +2
+- **[Rank Rise]** `Observable Performance Does Not Fully Reflect Adaptive System Organization: A Multi-Level Analysis of Gait Dynamics Under Occlusal Constraint`: Rank rose by +2
+- **[Rank Rise]** `ACES: Who Tests the Tests? Leave-One-Out AUC Consistency for Code Generation`: Rank rose by +2
+- **[Rank Rise]** `Neural Collapse Dynamics: Depth, Activation, Regularisation, and Feature Norm Threshold`: Rank rose by +2
+- **[Rank Rise]** `Critical Damping as a Momentum Schedule: Multi-Seed Validation, a Hybrid Recipe, and an Exhaustive Negative Result on Surgical Layer Selection`: Rank rose by +2
+- **[Rank Rise]** `The Cost of Reasoning: Chain-of-Thought Induces Overconfidence in Vision-Language Models`: Rank rose by +2
+- **[Rank Rise]** `Simple Recipe Works: Vision-Language-Action Models are Natural Continual Learners with Reinforcement Learning`: Rank rose by +2
+- **[Rank Rise]** `ECoLAD: Selecting Anomaly Detectors for Automotive Deployment via Compute-Reduction Evaluation`: Rank rose by +2
+- **[Rank Rise]** `Local Message-Passing for Discrete Graph Generation`: Rank rose by +2
+- **[Rank Rise]** `First-Order Softmax Weighted Switching Gradient Method for Distributed Stochastic Minimax Optimization with Stochastic Constraints`: Rank rose by +2
+- **[Rank Rise]** `Autocorrelation effects in a stochastic-process model for solving two-armed bandit problems`: Rank rose by +2
+- **[Rank Rise]** `Dynamics of Learning under User Choice: Overspecialization and Peer-Model Probing`: Rank rose by +2
+- **[Rank Rise]** `Turbo Connection: Reasoning as Information Flow from Higher to Lower Layers`: Rank rose by +2
+- **[Rank Rise]** `SynthSAEBench: Evaluating Sparse Autoencoders on Scalable Realistic Synthetic Data`: Rank rose by +2
+- **[Rank Rise]** `Probabilistic Wind Power Forecasting with Tree-Based Machine Learning and Weather Ensembles`: Rank rose by +2
+- **[Rank Rise]** `Separation-Utility Pareto Frontier: An Information-Theoretic Characterization`: Rank rose by +2
+- **[Rank Rise]** `Disentangling Intrinsic Importance from Emergent Structure in Multi-Expert Orchestration`: Rank rose by +2
+- **[Rank Rise]** `CoGenCast: A Coupled Autoregressive-Flow Generative Framework for Time Series Forecasting`: Rank rose by +2
+- **[Rank Rise]** `Rethinking Zero-Shot Time Series Classification: From Task-specific Classifiers to In-Context Inference`: Rank rose by +2
+- **[Rank Rise]** `Explainability Methods for Hardware Trojan Detection: A Systematic Comparison`: Rank rose by +2
+- **[Rank Rise]** `SFO: Learning PDE Operators via Spectral Filtering`: Rank rose by +2
+- **[Rank Rise]** `HyperNet-Adaptation for Diffusion-Based Test Case Generation`: Rank rose by +2
+- **[Rank Rise]** `Multimodal rumor detection enhanced by external evidence and forgery features`: Rank rose by +2
+- **[Rank Rise]** `TimeSAE: Causal Sparse Decoding for Faithful Explanations of Black-Box Time Series Models`: Rank rose by +2
+- **[Rank Rise]** `BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning`: Rank rose by +2
+- **[Rank Rise]** `Stable On-Policy Distillation through Adaptive Target Reformulation`: Rank rose by +2
+- **[Rank Rise]** `From Confounding to Learning: Dynamic Service Fee Pricing on Third-Party Platforms`: Rank rose by +2
+- **[Rank Rise]** `CUDA-L2: Surpassing cuBLAS Performance for Matrix Multiplication through Reinforcement Learning`: Rank rose by +2
+- **[Rank Rise]** `Enhancing Adversarial Transferability through Block Stretch and Shrink`: Rank rose by +2
+- **[Rank Rise]** `Enabling Agents to Communicate Entirely in Latent Space`: Rank rose by +2
+- **[Rank Rise]** `Controllably Efficient Language Models`: Rank rose by +2
+- **[Rank Rise]** `CANDI: Hybrid Discrete-Continuous Diffusion Models`: Rank rose by +2
+- **[Rank Rise]** `OpenEM: Large-scale multi-structural 3D datasets for electromagnetic methods`: Rank rose by +2
+- **[Rank Rise]** `Enhancing Reasoning for Diffusion LLMs via Distribution Matching Policy Optimization`: Rank rose by +2
+- **[Rank Rise]** `Unveiling the Mechanisms of Multi-Hop Reasoning in Transformers via Identity Bridge`: Rank rose by +2
+- **[Rank Rise]** `Graph Optimization Foundation Model: Tokenizing Graph via A Language-Model Paradigm`: Rank rose by +2
+- **[Rank Rise]** `Beyond Slater's Condition in Online CMDPs with Stochastic and Adversarial Constraints`: Rank rose by +2
+- **[Rank Rise]** `A Data-Driven Interpolation Method on Smooth Manifolds via Diffusion Processes and Voronoi Tessellations`: Rank rose by +2
+- **[Rank Rise]** `Nested-ReFT: Efficient Reinforcement Learning for Large Language Model Fine-Tuning via Off-Policy Rollouts`: Rank rose by +2
+- **[Rank Rise]** `Beyond Na\"ive Prompting: Strategies for Improved Context-aided Forecasting with LLMs`: Rank rose by +2
+- **[Rank Rise]** `CRINN: Contrastive Reinforcement Learning for Approximate Nearest Neighbor Search`: Rank rose by +2
+- **[Rank Rise]** `Hyper-modal Imputation Diffusion Embedding with Dual-Distillation for Federated Multimodal Knowledge Graph Completion`: Rank rose by +2
+- **[Rank Rise]** `Memory Savings at What Cost? A Study of Alternatives to Backpropagation`: Rank rose by +2
+- **[Rank Rise]** `On the Necessity of Output Distribution Reweighting for Effective Class Unlearning`: Rank rose by +2
+- **[Rank Rise]** `Adaptive Reinforcement Learning for Unobservable Random Delays`: Rank rose by +2
+- **[Rank Rise]** `Efficient Q-Learning and Actor-Critic Methods for Robust Average-Reward Reinforcement Learning`: Rank rose by +2
+- **[Rank Rise]** `A Learning-Based Ansatz Satisfying Boundary Conditions in Variational Problems`: Rank rose by +2
+- **[Rank Rise]** `Riemannian Denoising Diffusion Probabilistic Models`: Rank rose by +2
+- **[Rank Rise]** `Meta-Dependence in Conditional Independence Testing`: Rank rose by +2
+- **[Rank Rise]** `Training Diagonal Linear Networks with Stochastic Sharpness-Aware Minimization`: Rank rose by +2
+- **[Rank Rise]** `Device-Cloud Collaborative LLM Inference with Multi-Modal, Multi-Task, Multi-Turn Conversations`: Rank rose by +2
+- **[Rank Rise]** `Disentangled Unsupervised Skill Discovery for Efficient Hierarchical Reinforcement Learning`: Rank rose by +2
+- **[Rank Rise]** `Training on Irrelevant States Implies Data Augmentation: Generalization in Contextual MDPs`: Rank rose by +2
+- **[Rank Rise]** `Constrained Reinforcement Learning for Safe Heat Pump Control`: Rank rose by +2
+- **[Rank Rise]** `Neural Active Learning Meets the Partial Monitoring Framework`: Rank rose by +2
+- **[Rank Rise]** `Distributionally Robust Reinforcement Learning with Interactive Data Collection: Fundamental Hardness and Near-Optimal Algorithms`: Rank rose by +2
+- **[Rank Rise]** `Randomized Confidence Bounds for Stochastic Partial Monitoring`: Rank rose by +2
+- **[Rank Rise]** `Federated Topic Model and Model Pruning Based on Variational Autoencoder`: Rank rose by +2
+- **[Rank Rise]** `Learning to Schedule in Parallel-Server Queues with Stochastic Bilinear Rewards`: Rank rose by +2
+- **[Rank Rise]** `A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation`: Rank rose by +2
+- **[Rank Rise]** `A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol`: Rank rose by +2
+- **[Rank Rise]** `Input-Aware Dynamic Backdoor Attack Against Quantum Neural Networks`: Rank rose by +2
+- **[Rank Rise]** `Paradoxes of Game Theoretic Equilibria and Price of Anarchy`: Rank rose by +2
+- **[Rank Rise]** `When Local Monitors Miss Compositional Harm: Diagnosing Distributed Backdoors in Multi-Agent Systems`: Rank rose by +2
+- **[Rank Rise]** `NeuralActuator: Neural Actuation Modeling for Robot Dynamics and External Force Perception`: Rank rose by +2
+- **[Rank Rise]** `$\mathtt{Q^2SAR}$: overcoming classical bottlenecks in drug discovery via quantum multiple kernel learning`: Rank rose by +2
+- **[Rank Rise]** `Self-Healing Visual Recovery for Autonomous Ground Vehicles Using Camera-Only Visual Odometry`: Rank rose by +2
+- **[Rank Rise]** `Diversified Multinomial Logit Contextual Bandits`: Rank rose by +2
+- **[Rank Rise]** `Imputation-free transformer learning enables robust Alzheimer's disease prediction and calibrated uncertainty quantification across heterogeneous clinical cohorts`: Rank rose by +2
+- **[Rank Rise]** `Reproducing human biases in route choice using large language models: Toward scalable behavioral modeling`: Rank rose by +2
+- **[Rank Rise]** `SKooP: Symmetric Koopman Predictions for Faster and More Generalizable Legged Robot Locomotion with Reinforcement Learning`: Rank rose by +2
+- **[Rank Rise]** `Lesioned Multimodal Language Models Reproduce Aphasic Picture-Naming Patterns`: Rank rose by +2
+- **[Rank Rise]** `Auditing the Risk Claims of Distributional Reinforcement Learning`: Rank rose by +2
+- **[Rank Rise]** `Globally Consistent Coloring Schemes for Language Identification`: Rank rose by +2
+- **[Rank Rise]** `Machine Learning-Based Reconstruction for Resistive Silicon Sensors`: Rank rose by +2
+- **[Rank Rise]** `Training-Free Off-Screen Player Imputation for Broadcast-Based Spatial Football Analytics`: Rank rose by +2
+- **[Rank Rise]** `Tropical Circuits with Scalar Multiplication Gates`: Rank rose by +2
+- **[Rank Rise]** `Adaptive Routing for Efficient Diffusion Transformer-Based PNI Prediction`: Rank rose by +2
+- **[Rank Rise]** `Learning Residual Kinematic Corrections for Continuous Neural Decoding via Reinforcement Learning`: Rank rose by +2
+- **[Rank Rise]** `Compound Interference Recognition for LR-FHSS Satellite IoT Uplinks via Multi-Domain Instance Fusion`: Rank rose by +2
+- **[Rank Rise]** `Towards Efficient Convolutional Neural Network for Embedded Hardware via Multi-Dimensional Pruning`: Rank rose by +2
+- **[Rank Rise]** `Climate-Invariant Conformal Prediction Intervals for Multi-Horizon Solar and Wind Forecasting`: Rank rose by +2
+- **[Rank Rise]** `StructAgent: Harness Long-horizon Digital Agents with Unified Causal Structure`: Rank rose by +2
+- **[Rank Rise]** `Decomposing Runtime, Kernel, and Quantization Speedups via a Matched FP16 Intermediate: A Hardware-Conditioned Case Study on Four NVIDIA RTX A5000 GPUs`: Rank rose by +2
+- **[Rank Rise]** `Characterising AI Models for Cataloguing`: Rank rose by +2
+- **[Rank Rise]** `Inter-Stop Energy Prediction and Causal Driver Quantification for Dual-Source Trolleybuses via a Time-Aware Tabular Deep Learning Architecture`: Rank rose by +2
+- **[Rank Rise]** `Backpropagation as a Nilpotent Linear System`: Rank rose by +2
+- **[Rank Rise]** `Fixed-Protocol Amortized MPS Tomography with Conformalized Predictive Uncertainty`: Rank rose by +2
+- **[Rank Rise]** `Long-Memory Reservoir Computing for Data-Scarce Dengue Forecasting`: Rank rose by +2
+- **[Rank Rise]** `Bringing Back Rule Induction to Fluid Intelligence Research? An Initial Validation of the ARC-AGI Benchmark in Humans`: Rank rose by +2
+- **[Rank Rise]** `LaGuadia: Language-Guided Adaptive Distillation from Pathology Foundation Models`: Rank rose by +2
+- **[Rank Rise]** `PREF-Gate: Provenance-Constrained Relational Evidence Fusion with Validation-Gated Selection for Graph Fraud Detection`: Rank rose by +2
+- **[Rank Rise]** `STAMP: Provenance-Guided Credit Assignment for Deep Search Agents`: Rank rose by +2
+- **[Rank Rise]** `Pix2Act: Image-Space Manipulation Policies with Equivariant Augmentation`: Rank rose by +2
+- **[Rank Rise]** `A Formal Hierarchical Architecture for Agentic Orchestration with Stack-Based Execution and Lazy Discovery`: Rank rose by +2
+- **[Rank Rise]** `Comparison-Based Ordinal Learning for Proactive Driving Risk Assessment`: Rank rose by +2
+- **[Rank Rise]** `Implicit Neural Networks as Static Controllers: Certificates and Performance Separation`: Rank rose by +2
+- **[Rank Rise]** `When cheap gradients fail: the measurement cost of attacking quantum classifiers`: Rank rose by +2
+- **[Rank Rise]** `MMRM: A Multiplex Multimodal Representation Model for Product Ranking in E-commerce Search`: Rank rose by +2
+- **[Rank Rise]** `Reference-Based Face Super-Resolution Using the Spatial Transformer`: Rank rose by +2
+- **[Rank Rise]** `Can a Language Model Learn Facts Continually in Its Weights?`: Rank rose by +2
+- **[Rank Rise]** `Overcoming Fourier Locking in Quantum Data Re-uploading Classifiers via Spectral Homotopy`: Rank rose by +2
+- **[Rank Rise]** `Actor-Critic Learning for Extended Mean Field Control with Deterministic Policies`: Rank rose by +2
+- **[Rank Rise]** `EquiFusion: Kinematics-Agnostic Human Motion Prediction via Equivariant Latent Diffusion`: Rank rose by +2
+- **[Rank Rise]** `CGS: Configurable Graph Summarization with Bounded Neighborhood Loss and Query Support`: Rank rose by +2
+- **[Rank Rise]** `Fast Whole-Brain, Geometry-Aware Functional Alignment for Cross-Subject Decoding`: Rank rose by +2
+- **[Rank Rise]** `Normative Alignment of Recommender Systems via Internal Label Shift`: Rank rose by +2
+- **[Rank Rise]** `ZoRRO: A Zero-Weight Personalized Recommender System for Scalable News Recommendation`: Rank rose by +2
+- **[Rank Rise]** `Transferable Implicit Solvent Machine Learning Potential for Drugs and Proteins Approaching Ab Initio Accuracy`: Rank rose by +2
+- **[Rank Rise]** `Diversify Diffusion with Temperature Sampling and Variance-Corrective Time Shifting`: Rank rose by +2
+- **[Rank Rise]** `Route, Communicate, and Reason: Gated Routing and Adaptive Depth for Efficient Multi-Agent Reasoning`: Rank rose by +2
+- **[Rank Rise]** `Large Language Models for Token-Efficient and Semantic-Preserving Opinion Summarization`: Rank rose by +2
+- **[Rank Rise]** `Diagnosing and Mitigating Thinking Collapse in On-Policy Self-Distillation`: Rank rose by +2
+- **[Rank Rise]** `Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis`: Rank rose by +2
+- **[Rank Rise]** `Toward Efficient Weakly Supervised Semantic Segmentation Using Only Low-Magnification Histopathological Images`: Rank rose by +2
+- **[Rank Rise]** `Lightning Fast Matching Dependency Discovery with Desbordante`: Rank rose by +2
+- **[Rank Rise]** `TOLiD: Bridging the Architecture Gap in Vision Foundation Model to LiDAR Pretraining via Token Lifting for Distillation`: Rank rose by +2
+- **[Rank Rise]** `Filtering Harmful Actions Isn't Enough: Phantom Transfer in Agentic SDF`: Rank rose by +2
+- **[Rank Rise]** `WattCouncil: Context-Aware Household Energy Scenario Generation With Governed LLMs`: Rank rose by +2
+- **[Rank Rise]** `MDQEC-QAS: Meta-Decoding for Quantum Error Correction with Hardware-Aware VQC Search and Confidence-Gated Recovery`: Rank rose by +2
+- **[Rank Rise]** `Action Map Policy: Learning 3D Closed-loop Manipulation via Pixel Classification`: Rank rose by +2
+- **[Rank Rise]** `Answer-Conditioned Chain-of-Thought Distillation for Few-Shot Industrial Vision with Small VLMs`: Rank rose by +2
+- **[Rank Rise]** `Edge Cluster Expansion with Radial Rotary Attention for Interatomic Potentials`: Rank rose by +2
+- **[Rank Rise]** `Learning Topological Quantum Phases from Limited Subsystems`: Rank rose by +2
+- **[Rank Rise]** `Demixing Sparse Signals from Nonlinear Observations using Generalized Non-convex Regularization`: Rank rose by +2
+- **[Rank Rise]** `End-to-End Real-Time Drone-Based Person Detection Framework Using Deep Learning`: Rank rose by +2
+- **[Rank Rise]** `Approximation of Analytic Functions by ReLU Neural Networks with Adjustable Depth and Width`: Rank rose by +2
+- **[Rank Rise]** `When Does Restricting a Coding Agent to execute_code Help? A Regime $\times$ Agent-Design Ablation`: Rank rose by +2
+- **[Rank Rise]** `BucketKD: A Safety-Aware Bucket-Based Knowledge Distillation Framework for End-to-End Motion Planning`: Rank rose by +2
+- **[Rank Rise]** `Observation-Level Watermarking and Detection for Tabular Data`: Rank rose by +2
+- **[Rank Rise]** `Projection-Domain Sensitivity Analysis of Vertebral DRRs Under Intrinsic Calibration Perturbation`: Rank rose by +2
+- **[Rank Rise]** `Beyond Looking Up, Try Looking Around: Harmonizing Global Structure and Local Consistency in Optimal Transport for Short Text Clustering`: Rank rose by +2
+- **[Rank Rise]** `RecRec: Recursive Refinement for Sequential Recommendation`: Rank rose by +2
+- **[Rank Rise]** `Representation Learning for Semiparametric Causal Mediation Analysis under No Essential Heterogeneity`: Rank rose by +2
+- **[Rank Rise]** `Cross-Layer Misalignment Detection in Agent Skills: A Progressive Loading-Aware Contrastive Learning Approach`: Rank rose by +2
+- **[Rank Rise]** `NetInjectBench: Benchmarking Indirect Prompt Injection in Tool-Using Large Language Model Agents for Network Operations`: Rank rose by +2
+- **[Rank Rise]** `Fast Data-Driven Modeling of Hydraulic Clutch Control Pressure with Latch-State Classification and Gaussian Process Regression`: Rank rose by +2
+- **[Rank Rise]** `Hallucination Detection in Large Language Models Using Diversion Decoding`: Rank rose by +2
+- **[Rank Rise]** `Toward Production-Ready Federated Learning in Healthcare: Privacy, Orchestration, and Governance in MLOps`: Rank rose by +2
+- **[Rank Rise]** `Integrating Background Knowledge for Scalable Causal Discovery`: Rank rose by +2
+- **[Rank Rise]** `Emergent Generalization by Representation Learning in Artificial Neural Networks`: Rank rose by +2
+- **[Rank Rise]** `Is Model Instability just Noise to be Tolerated or a Property that can be Managed?`: Rank rose by +2
+- **[Rank Rise]** `SPORT: Structure-Aware Prototype Disentanglement for Incomplete Multi-View Clustering`: Rank rose by +2
+- **[Rank Rise]** `TSCoNet: A Two-Stage Copula CNN-LSTM for Uncertainty-Aware Spatio-Temporal Forecasting`: Rank rose by +2
+- **[Rank Rise]** `TVT-PAPD: Pathology-Aware Prototype Distillation for Self-Supervised Whole Slide Image Classification`: Rank rose by +2
+- **[Rank Rise]** `Vertical Fusion: Condensing Internal Representations for Robust ViT Classification`: Rank rose by +2
+- **[Rank Rise]** `Stateful Worlds, Stateless Elasticity: Exact-State Serving for Interactive World Models`: Rank rose by +2
+- **[Rank Rise]** `Gradient-Skipping Relevance Propagation for Efficient Explainability of Vision Transformers`: Rank rose by +2
+- **[Rank Rise]** `Byzantine Accountability Without Consensus: Strong Eventual Consistency for Non-Associative, Stochastic, Robust Aggregation`: Rank rose by +2
+- **[Rank Rise]** `One Token Is Enough: Fingerprinting and Verifying Large Language Models from Single-Token Output Distributions`: Rank rose by +2
+- **[Rank Rise]** `One mechanism for many mental spaces: a shared router over a value slot in language models`: Rank rose by +2
+- **[Rank Rise]** `MeloBottleneck: Self-Supervised Melody Skeleton Extraction with a Latent Subsequence Bottleneck`: Rank rose by +2
+- **[Rank Rise]** `How much Data do We Need? Sequential Data Collection for Stochastic Programming`: Rank rose by +2
+- **[Rank Rise]** `BiLoG-Net: A Bi-Context Location-Guided Network for Breast Mass Segmentation and Malignancy Classification in Mammography`: Rank rose by +2
+- **[Rank Rise]** `Automated Tensor Scheduling for Hybrid CPU-GPU LLM Inference on Consumer Devices`: Rank rose by +2
+- **[Rank Rise]** `On the Efficiency of LoRA Fine-Tuning for Vision-Language-Action Models in Industrial Robotic Manipulation`: Rank rose by +2
+- **[Rank Rise]** `Cost of Reasoning in non-English Languages: A Case Study on Japanese`: Rank rose by +2
+- **[Rank Rise]** `Adaptive Model Compression (AMC): Saliency-Driven Resource Allocation for Ultra-Low-Power Transformer Inference`: Rank rose by +2
+- **[Rank Rise]** `DynaFilter: Cloud-driven Dynamic Filtering for Satellite Edge Intelligence`: Rank rose by +2
+- **[Rank Rise]** `Are We Ready for AI-Driven Discovery? AI Verification Before the Next Fundamental Physics Breakthrough`: Rank rose by +2
+- **[Rank Rise]** `Robustly Invertible Nonlinear Dynamics and the BiLipREN: From Inversion-Based Control to Generative Trajectory Modelling`: Rank rose by +2
+- **[Rank Rise]** `Local Multimodal Music Alignment from Global Supervision`: Rank rose by +2
+- **[Rank Rise]** `A Symbolic Neural CPU for Quantization-Simulated Writeback and Interpretable Program Execution`: Rank rose by +2
+- **[Rank Rise]** `Tokenizing Numerical and Embedding Features for LLM RecSys`: Rank rose by +2
+- **[Rank Rise]** `Runtime Safety Filtering for Learned Small UAS Separation Policies under GNSS Degradation`: Rank rose by +2
+- **[Rank Rise]** `Manifold Constrained Conformal Prediction for Spatial Events`: Rank rose by +2
+- **[Rank Rise]** `Silent Failures in Quantized LLM Reasoning: A Taxonomy-Based Analysis of Hollow Convergence and Failure Mode Shifts`: Rank rose by +2
+- **[Rank Rise]** `Beyond Bayesian Nash: Learning Minimax-Regret Equilibria for Adversarial Team Games under Asymmetric Information`: Rank rose by +2
+- **[Rank Rise]** `Inverse-IMPRESSION: A Graph-based Platform for Molecular Structure Elucidation from Experimental NMR Spectroscopic Properties`: Rank rose by +2
+- **[Rank Rise]** `A Knowledge-Based Multi-Agent Framework for Security Control Recommendation`: Rank rose by +2
+- **[Rank Rise]** `Artificial Intelligence Across the Cardiac Amyloidosis Diagnostic Pathway: From Single-Modality Detection to Multimodal Clinical Integration`: Rank rose by +2
+- **[Rank Rise]** `Learning Partition Trees for Nearest Neighbor Search`: Rank rose by +2
+- **[Rank Rise]** `Depth-Efficient Quantum Topological Data Analysis for Regime-Specific Detection of Financial Stress`: Rank rose by +2
+- **[Rank Rise]** `When Classical Baselines Are Tuned as Carefully as the Quantum Model, Does Quantum Reservoir Computing Still Win?`: Rank rose by +2
+- **[Rank Rise]** `An End-to-End Hybrid Quantum--Classical Sampling Workflow for Discrete Markov Random Fields: A Reproducible Case Study`: Rank rose by +2
+- **[Rank Rise]** `ShapKO: Shapley-Adaptive Modality Knockout for Robust Multimodal Learning`: Rank rose by +2
+- **[Rank Rise]** `Generative Testing of Automated Speech Recognition Systems`: Rank rose by +2
+- **[Rank Rise]** `CHM-Net: Center Heatmap-driven Macro-Micro Modeling Network for MRI-based Microbial Density Stratification`: Rank rose by +2
+- **[Rank Rise]** `MVMGNN;Multi-View Masked Graph Neural Network for Alzheimer's Disease Diagnosis using Structural MRI`: Rank rose by +2
+- **[Rank Rise]** `Adversarially Guided Diffusion for LiDAR Range Image Synthesis`: Rank rose by +2
+- **[Rank Rise]** `Length Penalties Make Chain-of-Thought Less Monitorable`: Rank rose by +2
+- **[Rank Rise]** `Towards Real-World Wearable Motion Reconstruction`: Rank rose by +2
+- **[Rank Rise]** `EvoCUA-1.5: Online Reinforcement Learning for Multi-turn Computer-Use Agents`: Rank rose by +2
+- **[Rank Rise]** `A Risk-Field Enhanced Closed-Loop Digital Twin Framework for Autonomous Driving Safety Validation`: Rank rose by +2
+- **[Rank Rise]** `Norm Enforcement for AI Agents: Robustly Shaping Behavior in Multi-Agent Systems`: Rank rose by +2
+- **[Rank Rise]** `Knowledge-Constrained Shape Optimization with a Mixture-of-Experts Neural Operator for High-Confidence Design`: Rank rose by +2
+- **[Rank Rise]** `Cross-Subject Modeling for Widefield Calcium Imaging via Atlas-Aligned Spatiotemporal Tokenization`: Rank rose by +2
+- **[Rank Rise]** `Unified Backbone Refinement for Diffusion Models via Internal-Latent Analysis`: Rank rose by +2
+- **[Rank Rise]** `Task-Conditioned Synthetic Data Generation for Improving Machine Learning Performance in Agricultural Prediction Tasks`: Rank rose by +2
+- **[Rank Rise]** `MorphologyFM: A Foundation Model for Morphology-Aware Representation Learning from ECG and Pulse Oximetry Waveforms`: Rank rose by +2
+- **[Rank Rise]** `SupplyNetPy: An Open-Source Python Library for High-Fidelity Modeling and Simulation of Arbitrary Supply Chain and Inventory Networks`: Rank rose by +2
+- **[Rank Rise]** `Q-Score: A Quantum-Native Scoring Function for Molecular Docking`: Rank rose by +2
+- **[Rank Rise]** `Saturation-Aware Robust Trajectory Optimization for Reusable Launch Vehicles via Differentiable Physics`: Rank rose by +2
+- **[Rank Rise]** `GES-TSP: Graph Edge Sparsification for TSP`: Rank rose by +2
+- **[Rank Rise]** `YUKTI: From Natural-Language Situations to Robust, Verifiable Decisions An Uncertainty-Typed Proposition IR, Assumption-Robust Pareto Frontiers, and a Regret Certificate`: Rank rose by +2
+- **[Rank Rise]** `Model Collapse: On Recursion, Noise, and Uncharted Machine Visions`: Rank rose by +2
+- **[Rank Rise]** `Interpreting Latent CoT Reasoning as Dynamical Systems`: Rank rose by +2
+- **[Rank Rise]** `Transfer Learning Across Policy Regimes in Adaptive Multi-Agent Systems`: Rank rose by +2
+- **[Rank Rise]** `ECG-LDC: A Hardware-Efficient Low-Dimensional Computing Framework for ECG Arrhythmia Classification`: Rank rose by +2
+- **[Rank Rise]** `Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent`: Rank rose by +2
+- **[Rank Rise]** `Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking`: Rank rose by +2
+- **[Rank Rise]** `Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data`: Rank rose by +2
+- **[Rank Rise]** `Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks`: Rank rose by +2
+- **[Rank Rise]** `Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias`: Rank rose by +2
+- **[Rank Rise]** `Transformer-Guided Swarm Intelligence for Frugal Neural Architecture Search`: Rank rose by +2
+- **[Rank Rise]** `Relaxing Faithfulness with Intervention-Only Causal Discovery`: Rank rose by +2
+- **[Rank Rise]** `An Exact Instrument for State Usage in Selective State-Space Models, and the Input-Driven Migration It Reveals`: Rank rose by +2
+- **[Rank Rise]** `From Expressivity to Sample Complexity: Narrow Teachers for Transformers via C-RASP`: Rank rose by +2
+- **[Rank Rise]** `From Global to Factor-Wise Expert Composition in Discrete Diffusion Models`: Rank rose by +2
+- **[Rank Rise]** `HiFi-LLP: High-Fidelity, Low-Cost Latency Predictors with Confidence for Robust HW-NAS`: Rank rose by +2
+- **[Rank Rise]** `Time-Lag-Aware Deep Reinforcement Learning for Flexible Job-Shop Scheduling in PPVC Module Factories`: Rank rose by +2
+- **[Rank Rise]** `Active Offline-to-Online Reinforcement Learning`: Rank rose by +2
+- **[Rank Rise]** `CatRetriever: Contrastive Representation Learning for Slab-to-Bulk Retrieval in Generative Catalyst Discovery`: Rank rose by +2
+- **[Rank Rise]** `A multi-scale feature enhanced graph neural network for fluid dynamics prediction in complex geometries`: Rank rose by +2
+- **[Rank Rise]** `How to Tame Grokking: Representation Geometry as a Control Signal`: Rank rose by +2
+- **[Rank Rise]** `Bet on Features: Anytime-Valid and Feature-Aware Auditing of Conditional Quantile Forecasters`: Rank rose by +2
+- **[Rank Rise]** `Fundamental Limitations of Fixed-Budget Best-Arm Identification`: Rank rose by +2
+- **[Rank Rise]** `Privacy-Aware Collaborative and Distributed Bayesian Optimization`: Rank rose by +2
+- **[Rank Rise]** `DiffEEG: A Self-Supervised Denoising Diffusion Model for Learning EEG Generic Representations`: Rank rose by +2
+- **[Rank Rise]** `Structure-Feature Aligned Graph Learning via Alternating Constrained Optimization`: Rank rose by +2
+- **[Rank Rise]** `Heuristic Learning for Active Flow Control Using Coding Agents`: Rank rose by +2
+- **[Rank Rise]** `Advancing Optimal Subset Oracle via Learning Relaxation of Neural Set Functions`: Rank rose by +2
+- **[Rank Rise]** `Condition-Stratified Robustness Analysis of Post-Hoc Calibration Methods for Probabilistic Classifiers`: Rank rose by +2
+- **[Rank Rise]** `Random Label Prediction Heads for Studying Memorization in Deep Neural Networks`: Rank rose by +2
+- **[Rank Rise]** `AutoMatBench: An Automatic Optimization Toolkit for the Acceleration of Material Properties Prediction Benchmarking`: Rank rose by +2
+- **[Rank Rise]** `DAG-FM: A Foundation Model for Causal Discovery under Heterogeneous Causal Mechanisms`: Rank rose by +2
+- **[Rank Rise]** `CDFM: Towards a General-Purpose Causal Discovery Foundation Model`: Rank rose by +2
+- **[Rank Rise]** `SCOPE-RL: Optimizing Reasoning Paths Before and After Success`: Rank rose by +2
+- **[Rank Rise]** `Proxy Exploration and Reusable Guidance: A Modular LLM Post-Training Paradigm via Proxy-Guided Update Signals`: Rank rose by +2
+- **[Rank Rise]** `IG-GAN: A Generative Adversarial Network for Aerodynamic Data Generation Based on Intrinsic Geometry`: Rank rose by +2
+- **[Rank Rise]** `Agentic Skill Optimization over Lie Algebroids`: Rank rose by +2
+- **[Rank Rise]** `HyperSafe: Inference-Time Safety Recovery for Fine-Tuned Language Models`: Rank rose by +2
+- **[Rank Rise]** `Event-based Neural Decoding for Neuroprosthetic Motor Control`: Rank rose by +2
+- **[Rank Rise]** `Velocity Scheduled Flow Matching`: Rank rose by +2
+- **[Rank Rise]** `Generalizing Preference-based Reinforcement Learning: a Rationality Model for Incomparability`: Rank rose by +2
+- **[Rank Rise]** `Physics-Aware Conditional SetGAN for Spatially Consistent Multi-User TR 38.901 Channel Generation`: Rank rose by +2
+- **[Rank Rise]** `Surprisingly Simple and Effective Multi-Domain Graph Foundation Model through Graph-to-Table Alignment`: Rank rose by +2
+- **[Rank Rise]** `BackgroundMellow: A Multi-Modal Cohesive Framework for Narrative-Driven Rich Cinematic Soundscape Generation`: Rank rose by +2
+- **[Rank Rise]** `PRISM Edit: One Vector for All Temporal Answers`: Rank rose by +2
+- **[Rank Rise]** `SPARC-Net: A Spectral, Causality-Aware, and Hard-Constrained Physics-Informed Architecture for Stiff and Shock-Dominated Partial Differential Equations`: Rank rose by +2
+- **[Rank Rise]** `Trustworthy synthetic data for campaign decision support: strategy simulation fidelity and the PolicySynth framework`: Rank rose by +2
+- **[Rank Rise]** `FastTPS: An Optimized Method for LLM Token Phase for AI accelerators`: Rank rose by +2
+- **[Rank Rise]** `NeuroMem-FHP: A Likelihood-Free Deep Learning Framework for Parameter Estimation of Fractional Hawkes Process`: Rank rose by +2
+- **[Rank Rise]** `Rank-Conditioned Sample Reuse for the Plackett--Luce Best-of-$K$ Objective`: Rank rose by +2
+- **[Rank Rise]** `Learning Subgroup Relations Using Siamese Graph Neural Networks`: Rank rose by +2
+- **[Rank Rise]** `ToolAtlas: Learning Once, Reusing Everywhere with Tool-Side Memory`: Rank rose by +2
+- **[Rank Rise]** `The Equilibrium Is the Initialization: Lazy Identity Collapse in Physics-Structured Deep Equilibrium Reasoning`: Rank rose by +2
+- **[Rank Rise]** `CA-DGCL: Dynamic Graph Continual Learning via Condensation and Attachment`: Rank rose by +2
+- **[Rank Rise]** `Neural Discovery of Memory and Nonlocal Kernels in Integro-Differential Equations with Constrained Kolmogorov--Arnold Networks`: Rank rose by +2
+- **[Rank Rise]** `A Novel Graph Fraud Detector via Grouped Attribute Completion and Confidence-Aware Contrastive Learning`: Rank rose by +2
+- **[Rank Rise]** `Multi-dimensional training-priority weighting based on physical information propagation paths: a unified residual-weighting framework for physics-informed neural networks`: Rank rose by +2
+- **[Rank Rise]** `Adapting Evidential Neural Networks to Test-Time Neighbor Fusion Improves Molecular Property Prediction`: Rank rose by +2
+- **[Rank Rise]** `Link Adaptation Using Joint-Thompson Sampling`: Rank rose by +2
+- **[Rank Rise]** `AeroMELD: A Linear Embedding of Aerosol Populations for Diagnostics and Latent Dynamics`: Rank rose by +2
+- **[Rank Rise]** `Domain-Aware Scaling Laws Uncover Data Synergy`: Rank rose by +2
+- **[Rank Rise]** `When the Reward Suite Is Leaky: A Preregistered Causal Contrast of Natural Verifier False Positives in RLVR`: Rank rose by +2
+- **[Rank Rise]** `TabPFN beyond Tabular Data: Calibration and Accuracy on Multimodal Embeddings`: Rank rose by +2
+- **[Rank Rise]** `A Multi-Agent Framework for Zero-Dimensional Reduced-Order Model Planning`: Rank rose by +2
+- **[Rank Rise]** `Enhanced Byzantine-Robust Federated Learning Via Truncated-Quadratic Loss for Heterogeneous Data`: Rank rose by +2
+- **[Rank Rise]** `Efficient Online Proportional Sampling with Applications to Smoothed Online Learning`: Rank rose by +2
+- **[Rank Rise]** `Reinforcement Learning for Execution under Dynamic Fees in a Closed-Loop DEX Simulator`: Rank rose by +2
+- **[Rank Rise]** `WSqD: A Horizon-Free Learning Rate Schedule for Large Model Training`: Rank rose by +2
+- **[Rank Rise]** `Sticky Jump Diffusions: A Unifying View of Masked, Continuous, and Hybrid Diffusion`: Rank rose by +2
+- **[Rank Rise]** `Bandit PCA with Minimax Optimal Regret`: Rank rose by +2
+- **[Rank Rise]** `The Singularity Space: A Generative Diffusion Framework for Signal Representation`: Rank rose by +2
+- **[Rank Rise]** `The Spectral Structure of Latent Treatment Effects`: Rank rose by +2
+- **[Rank Rise]** `Infrared Organization and Critical Cognitive Field Formation in Transformer Dynamics`: Rank rose by +2
+- **[Rank Rise]** `Singular perturbations and hierarchical learning in two-layer neural networks`: Rank rose by +2
+- **[Rank Rise]** `Reliability Scaling Laws for Quantized Large Language Models`: Rank rose by +2
+- **[Rank Rise]** `Predictive Divergence Masks for LLM RL`: Rank rose by +2
+- **[Rank Rise]** `Graph Neural Networks for RFID-Based Spatial Geometry Inference in Spatial AI Systems`: Rank rose by +2
+- **[Rank Rise]** `Diachronic Sample Integration: Robust Tail-Risk Estimation with Generative Models`: Rank rose by +2
+- **[Rank Rise]** `Lower Bound on the Cumulative Constrained Violation for the OGD+Projection algorithm for Constrained Online Convex Optimization (COCO)`: Rank rose by +2
+- **[Rank Rise]** `When does distribution shift break graph neural networks calibration?`: Rank rose by +2
+- **[Rank Rise]** `Weight-Adjusted Gradients Reveal Parameter Importance and Failure Modes in LLMs`: Rank rose by +2
+- **[Rank Rise]** `Hierarchical Bayesian Quadrature`: Rank rose by +2
+- **[Rank Rise]** `LSTrans: Efficient Knowledge Transfer for Lightweight and Automated ECG Classification`: Rank rose by +2
+- **[Rank Rise]** `The VC dimension of partial concept classes via Radon's theorem`: Rank rose by +2
+- **[Rank Rise]** `Policy-Driven CT-Agent: Modeling Phase-Aware Diagnostic Control for Clinically Consistent CT Reasoning`: Rank rose by +2
+- **[Rank Rise]** `Multi-Scale Convolution with Optimal Transport Attention Effect on Multivariate Time Series`: Rank rose by +2
+- **[Rank Rise]** `To Answer or to Abstain: Mitigating Search-Agent Hallucinations via Abstention-Aware Reinforcement Learning`: Rank rose by +2
+- **[Rank Rise]** `Scaffold splits hide structural-frontier failures in ADMET models`: Rank rose by +2
+- **[Rank Rise]** `On the modality gap and the contrastive loss in multi-modal representation learning`: Rank rose by +2
+- **[Rank Rise]** `Learning to Fine-tune Foundation Models under Resource Limitations`: Rank rose by +2
+- **[Rank Rise]** `LayerNorm as Implicit Gain Control in Looped Transformers`: Rank rose by +2
+- **[Rank Rise]** `From Self-Attention to Connection Laplacian: A Unified Operator View of Transformers`: Rank rose by +2
+- **[Rank Rise]** `Modernizing HEBO: a robust Bayesian optimization baseline for practical heteroskedastic and non-stationary problems`: Rank rose by +2
+- **[Rank Rise]** `Auditing Construct Overlap in Explainable Machine Learning: Evidence from Burnout-Depression Prediction Across Student Cohorts`: Rank rose by +2
+- **[Rank Rise]** `modelDNA: Calibrated Lineage Verification and Merge Decomposition from Sampled Weight Fingerprints`: Rank rose by +2
+- **[Rank Rise]** `M+Adam: Low-Precision Training via Additive-Multiplicative Optimization`: Rank rose by +2
+- **[Rank Rise]** `AutoNorm: Understanding Adaptive Normalization in Transformers through Differentiable Gating`: Rank rose by +2
+- **[Rank Rise]** `Sharp Concentration Bounds for Bundle-Valued Statistics on Manifolds`: Rank rose by +2
+- **[Rank Rise]** `MemDecay: Region-Aware KV Cache Eviction for Efficient LLM Agent Inference`: Rank rose by +2
+- **[Rank Rise]** `Learning from Local Walks on Dynamic Graphs with Bandit Feedback`: Rank rose by +2
+- **[Rank Rise]** `LLM-PDESR: Robust PDE Discovery via Subdomain Weighted Residuals and LLM-Guided Symbolic Hypothesis Generation`: Rank rose by +2
+- **[Rank Rise]** `Conditional Optimal Bridge for Riemannian Activation Steering`: Rank rose by +2
+- **[Rank Rise]** `Learning from Noise: Effective-Rank Collapse and Out-of-Distribution Rejection in Restricted Boltzmann Machines`: Rank rose by +2
+- **[Rank Rise]** `EvidentialRAG: Quantifying and Mitigating Information Conflict in Multi-Source Retrieval-Augmented Generation via Evidential Deep Learning`: Rank rose by +2
+- **[Rank Rise]** `ARMOR: Stabilizing On-Policy LLM RL with Off-Policy Anchor Samples`: Rank rose by +2
+- **[Rank Rise]** `Reinforcement Learning with Verifiable Physics: Post-training LLMs with Continuous Rewards`: Rank rose by +2
+- **[Rank Rise]** `Pitfalls of Administrative Censoring in Survival Models with Time-Indexed Inputs`: Rank rose by +2
+- **[Rank Rise]** `Context by Distinct Information: An Auditable Dirichlet-Process Working Memory for Long, Redundant Context Streams`: Rank rose by +2
+- **[Rank Rise]** `Machine Learning-based Correlation of Charpy Impact Properties Between Sub-sized and Standard-sized Specimens for Nuclear Structural Materials`: Rank rose by +2
+- **[Rank Rise]** `A Hyperbolic Neural Closure for M1 Radiation Transfer`: Rank rose by +2
+- **[Rank Rise]** `A Control Theory of Predictability in Latent World Models`: Rank rose by +2
+- **[Rank Rise]** `Empowering Long-form Omni-modal Understanding with Robust Audio Perception`: Rank rose by +2
+- **[Rank Rise]** `Interpreting learning dynamics of autoencoders: Transient scaling and emerging concepts of the Ising model`: Rank rose by +2
+- **[Rank Rise]** `Sharper Analysis of Single-Loop Methods for Bilevel Optimization`: Rank rose by +2
+- **[Rank Rise]** `Data-Driven Telecom Marketing Optimization: A Machine Learning-Based Churn Prediction and Customer Segmentation Framework`: Rank rose by +2
+- **[Rank Rise]** `DSSMs: State Space Models with Explicit Memory via Delay Differential Equations`: Rank rose by +2
+- **[Rank Rise]** `Exploratory Analysis of Deep Learning Models for Forecasting Meteorological Parameters in the Agricultural Sector`: Rank rose by +2
+- **[Rank Rise]** `When Does Depth Survive Composition? Compute--Quality Regimes in Latent World Models`: Rank rose by +2
+- **[Rank Rise]** `Two Confounds in Cross-Model Value Comparison: Response Determinism and the Access Harness`: Rank rose by +2
+- **[Rank Rise]** `The Differential Neural Tangent Kernel and Its Positivity`: Rank rose by +2
+- **[Rank Rise]** `Generative Augmentation of Raman Spectra for Glioma Classification`: Rank rose by +2
+- **[Rank Rise]** `PhysMRV: Physical Memory Retrieval and Verification for Physics Plausibility Reasoning`: Rank rose by +2
+- **[Rank Rise]** `Knowledge-Conditioned, Single-Pass LLM Synthesis of Executable Unity Game Scenes: A Compiler Error Census across 26 Goal Playable Concepts`: Rank rose by +2
+- **[Rank Rise]** `Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization`: Rank rose by +2
+- **[Rank Rise]** `LLMs as a Jury: Cross-Model Consensus Can Outperform Process Reward Models for LLM Reasoning`: Rank rose by +2
+- **[Rank Rise]** `RDQ: Residual Distribution Quantization for Large Language Models`: Rank rose by +2
+- **[Rank Rise]** `LeRoPE: Learnable RoPE Frequencies Improve Language Modeling`: Rank rose by +2
+- **[Rank Rise]** `SALT-GNN: Handling Dense Neighborhoods in Anti-Money Laundering Graphs via Statistics-Aware Attention`: Rank rose by +2
+- **[Rank Rise]** `Energy-guided Recursive Model`: Rank rose by +2
+- **[Rank Rise]** `GAE: Graph-Augmented Evolution for Scientific Discovery via Reinforcement Optimization`: Rank rose by +2
+- **[Rank Rise]** `When Data Imbalance Helps: Robust Generalization Through Shortcut Saturation`: Rank rose by +2
+- **[Rank Rise]** `TabLoRA: Parameter-Efficient Low-Rank Ensemble Learning for Large-Scale Tabular Data`: Rank rose by +2
+- **[Rank Rise]** `Distance-Preserving Embeddings in Inhomogeneous Random Graphs`: Rank rose by +2
+- **[Rank Rise]** `Error Aware Distribution Prediction for Lightweight Implicit Neural Representations`: Rank rose by +2
+- **[Rank Rise]** `Conservation Laws for Diffusion Models`: Rank rose by +2
+- **[Rank Rise]** `FlashTrie: A GPU-Accelerated Constrained Beam Search for Generative Retrieval`: Rank rose by +2
+- **[Rank Rise]** `MLPs are Hebbians: Constructing Efficient Fact-Storing MLPs for Transformers`: Rank rose by +2
+- **[Rank Rise]** `Vilya-1: An all-atom foundation model for macrocycle structure prediction and design`: Rank rose by +2
+- **[Rank Rise]** `Multimodal Routing for Interpretable, Robust, and Auditable Clinical Prediction`: Rank rose by +2
+- **[Rank Rise]** `Learning in Curved Weight Space:Exponential-Linear Weight Reparameterization for Improved Optimization`: Rank rose by +2
+- **[Rank Rise]** `Optimizing ARDL Models for Retail Sales Forecasting and Fair Pricing`: Rank rose by +2
+- **[Rank Rise]** `A Foundation Model for Multimodal Event Sequences in Financial Applications`: Rank rose by +2
+- **[Rank Rise]** `SMETA-ZSL:Semantic Meta-Alignment for Zero-Shot Threat Classification`: Rank rose by +2
+- **[Rank Rise]** `Remembering Distinct Items, Not Tokens: A Learnable Dirichlet-Process Cache Between State-Space Models and Attention`: Rank rose by +2
+- **[Rank Rise]** `Nonparametric Bayesian Inverse Reinforcement Learning with Data-Parallel Gibbs Sampling`: Rank rose by +2
+- **[Rank Rise]** `Serving the Long Tail: Training-Free LLM Candidate Generation for Vacation Rental Marketplaces`: Rank rose by +2
+- **[Rank Rise]** `Nonlinear Axiomatic Attribution for Cooperative Games`: Rank rose by +2
+- **[Rank Rise]** `From Direction to Magnitude: How Multimodal Instruction-Tuning Reorganizes the Geometric Encoding of Identity-Specifying Prompts in Transformer Hidden States`: Rank rose by +2
+- **[Rank Rise]** `A Strong Balanced-Softmax Classifier-Retraining Baseline for Long-Tailed Recognition`: Rank rose by +2
+- **[Rank Rise]** `Learning Predictive Ambiguity Sets for Decision-Focused Distributionally Robust Optimization`: Rank rose by +2
+- **[Rank Rise]** `Estimation, Prediction, and Assortment Optimization for Markov Chain Choice Models with Panel Data`: Rank rose by +2
+- **[Rank Rise]** `RUBRIC: Realism--Utility Balanced Ranking for Imbalanced Classification`: Rank rose by +2
+- **[Rank Rise]** `Spectral Origins of the Self-Correction Blind Spot in Autoregressive Generation`: Rank rose by +2
+- **[Rank Rise]** `Quota Marketplace: Dynamic Pricing for Efficient Allocation of ML Training Resources`: Rank rose by +2
+- **[Rank Rise]** `Discovering Latent Response Laws in Forced Physical Systems`: Rank rose by +2
+- **[Rank Rise]** `The Silent Freeze: Predicting When Low-Precision Training Stops Learning`: Rank rose by +2
+- **[Rank Rise]** `JEPA for AI-Native 6G: Predictive Representations and Open Challenges`: Rank rose by +2
+- **[Rank Rise]** `Metadata-Free Meta-Reweighted Direct Preference Optimization under Noisy Preference Labels`: Rank rose by +2
+- **[Rank Rise]** `Gauge dependence and structured-output corruption in sign-branched repetition penalties: measurements across models, inference stacks, and alternative repetition controls`: Rank rose by +2
+- **[Rank Rise]** `ERP Data Provisioning Financial Control Testing`: Rank rose by +2
+- **[Rank Rise]** `EvoClawBench: Can Agents Learn Reusable Skills from Their Own Runs?`: Rank rose by +2
+- **[Rank Rise]** `Manifold Constrained Tabular Deep Neural Networks`: Rank rose by +2
+- **[Rank Rise]** `Quantum-Inspired Contextual Learning for Sparse-Ring Fraud Detection in Dynamic Transaction Graphs`: Rank rose by +2
+- **[Rank Rise]** `Safe responses matter: Output-aware safety guardrail mitigate over-refusal in MLLMs`: Rank rose by +2
+- **[Rank Rise]** `Mitigating Early Training Collapse in CTR Models`: Rank rose by +2
+- **[Rank Rise]** `FedCausal-Dyn: A Causal-Dynamic Paradigm for Federated Learning under Dynamic Feature Drift`: Rank rose by +2
+- **[Rank Rise]** `Low-Rank Attention Residuals`: Rank rose by +2
+- **[Rank Rise]** `Depth-Entropy Guided Sampling for Training-Free LLM Reasoning`: Rank rose by +2
+- **[Rank Rise]** `Reference-Based Distillation Detection in LLMs`: Rank rose by +2
+- **[Rank Rise]** `What Context Does a Coding Agent Actually Need to Act?`: Rank rose by +2
+- **[Rank Rise]** `Prioritizing Search Space Regions in the Low Autocorrelation Binary Sequences Problem`: Rank rose by +2
+- **[Rank Rise]** `MawForge: Memory-Bounded Expert Materialization for Local Mixture-of-Experts Inference`: Rank rose by +2
+- **[Rank Rise]** `SciML in the Wild: A Diagnostic Study of When Structural Priors Help and When They Hurt`: Rank rose by +2
+- **[Rank Rise]** `Ablation, Statistical Inference, and Validation for KV-Cache Compression`: Rank rose by +2
+- **[Rank Rise]** `AuditWeave: A Tamper-Evident, Auditor-Navigable Evidence Layer for AI-Assisted and Data-Transformation Workflows`: Rank rose by +2
+- **[Rank Rise]** `Position: Every Ground Truth is a Human Construction, not an Objective Truth`: Rank rose by +2
+- **[Rank Rise]** `Knowledge Graphs Meet Graph Neural Networks: A Comprehensive Survey`: Rank rose by +2
+- **[Rank Rise]** `Upsonic/Tiger`: Rank rose by +2
+- **[Rank Rise]** `wxmb01/codex-app-autonomous-runs`: Rank rose by +2
+- **[Rank Rise]** `plusai-solutions/ai-scrum-master-template`: Rank rose by +2
+- **[Rank Rise]** `yzhao062/pyod`: Rank rose by +2
+- **[Rank Rise]** `ashishpatel26/500-AI-Agents-Projects`: Rank rose by +2
+- **[Rank Rise]** `SWE-agent/SWE-agent`: Rank rose by +2
+- **[Rank Rise]** `Next.js Security Release and Our Next Patch Release`: Rank rose by +2
+- **[Rank Rise]** `google-t5/t5-small`: Rank rose by +2
+- **[Rank Rise]** `YouTube’s contest policies and guidelines - YouTube Help`: Rank rose by +2
+- **[Rank Rise]** `Troubleshoot video removals - YouTube Help`: Rank rose by +2
+- **[Rank Rise]** `Report inappropriate videos, channels & other content on YouTube - Computer - YouTube Help`: Rank rose by +2
+- **[Rank Rise]** `Create a YouTube channel - YouTube Help`: Rank rose by +2
+- **[Rank Rise]** `Agents - Docs by LangChain`: Rank rose by +2
+- **[Rank Rise]** `Membership Terms of Service – Medium Help Center`: Rank rose by +2
+- **[Rank Rise]** `About Medium`: Rank rose by +2
+- **[Rank Rise]** `Manage renewal for NFL Sunday Ticket on YouTube TV - Computer - YouTube TV Help`: Rank rose by +2
+- **[Rank Rise]** `Purchase & watch Primetime Channels on YouTube - Computer - YouTube Help`: Rank rose by +2
+- **[Rank Rise]** `Weaviate vector database - YouTube`: Rank rose by +2
+- **[Rank Rise]** `Changelog | Firecrawl`: Rank rose by +2
+- **[Rank Rise]** `How Klarna's AI assistant redefined customer support at scale for 85 million active users`: Rank rose by +2
+- **[Rank Rise]** `facebookresearch/faiss`: Rank rose by +2
+- **[Rank Rise]** `VivekMalhan666/rag-beginner-guide`: Rank rose by +2
+- **[Rank Rise]** `The AI database developers love | Weaviate`: Rank rose by +2
+- **[Rank Rise]** `Introduction | Firecrawl`: Rank rose by +2
+- **[Rank Rise]** `Ed1s0nZ/CyberStrikeAI`: Rank rose by +2
+- **[Rank Rise]** `czl9707/build-your-own-openclaw`: Rank rose by +2
+- **[Rank Rise]** `RAG Techniques, Beginner to Advanced: Practical Patterns, Code, and Resources | martinuke0's Blog`: Rank rose by +2
+- **[Rank Rise]** `Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium`: Rank rose by +2
+- **[Rank Rise]** `Memory-Managed Long-Context Attention: Bounded Editable Memory with a Hard Lifecycle and Calibrated Sparse Fallback`: Rank rose by +2
+- **[Rank Rise]** `XAI and Statistical Analysis for Reliable Intrusion Detection in the UAVIDS-2025 Dataset: From Tree to Hybrid and Tabular DNN Ensembles`: Rank rose by +2
+- **[Rank Rise]** `RELISH: LLM REgression with a Latent Iterative State Head`: Rank rose by +2
+- **[Rank Rise]** `From Cross-Validation to SURE: Asymptotic Risk of Tuned Regularized Estimators`: Rank rose by +2
+- **[Rank Rise]** `Fine-grained Soundscape Control for Augmented Hearing`: Rank rose by +2
+- **[Rank Rise]** `Global Sequential Testing for Multi-Stream Auditing`: Rank rose by +2
+- **[Rank Rise]** `Near-optimal Delta-convex Estimation of Lipschitz Functions`: Rank rose by +2
+- **[Rank Rise]** `Is data-efficient learning feasible with quantum models?`: Rank rose by +2
+- **[Rank Rise]** `A Practical Guide to Interpretable Role-Based Clustering in Multi-Layer Financial Networks`: Rank rose by +2
+- **[Rank Rise]** `Uncovering smooth structures in single-cell data with PCS-guided neighbor embeddings`: Rank rose by +2
+- **[Rank Rise]** `Transformer-Based Inverse Microrheology for Experimental Mechanics at Ultra-High Strain Rates`: Rank rose by +2
+- **[Rank Rise]** `Human Vision Constrained Super-Resolution`: Rank rose by +2
+- **[Rank Rise]** `Accelerating Large Language Model Inference with Self-Supervised Early Exits`: Rank rose by +2
+- **[Rank Rise]** `Accelerated Fully First-Order Methods for Bilevel and Minimax Optimization`: Rank rose by +2
+- **[Rank Rise]** `Contrastive Learning on Multimodal Analysis of Electronic Health Records`: Rank rose by +2
+- **[Rank Rise]** `Ruby: Unmasking Unsafe Rust in Stripped Binaries via Machine Learning`: Rank rose by +2
+- **[Rank Rise]** `A Fourier analytique approach to Gaussian mixture learning`: Rank rose by +2
+- **[Rank Rise]** `Estimation-Prediction Tradeoff in Causal Probabilistic Temporal Graphs`: Rank rose by +2
+- **[Rank Rise]** `Evolutionary Discovery of Developmental Reward Schedules in Deep Reinforcement Learning`: Rank rose by +2
+- **[Rank Rise]** `CITRAS-FM: Tiny Time Series Foundation Model for Covariate-Informed Zero-Shot Forecasting`: Rank rose by +2
+- **[Rank Rise]** `Enhancing AI and Dynamical Subseasonal Forecasts with Probabilistic Bias Correction`: Rank rose by +2
+- **[Rank Rise]** `Logarithmic High-Probability Regret for Online Convex Optimization with Two-Point Bandit Feedback`: Rank rose by +2
+- **[Rank Rise]** `Kronecker-Structured Nonparametric Spatiotemporal Point Processes`: Rank rose by +2
+- **[Rank Rise]** `Policy-based Tuning of Autoregressive Image Models with Instance- and Distribution-Level Rewards`: Rank rose by +2
+- **[Rank Rise]** `How Can Machine Learning Emulators Best Support Climate Science?`: Rank rose by +2
+- **[Rank Rise]** `Learning Lineage-guided Geodesics with Finsler Geometry`: Rank rose by +2
+- **[Rank Rise]** `Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking`: Rank rose by +2
+- **[Rank Rise]** `Upper-Linearizability of Online Non-Monotone DR-Submodular Maximization over Down-Closed Convex Sets`: Rank rose by +2
+- **[Rank Rise]** `Hair-Trigger Alignment: Black-Box Evaluation Cannot Guarantee Post-Update Alignment`: Rank rose by +2
+- **[Rank Rise]** `Forking-Sequences: Statistically and Computationally Efficient Multi-Horizon Forecasting with Reduced Volatility`: Rank rose by +2
+- **[Rank Rise]** `Information-Theoretic Bayesian Optimization for Bilevel Optimization Problems`: Rank rose by +2
+- **[Rank Rise]** `Cluster and then Embed: A Modular Approach for Visualization`: Rank rose by +2
+- **[Rank Rise]** `Scalable Varied-Density Clustering via Graph Propagation`: Rank rose by +2
+- **[Rank Rise]** `Regression-aware Continual Learning for Android Malware Detection`: Rank rose by +2
+- **[Rank Rise]** `Multi-Metric Adaptive Experimental Design Under a Fixed Budget with Validation`: Rank rose by +2
+- **[Rank Rise]** `Towards Identifiability of Interventional Stochastic Differential Equations`: Rank rose by +2
+- **[Rank Rise]** `LDPKiT: Superimposing Remote Queries for Privacy-Preserving Distillation`: Rank rose by +2
+- **[Rank Rise]** `Deep Gaussian Processes on Directed Acyclic Graphs`: Rank rose by +2
+- **[Rank Rise]** `LLM for EDA in Front-End Design: Challenges and Opportunities`: Rank rose by +2
+- **[Rank Rise]** `Entropy-Constrained Machine Learning with Residual Data Augmentation for Modeling Chemical Kinetics`: Rank rose by +2
+- **[Rank Rise]** `The Count Is There, but Misaligned: Understanding and Correcting Counting Failures in VLMs`: Rank rose by +2
+- **[Rank Rise]** `Terminal Dimension Reduction for Time Series with Applications`: Rank rose by +2
+- **[Rank Rise]** `Foveation-Guided Dynamic Token Selection for Robust and Efficient Vision Transformers`: Rank rose by +2
+- **[Rank Rise]** `Robustifying Vision-Language Models via Test-Time Prompt Adaptation`: Rank rose by +2
+- **[Rank Rise]** `Multimodal Scenario Similarity Search for Autonomous Driving`: Rank rose by +2
+- **[Rank Rise]** `Spectrally Deconfounded Gradient Boosting`: Rank rose by +2
+- **[Rank Rise]** `From Classification to Localization and Clinical Validation: Large-Scale Development of a Deep Learning System for Thoracic Disease Detection on Chest Radiographs in Thailand`: Rank rose by +2
+- **[Rank Rise]** `Leveraging Interpretable Tsetlin Machine for PDF Malware Detection`: Rank rose by +2
+- **[Rank Rise]** `Influence Diagnostics in High-dimensional M-estimation: Precise Asymptotics`: Rank rose by +2
+- **[Rank Rise]** `When Does Order Flow Matter? State-Dependent L2 Liquidity-State Transitions in Crypto Futures`: Rank rose by +2
+- **[Rank Rise]** `Complexity-Guided Component-wise Initialization for Language Model Pretraining`: Rank rose by +2
+- **[Rank Rise]** `GenVid2Robot: From Video Generation to Robot Manipulation via Rigid-Geometric Consistency`: Rank rose by +2
+- **[Rank Rise]** `Control Laguerre Tessellation: Semi-discrete Optimal Transport Over Control Systems`: Rank rose by +2
+- **[Rank Rise]** `Quantum-Enhanced Synthetic Data Generation Using Quantum Circuit Born Machines for Imbalanced Tabular Learning`: Rank rose by +2
+- **[Rank Rise]** `Solving Stochastic Fixed-Point Equations with High Probability`: Rank rose by +2
+- **[Rank Rise]** `RaMark: Radioactive Watermarking for Generated Tabular Data`: Rank rose by +2
+- **[Rank Rise]** `Nonconvex Composite Functional Constraints via First-Order Augmented Lagrangian Methods under Local Regularity`: Rank rose by +2
+- **[Rank Rise]** `Learning-enabled Parameter Synthesis for Nonlinear Systems from Signal Temporal Logic`: Rank rose by +2
+- **[Rank Rise]** `FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space`: Rank rose by +2
+- **[Rank Rise]** `Secure-by-Disguise: A Systematic Evaluation of Image Disguising for Confidential Medical Image Modeling`: Rank rose by +2
+- **[Rank Rise]** `Clean2FX: Label-conditioned modeling for clean-to-effect guitar audio transformations`: Rank rose by +2
+- **[Rank Rise]** `Mixture of Probes: Learning from Privileged Modalities in Multimodal LLMs Through Probing`: Rank rose by +2
+- **[Rank Rise]** `HALO: Hybrid Adaptive Latent Reasoning for Language Models`: Rank rose by +2
+- **[Rank Rise]** `Graph-Regularized Low-Rank Matrix Completion by Variable Projection`: Rank rose by +2
+- **[Rank Rise]** `CoCoT-EEG: Contrastive-Pretrained Multiscale Convolutional Transformer for EEG Decoding`: Rank rose by +2
+- **[Rank Rise]** `GatedLinear: Adaptive Routing of Complementary Linear Bases for Time Series Forecasting`: Rank rose by +2
+- **[Rank Rise]** `Statistically Undetectable Backdoors in Deep Neural Networks`: Rank rose by +2
+- **[Rank Rise]** `TSAI-MetaFraud: A Benchmark Dataset for Financial Fraud Transaction and Behavioral Risk Detection in Metaverse Ecosystems`: Rank rose by +2
+- **[Rank Rise]** `Neural Collapse Is Forbidden: Information Floors in Language Models`: Rank rose by +2
+- **[Rank Rise]** `Active rejection enables reliable generalization of universal machine-learning interatomic potentials`: Rank rose by +2
+- **[Rank Rise]** `Action-Factored Multi-Agent Reinforcement Learning for Scalable Quantum Device Tuning`: Rank rose by +2
+- **[Rank Rise]** `Similarity search generalisation in contrastive learning with InfoNCE loss`: Rank rose by +2
+- **[Rank Rise]** `SYNRARE: Synthetic Rare Disease EHR Generation for ML Benchmarking`: Rank rose by +2
+- **[Rank Rise]** `Data-Efficient Deep Learning: Empirical Guidelines for Training Set Size Estimation in Inertial Sensor Classification`: Rank rose by +2
+- **[Rank Rise]** `Learning Physics-Informed Surrogate Model of Linear Elastic Displacement Fields from Geometry`: Rank rose by +2
+- **[Rank Rise]** `Mach-Mind-4-Flash Technical Report`: Rank rose by +2
+- **[Rank Rise]** `Graph Neural Networks for Scalable and Transferable Node Centrality Approximation`: Rank rose by +2
+- **[Rank Rise]** `Super-Tuning: From Activation-Aware Pruning to Sparse Fine-Tuning`: Rank rose by +2
+- **[Rank Rise]** `Autoregressive latent diffusion for 3D molecule generation`: Rank rose by +2
+- **[Rank Rise]** `LionVote: Per-Layer Learning Rate Adaptation for Lion`: Rank rose by +2
+- **[Rank Rise]** `Forget Narrowly, Retain Broadly: Unlearning as an Asymmetric Generalization Problem`: Rank rose by +2
+- **[Rank Rise]** `Temporal Knowledge Graph Forecasting under Distribution Shifts: A Synthetic Evaluation`: Rank rose by +2
+- **[Rank Rise]** `Application of machine learning to monster level prediction in tabletop RPG game design`: Rank rose by +2
+- **[Rank Rise]** `Understanding Schedule-Free Methods in Nonconvex Optimization: Rate Guarantees and Escaping Saddles`: Rank rose by +2
+- **[Rank Rise]** `COAST: Context-Aware Differential Learning for Gene Expression Prediction in Spatial Transcriptomics`: Rank rose by +2
+- **[Rank Rise]** `Present but Rescaled: Chat-to-Agent Transfer of Additive Activation Steering`: Rank rose by +2
+- **[Rank Rise]** `Power Flow Feasibility Assessment Using Variational Graph Autoencoders`: Rank rose by +2
+- **[Rank Rise]** `Quantum Circuits in Diffusion Models: A Fair-Comparison Study and a Mechanistic Analysis of Angle-Embedding Failures`: Rank rose by +2
+- **[Rank Rise]** `EXHOLD: Experience-Aware Real-Time Hold Control for Large-Scale Ride-Hailing Matching at DiDi`: Rank rose by +2
+- **[Rank Rise]** `A Survey on the Green Development of Large Models: From Resource-Efficient Architectures to Hardware-Software Co-Design`: Rank rose by +2
+- **[Rank Rise]** `Pitfalls and Remedies for Multi-Task Bayesian Optimization`: Rank rose by +2
+- **[Rank Rise]** `EvoLP: Self-Evolving Latency Predictor for Model Compression in Real-Time Edge Systems`: Rank rose by +2
+- **[Rank Rise]** `COBS: Cumulant Order Block Sparse Attention`: Rank rose by +2
+- **[Rank Rise]** `Learning More from Less: Reinforcement Learning from Hindsight`: Rank rose by +2
+- **[Rank Rise]** `Variable-Length Generative Protein Design via Generalized Poisson Flow`: Rank rose by +2
+- **[Rank Rise]** `Sensitivity-Aware Thresholding and Token Routing for Activation Sparsification in Large Language Models`: Rank rose by +2
+- **[Rank Rise]** `Group Invariant Spectral Embedding`: Rank rose by +2
+- **[Rank Rise]** `Optimal Top-$k$ Identification from Pairwise Comparisons`: Rank rose by +2
+- **[Rank Rise]** `Federated Low-Rank Koopman Learning for Multivariate Time-Series Anomaly Detection in IoT Systems`: Rank rose by +2
+- **[Rank Rise]** `Stochastic Linear Bandits with Partially Observed Actions`: Rank rose by +2
+- **[Rank Rise]** `FairSelect: A Systematic Evaluation of Multi-Level and Intersectional Algorithmic Fairness`: Rank rose by +2
+- **[Rank Rise]** `Training, Reading, and Editing Legible Transformers`: Rank rose by +2
+- **[Rank Rise]** `TSRouter: Dynamic Modality-Model Selection for Time Series Reasoning`: Rank rose by +2
+- **[Rank Rise]** `BlockServe: Block-Grained Continuous Batching for High-Throughput Diffusion LLM Serving`: Rank rose by +2
+- **[Rank Rise]** `SafeExplorer: An Unbiased Policy Gradient for Reinforcement Learning with Recovery Interventions`: Rank rose by +2
+- **[Rank Rise]** `A Machine Learning Surrogate for Component Criticality Ranking in Interdependent Power-Communication Networks`: Rank rose by +2
+- **[Rank Rise]** `Pattern-Aware Graph Neural Networks for Handling Missing Data`: Rank rose by +2
+- **[Rank Rise]** `Optimizing Against Safety Representations: Activation-Guided Adversarial Suffixes and the Geometry of Refusal`: Rank rose by +2
+- **[Rank Rise]** `How are linear representations learned? Exact solutions to the dynamics of abstraction`: Rank rose by +2
+- **[Rank Rise]** `Adaptive Bayes exactly tracks information over intrinsic time`: Rank rose by +2
+- **[Rank Rise]** `ECHO: Prune To Act, Trace To Learn With Selective Turn Memory In Agentic RL`: Rank rose by +2
+- **[Rank Rise]** `Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories`: Rank rose by +2
+- **[Rank Rise]** `AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE`: Rank rose by +2
+- **[Rank Rise]** `Embodied Multi-Agent Coordination by Aligning World Models Through Dialogue`: Rank rose by +2
+- **[Rank Rise]** `Tuning Derivatives for Causal Fairness in Machine Learning`: Rank rose by +2
+- **[Rank Rise]** `SLIDERS: Systematic Reviews via Automated Evidence Synthesis and Reconciliation`: Rank rose by +2
+- **[Rank Rise]** `Machine Learning for Network Attacks Classification and Statistical Evaluation of Adversarial Learning Methodologies for Synthetic Data Generation`: Rank rose by +2
+- **[Rank Rise]** `SWE-Milestone: Evaluating AI Agents on Continuous Software Evolution`: Rank rose by +2
+- **[Rank Rise]** `The LLMbda Calculus: AI Agents, Conversations, and Information Flow`: Rank rose by +2
+- **[Rank Rise]** `Empowering 9-1-1 Calltaking Training with Generative AI: Experiences and Lessons Learned`: Rank rose by +2
+- **[Rank Rise]** `Knowledge-Based Design Requirements for Generative Social Robots in Higher Education`: Rank rose by +2
+- **[Rank Rise]** `Preference Conditioned Multi-Objective Reinforcement Learning: Decomposed, Diversity-Driven Policy Optimization`: Rank rose by +2
+- **[Rank Rise]** `Principles of Lipschitz continuity in neural networks`: Rank rose by +2
+- **[Rank Rise]** `Transition Matching Distillation for Fast Video Generation`: Rank rose by +2
+- **[Rank Rise]** `ReinforceGen: Hybrid Skill Policies with Automated Data Generation and Reinforcement Learning`: Rank rose by +2
+- **[Rank Rise]** `How to DP-fy Your Data: A Practical Guide to Generating Synthetic Data With Differential Privacy`: Rank rose by +2
+- **[Rank Rise]** `Data-Driven Learnability Transition of Measurement-Induced Entanglement`: Rank rose by +2
+- **[Rank Rise]** `RIS-Assisted Downlink Pinching-Antenna Systems: GNN-Enabled Optimization Approaches`: Rank rose by +2
+- **[Rank Rise]** `Point of Order: Action-Aware LLM Persona Modeling for Data-Grounded Civic Deliberation`: Rank rose by +2
+- **[Rank Rise]** `AutoGraphAD: Unsupervised network anomaly detection using Variational Graph Autoencoders`: Rank rose by +2
+- **[Rank Rise]** `H3Former: Hypergraph-based Semantic-Aware Aggregation via Hyperbolic Hierarchical Contrastive Loss for Fine-Grained Visual Classification`: Rank rose by +2
+- **[Rank Rise]** `Explaining Human Choice Probabilities with Simple Vector Representations`: Rank rose by +2
+- **[Rank Rise]** `Contrastive Weak-to-strong Generalization`: Rank rose by +2
+- **[Rank Rise]** `REAL: REtrieval-reAsoning and Logic-constructed Attention Behaviors for Long-Context KV Cache Compression`: Rank rose by +2
+- **[Rank Rise]** `Evaluating Retrieval-Augmented Generation vs. Long-Context Input for Clinical Reasoning over EHRs`: Rank rose by +2
+- **[Rank Rise]** `GrAInS: Gradient-based Attribution for Inference-Time Steering of LLMs and VLMs`: Rank rose by +2
+- **[Rank Rise]** `Single-Frame Point-Pixel Registration via Supervised Cross-Modal Feature Matching`: Rank rose by +2
+- **[Rank Rise]** `M4V: Multimodal Mamba for Efficient Text-to-Video Generation`: Rank rose by +2
+- **[Rank Rise]** `Transformer-Empowered Actor-Critic Reinforcement Learning for Sequence-Aware Service Function Chain Partitioning`: Rank rose by +2
+- **[Rank Rise]** `Multi-Attribute Steering of Language Models via Targeted Intervention`: Rank rose by +2
+- **[Rank Rise]** `Projection Methods for Operator Learning and Universal Approximation`: Rank rose by +2
+- **[Rank Rise]** `Coding-agents can replicate scientific machine learning papers`: Rank rose by +2
+- **[Rank Rise]** `Latent Reward Steering: An Adaptive Inference-Time Framework that Implicitly Promotes Cognitive Behaviors in Reasoning LLMs`: Rank rose by +2
+- **[Rank Rise]** `Explaining is Harder Than Predicting Alone: Evaluating Concept-based Explanations of MLLMs as ICL Visual Classifiers`: Rank rose by +2
+- **[Rank Rise]** `Heterogeneous Information-Bottleneck Coordination Graphs for Multi-Agent Reinforcement Learning`: Rank rose by +2
+- **[Rank Rise]** `HiPO: Hierarchical Preference Optimization for Adaptive Reasoning in LLMs`: Rank rose by +2
+- **[Rank Rise]** `Towards Shutdownable Agents: Generalizing Stochastic Choice in RL Agents and LLMs`: Rank rose by +2
+- **[Rank Rise]** `Rectification Difficulty and Optimal Sample Allocation in LLM-Augmented Surveys`: Rank rose by +2
+- **[Rank Rise]** `A Self-Evolving Agentic Framework for Metasurface Inverse Design`: Rank rose by +2
+- **[Rank Rise]** `PACE: A Personalized Adaptive Curriculum Engine for 9-1-1 Call-taker Training`: Rank rose by +2
+- **[Rank Rise]** `Improving Language Agents through BREW: Bootstrapping expeRientially-learned Environmental knoWledge`: Rank rose by +2
+- **[Rank Rise]** `Leveraging Multi-Agent System (MAS) and Fine-Tuned Small Language Models (SLMs) for Automated Telecom Network Troubleshooting`: Rank rose by +2
+- **[Rank Rise]** `Beyond Embeddings: Interpretable Feature Extraction for Binary Code Similarity`: Rank rose by +2
+- **[Rank Rise]** `QAgent: An LLM-based Multi-Agent System for Autonomous OpenQASM programming`: Rank rose by +2
+- **[Rank Rise]** `A Descriptive and Normative Theory of Human Beliefs in RLHF`: Rank rose by +2
+- **[Rank Rise]** `Beyond Black-Box Obfuscation: Mechanistic Analysis and Defense of White-Box Monitors`: Rank rose by +2
+- **[Rank Rise]** `PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis`: Rank rose by +2
+- **[Rank Rise]** `Scalable Visual Pretraining for Language Intelligence`: Rank rose by +2
+- **[Rank Rise]** `Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models`: Rank rose by +2
+- **[Rank Rise]** `VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents`: Rank rose by +2
+- **[Rank Rise]** `Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection`: Rank rose by +2
+- **[Rank Rise]** `Lean-QIT: Towards a Formal Infrastructure for Quantum Information Theory`: Rank rose by +2
+- **[Rank Rise]** `4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception`: Rank rose by +2
+- **[Rank Rise]** `Task-Specific Multimodal Question Answering Agents via Confidence Calibration and Incremental Reasoning for QANTA 2026`: Rank rose by +2
+- **[Rank Rise]** `PAC-ACT: Post-training Actor-Critic for Action Chunking Transformers`: Rank rose by +2
+- **[Rank Rise]** `Conceptual Networks for Cross-Linguistic Idiomatic Expressions: A Feature-Based Graph Approach`: Rank rose by +2
+- **[Rank Rise]** `Large-Scale Portfolio Optimization Problem Under Cardinality Constraint With Enhanced Multi-Objective Evolutionary Algorithms`: Rank rose by +2
+- **[Rank Rise]** `TCLA: Training-Free Class-wise Logit Adaptation for Medical Vision-Language Models`: Rank rose by +2
+- **[Rank Rise]** `ALICE: Learning a General-Purpose Pathology Foundation Model from Vision, Vision-Language, and Slide-Level Experts`: Rank rose by +2
+- **[Rank Rise]** `Seeing is Free, Speaking is Not: Uncovering the True Energy Bottleneck in Edge VLM Inference`: Rank rose by +2
+- **[Rank Rise]** `Failure as a Process: An Anatomy of CLI Coding Agent Trajectories`: Rank rose by +2
+- **[Rank Rise]** `What VGGT Knows About Overlap: Probing Geometric Foundation Models for Co-Visibility`: Rank rose by +2
+- **[Rank Rise]** `All Explanations are Wrong, But Many Are Useful: Exploring the Rashomon Explanation Set with Large Language Models`: Rank rose by +2
+- **[Rank Rise]** `Decoupling Language Guidance from Backbones for Text-Guided Medical Segmentation`: Rank rose by +2
+- **[Rank Rise]** `Practical Source Code Recovery from Binary Functions Using Anchor-Based Retrieval and LLM Reasoning`: Rank rose by +2
+- **[Rank Rise]** `Parameter-Efficient Vision-Language Adaptation with Continuous Metadata Conditioning for Animal Re-Identification`: Rank rose by +2
+- **[Rank Rise]** `Test-Time Scaling for Small VLMs on Multilingual Visual MCQ`: Rank rose by +2
+- **[Rank Rise]** `A Sovereign, Open-Source Foundation Model for German and English`: Rank rose by +2
+- **[Rank Rise]** `SVF-CR: Synchronized Visual-Facial Cross-Refinement for Multimodal Ambivalence and Hesitancy Recognition`: Rank rose by +2
+- **[Rank Rise]** `Self-Guided Test-Time Training for Long-Context LLMs`: Rank rose by +2
+- **[Rank Rise]** `On-Device Adaptive Battery Power Prediction for Electric Vehicles`: Rank rose by +2
+- **[Rank Rise]** `Fully Trainable Deep Differentiable Logic Gate Networks and Lookup Table Networks`: Rank rose by +2
+- **[Rank Rise]** `STEEL: Sparsity-Aware Fused Attention for Energy-Efficient Long-Sequence Inference on AMD's XDNA NPU`: Rank rose by +2
+- **[Rank Rise]** `When Routes Run Out: Adversarial Co-Learning and Explainable Robustness in Quantum Repeater Networks`: Rank rose by +2
+- **[Rank Rise]** `Diversifying to Verify: When Task-Equivalent Programs Differ in Verifiability`: Rank rose by +2
+- **[Rank Rise]** `CtrlVTON: Controllable Virtual Try-On via Visual-Instance-Prompt Segmentation`: Rank rose by +2
+- **[Rank Rise]** `Deceptive Grounding: Entity Attribution Failure in Clinical Retrieval-Augmented Generation`: Rank rose by +2
+- **[Rank Rise]** `Shortcut Trajectory Planning for Efficient Offline Reinforcement Learning`: Rank rose by +2
+- **[Rank Rise]** `WILDTRACE: Benchmarking Natural Evidence Trails in Long-Context Reasoning`: Rank rose by +2
+- **[Rank Rise]** `Letting the Data Speak: Extracting Keywords from Crowdsourced Collections with AI`: Rank rose by +2
+- **[Rank Rise]** `Automatic Thematic Indexing of Large Literary Corpora: A Machine Learning Approach to Voltaire's Complete Works`: Rank rose by +2
+- **[Rank Rise]** `Creativity, honesty and designed forgetting emerge in small hyperbolic language models`: Rank rose by +2
+- **[Rank Rise]** `Risk-Aware General-Utility Markov Decision Processes`: Rank rose by +2
+- **[Rank Rise]** `Geopolitical alignment: Endorsement effects in large language models`: Rank rose by +2
+- **[Rank Rise]** `Blockchain-Linked Auditable Decision Management for Telecom/IoT Fraud-Control Requests`: Rank rose by +2
+- **[Rank Rise]** `LLMs for health: Perceived benefits, risks, intention to use AI chatbots, and willingness to self-disclose across sensitive health topics`: Rank rose by +2
+- **[Rank Rise]** `All you need is SAMPAT`: Rank rose by +2
+- **[Rank Rise]** `Git-Assistant: Planning-Based Support for Updating Git Repositories`: Rank rose by +2
+- **[Rank Rise]** `TACTIC: Tactile and Vision Conditioned Contact-Centric Control for Whole-Arm Manipulation`: Rank rose by +2
+- **[Rank Rise]** `Interference and Retention in Continual Learning`: Rank rose by +2
+- **[Rank Rise]** `Generative Communications: Overview, Technologies, and Trends`: Rank rose by +2
+- **[Rank Rise]** `Attention to Detail: Evaluating Energy, Performance, and Accuracy Trade-offs Across vLLM Configurations`: Rank rose by +2
+- **[Rank Rise]** `A Personalized Computational Framework for Assessing the Sufficiency of Partially Observed Data in Healthcare AI models`: Rank rose by +2
+- **[Rank Rise]** `ReGen: Hierarchical Multi-Prompt Representation Generation for Efficient Waveform Diffusion Models`: Rank rose by +2
+- **[Rank Rise]** `IB-Flow: Information Bottleneck-Guided CFG Distillation for Few-Step Text-to-Image Generation`: Rank rose by +2
+- **[Rank Rise]** `Augmenting Fundamental Analysis with Large Language Models: A RAG-Based System for Generating Investor Briefs`: Rank rose by +2
+- **[Rank Rise]** `Event Stream based Multi-Modal Video Anomaly Detection: A Benchmark Dataset and Algorithms`: Rank rose by +2
+- **[Rank Rise]** `Integrating Large Language Models and Graph Convolutional Networks for Semi-Supervised Image Classification`: Rank rose by +2
+- **[Rank Rise]** `Beyond Metadata: CAPRA for Hidden Subgroup Analysis under Missing Metadata in Medical Imaging`: Rank rose by +2
+- **[Rank Rise]** `A Coreset Selection Framework with Ensemble Aggregation for Image Classification`: Rank rose by +2
+- **[Rank Rise]** `PRecG: Legal Precedent Retrieval with Graph Neural Networks and Rhetorical Role Segmentation`: Rank rose by +2
+- **[Rank Rise]** `OmniMapBench: Benchmarking Visual-Centric Reasoning on Diverse Map Documents`: Rank rose by +2
+- **[Rank Rise]** `Inside the Skill Market: From Software Engineering Activities to Reusable Agent Skills`: Rank rose by +2
+- **[Rank Rise]** `On Locality and Length Generalization in Visual Reasoning`: Rank rose by +2
+- **[Rank Rise]** `Quantum Logic as the Logic of Contexts`: Rank rose by +2
+- **[Rank Rise]** `Evolutionary Intelligence for Scientific Discovery: From Evolutionary Computation to Cumulative Discovery Systems`: Rank rose by +2
+- **[Rank Rise]** `Video Generation Models are General-Purpose Vision Learners`: Rank rose by +2
+- **[Rank Rise]** `Phone Segmentation and Recognition through Phonological Activation Mapping`: Rank rose by +2
+- **[Rank Rise]** `Correlation-Aware Contextual Bandits with Surrogate Rewards for LLM Routing`: Rank rose by +2
+- **[Rank Rise]** `Model Agnostic Graph Prompt Learning for Crystal Property Prediction`: Rank rose by +2
+- **[Rank Rise]** `AlphaZero in Sparsely Rewarded Games: Limits and Auxiliary Supervision`: Rank rose by +2
+- **[Rank Rise]** `SCATE: Learning to Supervise Coding Agents for Cost-Effective Test Generation`: Rank rose by +2
+- **[Rank Rise]** `The Patchwork Problem in LLM-Generated Code`: Rank rose by +2
+- **[Rank Rise]** `CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding`: Rank rose by +2
+- **[Rank Rise]** `MultiView-Bench: A Diagnostic Benchmark for World-Centric Multi-View Integration in VLMs`: Rank rose by +2
+- **[Rank Rise]** `NL-PAC: Specification Ambiguity and Certified Minimax Risk Floors in LLM-Mediated Supervision`: Rank rose by +2
+- **[Rank Rise]** `Eluna: An Agentic LLM System for Automating Warehouse Operations with Reasoning and Task Execution`: Rank rose by +2
+- **[Rank Rise]** `A Novel Parallel QCNN Architecture with Efficient Classical Simulability`: Rank rose by +2
+- **[Rank Rise]** `Prompt-Driven Exploration`: Rank rose by +2
+- **[Rank Rise]** `TheBioCollection: Unified Pre-Training Scale LLM Corpus for Biology`: Rank rose by +2
+- **[Rank Rise]** `Multi-Conditioned Diffusion Synthesis of Sand Boils for Low-Resource Earthen-Levee Inspection`: Rank rose by +2
+- **[Rank Rise]** `EHR-MPC: Inference-Time Control for Sepsis Treatment with Generative Patient Digital Twins`: Rank rose by +2
+- **[Rank Rise]** `LLM-Driven Evolutionary Generation of Multi-Objective Bayesian Optimization Algorithms`: Rank rose by +2
+- **[Rank Rise]** `Accelerating GPU Inference of Large Language Models with Moderately Unstructured Sparse Weight Matrices`: Rank rose by +2
+- **[Rank Rise]** `DaDaDa: A Dataset for Data Pricing in Data Marketplaces`: Rank rose by +2
+- **[Rank Rise]** `HERO: A Heterogeneity-Aware Benchmark Library for Federated Continual Learning`: Rank rose by +2
+- **[Rank Rise]** `LieBN: Batch Normalization over Lie Groups`: Rank rose by +2
+- **[Rank Rise]** `Director: Accelerating Distributed MoE Serving via Online Proactive Expert Placement`: Rank rose by +2
+- **[Rank Rise]** `Reward Transport: Property Control in Flow Matching via Noise-Space Alignment`: Rank rose by +2
+- **[Rank Rise]** `Sticky Routing: Training MoE Models for Memory-Efficient Inference`: Rank rose by +2
+- **[Rank Rise]** `Signed Symmetric Quantization for Few-Bit Integers`: Rank rose by +2
+- **[Rank Rise]** `iLENS: Interpretable LLM-Guided Mixture-of-Experts for Neuroimaging Survival Analysis`: Rank rose by +2
+- **[Rank Rise]** `A Unified Approach to Interpreting Knowledge Distillation for Large Language Models via Interactions`: Rank rose by +2
+- **[Rank Rise]** `REFORGE: A Method for Benchmarking LLMs' Reverse Engineering Capabilities in Decompiled Binary Function Naming`: Rank rose by +2
+- **[Rank Rise]** `Minimal Decision Dynamics and Contextual Probability: A Quantum Tug-of-War Model`: Rank rose by +2
+- **[Rank Rise]** `ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI`: Rank rose by +2
+- **[Rank Rise]** `Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation`: Rank rose by +2
+- **[Rank Rise]** `TrustX Agent Risk Classification Framework (ARC): Risk-Tiering Internally Created Agentic AI Systems`: Rank rose by +2
+- **[Rank Rise]** `Knowledge Graphs and Explainable AI as Complementary Resources for Urban Mining`: Rank rose by +2
+- **[Rank Rise]** `Beyond Fixed Representations: The Vocabulary and Verifier Gaps in Open-Ended AI`: Rank rose by +2
+- **[Rank Rise]** `SAGEAgent: A Self-Evolving Agent for Cost-Aware Modality Acquisition in Multimodal Survival Prediction`: Rank rose by +2
+- **[Rank Rise]** `Shared Selective Persistent Memory for Agentic LLM Systems`: Rank rose by +2
+- **[Rank Rise]** `Multimodal Reward Hacking in Reinforcement Learning`: Rank rose by +2
+- **[Rank Rise]** `Ceci n'est pas une pipe: AI systems as semantic abstractions`: Rank rose by +2
+- **[Rank Rise]** `ProofCouncil: An LLM Agent for Solving Open Mathematical Problems`: Rank rose by +2
+- **[Rank Rise]** `How Does Bayesian Causal Discovery Fail? Characterising Structural Consequences in Linear Gaussian Networks under Latent Confounding`: Rank rose by +2
+- **[Rank Rise]** `Fictional Worldbuilding: Multi-Agent LLM Collaboration with Hierarchical Context Compression and Iterative Review`: Rank rose by +2
+- **[Rank Rise]** `Communication-Efficient Digital-Twin Coordination for Heterogeneous LLM Embodied Agents over Computing Power Networks`: Rank rose by +2
+- **[Rank Rise]** `LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making`: Rank rose by +2
+- **[Rank Rise]** `OpenProver: Agentic and Interactive Theorem Proving with Lean 4`: Rank rose by +2
+- **[Rank Rise]** `Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents`: Rank rose by +2
+- **[Rank Rise]** `Scoped Verification for Reliable Long-Horizon Agentic Context Evolution under Distribution Shift`: Rank rose by +2
+- **[Rank Rise]** `KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling`: Rank rose by +2
+- **[Rank Rise]** `MedRealMM: A Real-World Multimodal Benchmark for Chinese Online Medical Consultation`: Rank rose by +2
+- **[Rank Rise]** `L-MAD: A Systematic Evaluation of Multi-Agent Debate Structures in Legal Reasoning`: Rank rose by +2
+- **[Rank Rise]** `Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls`: Rank rose by +2
+- **[Rank Rise]** `ARCANA: A Reflective Multi-Agent Program Synthesis Framework for ARC-AGI-2 Reasoning`: Rank rose by +2
+- **[Rank Rise]** `A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game`: Rank rose by +2
+- **[Rank Rise]** `Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading`: Rank rose by +2
+- **[Rank Rise]** `GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning`: Rank rose by +2
+- **[Rank Rise]** `CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions`: Rank rose by +2
+- **[Rank Rise]** `Interval Certifications for Multilayered Perceptrons via Lattice Traversal`: Rank rose by +2
+- **[Rank Rise]** `Profiling in PyTorch (Part 3): Attention is all you profile`: Rank rose by +2
+- **[Rank Rise]** `hf-doc-build/doc-build-dev`: Rank rose by +2
+- **[Rank Rise]** `Qwen/Qwen3-VL-Embedding-2B · Hugging Face`: Rank rose by +2
+- **[Rank Rise]** `Quickstart — Sentence Transformers documentation`: Rank rose by +2
+- **[Rank Rise]** `blog/train-sentence-transformers.md at main · huggingface/blog · GitHub`: Rank rose by +2
+- **[Rank Rise]** `huggingface/sentence-transformers`: Rank rose by +2
+- **[Rank Rise]** `monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1`: Rank rose by +2
+- **[Rank Rise]** `deepset (deepset)`: Rank rose by +2
+- **[Rank Rise]** `SentenceTransformers Documentation — Sentence Transformers documentation`: Rank rose by +2
+- **[Rank Rise]** `Evaluate a simple LLM application - Ragas`: Rank rose by +1
+- **[Rank Rise]** `Haystack | Haystack`: Rank rose by +1
+- **[Rank Rise]** `HKUDS/LightRAG`: Rank rose by +1
+- **[Rank Rise]** `jim-schwoebel/awesome_ai_agents`: Rank rose by +1
+- **[Rank Rise]** `AhsanAyaz/ai-agents-google-adk`: Rank rose by +1
+- **[Rank Rise]** `coleam00/pydantic-ai-github-agent`: Rank rose by +1
+- **[Rank Rise]** `promptfoo/promptfoo-action`: Rank rose by +1
+- **[Rank Rise]** `ALucek/GraphRAG-Breakdown`: Rank rose by +1
+- **[Rank Rise]** `RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug`: Rank rose by +1
+- **[Rank Rise]** `Understanding RAG from Scratch | martinuke0's Blog`: Rank rose by +1
+- **[Rank Rise]** `Jul 9, 2026Case StudyUST is bringing Claude to physical AI`: Rank rose by +1
+- **[Rank Rise]** `How to Leverage Synthetic Speech for LLM-Based ASR Systems?`: Rank rose by +1
+- **[Rank Rise]** `Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?`: Rank rose by +1
+- **[Rank Rise]** `Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method`: Rank rose by +1
+- **[Rank Rise]** `MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation`: Rank rose by +1
+- **[Rank Rise]** `EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models`: Rank rose by +1
+- **[Rank Rise]** `Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin`: Rank rose by +1
+- **[Rank Rise]** `Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory`: Rank rose by +1
+- **[Rank Rise]** `MAVEN: A Multi-stage Agentic Annotation Pipeline for Video Reasoning Tasks`: Rank rose by +1
+- **[Rank Rise]** `CriterAlign: Criterion-Centric Rationale Alignment for Code Preference Judging`: Rank rose by +1
+- **[Rank Rise]** `DeepTutor: Towards Agentic Personalized Tutoring`: Rank rose by +1
+- **[Rank Rise]** `Predicting Scale-Up of Metal-Organic Framework Syntheses with Large Language Models`: Rank rose by +1
+- **[Rank Rise]** `Peer-Predictive Self-Training for Language Model Reasoning`: Rank rose by +1
+- **[Rank Rise]** `Beyond Attention Scores: SVD-Based Vision Token Pruning for Efficient Vision-Language Models`: Rank rose by +1
+- **[Rank Rise]** `Persona Matters: Effects of Activation Steering on Short Answer Generation and Scoring`: Rank rose by +1
+- **[Rank Rise]** `LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows`: Rank rose by +1
+- **[Rank Rise]** `Echoes: A semantically-aligned music deepfake detection dataset`: Rank rose by +1
+- **[Rank Rise]** `Robust Weighted Triangulation of Causal Effects Under Model Uncertainty`: Rank rose by +1
+- **[Rank Rise]** `An Online Reference-Free Evaluation Framework for Flowchart Image-to-Code Generation`: Rank rose by +1
+- **[Rank Rise]** `Self-EvolveRec: Self-Evolving Recommender Systems with LLM-based Directional Feedback`: Rank rose by +1
+- **[Rank Rise]** `SwinIFS: Landmark Guided Swin Transformer For Identity Preserving Face Super Resolution`: Rank rose by +1
+- **[Rank Rise]** `V-VLAPS: Value-Guided Planning for Vision-Language-Action Models`: Rank rose by +1
+- **[Rank Rise]** `CoCo-Fed: A Unified Framework for Memory- and Communication-Efficient Federated Learning at the Wireless Edge`: Rank rose by +1
+- **[Rank Rise]** `MSRNet: A Multi-Scale Recursive Network for Camouflaged Object Detection`: Rank rose by +1
+- **[Rank Rise]** `OREN: Octree Residual Network for Real-Time Euclidean Signed Distance Mapping`: Rank rose by +1
+- **[Rank Rise]** `Adaptive Generation of Bias-Eliciting Questions for LLMs`: Rank rose by +1
+- **[Rank Rise]** `TOPO-Bench: An Open-Source Topological Mapping Evaluation Framework with Quantifiable Perceptual Aliasing`: Rank rose by +1
+- **[Rank Rise]** `Less Is More: Reducing Token Counts Without Compromising Performance`: Rank rose by +1
+- **[Rank Rise]** `Concept-as-Tree: A Controllable Synthetic Data Framework Makes Stronger Personalized VLMs`: Rank rose by +1
+- **[Rank Rise]** `Simulator Ensembles for Trustworthy Autonomous Driving Systems Testing`: Rank rose by +1
+- **[Rank Rise]** `ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation`: Rank rose by +1
+- **[Rank Rise]** `The Contribution of XAI for the Safe Development and Certification of AI: An Expert-Based Analysis`: Rank rose by +1
+- **[Rank Rise]** `Retrieval of Scientific and Technological Resources for Experts and Scholars`: Rank rose by +1
+- **[Rank Rise]** `Accurate Portraits of Scientific Resources and Knowledge Service Components`: Rank rose by +1
+- **[Rank Rise]** `Distributed Attacks in Persistent-State AI Control`: Rank rose by +1
+- **[Rank Rise]** `Narration-of-Thought: Inference-Time Scaffolding for Defeasible Ethical Reasoning in Large Language Models`: Rank rose by +1
+- **[Rank Rise]** `Deployment-Time Memorization in Foundation-Model Agents`: Rank rose by +1
+- **[Rank Rise]** `Retrieval-Augmented Generation Must Move Beyond Factual Grounding to Represent Diverse Opinions`: Rank rose by +1
+- **[Rank Rise]** `RetailBench: Evaluating Long-Horizon Autonomous Decision-Making and Strategy Stability of LLM Agents in Realistic Retail Environments`: Rank rose by +1
+- **[Rank Rise]** `Conversational AI for Rapid Scientific Prototyping: A Case Study on ESA's ELOPE Competition`: Rank rose by +1
+- **[Rank Rise]** `SimRPD: Optimizing Recruitment Proactive Dialogue Agents through Simulator-Based Data Evaluation and Selection`: Rank rose by +1
+- **[Rank Rise]** `Dual-Difficulty Curriculum Learning for Direct Preference Optimization`: Rank rose by +1
+- **[Rank Rise]** `Goal-Driven Reasoning in DatalogMTL with Magic Sets`: Rank rose by +1
+- **[Rank Rise]** `IFAR: Multi-Perspective and Multi-Level Causal Discovery with LLMs`: Rank rose by +1
+- **[Rank Rise]** `OpenCoF: Learning to Reason Through Video Generation`: Rank rose by +1
+- **[Rank Rise]** `Validity of LLMs as data annotators: AMALIA on authority`: Rank rose by +1
+- **[Rank Rise]** `ProjAgent: Procedural Similarity Retrieval for Repository-Level Code Generation`: Rank rose by +1
+- **[Rank Rise]** `WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search`: Rank rose by +1
+- **[Rank Rise]** `UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing`: Rank rose by +1
+- **[Rank Rise]** `SMetric: Rethink LLM Scheduling for Serving Agents with Balanced Session-centric Scheduling`: Rank rose by +1
+- **[Rank Rise]** `VocaDet: Sample-Driven Open-Vocabulary Object Detection and Segmentation via Visual Tokenization and Vector Database Retrieval`: Rank rose by +1
+- **[Rank Rise]** `DocMaster: A Hierarchical Structure-Aware System for Document Analysis`: Rank rose by +1
+- **[Rank Rise]** `When the Judge Changes, So Does the Measurement: Auditing LLM-as-Judge Reliability`: Rank rose by +1
+- **[Rank Rise]** `The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality`: Rank rose by +1
+- **[Rank Rise]** `VEGAS: Human-Aligned Video Caption Evaluation via Gaze`: Rank rose by +1
+- **[Rank Rise]** `Two Axes of LLM Abstention: Answer Correctness and Question Answerability`: Rank rose by +1
+- **[Rank Rise]** `Spatio-Temporal Scheduling Prediction Under Backhaul Delay for Resilient Coordinated Beamforming`: Rank rose by +1
+- **[Rank Rise]** `ADORN: Adaptive Drift handling for Open RAN using Reinforcement Learning`: Rank rose by +1
+- **[Rank Rise]** `EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data`: Rank rose by +1
+- **[Rank Rise]** `When Synthetic Speech Is All You Have: Better Call GRPO`: Rank rose by +1
+- **[Rank Rise]** `Track2Map: Online Deformable SLAM with Motion-Aware Pose Optimization in Robotic Surgery`: Rank rose by +1
+- **[Rank Rise]** `Swapping Faces, Saving Features: A Dual-Purpose Pipeline for Pedestrian Privacy in ITS`: Rank rose by +1
+- **[Rank Rise]** `WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving`: Rank rose by +1
+- **[Rank Rise]** `Large-Language-Models-as-a-Judge in Theory-Agnostic Adaptive Metric-Alignment for Prototypical Networks in Personality Recognition`: Rank rose by +1
+- **[Rank Rise]** `On the Role of Conversational Timing in Synthetic Training Data for ASR`: Rank rose by +1
+- **[Rank Rise]** `FSD-VLN: Fast-Slow Dual-System Modeling for Aerial Long-Horizon Vision-Language Navigation`: Rank rose by +1
+- **[Rank Rise]** `TypeProbe: Recovering Type Representations from Hidden States of Pre-trained Code Models`: Rank rose by +1
+- **[Rank Rise]** `GitLake: Git-for-data for the agentic lakehouse`: Rank rose by +1
+- **[Rank Rise]** `From Legacy Documentation to OSCAL: An MCP-Based Agent Pipeline for Threat-Informed Continuous Compliance in Critical Infrastructure`: Rank rose by +1
+- **[Rank Rise]** `Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models`: Rank rose by +1
+- **[Rank Rise]** `TMI: Text-to-Image Meets Image-to-Image for Complementary Data Synthesis to Boost Long-Tailed Instance Segmentation`: Rank rose by +1
+- **[Rank Rise]** `Leveraging Color Naming for Image Enhancement`: Rank rose by +1
+- **[Rank Rise]** `LEEVLA: Seeing What Matters in Latent Environment Evolution for Vision-Language-Action`: Rank rose by +1
+- **[Rank Rise]** `Out of Sight: Compression-Aware Content Protection against Agentic Crawlers`: Rank rose by +1
+- **[Rank Rise]** `Prismata: Confining Cross-Site Prompt Injection in Web Agents`: Rank rose by +1
+- **[Rank Rise]** `ICDAR 2026 HIPE-OCRepair Competition on LLM-Assisted OCR Post-Correction for Historical Documents`: Rank rose by +1
+- **[Rank Rise]** `PS4: Proxy-Supervised Joint Training for Real Target Speaker Extraction`: Rank rose by +1
+- **[Rank Rise]** `LDFE: Laplacian Decoupled Feature Enhancement Block for Dual-Stream CNN-based RGB-IR Object Detection`: Rank rose by +1
+- **[Rank Rise]** `What LLM Forecasters Know but Don't Say: Probing Internal Representations for Calibration and Faithfulness`: Rank rose by +1
+- **[Rank Rise]** `Aleena: Alignment Agent for Research Software Engineering Collaborations`: Rank rose by +1
+- **[Rank Rise]** `PLURAL: A Global Dataset for Value Alignment`: Rank rose by +1
+- **[Rank Rise]** `DKDNet: Dual Knowledge and Data-Driven Network for Cross-Domain Automatic Modulation Classification`: Rank rose by +1
+- **[Rank Rise]** `Structured Pruning of Large Language Models via Power Transformation and Sign-Preserving Score Aggregation with Adaptive Feature Retention`: Rank rose by +1
+- **[Rank Rise]** `Can We Trust LLM's Logic? Quantifying Uncertainty, Coherence, and Robustness via a Graph-Based Framework`: Rank rose by +1
+- **[Rank Rise]** `Reaction-network reasoning with frontier models for experimentally confirmed catalyst-selectivity hypotheses`: Rank rose by +1
+- **[Rank Rise]** `A Reliability Assessment of LALM Audio Judges for Full-Duplex Voice Agents`: Rank rose by +1
+- **[Rank Rise]** `3100 Opinions on Code Review in an AI World: Building Causal Theory from Practitioner Discourse`: Rank rose by +1
+- **[Rank Rise]** `A Multi-cluster Boundary Learning Method for Out-of-Scope Intent Detection via MiniLM Embedding`: Rank rose by +1
+- **[Rank Rise]** `Beyond Thermal Imaging: Inferring Thermophysical Properties from Time-Resolved Thermal Observations`: Rank rose by +1
+- **[Rank Rise]** `Adversarial Decoys: Misdirecting Attention-Based Defenses in ViT`: Rank rose by +1
+- **[Rank Rise]** `Mechanistic Interpretability of LLM Jailbreaks via Internal Attribution Graphs`: Rank rose by +1
+- **[Rank Rise]** `Closed-Loop Dynamic Validator Node Scaling in Private Substrate Blockchains Using Takagi-Sugeno Fuzzy Inference`: Rank rose by +1
+- **[Rank Rise]** `How Do I Know What to Say Next? Barenholtz's Autogenerative Theory as an Enrichment of Harrisean Integrationism`: Rank rose by +1
+- **[Rank Rise]** `Time-to-Collision Based Dynamic Obstacle Avoidance Using Pretrained Vision Models for Robots in Unstructured Environments`: Rank rose by +1
+- **[Rank Rise]** `Multi-agent Autoformalization of Tensor Network Theory`: Rank rose by +1
+- **[Rank Rise]** `Kime-Representation Formulations of Three Open Problems in the Foundations of Classical Mechanics: Uncertainty, Invariant Entropy, and Directional Degrees of Freedom`: Rank rose by +1
+- **[Rank Rise]** `From Triggers to Emotions: A CPM-Grounded Appraisal Multi-Agent for Dynamic Emotional Evolution in Persona-Based Dialogue`: Rank rose by +1
+- **[Rank Rise]** `DreamCharacter-1: From 3D Generative Foundation Models to Product-Ready Character Generation`: Rank rose by +1
+- **[Rank Rise]** `From Solvers to Research: Large Language Model-Driven Formal Mathematics at the Research Frontier`: Rank rose by +1
+- **[Rank Rise]** `Collective Intelligence with Foundation Models`: Rank rose by +1
+- **[Rank Rise]** `Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation`: Rank rose by +1
+- **[Rank Rise]** `Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis`: Rank rose by +1
+- **[Rank Rise]** `AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding`: Rank rose by +1
+- **[Rank Rise]** `Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows`: Rank rose by +1
+- **[Rank Rise]** `The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs`: Rank rose by +1
+- **[Rank Rise]** `Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents`: Rank rose by +1
+- **[Rank Rise]** `SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets`: Rank rose by +1
+- **[Rank Rise]** `Formal Mechanisms for Market Stability in Self-Interested Agent Societies: A Marketplace Simulation Study`: Rank rose by +1
+- **[Rank Rise]** `The complexities of patient-centred conversational artificial intelligence`: Rank rose by +1
+- **[Rank Rise]** `Towards Precision Therapy in Hepatocellular Carcinoma: A Clinical-Reasoning LLM for Risk Stratification and Treatment Guidance`: Rank rose by +1
+- **[Rank Rise]** `SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits`: Rank rose by +1
+- **[Rank Rise]** `CommuniWave:A Machine Learning Model for Quantifying the Degree of Temporary Informal Behavior in Urban Communities`: Rank rose by +1
+- **[Rank Rise]** `Drift-Aware Temporal Graph Rewiring (DATGR) for Adaptive Semantic Modeling in Biomedical Text`: Rank rose by +1
+- **[Rank Rise]** `Applying JEPA-Style Predictive Learning to JA4-Derived Network Fingerprints`: Rank rose by +1
+- **[Rank Rise]** `OmniFood-Bench: Evaluating VLMs for Nutrient Reasoning and Personalized Health Advice`: Rank rose by +1
+- **[Rank Rise]** `Game Theory Driven Multi-Agent Framework Mitigates Language Model Hallucination`: Rank rose by +1
+- **[Rank Rise]** `Towards Mechanistically Understanding Why Memorized Knowledge Fails to Generalize in Large Language Model Finetuning`: Rank rose by +1
+- **[Rank Rise]** `FedOPAL: One-Shot Federated Learning via Analytic Visual Prompt Tuning`: Rank rose by +1
+- **[Rank Rise]** `MobiDiff: Semantic-Aware Multi-Channel Discrete Diffusion for Human Mobility Data Generation`: Rank rose by +1
+- **[Rank Rise]** `Blind-Spots-Bench: Evaluating Blind Spots in Multimodal Models`: Rank rose by +1
+- **[Rank Rise]** `Psychological Competence as a Missing Dimension in AI Evaluation`: Rank rose by +1
+- **[Rank Rise]** `Understanding Axes of Difficulty For Long Context Tasks Via PredicateLongBench`: Rank rose by +1
+- **[Rank Rise]** `PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs`: Rank rose by +1
+- **[Rank Rise]** `Different Teachers, Different Capabilities: Sub-1B On-Device Distillation for Structured Text Enrichment`: Rank rose by +1
+- **[Rank Rise]** `MentalHospital: A Virtual Environment for Evaluating Psychiatric Clinical Encounters`: Rank rose by +1
+- **[Rank Rise]** `Compete Then Collaborate: Frontier AI Teachers Build a Verifiable Curriculum to Improve a Coding Student Beyond Imitation`: Rank rose by +1
+- **[Rank Rise]** `AutoPersonas: A Multi-Timescale Loop Engine for Open-Ended Persona Evolution`: Rank rose by +1
+- **[Rank Rise]** `Playing ZendoWorld: Challenging AI Agents on Active Visual Concept Induction`: Rank rose by +1
+- **[Rank Rise]** `ASMR: Agentic Schema Generation for Ship Maintenance Report Writing`: Rank rose by +1
+- **[Rank Rise]** `Overthinking: Amplifying Reasoning Weights to Extract Learned Secrets`: Rank rose by +1
+- **[Rank Rise]** `Answer Set Programming Energised! End-to-End Neurosymbolic Reasoning and Learning with ASP and Energy Based Models`: Rank rose by +1
+- **[Rank Rise]** `PARA-PV: Physics-Aware Retrieval-Augmented PV Prediction Based on Frozen Foundation Model and Distribution Shift Correction`: Rank rose by +1
+- **[Rank Rise]** `When LLMs Agree, Are They Right? Auditing Self-Consistency and Cross-Model Agreement as Confidence Signals`: Rank rose by +1
+- **[Rank Rise]** `A safety-oriented hypothetico-deductive framework for AI-assisted differential diagnosis`: Rank rose by +1
+- **[Rank Rise]** `From Prompts to Contracts: Harness Engineering for Auditable Enterprise LLM Agents`: Rank rose by +1
+- **[Rank Rise]** `Concretized Proposition Prompting Resolves Composition-Knowledge Dichotomy in Large Language Models`: Rank rose by +1
+- **[Rank Rise]** `Agentic Neural Architecture Search`: Rank rose by +1
+- **[Rank Rise]** `Nigeria Machinery: A Low-Resource Industrial Dataset with a Domain-Grounded Reasoning Layer`: Rank rose by +1
+- **[Rank Rise]** `A Graph Neural Network Model for Real-Time Gesture Recognition Based on sEMG Signals`: Rank rose by +1
+- **[Rank Rise]** `VectorizationLLM: Smart Vectorization Based AI Assistant`: Rank rose by +1
+- **[Rank Rise]** `Infinity-Parser2 Technical Report`: Rank rose by +1
+- **[Rank Rise]** `Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses`: Rank rose by +1
+- **[Rank Rise]** `Alignment Plausibility: A New Standard for Assuring AI in Healthcare`: Rank rose by +1
+- **[Rank Rise]** `Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning`: Rank rose by +1
+- **[Rank Rise]** `Adversarial Social Epistemology for Assemblies of Humans and Large Language Models`: Rank rose by +1
+- **[Rank Rise]** `AI-integrated models for assessing agricultural resilience`: Rank rose by +1
+- **[Rank Rise]** `Theoria: Rewrite-Acceptability Verification over Informal Reasoning States`: Rank rose by +1
+- **[Rank Rise]** `SHARP: Sleep-based Hierarchical Accelerated Replay for Long Range Non-Stationary Temporal Pattern Recognition`: Rank rose by +1
+- **[Rank Rise]** `Benchmarking Recursive-Collapse Warning Claims Under Matched False-Positive Control`: Rank rose by +1
+- **[Rank Rise]** `ZAPS-DA: Zero-Phase Action Policy Smoothing with Decoupled Actor for Continuous Control in Reinforcement Learning`: Rank rose by +1
+- **[Rank Rise]** `The Proxy Presumption: From Semantic Embeddings to Valid Social Measures`: Rank rose by +1
+- **[Rank Rise]** `The Power of Power Law: Asymmetry Enables Compositional Reasoning`: Rank rose by +1
+- **[Rank Rise]** `Tessera: Unlocking Heterogeneous GPUs through Kernel-Granularity Disaggregation`: Rank rose by +1
+- **[Rank Rise]** `Weak Adversarial Neural Pushforward Method for the Wigner Transport Equation`: Rank rose by +1
+- **[Rank Rise]** `Spatiotemporal Gaussian representation-based dynamic reconstruction and motion estimation framework for time-resolved volumetric MR imaging (DREME-GSMR)`: Rank rose by +1
+- **[Rank Rise]** `Neural Harmonic Textures for High-Quality Primitive Based Neural Reconstruction`: Rank rose by +1
+- **[Rank Rise]** `Less Data, Faster Convergence: Goal-Driven Data Optimization for Multimodal Instruction Tuning`: Rank rose by +1
+- **[Rank Rise]** `Sign Identifiability of Causal Effects in Stationary Stochastic Dynamical Systems`: Rank rose by +1
+- **[Rank Rise]** `Curvature-Weighted Capacity Allocation: A Minimum Description Length Framework for Layer-Adaptive Large Language Model Optimization`: Rank rose by +1
+- **[Rank Rise]** `Rethinking LLM-as-a-Judge: Representation-as-a-Judge with Small Language Models via Semantic Capacity Asymmetry`: Rank rose by +1
+- **[Rank Rise]** `A Tool Bottleneck Framework for Clinically-Informed and Interpretable Medical Image Understanding`: Rank rose by +1
+- **[Rank Rise]** `Maximum Mean Discrepancy with Unequal Sample Sizes via Generalized U-Statistics`: Rank rose by +1
+- **[Rank Rise]** `DualHNIE: Dual-Channel Hypergraph Learning for Node Importance Estimation in Heterogeneous Knowledge Graphs`: Rank rose by +1
+- **[Rank Rise]** `SeFA-Policy: Fast and Accurate Visuomotor Policy Learning with Selective Flow Alignment`: Rank rose by +1
+- **[Rank Rise]** `Robustness to Sparse Adversarial Corruption in Arbitrary Linear Measurements: Beyond Exact Recovery`: Rank rose by +1
+- **[Rank Rise]** `A Vision Toward Energy-Efficient Domain-Specific Artificial Intelligence Models and Agents`: Rank rose by +1
+- **[Rank Rise]** `Dropping Just a Handful of Preferences Can Change Top Large Language Model Rankings`: Rank rose by +1
+- **[Rank Rise]** `Douglas-Rachford Splitting for Group-Sparse Feedback Linear-Quadratic Control`: Rank rose by +1
+- **[Rank Rise]** `Instance Generation for Patient-to-room Assignment and Admission Scheduling Based on Real Hospital Data`: Rank rose by +1
+- **[Rank Rise]** `Bayesian Deep Learning for Discrete Choice`: Rank rose by +1
+- **[Rank Rise]** `ToDMA: Large Model-Driven Massive Token Communications for Semantic Multiple Access`: Rank rose by +1
+- **[Rank Rise]** `($\theta_l, \theta_u$)-Parametric Multi-Task Optimization: Joint Search in Solution and Infinite Task Spaces`: Rank rose by +1
+- **[Rank Rise]** `Joint Bayesian Parameter and Model Order Estimation for Low-Rank Probability Mass Tensors`: Rank rose by +1
+- **[Rank Rise]** `Data Alchemy: Mitigating Cross-Site Model Variability Through Test Time Data Calibration`: Rank rose by +1
+- **[Rank Rise]** `Conformal Predictive Programming for Chance Constrained Optimization`: Rank rose by +1
+- **[Rank Rise]** `Calibrated Stackelberg Games: Learning Optimal Commitments Against Calibrated Agents`: Rank rose by +1
+- **[Rank Rise]** `Knowledge Graph and Accurate Portrait Construction of Scientific and Technological Academic Conferences`: Rank rose by +1
+- **[Rank Rise]** `Generalization in offline RL: The structure is more important than the amount of pessimism`: Rank rose by +1
+- **[Rank Rise]** `SOAP-Bubbles: Structured Weight Uncertainty for Neural Networks`: Rank rose by +1
+- **[Rank Rise]** `Hierarchical Control in Multi-Agent Games: LLM-based Planning and RL Execution`: Rank rose by +1
+- **[Rank Rise]** `KG-SoftMAP: Soft Knowledge-Graph Priors for Bayesian Network Structure Learning from Sparse Discrete Data`: Rank rose by +1
+- **[Rank Rise]** `A Sliced-Wasserstein Framework on Correlation Matrices for EEG Decoding`: Rank rose by +1
+- **[Rank Rise]** `Temporal Preference Concepts and their Functions in a Large Language Model`: Rank rose by +1
+- **[Rank Rise]** `When RLHF Fails: A Mechanistic Taxonomy of Reward Hacking, Collapse, and Evaluator Gaming`: Rank rose by +1
+- **[Rank Rise]** `From Performance to Representational Adequacy: A Representational Bootstrap Framework for Adaptive Biological Systems`: Rank rose by +1
+- **[Rank Rise]** `Coupling-Robust Accuracy in Multiphysics Physics Informed Neural Networks via Kronecker-Preconditioned Optimization`: Rank rose by +1
+- **[Rank Rise]** `MasFACT: Continual Multi-Agent Topology Learning via Geometry-Aware Posterior Transfer`: Rank rose by +1
+- **[Rank Rise]** `Second-Order Actor-Critic Methods for Discounted MDPs via Policy Hessian Decomposition`: Rank rose by +1
+- **[Rank Rise]** `Before the Last Token: Diagnosing Final-Token Safety Probe Failures`: Rank rose by +1
+- **[Rank Rise]** `LoKA: Low-precision Kernel Applications for Recommendation Models At Scale`: Rank rose by +1
+- **[Rank Rise]** `Wasserstein Distributionally Robust Regret Optimization for Reinforcement Learning from Human Feedback`: Rank rose by +1
+- **[Rank Rise]** `Does Dimensionality Reduction via Random Projections Preserve Landscape Features?`: Rank rose by +1
+- **[Rank Rise]** `Beyond Fixed False Discovery Rates: Post-Hoc Conformal Selection with E-Variables`: Rank rose by +1
+- **[Rank Rise]** `StateLinFormer: Stateful Training Enhancing Long-term Memory in Navigation`: Rank rose by +1
+- **[Rank Rise]** `Robustness Quantification for Discriminative Models: a New Robustness Metric and its Application to Dynamic Classifier Selection`: Rank rose by +1
+- **[Rank Rise]** `Improving RCT-Based Treatment Effect Estimation Under Covariate Mismatch via Calibrated Alignment`: Rank rose by +1
+- **[Rank Rise]** `Variational Phasor Circuits for Phase-Native Brain-Computer Interface Classification`: Rank rose by +1
+- **[Rank Rise]** `The Phasor Transformer: Resolving Attention Bottlenecks on the Unit Circle`: Rank rose by +1
+- **[Rank Rise]** `Optimal uncertainty bounds for multivariate kernel regression under bounded noise: A Gaussian process-based dual function`: Rank rose by +1
+- **[Rank Rise]** `PhasorFlow: A Python Library for Unit Circle Based Computing`: Rank rose by +1
+- **[Rank Rise]** `Safe Flow Q-Learning: Offline Safe Reinforcement Learning with Reachability-Based Flow Policies`: Rank rose by +1
+- **[Rank Rise]** `Partial Causal Structure Learning for Valid Selective Conformal Inference under Interventions`: Rank rose by +1
+- **[Rank Rise]** `Provable Subspace Identification of Nonlinear Multi-view CCA`: Rank rose by +1
+- **[Rank Rise]** `Communication-Efficient Byzantine-Robust Federated Conformal Prediction via Partial Model Sharing`: Rank rose by +1
+- **[Rank Rise]** `BRIDGE: Bridging Reasoning In Distillation Gap Elimination via Structure-Aware Masking`: Rank rose by +1
+- **[Rank Rise]** `Beyond Success Rates: Trainability and Extractability for Offline GCRL`: Rank rose by +1
+- **[Rank Rise]** `Towards Isolated Interventions via Almost Orthogonal Features in Language Models`: Rank rose by +1
+- **[Rank Rise]** `HeaPA: Difficulty-Aware Heap Sampling and On-Policy Query Augmentation for LLM Reinforcement Learning`: Rank rose by +1
+- **[Rank Rise]** `XFACTORS: Disentangled Information Bottleneck via Contrastive Supervision`: Rank rose by +1
+- **[Rank Rise]** `Threshold Differential Attention for Sink-Free, Ultra-Sparse, and Non-Dispersive Language Modeling`: Rank rose by +1
+- **[Rank Rise]** `GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance`: Rank rose by +1
+- **[Rank Rise]** `Bridging Cognitive Neuroscience and Graph Intelligence: Hippocampus-Inspired Multi-View Hypergraph Learning for Web Finance Fraud`: Rank rose by +1
+- **[Rank Rise]** `Resolving Predictive Multiplicity for the Rashomon Set`: Rank rose by +1
+- **[Rank Rise]** `Multi-Distribution Robust Conformal Prediction`: Rank rose by +1
+- **[Rank Rise]** `Deep Neural Networks as Discrete Dynamical Systems: Implications for Physics-Informed Learning`: Rank rose by +1
+- **[Rank Rise]** `Persistent Multiscale Density-based Clustering`: Rank rose by +1
+- **[Rank Rise]** `Geometry-Aware Deep Congruence Networks for Manifold Learning in Cross-Subject Motor Imagery`: Rank rose by +1
+- **[Rank Rise]** `On the Gradient Complexity of Private Optimization with Private Oracles`: Rank rose by +1
+- **[Rank Rise]** `Are Current Continual Learning Methods Truly Agnostic? Introducing OPRE, a Step Toward Agnostic Continual Learning`: Rank rose by +1
+- **[Rank Rise]** `MultiFair: Multimodal Balanced Fairness-Aware Medical Classification with Dual-Level Gradient Modulation`: Rank rose by +1
+- **[Rank Rise]** `Neural non-canonical Hamiltonian dynamics for long-time simulations`: Rank rose by +1
+- **[Rank Rise]** `How Causal Abstraction Underpins Computational Explanation`: Rank rose by +1
+- **[Rank Rise]** `Koopman-informed recurrent neural networks`: Rank rose by +1
+- **[Rank Rise]** `Precise localization within the GI tract by combining classification of CNNs and time-series analysis of HMMs`: Rank rose by +1
+- **[Rank Rise]** `Efficient Partitioning Method of Large-Scale Public Safety Spatio-Temporal Data based on Information Loss Constraints`: Rank rose by +1
+- **[Rank Rise]** `Computation, Condensation, and the Incompleteness Between Them: A Coupled Foundation of Intelligence`: Rank rose by +1
+- **[Rank Rise]** `Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling`: Rank rose by +1
+- **[Rank Rise]** `MulTTiPop: A Multitrack Transcription Dataset for Pop Music`: Rank rose by +1
+- **[Rank Rise]** `ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation`: Rank rose by +1
+- **[Rank Rise]** `Pose-to-Biomechanics: Bridging 3D Human Pose Estimation and Biomechanical Attribute Prediction`: Rank rose by +1
+- **[Rank Rise]** `LTM: Large-scale Terrain Model for Wildfire-prone Landscapes`: Rank rose by +1
+- **[Rank Rise]** `When Structured Sparse Autoencoders Learn Consistent Concepts Across Modalities`: Rank rose by +1
+- **[Rank Rise]** `ImputeViz: A Visual Analytics Dashboard for Diagnosing Missing Data and Comparing Imputation Methods`: Rank rose by +1
+- **[Rank Rise]** `Structural Bottlenecks on Frequency Representation in End-to-End Audio Models`: Rank rose by +1
+- **[Rank Rise]** `High-Dimensional Procrustes Matching via Tree Counts`: Rank rose by +1
+- **[Rank Rise]** `AI-guided stimuli discovery and generation to optimize facial emotion perception studies in autism`: Rank rose by +1
+- **[Rank Rise]** `Cognitive-structured Multimodal Agent for Multimodal Understanding, Generation, and Editing`: Rank rose by +1
+- **[Rank Rise]** `Predicting Viticulture Potential through an Ensemble of U-Net and a Geospatial Foundation Model`: Rank rose by +1
+- **[Rank Rise]** `Statistical Efficiency and Inference of Quantile Distributional Reinforcement Learning`: Rank rose by +1
+- **[Rank Rise]** `FPGN: Redefining Ultra-Fast Programmable Gate-based Neural Acceleration with Differentiable LUTs`: Rank rose by +1
+- **[Rank Rise]** `DrugGen 2: A disease-aware language model for enhancing drug discovery`: Rank rose by +1
+- **[Rank Rise]** `TRACE: A Two-Channel Robust Attribution Watermark via Complementary Embeddings for LLM-Agent Trajectories`: Rank rose by +1
+- **[Rank Rise]** `Prompt Compression via Activation Aggregation`: Rank rose by +1
+- **[Rank Rise]** `Joint Discrete-Continuous Flow Matching for Open-Vocabulary Inverse Design of Multilayer Optical Coatings`: Rank rose by +1
+- **[Rank Rise]** `On Exploring Input Resolution Scaling For Anytime LiDAR Object Detection`: Rank rose by +1
+- **[Rank Rise]** `Revisiting One-Zero and Two-Zero Neutrino Mass Textures in Light of Recent Oscillation and Cosmological Data`: Rank rose by +1
+- **[Rank Rise]** `Tubular Neighbourhoods of Pfaffian Sets and Applications to Neural Networks`: Rank rose by +1
+- **[Rank Rise]** `Prediction-Powered Active Testing`: Rank rose by +1
+- **[Rank Rise]** `Bayesian Experimental Design via Score Matching`: Rank rose by +1
+- **[Rank Rise]** `INTENT: An LSTM Framework for Vehicle Intention Prediction in Intersection Scenarios with Comprehensive Ablation Analysis`: Rank rose by +1
+- **[Rank Rise]** `Best-of-$N$ TTS Evaluation is Confounded by ASR Family Alignment`: Rank rose by +1
+- **[Rank Rise]** `Closing the Null Space: Guidance-Aware Quantization for Classifier-Free Diffusion`: Rank rose by +1
+- **[Rank Rise]** `Benchmark Evaluation of Feredated Learning on Multi-organ Images`: Rank rose by +1
+- **[Rank Rise]** `MLQENABLER: Enabling Secure Machine Learning Queries over Encrypted Database in Cloud Computing`: Rank rose by +1
+- **[Rank Rise]** `A First-Principles Theory of Slow Thinking and Active Perception`: Rank rose by +1
+- **[Rank Rise]** `MuScriptor: An Open Model for Multi-Instrument Music Transcription`: Rank rose by +1
+- **[Rank Rise]** `ProsMAE: Multi-Source MAE Pretraining for ISUP Grade Classification`: Rank rose by +1
+- **[Rank Rise]** `LEXIC: Lightweight Eye-tracking eXtension via Injected Complexity`: Rank rose by +1
+- **[Rank Rise]** `Generalization Theory for Through-the-Wall Radar Human Activity Recognition`: Rank rose by +1
+- **[Rank Rise]** `Securing Autonomous Vehicle Systems via Twin-Aware Federated Reinforcement Learning`: Rank rose by +1
+- **[Rank Rise]** `TTHE: Test-Time Harness Evolution`: Rank rose by +1
+- **[Rank Rise]** `BACH: A Bayesian Admixture of Contrastive Heads for Multi-Interest Two-Tower Retrieval`: Rank rose by +1
+- **[Rank Rise]** `CausalDS: Benchmarking Causal Reasoning in Data-Science Agents`: Rank rose by +1
+- **[Rank Rise]** `ConRad: Efficient Conformal Prediction for Radiomics`: Rank rose by +1
+- **[Rank Rise]** `COBART: Controlled, Optimized, Bidirectional and Auto-Regressive Transformer for Ad Headline Generation`: Rank rose by +1
+- **[Rank Rise]** `Persuasion Attacks Can Decrease Effectiveness of CoT Monitoring`: Rank rose by +1
+- **[Rank Rise]** `Holographic Neural PCFG for Unsupervised Parsing`: Rank rose by +1
+- **[Rank Rise]** `RadioDiff-v2: Generative Angular Radio Maps for Multi-Beam Selection and Localization`: Rank rose by +1
+- **[Rank Rise]** `APIVOT: Adaptive Planning with Interleaved Vision-Language Thoughts`: Rank rose by +1
+- **[Rank Rise]** `FedTR: Federated Learning Framework with Transfer Learning for Industrial Visual Inspection`: Rank rose by +1
+- **[Rank Rise]** `Beware What You Autocomplete: Forensic Attribution of Backdoored Code Completions`: Rank rose by +1
+- **[Rank Rise]** `Tool-Making and Self-Evolving LLM Agents in Low-Latency Systems`: Rank rose by +1
+- **[Rank Rise]** `Unit-Independent Low-Rate Wrist GSR Processing for Stress Detection Using Phasic nSCR Features`: Rank rose by +1
+- **[Rank Rise]** `SpO$_2$ Predictor-Guided Stage-Wise Time-Frequency Reconstruction of Low-Quality Dual-Wavelength PPG for Oxygen Saturation Estimation`: Rank rose by +1
+- **[Rank Rise]** `Hallucination Self-Play: Bootstrapping Reinforced Detector via Evolved Generator`: Rank rose by +1
+- **[Rank Rise]** `Who Broke the System? Failure Localization in LLM-Based Multi-Agent Systems`: Rank rose by +1
+- **[Rank Rise]** `A Quantum Reservoir Architecture for Chaotic Forecasting and a Test of Whether Its High Dimension Helps`: Rank rose by +1
+- **[Rank Rise]** `When Implausible Tokens Get Reinforced: Tail-Aware Credit Calibration for LLM Reinforcement Learning`: Rank rose by +1
+- **[Rank Rise]** `Expressivity and Statistical Trade-offs in Diffusion Policy Learning`: Rank rose by +1
+- **[Rank Rise]** `Evaluating the Effect of Frame Rate in Sequence-Based Classification of Autism-Related Self-Stimulatory Hand Idiosyncrasies`: Rank rose by +1
+- **[Rank Rise]** `DeepSWE: Measuring Frontier Coding Agents on Original, Long-Horizon Engineering Tasks`: Rank rose by +1
+- **[Rank Rise]** `Persona Cartography: Charting Language Model Personality Traits in Weight Space`: Rank rose by +1
+- **[Rank Rise]** `Functional and Secure Code Generation with Task Vectors`: Rank rose by +1
+- **[Rank Rise]** `CTA-Pipelining: A Latency-Oriented Spatial Scaling Method for Multi-GPU Systems`: Rank rose by +1
+- **[Rank Rise]** `Feedback Manipulation Regularization: Enabling Offline Agent Alignment for Imitation Learning`: Rank rose by +1
+- **[Rank Rise]** `Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting`: Rank rose by +1
+- **[Rank Rise]** `False Confidence: Automated Labels Confound Fairness Audits in Cervical Spine Segmentation`: Rank rose by +1
+- **[Rank Rise]** `Shift & Drift: A Zero-Shot Benchmark for Generalizable and Robust Autonomous Driving Motion Planning`: Rank rose by +1
+- **[Rank Rise]** `GradInf: Gradient Estimation as Probabilistic Inference`: Rank rose by +1
+- **[Rank Rise]** `Distributionally Faithful Imputation via Positive Semi-Definite Kernel Density Estimation`: Rank rose by +1
+- **[Rank Rise]** `SASGeo: Stability-Aware Semantic Map Localization for GNSS-Denied UAVs -- A Framework and Synthetic Proof of Concept`: Rank rose by +1
+- **[Rank Rise]** `The Regularization Parameter: Sparse Precision Matrix Estimation`: Rank rose by +1
+- **[Rank Rise]** `A Self-Supervised Approach for Minimal-Annotation Hydroacoustic Data Exploration`: Rank rose by +1
+- **[Rank Rise]** `Context Graphs for Proactive Enterprise Agents`: Rank rose by +1
+- **[Rank Rise]** `Statistical inverse learning problems with random observations`: Rank rose by +1
+- **[Rank Rise]** `SLORR: Simple and Efficient In-Training Low-Rank Regularization`: Rank rose by +1
+- **[Rank Rise]** `Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph`: Rank rose by +1
+- **[Rank Rise]** `Super Weights in LLMs and the Failure of Selective Training`: Rank rose by +1
+- **[Rank Rise]** `Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference`: Rank rose by +1
+- **[Rank Rise]** `Deep Learning for Joint Narrowband Interference Cancellation and Soft Demodulation in OFDM Systems`: Rank rose by +1
+- **[Rank Rise]** `MPFlow: Learning Budgeted Max-Flow Optimization on the Lightning Network with Deep Graph Reinforcement Learning`: Rank rose by +1
+- **[Rank Rise]** `A Practical Investigation of Training-free Relaxed Speculative Decoding`: Rank rose by +1
+- **[Rank Rise]** `Resample or Reroute? Budget-Aware Test-Time Model Selection for Large Language Models`: Rank rose by +1
+- **[Rank Rise]** `EdgeRefine: Privacy-Utility Balance for Graphs via Jaccard Sampling under Edge Differential Privacy`: Rank rose by +1
+- **[Rank Rise]** `Secure Decentralized Federated Learning via Gossip and Virtual Voting`: Rank rose by +1
+- **[Rank Rise]** `Multi-Modal, Multi-Environment Machine Teaching for Robust Reward Learning`: Rank rose by +1
+- **[Rank Rise]** `BiSCo-LLM: Lookup-Free Binary Spherical Coding for Extreme Low-Bit Large Language Model Compression`: Rank rose by +1
+- **[Rank Rise]** `Steering Neural Network Training through Interpretable Constraints Based on Partial Dependence`: Rank rose by +1
+- **[Rank Rise]** `Federated Deep Learning for Privacy-Preserving Cardiovascular Disease Risk Prediction`: Rank rose by +1
+- **[Rank Rise]** `Robust Bayesian Decision Making under Adversarial Uncertainty`: Rank rose by +1
+- **[Rank Rise]** `Spectral Stability of Pseudoinverse-Based Extreme Learning Machine`: Rank rose by +1
+- **[Rank Rise]** `Contravariance Theory: Strong Alignment for Minimal Solutions to Hard Tasks`: Rank rose by +1
+- **[Rank Rise]** `CAAD: Causality-Aware Multivariate Time Series Anomaly Detection via Multi-Scale Alignment and Structural Causal Consistency`: Rank rose by +1
+- **[Rank Rise]** `Stop Guessing When to Stop Testing: Efficient Model Evaluation with Just Enough Data`: Rank rose by +1
+- **[Rank Rise]** `Systematic Evaluation of Learning Rate Scheduling Strategies Across Heterogeneous Architectures`: Rank rose by +1
+- **[Rank Rise]** `Ensemble Diversity Optimization for Subjective Supervision`: Rank rose by +1
+- **[Rank Rise]** `Frequency-Domain Multi-Modality Transportation Modeling`: Rank rose by +1
+- **[Rank Rise]** `MatBind: A Shared Embedding Space for Multimodal Materials Characterization`: Rank rose by +1
+- **[Rank Rise]** `Predicting Male Fertility Using Machine Learning: A Semen Parameters Based Analysis with the VISEM Dataset`: Rank rose by +1
+- **[Rank Rise]** `Beyond Backpropagation: Monte Carlo Method Can Train Deep Neural Networks`: Rank rose by +1
+- **[Rank Rise]** `Dynamics of Gradient Descent with Large Step Size Near a Manifold of Flat Minima`: Rank rose by +1
+- **[Rank Rise]** `Eigenvalue Calibration for Semantic Embeddings of Large Language Models`: Rank rose by +1
+- **[Rank Rise]** `Self-Adaptive Anomaly Detection with Reinforcement Learning and Human Feedback in Connected Vehicles`: Rank rose by +1
+- **[Rank Rise]** `Certified Interventional Fidelity: Anytime-Valid, Adaptive Evaluation of Causal Claims in Mechanistic Interpretability`: Rank rose by +1
+- **[Rank Rise]** `Spectral Analysis of Dueling Q-Learning`: Rank rose by +1
+- **[Rank Rise]** `AutoAnchor: Stable Diffusion Unlearning Using Cross-Attention as a Manifold Surrogate`: Rank rose by +1
+- **[Rank Rise]** `ArtMine: Discovering and Formalizing Artistic Processes`: Rank rose by +1
+- **[Rank Rise]** `Write-Protected Discrete Bottlenecks for Language-Grounded World Models: A Structural Limitation and Sufficient Fix`: Rank rose by +1
+- **[Rank Rise]** `Learning $\mathsf{AC}^0$ under Locally Sampleable Graphical Models`: Rank rose by +1
+- **[Rank Rise]** `Classifier Chain-based Pathological Test Recommendation`: Rank rose by +1
+- **[Rank Rise]** `CASL-VAE: Learning Structured Latent Variables from Unpaired Data for Semi-supervised Clustering and Paired Sample Generation`: Rank rose by +1
+- **[Rank Rise]** `An interpretable Good--Turing restart criterion for k-means++`: Rank rose by +1
+- **[Rank Rise]** `Structure Learning on Clustered Data`: Rank rose by +1
+- **[Rank Rise]** `RhyMix: A Lightweight Adaptive Multi-Rhythm Network for Long-Term Time Series Forecasting`: Rank rose by +1
+- **[Rank Rise]** `PIT-SUN: A Deployable Empirical Marginal Transform Framework with Expectation-Consistent Recovery for Regression in Recommender Systems`: Rank rose by +1
+- **[Rank Rise]** `Open-ended Multi-agent Autocurricula via Visual Inspection of Policies with Multi-modal LLMs`: Rank rose by +1
+- **[Rank Rise]** `Understanding Layer Patching in Model Size Interpolation`: Rank rose by +1
+- **[Rank Rise]** `DeepPySR -- A Symbolic Regression Framework with Dynamic Pruning, Pareto Selection, and Hierarchical Composition for Real-World Scientific Discovery`: Rank rose by +1
+- **[Rank Rise]** `Workload-Preserving Differentially Private Synthetic Data for Causal Inference via Maximum-Entropy Calibration`: Rank rose by +1
+- **[Rank Rise]** `Contrastive Order Learning: A General Framework for Ordinal Regression`: Rank rose by +1
+- **[Rank Rise]** `Vanilla SGD with Momentum Survives Heavy-Tailed Noise: Convergence Analysis without Gradient Clipping or Normalization`: Rank rose by +1
+- **[Rank Rise]** `Stochastic Order Learning: An Approach to Rank Estimation Using Noisy Data`: Rank rose by +1
+- **[Rank Rise]** `Deep Learning Method for Stationary Distribution of Reflected Brownian Motion`: Rank rose by +1
+- **[Rank Rise]** `Modular Pretraining Enables Access Control`: Rank rose by +1
+- **[Rank Rise]** `Cross-Modal Generative Framework for Signal Translation from Fetal-Maternal Electrocardiograms to Fetal Doppler Waveforms`: Rank rose by +1
+- **[Rank Rise]** `When Thinking Hurts: Epistemic Signals in the Reasoning Chains of Visual Language Models`: Rank rose by +1
+- **[Rank Rise]** `Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization`: Rank rose by +1
+- **[Rank Rise]** `Reinforcing the Generation Order of Multimodal Masked Diffusion Models`: Rank rose by +1
+- **[Rank Rise]** `Who Analyses the Analyser? Self-Validating LLM Hazard Analysis with Constitutional Meta-STPA`: Rank rose by +1
+- **[Rank Rise]** `An exact information theory of generalization phase transitions in Bayesian diffusion models`: Rank rose by +1
+- **[Rank Rise]** `What to Keep, What to Forget: A Rate--Distortion View of Memory Compaction in LLMs and Agents`: Rank rose by +1
+- **[Rank Rise]** `Rethinking Small VLM Quantization: From Component-Wise Analysis to Hardware-Aware Edge Deployment`: Rank rose by +1
+- **[Rank Rise]** `PGD-NO: A Neural Operator with Precomputed Geometry Decomposition for 3D Million-scale Physics Simulations`: Rank rose by +1
+- **[Rank Rise]** `Collate: Collaborative Neural Network Learning for Latency-Critical Edge Systems`: Rank rose by +1
+- **[Rank Rise]** `Provably Optimal Learning Algorithms for Assistance Games`: Rank rose by +1
+- **[Rank Rise]** `KronQ: LLM Quantization via Kronecker-Factored Hessian`: Rank rose by +1
+- **[Rank Rise]** `Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing`: Rank rose by +1
+- **[Rank Rise]** `Evaluating the Generalizability of Foundation Models for Extreme Environmental Events: Case Study of California Wildfire PM2.5`: Rank rose by +1
+- **[Rank Rise]** `path_boost: A Python Package for Interpretable Graph-Level Prediction using Path-Based Gradient Boosting`: Rank rose by +1
+- **[Rank Rise]** `Efficient Safety Alignment of Language Models via Latent Personality Traits`: Rank rose by +1
+- **[Rank Rise]** `Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks`: Rank rose by +1
+- **[Rank Rise]** `Distributed Sketching on Data Partitions for OLS Regression`: Rank rose by +1
+- **[Rank Rise]** `Optimal Learning Rate Scaling Depends on Data in Deep Scalar Linear Networks`: Rank rose by +1
+- **[Rank Rise]** `Physics-Informed Machine Learning Under Small-Data Constraints: Lessons from Abrasive Waterjet Milling`: Rank rose by +1
+- **[Rank Rise]** `NFTR: From Provable Mode-Averaging to Geodesic Subgoal Selection in Offline Goal-Conditioned RL`: Rank rose by +1
+- **[Rank Rise]** `When Does Continual Learning Require Learning`: Rank rose by +1
+- **[Rank Rise]** `Explaining Near-Zero Hessian Eigenvalues Through Approximate Symmetries in Neural Networks`: Rank rose by +1
+- **[Rank Rise]** `Predicting Pseudo-nitzschia harmful algal blooms along the Portuguese Coast using satellite-derived predictors`: Rank rose by +1
+- **[Rank Rise]** `A law of robustness for two-layer neural networks with arbitrary weights`: Rank rose by +1
+- **[Rank Rise]** `Graph-Regularized Deep Learning for EEG-Based Emotion Recognition with Psychologically-Grounded Label Structure`: Rank rose by +1
+- **[Rank Rise]** `Principled Analysis of Deep Reinforcement Learning Evaluation and Design Paradigms`: Rank rose by +1
+- **[Rank Rise]** `Unlocking Temporal Generalization in Hamiltonian Video Dynamics Models`: Rank rose by +1
+- **[Rank Rise]** `Trustworthy Machine Learning through the Lens of Combinatorial Optimization: Survey and Research Perspectives`: Rank rose by +1
+- **[Rank Rise]** `Scalable and Trustworthy Earth Observation Foundation Models`: Rank rose by +1
+- **[Rank Rise]** `The Importance of Encoder Choice:A Tabular-Image Study`: Rank rose by +1
+- **[Rank Rise]** `Image classification via a quantum-inspired strategy involving a mixture of experts`: Rank rose by +1
+- **[Rank Rise]** `A Transdiagnostic Space of Disorder Like Phenotypes in Reinforcement Learning Agents`: Rank rose by +1
+- **[Rank Rise]** `Selective Left-Shift: Turning Test-Time Compute and Difficulty-based Curation into Training Data for Low-Resource Code Generation`: Rank rose by +1
+- **[Rank Rise]** `LiST: Lipschitz Scaling Training for Robust and Calibrated Neural Networks`: Rank rose by +1
+- **[Rank Rise]** `Architecture Generalization with MetaNCA`: Rank rose by +1
+- **[Rank Rise]** `Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE`: Rank rose by +1
+- **[Rank Rise]** `SHIFT: Survival Prediction from Incomplete and Heterogeneous Genomic Data`: Rank rose by +1
+- **[Rank Rise]** `Uncertainty-gated selection for block-sparse attention`: Rank rose by +1
+- **[Rank Rise]** `Omni-Sleep: A Sleep Foundation Model via Hierarchical Contrastive Learning of CNS-ANS Dynamics`: Rank rose by +1
+- **[Rank Rise]** `ReCoLoRA: Spectrum-Aware Recursive Consolidation for Continual LLM Fine-Tuning`: Rank rose by +1
+- **[Rank Rise]** `LLT: Local Linear Transformer for PDE Operator Learning`: Rank rose by +1
+- **[Rank Rise]** `Who Gets Missed in the Tail? Thresholded Subgroup Underdiagnosis in Long-Tailed Chest X-ray Classification`: Rank rose by +1
+- **[Rank Rise]** `Towards the Explainability of Temporal Graph Networks via Memory Backtracking and Topological Attribution`: Rank rose by +1
+- **[Rank Rise]** `Issues · ietf-tools/red · GitHub`: Rank rose by +1
+- **[Rank Rise]** `Create an Incoming Webhook - Teams | Microsoft Learn`: Rank rose by +1
+- **[Rank Rise]** `W3C Status`: Rank rose by +1
+- **[Rank Rise]** `Let's Encrypt Status`: Rank rose by +1
+- **[Rank Rise]** `Prossimo`: Rank rose by +1
+- **[Rank Rise]** `Let's Encrypt (ISRG) · GitHub`: Rank rose by +1
+- **[Rank Rise]** `LICENSE - chromium/src - Git at Google`: Rank rose by +1
+- **[Rank Rise]** `RFC 7258: Pervasive Monitoring Is an Attack | RFC Editor`: Rank rose by +1
+- **[Rank Rise]** `HTML Standard`: Rank rose by +1
+- **[Rank Rise]** `Secure Contexts`: Rank rose by +1
+- **[Rank Rise]** `Chrome Extensions | Chrome for Developers`: Rank rose by +1
+- **[Rank Rise]** `Web Application Security | Working Groups | Discover W3C groups | W3C`: Rank rose by +1
+- **[Rank Rise]** `Let's Encrypt`: Rank rose by +1
+- **[Rank Rise]** `Prefer Secure Origins For Powerful New Features`: Rank rose by +1
+- **[Rank Rise]** `w3c/webappsec`: Rank rose by +1
+- **[Rank Rise]** `Securing the Web`: Rank rose by +1
+- **[Rank Rise]** `Web IDL Standard`: Rank rose by +1
+- **[Rank Rise]** `Subresource Integrity`: Rank rose by +1
+- **[Rank Rise]** `Frederik Braun: A CDN that can not XSS you: Using Subresource Integrity`: Rank rose by +1
+- **[Rank Rise]** `whatwg/url`: Rank rose by +1
+- **[Rank Rise]** `CI · Workflow runs · GeopJr/Tuba · GitHub`: Rank rose by +1
+- **[Rank Rise]** `GNOME Development`: Rank rose by +1
+- **[Rank Rise]** `GeopJr/Tuba: Browse the Fediverse - Codeberg.org`: Rank rose by +1
+- **[Rank Rise]** `mastodon/mastodon · Discussions · GitHub`: Rank rose by +1
+- **[Rank Rise]** `Tuba`: Rank rose by +1
+- **[Rank Rise]** `URL Standard`: Rank rose by +1
+- **[Rank Rise]** `content/files/en-us/web/security/defenses/subresource_integrity/index.md at main · mdn/content · GitHub`: Rank rose by +1
+- **[Rank Rise]** `SRI Hash Generator`: Rank rose by +1
+- **[Rank Rise]** `Hugging Face · GitHub`: Rank rose by +1
+- **[Rank Rise]** `nbconvert: Convert Notebooks to other formats — nbconvert 7.17.1 documentation`: Rank rose by +1
+- **[Rank Rise]** `Python Developer’s Guide`: Rank rose by +1
+- **[Rank Rise]** `Configuration file overview — Read the Docs user documentation`: Rank rose by +1
+- **[Rank Rise]** `Read the Docs (@readthedocs@fosstodon.org) - Fosstodon`: Rank rose by +1
+- **[Rank Rise]** `Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium`: Rank rose by +1
+- **[Rank Rise]** `Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust`: Rank rose by +1
+- **[Rank Rise]** `Get started with Crashlytics for Android | Firebase Crashlytics`: Rank rose by +1
+- **[Rank Rise]** `Safetensors · Hugging Face`: Rank rose by +1
+- **[Rank Rise]** `Gemma 4 QAT - a mlx-community Collection`: Rank rose by +1
+- **[Rank Rise]** `MedGemma: Our most capable open models for health AI development`: Rank rose by +1
+- **[Rank Rise]** `Gemma 4 with quantization-aware training`: Rank rose by +1
+- **[Rank Rise]** `platform/system/update_engine - Git at Google`: Rank rose by +1
+- **[Rank Rise]** `Android Developers Blog`: Rank rose by +1
+- **[Rank Rise]** `Gemma â Google DeepMind`: Rank rose by +1
+- **[Rank Rise]** `A/B (seamless) system updates | Android Open Source Project`: Rank rose by +1
+- **[Rank Rise]** `gitiles - Git at Google`: Rank rose by +1
+- **[Rank Rise]** `Factory Images for Nexus and Pixel Devices | Google Play services | Google for Developers`: Rank rose by +1
+- **[Rank Rise]** `Analyze issues from Firebase Crashlytics and Android Vitals with App Quality Insights | Android Studio | Android Develop`: Rank rose by +1
+- **[Rank Rise]** `ASA-WG/Mobile App Profile/Mobile App Specification.md at v1.0 · appdefensealliance/ASA-WG · GitHub`: Rank rose by +1
+- **[Rank Rise]** `ASA/MobileAppSecurityAssessment/MobileSecurityGuide.md at main · appdefensealliance-dev/ASA · GitHub`: Rank rose by +1
+- **[Rank Rise]** `Mobile Application Security Assessment | App Defense Alliance`: Rank rose by +1
+- **[Rank Rise]** `Google Family Link - Apps on Google Play`: Rank rose by +1
+- **[Rank Rise]** `cloudflare/cloudflare-docs`: Rank rose by +1
+- **[Rank Rise]** `openai/openai-cookbook`: Rank rose by +1
+- **[Rank Rise]** `Sign in to GitHub · GitHub`: Rank rose by +1
+- **[Rank Rise]** `Firecrawl - The context API to search, scrape, and interact with the web at scale. 🔥`: Rank rose by +1
+- **[Rank Rise]** `The Linux Kernel documentation — The Linux Kernel documentation`: Rank rose by +1
+- **[Rank Rise]** `LangChain Support Portal`: Rank rose by +1
+- **[Rank Rise]** `[2504.20734] UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities`: Rank rose by +1
+- **[Rank Drop]** `DenCabinetmaker/Rust-Rage`: Rank dropped by -1
+- **[Rank Drop]** `study8677/antigravity-workspace-template`: Rank dropped by -1
+- **[Rank Drop]** `RhinoVLA Technical Report`: Rank dropped by -1
+- **[Rank Drop]** `Data-Driven Forecasting of three-Component Seismograms Using Transformer Architectures`: Rank dropped by -1
+- **[Rank Drop]** `Unveiling the Visual Counting Bottleneck in Vision-Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Operationalizing Individual Fairness via Gradient Descent and Bradley-Terry Models`: Rank dropped by -1
+- **[Rank Drop]** `MARGIN: Margin-Aware Regularized Geometry for Imbalanced Vulnerability Detection`: Rank dropped by -1
+- **[Rank Drop]** `ML-based approach to classification and generation of structured light propagation in turbulent media`: Rank dropped by -1
+- **[Rank Drop]** `VTC: DNN Compilation with Virtual Tensors for Data Movement Elimination`: Rank dropped by -1
+- **[Rank Drop]** `Transferable FB-GNN-MBE Framework for Potential Energy Surfaces: Data-Adaptive Transfer Learning in Deep Learned Many-Body Expansion Theory`: Rank dropped by -1
+- **[Rank Drop]** `Amortized Inference for Correlated Discrete Choice Models via Equivariant Neural Networks`: Rank dropped by -1
+- **[Rank Drop]** `Optimization-Embedded Active Multi-Fidelity Surrogate Learning for Multi-Condition Airfoil Shape Optimization`: Rank dropped by -1
+- **[Rank Drop]** `Latent Policy Steering through One-Step Flow Policies`: Rank dropped by -1
+- **[Rank Drop]** `Scaling Quantum Machine Learning without Tricks: Full-Resolution and Diverse Image Generation`: Rank dropped by -1
+- **[Rank Drop]** `Approximate full conformal prediction in an RKHS`: Rank dropped by -1
+- **[Rank Drop]** `Diffusion Models in Simulation-Based Inference: A Tutorial Review`: Rank dropped by -1
+- **[Rank Drop]** `Fast segmentation of watermarked texts from large language models through an epidemic change-point framework`: Rank dropped by -1
+- **[Rank Drop]** `Siamese Neural Network for Label-Efficient Critical Phenomena Prediction in 3D Percolation Models`: Rank dropped by -1
+- **[Rank Drop]** `Optimal Conformal Prediction under Epistemic Uncertainty`: Rank dropped by -1
+- **[Rank Drop]** `Superstate Quantum Mechanics`: Rank dropped by -1
+- **[Rank Drop]** `Fixed-Gaussian Spectral Algorithms: Minimax Optimal Rates for Misspecified Learning and Transfer`: Rank dropped by -1
+- **[Rank Drop]** `Deep Operator BSDE: a Numerical Scheme to Approximate Solution Operators`: Rank dropped by -1
+- **[Rank Drop]** `From system models to class models: An in-context learning paradigm`: Rank dropped by -1
+- **[Rank Drop]** `Research on Domain Information Mining and Theme Evolution of Scientific Papers`: Rank dropped by -1
+- **[Rank Drop]** `Can Tabular In-Context Learners Generalize to Biomolecular Property Prediction?`: Rank dropped by -1
+- **[Rank Drop]** `A Novel Approach to Temporal QoS Estimation via Extended Kalman Filter-Incorporated Latent Feature Analysis`: Rank dropped by -1
+- **[Rank Drop]** `DICE: Entropy-Regularized Equilibrium Selection for Stable Multi-Agent LLM Coordination`: Rank dropped by -1
+- **[Rank Drop]** `Momentum Based Reward Design for Low Emission Traffic Signal Control`: Rank dropped by -1
+- **[Rank Drop]** `Chebyshev Policies and the Mountain Car Problem: Reinforcement Learning for Low-Dimensional Control Tasks`: Rank dropped by -1
+- **[Rank Drop]** `A Van Trees Lower Bound for Fully Interactive Differentially Private Federated Learning`: Rank dropped by -1
+- **[Rank Drop]** `SNLP: Layer-Parallel Inference via Structured Newton Corrections`: Rank dropped by -1
+- **[Rank Drop]** `TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination`: Rank dropped by -1
+- **[Rank Drop]** `Nectar: Neural Estimation of Cached-Token Attention via Regression`: Rank dropped by -1
+- **[Rank Drop]** `Event-Centric World Modeling with Memory-Augmented Retrieval for Embodied Decision-Making`: Rank dropped by -1
+- **[Rank Drop]** `Toward Robust Open-set Adaptation: Synapse Consolidation Inspired by Rac1/MAPK Pathways`: Rank dropped by -1
+- **[Rank Drop]** `Dual Path Attribution: Efficient Attribution for SwiGLU-Transformers through Layer-Wise Target Propagation`: Rank dropped by -1
+- **[Rank Drop]** `Bound to Disagree: Generalization Bounds via Certifiable Surrogates`: Rank dropped by -1
+- **[Rank Drop]** `The Appeal and Reality of Recycling LoRAs with Adaptive Merging`: Rank dropped by -1
+- **[Rank Drop]** `Predicting integers from continuous parameters`: Rank dropped by -1
+- **[Rank Drop]** `Towards Understanding Steering Strength`: Rank dropped by -1
+- **[Rank Drop]** `Synthetic Time Series Generation via Complex Networks`: Rank dropped by -1
+- **[Rank Drop]** `Parametric and Generative Forecasts of EPEX Day\char45 Ahead Energy Market Curves`: Rank dropped by -1
+- **[Rank Drop]** `Counterfactual Modeling with Fine-Tuned LLMs for Health Intervention Design and Sensor Data Augmentation`: Rank dropped by -1
+- **[Rank Drop]** `Attention in Geometry: Scalable Spatial Modeling via Adaptive Density Fields and FAISS-Accelerated Kernels`: Rank dropped by -1
+- **[Rank Drop]** `Distributed Dynamic Associative Memory via Online Convex Optimization`: Rank dropped by -1
+- **[Rank Drop]** `What's on My Network? Using Large Language Models to Identify Real-World IoT Devices at Scale`: Rank dropped by -1
+- **[Rank Drop]** `Provable Affine Identifiability of Nonlinear CCA under Latent Distributional Priors`: Rank dropped by -1
+- **[Rank Drop]** `Activation Quantization of Vision Encoders Needs Prefixing Registers`: Rank dropped by -1
+- **[Rank Drop]** `FPTQuant: Function-Preserving Transforms for LLM Quantization`: Rank dropped by -1
+- **[Rank Drop]** `Subspace Networks: Scaling Decentralized Training with Communication-Efficient Model Parallelism`: Rank dropped by -1
+- **[Rank Drop]** `Bifidelity Parameter Estimation Using Conditional Diffusion Models`: Rank dropped by -1
+- **[Rank Drop]** `PB-OEL: A Performance-Bounded Online Ensemble Learning Framework With Mixed Feedback for Real-Time Safety Assessment`: Rank dropped by -1
+- **[Rank Drop]** `Network Dynamics-Based Framework for Understanding Deep Neural Networks`: Rank dropped by -1
+- **[Rank Drop]** `How Learning Dynamics Drive Adversarially Robust Generalization?`: Rank dropped by -1
+- **[Rank Drop]** `Provably Efficient Off-Policy Adversarial Imitation Learning with Convergence Guarantees`: Rank dropped by -1
+- **[Rank Drop]** `Lipschitz-Regularized Critics Lead to Policy Robustness Against Transition Dynamics Uncertainty`: Rank dropped by -1
+- **[Rank Drop]** `A Distributionally Robust Optimisation Approach to Fair Credit Scoring`: Rank dropped by -1
+- **[Rank Drop]** `Reinforcement Federated Learning Method Based on Adaptive OPTICS Clustering`: Rank dropped by -1
+- **[Rank Drop]** `InferNet: Exploiting Aggregate GPU Profiles as Side-Channel for DNN Architecture Inference`: Rank dropped by -1
+- **[Rank Drop]** `Adversarial Rademacher Complexity of Deep Neural Networks`: Rank dropped by -1
+- **[Rank Drop]** `Any-Dimensional Learning by Sampling`: Rank dropped by -1
+- **[Rank Drop]** `MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models`: Rank dropped by -1
+- **[Rank Drop]** `Does Bielik Know What It Doesn't Know? Activation Dispersion Separates Entity Familiarity from Factual Reliability Across Model Scale`: Rank dropped by -1
+- **[Rank Drop]** `PALS: Percentile-Aware Layerwise Sparsity for LLM Pruning`: Rank dropped by -1
+- **[Rank Drop]** `A Unified Detection Framework for AI-Related Content and Artifacts`: Rank dropped by -1
+- **[Rank Drop]** `GIFT: Geometry-Informed Low-precision Gradient Communication for LLM Pretraining`: Rank dropped by -1
+- **[Rank Drop]** `Statistical inverse learning and $\ell^1$-regularization`: Rank dropped by -1
+- **[Rank Drop]** `Reliable mechanistic operator recovery with biologically-informed neural networks: principles for architecture and optimisation design`: Rank dropped by -1
+- **[Rank Drop]** `TF-Engram: A Train-Free Engram with SSD-Backed Memory for Large Language Models`: Rank dropped by -1
+- **[Rank Drop]** `R^3: Advertisement Compliance Rectification via Group-Relative Experience Extractor and Curriculum Reinforcement`: Rank dropped by -1
+- **[Rank Drop]** `Continual Learning With Participation Privacy: An Auditable Buffering-Aggregation Recipe`: Rank dropped by -1
+- **[Rank Drop]** `Restricted Dynamic Geometric Complexity: Path-Space Reduction and M\"obius--Jacobi Response`: Rank dropped by -1
+- **[Rank Drop]** `Comparative Study of Domain-adapted VLMs for General Document Visual Question Answering`: Rank dropped by -1
+- **[Rank Drop]** `Weight-Space Physics: Interpretable Hypernetworks for Lattice Quantum Field Theories`: Rank dropped by -1
+- **[Rank Drop]** `Is Randomness Necessary for Adaptive Data Analysis?`: Rank dropped by -1
+- **[Rank Drop]** `Prior-aware and Context-guided Group Sampling for Active Probabilistic Subsampling`: Rank dropped by -1
+- **[Rank Drop]** `Behavior Leverage Imbalance in Multi-Teacher On-Policy Distillation`: Rank dropped by -1
+- **[Rank Drop]** `Tensorized algorithms and scalable filtering methods for hidden Markov and factorial hidden Markov models`: Rank dropped by -1
+- **[Rank Drop]** `EdgeCompress: Coupling Multidimensional Model Compression and Dynamic Inference for EdgeAI`: Rank dropped by -1
+- **[Rank Drop]** `MILES: Modular Instruction Memory with Learnable Selection for Self-Improving LLM Reasoning`: Rank dropped by -1
+- **[Rank Drop]** `Flow-ERD: Agent-type Aware Flow Matching with Entropy-Regularized Distillation for Diverse Traffic Simulation`: Rank dropped by -1
+- **[Rank Drop]** `Mathematical methods of reinforcement learning`: Rank dropped by -1
+- **[Rank Drop]** `Compass: Prostate Cancer Detection Needs Multi-View Context`: Rank dropped by -1
+- **[Rank Drop]** `Smart Scissor: Coupling Spatial Redundancy Reduction and CNN Compression for Embedded Hardware`: Rank dropped by -1
+- **[Rank Drop]** `Finding a stationary point of a stochastic convex problem`: Rank dropped by -1
+- **[Rank Drop]** `Video2Reaction: Mapping Video to Audience Reaction Distribution in the Wild`: Rank dropped by -1
+- **[Rank Drop]** `Gen4U: Unifying Video Generation and Understanding via Diffusion`: Rank dropped by -1
+- **[Rank Drop]** `Tensor Train Diffusion: Leveraging Low-Rank Structures for High-Dimensional Score-Based Sampling`: Rank dropped by -1
+- **[Rank Drop]** `CaLiSym: Learning Symplectic Dynamics of Real-World Systems through Structured Canonical Lifts`: Rank dropped by -1
+- **[Rank Drop]** `Deployment Risk Assessment Using Diff-Aware Features: A Case Study at Prime Video`: Rank dropped by -1
+- **[Rank Drop]** `Optimization Geometrodynamics: Variational Reduction and Interaction Curvature`: Rank dropped by -1
+- **[Rank Drop]** `Macroeconomic Message Passing for Anticipating Foreign Exchange Regime Changes: A Deep Logical Learning Approach using Graph Tsetlin Machines`: Rank dropped by -1
+- **[Rank Drop]** `Heat-Kernel Entropy Profiles and Geometric Effective Sample Size for Weighted Measures on Manifolds`: Rank dropped by -1
+- **[Rank Drop]** `Pelican-VLA 0.5: Attending Before Acting Benefits Generalization`: Rank dropped by -1
+- **[Rank Drop]** `POPS: Recovering Unlearned Multi-Modality Knowledge in MLLMs with Prompt-Optimized Parameter Shaking`: Rank dropped by -1
+- **[Rank Drop]** `ORAN-DEFEND: Subspace Detection and Sanitization of Backdoor DRL xApps in Open RAN`: Rank dropped by -1
+- **[Rank Drop]** `Fast determinantal sampling on general spaces and diffusion geometry`: Rank dropped by -1
+- **[Rank Drop]** `The Power of Backdoor Absorption in Community Training`: Rank dropped by -1
+- **[Rank Drop]** `Creating Power Distribution Network Layouts Using Generative Adversarial Networks and Image-Based Representations`: Rank dropped by -1
+- **[Rank Drop]** `HiFuzz: Hierarchical Reinforcement Learning for Semantic-Aware and Adaptive CPU Fuzzing`: Rank dropped by -1
+- **[Rank Drop]** `Format-Controlled Multi-Scale JPEG Compression Response Analysis for Image-Level Forgery Screening`: Rank dropped by -1
+- **[Rank Drop]** `Calibration-Family Overfit: Why Trusted Sabotage Monitors Don't Transfer Across Lineages`: Rank dropped by -1
+- **[Rank Drop]** `AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis`: Rank dropped by -1
+- **[Rank Drop]** `Pixel-Precise Explainable Stress Indexing: A Semantic Segmentation Framework for Disease Severity Quantification in Field Crops`: Rank dropped by -1
+- **[Rank Drop]** `Trajectory Inference of Human Aging from Cross-Sectional DNA Methylation Data`: Rank dropped by -1
+- **[Rank Drop]** `Recovering Candidate Circadian Regulators of Arrhythmic Pituitary Hormone Genes Using Reliability-Weighted Magnetic Laplacian with rwMagLap`: Rank dropped by -1
+- **[Rank Drop]** `Value of Information under Imprecise Probabilities: Decision-Rule-Specific Values and Fixed-Measure Envelopes on a Credal Set`: Rank dropped by -1
+- **[Rank Drop]** `Towards a Pseudo-Labeling Workflow for Celltype-Classification from Explanted Brain Slice Recordings`: Rank dropped by -1
+- **[Rank Drop]** `The Key to Going Linear: Analysis-Driven Transformer Linearization`: Rank dropped by -1
+- **[Rank Drop]** `ECGLight: Compute-Light Framework For Paper ECG Digitization and Myocardial Infarction Screening`: Rank dropped by -1
+- **[Rank Drop]** `Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrained Optimization`: Rank dropped by -1
+- **[Rank Drop]** `How Data Shapes RoPE Frequency Usage: From Positional Scale Matching to Length Generalization`: Rank dropped by -1
+- **[Rank Drop]** `Max Out GRPO Signal: Adaptive Trace Prefix Control for Hard Reasoning Problems`: Rank dropped by -1
+- **[Rank Drop]** `PeTeR: Post-Training Robustification of Probabilistic Circuits`: Rank dropped by -1
+- **[Rank Drop]** `Guidance Breaks the Fitted Operator: A Terminal-Fitted Repair for Classifier-Free Guidance`: Rank dropped by -1
+- **[Rank Drop]** `An optimal control approach for neural network architecture adaptation with a posteriori error estimation`: Rank dropped by -1
+- **[Rank Drop]** `Higher-Order Geometric Updates for Levenberg-Marquardt Method via Riemann Normal Coordinates`: Rank dropped by -1
+- **[Rank Drop]** `Asymmetric Focal Loss Improves Graph Neural Network Prediction of Drug-Drug Interactions`: Rank dropped by -1
+- **[Rank Drop]** `Multi-Class vs. Multi-Label BERT for CVE-to-CWE Mapping: How Taxonomy Structure Shapes the Errors`: Rank dropped by -1
+- **[Rank Drop]** `Avoiding unsafe sets when training with Langevin Dynamics`: Rank dropped by -1
+- **[Rank Drop]** `Gradient-free Riemannian Langevin Sampler`: Rank dropped by -1
+- **[Rank Drop]** `Fast Rates for Semi-Supervised Learning via Data-Augmentation Graph Regularization`: Rank dropped by -1
+- **[Rank Drop]** `FourierQK: Spectral Preprocessing of Query-Key Projections Improves Transformer Attention`: Rank dropped by -1
+- **[Rank Drop]** `The Optimal Sample Complexity of Learning Autoregressive Chain-of-Thought`: Rank dropped by -1
+- **[Rank Drop]** `Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity`: Rank dropped by -1
+- **[Rank Drop]** `Generalist Vision-Language Models for Fast Radio Burst detection: a zero-shot benchmark against a specialized detector`: Rank dropped by -1
+- **[Rank Drop]** `Mechanistic Interpretability for Neural Networks: Circuits, Sparse Features and Symbolic Reasoning`: Rank dropped by -1
+- **[Rank Drop]** `Nonlinear Bandit`: Rank dropped by -1
+- **[Rank Drop]** `BubbleSH: A Dataset of Rising Bubbles with Deformable Interfaces`: Rank dropped by -1
+- **[Rank Drop]** `Safe Reinforcement Learning using Ideas from Model Predictive Control`: Rank dropped by -1
+- **[Rank Drop]** `HPG-Diff: Hierarchical physics-guided diffusion with differentiable connectivity constraints for topology optimization`: Rank dropped by -1
+- **[Rank Drop]** `Causal Optimizer Interaction Calculus: Hidden Geometric Relaxation and Identifiable Interventions`: Rank dropped by -1
+- **[Rank Drop]** `The Anatomy of Implicit Bias: Information Allocation in Neural Network Training`: Rank dropped by -1
+- **[Rank Drop]** `Prior-matched evaluation of operational Earth-observation classifiers: a three-number reporting method demonstrated on Sentinel-1 internal-wave detection`: Rank dropped by -1
+- **[Rank Drop]** `Fractal KV-Cache Archives: Lossless Symbolic Storage with In-Place Retrieval for Long-Context LLM Inference`: Rank dropped by -1
+- **[Rank Drop]** `Distributed Sparse Interventions in Language Models`: Rank dropped by -1
+- **[Rank Drop]** `A knowledge-augmented dataset of high-risk driving scenarios with LLM annotations for autonomous driving`: Rank dropped by -1
+- **[Rank Drop]** `Structural Adversarial Attacks on Relational Deep Learning under Integrity Constraints`: Rank dropped by -1
+- **[Rank Drop]** `An Hybrid Quantum-Classical Diffusion Model for Image Generation`: Rank dropped by -1
+- **[Rank Drop]** `Eigenbasis-Independent Learnable Spectral Positional Encodings for Directed Graphs via Hermitian Block Krylov Subspaces`: Rank dropped by -1
+- **[Rank Drop]** `Constrained Decoding for Diffusion Language Models via Efficient Inference over Finite Automata`: Rank dropped by -1
+- **[Rank Drop]** `Online Data Selection Is Implicit Alignment`: Rank dropped by -1
+- **[Rank Drop]** `Dissociating the Internal Representations of Sycophancy in LLMs`: Rank dropped by -1
+- **[Rank Drop]** `UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma`: Rank dropped by -1
+- **[Rank Drop]** `Robust Federated Learning Under Real-World Client Churn`: Rank dropped by -1
+- **[Rank Drop]** `Rethinking Multimodal Time-Series Forecasting Evaluation`: Rank dropped by -1
+- **[Rank Drop]** `Physical activities enable scalable foundation modelling for broad-spectrum health prediction`: Rank dropped by -1
+- **[Rank Drop]** `Intrinsic-Noise Consolidation: A Doob-Barrier-Conditioned Diffusion Turns Analog Device Noise into a Continual-Learning Resource`: Rank dropped by -1
+- **[Rank Drop]** `Latency-Constrained DNN Architecture Learning for Edge Systems using Zerorized Batch Normalization`: Rank dropped by -1
+- **[Rank Drop]** `Converge to Surprise: Evolutionary Self-supervised Image Clustering`: Rank dropped by -1
+- **[Rank Drop]** `Best-Arm Identification with Generative Proxy`: Rank dropped by -1
+- **[Rank Drop]** `Geometric Self-Distillation for Reasoning Generalization`: Rank dropped by -1
+- **[Rank Drop]** `LEMUR 2: Unlocking Neural Network Diversity for AI`: Rank dropped by -1
+- **[Rank Drop]** `Generative Diffusion Models of Stochastic Graph Signals`: Rank dropped by -1
+- **[Rank Drop]** `On Explicit Super-Expressive Approximation for Neural Networks`: Rank dropped by -1
+- **[Rank Drop]** `Efficient Bayesian Deep Ensembles via Analytic Predictive Inference`: Rank dropped by -1
+- **[Rank Drop]** `Efficient Long-Horizon Learning for Learned Optimization`: Rank dropped by -1
+- **[Rank Drop]** `Trees from Marginals: Autoregressive drafting with factorized priors`: Rank dropped by -1
+- **[Rank Drop]** `Robust Human-AI Complementarity under Uncertainty`: Rank dropped by -1
+- **[Rank Drop]** `Dual Attention Heads for Personalized Federated Learning in ECG Classification`: Rank dropped by -1
+- **[Rank Drop]** `From Jumps to Signatures: a Generative Method for Temporal Point Processes`: Rank dropped by -1
+- **[Rank Drop]** `Entropy-Guided Tensor Compression for Multimodal Federated Learning on Edge Devices`: Rank dropped by -1
+- **[Rank Drop]** `Final Checkpoints Are Not Enough: Analyzing Latent Reasoning Faithfulness Along Training Trajectories`: Rank dropped by -1
+- **[Rank Drop]** `The Approximation Ratio for the Risk of Myopic Bayesian Active Learning for Linear Regression`: Rank dropped by -1
+- **[Rank Drop]** `UASPL: Uncertainty-Aware Self-Paced Learning with Evidential Neural Networks`: Rank dropped by -1
+- **[Rank Drop]** `Optimized Instance Alteration for Explaining and Assessing Robustness of Classifiers`: Rank dropped by -1
+- **[Rank Drop]** `When Do Geometric Algebra Layers Beat Scalarization? A Controlled Study on SO(3)-Equivariant Vector Laws`: Rank dropped by -1
+- **[Rank Drop]** `Does Demand Response Increase Vulnerability to Cyber Attacks by Adversarial Data Modifications?`: Rank dropped by -1
+- **[Rank Drop]** `When Certificates Fail: A Unified Safety Framework for Embedded Neural Interface Models`: Rank dropped by -1
+- **[Rank Drop]** `STST-JEPA: Shallow-Target Spatio-Temporal Joint Embedding Prediction Architecture For EEG Self-Supervised Learning`: Rank dropped by -1
+- **[Rank Drop]** `Reward Valuation in Vision Language Models: Causal Mechanisms Underlying Anhedonia`: Rank dropped by -1
+- **[Rank Drop]** `Fingerprint, Not Blueprint: How Positional Schemes Set the Default Spectral Algebra of Attention`: Rank dropped by -1
+- **[Rank Drop]** `A Quiet Failure in Calibrated Virtual Screening: Marginal Conformal Prediction Under-Covers the Minority Class, and a Class-Conditional Fix Recovers It`: Rank dropped by -1
+- **[Rank Drop]** `JuZhou 1.0 Technical Report: The First Edge-Native Text-to-Image Foundation Model Trained Entirely on China-Developed AI Accelerators`: Rank dropped by -1
+- **[Rank Drop]** `MetaConfigurator: AI-Assisted RDF Authoring from JSON Data`: Rank dropped by -1
+- **[Rank Drop]** `Trust, but Don't Verify: Epistemic Blind Spots in LLM Source Evaluation`: Rank dropped by -1
+- **[Rank Drop]** `Trading Human Curation for Synthetic Augmentation in RLVR`: Rank dropped by -1
+- **[Rank Drop]** `Informing AI Policy Assessment using Large-Scale Simulation of Interventions`: Rank dropped by -1
+- **[Rank Drop]** `Cast a Wider Net: Coordinated Pass@K Policy Optimization for Code Reasoning`: Rank dropped by -1
+- **[Rank Drop]** `Structured Belief State and the First Precision-Aware Benchmark for LLM Memory Retrieval`: Rank dropped by -1
+- **[Rank Drop]** `Optimal FALQON for Quantum Approximate Optimization via Layer-wise Parameter Tuning`: Rank dropped by -1
+- **[Rank Drop]** `From Beats to Breaches:How Offensive AI Infers Sensitive User Information from Playlists`: Rank dropped by -1
+- **[Rank Drop]** `Health System Scale Semantic Search Across Unstructured Clinical Notes`: Rank dropped by -1
+- **[Rank Drop]** `AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection`: Rank dropped by -1
+- **[Rank Drop]** `Diversity Without Fidelity: A Solver-Sampler Mismatch in Multi-Agent LLM Negotiation Simulation`: Rank dropped by -1
+- **[Rank Drop]** `Exploration of Fast-Slow Latent Recurrence for Train-Short, Test-Long Generalization`: Rank dropped by -1
+- **[Rank Drop]** `From Content to Audience: A Multimodal Annotation Framework for Broadcast Television Analytics`: Rank dropped by -1
+- **[Rank Drop]** `Object Search in Partially-Known Environments via LLM-informed Model-based Planning and Prompt Selection`: Rank dropped by -1
+- **[Rank Drop]** `Effective Strategies for Asynchronous Software Engineering Agents`: Rank dropped by -1
+- **[Rank Drop]** `CompDiff: Hierarchical Compositional Diffusion for Fair and Zero-Shot Intersectional Medical Image Generation`: Rank dropped by -1
+- **[Rank Drop]** `DASH: Dynamic Audio-Driven Semantic Chunking for Efficient Omnimodal Token Compression`: Rank dropped by -1
+- **[Rank Drop]** `Named-Entity Recognition in the Crime Domain (CrimeNER): Case Study and Dataset`: Rank dropped by -1
+- **[Rank Drop]** `Can We Really Learn One Representation to Optimize All Rewards?`: Rank dropped by -1
+- **[Rank Drop]** `Spatiotemporal Semantic V2X Framework for Cooperative Collision Prediction`: Rank dropped by -1
+- **[Rank Drop]** `ButterflyMoE: Compression-Scalable Ternary Experts via Structured Butterfly Orbits`: Rank dropped by -1
+- **[Rank Drop]** `HiDVFS: Hierarchical Multi-Agent DVFS for Real-Time OpenMP DAG Workloads`: Rank dropped by -1
+- **[Rank Drop]** `HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies`: Rank dropped by -1
+- **[Rank Drop]** `FDRMFL: Multimodal Federated Feature Extraction Model Based on Information Maximization and Contrastive Learning`: Rank dropped by -1
+- **[Rank Drop]** `Thinking Ahead: Foresight Intelligence in MLLMs and World Model`: Rank dropped by -1
+- **[Rank Drop]** `T2T-VICL: Cross-Task Visual In-Context Learning via Implicit Text-Driven VLMs`: Rank dropped by -1
+- **[Rank Drop]** `Refine Thought: A Test-Time Inference Method for Embedding Model Reasoning`: Rank dropped by -1
+- **[Rank Drop]** `Rapidly Learning Soft Robot Control via Implicit Time-Stepping`: Rank dropped by -1
+- **[Rank Drop]** `NonTextual Target Attack`: Rank dropped by -1
+- **[Rank Drop]** `Explain Before You Answer: A Survey on Compositional Visual Reasoning`: Rank dropped by -1
+- **[Rank Drop]** `LHM-Humanoid: Long-Horizon Human Motion Control for Continuous Object Transport in Cluttered Scenes`: Rank dropped by -1
+- **[Rank Drop]** `A Study of Commonsense Reasoning over Visual Object Properties`: Rank dropped by -1
+- **[Rank Drop]** `L-GTA: Latent Generative Modeling for Time Series Augmentation`: Rank dropped by -1
+- **[Rank Drop]** `Understanding Two-Layer Neural Networks with Smooth Activation Functions`: Rank dropped by -1
+- **[Rank Drop]** `VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting`: Rank dropped by -1
+- **[Rank Drop]** `Silent Neuron Theory and Plasticity Preservation for Deep Reinforcement Learning in Adaptive Video Streaming`: Rank dropped by -1
+- **[Rank Drop]** `The Minimal Search Space for Conditional Causal Bandits`: Rank dropped by -1
+- **[Rank Drop]** `ContrastiveCFG: Guiding Diffusion Sampling by Contrasting Positive and Negative Concepts`: Rank dropped by -1
+- **[Rank Drop]** `Faster and Simpler Greedy Algorithm for $k$-Median and $k$-Means`: Rank dropped by -1
+- **[Rank Drop]** `A-TMA: Decoupling State-Aware Memory Failures in Long-Term Agent Memory`: Rank dropped by -1
+- **[Rank Drop]** `When Summaries Distort Decisions: Information Fidelity in LLM-Compressed Financial Analysis`: Rank dropped by -1
+- **[Rank Drop]** `M$^3$: Reframing Training Measures for Discretized Physical Simulations`: Rank dropped by -1
+- **[Rank Drop]** `Terminus-4B: Can a Smaller Model Replace Frontier LLMs at Agentic Execution Tasks?`: Rank dropped by -1
+- **[Rank Drop]** `Participatory provenance as representational auditing for AI-mediated public consultation`: Rank dropped by -1
+- **[Rank Drop]** `Measuring the metacognition of AI`: Rank dropped by -1
+- **[Rank Drop]** `Anomaly detection in time-series via inductive biases in the latent space of conditional normalizing flows`: Rank dropped by -1
+- **[Rank Drop]** `EMO-R3: Reflective Reinforcement Learning for Emotional Reasoning in Multimodal Large Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Power and Limitations of Aggregation in Compound AI Systems`: Rank dropped by -1
+- **[Rank Drop]** `SOMtime the World Ain$'$t Fair: Violating Fairness Using Self-Organizing Maps`: Rank dropped by -1
+- **[Rank Drop]** `An Adaptive Differentially Private Federated Learning Framework`: Rank dropped by -1
+- **[Rank Drop]** `AI Chatbot Suicide Risk Detection and Response: Human Validation Study of the Open-Source VERA-MH Safety Evaluation`: Rank dropped by -1
+- **[Rank Drop]** `Framing Instability in LLM Ethical Stance: Auditing Negation Sensitivity in Moral Dilemmas`: Rank dropped by -1
+- **[Rank Drop]** `Neutral Substrates: A Design Constraint for Shared Records Under Persistent Interpretive Disagreement`: Rank dropped by -1
+- **[Rank Drop]** `AGAPI-Agents: An Open-Access Agentic AI Platform for Accelerated Materials Design on AtomGPT.org`: Rank dropped by -1
+- **[Rank Drop]** `LiveOIBench: Can Large Language Models Outperform Human Contestants in Informatics Olympiads?`: Rank dropped by -1
+- **[Rank Drop]** `Shared Modular Recurrence in Contextual MDPs for Universal Morphology Control`: Rank dropped by -1
+- **[Rank Drop]** `Successor-Generator Planning with LLM-generated Heuristics`: Rank dropped by -1
+- **[Rank Drop]** `Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning`: Rank dropped by -1
+- **[Rank Drop]** `Co-LMLM: Continuous-Query Limited Memory Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass`: Rank dropped by -1
+- **[Rank Drop]** `Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF`: Rank dropped by -1
+- **[Rank Drop]** `Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning`: Rank dropped by -1
+- **[Rank Drop]** `DiaLLM: An Investigation into the Robustness-Generation Gap in English Dialect Adaptation`: Rank dropped by -1
+- **[Rank Drop]** `ALER-TI: Aligned Latent Embedding Retrieval for Time Series Imputation`: Rank dropped by -1
+- **[Rank Drop]** `QCNN with Rough Path Signature Kernels`: Rank dropped by -1
+- **[Rank Drop]** `Future Confidence Distillation in Large Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Towards Agentic AI Governance: A Preliminary Assessment`: Rank dropped by -1
+- **[Rank Drop]** `CARLA-GS: Decoupling Representation, Reasoning, and Physics Simulation for Autonomous Driving Corner-Case Synthesis`: Rank dropped by -1
+- **[Rank Drop]** `Collaborative Synthetic Data Generation for Knowledge Transfer in Federated Learning`: Rank dropped by -1
+- **[Rank Drop]** `Creativity from Friction: Human-AI Interaction for Exploratory Structural Design`: Rank dropped by -1
+- **[Rank Drop]** `Stability of Flow Models for Graph Signals`: Rank dropped by -1
+- **[Rank Drop]** `Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `HIVE: Understanding Post-Hallucination Reasoning in Vision Language Models`: Rank dropped by -1
+- **[Rank Drop]** `TimEE: End-to-end Time Series Classification via In-Context Learning`: Rank dropped by -1
+- **[Rank Drop]** `Reward-Adaptive Iterative Discovery: A Case Study on Automated Game Testing for NHL26`: Rank dropped by -1
+- **[Rank Drop]** `Beyond Attack-Success Rate: Action-Graded Severity Scale for Tool-Using AI Agents`: Rank dropped by -1
+- **[Rank Drop]** `Where to Intervene? Benchmarking Fairness-Aware Learning on Differentially Private Synthetic Tabular Data`: Rank dropped by -1
+- **[Rank Drop]** `SynthAVE: Scalable Synthetic Labeling for E-Commerce with LLM-Arena Validation`: Rank dropped by -1
+- **[Rank Drop]** `RLVP: Penalize the Path, Reward the Outcome`: Rank dropped by -1
+- **[Rank Drop]** `Heterogeneity-Adaptive Diffusion Schrodinger Bridge for PET-Guided Whole-Body MRI Translation`: Rank dropped by -1
+- **[Rank Drop]** `When Prompts Ignore Structure: Graph-Based Attribute Reasoning for Calibrated VLMs`: Rank dropped by -1
+- **[Rank Drop]** `On Adversarial Vulnerability of Vision-Language Models through the Lens of Intermediate Spectral Subspaces`: Rank dropped by -1
+- **[Rank Drop]** `Behavior Foundations for Quadruped Robots: ABot-C0 Technical Report`: Rank dropped by -1
+- **[Rank Drop]** `Multi-Agent AI Control: Distributed Attacks Hamper Per-Instance Monitors`: Rank dropped by -1
+- **[Rank Drop]** `HumAIN: Human-Aware Implicit Social Robot Navigation`: Rank dropped by -1
+- **[Rank Drop]** `Latency-Aware Bid Acceptance under Operational Feasibility: A Public Benchmark with Hindsight Ceilings`: Rank dropped by -1
+- **[Rank Drop]** `Quantum simulation of real-world nonlinear dynamics via Koopman method`: Rank dropped by -1
+- **[Rank Drop]** `Hypergraph Neural Stochastic Diffusion: An SDE Framework for Uncertainty Estimation`: Rank dropped by -1
+- **[Rank Drop]** `HAJJv2-CrowdCount: Zero-Shot Benchmark for Dense Crowd Counting`: Rank dropped by -1
+- **[Rank Drop]** `FedCVESA: Taking Away Training Data in Federated Learning via Correlation Value Encoding and Segmented Aggregation`: Rank dropped by -1
+- **[Rank Drop]** `POO-LPSP: Parallel Osprey Optimized Least Penalty-Squared Prioritization Methods for Priority Derivation in the Analytic Hierarchy Process`: Rank dropped by -1
+- **[Rank Drop]** `Multimodal Voice Activity Projection for Turn-Taking in Social Robots with Voice-Activity-Related Pretrained Encoders`: Rank dropped by -1
+- **[Rank Drop]** `CarbonCLIP: Enhance Carbon Prediction from Satellite Imagery via Integrated Street-View Semantics and Temporal Context Training`: Rank dropped by -1
+- **[Rank Drop]** `Bayesian Optimization of Genetic Algorithm Hyperparameters in a Multi-Fidelity Framework for Efficient Lattice Material Design`: Rank dropped by -1
+- **[Rank Drop]** `FMMVCC: Fuzzy Mamba-based Multi-View Contrastive Clustering for Univariate Time Series`: Rank dropped by -1
+- **[Rank Drop]** `ORCAID: Oblique Rule-Based Continuous-Action Interpretation for Deep RL Policies`: Rank dropped by -1
+- **[Rank Drop]** `DiPhon: Diffusion on Graphons for Scalable Graph Generation`: Rank dropped by -1
+- **[Rank Drop]** `Vision Foundation Models in Radiology: A Scoping Review of Data, Methodology, Evaluation and Clinical Translation`: Rank dropped by -1
+- **[Rank Drop]** `Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030 -- A quantitative scenario analysis of inference economics, training-cost divergence, and infrastructure solvency`: Rank dropped by -1
+- **[Rank Drop]** `Validate the Dream Before You Trust Its Verdict: Admissibility for World-Model Simulators`: Rank dropped by -1
+- **[Rank Drop]** `Predicting LLM Safety Before Release by Simulating Deployment`: Rank dropped by -1
+- **[Rank Drop]** `Entropy Pacing Policy Optimization for Multi-Task Agentic Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `Tree-of-Thoughts Reasoning for Text-to-Image In-Context Learning`: Rank dropped by -1
+- **[Rank Drop]** `GeoProp: Grounding Robot State in Vision for Generalist Manipulation`: Rank dropped by -1
+- **[Rank Drop]** `AT-Attn: Temporal-Aware Cross-Attention for Longitudinal Multimodal Alzheimer's Disease Diagnosis`: Rank dropped by -1
+- **[Rank Drop]** `Navigating Hierarchy: Hyperbolic Learning on Brain Graphs for Disorder Diagnosis`: Rank dropped by -1
+- **[Rank Drop]** `Multiplication Beyond Groups: Stratified Fourier Mechanisms in Transformer Circuits`: Rank dropped by -1
+- **[Rank Drop]** `Complexity-Budgeted, Interaction-Aware Interpretable Model for Tabular Data`: Rank dropped by -1
+- **[Rank Drop]** `Progressive Crystallization: Turning Agent Exploration into Deterministic, Lower-Cost Workflows in Production`: Rank dropped by -1
+- **[Rank Drop]** `Making Implicit Preservation Intent Explicit in Conversational Image Editing`: Rank dropped by -1
+- **[Rank Drop]** `Riemannian Geometry for Pre-trained Language Model Embeddings`: Rank dropped by -1
+- **[Rank Drop]** `On the Principles of Deep Feedforward ReLU Networks`: Rank dropped by -1
+- **[Rank Drop]** `Intrinsic Green's Learning: Supervised Learning on Manifolds via Inverse PDE`: Rank dropped by -1
+- **[Rank Drop]** `AnchorPrune: Relevance-Anchored Contextual Expansion for Visual Token Pruning`: Rank dropped by -1
+- **[Rank Drop]** `Gimitest: A Comprehensive Tool for Testing Reinforcement Learning Policies`: Rank dropped by -1
+- **[Rank Drop]** `Latent graph encoding of multimodal neuroimaging features with generative AI architectures`: Rank dropped by -1
+- **[Rank Drop]** `Multimodal Spatiotemporal-Frequency Fusion with Peak Enhancement for Cellular Traffic Forecasting`: Rank dropped by -1
+- **[Rank Drop]** `Physics-guided spatiotemporal neural models for fuel density prediction`: Rank dropped by -1
+- **[Rank Drop]** `WAM-TTT: Steering World-Action Models by Watching Human Play at Test Time`: Rank dropped by -1
+- **[Rank Drop]** `Hybrid Least Squares/Gradient Descent Methods for MIONets`: Rank dropped by -1
+- **[Rank Drop]** `End-to-End LLM Flight Planning with RAG-based Memory and Multi-modal Coach Agent`: Rank dropped by -1
+- **[Rank Drop]** `Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies`: Rank dropped by -1
+- **[Rank Drop]** `Self-Supervised Pretraining Improves Cross-Site and Cross-Scale Robustness of Point Cloud Leaf-Wood Segmentation`: Rank dropped by -1
+- **[Rank Drop]** `Comprehensive Evaluation of Large Language Model Responses: A Multi-Factor Scoring System`: Rank dropped by -1
+- **[Rank Drop]** `Imputation Meets Clustering: Exploiting Latent Subgroup Structure for Missing Data Recovery`: Rank dropped by -1
+- **[Rank Drop]** `MADB: A Large-Scale Music Aesthetics Dataset with Professional and Multi-Dimensional Annotations`: Rank dropped by -1
+- **[Rank Drop]** `LoCA: Spatially-Aware Low-Rank Convolutional Adaptation of Vision Foundation Models`: Rank dropped by -1
+- **[Rank Drop]** `Computing with Stochastic Oracles in AI-Augmented Computation`: Rank dropped by -1
+- **[Rank Drop]** `ReMoDEx: A Local-to-Global Relevance-Based Model Decision Explainability Framework for large-Scale Image Datasets`: Rank dropped by -1
+- **[Rank Drop]** `GemNav: Discrete-Token Visual Robot Navigation using a Multimodal Large Language Model`: Rank dropped by -1
+- **[Rank Drop]** `A Gold-Standard Study of What Makes a Lightweight Game-Playing Agent Strong`: Rank dropped by -1
+- **[Rank Drop]** `Gradient-Based Speech-to-Text Alignment for Any ASR Model: From CTC to Speech LLMs`: Rank dropped by -1
+- **[Rank Drop]** `Ad Headline Generation using Self-Critical Masked Language Model`: Rank dropped by -1
+- **[Rank Drop]** `When Agents Go Rogue: Activation-Based Detection of Malicious Behaviors in Multi-Agent Systems`: Rank dropped by -1
+- **[Rank Drop]** `A Multi-Analyst LLM Pipeline for Auditable Rule Discovery Across 68 Public Physiological Corpora`: Rank dropped by -1
+- **[Rank Drop]** `What Predicts Correctness in Text-to-SQL? A Selective-Prediction Study`: Rank dropped by -1
+- **[Rank Drop]** `Enhancing deep learning models for time series classification via knowledge distillation`: Rank dropped by -1
+- **[Rank Drop]** `From Agentic to Autogenic Network Management for AI-Native 6G and Beyond: A Standards Perspective`: Rank dropped by -1
+- **[Rank Drop]** `AirPASS: Over-the-Air Federated Learning via Pinching Antenna Systems`: Rank dropped by -1
+- **[Rank Drop]** `SmartHomeSecure: Automated Detection and Repair of Smart Home Configuration Errors Using Large Language Models`: Rank dropped by -1
+- **[Rank Drop]** `A Continual Learning Framework for Adaptive Control of Modular Soft Robots`: Rank dropped by -1
+- **[Rank Drop]** `Reliable and Developer-Aligned Evaluation of Agents for Software Engineering`: Rank dropped by -1
+- **[Rank Drop]** `Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review`: Rank dropped by -1
+- **[Rank Drop]** `SPEAR: A Simulator for Photorealistic Embodied AI Research`: Rank dropped by -1
+- **[Rank Drop]** `tsbootstrap: Distribution-Free Uncertainty Quantification and Conformal Prediction for Time Series`: Rank dropped by -1
+- **[Rank Drop]** `Digital Fragmentation and Generative AI Use Across 103 Million Application Events`: Rank dropped by -1
+- **[Rank Drop]** `Diffusion enabled Optimal Transport distances for graph matching`: Rank dropped by -1
+- **[Rank Drop]** `Healthier LLMs: Retrieval-Augmented Generation for Public Health Question Answering`: Rank dropped by -1
+- **[Rank Drop]** `The Rank-One Corner: How Much Value Equivalence Does a Task Need from a World Model?`: Rank dropped by -1
+- **[Rank Drop]** `At-Grok Is Not Converged:A Measurement-Validity Audit for Grokking Representation Metrics`: Rank dropped by -1
+- **[Rank Drop]** `Specification Grounding Drives Test Effectiveness for LLM Code`: Rank dropped by -1
+- **[Rank Drop]** `ProMoE-FL: Prototype-conditioned Mixture of Experts for Multimodal Federated Learning with Missing Modalities`: Rank dropped by -1
+- **[Rank Drop]** `Dynamic-in-Few-Step: Unifying Dynamic Computation and Few-Step Distillation for Efficient Video Generation`: Rank dropped by -1
+- **[Rank Drop]** `Cross-Trajectory Chimera Interventions Reveal Dissociable Roles of Weight Magnitude and Direction in Grokking`: Rank dropped by -1
+- **[Rank Drop]** `Open-Ended Scenario Reasoning for Specialist Model Adaptation`: Rank dropped by -1
+- **[Rank Drop]** `LLM-Guided Task-Semantic Field Factorization for Industrial Process Forecasting`: Rank dropped by -1
+- **[Rank Drop]** `SpaR3D-MoE: Adaptive 3D Spatial Reasoning from Sparse Views Meets Geometry-Inductive Mixture-of-Experts`: Rank dropped by -1
+- **[Rank Drop]** `Overview of the NLPCC 2026 Shared Task 1: Difficulty-Aware Multilingual and Multimodal Medical Instructional Video Understanding Evaluation`: Rank dropped by -1
+- **[Rank Drop]** `Inertia-1: An Open Exploration of Wearable Motion Foundation Models`: Rank dropped by -1
+- **[Rank Drop]** `WHERE to Generate Matters: Budget-Aware Synthetic Augmentation for Label Skewed Federated Learning`: Rank dropped by -1
+- **[Rank Drop]** `STAGformer: A Spatio-temporal Agent Graph Transformer for Micro Mobility Demand Forecasting`: Rank dropped by -1
+- **[Rank Drop]** `PRoVeFL: Private Robust and Verifiable Aggregation in Federated Learning`: Rank dropped by -1
+- **[Rank Drop]** `Audio Sentiment Analysis via Distillation and Cross-Modal Integration of Generated Multilingual Transcripts`: Rank dropped by -1
+- **[Rank Drop]** `Deep Reinforcement Learning for Reliability Based Bi-Objective Portfolio Optimization`: Rank dropped by -1
+- **[Rank Drop]** `D2PO: Optimizing Diffusion Samplers via Dynamic Preference`: Rank dropped by -1
+- **[Rank Drop]** `Security and Privacy in Agentic AI: Grand Challenges and Future Directions`: Rank dropped by -1
+- **[Rank Drop]** `NEST: Tackling Dataset-Level Distribution Shifts via Regime-Oriented Mixture-of-Experts`: Rank dropped by -1
+- **[Rank Drop]** `Do Counterfactually Fair Image Classifiers Satisfy Group Fairness? -- A Theoretical and Empirical Study`: Rank dropped by -1
+- **[Rank Drop]** `TriRoute: Unified Learned Routing for Joint Adaptive Attention, Experts, and KV-Cache Allocation`: Rank dropped by -1
+- **[Rank Drop]** `MiLSD: A Micro Line-Segment Detector for Resource-Constrained Devices`: Rank dropped by -1
+- **[Rank Drop]** `Non-contact, Real-time, Heart-rate Measurement using Image Processing with Commodity Cameras and AI Agents`: Rank dropped by -1
+- **[Rank Drop]** `When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents`: Rank dropped by -1
+- **[Rank Drop]** `LipSSD: Lipschitz-Constrained Single-Shot Detection for Adversarially Robust Object Detection`: Rank dropped by -1
+- **[Rank Drop]** `Can Reinforcement Learning Efficiently Discover Price Manipulation?`: Rank dropped by -1
+- **[Rank Drop]** `Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety`: Rank dropped by -1
+- **[Rank Drop]** `SkillCenter: A Large-Scale Source-Grounded Skill Library for Autonomous AI Agents`: Rank dropped by -1
+- **[Rank Drop]** `Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous Research Loops`: Rank dropped by -1
+- **[Rank Drop]** `RL Post-Training Builds Compositional Reasoning Strategies`: Rank dropped by -1
+- **[Rank Drop]** `Do LLM-Generated Skills Make Better AI Data Scientists? A Component Ablation Across Data-Science Workflows`: Rank dropped by -1
+- **[Rank Drop]** `Search, Fail, Recover: A Training Framework for Correction-Aware Reasoning`: Rank dropped by -1
+- **[Rank Drop]** `SpaCellAgent: A Self-Evolving LLM-Based Multi-Agent Framework for Trajectory Analysis`: Rank dropped by -1
+- **[Rank Drop]** `The Blind Curator: How a Biased Judge Silently Disables Skill Retirement in Self-Evolving Agents`: Rank dropped by -1
+- **[Rank Drop]** `InductWave: Inductive Multi-Hop Logical Query Answering on Knowledge Graphs`: Rank dropped by -1
+- **[Rank Drop]** `Reason Less, Verify More: Deterministic Gates Recover a Silent Policy-Violation Failure Mode in Tool-Using LLM Agents`: Rank dropped by -1
+- **[Rank Drop]** `Agentic Data Environments`: Rank dropped by -1
+- **[Rank Drop]** `MIRA-Math: A Benchmark for Minimal Information Requesting and Mathematical Reasoning`: Rank dropped by -1
+- **[Rank Drop]** `Physics-Audited Agentic Discovery in Scientific Machine Learning`: Rank dropped by -1
+- **[Rank Drop]** `From Atomic Actions to Standard Operating Procedures: Iterative Tool Optimization for Self-Evolving LLM Agents`: Rank dropped by -1
+- **[Rank Drop]** `Reasoning Consistency Scanning: A Framework for Auditing Chain-of-Thought Validity in AI Safety Evaluations`: Rank dropped by -1
+- **[Rank Drop]** `Does AI Understand Imaging? A Systematic Benchmark of Agentic AI for Computational Imaging Tasks`: Rank dropped by -1
+- **[Rank Drop]** `Operational Reframing and Approval-Framed Delegation in Multi-Agent LLM Safety`: Rank dropped by -1
+- **[Rank Drop]** `Measuring Intelligence Beyond Human Scale`: Rank dropped by -1
+- **[Rank Drop]** `Learning social norms enhances compatibility in dynamic human-AI coordination`: Rank dropped by -1
+- **[Rank Drop]** `Large Behavior Model: A Promptable Digital Twin of the Retail Customer`: Rank dropped by -1
+- **[Rank Drop]** `Grounding Spatial Relations in a Compact World Model: Instruction Leakage and a Goal-Free Dynamics Fix`: Rank dropped by -1
+- **[Rank Drop]** `The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI`: Rank dropped by -1
+- **[Rank Drop]** `Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics`: Rank dropped by -1
+- **[Rank Drop]** `Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1`: Rank dropped by -1
+- **[Rank Drop]** `QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron`: Rank dropped by -1
+- **[Rank Drop]** `LLM-powered reasoning in agent-based modeling`: Rank dropped by -1
+- **[Rank Drop]** `When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning`: Rank dropped by -1
+- **[Rank Drop]** `AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation`: Rank dropped by -1
+- **[Rank Drop]** `Tutorials | Haystack`: Rank dropped by -1
+- **[Rank Drop]** `Build & Scale AI Agents and Apps Faster | Haystack Enterprise Platform`: Rank dropped by -1
+- **[Rank Drop]** `Introduction to Haystack | Haystack Documentation`: Rank dropped by -1
+- **[Rank Drop]** `Google Cloud Blog | News, Features and Announcements`: Rank dropped by -1
+- **[Rank Drop]** `AI and ML | Google Cloud Documentation`: Rank dropped by -1
+- **[Rank Drop]** `Google Cloud Platform · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `Gemini for Google Cloud pricing | Google Cloud`: Rank dropped by -1
+- **[Rank Drop]** `Gemini for Google Cloud overview | Google Cloud Documentation`: Rank dropped by -1
+- **[Rank Drop]** `Set up Gemini Code Assist Standard and Enterprise | Gemini for Google Cloud | Google Cloud Documentation`: Rank dropped by -1
+- **[Rank Drop]** `Code customization overview | Gemini for Google Cloud | Google Cloud Documentation`: Rank dropped by -1
+- **[Rank Drop]** `cwebp | WebP | Google for Developers`: Rank dropped by -1
+- **[Rank Drop]** `disintegration/imaging`: Rank dropped by -1
+- **[Rank Drop]** `Gemini in Android Studio - Android Developers`: Rank dropped by -1
+- **[Rank Drop]** `Haystack`: Rank dropped by -1
+- **[Rank Drop]** `Hugging Face – The AI community building the future.`: Rank dropped by -1
+- **[Rank Drop]** `kernels-community (kernels-community)`: Rank dropped by -1
+- **[Rank Drop]** `Privacy Checkup`: Rank dropped by -1
+- **[Rank Drop]** `Control Your Online Safety and Privacy - Google Safety Center`: Rank dropped by -1
+- **[Rank Drop]** `Review your order history - Google Play Help`: Rank dropped by -1
+- **[Rank Drop]** `encoding.HexDecode`: Rank dropped by -1
+- **[Rank Drop]** `encoding.HexEncode`: Rank dropped by -1
+- **[Rank Drop]** `Discord RSS Bot — Auto-Send YouTube, Reddit, Twitter, Twitch & News to Discord | Readybot.io`: Rank dropped by -1
+- **[Rank Drop]** `The Sovereign AI Platform for Agents`: Rank dropped by -1
+- **[Rank Drop]** `Cypher: Variable-length relationships by example`: Rank dropped by -1
+- **[Rank Drop]** `NVIDIA Nemotron V2 - a nvidia Collection`: Rank dropped by -1
+- **[Rank Drop]** `Build a Retrieval-Augmented Generation (RAG) Agent with NVIDIA Nemotron | NVIDIA Technical Blog`: Rank dropped by -1
+- **[Rank Drop]** `收藏备用！2026 年所有主流 RAG 开源项目都在这里了 - 技术栈`: Rank dropped by -1
+- **[Rank Drop]** `Introducing Robostral Navigate`: Rank dropped by -1
+- **[Rank Drop]** `Native-speed vLLM transformers modeling backend`: Rank dropped by -1
+- **[Rank Drop]** `Data for Agents`: Rank dropped by -1
+- **[Rank Drop]** `Spaces - Hugging Face`: Rank dropped by -1
+- **[Rank Drop]** `Litmaps | Your Literature Review Assistant`: Rank dropped by -1
+- **[Rank Drop]** `- YouTube`: Rank dropped by -1
+- **[Rank Drop]** `supermldev/agenticAI`: Rank dropped by -1
+- **[Rank Drop]** `2026 Company Logos (External) - Google Drive`: Rank dropped by -1
+- **[Rank Drop]** `How Podium optimized agent behavior and reduced engineering intervention by 90% with LangSmith`: Rank dropped by -1
+- **[Rank Drop]** `deepset-ai/haystack-experimental`: Rank dropped by -1
+- **[Rank Drop]** `supermlorg (SuperML.org) · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `Agentic AI, NL2SQL & Enterprise AI Architecture â SuperML.dev | SuperML.dev â AI/ML Architecture for Enterprise`: Rank dropped by -1
+- **[Rank Drop]** `google/flan-t5-base · Hugging Face`: Rank dropped by -1
+- **[Rank Drop]** `Firebase Documentation`: Rank dropped by -1
+- **[Rank Drop]** `googleapis/googleapis`: Rank dropped by -1
+- **[Rank Drop]** `Protocol Buffers Documentation`: Rank dropped by -1
+- **[Rank Drop]** `github/codeql`: Rank dropped by -1
+- **[Rank Drop]** `Add and manage MCP servers in VS Code`: Rank dropped by -1
+- **[Rank Drop]** `Creating Your First QA Pipeline with Retrieval-Augmentation | Haystack`: Rank dropped by -1
+- **[Rank Drop]** `Jobs at Medium`: Rank dropped by -1
+- **[Rank Drop]** `Digital Millennium Copyright Act - Wikipedia`: Rank dropped by -1
+- **[Rank Drop]** `Databricks Online Feature Stores | Databricks on AWS`: Rank dropped by -1
+- **[Rank Drop]** `modelcontextprotocol/typescript-sdk`: Rank dropped by -1
+- **[Rank Drop]** `openai/simple-evals`: Rank dropped by -1
+- **[Rank Drop]** `modelcontextprotocol/python-sdk`: Rank dropped by -1
+- **[Rank Drop]** `Tools - Model Context Protocol`: Rank dropped by -1
+- **[Rank Drop]** `What is the Model Context Protocol (MCP)? - Model Context Protocol`: Rank dropped by -1
+- **[Rank Drop]** `Use Supervisor Agent to create a coordinated multi-agent system | Databricks on AWS`: Rank dropped by -1
+- **[Rank Drop]** `Specification - Model Context Protocol`: Rank dropped by -1
+- **[Rank Drop]** `Welcome, GraphAware`: Rank dropped by -1
+- **[Rank Drop]** `knative/docs`: Rank dropped by -1
+- **[Rank Drop]** `Privacy Sandbox`: Rank dropped by -1
+- **[Rank Drop]** `GraphAcademy — Free, Hands-On Neo4j Training & Certification`: Rank dropped by -1
+- **[Rank Drop]** `Connected data. Smarter AI. 230% ROI.`: Rank dropped by -1
+- **[Rank Drop]** `The Firebase Blog`: Rank dropped by -1
+- **[Rank Drop]** `specs/specs/serving/knative-api-specification-1.0.md at main · knative/specs · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `Colab | Google for Developers`: Rank dropped by -1
+- **[Rank Drop]** `Develop for Android | Android Developers`: Rank dropped by -1
+- **[Rank Drop]** `Download Android Studio & App Tools - Android Developers`: Rank dropped by -1
+- **[Rank Drop]** `News | Android Developers`: Rank dropped by -1
+- **[Rank Drop]** `GitHub Security · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `haystack-tutorials/Contributing.md at main · deepset-ai/haystack-tutorials · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `Careers at Medium | by Jobs @ Medium | Jobs at Medium | Medium`: Rank dropped by -1
+- **[Rank Drop]** `GitHub · Change is constant. GitHub keeps you ahead. · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `tavily-ai/tavily-search-evals`: Rank dropped by -1
+- **[Rank Drop]** `Speechify: Text to Speech & Voice Typing AI Assistant | 60M+ Users`: Rank dropped by -1
+- **[Rank Drop]** `Building custom connectors - Claude.ai Documentation`: Rank dropped by -1
+- **[Rank Drop]** `Accelerate AI Development with Databricks: Discover, Govern, and Build with MCP and Agent Bricks | Databricks Blog`: Rank dropped by -1
+- **[Rank Drop]** `Model Context Protocol · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `[2411.04368] Measuring short-form factuality in large language models`: Rank dropped by -1
+- **[Rank Drop]** `Understand errors and warnings better with console insights | Chrome DevTools | Chrome for Developers`: Rank dropped by -1
+- **[Rank Drop]** `deepset · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `Methods`: Rank dropped by -1
+- **[Rank Drop]** `Medium: Read and write stories.`: Rank dropped by -1
+- **[Rank Drop]** `Tavily`: Rank dropped by -1
+- **[Rank Drop]** `VivekMalhan666/npm-package-combobox`: Rank dropped by -1
+- **[Rank Drop]** `run-llama/liteparse`: Rank dropped by -1
+- **[Rank Drop]** `dorianbrown/rank_bm25`: Rank dropped by -1
+- **[Rank Drop]** `Categorizing Mathematical Concepts with LLM Voting Ensembles in Mathswitch`: Rank dropped by -1
+- **[Rank Drop]** `Application of LLMs to Threat Assessment of Foreign Peacekeeping Missions`: Rank dropped by -1
+- **[Rank Drop]** `The Inattentional Gap: Task-Conditioned Language and Vision Models Omit the Safety-Critical Signals They Can Otherwise Report`: Rank dropped by -1
+- **[Rank Drop]** `A Neuromorphic Reinforcement Learning Framework for Efficient Pathfinding in Robotic Mobile Fulfillment Systems`: Rank dropped by -1
+- **[Rank Drop]** `When Lower Privileges Suffice: Investigating Over-Privileged Tool Selection in LLM Agents`: Rank dropped by -1
+- **[Rank Drop]** `An LLM-Native Psychometric Instrument Reveals a Self-Report--Behavior Gap Across 25 Models`: Rank dropped by -1
+- **[Rank Drop]** `MechVQA: Benchmarking and Enhancing Multimodal LLMs on Comprehensive Mechanical Drawing Understanding`: Rank dropped by -1
+- **[Rank Drop]** `Mathematical Reasoning in Large Language Models: Benchmarks, Architectures, Evaluation, and Open Challenges`: Rank dropped by -1
+- **[Rank Drop]** `Geometry-Aware Uncertainty Coresets for Robust Visual In-Context Learning in Histopathology`: Rank dropped by -1
+- **[Rank Drop]** `ROK-FORTRESS: Measuring the Effect of Geopolitical Transcreation for National Security and Public Safety`: Rank dropped by -1
+- **[Rank Drop]** `Few Channels Draw The Whole Picture: Revealing Massive Activations in Diffusion Transformers`: Rank dropped by -1
+- **[Rank Drop]** `Constitutional Governance in Metric Spaces`: Rank dropped by -1
+- **[Rank Drop]** `Learning from Execution: Self-Evolving Memory for Private-Library Code Generation`: Rank dropped by -1
+- **[Rank Drop]** `Do Quantum Transformers Help? A Systematic VQC Architecture Comparison on Tabular Benchmarks`: Rank dropped by -1
+- **[Rank Drop]** `CLAY: Conditional Visual Similarity Modulation in Vision-Language Embedding Space`: Rank dropped by -1
+- **[Rank Drop]** `HST-HGN: Heterogeneous Spatial-Temporal Hypergraph Networks with Bidirectional State Space Models for Global Fatigue Assessment`: Rank dropped by -1
+- **[Rank Drop]** `DecepGPT: Schema-Driven Deception Detection with Multicultural Datasets and Robust Multimodal Learning`: Rank dropped by -1
+- **[Rank Drop]** `SpatialFly: Implicit 3D Prior-Guided Visual Reparameterization for Continuous UAV Vision-and-Language Navigation`: Rank dropped by -1
+- **[Rank Drop]** `From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation`: Rank dropped by -1
+- **[Rank Drop]** `Volumetric Directional Diffusion: Anchoring Uncertainty Quantification in Anatomical Consensus for Ambiguous Medical Image Segmentation`: Rank dropped by -1
+- **[Rank Drop]** `Quantifying Frontier LLM Capabilities for Container Sandbox Escape`: Rank dropped by -1
+- **[Rank Drop]** `From Global to Granular: Revealing IQA Model Performance via Correlation Surface`: Rank dropped by -1
+- **[Rank Drop]** `Multi-Task Instruction Tuning via Data Scheduling for Low-Resource Arabic SpeechLLMs`: Rank dropped by -1
+- **[Rank Drop]** `OpenGround: Planning-based Online Perception for Open-World 3D Visual Grounding`: Rank dropped by -1
+- **[Rank Drop]** `SWITCH: Benchmarking Modeling and Handling of Tangible Interfaces in Long-horizon Embodied Scenarios`: Rank dropped by -1
+- **[Rank Drop]** `Perceptually Aligning Representations of Music via Noise-Augmented Autoencoders`: Rank dropped by -1
+- **[Rank Drop]** `Rethinking Visual Autoregressive Sampling with Information-Grounding Guidance`: Rank dropped by -1
+- **[Rank Drop]** `Detoxify: A framework for abusive text transformation using LLMs`: Rank dropped by -1
+- **[Rank Drop]** `Narrative-Centered Emotional Reflection: An Early Prototype for AI-Supported Emotional Self-Reflection`: Rank dropped by -1
+- **[Rank Drop]** `Toward AI standardization: A triadic human-ai collaboration framework for multi-level autonomous mobility`: Rank dropped by -1
+- **[Rank Drop]** `Leveraging Metamemory Agent for Enhanced Data-Free Code Generation in Large Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Replication in Visual Diffusion Models: A Survey and Outlook`: Rank dropped by -1
+- **[Rank Drop]** `HARC: Coupling Harmfulness and Refusal Directions for Robust Safety Alignment`: Rank dropped by -1
+- **[Rank Drop]** `Accelerating Returns and the Qualitative Engine for Science`: Rank dropped by -1
+- **[Rank Drop]** `Reward as An Agent for Embodied World Models`: Rank dropped by -1
+- **[Rank Drop]** `EVA-Net: Subject-Independent EEG Motor Decoding with Video-Derived Motor Priors`: Rank dropped by -1
+- **[Rank Drop]** `Doing What They Say, Not What They Reason: Locating the Faithfulness Gap in LLM Agents`: Rank dropped by -1
+- **[Rank Drop]** `Self-Routing: Parameter-Free Expert Routing from Hidden States`: Rank dropped by -1
+- **[Rank Drop]** `Implementing Metric Temporal Answer Set Programming`: Rank dropped by -1
+- **[Rank Drop]** `VASP Agent: An Agentic Framework for Autonomous First-principles Calculations`: Rank dropped by -1
+- **[Rank Drop]** `When Assisting One Disempowers Another`: Rank dropped by -1
+- **[Rank Drop]** `Beyond Reactivity: Measuring Proactive Problem Solving in LLM Agents`: Rank dropped by -1
+- **[Rank Drop]** `Platonic Representations for Poverty Mapping: Unified Vision-Language Codes or Agent-Induced Novelty?`: Rank dropped by -1
+- **[Rank Drop]** `RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation`: Rank dropped by -1
+- **[Rank Drop]** `Industry Classification of GitHub Repositories Using the North American Industry Classification System (NAICS)`: Rank dropped by -1
+- **[Rank Drop]** `AirflowAttack: Thermal-Airflow Adversarial Perturbations against Infrared Remote-Sensing Vision-Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Data Analysis in the Wild: Benchmarking Large Language Models Against Real-World Data Complexities`: Rank dropped by -1
+- **[Rank Drop]** `Prompt-Adapter Context Routing for Parameter-Efficient Multi-Shot Long Video Extrapolation`: Rank dropped by -1
+- **[Rank Drop]** `From Voting to Agent Collaboration: Answer-Type-Aware LLM Pipelines for BioASQ 14b`: Rank dropped by -1
+- **[Rank Drop]** `Analysis-by-Proxy: Localization Signals in VLMs Operating as Condition Encoders`: Rank dropped by -1
+- **[Rank Drop]** `An Experimental Design Approach to Evaluating Agentic AI's Autonomous Model Discovery`: Rank dropped by -1
+- **[Rank Drop]** `RuBench: A Repository-Level Agentic Coding Benchmark with Natively Authored Russian Task Specifications`: Rank dropped by -1
+- **[Rank Drop]** `Responsible Personalisation: The Double-Edged Sword of Personalisation in Human-Robot Interaction`: Rank dropped by -1
+- **[Rank Drop]** `Harnessing Code Agents for Automatic Software Verification`: Rank dropped by -1
+- **[Rank Drop]** `Estimating Uncertainty from Reasoning: A Large-Scale Study of Multi- and Crosslingual MCQA Performance in LLMs`: Rank dropped by -1
+- **[Rank Drop]** `Token-Based Dual-view Fusion and Adaptation of Large Vision Models for Breast Cancer Classification`: Rank dropped by -1
+- **[Rank Drop]** `UI2App: Benchmarking Visual Interaction Inference in Executable Web Application Generation`: Rank dropped by -1
+- **[Rank Drop]** `Designing Maintainable Hybrid Generative Systems: A Quantum-Inspired Approach to Automated Music Harmony Generation`: Rank dropped by -1
+- **[Rank Drop]** `VendorBench-100: A Unified Cross-Paradigm Benchmark for Deepfake Image Detection`: Rank dropped by -1
+- **[Rank Drop]** `Spider 2.0-AIFunc: Extending Real-World Text-to-SQL to AI-Native SQL Workflows`: Rank dropped by -1
+- **[Rank Drop]** `UBEP: Re-architecting Expert Parallelism Communication Library for Production Superpods`: Rank dropped by -1
+- **[Rank Drop]** `LongCrafter: Towards Diverse Long-Context Understanding via Evidence-Graph-Guided Instruction Synthesis`: Rank dropped by -1
+- **[Rank Drop]** `LLM Agents for Deliberative Collaboration: A Study on Joint Decision Making Under Partial Observability`: Rank dropped by -1
+- **[Rank Drop]** `Property-Driven Synthetic Data Engineering for Data-Scarce Software Systems: Reflections from the Breast Cancer Domain`: Rank dropped by -1
+- **[Rank Drop]** `Evaluating Fine-Tuning and Metrics for Neural Decompilation of Dart AOT Binaries`: Rank dropped by -1
+- **[Rank Drop]** `LLM-Guided Measurement Credibility Correction for Trustworthy Industrial Process Inference`: Rank dropped by -1
+- **[Rank Drop]** `RoME: Robust Mixture of Low-Rank Experts against Multiple Adversarial Perturbations`: Rank dropped by -1
+- **[Rank Drop]** `EcoVision: AI-Powered Drone Imaging for Salt Marsh Vegetation Monitoring and Dominance Mapping`: Rank dropped by -1
+- **[Rank Drop]** `Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development`: Rank dropped by -1
+- **[Rank Drop]** `PVCap: Towards Accurate 3D Dense Captioning via PseudoCap and VoxelCapNet`: Rank dropped by -1
+- **[Rank Drop]** `From Blueprint to Reality: Modeling and Applying Putnam's Social Capital Theory with LLM-based Multi-agent Simulations`: Rank dropped by -1
+- **[Rank Drop]** `Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development`: Rank dropped by -1
+- **[Rank Drop]** `PluraMath: Extending Mathematical Reasoning Evaluation Beyond High-Resource Languages`: Rank dropped by -1
+- **[Rank Drop]** `Propose and Attend: Training-free MLLM Grounding Confidence via Multi-Token Localized Attention`: Rank dropped by -1
+- **[Rank Drop]** `MCP-Enabled Agentic AI for Autonomous IPoDWDM Network Lifecycle Automation`: Rank dropped by -1
+- **[Rank Drop]** `Faithful or Findable? Evaluating LLM-Generated Metadata for RDF Dataset Search`: Rank dropped by -1
+- **[Rank Drop]** `InfluMatch: Frontier-Quality KOL Search at 4B-Model Cost`: Rank dropped by -1
+- **[Rank Drop]** `Decoupled Single-Mask Annotation Noise Detection via Cross-Sectional Patch Self-Consistency`: Rank dropped by -1
+- **[Rank Drop]** `Agentic AI for IPoDWDM Network Lifecycle Automation: An MCP-Enabled Architecture`: Rank dropped by -1
+- **[Rank Drop]** `NegROI: Click-Centric Uncertainty-Guided Refinement with Scene-Conditioned Negative Prompts for Robust Interactive 3D Segmentation`: Rank dropped by -1
+- **[Rank Drop]** `Signed-Graph Recommendation as Structural Consistency Maximization`: Rank dropped by -1
+- **[Rank Drop]** `CMDR: Contextual Multimodal Document Retrieval`: Rank dropped by -1
+- **[Rank Drop]** `PolicyShiftGuard: Benchmarking and Improving Policy-Adaptive Image Guardrails`: Rank dropped by -1
+- **[Rank Drop]** `From Textural Counterpoint to Feature Encoding: A Multi-Dimensional Machine Representation Study of Haydn's "The Lark" Integrating Electroacoustic Analysis`: Rank dropped by -1
+- **[Rank Drop]** `i-EXAM: Instructable and Explainable Attack Connectivity Graph Modeler`: Rank dropped by -1
+- **[Rank Drop]** `Harrison.Rad 1.5 Technical Report: A radiology foundation model that can draft reports from images, priors and clinical context`: Rank dropped by -1
+- **[Rank Drop]** `Think Before You Grid-Search: Floor-First Triage for LLM Serving`: Rank dropped by -1
+- **[Rank Drop]** `Beyond Refusal: A Same-Lineage Study of Aligned and Abliterated LLMs for Vulnerability Analysis`: Rank dropped by -1
+- **[Rank Drop]** `VisTCP: A Visualization Framework to Construct Knowledge-Graph-Based Representation for Traditional Chinese Painting`: Rank dropped by -1
+- **[Rank Drop]** `Tangent classes of matroids and wonderful compactifications`: Rank dropped by -1
+- **[Rank Drop]** `Complementary Roles of Image Classification and Vessel Segmentation in AI-Based Screening for Retinopathy of Prematurity Plus Disease in a Kenyan Preterm Cohort`: Rank dropped by -1
+- **[Rank Drop]** `Segmentation before Answering: Pixel Grounding for MLLM Visual Reasoning`: Rank dropped by -1
+- **[Rank Drop]** `FORGE: Towards Functional Tool-Use Generalization via Keypoint Trajectory Reasoning`: Rank dropped by -1
+- **[Rank Drop]** `LEGATO 2: Toward Multimodal Sheet Music Recognition and Understanding`: Rank dropped by -1
+- **[Rank Drop]** `Data-dependent Evaluations for Budgeted Submodular Maximization`: Rank dropped by -1
+- **[Rank Drop]** `When Should LLMs Search? Counterfactual Supervision for Search Routing`: Rank dropped by -1
+- **[Rank Drop]** `Unicode TAG-Block Concealment of Tool-Metadata Payloads in the Model Context Protocol: An Approval-View Fidelity Gap Across Three Independent Server Implementations`: Rank dropped by -1
+- **[Rank Drop]** `The Balkanization of Execution-Security Research for AI Coding Agents: Isolation, Access Control, and Time-of-Check-to-Time-of-Use Vulnerabilities`: Rank dropped by -1
+- **[Rank Drop]** `SCOReD: Student-Aware CoT Optimization for Recommendation Distillation`: Rank dropped by -1
+- **[Rank Drop]** `Plainbook: Data Science, in Plain Language`: Rank dropped by -1
+- **[Rank Drop]** `Depression Symptoms and Relational Patterns in 187k ChatGPT Histories`: Rank dropped by -1
+- **[Rank Drop]** `Beyond Accuracy: How Humans Evaluate Legally Correct but Socially Controversial Legal Advice from Machines`: Rank dropped by -1
+- **[Rank Drop]** `RPAM: A Principled Metric for Evaluating Associations in Language Models with High Predictive Validity in Downstream Outputs`: Rank dropped by -1
+- **[Rank Drop]** `What Do AI Agents Actually Change? An Empirical Taxonomy of Mutation Patterns in Performance-Improving Pull Requests`: Rank dropped by -1
+- **[Rank Drop]** `Do It Right! A Methodology for Successful NLP System Development`: Rank dropped by -1
+- **[Rank Drop]** `EvalLoop: A Methodology for Evaluation-Driven Iterative Improvement of Business AI Systems`: Rank dropped by -1
+- **[Rank Drop]** `BaFCo: A Document Understanding Benchmark for Complex Bangla Form Comprehension`: Rank dropped by -1
+- **[Rank Drop]** `ResonatorLM: Causal Resonant Field Mixing for Efficient Long-Context Language Modeling`: Rank dropped by -1
+- **[Rank Drop]** `Whose fairness? Structural concentration in AI bias research`: Rank dropped by -1
+- **[Rank Drop]** `Harnessing Generative Image Models for Training-Free Primitive Shape Abstraction`: Rank dropped by -1
+- **[Rank Drop]** `Prompt Robustness Is Task-Dependent: Comparing Objective and Belief-Style Questions in LLM Evaluation`: Rank dropped by -1
+- **[Rank Drop]** `The yes-no bias of large language models reflects answer order and wording, not shifts in moral judgment`: Rank dropped by -1
+- **[Rank Drop]** `Most LLM Conformity Needs No Speaker: Measuring the Speaker-Free Floor in Peer-Pressure Benchmarks`: Rank dropped by -1
+- **[Rank Drop]** `Rendering-Aware Bayesian 3D Gaussian Splatting with Native Uncertainty and Adaptive Complexity Control`: Rank dropped by -1
+- **[Rank Drop]** `aiAuthZ: Off-Host, Identity-Bound Authorization for AI Agents`: Rank dropped by -1
+- **[Rank Drop]** `Lean-Quantum: Toward AI-Assisted Formalization of Quantum Information`: Rank dropped by -1
+- **[Rank Drop]** `Privilege and confidentiality in generative AI workflows`: Rank dropped by -1
+- **[Rank Drop]** `Decision Protocols in Multi-Agent Large Language Model Conversations`: Rank dropped by -1
+- **[Rank Drop]** `Is Your NPU Ready for LLMs? Dissecting the Hidden Efficiency Bottlenecks in Mobile LLM Inference`: Rank dropped by -1
+- **[Rank Drop]** `Binocular Gaze Estimation with Single Camera and Single Light Source`: Rank dropped by -1
+- **[Rank Drop]** `KAT-Coder-V2.5 Technical Report`: Rank dropped by -1
+- **[Rank Drop]** `Learning 4D Geometric Priors for Inference-Efficient World Action Models`: Rank dropped by -1
+- **[Rank Drop]** `CanvasAgent: Enabling Complex Image Creation and Editing via Visual Tool Orchestration`: Rank dropped by -1
+- **[Rank Drop]** `Evaluating calibrated refusal and safe usefulness in dual-use biology settings`: Rank dropped by -1
+- **[Rank Drop]** `Scientific Code Search at Scale: A Multi-Domain Dataset and Benchmark`: Rank dropped by -1
+- **[Rank Drop]** `PORTS: Preference-Optimized Retrievers for Tool Selection with Large Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Modality Relevance is not Modality Utility: Post-hoc Selective Modality Escalation for Cost-Aware Multimodal RAG`: Rank dropped by -1
+- **[Rank Drop]** `CHARLIE: An On-Premise Multi-Agent Retrieval-Augmented Generation System for Evidential Reasoning in Forensic Science`: Rank dropped by -1
+- **[Rank Drop]** `When AI Classifies: What Counts as Public Administration?`: Rank dropped by -1
+- **[Rank Drop]** `Contrastive Predictive Coding with Compression for Enhanced Channel State Feedback in Wireless Networks`: Rank dropped by -1
+- **[Rank Drop]** `Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda`: Rank dropped by -1
+- **[Rank Drop]** `The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy`: Rank dropped by -1
+- **[Rank Drop]** `CANONIC: Governance Is Compilation`: Rank dropped by -1
+- **[Rank Drop]** `Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components`: Rank dropped by -1
+- **[Rank Drop]** `Position: Preventing AI-Generated CSAM Necessitates New Approaches to AI Safety`: Rank dropped by -1
+- **[Rank Drop]** `A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding`: Rank dropped by -1
+- **[Rank Drop]** `CCBENCH: Assessing LLM Cultural Competence via Implicitly Signaled Norms using Health Queries`: Rank dropped by -1
+- **[Rank Drop]** `The Jagged Global Economy: Frontier AI Unevenly Exposes National Economies`: Rank dropped by -1
+- **[Rank Drop]** `AI tools in Arab University English classrooms: Looking back and forward`: Rank dropped by -1
+- **[Rank Drop]** `Catalyst Papers in Artificial Intelligence Research: A Landscape on ICLR from 2017 to 2025`: Rank dropped by -1
+- **[Rank Drop]** `Benchmarking KV-Cache Optimizations across Task Quality and System Performance for Long-Context Serving`: Rank dropped by -1
+- **[Rank Drop]** `Proof of Execution: Runtime Verification for Governed AI Agent Actions`: Rank dropped by -1
+- **[Rank Drop]** `Lingering Authority: Revocable Resource-and-Effect Capabilities for Coding Agents`: Rank dropped by -1
+- **[Rank Drop]** `Rethinking Indic AI from a Lens of Cultural Heritage Preservation`: Rank dropped by -1
+- **[Rank Drop]** `DepthWeave-KV: Token-Adaptive Cross-Layer Residual Factorization for Long-Context KV Cache Compression`: Rank dropped by -1
+- **[Rank Drop]** `Bridging Physical Reasoning and Task Generalization via Visual Action Outcome Reasoning Alignment`: Rank dropped by -1
+- **[Rank Drop]** `FreqDepthKV: Frequency-Guided Depth Sharing for Robust KV Cache Compression in Long-Context LLM Inference`: Rank dropped by -1
+- **[Rank Drop]** `FootsiesGym: A Fighting Game Benchmark for Two-Player Zero-Sum Imperfect-Information Games`: Rank dropped by -1
+- **[Rank Drop]** `RMISC: A Large-scale Real-world Multivariate Corpus for Time Series Foundation Models`: Rank dropped by -1
+- **[Rank Drop]** `Doomed from the Start: Early Abort of LLM Agent Episodes via a Recall-Controlled Probe Cascade`: Rank dropped by -1
+- **[Rank Drop]** `Multi-Agent Deep Reinforcement Learning for Multi Objective Battery Management in Dairy Farms`: Rank dropped by -1
+- **[Rank Drop]** `A Physics-Informed Neural Network Framework for Elastodynamic Wave Propagation in Bimaterial Systems`: Rank dropped by -1
+- **[Rank Drop]** `Danus: Orchestrating Mathematical Reasoning Agents with Fact-Graph Memory`: Rank dropped by -1
+- **[Rank Drop]** `Finding H. pylori in the Fine Print: Evidence-Linked Multi-Agent Case Finding from Gastric Biopsy Reports`: Rank dropped by -1
+- **[Rank Drop]** `ExplAIner: A Declarative Query Language for Explaining Classification Models`: Rank dropped by -1
+- **[Rank Drop]** `A Definition and Roadmap for World Models`: Rank dropped by -1
+- **[Rank Drop]** `TopoBrick: Agentic Topology Sampling of Exogenous Variables for Zero-Shot Building IoT Forecasting`: Rank dropped by -1
+- **[Rank Drop]** `Driving the Wrong Way: Leveraging Interpretability in End2End Autonomous Driving Models`: Rank dropped by -1
+- **[Rank Drop]** `DT-Guard: Intent-Driven Reasoning-Active Training for Reasoning-Free LLM Safety Guardrail`: Rank dropped by -1
+- **[Rank Drop]** `Task Decomposition-Guided Reranking for Adaptive Agent Skill Retrieval`: Rank dropped by -1
+- **[Rank Drop]** `From Application-Layer Simulation to Native Meta-Architecture: Structural Tension as an Endogenous Driver for Heterogeneous AI Evolution`: Rank dropped by -1
+- **[Rank Drop]** `Demonstrating TOFFEE: A Learned System for Synthesizing Data Agent Trajectories at Scale`: Rank dropped by -1
+- **[Rank Drop]** `Information Gain-based Rollout Policy Optimization: An Adaptive Tree-Structured Rollout Approach for Multi-Turn LLM Agents`: Rank dropped by -1
+- **[Rank Drop]** `A framework for single and multi-agent human-AI curiosity ecosystems`: Rank dropped by -1
+- **[Rank Drop]** `When do prophets profit in prediction markets?`: Rank dropped by -1
+- **[Rank Drop]** `Reward-Density Heuristic for Dynamic Multi-Vehicle Routing: Performance and Computational Efficiency`: Rank dropped by -1
+- **[Rank Drop]** `PolyWorkBench: Benchmarking Multilingual Long-Horizon LLM Agents`: Rank dropped by -1
+- **[Rank Drop]** `Information Limits and Attractor Dynamics in Economies of Frontier LLM Agents: A Pre-Registered Test`: Rank dropped by -1
+- **[Rank Drop]** `AgoraSim: A Hybrid Agent-Based Modeling Framework`: Rank dropped by -1
+- **[Rank Drop]** `Auto-DSM Under the Lens: A Black-Box Evaluation Framework for LLM-Based DSM Generation`: Rank dropped by -1
+- **[Rank Drop]** `Integrating knowledge graphs and multilingual scholarly corpora for domain-adaptive LLMs in SSH`: Rank dropped by -1
+- **[Rank Drop]** `SearchEyes: Towards Frontier Multimodal Deep Search Intelligence via Search World Simulation`: Rank dropped by -1
+- **[Rank Drop]** `PCBWorld: A Benchmark Environment for Engine-Grounded PCB Design Automation`: Rank dropped by -1
+- **[Rank Drop]** `Uncovering Latent Depression Severity for Binary Depression Detection via Advantage-weighting Ranking`: Rank dropped by -1
+- **[Rank Drop]** `StateFuse: Deterministic Conflict-Preserving Memory for Multi-Agent Systems`: Rank dropped by -1
+- **[Rank Drop]** `TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training`: Rank dropped by -1
+- **[Rank Drop]** `From Passive Retrieval to Active Memory Navigation: Learning to Use Memory as a Structured Action Space`: Rank dropped by -1
+- **[Rank Drop]** `Controlling Tool Use with Heading-Specific Activation Steering`: Rank dropped by -1
+- **[Rank Drop]** `Beyond the Leaderboard: A Synthesis of Tool-Use, Planning, and Reasoning Failures in Large Language Model Agents`: Rank dropped by -1
+- **[Rank Drop]** `Beyond Static Evaluation: Building Simulation Environments for Scalable Agentic Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `Synthetic Consumer Insight Generation with Large Language Models`: Rank dropped by -1
+- **[Rank Drop]** `ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation`: Rank dropped by -1
+- **[Rank Drop]** `Akashic: A Low-Overhead LLM Inference Service with MemAttention`: Rank dropped by -1
+- **[Rank Drop]** `Memory in the Loop: In-Process Retrieval as ExtendedWorking Memory for Language Agents`: Rank dropped by -1
+- **[Rank Drop]** `FirstResearch: Auditable Question Formation for LLM Scientific Discovery Agents`: Rank dropped by -1
+- **[Rank Drop]** `Narrative World Model: Narratology-Grounded Writer Memory for Long-Form Fiction`: Rank dropped by -1
+- **[Rank Drop]** `Foundation Models for Automatic CAD Generation`: Rank dropped by -1
+- **[Rank Drop]** `CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming`: Rank dropped by -1
+- **[Rank Drop]** `From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond`: Rank dropped by -1
+- **[Rank Drop]** `Prompt-to-Paper: Agentic AI System for Bioinformatics`: Rank dropped by -1
+- **[Rank Drop]** `How Environment and Urbanization Shape Bird Diversity in Sri Lanka`: Rank dropped by -1
+- **[Rank Drop]** `DanceOPD: On-Policy Generative Field Distillation`: Rank dropped by -1
+- **[Rank Drop]** `CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention`: Rank dropped by -1
+- **[Rank Drop]** `It does what it says on the tin: safe synthetic data from coarsened margins`: Rank dropped by -1
+- **[Rank Drop]** `Distribution-free changepoint localization after sequential change detection`: Rank dropped by -1
+- **[Rank Drop]** `Parameter-Free and Group Conditional Online Conformal Prediction`: Rank dropped by -1
+- **[Rank Drop]** `A semantic mutation metric for metamorphic relation adequacy in scientific computing programs`: Rank dropped by -1
+- **[Rank Drop]** `Model-based Bootstrap of Controlled Markov Chains`: Rank dropped by -1
+- **[Rank Drop]** `Data-Efficient Indentation Size Effect Correction in Steels Using Machine Learning and Physics-Constrained Neural Network`: Rank dropped by -1
+- **[Rank Drop]** `Fine-Tuning Integrity for Modern Neural Networks: Structured Drift Proofs via Norm, Rank, and Sparsity Certificates`: Rank dropped by -1
+- **[Rank Drop]** `Multimodal Analytics of Cybersecurity Crisis Preparation Exercises: What Predicts Success?`: Rank dropped by -1
+- **[Rank Drop]** `DreamPartGen: Semantically Grounded Part-Level 3D Generation via Collaborative Latent Denoising`: Rank dropped by -1
+- **[Rank Drop]** `Towards Interpretable Foundation Models for Retinal Fundus Images`: Rank dropped by -1
+- **[Rank Drop]** `What Counts as Real? Speech Restoration and Voice Quality Conversion Pose New Challenges to Deepfake Detection`: Rank dropped by -1
+- **[Rank Drop]** `PoseVLA: Universal Pose Pretraining for Generalizable Vision-Language-Action Policies`: Rank dropped by -1
+- **[Rank Drop]** `Agentic AI for Commercial Insurance Underwriting with Adversarial Self-Critique`: Rank dropped by -1
+- **[Rank Drop]** `Estimation of instrument and noise parameters for inverse problem based on prior diffusion model`: Rank dropped by -1
+- **[Rank Drop]** `A Gibbs posterior sampler for inverse problem based on prior diffusion model`: Rank dropped by -1
+- **[Rank Drop]** `Conformal Prediction Sets for Instance Segmentation`: Rank dropped by -1
+- **[Rank Drop]** `Reliable Mislabel Detection for Video Capsule Endoscopy Data`: Rank dropped by -1
+- **[Rank Drop]** `RayRoPE: Projective Ray Positional Encoding for Multi-view Attention`: Rank dropped by -1
+- **[Rank Drop]** `SecureCode: A Production-Grade Multi-Turn Dataset for Training Security-Aware Code Generation Models`: Rank dropped by -1
+- **[Rank Drop]** `A Comparative Study of EMG- and IMU-based Gesture Recognition at the Wrist and Forearm`: Rank dropped by -1
+- **[Rank Drop]** `No-Regret Gaussian Process Optimization of Time-Varying Functions`: Rank dropped by -1
+- **[Rank Drop]** `A Fast Binary Splitting Approach for Non-Adaptive Learning of Erd\H{o}s--R\'enyi Graphs`: Rank dropped by -1
+- **[Rank Drop]** `Base Models Know How to Reason, Thinking Models Learn When`: Rank dropped by -1
+- **[Rank Drop]** `Reduced NEXI protocol for the quantification of human gray matter microstructure on the Connectome 2.0 scanner`: Rank dropped by -1
+- **[Rank Drop]** `Unequal Uncertainty: Rethinking Algorithmic Interventions for Mitigating Discrimination from AI`: Rank dropped by -1
+- **[Rank Drop]** `MASCA: LLM based-Multi Agents System for Credit Assessment`: Rank dropped by -1
+- **[Rank Drop]** `Position: EU AI Act's Research Exemptions Can Break the Publication Norms of Major AI Conferences`: Rank dropped by -1
+- **[Rank Drop]** `Leveraging Neural Graph Compilers in Machine Learning Research for Edge-Cloud Systems`: Rank dropped by -1
+- **[Rank Drop]** `HERB: Human-augmented Efficient Reinforcement learning for Bin-packing`: Rank dropped by -1
+- **[Rank Drop]** `Benign Overfitting with Quantum Kernels`: Rank dropped by -1
+- **[Rank Drop]** `Classification of Financial Data Using Quantum Support Vector Machine`: Rank dropped by -1
+- **[Rank Drop]** `MLLM-LLaVA-FL: Multimodal Large Language Model Assisted Federated Learning`: Rank dropped by -1
+- **[Rank Drop]** `Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches`: Rank dropped by -1
+- **[Rank Drop]** `Label Hierarchy Transition: Delving into Class Hierarchies to Enhance Deep Classifiers`: Rank dropped by -1
+- **[Rank Drop]** `Learning the Supports for Categorical Critic in Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `PHOENIX: Resilient LLM Training with Hot-Swapping via Zero-Overhead Checkpoint`: Rank dropped by -1
+- **[Rank Drop]** `Token Geometry`: Rank dropped by -1
+- **[Rank Drop]** `When Prices Double in a Week: Forecasting of Agricultural Volatility in Import-Isolated Markets`: Rank dropped by -1
+- **[Rank Drop]** `Active Quantum Kernel Acquisition for Gaussian Process Regression`: Rank dropped by -1
+- **[Rank Drop]** `Reproducibility Study of "AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models"`: Rank dropped by -1
+- **[Rank Drop]** `On the Redundancy of Timestep Embeddings in Diffusion Models`: Rank dropped by -1
+- **[Rank Drop]** `Gaussian Process Latent Factor Regression for Low-Data, High-Dimensional Output Problems`: Rank dropped by -1
+- **[Rank Drop]** `BigMac: Breaking the Pareto Frontier of Compute and Memory in Multimodal LLM Training`: Rank dropped by -1
+- **[Rank Drop]** `Streaming Reinforcement Learning under Partial Observability with Real-Time Recurrent Learning`: Rank dropped by -1
+- **[Rank Drop]** `MambaGaze: Bidirectional Mamba with Explicit Missing Data Modeling for Cognitive Load Assessment from Eye-Gaze Tracking Data`: Rank dropped by -1
+- **[Rank Drop]** `PerCaM-Health: Personalized Dynamic Causal Graphs for Healthcare Reasoning`: Rank dropped by -1
+- **[Rank Drop]** `Joint Energy Management and Coordinated AIGC Workload Scheduling for Distributed Data Centers: A Diffusion-Aided Reward Shaping Approach`: Rank dropped by -1
+- **[Rank Drop]** `Fine-Tuning Regimes Define Distinct Continual Learning Problems`: Rank dropped by -1
+- **[Rank Drop]** `Channel-wise Retrieval for Multivariate Time Series Forecasting`: Rank dropped by -1
+- **[Rank Drop]** `Policy Improvement Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `Leech Lattice Vector Quantization for Efficient LLM Compression`: Rank dropped by -1
+- **[Rank Drop]** `Improving TabPFN's Synthetic Data Generation by Integrating Causal Structure`: Rank dropped by -1
+- **[Rank Drop]** `Transformers converge to invariant algorithmic cores`: Rank dropped by -1
+- **[Rank Drop]** `Universal Algorithm-Implicit Learning`: Rank dropped by -1
+- **[Rank Drop]** `BitLogic: Training Framework for Gradient-Based FPGA-Native Neural Networks`: Rank dropped by -1
+- **[Rank Drop]** `StepShield: When, Not Whether to Intervene on Rogue Agents`: Rank dropped by -1
+- **[Rank Drop]** `TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning`: Rank dropped by -1
+- **[Rank Drop]** `GraphAllocBench: A Flexible Benchmark for Preference-Conditioned Multi-Objective Policy Learning`: Rank dropped by -1
+- **[Rank Drop]** `A Constrained Optimization Perspective of Unrolled Transformers`: Rank dropped by -1
+- **[Rank Drop]** `Factorizable joint shift revisited`: Rank dropped by -1
+- **[Rank Drop]** `Geometric Stability: The Missing Axis of Representations`: Rank dropped by -1
+- **[Rank Drop]** `FlexAct: Why Learn when you can Pick?`: Rank dropped by -1
+- **[Rank Drop]** `SGD-Based Knowledge Distillation with Bayesian Teachers: Theory and Guidelines`: Rank dropped by -1
+- **[Rank Drop]** `KernelEvolve: Scaling Agentic Kernel Coding for Heterogeneous AI Accelerators at Meta`: Rank dropped by -1
+- **[Rank Drop]** `PGOT: A Physics-Geometry Operator Transformer for Complex PDEs`: Rank dropped by -1
+- **[Rank Drop]** `Adaptive digital twins for predictive decision-making: Online Bayesian learning of transition dynamics`: Rank dropped by -1
+- **[Rank Drop]** `Deep Reinforcement Learning for Dynamic Origin-Destination Matrix Estimation in Microscopic Traffic Simulations Considering Credit Assignment`: Rank dropped by -1
+- **[Rank Drop]** `LLM4Delay: Flight Delay Prediction via Cross-Modality Adaptation of Large Language Models and Aircraft Trajectory Representation`: Rank dropped by -1
+- **[Rank Drop]** `SmartMixed: A Two-Phase Training Strategy for Adaptive Activation Function Learning in Neural Networks`: Rank dropped by -1
+- **[Rank Drop]** `Solver-Integrated Adversarial Attacking and Training of Neural Operators`: Rank dropped by -1
+- **[Rank Drop]** `AtomBench: A Benchmarking Framework for Generative Crystal Reconstruction Models in Conventional Superconductors`: Rank dropped by -1
+- **[Rank Drop]** `Medix: Out-of-Distribution Detection from Unlabeled Wild Data via Robust Gradient Statistics`: Rank dropped by -1
+- **[Rank Drop]** `How Can Mamba Learn In Context with Outliers and Generalize Provably?`: Rank dropped by -1
+- **[Rank Drop]** `FedDAF: Federated Domain Adaptation Using Model Functional Distance`: Rank dropped by -1
+- **[Rank Drop]** `Sparse but Wrong: Incorrect L0 Leads to Incorrect Features in Sparse Autoencoders`: Rank dropped by -1
+- **[Rank Drop]** `Imbalance-Robust and Sampling-Efficient Continuous Conditional GANs via Adaptive Vicinal Learning and Auxiliary Regularization`: Rank dropped by -1
+- **[Rank Drop]** `Variational Learning of Disentangled Representations`: Rank dropped by -1
+- **[Rank Drop]** `Learning The Minimum Action Distance`: Rank dropped by -1
+- **[Rank Drop]** `Temporal Variational Implicit Neural Representations`: Rank dropped by -1
+- **[Rank Drop]** `Explainable embeddings with Distance Explainer`: Rank dropped by -1
+- **[Rank Drop]** `Regularity and Stability Properties of Selective SSMs with Discontinuous Gating`: Rank dropped by -1
+- **[Rank Drop]** `MAME: Multidimensional Adaptive Metamer Exploration with Human Perceptual Feedback`: Rank dropped by -1
+- **[Rank Drop]** `Supervised Reward Inference`: Rank dropped by -1
+- **[Rank Drop]** `The relationship between reasoning and performance in large language models--o3 (mini) thinks harder, not longer`: Rank dropped by -1
+- **[Rank Drop]** `Universality of Benign Overfitting in Binary Linear Classification`: Rank dropped by -1
+- **[Rank Drop]** `Trust-free Personalized Decentralized Learning`: Rank dropped by -1
+- **[Rank Drop]** `A Functional-Space Mean-Field Theory of Partially-Trained Three-Layer Neural Networks`: Rank dropped by -1
+- **[Rank Drop]** `ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation`: Rank dropped by -1
+- **[Rank Drop]** `The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology`: Rank dropped by -1
+- **[Rank Drop]** `Pitwall: Faithful Natural-Language Race-Strategy Briefings from a Calibrated Real-Time Monte Carlo Engine`: Rank dropped by -1
+- **[Rank Drop]** `Assessing the Operational Impact of Poisoning Attacks over Augmented 3D Point Cloud Public Datasets for Connected and Autonomous Vehicles`: Rank dropped by -1
+- **[Rank Drop]** `Provable learning separation for predicting time-evolution of quantum many-body systems`: Rank dropped by -1
+- **[Rank Drop]** `What Images Cannot Say: Language-Guided Olfactory Representation Learning`: Rank dropped by -1
+- **[Rank Drop]** `Learning to Throw Objects Safely in Multi-Obstacle Environments`: Rank dropped by -1
+- **[Rank Drop]** `A Function-Space Dichotomy for Compositional Learning: Exponential Sub-Optimality of the Neural Tangent Kernel`: Rank dropped by -1
+- **[Rank Drop]** `Training-Free Acceleration for Vision-Language-Action Models with Action Caching and Refinement`: Rank dropped by -1
+- **[Rank Drop]** `Dithered Gaussian Mechanism for Randomness-Efficient Differential Privacy`: Rank dropped by -1
+- **[Rank Drop]** `Kernel-based Operator Learning: Error Analysis, Budget Allocation, and a Physics-Informed Extension`: Rank dropped by -1
+- **[Rank Drop]** `A Convex Approximation Framework for Neural Likelihood-Based Bayesian Inverse Problems`: Rank dropped by -1
+- **[Rank Drop]** `Entanglement as a Structural Complexity Axis: A PAC-Bayesian View of Generalization in Quantum Policies and Value Functions`: Rank dropped by -1
+- **[Rank Drop]** `TriA Pipeline: A Large-Scale Automatic Audio Annotation Pipeline For Audio Classification In Specific Scenarios`: Rank dropped by -1
+- **[Rank Drop]** `Improving LLM-Generated Process Model Quality Through Reinforcement Learning: The Role of Reward Function Design`: Rank dropped by -1
+- **[Rank Drop]** `Enhanced Seam Segmentation for Automated Welding Robot in Construction Through Transfer Learning: Addressing Limitations of Bilateral Segmentation Network`: Rank dropped by -1
+- **[Rank Drop]** `Static Metrics Are Insufficient: Predicting Java Method Energy Usage with Execution Time`: Rank dropped by -1
+- **[Rank Drop]** `6G Sensing Security: Distributed Game-Theoretic RL for Urban Beamforming and Attacker Detection`: Rank dropped by -1
+- **[Rank Drop]** `Determinantal point process sampling for bioacoustic active learning`: Rank dropped by -1
+- **[Rank Drop]** `Separation Capacity of Scattering Networks on Low-Dimensional Datasets`: Rank dropped by -1
+- **[Rank Drop]** `REAN: Reconstruction-aware ECG Anonymization Based on Privacy--Utility Orthogonality`: Rank dropped by -1
+- **[Rank Drop]** `Multi-Channel Spread-Spectrum Code Watermarking`: Rank dropped by -1
+- **[Rank Drop]** `Discovering Frequent Closed Embedded Sub-DAGs in Spatio-Temporal Event Data`: Rank dropped by -1
+- **[Rank Drop]** `Is Domain Adaptation Always Helpful? A Frozen-Backbone Study of Cross-Domain Sentiment Transfer`: Rank dropped by -1
+- **[Rank Drop]** `Mitigating Errors in LLM-Generated Web API Invocations via Retrieval-Augmented Generation and Constrained Decoding`: Rank dropped by -1
+- **[Rank Drop]** `Energy-Efficient GPU DVFS for Fine-Tuning of SLMs on Resource-constrained Embedded Devices`: Rank dropped by -1
+- **[Rank Drop]** `On the convergence of graph Laplacians with a symmetric divergence`: Rank dropped by -1
+- **[Rank Drop]** `Few-Medoids: An Embarrassingly Simple Coreset Selection Method for Few-Shot Knowledge Distillation`: Rank dropped by -1
+- **[Rank Drop]** `Mitigating Factual Hallucination in Large Reasoning Models via Mixed-Mode Advantage Regularization`: Rank dropped by -1
+- **[Rank Drop]** `On the Condition Number Upper Bound of the L-BFGS Inverse Hessian Approximation Matrix with a Two-Sided Geometric Envelope Safeguarding Mechanism`: Rank dropped by -1
+- **[Rank Drop]** `Latency-Constrained Hardware-Aware Quantum Error Correction Co-Design with Adaptive Confidence-Gated Neural Decoding for the Rotated Surface Code`: Rank dropped by -1
+- **[Rank Drop]** `Contextual Procurement Auctions with Bandit Learning`: Rank dropped by -1
+- **[Rank Drop]** `Onnes: A Physics-Grounded Multi-Agent LLM Simulator for Cryogenic Fault Diagnosis in Quantum Computing Infrastructure`: Rank dropped by -1
+- **[Rank Drop]** `Boosting with List-Decodable Codes`: Rank dropped by -1
+- **[Rank Drop]** `From Closed-Loop Optimization to Open Decision Making: Coupled Digital Twins for Predictive and Autonomous Microscopy`: Rank dropped by -1
+- **[Rank Drop]** `Width-Robust Learnability in Mean-Field Bayesian Neural Networks`: Rank dropped by -1
+- **[Rank Drop]** `Association Restoration Test: Revealing Restorable Shortcuts after Unlearning`: Rank dropped by -1
+- **[Rank Drop]** `IMR: Iterative Mode-World Weighted Regression for Multi-Agent Trajectory Prediction`: Rank dropped by -1
+- **[Rank Drop]** `Beyond Heuristic Tuning: Power-Calibrated LLM Watermarking`: Rank dropped by -1
+- **[Rank Drop]** `Where to cut, how deep: BPE and Unigram-LM on chemistry SMILES`: Rank dropped by -1
+- **[Rank Drop]** `Uncertainty-Aware Velocity Correction for Proprioceptive Vehicle Localization using Evidential Mamba`: Rank dropped by -1
+- **[Rank Drop]** `Physics-Regularized Machine Learning for Proprioceptive Vehicle Localization Using Onboard Sensors`: Rank dropped by -1
+- **[Rank Drop]** `Integrating GNSS-Derived Zenith Wet Delay into a Weather Foundation Model Improves Precipitation Forecasting`: Rank dropped by -1
+- **[Rank Drop]** `REVIVE: A Multi-Modal Framework for Vandalism Detection and Recovery in Autonomous Vehicles`: Rank dropped by -1
+- **[Rank Drop]** `Taxlifier: Leveraging Disease Taxonomy for Enhanced Multi-Label Classification in Chest Radiography`: Rank dropped by -1
+- **[Rank Drop]** `To Retain or to Adapt? Generalizing Continual Learning`: Rank dropped by -1
+- **[Rank Drop]** `DBNN: Neural Spike Classification Using a Deep Binarized Neural Network`: Rank dropped by -1
+- **[Rank Drop]** `Hierarchical Classification via Cascading Feature Elimination: Application to Human Phenotype Ontology-Aligned Facial Phenotyping (FaceMesh2HPO)`: Rank dropped by -1
+- **[Rank Drop]** `Deep Neural Variation Spaces: A Unifying Perspective on Depth and Complexity`: Rank dropped by -1
+- **[Rank Drop]** `Higher-Order Certified Robustness for Regression`: Rank dropped by -1
+- **[Rank Drop]** `Statistical Adversaries: Natural Backdoor-like Features in Vision Datasets`: Rank dropped by -1
+- **[Rank Drop]** `Black Hole Black Boxes: Numerical Black Hole Metrics via AInstein Neural Networks`: Rank dropped by -1
+- **[Rank Drop]** `SHARC: SHAP-Based Interpretability in Machine Learning Risk Models for Regulatory Capital under ICAAP and CCAR`: Rank dropped by -1
+- **[Rank Drop]** `Full-range Binary Classifier Calibration for Stable Model Updates in Production`: Rank dropped by -1
+- **[Rank Drop]** `A Task-Driven Evaluation of UAV Detection and Tracking under Synthetic Fog`: Rank dropped by -1
+- **[Rank Drop]** `Life Cycle Assessment of Pre-training the Lucie 7B Open-Source Large Language Model on the Jean Zay Supercomputer`: Rank dropped by -1
+- **[Rank Drop]** `Performance Optimization and Comparative Analysis of Generative AI Models on Advanced Accelerators`: Rank dropped by -1
+- **[Rank Drop]** `Broken Ergodicity and the Violation of the Fluctuation-Dissipation Theorem Lead to Generalization Beyond Overfitting in Machine Learning`: Rank dropped by -1
+- **[Rank Drop]** `Diffusion Language Model Parallel Decoding via Product-of-Experts Bridge`: Rank dropped by -1
+- **[Rank Drop]** `Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion`: Rank dropped by -1
+- **[Rank Drop]** `GraphBU: MILP Instance Generation with Graph-Native Block Units`: Rank dropped by -1
+- **[Rank Drop]** `EntroPath: Maximum Entropy Path Ensemble Embedding for Manifold Learning`: Rank dropped by -1
+- **[Rank Drop]** `TILDE: TILt-based Distributional Erasure for Concept Unlearning`: Rank dropped by -1
+- **[Rank Drop]** `Physics-Informed Neural Embeddings of PDE Solution Families`: Rank dropped by -1
+- **[Rank Drop]** `Quantitative Gaussian-Process limits of Tensor Programs`: Rank dropped by -1
+- **[Rank Drop]** `Canopy: A Heterograph Foundation Model for Metabolic Engineering`: Rank dropped by -1
+- **[Rank Drop]** `X-FEMR: A Token-level Explainable Approach for Electronic Health Records Foundation Models using Transformer-based Models`: Rank dropped by -1
+- **[Rank Drop]** `Leveraging Extragradient for Effective Sharpness-Aware Minimization in Deep Learning`: Rank dropped by -1
+- **[Rank Drop]** `Self-Supervised Implicit CEST Reconstruction via Physics-Informed Lorentz Encoding`: Rank dropped by -1
+- **[Rank Drop]** `x-Prediction Is All You Need:Training-Free Accelerated Generation via Endpoint Decodability`: Rank dropped by -1
+- **[Rank Drop]** `Modeling Normal Is All You Need: Joint Latent Clustering for Anomaly Detection in Multimodal Cyber-Physical Systems`: Rank dropped by -1
+- **[Rank Drop]** `Scalable Perturbation Learning for Online Self-Supervised Echo State Networks`: Rank dropped by -1
+- **[Rank Drop]** `SplineNet: An Isogeometric Deep Learning Method for Complex Shells`: Rank dropped by -1
+- **[Rank Drop]** `Learning When to Automate: Queue Control in Human-AI Service Systems`: Rank dropped by -1
+- **[Rank Drop]** `Stability Annealing Selects the Implicit Bias of Smoothed Sign Descent: A Rate-Indexed Barrier Path on Separable Data`: Rank dropped by -1
+- **[Rank Drop]** `Learning Sparsest Linear Causal DAGs with Latent Confounders via Higher-Order Cumulants`: Rank dropped by -1
+- **[Rank Drop]** `Drift Happens: An Empirical Study of Neural Architecture Robustness to Temporal Distribution Shift`: Rank dropped by -1
+- **[Rank Drop]** `More Convincing, Not More Correct: Self-Play Reward Hacking of Reference-Free LLM Judges`: Rank dropped by -1
+- **[Rank Drop]** `K-ABENA: K-Adaptive Backpropagation with Error-based N-exclusion Algorithm : (Compensated Loss-Based Sample Exclusion with Unbiased Gradient Estimation)`: Rank dropped by -1
+- **[Rank Drop]** `Auditing of Unlearning Algorithms`: Rank dropped by -1
+- **[Rank Drop]** `No Subspace to Track: Non-Identifiability and Optimizer State in Low-Rank Training`: Rank dropped by -1
+- **[Rank Drop]** `Differentially Private Natural Gradient Descent`: Rank dropped by -1
+- **[Rank Drop]** `Strategic Bargaining in Multi-Buyer Markets: Reinforcement Learning from Verifiable Rewards for LLM Negotiations`: Rank dropped by -1
+- **[Rank Drop]** `Unsupervised Anomaly Detection of Information Operations Users via Behavioral and Language Patterns`: Rank dropped by -1
+- **[Rank Drop]** `AbICL: In-Context Learning for Antigen-Specific Antibody Affinity Ranking`: Rank dropped by -1
+- **[Rank Drop]** `Decision-Focused Scenario Generation and Selection for Efficient and Robust Grid Dispatch`: Rank dropped by -1
+- **[Rank Drop]** `Level-Crossing Density as a Mesh-Free High-Frequency Auxiliary Loss for Implicit Neural Representations`: Rank dropped by -1
+- **[Rank Drop]** `Heckman-Corrected Epistemic Uncertainty: Selection on Unobservables Defeats Importance Weighting`: Rank dropped by -1
+- **[Rank Drop]** `Two Sides of the Same Coin: Learning the Backdoor to Remove the Backdoor`: Rank dropped by -1
+- **[Rank Drop]** `Multimodal Molecular Representation Learning with Graph Neural Networks, Deep & Cross Networks, and SMILES Embeddings`: Rank dropped by -1
+- **[Rank Drop]** `Low-Overhead Error-Corrected QCNNs Using Bivariate Bicycle Codes`: Rank dropped by -1
+- **[Rank Drop]** `FourTune: Towards Fully 4-Bit Efficient Post-Training for Diffusion Models`: Rank dropped by -1
+- **[Rank Drop]** `LLM-Driven Neural Network Generation with Same-Family Architecture Guidance: Disentangling Transfer and Adaptation`: Rank dropped by -1
+- **[Rank Drop]** `Deep Reinforcement Learning for Dynamic Battery Management of Autonomous Order Pickers`: Rank dropped by -1
+- **[Rank Drop]** `Orthogonal Dendritic Intrinsic Networks: An Architecture for Significance-Ordered, Orthogonal Latent Spaces`: Rank dropped by -1
+- **[Rank Drop]** `Domain-Adaptive Climate Downscaling Under Temporal Distribution Shift`: Rank dropped by -1
+- **[Rank Drop]** `Intuitionistic Fuzzy Graph Embedded Random Vector Functional Link with Multiview Learning`: Rank dropped by -1
+- **[Rank Drop]** `Safe Bayesian Optimization with Counterfactual Policies`: Rank dropped by -1
+- **[Rank Drop]** `A Coin Flip Per Token: Bernoulli Sparse Steering of Large Language Models`: Rank dropped by -1
+- **[Rank Drop]** `SafeImpute: Reliable Clinical Data Imputation via Conformal Selection`: Rank dropped by -1
+- **[Rank Drop]** `EquiFiLM: Charge-Conditioned Equivariant Force Fields via Feature-wise Linear Modulation`: Rank dropped by -1
+- **[Rank Drop]** `Federated Physics-Grounded Reinforcement Learning for Distributed Stability Control in Smart Grids`: Rank dropped by -1
+- **[Rank Drop]** `Self-Review Reinforcement Learning (SRRL) with Cross-Episode Memory and Policy Distillation`: Rank dropped by -1
+- **[Rank Drop]** `$\mathbf{\lambda}$-VAE: Variance Equalization for Posterior Collapse`: Rank dropped by -1
+- **[Rank Drop]** `PatchOptic for Shared-State LLM Workflows with Projected Views and Verified Structured Updates`: Rank dropped by -1
+- **[Rank Drop]** `InvWeaver: Deductive Feedback for Invariant Synthesis in Interacting-Loop Programs`: Rank dropped by -1
+- **[Rank Drop]** `Parameter-Free Encoders Remain Viable for RDB Foundation Models`: Rank dropped by -1
+- **[Rank Drop]** `Breaking Structural Isolation: Scalable Graph Clustering via Community-Aware Sampling and Structural Entropy`: Rank dropped by -1
+- **[Rank Drop]** `Learnable Weighting of Intra-Attribute Distances for Categorical Data Clustering with Nominal and Ordinal Attributes`: Rank dropped by -1
+- **[Rank Drop]** `AdaStop: Cost-Aware Early Stopping for DNN Test Selection`: Rank dropped by -1
+- **[Rank Drop]** `Learning to Control LLM Agent Harnesses with Offline Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `Empirical Minimal-Realisation Compression of Deep Neural Networks via Controllability-Observability Tests`: Rank dropped by -1
+- **[Rank Drop]** `Exogenous Dropout: A Simple, Strong Baseline for Corruption-Robust Time Series Forecasting with Covariates`: Rank dropped by -1
+- **[Rank Drop]** `The Granularity Paradox: How Temporal Disaggregation Inflates In-Sample Fit and Compounds Out-of-Sample Error`: Rank dropped by -1
+- **[Rank Drop]** `Geometry-Aware Infrastructure-Anchored Denoiser for UWB Sensing and Work-Zone Reconstruction`: Rank dropped by -1
+- **[Rank Drop]** `Design-CP: Context Parallelism for Design of Protein Nanoparticles`: Rank dropped by -1
+- **[Rank Drop]** `Statistically Meaningful Geometry and Gauge Symmetry Breaking: A Geometric Foundation for Scientific Discovery and Intelligence Emergence`: Rank dropped by -1
+- **[Rank Drop]** `pandoc: Conversion between markup formats`: Rank dropped by -1
+- **[Rank Drop]** `Typst: The new foundation for documents`: Rank dropped by -1
+- **[Rank Drop]** `Daring Fireball: Markdown`: Rank dropped by -1
+- **[Rank Drop]** `New and Updated Solutions | Eclipse Plugins, Bundles and Products - Eclipse Marketplace | Eclipse Foundation`: Rank dropped by -1
+- **[Rank Drop]** `Eclipse Projects / AsciiDoc Language / AsciiDoc Language · GitLab`: Rank dropped by -1
+- **[Rank Drop]** `AsciiDoc Language Documentation | Asciidoctor Docs`: Rank dropped by -1
+- **[Rank Drop]** `Free book: Essential GraphRAG from Manning Publications - Neo4j`: Rank dropped by -1
+- **[Rank Drop]** `Binaries · openssl/openssl Wiki · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `azure-ai-docs/articles/search/index.yml at main · MicrosoftDocs/azure-ai-docs · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `Google DeepMind`: Rank dropped by -1
+- **[Rank Drop]** `Azure/azure-search-vector-samples`: Rank dropped by -1
+- **[Rank Drop]** `Google DeepMind · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `Azure AI Search documentation - Azure AI Search | Microsoft Learn`: Rank dropped by -1
+- **[Rank Drop]** `Quickstart: Vector Search - Azure AI Search | Microsoft Learn`: Rank dropped by -1
+- **[Rank Drop]** `martiansideofthemoon/rankgen`: Rank dropped by -1
+- **[Rank Drop]** `Pandoc - index`: Rank dropped by -1
+- **[Rank Drop]** `AsciiDoc`: Rank dropped by -1
+- **[Rank Drop]** `CopyrightWebToCase`: Rank dropped by -1
+- **[Rank Drop]** `Section 1201 - 2010 | U.S. Copyright Office`: Rank dropped by -1
+- **[Rank Drop]** `Veo 3.1 â Google DeepMind`: Rank dropped by -1
+- **[Rank Drop]** `[2112.07916] LongT5: Efficient Text-To-Text Transformer for Long Sequences`: Rank dropped by -1
+- **[Rank Drop]** `[2002.05202] GLU Variants Improve Transformer`: Rank dropped by -1
+- **[Rank Drop]** `azure-search-javascript-samples/quickstart-vector-ts at main · Azure-Samples/azure-search-javascript-samples · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `supabase/examples/ai at master · supabase/supabase · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `[2205.09726] RankGen: Improving Text Generation with Large Ranking Models`: Rank dropped by -1
+- **[Rank Drop]** `GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `Install WSL | Microsoft Learn`: Rank dropped by -1
+- **[Rank Drop]** `AI & Vectors | Supabase Docs`: Rank dropped by -1
+- **[Rank Drop]** `google-research/t5x`: Rank dropped by -1
+- **[Rank Drop]** `zilliztech/deep-searcher`: Rank dropped by -1
+- **[Rank Drop]** `milvus-io/milvus-lite`: Rank dropped by -1
+- **[Rank Drop]** `Google Colab`: Rank dropped by -1
+- **[Rank Drop]** `zilliztech/milvus-skill`: Rank dropped by -1
+- **[Rank Drop]** `Build RAG with Milvus | Milvus Documentation`: Rank dropped by -1
+- **[Rank Drop]** `Quickstart | Milvus Documentation`: Rank dropped by -1
+- **[Rank Drop]** `From Hugging Face to Amazon SageMaker Studio in one click`: Rank dropped by -1
+- **[Rank Drop]** `OpenTelemetry`: Rank dropped by -1
+- **[Rank Drop]** `rpm-software-management/dnf`: Rank dropped by -1
+- **[Rank Drop]** `DNF Command Reference — DNF @DNF_VERSION@-1 documentation`: Rank dropped by -1
+- **[Rank Drop]** `RFC 3339 - Date and Time on the Internet: Timestamps`: Rank dropped by -1
+- **[Rank Drop]** `Cloud SDK - Libraries and Command Line Tools | Google Cloud`: Rank dropped by -1
+- **[Rank Drop]** `Quickstart: Install the Google Cloud CLI | Google Cloud SDK | Google Cloud Documentation`: Rank dropped by -1
+- **[Rank Drop]** `Create a Google Cloud project | Google Workspace | Google for Developers`: Rank dropped by -1
+- **[Rank Drop]** `JSON functions | BigQuery | Google Cloud Documentation`: Rank dropped by -1
+- **[Rank Drop]** `firebase/extensions`: Rank dropped by -1
+- **[Rank Drop]** `Introduction to materialized views | BigQuery | Google Cloud Documentation`: Rank dropped by -1
+- **[Rank Drop]** `Create and manage databases | Firestore in Native mode | Google Cloud Documentation`: Rank dropped by -1
+- **[Rank Drop]** `generative-ai/setup-env at main · GoogleCloudPlatform/generative-ai · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `Firestore Vector Store | Developer Documentation`: Rank dropped by -1
+- **[Rank Drop]** `Algolia documentation | Search API guides, SDK and developer docs - Algolia`: Rank dropped by -1
+- **[Rank Drop]** `Algolia Academy`: Rank dropped by -1
+- **[Rank Drop]** `Algolia`: Rank dropped by -1
+- **[Rank Drop]** `API keys - Algolia`: Rank dropped by -1
+- **[Rank Drop]** `Firestore | Google Cloud`: Rank dropped by -1
+- **[Rank Drop]** `Firestore | Firebase`: Rank dropped by -1
+- **[Rank Drop]** `googleapis/nodejs-firestore`: Rank dropped by -1
+- **[Rank Drop]** `Home - Documentation`: Rank dropped by -1
+- **[Rank Drop]** `firestore package - cloud.google.com/go/firestore - Go Packages`: Rank dropped by -1
+- **[Rank Drop]** `Get started with Firestore Standard edition | Firebase`: Rank dropped by -1
+- **[Rank Drop]** `Stream Firestore to BigQuery | Firebase Extensions Hub`: Rank dropped by -1
+- **[Rank Drop]** `GitHub - algolia/firestore-algolia-search at 6af4b6de9301f25718743af54105d37ebd0606f1 · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `Cloud Firestore Data model | Firebase`: Rank dropped by -1
+- **[Rank Drop]** `Search Firestore with Algolia | Firebase Extensions Hub`: Rank dropped by -1
+- **[Rank Drop]** `EFF's Copyright Policy | Electronic Frontier Foundation`: Rank dropped by -1
+- **[Rank Drop]** `Who Has Your Back? Censorship Edition 2019 | Electronic Frontier Foundation`: Rank dropped by -1
+- **[Rank Drop]** `The Shift from Models to Compound AI Systems – The Berkeley Artificial Intelligence Research Blog`: Rank dropped by -1
+- **[Rank Drop]** `Introducing TXYZ: The AI Platform Revolutionizing PDF Reading and Writing for Academic - The Globe and Mail`: Rank dropped by -1
+- **[Rank Drop]** `🧑‍🍳 Cookbook | Haystack`: Rank dropped by -1
+- **[Rank Drop]** `Software for Complex Networks — NetworkX 3.7rc0.dev0 documentation`: Rank dropped by -1
+- **[Rank Drop]** `What's Haystack Enterprise Platform? | Haystack Enterprise Platform Documentation`: Rank dropped by -1
+- **[Rank Drop]** `Neo4j Graph Intelligence Platform`: Rank dropped by -1
+- **[Rank Drop]** `medium-policy/Rules.md at master · Medium/medium-policy · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `FTC's Endorsement Guides: What People Are Asking | Federal Trade Commission`: Rank dropped by -1
+- **[Rank Drop]** `The Santa Clara Principles on Transparency and Accountability in Content Moderation`: Rank dropped by -1
+- **[Rank Drop]** `Medium | Official Merchandise | Bonfire`: Rank dropped by -1
+- **[Rank Drop]** `DSPy on Databricks | Databricks Blog`: Rank dropped by -1
+- **[Rank Drop]** `How we optimized Dash's relevance judge with DSPy - Dropbox`: Rank dropped by -1
+- **[Rank Drop]** `TXYZ - Integrate all paths to knowledge`: Rank dropped by -1
+- **[Rank Drop]** `LangGraph overview - Docs by LangChain`: Rank dropped by -1
+- **[Rank Drop]** `DSPy`: Rank dropped by -1
+- **[Rank Drop]** `Redirecting to LangGraph Documentation`: Rank dropped by -1
+- **[Rank Drop]** `Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot`: Rank dropped by -1
+- **[Rank Drop]** `Differential protection against SARS-CoV-2 reinfection pre- and post-Omicron | Nature`: Rank dropped by -1
+- **[Rank Drop]** `Exoplanets - NASA Science`: Rank dropped by -1
+- **[Rank Drop]** `NASA’s Webb Studies How Planet Survived Death of its Star - NASA Science`: Rank dropped by -1
+- **[Rank Drop]** `NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision - NASA Science`: Rank dropped by -1
+- **[Rank Drop]** `Commercial UAV News`: Rank dropped by -1
+- **[Rank Drop]** `Webinars | Commercial UAV News`: Rank dropped by -1
+- **[Rank Drop]** `Cornell Students Aid NASA with Drone Safety in Sky - NASA`: Rank dropped by -1
+- **[Rank Drop]** `Geo Week – A Year of Geospatial Business in Just One Week`: Rank dropped by -1
+- **[Rank Drop]** `GEO Week News | Lidar, AEC, 3D Technology & Geospatial Insights`: Rank dropped by -1
+- **[Rank Drop]** `Commercial UAV Expo | Drone Conference & Trade Show`: Rank dropped by -1
+- **[Rank Drop]** `UAV Reports | Commercial UAV News`: Rank dropped by -1
+- **[Rank Drop]** `Orion-Real-Time Validation Infrastructure | Commercial UAV Expo`: Rank dropped by -1
+- **[Rank Drop]** `Project Orion | Real-Time Infrastructure for Autonomous Cooperative Airspace`: Rank dropped by -1
+- **[Rank Drop]** `How SARS-CoV-2 evolved through the pandemic | Cornell Chronicle`: Rank dropped by -1
+- **[Rank Drop]** `Kyle Kimball | University Relations | Cornell University`: Rank dropped by -1
+- **[Rank Drop]** `Cornell University`: Rank dropped by -1
+- **[Rank Drop]** `Smart drones, safe skies: Student’s system tests, coordinates drone fleets | Cornell Chronicle`: Rank dropped by -1
+- **[Rank Drop]** `Research Impact | Cornell Chronicle`: Rank dropped by -1
+- **[Rank Drop]** `Publications & Data - Cornell Research & Innovation`: Rank dropped by -1
+- **[Rank Drop]** `GitHub Flavored Markdown Spec`: Rank dropped by -1
+- **[Rank Drop]** `Overview of Parse | Developer Documentation`: Rank dropped by -1
+- **[Rank Drop]** `Getting Started | Developer Documentation`: Rank dropped by -1
+- **[Rank Drop]** `JAMS Pathways - YouTube`: Rank dropped by -1
+- **[Rank Drop]** `CORE · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `Sign in to GitHub · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `CORE Recommender`: Rank dropped by -1
+- **[Rank Drop]** `HKUDS/RAG-Anything`: Rank dropped by -1
+- **[Rank Drop]** `Hugging Face Models on Foundry Managed Compute`: Rank dropped by -1
+- **[Rank Drop]** `Installation — MPI for Python 4.1.2 documentation`: Rank dropped by -1
+- **[Rank Drop]** `voila-dashboards/voila`: Rank dropped by -1
+- **[Rank Drop]** `The PyData Sphinx Theme — PyData Theme 0.19.0 documentation`: Rank dropped by -1
+- **[Rank Drop]** `python/cpython`: Rank dropped by -1
+- **[Rank Drop]** `Packaging Python Projects - Python Packaging User Guide`: Rank dropped by -1
+- **[Rank Drop]** `Get Started | DataCamp`: Rank dropped by -1
+- **[Rank Drop]** `Home - RDocumentation`: Rank dropped by -1
+- **[Rank Drop]** `Cloudflare's Privacy Policy | Cloudflare`: Rank dropped by -1
+- **[Rank Drop]** `Careers at Cloudflare â Open Positions | Cloudflare`: Rank dropped by -1
+- **[Rank Drop]** `Self-Serve Subscription Agreement | Cloudflare`: Rank dropped by -1
+- **[Rank Drop]** `GitHub Terms of Service - GitHub Docs`: Rank dropped by -1
+- **[Rank Drop]** `About building integrations - GitHub Docs`: Rank dropped by -1
+- **[Rank Drop]** `- YouTube`: Rank dropped by -1
+- **[Rank Drop]** `Home · nltk/nltk Wiki · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `Discovered Web Resource`: Rank dropped by -1
+- **[Rank Drop]** `Using IPython for parallel computing — ipyparallel 9.2.1.dev documentation`: Rank dropped by -1
+- **[Rank Drop]** `Table of contents — voila 0.5.8 documentation`: Rank dropped by -1
+- **[Rank Drop]** `Run Milvus Lite Locally | Milvus Documentation`: Rank dropped by -1
+- **[Rank Drop]** `Cloudflare Research`: Rank dropped by -1
+- **[Rank Drop]** `GitHub - pinecone-io/contextual-webinar-rag: Contextual RAG over webinar videos using Pinecone, Claude and AWS. · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `NLTK :: Natural Language Toolkit`: Rank dropped by -1
+- **[Rank Drop]** `bootcamp/tutorials/quickstart/apps/rag_search_with_milvus at master · milvus-io/bootcamp · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `Sign in to GitHub · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `pgvector/pgvector`: Rank dropped by -1
+- **[Rank Drop]** `Understanding Agent-Based Patching of Compiler Missed Optimizations`: Rank dropped by -1
+- **[Rank Drop]** `GAP-GDRNet: Geometry-aware monocular 6D pose estimation for spacecraft using synthetic geometric supervision`: Rank dropped by -1
+- **[Rank Drop]** `Guided Action Flow: Q-Guided Inference for Flow-Matching Vision-Language-Action Policies`: Rank dropped by -1
+- **[Rank Drop]** `AI Virtue: What is "Good" Knowledge in the Age of Artificial Intelligence?`: Rank dropped by -1
+- **[Rank Drop]** `DiPS: Dialogue Policy Selection for High-Stakes Persuasion Agents`: Rank dropped by -1
+- **[Rank Drop]** `MultAttnAttrib: Training-Free Multimodal Attribution in Long Document Question Answering`: Rank dropped by -1
+- **[Rank Drop]** `TurnNat: Automatic Evaluation of Turn-Taking Naturalness in Dyadic Spoken Dialogue`: Rank dropped by -1
+- **[Rank Drop]** `KARA: Efficient Reasoning LLM Serving via Sliding-Window KV Cache Compression`: Rank dropped by -1
+- **[Rank Drop]** `Diffusion-GR2: Diffusion Generative Reasoning Re-ranker`: Rank dropped by -1
+- **[Rank Drop]** `Cheap Code, Costly Judgment: A Case Study on Governable Agentic Software Engineering`: Rank dropped by -1
+- **[Rank Drop]** `Learning Cardiac Motion Priors for Implicit Neural Representations`: Rank dropped by -1
+- **[Rank Drop]** `Post-Training Pruning for Diffusion Transformers`: Rank dropped by -1
+- **[Rank Drop]** `From World Models to World Action Models: A Concise Tutorial for Robotics`: Rank dropped by -1
+- **[Rank Drop]** `Pano2World: End-to-End 3D Generation via Unified Multi-View Sequences`: Rank dropped by -1
+- **[Rank Drop]** `Phantom References: Hallucinated Citations That Survive Peer Review at Top-Tier Conferences`: Rank dropped by -1
+- **[Rank Drop]** `Real-Time Hard Negative Sampling via LLM-based Clustering for Large-Scale Two-Tower Retrieval`: Rank dropped by -1
+- **[Rank Drop]** `Hate Speech Detection in Turkish and Arabic: A Comprehensive Study`: Rank dropped by -1
+- **[Rank Drop]** `Spectral Geometry and Bosonic-Bloch Probes: Explorations in Quantum Learning`: Rank dropped by -1
+- **[Rank Drop]** `GR2 Technical Report`: Rank dropped by -1
+- **[Rank Drop]** `WorldRoamBench: An Open-World Benchmark for Long-Horizon Stability of Interactive World Models`: Rank dropped by -1
+- **[Rank Drop]** `CVE-TTP KG: Knowledge Graph Linking Software Vulnerabilities to Attack Behaviors`: Rank dropped by -1
+- **[Rank Drop]** `From Materials Database to Materials Bank: Assetizing Data for AI Driven Materials Innovation`: Rank dropped by -1
+- **[Rank Drop]** `Modeling Cell-Cycle-Aware Single-Cell Drug Perturbation Responses`: Rank dropped by -1
+- **[Rank Drop]** `TRACE: Temporal Relationship-Aware Conversational Entrainment Detection in Dyadic Speech`: Rank dropped by -1
+- **[Rank Drop]** `A Deep Multiscale Neural Network for Accurate Neurological Disorder Detection from MRI Scans and Real-Time Web Deployment`: Rank dropped by -1
+- **[Rank Drop]** `Reward-Free Code Alignment from Pretrained or Fine-Tuned LLM: Unpacking the Trade-offs for Code Generation`: Rank dropped by -1
+- **[Rank Drop]** `The Unverifiability of Artificial General Intelligence (AGI) Alignment, Static and Dynamic: From Trakhtenbrot's Wall to the Safety-Generality Tension`: Rank dropped by -1
+- **[Rank Drop]** `Hybrid privacy-aware semantic search: SVD-truncated document geometry and CKKS-encrypted query reranking under a restricted threat model`: Rank dropped by -1
+- **[Rank Drop]** `VideoAgent: All-in-One Framework for Video Understanding and Editing`: Rank dropped by -1
+- **[Rank Drop]** `The Power of Light: Improving Synthetic-to-Real Domain Adaptation through Physically-Based Indirect Illumination`: Rank dropped by -1
+- **[Rank Drop]** `A Digital Twin Framework for Traffic-Aware UAV Pavement Monitoring in Open-Traffic Conditions`: Rank dropped by -1
+- **[Rank Drop]** `NRT-Bench: Benchmarking Multi-Turn Red-Teaming of LLM Operator Agents in Safety-Critical Control Rooms`: Rank dropped by -1
+- **[Rank Drop]** `ELVA: Exploring Ranking-Driven Universal Multimodal Retrieval`: Rank dropped by -1
+- **[Rank Drop]** `Triangular Consistency as a Universal Constraint for Learning Optical Flow`: Rank dropped by -1
+- **[Rank Drop]** `Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms`: Rank dropped by -1
+- **[Rank Drop]** `Evaluating Skill and Stability of ArchesWeather and ArchesWeatherGen under Multi-Decadal Climate Simulations`: Rank dropped by -1
+- **[Rank Drop]** `IndexMem: Learned KV-Cache Eviction with Latent Memory for Long-Context LLM Inference`: Rank dropped by -1
+- **[Rank Drop]** `Active Sensing with Meta-Reinforcement Learning for Emitter Localization from RF Observations`: Rank dropped by -1
+- **[Rank Drop]** `BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation`: Rank dropped by -1
+- **[Rank Drop]** `IRC-Bench: Recognizing Entities from Contextual Cues in First-Person Reminiscences`: Rank dropped by -1
+- **[Rank Drop]** `ARISE: A Repository-level Graph Representation and Toolset for Agentic Program Repair and Fault Localization`: Rank dropped by -1
+- **[Rank Drop]** `Shao: Scaling Acoustic Token Language Models Toward High-Fidelity Music Generation`: Rank dropped by -1
+- **[Rank Drop]** `Fitting Horn DL Ontologies to ABox and Query Examples: A Tale of Simulation Quantifiers and Finite Models`: Rank dropped by -1
+- **[Rank Drop]** `Seeing Is No Longer Believing: Frontier Image Generation Models, Synthetic Visual Evidence, and Real-World Risk`: Rank dropped by -1
+- **[Rank Drop]** `Query2Diagram: Answering Developer Queries with UML Diagrams`: Rank dropped by -1
+- **[Rank Drop]** `CorridorVLA: Explicit Spatial Constraints for Generative Action Heads via Sparse Anchors`: Rank dropped by -1
+- **[Rank Drop]** `StarTSE: Towards Streaming Target Speaker Extraction via Chunk-wise Interleaved Splicing of Autoregressive Language Model`: Rank dropped by -1
+- **[Rank Drop]** `The Rise of Verbal Tics in Large Language Models: A Systematic Analysis Across Frontier Models`: Rank dropped by -1
+- **[Rank Drop]** `Governed MCP: Kernel-Level Tool Governance for AI Agents via Logit-Based Safety Primitives`: Rank dropped by -1
+- **[Rank Drop]** `Don't Make Models Guess Security and Safety: Symbolic Guardrails for Domain-Specific AI Agents`: Rank dropped by -1
+- **[Rank Drop]** `CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas`: Rank dropped by -1
+- **[Rank Drop]** `SeaAlert: Robust Severity Classification and LLM-Based Information Extraction for Noisy Maritime Distress Communications`: Rank dropped by -1
+- **[Rank Drop]** `DF3DV-1K: A Large-Scale Dataset and Benchmark for Distractor-Free Novel View Synthesis`: Rank dropped by -1
+- **[Rank Drop]** `Council Mode: A Heterogeneous Multi-Agent Consensus Framework for Reducing LLM Hallucination and Bias`: Rank dropped by -1
+- **[Rank Drop]** `Streaming Model Cascades for Semantic SQL`: Rank dropped by -1
+- **[Rank Drop]** `Beyond Task Completion: A Verification-vs.-Conformance Gap in Tool-Evolving Agents`: Rank dropped by -1
+- **[Rank Drop]** `Reachability Across the NL/PL Boundary: A Taxonomy-Driven Dataflow Model for LLM-Integrated Applications`: Rank dropped by -1
+- **[Rank Drop]** `SutureFormer: Learning Surgical Trajectories via Goal-conditioned Offline RL in Pixel Space`: Rank dropped by -1
+- **[Rank Drop]** `MCLMR: A Model-Agnostic Causal Learning Framework for Multi-Behavior Recommendation`: Rank dropped by -1
+- **[Rank Drop]** `A Two-stage Transformer Framework for Temporal Localization of Distracted Driver Behaviors`: Rank dropped by -1
+- **[Rank Drop]** `Towards Reliable Local Security Agents: Verifiable Post-Training for Linux Privilege Escalation`: Rank dropped by -1
+- **[Rank Drop]** `CABTO: Context-Aware Behavior Tree Grounding for Robot Manipulation`: Rank dropped by -1
+- **[Rank Drop]** `Human-like Object Grouping in Self-supervised Vision Transformers`: Rank dropped by -1
+- **[Rank Drop]** `How Transformers Reject Wrong Answers: Rotational Dynamics of Factual Constraint Processing`: Rank dropped by -1
+- **[Rank Drop]** `LAW & ORDER: Adaptive Spatial Weighting for Medical Diffusion and Segmentation`: Rank dropped by -1
+- **[Rank Drop]** `Efficient Flow Matching for Sparse-View CT Reconstruction`: Rank dropped by -1
+- **[Rank Drop]** `SFL-Net: Source-Factorized Latent Representation Learning for Multi-Contrast MRI to Tau-PET Synthesis`: Rank dropped by -1
+- **[Rank Drop]** `Inelastic Constitutive Kolmogorov-Arnold Networks: A generalized framework for automated discovery of interpretable inelastic material models`: Rank dropped by -1
+- **[Rank Drop]** `NextCrystal: a Symmetry-Driven Generative Framework for Crystal Structure Prediction`: Rank dropped by -1
+- **[Rank Drop]** `pFedNavi: Structure-Aware Personalized Federated Vision-Language Navigation for Embodied AI`: Rank dropped by -1
+- **[Rank Drop]** `Implementing Grassroots Logic Programs with Multiagent Transition Systems and AI (Full Version)`: Rank dropped by -1
+- **[Rank Drop]** `SHINE: A Scalable In-Context Hypernetwork for Mapping Context to LoRA in a Single Pass`: Rank dropped by -1
+- **[Rank Drop]** `FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion`: Rank dropped by -1
+- **[Rank Drop]** `MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources`: Rank dropped by -1
+- **[Rank Drop]** `BoRP: Bootstrapped Regression Probing for Scalable and Human-Aligned LLM Evaluation`: Rank dropped by -1
+- **[Rank Drop]** `The Rise of Large Language Models and the Direction and Impact of US Federal Research Funding`: Rank dropped by -1
+- **[Rank Drop]** `No Reliable Evidence of Self-Reported Sentience in Small Large Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Predicting Biased Human Decision-Making with Large Language Models in Conversational Settings`: Rank dropped by -1
+- **[Rank Drop]** `One Prompt, Many Sounds: Modeling Listener Variability in LLM-Based Equalization`: Rank dropped by -1
+- **[Rank Drop]** `Generative Semantic Multi-Object Tracking: A Large-Scale Benchmark and an MLLM-Driven Reasoning Framework`: Rank dropped by -1
+- **[Rank Drop]** `Resource-constrained Project Scheduling with Time-of-Use Energy Tariffs and Machine States: A Logic-based Benders Decomposition Approach`: Rank dropped by -1
+- **[Rank Drop]** `AOI: Context-Aware Multi-Agent Operations via Dynamic Scheduling and Hierarchical Memory Compression`: Rank dropped by -1
+- **[Rank Drop]** `Developing an LLM-Based Feedback System Grounded in Evidence-Centered Design to Support Physics Problem Solving`: Rank dropped by -1
+- **[Rank Drop]** `Resilient by Design -- Active Inference for Distributed Continuum Intelligence`: Rank dropped by -1
+- **[Rank Drop]** `Large Language Models Develop Novel Social Biases Through Adaptive Exploration`: Rank dropped by -1
+- **[Rank Drop]** `Neurosymbolic Characterization for Reliable Access Control Policy Analysis`: Rank dropped by -1
+- **[Rank Drop]** `SoK: Systematizing LLM Prompt Security: Taxonomies, Datasets, and Unified Evaluation of Attacks and Defenses`: Rank dropped by -1
+- **[Rank Drop]** `TaoSR-AGRL: Adaptive Guided Reinforcement Learning Framework for E-commerce Search Relevance`: Rank dropped by -1
+- **[Rank Drop]** `Quadratic Programming Approach for Nash Equilibrium Computation in Multiplayer Imperfect-Information Games`: Rank dropped by -1
+- **[Rank Drop]** `VISOR++: Universal Visual Inputs based Steering for Large Vision Language Models`: Rank dropped by -1
+- **[Rank Drop]** `MAD-PINN: A Decentralized Physics-Informed Machine Learning Framework for Safe and Optimal Multi-Agent Control`: Rank dropped by -1
+- **[Rank Drop]** `OctoPipe: Reducing Pipeline Bubbles for Heterogeneous Models via Co-Optimizing Partitioning, Placement, and Scheduling`: Rank dropped by -1
+- **[Rank Drop]** `Polarity Detection of Sustainable Development Goals in News Text`: Rank dropped by -1
+- **[Rank Drop]** `Agentic Artificial Intelligence for Multistage Physics Experiments at a Large-Scale User Facility Particle Accelerator`: Rank dropped by -1
+- **[Rank Drop]** `Interpretable Nanoporous Materials Design with Symmetry-Aware Networks`: Rank dropped by -1
+- **[Rank Drop]** `Layout-Conditioned Autoregressive Text-to-Image Generation via Structured Masking`: Rank dropped by -1
+- **[Rank Drop]** `A Systematic Survey on Large Language Models for Evolutionary Optimization: From Modeling to Solving`: Rank dropped by -1
+- **[Rank Drop]** `EyeMulator: Improving Code Language Models by Mimicking Human Visual Attention`: Rank dropped by -1
+- **[Rank Drop]** `LLM-Assisted Semantic Alignment and Integration in Collaborative Model-Based Systems Engineering Using SysML v2`: Rank dropped by -1
+- **[Rank Drop]** `EGRA:Toward Enhanced Behavior Graphs and Representation Alignment for Multimodal Recommendation`: Rank dropped by -1
+- **[Rank Drop]** `Context Misleads LLMs: The Role of Context Filtering in Maintaining Safe Alignment of LLMs`: Rank dropped by -1
+- **[Rank Drop]** `Rational Inverse Reasoning: Few-Shot Imitation by Inferring Intent through Planning`: Rank dropped by -1
+- **[Rank Drop]** `VISOR: Visual Input-based Steering for Output Redirection in Vision-Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Algorithmic Shortlisting in Participatory Budgeting`: Rank dropped by -1
+- **[Rank Drop]** `Web-CogReasoner: Towards Multimodal Knowledge-Induced Cognitive Reasoning for Web Agents`: Rank dropped by -1
+- **[Rank Drop]** `Interaction Techniques that Encourage Longer Prompts Can Improve Psychological Ownership when Writing with AI`: Rank dropped by -1
+- **[Rank Drop]** `Structured Prompting and Automated Evaluation in Fixed Synthetic Japanese-Language Counseling Dialogues`: Rank dropped by -1
+- **[Rank Drop]** `ELBO-T2IAlign: A Generic ELBO-Based Method for Calibrating Pixel-level Text-Image Alignment in Diffusion Models`: Rank dropped by -1
+- **[Rank Drop]** `Leveraging Natural Language Processing to Unravel the Mystery of Life: A Review of NLP Approaches in Genomics, Transcriptomics, and Proteomics`: Rank dropped by -1
+- **[Rank Drop]** `Seven Security Challenges in Cross-domain Multi-agent LLM Systems`: Rank dropped by -1
+- **[Rank Drop]** `kAgent: An execution-guided crash resolution agent for the Linux kernel`: Rank dropped by -1
+- **[Rank Drop]** `Exploring Context-aware and LLM-driven Locomotion for Immersive Virtual Reality`: Rank dropped by -1
+- **[Rank Drop]** `MOSAIC: Skill-Centric Manipulation Planning with Physics Simulation`: Rank dropped by -1
+- **[Rank Drop]** `GenShin: Guiding Rational Liposome Design by Ranking Liposomal Protein Corona through a Docking-Pose-Free GNN`: Rank dropped by -1
+- **[Rank Drop]** `AgentDynEx: Nudging the Mechanics and Dynamics of Multi-Agent Simulations`: Rank dropped by -1
+- **[Rank Drop]** `Prima.cpp: Fast 30-70B LLM Inference on Heterogeneous and Low-Resource Home Clusters`: Rank dropped by -1
+- **[Rank Drop]** `Measuring the Robustness of Audio Deepfake Detection under Real-World Corruption`: Rank dropped by -1
+- **[Rank Drop]** `Empirical Computation: Prompting versus Programming`: Rank dropped by -1
+- **[Rank Drop]** `Evaluating LLM-Based Regression Test Generation`: Rank dropped by -1
+- **[Rank Drop]** `Code Benchmarks Should Prioritize Rigor, Reliability, and Reproducibility`: Rank dropped by -1
+- **[Rank Drop]** `Saving GPU Hours in LLM Inference System Development and Online Workloads with Simulation and DBMS-Inspired Cache Replacement Policies`: Rank dropped by -1
+- **[Rank Drop]** `Restricted Bernoulli Matrix Factorization: Balancing the trade-off between prediction accuracy and coverage in classification based collaborative filtering`: Rank dropped by -1
+- **[Rank Drop]** `Double Fuzzy Probabilistic Interval Linguistic Term Set and a Dynamic Fuzzy Decision Making Model based on Markov Process with tts Application in Multiple Criteria Group Decision Making`: Rank dropped by -1
+- **[Rank Drop]** `Querying and Repairing Inconsistent Prioritized Knowledge Bases: Complexity Analysis and Links with Abstract Argumentation`: Rank dropped by -1
+- **[Rank Drop]** `ContextNest: Verifiable Context Governance for Autonomous AI Agent`: Rank dropped by -1
+- **[Rank Drop]** `PACE: A Proxy for Agentic Capability Evaluation`: Rank dropped by -1
+- **[Rank Drop]** `ContextSniper: AntTrail's Token-Efficient Code Memory for Repository-Level Program Repair`: Rank dropped by -1
+- **[Rank Drop]** `Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification`: Rank dropped by -1
+- **[Rank Drop]** `Repair the Amplifier, Not the Symptom: Stable World-Model Correction for Agent Rollouts`: Rank dropped by -1
+- **[Rank Drop]** `Separating Expert Retention from Autonomous Source Inference in Raw-ECG-Replay-Free Continual ECG Deployment`: Rank dropped by -1
+- **[Rank Drop]** `Hawk: Harnessing Hardware-Aware Knowledge for High-Performance NPU Kernel Generation`: Rank dropped by -1
+- **[Rank Drop]** `Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases`: Rank dropped by -1
+- **[Rank Drop]** `Agentic generation of verifiable rules for deterministic, self-expanding reaction classification`: Rank dropped by -1
+- **[Rank Drop]** `PedNStream: Scalable Network Flow Simulation for Pedestrian Traffic Management`: Rank dropped by -1
+- **[Rank Drop]** `AI Native Games: A Survey and Roadmap`: Rank dropped by -1
+- **[Rank Drop]** `Mnemosyne: Agentic Transaction Processing for Validating and Repairing AI-generated Workflows`: Rank dropped by -1
+- **[Rank Drop]** `The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons`: Rank dropped by -1
+- **[Rank Drop]** `Ask the World Before Acting: Environment Probing for Calibrated Agent World Models`: Rank dropped by -1
+- **[Rank Drop]** `World-Model Collapse as a Phase Transition`: Rank dropped by -1
+- **[Rank Drop]** `A Three-Phase Foundation Model for Tax-Aware Personalized Portfolio Management`: Rank dropped by -1
+- **[Rank Drop]** `Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing`: Rank dropped by -1
+- **[Rank Drop]** `FADE: Mitigating Hallucinations by Reducing Language-Prior Dominance in Large Vision-Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Customized Generative AI Agent for Transportation Engineering Practice: A Development and Continued Pre-training Guideline`: Rank dropped by -1
+- **[Rank Drop]** `Agent vs. Parametric World Models: Hybrid Planning for Reliable Language Agents`: Rank dropped by -1
+- **[Rank Drop]** `Understanding Rollout Error in Graph World Models`: Rank dropped by -1
+- **[Rank Drop]** `Text Dictates, Music Decorates: Energy-based Attention for Editable Dance Motion Generation`: Rank dropped by -1
+- **[Rank Drop]** `ComplexConstraints and Beyond: Expert Rubrics for RLVR`: Rank dropped by -1
+- **[Rank Drop]** `Some hypotheses on how chatbots work in problem-solving-driven conversations. Large Language Models as confirmation of the Innovation Illusion`: Rank dropped by -1
+- **[Rank Drop]** `TokenMizer: Graph-Structured Session Memory for Long-Horizon LLM Context Management`: Rank dropped by -1
+- **[Rank Drop]** `Reasoning4Sciences: Bridging Reasoning Language Models to All Scientific Branches`: Rank dropped by -1
+- **[Rank Drop]** `Sign-Separated Asymmetric Finite-Time Error Analysis of Q-Learning`: Rank dropped by -1
+- **[Rank Drop]** `Attributing Emergence in Million-Agent Systems`: Rank dropped by -1
+- **[Rank Drop]** `Beyond the Black Box: Interpretability of Agentic AI Tool Use`: Rank dropped by -1
+- **[Rank Drop]** `Agentic Retrieval-Augmented Generation for Financial Document Question Answering`: Rank dropped by -1
+- **[Rank Drop]** `Stop Automating Peer Review Without Rigorous Evaluation`: Rank dropped by -1
+- **[Rank Drop]** `To Use AI as Dice of Possibilities with Timing Computation`: Rank dropped by -1
+- **[Rank Drop]** `CAP-CoT: Cycle Adversarial Prompt for Improving Chain of Thoughts in LLM Reasoning`: Rank dropped by -1
+- **[Rank Drop]** `Fun-TSG: A Function-Driven Multivariate Time Series Generator with Variable-Level Anomaly Labeling`: Rank dropped by -1
+- **[Rank Drop]** `Gypscie: A Cross-Platform AI Artifact Management System`: Rank dropped by -1
+- **[Rank Drop]** `TRACE: Capability-Targeted Agentic Training`: Rank dropped by -1
+- **[Rank Drop]** `Chronos: The AI Co-Historian`: Rank dropped by -1
+- **[Rank Drop]** `The Anatomy of Uncertainty in LLMs`: Rank dropped by -1
+- **[Rank Drop]** `Mecha-nudges for Machines`: Rank dropped by -1
+- **[Rank Drop]** `Correlation-Weighted Multi-Reward Optimization for Compositional Generation`: Rank dropped by -1
+- **[Rank Drop]** `Exploring Plan Space through Conversation: An Agentic Framework for LLM-Mediated Explanations in Planning`: Rank dropped by -1
+- **[Rank Drop]** `HVR-Met: A Hypothesis-Verification-Replanning Agentic System for Extreme Weather Diagnosis`: Rank dropped by -1
+- **[Rank Drop]** `ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `Framework of Thoughts: A Foundation Framework for Dynamic and Optimized Reasoning based on Chains, Trees, and Graphs`: Rank dropped by -1
+- **[Rank Drop]** `NEST: Nascent Encoded Steganographic Thoughts`: Rank dropped by -1
+- **[Rank Drop]** `Insect-inspired Visual Point-goal Navigation`: Rank dropped by -1
+- **[Rank Drop]** `Toward Efficient Agents: Memory, Tool learning, and Planning`: Rank dropped by -1
+- **[Rank Drop]** `Programming over Thinking: Efficient and Robust Multi-Constraint Planning`: Rank dropped by -1
+- **[Rank Drop]** `OpenTinker: Separating Concerns in Agentic Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `The Language of Bargaining: Linguistic Effects in LLM Negotiations`: Rank dropped by -1
+- **[Rank Drop]** `Turbo-Muon: Almost-Orthogonal Pre-Conditioning for Fast Muon Updates`: Rank dropped by -1
+- **[Rank Drop]** `CoT-X: An Adaptive Framework for Cross-Model Chain-of-Thought Transfer and Optimization`: Rank dropped by -1
+- **[Rank Drop]** `Optimal-Agent-Selection: State-Aware Routing Framework for Efficient Multi-Agent Collaboration`: Rank dropped by -1
+- **[Rank Drop]** `A Unified Geometric Space for Topological Alignment Between Transformer-Based Models and Human Brain Networks`: Rank dropped by -1
+- **[Rank Drop]** `RLIE: Rule Generation with Logistic Regression, Iterative Refinement, and Evaluation for Large Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Interactive Learning for LLM Reasoning`: Rank dropped by -1
+- **[Rank Drop]** `A Technical Survey of Reinforcement Learning Techniques for Large Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Policy Improvement with Style-Specific Demonstrations`: Rank dropped by -1
+- **[Rank Drop]** `AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario`: Rank dropped by -1
+- **[Rank Drop]** `Shutdownable Agents through POST-Agency`: Rank dropped by -1
+- **[Rank Drop]** `Serious Games: Human-AI Interaction, Evolution, and Coevolution`: Rank dropped by -1
+- **[Rank Drop]** `Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation`: Rank dropped by -1
+- **[Rank Drop]** `Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation`: Rank dropped by -1
+- **[Rank Drop]** `SPEARBench: A Benchmark for Naturalness Evaluation in Streaming Speech-to-Speech Language Models`: Rank dropped by -1
+- **[Rank Drop]** `REDDIT: Correcting Model-Generated Timestamp Drift in ASR without Forgetting via Replay-Based Distribution Editing`: Rank dropped by -1
+- **[Rank Drop]** `Steering Optimisation Trajectories in Diffusion Representation Learning`: Rank dropped by -1
+- **[Rank Drop]** `ProPS: Prompted Profile Synthesis for Natural Language-Conditioned Speaker Embedding Distributions`: Rank dropped by -1
+- **[Rank Drop]** `Shifting from Discrete to Continuous Reference Data: QSM-Derived Horizontal Tree Biomass Distribution for Deep Learning Biomass Estimation`: Rank dropped by -1
+- **[Rank Drop]** `When Claws Remember but Do Not Tell: Stealthy Memory Injection in Persistent Personal Agents`: Rank dropped by -1
+- **[Rank Drop]** `Open Problems in AI Incident Governance`: Rank dropped by -1
+- **[Rank Drop]** `Three-Phase Evaluation of AI-Assisted Software Development Life Cycle`: Rank dropped by -1
+- **[Rank Drop]** `Agent Data Injection Attacks are Realistic Threats to AI Agents`: Rank dropped by -1
+- **[Rank Drop]** `AIFS-SUBS: Extending Data-Driven Forecasting to Sub-Seasonal Timescales`: Rank dropped by -1
+- **[Rank Drop]** `RUFNet: Query-Guided Support Mask Refinement and Uncertainty Fusion based on Hybrid Mamba for Few-Shot Brain Tumor Segmentation`: Rank dropped by -1
+- **[Rank Drop]** `LLM-Based Test Oracles: Source-of-Authority Taxonomy -- A Systematic Literature Review`: Rank dropped by -1
+- **[Rank Drop]** `Your Agent's Memories Are Not Its Own: Forged Reasoning Attacks on LLM Agent Memory and Defenses`: Rank dropped by -1
+- **[Rank Drop]** `Comparison of Loss Functions for Robust Deep Learning-based Echocardiography Segmentation when Learning with Partially Labelled Data from Multiple Domains`: Rank dropped by -1
+- **[Rank Drop]** `Multi-Robot Open Adaptive Teaming Across Unseen Environments, Partners, and Scales`: Rank dropped by -1
+- **[Rank Drop]** `MemPose: Category-level Object Pose Estimation with Memory`: Rank dropped by -1
+- **[Rank Drop]** `DSWAM: A Dual-System World Action Foundation Model for Fine-Grained Robot Manipulation`: Rank dropped by -1
+- **[Rank Drop]** `Efficient Perception in Automotive Detection and Tracking Using Neuromorphic Computing`: Rank dropped by -1
+- **[Rank Drop]** `EventCoT: Event-centric Video Chain-of-thought for Reasoning Temporal Localization`: Rank dropped by -1
+- **[Rank Drop]** `SynSFX: Multi-Model Sound Effects Synthesis Dataset for Deepfake Detection and Evaluation`: Rank dropped by -1
+- **[Rank Drop]** `HamQASBench: A Hamiltonian-Informed Diagnostic Benchmark for Evaluating Quantum Architecture Search`: Rank dropped by -1
+- **[Rank Drop]** `Evaluating the Effect of Linguistic Relatedness on Cross-Lingual Transfer in Large Multilingual Automatic Speech Recognition`: Rank dropped by -1
+- **[Rank Drop]** `An Exploration of Agentic Information Fusion for Test Maintenance Prediction`: Rank dropped by -1
+- **[Rank Drop]** `RustMizan: A Compilable, Contamination-Aware Benchmarking Framework for Rust Vulnerabilities`: Rank dropped by -1
+- **[Rank Drop]** `Dashboard2Code: Evaluating Multimodal Models on Reconstructing Interactive Dashboards`: Rank dropped by -1
+- **[Rank Drop]** `Geometry-Aware Motion Latents for Learning Robust Manipulation Policies`: Rank dropped by -1
+- **[Rank Drop]** `Strategic Buying Agents`: Rank dropped by -1
+- **[Rank Drop]** `ToolFailBench: Diagnosing Tool-Use Failures in LLM Agents`: Rank dropped by -1
+- **[Rank Drop]** `Do Vision-Language-Action Models Mean What They Say? On the Role of Faithfulness in Embodied Reasoning`: Rank dropped by -1
+- **[Rank Drop]** `Elastic Gang: Per-Token Membership Change for a Hard-Barriered LLM Inference Gang Co-Scheduled with OS Processes`: Rank dropped by -1
+- **[Rank Drop]** `Targeted Structure Completion for Sparse-View 3D Reconstruction in Autonomous Driving`: Rank dropped by -1
+- **[Rank Drop]** `Hierarchical Evidence-Driven Reasoning for Long Document Understanding`: Rank dropped by -1
+- **[Rank Drop]** `SILO: Simulation-in-the-Loop Sim-to-Real Transfer for Multi-Stage Cable Routing`: Rank dropped by -1
+- **[Rank Drop]** `G2VD: Generalizable AI-Generated Video Detection via Counterfactual Intervention and Causal Disentanglement`: Rank dropped by -1
+- **[Rank Drop]** `Do All Visual Tokens Matter Equally? Object-Evidence Preserving Token Merging for Vision-Language Retrieval`: Rank dropped by -1
+- **[Rank Drop]** `LCPNet: Latent Consistent Proximal Unfolding Network for Infrared Small Target Detection`: Rank dropped by -1
+- **[Rank Drop]** `TORINO: Token Reduction via Interpretable Concept Overlap in Vision-Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Simple-to-Complex Structured Demonstrations for Vision-Language-Action Learning`: Rank dropped by -1
+- **[Rank Drop]** `LLM-Driven CI-CD Workflow Intelligence for Cyber Systems Engineering`: Rank dropped by -1
+- **[Rank Drop]** `Lights, Camera, Carbon: Architectural Scaling Laws for Video Generation Energy Consumption`: Rank dropped by -1
+- **[Rank Drop]** `Explainable Novel Category Discovery in Semantic Concept Space`: Rank dropped by -1
+- **[Rank Drop]** `Obey, Diverge, Collapse: Blind Obedience to Incorrect Instructions Drives Code LLMs to Irrecoverable Code Semantic Collapse`: Rank dropped by -1
+- **[Rank Drop]** `Training-Free Model Selection and Domain-Aware Score Calibration for First-Shot Anomalous Sound Detection`: Rank dropped by -1
+- **[Rank Drop]** `Language Models Represent and Transform Concepts with Shared Geometry`: Rank dropped by -1
+- **[Rank Drop]** `Failures and Successes to Learn a Core Conceptual Distinction from the Statistics of Language`: Rank dropped by -1
+- **[Rank Drop]** `Robustness Verification of an Autonomous Underwater Vehicle-based Plankton Classifier`: Rank dropped by -1
+- **[Rank Drop]** `From Regulation to Requirements: An Automated Requirement Derivation and Explanation Pipeline`: Rank dropped by -1
+- **[Rank Drop]** `Generative wave propagator`: Rank dropped by -1
+- **[Rank Drop]** `ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog`: Rank dropped by -1
+- **[Rank Drop]** `A Retrieval-Augmented Framework for Detecting and Resolving Pragmatic Ambiguities in Natural Language Requirements`: Rank dropped by -1
+- **[Rank Drop]** `RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies`: Rank dropped by -1
+- **[Rank Drop]** `evalci: A Python Library for Statistically Rigorous Comparison of Language Model Evaluations`: Rank dropped by -1
+- **[Rank Drop]** `dOPSD: On-Policy Self-Distillation for Diffusion Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Transferability Between Understanding and Generation in Unified Multimodal Models`: Rank dropped by -1
+- **[Rank Drop]** `Auto-AEG: Scalable Data Construction for Open-Vocabulary Audio Event Grounding`: Rank dropped by -1
+- **[Rank Drop]** `HASSL: Hierarchy-Aware Self-Supervised Learning Framework for Single Cell Microscopy`: Rank dropped by -1
+- **[Rank Drop]** `IRIS: An Intelligent Vision-Language System for Ocular Surface Diseases via Topic Tree and Scene-Driven VQA Generation`: Rank dropped by -1
+- **[Rank Drop]** `Agentic-V2X: Small Language Model Agents for Deadline-Aware V2X Scheduling in 5G/6G Networks`: Rank dropped by -1
+- **[Rank Drop]** `Risk-Constrained Freshness-Aware Semantic Caching for Open-Web Retrieval-Augmented LLMs`: Rank dropped by -1
+- **[Rank Drop]** `Self-Reference in Large Language Models: The Introspection Threshold for Recursive Self-Improvement`: Rank dropped by -1
+- **[Rank Drop]** `LBR: Towards Mitigating Length Bias in Large Language Models for Recommendation`: Rank dropped by -1
+- **[Rank Drop]** `HALO-WA: Hybrid-Attention Latent-Guided Online Reinforcement Learning for World-Action Models`: Rank dropped by -1
+- **[Rank Drop]** `SoftVTBench: A Safety-Aware Visuo-Tactile Benchmark for Physically Constrained Robotic Manipulation of Deformable Objects`: Rank dropped by -1
+- **[Rank Drop]** `CritiqueDriveVLM: From Verifier-Guided Reinforcement Learning to Latent Thought Distillation for Autonomous Driving`: Rank dropped by -1
+- **[Rank Drop]** `Piercing Gilbreath's Conjecture: From Deep Number Theory Insights to Fintech and Cybersecurity`: Rank dropped by -1
+- **[Rank Drop]** `SeeMe: Mitigating Hallucinations in Large Vision-Language Models through Effective Visual Token Engineering`: Rank dropped by -1
+- **[Rank Drop]** `Information-Geometric Superposed Vowel Evaluation: Part 1. Moraic Syllabary (Japanese)`: Rank dropped by -1
+- **[Rank Drop]** `HCSU: A Dataset and Benchmark for Fine-Grained Historical Calligraphy Style Understanding`: Rank dropped by -1
+- **[Rank Drop]** `CSB: A Counting and Sampling tool for Bit-vectors`: Rank dropped by -1
+- **[Rank Drop]** `Conflict-Based Lazy Search for Fast Multi-Manipulator Planning`: Rank dropped by -1
+- **[Rank Drop]** `SOV-CAD: Stepwise Orthographic Views Guided CAD Modeling Sequence Reconstruction`: Rank dropped by -1
+- **[Rank Drop]** `Submitted and Diagnostic Analysis of Full-Text Temporal Retrieval for LongEval-Sci`: Rank dropped by -1
+- **[Rank Drop]** `Benchmarking API Drift in LLM-Generated Quantum Code Across Successive SDK Versions`: Rank dropped by -1
+- **[Rank Drop]** `Enhancing Implicit Neural Representations with Image Feature Embedding for Unsupervised Cardiac Cine MRI Reconstruction`: Rank dropped by -1
+- **[Rank Drop]** `Speaker-Disentangled Chunk-Wise Regression for Syllabic Tokenization`: Rank dropped by -1
+- **[Rank Drop]** `The "I Don't Know" Filter: Enhancing Agentic Reliability in Function Calling`: Rank dropped by -1
+- **[Rank Drop]** `Finite Reliability Representations: Noise-Calibrated Belief-Space Covers for Reliable Decision-Making`: Rank dropped by -1
+- **[Rank Drop]** `Separating Representation from Reconstruction Enables Scalable Text Encoders`: Rank dropped by -1
+- **[Rank Drop]** `Full Glyph Images Beat Token Embeddings: A Controlled Study for Transformers`: Rank dropped by -1
+- **[Rank Drop]** `NouveauVoice: Generating Novel Pseudo Speakers for Voice Anonymization`: Rank dropped by -1
+- **[Rank Drop]** `BanglaMemeEvidence: A Multimodal Benchmark Dataset for Explanatory Evidence Detection in Bengali Memes`: Rank dropped by -1
+- **[Rank Drop]** `Scalable Semantic Steering of Embedding Projections`: Rank dropped by -1
+- **[Rank Drop]** `Refused in Chat, Written in Code: Workflow-Level Jailbreak Construction in IDE Coding Agents`: Rank dropped by -1
+- **[Rank Drop]** `Worldscape-MoE: A Unified Mixture-of-Experts World Model for Scalable Heterogeneous Action Control`: Rank dropped by -1
+- **[Rank Drop]** `NormWorlds-CF: Solver-Verified Counterfactual Normative Reasoning with Metamorphic-Relation GRPO`: Rank dropped by -1
+- **[Rank Drop]** `The Remarkable Effectiveness of Providing AI Agents with Natural Language Tools: A Replication Study Validating NLT Performance Across 14 Models`: Rank dropped by -1
+- **[Rank Drop]** `Why3-py: A Tool for Formal Verification of Hypothesis Testing and Meta-Analysis in Python`: Rank dropped by -1
+- **[Rank Drop]** `TokAN: Accent Normalization Using Self-Supervised Speech Tokens`: Rank dropped by -1
+- **[Rank Drop]** `TabQueryBench: A Query-Centric Benchmark for Synthetic Tabular Data`: Rank dropped by -1
+- **[Rank Drop]** `Advanced Topic Modeling Techniques for Categorizing Software Vulnerabilities`: Rank dropped by -1
+- **[Rank Drop]** `Enhancement of E-commerce Sponsored Search Relevancy with LLM`: Rank dropped by -1
+- **[Rank Drop]** `Consistent but Miscalibrated: Evaluating LLM Limitations for Risk Communication in Natural Language`: Rank dropped by -1
+- **[Rank Drop]** `Next-Gen Sponsored Search: Crafting the Perfect Query with Inventory-Aware RAG (InvAwr-RAG) Based GenAI`: Rank dropped by -1
+- **[Rank Drop]** `GeoSelect: Spatial-Program Execution for Training-Free Referring Remote Sensing Image Segmentation`: Rank dropped by -1
+- **[Rank Drop]** `High-Fidelity One-Step Generative Visuomotor Policy via Recursive Correction, Frequency Consistency, and Contrastive Flow Matching`: Rank dropped by -1
+- **[Rank Drop]** `When Simpler Is Better: Evaluating Translation Pipelines for Medieval Latin Manuscripts`: Rank dropped by -1
+- **[Rank Drop]** `Beyond Static Rules: Automated Discovery of Latent Vulnerabilities in Text-to-SQL`: Rank dropped by -1
+- **[Rank Drop]** `How Do Diffusion Classifiers Decide? A Bias-Centric Evaluation`: Rank dropped by -1
+- **[Rank Drop]** `Q-TriM: Question-Guided Tri-Modal Attention for Audio-Visual Question Answering`: Rank dropped by -1
+- **[Rank Drop]** `DualView: Preventing Indirect Prompt Injection in Personal AI Agents`: Rank dropped by -1
+- **[Rank Drop]** `CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation`: Rank dropped by -1
+- **[Rank Drop]** `Probing Low-Level Acoustic Attribute Encoding in CLAP Audio Embeddings`: Rank dropped by -1
+- **[Rank Drop]** `CineMobile: On-Device Image-to-Video Diffusion for Cinematic Camera Motion Generation`: Rank dropped by -1
+- **[Rank Drop]** `Rethinking Depth Pruning for Vision Transformers: A Heterogeneity-Aware Perspective`: Rank dropped by -1
+- **[Rank Drop]** `SkillFab: An Agent-Native Skill Production Platform`: Rank dropped by -1
+- **[Rank Drop]** `EmCom-Diffusion: Probing Visual Reflection in Emergent Languages via Image Generation`: Rank dropped by -1
+- **[Rank Drop]** `A Failure-Mode Benchmark for Polymorphic Sybil Poisoning in RAG`: Rank dropped by -1
+- **[Rank Drop]** `Attending to Multimodal Generation One Token at a Time`: Rank dropped by -1
+- **[Rank Drop]** `CoGen3D: An Agentic Human-AI Co-Design Pipeline for 3D Asset Generation for Virtual Reality`: Rank dropped by -1
+- **[Rank Drop]** `OmniTacTune: Policy-Agnostic Real-World RL for Tactile Residual Adaptation of Visual Policies`: Rank dropped by -1
+- **[Rank Drop]** `A Fair Benchmarking of Deep Relational Database Learning Models`: Rank dropped by -1
+- **[Rank Drop]** `ViPo-MLLM: Visual-Pose Multimodal LLM for Gloss-Free Sign Language Translation`: Rank dropped by -1
+- **[Rank Drop]** `AutoCedar: An Agentic Framework for Verifier-Guided Access Control Policy Synthesis`: Rank dropped by -1
+- **[Rank Drop]** `ELiTeFormer: An Efficient Transformer for FPGAs`: Rank dropped by -1
+- **[Rank Drop]** `ClinOCR-Bench: A Comprehensive Clinical Scanned Document Dataset for Optical Character Recognition Model Evaluation`: Rank dropped by -1
+- **[Rank Drop]** `Moonstone: A Multimodal Foundation Model and Benchmark for Lunar Remote Sensing`: Rank dropped by -1
+- **[Rank Drop]** `An AI-Assisted Solution to the Signed BAR Conjecture: Uniqueness in the Harrison--Reiman Class and a Completely-$\mathcal{S}$ Class Obstruction`: Rank dropped by -1
+- **[Rank Drop]** `A Step Towards Robust Unsupervised Domain Adaptation via Fine-Tuning and Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `Token-Based Affordance Grounding with Large Vision-Language Models`: Rank dropped by -1
+- **[Rank Drop]** `An Interpretable Deep Learning Framework for Discovery and Clinical Validation of Deep Radiomic Signatures in Tumor Classification`: Rank dropped by -1
+- **[Rank Drop]** `Responsibility Distribution Estimation in Ego-View Accident Videos with Multimodal Large Language Models`: Rank dropped by -1
+- **[Rank Drop]** `PLGSA-Transformer: Periocular Landmark-Guided Attention with Occlusion-Adaptive Cosine Thresholding for Cross-Modal Masked and Unmasked Face Recognition`: Rank dropped by -1
+- **[Rank Drop]** `EPRA U-Net: An Efficient Pyramid Residual Attention Framework for Accurate Infarct Segmentation in Diffusion-Weighted MRI`: Rank dropped by -1
+- **[Rank Drop]** `AGL-1: The Enterprise AI Governance Layer as a Control Plane for Trusted Enterprise Intelligence`: Rank dropped by -1
+- **[Rank Drop]** `CAGE-1: Control, Assurance, and Governance Evaluation for Enterprise Agentic AI`: Rank dropped by -1
+- **[Rank Drop]** `STRATOS: Bridging the Symbolic-to-Numeric Gap in Spatio-Temporal Text-to-SQL for Meteorological Data`: Rank dropped by -1
+- **[Rank Drop]** `HiMe: Hierarchical Embodied Memory for Long-Horizon Vision-Language-Action Control`: Rank dropped by -1
+- **[Rank Drop]** `TRIAGE: Trustworthy Retrieval Instrumentation And Graph Evaluation`: Rank dropped by -1
+- **[Rank Drop]** `Securing Multi-Tool AI Agent Chains With Dynamic, Real-Time Compositional Policies`: Rank dropped by -1
+- **[Rank Drop]** `DETECT-3B-Omni is Agnostic of Content and Demographics`: Rank dropped by -1
+- **[Rank Drop]** `The S-ICDF Dataset: Sionna-Simulated Dynamic Interference Characterization and Direction Finding`: Rank dropped by -1
+- **[Rank Drop]** `Spectral Signatures of Large Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Brand-as-Memory: Vision-Language Models Encode Causal, Mechanistically Localizable Credibility Priors for News Sources`: Rank dropped by -1
+- **[Rank Drop]** `LLM-Enhanced Hierarchical Heterogeneous Graph Representation Learning for Malicious Python Package Detection`: Rank dropped by -1
+- **[Rank Drop]** `From Judgments to Issues: Structured Extraction of Legal Reasoning with Citation-Hallucination Control`: Rank dropped by -1
+- **[Rank Drop]** `Hierarchical Multi-Agent Reinforcement Learning for Carbon-Aware AI Data Centers in Power Distribution Systems`: Rank dropped by -1
+- **[Rank Drop]** `Is Agentic Code Review Helpful? Mining Developers' Feedback to CodeRabbit Reviews in the Wild`: Rank dropped by -1
+- **[Rank Drop]** `Semantic Segmentation-Driven Image-Level Diagnosis of Liver Cancers in Hematoxylin and Eosin Histopathology Images`: Rank dropped by -1
+- **[Rank Drop]** `Agentic and Generative AI for Open-Source Intelligence and Cyber Investigations: Taxonomy, Evaluation, Challenges, and Future Directions`: Rank dropped by -1
+- **[Rank Drop]** `CONTRA: Red-Teaming Configurations of Personalizable Agents`: Rank dropped by -1
+- **[Rank Drop]** `Builder, Defender, Breaker: The Case Against Removing the Human from the AI-Driven Security Lifecycle`: Rank dropped by -1
+- **[Rank Drop]** `OpenGlass: A Sensing-Computing Split Architecture for Local MLLM-Driven Real-Time Visual Assistance`: Rank dropped by -1
+- **[Rank Drop]** `AnchorVLA: Bridging Discrete Decisions and Continuous Trajectories for Vision-Language-Action Planning`: Rank dropped by -1
+- **[Rank Drop]** `Teaming Up with AI: Coordination and Cooperation`: Rank dropped by -1
+- **[Rank Drop]** `Effectiveness of LLM-based Software Diversity for Reliability Improvement -- an Empirical Study`: Rank dropped by -1
+- **[Rank Drop]** `The Role of Prompt Language and Translation-Theory-Driven Prompts in Large Language Models: A Case Study on Spanish-Chinese Journalistic Translation`: Rank dropped by -1
+- **[Rank Drop]** `Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion`: Rank dropped by -1
+- **[Rank Drop]** `Text as Partial Constraint: Core-Residual Alignment for Robust Vision-Language Learning`: Rank dropped by -1
+- **[Rank Drop]** `Detecting Architectural Drift in Safety-Critical Firmware through Runtime Trace Analysis`: Rank dropped by -1
+- **[Rank Drop]** `A Multi-Task Deep Learning Framework for Real-Time Intelligent Video Surveillance with Temporal Event Validation`: Rank dropped by -1
+- **[Rank Drop]** `SNR-Adaptive Unified Diffusion for Multi-Task Medical Image Segmentation`: Rank dropped by -1
+- **[Rank Drop]** `Flow-A11y: Flow-Aware Accessibility Testing`: Rank dropped by -1
+- **[Rank Drop]** `Don't Wait to Reply: Towards Responsive yet Thoughtful Dialogue through Proactive Thinking`: Rank dropped by -1
+- **[Rank Drop]** `Attention-Guided Efficientnet Architecture For Precise Criminal Identification in Surveillance Images`: Rank dropped by -1
+- **[Rank Drop]** `MambaLIE: Scene Light Intensity-Boosted Low-Light Image Enhancement with State Space Model`: Rank dropped by -1
+- **[Rank Drop]** `PosterHarness: Turning Scientific Poster Generation into an Auditable Instruction-Following Benchmark`: Rank dropped by -1
+- **[Rank Drop]** `VISTA: Auditing Semantic Divergence in Vision-Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Enhanced Feature Extraction for IoT Network Intrusion Detection Using GNNs and KAN`: Rank dropped by -1
+- **[Rank Drop]** `Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling`: Rank dropped by -1
+- **[Rank Drop]** `Parallelized Autoregressive Decoding for Omni-Modal Dense Video Captioning`: Rank dropped by -1
+- **[Rank Drop]** `The Foreign Policy AI Evaluation Gap`: Rank dropped by -1
+- **[Rank Drop]** `Pooling-Based Context Modeling for Convolution-Free Deep Image Prior`: Rank dropped by -1
+- **[Rank Drop]** `MatPhaseBench: A Semantics-Guided Benchmark for Materials Phase Diagrams Understanding`: Rank dropped by -1
+- **[Rank Drop]** `Modeling the Impact of Visual Brand Language on Attention, Object Recognition, and Memory Retrieval`: Rank dropped by -1
+- **[Rank Drop]** `VideoSearcher: Empowering Video Deep Research with Multi-Tool Agentic Reasoning via Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `R3D: Quantitative 3D Spatial Reasoning for Egocentric Wearables`: Rank dropped by -1
+- **[Rank Drop]** `Harmonic-Aware Transformer for Real-Time Catheter Localization in Interventional Procedures of Magnetic Particle Imaging`: Rank dropped by -1
+- **[Rank Drop]** `CoACT: Action-Preserving Observation Compression for Coding Agents`: Rank dropped by -1
+- **[Rank Drop]** `Learning Taxonomic Trees with Hierarchical Representation Regularization for Large Multimodal Models`: Rank dropped by -1
+- **[Rank Drop]** `TIER: Trajectory-Invariant Explanation Regularization for Membership Privacy`: Rank dropped by -1
+- **[Rank Drop]** `PPE-Bench: A Benchmark for Evaluating MLLM Unlearning under Private-Public Entanglement`: Rank dropped by -1
+- **[Rank Drop]** `Where do LLMs Fall Short in CBT-Guided Affective Reasoning?`: Rank dropped by -1
+- **[Rank Drop]** `Determinants and Limits of LLM Security-Tool Orchestration: A Study with HexStrike-AI`: Rank dropped by -1
+- **[Rank Drop]** `Differential Amplifier-Inspired AmpAttention for Multi-View Robotic Manipulation`: Rank dropped by -1
+- **[Rank Drop]** `JavaVulBench: A Java Vulnerability Benchmark with Realistic Splits, a Unified Multi-Backend Harness, and a Leakage-Aware Evaluation Mode`: Rank dropped by -1
+- **[Rank Drop]** `Vision Token Manipulation Attacks on Cloud-Edge Inference of Large Vision-Language Models`: Rank dropped by -1
+- **[Rank Drop]** `SovereignNegotiation-Bench: Evaluating User-Owned Personal Agents In Delegated Bargaining Under Privacy, Consent, Evidence, And Institutional Pressure`: Rank dropped by -1
+- **[Rank Drop]** `Seduced by the Narrative: Assessing Rule Adherence in Semi-Open Textual Sandboxes`: Rank dropped by -1
+- **[Rank Drop]** `A Preliminary Study on Explaining Risk of Code Changes using LLM-Based Prediction Models`: Rank dropped by -1
+- **[Rank Drop]** `Gemma 4 Technical Report`: Rank dropped by -1
+- **[Rank Drop]** `Echoes of Unrest: A Multimodal NLP Framework for Early Warning of Fake News and Violence-Driven Mob Activity`: Rank dropped by -1
+- **[Rank Drop]** `SMOCS: A Streaming Framework for Simplified Deployment, Monitoring, and Optimization of ML Systems in Production`: Rank dropped by -1
+- **[Rank Drop]** `Signal from Space: Detecting Schools and Towers to Bridge the Digital Divide`: Rank dropped by -1
+- **[Rank Drop]** `Not All Refusals Are Equal: How Safety Alignment Fails Cybersecurity at Scale`: Rank dropped by -1
+- **[Rank Drop]** `LLMoxie: Exploring Agentic AI for Scientific Software Development`: Rank dropped by -1
+- **[Rank Drop]** `S-EMBER: A Large-Scale Benchmark for Streaming Egocentric Memory Retrieval`: Rank dropped by -1
+- **[Rank Drop]** `K9-Bench: Evaluating Multimodal LLMs on Canine-Centric Videos`: Rank dropped by -1
+- **[Rank Drop]** `Metronome: Bound the Cache, Keep the Beat for Real-Time Interaction Model Serving`: Rank dropped by -1
+- **[Rank Drop]** `Fine-Grained Computation Offload for Off-the-Shelf Servers in Tens of Lines`: Rank dropped by -1
+- **[Rank Drop]** `COMET: Combinatorial Optimization for Multiplex Editing Targets Via Constraint-Preserving QAOA`: Rank dropped by -1
+- **[Rank Drop]** `TAG: A Lightweight Framework for Test-Driven Agentic Artifact Generation`: Rank dropped by -1
+- **[Rank Drop]** `Knowledge-Centric Information Systems`: Rank dropped by -1
+- **[Rank Drop]** `AgentLTL: A Trace-Verification Framework for Measuring, Enforcing, and Training Procedural Compliance in Tool-Using LLM Agents`: Rank dropped by -1
+- **[Rank Drop]** `An automated method of identifying incorrectly labelled images based on the sequences of loss functions of deep learning networks`: Rank dropped by -1
+- **[Rank Drop]** `Homer: Understanding Long-form Videos with Hierarchical Memory and Agentic Reasoning`: Rank dropped by -1
+- **[Rank Drop]** `Criterion-Conditional In-Context Learning: Evaluating Criterion-Shift Adaptation in Vision-Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Additive Causal Construction for Transferable and Reconfigurable Cross-System Learning in Multi-Source Image Fusion`: Rank dropped by -1
+- **[Rank Drop]** `DOSE-I: A Multimodal Biosignal Dataset of Procedural Sedation for Endoscopy -- Technical Report`: Rank dropped by -1
+- **[Rank Drop]** `Cross-Receiver Open-Set Radio Frequency Fingerprinting via Structure-First Adaptation`: Rank dropped by -1
+- **[Rank Drop]** `From Raw Segmentations to Simulation-Ready Cardiac Meshes: An Automated Framework for Anatomical Reconstruction and Virtual Cohort Generation`: Rank dropped by -1
+- **[Rank Drop]** `Attention Dynamics in Diffusion Models: A Visual Analytics Framework for Human-AI Collaboration`: Rank dropped by -1
+- **[Rank Drop]** `Double-Helix Active Geometry: LiDAR-Anchored Multi-View Depth with Selective Abstention`: Rank dropped by -1
+- **[Rank Drop]** `DELTAVID: Enhancing Fine-Grained Spatiotemporal Perception with Cross-Video Differences`: Rank dropped by -1
+- **[Rank Drop]** `Not Every Sync Is Safe: Calibrated DiLoCo Scheduling for Shared AI Infrastructure`: Rank dropped by -1
+- **[Rank Drop]** `The Hidden Water Geography of U.S. Hyperscale Data Centers in the AI Era`: Rank dropped by -1
+- **[Rank Drop]** `PEEK: Predictive Queue-Informed KV Cache Management for LLM Serving`: Rank dropped by -1
+- **[Rank Drop]** `SWIFT: Spatio-temporal Wavelet Integrated Forecasting Framework for Workload Traces`: Rank dropped by -1
+- **[Rank Drop]** `AutoResearch: An Execution-Grounded Multi-Agent Framework for Reliable Research Workflow Automation`: Rank dropped by -1
+- **[Rank Drop]** `GLM-5 Serving Parameter Tuning for OpenClaw: Single-Deployment MaaS Inference Optimization for Long-Context Agent Workloads`: Rank dropped by -1
+- **[Rank Drop]** `Neural-Network Inverse Design of SRF Cavities and Transmons for Bosonic Quantum Computation`: Rank dropped by -1
+- **[Rank Drop]** `Specific Domain Ontology Construction Using Large Language Models`: Rank dropped by -1
+- **[Rank Drop]** `PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification`: Rank dropped by -1
+- **[Rank Drop]** `SovereignPA-Bench: Evaluating User-Owned Personal Agents under Evolving Intent, Platform Mediation, and Consent Constraints`: Rank dropped by -1
+- **[Rank Drop]** `Graph Sparse Sampling: Breaking the Curse of the Horizon in Continuous MDP Planning`: Rank dropped by -1
+- **[Rank Drop]** `OptiAgent: End-to-End Optimization Modeling via Multi-Agent Iterative Refinement`: Rank dropped by -1
+- **[Rank Drop]** `Evaluating and Understanding Model Editing for Medical Vision Language Models`: Rank dropped by -1
+- **[Rank Drop]** `MetaSkill-Evolve: Recursive Self-Improvement of LLM Agents via Two-Timescale Meta-Skill Evolution`: Rank dropped by -1
+- **[Rank Drop]** `MoP-JEPA: Hard-Assigned Predictor Mixtures for Stochastic JEPA World Models`: Rank dropped by -1
+- **[Rank Drop]** `EvoAgentBench: Benchmarking Agent Self-Evolution via Ability Transfer`: Rank dropped by -1
+- **[Rank Drop]** `Reason, Reward, Refine: Step-Level Errors Corrections with Structured Feedback for Physics Reasoning in Small Language Models`: Rank dropped by -1
+- **[Rank Drop]** `ClassicLogic: A Knowledge-Driven Benchmark of Classic Puzzle Games for Evaluating Compositional Generalization`: Rank dropped by -1
+- **[Rank Drop]** `CP-WSP: A Declarative CP-SAT Framework for Configurable Multi-Constraint Workforce Scheduling`: Rank dropped by -1
+- **[Rank Drop]** `AgentGym2: Benchmarking Large Language Model Agents in De-Idealized Real-World Environments`: Rank dropped by -1
+- **[Rank Drop]** `The Changing Role of Symbolic Methods in Artificial Intelligence`: Rank dropped by -1
+- **[Rank Drop]** `DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation`: Rank dropped by -1
+- **[Rank Drop]** `TacReasoner: A Dynamic Tactile-Language Framework for Interactive Reasoning in Real-World Scenarios`: Rank dropped by -1
+- **[Rank Drop]** `ASSEMCAD: Production-Ready CAD Assembly Generation from Natural Language`: Rank dropped by -1
+- **[Rank Drop]** `Diffusion-Guided Uncertainty-Aware Delayed Policy Optimization`: Rank dropped by -1
+- **[Rank Drop]** `Toward Trustworthy Large Language Model Agents in Healthcare`: Rank dropped by -1
+- **[Rank Drop]** `Quantum-Inspired Harmonic Decision Models: A Computational Framework for Music Generation`: Rank dropped by -1
+- **[Rank Drop]** `STAPO: Selective Trajectory-Aware Policy Optimization for LLM Agent Training`: Rank dropped by -1
+- **[Rank Drop]** `Medi-Gemma: A Hybrid Clinical Decision Support System Integrating Deterministic EMR Analytics and Retrieval-Augmented Generation`: Rank dropped by -1
+- **[Rank Drop]** `CARL: Constraint-Aware Reinforcement Learning for Planning with LLMs`: Rank dropped by -1
+- **[Rank Drop]** `AgenticPD: A Stage-Aware Agentic Framework for Physical Design QoR Optimization`: Rank dropped by -1
+- **[Rank Drop]** `FM-ChangeNet: Learning Change through Pathwise Feature Transport`: Rank dropped by -1
+- **[Rank Drop]** `FORGE: Research-Trajectory Hijacking Attacks on Deep Research Agents`: Rank dropped by -1
+- **[Rank Drop]** `Integrated Altruistic and Fairness Preference Induces Advanced Mutual Cooperation in Sequential Social Dilemmas`: Rank dropped by -1
+- **[Rank Drop]** `Formal Disco: Scalable Open-Ended Generation of Formally Verified Programs`: Rank dropped by -1
+- **[Rank Drop]** `MRMS: A Multi-Resolution Memory Substrate for Long-Lived AI Agents`: Rank dropped by -1
+- **[Rank Drop]** `Governed Individuation: Cryptographically Decoupling an Agent's Learning from Its Authority`: Rank dropped by -1
+- **[Rank Drop]** `Attention Limited Reward Learning`: Rank dropped by -1
+- **[Rank Drop]** `Heaviside Continuity of Rolling Coefficients for Eliminating Epistemic Entropy in Large Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Measuring Harness-Induced Belief Divergence in Multi-Step LLM Agents`: Rank dropped by -1
+- **[Rank Drop]** `VLA Grounder: Language-Conditioning Space Optimization for Black-Box VLA Models`: Rank dropped by -1
+- **[Rank Drop]** `Compressing the Validation Bottleneck: An Agentic Self-Driving Lab for Scientific Discovery`: Rank dropped by -1
+- **[Rank Drop]** `Why Pure Reasoning is Not Enough: Nature as the Source of Mathematical Innovation`: Rank dropped by -1
+- **[Rank Drop]** `ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes`: Rank dropped by -1
+- **[Rank Drop]** `Agent Step Value: Auditing Evaluator-Channel Reversals in Black-Box Agent Traces`: Rank dropped by -1
+- **[Rank Drop]** `LLM-as-a-Tutor: Policy-Aware Prompt Adaptation for Non-Verifiable RL`: Rank dropped by -1
+- **[Rank Drop]** `MechMath Agent Team: LLM Driven Agents for Mathematical Research`: Rank dropped by -1
+- **[Rank Drop]** `Decentralized Aggregation of LLM Predictions via Wagering Mechanisms`: Rank dropped by -1
+- **[Rank Drop]** `Nemotron-Labs-3-Puzzle-75B-A9B: Compressing Hybrid MoE LLMs`: Rank dropped by -1
+- **[Rank Drop]** `Do GUI Agents Believe Their Eyes? Diagnosing State-Belief Reliance on Pixels versus Structure`: Rank dropped by -1
+- **[Rank Drop]** `HAS-Bench: Evaluating LLM-Based Human-Agent Systems under Configurable Human Participation`: Rank dropped by -1
+- **[Rank Drop]** `Agentic SABRE: An Uncertainty-Aware Neuro-Symbolic Multi-Agent Framework for Adaptive Ransomware Detection`: Rank dropped by -1
+- **[Rank Drop]** `Shortcut Learning in Legal Judgment Prediction: Empirical Evidence from the UK Employment Tribunal`: Rank dropped by -1
+- **[Rank Drop]** `Progress- and Reliability-Oriented Group Policy Optimization for Agentic Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `Biological Motifs for Agentic Control`: Rank dropped by -1
+- **[Rank Drop]** `Unsupervised Features Mining via Activation Geometry`: Rank dropped by -1
+- **[Rank Drop]** `Agentic IoT: Architectures, Applications, and Challenges Toward the Internet of Agents`: Rank dropped by -1
+- **[Rank Drop]** `Language models guide symbolic equation discovery by controlling search`: Rank dropped by -1
+- **[Rank Drop]** `Forethought: Verifiable Reasoning from Neurosymbolic Primitive Programming`: Rank dropped by -1
+- **[Rank Drop]** `PLACEMEM: Toward a Compute-Aware Memory Plane for Lifelong Agents`: Rank dropped by -1
+- **[Rank Drop]** `What is Left for Us? Second Scholarship Against the Degradation of Research by AI`: Rank dropped by -1
+- **[Rank Drop]** `Harness-Aware Self-Evolving: Co-Evolving Model Weights, Harness, and Task Solutions`: Rank dropped by -1
+- **[Rank Drop]** `Folding, Reasoning, and Scaling with Open-source Drug Discovery Engine`: Rank dropped by -1
+- **[Rank Drop]** `Bridging Interleaved Multi-Modal Reasoning as a Unified Decision Process`: Rank dropped by -1
+- **[Rank Drop]** `Can Conversational Temporal Dynamics Improve Depression Detection in Dyads? A Preliminary Investigation in Multi-Modality Perspectives`: Rank dropped by -1
+- **[Rank Drop]** `Agent Reinforcement Learning via Pivotal-Aware Self-Feedback Retry`: Rank dropped by -1
+- **[Rank Drop]** `Robust Feasible Route Construction through Collaborative Partition Optimization`: Rank dropped by -1
+- **[Rank Drop]** `The Role of Rigor in Artificial Intelligence`: Rank dropped by -1
+- **[Rank Drop]** `Applying Answer Set Programming with Fuzzy Membership Functions: a Case Study`: Rank dropped by -1
+- **[Rank Drop]** `MentalThink: Shaping Thoughts in Mental SVG World`: Rank dropped by -1
+- **[Rank Drop]** `Demonstrating Generalization Failures via Mixtures of Conditional Policies`: Rank dropped by -1
+- **[Rank Drop]** `Personalized Causal Recourse: A Human-In-The-Loop Approach`: Rank dropped by -1
+- **[Rank Drop]** `Efficient bias mitigation in T2I diffusion models using Concept Graphs`: Rank dropped by -1
+- **[Rank Drop]** `Reflective Dialogue or Prompt Refinement? Effects of Tutor Scaffolding on Students' Independent LLM Use for Programming`: Rank dropped by -1
+- **[Rank Drop]** `Embodied Operators and Benchmarking: Toward Reusable and Deployable Embodied Intelligence Systems`: Rank dropped by -1
+- **[Rank Drop]** `Organizational Memory for Agentic Business Process Execution`: Rank dropped by -1
+- **[Rank Drop]** `APeB: Benchmarking Personalization Ability of Large Language Model Agents`: Rank dropped by -1
+- **[Rank Drop]** `Silicon Sampling via Cross-Survey Transfer`: Rank dropped by -1
+- **[Rank Drop]** `Human-Centric Reflective Architecture for Human-AI Collaborative Decision-Making`: Rank dropped by -1
+- **[Rank Drop]** `Beyond Forecasting: The Belief-to-Trade Layer in Prediction-Market Agents`: Rank dropped by -1
+- **[Rank Drop]** `Reinforcement Learning for Evidence-Seeking Diagnostic Reasoning with Large Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Evaluating Generative Agents with Actions Grounded in Socially Distributed Task Environments using Incognita`: Rank dropped by -1
+- **[Rank Drop]** `A Sliding-Window-Based Reinforcement Learning for Dynamic Assembly Flow Shop Scheduling with Multi-Product Delivery`: Rank dropped by -1
+- **[Rank Drop]** `VERITAS: Towards a General-Purpose Replication Tool for Scientific Research`: Rank dropped by -1
+- **[Rank Drop]** `Oyster-II: Reinforcement Learning for Constructive Safety Alignment in Large Language Models`: Rank dropped by -1
+- **[Rank Drop]** `MedCalc-Pro: Solving Complex Medical Calculations with LLM Agents`: Rank dropped by -1
+- **[Rank Drop]** `Object-Centric Environment Modeling for Agentic Tasks`: Rank dropped by -1
+- **[Rank Drop]** `SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery`: Rank dropped by -1
+- **[Rank Drop]** `Automated Data Readiness for Scientific AI`: Rank dropped by -1
+- **[Rank Drop]** `Internal Pluralism and the Limits of Pairwise Comparisons`: Rank dropped by -1
+- **[Rank Drop]** `iFLYTEK-Embodied-Omni Technical Report`: Rank dropped by -1
+- **[Rank Drop]** `HNSW with Accuracy Guarantees Using Graph Spanners`: Rank dropped by -1
+- **[Rank Drop]** `An Additive MLP-GNN Framework for Characterizing Chemical and Structural Contributions to Aqueous Solubility`: Rank dropped by -1
+- **[Rank Drop]** `MMAO-Cls: Metabolic Multi-Agent Optimization for Joint Feature Selection and Classifier Tuning`: Rank dropped by -1
+- **[Rank Drop]** `A global predicted-fMRI drive signal from TRIBE does not predict YouTube replay heatmaps`: Rank dropped by -1
+- **[Rank Drop]** `Harnessing Textual Refusal Directions for Multimodal Safety`: Rank dropped by -1
+- **[Rank Drop]** `When Does Learning to Stop Help? A Cost-Aware Study of Early Exits in Reasoning Models`: Rank dropped by -1
+- **[Rank Drop]** `SGD Provably Prioritizes a Shortcut Spurious Feature in the XOR Model`: Rank dropped by -1
+- **[Rank Drop]** `A Stochastic--Geometric Theory of Scaling Laws in Grokking`: Rank dropped by -1
+- **[Rank Drop]** `Automating the Design of Embodied Agent Architectures`: Rank dropped by -1
+- **[Rank Drop]** `Boundary Degree as a Node-level Feature for Epidemic Scenario Identification in Agent-based Cascade Simulations`: Rank dropped by -1
+- **[Rank Drop]** `RolloutPipe: Overlapping Pipelined Rollout and Training in Disaggregated On-Policy LLM Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `Two Layers of Instability in Causal Estimation`: Rank dropped by -1
+- **[Rank Drop]** `Skill Coverage: A Test Adequacy Metric for Agent Skills`: Rank dropped by -1
+- **[Rank Drop]** `Identifiability Without Gaussianity: Symbolic World Models and Near-Infinite Temporal Consistency`: Rank dropped by -1
+- **[Rank Drop]** `Trainability of IQP Quantum Circuit Born Machines Under Gaussian Initialization`: Rank dropped by -1
+- **[Rank Drop]** `Artificial Intelligence for Mathematical Reasoning: An Integrated Survey of Language Models, Neuro-symbolic Systems, and Verified Discovery`: Rank dropped by -1
+- **[Rank Drop]** `Deterministic Envelopes for Tamed SGLD: Decoupling Stochastic Gradient Noise and Localizing Taming`: Rank dropped by -1
+- **[Rank Drop]** `MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems`: Rank dropped by -1
+- **[Rank Drop]** `Cultural Binding Heads in Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Gradient-Flow Optimization as Dynamic Random-Effects Inference: Testing and Early Stopping with Applications to Deep Learning`: Rank dropped by -1
+- **[Rank Drop]** `MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation`: Rank dropped by -1
+- **[Rank Drop]** `High-Risk AI Systems and the Problem of Identity in the European AI Act`: Rank dropped by -1
+- **[Rank Drop]** `HaorFloodAlert: A 72-Hour Machine Learning Early Warning System for Flash Floods in Bangladesh's Haor Wetlands`: Rank dropped by -1
+- **[Rank Drop]** `When Outcome Looks Right But Discipline Fails: Trace-Based Evaluation Under Hidden Competitor State`: Rank dropped by -1
+- **[Rank Drop]** `Yield Curves Dynamics Using Variational Autoencoders Under No-arbitrage`: Rank dropped by -1
+- **[Rank Drop]** `BioSEN: A Bio-acoustic Signal Enhancement Network for Animal Vocalizations`: Rank dropped by -1
+- **[Rank Drop]** `When Style Similarity Scores Fail: Diagnosing Raw CSD Cosine in Artist-Style Evaluation`: Rank dropped by -1
+- **[Rank Drop]** `Evolutionary Ensemble of Agents`: Rank dropped by -1
+- **[Rank Drop]** `Undetectable Backdoors in Model Parameters: Hiding Sparse Secrets in High Dimensions`: Rank dropped by -1
+- **[Rank Drop]** `Kwai Summary Attention Technical Report`: Rank dropped by -1
+- **[Rank Drop]** `Towards Generalizable Deepfake Image Detection with Vision Transformers`: Rank dropped by -1
+- **[Rank Drop]** `SynthFix: Adaptive Neuro-Symbolic Code Vulnerability Repair`: Rank dropped by -1
+- **[Rank Drop]** `Modelling Gas-Phase Reaction Kinetics with Guided Particle Diffusion Sampling`: Rank dropped by -1
+- **[Rank Drop]** `ProbeLogits: Kernel-Level LLM Inference Primitives for AI-Native Operating Systems`: Rank dropped by -1
+- **[Rank Drop]** `Multimodal Ambivalence/Hesitancy Recognition in Videos for Personalized Digital Health Interventions`: Rank dropped by -1
+- **[Rank Drop]** `CableTract: A Co-Designed Cable-Driven Field Robot for Low-Compaction, Off-Grid Capable Agriculture`: Rank dropped by -1
+- **[Rank Drop]** `Large Language Models Generate Harmful Responses Using a Distinct Mechanism, Shared Across Harm Types`: Rank dropped by -1
+- **[Rank Drop]** `AViS-Mamba: Adaptive Visual Steering of Audio State-Space Dynamics for Violence Detection`: Rank dropped by -1
+- **[Rank Drop]** `Model Predictive Path Integral PID Control for Learning-Based Path Following`: Rank dropped by -1
+- **[Rank Drop]** `Walma: Learning to See Memory Corruption in WebAssembly`: Rank dropped by -1
+- **[Rank Drop]** `Estimating Individual Tree Height and Species from UAV Imagery`: Rank dropped by -1
+- **[Rank Drop]** `On the Ability of Transformers to Verify Plans`: Rank dropped by -1
+- **[Rank Drop]** `The Truncation Blind Spot: How Decoding Strategies Systematically Exclude Human-Like Token Choices`: Rank dropped by -1
+- **[Rank Drop]** `Learning When to Attend: Conditional Memory Access for Long-Context LLMs`: Rank dropped by -1
+- **[Rank Drop]** `Convergence Rate of a Functional Learning Method for Contextual Stochastic Optimization`: Rank dropped by -1
+- **[Rank Drop]** `Na\"ive PAINE: Lightweight Text-to-Image Generation Improvement with Prompt Evaluation`: Rank dropped by -1
+- **[Rank Drop]** `Coverage-Controlled Preference Mining from Noisy Claim Verification for Evidence-Grounded Generation`: Rank dropped by -1
+- **[Rank Drop]** `SpreadsheetArena: Decomposing Preference in LLM Generation of Spreadsheet Workbooks`: Rank dropped by -1
+- **[Rank Drop]** `Adaptive Entropy-Driven Sensor Selection in a Camera-LiDAR Particle Filter for Single-Vessel Tracking`: Rank dropped by -1
+- **[Rank Drop]** `Local Constrained Bayesian Optimization`: Rank dropped by -1
+- **[Rank Drop]** `Language-Guided Grasping under Partial Observation for Mobile Manipulation in Field Inspection and Maintenance`: Rank dropped by -1
+- **[Rank Drop]** `Deep Generative Spatiotemporal Engression for Probabilistic Forecasting of Epidemics`: Rank dropped by -1
+- **[Rank Drop]** `CN-CBF: Composite Neural Control Barrier Function for Robot Navigation in Dynamic Environments`: Rank dropped by -1
+- **[Rank Drop]** `Multi-Agent Reinforcement Learning for V2X Resource Allocation: Disentangling MARL Challenges Through Benchmarking`: Rank dropped by -1
+- **[Rank Drop]** `BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations`: Rank dropped by -1
+- **[Rank Drop]** `When Rubrics Fail: Error Enumeration as Reward in Reference-Free RL Post-Training for Virtual Try-On`: Rank dropped by -1
+- **[Rank Drop]** `Learning with the Nash-Sutcliffe loss`: Rank dropped by -1
+- **[Rank Drop]** `A short tour of operator learning theory: Convergence rates, statistical limits, and open questions`: Rank dropped by -1
+- **[Rank Drop]** `Compositional Generalization Requires Linear, Orthogonal Representations in Vision Embedding Models`: Rank dropped by -1
+- **[Rank Drop]** `Data Driven Optimization of GPU efficiency for Distributed LLM-Adapter Serving`: Rank dropped by -1
+- **[Rank Drop]** `Enhancing Automatic Chord Recognition via Pseudo-Labeling and Knowledge Distillation`: Rank dropped by -1
+- **[Rank Drop]** `SpectralGCD: Spectral Concept Selection and Cross-modal Representation Learning for Generalized Category Discovery`: Rank dropped by -1
+- **[Rank Drop]** `LGQ: Learnable Geometric Quantization for Image Tokenization`: Rank dropped by -1
+- **[Rank Drop]** `Few-Step Diffusion Language Models via Trajectory Self-Distillation`: Rank dropped by -1
+- **[Rank Drop]** `Scalable Cross-Attention Transformer for Cooperative Multi-AP OFDM Uplink Reception`: Rank dropped by -1
+- **[Rank Drop]** `PCA of probability measures: Sparse and Dense sampling regimes`: Rank dropped by -1
+- **[Rank Drop]** `Spectral Gradient Descent Mitigates Anisotropy-Driven Misalignment: A Case Study in Phase Retrieval`: Rank dropped by -1
+- **[Rank Drop]** `It's all In the (Exponential) Family: An Equivalence between Maximum Likelihood Estimation and Control Variates for Sketching Algorithms`: Rank dropped by -1
+- **[Rank Drop]** `Agentic Very Long Video Understanding`: Rank dropped by -1
+- **[Rank Drop]** `Learning to Optimize by Differentiable Programming`: Rank dropped by -1
+- **[Rank Drop]** `Tracing 3D Anatomy in 2D Strokes: A Multi-Stage Projection Driven Approach to Cervical Spine Fracture Identification`: Rank dropped by -1
+- **[Rank Drop]** `Graph Neural Networks are Heuristics`: Rank dropped by -1
+- **[Rank Drop]** `Motion Attribution for Video Generation`: Rank dropped by -1
+- **[Rank Drop]** `Zero-Shot Distracted Driver Detection via Vision Language Models with Double Decoupling`: Rank dropped by -1
+- **[Rank Drop]** `JADAI: Jointly Amortizing Adaptive Design and Bayesian Inference`: Rank dropped by -1
+- **[Rank Drop]** `TokSuite: Measuring the Impact of Tokenizer Choice on Language Model Behavior`: Rank dropped by -1
+- **[Rank Drop]** `Global universal approximation with Brownian signatures`: Rank dropped by -1
+- **[Rank Drop]** `Parameter Efficient Multimodal Instruction Tuning for Romanian Vision Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Emergence of Nonequilibrium Latent Cycles in Unsupervised Generative Modeling`: Rank dropped by -1
+- **[Rank Drop]** `Is Generation Required for Data-Efficient Perception?`: Rank dropped by -1
+- **[Rank Drop]** `InverseCrafter: Efficient Video ReCapture as a Latent Domain Inverse Problem`: Rank dropped by -1
+- **[Rank Drop]** `Score-Regularized Joint Sampling with Importance Weights for Flow Matching`: Rank dropped by -1
+- **[Rank Drop]** `When is a System Discoverable from Data? Discovery Requires Chaos`: Rank dropped by -1
+- **[Rank Drop]** `SpatialThinker: Reinforcing Scene Graph-Grounded Spatial Reasoning via Dense Rewards`: Rank dropped by -1
+- **[Rank Drop]** `A Provably-Correct and Robust Convex Model for Smooth Separable NMF`: Rank dropped by -1
+- **[Rank Drop]** `Feature weighting for data analysis via evolutionary simulation`: Rank dropped by -1
+- **[Rank Drop]** `MetaCaDI: A Meta-Learning Framework for Causal Discovery from Multiple Environments with Unknown Interventions`: Rank dropped by -1
+- **[Rank Drop]** `UNDREAM: Bridging Differentiable Rendering and Photorealistic Simulation for End-to-end Adversarial Attacks`: Rank dropped by -1
+- **[Rank Drop]** `SilvaScenes: Tree Detection and Species Classification from Under-Canopy Images in Natural Forests`: Rank dropped by -1
+- **[Rank Drop]** `Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation`: Rank dropped by -1
+- **[Rank Drop]** `Verifier-free Test-Time Sampling for Vision-Language-Action Models`: Rank dropped by -1
+- **[Rank Drop]** `MACS: Measurement-Aware Consistency Sampling for Inverse Problems`: Rank dropped by -1
+- **[Rank Drop]** `Activation-Deactivation: A General Framework for Robust Post-hoc Explainable AI`: Rank dropped by -1
+- **[Rank Drop]** `Quantum Variational Activation Functions Empower Kolmogorov-Arnold Networks`: Rank dropped by -1
+- **[Rank Drop]** `On a Geometry of Interbrain Networks`: Rank dropped by -1
+- **[Rank Drop]** `Convergence Analysis of the ProbAbilistic Gradient Estimator Algorithm for Weakly Convex Finite-Sum Optimization`: Rank dropped by -1
+- **[Rank Drop]** `ChainReaction: Causal Chain-Guided Reasoning for Modular and Explainable Causal-Why Video Question Answering`: Rank dropped by -1
+- **[Rank Drop]** `Robust Sparse Bayesian Learning Based on Minimum Error Entropy for Noisy High-Dimensional Brain Activity Decoding`: Rank dropped by -1
+- **[Rank Drop]** `Extending Foundational Monocular Depth Estimators to Fisheye Cameras with Calibration Tokens`: Rank dropped by -1
+- **[Rank Drop]** `Parity-Aware Byte-Pair Encoding: Improving Cross-lingual Fairness in Tokenization`: Rank dropped by -1
+- **[Rank Drop]** `FastCSP: Accelerated Molecular Crystal Structure Prediction with Universal Model for Atoms`: Rank dropped by -1
+- **[Rank Drop]** `The Bayesian Approach to Continual Learning: An Overview`: Rank dropped by -1
+- **[Rank Drop]** `CLEAR: Calibrated Learning for Epistemic and Aleatoric Risk`: Rank dropped by -1
+- **[Rank Drop]** `Semi-parametric Functional Classification via Path Signatures Logistic Regression with Adaptive Order Selection`: Rank dropped by -1
+- **[Rank Drop]** `Context Tuning for In-Context Optimization`: Rank dropped by -1
+- **[Rank Drop]** `Bayesian Invariance Modeling of Multi-Environment Data`: Rank dropped by -1
+- **[Rank Drop]** `Interactive Multi-Objective Probabilistic Preference Learning with Soft and Hard Bounds`: Rank dropped by -1
+- **[Rank Drop]** `Topological data analysis using persistent discrete homology`: Rank dropped by -1
+- **[Rank Drop]** `FuseMamba-VD: Dual Branch VideoMamba with Gated Class Token Fusion for Violence Detection`: Rank dropped by -1
+- **[Rank Drop]** `Improved generalization bounds for binary linear classification via isoperimetry`: Rank dropped by -1
+- **[Rank Drop]** `Quick ViTs: Speeding up Vision Transformers through Equivariance`: Rank dropped by -1
+- **[Rank Drop]** `Towards Understanding Deep Learning Model in Image Recognition via Coverage Test`: Rank dropped by -1
+- **[Rank Drop]** `Neuro-symbolic Weak Supervision: Theory and Semantics`: Rank dropped by -1
+- **[Rank Drop]** `Explainable Bayesian deep learning through input-skip Latent Binary Bayesian Neural Networks`: Rank dropped by -1
+- **[Rank Drop]** `Evolutionary Guided Decoding: Iterative Value Refinement for LLMs`: Rank dropped by -1
+- **[Rank Drop]** `Engineering Carbon Credits Towards A Responsible FinTech Era: The Practices, Implications, and Future`: Rank dropped by -1
+- **[Rank Drop]** `Batch effects can impair federated learning in multi-center omics studies`: Rank dropped by -1
+- **[Rank Drop]** `Inclusive KL Gradient Flows: Otto-Wasserstein, Fisher-Rao-Gaussian, and Local-Estimator Dynamics`: Rank dropped by -1
+- **[Rank Drop]** `Discrete distributions are learnable from metastable samples`: Rank dropped by -1
+- **[Rank Drop]** `Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models`: Rank dropped by -1
+- **[Rank Drop]** `AMT-APC: Automatic Piano Cover by Fine-Tuning an Automatic Music Transcription Model`: Rank dropped by -1
+- **[Rank Drop]** `Improved Finite-Particle Convergence Rates for Stein Variational Gradient Descent`: Rank dropped by -1
+- **[Rank Drop]** `DrugAgent: Reliable Multi-Agent Integration of Conflicting Biomedical Evidence for Drug-Target Interaction Assessment`: Rank dropped by -1
+- **[Rank Drop]** `Granger Causality in Extremes`: Rank dropped by -1
+- **[Rank Drop]** `Learning rate adaptive stochastic gradient descent optimization methods: numerical simulations for deep learning methods for partial differential equations and convergence analyses`: Rank dropped by -1
+- **[Rank Drop]** `Nonparametric Control Koopman Operators`: Rank dropped by -1
+- **[Rank Drop]** `Fortifying Fully Convolutional Generative Adversarial Networks for Image Super-Resolution Using Divergence Measures`: Rank dropped by -1
+- **[Rank Drop]** `CausalChaos! Dataset for Comprehensive Causal Action Question Answering Over Longer Causal Chains Grounded in Dynamic Visual Scenes`: Rank dropped by -1
+- **[Rank Drop]** `Replicability is Asymptotically Free in Multi-armed Bandits`: Rank dropped by -1
+- **[Rank Drop]** `Semidefinite programming relaxations and debiasing for MAXCUT-based clustering`: Rank dropped by -1
+- **[Rank Drop]** `Learning to Visually Connect Actions and their Effects`: Rank dropped by -1
+- **[Rank Drop]** `GestaltMML: Enhancing Rare Genetic Disease Diagnosis through Multimodal Machine Learning Combining Facial Images and Clinical Text`: Rank dropped by -1
+- **[Rank Drop]** `Efficient Cross-Validation for Sparse Linear Regression`: Rank dropped by -1
+- **[Rank Drop]** `Distribution-free Deviation Bounds and The Role of Domain Knowledge in Learning via Model Selection with Cross-validation Risk Estimation`: Rank dropped by -1
+- **[Rank Drop]** `A Transformer-Based Contrastive Learning Approach for Few-Shot Sign Language Recognition`: Rank dropped by -1
+- **[Rank Drop]** `Domain Knowledge-Informed Self-Supervised Representations for Workout Form Assessment`: Rank dropped by -1
+- **[Rank Drop]** `Analytical Standard Errors for Exploratory Factor Solutions`: Rank dropped by -1
+- **[Rank Drop]** `DemoPSD: Disagreement-Modulated Policy Self-Distillation`: Rank dropped by -1
+- **[Rank Drop]** `Online Resource Allocation with Continuous Random Consumption: Regret under Degeneracy`: Rank dropped by -1
+- **[Rank Drop]** `ART for Diffusion Sampling: Continuous-Time Control and Actor-Critic Learning`: Rank dropped by -1
+- **[Rank Drop]** `kNNGuard: Turning LLM Hidden Activations into a Training-Free Configurable Guardrail`: Rank dropped by -1
+- **[Rank Drop]** `A Memory Efficient Unified Algorithm for Online Learning of Linear Dynamical Systems`: Rank dropped by -1
+- **[Rank Drop]** `Predicting Closed-Loop Performance of Latent World Models: Offline Checkpoint Selection for MPC and Model-Based RL Under Non-Markovian Rewards in LunarLander`: Rank dropped by -1
+- **[Rank Drop]** `Spin-Weighted Spherical Harmonics Enable Complete and Scalable $\mathrm{E}(3)$-Equivariant Networks`: Rank dropped by -1
+- **[Rank Drop]** `Generative Model Proposal based Particle Filtering for Data Assimilation`: Rank dropped by -1
+- **[Rank Drop]** `TRIAGE: Role-Typed Credit Assignment for Agentic Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `Curvature-Guided Sheaf Diffusion for Unsupervised Community Detection on Heterophilic Graphs`: Rank dropped by -1
+- **[Rank Drop]** `Golden Hour Divide: Trauma Care Accessibility and Resource Vulnerability in Sri Lanka`: Rank dropped by -1
+- **[Rank Drop]** `NormGuard: Reward-Preserving Norm Constraints in Flow-Matching Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `Heavy-Ball Q-Learning with Residual Weighting Correction`: Rank dropped by -1
+- **[Rank Drop]** `Multipath Adaptive Gated Bottleneck Latent ODE with Raman Data Fusion for Cell Culture Process Forecasting`: Rank dropped by -1
+- **[Rank Drop]** `Hard or Just Unreached? Diagnosing the Sampling Blind Spot in Math-Reasoning Difficulty Estimation`: Rank dropped by -1
+- **[Rank Drop]** `Selecting Samples on Graphs: A Unified Dataset Pruning Framework for Lossless Training Acceleration`: Rank dropped by -1
+- **[Rank Drop]** `PBSD: Privileged Bayesian Self-Distillation for Long-Horizon Credit Assignment`: Rank dropped by -1
+- **[Rank Drop]** `ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion`: Rank dropped by -1
+- **[Rank Drop]** `Pseudospectral Bounds for Transient Amplification in Coupled Gradient Descent`: Rank dropped by -1
+- **[Rank Drop]** `Private and Stable Test-Time Adaptation with Differential Privacy`: Rank dropped by -1
+- **[Rank Drop]** `Automatically Differentiable Nonlinear Tensor Networks (ADNTNs) for Exponential Parameter Compression of Deep Neural Networks`: Rank dropped by -1
+- **[Rank Drop]** `De-attribute to Forget for LLM Unlearning`: Rank dropped by -1
+- **[Rank Drop]** `Prior-Guided Frequency-Calibrated Virtual EEG Channel Inference from Four Frontal Electrodes for Wearable EEG Augmentation`: Rank dropped by -1
+- **[Rank Drop]** `Emergent Semantic Representations in World Models through Physical Interaction without Linguistic Supervision`: Rank dropped by -1
+- **[Rank Drop]** `Learning in Low-Dimensional Subspaces: Orthogonal Bottlenecks for Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `Hidden-State Privacy Has an Empty Middle`: Rank dropped by -1
+- **[Rank Drop]** `CogAdapt: Adapting Clinical ECG Foundation Models for Wearable Cognitive Load Assessment`: Rank dropped by -1
+- **[Rank Drop]** `A 10,000-Year Global Stochastic Tropical Cyclone Catalog with Wind-Dependent Track Transitions (WHITS)`: Rank dropped by -1
+- **[Rank Drop]** `Memisis: Orchestrating and Evaluating Synthetic Data for Tabular Health Datasets`: Rank dropped by -1
+- **[Rank Drop]** `MPINeuralODE: Multiple-Initial-Condition Physics-Informed Neural ODEs for Globally Consistent Dynamical System Learning`: Rank dropped by -1
+- **[Rank Drop]** `A Switching System Theory of Q-Learning with Linear Function Approximation`: Rank dropped by -1
+- **[Rank Drop]** `MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI`: Rank dropped by -1
+- **[Rank Drop]** `Direct Bethe Free Energy Minimization for Bayesian Neural Networks`: Rank dropped by -1
+- **[Rank Drop]** `Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs`: Rank dropped by -1
+- **[Rank Drop]** `How Many Iterations to Jailbreak? Dynamic Budget Allocation for Multi-Turn LLM Evaluation`: Rank dropped by -1
+- **[Rank Drop]** `Uni-OPD: Unifying On-Policy Distillation with a Dual-Perspective Recipe`: Rank dropped by -1
+- **[Rank Drop]** `Instance-Level Costs for Nuanced Classifier Evaluation`: Rank dropped by -1
+- **[Rank Drop]** `DBLP: Phase-Aware Bounded-Loss Transport for Burst-Resilient Distributed ML Training`: Rank dropped by -1
+- **[Rank Drop]** `Incompressible Knowledge Probes: Estimating Black-Box LLM Parameter Counts via Factual Capacity`: Rank dropped by -1
+- **[Rank Drop]** `ML-Guided Primal Heuristics for Mixed Binary Quadratic Programs`: Rank dropped by -1
+- **[Rank Drop]** `Learning Coverage- and Power-Optimal Transmitter Placement from City Maps: A Comparative Study of Direct and Indirect Neural Approaches`: Rank dropped by -1
+- **[Rank Drop]** `Test-Time Adaptation for EEG Foundation Models: A Systematic Study under Real-World Distribution Shifts`: Rank dropped by -1
+- **[Rank Drop]** `OC-Distill: Ontology-aware Contrastive Learning with Cross-Modal Distillation for ICU Risk Prediction`: Rank dropped by -1
+- **[Rank Drop]** `Unveiling Stochasticity: Universal Multi-modal Probabilistic Modeling for Traffic Forecasting`: Rank dropped by -1
+- **[Rank Drop]** `A Complete Symmetry Classification of Shallow ReLU Networks`: Rank dropped by -1
+- **[Rank Drop]** `When Can You Poison Rewards? A Tight Characterization of Reward Poisoning in Linear MDPs`: Rank dropped by -1
+- **[Rank Drop]** `Unsupervised Behavioral Compression: Learning Low-Dimensional Policy Manifolds through State-Occupancy Matching`: Rank dropped by -1
+- **[Rank Drop]** `i-IF-Learn: Iterative Feature Selection and Unsupervised Learning for High-Dimensional Complex Data`: Rank dropped by -1
+- **[Rank Drop]** `From Arithmetic to Logic: The Resilience of Logic and Lookup-Based Neural Networks Under Parameter Bit-Flips`: Rank dropped by -1
+- **[Rank Drop]** `Generative Inverse Design with Abstention via Diagonal Flow Matching`: Rank dropped by -1
+- **[Rank Drop]** `Effective Distillation to Hybrid xLSTM Architectures`: Rank dropped by -1
+- **[Rank Drop]** `Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks`: Rank dropped by -1
+- **[Rank Drop]** `Trust-Region Noise Search for Black-Box Alignment of Diffusion and Flow Models`: Rank dropped by -1
+- **[Rank Drop]** `Lipschitz-Based Robustness Certification Under Floating-Point Execution`: Rank dropped by -1
+- **[Rank Drop]** `Disentangled Latent Dynamics Manifold Fusion for Solving Parameterized PDEs`: Rank dropped by -1
+- **[Rank Drop]** `Language Generation with Replay: A Learning-Theoretic View of Model Collapse`: Rank dropped by -1
+- **[Rank Drop]** `Deep Learning Network-Temporal Models For Traffic Prediction`: Rank dropped by -1
+- **[Rank Drop]** `Safe RLHF Beyond Expectation: Stochastic Dominance for Universal Spectral Risk Control`: Rank dropped by -1
+- **[Rank Drop]** `A Hybrid Quantum Circuit Born Machine Framework for Financial Volatility Forecasting: Quantum-Assisted Training and Classical Inference`: Rank dropped by -1
+- **[Rank Drop]** `TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables`: Rank dropped by -1
+- **[Rank Drop]** `Asymptotic Behavior of Multi--Task Learning: Implicit Regularization and Double Descent Effects`: Rank dropped by -1
+- **[Rank Drop]** `GIPO: Gaussian Importance Sampling Policy Optimization`: Rank dropped by -1
+- **[Rank Drop]** `ParEVO: Synthesizing Code for Irregular Data: High-Performance Parallelism through Agentic Evolution`: Rank dropped by -1
+- **[Rank Drop]** `Decentralized Federated Learning by Partial Message Exchange`: Rank dropped by -1
+- **[Rank Drop]** `OSF: On Pre-training and Scaling of Sleep Foundation Models`: Rank dropped by -1
+- **[Rank Drop]** `Causal Mechanism Reduction: Mechanism Replacement for Neural Network Pruning and Abstraction`: Rank dropped by -1
+- **[Rank Drop]** `Agentic AI-RAN: Enabling Intent-Driven, Explainable and Self-Evolving Open RAN Intelligence`: Rank dropped by -1
+- **[Rank Drop]** `QEDBENCH: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs`: Rank dropped by -1
+- **[Rank Drop]** `Incremental Learning of Sparse Attention Patterns in Transformers`: Rank dropped by -1
+- **[Rank Drop]** `Gradient Regularization Mitigates Reward Hacking in Reinforcement Learning from Human Feedback and Verifiable Rewards`: Rank dropped by -1
+- **[Rank Drop]** `MARS: Margin and Semantic-Aware Data Augmentation for Reward Modeling`: Rank dropped by -1
+- **[Rank Drop]** `Efficient privacy loss accounting for subsampling and random allocation`: Rank dropped by -1
+- **[Rank Drop]** `Learning on the Manifold: Unlocking Standard Diffusion Transformers with Representation Encoders`: Rank dropped by -1
+- **[Rank Drop]** `Learning to Discover Iterative Spectral Algorithms`: Rank dropped by -1
+- **[Rank Drop]** `DynamiQ: Accelerating Gradient Synchronization using Compressed Multi-hop All-reduce`: Rank dropped by -1
+- **[Rank Drop]** `rePIRL: Learn PRM with Inverse RL for LLM Reasoning`: Rank dropped by -1
+- **[Rank Drop]** `Deriving Neural Scaling Laws from the statistics of natural language`: Rank dropped by -1
+- **[Rank Drop]** `Scalable Dexterous Robot Learning with AR-based Remote Human-Robot Interactions`: Rank dropped by -1
+- **[Rank Drop]** `Endogenous Resistance to Activation Steering in Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Multi-Way Representation Alignment`: Rank dropped by -1
+- **[Rank Drop]** `Variational Sparse Paired Autoencoders (vsPAIR) for Inverse Problems and Uncertainty Quantification`: Rank dropped by -1
+- **[Rank Drop]** `A Random Matrix Theory Perspective on the Consistency of Diffusion Models`: Rank dropped by -1
+- **[Rank Drop]** `Self-Supervised Learning from Structural Invariance`: Rank dropped by -1
+- **[Rank Drop]** `Explicit Credit Assignment through Local Rewards and Dependence Graphs in Multi-Agent Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `CLEANER: Self-Purified Trajectories Boost Agentic Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `R$^2$PO: Decoupling Rollout and Inference Policies for LLM Reasoning`: Rank dropped by -1
+- **[Rank Drop]** `ARCQuant: Boosting NVFP4 Quantization with Augmented Residual Channels for LLMs`: Rank dropped by -1
+- **[Rank Drop]** `Prior Diffusiveness and Regret in the Linear-Gaussian Bandit`: Rank dropped by -1
+- **[Rank Drop]** `Gradient Descent as Implicit EM in Distance-Based Neural Models`: Rank dropped by -1
+- **[Rank Drop]** `EvoXplain: When Machine Learning Models Agree on Predictions but Disagree on Why -- Measuring Mechanistic Multiplicity Across Training Runs`: Rank dropped by -1
+- **[Rank Drop]** `Out-of-Distribution Detection in Molecular Complexes via Diffusion Models for Irregular Graphs`: Rank dropped by -1
+- **[Rank Drop]** `Shapley-based Data Valuation for LLM Alignment via Sequential Preference Optimization`: Rank dropped by -1
+- **[Rank Drop]** `Adaptive Partitioning and Learning for Stochastic Control of Diffusion Processes`: Rank dropped by -1
+- **[Rank Drop]** `CLARITY: Medical World Model for Guiding Treatment Decisions by Modeling Context-Aware Disease Trajectories in Latent Space`: Rank dropped by -1
+- **[Rank Drop]** `Exploring the Rashomon Set for Concept-Based Models`: Rank dropped by -1
+- **[Rank Drop]** `Closing Gaps in Emissions Monitoring with Climate TRACE`: Rank dropped by -1
+- **[Rank Drop]** `KAN vs LSTM Performance in Time Series Forecasting`: Rank dropped by -1
+- **[Rank Drop]** `Equivalence of Context and Parameter Updates in Modern Transformer Blocks`: Rank dropped by -1
+- **[Rank Drop]** `Walrus: A Cross-Domain Foundation Model for Continuum Dynamics`: Rank dropped by -1
+- **[Rank Drop]** `Recursive Entropic Variational Inference for Nonlinear State-Space Models`: Rank dropped by -1
+- **[Rank Drop]** `Transformer-Based Multi-Agent Reinforcement Learning for Networked Systems with Long-Range Interactions`: Rank dropped by -1
+- **[Rank Drop]** `Can Stationary Distributions of Scale-Invariant Neural Networks Be Described by the Thermodynamics of an Ideal Gas?`: Rank dropped by -1
+- **[Rank Drop]** `QiVC-Net: Quantum-Inspired Variational Convolutional Network, with Application to Biosignal Classification`: Rank dropped by -1
+- **[Rank Drop]** `PuzzleMoE: Efficient Compression of Large Mixture-of-Experts Models via Sparse Expert Merging and Bit-packed inference`: Rank dropped by -1
+- **[Rank Drop]** `Uncertainty Quantification for Regression: A Unified Framework based on kernel scores`: Rank dropped by -1
+- **[Rank Drop]** `Machine Learning Guided Optimal Transmission Switching to Mitigate Wildfire Ignition Risk`: Rank dropped by -1
+- **[Rank Drop]** `APEX: Approximate-but-exhaustive search for ultra-large combinatorial synthesis libraries`: Rank dropped by -1
+- **[Rank Drop]** `Learning to Reason Efficiently with Discounted Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `A Model Can Help Itself: Reward-Free Self-Training for LLM Reasoning`: Rank dropped by -1
+- **[Rank Drop]** `Conditional Clifford-Steerable CNNs for PDE Modeling`: Rank dropped by -1
+- **[Rank Drop]** `Batched Bandits with Heavy-Tailed Rewards`: Rank dropped by -1
+- **[Rank Drop]** `Octax: Accelerated CHIP-8 Arcade Environments for Reinforcement Learning in JAX`: Rank dropped by -1
+- **[Rank Drop]** `The Three Regimes of Offline-to-Online Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `Panorama: Fast-Track Nearest Neighbors`: Rank dropped by -1
+- **[Rank Drop]** `Adaptive Margin RLHF via Preference over Preferences`: Rank dropped by -1
+- **[Rank Drop]** `Self-Improving Neural-Guided Pruning: A Graph Neural Network Framework for Scalable Mixed Bundle Pricing`: Rank dropped by -1
+- **[Rank Drop]** `Towards a more realistic evaluation of machine learning models for bearing fault diagnosis`: Rank dropped by -1
+- **[Rank Drop]** `Trajectory-Aware Information Matching for Multi-Step Gradient Inversion in Federated Learning`: Rank dropped by -1
+- **[Rank Drop]** `ICR-RL: Deep Reinforcement Learning via In-Context Regression`: Rank dropped by -1
+- **[Rank Drop]** `Self-Supervised Goal-Reaching Results in Multi-Agent Cooperation and Exploration`: Rank dropped by -1
+- **[Rank Drop]** `Convergence of Stochastic Gradient Methods for Wide Two-Layer Physics-Informed Neural Networks for the Poisson Equation`: Rank dropped by -1
+- **[Rank Drop]** `Sequential Cohort Selection under Uncertainty`: Rank dropped by -1
+- **[Rank Drop]** `DynamixSFT: Dynamic Mixture Optimization of Instruction Tuning Collections`: Rank dropped by -1
+- **[Rank Drop]** `GlaBoost: A Multimodal Structured Framework for Glaucoma Risk Stratification`: Rank dropped by -1
+- **[Rank Drop]** `PLoRA: Efficient Concurrent LoRA Training for Large Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Toward Efficient Uncertainty in LLMs through Evidential Knowledge Distillation`: Rank dropped by -1
+- **[Rank Drop]** `Towards Mitigation of Hallucination for LLM-empowered Agents: Progressive Generalization Bound Exploration and Watchdog Monitor`: Rank dropped by -1
+- **[Rank Drop]** `Last Layer Hamiltonian Monte Carlo`: Rank dropped by -1
+- **[Rank Drop]** `Position: Use Sparse Autoencoders to Discover Unknowns`: Rank dropped by -1
+- **[Rank Drop]** `Counterfactual Operator Relevance for PDE Discovery: Screening, Pruning, and Identifiability`: Rank dropped by -1
+- **[Rank Drop]** `Local Learning Rules for Out-of-Equilibrium Physical Generative Models`: Rank dropped by -1
+- **[Rank Drop]** `Tight Stability Bounds for Robust Distributed Learning: Byzantine Failures Hurt Generalization More than Data Poisoning`: Rank dropped by -1
+- **[Rank Drop]** `Interpretability and Generalization Bounds for Learning Spatial Physics`: Rank dropped by -1
+- **[Rank Drop]** `Chasing Moving Targets with Online Self-Play Reinforcement Learning for Safer Language Models`: Rank dropped by -1
+- **[Rank Drop]** `InverseScope: Scalable Activation Inversion for Interpreting Large Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Ensemble Elastic DQN: A Step Dependent Ensemble Approach for Reducing Overestimation in Deep Value-Based Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `Boosting Automatic Exercise Evaluation Through Musculoskeletal Simulation-Based IMU Data Augmentation`: Rank dropped by -1
+- **[Rank Drop]** `PDFBench: A Benchmark for De novo Protein Design from Function`: Rank dropped by -1
+- **[Rank Drop]** `An Axiomatic Assessment of Entropy- and Variance-based Uncertainty Quantification in Regression`: Rank dropped by -1
+- **[Rank Drop]** `FLASH: Flexible Learning of Adaptive Sampling from History in Temporal Graph Neural Networks`: Rank dropped by -1
+- **[Rank Drop]** `A Survey of Reinforcement Learning-Based Motion Planning for Autonomous Driving: Lessons Learned from a Driving Task Perspective`: Rank dropped by -1
+- **[Rank Drop]** `Cohort-attention Evaluation Metrics for Tied Data`: Rank dropped by -1
+- **[Rank Drop]** `Using Mechanistic Interpretability to Craft Adversarial Attacks against Large Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Machine Unlearning via Information Theoretic Regularization`: Rank dropped by -1
+- **[Rank Drop]** `Robust Counterfactual Explanations under Model Multiplicity Using Multi-Objective Optimization`: Rank dropped by -1
+- **[Rank Drop]** `Stroke Prediction using Clinical and Social Features in Machine Learning`: Rank dropped by -1
+- **[Rank Drop]** `GDBR: Label Recovery Attack Against Partial Gradient Encryption in Federated Learning`: Rank dropped by -1
+- **[Rank Drop]** `The Method of Gaps: Exact Expressions for the Generalization Error of Supervised Learning Algorithms`: Rank dropped by -1
+- **[Rank Drop]** `VLMGuard: Bootstrapping Malicious Prompt Detectors from Unlabeled Vision-Language Prompts in the Wild`: Rank dropped by -1
+- **[Rank Drop]** `Training Verifiably Robust Agents Using Set-Based Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `MambaCapsule: Towards Transparent Cardiac Disease Diagnosis with Electrocardiography Using Mamba Capsule Network`: Rank dropped by -1
+- **[Rank Drop]** `On Regularization via Early Stopping for Least Squares Regression`: Rank dropped by -1
+- **[Rank Drop]** `Hierarchical Bayesian Crowdsourcing with Item Difficulty`: Rank dropped by -1
+- **[Rank Drop]** `Graph Unitary Message Passing`: Rank dropped by -1
+- **[Rank Drop]** `TERC: A Transfer Entropy Redundancy Criterion for State Variable Selection in Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `Interpretable factorization of clinical questionnaires to identify latent factors of psychopathology`: Rank dropped by -1
+- **[Rank Drop]** `DIRA-SS:Dynamic Domain Incremental Regularised Adaptation -- Self-Supervised`: Rank dropped by -1
+- **[Rank Drop]** `Unveiling the Unborn: Advancing Fetal Health Classification through Machine Learning`: Rank dropped by -1
+- **[Rank Drop]** `Proportionally Representative Clustering`: Rank dropped by -1
+- **[Rank Drop]** `A Bayesian Approach for the Network Reconstruction of Interdependent Critical Infrastructure Systems from Cascading Failures`: Rank dropped by -1
+- **[Rank Drop]** `From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model`: Rank dropped by -1
+- **[Rank Drop]** `Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification`: Rank dropped by -1
+- **[Rank Drop]** `LLM-as-a-Verifier: A General-Purpose Verification Framework`: Rank dropped by -1
+- **[Rank Drop]** `Fitted Occupancy-Ratio Evaluation without Bellman Completeness`: Rank dropped by -1
+- **[Rank Drop]** `GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks`: Rank dropped by -1
+- **[Rank Drop]** `Faithfulness to Refusal: A Causal Audit of Neuron Selectors`: Rank dropped by -1
+- **[Rank Drop]** `Selective Disclosure Watermarking for Large Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Multiplayer Interactive World Models with Representation Autoencoders`: Rank dropped by -1
+- **[Rank Drop]** `Shape Over Intensity: Directional Topological Encoding for False Positive Reduction in Intracranial Aneurysm Detection`: Rank dropped by -1
+- **[Rank Drop]** `How Much is Left? LLMs Linearly Encode Their Remaining Output Length`: Rank dropped by -1
+- **[Rank Drop]** `Quantum Spectral Anomaly Detection`: Rank dropped by -1
+- **[Rank Drop]** `Wavelet Scattering Transform for Interpretable Schizophrenia Biomarker Discovery and Classification from Resting-State EEG`: Rank dropped by -1
+- **[Rank Drop]** `Routing Anonymity and Identifiability of Noisy Quantum Hardware`: Rank dropped by -1
+- **[Rank Drop]** `Untrusted Content Masking for Web Agents with Security Guarantees`: Rank dropped by -1
+- **[Rank Drop]** `Is the Geometry Doing the Work? An Operating-Point Audit of Hierarchy in Hyperbolic Vision-Language Models`: Rank dropped by -1
+- **[Rank Drop]** `SalAngaBhava: A Sinhala Market Dataset for Aspect-based Sentiment Analysis`: Rank dropped by -1
+- **[Rank Drop]** `Privacy-Preserving Robustness Verification for Neural Networks`: Rank dropped by -1
+- **[Rank Drop]** `Optimizing ML Workload Partitioning between CPUs and CIM Accelerators for Heterogeneous Computing`: Rank dropped by -1
+- **[Rank Drop]** `msPCA: An R Package for Sparse PCA with Multiple Components`: Rank dropped by -1
+- **[Rank Drop]** `Probing Geospatial SSL Representations with Environmental Signals`: Rank dropped by -1
+- **[Rank Drop]** `Unified Audio Intelligence Without Regressing on Text Intelligence`: Rank dropped by -1
+- **[Rank Drop]** `Rethinking On-Policy Self-Distillation for Thinking Models`: Rank dropped by -1
+- **[Rank Drop]** `EdgeBench: Unveiling Scaling Laws of Learning from Real-World Environments`: Rank dropped by -1
+- **[Rank Drop]** `Geometric Causal Models`: Rank dropped by -1
+- **[Rank Drop]** `Physically-Relevant Information Learning in High-Dimensional Time-Derivatives Spaces`: Rank dropped by -1
+- **[Rank Drop]** `Beyond Independent Labels: Schwartz-Geometry Decoding for Human Value Detection`: Rank dropped by -1
+- **[Rank Drop]** `Knowledge Knows, Verbalization Tells: Disentangling Latent Directions for Mathematical Solvability in LLMs`: Rank dropped by -1
+- **[Rank Drop]** `TACTIC-KG: Toward Small Agent Teams for Cyber Threat Intelligence Knowledge Graph Construction`: Rank dropped by -1
+- **[Rank Drop]** `Canonical quantization of neurons`: Rank dropped by -1
+- **[Rank Drop]** `LLM for the development of FCM`: Rank dropped by -1
+- **[Rank Drop]** `Joint Velocity Slope Diffusion Prior for Structurally Constrained Velocity Model Building`: Rank dropped by -1
+- **[Rank Drop]** `Graph Representation Learning of Longitudinal Medical Imaging Trajectories for Treatment Response Prediction`: Rank dropped by -1
+- **[Rank Drop]** `Unsupervised Detection of Underground Tunnels in Ground-Penetrating Radar Using Depth-Restricted Reconstruction Scoring`: Rank dropped by -1
+- **[Rank Drop]** `SleepBand: Single-Source Domain Generalization for Sleep Staging via Physiologically Structured Spectral Modeling`: Rank dropped by -1
+- **[Rank Drop]** `Context-Constrained Transfer Learning for Tabular Foundation Models via Data Distillation`: Rank dropped by -1
+- **[Rank Drop]** `Non-Asymptotic Error Bounds for SMC with Biased Proposals: Application to Conditional Diffusion Sampling`: Rank dropped by -1
+- **[Rank Drop]** `Non-asymptotic Convergence of Stochastic Gradient Descent in Score-based Generative Models`: Rank dropped by -1
+- **[Rank Drop]** `Wasserstein Residuals: Learning Gradient Flows from Population Dynamics`: Rank dropped by -1
+- **[Rank Drop]** `Identifiability of Relational Queries in Multi-View Pretraining`: Rank dropped by -1
+- **[Rank Drop]** `LP-SFT: Local-Preserving Supervised Fine-Tuning via Multimodal Entropy Structure`: Rank dropped by -1
+- **[Rank Drop]** `Turning Off-Policy Tokens On-Policy: A Plug-in Approach for Improving LLM Alignment`: Rank dropped by -1
+- **[Rank Drop]** `What You See Is What You Get: Observation-Aligned Supervision for Chart-to-Code Generation`: Rank dropped by -1
+- **[Rank Drop]** `PAST-TIDE: Prototype-Anchored Statement Tuning with Topic-Invariant Normalization for Stance Detection`: Rank dropped by -1
+- **[Rank Drop]** `GlaKG: A Biomarker-Centric Fundus Knowledge Graph for Explainable Glaucoma Diagnosis and Risk Assessment`: Rank dropped by -1
+- **[Rank Drop]** `Decomposition for Bayesian Networks: Local and Parallel Inference`: Rank dropped by -1
+- **[Rank Drop]** `Integrating Neural Encoders in Bayesian Generalized Linear Mixed Models for Multimodal Data`: Rank dropped by -1
+- **[Rank Drop]** `Retroactive Chain-of-Thought (RetroCoT): Forensic Reconstruction Prompts as a Safety Diagnostic Across Model Generations`: Rank dropped by -1
+- **[Rank Drop]** `Breaking the One-Dimensional Expressibility-Trainability Tradeoff`: Rank dropped by -1
+- **[Rank Drop]** `MTEB-BR: A Text Embedding Benchmark for Brazilian Portuguese`: Rank dropped by -1
+- **[Rank Drop]** `Detecting Answer-Driven Reasoning in LLM-Based Educational Tutors via Truncated Chain-of-Thought Auditing`: Rank dropped by -1
+- **[Rank Drop]** `EEG-SpikeAgent: Agentic Closed-Loop Program Synthesis for Automated EEG Spike Detection`: Rank dropped by -1
+- **[Rank Drop]** `Mask2Real-WM: Segmentation Masks as a Sim-to-Real Bridge for Controllable Dexterous World Models`: Rank dropped by -1
+- **[Rank Drop]** `CRISP: A Spatiotemporal Camera-Radar Backbone for Driving via Forecasting-Based World-Model Pretraining`: Rank dropped by -1
+- **[Rank Drop]** `Causal ASCEND: Scalable Two-tier Causal Discovery on High Dimensional Multi-omics Data`: Rank dropped by -1
+- **[Rank Drop]** `Boundary-layer asymptotics for Gaussian-smoothed singular measures`: Rank dropped by -1
+- **[Rank Drop]** `Constrained Flow Matching via Lagrangian Dual Flows`: Rank dropped by -1
+- **[Rank Drop]** `Transplanting, inverting, and preventing a misalignment persona: method-conditional emergent misalignment in Qwen2.5`: Rank dropped by -1
+- **[Rank Drop]** `From Interaction to Intent: Inferring User Objectives from Provenance Logs`: Rank dropped by -1
+- **[Rank Drop]** `PulmoSight-XAI: An Explainable Multi-View Attention Ensemble with Gradient Boosting Meta-Learning for Multi-Label Chest X-Ray Classification`: Rank dropped by -1
+- **[Rank Drop]** `Weakly Guided and Autoregressive Beamformer Parameterization for Generalizable Moving Speaker Extraction in Higher-Order Ambisonics`: Rank dropped by -1
+- **[Rank Drop]** `Fields of the Planet: Field Boundary Mapping Beyond 10m`: Rank dropped by -1
+- **[Rank Drop]** `Wan-Streamer v0.2: Higher Resolution, Same Latency`: Rank dropped by -1
+- **[Rank Drop]** `Tightening the Score Matching Gap for Diffusion Models`: Rank dropped by -1
+- **[Rank Drop]** `On Pairwise Quantile Regression -- Statistical Guarantees and Applications`: Rank dropped by -1
+- **[Rank Drop]** `UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning`: Rank dropped by -1
+- **[Rank Drop]** `Quadrature-Aware Complex-Linear Neural Operator for Boundary-to-Field Prediction in Resonant Acoustics`: Rank dropped by -1
+- **[Rank Drop]** `The Good, the Bad, and the Brittle: Benchmarking Robustness and Generalisation of Histopathology Foundation Models`: Rank dropped by -1
+- **[Rank Drop]** `Optimal Mixture-of-Experts Model Averaging for Conditional Generative Models`: Rank dropped by -1
+- **[Rank Drop]** `Server-side Anti-cheat in FPS games for Aimbot detection using Deep learning and Machine learning`: Rank dropped by -1
+- **[Rank Drop]** `Legible-by-Construction: Attention and End-to-End Transformers`: Rank dropped by -1
+- **[Rank Drop]** `Fixed-Confidence Best-Arm Identification for Causal Mediation Analysis`: Rank dropped by -1
+- **[Rank Drop]** `CausalGame: Benchmarking Causal Thinking of LLM Agents in Games`: Rank dropped by -1
+- **[Rank Drop]** `Deep Learning for Dynamic Programming with Recursive Utility`: Rank dropped by -1
+- **[Rank Drop]** `Air-Plan: Query-Optimized Topology Selection for Over-the-Air Decentralized Federated Learning`: Rank dropped by -1
+- **[Rank Drop]** `Hierarchical Multi-to-Single-Modal Knowledge Distillation for Disruption Prediction in EAST`: Rank dropped by -1
+- **[Rank Drop]** `Robust Bayes-Assisted Conformal Prediction`: Rank dropped by -1
+- **[Rank Drop]** `Unified convergence analysis for gradient descent optimization methods in the training of deep neural networks`: Rank dropped by -1
+- **[Rank Drop]** `AI-RAN on NPUs: Baseband Processing Without Baseband Chips`: Rank dropped by -1
+- **[Rank Drop]** `Detecting Hallucinations in Retrieval-Augmented Generation through Grounding-Aware Sensitivity by Perturbation (GASP)`: Rank dropped by -1
+- **[Rank Drop]** `Sangam: Efficiently Serving Diffusion LLMs with the AR Stack`: Rank dropped by -1
+- **[Rank Drop]** `A Clustering-Based Framework for Identifying Suspicious Trading Patterns in Capital Market`: Rank dropped by -1
+- **[Rank Drop]** `XS-VLA: Coupling Coarse-grained Spatial Distillation with Latent Flow Matching for Lightweight Robotic Control`: Rank dropped by -1
+- **[Rank Drop]** `ACE: Agentic Control for Embodied Manipulation via Zero-shot Workflow Reasoning`: Rank dropped by -1
+- **[Rank Drop]** `!Imperio, smolVLA: The Implications of Data Poisoning on Open Source Robotics`: Rank dropped by -1
+- **[Rank Drop]** `Governing Generative AI Across Financial Institutions: A Framework for Generative AI Risk Control`: Rank dropped by -1
+- **[Rank Drop]** `Seeing Once is Enough? Online Geometry-Aware Token Pruning for 3D Question Answering`: Rank dropped by -1
+- **[Rank Drop]** `Beyond Multilingual Averages: MTEB-PT, a Benchmark for Portuguese Sentence Encoders`: Rank dropped by -1
+- **[Rank Drop]** `Fast, Parallel, Query-Efficient Binary Classification`: Rank dropped by -1
+- **[Rank Drop]** `Telescope: Improving Zero Shot Detection of LLM Generated Content By Measuring Token Repetition Probability`: Rank dropped by -1
+- **[Rank Drop]** `A Policy Decomposition Framework for Dynamic Order Fulfillment Operations`: Rank dropped by -1
+- **[Rank Drop]** `Efficient Discovery of Conditional Dependencies with Desbordante`: Rank dropped by -1
+- **[Rank Drop]** `Explainable AI for Screening Abuse-Related Trauma in Bangladeshi Children: A Training-Free Multimodal Framework Evaluated on Noise-Aware Synthetic Data`: Rank dropped by -1
+- **[Rank Drop]** `Significance-First Splitting: Aligning Treatment Heterogeneity Detection with Honest Estimation`: Rank dropped by -1
+- **[Rank Drop]** `Cross-Modal Fusion of OCT and OCT angiography enface for Improved Diagnostics of Diabetic Retinopathy`: Rank dropped by -1
+- **[Rank Drop]** `TESSERA v2: Scaling Pixel-wise Earth Foundation Models`: Rank dropped by -1
+- **[Rank Drop]** `Online Linear Programming for Multi-Objective Routing in LLM Serving`: Rank dropped by -1
+- **[Rank Drop]** `Probe, Don't Prompt: A Hidden-State Probe for Metadata Filtering in Multi-Meta-RAG`: Rank dropped by -1
+- **[Rank Drop]** `USE: A Unified Self-Ensembling Framework for Test-Time Prompt Tuning`: Rank dropped by -1
+- **[Rank Drop]** `Smooth $\%$MinMax: A Differentiable Relaxation for Codon Harmonization`: Rank dropped by -1
+- **[Rank Drop]** `Evaluating LLM Uncertainty in Long-Form Generation Using Deterministic Ground Truth`: Rank dropped by -1
+- **[Rank Drop]** `Weave: Verified Netlist-to-Schematic Conversion via Layered Graph Layout`: Rank dropped by -1
+- **[Rank Drop]** `A simplex-based measure of symmetry`: Rank dropped by -1
+- **[Rank Drop]** `TSP with Predictions: Heatmap to Tour with Provable Guarantees`: Rank dropped by -1
+- **[Rank Drop]** `Self-Improving Diffusion Classifiers with Minority Preference Optimization`: Rank dropped by -1
+- **[Rank Drop]** `Explainable Reinforcement Learning for Adaptive Traffic Signal Control`: Rank dropped by -1
+- **[Rank Drop]** `SABLE: An NDA-Safe Closed-Loop LLM Framework for Analog Circuit Optimization in Industrial EDA Flows`: Rank dropped by -1
+- **[Rank Drop]** `Don't Blame the Large Language Model: How Scaffolding Evolution Shapes Coding Agent Quality`: Rank dropped by -1
+- **[Rank Drop]** `LRX-PINN: A Layer-Resolving XNet Physics-Informed Neural Network with Integrated Cauchy Activations for Convection-Dominated Problems`: Rank dropped by -1
+- **[Rank Drop]** `Diffusion learning reveals viable parameter manifolds and compensation geometry in biological dynamical systems`: Rank dropped by -1
+- **[Rank Drop]** `Sequential Correlations Change In-Context Learning: Effective Context Length and Architectural Mismatch`: Rank dropped by -1
+- **[Rank Drop]** `ThreatVisionAI: A Hybrid CNN-ViT Framework for Image-Based Malware Classification`: Rank dropped by -1
+- **[Rank Drop]** `Missing Data Imputation under Manifold Hypothesis`: Rank dropped by -1
+- **[Rank Drop]** `Revealing Hidden Model Behaviors with Task-Specific Self-Reports`: Rank dropped by -1
+- **[Rank Drop]** `RADIO1D: Elastic Representations for Condensed Vision Modeling`: Rank dropped by -1
+- **[Rank Drop]** `SAF3R: Dynamic Sparse Attention for Feed-Forward 3D Reconstruction Transformers`: Rank dropped by -1
+- **[Rank Drop]** `They Infer What You Meant: Models Represent Communicative Intent More Reliably Than They Act On It`: Rank dropped by -1
+- **[Rank Drop]** `How to Avoid Debate: Scalable AI Safety via Doubly-Efficient Interactive Proofs`: Rank dropped by -1
+- **[Rank Drop]** `Latent Clarity: Bridging World-Model Kinematics to Semantic Manifolds for Video Anomaly Anticipation`: Rank dropped by -1
+- **[Rank Drop]** `Relevance-Based Embeddings: Lightweight Candidate Retrieval via Heavy-Ranker Calls`: Rank dropped by -1
+- **[Rank Drop]** `AquaGen: Scaling generative models to molecular dynamics precision on thousands of atoms`: Rank dropped by -1
+- **[Rank Drop]** `Reading Between the Dots: Decoding Hidden Computation across Filler Tokens`: Rank dropped by -1
+- **[Rank Drop]** `CaresAI at SMM4H-HeaRD 2026: Predicting TNM Staging`: Rank dropped by -1
+- **[Rank Drop]** `WorldBagel: Uncovering the Power of Unified Multimodal Models for Vision-Language-Action-World Modeling`: Rank dropped by -1
+- **[Rank Drop]** `ADP: Adversarial Dynamics Priors for Physically Grounded Humanoid Locomotion`: Rank dropped by -1
+- **[Rank Drop]** `SkillOpt-Lite: Better and Faster Agent Self-evolution via One Line of Vibe`: Rank dropped by -1
+- **[Rank Drop]** `From Mobile Data to Business Insights: An End-to-End Analytics Framework for Large-Scale Urban Mobility Analysis and Decision Support`: Rank dropped by -1
+- **[Rank Drop]** `Scalable Differentially Private Data Compression via Diffusion and Stochastic Codes`: Rank dropped by -1
+- **[Rank Drop]** `When Aggregate Alignment Misleads: Auditing Policy Repair Without Per-State Expert Actions`: Rank dropped by -1
+- **[Rank Drop]** `A Hierarchy of Policy Learning Problems`: Rank dropped by -1
+- **[Rank Drop]** `CaSPECT: Discovering Causally Homogeneous Subgroups via Directed Spectral Clustering`: Rank dropped by -1
+- **[Rank Drop]** `Pathways of Visual Information Flow in Vision-Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Efficient Decentralized Multi-task Dataset Valuation via Model Merging`: Rank dropped by -1
+- **[Rank Drop]** `SPORK: Self-Speculative Forking to Accelerate Agentic LLM Inference`: Rank dropped by -1
+- **[Rank Drop]** `Adaptive Loss Balancing for Multi-Task Bioacoustic Classification of Bird Species and Call Types`: Rank dropped by -1
+- **[Rank Drop]** `Piecewise Dynamic Diffusion Regularization for Reconstruction of Cardiac Cine MRI`: Rank dropped by -1
+- **[Rank Drop]** `Taste-aware music retrieval from audio embeddings`: Rank dropped by -1
+- **[Rank Drop]** `Complexity of Normalized Persistence Problems for Topological Data Analysis and Local Hamiltonians`: Rank dropped by -1
+- **[Rank Drop]** `Deriving Benchmarking Datasets from Long-Form Recordings: Challenges and Opportunities`: Rank dropped by -1
+- **[Rank Drop]** `Seeing Through WiFi: Lightweight Human Pose Estimation with Dynamic Kernel Attention`: Rank dropped by -1
+- **[Rank Drop]** `Self-Specializing Vision-Language Transmon Chip Calibration in a Physics-Grounded Environment`: Rank dropped by -1
+- **[Rank Drop]** `Scalable Maximal Frequent Episode Mining with Desbordante`: Rank dropped by -1
+- **[Rank Drop]** `Quantum Kolmogorov--Arnold representation theorem for continuous unitary-valued maps`: Rank dropped by -1
+- **[Rank Drop]** `CRRL: A Causality-Based Reinforcement Learning Framework for Autonomous System Recovery`: Rank dropped by -1
+- **[Rank Drop]** `Entropy Regularization Improves Policy Robustness in Continuous-Time Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `KARMA: Knowledge graph-based Automated Reasoning Materialization and Alignment`: Rank dropped by -1
+- **[Rank Drop]** `Denoised Conformal Alignment for Reliable Selection of Conditional Average Treatment Effect Predictions`: Rank dropped by -1
+- **[Rank Drop]** `Which Algorithm Specification Formats Help Language Models Implement Machine Learning Algorithms?`: Rank dropped by -1
+- **[Rank Drop]** `An Intervention-Based Framework for Shortcut Diagnosis in Spoofing Countermeasures`: Rank dropped by -1
+- **[Rank Drop]** `Open-Set Source Tracing as Compositional Factors via Structured Prototypes`: Rank dropped by -1
+- **[Rank Drop]** `Vidu S1: A Real-Time Interactive Video Generation Model`: Rank dropped by -1
+- **[Rank Drop]** `Dimension Reduction for Curves: Simplified and Generalized`: Rank dropped by -1
+- **[Rank Drop]** `Graph Neural Networks for the Graphical Bootstrap`: Rank dropped by -1
+- **[Rank Drop]** `PixCon: Clean-Positive Contrastive Learning for Foundation-Model Semi-Supervised Segmentation`: Rank dropped by -1
+- **[Rank Drop]** `HyperVAttention: Efficient Sparse Attention with Spatio-Temporal Clustering for Video Diffusion`: Rank dropped by -1
+- **[Rank Drop]** `CONFLUX: A Latent Diffusion Model for 3D Chest-CT Synthesis with RL Post-Training`: Rank dropped by -1
+- **[Rank Drop]** `Incentivizing Vision Language Models to Search for Long Video Question Answering`: Rank dropped by -1
+- **[Rank Drop]** `PromptPET: Privacy-Utility Optimized Prompt Obfuscation`: Rank dropped by -1
+- **[Rank Drop]** `Open Problem: Is Interaction Necessary for Order-Optimal 1-bit Mean Estimation?`: Rank dropped by -1
+- **[Rank Drop]** `Selectivity Estimation for Linear Queries via Online Learning`: Rank dropped by -1
+- **[Rank Drop]** `SPLIT: Training-Free AI-Generated and Partially Edited Video Detection via Spatial Patch-Level Incoherence and Temporal Roughness`: Rank dropped by -1
+- **[Rank Drop]** `EvoOtter: Evolutionary Reproduction Test Generator`: Rank dropped by -1
+- **[Rank Drop]** `Pretreatment MRI reveals a latent, molecular-subtype-independent structural phenotype that organizes treatment trajectories and recurrence risk`: Rank dropped by -1
+- **[Rank Drop]** `CodeJeNN: A simple C++ neural network generator for physics applications`: Rank dropped by -1
+- **[Rank Drop]** `Optimality-Informed Neural Networks for Lunar Landing Trajectory Optimization`: Rank dropped by -1
+- **[Rank Drop]** `Provable Pruning for Efficient 3D Gaussian Splatting via Coresets`: Rank dropped by -1
+- **[Rank Drop]** `Diagnosing Aerial-View Object Detectors with Foundational Image Generative Models`: Rank dropped by -1
+- **[Rank Drop]** `Property-Constrained 3D Porous Media Reconstruction from 2D Images via Conditional Generative Adversarial Networks`: Rank dropped by -1
+- **[Rank Drop]** `RES-DARE: Failure-Aware Expert Adaptation and Rollback-Safe Self-Repair for Intrusion Detection`: Rank dropped by -1
+- **[Rank Drop]** `ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability`: Rank dropped by -1
+- **[Rank Drop]** `Contaminated Multi-task Learning with Heterogeneity: Fundamental Limits and Optimal Algorithms`: Rank dropped by -1
+- **[Rank Drop]** `Benign Overfitting Does Not Occur in Diffusion Models`: Rank dropped by -1
+- **[Rank Drop]** `SE-UNet: Singular Equivariant Imaging for Real-World Constrained Generation`: Rank dropped by -1
+- **[Rank Drop]** `Schedulable Job-Level Dependencies for Cause-Effect Chains via Graph Neural Networks`: Rank dropped by -1
+- **[Rank Drop]** `Fusion: A Framework for Unified Sequential Token AdaptatIon in VisiOn TraNsformers`: Rank dropped by -1
+- **[Rank Drop]** `Privacy-Preserving Industrial Ergonomics: mmWave-Based Automated REBA Scoring and Pose Estimation`: Rank dropped by -1
+- **[Rank Drop]** `Towards transferable lightweight neuromorphic computing through a model-free temporal-switch framework`: Rank dropped by -1
+- **[Rank Drop]** `Scaling Weisfeiler-Leman Expressiveness Analysis to Massive Graphs with GPUs`: Rank dropped by -1
+- **[Rank Drop]** `CIPHER: Causal Intervention Pathways for Healthcare Equity and Robustness`: Rank dropped by -1
+- **[Rank Drop]** `H-OPD: Confidence Aware Heterogeneous Multi-Teacher Multimodal On-policy Distillation`: Rank dropped by -1
+- **[Rank Drop]** `The Moving Target: A Longitudinal Audit of Trustworthiness Drift Across Twelve Checkpoints of Open-Source Chat LLMs`: Rank dropped by -1
+- **[Rank Drop]** `CORA: Per-Slice Coherent Orthogonal Rotation for SVD-based Low-Rank Adaptation`: Rank dropped by -1
+- **[Rank Drop]** `From Tensor Buffer to Distributed Memory Hierarchy: A Survey of KV Cache Management for LLM Serving`: Rank dropped by -1
+- **[Rank Drop]** `Uncertainty-Aware Last-Layer Adaptation of RETFound for Referable Diabetic Retinopathy Screening Under Dataset Shift`: Rank dropped by -1
+- **[Rank Drop]** `MLSYSIM: First-Principles Infrastructure Modeling for Machine Learning Systems`: Rank dropped by -1
+- **[Rank Drop]** `Interpretable machine learning predicts Parkinson's disease severity using motion-corrected QSM MRI and multiband multiecho fMRI features`: Rank dropped by -1
+- **[Rank Drop]** `Transformer-based Multisensor Data Fusion of Ultrasonic Guided Wave and FBG-based Strain Measurements for Multitask Aerospace Structural Health Monitoring`: Rank dropped by -1
+- **[Rank Drop]** `Beyond Satisfaction: Learning Associations Between Content, Reviews, and Well-Being`: Rank dropped by -1
+- **[Rank Drop]** `Physics-Informed Domain-Invariant Feature Learning with Autoencoder-Driven Gaussian Clustering for Robust Non-line-of-Sight Scenarios`: Rank dropped by -1
+- **[Rank Drop]** `Tile-Level Activation Overlap for Efficient LLM Inference`: Rank dropped by -1
+- **[Rank Drop]** `Open-Weather Robust 3D Detection via Dual-Critic Diffusion Alignment`: Rank dropped by -1
+- **[Rank Drop]** `Inverse Design of Metainterfaces for Static Friction Control: Beyond the Hertzian Limit`: Rank dropped by -1
+- **[Rank Drop]** `miMamba: EEG-based Emotion Recognition with Multi-scale Inverted Mamba Models`: Rank dropped by -1
+- **[Rank Drop]** `SiamixFormer: a fully-transformer Siamese network with temporal Fusion for accurate building detection and change detection in bi-temporal remote sensing images`: Rank dropped by -1
+- **[Rank Drop]** `Weak-to-Strong Generalization via Direct On-Policy Distillation`: Rank dropped by -1
+- **[Rank Drop]** `What Does a Discrete Diffusion Model Learn?`: Rank dropped by -1
+- **[Rank Drop]** `TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning`: Rank dropped by -1
+- **[Rank Drop]** `CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents`: Rank dropped by -1
+- **[Rank Drop]** `TREK: Distill to Explore, Reinforce to Refine`: Rank dropped by -1
+- **[Rank Drop]** `How Far is Too Far? Defining the Distance Threshold for Verification Siamese Networks`: Rank dropped by -1
+- **[Rank Drop]** `Biologically Informed Deep Neural Networks for Multi-Omic Integration, Pathway Activity Inference and Risk Stratification in Cancer`: Rank dropped by -1
+- **[Rank Drop]** `Learning Only What Valid Adapters Can Express: Subspace-Constrained Adaptation Against Fine-Tuning Poisoning`: Rank dropped by -1
+- **[Rank Drop]** `Air Quality Downscaling with Station-Guided Pseudo-Supervision`: Rank dropped by -1
+- **[Rank Drop]** `Advances in Neural Controlled Differential Equations`: Rank dropped by -1
+- **[Rank Drop]** `Adaptive Inference Batching using Policy Gradients`: Rank dropped by -1
+- **[Rank Drop]** `Target-Guided Selective Reweighting for Physics-Informed Neural Network Inverse Problems: A Transfer Learning Approach`: Rank dropped by -1
+- **[Rank Drop]** `GeoFlow: Geo-Aware Modeling of Inter-Area Relationships in Origin-Destination Flow Prediction and Generation`: Rank dropped by -1
+- **[Rank Drop]** `FUSE: FK-Steered Multi-Modal Flow Matching for Efficient Simulation-Based Posterior Estimation`: Rank dropped by -1
+- **[Rank Drop]** `CanniUplift: A Holistic Framework for Mitigating Seller and Incentive Cannibalization in E-commerce Uplift Modeling`: Rank dropped by -1
+- **[Rank Drop]** `Video-based detection of cessation of breathing in pre-term infants using machine learning`: Rank dropped by -1
+- **[Rank Drop]** `FlatManifold: Robust Continual Learning under Severe Label Noise and Domain Shifts via Intrinsic Manifold Flattening`: Rank dropped by -1
+- **[Rank Drop]** `Noisy-Channel Minimum Bayes Risk Decoding`: Rank dropped by -1
+- **[Rank Drop]** `SMART: A Machine Learning and Monte Carlo Framework for Rapid Analysis of Stochastic Transistor Aging and Process Variation in Digital Circuits`: Rank dropped by -1
+- **[Rank Drop]** `Relational Multi-Agent Reinforcement Learning for Dynamic Pricing in High-Speed Railway Markets`: Rank dropped by -1
+- **[Rank Drop]** `Platonic Projection Structures: Operator-Induced Observability in Representation Learning`: Rank dropped by -1
+- **[Rank Drop]** `MeGA-MP: Metric Graph Advection Message Passing -- A Physics-Informed Message Passing Operator for Advection-Dominated Metric Graphs`: Rank dropped by -1
+- **[Rank Drop]** `Physiological Noise Augmentation Improves Non-Invasive Brain-to-Speech`: Rank dropped by -1
+- **[Rank Drop]** `PDEFlow: Autonomous Agentic PDE Pipelines for Neural Operator Learning and Solver-Free Inference`: Rank dropped by -1
+- **[Rank Drop]** `Localized LoRA-MoE: Block-wise Low-Rank Experts With Adaptive Routing`: Rank dropped by -1
+- **[Rank Drop]** `Grokking Is Conditional and Fragile: A Fully-Tractable, Multi-Seed Study at 12K Parameters`: Rank dropped by -1
+- **[Rank Drop]** `Choosing a parallel heterogeneous ensemble method for tabular classification`: Rank dropped by -1
+- **[Rank Drop]** `Counterfactual Methods for Detecting Unfairness in Anti-Money Laundering Algorithms`: Rank dropped by -1
+- **[Rank Drop]** `Functional Bilevel Optimization for Predictive Fairness`: Rank dropped by -1
+- **[Rank Drop]** `FAST: A Holistic Framework for Optimizing Memory-I/O, Computation, and Sampling in Temporal GNN Training`: Rank dropped by -1
+- **[Rank Drop]** `Computing Monetary Risk Measures in Linear Time`: Rank dropped by -1
+- **[Rank Drop]** `KVpop -- Key-Value Cache Compression with Predictive Online Pruning`: Rank dropped by -1
+- **[Rank Drop]** `CollabEval: Statistically Efficient Collaborative Model Evaluation via Matrix Completion`: Rank dropped by -1
+- **[Rank Drop]** `Uncertainty-aware damage identification in short-span bridges via physics-informed variational autoencoder`: Rank dropped by -1
+- **[Rank Drop]** `Beyond Modality Fusion: Deep Ensembles for Multimodal Classification`: Rank dropped by -1
+- **[Rank Drop]** `Hyperparameter Transfer in Graph Neural Networks`: Rank dropped by -1
+- **[Rank Drop]** `ImputeECG: Deep Learning Reconstruction of Complete 12-Lead Electrocardiograms from Incomplete Recordings for Cardiac Assessment`: Rank dropped by -1
+- **[Rank Drop]** `The Map Behind the Flow: Finite-Step Gradient Descent as a Dynamical System`: Rank dropped by -1
+- **[Rank Drop]** `Non-Convex Sparse Reinforcement Learning via Non-Monotone Inclusions`: Rank dropped by -1
+- **[Rank Drop]** `Data-Driven Soft Labeling Scales DNA Read Classification to Whole-Body Cell-Type Deconvolution`: Rank dropped by -1
+- **[Rank Drop]** `Qantara: Bridge-Flow Training for Multi-Paradigm JEPA Control`: Rank dropped by -1
+- **[Rank Drop]** `Geometry-Aware Bayesian Quantification via Compositional Data Analysis`: Rank dropped by -1
+- **[Rank Drop]** `Train Smarter, Not Longer: Memorization-Guided Data Reuse for Efficient LLM Training`: Rank dropped by -1
+- **[Rank Drop]** `Sensitivity Sampling with Predictions for k-Means Clustering`: Rank dropped by -1
+- **[Rank Drop]** `Lightweight ML-Based Automatic Sleep Staging Framework with Constrained CNN and Mamba for Small-Sample EEG Datasets`: Rank dropped by -1
+- **[Rank Drop]** `Input Pathways Shape Few-Shot, Not Zero-Shot, Binding in Tiny Transformers: A Fully-Enumerable Study`: Rank dropped by -1
+- **[Rank Drop]** `When Do Foundation Models Pay Off? A Break-Even Analysis of Pretrained Time Series Forecasters`: Rank dropped by -1
+- **[Rank Drop]** `RL-Ballast: Ship Ballast Water Path Planning and Clog Prediction via Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `Active Learning on Adversarially Corrupted Graphs`: Rank dropped by -1
+- **[Rank Drop]** `Enhancing the Forecasting Capability of Multi-Model Blending Algorithms for Extreme Precipitation via Joint Use of Station and Gridded Observations`: Rank dropped by -1
+- **[Rank Drop]** `Framework for Grouping Local Process Models`: Rank dropped by -1
+- **[Rank Drop]** `Pretraining Curricula Enable Selective Fine-tuning`: Rank dropped by -1
+- **[Rank Drop]** `Representing and Detecting Label Ambiguity in IMU-Based Exercise Evaluation`: Rank dropped by -1
+- **[Rank Drop]** `Probably Correct Optimal Stable Matching under Two-Sided Uncertainty`: Rank dropped by -1
+- **[Rank Drop]** `KinEMbed: Decoding Kinematics from Electromyography via Cross-Modal Contrastive Learning`: Rank dropped by -1
+- **[Rank Drop]** `Layer-Parallel Inference Reduces Encrypted Nonlinear Depth in Transformers`: Rank dropped by -1
+- **[Rank Drop]** `Compressed Computation under $L^4$ Loss is likely Computation in Superposition`: Rank dropped by -1
+- **[Rank Drop]** `Predicting Drafted Deck Strength for "Magic: the Gathering"`: Rank dropped by -1
+- **[Rank Drop]** `Towards Personalized Differentially Private Learning for Decentralized Local Graphs`: Rank dropped by -1
+- **[Rank Drop]** `MARLIN: De Novo Molecular Structure Elucidation from Tandem Mass Spectra without a Ground-Truth Formula`: Rank dropped by -1
+- **[Rank Drop]** `Multi-Turn On-Policy Distillation with Prefix Replay`: Rank dropped by -1
+- **[Rank Drop]** `Trust Region Policy Distillation`: Rank dropped by -1
+- **[Rank Drop]** `RSPO: Reward-Swap Policy Optimization for Multi-Turn LLM Agents`: Rank dropped by -1
+- **[Rank Drop]** `Hierarchical Scaffolding Enables Human-Like Cognitive Selectivity under Data Scarcity`: Rank dropped by -1
+- **[Rank Drop]** `F-ACVAE: A Federated Adaptive Conditional Variational Auto-Encoder for Privacy-Preserving Intrusion Detection in IoT Networks`: Rank dropped by -1
+- **[Rank Drop]** `URSA: Chemistry-Aware Benchmark for Utilitarian Retrosynthesis Assessment`: Rank dropped by -1
+- **[Rank Drop]** `A Physics-Regulated Neural Framework for Learning 3D Grain Growth Dynamics`: Rank dropped by -1
+- **[Rank Drop]** `Machine Learning for Depression Screening and Intervention: an Original Circadian Rhythm Score-based Methodology`: Rank dropped by -1
+- **[Rank Drop]** `Reliability and Identifiability in Persona-Trained Monte Carlo: Variance Decomposition, Stability Bounds, and the Identifiability of Heterogeneous News Reaction`: Rank dropped by -1
+- **[Rank Drop]** `Measuring What Matters: A Unified Evaluation Framework for GNN Explainability`: Rank dropped by -1
+- **[Rank Drop]** `Minimum Block Width for Universal Approximation by Residual Neural Networks with Inner Width One`: Rank dropped by -1
+- **[Rank Drop]** `Score Distributions, Not Cells: Evaluating Single-Cell Perturbations Under Class Overlap`: Rank dropped by -1
+- **[Rank Drop]** `Beyond the Need for Speed: Energy-Aware Code Generation via Simulation-Guided Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `A Few Teacher Steps Go a Long Way: Cost-Efficient On-Policy Data Augmentation for Agent Post-Training`: Rank dropped by -1
+- **[Rank Drop]** `Predicting Therapeutic Outcome via Aligning Patient-Specific Knowledge Graph and Gene-Level Perturbation Representations`: Rank dropped by -1
+- **[Rank Drop]** `Auto: The AGI Compiler`: Rank dropped by -1
+- **[Rank Drop]** `ManifoldFlow: SPD-Relaxed Stiefel Layers with Learnable Singular Spectrum`: Rank dropped by -1
+- **[Rank Drop]** `Lyapunov-Guided Training for Hardware-Safe Neural Networks Under Fixed-Point Arithmetic`: Rank dropped by -1
+- **[Rank Drop]** `Beyond travel mode: urban context shapes active mobility's mental health effects over time`: Rank dropped by -1
+- **[Rank Drop]** `Two Black Boxes, One Solver: Encoder Probing and Decoder Attribution for Neural Multi-Attribute VRP under Hard-Mask and Recourse Decoders`: Rank dropped by -1
+- **[Rank Drop]** `LeukocyteCount: Automatic Identification and Counting for leukocytes using Deep Learning`: Rank dropped by -1
+- **[Rank Drop]** `Regime-Conditional Stabilisation of LLM-Augmented Cooperative Multi-Agent Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `Operator-on-F complements value-equivalence: a planning-time diagnostic for latent world models`: Rank dropped by -1
+- **[Rank Drop]** `A Deep Learning-based surrogate model for Severe Accidents in nuclear reactors using ASTEC`: Rank dropped by -1
+- **[Rank Drop]** `Knowledge-Informed Local Causal Discovery of Optimal Adjustment Sets`: Rank dropped by -1
+- **[Rank Drop]** `Covert Trait Propagation Is Representation Alignment: Mechanistic Evidence from Hidden-Channel Distillation`: Rank dropped by -1
+- **[Rank Drop]** `Full-Stack FP4: Stable LLM Pretraining with Quantized Projections, Optimizers, and Attention`: Rank dropped by -1
+- **[Rank Drop]** `Environmental Drivers of Respiratory Disease: A District Level Analysis`: Rank dropped by -1
+- **[Rank Drop]** `Learning Task-Sufficient World Models by Synergizing Agentic Exploration and Structured Modeling`: Rank dropped by -1
+- **[Rank Drop]** `NKI-Agent: Domain-Specific Fine-Tuning and Agentic Tool Use for Neuron Kernel Generation`: Rank dropped by -1
+- **[Rank Drop]** `RL Forgets! Towards Continual Policy Optimization`: Rank dropped by -1
+- **[Rank Drop]** `How Many Initial Points Does Bayesian Optimization Need?`: Rank dropped by -1
+- **[Rank Drop]** `One Framework for All: Cross-Modal Membership Inference for Generative Models`: Rank dropped by -1
+- **[Rank Drop]** `Structure-Specific Representational Priors Causally Control the Grokking Delay`: Rank dropped by -1
+- **[Rank Drop]** `On the effectiveness of reward functions in reinforcement learning for confidence calibration of large language models`: Rank dropped by -1
+- **[Rank Drop]** `SAD-LoRA: Spectral Alignment for Low-Rank Knowledge Distillation`: Rank dropped by -1
+- **[Rank Drop]** `HiFA4: Training-Free 4-bit FlashAttention on Ascend HIF4 NPUs for LLM Inference`: Rank dropped by -1
+- **[Rank Drop]** `On Preserving Geometrical Invariance for Superpixel Image Classification using Graph Transformer`: Rank dropped by -1
+- **[Rank Drop]** `Signal or Noise? Understanding Generative Models for Real-World Sensor Time Series`: Rank dropped by -1
+- **[Rank Drop]** `Quantize the Target, Quantize the Drafter: Efficient Inference with Qwen3.5-4B`: Rank dropped by -1
+- **[Rank Drop]** `Channel-Adaptive Robust Aggregation for Over-the-Air Federated Learning in Heterogeneous Networks`: Rank dropped by -1
+- **[Rank Drop]** `Exploring Convolutional Neural Processes for Weather Downscaling`: Rank dropped by -1
+- **[Rank Drop]** `SpecGradFilter: A Spectral Gradient Filtering Framework for Taming Federated Heterogeneity`: Rank dropped by -1
+- **[Rank Drop]** `Physics-Informed Graph Learning with Uncertainty Awareness for Open-Set Domain Generalization in Fault Diagnosis`: Rank dropped by -1
+- **[Rank Drop]** `FedFFT: Taming Client Drift in Federated SAM via Spectral Perturbation Filtering`: Rank dropped by -1
+- **[Rank Drop]** `Geometry of Ordinal Representations in Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Mask-based Predictive Representations for Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `Binary Iterative Method for Non-targeted Adversarial Attack`: Rank dropped by -1
+- **[Rank Drop]** `Masked Generative-Contrastive Representation Learning for Cross-Dataset EEG-Based Emotion Recognition`: Rank dropped by -1
+- **[Rank Drop]** `MDL Meets Latent Confounders: LNML-based Causal Discovery`: Rank dropped by -1
+- **[Rank Drop]** `CertMix: Certified, Data-Efficient Metamaterial Design by Affine Mixing of Aligned Neural-Implicit Weight Spaces`: Rank dropped by -1
+- **[Rank Drop]** `Parametric Memory Decoding for Zero-Shot Routing in LoRA-Based External Parametric Memory`: Rank dropped by -1
+- **[Rank Drop]** `GlacierCastAI: Predicting Glacier Retreat from Multi-Modal Satellite Imagery and Climate Signals`: Rank dropped by -1
+- **[Rank Drop]** `Asymptotic-Preserving A Posteriori Analysis of Diffusion and Flow-Matching Samplers`: Rank dropped by -1
+- **[Rank Drop]** `DynaVieW: Schema-Guided World Modeling for Understanding Hierarchical Visual Dynamics`: Rank dropped by -1
+- **[Rank Drop]** `Dictionaries, Not Darwin: Set-Level Selection Beats LLM Evolution in Scientific Equation Discovery`: Rank dropped by -1
+- **[Rank Drop]** `Target-Aware Interaction-Guided Reinforcement Learning for Black-Box Node Injection Attacks on Graph Neural Networks`: Rank dropped by -1
+- **[Rank Drop]** `FedSPM: Routing-Enabled Federated Learning under Dual Heterogeneity via Semiparametric Mixture`: Rank dropped by -1
+- **[Rank Drop]** `A Unified Framework for In-Context Learning with Causal and Masked Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Reward-Gated On-Policy Distillation`: Rank dropped by -1
+- **[Rank Drop]** `OmniOpt: Taxonomy, Geometry, and Benchmarking of Modern Optimizers`: Rank dropped by -1
+- **[Rank Drop]** `A Unified Algebraic Framework for Classification Performance Evaluation`: Rank dropped by -1
+- **[Rank Drop]** `When Does Small Data Work? Accuracy and Efficiency Trade-offs Between Tabular Foundation Models and Conventional Methods for Crowd-State Classification at Hajj and Umrah`: Rank dropped by -1
+- **[Rank Drop]** `Directional Curvature from Armijo Backtracking: A Low-Cost Sharpness Probe and a Calibration-Free Learning-Rate Safeguard for Adam`: Rank dropped by -1
+- **[Rank Drop]** `Knowing When to Stop: Predicting Execution-Consistency Convergence in Text-to-SQL`: Rank dropped by -1
+- **[Rank Drop]** `MANCE: Manifold Aware Concept Erasure`: Rank dropped by -1
+- **[Rank Drop]** `Order-based Causal Discovery for Multistage Processes`: Rank dropped by -1
+- **[Rank Drop]** `MPSelectTune: Prompt-type Selection for Fine-tuning improves Concept Unlearning in LLMs`: Rank dropped by -1
+- **[Rank Drop]** `NeuroOnline: Bridging Pretraining and Online Adaptation for EEG Foundation Models`: Rank dropped by -1
+- **[Rank Drop]** `Transformers with Physics-Informed Encodings and Simulation-Based Inference for Robust Detection of Eccentric Binary Black Holes in Pulsar Timing Array Data`: Rank dropped by -1
+- **[Rank Drop]** `CDCP: Conditional Diffusion Model with Contextual Prompts for Multi-task Offline Safe Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `AdaptiveSD A Stability-Aware, Runtime-Adaptive Speculative Decoding Framework with Multi-Policy Orchestration for CPU-Constrained LLM Inference`: Rank dropped by -1
+- **[Rank Drop]** `A Gradient Flow Perspective on Minimum MMD Estimation`: Rank dropped by -1
+- **[Rank Drop]** `A Unified Framework for Quantized and Continuous Strong Lottery Tickets`: Rank dropped by -1
+- **[Rank Drop]** `NeSy-CSA: A Neuro-Symbolic Framework for Open-Ended Critical Scenario Attribution`: Rank dropped by -1
+- **[Rank Drop]** `Adversarial LassoNet: Robust Feature Selection via Stability-Driven Sparse Learning`: Rank dropped by -1
+- **[Rank Drop]** `Stable Global Weighting of Flow Mixtures using Simplex Exponential Moving Average`: Rank dropped by -1
+- **[Rank Drop]** `Punching Above Their Weight: Classification-Head Fine-Tuning of Tiny Language Models (TLMs) for Verifiable Multiple-Choice Tasks`: Rank dropped by -1
+- **[Rank Drop]** `Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks`: Rank dropped by -1
+- **[Rank Drop]** `Tensor-Train Joint Modeling for Few-Step Discrete Diffusion`: Rank dropped by -1
+- **[Rank Drop]** `Conservative Subject Invariant EMG-based Gesture Recognition`: Rank dropped by -1
+- **[Rank Drop]** `FedACT: Federated Adaptive Coordinate Trust Modulation for Robust Transformer Training under Data Heterogeneity`: Rank dropped by -1
+- **[Rank Drop]** `SAVER: Stochastic Adaptive Variance-Driven Exploration and Reconstruction for Low-Dose Computed Tomography`: Rank dropped by -1
+- **[Rank Drop]** `Social Networks of LLM Agents`: Rank dropped by -1
+- **[Rank Drop]** `PIEFS: Physics-Informed Eigenfunction Features with Learnable Scaling`: Rank dropped by -1
+- **[Rank Drop]** `Rethinking AI-Generated Text Detection: A Strong Baseline and the Distribution-Shift Problem That Remains`: Rank dropped by -1
+- **[Rank Drop]** `Validation-Induced Shapley Shifts: How Validation Structure Distorts Data Valuation`: Rank dropped by -1
+- **[Rank Drop]** `A Structural Interpretation of GELU and Threshold-Transmission Activations via the First-Order Loss Function`: Rank dropped by -1
+- **[Rank Drop]** `Phase-Preserving Trimodal Transformer for Tropical Forest Biomass Estimation Using Optical and PolInSAR Data`: Rank dropped by -1
+- **[Rank Drop]** `LLM-Guided Transportation Hub Capacity Planning with Textual Business Inputs`: Rank dropped by -1
+- **[Rank Drop]** `Reflected Schr\"odinger Bridge Matching`: Rank dropped by -1
+- **[Rank Drop]** `Implicit Bias of SGD in Multivariate ReLU Networks: Effective Width Collapse`: Rank dropped by -1
+- **[Rank Drop]** `Graph Classification via Network Usable Information: From Representation Evaluation to Structure Selection`: Rank dropped by -1
+- **[Rank Drop]** `Modular Foundation Models for Time-Series Perception in Digital Twins`: Rank dropped by -1
+- **[Rank Drop]** `When Geometry Aligns: Dihedral Hidden-State Transformations in UNet, ViT, and DiT Architectures`: Rank dropped by -1
+- **[Rank Drop]** `Differentiate the Evaluator, Not the Program: An Efficient Runtime Representation for Neuro-Symbolic Learning`: Rank dropped by -1
+- **[Rank Drop]** `Teacher Supervision over Representation Equivalence Classes`: Rank dropped by -1
+- **[Rank Drop]** `WeightCLIP: Aligning Datasets and Models for Weight Space Learning`: Rank dropped by -1
+- **[Rank Drop]** `Aligning Language Models with Selective Prediction`: Rank dropped by -1
+- **[Rank Drop]** `Co-Adaptive Multi-Task LoRA: Transfer-Aware, Label-Free Control of Domain Participation`: Rank dropped by -1
+- **[Rank Drop]** `On the Convergence of Adam, Revisited`: Rank dropped by -1
+- **[Rank Drop]** `Mixture-of-Gaussians-Guided Schedule Design for Brownian Bridge Diffusion Models`: Rank dropped by -1
+- **[Rank Drop]** `A Near-Linear-Time Solver for Graph $p$-Laplacian Semi-Supervised Learning via Continuation in $p$`: Rank dropped by -1
+- **[Rank Drop]** `Towards Diverse and Comprehensive Benchmarks for Mutual Information Estimation`: Rank dropped by -1
+- **[Rank Drop]** `Best-of-Better-$N$: Generating Pre-Aligned Responses with In-Context Learning`: Rank dropped by -1
+- **[Rank Drop]** `No Time Like the Present: Agentic Test-Time Training for LLM Agents`: Rank dropped by -1
+- **[Rank Drop]** `How Much of the Routing Gap Is Real? Decomposing the Router-to-Oracle Gap into Reproducible Specialist Advantage and Single-Draw Label Noise`: Rank dropped by -1
+- **[Rank Drop]** `Amortising Bayesian Experimental Design for Sequential Information Gathering in LLMs`: Rank dropped by -1
+- **[Rank Drop]** `PedestrianDiffusion: Multimodal Generative Denoising and Dense State Estimation for Inertial Navigation`: Rank dropped by -1
+- **[Rank Drop]** `The Multiscale Single-Index Model: A Stylized Model for Hierarchical Feature Learning`: Rank dropped by -1
+- **[Rank Drop]** `CSympNet-ID: conformal-symplectic map learning for linearly damped Hamiltonian systems`: Rank dropped by -1
+- **[Rank Drop]** `FedAvg for HAR: Exploring the Tradeoff Between Personalized and Generalization Accuracy`: Rank dropped by -1
+- **[Rank Drop]** `Statistically Meaningful Geometry (SMG) Beyond the Euclidean Paradigm, with Application to Generative AI`: Rank dropped by -1
+- **[Rank Drop]** `A harmonised dataset for Earth system foundation models`: Rank dropped by -1
+- **[Rank Drop]** `From Global to Local: Efficient Regional Weather Downscaling with Global Weather Foundation Model`: Rank dropped by -1
+- **[Rank Drop]** `Unbiased Alignment for Large Language Models with Noisy Preferences`: Rank dropped by -1
+- **[Rank Drop]** `PhenoNEST: A Neuro-Symbolic Framework for Ontology-Aware Multimodal Plant Phenotyping and Trait Discovery`: Rank dropped by -1
+- **[Rank Drop]** `Joint distribution of upstream runoff governs downstream river-discharge prediction uncertainty in distributed ML models`: Rank dropped by -1
+- **[Rank Drop]** `Transition Information Density: Morphological Trajectories, Synesthetic Perception, and Structured Interpolation in Neural Training (or: The Synesthetic AI)`: Rank dropped by -1
+- **[Rank Drop]** `OpFlow: Learning Opportunity-Conditioned Choice Potentials for Robust OD Flow Prediction`: Rank dropped by -1
+- **[Rank Drop]** `Reduced-Order Models: The Mother of World Models`: Rank dropped by -1
+- **[Rank Drop]** `A Bayesian Framework for Evaluating Scenario Compatibility in Generative Population Synthesis`: Rank dropped by -1
+- **[Rank Drop]** `Understanding electricity consumption behaviour through Inverse Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `Decentralised Federated Learning over Temporal Networks: The Role of Heterogeneities`: Rank dropped by -1
+- **[Rank Drop]** `Rethinking Neural Nonlinearity as Gating`: Rank dropped by -1
+- **[Rank Drop]** `CuBAS: Information Geometric Curvature-Based Adaptive Sampling for Supervised Classification`: Rank dropped by -1
+- **[Rank Drop]** `Sample-Efficient Pareto Front Modeling for Energy-Aware Reinforcement Learning Using Bayesian Optimization`: Rank dropped by -1
+- **[Rank Drop]** `Anticipatory Reinforcement Learning for Trajectory Tracking`: Rank dropped by -1
+- **[Rank Drop]** `ACPO: Adaptive Credit Policy Optimization via Fine-Grained Surrogate Entropy`: Rank dropped by -1
+- **[Rank Drop]** `Integrating Physics-Informed Neural Networks for Safe Reinforcement Learning in a 1-DoF Helicopter System`: Rank dropped by -1
+- **[Rank Drop]** `Observable- and Positional-Encoding-Dependent Symmetry Readout from Neural Network Weights`: Rank dropped by -1
+- **[Rank Drop]** `Heterogeneous Graph Condensation via Role-Aware Clustering`: Rank dropped by -1
+- **[Rank Drop]** `Stacked LoRA for Subject-Adaptive EEG Foundation Models in Motor Imagery Decoding`: Rank dropped by -1
+- **[Rank Drop]** `STELLA: Efficient Sensor-to-LLM Translation for On-Device Human Activity Recognition`: Rank dropped by -1
+- **[Rank Drop]** `Robustness Meets Uncertainty: Evidential Adversarial Training for Robust Selective Classification`: Rank dropped by -1
+- **[Rank Drop]** `Spectral Rewiring for Exploration, Purification, and Model Merging`: Rank dropped by -1
+- **[Rank Drop]** `LACE-SVD: Loss-Aware SVD with Cumulative Error Correction for LLM Compression`: Rank dropped by -1
+- **[Rank Drop]** `SHiPPO: Recurrent Memory with Transported Polynomial Projections`: Rank dropped by -1
+- **[Rank Drop]** `OmniFocus: Query-Guided Modality-Balanced Token Compression for Omni-Modal Large Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Out-of-distribution Neural Inference in Dynamical Ising Models`: Rank dropped by -1
+- **[Rank Drop]** `Can Model Merging Improve Aggregation in DiLoCo?`: Rank dropped by -1
+- **[Rank Drop]** `Do ECG Foundation Models Transfer to Rare Cardiac Diseases? Evidence from Brugada Syndrome Detection`: Rank dropped by -1
+- **[Rank Drop]** `Back to Basics: Improving Molecular Understanding in LLMs via SMILES-Graph Translation`: Rank dropped by -1
+- **[Rank Drop]** `Transfer Learning in High-dimensional Ising Models`: Rank dropped by -1
+- **[Rank Drop]** `MABLE: Masked Autoencoding with Bi-Lipschitz Decoding for Embeddings and Graph Metric Learning`: Rank dropped by -1
+- **[Rank Drop]** `Rank-Order N-of-M Codes for Sparse Distributed Memory: Disentangling Representation and Learning Effects in Noise Robustness Against Contemporary Neuromorphic Architectures`: Rank dropped by -1
+- **[Rank Drop]** `Individual Parameters in Weight-Sparse Transformers Appear Interpretable`: Rank dropped by -1
+- **[Rank Drop]** `A Precedent-Guided Co-Scientist for Side-Effect-Aware Drug Redesign`: Rank dropped by -1
+- **[Rank Drop]** `Missingness as Signal: Channel-Independent Spectrogram Learning for Clinical Time Series Prediction`: Rank dropped by -1
+- **[Rank Drop]** `In-span learning: adapting reduced-order models using their own predictions`: Rank dropped by -1
+- **[Rank Drop]** `CoFEND: A Cross-Modal Fusion End-to-End Network for Cold-Start Drug-Drug Interaction Prediction`: Rank dropped by -1
+- **[Rank Drop]** `Bootstrap Flow-Map Tree Sampling Enables Online Feedback Driven Search`: Rank dropped by -1
+- **[Rank Drop]** `Variable Bit-width Quantization: Learning Per-Group Precision for "Bigger-but-Smaller" Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Dynamic Regret for Non-Stationary Linear Bandits via Misspecification Reductions`: Rank dropped by -1
+- **[Rank Drop]** `Poisson-Gamma Modeling of Inter-Relational Dependencies in Dynamic Knowledge Graphs`: Rank dropped by -1
+- **[Rank Drop]** `Reward Granularity in RLVR: Comparing Process and Outcome Reward Structures for Mathematical Reasoning in Small Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Trading Confidence: Comprehensive Uncertainty Estimation in Algorithmic Trading`: Rank dropped by -1
+- **[Rank Drop]** `Labeled-Data-Free Meta-Learning: Efficient Task Generation Using Pre-trained Models and Unlabeled Data`: Rank dropped by -1
+- **[Rank Drop]** `On the Design Space of Discrete Diffusion Online Adaptation for Molecular Optimization`: Rank dropped by -1
+- **[Rank Drop]** `Less Tokens, Better Forecasts: Sparse Residual Routing for Efficient Weather Prediction`: Rank dropped by -1
+- **[Rank Drop]** `Training Hybrid Block Diffusion Language Models with Partial Bidirectionality`: Rank dropped by -1
+- **[Rank Drop]** `Induction Heads Interpolate N-Grams`: Rank dropped by -1
+- **[Rank Drop]** `Safe Inference-Time Alignment via Lagrangian Reward Augmentation`: Rank dropped by -1
+- **[Rank Drop]** `Out-of-Distribution Generalization of Risk Aversion in Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Weighted Conformal Prediction for Lab-to-Track Thermal Transfer in EV Motorsport Powertrains`: Rank dropped by -1
+- **[Rank Drop]** `LiNO: Lifting based multiresolution neural operator`: Rank dropped by -1
+- **[Rank Drop]** `A Granularity-Aware EEG Feature Framework for Psychopathology Dimension Prediction`: Rank dropped by -1
+- **[Rank Drop]** `Post-Generation Curation of Synthetic Images via Homogeneous-Heterogeneous Splitting`: Rank dropped by -1
+- **[Rank Drop]** `Federated Learning for Object Detection: Enabling Collaborative Drone Learning Without Centralizing Data`: Rank dropped by -1
+- **[Rank Drop]** `GRAFT: Grafted Reference Audio for Fine-grained Pronunciation in Zero-shot Text-to-Speech`: Rank dropped by -1
+- **[Rank Drop]** `QuantFlow: A Federated Mamba-Based Post-Transformer Foundation Model for Time-Series Forecasting`: Rank dropped by -1
+- **[Rank Drop]** `Evaluating Time Series Foundation Models for Electricity Price Forecasting: Contamination Risk, Distributional Shifts, and Covariate Dependence`: Rank dropped by -1
+- **[Rank Drop]** `Auditing the Audit: Five Failure Modes in Benchmark-Validity Audits`: Rank dropped by -1
+- **[Rank Drop]** `GrahamDumpleton/wsgiorg`: Rank dropped by -1
+- **[Rank Drop]** `pallets/werkzeug`: Rank dropped by -1
+- **[Rank Drop]** `Train deep learning PyTorch models (SDK v2) - Azure Machine Learning | Microsoft Learn`: Rank dropped by -1
+- **[Rank Drop]** `ClickHouse/ClickHouse`: Rank dropped by -1
+- **[Rank Drop]** `AWS Deep Learning Containers Documentation Has Moved - AWS Deep Learning Containers`: Rank dropped by -1
+- **[Rank Drop]** `clickhouse/clickhouse-server - Docker Image`: Rank dropped by -1
+- **[Rank Drop]** `pypa/pip`: Rank dropped by -1
+- **[Rank Drop]** `pradyunsg/furo`: Rank dropped by -1
+- **[Rank Drop]** `PyTorch`: Rank dropped by -1
+- **[Rank Drop]** `Pradyun Gedam`: Rank dropped by -1
+- **[Rank Drop]** `WSGI — WSGI.org`: Rank dropped by -1
+- **[Rank Drop]** `Werkzeug · PyPI`: Rank dropped by -1
+- **[Rank Drop]** `huggingface/course`: Rank dropped by -1
+- **[Rank Drop]** `langfuse/langfuse`: Rank dropped by -1
+- **[Rank Drop]** `Models compatible with the Transformers library – Hugging Face`: Rank dropped by -1
+- **[Rank Drop]** `Fast Open-Source OLAP DBMS | ClickHouse`: Rank dropped by -1
+- **[Rank Drop]** `Introduction · Hugging Face`: Rank dropped by -1
+- **[Rank Drop]** `Langfuse`: Rank dropped by -1
+- **[Rank Drop]** `QwenLM/Qwen-Agent`: Rank dropped by -1
+- **[Rank Drop]** `Qwen3 Demo - a Hugging Face Space by Qwen`: Rank dropped by -1
+- **[Rank Drop]** `Qwen · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `Qwen3 - a Qwen Collection`: Rank dropped by -1
+- **[Rank Drop]** `Watch YouTube TV on supported devices - Computer - YouTube TV Help`: Rank dropped by -1
+- **[Rank Drop]** `YouTube TV: Live TV & more - Apps on Google Play`: Rank dropped by -1
+- **[Rank Drop]** `The Python Tutorial — Python 3.14.6 documentation`: Rank dropped by -1
+- **[Rank Drop]** `deepset-ai/haystack-cookbook`: Rank dropped by -1
+- **[Rank Drop]** `Secure installs - pip documentation v26.1.2`: Rank dropped by -1
+- **[Rank Drop]** `Python Packaging User Guide`: Rank dropped by -1
+- **[Rank Drop]** `Werkzeug — Werkzeug Documentation (3.1.x)`: Rank dropped by -1
+- **[Rank Drop]** `Flask · PyPI`: Rank dropped by -1
+- **[Rank Drop]** `Qwen3: Think Deeper, Act Faster | Qwen`: Rank dropped by -1
+- **[Rank Drop]** `QwenLM/Qwen3`: Rank dropped by -1
+- **[Rank Drop]** `Qwen`: Rank dropped by -1
+- **[Rank Drop]** `Qwen/Qwen3-4B-Instruct-2507 · Hugging Face`: Rank dropped by -1
+- **[Rank Drop]** `What Is Retrieval Augmented Generation? | deepset Blog`: Rank dropped by -1
+- **[Rank Drop]** `Haystack Enterprise Starter`: Rank dropped by -1
+- **[Rank Drop]** `Prompt engineering | OpenAI API`: Rank dropped by -1
+- **[Rank Drop]** `Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech`: Rank dropped by -1
+- **[Rank Drop]** `Age appropriate design | ICO`: Rank dropped by -1
+- **[Rank Drop]** `Accountability | ICO`: Rank dropped by -1
+- **[Rank Drop]** `Accueil | European Data Protection Board`: Rank dropped by -1
+- **[Rank Drop]** `Federal Trade Commission | Protecting America's Consumers`: Rank dropped by -1
+- **[Rank Drop]** `Information Commissioner's Office`: Rank dropped by -1
+- **[Rank Drop]** `python-poetry/poetry`: Rank dropped by -1
+- **[Rank Drop]** `pypa/pipx`: Rank dropped by -1
+- **[Rank Drop]** `Install pipx - pipx`: Rank dropped by -1
+- **[Rank Drop]** `Technologies émergentes et protection des mineurs : les autorités de protection des données du G7 s’accordent sur des pr`: Rank dropped by -1
+- **[Rank Drop]** `How do we ensure our IoT products process information lawfully? | ICO`: Rank dropped by -1
+- **[Rank Drop]** `Information Commissioner's Office | LinkedIn`: Rank dropped by -1
+- **[Rank Drop]** `LlamaIndexTS/CONTRIBUTING.md at main · run-llama/LlamaIndexTS · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `Contact the LangChain Sales Team`: Rank dropped by -1
+- **[Rank Drop]** `Developer Labs â Build on Cloudflare`: Rank dropped by -1
+- **[Rank Drop]** `Deep Agents overview - Docs by LangChain`: Rank dropped by -1
+- **[Rank Drop]** `Overview Â· Cloudflare Workers AI docs`: Rank dropped by -1
+- **[Rank Drop]** `sanbuphy/learn-coding-agent`: Rank dropped by -1
+- **[Rank Drop]** `atticus98/codex-turbo`: Rank dropped by -1
+- **[Rank Drop]** `Leanstral 1.5: Proof Abundance for All`: Rank dropped by -1
+- **[Rank Drop]** `Jul 2, 2026AnnouncementsMore details on Fable 5’s cyber safeguards and our jailbreak framework`: Rank dropped by -1
+- **[Rank Drop]** `Jul 6, 2026Case StudyGovernment of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems`: Rank dropped by -1
+- **[Rank Drop]** `ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.`: Rank dropped by -1
+- **[Rank Drop]** `Next.js 16.3: Instant Navigations`: Rank dropped by -1
+- **[Rank Drop]** `Next.js 16.3: AI Improvements`: Rank dropped by -1
+- **[Rank Drop]** `Turbopack: What's New in Next.js 16.3`: Rank dropped by -1
+- **[Rank Drop]** `Run a vLLM Server on HF Jobs in One Command`: Rank dropped by -1
+- **[Rank Drop]** `DiScoFormer: One transformer for density and score, across distributions`: Rank dropped by -1
+- **[Rank Drop]** `Featuring Every Eval Ever Results on Hugging Face Model Pages`: Rank dropped by -1
+- **[Rank Drop]** `Why Specialization Is Inevitable`: Rank dropped by -1
+- **[Rank Drop]** `ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration`: Rank dropped by -1
+- **[Rank Drop]** `Hugging Face and Cerebras bring Gemma 4 to real-time voice AI`: Rank dropped by -1
+- **[Rank Drop]** `🤗 Kernels: Major Updates`: Rank dropped by -1
+- **[Rank Drop]** `PRX Part 4: Our Data Strategy`: Rank dropped by -1
+- **[Rank Drop]** `LeRobot v0.6.0: Imagine, Evaluate, Improve`: Rank dropped by -1
+- **[Rank Drop]** `timm/mobilenetv3_small_100.lamb_in1k`: Rank dropped by -1
+- **[Rank Drop]** `hallucinations-leaderboard/results`: Rank dropped by -1
+- **[Rank Drop]** `anisoleai/fineweb-tokenized`: Rank dropped by -1
+- **[Rank Drop]** `codeparrot/github-code`: Rank dropped by -1
+- **[Rank Drop]** `Postman Inc. · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `Astro AI | Where agents become teammates`: Rank dropped by -1
+- **[Rank Drop]** `Fern: Docs, SDKs, and CLIs for your API`: Rank dropped by -1
+- **[Rank Drop]** `Postman: The World's Leading API Platform | Sign Up for Free`: Rank dropped by -1
+- **[Rank Drop]** `Cloudflare · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `cosai-oasis/ws2-defenders`: Rank dropped by -1
+- **[Rank Drop]** `Home - Coalition for Secure AI`: Rank dropped by -1
+- **[Rank Drop]** `Advancing AI safely and responsibly â Google AI`: Rank dropped by -1
+- **[Rank Drop]** `Cloudflare Developer Docs | Cloudflare Docs`: Rank dropped by -1
+- **[Rank Drop]** `GATE Exam Tutorial - GeeksforGeeks`: Rank dropped by -1
+- **[Rank Drop]** `Protect Privacy Online with Google - Google Safety Center`: Rank dropped by -1
+- **[Rank Drop]** `GDPR FAQs | Cloudflare`: Rank dropped by -1
+- **[Rank Drop]** `Release Notes | Cohere`: Rank dropped by -1
+- **[Rank Drop]** `GeeksforGeeks - YouTube`: Rank dropped by -1
+- **[Rank Drop]** `FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `databrickslabs/doc-qa`: Rank dropped by -1
+- **[Rank Drop]** `- YouTube`: Rank dropped by -1
+- **[Rank Drop]** `All Sites - Stack Exchange`: Rank dropped by -1
+- **[Rank Drop]** `Latest product releases - Stack Overflow`: Rank dropped by -1
+- **[Rank Drop]** `Update your account to meet age requirements - Google Account Help`: Rank dropped by -1
+- **[Rank Drop]** `Safe Browsing â Google Safe Browsing`: Rank dropped by -1
+- **[Rank Drop]** `Transparency Center - Google Product Policies and Policy Areas`: Rank dropped by -1
+- **[Rank Drop]** `How We Handle Ads, Funding, and Data Security - Google - About Google`: Rank dropped by -1
+- **[Rank Drop]** `System Design Tutorial - GeeksforGeeks`: Rank dropped by -1
+- **[Rank Drop]** `hwchase17/langchain`: Rank dropped by -1
+- **[Rank Drop]** `qdrant/qdrant`: Rank dropped by -1
+- **[Rank Drop]** `Machine Learning Tutorial - GeeksforGeeks`: Rank dropped by -1
+- **[Rank Drop]** `Python Tutorial - GeeksforGeeks`: Rank dropped by -1
+- **[Rank Drop]** `qdrant/docs/roadmap/README.md at dev · qdrant/qdrant · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `Changelog - Chroma`: Rank dropped by -1
+- **[Rank Drop]** `crazyaiml/nl-2-sql-agent`: Rank dropped by -1
+- **[Rank Drop]** `FlagOpen/FlagEmbedding`: Rank dropped by -1
+- **[Rank Drop]** `DSA Tutorial - GeeksforGeeks`: Rank dropped by -1
+- **[Rank Drop]** `Best Practices for LLM Evaluation | Databricks Blog`: Rank dropped by -1
+- **[Rank Drop]** `Chroma - open-source search infrastructure for AI`: Rank dropped by -1
+- **[Rank Drop]** `chroma-core/chroma`: Rank dropped by -1
+- **[Rank Drop]** `Docker Systems Status Page`: Rank dropped by -1
+- **[Rank Drop]** `Sign in to GitHub · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `Log In - Stack Overflow`: Rank dropped by -1
+- **[Rank Drop]** `cloudflare/mcp`: Rank dropped by -1
+- **[Rank Drop]** `Job-a-Thon`: Rank dropped by -1
+- **[Rank Drop]** `CompendiumLabs/bge-base-en-v1.5-gguf · Hugging Face`: Rank dropped by -1
+- **[Rank Drop]** `Official App - GeeksforGeeks`: Rank dropped by -1
+- **[Rank Drop]** `Qdrant - Vector Search Engine`: Rank dropped by -1
+- **[Rank Drop]** `LLM Powered Autonomous Agents | Lil'Log`: Rank dropped by -1
+- **[Rank Drop]** `ollama/ollama-python`: Rank dropped by -1
+- **[Rank Drop]** `crazyaiml/Superml.DataTruth`: Rank dropped by -1
+- **[Rank Drop]** `Modular RAG: Transforming RAG Systems into LEGO-like Reconfigurable Frameworks`: Rank dropped by -1
+- **[Rank Drop]** `Practice | GeeksforGeeks | A computer science portal for geeks`: Rank dropped by -1
+- **[Rank Drop]** `Introduction - Chroma Docs`: Rank dropped by -1
+- **[Rank Drop]** `Get Docker | Docker Docs`: Rank dropped by -1
+- **[Rank Drop]** `AI-Application-and-Integration-Lab/MegaRAG`: Rank dropped by -1
+- **[Rank Drop]** `volcengine/OpenViking`: Rank dropped by -1
+- **[Rank Drop]** `RAG System with LangChain and LangGraph - GeeksforGeeks`: Rank dropped by -1
+- **[Rank Drop]** `datawhalechina/wow-rag`: Rank dropped by -1
+- **[Rank Drop]** `Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium`: Rank dropped by -1
+- **[Rank Drop]** `Build a RAG agent with LangChain - Docs by LangChain`: Rank dropped by -1
+- **[Rank Drop]** `Code a simple RAG from scratch`: Rank dropped by -1
+- **[Rank Drop]** `7 Steps to Build a Simple RAG System from Scratch - KDnuggets`: Rank dropped by -1
+- **[Rank Drop]** `Building a RAG Application - GeeksforGeeks`: Rank dropped by -1
+- **[Rank Drop]** `Which tokens does a hybrid model predict better?`: Rank dropped by -1
+- **[Rank Drop]** `OWASP Top 10 for LLM — AI Vendor Risk Assessment | PromptArmor`: Rank dropped by -1
+- **[Rank Drop]** `Dropbox's AI Transparency Center`: Rank dropped by -1
+- **[Rank Drop]** `bvaughn/react-window`: Rank dropped by -1
+- **[Rank Drop]** `AddyOsmani.com - Infinite Scroll without Layout Shifts`: Rank dropped by -1
+- **[Rank Drop]** `Issues · godotengine/godot · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `Linux man pages online`: Rank dropped by -1
+- **[Rank Drop]** `The GNU C Library - GNU Project - Free Software Foundation`: Rank dropped by -1
+- **[Rank Drop]** `Dropbox Dash - Dropbox Help`: Rank dropped by -1
+- **[Rank Drop]** `Dropbox Dash`: Rank dropped by -1
+- **[Rank Drop]** `Dropbox July 2024 Product Updates`: Rank dropped by -1
+- **[Rank Drop]** `Databricks documentation | Databricks on AWS`: Rank dropped by -1
+- **[Rank Drop]** `Learn Databricks - Training & Resources | Databricks`: Rank dropped by -1
+- **[Rank Drop]** `Dropbox AI Principles`: Rank dropped by -1
+- **[Rank Drop]** `Built on Open Source: Innovation and Efficiency | Databricks`: Rank dropped by -1
+- **[Rank Drop]** `Building Agentic Retrieval with LlamaParse Index`: Rank dropped by -1
+- **[Rank Drop]** `neo4j-contrib/rabbithole`: Rank dropped by -1
+- **[Rank Drop]** `Build a User Management App with Next.js | Supabase Docs`: Rank dropped by -1
+- **[Rank Drop]** `Diagram Syntax | Mermaid`: Rank dropped by -1
+- **[Rank Drop]** `Markdown for the component era | MDX`: Rank dropped by -1
+- **[Rank Drop]** `allauth/django-allauth: Integrated set of Django applications addressing authentication, registration, account managemen`: Rank dropped by -1
+- **[Rank Drop]** `The Linux man-pages project`: Rank dropped by -1
+- **[Rank Drop]** `Own Your Impact At Dropbox | Dropbox Careers`: Rank dropped by -1
+- **[Rank Drop]** `Dropbox Dash: Find anything. Protect everything.`: Rank dropped by -1
+- **[Rank Drop]** `Home | Databricks`: Rank dropped by -1
+- **[Rank Drop]** `- YouTube`: Rank dropped by -1
+- **[Rank Drop]** `- YouTube`: Rank dropped by -1
+- **[Rank Drop]** `Read the Docs · GitHub`: Rank dropped by -1
+- **[Rank Drop]** `Interrupt 2026 Recordings | The Agent Conference by LangChain`: Rank dropped by -1
+- **[Rank Drop]** `Towards a Bathroom-Centered Human-Building Digital Twin Framework for Indoor Safety Analysis`: Rank dropped by -1
+- **[Rank Drop]** `PhoneBuddy: Training Open Models for Agentic Phone Use`: Rank dropped by -1
+- **[Rank Drop]** `RARM: Confidence-Gated Progress Reward Modeling for RL in Manipulation`: Rank dropped by -1
+- **[Rank Drop]** `FinRED: An Expert-Guided Benchmark Generation and Evaluation Framework for Financial LLM Red-Teaming`: Rank dropped by -1
+- **[Rank Drop]** `BioVid: Autoregressive Video Generation with Biological Behavior Semantic Comprehension`: Rank dropped by -1
+- **[Rank Drop]** `MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism`: Rank dropped by -1
+- **[Rank Drop]** `ECM Contracts: Contract-Aware, Versioned, and Governable Capability Interfaces for Embodied Agents`: Rank dropped by -1
+- **[Rank Drop]** `Backbone-Conditional Behavior of Modality Gating in Multi-Modal Prostate MRI Segmentation: A 5-Fold Cross-Validation and Gate Mechanism Analysis`: Rank dropped by -1
+- **[Rank Drop]** `Evaluating Scene-based In-Situ Item Labeling for Immersive Conversational Recommendation`: Rank dropped by -1
+- **[Rank Drop]** `Incremental Residual Reinforcement Learning Toward Real-World Learning for Social Navigation`: Rank dropped by -1
+- **[Rank Drop]** `PhyGile: Physics-Prefix Guided Motion Generation for Agile General Humanoid Motion Tracking`: Rank dropped by -1
+- **[Rank Drop]** `Spatial Transcriptomics as Images for Large-Scale Pretraining`: Rank dropped by -1
+- **[Rank Drop]** `ZeroWBC: Learning Natural Whole-Body Humanoid Interaction from Human Egocentric Data`: Rank dropped by -1
+- **[Rank Drop]** `How Small Can 6G Reason? Scaling Tiny-to-Small Language Models for AI-Native Networks`: Rank dropped by -1
+- **[Rank Drop]** `Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?`: Rank dropped by -1
+- **[Rank Drop]** `ReaDy-Go: Real-to-Sim Dynamic 3D Gaussian Splatting Simulation for Environment-Specific Visual Navigation with Moving Obstacles`: Rank dropped by -1
+- **[Rank Drop]** `SPARC: Separating Perception And Reasoning Circuits for Test-time Scaling of VLMs`: Rank dropped by -1
+- **[Rank Drop]** `Tinker Tales: A Tangible Dialogue System for Child-AI Co-Creative Storytelling`: Rank dropped by -1
+- **[Rank Drop]** `Verifiable Manifest Signing and Transparency Enforcement for Secure MCP-Based LLM Pipelines`: Rank dropped by -1
+- **[Rank Drop]** `AMVICC: A Novel Benchmark for Cross-Modal Failure Mode Profiling for VLMs and IGMs`: Rank dropped by -1
+- **[Rank Drop]** `TIDAL: Temporally Interleaved Diffusion and Action Loop for High-Frequency VLA Control`: Rank dropped by -1
+- **[Rank Drop]** `A Marketplace for AI-Generated Adult Content and Deepfakes`: Rank dropped by -1
+- **[Rank Drop]** `Membox: Weaving Topic Continuity into Long-Range Memory for LLM Agents`: Rank dropped by -1
+- **[Rank Drop]** `HaineiFRDM: Structure-Preserving Diffusion for Film Restoration under Fast Motion and Diverse Defects`: Rank dropped by -1
+- **[Rank Drop]** `CustomX: Unified Character, Action, and Scene Customization in Video World Models`: Rank dropped by -1
+- **[Rank Drop]** `Epistemic Bias Injection: Manipulating LLM Opinion via Selective Context Retrieval`: Rank dropped by -1
+- **[Rank Drop]** `Introduction to Automated Negotiation`: Rank dropped by -1
+- **[Rank Drop]** `Reinforcement Learning Improves Traversal of Parametric Knowledge in LLMs`: Rank dropped by -1
+- **[Rank Drop]** `Domain-Specific Agents for Cherenkov Telescope Array Control Software and Gamma-Ray Data Analysis`: Rank dropped by -1
+- **[Rank Drop]** `Agentic Software Engineering: Foundational Pillars and a Research Roadmap`: Rank dropped by -1
+- **[Rank Drop]** `Position: Reasoning After Perception Means Reasoning Without Vision`: Rank dropped by -1
+- **[Rank Drop]** `Latent Space Analysis for Interpretable Uncertainty in Melanoma Classification`: Rank dropped by -1
+- **[Rank Drop]** `Agent-as-a-Router: Agentic Model Routing for Coding Tasks`: Rank dropped by -1
+- **[Rank Drop]** `VADAOrchestra: Neurosymbolic Orchestration of Adaptive Reasoning Workflows`: Rank dropped by -1
+- **[Rank Drop]** `Geometry-Aware Online Scheduling for LLM Serving: From Theoretical Bound to System Practice`: Rank dropped by -1
+- **[Rank Drop]** `Specifying AI-SDLC Processes: A Protocol Language for Human-Agent Boundaries`: Rank dropped by -1
+- **[Rank Drop]** `Toten: A Knowledge-Based System For Structure-Preserving Representation Of Physical Quantities And Technical Notation In Brazilian Portuguese`: Rank dropped by -1
+- **[Rank Drop]** `The Token Not Taken: Sampling, State, and the Stochasticity of AI Agents`: Rank dropped by -1
+- **[Rank Drop]** `Entropy-Based Observability for AI Agent Behavior`: Rank dropped by -1
+- **[Rank Drop]** `Distilling Answer-Set Programming Rules from LLMs for Neurosymbolic Visual Question Answering`: Rank dropped by -1
+- **[Rank Drop]** `Governing Technical Debt in Agentic AI Systems`: Rank dropped by -1
+- **[Rank Drop]** `Shepherd: Enabling Programmable Meta-Agents via Reversible Agentic Execution Traces`: Rank dropped by -1
+- **[Rank Drop]** `Improving Zero-Shot Offline RL via Behavioral Task Sampling`: Rank dropped by -1
+- **[Rank Drop]** `Plausible but Wrong: A case study on Agentic Failures in Astrophysical Workflows`: Rank dropped by -1
+- **[Rank Drop]** `Judging the Judges: A Systematic Evaluation of Bias Mitigation Strategies in LLM-as-a-Judge Pipelines`: Rank dropped by -1
+- **[Rank Drop]** `EvoAgent: An Evolvable Agent Framework with Skill Learning and Multi-Agent Delegation`: Rank dropped by -1
+- **[Rank Drop]** `CLEF HIPE-2026: Evaluating Accurate and Efficient Person-Place Relation Extraction from Multilingual Historical Texts`: Rank dropped by -1
+- **[Rank Drop]** `CausalRAG2: Hierarchical Causal Knowledge Graph Design for RAG`: Rank dropped by -1
+- **[Rank Drop]** `Exploring Information Seeking Agent Consolidation`: Rank dropped by -1
+- **[Rank Drop]** `SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care`: Rank dropped by -1
+- **[Rank Drop]** `Learning Action Priors for Cross-embodiment Robot Manipulation`: Rank dropped by -1
+- **[Rank Drop]** `A cross-process welding penetration status prediction algorithm based on unsupervised domain adaptation in laser and TIG welding`: Rank dropped by -1
+- **[Rank Drop]** `A welding penetration prediction model for laser welding process based on self-supervised learning using physics-informed neural networks`: Rank dropped by -1
+- **[Rank Drop]** `TriViewBench: Controlled Complexity Scaling for Multi-View Structural Reasoning in MLLMs`: Rank dropped by -1
+- **[Rank Drop]** `Can Trustless Agents Be Trusted? An Empirical Study of the ERC-8004 Decentralized AI Agent Ecosystem`: Rank dropped by -1
+- **[Rank Drop]** `Privacy Vulnerabilities of Attention Layers in Tabular Foundation Models and Protection of High-Risk Queries`: Rank dropped by -1
+- **[Rank Drop]** `FORCE: Efficient VLA Reinforcement Fine-Tuning via Value-Calibrated Warm-up and Self-Distillation`: Rank dropped by -1
+- **[Rank Drop]** `Variable Bound Tightening for Nash Equilibrium Computation in Multiplayer Imperfect-Information Games`: Rank dropped by -1
+- **[Rank Drop]** `SpeechEQ: Benchmarking Emotional Intelligence Quotient in Socially Aware Voice Conversational Models`: Rank dropped by -1
+- **[Rank Drop]** `Helpful or Harmful? Evaluating LLM-Assisted Vulnerability Patching via a Human Study`: Rank dropped by -1
+- **[Rank Drop]** `SE-AGCNet: An End-to-End Framework for Joint Speech Enhancement and Loudness Control in Meeting Scenarios`: Rank dropped by -1
+- **[Rank Drop]** `Measurable Majorities Are Not Finitely Axiomatizable`: Rank dropped by -1
+- **[Rank Drop]** `Explainable Control Framework (XCF) based on Fuzzy Model-Agnostic Explanation and LLM Agent-Supported Interface`: Rank dropped by -1
+- **[Rank Drop]** `Overview of HIPE-2026: Person-Place Relation Extraction from Multilingual Historical Texts`: Rank dropped by -1
+- **[Rank Drop]** `Enhancing Brain MRI Anomaly Detection and Reasoning with ROI Rethink and Synthetic Data`: Rank dropped by -1
+- **[Rank Drop]** `AI-Assisted Computational Reproducibility on the FABRIC Testbed`: Rank dropped by -1
+- **[Rank Drop]** `AutoRelAnnotator: Calibrated Model Cascades for Cost-Efficient Relevance Evaluation in Sponsored Search`: Rank dropped by -1
+- **[Rank Drop]** `Edges Before Embeddings: A Confidence-Aware Blur Gate for Vision-Language Pipelines`: Rank dropped by -1
+- **[Rank Drop]** `SARA: Unlocking Multilingual Knowledge in Mixture-of-Experts via Semantically Anchored Routing Alignment`: Rank dropped by -1
+- **[Rank Drop]** `Do Encoders Suffice? A Systematic Comparison of Encoder and Decoder Safety Judges for LLM Adversarial Evaluation`: Rank dropped by -1
+- **[Rank Drop]** `Point Cloud Diffusion with Global and Local Reconstruction for Instance-Level 3D Anomaly Detection`: Rank dropped by -1
+- **[Rank Drop]** `Average-Power-Budgeted Underwater Vehicle Control via Constrained Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `Steering Vision-Language Models with Joint Sparse Autoencoders`: Rank dropped by -1
+- **[Rank Drop]** `Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization`: Rank dropped by -1
+- **[Rank Drop]** `Taxonomy of Risks on Automated Fact-Checking Systems Considering its Propagation`: Rank dropped by -1
+- **[Rank Drop]** `Staying In Character: Perspective-Bounded Memory For Book-Based Role-Playing Agents`: Rank dropped by -1
+- **[Rank Drop]** `Probabilistic Agents in Deterministic Audits: Evaluating Multi-Agent Systems for Automated Audits Based on the German IT-Grundschutz`: Rank dropped by -1
+- **[Rank Drop]** `An Approach for a Supporting Multi-LLM System for Automated Certification Based on the German IT-Grundschutz`: Rank dropped by -1
+- **[Rank Drop]** `SFL-MTSC: Leveraging Semantic Frame-Level Multi-Task Self-Consistency for Robust Multi-Intent Spoken Language Understanding`: Rank dropped by -1
+- **[Rank Drop]** `Evaluating LLMs on Real-World Software Performance Optimization`: Rank dropped by -1
+- **[Rank Drop]** `STEB: A Speech-to-Speech Translation Expressiveness Benchmark for Evaluating Beyond Translation Fidelity`: Rank dropped by -1
+- **[Rank Drop]** `The impact of artificial intelligence on enterprise software user roles`: Rank dropped by -1
+- **[Rank Drop]** `Spam and Sentiment Detection in Arabic Tweets Using MARBERT Model`: Rank dropped by -1
+- **[Rank Drop]** `HG-Bench: A Benchmark for Multi-Page Handwritten Answer-Region Grounding in Automated Homework Assessment`: Rank dropped by -1
+- **[Rank Drop]** `Rate-Aware Quantum-Inspired Trajectory Learning for Interference-Limited Multi-UAV Networks`: Rank dropped by -1
+- **[Rank Drop]** `A Red Teaming Framework for Large Language Models: A Case Study on Faithfulness Evaluation`: Rank dropped by -1
+- **[Rank Drop]** `EchoStyle: Unlocking High-Fidelity Video Stylization with Reverse Data Synthesis`: Rank dropped by -1
+- **[Rank Drop]** `C3-Bench: A Context-Aware Change Captioning Benchmark`: Rank dropped by -1
+- **[Rank Drop]** `Adaptive Oscillatory Inductive Bias for Modeling Sharp Prosodic Dynamics in Diffusion-Based TTS`: Rank dropped by -1
+- **[Rank Drop]** `CrossAccent-TTS: Cross-Lingual Accent-Intensity Controllable Text-to-Speech via Disentangled Speaker and Accent Representations`: Rank dropped by -1
+- **[Rank Drop]** `LibEvoBench: Probing Temporal Knowledge Stratification in Code Generation Models`: Rank dropped by -1
+- **[Rank Drop]** `Lightweight PCGAE-Net: Parallel CrossGate Attention and Bottleneck AutoEncoder for Efficient 5G Channel Prediction`: Rank dropped by -1
+- **[Rank Drop]** `From Sounds to Scenes: A Benchmark for Evaluating Context-Aware Auditory Scene Understanding in Large Audio Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Anatomically-conditioned Latent Diffusion Model for Data-Efficient Few-Shot Cross-Domain 3D Glioma MRI Synthesis`: Rank dropped by -1
+- **[Rank Drop]** `Beyond Visual Forensics: Auditing Multimodal Robustness for Synthetic Medical Image Detection`: Rank dropped by -1
+- **[Rank Drop]** `Conformal Recovery-Deadline Certificates for Runtime Assurance of Adapting Controllers`: Rank dropped by -1
+- **[Rank Drop]** `Sarashina2.2-TTS: Tackling Kanji Polyphony in Japanese Speech Generation via Data Scaling and Targeted Data Synthesis`: Rank dropped by -1
+- **[Rank Drop]** `Reliability-Asymmetric Spacecraft Autonomy: Co-Designing a Capable Learned GNC Stack with a Verified, Adaptation-Aware Runtime Shield`: Rank dropped by -1
+- **[Rank Drop]** `Neural Machine Translation for Low-Resource Tangkhul--English`: Rank dropped by -1
+- **[Rank Drop]** `TheoremGraph: Bridging Formal and Informal Mathematics`: Rank dropped by -1
+- **[Rank Drop]** `Memory Makes the Difference: Evaluating How Different Memory Roles Shape Conversational Agents`: Rank dropped by -1
+- **[Rank Drop]** `AI Coaching for Accelerating Human Skill Development with Reinforcement Learning`: Rank dropped by -1
+- **[Rank Drop]** `Decoupling Reconnaissance and Exploitation: Measuring the Capability Boundaries of LLM-Based Web Penetration Testing`: Rank dropped by -1
+- **[Rank Drop]** `Supervised Post-training of Speech Foundation Models for Robust Adaptation in Speech Deepfake Detection`: Rank dropped by -1
+- **[Rank Drop]** `ESTANet: Efficient Online Error Detection in Procedural Videos via Prediction Inconsistency`: Rank dropped by -1
+- **[Rank Drop]** `Physics Question Scene Graph: Fine-grained Evaluation of Physical Plausibility in Text-to-Video Generation`: Rank dropped by -1
+- **[Rank Drop]** `Heterogeneous and Adept Snapshot Distillation for 3D Semantic Segmentation`: Rank dropped by -1
+- **[Rank Drop]** `RAVEN: Long-Horizon Reasoning & Navigation with a Visuo-Spatio-Temporal Memory`: Rank dropped by -1
+- **[Rank Drop]** `SoK: AI Secure Code Generation: Progress, Pitfalls, and Paths Forward`: Rank dropped by -1
+- **[Rank Drop]** `Phoneme-Level Mispronunciation Screening in Polish-Speaking Children with an Explainable Assistant`: Rank dropped by -1
+- **[Rank Drop]** `Hitting a Moving Target: Test-Time Adaptation for AI Text Detection under Continual Distribution Shift`: Rank dropped by -1
+- **[Rank Drop]** `Proactive Systems in HCI and AI: Concepts, Challenges, and Opportunities`: Rank dropped by -1
+- **[Rank Drop]** `BCoughBench: Benchmarking Respiratory Acoustic Foundation Models Under Body-Coupled Wearable Sensor Conditions`: Rank dropped by -1
+- **[Rank Drop]** `Power-Flexible AI Data Centers: A New Paradigm for Grid-Responsive Compute`: Rank dropped by -1
+- **[Rank Drop]** `What Does It Mean to Break a Distillation Defense?`: Rank dropped by -1
+- **[Rank Drop]** `Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models`: Rank dropped by -1
+- **[Rank Drop]** `Yuvion VL: A Multimodal Foundation Model for Adversarial Content and AI Safety`: Rank dropped by -1
+- **[Rank Drop]** `Noise-Aware Boundary-Enhanced Generative Learning for Ultrasound Speckle Reduction`: Rank dropped by -1
+- **[Rank Drop]** `What Does a Pathological Speech Assessment Model Know about Acoustic Features? A Case Study on Oral and Oropharyngeal Cancer Patients`: Rank dropped by -1
+- **[Rank Drop]** `EmotionAI: A Privacy-Preserving Computational Intelligence Pipeline for Speech-Emotion-Grounded Conversational Analysis`: Rank dropped by -1
+- **[Rank Drop]** `Privacy-preserving federated tensor decomposition of single-cell immune data: recovering multicellular programs across institutions`: Rank dropped by -1
+- **[Rank Drop]** `Error-Aware TF-IDF Retrieval-Augmented Generation for ASR Error Correction`: Rank dropped by -1
+- **[Rank Drop]** `Velocity Prediction in Automatic Guitar Transcription`: Rank dropped by -1
+- **[Rank Drop]** `Attractive and Repulsive Pattern Control in Sequence Generation`: Rank dropped by -1
+- **[Rank Drop]** `End-to-End Voice Intent Recognition for Spontaneous Human-Drone Interaction with Naive Users`: Rank dropped by -1
 
 ... (older logs truncated to save space) ...
