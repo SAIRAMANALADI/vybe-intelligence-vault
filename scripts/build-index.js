@@ -458,7 +458,10 @@ async function buildIndex() {
   // 4. Sync copy to React assets if public folder exists
   if (fs.existsSync(REACT_PUBLIC_DIR)) {
     const reactIndexFile = path.join(REACT_PUBLIC_DIR, 'vault-index.json');
-    fs.writeFileSync(reactIndexFile, JSON.stringify(indexObject, null, 2), 'utf-8');
+    const sourceIndex = path.join(VAULT_ROOT, 'vault-core', 'vault-index.json');
+    if (fs.existsSync(sourceIndex)) {
+      fs.copyFileSync(sourceIndex, reactIndexFile);
+    }
     console.log(`Saved index copy to React: ${reactIndexFile}`);
     copyMarkdownFiles();
   }
