@@ -3,7 +3,7 @@ title: Artificial intelligence script steps
 archive_category: datasets
 source_category: ai/rag
 source_url: https://help.claris.com/en/pro-help/content/artificial-intelligence-script-steps.html
-resource_id: blog:artificial-intelligence-script-steps
+resource_id: blog:artificial-intelligence-script-steps-b589ac68
 local_vault_path: ai/rag/artificial-intelligence-script-steps.md
 quality_score: 70
 archive_score: 74

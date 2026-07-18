@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-18T16:32:29.269377+05:30`
+Generated at: `2026-07-18T17:06:28.525993+05:30`
 
 ## Executive Summary
 
@@ -8,41 +8,47 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Medium - Apps on Google Play** - Score: `0` in category `ai/rag` ([Link](https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar)) ([File](../ai/rag/medium-apps-on-google-play.md))
-- **pinecone-io/canopy** - Score: `0` in category `ai/rag` ([Link](https://github.com/pinecone-io/canopy)) ([File](../ai/rag/pinecone-io-canopy.md))
-- **Medium Terms of Service | by Medium | Medium Policy** - Score: `0` in category `ai/rag` ([Link](https://policy.medium.com/medium-terms-of-service-9db0094a1e0f)) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
-- **The Medium Blog** - Score: `0` in category `ai/rag` ([Link](https://blog.medium.com)) ([File](../ai/rag/the-medium-blog.md))
-- **Medium Rules | by Medium | Medium Policy** - Score: `0` in category `ai/rag` ([Link](https://policy.medium.com/medium-rules-30e5502c4eb4)) ([File](../ai/rag/medium-rules-by-medium-medium-policy.md))
-- **EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI** - Score: `0` in category `ai/companies/mistral` ([Link](https://mistral.ai/news/more-control-over-connectors)) ([File](../ai/companies/mistral/bringing-more-control-over-your-connectors.md))
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
-- **ProductIntroducing Search ToolkitProduction search pipelines, anywhere.May 28, 2026By Mistral** - Score: `0` in category `ai/companies/mistral` ([Link](https://mistral.ai/news/search-toolkit)) ([File](../ai/companies/mistral/introducing-search-toolkit.md))
-- **CompanyAI Now Summit 2026Innovations for global enterprises solving the world’s hardest problems. May 28, 2026By Mistral** - Score: `0` in category `ai/companies/mistral` ([Link](https://mistral.ai/news/ai-now-summit-2026)) ([File](../ai/companies/mistral/ai-now-summit-2026.md))
+- **Painting the sides of railroad rails white to reduce derailment** - Score: `106` in category `ai/community` ([Link](https://up.com/news/safety/tracking-rail-heat-260608)) ([File](../ai/community/painting-the-sides-of-railroad-rails-white-to-redu.md))
+- **In-toto: A framework to secure the integrity of software supply chains** - Score: `39` in category `ai/community` ([Link](https://in-toto.io)) ([File](../ai/community/in-toto-a-framework-to-secure-the-integrity-of-sof.md))
+- **java-firestore/samples/snippets/src/main/java/com/example/firestore/snippets/References.java at dd16eb077d99ea3c7ddb213b** - Score: `0` in category `ai/resources` ([Link](https://github.com/googleapis/java-firestore)) ([File](../ai/resources/googleapis-java-firestore.md))
+- **golang-samples/firestore/retrieve_data_reference_document_path.go at af997254beb8488699cc9770c7632fedf8731d97 · GoogleCl** - Score: `0` in category `ai/resources` ([Link](https://github.com/googlecloudplatform/golang-samples)) ([File](../ai/resources/googlecloudplatform-golang-samples.md))
+- **GitHub Enterprise · The AI-powered developer platform for the agent-ready enterprise · GitHub** - Score: `0` in category `ai/rag` ([Link](https://github.com/enterprise)) ([File](../ai/rag/github-enterprise-the-ai-powered-developer-platfor.md))
+- **GitHub Partner Program · GitHub** - Score: `0` in category `ai/rag` ([Link](https://partner.github.com)) ([File](../ai/rag/github-partner-program-github.md))
+- **About GitHub · GitHub** - Score: `0` in category `ai/resources` ([Link](https://github.com/about)) ([File](../ai/resources/about-github-github.md))
+- **git-scm / Git · GitLab** - Score: `0` in category `ai/resources` ([Link](https://gitlab.com/git-scm/git)) ([File](../ai/resources/git-scm-git-gitlab.md))
+- **Google Sustainability** - Score: `0` in category `ai/rag` ([Link](https://sustainability.google)) ([File](../ai/rag/google-sustainability.md))
+- **(Deprecated) Android Room with a View - Kotlin | Android Developers** - Score: `0` in category `ai/rag` ([Link](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin)) ([File](../ai/rag/deprecated-android-room-with-a-view-kotlin-android.md))
+- **android/nowinandroid** - Score: `0` in category `ai/resources` ([Link](https://github.com/android/nowinandroid)) ([File](../ai/resources/android-nowinandroid.md))
+- **webm/libwebp - Git at Google** - Score: `0` in category `ai/resources` ([Link](https://chromium.googlesource.com/webm/libwebp)) ([File](../ai/resources/webm-libwebp-git-at-google.md))
+- **The WebM Project | Developer Overview** - Score: `0` in category `ai/rag` ([Link](https://webmproject.org/code)) ([File](../ai/rag/the-webm-project-developer-overview.md))
+- **pydata/pydata-sphinx-theme** - Score: `0` in category `ai/rag` ([Link](https://github.com/pydata/pydata-sphinx-theme)) ([File](../ai/rag/pydata-pydata-sphinx-theme.md))
+- **List of services & service-specific additional terms – Privacy & Terms – Google** - Score: `0` in category `ai/rag` ([Link](https://policies.google.com/terms/service-specific?hl=en-US)) ([File](../ai/rag/list-of-services-service-specific-additional-terms.md))
 
 ## Top Trending Resources
 
-- **Medium Members Can Listen To Any Medium Story With The Speechify Play Button | Speechify** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/medium-members-can-listen-to-any-medium-story-with.md))
-- **Home - The GitHub Blog** - Score: `0` (0), Rank Change: `+1` ([File](../ai/resources/home-the-github-blog.md))
-- **LinkedIn** - Score: `0` (0), Rank Change: `+1` ([File](../ai/resources/linkedin.md))
-- **GitHub Changelog** - Score: `0` (0), Rank Change: `+1` ([File](../ai/resources/github-changelog.md))
-- **The Agent Skills Directory** - Score: `0` (0), Rank Change: `+1` ([File](../ai/agents/the-agent-skills-directory.md))
-- **llama-index · PyPI** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/llama-index-pypi.md))
-- **run-llama/llama_deploy** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/run-llama-llama-deploy.md))
-- **DagsHub** - Score: `0` (0), Rank Change: `+1` ([File](../ai/resources/dagshub.md))
-- **DagsHub - YouTube** - Score: `0` (0), Rank Change: `+1` ([File](../ai/resources/dagshub-youtube.md))
-- **Mailing list Subscription Form** - Score: `0` (0), Rank Change: `+1` ([File](../ai/resources/mailing-list-subscription-form.md))
+- **The state of open source AI** - Score: `454` (+179), Rank Change: `+1` ([File](../ai/community/mozilla-the-state-of-open-source-ai.md))
+- **Sign in - Google Accounts** - Score: `0` (0), Rank Change: `+401` ([File](../ai/resources/sign-in-google-accounts.md))
+- **gitiles - Git at Google** - Score: `0` (0), Rank Change: `+2578` ([File](../ai/resources/gitiles-git-at-google.md))
+- **pnpm - Open Collective** - Score: `0` (0), Rank Change: `+7449` ([File](../ai/rag/pnpm-open-collective.md))
+- **git/git** - Score: `0` (0), Rank Change: `+1014` ([File](../ai/resources/git-git.md))
+- **Researching with GitHub Copilot CLI - GitHub Docs** - Score: `0` (0), Rank Change: `+958` ([File](../ai/agents/researching-with-github-copilot-cli-github-docs.md))
+- **microsoft/vscode** - Score: `0` (0), Rank Change: `+368` ([File](../ai/rag/microsoft-vscode.md))
+- **GitHub Copilot CLI command reference - GitHub Docs** - Score: `0` (0), Rank Change: `+366` ([File](../ai/rag/github-copilot-cli-command-reference-github-docs.md))
+- **electron/electron** - Score: `0` (0), Rank Change: `+55` ([File](../ai/rag/electron-electron.md))
+- **Google Accessibility Help** - Score: `0` (0), Rank Change: `+6999` ([File](../ai/resources/google-accessibility-help.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **ritik-prog/n8n-automation-templates-5000** - (Rank Change: `+4`) ([File](../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
-- **stackitcloud/rag-template** - (Rank Change: `+4`) ([File](../ai/rag/stackitcloud-rag-template.md))
-- **langchain-ai/rag-research-agent-template** - (Rank Change: `+4`) ([File](../ai/rag/langchain-ai-rag-research-agent-template.md))
-- **vstorm-co/full-stack-ai-agent-template** - (Rank Change: `+4`) ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
-- **rsrohan99/rag-stream-intermediate-events-tutorial** - (Rank Change: `+4`) ([File](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md))
-- **vercel-labs/ai-sdk-preview-rag** - (Rank Change: `+4`) ([File](../ai/rag/vercel-labs-ai-sdk-preview-rag.md))
-- **enescingoz/awesome-n8n-templates** - (Rank Change: `+4`) ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
-- **lancedb/vectordb-recipes** - (Rank Change: `+4`) ([File](../ai/rag/lancedb-vectordb-recipes.md))
-- **techwithtim/Langflow-RAG-Tutorial** - (Rank Change: `+4`) ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
-- **pguso/rag-from-scratch** - (Rank Change: `+4`) ([File](../ai/rag/pguso-rag-from-scratch.md))
+- **Medium Status** - (Rank Change: `+12319`) ([File](../ai/resources/medium-status.md))
+- **Medium Help Center** - (Rank Change: `+12284`) ([File](../ai/resources/medium-help-center.md))
+- **stanford-oval/storm** - (Rank Change: `+12282`) ([File](../ai/rag/stanford-oval-storm.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+10228`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **Making sure you're not a bot!** - (Rank Change: `+7664`) ([File](../ai/resources/making-sure-you-re-not-a-bot.md))
+- **pnpm - Open Collective** - (Rank Change: `+7449`) ([File](../ai/rag/pnpm-open-collective.md))
+- **Google Accessibility Help** - (Rank Change: `+6999`) ([File](../ai/resources/google-accessibility-help.md))
+- **About Google: Our products, technology and company information - About Google** - (Rank Change: `+6489`) ([File](../ai/rag/about-google-our-products-technology-and-company-i.md))
+- **Quickstart - Furo** - (Rank Change: `+5860`) ([File](../ai/resources/quickstart-furo.md))
+- **Community Guide** - (Rank Change: `+5122`) ([File](../ai/resources/community-guide.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -53,5 +59,7 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Apple targets dozens of OpenAI employees with legal letters** (Category: `ai/community`) ([File](../ai/community/apple-targets-dozens-of-openai-employees-with-lega.md))
+- **EEG shows brain can simultaneous encode two speech streams** (Category: `ai/community`) ([File](../ai/community/eeg-shows-brain-can-simultaneous-encode-two-speech.md))
+- **AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM** (Category: `ai/community`) ([File](../ai/community/ai-meets-cryptography-2-what-ai-found-in-openvm-s.md))
+- **VulnHunter: Capital One's agentic AI code security tool** (Category: `ai/community`) ([File](../ai/community/vulnhunter-capital-one-s-agentic-ai-code-security.md))

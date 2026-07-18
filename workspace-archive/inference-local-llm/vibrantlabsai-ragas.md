@@ -3,7 +3,7 @@ title: ragas/docs/getstarted/evals.md at main · vibrantlabsai/ragas · GitHub
 archive_category: inference-local-llm
 source_category: ai/rag
 source_url: https://github.com/vibrantlabsai/ragas/blob/master/docs/getstarted/evals.md
-resource_id: github:vibrantlabsai/ragas
+resource_id: github:vibrantlabsai/ragas-f9c7ef37
 local_vault_path: ai/rag/vibrantlabsai-ragas.md
 quality_score: 70
 archive_score: 77

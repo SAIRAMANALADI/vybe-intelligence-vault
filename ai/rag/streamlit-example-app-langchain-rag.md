@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-07-18T01:06:43.033144+05:30'
+collected_at: '2026-07-18T16:49:32.125226+05:30'
 published_at: '2026-07-16T10:59:46Z'
 tags:
 - github-repo
+- openai
 - python
 - rag
 - workflows
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-07-18T01:06:43.033144+05:30'
-last_seen: '2026-07-18T01:06:43.033144+05:30'
-last_checked: '2026-07-18T01:06:43.033144+05:30'
+first_seen: '2026-07-18T16:49:32.125226+05:30'
+last_seen: '2026-07-18T16:49:32.125226+05:30'
+last_checked: '2026-07-18T16:49:32.125226+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: Python-based Streamlit app integrating LangChain for RAG pipelines, leveraging vector stores (e.g., FAISS/Chroma) and hybrid search (combining dense + sparse retrieval).
-- **Core Functionality**: Demonstrates end-to-end RAG workflow: document ingestion → embedding → vector storage → retrieval → LLM augmentation → interactive UI.
-- **Hybrid Search Implementation**: Combines semantic (vector) and keyword (BM25/sparse) retrieval for improved accuracy, with Streamlit UI for query input/output and result visualization.
+- **Hybrid RAG Pipeline**: Implements a Streamlit app integrating LangChain with a vector store (e.g., FAISS) and hybrid search (combining dense + sparse retrieval) for enhanced document retrieval and generation.
+
+- **Modular LangChain Components**: Utilizes LangChain’s `RetrievalQA` chain with customizable retrievers, embeddings (e.g., HuggingFace), and LLMs (e.g., OpenAI) for end-to-end RAG workflows.
+
+- **Streamlit UI for RAG**: Provides a real-time interactive interface to input queries, display retrieved context, and stream generated responses with configurable parameters (e.g., search top-k, temperature).
 
 ## Why It Matters
 

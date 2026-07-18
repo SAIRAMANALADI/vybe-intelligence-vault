@@ -3,7 +3,7 @@ title: Zendesk Academy
 archive_category: frontend-ai-ui
 source_category: ai/rag
 source_url: https://academy.zendesk.com
-resource_id: blog:zendesk-academy
+resource_id: blog:zendesk-academy-99de1c2b
 local_vault_path: ai/rag/zendesk-academy.md
 quality_score: 70
 archive_score: 72

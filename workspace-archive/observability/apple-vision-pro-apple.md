@@ -3,7 +3,7 @@ title: Apple Vision Pro - Apple
 archive_category: observability
 source_category: ai/resources
 source_url: https://www.apple.com/apple-vision-pro
-resource_id: blog:apple-vision-pro-apple
+resource_id: blog:apple-vision-pro-apple-968d1b9c
 local_vault_path: ai/resources/apple-vision-pro-apple.md
 quality_score: 70
 archive_score: 72

@@ -4,24 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/electron/electron
-collected_at: '2026-07-18T01:13:21.887105+05:30'
-published_at: '2026-07-17T19:15:29Z'
+collected_at: '2026-07-18T16:59:16.390341+05:30'
+published_at: '2026-07-18T10:50:19Z'
 tags:
 - c++
 - github-repo
-- hackernews
 - rag
-stars: 122065
+stars: 122074
 language: C++
 status: active
 license: MIT
 archived: false
 created_at: '2013-04-12T01:47:36Z'
-pushed_at: '2026-07-17T19:06:03Z'
+pushed_at: '2026-07-18T06:58:59Z'
 resource_id: github:electron/electron
-first_seen: '2026-07-18T01:13:21.887105+05:30'
-last_seen: '2026-07-18T01:13:21.887105+05:30'
-last_checked: '2026-07-18T01:13:21.887105+05:30'
+first_seen: '2026-07-18T16:59:16.390341+05:30'
+last_seen: '2026-07-18T16:59:16.390341+05:30'
+last_checked: '2026-07-18T16:59:16.390341+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Cross-platform desktop framework** leveraging Chromium, Node.js, and V8 to build native GUI applications using web technologies (HTML, CSS, JavaScript).
-- **Core architecture** integrates a modified Chromium browser engine with Node.js runtime, enabling direct access to OS APIs while maintaining web compatibility.
-- **Performance-critical components** include Blink (rendering), V8 (JS engine), and libuv (async I/O), optimized for desktop application scalability and native integration.
+- **Cross-platform desktop app framework** leveraging **Chromium (Blink/V8)**, **Node.js**, and **C++** for rendering and backend integration.
+- **Core components**: Uses **Blink** for rendering, **V8** for JavaScript execution, and **libuv** for async I/O, enabling native-like desktop apps with **HTML/CSS/JS**.
+- **Architecture**: Combines **Chromium’s multi-process model** with **Electron’s IPC (Inter-Process Communication)** for secure, isolated renderer and main processes.
 
 ## Why It Matters
 
@@ -40,15 +39,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: electron
-- Stars: 122065
-- Forks: 17311
+- Stars: 122074
+- Forks: 17313
 - Language: C++
 - Topics: c-plus-plus, chrome, css, electron, html, javascript, nodejs, v8, works-with-codespaces
-- Last Updated: 2026-07-17T19:15:29Z
+- Last Updated: 2026-07-18T10:50:19Z
 - License: MIT
 - Archived: No
 - Created At: 2013-04-12T01:47:36Z
-- Pushed At: 2026-07-17T19:06:03Z
+- Pushed At: 2026-07-18T06:58:59Z
 
 ## Possible Use Cases
 

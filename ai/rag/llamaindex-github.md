@@ -3,22 +3,24 @@ title: LlamaIndex · GitHub
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/run-llama
-published_at: '2026-07-18T01:10:28.568085+05:30'
-collected_at: '2026-07-18T01:10:28.568099+05:30'
+source_url: https://github.com/run-llama/
+published_at: '2026-07-18T16:54:17.086626+05:30'
+collected_at: '2026-07-18T16:54:17.086632+05:30'
 tags:
 - agents
+- hackernews
 - meta-ai
 - models
 - rag
+- reddit
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: blog:llamaindex-github
-first_seen: '2026-07-18T01:10:28.568099+05:30'
-last_seen: '2026-07-18T01:10:28.568099+05:30'
-last_checked: '2026-07-18T01:10:28.568099+05:30'
+first_seen: '2026-07-18T16:54:17.086632+05:30'
+last_seen: '2026-07-18T16:54:17.086632+05:30'
+last_checked: '2026-07-18T16:54:17.086632+05:30'
 health_score: 100
 ---
 
@@ -26,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **LlamaParse Cloud Services**: Provides SOTA agentic OCR via `Parse` and `Extract` APIs for document processing workflows, with platform documentation available at [developers.llamaindex.ai](https://developers.llamaindex.ai/python/cloud/).
+- **LlamaParse** offers cloud-based, state-of-the-art (SOTA) agentic OCR for document processing, with modular products like `Parse` for extraction, `Extract` for structured data retrieval, and a unified platform for workflow integration.
 
-- **Open-Source Tooling**: Includes `LiteParse` (lightweight OCR), `LlamaAgents` (agent framework), and `LlamaIndex` (Python library) for document indexing and retrieval, with respective docs linked in GitHub repositories.
+- **Open-source ecosystem** includes `LiteParse` for lightweight OCR, `LlamaAgents` for agentic workflows, and the core `LlamaIndex` (Python) framework for building LLM-powered data pipelines and retrieval systems.
 
-- **Community & Support**: Maintains active presence on X (Twitter), LinkedIn, and YouTube for updates and engagement, with direct links provided in the resource.
+- **Multi-platform support** via official documentation, GitHub repositories, and social channels (Twitter/X, LinkedIn, YouTube) for community engagement and technical guidance.
 
 ## Why It Matters
 
@@ -40,18 +42,20 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-18T01:10:28.568085+05:30
+- Published: 2026-07-18T16:54:17.086626+05:30
 
 ## Related Tags
 
 - agents
+- hackernews
 - meta-ai
 - models
 - rag
+- reddit
 - web-crawled
 - workflows
 - youtube
 
 ## Source
 
-Original source: https://github.com/run-llama
+Original source: https://github.com/run-llama/

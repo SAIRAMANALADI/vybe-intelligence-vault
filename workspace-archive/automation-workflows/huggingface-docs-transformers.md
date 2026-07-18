@@ -3,7 +3,7 @@ title: Transformers · Hugging Face
 archive_category: automation-workflows
 source_category: ai/rag
 source_url: https://huggingface.co/docs/transformers/
-resource_id: huggingface:docs/transformers
+resource_id: huggingface:docs/transformers-60857251
 local_vault_path: ai/rag/huggingface-docs-transformers.md
 quality_score: 70
 archive_score: 72

@@ -4,18 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.blog
-published_at: '2026-07-18T01:12:32.646615+05:30'
-collected_at: '2026-07-18T01:12:32.646626+05:30'
+published_at: '2026-07-18T16:54:24.465980+05:30'
+collected_at: '2026-07-18T16:54:24.465986+05:30'
 tags:
-- hackernews
 - reddit
 - web-crawled
-- workflows
 status: active
 resource_id: blog:home-the-github-blog
-first_seen: '2026-07-18T01:12:32.646626+05:30'
-last_seen: '2026-07-18T01:12:32.646626+05:30'
-last_checked: '2026-07-18T01:12:32.646626+05:30'
+first_seen: '2026-07-18T16:54:24.465986+05:30'
+last_seen: '2026-07-18T16:54:24.465986+05:30'
+last_checked: '2026-07-18T16:54:24.465986+05:30'
 health_score: 100
 ---
 
@@ -23,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **AI-driven development reduces initial coding costs** but does not eliminate long-term ownership expenses (e.g., maintenance, debugging, scalability), shifting focus from *creation* to *sustainability*.
+- **Cost Shift in Software Development**: The marginal cost of writing new code has significantly decreased due to AI-assisted development tools, but the long-term ownership costs (maintenance, debugging, scalability) remain unchanged or have increased.
 
-- **Decision framework for change adoption** prioritizes evaluating *total cost of ownership (TCO)* over short-term productivity gains, emphasizing lifecycle costs (e.g., technical debt, integration complexity) in AI-assisted workflows.
+- **Decision Framework for Code Changes**: Introduces a structured approach to evaluate the true cost of implementing changes in the AI era, emphasizing lifecycle costs over initial development efficiency.
 
-- **Cost of "yes" in AI era** now includes hidden factors like model drift, dependency bloat, and cognitive overhead of AI-generated code, requiring stricter validation and governance in engineering decisions.
+- **Ownership vs. Creation Costs**: Highlights the disparity between the low barrier to entry for generating code (via AI/LLMs) and the persistent high costs associated with maintaining, securing, and scaling that code in production environments.
 
 ## Why It Matters
 
@@ -37,14 +35,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-18T01:12:32.646615+05:30
+- Published: 2026-07-18T16:54:24.465980+05:30
 
 ## Related Tags
 
-- hackernews
 - reddit
 - web-crawled
-- workflows
 
 ## Source
 

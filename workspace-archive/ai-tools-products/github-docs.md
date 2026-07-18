@@ -3,7 +3,7 @@ title: GitHub Docs
 archive_category: ai-tools-products
 source_category: ai/agents
 source_url: https://docs.github.com
-resource_id: blog:github-docs
+resource_id: blog:github-docs-a561f754
 local_vault_path: ai/agents/github-docs.md
 quality_score: 70
 archive_score: 77

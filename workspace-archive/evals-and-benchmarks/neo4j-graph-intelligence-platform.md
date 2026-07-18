@@ -3,7 +3,7 @@ title: Neo4j Graph Intelligence Platform
 archive_category: evals-and-benchmarks
 source_category: ai/rag
 source_url: http://neo4j.org/resources/cypher
-resource_id: blog:neo4j-graph-intelligence-platform
+resource_id: blog:neo4j-graph-intelligence-platform-81345bfb
 local_vault_path: ai/rag/neo4j-graph-intelligence-platform.md
 quality_score: 70
 archive_score: 72

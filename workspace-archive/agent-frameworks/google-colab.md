@@ -3,7 +3,7 @@ title: Google Colab
 archive_category: agent-frameworks
 source_category: ai/rag
 source_url: https://colab.research.google.com/github/deepset-ai/haystack-tutorials/blob/main/tutorials/27_First_RAG_Pipeline.ipynb
-resource_id: blog:google-colab
+resource_id: blog:google-colab-143e30c7
 local_vault_path: ai/rag/google-colab.md
 quality_score: 70
 archive_score: 72

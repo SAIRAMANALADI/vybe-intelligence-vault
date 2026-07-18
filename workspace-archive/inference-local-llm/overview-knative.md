@@ -3,7 +3,7 @@ title: Overview - Knative
 archive_category: inference-local-llm
 source_category: ai/rag
 source_url: https://knative.dev/docs
-resource_id: blog:overview-knative
+resource_id: blog:overview-knative-0c376727
 local_vault_path: ai/rag/overview-knative.md
 quality_score: 70
 archive_score: 72

@@ -3,7 +3,7 @@ title: Full featured documentation deployment platform - Read the Docs
 archive_category: ai-tools-products
 source_category: ai/agents
 source_url: https://about.readthedocs.com/
-resource_id: blog:full-featured-documentation-deployment-platform-re
+resource_id: blog:full-featured-documentation-deployment-platform-re-01dc49a6
 local_vault_path: ai/agents/full-featured-documentation-deployment-platform-re.md
 quality_score: 70
 archive_score: 72

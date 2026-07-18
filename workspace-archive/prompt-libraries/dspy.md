@@ -3,7 +3,7 @@ title: DSPy
 archive_category: prompt-libraries
 source_category: ai/rag
 source_url: https://dspy-docs.vercel.app
-resource_id: blog:dspy
+resource_id: blog:dspy-2f33a2ce
 local_vault_path: ai/rag/dspy.md
 quality_score: 70
 archive_score: 72

@@ -3,7 +3,7 @@ title: Artificial intelligence functions
 archive_category: automation-workflows
 source_category: ai/rag
 source_url: https://help.claris.com/en/pro-help/content/artificial-intelligence-functions.html
-resource_id: blog:artificial-intelligence-functions
+resource_id: blog:artificial-intelligence-functions-4f8d2a5d
 local_vault_path: ai/rag/artificial-intelligence-functions.md
 quality_score: 70
 archive_score: 72

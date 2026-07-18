@@ -3,7 +3,7 @@ title: Publications & Data - Cornell Research & Innovation
 archive_category: datasets
 source_category: ai/resources
 source_url: https://research-and-innovation.cornell.edu/publications-data
-resource_id: blog:publications-data-cornell-research-innovation
+resource_id: blog:publications-data-cornell-research-innovation-9cae45c9
 local_vault_path: ai/resources/publications-data-cornell-research-innovation.md
 quality_score: 70
 archive_score: 74

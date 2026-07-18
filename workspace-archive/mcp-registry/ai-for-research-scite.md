@@ -3,7 +3,7 @@ title: AI for Research | Scite
 archive_category: mcp-registry
 source_category: ai/rag
 source_url: https://scite.ai/
-resource_id: blog:ai-for-research-scite
+resource_id: blog:ai-for-research-scite-63fdc64a
 local_vault_path: ai/rag/scite-ai-for-research.md
 quality_score: 70
 archive_score: 72

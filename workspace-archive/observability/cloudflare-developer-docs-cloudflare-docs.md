@@ -3,7 +3,7 @@ title: Cloudflare Developer Docs | Cloudflare Docs
 archive_category: observability
 source_category: ai/rag
 source_url: https://developers.cloudflare.com
-resource_id: blog:cloudflare-developer-docs-cloudflare-docs
+resource_id: blog:cloudflare-developer-docs-cloudflare-docs-eda2e98d
 local_vault_path: ai/rag/cloudflare-developer-docs-cloudflare-docs.md
 quality_score: 70
 archive_score: 72

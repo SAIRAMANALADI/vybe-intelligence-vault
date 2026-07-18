@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/alvinreal/awesome-opensource-ai
-collected_at: '2026-07-18T01:07:02.990774+05:30'
-published_at: '2026-07-17T18:33:41Z'
+collected_at: '2026-07-18T16:49:52.111536+05:30'
+published_at: '2026-07-18T10:44:26Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
 - rag
-stars: 4153
+stars: 4157
 language: Python
 status: active
 license: CC0-1.0
 archived: false
 created_at: '2026-03-24T15:58:22Z'
-pushed_at: '2026-07-17T18:25:36Z'
+pushed_at: '2026-07-18T08:55:15Z'
 resource_id: github:alvinreal/awesome-opensource-ai
-first_seen: '2026-07-18T01:07:02.990774+05:30'
-last_seen: '2026-07-18T01:07:02.990774+05:30'
-last_checked: '2026-07-18T01:07:02.990774+05:30'
+first_seen: '2026-07-18T16:49:52.111536+05:30'
+last_seen: '2026-07-18T16:49:52.111536+05:30'
+last_checked: '2026-07-18T16:49:52.111536+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Repository `alvinreal/awesome-opensource-ai` aggregates truly open-source AI projects, models, tools, and infrastructure, with daily updates.
-- **Technical Scope**: Focuses on Python-based projects covering agents, generative AI, LLMs, MLOps, and RAG, among other AI/ML topics.
-- **Metrics & Activity**: Maintains 4,153 stars, 509 forks, and was last updated on 2026-07-17T18:33:41Z.
+- **Curated list**: Aggregates high-quality, truly open-source AI projects, models, tools, and infrastructure, with daily updates.
+- **Technical scope**: Covers agents, LLMs, generative AI, MLOps, RAG, and other AI/ML domains, primarily in Python.
+- **Community metrics**: 4,157 stars, 508 forks, last updated July 18, 2026.
 
 ## Why It Matters
 
@@ -41,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: alvinreal
-- Stars: 4153
-- Forks: 509
+- Stars: 4157
+- Forks: 508
 - Language: Python
 - Topics: agents, ai, artificial-intelligence, awesome, awesome-list, generative-ai, llm, machine-learning, mlops, open-source, open-source-ai, rag
-- Last Updated: 2026-07-17T18:33:41Z
+- Last Updated: 2026-07-18T10:44:26Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2026-03-24T15:58:22Z
-- Pushed At: 2026-07-17T18:25:36Z
+- Pushed At: 2026-07-18T08:55:15Z
 
 ## Possible Use Cases
 

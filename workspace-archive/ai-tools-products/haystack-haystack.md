@@ -3,7 +3,7 @@ title: 'Haystack: Open-Source AI Framework for Production Ready Agents, RAG'
 archive_category: ai-tools-products
 source_category: ai/community
 source_url: https://haystack.deepset.ai
-resource_id: blog:haystack-haystack
+resource_id: blog:haystack-haystack-e06b1be2
 local_vault_path: ai/rag/haystack-haystack.md
 quality_score: 70
 archive_score: 72

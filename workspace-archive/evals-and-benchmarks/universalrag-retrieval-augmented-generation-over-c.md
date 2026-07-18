@@ -9,7 +9,7 @@ local_vault_path: ai/rag/universalrag-retrieval-augmented-generation-over-c.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - benchmark
@@ -18,7 +18,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities
@@ -27,16 +27,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: framework
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **UniversalRAG Framework**: Introduces an any-to-any RAG system that retrieves and integrates knowledge from heterogeneous sources with diverse modalities (e.g., text, images, videos) and granularities, addressing limitations of single-modality or unified-corpus approaches.
+- **Modality-Aware Routing**: UniversalRAG dynamically selects the most relevant modality-specific corpus for retrieval, addressing the *modality gap* issue where single-aggregated corpora bias toward the query's modality, improving retrieval precision.
 
-- **Modality-Aware Routing**: Mitigates the *modality gap* (where retrieval favors same-modality items) by dynamically selecting the most relevant modality-specific corpus for targeted retrieval, supported by theoretical a
+- **Granularity-Level Organization**: Each modality is structured into multiple granularity levels, enabling adaptive retrieval based on query complexity and scope, enhancing both relevance and efficiency.
+
+- **Performance Validation**: Evaluate
 
 ## Use Cases
 

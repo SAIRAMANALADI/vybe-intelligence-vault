@@ -3,7 +3,7 @@ title: supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitH
 archive_category: model-providers
 source_category: ai/rag
 source_url: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md
-resource_id: github:supabase/supabase
+resource_id: github:supabase/supabase-a70da435
 local_vault_path: ai/rag/supabase-supabase.md
 quality_score: 70
 archive_score: 77

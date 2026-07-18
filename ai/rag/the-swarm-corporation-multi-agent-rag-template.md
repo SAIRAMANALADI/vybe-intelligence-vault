@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-07-18T01:10:08.271283+05:30'
+collected_at: '2026-07-18T16:52:57.384687+05:30'
 published_at: '2026-07-08T10:21:23Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-07-18T01:10:08.271283+05:30'
-last_seen: '2026-07-18T01:10:08.271283+05:30'
-last_checked: '2026-07-18T01:10:08.271283+05:30'
+first_seen: '2026-07-18T16:52:57.384687+05:30'
+last_seen: '2026-07-18T16:52:57.384687+05:30'
+last_checked: '2026-07-18T16:52:57.384687+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Architecture**: Implements a collaborative framework using agents (e.g., CrewAI, AutoGen) to distribute document processing, analysis, and insight generation tasks across specialized AI models (e.g., GPT-3.5/4, GPT-5, Anthropic).
+- **Multi-Agent RAG Framework**: Demonstrates a Python-based template for orchestrating collaborative AI agents using frameworks like AutoGen, CrewAI, and LangChain to process, analyze, and extract insights from documents via Retrieval-Augmented Generation (RAG).
 
-- **RAG Pipeline Integration**: Leverages retrieval-augmented generation (RAG) with vector databases (ChromaDB, Pinecone, Weaviate) to enable context-aware document querying and synthesis.
+- **Vector Database Integration**: Supports multiple vector stores (ChromaDB, Pinecone, Weaviate) for document embeddings and retrieval, enabling scalable semantic search and context-aware agent interactions.
 
-- **Modular Tooling**: Supports Discord integration for real-time agent coordination and includes LangChain for orchestration, with Python-based extensibility for additional APIs or agent roles.
+- **Agent Orchestration & Tools**: Leverages agentic frameworks (e.g., Swarms, Anthropic) with LLM APIs (GPT-3.5/4/5, OpenAI) and Discord integration for real-time multi-agent collaboration, task delegation, and insight synthesis.
 
 ## Why It Matters
 

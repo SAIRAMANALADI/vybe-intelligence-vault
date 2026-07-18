@@ -3,9 +3,9 @@ title: 'About Google: Our products, technology and company information - About G
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://about.google
-published_at: '2026-06-24T10:24:01.178951+05:30'
-collected_at: '2026-06-24T10:24:01.178963+05:30'
+source_url: https://about.google/
+published_at: '2026-07-18T16:57:10.822308+05:30'
+collected_at: '2026-07-18T16:57:10.822314+05:30'
 tags:
 - deepmind
 - hackernews
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:about-google-our-products-technology-and-company-i
-first_seen: '2026-06-24T10:24:01.178963+05:30'
-last_seen: '2026-06-24T10:24:01.178963+05:30'
-last_checked: '2026-06-24T10:24:01.178963+05:30'
+first_seen: '2026-07-18T16:57:10.822314+05:30'
+last_seen: '2026-07-18T16:57:10.822314+05:30'
+last_checked: '2026-07-18T16:57:10.822314+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Screen Recording Enhancements**: Android 17 introduces a new native screen-recording feature with improved performance and lower latency, optimized for real-time capture and sharing.
+- **AI-Driven Historical Reconstruction**: Google DeepMind employed advanced AI models to reconstruct a historically undocumented goal by Pelé, leveraging collaborative input from historians, journalists, and football legends to validate and contextualize the event.
 
-- **Gemini Omni Integration**: Text-to-video capabilities via Gemini Omni enable AI-driven video generation directly from device inputs, leveraging on-device ML for faster processing.
+- **Multimodal Data Integration**: The reconstruction utilized a combination of archival footage, AI-driven video enhancement, and generative modeling to interpolate missing visual data, ensuring temporal and spatial coherence in the reconstructed footage.
 
-- **Multitasking Improvements**: Enhanced split-screen and floating window APIs allow for more efficient app pairing and resizing, with improved memory management for background processes.
+- **Cross-Disciplinary Validation**: The project integrated domain-specific expertise (e.g., sports analytics, historical context) with DeepMind’s computational techniques to authenticate the reconstructed goal, demonstrating AI’s role in preserving and interpreting cultural heritage.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T10:24:01.178951+05:30
+- Published: 2026-07-18T16:57:10.822308+05:30
 
 ## Related Tags
 
@@ -50,4 +50,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://about.google
+Original source: https://about.google/

@@ -1,31 +1,30 @@
 ---
-title: The PyData Sphinx Theme — PyData Theme 0.19.0 documentation
+title: The PyData Sphinx Theme — PyData Theme 0.20.0 documentation
 category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html
-published_at: '2026-07-07T15:41:27.920166+05:30'
-collected_at: '2026-07-07T15:41:27.920177+05:30'
+published_at: '2026-07-18T16:56:13.874710+05:30'
+collected_at: '2026-07-18T16:56:13.874716+05:30'
 tags:
 - frontend_ui
+- reddit
 - web-crawled
 status: active
-resource_id: blog:the-pydata-sphinx-theme-pydata-theme-0-19-0-docume
-first_seen: '2026-07-07T15:41:27.920177+05:30'
-last_seen: '2026-07-07T15:41:27.920177+05:30'
-last_checked: '2026-07-07T15:41:27.920177+05:30'
+resource_id: blog:the-pydata-sphinx-theme-pydata-theme-0-20-0-docume
+first_seen: '2026-07-18T16:56:13.874716+05:30'
+last_seen: '2026-07-18T16:56:13.874716+05:30'
+last_checked: '2026-07-18T16:56:13.874716+05:30'
 health_score: 100
 ---
 
-# The PyData Sphinx Theme — PyData Theme 0.19.0 documentation
+# The PyData Sphinx Theme — PyData Theme 0.20.0 documentation
 
 ## Summary
 
-- **Bootstrap-based Sphinx theme** with responsive design, interactive light/dark theme toggling, and customizable UI via CSS variables and Sphinx Design components.
-
-- **PyData/Jupyter integration** with native support for Jupyter extensions and PyData execution outputs, including example galleries for demonstration.
-
-- **Modular configuration** with detailed user guides for layout, navigation, branding, accessibility, and performance optimization, alongside contributor guidelines for theme development.
+- **Bootstrap-based Sphinx theme** with responsive design, supporting light/dark themes and customizable UI via CSS variables and Sphinx Design components.
+- **PyData/Jupyter integration** with native support for Jupyter extensions and PyData execution outputs, including interactive theme toggling.
+- **Extensive customization and extension** via structured user guides (installation, layout, branding, performance) and contributor/development policies.
 
 ## Why It Matters
 
@@ -35,11 +34,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-07T15:41:27.920166+05:30
+- Published: 2026-07-18T16:56:13.874710+05:30
 
 ## Related Tags
 
 - frontend_ui
+- reddit
 - web-crawled
 
 ## Source

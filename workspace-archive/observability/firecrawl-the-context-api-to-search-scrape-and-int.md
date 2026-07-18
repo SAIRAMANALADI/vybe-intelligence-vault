@@ -4,7 +4,7 @@ title: Firecrawl - The context API to search, scrape, and interact with the web 
 archive_category: observability
 source_category: ai/rag
 source_url: https://firecrawl.dev/
-resource_id: blog:firecrawl-the-context-api-to-search-scrape-and-int
+resource_id: blog:firecrawl-the-context-api-to-search-scrape-and-int-597aab6b
 local_vault_path: ai/rag/firecrawl-the-context-api-to-search-scrape-and-int.md
 quality_score: 70
 archive_score: 82

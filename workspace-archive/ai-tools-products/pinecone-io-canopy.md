@@ -3,7 +3,7 @@ title: pinecone-io/canopy
 archive_category: ai-tools-products
 source_category: ai/rag
 source_url: https://github.com/pinecone-io/canopy?source=post_page
-resource_id: github:pinecone-io/canopy
+resource_id: github:pinecone-io/canopy-9ef2f274
 local_vault_path: ai/rag/pinecone-io-canopy.md
 quality_score: 70
 archive_score: 77

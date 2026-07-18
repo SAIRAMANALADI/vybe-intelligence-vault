@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-07-18T01:07:13.014557+05:30'
+collected_at: '2026-07-18T16:50:02.170981+05:30'
 published_at: '2026-07-16T12:55:47Z'
 tags:
 - benchmark
@@ -13,7 +13,6 @@ tags:
 - hackernews
 - rag
 - unknown
-- workflows
 stars: 463
 language: Unknown
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-07-18T01:07:13.014557+05:30'
-last_seen: '2026-07-18T01:07:13.014557+05:30'
-last_checked: '2026-07-18T01:07:13.014557+05:30'
+first_seen: '2026-07-18T16:50:02.170981+05:30'
+last_seen: '2026-07-18T16:50:02.170981+05:30'
+last_checked: '2026-07-18T16:50:02.170981+05:30'
 health_score: 100
 ---
 
@@ -32,15 +31,14 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of performance in real-world internal knowledge bases.
+- **Purpose**: Provides a benchmarking dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary/enterprise internal documents, enabling standardized assessment of LLM performance in enterprise search and QA tasks.
 
 - **Key Features**:
-  - Synthetic data generation for enterprise-specific Q&A and retrieval tasks.
-  - Evaluation framework for semantic search, information retrieval, and LLM response quality in enterprise contexts.
+  - Synthetic data generation pipeline for enterprise document simulation.
+  - Includes evaluation metrics for retrieval quality, answer correctness, and semantic search effectiveness.
+  - Supports Python-based RAG evaluation across multiple dimensions (e.g., context relevance, hallucination detection).
 
-- **Technical Scope**:
-  - Supports Python-based RAG pipelines, large language model (LLM) evaluation, and retrieval-augmented workflows.
-  - Focuses on enterprise search, knowledge base integration, and generative AI applications.
+- **Scope**: Covers 15+ technical topics (e.g., `llm-evaluation`, `semantic-search`, `knowledge-base`) with a focus on enterprise use cases like internal knowledge retrieval and generative AI applications.
 
 ## Why It Matters
 

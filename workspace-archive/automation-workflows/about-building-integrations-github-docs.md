@@ -38,7 +38,7 @@ selection_reason:
 
 - **API & Webhook Support**: Integrations interact with GitHub using REST/GraphQL APIs for data operations and webhooks to monitor events (e.g., issue creation, PR comments).
 
-- **Marketplace & AI**: GitHub Apps/custom actions can be published to GitHub Marketplace; AI-powered integrations leve
+- **Publishing & AI Models**: GitHub Apps/custom actions can be published to GitHub Marketplace; AI-powered integration
 
 ## Use Cases
 

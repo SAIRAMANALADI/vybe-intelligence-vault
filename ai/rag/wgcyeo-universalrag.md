@@ -4,13 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-18T01:07:43.025563+05:30'
+collected_at: '2026-07-18T16:50:32.163779+05:30'
 published_at: '2026-07-02T21:11:00Z'
 tags:
-- benchmark
-- dataset
 - github-repo
-- hackernews
 - python
 - rag
 stars: 173
@@ -21,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-18T01:07:43.025563+05:30'
-last_seen: '2026-07-18T01:07:43.025563+05:30'
-last_checked: '2026-07-18T01:07:43.025563+05:30'
+first_seen: '2026-07-18T16:50:32.163779+05:30'
+last_seen: '2026-07-18T16:50:32.163779+05:30'
+last_checked: '2026-07-18T16:50:32.163779+05:30'
 health_score: 100
 ---
 
@@ -31,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG to support diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, etc.) via unified retrieval and generation pipelines.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence levels) using unified indexing and retrieval mechanisms.
 
-- **Modular Architecture**: Implements a flexible, plug-and-play system with modality-specific encoders, retrievers, and fusion mechanisms, enabling dynamic adaptation to heterogeneous corpora.
+- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval system leveraging modality-specific encoders (e.g., CLIP for images, BERT for text) and a shared embedding space to enable joint retrieval of heterogeneous data types.
 
-- **ACL 2026 Oral Contribution**: Introduces novel techniques for cross-modal retrieval alignment and granularity-aware generation, validated on benchmarks spanning multimodal datasets.
+- **Adaptive Generation Pipeline**: Proposes a dynamic generation module that selects and fuses retrieved content based on modality and relevance, optimizing output coherence while handling modality-specific challenges (e.g., OCR errors, layout parsing).
 
 ## Why It Matters
 

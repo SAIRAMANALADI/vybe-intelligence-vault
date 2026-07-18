@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EvanThomasLuke/Awesome-AI-Hacking-Agents
-collected_at: '2026-07-18T01:08:43.116284+05:30'
+collected_at: '2026-07-18T16:51:32.198308+05:30'
 published_at: '2026-07-17T19:22:07Z'
 tags:
 - agents
 - github-repo
-- scripts
+- hackernews
 - unknown
-- workflows
 stars: 601
 language: Unknown
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2026-02-06T02:08:01Z'
 pushed_at: '2026-07-17T19:21:27Z'
 resource_id: github:evanthomasluke/awesome-ai-hacking-agents
-first_seen: '2026-07-18T01:08:43.116284+05:30'
-last_seen: '2026-07-18T01:08:43.116284+05:30'
-last_checked: '2026-07-18T01:08:43.116284+05:30'
+first_seen: '2026-07-18T16:51:32.198308+05:30'
+last_seen: '2026-07-18T16:51:32.198308+05:30'
+last_checked: '2026-07-18T16:51:32.198308+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository (`EvanThomasLuke/Awesome-AI-Hacking-Agents`) cataloging tools, frameworks, and resources for AI-driven penetration testing and autonomous hacking agents.
-- **Metadata**: 601 stars, 96 forks, last updated July 17, 2026; language unspecified, no topics tagged.
-- **Purpose**: Curated list of AI agents designed for offensive security, automation, and adversarial research in cybersecurity workflows.
+- **Repository Overview**: GitHub repository `Awesome-AI-Hacking-Agents` by EvanThomasLuke, cataloging AI-driven autonomous hacking tools and agents (601 stars, 97 forks).
+- **Technical Focus**: Aggregates frameworks, libraries, and methodologies for AI-powered cybersecurity offensive operations, including LLM-based exploit generation and automated penetration testing.
+- **Status**: Last updated July 17, 2026; language unspecified, no associated topics or tags.
 
 ## Why It Matters
 
@@ -41,7 +40,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: EvanThomasLuke
 - Stars: 601
-- Forks: 96
+- Forks: 97
 - Language: Unknown
 - Topics: None
 - Last Updated: 2026-07-17T19:22:07Z

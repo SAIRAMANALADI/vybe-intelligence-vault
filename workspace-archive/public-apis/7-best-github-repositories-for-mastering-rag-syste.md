@@ -3,7 +3,7 @@ title: 7 Best GitHub Repositories For Mastering RAG Systems
 archive_category: public-apis
 source_category: ai/rag
 source_url: https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems
-resource_id: blog:7-best-github-repositories-for-mastering-rag-syste
+resource_id: blog:7-best-github-repositories-for-mastering-rag-syste-9187bdf5
 local_vault_path: ai/rag/7-best-github-repositories-for-mastering-rag-syste.md
 quality_score: 70
 archive_score: 72

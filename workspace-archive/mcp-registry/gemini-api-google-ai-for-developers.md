@@ -3,7 +3,7 @@ title: Gemini API | Google AI for Developers
 archive_category: mcp-registry
 source_category: ai/agents
 source_url: https://ai.google.dev/gemini-api/docs
-resource_id: blog:gemini-api-google-ai-for-developers
+resource_id: blog:gemini-api-google-ai-for-developers-00fe02b2
 local_vault_path: ai/agents/gemini-api-google-ai-for-developers.md
 quality_score: 70
 archive_score: 74

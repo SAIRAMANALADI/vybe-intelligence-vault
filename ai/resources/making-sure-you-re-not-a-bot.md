@@ -3,17 +3,18 @@ title: Making sure you're not a bot!
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://hal.science/hal-05241781v1/document
-published_at: '2026-06-22T10:37:58.021340+05:30'
-collected_at: '2026-06-22T10:37:58.021347+05:30'
+source_url: https://www.lumendatabase.org/pages/about
+published_at: '2026-07-18T16:57:46.880914+05:30'
+collected_at: '2026-07-18T16:57:46.880922+05:30'
 tags:
+- hackernews
 - scripts
 - web-crawled
 status: active
 resource_id: blog:making-sure-you-re-not-a-bot
-first_seen: '2026-06-22T10:37:58.021347+05:30'
-last_seen: '2026-06-22T10:37:58.021347+05:30'
-last_checked: '2026-06-22T10:37:58.021347+05:30'
+first_seen: '2026-07-18T16:57:46.880922+05:30'
+last_seen: '2026-07-18T16:57:46.880922+05:30'
+last_checked: '2026-07-18T16:57:46.880922+05:30'
 health_score: 100
 ---
 
@@ -21,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Anubis employs a Proof-of-Work (PoW) mechanism** inspired by Hashcash to mitigate aggressive web scraping by AI companies, imposing negligible overhead for individual users but significantly increasing costs for large-scale scrapers.
+- **Proof-of-Work Mechanism**: Implements a Hashcash-inspired scheme to mitigate automated scraping, imposing computational overhead on bulk requests while remaining negligible for individual users.
 
-- **The system prioritizes headless browser detection** (e.g., via font rendering analysis) to reduce reliance on PoW challenges, aiming to minimize friction for legitimate users while blocking automated scrapers.
+- **Headless Browser Detection**: Aims to replace PoW challenges with advanced fingerprinting (e.g., font rendering analysis) to distinguish legitimate users from scrapers without JS challenges.
 
-- **Anubis requires modern JavaScript** to function, as headless browsers often disable or alter JS behavior; disabling JS plugins (e.g., JShelter) is necessary to pass the challenge.
+- **Technical Requirements**: Requires modern JavaScript (disabled by plugins like JShelter) and ongoing development of a no-JS alternative due to AI-driven changes in web scraping norms.
 
 ## Why It Matters
 
@@ -35,13 +36,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T10:37:58.021340+05:30
+- Published: 2026-07-18T16:57:46.880914+05:30
 
 ## Related Tags
 
+- hackernews
 - scripts
 - web-crawled
 
 ## Source
 
-Original source: https://hal.science/hal-05241781v1/document
+Original source: https://www.lumendatabase.org/pages/about

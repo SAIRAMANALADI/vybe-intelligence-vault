@@ -3,14 +3,18 @@ title: pathwaycom/llm-app
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/pathwaycom/llm-app
-collected_at: '2026-07-18T01:06:23.030317+05:30'
-published_at: '2026-07-17T17:27:59Z'
+source_url: https://github.com/pathwaycom/llm-app?source=post_page
+resource_id: github:pathwaycom/llm-app
+-----dba899ae0355---------------------------------------
+collected_at: '2026-07-18T16:53:07.326376+05:30'
+published_at: '2026-07-18T10:27:57Z'
 tags:
 - github-repo
 - jupyter notebook
+- openai
 - rag
-stars: 59028
+- workflows
+stars: 59029
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -18,9 +22,9 @@ archived: false
 created_at: '2023-07-19T08:43:37Z'
 pushed_at: '2026-07-05T17:59:07Z'
 resource_id: github:pathwaycom/llm-app
-first_seen: '2026-07-18T01:06:23.030317+05:30'
-last_seen: '2026-07-18T01:06:23.030317+05:30'
-last_checked: '2026-07-18T01:06:23.030317+05:30'
+first_seen: '2026-07-18T16:53:07.326376+05:30'
+last_seen: '2026-07-18T16:53:07.326376+05:30'
+last_checked: '2026-07-18T16:53:07.326376+05:30'
 health_score: 100
 ---
 
@@ -28,8 +32,11 @@ health_score: 100
 
 ## Summary
 
-*   Provides Docker-friendly, pre-built templates for Retrieval Augmented Generation (RAG), AI pipelines, and enterprise search applications.
-*
+- **Cloud-native RAG & AI pipelines**: Pre-configured templates for retrieval-augmented generation (RAG), real-time AI workflows, and enterprise search, optimized for Docker deployment with live data synchronization.
+
+- **Multi-source data integration**: Supports real-time connectivity with SharePoint, Google Drive, S3, Kafka, PostgreSQL, and REST APIs via vector databases and indexes for dynamic data ingestion.
+
+- **Enterprise-grade LLM stack**: Leverages Hugging Face, OpenAI, and local LLM models with security-focused prompting, LLMops, and vector-based retrieval for scalable, production-ready AI applications.
 
 ## Why It Matters
 
@@ -38,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pathwaycom
-- Stars: 59028
-- Forks: 1438
+- Stars: 59029
+- Forks: 1439
 - Language: Jupyter Notebook
 - Topics: chatbot, hugging-face, llm, llm-local, llm-prompting, llm-security, llmops, machine-learning, open-ai, pathway, rag, real-time, retrieval-augmented-generation, vector-database, vector-index
-- Last Updated: 2026-07-17T17:27:59Z
+- Last Updated: 2026-07-18T10:27:57Z
 - License: MIT
 - Archived: No
 - Created At: 2023-07-19T08:43:37Z
@@ -64,4 +71,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/pathwaycom/llm-app
+Original source: https://github.com/pathwaycom/llm-app?source=post_page-----dba899ae0355---------------------------------------

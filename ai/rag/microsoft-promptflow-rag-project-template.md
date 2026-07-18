@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/promptflow-rag-project-template
-collected_at: '2026-07-18T01:06:28.085298+05:30'
+collected_at: '2026-07-18T16:49:17.142841+05:30'
 published_at: '2026-07-17T11:47:29Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-12-14T01:47:16Z'
 pushed_at: '2024-09-06T22:11:58Z'
 resource_id: github:microsoft/promptflow-rag-project-template
-first_seen: '2026-07-18T01:06:28.085298+05:30'
-last_seen: '2026-07-18T01:06:28.085298+05:30'
-last_checked: '2026-07-18T01:06:28.085298+05:30'
+first_seen: '2026-07-18T16:49:17.142841+05:30'
+last_seen: '2026-07-18T16:49:17.142841+05:30'
+last_checked: '2026-07-18T16:49:17.142841+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **End-to-End RAG Pipeline**: Demonstrates Retrieval-Augmented Generation (RAG) workflows integrating development, evaluation, experimentation, and deployment using **Promptflow**, with support for multiple search backends (CosmosDB, PostgreSQL, Azure AI Search).
+- **End-to-end RAG implementation** leveraging Promptflow for development, evaluation, experimentation, and deployment, integrating search solutions (CosmosDB, PostgreSQL, Azure AI Search) for retrieval-augmented generation workflows.
 
-- **Multi-Search Backend Support**: Provides configurable connectors for **CosmosDB vector search**, **PostgreSQL pgvector**, and **Azure AI Search**, enabling flexible retrieval strategies for RAG applications.
+- **Jupyter Notebook-based template** providing executable examples for RAG pipeline construction, including data ingestion, indexing, retrieval, and generation with built-in evaluation metrics.
 
-- **Jupyter Notebook-Based Implementation**: Delivered as a **Jupyter Notebook** project template, facilitating interactive development, experimentation, and evaluation of RAG pipelines with structured workflows.
+- **Multi-search backend support** demonstrating hybrid retrieval strategies across vector databases (CosmosDB, PostgreSQL) and semantic search (Azure AI Search) with Promptflow orchestration.
 
 ## Why It Matters
 

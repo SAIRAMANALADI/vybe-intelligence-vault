@@ -3,7 +3,7 @@ title: Pydantic Docs - Validation, AI Agents, Logfire Observability
 archive_category: ai-tools-products
 source_category: ai/agents
 source_url: https://pydantic-docs.helpmanual.io
-resource_id: blog:pydantic-docs-validation-ai-agents-logfire-observa
+resource_id: blog:pydantic-docs-validation-ai-agents-logfire-observa-7b8afbf8
 local_vault_path: ai/agents/pydantic-docs-validation-ai-agents-logfire-observa.md
 quality_score: 70
 archive_score: 72

@@ -3,7 +3,7 @@ title: Get Docker | Docker Docs
 archive_category: model-providers
 source_category: ai/resources
 source_url: https://docs.docker.com/get-docker/
-resource_id: blog:get-docker-docker-docs
+resource_id: blog:get-docker-docker-docs-b2fa9471
 local_vault_path: ai/resources/get-docker-docker-docs.md
 quality_score: 70
 archive_score: 72

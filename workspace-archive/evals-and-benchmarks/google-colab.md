@@ -3,7 +3,7 @@ title: Google Colab
 archive_category: evals-and-benchmarks
 source_category: ai/rag
 source_url: https://colab.research.google.com/github/milvus-io/bootcamp/blob/master/tutorials/quickstart/build_RAG_with_milvus.ipynb
-resource_id: blog:google-colab
+resource_id: blog:google-colab-d9df6465
 local_vault_path: ai/rag/google-colab.md
 quality_score: 70
 archive_score: 72

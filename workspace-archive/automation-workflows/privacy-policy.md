@@ -3,7 +3,7 @@ title: Privacy Policy
 archive_category: automation-workflows
 source_category: ai/rag
 source_url: https://code.org/privacy
-resource_id: blog:privacy-policy
+resource_id: blog:privacy-policy-4aadc735
 local_vault_path: ai/rag/privacy-policy.md
 quality_score: 70
 archive_score: 72

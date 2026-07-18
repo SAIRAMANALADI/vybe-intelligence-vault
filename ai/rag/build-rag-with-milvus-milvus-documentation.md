@@ -4,20 +4,21 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://milvus.io/docs/build-rag-with-milvus.md
-published_at: '2026-07-08T09:21:00.765932+05:30'
-collected_at: '2026-07-08T09:21:00.765943+05:30'
+published_at: '2026-07-18T16:53:13.232987+05:30'
+collected_at: '2026-07-18T16:53:13.232995+05:30'
 tags:
 - anthropic
 - openai
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: blog:build-rag-with-milvus-milvus-documentation
-first_seen: '2026-07-08T09:21:00.765943+05:30'
-last_seen: '2026-07-08T09:21:00.765943+05:30'
-last_checked: '2026-07-08T09:21:00.765943+05:30'
+first_seen: '2026-07-18T16:53:13.232995+05:30'
+last_seen: '2026-07-18T16:53:13.232995+05:30'
+last_checked: '2026-07-18T16:53:13.232995+05:30'
 health_score: 100
 ---
 
@@ -25,9 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Milvus RAG Pipeline**: Combines retrieval (via Milvus vector search) with generative models (e.g., OpenAI) to answer queries using retrieved documents, demonstrated with Milvus FAQ data.
-- **Dynamic Schema Handling**: Uses Milvus' reserved JSON field to store non-schema-defined fields (e.g., `text`) alongside vector embeddings, enabling flexible data insertion.
-- **Vector Search Configuration**: Implements inner product (IP) metric for similarity search, with `Bounded` consistency level and dynamic field projection (`output_fields=["text"]`) for retrieval.
+- **RAG Pipeline Integration**: Milvus enables Retrieval-Augmented Generation (RAG) by combining vector similarity search with LLM-based generation, using `pymilvus` for embedding storage/retrieval and OpenAI's API for text generation.
+
+- **Dynamic Schema & Embedding Workflow**: Supports dynamic fields (e.g., `text`) alongside vector embeddings (e.g., OpenAI's `text-embedding-3-small` with 1536 dimensions), inserted via `MilvusClient.insert()` with metric type `IP` (Inner Product).
+
+- **Managed Deployment Options**: Local (Milvus Lite), Docker/Kubernetes, or fully managed cloud (Zilliz Cloud) via configurable `uri`/`token` in `MilvusClient`, with consistency levels like `Bounded` for scalable RAG applications.
 
 ## Why It Matters
 
@@ -37,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T09:21:00.765932+05:30
+- Published: 2026-07-18T16:53:13.232987+05:30
 
 ## Related Tags
 
@@ -46,6 +49,7 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 
 ## Source

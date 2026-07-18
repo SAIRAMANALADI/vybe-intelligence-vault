@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/react-agent
-collected_at: '2026-07-18T01:09:38.132582+05:30'
+collected_at: '2026-07-18T16:52:27.316343+05:30'
 published_at: '2026-07-16T19:57:17Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-21T19:57:32Z'
 pushed_at: '2026-06-26T08:21:52Z'
 resource_id: github:langchain-ai/react-agent
-first_seen: '2026-07-18T01:09:38.132582+05:30'
-last_seen: '2026-07-18T01:09:38.132582+05:30'
-last_checked: '2026-07-18T01:09:38.132582+05:30'
+first_seen: '2026-07-18T16:52:27.316343+05:30'
+last_seen: '2026-07-18T16:52:27.316343+05:30'
+last_checked: '2026-07-18T16:52:27.316343+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Type**: Provides a LangGraph-based implementation of a ReAct (Reasoning and Acting) agent, demonstrating a modular workflow for agentic systems.
+- **Template Purpose**: Provides a LangGraph-based implementation of a ReAct (Reasoning and Acting) agent, enabling iterative reasoning and action execution in Python.
 
-- **Core Components**: Utilizes LangGraph's Python library for stateful, multi-actor applications, with a focus on structured reasoning and tool integration.
+- **Key Components**: Utilizes LangGraph for stateful agent workflows, integrating tools and LLM calls for dynamic decision-making and environment interaction.
 
-- **Use Case**: Designed as a minimal template for building reactive agents with LangChain, emphasizing extensibility for custom tooling and workflows.
+- **Repository Stats**: 798 stars, 696 forks; last updated on 2026-07-16, focusing on LangGraph-specific Python templates.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: langchain-ai
 - Stars: 798
-- Forks: 697
+- Forks: 696
 - Language: Python
 - Topics: langgraph, langgraph-python, langgraph-template
 - Last Updated: 2026-07-16T19:57:17Z

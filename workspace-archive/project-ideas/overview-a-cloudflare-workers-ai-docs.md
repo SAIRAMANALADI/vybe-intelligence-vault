@@ -3,7 +3,7 @@ title: Overview Â· Cloudflare Workers AI docs
 archive_category: project-ideas
 source_category: ai/resources
 source_url: https://developers.cloudflare.com/workers-ai/
-resource_id: blog:overview-a-cloudflare-workers-ai-docs
+resource_id: blog:overview-a-cloudflare-workers-ai-docs-a440631c
 local_vault_path: ai/resources/overview-a-cloudflare-workers-ai-docs.md
 quality_score: 70
 archive_score: 72

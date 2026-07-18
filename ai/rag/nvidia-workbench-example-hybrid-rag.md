@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-07-18T01:06:38.018374+05:30'
+collected_at: '2026-07-18T16:49:27.143026+05:30'
 published_at: '2026-07-15T11:18:08Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 368
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-07-18T01:06:38.018374+05:30'
-last_seen: '2026-07-18T01:06:38.018374+05:30'
-last_checked: '2026-07-18T01:06:38.018374+05:30'
+first_seen: '2026-07-18T16:49:27.143026+05:30'
+last_seen: '2026-07-18T16:49:27.143026+05:30'
+last_checked: '2026-07-18T16:49:27.143026+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining vector and keyword-based search for enhanced document retrieval accuracy.
-- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench for streamlined deployment and scalable RAG workflows in Python.
-- **Modular Python Framework**: Provides an example project structure with configurable components for indexing, retrieval, and generation, optimized for GPU acceleration.
+- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector) and sparse (keyword) retrieval methods for improved document search accuracy.
+
+- **NVIDIA AI Workbench Integration**: Provides a structured example using NVIDIA's AI Workbench to deploy and manage the RAG system, leveraging GPU acceleration for efficient inference.
+
+- **Python-Based Framework**: Built with Python, utilizing libraries like LangChain, FAISS (for vector search), and potentially NVIDIA's NeMo or Triton for optimized LLM inference.
 
 ## Why It Matters
 
@@ -41,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: NVIDIA
 - Stars: 368
-- Forks: 1009
+- Forks: 1008
 - Language: Python
 - Topics: None
 - Last Updated: 2026-07-15T11:18:08Z

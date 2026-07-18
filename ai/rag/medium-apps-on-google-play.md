@@ -5,9 +5,9 @@ source_type: web
 source_name: Web Discovery
 source_url: https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar&source=
 resource_id: blog:medium-apps-on-google-play
----publication_layout_nav-----------------------------------------
-published_at: '2026-07-14T13:08:10.908616+05:30'
-collected_at: '2026-07-14T13:08:10.908632+05:30'
+---top_nav_layout_nav-----------------------------------------
+published_at: '2026-07-18T16:53:13.083687+05:30'
+collected_at: '2026-07-18T16:53:13.083695+05:30'
 tags:
 - hackernews
 - rag
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:medium-apps-on-google-play
-first_seen: '2026-07-14T13:08:10.908632+05:30'
-last_seen: '2026-07-14T13:08:10.908632+05:30'
-last_checked: '2026-07-14T13:08:10.908632+05:30'
+first_seen: '2026-07-18T16:53:13.083695+05:30'
+last_seen: '2026-07-18T16:53:13.083695+05:30'
+last_checked: '2026-07-18T16:53:13.083695+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Medium App Overview**: A Google Play Store application by Medium Corporation, rated **Teen** (Users Interact, In-App Purchases), with **10M+ downloads** and a **4.7-star rating** from 510K reviews. Offers ad-free long-form content, audio playback, and cross-device synchronization (smartphone, tablet, desktop).
+- **Platform & Distribution**: Medium is distributed via Google Play Store as a free app with in-app purchases, offering a subscription model ($4.99/month or $49.99/year) for unlimited access, auto-renewing unless canceled 24 hours prior to renewal.
 
-- **Core Features & Monetization**: Supports **highlighting, bookmarking, and personalized recommendations**; allows **publishing and monetization via the Medium Partner Program**. Subscription model: **$4.99/month or $49.99/year** (auto-renewing via Google Play), with data encrypted in transit and no third-party sharing per developer disclosure.
+- **Content & Features**: Aggregates long-form, ad-free articles from expert writers; supports highlighting, bookmarking, personalized recommendations, audio playback, and cross-device synchronization (smartphone, tablet, desktop).
 
-- **Data Safety & User Feedback**: Collects **personal info, photos/videos, and other data types**; supports data deletion requests. User reviews highlight **bugs in Reading List persistence** and **subscription transparency concerns**, with mixed feedback on content quality and pricing model.
+- **Data Handling & Privacy**: Collects personal data (including photos/videos) but encrypts data in transit; users can request data deletion; no data shared with third parties per developer disclosure.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-14T13:08:10.908616+05:30
+- Published: 2026-07-18T16:53:13.083687+05:30
 
 ## Related Tags
 
@@ -52,4 +52,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar&source=---publication_layout_nav-----------------------------------------
+Original source: https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar&source=---top_nav_layout_nav-----------------------------------------

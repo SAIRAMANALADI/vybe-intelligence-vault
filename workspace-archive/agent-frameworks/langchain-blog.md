@@ -3,7 +3,7 @@ title: LangChain Blog
 archive_category: agent-frameworks
 source_category: ai/rag
 source_url: https://blog.langchain.com
-resource_id: blog:langchain-blog
+resource_id: blog:langchain-blog-c7e8676e
 local_vault_path: ai/rag/langchain-blog.md
 quality_score: 70
 archive_score: 72

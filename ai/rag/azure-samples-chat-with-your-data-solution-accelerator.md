@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-07-18T01:06:58.085339+05:30'
+collected_at: '2026-07-18T16:49:47.164911+05:30'
 published_at: '2026-07-16T10:50:55Z'
 tags:
 - github-repo
 - openai
 - python
 - rag
+- workflows
 stars: 1174
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2023-06-06T01:40:48Z'
 pushed_at: '2026-07-16T17:03:44Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-07-18T01:06:58.085339+05:30'
-last_seen: '2026-07-18T01:06:58.085339+05:30'
-last_checked: '2026-07-18T01:06:58.085339+05:30'
+first_seen: '2026-07-18T16:49:47.164911+05:30'
+last_seen: '2026-07-18T16:49:47.164911+05:30'
+last_checked: '2026-07-18T16:49:47.164911+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Deploys a Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for generative responses, enabling ChatGPT-style and Q&A interactions.
-- **Azure Integration**: Leverages **Azure Developer CLI (azd) templates** for infrastructure-as-code deployment, with Python-based orchestration for end-to-end solution setup.
-- **Best Practices**: Incorporates production-grade patterns (e.g., vector search, prompt engineering, and retrieval optimization) with modular design for scalability and maintainability.
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for vector retrieval and **Azure OpenAI** LLMs for chat/Q&A generation, following production-grade best practices.
+
+- **Key Components**: Includes **Python-based** solution with **AZD templates** for deployment, integrating Azure services (AI Search, OpenAI) and supporting common RAG requirements (indexing, chunking, embedding, and prompt engineering).
+
+- **Use Case**: Enables scalable, production-ready **ChatGPT-style or Q&A experiences** with enterprise-grade retrieval and generation workflows, optimized for Azure cloud deployment.
 
 ## Why It Matters
 

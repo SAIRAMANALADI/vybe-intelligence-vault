@@ -4,15 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/crewAIInc/crewAI-tools
-collected_at: '2026-07-18T01:10:13.196140+05:30'
-published_at: '2026-07-16T16:10:47Z'
+collected_at: '2026-07-18T16:52:57.338348+05:30'
+published_at: '2026-07-18T04:31:27Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
-- scripts
-- workflows
-stars: 1459
+stars: 1460
 language: Python
 status: active
 license: MIT
@@ -20,9 +19,9 @@ archived: true
 created_at: '2024-01-11T17:29:13Z'
 pushed_at: '2025-10-23T18:08:34Z'
 resource_id: github:crewaiinc/crewai-tools
-first_seen: '2026-07-18T01:10:13.196140+05:30'
-last_seen: '2026-07-18T01:10:13.196140+05:30'
-last_checked: '2026-07-18T01:10:13.196140+05:30'
+first_seen: '2026-07-18T16:52:57.338348+05:30'
+last_seen: '2026-07-18T16:52:57.338348+05:30'
+last_checked: '2026-07-18T16:52:57.338348+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Extends CrewAI agent functionality via modular Python tools, enabling enhanced AI agent capabilities.
-- **Key Features**: Provides pre-built tools for tasks like web scraping, API interactions, and data processing to augment agent workflows.
-- **Integration**: Designed for seamless integration with CrewAI agents, supporting Python-based agent extensions and custom tool development.
+- **Purpose**: Extends CrewAI agent functionality via modular Python tools for enhanced AI agent capabilities.
+- **Key Features**: Provides reusable, customizable tools to integrate with CrewAI agents for specialized tasks.
+- **Technical Stack**: Python-based repository with active maintenance (last updated July 2026).
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: crewAIInc
-- Stars: 1459
+- Stars: 1460
 - Forks: 538
 - Language: Python
 - Topics: ai, aiagents, crewai, crewai-tools
-- Last Updated: 2026-07-16T16:10:47Z
+- Last Updated: 2026-07-18T04:31:27Z
 - License: MIT
 - Archived: Yes
 - Created At: 2024-01-11T17:29:13Z

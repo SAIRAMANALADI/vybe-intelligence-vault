@@ -3,7 +3,7 @@ title: Get extra features on YouTube TV with 4K Plus - Computer - YouTube TV Hel
 archive_category: model-providers
 source_category: ai/rag
 source_url: https://support.google.com/youtubetv/answer/10383365?hl=en
-resource_id: blog:get-extra-features-on-youtube-tv-with-4k-plus-comp
+resource_id: blog:get-extra-features-on-youtube-tv-with-4k-plus-comp-1190d537
 local_vault_path: ai/rag/get-extra-features-on-youtube-tv-with-4k-plus-comp.md
 quality_score: 70
 archive_score: 72

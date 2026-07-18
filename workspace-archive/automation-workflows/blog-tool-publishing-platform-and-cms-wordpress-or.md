@@ -3,7 +3,7 @@ title: Blog Tool, Publishing Platform, and CMS – WordPress.org
 archive_category: automation-workflows
 source_category: ai/resources
 source_url: https://wordpress.org
-resource_id: blog:blog-tool-publishing-platform-and-cms-wordpress-or
+resource_id: blog:blog-tool-publishing-platform-and-cms-wordpress-or-c415c696
 local_vault_path: ai/resources/blog-tool-publishing-platform-and-cms-wordpress-or.md
 quality_score: 70
 archive_score: 72

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/rohitg00/agentmemory
-collected_at: '2026-07-18T01:08:48.086496+05:30'
-published_at: '2026-07-17T19:03:44Z'
+collected_at: '2026-07-18T16:51:37.211016+05:30'
+published_at: '2026-07-18T11:08:25Z'
 tags:
 - agents
 - anthropic
@@ -13,8 +13,7 @@ tags:
 - github-repo
 - rag
 - typescript
-- workflows
-stars: 25291
+stars: 25313
 language: TypeScript
 status: active
 license: Apache-2.0
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-02-25T07:32:52Z'
 pushed_at: '2026-07-13T06:14:43Z'
 resource_id: github:rohitg00/agentmemory
-first_seen: '2026-07-18T01:08:48.086496+05:30'
-last_seen: '2026-07-18T01:08:48.086496+05:30'
-last_checked: '2026-07-18T01:08:48.086496+05:30'
+first_seen: '2026-07-18T16:51:37.211016+05:30'
+last_seen: '2026-07-18T16:51:37.211016+05:30'
+last_checked: '2026-07-18T16:51:37.211016+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Persistent Memory System**: Implements a TypeScript-based persistent memory framework for AI coding agents, optimized for real-world benchmark performance and seamless integration with tools like ClaudeCode, Cursor, and Copilot.
+- **Persistent Memory Framework**: Provides a TypeScript-based persistent memory system for AI coding agents, designed to retain and utilize learned information across sessions based on real-world benchmarks.
 
-- **Cross-Platform Compatibility**: Supports multiple AI agent environments (e.g., OpenClaw, Hermes) with structured memory storage, enabling state retention across sessions for enhanced agent efficiency.
+- **Benchmark-Driven Optimization**: Implements memory strategies validated by performance metrics, ensuring efficient storage and retrieval of agent experiences for improved decision-making.
 
-- **Benchmark-Driven Optimization**: Designed for high scalability (25.3k+ stars) with last update (July 2026) focusing on memory persistence, harnessing, and GenAI agent workflows.
+- **Multi-Agent Compatibility**: Supports integration with popular AI coding agents (e.g., ClaudeCode, Cursor, Copilot) via modular design, enabling cross-platform memory persistence and knowledge sharing.
 
 ## Why It Matters
 
@@ -45,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: rohitg00
-- Stars: 25291
-- Forks: 2095
+- Stars: 25313
+- Forks: 2098
 - Language: TypeScript
 - Topics: agentmemory, agents, ai, claude, claudecode, codex, copilot, cursor, genai, harness, hermes, memory, openclaw
-- Last Updated: 2026-07-17T19:03:44Z
+- Last Updated: 2026-07-18T11:08:25Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-02-25T07:32:52Z

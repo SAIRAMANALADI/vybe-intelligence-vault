@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/copilot/cli
-published_at: '2026-07-18T01:14:16.617832+05:30'
-collected_at: '2026-07-18T01:14:16.617845+05:30'
+published_at: '2026-07-18T16:55:22.065346+05:30'
+collected_at: '2026-07-18T16:55:22.065352+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-07-18T01:14:16.617845+05:30'
-last_seen: '2026-07-18T01:14:16.617845+05:30'
-last_checked: '2026-07-18T01:14:16.617845+05:30'
+first_seen: '2026-07-18T16:55:22.065352+05:30'
+last_seen: '2026-07-18T16:55:22.065352+05:30'
+last_checked: '2026-07-18T16:55:22.065352+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Parallel Execution**: GitHub Copilot CLI supports `/fleet` for parallelized subagent execution across multiple models (e.g., Anthropic, Google, OpenAI), enabling concurrent task processing with `/model` switching and decision convergence.
+- **Multi-agent orchestration**: GitHub Copilot CLI enables parallelized subagent execution via `/fleet`, allowing concurrent task processing across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching, converging on a decision-ready output while maintaining user control.
 
-- **Native GitHub Integration**: Built on GitHub’s Model Context Protocol (MCP), Copilot CLI interacts directly with issues, PRs, branches, and labels via `/mcp`, inheriting organization policies (branch protections, required checks) without additional setup.
+- **Native GitHub integration**: Built on GitHub’s Model Context Protocol (MCP), Copilot CLI interacts directly with issues, PRs, branches, and labels, inheriting organization policies (e.g., branch protections, required checks) and enabling seamless transitions from `/plan` to merged code without context switching.
 
-- **Session Persistence & Autopilot**: Features `/resume` for session continuity, `/plan` for multi-agent task outlining, and Shift+Tab autopilot mode for autonomous execution with explicit approval gates for file/command modifications.
+- **Terminal-to-IDE workflow**: Supports `/plan` mode for task outlining, `/resume` for session persistence, and `/delegate` for autonomous branch creation/PR generation, with optional VS Code integration for refinement, all while enforcing explicit approval for file modifications and command execution.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-18T01:14:16.617832+05:30
+- Published: 2026-07-18T16:55:22.065346+05:30
 
 ## Related Tags
 

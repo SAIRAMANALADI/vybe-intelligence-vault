@@ -4,13 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bakrianoo/mini-rag
-collected_at: '2026-07-18T01:07:33.024266+05:30'
+collected_at: '2026-07-18T16:50:22.158791+05:30'
 published_at: '2026-07-17T15:45:41Z'
 tags:
 - github-repo
-- meta-ai
-- mistral
-- models
 - python
 - rag
 - workflows
@@ -22,9 +19,9 @@ archived: false
 created_at: '2024-02-27T13:39:48Z'
 pushed_at: '2025-08-15T05:41:12Z'
 resource_id: github:bakrianoo/mini-rag
-first_seen: '2026-07-18T01:07:33.024266+05:30'
-last_seen: '2026-07-18T01:07:33.024266+05:30'
-last_checked: '2026-07-18T01:07:33.024266+05:30'
+first_seen: '2026-07-18T16:50:22.158791+05:30'
+last_seen: '2026-07-18T16:50:22.158791+05:30'
+last_checked: '2026-07-18T16:50:22.158791+05:30'
 health_score: 100
 ---
 
@@ -32,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Step-by-step guide to building a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker, covering end-to-end implementation from data ingestion to API deployment.
-
-- **Modular Architecture**: Implements a decoupled design with components for document processing (chunking, embedding), vector storage (FAISS/ChromaDB), retrieval, and LLM integration, optimized for scalability and maintainability.
-
-- **GenAI Integration**: Demonstrates real-time RAG workflows with FastAPI endpoints for querying, leveraging open-source LLMs (e.g., Llama, Mistral) and embedding models (e.g., Sentence-Transformers) with CI/CD-ready Docker configurations.
+- **Educational RAG Pipeline**: Demonstrates end-to-end implementation of a production-grade Retrieval-Augmented Generation (RAG) application using FastAPI, Docker, and Python, with modular components for scalability.
+- **Step-by-Step Guide**: Provides structured tutorials covering vector databases, embedding models, API design, and deployment best practices for GenAI applications.
+- **Modern Tech Stack**: Integrates FastAPI for RESTful endpoints, Docker for containerization, and supports Python-based RAG workflows with clear documentation and example implementations.
 
 ## Why It Matters
 

@@ -3,7 +3,7 @@ title: Welcome to Python.org
 archive_category: ai-browser-computer-use
 source_category: ai/resources
 source_url: https://www.python.org
-resource_id: blog:welcome-to-python-org
+resource_id: blog:welcome-to-python-org-c137682b
 local_vault_path: ai/resources/welcome-to-python-org.md
 quality_score: 70
 archive_score: 72

@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **PEP Indexing System**: PEPs are assigned immutable numbers by PEP editors, with version-controlled historical records maintained in a GitHub repository; the index includes metadata accessible via a JSON API (`peps.json`).
+- **PEP Indexing & Metadata**: PEPs are assigned immutable numbers by editors, with version-controlled historical records; a public JSON API (`peps.json`) provides structured metadata for all published PEPs.
 
-- **PEP Categorization**: PEPs are classified into statuses (e.g., *Provisional*, *Accepted*, *Finished*) and topics (e.g., *Governance*, *Packaging*, *Typing*), with specialized subcategories like *Process and Meta-PEPs* (e.g., PEP 1, PEP 13).
+- **PEP Categorization**: PEPs are classified by status (e.g., Accepted, Finished, Rejected) and topic (e.g., Governance, Packaging, Typing), with specialized indices for Process/Meta-PEPs and Informational PEPs.
 
-- **PEP Infrastructure**: I
+- **PEP Infrastructure**: PEPs are hosted on GitHub with reserved numbering;
 
 ## Use Cases
 

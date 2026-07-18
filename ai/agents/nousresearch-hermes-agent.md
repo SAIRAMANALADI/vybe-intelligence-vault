@@ -4,25 +4,26 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NousResearch/hermes-agent
-collected_at: '2026-07-18T01:09:13.143870+05:30'
-published_at: '2026-07-17T19:38:09Z'
+collected_at: '2026-07-18T16:52:02.281401+05:30'
+published_at: '2026-07-18T11:21:39Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - openai
 - python
-stars: 216396
+- workflows
+stars: 216642
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-07-22T22:22:28Z'
-pushed_at: '2026-07-17T19:35:47Z'
+pushed_at: '2026-07-18T11:21:30Z'
 resource_id: github:nousresearch/hermes-agent
-first_seen: '2026-07-18T01:09:13.143870+05:30'
-last_seen: '2026-07-18T01:09:13.143870+05:30'
-last_checked: '2026-07-18T01:09:13.143870+05:30'
+first_seen: '2026-07-18T16:52:02.281401+05:30'
+last_seen: '2026-07-18T16:52:02.281401+05:30'
+last_checked: '2026-07-18T16:52:02.281401+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-LLM Agent Framework**: Hermes-Agent is a Python-based framework designed for AI agents, supporting integration with Anthropic, OpenAI, and other LLM providers for dynamic task execution.
-- **Self-Improving Architecture**: Implements a "grows with you" paradigm via iterative feedback loops, enabling agents to refine performance through continuous learning from interactions and corrections.
-- **Tool-Agnostic Execution**: Supports modular tool integration (e.g., `claude-code`, `codex`, `moltbot`) for code generation, debugging, and API interactions, with extensible plugin architecture.
+- **Multi-Model Agent Framework**: Hermes-Agent is a Python-based AI agent framework supporting integration with Anthropic's Claude, OpenAI's ChatGPT, and Codex, enabling cross-model agentic workflows for dynamic task execution.
+
+- **Extensible Agent Architecture**: Implements a modular design with tools like `claude-code`, `clawdbot`, and `moltbot`, allowing customization for code generation, debugging, and automated workflows via LLM-driven decision-making.
+
+- **Scalable & Open-Source**: Optimized for large-scale deployments with 216K+ stars, offering enterprise-grade agent orchestration, real-time adaptability, and community-driven enhancements under Nous Research's MIT-licensed repository.
 
 ## Why It Matters
 
@@ -41,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NousResearch
-- Stars: 216396
-- Forks: 40524
+- Stars: 216642
+- Forks: 40623
 - Language: Python
 - Topics: ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw
-- Last Updated: 2026-07-17T19:38:09Z
+- Last Updated: 2026-07-18T11:21:39Z
 - License: MIT
 - Archived: No
 - Created At: 2025-07-22T22:22:28Z
-- Pushed At: 2026-07-17T19:35:47Z
+- Pushed At: 2026-07-18T11:21:30Z
 
 ## Possible Use Cases
 

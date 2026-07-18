@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/imaging/#avif
-published_at: '2026-07-18T01:12:19.290949+05:30'
-collected_at: '2026-07-18T01:12:19.290962+05:30'
+published_at: '2026-07-18T16:55:15.619741+05:30'
+collected_at: '2026-07-18T16:55:15.619748+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:configure-imaging
-first_seen: '2026-07-18T01:12:19.290962+05:30'
-last_seen: '2026-07-18T01:12:19.290962+05:30'
-last_checked: '2026-07-18T01:12:19.290962+05:30'
+first_seen: '2026-07-18T16:55:15.619748+05:30'
+last_seen: '2026-07-18T16:55:15.619748+05:30'
+last_checked: '2026-07-18T16:55:15.619748+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,15 @@ health_score: 100
 
 ## Summary
 
-- **Image Processing Defaults**: Hugo's `imaging` config supports AVIF (lossy/lossless, `encoderSpeed: 1-10`, `hint: photo/picture/etc.`), JPEG (`quality: 1-100`), and WebP (`compression: lossy/lossless`, `method: 0-6`, `useSharpYuv: bool`) with format-specific settings replacing deprecated global `compression`, `hint`, and `quality` options.
+- **Default Imaging Settings**: Anchor set to `smart` (using `muesli/smartcrop` for focal point detection), background color `#ffffff`, resample filter `box`, and EXIF metadata exclusion rules for fields like GPS, Exif, and Exposure metadata.
 
-- **Resampling & Metadata Control**: Top-level settings include `anchor: smart|TopLeft|...`, `resampleFilter: box|lanczos|...`, `bgColor: hex`, and `exif` filtering via `excludeFields`/`includeFields` glob patterns (e.g., `GPS|Exif|*Exposure*`).
+- **Format-Specific Configurations**:
+  - **AVIF**: Lossy compression by default, encoder speed `10` (1-10 scale), `photo` hint, and quality `60`.
+  - **JPEG**: Quality `75` (1-100 scale).
+  - **WebP**: Lossy compression, `photo` hint, method `2` (0-6 scale), quality `75`, and `useSharpYuv` disabled.
 
-- **Meta Extraction**: The `Meta` method allows granular metadata control via `fields` (glob patterns) and `sources` (`exif`, `iptc`, `xmp`), with defaults excluding technical tags (e.g., `ColorSpace`, `GPS`) to optimize performance.
+- **Metadata Control**:
+  - **Meta Method**: Glob-based field filtering (e.g., `['! *{GPS,Exif,...}*']`) and sources (`exif`, `iptc`) to optimize metadata extraction performance and cache size.
 
 ## Why It Matters
 
@@ -37,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-18T01:12:19.290949+05:30
+- Published: 2026-07-18T16:55:15.619741+05:30
 
 ## Related Tags
 

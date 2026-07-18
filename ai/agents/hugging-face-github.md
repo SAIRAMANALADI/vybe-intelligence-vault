@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/huggingface
-published_at: '2026-07-10T04:22:15.445736+05:30'
-collected_at: '2026-07-10T04:22:15.445764+05:30'
+published_at: '2026-07-18T16:56:13.826314+05:30'
+collected_at: '2026-07-18T16:56:13.826322+05:30'
 tags:
 - agents
 - dataset
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:hugging-face-github
-first_seen: '2026-07-10T04:22:15.445764+05:30'
-last_seen: '2026-07-10T04:22:15.445764+05:30'
-last_checked: '2026-07-10T04:22:15.445764+05:30'
+first_seen: '2026-07-18T16:56:13.826322+05:30'
+last_seen: '2026-07-18T16:56:13.826322+05:30'
+last_checked: '2026-07-18T16:56:13.826322+05:30'
 health_score: 100
 ---
 
@@ -25,14 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Hugging Face** maintains a suite of open-source libraries (`transformers`, `diffusers`, `datasets`, `peft`, `accelerate`, `optimum`) for state-of-the-art ML across modalities, supporting both training and inference with hardware acceleration (e.g., FSDP, DeepSpeed, fp8).
+- **Hugging Face** maintains core open-source libraries (`transformers`, `diffusers`, `datasets`, `peft`, `accelerate`, `optimum`) for state-of-the-art ML across modalities (text, vision, audio, multimodal) with PyTorch integration.
 
-- **Core repositories** include:
-  - `transformers`: Unified framework for NLP, vision, audio, and multimodal models (162k+ stars).
-  - `tokenizers`: High-performance Rust-based tokenization (10.8k+ stars).
-  - `diffusers`: Diffusion models for generative AI (34k+ stars).
+- **Key repositories** include `transformers` (162k+ stars, model framework), `diffusers` (34k+ stars, diffusion models), and `datasets` (21k+ stars, large-scale AI dataset hub).
 
-- **Additional projects** span robotics (`lerobot`), reinforcement learning (`trl`), and compute optimization (`kernels`, `optimum`), with active community contributions and Apache-2.0 licensing.
+- **Additional projects** span robotics (`lerobot`), RL (`trl`), speech-to-speech synthesis, and hardware optimization (`optimum`), with Rust/C++ tokenizers and distributed training support.
 
 ## Why It Matters
 
@@ -42,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-10T04:22:15.445736+05:30
+- Published: 2026-07-18T16:56:13.826314+05:30
 
 ## Related Tags
 

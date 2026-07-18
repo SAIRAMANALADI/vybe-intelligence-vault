@@ -3,7 +3,7 @@ title: Unlocking the power of unstructured data with RAG - The GitHub Blog
 archive_category: observability
 source_category: ai/rag
 source_url: https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag
-resource_id: blog:unlocking-the-power-of-unstructured-data-with-rag
+resource_id: blog:unlocking-the-power-of-unstructured-data-with-rag-18c6ca1e
 local_vault_path: ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md
 quality_score: 70
 archive_score: 72

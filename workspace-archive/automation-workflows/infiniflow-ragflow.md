@@ -3,7 +3,7 @@ title: infiniflow/ragflow
 archive_category: automation-workflows
 source_category: ai/rag
 source_url: https://github.com/infiniflow/ragflow?source=post_page-----dba899ae0355---------------------------------------
-resource_id: github:infiniflow/ragflow
+resource_id: github:infiniflow/ragflow-271f879d
 local_vault_path: ai/rag/infiniflow-ragflow-2.md
 quality_score: 70
 archive_score: 77

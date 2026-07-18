@@ -3,9 +3,9 @@ title: GitHub Status
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://githubstatus.com
-published_at: '2026-07-18T01:16:26.047247+05:30'
-collected_at: '2026-07-18T01:16:26.047262+05:30'
+source_url: https://www.githubstatus.com/
+published_at: '2026-07-18T16:54:30.038059+05:30'
+collected_at: '2026-07-18T16:54:30.038071+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-status
-first_seen: '2026-07-18T01:16:26.047262+05:30'
-last_seen: '2026-07-18T01:16:26.047262+05:30'
-last_checked: '2026-07-18T01:16:26.047262+05:30'
+first_seen: '2026-07-18T16:54:30.038071+05:30'
+last_seen: '2026-07-18T16:54:30.038071+05:30'
+last_checked: '2026-07-18T16:54:30.038071+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Status Page** provides real-time operational metrics for GitHub services (e.g., Git Operations, API Requests, Webhooks) with historical uptime tracking (90-day windows) and regional status dashboards (AU/EU/JP/US).
+- **GitHub Status Page**: Provides real-time operational status of GitHub services (e.g., GitHub.com, REST API, Webhooks, Actions) with 90-day uptime metrics, incident tracking, and historical data via Atom/RSS feeds.
 
-- **Incident Management** includes automated notifications via email, SMS (global), Slack, and webhooks for incident creation/updates/resolution, with detailed post-incident analyses (e.g., REST API outage due to misconfigured backend health checks).
+- **Incident Management**: Documents resolved/ongoing incidents (e.g., REST API degradation due to backend misconfiguration, Codespaces capacity exhaustion from abusive actors) with root cause analyses and mitigation steps.
 
-- **Service-Specific Metrics** show near-perfect uptime (99.71–100%) for core services (Pull Requests, Packages, Copilot), with documented disruptions (e.g., Codespaces throttling due to abusive actor surges, Actions failures from autoscaling misconfigurations).
+- **Notification Systems**: Supports multi-channel incident notifications (email, SMS, Slack, webhooks) with regional status pages (US, EU, Australia, Japan) and compliance with privacy policies (GDPR, reCAPTCHA).
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-18T01:16:26.047247+05:30
+- Published: 2026-07-18T16:54:30.038059+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://githubstatus.com
+Original source: https://www.githubstatus.com/

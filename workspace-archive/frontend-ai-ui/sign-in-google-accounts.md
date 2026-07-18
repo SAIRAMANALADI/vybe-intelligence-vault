@@ -3,7 +3,7 @@ title: Sign in - Google Accounts
 archive_category: frontend-ai-ui
 source_category: ai/resources
 source_url: https://wallet.google.com/wallet?p=globalgpayhome&utm_source=gpay-hc&utm_medium=website&utm_campaign=gpay-hc-redirect
-resource_id: blog:sign-in-google-accounts
+resource_id: blog:sign-in-google-accounts-3b2f6cd3
 local_vault_path: ai/resources/sign-in-google-accounts.md
 quality_score: 70
 archive_score: 72

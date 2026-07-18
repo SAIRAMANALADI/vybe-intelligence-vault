@@ -13,13 +13,14 @@ collected_at: '2026-07-18T01:05:00.836342+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:eeg-shows-brain-can-simultaneous-encode-two-speech
 first_seen: '2026-07-17T14:00:35.072713+05:30'
 last_seen: '2026-07-18T01:05:00.836342+05:30'
 last_checked: '2026-07-18T01:05:00.836342+05:30'
 health_score: 100
 ---
+
 
 # EEG shows brain can simultaneous encode two speech streams
 

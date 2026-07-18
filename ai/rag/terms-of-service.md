@@ -4,21 +4,21 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://scite.ai/terms
-published_at: '2026-07-14T13:05:17.111593+05:30'
-collected_at: '2026-07-14T13:05:17.111607+05:30'
+published_at: '2026-07-18T16:58:18.407986+05:30'
+collected_at: '2026-07-18T16:58:18.407993+05:30'
 tags:
 - agents
-- benchmark
 - hackernews
 - models
+- paper
 - rag
 - web-crawled
 - youtube
 status: active
 resource_id: blog:terms-of-service
-first_seen: '2026-07-14T13:05:17.111607+05:30'
-last_seen: '2026-07-14T13:05:17.111607+05:30'
-last_checked: '2026-07-14T13:05:17.111607+05:30'
+first_seen: '2026-07-18T16:58:18.407993+05:30'
+last_seen: '2026-07-18T16:58:18.407993+05:30'
+last_checked: '2026-07-18T16:58:18.407993+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Classifier Technology**: Scite’s proprietary classifier aggregates and analyzes scientific articles to determine whether claims are supported or contradicted by subsequent research, providing Classifier Results for user evaluation.
+- **Service Functionality**: Scite's platform uses proprietary NLP-based classifiers to analyze scientific articles, providing aggregated results (Classifier Results) that indicate whether claims in a paper are supported, contradicted, or referenced by subsequent research; AI-generated content (AI Content) is derived from these analyses but does not use user-submitted data for model training.
 
-- **AI Content Generation**: The Service generates AI-derived content from Articles and Classifier Results, explicitly excluding user-submitted data (Customer Data) from AI training or fine-tuning processes.
+- **User Responsibilities & Restrictions**: Users must ensure compliance with intellectual property laws, avoid prohibited content (e.g., obscene, defamatory material), and acknowledge sole responsibility for evaluating article credibility and legal obligations; unauthorized use of proprietary classifier technology or Classifier Results (e.g., derivative works, redistribution) is prohibited.
 
-- **Ownership & Usage Restrictions**: All proprietary components (e.g., classifier technology, usage data) are owned by Scite; users are prohibited from reverse-engineering, redistributing, or using Classifier Results outside permitted analytical purposes.
+- **Legal & Financial Terms**: Arbitration clauses replace court proceedings for disputes; users under 13 are prohibited; subscription fees are auto-charged monthly unless canceled 30+ days prior to renewal; third-party payment processors handle transactions without storing credit card data.
 
 ## Why It Matters
 
@@ -40,14 +40,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-14T13:05:17.111593+05:30
+- Published: 2026-07-18T16:58:18.407986+05:30
 
 ## Related Tags
 
 - agents
-- benchmark
 - hackernews
 - models
+- paper
 - rag
 - web-crawled
 - youtube

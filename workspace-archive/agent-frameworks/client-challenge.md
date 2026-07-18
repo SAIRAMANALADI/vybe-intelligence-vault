@@ -3,7 +3,7 @@ title: Client Challenge
 archive_category: agent-frameworks
 source_category: ai/resources
 source_url: https://pypi.org/project/autogen
-resource_id: blog:client-challenge
+resource_id: blog:client-challenge-f6bcd61e
 local_vault_path: ai/resources/client-challenge.md
 quality_score: 70
 archive_score: 72

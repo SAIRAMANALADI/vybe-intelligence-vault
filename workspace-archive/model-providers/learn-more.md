@@ -3,7 +3,7 @@ title: Learn more
 archive_category: model-providers
 source_category: ai/companies/deepmind
 source_url: https://deepmind.google/blog/our-approach-to-bioresilience
-resource_id: blog:learn-more
+resource_id: blog:learn-more-6c1a9e5b
 local_vault_path: ai/companies/deepmind/learn-more.md
 quality_score: 70
 archive_score: 80

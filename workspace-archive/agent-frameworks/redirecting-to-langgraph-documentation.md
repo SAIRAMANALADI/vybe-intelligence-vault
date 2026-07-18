@@ -34,7 +34,7 @@ selection_reason:
 
 - LangGraph documentation relocated to [docs.langchain.com](https://docs.langchain.com/oss/python/langgraph/overview)
 - New URL replaces prior hosting location for LangGraph technical resources
-- Redirect mechanism auto-forwards legacy links to updated documentation portal
+- Redirect mechanism ensures seamless transition to updated documentation platform
 
 ## Use Cases
 

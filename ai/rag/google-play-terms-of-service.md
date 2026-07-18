@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: http://play.google.com/about/play-terms.html
-published_at: '2026-07-17T14:10:50.298125+05:30'
-collected_at: '2026-07-17T14:10:50.298137+05:30'
+published_at: '2026-07-18T16:55:18.028948+05:30'
+collected_at: '2026-07-18T16:55:18.028954+05:30'
 tags:
 - agents
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:google-play-terms-of-service
-first_seen: '2026-07-17T14:10:50.298137+05:30'
-last_seen: '2026-07-17T14:10:50.298137+05:30'
-last_checked: '2026-07-17T14:10:50.298137+05:30'
+first_seen: '2026-07-18T16:55:18.028954+05:30'
+last_seen: '2026-07-18T16:55:18.028954+05:30'
+last_checked: '2026-07-18T16:55:18.028954+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Account & Access Control**: Users must maintain secure Google accounts (with age restrictions enforced per country) to access Google Play; unauthorized sharing or data harvesting violates terms, and disabled accounts may lose access to purchased content or family-sharing features.
+- **Account & Age Compliance**: Users must possess a valid Google Account with age restrictions enforced per regional laws; minors require parental/guardian consent. Account security is mandatory, prohibiting sharing credentials or harvesting user data.
 
-- **Content & Payment Policies**: Purchases are governed by separate sale contracts (Google LLC or third-party Providers), with pre-orders cancellable until fulfillment; subscriptions auto-renew unless canceled 24+ hours pre-billing, and all sales are final per Google Play’s refund policy.
+- **Content & Payment Terms**: Purchases are governed by separate sale contracts (Google LLC or third-party Providers), with pre-orders cancellable until fulfillment. Subscriptions auto-renew unless canceled ≥24h pre-billing cycle, and all sales are final per Google Play’s Refund Policy.
 
-- **Security & Data Handling**: Google may analyze apps/URLs for malware, block harmful content, and sync Instant Apps data across devices; tax responsibilities lie with users, and carrier billing requires device identifiers (e.g., SIM serial numbers) shared with network providers.
+- **Security & Data Handling**: Google may analyze apps/URLs for malware, block harmful installations, and sync Instant Apps data across devices. Family groups share purchase records, and carrier billing requires device identifiers (e.g., SIM serial numbers) shared with network providers under privacy policies.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-17T14:10:50.298125+05:30
+- Published: 2026-07-18T16:55:18.028948+05:30
 
 ## Related Tags
 

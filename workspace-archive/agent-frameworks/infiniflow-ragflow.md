@@ -3,7 +3,7 @@ title: infiniflow/ragflow
 archive_category: agent-frameworks
 source_category: ai/rag
 source_url: https://github.com/infiniflow/ragflow?source=post_page
-resource_id: github:infiniflow/ragflow
+resource_id: github:infiniflow/ragflow-b02b9c1f
 local_vault_path: ai/rag/infiniflow-ragflow.md
 quality_score: 70
 archive_score: 77

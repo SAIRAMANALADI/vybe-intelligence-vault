@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/plusai-solutions/ai-scrum-master-template
-collected_at: '2026-07-14T09:20:22.392550+05:30'
-published_at: '2026-07-02T02:01:47Z'
+collected_at: '2026-07-18T16:52:12.272182+05:30'
+published_at: '2026-07-17T03:59:58Z'
 tags:
 - agents
 - anthropic
@@ -13,7 +13,7 @@ tags:
 - scripts
 - unknown
 - workflows
-stars: 23
+stars: 24
 language: Unknown
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-03-18T13:11:16Z'
 pushed_at: '2026-03-19T12:36:58Z'
 resource_id: github:plusai-solutions/ai-scrum-master-template
-first_seen: '2026-07-14T09:20:22.392550+05:30'
-last_seen: '2026-07-14T09:20:22.392550+05:30'
-last_checked: '2026-07-14T09:20:22.392550+05:30'
+first_seen: '2026-07-18T16:52:12.272182+05:30'
+last_seen: '2026-07-18T16:52:12.272182+05:30'
+last_checked: '2026-07-18T16:52:12.272182+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous AI Development Orchestration**: Implements GitHub Actions and Claude to autonomously manage AI agents within a Scrum framework, enabling direct issue-to-build execution without human intervention.
-
-- **Scrum Framework Integration**: Transforms a GitHub repository into an autonomous development team by automating sprint planning, task assignment, and progress tracking via AI-driven agents.
-
-- **Dynamic Issue-Driven Workflows**: Processes GitHub Issues as work items, dynamically assigning and executing tasks through AI agents, with real-time updates and autonomous decision-making for sprint execution.
+- **Autonomous Development Team**: Converts a GitHub repository into an AI-driven Scrum team using GitHub Actions and Claude to orchestrate AI agents under the Scrum framework.
+- **Issue-Driven Workflow**: Manages and builds projects directly from GitHub Issues, automating task execution via AI agents.
+- **Open-Source Template**: Provides a reusable, community-driven framework for autonomous project management with last update on 2026-07-17.
 
 ## Why It Matters
 
@@ -44,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: plusai-solutions
-- Stars: 23
+- Stars: 24
 - Forks: 7
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-02T02:01:47Z
+- Last Updated: 2026-07-17T03:59:58Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-18T13:11:16Z

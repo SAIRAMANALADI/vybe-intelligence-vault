@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Sri-Krishna-V/awesome-adk-agents
-collected_at: '2026-07-18T01:08:33.071204+05:30'
+collected_at: '2026-07-18T16:51:22.194983+05:30'
 published_at: '2026-07-14T01:37:46Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-05-27T11:48:53Z'
 pushed_at: '2026-06-28T14:36:38Z'
 resource_id: github:sri-krishna-v/awesome-adk-agents
-first_seen: '2026-07-18T01:08:33.071204+05:30'
-last_seen: '2026-07-18T01:08:33.071204+05:30'
-last_checked: '2026-07-18T01:08:33.071204+05:30'
+first_seen: '2026-07-18T16:51:22.194983+05:30'
+last_seen: '2026-07-18T16:51:22.194983+05:30'
+last_checked: '2026-07-18T16:51:22.194983+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated ADK Resources**: Repository offering a structured collection of AI agents built with Google’s Agent Development Kit (ADK), including templates, best practices, and production-ready examples across domains like research, business, automation, and education.
+- **Curated ADK Resources**: Repository offering a structured collection of AI agents built with Google's Agent Development Kit (ADK), including templates, best practices, and production-ready examples across domains like research, business, automation, and education.
 
-- **Multi-Faceted ADK Support**: Focuses on ADK-Python, ADK-Web, and multi-agent systems, with integration examples for Google’s Gemini AI and Google ADK, facilitating agentic AI development and deployment.
+- **Multi-Faceted ADK Support**: Focuses on ADK-Python and ADK-Web, covering agentic AI, multi-agent systems, and integration with Google's Gemini AI, while also providing samples for diverse use cases.
 
-- **Technical Stack & Metadata**: Entirely Python-based, last updated July 14, 2026, with 334 stars and 48 forks, serving as an "awesome-list" resource for agentic AI development under the topics: `adk`, `gemini-ai`, and `multi-agent-systems`.
+- **Active Maintenance & Community**: Last updated in July 2026, the repository has 334 stars and 48 forks, indicating active community engagement and continuous updates for ADK-based agent development.
 
 ## Why It Matters
 

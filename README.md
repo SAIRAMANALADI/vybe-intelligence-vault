@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-80%2C095-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-80%2C193-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--18-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **80,095 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **80,193 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 12,739</p>
-        <p><b>Active:</b> 12,446 | <b>Inactive:</b> 293</p>
+        <p><b>Resources tracked:</b> 12,774</p>
+        <p><b>Active:</b> 12,477 | <b>Inactive:</b> 297</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 50,206</p>
+        <p><b>Archive Files:</b> 50,291</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 80,095 files</p>
-        <p><b>Last Update:</b> 2026-07-18 16:32 IST</p>
+        <p><b>Total Vault Size:</b> 80,193 files</p>
+        <p><b>Last Update:</b> 2026-07-18 17:06 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,25 +210,28 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Medium Members Can Listen To Any Medium Story With The Speechify Play Button | Speechify](ai/rag/medium-members-can-listen-to-any-medium-story-with.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Home - The GitHub Blog](ai/resources/home-the-github-blog.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[LinkedIn](ai/resources/linkedin.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[GitHub Changelog](ai/resources/github-changelog.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[The Agent Skills Directory](ai/agents/the-agent-skills-directory.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[The state of open source AI](ai/community/mozilla-the-state-of-open-source-ai.md)** • <kbd>+179 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Sign in - Google Accounts](ai/resources/sign-in-google-accounts.md)** • Rank: <kbd>+401</kbd>
+- 🔼 **[gitiles - Git at Google](ai/resources/gitiles-git-at-google.md)** • Rank: <kbd>+2578</kbd>
+- 🔼 **[pnpm - Open Collective](ai/rag/pnpm-open-collective.md)** • Rank: <kbd>+7449</kbd>
+- 🔼 **[git/git](ai/resources/git-git.md)** • Rank: <kbd>+1014</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Medium - Apps on Google Play](ai/rag/medium-apps-on-google-play.md)** • Score: `0`
-- 🆕 **[pinecone-io/canopy](ai/rag/pinecone-io-canopy.md)** • Score: `0`
-- 🆕 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Score: `0`
-- 🆕 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Score: `0`
-- 🆕 **[Medium Rules | by Medium | Medium Policy](ai/rag/medium-rules-by-medium-medium-policy.md)** • Score: `0`
+- 🆕 **[Painting the sides of railroad rails white to reduce derailment](ai/community/painting-the-sides-of-railroad-rails-white-to-redu.md)** • Score: `106`
+- 🆕 **[In-toto: A framework to secure the integrity of software supply chains](ai/community/in-toto-a-framework-to-secure-the-integrity-of-sof.md)** • Score: `39`
+- 🆕 **[java-firestore/samples/snippets/src/main/java/com/example/firestore/snippets/References.java at dd16eb077d99ea3c7ddb213b](ai/resources/googleapis-java-firestore.md)** • Score: `0`
+- 🆕 **[golang-samples/firestore/retrieve_data_reference_document_path.go at af997254beb8488699cc9770c7632fedf8731d97 · GoogleCl](ai/resources/googlecloudplatform-golang-samples.md)** • Score: `0`
+- 🆕 **[GitHub Enterprise · The AI-powered developer platform for the agent-ready enterprise · GitHub](ai/rag/github-enterprise-the-ai-powered-developer-platfor.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Apple targets dozens of OpenAI employees with legal letters](ai/community/apple-targets-dozens-of-openai-employees-with-lega.md)**
+- 💤 **[EEG shows brain can simultaneous encode two speech streams](ai/community/eeg-shows-brain-can-simultaneous-encode-two-speech.md)**
+- 💤 **[AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM](ai/community/ai-meets-cryptography-2-what-ai-found-in-openvm-s.md)**
+- 💤 **[VulnHunter: Capital One's agentic AI code security tool](ai/community/vulnhunter-capital-one-s-agentic-ai-code-security.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

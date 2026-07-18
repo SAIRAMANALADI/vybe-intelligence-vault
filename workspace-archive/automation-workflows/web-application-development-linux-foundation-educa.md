@@ -3,7 +3,7 @@ title: Web & Application Development - Linux Foundation - Education
 archive_category: automation-workflows
 source_category: ai/rag
 source_url: https://training.linuxfoundation.org/application-development/
-resource_id: blog:web-application-development-linux-foundation-educa
+resource_id: blog:web-application-development-linux-foundation-educa-8d66f228
 local_vault_path: ai/rag/web-application-development-linux-foundation-educa.md
 quality_score: 70
 archive_score: 72

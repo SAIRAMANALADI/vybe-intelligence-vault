@@ -3,7 +3,7 @@ title: Discourse | Where Tech Companies Build Communities
 archive_category: automation-workflows
 source_category: ai/resources
 source_url: https://www.discourse.org
-resource_id: blog:discourse-where-tech-companies-build-communities
+resource_id: blog:discourse-where-tech-companies-build-communities-d7ecc547
 local_vault_path: ai/resources/discourse-where-tech-companies-build-communities.md
 quality_score: 70
 archive_score: 72

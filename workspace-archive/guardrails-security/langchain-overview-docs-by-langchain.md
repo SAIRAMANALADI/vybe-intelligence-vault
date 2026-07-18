@@ -3,7 +3,7 @@ title: LangChain overview - Docs by LangChain
 archive_category: guardrails-security
 source_category: ai/rag
 source_url: https://python.langchain.com
-resource_id: blog:langchain-overview-docs-by-langchain
+resource_id: blog:langchain-overview-docs-by-langchain-29bff9d8
 local_vault_path: ai/rag/langchain-overview-docs-by-langchain.md
 quality_score: 70
 archive_score: 72

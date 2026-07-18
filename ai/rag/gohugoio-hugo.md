@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/gohugoio/hugo/releases
-published_at: '2026-07-18T01:11:31.561284+05:30'
-collected_at: '2026-07-18T01:11:31.561299+05:30'
+published_at: '2026-07-18T16:54:17.834049+05:30'
+collected_at: '2026-07-18T16:54:17.834056+05:30'
 tags:
 - agents
 - frontend_ui
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: github:gohugoio/hugo
-first_seen: '2026-07-18T01:11:31.561299+05:30'
-last_seen: '2026-07-18T01:11:31.561299+05:30'
-last_checked: '2026-07-18T01:11:31.561299+05:30'
+first_seen: '2026-07-18T16:54:17.834056+05:30'
+last_seen: '2026-07-18T16:54:17.834056+05:30'
+last_checked: '2026-07-18T16:54:17.834056+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Hugo v0.164.0** introduces dark/light mode pairs for Chroma highlighter styles, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), and Pandoc citation support, alongside fixes for a performance regression introduced in v0.128.0.
+- **New Features in v0.164.0**: Introduced dark/light mode pairs for Chroma highlighter styles, added template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), and enhanced markup with RST syntax highlighting and Pandoc citation support.
 
-- **Deprecations & Enhancements**: Resources.PostProcess is deprecated in favor of `templates.Defer`, and markup.rst.syntaxHighlight option is added for RST syntax highlighting configuration.
+- **Performance & Bug Fixes**: Addressed a performance regression introduced in v0.128.0, deprecated `resources.PostProcess` in favor of `templates.Defer`, and improved `hugio` performance via `hasBytesWriter` optimizations.
 
-- **Performance & Dependencies**: Optimized `hasBytesWriter` in `hugio`, added case-insensitive template name lookup, and updated dependencies (e.g., `esbuild` v0.28.0 → v0.28.1, Go modules).
+- **Template & Dependency Updates**: Added sub-path support in layouts for `.Render`, made template name lookup case-insensitive, and updated dependencies (e.g., `esbuild`, `Chroma`, Go toolchain).
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-18T01:11:31.561284+05:30
+- Published: 2026-07-18T16:54:17.834049+05:30
 
 ## Related Tags
 

@@ -6,7 +6,7 @@ source_url: https://extensions.dev/extensions/algolia/firestore-algolia-search
 resource_id: blog:search-firestore-with-algolia-firebase-extensions
 local_vault_path: ai/rag/search-firestore-with-algolia-firebase-extensions.md
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
@@ -14,6 +14,7 @@ tags:
 - rag
 - web-crawled
 selection_reason:
+- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -22,18 +23,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
+  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Real-time Firestore-to-Algolia Sync**: Indexes Firestore documents to Algolia records on create/update/delete operations, using Firestore document IDs as Algolia object IDs, with configurable field selection for indexing.
+- **Real-time Firestore-to-Algolia synchronization**: Extension indexes Firestore documents to Algolia records on `create`, `update`, or `delete` operations, using Firestore document IDs as Algolia object IDs, with configurable field mappings.
 
-- **Requirements**: Requires a Firestore database, Algolia account, and Firebase Blaze (pay-as-you-go) plan; triggers a one-time sync on installation/configuration changes.
+- **Semantic & vector search support**: Enables `semantic-search`, `vector-search`, and `text-search` via Algolia’s AI-powered search capabilities, requiring Algolia account setup and Firestore database integration.
 
-- **Billing Impact**: Incurs costs for Firestore, Cloud Functions, and Algolia services; installati
+- **Blaze plan requirement & billing**
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/embeddings-benchmark/mteb
-collected_at: '2026-07-14T19:53:10.261707+05:30'
-published_at: '2026-07-14T14:10:35Z'
+collected_at: '2026-07-18T16:55:14.442320+05:30'
+published_at: '2026-07-18T10:39:57Z'
 tags:
 - benchmark
 - dataset
@@ -13,17 +13,17 @@ tags:
 - leaderboard
 - python
 - rag
-stars: 3354
+stars: 3361
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2022-04-05T08:25:47Z'
-pushed_at: '2026-07-14T14:17:16Z'
+pushed_at: '2026-07-18T08:14:49Z'
 resource_id: github:embeddings-benchmark/mteb
-first_seen: '2026-07-14T19:53:10.261707+05:30'
-last_seen: '2026-07-14T19:53:10.261707+05:30'
-last_checked: '2026-07-14T19:53:10.261707+05:30'
+first_seen: '2026-07-18T16:55:14.442320+05:30'
+last_seen: '2026-07-18T16:55:14.442320+05:30'
+last_checked: '2026-07-18T16:55:14.442320+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across 58 datasets spanning 11 tasks (e.g., retrieval, clustering, STS, reranking) and supports 16 languages, including low-resource languages, with standardized metrics for fair comparison.
+- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across **15 tasks** (e.g., retrieval, clustering, STS, reranking) and **110 datasets**, supporting **multilingual** (100+ languages) and **multimodal** (text + image) scenarios with standardized metrics.
 
-- **Multimodal & Multilingual Support**: Extends evaluation to multimodal embeddings (text + vision) and includes bitext mining, neural search, and semantic search tasks, with a modular framework for easy integration of new datasets/models.
+- **Modular & Extensible Framework**: Implements **task-specific adapters** (e.g., `SentenceTransformer`, `SBERT`) and **dynamic task loading**, enabling reproducible comparisons of embedding models (e.g., `all-MiniLM-L6-v2`, `multilingual-e5-large`) with configurable pipelines.
 
-- **State-of-the-Art Toolkit**: Provides Python-based tools for reproducible benchmarking, including pre-trained models (e.g., Sentence-BERT), task-specific adapters, and a leaderboard to track performance across tasks and languages.
+- **Performance Tracking & Leaderboard**: Hosts a **live leaderboard** for model rankings (e.g., by `Average Score` or per-task metrics), with **automated CI/CD** for continuous evaluation and support for **custom task integration** via PR-based submissions.
 
 ## Why It Matters
 
@@ -44,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: embeddings-benchmark
-- Stars: 3354
-- Forks: 640
+- Stars: 3361
+- Forks: 644
 - Language: Python
 - Topics: benchmark, bitext-mining, clustering, embeddings, evaluation, information-retrieval, low-resource-nlp, mteb, multilingual-nlp, multimodal, neural-search, reranking, retrieval, sbert, semantic-search, sentence-transformers, sts, text-classification, text-embedding
-- Last Updated: 2026-07-14T14:10:35Z
+- Last Updated: 2026-07-18T10:39:57Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2022-04-05T08:25:47Z
-- Pushed At: 2026-07-14T14:17:16Z
+- Pushed At: 2026-07-18T08:14:49Z
 
 ## Possible Use Cases
 

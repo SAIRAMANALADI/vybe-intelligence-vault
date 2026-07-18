@@ -8,7 +8,7 @@ local_vault_path: ai/rag/android-mobile-app-developer-tools-android-develop.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -21,7 +21,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Android Mobile App Developer Tools - Android Developers
@@ -30,16 +30,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Android Bench** updated with new LLM benchmarking methodology, expanded model evaluations, and community contribution opportunities for Android development assistance.
-- **Android 17 (API 37)** released with AOSP source code available and rolling out to Pixel devices, featuring top updates for app compatibility and development.
-- **Android Studio Quail 2 (2026.1.2)** introduces new SDK tools under revised licensing terms, restricting usage to compatible Android implementations and prohibitin
+- **Android Bench 2026 Update**: Introduces an updated LLM benchmarking methodology (Android Bench) to evaluate AI models for Android development, with new models tested and an open contribution model for community-driven improvements.
+
+- **Android 17 & API 37 Release**: Android 17 source code is live on AOSP, with Pixel device rollouts; key updates include API 37 optimizations requiring app adjustments for compatibility.
+
+- **Android XR Platform Expansion**: New tools and engine support for And
 
 ## Use Cases
 

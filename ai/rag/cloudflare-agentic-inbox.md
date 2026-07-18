@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cloudflare/agentic-inbox
-collected_at: '2026-07-18T01:09:43.195789+05:30'
-published_at: '2026-07-17T18:33:22Z'
+collected_at: '2026-07-18T16:52:32.310358+05:30'
+published_at: '2026-07-18T10:42:06Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-stars: 6389
+stars: 6393
 language: TypeScript
 status: active
 license: Apache-2.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-04-10T00:26:27Z'
 pushed_at: '2026-04-23T21:04:17Z'
 resource_id: github:cloudflare/agentic-inbox
-first_seen: '2026-07-18T01:09:43.195789+05:30'
-last_seen: '2026-07-18T01:09:43.195789+05:30'
-last_checked: '2026-07-18T01:09:43.195789+05:30'
+first_seen: '2026-07-18T16:52:32.310358+05:30'
+last_seen: '2026-07-18T16:52:32.310358+05:30'
+last_checked: '2026-07-18T16:52:32.310358+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cloudflare Workers-based Email Client**: Self-hosted email client implemented entirely on Cloudflare Workers, leveraging serverless compute for low-latency, globally distributed email processing.
+- **Architecture**: Self-hosted email client leveraging Cloudflare Workers for serverless execution, entirely written in TypeScript.
 
-- **AI Agent Integration**: Embedded AI agent (TypeScript) handles email triage, summarization, and automated responses via Workers AI or third-party LLM APIs.
+- **AI Integration**: Incorporates an AI agent for email processing, enabling autonomous handling of messages, summarization, and responses.
 
-- **Storage & Routing**: Uses Cloudflare Durable Objects for stateful email storage and KV for metadata, with R2 for raw message attachments; inbound routing via Workers KV and outbound via SMTP relay.
+- **Deployment**: Runs entirely on Cloudflare's edge network, ensuring low latency and global scalability without traditional backend infrastructure.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: cloudflare
-- Stars: 6389
-- Forks: 804
+- Stars: 6393
+- Forks: 807
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-07-17T18:33:22Z
+- Last Updated: 2026-07-18T10:42:06Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-04-10T00:26:27Z

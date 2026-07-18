@@ -3,7 +3,7 @@ title: allenai/c4
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/datasets/allenai
-resource_id: huggingface:datasets/allenai
+resource_id: huggingface:datasets/allenai-5869dbf3
 local_vault_path: ai/rag/huggingface-datasets-allenai.md
 quality_score: 70
 archive_score: 74
@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: allenai/c4 (Likes: 615, Downloads: 1512608)
+Trending Hugging Face dataset: allenai/c4 (Likes: 616, Downloads: 1540200)
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-07-18T01:07:13.037232+05:30'
+collected_at: '2026-07-18T16:50:02.182789+05:30'
 published_at: '2026-07-10T09:46:49Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-07-18T01:07:13.037232+05:30'
-last_seen: '2026-07-18T01:07:13.037232+05:30'
-last_checked: '2026-07-18T01:07:13.037232+05:30'
+first_seen: '2026-07-18T16:50:02.182789+05:30'
+last_seen: '2026-07-18T16:50:02.182789+05:30'
+last_checked: '2026-07-18T16:50:02.182789+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: CRUD-RAG introduces a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on comprehensive performance metrics across diverse tasks and datasets.
-- **Evaluation Framework**: Implements structured evaluation protocols for assessing Large Language Models (LLMs) in retrieval, generation, and combined RAG scenarios with standardized metrics.
-- **Open-Source Toolkit**: Provides a Python-based repository with modular components for benchmarking, including datasets, evaluation scripts, and baseline model implementations.
+- **Benchmark Suite**: CRUD-RAG provides a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, covering diverse tasks and datasets to assess performance across multiple dimensions of RAG pipelines.
+
+- **Evaluation Framework**: Implements standardized metrics and protocols for assessing retrieval quality, generation accuracy, and end-to-end RAG effectiveness in Chinese language contexts, enabling reproducible and comparable results.
+
+- **Open-Source Toolkit**: Released as a Python-based repository with modular components for benchmarking, including retrieval models, generation backends, and evaluation scripts, facilitating community-driven advancements in RAG research.
 
 ## Why It Matters
 

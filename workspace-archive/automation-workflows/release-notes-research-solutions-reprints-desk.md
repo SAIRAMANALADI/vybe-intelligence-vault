@@ -8,7 +8,7 @@ local_vault_path: ai/rag/release-notes-research-solutions-reprints-desk.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - hackernews
@@ -19,7 +19,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Release Notes | Research Solutions/Reprints Desk
@@ -28,18 +28,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **AI-Ready Content Rights & MCP Integration (Spring 2026)**: Introduced Article Galaxy MCP with AI-ready content rights and enhanced citation intelligence for streamlined research workflows.
+- **Article Galaxy MCP Integration**: Introduces a Model Context Protocol (MCP) server for AI-driven literature access, enabling programmatic interaction with research databases via standardized APIs.
 
-- **Full-Text Citation Search & Inline Re-Use Rights (Summer 2025)**: Enabled full-text citation search and inline re-use rights for improved document management and compliance.
+- **AI-Ready Content Rights Framework**: Implements granular, article-level licensing metadata to automate compliance checks and enable inline reuse of licensed content in AI-generated outputs.
 
-- **PubMed + Article Galaxy Integration (Latest Update)**: Supercharged workflows with a new PubMed integration, optimizing lit
+- **Enhanced Citation Intelligence Engine**: Deploys full-text citation search capabilities with scite.
 
 ## Use Cases
 

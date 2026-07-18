@@ -3,7 +3,7 @@ title: Welcome! — Jupyter Server documentation
 archive_category: public-apis
 source_category: ai/rag
 source_url: https://jupyter-server.readthedocs.io
-resource_id: blog:welcome-jupyter-server-documentation
+resource_id: blog:welcome-jupyter-server-documentation-13dcf4e1
 local_vault_path: ai/rag/welcome-jupyter-server-documentation.md
 quality_score: 70
 archive_score: 72

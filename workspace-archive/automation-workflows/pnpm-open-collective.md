@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Disk Space Efficiency**: Uses hard links and a content-addressable store to avoid redundant package storage, reducing disk usage by up to 60% compared to npm/yarn.
-- **Performance**: Implements a non-recursive dependency resolution algorithm, enabling faster installs (up to 2x) by avoiding nested `node_modules` structures.
-- **Compatibility**: Fully supports npm/yarn workflows (e.g., `package.json`, `node_modules` structure) while introducing optimizations like strict peer dependency resolut
+- **Disk Space Efficiency**: Uses hard links and content-addressable storage to avoid redundant package storage, significantly reducing disk usage compared to npm/yarn.
+- **Performance Optimization**: Implements a non-recursive dependency resolution algorithm, enabling faster installs and updates by minimizing filesystem operations.
+- **Compatibility & Extensibility**: Fully compatible with npm/yarn workflows via `pnpm install --shamefully-hoist`, supports monorepos, and offers plugin-based exte
 
 ## Use Cases
 

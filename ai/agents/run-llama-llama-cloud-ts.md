@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama-cloud-ts
-collected_at: '2026-07-18T01:12:21.180059+05:30'
+collected_at: '2026-07-18T16:55:09.677670+05:30'
 published_at: '2026-07-17T17:34:45Z'
 tags:
 - agents
 - github-repo
 - meta-ai
 - models
-- scripts
 - typescript
 - workflows
 stars: 29
@@ -20,11 +19,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2025-11-06T21:59:46Z'
-pushed_at: '2026-07-16T21:35:10Z'
+pushed_at: '2026-07-17T22:36:35Z'
 resource_id: github:run-llama/llama-cloud-ts
-first_seen: '2026-07-18T01:12:21.180059+05:30'
-last_seen: '2026-07-18T01:12:21.180059+05:30'
-last_checked: '2026-07-18T01:12:21.180059+05:30'
+first_seen: '2026-07-18T16:55:09.677670+05:30'
+last_seen: '2026-07-18T16:55:09.677670+05:30'
+last_checked: '2026-07-18T16:55:09.677670+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript SDK for LlamaParse**: Provides a cloud-based OCR and document parsing interface using LlamaParse, enabling structured extraction from unstructured documents.
-- **Document Processing Features**: Supports information extraction, parsing, and metadata handling for documents via a TypeScript API with cloud integration.
-- **Agent & Integration Support**: Designed for document-agent workflows, facilitating automation in document processing pipelines with LlamaCloud services.
+- **TypeScript SDK for LlamaParse**: Provides cloud-based OCR and document parsing capabilities with LlamaParse, enabling structured extraction from unstructured documents.
+- **Document Processing & Information Extraction**: Supports advanced parsing workflows for agents, including document-agent interactions and metadata extraction.
+- **Integration & Tooling**: Designed for seamless integration with Llama ecosystem, optimized for TypeScript-based document processing pipelines.
 
 ## Why It Matters
 
@@ -51,7 +50,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2025-11-06T21:59:46Z
-- Pushed At: 2026-07-16T21:35:10Z
+- Pushed At: 2026-07-17T22:36:35Z
 
 ## Possible Use Cases
 

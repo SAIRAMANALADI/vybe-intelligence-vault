@@ -3,7 +3,7 @@ title: Org mode for GNU Emacs
 archive_category: automation-workflows
 source_category: ai/resources
 source_url: http://orgmode.org
-resource_id: blog:org-mode-for-gnu-emacs
+resource_id: blog:org-mode-for-gnu-emacs-8ff7b3d4
 local_vault_path: ai/resources/org-mode-for-gnu-emacs.md
 quality_score: 70
 archive_score: 72

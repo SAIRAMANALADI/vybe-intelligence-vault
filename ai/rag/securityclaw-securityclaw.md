@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-07-18T01:07:18.077884+05:30'
+collected_at: '2026-07-18T16:50:07.170325+05:30'
 published_at: '2026-07-16T16:51:00Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - python
 - rag
 - scripts
+- workflows
 stars: 254
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-07-16T16:52:11Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-07-18T01:07:18.077884+05:30'
-last_seen: '2026-07-18T01:07:18.077884+05:30'
-last_checked: '2026-07-18T01:07:18.077884+05:30'
+first_seen: '2026-07-18T16:50:07.170325+05:30'
+last_seen: '2026-07-18T16:50:07.170325+05:30'
+last_checked: '2026-07-18T16:50:07.170325+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous agent integrating OpenSearch/Elasticsearch monitoring, RAG-based behavioral memory construction, and real-time anomaly validation via LLMs for cybersecurity operations.
+- **Modular SOC Agent**: Implements a skill-based autonomous SOC agent in Python, integrating OpenSearch/Elasticsearch for real-time data monitoring and anomaly detection.
 
-- **Skill-Based Architecture**: Implements modular, skill-driven components for threat detection, hunting, and SOC automation, leveraging retrieval-augmented generation (RAG) for contextual memory and decision-making.
+- **RAG-Based Memory & LLM Validation**: Utilizes Retrieval-Augmented Generation (RAG) to build behavioral memory and employs LLMs to validate and contextualize real-time anomalies.
 
-- **Real-Time Threat Validation**: Dynamically validates anomalies using LLM-driven analysis, enabling adaptive threat detection and response in autonomous SOC environments.
+- **Threat Detection & Automation**: Focuses on cybersecurity automation, enabling threat hunting and detection through modular components and SOC workflow integration.
 
 ## Why It Matters
 

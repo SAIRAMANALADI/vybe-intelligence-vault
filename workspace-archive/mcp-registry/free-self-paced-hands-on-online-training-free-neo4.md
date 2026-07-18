@@ -3,7 +3,7 @@ title: Free, Self-Paced, Hands-on Online Training | Free Neo4j Courses from Grap
 archive_category: mcp-registry
 source_category: ai/rag
 source_url: https://graphacademy.neo4j.com
-resource_id: blog:free-self-paced-hands-on-online-training-free-neo4
+resource_id: blog:free-self-paced-hands-on-online-training-free-neo4-fa41cf52
 local_vault_path: ai/rag/free-self-paced-hands-on-online-training-free-neo4.md
 quality_score: 70
 archive_score: 74

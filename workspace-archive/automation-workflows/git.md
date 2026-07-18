@@ -3,7 +3,7 @@ title: Git
 archive_category: automation-workflows
 source_category: ai/resources
 source_url: https://git-scm.com
-resource_id: blog:git
+resource_id: blog:git-2d079184
 local_vault_path: ai/resources/git.md
 quality_score: 70
 archive_score: 82

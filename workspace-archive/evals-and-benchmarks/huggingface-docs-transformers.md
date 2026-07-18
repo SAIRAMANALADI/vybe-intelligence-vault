@@ -3,7 +3,7 @@ title: Gemma 3 · Hugging Face
 archive_category: evals-and-benchmarks
 source_category: ai/rag
 source_url: https://huggingface.co/docs/transformers/main/en/model_doc/gemma3
-resource_id: huggingface:docs/transformers
+resource_id: huggingface:docs/transformers-5d4b370d
 local_vault_path: ai/rag/huggingface-docs-transformers.md
 quality_score: 70
 archive_score: 72

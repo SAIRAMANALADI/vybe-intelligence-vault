@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/airweave-ai/airweave
-collected_at: '2026-07-18T01:08:18.112489+05:30'
+collected_at: '2026-07-18T16:51:07.261658+05:30'
 published_at: '2026-07-17T15:56:42Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
-- workflows
 stars: 6486
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-12-24T10:00:06Z'
 pushed_at: '2026-06-05T09:52:19Z'
 resource_id: github:airweave-ai/airweave
-first_seen: '2026-07-18T01:08:18.112489+05:30'
-last_seen: '2026-07-18T01:08:18.112489+05:30'
-last_checked: '2026-07-18T01:08:18.112489+05:30'
+first_seen: '2026-07-18T16:51:07.261658+05:30'
+last_seen: '2026-07-18T16:51:07.261658+05:30'
+last_checked: '2026-07-18T16:51:07.261658+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Open-source context retrieval layer**: Provides a Python-based SDK for AI agents to dynamically fetch and integrate relevant context from enterprise data sources, enhancing retrieval-augmented generation (RAG) workflows.
+- **Purpose**: Open-source context retrieval layer designed to enhance AI agents by providing structured, efficient access to external data sources and enterprise knowledge bases.
 
-- **Enterprise data connectors**: Supports integration with structured/unstructured data (SQL, NoSQL, APIs, files) via semantic search and retrieval mechanisms, enabling real-time context augmentation for LLMs.
+- **Key Features**: Supports semantic search, retrieval-augmented generation (RAG), and integration with multiple data connectors (e.g., databases, APIs, unstructured data) via a unified Python SDK.
 
-- **API-first architecture**: Exposes a search API for semantic retrieval, with features like filtering, pagination, and hybrid search (keyword + vector), optimized for low-latency agent interactions.
+- **Technical Stack**: Built in Python with modular architecture for extensibility, optimized for low-latency retrieval and scalable enterprise deployments.
 
 ## Why It Matters
 

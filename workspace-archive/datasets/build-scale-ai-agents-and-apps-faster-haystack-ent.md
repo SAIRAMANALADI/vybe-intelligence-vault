@@ -3,7 +3,7 @@ title: Build & Scale AI Agents and Apps Faster | Haystack Enterprise Platform
 archive_category: datasets
 source_category: ai/rag
 source_url: https://www.deepset.ai/products-and-services/deepset-ai-platform
-resource_id: blog:build-scale-ai-agents-and-apps-faster-haystack-ent
+resource_id: blog:build-scale-ai-agents-and-apps-faster-haystack-ent-e070425c
 local_vault_path: ai/rag/build-scale-ai-agents-and-apps-faster-haystack-ent.md
 quality_score: 70
 archive_score: 72

@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-18T01:07:38.087939+05:30'
+collected_at: '2026-07-18T16:50:27.147396+05:30'
 published_at: '2026-07-13T12:27:27Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-18T01:07:38.087939+05:30'
-last_seen: '2026-07-18T01:07:38.087939+05:30'
-last_checked: '2026-07-18T01:07:38.087939+05:30'
+first_seen: '2026-07-18T16:50:27.147396+05:30'
+last_seen: '2026-07-18T16:50:27.147396+05:30'
+last_checked: '2026-07-18T16:50:27.147396+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces a memory-organized RAG (Retrieval-Augmented Generation) framework that mimics human-like memory structures for stateful long narrative reasoning, enhancing contextual coherence in multi-turn dialogues.
+- **Cognitive Architecture Integration**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive memory structures, enabling stateful long-form narrative reasoning with enhanced contextual retention.
 
-- **Stateful Reasoning Mechanism**: Implements a dynamic memory update and retrieval system that maintains narrative consistency across extended interactions, leveraging episodic and semantic memory modules for improved long-term dependency modeling.
+- **Dynamic Memory Organization**: Implements hierarchical memory modules (e.g., episodic, semantic, and procedural layers) to optimize retrieval efficiency and coherence in multi-turn dialogues or extended narratives.
 
-- **AAAI 2026 Poster Submission**: Presents empirical results demonstrating superior performance in narrative reasoning tasks compared to traditional RAG baselines, with codebase in Python and modular design for extensibility.
+- **AAAI 2026 Poster Submission**: Proposes novel evaluation metrics for stateful reasoning, demonstrating superior performance in long-context tasks compared to traditional RAG baselines via Python-based implementation.
 
 ## Why It Matters
 

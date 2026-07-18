@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sierra-research/tau2-bench
-collected_at: '2026-07-18T01:08:48.127594+05:30'
-published_at: '2026-07-17T11:13:33Z'
+collected_at: '2026-07-18T16:51:37.267457+05:30'
+published_at: '2026-07-18T09:15:52Z'
 tags:
 - agents
 - benchmark
@@ -13,17 +13,17 @@ tags:
 - hackernews
 - python
 - workflows
-stars: 1600
+stars: 1603
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-06-09T23:46:17Z'
-pushed_at: '2026-07-17T04:47:45Z'
+pushed_at: '2026-07-18T00:10:38Z'
 resource_id: github:sierra-research/tau2-bench
-first_seen: '2026-07-18T01:08:48.127594+05:30'
-last_seen: '2026-07-18T01:08:48.127594+05:30'
-last_checked: '2026-07-18T01:08:48.127594+05:30'
+first_seen: '2026-07-18T16:51:37.267457+05:30'
+last_seen: '2026-07-18T16:51:37.267457+05:30'
+last_checked: '2026-07-18T16:51:37.267457+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions across real-world domains, focusing on conversational agents and LLM-driven workflows with a structured, multi-turn interaction framework.
+- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions across real-world domains, focusing on conversational agents and LLM-based tool integration with a structured, multi-domain evaluation framework.
 
-- **Technical Scope**: Implemented in Python, the benchmark includes domain-specific tasks (e.g., software development, data analysis) with standardized metrics for tool usage, user feedback integration, and agent adaptability.
+- **Technical Scope**: Implemented in Python, the benchmark includes standardized interfaces for tool-agent-user workflows, enabling reproducible testing of agent capabilities in dynamic, multi-turn interactions.
 
-- **Evaluation Metrics**: Measures performance via task completion rates, tool invocation efficiency, user satisfaction scores, and robustness to dynamic user inputs, with open-source codebase for extensibility.
+- **Evaluation Metrics**: Measures performance via domain-specific success criteria, interaction efficiency, and robustness, providing quantifiable insights into agent adaptability and tool-use proficiency in practical scenarios.
 
 ## Why It Matters
 
@@ -44,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: sierra-research
-- Stars: 1600
-- Forks: 408
+- Stars: 1603
+- Forks: 410
 - Language: Python
 - Topics: ai, benchmark, conversational-agents, language-model-agent, llm
-- Last Updated: 2026-07-17T11:13:33Z
+- Last Updated: 2026-07-18T09:15:52Z
 - License: MIT
 - Archived: No
 - Created At: 2025-06-09T23:46:17Z
-- Pushed At: 2026-07-17T04:47:45Z
+- Pushed At: 2026-07-18T00:10:38Z
 
 ## Possible Use Cases
 

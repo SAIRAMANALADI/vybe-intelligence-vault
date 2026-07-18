@@ -1,55 +1,77 @@
 ---
-title: LlamaIndexTS/CONTRIBUTING.md at main · run-llama/LlamaIndexTS · GitHub
+title: run-llama/LlamaIndexTS
 category: ai/rag
-source_type: web
-source_name: Web Discovery
-source_url: https://github.com/run-llama/LlamaIndexTS/blob/main/CONTRIBUTING.md
-published_at: '2026-07-07T00:56:43.894089+05:30'
-collected_at: '2026-07-07T00:56:43.894107+05:30'
+source_type: github
+source_name: GitHub Discovery
+source_url: https://github.com/run-llama/LlamaIndexTS
+collected_at: '2026-07-18T16:57:15.604019+05:30'
+published_at: '2026-07-14T13:27:29Z'
 tags:
+- agents
+- anthropic
 - frontend_ui
+- github-repo
 - meta-ai
 - models
-- producthunt
+- openai
 - rag
-- web-crawled
+- typescript
 - workflows
+stars: 3076
+language: TypeScript
 status: active
+license: MIT
+archived: true
+created_at: '2023-06-13T06:41:20Z'
+pushed_at: '2026-03-11T20:07:07Z'
 resource_id: github:run-llama/llamaindexts
-first_seen: '2026-07-07T00:56:43.894107+05:30'
-last_seen: '2026-07-07T00:56:43.894107+05:30'
-last_checked: '2026-07-07T00:56:43.894107+05:30'
+first_seen: '2026-07-18T16:57:15.604019+05:30'
+last_seen: '2026-07-18T16:57:15.604019+05:30'
+last_checked: '2026-07-18T16:57:15.604019+05:30'
 health_score: 100
 ---
 
-# LlamaIndexTS/CONTRIBUTING.md at main · run-llama/LlamaIndexTS · GitHub
+# run-llama/LlamaIndexTS
 
 ## Summary
 
-- LlamaIndex.TS uses a **pnpm monorepo** with core packages (`core`, `env`, `providers/*`) and applications (`apps/*`, `examples`), requiring Node.js LTS and TypeScript proficiency for contributions.
-- Development workflow includes dependency installation (`pnpm install`), building (`pnpm build`), and testing (`pnpm test` for unit tests, `pnpm e2e` for end-to-end tests) with hot-reload via `pnpm dev`.
-- New packages must be added under `packages/providers`, require `changeset` versioning, and mandate documentation/examples for new features before PR submission.
+- **TypeScript-based LLM Data Framework**: LlamaIndexTS provides a server-side solution for LLM applications, enabling efficient data indexing and retrieval for TypeScript/JavaScript environments.
+
+- **Modular Integration**: Supports multiple LLM providers (OpenAI, Groq, Claude AI) and frameworks (React, Node.js), with built-in tools for embeddings, agent workflows, and chatbot development.
+
+- **Active Development & Ecosystem**: Last updated July 2026, with 3,076 stars and 524 forks, indicating strong community adoption and continuous enhancements for production-grade LLM applications.
 
 ## Why It Matters
 
-General public resource representing technology updates, guides, or tutorials.
+Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
 
-## Details
+## Repository Details
 
-- Source: Web Discovery
-- Category: ai/rag
-- Published: 2026-07-07T00:56:43.894089+05:30
+- Owner: run-llama
+- Stars: 3076
+- Forks: 524
+- Language: TypeScript
+- Topics: agent, chatbot, claude-ai, create-llama, embedding, groq-ai, javascript, llama, llama-index, llama3, llamaindex, llm, node, nodejs, openai, react, typescript
+- Last Updated: 2026-07-14T13:27:29Z
+- License: MIT
+- Archived: Yes
+- Created At: 2023-06-13T06:41:20Z
+- Pushed At: 2026-03-11T20:07:07Z
 
-## Related Tags
+## Possible Use Cases
 
-- frontend_ui
-- meta-ai
-- models
-- producthunt
-- rag
-- web-crawled
-- workflows
+- Learn implementation patterns
+- Extract reusable components
+- Study architecture
+- Build similar project
+- Add to skill file references
+
+## Related Skills
+
+- Frontend Development
+- JavaScript
+- HTML/CSS
 
 ## Source
 
-Original source: https://github.com/run-llama/LlamaIndexTS/blob/main/CONTRIBUTING.md
+Original source: https://github.com/run-llama/LlamaIndexTS

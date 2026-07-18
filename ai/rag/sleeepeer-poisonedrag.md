@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-07-18T01:07:18.002783+05:30'
+collected_at: '2026-07-18T16:50:07.153883+05:30'
 published_at: '2026-07-16T07:25:11Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
+- models
 - python
 - rag
 - reddit
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-07-18T01:07:18.002783+05:30'
-last_seen: '2026-07-18T01:07:18.002783+05:30'
-last_checked: '2026-07-18T01:07:18.002783+05:30'
+first_seen: '2026-07-18T16:50:07.153883+05:30'
+last_seen: '2026-07-18T16:50:07.153883+05:30'
+last_checked: '2026-07-18T16:50:07.153883+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Framework**: Introduces *PoisonedRAG*, a first-of-its-kind attack targeting Retrieval-Augmented Generation (RAG) systems by corrupting the external knowledge base to manipulate LLM outputs, demonstrated on USENIX Security 2025 benchmarks.
+- **Attack Methodology**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by poisoning the retrieval corpus, causing LLMs to generate adversarial or incorrect outputs while maintaining high relevance scores.
 
-- **Technical Mechanism**: Leverages adversarial document poisoning (e.g., embedding misleading or biased snippets) to skew retrieval during inference, causing LLMs to generate targeted misinformation or biased responses without direct model access.
+- **Technical Implementation**: Leverages gradient-based optimization to craft poisoned documents that, when retrieved, manipulate the LLM's output toward attacker-specified targets without requiring direct access to model parameters or fine-tuning.
 
-- **Evaluation & Impact**: Validates attack efficacy on real-world RAG pipelines, showing significant degradation in response accuracy/faithfulness, with proposed mitigation strategies (e.g., retrieval filtering, adversarial training) discussed for trustworthy AI deployment.
+- **Evaluation & Impact**: Demonstrates effectiveness across multiple RAG pipelines (e.g., dense retrieval, sparse retrieval) and LLMs, highlighting vulnerabilities in trustworthy AI systems and proposing mitigation strategies for robust RAG deployment.
 
 ## Why It Matters
 

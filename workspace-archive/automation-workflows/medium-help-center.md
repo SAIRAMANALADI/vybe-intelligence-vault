@@ -2,7 +2,7 @@
 title: Medium Help Center
 archive_category: automation-workflows
 source_category: ai/resources
-source_url: https://help.medium.com/hc/en-us?source=--------------------------------------------
+source_url: https://help.medium.com/hc/en-us?source=post_page-----d10bb5769280---------------------------------------
 resource_id: blog:medium-help-center
 local_vault_path: ai/resources/medium-help-center.md
 quality_score: 70
@@ -14,7 +14,6 @@ tags:
 - hackernews
 - web-crawled
 - workflows
-- youtube
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -33,8 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Account Management**: Medium provides granular control over user profiles, subscription settings, email preferences, and social media integrations via dedicated help articles (e.g., [profile URL customization](https://help.medium.com/hc/en-us/articles/115004746707-Your-profile-page-URL), [subscription management](https://medium.zendesk.com/hc/en-us/articles/360006277374)).
-- **Content Distribution & Analytics**: Authors can monitor performance metrics (e.g., [detailed story stats](https://he
+- Medium's **Partner Program** enables monetization via a tiered earnings structure, with eligibility requiring adherence to distribution guidelines and content policies.
+- **Publications** support collaborative content management, featuring submission workflows, editorial controls, and customizable layout settings for curated collections.
+- **Content policies** enforce strict moderation via automated filters and human review, covering controversial topics, COVID-19 misinformation, and journalis
 
 ## Use Cases
 
@@ -44,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://help.medium.com/hc/en-us?source=--------------------------------------------
+Original source URL: https://help.medium.com/hc/en-us?source=post_page-----d10bb5769280---------------------------------------
 
 ## Local Vault File
 

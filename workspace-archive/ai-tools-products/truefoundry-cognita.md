@@ -3,7 +3,7 @@ title: truefoundry/cognita
 archive_category: ai-tools-products
 source_category: ai/rag
 source_url: https://github.com/truefoundry/cognita?source=post_page-----dba899ae0355---------------------------------------
-resource_id: github:truefoundry/cognita
+resource_id: github:truefoundry/cognita-195222ac
 local_vault_path: ai/rag/truefoundry-cognita.md
 quality_score: 70
 archive_score: 87

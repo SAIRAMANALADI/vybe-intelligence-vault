@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-07-18T01:07:38.043627+05:30'
+collected_at: '2026-07-18T16:50:27.195410+05:30'
 published_at: '2026-07-13T02:17:29Z'
 tags:
-- dataset
+- benchmark
 - github-repo
-- hackernews
 - python
 - rag
 stars: 524
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-07-18T01:07:38.043627+05:30'
-last_seen: '2026-07-18T01:07:38.043627+05:30'
-last_checked: '2026-07-18T01:07:38.043627+05:30'
+first_seen: '2026-07-18T16:50:27.195410+05:30'
+last_seen: '2026-07-18T16:50:27.195410+05:30'
+last_checked: '2026-07-18T16:50:27.195410+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph RAG Framework**: Proposes a linear-time graph-based retrieval method for RAG, optimizing scalability on large-scale corpora by reducing retrieval complexity from quadratic to linear via graph traversal techniques.
+- Introduces **LinearRAG**, a novel Graph Retrieval-Augmented Generation (GraphRAG) framework optimizing large-scale corpus retrieval via linear graph traversal, reducing computational overhead compared to traditional hierarchical GraphRAG methods.
 
-- **Efficient Retrieval Mechanism**: Introduces a linear graph traversal algorithm that dynamically constructs retrieval paths, improving contextual relevance while maintaining computational efficiency for LLMs.
+- Proposes a **linear-time graph traversal algorithm** leveraging adjacency matrix operations for efficient subgraph extraction, enabling scalable retrieval on corpora with millions of nodes/edges while maintaining retrieval quality.
 
-- **ICLR 2026 Contribution**: Demonstrates state-of-the-art performance in retrieval-augmented generation tasks, validated on large-scale datasets with significant gains in both speed and accuracy compared to traditional RAG methods.
+- Demonstrates **state-of-the-art performance** on ICLR 2026 benchmarks, achieving higher accuracy and lower latency than existing GraphRAG baselines in tasks involving complex multi-hop reasoning over large document collections.
 
 ## Why It Matters
 

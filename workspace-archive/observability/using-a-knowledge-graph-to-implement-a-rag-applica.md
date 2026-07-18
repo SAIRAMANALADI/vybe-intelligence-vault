@@ -3,7 +3,7 @@ title: Using a knowledge graph to implement a RAG application
 archive_category: observability
 source_category: ai/rag
 source_url: https://neo4j.com/blog/developer/rag-tutorial
-resource_id: blog:using-a-knowledge-graph-to-implement-a-rag-applica
+resource_id: blog:using-a-knowledge-graph-to-implement-a-rag-applica-4c6946d2
 local_vault_path: ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md
 quality_score: 70
 archive_score: 72

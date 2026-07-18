@@ -3,7 +3,7 @@ title: Project Jupyter Documentation — Jupyter Documentation 4.1.1 alpha docum
 archive_category: automation-workflows
 source_category: ai/resources
 source_url: https://docs.jupyter.org
-resource_id: blog:project-jupyter-documentation-jupyter-documentatio
+resource_id: blog:project-jupyter-documentation-jupyter-documentatio-71ff7324
 local_vault_path: ai/resources/project-jupyter-documentation-jupyter-documentatio.md
 quality_score: 70
 archive_score: 72

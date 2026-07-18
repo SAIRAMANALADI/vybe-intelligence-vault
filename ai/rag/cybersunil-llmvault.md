@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/CyberSunil/LLMVault
-collected_at: '2026-07-18T01:07:23.023448+05:30'
-published_at: '2026-07-17T18:47:32Z'
+collected_at: '2026-07-18T16:50:12.138964+05:30'
+published_at: '2026-07-18T11:14:12Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
 - rag
-stars: 143
+stars: 170
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2026-07-15T08:18:22Z'
-pushed_at: '2026-07-17T04:01:51Z'
+pushed_at: '2026-07-18T10:04:38Z'
 resource_id: github:cybersunil/llmvault
-first_seen: '2026-07-18T01:07:23.023448+05:30'
-last_seen: '2026-07-18T01:07:23.023448+05:30'
-last_checked: '2026-07-18T01:07:23.023448+05:30'
+first_seen: '2026-07-18T16:50:12.138964+05:30'
+last_seen: '2026-07-18T16:50:12.138964+05:30'
+last_checked: '2026-07-18T16:50:12.138964+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose-built vulnerable platform**: Intentionally insecure OWASP LLM Top 10 training environment for testing AI security, prompt injection, RAG security, agent security, and GenAI penetration testing.
-
-- **Technical stack**: Python-based, containerized with Docker, supporting CTF-style exercises and red-team assessments.
-
-- **Scope & topics**: Covers LLM security testing, AI security tools, prompt injection attacks, RAG vulnerabilities, and OWASP LLM Top 10 scenarios.
+- **Purpose**: Intentionally vulnerable training platform simulating OWASP LLM Top 10 risks (e.g., prompt injection, RAG/agent security) for AI security, penetration testing, and GenAI CTF exercises.
+- **Technical Stack**: Python-based, containerized via Docker, designed for red-team assessments of LLM security flaws in AI systems.
+- **Scope**: Covers LLM security testing, AI security tools, and OWASP-aligned vulnerabilities with hands-on labs for prompt injection, RAG attacks, and agent exploits.
 
 ## Why It Matters
 
@@ -43,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: CyberSunil
-- Stars: 143
-- Forks: 37
+- Stars: 170
+- Forks: 39
 - Language: Python
 - Topics: agent-security, ai-security, ai-security-tool, artificial-intelligence, ctf, docker, genai, large-language-models, llm, llm-security, llm-security-testing, owasp, owasp-llm-top-10, penetration-testing, prompt-injection, prompt-injection-llm-security, python, rag, red-team, vulnerable-lab
-- Last Updated: 2026-07-17T18:47:32Z
+- Last Updated: 2026-07-18T11:14:12Z
 - License: MIT
 - Archived: No
 - Created At: 2026-07-15T08:18:22Z
-- Pushed At: 2026-07-17T04:01:51Z
+- Pushed At: 2026-07-18T10:04:38Z
 
 ## Possible Use Cases
 

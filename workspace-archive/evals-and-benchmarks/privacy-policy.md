@@ -3,7 +3,7 @@ title: Privacy Policy
 archive_category: evals-and-benchmarks
 source_category: ai/rag
 source_url: https://www.datacamp.com/privacy-policy
-resource_id: blog:privacy-policy
+resource_id: blog:privacy-policy-615b2395
 local_vault_path: ai/rag/privacy-policy.md
 quality_score: 70
 archive_score: 72

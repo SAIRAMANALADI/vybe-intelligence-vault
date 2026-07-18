@@ -4,11 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/odsc2015/agentic-hackathon-template
-collected_at: '2026-07-18T01:09:38.111787+05:30'
+collected_at: '2026-07-18T16:52:27.251617+05:30'
 published_at: '2026-05-10T13:08:24Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - unknown
 stars: 19
 language: Unknown
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-07-24T08:33:29Z'
 pushed_at: '2025-07-25T16:42:10Z'
 resource_id: github:odsc2015/agentic-hackathon-template
-first_seen: '2026-07-18T01:09:38.111787+05:30'
-last_seen: '2026-07-18T01:09:38.111787+05:30'
-last_checked: '2026-07-18T01:09:38.111787+05:30'
+first_seen: '2026-07-18T16:52:27.251617+05:30'
+last_seen: '2026-07-18T16:52:27.251617+05:30'
+last_checked: '2026-07-18T16:52:27.251617+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- Provides a standardized starter repository for the Agentic AI App Hackathon with pre-defined folder structure and environment specifications
-- Includes reproducible environment setup and documentation templates to streamline team submissions and judging processes
-- Last updated in 2026 with 19 stars and 192 forks, though primary language remains unspecified
+- **Standardized Structure**: Provides a pre-defined folder architecture for Agentic AI App Hackathon submissions, ensuring consistency and reproducibility.
+
+- **Reproducible Environment**: Includes environment specifications (e.g., `requirements.txt`, `Dockerfile`) to guarantee identical setup across teams and judging environments.
+
+- **Documentation Placeholders**: Offers template files (e.g., `README.md`, `SOLUTION.md`) to guide teams in documenting methodology, results, and technical details for judging.
 
 ## Why It Matters
 

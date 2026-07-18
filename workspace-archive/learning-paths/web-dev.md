@@ -3,7 +3,7 @@ title: web.dev
 archive_category: learning-paths
 source_category: ai/resources
 source_url: https://web.dev/
-resource_id: blog:web-dev
+resource_id: blog:web-dev-e09021ae
 local_vault_path: ai/resources/web-dev.md
 quality_score: 70
 archive_score: 72

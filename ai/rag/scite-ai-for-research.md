@@ -3,9 +3,9 @@ title: AI for Research | Scite
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://scite.ai/
-published_at: '2026-07-14T13:06:25.725801+05:30'
-collected_at: '2026-07-14T13:06:25.725815+05:30'
+source_url: https://www.scite.ai/
+published_at: '2026-07-18T16:55:07.637544+05:30'
+collected_at: '2026-07-18T16:55:07.637550+05:30'
 tags:
 - anthropic
 - dataset
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:ai-for-research-scite
-first_seen: '2026-07-14T13:06:25.725815+05:30'
-last_seen: '2026-07-14T13:06:25.725815+05:30'
-last_checked: '2026-07-14T13:06:25.725815+05:30'
+first_seen: '2026-07-18T16:55:07.637550+05:30'
+last_seen: '2026-07-18T16:55:07.637550+05:30'
+last_checked: '2026-07-18T16:55:07.637550+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Database & Coverage**: Scite indexes **1.6B+ citations** across **280M+ full-text scholarly articles**, patents, clinical trials, grants, preprints, and datasets, with direct publisher agreements (e.g., Wiley, SAGE, 40+ others) enabling full-text search beyond abstracts.
+- **Database & Coverage**: Scite indexes 280M+ full-text scholarly articles (papers, preprints, books, patents, datasets) with direct publisher agreements (Wiley, SAGE, 40+ others), enabling full-text search beyond abstracts and paywall circumvention.
 
-- **Smart Citations & AI Verification**: Uses **Smart Citations** to classify whether later research supports, contradicts, or discusses a claim, while its AI Assistant grounds answers in verifiable evidence with **one-click citation links** to specific paper sentences.
+- **Smart Citation Analysis**: Provides *Smart Citations* that classify later citations as supporting, contrasting, or mentioning, enabling researchers to assess evidence strength and claim validity in real-time.
 
-- **Integration & Workflow**: Supports **MCP-compatible tools (Claude, ChatGPT)**, Zotero, browser extensions, and a developer API, enabling seamless adoption without workflow disruption.
+- **AI-Powered Verification**: Scite’s AI Assistant generates answers grounded in verifiable evidence, with each claim hyperlinked to specific sentences in source papers, ensuring traceability and eliminating hallucinations.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-14T13:06:25.725801+05:30
+- Published: 2026-07-18T16:55:07.637544+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://scite.ai/
+Original source: https://www.scite.ai/

@@ -3,7 +3,7 @@ title: 'About Google: Our products, technology and company information - About G
 archive_category: model-providers
 source_category: ai/rag
 source_url: https://about.google
-resource_id: blog:about-google-our-products-technology-and-company-i
+resource_id: blog:about-google-our-products-technology-and-company-i-caef99ff
 local_vault_path: ai/rag/about-google-our-products-technology-and-company-i.md
 quality_score: 70
 archive_score: 72

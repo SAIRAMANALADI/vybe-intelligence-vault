@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **AI-Powered Development**: Android Studio integrates **Gemini**, an AI assistant for code generation, debugging, and Android-specific queries, enhancing productivity via natural language interactions.
-- **Cross-Device Testing**: **Android Device Streaming** enables real-device testing directly from Android Studio, ensuring compatibility across diverse screen sizes, OEMs, and Android versions.
-- **Modular Build & Optimization**: Powered by Gradle, the flexible build system supports multi-varia
+- **AI-Powered Development**: Android Studio Quail 2 integrates **Gemini**, an AI assistant for code generation, debugging, and Android-specific queries, enhancing developer productivity.
+
+- **Multi-Device Testing**: **Android Device Streaming** enables real-device testing directly from Android Studio, supporting diverse screen sizes, OEMs, and Android versions for cross-platform validation.
+
+- **Modular Build System**: Powered by **Gradle**, Android Studio supports customizable build variants,
 
 ## Use Cases
 

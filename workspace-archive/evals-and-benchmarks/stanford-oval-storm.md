@@ -3,22 +3,22 @@ title: stanford-oval/storm
 archive_category: evals-and-benchmarks
 source_category: ai/rag
 source_url: https://github.com/stanford-oval/storm?source=post_page-----dba899ae0355---------------------------------------
-resource_id: github:stanford-oval/storm
+resource_id: github:stanford-oval/storm-273da0d4
 local_vault_path: ai/rag/stanford-oval-storm.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
-- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # stanford-oval/storm
@@ -26,19 +26,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **LLM-Powered Knowledge Curation**: STORM autonomously researches topics by leveraging large language models (LLMs) to generate comprehensive reports with inline citations, enabling deep, agentic retrieval-augmented generation (RAG).
+- **LLM-Powered Knowledge Curation**: STORM autonomously researches topics by decomposing queries, retrieving relevant sources, and synthesizing a structured, full-length report with inline citations using large language models (LLMs).
 
-- **Multi-Source Integration**: Implements a retrieval-augmented pipeline to synthesize information from diverse sources, optimizing for factual accuracy and contextual relevance in report generation.
+- **Agentic RAG Framework**: Implements an agentic retrieval-augmented generation (RAG) pipeline with iterative query refinement, multi-source verification, and adaptive summarization to enhance depth and accuracy of generated reports.
 
-- **Research & Benchmarking Focus**: Designed for advanced kn
+- **EMNLP 2024 Publication
 
 ## Use Cases
 

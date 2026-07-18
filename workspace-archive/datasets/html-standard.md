@@ -3,7 +3,7 @@ title: HTML Standard
 archive_category: datasets
 source_category: ai/rag
 source_url: https://html.spec.whatwg.org/multipage/dom.html#the-directionality
-resource_id: blog:html-standard
+resource_id: blog:html-standard-9bf91ac6
 local_vault_path: ai/rag/html-standard.md
 quality_score: 70
 archive_score: 72

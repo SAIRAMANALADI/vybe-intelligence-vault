@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:apple-targets-dozens-of-openai-employees-with-lega
 first_seen: '2026-07-18T01:05:01.260416+05:30'
 last_seen: '2026-07-18T01:05:01.260416+05:30'
 last_checked: '2026-07-18T01:05:01.260416+05:30'
 health_score: 100
 ---
+
 
 # Apple targets dozens of OpenAI employees with legal letters
 

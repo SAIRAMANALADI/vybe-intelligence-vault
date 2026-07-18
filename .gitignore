@@ -15,7 +15,8 @@ credentials/
 *.sqlite
 *.db
 .DS_Store
-node_modules
-node_modules
+node_modules/
+world/dist/
+world/build/
 vault-core/vault-index.json
 vault-core/embeddings/

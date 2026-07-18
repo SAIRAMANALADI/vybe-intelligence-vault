@@ -4,11 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/agentsleague
-collected_at: '2026-07-18T01:07:48.118881+05:30'
+collected_at: '2026-07-18T16:50:37.211439+05:30'
 published_at: '2026-06-30T16:54:25Z'
 tags:
 - agents
+- benchmark
 - github-repo
+- hackernews
+- scripts
 - unknown
 stars: 285
 language: Unknown
@@ -18,9 +21,9 @@ archived: false
 created_at: '2025-12-15T11:55:32Z'
 pushed_at: '2026-04-06T09:34:39Z'
 resource_id: github:microsoft/agentsleague
-first_seen: '2026-07-18T01:07:48.118881+05:30'
-last_seen: '2026-07-18T01:07:48.118881+05:30'
-last_checked: '2026-07-18T01:07:48.118881+05:30'
+first_seen: '2026-07-18T16:50:37.211439+05:30'
+last_seen: '2026-07-18T16:50:37.211439+05:30'
+last_checked: '2026-07-18T16:50:37.211439+05:30'
 health_score: 100
 ---
 
@@ -28,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **E-sports-inspired AI challenge**: Hosts live AI Battles with competitive agentic AI, blending developer engagement with gaming-style tournaments.
-- **Asynchronous community participation**: Facilitates GitHub-based submissions and async challenges, enabling scalable, distributed developer contributions.
-- **Microsoft-backed initiative**: Repository last updated in 2026, indicating an active, evolving project under Microsoft’s developer ecosystem.
+- **E-sports-inspired AI Battles**: Hosts live, competitive agentic AI challenges with real-time interactions and asynchronous community participation.
+- **GitHub-based Submissions**: Participants submit AI agents via GitHub, enabling version control, collaboration, and automated evaluation.
+- **Technical Framework**: Supports dynamic agent development with structured challenges, scoring systems, and integration with GitHub Actions for CI/CD pipelines.
 
 ## Why It Matters
 

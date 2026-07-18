@@ -3,7 +3,7 @@ title: RAG System with LangChain and LangGraph - GeeksforGeeks
 archive_category: project-ideas
 source_category: ai/rag
 source_url: https://www.geeksforgeeks.org/artificial-intelligence/rag-system-with-langchain-and-langgraph
-resource_id: blog:rag-system-with-langchain-and-langgraph-geeksforge
+resource_id: blog:rag-system-with-langchain-and-langgraph-geeksforge-98c7f24f
 local_vault_path: ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md
 quality_score: 70
 archive_score: 72

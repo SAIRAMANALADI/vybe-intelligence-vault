@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-07-18T01:07:23.015738+05:30'
+collected_at: '2026-07-18T16:50:12.134921+05:30'
 published_at: '2026-07-17T06:42:04Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-17T06:41:55Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-07-18T01:07:23.015738+05:30'
-last_seen: '2026-07-18T01:07:23.015738+05:30'
-last_checked: '2026-07-18T01:07:23.015738+05:30'
+first_seen: '2026-07-18T16:50:12.134921+05:30'
+last_seen: '2026-07-18T16:50:12.134921+05:30'
+last_checked: '2026-07-18T16:50:12.134921+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using eBPF for low-overhead runtime monitoring and enforcement within Linux environments.
+- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using eBPF for runtime monitoring and enforcement within a Linux-native architecture.
 
-- **Enterprise-Grade RAG Pipeline**: Combines FastAPI backend with TypeScript components to deliver a scalable Retrieval-Augmented Generation (RAG) system optimized for SaaS AI deployments and vector database integration.
+- **Enterprise-Grade RAG Pipeline**: Deploys a FastAPI-based backend with TypeScript, integrating LLM, vector databases, and GenAI for scalable Retrieval-Augmented Generation (RAG) in SaaS environments.
 
-- **Security-First Architecture**: Enforces governance policies via eBPF-powered hooks, ensuring real-time threat detection and compliance for multi-agent AI workloads in production environments.
+- **Security & Governance Focus**: Enforces fine-grained access control, audit logging, and real-time policy enforcement for AI workloads, leveraging vector DBs for contextual security policies.
 
 ## Why It Matters
 

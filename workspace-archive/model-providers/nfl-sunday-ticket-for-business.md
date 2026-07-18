@@ -3,7 +3,7 @@ title: NFL Sunday Ticket for Business
 archive_category: model-providers
 source_category: ai/rag
 source_url: https://everpass.com/live-sports/nfl-sunday-ticket
-resource_id: blog:nfl-sunday-ticket-for-business
+resource_id: blog:nfl-sunday-ticket-for-business-3bab8cb8
 local_vault_path: ai/rag/nfl-sunday-ticket-for-business.md
 quality_score: 70
 archive_score: 72

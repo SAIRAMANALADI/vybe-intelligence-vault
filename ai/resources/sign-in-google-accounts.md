@@ -3,16 +3,16 @@ title: Sign in - Google Accounts
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://wallet.google.com/wallet?p=globalgpayhome&utm_source=gpay-hc&utm_medium=website&utm_campaign=gpay-hc-redirect
-published_at: '2026-07-17T14:11:02.997755+05:30'
-collected_at: '2026-07-17T14:11:02.997766+05:30'
+source_url: https://security.google.com/settings/security/permissions
+published_at: '2026-07-18T17:00:05.342077+05:30'
+collected_at: '2026-07-18T17:00:05.342083+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:sign-in-google-accounts
-first_seen: '2026-07-17T14:11:02.997766+05:30'
-last_seen: '2026-07-17T14:11:02.997766+05:30'
-last_checked: '2026-07-17T14:11:02.997766+05:30'
+first_seen: '2026-07-18T17:00:05.342083+05:30'
+last_seen: '2026-07-18T17:00:05.342083+05:30'
+last_checked: '2026-07-18T17:00:05.342083+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Authentication Flow**: Google Wallet employs a **WebLiteSignIn** OAuth 2.0 flow for user authentication, with optional **Guest Mode** (private browsing) to enhance security.
+- **Authentication Flow**: Utilizes Google's WebLiteSignIn for streamlined login, redirecting to `myaccount.google.com/permissions` post-authentication with security parameters (`dsh`, `ifkv`, `osid`).
 
-- **Recovery Mechanism**: The "Forgot email?" feature triggers a **username recovery** process via `usernamerecovery` endpoint, redirecting to `wallet.google.com` post-verification.
+- **Recovery & Privacy**: Offers email recovery via `security.google.com/signin/usernamerecovery` and supports Guest mode for private browsing to enhance security (`p=signin_privatebrowsing`).
 
-- **Account Creation**: New users are directed to a **GlifWebSignIn** signup flow (`/lifecycle/flows/signup`), with post-creation redirection to the Google Wallet dashboard (`globalgpayhome`).
+- **Account Management**: Provides account creation via `security.google.com/lifecycle/flows/signup` with a follow-up redirect to the same permissions endpoint, ensuring seamless onboarding.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-17T14:11:02.997755+05:30
+- Published: 2026-07-18T17:00:05.342077+05:30
 
 ## Related Tags
 
@@ -42,4 +42,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://wallet.google.com/wallet?p=globalgpayhome&utm_source=gpay-hc&utm_medium=website&utm_campaign=gpay-hc-redirect
+Original source: https://security.google.com/settings/security/permissions

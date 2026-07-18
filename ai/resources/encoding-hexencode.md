@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/functions/encoding/hexencode/
-published_at: '2026-07-09T01:35:12.145229+05:30'
-collected_at: '2026-07-09T01:35:12.145241+05:30'
+published_at: '2026-07-18T16:54:52.122134+05:30'
+collected_at: '2026-07-18T16:54:52.122142+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:encoding-hexencode
-first_seen: '2026-07-09T01:35:12.145241+05:30'
-last_seen: '2026-07-09T01:35:12.145241+05:30'
-last_checked: '2026-07-09T01:35:12.145241+05:30'
+first_seen: '2026-07-18T16:54:52.122142+05:30'
+last_seen: '2026-07-18T16:54:52.122142+05:30'
+last_checked: '2026-07-18T16:54:52.122142+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- Converts input string to hexadecimal representation via `encoding.HexEncode INPUT` syntax.
-- Returns a lowercase hex string (e.g., `"Hello world"` → `48656c6c6f20776f726c64`).
-- Part of Hugo’s `encoding` namespace under `/functions/encoding/`.
+- `encoding.HexEncode` converts input string to hexadecimal representation (e.g., `"Hello world"` → `"48656c6c6f20776f726c64"`).
+- Input is processed as raw bytes before hex encoding, ensuring consistent output for identical byte sequences.
+- Returns a lowercase hex string; no additional formatting or delimiters are applied.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-09T01:35:12.145229+05:30
+- Published: 2026-07-18T16:54:52.122134+05:30
 
 ## Related Tags
 

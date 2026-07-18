@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-07-18T01:07:02.994272+05:30'
+collected_at: '2026-07-18T16:49:52.134762+05:30'
 published_at: '2026-07-15T09:29:13Z'
 tags:
 - dataset
 - github-repo
 - hackernews
+- paper
 - rag
 - unknown
 stars: 339
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-07-18T01:07:02.994272+05:30'
-last_seen: '2026-07-18T01:07:02.994272+05:30'
-last_checked: '2026-07-18T01:07:02.994272+05:30'
+first_seen: '2026-07-18T16:49:52.134762+05:30'
+last_seen: '2026-07-18T16:49:52.134762+05:30'
+last_checked: '2026-07-18T16:49:52.134762+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Repository aggregates advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)**, including multimodal RAG, vision-language models, and cross-modal retrieval methods.
-
-- **Resource Scope**: Encompasses cutting-edge research, frameworks, datasets, and tools for integrating RAG with CV tasks such as image captioning, visual question answering (VQA), and object detection.
-
-- **Community Engagement**: Maintained with periodic updates (last commit: July 2026), featuring contributions from researchers and practitioners to track progress in **vision-language RAG** and related subfields.
+- **Curated list**: Repository aggregates advanced RAG techniques specifically tailored for computer vision applications, including multimodal retrieval-augmented generation methods.
+- **Resource scope**: Encompasses cutting-edge frameworks, datasets, and research papers focused on integrating RAG with vision tasks (e.g., image captioning, visual question answering, or object detection).
+- **Maintenance**: Last updated in July 2026, indicating active curation with potential inclusion of recent advancements in vision-language models and retrieval mechanisms.
 
 ## Why It Matters
 

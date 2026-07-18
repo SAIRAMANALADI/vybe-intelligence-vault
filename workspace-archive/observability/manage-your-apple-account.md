@@ -3,7 +3,7 @@ title: Manage your Apple Account
 archive_category: observability
 source_category: ai/resources
 source_url: https://account.apple.com
-resource_id: blog:manage-your-apple-account
+resource_id: blog:manage-your-apple-account-874a815a
 local_vault_path: ai/resources/manage-your-apple-account.md
 quality_score: 70
 archive_score: 72

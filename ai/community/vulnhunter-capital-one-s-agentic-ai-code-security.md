@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:vulnhunter-capital-one-s-agentic-ai-code-security
 first_seen: '2026-07-18T01:05:02.112276+05:30'
 last_seen: '2026-07-18T01:05:02.112276+05:30'
 last_checked: '2026-07-18T01:05:02.112276+05:30'
 health_score: 100
 ---
+
 
 # VulnHunter: Capital One's agentic AI code security tool
 

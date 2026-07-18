@@ -3,7 +3,7 @@ title: stanford-oval/storm
 archive_category: automation-workflows
 source_category: ai/rag
 source_url: https://github.com/stanford-oval/storm?source=-----dba899ae0355---------------------------------------
-resource_id: github:stanford-oval/storm
+resource_id: github:stanford-oval/storm-1e64752e
 local_vault_path: ai/rag/stanford-oval-storm-2.md
 quality_score: 70
 archive_score: 77

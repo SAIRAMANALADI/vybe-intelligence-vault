@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Binary Distribution**: Google provides proprietary hardware support files (vendor images) for Nexus and Pixel devices (Android 10–15), including SHA-256 checksums for verification, restricted to personal use under license terms.
-
-- **Device Coverage**: Files available for Pixel 9a ("tegu"), Pixel 9 Pro Fold ("comet"), and Pixel 9 Pro ("caiman"), with multiple Android build versions (e.g., BD4A, AD1A, AP3A, AP4A, BP1A) and incremental updates (e.g., A1, B1, C1).
-
-- **Vendor Components**: Bina
+- **Vendor binaries for Nexus/Pixel devices**: Google provides proprietary hardware support files (vendor images) for AOSP users, covering Nexus/Pixel models across Android 10–15, with SHA-256 checksums for verification.
+- **Licensing restrictions**: Files are for personal use only; redistribution or unauthorized use violates Google’s license terms.
+- **Hardware component diversity**: Binaries include components from vendors like Qualcomm, Broadcom, LG, ASUS, NVIDIA, Imagination Technologies, an
 
 ## Use Cases
 

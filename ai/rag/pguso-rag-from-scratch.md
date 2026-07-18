@@ -4,17 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-07-18T01:06:12.949678+05:30'
+collected_at: '2026-07-18T16:49:02.102204+05:30'
 published_at: '2026-07-13T06:44:26Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - javascript
 - meta-ai
 - models
 - rag
-- workflows
 stars: 1478
 language: JavaScript
 status: active
@@ -23,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-07-18T01:06:12.949678+05:30'
-last_seen: '2026-07-18T01:06:12.949678+05:30'
-last_checked: '2026-07-18T01:06:12.949678+05:30'
+first_seen: '2026-07-18T16:49:02.102204+05:30'
+last_seen: '2026-07-18T16:49:02.102204+05:30'
+last_checked: '2026-07-18T16:49:02.102204+05:30'
 health_score: 100
 ---
 
@@ -33,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Provides a hands-on, from-scratch implementation of Retrieval-Augmented Generation (RAG) using local LLMs (via `node-llama-cpp`), emphasizing transparency by avoiding black-box components.
+- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) from scratch using local LLMs (via `node-llama-cpp`) to eliminate black-box dependencies, focusing on embeddings, vector search, retrieval, and context-augmented generation.
 
-- **Core Technical Components**: Covers end-to-end pipeline including embeddings generation, vector search (likely using cosine similarity or similar), retrieval augmentation, and context-augmented generation with Node.js.
+- **JavaScript-Based Pipeline**: Implements a full RAG pipeline in JavaScript/Node.js, covering embedding generation, vector database operations, retrieval mechanisms, and LLM integration for context-aware responses.
 
-- **Practical Tutorial Focus**: Designed as a step-by-step guide for building RAG chatbots/pipelines, with topics spanning AI agents, RAG workflows, and deployment in JavaScript/Node.js environments.
+- **Open-Source Tutorial**: Provides a hands-on, step-by-step guide for building RAG systems, emphasizing transparency and educational value for developers (1478 stars, 175 forks). Last updated July 2026.
 
 ## Why It Matters
 

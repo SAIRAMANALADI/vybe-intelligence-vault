@@ -4,16 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-18T01:06:32.962530+05:30'
+collected_at: '2026-07-18T16:49:22.124430+05:30'
 published_at: '2026-07-14T09:11:11Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - jupyter notebook
-- models
 - rag
-- workflows
 stars: 1222
 language: Jupyter Notebook
 status: active
@@ -22,9 +18,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-18T01:06:32.962530+05:30'
-last_seen: '2026-07-18T01:06:32.962530+05:30'
-last_checked: '2026-07-18T01:06:32.962530+05:30'
+first_seen: '2026-07-18T16:49:22.124430+05:30'
+last_seen: '2026-07-18T16:49:22.124430+05:30'
+last_checked: '2026-07-18T16:49:22.124430+05:30'
 health_score: 100
 ---
 
@@ -32,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for real-time visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling debugging and performance evaluation.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for dynamic visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling real-time debugging and performance assessment.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based exploration of RAG components (retriever, LLM, prompts) with dynamic visual feedback for query-response workflows.
+- **Streamlit-Powered UI**: Integrates Streamlit for an interactive web interface, allowing users to explore RAG components (retriever, generator, embeddings) with dynamic controls and real-time updates.
 
-- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting custom datasets, embeddings, and LLM integrations; last updated July 2026 with active community contributions (1.2k+ stars, 114 forks).
+- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting custom RAG configurations, embeddings (e.g., FAISS, Chroma), and LLM integrations (e.g., LangChain, HuggingFace).
 
 ## Why It Matters
 

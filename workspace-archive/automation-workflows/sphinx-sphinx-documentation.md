@@ -3,7 +3,7 @@ title: Sphinx — Sphinx documentation
 archive_category: automation-workflows
 source_category: ai/resources
 source_url: https://www.sphinx-doc.org
-resource_id: blog:sphinx-sphinx-documentation
+resource_id: blog:sphinx-sphinx-documentation-71455991
 local_vault_path: ai/resources/sphinx-sphinx-documentation.md
 quality_score: 70
 archive_score: 72

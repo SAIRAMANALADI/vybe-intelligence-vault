@@ -3,7 +3,7 @@ title: FastAPI - FastAPI
 archive_category: observability
 source_category: ai/rag
 source_url: https://fastapi.tiangolo.com
-resource_id: blog:fastapi-fastapi
+resource_id: blog:fastapi-fastapi-9e515bc3
 local_vault_path: ai/rag/fastapi-fastapi.md
 quality_score: 70
 archive_score: 82

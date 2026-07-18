@@ -4,7 +4,7 @@ title: 'RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmente
 archive_category: inference-local-llm
 source_category: ai/rag
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide
-resource_id: blog:rag-application-tutorial-2025-build-production-rea
+resource_id: blog:rag-application-tutorial-2025-build-production-rea-565af8b4
 local_vault_path: ai/rag/rag-application-tutorial-2025-build-production-rea.md
 quality_score: 70
 archive_score: 82

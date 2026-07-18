@@ -4,14 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/LangChain-OpenTutorial/LangChain-OpenTutorial
-collected_at: '2026-07-18T01:09:58.139183+05:30'
-published_at: '2026-07-09T05:43:52Z'
+collected_at: '2026-07-18T16:52:47.292456+05:30'
+published_at: '2026-07-18T04:42:47Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - jupyter notebook
-stars: 1087
+- workflows
+stars: 1088
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-12-14T14:33:57Z'
 pushed_at: '2025-09-18T07:01:44Z'
 resource_id: github:langchain-opentutorial/langchain-opentutorial
-first_seen: '2026-07-18T01:09:58.139183+05:30'
-last_seen: '2026-07-18T01:09:58.139183+05:30'
-last_checked: '2026-07-18T01:09:58.139183+05:30'
+first_seen: '2026-07-18T16:52:47.292456+05:30'
+last_seen: '2026-07-18T16:52:47.292456+05:30'
+last_checked: '2026-07-18T16:52:47.292456+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A Jupyter Notebook-based tutorial repository for LangChain and LangGraph, designed to educate users on building AI agents with these frameworks.
-- **Technical Scope**: Covers core concepts, implementation strategies, and practical examples for deploying LangChain/LangGraph-based agent systems.
-- **Community Engagement**: Maintained with recent updates (as of July 2026), reflecting active development and contributions from 342 forks and 1,087 stars.
+- **Repository Overview**: A Jupyter Notebook-based tutorial repository for LangChain and LangGraph, designed for educational purposes with 1,088 stars and 342 forks.
+- **Technical Focus**: Covers agent-based workflows, LangChain framework integration, and LangGraph graph-based execution.
+- **Update Status**: Last updated on July 18, 2026, ensuring recent examples and best practices.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: LangChain-OpenTutorial
-- Stars: 1087
+- Stars: 1088
 - Forks: 342
 - Language: Jupyter Notebook
 - Topics: agent, langchain, langgraph
-- Last Updated: 2026-07-09T05:43:52Z
+- Last Updated: 2026-07-18T04:42:47Z
 - License: MIT
 - Archived: No
 - Created At: 2024-12-14T14:33:57Z
