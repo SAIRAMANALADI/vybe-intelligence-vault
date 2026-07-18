@@ -238,6 +238,30 @@ The stats shown here are generated from the current vault content. They refresh 
 
 ---
 
+## 📚 Learning Paths & Builder Maps
+
+The vault includes curated paths and essential guides to help you build faster:
+
+### 8 Learning Paths
+* [7-Day Agent Builder](learning-paths/7-day-agent-builder.md)
+* [7-Day AI Engineering](learning-paths/7-day-ai-engineering.md)
+* [7-Day AI Frontend](learning-paths/7-day-ai-frontend.md)
+* [7-Day AI SaaS Builder](learning-paths/7-day-ai-saas-builder.md)
+* [7-Day Automation Builder](learning-paths/7-day-automation-builder.md)
+* [7-Day LLMOps](learning-paths/7-day-llmops.md)
+* [7-Day MCP Builder](learning-paths/7-day-mcp-builder.md)
+* [7-Day RAG Builder](learning-paths/7-day-rag-builder.md)
+
+### 6 Best-Of Guides
+* [Essential 3D WebDev](workspace-archive/best-of/essential-3d-webdev.md)
+* [Essential Agent Building](workspace-archive/best-of/essential-agent-building.md)
+* [Essential AI Engineering](workspace-archive/best-of/essential-ai-engineering.md)
+* [Essential Automation](workspace-archive/best-of/essential-automation.md)
+* [Essential Frontend AI UI](workspace-archive/best-of/essential-frontend-ai-ui.md)
+* [Essential RAG Stack](workspace-archive/best-of/essential-rag-stack.md)
+
+---
+
 ## 📁 Repository Layout
 
 ```
