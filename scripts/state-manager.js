@@ -87,14 +87,49 @@ function readIndex() {
   }
 }
 
-// Write index atomically
+// Write index atomically (Streaming to avoid V8 string length limit)
 function writeIndex(index) {
-  const data = JSON.stringify(index, null, 2);
-  fs.writeFileSync(INDEX_PATH, data, 'utf-8');
+  const tempPath = INDEX_PATH + '.tmp';
+  const fd = fs.openSync(tempPath, 'w');
+  
+  fs.writeSync(fd, '{\n');
+  fs.writeSync(fd, `  "version": ${JSON.stringify(index.version || "2.0")},\n`);
+  fs.writeSync(fd, `  "last_updated": ${JSON.stringify(index.last_updated || new Date().toISOString())},\n`);
+  
+  if (index.system_health) {
+    fs.writeSync(fd, `  "system_health": ${JSON.stringify(index.system_health)},\n`);
+  } else {
+    fs.writeSync(fd, `  "system_health": {},\n`);
+  }
+  
+  // Write nodes array
+  fs.writeSync(fd, `  "nodes": [\n`);
+  const nodes = index.nodes || [];
+  for (let i = 0; i < nodes.length; i++) {
+    fs.writeSync(fd, '    ' + JSON.stringify(nodes[i]));
+    if (i < nodes.length - 1) fs.writeSync(fd, ',\n');
+    else fs.writeSync(fd, '\n');
+  }
+  fs.writeSync(fd, `  ],\n`);
+  
+  // Write edges array
+  fs.writeSync(fd, `  "edges": [\n`);
+  const edges = index.edges || [];
+  for (let i = 0; i < edges.length; i++) {
+    fs.writeSync(fd, '    ' + JSON.stringify(edges[i]));
+    if (i < edges.length - 1) fs.writeSync(fd, ',\n');
+    else fs.writeSync(fd, '\n');
+  }
+  fs.writeSync(fd, `  ]\n`);
+  fs.writeSync(fd, '}\n');
+  fs.closeSync(fd);
+  
+  // Atomically replace old index
+  fs.renameSync(tempPath, INDEX_PATH);
   
   // Keep copy in root directory
   const rootIndex = path.join(ROOT_DIR, 'vault-index.json');
-  fs.writeFileSync(rootIndex, data, 'utf-8');
+  fs.copyFileSync(INDEX_PATH, rootIndex);
   
   cachedIndex = index;
   lastReadTime = Date.now();
