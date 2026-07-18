@@ -11,7 +11,7 @@ export function useVaultIndex() {
   useEffect(() => {
     const fetchIndex = () => {
       const indexUrl = IS_PROD 
-        ? `${VAULT_REPO_URL}/vault-core/vault-index.json` 
+        ? `${VAULT_REPO_URL}/world/public/vault-index.json` 
         : '/vault-index.json';
 
       fetch(indexUrl)
@@ -25,8 +25,11 @@ export function useVaultIndex() {
         })
         .catch((err) => {
           console.error('Error fetching vault index, attempting fallback:', err);
-          fetch(`${VAULT_REPO_URL}/vault-core/vault-index.json`)
-            .then(res => res.json())
+          fetch('vault-index.json')
+            .then(res => {
+              if (!res.ok) throw new Error('Failed to load local index');
+              return res.json();
+            })
             .then(data => {
               setIndexData(data);
               setLoading(false);
