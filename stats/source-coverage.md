@@ -6,7 +6,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | :--- | ---: |
 | arxiv | 7936 |
 | huggingface | 910 |
-| github | 832 |
+| github | 833 |
 | nextjs.org | 68 |
 | support.google.com | 31 |
 | youtube | 26 |
@@ -48,6 +48,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | developer.mozilla.org | 6 |
 | ico.org.uk | 6 |
 | en.wikipedia.org | 6 |
+| play.google.com | 6 |
 | creativecommons.org | 6 |
 | gitlab.com | 6 |
 | deepset.ai | 6 |
@@ -63,7 +64,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | pypi.org | 5 |
 | ai.google.dev | 5 |
 | marketplace.visualstudio.com | 5 |
-| play.google.com | 5 |
 | docs.pinecone.io | 5 |
 | w3c.github.io | 5 |
 | copyright.gov | 5 |
@@ -123,6 +123,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | support.microsoft.com | 3 |
 | blog.google | 3 |
 | android-developers.googleblog.com | 3 |
+| policy.medium.com | 3 |
 | research.google | 3 |
 | forbes.com | 3 |
 | medium.zendesk.com | 3 |
@@ -464,6 +465,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | gerrit.googlesource.com | 1 |
 | docs.kernel.org | 1 |
 | support.langchain.com | 1 |
+| blog.medium.com | 1 |
 | cfo.com | 1 |
 | harvardbusiness.org | 1 |
 | hbphelp.zendesk.com | 1 |
@@ -1763,4 +1765,3 @@ Distribution of original signal ingestion sources across processed URLs:
 | startdesigns.com | 1 |
 | signitysolutions.com | 1 |
 | status.medium.com | 1 |
-| policy.medium.com | 1 |

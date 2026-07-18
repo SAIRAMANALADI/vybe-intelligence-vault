@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T13:39:54.097639+05:30",
+  "generated_at": "2026-07-18T14:54:40.263591+05:30",
   "trending_resources": [
     {
       "id": "blog:medium-members-can-listen-to-any-medium-story-with",
@@ -265,6 +265,71 @@
     }
   ],
   "new_discoveries": [
+    {
+      "id": "blog:medium-apps-on-google-play",
+      "title": "Medium - Apps on Google Play",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar",
+      "file_path": "ai/rag/medium-apps-on-google-play.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:pinecone-io/canopy",
+      "title": "pinecone-io/canopy",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/pinecone-io/canopy",
+      "file_path": "ai/rag/pinecone-io-canopy.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:medium-terms-of-service-by-medium-medium-policy",
+      "title": "Medium Terms of Service | by Medium | Medium Policy",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f",
+      "file_path": "ai/rag/medium-terms-of-service-by-medium-medium-policy.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:the-medium-blog",
+      "title": "The Medium Blog",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://blog.medium.com",
+      "file_path": "ai/rag/the-medium-blog.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:medium-rules-by-medium-medium-policy",
+      "title": "Medium Rules | by Medium | Medium Policy",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://policy.medium.com/medium-rules-30e5502c4eb4",
+      "file_path": "ai/rag/medium-rules-by-medium-medium-policy.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
     {
       "id": "blog:engineeringbringing-more-control-over-your-connect",
       "title": "EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI",

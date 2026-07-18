@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-18T13:39:54.097639+05:30`
+Generated at: `2026-07-18T14:54:40.263591+05:30`
 
 ## Executive Summary
 
@@ -8,6 +8,11 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
+- **Medium - Apps on Google Play** - Score: `0` in category `ai/rag` ([Link](https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar)) ([File](../ai/rag/medium-apps-on-google-play.md))
+- **pinecone-io/canopy** - Score: `0` in category `ai/rag` ([Link](https://github.com/pinecone-io/canopy)) ([File](../ai/rag/pinecone-io-canopy.md))
+- **Medium Terms of Service | by Medium | Medium Policy** - Score: `0` in category `ai/rag` ([Link](https://policy.medium.com/medium-terms-of-service-9db0094a1e0f)) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
+- **The Medium Blog** - Score: `0` in category `ai/rag` ([Link](https://blog.medium.com)) ([File](../ai/rag/the-medium-blog.md))
+- **Medium Rules | by Medium | Medium Policy** - Score: `0` in category `ai/rag` ([Link](https://policy.medium.com/medium-rules-30e5502c4eb4)) ([File](../ai/rag/medium-rules-by-medium-medium-policy.md))
 - **EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI** - Score: `0` in category `ai/companies/mistral` ([Link](https://mistral.ai/news/more-control-over-connectors)) ([File](../ai/companies/mistral/bringing-more-control-over-your-connectors.md))
 - **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 - **ProductIntroducing Search ToolkitProduction search pipelines, anywhere.May 28, 2026By Mistral** - Score: `0` in category `ai/companies/mistral` ([Link](https://mistral.ai/news/search-toolkit)) ([File](../ai/companies/mistral/introducing-search-toolkit.md))

@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-80%2C057-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-80%2C089-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--18-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **80,057 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **80,089 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,8 +187,8 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 12,734</p>
-        <p><b>Active:</b> 12,441 | <b>Inactive:</b> 293</p>
+        <p><b>Resources tracked:</b> 12,739</p>
+        <p><b>Active:</b> 12,446 | <b>Inactive:</b> 293</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
@@ -197,8 +197,8 @@ score_threshold: 0.65
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 80,057 files</p>
-        <p><b>Last Update:</b> 2026-07-18 13:39 IST</p>
+        <p><b>Total Vault Size:</b> 80,089 files</p>
+        <p><b>Last Update:</b> 2026-07-18 14:54 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -219,10 +219,11 @@ score_threshold: 0.65
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI](ai/companies/mistral/bringing-more-control-over-your-connectors.md)** • Score: `0`
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
-- 🆕 **[ProductIntroducing Search ToolkitProduction search pipelines, anywhere.May 28, 2026By Mistral](ai/companies/mistral/introducing-search-toolkit.md)** • Score: `0`
-- 🆕 **[CompanyAI Now Summit 2026Innovations for global enterprises solving the world’s hardest problems. May 28, 2026By Mistral](ai/companies/mistral/ai-now-summit-2026.md)** • Score: `0`
+- 🆕 **[Medium - Apps on Google Play](ai/rag/medium-apps-on-google-play.md)** • Score: `0`
+- 🆕 **[pinecone-io/canopy](ai/rag/pinecone-io-canopy.md)** • Score: `0`
+- 🆕 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Score: `0`
+- 🆕 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Score: `0`
+- 🆕 **[Medium Rules | by Medium | Medium Policy](ai/rag/medium-rules-by-medium-medium-policy.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.

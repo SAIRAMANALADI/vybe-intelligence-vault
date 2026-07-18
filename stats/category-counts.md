@@ -13,7 +13,7 @@ Below is the file distribution across the vault categories.
 | `ai/companies/mistral/` | 10 |
 | `ai/companies/openai/` | 4 |
 | `ai/models/` | 803 |
-| `ai/rag/` | 3900 |
+| `ai/rag/` | 3905 |
 | `ai/releases/` | 3 |
 | `ai/research/` | 4295 |
 | `ai/resources/` | 1320 |
