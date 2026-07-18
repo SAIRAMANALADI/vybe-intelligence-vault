@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhadyz/AI_SOC
-collected_at: '2026-07-14T12:59:58.901730+05:30'
+collected_at: '2026-07-15T01:16:37.133039+05:30'
 published_at: '2026-07-13T12:01:15Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-10-14T00:21:08Z'
 pushed_at: '2026-05-24T05:31:39Z'
 resource_id: github:zhadyz/ai_soc
-first_seen: '2026-07-14T12:59:58.901730+05:30'
-last_seen: '2026-07-14T12:59:58.901730+05:30'
-last_checked: '2026-07-14T12:59:58.901730+05:30'
+first_seen: '2026-07-15T01:16:37.133039+05:30'
+last_seen: '2026-07-15T01:16:37.133039+05:30'
+last_checked: '2026-07-15T01:16:37.133039+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements an AI-augmented SOC using LLMs (Foundation-Sec-8B) and multi-agent orchestration for automated threat detection/response.
-- **Integration**: Combines Wazuh (SIEM), TheHive (SOAR), and RAG for contextual threat intelligence and incident management.
-- **Implementation**: Python-based framework for real-time security operations, last updated July 2026.
+- **Multi-Agent Orchestration**: Implements a Security Operations Center (SOC) using Large Language Models (LLMs) and multi-agent systems for automated threat detection and response, integrating tools like Wazuh and TheHive.
+
+- **Foundation-Sec-8B Model**: Utilizes the open-source Foundation-Sec-8B model as the core AI engine for security analytics, leveraging Retrieval-Augmented Generation (RAG) for enhanced threat intelligence processing.
+
+- **Python-Based Framework**: Built in Python, the repository provides a modular, extensible architecture for AI-driven SOC operations, with active development (last updated July 2026) and community contributions (137 stars, 34 forks).
 
 ## Why It Matters
 

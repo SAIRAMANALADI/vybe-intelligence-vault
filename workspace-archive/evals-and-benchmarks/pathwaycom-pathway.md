@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Capabilities**: Python-based ETL framework supporting stream processing, real-time analytics, LLM pipelines, and RAG (Retrieval-Augmented Generation) with Rust optimizations for performance-critical operations.
+- **Unified ETL & Stream Processing**: Python framework combining batch and real-time data processing with Rust-accelerated execution for high-throughput pipelines, supporting Kafka, IoT analytics, and time-series operations.
 
-- **Data Processing Modes**: Enables both batch and stream processing with Kafka integration, time-series analysis, and IoT analytics, leveraging a dataflow model for dynamic, stateful computations.
+- **LLM & RAG Integration**: Native support for real-time LLM pipelines and Retrieval-Augmented Generation (RAG) workflows, enabling dynamic data-to-model synchronization for AI-driven applications.
 
-- **Scalability & Ecosystem**: Designed for horizontal scalability with na
+- **Stateful Dataflow Engine**: Implements a distributed, fault-tolerant
 
 ## Use Cases
 

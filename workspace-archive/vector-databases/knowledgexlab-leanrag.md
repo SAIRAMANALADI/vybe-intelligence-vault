@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Semantic Aggregation**: Implements a knowledge-graph-based method for aggregating semantic relationships to enhance retrieval precision in RAG systems.
-- **Hierarchical Retrieval**: Introduces a multi-layered retrieval mechanism to dynamically select relevant subgraphs or nodes based on query complexity.
-- **Optimized Generation**: Leverages graph-augmented context to improve factual consistency and reduce hallucinations in generated outputs.
+- **Semantic Aggregation**: Implements a knowledge-graph-based retrieval mechanism that aggregates semantic information hierarchically to enhance context relevance in generation tasks.
+- **Hierarchical Retrieval**: Utilizes multi-level retrieval strategies (e.g., graph traversal and node ranking) to dynamically extract and prioritize knowledge for downstream generation.
+- **Efficiency Optimization**: Designed for AAAI 2026 with a Python-based implementation, emphasizing lightweight architecture
 
 ## Use Cases
 

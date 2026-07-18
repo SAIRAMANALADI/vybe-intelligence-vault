@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-07-14T12:59:18.919367+05:30'
-published_at: '2026-07-08T12:21:46Z'
+collected_at: '2026-07-18T01:06:43.033144+05:30'
+published_at: '2026-07-16T10:59:46Z'
 tags:
 - github-repo
 - python
 - rag
 - workflows
-stars: 156
+stars: 158
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-07-14T12:59:18.919367+05:30'
-last_seen: '2026-07-14T12:59:18.919367+05:30'
-last_checked: '2026-07-14T12:59:18.919367+05:30'
+first_seen: '2026-07-18T01:06:43.033144+05:30'
+last_seen: '2026-07-18T01:06:43.033144+05:30'
+last_checked: '2026-07-18T01:06:43.033144+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Search Implementation**: Demonstrates combining vector similarity search with traditional keyword-based retrieval in LangChain for enhanced document retrieval performance.
-
-- **RAG Pipeline Integration**: Implements a Retrieval-Augmented Generation (RAG) workflow using a vector store (e.g., FAISS or Chroma) for context-aware LLM responses.
-
-- **Streamlit UI for RAG**: Provides a Streamlit-based frontend to interact with the RAG system, enabling users to input queries and visualize retrieved documents and generated responses.
+- **Tech Stack**: Python-based Streamlit app integrating LangChain for RAG pipelines, leveraging vector stores (e.g., FAISS/Chroma) and hybrid search (combining dense + sparse retrieval).
+- **Core Functionality**: Demonstrates end-to-end RAG workflow: document ingestion → embedding → vector storage → retrieval → LLM augmentation → interactive UI.
+- **Hybrid Search Implementation**: Combines semantic (vector) and keyword (BM25/sparse) retrieval for improved accuracy, with Streamlit UI for query input/output and result visualization.
 
 ## Why It Matters
 
@@ -42,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: streamlit
-- Stars: 156
+- Stars: 158
 - Forks: 80
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-08T12:21:46Z
+- Last Updated: 2026-07-16T10:59:46Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-03-01T22:26:37Z

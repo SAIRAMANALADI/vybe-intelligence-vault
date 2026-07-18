@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://knative.dev/docs/
-published_at: '2026-07-09T01:39:24.203385+05:30'
-collected_at: '2026-07-09T01:39:24.203399+05:30'
+published_at: '2026-07-14T19:59:27.869633+05:30'
+collected_at: '2026-07-14T19:59:27.869647+05:30'
 tags:
 - benchmark
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:overview-knative
-first_seen: '2026-07-09T01:39:24.203399+05:30'
-last_seen: '2026-07-09T01:39:24.203399+05:30'
-last_checked: '2026-07-09T01:39:24.203399+05:30'
+first_seen: '2026-07-14T19:59:27.869647+05:30'
+last_seen: '2026-07-14T19:59:27.869647+05:30'
+last_checked: '2026-07-14T19:59:27.869647+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Components**: Knative consists of three Kubernetes-native components—**Serving** (HTTP-triggered autoscaling container runtime), **Eventing** (CloudEvents-based asynchronous event routing), and **Functions** (developer-focused function framework)—each deployable independently or together.
+- **Knative Architecture**: Comprises three core components—**Serving** (HTTP-triggered autoscaling container runtime), **Eventing** (CloudEvents-based asynchronous event routing), and **Functions** (developer-focused function framework)—all built on Kubernetes CRDs for lifecycle management.
 
-- **Serving Architecture**: Uses CRDs (`Service`, `Route`, `Configuration`, `Revision`) to manage stateless workloads, enabling automatic scaling (including scale-to-zero), traffic splitting (blue-green/canary), and GPU acceleration for ML inference via Kubernetes pod resource requests.
+- **Serving Scaling & Traffic Management**: Implements **scale-to-zero** autoscaling via an **Activator** component, routes traffic through **Queue-Proxy** sidecars for concurrency control, and supports **blue-green/canary deployments** via `Services`, `Routes`, `Configurations`, and immutable `Revisions`.
 
-- **Eventing Model**: Implements a loosely coupled event mesh with **Sources** (producers), **Brokers** (event routers), **Triggers** (filtering rules), and **Sinks** (consumers), all adhering to the CloudEvents spec for standardized event delivery over HTTP.
+- **Eventing & GPU Acceleration**: **Eventing** decouples producers/consumers using **Brokers**, **Triggers**, and **Sinks** with CloudEvents compliance; **Serving** supports GPU resource allocation (e.g., LLM inference) via Kubernetes pod specs, enabling hardware-accelerated, scalable serverless workloads.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-09T01:39:24.203385+05:30
+- Published: 2026-07-14T19:59:27.869633+05:30
 
 ## Related Tags
 

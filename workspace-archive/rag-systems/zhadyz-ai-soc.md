@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: Implements an AI-augmented SOC using LLMs (Foundation-Sec-8B) and multi-agent orchestration for automated threat detection/response.
-- **Integration**: Combines Wazuh (SIEM), TheHive (SOAR), and RAG for contextual threat intelligence and incident management.
-- **Implementation**: Python-based framework for real-time security operations, last updated July 2026.
+- **Multi-Agent Orchestration**: Implements a Security Operations Center (SOC) using Large Language Models (LLMs) and multi-agent systems for automated threat detection and response, integrating tools like Wazuh and TheHive.
+
+- **Foundation-Sec-8B Model**: Utilizes the open-source Foundation-Sec-8B model as the core AI engine for security analytics, leveraging Retrieval-Augmented Generation (RAG) for enhanced threat intelligence processing.
+
+- **Python-Based Framework**: Built in Python, the rep
 
 ## Use Cases
 

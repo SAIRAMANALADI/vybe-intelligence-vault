@@ -2,7 +2,7 @@
 title: Learn more
 archive_category: model-providers
 source_category: ai/companies/deepmind
-source_url: https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi
+source_url: https://deepmind.google/blog/our-approach-to-bioresilience
 resource_id: blog:learn-more
 local_vault_path: ai/companies/deepmind/learn-more.md
 quality_score: 70
@@ -41,7 +41,7 @@ Recent update from Google DeepMind Blog Blog: Learn more
 
 ## Source
 
-Original source URL: https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi
+Original source URL: https://deepmind.google/blog/our-approach-to-bioresilience
 
 ## Local Vault File
 

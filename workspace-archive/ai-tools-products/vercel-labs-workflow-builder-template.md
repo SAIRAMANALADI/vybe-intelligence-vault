@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **TypeScript-based visual AI workflow automation platform** enabling drag-and-drop construction of multi-agent pipelines with real-time execution and debugging capabilities.
-- **Modular architecture** leveraging Vercel’s edge runtime for scalable, low-latency AI agent orchestration with built-in state management and error handling.
-- **Pre-configured templates** for common workflows (e.g., RAG, API aggregation) with extensible agent SDK for custom logic integration and GitHub Actions CI/CD pip
+- **TypeScript-based AI Workflow Automation**: Visual platform enabling AI-driven workflow orchestration with TypeScript for extensibility and performance.
+
+- **Agentic Architecture**: Supports modular AI agents with configurable interactions, enabling dynamic task automation and multi-step processes.
+
+- **Vercel Integration**: Optimized for Vercel deployments, leveraging serverless functions and edge runtime for scalable, low-latency workflow execution.
 
 ## Use Cases
 

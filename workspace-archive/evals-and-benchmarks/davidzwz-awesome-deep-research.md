@@ -16,7 +16,6 @@ tags:
 - hackernews
 - rag
 - unknown
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Aggregates cutting-edge resources on agentic deep research, focusing on autonomous multi-agent systems, reasoning agents, and advanced RAG (Retrieval-Augmented Generation) architectures for complex knowledge synthesis.
-- **ACL 2026 KnowFM Alignment**: Aligns with ACL 2026’s *Knowledge Foundation Models (KnowFM)* initiative, emphasizing structured knowledge extraction, multi-step reasoning, and scalable deep research frameworks.
-- **Technical Breadth**: Encompasses LLM-d
+- **Curated Collection**: Aggregates cutting-edge resources on agentic deep research, focusing on ACL 2026 KnowFM contributions, including large language models (LLMs), reasoning agents, and search agents.
+- **Technical Scope**: Encompasses agentic RAG (Retrieval-Augmented Generation), deep research methodologies, and reasoning frameworks tailored for advanced AI systems.
+- **Dynamic Repository**: Last updated July 2026, with 806 stars and 64 forks, reflecting active community engagement in deep
 
 ## Use Cases
 

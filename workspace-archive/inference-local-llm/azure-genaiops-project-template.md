@@ -14,6 +14,7 @@ tags:
 - bicep
 - github-repo
 - rag
+- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -33,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for Generative AI Operations (GenAIOps) with Retrieval-Augmented Generation (RAG) capabilities, enabling automated Azure resource provisioning.
-- **Modular Design**: Structured for extensibility, allowing customization of AI pipelines, data ingestion, and model serving components within Azure’s ecosystem.
-- **Pre-configured RAG Workflow**: Includes templates for vector databases, embedding models, and orchestration lo
+- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for Generative AI Ops with RAG (Retrieval-Augmented Generation) capabilities, enabling automated provisioning of Azure resources.
+
+- **Modular Design**: Structured as a reusable project template with configurable components for AI pipelines, data ingestion, and model serving, facilitating scalable GenAI deployments.
+
+- **CI/CD Integration**: Includes GitHub Actions workflows for automated testing, validation, and depl
 
 ## Use Cases
 

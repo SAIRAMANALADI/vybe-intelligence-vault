@@ -12,6 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - benchmark
+- dataset
 - github-repo
 - jupyter notebook
 - rag
@@ -31,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-*   Establishes a comprehensive benchmarking framework specifically for Retrieval-Augmented Generation (RAG) models.
-*   Developed by facebookresearch, signifying a major institutional effort in RAG evaluation methodology.
-*   Implemented using Jupyter Notebooks, indicating an interactive and script-based approach to benchmark execution and analysis.
+- **CRAG**: A comprehensive benchmark framework for Retrieval-Augmented Generation (RAG) systems, designed to evaluate performance across diverse tasks and datasets.
+- **Implementation**: Provided as Jupyter Notebooks, enabling modular experimentation and reproducibility with structured evaluation protocols.
+- **Scope**: Covers multi-dimensional assessment (e.g., factuality, robustness, efficiency) to standardize RAG system comparisons in research and deployment.
 
 ## Use Cases
 

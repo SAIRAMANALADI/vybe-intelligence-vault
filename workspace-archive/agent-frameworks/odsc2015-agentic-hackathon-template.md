@@ -12,7 +12,6 @@ resource_kind: template
 importance: medium
 tags:
 - agents
-- benchmark
 - github-repo
 - unknown
 selection_reason:
@@ -31,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Pre-structured repository** for Agentic AI App Hackathon, enforcing standardized folder layout and submission templates to ensure consistency across teams.
-
-- **Reproducible environment** via included `environment.yml` (Conda) or `requirements.txt` (pip) for dependency management, enabling seamless setup and execution.
-
-- **Documentation scaffolding** with placeholder files (`README.md`, `docs/`) to guide teams in structuring project descriptions, methodology, and evaluation metrics for judg
+- Provides a standardized starter repository for the Agentic AI App Hackathon with pre-defined folder structure and environment specifications
+- Includes reproducible environment setup and documentation templates to streamline team submissions and judging processes
+- Last updated in 2026 with 19 stars and 192 forks, though primary language remains unspecified
 
 ## Use Cases
 

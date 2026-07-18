@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Model Selection & Optimization**: Choose task-specific, lightweight models (e.g., <5MB for general use, <10MB for mobile) and leverage shrinking techniques (quantization, pruning) to balance accuracy and size; specialized models (e.g., language detection at 315KB) outperform generic LLMs (e.g., Gemma 2B at 1.3GB).
+- **Model Size Optimization**: Client-side AI models vary widely in size (e.g., 9.4KB for BudouX, 1.3GB for Gemma 2B). Prioritize task-specific models (e.g., language detection at 315KB) and use techniques like quantization or pruning to reduce size while maintaining accuracy. Avoid large LLMs (>10MB) unless absolutely necessary due to performance and bandwidth constraints.
 
-- **Performance Mitigation Strategies**: Offload model preparation/inference to Web Workers, use WebGPU where supported (with Wasm fallback), and chunk downloads (e.g., `fetch-in-
+- **Hardware Compatibility & Progressive Loading**: Not all devices support client-side AI (e.g., WebGPU/WASM fallbacks).
 
 ## Use Cases
 

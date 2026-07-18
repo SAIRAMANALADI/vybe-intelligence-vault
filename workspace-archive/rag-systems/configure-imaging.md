@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Image Processing Defaults**: Default settings include `anchor: smart`, `bgColor: #ffffff`, `resampleFilter: box`, with format-specific configs for AVIF (`lossy` compression, `quality: 60`, `encoderSpeed: 10`), JPEG (`quality: 75`), and WebP (`lossy` compression, `quality: 75`, `method: 2`).
+- **Image Processing Defaults**: Hugo's `imaging` config supports AVIF (lossy/lossless, `encoderSpeed: 1-10`, `hint: photo/picture/etc.`), JPEG (`quality: 1-100`), and WebP (`compression: lossy/lossless`, `method: 0-6`, `useSharpYuv: bool`) with format-specific settings replacing deprecated global `compression`, `hint`, and `quality` options.
 
-- **Exif Metadata Control**: Configurable via `meta.fields` (glob-based filtering) and `meta.sources` (supports `exif`, `iptc`, `xmp`), with default exclusion of technical fields (e.g., `GPS`, `Exif`, `S
+- **Resampling & Metadata Control**: Top-level settings include `anchor: smart|TopLeft|...`, `resampleFilter: box|lanczos|...`, `bgColor: hex`, and `exif`
 
 ## Use Cases
 

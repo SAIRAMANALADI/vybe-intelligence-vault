@@ -1,45 +1,45 @@
 ---
-title: Gemma 3 · Hugging Face
+title: Generation · Hugging Face
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://huggingface.co/docs/transformers/main/en/model_doc/gemma3
+source_url: https://huggingface.co/docs/transformers/main_classes/text_generation#transformers.GenerationConfig.use_cache
 resource_id: huggingface:docs/transformers
 local_vault_path: ai/rag/huggingface-docs-transformers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - agents
 - dataset
 - leaderboard
 - meta-ai
-- mistral
 - models
+- openai
 - paper
 - rag
-- web-crawled
-- youtube
+- reddit
+- scripts
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
-# Gemma 3 · Hugging Face
+# Generation · Hugging Face
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: dataset
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Hugging Face Transformers** is a comprehensive library supporting **multimodal models** (text, vision, audio, video) with **500+ pre-trained architectures** (e.g., CLIP, BLIP-2, LLaVA, Qwen2-VL) and **modular APIs** for inference, training, and optimization.
+- **Generation Control**: The `GenerationConfig` class in Hugging Face Transformers provides fine-grained control over text generation via parameters like `max_new_tokens`, `min_length`, `do_sample`, `num_beams`, `temperature`, `top_k`, `top_p`, `repetition_penalty`, and `length_penalty`, enabling deterministic, stochastic, or hybrid decoding strategies.
 
-- **Key features** include **parameter-efficient fine-tuning (PEFT)**, **quantization**, **distributed training**, and **hardware acceleration** (e.g., AWS Trainium, Google TPUs, NVIDIA GPUs) with integrations for **Diffusers, PEFT, and
+- **Cache Optimization**: Supports multiple KV-cache implementations (`DynamicCache`, `StaticCache`, `QuantizedCache`) via `cache_implementati
 
 ## Use Cases
 
@@ -49,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://huggingface.co/docs/transformers/main/en/model_doc/gemma3
+Original source URL: https://huggingface.co/docs/transformers/main_classes/text_generation#transformers.GenerationConfig.use_cache
 
 ## Local Vault File
 

@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/methods/page/render/#article
-published_at: '2026-07-08T14:23:06.312679+05:30'
-collected_at: '2026-07-08T14:23:06.312694+05:30'
+published_at: '2026-07-18T01:12:19.315005+05:30'
+collected_at: '2026-07-18T01:12:19.315015+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:render
-first_seen: '2026-07-08T14:23:06.312694+05:30'
-last_seen: '2026-07-08T14:23:06.312694+05:30'
-last_checked: '2026-07-08T14:23:06.312694+05:30'
+first_seen: '2026-07-18T01:12:19.315015+05:30'
+last_seen: '2026-07-18T01:12:19.315015+05:30'
+last_checked: '2026-07-18T01:12:19.315015+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **`Render` Method**: Renders a view template with the current `Page` object as context, returning `template.HTML`. Introduced in v0.164.0, it supports slash-separated directory paths for template lookup.
-
-- **Template Resolution**: Resolves view templates via Hugo's [template lookup order](https://gohugo.io/templates/lookup-order/), allowing type-specific overrides (e.g., `layouts/books/summary.html` for "books" pages).
-
-- **Key Differences from `partial`**: Automatically passes `Page` context; no additional parameters allowed. Template resolution is dynamic, unlike `partial`, which requires explicit context and path (`layouts/_partials/`).
+- **Method Signature**: `PAGE.Render VIEW` returns `template.HTML`, where `VIEW` is a slash-separated directory path (no extension) resolved via Hugo’s template lookup order.
+- **Template Resolution**: Resolves to `layouts/<type>/_views/summary.html` for type-specific pages (e.g., `books`) or falls back to `layouts/_views/summary.html` for others.
+- **Key Differences**: Unlike `partial`, `Render` auto-passes the `Page` object as context and does not require manual context specification.
 
 ## Why It Matters
 
@@ -35,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-08T14:23:06.312679+05:30
+- Published: 2026-07-18T01:12:19.315005+05:30
 
 ## Related Tags
 

@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Performance Benchmark Achievement**: Android on Chromium achieved a new record in Speedometer 2.1 benchmark, demonstrating a **25% improvement** in web app performance over previous iterations, surpassing iOS Safari.
-- **Optimized Rendering Pipeline**: Key optimizations in **V8 JavaScript engine** and **Blink rendering engine** reduced JavaScript execution time by **~30%** and improved page load times via **speculative parsing** and **prefetching**.
-- **Hardware Acceleration Integration**: L
+- **Performance Milestone**: Android achieved the highest Speedometer 2.1 score among mobile platforms, indicating superior web browsing performance in Chromium-based browsers.
+- **Optimized Rendering**: Key optimizations in JavaScript execution, DOM manipulation, and GPU acceleration contributed to the 20% improvement in web app responsiveness.
+- **Benchmark Validation**: Results were validated using Speedometer 2.1, a standardized web app benchmarking tool, confirming Android's lead in mobile
 
 ## Use Cases
 

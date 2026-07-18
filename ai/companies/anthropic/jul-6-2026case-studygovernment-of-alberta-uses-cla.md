@@ -5,8 +5,8 @@ category: ai/companies/anthropic
 source_type: company_blog
 source_name: Anthropic News
 source_url: https://anthropic.com/news/alberta-government-claude-cybersecurity
-published_at: '2026-07-14T12:56:40.148239+05:30'
-collected_at: '2026-07-14T12:56:40.148241+05:30'
+published_at: '2026-07-18T01:05:07.962028+05:30'
+collected_at: '2026-07-18T01:05:07.962030+05:30'
 tags:
 - anthropic
 - anthropic-news
@@ -14,8 +14,8 @@ tags:
 status: active
 resource_id: blog:jul-6-2026case-studygovernment-of-alberta-uses-cla
 first_seen: '2026-07-07T00:46:14.979161+05:30'
-last_seen: '2026-07-14T12:56:40.148241+05:30'
-last_checked: '2026-07-14T12:56:40.148241+05:30'
+last_seen: '2026-07-18T01:05:07.962030+05:30'
+last_checked: '2026-07-18T01:05:07.962030+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Anthropic News
 - Article URL: https://anthropic.com/news/alberta-government-claude-cybersecurity
-- Collected At: 2026-07-14T12:56:40.148241+05:30
+- Collected At: 2026-07-18T01:05:07.962030+05:30
 
 ## Related Tags
 

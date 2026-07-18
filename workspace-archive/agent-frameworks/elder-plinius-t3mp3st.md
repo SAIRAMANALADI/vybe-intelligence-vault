@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
 - typescript
 - workflows
@@ -35,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Offensive-Security Framework**: TypeScript-based autonomous red teaming platform enabling coordinated multi-agent offensive operations with AI-driven attack simulation and adaptive exploitation techniques.
+- **Multi-Agent Offensive Security Framework**: T3MP3ST is an autonomous red teaming platform written in TypeScript, designed as a meta-harness for offensive security operations, enabling coordinated multi-agent attack simulations.
 
-- **Meta-Harness Architecture**: Integrates modular agent systems for dynamic payload generation, privilege escalation, lateral movement, and evasion, leveraging AI to optimize attack chains in real-time.
+- **Autonomous Red Teaming**: The platform autonomously orchestrates offensive security tasks, leveraging AI-driven agents to perform continuous penetration testing, vulnerability assessment, and adversarial attack simulations without manual intervention.
 
-- **Autonomous Red Teaming**: Automates penetration testing workflows,
+- **Scalab
 
 ## Use Cases
 

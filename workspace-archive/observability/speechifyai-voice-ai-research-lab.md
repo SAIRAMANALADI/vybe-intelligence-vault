@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Simba 3.2 TTS Model**: Streaming-native architecture with sub-100ms latency, outperforming competitors on the Artificial Analysis TTS leaderboard while remaining cost-effective; features fine-grained emotional control via SSML prosody and a curated voice set with expanding language coverage.
+- **Simba 3.2 TTS Model**: Achieves sub-100ms latency while leading on the [Artificial Analysis TTS leaderboard](https://artificialanalysis.ai/text-to-speech/leaderboard/selected-voice?top-models=true) for US English, offering streaming-native architecture with fine-grained emotional control (via SSML prosody) and a curated voice set.
 
-- **Zero-Shot Voice Cloning & Emotion Control**: Clones speaker identity (timbre, cadence, micro-expressions) from as little as 10 seconds of reference audio; enables nuanced emotional synthesis (neutra
+- **Zero-Shot Voice Cloning & Emotion Control**: Enables cloning of speaker identity (timbre, cadence, micro-expressions) from ≥10s audio and synthesizes text wit
 
 ## Use Cases
 

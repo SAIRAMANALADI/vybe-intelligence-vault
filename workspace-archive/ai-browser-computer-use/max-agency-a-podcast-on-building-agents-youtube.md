@@ -8,15 +8,15 @@ local_vault_path: ai/agents/max-agency-a-podcast-on-building-agents-youtube.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
-- hackernews
+- scripts
 - web-crawled
 - youtube
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Max Agency: A Podcast on Building Agents - YouTube
@@ -25,15 +25,17 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, monetization (via YouTube Partners/Advertisers), and developer APIs (YouTube Data/Player APIs) for third-party integrations.
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, enabling users to upload, share, and view videos with monetization options for creators via ads and subscriptions.
 
-- **Content & Policy Framework**: Operates under strict [Terms of Service](https://www.youtube.com/t/terms), [Privacy Policy](https://www.youtube.com/t/privacy), and [Community Guidelines](https://www.youtube.com/about/policies/), enforcing copyri
+- **Developer & API Access**: Provides [YouTube Data API](https://developers.google.com/youtube) for programmatic access to video metadata, uploads, and analytics, supporting third-party integrations and automation.
+
+- **Policy & Compliance**: Enforces [Terms of Service](https://www.youtube.com/t/term
 
 ## Use Cases
 

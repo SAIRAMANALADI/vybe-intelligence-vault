@@ -4,23 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cisco-ai-defense/defenseclaw
-collected_at: '2026-07-09T21:09:29.316546+05:30'
-published_at: '2026-07-09T15:34:24Z'
+collected_at: '2026-07-18T01:09:08.132460+05:30'
+published_at: '2026-07-17T09:40:58Z'
 tags:
 - agents
 - github-repo
-- python
-stars: 766
-language: Python
+- go
+- hackernews
+stars: 773
+language: Go
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2026-03-23T00:51:19Z'
-pushed_at: '2026-07-09T15:32:14Z'
+pushed_at: '2026-07-17T19:32:51Z'
 resource_id: github:cisco-ai-defense/defenseclaw
-first_seen: '2026-07-09T21:09:29.316546+05:30'
-last_seen: '2026-07-09T21:09:29.316546+05:30'
-last_checked: '2026-07-09T21:09:29.316546+05:30'
+first_seen: '2026-07-18T01:09:08.132460+05:30'
+last_seen: '2026-07-18T01:09:08.132460+05:30'
+last_checked: '2026-07-18T01:09:08.132460+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Security Governance Framework**: DefenseClaw provides a Python-based framework for enforcing security policies in agentic AI systems, ensuring compliance with governance requirements through programmable controls.
+- **Purpose**: DefenseClaw is a security governance framework designed to secure agentic AI systems, providing mechanisms for policy enforcement, threat detection, and compliance monitoring in AI-driven environments.
 
-- **Agentic AI Protection**: Implements runtime monitoring and policy enforcement to mitigate risks such as unauthorized actions, data leaks, and adversarial exploits in AI agents.
+- **Technical Stack**: Implemented in Go, the repository focuses on high-performance, concurrent security controls tailored for agentic AI architectures, including policy engines and runtime integrity verification.
 
-- **Modular & Extensible**: Designed with a modular architecture to integrate with existing AI pipelines, supporting custom policy definitions and enforcement mechanisms via Python SDK.
+- **Key Features**: Enables real-time security governance via policy-as-code, integrates with AI agent frameworks, and supports audit logging for compliance and incident response in AI deployments.
 
 ## Why It Matters
 
@@ -41,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: cisco-ai-defense
-- Stars: 766
+- Stars: 773
 - Forks: 136
-- Language: Python
+- Language: Go
 - Topics: None
-- Last Updated: 2026-07-09T15:34:24Z
+- Last Updated: 2026-07-17T09:40:58Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-03-23T00:51:19Z
-- Pushed At: 2026-07-09T15:32:14Z
+- Pushed At: 2026-07-17T19:32:51Z
 
 ## Possible Use Cases
 

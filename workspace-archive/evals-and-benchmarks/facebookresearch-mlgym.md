@@ -14,7 +14,9 @@ tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - python
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-*   Python-based framework for developing and orchestrating AI research agents.
-*   Standardized benchmark suite for quantitative evaluation of AI research agent performance.
-*   Aims to accelerate AI research by enabling systematic agent development and comparative analysis.
+- **Framework & Benchmark**: MLGym introduces a modular Python framework for developing and evaluating AI research agents, emphasizing reproducibility and systematic experimentation in machine learning workflows.
+
+- **Key Features**: Supports distributed training, hyperparameter optimization, and automated benchmarking with configurable pipelines for agent-based AI research.
+
+- **Technical Stack**: Built in Python with extensible APIs, enabling integration with PyTorch/TensorFlow and scalable ex
 
 ## Use Cases
 

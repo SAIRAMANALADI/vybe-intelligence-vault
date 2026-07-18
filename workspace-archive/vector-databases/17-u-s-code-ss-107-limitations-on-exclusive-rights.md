@@ -3,7 +3,7 @@ title: '17 U.S. Code § 107 - Limitations on exclusive rights: Fair use | U.S. C
   | US Law | LII / Legal Information Institute'
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://www4.law.cornell.edu/uscode/17/107.html
+source_url: http://www4.law.cornell.edu/uscode/17/107.html
 resource_id: blog:17-u-s-code-ss-107-limitations-on-exclusive-rights
 local_vault_path: ai/rag/17-u-s-code-ss-107-limitations-on-exclusive-rights.md
 quality_score: 70
@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Fair use exemption**: Section 107 of the U.S. Copyright Act explicitly permits fair use of copyrighted works for purposes such as criticism, comment, news reporting, teaching, scholarship, or research, without infringing copyright, despite sections 106 and 106A.
+- **Fair Use Criteria**: U.S. Code § 107 establishes four non-exhaustive factors for fair use analysis: (1) purpose/character of use (commercial vs. nonprofit educational), (2) nature of copyrighted work, (3) amount/substantiality of portion used relative to whole work, and (4) effect on potential market/value of copyrighted work.
 
-- **Four-factor test**: Fair use determination relies on four statutory factors: (1) purpose/character of use (e.g., commercial vs. nonprofit educational), (2) nature of the copyrighted work, (3) amount/substantiality of portion use
+- **Unpublished Works**: Unpublished status does not preclude fair use if all four statutory factors are considered in case-specific evaluation.
+
+- **Educational Exem
 
 ## Use Cases
 
@@ -46,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www4.law.cornell.edu/uscode/17/107.html
+Original source URL: http://www4.law.cornell.edu/uscode/17/107.html
 
 ## Local Vault File
 

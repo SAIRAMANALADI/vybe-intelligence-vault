@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=org_card
-published_at: '2026-07-10T13:24:12.846993+05:30'
-collected_at: '2026-07-10T13:24:12.847002+05:30'
+published_at: '2026-07-17T14:07:18.710787+05:30'
+collected_at: '2026-07-17T14:07:18.710798+05:30'
 tags:
 - benchmark
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:ai-document-parsing-software-ai-ready-data-at-scal
-first_seen: '2026-07-10T13:24:12.847002+05:30'
-last_seen: '2026-07-10T13:24:12.847002+05:30'
-last_checked: '2026-07-10T13:24:12.847002+05:30'
+first_seen: '2026-07-17T14:07:18.710798+05:30'
+last_seen: '2026-07-17T14:07:18.710798+05:30'
+last_checked: '2026-07-17T14:07:18.710798+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-format parsing**: Supports 90+ document formats (PDFs, scanned docs, invoices, healthcare forms, etc.) with high accuracy, including complex layouts, tables, charts, handwriting, and checkboxes.
+- **Multimodal & Layout-Aware Parsing**: Processes 90+ formats (PDFs, tables, charts, handwriting, checkboxes, images) with layout-aware OCR, preserving complex structures (headers, footers, multi-column layouts) and extracting contextual data from non-textual elements.
 
-- **Advanced parsing capabilities**: Features layout-aware processing (headers/footers), multimodal parsing (text + visuals), granular control modes (cost/accuracy trade-offs), multilingual support (100+ languages), and enterprise-grade scalability (millions of pages, local/cloud deployment).
+- **Scalable Multilingual Engine**: Supports 100+ languages with enterprise-grade concurrency, enabling processing of millions of pages via cloud or local deployment, optimized for cost/accuracy trade-offs via granular parsing modes.
 
-- **Developer-focused & production-ready**: Provides SDKs (TypeScript/Python), live notebooks, API access, and workflow automation; trusted by enterprises for high-reliability parsing and structured data extraction.
+- **Developer-First Integration**: Provides TypeScript/Python SDKs with live notebooks, live API examples, and workflow automation (Parse → Index → Act → Decide), validated by enterprise users for reliability in production-grade AI pipelines.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-10T13:24:12.846993+05:30
+- Published: 2026-07-17T14:07:18.710787+05:30
 
 ## Related Tags
 

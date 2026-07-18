@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Project Type**: Empty template repository for initializing LangGraph projects in TypeScript, designed as a starter for LangGraph-based applications.
-- **Metadata**: 73 stars, 88 forks, last updated on 2026-07-03; tagged with `langgraph`, `langgraph-js`, and `langgraph-template`.
-- **Purpose**: Provides a minimal foundation for building LangGraph workflows in JavaScript/TypeScript environments.
+- **Template Structure**: Empty starter project for LangGraph.js, a JavaScript/TypeScript framework for building stateful, multi-actor workflows with LLMs.
+- **Metadata**: 73 stars, 88 forks, TypeScript-based, last updated July 15, 2026.
+- **Purpose**: Provides a minimal template for LangGraph projects, emphasizing modularity and scalability in workflow design.
 
 ## Use Cases
 

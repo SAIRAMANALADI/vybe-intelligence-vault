@@ -13,6 +13,7 @@ importance: medium
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices for large language models (LLMs), focusing on retrieval quality, prompt engineering, and generation efficiency.
-- **Python-Based Pipeline**: Provides a modular Python repository with components for document indexing, vector search, and LLM integration, optimized for production-grade RAG systems.
-- **Evaluation & Benchmarking**: Includes tools for assessing retrieval performance (e.g., precision/recal
+- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular Python components for indexing, retrieval, and generation pipelines.
+- **Technical Stack**: Leverages Python-based libraries (e.g., LangChain, FAISS, or HuggingFace) for efficient vector storage, semantic search, and LLM integration.
+- **Evaluation Metrics**: Includes benchmarking tools for assessing retrieval quality (e.g., MRR, Hit Rate) and generation performance (e.g., BLEU, ROUGE) t
 
 ## Use Cases
 

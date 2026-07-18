@@ -4,12 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bakrianoo/mini-rag
-collected_at: '2026-07-14T13:00:08.922001+05:30'
-published_at: '2026-07-12T14:47:27Z'
+collected_at: '2026-07-18T01:07:33.024266+05:30'
+published_at: '2026-07-17T15:45:41Z'
 tags:
 - github-repo
+- meta-ai
+- mistral
+- models
 - python
 - rag
+- workflows
 stars: 654
 language: Python
 status: active
@@ -18,9 +22,9 @@ archived: false
 created_at: '2024-02-27T13:39:48Z'
 pushed_at: '2025-08-15T05:41:12Z'
 resource_id: github:bakrianoo/mini-rag
-first_seen: '2026-07-14T13:00:08.922001+05:30'
-last_seen: '2026-07-14T13:00:08.922001+05:30'
-last_checked: '2026-07-14T13:00:08.922001+05:30'
+first_seen: '2026-07-18T01:07:33.024266+05:30'
+last_seen: '2026-07-18T01:07:33.024266+05:30'
+last_checked: '2026-07-18T01:07:33.024266+05:30'
 health_score: 100
 ---
 
@@ -28,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Provides a step-by-step guide to building a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker.
+- **Educational RAG Pipeline**: Step-by-step guide to building a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker, covering end-to-end implementation from data ingestion to API deployment.
 
-- **Modular Architecture**: Implements a structured, modular design with components for document ingestion, vector storage (e.g., FAISS/Chroma), retrieval, and LLM integration.
+- **Modular Architecture**: Implements a decoupled design with components for document processing (chunking, embedding), vector storage (FAISS/ChromaDB), retrieval, and LLM integration, optimized for scalability and maintainability.
 
-- **Deployment-Ready**: Includes Docker configuration for containerization, FastAPI endpoints for serving the RAG model, and GenAI integration for inference.
+- **GenAI Integration**: Demonstrates real-time RAG workflows with FastAPI endpoints for querying, leveraging open-source LLMs (e.g., Llama, Mistral) and embedding models (e.g., Sentence-Transformers) with CI/CD-ready Docker configurations.
 
 ## Why It Matters
 
@@ -42,10 +46,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: bakrianoo
 - Stars: 654
-- Forks: 285
+- Forks: 287
 - Language: Python
 - Topics: docker, education, fastapi, genai, python, rag
-- Last Updated: 2026-07-12T14:47:27Z
+- Last Updated: 2026-07-17T15:45:41Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-02-27T13:39:48Z

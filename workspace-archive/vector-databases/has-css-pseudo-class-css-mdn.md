@@ -8,9 +8,10 @@ local_vault_path: ai/rag/has-css-pseudo-class-css-mdn.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
+- benchmark
 - rag
 - web-crawled
 - youtube
@@ -24,17 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: benchmark
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Functionality**: The `:has()` CSS pseudo-class enables selection of an element if any relative selector passed as an argument matches at least one element when anchored against it, allowing parent/sibling traversal (e.g., `h1:has(+ p)` styles an `h1` followed by a `p`).
-
-- **Syntax Constraints**: Cannot be nested, does not support pseudo-elements, and fails entirely in unsupported browsers unless used in forgiving selector lists (e.g., `:is()` or `:where()`).
-
-- **Performance Considerations*
+- **Functionality**: The `:has()` CSS pseudo-class enables selection of an element if any of its relative selectors match at least one descendant, allowing parent/sibling selection (e.g., `h1:has(+ p)` styles `h1` if immediately followed by `p`).
+- **Syntax Constraints**: Cannot be nested, does not support pseudo-elements, and fails entirely in unsupported browsers unless in forgiving selector lists (e.g., `:is()` or `:where()`).
+- **Performance Impact**: Broad anchoring (e.g., `:root:has(.x)`)
 
 ## Use Cases
 

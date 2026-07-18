@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Git Integration & Authentication**: GitHub relies on Git for version control and supports SSH for secure remote access, requiring proper setup (`git config`) and key management (`ssh-keygen`).
+- **GitHub Core Functionality**: GitHub relies on Git for version control, supports SSH for secure remote connections, and enables repository creation/management for collaborative development workflows.
 
-- **Repository Workflow**: Core operations include creating/managing repositories (`gh repo create`), handling pull requests for collaborative code review (`gh pr`), and enforcing security via secrets scanning (`gh secret scan`).
+- **Collaboration & Automation**: Pull requests facilitate code review and merging, GitHub Actions enables CI/CD pipelines, and GitHub Copilot provides AI-driven code suggestions within IDEs.
 
-- **CI/CD & Security**: GitHub Actions enables automated pipelines (`wo
+- **Security & Extensibility**: GitHub offers security features like secret scanning, vulnerability det
 
 ## Use Cases
 

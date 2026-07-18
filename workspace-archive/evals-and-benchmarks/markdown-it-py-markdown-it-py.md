@@ -2,7 +2,7 @@
 title: markdown-it-py — markdown-it-py
 archive_category: evals-and-benchmarks
 source_category: ai/resources
-source_url: https://markdown-it-py.readthedocs.io
+source_url: https://markdown-it-py.readthedocs.io/
 resource_id: blog:markdown-it-py-markdown-it-py
 local_vault_path: ai/resources/markdown-it-py-markdown-it-py.md
 quality_score: 70
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- Python port of the JavaScript `markdown-it` parser, adhering closely to the original code structure with minimal syntactic changes.
-- Implements the **CommonMark spec** for baseline parsing, with configurable syntax, pluggable extensions, and high-speed performance benchmarks.
-- Supports security hardening, Google’s Assured Open Source Software compliance, and includes a modular architecture for token stream processing, rendering, and plugin integration.
+- Python port of the JavaScript `markdown-it` parser, maintaining structural parity with minimal syntactic adjustments for Python compatibility.
+- Implements **CommonMark spec** with configurable syntax rules, extensible via pluggable architecture for custom rules/renderers.
+- Optimized for **high performance**, security-hardened, and listed in Google’s Assured Open Source Software program.
 
 ## Use Cases
 
@@ -44,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://markdown-it-py.readthedocs.io
+Original source URL: https://markdown-it-py.readthedocs.io/
 
 ## Local Vault File
 

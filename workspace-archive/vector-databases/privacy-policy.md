@@ -2,22 +2,21 @@
 title: Privacy Policy
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://scite.ai/policy
+source_url: https://cohere.com/privacy
 resource_id: blog:privacy-policy
 local_vault_path: ai/rag/privacy-policy.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - hackernews
 - rag
 - web-crawled
-- youtube
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Privacy Policy
@@ -26,15 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Data Collection Scope**: Scite collects identifiers (name, email, payment details), professional info (employer, title), user-generated content (publications, comments), and device/IP data via cookies, third-party auth (ORCiD, Google), and analytics tools (Google Analytics).
+- **Data Collection & Processing Scope**: Cohere collects personal information across multiple contexts (e.g., Website visitors, trial users, researchers, enterprise users) via direct input, automated tracking (IP addresses, usage metrics), and third-party enrichment. Enterprise data handling is governed by separate agreements (e.g., DPAs), while trial/research environments de-identify inputs/outputs for model improvement.
 
-- **Purpose & Processing**: Data is used for service provision, user communication, analytics (excluding AI model training), marketing, security, and legal compliance; sensitive data (e.g., payment info) is restricted t
+- **Research & Model Training Policies**: Trial/research users’ inputs/o
 
 ## Use Cases
 
@@ -44,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://scite.ai/policy
+Original source URL: https://cohere.com/privacy
 
 ## Local Vault File
 

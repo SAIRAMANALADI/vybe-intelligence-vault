@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mayooear/ai-pdf-chatbot-langchain
-collected_at: '2026-07-14T13:02:29.050958+05:30'
-published_at: '2026-07-13T20:18:07Z'
+collected_at: '2026-07-18T01:09:58.123249+05:30'
+published_at: '2026-07-16T10:35:30Z'
 tags:
 - agents
 - frontend_ui
@@ -15,7 +15,7 @@ tags:
 - reddit
 - typescript
 - workflows
-stars: 16575
+stars: 16581
 language: TypeScript
 status: active
 license: MIT
@@ -23,9 +23,9 @@ archived: true
 created_at: '2023-03-17T01:23:26Z'
 pushed_at: '2026-03-27T16:04:05Z'
 resource_id: github:mayooear/ai-pdf-chatbot-langchain
-first_seen: '2026-07-14T13:02:29.050958+05:30'
-last_seen: '2026-07-14T13:02:29.050958+05:30'
-last_checked: '2026-07-14T13:02:29.050958+05:30'
+first_seen: '2026-07-18T01:09:58.123249+05:30'
+last_seen: '2026-07-18T01:09:58.123249+05:30'
+last_checked: '2026-07-18T01:09:58.123249+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: TypeScript-based AI PDF chatbot leveraging LangChain, LangGraph, Next.js, and OpenAI for agentic workflows, document processing, and conversational interfaces.
-- **Core Features**: Implements RAG (Retrieval-Augmented Generation) for dynamic PDF querying, with structured state management via LangGraph for multi-step agent interactions.
-- **Deployment**: Open-source repository with 16.5K+ stars, supporting modular extensions (e.g., custom LLMs, vector stores) and real-time updates as of July 2026.
+- **Tech Stack**: TypeScript-based AI chatbot leveraging LangChain, LangGraph, and Next.js for PDF interaction and agent-based workflows.
+- **Core Features**: Integrates OpenAI for natural language processing, enabling conversational querying and summarization of PDF documents.
+- **Architecture**: Uses a modular agent system with LangGraph for state management and orchestration, optimized for scalable PDF document processing.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: mayooear
-- Stars: 16575
-- Forks: 3224
+- Stars: 16581
+- Forks: 3225
 - Language: TypeScript
 - Topics: agents, ai, chatbot, langchain, langgraph, nextjs, openai, pdf, typescript
-- Last Updated: 2026-07-13T20:18:07Z
+- Last Updated: 2026-07-16T10:35:30Z
 - License: MIT
 - Archived: Yes
 - Created At: 2023-03-17T01:23:26Z

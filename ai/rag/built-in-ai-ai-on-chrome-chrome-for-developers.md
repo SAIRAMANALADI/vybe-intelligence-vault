@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.chrome.com/docs/ai/built-in
-published_at: '2026-07-09T21:16:42.085801+05:30'
-collected_at: '2026-07-09T21:16:42.085811+05:30'
+published_at: '2026-07-18T01:13:12.757538+05:30'
+collected_at: '2026-07-18T01:13:12.757553+05:30'
 tags:
 - hackernews
 - producthunt
@@ -14,9 +14,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:built-in-ai-ai-on-chrome-chrome-for-developers
-first_seen: '2026-07-09T21:16:42.085811+05:30'
-last_seen: '2026-07-09T21:16:42.085811+05:30'
-last_checked: '2026-07-09T21:16:42.085811+05:30'
+first_seen: '2026-07-18T01:13:12.757553+05:30'
+last_seen: '2026-07-18T01:13:12.757553+05:30'
+last_checked: '2026-07-18T01:13:12.757553+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Built-in AI APIs in Chrome**: Chrome provides browser-managed AI models (e.g., Gemini Nano) and APIs (e.g., Proofreader, Writer, Rewriter, Translator, Language Detector, Summarizer, Prompt) for on-device AI tasks like text processing, translation, and summarization.
-- **Hybrid AI Workloads & Polyfills**: Supports hybrid AI (client-side + cloud fallback via Firebase AI Logic) and offers polyfills (Prompt/Task APIs) for cross-browser compatibility.
-- **Best Practices & Debugging**: Includes guidance on caching models, streaming LLM responses, debugging Gemini Nano, and managing model lifecycle (downloads, updates, user notifications).
+- **Built-in AI in Chrome**: Chrome integrates foundation/expert models (e.g., Gemini Nano) for client-side AI tasks via browser-managed APIs, enabling on-device inference without cloud dependency.
+- **Key AI APIs**: Chrome offers APIs for text translation, summarization, proofreading, rewriting, language detection, and prompt/task management, with polyfills for cross-browser compatibility.
+- **Best Practices & Performance**: Chrome provides guidance on caching models, streaming LLM responses, debugging, and model management to optimize AI workloads while ensuring privacy and efficiency.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-09T21:16:42.085801+05:30
+- Published: 2026-07-18T01:13:12.757538+05:30
 
 ## Related Tags
 

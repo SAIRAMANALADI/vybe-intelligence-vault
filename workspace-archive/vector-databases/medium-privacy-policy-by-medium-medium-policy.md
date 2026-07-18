@@ -2,14 +2,20 @@
 title: Medium Privacy Policy | by Medium | Medium Policy
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=
+source_url: https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----d10bb5769280---------------------------------------
 resource_id: blog:medium-privacy-policy-by-medium-medium-policy
-local_vault_path: ai/rag/medium-privacy-policy-by-medium-medium-policy.md
+local_vault_path: ai/rag/medium-privacy-policy-by-medium-medium-policy-2.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
+tags:
+- agents
+- hackernews
+- rag
+- web-crawled
+- youtube
 selection_reason:
 - Valuable developer reference
 ---
@@ -26,8 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Data Collection Scope**: Medium collects user-provided data (e.g., posts, profile info) and automatically gathers activity, device, and usage data (IP addresses, cookies, device identifiers) via tracking technologies like web beacons and third-party analytics providers.
-- **Data Sharing & Third-Party Access**: Personal data is shared with vendors for services (e.g., hosting, analytics) and may be disclosed under legal obligations; third-party embeds (e.g., YouTube) transmit user interactions
+- **Data Collection & Sources**: Medium collects user-provided data (e.g., account details, posts, payment info via third-party processors) and automatically gathers activity, device, and usage data (IP addresses, cookies, device IDs) for service personalization, analytics, and security.
+
+- **Data Sharing & Third Parties**: Personal data is shared with vendors (analytics, hosting, fraud prevention), embedded third-party content (e.g., YouTube), and in legal/compliance contexts (mergers, law enfo
 
 ## Use Cases
 
@@ -37,8 +44,8 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=
+Original source URL: https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----d10bb5769280---------------------------------------
 
 ## Local Vault File
 
-Path: [medium-privacy-policy-by-medium-medium-policy.md](../../ai/rag/medium-privacy-policy-by-medium-medium-policy.md)
+Path: [medium-privacy-policy-by-medium-medium-policy-2.md](../../ai/rag/medium-privacy-policy-by-medium-medium-policy-2.md)

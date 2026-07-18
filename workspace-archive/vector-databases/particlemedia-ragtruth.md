@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and mitigating hallucinations in generated outputs.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) models by identifying and quantifying hallucinations in generated outputs.
 
-- **Technical Composition**: Contains structured hallucination annotations across diverse domains, enabling fine-grained analysis of model failures in retrieval-augmented contexts (e.g., incorrect citations, unsupported claims).
+- **Technical Scope**: Provides a structured dataset with annotated hallucinations, enabling fine-grained analysis of RAG model failures across retrieval and generation stages.
 
-- **Implementation**: Pr
+- **Implementation**: Open-source Python repository with tools for dataset generatio
 
 ## Use Cases
 

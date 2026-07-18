@@ -4,10 +4,11 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://githubstatus.com
-published_at: '2026-07-14T13:08:14.350563+05:30'
-collected_at: '2026-07-14T13:08:14.350581+05:30'
+published_at: '2026-07-18T01:16:26.047247+05:30'
+collected_at: '2026-07-18T01:16:26.047262+05:30'
 tags:
 - agents
+- anthropic
 - hackernews
 - rag
 - reddit
@@ -17,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-status
-first_seen: '2026-07-14T13:08:14.350581+05:30'
-last_seen: '2026-07-14T13:08:14.350581+05:30'
-last_checked: '2026-07-14T13:08:14.350581+05:30'
+first_seen: '2026-07-18T01:16:26.047262+05:30'
+last_seen: '2026-07-18T01:16:26.047262+05:30'
+last_checked: '2026-07-18T01:16:26.047262+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Status Page**: Provides real-time operational status, incident reports, and historical uptime metrics (e.g., 99.99% uptime for Git Operations over 90 days) via [githubstatus.com](https://githubstatus.com), including regional breakdowns (AU/EU/JP/US).
+- **GitHub Status Page** provides real-time operational metrics for GitHub services (e.g., Git Operations, API Requests, Webhooks) with historical uptime tracking (90-day windows) and regional status dashboards (AU/EU/JP/US).
 
-- **Notification Subscriptions**: Supports multi-channel incident alerts (email, SMS, Slack, webhooks) with OTP verification, adhering to Atlassian/GitHub privacy policies and reCAPTCHA protection.
+- **Incident Management** includes automated notifications via email, SMS (global), Slack, and webhooks for incident creation/updates/resolution, with detailed post-incident analyses (e.g., REST API outage due to misconfigured backend health checks).
 
-- **Recent Incidents**: Documented failures include Actions run delays (July 9, 2026, caused by backend data service issues) and REST API 500 errors for Actions/Codespaces (July 7, 2026, due to a faulty change rollout).
+- **Service-Specific Metrics** show near-perfect uptime (99.71–100%) for core services (Pull Requests, Packages, Copilot), with documented disruptions (e.g., Codespaces throttling due to abusive actor surges, Actions failures from autoscaling misconfigurations).
 
 ## Why It Matters
 
@@ -41,11 +42,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-14T13:08:14.350563+05:30
+- Published: 2026-07-18T01:16:26.047247+05:30
 
 ## Related Tags
 
 - agents
+- anthropic
 - hackernews
 - rag
 - reddit

@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid Search Implementation**: Demonstrates combining vector similarity search with traditional keyword-based retrieval in LangChain for enhanced document retrieval performance.
-
-- **RAG Pipeline Integration**: Implements a Retrieval-Augmented Generation (RAG) workflow using a vector store (e.g., FAISS or Chroma) for context-aware LLM responses.
-
-- **Streamlit UI for RAG**: Provides a Streamlit-based frontend to interact with the RAG system, enabling users to input queries and visualize ret
+- **Tech Stack**: Python-based Streamlit app integrating LangChain for RAG pipelines, leveraging vector stores (e.g., FAISS/Chroma) and hybrid search (combining dense + sparse retrieval).
+- **Core Functionality**: Demonstrates end-to-end RAG workflow: document ingestion → embedding → vector storage → retrieval → LLM augmentation → interactive UI.
+- **Hybrid Search Implementation**: Combines semantic (vector) and keyword (BM25/sparse) retrieval for improved accuracy, with Streamlit UI for query i
 
 ## Use Cases
 

@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-07-14T12:59:28.920151+05:30'
-published_at: '2026-07-11T18:06:44Z'
+collected_at: '2026-07-18T01:06:53.009944+05:30'
+published_at: '2026-07-17T11:53:49Z'
 tags:
 - github-repo
 - python
 - rag
-stars: 4368
+- scripts
+stars: 4373
 language: Python
 status: active
 license: MIT
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-07-14T12:59:28.920151+05:30'
-last_seen: '2026-07-14T12:59:28.920151+05:30'
-last_checked: '2026-07-14T12:59:28.920151+05:30'
+first_seen: '2026-07-18T01:06:53.009944+05:30'
+last_seen: '2026-07-18T01:06:53.009944+05:30'
+last_checked: '2026-07-18T01:06:53.009944+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **End-to-End LLM & RAG System**: Course provides hands-on guidance to build production-ready LLM and Retrieval-Augmented Generation (RAG) systems using LLMOps best practices, including source code and 12 structured lessons.
+- **Course Structure**: Provides a 12-lesson hands-on guide to building production-ready LLM and RAG systems, including source code and infrastructure-as-code (IaC) templates using Pulumi for AWS deployment.
 
-- **Tech Stack & Tools**: Utilizes Python-based infrastructure with AWS, Docker, Pulumi (IaC), Qdrant (vector DB), Bytewax (stream processing), Comet.ml (ML tracking), and Qwak (MLOps platform).
+- **Tech Stack Integration**: Demonstrates MLOps best practices with tools like Bytewax (streaming), Qdrant (vector DB), Comet.ml (experiment tracking), Qwak (MLOps platform), and Superlinked (embedding optimization).
 
-- **ML System Design Focus**: Covers ML system design, MLOps, and infrastructure-as-code (IaC) for scalable, deployable generative AI solutions, with updates as of July 2026.
+- **Deployment & Scalability**: Includes Docker-based containerization and AWS infrastructure automation, emphasizing scalable, end-to-end generative AI system design with LLMops principles.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: decodingai-magazine
-- Stars: 4368
-- Forks: 733
+- Stars: 4373
+- Forks: 734
 - Language: Python
 - Topics: aws, bytewax, comet-ml, course, docker, generative-ai, infrastructure-as-code, large-language-models, llmops, machine-learning-engineering, ml-system-design, mlops, pulumi, qdrant, qwak, rag, superlinked
-- Last Updated: 2026-07-11T18:06:44Z
+- Last Updated: 2026-07-17T11:53:49Z
 - License: MIT
 - Archived: No
 - Created At: 2024-03-08T09:21:28Z

@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SamuelSchmidgall/AgentLaboratory
-collected_at: '2026-07-14T13:02:09.027850+05:30'
-published_at: '2026-07-14T01:28:26Z'
+collected_at: '2026-07-18T01:09:33.137514+05:30'
+published_at: '2026-07-17T14:54:17Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- scripts
 - workflows
-stars: 5749
+stars: 5756
 language: Python
 status: active
 license: MIT
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-01-08T02:00:51Z'
 pushed_at: '2025-08-20T21:46:43Z'
 resource_id: github:samuelschmidgall/agentlaboratory
-first_seen: '2026-07-14T13:02:09.027850+05:30'
-last_seen: '2026-07-14T13:02:09.027850+05:30'
-last_checked: '2026-07-14T13:02:09.027850+05:30'
+first_seen: '2026-07-18T01:09:33.137514+05:30'
+last_seen: '2026-07-18T01:09:33.137514+05:30'
+last_checked: '2026-07-18T01:09:33.137514+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Research Workflow**: Agent Laboratory implements an end-to-end autonomous research pipeline designed to assist researchers in executing and refining research ideas without manual intervention.
+- **Autonomous Research Workflow**: Agent Laboratory provides an end-to-end autonomous system designed to assist researchers in implementing research ideas, leveraging Python for execution.
 
-- **Python-Based Framework**: The system is built entirely in Python, leveraging modular components for task automation, data processing, and iterative experimentation.
+- **Open-Source Repository**: Hosted on GitHub with 5,756 stars and 803 forks, indicating significant community engagement and adoption.
 
-- **Open-Source & Scalable**: Hosted on GitHub with 5,749 stars and 802 forks, the repository supports extensibility via community contributions and integrates with modern AI/ML tooling.
+- **Last Updated**: The repository was last updated on **July 17, 2026**, ensuring recent maintenance and potential feature updates.
 
 ## Why It Matters
 
@@ -44,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: SamuelSchmidgall
-- Stars: 5749
-- Forks: 802
+- Stars: 5756
+- Forks: 803
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-14T01:28:26Z
+- Last Updated: 2026-07-17T14:54:17Z
 - License: MIT
 - Archived: No
 - Created At: 2025-01-08T02:00:51Z

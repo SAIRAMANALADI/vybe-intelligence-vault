@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: A Python-based application repository focused on production-grade RAG (Retrieval-Augmented Generation) systems, with 72 stars and 48 forks.
+- **Repository Overview**: A Python-based RAG (Retrieval-Augmented Generation) application designed for production-grade deployment, with 73 stars and 49 forks.
 - **Technical Stack**: Utilizes Python for implementation, though specific libraries/frameworks are not detailed in the provided metadata.
-- **Last Activity**: Last updated on **July 11, 2026**, indicating recent or ongoing development.
+- **Last Activity**: Last updated on **July 15, 2026**, indicating recent development or maintenance.
 
 ## Use Cases
 

@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular Architecture**: JupyterLab offers a modular, extensible interface for interactive computing, supporting multi-document workspaces, customizable workflows, and third-party extensions for data science, ML, and scientific computing.
+- **JupyterLab** is a modular, extensible web-based IDE for notebooks, code, and data, supporting multi-document workspaces and rich interactive outputs (HTML, LaTeX, videos, etc.) with over 40 programming language kernels.
 
-- **Multi-Language & Big Data Support**: Supports 40+ languages (Python, R, Julia, Scala) with rich interactive outputs (HTML, LaTeX, videos) and integrates with big data tools (Apache Spark, pandas, TensorFlow).
+- **Jupyter Notebook** is the original JSON-based document format for computational narratives, using an open Interactive Computing Protocol (JSON over ZMQ/WebSockets) to communicate with language-specific kernels for execution and introspection.
 
-- **Scalable Deployment & Open Standards**:
+- **JupyterHub** enables ce
 
 ## Use Cases
 

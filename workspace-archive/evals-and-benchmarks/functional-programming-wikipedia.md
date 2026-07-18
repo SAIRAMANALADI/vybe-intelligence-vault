@@ -8,7 +8,7 @@ local_vault_path: ai/rag/functional-programming-wikipedia.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -32,18 +32,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Core Paradigm**: Functional programming (FP) is a declarative paradigm where programs are constructed by applying and composing functions, avoiding imperative state mutations in favor of expression-based trees mapping inputs to outputs.
+- **First-class and higher-order functions**: Functions are treated as first-class citizens, enabling their assignment to variables, passing as arguments, and return as values, facilitating higher-order functions and composability.
 
-- **First-Class Functions**: Functions are treated as first-class entities—bindable to identifiers, passable as arguments, and returnable from other functions—enabling modular, composable, and declarative program structures.
+- **Pure functions and referential transparency**: Pure functions avoid side effects and mutable state, ensuring deterministic output for identical inputs, aligning with mathematical function properties for improved predictability and testability.
 
-- **Pure vs. Impure Functions**:
+- **Declarative pa
 
 ## Use Cases
 

@@ -12,6 +12,9 @@ resource_kind: benchmark
 importance: high
 tags:
 - github-repo
+- meta-ai
+- mistral
+- models
 - python
 - rag
 - workflows
@@ -33,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational RAG Pipeline**: Provides a step-by-step guide to building a production-ready Retrieval-Augmented Generation (RAG) application using FastAPI, Python, and Docker.
-- **Modular Architecture**: Implements a scalable microservices-based design with FastAPI for backend, Docker for containerization, and integrates GenAI models for retrieval and generation.
-- **End-to-End Implementation**: Covers full-stack development including vector database integration, API endpoints, and deployment w
+- **Educational RAG Pipeline**: Step-by-step guide to building a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker, covering end-to-end implementation from data ingestion to API deployment.
+
+- **Modular Architecture**: Implements a decoupled design with components for document processing (chunking, embedding), vector storage (FAISS/ChromaDB), retrieval, and LLM integration, optimized for scalability and maintainability.
+
+- **GenAI Integration**:
 
 ## Use Cases
 

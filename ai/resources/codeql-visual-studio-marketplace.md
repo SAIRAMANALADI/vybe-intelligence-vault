@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-codeql
-published_at: '2026-06-22T15:18:35.370261+05:30'
-collected_at: '2026-06-22T15:18:35.370279+05:30'
+published_at: '2026-07-17T14:12:35.587231+05:30'
+collected_at: '2026-07-17T14:12:35.587244+05:30'
 tags:
 - hackernews
 - reddit
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:codeql-visual-studio-marketplace
-first_seen: '2026-06-22T15:18:35.370279+05:30'
-last_seen: '2026-06-22T15:18:35.370279+05:30'
-last_checked: '2026-06-22T15:18:35.370279+05:30'
+first_seen: '2026-07-17T14:12:35.587244+05:30'
+last_seen: '2026-07-17T14:12:35.587244+05:30'
+last_checked: '2026-07-17T14:12:35.587244+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Integration & Features**: VS Code extension enabling CodeQL queries for static analysis, with IntelliSense, path query visualization, and access to GitHub's open-source security query repository.
-- **Setup & Workflow**: Requires VS Code ≥1.39; supports CLI-managed or custom CodeQL CLI, database import from GitHub, and query execution via Command Palette or UI.
-- **Telemetry & Licensing**: MIT-licensed extension with optional GitHub telemetry (30-day IP retention, 180-day anonymous data); adheres to GitHub CodeQL Terms & Conditions.
+- **Integration & Workflow**: The CodeQL VS Code extension enables querying CodeQL databases directly within VS Code, providing path query visualization for security triage, access to open-source security queries, and IntelliSense for query development.
+- **Setup & Dependencies**: Requires VS Code ≥1.39; automatically manages CodeQL CLI access (or allows manual CLI configuration), and recommends cloning the [starter workspace](https://github.com/github/vscode-codeql-starter) for preconfigured libraries/queries.
+- **Query Execution & Output**: Supports importing GitHub-sourced databases, running queries via CLI integration, and displaying results in a dedicated view with keyboard navigation; errors are surfaced with actionable fixes.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T15:18:35.370261+05:30
+- Published: 2026-07-17T14:12:35.587231+05:30
 
 ## Related Tags
 

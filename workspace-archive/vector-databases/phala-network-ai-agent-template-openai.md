@@ -13,7 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
+- models
 - openai
 - rag
 - typescript
@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Template Purpose**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with the Phala Network, facilitating secure and decentralized AI computations.
+- **TypeScript-based AI Agent Contract Template**: Provides a structured framework for integrating OpenAI's API with Phala Network's confidential computing environment, enabling secure AI inference execution.
 
-- **Key Components**: Includes pre-configured OpenAPI client, contract interfaces, and deployment scripts optimized for Phala's confidential computing environment.
+- **OpenAI Integration**: Implements OpenAI's function-calling API to dynamically invoke AI models (e.g., GPT-4) within a decentralized, trustless smart contract environment.
 
-- **Technical Stack**: Leverages TypeScript for contract logic, OpenAI API for AI inference, and Phala's TEE (Trusted Execution Environment) for priva
+- **Phala Network Compatibility**: Leverages Phala's TEE (Trusted Execution Environment) to ensure privacy-preserv
 
 ## Use Cases
 

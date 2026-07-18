@@ -3,9 +3,9 @@ title: Chunking Strategies for LLM Applications | Pinecone
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.pinecone.io/learn/chunking-strategies
-published_at: '2026-07-07T15:37:45.818755+05:30'
-collected_at: '2026-07-07T15:37:45.818767+05:30'
+source_url: https://www.pinecone.io/learn/chunking-strategies/
+published_at: '2026-07-17T14:06:35.982535+05:30'
+collected_at: '2026-07-17T14:06:35.982547+05:30'
 tags:
 - agents
 - anthropic
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:chunking-strategies-for-llm-applications-pinecone
-first_seen: '2026-07-07T15:37:45.818767+05:30'
-last_seen: '2026-07-07T15:37:45.818767+05:30'
-last_checked: '2026-07-07T15:37:45.818767+05:30'
+first_seen: '2026-07-17T14:06:35.982547+05:30'
+last_seen: '2026-07-17T14:06:35.982547+05:30'
+last_checked: '2026-07-17T14:06:35.982547+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,14 @@ health_score: 100
 
 ## Summary
 
-- **Chunking definition and purpose**: Chunking is the process of segmenting large text into smaller, meaningful units (chunks) to optimize relevance in vector databases, balancing semantic integrity and computational efficiency for LLM applications like RAG and agentic workflows.
+- **Chunking definition**: Process of breaking large text into smaller segments ("chunks") to optimize relevance in vector databases, balancing meaningful content size with performance and low-latency retrieval for RAG and agentic workflows.
 
-- **Key considerations for chunking strategies**: Optimal chunking depends on data type (e.g., documents vs. tweets), embedding model context windows, query complexity, and downstream use case (e.g., semantic search vs. agent grounding), requiring alignment between chunk size, model capacity, and application needs.
+- **Key considerations for chunking strategy**: Embedding model context windows (e.g., 1024 tokens for `llama-text-embed-v2`), document structure (e.g., paragraphs, headers), query complexity, and application use case (e.g., semantic search vs. agentic workflows).
 
-- **Chunking methods and tradeoffs**: Methods include fixed-size token splitting (simplest), content-aware splitting (sentence/paragraph-aware via NLTK/spaCy), structure-based splitting (PDFs/HTML/Markdown), and semantic chunking (embedding-based grouping of thematically related sentences), each with latency, relevance, and implementation complexity tradeoffs.
+- **Chunking methods**:
+  - **Fixed-size**: Uniform token-based segmentation (e.g., LangChain’s `RecursiveCharacterTextSplitter`).
+  - **Content-aware**: Structure-preserving (e.g., sentence/paragraph splitting via NLTK/spaCy, document structure-based parsing for PDFs/HTML/Markdown/LaTeX).
+  - **Semantic**: Topic-cohesive grouping using embeddings to cluster sentences by thematic relevance (e.g., Greg Kamradt’s approach).
 
 ## Why It Matters
 
@@ -45,7 +48,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T15:37:45.818755+05:30
+- Published: 2026-07-17T14:06:35.982535+05:30
 
 ## Related Tags
 
@@ -64,4 +67,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.pinecone.io/learn/chunking-strategies
+Original source: https://www.pinecone.io/learn/chunking-strategies/

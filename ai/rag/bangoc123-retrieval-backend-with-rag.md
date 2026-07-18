@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-07-14T12:59:23.874345+05:30'
+collected_at: '2026-07-18T01:06:47.983085+05:30'
 published_at: '2026-07-07T14:48:17Z'
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 stars: 264
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-07-14T12:59:23.874345+05:30'
-last_seen: '2026-07-14T12:59:23.874345+05:30'
-last_checked: '2026-07-14T12:59:23.874345+05:30'
+first_seen: '2026-07-18T01:06:47.983085+05:30'
+last_seen: '2026-07-18T01:06:47.983085+05:30'
+last_checked: '2026-07-18T01:06:47.983085+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of RAG for Vietnamese**: Repository demonstrates best practices for Vietnamese Retrieval-Augmented Generation (RAG) using Python, focusing on efficient document retrieval and context-aware generation.
+- **RAG Implementation for Vietnamese**: Repository demonstrates best practices for Vietnamese Retrieval-Augmented Generation (RAG) using Python, focusing on efficient document retrieval and context-aware generation.
 
-- **Modular Architecture**: Includes components for Vietnamese text preprocessing, embedding generation (e.g., using `sentence-transformers` or `vinai/phobert`), vector storage (FAISS/Weaviate), and retrieval-augmented generation with LLMs.
+- **Key Components**: Includes vector database integration (e.g., FAISS/Weaviate), Vietnamese text preprocessing (tokenization, embedding), and retrieval-augmented generation pipelines with LLMs.
 
-- **Evaluation & Optimization**: Provides tools for benchmarking Vietnamese RAG pipelines, including retrieval metrics (e.g., MRR, Recall@K) and generation quality assessments (e.g., BLEU, ROUGE for Vietnamese).
+- **Performance Optimization**: Implements Vietnamese-specific techniques (e.g., syllable-aware embeddings, query expansion) and benchmarking for retrieval accuracy and response quality.
 
 ## Why It Matters
 
@@ -42,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: bangoc123
 - Stars: 264
-- Forks: 95
+- Forks: 96
 - Language: Python
 - Topics: None
 - Last Updated: 2026-07-07T14:48:17Z

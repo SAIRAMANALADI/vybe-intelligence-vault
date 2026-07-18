@@ -31,7 +31,7 @@ selection_reason:
 ## Summary
 
 - **Open-source AI agent framework** for autonomous trading on Hyperliquid, supporting crypto, equities, commodities, and indices with 80+ strategy templates.
-- **Two-phase trailing-stop (DSL) exits** for dynamic position management and risk mitigation in automated trading strategies.
+- **Two-phase trailing-stop (DSL) exits** for dynamic position management and risk protection in automated trading strategies.
 - **Python-based implementation** with deployment-ready components for building, testing, and protecting trading strategies.
 
 ## Use Cases

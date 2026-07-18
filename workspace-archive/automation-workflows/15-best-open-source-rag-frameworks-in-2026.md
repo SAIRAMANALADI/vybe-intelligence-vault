@@ -39,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Modular framework (105k ⭐) for LLM applications with RAG-specific components (data connectors, retrieval pipelines, evaluation tools) and ecosystem compatibility (LangSmith, LangGraph). Supports dynamic model/integration swapping and structured workflows.
+- **LangChain**: Modular framework with 105k+ GitHub stars, offering data connection interfaces, model flexibility, and retrieval components for RAG pipelines; integrates with LangSmith and LangGraph for debugging and workflow management.
 
-- **RAGFlow**: Open-source RAG engine (48.5k ⭐) specializing in deep document parsing (PDFs, tables, layouts) with GraphRAG support, agentic reasoning, and dual storage backends (Elasticsearch/Infinity). Features a visual web
+- **RAGFlow**: Open-source RAG engine (48.5k stars) specializing in deep document parsing (PDFs, tables, layouts) with GraphRAG support, agentic reasoning, and dual storage backends (Elasticsearch/Infinity).
+
+- **Milvus**: High-performance vector database (33.
 
 ## Use Cases
 

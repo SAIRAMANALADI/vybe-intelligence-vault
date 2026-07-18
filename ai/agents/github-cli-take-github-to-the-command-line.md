@@ -4,20 +4,19 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://cli.github.com
-published_at: '2026-07-14T13:04:29.907370+05:30'
-collected_at: '2026-07-14T13:04:29.907384+05:30'
+published_at: '2026-07-18T01:14:14.260223+05:30'
+collected_at: '2026-07-18T01:14:14.260230+05:30'
 tags:
 - agents
 - producthunt
 - reddit
-- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:github-cli-take-github-to-the-command-line
-first_seen: '2026-07-14T13:04:29.907384+05:30'
-last_seen: '2026-07-14T13:04:29.907384+05:30'
-last_checked: '2026-07-14T13:04:29.907384+05:30'
+first_seen: '2026-07-18T01:14:14.260230+05:30'
+last_seen: '2026-07-18T01:14:14.260230+05:30'
+last_checked: '2026-07-18T01:14:14.260230+05:30'
 health_score: 100
 ---
 
@@ -25,9 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **GitHub CLI (`gh`)** integrates GitHub workflows directly into the terminal, enabling CLI-based operations for issues, PRs, releases, and repository management via native commands (`gh issue list`, `gh pr status`, `gh release create`, etc.).
-- **Cross-platform installation** supported via package managers (Homebrew, WinGet, `apt`, `dnf`, `zypper`) or direct binary downloads for macOS, Windows, and Linux.
-- **Extensible features** include GitHub Copilot CLI integration, custom aliases (`gh alias set`), and GitHub Enterprise Server compatibility for scripting and automation.
+- **GitHub CLI (`gh`)** is an open-source tool that integrates GitHub workflows (issues, PRs, releases, etc.) directly into the terminal, reducing context switching between CLI and web UI.
+- **Core commands** include `gh copilot`, `gh issue list`, `gh pr status`, `gh pr checkout`, `gh pr create`, `gh pr checks`, `gh release create`, `gh repo view`, and `gh alias set` for custom command shortcuts.
+- **Installation** supports multiple platforms (macOS via Homebrew, Windows via WinGet, Linux via `apt`/`dnf`/`zypper`) with direct binary downloads available for manual setup.
 
 ## Why It Matters
 
@@ -37,14 +36,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-14T13:04:29.907370+05:30
+- Published: 2026-07-18T01:14:14.260223+05:30
 
 ## Related Tags
 
 - agents
 - producthunt
 - reddit
-- scripts
 - web-crawled
 - workflows
 

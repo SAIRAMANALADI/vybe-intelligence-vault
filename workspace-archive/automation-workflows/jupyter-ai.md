@@ -2,13 +2,13 @@
 title: Jupyter AI
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://jupyter-ai.readthedocs.io/en/latest
+source_url: https://jupyter-ai.readthedocs.io/en/latest/
 resource_id: blog:jupyter-ai
 local_vault_path: ai/rag/jupyter-ai.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: mcp-server
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -23,7 +23,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Jupyter AI
@@ -32,18 +32,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: mcp-server
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Jupyter AI** integrates AI agents (e.g., Claude, GitHub Copilot, Gemini) into JupyterLab via a modular extension, enabling real-time collaborative editing and AI-assisted notebook workflows.
+- **Multi-Language Support**: Integrates with Python, R, Julia, Scala, Haskell, and domain-specific libraries (NumPy, Pandas, Matplotlib, SciPy, Scikit-learn) for data science and machine learning workflows.
 
-- **Security & Control**: Implements default guardrails (e.g., permission prompts) for file operations, command execution, and MCP tool usage to mitigate risks in AI-driven notebook interactions.
+- **AI Agent Integration**: Supports frontier AI models (OpenAI, Anthropic, Gemini) and agents (GitHub Copilot, Goose, Kiro, Mistral Vibe, OpenCode) via JupyterLab for real-time collaboration and notebook automation.
 
-- **Extensibility**: Supports custom AI personas and MCP servers, allowing users to define specialized agen
+- **Real-Time Collaboration & Security**: Enables shared chats with drag-
 
 ## Use Cases
 
@@ -53,7 +53,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://jupyter-ai.readthedocs.io/en/latest
+Original source URL: https://jupyter-ai.readthedocs.io/en/latest/
 
 ## Local Vault File
 

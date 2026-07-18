@@ -12,6 +12,7 @@ resource_kind: tutorial
 importance: medium
 tags:
 - agents
+- anthropic
 - hackernews
 - rag
 - reddit
@@ -35,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Status Page**: Provides real-time operational status, incident reports, and historical uptime metrics (e.g., 99.99% uptime for Git Operations over 90 days) via [githubstatus.com](https://githubstatus.com), including regional breakdowns (AU/EU/JP/US).
+- **GitHub Status Page** provides real-time operational metrics for GitHub services (e.g., Git Operations, API Requests, Webhooks) with historical uptime tracking (90-day windows) and regional status dashboards (AU/EU/JP/US).
 
-- **Notification Subscriptions**: Supports multi-channel incident alerts (email, SMS, Slack, webhooks) with OTP verification, adhering to Atlassian/GitHub privacy policies and reCAPTCHA protection.
+- **Incident Management** includes automated notifications via email, SMS (global), Slack, and webhooks for incident creation/updates/resolution, with detailed post-incident analyses (e.g., REST API outage due to misconfigured backend health checks).
 
-- **Recent Incidents**: Documented fai
+- **Service-Specific
 
 ## Use Cases
 

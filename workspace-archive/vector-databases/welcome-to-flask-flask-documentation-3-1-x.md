@@ -33,9 +33,9 @@ selection_reason:
 
 - **WSGI Framework**: Flask is a lightweight WSGI web application framework designed for scalability, leveraging Werkzeug for WSGI handling, Jinja for templating, and Click for CLI operations.
 
-- **Modular Architecture**: Supports blueprints for modular application design, enabling separation of concerns, URL routing, and resource management across nested components.
+- **Modular Architecture**: Supports blueprints for modular application structure, enabling separation of concerns, reusable components, and nested routing.
 
-- **Context Management**: Implements application and request contexts for thread-local data storage, lifecycle control, and manua
+- **Context Management**: Implements application and request contexts for managing state, with signals for event-driven extensions and lifecycle con
 
 ## Use Cases
 

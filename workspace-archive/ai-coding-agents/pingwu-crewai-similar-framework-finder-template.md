@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Template for identifying Python frameworks similar to CrewAI, facilitating comparative analysis of multi-agent AI orchestration tools.
-- **Structure**: Python-based repository with minimal initial configuration (1 star, 9 forks), last updated November 27, 2024.
-- **Scope**: Focuses on framework discovery without predefined dependencies or topics, serving as a foundational tool for extensibility.
+- **Purpose**: Identifies Python frameworks similar to CrewAI for multi-agent AI systems.
+- **Metrics**: 1 star, 9 forks, last updated on 2024-11-27.
+- **Structure**: Template repository in Python for framework comparison.
 
 ## Use Cases
 

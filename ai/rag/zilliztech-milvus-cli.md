@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zilliztech/milvus_cli
-collected_at: '2026-07-07T23:05:09.210476+05:30'
-published_at: '2026-06-16T08:57:40Z'
+collected_at: '2026-07-14T19:52:28.501702+05:30'
+published_at: '2026-07-13T03:03:06Z'
 tags:
 - github-repo
 - python
 - rag
-stars: 129
+- scripts
+stars: 130
 language: Python
 status: active
 license: Apache-2.0
@@ -18,9 +19,9 @@ archived: false
 created_at: '2021-12-10T08:48:38Z'
 pushed_at: '2026-06-22T03:16:56Z'
 resource_id: github:zilliztech/milvus_cli
-first_seen: '2026-07-07T23:05:09.210476+05:30'
-last_seen: '2026-07-07T23:05:09.210476+05:30'
-last_checked: '2026-07-07T23:05:09.210476+05:30'
+first_seen: '2026-07-14T19:52:28.501702+05:30'
+last_seen: '2026-07-14T19:52:28.501702+05:30'
+last_checked: '2026-07-14T19:52:28.501702+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **CLI Tool for Milvus**: Python-based command-line interface (CLI) designed for interacting with and managing Milvus vector databases, providing streamlined access to core functionalities.
-- **Repository Metadata**: 129 GitHub stars, 21 forks, last updated on 2026-06-16, with no additional topics or dependencies specified.
-- **Purpose**: Facilitates administrative and operational tasks (e.g., collection management, data insertion, querying) via terminal commands, enhancing usability for Milvus deployments.
+- **Python-based CLI tool** for Milvus vector database, enabling command-line interactions with Milvus clusters (e.g., collection management, data insertion, and querying).
+- **Supports Milvus 2.x APIs**, providing CRUD operations for vector data, indexes, and partitions via structured command-line syntax.
+- **Lightweight and open-source** (MIT License), with minimal dependencies, facilitating automation and integration in data pipelines.
 
 ## Why It Matters
 
@@ -39,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: zilliztech
-- Stars: 129
+- Stars: 130
 - Forks: 21
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-16T08:57:40Z
+- Last Updated: 2026-07-13T03:03:06Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2021-12-10T08:48:38Z

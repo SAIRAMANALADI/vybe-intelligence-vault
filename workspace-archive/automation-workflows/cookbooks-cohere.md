@@ -39,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Cohere’s Cookbooks** provide structured guides for implementing generative AI use cases, including **Agents, RAG, Summarization, Finetuning, and Search/Embeddings**, with pre-configured setups for rapid prototyping.
-
-- **Agentic Workflows** leverage **multi-step tool use** (e.g., APIs, databases) via Cohere’s `cohere_react_agent` or LangChain integration, enabling **automated task execution, structured data extraction (CSV/PDF), and SQL query handling**.
-
-- **Advanced RAG Implementations** i
+- **Agentic Tool Integration**: Cohere's v2 API supports multi-step tool use (e.g., APIs, databases) via `cohere_react_agent` for complex workflows like calendar management, financial CSV analysis, and SQL querying.
+- **RAG Optimization**: Cookbooks demonstrate advanced RAG techniques, including agentic multi-stage retrieval for mixed-data PDFs, grounded summarization with `Command R`, and hybrid search (e.g., Elasticsearch + Cohere embeddings).
+- **Finetuning & Deployment**: Supports model fine
 
 ## Use Cases
 

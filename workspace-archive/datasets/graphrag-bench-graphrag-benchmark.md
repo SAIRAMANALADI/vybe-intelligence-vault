@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Suite**: Provides a standardized evaluation framework for Graph Retrieval-Augmented Generation (GraphRAG) models, including datasets and metrics for assessing performance in graph-based RAG tasks.
-
-- **Technical Scope**: Focuses on analyzing when and how to integrate graph structures into RAG pipelines, covering retrieval strategies, graph construction, and query optimization for enhanced contextual reasoning.
-
-- **Implementation**: Python-based repository with modular components f
+- **Benchmark Suite**: Provides a standardized evaluation framework for Graph Retrieval-Augmented Generation (GraphRAG) models, including datasets and metrics for assessing performance across diverse graph-based RAG tasks.
+- **Technical Scope**: Focuses on analyzing when and how graph structures enhance RAG systems, covering retrieval strategies, model architectures, and efficiency trade-offs in graph-augmented generation.
+- **Implementation**: Python-based repository with modular components for
 
 ## Use Cases
 

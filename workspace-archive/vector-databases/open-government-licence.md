@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Licence Terms**: Grants a worldwide, royalty-free, perpetual, non-exclusive licence to use public sector information under specified conditions, including mandatory source attribution (e.g., "Contains public sector information licensed under the Open Government Licence v3.0") and compliance with attribution requirements for combined datasets.
+- **Licence Terms**: Grants worldwide, royalty-free, perpetual, non-exclusive rights to use, adapt, and commercially exploit public sector information under specified conditions, including mandatory source attribution (e.g., "Contains public sector information licensed under the Open Government Licence v3.0").
 
-- **Exclusions & Restrictions**: Excludes personal data, unpublished/unreleased information, logos, military insignia, third-party rights, and identit
+- **Exclusions & Restrictions**: Excludes personal data, unlicensed third-party rights, logos, military insignia, and identity documents; prohibits use implying official endorsement; disc
 
 ## Use Cases
 

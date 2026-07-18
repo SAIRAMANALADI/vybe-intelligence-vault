@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using AutoML techniques, eliminating manual tuning by dynamically selecting optimal components (e.g., embeddings, retrievers, rerankers) via benchmarking and hyperparameter optimization.
+- **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using machine learning techniques, reducing manual tuning and improving performance through automated hyperparameter and component selection.
 
-- **Comprehensive RAG Pipeline Toolkit**: Supports end-to-end RAG workflows including document parsing, embedding generation, retrieval, reranking, and LLM integration, with b
+- **Comprehensive RAG Toolkit**: The framework integrates document parsing, embedding generation, retrieval evaluation, and LLM-based QA benchmarking into a unified pipeline, supporting end-to-end RAG workflows with buil
 
 ## Use Cases
 

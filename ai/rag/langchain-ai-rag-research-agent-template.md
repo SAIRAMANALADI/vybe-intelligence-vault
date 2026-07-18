@@ -4,15 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-07-14T12:58:53.946541+05:30'
-published_at: '2026-07-13T21:23:18Z'
+collected_at: '2026-07-18T01:06:18.084338+05:30'
+published_at: '2026-07-14T14:28:10Z'
 tags:
 - agents
 - github-repo
 - hackernews
+- openai
 - python
 - rag
-stars: 312
+- workflows
+stars: 313
 language: Python
 status: active
 license: MIT
@@ -20,9 +22,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-07-14T12:58:53.946541+05:30'
-last_seen: '2026-07-14T12:58:53.946541+05:30'
-last_checked: '2026-07-14T12:58:53.946541+05:30'
+first_seen: '2026-07-18T01:06:18.084338+05:30'
+last_seen: '2026-07-18T01:06:18.084338+05:30'
+last_checked: '2026-07-18T01:06:18.084338+05:30'
 health_score: 100
 ---
 
@@ -30,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a structured starter template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating rapid prototyping of AI-driven document analysis and synthesis systems.
+- **Template Purpose**: Provides a structured starter repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating rapid prototyping and deployment.
 
-- **Key Components**: Includes pre-configured pipelines for document ingestion, embedding generation (e.g., with `sentence-transformers`), vector storage (e.g., Chroma or FAISS), and LLM integration (e.g., LangChain’s `LLMChain` or `RetrievalQA`).
+- **Technical Stack**: Implemented in Python, leveraging LangChain’s modular framework for document retrieval, vector storage (e.g., FAISS, Chroma), and agent orchestration.
 
-- **Technical Stack**: Python-based, leveraging LangChain’s modular framework, with dependencies on libraries like `pydantic` for data validation, `unstructured` for document parsing, and optional GPU-accelerated embeddings (e.g., `sentence-transformers` with CUDA support).
+- **Key Components**: Includes pre-configured pipelines for document ingestion, embedding generation (e.g., OpenAI, HuggingFace), and agent workflows with tools for web search, summarization, and iterative research loops.
 
 ## Why It Matters
 
@@ -43,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 312
+- Stars: 313
 - Forks: 73
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-13T21:23:18Z
+- Last Updated: 2026-07-14T14:28:10Z
 - License: MIT
 - Archived: Yes
 - Created At: 2024-10-14T20:06:54Z

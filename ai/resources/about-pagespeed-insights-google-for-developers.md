@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.google.com/speed/docs/insights/v5/about
-published_at: '2026-07-14T13:06:11.744346+05:30'
-collected_at: '2026-07-14T13:06:11.744359+05:30'
+published_at: '2026-07-18T01:15:22.281956+05:30'
+collected_at: '2026-07-18T01:15:22.281970+05:30'
 tags:
 - creative_dev
 - dataset
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:about-pagespeed-insights-google-for-developers
-first_seen: '2026-07-14T13:06:11.744359+05:30'
-last_seen: '2026-07-14T13:06:11.744359+05:30'
-last_checked: '2026-07-14T13:06:11.744359+05:30'
+first_seen: '2026-07-18T01:15:22.281970+05:30'
+last_seen: '2026-07-18T01:15:22.281970+05:30'
+last_checked: '2026-07-18T01:15:22.281970+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **PageSpeed Insights (PSI)** evaluates web page performance using **lab data** (via Lighthouse) and **real-world field data** (via Chrome User Experience Report (CrUX)), measuring metrics like FCP, LCP, CLS, INP, and TTFB.
-- **Core Web Vitals** (LCP, CLS, INP) are assessed at the 75th percentile to classify user experience into **Good**, **Needs Improvement**, or **Poor** based on predefined thresholds.
-- **Lab diagnostics** (Lighthouse) provide scored audits for Performance, Accessibility, Best Practices, and SEO, while field data reflects anonymized real-user experiences across diverse devices and networks.
+- **PageSpeed Insights (PSI)** evaluates web page performance using both real-world (CrUX) and lab (Lighthouse) data, providing optimization recommendations for mobile and desktop.
+- **Core Web Vitals** (LCP, CLS, INP) and additional metrics (FCP, TTFB) are assessed via CrUX, with performance categorized as Good/Needs Improvement/Poor based on predefined thresholds.
+- **Lab diagnostics** via Lighthouse simulate controlled environments (mid-tier mobile/desktop) to score Performance, Accessibility, Best Practices, and SEO, with scores ≥90 considered good.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-14T13:06:11.744346+05:30
+- Published: 2026-07-18T01:15:22.281956+05:30
 
 ## Related Tags
 

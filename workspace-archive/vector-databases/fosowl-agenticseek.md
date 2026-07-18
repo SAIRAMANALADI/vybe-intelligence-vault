@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Fully Local AI Agent**: Implements an autonomous agent (`agenticSeek`) using Python, operating entirely locally without external APIs or cloud dependencies, relying solely on local compute resources for inference and execution.
-
-- **DeepSeek-R1 Integration**: Leverages the DeepSeek-R1 model for reasoning, browsing, and code generation tasks, enabling advanced agentic capabilities (e.g., web interaction, code execution) with minimal overhead.
-
-- **Cost-Effective & Open-Source**: Eliminates re
+- **Local-First AI Agent**: Fully local implementation of Manus AI using Python, eliminating API dependencies and cloud costs, operating solely on local compute and electricity.
+- **Autonomous Capabilities**: Agent autonomously performs tasks including web browsing, code generation, and reasoning, leveraging DeepSeek-R1 for advanced LLM-based decision-making.
+- **Open-Source & Self-Hosted**: Repository provides a self-contained, open-source solution for autonomous AI agents with no recurring fee
 
 ## Use Cases
 

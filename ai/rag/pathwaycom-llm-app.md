@@ -4,8 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pathwaycom/llm-app?source=
-resource_id: github:pathwaycom/llm-app
------dba899ae0355---------------------------------------
+resource_id: github:pathwaycom/llm-app-3ea3a7f7
+---
+--dba899ae0355---------------------------------------
 collected_at: '2026-07-14T13:02:54.131560+05:30'
 published_at: '2026-07-14T05:30:13Z'
 tags:

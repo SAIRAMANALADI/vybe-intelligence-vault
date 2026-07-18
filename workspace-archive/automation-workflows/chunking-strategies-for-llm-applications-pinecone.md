@@ -2,7 +2,7 @@
 title: Chunking Strategies for LLM Applications | Pinecone
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://www.pinecone.io/learn/chunking-strategies
+source_url: https://www.pinecone.io/learn/chunking-strategies/
 resource_id: blog:chunking-strategies-for-llm-applications-pinecone
 local_vault_path: ai/rag/chunking-strategies-for-llm-applications-pinecone.md
 quality_score: 70
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Chunking definition and purpose**: Chunking is the process of segmenting large text into smaller, meaningful units (chunks) to optimize relevance in vector databases, balancing semantic integrity and computational efficiency for LLM applications like RAG and agentic workflows.
+- **Chunking definition**: Process of breaking large text into smaller segments ("chunks") to optimize relevance in vector databases, balancing meaningful content size with performance and low-latency retrieval for RAG and agentic workflows.
 
-- **Key considerations for chunking strategies**: Optimal chunking depends on data type (e.g., documents vs. tweets), embedding model context windows, query complexity, and downstream use case (e.g., semantic search v
+- **Key considerations for chunking strategy**: Embedding model context windows (e.g., 1024 tokens for `llama-text-embed-v2`), document structure (e.g., paragraphs, headers), query complexity, and application use case (e.g., semantic search vs. agentic work
 
 ## Use Cases
 
@@ -51,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.pinecone.io/learn/chunking-strategies
+Original source URL: https://www.pinecone.io/learn/chunking-strategies/
 
 ## Local Vault File
 

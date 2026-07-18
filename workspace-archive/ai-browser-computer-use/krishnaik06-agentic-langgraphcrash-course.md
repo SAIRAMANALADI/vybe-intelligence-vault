@@ -15,7 +15,6 @@ tags:
 - github-repo
 - hackernews
 - jupyter notebook
-- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -32,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository `Agentic-LanggraphCrash-course` by `krishnaik06`, containing Jupyter Notebooks focused on agentic workflows using LangGraph.
-- **Metadata**: 177 stars, 175 forks, last updated on **2026-07-11**.
-- **Purpose**: Implicitly targets LangGraph-based agentic systems, though no explicit description is provided.
+- **Repository Overview**: GitHub repository `Agentic-LanggraphCrash-course` by `krishnaik06` containing Jupyter Notebooks, last updated on **2026-07-14**.
+- **Metrics**: 178 stars, 176 forks, no explicit language or topic tags despite Jupyter Notebook format.
+- **Access**: Public repository URL: `https://github.com/krishnaik06/Agentic-LanggraphCrash-course`.
 
 ## Use Cases
 

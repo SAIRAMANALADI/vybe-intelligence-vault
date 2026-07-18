@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/security/
-published_at: '2026-07-14T13:04:07.092020+05:30'
-collected_at: '2026-07-14T13:04:07.092037+05:30'
+published_at: '2026-07-18T01:12:21.288804+05:30'
+collected_at: '2026-07-18T01:12:21.288818+05:30'
 tags:
 - frontend_ui
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-security
-first_seen: '2026-07-14T13:04:07.092037+05:30'
-last_seen: '2026-07-14T13:04:07.092037+05:30'
-last_checked: '2026-07-14T13:04:07.092037+05:30'
+first_seen: '2026-07-18T01:12:21.288818+05:30'
+last_seen: '2026-07-18T01:12:21.288818+05:30'
+last_checked: '2026-07-18T01:12:21.288818+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,16 @@ health_score: 100
 
 ## Summary
 
-- **Default Deny Policy**: Hugo enforces a default-deny security model via allowlists for `os/exec`, remote HTTP access, and environment variables, blocking operations not explicitly permitted (e.g., `text/html` content is denied by default).
+- **Default Security Policy**: Hugo enforces a restrictive default security policy via allowlists, blocking `os/exec`, remote communication, and other sensitive operations unless explicitly permitted; violations trigger detailed failure messages.
 
-- **Node.js Permissions**: New in v0.161.0, the `node.permissions` config restricts Node.js tools (e.g., TailwindCSS) via `--permission` flags, controlling file I/O (`allowRead`/`allowWrite`), child processes (`allowChildProcess`), and native addons (`allowAddons`).
+- **Configurable Security Parameters**:
+  - `exec.allow`: Regex list of permitted external executables (e.g., `^(dart-)?sass(-embedded)?$`, `^go$`).
+  - `http.urls`: Regex list controlling allowed remote URLs (e.g., `^(?i)^https?://[a-z0-9]` with negation rules for `localhost`/`IP` prefixes).
+  - `node.permissions`: Fine-grained controls for Node.js tools (e.g., `allowRead: ["."]`, `allowWrite: []`).
 
-- **Negation & Environment Overrides**: Allowlists support negation (`!`) for deny rules (e.g., block `evil.example.com` while allowing others), and security settings can be overridden via `HUGO_SECURITY_*` environment variables (e.g., `HUGO_SECURITY_HTTP_URLS=none`).
+- **Negation & Override Rules**:
+  - Prefix patterns with `! ` to deny (e.g., `! ^https?://evil\.example\.com`).
+  - Environment variables (e.g., `HUGO_SECURITY_HTTP_URLS=none`) can override settings.
 
 ## Why It Matters
 
@@ -36,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-14T13:04:07.092020+05:30
+- Published: 2026-07-18T01:12:21.288804+05:30
 
 ## Related Tags
 

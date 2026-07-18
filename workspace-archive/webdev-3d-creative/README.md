@@ -9,24 +9,24 @@ WebGL/WebGPU and 3D creative design elevate traditional UI pages into wow-worthy
 ## Top Matched Resources
 
 - [ektogamat/r3f-webgpu-starter](https://github.com/ektogamat/r3f-webgpu-starter) (tool - USEFUL Tier)
-- [playcanvas/engine](https://github.com/playcanvas/engine) (tool - USEFUL Tier)
 - [patriciogonzalezvivo/lygia](https://github.com/patriciogonzalezvivo/lygia) (framework - USEFUL Tier)
+- [playcanvas/engine](https://github.com/playcanvas/engine) (tool - USEFUL Tier)
 - [hjlld/LearningWebGPU](https://github.com/hjlld/learningwebgpu) (tutorial - USEFUL Tier)
-- [spite/Wagner](https://github.com/spite/wagner) (tool - USEFUL Tier)
-- [pixiv/three-vrm](https://github.com/pixiv/three-vrm) (tool - USEFUL Tier)
-- [mrdoob/three.js](https://github.com/mrdoob/three.js) (framework - USEFUL Tier)
-- [luosijie/threejs-examples](https://github.com/luosijie/threejs-examples) (tool - USEFUL Tier)
+- [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next) (tool - USEFUL Tier)
+- [juniorxsound/R3F.Multiplayer](https://github.com/juniorxsound/r3f.multiplayer) (template - USEFUL Tier)
+- [whoisryosuke/r3f-next-starter](https://github.com/whoisryosuke/r3f-next-starter) (template - USEFUL Tier)
+- [wrongakram/R3F-Chairs](https://github.com/wrongakram/r3f-chairs) (tool - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/mrdoob/three.js (Three.js)
 https://github.com/pmndrs/react-three-fiber (React Three Fiber)
 - [ektogamat/r3f-webgpu-starter](https://github.com/ektogamat/r3f-webgpu-starter)
-- [playcanvas/engine](https://github.com/playcanvas/engine)
 - [patriciogonzalezvivo/lygia](https://github.com/patriciogonzalezvivo/lygia)
+- [playcanvas/engine](https://github.com/playcanvas/engine)
 - [hjlld/LearningWebGPU](https://github.com/hjlld/learningwebgpu)
-- [spite/Wagner](https://github.com/spite/wagner)
-- [pixiv/three-vrm](https://github.com/pixiv/three-vrm)
+- [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next)
+- [juniorxsound/R3F.Multiplayer](https://github.com/juniorxsound/r3f.multiplayer)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/pmndrs/react-three-fiber (React Three Fiber)
 
 ---
 
-*Last updated: 2026-07-14 13:15 IST*
+*Last updated: 2026-07-18 01:22 IST*

@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Overview**: Open-source Python-based framework (`aiwaves-cn/agents`) for developing **data-centric, self-evolving autonomous language agents** leveraging LLMs.
-- **Core Features**: Enables **self-improvement** through iterative data-driven optimization and autonomous decision-making in agentic workflows.
-- **Use Cases**: Designed for scalable deployment of **autonomous agents** in LLM-driven applications, with active community support (5.9k+ stars, 482 forks).
+- **Framework Overview**: Open-source Python-based framework (`aiwaves-cn/agents`) designed for building **data-centric, self-evolving autonomous language agents** leveraging LLMs for dynamic adaptation and task execution.
+
+- **Core Capabilities**: Enables **autonomous agent development** with self-improvement mechanisms, integrating data-driven feedback loops for continuous performance optimization and task-specific customization.
+
+- **Technical Stack**: Built on Python, optimized for **LLM int
 
 ## Use Cases
 

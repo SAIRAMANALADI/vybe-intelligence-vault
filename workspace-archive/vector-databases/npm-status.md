@@ -29,9 +29,9 @@ selection_reason:
 
 ## Summary
 
-- **Operational Status**: npm services (www.npmjs.com, package installation/publishing/search, security audit, replication feed) reported 100% uptime over the past 90 days, with the website showing 99.93% uptime.
-- **Notification System**: Users can subscribe to email/SMS incident notifications via OTP verification, with data handling governed by Atlassian/npm privacy policies and reCAPTCHA protection.
-- **Incident Tracking**: No major outages or incidents recorded in the past 14 days (as of Jul
+- **npm Statuspage** provides real-time operational metrics for npm services, including website availability, package installation, publishing, search, security audits, and replication feeds, with 99.93% uptime over the past 90 days.
+- **Notification System** supports email and SMS alerts for incident creation, updates, and resolutions, with reCAPTCHA and Atlassian privacy policies governing data handling.
+- **Historical Data** includes incident tracking and uptime statistics, with no major outa
 
 ## Use Cases
 

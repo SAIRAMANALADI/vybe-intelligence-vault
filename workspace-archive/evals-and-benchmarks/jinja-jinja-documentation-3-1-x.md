@@ -12,7 +12,6 @@ resource_kind: template
 importance: medium
 tags:
 - benchmark
-- reddit
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -32,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Core Functionality**: Jinja is a high-performance templating engine enabling Python-like syntax in templates via placeholders, which are rendered into final documents when combined with provided data.
+- **Core Functionality**: Jinja is a high-performance templating engine enabling Python-like syntax in templates via placeholders, which are rendered into final documents when provided with data.
 
-- **Key Features**: Supports autoescaping, sandboxing, async operations, custom filters/tests, template inheritance, and integrates with frameworks like Flask/Django; includes extensions for i18n, loop controls, and debugging.
+- **Key Features**: Supports autoescaping, async operations, custom filters/tests, sandboxed environments, and integrates with frameworks like Flask/Django; includes bytecode caching and policy-based customization.
 
-- **API & Extensibility**: Provides a low-level to high-level API
+- **Template System**: Provides inheritance, whitespace control, conditional logic, and
 
 ## Use Cases
 

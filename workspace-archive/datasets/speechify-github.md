@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Meta-Voicebox**: First generative AI model for speech enabling cross-task generalization with state-of-the-art performance (GitHub: [SpeechifyInc/Meta-voicebox](https://github.com/SpeechifyInc/Meta-voicebox)).
-
-- **Speechify AI API SDKs**: Provides TypeScript and Python SDKs for interacting with Speechify's AI services, including legacy and current implementations (e.g., [speechify-api-sdk-typescript](https://github.com/SpeechifyInc/speechify-api-sdk-typescript)).
-
-- **Toolchain for Document
+- **Meta-Voicebox**: Implementation of Meta's generative AI model for speech, enabling cross-task generalization with state-of-the-art performance (594 stars, 32 forks).
+- **Speechify AI API SDKs**: Multi-language support (TypeScript, Python) for interfacing with Speechify's AI services, including legacy and current SDKs.
+- **Text Processing Libraries**: Open-source tools like `olmocr` (PDF linearization for LLM training) and `textract` (multi-format document text extraction) under active develo
 
 ## Use Cases
 

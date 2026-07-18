@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/about/security/
-published_at: '2026-06-25T23:00:30.793506+05:30'
-collected_at: '2026-06-25T23:00:30.793515+05:30'
+published_at: '2026-07-14T19:57:49.745177+05:30'
+collected_at: '2026-07-14T19:57:49.745190+05:30'
 tags:
 - rag
 - reddit
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:security-model
-first_seen: '2026-06-25T23:00:30.793515+05:30'
-last_seen: '2026-06-25T23:00:30.793515+05:30'
-last_checked: '2026-06-25T23:00:30.793515+05:30'
+first_seen: '2026-07-14T19:57:49.745190+05:30'
+last_seen: '2026-07-14T19:57:49.745190+05:30'
+last_checked: '2026-07-14T19:57:49.745190+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Trust Boundaries**: Hugo distinguishes between trusted (e.g., `layouts`, `static`) and untrusted (e.g., `content`, content adapters) sources, with inline shortcodes requiring explicit trust. The `hugo server` is restricted to local development.
-
-- **Runtime Security**: Hugo enforces sandboxing via a virtual file system, read-only access for user-defined components, and strict control over external binaries (e.g., Asciidoctor). Arbitrary OS command execution is disabled by design.
-
-- **Dependency & Output Security**: Hugo uses Go modules with `go.sum` for dependency integrity checks. HTML output follows OWASP-aligned defaults, escaping untrusted data unless explicitly marked as safe via `safe` functions. Markdown rendering sanitizes unsafe content by default.
+- **Trust Model**: Hugo distinguishes between trusted (templates, assets) and untrusted (content, content adapters) sources, with exceptions for inline shortcodes; the `hugo server` is trusted but restricted to local development.
+- **Runtime Security**: Hugo employs a virtual file system, read-only access for user-defined components, controlled external binaries, and a strict security policy with default protections to minimize vulnerabilities during the build process.
+- **Dependency & Output Security**: Hugo uses Go modules with `go.sum` for dependency integrity checks, aligns with OWASP standards for HTML output, and sanitizes unsafe content by default while allowing explicit trust via `safe` functions.
 
 ## Why It Matters
 
@@ -37,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T23:00:30.793506+05:30
+- Published: 2026-07-14T19:57:49.745177+05:30
 
 ## Related Tags
 

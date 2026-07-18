@@ -16,6 +16,7 @@ tags:
 - github-repo
 - html
 - scripts
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-OS Agent Framework**: Provides sandboxes, SDKs, and benchmarks for training/evaluating AI agents capable of full desktop control across macOS, Linux, and Windows.
-- **Virtualization & Containerization**: Implements virtualization frameworks (e.g., Apple's Virtualization Framework, Windows Sandbox) and containerization for isolated agent execution.
-- **Open-Source Toolkit**: Includes Lume (Swift-based), Manus (Python SDK), and benchmarking tools under an open-source license (HTML-based
+- **Multi-Platform Sandboxing**: Provides isolated, reproducible environments for training/evaluating AI agents across macOS, Linux, and Windows using platform-specific virtualization (e.g., Apple's Virtualization Framework, Windows Sandbox, containerization).
+
+- **Agent Development SDK**: Offers tools (e.g., Lume, Manus) to build Computer-Use Agents (CUAs) capable of full desktop automation, including GUI interaction, file system operations, and cross-application workflows.
+
+- **Benchmarking Su
 
 ## Use Cases
 

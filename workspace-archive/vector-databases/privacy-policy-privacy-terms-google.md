@@ -2,13 +2,13 @@
 title: Privacy Policy – Privacy & Terms – Google
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://accounts.google.com/TOS?loc=US&hl=en-US&privacy=true
+source_url: https://policies.google.com/privacy
 resource_id: blog:privacy-policy-privacy-terms-google
 local_vault_path: ai/rag/privacy-policy-privacy-terms-google.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -21,7 +21,7 @@ tags:
 - web-crawled
 - youtube
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Privacy Policy – Privacy & Terms – Google
@@ -30,15 +30,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Chrome) including unique identifiers, IP addresses, device/browser metadata, and user-generated content (emails, files, interactions) both for signed-in and unsigned-in users.
-- **Location & Activity Tracking**: Persistent location data collection via GPS, Wi-Fi, cell towers, and IP addresses, alongside activity logs (searches, ads viewed, communications) tied to user accounts or anonymized identifiers.
--
+- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Android) including account-linked info (emails, photos) and non-account data (IP, device identifiers, browser settings) tied to unique IDs for personalization and cross-session continuity.
+
+- **Activity & Location Tracking**: Logs user activity (searches, watch history, purchases) and location data (GPS, Wi-Fi, IP) with retention tied to account/device settings; includes call/message logs and third-party
 
 ## Use Cases
 
@@ -48,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://accounts.google.com/TOS?loc=US&hl=en-US&privacy=true
+Original source URL: https://policies.google.com/privacy
 
 ## Local Vault File
 

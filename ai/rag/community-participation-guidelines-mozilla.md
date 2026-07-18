@@ -3,9 +3,9 @@ title: Community Participation Guidelines — Mozilla
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.mozilla.org/about/governance/policies/participation
-published_at: '2026-06-24T23:25:55.388844+05:30'
-collected_at: '2026-06-24T23:25:55.388853+05:30'
+source_url: https://www.mozilla.org/about/governance/policies/participation/
+published_at: '2026-07-18T01:15:59.636728+05:30'
+collected_at: '2026-07-18T01:15:59.636741+05:30'
 tags:
 - hackernews
 - rag
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:community-participation-guidelines-mozilla
-first_seen: '2026-06-24T23:25:55.388853+05:30'
-last_seen: '2026-06-24T23:25:55.388853+05:30'
-last_checked: '2026-06-24T23:25:55.388853+05:30'
+first_seen: '2026-07-18T01:15:59.636741+05:30'
+last_seen: '2026-07-18T01:15:59.636741+05:30'
+last_checked: '2026-07-18T01:15:59.636741+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Scope & Applicability**: Guidelines apply to all Mozilla community interactions (online/offline), including events, forums, and social media, with enforcement extending to off-platform actions that impact community health.
+- **Inclusive Participation Framework**: Mozilla's guidelines enforce respectful, professional conduct across all community interactions (online/offline), mandating inclusion of diverse perspectives (e.g., remote participants, non-native speakers) and prohibiting derogatory language, violence, or unwelcome physical/sexual advances.
 
-- **Prohibited Behaviors**: Explicitly bans violence/threats, personal attacks, derogatory language (including misgendering), unwelcome sexual advances, disruptive behavior (heckling, intoxication), and retaliation against reporters.
+- **Accountability & Enforcement**: Violations trigger escalating consequences, from temporary removal to permanent bans; Mozilla staff face additional disciplinary actions per anti-harassment policies. False reports or retaliation are treated as violations.
 
-- **Enforcement & Reporting**: Violations trigger immediate corrective action (e.g., removal, bans), with investigations led by designated leads; false reports are also penalized. Reports triaged via `cpg-report@mozilla.com` with 24-hour response SLA.
+- **Reporting & Resolution**: Incidents are triaged by a designated lead, with investigations conducted confidentially; appeals are permitted post-resolution. Physical/virtual Mozilla spaces must designate safety contacts and display emergency protocols.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T23:25:55.388844+05:30
+- Published: 2026-07-18T01:15:59.636728+05:30
 
 ## Related Tags
 
@@ -50,4 +50,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.mozilla.org/about/governance/policies/participation
+Original source: https://www.mozilla.org/about/governance/policies/participation/

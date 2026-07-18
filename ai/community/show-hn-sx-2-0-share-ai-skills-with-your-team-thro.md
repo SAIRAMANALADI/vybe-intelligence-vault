@@ -13,13 +13,14 @@ collected_at: '2026-07-14T12:56:38.329672+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-sx-2-0-share-ai-skills-with-your-team-thro
 first_seen: '2026-07-14T09:09:46.769426+05:30'
 last_seen: '2026-07-14T12:56:38.329672+05:30'
 last_checked: '2026-07-14T12:56:38.329672+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder
 

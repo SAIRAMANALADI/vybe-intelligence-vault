@@ -8,12 +8,13 @@ local_vault_path: ai/rag/zilliztech-milvus-cli.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: tool
+resource_kind: workflow
 importance: medium
 tags:
 - github-repo
 - python
 - rag
+- scripts
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -25,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: tool
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **CLI Tool for Milvus**: Python-based command-line interface (CLI) designed for interacting with and managing Milvus vector databases, providing streamlined access to core functionalities.
-- **Repository Metadata**: 129 GitHub stars, 21 forks, last updated on 2026-06-16, with no additional topics or dependencies specified.
-- **Purpose**: Facilitates administrative and operational tasks (e.g., collection management, data insertion, querying) via terminal commands, enhancing usability for Milvus
+- **Python-based CLI tool** for Milvus vector database, enabling command-line interactions with Milvus clusters (e.g., collection management, data insertion, and querying).
+- **Supports Milvus 2.x APIs**, providing CRUD operations for vector data, indexes, and partitions via structured command-line syntax.
+- **Lightweight and open-source** (MIT License), with minimal dependencies, facilitating automation and integration in data pipelines.
 
 ## Use Cases
 

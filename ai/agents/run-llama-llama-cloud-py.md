@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama-cloud-py
-collected_at: '2026-07-09T01:35:25.431375+05:30'
-published_at: '2026-07-08T06:49:16Z'
+collected_at: '2026-07-18T01:12:16.091391+05:30'
+published_at: '2026-07-17T17:34:46Z'
 tags:
 - agents
 - github-repo
@@ -13,17 +13,17 @@ tags:
 - models
 - python
 - workflows
-stars: 47
+stars: 52
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-11-06T21:59:30Z'
-pushed_at: '2026-07-08T18:17:29Z'
+pushed_at: '2026-07-16T21:31:00Z'
 resource_id: github:run-llama/llama-cloud-py
-first_seen: '2026-07-09T01:35:25.431375+05:30'
-last_seen: '2026-07-09T01:35:25.431375+05:30'
-last_checked: '2026-07-09T01:35:25.431375+05:30'
+first_seen: '2026-07-18T01:12:16.091391+05:30'
+last_seen: '2026-07-18T01:12:16.091391+05:30'
+last_checked: '2026-07-18T01:12:16.091391+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Python SDK for LlamaParse**: Provides cloud-based OCR and document parsing capabilities via the `run-llama/llama-cloud-py` repository, enabling structured extraction from unstructured documents.
-
-- **Key Features**: Supports document-agent workflows, information extraction, and parsing with OCR integration, optimized for LlamaParse's cloud infrastructure.
-
-- **Metadata**: 47 stars, 11 forks, last updated 2026-07-08, primarily written in Python.
+- **Python SDK** for cloud-based OCR and document parsing using **LlamaParse**, enabling structured extraction from unstructured documents.
+- Supports **information extraction** and **parsing** with built-in OCR capabilities, optimized for integration with LLM workflows.
+- Provides **document-agent** functionality for automated processing, with recent updates as of **July 17, 2026**.
 
 ## Why It Matters
 
@@ -44,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: run-llama
-- Stars: 47
-- Forks: 11
+- Stars: 52
+- Forks: 13
 - Language: Python
 - Topics: agent, agents, document-agent, document-processing, information-extraction, llamaparse, ocr, parser, parsing
-- Last Updated: 2026-07-08T06:49:16Z
+- Last Updated: 2026-07-17T17:34:46Z
 - License: MIT
 - Archived: No
 - Created At: 2025-11-06T21:59:30Z
-- Pushed At: 2026-07-08T18:17:29Z
+- Pushed At: 2026-07-16T21:31:00Z
 
 ## Possible Use Cases
 

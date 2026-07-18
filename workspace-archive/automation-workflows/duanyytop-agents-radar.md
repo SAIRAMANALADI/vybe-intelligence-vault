@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-source AI Ecosystem Aggregator**: Automatically scrapes and synthesizes daily updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) into a unified digest.
-- **Bilingual Automation Pipeline**: Generates reports in both Chinese and English using GitHub Actions, with scheduled updates (last run: 2026-07-14T02:39:03Z).
-- **TypeScript Implementation**: Open-source repository (892 ⭐, 158 🍴) with no explicit topics, hosted at `github.com/duanyytop/agents-ra
+- **Aggregation Pipeline**: Automated daily digest of AI ecosystem updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions.
+- **Bilingual Output**: Generates reports in both Chinese and English using TypeScript.
+- **Metadata**: 908 stars, 163 forks, last updated 2026-07-17T12:27:38Z.
 
 ## Use Cases
 

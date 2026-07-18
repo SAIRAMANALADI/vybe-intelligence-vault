@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://ai.google.dev/gemini-api
-published_at: '2026-07-08T14:25:21.819800+05:30'
-collected_at: '2026-07-08T14:25:21.819814+05:30'
+published_at: '2026-07-14T19:59:53.863689+05:30'
+collected_at: '2026-07-14T19:59:53.863703+05:30'
 tags:
 - agents
 - web-crawled
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:gemini-api-google-ai-for-developers
-first_seen: '2026-07-08T14:25:21.819814+05:30'
-last_seen: '2026-07-08T14:25:21.819814+05:30'
-last_checked: '2026-07-08T14:25:21.819814+05:30'
+first_seen: '2026-07-14T19:59:53.863703+05:30'
+last_seen: '2026-07-14T19:59:53.863703+05:30'
+last_checked: '2026-07-14T19:59:53.863703+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactions API** is Google's recommended API for agentic workflows, state management, and latest models (e.g., `gemini-3.5-flash`), replacing legacy methods for prompt-to-production pipelines.
-- Supports **multi-modal generation** (text, images via Nano Banana, video via Veo 3.1) and **advanced capabilities** like long-context processing (millions of tokens), structured JSON outputs, and real-time voice agents.
-- Provides **SDKs** (Python, JavaScript) and **REST API** for integration, with built-in tools (Google Search, Code Execution, Computer Use) and robotics-focused models (Gemini Robotics).
+- **Interactions API**: General availability for integrating Gemini models (e.g., `gemini-3.5-flash`) into applications via Python, JavaScript, or REST, enabling text generation, multimodal analysis, and conversational agents.
+
+- **Model Suite**: Includes state-of-the-art models like `Gemini 3.1 Pro` (multimodal reasoning), `Gemini 3.5 Flash` (cost-efficient frontier performance), `Nano Banana 2` (image generation), and `Veo 3.1` (video generation with native audio).
+
+- **Capabilities**: Supports structured outputs (JSON), function calling, long-context processing (millions of tokens), document understanding (1000+ pages), and real-time voice agents via the Live API.
 
 ## Why It Matters
 
@@ -35,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-08T14:25:21.819800+05:30
+- Published: 2026-07-14T19:59:53.863689+05:30
 
 ## Related Tags
 

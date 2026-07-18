@@ -2,7 +2,7 @@
 title: Get extra features on YouTube TV with 4K Plus - Computer - YouTube TV Help
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://support.google.com/youtubetv/answer/10383365?hl=en
+source_url: https://support.google.com/youtubetv/answer/10383365#zippy=%2Ck-playback
 resource_id: blog:get-extra-features-on-youtube-tv-with-4k-plus-comp
 local_vault_path: ai/rag/get-extra-features-on-youtube-tv-with-4k-plus-comp.md
 quality_score: 70
@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **4K Plus Add-on Features**: Enables 4K Ultra HD playback for select live/on-demand content, unlimited concurrent in-home streams, and offline DVR recording downloads (mobile-only) for YouTube TV subscribers.
-- **Device & Network Requirements**: 4K playback requires compatible devices (e.g., 4K smart TVs, Chromecast with Google TV, Apple TV 4K) and a minimum 25 Mbps download speed; offline downloads expire after 9 months.
-- **Subscription & Limitations**: Add-on pricing varies; unlimited in-ho
+- **4K Plus Add-On Features**: Enables 4K UHD playback for select live/on-demand content, unlimited concurrent in-home streams, and offline DVR downloads (mobile-only) on YouTube TV.
+- **Hardware/Compatibility Requirements**: 4K playback requires compatible devices (e.g., 4K Android TVs, Chromecast with Google TV, Apple TV 4K) and a 25+ Mbps connection with HDCP 2.2-compliant HDMI.
+- **Offline Viewing & Stream Limits**: DVR recordings expire after 9 months; downloads are device-specific and requ
 
 ## Use Cases
 
@@ -45,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://support.google.com/youtubetv/answer/10383365?hl=en
+Original source URL: https://support.google.com/youtubetv/answer/10383365#zippy=%2Ck-playback
 
 ## Local Vault File
 

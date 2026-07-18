@@ -14,7 +14,6 @@ tags:
 - agents
 - hackernews
 - rag
-- scripts
 - web-crawled
 - workflows
 - youtube
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **AI Integration**: Chrome's `auto_awesome` AI tools enable developers to leverage AI capabilities directly within the browser for enhanced web development workflows.
-- **Performance & Quality Tools**: Chrome provides Core Web Vitals monitoring, CSS/UI optimizations, identity management, and payment APIs to ensure high-quality user experiences.
-- **Automation & Testing**: Chrome DevTools, Puppeteer, ChromeDriver, and Chrome for Testing facilitate debugging, performance analysis, and automated
+- **Chrome 151 Beta** introduces CSS gap decorations, WebSocket bfcache disconnect handling, and `Intl.Locale` variants, enhancing rendering and internationalization support.
+- **Chrome DevTools** provides real-time debugging, performance profiling, and source editing capabilities directly in the browser for optimized web development workflows.
+- **Chrome Extensions** leverage HTML/CSS/JS for customizing browsing experiences, with deployment via the Chrome Web Store for distribution.
 
 ## Use Cases
 

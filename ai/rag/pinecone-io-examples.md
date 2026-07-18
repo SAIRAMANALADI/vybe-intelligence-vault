@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pinecone-io/examples
-collected_at: '2026-07-14T12:59:13.949301+05:30'
-published_at: '2026-07-12T08:37:06Z'
+collected_at: '2026-07-18T01:06:38.039431+05:30'
+published_at: '2026-07-16T04:02:32Z'
 tags:
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
 - workflows
-stars: 3027
+stars: 3028
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2021-03-09T19:42:10Z'
 pushed_at: '2026-07-11T20:48:20Z'
 resource_id: github:pinecone-io/examples
-first_seen: '2026-07-14T12:59:13.949301+05:30'
-last_seen: '2026-07-14T12:59:13.949301+05:30'
-last_checked: '2026-07-14T12:59:13.949301+05:30'
+first_seen: '2026-07-18T01:06:38.039431+05:30'
+last_seen: '2026-07-18T01:06:38.039431+05:30'
+last_checked: '2026-07-18T01:06:38.039431+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Provides Jupyter Notebooks for hands-on experimentation with Pinecone vector databases, covering topics like RAG, semantic search, and vector search.
-- **Technical Stack**: Implemented in Python with Jupyter Notebooks, integrating AI/ML workflows for LLM applications.
-- **Metadata**: 3,027 stars, 1,072 forks, last updated July 12, 2026, with topics including vector databases, semantic search, and AI.
+- **Repository Overview**: Provides Jupyter Notebooks for hands-on experimentation with Pinecone vector databases, covering topics like AI, LLM, RAG, semantic search, and vector search.
+- **Technical Stack**: Primarily uses Python in Jupyter Notebooks, with integrations for vector databases, LLMs, and semantic search workflows.
+- **Metadata**: 3,028 stars, 1,073 forks, last updated July 16, 2026. Topics include `ai`, `pinecone`, `vector-database`, and `rag`.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pinecone-io
-- Stars: 3027
-- Forks: 1072
+- Stars: 3028
+- Forks: 1073
 - Language: Jupyter Notebook
 - Topics: ai, jupyter-notebook, llm, pinecone, python, rag, semantic-search, vector-database, vector-search
-- Last Updated: 2026-07-12T08:37:06Z
+- Last Updated: 2026-07-16T04:02:32Z
 - License: MIT
 - Archived: No
 - Created At: 2021-03-09T19:42:10Z

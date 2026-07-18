@@ -9,9 +9,9 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-60%2C211-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-62%2C940-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
-[![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--14-374151?style=flat-square)](#)
+[![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--18-374151?style=flat-square)](#)
 
 [Overview](#-overview) · [How It Works](#-how-it-works) · [Architecture](#-architecture) · [Quick Start](#-quick-start) · [Vault Stats](#-vault-stats) · [Contributing](#-contributing)
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 12,177</p>
-        <p><b>Active:</b> 11,906 | <b>Inactive:</b> 271</p>
+        <p><b>Resources tracked:</b> 12,734</p>
+        <p><b>Active:</b> 12,441 | <b>Inactive:</b> 293</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 48,034</p>
+        <p><b>Archive Files:</b> 50,206</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 60,211 files</p>
-        <p><b>Last Update:</b> 2026-07-14 13:31 IST</p>
+        <p><b>Total Vault Size:</b> 62,940 files</p>
+        <p><b>Last Update:</b> 2026-07-18 05:22 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,25 +210,24 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](ai/community/apple-s-new-speechanalyzer-api-benchmarked-against.md)** • <kbd>+37 pts</kbd>
-- 🔼 **[Show HN: Jacquard, a programming language for AI-written, human-reviewed code](ai/community/jbwinters-jacquard-lang.md)** • <kbd>+20 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Building Food Metadata with LLM Juries](ai/community/building-food-metadata-with-llm-juries.md)** • <kbd>+13 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder](ai/community/show-hn-sx-2-0-share-ai-skills-with-your-team-thro.md)** • <kbd>+10 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Subresource Integrity - Security | MDN](ai/resources/subresource-integrity-security-mdn.md)** • Rank: <kbd>+1030</kbd>
+- 🔼 **[Medium Members Can Listen To Any Medium Story With The Speechify Play Button | Speechify](ai/rag/medium-members-can-listen-to-any-medium-story-with.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Home - The GitHub Blog](ai/resources/home-the-github-blog.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[LinkedIn](ai/resources/linkedin.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[GitHub Changelog](ai/resources/github-changelog.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[The Agent Skills Directory](ai/agents/the-agent-skills-directory.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[OpenAI's Ad Business Is on Pace to Miss Its Own Forecast by 90%, Analyst Says](ai/community/openai-s-ad-business-is-on-pace-to-miss-its-own-fo.md)** • Score: `27`
-- 🆕 **[Home - World Federation of Advertisers](ai/resources/home-world-federation-of-advertisers.md)** • Score: `0`
-- 🆕 **[YourOnlineChoices.eu - Make a complaint](ai/resources/youronlinechoices-eu-make-a-complaint.md)** • Score: `0`
-- 🆕 **[Web EDAA - YouTube](ai/resources/web-edaa-youtube.md)** • Score: `0`
-- 🆕 **[Delete, allow, and manage cookies in Chrome - Computer - Google Chrome Help](ai/rag/delete-allow-and-manage-cookies-in-chrome-computer.md)** • Score: `0`
+- 🆕 **[EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI](ai/companies/mistral/bringing-more-control-over-your-connectors.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[ProductIntroducing Search ToolkitProduction search pipelines, anywhere.May 28, 2026By Mistral](ai/companies/mistral/introducing-search-toolkit.md)** • Score: `0`
+- 🆕 **[CompanyAI Now Summit 2026Innovations for global enterprises solving the world’s hardest problems. May 28, 2026By Mistral](ai/companies/mistral/ai-now-summit-2026.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Telegram's t.me domain has been suspended](ai/community/telegram-s-t-me-domain-has-been-suspended.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

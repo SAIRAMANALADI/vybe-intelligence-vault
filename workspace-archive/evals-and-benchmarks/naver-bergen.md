@@ -12,11 +12,11 @@ resource_kind: framework
 importance: medium
 tags:
 - benchmark
+- dataset
 - github-repo
 - jupyter notebook
 - rag
 - reddit
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-*   RAG benchmarking library designed for evaluating retrieval, augmentation, and generation components.
-*   Targets LLM-centric workflows, encompassing augmentation, generation, and retrieval strategies.
-*   Developed using Jupyter Notebooks, indicating an interactive and iterative development/evaluation environment.
+- **Purpose**: `bergen` is a benchmarking library designed to evaluate Retrieval-Augmented Generation (RAG) systems, focusing on retrieval and generation performance.
+- **Features**: Supports augmentation, generation, and evaluation of LLMs in RAG pipelines with standardized metrics and datasets.
+- **Implementation**: Written in Jupyter Notebook, enabling modular and reproducible experimentation for RAG system assessment.
 
 ## Use Cases
 

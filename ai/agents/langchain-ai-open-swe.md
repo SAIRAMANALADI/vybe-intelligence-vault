@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-07-10T13:21:07.592356+05:30'
-published_at: '2026-07-10T00:47:09Z'
+collected_at: '2026-07-18T01:08:18.096887+05:30'
+published_at: '2026-07-17T18:40:45Z'
 tags:
 - agents
 - anthropic
@@ -13,17 +13,17 @@ tags:
 - openai
 - python
 - workflows
-stars: 10130
+stars: 10323
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-05-21T21:44:24Z'
-pushed_at: '2026-07-10T06:25:01Z'
+pushed_at: '2026-07-17T18:48:40Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-07-10T13:21:07.592356+05:30'
-last_seen: '2026-07-10T13:21:07.592356+05:30'
-last_checked: '2026-07-10T13:21:07.592356+05:30'
+first_seen: '2026-07-18T01:08:18.096887+05:30'
+last_seen: '2026-07-18T01:08:18.096887+05:30'
+last_checked: '2026-07-18T01:08:18.096887+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Open-SWE is an open-source framework for building asynchronous coding agents that interact with LLMs (e.g., OpenAI, Anthropic) to execute, debug, and optimize code dynamically.
-
-- **Multi-Model Support**: Integrates with major LLM providers (OpenAI, Anthropic) and tools like ClaudeCode, enabling cross-platform compatibility for agentic workflows in Python.
-
-- **Scalable & Extensible**: Designed for high concurrency with async/await patterns, supporting custom tooling and workflows for automated software engineering tasks.
+- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for autonomous code generation and debugging using LLMs (OpenAI, Anthropic, etc.).
+- **Multi-Agent Orchestration**: Supports parallelized agent workflows with dynamic task delegation, tool integration, and state management for scalable code execution.
+- **Extensible Tooling**: Provides modular interfaces for custom tool integration (e.g., file I/O, shell commands) and supports both synchronous/asynchronous execution modes.
 
 ## Why It Matters
 
@@ -44,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 10130
-- Forks: 1163
+- Stars: 10323
+- Forks: 1172
 - Language: Python
 - Topics: agent, agents, ai, anthropic, claudecode, llm, llms, openai
-- Last Updated: 2026-07-10T00:47:09Z
+- Last Updated: 2026-07-17T18:40:45Z
 - License: MIT
 - Archived: No
 - Created At: 2025-05-21T21:44:24Z
-- Pushed At: 2026-07-10T06:25:01Z
+- Pushed At: 2026-07-17T18:48:40Z
 
 ## Possible Use Cases
 

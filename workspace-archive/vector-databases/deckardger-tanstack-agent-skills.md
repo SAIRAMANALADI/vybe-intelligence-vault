@@ -14,10 +14,10 @@ tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - rag
 - reddit
 - unknown
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -36,9 +36,9 @@ selection_reason:
 
 - **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications, leveraging TanStack Query's reactivity and performance optimizations.
 
-- **Router Best Practices for AI Agents**: Provides structured routing strategies using TanStack Router to handle dynamic, AI-generated navigation paths with type safety and minimal re-renders.
+- **Router Best Practices for AI Agents**: Implements structured routing strategies using TanStack Router to handle dynamic, AI-generated navigation paths while maintaining type safety and performance.
 
-- **Start Framework Integration**: Outlines initialization and lifecycle m
+- **Start Framework Integration**: Provides guidelines for initial
 
 ## Use Cases
 

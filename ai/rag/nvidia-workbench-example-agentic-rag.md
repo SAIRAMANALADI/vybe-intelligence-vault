@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-agentic-rag
-collected_at: '2026-07-14T12:59:13.915949+05:30'
-published_at: '2026-07-12T16:00:05Z'
+collected_at: '2026-07-18T01:06:38.055114+05:30'
+published_at: '2026-07-15T11:18:06Z'
 tags:
 - agents
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-14T17:08:04Z'
 pushed_at: '2026-06-11T22:51:59Z'
 resource_id: github:nvidia/workbench-example-agentic-rag
-first_seen: '2026-07-14T12:59:13.915949+05:30'
-last_seen: '2026-07-14T12:59:13.915949+05:30'
-last_checked: '2026-07-14T12:59:13.915949+05:30'
+first_seen: '2026-07-18T01:06:38.055114+05:30'
+last_seen: '2026-07-18T01:06:38.055114+05:30'
+last_checked: '2026-07-18T01:06:38.055114+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Implementation**: Demonstrates an autonomous Retrieval-Augmented Generation (RAG) pipeline leveraging NVIDIA AI Workbench, integrating retrieval, reasoning, and generation components for dynamic task execution.
+- **Purpose**: Demonstrates an Agentic Retrieval-Augmented Generation (RAG) pipeline using NVIDIA AI Workbench, integrating multi-agent orchestration with retrieval-augmented generation for dynamic workflows.
 
-- **Jupyter Notebook-Based Workflow**: Provides a structured, interactive environment for prototyping and experimenting with agentic RAG systems, emphasizing modularity and reproducibility.
+- **Implementation**: Implemented in Jupyter Notebook, leveraging NVIDIA's AI Workbench for agent-based RAG, enabling modular, scalable, and interactive AI-driven document processing and query resolution.
 
-- **NVIDIA Ecosystem Integration**: Utilizes NVIDIA’s AI/ML tooling (e.g., GPUs, frameworks) for optimized performance, with dependencies managed via AI Workbench’s containerized environments.
+- **Key Features**: Supports agentic decision-making for retrieval, integrates with NVIDIA's ecosystem for optimized performance, and provides a template for customizable RAG applications.
 
 ## Why It Matters
 
@@ -44,10 +44,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: NVIDIA
 - Stars: 166
-- Forks: 232
+- Forks: 231
 - Language: Jupyter Notebook
 - Topics: None
-- Last Updated: 2026-07-12T16:00:05Z
+- Last Updated: 2026-07-15T11:18:06Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-08-14T17:08:04Z

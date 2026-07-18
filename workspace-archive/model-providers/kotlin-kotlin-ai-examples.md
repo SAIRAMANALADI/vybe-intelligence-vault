@@ -16,6 +16,7 @@ tags:
 - hackernews
 - jupyter notebook
 - openai
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Kotlin-based collection of AI examples integrating frameworks like Spring AI and LangChain4j, with Jupyter Notebooks for interactive learning.
-- **Technical Stack**: Focuses on Kotlin, AI inference, and OpenAI integration, covering agents and LangChain4j with Spring AI support.
-- **Metadata**: 265 stars, 32 forks, last updated July 2, 2026. Topics include AI, Kotlin, and OpenAI.
+- **Multi-Framework AI Examples**: Repository showcasing Kotlin implementations of AI frameworks including **Spring AI** and **LangChain4j**, with hands-on Jupyter notebooks for practical learning.
+- **Technical Stack**: Primarily uses **Kotlin** with **Jupyter Notebooks**, covering topics like **agents, inference, OpenAI integration**, and **AI-driven workflows**.
+- **Metadata**: Last updated **July 2026**, with **265 stars** and **32 forks**, focusing on AI/ML applications in Kotlin.
 
 ## Use Cases
 

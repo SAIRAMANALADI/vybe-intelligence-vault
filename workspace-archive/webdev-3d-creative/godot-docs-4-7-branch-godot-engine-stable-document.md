@@ -6,7 +6,7 @@ source_url: https://docs.godotengine.org/en/
 resource_id: blog:godot-docs-4-7-branch-godot-engine-stable-document
 local_vault_path: ai/rag/godot-docs-4-7-branch-godot-engine-stable-document.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Webdev 3D Creative`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform game engine**: Godot supports multiple platforms (Windows, macOS, Linux, BSD, iOS, Android, etc.) with a unified editor and export workflow, utilizing a custom engine architecture optimized for performance and flexibility.
+- **Godot Engine** is an open-source, cross-platform game engine supporting 2D/3D rendering, physics (2D/3D), shaders, scripting (GDScript, C#, C++ via GDExtension), audio, networking, and XR (AR/VR) with a modular architecture.
 
-- **Scripting & extensibility**: Primarily uses GDScript (Python-like, optimized for Godot) but supports C#, C++, and visual scripting; features GDExtension for native module integration and a plugin-based architecture for extensibility.
+- **Core design principles** include minimal core feature set, avoidance of STL/exceptions, and optional ECS/DOD enforcement, prioritizing flexibility and performance optimization.
 
-- **Rendering & ph
+- **Licensing compliance** requires inclusion of third-party licenses in credits, output
 
 ## Use Cases
 

@@ -6,11 +6,12 @@ source_url: https://txt.cohere.com/rerank/
 resource_id: blog:cohere-rerank-say-goodbye-to-irrelevant-search-res
 local_vault_path: ai/rag/cohere-rerank-say-goodbye-to-irrelevant-search-res.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
+- benchmark
 - hackernews
 - producthunt
 - rag
@@ -25,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -33,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Cohere's Embedding Models**: Introduced state-of-the-art multilingual embedding models (e.g., `multilingual-22-12`) optimized for semantic search, classification, and clustering across 100+ languages with improved performance and efficiency.
+- **Cohere's Embedding Models**: Introduced new embedding models (e.g., `embed-english-v3.0`, `embed-multilingual-v3.0`) optimized for retrieval tasks with improved performance and reduced latency via distillation techniques.
 
-- **Enhanced Retrieval Pipeline**: Implemented a hybrid retrieval system combining dense vector search with traditional keyword-based methods, leveraging Cohere’s reranker models to improve precision and recall in information retrieval tasks.
+- **Enhanced Multilingual Support**: Launched `embed-multilingual-v3.0` supporting 100+ languages, leveraging contrastive learning for better cross-lingual semantic alignment and retrieval accuracy.
 
-- **Scala
+- **Efficiency Improvements**: Achieved 2x faster inference and 30% lower
 
 ## Use Cases
 

@@ -4,26 +4,26 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-07-14T13:01:13.992582+05:30'
-published_at: '2026-07-10T09:43:36Z'
+collected_at: '2026-07-18T01:08:38.080459+05:30'
+published_at: '2026-07-16T09:31:14Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - rag
 - reddit
 - unknown
-stars: 194
+- workflows
+stars: 195
 language: Unknown
 status: active
 archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-07-14T13:01:13.992582+05:30'
-last_seen: '2026-07-14T13:01:13.992582+05:30'
-last_checked: '2026-07-14T13:01:13.992582+05:30'
+first_seen: '2026-07-18T01:08:38.080459+05:30'
+last_seen: '2026-07-18T01:08:38.080459+05:30'
+last_checked: '2026-07-18T01:08:38.080459+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,9 @@ health_score: 100
 
 - **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications, leveraging TanStack Query's reactivity and performance optimizations.
 
-- **Router Best Practices for AI Agents**: Provides structured routing strategies using TanStack Router to handle dynamic, AI-generated navigation paths with type safety and minimal re-renders.
+- **Router Best Practices for AI Agents**: Implements structured routing strategies using TanStack Router to handle dynamic, AI-generated navigation paths while maintaining type safety and performance.
 
-- **Start Framework Integration**: Outlines initialization and lifecycle management techniques for TanStack Start in AI coding agents, ensuring scalable and maintainable application bootstrapping.
+- **Start Framework Integration**: Provides guidelines for initializing and scaling AI agents with TanStack Start, focusing on modular architecture and state management for high-performance agent workflows.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: DeckardGer
-- Stars: 194
+- Stars: 195
 - Forks: 18
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-10T09:43:36Z
+- Last Updated: 2026-07-16T09:31:14Z
 - Archived: No
 - Created At: 2026-01-16T07:31:33Z
 - Pushed At: 2026-04-03T05:02:53Z

@@ -6,13 +6,12 @@ source_url: https://github.com/run-llama
 resource_id: blog:llamaindex-github
 local_vault_path: ai/rag/llamaindex-github.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
+archive_score: 77
+archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
-- hackernews
 - meta-ai
 - models
 - rag
@@ -29,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -37,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **LlamaParse Cloud Services**: Provides SOTA agentic OCR via `Parse` (document parsing), `Extract` (structured data extraction), and a unified `Platform` for document workflows and agent integration.
+- **LlamaParse Cloud Services**: Provides SOTA agentic OCR via `Parse` and `Extract` APIs for document processing workflows, with platform documentation available at [developers.llamaindex.ai](https://developers.llamaindex.ai/python/cloud/).
 
-- **Open-Source Tooling**: Includes `LiteParse` (lightweight parsing), `LlamaAgents` (modular agent framework), and `LlamaIndex` (Python library) for custom document processing pipelines and agent orchestration.
+- **Open-Source Tooling**: Includes `LiteParse` (lightweight OCR), `LlamaAgents` (agent framework), and `LlamaIndex` (Python library) for document indexing and retrieval, with respective docs linked in GitHub repositories.
 
-- **Multi-Channel Support**: Offers official documentation, GitHub repositories, and
+- **Community & Support**: Mainta
 
 ## Use Cases
 

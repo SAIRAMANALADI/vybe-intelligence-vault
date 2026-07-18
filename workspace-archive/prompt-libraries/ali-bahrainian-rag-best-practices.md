@@ -8,7 +8,7 @@ local_vault_path: ai/rag/ali-bahrainian-rag-best-practices.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - benchmark
@@ -18,7 +18,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # ali-bahrainian/RAG_best_practices
@@ -27,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Prompt Libraries`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Repository Overview**: Python-based collection of best practices for Retrieval-Augmented Generation (RAG) systems, maintained by ali-bahrainian.
-- **Activity Metrics**: 107 stars, 20 forks, last updated on 2026-06-19.
-- **Purpose**: Focuses on technical implementation guidelines for optimizing RAG pipelines (e.g., retrieval strategies, prompt engineering, evaluation frameworks).
+- **Repository Overview**: A Python-based GitHub repository (`ali-bahrainian/RAG_best_practices`) focused on best practices for Retrieval-Augmented Generation (RAG) systems, with 107 stars and 20 forks.
+- **Technical Scope**: Contains implementation examples and guidelines for optimizing RAG pipelines, including retrieval strategies, prompt engineering, and evaluation metrics.
+- **Last Updated**: June 19, 2026, indicating active maintenance or recent development.
 
 ## Use Cases
 

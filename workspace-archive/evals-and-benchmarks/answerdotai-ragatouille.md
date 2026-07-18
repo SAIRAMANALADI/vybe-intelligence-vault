@@ -1,42 +1,44 @@
 ---
-title: AnswerDotAI/RAGatouille
+title: RAGatouille/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb
+  at main · AnswerDotAI/RAGat
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://github.com/AnswerDotAI/RAGatouille
+source_url: https://github.com/AnswerDotAI/RAGatouille/blob/main/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb
 resource_id: github:answerdotai/ragatouille
 local_vault_path: ai/rag/answerdotai-ragatouille.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
-- github-repo
-- python
+- models
 - rag
+- web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
-# AnswerDotAI/RAGatouille
+# RAGatouille/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb at main · AnswerDotAI/RAGat
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Modular ColBERT Integration**: Provides a Python library for seamless integration and training of ColBERT (Contextualized Late Interaction over BERT) in RAG pipelines, emphasizing modularity and ease of use.
+- **RAGatouille**: A GitHub repository by AnswerDotAI implementing Retrieval-Augmented Generation (RAG) with ColBERTv2 for efficient, state-of-the-art dense retrieval and late interaction.
 
-- **State-of-the-Art Retrieval**: Implements late-interaction retrieval methods, enabling efficient and accurate document retrieval in RAG systems.
+- **Fine-tuning without annotations**: Demonstrates a method to fine-tune models using RAGatouille and Instructor embeddings without requiring labeled data, leveraging synthetic or weakly supervised signals.
 
-- **Research-Backed & Maintained**: Actively maintained (last updated July 2026) with a growing community (3.9k+ stars, 270+ forks), ensur
+- **Example notebook**: Includes `03-finetuning_without_annotations_with_instructor_and_RAGatouille.i
 
 ## Use Cases
 
@@ -46,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/AnswerDotAI/RAGatouille
+Original source URL: https://github.com/AnswerDotAI/RAGatouille/blob/main/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb
 
 ## Local Vault File
 

@@ -4,14 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/data-enrichment
-collected_at: '2026-07-14T13:02:29.161185+05:30'
-published_at: '2026-07-12T16:46:51Z'
+collected_at: '2026-07-18T01:09:53.203283+05:30'
+published_at: '2026-07-16T02:29:04Z'
 tags:
 - agents
+- dataset
 - github-repo
+- hackernews
 - jupyter notebook
-- workflows
-stars: 237
+stars: 238
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-08-28T15:50:13Z'
 pushed_at: '2026-07-02T05:17:50Z'
 resource_id: github:langchain-ai/data-enrichment
-first_seen: '2026-07-14T13:02:29.161185+05:30'
-last_seen: '2026-07-14T13:02:29.161185+05:30'
-last_checked: '2026-07-14T13:02:29.161185+05:30'
+first_seen: '2026-07-18T01:09:53.203283+05:30'
+last_seen: '2026-07-18T01:09:53.203283+05:30'
+last_checked: '2026-07-18T01:09:53.203283+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   LangGraph Studio template for an autonomous agent specializing in web research for structured data generation and enrichment.
-*   Utilizes LangGraph-Python to orchestrate multi-step, stateful workflows for data processing.
-*   Implemented as a Jupyter Notebook, enabling interactive development and deployment of LangGraph-based agents.
+- **Purpose**: LangGraph Studio template for constructing an agent that performs web research to generate or enrich structured datasets.
+- **Technical Stack**: Utilizes LangGraph (Python) within Jupyter Notebooks for agent orchestration and data processing.
+- **Repository Metadata**: 238 stars, 58 forks; last updated July 16, 2026.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 237
+- Stars: 238
 - Forks: 58
 - Language: Jupyter Notebook
 - Topics: langgraph, langgraph-python, langgraph-template
-- Last Updated: 2026-07-12T16:46:51Z
+- Last Updated: 2026-07-16T02:29:04Z
 - License: MIT
 - Archived: No
 - Created At: 2024-08-28T15:50:13Z

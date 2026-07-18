@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-07-14T13:01:08.966429+05:30'
+collected_at: '2026-07-18T01:08:38.145458+05:30'
 published_at: '2026-07-11T18:10:54Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-07-14T13:01:08.966429+05:30'
-last_seen: '2026-07-14T13:01:08.966429+05:30'
-last_checked: '2026-07-14T13:01:08.966429+05:30'
+first_seen: '2026-07-18T01:08:38.145458+05:30'
+last_seen: '2026-07-18T01:08:38.145458+05:30'
+last_checked: '2026-07-18T01:08:38.145458+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Hosts a structured wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-- **Technical Stack**: Primarily shell-based, with integration for agentic AI, MCP, and CLI tools to enhance LLM-driven development workflows.
-- **Metadata**: 62 stars, 11 forks, last updated July 11, 2026; covers topics like Anthropic’s Claude, AI agentic patterns, and developer tooling.
+- **Repository Structure**: Provides a structured wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
+- **Technical Focus**: Primarily Shell-based, emphasizing CLI tools, MCP (Model Context Protocol), and integration with Anthropic's LLM frameworks for agentic AI workflows.
+- **Maintenance & Updates**: Last updated on 2026-07-11, with 62 stars and 13 forks, indicating active community engagement and iterative improvements.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: MuhammadUsmanGM
 - Stars: 62
-- Forks: 11
+- Forks: 13
 - Language: Shell
 - Topics: agentic-ai, ai, anthropic, best-practices, claude, claude-code, cli, developer-tools, llm, mcp, templates
 - Last Updated: 2026-07-11T18:10:54Z

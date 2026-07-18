@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - workflows
 selection_reason:
@@ -33,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **WhatsApp Agent Framework**: Template for deploying AI agents on WhatsApp using LangGraph and Twilio, enabling message/image processing and graph-based agent invocation.
-- **Integration & Deployment**: Supports MCP integration and runs on the LangGraph Platform, facilitating custom agent workflows.
-- **Tech Stack**: Python-based repository with active updates (last commit: 2026-07-13), 234 stars, and 96 forks.
+- **Framework Integration**: Template for deploying AI agents on WhatsApp using **LangGraph** for graph-based workflows and **Twilio** for WhatsApp API integration, supporting message/image processing and custom agent invocation.
+
+- **MCP & LangGraph Platform**: Incorporates **Model Context Protocol (MCP)** for tool/function calling and is designed to run on the **LangGraph Platform**, enabling scalable, graph-based agent orchestration.
+
+- **Technical Stack**: Implemented in **Python**, with las
 
 ## Use Cases
 

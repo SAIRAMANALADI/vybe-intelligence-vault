@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Structure**: Provides a 10-phase perpetual autonomous agent loop template designed for AIBTC, enabling continuous self-improvement via a self-updating prompt mechanism.
-- **Production-Ready**: Built on 166+ production cycles, ensuring robustness and scalability for autonomous agent deployments.
-- **GitHub Repository**: Hosted at `secret-mars/loop-starter-kit`, last updated on 2026-04-15, with 20 forks and no stars (as of the given metadata).
+- **Autonomous Agent Loop Template**: Provides a 10-phase perpetual cycle framework for AIBTC agents, designed for self-sustaining operation with an auto-updating prompt mechanism.
+- **Production-Ready Foundation**: Built on 166+ validated production cycles, ensuring robustness for deployment in autonomous agent systems.
+- **GitHub Repository**: Hosted at `secret-mars/loop-starter-kit`, last updated on **2026-04-15**, with 20 forks and no stars.
 
 ## Use Cases
 

@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Milvus v3.0-beta** introduces **Streaming Node** for enhanced data processing, **Woodpecker MQ** for optimized message queueing with reduced overhead, and an **optimized architecture** consolidating components for improved performance.
+- **Milvus v3.0.x** introduces **Streaming Node** for enhanced data processing, **Woodpecker MQ** (a low-maintenance message queue), and an **optimized architecture** with consolidated components for improved performance.
 
-- **Docker deployment** of Milvus uses a single container (`milvus`) exposing ports **19530 (Milvus)** and **2379 (embedded etcd)**, with data volumes mapped to `./volumes/milvus` and configurations modifiable via `user.yaml`.
+- **Docker deployment** via `standalone_embed.sh` automates Milvus setup in a containerized environment, exposing ports **19530** (Milvus) and **2379** (embedded etcd), with data persistence mapped to `./volumes/milvus`.
 
-- **Managed Milvus** via **Zill
+- **Configuration management** allows runtime updates v
 
 ## Use Cases
 

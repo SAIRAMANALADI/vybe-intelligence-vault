@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Implementation**: Practical Retrieval-Augmented Generation (RAG) system enabling interaction with GitHub repositories via natural language queries.
-- **Technical Stack**: Python-based, leveraging vector embeddings for repository indexing and retrieval, with LLM integration for contextual chat.
-- **Deployment**: Self-hostable solution with local download capability for GitHub repos, last updated June 2026.
+- **Purpose**: Implements a Retrieval-Augmented Generation (RAG) system enabling users to download and interactively query GitHub repositories via natural language.
+- **Technical Stack**: Built in Python, leveraging RAG architecture for document retrieval and generation.
+- **Metadata**: 97 stars, 20 forks; last updated on 2026-06-30.
 
 ## Use Cases
 

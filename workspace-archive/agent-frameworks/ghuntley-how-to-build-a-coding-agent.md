@@ -8,14 +8,15 @@ local_vault_path: ai/agents/ghuntley-how-to-build-a-coding-agent.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: template
 importance: medium
 tags:
 - agents
 - github-repo
 - go
+- scripts
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # ghuntley/how-to-build-a-coding-agent
@@ -24,15 +25,17 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tutorial
+- Resource kind: template
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-*   Go-based workshop repository for developing AI coding agents.
-*   Focuses on practical implementation of agent architectures akin to Roo code, Cline, and Cursor.
-*   Provides a structured tutorial for building custom code generation/manipulation agents.
+- **Go-based workshop** for constructing a **coding agent** (comparable to Cursor, Cline, or Amp) with modular architecture for AI-driven code generation and automation.
+
+- **Key components** include **LLM integration**, **context-aware prompt engineering**, and **toolchain orchestration** (e.g., file I/O, shell commands, API calls).
+
+- **Open-source template** provides starter code, **testing harness**, and **deployment guidelines** for extensible agent development.
 
 ## Use Cases
 

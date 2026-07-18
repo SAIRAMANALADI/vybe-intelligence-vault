@@ -8,7 +8,7 @@ local_vault_path: ai/rag/deep-agents-code-docs-by-langchain.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -19,7 +19,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Deep Agents Code - Docs by LangChain
@@ -28,18 +28,18 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Modular Agent Framework**: Open-source coding agent (`dcode`) built on Deep Agents SDK, supporting multi-model LLM integration with persistent memory, customizable skills, and execution approval controls.
+- **Multi-Provider LLM Integration**: Supports seamless switching between LLM providers/models while maintaining persistent memory for cross-session context retention.
 
-- **Advanced Capabilities**: Supports remote sandboxes, goal-based task validation, subagent delegation, MCP tool integration, and LangSmith tracing for observability and debugging.
+- **Modular Agent Architecture**: Enables parallel task delegation via subagents, remote sandbox execution, and customizable skills through MCP tools and configurable hooks.
 
-- **Configuration & Extensibility**: Enables CLI-based setup, environment-driven customization (`config.tom
+- **Controlled Execution & Observability**: Implements human-in-the-loop approval for sensitive operations, context compaction for efficiency, and LangSmith
 
 ## Use Cases
 

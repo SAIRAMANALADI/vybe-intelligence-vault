@@ -6,17 +6,15 @@ source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accele
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
 local_vault_path: ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: template
 importance: medium
 tags:
 - github-repo
-- models
 - openai
 - python
 - rag
-- scripts
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -27,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -35,13 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for chat/Q&A experiences, following best practices for production-grade deployments.
-
-- **Key Components**:
-  - **Python-based** solution with **AZD templates** for deployment automation.
-  - Integrates **Azure OpenAI** models (e.g., `gpt-4`, `text-embedding-ada-002`) and **Azure AI Search** for vector similarity search and hybrid retrieval.
-
-- **
+- **RAG Implementation**: Deploys a Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for generative responses, enabling ChatGPT-style and Q&A interactions.
+- **Azure Integration**: Leverages **Azure Developer CLI (azd) templates** for infrastructure-as-code deployment, with Python-based orchestration for end-to-end solution setup.
+- **Best Practices**: Incorporates production-grade patterns (e.g., vector search, prompt engineering, an
 
 ## Use Cases
 

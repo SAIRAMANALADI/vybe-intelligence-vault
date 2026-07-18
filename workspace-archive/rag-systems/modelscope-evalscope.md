@@ -15,6 +15,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Purpose**: Streamlined and customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with a focus on efficiency and performance metrics.
+- **Framework Purpose**: EvalScope is a Python-based framework designed for efficient evaluation and benchmarking of large models (LLMs, VLMs, AIGC) with customizable workflows.
 
-- **Key Features**: Supports evaluation of Retrieval-Augmented Generation (RAG), multimodal models (VLMs), and generative AI tasks with modular, extensible architecture for custom workloads.
+- **Key Features**: Supports modular evaluation pipelines for tasks like RAG, performance metrics, and multi-model comparison with extensible task-specific plugins.
 
-- **Repository Stats**: 3,068 stars, 421 forks, last updated July 13, 2026, under the `modelscope` organization.
+- **Repository Stats**: 3.1K stars, 425 forks, last updated July 17, 2026, with active development in model evaluation tooling.
 
 ## Use Cases
 

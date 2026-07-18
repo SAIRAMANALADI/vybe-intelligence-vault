@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://support.google.com/youtube/contact/yt_researcher_certification
-published_at: '2026-07-07T15:40:25.396396+05:30'
-collected_at: '2026-07-07T15:40:25.396409+05:30'
+published_at: '2026-07-17T14:09:16.543678+05:30'
+collected_at: '2026-07-17T14:09:16.543692+05:30'
 tags:
 - anthropic
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:youtube-researcher-program-application-youtube-hel
-first_seen: '2026-07-07T15:40:25.396409+05:30'
-last_seen: '2026-07-07T15:40:25.396409+05:30'
-last_checked: '2026-07-07T15:40:25.396409+05:30'
+first_seen: '2026-07-17T14:09:16.543692+05:30'
+last_seen: '2026-07-17T14:09:16.543692+05:30'
+last_checked: '2026-07-17T14:09:16.543692+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Application Requirements**: The YouTube Researcher Program application mandates details on research focus, institutional affiliation, API client specifics, and current/proposed API usage, with adherence to [Privacy Policy](https://policies.google.com/privacy?hl=en) and [Researcher Program Policies](https://research.youtube/policies/).
+- **Application Requirements**: Requires details on research, institution, API Client, and current/proposed YouTube API Services usage; subject to [Privacy Policy](https://policies.google.com/privacy) and [Researcher Program Policies](https://research.youtube/policies/).
 
-- **Institutional Data Collection**: Applicants must provide legal name, monitored email, country, and select an accredited organization from a predefined list (e.g., universities, research institutes) with unique institutional IDs (e.g., `U-0697` for A P GOYAL SHIMLA UNIVERSITY).
+- **Institution & Affiliation**: Must specify organization name, contact email, country, and actively monitored email for service updates; includes pre-filled legal name field.
 
-- **Program Participation Options**: Applicants can choose between a **new application** or **additional quota request** for existing participants, with mandatory disclosure of research-related changes (e.g., proposal updates, publication timelines).
+- **Researcher Program Status**: Applicants must declare if they are new, require additional quota, or have changes to prior research details (e.g., proposal, publication date, field).
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T15:40:25.396396+05:30
+- Published: 2026-07-17T14:09:16.543678+05:30
 
 ## Related Tags
 

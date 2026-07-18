@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/imaging/#avif
-published_at: '2026-07-09T01:35:12.155333+05:30'
-collected_at: '2026-07-09T01:35:12.155342+05:30'
+published_at: '2026-07-18T01:12:19.290949+05:30'
+collected_at: '2026-07-18T01:12:19.290962+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:configure-imaging
-first_seen: '2026-07-09T01:35:12.155342+05:30'
-last_seen: '2026-07-09T01:35:12.155342+05:30'
-last_checked: '2026-07-09T01:35:12.155342+05:30'
+first_seen: '2026-07-18T01:12:19.290962+05:30'
+last_seen: '2026-07-18T01:12:19.290962+05:30'
+last_checked: '2026-07-18T01:12:19.290962+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Image Processing Defaults**: Default settings include `anchor: smart`, `bgColor: #ffffff`, `resampleFilter: box`, with format-specific configs for AVIF (`lossy` compression, `quality: 60`, `encoderSpeed: 10`), JPEG (`quality: 75`), and WebP (`lossy` compression, `quality: 75`, `method: 2`).
+- **Image Processing Defaults**: Hugo's `imaging` config supports AVIF (lossy/lossless, `encoderSpeed: 1-10`, `hint: photo/picture/etc.`), JPEG (`quality: 1-100`), and WebP (`compression: lossy/lossless`, `method: 0-6`, `useSharpYuv: bool`) with format-specific settings replacing deprecated global `compression`, `hint`, and `quality` options.
 
-- **Exif Metadata Control**: Configurable via `meta.fields` (glob-based filtering) and `meta.sources` (supports `exif`, `iptc`, `xmp`), with default exclusion of technical fields (e.g., `GPS`, `Exif`, `Sharp`) to optimize performance.
+- **Resampling & Metadata Control**: Top-level settings include `anchor: smart|TopLeft|...`, `resampleFilter: box|lanczos|...`, `bgColor: hex`, and `exif` filtering via `excludeFields`/`includeFields` glob patterns (e.g., `GPS|Exif|*Exposure*`).
 
-- **Deprecated Legacy Settings**: Top-level `compression`, `hint`, and `quality` are deprecated (v0.163.0+) in favor of format-specific equivalents (e.g., `imaging.avif.compression`).
+- **Meta Extraction**: The `Meta` method allows granular metadata control via `fields` (glob patterns) and `sources` (`exif`, `iptc`, `xmp`), with defaults excluding technical tags (e.g., `ColorSpace`, `GPS`) to optimize performance.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-09T01:35:12.155333+05:30
+- Published: 2026-07-18T01:12:19.290949+05:30
 
 ## Related Tags
 

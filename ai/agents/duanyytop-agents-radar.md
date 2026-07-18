@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/duanyytop/agents-radar
-collected_at: '2026-07-14T09:18:47.266110+05:30'
-published_at: '2026-07-14T02:39:03Z'
+collected_at: '2026-07-18T01:07:48.037541+05:30'
+published_at: '2026-07-17T12:27:38Z'
 tags:
 - agents
 - github-repo
@@ -13,17 +13,17 @@ tags:
 - producthunt
 - scripts
 - typescript
-stars: 892
+stars: 908
 language: TypeScript
 status: active
 license: MIT
 archived: false
 created_at: '2026-02-23T03:22:26Z'
-pushed_at: '2026-07-14T01:27:10Z'
+pushed_at: '2026-07-17T12:26:35Z'
 resource_id: github:duanyytop/agents-radar
-first_seen: '2026-07-14T09:18:47.266110+05:30'
-last_seen: '2026-07-14T09:18:47.266110+05:30'
-last_checked: '2026-07-14T09:18:47.266110+05:30'
+first_seen: '2026-07-18T01:07:48.037541+05:30'
+last_seen: '2026-07-18T01:07:48.037541+05:30'
+last_checked: '2026-07-18T01:07:48.037541+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-source AI Ecosystem Aggregator**: Automatically scrapes and synthesizes daily updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) into a unified digest.
-- **Bilingual Automation Pipeline**: Generates reports in both Chinese and English using GitHub Actions, with scheduled updates (last run: 2026-07-14T02:39:03Z).
-- **TypeScript Implementation**: Open-source repository (892 ⭐, 158 🍴) with no explicit topics, hosted at `github.com/duanyytop/agents-radar`.
+- **Aggregation Pipeline**: Automated daily digest of AI ecosystem updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions.
+- **Bilingual Output**: Generates reports in both Chinese and English using TypeScript.
+- **Metadata**: 908 stars, 163 forks, last updated 2026-07-17T12:27:38Z.
 
 ## Why It Matters
 
@@ -42,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: duanyytop
-- Stars: 892
-- Forks: 158
+- Stars: 908
+- Forks: 163
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-07-14T02:39:03Z
+- Last Updated: 2026-07-17T12:27:38Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-23T03:22:26Z
-- Pushed At: 2026-07-14T01:27:10Z
+- Pushed At: 2026-07-17T12:26:35Z
 
 ## Possible Use Cases
 

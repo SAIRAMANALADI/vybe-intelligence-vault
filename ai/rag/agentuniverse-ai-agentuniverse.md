@@ -4,25 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/agentuniverse-ai/agentUniverse
-collected_at: '2026-07-07T15:36:59.781156+05:30'
-published_at: '2026-07-07T08:12:05Z'
+collected_at: '2026-07-18T01:09:38.169006+05:30'
+published_at: '2026-07-17T08:57:44Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
-stars: 2293
+stars: 2307
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2024-04-23T11:28:18Z'
-pushed_at: '2026-04-24T08:33:40Z'
+pushed_at: '2026-07-17T08:57:39Z'
 resource_id: github:agentuniverse-ai/agentuniverse
-first_seen: '2026-07-07T15:36:59.781156+05:30'
-last_seen: '2026-07-07T15:36:59.781156+05:30'
-last_checked: '2026-07-07T15:36:59.781156+05:30'
+first_seen: '2026-07-18T01:09:38.169006+05:30'
+last_seen: '2026-07-18T01:09:38.169006+05:30'
+last_checked: '2026-07-18T01:09:38.169006+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Framework**: agentUniverse enables developers to construct multi-agent applications using LLMs, facilitating autonomous agent interactions and task delegation.
-- **Python-Based**: The framework is implemented in Python, leveraging its ecosystem for extensibility and integration with AI/ML libraries.
-- **Modular & Scalable**: Designed for scalability, it supports dynamic agent orchestration, state management, and tool integration for complex workflows.
+- **Multi-agent LLM Framework**: agentUniverse enables developers to construct multi-agent applications leveraging LLMs with minimal overhead, emphasizing modularity and scalability.
+
+- **Python-Based Architecture**: Built in Python, the framework supports rapid prototyping and integration with existing AI/ML pipelines, optimized for autonomous agent orchestration.
+
+- **Extensible & Community-Driven**: Features an "awesome-list" style repository, fostering modular extensions (e.g., custom agents, tools) with active community contributions and frequent updates.
 
 ## Why It Matters
 
@@ -41,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: agentuniverse-ai
-- Stars: 2293
-- Forks: 406
+- Stars: 2307
+- Forks: 411
 - Language: Python
 - Topics: agent, ai, ai-agents, autonomous, awesome, awesome-list, llm, multi-agent, python
-- Last Updated: 2026-07-07T08:12:05Z
+- Last Updated: 2026-07-17T08:57:44Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-04-23T11:28:18Z
-- Pushed At: 2026-04-24T08:33:40Z
+- Pushed At: 2026-07-17T08:57:39Z
 
 ## Possible Use Cases
 

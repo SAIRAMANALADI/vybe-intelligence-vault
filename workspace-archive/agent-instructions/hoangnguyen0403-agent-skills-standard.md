@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Best Practices Repository**: Hosts standardized coding guidelines and best practices for multiple programming languages (TypeScript, Kotlin, Go, etc.) and frameworks (React, Angular, Spring Boot, Laravel, etc.) to ensure AI agents adhere to optimal development standards.
+- **Repository Overview**: A TypeScript-based collection of standardized best practices for AI agents, covering programming languages (TypeScript, Kotlin, Go, Java) and frameworks (React, Angular, NestJS, Spring Boot, Laravel, Flutter, React Native).
 
-- **Multi-Platform Support**: Includes curated standards for mobile (Android, iOS, Flutter, React Native), web (React, Next.js, Angular), backend (NestJS, Spring Boot, Laravel), and general-purpose languages (
+- **Key Features**: Provides structured guidelines for AI agents to adhere to coding standards, including Cursor rules, and supports cross-platform development (Android, iOS).
+
+- **Metadata**: 524 stars, 153 forks, last updated July 14, 2026, with
 
 ## Use Cases
 

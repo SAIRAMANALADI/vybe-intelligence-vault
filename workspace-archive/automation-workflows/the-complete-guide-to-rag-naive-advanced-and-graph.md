@@ -40,9 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Overview & Evolution**: RAG combines retrieval, augmentation, and generation to address LLM limitations (freshness, private knowledge, hallucinations) by dynamically pulling external data. It evolved from Naive RAG (basic vector search) to Advanced RAG (hybrid retrieval, reranking, query transformation) to Modular RAG (routing, looping, tool integration) and Graph RAG (entity-relation graphs for multi-hop reasoning).
+- **RAG Overview & Evolution**: RAG combines retrieval, augmentation, and generation to address LLM limitations (freshness, private knowledge, hallucinations) by dynamically fetching external data. It has evolved from Naive RAG (basic vector search) to Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph-based multi-hop reasoning).
 
-- **Core Techniques & Tools**: Key methods include BM25 (sparse retrie
+- **Core RAG Components & Techniques**: Naive RAG uses chunking, embeddings, and similarity search; Advanced RAG enh
 
 ## Use Cases
 

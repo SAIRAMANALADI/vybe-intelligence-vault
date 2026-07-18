@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Purpose**: Provides a structured foundation for building retrieval agents using LangGraph, a framework for constructing stateful, multi-actor applications with LLMs.
-- **Key Components**: Implements LangGraph's Python SDK (`langgraph-python`) to define agent workflows, state management, and tool integration for retrieval tasks.
-- **Technical Stack**: Python-based, leveraging LangGraph for graph-based agent orchestration with modular components for scalability and customization.
+- **Purpose**: Provides a template for building retrieval agents using LangGraph, a framework for constructing stateful, multi-actor applications with LLMs.
+- **Key Components**: Includes LangGraph Python library integration, designed for orchestrating complex workflows with agents, tools, and memory.
+- **Technical Stack**: Python-based, leveraging LangGraph for agentic retrieval systems; last updated July 14, 2026.
 
 ## Use Cases
 

@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Extends CrewAI agent capabilities via modular Python tools for enhanced AI agent functionality.
-- **Key Features**: Provides pre-built tools for tasks like web scraping, API interactions, and data processing.
-- **Integration**: Compatible with CrewAI agents, enabling seamless tool utilization for agent workflows.
+- **Purpose**: Extends CrewAI agent functionality via modular Python tools, enabling enhanced AI agent capabilities.
+- **Key Features**: Provides pre-built tools for tasks like web scraping, API interactions, and data processing to augment agent workflows.
+- **Integration**: Designed for seamless integration with CrewAI agents, supporting Python-based agent extensions and custom tool development.
 
 ## Use Cases
 

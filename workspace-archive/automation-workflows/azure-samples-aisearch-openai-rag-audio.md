@@ -12,7 +12,6 @@ resource_kind: template
 importance: medium
 tags:
 - github-repo
-- hackernews
 - models
 - openai
 - python
@@ -36,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Implementation**: Demonstrates the VoiceRAG pattern using Azure AI Search for retrieval and Azure OpenAI's `gpt-4o-realtime-preview` model for interactive voice generative AI experiences.
-
-- **Architecture**: Combines RAG (Retrieval-Augmented Generation) with Azure services to enable real-time, voice-based AI interactions via vector search and language model inference.
-
-- **Technical Stack**: Python-based solution leveraging Azure AI Search (vector database), Azure OpenAI, and generative AI
+- Implements **VoiceRAG pattern** for interactive voice generative AI using **RAG** with **Azure AI Search** and **Azure OpenAI's gpt-4o-realtime-preview** model.
+- Utilizes **Python** for integration with **Azure AI Search** (vector database) and **OpenAI** APIs to enable real-time voice-based retrieval-augmented generation.
+- Provides an **Azure Developer CLI (azd)** template for deployment, supporting **vector search**, **generative AI**, and **multi-modal interactions** via structured RAG wo
 
 ## Use Cases
 

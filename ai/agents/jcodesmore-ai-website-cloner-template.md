@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/JCodesMore/ai-website-cloner-template
-collected_at: '2026-07-09T21:08:24.184448+05:30'
-published_at: '2026-07-09T15:35:34Z'
+collected_at: '2026-07-14T19:49:07.104205+05:30'
+published_at: '2026-07-14T14:04:19Z'
 tags:
 - agents
 - anthropic
@@ -14,7 +14,7 @@ tags:
 - scripts
 - typescript
 - workflows
-stars: 27117
+stars: 28230
 language: TypeScript
 status: active
 license: MIT
@@ -22,9 +22,9 @@ archived: false
 created_at: '2026-03-13T11:14:39Z'
 pushed_at: '2026-07-04T06:49:18Z'
 resource_id: github:jcodesmore/ai-website-cloner-template
-first_seen: '2026-07-09T21:08:24.184448+05:30'
-last_seen: '2026-07-09T21:08:24.184448+05:30'
-last_checked: '2026-07-09T21:08:24.184448+05:30'
+first_seen: '2026-07-14T19:49:07.104205+05:30'
+last_seen: '2026-07-14T19:49:07.104205+05:30'
+last_checked: '2026-07-14T19:49:07.104205+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **AI-Powered Website Cloning**: Uses AI coding agents (e.g., Claude Code) to automate full website cloning via a single command, handling reverse-engineering, scraping, and code generation.
-- **Tech Stack**: Built with **Next.js**, **React**, **TypeScript**, **TailwindCSS**, and **shadcn/ui** for UI components, enabling modern, scalable web app replication.
-- **Automation & Extensibility**: Supports **web scraping**, **AI agent orchestration**, and modular **skills/templates** for custom workflows, with boilerplate for rapid deployment.
+- **AI-Powered Website Cloning**: Uses AI coding agents (e.g., Claude Code) to automate website cloning via a single command, eliminating manual reverse-engineering.
+- **Tech Stack**: Built with **TypeScript**, **Next.js**, **React**, **TailwindCSS**, and **shadcn/ui** for modern frontend development and styling.
+- **Features**: Supports **web scraping**, **automation**, and **boilerplate generation**, with integration for AI agent workflows and reverse-engineering tools.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: JCodesMore
-- Stars: 27117
-- Forks: 3834
+- Stars: 28230
+- Forks: 4148
 - Language: TypeScript
 - Topics: ai, ai-agents, ai-tools, automation, boilerplate, claude, claude-code, clone, developer-tools, nextjs, react, reverse-engineering, shadcn-ui, skills, tailwindcss, template, typescript, web-scraping, website-clone
-- Last Updated: 2026-07-09T15:35:34Z
+- Last Updated: 2026-07-14T14:04:19Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-13T11:14:39Z

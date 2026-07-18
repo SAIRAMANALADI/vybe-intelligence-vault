@@ -6,10 +6,10 @@ source_url: https://android.googlesource.com
 resource_id: blog:android-git-repositories-git-at-google
 local_vault_path: ai/rag/android-git-repositories-git-at-google.md
 quality_score: 70
-archive_score: 80
+archive_score: 70
 archive_tier: useful
 resource_kind: benchmark
-importance: high
+importance: medium
 tags:
 - benchmark
 - frontend_ui
@@ -30,15 +30,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 80 (useful)
+- Quality score: 70 | Archive score: 70 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Centralized Git Repository Hosting**: Android's official Git repositories are hosted at `android.googlesource.com`, providing version-controlled access to hardware-specific device trees, kernels, and platform components (e.g., `device/google/bluejay-kernel`, `device/generic/goldfish`).
-- **Kernel and Device-Specific Branches**: Many device repositories include kernel branches for specific Android versions (e.g., `device/google/bluejay-kernels/6.1`, `device/google/akita-kernels/5.15`) and sec
+- **Android Git Repository Structure**: Hosted on `android.googlesource.com`, the repository contains kernel, device-specific, and accessory-related code (e.g., `device/google/bluejay-kernel`, `device/google/accessory/arduino`) with versioned kernel branches (e.g., `5.10`, `6.1`).
+
+- **Code Review & Access Control**: Google’s Gerrit-based code review system (`android-review.googlesource.com`) integrates with OAuth2 for authentication, requiring signed-in access via Google accounts for repository
 
 ## Use Cases
 

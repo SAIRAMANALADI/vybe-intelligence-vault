@@ -4,23 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/opendataloader-project/opendataloader-pdf
-collected_at: '2026-07-14T12:59:03.888448+05:30'
-published_at: '2026-07-14T06:46:02Z'
+collected_at: '2026-07-18T01:06:28.028588+05:30'
+published_at: '2026-07-17T18:26:40Z'
 tags:
 - github-repo
 - java
 - rag
-stars: 27113
+stars: 27418
 language: Java
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2025-05-13T05:48:02Z'
-pushed_at: '2026-07-14T02:00:47Z'
+pushed_at: '2026-07-16T20:27:04Z'
 resource_id: github:opendataloader-project/opendataloader-pdf
-first_seen: '2026-07-14T12:59:03.888448+05:30'
-last_seen: '2026-07-14T12:59:03.888448+05:30'
-last_checked: '2026-07-14T12:59:03.888448+05:30'
+first_seen: '2026-07-18T01:06:28.028588+05:30'
+last_seen: '2026-07-18T01:06:28.028588+05:30'
+last_checked: '2026-07-18T01:06:28.028588+05:30'
 health_score: 100
 ---
 
@@ -29,8 +29,8 @@ health_score: 100
 ## Summary
 
 - **Java-based PDF parser** designed for AI-ready data extraction, supporting accessibility (a11y) and PDF/UA compliance for automated document processing.
-- **Multi-format output** including HTML, JSON, Markdown, and bounding-box annotations, with OCR support for scanned documents and table extraction.
-- **Open-source tool** optimized for RAG pipelines, enabling tagged PDF parsing and conversion while maintaining compatibility with tagged PDF structures.
+- **Multi-format output** (HTML, JSON, Markdown) with OCR, bounding-box detection, and table extraction for structured data conversion.
+- **Open-source tool** optimized for RAG pipelines, tagged PDFs, and EAA (European Accessibility Act) compliance, last updated July 2026.
 
 ## Why It Matters
 
@@ -39,15 +39,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: opendataloader-project
-- Stars: 27113
-- Forks: 2598
+- Stars: 27418
+- Forks: 2630
 - Language: Java
 - Topics: a11y, accessibility, ai, bounding-box, document-parsing, eaa, html, json, markdown, ocr, ocr-recognition, pdf, pdf-accessibility, pdf-converter, pdf-extraction, pdf-parser, pdf-ua, rag, tables, tagged-pdf
-- Last Updated: 2026-07-14T06:46:02Z
+- Last Updated: 2026-07-17T18:26:40Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-05-13T05:48:02Z
-- Pushed At: 2026-07-14T02:00:47Z
+- Pushed At: 2026-07-16T20:27:04Z
 
 ## Possible Use Cases
 

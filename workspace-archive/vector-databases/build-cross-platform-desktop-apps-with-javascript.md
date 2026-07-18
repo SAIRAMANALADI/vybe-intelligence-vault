@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Runtime Architecture**: Electron integrates Chromium for rendering and Node.js for native APIs, enabling cross-platform desktop apps with JavaScript/TypeScript.
+- **Runtime Architecture**: Electron combines Chromium's rendering engine with Node.js, enabling cross-platform desktop apps using JavaScript, HTML, and CSS while supporting native OS APIs via the main process.
 
-- **Security & Stability**: Releases align with Chromium updates for immediate security patches, while bundled Chromium ensures consistent rendering and feature support.
+- **Security & Maintenance**: Releases synchronize with Chromium updates for immediate security patches, and the autoUpdater module (powered by Squirrel) facilitates seamless cross-platform software distribution.
 
-- **Tooling & Ecosystem**: Supports npm packages, native add-ons, and frameworks (React, Angular, Vue), with tools like Electron Forge for packaging and distributi
+- **Extensibility & Tooling**: Integrates with npm packages and frameworks
 
 ## Use Cases
 

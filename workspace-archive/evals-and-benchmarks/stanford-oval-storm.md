@@ -2,17 +2,23 @@
 title: stanford-oval/storm
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://github.com/stanford-oval/storm?source=post_page
+source_url: https://github.com/stanford-oval/storm?source=post_page-----dba899ae0355---------------------------------------
 resource_id: github:stanford-oval/storm
 local_vault_path: ai/rag/stanford-oval-storm.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
+tags:
+- agents
+- benchmark
+- github-repo
+- python
+- rag
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # stanford-oval/storm
@@ -20,19 +26,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **LLM-Powered Research & Report Generation**: STORM autonomously researches a given topic using large language models (LLMs) and generates a comprehensive, citation-backed report with minimal human input.
+- **LLM-Powered Knowledge Curation**: STORM autonomously researches topics by leveraging large language models (LLMs) to generate comprehensive reports with inline citations, enabling deep, agentic retrieval-augmented generation (RAG).
 
-- **Agentic RAG & Deep Research Pipeline**: Implements an agentic retrieval-augmented generation (RAG) framework with iterative retrieval, synthesis, and verification to produce high-fidelity, structured reports (EMNLP 2024/NAACL contribution).
+- **Multi-Source Integration**: Implements a retrieval-augmented pipeline to synthesize information from diverse sources, optimizing for factual accuracy and contextual relevance in report generation.
 
-- **Python-Based Modular System**: Open-source
+- **Research & Benchmarking Focus**: Designed for advanced kn
 
 ## Use Cases
 
@@ -42,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/stanford-oval/storm?source=post_page
+Original source URL: https://github.com/stanford-oval/storm?source=post_page-----dba899ae0355---------------------------------------
 
 ## Local Vault File
 

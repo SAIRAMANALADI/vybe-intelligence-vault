@@ -4,23 +4,23 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jupyterlab/jupyterlab
-collected_at: '2026-06-25T16:43:21.435888+05:30'
-published_at: '2026-06-25T09:40:03Z'
+collected_at: '2026-07-17T14:10:26.119977+05:30'
+published_at: '2026-07-16T16:28:15Z'
 tags:
 - github-repo
 - typescript
 - workflows
-stars: 15215
+stars: 15231
 language: TypeScript
 status: active
 license: BSD-3-Clause
 archived: false
 created_at: '2016-06-03T20:09:17Z'
-pushed_at: '2026-06-25T09:12:23Z'
+pushed_at: '2026-07-16T16:26:31Z'
 resource_id: github:jupyterlab/jupyterlab
-first_seen: '2026-06-25T16:43:21.435888+05:30'
-last_seen: '2026-06-25T16:43:21.435888+05:30'
-last_checked: '2026-06-25T16:43:21.435888+05:30'
+first_seen: '2026-07-17T14:10:26.119977+05:30'
+last_seen: '2026-07-17T14:10:26.119977+05:30'
+last_checked: '2026-07-17T14:10:26.119977+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based JupyterLab**: A modular, extensible computational environment built with TypeScript, enabling interactive data science and scientific computing workflows.
-- **GitHub Metrics**: Highly active repository with **15,215 stars**, **4,021 forks**, and recent updates as of **2026-06-25**.
-- **Core Features**: Supports Jupyter notebooks, interactive widgets, and integrates with Jupyter’s ecosystem for advanced computational tasks.
+- **JupyterLab**: A next-generation, extensible computational environment for Jupyter, written primarily in TypeScript, enabling interactive data science and scientific computing workflows.
+
+- **Key Features**: Supports modular extensions, integrates with Jupyter kernels, and provides a flexible UI with dockable panels, tabs, and a unified file browser.
+
+- **Ecosystem**: Actively maintained (last updated July 2026) with 15K+ stars and 4K+ forks, fostering a large community for plugins, integrations, and collaborative development.
 
 ## Why It Matters
 
@@ -39,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: jupyterlab
-- Stars: 15215
-- Forks: 4021
+- Stars: 15231
+- Forks: 4033
 - Language: TypeScript
 - Topics: jupyter, jupyterlab
-- Last Updated: 2026-06-25T09:40:03Z
+- Last Updated: 2026-07-16T16:28:15Z
 - License: BSD-3-Clause
 - Archived: No
 - Created At: 2016-06-03T20:09:17Z
-- Pushed At: 2026-06-25T09:12:23Z
+- Pushed At: 2026-07-16T16:26:31Z
 
 ## Possible Use Cases
 

@@ -4,13 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/transitive-bullshit/agentic
-collected_at: '2026-07-09T21:09:59.271458+05:30'
-published_at: '2026-07-09T14:28:19Z'
+collected_at: '2026-07-17T14:05:49.107780+05:30'
+published_at: '2026-07-16T15:55:53Z'
 tags:
 - agents
-- frontend_ui
 - github-repo
 - openai
+- scripts
 - typescript
 - workflows
 stars: 18118
@@ -21,9 +21,9 @@ archived: true
 created_at: '2022-12-03T00:05:09Z'
 pushed_at: '2026-02-11T04:50:03Z'
 resource_id: github:transitive-bullshit/agentic
-first_seen: '2026-07-09T21:09:59.271458+05:30'
-last_seen: '2026-07-09T21:09:59.271458+05:30'
-last_checked: '2026-07-09T21:09:59.271458+05:30'
+first_seen: '2026-07-17T14:05:49.107780+05:30'
+last_seen: '2026-07-17T14:05:49.107780+05:30'
+last_checked: '2026-07-17T14:05:49.107780+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based MCP Framework**: Open-source library for converting APIs into Model Context Protocol (MCP) servers, enabling seamless integration with LLMs and AI agents.
-
-- **Agentic Workflows**: Supports structured agentic patterns (e.g., ReAct, Plan-Execute) for autonomous task execution with OpenAI-compatible tooling.
-
-- **Real-time Updates**: Actively maintained with frequent commits (last update: 2026-07-09), optimized for modern AI agent architectures.
+- **TypeScript-based MCP framework** for converting APIs into paid MCP servers with minimal setup.
+- **Enables agentic workflows** by integrating LLMs (e.g., OpenAI) with structured tooling for AI-driven automation.
+- **Last updated July 2026**, with 18.1K+ stars and 2.2K+ forks, indicating active community adoption.
 
 ## Why It Matters
 
@@ -45,10 +43,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: transitive-bullshit
 - Stars: 18118
-- Forks: 2230
+- Forks: 2226
 - Language: TypeScript
 - Topics: agents, ai, llms, openai
-- Last Updated: 2026-07-09T14:28:19Z
+- Last Updated: 2026-07-16T15:55:53Z
 - License: NOASSERTION
 - Archived: Yes
 - Created At: 2022-12-03T00:05:09Z

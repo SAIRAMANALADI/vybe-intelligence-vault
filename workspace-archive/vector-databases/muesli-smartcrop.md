@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Algorithm**: Implements a saliency-based approach to detect visually important regions in images for optimal cropping, balancing entropy, edges, and face detection.
-- **Implementation**: Written in Go, leveraging OpenCV for image processing and feature extraction to compute crop scores dynamically.
-- **Flexibility**: Supports arbitrary crop sizes and aspect ratios, with adjustable parameters for sensitivity and weight distribution across detection methods.
+- **Algorithm**: Implements a saliency-based image cropping algorithm in Go, analyzing visual features (edges, faces, entropy) to determine optimal crop regions.
+- **Features**: Supports arbitrary crop sizes and aspect ratios, with configurable scoring thresholds for prioritizing key image regions.
+- **Performance**: Optimized for speed with minimal dependencies, leveraging Go’s concurrency for efficient image processing.
 
 ## Use Cases
 

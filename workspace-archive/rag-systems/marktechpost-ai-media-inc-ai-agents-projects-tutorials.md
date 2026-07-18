@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Architectures**: Repository focuses on designing AI systems with multiple autonomous agents, emphasizing coordination, communication protocols, and distributed decision-making for complex tasks.
-
-- **Memory & Reasoning Loops**: Implements advanced memory architectures (short-term/long-term) and iterative reasoning loops to enhance agent adaptability, context retention, and problem-solving efficiency in dynamic environments.
-
-- **Agentic Workflows & RAG**: Demonstrates agentic wor
+- Repository focuses on **multi-agent systems**, **memory management**, **planning**, and **reasoning loops** in AI agent development.
+- Contains **Jupyter Notebooks** with tutorials on **agentic AI frameworks**, **RAG workflows**, and **coding agent skills**.
+- Last updated **July 2026**; has **2,797 stars** and **611 forks** on GitHub.
 
 ## Use Cases
 

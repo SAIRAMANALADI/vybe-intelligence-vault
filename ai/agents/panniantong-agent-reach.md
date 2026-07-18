@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Panniantong/Agent-Reach
-collected_at: '2026-07-14T09:18:52.286054+05:30'
-published_at: '2026-07-14T03:48:36Z'
+collected_at: '2026-07-15T01:17:02.183319+05:30'
+published_at: '2026-07-14T19:45:41Z'
 tags:
 - agents
 - anthropic
@@ -13,8 +13,9 @@ tags:
 - python
 - reddit
 - scripts
+- workflows
 - youtube
-stars: 55857
+stars: 56197
 language: Python
 status: active
 license: MIT
@@ -22,9 +23,9 @@ archived: false
 created_at: '2026-02-24T02:10:24Z'
 pushed_at: '2026-07-10T15:45:18Z'
 resource_id: github:panniantong/agent-reach
-first_seen: '2026-07-14T09:18:52.286054+05:30'
-last_seen: '2026-07-14T09:18:52.286054+05:30'
-last_checked: '2026-07-14T09:18:52.286054+05:30'
+first_seen: '2026-07-15T01:17:02.183319+05:30'
+last_seen: '2026-07-15T01:17:02.183319+05:30'
+last_checked: '2026-07-15T01:17:02.183319+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-platform web scraping CLI**: Enables AI agents to extract data from Twitter, Reddit, YouTube, GitHub, Bilibili, and XiaoHongShu via a single command-line interface without incurring API fees.
+- **Multi-Platform Web Scraper**: CLI tool (`Agent-Reach`) in Python that aggregates data from Twitter, Reddit, YouTube, GitHub, Bilibili, and XiaoHongShu without API fees, enabling AI agents to "see" the internet via scraped content.
 
-- **Zero-cost API alternative**: Implements custom scrapers for each platform, bypassing paid APIs while maintaining structured data output (e.g., YouTube transcripts, GitHub repositories).
+- **Zero-Cost API Alternative**: Uses open-source scraping libraries (e.g., `snscrape`, `yt-dlp`, `requests`) to bypass paid APIs, reducing operational costs for AI search and automation tasks.
 
-- **Python-based MCP toolkit**: Designed for agent infrastructure, supporting Claude Code, Cursor, and LLM tools with modular scrapers for real-time web content aggregation.
+- **Integration-Ready**: Supports MCP, CLI tools (e.g., `claude-code`, `cursor`), and structured outputs for seamless integration with LLM workflows, enhancing agentic capabilities for real-time data retrieval.
 
 ## Why It Matters
 
@@ -45,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Panniantong
-- Stars: 55857
-- Forks: 4606
+- Stars: 56197
+- Forks: 4622
 - Language: Python
 - Topics: agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript
-- Last Updated: 2026-07-14T03:48:36Z
+- Last Updated: 2026-07-14T19:45:41Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-24T02:10:24Z

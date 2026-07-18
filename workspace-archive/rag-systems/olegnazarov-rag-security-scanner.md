@@ -12,11 +12,9 @@ resource_kind: prompt
 importance: medium
 tags:
 - github-repo
-- hackernews
 - openai
 - python
 - rag
-- scripts
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -35,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Automated security scanner for detecting critical vulnerabilities in RAG/LLM-based AI applications (e.g., chatbots, virtual assistants) via prompt injection, OWASP Top 10 AI risks, and red-team testing.
-- **Features**: Supports security audits, penetration testing, and automated vulnerability scanning for Python-based AI systems, including OpenAI integrations.
-- **Technical Stack**: Python-based tool with GitHub Actions integration, last updated July 2026, targeting AI security, L
+- **Purpose**: A Python-based security scanner designed to detect vulnerabilities in RAG (Retrieval-Augmented Generation) and LLM (Large Language Model) applications, including prompt injection, data leakage, and adversarial attacks.
+- **Key Features**: Automated testing for OWASP Top 10 LLM vulnerabilities, red-team simulation, and integration with OpenAI/ChatGPT systems for penetration testing.
+- **Scope**: Supports security audits for chatbots, virtual assistants, and knowledge retrieval syst
 
 ## Use Cases
 

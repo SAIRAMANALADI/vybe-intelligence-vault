@@ -29,11 +29,11 @@ selection_reason:
 
 ## Summary
 
-- **Infrastructure-as-a-Service for Documentation**: Hosts and automates builds, previews, and versioning for documentation projects using Git repositories, supporting tools like Sphinx, MkDocs, and Docusaurus.
+- **Infrastructure-as-Code for Documentation**: Enables Git repository integration with automated builds, previews, and versioning (Sphinx, MkDocs, Docusaurus) via `.readthedocs.yaml` config, eliminating manual pipeline management for engineering and docs teams.
 
-- **PR Preview & Visual Diffing**: Generates live preview builds for every pull request with visual diffs against production, enabling pre-merge review of rendered documentation.
+- **AI-Ready & Collaborative Features**: Supports AI agent integration (llms.txt, Markdown negotiation), live PR previews with visual diffs against production, and SSO (GitHub/GitLab) for granular access control.
 
-- **Access Control & AI Readiness**: Offers SSO integration (GitHub/GitLab) for access management and suppor
+- **Open Source & Ente
 
 ## Use Cases
 

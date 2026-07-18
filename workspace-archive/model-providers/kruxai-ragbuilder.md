@@ -6,15 +6,13 @@ source_url: https://github.com/KruxAI/ragbuilder
 resource_id: github:kruxai/ragbuilder
 local_vault_path: ai/rag/kruxai-ragbuilder.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
-- benchmark
 - dataset
 - github-repo
-- models
 - python
 - rag
 selection_reason:
@@ -27,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose-built RAG Toolkit**: Provides a Python-based framework to construct production-grade Retrieval Augmented Generation (RAG) pipelines optimized for specific datasets.
+- **Purpose-built RAG Optimization Toolkit**: Provides a Python-based framework to streamline the creation of production-grade Retrieval-Augmented Generation (RAG) pipelines, focusing on data ingestion, retrieval, and generation optimization.
 
-- **Modular Architecture**: Implements configurable components for data ingestion, chunking, embedding, retrieval, and LLM integration to streamline RAG deployment.
+- **Modular Architecture**: Implements a configurable pipeline with components for document preprocessing, vector embedding, retrieval strategies, and LLM integration, enabling customization for diverse datasets and use cases.
 
-- **Performance Optimization**: Includes utilities for benchmarking, evaluation, and fine-tuning to ensure high efficiency and accuracy in real-world RAG ap
+- **Production-Ready Feature
 
 ## Use Cases
 

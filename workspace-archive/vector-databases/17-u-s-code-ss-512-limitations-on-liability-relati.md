@@ -3,7 +3,7 @@ title: 17 U.S. Code § 512 - Limitations on liability relating to material onlin
   U.S. Code | US Law | LII / Legal Information
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://www.law.cornell.edu/uscode/text/17/512
+source_url: http://www4.law.cornell.edu/uscode/17/512.html
 resource_id: blog:17-u-s-code-ss-512-limitations-on-liability-relati
 local_vault_path: ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md
 quality_score: 70
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Transitory Digital Network Communications (§512(a))**: Service providers are exempt from monetary liability and most injunctive relief for copyright infringement during automated transmission, routing, or transient storage of user-initiated material, provided the process is unmodified, recipient selection is automatic, and cached copies are not retained beyond necessary transmission time.
+- **Transitory Digital Network Communications (17 U.S.C. § 512(a))**: Service providers are shielded from monetary and equitable liability for copyright infringement when transmitting, routing, or providing connections for material through automated, unmodified processes where storage is transient and recipients are selected automatically without direct provider intervention.
 
-- **System Caching (§512(b))**: Providers are shielded from liability for temporary, automated storage
+- **System Caching (17 U.S.C. § 512(b))**: Providers are not liable for temporary storage of material if caching is auto
 
 ## Use Cases
 
@@ -44,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.law.cornell.edu/uscode/text/17/512
+Original source URL: http://www4.law.cornell.edu/uscode/17/512.html
 
 ## Local Vault File
 

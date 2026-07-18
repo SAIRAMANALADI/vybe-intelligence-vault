@@ -12,11 +12,9 @@ resource_kind: template
 importance: medium
 tags:
 - github-repo
-- models
 - openai
 - python
 - rag
-- scripts
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,13 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for chat/Q&A experiences, following best practices for production-grade deployments.
-
-- **Key Components**:
-  - **Python-based** solution with **AZD templates** for deployment automation.
-  - Integrates **Azure OpenAI** models (e.g., `gpt-4`, `text-embedding-ada-002`) and **Azure AI Search** for vector similarity search and hybrid retrieval.
-
-- **
+- **RAG Implementation**: Deploys a Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for generative responses, enabling ChatGPT-style and Q&A interactions.
+- **Azure Integration**: Leverages **Azure Developer CLI (azd) templates** for infrastructure-as-code deployment, with Python-based orchestration for end-to-end solution setup.
+- **Best Practices**: Incorporates production-grade patterns (e.g., vector search, prompt engineering, an
 
 ## Use Cases
 

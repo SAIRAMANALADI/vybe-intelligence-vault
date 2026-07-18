@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform desktop apps**: Electron embeds Chromium and Node.js into a single binary, enabling JavaScript/HTML/CSS-based cross-platform desktop applications without native development requirements.
+- **Cross-platform desktop apps**: Electron combines Chromium for rendering and Node.js for backend logic into a single binary, enabling JavaScript/HTML/CSS-based desktop apps that run on Windows, macOS, and Linux without native development.
 
-- **Electron Fiddle**: A sandbox tool for prototyping and testing Electron APIs, integrating with documentation via "Open in Electron Fiddle" buttons to streamline development workflows.
+- **Electron Fiddle**: A sandbox tool for prototyping and testing Electron APIs, integrated with documentation via "Open in Fiddle" buttons that auto-load examples into the app.
 
-- **Official documentation structure**: Organized into tutorials, process references, best practices, exa
+- **Official docs structure**: Organized into tutorials, process references, b
 
 ## Use Cases
 

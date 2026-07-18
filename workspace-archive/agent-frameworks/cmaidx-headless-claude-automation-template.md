@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Structure**: Provides a reusable GitHub repository template for autonomous software delivery using headless Claude agents, converting input requirements documents into reviewed pull requests via CI/CD pipelines.
-
-- **Key Components**: Integrates GitHub Actions for automation, supports multi-agent orchestration, and includes headless execution of Claude Code for autonomous coding tasks.
-
-- **Integration & Workflow**: Designed for seamless integration with Linear for project managemen
+- **Template Purpose**: Enables autonomous software delivery via headless Claude agents, converting input requirements docs into reviewed pull requests.
+- **Key Components**: Integrates CI/CD pipelines, multi-agent orchestration, and GitHub Actions for automated PR generation and review.
+- **Tech Stack**: Shell-based automation with support for Claude Code, Linear, and multi-agent workflows.
 
 ## Use Cases
 

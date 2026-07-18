@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Performance**: Rust-based implementation achieves **10-100x speedup** over traditional Python linters (e.g., Flake8, Pylint), enabling sub-second feedback on large codebases.
+- **Performance**: Rust-based implementation achieves 10-100x speedup over traditional Python linters (e.g., Flake8, Pylint), enabling sub-second feedback loops on large codebases.
 
-- **Unified Tooling**: Supports **500+ rules** with drop-in compatibility for Flake8, isort, and others, replacing dozens of dependencies with a single executable.
+- **Unified Toolchain**: Consolidates 500+ linting rules with drop-in compatibility for Flake8, isort, and other tools, replacing dozens of dependencies with a single executable.
 
-- **Automated Refactoring**: Implements **autofix capabilities** for syntax upgrades, import sorting, and dead code removal, reducing manual intervention.
+- **Automated Refactoring**: Implements a high-performance autofix engine for syntax upgrades, import sorting, and dead code removal, inte
 
 ## Use Cases
 

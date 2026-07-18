@@ -4,7 +4,7 @@ archive_category: vector-databases
 source_category: ai/rag
 source_url: https://medium.com/policy/9db0094a1e0f
 resource_id: blog:medium
-local_vault_path: ai/rag/medium.md
+local_vault_path: ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **License Grant & Content Ownership**: Users retain rights to submitted content but grant Medium a **nonexclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all Services, including derivative works (e.g., previews, top-author lists) with attribution. This license is **Service-specific** and does not extend beyond Medium’s platforms.
+- **License Grant**: Users retain content ownership but grant Medium a **non-exclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display user content across all Medium services, including derivative works (e.g., previews, curated lists) with attribution.
 
-- **Dispute Resolution & Liability Waivers**: All disputes (except small claims/IP injunctions
+- **Liability Waiver**: Medium disclaims all warranties (express/implied) and limits liability to **$50 USD or service fees paid**, excluding gross negligence/fraud; users indemnify Medium for legal
 
 ## Use Cases
 
@@ -46,4 +46,4 @@ Original source URL: https://medium.com/policy/9db0094a1e0f
 
 ## Local Vault File
 
-Path: [medium.md](../../ai/rag/medium.md)
+Path: [top-10-rag-frameworks-on-github-by-stars-january-2.md](../../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md)

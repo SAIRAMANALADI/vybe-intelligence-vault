@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Built-in AI APIs in Chrome**: Chrome provides browser-managed AI models (e.g., Gemini Nano) and APIs (e.g., Proofreader, Writer, Rewriter, Translator, Language Detector, Summarizer, Prompt) for on-device AI tasks like text processing, translation, and summarization.
-- **Hybrid AI Workloads & Polyfills**: Supports hybrid AI (client-side + cloud fallback via Firebase AI Logic) and offers polyfills (Prompt/Task APIs) for cross-browser compatibility.
-- **Best Practices & Debugging**: Includes gu
+- **Built-in AI in Chrome**: Chrome integrates foundation/expert models (e.g., Gemini Nano) for client-side AI tasks via browser-managed APIs, enabling on-device inference without cloud dependency.
+- **Key AI APIs**: Chrome offers APIs for text translation, summarization, proofreading, rewriting, language detection, and prompt/task management, with polyfills for cross-browser compatibility.
+- **Best Practices & Performance**: Chrome provides guidance on caching models, streaming LLM responses, d
 
 ## Use Cases
 

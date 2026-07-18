@@ -4,11 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-14T13:00:18.924815+05:30'
+collected_at: '2026-07-18T01:07:43.025563+05:30'
 published_at: '2026-07-02T21:11:00Z'
 tags:
 - benchmark
+- dataset
 - github-repo
+- hackernews
 - python
 - rag
 stars: 173
@@ -19,9 +21,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-14T13:00:18.924815+05:30'
-last_seen: '2026-07-14T13:00:18.924815+05:30'
-last_checked: '2026-07-14T13:00:18.924815+05:30'
+first_seen: '2026-07-18T01:07:43.025563+05:30'
+last_seen: '2026-07-18T01:07:43.025563+05:30'
+last_checked: '2026-07-18T01:07:43.025563+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: UniversalRAG extends RAG to handle diverse modalities (text, images, tables) and granularities (documents, paragraphs, entities) via a unified retrieval and generation pipeline.
-- **Key Innovation**: Introduces modality-agnostic retrievers and adaptive fusion mechanisms to dynamically integrate heterogeneous data sources during generation.
-- **Performance**: Achieves state-of-the-art results on multimodal benchmarks (ACL 2026 Oral) while maintaining scalability for large, heterogeneous corpora.
+- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG to support diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, etc.) via unified retrieval and generation pipelines.
+
+- **Modular Architecture**: Implements a flexible, plug-and-play system with modality-specific encoders, retrievers, and fusion mechanisms, enabling dynamic adaptation to heterogeneous corpora.
+
+- **ACL 2026 Oral Contribution**: Introduces novel techniques for cross-modal retrieval alignment and granularity-aware generation, validated on benchmarks spanning multimodal datasets.
 
 ## Why It Matters
 

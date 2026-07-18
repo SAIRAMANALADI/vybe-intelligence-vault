@@ -31,8 +31,8 @@ selection_reason:
 ## Summary
 
 - **Java-based PDF parser** designed for AI-ready data extraction, supporting accessibility (a11y) and PDF/UA compliance for automated document processing.
-- **Multi-format output** including HTML, JSON, Markdown, and bounding-box annotations, with OCR support for scanned documents and table extraction.
-- **Open-source tool** optimized for RAG pipelines, enabling tagged PDF parsing and conversion while maintaining compatibility with tagged PDF structures.
+- **Multi-format output** (HTML, JSON, Markdown) with OCR, bounding-box detection, and table extraction for structured data conversion.
+- **Open-source tool** optimized for RAG pipelines, tagged PDFs, and EAA (European Accessibility Act) compliance, last updated July 2026.
 
 ## Use Cases
 

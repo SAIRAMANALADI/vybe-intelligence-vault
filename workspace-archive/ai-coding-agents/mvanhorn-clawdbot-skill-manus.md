@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Task Delegation Framework**: OpenClaw skill enabling delegation of complex tasks (web research, report generation, code building, data scraping) to Manus AI via task templates, with monitoring and cost tracking capabilities.
-
-- **Autonomous Agent Integration**: Shell-based implementation for AI-agent orchestration (Manus AI) within ClawHub/OpenClaw ecosystem, supporting autonomous task execution and web browsing automation.
-
-- **Operational Toolkit**: Provides structured task management (tem
+- **Task Delegation Framework**: OpenClaw skill enabling autonomous task execution via Manus AI for web research, report generation, code building, and data scraping with predefined templates and monitoring capabilities.
+- **Cost & Process Tracking**: Integrated tracking of operational metrics (e.g., API costs, task duration) for performance optimization and auditability in Manus AI workflows.
+- **Shell-Based Automation**: Lightweight CLI implementation (Shell) for seamless integration with Claw
 
 ## Use Cases
 

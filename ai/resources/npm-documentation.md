@@ -4,22 +4,23 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/npm/documentation
-collected_at: '2026-07-14T13:04:20.778308+05:30'
-published_at: '2026-07-14T05:30:41Z'
+collected_at: '2026-07-18T01:13:16.876421+05:30'
+published_at: '2026-07-17T19:06:36Z'
 tags:
 - github-repo
+- hackernews
 - mdx
-stars: 680
+stars: 682
 language: MDX
 status: active
 license: CC-BY-4.0
 archived: false
 created_at: '2020-09-22T21:51:41Z'
-pushed_at: '2026-07-13T05:37:56Z'
+pushed_at: '2026-07-17T18:05:15Z'
 resource_id: github:npm/documentation
-first_seen: '2026-07-14T13:04:20.778308+05:30'
-last_seen: '2026-07-14T13:04:20.778308+05:30'
-last_checked: '2026-07-14T13:04:20.778308+05:30'
+first_seen: '2026-07-18T01:13:16.876421+05:30'
+last_seen: '2026-07-18T01:13:16.876421+05:30'
+last_checked: '2026-07-18T01:13:16.876421+05:30'
 health_score: 100
 ---
 
@@ -27,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Hosts documentation for npm registry, website, and CLI tools, written in MDX.
-- **Repository Stats**: 680 stars, 4050 forks, last updated July 14, 2026.
-- **Focus**: Primarily supports npm command-line interface (CLI) development and usage.
+- **Repository Purpose**: Hosts documentation for npm registry, website, and CLI tools, written in MDX format.
+- **Project Metrics**: 682 stars, 4061 forks, last updated on 2026-07-17.
+- **Technical Focus**: Primarily supports npm CLI development and related tooling.
 
 ## Why It Matters
 
@@ -38,15 +39,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: npm
-- Stars: 680
-- Forks: 4050
+- Stars: 682
+- Forks: 4061
 - Language: MDX
 - Topics: npm-cli
-- Last Updated: 2026-07-14T05:30:41Z
+- Last Updated: 2026-07-17T19:06:36Z
 - License: CC-BY-4.0
 - Archived: No
 - Created At: 2020-09-22T21:51:41Z
-- Pushed At: 2026-07-13T05:37:56Z
+- Pushed At: 2026-07-17T18:05:15Z
 
 ## Possible Use Cases
 

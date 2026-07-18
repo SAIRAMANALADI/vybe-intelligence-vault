@@ -2,14 +2,21 @@
 title: stanford-oval/storm
 archive_category: agent-frameworks
 source_category: ai/rag
-source_url: https://github.com/stanford-oval/storm?source=post_page
+source_url: https://github.com/stanford-oval/storm?source=-----dba899ae0355---------------------------------------
 resource_id: github:stanford-oval/storm
-local_vault_path: ai/rag/stanford-oval-storm.md
+local_vault_path: ai/rag/stanford-oval-storm-2.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
+tags:
+- agents
+- github-repo
+- models
+- python
+- rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -28,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **LLM-Powered Knowledge Curation**: Uses large language models (LLMs) to autonomously research topics, synthesize information, and generate comprehensive reports with inline citations from retrieved sources.
-
-- **Multi-Agent Retrieval-Augmented Generation (RAG)**: Implements an agentic RAG framework (`storm`) where specialized agents iteratively retrieve, verify, and refine information to produce structured, citation-backed reports.
-
-- **EMNLP 2024 & NAACL Contributions**: Presented as a resea
+- **LLM-Powered Knowledge Curation**: Automates research and report generation for any topic using large language models (LLMs) with integrated citation tracking.
+- **Agentic RAG & Deep Research**: Implements retrieval-augmented generation (RAG) with multi-agent orchestration for iterative, in-depth topic exploration and synthesis.
+- **EMNLP/NAACL Framework**: Designed for structured, citation-backed report generation, optimized for NLP research workflows with Python-based implementation.
 
 ## Use Cases
 
@@ -42,8 +47,8 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/stanford-oval/storm?source=post_page
+Original source URL: https://github.com/stanford-oval/storm?source=-----dba899ae0355---------------------------------------
 
 ## Local Vault File
 
-Path: [stanford-oval-storm.md](../../ai/rag/stanford-oval-storm.md)
+Path: [stanford-oval-storm-2.md](../../ai/rag/stanford-oval-storm-2.md)

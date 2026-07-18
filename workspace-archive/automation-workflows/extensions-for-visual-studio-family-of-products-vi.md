@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **VS Code Marketplace**: Centralized hub for discovering, installing, and publishing Visual Studio Code extensions, enabling IDE customization and workflow optimization.
+- **Visual Studio Marketplace**: Centralized hub for VS Code extensions, themes, and tools, accessible via [marketplace.visualstudio.com](https://marketplace.visualstudio.com/VSCode).
 
-- **Authentication & Access Control**: Requires sign-in via Azure DevOps (vssps.visualstudio.com) for user identity verification and personalized extension management.
+- **Authentication & Integration**: Supports sign-in via Azure DevOps (vssps.visualstudio.com) with OAuth2/OIDC for secure extension management and deployment workflows.
 
-- **Compliance & Privacy**: Adheres to Microsoft’s [Terms of Use](https://aka.ms/vsmarketplace-ToU) and [Privacy Policy](https://go.microsoft.com/fwlink/?Link
+- **Compliance & Privacy**: Adheres to Microsoft’s [Terms of Use](https://aka.ms/vsmarketplace-ToU), [Privacy Policy](https://go.microsoft.com/f
 
 ## Use Cases
 
