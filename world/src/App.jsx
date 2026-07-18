@@ -6,6 +6,8 @@ import { useVaultIndex } from './data/vaultHooks';
 const IS_PROD = window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1';
 const VAULT_REPO_URL = 'https://raw.githubusercontent.com/sairaman436/vybe-intelligence-vault/main';
 
+const BASE_PATH = IS_PROD ? '/vybe-intelligence-vault/' : '/';
+
 /* ─── Markdown Viewer ─── */
 function MarkdownViewer({ node, onNavigate, onBack }) {
   const [content, setContent] = useState('');
@@ -16,9 +18,7 @@ function MarkdownViewer({ node, onNavigate, onBack }) {
     setLoading(true);
     setContent('');
 
-    const fileUrl = IS_PROD
-      ? `${VAULT_REPO_URL}/${node.path}`
-      : `/vault/${node.path}`;
+    const fileUrl = `${BASE_PATH}vault/${node.path}`;
 
     fetch(fileUrl)
       .then((res) => {

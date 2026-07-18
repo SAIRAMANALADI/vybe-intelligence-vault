@@ -5,6 +5,8 @@ import ReactMarkdown from 'react-markdown';
 const IS_PROD = window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1';
 const VAULT_REPO_URL = 'https://raw.githubusercontent.com/sairaman436/vybe-intelligence-vault/main';
 
+const BASE_PATH = IS_PROD ? '/vybe-intelligence-vault/' : '/';
+
 export default function DetailPanel({ node, onClose }) {
   const [content, setContent] = useState('');
   const [loading, setLoading] = useState(false);
@@ -17,9 +19,7 @@ export default function DetailPanel({ node, onClose }) {
     setContent('');
     setIsClosing(false);
 
-    const fileUrl = IS_PROD
-      ? `${VAULT_REPO_URL}/${node.path}`
-      : `/vault/${node.path}`;
+    const fileUrl = `${BASE_PATH}vault/${node.path}`;
 
     fetch(fileUrl)
       .then((res) => {

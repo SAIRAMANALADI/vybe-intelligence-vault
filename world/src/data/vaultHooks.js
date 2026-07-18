@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 
 const IS_PROD = window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1';
 const VAULT_REPO_URL = 'https://raw.githubusercontent.com/sairaman436/vybe-intelligence-vault/main';
+const BASE_PATH = IS_PROD ? '/vybe-intelligence-vault/' : '/';
 
 // 1. Hook to fetch vault-index.json (no localStorage caching — index is too large)
 export function useVaultIndex() {
@@ -10,9 +11,7 @@ export function useVaultIndex() {
 
   useEffect(() => {
     const fetchIndex = () => {
-      const indexUrl = IS_PROD 
-        ? `${VAULT_REPO_URL}/world/public/vault-index.json` 
-        : '/vault-index.json';
+      const indexUrl = `${BASE_PATH}vault-index.json`;
 
       fetch(indexUrl)
         .then((res) => {
@@ -24,20 +23,8 @@ export function useVaultIndex() {
           setLoading(false);
         })
         .catch((err) => {
-          console.error('Error fetching vault index, attempting fallback:', err);
-          fetch('vault-index.json')
-            .then(res => {
-              if (!res.ok) throw new Error('Failed to load local index');
-              return res.json();
-            })
-            .then(data => {
-              setIndexData(data);
-              setLoading(false);
-            })
-            .catch(fallbackErr => {
-              console.error('Fallback fetch failed:', fallbackErr);
-              setLoading(false);
-            });
+          console.error('Error fetching vault index:', err);
+          setLoading(false);
         });
     };
 
