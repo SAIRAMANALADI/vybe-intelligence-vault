@@ -1,13 +1,22 @@
 ---
-title: "ariefalabbasi/mcp-audit"
-category: "Tooling"
-tech_stack: ["Python", "MCP", "Desktop Application", "Token Tracking"]
+title: ariefalabbasi/mcp-audit
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- MCP
+- Desktop Application
+- Token Tracking
 quality_score: 7
 rag_relevance: 6
-tags: ["token tracking", "MCP", "real-time monitoring", "context optimization", "usage analytics"]
-source: "https://github.com/ariefalabbasi/mcp-audit"
-discovered_at: "2026-06-24T18:56:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- token tracking
+- MCP
+- real-time monitoring
+- context optimization
+- usage analytics
+source: https://github.com/ariefalabbasi/mcp-audit
+discovered_at: '2026-06-24T18:56:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

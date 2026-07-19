@@ -1,13 +1,23 @@
 ---
-title: "bethinamacrocephalic696/AI-Text-Processing-Assistant"
-category: "Tooling"
-tech_stack: ["Python", "Local LLMs", "JSON", "Ollama", "Prompt Engineering"]
+title: bethinamacrocephalic696/AI-Text-Processing-Assistant
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Local LLMs
+- JSON
+- Ollama
+- Prompt Engineering
 quality_score: 7
 rag_relevance: 6
-tags: ["text-processing", "local-ai", "json-extraction", "privacy-focused", "workflow-automation"]
-source: "https://github.com/bethinamacrocephalic696/AI-Text-Processing-Assistant"
-discovered_at: "2026-07-07T18:58:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- text-processing
+- local-ai
+- json-extraction
+- privacy-focused
+- workflow-automation
+source: https://github.com/bethinamacrocephalic696/AI-Text-Processing-Assistant
+discovered_at: '2026-07-07T18:58:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

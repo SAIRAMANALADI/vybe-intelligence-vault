@@ -1,13 +1,31 @@
 ---
-title: "archestra-ai/archestra"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Kubernetes", "Docker", "OpenTelemetry", "Prometheus", "Terraform", "Helm", "OAuth", "SSO", "RBAC", "LLM Gateway", "MCP Gateway", "A2A Gateway"]
+title: archestra-ai/archestra
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Kubernetes
+- Docker
+- OpenTelemetry
+- Prometheus
+- Terraform
+- Helm
+- OAuth
+- SSO
+- RBAC
+- LLM Gateway
+- MCP Gateway
+- A2A Gateway
 quality_score: 9
 rag_relevance: 8
-tags: ["enterprise AI", "MCP orchestrator", "agent framework", "RAG platform", "governance"]
-source: "https://github.com/archestra-ai/archestra"
-discovered_at: "2026-06-23T21:36:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- enterprise AI
+- MCP orchestrator
+- agent framework
+- RAG platform
+- governance
+source: https://github.com/archestra-ai/archestra
+discovered_at: '2026-06-23T21:36:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

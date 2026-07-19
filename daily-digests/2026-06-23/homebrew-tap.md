@@ -1,13 +1,23 @@
 ---
-title: "knotpad/homebrew-tap"
-category: "Tooling"
-tech_stack: ["Homebrew", "Ruby", "Tauri", "GitHub Actions", "Shell Scripting"]
+title: knotpad/homebrew-tap
+category: daily-digests/2026-06-23
+tech_stack:
+- Homebrew
+- Ruby
+- Tauri
+- GitHub Actions
+- Shell Scripting
 quality_score: 7
 rag_relevance: 3
-tags: ["distribution", "desktop-app", "package-manager", "cross-platform", "auto-updater"]
-source: "https://github.com/knotpad/homebrew-tap"
-discovered_at: "2026-06-23T16:32:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- distribution
+- desktop-app
+- package-manager
+- cross-platform
+- auto-updater
+source: https://github.com/knotpad/homebrew-tap
+discovered_at: '2026-06-23T16:32:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

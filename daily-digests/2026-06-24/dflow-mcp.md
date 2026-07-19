@@ -1,13 +1,22 @@
 ---
-title: "ba1nch0d/dflow-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Model Context Protocol (MCP)", "Solana", "API Integration"]
+title: ba1nch0d/dflow-mcp
+category: daily-digests/2026-06-24
+tech_stack:
+- JavaScript
+- Model Context Protocol (MCP)
+- Solana
+- API Integration
 quality_score: 6
 rag_relevance: 7
-tags: ["MCP server", "Solana integration", "API tools", "data processing", "real-time analytics"]
-source: "https://github.com/ba1nch0d/dflow-mcp"
-discovered_at: "2026-06-24T18:56:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Solana integration
+- API tools
+- data processing
+- real-time analytics
+source: https://github.com/ba1nch0d/dflow-mcp
+discovered_at: '2026-06-24T18:56:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

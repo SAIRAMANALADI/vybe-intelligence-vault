@@ -1,13 +1,32 @@
 ---
-title: "atomicdragonranch/streamops-agent"
-category: "Orchestrator"
-tech_stack: ["Apache Flink 2.0", "Apache Kafka", "Java 17+", "Python 3.11+", "MCP (Model Context Protocol)", "Claude API", "Prometheus", "Grafana", "Protobuf", "Docker", "Maven", "pytest", "JUnit 5", "FastMCP"]
+title: atomicdragonranch/streamops-agent
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Apache Flink 2.0
+- Apache Kafka
+- Java 17+
+- Python 3.11+
+- MCP (Model Context Protocol)
+- Claude API
+- Prometheus
+- Grafana
+- Protobuf
+- Docker
+- Maven
+- pytest
+- JUnit 5
+- FastMCP
 quality_score: 9
 rag_relevance: 9
-tags: ["streaming infrastructure", "anomaly detection", "multi-agent system", "observability", "real-time monitoring"]
-source: "https://github.com/atomicdragonranch/streamops-agent"
-discovered_at: "2026-06-23T19:07:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- streaming infrastructure
+- anomaly detection
+- multi-agent system
+- observability
+- real-time monitoring
+source: https://github.com/atomicdragonranch/streamops-agent
+discovered_at: '2026-06-23T19:07:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

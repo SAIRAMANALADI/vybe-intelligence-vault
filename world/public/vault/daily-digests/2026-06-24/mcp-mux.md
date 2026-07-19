@@ -1,13 +1,29 @@
 ---
-title: "mcpmux/mcp-mux"
-category: "Orchestrator"
-tech_stack: ["Rust", "Tauri 2", "React 19", "Axum", "SQLite", "OS Keychain (DPAPI, Keychain, libsecret)", "AES-256-GCM", "OAuth 2.1 + PKCE", "rmcp", "ring", "pnpm"]
+title: mcpmux/mcp-mux
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Rust
+- Tauri 2
+- React 19
+- Axum
+- SQLite
+- OS Keychain (DPAPI, Keychain, libsecret)
+- AES-256-GCM
+- OAuth 2.1 + PKCE
+- rmcp
+- ring
+- pnpm
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP gateway", "AI client integration", "cross-platform", "server management", "workspace isolation"]
-source: "https://github.com/mcpmux/mcp-mux"
-discovered_at: "2026-06-24T13:22:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP gateway
+- AI client integration
+- cross-platform
+- server management
+- workspace isolation
+source: https://github.com/mcpmux/mcp-mux
+discovered_at: '2026-06-24T13:22:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

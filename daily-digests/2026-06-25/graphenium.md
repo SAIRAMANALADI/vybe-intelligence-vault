@@ -1,13 +1,24 @@
 ---
-title: "lambda-alpha-labs/Graphenium"
-category: "Orchestrator"
-tech_stack: ["Rust", "Tree-sitter", "Stack Graphs", "Model Context Protocol (MCP)", "Louvain community detection", "OpenTelemetry (experimental)"]
+title: lambda-alpha-labs/Graphenium
+category: daily-digests/2026-06-25
+tech_stack:
+- Rust
+- Tree-sitter
+- Stack Graphs
+- Model Context Protocol (MCP)
+- Louvain community detection
+- OpenTelemetry (experimental)
 quality_score: 9
 rag_relevance: 10
-tags: ["structural graph", "AI navigation", "codebase analysis", "MCP server", "impact analysis"]
-source: "https://github.com/lambda-alpha-labs/Graphenium"
-discovered_at: "2026-06-25T11:40:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- structural graph
+- AI navigation
+- codebase analysis
+- MCP server
+- impact analysis
+source: https://github.com/lambda-alpha-labs/Graphenium
+discovered_at: '2026-06-25T11:40:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

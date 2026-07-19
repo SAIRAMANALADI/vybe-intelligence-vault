@@ -1,13 +1,23 @@
 ---
-title: "NachaFromMars/qr-code-generator"
-category: "Tooling"
-tech_stack: ["qrencode", "CLI", "PNG", "SVG", "Terminal Output"]
+title: NachaFromMars/qr-code-generator
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- qrencode
+- CLI
+- PNG
+- SVG
+- Terminal Output
 quality_score: 6
 rag_relevance: 5
-tags: ["QR code generation", "CLI utility", "print-ready", "terminal output", "OpenClaw skill"]
-source: "https://github.com/NachaFromMars/qr-code-generator"
-discovered_at: "2026-06-23T06:48:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- QR code generation
+- CLI utility
+- print-ready
+- terminal output
+- OpenClaw skill
+source: https://github.com/NachaFromMars/qr-code-generator
+discovered_at: '2026-06-23T06:48:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

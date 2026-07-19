@@ -1,13 +1,31 @@
 ---
-title: "Brhiza/mingyu"
-category: "Tooling"
-tech_stack: ["TypeScript", "React", "Vite", "pnpm", "Node.js", "Cloudflare Pages/Pages Functions", "Docker", "MCP Server", "OpenAPI", "zod", "tyme4ts", "iztro", "celestine"]
+title: Brhiza/mingyu
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- React
+- Vite
+- pnpm
+- Node.js
+- Cloudflare Pages/Pages Functions
+- Docker
+- MCP Server
+- OpenAPI
+- zod
+- tyme4ts
+- iztro
+- celestine
 quality_score: 9
 rag_relevance: 8
-tags: ["\u547d\u7406\u6392\u76d8", "\u5360\u535c\u63d0\u793a\u8bcd", "AI\u96c6\u6210", "\u4f20\u7edf\u672f\u6570", "MCP Server"]
-source: "https://github.com/Brhiza/mingyu"
-discovered_at: "2026-07-10T06:53:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- 命理排盘
+- 占卜提示词
+- AI集成
+- 传统术数
+- MCP Server
+source: https://github.com/Brhiza/mingyu
+discovered_at: '2026-07-10T06:53:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

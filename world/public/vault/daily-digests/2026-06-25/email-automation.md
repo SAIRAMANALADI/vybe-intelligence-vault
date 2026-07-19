@@ -1,13 +1,25 @@
 ---
-title: "maheerCodes/Email-Automation"
-category: "Orchestrator"
-tech_stack: ["n8n", "Google Gemini 1.5 Flash", "Google Sheets API", "Gmail API", "LangChain", "JavaScript", "Google OAuth 2.0"]
+title: maheerCodes/Email-Automation
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- n8n
+- Google Gemini 1.5 Flash
+- Google Sheets API
+- Gmail API
+- LangChain
+- JavaScript
+- Google OAuth 2.0
 quality_score: 9
 rag_relevance: 9
-tags: ["AI Email Automation", "RAG", "n8n Workflow", "Google Gemini", "Multilingual Assistant"]
-source: "https://github.com/maheerCodes/Email-Automation"
-discovered_at: "2026-06-25T11:38:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Email Automation
+- RAG
+- n8n Workflow
+- Google Gemini
+- Multilingual Assistant
+source: https://github.com/maheerCodes/Email-Automation
+discovered_at: '2026-06-25T11:38:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

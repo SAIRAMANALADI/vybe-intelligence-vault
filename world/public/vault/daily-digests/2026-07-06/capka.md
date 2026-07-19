@@ -1,13 +1,28 @@
 ---
-title: "LyoSU/capka"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Next.js", "Docker", "PostgreSQL", "Python", "Node.js", "Ollama", "MCP (Model Context Protocol)", "Caddy", "gVisor"]
+title: LyoSU/capka
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- Next.js
+- Docker
+- PostgreSQL
+- Python
+- Node.js
+- Ollama
+- MCP (Model Context Protocol)
+- Caddy
+- gVisor
 quality_score: 9
 rag_relevance: 8
-tags: ["self-hosted", "AI workspace", "sandboxing", "multi-user", "file management"]
-source: "https://github.com/LyoSU/capka"
-discovered_at: "2026-07-06T19:48:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-hosted
+- AI workspace
+- sandboxing
+- multi-user
+- file management
+source: https://github.com/LyoSU/capka
+discovered_at: '2026-07-06T19:48:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

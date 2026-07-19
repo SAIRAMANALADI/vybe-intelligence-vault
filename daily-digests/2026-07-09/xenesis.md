@@ -1,13 +1,29 @@
 ---
-title: "xamong/Xenesis"
-category: "Orchestrator"
-tech_stack: ["Electron", "React", "TypeScript", "Node.js", "MCP (Model Context Protocol)", "CodeMirror 6", "XCON", "Gowoori", "SQLite", "Telegram/Discord/Slack Gateway", "Playwright"]
+title: xamong/Xenesis
+category: daily-digests/2026-07-09
+tech_stack:
+- Electron
+- React
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- CodeMirror 6
+- XCON
+- Gowoori
+- SQLite
+- Telegram/Discord/Slack Gateway
+- Playwright
 quality_score: 8
 rag_relevance: 9
-tags: ["AI agent workbench", "MCP integration", "live UI rendering", "multi-agent control", "terminal automation"]
-source: "https://github.com/xamong/Xenesis"
-discovered_at: "2026-07-09T08:24:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent workbench
+- MCP integration
+- live UI rendering
+- multi-agent control
+- terminal automation
+source: https://github.com/xamong/Xenesis
+discovered_at: '2026-07-09T08:24:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

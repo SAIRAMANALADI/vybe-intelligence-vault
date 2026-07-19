@@ -1,13 +1,22 @@
 ---
-title: "Alicsealed322/remembrallmcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Memory Management", "AI Context Retention"]
+title: Alicsealed322/remembrallmcp
+category: world/public/vault/daily-digests/2026-07-04
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Memory Management
+- AI Context Retention
 quality_score: 3
 rag_relevance: 6
-tags: ["memory", "context", "MCP", "AI persistence", "long-term storage"]
-source: "https://github.com/Alicsealed322/remembrallmcp"
-discovered_at: "2026-07-04T00:02:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory
+- context
+- MCP
+- AI persistence
+- long-term storage
+source: https://github.com/Alicsealed322/remembrallmcp
+discovered_at: '2026-07-04T00:02:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

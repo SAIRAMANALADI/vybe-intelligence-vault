@@ -1,13 +1,25 @@
 ---
-title: "soloagency/solo-agency"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Python", "LLM-based agents", "Chrome Extensions", "API integrations (Google Veo, Seedance, Kling, etc.)", "Automation frameworks", "HTML/CSS for reporting"]
+title: soloagency/solo-agency
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- JavaScript
+- Python
+- LLM-based agents
+- Chrome Extensions
+- API integrations (Google Veo, Seedance, Kling, etc.)
+- Automation frameworks
+- HTML/CSS for reporting
 quality_score: 7
 rag_relevance: 6
-tags: ["marketing automation", "AI agent workflow", "content intelligence", "lead generation", "competitor analysis"]
-source: "https://github.com/soloagency/solo-agency"
-discovered_at: "2026-06-24T20:47:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- marketing automation
+- AI agent workflow
+- content intelligence
+- lead generation
+- competitor analysis
+source: https://github.com/soloagency/solo-agency
+discovered_at: '2026-06-24T20:47:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

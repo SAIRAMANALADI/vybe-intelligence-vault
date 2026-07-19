@@ -1,13 +1,33 @@
 ---
-title: "wlsdks/Muse"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "React", "Fastify", "Ollama", "WhisperKit", "Qwen3-TTS", "Rust", "Swift", "OpenAI-compatible APIs", "MCP (Model Context Protocol)", "Telegram", "Discord", "Slack", "LINE"]
+title: wlsdks/Muse
+category: daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- Fastify
+- Ollama
+- WhisperKit
+- Qwen3-TTS
+- Rust
+- Swift
+- OpenAI-compatible APIs
+- MCP (Model Context Protocol)
+- Telegram
+- Discord
+- Slack
+- LINE
 quality_score: 9
 rag_relevance: 8
-tags: ["personal AI", "local-first", "grounded recall", "multi-agent", "privacy-focused"]
-source: "https://github.com/wlsdks/Muse"
-discovered_at: "2026-06-22T23:22:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personal AI
+- local-first
+- grounded recall
+- multi-agent
+- privacy-focused
+source: https://github.com/wlsdks/Muse
+discovered_at: '2026-06-22T23:22:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

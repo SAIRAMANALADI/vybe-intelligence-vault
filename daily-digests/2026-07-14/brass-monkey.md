@@ -1,13 +1,24 @@
 ---
-title: "actinon-com/brass-monkey"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Gemini CLI", "Model Context Protocol (MCP)", "Odoo API", "Node.js", "Secure Keychain (OS-level)"]
+title: actinon-com/brass-monkey
+category: daily-digests/2026-07-14
+tech_stack:
+- TypeScript
+- Gemini CLI
+- Model Context Protocol (MCP)
+- Odoo API
+- Node.js
+- Secure Keychain (OS-level)
 quality_score: 9
 rag_relevance: 8
-tags: ["Odoo integration", "AI agent tools", "ERP navigation", "MCP bridge", "audit logging"]
-source: "https://github.com/actinon-com/brass-monkey"
-discovered_at: "2026-07-14T05:28:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Odoo integration
+- AI agent tools
+- ERP navigation
+- MCP bridge
+- audit logging
+source: https://github.com/actinon-com/brass-monkey
+discovered_at: '2026-07-14T05:28:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

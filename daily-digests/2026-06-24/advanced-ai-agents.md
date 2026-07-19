@@ -1,13 +1,27 @@
 ---
-title: "Irsa070501/Advanced-AI-Agents"
-category: "Agent Framework"
-tech_stack: ["Python", "Phidata", "CrewAI", "LangChain", "Google ADK", "OpenAI", "Anthropic", "Google", "LLMs"]
+title: Irsa070501/Advanced-AI-Agents
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Phidata
+- CrewAI
+- LangChain
+- Google ADK
+- OpenAI
+- Anthropic
+- Google
+- LLMs
 quality_score: 6
 rag_relevance: 7
-tags: ["multi-agent systems", "AI agents", "agent frameworks", "autonomous agents", "production-ready"]
-source: "https://github.com/Irsa070501/Advanced-AI-Agents"
-discovered_at: "2026-06-24T16:22:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- AI agents
+- agent frameworks
+- autonomous agents
+- production-ready
+source: https://github.com/Irsa070501/Advanced-AI-Agents
+discovered_at: '2026-06-24T16:22:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

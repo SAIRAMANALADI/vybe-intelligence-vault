@@ -1,13 +1,28 @@
 ---
-title: "ElnurIbrahimov/apprentice-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "React", "TypeScript", "Ollama", "Telegram Bot API", "Browser Extensions", "MCTS (Monte Carlo Tree Search)", "Knowledge Graph", "Docker"]
+title: ElnurIbrahimov/apprentice-agent
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- FastAPI
+- React
+- TypeScript
+- Ollama
+- Telegram Bot API
+- Browser Extensions
+- MCTS (Monte Carlo Tree Search)
+- Knowledge Graph
+- Docker
 quality_score: 7
 rag_relevance: 8
-tags: ["personal AI assistant", "multi-surface agent", "agentic tool loop", "self-hosted", "cognitive systems"]
-source: "https://github.com/ElnurIbrahimov/apprentice-agent"
-discovered_at: "2026-06-23T08:55:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personal AI assistant
+- multi-surface agent
+- agentic tool loop
+- self-hosted
+- cognitive systems
+source: https://github.com/ElnurIbrahimov/apprentice-agent
+discovered_at: '2026-06-23T08:55:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

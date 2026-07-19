@@ -1,13 +1,26 @@
 ---
-title: "Abhiskek-kumar/llm-wiki-patterns"
-category: "Agent Framework"
-tech_stack: ["Python", "LLM APIs (OpenAI, Claude)", "Neo4j", "Vector Embeddings", "NLP Parsers", "YAML/JSON Configuration", "CLI Tools", "WebGL UI"]
+title: Abhiskek-kumar/llm-wiki-patterns
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- LLM APIs (OpenAI, Claude)
+- Neo4j
+- Vector Embeddings
+- NLP Parsers
+- YAML/JSON Configuration
+- CLI Tools
+- WebGL UI
 quality_score: 8
 rag_relevance: 9
-tags: ["autonomous research", "knowledge graph", "agentic workflows", "multilingual processing", "RAG optimization"]
-source: "https://github.com/Abhiskek-kumar/llm-wiki-patterns"
-discovered_at: "2026-06-22T23:18:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous research
+- knowledge graph
+- agentic workflows
+- multilingual processing
+- RAG optimization
+source: https://github.com/Abhiskek-kumar/llm-wiki-patterns
+discovered_at: '2026-06-22T23:18:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

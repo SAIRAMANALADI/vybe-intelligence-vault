@@ -1,13 +1,33 @@
 ---
-title: "raintree-technology/docpull"
-category: "Tooling"
-tech_stack: ["Python", "CLI", "MCP (Model Context Protocol)", "SQLite", "Tavily", "Exa", "Parallel", "Vercel Sandbox", "E2B", "Trafilatura", "Jinja2", "FastAPI", "Async HTTP", "NDJSON", "Markdown"]
+title: raintree-technology/docpull
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- CLI
+- MCP (Model Context Protocol)
+- SQLite
+- Tavily
+- Exa
+- Parallel
+- Vercel Sandbox
+- E2B
+- Trafilatura
+- Jinja2
+- FastAPI
+- Async HTTP
+- NDJSON
+- Markdown
 quality_score: 9
 rag_relevance: 10
-tags: ["web scraping", "RAG context", "local-first", "agent tools", "document conversion"]
-source: "https://github.com/raintree-technology/docpull"
-discovered_at: "2026-06-24T20:48:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web scraping
+- RAG context
+- local-first
+- agent tools
+- document conversion
+source: https://github.com/raintree-technology/docpull
+discovered_at: '2026-06-24T20:48:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

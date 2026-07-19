@@ -1,13 +1,26 @@
 ---
-title: "YS-projectcalc/agent-cold-email"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Cloudflare Workers", "MCP (Model Context Protocol)", "CLI (npm package)", "Stripe (test mode)", "REST API", "JSON-RPC 2.0", "React (optional dashboard)"]
+title: YS-projectcalc/agent-cold-email
+category: daily-digests/2026-07-15
+tech_stack:
+- TypeScript
+- Cloudflare Workers
+- MCP (Model Context Protocol)
+- CLI (npm package)
+- Stripe (test mode)
+- REST API
+- JSON-RPC 2.0
+- React (optional dashboard)
 quality_score: 8
 rag_relevance: 9
-tags: ["cold email automation", "agent-native infrastructure", "MCP server", "multi-tenant isolation", "deliverability guardrails"]
-source: "https://github.com/YS-projectcalc/agent-cold-email"
-discovered_at: "2026-07-15T20:08:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- cold email automation
+- agent-native infrastructure
+- MCP server
+- multi-tenant isolation
+- deliverability guardrails
+source: https://github.com/YS-projectcalc/agent-cold-email
+discovered_at: '2026-07-15T20:08:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

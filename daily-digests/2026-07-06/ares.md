@@ -1,13 +1,29 @@
 ---
-title: "shuwalker/ARES"
-category: "Orchestrator"
-tech_stack: ["Python", "Swift", "Hermes Agent", "JROS (Robotics Framework)", "Ollama Cloud", "IMAP", "Edge-TTS", "SQLite", "FastAPI", "SwiftUI", "WKWebView"]
+title: shuwalker/ARES
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- Swift
+- Hermes Agent
+- JROS (Robotics Framework)
+- Ollama Cloud
+- IMAP
+- Edge-TTS
+- SQLite
+- FastAPI
+- SwiftUI
+- WKWebView
 quality_score: 8
 rag_relevance: 7
-tags: ["embodied AI", "persistent intelligence", "agent orchestration", "multi-model routing", "workflow automation"]
-source: "https://github.com/shuwalker/ARES"
-discovered_at: "2026-07-06T23:03:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- embodied AI
+- persistent intelligence
+- agent orchestration
+- multi-model routing
+- workflow automation
+source: https://github.com/shuwalker/ARES
+discovered_at: '2026-07-06T23:03:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "dagonet/claude-code-toolkit"
-category: "Agent Framework"
-tech_stack: ["Claude Code", "Shell", "MCP (Model Context Protocol)", "Node.js", "Git", "Python", ".NET", "Rust", "Java", "TypeScript"]
+title: dagonet/claude-code-toolkit
+category: daily-digests/2026-07-09
+tech_stack:
+- Claude Code
+- Shell
+- MCP (Model Context Protocol)
+- Node.js
+- Git
+- Python
+- .NET
+- Rust
+- Java
+- TypeScript
 quality_score: 9
 rag_relevance: 8
-tags: ["Claude Code", "Agent Workflow", "Project Bootstrap", "MCP Integration", "Multi-Language Support"]
-source: "https://github.com/dagonet/claude-code-toolkit"
-discovered_at: "2026-07-09T14:45:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- Agent Workflow
+- Project Bootstrap
+- MCP Integration
+- Multi-Language Support
+source: https://github.com/dagonet/claude-code-toolkit
+discovered_at: '2026-07-09T14:45:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "rudegent1705/Context-Gateway"
-category: "Tooling"
-tech_stack: ["Go", "Local Proxy", "API Integration", "Memory Optimization"]
+title: rudegent1705/Context-Gateway
+category: daily-digests/2026-06-24
+tech_stack:
+- Go
+- Local Proxy
+- API Integration
+- Memory Optimization
 quality_score: 7
 rag_relevance: 8
-tags: ["context management", "AI memory optimization", "proxy tool", "LLM efficiency", "local processing"]
-source: "https://github.com/rudegent1705/Context-Gateway"
-discovered_at: "2026-06-24T16:20:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- context management
+- AI memory optimization
+- proxy tool
+- LLM efficiency
+- local processing
+source: https://github.com/rudegent1705/Context-Gateway
+discovered_at: '2026-06-24T16:20:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "tesserine/runa"
-category: "Orchestrator"
-tech_stack: ["Rust", "TOML", "JSON Schema", "Model Context Protocol (MCP)", "CLI", "Methodology Plugins"]
+title: tesserine/runa
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Rust
+- TOML
+- JSON Schema
+- Model Context Protocol (MCP)
+- CLI
+- Methodology Plugins
 quality_score: 9
 rag_relevance: 10
-tags: ["agent workflows", "contract enforcement", "schema validation", "dependency graph", "methodology-driven"]
-source: "https://github.com/tesserine/runa"
-discovered_at: "2026-07-07T22:09:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent workflows
+- contract enforcement
+- schema validation
+- dependency graph
+- methodology-driven
+source: https://github.com/tesserine/runa
+discovered_at: '2026-07-07T22:09:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

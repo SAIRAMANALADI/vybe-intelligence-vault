@@ -1,13 +1,21 @@
 ---
-title: "theodags/Mantic.sh"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "Node.js"]
+title: theodags/Mantic.sh
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- Electron
+- Node.js
 quality_score: 4
 rag_relevance: 7
-tags: ["code search", "AI agents", "developer tools", "context retrieval", "multi-project search"]
-source: "https://github.com/theodags/Mantic.sh"
-discovered_at: "2026-07-06T21:26:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code search
+- AI agents
+- developer tools
+- context retrieval
+- multi-project search
+source: https://github.com/theodags/Mantic.sh
+discovered_at: '2026-07-06T21:26:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

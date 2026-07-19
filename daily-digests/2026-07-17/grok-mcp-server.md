@@ -1,13 +1,27 @@
 ---
-title: "djtelicloud/grok-mcp-server"
-category: "Orchestrator"
-tech_stack: ["Python", "Docker", "Streamable HTTP", "MCP (Model Context Protocol)", "SQLite", "FastAPI", "xAI Grok API", "Grok CLI", "React (Control Center UI)"]
+title: djtelicloud/grok-mcp-server
+category: daily-digests/2026-07-17
+tech_stack:
+- Python
+- Docker
+- Streamable HTTP
+- MCP (Model Context Protocol)
+- SQLite
+- FastAPI
+- xAI Grok API
+- Grok CLI
+- React (Control Center UI)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Grok integration", "multi-IDE gateway", "cost tracking", "local-first"]
-source: "https://github.com/djtelicloud/grok-mcp-server"
-discovered_at: "2026-07-11T13:14:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Grok integration
+- multi-IDE gateway
+- cost tracking
+- local-first
+source: https://github.com/djtelicloud/grok-mcp-server
+discovered_at: '2026-07-11T13:14:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

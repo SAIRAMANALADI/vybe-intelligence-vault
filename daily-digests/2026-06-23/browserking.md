@@ -1,13 +1,23 @@
 ---
-title: "Silves1485/BrowserKing"
-category: "Tooling"
-tech_stack: ["Python", "Selenium", "Playwright", "LLM Integration", "Browser Automation"]
+title: Silves1485/BrowserKing
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Selenium
+- Playwright
+- LLM Integration
+- Browser Automation
 quality_score: 5
 rag_relevance: 8
-tags: ["browser automation", "LLM interaction", "web scraping", "workflow replay", "UI automation"]
-source: "https://github.com/Silves1485/BrowserKing"
-discovered_at: "2026-06-23T02:42:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- LLM interaction
+- web scraping
+- workflow replay
+- UI automation
+source: https://github.com/Silves1485/BrowserKing
+discovered_at: '2026-06-23T02:42:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

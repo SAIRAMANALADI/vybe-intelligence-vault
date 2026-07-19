@@ -1,13 +1,23 @@
 ---
-title: "Ahmed-Mazh2r/AgentMind"
-category: "Agent Framework"
-tech_stack: ["Python", "Large Language Models (LLMs)", "Windows Desktop App", "Memory Persistence System", "Prompt Engineering"]
+title: Ahmed-Mazh2r/AgentMind
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- Large Language Models (LLMs)
+- Windows Desktop App
+- Memory Persistence System
+- Prompt Engineering
 quality_score: 7
 rag_relevance: 8
-tags: ["AI agents", "persistent memory", "metacognition", "prompt engineering", "LLM integration"]
-source: "https://github.com/Ahmed-Mazh2r/AgentMind"
-discovered_at: "2026-07-08T02:06:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- persistent memory
+- metacognition
+- prompt engineering
+- LLM integration
+source: https://github.com/Ahmed-Mazh2r/AgentMind
+discovered_at: '2026-07-08T02:06:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

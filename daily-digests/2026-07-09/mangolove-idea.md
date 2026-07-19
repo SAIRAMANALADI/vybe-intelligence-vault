@@ -1,13 +1,29 @@
 ---
-title: "SongJunSub/mangolove-idea"
-category: "Orchestrator"
-tech_stack: ["Electron", "React", "TypeScript", "node-pty", "xterm.js", "Monaco Editor", "simple-git", "electron-vite", "vitest", "Gradle", "npm"]
+title: SongJunSub/mangolove-idea
+category: daily-digests/2026-07-09
+tech_stack:
+- Electron
+- React
+- TypeScript
+- node-pty
+- xterm.js
+- Monaco Editor
+- simple-git
+- electron-vite
+- vitest
+- Gradle
+- npm
 quality_score: 9
 rag_relevance: 6
-tags: ["git worktree", "AI agent orchestration", "local development", "Electron desktop app", "parallel branch management"]
-source: "https://github.com/SongJunSub/mangolove-idea"
-discovered_at: "2026-07-09T08:24:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- git worktree
+- AI agent orchestration
+- local development
+- Electron desktop app
+- parallel branch management
+source: https://github.com/SongJunSub/mangolove-idea
+discovered_at: '2026-07-09T08:24:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "jackguihx-alt/html2style"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Playwright", "Chromium/Chrome/Edge", "Markdown", "JSON", "CLI", "MCP (Model Context Protocol)"]
+title: jackguihx-alt/html2style
+category: daily-digests/2026-07-16
+tech_stack:
+- JavaScript
+- Node.js
+- Playwright
+- Chromium/Chrome/Edge
+- Markdown
+- JSON
+- CLI
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["design extraction", "responsive measurement", "AI agent handoff", "design system documentation", "visual verification"]
-source: "https://github.com/jackguihx-alt/html2style"
-discovered_at: "2026-07-14T02:13:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- design extraction
+- responsive measurement
+- AI agent handoff
+- design system documentation
+- visual verification
+source: https://github.com/jackguihx-alt/html2style
+discovered_at: '2026-07-14T02:13:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

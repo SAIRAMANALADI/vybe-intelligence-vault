@@ -1,13 +1,29 @@
 ---
-title: "thClaws/thClaws"
-category: "Agent Framework"
-tech_stack: ["Rust", "Model Context Protocol (MCP)", "OpenAI-compatible APIs", "React", "TypeScript", "Node.js", "pnpm", "WebSocket", "SQLite", "Git", "ANSI terminal rendering"]
+title: thClaws/thClaws
+category: daily-digests/2026-07-10
+tech_stack:
+- Rust
+- Model Context Protocol (MCP)
+- OpenAI-compatible APIs
+- React
+- TypeScript
+- Node.js
+- pnpm
+- WebSocket
+- SQLite
+- Git
+- ANSI terminal rendering
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent framework", "multi-provider LLM", "MCP integration", "desktop agent", "open-source"]
-source: "https://github.com/thClaws/thClaws"
-discovered_at: "2026-07-10T06:30:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent framework
+- multi-provider LLM
+- MCP integration
+- desktop agent
+- open-source
+source: https://github.com/thClaws/thClaws
+discovered_at: '2026-07-10T06:30:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

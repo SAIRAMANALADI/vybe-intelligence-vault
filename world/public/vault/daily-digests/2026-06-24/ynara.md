@@ -1,13 +1,35 @@
 ---
-title: "BriarDevv/Ynara"
-category: "Agent Framework"
-tech_stack: ["Next.js 16", "FastAPI", "Python 3.12", "Postgres 16", "pgvector", "Ollama/GGUF", "Expo SDK 53+", "Pydantic v2", "Celery 5.4", "TypeScript", "Tailwind v4", "shadcn/ui", "Redis", "SQLAlchemy 2 async", "Alembic", "uv", "LlamaIndex"]
+title: BriarDevv/Ynara
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Next.js 16
+- FastAPI
+- Python 3.12
+- Postgres 16
+- pgvector
+- Ollama/GGUF
+- Expo SDK 53+
+- Pydantic v2
+- Celery 5.4
+- TypeScript
+- Tailwind v4
+- shadcn/ui
+- Redis
+- SQLAlchemy 2 async
+- Alembic
+- uv
+- LlamaIndex
 quality_score: 9
 rag_relevance: 8
-tags: ["on-premises", "multi-layered memory", "dual LLM", "Spanish language", "self-hosted"]
-source: "https://github.com/BriarDevv/Ynara"
-discovered_at: "2026-06-24T06:45:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- on-premises
+- multi-layered memory
+- dual LLM
+- Spanish language
+- self-hosted
+source: https://github.com/BriarDevv/Ynara
+discovered_at: '2026-06-24T06:45:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

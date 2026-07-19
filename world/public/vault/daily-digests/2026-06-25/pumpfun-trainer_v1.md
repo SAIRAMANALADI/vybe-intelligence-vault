@@ -1,13 +1,23 @@
 ---
-title: "Ingmarset98/PumpFun-Trainer_V1"
-category: "Tooling"
-tech_stack: ["Python", "Solana Blockchain", "Windows OS", "MEV Protection", "Real-time Price Monitoring"]
+title: Ingmarset98/PumpFun-Trainer_V1
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- Solana Blockchain
+- Windows OS
+- MEV Protection
+- Real-time Price Monitoring
 quality_score: 6
 rag_relevance: 5
-tags: ["Solana trading", "meme-coin automation", "MEV protection", "AI-driven execution", "Windows bot"]
-source: "https://github.com/Ingmarset98/PumpFun-Trainer_V1"
-discovered_at: "2026-06-25T08:32:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Solana trading
+- meme-coin automation
+- MEV protection
+- AI-driven execution
+- Windows bot
+source: https://github.com/Ingmarset98/PumpFun-Trainer_V1
+discovered_at: '2026-06-25T08:32:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

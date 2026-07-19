@@ -1,13 +1,27 @@
 ---
-title: "siril9/presentation-skill"
-category: "Tooling"
-tech_stack: ["Python", "pptxgenjs", "python-pptx", "Markdown", "JSON", "LibreOffice", "Poppler", "Node.js", "NPM"]
+title: siril9/presentation-skill
+category: daily-digests/2026-07-10
+tech_stack:
+- Python
+- pptxgenjs
+- python-pptx
+- Markdown
+- JSON
+- LibreOffice
+- Poppler
+- Node.js
+- NPM
 quality_score: 9
 rag_relevance: 7
-tags: ["PowerPoint generation", "presentation automation", "agent skill", "deck QA", "style presets"]
-source: "https://github.com/siril9/presentation-skill"
-discovered_at: "2026-07-10T10:51:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- PowerPoint generation
+- presentation automation
+- agent skill
+- deck QA
+- style presets
+source: https://github.com/siril9/presentation-skill
+discovered_at: '2026-07-10T10:51:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

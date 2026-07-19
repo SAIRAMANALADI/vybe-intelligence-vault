@@ -1,13 +1,29 @@
 ---
-title: "JamesWHomer/jarv"
-category: "Agent Framework"
-tech_stack: ["Python", "OpenAI Responses API", "Anthropic Messages API", "Gemini API", "OpenRouter", "Ollama", "LM Studio", "vLLM", "DuckDuckGo HTML Search", "PowerShell", "Unix Shell"]
+title: JamesWHomer/jarv
+category: daily-digests/2026-07-14
+tech_stack:
+- Python
+- OpenAI Responses API
+- Anthropic Messages API
+- Gemini API
+- OpenRouter
+- Ollama
+- LM Studio
+- vLLM
+- DuckDuckGo HTML Search
+- PowerShell
+- Unix Shell
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent", "terminal tool", "multi-model", "scriptable", "subagent orchestration"]
-source: "https://github.com/JamesWHomer/jarv"
-discovered_at: "2026-07-14T02:13:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- terminal tool
+- multi-model
+- scriptable
+- subagent orchestration
+source: https://github.com/JamesWHomer/jarv
+discovered_at: '2026-07-14T02:13:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

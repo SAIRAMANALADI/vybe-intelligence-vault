@@ -1,13 +1,29 @@
 ---
-title: "csuzngjh/principles"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "OpenClaw", "Next.js", "React", "CLI Tools", "Web UI", "Principles-based Governance", "Pain Signal Capture", "Decision Logging"]
+title: csuzngjh/principles
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- OpenClaw
+- Next.js
+- React
+- CLI Tools
+- Web UI
+- Principles-based Governance
+- Pain Signal Capture
+- Decision Logging
 quality_score: 9
 rag_relevance: 8
-tags: ["agent governance", "behavior alignment", "local-first", "principles-based", "runtime adapter"]
-source: "https://github.com/csuzngjh/principles"
-discovered_at: "2026-06-24T02:45:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent governance
+- behavior alignment
+- local-first
+- principles-based
+- runtime adapter
+source: https://github.com/csuzngjh/principles
+discovered_at: '2026-06-24T02:45:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

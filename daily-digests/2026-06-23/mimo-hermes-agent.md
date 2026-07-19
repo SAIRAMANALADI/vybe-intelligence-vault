@@ -1,13 +1,30 @@
 ---
-title: "angle1592/mimo-hermes-agent"
-category: "Orchestrator"
-tech_stack: ["Hermes Agent", "Python", "MiMo", "DeepSeek", "OpenAI Compatible API", "WeChat (itchat-uos)", "DingTalk (Stream Mode)", "Nginx", "Alibaba Cloud Linux", "MCP (Model Context Protocol)", "Playwright", "SQLite"]
+title: angle1592/mimo-hermes-agent
+category: daily-digests/2026-06-23
+tech_stack:
+- Hermes Agent
+- Python
+- MiMo
+- DeepSeek
+- OpenAI Compatible API
+- WeChat (itchat-uos)
+- DingTalk (Stream Mode)
+- Nginx
+- Alibaba Cloud Linux
+- MCP (Model Context Protocol)
+- Playwright
+- SQLite
 quality_score: 8
 rag_relevance: 7
-tags: ["Agent Orchestration", "Domestic Deployment", "Multi-Model Integration", "Messaging Platforms", "Low-Resource Optimization"]
-source: "https://github.com/angle1592/mimo-hermes-agent"
-discovered_at: "2026-06-23T19:11:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agent Orchestration
+- Domestic Deployment
+- Multi-Model Integration
+- Messaging Platforms
+- Low-Resource Optimization
+source: https://github.com/angle1592/mimo-hermes-agent
+discovered_at: '2026-06-23T19:11:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

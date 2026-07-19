@@ -1,13 +1,23 @@
 ---
-title: "Meghna-K03/PACER"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "LangChain", "Hugging Face Transformers", "SQLite"]
+title: Meghna-K03/PACER
+category: daily-digests/2026-07-01
+tech_stack:
+- Python
+- FastAPI
+- LangChain
+- Hugging Face Transformers
+- SQLite
 quality_score: 3
 rag_relevance: 5
-tags: ["AI Mentor", "Learning Platform", "Adaptive Feedback", "Interactive Tutorials", "AI Education"]
-source: "https://github.com/Meghna-K03/PACER"
-discovered_at: "2026-07-01T05:22:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Mentor
+- Learning Platform
+- Adaptive Feedback
+- Interactive Tutorials
+- AI Education
+source: https://github.com/Meghna-K03/PACER
+discovered_at: '2026-07-01T05:22:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

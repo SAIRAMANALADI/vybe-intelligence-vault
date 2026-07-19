@@ -1,13 +1,28 @@
 ---
-title: "neomjs/neo"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "TypeScript", "SQLite", "Vector DB", "Multi-threaded Web Workers", "GraphRAG", "MCP (Model Context Protocol)", "OIDC", "Electron", "Docker"]
+title: neomjs/neo
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- JavaScript
+- TypeScript
+- SQLite
+- Vector DB
+- Multi-threaded Web Workers
+- GraphRAG
+- MCP (Model Context Protocol)
+- OIDC
+- Electron
+- Docker
 quality_score: 10
 rag_relevance: 10
-tags: ["AI Agent Swarm", "Self-Evolving Software", "GraphRAG", "Multi-Model Collaboration", "Autonomous Engineering"]
-source: "https://github.com/neomjs/neo"
-discovered_at: "2026-06-22T23:19:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent Swarm
+- Self-Evolving Software
+- GraphRAG
+- Multi-Model Collaboration
+- Autonomous Engineering
+source: https://github.com/neomjs/neo
+discovered_at: '2026-06-22T23:19:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

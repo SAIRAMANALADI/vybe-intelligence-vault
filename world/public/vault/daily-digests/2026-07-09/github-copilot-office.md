@@ -1,13 +1,23 @@
 ---
-title: "shalombalbes/github-copilot-office"
-category: "Tooling"
-tech_stack: ["GitHub Learning Lab", "HTML", "JavaScript", "GitHub Actions", "GitHub Copilot"]
+title: shalombalbes/github-copilot-office
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- GitHub Learning Lab
+- HTML
+- JavaScript
+- GitHub Actions
+- GitHub Copilot
 quality_score: 5
 rag_relevance: 4
-tags: ["GitHub Copilot", "Microsoft Office Integration", "Productivity Tools", "Learning Lab", "AI Assistance"]
-source: "https://github.com/shalombalbes/github-copilot-office"
-discovered_at: "2026-07-09T00:05:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- GitHub Copilot
+- Microsoft Office Integration
+- Productivity Tools
+- Learning Lab
+- AI Assistance
+source: https://github.com/shalombalbes/github-copilot-office
+discovered_at: '2026-07-09T00:05:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

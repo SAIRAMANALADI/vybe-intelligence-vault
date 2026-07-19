@@ -1,13 +1,32 @@
 ---
-title: "Open-Curiosity/gini-agent"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "Next.js", "React", "Tailwind CSS", "shadcn/ui", "Expo", "Node.js", "AWS Bedrock", "OpenAI API", "Anthropic API", "Local LLMs", "Docker", "Xvfb"]
+title: Open-Curiosity/gini-agent
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Bun
+- Next.js
+- React
+- Tailwind CSS
+- shadcn/ui
+- Expo
+- Node.js
+- AWS Bedrock
+- OpenAI API
+- Anthropic API
+- Local LLMs
+- Docker
+- Xvfb
 quality_score: 9
 rag_relevance: 8
-tags: ["personal agent", "multi-modal interaction", "stateful runtime", "secure controls", "self-improving"]
-source: "https://github.com/Open-Curiosity/gini-agent"
-discovered_at: "2026-07-07T23:54:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personal agent
+- multi-modal interaction
+- stateful runtime
+- secure controls
+- self-improving
+source: https://github.com/Open-Curiosity/gini-agent
+discovered_at: '2026-07-07T23:54:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

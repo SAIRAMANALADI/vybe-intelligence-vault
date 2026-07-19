@@ -1,13 +1,25 @@
 ---
-title: "XiaZiHunDun/WFXM"
-category: "Agent Framework"
-tech_stack: ["Python 3.11+", "WeChat Gateway", "LLM Providers (OpenAI-compatible, Anthropic)", "MCP (Model Context Protocol) Extensions", "Vector Databases (for memory)", "FastAPI (implicit in gateway)", "CLI Tools"]
+title: XiaZiHunDun/WFXM
+category: daily-digests/2026-07-08
+tech_stack:
+- Python 3.11+
+- WeChat Gateway
+- LLM Providers (OpenAI-compatible, Anthropic)
+- MCP (Model Context Protocol) Extensions
+- Vector Databases (for memory)
+- FastAPI (implicit in gateway)
+- CLI Tools
 quality_score: 8
 rag_relevance: 7
-tags: ["AI Agent", "WeChat Integration", "Multi-Project Management", "Memory Layer", "Delegated Tasks"]
-source: "https://github.com/XiaZiHunDun/WFXM"
-discovered_at: "2026-07-08T12:24:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent
+- WeChat Integration
+- Multi-Project Management
+- Memory Layer
+- Delegated Tasks
+source: https://github.com/XiaZiHunDun/WFXM
+discovered_at: '2026-07-08T12:24:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

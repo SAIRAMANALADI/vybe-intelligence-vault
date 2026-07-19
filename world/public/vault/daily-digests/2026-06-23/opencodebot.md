@@ -1,13 +1,26 @@
 ---
-title: "Krablante/opencodebot"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Telegram Bot API", "Docker", "HTTP API", "SSE (Server-Sent Events)", "JSON", "systemd"]
+title: Krablante/opencodebot
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- JavaScript
+- Node.js
+- Telegram Bot API
+- Docker
+- HTTP API
+- SSE (Server-Sent Events)
+- JSON
+- systemd
 quality_score: 8
 rag_relevance: 6
-tags: ["Telegram bot", "OpenCodez integration", "prompt management", "session mirroring", "AI workflow automation"]
-source: "https://github.com/Krablante/opencodebot"
-discovered_at: "2026-06-23T19:08:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Telegram bot
+- OpenCodez integration
+- prompt management
+- session mirroring
+- AI workflow automation
+source: https://github.com/Krablante/opencodebot
+discovered_at: '2026-06-23T19:08:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

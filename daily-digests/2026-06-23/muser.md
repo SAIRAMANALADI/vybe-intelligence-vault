@@ -1,13 +1,31 @@
 ---
-title: "connerkward/Muser"
-category: "Tooling"
-tech_stack: ["Python", "SigLIP", "LanceDB", "PyTorch", "MLX (Apple Silicon)", "OpenAI API", "fal.ai", "C2PA", "HDBSCAN", "LAION-V2", "PickScore", "Three.js", "Model Context Protocol (MCP)"]
+title: connerkward/Muser
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- SigLIP
+- LanceDB
+- PyTorch
+- MLX (Apple Silicon)
+- OpenAI API
+- fal.ai
+- C2PA
+- HDBSCAN
+- LAION-V2
+- PickScore
+- Three.js
+- Model Context Protocol (MCP)
 quality_score: 9
 rag_relevance: 7
-tags: ["image search", "local-first", "semantic search", "AI curation", "CLIP embeddings"]
-source: "https://github.com/connerkward/Muser"
-discovered_at: "2026-06-23T06:53:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- image search
+- local-first
+- semantic search
+- AI curation
+- CLIP embeddings
+source: https://github.com/connerkward/Muser
+discovered_at: '2026-06-23T06:53:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

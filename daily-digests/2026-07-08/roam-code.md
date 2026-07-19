@@ -1,13 +1,24 @@
 ---
-title: "Cranot/roam-code"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "MCP (Model Context Protocol)", "Git", "CLI", "Docker"]
+title: Cranot/roam-code
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- SQLite
+- MCP (Model Context Protocol)
+- Git
+- CLI
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["code intelligence", "AI agent safety", "local development", "change evidence", "dependency analysis"]
-source: "https://github.com/Cranot/roam-code"
-discovered_at: "2026-07-08T17:27:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code intelligence
+- AI agent safety
+- local development
+- change evidence
+- dependency analysis
+source: https://github.com/Cranot/roam-code
+discovered_at: '2026-07-08T17:27:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

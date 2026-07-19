@@ -1,13 +1,26 @@
 ---
-title: "ianalloway/solvent-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "NVIDIA Nemotron", "Stripe API", "SQLite", "Hermes/Nous Agent Framework", "Telegram Bot API", "FastAPI", "Pytest"]
+title: ianalloway/solvent-agent
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- NVIDIA Nemotron
+- Stripe API
+- SQLite
+- Hermes/Nous Agent Framework
+- Telegram Bot API
+- FastAPI
+- Pytest
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous agents", "self-funding business", "profitability gating", "Stripe integration", "NVIDIA Nemotron"]
-source: "https://github.com/ianalloway/solvent-agent"
-discovered_at: "2026-06-25T14:14:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- self-funding business
+- profitability gating
+- Stripe integration
+- NVIDIA Nemotron
+source: https://github.com/ianalloway/solvent-agent
+discovered_at: '2026-06-25T14:14:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

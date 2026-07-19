@@ -1,13 +1,25 @@
 ---
-title: "Forensic-aluminiumbronze381/GlobalRoot"
-category: "Agent Framework"
-tech_stack: ["Python", "Ollama", "ChromaDB", "Tavily", "Telegram Bot API", "Windows", "Hyprland (Linux)"]
+title: Forensic-aluminiumbronze381/GlobalRoot
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Ollama
+- ChromaDB
+- Tavily
+- Telegram Bot API
+- Windows
+- Hyprland (Linux)
 quality_score: 7
 rag_relevance: 8
-tags: ["local AI agent", "offline processing", "system integration", "privacy-focused", "dual-pass AI"]
-source: "https://github.com/Forensic-aluminiumbronze381/GlobalRoot"
-discovered_at: "2026-06-23T02:43:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local AI agent
+- offline processing
+- system integration
+- privacy-focused
+- dual-pass AI
+source: https://github.com/Forensic-aluminiumbronze381/GlobalRoot
+discovered_at: '2026-06-23T02:43:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

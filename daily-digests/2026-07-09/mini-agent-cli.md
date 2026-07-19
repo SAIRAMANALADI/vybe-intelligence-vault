@@ -1,13 +1,24 @@
 ---
-title: "HoussemEddineChaouch/mini-agent-cli"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "Google Gemini API", "@google/genai", "dotenv", "CLI (readline)"]
+title: HoussemEddineChaouch/mini-agent-cli
+category: daily-digests/2026-07-09
+tech_stack:
+- JavaScript
+- Node.js
+- Google Gemini API
+- '@google/genai'
+- dotenv
+- CLI (readline)
 quality_score: 9
 rag_relevance: 7
-tags: ["CLI agent", "file system tools", "Gemini integration", "multi-turn conversation", "tool-calling"]
-source: "https://github.com/HoussemEddineChaouch/mini-agent-cli"
-discovered_at: "2026-07-09T14:44:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CLI agent
+- file system tools
+- Gemini integration
+- multi-turn conversation
+- tool-calling
+source: https://github.com/HoussemEddineChaouch/mini-agent-cli
+discovered_at: '2026-07-09T14:44:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

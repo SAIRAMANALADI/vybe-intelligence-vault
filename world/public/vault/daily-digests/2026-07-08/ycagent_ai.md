@@ -1,13 +1,30 @@
 ---
-title: "arvindrk/ycagent.ai"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Next.js", "Neon Postgres + pgvector", "Trigger.dev", "E2B Desktop sandbox", "Anthropic Claude", "Gemini", "OpenAI", "Serper", "Playwright", "Firecrawl", "Bun"]
+title: arvindrk/ycagent.ai
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Next.js
+- Neon Postgres + pgvector
+- Trigger.dev
+- E2B Desktop sandbox
+- Anthropic Claude
+- Gemini
+- OpenAI
+- Serper
+- Playwright
+- Firecrawl
+- Bun
 quality_score: 9
 rag_relevance: 9
-tags: ["autonomous research", "Y Combinator ecosystem", "company intelligence", "evidence-backed dossiers", "real-time crawling"]
-source: "https://github.com/arvindrk/ycagent.ai"
-discovered_at: "2026-07-08T17:24:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous research
+- Y Combinator ecosystem
+- company intelligence
+- evidence-backed dossiers
+- real-time crawling
+source: https://github.com/arvindrk/ycagent.ai
+discovered_at: '2026-07-08T17:24:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

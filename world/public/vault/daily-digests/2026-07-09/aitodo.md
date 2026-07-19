@@ -1,13 +1,30 @@
 ---
-title: "jishen027/AITodo"
-category: "Agent Framework"
-tech_stack: ["Next.js", "TypeScript", "React", "Tailwind CSS", "PostgreSQL", "NextAuth", "Vercel AI SDK", "OpenAI API", "Google Maps API", "bcryptjs", "GSAP", "react-markdown"]
+title: jishen027/AITodo
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Next.js
+- TypeScript
+- React
+- Tailwind CSS
+- PostgreSQL
+- NextAuth
+- Vercel AI SDK
+- OpenAI API
+- Google Maps API
+- bcryptjs
+- GSAP
+- react-markdown
 quality_score: 9
 rag_relevance: 7
-tags: ["AI planning", "task management", "conversational AI", "Next.js", "PostgreSQL"]
-source: "https://github.com/jishen027/AITodo"
-discovered_at: "2026-07-09T14:44:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI planning
+- task management
+- conversational AI
+- Next.js
+- PostgreSQL
+source: https://github.com/jishen027/AITodo
+discovered_at: '2026-07-09T14:44:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

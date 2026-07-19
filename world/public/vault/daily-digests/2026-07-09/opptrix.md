@@ -1,13 +1,28 @@
 ---
-title: "Travisun/Opptrix"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "React", "Fluent UI", "Fastify", "Electron", "SQLite", "MCP (Model Context Protocol)", "Vite", "OpenAI-compatible LLM APIs"]
+title: Travisun/Opptrix
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- Fluent UI
+- Fastify
+- Electron
+- SQLite
+- MCP (Model Context Protocol)
+- Vite
+- OpenAI-compatible LLM APIs
 quality_score: 9
 rag_relevance: 7
-tags: ["AI research assistant", "MCP tools", "China A-shares", "multi-source data aggregation", "LLM function calling"]
-source: "https://github.com/Travisun/Opptrix"
-discovered_at: "2026-07-09T14:46:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI research assistant
+- MCP tools
+- China A-shares
+- multi-source data aggregation
+- LLM function calling
+source: https://github.com/Travisun/Opptrix
+discovered_at: '2026-07-09T14:46:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

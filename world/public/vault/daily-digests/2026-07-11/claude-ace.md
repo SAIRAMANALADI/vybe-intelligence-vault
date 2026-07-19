@@ -1,13 +1,24 @@
 ---
-title: "Vmara2376/claude-ace"
-category: "Tooling"
-tech_stack: ["Python", "Abstract Syntax Trees (AST)", "OpenAI API", "Chinese LLMs", "Self-healing algorithms", "Intent recognition"]
+title: Vmara2376/claude-ace
+category: world/public/vault/daily-digests/2026-07-11
+tech_stack:
+- Python
+- Abstract Syntax Trees (AST)
+- OpenAI API
+- Chinese LLMs
+- Self-healing algorithms
+- Intent recognition
 quality_score: 5
 rag_relevance: 8
-tags: ["token optimization", "AST parsing", "AI coding assistant", "self-healing", "intent checks"]
-source: "https://github.com/Vmara2376/claude-ace"
-discovered_at: "2026-07-10T20:22:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- token optimization
+- AST parsing
+- AI coding assistant
+- self-healing
+- intent checks
+source: https://github.com/Vmara2376/claude-ace
+discovered_at: '2026-07-10T20:22:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

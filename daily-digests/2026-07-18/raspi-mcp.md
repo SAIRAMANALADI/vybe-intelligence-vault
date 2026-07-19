@@ -1,13 +1,25 @@
 ---
-title: "RolfMasfelder/raspi-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Raspberry Pi GPIO", "DS18B20 1-Wire Sensors", "Model Context Protocol (MCP)", "FastAPI", "gpiozero", "systemd"]
+title: RolfMasfelder/raspi-mcp
+category: daily-digests/2026-07-18
+tech_stack:
+- Python
+- Raspberry Pi GPIO
+- DS18B20 1-Wire Sensors
+- Model Context Protocol (MCP)
+- FastAPI
+- gpiozero
+- systemd
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "Raspberry Pi", "GPIO control", "temperature sensors", "hardware integration"]
-source: "https://github.com/RolfMasfelder/raspi-mcp"
-discovered_at: "2026-07-10T18:22:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Raspberry Pi
+- GPIO control
+- temperature sensors
+- hardware integration
+source: https://github.com/RolfMasfelder/raspi-mcp
+discovered_at: '2026-07-10T18:22:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

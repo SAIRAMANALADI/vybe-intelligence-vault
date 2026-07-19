@@ -1,13 +1,26 @@
 ---
-title: "tleyden/brain3"
-category: "Tooling"
-tech_stack: ["Rust", "Markdown", "MCP (Model Context Protocol)", "Cloudflare Tunnel", "Docker", "Terminal UI (TUI)", "OAuth", "STT/TTS (Speech-to-Text/Text-to-Speech)"]
+title: tleyden/brain3
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Rust
+- Markdown
+- MCP (Model Context Protocol)
+- Cloudflare Tunnel
+- Docker
+- Terminal UI (TUI)
+- OAuth
+- STT/TTS (Speech-to-Text/Text-to-Speech)
 quality_score: 9
 rag_relevance: 8
-tags: ["note-taking", "MCP server", "local AI integration", "markdown vault", "voice dictation"]
-source: "https://github.com/tleyden/brain3"
-discovered_at: "2026-06-23T09:02:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- note-taking
+- MCP server
+- local AI integration
+- markdown vault
+- voice dictation
+source: https://github.com/tleyden/brain3
+discovered_at: '2026-06-23T09:02:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

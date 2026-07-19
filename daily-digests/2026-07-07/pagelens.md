@@ -1,13 +1,25 @@
 ---
-title: "AlexBoghh/pagelens"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Anthropic API", "jsdom", "Playwright (roadmap)", "Jest (testing)"]
+title: AlexBoghh/pagelens
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Anthropic API
+- jsdom
+- Playwright (roadmap)
+- Jest (testing)
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP server", "AI legibility audit", "evidence-grounded findings", "web page optimization", "LLM tooling"]
-source: "https://github.com/AlexBoghh/pagelens"
-discovered_at: "2026-07-07T13:17:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- AI legibility audit
+- evidence-grounded findings
+- web page optimization
+- LLM tooling
+source: https://github.com/AlexBoghh/pagelens
+discovered_at: '2026-07-07T13:17:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

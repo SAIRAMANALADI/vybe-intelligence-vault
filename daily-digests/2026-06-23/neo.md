@@ -1,13 +1,31 @@
 ---
-title: "neomjs/neo"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "TypeScript", "SQLite", "Vector Databases", "Multi-Threaded Architecture", "GraphRAG", "MCP Servers", "OIDC", "GitHub API", "Active Hybrid GraphRAG", "DreamService", "A2A Coordination", "Electron"]
+title: neomjs/neo
+category: daily-digests/2026-06-23
+tech_stack:
+- JavaScript
+- TypeScript
+- SQLite
+- Vector Databases
+- Multi-Threaded Architecture
+- GraphRAG
+- MCP Servers
+- OIDC
+- GitHub API
+- Active Hybrid GraphRAG
+- DreamService
+- A2A Coordination
+- Electron
 quality_score: 9
 rag_relevance: 10
-tags: ["AI Engineering", "Multi-Agent Systems", "Self-Evolving Software", "GraphRAG", "Cloud Deployment"]
-source: "https://github.com/neomjs/neo"
-discovered_at: "2026-06-23T02:50:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Engineering
+- Multi-Agent Systems
+- Self-Evolving Software
+- GraphRAG
+- Cloud Deployment
+source: https://github.com/neomjs/neo
+discovered_at: '2026-06-23T02:50:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

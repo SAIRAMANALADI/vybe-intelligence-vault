@@ -1,13 +1,23 @@
 ---
-title: "justl9169/minimax-skills"
-category: "Tooling"
-tech_stack: ["Python", "MiniMax API", "Claude Code", "OpenClaw", "RESTful APIs"]
+title: justl9169/minimax-skills
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- MiniMax API
+- Claude Code
+- OpenClaw
+- RESTful APIs
 quality_score: 7
 rag_relevance: 6
-tags: ["multimedia generation", "API wrapper", "MiniMax integration", "workflow automation", "AI tooling"]
-source: "https://github.com/justl9169/minimax-skills"
-discovered_at: "2026-07-07T20:51:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multimedia generation
+- API wrapper
+- MiniMax integration
+- workflow automation
+- AI tooling
+source: https://github.com/justl9169/minimax-skills
+discovered_at: '2026-07-07T20:51:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

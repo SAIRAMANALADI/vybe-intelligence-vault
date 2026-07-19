@@ -1,13 +1,26 @@
 ---
-title: "vultisig/vultisig-sdk"
-category: "Tooling"
-tech_stack: ["TypeScript", "WebAssembly (WASM)", "MPC (Multi-Party Computation)", "Blockchain SDKs (Bitcoin, Ethereum, Cosmos, Solana, etc.)", "REST APIs (THORChain, 1inch, KyberSwap, LiFi)", "QR Code Pairing", "WASM-based cryptographic operations", "Node.js/Browser Storage"]
+title: vultisig/vultisig-sdk
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- WebAssembly (WASM)
+- MPC (Multi-Party Computation)
+- Blockchain SDKs (Bitcoin, Ethereum, Cosmos, Solana, etc.)
+- REST APIs (THORChain, 1inch, KyberSwap, LiFi)
+- QR Code Pairing
+- WASM-based cryptographic operations
+- Node.js/Browser Storage
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-chain wallet", "MPC security", "cross-chain swaps", "AI agent integration", "self-custody"]
-source: "https://github.com/vultisig/vultisig-sdk"
-discovered_at: "2026-06-24T02:44:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-chain wallet
+- MPC security
+- cross-chain swaps
+- AI agent integration
+- self-custody
+source: https://github.com/vultisig/vultisig-sdk
+discovered_at: '2026-06-24T02:44:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

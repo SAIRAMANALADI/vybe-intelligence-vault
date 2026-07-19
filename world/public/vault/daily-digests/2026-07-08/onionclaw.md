@@ -1,13 +1,25 @@
 ---
-title: "christinminor459/OnionClaw"
-category: "Tooling"
-tech_stack: ["Python", "Tor (SOCKS proxy)", "Stem (Tor control library)", "Requests with SOCKS support", "BeautifulSoup4 (web scraping)", "LLM APIs (OpenAI, Anthropic, Ollama, etc.)", "OpenClaw (agent framework)"]
+title: christinminor459/OnionClaw
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- Tor (SOCKS proxy)
+- Stem (Tor control library)
+- Requests with SOCKS support
+- BeautifulSoup4 (web scraping)
+- LLM APIs (OpenAI, Anthropic, Ollama, etc.)
+- OpenClaw (agent framework)
 quality_score: 9
 rag_relevance: 8
-tags: ["Tor integration", "Dark web OSINT", "AI agent tooling", "Threat intelligence", "Autonomous scraping"]
-source: "https://github.com/christinminor459/OnionClaw"
-discovered_at: "2026-07-08T22:15:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Tor integration
+- Dark web OSINT
+- AI agent tooling
+- Threat intelligence
+- Autonomous scraping
+source: https://github.com/christinminor459/OnionClaw
+discovered_at: '2026-07-08T22:15:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

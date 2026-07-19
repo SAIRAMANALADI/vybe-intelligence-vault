@@ -1,13 +1,27 @@
 ---
-title: "dagucloud/dagu"
-category: "Orchestrator"
-tech_stack: ["Go", "YAML", "Docker", "Kubernetes", "gRPC", "MCP (Model Context Protocol)", "Web UI (React/TypeScript implied)", "SSH", "File-based storage"]
+title: dagucloud/dagu
+category: daily-digests/2026-07-14
+tech_stack:
+- Go
+- YAML
+- Docker
+- Kubernetes
+- gRPC
+- MCP (Model Context Protocol)
+- Web UI (React/TypeScript implied)
+- SSH
+- File-based storage
 quality_score: 9
 rag_relevance: 8
-tags: ["workflow automation", "data pipeline", "AI agent integration", "self-hosted", "declarative DAGs"]
-source: "https://github.com/dagucloud/dagu"
-discovered_at: "2026-07-11T09:27:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- workflow automation
+- data pipeline
+- AI agent integration
+- self-hosted
+- declarative DAGs
+source: https://github.com/dagucloud/dagu
+discovered_at: '2026-07-11T09:27:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

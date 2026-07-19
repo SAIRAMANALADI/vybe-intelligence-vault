@@ -1,13 +1,34 @@
 ---
-title: "nextlevelbuilder/goclaw"
-category: "Orchestrator"
-tech_stack: ["Go", "PostgreSQL", "pgvector", "Docker", "WebSocket", "OpenTelemetry", "SQLite", "Wails", "React", "Anthropic", "OpenAI", "Groq", "DeepSeek", "Gemini", "Mistral", "xAI"]
+title: nextlevelbuilder/goclaw
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Go
+- PostgreSQL
+- pgvector
+- Docker
+- WebSocket
+- OpenTelemetry
+- SQLite
+- Wails
+- React
+- Anthropic
+- OpenAI
+- Groq
+- DeepSeek
+- Gemini
+- Mistral
+- xAI
 quality_score: 9
 rag_relevance: 10
-tags: ["multi-tenant", "agent orchestration", "LLM gateway", "PostgreSQL", "self-evolution"]
-source: "https://github.com/nextlevelbuilder/goclaw"
-discovered_at: "2026-07-08T12:24:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-tenant
+- agent orchestration
+- LLM gateway
+- PostgreSQL
+- self-evolution
+source: https://github.com/nextlevelbuilder/goclaw
+discovered_at: '2026-07-08T12:24:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

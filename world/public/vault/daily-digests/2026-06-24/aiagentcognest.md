@@ -1,13 +1,25 @@
 ---
-title: "the-shark-guy/AIAgentCogNest"
-category: "Agent Framework"
-tech_stack: ["Python", "AI Model Orchestration", "Memory Management", "Prompt Engineering", "Agent Architecture", "Knowledge Base Systems", "Tool Integration"]
+title: the-shark-guy/AIAgentCogNest
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- AI Model Orchestration
+- Memory Management
+- Prompt Engineering
+- Agent Architecture
+- Knowledge Base Systems
+- Tool Integration
 quality_score: 7
 rag_relevance: 8
-tags: ["AI Agents", "Cognitive Architecture", "Modular Frameworks", "Knowledge Management", "Agent Orchestration"]
-source: "https://github.com/the-shark-guy/AIAgentCogNest"
-discovered_at: "2026-06-24T02:42:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agents
+- Cognitive Architecture
+- Modular Frameworks
+- Knowledge Management
+- Agent Orchestration
+source: https://github.com/the-shark-guy/AIAgentCogNest
+discovered_at: '2026-06-24T02:42:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

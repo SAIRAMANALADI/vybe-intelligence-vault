@@ -1,13 +1,23 @@
 ---
-title: "kieksme/mcp-contabo"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Contabo API", "npm"]
+title: kieksme/mcp-contabo
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Contabo API
+- npm
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Contabo cloud", "infrastructure management", "API integration", "automation"]
-source: "https://github.com/kieksme/mcp-contabo"
-discovered_at: "2026-07-17T14:43:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Contabo cloud
+- infrastructure management
+- API integration
+- automation
+source: https://github.com/kieksme/mcp-contabo
+discovered_at: '2026-07-17T14:43:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "FezAreCool/mcp-claude-hackernews"
-category: "Tooling"
-tech_stack: ["Model Context Protocol (MCP)", "Claude Desktop", "Hacker News API", "Python"]
+title: FezAreCool/mcp-claude-hackernews
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Model Context Protocol (MCP)
+- Claude Desktop
+- Hacker News API
+- Python
 quality_score: 3
 rag_relevance: 6
-tags: ["MCP", "Claude Desktop", "Hacker News", "API Integration", "RAG Enhancement"]
-source: "https://github.com/FezAreCool/mcp-claude-hackernews"
-discovered_at: "2026-07-09T23:08:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- Claude Desktop
+- Hacker News
+- API Integration
+- RAG Enhancement
+source: https://github.com/FezAreCool/mcp-claude-hackernews
+discovered_at: '2026-07-09T23:08:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "open-metadata/OpenMetadata"
-category: "Vector DB"
-tech_stack: ["TypeScript", "Java", "Python", "Apache Jena", "React", "Elasticsearch", "PostgreSQL", "Kafka", "OpenLineage", "MCP (Model Context Protocol)"]
+title: open-metadata/OpenMetadata
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Java
+- Python
+- Apache Jena
+- React
+- Elasticsearch
+- PostgreSQL
+- Kafka
+- OpenLineage
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 10
-tags: ["metadata management", "data governance", "AI context layer", "knowledge graph", "data catalog"]
-source: "https://github.com/open-metadata/OpenMetadata"
-discovered_at: "2026-06-22T18:13:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- metadata management
+- data governance
+- AI context layer
+- knowledge graph
+- data catalog
+source: https://github.com/open-metadata/OpenMetadata
+discovered_at: '2026-06-22T18:13:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

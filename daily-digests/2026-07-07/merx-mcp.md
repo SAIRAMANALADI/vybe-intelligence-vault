@@ -1,13 +1,22 @@
 ---
-title: "nicosmall503/merx-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "TRON Blockchain", "Windows Desktop App"]
+title: nicosmall503/merx-mcp
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- TRON Blockchain
+- Windows Desktop App
 quality_score: 6
 rag_relevance: 7
-tags: ["TRON blockchain", "MCP server", "AI agent tools", "token transfers", "resource management"]
-source: "https://github.com/nicosmall503/merx-mcp"
-discovered_at: "2026-07-07T06:42:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- TRON blockchain
+- MCP server
+- AI agent tools
+- token transfers
+- resource management
+source: https://github.com/nicosmall503/merx-mcp
+discovered_at: '2026-07-07T06:42:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

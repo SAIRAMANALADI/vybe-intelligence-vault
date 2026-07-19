@@ -1,13 +1,28 @@
 ---
-title: "Velodya12/ralph-visual-command-layer"
-category: "Orchestrator"
-tech_stack: ["Electron", "Python", "JavaScript/TypeScript", "Mermaid.js", "OpenAI API", "Claude API", "Mistral API", "YAML", "Markdown", "Flatpak/AppImage"]
+title: Velodya12/ralph-visual-command-layer
+category: daily-digests/2026-06-23
+tech_stack:
+- Electron
+- Python
+- JavaScript/TypeScript
+- Mermaid.js
+- OpenAI API
+- Claude API
+- Mistral API
+- YAML
+- Markdown
+- Flatpak/AppImage
 quality_score: 8
 rag_relevance: 7
-tags: ["visual prompt engineering", "AI workflow automation", "creative orchestration", "multilingual AI", "iterative refinement"]
-source: "https://github.com/Velodya12/ralph-visual-command-layer"
-discovered_at: "2026-06-23T21:32:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- visual prompt engineering
+- AI workflow automation
+- creative orchestration
+- multilingual AI
+- iterative refinement
+source: https://github.com/Velodya12/ralph-visual-command-layer
+discovered_at: '2026-06-23T21:32:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

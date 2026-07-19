@@ -1,13 +1,29 @@
 ---
-title: "enzosantana-mv/telegram-ai-scope"
-category: "Tooling"
-tech_stack: ["Python", "Node.js", "React", "Tailwind CSS", "Recharts", "OpenAI GPT-4", "Claude 3 Opus", "PostgreSQL", "RabbitMQ", "WebSockets", "Mermaid.js"]
+title: enzosantana-mv/telegram-ai-scope
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Node.js
+- React
+- Tailwind CSS
+- Recharts
+- OpenAI GPT-4
+- Claude 3 Opus
+- PostgreSQL
+- RabbitMQ
+- WebSockets
+- Mermaid.js
 quality_score: 8
 rag_relevance: 7
-tags: ["Telegram monitoring", "semantic classification", "LLM integration", "real-time analytics", "adaptive alerting"]
-source: "https://github.com/enzosantana-mv/telegram-ai-scope"
-discovered_at: "2026-06-24T18:53:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Telegram monitoring
+- semantic classification
+- LLM integration
+- real-time analytics
+- adaptive alerting
+source: https://github.com/enzosantana-mv/telegram-ai-scope
+discovered_at: '2026-06-24T18:53:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "antigalautgr-ops/VulnClaw"
-category: "Tooling"
-tech_stack: ["Python", "AI Agents", "Model Context Protocol (MCP)", "Penetration Testing Tools", "Natural Language Processing"]
+title: antigalautgr-ops/VulnClaw
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- AI Agents
+- Model Context Protocol (MCP)
+- Penetration Testing Tools
+- Natural Language Processing
 quality_score: 6
 rag_relevance: 5
-tags: ["AI-driven security", "penetration testing", "automated vulnerability scanning", "MCP integration", "cybersecurity automation"]
-source: "https://github.com/antigalautgr-ops/VulnClaw"
-discovered_at: "2026-07-07T18:59:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-driven security
+- penetration testing
+- automated vulnerability scanning
+- MCP integration
+- cybersecurity automation
+source: https://github.com/antigalautgr-ops/VulnClaw
+discovered_at: '2026-07-07T18:59:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

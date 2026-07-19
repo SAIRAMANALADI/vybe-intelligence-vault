@@ -1,13 +1,22 @@
 ---
-title: "reenahot496/claude-code"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "Windows API", "Claude API"]
+title: reenahot496/claude-code
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Electron
+- Windows API
+- Claude API
 quality_score: 6
 rag_relevance: 4
-tags: ["Windows desktop app", "Claude AI integration", "local AI workflow", "user-friendly interface", "AI assistant tool"]
-source: "https://github.com/reenahot496/claude-code"
-discovered_at: "2026-07-08T19:16:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Windows desktop app
+- Claude AI integration
+- local AI workflow
+- user-friendly interface
+- AI assistant tool
+source: https://github.com/reenahot496/claude-code
+discovered_at: '2026-07-08T19:16:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

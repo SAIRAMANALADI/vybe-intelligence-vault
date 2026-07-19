@@ -1,13 +1,23 @@
 ---
-title: "sanggio/ai-driven-multimodal-analytics"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "OpenAI APIs", "Electron (implied for desktop app)", "SQLite (implied for local storage)"]
+title: sanggio/ai-driven-multimodal-analytics
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- FastAPI
+- OpenAI APIs
+- Electron (implied for desktop app)
+- SQLite (implied for local storage)
 quality_score: 5
 rag_relevance: 4
-tags: ["multimodal analytics", "AI toolkit", "desktop application", "user-friendly", "data insights"]
-source: "https://github.com/sanggio/ai-driven-multimodal-analytics"
-discovered_at: "2026-06-25T00:13:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multimodal analytics
+- AI toolkit
+- desktop application
+- user-friendly
+- data insights
+source: https://github.com/sanggio/ai-driven-multimodal-analytics
+discovered_at: '2026-06-25T00:13:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

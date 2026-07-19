@@ -1,13 +1,22 @@
 ---
-title: "incandescent-gallus977/skill"
-category: "Tooling"
-tech_stack: ["C#", ".NET Framework", "Windows Forms", "SQLite"]
+title: incandescent-gallus977/skill
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- C#
+- .NET Framework
+- Windows Forms
+- SQLite
 quality_score: 6
 rag_relevance: 3
-tags: ["productivity", "task management", "local-first", "offline", "Windows"]
-source: "https://github.com/incandescent-gallus977/skill"
-discovered_at: "2026-06-24T22:17:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- productivity
+- task management
+- local-first
+- offline
+- Windows
+source: https://github.com/incandescent-gallus977/skill
+discovered_at: '2026-06-24T22:17:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

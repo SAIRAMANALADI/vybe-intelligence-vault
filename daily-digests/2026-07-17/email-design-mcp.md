@@ -1,13 +1,23 @@
 ---
-title: "hema9265/email-design-mcp"
-category: "Tooling"
-tech_stack: ["C#", ".NET Framework", "MJML", "TypeScript", "AI Integration (Claude, Cursor)"]
+title: hema9265/email-design-mcp
+category: daily-digests/2026-07-17
+tech_stack:
+- C#
+- .NET Framework
+- MJML
+- TypeScript
+- AI Integration (Claude, Cursor)
 quality_score: 7
 rag_relevance: 6
-tags: ["email template generation", "AI-assisted design", "MCP server", "responsive emails", "local development"]
-source: "https://github.com/hema9265/email-design-mcp"
-discovered_at: "2026-07-14T12:10:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- email template generation
+- AI-assisted design
+- MCP server
+- responsive emails
+- local development
+source: https://github.com/hema9265/email-design-mcp
+discovered_at: '2026-07-14T12:10:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "gavin-jack/siper-agent"
-category: "Agent Framework"
-tech_stack: ["Python 3.8+", "OpenAI SDK", "WebSocket", "SQLite", "Jinja2", "psutil", "JavaScript (ESM)", "CSS", "HTML", "PowerShell/Bash (for service management)"]
+title: gavin-jack/siper-agent
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Python 3.8+
+- OpenAI SDK
+- WebSocket
+- SQLite
+- Jinja2
+- psutil
+- JavaScript (ESM)
+- CSS
+- HTML
+- PowerShell/Bash (for service management)
 quality_score: 9
 rag_relevance: 7
-tags: ["AI Agent Framework", "Stateful UI", "Multi-Model LLM", "Real-Time Communication", "Tool Integration"]
-source: "https://github.com/gavin-jack/siper-agent"
-discovered_at: "2026-07-10T06:15:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent Framework
+- Stateful UI
+- Multi-Model LLM
+- Real-Time Communication
+- Tool Integration
+source: https://github.com/gavin-jack/siper-agent
+discovered_at: '2026-07-10T06:15:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

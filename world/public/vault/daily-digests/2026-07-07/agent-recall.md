@@ -1,13 +1,21 @@
 ---
-title: "Ilikek3310/agent-recall"
-category: "Tooling"
-tech_stack: ["TypeScript", "SQLite", "Windows Desktop Application"]
+title: Ilikek3310/agent-recall
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- SQLite
+- Windows Desktop Application
 quality_score: 6
 rag_relevance: 7
-tags: ["memory persistence", "AI agent context", "session recovery", "Windows tooling", "SQLite storage"]
-source: "https://github.com/Ilikek3310/agent-recall"
-discovered_at: "2026-07-07T20:51:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory persistence
+- AI agent context
+- session recovery
+- Windows tooling
+- SQLite storage
+source: https://github.com/Ilikek3310/agent-recall
+discovered_at: '2026-07-07T20:51:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

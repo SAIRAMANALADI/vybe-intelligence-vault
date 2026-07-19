@@ -1,13 +1,25 @@
 ---
-title: "tskovlund/mcp-score"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "music21", "MuseScore", "QML", "WebSocket", "MusicXML"]
+title: tskovlund/mcp-score
+category: daily-digests/2026-07-17
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- music21
+- MuseScore
+- QML
+- WebSocket
+- MusicXML
 quality_score: 8
 rag_relevance: 7
-tags: ["music generation", "AI-to-notation", "MuseScore integration", "natural language processing", "MCP server"]
-source: "https://github.com/tskovlund/mcp-score"
-discovered_at: "2026-07-17T10:46:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- music generation
+- AI-to-notation
+- MuseScore integration
+- natural language processing
+- MCP server
+source: https://github.com/tskovlund/mcp-score
+discovered_at: '2026-07-17T10:46:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

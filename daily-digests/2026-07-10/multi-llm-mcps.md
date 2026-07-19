@@ -1,13 +1,22 @@
 ---
-title: "teo-lin/multi-llm-mcps"
-category: "Tooling"
-tech_stack: ["GitHub Actions", "JavaScript", "npm", "MCP (Model Context Protocol)"]
+title: teo-lin/multi-llm-mcps
+category: daily-digests/2026-07-10
+tech_stack:
+- GitHub Actions
+- JavaScript
+- npm
+- MCP (Model Context Protocol)
 quality_score: 7
 rag_relevance: 6
-tags: ["MCP", "automation", "npm", "workflows", "deployment"]
-source: "https://github.com/teo-lin/multi-llm-mcps"
-discovered_at: "2026-07-10T06:53:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- automation
+- npm
+- workflows
+- deployment
+source: https://github.com/teo-lin/multi-llm-mcps
+discovered_at: '2026-07-10T06:53:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

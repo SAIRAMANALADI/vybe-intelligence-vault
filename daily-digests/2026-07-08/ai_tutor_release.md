@@ -1,13 +1,25 @@
 ---
-title: "Zenglian990/AI_Tutor_Release"
-category: "Agent Framework"
-tech_stack: ["React", "Node.js", "Python", "Gemini LLM", "LanceDB", "OCR (for image-based question input)", "PDF processing libraries"]
+title: Zenglian990/AI_Tutor_Release
+category: daily-digests/2026-07-08
+tech_stack:
+- React
+- Node.js
+- Python
+- Gemini LLM
+- LanceDB
+- OCR (for image-based question input)
+- PDF processing libraries
 quality_score: 9
 rag_relevance: 10
-tags: ["RAG", "AI Tutoring", "Education Technology", "Vector Database", "Socratic Learning"]
-source: "https://github.com/Zenglian990/AI_Tutor_Release"
-discovered_at: "2026-07-08T15:15:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RAG
+- AI Tutoring
+- Education Technology
+- Vector Database
+- Socratic Learning
+source: https://github.com/Zenglian990/AI_Tutor_Release
+discovered_at: '2026-07-08T15:15:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

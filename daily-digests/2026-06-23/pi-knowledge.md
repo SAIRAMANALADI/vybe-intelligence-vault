@@ -1,13 +1,27 @@
 ---
-title: "nczz/pi-knowledge"
-category: "Tooling"
-tech_stack: ["TypeScript", "SQLite", "BM25", "Vector Embeddings", "AST-based Chunking", "Reranking", "Pi Extension Framework", "Node.js", "Bun"]
+title: nczz/pi-knowledge
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- SQLite
+- BM25
+- Vector Embeddings
+- AST-based Chunking
+- Reranking
+- Pi Extension Framework
+- Node.js
+- Bun
 quality_score: 9
 rag_relevance: 10
-tags: ["RAG", "knowledge-base", "local-first", "code-aware indexing", "agent-memory"]
-source: "https://github.com/nczz/pi-knowledge"
-discovered_at: "2026-06-23T16:27:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RAG
+- knowledge-base
+- local-first
+- code-aware indexing
+- agent-memory
+source: https://github.com/nczz/pi-knowledge
+discovered_at: '2026-06-23T16:27:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

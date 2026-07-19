@@ -1,13 +1,25 @@
 ---
-title: "SonnyTaylor/pi-portable"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "npm", "Bash", "PowerShell", "Shell Scripting", "Git"]
+title: SonnyTaylor/pi-portable
+category: world/public/vault/daily-digests/2026-07-13
+tech_stack:
+- JavaScript
+- Node.js
+- npm
+- Bash
+- PowerShell
+- Shell Scripting
+- Git
 quality_score: 9
 rag_relevance: 7
-tags: ["portable", "no-install", "USB drive", "coding agent", "cross-platform"]
-source: "https://github.com/SonnyTaylor/pi-portable"
-discovered_at: "2026-07-12T23:52:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- portable
+- no-install
+- USB drive
+- coding agent
+- cross-platform
+source: https://github.com/SonnyTaylor/pi-portable
+discovered_at: '2026-07-12T23:52:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

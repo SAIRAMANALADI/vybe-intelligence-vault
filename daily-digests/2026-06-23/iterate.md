@@ -1,13 +1,28 @@
 ---
-title: "GrayCodeAI/iterate"
-category: "Agent Framework"
-tech_stack: ["Go", "GitHub Actions", "Anthropic API", "OpenAI API", "Gemini API", "Groq API", "LLM Providers", "Git", "Terminal UI", "TOML/JSON"]
+title: GrayCodeAI/iterate
+category: daily-digests/2026-06-23
+tech_stack:
+- Go
+- GitHub Actions
+- Anthropic API
+- OpenAI API
+- Gemini API
+- Groq API
+- LLM Providers
+- Git
+- Terminal UI
+- TOML/JSON
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous agents", "self-improving systems", "code generation", "LLM integration", "GitHub automation"]
-source: "https://github.com/GrayCodeAI/iterate"
-discovered_at: "2026-06-23T06:49:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- self-improving systems
+- code generation
+- LLM integration
+- GitHub automation
+source: https://github.com/GrayCodeAI/iterate
+discovered_at: '2026-06-23T06:49:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

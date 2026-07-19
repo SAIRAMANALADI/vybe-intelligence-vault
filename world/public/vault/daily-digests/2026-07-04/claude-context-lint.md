@@ -1,13 +1,21 @@
 ---
-title: "elyshafresh21/claude-context-lint"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Claude API"]
+title: elyshafresh21/claude-context-lint
+category: world/public/vault/daily-digests/2026-07-04
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Claude API
 quality_score: 4
 rag_relevance: 7
-tags: ["context optimization", "token efficiency", "Claude auditing", "MCP schemas", "prompt engineering"]
-source: "https://github.com/elyshafresh21/claude-context-lint"
-discovered_at: "2026-07-04T00:01:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- context optimization
+- token efficiency
+- Claude auditing
+- MCP schemas
+- prompt engineering
+source: https://github.com/elyshafresh21/claude-context-lint
+discovered_at: '2026-07-04T00:01:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "event4u-app/agent-config"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "npm", "YAML", "JSON", "Python", "CI/CD (GitHub Actions)", "MCP (Model Context Protocol)"]
+title: event4u-app/agent-config
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- npm
+- YAML
+- JSON
+- Python
+- CI/CD (GitHub Actions)
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent configuration", "role-based profiles", "workflow automation", "skills and rules engine", "multi-tool compatibility"]
-source: "https://github.com/event4u-app/agent-config"
-discovered_at: "2026-06-23T10:36:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent configuration
+- role-based profiles
+- workflow automation
+- skills and rules engine
+- multi-tool compatibility
+source: https://github.com/event4u-app/agent-config
+discovered_at: '2026-06-23T10:36:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

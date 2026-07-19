@@ -1,13 +1,28 @@
 ---
-title: "cdeust/prd-spec-generator"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "SQLite", "pnpm", "Jest", "Better-SQLite3", "MathJS", "Ajv", "Kaizen-MCP"]
+title: cdeust/prd-spec-generator
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- SQLite
+- pnpm
+- Jest
+- Better-SQLite3
+- MathJS
+- Ajv
+- Kaizen-MCP
 quality_score: 9
 rag_relevance: 8
-tags: ["PRD generation", "deterministic validation", "multi-judge verification", "closed-loop calibration", "MCP server"]
-source: "https://github.com/cdeust/prd-spec-generator"
-discovered_at: "2026-07-07T16:25:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- PRD generation
+- deterministic validation
+- multi-judge verification
+- closed-loop calibration
+- MCP server
+source: https://github.com/cdeust/prd-spec-generator
+discovered_at: '2026-07-07T16:25:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

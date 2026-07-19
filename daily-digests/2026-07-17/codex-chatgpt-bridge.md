@@ -1,13 +1,24 @@
 ---
-title: "Zhenyu98/codex-chatgpt-bridge"
-category: "Tooling"
-tech_stack: ["PowerShell", "Cloudflare Tunnel", "OAuth", "Windows DPAPI", "PowerShell Scripting", "Codex Skills"]
+title: Zhenyu98/codex-chatgpt-bridge
+category: daily-digests/2026-07-17
+tech_stack:
+- PowerShell
+- Cloudflare Tunnel
+- OAuth
+- Windows DPAPI
+- PowerShell Scripting
+- Codex Skills
 quality_score: 8
 rag_relevance: 7
-tags: ["Codex integration", "ChatGPT bridge", "token optimization", "local execution", "security control"]
-source: "https://github.com/Zhenyu98/codex-chatgpt-bridge"
-discovered_at: "2026-07-11T23:54:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Codex integration
+- ChatGPT bridge
+- token optimization
+- local execution
+- security control
+source: https://github.com/Zhenyu98/codex-chatgpt-bridge
+discovered_at: '2026-07-11T23:54:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

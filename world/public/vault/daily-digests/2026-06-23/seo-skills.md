@@ -1,13 +1,26 @@
 ---
-title: "seranking/seo-skills"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude Agent Skills", "SE Ranking API", "MCP (Model Context Protocol)", "JSON-LD", "YAML", "GitHub Actions", "Cursor Plugin"]
+title: seranking/seo-skills
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Claude Agent Skills
+- SE Ranking API
+- MCP (Model Context Protocol)
+- JSON-LD
+- YAML
+- GitHub Actions
+- Cursor Plugin
 quality_score: 9
 rag_relevance: 8
-tags: ["SEO automation", "Claude Agent", "MCP server", "SE Ranking API", "AI-powered SEO"]
-source: "https://github.com/seranking/seo-skills"
-discovered_at: "2026-06-23T19:16:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- SEO automation
+- Claude Agent
+- MCP server
+- SE Ranking API
+- AI-powered SEO
+source: https://github.com/seranking/seo-skills
+discovered_at: '2026-06-23T19:16:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "Ibradl3673/planwiki-app"
-category: "Tooling"
-tech_stack: ["Next.js", "tRPC", "Drizzle ORM", "PostgreSQL", "Better Auth", "MCP Server", "TypeScript"]
+title: Ibradl3673/planwiki-app
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Next.js
+- tRPC
+- Drizzle ORM
+- PostgreSQL
+- Better Auth
+- MCP Server
+- TypeScript
 quality_score: 7
 rag_relevance: 6
-tags: ["PRD to task conversion", "Linear integration", "Trello integration", "AI workflow automation", "self-hosted"]
-source: "https://github.com/Ibradl3673/planwiki-app"
-discovered_at: "2026-07-08T22:15:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- PRD to task conversion
+- Linear integration
+- Trello integration
+- AI workflow automation
+- self-hosted
+source: https://github.com/Ibradl3673/planwiki-app
+discovered_at: '2026-07-08T22:15:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

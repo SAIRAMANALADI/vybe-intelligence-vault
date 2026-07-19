@@ -1,13 +1,25 @@
 ---
-title: "SaravananJaichandar/world-model-mcp"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "SQLite", "Temporal Knowledge Graph", "CLI", "TUI", "Benchmarking"]
+title: SaravananJaichandar/world-model-mcp
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- SQLite
+- Temporal Knowledge Graph
+- CLI
+- TUI
+- Benchmarking
 quality_score: 9
 rag_relevance: 10
-tags: ["temporal knowledge graph", "constraint enforcement", "contradiction resolution", "AI agent memory", "code validation"]
-source: "https://github.com/SaravananJaichandar/world-model-mcp"
-discovered_at: "2026-06-24T06:50:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- temporal knowledge graph
+- constraint enforcement
+- contradiction resolution
+- AI agent memory
+- code validation
+source: https://github.com/SaravananJaichandar/world-model-mcp
+discovered_at: '2026-06-24T06:50:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

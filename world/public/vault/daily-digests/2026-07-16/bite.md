@@ -1,13 +1,31 @@
 ---
-title: "metaforismo/Bite"
-category: "Agent Framework"
-tech_stack: ["SwiftUI", "SwiftData", "HealthKit", "Cloudflare Workers", "TypeScript", "Drizzle ORM", "D1 (Cloudflare SQL)", "R2 (Cloudflare object storage)", "Vectorize (Cloudflare embeddings)", "Firebase Auth", "OpenRouter (LLM routing)", "Zod (schema validation)", "SSE (Server-Sent Events)"]
+title: metaforismo/Bite
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- SwiftUI
+- SwiftData
+- HealthKit
+- Cloudflare Workers
+- TypeScript
+- Drizzle ORM
+- D1 (Cloudflare SQL)
+- R2 (Cloudflare object storage)
+- Vectorize (Cloudflare embeddings)
+- Firebase Auth
+- OpenRouter (LLM routing)
+- Zod (schema validation)
+- SSE (Server-Sent Events)
 quality_score: 9
 rag_relevance: 7
-tags: ["AI health coach", "health data integration", "privacy-focused", "multi-modal agent", "long-term memory"]
-source: "https://github.com/metaforismo/Bite"
-discovered_at: "2026-07-11T15:54:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI health coach
+- health data integration
+- privacy-focused
+- multi-modal agent
+- long-term memory
+source: https://github.com/metaforismo/Bite
+discovered_at: '2026-07-11T15:54:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

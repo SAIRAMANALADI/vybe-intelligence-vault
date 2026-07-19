@@ -1,13 +1,23 @@
 ---
-title: "rhaylee250/blockchain-ai-agent-project"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Blockchain (Solana)", "AI Agents", "DeFi Protocols", "Electron (assumed for desktop app)"]
+title: rhaylee250/blockchain-ai-agent-project
+category: daily-digests/2026-06-23
+tech_stack:
+- JavaScript
+- Blockchain (Solana)
+- AI Agents
+- DeFi Protocols
+- Electron (assumed for desktop app)
 quality_score: 5
 rag_relevance: 6
-tags: ["AI Agents", "Blockchain Integration", "DeFi Automation", "Smart Contracts", "Decentralized AI"]
-source: "https://github.com/rhaylee250/blockchain-ai-agent-project"
-discovered_at: "2026-06-23T19:11:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agents
+- Blockchain Integration
+- DeFi Automation
+- Smart Contracts
+- Decentralized AI
+source: https://github.com/rhaylee250/blockchain-ai-agent-project
+discovered_at: '2026-06-23T19:11:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

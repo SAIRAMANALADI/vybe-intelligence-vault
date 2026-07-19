@@ -1,13 +1,25 @@
 ---
-title: "heizaheiza/Charles-mcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Charles Proxy", "SQLite", "uv (package manager)", "FastAPI (implicit)", "JSON Schema"]
+title: heizaheiza/Charles-mcp
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Charles Proxy
+- SQLite
+- uv (package manager)
+- FastAPI (implicit)
+- JSON Schema
 quality_score: 9
 rag_relevance: 8
-tags: ["traffic analysis", "API reverse engineering", "MCP server", "Charles Proxy integration", "real-time monitoring"]
-source: "https://github.com/heizaheiza/Charles-mcp"
-discovered_at: "2026-06-23T13:42:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- traffic analysis
+- API reverse engineering
+- MCP server
+- Charles Proxy integration
+- real-time monitoring
+source: https://github.com/heizaheiza/Charles-mcp
+discovered_at: '2026-06-23T13:42:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

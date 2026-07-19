@@ -1,13 +1,22 @@
 ---
-title: "cloudy-sfu/MCP-rednote-assistant"
-category: "Tooling"
-tech_stack: ["Python 3.13", "MCP (Model Context Protocol)", "J2TEAM Cookies (for cookie extraction)", "JSON Schema (for validation)"]
+title: cloudy-sfu/MCP-rednote-assistant
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- Python 3.13
+- MCP (Model Context Protocol)
+- J2TEAM Cookies (for cookie extraction)
+- JSON Schema (for validation)
 quality_score: 6
 rag_relevance: 7
-tags: ["social media scraping", "MCP server", "data collection", "Xiaohongshu", "cookie-based authentication"]
-source: "https://github.com/cloudy-sfu/MCP-rednote-assistant"
-discovered_at: "2026-07-11T02:27:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- social media scraping
+- MCP server
+- data collection
+- Xiaohongshu
+- cookie-based authentication
+source: https://github.com/cloudy-sfu/MCP-rednote-assistant
+discovered_at: '2026-07-11T02:27:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

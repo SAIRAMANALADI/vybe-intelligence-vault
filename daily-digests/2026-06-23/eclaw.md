@@ -1,13 +1,27 @@
 ---
-title: "HankHuang0516/EClaw"
-category: "Orchestrator"
-tech_stack: ["Node.js", "Express", "PostgreSQL", "Kotlin", "Android", "Railway", "Webhook", "REST API", "MCP/A2A Protocol"]
+title: HankHuang0516/EClaw
+category: daily-digests/2026-06-23
+tech_stack:
+- Node.js
+- Express
+- PostgreSQL
+- Kotlin
+- Android
+- Railway
+- Webhook
+- REST API
+- MCP/A2A Protocol
 quality_score: 9
 rag_relevance: 8
-tags: ["Agent Communication", "A2A Protocol", "OpenClaw Integration", "AI Orchestration", "Multi-Agent Systems"]
-source: "https://github.com/HankHuang0516/EClaw"
-discovered_at: "2026-06-23T13:45:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agent Communication
+- A2A Protocol
+- OpenClaw Integration
+- AI Orchestration
+- Multi-Agent Systems
+source: https://github.com/HankHuang0516/EClaw
+discovered_at: '2026-06-23T13:45:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

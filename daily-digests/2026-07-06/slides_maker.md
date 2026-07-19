@@ -1,13 +1,24 @@
 ---
-title: "addsumtech/slides_maker"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code", "Codex", "PowerPoint (PPTX)", "Multi-agent systems", "Natural Language Processing (NLP)"]
+title: addsumtech/slides_maker
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- Claude Code
+- Codex
+- PowerPoint (PPTX)
+- Multi-agent systems
+- Natural Language Processing (NLP)
 quality_score: 9
 rag_relevance: 7
-tags: ["AI-powered presentations", "multi-agent collaboration", "editable PPTX", "automated slide generation", "speaker notes"]
-source: "https://github.com/addsumtech/slides_maker"
-discovered_at: "2026-07-06T21:25:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-powered presentations
+- multi-agent collaboration
+- editable PPTX
+- automated slide generation
+- speaker notes
+source: https://github.com/addsumtech/slides_maker
+discovered_at: '2026-07-06T21:25:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "reasonless-throne486/sast-skills"
-category: "Tooling"
-tech_stack: ["Python", "Agent Skills", "Security Scanning", "SAST", "LLM Integration"]
+title: reasonless-throne486/sast-skills
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- Agent Skills
+- Security Scanning
+- SAST
+- LLM Integration
 quality_score: 6
 rag_relevance: 7
-tags: ["AI security scanning", "SAST integration", "code review automation", "LLM security tools", "secure coding"]
-source: "https://github.com/reasonless-throne486/sast-skills"
-discovered_at: "2026-07-07T06:42:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI security scanning
+- SAST integration
+- code review automation
+- LLM security tools
+- secure coding
+source: https://github.com/reasonless-throne486/sast-skills
+discovered_at: '2026-07-07T06:42:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

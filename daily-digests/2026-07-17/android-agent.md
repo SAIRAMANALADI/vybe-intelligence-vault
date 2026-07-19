@@ -1,13 +1,22 @@
 ---
-title: "Dynaevangelical2652/android-agent"
-category: "Tooling"
-tech_stack: ["Python", "ADB (Android Debug Bridge)", "USB Debugging", "Windows OS"]
+title: Dynaevangelical2652/android-agent
+category: daily-digests/2026-07-17
+tech_stack:
+- Python
+- ADB (Android Debug Bridge)
+- USB Debugging
+- Windows OS
 quality_score: 7
 rag_relevance: 5
-tags: ["Android automation", "ADB scripting", "remote device control", "task automation", "phone farm"]
-source: "https://github.com/Dynaevangelical2652/android-agent"
-discovered_at: "2026-07-11T11:04:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Android automation
+- ADB scripting
+- remote device control
+- task automation
+- phone farm
+source: https://github.com/Dynaevangelical2652/android-agent
+discovered_at: '2026-07-11T11:04:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

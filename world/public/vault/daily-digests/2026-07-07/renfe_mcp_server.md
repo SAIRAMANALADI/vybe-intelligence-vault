@@ -1,13 +1,23 @@
 ---
-title: "SaberMaple1/renfe_mcp_server"
-category: "Tooling"
-tech_stack: ["Python", "MCP Server", "GTFS", "DWR Scraper", "Web Scraping"]
+title: SaberMaple1/renfe_mcp_server
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- MCP Server
+- GTFS
+- DWR Scraper
+- Web Scraping
 quality_score: 6
 rag_relevance: 5
-tags: ["train schedules", "real-time data", "GTFS integration", "web scraping", "travel planning"]
-source: "https://github.com/SaberMaple1/renfe_mcp_server"
-discovered_at: "2026-07-07T02:33:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- train schedules
+- real-time data
+- GTFS integration
+- web scraping
+- travel planning
+source: https://github.com/SaberMaple1/renfe_mcp_server
+discovered_at: '2026-07-07T02:33:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

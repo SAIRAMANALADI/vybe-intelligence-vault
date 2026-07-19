@@ -1,13 +1,28 @@
 ---
-title: "markpasternak/canvas-drop"
-category: "SaaS Template"
-tech_stack: ["TypeScript", "Node.js", "Hono", "Vite", "SQLite/Postgres", "S3-compatible storage", "OAuth 2.1", "Docker", "MCP (Model Context Protocol)", "AI provider abstraction"]
+title: markpasternak/canvas-drop
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- Hono
+- Vite
+- SQLite/Postgres
+- S3-compatible storage
+- OAuth 2.1
+- Docker
+- MCP (Model Context Protocol)
+- AI provider abstraction
 quality_score: 9
 rag_relevance: 8
-tags: ["self-hosted", "AI deployment", "static web apps", "versioned storage", "agent integration"]
-source: "https://github.com/markpasternak/canvas-drop"
-discovered_at: "2026-06-24T20:52:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-hosted
+- AI deployment
+- static web apps
+- versioned storage
+- agent integration
+source: https://github.com/markpasternak/canvas-drop
+discovered_at: '2026-06-24T20:52:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

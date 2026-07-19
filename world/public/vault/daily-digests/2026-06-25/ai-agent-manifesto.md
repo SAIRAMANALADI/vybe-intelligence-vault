@@ -1,13 +1,21 @@
 ---
-title: "Doc-Abdo/ai-agent-manifesto"
-category: "Tooling"
-tech_stack: ["HTML", "Documentation", "Markdown"]
+title: Doc-Abdo/ai-agent-manifesto
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- HTML
+- Documentation
+- Markdown
 quality_score: 4
 rag_relevance: 5
-tags: ["AI agents", "production systems", "frameworks", "documentation", "guidelines"]
-source: "https://github.com/Doc-Abdo/ai-agent-manifesto"
-discovered_at: "2026-06-25T05:05:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- production systems
+- frameworks
+- documentation
+- guidelines
+source: https://github.com/Doc-Abdo/ai-agent-manifesto
+discovered_at: '2026-06-25T05:05:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

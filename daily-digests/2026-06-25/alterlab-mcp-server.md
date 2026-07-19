@@ -1,13 +1,25 @@
 ---
-title: "RapierCraft/alterlab-mcp-server"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Headless Chromium", "REST API", "Proxy Rotation", "OCR", "MCP (Model Context Protocol)"]
+title: RapierCraft/alterlab-mcp-server
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- Headless Chromium
+- REST API
+- Proxy Rotation
+- OCR
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["web scraping", "anti-bot bypass", "structured data extraction", "proxy rotation", "MCP server"]
-source: "https://github.com/RapierCraft/alterlab-mcp-server"
-discovered_at: "2026-06-25T07:24:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web scraping
+- anti-bot bypass
+- structured data extraction
+- proxy rotation
+- MCP server
+source: https://github.com/RapierCraft/alterlab-mcp-server
+discovered_at: '2026-06-25T07:24:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

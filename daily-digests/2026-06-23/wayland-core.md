@@ -1,13 +1,26 @@
 ---
-title: "FerroxLabs/wayland-core"
-category: "Agent Framework"
-tech_stack: ["Rust", "LLM Providers (Anthropic, OpenAI, Google, AWS, etc.)", "MCP (Model Context Protocol)", "Bubblewrap/sandbox-exec/AppContainer", "npm", "Git", "TOML (config)", "RON (workflow definitions)"]
+title: FerroxLabs/wayland-core
+category: daily-digests/2026-06-23
+tech_stack:
+- Rust
+- LLM Providers (Anthropic, OpenAI, Google, AWS, etc.)
+- MCP (Model Context Protocol)
+- Bubblewrap/sandbox-exec/AppContainer
+- npm
+- Git
+- TOML (config)
+- RON (workflow definitions)
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous agents", "multi-provider", "MCP-native", "sandboxing", "swarm orchestration"]
-source: "https://github.com/FerroxLabs/wayland-core"
-discovered_at: "2026-06-23T08:54:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- multi-provider
+- MCP-native
+- sandboxing
+- swarm orchestration
+source: https://github.com/FerroxLabs/wayland-core
+discovered_at: '2026-06-23T08:54:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

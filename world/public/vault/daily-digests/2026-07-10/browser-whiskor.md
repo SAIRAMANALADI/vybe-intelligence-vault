@@ -1,13 +1,36 @@
 ---
-title: "torotoroTRPG/browser-whiskor"
-category: "Tooling"
-tech_stack: ["JavaScript", "TypeScript", "Chrome Extensions API", "Firefox WebExtensions", "MCP (Model Context Protocol)", "React", "Vue", "Angular", "Svelte", "Preact", "Alpine.js", "SolidJS", "Redux", "Zustand", "Node.js", "WebSocket", "HTTP", "JSON-RPC"]
+title: torotoroTRPG/browser-whiskor
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- JavaScript
+- TypeScript
+- Chrome Extensions API
+- Firefox WebExtensions
+- MCP (Model Context Protocol)
+- React
+- Vue
+- Angular
+- Svelte
+- Preact
+- Alpine.js
+- SolidJS
+- Redux
+- Zustand
+- Node.js
+- WebSocket
+- HTTP
+- JSON-RPC
 quality_score: 9
 rag_relevance: 10
-tags: ["browser automation", "AI agent perception", "state navigation", "MCP server", "framework state"]
-source: "https://github.com/torotoroTRPG/browser-whiskor"
-discovered_at: "2026-07-10T06:30:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- AI agent perception
+- state navigation
+- MCP server
+- framework state
+source: https://github.com/torotoroTRPG/browser-whiskor
+discovered_at: '2026-07-10T06:30:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

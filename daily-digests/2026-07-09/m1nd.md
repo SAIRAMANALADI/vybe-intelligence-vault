@@ -1,13 +1,25 @@
 ---
-title: "maxkle1nz/m1nd"
-category: "Orchestrator"
-tech_stack: ["Rust", "TypeScript", "Model Context Protocol (MCP)", "Graph Database", "Node.js", "WebAssembly", "Mermaid.js"]
+title: maxkle1nz/m1nd
+category: daily-digests/2026-07-09
+tech_stack:
+- Rust
+- TypeScript
+- Model Context Protocol (MCP)
+- Graph Database
+- Node.js
+- WebAssembly
+- Mermaid.js
 quality_score: 9
 rag_relevance: 10
-tags: ["agent memory", "code graph", "trust calibration", "MCP server", "local-first"]
-source: "https://github.com/maxkle1nz/m1nd"
-discovered_at: "2026-07-09T11:53:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent memory
+- code graph
+- trust calibration
+- MCP server
+- local-first
+source: https://github.com/maxkle1nz/m1nd
+discovered_at: '2026-07-09T11:53:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

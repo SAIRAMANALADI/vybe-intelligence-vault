@@ -1,13 +1,27 @@
 ---
-title: "SantyagoSeaman/tfmodsearch"
-category: "Agent Framework"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "BM25", "Semantic Embeddings", "PyPI", "uv", "BAAI/bge-base-en-v1.5", "Terraform", "AWS"]
+title: SantyagoSeaman/tfmodsearch
+category: daily-digests/2026-07-17
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- BM25
+- Semantic Embeddings
+- PyPI
+- uv
+- BAAI/bge-base-en-v1.5
+- Terraform
+- AWS
 quality_score: 9
 rag_relevance: 10
-tags: ["Terraform", "MCP Server", "Hybrid Search", "AWS Modules", "AI Assistant"]
-source: "https://github.com/SantyagoSeaman/tfmodsearch"
-discovered_at: "2026-07-11T16:55:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Terraform
+- MCP Server
+- Hybrid Search
+- AWS Modules
+- AI Assistant
+source: https://github.com/SantyagoSeaman/tfmodsearch
+discovered_at: '2026-07-11T16:55:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

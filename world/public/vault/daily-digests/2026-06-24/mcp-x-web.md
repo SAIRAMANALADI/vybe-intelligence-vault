@@ -1,13 +1,24 @@
 ---
-title: "MAKEITFREE/MCP-X-web"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "AI Models (Claude, OpenAI, DeepSeek, etc.)", "Web Technologies (HTML/CSS/JavaScript)", "FFmpeg (for video processing)", "Image Processing Libraries"]
+title: MAKEITFREE/MCP-X-web
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Electron
+- AI Models (Claude, OpenAI, DeepSeek, etc.)
+- Web Technologies (HTML/CSS/JavaScript)
+- FFmpeg (for video processing)
+- Image Processing Libraries
 quality_score: 7
 rag_relevance: 6
-tags: ["AI agent builder", "no-code development", "multimodal AI", "enterprise tools", "AI workflow integration"]
-source: "https://github.com/MAKEITFREE/MCP-X-web"
-discovered_at: "2026-06-24T16:21:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent builder
+- no-code development
+- multimodal AI
+- enterprise tools
+- AI workflow integration
+source: https://github.com/MAKEITFREE/MCP-X-web
+discovered_at: '2026-06-24T16:21:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

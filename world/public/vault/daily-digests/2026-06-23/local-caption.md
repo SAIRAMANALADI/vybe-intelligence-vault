@@ -1,13 +1,27 @@
 ---
-title: "ahkamboh/local-caption"
-category: "Tooling"
-tech_stack: ["Python", "Whisper", "WhisperX", "Demucs", "ffmpeg", "Meta MMS", "PyTorch", "NumPy", "Pandas"]
+title: ahkamboh/local-caption
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Whisper
+- WhisperX
+- Demucs
+- ffmpeg
+- Meta MMS
+- PyTorch
+- NumPy
+- Pandas
 quality_score: 9
 rag_relevance: 7
-tags: ["video captioning", "offline speech-to-text", "multilingual subtitles", "forced alignment", "AI agent integration"]
-source: "https://github.com/ahkamboh/local-caption"
-discovered_at: "2026-06-23T19:09:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- video captioning
+- offline speech-to-text
+- multilingual subtitles
+- forced alignment
+- AI agent integration
+source: https://github.com/ahkamboh/local-caption
+discovered_at: '2026-06-23T19:09:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

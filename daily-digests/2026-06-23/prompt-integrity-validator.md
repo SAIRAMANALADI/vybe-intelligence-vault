@@ -1,13 +1,25 @@
 ---
-title: "Kenny27lokku/prompt-integrity-validator"
-category: "Tooling"
-tech_stack: ["Go", "YAML", "CLI", "HTML/CSS", "JavaScript", "Mermaid.js", "Docker"]
+title: Kenny27lokku/prompt-integrity-validator
+category: daily-digests/2026-06-23
+tech_stack:
+- Go
+- YAML
+- CLI
+- HTML/CSS
+- JavaScript
+- Mermaid.js
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["prompt validation", "static analysis", "LLM optimization", "security linting", "multi-model support"]
-source: "https://github.com/Kenny27lokku/prompt-integrity-validator"
-discovered_at: "2026-06-23T06:45:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- prompt validation
+- static analysis
+- LLM optimization
+- security linting
+- multi-model support
+source: https://github.com/Kenny27lokku/prompt-integrity-validator
+discovered_at: '2026-06-23T06:45:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

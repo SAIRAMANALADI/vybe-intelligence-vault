@@ -1,13 +1,23 @@
 ---
-title: "vbkotecha/aiservices-api"
-category: "Tooling"
-tech_stack: ["FastAPI", "Python 3.11+", "x402 Payment Protocol", "USDC (Base Mainnet)", "Railway Deployment"]
+title: vbkotecha/aiservices-api
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- FastAPI
+- Python 3.11+
+- x402 Payment Protocol
+- USDC (Base Mainnet)
+- Railway Deployment
 quality_score: 9
 rag_relevance: 8
-tags: ["micropayments", "crypto data", "AI agents", "DeFi analytics", "x402 protocol"]
-source: "https://github.com/vbkotecha/aiservices-api"
-discovered_at: "2026-07-07T02:34:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- micropayments
+- crypto data
+- AI agents
+- DeFi analytics
+- x402 protocol
+source: https://github.com/vbkotecha/aiservices-api
+discovered_at: '2026-07-07T02:34:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "Wyattputrescent882/ai-code-governance-skill"
-category: "Tooling"
-tech_stack: ["Windows", "Python (implied)", "Local AI service integration", "Background service architecture"]
+title: Wyattputrescent882/ai-code-governance-skill
+category: daily-digests/2026-06-24
+tech_stack:
+- Windows
+- Python (implied)
+- Local AI service integration
+- Background service architecture
 quality_score: 5
 rag_relevance: 7
-tags: ["code governance", "AI coding standards", "dependency control", "architecture enforcement", "Windows tool"]
-source: "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-discovered_at: "2026-06-24T06:45:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code governance
+- AI coding standards
+- dependency control
+- architecture enforcement
+- Windows tool
+source: https://github.com/Wyattputrescent882/ai-code-governance-skill
+discovered_at: '2026-06-24T06:45:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

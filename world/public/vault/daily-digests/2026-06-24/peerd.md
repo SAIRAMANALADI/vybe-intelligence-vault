@@ -1,13 +1,26 @@
 ---
-title: "NotASithLord/peerd"
-category: "Agent Framework"
-tech_stack: ["JavaScript (ES2024+)", "WebAssembly (WASM)", "WebRTC", "WebCrypto", "WebAuthn", "Chrome/Firefox Extensions (Manifest V3)", "Bun (for build scripts)", "GitHub Actions (CI/CD)"]
+title: NotASithLord/peerd
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- JavaScript (ES2024+)
+- WebAssembly (WASM)
+- WebRTC
+- WebCrypto
+- WebAuthn
+- Chrome/Firefox Extensions (Manifest V3)
+- Bun (for build scripts)
+- GitHub Actions (CI/CD)
 quality_score: 9
 rag_relevance: 8
-tags: ["browser-based AI agents", "sandboxed compute", "peer-to-peer networking", "BYOK model integration", "privacy-first architecture"]
-source: "https://github.com/NotASithLord/peerd"
-discovered_at: "2026-06-24T18:50:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser-based AI agents
+- sandboxed compute
+- peer-to-peer networking
+- BYOK model integration
+- privacy-first architecture
+source: https://github.com/NotASithLord/peerd
+discovered_at: '2026-06-24T18:50:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

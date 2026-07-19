@@ -1,13 +1,24 @@
 ---
-title: "nbbou81000/cellia"
-category: "Orchestrator"
-tech_stack: ["GitHub Pages", "GitHub Actions", "LLMs (Groq, Mistral AI, Google Gemini)", "HTML/CSS", "JavaScript", "localStorage"]
+title: nbbou81000/cellia
+category: daily-digests/2026-06-23
+tech_stack:
+- GitHub Pages
+- GitHub Actions
+- LLMs (Groq, Mistral AI, Google Gemini)
+- HTML/CSS
+- JavaScript
+- localStorage
 quality_score: 9
 rag_relevance: 7
-tags: ["autonomous media", "LLM integration", "GitHub Actions", "scraping", "lofi radio"]
-source: "https://github.com/nbbou81000/cellia"
-discovered_at: "2026-06-23T16:26:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous media
+- LLM integration
+- GitHub Actions
+- scraping
+- lofi radio
+source: https://github.com/nbbou81000/cellia
+discovered_at: '2026-06-23T16:26:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

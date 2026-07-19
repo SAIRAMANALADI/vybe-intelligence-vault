@@ -1,13 +1,26 @@
 ---
-title: "MCPJam/inspector"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "React", "Docker", "JSON-RPC", "OAuth 2.0", "OpenAPI", "Electron"]
+title: MCPJam/inspector
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- Docker
+- JSON-RPC
+- OAuth 2.0
+- OpenAPI
+- Electron
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP debugging", "AI server testing", "OAuth conformance", "LLM evaluation", "CI/CD integration"]
-source: "https://github.com/MCPJam/inspector"
-discovered_at: "2026-06-23T06:53:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP debugging
+- AI server testing
+- OAuth conformance
+- LLM evaluation
+- CI/CD integration
+source: https://github.com/MCPJam/inspector
+discovered_at: '2026-06-23T06:53:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

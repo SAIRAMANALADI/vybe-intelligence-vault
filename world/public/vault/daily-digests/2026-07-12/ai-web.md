@@ -1,13 +1,28 @@
 ---
-title: "dongxinsuperman/ai-web"
-category: "Orchestrator"
-tech_stack: ["Python", "Playwright", "PostgreSQL", "FastAPI", "WebSocket", "HTML/CSS (Frontend)", "Docker (implied)", "Claude API", "OpenAI API", "Doubao API"]
+title: dongxinsuperman/ai-web
+category: world/public/vault/daily-digests/2026-07-12
+tech_stack:
+- Python
+- Playwright
+- PostgreSQL
+- FastAPI
+- WebSocket
+- HTML/CSS (Frontend)
+- Docker (implied)
+- Claude API
+- OpenAI API
+- Doubao API
 quality_score: 8
 rag_relevance: 7
-tags: ["Browser Automation", "Agent Orchestration", "Natural Language Processing", "Web Testing", "Multi-Browser Support"]
-source: "https://github.com/dongxinsuperman/ai-web"
-discovered_at: "2026-07-12T11:58:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Browser Automation
+- Agent Orchestration
+- Natural Language Processing
+- Web Testing
+- Multi-Browser Support
+source: https://github.com/dongxinsuperman/ai-web
+discovered_at: '2026-07-12T11:58:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

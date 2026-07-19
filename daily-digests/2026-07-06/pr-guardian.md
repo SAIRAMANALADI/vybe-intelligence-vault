@@ -1,13 +1,22 @@
 ---
-title: "subhansh-dev/pr-guardian"
-category: "Tooling"
-tech_stack: ["Python", "Git", "Regular Expressions", "Claude Code"]
+title: subhansh-dev/pr-guardian
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- Git
+- Regular Expressions
+- Claude Code
 quality_score: 8
 rag_relevance: 7
-tags: ["security-scanner", "pull-request-review", "secrets-detection", "authentication-checks", "code-review-automation"]
-source: "https://github.com/subhansh-dev/pr-guardian"
-discovered_at: "2026-07-06T19:48:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- security-scanner
+- pull-request-review
+- secrets-detection
+- authentication-checks
+- code-review-automation
+source: https://github.com/subhansh-dev/pr-guardian
+discovered_at: '2026-07-06T19:48:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "aponeurosiswilling807/apple-hig"
-category: "Tooling"
-tech_stack: ["JavaScript", "Claude Code", "SwiftUI", "Design Tokens"]
+title: aponeurosiswilling807/apple-hig
+category: daily-digests/2026-06-24
+tech_stack:
+- JavaScript
+- Claude Code
+- SwiftUI
+- Design Tokens
 quality_score: 7
 rag_relevance: 6
-tags: ["Apple HIG", "UI Validation", "Design Compliance", "Accessibility", "Claude Code Plugin"]
-source: "https://github.com/aponeurosiswilling807/apple-hig"
-discovered_at: "2026-06-24T06:48:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Apple HIG
+- UI Validation
+- Design Compliance
+- Accessibility
+- Claude Code Plugin
+source: https://github.com/aponeurosiswilling807/apple-hig
+discovered_at: '2026-06-24T06:48:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

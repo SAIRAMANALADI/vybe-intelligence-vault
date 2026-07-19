@@ -1,13 +1,22 @@
 ---
-title: "Shubishere/ai-drawio"
-category: "Tooling"
-tech_stack: ["Python", "Natural Language Processing", "Diagram Generation", "Web Browser Preview"]
+title: Shubishere/ai-drawio
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- Natural Language Processing
+- Diagram Generation
+- Web Browser Preview
 quality_score: 4
 rag_relevance: 6
-tags: ["diagram generation", "NLP", "visualization", "real-time editing", "browser preview"]
-source: "https://github.com/Shubishere/ai-drawio"
-discovered_at: "2026-07-09T08:26:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- diagram generation
+- NLP
+- visualization
+- real-time editing
+- browser preview
+source: https://github.com/Shubishere/ai-drawio
+discovered_at: '2026-07-09T08:26:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

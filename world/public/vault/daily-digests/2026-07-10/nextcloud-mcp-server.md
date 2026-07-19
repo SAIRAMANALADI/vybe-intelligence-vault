@@ -1,13 +1,30 @@
 ---
-title: "cbcoutinho/nextcloud-mcp-server"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Nextcloud", "Docker", "Kubernetes", "Qdrant (for semantic search)", "Ollama (for embeddings)", "FastAPI", "OCR (Tesseract, Poppler)", "WebDAV", "CardDAV", "CalDAV"]
+title: cbcoutinho/nextcloud-mcp-server
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Nextcloud
+- Docker
+- Kubernetes
+- Qdrant (for semantic search)
+- Ollama (for embeddings)
+- FastAPI
+- OCR (Tesseract, Poppler)
+- WebDAV
+- CardDAV
+- CalDAV
 quality_score: 9
 rag_relevance: 8
-tags: ["Nextcloud integration", "MCP server", "AI assistant bridge", "Semantic search", "Document processing"]
-source: "https://github.com/cbcoutinho/nextcloud-mcp-server"
-discovered_at: "2026-07-10T06:32:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Nextcloud integration
+- MCP server
+- AI assistant bridge
+- Semantic search
+- Document processing
+source: https://github.com/cbcoutinho/nextcloud-mcp-server
+discovered_at: '2026-07-10T06:32:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

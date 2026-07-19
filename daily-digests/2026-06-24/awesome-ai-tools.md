@@ -1,13 +1,22 @@
 ---
-title: "puissant-familypsilophytaceae582/awesome-ai-tools"
-category: "Tooling"
-tech_stack: ["Windows", "Electron (assumed)", "JavaScript/TypeScript (assumed)", "HTML/CSS (assumed)"]
+title: puissant-familypsilophytaceae582/awesome-ai-tools
+category: daily-digests/2026-06-24
+tech_stack:
+- Windows
+- Electron (assumed)
+- JavaScript/TypeScript (assumed)
+- HTML/CSS (assumed)
 quality_score: 6
 rag_relevance: 5
-tags: ["AI tool aggregator", "productivity", "resource discovery", "desktop app", "curated lists"]
-source: "https://github.com/puissant-familypsilophytaceae582/awesome-ai-tools"
-discovered_at: "2026-06-24T06:47:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI tool aggregator
+- productivity
+- resource discovery
+- desktop app
+- curated lists
+source: https://github.com/puissant-familypsilophytaceae582/awesome-ai-tools
+discovered_at: '2026-06-24T06:47:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

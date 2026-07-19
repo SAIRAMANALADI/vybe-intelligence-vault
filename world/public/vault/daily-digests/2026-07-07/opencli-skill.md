@@ -1,13 +1,23 @@
 ---
-title: "Baileybasic68/opencli-skill"
-category: "Agent Framework"
-tech_stack: ["Python", "Browser Automation", "Desktop Automation", "Windows OS", "Electron"]
+title: Baileybasic68/opencli-skill
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Browser Automation
+- Desktop Automation
+- Windows OS
+- Electron
 quality_score: 7
 rag_relevance: 6
-tags: ["desktop automation", "browser automation", "agent workflows", "Chinese platforms", "Windows automation"]
-source: "https://github.com/Baileybasic68/opencli-skill"
-discovered_at: "2026-07-07T20:51:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- desktop automation
+- browser automation
+- agent workflows
+- Chinese platforms
+- Windows automation
+source: https://github.com/Baileybasic68/opencli-skill
+discovered_at: '2026-07-07T20:51:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

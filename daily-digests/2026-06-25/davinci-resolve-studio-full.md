@@ -1,13 +1,23 @@
 ---
-title: "commonlaw-steal523/davinci-resolve-studio-full"
-category: "Tooling"
-tech_stack: ["Windows", "Video Editing", "Color Grading", "Audio Mixing", "Visual Effects"]
+title: commonlaw-steal523/davinci-resolve-studio-full
+category: daily-digests/2026-06-25
+tech_stack:
+- Windows
+- Video Editing
+- Color Grading
+- Audio Mixing
+- Visual Effects
 quality_score: 5
 rag_relevance: 2
-tags: ["video editing", "color grading", "professional software", "DaVinci Resolve", "Windows"]
-source: "https://github.com/commonlaw-steal523/davinci-resolve-studio-full"
-discovered_at: "2026-06-25T08:35:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- video editing
+- color grading
+- professional software
+- DaVinci Resolve
+- Windows
+source: https://github.com/commonlaw-steal523/davinci-resolve-studio-full
+discovered_at: '2026-06-25T08:35:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

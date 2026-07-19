@@ -1,13 +1,32 @@
 ---
-title: "kenhayward/Diariz"
-category: "Tooling"
-tech_stack: ["TypeScript", "C#", "Python", "WhisperX", "pyannote", "SpeechBrain", "PostgreSQL", "pgvector", "Electron", "React", "FastAPI", "ffmpeg", "OAuth 2.0", "Model Context Protocol (MCP)"]
+title: kenhayward/Diariz
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- C#
+- Python
+- WhisperX
+- pyannote
+- SpeechBrain
+- PostgreSQL
+- pgvector
+- Electron
+- React
+- FastAPI
+- ffmpeg
+- OAuth 2.0
+- Model Context Protocol (MCP)
 quality_score: 9
 rag_relevance: 9
-tags: ["meeting transcription", "speaker diarization", "semantic search", "AI chat", "self-hosted"]
-source: "https://github.com/kenhayward/Diariz"
-discovered_at: "2026-07-07T16:26:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- meeting transcription
+- speaker diarization
+- semantic search
+- AI chat
+- self-hosted
+source: https://github.com/kenhayward/Diariz
+discovered_at: '2026-07-07T16:26:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

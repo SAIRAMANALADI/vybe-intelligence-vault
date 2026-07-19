@@ -1,13 +1,23 @@
 ---
-title: "Surging-scotandlot818/product-dev-blueprint"
-category: "Tooling"
-tech_stack: ["TypeScript", "Windows Desktop Application", "Offline Processing", "Document Generation", "Schema-Based Planning"]
+title: Surging-scotandlot818/product-dev-blueprint
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- Windows Desktop Application
+- Offline Processing
+- Document Generation
+- Schema-Based Planning
 quality_score: 7
 rag_relevance: 6
-tags: ["product planning", "project blueprint", "software scaffolding", "technical documentation", "Windows tool"]
-source: "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-discovered_at: "2026-07-06T19:48:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- product planning
+- project blueprint
+- software scaffolding
+- technical documentation
+- Windows tool
+source: https://github.com/Surging-scotandlot818/product-dev-blueprint
+discovered_at: '2026-07-06T19:48:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

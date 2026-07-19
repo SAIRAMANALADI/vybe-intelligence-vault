@@ -1,13 +1,25 @@
 ---
-title: "stevencallaway1/oski-agent"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Anthropic API", "Slack API", "JSONL", "Mermaid.js", "Ripgrep (rg)"]
+title: stevencallaway1/oski-agent
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- Anthropic API
+- Slack API
+- JSONL
+- Mermaid.js
+- Ripgrep (rg)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent framework", "self-evolving", "controlled tool use", "audit logging", "draft-first execution"]
-source: "https://github.com/stevencallaway1/oski-agent"
-discovered_at: "2026-07-08T15:15:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent framework
+- self-evolving
+- controlled tool use
+- audit logging
+- draft-first execution
+source: https://github.com/stevencallaway1/oski-agent
+discovered_at: '2026-07-08T15:15:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

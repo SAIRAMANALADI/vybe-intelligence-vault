@@ -1,13 +1,32 @@
 ---
-title: "Osiyomeoh/casper-launch"
-category: "Tooling"
-tech_stack: ["Casper Network", "Rust", "WebAssembly", "CEP-78 NFT Standard", "Google Gemini 2.0 Flash", "Groq", "x402 Payment Protocol", "Next.js", "TypeScript", "Tailwind CSS", "Vercel", "Neon Postgres", "CasperWallet", "casper-js-sdk"]
+title: Osiyomeoh/casper-launch
+category: daily-digests/2026-07-07
+tech_stack:
+- Casper Network
+- Rust
+- WebAssembly
+- CEP-78 NFT Standard
+- Google Gemini 2.0 Flash
+- Groq
+- x402 Payment Protocol
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Vercel
+- Neon Postgres
+- CasperWallet
+- casper-js-sdk
 quality_score: 9
 rag_relevance: 8
-tags: ["real-world asset tokenization", "autonomous agents", "Casper blockchain", "CEP-78 NFTs", "yield distribution"]
-source: "https://github.com/Osiyomeoh/casper-launch"
-discovered_at: "2026-07-07T22:08:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- real-world asset tokenization
+- autonomous agents
+- Casper blockchain
+- CEP-78 NFTs
+- yield distribution
+source: https://github.com/Osiyomeoh/casper-launch
+discovered_at: '2026-07-07T22:08:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

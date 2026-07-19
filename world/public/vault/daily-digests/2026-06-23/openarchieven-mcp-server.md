@@ -1,13 +1,27 @@
 ---
-title: "coret/openarchieven-mcp-server"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "OpenAPI", "Redis", "StreamableHTTP", "Server-Sent Events (SSE)", "IIIF", "OpenSeadragon"]
+title: coret/openarchieven-mcp-server
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- OpenAPI
+- Redis
+- StreamableHTTP
+- Server-Sent Events (SSE)
+- IIIF
+- OpenSeadragon
 quality_score: 9
 rag_relevance: 8
-tags: ["genealogy", "historical data", "MCP server", "hybrid API", "document transcription"]
-source: "https://github.com/coret/openarchieven-mcp-server"
-discovered_at: "2026-06-23T10:40:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- genealogy
+- historical data
+- MCP server
+- hybrid API
+- document transcription
+source: https://github.com/coret/openarchieven-mcp-server
+discovered_at: '2026-06-23T10:40:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

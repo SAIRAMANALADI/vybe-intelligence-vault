@@ -1,13 +1,21 @@
 ---
-title: "NaghamYehya/claude-recall"
-category: "Tooling"
-tech_stack: ["Python", "Windows API", "Command Line Interface"]
+title: NaghamYehya/claude-recall
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- Python
+- Windows API
+- Command Line Interface
 quality_score: 7
 rag_relevance: 5
-tags: ["automation", "workflow capture", "Claude Code", "skill reuse", "local processing"]
-source: "https://github.com/NaghamYehya/claude-recall"
-discovered_at: "2026-07-12T15:58:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- automation
+- workflow capture
+- Claude Code
+- skill reuse
+- local processing
+source: https://github.com/NaghamYehya/claude-recall
+discovered_at: '2026-07-12T15:58:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

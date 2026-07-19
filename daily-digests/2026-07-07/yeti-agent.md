@@ -1,13 +1,23 @@
 ---
-title: "hunkdl/yeti-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Chrome DevTools Protocol (CDP)", "AI Models (OpenAI, Anthropic, Gemini)", "Windows Desktop App", "Docker"]
+title: hunkdl/yeti-agent
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- Chrome DevTools Protocol (CDP)
+- AI Models (OpenAI, Anthropic, Gemini)
+- Windows Desktop App
+- Docker
 quality_score: 7
 rag_relevance: 6
-tags: ["browser automation", "AI agents", "Chrome DevTools Protocol", "desktop application", "task automation"]
-source: "https://github.com/hunkdl/yeti-agent"
-discovered_at: "2026-07-07T23:54:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- AI agents
+- Chrome DevTools Protocol
+- desktop application
+- task automation
+source: https://github.com/hunkdl/yeti-agent
+discovered_at: '2026-07-07T23:54:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

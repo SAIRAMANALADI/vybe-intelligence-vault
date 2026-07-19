@@ -1,13 +1,27 @@
 ---
-title: "reshaprio/reshapr"
-category: "Orchestrator"
-tech_stack: ["Java", "TypeScript", "Docker", "MCP (Model Context Protocol)", "OpenAPI", "GraphQL", "gRPC", "Node.js", "Apache License 2.0"]
+title: reshaprio/reshapr
+category: daily-digests/2026-06-25
+tech_stack:
+- Java
+- TypeScript
+- Docker
+- MCP (Model Context Protocol)
+- OpenAPI
+- GraphQL
+- gRPC
+- Node.js
+- Apache License 2.0
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP Server", "API Optimization", "Context Control", "No-Code", "AI-Native Tools"]
-source: "https://github.com/reshaprio/reshapr"
-discovered_at: "2026-06-25T07:28:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- API Optimization
+- Context Control
+- No-Code
+- AI-Native Tools
+source: https://github.com/reshaprio/reshapr
+discovered_at: '2026-06-25T07:28:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "johnisanerd/Google-Images-API"
-category: "Tooling"
-tech_stack: ["Python", "Apify", "MCP (Model Context Protocol)", "JSON", "REST API"]
+title: johnisanerd/Google-Images-API
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- Apify
+- MCP (Model Context Protocol)
+- JSON
+- REST API
 quality_score: 9
 rag_relevance: 7
-tags: ["image search", "data extraction", "API wrapper", "bulk processing", "MCP integration"]
-source: "https://github.com/johnisanerd/Google-Images-API"
-discovered_at: "2026-07-08T05:47:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- image search
+- data extraction
+- API wrapper
+- bulk processing
+- MCP integration
+source: https://github.com/johnisanerd/Google-Images-API
+discovered_at: '2026-07-08T05:47:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

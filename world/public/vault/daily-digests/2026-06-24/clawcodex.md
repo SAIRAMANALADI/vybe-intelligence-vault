@@ -1,13 +1,26 @@
 ---
-title: "agentforce314/clawcodex"
-category: "Agent Framework"
-tech_stack: ["Python", "CLI", "LLM Providers (DeepSeek, Z.ai, Claude, etc.)", "Prompt Caching", "Workflow Engine", "Tavily WebSearch", "Markdown-based Skills", "JWT Authentication"]
+title: agentforce314/clawcodex
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- CLI
+- LLM Providers (DeepSeek, Z.ai, Claude, etc.)
+- Prompt Caching
+- Workflow Engine
+- Tavily WebSearch
+- Markdown-based Skills
+- JWT Authentication
 quality_score: 9
 rag_relevance: 9
-tags: ["agentic coding", "multi-llm", "prompt caching", "workflow engine", "cost optimization"]
-source: "https://github.com/agentforce314/clawcodex"
-discovered_at: "2026-06-24T10:20:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agentic coding
+- multi-llm
+- prompt caching
+- workflow engine
+- cost optimization
+source: https://github.com/agentforce314/clawcodex
+discovered_at: '2026-06-24T10:20:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "gregoryschlepper/AbraxasOS_free"
-category: "Agent Framework"
-tech_stack: ["Python", "Telegram Bot API", "DeepSeek API", "WSL (Windows Subsystem for Linux)", "Bash", "Git"]
+title: gregoryschlepper/AbraxasOS_free
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Telegram Bot API
+- DeepSeek API
+- WSL (Windows Subsystem for Linux)
+- Bash
+- Git
 quality_score: 8
 rag_relevance: 7
-tags: ["local-first", "personal AI agents", "Telegram integration", "cost-aware", "privacy-focused"]
-source: "https://github.com/gregoryschlepper/AbraxasOS_free"
-discovered_at: "2026-07-07T16:25:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first
+- personal AI agents
+- Telegram integration
+- cost-aware
+- privacy-focused
+source: https://github.com/gregoryschlepper/AbraxasOS_free
+discovered_at: '2026-07-07T16:25:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

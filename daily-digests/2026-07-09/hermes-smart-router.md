@@ -1,13 +1,24 @@
 ---
-title: "raydatalab/hermes-smart-router"
-category: "Agent Framework"
-tech_stack: ["Python", "Hermes Agent", "Ollama", "Semantic Router", "Nomic Embed Text", "YAML"]
+title: raydatalab/hermes-smart-router
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- Hermes Agent
+- Ollama
+- Semantic Router
+- Nomic Embed Text
+- YAML
 quality_score: 8
 rag_relevance: 9
-tags: ["model routing", "cost optimization", "local inference", "Hermes Agent", "multi-tier LLM"]
-source: "https://github.com/raydatalab/hermes-smart-router"
-discovered_at: "2026-07-09T08:24:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- model routing
+- cost optimization
+- local inference
+- Hermes Agent
+- multi-tier LLM
+source: https://github.com/raydatalab/hermes-smart-router
+discovered_at: '2026-07-09T08:24:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

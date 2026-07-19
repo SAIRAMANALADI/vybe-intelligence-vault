@@ -1,13 +1,23 @@
 ---
-title: "Eighteen-ganja934/ExamPrep"
-category: "Tooling"
-tech_stack: ["Python", "Jupyter Notebooks", "Pandas", "NumPy", "Data Analysis"]
+title: Eighteen-ganja934/ExamPrep
+category: world/public/vault/daily-digests/2026-07-02
+tech_stack:
+- Python
+- Jupyter Notebooks
+- Pandas
+- NumPy
+- Data Analysis
 quality_score: 2
 rag_relevance: 3
-tags: ["exam preparation", "study tools", "data analysis", "GGSIPU", "B.Tech"]
-source: "https://github.com/Eighteen-ganja934/ExamPrep"
-discovered_at: "2026-07-02T21:03:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- exam preparation
+- study tools
+- data analysis
+- GGSIPU
+- B.Tech
+source: https://github.com/Eighteen-ganja934/ExamPrep
+discovered_at: '2026-07-02T21:03:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

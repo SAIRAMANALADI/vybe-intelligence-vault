@@ -1,13 +1,25 @@
 ---
-title: "nimbly-dev/mcp-java-dev-tools"
-category: "Tooling"
-tech_stack: ["Java 17+", "ByteBuddy", "JDWP", "Maven", "Node.js", "TypeScript", "MCP (Model Context Protocol)"]
+title: nimbly-dev/mcp-java-dev-tools
+category: daily-digests/2026-07-07
+tech_stack:
+- Java 17+
+- ByteBuddy
+- JDWP
+- Maven
+- Node.js
+- TypeScript
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["Java runtime instrumentation", "bytecode analysis", "MCP server", "deterministic debugging", "regression testing"]
-source: "https://github.com/nimbly-dev/mcp-java-dev-tools"
-discovered_at: "2026-07-07T02:34:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Java runtime instrumentation
+- bytecode analysis
+- MCP server
+- deterministic debugging
+- regression testing
+source: https://github.com/nimbly-dev/mcp-java-dev-tools
+discovered_at: '2026-07-07T02:34:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

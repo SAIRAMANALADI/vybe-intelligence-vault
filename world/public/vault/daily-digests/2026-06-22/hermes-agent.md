@@ -1,13 +1,34 @@
 ---
-title: "NousResearch/hermes-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Rust", "Node.js", "FastAPI", "SQLite", "FTS5 (Full-Text Search)", "Docker", "Modal", "Daytona", "Telegram API", "Discord API", "Slack API", "Whisper (Speech-to-Text)", "FFmpeg", "uv (Python package manager)", "Git"]
+title: NousResearch/hermes-agent
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- Rust
+- Node.js
+- FastAPI
+- SQLite
+- FTS5 (Full-Text Search)
+- Docker
+- Modal
+- Daytona
+- Telegram API
+- Discord API
+- Slack API
+- Whisper (Speech-to-Text)
+- FFmpeg
+- uv (Python package manager)
+- Git
 quality_score: 9
 rag_relevance: 8
-tags: ["self-improving agent", "multi-platform", "skill automation", "LLM integration", "cross-session memory"]
-source: "https://github.com/NousResearch/hermes-agent"
-discovered_at: "2026-06-22T15:56:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-improving agent
+- multi-platform
+- skill automation
+- LLM integration
+- cross-session memory
+source: https://github.com/NousResearch/hermes-agent
+discovered_at: '2026-06-22T15:56:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "Lyin01/LMcode-cli"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Vector DB (for memory)", "Agent Framework", "CLI/TUI", "Git", "NPM"]
+title: Lyin01/LMcode-cli
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Vector DB (for memory)
+- Agent Framework
+- CLI/TUI
+- Git
+- NPM
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Agent", "Local Execution", "Multi-Agent", "Memory System", "Chinese Support"]
-source: "https://github.com/Lyin01/LMcode-cli"
-discovered_at: "2026-06-23T06:46:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent
+- Local Execution
+- Multi-Agent
+- Memory System
+- Chinese Support
+source: https://github.com/Lyin01/LMcode-cli
+discovered_at: '2026-06-23T06:46:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

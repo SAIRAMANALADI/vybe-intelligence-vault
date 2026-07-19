@@ -1,13 +1,29 @@
 ---
-title: "avuzmal/whatsapp.orchestrator"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "OpenAI", "LangChain", "Qdrant", "Redis", "Docker", "Langfuse", "Prometheus", "SQLite", "Presidio"]
+title: avuzmal/whatsapp.orchestrator
+category: daily-digests/2026-07-16
+tech_stack:
+- Python
+- FastAPI
+- OpenAI
+- LangChain
+- Qdrant
+- Redis
+- Docker
+- Langfuse
+- Prometheus
+- SQLite
+- Presidio
 quality_score: 9
 rag_relevance: 9
-tags: ["WhatsApp automation", "RAG pipeline", "LLM orchestration", "PII masking", "human-in-the-loop"]
-source: "https://github.com/avuzmal/whatsapp.orchestrator"
-discovered_at: "2026-07-14T16:13:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- WhatsApp automation
+- RAG pipeline
+- LLM orchestration
+- PII masking
+- human-in-the-loop
+source: https://github.com/avuzmal/whatsapp.orchestrator
+discovered_at: '2026-07-14T16:13:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

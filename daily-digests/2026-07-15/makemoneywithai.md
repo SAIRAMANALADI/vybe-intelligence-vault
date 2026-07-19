@@ -1,13 +1,23 @@
 ---
-title: "garylab/MakeMoneyWithAI"
-category: "Tooling"
-tech_stack: ["Python", "Markdown", "GitHub API", "Web Scraping", "Curated Lists"]
+title: garylab/MakeMoneyWithAI
+category: daily-digests/2026-07-15
+tech_stack:
+- Python
+- Markdown
+- GitHub API
+- Web Scraping
+- Curated Lists
 quality_score: 7
 rag_relevance: 6
-tags: ["AI monetization", "open-source tools", "SaaS development", "automation", "curated resources"]
-source: "https://github.com/garylab/MakeMoneyWithAI"
-discovered_at: "2026-07-11T02:27:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI monetization
+- open-source tools
+- SaaS development
+- automation
+- curated resources
+source: https://github.com/garylab/MakeMoneyWithAI
+discovered_at: '2026-07-11T02:27:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

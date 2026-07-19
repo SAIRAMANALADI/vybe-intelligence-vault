@@ -1,13 +1,27 @@
 ---
-title: "SandroG1977/bfa-sdk"
-category: "Orchestrator"
-tech_stack: ["Python", "FAISS", "FastMCP", "a2a-sdk", "Starlette", "Mangum", "OpenAI API", "React", "Docker"]
+title: SandroG1977/bfa-sdk
+category: daily-digests/2026-07-15
+tech_stack:
+- Python
+- FAISS
+- FastMCP
+- a2a-sdk
+- Starlette
+- Mangum
+- OpenAI API
+- React
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["Agent Orchestration", "Semantic Routing", "MCP Integration", "Zero-Trust Security", "Serverless Deployment"]
-source: "https://github.com/SandroG1977/bfa-sdk"
-discovered_at: "2026-07-14T05:29:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agent Orchestration
+- Semantic Routing
+- MCP Integration
+- Zero-Trust Security
+- Serverless Deployment
+source: https://github.com/SandroG1977/bfa-sdk
+discovered_at: '2026-07-14T05:29:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

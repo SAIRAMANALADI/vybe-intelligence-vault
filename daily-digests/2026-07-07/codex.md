@@ -1,13 +1,30 @@
 ---
-title: "bocan/codex"
-category: "Tooling"
-tech_stack: ["TypeScript", "React", "Express", "Vite", "Node.js", "Mermaid.js", "Web Speech API", "bcrypt", "Helmet", "morgan", "Ollama", "Anthropic Claude"]
+title: bocan/codex
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- React
+- Express
+- Vite
+- Node.js
+- Mermaid.js
+- Web Speech API
+- bcrypt
+- Helmet
+- morgan
+- Ollama
+- Anthropic Claude
 quality_score: 9
 rag_relevance: 7
-tags: ["document management", "markdown editor", "AI assistant", "personal wiki", "knowledge base"]
-source: "https://github.com/bocan/codex"
-discovered_at: "2026-07-07T22:09:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- document management
+- markdown editor
+- AI assistant
+- personal wiki
+- knowledge base
+source: https://github.com/bocan/codex
+discovered_at: '2026-07-07T22:09:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

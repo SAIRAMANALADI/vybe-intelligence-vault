@@ -1,13 +1,23 @@
 ---
-title: "Archosaurian-foodcache737/Spine-Pro"
-category: "Tooling"
-tech_stack: ["C++", "OpenGL", "Windows API", "Qt (likely for UI)", "Custom 2D Animation Engine"]
+title: Archosaurian-foodcache737/Spine-Pro
+category: daily-digests/2026-07-07
+tech_stack:
+- C++
+- OpenGL
+- Windows API
+- Qt (likely for UI)
+- Custom 2D Animation Engine
 quality_score: 7
 rag_relevance: 3
-tags: ["2D animation", "skeletal animation", "game development", "desktop software", "animation tools"]
-source: "https://github.com/Archosaurian-foodcache737/Spine-Pro"
-discovered_at: "2026-07-07T19:00:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- 2D animation
+- skeletal animation
+- game development
+- desktop software
+- animation tools
+source: https://github.com/Archosaurian-foodcache737/Spine-Pro
+discovered_at: '2026-07-07T19:00:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

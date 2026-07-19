@@ -1,13 +1,26 @@
 ---
-title: "fiorelorenzo/pitchbox"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Docker", "PostgreSQL", "pnpm", "React", "Chrome Extension API", "ACP-compatible agent CLIs (Claude Code, Codex, etc.)"]
+title: fiorelorenzo/pitchbox
+category: daily-digests/2026-07-16
+tech_stack:
+- TypeScript
+- Node.js
+- Docker
+- PostgreSQL
+- pnpm
+- React
+- Chrome Extension API
+- ACP-compatible agent CLIs (Claude Code, Codex, etc.)
 quality_score: 8
 rag_relevance: 6
-tags: ["outreach automation", "human-in-the-loop", "self-hosted", "AI agent", "communication tool"]
-source: "https://github.com/fiorelorenzo/pitchbox"
-discovered_at: "2026-07-13T13:22:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- outreach automation
+- human-in-the-loop
+- self-hosted
+- AI agent
+- communication tool
+source: https://github.com/fiorelorenzo/pitchbox
+discovered_at: '2026-07-13T13:22:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

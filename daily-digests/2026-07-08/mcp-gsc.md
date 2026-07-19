@@ -1,13 +1,24 @@
 ---
-title: "AKzar1el/mcp-gsc"
-category: "Tooling"
-tech_stack: ["TypeScript", "Cloudflare Workers", "Model Context Protocol (MCP)", "Google OAuth", "Google Search Console API", "Wrangler (Cloudflare CLI)"]
+title: AKzar1el/mcp-gsc
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Cloudflare Workers
+- Model Context Protocol (MCP)
+- Google OAuth
+- Google Search Console API
+- Wrangler (Cloudflare CLI)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Google Search Console", "SEO analytics", "Cloudflare Workers", "AI client integration"]
-source: "https://github.com/AKzar1el/mcp-gsc"
-discovered_at: "2026-07-08T21:02:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Google Search Console
+- SEO analytics
+- Cloudflare Workers
+- AI client integration
+source: https://github.com/AKzar1el/mcp-gsc
+discovered_at: '2026-07-08T21:02:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

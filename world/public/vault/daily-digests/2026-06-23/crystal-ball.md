@@ -1,13 +1,34 @@
 ---
-title: "bradleybond512/crystal-ball"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Tauri", "Cesium.js", "MapLibre", "React", "Node.js", "Web Workers", "IndexedDB", "Web Audio API", "Ollama", "LM Studio", "Groq", "STIX/TAXII", "OSRM", "GraphHopper", "Valhalla"]
+title: bradleybond512/crystal-ball
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Tauri
+- Cesium.js
+- MapLibre
+- React
+- Node.js
+- Web Workers
+- IndexedDB
+- Web Audio API
+- Ollama
+- LM Studio
+- Groq
+- STIX/TAXII
+- OSRM
+- GraphHopper
+- Valhalla
 quality_score: 9
 rag_relevance: 8
-tags: ["real-time intelligence", "geospatial analytics", "multi-domain correlation", "explainable AI", "MCP server"]
-source: "https://github.com/bradleybond512/crystal-ball"
-discovered_at: "2026-06-23T23:11:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- real-time intelligence
+- geospatial analytics
+- multi-domain correlation
+- explainable AI
+- MCP server
+source: https://github.com/bradleybond512/crystal-ball
+discovered_at: '2026-06-23T23:11:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

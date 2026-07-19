@@ -1,13 +1,22 @@
 ---
-title: "gsmMu7ammed/anythingllm-mcp"
-category: "Orchestrator"
-tech_stack: ["Python", "Windows", "MCP (Model Context Protocol)", "Web Server"]
+title: gsmMu7ammed/anythingllm-mcp
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Windows
+- MCP (Model Context Protocol)
+- Web Server
 quality_score: 6
 rag_relevance: 7
-tags: ["AI Workspace Management", "Local Server", "Document Handling", "Chat Interface", "MCP Server"]
-source: "https://github.com/gsmMu7ammed/anythingllm-mcp"
-discovered_at: "2026-06-23T23:10:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Workspace Management
+- Local Server
+- Document Handling
+- Chat Interface
+- MCP Server
+source: https://github.com/gsmMu7ammed/anythingllm-mcp
+discovered_at: '2026-06-23T23:10:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

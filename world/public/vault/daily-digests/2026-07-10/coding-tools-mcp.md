@@ -1,13 +1,26 @@
 ---
-title: "xyTom/coding-tools-mcp"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "FastAPI", "Landlock (Linux)", "Docker", "Cloudflare Tunnel", "Git", "Shell Execution"]
+title: xyTom/coding-tools-mcp
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- FastAPI
+- Landlock (Linux)
+- Docker
+- Cloudflare Tunnel
+- Git
+- Shell Execution
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "coding agent", "local primitives", "file operations", "git integration"]
-source: "https://github.com/xyTom/coding-tools-mcp"
-discovered_at: "2026-07-10T06:53:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- coding agent
+- local primitives
+- file operations
+- git integration
+source: https://github.com/xyTom/coding-tools-mcp
+discovered_at: '2026-07-10T06:53:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

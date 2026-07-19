@@ -1,13 +1,24 @@
 ---
-title: "vilosource/vfkb"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "JSONL", "Model Context Protocol (MCP)", "Zod", "Vitest"]
+title: vilosource/vfkb
+category: daily-digests/2026-07-12
+tech_stack:
+- TypeScript
+- Node.js
+- JSONL
+- Model Context Protocol (MCP)
+- Zod
+- Vitest
 quality_score: 9
 rag_relevance: 8
-tags: ["git-native memory", "decision tracking", "AI agent substrate", "deterministic knowledge", "project rationale"]
-source: "https://github.com/vilosource/vfkb"
-discovered_at: "2026-07-12T14:54:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- git-native memory
+- decision tracking
+- AI agent substrate
+- deterministic knowledge
+- project rationale
+source: https://github.com/vilosource/vfkb
+discovered_at: '2026-07-12T14:54:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

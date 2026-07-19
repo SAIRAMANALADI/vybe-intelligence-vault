@@ -1,13 +1,23 @@
 ---
-title: "professional-gasgun20/local-ai-private-2026"
-category: "Tooling"
-tech_stack: ["Python", "Whisper (speech-to-text)", "Open-WebUI", "Windows OS", "Local LLM inference"]
+title: professional-gasgun20/local-ai-private-2026
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Whisper (speech-to-text)
+- Open-WebUI
+- Windows OS
+- Local LLM inference
 quality_score: 7
 rag_relevance: 8
-tags: ["offline AI", "privacy-focused", "Windows local LLM", "model management", "self-hosted"]
-source: "https://github.com/professional-gasgun20/local-ai-private-2026"
-discovered_at: "2026-06-24T06:43:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- offline AI
+- privacy-focused
+- Windows local LLM
+- model management
+- self-hosted
+source: https://github.com/professional-gasgun20/local-ai-private-2026
+discovered_at: '2026-06-24T06:43:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

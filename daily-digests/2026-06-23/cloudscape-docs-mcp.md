@@ -1,13 +1,22 @@
 ---
-title: "prem676/cloudscape-docs-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Semantic Search", "AWS Cloudscape Design System"]
+title: prem676/cloudscape-docs-mcp
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Semantic Search
+- AWS Cloudscape Design System
 quality_score: 5
 rag_relevance: 7
-tags: ["semantic search", "documentation", "MCP server", "AI agents", "Cloudscape"]
-source: "https://github.com/prem676/cloudscape-docs-mcp"
-discovered_at: "2026-06-23T06:52:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- semantic search
+- documentation
+- MCP server
+- AI agents
+- Cloudscape
+source: https://github.com/prem676/cloudscape-docs-mcp
+discovered_at: '2026-06-23T06:52:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

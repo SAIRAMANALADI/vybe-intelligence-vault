@@ -1,13 +1,27 @@
 ---
-title: "useorgx/orgx-mcp"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Cloudflare Workers", "Next.js", "Model Context Protocol (MCP)", "OAuth 2.1", "Durable Objects", "Stripe", "Supabase", "pnpm"]
+title: useorgx/orgx-mcp
+category: daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Cloudflare Workers
+- Next.js
+- Model Context Protocol (MCP)
+- OAuth 2.1
+- Durable Objects
+- Stripe
+- Supabase
+- pnpm
 quality_score: 9
 rag_relevance: 10
-tags: ["organizational memory", "AI agent orchestration", "MCP server", "workflow automation", "decision tracking"]
-source: "https://github.com/useorgx/orgx-mcp"
-discovered_at: "2026-07-10T02:27:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- organizational memory
+- AI agent orchestration
+- MCP server
+- workflow automation
+- decision tracking
+source: https://github.com/useorgx/orgx-mcp
+discovered_at: '2026-07-10T02:27:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

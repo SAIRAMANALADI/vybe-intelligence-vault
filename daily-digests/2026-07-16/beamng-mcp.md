@@ -1,13 +1,24 @@
 ---
-title: "IaroslavSheipak/beamng-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "BeamNG.drive (Steam)", "UDP/TCP networking", "Telemetry analysis", "Lua scripting"]
+title: IaroslavSheipak/beamng-mcp
+category: daily-digests/2026-07-16
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- BeamNG.drive (Steam)
+- UDP/TCP networking
+- Telemetry analysis
+- Lua scripting
 quality_score: 9
 rag_relevance: 7
-tags: ["race engineering", "telemetry analysis", "automated tuning", "MCP server", "BeamNG.drive"]
-source: "https://github.com/IaroslavSheipak/beamng-mcp"
-discovered_at: "2026-07-12T14:54:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- race engineering
+- telemetry analysis
+- automated tuning
+- MCP server
+- BeamNG.drive
+source: https://github.com/IaroslavSheipak/beamng-mcp
+discovered_at: '2026-07-12T14:54:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

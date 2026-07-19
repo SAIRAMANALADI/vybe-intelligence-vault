@@ -1,13 +1,27 @@
 ---
-title: "Tzamun-Arabia-IT-Co/auxly-memory-cli"
-category: "Orchestrator"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "Markdown", "SQLite", "Embeddings (local/remote)", "SSH", "Git", "TUI (Terminal User Interface)", "CLI"]
+title: Tzamun-Arabia-IT-Co/auxly-memory-cli
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- Markdown
+- SQLite
+- Embeddings (local/remote)
+- SSH
+- Git
+- TUI (Terminal User Interface)
+- CLI
 quality_score: 9
 rag_relevance: 10
-tags: ["memory layer", "local-first", "MCP server", "audit trail", "cross-agent context"]
-source: "https://github.com/Tzamun-Arabia-IT-Co/auxly-memory-cli"
-discovered_at: "2026-07-07T23:55:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory layer
+- local-first
+- MCP server
+- audit trail
+- cross-agent context
+source: https://github.com/Tzamun-Arabia-IT-Co/auxly-memory-cli
+discovered_at: '2026-07-07T23:55:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

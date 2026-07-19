@@ -1,13 +1,21 @@
 ---
-title: "pipeworx-io/mcp-opensensemap"
-category: "Tooling"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "HTTP/REST APIs"]
+title: pipeworx-io/mcp-opensensemap
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- HTTP/REST APIs
 quality_score: 6
 rag_relevance: 7
-tags: ["MCP", "sensor data", "environmental monitoring", "citizen science", "API gateway"]
-source: "https://github.com/pipeworx-io/mcp-opensensemap"
-discovered_at: "2026-07-16T18:05:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- sensor data
+- environmental monitoring
+- citizen science
+- API gateway
+source: https://github.com/pipeworx-io/mcp-opensensemap
+discovered_at: '2026-07-16T18:05:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

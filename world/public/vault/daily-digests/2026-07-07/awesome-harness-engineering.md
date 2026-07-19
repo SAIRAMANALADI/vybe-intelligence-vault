@@ -1,13 +1,22 @@
 ---
-title: "fastbeast2023-netizen/awesome-harness-engineering"
-category: "Tooling"
-tech_stack: ["Windows Desktop App", "Python (implied)", "Markdown (for guides)", "ZIP/EXE/MSI (installation formats)"]
+title: fastbeast2023-netizen/awesome-harness-engineering
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Windows Desktop App
+- Python (implied)
+- Markdown (for guides)
+- ZIP/EXE/MSI (installation formats)
 quality_score: 5
 rag_relevance: 3
-tags: ["harness engineering", "workflow management", "desktop tool", "task organization", "repeatable processes"]
-source: "https://github.com/fastbeast2023-netizen/awesome-harness-engineering"
-discovered_at: "2026-07-07T20:50:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- harness engineering
+- workflow management
+- desktop tool
+- task organization
+- repeatable processes
+source: https://github.com/fastbeast2023-netizen/awesome-harness-engineering
+discovered_at: '2026-07-07T20:50:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

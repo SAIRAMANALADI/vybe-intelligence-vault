@@ -1,13 +1,25 @@
 ---
-title: "webrenew/unicon"
-category: "Tooling"
-tech_stack: ["React", "TypeScript", "Node.js", "CLI", "MCP Server", "Webpack", "Vercel"]
+title: webrenew/unicon
+category: daily-digests/2026-07-18
+tech_stack:
+- React
+- TypeScript
+- Node.js
+- CLI
+- MCP Server
+- Webpack
+- Vercel
 quality_score: 9
 rag_relevance: 7
-tags: ["icon library", "CLI tool", "AI integration", "bundle management", "multi-format export"]
-source: "https://github.com/webrenew/unicon"
-discovered_at: "2026-07-17T14:43:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- icon library
+- CLI tool
+- AI integration
+- bundle management
+- multi-format export
+source: https://github.com/webrenew/unicon
+discovered_at: '2026-07-17T14:43:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

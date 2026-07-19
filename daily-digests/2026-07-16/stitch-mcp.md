@@ -1,13 +1,23 @@
 ---
-title: "uehlingeric/stitch-mcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Google Stitch API", "Google Cloud SDK", "uv (Python package manager)"]
+title: uehlingeric/stitch-mcp
+category: daily-digests/2026-07-16
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Google Stitch API
+- Google Cloud SDK
+- uv (Python package manager)
 quality_score: 9
 rag_relevance: 7
-tags: ["UI generation", "design systems", "MCP proxy", "Claude Code integration", "Google Stitch"]
-source: "https://github.com/uehlingeric/stitch-mcp"
-discovered_at: "2026-07-12T02:32:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- UI generation
+- design systems
+- MCP proxy
+- Claude Code integration
+- Google Stitch
+source: https://github.com/uehlingeric/stitch-mcp
+discovered_at: '2026-07-12T02:32:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

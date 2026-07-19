@@ -1,13 +1,23 @@
 ---
-title: "mtnclk/awesome-top-skills"
-category: "Tooling"
-tech_stack: ["Python", "Data Curation", "Tagging Systems", "Auto-Updating Mechanisms", "Cross-Platform Deployment"]
+title: mtnclk/awesome-top-skills
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Data Curation
+- Tagging Systems
+- Auto-Updating Mechanisms
+- Cross-Platform Deployment
 quality_score: 5
 rag_relevance: 7
-tags: ["AI skills", "curated dataset", "auto-updating", "precision tagging", "AI agent enhancement"]
-source: "https://github.com/mtnclk/awesome-top-skills"
-discovered_at: "2026-06-24T16:23:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI skills
+- curated dataset
+- auto-updating
+- precision tagging
+- AI agent enhancement
+source: https://github.com/mtnclk/awesome-top-skills
+discovered_at: '2026-06-24T16:23:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

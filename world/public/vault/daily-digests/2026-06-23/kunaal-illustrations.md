@@ -1,13 +1,24 @@
 ---
-title: "Yuvakunaal/kunaal-illustrations"
-category: "Tooling"
-tech_stack: ["YAML", "Markdown", "Python (for agent integration)", "AI Image Generation (Gemini, Antigravity)", "MIT License", "CC BY 4.0 (for assets)"]
+title: Yuvakunaal/kunaal-illustrations
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- YAML
+- Markdown
+- Python (for agent integration)
+- AI Image Generation (Gemini, Antigravity)
+- MIT License
+- CC BY 4.0 (for assets)
 quality_score: 8
 rag_relevance: 7
-tags: ["AI agent skill", "in-text illustrations", "hand-drawn style", "cognitive visualization", "content generation"]
-source: "https://github.com/Yuvakunaal/kunaal-illustrations"
-discovered_at: "2026-06-23T21:32:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent skill
+- in-text illustrations
+- hand-drawn style
+- cognitive visualization
+- content generation
+source: https://github.com/Yuvakunaal/kunaal-illustrations
+discovered_at: '2026-06-23T21:32:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

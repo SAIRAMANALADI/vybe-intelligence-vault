@@ -1,13 +1,22 @@
 ---
-title: "zylos-ai/zylos-telegram"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "Telegram Bot API", "Zylos Core"]
+title: zylos-ai/zylos-telegram
+category: daily-digests/2026-06-25
+tech_stack:
+- JavaScript
+- Node.js
+- Telegram Bot API
+- Zylos Core
 quality_score: 8
 rag_relevance: 7
-tags: ["Telegram integration", "AI agents", "messaging", "zero-config", "group monitoring"]
-source: "https://github.com/zylos-ai/zylos-telegram"
-discovered_at: "2026-06-25T11:38:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Telegram integration
+- AI agents
+- messaging
+- zero-config
+- group monitoring
+source: https://github.com/zylos-ai/zylos-telegram
+discovered_at: '2026-06-25T11:38:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

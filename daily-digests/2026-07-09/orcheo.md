@@ -1,13 +1,27 @@
 ---
-title: "AI-Colleagues/orcheo"
-category: "Orchestrator"
-tech_stack: ["Python", "LangGraph", "Docker", "PostgreSQL", "FastAPI", "React", "TypeScript", "CLI", "SDK"]
+title: AI-Colleagues/orcheo
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- LangGraph
+- Docker
+- PostgreSQL
+- FastAPI
+- React
+- TypeScript
+- CLI
+- SDK
 quality_score: 9
 rag_relevance: 8
-tags: ["workflow orchestration", "vibe coding", "AI agents", "automation", "deployment"]
-source: "https://github.com/AI-Colleagues/orcheo"
-discovered_at: "2026-07-09T08:24:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- workflow orchestration
+- vibe coding
+- AI agents
+- automation
+- deployment
+source: https://github.com/AI-Colleagues/orcheo
+discovered_at: '2026-07-09T08:24:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

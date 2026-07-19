@@ -1,13 +1,27 @@
 ---
-title: "jmrplens/gitlab-mcp-server"
-category: "Agent Framework"
-tech_stack: ["Go", "Docker", "GitLab API", "Model Context Protocol (MCP)", "REST", "GraphQL", "Claude", "VS Code", "Cursor"]
+title: jmrplens/gitlab-mcp-server
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Go
+- Docker
+- GitLab API
+- Model Context Protocol (MCP)
+- REST
+- GraphQL
+- Claude
+- VS Code
+- Cursor
 quality_score: 9
 rag_relevance: 8
-tags: ["GitLab", "MCP Server", "AI Assistant Integration", "DevOps Automation", "CI/CD Management"]
-source: "https://github.com/jmrplens/gitlab-mcp-server"
-discovered_at: "2026-07-06T23:03:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- GitLab
+- MCP Server
+- AI Assistant Integration
+- DevOps Automation
+- CI/CD Management
+source: https://github.com/jmrplens/gitlab-mcp-server
+discovered_at: '2026-07-06T23:03:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

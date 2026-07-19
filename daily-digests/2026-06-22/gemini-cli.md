@@ -1,13 +1,25 @@
 ---
-title: "google-gemini/gemini-cli"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Gemini API", "MCP (Model Context Protocol)", "OAuth", "React", "GitHub Actions"]
+title: google-gemini/gemini-cli
+category: daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Node.js
+- Gemini API
+- MCP (Model Context Protocol)
+- OAuth
+- React
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["terminal AI", "Gemini integration", "code agent", "automation", "MCP support"]
-source: "https://github.com/google-gemini/gemini-cli"
-discovered_at: "2026-06-22T18:13:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- terminal AI
+- Gemini integration
+- code agent
+- automation
+- MCP support
+source: https://github.com/google-gemini/gemini-cli
+discovered_at: '2026-06-22T18:13:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

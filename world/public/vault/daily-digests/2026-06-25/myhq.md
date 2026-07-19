@@ -1,13 +1,25 @@
 ---
-title: "gyorgysh/myhq"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Telegram Bot API", "Claude Code", "React (for Panel dashboard)", "SQLite (for memory/storage)", "Bash (for system operations)"]
+title: gyorgysh/myhq
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- Telegram Bot API
+- Claude Code
+- React (for Panel dashboard)
+- SQLite (for memory/storage)
+- Bash (for system operations)
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous agents", "self-hosted", "Telegram integration", "multi-agent orchestration", "live streaming"]
-source: "https://github.com/gyorgysh/myhq"
-discovered_at: "2026-06-25T11:36:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- self-hosted
+- Telegram integration
+- multi-agent orchestration
+- live streaming
+source: https://github.com/gyorgysh/myhq
+discovered_at: '2026-06-25T11:36:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

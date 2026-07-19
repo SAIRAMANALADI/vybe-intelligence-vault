@@ -1,13 +1,23 @@
 ---
-title: "ltrm5718/logoloom"
-category: "Tooling"
-tech_stack: ["JavaScript", "SVG", "Windows Desktop App", "MCP (Model Context Protocol)", "OpenType"]
+title: ltrm5718/logoloom
+category: daily-digests/2026-07-07
+tech_stack:
+- JavaScript
+- SVG
+- Windows Desktop App
+- MCP (Model Context Protocol)
+- OpenType
 quality_score: 7
 rag_relevance: 6
-tags: ["logo generation", "brand kit", "SVG export", "local workflow", "MCP integration"]
-source: "https://github.com/ltrm5718/logoloom"
-discovered_at: "2026-07-07T23:55:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- logo generation
+- brand kit
+- SVG export
+- local workflow
+- MCP integration
+source: https://github.com/ltrm5718/logoloom
+discovered_at: '2026-07-07T23:55:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,29 @@
 ---
-title: "zeni-on/vulcan-anvil-ex"
-category: "Orchestrator"
-tech_stack: ["Python", "LLM Orchestration", "Documentation Markdown", "JSON/JSONL", "CLI", "Dashboard (React/Next.js)", "Git", "Antigravity/Agy", "Codex", "Claude", "Gemini"]
+title: zeni-on/vulcan-anvil-ex
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- LLM Orchestration
+- Documentation Markdown
+- JSON/JSONL
+- CLI
+- Dashboard (React/Next.js)
+- Git
+- Antigravity/Agy
+- Codex
+- Claude
+- Gemini
 quality_score: 8
 rag_relevance: 9
-tags: ["AI governance", "requirements traceability", "LLM orchestration", "audit framework", "documentation automation"]
-source: "https://github.com/zeni-on/vulcan-anvil-ex"
-discovered_at: "2026-06-24T02:46:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI governance
+- requirements traceability
+- LLM orchestration
+- audit framework
+- documentation automation
+source: https://github.com/zeni-on/vulcan-anvil-ex
+discovered_at: '2026-06-24T02:46:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

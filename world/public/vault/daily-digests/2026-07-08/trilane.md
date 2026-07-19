@@ -1,13 +1,25 @@
 ---
-title: "xyun92/trilane"
-category: "Tooling"
-tech_stack: ["Rust", "Tauri", "TypeScript", "Node.js", "React", "npm", "Cargo"]
+title: xyun92/trilane
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Rust
+- Tauri
+- TypeScript
+- Node.js
+- React
+- npm
+- Cargo
 quality_score: 8
 rag_relevance: 6
-tags: ["security auditing", "autonomous pentesting", "multi-agent framework", "attack-surface mapping", "evidence-backed findings"]
-source: "https://github.com/xyun92/trilane"
-discovered_at: "2026-07-08T02:06:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- security auditing
+- autonomous pentesting
+- multi-agent framework
+- attack-surface mapping
+- evidence-backed findings
+source: https://github.com/xyun92/trilane
+discovered_at: '2026-07-08T02:06:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

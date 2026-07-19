@@ -1,13 +1,30 @@
 ---
-title: "jack12w/agent-skill-platform"
-category: "Agent Framework"
-tech_stack: ["Next.js 14", "TypeScript", "Tailwind CSS", "NestJS", "TypeORM", "PostgreSQL 18", "Docker", "Docker Compose", "JWT", "\u963f\u91cc\u4e91 OSS", "\u5fae\u4fe1\u767b\u5f55", "\u90ae\u7bb1\u9a8c\u8bc1\u7801"]
+title: jack12w/agent-skill-platform
+category: daily-digests/2026-07-10
+tech_stack:
+- Next.js 14
+- TypeScript
+- Tailwind CSS
+- NestJS
+- TypeORM
+- PostgreSQL 18
+- Docker
+- Docker Compose
+- JWT
+- 阿里云 OSS
+- 微信登录
+- 邮箱验证码
 quality_score: 9
 rag_relevance: 7
-tags: ["AI Agent Skills", "Cross-border E-commerce", "Marketplace", "Automation", "Workflow Integration"]
-source: "https://github.com/jack12w/agent-skill-platform"
-discovered_at: "2026-07-10T06:30:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent Skills
+- Cross-border E-commerce
+- Marketplace
+- Automation
+- Workflow Integration
+source: https://github.com/jack12w/agent-skill-platform
+discovered_at: '2026-07-10T06:30:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

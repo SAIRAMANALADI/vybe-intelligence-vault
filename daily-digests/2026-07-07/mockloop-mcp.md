@@ -1,13 +1,25 @@
 ---
-title: "MockLoop/mockloop-mcp"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Model Context Protocol (MCP)", "Docker", "PyPI", "AI Prompt Engineering", "Stateful Context Management"]
+title: MockLoop/mockloop-mcp
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- FastAPI
+- Model Context Protocol (MCP)
+- Docker
+- PyPI
+- AI Prompt Engineering
+- Stateful Context Management
 quality_score: 9
 rag_relevance: 8
-tags: ["API Testing", "AI-Native Testing", "Model Context Protocol", "Automated Testing", "Load Testing"]
-source: "https://github.com/MockLoop/mockloop-mcp"
-discovered_at: "2026-07-07T02:33:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- API Testing
+- AI-Native Testing
+- Model Context Protocol
+- Automated Testing
+- Load Testing
+source: https://github.com/MockLoop/mockloop-mcp
+discovered_at: '2026-07-07T02:33:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

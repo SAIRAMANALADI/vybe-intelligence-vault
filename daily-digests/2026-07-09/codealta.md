@@ -1,13 +1,23 @@
 ---
-title: "CodeAlta/CodeAlta"
-category: "Agent Framework"
-tech_stack: ["C#", ".NET 10", "Terminal UI (TUI)", "NuGet", "GitHub Actions"]
+title: CodeAlta/CodeAlta
+category: daily-digests/2026-07-09
+tech_stack:
+- C#
+- .NET 10
+- Terminal UI (TUI)
+- NuGet
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["agentic coding", "terminal workspace", "AI development", "model integration", "local plugins"]
-source: "https://github.com/CodeAlta/CodeAlta"
-discovered_at: "2026-07-09T19:29:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agentic coding
+- terminal workspace
+- AI development
+- model integration
+- local plugins
+source: https://github.com/CodeAlta/CodeAlta
+discovered_at: '2026-07-09T19:29:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

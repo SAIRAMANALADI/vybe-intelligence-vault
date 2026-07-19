@@ -1,13 +1,26 @@
 ---
-title: "hencter/Nova"
-category: "Orchestrator"
-tech_stack: ["Obsidian", "OpenCode / Crush", "Git", "Markdown", "Zettelkasten", "OKF v0.1", "JavaScript/Node.js", "Multi-agent Systems"]
+title: hencter/Nova
+category: daily-digests/2026-07-19
+tech_stack:
+- Obsidian
+- OpenCode / Crush
+- Git
+- Markdown
+- Zettelkasten
+- OKF v0.1
+- JavaScript/Node.js
+- Multi-agent Systems
 quality_score: 8
 rag_relevance: 9
-tags: ["knowledge management", "self-bootstrapping", "AI agents", "personal vault", "automated maintenance"]
-source: "https://github.com/hencter/Nova"
-discovered_at: "2026-07-13T02:34:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- knowledge management
+- self-bootstrapping
+- AI agents
+- personal vault
+- automated maintenance
+source: https://github.com/hencter/Nova
+discovered_at: '2026-07-13T02:34:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

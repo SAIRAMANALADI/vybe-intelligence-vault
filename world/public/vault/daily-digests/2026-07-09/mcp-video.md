@@ -1,13 +1,27 @@
 ---
-title: "KyaniteLabs/mcp-video"
-category: "Tooling"
-tech_stack: ["Python", "FFmpeg", "Model Context Protocol (MCP)", "Whisper (for subtitles)", "Torch (for AI features)", "NumPy", "Hyperframes", "CLI", "JSON/YAML (for workflow specs)"]
+title: KyaniteLabs/mcp-video
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- FFmpeg
+- Model Context Protocol (MCP)
+- Whisper (for subtitles)
+- Torch (for AI features)
+- NumPy
+- Hyperframes
+- CLI
+- JSON/YAML (for workflow specs)
 quality_score: 9
 rag_relevance: 8
-tags: ["video editing", "AI agent tools", "FFmpeg wrapper", "structured MCP tools", "media automation"]
-source: "https://github.com/KyaniteLabs/mcp-video"
-discovered_at: "2026-07-09T17:18:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- video editing
+- AI agent tools
+- FFmpeg wrapper
+- structured MCP tools
+- media automation
+source: https://github.com/KyaniteLabs/mcp-video
+discovered_at: '2026-07-09T17:18:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "sackio/aloha"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "React", "Docker", "Home Assistant", "Model Context Protocol (MCP)", "YAML"]
+title: sackio/aloha
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- FastAPI
+- React
+- Docker
+- Home Assistant
+- Model Context Protocol (MCP)
+- YAML
 quality_score: 9
 rag_relevance: 7
-tags: ["Home Automation", "AI Agent", "MCP Server", "Smart Home", "YAML Configuration"]
-source: "https://github.com/sackio/aloha"
-discovered_at: "2026-07-06T19:48:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Home Automation
+- AI Agent
+- MCP Server
+- Smart Home
+- YAML Configuration
+source: https://github.com/sackio/aloha
+discovered_at: '2026-07-06T19:48:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

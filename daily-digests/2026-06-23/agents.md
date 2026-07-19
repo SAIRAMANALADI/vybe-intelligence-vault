@@ -1,13 +1,25 @@
 ---
-title: "inkeep/agents"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "React", "Vercel AI SDK", "MCP (Model Context Protocol)", "REST APIs", "Docker", "OpenTelemetry"]
+title: inkeep/agents
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- React
+- Vercel AI SDK
+- MCP (Model Context Protocol)
+- REST APIs
+- Docker
+- OpenTelemetry
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent systems", "no-code development", "AI workflow automation", "TypeScript SDK", "visual builder"]
-source: "https://github.com/inkeep/agents"
-discovered_at: "2026-06-23T21:31:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- no-code development
+- AI workflow automation
+- TypeScript SDK
+- visual builder
+source: https://github.com/inkeep/agents
+discovered_at: '2026-06-23T21:31:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

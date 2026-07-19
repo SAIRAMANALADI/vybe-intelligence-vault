@@ -1,13 +1,24 @@
 ---
-title: "invertible-statue269/colign"
-category: "Tooling"
-tech_stack: ["TypeScript", "Go", "gRPC", "Next.js", "MCP Server", "Windows Desktop App"]
+title: invertible-statue269/colign
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Go
+- gRPC
+- Next.js
+- MCP Server
+- Windows Desktop App
 quality_score: 7
 rag_relevance: 6
-tags: ["spec-driven development", "AI collaboration", "product requirements", "team alignment", "Windows productivity"]
-source: "https://github.com/invertible-statue269/colign"
-discovered_at: "2026-07-08T22:14:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- spec-driven development
+- AI collaboration
+- product requirements
+- team alignment
+- Windows productivity
+source: https://github.com/invertible-statue269/colign
+discovered_at: '2026-07-08T22:14:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

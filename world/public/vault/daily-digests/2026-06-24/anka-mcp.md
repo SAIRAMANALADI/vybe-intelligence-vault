@@ -1,13 +1,25 @@
 ---
-title: "veertuinc/anka-mcp"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "HTTP Server", "SQLite", "REST API", "Anka macOS Virtualization"]
+title: veertuinc/anka-mcp
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- HTTP Server
+- SQLite
+- REST API
+- Anka macOS Virtualization
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "macOS virtualization", "Anka Build Cloud", "AI agent orchestration", "VM lifecycle management"]
-source: "https://github.com/veertuinc/anka-mcp"
-discovered_at: "2026-06-24T22:14:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- macOS virtualization
+- Anka Build Cloud
+- AI agent orchestration
+- VM lifecycle management
+source: https://github.com/veertuinc/anka-mcp
+discovered_at: '2026-06-24T22:14:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

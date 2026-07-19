@@ -1,13 +1,26 @@
 ---
-title: "2233admin/obsidian-llm-wiki"
-category: "Orchestrator"
-tech_stack: ["Obsidian", "Model Context Protocol (MCP)", "Python", "JavaScript/TypeScript", "Git/Gitea", "Markdown", "Node.js", "CLI Tools"]
+title: 2233admin/obsidian-llm-wiki
+category: daily-digests/2026-06-23
+tech_stack:
+- Obsidian
+- Model Context Protocol (MCP)
+- Python
+- JavaScript/TypeScript
+- Git/Gitea
+- Markdown
+- Node.js
+- CLI Tools
 quality_score: 9
 rag_relevance: 8
-tags: ["knowledge management", "obsidian plugin", "MCP integration", "team wiki", "research compiler"]
-source: "https://github.com/2233admin/obsidian-llm-wiki"
-discovered_at: "2026-06-23T16:25:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- knowledge management
+- obsidian plugin
+- MCP integration
+- team wiki
+- research compiler
+source: https://github.com/2233admin/obsidian-llm-wiki
+discovered_at: '2026-06-23T16:25:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

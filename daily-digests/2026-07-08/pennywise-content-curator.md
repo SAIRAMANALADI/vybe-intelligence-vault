@@ -1,13 +1,27 @@
 ---
-title: "Suryadimerantikab/Pennywise-Content-Curator"
-category: "Agent Framework"
-tech_stack: ["Python", "Node.js", "OpenAI API", "Claude API", "React", "Tailwind CSS", "Telegram Bot API", "Mermaid.js", "YAML"]
+title: Suryadimerantikab/Pennywise-Content-Curator
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- Node.js
+- OpenAI API
+- Claude API
+- React
+- Tailwind CSS
+- Telegram Bot API
+- Mermaid.js
+- YAML
 quality_score: 8
 rag_relevance: 7
-tags: ["AI tutor", "personalized learning", "productivity tool", "self-hosted", "multi-platform"]
-source: "https://github.com/Suryadimerantikab/Pennywise-Content-Curator"
-discovered_at: "2026-07-08T12:24:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI tutor
+- personalized learning
+- productivity tool
+- self-hosted
+- multi-platform
+source: https://github.com/Suryadimerantikab/Pennywise-Content-Curator
+discovered_at: '2026-07-08T12:24:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "ahmed19maher9/sonny-website"
-category: "UI Component"
-tech_stack: ["HTML", "CSS", "JavaScript", "AI Assistant"]
+title: ahmed19maher9/sonny-website
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- HTML
+- CSS
+- JavaScript
+- AI Assistant
 quality_score: 4
 rag_relevance: 5
-tags: ["AI assistant", "personal assistant", "frontend", "chat interface", "AI UI"]
-source: "https://github.com/ahmed19maher9/sonny-website"
-discovered_at: "2026-06-24T22:12:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI assistant
+- personal assistant
+- frontend
+- chat interface
+- AI UI
+source: https://github.com/ahmed19maher9/sonny-website
+discovered_at: '2026-06-24T22:12:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

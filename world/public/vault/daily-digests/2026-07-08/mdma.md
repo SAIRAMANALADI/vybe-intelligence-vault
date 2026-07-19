@@ -1,13 +1,26 @@
 ---
-title: "MobileReality/mdma"
-category: "UI Component"
-tech_stack: ["JavaScript", "TypeScript", "React", "Markdown", "Node.js", "NPM", "CLI", "LLM Prompt Engineering"]
+title: MobileReality/mdma
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- TypeScript
+- React
+- Markdown
+- Node.js
+- NPM
+- CLI
+- LLM Prompt Engineering
 quality_score: 9
 rag_relevance: 8
-tags: ["interactive markdown", "AI-generated UIs", "structured documents", "LLM integration", "react components"]
-source: "https://github.com/MobileReality/mdma"
-discovered_at: "2026-07-08T12:25:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- interactive markdown
+- AI-generated UIs
+- structured documents
+- LLM integration
+- react components
+source: https://github.com/MobileReality/mdma
+discovered_at: '2026-07-08T12:25:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

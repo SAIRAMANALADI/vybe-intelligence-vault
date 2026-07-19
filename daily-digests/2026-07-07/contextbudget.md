@@ -1,13 +1,29 @@
 ---
-title: "natiixnt/ContextBudget"
-category: "Tooling"
-tech_stack: ["Python", "TypeScript", "JavaScript", "Go", "Rust", "CLI", "VS Code Extension", "MCP (Model Context Protocol)", "SQLite", "Redis", "Git"]
+title: natiixnt/ContextBudget
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- TypeScript
+- JavaScript
+- Go
+- Rust
+- CLI
+- VS Code Extension
+- MCP (Model Context Protocol)
+- SQLite
+- Redis
+- Git
 quality_score: 9
 rag_relevance: 10
-tags: ["context budgeting", "token optimization", "AI coding agents", "deterministic compression", "MCP integration"]
-source: "https://github.com/natiixnt/ContextBudget"
-discovered_at: "2026-07-07T18:58:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- context budgeting
+- token optimization
+- AI coding agents
+- deterministic compression
+- MCP integration
+source: https://github.com/natiixnt/ContextBudget
+discovered_at: '2026-07-07T18:58:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

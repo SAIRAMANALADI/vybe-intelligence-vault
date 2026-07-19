@@ -1,13 +1,26 @@
 ---
-title: "lannyfervent952/fastapi-agent-blueprint"
-category: "Agent Framework"
-tech_stack: ["FastAPI", "Python", "PostgreSQL", "pgvector", "SQLAlchemy", "Pydantic", "Domain-Driven Design (DDD)", "Dependency Injection"]
+title: lannyfervent952/fastapi-agent-blueprint
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- FastAPI
+- Python
+- PostgreSQL
+- pgvector
+- SQLAlchemy
+- Pydantic
+- Domain-Driven Design (DDD)
+- Dependency Injection
 quality_score: 7
 rag_relevance: 9
-tags: ["AI agent backend", "FastAPI template", "vector search", "PostgreSQL", "DDD"]
-source: "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-discovered_at: "2026-07-07T20:51:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent backend
+- FastAPI template
+- vector search
+- PostgreSQL
+- DDD
+source: https://github.com/lannyfervent952/fastapi-agent-blueprint
+discovered_at: '2026-07-07T20:51:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

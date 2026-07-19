@@ -1,13 +1,23 @@
 ---
-title: "NachaFromMars/reminder"
-category: "Tooling"
-tech_stack: ["Python", "OpenClaw", "Telegram Bot API", "YAML", "Git"]
+title: NachaFromMars/reminder
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- OpenClaw
+- Telegram Bot API
+- YAML
+- Git
 quality_score: 7
 rag_relevance: 6
-tags: ["reminder", "natural language processing", "Telegram bot", "OpenClaw skill", "personal productivity"]
-source: "https://github.com/NachaFromMars/reminder"
-discovered_at: "2026-06-23T06:47:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- reminder
+- natural language processing
+- Telegram bot
+- OpenClaw skill
+- personal productivity
+source: https://github.com/NachaFromMars/reminder
+discovered_at: '2026-06-23T06:47:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

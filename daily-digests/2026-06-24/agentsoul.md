@@ -1,13 +1,23 @@
 ---
-title: "NeoMei/agentsoul"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "SQLite", "CLI", "OpenCode Plugin System"]
+title: NeoMei/agentsoul
+category: daily-digests/2026-06-24
+tech_stack:
+- JavaScript
+- Node.js
+- SQLite
+- CLI
+- OpenCode Plugin System
 quality_score: 8
 rag_relevance: 7
-tags: ["personality injection", "long-term memory", "OpenCode plugin", "AI agent enhancement", "context persistence"]
-source: "https://github.com/NeoMei/agentsoul"
-discovered_at: "2026-06-24T13:19:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personality injection
+- long-term memory
+- OpenCode plugin
+- AI agent enhancement
+- context persistence
+source: https://github.com/NeoMei/agentsoul
+discovered_at: '2026-06-24T13:19:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

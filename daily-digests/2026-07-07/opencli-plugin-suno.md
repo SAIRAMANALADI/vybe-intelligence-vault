@@ -1,13 +1,23 @@
 ---
-title: "ma367175/opencli-plugin-suno"
-category: "Tooling"
-tech_stack: ["OpenCLI", "Suno AI", "Windows", "Python (implied)", "Command Line Interface"]
+title: ma367175/opencli-plugin-suno
+category: daily-digests/2026-07-07
+tech_stack:
+- OpenCLI
+- Suno AI
+- Windows
+- Python (implied)
+- Command Line Interface
 quality_score: 5
 rag_relevance: 4
-tags: ["AI music generation", "OpenCLI plugin", "Suno AI", "command-line tool", "Windows"]
-source: "https://github.com/ma367175/opencli-plugin-suno"
-discovered_at: "2026-07-07T20:51:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI music generation
+- OpenCLI plugin
+- Suno AI
+- command-line tool
+- Windows
+source: https://github.com/ma367175/opencli-plugin-suno
+discovered_at: '2026-07-07T20:51:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "MauManto/jenkins-mcp-server"
-category: "Tooling"
-tech_stack: ["Python", "Jenkins API", "MCP Server", "JSON Configuration"]
+title: MauManto/jenkins-mcp-server
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Jenkins API
+- MCP Server
+- JSON Configuration
 quality_score: 5
 rag_relevance: 6
-tags: ["Jenkins", "CI/CD", "Log Analysis", "MCP Server", "DevOps"]
-source: "https://github.com/MauManto/jenkins-mcp-server"
-discovered_at: "2026-06-24T10:26:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Jenkins
+- CI/CD
+- Log Analysis
+- MCP Server
+- DevOps
+source: https://github.com/MauManto/jenkins-mcp-server
+discovered_at: '2026-06-24T10:26:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

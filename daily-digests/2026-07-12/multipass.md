@@ -1,13 +1,33 @@
 ---
-title: "tinosingh/multipass"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Uvicorn", "Docker", "Prometheus", "Celery", "Redis", "OpenAPI", "WebSockets", "PyTorch", "TensorFlow", "Transformers", "OpenCV", "Pandas", "NumPy"]
+title: tinosingh/multipass
+category: daily-digests/2026-07-12
+tech_stack:
+- Python
+- FastAPI
+- Uvicorn
+- Docker
+- Prometheus
+- Celery
+- Redis
+- OpenAPI
+- WebSockets
+- PyTorch
+- TensorFlow
+- Transformers
+- OpenCV
+- Pandas
+- NumPy
 quality_score: 9
 rag_relevance: 8
-tags: ["API wrapper", "Python libraries", "microservices", "automation", "production deployment"]
-source: "https://github.com/tinosingh/multipass"
-discovered_at: "2026-07-11T13:14:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- API wrapper
+- Python libraries
+- microservices
+- automation
+- production deployment
+source: https://github.com/tinosingh/multipass
+discovered_at: '2026-07-11T13:14:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,32 @@
 ---
-title: "godhuu0505/sanba"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Next.js", "Gemini Live API", "LiveKit Agents", "Google ADK", "Gemini Vision", "Cloud Run", "Firestore", "Elasticsearch", "Terraform", "OpenTelemetry", "GitHub Actions", "Google OIDC"]
+title: godhuu0505/sanba
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- FastAPI
+- Next.js
+- Gemini Live API
+- LiveKit Agents
+- Google ADK
+- Gemini Vision
+- Cloud Run
+- Firestore
+- Elasticsearch
+- Terraform
+- OpenTelemetry
+- GitHub Actions
+- Google OIDC
 quality_score: 9
 rag_relevance: 7
-tags: ["requirements elicitation", "multi-agent collaboration", "speech-to-speech AI", "DevOps integration", "real-time feedback"]
-source: "https://github.com/godhuu0505/sanba"
-discovered_at: "2026-07-07T13:15:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- requirements elicitation
+- multi-agent collaboration
+- speech-to-speech AI
+- DevOps integration
+- real-time feedback
+source: https://github.com/godhuu0505/sanba
+discovered_at: '2026-07-07T13:15:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

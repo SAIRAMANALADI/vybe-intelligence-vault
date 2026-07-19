@@ -1,13 +1,25 @@
 ---
-title: "gaia-research/gaia-skill-tree"
-category: "Tooling"
-tech_stack: ["Python", "CLI", "MCP (Model Context Protocol)", "GitHub Actions", "JSON API", "Static Site Generation", "Bash"]
+title: gaia-research/gaia-skill-tree
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- CLI
+- MCP (Model Context Protocol)
+- GitHub Actions
+- JSON API
+- Static Site Generation
+- Bash
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent skills", "skill registry", "evidence-based verification", "capability graph", "trust ledger"]
-source: "https://github.com/gaia-research/gaia-skill-tree"
-discovered_at: "2026-07-07T23:55:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent skills
+- skill registry
+- evidence-based verification
+- capability graph
+- trust ledger
+source: https://github.com/gaia-research/gaia-skill-tree
+discovered_at: '2026-07-07T23:55:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

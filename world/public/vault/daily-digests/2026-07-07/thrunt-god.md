@@ -1,13 +1,22 @@
 ---
-title: "3dcom2711/thrunt-god"
-category: "Tooling"
-tech_stack: ["JavaScript", "Windows", "VSCode Webview", "Agentic IDEs"]
+title: 3dcom2711/thrunt-god
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- JavaScript
+- Windows
+- VSCode Webview
+- Agentic IDEs
 quality_score: 6
 rag_relevance: 4
-tags: ["threat hunting", "security automation", "agentic workflows", "Windows tool", "detection workflows"]
-source: "https://github.com/3dcom2711/thrunt-god"
-discovered_at: "2026-07-07T20:51:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- threat hunting
+- security automation
+- agentic workflows
+- Windows tool
+- detection workflows
+source: https://github.com/3dcom2711/thrunt-god
+discovered_at: '2026-07-07T20:51:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

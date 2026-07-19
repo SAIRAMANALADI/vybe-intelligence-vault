@@ -1,13 +1,27 @@
 ---
-title: "flytohub/flyto-ai"
-category: "Agent Framework"
-tech_stack: ["Python", "LLM APIs (OpenAI, Anthropic)", "Playwright", "YAML", "CLI", "HTTP/Webhooks", "MCP (Model Context Protocol)", "Claude Code Agent", "Schema Validation"]
+title: flytohub/flyto-ai
+category: daily-digests/2026-07-16
+tech_stack:
+- Python
+- LLM APIs (OpenAI, Anthropic)
+- Playwright
+- YAML
+- CLI
+- HTTP/Webhooks
+- MCP (Model Context Protocol)
+- Claude Code Agent
+- Schema Validation
 quality_score: 9
 rag_relevance: 9
-tags: ["AI automation", "workflow orchestration", "LLM-powered agents", "deterministic execution", "self-learning blueprints"]
-source: "https://github.com/flytohub/flyto-ai"
-discovered_at: "2026-07-16T08:09:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI automation
+- workflow orchestration
+- LLM-powered agents
+- deterministic execution
+- self-learning blueprints
+source: https://github.com/flytohub/flyto-ai
+discovered_at: '2026-07-16T08:09:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

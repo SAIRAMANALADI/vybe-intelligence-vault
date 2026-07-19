@@ -1,13 +1,24 @@
 ---
-title: "jyrki69pro/pdf-insight-agent"
-category: "Tooling"
-tech_stack: ["Python", "PyPDF2", "OCR (Tesseract)", "Tkinter (GUI)", "Pillow (Image Processing)", "Natural Language Processing (NLP) libraries"]
+title: jyrki69pro/pdf-insight-agent
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- PyPDF2
+- OCR (Tesseract)
+- Tkinter (GUI)
+- Pillow (Image Processing)
+- Natural Language Processing (NLP) libraries
 quality_score: 5
 rag_relevance: 6
-tags: ["PDF processing", "AI summarization", "desktop application", "data extraction", "document analysis"]
-source: "https://github.com/jyrki69pro/pdf-insight-agent"
-discovered_at: "2026-06-23T08:56:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- PDF processing
+- AI summarization
+- desktop application
+- data extraction
+- document analysis
+source: https://github.com/jyrki69pro/pdf-insight-agent
+discovered_at: '2026-06-23T08:56:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

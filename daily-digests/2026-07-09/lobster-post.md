@@ -1,13 +1,23 @@
 ---
-title: "kagura-agent/lobster-post"
-category: "Agent Framework"
-tech_stack: ["Git", "GitHub", "Markdown", "Asynchronous Communication", "Pull Requests"]
+title: kagura-agent/lobster-post
+category: daily-digests/2026-07-09
+tech_stack:
+- Git
+- GitHub
+- Markdown
+- Asynchronous Communication
+- Pull Requests
 quality_score: 7
 rag_relevance: 6
-tags: ["AI agent communication", "async messaging", "Git-based workflow", "collaborative agents", "public mailbox"]
-source: "https://github.com/kagura-agent/lobster-post"
-discovered_at: "2026-07-09T04:46:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent communication
+- async messaging
+- Git-based workflow
+- collaborative agents
+- public mailbox
+source: https://github.com/kagura-agent/lobster-post
+discovered_at: '2026-07-09T04:46:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

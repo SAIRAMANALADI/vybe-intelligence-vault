@@ -1,13 +1,24 @@
 ---
-title: "lefos13/local-llm-connector-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "OpenAI-compatible API", "Shell command execution", "Git integration"]
+title: lefos13/local-llm-connector-mcp
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- OpenAI-compatible API
+- Shell command execution
+- Git integration
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP server", "log summarization", "local LLM", "validation automation", "token optimization"]
-source: "https://github.com/lefos13/local-llm-connector-mcp"
-discovered_at: "2026-07-08T21:02:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- log summarization
+- local LLM
+- validation automation
+- token optimization
+source: https://github.com/lefos13/local-llm-connector-mcp
+discovered_at: '2026-07-08T21:02:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

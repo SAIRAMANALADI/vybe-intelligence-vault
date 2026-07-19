@@ -1,13 +1,23 @@
 ---
-title: "Earnest-clockworkuniverse497/mcp-annas-archive-create-skill"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Google Gemini API", "Model Context Protocol (MCP)", "Windows OS"]
+title: Earnest-clockworkuniverse497/mcp-annas-archive-create-skill
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- Google Gemini API
+- Model Context Protocol (MCP)
+- Windows OS
 quality_score: 7
 rag_relevance: 8
-tags: ["research automation", "methodology extraction", "Anna's Archive", "Claude Code integration", "document processing"]
-source: "https://github.com/Earnest-clockworkuniverse497/mcp-annas-archive-create-skill"
-discovered_at: "2026-06-24T22:13:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- research automation
+- methodology extraction
+- Anna's Archive
+- Claude Code integration
+- document processing
+source: https://github.com/Earnest-clockworkuniverse497/mcp-annas-archive-create-skill
+discovered_at: '2026-06-24T22:13:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

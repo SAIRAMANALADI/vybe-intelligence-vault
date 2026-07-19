@@ -1,13 +1,25 @@
 ---
-title: "chainstack/dev-portal"
-category: "UI Component"
-tech_stack: ["MDX", "Mintlify", "Model Context Protocol (MCP)", "JavaScript/TypeScript", "React", "OpenAPI 3.0", "CI/CD"]
+title: chainstack/dev-portal
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- MDX
+- Mintlify
+- Model Context Protocol (MCP)
+- JavaScript/TypeScript
+- React
+- OpenAPI 3.0
+- CI/CD
 quality_score: 8
 rag_relevance: 9
-tags: ["documentation", "MCP server", "AI agent integration", "blockchain infrastructure", "developer portal"]
-source: "https://github.com/chainstack/dev-portal"
-discovered_at: "2026-06-23T10:38:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- documentation
+- MCP server
+- AI agent integration
+- blockchain infrastructure
+- developer portal
+source: https://github.com/chainstack/dev-portal
+discovered_at: '2026-06-23T10:38:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "m8louist12-boop/mcp-server"
-category: "Orchestrator"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "JSON-RPC 2.0", "LLM APIs (OpenAI, Anthropic, DeepSeek, etc.)", "VS Code Extension (TypeScript)", "Python (SDK)"]
+title: m8louist12-boop/mcp-server
+category: daily-digests/2026-07-07
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- JSON-RPC 2.0
+- LLM APIs (OpenAI, Anthropic, DeepSeek, etc.)
+- VS Code Extension (TypeScript)
+- Python (SDK)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "AI reliability", "LLM validation", "failover mechanism", "real-time verification"]
-source: "https://github.com/m8louist12-boop/mcp-server"
-discovered_at: "2026-07-07T19:00:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- AI reliability
+- LLM validation
+- failover mechanism
+- real-time verification
+source: https://github.com/m8louist12-boop/mcp-server
+discovered_at: '2026-07-07T19:00:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

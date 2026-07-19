@@ -1,13 +1,23 @@
 ---
-title: "pinkpixel-dev/notification-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "npm", "JavaScript"]
+title: pinkpixel-dev/notification-mcp
+category: daily-digests/2026-07-16
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- npm
+- JavaScript
 quality_score: 9
 rag_relevance: 4
-tags: ["MCP server", "notification system", "AI agent tools", "sound playback", "cross-platform"]
-source: "https://github.com/pinkpixel-dev/notification-mcp"
-discovered_at: "2026-07-12T22:44:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- notification system
+- AI agent tools
+- sound playback
+- cross-platform
+source: https://github.com/pinkpixel-dev/notification-mcp
+discovered_at: '2026-07-12T22:44:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

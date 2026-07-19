@@ -1,13 +1,35 @@
 ---
-title: "MontoyaAndres/ganju"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Cloudflare Workers", "Cloudflare Queues", "Cloudflare R2", "Cloudflare Hyperdrive", "Cloudflare Durable Objects", "Cloudflare Containers", "Postgres", "pgvector", "Drizzle ORM", "Hono", "Next.js", "MCP SDK", "Gemini SDK", "Anthropic SDK", "OpenAI SDK", "better-auth"]
+title: MontoyaAndres/ganju
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Cloudflare Workers
+- Cloudflare Queues
+- Cloudflare R2
+- Cloudflare Hyperdrive
+- Cloudflare Durable Objects
+- Cloudflare Containers
+- Postgres
+- pgvector
+- Drizzle ORM
+- Hono
+- Next.js
+- MCP SDK
+- Gemini SDK
+- Anthropic SDK
+- OpenAI SDK
+- better-auth
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP server", "RAG", "multi-tenant", "Cloudflare", "AI integration"]
-source: "https://github.com/MontoyaAndres/ganju"
-discovered_at: "2026-06-23T21:33:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- RAG
+- multi-tenant
+- Cloudflare
+- AI integration
+source: https://github.com/MontoyaAndres/ganju
+discovered_at: '2026-06-23T21:33:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,30 @@
 ---
-title: "escoffier-labs/cloche"
-category: "Tooling"
-tech_stack: ["Rust", "Cargo", "Python (for text extraction)", "ImageMagick", "xdotool", "wmctrl", "grim (Wayland)", "Win32 API (Windows)", "MCP (Model Context Protocol)", "JSON-RPC 2.0", "Flameshot (optional)", "Remotion (experimental)"]
+title: escoffier-labs/cloche
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Rust
+- Cargo
+- Python (for text extraction)
+- ImageMagick
+- xdotool
+- wmctrl
+- grim (Wayland)
+- Win32 API (Windows)
+- MCP (Model Context Protocol)
+- JSON-RPC 2.0
+- Flameshot (optional)
+- Remotion (experimental)
 quality_score: 9
 rag_relevance: 8
-tags: ["desktop capture", "screenshot automation", "AI agent tools", "MCP server", "polished frames"]
-source: "https://github.com/escoffier-labs/cloche"
-discovered_at: "2026-07-09T17:18:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- desktop capture
+- screenshot automation
+- AI agent tools
+- MCP server
+- polished frames
+source: https://github.com/escoffier-labs/cloche
+discovered_at: '2026-07-09T17:18:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

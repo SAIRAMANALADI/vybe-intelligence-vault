@@ -1,13 +1,23 @@
 ---
-title: "samsarone/samsar"
-category: "SaaS Template"
-tech_stack: ["Python", "Cloud Infrastructure", "Generative AI", "Video Processing", "Full-Stack Development"]
+title: samsarone/samsar
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- Cloud Infrastructure
+- Generative AI
+- Video Processing
+- Full-Stack Development
 quality_score: 3
 rag_relevance: 5
-tags: ["video generation", "AI workflows", "cloud platform", "full-stack", "generative AI"]
-source: "https://github.com/samsarone/samsar"
-discovered_at: "2026-07-06T00:10:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- video generation
+- AI workflows
+- cloud platform
+- full-stack
+- generative AI
+source: https://github.com/samsarone/samsar
+discovered_at: '2026-07-06T00:10:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

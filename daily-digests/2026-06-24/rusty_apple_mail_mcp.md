@@ -1,13 +1,24 @@
 ---
-title: "like-a-freedom/rusty_apple_mail_mcp"
-category: "Tooling"
-tech_stack: ["Rust", "Model Context Protocol (MCP)", "SQLite", "macOS", "CLI", "JSON-RPC"]
+title: like-a-freedom/rusty_apple_mail_mcp
+category: daily-digests/2026-06-24
+tech_stack:
+- Rust
+- Model Context Protocol (MCP)
+- SQLite
+- macOS
+- CLI
+- JSON-RPC
 quality_score: 9
 rag_relevance: 8
-tags: ["Apple Mail", "MCP Server", "Local-first", "Read-only", "RAG Integration"]
-source: "https://github.com/like-a-freedom/rusty_apple_mail_mcp"
-discovered_at: "2026-06-24T13:22:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Apple Mail
+- MCP Server
+- Local-first
+- Read-only
+- RAG Integration
+source: https://github.com/like-a-freedom/rusty_apple_mail_mcp
+discovered_at: '2026-06-24T13:22:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

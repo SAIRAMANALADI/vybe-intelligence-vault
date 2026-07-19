@@ -1,13 +1,28 @@
 ---
-title: "0x4m4/hexstrike-ai"
-category: "Agent Framework"
-tech_stack: ["Python", "FastMCP", "Nmap", "SQLMap", "Nuclei", "Burp Suite", "Selenium", "Docker", "FastAPI", "Mermaid.js"]
+title: 0x4m4/hexstrike-ai
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- FastMCP
+- Nmap
+- SQLMap
+- Nuclei
+- Burp Suite
+- Selenium
+- Docker
+- FastAPI
+- Mermaid.js
 quality_score: 9
 rag_relevance: 4
-tags: ["penetration testing", "autonomous agents", "cybersecurity automation", "MCP protocol", "vulnerability discovery"]
-source: "https://github.com/0x4m4/hexstrike-ai"
-discovered_at: "2026-06-22T18:15:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- penetration testing
+- autonomous agents
+- cybersecurity automation
+- MCP protocol
+- vulnerability discovery
+source: https://github.com/0x4m4/hexstrike-ai
+discovered_at: '2026-06-22T18:15:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,31 @@
 ---
-title: "sindre-ai/maskin"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Hono.js", "Drizzle ORM", "PostgreSQL", "React", "TanStack Router", "Tailwind CSS", "Docker", "Model Context Protocol (MCP)", "SeaweedFS", "Zod", "Biome"]
+title: sindre-ai/maskin
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- Hono.js
+- Drizzle ORM
+- PostgreSQL
+- React
+- TanStack Router
+- Tailwind CSS
+- Docker
+- Model Context Protocol (MCP)
+- SeaweedFS
+- Zod
+- Biome
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agents", "product development", "autonomous workflows", "MCP integration", "multi-agent systems"]
-source: "https://github.com/sindre-ai/maskin"
-discovered_at: "2026-06-23T06:45:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- product development
+- autonomous workflows
+- MCP integration
+- multi-agent systems
+source: https://github.com/sindre-ai/maskin
+discovered_at: '2026-06-23T06:45:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

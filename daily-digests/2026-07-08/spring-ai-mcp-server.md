@@ -1,13 +1,22 @@
 ---
-title: "SNagarjuna07/spring-ai-mcp-server"
-category: "Tooling"
-tech_stack: ["Java", "Spring AI", "PostgreSQL", "Model Context Protocol (MCP)"]
+title: SNagarjuna07/spring-ai-mcp-server
+category: daily-digests/2026-07-08
+tech_stack:
+- Java
+- Spring AI
+- PostgreSQL
+- Model Context Protocol (MCP)
 quality_score: 4
 rag_relevance: 7
-tags: ["MCP server", "task management", "Spring AI", "PostgreSQL integration", "AI agent tools"]
-source: "https://github.com/SNagarjuna07/spring-ai-mcp-server"
-discovered_at: "2026-07-08T08:16:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- task management
+- Spring AI
+- PostgreSQL integration
+- AI agent tools
+source: https://github.com/SNagarjuna07/spring-ai-mcp-server
+discovered_at: '2026-07-08T08:16:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

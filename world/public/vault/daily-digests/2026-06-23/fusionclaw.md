@@ -1,13 +1,30 @@
 ---
-title: "Fusion-Data-Company/FusionClaw"
-category: "Agent Framework"
-tech_stack: ["Next.js", "TypeScript", "Tailwind CSS", "Drizzle ORM", "PostgreSQL", "Model Context Protocol (MCP)", "OpenRouter API", "fal.ai", "TanStack Table", "Radix UI", "Vercel Blob", "Playwright"]
+title: Fusion-Data-Company/FusionClaw
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Drizzle ORM
+- PostgreSQL
+- Model Context Protocol (MCP)
+- OpenRouter API
+- fal.ai
+- TanStack Table
+- Radix UI
+- Vercel Blob
+- Playwright
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent automation", "business operating system", "MCP tools", "CRM", "self-improving agents"]
-source: "https://github.com/Fusion-Data-Company/FusionClaw"
-discovered_at: "2026-06-23T16:29:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent automation
+- business operating system
+- MCP tools
+- CRM
+- self-improving agents
+source: https://github.com/Fusion-Data-Company/FusionClaw
+discovered_at: '2026-06-23T16:29:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

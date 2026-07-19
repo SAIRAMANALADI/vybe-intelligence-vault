@@ -1,13 +1,21 @@
 ---
-title: "unused-explosive464/claude-code-analysis"
-category: "Tooling"
-tech_stack: ["TypeScript", "Reverse Engineering", "Static Analysis"]
+title: unused-explosive464/claude-code-analysis
+category: daily-digests/2026-07-04
+tech_stack:
+- TypeScript
+- Reverse Engineering
+- Static Analysis
 quality_score: 4
 rag_relevance: 7
-tags: ["reverse-engineering", "claude-code", "ai-architecture", "safety-analysis", "typescript"]
-source: "https://github.com/unused-explosive464/claude-code-analysis"
-discovered_at: "2026-07-04T00:03:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- reverse-engineering
+- claude-code
+- ai-architecture
+- safety-analysis
+- typescript
+source: https://github.com/unused-explosive464/claude-code-analysis
+discovered_at: '2026-07-04T00:03:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

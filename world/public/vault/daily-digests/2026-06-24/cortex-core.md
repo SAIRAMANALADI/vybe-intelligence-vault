@@ -1,13 +1,28 @@
 ---
-title: "turfptax/cortex-core"
-category: "Agent Framework"
-tech_stack: ["Python", "SQLite", "BLE (bleak)", "HTTP API (FastAPI-like)", "On-device LLM (llama-server)", "Vosk (STT)", "PIL (display rendering)", "systemd", "ESP32 (BLE bridge)", "Orange Pi Zero 2W"]
+title: turfptax/cortex-core
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- SQLite
+- BLE (bleak)
+- HTTP API (FastAPI-like)
+- On-device LLM (llama-server)
+- Vosk (STT)
+- PIL (display rendering)
+- systemd
+- ESP32 (BLE bridge)
+- Orange Pi Zero 2W
 quality_score: 9
 rag_relevance: 8
-tags: ["wearable AI", "local-first memory", "on-device LLM", "plugin architecture", "offline speech processing"]
-source: "https://github.com/turfptax/cortex-core"
-discovered_at: "2026-06-24T02:47:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- wearable AI
+- local-first memory
+- on-device LLM
+- plugin architecture
+- offline speech processing
+source: https://github.com/turfptax/cortex-core
+discovered_at: '2026-06-24T02:47:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

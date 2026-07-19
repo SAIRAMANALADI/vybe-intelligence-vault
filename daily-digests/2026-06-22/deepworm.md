@@ -1,13 +1,23 @@
 ---
-title: "goitno/deepworm"
-category: "Agent Framework"
-tech_stack: ["Python", "LLM APIs (OpenAI, Google Gemini, Anthropic Claude)", "Ollama", "DuckDuckGo", "Windows CLI"]
+title: goitno/deepworm
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- LLM APIs (OpenAI, Google Gemini, Anthropic Claude)
+- Ollama
+- DuckDuckGo
+- Windows CLI
 quality_score: 6
 rag_relevance: 7
-tags: ["research automation", "multi-llm support", "cli tool", "web search integration", "zero-cost research"]
-source: "https://github.com/goitno/deepworm"
-discovered_at: "2026-06-22T18:48:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- research automation
+- multi-llm support
+- cli tool
+- web search integration
+- zero-cost research
+source: https://github.com/goitno/deepworm
+discovered_at: '2026-06-22T18:48:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

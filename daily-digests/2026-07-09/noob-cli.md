@@ -1,13 +1,24 @@
 ---
-title: "hec-ovi/noob-cli"
-category: "Agent Framework"
-tech_stack: ["Rust", "OpenAI API", "MCP (Model Context Protocol)", "Docker", "llama.cpp", "vLLM"]
+title: hec-ovi/noob-cli
+category: daily-digests/2026-07-09
+tech_stack:
+- Rust
+- OpenAI API
+- MCP (Model Context Protocol)
+- Docker
+- llama.cpp
+- vLLM
 quality_score: 6
 rag_relevance: 8
-tags: ["CLI", "agentic coding", "local AI", "multi-agent", "MCP"]
-source: "https://github.com/hec-ovi/noob-cli"
-discovered_at: "2026-07-09T19:29:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CLI
+- agentic coding
+- local AI
+- multi-agent
+- MCP
+source: https://github.com/hec-ovi/noob-cli
+discovered_at: '2026-07-09T19:29:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

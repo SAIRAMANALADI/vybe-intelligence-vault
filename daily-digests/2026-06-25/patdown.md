@@ -1,13 +1,24 @@
 ---
-title: "ryanda9910/patdown"
-category: "Tooling"
-tech_stack: ["Shell", "Markdown", "Claude Code", "Cursor", "Gemini CLI", "opencode"]
+title: ryanda9910/patdown
+category: daily-digests/2026-06-25
+tech_stack:
+- Shell
+- Markdown
+- Claude Code
+- Cursor
+- Gemini CLI
+- opencode
 quality_score: 9
 rag_relevance: 7
-tags: ["security", "code review", "agent integration", "vulnerability scanning", "CI/CD"]
-source: "https://github.com/ryanda9910/patdown"
-discovered_at: "2026-06-25T05:04:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- security
+- code review
+- agent integration
+- vulnerability scanning
+- CI/CD
+source: https://github.com/ryanda9910/patdown
+discovered_at: '2026-06-25T05:04:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "jamesdfinance-dev/lazaretto-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "HTTPS", "REST API"]
+title: jamesdfinance-dev/lazaretto-mcp
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- HTTPS
+- REST API
 quality_score: 7
 rag_relevance: 8
-tags: ["MCP server", "security scanning", "malicious artifact detection", "package verification", "agent tooling"]
-source: "https://github.com/jamesdfinance-dev/lazaretto-mcp"
-discovered_at: "2026-07-16T16:25:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- security scanning
+- malicious artifact detection
+- package verification
+- agent tooling
+source: https://github.com/jamesdfinance-dev/lazaretto-mcp
+discovered_at: '2026-07-16T16:25:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

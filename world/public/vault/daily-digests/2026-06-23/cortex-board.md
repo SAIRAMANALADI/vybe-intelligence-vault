@@ -1,13 +1,28 @@
 ---
-title: "NG-Bullseye/cortex-board"
-category: "Orchestrator"
-tech_stack: ["Python", "FastMCP", "FastAPI", "Ionic", "Angular", "Capacitor", "TypeScript", "Markdown", "Telegram Bot API", "Claude (AI Model)"]
+title: NG-Bullseye/cortex-board
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- FastMCP
+- FastAPI
+- Ionic
+- Angular
+- Capacitor
+- TypeScript
+- Markdown
+- Telegram Bot API
+- Claude (AI Model)
 quality_score: 7
 rag_relevance: 6
-tags: ["Kanban", "Markdown-driven", "Telegram integration", "Live projection", "AI agent orchestration"]
-source: "https://github.com/NG-Bullseye/cortex-board"
-discovered_at: "2026-06-23T13:49:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Kanban
+- Markdown-driven
+- Telegram integration
+- Live projection
+- AI agent orchestration
+source: https://github.com/NG-Bullseye/cortex-board
+discovered_at: '2026-06-23T13:49:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

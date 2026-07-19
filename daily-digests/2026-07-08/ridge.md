@@ -1,13 +1,27 @@
 ---
-title: "olgasafonova/ridge"
-category: "Orchestrator"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "tree-sitter", "go/ast", "Mermaid", "PlantUML", "Structurizr", "D3.js", "Git"]
+title: olgasafonova/ridge
+category: daily-digests/2026-07-08
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- tree-sitter
+- go/ast
+- Mermaid
+- PlantUML
+- Structurizr
+- D3.js
+- Git
 quality_score: 9
 rag_relevance: 8
-tags: ["architecture analysis", "MCP server", "drift detection", "diagram generation", "static analysis"]
-source: "https://github.com/olgasafonova/ridge"
-discovered_at: "2026-07-08T08:17:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- architecture analysis
+- MCP server
+- drift detection
+- diagram generation
+- static analysis
+source: https://github.com/olgasafonova/ridge
+discovered_at: '2026-07-08T08:17:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

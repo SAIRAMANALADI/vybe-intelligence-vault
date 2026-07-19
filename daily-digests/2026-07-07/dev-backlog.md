@@ -1,13 +1,24 @@
 ---
-title: "sungjunlee/dev-backlog"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Bash", "Node.js", "GitHub CLI", "Markdown", "Git"]
+title: sungjunlee/dev-backlog
+category: daily-digests/2026-07-07
+tech_stack:
+- JavaScript
+- Bash
+- Node.js
+- GitHub CLI
+- Markdown
+- Git
 quality_score: 9
 rag_relevance: 8
-tags: ["sprint planning", "AI agent collaboration", "GitHub integration", "execution hub", "task tracking"]
-source: "https://github.com/sungjunlee/dev-backlog"
-discovered_at: "2026-07-07T13:15:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- sprint planning
+- AI agent collaboration
+- GitHub integration
+- execution hub
+- task tracking
+source: https://github.com/sungjunlee/dev-backlog
+discovered_at: '2026-07-07T13:15:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

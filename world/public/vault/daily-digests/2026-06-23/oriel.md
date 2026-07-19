@@ -1,13 +1,27 @@
 ---
-title: "ParadoxInfinite/oriel"
-category: "Orchestrator"
-tech_stack: ["Go", "TypeScript", "React", "Model Context Protocol (MCP)", "Docker Engine", "Colima", "SSE (Server-Sent Events)", "Vite", "Homebrew"]
+title: ParadoxInfinite/oriel
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Go
+- TypeScript
+- React
+- Model Context Protocol (MCP)
+- Docker Engine
+- Colima
+- SSE (Server-Sent Events)
+- Vite
+- Homebrew
 quality_score: 9
 rag_relevance: 8
-tags: ["container management", "MCP server", "Docker GUI", "AI orchestration", "lightweight"]
-source: "https://github.com/ParadoxInfinite/oriel"
-discovered_at: "2026-06-23T13:48:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- container management
+- MCP server
+- Docker GUI
+- AI orchestration
+- lightweight
+source: https://github.com/ParadoxInfinite/oriel
+discovered_at: '2026-06-23T13:48:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "jonnybottles/patch-tuesday-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FastAPI", "MSRC CVRF API", "EPSS API", "CISA KEV Catalog"]
+title: jonnybottles/patch-tuesday-mcp
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FastAPI
+- MSRC CVRF API
+- EPSS API
+- CISA KEV Catalog
 quality_score: 9
 rag_relevance: 8
-tags: ["Microsoft Patch Tuesday", "CVE Lookup", "Security Updates", "EPSS Enrichment", "CISA KEV Integration"]
-source: "https://github.com/jonnybottles/patch-tuesday-mcp"
-discovered_at: "2026-07-11T22:45:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Microsoft Patch Tuesday
+- CVE Lookup
+- Security Updates
+- EPSS Enrichment
+- CISA KEV Integration
+source: https://github.com/jonnybottles/patch-tuesday-mcp
+discovered_at: '2026-07-11T22:45:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

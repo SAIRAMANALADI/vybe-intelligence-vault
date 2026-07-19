@@ -1,13 +1,27 @@
 ---
-title: "pgen0x/meteora-dlmm-trading-bot"
-category: "Orchestrator"
-tech_stack: ["Go", "Python", "Node.js", "Solana", "Redis", "Meteora DLMM API", "Hermes AI Agent Framework", "Jupiter Token Audit", "DexScreener"]
+title: pgen0x/meteora-dlmm-trading-bot
+category: daily-digests/2026-07-19
+tech_stack:
+- Go
+- Python
+- Node.js
+- Solana
+- Redis
+- Meteora DLMM API
+- Hermes AI Agent Framework
+- Jupiter Token Audit
+- DexScreener
 quality_score: 9
 rag_relevance: 8
-tags: ["Solana", "Liquidity Pools", "AI Trading", "DLMM", "Automated LP Management"]
-source: "https://github.com/pgen0x/meteora-dlmm-trading-bot"
-discovered_at: "2026-07-17T12:08:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Solana
+- Liquidity Pools
+- AI Trading
+- DLMM
+- Automated LP Management
+source: https://github.com/pgen0x/meteora-dlmm-trading-bot
+discovered_at: '2026-07-17T12:08:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

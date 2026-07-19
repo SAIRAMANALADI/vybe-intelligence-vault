@@ -1,13 +1,29 @@
 ---
-title: "XNet-NGO/aiope"
-category: "Agent Framework"
-tech_stack: ["Kotlin", "Android SDK", "Jetpack Compose", "OpenAI-compatible APIs", "Google Gemini Live API", "SSH (Ed25519, RSA)", "PROOT (Linux environment)", "WorkManager", "UniversalMarkdown", "BouncyCastle", "SSE (Server-Sent Events)"]
+title: XNet-NGO/aiope
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Kotlin
+- Android SDK
+- Jetpack Compose
+- OpenAI-compatible APIs
+- Google Gemini Live API
+- SSH (Ed25519, RSA)
+- PROOT (Linux environment)
+- WorkManager
+- UniversalMarkdown
+- BouncyCastle
+- SSE (Server-Sent Events)
 quality_score: 9
 rag_relevance: 7
-tags: ["Android AI assistant", "multi-agent orchestration", "dynamic UI rendering", "browser automation", "remote server management"]
-source: "https://github.com/XNet-NGO/aiope"
-discovered_at: "2026-07-07T22:08:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Android AI assistant
+- multi-agent orchestration
+- dynamic UI rendering
+- browser automation
+- remote server management
+source: https://github.com/XNet-NGO/aiope
+discovered_at: '2026-07-07T22:08:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

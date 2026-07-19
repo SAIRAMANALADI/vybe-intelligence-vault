@@ -1,13 +1,26 @@
 ---
-title: "KongFangXun/sofagent"
-category: "Agent Framework"
-tech_stack: ["Bash", "Shell Scripting", "Markdown", "Node.js", "npm", "OpenClaw", "agency-orchestrator", "Git"]
+title: KongFangXun/sofagent
+category: daily-digests/2026-06-23
+tech_stack:
+- Bash
+- Shell Scripting
+- Markdown
+- Node.js
+- npm
+- OpenClaw
+- agency-orchestrator
+- Git
 quality_score: 8
 rag_relevance: 7
-tags: ["Agent Discipline", "AI Governance", "Behavioral Constraints", "Task Orchestration", "Cross-Platform"]
-source: "https://github.com/KongFangXun/sofagent"
-discovered_at: "2026-06-23T16:25:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agent Discipline
+- AI Governance
+- Behavioral Constraints
+- Task Orchestration
+- Cross-Platform
+source: https://github.com/KongFangXun/sofagent
+discovered_at: '2026-06-23T16:25:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

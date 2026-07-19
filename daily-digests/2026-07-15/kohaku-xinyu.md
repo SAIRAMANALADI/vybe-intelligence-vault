@@ -1,13 +1,26 @@
 ---
-title: "ChuXinZhongMo/Kohaku-XinYu"
-category: "Agent Framework"
-tech_stack: ["Python", "Electron", "Vite", "QQ/NapCat Gateway", "Pytest", "Node.js", "CI/CD (GitHub Actions)", "Tiny-Kernel Experiments"]
+title: ChuXinZhongMo/Kohaku-XinYu
+category: daily-digests/2026-07-15
+tech_stack:
+- Python
+- Electron
+- Vite
+- QQ/NapCat Gateway
+- Pytest
+- Node.js
+- CI/CD (GitHub Actions)
+- Tiny-Kernel Experiments
 quality_score: 8
 rag_relevance: 9
-tags: ["local AI runtime", "privacy-bound agents", "QQ integration", "desktop shell", "memory management"]
-source: "https://github.com/ChuXinZhongMo/Kohaku-XinYu"
-discovered_at: "2026-07-14T02:13:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local AI runtime
+- privacy-bound agents
+- QQ integration
+- desktop shell
+- memory management
+source: https://github.com/ChuXinZhongMo/Kohaku-XinYu
+discovered_at: '2026-07-14T02:13:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

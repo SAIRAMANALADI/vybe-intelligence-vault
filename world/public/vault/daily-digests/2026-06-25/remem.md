@@ -1,13 +1,28 @@
 ---
-title: "majiayu000/remem"
-category: "Tooling"
-tech_stack: ["Rust", "SQLite", "SQLCipher", "MCP (Model Context Protocol)", "CLI", "REST API", "Hooks", "Homebrew", "npm", "Cargo"]
+title: majiayu000/remem
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Rust
+- SQLite
+- SQLCipher
+- MCP (Model Context Protocol)
+- CLI
+- REST API
+- Hooks
+- Homebrew
+- npm
+- Cargo
 quality_score: 9
 rag_relevance: 8
-tags: ["memory management", "coding agents", "local-first", "auditable recall", "project context"]
-source: "https://github.com/majiayu000/remem"
-discovered_at: "2026-06-25T07:29:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory management
+- coding agents
+- local-first
+- auditable recall
+- project context
+source: https://github.com/majiayu000/remem
+discovered_at: '2026-06-25T07:29:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

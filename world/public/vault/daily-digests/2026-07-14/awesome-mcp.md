@@ -1,13 +1,24 @@
 ---
-title: "abordage/awesome-mcp"
-category: "Tooling"
-tech_stack: ["GitHub API", "Python", "Automated curation", "Ranking algorithms", "Markdown", "Shields.io"]
+title: abordage/awesome-mcp
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- GitHub API
+- Python
+- Automated curation
+- Ranking algorithms
+- Markdown
+- Shields.io
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "AI integration", "curated list", "automation", "resource aggregation"]
-source: "https://github.com/abordage/awesome-mcp"
-discovered_at: "2026-07-11T09:27:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- AI integration
+- curated list
+- automation
+- resource aggregation
+source: https://github.com/abordage/awesome-mcp
+discovered_at: '2026-07-11T09:27:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "jthingelstad/elixir-bot"
-category: "Agent Framework"
-tech_stack: ["Python", "Discord API", "LLM (Claude API)", "SQLite", "GitHub API", "Clash Royale API", "Pytest"]
+title: jthingelstad/elixir-bot
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Discord API
+- LLM (Claude API)
+- SQLite
+- GitHub API
+- Clash Royale API
+- Pytest
 quality_score: 9
 rag_relevance: 7
-tags: ["Discord bot", "LLM agent", "Clash Royale", "Event-driven", "Memory management"]
-source: "https://github.com/jthingelstad/elixir-bot"
-discovered_at: "2026-06-24T10:18:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Discord bot
+- LLM agent
+- Clash Royale
+- Event-driven
+- Memory management
+source: https://github.com/jthingelstad/elixir-bot
+discovered_at: '2026-06-24T10:18:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

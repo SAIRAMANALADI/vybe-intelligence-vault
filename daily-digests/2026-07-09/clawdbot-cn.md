@@ -1,13 +1,23 @@
 ---
-title: "itzsiddharth/clawdbot-cn"
-category: "Tooling"
-tech_stack: ["Python", "Electron", "HTML/CSS", "JavaScript", "Voice Recognition APIs"]
+title: itzsiddharth/clawdbot-cn
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- Electron
+- HTML/CSS
+- JavaScript
+- Voice Recognition APIs
 quality_score: 5
 rag_relevance: 3
-tags: ["personal AI assistant", "local execution", "task management", "voice commands", "productivity tool"]
-source: "https://github.com/itzsiddharth/clawdbot-cn"
-discovered_at: "2026-07-09T00:05:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personal AI assistant
+- local execution
+- task management
+- voice commands
+- productivity tool
+source: https://github.com/itzsiddharth/clawdbot-cn
+discovered_at: '2026-07-09T00:05:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

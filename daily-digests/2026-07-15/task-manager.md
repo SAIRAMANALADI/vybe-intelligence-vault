@@ -1,13 +1,23 @@
 ---
-title: "Dexter376/task-manager"
-category: "Tooling"
-tech_stack: ["Laravel 12", "PHP 8.1+", "PostgreSQL 16+", "Composer", "Blade"]
+title: Dexter376/task-manager
+category: daily-digests/2026-07-15
+tech_stack:
+- Laravel 12
+- PHP 8.1+
+- PostgreSQL 16+
+- Composer
+- Blade
 quality_score: 6
 rag_relevance: 4
-tags: ["task management", "RESTful API", "Laravel", "PostgreSQL", "backend"]
-source: "https://github.com/Dexter376/task-manager"
-discovered_at: "2026-07-10T22:00:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- task management
+- RESTful API
+- Laravel
+- PostgreSQL
+- backend
+source: https://github.com/Dexter376/task-manager
+discovered_at: '2026-07-10T22:00:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

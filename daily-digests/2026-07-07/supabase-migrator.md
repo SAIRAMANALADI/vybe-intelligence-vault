@@ -1,13 +1,22 @@
 ---
-title: "literate-irtish832/supabase-migrator"
-category: "Tooling"
-tech_stack: ["Shell", "Supabase", "PostgreSQL", "Windows CLI"]
+title: literate-irtish832/supabase-migrator
+category: daily-digests/2026-07-07
+tech_stack:
+- Shell
+- Supabase
+- PostgreSQL
+- Windows CLI
 quality_score: 6
 rag_relevance: 5
-tags: ["Supabase", "migration", "database", "auth", "storage"]
-source: "https://github.com/literate-irtish832/supabase-migrator"
-discovered_at: "2026-07-07T20:50:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Supabase
+- migration
+- database
+- auth
+- storage
+source: https://github.com/literate-irtish832/supabase-migrator
+discovered_at: '2026-07-07T20:50:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,30 @@
 ---
-title: "cmendezs/mcp-einvoicing-core"
-category: "Tooling"
-tech_stack: ["Python", "Pydantic", "FastMCP", "XML", "OAuth2", "Peppol", "EN 16931", "UBL", "CII", "XAdES", "Schematron", "asyncio"]
+title: cmendezs/mcp-einvoicing-core
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Pydantic
+- FastMCP
+- XML
+- OAuth2
+- Peppol
+- EN 16931
+- UBL
+- CII
+- XAdES
+- Schematron
+- asyncio
 quality_score: 9
 rag_relevance: 8
-tags: ["e-invoicing", "MCP server", "compliance framework", "wire format serialization", "digital signatures"]
-source: "https://github.com/cmendezs/mcp-einvoicing-core"
-discovered_at: "2026-06-24T20:52:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- e-invoicing
+- MCP server
+- compliance framework
+- wire format serialization
+- digital signatures
+source: https://github.com/cmendezs/mcp-einvoicing-core
+discovered_at: '2026-06-24T20:52:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

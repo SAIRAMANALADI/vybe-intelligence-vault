@@ -1,13 +1,21 @@
 ---
-title: "nomyfan/coda"
-category: "Agent Framework"
-tech_stack: ["Rust", "Agent Framework", "Experimental"]
+title: nomyfan/coda
+category: daily-digests/2026-07-10
+tech_stack:
+- Rust
+- Agent Framework
+- Experimental
 quality_score: 4
 rag_relevance: 6
-tags: ["agent-harness", "experimental", "rust", "ai-agents", "modular"]
-source: "https://github.com/nomyfan/coda"
-discovered_at: "2026-07-10T02:26:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent-harness
+- experimental
+- rust
+- ai-agents
+- modular
+source: https://github.com/nomyfan/coda
+discovered_at: '2026-07-10T02:26:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

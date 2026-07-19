@@ -1,13 +1,24 @@
 ---
-title: "frangelbarrera/awesome-ai-agents"
-category: "Tooling"
-tech_stack: ["Python", "TypeScript", "Docker", "Go", "Rust", "Markdown"]
+title: frangelbarrera/awesome-ai-agents
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- TypeScript
+- Docker
+- Go
+- Rust
+- Markdown
 quality_score: 8
 rag_relevance: 7
-tags: ["curated list", "AI agents", "autonomous workflows", "security tools", "OSINT"]
-source: "https://github.com/frangelbarrera/awesome-ai-agents"
-discovered_at: "2026-06-24T20:48:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- curated list
+- AI agents
+- autonomous workflows
+- security tools
+- OSINT
+source: https://github.com/frangelbarrera/awesome-ai-agents
+discovered_at: '2026-06-24T20:48:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

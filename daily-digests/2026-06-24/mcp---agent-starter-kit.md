@@ -1,13 +1,23 @@
 ---
-title: "fub05/MCP---Agent-Starter-Kit"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "OpenAI", "MCP", "Multi-Agent Systems"]
+title: fub05/MCP---Agent-Starter-Kit
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- FastAPI
+- OpenAI
+- MCP
+- Multi-Agent Systems
 quality_score: 6
 rag_relevance: 7
-tags: ["multi-agent systems", "chatbot development", "FastAPI", "OpenAI integration", "MCP"]
-source: "https://github.com/fub05/MCP---Agent-Starter-Kit"
-discovered_at: "2026-06-24T20:50:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- chatbot development
+- FastAPI
+- OpenAI integration
+- MCP
+source: https://github.com/fub05/MCP---Agent-Starter-Kit
+discovered_at: '2026-06-24T20:50:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

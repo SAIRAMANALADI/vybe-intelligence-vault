@@ -1,13 +1,23 @@
 ---
-title: "studeyang/technotes"
-category: "Tooling"
-tech_stack: ["Markdown", "HTML", "Docsify", "Grep", "Git"]
+title: studeyang/technotes
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Markdown
+- HTML
+- Docsify
+- Grep
+- Git
 quality_score: 6
 rag_relevance: 5
-tags: ["documentation", "learning-notes", "searchable", "curated-content", "AI-resources"]
-source: "https://github.com/studeyang/technotes"
-discovered_at: "2026-07-09T14:44:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- documentation
+- learning-notes
+- searchable
+- curated-content
+- AI-resources
+source: https://github.com/studeyang/technotes
+discovered_at: '2026-07-09T14:44:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

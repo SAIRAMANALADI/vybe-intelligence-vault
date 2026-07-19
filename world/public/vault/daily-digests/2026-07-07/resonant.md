@@ -1,13 +1,29 @@
 ---
-title: "norman3983/resonant"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "SvelteKit", "Node.js", "Claude Code Agent SDK", "SQLite", "Express", "WebSocket", "ElevenLabs TTS", "Groq Whisper", "Hume AI", "MCP (Model Context Protocol)"]
+title: norman3983/resonant
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- SvelteKit
+- Node.js
+- Claude Code Agent SDK
+- SQLite
+- Express
+- WebSocket
+- ElevenLabs TTS
+- Groq Whisper
+- Hume AI
+- MCP (Model Context Protocol)
 quality_score: 8
 rag_relevance: 7
-tags: ["AI companion", "autonomous agent", "persistent memory", "self-hosted", "multi-channel"]
-source: "https://github.com/norman3983/resonant"
-discovered_at: "2026-07-07T23:55:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI companion
+- autonomous agent
+- persistent memory
+- self-hosted
+- multi-channel
+source: https://github.com/norman3983/resonant
+discovered_at: '2026-07-07T23:55:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

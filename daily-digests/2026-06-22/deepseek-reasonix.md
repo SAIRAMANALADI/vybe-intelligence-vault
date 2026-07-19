@@ -1,13 +1,26 @@
 ---
-title: "esengine/DeepSeek-Reasonix"
-category: "Agent Framework"
-tech_stack: ["Go", "DeepSeek API", "OpenAI-compatible endpoints", "TOML", "JSON-RPC", "MCP (Model Context Protocol)", "CI/CD (GitHub Actions)", "Cross-compilation"]
+title: esengine/DeepSeek-Reasonix
+category: daily-digests/2026-06-22
+tech_stack:
+- Go
+- DeepSeek API
+- OpenAI-compatible endpoints
+- TOML
+- JSON-RPC
+- MCP (Model Context Protocol)
+- CI/CD (GitHub Actions)
+- Cross-compilation
 quality_score: 9
 rag_relevance: 8
-tags: ["AI coding agent", "DeepSeek integration", "CLI tool", "MCP support", "config-driven"]
-source: "https://github.com/esengine/DeepSeek-Reasonix"
-discovered_at: "2026-06-22T18:13:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding agent
+- DeepSeek integration
+- CLI tool
+- MCP support
+- config-driven
+source: https://github.com/esengine/DeepSeek-Reasonix
+discovered_at: '2026-06-22T18:13:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

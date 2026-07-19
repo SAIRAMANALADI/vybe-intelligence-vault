@@ -1,13 +1,27 @@
 ---
-title: "cubxxw/cubxxw"
-category: "Tooling"
-tech_stack: ["Go", "Python", "TypeScript", "Kubernetes", "Cloud Native", "LLM Frameworks", "Agent Frameworks", "RSS", "Markdown"]
+title: cubxxw/cubxxw
+category: daily-digests/2026-07-18
+tech_stack:
+- Go
+- Python
+- TypeScript
+- Kubernetes
+- Cloud Native
+- LLM Frameworks
+- Agent Frameworks
+- RSS
+- Markdown
 quality_score: 8
 rag_relevance: 7
-tags: ["AI Product Building", "Open Source Contributions", "Digital Nomad", "Solo Development", "Voice AI"]
-source: "https://github.com/cubxxw/cubxxw"
-discovered_at: "2026-07-18T09:23:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Product Building
+- Open Source Contributions
+- Digital Nomad
+- Solo Development
+- Voice AI
+source: https://github.com/cubxxw/cubxxw
+discovered_at: '2026-07-18T09:23:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

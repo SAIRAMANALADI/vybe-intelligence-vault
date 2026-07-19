@@ -1,13 +1,24 @@
 ---
-title: "HelgeSverre/sema"
-category: "Agent Framework"
-tech_stack: ["Rust", "Lisp (Scheme-like)", "LLM APIs (Anthropic, OpenAI, Google, Ollama, etc.)", "Bytecode VM", "WebAssembly", "CLI tools"]
+title: HelgeSverre/sema
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Rust
+- Lisp (Scheme-like)
+- LLM APIs (Anthropic, OpenAI, Google, Ollama, etc.)
+- Bytecode VM
+- WebAssembly
+- CLI tools
 quality_score: 9
 rag_relevance: 8
-tags: ["LLM agents", "Lisp DSL", "RAG tooling", "agent runtime", "prompt engineering"]
-source: "https://github.com/HelgeSverre/sema"
-discovered_at: "2026-06-22T23:24:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LLM agents
+- Lisp DSL
+- RAG tooling
+- agent runtime
+- prompt engineering
+source: https://github.com/HelgeSverre/sema
+discovered_at: '2026-06-22T23:24:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

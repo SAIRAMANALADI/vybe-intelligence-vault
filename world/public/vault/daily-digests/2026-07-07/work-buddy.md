@@ -1,13 +1,28 @@
 ---
-title: "KadenMc/work-buddy"
-category: "Orchestrator"
-tech_stack: ["Python", "Claude Code", "Obsidian", "Model Context Protocol (MCP)", "Hindsight (persistent memory)", "Telegram API", "Chrome Extension", "FastAPI", "SQLite/PostgreSQL", "React (Dashboard)"]
+title: KadenMc/work-buddy
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Claude Code
+- Obsidian
+- Model Context Protocol (MCP)
+- Hindsight (persistent memory)
+- Telegram API
+- Chrome Extension
+- FastAPI
+- SQLite/PostgreSQL
+- React (Dashboard)
 quality_score: 9
 rag_relevance: 8
-tags: ["agent orchestration", "knowledge work automation", "local-first AI", "workflow conductor", "persistent memory"]
-source: "https://github.com/KadenMc/work-buddy"
-discovered_at: "2026-07-07T02:32:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent orchestration
+- knowledge work automation
+- local-first AI
+- workflow conductor
+- persistent memory
+source: https://github.com/KadenMc/work-buddy
+discovered_at: '2026-07-07T02:32:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

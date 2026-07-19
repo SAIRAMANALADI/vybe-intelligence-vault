@@ -1,13 +1,26 @@
 ---
-title: "vassiliylakhonin/vassiliylakhonin.github.io"
-category: "UI Component"
-tech_stack: ["Jekyll", "GitHub Pages", "JSON", "Python", "MCP (Model Context Protocol)", "Cloudflare Workers", "Markdown", "CI/CD (GitHub Actions)"]
+title: vassiliylakhonin/vassiliylakhonin.github.io
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Jekyll
+- GitHub Pages
+- JSON
+- Python
+- MCP (Model Context Protocol)
+- Cloudflare Workers
+- Markdown
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI-readable profile", "MCP server", "agent discovery", "evidence-discipline", "recruiter routing"]
-source: "https://github.com/vassiliylakhonin/vassiliylakhonin.github.io"
-discovered_at: "2026-06-25T07:30:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-readable profile
+- MCP server
+- agent discovery
+- evidence-discipline
+- recruiter routing
+source: https://github.com/vassiliylakhonin/vassiliylakhonin.github.io
+discovered_at: '2026-06-25T07:30:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

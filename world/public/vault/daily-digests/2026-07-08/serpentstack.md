@@ -1,13 +1,27 @@
 ---
-title: "Sujan70/SerpentStack"
-category: "SaaS Template"
-tech_stack: ["React", "TypeScript", "FastAPI", "Python", "PostgreSQL", "Terraform", "Docker", "Git", "Node.js"]
+title: Sujan70/SerpentStack
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- React
+- TypeScript
+- FastAPI
+- Python
+- PostgreSQL
+- Terraform
+- Docker
+- Git
+- Node.js
 quality_score: 6
 rag_relevance: 5
-tags: ["full-stack", "app template", "AI-assisted development", "Windows-native", "pre-configured"]
-source: "https://github.com/Sujan70/SerpentStack"
-discovered_at: "2026-07-08T22:14:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- full-stack
+- app template
+- AI-assisted development
+- Windows-native
+- pre-configured
+source: https://github.com/Sujan70/SerpentStack
+discovered_at: '2026-07-08T22:14:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

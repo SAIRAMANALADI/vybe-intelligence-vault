@@ -1,13 +1,23 @@
 ---
-title: "andypgray/resharper-cli-mcp"
-category: "Tooling"
-tech_stack: ["C#", "MCP (Model Context Protocol)", "JetBrains ReSharper CLI", ".NET 10 SDK", "NuGet"]
+title: andypgray/resharper-cli-mcp
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- C#
+- MCP (Model Context Protocol)
+- JetBrains ReSharper CLI
+- .NET 10 SDK
+- NuGet
 quality_score: 8
 rag_relevance: 7
-tags: ["C# code analysis", "MCP server", "code cleanup", "ReSharper integration", "headless inspection"]
-source: "https://github.com/andypgray/resharper-cli-mcp"
-discovered_at: "2026-07-15T16:21:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- C# code analysis
+- MCP server
+- code cleanup
+- ReSharper integration
+- headless inspection
+source: https://github.com/andypgray/resharper-cli-mcp
+discovered_at: '2026-07-15T16:21:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

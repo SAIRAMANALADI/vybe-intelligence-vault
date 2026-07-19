@@ -1,13 +1,25 @@
 ---
-title: "ninouanis84-sudo/foxl-orchestrator"
-category: "Agent Framework"
-tech_stack: ["JavaScript/TypeScript", "HTML/CSS", "RESTful APIs", "Webhooks", "Event-driven architecture", "Modular design", "MIT License"]
+title: ninouanis84-sudo/foxl-orchestrator
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- JavaScript/TypeScript
+- HTML/CSS
+- RESTful APIs
+- Webhooks
+- Event-driven architecture
+- Modular design
+- MIT License
 quality_score: 8
 rag_relevance: 7
-tags: ["AI agent", "autonomous assistant", "multilingual", "contextual awareness", "workflow automation"]
-source: "https://github.com/ninouanis84-sudo/foxl-orchestrator"
-discovered_at: "2026-07-06T23:02:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- autonomous assistant
+- multilingual
+- contextual awareness
+- workflow automation
+source: https://github.com/ninouanis84-sudo/foxl-orchestrator
+discovered_at: '2026-07-06T23:02:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

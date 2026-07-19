@@ -1,13 +1,28 @@
 ---
-title: "ariffazil/arifos"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "FastAPI", "JWT", "SQLite/PostgreSQL", "Docker", "GitHub Actions", "Streamable HTTP", "JSON Schema", "Cryptography"]
+title: ariffazil/arifos
+category: daily-digests/2026-07-16
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- FastAPI
+- JWT
+- SQLite/PostgreSQL
+- Docker
+- GitHub Actions
+- Streamable HTTP
+- JSON Schema
+- Cryptography
 quality_score: 9
 rag_relevance: 10
-tags: ["Constitutional AI", "Governance Kernel", "MCP Server", "Immutable Ledger", "Federation Hub"]
-source: "https://github.com/ariffazil/arifos"
-discovered_at: "2026-07-12T05:56:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Constitutional AI
+- Governance Kernel
+- MCP Server
+- Immutable Ledger
+- Federation Hub
+source: https://github.com/ariffazil/arifos
+discovered_at: '2026-07-12T05:56:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

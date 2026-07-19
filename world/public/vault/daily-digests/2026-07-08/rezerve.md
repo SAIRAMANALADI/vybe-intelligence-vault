@@ -1,13 +1,23 @@
 ---
-title: "ardaisker/rezerve"
-category: "Tooling"
-tech_stack: ["Python", "Natural Language Processing (NLP)", "Claude API", "SQLite (implied by serialization)", "Standard Library (stdlib)"]
+title: ardaisker/rezerve
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- Natural Language Processing (NLP)
+- Claude API
+- SQLite (implied by serialization)
+- Standard Library (stdlib)
 quality_score: 8
 rag_relevance: 7
-tags: ["reservation system", "natural language parsing", "Turkish language support", "concurrency-safe ledger", "offline fallback"]
-source: "https://github.com/ardaisker/rezerve"
-discovered_at: "2026-07-08T15:15:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- reservation system
+- natural language parsing
+- Turkish language support
+- concurrency-safe ledger
+- offline fallback
+source: https://github.com/ardaisker/rezerve
+discovered_at: '2026-07-08T15:15:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

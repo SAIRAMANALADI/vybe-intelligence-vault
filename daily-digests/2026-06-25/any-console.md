@@ -1,13 +1,29 @@
 ---
-title: "kt0319/any-console"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Vue 3", "Pinia", "Vite", "Node.js", "tmux", "xterm.js", "Docker", "systemd", "launchd"]
+title: kt0319/any-console
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- FastAPI
+- Vue 3
+- Pinia
+- Vite
+- Node.js
+- tmux
+- xterm.js
+- Docker
+- systemd
+- launchd
 quality_score: 9
 rag_relevance: 7
-tags: ["terminal access", "tmux integration", "Git UI", "self-hosted", "mobile development"]
-source: "https://github.com/kt0319/any-console"
-discovered_at: "2026-06-25T14:13:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- terminal access
+- tmux integration
+- Git UI
+- self-hosted
+- mobile development
+source: https://github.com/kt0319/any-console
+discovered_at: '2026-06-25T14:13:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

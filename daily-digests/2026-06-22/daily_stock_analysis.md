@@ -1,13 +1,49 @@
 ---
-title: "ZhuLinsen/daily_stock_analysis"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "GitHub Actions", "Docker", "YFinance", "AkShare", "Tushare", "Pytdx", "Baostock", "Gemini", "OpenAI", "DeepSeek", "Claude", "Ollama", "Anspire", "SerpAPI", "Tavily", "Bocha", "Brave Search", "MiniMax", "SearXNG", "SQLite", "Pandas", "NumPy", "Plotly", "Markdown", "Telegram Bot API", "Slack API", "Discord Webhook", "WeChat Work API", "Feishu API"]
+title: ZhuLinsen/daily_stock_analysis
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- FastAPI
+- GitHub Actions
+- Docker
+- YFinance
+- AkShare
+- Tushare
+- Pytdx
+- Baostock
+- Gemini
+- OpenAI
+- DeepSeek
+- Claude
+- Ollama
+- Anspire
+- SerpAPI
+- Tavily
+- Bocha
+- Brave Search
+- MiniMax
+- SearXNG
+- SQLite
+- Pandas
+- NumPy
+- Plotly
+- Markdown
+- Telegram Bot API
+- Slack API
+- Discord Webhook
+- WeChat Work API
+- Feishu API
 quality_score: 9
 rag_relevance: 7
-tags: ["stock analysis", "AI-driven insights", "automated reporting", "multi-market data", "real-time notifications"]
-source: "https://github.com/ZhuLinsen/daily_stock_analysis"
-discovered_at: "2026-06-22T15:48:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- stock analysis
+- AI-driven insights
+- automated reporting
+- multi-market data
+- real-time notifications
+source: https://github.com/ZhuLinsen/daily_stock_analysis
+discovered_at: '2026-06-22T15:48:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

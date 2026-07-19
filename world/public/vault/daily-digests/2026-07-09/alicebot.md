@@ -1,13 +1,29 @@
 ---
-title: "samrusani/AliceBot"
-category: "Orchestrator"
-tech_stack: ["Python 3.12+", "PostgreSQL", "SQLite", "MCP (Model Context Protocol)", "HTTP API", "CLI", "pgvector", "Full-text search (FTS)", "Node.js 20+", "pnpm", "Docker"]
+title: samrusani/AliceBot
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python 3.12+
+- PostgreSQL
+- SQLite
+- MCP (Model Context Protocol)
+- HTTP API
+- CLI
+- pgvector
+- Full-text search (FTS)
+- Node.js 20+
+- pnpm
+- Docker
 quality_score: 9
 rag_relevance: 9
-tags: ["memory continuity", "agent governance", "provenance tracking", "local-first", "MCP-native"]
-source: "https://github.com/samrusani/AliceBot"
-discovered_at: "2026-07-09T21:19:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory continuity
+- agent governance
+- provenance tracking
+- local-first
+- MCP-native
+source: https://github.com/samrusani/AliceBot
+discovered_at: '2026-07-09T21:19:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

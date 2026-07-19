@@ -1,13 +1,25 @@
 ---
-title: "ChiR24/Unreal_mcp"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "C++", "Unreal Engine", "Model Context Protocol (MCP)", "Node.js", "Docker", "Prometheus"]
+title: ChiR24/Unreal_mcp
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- C++
+- Unreal Engine
+- Model Context Protocol (MCP)
+- Node.js
+- Docker
+- Prometheus
 quality_score: 9
 rag_relevance: 8
-tags: ["Unreal Engine automation", "AI agent integration", "MCP server", "C++ plugin", "real-time editor control"]
-source: "https://github.com/ChiR24/Unreal_mcp"
-discovered_at: "2026-07-08T05:46:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Unreal Engine automation
+- AI agent integration
+- MCP server
+- C++ plugin
+- real-time editor control
+source: https://github.com/ChiR24/Unreal_mcp
+discovered_at: '2026-07-08T05:46:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

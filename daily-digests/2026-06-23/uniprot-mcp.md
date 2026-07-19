@@ -1,13 +1,26 @@
 ---
-title: "smaniches/uniprot-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "UniProt REST API", "SHA-256", "SLSA", "JSON-LD", "PyPI", "GitHub Actions"]
+title: smaniches/uniprot-mcp
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- UniProt REST API
+- SHA-256
+- SLSA
+- JSON-LD
+- PyPI
+- GitHub Actions
 quality_score: 9
 rag_relevance: 10
-tags: ["provenance", "auditability", "UniProt", "bioinformatics", "MCP server"]
-source: "https://github.com/smaniches/uniprot-mcp"
-discovered_at: "2026-06-23T19:14:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- provenance
+- auditability
+- UniProt
+- bioinformatics
+- MCP server
+source: https://github.com/smaniches/uniprot-mcp
+discovered_at: '2026-06-23T19:14:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

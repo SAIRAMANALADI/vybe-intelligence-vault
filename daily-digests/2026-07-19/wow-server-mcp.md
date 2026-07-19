@@ -1,13 +1,26 @@
 ---
-title: "timoinglin/wow-server-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "MySQL", "TrinityCore", "World of Warcraft private server", "RESTful API", "CLI tools"]
+title: timoinglin/wow-server-mcp
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- MySQL
+- TrinityCore
+- World of Warcraft private server
+- RESTful API
+- CLI tools
 quality_score: 9
 rag_relevance: 3
-tags: ["WoW server management", "AI automation", "MCP server", "private server tools", "database administration"]
-source: "https://github.com/timoinglin/wow-server-mcp"
-discovered_at: "2026-07-18T09:24:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- WoW server management
+- AI automation
+- MCP server
+- private server tools
+- database administration
+source: https://github.com/timoinglin/wow-server-mcp
+discovered_at: '2026-07-18T09:24:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

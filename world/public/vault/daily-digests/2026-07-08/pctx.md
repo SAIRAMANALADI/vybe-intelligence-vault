@@ -1,13 +1,25 @@
 ---
-title: "portofcontext/pctx"
-category: "Orchestrator"
-tech_stack: ["Rust", "Python", "TypeScript", "Deno", "Model Context Protocol (MCP)", "HTTP", "CLI"]
+title: portofcontext/pctx
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Rust
+- Python
+- TypeScript
+- Deno
+- Model Context Protocol (MCP)
+- HTTP
+- CLI
 quality_score: 9
 rag_relevance: 9
-tags: ["Code Mode", "MCP Server", "Agent Tools", "Token Efficiency", "Sandbox Execution"]
-source: "https://github.com/portofcontext/pctx"
-discovered_at: "2026-07-08T17:27:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Code Mode
+- MCP Server
+- Agent Tools
+- Token Efficiency
+- Sandbox Execution
+source: https://github.com/portofcontext/pctx
+discovered_at: '2026-07-08T17:27:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,30 @@
 ---
-title: "johnmikel/zeno-mobile-runner"
-category: "Tooling"
-tech_stack: ["Zig", "TypeScript", "Python", "JSON-RPC", "MCP", "ADB", "UI Automator", "XCTest", "XCUIAutomation", "React Native", "Flutter", "Expo"]
+title: johnmikel/zeno-mobile-runner
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Zig
+- TypeScript
+- Python
+- JSON-RPC
+- MCP
+- ADB
+- UI Automator
+- XCTest
+- XCUIAutomation
+- React Native
+- Flutter
+- Expo
 quality_score: 9
 rag_relevance: 8
-tags: ["mobile automation", "AI agents", "UI testing", "traceable evidence", "CI/CD"]
-source: "https://github.com/johnmikel/zeno-mobile-runner"
-discovered_at: "2026-06-25T11:40:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- mobile automation
+- AI agents
+- UI testing
+- traceable evidence
+- CI/CD
+source: https://github.com/johnmikel/zeno-mobile-runner
+discovered_at: '2026-06-25T11:40:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

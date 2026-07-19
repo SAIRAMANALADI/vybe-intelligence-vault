@@ -1,13 +1,23 @@
 ---
-title: "Toragonite/claude-code-orchestrator"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "VS Code Extension API", "Model Context Protocol (MCP)", "Node.js", "Claude Code CLI"]
+title: Toragonite/claude-code-orchestrator
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- VS Code Extension API
+- Model Context Protocol (MCP)
+- Node.js
+- Claude Code CLI
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent orchestration", "parallel task dispatch", "Claude Code integration", "MCP server", "usage tracking"]
-source: "https://github.com/Toragonite/claude-code-orchestrator"
-discovered_at: "2026-07-08T05:46:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent orchestration
+- parallel task dispatch
+- Claude Code integration
+- MCP server
+- usage tracking
+source: https://github.com/Toragonite/claude-code-orchestrator
+discovered_at: '2026-07-08T05:46:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

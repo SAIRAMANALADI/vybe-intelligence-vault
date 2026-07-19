@@ -1,13 +1,30 @@
 ---
-title: "Contentrain/ai"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Git", "JSON", "Markdown", "React", "Vue", "Next.js", "Astro", "SvelteKit", "Nuxt"]
+title: Contentrain/ai
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Git
+- JSON
+- Markdown
+- React
+- Vue
+- Next.js
+- Astro
+- SvelteKit
+- Nuxt
 quality_score: 9
 rag_relevance: 8
-tags: ["content governance", "Git-native", "AI agent integration", "structured content", "i18n"]
-source: "https://github.com/Contentrain/ai"
-discovered_at: "2026-07-09T11:52:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- content governance
+- Git-native
+- AI agent integration
+- structured content
+- i18n
+source: https://github.com/Contentrain/ai
+discovered_at: '2026-07-09T11:52:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

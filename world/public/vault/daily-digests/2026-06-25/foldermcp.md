@@ -1,13 +1,27 @@
 ---
-title: "gtm-k/foldermcp"
-category: "Orchestrator"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "Python", "TypeScript/JavaScript", "OpenAPI", "Docker", "Cloud Run", "SQLite", "Prometheus"]
+title: gtm-k/foldermcp
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- Python
+- TypeScript/JavaScript
+- OpenAPI
+- Docker
+- Cloud Run
+- SQLite
+- Prometheus
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP server", "zero-config tools", "document processing", "sandboxed execution", "NAS compatibility"]
-source: "https://github.com/gtm-k/foldermcp"
-discovered_at: "2026-06-25T14:19:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- zero-config tools
+- document processing
+- sandboxed execution
+- NAS compatibility
+source: https://github.com/gtm-k/foldermcp
+discovered_at: '2026-06-25T14:19:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,41 @@
 ---
-title: "bonigarcia/context-engineering"
-category: "Tooling"
-tech_stack: ["Python", "Java", "JavaScript", "Jupyter Notebooks", "LangChain", "LlamaIndex", "Haystack", "DSPy", "RAG", "MCP (Model Context Protocol)", "Mem0", "Cognee", "LangGraph", "CrewAI", "DeepAgents", "Langfuse", "LangSmith", "LiteLLM", "Pydantic", "Ollama", "OpenAI API", "Anthropic API", "Google Gemini API"]
+title: bonigarcia/context-engineering
+category: daily-digests/2026-07-10
+tech_stack:
+- Python
+- Java
+- JavaScript
+- Jupyter Notebooks
+- LangChain
+- LlamaIndex
+- Haystack
+- DSPy
+- RAG
+- MCP (Model Context Protocol)
+- Mem0
+- Cognee
+- LangGraph
+- CrewAI
+- DeepAgents
+- Langfuse
+- LangSmith
+- LiteLLM
+- Pydantic
+- Ollama
+- OpenAI API
+- Anthropic API
+- Google Gemini API
 quality_score: 9
 rag_relevance: 10
-tags: ["context engineering", "RAG", "AI agent orchestration", "prompt engineering", "LLM context management"]
-source: "https://github.com/bonigarcia/context-engineering"
-discovered_at: "2026-07-10T06:16:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- context engineering
+- RAG
+- AI agent orchestration
+- prompt engineering
+- LLM context management
+source: https://github.com/bonigarcia/context-engineering
+discovered_at: '2026-07-10T06:16:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

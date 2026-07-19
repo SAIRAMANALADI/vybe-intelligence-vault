@@ -1,13 +1,23 @@
 ---
-title: "Unfathomable-siren38/mcp-terminal-server"
-category: "Tooling"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "xterm.js", "PTY (Pseudo Terminal)", "Windows OS"]
+title: Unfathomable-siren38/mcp-terminal-server
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- xterm.js
+- PTY (Pseudo Terminal)
+- Windows OS
 quality_score: 7
 rag_relevance: 8
-tags: ["MCP server", "terminal integration", "Claude Code", "xterm.js", "multi-session PTY"]
-source: "https://github.com/Unfathomable-siren38/mcp-terminal-server"
-discovered_at: "2026-06-23T02:43:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- terminal integration
+- Claude Code
+- xterm.js
+- multi-session PTY
+source: https://github.com/Unfathomable-siren38/mcp-terminal-server
+discovered_at: '2026-06-23T02:43:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

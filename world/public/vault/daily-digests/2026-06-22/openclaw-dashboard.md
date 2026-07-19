@@ -1,13 +1,23 @@
 ---
-title: "uclukDX/openclaw-dashboard"
-category: "UI Component"
-tech_stack: ["React", "TypeScript", "WebSockets", "Speech-to-Text API", "WhatsApp API"]
+title: uclukDX/openclaw-dashboard
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- React
+- TypeScript
+- WebSockets
+- Speech-to-Text API
+- WhatsApp API
 quality_score: 7
 rag_relevance: 6
-tags: ["visual control", "AI gateway management", "speech-to-text", "real-time dashboard", "WhatsApp integration"]
-source: "https://github.com/uclukDX/openclaw-dashboard"
-discovered_at: "2026-06-22T18:55:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- visual control
+- AI gateway management
+- speech-to-text
+- real-time dashboard
+- WhatsApp integration
+source: https://github.com/uclukDX/openclaw-dashboard
+discovered_at: '2026-06-22T18:55:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

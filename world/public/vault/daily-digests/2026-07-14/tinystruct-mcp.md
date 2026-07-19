@@ -1,13 +1,23 @@
 ---
-title: "tinystruct/tinystruct-mcp"
-category: "Tooling"
-tech_stack: ["Java", "Maven", "Model Context Protocol (MCP)", "Git", "GitHub API"]
+title: tinystruct/tinystruct-mcp
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- Java
+- Maven
+- Model Context Protocol (MCP)
+- Git
+- GitHub API
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP server", "Java tooling", "Git integration", "File system management", "AI agent tools"]
-source: "https://github.com/tinystruct/tinystruct-mcp"
-discovered_at: "2026-07-11T07:52:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Java tooling
+- Git integration
+- File system management
+- AI agent tools
+source: https://github.com/tinystruct/tinystruct-mcp
+discovered_at: '2026-07-11T07:52:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

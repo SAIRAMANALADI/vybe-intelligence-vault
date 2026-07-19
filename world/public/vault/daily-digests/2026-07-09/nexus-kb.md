@@ -1,13 +1,31 @@
 ---
-title: "KhaiTrang1995/nexus-kb"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "PostgreSQL", "Qdrant", "SQLAlchemy", "Alembic", "Pytest", "Sentence Transformers", "Markitdown", "React", "Vite", "Tailwind CSS", "Docker"]
+title: KhaiTrang1995/nexus-kb
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- FastAPI
+- PostgreSQL
+- Qdrant
+- SQLAlchemy
+- Alembic
+- Pytest
+- Sentence Transformers
+- Markitdown
+- React
+- Vite
+- Tailwind CSS
+- Docker
 quality_score: 9
 rag_relevance: 10
-tags: ["RAG", "Knowledge Graph", "Enterprise AI", "Document Ingestion", "Hybrid Search"]
-source: "https://github.com/KhaiTrang1995/nexus-kb"
-discovered_at: "2026-07-09T08:25:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RAG
+- Knowledge Graph
+- Enterprise AI
+- Document Ingestion
+- Hybrid Search
+source: https://github.com/KhaiTrang1995/nexus-kb
+discovered_at: '2026-07-09T08:25:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

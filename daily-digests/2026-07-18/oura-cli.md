@@ -1,13 +1,25 @@
 ---
-title: "drakulavich/oura-cli"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun Runtime", "SQLite", "citty (CLI framework)", "chalk (terminal styling)", "JQ (for JSON processing)", "OpenClaw (tool registry compatibility)"]
+title: drakulavich/oura-cli
+category: daily-digests/2026-07-18
+tech_stack:
+- TypeScript
+- Bun Runtime
+- SQLite
+- citty (CLI framework)
+- chalk (terminal styling)
+- JQ (for JSON processing)
+- OpenClaw (tool registry compatibility)
 quality_score: 9
 rag_relevance: 7
-tags: ["health data", "Oura Ring", "offline-first", "terminal analytics", "API client"]
-source: "https://github.com/drakulavich/oura-cli"
-discovered_at: "2026-07-18T09:23:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- health data
+- Oura Ring
+- offline-first
+- terminal analytics
+- API client
+source: https://github.com/drakulavich/oura-cli
+discovered_at: '2026-07-18T09:23:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

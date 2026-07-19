@@ -1,13 +1,22 @@
 ---
-title: "ermermermermidk/mcp-ai-memory"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Electron (implied by cross-platform installers)", "Node.js"]
+title: ermermermermidk/mcp-ai-memory
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Electron (implied by cross-platform installers)
+- Node.js
 quality_score: 6
 rag_relevance: 8
-tags: ["semantic memory", "MCP server", "context retention", "AI memory management", "cross-platform"]
-source: "https://github.com/ermermermermidk/mcp-ai-memory"
-discovered_at: "2026-06-24T02:47:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- semantic memory
+- MCP server
+- context retention
+- AI memory management
+- cross-platform
+source: https://github.com/ermermermermidk/mcp-ai-memory
+discovered_at: '2026-06-24T02:47:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

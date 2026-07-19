@@ -1,13 +1,23 @@
 ---
-title: "kelvinzer0/visibox"
-category: "Tooling"
-tech_stack: ["C", "Bash", "JSON", "PTY (Pseudo Terminal)", "POSIX Shell"]
+title: kelvinzer0/visibox
+category: daily-digests/2026-06-25
+tech_stack:
+- C
+- Bash
+- JSON
+- PTY (Pseudo Terminal)
+- POSIX Shell
 quality_score: 5
 rag_relevance: 7
-tags: ["shell", "bash", "ai-agent", "command-execution", "pty"]
-source: "https://github.com/kelvinzer0/visibox"
-discovered_at: "2026-06-25T05:00:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- shell
+- bash
+- ai-agent
+- command-execution
+- pty
+source: https://github.com/kelvinzer0/visibox
+discovered_at: '2026-06-25T05:00:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

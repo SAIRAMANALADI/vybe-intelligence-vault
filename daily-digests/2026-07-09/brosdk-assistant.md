@@ -1,13 +1,24 @@
 ---
-title: "browsersdk/brosdk-assistant"
-category: "Agent Framework"
-tech_stack: ["Rust", "WXT", "React", "Chrome Extension API", "Native Messaging", "TypeScript"]
+title: browsersdk/brosdk-assistant
+category: daily-digests/2026-07-09
+tech_stack:
+- Rust
+- WXT
+- React
+- Chrome Extension API
+- Native Messaging
+- TypeScript
 quality_score: 7
 rag_relevance: 8
-tags: ["Chrome extension", "Rust native host", "MCP integration", "AI side-panel", "workspace access"]
-source: "https://github.com/browsersdk/brosdk-assistant"
-discovered_at: "2026-07-09T08:24:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Chrome extension
+- Rust native host
+- MCP integration
+- AI side-panel
+- workspace access
+source: https://github.com/browsersdk/brosdk-assistant
+discovered_at: '2026-07-09T08:24:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "haya10hikawa-hub/workunitOS"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Cloudflare Workers", "REST APIs", "SHA-256 hashing", "Tenant isolation", "Regression testing"]
+title: haya10hikawa-hub/workunitOS
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- Cloudflare Workers
+- REST APIs
+- SHA-256 hashing
+- Tenant isolation
+- Regression testing
 quality_score: 8
 rag_relevance: 9
-tags: ["work orchestration", "execution safety", "AI work OS", "dry-run verification", "approval gating"]
-source: "https://github.com/haya10hikawa-hub/workunitOS"
-discovered_at: "2026-07-08T10:59:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- work orchestration
+- execution safety
+- AI work OS
+- dry-run verification
+- approval gating
+source: https://github.com/haya10hikawa-hub/workunitOS
+discovered_at: '2026-07-08T10:59:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

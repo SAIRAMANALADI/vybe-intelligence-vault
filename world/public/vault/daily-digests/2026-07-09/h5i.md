@@ -1,13 +1,24 @@
 ---
-title: "h5i-dev/h5i"
-category: "Orchestrator"
-tech_stack: ["Rust", "Git", "CLI", "Sandboxed Environments", "Token Compression", "Multi-Agent Orchestration"]
+title: h5i-dev/h5i
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Rust
+- Git
+- CLI
+- Sandboxed Environments
+- Token Compression
+- Multi-Agent Orchestration
 quality_score: 9
 rag_relevance: 8
-tags: ["AI coding agents", "auditable workspaces", "multi-agent orchestration", "sandboxed environments", "Git integration"]
-source: "https://github.com/h5i-dev/h5i"
-discovered_at: "2026-07-09T19:31:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding agents
+- auditable workspaces
+- multi-agent orchestration
+- sandboxed environments
+- Git integration
+source: https://github.com/h5i-dev/h5i
+discovered_at: '2026-07-09T19:31:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

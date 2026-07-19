@@ -1,13 +1,23 @@
 ---
-title: "Russiateleworking29/OneClickLM"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Windows", "Node.js", "NPX"]
+title: Russiateleworking29/OneClickLM
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Windows
+- Node.js
+- NPX
 quality_score: 7
 rag_relevance: 7
-tags: ["MCP server", "zero-config", "NotebookLM", "Windows automation", "AI model integration"]
-source: "https://github.com/Russiateleworking29/OneClickLM"
-discovered_at: "2026-07-08T02:08:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- zero-config
+- NotebookLM
+- Windows automation
+- AI model integration
+source: https://github.com/Russiateleworking29/OneClickLM
+discovered_at: '2026-07-08T02:08:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "Tr1ckyMag1ca1/mcp-media-engine"
-category: "Tooling"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "Node.js", "REST API", "Media Generation Models"]
+title: Tr1ckyMag1ca1/mcp-media-engine
+category: daily-digests/2026-07-14
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- Node.js
+- REST API
+- Media Generation Models
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP server", "media generation", "AI workflow", "content automation", "multi-modal"]
-source: "https://github.com/Tr1ckyMag1ca1/mcp-media-engine"
-discovered_at: "2026-07-11T21:47:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- media generation
+- AI workflow
+- content automation
+- multi-modal
+source: https://github.com/Tr1ckyMag1ca1/mcp-media-engine
+discovered_at: '2026-07-11T21:47:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

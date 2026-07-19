@@ -1,13 +1,31 @@
 ---
-title: "lel1guy/hermes-homelab"
-category: "Orchestrator"
-tech_stack: ["Hermes Agent", "DeepSeek V4 Pro", "PostgreSQL 18", "Honcho (semantic memory)", "Python 3.11", "Bash", "systemd", "cron", "Obsidian", "Syncthing", "Discord API", "RSS/Atom feeds", "Fedora Linux 44"]
+title: lel1guy/hermes-homelab
+category: daily-digests/2026-07-09
+tech_stack:
+- Hermes Agent
+- DeepSeek V4 Pro
+- PostgreSQL 18
+- Honcho (semantic memory)
+- Python 3.11
+- Bash
+- systemd
+- cron
+- Obsidian
+- Syncthing
+- Discord API
+- RSS/Atom feeds
+- Fedora Linux 44
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent orchestration", "knowledge management", "automated pipelines", "Discord integration", "homelab reference"]
-source: "https://github.com/lel1guy/hermes-homelab"
-discovered_at: "2026-07-09T21:18:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent orchestration
+- knowledge management
+- automated pipelines
+- Discord integration
+- homelab reference
+source: https://github.com/lel1guy/hermes-homelab
+discovered_at: '2026-07-09T21:18:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

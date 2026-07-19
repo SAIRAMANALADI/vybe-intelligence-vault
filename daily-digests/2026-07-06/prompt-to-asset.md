@@ -1,13 +1,23 @@
 ---
-title: "lightsomenessvandyke9074/prompt-to-asset"
-category: "Tooling"
-tech_stack: ["Python", "Electron", "AI Image Generation Models", "CLI", "Windows Desktop App"]
+title: lightsomenessvandyke9074/prompt-to-asset
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- Electron
+- AI Image Generation Models
+- CLI
+- Windows Desktop App
 quality_score: 5
 rag_relevance: 4
-tags: ["image generation", "design automation", "AI tools", "asset creation", "text-to-image"]
-source: "https://github.com/lightsomenessvandyke9074/prompt-to-asset"
-discovered_at: "2026-07-06T19:49:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- image generation
+- design automation
+- AI tools
+- asset creation
+- text-to-image
+source: https://github.com/lightsomenessvandyke9074/prompt-to-asset
+discovered_at: '2026-07-06T19:49:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

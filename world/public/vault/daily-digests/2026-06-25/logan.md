@@ -1,13 +1,30 @@
 ---
-title: "SolidKeyAB/logan"
-category: "Tooling"
-tech_stack: ["Electron", "TypeScript", "Node.js", "React", "MCP (Model Context Protocol)", "ripgrep", "SQLite", "node-pty", "better-sqlite3", "SSH", "Serial communication", "Datadog API"]
+title: SolidKeyAB/logan
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Electron
+- TypeScript
+- Node.js
+- React
+- MCP (Model Context Protocol)
+- ripgrep
+- SQLite
+- node-pty
+- better-sqlite3
+- SSH
+- Serial communication
+- Datadog API
 quality_score: 9
 rag_relevance: 8
-tags: ["log analysis", "AI agent integration", "virtual scrolling", "live log streaming", "desktop application"]
-source: "https://github.com/SolidKeyAB/logan"
-discovered_at: "2026-06-25T14:14:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- log analysis
+- AI agent integration
+- virtual scrolling
+- live log streaming
+- desktop application
+source: https://github.com/SolidKeyAB/logan
+discovered_at: '2026-06-25T14:14:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

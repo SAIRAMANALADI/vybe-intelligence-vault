@@ -1,13 +1,23 @@
 ---
-title: "barlevalon/skills"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "npm", "GitHub API", "CLI tools"]
+title: barlevalon/skills
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- JavaScript
+- Node.js
+- npm
+- GitHub API
+- CLI tools
 quality_score: 9
 rag_relevance: 8
-tags: ["agent workflows", "skill management", "AI engineering", "bootstrap", "modular skills"]
-source: "https://github.com/barlevalon/skills"
-discovered_at: "2026-07-09T17:17:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent workflows
+- skill management
+- AI engineering
+- bootstrap
+- modular skills
+source: https://github.com/barlevalon/skills
+discovered_at: '2026-07-09T17:17:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

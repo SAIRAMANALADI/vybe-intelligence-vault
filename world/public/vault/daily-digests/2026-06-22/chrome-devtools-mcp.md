@@ -1,13 +1,23 @@
 ---
-title: "bklamheem/chrome-devtools-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Chrome DevTools Protocol", "Puppeteer", "Electron (implied by desktop app)", "JavaScript/TypeScript (frontend) "]
+title: bklamheem/chrome-devtools-mcp
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- Chrome DevTools Protocol
+- Puppeteer
+- Electron (implied by desktop app)
+- 'JavaScript/TypeScript (frontend) '
 quality_score: 6
 rag_relevance: 7
-tags: ["debugging", "browser automation", "Chrome DevTools", "Puppeteer", "AI agent debugging"]
-source: "https://github.com/bklamheem/chrome-devtools-mcp"
-discovered_at: "2026-06-22T23:24:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- debugging
+- browser automation
+- Chrome DevTools
+- Puppeteer
+- AI agent debugging
+source: https://github.com/bklamheem/chrome-devtools-mcp
+discovered_at: '2026-06-22T23:24:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

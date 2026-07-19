@@ -1,13 +1,22 @@
 ---
-title: "Andrianagnostic63/markapatent-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Windows API", "HTTP/REST"]
+title: Andrianagnostic63/markapatent-mcp
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Windows API
+- HTTP/REST
 quality_score: 7
 rag_relevance: 6
-tags: ["IP data access", "MCP server", "T\u00dcRKPATENT integration", "patent search", "trademark lookup"]
-source: "https://github.com/Andrianagnostic63/markapatent-mcp"
-discovered_at: "2026-06-23T02:49:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- IP data access
+- MCP server
+- TÜRKPATENT integration
+- patent search
+- trademark lookup
+source: https://github.com/Andrianagnostic63/markapatent-mcp
+discovered_at: '2026-06-23T02:49:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

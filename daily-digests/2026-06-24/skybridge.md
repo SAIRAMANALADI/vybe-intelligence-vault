@@ -1,13 +1,25 @@
 ---
-title: "alpic-ai/skybridge"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "React", "tRPC", "Model Context Protocol (MCP)", "Node.js", "CLI", "React Query"]
+title: alpic-ai/skybridge
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- React
+- tRPC
+- Model Context Protocol (MCP)
+- Node.js
+- CLI
+- React Query
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "React framework", "AI UIs", "type-safe", "full-stack"]
-source: "https://github.com/alpic-ai/skybridge"
-discovered_at: "2026-06-24T20:50:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- React framework
+- AI UIs
+- type-safe
+- full-stack
+source: https://github.com/alpic-ai/skybridge
+discovered_at: '2026-06-24T20:50:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

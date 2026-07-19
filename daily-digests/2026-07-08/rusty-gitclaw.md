@@ -1,13 +1,23 @@
 ---
-title: "yeab405/rusty-gitclaw"
-category: "Tooling"
-tech_stack: ["Rust", "Git", "AI Model Integration", "Command Line Interface", "Windows API"]
+title: yeab405/rusty-gitclaw
+category: daily-digests/2026-07-08
+tech_stack:
+- Rust
+- Git
+- AI Model Integration
+- Command Line Interface
+- Windows API
 quality_score: 7
 rag_relevance: 5
-tags: ["Git automation", "AI-assisted development", "Rust tooling", "Windows CLI", "voice control"]
-source: "https://github.com/yeab405/rusty-gitclaw"
-discovered_at: "2026-07-08T02:07:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Git automation
+- AI-assisted development
+- Rust tooling
+- Windows CLI
+- voice control
+source: https://github.com/yeab405/rusty-gitclaw
+discovered_at: '2026-07-08T02:07:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

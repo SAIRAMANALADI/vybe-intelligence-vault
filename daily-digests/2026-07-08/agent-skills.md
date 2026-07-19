@@ -1,13 +1,22 @@
 ---
-title: "Marshanda14816/agent-skills"
-category: "Tooling"
-tech_stack: ["Markdown", "React Native", "AI Assistants (Claude Code, Cursor)", "Native Development (Swift, Kotlin, C++)"]
+title: Marshanda14816/agent-skills
+category: daily-digests/2026-07-08
+tech_stack:
+- Markdown
+- React Native
+- AI Assistants (Claude Code, Cursor)
+- Native Development (Swift, Kotlin, C++)
 quality_score: 6
 rag_relevance: 7
-tags: ["AI-assisted development", "React Native", "modular guides", "native modules", "workflow automation"]
-source: "https://github.com/Marshanda14816/agent-skills"
-discovered_at: "2026-07-08T02:06:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-assisted development
+- React Native
+- modular guides
+- native modules
+- workflow automation
+source: https://github.com/Marshanda14816/agent-skills
+discovered_at: '2026-07-08T02:06:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

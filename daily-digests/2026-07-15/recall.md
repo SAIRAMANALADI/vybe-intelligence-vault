@@ -1,13 +1,26 @@
 ---
-title: "edheltzel/Recall"
-category: "Tooling"
-tech_stack: ["TypeScript", "SQLite", "Bun", "Model Context Protocol (MCP)", "FTS5 (Full-Text Search)", "Embeddings (Ollama or sqlite-vec)", "Node.js", "CLI Tools"]
+title: edheltzel/Recall
+category: daily-digests/2026-07-15
+tech_stack:
+- TypeScript
+- SQLite
+- Bun
+- Model Context Protocol (MCP)
+- FTS5 (Full-Text Search)
+- Embeddings (Ollama or sqlite-vec)
+- Node.js
+- CLI Tools
 quality_score: 9
 rag_relevance: 10
-tags: ["persistent memory", "coding agents", "SQLite", "MCP integration", "hybrid search"]
-source: "https://github.com/edheltzel/Recall"
-discovered_at: "2026-07-15T18:06:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- coding agents
+- SQLite
+- MCP integration
+- hybrid search
+source: https://github.com/edheltzel/Recall
+discovered_at: '2026-07-15T18:06:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

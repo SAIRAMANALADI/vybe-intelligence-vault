@@ -1,13 +1,25 @@
 ---
-title: "cynative/cynative"
-category: "Agent Framework"
-tech_stack: ["Go", "Bifrost SDK", "LLM Providers (OpenAI, Anthropic, Azure, Bedrock, Ollama, etc.)", "GitHub/GitLab APIs", "AWS/GCP/Azure SDKs", "Sandboxed Execution", "YAML Configuration"]
+title: cynative/cynative
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Go
+- Bifrost SDK
+- LLM Providers (OpenAI, Anthropic, Azure, Bedrock, Ollama, etc.)
+- GitHub/GitLab APIs
+- AWS/GCP/Azure SDKs
+- Sandboxed Execution
+- YAML Configuration
 quality_score: 9
 rag_relevance: 9
-tags: ["Security Research", "Infrastructure Querying", "Sandboxed AI", "Cloud Auditing", "Read-Only Agent"]
-source: "https://github.com/cynative/cynative"
-discovered_at: "2026-07-07T20:50:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Security Research
+- Infrastructure Querying
+- Sandboxed AI
+- Cloud Auditing
+- Read-Only Agent
+source: https://github.com/cynative/cynative
+discovered_at: '2026-07-07T20:50:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

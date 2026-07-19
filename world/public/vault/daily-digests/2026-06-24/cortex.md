@@ -1,13 +1,28 @@
 ---
-title: "jessekemp1/cortex"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "BM25", "Embeddings", "Redis", "FastAPI", "xarray", "Claude Code", "GPT-4", "Gemini"]
+title: jessekemp1/cortex
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- BM25
+- Embeddings
+- Redis
+- FastAPI
+- xarray
+- Claude Code
+- GPT-4
+- Gemini
 quality_score: 9
 rag_relevance: 9
-tags: ["memory persistence", "LLM agent infrastructure", "anti-pattern detection", "task orchestration", "developer workflow"]
-source: "https://github.com/jessekemp1/cortex"
-discovered_at: "2026-06-24T16:22:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory persistence
+- LLM agent infrastructure
+- anti-pattern detection
+- task orchestration
+- developer workflow
+source: https://github.com/jessekemp1/cortex
+discovered_at: '2026-06-24T16:22:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

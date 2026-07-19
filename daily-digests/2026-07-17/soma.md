@@ -1,13 +1,30 @@
 ---
-title: "jmagar/soma"
-category: "Orchestrator"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "REST API", "Streamable HTTP", "CLI", "OpenAPI", "Docker", "WASM", "Python", "JavaScript/TypeScript", "OAuth", "Observability (Metrics/Tracing)"]
+title: jmagar/soma
+category: daily-digests/2026-07-17
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- REST API
+- Streamable HTTP
+- CLI
+- OpenAPI
+- Docker
+- WASM
+- Python
+- JavaScript/TypeScript
+- OAuth
+- Observability (Metrics/Tracing)
 quality_score: 9
 rag_relevance: 9
-tags: ["RMCP runtime", "agent capabilities", "provider management", "multi-surface projection", "authentication"]
-source: "https://github.com/jmagar/soma"
-discovered_at: "2026-07-15T02:12:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RMCP runtime
+- agent capabilities
+- provider management
+- multi-surface projection
+- authentication
+source: https://github.com/jmagar/soma
+discovered_at: '2026-07-15T02:12:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

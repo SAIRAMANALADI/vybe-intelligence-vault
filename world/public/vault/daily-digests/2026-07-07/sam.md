@@ -1,13 +1,33 @@
 ---
-title: "richhabits/sam"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "React", "Vite", "Express", "Ollama", "Groq", "Cerebras", "NVIDIA", "Gemini", "Mistral", "GitHub Models", "Semantic Embeddings", "SSE (Server-Sent Events)", "Tailwind CSS"]
+title: richhabits/sam
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- Vite
+- Express
+- Ollama
+- Groq
+- Cerebras
+- NVIDIA
+- Gemini
+- Mistral
+- GitHub Models
+- Semantic Embeddings
+- SSE (Server-Sent Events)
+- Tailwind CSS
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agents", "local-first", "autonomous tasks", "multi-model", "privacy-focused"]
-source: "https://github.com/richhabits/sam"
-discovered_at: "2026-07-07T13:16:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- local-first
+- autonomous tasks
+- multi-model
+- privacy-focused
+source: https://github.com/richhabits/sam
+discovered_at: '2026-07-07T13:16:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

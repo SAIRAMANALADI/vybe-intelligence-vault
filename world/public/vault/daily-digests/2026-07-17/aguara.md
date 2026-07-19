@@ -1,13 +1,22 @@
 ---
-title: "salasi1204/aguara"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Security Scanning", "Agent Frameworks"]
+title: salasi1204/aguara
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Security Scanning
+- Agent Frameworks
 quality_score: 3
 rag_relevance: 8
-tags: ["security", "prompt injection", "MCP", "supply-chain threats", "AI agent validation"]
-source: "https://github.com/salasi1204/aguara"
-discovered_at: "2026-07-12T23:52:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- security
+- prompt injection
+- MCP
+- supply-chain threats
+- AI agent validation
+source: https://github.com/salasi1204/aguara
+discovered_at: '2026-07-12T23:52:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

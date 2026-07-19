@@ -1,13 +1,22 @@
 ---
-title: "Smallsamey/mcp-verified-repo-memory"
-category: "Tooling"
-tech_stack: ["TypeScript", "Windows", "Electron", "Local Encryption"]
+title: Smallsamey/mcp-verified-repo-memory
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- TypeScript
+- Windows
+- Electron
+- Local Encryption
 quality_score: 6
 rag_relevance: 7
-tags: ["memory management", "AI agents", "data verification", "Windows tool", "TTL"]
-source: "https://github.com/Smallsamey/mcp-verified-repo-memory"
-discovered_at: "2026-07-12T15:58:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory management
+- AI agents
+- data verification
+- Windows tool
+- TTL
+source: https://github.com/Smallsamey/mcp-verified-repo-memory
+discovered_at: '2026-07-12T15:58:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

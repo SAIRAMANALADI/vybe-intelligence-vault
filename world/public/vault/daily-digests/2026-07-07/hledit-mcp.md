@@ -1,13 +1,24 @@
 ---
-title: "dabito/hledit-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Go", "MCP (Model Context Protocol)", "@modelcontextprotocol/sdk", "esbuild"]
+title: dabito/hledit-mcp
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- Go
+- MCP (Model Context Protocol)
+- '@modelcontextprotocol/sdk'
+- esbuild
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP server", "hash-anchored edits", "stale-write prevention", "file editing", "AI agent tools"]
-source: "https://github.com/dabito/hledit-mcp"
-discovered_at: "2026-07-07T06:42:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- hash-anchored edits
+- stale-write prevention
+- file editing
+- AI agent tools
+source: https://github.com/dabito/hledit-mcp
+discovered_at: '2026-07-07T06:42:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

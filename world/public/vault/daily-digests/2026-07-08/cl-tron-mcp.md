@@ -1,13 +1,26 @@
 ---
-title: "Alba-Intelligence/cl-tron-mcp"
-category: "Tooling"
-tech_stack: ["Common Lisp", "Swank", "SBCL", "ECL", "Model Context Protocol (MCP)", "JSON-RPC", "Quicklisp", "Nix (optional)"]
+title: Alba-Intelligence/cl-tron-mcp
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Common Lisp
+- Swank
+- SBCL
+- ECL
+- Model Context Protocol (MCP)
+- JSON-RPC
+- Quicklisp
+- Nix (optional)
 quality_score: 9
 rag_relevance: 8
-tags: ["debugging", "hot-reload", "Common Lisp", "MCP server", "introspection"]
-source: "https://github.com/Alba-Intelligence/cl-tron-mcp"
-discovered_at: "2026-07-08T17:25:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- debugging
+- hot-reload
+- Common Lisp
+- MCP server
+- introspection
+source: https://github.com/Alba-Intelligence/cl-tron-mcp
+discovered_at: '2026-07-08T17:25:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

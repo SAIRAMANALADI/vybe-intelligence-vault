@@ -1,13 +1,25 @@
 ---
-title: "kyleit/AI-Agent-Workflow"
-category: "Orchestrator"
-tech_stack: ["Python", "CLI", "Markdown", "Git", "VS Code Extension", "JSON", "DAG Task Planning"]
+title: kyleit/AI-Agent-Workflow
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- CLI
+- Markdown
+- Git
+- VS Code Extension
+- JSON
+- DAG Task Planning
 quality_score: 9
 rag_relevance: 8
-tags: ["AI SDLC Orchestration", "Agent Workflow", "Policy-Driven Development", "Feature-Centric Tracking", "Quality Gates"]
-source: "https://github.com/kyleit/AI-Agent-Workflow"
-discovered_at: "2026-07-09T00:05:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI SDLC Orchestration
+- Agent Workflow
+- Policy-Driven Development
+- Feature-Centric Tracking
+- Quality Gates
+source: https://github.com/kyleit/AI-Agent-Workflow
+discovered_at: '2026-07-09T00:05:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

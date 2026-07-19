@@ -1,13 +1,22 @@
 ---
-title: "Kcao3034/markdown-editor-mcp-server"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Markdown", "YAML"]
+title: Kcao3034/markdown-editor-mcp-server
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Markdown
+- YAML
 quality_score: 6
 rag_relevance: 5
-tags: ["Markdown editing", "MCP server", "structured editing", "YAML frontmatter", "document manipulation"]
-source: "https://github.com/Kcao3034/markdown-editor-mcp-server"
-discovered_at: "2026-06-25T05:06:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Markdown editing
+- MCP server
+- structured editing
+- YAML frontmatter
+- document manipulation
+source: https://github.com/Kcao3034/markdown-editor-mcp-server
+discovered_at: '2026-06-25T05:06:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

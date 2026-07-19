@@ -1,13 +1,21 @@
 ---
-title: "eventide-project/agent-norms-language"
-category: "Tooling"
-tech_stack: ["Shell", "Markdown", "Git Subtree"]
+title: eventide-project/agent-norms-language
+category: daily-digests/2026-07-19
+tech_stack:
+- Shell
+- Markdown
+- Git Subtree
 quality_score: 7
 rag_relevance: 6
-tags: ["language design", "precise terminology", "software norms", "concept naming", "design principles"]
-source: "https://github.com/eventide-project/agent-norms-language"
-discovered_at: "2026-07-18T15:55:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- language design
+- precise terminology
+- software norms
+- concept naming
+- design principles
+source: https://github.com/eventide-project/agent-norms-language
+discovered_at: '2026-07-18T15:55:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

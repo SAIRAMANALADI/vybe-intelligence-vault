@@ -1,13 +1,28 @@
 ---
-title: "TabularisDB/tabularis"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "React", "Monaco Editor", "SQLite", "PostgreSQL", "MySQL/MariaDB", "Ollama (AI models)", "JSON-RPC", "Node.js"]
+title: TabularisDB/tabularis
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Electron
+- React
+- Monaco Editor
+- SQLite
+- PostgreSQL
+- MySQL/MariaDB
+- Ollama (AI models)
+- JSON-RPC
+- Node.js
 quality_score: 9
 rag_relevance: 7
-tags: ["database client", "SQL notebooks", "AI integration", "visual explain", "plugin system"]
-source: "https://github.com/TabularisDB/tabularis"
-discovered_at: "2026-06-23T08:55:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- database client
+- SQL notebooks
+- AI integration
+- visual explain
+- plugin system
+source: https://github.com/TabularisDB/tabularis
+discovered_at: '2026-06-23T08:55:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

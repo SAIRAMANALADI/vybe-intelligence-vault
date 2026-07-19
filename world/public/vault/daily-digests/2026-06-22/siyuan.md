@@ -1,13 +1,27 @@
 ---
-title: "siyuan-note/siyuan"
-category: "Tooling"
-tech_stack: ["TypeScript", "Golang", "Electron", "Docker", "SQLite", "Markdown", "OCR (Tesseract)", "WebAssembly", "JavaScript/CSS Snippets"]
+title: siyuan-note/siyuan
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Golang
+- Electron
+- Docker
+- SQLite
+- Markdown
+- OCR (Tesseract)
+- WebAssembly
+- JavaScript/CSS Snippets
 quality_score: 9
 rag_relevance: 7
-tags: ["knowledge management", "note-taking", "block-level references", "self-hosted", "privacy-focused"]
-source: "https://github.com/siyuan-note/siyuan"
-discovered_at: "2026-06-22T15:48:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- knowledge management
+- note-taking
+- block-level references
+- self-hosted
+- privacy-focused
+source: https://github.com/siyuan-note/siyuan
+discovered_at: '2026-06-22T15:48:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

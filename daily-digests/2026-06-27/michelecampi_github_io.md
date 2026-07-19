@@ -1,13 +1,23 @@
 ---
-title: "MicheleCampi/michelecampi.github.io"
-category: "Tooling"
-tech_stack: ["Ruby", "Rust", "AI Infrastructure", "Observability", "Operations Research"]
+title: MicheleCampi/michelecampi.github.io
+category: daily-digests/2026-06-27
+tech_stack:
+- Ruby
+- Rust
+- AI Infrastructure
+- Observability
+- Operations Research
 quality_score: 4
 rag_relevance: 5
-tags: ["technical blog", "Rust", "AI infrastructure", "observability", "operations research"]
-source: "https://github.com/MicheleCampi/michelecampi.github.io"
-discovered_at: "2026-06-27T10:04:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- technical blog
+- Rust
+- AI infrastructure
+- observability
+- operations research
+source: https://github.com/MicheleCampi/michelecampi.github.io
+discovered_at: '2026-06-27T10:04:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

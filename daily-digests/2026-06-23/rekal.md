@@ -1,13 +1,26 @@
 ---
-title: "janbjorge/rekal"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "FastEmbed", "BM25 (FTS5)", "Vector Search (sqlite-vec)", "MCP (Model Context Protocol)", "ONNX", "YAML"]
+title: janbjorge/rekal
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- SQLite
+- FastEmbed
+- BM25 (FTS5)
+- Vector Search (sqlite-vec)
+- MCP (Model Context Protocol)
+- ONNX
+- YAML
 quality_score: 9
 rag_relevance: 9
-tags: ["long-term memory", "MCP server", "SQLite", "hybrid search", "local AI"]
-source: "https://github.com/janbjorge/rekal"
-discovered_at: "2026-06-23T09:01:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- long-term memory
+- MCP server
+- SQLite
+- hybrid search
+- local AI
+source: https://github.com/janbjorge/rekal
+discovered_at: '2026-06-23T09:01:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

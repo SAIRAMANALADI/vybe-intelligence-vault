@@ -1,13 +1,32 @@
 ---
-title: "c-premus/documcp"
-category: "Orchestrator"
-tech_stack: ["Go", "PostgreSQL", "Redis", "Vue 3", "TypeScript", "Docker", "Traefik", "OpenTelemetry", "Prometheus", "Sentry", "River (Postgres-native job queue)", "Kiwix ZIM archives", "OAuth 2.1", "OIDC"]
+title: c-premus/documcp
+category: daily-digests/2026-07-14
+tech_stack:
+- Go
+- PostgreSQL
+- Redis
+- Vue 3
+- TypeScript
+- Docker
+- Traefik
+- OpenTelemetry
+- Prometheus
+- Sentry
+- River (Postgres-native job queue)
+- Kiwix ZIM archives
+- OAuth 2.1
+- OIDC
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP server", "document management", "AI agent integration", "OAuth 2.1", "full-text search"]
-source: "https://github.com/c-premus/documcp"
-discovered_at: "2026-07-14T10:08:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- document management
+- AI agent integration
+- OAuth 2.1
+- full-text search
+source: https://github.com/c-premus/documcp
+discovered_at: '2026-07-14T10:08:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

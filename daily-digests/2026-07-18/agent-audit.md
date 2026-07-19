@@ -1,13 +1,22 @@
 ---
-title: "muhamedali7713/agent-audit"
-category: "Tooling"
-tech_stack: ["Python", "Windows Installer", "Static Analysis", "Security Rules Engine"]
+title: muhamedali7713/agent-audit
+category: daily-digests/2026-07-18
+tech_stack:
+- Python
+- Windows Installer
+- Static Analysis
+- Security Rules Engine
 quality_score: 7
 rag_relevance: 8
-tags: ["AI Security", "Agent Auditing", "Static Analysis", "Configuration Scanning", "Prompt Injection Detection"]
-source: "https://github.com/muhamedali7713/agent-audit"
-discovered_at: "2026-07-11T16:55:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Security
+- Agent Auditing
+- Static Analysis
+- Configuration Scanning
+- Prompt Injection Detection
+source: https://github.com/muhamedali7713/agent-audit
+discovered_at: '2026-07-11T16:55:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

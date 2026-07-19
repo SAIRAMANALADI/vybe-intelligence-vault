@@ -1,13 +1,26 @@
 ---
-title: "mhrutes/prompt-sentinel"
-category: "Tooling"
-tech_stack: ["Python", "Machine Learning (BERT, LightGBM, LSTM)", "Regex", "Docker", "Kubernetes", "REST API", "YAML/JSON", "Web Dashboard (UI)"]
+title: mhrutes/prompt-sentinel
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Machine Learning (BERT, LightGBM, LSTM)
+- Regex
+- Docker
+- Kubernetes
+- REST API
+- YAML/JSON
+- Web Dashboard (UI)
 quality_score: 9
 rag_relevance: 8
-tags: ["prompt injection", "LLM security", "adversarial attacks", "real-time detection", "AI safety"]
-source: "https://github.com/mhrutes/prompt-sentinel"
-discovered_at: "2026-06-24T18:48:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- prompt injection
+- LLM security
+- adversarial attacks
+- real-time detection
+- AI safety
+source: https://github.com/mhrutes/prompt-sentinel
+discovered_at: '2026-06-24T18:48:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

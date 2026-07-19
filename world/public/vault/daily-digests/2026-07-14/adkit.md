@@ -1,13 +1,25 @@
 ---
-title: "jatinjain25/adkit"
-category: "Tooling"
-tech_stack: ["Python", "Meta Marketing API", "Gemini API", "YAML", "CLI", "MCP (Model Context Protocol)", "Claude Code integration"]
+title: jatinjain25/adkit
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- Python
+- Meta Marketing API
+- Gemini API
+- YAML
+- CLI
+- MCP (Model Context Protocol)
+- Claude Code integration
 quality_score: 9
 rag_relevance: 7
-tags: ["Meta ads automation", "AI creative generation", "Campaign orchestration", "Claude Code integration", "Safety-first defaults"]
-source: "https://github.com/jatinjain25/adkit"
-discovered_at: "2026-07-14T05:29:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Meta ads automation
+- AI creative generation
+- Campaign orchestration
+- Claude Code integration
+- Safety-first defaults
+source: https://github.com/jatinjain25/adkit
+discovered_at: '2026-07-14T05:29:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

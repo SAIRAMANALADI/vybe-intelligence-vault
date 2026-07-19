@@ -1,13 +1,21 @@
 ---
-title: "jjha4549/OpenSpec"
-category: "Tooling"
-tech_stack: ["TypeScript", "Windows Desktop Application", "Local File Storage"]
+title: jjha4549/OpenSpec
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Windows Desktop Application
+- Local File Storage
 quality_score: 6
 rag_relevance: 7
-tags: ["specification", "AI planning", "software development", "blueprint", "AI collaboration"]
-source: "https://github.com/jjha4549/OpenSpec"
-discovered_at: "2026-07-08T08:17:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- specification
+- AI planning
+- software development
+- blueprint
+- AI collaboration
+source: https://github.com/jjha4549/OpenSpec
+discovered_at: '2026-07-08T08:17:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

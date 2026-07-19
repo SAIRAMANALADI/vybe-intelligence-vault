@@ -1,13 +1,23 @@
 ---
-title: "piotr-agier/google-drive-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Google APIs (Drive, Docs, Sheets, Slides, Calendar)", "OAuth 2.0", "Docker"]
+title: piotr-agier/google-drive-mcp
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- Google APIs (Drive, Docs, Sheets, Slides, Calendar)
+- OAuth 2.0
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "Google Drive", "Document Automation", "OAuth Integration", "AI Workflow"]
-source: "https://github.com/piotr-agier/google-drive-mcp"
-discovered_at: "2026-07-09T21:19:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- Google Drive
+- Document Automation
+- OAuth Integration
+- AI Workflow
+source: https://github.com/piotr-agier/google-drive-mcp
+discovered_at: '2026-07-09T21:19:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

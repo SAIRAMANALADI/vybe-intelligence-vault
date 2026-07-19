@@ -1,13 +1,25 @@
 ---
-title: "xurb-nexus/nexus-harness"
-category: "Tooling"
-tech_stack: ["Python", "Go", "Claude Code", "Cursor", "AIWeave", "Shell Scripting", "Git"]
+title: xurb-nexus/nexus-harness
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- Go
+- Claude Code
+- Cursor
+- AIWeave
+- Shell Scripting
+- Git
 quality_score: 9
 rag_relevance: 7
-tags: ["AI engineering", "Go backend", "workflow automation", "state recovery", "quality gates"]
-source: "https://github.com/xurb-nexus/nexus-harness"
-discovered_at: "2026-06-25T11:38:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI engineering
+- Go backend
+- workflow automation
+- state recovery
+- quality gates
+source: https://github.com/xurb-nexus/nexus-harness
+discovered_at: '2026-06-25T11:38:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

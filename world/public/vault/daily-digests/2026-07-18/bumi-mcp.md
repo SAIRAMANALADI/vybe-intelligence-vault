@@ -1,13 +1,26 @@
 ---
-title: "sandraschi/bumi-mcp"
-category: "Tooling"
-tech_stack: ["Python 3.13+", "FastMCP", "ROS 2", "roslibpy", "FastAPI (implied by REST bridge)", "Just (task runner)", "Ruff (linter)", "Tailscale (networking)"]
+title: sandraschi/bumi-mcp
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- Python 3.13+
+- FastMCP
+- ROS 2
+- roslibpy
+- FastAPI (implied by REST bridge)
+- Just (task runner)
+- Ruff (linter)
+- Tailscale (networking)
 quality_score: 8
 rag_relevance: 7
-tags: ["humanoid robotics", "MCP server", "REST API", "Noetix Bumi", "telemetry"]
-source: "https://github.com/sandraschi/bumi-mcp"
-discovered_at: "2026-07-12T11:58:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- humanoid robotics
+- MCP server
+- REST API
+- Noetix Bumi
+- telemetry
+source: https://github.com/sandraschi/bumi-mcp
+discovered_at: '2026-07-12T11:58:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

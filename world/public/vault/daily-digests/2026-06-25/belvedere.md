@@ -1,13 +1,30 @@
 ---
-title: "KaedeAatou/belvedere"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Nuxt 3 (Vue 3)", "Hono (Cloud Run)", "FastAPI (Python)", "ADK (Agent Development Kit)", "Gemini API", "Firestore (NoSQL + Vector Search)", "Cloud Run", "GitHub Actions", "Workload Identity Federation (WIF)", "MCP (Model Context Protocol)", "JWT (Firebase Auth)"]
+title: KaedeAatou/belvedere
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Nuxt 3 (Vue 3)
+- Hono (Cloud Run)
+- FastAPI (Python)
+- ADK (Agent Development Kit)
+- Gemini API
+- Firestore (NoSQL + Vector Search)
+- Cloud Run
+- GitHub Actions
+- Workload Identity Federation (WIF)
+- MCP (Model Context Protocol)
+- JWT (Firebase Auth)
 quality_score: 8
 rag_relevance: 7
-tags: ["Scrum facilitation", "AI agent", "DevOps", "Jira alternative", "Multi-agent orchestration"]
-source: "https://github.com/KaedeAatou/belvedere"
-discovered_at: "2026-06-25T05:01:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Scrum facilitation
+- AI agent
+- DevOps
+- Jira alternative
+- Multi-agent orchestration
+source: https://github.com/KaedeAatou/belvedere
+discovered_at: '2026-06-25T05:01:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

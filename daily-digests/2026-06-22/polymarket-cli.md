@@ -1,13 +1,22 @@
 ---
-title: "MohamedTimija/polymarket-cli"
-category: "Tooling"
-tech_stack: ["Rust", "CLI", "Polymarket API", "Blockchain Interaction"]
+title: MohamedTimija/polymarket-cli
+category: daily-digests/2026-06-22
+tech_stack:
+- Rust
+- CLI
+- Polymarket API
+- Blockchain Interaction
 quality_score: 6
 rag_relevance: 4
-tags: ["CLI", "Trading", "Polymarket", "Rust", "Terminal"]
-source: "https://github.com/MohamedTimija/polymarket-cli"
-discovered_at: "2026-06-22T18:50:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CLI
+- Trading
+- Polymarket
+- Rust
+- Terminal
+source: https://github.com/MohamedTimija/polymarket-cli
+discovered_at: '2026-06-22T18:50:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

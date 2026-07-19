@@ -1,13 +1,28 @@
 ---
-title: "rust-mcp-stack/rust-mcp-sdk"
-category: "Agent Framework"
-tech_stack: ["Rust", "Tokio", "Axum", "Actix-web", "Procedural Macros", "HTTP/HTTPS", "Stdio", "SSE", "OAuth", "JSON Schema"]
+title: rust-mcp-stack/rust-mcp-sdk
+category: daily-digests/2026-06-23
+tech_stack:
+- Rust
+- Tokio
+- Axum
+- Actix-web
+- Procedural Macros
+- HTTP/HTTPS
+- Stdio
+- SSE
+- OAuth
+- JSON Schema
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP", "Rust", "Agent Framework", "Protocol Implementation", "Async"]
-source: "https://github.com/rust-mcp-stack/rust-mcp-sdk"
-discovered_at: "2026-06-23T21:32:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- Rust
+- Agent Framework
+- Protocol Implementation
+- Async
+source: https://github.com/rust-mcp-stack/rust-mcp-sdk
+discovered_at: '2026-06-23T21:32:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

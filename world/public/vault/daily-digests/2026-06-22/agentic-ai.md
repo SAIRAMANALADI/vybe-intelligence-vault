@@ -1,13 +1,22 @@
 ---
-title: "yigido41/agentic-ai"
-category: "Agent Framework"
-tech_stack: ["Python", "LangChain", "LangGraph", "LLM Integration"]
+title: yigido41/agentic-ai
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- LangChain
+- LangGraph
+- LLM Integration
 quality_score: 5
 rag_relevance: 7
-tags: ["AI Agents", "ReAct", "Reflection", "Modular LLM", "Agentic AI"]
-source: "https://github.com/yigido41/agentic-ai"
-discovered_at: "2026-06-22T23:23:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agents
+- ReAct
+- Reflection
+- Modular LLM
+- Agentic AI
+source: https://github.com/yigido41/agentic-ai
+discovered_at: '2026-06-22T23:23:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

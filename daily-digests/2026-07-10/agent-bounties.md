@@ -1,13 +1,29 @@
 ---
-title: "NSPG13/agent-bounties"
-category: "Orchestrator"
-tech_stack: ["Rust", "Cargo", "Base Sepolia", "USDC", "MCP (Model Context Protocol)", "OpenAPI", "PostgreSQL", "Stripe", "GitHub API", "Foundry", "JSON-RPC"]
+title: NSPG13/agent-bounties
+category: daily-digests/2026-07-10
+tech_stack:
+- Rust
+- Cargo
+- Base Sepolia
+- USDC
+- MCP (Model Context Protocol)
+- OpenAPI
+- PostgreSQL
+- Stripe
+- GitHub API
+- Foundry
+- JSON-RPC
 quality_score: 8
 rag_relevance: 9
-tags: ["agent coordination", "payment infrastructure", "bounty network", "decentralized work", "AI agent economy"]
-source: "https://github.com/NSPG13/agent-bounties"
-discovered_at: "2026-07-10T06:31:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent coordination
+- payment infrastructure
+- bounty network
+- decentralized work
+- AI agent economy
+source: https://github.com/NSPG13/agent-bounties
+discovered_at: '2026-07-10T06:31:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

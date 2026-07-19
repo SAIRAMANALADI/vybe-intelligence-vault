@@ -1,13 +1,27 @@
 ---
-title: "Fzkuji/OpenProgram"
-category: "Agent Framework"
-tech_stack: ["Python", "LLM APIs", "DAG (Directed Acyclic Graph)", "CLI", "Web UI", "Terminal UI", "Git", "PyTorch", "FastAPI"]
+title: Fzkuji/OpenProgram
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- LLM APIs
+- DAG (Directed Acyclic Graph)
+- CLI
+- Web UI
+- Terminal UI
+- Git
+- PyTorch
+- FastAPI
 quality_score: 9
 rag_relevance: 10
-tags: ["agentic programming", "workflow orchestration", "multi-agent systems", "LLM harness", "deterministic flow"]
-source: "https://github.com/Fzkuji/OpenProgram"
-discovered_at: "2026-06-25T14:15:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agentic programming
+- workflow orchestration
+- multi-agent systems
+- LLM harness
+- deterministic flow
+source: https://github.com/Fzkuji/OpenProgram
+discovered_at: '2026-06-25T14:15:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

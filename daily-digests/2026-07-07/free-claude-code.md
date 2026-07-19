@@ -1,13 +1,23 @@
 ---
-title: "maxtheprotheonlyone-boop/free-claude-code"
-category: "Tooling"
-tech_stack: ["Python", "NVIDIA NIM", "MCP (Model Context Protocol)", "CLI", "Open-source Models"]
+title: maxtheprotheonlyone-boop/free-claude-code
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- NVIDIA NIM
+- MCP (Model Context Protocol)
+- CLI
+- Open-source Models
 quality_score: 4
 rag_relevance: 7
-tags: ["Claude Code", "NVIDIA NIM", "MCP", "CLI Tools", "Free Access"]
-source: "https://github.com/maxtheprotheonlyone-boop/free-claude-code"
-discovered_at: "2026-07-07T20:51:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- NVIDIA NIM
+- MCP
+- CLI Tools
+- Free Access
+source: https://github.com/maxtheprotheonlyone-boop/free-claude-code
+discovered_at: '2026-07-07T20:51:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

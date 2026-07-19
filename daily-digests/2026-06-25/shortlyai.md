@@ -1,13 +1,34 @@
 ---
-title: "SNagarjuna07/shortlyai"
-category: "Orchestrator"
-tech_stack: ["Java 25", "Spring Boot 4", "Spring AI", "Spring Cloud Gateway", "Spring Cloud Eureka", "Resilience4j", "PostgreSQL", "Redis", "Apache Kafka", "Prometheus", "Grafana", "Docker Compose", "MCP (Model Context Protocol)", "Swagger/OpenAPI", "ShedLock", "Logback"]
+title: SNagarjuna07/shortlyai
+category: daily-digests/2026-06-25
+tech_stack:
+- Java 25
+- Spring Boot 4
+- Spring AI
+- Spring Cloud Gateway
+- Spring Cloud Eureka
+- Resilience4j
+- PostgreSQL
+- Redis
+- Apache Kafka
+- Prometheus
+- Grafana
+- Docker Compose
+- MCP (Model Context Protocol)
+- Swagger/OpenAPI
+- ShedLock
+- Logback
 quality_score: 10
 rag_relevance: 8
-tags: ["microservices", "LLM integration", "MCP server", "observability", "resilience"]
-source: "https://github.com/SNagarjuna07/shortlyai"
-discovered_at: "2026-06-25T17:13:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- microservices
+- LLM integration
+- MCP server
+- observability
+- resilience
+source: https://github.com/SNagarjuna07/shortlyai
+discovered_at: '2026-06-25T17:13:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,21 @@
 ---
-title: "warlockoussama/twitter-cli"
-category: "Tooling"
-tech_stack: ["Python", "Windows Terminal", "Twitter API"]
+title: warlockoussama/twitter-cli
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- Windows Terminal
+- Twitter API
 quality_score: 6
 rag_relevance: 3
-tags: ["Twitter client", "CLI tool", "terminal-based", "lightweight", "Windows"]
-source: "https://github.com/warlockoussama/twitter-cli"
-discovered_at: "2026-07-08T02:07:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Twitter client
+- CLI tool
+- terminal-based
+- lightweight
+- Windows
+source: https://github.com/warlockoussama/twitter-cli
+discovered_at: '2026-07-08T02:07:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

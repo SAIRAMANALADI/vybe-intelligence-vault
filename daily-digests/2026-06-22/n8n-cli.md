@@ -1,13 +1,23 @@
 ---
-title: "jjuanrivvera/n8n-cli"
-category: "Tooling"
-tech_stack: ["Go", "n8n Public API", "CLI", "Keyring Integration", "YAML/JSON/CSV Output"]
+title: jjuanrivvera/n8n-cli
+category: daily-digests/2026-06-22
+tech_stack:
+- Go
+- n8n Public API
+- CLI
+- Keyring Integration
+- YAML/JSON/CSV Output
 quality_score: 9
 rag_relevance: 7
-tags: ["CLI", "n8n", "workflow management", "multi-instance", "automation"]
-source: "https://github.com/jjuanrivvera/n8n-cli"
-discovered_at: "2026-06-22T23:23:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CLI
+- n8n
+- workflow management
+- multi-instance
+- automation
+source: https://github.com/jjuanrivvera/n8n-cli
+discovered_at: '2026-06-22T23:23:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

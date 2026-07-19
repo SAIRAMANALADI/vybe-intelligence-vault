@@ -1,13 +1,22 @@
 ---
-title: "Omkarjamadar/MCP-server-client-computer-use-ai-sdk"
-category: "Tooling"
-tech_stack: ["Rust", "Model Context Protocol (MCP)", "AI Agent SDK", "Computer Automation"]
+title: Omkarjamadar/MCP-server-client-computer-use-ai-sdk
+category: daily-digests/2026-06-23
+tech_stack:
+- Rust
+- Model Context Protocol (MCP)
+- AI Agent SDK
+- Computer Automation
 quality_score: 5
 rag_relevance: 7
-tags: ["computer automation", "AI control", "MCP server", "agent SDK", "UI interaction"]
-source: "https://github.com/Omkarjamadar/MCP-server-client-computer-use-ai-sdk"
-discovered_at: "2026-06-23T13:51:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- computer automation
+- AI control
+- MCP server
+- agent SDK
+- UI interaction
+source: https://github.com/Omkarjamadar/MCP-server-client-computer-use-ai-sdk
+discovered_at: '2026-06-23T13:51:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "Jeong-jin-Han/NodeGraph"
-category: "Tooling"
-tech_stack: ["TypeScript", "VS Code Extension API", "KaTeX", "Markdown", "HTML/CSS", "JSON"]
+title: Jeong-jin-Han/NodeGraph
+category: daily-digests/2026-07-16
+tech_stack:
+- TypeScript
+- VS Code Extension API
+- KaTeX
+- Markdown
+- HTML/CSS
+- JSON
 quality_score: 8
 rag_relevance: 7
-tags: ["knowledge-graph", "research-tools", "visual-editor", "ai-agent-friendly", "document-analysis"]
-source: "https://github.com/Jeong-jin-Han/NodeGraph"
-discovered_at: "2026-07-16T05:39:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- knowledge-graph
+- research-tools
+- visual-editor
+- ai-agent-friendly
+- document-analysis
+source: https://github.com/Jeong-jin-Han/NodeGraph
+discovered_at: '2026-07-16T05:39:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

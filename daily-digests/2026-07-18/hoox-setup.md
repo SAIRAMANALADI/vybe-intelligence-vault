@@ -1,13 +1,32 @@
 ---
-title: "jango-blockchained/hoox-setup"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Bun", "Cloudflare Workers", "Cloudflare D1 (SQLite)", "Cloudflare KV", "Cloudflare R2", "Cloudflare Vectorize", "Cloudflare Queues", "Cloudflare Analytics Engine", "LLM Gateways (Workers AI, OpenAI, Anthropic, Google AI, Azure OpenAI)", "Durable Objects", "Service Bindings", "Next.js", "Mermaid.js"]
+title: jango-blockchained/hoox-setup
+category: daily-digests/2026-07-18
+tech_stack:
+- TypeScript
+- Bun
+- Cloudflare Workers
+- Cloudflare D1 (SQLite)
+- Cloudflare KV
+- Cloudflare R2
+- Cloudflare Vectorize
+- Cloudflare Queues
+- Cloudflare Analytics Engine
+- LLM Gateways (Workers AI, OpenAI, Anthropic, Google AI, Azure OpenAI)
+- Durable Objects
+- Service Bindings
+- Next.js
+- Mermaid.js
 quality_score: 9
 rag_relevance: 8
-tags: ["edge computing", "algorithmic trading", "low latency", "Cloudflare Workers", "AI risk management"]
-source: "https://github.com/jango-blockchained/hoox-setup"
-discovered_at: "2026-07-16T02:25:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- edge computing
+- algorithmic trading
+- low latency
+- Cloudflare Workers
+- AI risk management
+source: https://github.com/jango-blockchained/hoox-setup
+discovered_at: '2026-07-16T02:25:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

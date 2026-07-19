@@ -1,13 +1,28 @@
 ---
-title: "ellmos-ai/bach"
-category: "Orchestrator"
-tech_stack: ["Python", "SQLite", "MCP (Model Context Protocol)", "Claude Code", "FastAPI", "Telegram Bot API", "Node.js (for MCP servers)", "Jinja2", "Pydantic", "SQLAlchemy"]
+title: ellmos-ai/bach
+category: daily-digests/2026-07-15
+tech_stack:
+- Python
+- SQLite
+- MCP (Model Context Protocol)
+- Claude Code
+- FastAPI
+- Telegram Bot API
+- Node.js (for MCP servers)
+- Jinja2
+- Pydantic
+- SQLAlchemy
 quality_score: 9
 rag_relevance: 10
-tags: ["LLM Operating System", "Multi-Agent Orchestration", "Structured Memory", "MCP Integration", "Autonomous Agents"]
-source: "https://github.com/ellmos-ai/bach"
-discovered_at: "2026-07-11T02:27:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LLM Operating System
+- Multi-Agent Orchestration
+- Structured Memory
+- MCP Integration
+- Autonomous Agents
+source: https://github.com/ellmos-ai/bach
+discovered_at: '2026-07-11T02:27:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

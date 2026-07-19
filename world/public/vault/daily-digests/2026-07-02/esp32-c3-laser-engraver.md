@@ -1,13 +1,23 @@
 ---
-title: "Enricoporcine154/ESP32-C3-Laser-Engraver"
-category: "Tooling"
-tech_stack: ["ESP32-C3", "C++", "Embedded Systems", "Bluetooth", "Web Interface"]
+title: Enricoporcine154/ESP32-C3-Laser-Engraver
+category: world/public/vault/daily-digests/2026-07-02
+tech_stack:
+- ESP32-C3
+- C++
+- Embedded Systems
+- Bluetooth
+- Web Interface
 quality_score: 4
 rag_relevance: 3
-tags: ["laser engraving", "ESP32-C3", "embedded firmware", "wireless control", "DIY hardware"]
-source: "https://github.com/Enricoporcine154/ESP32-C3-Laser-Engraver"
-discovered_at: "2026-07-02T21:03:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- laser engraving
+- ESP32-C3
+- embedded firmware
+- wireless control
+- DIY hardware
+source: https://github.com/Enricoporcine154/ESP32-C3-Laser-Engraver
+discovered_at: '2026-07-02T21:03:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "Matterfamilydactylopteridae483/metagraphed"
-category: "Tooling"
-tech_stack: ["Windows", "Bittensor", "Python (implied)", "Blockchain Data API"]
+title: Matterfamilydactylopteridae483/metagraphed
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Windows
+- Bittensor
+- Python (implied)
+- Blockchain Data API
 quality_score: 6
 rag_relevance: 5
-tags: ["Bittensor", "subnet monitoring", "health metrics", "Windows desktop", "blockchain data"]
-source: "https://github.com/Matterfamilydactylopteridae483/metagraphed"
-discovered_at: "2026-06-24T06:50:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Bittensor
+- subnet monitoring
+- health metrics
+- Windows desktop
+- blockchain data
+source: https://github.com/Matterfamilydactylopteridae483/metagraphed
+discovered_at: '2026-06-24T06:50:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

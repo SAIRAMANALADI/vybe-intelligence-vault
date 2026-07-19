@@ -1,13 +1,23 @@
 ---
-title: "boxxapp23-pixel/cchub"
-category: "Tooling"
-tech_stack: ["Electron", "TypeScript", "Node.js", "Claude Code", "MCP (Model Context Protocol)"]
+title: boxxapp23-pixel/cchub
+category: daily-digests/2026-07-08
+tech_stack:
+- Electron
+- TypeScript
+- Node.js
+- Claude Code
+- MCP (Model Context Protocol)
 quality_score: 4
 rag_relevance: 6
-tags: ["Claude Code", "MCP", "AI tooling", "desktop app", "plugin management"]
-source: "https://github.com/boxxapp23-pixel/cchub"
-discovered_at: "2026-07-08T22:15:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- MCP
+- AI tooling
+- desktop app
+- plugin management
+source: https://github.com/boxxapp23-pixel/cchub
+discovered_at: '2026-07-08T22:15:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

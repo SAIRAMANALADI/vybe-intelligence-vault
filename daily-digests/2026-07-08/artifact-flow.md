@@ -1,13 +1,31 @@
 ---
-title: "Neutrino1998/artifact-flow"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "SQLite/PostgreSQL/MySQL", "Redis", "LiteLLM", "Next.js", "Docker", "SQLAlchemy", "Alembic", "Typer", "Rich", "JWT", "SSE (Server-Sent Events)"]
+title: Neutrino1998/artifact-flow
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- FastAPI
+- SQLite/PostgreSQL/MySQL
+- Redis
+- LiteLLM
+- Next.js
+- Docker
+- SQLAlchemy
+- Alembic
+- Typer
+- Rich
+- JWT
+- SSE (Server-Sent Events)
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent systems", "private deployment", "configurable agents", "artifact architecture", "LLM orchestration"]
-source: "https://github.com/Neutrino1998/artifact-flow"
-discovered_at: "2026-07-08T15:15:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- private deployment
+- configurable agents
+- artifact architecture
+- LLM orchestration
+source: https://github.com/Neutrino1998/artifact-flow
+discovered_at: '2026-07-08T15:15:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

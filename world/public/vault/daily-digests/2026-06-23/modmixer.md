@@ -1,13 +1,24 @@
 ---
-title: "lebek/modmixer"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Electron", "AI/LLM Integration", "RimWorld Modding Framework", "Node.js", "React"]
+title: lebek/modmixer
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Electron
+- AI/LLM Integration
+- RimWorld Modding Framework
+- Node.js
+- React
 quality_score: 9
 rag_relevance: 7
-tags: ["game modding", "AI-assisted development", "RimWorld", "natural language programming", "mod publishing"]
-source: "https://github.com/lebek/modmixer"
-discovered_at: "2026-06-23T13:46:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- game modding
+- AI-assisted development
+- RimWorld
+- natural language programming
+- mod publishing
+source: https://github.com/lebek/modmixer
+discovered_at: '2026-06-23T13:46:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,32 @@
 ---
-title: "SRKRZ23/repomind-v3"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "React", "vLLM", "ROCm", "AMD Instinct MI300X", "Fireworks AI", "Docker", "Ed25519", "SHA-256", "Qwen3-Coder", "Gemma", "GLM", "CUDA-to-ROCm migration"]
+title: SRKRZ23/repomind-v3
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- FastAPI
+- React
+- vLLM
+- ROCm
+- AMD Instinct MI300X
+- Fireworks AI
+- Docker
+- Ed25519
+- SHA-256
+- Qwen3-Coder
+- Gemma
+- GLM
+- CUDA-to-ROCm migration
 quality_score: 9
 rag_relevance: 9
-tags: ["on-premises AI", "AMD MI300X", "coding agent", "cost optimization", "compliance"]
-source: "https://github.com/SRKRZ23/repomind-v3"
-discovered_at: "2026-07-08T19:16:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- on-premises AI
+- AMD MI300X
+- coding agent
+- cost optimization
+- compliance
+source: https://github.com/SRKRZ23/repomind-v3
+discovered_at: '2026-07-08T19:16:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

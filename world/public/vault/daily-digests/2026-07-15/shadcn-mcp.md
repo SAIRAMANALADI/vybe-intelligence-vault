@@ -1,13 +1,24 @@
 ---
-title: "uehlingeric/shadcn-mcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP SDK", "HTTPX", "uv", "GitHub API", "Claude Code"]
+title: uehlingeric/shadcn-mcp
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- Python
+- MCP SDK
+- HTTPX
+- uv
+- GitHub API
+- Claude Code
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP server", "shadcn/ui", "component registry", "Claude Code", "UI source code"]
-source: "https://github.com/uehlingeric/shadcn-mcp"
-discovered_at: "2026-07-12T02:32:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- shadcn/ui
+- component registry
+- Claude Code
+- UI source code
+source: https://github.com/uehlingeric/shadcn-mcp
+discovered_at: '2026-07-12T02:32:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

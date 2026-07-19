@@ -1,13 +1,23 @@
 ---
-title: "bks-lab/open-bridge"
-category: "Tooling"
-tech_stack: ["Markdown", "YAML", "Git", "Python", "Shell"]
+title: bks-lab/open-bridge
+category: daily-digests/2026-07-15
+tech_stack:
+- Markdown
+- YAML
+- Git
+- Python
+- Shell
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent context", "persistent memory", "version-controlled", "plain-text", "workflow automation"]
-source: "https://github.com/bks-lab/open-bridge"
-discovered_at: "2026-07-13T10:24:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent context
+- persistent memory
+- version-controlled
+- plain-text
+- workflow automation
+source: https://github.com/bks-lab/open-bridge
+discovered_at: '2026-07-13T10:24:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

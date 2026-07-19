@@ -1,13 +1,26 @@
 ---
-title: "shiro-0x/hersona"
-category: "Tooling"
-tech_stack: ["Python", "YAML", "CLI", "MCP Server", "Hermes Agent", "OpenAPI", "LangChain", "JSON Schema"]
+title: shiro-0x/hersona
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- Python
+- YAML
+- CLI
+- MCP Server
+- Hermes Agent
+- OpenAPI
+- LangChain
+- JSON Schema
 quality_score: 9
 rag_relevance: 7
-tags: ["persona management", "AI character consistency", "system prompt templating", "LLM attribute blending", "persona benchmarking"]
-source: "https://github.com/shiro-0x/hersona"
-discovered_at: "2026-07-11T11:04:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persona management
+- AI character consistency
+- system prompt templating
+- LLM attribute blending
+- persona benchmarking
+source: https://github.com/shiro-0x/hersona
+discovered_at: '2026-07-11T11:04:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

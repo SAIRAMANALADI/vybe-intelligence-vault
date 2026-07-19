@@ -1,13 +1,22 @@
 ---
-title: "Donmandela/gsc-mcp"
-category: "Tooling"
-tech_stack: ["Electron", "Google Search Console API", "JavaScript/TypeScript", "Windows/macOS"]
+title: Donmandela/gsc-mcp
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Electron
+- Google Search Console API
+- JavaScript/TypeScript
+- Windows/macOS
 quality_score: 6
 rag_relevance: 4
-tags: ["SEO", "Google Search Console", "Desktop Application", "Keyword Tracking", "Data Analytics"]
-source: "https://github.com/Donmandela/gsc-mcp"
-discovered_at: "2026-06-25T05:09:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- SEO
+- Google Search Console
+- Desktop Application
+- Keyword Tracking
+- Data Analytics
+source: https://github.com/Donmandela/gsc-mcp
+discovered_at: '2026-06-25T05:09:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

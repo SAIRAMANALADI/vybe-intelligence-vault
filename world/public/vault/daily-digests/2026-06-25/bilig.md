@@ -1,13 +1,25 @@
 ---
-title: "proompteng/bilig"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Excel Formula Engine", "WASM", "NPM", "GitHub Actions", "CI/CD"]
+title: proompteng/bilig
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- Excel Formula Engine
+- WASM
+- NPM
+- GitHub Actions
+- CI/CD
 quality_score: 9
 rag_relevance: 8
-tags: ["Excel automation", "formula recalculation", "workbook validation", "headless runtime", "Node.js"]
-source: "https://github.com/proompteng/bilig"
-discovered_at: "2026-06-25T08:34:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Excel automation
+- formula recalculation
+- workbook validation
+- headless runtime
+- Node.js
+source: https://github.com/proompteng/bilig
+discovered_at: '2026-06-25T08:34:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

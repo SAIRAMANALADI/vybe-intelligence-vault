@@ -1,13 +1,27 @@
 ---
-title: "aqm857886159/Nomi"
-category: "Tooling"
-tech_stack: ["Electron", "TypeScript", "React", "Vite", "Tailwind CSS", "3D Rendering (WebGL/Three.js)", "AI Model Integration (Sora, Veo, Claude, etc.)", "MCP (Model Context Protocol)", "Node.js"]
+title: aqm857886159/Nomi
+category: daily-digests/2026-06-23
+tech_stack:
+- Electron
+- TypeScript
+- React
+- Vite
+- Tailwind CSS
+- 3D Rendering (WebGL/Three.js)
+- AI Model Integration (Sora, Veo, Claude, etc.)
+- MCP (Model Context Protocol)
+- Node.js
 quality_score: 9
 rag_relevance: 7
-tags: ["AI Video Generation", "3D Scene Composition", "Local-First", "Timeline Editing", "Multi-Model Integration"]
-source: "https://github.com/aqm857886159/Nomi"
-discovered_at: "2026-06-23T08:55:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Video Generation
+- 3D Scene Composition
+- Local-First
+- Timeline Editing
+- Multi-Model Integration
+source: https://github.com/aqm857886159/Nomi
+discovered_at: '2026-06-23T08:55:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

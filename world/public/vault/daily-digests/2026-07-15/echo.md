@@ -1,13 +1,26 @@
 ---
-title: "victoriacheng15/echo"
-category: "Tooling"
-tech_stack: ["Go", "SQLite", "FTS5", "DuckDB", "Model Context Protocol (MCP)", "JSON-RPC", "CLI", "GitHub Actions"]
+title: victoriacheng15/echo
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- Go
+- SQLite
+- FTS5
+- DuckDB
+- Model Context Protocol (MCP)
+- JSON-RPC
+- CLI
+- GitHub Actions
 quality_score: 9
 rag_relevance: 9
-tags: ["persistent memory", "MCP server", "local AI", "memory governance", "search indexing"]
-source: "https://github.com/victoriacheng15/echo"
-discovered_at: "2026-07-10T16:24:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- MCP server
+- local AI
+- memory governance
+- search indexing
+source: https://github.com/victoriacheng15/echo
+discovered_at: '2026-07-10T16:24:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

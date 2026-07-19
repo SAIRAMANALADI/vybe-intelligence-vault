@@ -1,13 +1,24 @@
 ---
-title: "woojubb/robota"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "React/Ink (for TUI)", "Zod (for validation)", "REST/WebSocket APIs", "AI Provider APIs (Anthropic, OpenAI, Google, ByteDance)"]
+title: woojubb/robota
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- React/Ink (for TUI)
+- Zod (for validation)
+- REST/WebSocket APIs
+- AI Provider APIs (Anthropic, OpenAI, Google, ByteDance)
 quality_score: 9
 rag_relevance: 9
-tags: ["AI agents", "multi-provider", "TypeScript", "tool calling", "composable architecture"]
-source: "https://github.com/woojubb/robota"
-discovered_at: "2026-07-09T11:52:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- multi-provider
+- TypeScript
+- tool calling
+- composable architecture
+source: https://github.com/woojubb/robota
+discovered_at: '2026-07-09T11:52:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

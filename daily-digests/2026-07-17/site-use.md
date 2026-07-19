@@ -1,13 +1,24 @@
 ---
-title: "WilliamPenrose/site-use"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Chrome Browser Automation", "Puppeteer or Playwright (implied)", "CLI", "AI Agent Integration (Claude Code, OpenClaw)"]
+title: WilliamPenrose/site-use
+category: daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- Node.js
+- Chrome Browser Automation
+- Puppeteer or Playwright (implied)
+- CLI
+- AI Agent Integration (Claude Code, OpenClaw)
 quality_score: 8
 rag_relevance: 9
-tags: ["browser automation", "anti-detection", "structured data extraction", "Twitter integration", "deterministic workflows"]
-source: "https://github.com/WilliamPenrose/site-use"
-discovered_at: "2026-07-14T02:13:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- anti-detection
+- structured data extraction
+- Twitter integration
+- deterministic workflows
+source: https://github.com/WilliamPenrose/site-use
+discovered_at: '2026-07-14T02:13:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

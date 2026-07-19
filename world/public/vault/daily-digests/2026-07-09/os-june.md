@@ -1,13 +1,28 @@
 ---
-title: "open-software-network/os-june"
-category: "Tooling"
-tech_stack: ["TypeScript", "React", "Rust", "Tauri", "Node.js", "pnpm", "TEE (Trusted Execution Environment)", "Phala Cloud", "OCI (Open Container Initiative)", "Vitest"]
+title: open-software-network/os-june
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- React
+- Rust
+- Tauri
+- Node.js
+- pnpm
+- TEE (Trusted Execution Environment)
+- Phala Cloud
+- OCI (Open Container Initiative)
+- Vitest
 quality_score: 9
 rag_relevance: 7
-tags: ["privacy-preserving AI", "local-first", "macOS", "agent framework", "TEE verification"]
-source: "https://github.com/open-software-network/os-june"
-discovered_at: "2026-07-09T14:44:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- privacy-preserving AI
+- local-first
+- macOS
+- agent framework
+- TEE verification
+source: https://github.com/open-software-network/os-june
+discovered_at: '2026-07-09T14:44:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

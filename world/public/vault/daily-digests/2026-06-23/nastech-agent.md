@@ -1,13 +1,26 @@
 ---
-title: "nastech-ai/NasTech-Agent"
-category: "Agent Framework"
-tech_stack: ["Python", "LLM APIs (OpenAI, Hugging Face, etc.)", "SQLite (FTS5 for search)", "Telegram/Discord/Slack APIs", "Docker", "Node.js", "FFmpeg", "Ripgrep"]
+title: nastech-ai/NasTech-Agent
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- LLM APIs (OpenAI, Hugging Face, etc.)
+- SQLite (FTS5 for search)
+- Telegram/Discord/Slack APIs
+- Docker
+- Node.js
+- FFmpeg
+- Ripgrep
 quality_score: 9
 rag_relevance: 8
-tags: ["self-improving agent", "multi-platform", "skill automation", "LLM integration", "memory persistence"]
-source: "https://github.com/nastech-ai/NasTech-Agent"
-discovered_at: "2026-06-23T16:26:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-improving agent
+- multi-platform
+- skill automation
+- LLM integration
+- memory persistence
+source: https://github.com/nastech-ai/NasTech-Agent
+discovered_at: '2026-06-23T16:26:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

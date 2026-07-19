@@ -1,13 +1,28 @@
 ---
-title: "NimbleBrainInc/nimblebrain"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "Docker", "MCP (Model Context Protocol)", "React", "Vite", "Node.js", "HTTP/Streamable", "YAML", "JSON"]
+title: NimbleBrainInc/nimblebrain
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- Bun
+- Docker
+- MCP (Model Context Protocol)
+- React
+- Vite
+- Node.js
+- HTTP/Streamable
+- YAML
+- JSON
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "agent automation", "multi-agent systems", "self-hosted", "tool aggregation"]
-source: "https://github.com/NimbleBrainInc/nimblebrain"
-discovered_at: "2026-07-06T19:49:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- agent automation
+- multi-agent systems
+- self-hosted
+- tool aggregation
+source: https://github.com/NimbleBrainInc/nimblebrain
+discovered_at: '2026-07-06T19:49:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

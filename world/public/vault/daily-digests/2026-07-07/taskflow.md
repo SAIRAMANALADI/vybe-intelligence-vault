@@ -1,13 +1,28 @@
 ---
-title: "MrRedstoneY/TaskFlow"
-category: "Tooling"
-tech_stack: ["Python", "Django", "Django REST Framework", "FastAPI", "PostgreSQL", "Redis", "RabbitMQ", "JWT", "WebSockets", "Nginx"]
+title: MrRedstoneY/TaskFlow
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Django
+- Django REST Framework
+- FastAPI
+- PostgreSQL
+- Redis
+- RabbitMQ
+- JWT
+- WebSockets
+- Nginx
 quality_score: 6
 rag_relevance: 5
-tags: ["task management", "real-time collaboration", "team productivity", "backend services", "notification system"]
-source: "https://github.com/MrRedstoneY/TaskFlow"
-discovered_at: "2026-07-07T23:56:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- task management
+- real-time collaboration
+- team productivity
+- backend services
+- notification system
+source: https://github.com/MrRedstoneY/TaskFlow
+discovered_at: '2026-07-07T23:56:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

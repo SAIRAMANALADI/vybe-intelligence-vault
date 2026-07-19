@@ -1,13 +1,23 @@
 ---
-title: "clouatre-labs/aptu-coder"
-category: "Agent Framework"
-tech_stack: ["Rust", "tree-sitter", "Model Context Protocol (MCP)", "SLSA (Supply-chain Levels for Software Artifacts)", "OpenSSF Best Practices"]
+title: clouatre-labs/aptu-coder
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Rust
+- tree-sitter
+- Model Context Protocol (MCP)
+- SLSA (Supply-chain Levels for Software Artifacts)
+- OpenSSF Best Practices
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP server", "code analysis", "call graphs", "symbol extraction", "multi-language support"]
-source: "https://github.com/clouatre-labs/aptu-coder"
-discovered_at: "2026-06-23T21:36:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- code analysis
+- call graphs
+- symbol extraction
+- multi-language support
+source: https://github.com/clouatre-labs/aptu-coder
+discovered_at: '2026-06-23T21:36:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,29 @@
 ---
-title: "Darpan00720/career-intelligence-engine"
-category: "Orchestrator"
-tech_stack: ["Python", "LangGraph", "FastAPI", "Claude", "OpenAI", "Gemini", "Azure OpenAI", "Sentence Transformers", "SQLite", "Docker", "pytest"]
+title: Darpan00720/career-intelligence-engine
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- LangGraph
+- FastAPI
+- Claude
+- OpenAI
+- Gemini
+- Azure OpenAI
+- Sentence Transformers
+- SQLite
+- Docker
+- pytest
 quality_score: 9
 rag_relevance: 6
-tags: ["multi-agent systems", "job search automation", "semantic matching", "LLM orchestration", "career intelligence"]
-source: "https://github.com/Darpan00720/career-intelligence-engine"
-discovered_at: "2026-06-25T11:37:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- job search automation
+- semantic matching
+- LLM orchestration
+- career intelligence
+source: https://github.com/Darpan00720/career-intelligence-engine
+discovered_at: '2026-06-25T11:37:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

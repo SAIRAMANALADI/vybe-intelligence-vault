@@ -1,13 +1,22 @@
 ---
-title: "sarenarococo641/nopua"
-category: "Tooling"
-tech_stack: ["Python", "Windows Desktop Application", "Natural Language Processing (NLP)", "AI Model Integration"]
+title: sarenarococo641/nopua
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Windows Desktop Application
+- Natural Language Processing (NLP)
+- AI Model Integration
 quality_score: 7
 rag_relevance: 5
-tags: ["AI interaction", "prompt engineering", "AI honesty", "Windows tool", "AI performance"]
-source: "https://github.com/sarenarococo641/nopua"
-discovered_at: "2026-06-23T02:44:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI interaction
+- prompt engineering
+- AI honesty
+- Windows tool
+- AI performance
+source: https://github.com/sarenarococo641/nopua
+discovered_at: '2026-06-23T02:44:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

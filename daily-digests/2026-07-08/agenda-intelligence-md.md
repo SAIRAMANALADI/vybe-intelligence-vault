@@ -1,13 +1,26 @@
 ---
-title: "vassiliylakhonin/agenda-intelligence-md"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "A2A Protocol", "Cloudflare Workers", "JSON-RPC", "Markdown", "Schema Validation", "CI/CD (GitHub Actions)"]
+title: vassiliylakhonin/agenda-intelligence-md
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- A2A Protocol
+- Cloudflare Workers
+- JSON-RPC
+- Markdown
+- Schema Validation
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 8
-tags: ["evidence-readiness", "trust-routing", "AI governance", "document analysis", "risk triage"]
-source: "https://github.com/vassiliylakhonin/agenda-intelligence-md"
-discovered_at: "2026-07-08T12:26:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- evidence-readiness
+- trust-routing
+- AI governance
+- document analysis
+- risk triage
+source: https://github.com/vassiliylakhonin/agenda-intelligence-md
+discovered_at: '2026-07-08T12:26:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

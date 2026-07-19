@@ -1,13 +1,32 @@
 ---
-title: "AlphaMaleBaDI/ZoN-CreatorOS"
-category: "Orchestrator"
-tech_stack: ["Python", "LangGraph", "LangChain", "FAISS", "Knowledge Graphs", "FastAPI", "vLLM", "SGLang", "Streamlit", "PyTorch", "ONNX", "ROCm", "AMD Instinct GPUs", "Ryzen AI NPU"]
+title: AlphaMaleBaDI/ZoN-CreatorOS
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- LangGraph
+- LangChain
+- FAISS
+- Knowledge Graphs
+- FastAPI
+- vLLM
+- SGLang
+- Streamlit
+- PyTorch
+- ONNX
+- ROCm
+- AMD Instinct GPUs
+- Ryzen AI NPU
 quality_score: 8
 rag_relevance: 7
-tags: ["creative workflow", "agent orchestration", "persistent context", "production engine", "AMD-optimized"]
-source: "https://github.com/AlphaMaleBaDI/ZoN-CreatorOS"
-discovered_at: "2026-07-07T02:33:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- creative workflow
+- agent orchestration
+- persistent context
+- production engine
+- AMD-optimized
+source: https://github.com/AlphaMaleBaDI/ZoN-CreatorOS
+discovered_at: '2026-07-07T02:33:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

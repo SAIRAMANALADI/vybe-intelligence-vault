@@ -1,13 +1,30 @@
 ---
-title: "wuhonglei/chat-agent"
-category: "Agent Framework"
-tech_stack: ["FastAPI", "SQLModel", "PostgreSQL", "pgvector", "React 19", "TypeScript", "Ant Design 6", "Redux Toolkit", "Vite+", "Docker Compose", "JWT", "MCP (Model Context Protocol)"]
+title: wuhonglei/chat-agent
+category: daily-digests/2026-06-23
+tech_stack:
+- FastAPI
+- SQLModel
+- PostgreSQL
+- pgvector
+- React 19
+- TypeScript
+- Ant Design 6
+- Redux Toolkit
+- Vite+
+- Docker Compose
+- JWT
+- MCP (Model Context Protocol)
 quality_score: 8
 rag_relevance: 7
-tags: ["AI chat platform", "streaming SSE", "multi-turn conversations", "MCP tools", "full-stack"]
-source: "https://github.com/wuhonglei/chat-agent"
-discovered_at: "2026-06-23T10:38:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI chat platform
+- streaming SSE
+- multi-turn conversations
+- MCP tools
+- full-stack
+source: https://github.com/wuhonglei/chat-agent
+discovered_at: '2026-06-23T10:38:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

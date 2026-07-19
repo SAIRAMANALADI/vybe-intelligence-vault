@@ -1,13 +1,34 @@
 ---
-title: "FluDex7/FinAgent"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "LangGraph", "LangChain", "LlamaIndex", "Qdrant", "PostgreSQL", "SQLAlchemy", "React", "TypeScript", "Tailwind CSS", "Docker", "MLflow", "PyMuPDF", "Tesseract OCR", "sqlglot"]
+title: FluDex7/FinAgent
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- FastAPI
+- LangGraph
+- LangChain
+- LlamaIndex
+- Qdrant
+- PostgreSQL
+- SQLAlchemy
+- React
+- TypeScript
+- Tailwind CSS
+- Docker
+- MLflow
+- PyMuPDF
+- Tesseract OCR
+- sqlglot
 quality_score: 9
 rag_relevance: 8
-tags: ["local-first", "financial analysis", "RAG", "text-to-SQL", "LLM orchestration"]
-source: "https://github.com/FluDex7/FinAgent"
-discovered_at: "2026-07-09T19:30:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first
+- financial analysis
+- RAG
+- text-to-SQL
+- LLM orchestration
+source: https://github.com/FluDex7/FinAgent
+discovered_at: '2026-07-09T19:30:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

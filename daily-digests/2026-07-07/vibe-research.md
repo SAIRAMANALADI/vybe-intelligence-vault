@@ -1,13 +1,28 @@
 ---
-title: "simonlin1212/Vibe-Research"
-category: "UI Component"
-tech_stack: ["Python", "FastAPI", "React 19", "TypeScript", "Tailwind CSS", "Pandas", "StockStats", "MCP (Model Context Protocol)", "RSS Feeds", "Docker (implied for deployment)"]
+title: simonlin1212/Vibe-Research
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- FastAPI
+- React 19
+- TypeScript
+- Tailwind CSS
+- Pandas
+- StockStats
+- MCP (Model Context Protocol)
+- RSS Feeds
+- Docker (implied for deployment)
 quality_score: 9
 rag_relevance: 7
-tags: ["Investment Research", "AI Dashboard", "Stock Market Data", "Financial Analysis", "Multi-Market Support"]
-source: "https://github.com/simonlin1212/Vibe-Research"
-discovered_at: "2026-07-07T13:15:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Investment Research
+- AI Dashboard
+- Stock Market Data
+- Financial Analysis
+- Multi-Market Support
+source: https://github.com/simonlin1212/Vibe-Research
+discovered_at: '2026-07-07T13:15:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

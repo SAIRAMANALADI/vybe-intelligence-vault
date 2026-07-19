@@ -1,13 +1,25 @@
 ---
-title: "seite-sh/seite"
-category: "Tooling"
-tech_stack: ["Rust", "Claude Code", "Model Context Protocol (MCP)", "Markdown", "YAML/TOML", "HTML/CSS", "GitHub Actions"]
+title: seite-sh/seite
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Rust
+- Claude Code
+- Model Context Protocol (MCP)
+- Markdown
+- YAML/TOML
+- HTML/CSS
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["static site generator", "AI agent integration", "MCP server", "Claude Code", "LLM-friendly output"]
-source: "https://github.com/seite-sh/seite"
-discovered_at: "2026-06-25T05:04:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- static site generator
+- AI agent integration
+- MCP server
+- Claude Code
+- LLM-friendly output
+source: https://github.com/seite-sh/seite
+discovered_at: '2026-06-25T05:04:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

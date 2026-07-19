@@ -1,13 +1,32 @@
 ---
-title: "OneGoodArea/OneGoodArea"
-category: "Tooling"
-tech_stack: ["Fastify", "Node.js 22", "TypeScript", "Next.js 16", "React 19", "Tailwind CSS 4", "Neon Postgres", "Anthropic Claude", "Stripe", "NextAuth v5", "Render", "Vercel", "Sentry", "GitHub Actions"]
+title: OneGoodArea/OneGoodArea
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Fastify
+- Node.js 22
+- TypeScript
+- Next.js 16
+- React 19
+- Tailwind CSS 4
+- Neon Postgres
+- Anthropic Claude
+- Stripe
+- NextAuth v5
+- Render
+- Vercel
+- Sentry
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["UK property intelligence", "deterministic scoring", "regulated B2B", "portfolio monitoring", "AI query plane"]
-source: "https://github.com/OneGoodArea/OneGoodArea"
-discovered_at: "2026-06-24T20:50:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- UK property intelligence
+- deterministic scoring
+- regulated B2B
+- portfolio monitoring
+- AI query plane
+source: https://github.com/OneGoodArea/OneGoodArea
+discovered_at: '2026-06-24T20:50:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

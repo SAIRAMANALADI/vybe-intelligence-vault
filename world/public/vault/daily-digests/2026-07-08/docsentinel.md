@@ -1,13 +1,22 @@
 ---
-title: "ducwuyy/DocSentinel"
-category: "Tooling"
-tech_stack: ["Python", "HTML", "Natural Language Processing (NLP)", "Security Analysis"]
+title: ducwuyy/DocSentinel
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- HTML
+- Natural Language Processing (NLP)
+- Security Analysis
 quality_score: 3
 rag_relevance: 7
-tags: ["document security", "compliance", "risk detection", "automated analysis", "data safety"]
-source: "https://github.com/ducwuyy/DocSentinel"
-discovered_at: "2026-07-08T02:07:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- document security
+- compliance
+- risk detection
+- automated analysis
+- data safety
+source: https://github.com/ducwuyy/DocSentinel
+discovered_at: '2026-07-08T02:07:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

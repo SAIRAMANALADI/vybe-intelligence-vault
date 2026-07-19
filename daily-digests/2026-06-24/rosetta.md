@@ -1,13 +1,24 @@
 ---
-title: "griddynamics/rosetta"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Python", "MCP (Model Context Protocol)", "CLI", "Node.js", "Docker"]
+title: griddynamics/rosetta
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Python
+- MCP (Model Context Protocol)
+- CLI
+- Node.js
+- Docker
 quality_score: 9
 rag_relevance: 9
-tags: ["meta-prompting", "context engineering", "AI coding agents", "guardrails", "workflow automation"]
-source: "https://github.com/griddynamics/rosetta"
-discovered_at: "2026-06-24T16:22:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- meta-prompting
+- context engineering
+- AI coding agents
+- guardrails
+- workflow automation
+source: https://github.com/griddynamics/rosetta
+discovered_at: '2026-06-24T16:22:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

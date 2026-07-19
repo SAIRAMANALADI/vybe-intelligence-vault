@@ -1,13 +1,23 @@
 ---
-title: "Zile1147/wikipedia-agent"
-category: "Tooling"
-tech_stack: ["Python", "ZIM archives", "Vector embeddings", "Llama.cpp", "Windows OS"]
+title: Zile1147/wikipedia-agent
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- ZIM archives
+- Vector embeddings
+- Llama.cpp
+- Windows OS
 quality_score: 6
 rag_relevance: 8
-tags: ["offline search", "privacy-focused", "ZIM archives", "semantic retrieval", "local RAG"]
-source: "https://github.com/Zile1147/wikipedia-agent"
-discovered_at: "2026-06-24T06:49:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- offline search
+- privacy-focused
+- ZIM archives
+- semantic retrieval
+- local RAG
+source: https://github.com/Zile1147/wikipedia-agent
+discovered_at: '2026-06-24T06:49:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

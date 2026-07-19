@@ -1,13 +1,24 @@
 ---
-title: "edycutjong/litmus"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "CROO Constellation A2A", "Vitest", "ESLint", "Docker"]
+title: edycutjong/litmus
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- CROO Constellation A2A
+- Vitest
+- ESLint
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["AI quality assurance", "on-chain grading", "autonomous agents", "rubric-based evaluation", "decentralized attestation"]
-source: "https://github.com/edycutjong/litmus"
-discovered_at: "2026-07-08T02:06:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI quality assurance
+- on-chain grading
+- autonomous agents
+- rubric-based evaluation
+- decentralized attestation
+source: https://github.com/edycutjong/litmus
+discovered_at: '2026-07-08T02:06:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

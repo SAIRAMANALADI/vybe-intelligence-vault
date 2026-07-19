@@ -1,13 +1,27 @@
 ---
-title: "aiperceivable/apcore-mcp-typescript"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "OpenAI Function Calling", "apcore-js", "JWT Authentication", "Streamable HTTP", "SSE (Server-Sent Events)", "CLI"]
+title: aiperceivable/apcore-mcp-typescript
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- OpenAI Function Calling
+- apcore-js
+- JWT Authentication
+- Streamable HTTP
+- SSE (Server-Sent Events)
+- CLI
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP Server", "OpenAI Tools Bridge", "apcore Integration", "Tool Orchestration", "AI Orchestrator"]
-source: "https://github.com/aiperceivable/apcore-mcp-typescript"
-discovered_at: "2026-06-23T09:02:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- OpenAI Tools Bridge
+- apcore Integration
+- Tool Orchestration
+- AI Orchestrator
+source: https://github.com/aiperceivable/apcore-mcp-typescript
+discovered_at: '2026-06-23T09:02:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "lemurhacep/awesome-openclaw"
-category: "Tooling"
-tech_stack: ["OpenClaw", "MCP (Model Context Protocol)", "Python", "Cross-platform (Windows, macOS, Linux)"]
+title: lemurhacep/awesome-openclaw
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- OpenClaw
+- MCP (Model Context Protocol)
+- Python
+- Cross-platform (Windows, macOS, Linux)
 quality_score: 7
 rag_relevance: 6
-tags: ["AI agents", "plugin management", "OpenClaw ecosystem", "automation tools", "no-code setup"]
-source: "https://github.com/lemurhacep/awesome-openclaw"
-discovered_at: "2026-06-24T16:14:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- plugin management
+- OpenClaw ecosystem
+- automation tools
+- no-code setup
+source: https://github.com/lemurhacep/awesome-openclaw
+discovered_at: '2026-06-24T16:14:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,30 @@
 ---
-title: "ahmadAlMezaal/noctra"
-category: "Orchestrator"
-tech_stack: ["Go", "Git", "GitHub CLI", "Linear API", "Claude Code", "OpenAI Codex", "GitHub Copilot", "Google Antigravity", "Gemini API", "Telegram Bot API", "Docker", "CI/CD (GitHub Actions)"]
+title: ahmadAlMezaal/noctra
+category: world/public/vault/daily-digests/2026-07-12
+tech_stack:
+- Go
+- Git
+- GitHub CLI
+- Linear API
+- Claude Code
+- OpenAI Codex
+- GitHub Copilot
+- Google Antigravity
+- Gemini API
+- Telegram Bot API
+- Docker
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agent automation", "Linear to PR", "workflow orchestration", "multi-agent collaboration", "CI/CD integration"]
-source: "https://github.com/ahmadAlMezaal/noctra"
-discovered_at: "2026-07-10T23:08:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent automation
+- Linear to PR
+- workflow orchestration
+- multi-agent collaboration
+- CI/CD integration
+source: https://github.com/ahmadAlMezaal/noctra
+discovered_at: '2026-07-10T23:08:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

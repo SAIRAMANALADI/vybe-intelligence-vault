@@ -1,13 +1,23 @@
 ---
-title: "costkits/costkits-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "REST API", "TypeScript (implied by Node.js ecosystem)"]
+title: costkits/costkits-mcp
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- REST API
+- TypeScript (implied by Node.js ecosystem)
 quality_score: 8
 rag_relevance: 9
-tags: ["healthcare cost transparency", "MCP server", "insurance coverage rules", "provider pricing", "medical bill analysis"]
-source: "https://github.com/costkits/costkits-mcp"
-discovered_at: "2026-07-09T19:31:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- healthcare cost transparency
+- MCP server
+- insurance coverage rules
+- provider pricing
+- medical bill analysis
+source: https://github.com/costkits/costkits-mcp
+discovered_at: '2026-07-09T19:31:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

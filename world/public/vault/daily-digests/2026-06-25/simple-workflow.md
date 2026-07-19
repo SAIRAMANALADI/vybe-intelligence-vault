@@ -1,13 +1,26 @@
 ---
-title: "aimsise/simple-workflow"
-category: "Agent Framework"
-tech_stack: ["Claude Code", "Shell", "GitHub CLI", "Git", "JQ", "JavaScript/Node.js", "Multi-agent systems", "Workflow automation"]
+title: aimsise/simple-workflow
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Claude Code
+- Shell
+- GitHub CLI
+- Git
+- JQ
+- JavaScript/Node.js
+- Multi-agent systems
+- Workflow automation
 quality_score: 9
 rag_relevance: 8
-tags: ["AI development automation", "multi-agent workflows", "Claude Code plugin", "automated PR generation", "context management"]
-source: "https://github.com/aimsise/simple-workflow"
-discovered_at: "2026-06-25T17:10:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI development automation
+- multi-agent workflows
+- Claude Code plugin
+- automated PR generation
+- context management
+source: https://github.com/aimsise/simple-workflow
+discovered_at: '2026-06-25T17:10:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

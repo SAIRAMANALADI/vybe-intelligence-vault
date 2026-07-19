@@ -1,13 +1,24 @@
 ---
-title: "AxelGalvez11/nemesis-desktop"
-category: "Agent Framework"
-tech_stack: ["Electron", "Node.js", "Python", "TypeScript", "React", "Hermes CLI"]
+title: AxelGalvez11/nemesis-desktop
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- Electron
+- Node.js
+- Python
+- TypeScript
+- React
+- Hermes CLI
 quality_score: 7
 rag_relevance: 6
-tags: ["study agent", "desktop application", "cross-platform", "local AI", "research assistant"]
-source: "https://github.com/AxelGalvez11/nemesis-desktop"
-discovered_at: "2026-07-16T18:05:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- study agent
+- desktop application
+- cross-platform
+- local AI
+- research assistant
+source: https://github.com/AxelGalvez11/nemesis-desktop
+discovered_at: '2026-07-16T18:05:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "Lucianfoul165/Agent-Signal-Bar"
-category: "Tooling"
-tech_stack: ["Swift", "macOS", "UIKit", "Local API Integration"]
+title: Lucianfoul165/Agent-Signal-Bar
+category: daily-digests/2026-06-24
+tech_stack:
+- Swift
+- macOS
+- UIKit
+- Local API Integration
 quality_score: 7
 rag_relevance: 5
-tags: ["status monitoring", "menu bar utility", "AI agent tracking", "macOS tool", "visual indicators"]
-source: "https://github.com/Lucianfoul165/Agent-Signal-Bar"
-discovered_at: "2026-06-24T06:46:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- status monitoring
+- menu bar utility
+- AI agent tracking
+- macOS tool
+- visual indicators
+source: https://github.com/Lucianfoul165/Agent-Signal-Bar
+discovered_at: '2026-06-24T06:46:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

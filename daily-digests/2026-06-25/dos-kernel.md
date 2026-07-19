@@ -1,13 +1,24 @@
 ---
-title: "anthony-chaudhary/dos-kernel"
-category: "Orchestrator"
-tech_stack: ["Python", "PyYAML", "Git", "CLI", "MCP (Model Context Protocol)", "CI/CD Pipelines"]
+title: anthony-chaudhary/dos-kernel
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- PyYAML
+- Git
+- CLI
+- MCP (Model Context Protocol)
+- CI/CD Pipelines
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent verification", "claim validation", "git-based auditing", "fleet orchestration", "truthfulness enforcement"]
-source: "https://github.com/anthony-chaudhary/dos-kernel"
-discovered_at: "2026-06-25T17:11:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent verification
+- claim validation
+- git-based auditing
+- fleet orchestration
+- truthfulness enforcement
+source: https://github.com/anthony-chaudhary/dos-kernel
+discovered_at: '2026-06-25T17:11:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

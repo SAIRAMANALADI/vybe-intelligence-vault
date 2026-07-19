@@ -1,13 +1,27 @@
 ---
-title: "fastagent-sh/fastagent"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Bun", "Zod", "Undici", "Docker", "GitHub Actions", "OpenTelemetry (future)", "React/Next.js (embedding)"]
+title: fastagent-sh/fastagent
+category: daily-digests/2026-07-13
+tech_stack:
+- TypeScript
+- Node.js
+- Bun
+- Zod
+- Undici
+- Docker
+- GitHub Actions
+- OpenTelemetry (future)
+- React/Next.js (embedding)
 quality_score: 9
 rag_relevance: 8
-tags: ["agent deployment", "multi-channel", "agent orchestration", "RAG integration", "production-ready"]
-source: "https://github.com/fastagent-sh/fastagent"
-discovered_at: "2026-07-10T16:24:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent deployment
+- multi-channel
+- agent orchestration
+- RAG integration
+- production-ready
+source: https://github.com/fastagent-sh/fastagent
+discovered_at: '2026-07-10T16:24:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

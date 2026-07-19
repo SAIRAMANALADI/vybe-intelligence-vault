@@ -1,13 +1,24 @@
 ---
-title: "giantswarm/muster"
-category: "Orchestrator"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "Kubernetes", "YAML", "CLI", "REST API"]
+title: giantswarm/muster
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- Kubernetes
+- YAML
+- CLI
+- REST API
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP aggregation", "AI agent orchestration", "workflow automation", "infrastructure management", "tool discovery"]
-source: "https://github.com/giantswarm/muster"
-discovered_at: "2026-06-24T13:23:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP aggregation
+- AI agent orchestration
+- workflow automation
+- infrastructure management
+- tool discovery
+source: https://github.com/giantswarm/muster
+discovered_at: '2026-06-24T13:23:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

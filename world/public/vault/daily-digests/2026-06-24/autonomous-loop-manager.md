@@ -1,13 +1,23 @@
 ---
-title: "LeoYeAI/autonomous-loop-manager"
-category: "Agent Framework"
-tech_stack: ["Node.js", "JavaScript", "File-based storage", "Atomic writes", "File locking"]
+title: LeoYeAI/autonomous-loop-manager
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Node.js
+- JavaScript
+- File-based storage
+- Atomic writes
+- File locking
 quality_score: 8
 rag_relevance: 7
-tags: ["Agent memory", "Goal tracking", "Strategy evolution", "Failure reflection", "Cross-session learning"]
-source: "https://github.com/LeoYeAI/autonomous-loop-manager"
-discovered_at: "2026-06-24T02:41:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agent memory
+- Goal tracking
+- Strategy evolution
+- Failure reflection
+- Cross-session learning
+source: https://github.com/LeoYeAI/autonomous-loop-manager
+discovered_at: '2026-06-24T02:41:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

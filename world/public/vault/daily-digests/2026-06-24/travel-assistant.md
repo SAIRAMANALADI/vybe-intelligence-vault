@@ -1,13 +1,32 @@
 ---
-title: "JoanKarantourou/travel-assistant"
-category: "Agent Framework"
-tech_stack: ["Python 3.12", "LangGraph", "Chainlit", "Postgres + pgvector", "SQLAlchemy", "Anthropic Claude", "sentence-transformers", "Prometheus", "OpenTelemetry", "Jaeger", "Grafana", "Docker", "uv", "Alembic"]
+title: JoanKarantourou/travel-assistant
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python 3.12
+- LangGraph
+- Chainlit
+- Postgres + pgvector
+- SQLAlchemy
+- Anthropic Claude
+- sentence-transformers
+- Prometheus
+- OpenTelemetry
+- Jaeger
+- Grafana
+- Docker
+- uv
+- Alembic
 quality_score: 9
 rag_relevance: 9
-tags: ["conversational AI", "multi-agent orchestration", "RAG with pgvector", "travel assistant", "observability"]
-source: "https://github.com/JoanKarantourou/travel-assistant"
-discovered_at: "2026-06-24T13:17:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- conversational AI
+- multi-agent orchestration
+- RAG with pgvector
+- travel assistant
+- observability
+source: https://github.com/JoanKarantourou/travel-assistant
+discovered_at: '2026-06-24T13:17:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

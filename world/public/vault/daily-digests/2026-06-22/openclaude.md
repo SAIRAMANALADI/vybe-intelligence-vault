@@ -1,13 +1,25 @@
 ---
-title: "Gitlawb/openclaude"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "OAuth", "REST APIs", "VS Code Extension"]
+title: Gitlawb/openclaude
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- MCP (Model Context Protocol)
+- OAuth
+- REST APIs
+- VS Code Extension
 quality_score: 9
 rag_relevance: 8
-tags: ["coding agent", "multi-provider", "CLI tool", "MCP integration", "terminal workflow"]
-source: "https://github.com/Gitlawb/openclaude"
-discovered_at: "2026-06-22T16:48:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- coding agent
+- multi-provider
+- CLI tool
+- MCP integration
+- terminal workflow
+source: https://github.com/Gitlawb/openclaude
+discovered_at: '2026-06-22T16:48:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

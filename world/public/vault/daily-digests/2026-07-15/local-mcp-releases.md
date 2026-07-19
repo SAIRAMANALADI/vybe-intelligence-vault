@@ -1,13 +1,27 @@
 ---
-title: "lanchuske/local-mcp-releases"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "JXA (JavaScript for Automation)", "AppleScript", "LevelDB", "Electron", "React", "macOS Frameworks (EventKit, CNContactStore)"]
+title: lanchuske/local-mcp-releases
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- JXA (JavaScript for Automation)
+- AppleScript
+- LevelDB
+- Electron
+- React
+- macOS Frameworks (EventKit, CNContactStore)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "macOS integration", "local AI tools", "RAG augmentation", "multi-app automation"]
-source: "https://github.com/lanchuske/local-mcp-releases"
-discovered_at: "2026-07-11T23:53:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- macOS integration
+- local AI tools
+- RAG augmentation
+- multi-app automation
+source: https://github.com/lanchuske/local-mcp-releases
+discovered_at: '2026-07-11T23:53:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

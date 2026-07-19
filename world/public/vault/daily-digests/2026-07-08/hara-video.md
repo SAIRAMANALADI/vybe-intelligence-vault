@@ -1,13 +1,26 @@
 ---
-title: "hara-cli/hara-video"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "HyperFrames", "FFmpeg", "Local TTS (Kokoro)", "HTML/CSS", "CLI", "Apache-2.0"]
+title: hara-cli/hara-video
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- Node.js
+- HyperFrames
+- FFmpeg
+- Local TTS (Kokoro)
+- HTML/CSS
+- CLI
+- Apache-2.0
 quality_score: 8
 rag_relevance: 7
-tags: ["video automation", "local TTS", "Chinese captioning", "AI agent integration", "terminal-based"]
-source: "https://github.com/hara-cli/hara-video"
-discovered_at: "2026-07-08T17:24:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- video automation
+- local TTS
+- Chinese captioning
+- AI agent integration
+- terminal-based
+source: https://github.com/hara-cli/hara-video
+discovered_at: '2026-07-08T17:24:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

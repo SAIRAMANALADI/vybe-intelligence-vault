@@ -1,13 +1,21 @@
 ---
-title: "mugoherick12-boop/skillz"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Cross-platform (Windows, macOS, Linux)"]
+title: mugoherick12-boop/skillz
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Cross-platform (Windows, macOS, Linux)
 quality_score: 5
 rag_relevance: 6
-tags: ["MCP", "skill management", "cross-platform", "tool integration", "AI client"]
-source: "https://github.com/mugoherick12-boop/skillz"
-discovered_at: "2026-06-24T13:25:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- skill management
+- cross-platform
+- tool integration
+- AI client
+source: https://github.com/mugoherick12-boop/skillz
+discovered_at: '2026-06-24T13:25:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

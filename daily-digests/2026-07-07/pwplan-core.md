@@ -1,13 +1,26 @@
 ---
-title: "Protocol-Wealth/pwplan-core"
-category: "UI Component"
-tech_stack: ["React 19", "Vite 8", "TypeScript", "Tailwind CSS v4", "Zustand", "Node.js", "GCP Cloud Run", "Cloudflare"]
+title: Protocol-Wealth/pwplan-core
+category: daily-digests/2026-07-07
+tech_stack:
+- React 19
+- Vite 8
+- TypeScript
+- Tailwind CSS v4
+- Zustand
+- Node.js
+- GCP Cloud Run
+- Cloudflare
 quality_score: 8
 rag_relevance: 7
-tags: ["financial planning", "privacy-first", "de-identified data", "UI framework", "open source"]
-source: "https://github.com/Protocol-Wealth/pwplan-core"
-discovered_at: "2026-07-07T22:08:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- financial planning
+- privacy-first
+- de-identified data
+- UI framework
+- open source
+source: https://github.com/Protocol-Wealth/pwplan-core
+discovered_at: '2026-07-07T22:08:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

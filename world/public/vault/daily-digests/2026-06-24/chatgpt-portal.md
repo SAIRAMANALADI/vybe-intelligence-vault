@@ -1,13 +1,23 @@
 ---
-title: "Glabrous-driving823/chatgpt-portal"
-category: "Tooling"
-tech_stack: ["TypeScript", "Cloudflare Tunnel", "Electron (implied by .exe distribution)", "Node.js (implied by TypeScript)", "Chrome Snapshots"]
+title: Glabrous-driving823/chatgpt-portal
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Cloudflare Tunnel
+- Electron (implied by .exe distribution)
+- Node.js (implied by TypeScript)
+- Chrome Snapshots
 quality_score: 7
 rag_relevance: 8
-tags: ["local web sharing", "ChatGPT integration", "secure tunneling", "snapshot-based RAG", "privacy-focused"]
-source: "https://github.com/Glabrous-driving823/chatgpt-portal"
-discovered_at: "2026-06-24T22:17:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local web sharing
+- ChatGPT integration
+- secure tunneling
+- snapshot-based RAG
+- privacy-focused
+source: https://github.com/Glabrous-driving823/chatgpt-portal
+discovered_at: '2026-06-24T22:17:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "appautomaton/pi-arcweld"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Git Submodules", "MCP (Model Context Protocol)", "Shell Scripting", "Node.js"]
+title: appautomaton/pi-arcweld
+category: daily-digests/2026-07-15
+tech_stack:
+- TypeScript
+- Git Submodules
+- MCP (Model Context Protocol)
+- Shell Scripting
+- Node.js
 quality_score: 8
 rag_relevance: 7
-tags: ["agent-environment", "workspace-management", "reproducible-runtime", "MCP-servers", "Pi-agent"]
-source: "https://github.com/appautomaton/pi-arcweld"
-discovered_at: "2026-07-13T22:55:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent-environment
+- workspace-management
+- reproducible-runtime
+- MCP-servers
+- Pi-agent
+source: https://github.com/appautomaton/pi-arcweld
+discovered_at: '2026-07-13T22:55:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

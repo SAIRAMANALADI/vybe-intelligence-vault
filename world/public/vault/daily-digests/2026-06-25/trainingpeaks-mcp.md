@@ -1,13 +1,23 @@
 ---
-title: "haytam111234/trainingpeaks-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "TrainingPeaks API", "Electron (for desktop app)", "Natural Language Processing"]
+title: haytam111234/trainingpeaks-mcp
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- TrainingPeaks API
+- Electron (for desktop app)
+- Natural Language Processing
 quality_score: 7
 rag_relevance: 6
-tags: ["fitness data", "MCP server", "natural language queries", "TrainingPeaks integration", "desktop application"]
-source: "https://github.com/haytam111234/trainingpeaks-mcp"
-discovered_at: "2026-06-25T00:11:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- fitness data
+- MCP server
+- natural language queries
+- TrainingPeaks integration
+- desktop application
+source: https://github.com/haytam111234/trainingpeaks-mcp
+discovered_at: '2026-06-25T00:11:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "monaty1/devflow-ai"
-category: "Tooling"
-tech_stack: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Browser-based JavaScript"]
+title: monaty1/devflow-ai
+category: daily-digests/2026-07-18
+tech_stack:
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Browser-based JavaScript
 quality_score: 7
 rag_relevance: 6
-tags: ["AI development", "browser-based tools", "developer productivity", "open-source", "prompt engineering"]
-source: "https://github.com/monaty1/devflow-ai"
-discovered_at: "2026-07-17T02:52:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI development
+- browser-based tools
+- developer productivity
+- open-source
+- prompt engineering
+source: https://github.com/monaty1/devflow-ai
+discovered_at: '2026-07-17T02:52:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

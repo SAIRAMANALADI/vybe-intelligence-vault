@@ -1,13 +1,23 @@
 ---
-title: "111nathanlar/Agent-Worlds"
-category: "Agent Framework"
-tech_stack: ["Python", "HTML", "JavaScript", "Agent-based modeling", "Simulation frameworks"]
+title: 111nathanlar/Agent-Worlds
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- HTML
+- JavaScript
+- Agent-based modeling
+- Simulation frameworks
 quality_score: 3
 rag_relevance: 6
-tags: ["multi-agent systems", "simulation", "autonomous agents", "agent frameworks", "AI environments"]
-source: "https://github.com/111nathanlar/Agent-Worlds"
-discovered_at: "2026-07-09T23:07:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- simulation
+- autonomous agents
+- agent frameworks
+- AI environments
+source: https://github.com/111nathanlar/Agent-Worlds
+discovered_at: '2026-07-09T23:07:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

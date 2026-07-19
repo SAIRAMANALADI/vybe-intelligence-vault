@@ -1,13 +1,27 @@
 ---
-title: "alanchenchen/suna"
-category: "Agent Framework"
-tech_stack: ["Go", "TUI (Bubble Tea)", "LLM APIs (OpenAI, Anthropic, OpenAI Compatible)", "Subtask routing", "Guard (Smart Review)", "Memory (SQLite)", "MCP (Model Context Protocol)", "HTTP", "Filesystem tools"]
+title: alanchenchen/suna
+category: daily-digests/2026-06-24
+tech_stack:
+- Go
+- TUI (Bubble Tea)
+- LLM APIs (OpenAI, Anthropic, OpenAI Compatible)
+- Subtask routing
+- Guard (Smart Review)
+- Memory (SQLite)
+- MCP (Model Context Protocol)
+- HTTP
+- Filesystem tools
 quality_score: 9
 rag_relevance: 8
-tags: ["local AI agent", "terminal TUI", "subtask routing", "smart guard", "developer tools"]
-source: "https://github.com/alanchenchen/suna"
-discovered_at: "2026-06-24T06:42:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local AI agent
+- terminal TUI
+- subtask routing
+- smart guard
+- developer tools
+source: https://github.com/alanchenchen/suna
+discovered_at: '2026-06-24T06:42:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,30 @@
 ---
-title: "xg-gh-25/SwarmAI"
-category: "Orchestrator"
-tech_stack: ["Python", "Rust", "Node.js", "TypeScript", "Tauri", "React", "Claude Code CLI", "uv (package manager)", "SQLite", "FTS5 (Full-Text Search)", "Git", "CI/CD Pipelines"]
+title: xg-gh-25/SwarmAI
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- Rust
+- Node.js
+- TypeScript
+- Tauri
+- React
+- Claude Code CLI
+- uv (package manager)
+- SQLite
+- FTS5 (Full-Text Search)
+- Git
+- CI/CD Pipelines
 quality_score: 9
 rag_relevance: 10
-tags: ["Agent OS", "Self-Evolving Systems", "Memory Management", "Knowledge Compounding", "AI Orchestration"]
-source: "https://github.com/xg-gh-25/SwarmAI"
-discovered_at: "2026-07-08T15:15:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agent OS
+- Self-Evolving Systems
+- Memory Management
+- Knowledge Compounding
+- AI Orchestration
+source: https://github.com/xg-gh-25/SwarmAI
+discovered_at: '2026-07-08T15:15:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

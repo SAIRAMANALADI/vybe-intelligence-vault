@@ -1,13 +1,28 @@
 ---
-title: "Liruns/marudesk"
-category: "Agent Framework"
-tech_stack: ["Electron", "TypeScript", "React", "Chrome DevTools Protocol (CDP)", "Monaco Editor", "Node.js", "WebSockets", "OAuth", "MCP (Model Context Protocol)", "Rust (for performance-critical components)"]
+title: Liruns/marudesk
+category: daily-digests/2026-06-23
+tech_stack:
+- Electron
+- TypeScript
+- React
+- Chrome DevTools Protocol (CDP)
+- Monaco Editor
+- Node.js
+- WebSockets
+- OAuth
+- MCP (Model Context Protocol)
+- Rust (for performance-critical components)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent", "runtime verification", "multi-provider", "desktop IDE", "DevTools integration"]
-source: "https://github.com/Liruns/marudesk"
-discovered_at: "2026-06-23T06:50:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- runtime verification
+- multi-provider
+- desktop IDE
+- DevTools integration
+source: https://github.com/Liruns/marudesk
+discovered_at: '2026-06-23T06:50:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

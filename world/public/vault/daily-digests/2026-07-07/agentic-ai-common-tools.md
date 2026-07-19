@@ -1,13 +1,33 @@
 ---
-title: "ace19-dev/agentic-ai-common-tools"
-category: "Agent Framework"
-tech_stack: ["Python", "LangGraph", "LangChain", "MCP (Model Context Protocol)", "SQLite", "ChromaDB", "PostgreSQL", "APScheduler", "Celery", "BeautifulSoup", "SerpAPI", "Grafana Loki", "Elasticsearch", "Datadog", "FastAPI"]
+title: ace19-dev/agentic-ai-common-tools
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- LangGraph
+- LangChain
+- MCP (Model Context Protocol)
+- SQLite
+- ChromaDB
+- PostgreSQL
+- APScheduler
+- Celery
+- BeautifulSoup
+- SerpAPI
+- Grafana Loki
+- Elasticsearch
+- Datadog
+- FastAPI
 quality_score: 9
 rag_relevance: 10
-tags: ["multi-agent systems", "RAG tooling", "MCP framework", "LangGraph workflows", "scalable AI agents"]
-source: "https://github.com/ace19-dev/agentic-ai-common-tools"
-discovered_at: "2026-07-07T06:41:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- RAG tooling
+- MCP framework
+- LangGraph workflows
+- scalable AI agents
+source: https://github.com/ace19-dev/agentic-ai-common-tools
+discovered_at: '2026-07-07T06:41:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "mage0535/ant-colony"
-category: "Orchestrator"
-tech_stack: ["Python", "LLM Engine", "WeCom Bot", "Feishu Bot", "DingTalk Bot", "Vector DB", "REST APIs", "Task Orchestration", "Memory Systems", "Knowledge Base"]
+title: mage0535/ant-colony
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- LLM Engine
+- WeCom Bot
+- Feishu Bot
+- DingTalk Bot
+- Vector DB
+- REST APIs
+- Task Orchestration
+- Memory Systems
+- Knowledge Base
 quality_score: 8
 rag_relevance: 7
-tags: ["multi-agent systems", "enterprise collaboration", "bot orchestration", "capability backend", "LLM integration"]
-source: "https://github.com/mage0535/ant-colony"
-discovered_at: "2026-06-23T09:00:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- enterprise collaboration
+- bot orchestration
+- capability backend
+- LLM integration
+source: https://github.com/mage0535/ant-colony
+discovered_at: '2026-06-23T09:00:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

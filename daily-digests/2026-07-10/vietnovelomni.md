@@ -1,13 +1,23 @@
 ---
-title: "NachaFromMars/VietNovelOmni"
-category: "Tooling"
-tech_stack: ["Go", "LLM APIs (OpenRouter, Anthropic, OpenAI, Ollama)", "Docker", "EPUB 3", "TUI (Terminal User Interface)"]
+title: NachaFromMars/VietNovelOmni
+category: daily-digests/2026-07-10
+tech_stack:
+- Go
+- LLM APIs (OpenRouter, Anthropic, OpenAI, Ollama)
+- Docker
+- EPUB 3
+- TUI (Terminal User Interface)
 quality_score: 9
 rag_relevance: 7
-tags: ["AI novel generation", "multi-agent system", "Vietnamese NLP", "autonomous writing", "EPUB export"]
-source: "https://github.com/NachaFromMars/VietNovelOmni"
-discovered_at: "2026-07-10T06:30:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI novel generation
+- multi-agent system
+- Vietnamese NLP
+- autonomous writing
+- EPUB export
+source: https://github.com/NachaFromMars/VietNovelOmni
+discovered_at: '2026-07-10T06:30:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

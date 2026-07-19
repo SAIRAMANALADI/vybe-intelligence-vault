@@ -1,13 +1,28 @@
 ---
-title: "ImpactMojo/ImpactMojo"
-category: "UI Component"
-tech_stack: ["HTML5", "CSS3", "JavaScript", "TypeScript", "Deno", "PostgreSQL", "Supabase", "Netlify", "Google Translate", "MCP Server"]
+title: ImpactMojo/ImpactMojo
+category: daily-digests/2026-06-23
+tech_stack:
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- Deno
+- PostgreSQL
+- Supabase
+- Netlify
+- Google Translate
+- MCP Server
 quality_score: 9
 rag_relevance: 7
-tags: ["education platform", "development tools", "interactive learning", "NGO resources", "accessibility"]
-source: "https://github.com/ImpactMojo/ImpactMojo"
-discovered_at: "2026-06-23T10:40:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- education platform
+- development tools
+- interactive learning
+- NGO resources
+- accessibility
+source: https://github.com/ImpactMojo/ImpactMojo
+discovered_at: '2026-06-23T10:40:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

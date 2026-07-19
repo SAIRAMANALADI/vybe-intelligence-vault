@@ -1,13 +1,21 @@
 ---
-title: "Genusboragosirharoldwalterkroto654/claude-config-editor"
-category: "Tooling"
-tech_stack: ["Electron", "HTML/CSS/JavaScript", "Node.js"]
+title: Genusboragosirharoldwalterkroto654/claude-config-editor
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Electron
+- HTML/CSS/JavaScript
+- Node.js
 quality_score: 5
 rag_relevance: 4
-tags: ["Claude optimization", "configuration management", "local tool", "desktop app", "data cleanup"]
-source: "https://github.com/Genusboragosirharoldwalterkroto654/claude-config-editor"
-discovered_at: "2026-07-07T02:33:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude optimization
+- configuration management
+- local tool
+- desktop app
+- data cleanup
+source: https://github.com/Genusboragosirharoldwalterkroto654/claude-config-editor
+discovered_at: '2026-07-07T02:33:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

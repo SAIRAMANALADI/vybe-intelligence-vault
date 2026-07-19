@@ -1,13 +1,23 @@
 ---
-title: "Invasivecape/ghost-protocol"
-category: "Tooling"
-tech_stack: ["Solidity", "JavaScript", "Electron", "Node.js", "Command Line Interface"]
+title: Invasivecape/ghost-protocol
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Solidity
+- JavaScript
+- Electron
+- Node.js
+- Command Line Interface
 quality_score: 5
 rag_relevance: 3
-tags: ["privacy", "data commitment", "secure disclosure", "digital freedom", "encryption-free"]
-source: "https://github.com/Invasivecape/ghost-protocol"
-discovered_at: "2026-06-25T00:11:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- privacy
+- data commitment
+- secure disclosure
+- digital freedom
+- encryption-free
+source: https://github.com/Invasivecape/ghost-protocol
+discovered_at: '2026-06-25T00:11:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "megamen32/gptadmin_opensource"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Uvicorn", "MCP (Model Context Protocol)", "Go (for shellmcp agent)", "Shell scripting", "Systemd", "Nginx", "Telegram Bots", "OpenAPI"]
+title: megamen32/gptadmin_opensource
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- FastAPI
+- Uvicorn
+- MCP (Model Context Protocol)
+- Go (for shellmcp agent)
+- Shell scripting
+- Systemd
+- Nginx
+- Telegram Bots
+- OpenAPI
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP hub", "self-hosted", "AI infrastructure control", "multi-AI compatibility", "server administration"]
-source: "https://github.com/megamen32/gptadmin_opensource"
-discovered_at: "2026-07-07T23:54:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP hub
+- self-hosted
+- AI infrastructure control
+- multi-AI compatibility
+- server administration
+source: https://github.com/megamen32/gptadmin_opensource
+discovered_at: '2026-07-07T23:54:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

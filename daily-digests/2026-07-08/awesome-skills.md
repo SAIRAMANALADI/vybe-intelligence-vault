@@ -1,13 +1,25 @@
 ---
-title: "johnqtcg/awesome-skills"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code", "GitHub Copilot", "Makefile", "CI/CD", "JSON", "Markdown"]
+title: johnqtcg/awesome-skills
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- Claude Code
+- GitHub Copilot
+- Makefile
+- CI/CD
+- JSON
+- Markdown
 quality_score: 9
 rag_relevance: 8
-tags: ["AI skills", "Claude Code", "workflow automation", "quantitative evaluation", "engineering methodology"]
-source: "https://github.com/johnqtcg/awesome-skills"
-discovered_at: "2026-07-08T08:16:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI skills
+- Claude Code
+- workflow automation
+- quantitative evaluation
+- engineering methodology
+source: https://github.com/johnqtcg/awesome-skills
+discovered_at: '2026-07-08T08:16:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,30 @@
 ---
-title: "KazKozDev/footnote-mcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Playwright", "Tavily API", "Brave API", "Google Custom Search JSON API", "DuckDuckGo", "Bing", "Pandas", "PyTesseract", "Ollama", "Docker"]
+title: KazKozDev/footnote-mcp
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Playwright
+- Tavily API
+- Brave API
+- Google Custom Search JSON API
+- DuckDuckGo
+- Bing
+- Pandas
+- PyTesseract
+- Ollama
+- Docker
 quality_score: 9
 rag_relevance: 10
-tags: ["claim verification", "web research", "MCP server", "source grounding", "structured data extraction"]
-source: "https://github.com/KazKozDev/footnote-mcp"
-discovered_at: "2026-07-11T17:54:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- claim verification
+- web research
+- MCP server
+- source grounding
+- structured data extraction
+source: https://github.com/KazKozDev/footnote-mcp
+discovered_at: '2026-07-11T17:54:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,29 @@
 ---
-title: "Lumina-AI-studio/mcp-production-kit"
-category: "Tooling"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "OAuth 2.1", "JWT", "RBAC", "PostgreSQL", "Keycloak", "Auth0", "Docker", "Node.js", "Vitest"]
+title: Lumina-AI-studio/mcp-production-kit
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- OAuth 2.1
+- JWT
+- RBAC
+- PostgreSQL
+- Keycloak
+- Auth0
+- Docker
+- Node.js
+- Vitest
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "OAuth 2.1", "RBAC", "audit logging", "TypeScript"]
-source: "https://github.com/Lumina-AI-studio/mcp-production-kit"
-discovered_at: "2026-07-10T16:24:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- OAuth 2.1
+- RBAC
+- audit logging
+- TypeScript
+source: https://github.com/Lumina-AI-studio/mcp-production-kit
+discovered_at: '2026-07-10T16:24:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

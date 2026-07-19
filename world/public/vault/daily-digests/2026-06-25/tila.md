@@ -1,13 +1,27 @@
 ---
-title: "davebream/tila"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Cloudflare Workers", "Durable Objects", "D1 (SQLite)", "R2 (Object Storage)", "Bun", "SQLite", "npm", "MCP (Model Context Protocol)"]
+title: davebream/tila
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Cloudflare Workers
+- Durable Objects
+- D1 (SQLite)
+- R2 (Object Storage)
+- Bun
+- SQLite
+- npm
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 9
-tags: ["state management", "artifact storage", "agent coordination", "content-addressed", "schema validation"]
-source: "https://github.com/davebream/tila"
-discovered_at: "2026-06-25T14:18:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- state management
+- artifact storage
+- agent coordination
+- content-addressed
+- schema validation
+source: https://github.com/davebream/tila
+discovered_at: '2026-06-25T14:18:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

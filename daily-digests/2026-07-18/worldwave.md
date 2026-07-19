@@ -1,13 +1,28 @@
 ---
-title: "Clean-Dust/worldwave"
-category: "Agent Framework"
-tech_stack: ["Python", "SQLite", "LLM APIs (DeepSeek, Anthropic, OpenAI)", "FastAPI", "Telegram Bot API", "Playwright", "Whisper (STT)", "NATS JetStream", "Pydantic", "SQLAlchemy"]
+title: Clean-Dust/worldwave
+category: daily-digests/2026-07-18
+tech_stack:
+- Python
+- SQLite
+- LLM APIs (DeepSeek, Anthropic, OpenAI)
+- FastAPI
+- Telegram Bot API
+- Playwright
+- Whisper (STT)
+- NATS JetStream
+- Pydantic
+- SQLAlchemy
 quality_score: 9
 rag_relevance: 8
-tags: ["persistent memory", "cross-platform agents", "temporal knowledge graph", "self-editing agents", "state machine"]
-source: "https://github.com/Clean-Dust/worldwave"
-discovered_at: "2026-07-12T22:44:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- cross-platform agents
+- temporal knowledge graph
+- self-editing agents
+- state machine
+source: https://github.com/Clean-Dust/worldwave
+discovered_at: '2026-07-12T22:44:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

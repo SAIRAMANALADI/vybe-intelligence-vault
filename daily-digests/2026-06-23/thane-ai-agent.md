@@ -1,13 +1,25 @@
 ---
-title: "nugget/thane-ai-agent"
-category: "Agent Framework"
-tech_stack: ["Go", "SQLite", "Home Assistant", "Ollama", "MQTT", "Docker", "GitHub Actions"]
+title: nugget/thane-ai-agent
+category: daily-digests/2026-06-23
+tech_stack:
+- Go
+- SQLite
+- Home Assistant
+- Ollama
+- MQTT
+- Docker
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-tags: ["home automation", "autonomous AI", "persistent memory", "multi-model routing", "privacy-first"]
-source: "https://github.com/nugget/thane-ai-agent"
-discovered_at: "2026-06-23T23:07:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- home automation
+- autonomous AI
+- persistent memory
+- multi-model routing
+- privacy-first
+source: https://github.com/nugget/thane-ai-agent
+discovered_at: '2026-06-23T23:07:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

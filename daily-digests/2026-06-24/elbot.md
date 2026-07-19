@@ -1,13 +1,25 @@
 ---
-title: "Elflare/elbot"
-category: "Agent Framework"
-tech_stack: ["Go", "SQLite", "Markdown", "HTTP", "Cron Scheduling", "Hook Systems", "Agent Frameworks"]
+title: Elflare/elbot
+category: daily-digests/2026-06-24
+tech_stack:
+- Go
+- SQLite
+- Markdown
+- HTTP
+- Cron Scheduling
+- Hook Systems
+- Agent Frameworks
 quality_score: 8
 rag_relevance: 9
-tags: ["lightweight", "token-efficient", "agent-framework", "event-driven", "extensible"]
-source: "https://github.com/Elflare/elbot"
-discovered_at: "2026-06-24T02:42:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- lightweight
+- token-efficient
+- agent-framework
+- event-driven
+- extensible
+source: https://github.com/Elflare/elbot
+discovered_at: '2026-06-24T02:42:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

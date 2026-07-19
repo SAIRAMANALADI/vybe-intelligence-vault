@@ -1,13 +1,30 @@
 ---
-title: "ElenaRevicheva/AIPA_AITCF"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Express", "Oracle Autonomous DB", "Claude Opus 4", "Groq Llama 3.3 70B", "Whisper", "Telegram Bot API", "PM2", "Bright Data (Web Unlocker, SERP API, Scraping Browser, MCP Server)", "GitHub Webhooks", "Mermaid.js"]
+title: ElenaRevicheva/AIPA_AITCF
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- TypeScript
+- Node.js
+- Express
+- Oracle Autonomous DB
+- Claude Opus 4
+- Groq Llama 3.3 70B
+- Whisper
+- Telegram Bot API
+- PM2
+- Bright Data (Web Unlocker, SERP API, Scraping Browser, MCP Server)
+- GitHub Webhooks
+- Mermaid.js
 quality_score: 9
 rag_relevance: 8
-tags: ["AI code review", "agent orchestration", "LLM routing", "web data integration", "production AI"]
-source: "https://github.com/ElenaRevicheva/AIPA_AITCF"
-discovered_at: "2026-07-11T15:54:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI code review
+- agent orchestration
+- LLM routing
+- web data integration
+- production AI
+source: https://github.com/ElenaRevicheva/AIPA_AITCF
+discovered_at: '2026-07-11T15:54:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

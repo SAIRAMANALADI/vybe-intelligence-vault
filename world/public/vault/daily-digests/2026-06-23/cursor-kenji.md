@@ -1,13 +1,28 @@
 ---
-title: "kensaurus/cursor-kenji"
-category: "Tooling"
-tech_stack: ["JavaScript", "TypeScript", "React", "Next.js", "Supabase", "Tailwind CSS", "Cursor AI", "MCP (Model Context Protocol)", "Node.js", "npm"]
+title: kensaurus/cursor-kenji
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Supabase
+- Tailwind CSS
+- Cursor AI
+- MCP (Model Context Protocol)
+- Node.js
+- npm
 quality_score: 9
 rag_relevance: 7
-tags: ["Cursor AI", "Agent Skills", "MCP Servers", "Slash Commands", "React/Next.js"]
-source: "https://github.com/kensaurus/cursor-kenji"
-discovered_at: "2026-06-23T02:42:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Cursor AI
+- Agent Skills
+- MCP Servers
+- Slash Commands
+- React/Next.js
+source: https://github.com/kensaurus/cursor-kenji
+discovered_at: '2026-06-23T02:42:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

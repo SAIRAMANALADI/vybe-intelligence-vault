@@ -1,13 +1,29 @@
 ---
-title: "trueoriginlabs/vibatchium"
-category: "Agent Framework"
-tech_stack: ["Python", "Playwright", "Chromium", "CDP (Chrome DevTools Protocol)", "FastAPI", "curl_cffi", "XSalsa20-Poly1305", "OS keyring", "MCP (Model Context Protocol)", "WebSocket", "REST API"]
+title: trueoriginlabs/vibatchium
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Playwright
+- Chromium
+- CDP (Chrome DevTools Protocol)
+- FastAPI
+- curl_cffi
+- XSalsa20-Poly1305
+- OS keyring
+- MCP (Model Context Protocol)
+- WebSocket
+- REST API
 quality_score: 9
 rag_relevance: 10
-tags: ["browser automation", "Cloudflare bypass", "multi-session", "credential vault", "prompt-injection safety"]
-source: "https://github.com/trueoriginlabs/vibatchium"
-discovered_at: "2026-07-07T02:34:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- Cloudflare bypass
+- multi-session
+- credential vault
+- prompt-injection safety
+source: https://github.com/trueoriginlabs/vibatchium
+discovered_at: '2026-07-07T02:34:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

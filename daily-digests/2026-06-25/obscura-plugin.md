@@ -1,13 +1,25 @@
 ---
-title: "epicsagas/obscura-plugin"
-category: "Tooling"
-tech_stack: ["Rust", "JavaScript", "Headless Browser (Obscura)", "CLI", "Plugin System", "Markdown", "TOML"]
+title: epicsagas/obscura-plugin
+category: daily-digests/2026-06-25
+tech_stack:
+- Rust
+- JavaScript
+- Headless Browser (Obscura)
+- CLI
+- Plugin System
+- Markdown
+- TOML
 quality_score: 9
 rag_relevance: 8
-tags: ["web scraping", "browser automation", "AI agent integration", "headless browser", "data extraction"]
-source: "https://github.com/epicsagas/obscura-plugin"
-discovered_at: "2026-06-25T17:13:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web scraping
+- browser automation
+- AI agent integration
+- headless browser
+- data extraction
+source: https://github.com/epicsagas/obscura-plugin
+discovered_at: '2026-06-25T17:13:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

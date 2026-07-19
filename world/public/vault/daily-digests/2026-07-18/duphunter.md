@@ -1,13 +1,22 @@
 ---
-title: "Sabarudin4433/duphunter"
-category: "Tooling"
-tech_stack: ["Python", "Abstract Syntax Tree (AST)", "Windows OS", "GUI"]
+title: Sabarudin4433/duphunter
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- Python
+- Abstract Syntax Tree (AST)
+- Windows OS
+- GUI
 quality_score: 7
 rag_relevance: 6
-tags: ["code duplication detection", "Python refactoring", "AST analysis", "code maintenance", "Windows tool"]
-source: "https://github.com/Sabarudin4433/duphunter"
-discovered_at: "2026-07-12T13:36:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code duplication detection
+- Python refactoring
+- AST analysis
+- code maintenance
+- Windows tool
+source: https://github.com/Sabarudin4433/duphunter
+discovered_at: '2026-07-12T13:36:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "rafaself/aws-mcp-gateway"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Cloudflare Workers", "AWS SDK", "Model Context Protocol (MCP)", "Cloudflare KV", "OAuth", "Wrangler"]
+title: rafaself/aws-mcp-gateway
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- Cloudflare Workers
+- AWS SDK
+- Model Context Protocol (MCP)
+- Cloudflare KV
+- OAuth
+- Wrangler
 quality_score: 9
 rag_relevance: 9
-tags: ["AWS", "MCP", "ChatGPT", "Security", "Cost Monitoring"]
-source: "https://github.com/rafaself/aws-mcp-gateway"
-discovered_at: "2026-06-23T21:37:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AWS
+- MCP
+- ChatGPT
+- Security
+- Cost Monitoring
+source: https://github.com/rafaself/aws-mcp-gateway
+discovered_at: '2026-06-23T21:37:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,30 @@
 ---
-title: "anatolykoptev/go-job"
-category: "Tooling"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "LLM (Large Language Models)", "Redis", "SQLite", "PostgreSQL", "Prometheus", "Telegram Bot API", "SearXNG", "REST APIs", "Jaccard similarity", "systemd"]
+title: anatolykoptev/go-job
+category: daily-digests/2026-07-08
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- LLM (Large Language Models)
+- Redis
+- SQLite
+- PostgreSQL
+- Prometheus
+- Telegram Bot API
+- SearXNG
+- REST APIs
+- Jaccard similarity
+- systemd
 quality_score: 9
 rag_relevance: 7
-tags: ["job search", "resume optimization", "career tools", "MCP server", "ATS integration"]
-source: "https://github.com/anatolykoptev/go-job"
-discovered_at: "2026-07-08T21:02:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- job search
+- resume optimization
+- career tools
+- MCP server
+- ATS integration
+source: https://github.com/anatolykoptev/go-job
+discovered_at: '2026-07-08T21:02:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

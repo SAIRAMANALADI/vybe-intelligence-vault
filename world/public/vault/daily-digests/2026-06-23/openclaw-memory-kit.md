@@ -1,13 +1,22 @@
 ---
-title: "delicious-roundarch520/openclaw-memory-kit"
-category: "Tooling"
-tech_stack: ["Windows", "Shell", "Python (implied)", "OpenClaw AI"]
+title: delicious-roundarch520/openclaw-memory-kit
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Windows
+- Shell
+- Python (implied)
+- OpenClaw AI
 quality_score: 7
 rag_relevance: 6
-tags: ["AI memory", "context persistence", "OpenClaw", "automation", "session recovery"]
-source: "https://github.com/delicious-roundarch520/openclaw-memory-kit"
-discovered_at: "2026-06-23T02:48:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI memory
+- context persistence
+- OpenClaw
+- automation
+- session recovery
+source: https://github.com/delicious-roundarch520/openclaw-memory-kit
+discovered_at: '2026-06-23T02:48:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "CommonlandsAbbe/commonlands-mcp"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Cloudflare Workers", "Model Context Protocol (MCP)", "AWS Lambda", "DynamoDB", "Shopify Storefront API", "SendGrid API"]
+title: CommonlandsAbbe/commonlands-mcp
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- Cloudflare Workers
+- Model Context Protocol (MCP)
+- AWS Lambda
+- DynamoDB
+- Shopify Storefront API
+- SendGrid API
 quality_score: 9
 rag_relevance: 8
-tags: ["precision optics", "lens selection", "field of view calculation", "Shopify integration", "MCP server"]
-source: "https://github.com/CommonlandsAbbe/commonlands-mcp"
-discovered_at: "2026-07-16T05:39:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- precision optics
+- lens selection
+- field of view calculation
+- Shopify integration
+- MCP server
+source: https://github.com/CommonlandsAbbe/commonlands-mcp
+discovered_at: '2026-07-16T05:39:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "Indraparama940/ai-ffmpeg-cli"
-category: "Tooling"
-tech_stack: ["Python", "FFmpeg", "Natural Language Processing", "CLI"]
+title: Indraparama940/ai-ffmpeg-cli
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- FFmpeg
+- Natural Language Processing
+- CLI
 quality_score: 6
 rag_relevance: 5
-tags: ["ffmpeg", "natural language processing", "media processing", "CLI tool", "automation"]
-source: "https://github.com/Indraparama940/ai-ffmpeg-cli"
-discovered_at: "2026-06-23T19:11:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- ffmpeg
+- natural language processing
+- media processing
+- CLI tool
+- automation
+source: https://github.com/Indraparama940/ai-ffmpeg-cli
+discovered_at: '2026-06-23T19:11:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

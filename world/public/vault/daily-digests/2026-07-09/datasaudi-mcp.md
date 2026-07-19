@@ -1,13 +1,25 @@
 ---
-title: "mohsinmshabbir/datasaudi-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FastAPI", "uv", "Pydantic", "JSON Schema", "GitHub Actions"]
+title: mohsinmshabbir/datasaudi-mcp
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FastAPI
+- uv
+- Pydantic
+- JSON Schema
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP Server", "Saudi Economic Data", "GASTAT API", "Multilingual Support", "Real-Time Data"]
-source: "https://github.com/mohsinmshabbir/datasaudi-mcp"
-discovered_at: "2026-07-09T14:45:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- Saudi Economic Data
+- GASTAT API
+- Multilingual Support
+- Real-Time Data
+source: https://github.com/mohsinmshabbir/datasaudi-mcp
+discovered_at: '2026-07-09T14:45:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

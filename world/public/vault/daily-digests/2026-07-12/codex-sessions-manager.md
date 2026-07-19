@@ -1,13 +1,25 @@
 ---
-title: "1939869736luosi/codex-sessions-manager"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "CLI", "MCP (Model Context Protocol)", "JSONL", "Zstandard (ZST) compression"]
+title: 1939869736luosi/codex-sessions-manager
+category: world/public/vault/daily-digests/2026-07-12
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- CLI
+- MCP (Model Context Protocol)
+- JSONL
+- Zstandard (ZST) compression
 quality_score: 9
 rag_relevance: 8
-tags: ["session cleanup", "local audit", "privacy tool", "MCP server", "Codex integration"]
-source: "https://github.com/1939869736luosi/codex-sessions-manager"
-discovered_at: "2026-07-11T05:39:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- session cleanup
+- local audit
+- privacy tool
+- MCP server
+- Codex integration
+source: https://github.com/1939869736luosi/codex-sessions-manager
+discovered_at: '2026-07-11T05:39:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

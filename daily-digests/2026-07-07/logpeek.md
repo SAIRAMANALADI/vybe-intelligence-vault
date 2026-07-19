@@ -1,13 +1,23 @@
 ---
-title: "Tiaintermittent147/logpeek"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "Android SDK", "iOS SDK", "USB Debugging Protocols"]
+title: Tiaintermittent147/logpeek
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Electron
+- Android SDK
+- iOS SDK
+- USB Debugging Protocols
 quality_score: 7
 rag_relevance: 8
-tags: ["mobile debugging", "log viewer", "AI agent integration", "Android logs", "iOS logs"]
-source: "https://github.com/Tiaintermittent147/logpeek"
-discovered_at: "2026-07-07T06:41:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- mobile debugging
+- log viewer
+- AI agent integration
+- Android logs
+- iOS logs
+source: https://github.com/Tiaintermittent147/logpeek
+discovered_at: '2026-07-07T06:41:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

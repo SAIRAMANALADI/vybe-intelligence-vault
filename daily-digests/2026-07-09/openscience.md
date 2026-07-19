@@ -1,13 +1,28 @@
 ---
-title: "synthetic-sciences/openscience"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Bun", "React", "Python", "Docker", "LLM APIs (OpenAI, Anthropic, Google, etc.)", "Scientific databases (UniProt, PDB, arXiv, etc.)", "Modal", "Tinker"]
+title: synthetic-sciences/openscience
+category: daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- Bun
+- React
+- Python
+- Docker
+- LLM APIs (OpenAI, Anthropic, Google, etc.)
+- Scientific databases (UniProt, PDB, arXiv, etc.)
+- Modal
+- Tinker
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous research", "scientific AI", "multi-agent system", "literature review", "experiment automation"]
-source: "https://github.com/synthetic-sciences/openscience"
-discovered_at: "2026-07-09T00:06:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous research
+- scientific AI
+- multi-agent system
+- literature review
+- experiment automation
+source: https://github.com/synthetic-sciences/openscience
+discovered_at: '2026-07-09T00:06:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

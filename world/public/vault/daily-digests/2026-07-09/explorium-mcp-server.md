@@ -1,13 +1,22 @@
 ---
-title: "nws066/explorium-mcp-server"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "API Integration", "Data Scraping"]
+title: nws066/explorium-mcp-server
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- API Integration
+- Data Scraping
 quality_score: 4
 rag_relevance: 6
-tags: ["data enrichment", "MCP server", "scraping", "market intelligence", "API access"]
-source: "https://github.com/nws066/explorium-mcp-server"
-discovered_at: "2026-07-09T21:18:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- data enrichment
+- MCP server
+- scraping
+- market intelligence
+- API access
+source: https://github.com/nws066/explorium-mcp-server
+discovered_at: '2026-07-09T21:18:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

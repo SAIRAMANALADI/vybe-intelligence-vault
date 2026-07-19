@@ -1,13 +1,22 @@
 ---
-title: "darkgrey-wildcatstrike982/agent-preflight"
-category: "Tooling"
-tech_stack: ["Windows", "C#/.NET", "Electron (for UI)", "Static Analysis"]
+title: darkgrey-wildcatstrike982/agent-preflight
+category: daily-digests/2026-07-07
+tech_stack:
+- Windows
+- C#/.NET
+- Electron (for UI)
+- Static Analysis
 quality_score: 5
 rag_relevance: 7
-tags: ["pre-deployment", "security audit", "AI agent validation", "local scanning", "Windows tool"]
-source: "https://github.com/darkgrey-wildcatstrike982/agent-preflight"
-discovered_at: "2026-07-07T18:58:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- pre-deployment
+- security audit
+- AI agent validation
+- local scanning
+- Windows tool
+source: https://github.com/darkgrey-wildcatstrike982/agent-preflight
+discovered_at: '2026-07-07T18:58:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

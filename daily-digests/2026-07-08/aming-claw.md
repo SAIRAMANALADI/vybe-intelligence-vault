@@ -1,13 +1,26 @@
 ---
-title: "amingclawdev/aming-claw"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "FastAPI", "SQLite", "Git", "TypeScript", "Event Sourcing", "Graph Theory"]
+title: amingclawdev/aming-claw
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- FastAPI
+- SQLite
+- Git
+- TypeScript
+- Event Sourcing
+- Graph Theory
 quality_score: 8
 rag_relevance: 9
-tags: ["AI governance", "agent runtime", "context pushing", "multi-agent coordination", "local-first development"]
-source: "https://github.com/amingclawdev/aming-claw"
-discovered_at: "2026-07-08T17:26:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI governance
+- agent runtime
+- context pushing
+- multi-agent coordination
+- local-first development
+source: https://github.com/amingclawdev/aming-claw
+discovered_at: '2026-07-08T17:26:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

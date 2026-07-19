@@ -1,13 +1,23 @@
 ---
-title: "Laurenfeminine36/google-jules-skill"
-category: "Tooling"
-tech_stack: ["Python", "Windows Installer", "REST API", "CLI", "LLM Integration"]
+title: Laurenfeminine36/google-jules-skill
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Windows Installer
+- REST API
+- CLI
+- LLM Integration
 quality_score: 6
 rag_relevance: 5
-tags: ["Google Jules", "AI automation", "device control", "LLM integration", "Windows tooling"]
-source: "https://github.com/Laurenfeminine36/google-jules-skill"
-discovered_at: "2026-06-23T02:43:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Google Jules
+- AI automation
+- device control
+- LLM integration
+- Windows tooling
+source: https://github.com/Laurenfeminine36/google-jules-skill
+discovered_at: '2026-06-23T02:43:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "Coding-Autopilot-System/gsd-orchestrator"
-category: "Orchestrator"
-tech_stack: [".NET 10", "C#", "GitHub MCP Server", "Anthropic Claude", "Polly", "xUnit", "Serilog", "Coverlet"]
+title: Coding-Autopilot-System/gsd-orchestrator
+category: daily-digests/2026-07-18
+tech_stack:
+- .NET 10
+- C#
+- GitHub MCP Server
+- Anthropic Claude
+- Polly
+- xUnit
+- Serilog
+- Coverlet
 quality_score: 9
 rag_relevance: 9
-tags: ["autonomous workflow", "state machine", "GitHub automation", "checkpointing", "MCP integration"]
-source: "https://github.com/Coding-Autopilot-System/gsd-orchestrator"
-discovered_at: "2026-07-13T06:15:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous workflow
+- state machine
+- GitHub automation
+- checkpointing
+- MCP integration
+source: https://github.com/Coding-Autopilot-System/gsd-orchestrator
+discovered_at: '2026-07-13T06:15:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

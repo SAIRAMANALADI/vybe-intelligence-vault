@@ -1,13 +1,28 @@
 ---
-title: "kamegoro/frameshot"
-category: "Tooling"
-tech_stack: ["TypeScript", "Vite", "Playwright", "React", "Vue", "Svelte", "Tailwind CSS", "MCP (Model Context Protocol)", "Node.js", "GitHub Actions"]
+title: kamegoro/frameshot
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Vite
+- Playwright
+- React
+- Vue
+- Svelte
+- Tailwind CSS
+- MCP (Model Context Protocol)
+- Node.js
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["UI rendering", "MCP server", "visual testing", "AI agent tools", "component inspection"]
-source: "https://github.com/kamegoro/frameshot"
-discovered_at: "2026-06-24T02:43:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- UI rendering
+- MCP server
+- visual testing
+- AI agent tools
+- component inspection
+source: https://github.com/kamegoro/frameshot
+discovered_at: '2026-06-24T02:43:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

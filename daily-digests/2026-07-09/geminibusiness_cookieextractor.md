@@ -1,13 +1,21 @@
 ---
-title: "humair832/GeminiBusiness_CookieExtractor"
-category: "Tooling"
-tech_stack: ["JavaScript", "Chrome Extension API", "HTML/CSS"]
+title: humair832/GeminiBusiness_CookieExtractor
+category: daily-digests/2026-07-09
+tech_stack:
+- JavaScript
+- Chrome Extension API
+- HTML/CSS
 quality_score: 5
 rag_relevance: 3
-tags: ["Chrome Extension", "Cookie Extraction", "Gemini Business", "Data Access", "Automation"]
-source: "https://github.com/humair832/GeminiBusiness_CookieExtractor"
-discovered_at: "2026-07-09T21:18:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Chrome Extension
+- Cookie Extraction
+- Gemini Business
+- Data Access
+- Automation
+source: https://github.com/humair832/GeminiBusiness_CookieExtractor
+discovered_at: '2026-07-09T21:18:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

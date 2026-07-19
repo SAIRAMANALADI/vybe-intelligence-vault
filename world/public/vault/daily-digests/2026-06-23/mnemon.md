@@ -1,13 +1,24 @@
 ---
-title: "mnemon-dev/mnemon"
-category: "Tooling"
-tech_stack: ["Go", "Graph Database", "Vector Embeddings", "CLI", "Markdown-based Harness", "Ollama (optional for embeddings)"]
+title: mnemon-dev/mnemon
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Go
+- Graph Database
+- Vector Embeddings
+- CLI
+- Markdown-based Harness
+- Ollama (optional for embeddings)
 quality_score: 9
 rag_relevance: 10
-tags: ["persistent memory", "LLM-supervised", "knowledge graph", "cross-session recall", "agent integration"]
-source: "https://github.com/mnemon-dev/mnemon"
-discovered_at: "2026-06-23T16:28:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- LLM-supervised
+- knowledge graph
+- cross-session recall
+- agent integration
+source: https://github.com/mnemon-dev/mnemon
+discovered_at: '2026-06-23T16:28:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

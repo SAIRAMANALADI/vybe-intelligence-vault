@@ -1,13 +1,28 @@
 ---
-title: "truffle-ai/dexto"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "YAML", "REST API", "SSE (Server-Sent Events)", "MCP (Model Context Protocol)", "Docker", "React", "WebSockets", "LLM Providers (OpenAI, Anthropic, Google, Groq, xAI, Ollama, etc.)"]
+title: truffle-ai/dexto
+category: daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- YAML
+- REST API
+- SSE (Server-Sent Events)
+- MCP (Model Context Protocol)
+- Docker
+- React
+- WebSockets
+- LLM Providers (OpenAI, Anthropic, Google, Groq, xAI, Ollama, etc.)
 quality_score: 9
 rag_relevance: 10
-tags: ["agent framework", "multi-agent systems", "MCP integration", "stateful agents", "coding agents"]
-source: "https://github.com/truffle-ai/dexto"
-discovered_at: "2026-07-09T19:30:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent framework
+- multi-agent systems
+- MCP integration
+- stateful agents
+- coding agents
+source: https://github.com/truffle-ai/dexto
+discovered_at: '2026-07-09T19:30:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

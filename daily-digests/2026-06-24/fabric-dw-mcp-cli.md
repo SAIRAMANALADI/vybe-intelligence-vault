@@ -1,13 +1,26 @@
 ---
-title: "sdebruyn/fabric-dw-mcp-cli"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Azure Identity", "Docker", "Pydantic", "FastAPI (HTTP transport)", "SQLAlchemy", "asyncio"]
+title: sdebruyn/fabric-dw-mcp-cli
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Azure Identity
+- Docker
+- Pydantic
+- FastAPI (HTTP transport)
+- SQLAlchemy
+- asyncio
 quality_score: 9
 rag_relevance: 8
-tags: ["Microsoft Fabric", "Data Warehouse", "MCP Server", "CLI Tool", "SQL Analytics"]
-source: "https://github.com/sdebruyn/fabric-dw-mcp-cli"
-discovered_at: "2026-06-24T13:24:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Microsoft Fabric
+- Data Warehouse
+- MCP Server
+- CLI Tool
+- SQL Analytics
+source: https://github.com/sdebruyn/fabric-dw-mcp-cli
+discovered_at: '2026-06-24T13:24:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

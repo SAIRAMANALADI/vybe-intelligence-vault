@@ -1,13 +1,27 @@
 ---
-title: "SimonSaysGiveMeSmile/SoA-Web"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "WebSocket", "node-pty", "xterm.js", "Cloudflare Tunnel", "ES Modules (Browser)", "HTTP/HTTPS", "Web Speech API"]
+title: SimonSaysGiveMeSmile/SoA-Web
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- JavaScript
+- Node.js
+- WebSocket
+- node-pty
+- xterm.js
+- Cloudflare Tunnel
+- ES Modules (Browser)
+- HTTP/HTTPS
+- Web Speech API
 quality_score: 9
 rag_relevance: 7
-tags: ["terminal emulator", "web-based PTY", "real-time shell", "browser-native", "self-hosted"]
-source: "https://github.com/SimonSaysGiveMeSmile/SoA-Web"
-discovered_at: "2026-07-09T00:05:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- terminal emulator
+- web-based PTY
+- real-time shell
+- browser-native
+- self-hosted
+source: https://github.com/SimonSaysGiveMeSmile/SoA-Web
+discovered_at: '2026-07-09T00:05:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

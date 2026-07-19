@@ -1,13 +1,23 @@
 ---
-title: "Fabianusromarioyeuyanan123/Scrapling"
-category: "Tooling"
-tech_stack: ["Python", "Playwright", "Windows", "CSV", "JSON"]
+title: Fabianusromarioyeuyanan123/Scrapling
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Playwright
+- Windows
+- CSV
+- JSON
 quality_score: 7
 rag_relevance: 5
-tags: ["web scraping", "data extraction", "automation", "Playwright", "no-code"]
-source: "https://github.com/Fabianusromarioyeuyanan123/Scrapling"
-discovered_at: "2026-06-23T23:12:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web scraping
+- data extraction
+- automation
+- Playwright
+- no-code
+source: https://github.com/Fabianusromarioyeuyanan123/Scrapling
+discovered_at: '2026-06-23T23:12:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

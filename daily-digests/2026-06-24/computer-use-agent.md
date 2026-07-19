@@ -1,13 +1,28 @@
 ---
-title: "snake-aabb-wtf/computer-use-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "OpenAI-compatible LLM", "Model Context Protocol (MCP)", "FastAPI", "PyAutoGUI", "MSS", "UI Automation (Windows UIA)", "Docker", "SSE (Server-Sent Events)", "JSON-RPC"]
+title: snake-aabb-wtf/computer-use-agent
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- OpenAI-compatible LLM
+- Model Context Protocol (MCP)
+- FastAPI
+- PyAutoGUI
+- MSS
+- UI Automation (Windows UIA)
+- Docker
+- SSE (Server-Sent Events)
+- JSON-RPC
 quality_score: 9
 rag_relevance: 8
-tags: ["desktop automation", "LLM-driven agent", "multi-platform", "MCP server", "plugin system"]
-source: "https://github.com/snake-aabb-wtf/computer-use-agent"
-discovered_at: "2026-06-24T13:17:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- desktop automation
+- LLM-driven agent
+- multi-platform
+- MCP server
+- plugin system
+source: https://github.com/snake-aabb-wtf/computer-use-agent
+discovered_at: '2026-06-24T13:17:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

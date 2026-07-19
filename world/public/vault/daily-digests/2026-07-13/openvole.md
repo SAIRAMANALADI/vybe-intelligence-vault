@@ -1,13 +1,24 @@
 ---
-title: "openvole/openvole"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "React", "Model Context Protocol (MCP)", "Post-quantum cryptography (Ed25519 + ML-DSA-65)", "Docker (optional isolation)"]
+title: openvole/openvole
+category: world/public/vault/daily-digests/2026-07-13
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- Model Context Protocol (MCP)
+- Post-quantum cryptography (Ed25519 + ML-DSA-65)
+- Docker (optional isolation)
 quality_score: 9
 rag_relevance: 8
-tags: ["agent-orchestration", "self-hosted", "plugin-architecture", "distributed-ai", "privacy-focused"]
-source: "https://github.com/openvole/openvole"
-discovered_at: "2026-07-11T20:09:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent-orchestration
+- self-hosted
+- plugin-architecture
+- distributed-ai
+- privacy-focused
+source: https://github.com/openvole/openvole
+discovered_at: '2026-07-11T20:09:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

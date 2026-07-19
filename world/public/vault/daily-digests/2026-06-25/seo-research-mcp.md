@@ -1,13 +1,21 @@
 ---
-title: "Farbod148/seo-research-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Ahrefs API", "Desktop Application Framework"]
+title: Farbod148/seo-research-mcp
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- Ahrefs API
+- Desktop Application Framework
 quality_score: 5
 rag_relevance: 4
-tags: ["SEO", "Ahrefs Integration", "Keyword Research", "Backlink Analysis", "Traffic Estimation"]
-source: "https://github.com/Farbod148/seo-research-mcp"
-discovered_at: "2026-06-25T00:12:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- SEO
+- Ahrefs Integration
+- Keyword Research
+- Backlink Analysis
+- Traffic Estimation
+source: https://github.com/Farbod148/seo-research-mcp
+discovered_at: '2026-06-25T00:12:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

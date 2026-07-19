@@ -1,13 +1,23 @@
 ---
-title: "evehypoglycaemic255/mcp-server"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Windows", "Semantic Search", "Local Storage"]
+title: evehypoglycaemic255/mcp-server
+category: world/public/vault/daily-digests/2026-07-12
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Windows
+- Semantic Search
+- Local Storage
 quality_score: 6
 rag_relevance: 8
-tags: ["MCP server", "long-term memory", "semantic search", "plugin sandbox", "local AI workflow"]
-source: "https://github.com/evehypoglycaemic255/mcp-server"
-discovered_at: "2026-07-10T20:22:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- long-term memory
+- semantic search
+- plugin sandbox
+- local AI workflow
+source: https://github.com/evehypoglycaemic255/mcp-server
+discovered_at: '2026-07-10T20:22:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

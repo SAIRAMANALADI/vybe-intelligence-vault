@@ -1,13 +1,27 @@
 ---
-title: "kentzu213/starizzi-app"
-category: "Orchestrator"
-tech_stack: ["Electron", "React", "TypeScript", "Vite", "Zustand", "Docker", "Node.js", "SQLite", "Vitest"]
+title: kentzu213/starizzi-app
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Electron
+- React
+- TypeScript
+- Vite
+- Zustand
+- Docker
+- Node.js
+- SQLite
+- Vitest
 quality_score: 9
 rag_relevance: 6
-tags: ["multi-agent", "desktop AI", "agent gateway", "IzziAPI", "LLM orchestration"]
-source: "https://github.com/kentzu213/starizzi-app"
-discovered_at: "2026-07-07T16:24:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent
+- desktop AI
+- agent gateway
+- IzziAPI
+- LLM orchestration
+source: https://github.com/kentzu213/starizzi-app
+discovered_at: '2026-07-07T16:24:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "wavyx/pdcli"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "TypeScript", "CLI", "REST API", "OAuth 2.0", "Docker", "Homebrew", "Scoop"]
+title: wavyx/pdcli
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- JavaScript
+- Node.js
+- TypeScript
+- CLI
+- REST API
+- OAuth 2.0
+- Docker
+- Homebrew
+- Scoop
 quality_score: 9
 rag_relevance: 7
-tags: ["CRM", "automation", "Pipedrive", "CLI", "data-sync"]
-source: "https://github.com/wavyx/pdcli"
-discovered_at: "2026-07-09T14:45:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CRM
+- automation
+- Pipedrive
+- CLI
+- data-sync
+source: https://github.com/wavyx/pdcli
+discovered_at: '2026-07-09T14:45:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "MnemeHQ/mneme"
-category: "Orchestrator"
-tech_stack: ["Python", "JSON", "GitHub Actions", "LLM API Integrations", "Deterministic Retrieval", "Structured Context Packets"]
+title: MnemeHQ/mneme
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- JSON
+- GitHub Actions
+- LLM API Integrations
+- Deterministic Retrieval
+- Structured Context Packets
 quality_score: 9
 rag_relevance: 8
-tags: ["architectural governance", "AI drift prevention", "prompt injection", "decision enforcement", "LLM alignment"]
-source: "https://github.com/MnemeHQ/mneme"
-discovered_at: "2026-07-08T21:01:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- architectural governance
+- AI drift prevention
+- prompt injection
+- decision enforcement
+- LLM alignment
+source: https://github.com/MnemeHQ/mneme
+discovered_at: '2026-07-08T21:01:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

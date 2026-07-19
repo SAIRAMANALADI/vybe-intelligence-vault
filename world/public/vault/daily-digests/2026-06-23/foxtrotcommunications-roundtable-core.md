@@ -1,13 +1,42 @@
 ---
-title: "foxtrotcommunications/foxtrotcommunications-roundtable-core"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "React 19", "Vite", "PostgreSQL", "SQLite", "Socket.IO", "Docker", "Kubernetes", "Google Cloud Run", "Google Kubernetes Engine", "OpenAI API", "Anthropic API", "Vertex AI", "Google AI", "Ollama", "BigQuery", "Snowflake", "Databricks", "A2A Protocol", "JSON-RPC 2.0", "HMAC-SHA256", "AES-256-GCM", "HKDF"]
+title: foxtrotcommunications/foxtrotcommunications-roundtable-core
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- React 19
+- Vite
+- PostgreSQL
+- SQLite
+- Socket.IO
+- Docker
+- Kubernetes
+- Google Cloud Run
+- Google Kubernetes Engine
+- OpenAI API
+- Anthropic API
+- Vertex AI
+- Google AI
+- Ollama
+- BigQuery
+- Snowflake
+- Databricks
+- A2A Protocol
+- JSON-RPC 2.0
+- HMAC-SHA256
+- AES-256-GCM
+- HKDF
 quality_score: 9
 rag_relevance: 10
-tags: ["real-time collaboration", "AI workspace", "multi-agent orchestration", "intent compilation", "data warehouse integration"]
-source: "https://github.com/foxtrotcommunications/foxtrotcommunications-roundtable-core"
-discovered_at: "2026-06-23T23:08:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- real-time collaboration
+- AI workspace
+- multi-agent orchestration
+- intent compilation
+- data warehouse integration
+source: https://github.com/foxtrotcommunications/foxtrotcommunications-roundtable-core
+discovered_at: '2026-06-23T23:08:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

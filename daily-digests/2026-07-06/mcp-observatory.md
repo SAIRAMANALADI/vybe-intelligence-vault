@@ -1,13 +1,26 @@
 ---
-title: "KryptosAI/mcp-observatory"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "GitHub Actions", "SARIF", "OpenSSF Scorecard", "Dependabot", "npm", "Security Scanning (CodeQL)"]
+title: KryptosAI/mcp-observatory
+category: daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- Node.js
+- GitHub Actions
+- SARIF
+- OpenSSF Scorecard
+- Dependabot
+- npm
+- Security Scanning (CodeQL)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP validation", "security auditing", "trust receipts", "risk assessment", "CI/CD integration"]
-source: "https://github.com/KryptosAI/mcp-observatory"
-discovered_at: "2026-07-06T23:02:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP validation
+- security auditing
+- trust receipts
+- risk assessment
+- CI/CD integration
+source: https://github.com/KryptosAI/mcp-observatory
+discovered_at: '2026-07-06T23:02:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

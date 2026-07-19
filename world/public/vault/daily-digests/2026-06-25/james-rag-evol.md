@@ -1,13 +1,27 @@
 ---
-title: "Hashevolution/James-RAG-Evol"
-category: "Orchestrator"
-tech_stack: ["Python", "Ollama", "ChromaDB", "Graph-RAG", "BM25", "MiniLM-L-6-v2", "SQLite", "FastAPI", "Docker"]
+title: Hashevolution/James-RAG-Evol
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- Ollama
+- ChromaDB
+- Graph-RAG
+- BM25
+- MiniLM-L-6-v2
+- SQLite
+- FastAPI
+- Docker
 quality_score: 9
 rag_relevance: 10
-tags: ["Replayable RAG", "Audit Log", "Time-Travel Queries", "Graph-Based Retrieval", "EU AI Act Compliance"]
-source: "https://github.com/Hashevolution/James-RAG-Evol"
-discovered_at: "2026-06-25T07:25:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Replayable RAG
+- Audit Log
+- Time-Travel Queries
+- Graph-Based Retrieval
+- EU AI Act Compliance
+source: https://github.com/Hashevolution/James-RAG-Evol
+discovered_at: '2026-06-25T07:25:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

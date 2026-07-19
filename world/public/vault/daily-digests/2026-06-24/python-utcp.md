@@ -1,13 +1,28 @@
 ---
-title: "universal-tool-calling-protocol/python-utcp"
-category: "Orchestrator"
-tech_stack: ["Python", "Pydantic", "FastAPI", "HTTP/REST", "WebSocket", "CLI", "GraphQL", "TCP/UDP", "SSE", "OpenAPI"]
+title: universal-tool-calling-protocol/python-utcp
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Pydantic
+- FastAPI
+- HTTP/REST
+- WebSocket
+- CLI
+- GraphQL
+- TCP/UDP
+- SSE
+- OpenAPI
 quality_score: 9
 rag_relevance: 10
-tags: ["tool calling", "protocol standard", "AI agent integration", "modular architecture", "multi-protocol"]
-source: "https://github.com/universal-tool-calling-protocol/python-utcp"
-discovered_at: "2026-06-24T20:48:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- tool calling
+- protocol standard
+- AI agent integration
+- modular architecture
+- multi-protocol
+source: https://github.com/universal-tool-calling-protocol/python-utcp
+discovered_at: '2026-06-24T20:48:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

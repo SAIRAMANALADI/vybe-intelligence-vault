@@ -1,13 +1,24 @@
 ---
-title: "jasp-nerd/marktplaats-mcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "HTTP Client", "uv (package manager)", "Pytest (testing)", "GitHub Actions (CI/CD)"]
+title: jasp-nerd/marktplaats-mcp
+category: daily-digests/2026-07-18
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- HTTP Client
+- uv (package manager)
+- Pytest (testing)
+- GitHub Actions (CI/CD)
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "classifieds search", "Dutch/Belgian marketplaces", "AI agent integration", "structured data"]
-source: "https://github.com/jasp-nerd/marktplaats-mcp"
-discovered_at: "2026-07-15T10:48:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- classifieds search
+- Dutch/Belgian marketplaces
+- AI agent integration
+- structured data
+source: https://github.com/jasp-nerd/marktplaats-mcp
+discovered_at: '2026-07-15T10:48:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

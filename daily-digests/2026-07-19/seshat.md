@@ -1,13 +1,27 @@
 ---
-title: "KPO-Tech/seshat"
-category: "Agent Framework"
-tech_stack: ["Go", "gRPC", "SQLite", "MCP (Model Context Protocol)", "RAG (Retrieval-Augmented Generation)", "Bash", "Web Browsing", "CLI/TUI", "Apache License 2.0"]
+title: KPO-Tech/seshat
+category: daily-digests/2026-07-19
+tech_stack:
+- Go
+- gRPC
+- SQLite
+- MCP (Model Context Protocol)
+- RAG (Retrieval-Augmented Generation)
+- Bash
+- Web Browsing
+- CLI/TUI
+- Apache License 2.0
 quality_score: 9
 rag_relevance: 8
-tags: ["agent runtime", "multi-provider", "self-hosted", "go-sdk", "go-grpc"]
-source: "https://github.com/KPO-Tech/seshat"
-discovered_at: "2026-07-17T23:51:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent runtime
+- multi-provider
+- self-hosted
+- go-sdk
+- go-grpc
+source: https://github.com/KPO-Tech/seshat
+discovered_at: '2026-07-17T23:51:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

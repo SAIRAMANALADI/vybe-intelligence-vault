@@ -1,13 +1,25 @@
 ---
-title: "leesgit/claude-session-continuity-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "MCP (Model Context Protocol)", "Semantic Embeddings (multilingual-e5-small)", "Bash", "Claude Code Hooks"]
+title: leesgit/claude-session-continuity-mcp
+category: daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- MCP (Model Context Protocol)
+- Semantic Embeddings (multilingual-e5-small)
+- Bash
+- Claude Code Hooks
 quality_score: 9
 rag_relevance: 8
-tags: ["session continuity", "context management", "local memory", "Claude Code", "automated hooks"]
-source: "https://github.com/leesgit/claude-session-continuity-mcp"
-discovered_at: "2026-07-09T04:46:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- session continuity
+- context management
+- local memory
+- Claude Code
+- automated hooks
+source: https://github.com/leesgit/claude-session-continuity-mcp
+discovered_at: '2026-07-09T04:46:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

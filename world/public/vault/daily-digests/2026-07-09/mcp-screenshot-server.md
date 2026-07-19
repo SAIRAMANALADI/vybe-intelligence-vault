@@ -1,13 +1,24 @@
 ---
-title: "sethbang/mcp-screenshot-server"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Puppeteer", "Model Context Protocol (MCP)", "Docker", "Vitest"]
+title: sethbang/mcp-screenshot-server
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- Puppeteer
+- Model Context Protocol (MCP)
+- Docker
+- Vitest
 quality_score: 9
 rag_relevance: 7
-tags: ["screenshot", "MCP server", "AI assistant", "cross-platform", "Puppeteer"]
-source: "https://github.com/sethbang/mcp-screenshot-server"
-discovered_at: "2026-07-09T04:46:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- screenshot
+- MCP server
+- AI assistant
+- cross-platform
+- Puppeteer
+source: https://github.com/sethbang/mcp-screenshot-server
+discovered_at: '2026-07-09T04:46:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

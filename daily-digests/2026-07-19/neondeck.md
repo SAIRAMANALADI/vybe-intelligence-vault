@@ -1,13 +1,26 @@
 ---
-title: "mrcalmtuber/neondeck"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "React", "Vite", "WebSocket", "Docker", "Firebase Auth", "Stripe (for billing)", "Node.js"]
+title: mrcalmtuber/neondeck
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- React
+- Vite
+- WebSocket
+- Docker
+- Firebase Auth
+- Stripe (for billing)
+- Node.js
 quality_score: 8
 rag_relevance: 7
-tags: ["AI IDE", "Sandboxed Execution", "Agent Framework", "Docker Orchestration", "Hybrid Architecture"]
-source: "https://github.com/mrcalmtuber/neondeck"
-discovered_at: "2026-07-10T22:00:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI IDE
+- Sandboxed Execution
+- Agent Framework
+- Docker Orchestration
+- Hybrid Architecture
+source: https://github.com/mrcalmtuber/neondeck
+discovered_at: '2026-07-10T22:00:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

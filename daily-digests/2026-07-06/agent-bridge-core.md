@@ -1,13 +1,29 @@
 ---
-title: "oprounak34-cpu/agent-bridge-core"
-category: "Orchestrator"
-tech_stack: ["Python", "Docker", "YAML", "Mermaid.js", "Event-Driven Architecture", "REST APIs", "WebSockets", "Telegram Bot API", "Discord Webhook API", "Slack API", "Twilio SMS API"]
+title: oprounak34-cpu/agent-bridge-core
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- Docker
+- YAML
+- Mermaid.js
+- Event-Driven Architecture
+- REST APIs
+- WebSockets
+- Telegram Bot API
+- Discord Webhook API
+- Slack API
+- Twilio SMS API
 quality_score: 9
 rag_relevance: 10
-tags: ["AI agent orchestration", "multi-protocol routing", "event sourcing", "human-in-the-loop", "self-hosted"]
-source: "https://github.com/oprounak34-cpu/agent-bridge-core"
-discovered_at: "2026-07-06T23:03:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent orchestration
+- multi-protocol routing
+- event sourcing
+- human-in-the-loop
+- self-hosted
+source: https://github.com/oprounak34-cpu/agent-bridge-core
+discovered_at: '2026-07-06T23:03:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

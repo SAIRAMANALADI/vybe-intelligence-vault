@@ -1,13 +1,26 @@
 ---
-title: "lidong266/KunlunOS"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "pnpm", "Vitest", "LLM APIs (e.g., GPT-4o)", "MapReduce", "Event Bus Architecture", "Ternary Logic (+1/0/-1)"]
+title: lidong266/KunlunOS
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- pnpm
+- Vitest
+- LLM APIs (e.g., GPT-4o)
+- MapReduce
+- Event Bus Architecture
+- Ternary Logic (+1/0/-1)
 quality_score: 8
 rag_relevance: 9
-tags: ["AI Cognitive OS", "Multi-Agent Orchestration", "Contradiction Analysis", "Holistic Synthesis", "LLM Resource Management"]
-source: "https://github.com/lidong266/KunlunOS"
-discovered_at: "2026-07-08T05:45:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Cognitive OS
+- Multi-Agent Orchestration
+- Contradiction Analysis
+- Holistic Synthesis
+- LLM Resource Management
+source: https://github.com/lidong266/KunlunOS
+discovered_at: '2026-07-08T05:45:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

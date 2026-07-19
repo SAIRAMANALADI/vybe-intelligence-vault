@@ -1,13 +1,24 @@
 ---
-title: "Synforger/agent-template"
-category: "Agent Framework"
-tech_stack: ["Shell", "Python", "Bash", "Git Hooks", "Anthropic SDK", "Claude Code"]
+title: Synforger/agent-template
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- Shell
+- Python
+- Bash
+- Git Hooks
+- Anthropic SDK
+- Claude Code
 quality_score: 9
 rag_relevance: 8
-tags: ["agent scaffolding", "self-improving systems", "long-lived agents", "Claude Code", "Anthropic SDK"]
-source: "https://github.com/Synforger/agent-template"
-discovered_at: "2026-07-15T20:07:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent scaffolding
+- self-improving systems
+- long-lived agents
+- Claude Code
+- Anthropic SDK
+source: https://github.com/Synforger/agent-template
+discovered_at: '2026-07-15T20:07:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

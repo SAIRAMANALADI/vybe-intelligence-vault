@@ -1,13 +1,23 @@
 ---
-title: "symbionix-sl/airstrings-cli"
-category: "Tooling"
-tech_stack: ["Go", "CSV", "Ed25519 (for bundle signing)", "MCP (Model Context Protocol)", "CLI"]
+title: symbionix-sl/airstrings-cli
+category: daily-digests/2026-07-16
+tech_stack:
+- Go
+- CSV
+- Ed25519 (for bundle signing)
+- MCP (Model Context Protocol)
+- CLI
 quality_score: 8
 rag_relevance: 7
-tags: ["localization", "i18n", "CLI", "strings management", "offline-first"]
-source: "https://github.com/symbionix-sl/airstrings-cli"
-discovered_at: "2026-07-10T18:22:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- localization
+- i18n
+- CLI
+- strings management
+- offline-first
+source: https://github.com/symbionix-sl/airstrings-cli
+discovered_at: '2026-07-10T18:22:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

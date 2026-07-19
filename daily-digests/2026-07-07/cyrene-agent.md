@@ -1,13 +1,31 @@
 ---
-title: "Playa-0v0/Cyrene-Agent"
-category: "Agent Framework"
-tech_stack: ["Electron", "TypeScript", "Live2D (pixi-live2d-display + Cubism Core)", "Vite", "Pixi.js", "AG-UI (Agent UI framework)", "Model Context Protocol (MCP)", "RAG (Retrieval-Augmented Generation)", "TTS (Text-to-Speech)", "ASR (Automatic Speech Recognition)", "VAD (Voice Activity Detection)", "Vitest", "Node.js"]
+title: Playa-0v0/Cyrene-Agent
+category: daily-digests/2026-07-07
+tech_stack:
+- Electron
+- TypeScript
+- Live2D (pixi-live2d-display + Cubism Core)
+- Vite
+- Pixi.js
+- AG-UI (Agent UI framework)
+- Model Context Protocol (MCP)
+- RAG (Retrieval-Augmented Generation)
+- TTS (Text-to-Speech)
+- ASR (Automatic Speech Recognition)
+- VAD (Voice Activity Detection)
+- Vitest
+- Node.js
 quality_score: 9
 rag_relevance: 7
-tags: ["Live2D", "Desktop Agent", "Memory Engine", "Multi-modal AI", "Electron"]
-source: "https://github.com/Playa-0v0/Cyrene-Agent"
-discovered_at: "2026-07-07T13:16:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Live2D
+- Desktop Agent
+- Memory Engine
+- Multi-modal AI
+- Electron
+source: https://github.com/Playa-0v0/Cyrene-Agent
+discovered_at: '2026-07-07T13:16:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

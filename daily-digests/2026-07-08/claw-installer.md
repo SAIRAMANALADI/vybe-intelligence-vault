@@ -1,13 +1,21 @@
 ---
-title: "Anang304-crypto/claw-installer"
-category: "Tooling"
-tech_stack: ["Swift", "SwiftUI", "macOS"]
+title: Anang304-crypto/claw-installer
+category: daily-digests/2026-07-08
+tech_stack:
+- Swift
+- SwiftUI
+- macOS
 quality_score: 7
 rag_relevance: 3
-tags: ["macOS installer", "OpenClaw setup", "GUI automation", "SwiftUI", "machine learning tools"]
-source: "https://github.com/Anang304-crypto/claw-installer"
-discovered_at: "2026-07-08T02:07:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- macOS installer
+- OpenClaw setup
+- GUI automation
+- SwiftUI
+- machine learning tools
+source: https://github.com/Anang304-crypto/claw-installer
+discovered_at: '2026-07-08T02:07:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

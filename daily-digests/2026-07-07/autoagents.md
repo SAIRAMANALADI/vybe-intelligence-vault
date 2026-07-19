@@ -1,13 +1,34 @@
 ---
-title: "ShahirShamim/autoagents"
-category: "Agent Framework"
-tech_stack: ["Google ADK", "Vertex AI Agent Engine", "Gemini 3.5 Flash", "Vertex RAG Engine", "ADK Memory Bank", "FastAPI", "Python 3.12", "Node.js", "Baileys (WhatsApp bridge)", "Firestore", "Cloud Storage", "Cloud Run", "Cloud Scheduler", "Resend (email)", "Secret Manager", "GCP"]
+title: ShahirShamim/autoagents
+category: daily-digests/2026-07-07
+tech_stack:
+- Google ADK
+- Vertex AI Agent Engine
+- Gemini 3.5 Flash
+- Vertex RAG Engine
+- ADK Memory Bank
+- FastAPI
+- Python 3.12
+- Node.js
+- Baileys (WhatsApp bridge)
+- Firestore
+- Cloud Storage
+- Cloud Run
+- Cloud Scheduler
+- Resend (email)
+- Secret Manager
+- GCP
 quality_score: 9
 rag_relevance: 9
-tags: ["multi-tenant", "autonomous agents", "RAG", "multimodal", "WhatsApp integration"]
-source: "https://github.com/ShahirShamim/autoagents"
-discovered_at: "2026-07-07T22:08:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-tenant
+- autonomous agents
+- RAG
+- multimodal
+- WhatsApp integration
+source: https://github.com/ShahirShamim/autoagents
+discovered_at: '2026-07-07T22:08:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

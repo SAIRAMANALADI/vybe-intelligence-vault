@@ -1,13 +1,33 @@
 ---
-title: "pengmoubuaixuexi/TAgent"
-category: "Agent Framework"
-tech_stack: ["Java 17", "Spring Boot 3.4.3", "Spring AI 1.1.7", "MCP SDK 0.18.2", "MySQL", "PostgreSQL + pgvector", "Redis", "Elasticsearch", "Resilience4j", "Reactor", "Micrometer", "Prometheus", "Grafana", "Jaeger", "ELK Stack"]
+title: pengmoubuaixuexi/TAgent
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Java 17
+- Spring Boot 3.4.3
+- Spring AI 1.1.7
+- MCP SDK 0.18.2
+- MySQL
+- PostgreSQL + pgvector
+- Redis
+- Elasticsearch
+- Resilience4j
+- Reactor
+- Micrometer
+- Prometheus
+- Grafana
+- Jaeger
+- ELK Stack
 quality_score: 9
 rag_relevance: 9
-tags: ["AI Agent Framework", "Java Enterprise", "RAG Integration", "MCP Tool Governance", "Streaming SSE"]
-source: "https://github.com/pengmoubuaixuexi/TAgent"
-discovered_at: "2026-07-10T06:15:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent Framework
+- Java Enterprise
+- RAG Integration
+- MCP Tool Governance
+- Streaming SSE
+source: https://github.com/pengmoubuaixuexi/TAgent
+discovered_at: '2026-07-10T06:15:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

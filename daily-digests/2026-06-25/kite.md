@@ -1,13 +1,28 @@
 ---
-title: "kite-org/kite"
-category: "UI Component"
-tech_stack: ["TypeScript", "Go", "Kubernetes", "Prometheus", "React", "Monaco Editor", "OAuth", "RBAC", "Helm", "Docker"]
+title: kite-org/kite
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Go
+- Kubernetes
+- Prometheus
+- React
+- Monaco Editor
+- OAuth
+- RBAC
+- Helm
+- Docker
 quality_score: 9
 rag_relevance: 7
-tags: ["Kubernetes", "Dashboard", "Multi-cluster", "Observability", "AI Integration"]
-source: "https://github.com/kite-org/kite"
-discovered_at: "2026-06-25T11:36:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Kubernetes
+- Dashboard
+- Multi-cluster
+- Observability
+- AI Integration
+source: https://github.com/kite-org/kite
+discovered_at: '2026-06-25T11:36:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

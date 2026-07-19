@@ -1,13 +1,25 @@
 ---
-title: "IvanMurzak/Unity-MCP"
-category: "Tooling"
-tech_stack: ["C#", "Unity Engine", "Model Context Protocol (MCP)", "Docker", "Node.js", "CLI", "OpenUPM"]
+title: IvanMurzak/Unity-MCP
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- C#
+- Unity Engine
+- Model Context Protocol (MCP)
+- Docker
+- Node.js
+- CLI
+- OpenUPM
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Game Development", "Unity Integration", "MCP Server", "Automation", "Real-time Debugging"]
-source: "https://github.com/IvanMurzak/Unity-MCP"
-discovered_at: "2026-07-11T02:27:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Game Development
+- Unity Integration
+- MCP Server
+- Automation
+- Real-time Debugging
+source: https://github.com/IvanMurzak/Unity-MCP
+discovered_at: '2026-07-11T02:27:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

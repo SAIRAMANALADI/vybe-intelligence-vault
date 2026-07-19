@@ -1,13 +1,26 @@
 ---
-title: "fixed-width/glass"
-category: "Agent Framework"
-tech_stack: ["Rust", "Model Context Protocol (MCP)", "X11", "Wayland", "Windows API", "macOS Accessibility (AX)", "Android ADB", "Sandboxing (bubblewrap, Sandboxie, Seatbelt)"]
+title: fixed-width/glass
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Rust
+- Model Context Protocol (MCP)
+- X11
+- Wayland
+- Windows API
+- macOS Accessibility (AX)
+- Android ADB
+- Sandboxing (bubblewrap, Sandboxie, Seatbelt)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "GUI automation", "AI agent tools", "cross-platform", "sandboxed execution"]
-source: "https://github.com/fixed-width/glass"
-discovered_at: "2026-07-08T17:27:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- GUI automation
+- AI agent tools
+- cross-platform
+- sandboxed execution
+source: https://github.com/fixed-width/glass
+discovered_at: '2026-07-08T17:27:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

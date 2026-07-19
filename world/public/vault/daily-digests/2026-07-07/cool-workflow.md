@@ -1,13 +1,25 @@
 ---
-title: "coo1white/cool-workflow"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "ed25519 (for signing)", "JSON", "Git"]
+title: coo1white/cool-workflow
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- MCP (Model Context Protocol)
+- ed25519 (for signing)
+- JSON
+- Git
 quality_score: 9
 rag_relevance: 8
-tags: ["workflow automation", "AI agent orchestration", "evidence-based reporting", "tamper-evidence", "local-first"]
-source: "https://github.com/coo1white/cool-workflow"
-discovered_at: "2026-07-07T16:25:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- workflow automation
+- AI agent orchestration
+- evidence-based reporting
+- tamper-evidence
+- local-first
+source: https://github.com/coo1white/cool-workflow
+discovered_at: '2026-07-07T16:25:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

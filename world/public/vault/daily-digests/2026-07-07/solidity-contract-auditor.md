@@ -1,13 +1,25 @@
 ---
-title: "Brucinepurplepoppymallow513/solidity-contract-auditor"
-category: "Tooling"
-tech_stack: ["TypeScript", "React", "Node.js", "TailwindCSS", "Supabase", "TanStack", "Codemirror"]
+title: Brucinepurplepoppymallow513/solidity-contract-auditor
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- React
+- Node.js
+- TailwindCSS
+- Supabase
+- TanStack
+- Codemirror
 quality_score: 6
 rag_relevance: 5
-tags: ["smart contract audit", "solidity security", "vulnerability detection", "blockchain tooling", "AI-assisted analysis"]
-source: "https://github.com/Brucinepurplepoppymallow513/solidity-contract-auditor"
-discovered_at: "2026-07-07T19:00:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- smart contract audit
+- solidity security
+- vulnerability detection
+- blockchain tooling
+- AI-assisted analysis
+source: https://github.com/Brucinepurplepoppymallow513/solidity-contract-auditor
+discovered_at: '2026-07-07T19:00:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

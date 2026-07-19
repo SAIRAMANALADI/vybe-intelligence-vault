@@ -1,13 +1,22 @@
 ---
-title: "beacoder/gptel-agent-harness"
-category: "Agent Framework"
-tech_stack: ["Emacs Lisp", "gptel", "nadvice", "compat"]
+title: beacoder/gptel-agent-harness
+category: world/public/vault/daily-digests/2026-07-13
+tech_stack:
+- Emacs Lisp
+- gptel
+- nadvice
+- compat
 quality_score: 7
 rag_relevance: 6
-tags: ["agent supervision", "context management", "Emacs Lisp", "LLM reliability", "autonomous agents"]
-source: "https://github.com/beacoder/gptel-agent-harness"
-discovered_at: "2026-07-12T15:58:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent supervision
+- context management
+- Emacs Lisp
+- LLM reliability
+- autonomous agents
+source: https://github.com/beacoder/gptel-agent-harness
+discovered_at: '2026-07-12T15:58:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

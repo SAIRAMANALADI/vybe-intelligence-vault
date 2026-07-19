@@ -1,13 +1,27 @@
 ---
-title: "AkashBharangar/ai-coding-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "LangGraph", "Groq", "LangChain", "FAISS", "Tree-sitter", "Sentence Transformers", "Docker", "AST Parsing"]
+title: AkashBharangar/ai-coding-agent
+category: daily-digests/2026-07-18
+tech_stack:
+- Python
+- LangGraph
+- Groq
+- LangChain
+- FAISS
+- Tree-sitter
+- Sentence Transformers
+- Docker
+- AST Parsing
 quality_score: 9
 rag_relevance: 10
-tags: ["AI Coding Assistant", "Retrieval-Augmented Generation", "Tool Calling", "Code Understanding", "Multi-step Planning"]
-source: "https://github.com/AkashBharangar/ai-coding-agent"
-discovered_at: "2026-07-15T05:29:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Coding Assistant
+- Retrieval-Augmented Generation
+- Tool Calling
+- Code Understanding
+- Multi-step Planning
+source: https://github.com/AkashBharangar/ai-coding-agent
+discovered_at: '2026-07-15T05:29:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

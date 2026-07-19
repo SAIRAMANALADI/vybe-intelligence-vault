@@ -1,13 +1,23 @@
 ---
-title: "Simplex-publicspeaking797/claude-code-2.1.88"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "npm", "Windows", "Source Maps"]
+title: Simplex-publicspeaking797/claude-code-2.1.88
+category: world/public/vault/daily-digests/2026-07-04
+tech_stack:
+- TypeScript
+- Node.js
+- npm
+- Windows
+- Source Maps
 quality_score: 4
 rag_relevance: 5
-tags: ["source code recovery", "TypeScript analysis", "Claude Code", "reverse engineering", "npm package"]
-source: "https://github.com/Simplex-publicspeaking797/claude-code-2.1.88"
-discovered_at: "2026-07-04T00:02:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- source code recovery
+- TypeScript analysis
+- Claude Code
+- reverse engineering
+- npm package
+source: https://github.com/Simplex-publicspeaking797/claude-code-2.1.88
+discovered_at: '2026-07-04T00:02:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

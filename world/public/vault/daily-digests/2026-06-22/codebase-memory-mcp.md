@@ -1,13 +1,27 @@
 ---
-title: "DeusData/codebase-memory-mcp"
-category: "Orchestrator"
-tech_stack: ["C", "SQLite", "tree-sitter", "LZ4 compression", "Nomic embeddings", "MCP (Model Context Protocol)", "Git", "Docker", "Kubernetes"]
+title: DeusData/codebase-memory-mcp
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- C
+- SQLite
+- tree-sitter
+- LZ4 compression
+- Nomic embeddings
+- MCP (Model Context Protocol)
+- Git
+- Docker
+- Kubernetes
 quality_score: 10
 rag_relevance: 10
-tags: ["code intelligence", "knowledge graph", "MCP server", "static binary", "semantic search"]
-source: "https://github.com/DeusData/codebase-memory-mcp"
-discovered_at: "2026-06-22T18:13:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code intelligence
+- knowledge graph
+- MCP server
+- static binary
+- semantic search
+source: https://github.com/DeusData/codebase-memory-mcp
+discovered_at: '2026-06-22T18:13:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

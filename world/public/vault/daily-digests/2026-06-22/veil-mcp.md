@@ -1,13 +1,25 @@
 ---
-title: "vkmtx/veil-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "APFS (Copy-on-Write)", "sandbox-exec (macOS)", "bubblewrap (Linux)", "strace (Linux)"]
+title: vkmtx/veil-mcp
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- APFS (Copy-on-Write)
+- sandbox-exec (macOS)
+- bubblewrap (Linux)
+- strace (Linux)
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP server", "LLM agent tools", "structured command execution", "sandboxing", "disk-backed state"]
-source: "https://github.com/vkmtx/veil-mcp"
-discovered_at: "2026-06-22T23:21:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- LLM agent tools
+- structured command execution
+- sandboxing
+- disk-backed state
+source: https://github.com/vkmtx/veil-mcp
+discovered_at: '2026-06-22T23:21:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

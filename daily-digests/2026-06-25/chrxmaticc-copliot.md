@@ -1,13 +1,26 @@
 ---
-title: "Chrxmee-Bits/Chrxmaticc-Copliot"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "Pollinations AI", "Groq (Llama 3 8B)", "Google TTS/STT", "Spotify OAuth API", "pkg (Node.js bundler)", "JSON (for memory)"]
+title: Chrxmee-Bits/Chrxmaticc-Copliot
+category: daily-digests/2026-06-25
+tech_stack:
+- JavaScript
+- Node.js
+- Pollinations AI
+- Groq (Llama 3 8B)
+- Google TTS/STT
+- Spotify OAuth API
+- pkg (Node.js bundler)
+- JSON (for memory)
 quality_score: 7
 rag_relevance: 6
-tags: ["terminal AI", "voice assistant", "plugin system", "persistent memory", "local-first"]
-source: "https://github.com/Chrxmee-Bits/Chrxmaticc-Copliot"
-discovered_at: "2026-06-25T00:10:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- terminal AI
+- voice assistant
+- plugin system
+- persistent memory
+- local-first
+source: https://github.com/Chrxmee-Bits/Chrxmaticc-Copliot
+discovered_at: '2026-06-25T00:10:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

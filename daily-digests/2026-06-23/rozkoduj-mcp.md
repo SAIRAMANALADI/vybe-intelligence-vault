@@ -1,13 +1,24 @@
 ---
-title: "rozkoduj/rozkoduj-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FastAPI", "Docker", "GitHub Actions", "PyPI"]
+title: rozkoduj/rozkoduj-mcp
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FastAPI
+- Docker
+- GitHub Actions
+- PyPI
 quality_score: 9
 rag_relevance: 8
-tags: ["market intelligence", "MCP server", "financial analysis", "real-time data", "AI assistant integration"]
-source: "https://github.com/rozkoduj/rozkoduj-mcp"
-discovered_at: "2026-06-23T21:33:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- market intelligence
+- MCP server
+- financial analysis
+- real-time data
+- AI assistant integration
+source: https://github.com/rozkoduj/rozkoduj-mcp
+discovered_at: '2026-06-23T21:33:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

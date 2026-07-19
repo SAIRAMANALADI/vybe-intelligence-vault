@@ -1,13 +1,24 @@
 ---
-title: "Maxma1104/a-share-shortline-ledger"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "Markdown", "JSON", "RSSCAST API", "GitHub Pages"]
+title: Maxma1104/a-share-shortline-ledger
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- SQLite
+- Markdown
+- JSON
+- RSSCAST API
+- GitHub Pages
 quality_score: 8
 rag_relevance: 6
-tags: ["trading ledger", "A-share shortline", "watchlist automation", "local-first", "backtesting"]
-source: "https://github.com/Maxma1104/a-share-shortline-ledger"
-discovered_at: "2026-06-22T23:16:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- trading ledger
+- A-share shortline
+- watchlist automation
+- local-first
+- backtesting
+source: https://github.com/Maxma1104/a-share-shortline-ledger
+discovered_at: '2026-06-22T23:16:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

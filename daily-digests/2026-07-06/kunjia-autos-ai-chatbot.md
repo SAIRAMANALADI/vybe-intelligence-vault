@@ -1,13 +1,31 @@
 ---
-title: "419vive/kunjia-autos-ai-chatbot"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Express", "tRPC", "LINE Messaging API", "Gemini LLM (2.5 Flash)", "MySQL", "Drizzle ORM", "Vite", "React", "Helmet", "Rate Limiting", "SEO Engine (meta injection, sitemap, robots.txt)"]
+title: 419vive/kunjia-autos-ai-chatbot
+category: daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- Node.js
+- Express
+- tRPC
+- LINE Messaging API
+- Gemini LLM (2.5 Flash)
+- MySQL
+- Drizzle ORM
+- Vite
+- React
+- Helmet
+- Rate Limiting
+- SEO Engine (meta injection, sitemap, robots.txt)
 quality_score: 8
 rag_relevance: 7
-tags: ["AI chatbot", "LINE integration", "vehicle inventory sync", "admin dashboard", "SEO optimization"]
-source: "https://github.com/419vive/kunjia-autos-ai-chatbot"
-discovered_at: "2026-07-06T19:48:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI chatbot
+- LINE integration
+- vehicle inventory sync
+- admin dashboard
+- SEO optimization
+source: https://github.com/419vive/kunjia-autos-ai-chatbot
+discovered_at: '2026-07-06T19:48:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

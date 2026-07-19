@@ -1,13 +1,33 @@
 ---
-title: "maz557/coding-agent-free"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Express", "Model Context Protocol (MCP)", "Language Server Protocol (LSP)", "Ollama", "LM Studio", "Llama.cpp", "OpenRouter", "Groq", "Google AI Studio", "DeepSeek", "Mistral", "Zod", "Jest"]
+title: maz557/coding-agent-free
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- Express
+- Model Context Protocol (MCP)
+- Language Server Protocol (LSP)
+- Ollama
+- LM Studio
+- Llama.cpp
+- OpenRouter
+- Groq
+- Google AI Studio
+- DeepSeek
+- Mistral
+- Zod
+- Jest
 quality_score: 9
 rag_relevance: 8
-tags: ["AI coding assistant", "multi-model support", "local inference", "MCP integration", "LSP integration"]
-source: "https://github.com/maz557/coding-agent-free"
-discovered_at: "2026-07-08T17:24:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding assistant
+- multi-model support
+- local inference
+- MCP integration
+- LSP integration
+source: https://github.com/maz557/coding-agent-free
+discovered_at: '2026-07-08T17:24:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

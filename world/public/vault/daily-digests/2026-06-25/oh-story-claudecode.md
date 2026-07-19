@@ -1,13 +1,26 @@
 ---
-title: "worldwonderer/oh-story-claudecode"
-category: "Tooling"
-tech_stack: ["JavaScript", "Claude Code", "OpenCode", "OpenClaw", "GPT-Image-2", "Mermaid.js", "CDP (Chrome DevTools Protocol)", "Node.js"]
+title: worldwonderer/oh-story-claudecode
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- JavaScript
+- Claude Code
+- OpenCode
+- OpenClaw
+- GPT-Image-2
+- Mermaid.js
+- CDP (Chrome DevTools Protocol)
+- Node.js
 quality_score: 9
 rag_relevance: 7
-tags: ["novel writing", "AI-assisted storytelling", "trend analysis", "story breakdown", "multi-agent collaboration"]
-source: "https://github.com/worldwonderer/oh-story-claudecode"
-discovered_at: "2026-06-25T17:10:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- novel writing
+- AI-assisted storytelling
+- trend analysis
+- story breakdown
+- multi-agent collaboration
+source: https://github.com/worldwonderer/oh-story-claudecode
+discovered_at: '2026-06-25T17:10:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

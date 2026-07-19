@@ -1,13 +1,26 @@
 ---
-title: "zaahist/design-to-ship-playbook"
-category: "Orchestrator"
-tech_stack: ["Python", "OpenAI API", "Claude API", "Mermaid.js", "PlantUML", "YAML", "Markdown", "PDF Generation"]
+title: zaahist/design-to-ship-playbook
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- OpenAI API
+- Claude API
+- Mermaid.js
+- PlantUML
+- YAML
+- Markdown
+- PDF Generation
 quality_score: 7
 rag_relevance: 8
-tags: ["product development", "AI blueprinting", "go-to-market strategy", "technical estimation", "agent prompt generation"]
-source: "https://github.com/zaahist/design-to-ship-playbook"
-discovered_at: "2026-07-08T12:24:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- product development
+- AI blueprinting
+- go-to-market strategy
+- technical estimation
+- agent prompt generation
+source: https://github.com/zaahist/design-to-ship-playbook
+discovered_at: '2026-07-08T12:24:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

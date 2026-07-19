@@ -1,13 +1,27 @@
 ---
-title: "iOfficeAI/AionUi"
-category: "UI Component"
-tech_stack: ["TypeScript", "Electron", "React", "Node.js", "Python", "MCP (Model Context Protocol)", "WebSockets", "Docker", "SQLite"]
+title: iOfficeAI/AionUi
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Electron
+- React
+- Node.js
+- Python
+- MCP (Model Context Protocol)
+- WebSockets
+- Docker
+- SQLite
 quality_score: 9
 rag_relevance: 7
-tags: ["AI coworking", "multi-agent collaboration", "document automation", "cross-platform", "open-source"]
-source: "https://github.com/iOfficeAI/AionUi"
-discovered_at: "2026-06-22T16:48:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coworking
+- multi-agent collaboration
+- document automation
+- cross-platform
+- open-source
+source: https://github.com/iOfficeAI/AionUi
+discovered_at: '2026-06-22T16:48:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

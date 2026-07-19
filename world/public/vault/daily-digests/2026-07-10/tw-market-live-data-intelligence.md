@@ -1,13 +1,27 @@
 ---
-title: "SmartyJohnway/tw-market-live-data-intelligence"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "MCP (Model Context Protocol)", "Mermaid.js", "JSON", "HTML/CSS", "pytest", "Playwright", "TLS/SSL"]
+title: SmartyJohnway/tw-market-live-data-intelligence
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Python
+- FastAPI
+- MCP (Model Context Protocol)
+- Mermaid.js
+- JSON
+- HTML/CSS
+- pytest
+- Playwright
+- TLS/SSL
 quality_score: 7
 rag_relevance: 8
-tags: ["Taiwan market data", "local-first", "AI governance", "source health diagnostics", "conversation package"]
-source: "https://github.com/SmartyJohnway/tw-market-live-data-intelligence"
-discovered_at: "2026-07-10T06:31:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Taiwan market data
+- local-first
+- AI governance
+- source health diagnostics
+- conversation package
+source: https://github.com/SmartyJohnway/tw-market-live-data-intelligence
+discovered_at: '2026-07-10T06:31:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

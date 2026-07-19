@@ -1,13 +1,23 @@
 ---
-title: "Wilendera4031/mcp-model-context-protocol"
-category: "Tooling"
-tech_stack: ["Model Context Protocol", "Windows Installer (MSI/EXE)", "API Integration", "Local File System Access", "Configuration Files"]
+title: Wilendera4031/mcp-model-context-protocol
+category: daily-digests/2026-06-24
+tech_stack:
+- Model Context Protocol
+- Windows Installer (MSI/EXE)
+- API Integration
+- Local File System Access
+- Configuration Files
 quality_score: 6
 rag_relevance: 8
-tags: ["Model Context Protocol", "Windows Integration", "Data Bridge", "AI Tooling", "Local Data Access"]
-source: "https://github.com/Wilendera4031/mcp-model-context-protocol"
-discovered_at: "2026-06-24T06:51:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Model Context Protocol
+- Windows Integration
+- Data Bridge
+- AI Tooling
+- Local Data Access
+source: https://github.com/Wilendera4031/mcp-model-context-protocol
+discovered_at: '2026-06-24T06:51:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,35 @@
 ---
-title: "Lilac-Labs/gini-agent"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "Next.js", "React", "Tailwind CSS", "shadcn/ui", "Expo", "Node.js", "SQLite", "Embeddings", "Reranking", "Speech-to-Text", "AWS Bedrock", "OpenAI API", "Anthropic API", "Azure OpenAI", "Codex OAuth"]
+title: Lilac-Labs/gini-agent
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Bun
+- Next.js
+- React
+- Tailwind CSS
+- shadcn/ui
+- Expo
+- Node.js
+- SQLite
+- Embeddings
+- Reranking
+- Speech-to-Text
+- AWS Bedrock
+- OpenAI API
+- Anthropic API
+- Azure OpenAI
+- Codex OAuth
 quality_score: 9
 rag_relevance: 8
-tags: ["personal agent", "multi-provider", "stateful runtime", "memory management", "task automation"]
-source: "https://github.com/Lilac-Labs/gini-agent"
-discovered_at: "2026-06-25T08:31:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personal agent
+- multi-provider
+- stateful runtime
+- memory management
+- task automation
+source: https://github.com/Lilac-Labs/gini-agent
+discovered_at: '2026-06-25T08:31:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

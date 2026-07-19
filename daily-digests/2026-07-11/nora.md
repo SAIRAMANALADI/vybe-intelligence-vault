@@ -1,13 +1,33 @@
 ---
-title: "solomon2773/nora"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Next.js", "Express.js", "Node.js", "PostgreSQL", "Redis", "Docker", "Kubernetes", "Helm", "Nginx", "Tailwind CSS", "JWT", "BullMQ", "OpenClaw", "Hermes"]
+title: solomon2773/nora
+category: daily-digests/2026-07-11
+tech_stack:
+- TypeScript
+- Next.js
+- Express.js
+- Node.js
+- PostgreSQL
+- Redis
+- Docker
+- Kubernetes
+- Helm
+- Nginx
+- Tailwind CSS
+- JWT
+- BullMQ
+- OpenClaw
+- Hermes
 quality_score: 9
 rag_relevance: 9
-tags: ["AI agent orchestration", "self-hosted", "OpenClaw", "Hermes", "multi-agent management"]
-source: "https://github.com/solomon2773/nora"
-discovered_at: "2026-07-11T14:52:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent orchestration
+- self-hosted
+- OpenClaw
+- Hermes
+- multi-agent management
+source: https://github.com/solomon2773/nora
+discovered_at: '2026-07-11T14:52:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

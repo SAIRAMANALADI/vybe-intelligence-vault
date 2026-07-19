@@ -1,13 +1,25 @@
 ---
-title: "metagit-ai/metagit-cli"
-category: "Tooling"
-tech_stack: ["Python", "CLI", "Git", "MCP (Model Context Protocol)", "Docker", "YAML", "JSON"]
+title: metagit-ai/metagit-cli
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- CLI
+- Git
+- MCP (Model Context Protocol)
+- Docker
+- YAML
+- JSON
 quality_score: 9
 rag_relevance: 7
-tags: ["Git management", "multi-repo awareness", "context tracking", "AI agent tooling", "project documentation"]
-source: "https://github.com/metagit-ai/metagit-cli"
-discovered_at: "2026-06-24T22:14:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Git management
+- multi-repo awareness
+- context tracking
+- AI agent tooling
+- project documentation
+source: https://github.com/metagit-ai/metagit-cli
+discovered_at: '2026-06-24T22:14:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

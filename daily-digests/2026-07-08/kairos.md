@@ -1,13 +1,37 @@
 ---
-title: "wenisch-tech/Kairos"
-category: "Tooling"
-tech_stack: ["Java", "Spring Boot", "Spring Security", "Spring Data JPA", "H2 Database", "PostgreSQL", "Docker", "Kubernetes", "Helm", "Prometheus", "OCI/Docker Registry API", "Model Context Protocol (MCP)", "OIDC/OAuth2", "SMTP", "Discord Webhooks", "GitLab API", "Swagger/OpenAPI", "Bootstrap 5", "Cosign (Sigstore)"]
+title: wenisch-tech/Kairos
+category: daily-digests/2026-07-08
+tech_stack:
+- Java
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- H2 Database
+- PostgreSQL
+- Docker
+- Kubernetes
+- Helm
+- Prometheus
+- OCI/Docker Registry API
+- Model Context Protocol (MCP)
+- OIDC/OAuth2
+- SMTP
+- Discord Webhooks
+- GitLab API
+- Swagger/OpenAPI
+- Bootstrap 5
+- Cosign (Sigstore)
 quality_score: 9
 rag_relevance: 7
-tags: ["uptime monitoring", "self-hosted", "infrastructure monitoring", "status dashboard", "MCP server"]
-source: "https://github.com/wenisch-tech/Kairos"
-discovered_at: "2026-07-08T08:17:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- uptime monitoring
+- self-hosted
+- infrastructure monitoring
+- status dashboard
+- MCP server
+source: https://github.com/wenisch-tech/Kairos
+discovered_at: '2026-07-08T08:17:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

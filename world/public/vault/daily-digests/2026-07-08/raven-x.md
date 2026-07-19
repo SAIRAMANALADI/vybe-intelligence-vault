@@ -1,13 +1,24 @@
 ---
-title: "LaBestiaPR/RAVEN-X"
-category: "Orchestrator"
-tech_stack: ["Python", "AI/ML Frameworks", "Cloud Architecture Tools", "DevOps Automation", "Cybersecurity Frameworks", "Documentation Generation"]
+title: LaBestiaPR/RAVEN-X
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- AI/ML Frameworks
+- Cloud Architecture Tools
+- DevOps Automation
+- Cybersecurity Frameworks
+- Documentation Generation
 quality_score: 5
 rag_relevance: 8
-tags: ["AI-driven engineering", "multi-domain automation", "principal engineer simulation", "enterprise documentation", "systems troubleshooting"]
-source: "https://github.com/LaBestiaPR/RAVEN-X"
-discovered_at: "2026-07-08T21:01:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-driven engineering
+- multi-domain automation
+- principal engineer simulation
+- enterprise documentation
+- systems troubleshooting
+source: https://github.com/LaBestiaPR/RAVEN-X
+discovered_at: '2026-07-08T21:01:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

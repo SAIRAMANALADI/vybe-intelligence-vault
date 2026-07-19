@@ -1,13 +1,27 @@
 ---
-title: "n24q02m/better-email-mcp"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "IMAP/SMTP", "MCP (Model Context Protocol)", "Docker", "OAuth 2.1", "Cloudflare Workers", "semantic-release", "Renovate"]
+title: n24q02m/better-email-mcp
+category: daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Node.js
+- IMAP/SMTP
+- MCP (Model Context Protocol)
+- Docker
+- OAuth 2.1
+- Cloudflare Workers
+- semantic-release
+- Renovate
 quality_score: 9
 rag_relevance: 8
-tags: ["email automation", "IMAP/SMTP", "AI agents", "multi-account", "MCP server"]
-source: "https://github.com/n24q02m/better-email-mcp"
-discovered_at: "2026-07-10T02:27:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- email automation
+- IMAP/SMTP
+- AI agents
+- multi-account
+- MCP server
+source: https://github.com/n24q02m/better-email-mcp
+discovered_at: '2026-07-10T02:27:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

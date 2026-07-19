@@ -1,13 +1,27 @@
 ---
-title: "trycua/cua"
-category: "Orchestrator"
-tech_stack: ["Python", "Rust", "Swift", "QEMU", "Virtualization.Framework", "MCP (Model Context Protocol)", "Docker", "CLI", "RL Environments"]
+title: trycua/cua
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- Rust
+- Swift
+- QEMU
+- Virtualization.Framework
+- MCP (Model Context Protocol)
+- Docker
+- CLI
+- RL Environments
 quality_score: 9
 rag_relevance: 10
-tags: ["agent automation", "computer-use agents", "sandbox environments", "benchmarking", "virtualization"]
-source: "https://github.com/trycua/cua"
-discovered_at: "2026-06-22T18:13:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent automation
+- computer-use agents
+- sandbox environments
+- benchmarking
+- virtualization
+source: https://github.com/trycua/cua
+discovered_at: '2026-06-22T18:13:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "jim-688/cold-memory-kernel"
-category: "Orchestrator"
-tech_stack: ["Python", "Hermes Agent", "DeepSeek", "Kimi", "Xiaomi", "Ollama", "Git"]
+title: jim-688/cold-memory-kernel
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- Hermes Agent
+- DeepSeek
+- Kimi
+- Xiaomi
+- Ollama
+- Git
 quality_score: 8
 rag_relevance: 7
-tags: ["AI Agent Memory", "Memory Architecture", "Governance Framework", "Evidence-Driven Design", "Hermes Agent"]
-source: "https://github.com/jim-688/cold-memory-kernel"
-discovered_at: "2026-07-08T08:16:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent Memory
+- Memory Architecture
+- Governance Framework
+- Evidence-Driven Design
+- Hermes Agent
+source: https://github.com/jim-688/cold-memory-kernel
+discovered_at: '2026-07-08T08:16:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

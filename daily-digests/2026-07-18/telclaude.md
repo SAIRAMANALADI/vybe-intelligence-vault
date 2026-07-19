@@ -1,13 +1,28 @@
 ---
-title: "avivsinai/telclaude"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Docker", "Telegram Bot API", "Claude Code", "Codex CLI", "MCP (Model Context Protocol)", "TOTP (Time-based One-Time Password)", "Octokit (GitHub API)", "SQLite (for memory storage)"]
+title: avivsinai/telclaude
+category: daily-digests/2026-07-18
+tech_stack:
+- TypeScript
+- Node.js
+- Docker
+- Telegram Bot API
+- Claude Code
+- Codex CLI
+- MCP (Model Context Protocol)
+- TOTP (Time-based One-Time Password)
+- Octokit (GitHub API)
+- SQLite (for memory storage)
 quality_score: 9
 rag_relevance: 8
-tags: ["secure agent orchestration", "LLM pre-screening", "Telegram integration", "credential isolation", "tiered permissions"]
-source: "https://github.com/avivsinai/telclaude"
-discovered_at: "2026-07-18T09:23:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- secure agent orchestration
+- LLM pre-screening
+- Telegram integration
+- credential isolation
+- tiered permissions
+source: https://github.com/avivsinai/telclaude
+discovered_at: '2026-07-18T09:23:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

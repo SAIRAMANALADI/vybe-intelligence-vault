@@ -1,13 +1,22 @@
 ---
-title: "dabito/pi-hledit"
-category: "Tooling"
-tech_stack: ["TypeScript", "Go (hledit CLI)", "Node.js", "Pi AI Agent Framework"]
+title: dabito/pi-hledit
+category: daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Go (hledit CLI)
+- Node.js
+- Pi AI Agent Framework
 quality_score: 8
 rag_relevance: 7
-tags: ["hash-anchored editing", "stale-safe edits", "file manipulation", "AI agent tools", "code diffing"]
-source: "https://github.com/dabito/pi-hledit"
-discovered_at: "2026-07-10T06:31:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- hash-anchored editing
+- stale-safe edits
+- file manipulation
+- AI agent tools
+- code diffing
+source: https://github.com/dabito/pi-hledit
+discovered_at: '2026-07-10T06:31:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

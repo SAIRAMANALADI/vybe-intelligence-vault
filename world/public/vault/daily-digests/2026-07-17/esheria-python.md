@@ -1,13 +1,23 @@
 ---
-title: "esherialabs/esheria-python"
-category: "Tooling"
-tech_stack: ["Python", "CLI", "MCP (Model Context Protocol)", "HTTP/REST API", "Apache License 2.0"]
+title: esherialabs/esheria-python
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- Python
+- CLI
+- MCP (Model Context Protocol)
+- HTTP/REST API
+- Apache License 2.0
 quality_score: 7
 rag_relevance: 6
-tags: ["regulatory intelligence", "compliance", "MCP server", "CLI tool", "API client"]
-source: "https://github.com/esherialabs/esheria-python"
-discovered_at: "2026-07-15T10:48:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- regulatory intelligence
+- compliance
+- MCP server
+- CLI tool
+- API client
+source: https://github.com/esherialabs/esheria-python
+discovered_at: '2026-07-15T10:48:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

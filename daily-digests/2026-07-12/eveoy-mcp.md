@@ -1,13 +1,28 @@
 ---
-title: "Eveoy/eveoy-mcp"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Cloudflare Workers", "Durable Objects", "Supabase", "Stripe", "Zoho CRM", "Zod", "Vitest", "Wrangler", "MCP (Model Context Protocol)"]
+title: Eveoy/eveoy-mcp
+category: daily-digests/2026-07-12
+tech_stack:
+- TypeScript
+- Cloudflare Workers
+- Durable Objects
+- Supabase
+- Stripe
+- Zoho CRM
+- Zod
+- Vitest
+- Wrangler
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "AI agent integration", "in-store customer visits", "sales automation", "Cloudflare Workers"]
-source: "https://github.com/Eveoy/eveoy-mcp"
-discovered_at: "2026-07-11T20:09:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- AI agent integration
+- in-store customer visits
+- sales automation
+- Cloudflare Workers
+source: https://github.com/Eveoy/eveoy-mcp
+discovered_at: '2026-07-11T20:09:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

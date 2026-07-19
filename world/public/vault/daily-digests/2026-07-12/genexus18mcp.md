@@ -1,13 +1,24 @@
 ---
-title: "lennix1337/Genexus18MCP"
-category: "Tooling"
-tech_stack: ["C#", "Node.js", "Model Context Protocol (MCP)", "GeneXus SDK", "TypeScript", "PowerShell"]
+title: lennix1337/Genexus18MCP
+category: world/public/vault/daily-digests/2026-07-12
+tech_stack:
+- C#
+- Node.js
+- Model Context Protocol (MCP)
+- GeneXus SDK
+- TypeScript
+- PowerShell
 quality_score: 9
 rag_relevance: 8
-tags: ["GeneXus", "MCP Server", "AI Agent Integration", "Knowledge Base Management", "Code Refactoring"]
-source: "https://github.com/lennix1337/Genexus18MCP"
-discovered_at: "2026-07-11T02:27:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- GeneXus
+- MCP Server
+- AI Agent Integration
+- Knowledge Base Management
+- Code Refactoring
+source: https://github.com/lennix1337/Genexus18MCP
+discovered_at: '2026-07-11T02:27:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

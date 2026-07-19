@@ -1,13 +1,22 @@
 ---
-title: "Daohuyt5735/codilay"
-category: "Tooling"
-tech_stack: ["Python", "Markdown", "Windows", "Dynamic Analysis"]
+title: Daohuyt5735/codilay
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Markdown
+- Windows
+- Dynamic Analysis
 quality_score: 6
 rag_relevance: 7
-tags: ["code analysis", "documentation generator", "dependency mapping", "codebase explorer", "AI agent"]
-source: "https://github.com/Daohuyt5735/codilay"
-discovered_at: "2026-06-23T02:41:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code analysis
+- documentation generator
+- dependency mapping
+- codebase explorer
+- AI agent
+source: https://github.com/Daohuyt5735/codilay
+discovered_at: '2026-06-23T02:41:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

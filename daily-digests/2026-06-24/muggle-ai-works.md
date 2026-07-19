@@ -1,13 +1,25 @@
 ---
-title: "multiplex-ai/muggle-ai-works"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Electron", "MCP (Model Context Protocol)", "Playwright", "React", "npm"]
+title: multiplex-ai/muggle-ai-works
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- Electron
+- MCP (Model Context Protocol)
+- Playwright
+- React
+- npm
 quality_score: 9
 rag_relevance: 8
-tags: ["E2E testing", "AI agent integration", "browser automation", "acceptance testing", "CI/CD"]
-source: "https://github.com/multiplex-ai/muggle-ai-works"
-discovered_at: "2026-06-24T22:19:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- E2E testing
+- AI agent integration
+- browser automation
+- acceptance testing
+- CI/CD
+source: https://github.com/multiplex-ai/muggle-ai-works
+discovered_at: '2026-06-24T22:19:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

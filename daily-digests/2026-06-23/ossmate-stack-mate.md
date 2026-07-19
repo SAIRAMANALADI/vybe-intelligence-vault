@@ -1,13 +1,28 @@
 ---
-title: "Jayrajsinh45/ossmate-stack-mate"
-category: "Orchestrator"
-tech_stack: ["Node.js", "Python", "YAML", "CLI", "Web Dashboard", "Docker", "Git", "MCP (Model Context Protocol)", "OpenAI API", "Claude API"]
+title: Jayrajsinh45/ossmate-stack-mate
+category: daily-digests/2026-06-23
+tech_stack:
+- Node.js
+- Python
+- YAML
+- CLI
+- Web Dashboard
+- Docker
+- Git
+- MCP (Model Context Protocol)
+- OpenAI API
+- Claude API
 quality_score: 7
 rag_relevance: 6
-tags: ["Claude Code", "Extension Management", "Orchestration", "Developer Tools", "AI Workflow"]
-source: "https://github.com/Jayrajsinh45/ossmate-stack-mate"
-discovered_at: "2026-06-23T21:35:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- Extension Management
+- Orchestration
+- Developer Tools
+- AI Workflow
+source: https://github.com/Jayrajsinh45/ossmate-stack-mate
+discovered_at: '2026-06-23T21:35:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

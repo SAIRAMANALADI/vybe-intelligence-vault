@@ -1,13 +1,22 @@
 ---
-title: "zenyrae123/claude-data-analysis-ultra-main"
-category: "Tooling"
-tech_stack: ["Electron", "Python", "Data Analysis Libraries", "CLI Commands"]
+title: zenyrae123/claude-data-analysis-ultra-main
+category: daily-digests/2026-06-25
+tech_stack:
+- Electron
+- Python
+- Data Analysis Libraries
+- CLI Commands
 quality_score: 5
 rag_relevance: 6
-tags: ["data analysis", "AI-driven insights", "desktop application", "non-technical users", "reporting"]
-source: "https://github.com/zenyrae123/claude-data-analysis-ultra-main"
-discovered_at: "2026-06-25T05:07:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- data analysis
+- AI-driven insights
+- desktop application
+- non-technical users
+- reporting
+source: https://github.com/zenyrae123/claude-data-analysis-ultra-main
+discovered_at: '2026-06-25T05:07:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

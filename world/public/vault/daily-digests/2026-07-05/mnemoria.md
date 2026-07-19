@@ -1,13 +1,22 @@
 ---
-title: "Pawasbb/mnemoria"
-category: "Tooling"
-tech_stack: ["HTML", "JavaScript", "Web Storage API", "Local Storage"]
+title: Pawasbb/mnemoria
+category: world/public/vault/daily-digests/2026-07-05
+tech_stack:
+- HTML
+- JavaScript
+- Web Storage API
+- Local Storage
 quality_score: 4
 rag_relevance: 7
-tags: ["memory management", "long-term context", "AI agents", "persistent storage", "searchable context"]
-source: "https://github.com/Pawasbb/mnemoria"
-discovered_at: "2026-07-05T21:58:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory management
+- long-term context
+- AI agents
+- persistent storage
+- searchable context
+source: https://github.com/Pawasbb/mnemoria
+discovered_at: '2026-07-05T21:58:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

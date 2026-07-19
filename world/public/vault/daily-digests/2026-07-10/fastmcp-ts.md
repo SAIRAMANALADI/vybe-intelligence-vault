@@ -1,13 +1,25 @@
 ---
-title: "PrefectHQ/fastmcp-ts"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Zod", "Node.js", "JWT", "HTTP/STDIO", "CLI"]
+title: PrefectHQ/fastmcp-ts
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Zod
+- Node.js
+- JWT
+- HTTP/STDIO
+- CLI
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "TypeScript", "Model Context Protocol", "Agent Framework", "LLM Integration"]
-source: "https://github.com/PrefectHQ/fastmcp-ts"
-discovered_at: "2026-07-10T22:00:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- TypeScript
+- Model Context Protocol
+- Agent Framework
+- LLM Integration
+source: https://github.com/PrefectHQ/fastmcp-ts
+discovered_at: '2026-07-10T22:00:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

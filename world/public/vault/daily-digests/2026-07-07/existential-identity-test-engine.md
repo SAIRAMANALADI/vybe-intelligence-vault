@@ -1,13 +1,27 @@
 ---
-title: "zizetu/existential-identity-test-engine"
-category: "Agent Framework"
-tech_stack: ["Python", "LLM APIs (OpenAI-compatible)", "Telegram Bot API", "HTTP/REST", "Cryptography", "CRDTs (Conflict-free Replicated Data Types)", "Docker", "JSON/Config Management", "CLI Tools"]
+title: zizetu/existential-identity-test-engine
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- LLM APIs (OpenAI-compatible)
+- Telegram Bot API
+- HTTP/REST
+- Cryptography
+- CRDTs (Conflict-free Replicated Data Types)
+- Docker
+- JSON/Config Management
+- CLI Tools
 quality_score: 8
 rag_relevance: 7
-tags: ["AI agent runtime", "identity verification", "multi-provider failover", "self-hosted", "behavioral consistency"]
-source: "https://github.com/zizetu/existential-identity-test-engine"
-discovered_at: "2026-07-07T22:08:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent runtime
+- identity verification
+- multi-provider failover
+- self-hosted
+- behavioral consistency
+source: https://github.com/zizetu/existential-identity-test-engine
+discovered_at: '2026-07-07T22:08:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

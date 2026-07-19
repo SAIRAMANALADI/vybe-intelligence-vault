@@ -1,13 +1,22 @@
 ---
-title: "barrylecherous932/eurostat-mcp-server"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Windows Executable (.exe)", "STDIO/HTTP"]
+title: barrylecherous932/eurostat-mcp-server
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Windows Executable (.exe)
+- STDIO/HTTP
 quality_score: 6
 rag_relevance: 7
-tags: ["Eurostat", "MCP", "Statistical Data", "Windows Tool", "Data Retrieval"]
-source: "https://github.com/barrylecherous932/eurostat-mcp-server"
-discovered_at: "2026-06-24T06:46:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Eurostat
+- MCP
+- Statistical Data
+- Windows Tool
+- Data Retrieval
+source: https://github.com/barrylecherous932/eurostat-mcp-server
+discovered_at: '2026-06-24T06:46:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

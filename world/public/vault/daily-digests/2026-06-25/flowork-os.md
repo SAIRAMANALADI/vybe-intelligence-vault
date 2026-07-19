@@ -1,13 +1,27 @@
 ---
-title: "flowork-os/Flowork-OS"
-category: "Orchestrator"
-tech_stack: ["Go", "WASM (wazero)", "SQLite (FTS5)", "Model Context Protocol (MCP)", "Alpine Linux", "Bubblewrap", "LUKS encryption", "dm-verity", "P2P mesh networking"]
+title: flowork-os/Flowork-OS
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Go
+- WASM (wazero)
+- SQLite (FTS5)
+- Model Context Protocol (MCP)
+- Alpine Linux
+- Bubblewrap
+- LUKS encryption
+- dm-verity
+- P2P mesh networking
 quality_score: 9
 rag_relevance: 8
-tags: ["sovereign AI", "local-first agents", "WASM sandboxing", "self-hosted OS", "P2P mesh"]
-source: "https://github.com/flowork-os/Flowork-OS"
-discovered_at: "2026-06-25T05:04:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- sovereign AI
+- local-first agents
+- WASM sandboxing
+- self-hosted OS
+- P2P mesh
+source: https://github.com/flowork-os/Flowork-OS
+discovered_at: '2026-06-25T05:04:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

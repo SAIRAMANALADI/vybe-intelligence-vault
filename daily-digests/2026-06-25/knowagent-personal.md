@@ -1,13 +1,26 @@
 ---
-title: "moaliangliang/knowagent-personal"
-category: "Agent Framework"
-tech_stack: ["Python", "Ollama", "OpenAI API", "macOS", "SQLite", "ChromaDB", "Swift", "Keychain"]
+title: moaliangliang/knowagent-personal
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- Ollama
+- OpenAI API
+- macOS
+- SQLite
+- ChromaDB
+- Swift
+- Keychain
 quality_score: 8
 rag_relevance: 7
-tags: ["macOS automation", "local AI assistant", "natural language commands", "RAG integration", "system toolkit"]
-source: "https://github.com/moaliangliang/knowagent-personal"
-discovered_at: "2026-06-25T00:10:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- macOS automation
+- local AI assistant
+- natural language commands
+- RAG integration
+- system toolkit
+source: https://github.com/moaliangliang/knowagent-personal
+discovered_at: '2026-06-25T00:10:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "keypup-io/engineering-analytics-mcp-server"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "HTTP/Streamable Transport", "OAuth 2.1", "REST API"]
+title: keypup-io/engineering-analytics-mcp-server
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- HTTP/Streamable Transport
+- OAuth 2.1
+- REST API
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP", "engineering analytics", "natural language queries", "AI assistant integration", "software delivery metrics"]
-source: "https://github.com/keypup-io/engineering-analytics-mcp-server"
-discovered_at: "2026-06-25T17:12:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- engineering analytics
+- natural language queries
+- AI assistant integration
+- software delivery metrics
+source: https://github.com/keypup-io/engineering-analytics-mcp-server
+discovered_at: '2026-06-25T17:12:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

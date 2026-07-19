@@ -1,13 +1,23 @@
 ---
-title: "Tunelts3852/Omni-node"
-category: "Orchestrator"
-tech_stack: [".NET", "Telegram Bot API", "Web Dashboard (likely JavaScript/TypeScript)", "Sandbox Environment", "Local Core Daemon"]
+title: Tunelts3852/Omni-node
+category: daily-digests/2026-07-02
+tech_stack:
+- .NET
+- Telegram Bot API
+- Web Dashboard (likely JavaScript/TypeScript)
+- Sandbox Environment
+- Local Core Daemon
 quality_score: 3
 rag_relevance: 6
-tags: ["orchestration", "development workflow", "multi-service integration", "sandbox", "AI tooling"]
-source: "https://github.com/Tunelts3852/Omni-node"
-discovered_at: "2026-07-02T20:59:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- orchestration
+- development workflow
+- multi-service integration
+- sandbox
+- AI tooling
+source: https://github.com/Tunelts3852/Omni-node
+discovered_at: '2026-07-02T20:59:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

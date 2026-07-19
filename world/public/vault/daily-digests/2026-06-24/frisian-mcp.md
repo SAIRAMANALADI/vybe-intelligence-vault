@@ -1,13 +1,26 @@
 ---
-title: "Frisian-MCP/frisian-mcp"
-category: "Orchestrator"
-tech_stack: ["Python", "Django", "Django REST Framework", "Model Context Protocol (MCP)", "HTTP/JSON-RPC", "OAuth 2.0", "HMAC", "PostgreSQL"]
+title: Frisian-MCP/frisian-mcp
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Django
+- Django REST Framework
+- Model Context Protocol (MCP)
+- HTTP/JSON-RPC
+- OAuth 2.0
+- HMAC
+- PostgreSQL
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP server", "Django integration", "token efficiency", "auto-discovery", "permission gating"]
-source: "https://github.com/Frisian-MCP/frisian-mcp"
-discovered_at: "2026-06-24T10:23:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Django integration
+- token efficiency
+- auto-discovery
+- permission gating
+source: https://github.com/Frisian-MCP/frisian-mcp
+discovered_at: '2026-06-24T10:23:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

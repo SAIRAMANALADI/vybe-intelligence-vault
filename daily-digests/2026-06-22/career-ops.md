@@ -1,13 +1,30 @@
 ---
-title: "santifer/career-ops"
-category: "Tooling"
-tech_stack: ["Node.js", "Go", "Playwright", "TypeScript", "Python", "Claude Code", "Gemini CLI", "OpenCode", "Antigravity CLI", "PDF Generation", "Terminal UI (Bubble Tea)", "GitHub Actions"]
+title: santifer/career-ops
+category: daily-digests/2026-06-22
+tech_stack:
+- Node.js
+- Go
+- Playwright
+- TypeScript
+- Python
+- Claude Code
+- Gemini CLI
+- OpenCode
+- Antigravity CLI
+- PDF Generation
+- Terminal UI (Bubble Tea)
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-tags: ["job search automation", "AI resume generation", "ATS optimization", "multi-agent system", "career pipeline"]
-source: "https://github.com/santifer/career-ops"
-discovered_at: "2026-06-22T15:56:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- job search automation
+- AI resume generation
+- ATS optimization
+- multi-agent system
+- career pipeline
+source: https://github.com/santifer/career-ops
+discovered_at: '2026-06-22T15:56:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

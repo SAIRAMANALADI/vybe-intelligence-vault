@@ -1,13 +1,30 @@
 ---
-title: "wesleysimplicio/simplicio-loop"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Mermaid", "GitHub Actions", "Playwright", "Claude Code", "Cursor", "VS Code Copilot", "Gemini", "Aider", "Hermes", "OpenClaw"]
+title: wesleysimplicio/simplicio-loop
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Mermaid
+- GitHub Actions
+- Playwright
+- Claude Code
+- Cursor
+- VS Code Copilot
+- Gemini
+- Aider
+- Hermes
+- OpenClaw
 quality_score: 9
 rag_relevance: 10
-tags: ["AI agent automation", "workflow orchestrator", "multi-runtime", "token economy", "autonomous LLM"]
-source: "https://github.com/wesleysimplicio/simplicio-loop"
-discovered_at: "2026-06-23T08:53:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent automation
+- workflow orchestrator
+- multi-runtime
+- token economy
+- autonomous LLM
+source: https://github.com/wesleysimplicio/simplicio-loop
+discovered_at: '2026-06-23T08:53:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

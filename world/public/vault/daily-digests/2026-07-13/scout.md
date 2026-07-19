@@ -1,13 +1,23 @@
 ---
-title: "tools-for-agents/scout"
-category: "Tooling"
-tech_stack: ["Node.js", "SQLite (FTS5 for search)", "Regex-based HTML extraction", "MCP (Model Context Protocol) server", "CLI tools"]
+title: tools-for-agents/scout
+category: world/public/vault/daily-digests/2026-07-13
+tech_stack:
+- Node.js
+- SQLite (FTS5 for search)
+- Regex-based HTML extraction
+- MCP (Model Context Protocol) server
+- CLI tools
 quality_score: 9
 rag_relevance: 9
-tags: ["web scraping", "content extraction", "markdown conversion", "caching", "searchable history"]
-source: "https://github.com/tools-for-agents/scout"
-discovered_at: "2026-07-12T10:26:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web scraping
+- content extraction
+- markdown conversion
+- caching
+- searchable history
+source: https://github.com/tools-for-agents/scout
+discovered_at: '2026-07-12T10:26:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "openwong2kim/wmux"
-category: "Tooling"
-tech_stack: ["Electron", "TypeScript", "React", "ConPTY", "xterm.js", "Playwright", "CDP (Chrome DevTools Protocol)", "Node.js", "Zustand", "Python"]
+title: openwong2kim/wmux
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Electron
+- TypeScript
+- React
+- ConPTY
+- xterm.js
+- Playwright
+- CDP (Chrome DevTools Protocol)
+- Node.js
+- Zustand
+- Python
 quality_score: 9
 rag_relevance: 7
-tags: ["Windows terminal", "AI agent orchestration", "browser automation", "MCP server", "terminal multiplexer"]
-source: "https://github.com/openwong2kim/wmux"
-discovered_at: "2026-06-23T10:33:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Windows terminal
+- AI agent orchestration
+- browser automation
+- MCP server
+- terminal multiplexer
+source: https://github.com/openwong2kim/wmux
+discovered_at: '2026-06-23T10:33:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

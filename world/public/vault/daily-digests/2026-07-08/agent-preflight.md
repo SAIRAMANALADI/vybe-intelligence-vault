@@ -1,13 +1,31 @@
 ---
-title: "marsley01/agent-preflight"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "REST API", "GraphQL", "Docker", "Kubernetes", "Terraform", "Prometheus", "OpenTelemetry", "PostgreSQL", "Redis", "React", "CLI"]
+title: marsley01/agent-preflight
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- REST API
+- GraphQL
+- Docker
+- Kubernetes
+- Terraform
+- Prometheus
+- OpenTelemetry
+- PostgreSQL
+- Redis
+- React
+- CLI
 quality_score: 9
 rag_relevance: 10
-tags: ["AI orchestration", "multi-agent systems", "cross-framework", "enterprise AI", "agent communication"]
-source: "https://github.com/marsley01/agent-preflight"
-discovered_at: "2026-07-08T17:25:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI orchestration
+- multi-agent systems
+- cross-framework
+- enterprise AI
+- agent communication
+source: https://github.com/marsley01/agent-preflight
+discovered_at: '2026-07-08T17:25:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

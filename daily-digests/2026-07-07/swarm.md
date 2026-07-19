@@ -1,13 +1,32 @@
 ---
-title: "Joloooo/swarm"
-category: "Agent Framework"
-tech_stack: ["Python", "LangGraph", "LangChain", "tmux", "nmap", "gobuster", "sqlmap", "nikto", "Playwright", "uv", "Anthropic API", "OpenAI API", "OpenRouter API", "ChatGPT Plus/Pro"]
+title: Joloooo/swarm
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- LangGraph
+- LangChain
+- tmux
+- nmap
+- gobuster
+- sqlmap
+- nikto
+- Playwright
+- uv
+- Anthropic API
+- OpenAI API
+- OpenRouter API
+- ChatGPT Plus/Pro
 quality_score: 8
 rag_relevance: 7
-tags: ["penetration testing", "autonomous agents", "LLM-based security", "parallel attack execution", "OWASP compliance"]
-source: "https://github.com/Joloooo/swarm"
-discovered_at: "2026-07-07T23:54:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- penetration testing
+- autonomous agents
+- LLM-based security
+- parallel attack execution
+- OWASP compliance
+source: https://github.com/Joloooo/swarm
+discovered_at: '2026-07-07T23:54:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

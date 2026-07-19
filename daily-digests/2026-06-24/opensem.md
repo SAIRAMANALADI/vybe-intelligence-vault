@@ -1,13 +1,23 @@
 ---
-title: "69IR/OpenSem"
-category: "Tooling"
-tech_stack: ["YAML", "Claude Code", "MCP Server", "Python (implied)", "Shell Scripting (for setup)"]
+title: 69IR/OpenSem
+category: daily-digests/2026-06-24
+tech_stack:
+- YAML
+- Claude Code
+- MCP Server
+- Python (implied)
+- Shell Scripting (for setup)
 quality_score: 7
 rag_relevance: 6
-tags: ["project bootstrapping", "YAML configuration", "Claude Code integration", "AI coding templates", "workflow automation"]
-source: "https://github.com/69IR/OpenSem"
-discovered_at: "2026-06-24T16:23:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- project bootstrapping
+- YAML configuration
+- Claude Code integration
+- AI coding templates
+- workflow automation
+source: https://github.com/69IR/OpenSem
+discovered_at: '2026-06-24T16:23:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

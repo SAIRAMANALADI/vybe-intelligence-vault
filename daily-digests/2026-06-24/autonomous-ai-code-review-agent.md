@@ -1,13 +1,28 @@
 ---
-title: "ruldak/Autonomous-AI-Code-Review-Agent"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "LangChain", "Groq", "Celery", "Redis", "PostgreSQL", "SQLAlchemy", "Tree-sitter", "Docker"]
+title: ruldak/Autonomous-AI-Code-Review-Agent
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- FastAPI
+- LangChain
+- Groq
+- Celery
+- Redis
+- PostgreSQL
+- SQLAlchemy
+- Tree-sitter
+- Docker
 quality_score: 9
 rag_relevance: 7
-tags: ["code review automation", "AI-powered security scanning", "GitHub integration", "AST parsing", "multi-tenant SaaS"]
-source: "https://github.com/ruldak/Autonomous-AI-Code-Review-Agent"
-discovered_at: "2026-06-24T13:19:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code review automation
+- AI-powered security scanning
+- GitHub integration
+- AST parsing
+- multi-tenant SaaS
+source: https://github.com/ruldak/Autonomous-AI-Code-Review-Agent
+discovered_at: '2026-06-24T13:19:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

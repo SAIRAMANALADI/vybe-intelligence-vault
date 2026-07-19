@@ -1,13 +1,26 @@
 ---
-title: "Xquik-dev/hermes-tweet"
-category: "Agent Framework"
-tech_stack: ["Python", "Hermes Agent", "Xquik API", "PyPI", "OpenAPI", "CI/CD", "TypeScript (for plugin manifests)", "Docker (implied for deployment)"]
+title: Xquik-dev/hermes-tweet
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- Hermes Agent
+- Xquik API
+- PyPI
+- OpenAPI
+- CI/CD
+- TypeScript (for plugin manifests)
+- Docker (implied for deployment)
 quality_score: 9
 rag_relevance: 8
-tags: ["X automation", "Hermes Agent plugin", "social media tools", "API integration", "agentic workflows"]
-source: "https://github.com/Xquik-dev/hermes-tweet"
-discovered_at: "2026-06-22T23:18:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- X automation
+- Hermes Agent plugin
+- social media tools
+- API integration
+- agentic workflows
+source: https://github.com/Xquik-dev/hermes-tweet
+discovered_at: '2026-06-22T23:18:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

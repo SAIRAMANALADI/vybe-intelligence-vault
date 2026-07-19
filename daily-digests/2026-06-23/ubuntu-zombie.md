@@ -1,13 +1,25 @@
 ---
-title: "japer-technology/ubuntu-zombie"
-category: "Tooling"
-tech_stack: ["Shell", "Python", "Ubuntu Linux", "Tailscale", "OpenAI-compatible APIs", "Systemd", "Debian packaging"]
+title: japer-technology/ubuntu-zombie
+category: daily-digests/2026-06-23
+tech_stack:
+- Shell
+- Python
+- Ubuntu Linux
+- Tailscale
+- OpenAI-compatible APIs
+- Systemd
+- Debian packaging
 quality_score: 9
 rag_relevance: 7
-tags: ["AI Systems Administration", "Self-healing Systems", "Local LLM Integration", "Audit Logging", "Ubuntu Automation"]
-source: "https://github.com/japer-technology/ubuntu-zombie"
-discovered_at: "2026-06-23T13:44:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Systems Administration
+- Self-healing Systems
+- Local LLM Integration
+- Audit Logging
+- Ubuntu Automation
+source: https://github.com/japer-technology/ubuntu-zombie
+discovered_at: '2026-06-23T13:44:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

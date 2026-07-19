@@ -1,13 +1,23 @@
 ---
-title: "rocksunfishsinking953/nitro-imessage-agent"
-category: "Tooling"
-tech_stack: ["TypeScript", "Windows Desktop Application", "Nitro SDK", "Vercel Workflow", "AI Integration"]
+title: rocksunfishsinking953/nitro-imessage-agent
+category: daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- Windows Desktop Application
+- Nitro SDK
+- Vercel Workflow
+- AI Integration
 quality_score: 6
 rag_relevance: 5
-tags: ["iMessage automation", "AI messaging agent", "Windows desktop tool", "message routing", "automated replies"]
-source: "https://github.com/rocksunfishsinking953/nitro-imessage-agent"
-discovered_at: "2026-07-06T19:48:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- iMessage automation
+- AI messaging agent
+- Windows desktop tool
+- message routing
+- automated replies
+source: https://github.com/rocksunfishsinking953/nitro-imessage-agent
+discovered_at: '2026-07-06T19:48:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

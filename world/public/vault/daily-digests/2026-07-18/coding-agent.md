@@ -1,13 +1,24 @@
 ---
-title: "OlehDatsyk/coding-agent"
-category: "Agent Framework"
-tech_stack: ["FastAPI", "Pydantic v2", "OpenAI Responses API", "Python", "JSON", "Pytest"]
+title: OlehDatsyk/coding-agent
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- FastAPI
+- Pydantic v2
+- OpenAI Responses API
+- Python
+- JSON
+- Pytest
 quality_score: 9
 rag_relevance: 8
-tags: ["AI coding agent", "code generation", "OpenAI Responses API", "FastAPI", "modular architecture"]
-source: "https://github.com/OlehDatsyk/coding-agent"
-discovered_at: "2026-07-17T18:05:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding agent
+- code generation
+- OpenAI Responses API
+- FastAPI
+- modular architecture
+source: https://github.com/OlehDatsyk/coding-agent
+discovered_at: '2026-07-17T18:05:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

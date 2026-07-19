@@ -1,13 +1,22 @@
 ---
-title: "royals7272/stacklit"
-category: "Tooling"
-tech_stack: ["Python", "CLI", "Static Analysis", "Code Parsing"]
+title: royals7272/stacklit
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- CLI
+- Static Analysis
+- Code Parsing
 quality_score: 5
 rag_relevance: 7
-tags: ["code indexing", "AI agent tooling", "local repository mapping", "static analysis", "CLI utility"]
-source: "https://github.com/royals7272/stacklit"
-discovered_at: "2026-07-06T19:49:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code indexing
+- AI agent tooling
+- local repository mapping
+- static analysis
+- CLI utility
+source: https://github.com/royals7272/stacklit
+discovered_at: '2026-07-06T19:49:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

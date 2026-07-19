@@ -1,13 +1,26 @@
 ---
-title: "beycom/onetool-mcp"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "FastMCP", "SQLite", "HTTP", "CLI", "Docker", "YAML"]
+title: beycom/onetool-mcp
+category: daily-digests/2026-07-12
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- FastMCP
+- SQLite
+- HTTP
+- CLI
+- Docker
+- YAML
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP server", "token optimization", "context management", "tool consolidation", "AI agent integration"]
-source: "https://github.com/beycom/onetool-mcp"
-discovered_at: "2026-07-12T02:33:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- token optimization
+- context management
+- tool consolidation
+- AI agent integration
+source: https://github.com/beycom/onetool-mcp
+discovered_at: '2026-07-12T02:33:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

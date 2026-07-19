@@ -1,13 +1,25 @@
 ---
-title: "kintopp/rijksmuseum-mcp-plus"
-category: "Tooling"
-tech_stack: ["Python", "MCP Protocol", "FastAPI", "PostgreSQL", "Elasticsearch", "Natural Language Processing", "Geospatial Analysis"]
+title: kintopp/rijksmuseum-mcp-plus
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- MCP Protocol
+- FastAPI
+- PostgreSQL
+- Elasticsearch
+- Natural Language Processing
+- Geospatial Analysis
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP Server", "Cultural Heritage", "Semantic Search", "Provenance Analysis", "Artwork Similarity"]
-source: "https://github.com/kintopp/rijksmuseum-mcp-plus"
-discovered_at: "2026-06-25T14:19:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- Cultural Heritage
+- Semantic Search
+- Provenance Analysis
+- Artwork Similarity
+source: https://github.com/kintopp/rijksmuseum-mcp-plus
+discovered_at: '2026-06-25T14:19:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

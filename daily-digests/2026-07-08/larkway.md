@@ -1,13 +1,28 @@
 ---
-title: "chuckwu0/larkway"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Feishu API", "Claude Code", "Codex", "WebSocket", "NDJSON", "Git", "GitLab CLI", "GitHub CLI"]
+title: chuckwu0/larkway
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- Feishu API
+- Claude Code
+- Codex
+- WebSocket
+- NDJSON
+- Git
+- GitLab CLI
+- GitHub CLI
 quality_score: 9
 rag_relevance: 9
-tags: ["AI agent orchestration", "Feishu integration", "codebase Q&A", "real-time collaboration", "local agent deployment"]
-source: "https://github.com/chuckwu0/larkway"
-discovered_at: "2026-07-08T08:16:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent orchestration
+- Feishu integration
+- codebase Q&A
+- real-time collaboration
+- local agent deployment
+source: https://github.com/chuckwu0/larkway
+discovered_at: '2026-07-08T08:16:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

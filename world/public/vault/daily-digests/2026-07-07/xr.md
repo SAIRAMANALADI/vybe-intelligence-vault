@@ -1,13 +1,29 @@
 ---
-title: "ahmadrrrtx/xr"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "SQLite", "Zod", "Ollama", "LM Studio", "llama.cpp", "Whisper", "Piper", "Kokoro", "MCP (Model Context Protocol)"]
+title: ahmadrrrtx/xr
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Bun
+- SQLite
+- Zod
+- Ollama
+- LM Studio
+- llama.cpp
+- Whisper
+- Piper
+- Kokoro
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent framework", "local-first", "BYOK", "multi-agent orchestration", "tamper-evident"]
-source: "https://github.com/ahmadrrrtx/xr"
-discovered_at: "2026-07-07T16:24:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent framework
+- local-first
+- BYOK
+- multi-agent orchestration
+- tamper-evident
+source: https://github.com/ahmadrrrtx/xr
+discovered_at: '2026-07-07T16:24:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

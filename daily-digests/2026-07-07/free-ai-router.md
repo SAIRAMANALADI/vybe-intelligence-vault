@@ -1,13 +1,21 @@
 ---
-title: "Kanjan4466/free-ai-router"
-category: "Tooling"
-tech_stack: ["Python", "HTTP", "API Routing"]
+title: Kanjan4466/free-ai-router
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- HTTP
+- API Routing
 quality_score: 5
 rag_relevance: 8
-tags: ["routing", "fallback", "rate limiting", "free providers", "API gateway"]
-source: "https://github.com/Kanjan4466/free-ai-router"
-discovered_at: "2026-07-07T20:50:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- routing
+- fallback
+- rate limiting
+- free providers
+- API gateway
+source: https://github.com/Kanjan4466/free-ai-router
+discovered_at: '2026-07-07T20:50:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

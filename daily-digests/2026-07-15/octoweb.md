@@ -1,13 +1,24 @@
 ---
-title: "Muvon/octoweb"
-category: "UI Component"
-tech_stack: ["Rust", "WebKit", "ACP (Agent Client Protocol)", "MCP (Model Context Protocol)", "JavaScript/TypeScript", "TOML (for configuration)"]
+title: Muvon/octoweb
+category: daily-digests/2026-07-15
+tech_stack:
+- Rust
+- WebKit
+- ACP (Agent Client Protocol)
+- MCP (Model Context Protocol)
+- JavaScript/TypeScript
+- TOML (for configuration)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI-augmented browser", "keyboard-first navigation", "MCP server", "local AI assistant", "WebKit-based"]
-source: "https://github.com/Muvon/octoweb"
-discovered_at: "2026-07-15T21:59:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-augmented browser
+- keyboard-first navigation
+- MCP server
+- local AI assistant
+- WebKit-based
+source: https://github.com/Muvon/octoweb
+discovered_at: '2026-07-15T21:59:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

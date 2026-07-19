@@ -1,13 +1,23 @@
 ---
-title: "Justnessresponse962/ai-dev-framework"
-category: "Orchestrator"
-tech_stack: ["Claude Code", "TDD", "Sub-agents", "Quality Gates", "AI Workflow Automation"]
+title: Justnessresponse962/ai-dev-framework
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Claude Code
+- TDD
+- Sub-agents
+- Quality Gates
+- AI Workflow Automation
 quality_score: 5
 rag_relevance: 7
-tags: ["AI development", "spec-first", "TDD", "quality gates", "workflow automation"]
-source: "https://github.com/Justnessresponse962/ai-dev-framework"
-discovered_at: "2026-07-08T11:00:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI development
+- spec-first
+- TDD
+- quality gates
+- workflow automation
+source: https://github.com/Justnessresponse962/ai-dev-framework
+discovered_at: '2026-07-08T11:00:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

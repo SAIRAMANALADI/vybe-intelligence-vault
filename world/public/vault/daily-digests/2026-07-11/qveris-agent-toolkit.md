@@ -1,13 +1,27 @@
 ---
-title: "QVerisAI/qveris-agent-toolkit"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Python", "Node.js", "REST API", "MCP (Model Context Protocol)", "CLI", "SDKs", "OpenTelemetry", "Vercel AI SDK"]
+title: QVerisAI/qveris-agent-toolkit
+category: world/public/vault/daily-digests/2026-07-11
+tech_stack:
+- TypeScript
+- Python
+- Node.js
+- REST API
+- MCP (Model Context Protocol)
+- CLI
+- SDKs
+- OpenTelemetry
+- Vercel AI SDK
 quality_score: 9
 rag_relevance: 10
-tags: ["agent toolkit", "capability routing", "MCP server", "CLI integration", "multi-language SDKs"]
-source: "https://github.com/QVerisAI/qveris-agent-toolkit"
-discovered_at: "2026-07-10T10:51:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent toolkit
+- capability routing
+- MCP server
+- CLI integration
+- multi-language SDKs
+source: https://github.com/QVerisAI/qveris-agent-toolkit
+discovered_at: '2026-07-10T10:51:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

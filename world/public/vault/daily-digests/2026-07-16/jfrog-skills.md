@@ -1,13 +1,23 @@
 ---
-title: "jfrog/jfrog-skills"
-category: "Agent Framework"
-tech_stack: ["Shell", "JFrog CLI", "REST APIs", "GraphQL", "AI Agent Integration"]
+title: jfrog/jfrog-skills
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- Shell
+- JFrog CLI
+- REST APIs
+- GraphQL
+- AI Agent Integration
 quality_score: 8
 rag_relevance: 7
-tags: ["JFrog Platform", "AI Agents", "Artifact Management", "Security Scanning", "Build Provenance"]
-source: "https://github.com/jfrog/jfrog-skills"
-discovered_at: "2026-07-12T08:15:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- JFrog Platform
+- AI Agents
+- Artifact Management
+- Security Scanning
+- Build Provenance
+source: https://github.com/jfrog/jfrog-skills
+discovered_at: '2026-07-12T08:15:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

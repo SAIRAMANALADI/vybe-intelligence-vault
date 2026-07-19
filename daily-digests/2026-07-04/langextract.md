@@ -1,13 +1,21 @@
 ---
-title: "haritha8503/langextract"
-category: "Tooling"
-tech_stack: ["Python", "Natural Language Processing (NLP)", "Language Detection"]
+title: haritha8503/langextract
+category: daily-digests/2026-07-04
+tech_stack:
+- Python
+- Natural Language Processing (NLP)
+- Language Detection
 quality_score: 4
 rag_relevance: 6
-tags: ["language detection", "text processing", "NLP", "utility", "preprocessing"]
-source: "https://github.com/haritha8503/langextract"
-discovered_at: "2026-07-04T18:05:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- language detection
+- text processing
+- NLP
+- utility
+- preprocessing
+source: https://github.com/haritha8503/langextract
+discovered_at: '2026-07-04T18:05:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

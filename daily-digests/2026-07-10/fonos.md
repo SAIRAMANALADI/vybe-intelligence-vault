@@ -1,13 +1,28 @@
 ---
-title: "ethannortharc/fonos"
-category: "Tooling"
-tech_stack: ["Tauri 2", "Rust", "React 19", "TypeScript", "Vite", "Tailwind CSS", "SQLite (rusqlite)", "Swift (macOS helpers)", "ScreenCaptureKit (macOS)", "Speech Framework (macOS)"]
+title: ethannortharc/fonos
+category: daily-digests/2026-07-10
+tech_stack:
+- Tauri 2
+- Rust
+- React 19
+- TypeScript
+- Vite
+- Tailwind CSS
+- SQLite (rusqlite)
+- Swift (macOS helpers)
+- ScreenCaptureKit (macOS)
+- Speech Framework (macOS)
 quality_score: 9
 rag_relevance: 8
-tags: ["voice interface", "dictation", "AI agents", "local-first", "hotkey automation"]
-source: "https://github.com/ethannortharc/fonos"
-discovered_at: "2026-07-10T02:26:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- voice interface
+- dictation
+- AI agents
+- local-first
+- hotkey automation
+source: https://github.com/ethannortharc/fonos
+discovered_at: '2026-07-10T02:26:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "edward0399/0gmem"
-category: "Tooling"
-tech_stack: ["Python", "LLM Integration", "Structured Memory", "Graph Databases", "Natural Language Processing"]
+title: edward0399/0gmem
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- LLM Integration
+- Structured Memory
+- Graph Databases
+- Natural Language Processing
 quality_score: 5
 rag_relevance: 9
-tags: ["long-term memory", "conversational AI", "structured data", "LLM augmentation", "memory management"]
-source: "https://github.com/edward0399/0gmem"
-discovered_at: "2026-06-23T23:08:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- long-term memory
+- conversational AI
+- structured data
+- LLM augmentation
+- memory management
+source: https://github.com/edward0399/0gmem
+discovered_at: '2026-06-23T23:08:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

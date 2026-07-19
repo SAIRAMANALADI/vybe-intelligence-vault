@@ -1,13 +1,26 @@
 ---
-title: "developerz-ai/ai-task-master"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Bun", "Node.js", "Vercel AI SDK", "OpenRouter", "GitHub CLI", "Git Worktrees", "MCP Client"]
+title: developerz-ai/ai-task-master
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Bun
+- Node.js
+- Vercel AI SDK
+- OpenRouter
+- GitHub CLI
+- Git Worktrees
+- MCP Client
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous agents", "task orchestration", "pull request automation", "CI/CD integration", "multi-agent systems"]
-source: "https://github.com/developerz-ai/ai-task-master"
-discovered_at: "2026-07-08T17:25:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- task orchestration
+- pull request automation
+- CI/CD integration
+- multi-agent systems
+source: https://github.com/developerz-ai/ai-task-master
+discovered_at: '2026-07-08T17:25:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "rexnzm/MCP-rag-with-Chromadb"
-category: "Tooling"
-tech_stack: ["Python", "LangChain", "ChromaDB", "Model Context Protocol (MCP)", "Electron (implied by desktop app)"]
+title: rexnzm/MCP-rag-with-Chromadb
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- LangChain
+- ChromaDB
+- Model Context Protocol (MCP)
+- Electron (implied by desktop app)
 quality_score: 7
 rag_relevance: 8
-tags: ["RAG", "document retrieval", "ChromaDB", "LangChain", "MCP"]
-source: "https://github.com/rexnzm/MCP-rag-with-Chromadb"
-discovered_at: "2026-06-24T18:55:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RAG
+- document retrieval
+- ChromaDB
+- LangChain
+- MCP
+source: https://github.com/rexnzm/MCP-rag-with-Chromadb
+discovered_at: '2026-06-24T18:55:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

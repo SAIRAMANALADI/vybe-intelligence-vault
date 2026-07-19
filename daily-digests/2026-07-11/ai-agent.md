@@ -1,13 +1,25 @@
 ---
-title: "zetryn-ai/ai-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "LLM (Groq, Gemini, OpenRouter, Cerebras, Mistral, SambaNova, NVIDIA NIM)", "Pydantic", "Asyncio", "YAML", "PyPI", "Graph-based decision engine"]
+title: zetryn-ai/ai-agent
+category: daily-digests/2026-07-11
+tech_stack:
+- Python
+- LLM (Groq, Gemini, OpenRouter, Cerebras, Mistral, SambaNova, NVIDIA NIM)
+- Pydantic
+- Asyncio
+- YAML
+- PyPI
+- Graph-based decision engine
 quality_score: 9
 rag_relevance: 7
-tags: ["AI trading", "LLM orchestration", "blockchain intelligence", "declarative agents", "auditable decisions"]
-source: "https://github.com/zetryn-ai/ai-agent"
-discovered_at: "2026-07-11T16:55:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI trading
+- LLM orchestration
+- blockchain intelligence
+- declarative agents
+- auditable decisions
+source: https://github.com/zetryn-ai/ai-agent
+discovered_at: '2026-07-11T16:55:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

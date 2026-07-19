@@ -1,13 +1,23 @@
 ---
-title: "junter1989k-ai/indonesia-payments-mcp"
-category: "Tooling"
-tech_stack: ["Model Context Protocol (MCP)", "JavaScript/Node.js", "Midtrans Snap API", "HTTP/JSON-RPC", "RESTful APIs"]
+title: junter1989k-ai/indonesia-payments-mcp
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Model Context Protocol (MCP)
+- JavaScript/Node.js
+- Midtrans Snap API
+- HTTP/JSON-RPC
+- RESTful APIs
 quality_score: 8
 rag_relevance: 9
-tags: ["Indonesian payments", "MCP server", "AI agent integration", "Midtrans", "e-wallet"]
-source: "https://github.com/junter1989k-ai/indonesia-payments-mcp"
-discovered_at: "2026-07-08T19:17:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Indonesian payments
+- MCP server
+- AI agent integration
+- Midtrans
+- e-wallet
+source: https://github.com/junter1989k-ai/indonesia-payments-mcp
+discovered_at: '2026-07-08T19:17:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

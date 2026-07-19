@@ -1,13 +1,26 @@
 ---
-title: "polygraphso/litmus"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "pnpm", "tsup", "Docker", "MCP (Model Context Protocol)", "EAS (Ethereum Attestation Service)", "Jest"]
+title: polygraphso/litmus
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- pnpm
+- tsup
+- Docker
+- MCP (Model Context Protocol)
+- EAS (Ethereum Attestation Service)
+- Jest
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP security", "behavioral testing", "adversarial evaluation", "agent safety", "litmus testing"]
-source: "https://github.com/polygraphso/litmus"
-discovered_at: "2026-06-23T10:40:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP security
+- behavioral testing
+- adversarial evaluation
+- agent safety
+- litmus testing
+source: https://github.com/polygraphso/litmus
+discovered_at: '2026-06-23T10:40:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "moesin-lab/agent-nexus"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Discord.js", "Claude Code CLI", "Codex CLI", "pnpm", "Jest"]
+title: moesin-lab/agent-nexus
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- Discord.js
+- Claude Code CLI
+- Codex CLI
+- pnpm
+- Jest
 quality_score: 9
 rag_relevance: 7
-tags: ["Discord integration", "local agent orchestration", "IM bridge", "Claude Code", "Codex CLI"]
-source: "https://github.com/moesin-lab/agent-nexus"
-discovered_at: "2026-06-23T13:46:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Discord integration
+- local agent orchestration
+- IM bridge
+- Claude Code
+- Codex CLI
+source: https://github.com/moesin-lab/agent-nexus
+discovered_at: '2026-06-23T13:46:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

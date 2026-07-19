@@ -1,13 +1,23 @@
 ---
-title: "Doralynnindignant843/agent-browser-runtime"
-category: "Tooling"
-tech_stack: ["JavaScript", "Google Chrome", "Windows OS", "Electron (implied)", "Node.js (implied)"]
+title: Doralynnindignant843/agent-browser-runtime
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- JavaScript
+- Google Chrome
+- Windows OS
+- Electron (implied)
+- Node.js (implied)
 quality_score: 7
 rag_relevance: 8
-tags: ["browser automation", "AI agent runtime", "persistent sessions", "isolated profiles", "human-in-the-loop"]
-source: "https://github.com/Doralynnindignant843/agent-browser-runtime"
-discovered_at: "2026-06-24T06:48:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- AI agent runtime
+- persistent sessions
+- isolated profiles
+- human-in-the-loop
+source: https://github.com/Doralynnindignant843/agent-browser-runtime
+discovered_at: '2026-06-24T06:48:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

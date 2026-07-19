@@ -1,13 +1,22 @@
 ---
-title: "nehoray37327/Page-agent-UI"
-category: "UI Component"
-tech_stack: ["TypeScript", "Chrome Extension API", "HTML/CSS", "JavaScript"]
+title: nehoray37327/Page-agent-UI
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Chrome Extension API
+- HTML/CSS
+- JavaScript
 quality_score: 6
 rag_relevance: 4
-tags: ["Chrome Extension", "UI Enhancement", "Web Automation", "Accessibility", "Browser Sidebar"]
-source: "https://github.com/nehoray37327/Page-agent-UI"
-discovered_at: "2026-06-23T02:47:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Chrome Extension
+- UI Enhancement
+- Web Automation
+- Accessibility
+- Browser Sidebar
+source: https://github.com/nehoray37327/Page-agent-UI
+discovered_at: '2026-06-23T02:47:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "feimingxliu/ub"
-category: "Agent Framework"
-tech_stack: ["Go", "SQLite", "Bubble Tea (TUI framework)", "Cobra (CLI framework)", "LLM Providers (OpenAI, Anthropic, Ollama, etc.)", "MCP (Model Context Protocol)", "LSP (Language Server Protocol)"]
+title: feimingxliu/ub
+category: daily-digests/2026-07-10
+tech_stack:
+- Go
+- SQLite
+- Bubble Tea (TUI framework)
+- Cobra (CLI framework)
+- LLM Providers (OpenAI, Anthropic, Ollama, etc.)
+- MCP (Model Context Protocol)
+- LSP (Language Server Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["terminal agent", "local-first", "LLM integration", "session replay", "hackable"]
-source: "https://github.com/feimingxliu/ub"
-discovered_at: "2026-07-10T06:52:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- terminal agent
+- local-first
+- LLM integration
+- session replay
+- hackable
+source: https://github.com/feimingxliu/ub
+discovered_at: '2026-07-10T06:52:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

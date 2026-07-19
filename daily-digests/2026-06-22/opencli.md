@@ -1,13 +1,25 @@
 ---
-title: "jackwener/OpenCLI"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Chrome DevTools Protocol", "Electron", "TypeScript", "npm", "Browser Extensions"]
+title: jackwener/OpenCLI
+category: daily-digests/2026-06-22
+tech_stack:
+- JavaScript
+- Node.js
+- Chrome DevTools Protocol
+- Electron
+- TypeScript
+- npm
+- Browser Extensions
 quality_score: 9
 rag_relevance: 8
-tags: ["CLI automation", "browser control", "AI agent integration", "website scraping", "Electron app interaction"]
-source: "https://github.com/jackwener/OpenCLI"
-discovered_at: "2026-06-22T18:13:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CLI automation
+- browser control
+- AI agent integration
+- website scraping
+- Electron app interaction
+source: https://github.com/jackwener/OpenCLI
+discovered_at: '2026-06-22T18:13:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "ai-pivot/xbot"
-category: "Agent Framework"
-tech_stack: ["Go", "Feishu API", "QQ API", "Terminal UI (TUI)", "RPC", "LLM Integration", "MCP (Model Context Protocol)", "Shell", "File I/O", "Web Search"]
+title: ai-pivot/xbot
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Go
+- Feishu API
+- QQ API
+- Terminal UI (TUI)
+- RPC
+- LLM Integration
+- MCP (Model Context Protocol)
+- Shell
+- File I/O
+- Web Search
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-channel", "self-hosted", "AI agent", "tool execution", "sub-agents"]
-source: "https://github.com/ai-pivot/xbot"
-discovered_at: "2026-07-08T08:16:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-channel
+- self-hosted
+- AI agent
+- tool execution
+- sub-agents
+source: https://github.com/ai-pivot/xbot
+discovered_at: '2026-07-08T08:16:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

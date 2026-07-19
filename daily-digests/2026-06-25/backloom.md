@@ -1,13 +1,29 @@
 ---
-title: "Dwiki13/Backloom"
-category: "Tooling"
-tech_stack: ["Bash", "Docker", "Docker Compose", "PostgreSQL", "pgvector", "MySQL/MariaDB", "MongoDB", "rclone", "Google Drive", "Backblaze B2", "AWS S3"]
+title: Dwiki13/Backloom
+category: daily-digests/2026-06-25
+tech_stack:
+- Bash
+- Docker
+- Docker Compose
+- PostgreSQL
+- pgvector
+- MySQL/MariaDB
+- MongoDB
+- rclone
+- Google Drive
+- Backblaze B2
+- AWS S3
 quality_score: 9
 rag_relevance: 8
-tags: ["backup", "restore", "self-hosted AI", "agent infrastructure", "disaster recovery"]
-source: "https://github.com/Dwiki13/Backloom"
-discovered_at: "2026-06-25T17:09:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- backup
+- restore
+- self-hosted AI
+- agent infrastructure
+- disaster recovery
+source: https://github.com/Dwiki13/Backloom
+discovered_at: '2026-06-25T17:09:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

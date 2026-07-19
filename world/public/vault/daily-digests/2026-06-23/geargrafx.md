@@ -1,13 +1,25 @@
 ---
-title: "drhelius/Geargrafx"
-category: "Tooling"
-tech_stack: ["C++", "SDL3", "MCP (Model Context Protocol)", "Visual Studio", "Xcode", "CMake", "GitHub Actions"]
+title: drhelius/Geargrafx
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- C++
+- SDL3
+- MCP (Model Context Protocol)
+- Visual Studio
+- Xcode
+- CMake
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-tags: ["emulator", "debugging", "MCP server", "retro computing", "AI tooling"]
-source: "https://github.com/drhelius/Geargrafx"
-discovered_at: "2026-06-23T21:34:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- emulator
+- debugging
+- MCP server
+- retro computing
+- AI tooling
+source: https://github.com/drhelius/Geargrafx
+discovered_at: '2026-06-23T21:34:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

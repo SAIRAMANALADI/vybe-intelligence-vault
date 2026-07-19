@@ -1,13 +1,25 @@
 ---
-title: "Henry-Lu666/job-cv-apply"
-category: "Agent Framework"
-tech_stack: ["Python", "Hermes Agent", "IMAP (Gmail)", "JobSpy", "python-docx", "Cron", "Markdown"]
+title: Henry-Lu666/job-cv-apply
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- Hermes Agent
+- IMAP (Gmail)
+- JobSpy
+- python-docx
+- Cron
+- Markdown
 quality_score: 8
 rag_relevance: 7
-tags: ["job search automation", "resume customization", "cover letter generation", "application tracking", "Hermes Agent"]
-source: "https://github.com/Henry-Lu666/job-cv-apply"
-discovered_at: "2026-06-25T05:03:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- job search automation
+- resume customization
+- cover letter generation
+- application tracking
+- Hermes Agent
+source: https://github.com/Henry-Lu666/job-cv-apply
+discovered_at: '2026-06-25T05:03:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

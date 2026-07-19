@@ -1,13 +1,25 @@
 ---
-title: "google/chrome-enterprise-premium-mcp"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "Google Workspace APIs", "OAuth 2.0", "REST APIs", "Express.js"]
+title: google/chrome-enterprise-premium-mcp
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- Google Workspace APIs
+- OAuth 2.0
+- REST APIs
+- Express.js
 quality_score: 9
 rag_relevance: 7
-tags: ["Chrome Enterprise", "MCP Server", "Data Loss Prevention", "Security Management", "AI Agent Integration"]
-source: "https://github.com/google/chrome-enterprise-premium-mcp"
-discovered_at: "2026-06-23T16:33:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Chrome Enterprise
+- MCP Server
+- Data Loss Prevention
+- Security Management
+- AI Agent Integration
+source: https://github.com/google/chrome-enterprise-premium-mcp
+discovered_at: '2026-06-23T16:33:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

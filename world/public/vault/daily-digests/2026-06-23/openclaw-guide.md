@@ -1,13 +1,21 @@
 ---
-title: "independent-raphicerus45/openclaw-guide"
-category: "Agent Framework"
-tech_stack: ["OpenClaw", "Documentation", "Chinese Localization"]
+title: independent-raphicerus45/openclaw-guide
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- OpenClaw
+- Documentation
+- Chinese Localization
 quality_score: 4
 rag_relevance: 7
-tags: ["AI agent", "OpenClaw", "documentation", "Chinese guides", "multi-platform"]
-source: "https://github.com/independent-raphicerus45/openclaw-guide"
-discovered_at: "2026-06-23T02:48:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- OpenClaw
+- documentation
+- Chinese guides
+- multi-platform
+source: https://github.com/independent-raphicerus45/openclaw-guide
+discovered_at: '2026-06-23T02:48:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

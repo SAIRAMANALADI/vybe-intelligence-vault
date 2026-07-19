@@ -1,13 +1,24 @@
 ---
-title: "topness-msft/callwright"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "Retell API", "Docker", "Stripe (for Retell payments)"]
+title: topness-msft/callwright
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- Retell API
+- Docker
+- Stripe (for Retell payments)
 quality_score: 9
 rag_relevance: 8
-tags: ["voice agent", "MCP server", "Retell integration", "multilingual calls", "PII minimization"]
-source: "https://github.com/topness-msft/callwright"
-discovered_at: "2026-07-06T23:03:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- voice agent
+- MCP server
+- Retell integration
+- multilingual calls
+- PII minimization
+source: https://github.com/topness-msft/callwright
+discovered_at: '2026-07-06T23:03:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

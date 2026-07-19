@@ -1,13 +1,26 @@
 ---
-title: "adamholter/t3-code-ultralight-browser-fork"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "WebSocket", "React", "Preact", "ESM Bundlers", "Web Components", "Shadow DOM"]
+title: adamholter/t3-code-ultralight-browser-fork
+category: daily-digests/2026-07-14
+tech_stack:
+- TypeScript
+- Node.js
+- WebSocket
+- React
+- Preact
+- ESM Bundlers
+- Web Components
+- Shadow DOM
 quality_score: 9
 rag_relevance: 8
-tags: ["local AI integration", "browser bridge", "headless client", "embedded chat", "Codex compatibility"]
-source: "https://github.com/adamholter/t3-code-ultralight-browser-fork"
-discovered_at: "2026-07-12T02:32:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local AI integration
+- browser bridge
+- headless client
+- embedded chat
+- Codex compatibility
+source: https://github.com/adamholter/t3-code-ultralight-browser-fork
+discovered_at: '2026-07-12T02:32:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

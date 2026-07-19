@@ -1,13 +1,27 @@
 ---
-title: "luisgf/infrabroker"
-category: "Orchestrator"
-tech_stack: ["Go", "SSH", "Kubernetes", "MCP (Model Context Protocol)", "OAuth2/OIDC", "Ed25519", "Azure Key Vault", "mTLS", "ASCIIcast"]
+title: luisgf/infrabroker
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Go
+- SSH
+- Kubernetes
+- MCP (Model Context Protocol)
+- OAuth2/OIDC
+- Ed25519
+- Azure Key Vault
+- mTLS
+- ASCIIcast
 quality_score: 9
 rag_relevance: 10
-tags: ["ephemeral credentials", "AI agent security", "SSH broker", "Kubernetes access", "credential isolation"]
-source: "https://github.com/luisgf/infrabroker"
-discovered_at: "2026-07-07T18:59:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- ephemeral credentials
+- AI agent security
+- SSH broker
+- Kubernetes access
+- credential isolation
+source: https://github.com/luisgf/infrabroker
+discovered_at: '2026-07-07T18:59:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

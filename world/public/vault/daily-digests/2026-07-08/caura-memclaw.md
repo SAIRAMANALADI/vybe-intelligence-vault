@@ -1,13 +1,27 @@
 ---
-title: "caura-ai/caura-memclaw"
-category: "Vector DB"
-tech_stack: ["Python", "PostgreSQL", "pgvector", "Redis", "Docker", "FastAPI", "OpenAI API", "HuggingFace TEI", "MCP (Model Context Protocol)"]
+title: caura-ai/caura-memclaw
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- PostgreSQL
+- pgvector
+- Redis
+- Docker
+- FastAPI
+- OpenAI API
+- HuggingFace TEI
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 10
-tags: ["multi-agent memory", "governed retrieval", "fleet learning", "MCP-native", "self-improving"]
-source: "https://github.com/caura-ai/caura-memclaw"
-discovered_at: "2026-07-08T17:27:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent memory
+- governed retrieval
+- fleet learning
+- MCP-native
+- self-improving
+source: https://github.com/caura-ai/caura-memclaw
+discovered_at: '2026-07-08T17:27:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

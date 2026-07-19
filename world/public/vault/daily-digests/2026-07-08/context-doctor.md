@@ -1,13 +1,23 @@
 ---
-title: "unhealthy-outlander317/context-doctor"
-category: "Tooling"
-tech_stack: ["Python", "OpenClaw", "PNG", "JSON", "Windows Terminal"]
+title: unhealthy-outlander317/context-doctor
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- OpenClaw
+- PNG
+- JSON
+- Windows Terminal
 quality_score: 7
 rag_relevance: 6
-tags: ["context window analysis", "OpenClaw diagnostics", "token usage visualization", "data monitoring", "AI debugging"]
-source: "https://github.com/unhealthy-outlander317/context-doctor"
-discovered_at: "2026-07-08T02:07:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- context window analysis
+- OpenClaw diagnostics
+- token usage visualization
+- data monitoring
+- AI debugging
+source: https://github.com/unhealthy-outlander317/context-doctor
+discovered_at: '2026-07-08T02:07:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

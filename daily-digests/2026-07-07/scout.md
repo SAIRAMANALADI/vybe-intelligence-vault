@@ -1,13 +1,26 @@
 ---
-title: "Varpost/Scout"
-category: "Tooling"
-tech_stack: ["Python", "Static Analysis", "CLI", "GitHub Actions", "MCP (Model Context Protocol)", "OSV.dev (for dependency scanning)", "TOML (for configuration)", "JSON/SARIF (for output formats)"]
+title: Varpost/Scout
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- Static Analysis
+- CLI
+- GitHub Actions
+- MCP (Model Context Protocol)
+- OSV.dev (for dependency scanning)
+- TOML (for configuration)
+- JSON/SARIF (for output formats)
 quality_score: 9
 rag_relevance: 8
-tags: ["security scanning", "static analysis", "AI-assisted security", "CI/CD integration", "vulnerability detection"]
-source: "https://github.com/Varpost/Scout"
-discovered_at: "2026-07-07T18:58:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- security scanning
+- static analysis
+- AI-assisted security
+- CI/CD integration
+- vulnerability detection
+source: https://github.com/Varpost/Scout
+discovered_at: '2026-07-07T18:58:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

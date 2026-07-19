@@ -1,13 +1,28 @@
 ---
-title: "sandraschi/calibremcp"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP 3.2", "LanceDB", "Tauri", "Next.js", "Ruff", "Biome", "PyInstaller", "SQLite", "OpenTelemetry"]
+title: sandraschi/calibremcp
+category: daily-digests/2026-07-15
+tech_stack:
+- Python
+- FastMCP 3.2
+- LanceDB
+- Tauri
+- Next.js
+- Ruff
+- Biome
+- PyInstaller
+- SQLite
+- OpenTelemetry
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP Server", "Calibre Integration", "RAG", "E-book Management", "Agentic Workflows"]
-source: "https://github.com/sandraschi/calibremcp"
-discovered_at: "2026-07-14T08:01:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- Calibre Integration
+- RAG
+- E-book Management
+- Agentic Workflows
+source: https://github.com/sandraschi/calibremcp
+discovered_at: '2026-07-14T08:01:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "Arseni6361/hermes-CCC"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude Code", "Hermes Agent", "Agentic AI"]
+title: Arseni6361/hermes-CCC
+category: world/public/vault/daily-digests/2026-07-03
+tech_stack:
+- Python
+- Claude Code
+- Hermes Agent
+- Agentic AI
 quality_score: 4
 rag_relevance: 7
-tags: ["agent integration", "Claude Code", "Hermes Agent", "native operations", "workflow automation"]
-source: "https://github.com/Arseni6361/hermes-CCC"
-discovered_at: "2026-07-03T20:59:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent integration
+- Claude Code
+- Hermes Agent
+- native operations
+- workflow automation
+source: https://github.com/Arseni6361/hermes-CCC
+discovered_at: '2026-07-03T20:59:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

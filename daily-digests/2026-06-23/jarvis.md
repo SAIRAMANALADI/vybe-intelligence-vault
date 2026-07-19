@@ -1,13 +1,29 @@
 ---
-title: "Ramsbaby/jarvis"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "Python", "Claude Code CLI", "Discord.js", "LanceDB", "Ollama", "PM2", "LaunchAgents", "MCP", "Whisper STT"]
+title: Ramsbaby/jarvis
+category: daily-digests/2026-06-23
+tech_stack:
+- JavaScript
+- Node.js
+- Python
+- Claude Code CLI
+- Discord.js
+- LanceDB
+- Ollama
+- PM2
+- LaunchAgents
+- MCP
+- Whisper STT
 quality_score: 9
 rag_relevance: 10
-tags: ["self-healing", "RAG", "automation", "discord-bot", "local-ai"]
-source: "https://github.com/Ramsbaby/jarvis"
-discovered_at: "2026-06-23T08:55:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-healing
+- RAG
+- automation
+- discord-bot
+- local-ai
+source: https://github.com/Ramsbaby/jarvis
+discovered_at: '2026-06-23T08:55:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

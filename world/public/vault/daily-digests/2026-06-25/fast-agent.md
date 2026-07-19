@@ -1,13 +1,30 @@
 ---
-title: "evalstate/fast-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "AsyncIO", "uv (package manager)", "TensorZero", "Anthropic", "OpenAI", "Google", "Ollama", "Hugging Face", "Rich (terminal UI)", "prompt_toolkit"]
+title: evalstate/fast-agent
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- AsyncIO
+- uv (package manager)
+- TensorZero
+- Anthropic
+- OpenAI
+- Google
+- Ollama
+- Hugging Face
+- Rich (terminal UI)
+- prompt_toolkit
 quality_score: 9
 rag_relevance: 10
-tags: ["LLM Agents", "MCP Integration", "Workflow Automation", "CLI Framework", "Multi-Model Support"]
-source: "https://github.com/evalstate/fast-agent"
-discovered_at: "2026-06-25T07:30:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LLM Agents
+- MCP Integration
+- Workflow Automation
+- CLI Framework
+- Multi-Model Support
+source: https://github.com/evalstate/fast-agent
+discovered_at: '2026-06-25T07:30:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,33 @@
 ---
-title: "srtab/daiv"
-category: "Agent Framework"
-tech_stack: ["Python", "Django", "Deep Agents", "LangGraph", "Docker", "Redis", "PostgreSQL", "Sandbox (Docker-based)", "LangSmith", "Sentry", "Model Context Protocol (MCP)", "OpenRouter", "Anthropic", "OpenAI", "Google Gemini"]
+title: srtab/daiv
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Django
+- Deep Agents
+- LangGraph
+- Docker
+- Redis
+- PostgreSQL
+- Sandbox (Docker-based)
+- LangSmith
+- Sentry
+- Model Context Protocol (MCP)
+- OpenRouter
+- Anthropic
+- OpenAI
+- Google Gemini
 quality_score: 9
 rag_relevance: 8
-tags: ["automation", "software engineering", "code generation", "CI/CD integration", "multi-agent system"]
-source: "https://github.com/srtab/daiv"
-discovered_at: "2026-06-23T06:45:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- automation
+- software engineering
+- code generation
+- CI/CD integration
+- multi-agent system
+source: https://github.com/srtab/daiv
+discovered_at: '2026-06-23T06:45:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

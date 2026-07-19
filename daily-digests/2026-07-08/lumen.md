@@ -1,13 +1,27 @@
 ---
-title: "jaydip-meesho/lumen"
-category: "Agent Framework"
-tech_stack: ["Python", "OpenAI API Compatibility", "Ollama", "LM Studio", "llama.cpp", "OpenRouter", "Rich (UI)", "pipx", "uv"]
+title: jaydip-meesho/lumen
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- OpenAI API Compatibility
+- Ollama
+- LM Studio
+- llama.cpp
+- OpenRouter
+- Rich (UI)
+- pipx
+- uv
 quality_score: 9
 rag_relevance: 8
-tags: ["coding agent", "privacy-first", "terminal-based", "local LLM", "OpenRouter integration"]
-source: "https://github.com/jaydip-meesho/lumen"
-discovered_at: "2026-07-08T19:16:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- coding agent
+- privacy-first
+- terminal-based
+- local LLM
+- OpenRouter integration
+source: https://github.com/jaydip-meesho/lumen
+discovered_at: '2026-07-08T19:16:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

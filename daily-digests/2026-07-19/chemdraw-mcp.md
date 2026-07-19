@@ -1,13 +1,27 @@
 ---
-title: "jurimaxam-dotcom/chemdraw-mcp"
-category: "Tooling"
-tech_stack: ["Python", "RDKit", "MCP (Model Context Protocol)", "Claude Desktop", "OPSIN (IUPAC name parsing)", "AnkiConnect", "Java (optional for OPSIN)", "JavaScript/TypeScript (frontend UI)", "GitHub Actions (CI/CD)"]
+title: jurimaxam-dotcom/chemdraw-mcp
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- RDKit
+- MCP (Model Context Protocol)
+- Claude Desktop
+- OPSIN (IUPAC name parsing)
+- AnkiConnect
+- Java (optional for OPSIN)
+- JavaScript/TypeScript (frontend UI)
+- GitHub Actions (CI/CD)
 quality_score: 9
 rag_relevance: 8
-tags: ["chemical structure rendering", "MCP server", "RDKit", "Anki integration", "offline processing"]
-source: "https://github.com/jurimaxam-dotcom/chemdraw-mcp"
-discovered_at: "2026-07-17T10:46:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- chemical structure rendering
+- MCP server
+- RDKit
+- Anki integration
+- offline processing
+source: https://github.com/jurimaxam-dotcom/chemdraw-mcp
+discovered_at: '2026-07-17T10:46:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

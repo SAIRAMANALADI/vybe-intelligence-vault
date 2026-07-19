@@ -1,13 +1,30 @@
 ---
-title: "ProblemFactory/vibespace"
-category: "UI Component"
-tech_stack: ["JavaScript", "Node.js", "xterm.js", "dtach", "WebSocket", "CodeMirror", "React", "Docker", "SSH", "WebDAV", "S3", "SFTP"]
+title: ProblemFactory/vibespace
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- Node.js
+- xterm.js
+- dtach
+- WebSocket
+- CodeMirror
+- React
+- Docker
+- SSH
+- WebDAV
+- S3
+- SFTP
 quality_score: 9
 rag_relevance: 8
-tags: ["coding agents", "workspace", "multi-session", "terminal emulator", "agent management"]
-source: "https://github.com/ProblemFactory/vibespace"
-discovered_at: "2026-07-08T21:01:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- coding agents
+- workspace
+- multi-session
+- terminal emulator
+- agent management
+source: https://github.com/ProblemFactory/vibespace
+discovered_at: '2026-07-08T21:01:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

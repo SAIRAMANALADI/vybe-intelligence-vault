@@ -1,13 +1,22 @@
 ---
-title: "bahridpk/WeiClaw"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "WeChat API", "Windows Desktop App"]
+title: bahridpk/WeiClaw
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- JavaScript
+- Node.js
+- WeChat API
+- Windows Desktop App
 quality_score: 7
 rag_relevance: 6
-tags: ["WeChat integration", "AI gateway", "multi-agent", "voice assistant", "Windows tool"]
-source: "https://github.com/bahridpk/WeiClaw"
-discovered_at: "2026-07-07T23:54:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- WeChat integration
+- AI gateway
+- multi-agent
+- voice assistant
+- Windows tool
+source: https://github.com/bahridpk/WeiClaw
+discovered_at: '2026-07-07T23:54:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

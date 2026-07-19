@@ -1,13 +1,25 @@
 ---
-title: "VictorTomaili/skill-cli"
-category: "Tooling"
-tech_stack: ["Node.js", "JavaScript", "YAML", "Git", "npm", "CLI", "Cross-platform scripting"]
+title: VictorTomaili/skill-cli
+category: daily-digests/2026-07-07
+tech_stack:
+- Node.js
+- JavaScript
+- YAML
+- Git
+- npm
+- CLI
+- Cross-platform scripting
 quality_score: 9
 rag_relevance: 8
-tags: ["skill management", "AI agent tools", "cross-agent compatibility", "skill activation", "clean agent directories"]
-source: "https://github.com/VictorTomaili/skill-cli"
-discovered_at: "2026-07-07T22:08:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- skill management
+- AI agent tools
+- cross-agent compatibility
+- skill activation
+- clean agent directories
+source: https://github.com/VictorTomaili/skill-cli
+discovered_at: '2026-07-07T22:08:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

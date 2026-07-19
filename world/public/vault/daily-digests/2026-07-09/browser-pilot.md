@@ -1,13 +1,22 @@
 ---
-title: "tienlt2406/browser-pilot"
-category: "Tooling"
-tech_stack: ["Electron", "Fluent", "JavaScript", "HTML/CSS"]
+title: tienlt2406/browser-pilot
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Electron
+- Fluent
+- JavaScript
+- HTML/CSS
 quality_score: 4
 rag_relevance: 3
-tags: ["web automation", "AI assistant", "desktop app", "browser management", "privacy tools"]
-source: "https://github.com/tienlt2406/browser-pilot"
-discovered_at: "2026-07-09T00:06:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web automation
+- AI assistant
+- desktop app
+- browser management
+- privacy tools
+source: https://github.com/tienlt2406/browser-pilot
+discovered_at: '2026-07-09T00:06:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

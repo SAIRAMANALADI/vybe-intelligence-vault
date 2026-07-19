@@ -1,13 +1,24 @@
 ---
-title: "NitishReddy26/n8n-oracle-cloud-selfhost"
-category: "Tooling"
-tech_stack: ["Docker", "Nginx", "TLS/SSL", "Python", "Oracle Cloud", "Docker-Compose"]
+title: NitishReddy26/n8n-oracle-cloud-selfhost
+category: daily-digests/2026-07-09
+tech_stack:
+- Docker
+- Nginx
+- TLS/SSL
+- Python
+- Oracle Cloud
+- Docker-Compose
 quality_score: 7
 rag_relevance: 5
-tags: ["workflow automation", "self-hosting", "Oracle Cloud", "Docker deployment", "n8n"]
-source: "https://github.com/NitishReddy26/n8n-oracle-cloud-selfhost"
-discovered_at: "2026-07-09T00:06:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- workflow automation
+- self-hosting
+- Oracle Cloud
+- Docker deployment
+- n8n
+source: https://github.com/NitishReddy26/n8n-oracle-cloud-selfhost
+discovered_at: '2026-07-09T00:06:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

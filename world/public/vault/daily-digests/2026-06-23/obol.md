@@ -1,13 +1,30 @@
 ---
-title: "mystiquemide/obol"
-category: "Tooling"
-tech_stack: ["Next.js", "TypeScript", "Prisma", "PostgreSQL", "Circle Wallets", "Arc (USDC)", "Groq (Llama 3.3)", "MusicBrainz", "Subsonic/Navidrome", "Server-Sent Events", "Docker", "Vercel"]
+title: mystiquemide/obol
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Next.js
+- TypeScript
+- Prisma
+- PostgreSQL
+- Circle Wallets
+- Arc (USDC)
+- Groq (Llama 3.3)
+- MusicBrainz
+- Subsonic/Navidrome
+- Server-Sent Events
+- Docker
+- Vercel
 quality_score: 8
 rag_relevance: 6
-tags: ["micropayments", "on-chain royalties", "music streaming", "decentralized finance", "real-time payments"]
-source: "https://github.com/mystiquemide/obol"
-discovered_at: "2026-06-23T19:07:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- micropayments
+- on-chain royalties
+- music streaming
+- decentralized finance
+- real-time payments
+source: https://github.com/mystiquemide/obol
+discovered_at: '2026-06-23T19:07:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

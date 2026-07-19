@@ -1,13 +1,33 @@
 ---
-title: "akyourowngames/friday"
-category: "Agent Framework"
-tech_stack: ["Python", "SQLite", "sqlite-vec", "FastAPI", "Electron", "React", "Whisper", "OpenAI-compatible LLM", "Tavily", "Pillow", "KDE Connect", "ADB", "MCP (Model Context Protocol)", "Rich", "prompt_toolkit"]
+title: akyourowngames/friday
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- SQLite
+- sqlite-vec
+- FastAPI
+- Electron
+- React
+- Whisper
+- OpenAI-compatible LLM
+- Tavily
+- Pillow
+- KDE Connect
+- ADB
+- MCP (Model Context Protocol)
+- Rich
+- prompt_toolkit
 quality_score: 9
 rag_relevance: 7
-tags: ["local AI assistant", "tool integration", "project context", "memory system", "voice mode"]
-source: "https://github.com/akyourowngames/friday"
-discovered_at: "2026-07-08T15:15:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local AI assistant
+- tool integration
+- project context
+- memory system
+- voice mode
+source: https://github.com/akyourowngames/friday
+discovered_at: '2026-07-08T15:15:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

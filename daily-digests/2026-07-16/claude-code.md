@@ -1,13 +1,23 @@
 ---
-title: "perennationrectussuperior897/claude-code"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "React Ink", "Windows Terminal", "Node.js"]
+title: perennationrectussuperior897/claude-code
+category: daily-digests/2026-07-16
+tech_stack:
+- TypeScript
+- Bun
+- React Ink
+- Windows Terminal
+- Node.js
 quality_score: 6
 rag_relevance: 7
-tags: ["terminal assistant", "coding agent", "Windows tool", "natural language coding", "git workflow"]
-source: "https://github.com/perennationrectussuperior897/claude-code"
-discovered_at: "2026-07-10T20:22:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- terminal assistant
+- coding agent
+- Windows tool
+- natural language coding
+- git workflow
+source: https://github.com/perennationrectussuperior897/claude-code
+discovered_at: '2026-07-10T20:22:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

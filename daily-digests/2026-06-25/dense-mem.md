@@ -1,13 +1,27 @@
 ---
-title: "markhuangai/dense-mem"
-category: "Tooling"
-tech_stack: ["Go", "PostgreSQL", "Neo4j", "Redis", "MCP (Model Context Protocol)", "OpenAPI", "Docker", "Prometheus", "HTTP/REST"]
+title: markhuangai/dense-mem
+category: daily-digests/2026-06-25
+tech_stack:
+- Go
+- PostgreSQL
+- Neo4j
+- Redis
+- MCP (Model Context Protocol)
+- OpenAPI
+- Docker
+- Prometheus
+- HTTP/REST
 quality_score: 9
 rag_relevance: 9
-tags: ["AI memory", "evidence provenance", "conflict detection", "MCP server", "self-hosted"]
-source: "https://github.com/markhuangai/dense-mem"
-discovered_at: "2026-06-25T14:20:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI memory
+- evidence provenance
+- conflict detection
+- MCP server
+- self-hosted
+source: https://github.com/markhuangai/dense-mem
+discovered_at: '2026-06-25T14:20:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

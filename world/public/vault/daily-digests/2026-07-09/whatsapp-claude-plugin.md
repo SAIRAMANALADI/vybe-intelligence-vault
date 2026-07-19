@@ -1,13 +1,24 @@
 ---
-title: "Rich627/whatsapp-claude-plugin"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Baileys (WhatsApp Web library)", "mlx-whisper (for voice transcription)", "ffmpeg", "Node.js"]
+title: Rich627/whatsapp-claude-plugin
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Baileys (WhatsApp Web library)
+- mlx-whisper (for voice transcription)
+- ffmpeg
+- Node.js
 quality_score: 9
 rag_relevance: 7
-tags: ["WhatsApp integration", "Claude Code plugin", "MCP server", "AI remote control", "voice transcription"]
-source: "https://github.com/Rich627/whatsapp-claude-plugin"
-discovered_at: "2026-07-09T19:31:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- WhatsApp integration
+- Claude Code plugin
+- MCP server
+- AI remote control
+- voice transcription
+source: https://github.com/Rich627/whatsapp-claude-plugin
+discovered_at: '2026-07-09T19:31:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

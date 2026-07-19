@@ -1,13 +1,24 @@
 ---
-title: "timoncool/satori"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "SQLite", "FTS5 (Full-Text Search)", "Claude Code", "MCP (Model Context Protocol)"]
+title: timoncool/satori
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- FastMCP
+- SQLite
+- FTS5 (Full-Text Search)
+- Claude Code
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 7
-tags: ["self-learning", "Claude Code", "MCP server", "skill automation", "human-in-the-loop"]
-source: "https://github.com/timoncool/satori"
-discovered_at: "2026-07-07T13:17:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-learning
+- Claude Code
+- MCP server
+- skill automation
+- human-in-the-loop
+source: https://github.com/timoncool/satori
+discovered_at: '2026-07-07T13:17:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

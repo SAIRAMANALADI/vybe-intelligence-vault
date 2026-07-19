@@ -1,13 +1,28 @@
 ---
-title: "jpoindexter/Vanta"
-category: "Agent Framework"
-tech_stack: ["Rust", "TypeScript", "Node.js", "LLM Providers (OpenAI, Anthropic, Ollama, etc.)", "Playwright", "Whisper (STT)", "Docker", "Git", "Web APIs (Google, Slack, etc.)", "LoRA (Local Fine-Tuning)"]
+title: jpoindexter/Vanta
+category: daily-digests/2026-06-22
+tech_stack:
+- Rust
+- TypeScript
+- Node.js
+- LLM Providers (OpenAI, Anthropic, Ollama, etc.)
+- Playwright
+- Whisper (STT)
+- Docker
+- Git
+- Web APIs (Google, Slack, etc.)
+- LoRA (Local Fine-Tuning)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent runtime", "safety kernel", "goal-aware execution", "self-hosted", "autonomous workflows"]
-source: "https://github.com/jpoindexter/Vanta"
-discovered_at: "2026-06-22T18:53:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent runtime
+- safety kernel
+- goal-aware execution
+- self-hosted
+- autonomous workflows
+source: https://github.com/jpoindexter/Vanta
+discovered_at: '2026-06-22T18:53:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

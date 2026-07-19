@@ -1,13 +1,27 @@
 ---
-title: "XBlueSky/vatt-ghern"
-category: "UI Component"
-tech_stack: ["Eleventy (11ty)", "Nunjucks", "Node.js", "Cloudflare Pages", "Cloudflare Worker", "MCP (Model Context Protocol)", "HTML/CSS", "JavaScript", "GitHub Actions"]
+title: XBlueSky/vatt-ghern
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Eleventy (11ty)
+- Nunjucks
+- Node.js
+- Cloudflare Pages
+- Cloudflare Worker
+- MCP (Model Context Protocol)
+- HTML/CSS
+- JavaScript
+- GitHub Actions
 quality_score: 9
 rag_relevance: 5
-tags: ["static site generator", "automated content generation", "CJK typography", "MCP server", "tech blog"]
-source: "https://github.com/XBlueSky/vatt-ghern"
-discovered_at: "2026-07-09T04:46:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- static site generator
+- automated content generation
+- CJK typography
+- MCP server
+- tech blog
+source: https://github.com/XBlueSky/vatt-ghern
+discovered_at: '2026-07-09T04:46:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

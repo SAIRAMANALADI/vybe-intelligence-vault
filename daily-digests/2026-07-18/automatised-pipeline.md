@@ -1,13 +1,27 @@
 ---
-title: "cdeust/automatised-pipeline"
-category: "Tooling"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "LadybugDB (property graph database)", "tree-sitter (AST parsing)", "Leiden community detection", "BM25 + TF-IDF + RRF hybrid search", "Tantivy (search engine)", "Cypher (graph query language)", "LSP (Language Server Protocol) integration"]
+title: cdeust/automatised-pipeline
+category: daily-digests/2026-07-18
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- LadybugDB (property graph database)
+- tree-sitter (AST parsing)
+- Leiden community detection
+- BM25 + TF-IDF + RRF hybrid search
+- Tantivy (search engine)
+- Cypher (graph query language)
+- LSP (Language Server Protocol) integration
 quality_score: 9
 rag_relevance: 10
-tags: ["codebase intelligence", "MCP server", "property graph", "call chain resolution", "community detection"]
-source: "https://github.com/cdeust/automatised-pipeline"
-discovered_at: "2026-07-11T19:00:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- codebase intelligence
+- MCP server
+- property graph
+- call chain resolution
+- community detection
+source: https://github.com/cdeust/automatised-pipeline
+discovered_at: '2026-07-11T19:00:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

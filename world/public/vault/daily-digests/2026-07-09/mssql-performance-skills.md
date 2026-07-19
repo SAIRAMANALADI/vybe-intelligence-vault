@@ -1,13 +1,26 @@
 ---
-title: "vanterx/mssql-performance-skills"
-category: "Tooling"
-tech_stack: ["SQL Server", "T-SQL", "Execution Plans", "DMVs (Dynamic Management Views)", "MCP (Model Context Protocol)", "Cloudflare Workers", "TypeScript", "Markdown"]
+title: vanterx/mssql-performance-skills
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- SQL Server
+- T-SQL
+- Execution Plans
+- DMVs (Dynamic Management Views)
+- MCP (Model Context Protocol)
+- Cloudflare Workers
+- TypeScript
+- Markdown
 quality_score: 9
 rag_relevance: 8
-tags: ["SQL Server", "Performance Tuning", "Automated Diagnostics", "LLM Integration", "Agentic Skills"]
-source: "https://github.com/vanterx/mssql-performance-skills"
-discovered_at: "2026-07-09T14:44:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- SQL Server
+- Performance Tuning
+- Automated Diagnostics
+- LLM Integration
+- Agentic Skills
+source: https://github.com/vanterx/mssql-performance-skills
+discovered_at: '2026-07-09T14:44:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

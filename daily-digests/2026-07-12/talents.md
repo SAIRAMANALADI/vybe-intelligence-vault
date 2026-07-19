@@ -1,13 +1,24 @@
 ---
-title: "otenycom/talents"
-category: "Agent Framework"
-tech_stack: ["Python", "YAML", "Markdown", "Telegram Bot API", "Git", "CI/CD (GitHub Actions)"]
+title: otenycom/talents
+category: daily-digests/2026-07-12
+tech_stack:
+- Python
+- YAML
+- Markdown
+- Telegram Bot API
+- Git
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 7
-tags: ["AI personalities", "modular agents", "Telegram bots", "open catalog", "sandboxed execution"]
-source: "https://github.com/otenycom/talents"
-discovered_at: "2026-07-10T13:10:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI personalities
+- modular agents
+- Telegram bots
+- open catalog
+- sandboxed execution
+source: https://github.com/otenycom/talents
+discovered_at: '2026-07-10T13:10:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

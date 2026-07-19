@@ -1,13 +1,24 @@
 ---
-title: "Narylr350/source-radar"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "SearXNG", "Unittest", "uv (Python package manager)", "CLI"]
+title: Narylr350/source-radar
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- SearXNG
+- Unittest
+- uv (Python package manager)
+- CLI
 quality_score: 8
 rag_relevance: 9
-tags: ["information retrieval", "evidence verification", "MCP server", "Chinese internet", "AI-friendly"]
-source: "https://github.com/Narylr350/source-radar"
-discovered_at: "2026-07-07T16:25:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- information retrieval
+- evidence verification
+- MCP server
+- Chinese internet
+- AI-friendly
+source: https://github.com/Narylr350/source-radar
+discovered_at: '2026-07-07T16:25:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

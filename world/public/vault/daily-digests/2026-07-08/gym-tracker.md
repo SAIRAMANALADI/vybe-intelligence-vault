@@ -1,13 +1,27 @@
 ---
-title: "jlfernandezfernandez/gym-tracker"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "SQLModel", "PostgreSQL", "Telegram Bot API", "FastMCP", "Docker", "HTML/CSS/JavaScript (Mini App)", "HMAC Authentication"]
+title: jlfernandezfernandez/gym-tracker
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- FastAPI
+- SQLModel
+- PostgreSQL
+- Telegram Bot API
+- FastMCP
+- Docker
+- HTML/CSS/JavaScript (Mini App)
+- HMAC Authentication
 quality_score: 9
 rag_relevance: 7
-tags: ["AI Coach", "Telegram Mini App", "Workout Tracker", "MCP Server", "Personalized Training"]
-source: "https://github.com/jlfernandezfernandez/gym-tracker"
-discovered_at: "2026-07-08T22:14:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Coach
+- Telegram Mini App
+- Workout Tracker
+- MCP Server
+- Personalized Training
+source: https://github.com/jlfernandezfernandez/gym-tracker
+discovered_at: '2026-07-08T22:14:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

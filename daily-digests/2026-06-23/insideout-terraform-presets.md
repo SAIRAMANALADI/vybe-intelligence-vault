@@ -1,13 +1,24 @@
 ---
-title: "luthersystems/insideout-terraform-presets"
-category: "Tooling"
-tech_stack: ["Terraform", "Go", "AWS", "Google Cloud Platform", "TypeScript", "Zod"]
+title: luthersystems/insideout-terraform-presets
+category: daily-digests/2026-06-23
+tech_stack:
+- Terraform
+- Go
+- AWS
+- Google Cloud Platform
+- TypeScript
+- Zod
 quality_score: 8
 rag_relevance: 7
-tags: ["Infrastructure as Code", "Terraform Modules", "Cloud Provisioning", "Modular Design", "AI-Driven Deployment"]
-source: "https://github.com/luthersystems/insideout-terraform-presets"
-discovered_at: "2026-06-23T21:27:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Infrastructure as Code
+- Terraform Modules
+- Cloud Provisioning
+- Modular Design
+- AI-Driven Deployment
+source: https://github.com/luthersystems/insideout-terraform-presets
+discovered_at: '2026-06-23T21:27:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

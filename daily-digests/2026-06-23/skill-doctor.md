@@ -1,13 +1,25 @@
 ---
-title: "evilstar2016/skill-doctor"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "CLI", "TF-IDF", "Embedding Models", "HTML/CSS (for reports)", "JSON (for configuration)"]
+title: evilstar2016/skill-doctor
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- TF-IDF
+- Embedding Models
+- HTML/CSS (for reports)
+- JSON (for configuration)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent diagnostics", "skill conflict detection", "security auditing", "local CLI", "agent configuration"]
-source: "https://github.com/evilstar2016/skill-doctor"
-discovered_at: "2026-06-23T13:42:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent diagnostics
+- skill conflict detection
+- security auditing
+- local CLI
+- agent configuration
+source: https://github.com/evilstar2016/skill-doctor
+discovered_at: '2026-06-23T13:42:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

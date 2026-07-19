@@ -1,13 +1,24 @@
 ---
-title: "hokithree7/2nothing"
-category: "Tooling"
-tech_stack: ["TypeScript", "REST API", "Node.js", "PostgreSQL", "Docker", "GitHub Actions"]
+title: hokithree7/2nothing
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- REST API
+- Node.js
+- PostgreSQL
+- Docker
+- GitHub Actions
 quality_score: 7
 rag_relevance: 6
-tags: ["AI agent experimentation", "self-expression platform", "memory persistence", "open-ended reflection", "AI interaction sandbox"]
-source: "https://github.com/hokithree7/2nothing"
-discovered_at: "2026-07-08T15:15:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent experimentation
+- self-expression platform
+- memory persistence
+- open-ended reflection
+- AI interaction sandbox
+source: https://github.com/hokithree7/2nothing
+discovered_at: '2026-07-08T15:15:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "lukasb3863/agentup"
-category: "Tooling"
-tech_stack: ["Python", "Design Patterns", "Architecture Guidance", "AI Coding Assistants"]
+title: lukasb3863/agentup
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- Design Patterns
+- Architecture Guidance
+- AI Coding Assistants
 quality_score: 4
 rag_relevance: 7
-tags: ["AI coding assistant", "design patterns", "production-ready code", "architecture guidance", "code quality"]
-source: "https://github.com/lukasb3863/agentup"
-discovered_at: "2026-07-08T02:08:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding assistant
+- design patterns
+- production-ready code
+- architecture guidance
+- code quality
+source: https://github.com/lukasb3863/agentup
+discovered_at: '2026-07-08T02:08:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

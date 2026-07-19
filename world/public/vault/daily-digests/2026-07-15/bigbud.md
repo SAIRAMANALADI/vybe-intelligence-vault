@@ -1,13 +1,27 @@
 ---
-title: "youpele52/bigbud"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Electron", "Bun", "Playwright", "Web Audio API", "OpenAI API", "SSH", "MCP (Model Context Protocol)", "React"]
+title: youpele52/bigbud
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- TypeScript
+- Electron
+- Bun
+- Playwright
+- Web Audio API
+- OpenAI API
+- SSH
+- MCP (Model Context Protocol)
+- React
 quality_score: 8
 rag_relevance: 7
-tags: ["AI workspace", "multi-provider support", "automation", "desktop app", "real-time collaboration"]
-source: "https://github.com/youpele52/bigbud"
-discovered_at: "2026-07-12T22:44:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI workspace
+- multi-provider support
+- automation
+- desktop app
+- real-time collaboration
+source: https://github.com/youpele52/bigbud
+discovered_at: '2026-07-12T22:44:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

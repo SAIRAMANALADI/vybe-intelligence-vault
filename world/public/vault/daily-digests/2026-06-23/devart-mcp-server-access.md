@@ -1,13 +1,23 @@
 ---
-title: "devart-ai-connectivity/devart-mcp-server-access"
-category: "Tooling"
-tech_stack: ["C#", ".NET 8", "ODBC", "Microsoft Access", "MCP (Model Context Protocol)"]
+title: devart-ai-connectivity/devart-mcp-server-access
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- C#
+- .NET 8
+- ODBC
+- Microsoft Access
+- MCP (Model Context Protocol)
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP server", "Microsoft Access", "ODBC", "AI data access", "natural language queries"]
-source: "https://github.com/devart-ai-connectivity/devart-mcp-server-access"
-discovered_at: "2026-06-23T10:39:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Microsoft Access
+- ODBC
+- AI data access
+- natural language queries
+source: https://github.com/devart-ai-connectivity/devart-mcp-server-access
+discovered_at: '2026-06-23T10:39:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

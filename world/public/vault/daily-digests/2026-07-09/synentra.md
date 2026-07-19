@@ -1,13 +1,26 @@
 ---
-title: "synentra/synentra"
-category: "Orchestrator"
-tech_stack: ["C#", ".NET 10", "ONNX (DistilBERT)", "Docker", "JWT", "JSON-based ABAC", "SonarCloud", "FOSSA"]
+title: synentra/synentra
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- C#
+- .NET 10
+- ONNX (DistilBERT)
+- Docker
+- JWT
+- JSON-based ABAC
+- SonarCloud
+- FOSSA
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent governance", "intent-aware security", "semantic policy enforcement", "human-in-the-loop", "enterprise API gateway"]
-source: "https://github.com/synentra/synentra"
-discovered_at: "2026-07-09T21:18:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent governance
+- intent-aware security
+- semantic policy enforcement
+- human-in-the-loop
+- enterprise API gateway
+source: https://github.com/synentra/synentra
+discovered_at: '2026-07-09T21:18:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

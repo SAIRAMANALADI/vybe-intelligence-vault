@@ -1,13 +1,27 @@
 ---
-title: "simplerjiang/agent-foreman"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "SQLite", "SQLModel", "httpx", "Web Push (VAPID)", "PWA", "Claude Code", "Codex CLI"]
+title: simplerjiang/agent-foreman
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- SQLModel
+- httpx
+- Web Push (VAPID)
+- PWA
+- Claude Code
+- Codex CLI
 quality_score: 7
 rag_relevance: 8
-tags: ["AI agent supervision", "self-hosted", "coding assistant", "LLM review", "PWA integration"]
-source: "https://github.com/simplerjiang/agent-foreman"
-discovered_at: "2026-06-25T08:27:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent supervision
+- self-hosted
+- coding assistant
+- LLM review
+- PWA integration
+source: https://github.com/simplerjiang/agent-foreman
+discovered_at: '2026-06-25T08:27:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

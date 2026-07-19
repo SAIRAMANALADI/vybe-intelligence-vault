@@ -1,13 +1,25 @@
 ---
-title: "lego3072/forge-agent-gate"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Ed25519 cryptography", "MCP (Model Context Protocol) SDK", "REST API integration", "Kalshi trading venue adapter", "pmxt passthrough (optional)"]
+title: lego3072/forge-agent-gate
+category: daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- Ed25519 cryptography
+- MCP (Model Context Protocol) SDK
+- REST API integration
+- Kalshi trading venue adapter
+- pmxt passthrough (optional)
 quality_score: 8
 rag_relevance: 9
-tags: ["mandate enforcement", "risk firewall", "AI agent governance", "proof trail", "deterministic policy"]
-source: "https://github.com/lego3072/forge-agent-gate"
-discovered_at: "2026-07-09T21:19:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- mandate enforcement
+- risk firewall
+- AI agent governance
+- proof trail
+- deterministic policy
+source: https://github.com/lego3072/forge-agent-gate
+discovered_at: '2026-07-09T21:19:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

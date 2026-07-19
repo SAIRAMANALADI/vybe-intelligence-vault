@@ -1,13 +1,34 @@
 ---
-title: "dezhiguan/careermate"
-category: "Agent Framework"
-tech_stack: ["Java 21", "Spring Boot 3.5", "Spring Security", "Vue 3", "Vite", "PostgreSQL 15", "Redis", "RAGForge", "SkyWalking", "Micrometer OTLP", "Flyway", "MyBatis-Plus", "Qwen", "DeepSeek", "OpenAI-compatible LLM", "MCP"]
+title: dezhiguan/careermate
+category: daily-digests/2026-07-07
+tech_stack:
+- Java 21
+- Spring Boot 3.5
+- Spring Security
+- Vue 3
+- Vite
+- PostgreSQL 15
+- Redis
+- RAGForge
+- SkyWalking
+- Micrometer OTLP
+- Flyway
+- MyBatis-Plus
+- Qwen
+- DeepSeek
+- OpenAI-compatible LLM
+- MCP
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Agent", "Job Search", "Multi-Agent Orchestration", "RAG Integration", "Resume Management"]
-source: "https://github.com/dezhiguan/careermate"
-discovered_at: "2026-07-07T18:59:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent
+- Job Search
+- Multi-Agent Orchestration
+- RAG Integration
+- Resume Management
+source: https://github.com/dezhiguan/careermate
+discovered_at: '2026-07-07T18:59:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

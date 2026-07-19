@@ -1,13 +1,27 @@
 ---
-title: "gmickel/flow-next"
-category: "Orchestrator"
-tech_stack: ["Python", "CLI", "Mermaid.js", "Git", "Claude Code", "OpenAI Codex", "Cursor", "Factory Droid", "Grok Build"]
+title: gmickel/flow-next
+category: daily-digests/2026-07-14
+tech_stack:
+- Python
+- CLI
+- Mermaid.js
+- Git
+- Claude Code
+- OpenAI Codex
+- Cursor
+- Factory Droid
+- Grok Build
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent orchestration", "spec-driven development", "cross-model review", "durable workflows", "local-first"]
-source: "https://github.com/gmickel/flow-next"
-discovered_at: "2026-07-11T13:14:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent orchestration
+- spec-driven development
+- cross-model review
+- durable workflows
+- local-first
+source: https://github.com/gmickel/flow-next
+discovered_at: '2026-07-11T13:14:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

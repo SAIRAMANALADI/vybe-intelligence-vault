@@ -1,13 +1,25 @@
 ---
-title: "cephalopod-ai/tagteam"
-category: "Orchestrator"
-tech_stack: ["Go", "CLI", "Git", "Multi-agent orchestration", "Diff/patch handling", "Test execution", "Configuration management"]
+title: cephalopod-ai/tagteam
+category: daily-digests/2026-07-08
+tech_stack:
+- Go
+- CLI
+- Git
+- Multi-agent orchestration
+- Diff/patch handling
+- Test execution
+- Configuration management
 quality_score: 8
 rag_relevance: 9
-tags: ["multi-agent orchestration", "headless agents", "code review automation", "AI-driven development", "transparent workflows"]
-source: "https://github.com/cephalopod-ai/tagteam"
-discovered_at: "2026-07-08T21:01:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent orchestration
+- headless agents
+- code review automation
+- AI-driven development
+- transparent workflows
+source: https://github.com/cephalopod-ai/tagteam
+discovered_at: '2026-07-08T21:01:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

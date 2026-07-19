@@ -1,13 +1,25 @@
 ---
-title: "FalkorDB/FalkorDB-MCPServer"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "FalkorDB", "Docker", "Jest", "ESLint"]
+title: FalkorDB/FalkorDB-MCPServer
+category: daily-digests/2026-07-14
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- FalkorDB
+- Docker
+- Jest
+- ESLint
 quality_score: 9
 rag_relevance: 9
-tags: ["graph database", "MCP server", "natural language queries", "knowledge graph", "AI integration"]
-source: "https://github.com/FalkorDB/FalkorDB-MCPServer"
-discovered_at: "2026-07-12T05:56:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- graph database
+- MCP server
+- natural language queries
+- knowledge graph
+- AI integration
+source: https://github.com/FalkorDB/FalkorDB-MCPServer
+discovered_at: '2026-07-12T05:56:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "shuji-bonji/pdf-spec-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "PDF.js", "LRU Cache", "Concurrency Libraries", "Mermaid.js (for architecture diagrams)"]
+title: shuji-bonji/pdf-spec-mcp
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- PDF.js
+- LRU Cache
+- Concurrency Libraries
+- Mermaid.js (for architecture diagrams)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "PDF specification", "ISO 32000", "structured data extraction", "LLM tooling"]
-source: "https://github.com/shuji-bonji/pdf-spec-mcp"
-discovered_at: "2026-07-13T20:14:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- PDF specification
+- ISO 32000
+- structured data extraction
+- LLM tooling
+source: https://github.com/shuji-bonji/pdf-spec-mcp
+discovered_at: '2026-07-13T20:14:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

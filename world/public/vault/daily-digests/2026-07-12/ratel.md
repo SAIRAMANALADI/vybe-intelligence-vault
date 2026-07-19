@@ -1,13 +1,25 @@
 ---
-title: "ratel-ai/ratel"
-category: "Orchestrator"
-tech_stack: ["Rust", "TypeScript", "Python", "BM25", "NAPI", "PyO3", "OpenTelemetry"]
+title: ratel-ai/ratel
+category: world/public/vault/daily-digests/2026-07-12
+tech_stack:
+- Rust
+- TypeScript
+- Python
+- BM25
+- NAPI
+- PyO3
+- OpenTelemetry
 quality_score: 9
 rag_relevance: 8
-tags: ["context engineering", "tool selection", "token optimization", "BM25 retrieval", "agent orchestration"]
-source: "https://github.com/ratel-ai/ratel"
-discovered_at: "2026-07-10T23:08:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- context engineering
+- tool selection
+- token optimization
+- BM25 retrieval
+- agent orchestration
+source: https://github.com/ratel-ai/ratel
+discovered_at: '2026-07-10T23:08:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

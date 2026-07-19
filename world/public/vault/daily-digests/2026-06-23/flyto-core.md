@@ -1,13 +1,27 @@
 ---
-title: "flytohub/flyto-core"
-category: "Orchestrator"
-tech_stack: ["Python", "Playwright", "YAML", "CLI", "HTTP API", "MCP Server", "Asyncio", "JSON", "Docker"]
+title: flytohub/flyto-core
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Playwright
+- YAML
+- CLI
+- HTTP API
+- MCP Server
+- Asyncio
+- JSON
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["automation", "debuggable", "replayable", "workflow engine", "AI agent tools"]
-source: "https://github.com/flytohub/flyto-core"
-discovered_at: "2026-06-23T10:38:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- automation
+- debuggable
+- replayable
+- workflow engine
+- AI agent tools
+source: https://github.com/flytohub/flyto-core
+discovered_at: '2026-06-23T10:38:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

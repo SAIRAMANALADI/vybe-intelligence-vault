@@ -1,13 +1,26 @@
 ---
-title: "randomittin/heimdall"
-category: "Tooling"
-tech_stack: ["Shell", "Python", "Claude Code", "Git", "jq", "Tmux", "HTTP/SSE", "Markdown"]
+title: randomittin/heimdall
+category: daily-digests/2026-06-25
+tech_stack:
+- Shell
+- Python
+- Claude Code
+- Git
+- jq
+- Tmux
+- HTTP/SSE
+- Markdown
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent verification", "falsifiable gates", "code correctness", "audit trails", "autonomous agents"]
-source: "https://github.com/randomittin/heimdall"
-discovered_at: "2026-06-25T07:23:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent verification
+- falsifiable gates
+- code correctness
+- audit trails
+- autonomous agents
+source: https://github.com/randomittin/heimdall
+discovered_at: '2026-06-25T07:23:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

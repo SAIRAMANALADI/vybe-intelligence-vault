@@ -1,13 +1,23 @@
 ---
-title: "Mohsen6210/dasd-thinking"
-category: "Tooling"
-tech_stack: ["Python", "PyTorch", "Hugging Face Transformers", "Model Distillation", "Long-Context Reasoning"]
+title: Mohsen6210/dasd-thinking
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- PyTorch
+- Hugging Face Transformers
+- Model Distillation
+- Long-Context Reasoning
 quality_score: 4
 rag_relevance: 7
-tags: ["Reasoning Enhancement", "Model Distillation", "Long-Context CoT", "AI Reasoning Tool", "Sequence Distillation"]
-source: "https://github.com/Mohsen6210/dasd-thinking"
-discovered_at: "2026-07-09T08:25:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Reasoning Enhancement
+- Model Distillation
+- Long-Context CoT
+- AI Reasoning Tool
+- Sequence Distillation
+source: https://github.com/Mohsen6210/dasd-thinking
+discovered_at: '2026-07-09T08:25:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

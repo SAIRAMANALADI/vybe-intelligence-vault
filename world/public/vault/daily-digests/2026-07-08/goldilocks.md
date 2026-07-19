@@ -1,13 +1,25 @@
 ---
-title: "edycutjong/goldilocks"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js 20", "Anthropic Claude 3.5 Sonnet", "simple-statistics", "Zod", "@edycutjong/croo-core", "Docker"]
+title: edycutjong/goldilocks
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js 20
+- Anthropic Claude 3.5 Sonnet
+- simple-statistics
+- Zod
+- '@edycutjong/croo-core'
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["pricing-oracle", "agent-economics", "on-chain-intelligence", "statistical-recommendation", "A2A-marketplace"]
-source: "https://github.com/edycutjong/goldilocks"
-discovered_at: "2026-07-08T02:06:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- pricing-oracle
+- agent-economics
+- on-chain-intelligence
+- statistical-recommendation
+- A2A-marketplace
+source: https://github.com/edycutjong/goldilocks
+discovered_at: '2026-07-08T02:06:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

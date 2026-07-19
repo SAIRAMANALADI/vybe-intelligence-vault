@@ -1,13 +1,21 @@
 ---
-title: "AX661s/openclaw-metacog-template"
-category: "Agent Framework"
-tech_stack: ["Shell", "OpenClaw", "Metacognition Framework"]
+title: AX661s/openclaw-metacog-template
+category: daily-digests/2026-06-24
+tech_stack:
+- Shell
+- OpenClaw
+- Metacognition Framework
 quality_score: 5
 rag_relevance: 6
-tags: ["metacognition", "bot enhancement", "self-improvement", "OpenClaw", "adaptive learning"]
-source: "https://github.com/AX661s/openclaw-metacog-template"
-discovered_at: "2026-06-24T16:18:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- metacognition
+- bot enhancement
+- self-improvement
+- OpenClaw
+- adaptive learning
+source: https://github.com/AX661s/openclaw-metacog-template
+discovered_at: '2026-06-24T16:18:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

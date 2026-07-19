@@ -1,13 +1,25 @@
 ---
-title: "tadata-org/fastapi_mcp"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "ASGI", "MCP (Model Context Protocol)", "HTTP/SSE Transport", "uv", "PyPI"]
+title: tadata-org/fastapi_mcp
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- FastAPI
+- ASGI
+- MCP (Model Context Protocol)
+- HTTP/SSE Transport
+- uv
+- PyPI
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "FastAPI", "API Integration", "Authentication", "Tool Conversion"]
-source: "https://github.com/tadata-org/fastapi_mcp"
-discovered_at: "2026-06-22T18:14:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- FastAPI
+- API Integration
+- Authentication
+- Tool Conversion
+source: https://github.com/tadata-org/fastapi_mcp
+discovered_at: '2026-06-22T18:14:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

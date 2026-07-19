@@ -1,13 +1,22 @@
 ---
-title: "ridzkyyyyy/apple-mail"
-category: "Tooling"
-tech_stack: ["AppleScript", "JXA (JavaScript for Automation)", "Python", "macOS Automation"]
+title: ridzkyyyyy/apple-mail
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- AppleScript
+- JXA (JavaScript for Automation)
+- Python
+- macOS Automation
 quality_score: 6
 rag_relevance: 7
-tags: ["macOS automation", "email control", "AI assistant integration", "Apple Mail", "natural language email tasks"]
-source: "https://github.com/ridzkyyyyy/apple-mail"
-discovered_at: "2026-07-08T22:15:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- macOS automation
+- email control
+- AI assistant integration
+- Apple Mail
+- natural language email tasks
+source: https://github.com/ridzkyyyyy/apple-mail
+discovered_at: '2026-07-08T22:15:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

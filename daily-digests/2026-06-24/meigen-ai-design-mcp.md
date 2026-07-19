@@ -1,13 +1,24 @@
 ---
-title: "HUANGcvs/MeiGen-AI-Design-MCP"
-category: "Tooling"
-tech_stack: ["TypeScript", "ComfyUI", "Claude Code", "OpenClaw", "Model Context Protocol (MCP)", "Local AI Inference"]
+title: HUANGcvs/MeiGen-AI-Design-MCP
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- ComfyUI
+- Claude Code
+- OpenClaw
+- Model Context Protocol (MCP)
+- Local AI Inference
 quality_score: 7
 rag_relevance: 5
-tags: ["AI image generation", "local inference", "prompt engineering", "ComfyUI", "privacy-focused"]
-source: "https://github.com/HUANGcvs/MeiGen-AI-Design-MCP"
-discovered_at: "2026-06-24T16:22:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI image generation
+- local inference
+- prompt engineering
+- ComfyUI
+- privacy-focused
+source: https://github.com/HUANGcvs/MeiGen-AI-Design-MCP
+discovered_at: '2026-06-24T16:22:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

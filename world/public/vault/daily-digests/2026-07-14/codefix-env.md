@@ -1,13 +1,25 @@
 ---
-title: "dhakarshailendra829/codefix-env"
-category: "Tooling"
-tech_stack: ["Python", "Gymnasium", "FastAPI", "Docker", "AST (Abstract Syntax Tree)", "OS-level process isolation", "GitHub API"]
+title: dhakarshailendra829/codefix-env
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- Python
+- Gymnasium
+- FastAPI
+- Docker
+- AST (Abstract Syntax Tree)
+- OS-level process isolation
+- GitHub API
 quality_score: 9
 rag_relevance: 8
-tags: ["reinforcement learning", "code debugging", "sandboxed execution", "LLM agent training", "test-driven feedback"]
-source: "https://github.com/dhakarshailendra829/codefix-env"
-discovered_at: "2026-07-11T05:39:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- reinforcement learning
+- code debugging
+- sandboxed execution
+- LLM agent training
+- test-driven feedback
+source: https://github.com/dhakarshailendra829/codefix-env
+discovered_at: '2026-07-11T05:39:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

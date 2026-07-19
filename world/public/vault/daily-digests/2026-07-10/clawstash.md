@@ -1,13 +1,26 @@
 ---
-title: "fo0/clawstash"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Next.js", "SQLite", "Docker", "MCP (Model Context Protocol)", "REST API", "GitHub Actions"]
+title: fo0/clawstash
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Node.js
+- Next.js
+- SQLite
+- Docker
+- MCP (Model Context Protocol)
+- REST API
+- GitHub Actions
 quality_score: 9
 rag_relevance: 9
-tags: ["persistent storage", "AI agents", "MCP integration", "version control", "GitHub backup"]
-source: "https://github.com/fo0/clawstash"
-discovered_at: "2026-07-10T02:26:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent storage
+- AI agents
+- MCP integration
+- version control
+- GitHub backup
+source: https://github.com/fo0/clawstash
+discovered_at: '2026-07-10T02:26:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

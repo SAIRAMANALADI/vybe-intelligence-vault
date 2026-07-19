@@ -1,13 +1,24 @@
 ---
-title: "7ossamfarid/mcp-mindmesh"
-category: "Orchestrator"
-tech_stack: ["Python", "TypeScript", "Claude 3.7 Sonnet", "Model Context Protocol (MCP)", "Swarm Intelligence", "Quantum Computing Principles"]
+title: 7ossamfarid/mcp-mindmesh
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- TypeScript
+- Claude 3.7 Sonnet
+- Model Context Protocol (MCP)
+- Swarm Intelligence
+- Quantum Computing Principles
 quality_score: 6
 rag_relevance: 8
-tags: ["multi-agent systems", "swarm intelligence", "ensemble learning", "MCP server", "Claude integration"]
-source: "https://github.com/7ossamfarid/mcp-mindmesh"
-discovered_at: "2026-06-23T16:34:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- swarm intelligence
+- ensemble learning
+- MCP server
+- Claude integration
+source: https://github.com/7ossamfarid/mcp-mindmesh
+discovered_at: '2026-06-23T16:34:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

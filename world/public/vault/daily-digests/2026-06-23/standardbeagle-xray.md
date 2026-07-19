@@ -1,13 +1,28 @@
 ---
-title: "jabidhasan327/standardbeagle-xray"
-category: "Agent Framework"
-tech_stack: ["Python", "Node.js", "OpenAI API", "Claude API", "Headless Chromium", "YAML", "Docker", "Static Analysis", "AST Parser", "Embedding Search"]
+title: jabidhasan327/standardbeagle-xray
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Node.js
+- OpenAI API
+- Claude API
+- Headless Chromium
+- YAML
+- Docker
+- Static Analysis
+- AST Parser
+- Embedding Search
 quality_score: 7
 rag_relevance: 8
-tags: ["AI agents", "browser automation", "code intelligence", "terminal productivity", "autonomous workflows"]
-source: "https://github.com/jabidhasan327/standardbeagle-xray"
-discovered_at: "2026-06-23T16:34:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- browser automation
+- code intelligence
+- terminal productivity
+- autonomous workflows
+source: https://github.com/jabidhasan327/standardbeagle-xray
+discovered_at: '2026-06-23T16:34:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

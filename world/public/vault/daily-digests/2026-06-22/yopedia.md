@@ -1,13 +1,30 @@
 ---
-title: "yologdev/yopedia"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Next.js", "React", "GitHub Actions", "Anthropic API", "OpenAI API", "Google Generative AI API", "Ollama", "Rust", "Docker", "Markdown", "YAML"]
+title: yologdev/yopedia
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Next.js
+- React
+- GitHub Actions
+- Anthropic API
+- OpenAI API
+- Google Generative AI API
+- Ollama
+- Rust
+- Docker
+- Markdown
+- YAML
 quality_score: 9
 rag_relevance: 8
-tags: ["agent-driven development", "self-evolving systems", "collaborative wiki", "knowledge accumulation", "AI orchestration"]
-source: "https://github.com/yologdev/yopedia"
-discovered_at: "2026-06-22T23:19:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent-driven development
+- self-evolving systems
+- collaborative wiki
+- knowledge accumulation
+- AI orchestration
+source: https://github.com/yologdev/yopedia
+discovered_at: '2026-06-22T23:19:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

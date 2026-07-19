@@ -1,13 +1,24 @@
 ---
-title: "e2b-dev/E2B"
-category: "Tooling"
-tech_stack: ["Python", "JavaScript/TypeScript", "Terraform", "AWS", "Google Cloud", "Docker"]
+title: e2b-dev/E2B
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- JavaScript/TypeScript
+- Terraform
+- AWS
+- Google Cloud
+- Docker
 quality_score: 9
 rag_relevance: 9
-tags: ["sandboxing", "code execution", "AI agents", "secure environments", "cloud infrastructure"]
-source: "https://github.com/e2b-dev/E2B"
-discovered_at: "2026-06-22T18:27:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- sandboxing
+- code execution
+- AI agents
+- secure environments
+- cloud infrastructure
+source: https://github.com/e2b-dev/E2B
+discovered_at: '2026-06-22T18:27:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

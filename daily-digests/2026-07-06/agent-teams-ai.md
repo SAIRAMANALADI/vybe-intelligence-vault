@@ -1,13 +1,28 @@
 ---
-title: "777genius/agent-teams-ai"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Electron", "React", "Node.js", "Claude API", "Codex API", "OpenCode", "MCP (Model Context Protocol)", "Git", "Docker"]
+title: 777genius/agent-teams-ai
+category: daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- Electron
+- React
+- Node.js
+- Claude API
+- Codex API
+- OpenCode
+- MCP (Model Context Protocol)
+- Git
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent orchestration", "multi-provider support", "autonomous teams", "Kanban interface", "cross-team collaboration"]
-source: "https://github.com/777genius/agent-teams-ai"
-discovered_at: "2026-07-06T23:05:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent orchestration
+- multi-provider support
+- autonomous teams
+- Kanban interface
+- cross-team collaboration
+source: https://github.com/777genius/agent-teams-ai
+discovered_at: '2026-07-06T23:05:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

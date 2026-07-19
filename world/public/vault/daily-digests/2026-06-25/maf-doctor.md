@@ -1,13 +1,25 @@
 ---
-title: "joslat/maf-doctor"
-category: "Tooling"
-tech_stack: ["C#", ".NET", "Model Context Protocol (MCP)", "Roslyn Analyzers", "NuGet", "GitHub Actions", "SARIF"]
+title: joslat/maf-doctor
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- C#
+- .NET
+- Model Context Protocol (MCP)
+- Roslyn Analyzers
+- NuGet
+- GitHub Actions
+- SARIF
 quality_score: 9
 rag_relevance: 8
-tags: ["Microsoft Agent Framework", "MCP Server", "Code Analysis", "Migration Tool", "Roslyn Analyzers"]
-source: "https://github.com/joslat/maf-doctor"
-discovered_at: "2026-06-25T07:30:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Microsoft Agent Framework
+- MCP Server
+- Code Analysis
+- Migration Tool
+- Roslyn Analyzers
+source: https://github.com/joslat/maf-doctor
+discovered_at: '2026-06-25T07:30:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

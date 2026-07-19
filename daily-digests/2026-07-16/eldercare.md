@@ -1,13 +1,29 @@
 ---
-title: "bluegumtrees/ElderCare"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "ChromaDB", "BAAI/bge-small-zh-v1.5", "BAAI/bge-reranker-base", "rank-bm25", "jieba", "Qwen (via OpenRouter)", "SQLite", "HTML/CSS/JS", "Web Speech API"]
+title: bluegumtrees/ElderCare
+category: daily-digests/2026-07-16
+tech_stack:
+- Python
+- FastAPI
+- ChromaDB
+- BAAI/bge-small-zh-v1.5
+- BAAI/bge-reranker-base
+- rank-bm25
+- jieba
+- Qwen (via OpenRouter)
+- SQLite
+- HTML/CSS/JS
+- Web Speech API
 quality_score: 9
 rag_relevance: 10
-tags: ["RAG", "dynamic routing", "intent classification", "source citation", "elderly care"]
-source: "https://github.com/bluegumtrees/ElderCare"
-discovered_at: "2026-07-16T05:39:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RAG
+- dynamic routing
+- intent classification
+- source citation
+- elderly care
+source: https://github.com/bluegumtrees/ElderCare
+discovered_at: '2026-07-16T05:39:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

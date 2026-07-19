@@ -1,13 +1,26 @@
 ---
-title: "Sengathirmcse/sigil-guardian"
-category: "Tooling"
-tech_stack: ["Python 3.10+", "Node.js 18+", "SHA-3 Hashing", "YAML Configuration", "Docker/Containerization", "LLM Integration (OpenAI, Claude API)", "Mermaid Diagrams", "SIEM Systems Integration"]
+title: Sengathirmcse/sigil-guardian
+category: daily-digests/2026-07-08
+tech_stack:
+- Python 3.10+
+- Node.js 18+
+- SHA-3 Hashing
+- YAML Configuration
+- Docker/Containerization
+- LLM Integration (OpenAI, Claude API)
+- Mermaid Diagrams
+- SIEM Systems Integration
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Agent Security", "Sandboxing", "Audit Trails", "Intent Analysis", "Compliance Monitoring"]
-source: "https://github.com/Sengathirmcse/sigil-guardian"
-discovered_at: "2026-07-08T12:24:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent Security
+- Sandboxing
+- Audit Trails
+- Intent Analysis
+- Compliance Monitoring
+source: https://github.com/Sengathirmcse/sigil-guardian
+discovered_at: '2026-07-08T12:24:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

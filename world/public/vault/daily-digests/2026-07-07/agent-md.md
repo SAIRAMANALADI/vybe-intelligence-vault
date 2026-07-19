@@ -1,13 +1,21 @@
 ---
-title: "reyhan8543/agent-md"
-category: "Tooling"
-tech_stack: ["Shell", "Markdown", "Windows OS"]
+title: reyhan8543/agent-md
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Shell
+- Markdown
+- Windows OS
 quality_score: 7
 rag_relevance: 6
-tags: ["agent directives", "coding workflow", "project rules", "AI tooling", "code consistency"]
-source: "https://github.com/reyhan8543/agent-md"
-discovered_at: "2026-07-07T06:41:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent directives
+- coding workflow
+- project rules
+- AI tooling
+- code consistency
+source: https://github.com/reyhan8543/agent-md
+discovered_at: '2026-07-07T06:41:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

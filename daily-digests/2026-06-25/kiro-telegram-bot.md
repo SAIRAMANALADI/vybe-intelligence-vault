@@ -1,13 +1,23 @@
 ---
-title: "Ryoowa1303/kiro-telegram-bot"
-category: "Tooling"
-tech_stack: ["TypeScript", "Telegram Bot API", "Kiro CLI", "Node.js", "Windows Services"]
+title: Ryoowa1303/kiro-telegram-bot
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Telegram Bot API
+- Kiro CLI
+- Node.js
+- Windows Services
 quality_score: 6
 rag_relevance: 5
-tags: ["remote coding", "Telegram integration", "session management", "AI coding assistant", "cross-platform"]
-source: "https://github.com/Ryoowa1303/kiro-telegram-bot"
-discovered_at: "2026-06-25T08:31:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- remote coding
+- Telegram integration
+- session management
+- AI coding assistant
+- cross-platform
+source: https://github.com/Ryoowa1303/kiro-telegram-bot
+discovered_at: '2026-06-25T08:31:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

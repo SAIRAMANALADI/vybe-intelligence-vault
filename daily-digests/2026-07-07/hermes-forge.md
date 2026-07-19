@@ -1,13 +1,23 @@
 ---
-title: "iknowkungfubar/hermes-forge"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Hermes Agent", "Forge (guardrail framework)", "YAML (configuration)"]
+title: iknowkungfubar/hermes-forge
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Hermes Agent
+- Forge (guardrail framework)
+- YAML (configuration)
 quality_score: 8
 rag_relevance: 9
-tags: ["guardrails", "LLM tool-calling", "MCP server", "agent reliability", "self-hosted"]
-source: "https://github.com/iknowkungfubar/hermes-forge"
-discovered_at: "2026-07-07T18:59:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- guardrails
+- LLM tool-calling
+- MCP server
+- agent reliability
+- self-hosted
+source: https://github.com/iknowkungfubar/hermes-forge
+discovered_at: '2026-07-07T18:59:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

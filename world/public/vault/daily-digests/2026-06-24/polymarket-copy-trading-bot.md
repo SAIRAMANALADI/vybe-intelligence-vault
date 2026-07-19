@@ -1,13 +1,22 @@
 ---
-title: "kalliimmunosuppressive504/polymarket-copy-trading-bot"
-category: "Tooling"
-tech_stack: ["TypeScript", "Windows OS", "Polymarket API", "Wallet Integration"]
+title: kalliimmunosuppressive504/polymarket-copy-trading-bot
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Windows OS
+- Polymarket API
+- Wallet Integration
 quality_score: 5
 rag_relevance: 4
-tags: ["automated trading", "Polymarket", "copy trading", "wallet integration", "real-time monitoring"]
-source: "https://github.com/kalliimmunosuppressive504/polymarket-copy-trading-bot"
-discovered_at: "2026-06-24T06:47:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- automated trading
+- Polymarket
+- copy trading
+- wallet integration
+- real-time monitoring
+source: https://github.com/kalliimmunosuppressive504/polymarket-copy-trading-bot
+discovered_at: '2026-06-24T06:47:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

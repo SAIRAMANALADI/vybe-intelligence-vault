@@ -1,13 +1,21 @@
 ---
-title: "kartik359/MoLi"
-category: "Tooling"
-tech_stack: ["Java", "Molang", "Command-line Interface"]
+title: kartik359/MoLi
+category: daily-digests/2026-06-22
+tech_stack:
+- Java
+- Molang
+- Command-line Interface
 quality_score: 6
 rag_relevance: 3
-tags: ["Molang interpreter", "Java runtime", "lightweight", "expression parser", "game scripting"]
-source: "https://github.com/kartik359/MoLi"
-discovered_at: "2026-06-22T23:16:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Molang interpreter
+- Java runtime
+- lightweight
+- expression parser
+- game scripting
+source: https://github.com/kartik359/MoLi
+discovered_at: '2026-06-22T23:16:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

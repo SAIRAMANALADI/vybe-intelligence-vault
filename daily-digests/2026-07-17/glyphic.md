@@ -1,13 +1,29 @@
 ---
-title: "MS-Teja/Glyphic"
-category: "Tooling"
-tech_stack: ["TypeScript", "Rust", "Zod", "Node.js", "React Flow", "ELK.js", "D3.js", "resvg-js", "MCP (Model Context Protocol)", "PNPM", "Turborepo"]
+title: MS-Teja/Glyphic
+category: daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- Rust
+- Zod
+- Node.js
+- React Flow
+- ELK.js
+- D3.js
+- resvg-js
+- MCP (Model Context Protocol)
+- PNPM
+- Turborepo
 quality_score: 9
 rag_relevance: 10
-tags: ["diagram generation", "AI infrastructure", "structured JSON", "SVG/PNG rendering", "MCP server"]
-source: "https://github.com/MS-Teja/Glyphic"
-discovered_at: "2026-07-12T05:56:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- diagram generation
+- AI infrastructure
+- structured JSON
+- SVG/PNG rendering
+- MCP server
+source: https://github.com/MS-Teja/Glyphic
+discovered_at: '2026-07-12T05:56:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

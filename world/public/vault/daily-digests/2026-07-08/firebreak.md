@@ -1,13 +1,22 @@
 ---
-title: "Nonmigratory-electrolysis990/Firebreak"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Security Testing", "Offensive Security"]
+title: Nonmigratory-electrolysis990/Firebreak
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Security Testing
+- Offensive Security
 quality_score: 3
 rag_relevance: 7
-tags: ["security", "penetration testing", "MCP server", "offensive AI", "vulnerability assessment"]
-source: "https://github.com/Nonmigratory-electrolysis990/Firebreak"
-discovered_at: "2026-07-08T22:15:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- security
+- penetration testing
+- MCP server
+- offensive AI
+- vulnerability assessment
+source: https://github.com/Nonmigratory-electrolysis990/Firebreak
+discovered_at: '2026-07-08T22:15:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

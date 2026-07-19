@@ -1,13 +1,26 @@
 ---
-title: "dtzp555-max/ocp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "SQLite", "tmux", "Claude CLI", "OpenAI API Compatibility", "REST", "SSE (Server-Sent Events)"]
+title: dtzp555-max/ocp
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- JavaScript
+- Node.js
+- SQLite
+- tmux
+- Claude CLI
+- OpenAI API Compatibility
+- REST
+- SSE (Server-Sent Events)
 quality_score: 9
 rag_relevance: 8
-tags: ["Claude Proxy", "OpenAI Compatibility", "Multi-User Sharing", "IDE Integration", "Local API"]
-source: "https://github.com/dtzp555-max/ocp"
-discovered_at: "2026-07-07T13:15:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Proxy
+- OpenAI Compatibility
+- Multi-User Sharing
+- IDE Integration
+- Local API
+source: https://github.com/dtzp555-max/ocp
+discovered_at: '2026-07-07T13:15:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

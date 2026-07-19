@@ -1,13 +1,23 @@
 ---
-title: "Lwandi624/mcp-webgate"
-category: "Tooling"
-tech_stack: ["Windows", "Python", "Model Context Protocol (MCP)", "Brave Search", "SearxNG"]
+title: Lwandi624/mcp-webgate
+category: daily-digests/2026-07-07
+tech_stack:
+- Windows
+- Python
+- Model Context Protocol (MCP)
+- Brave Search
+- SearxNG
 quality_score: 6
 rag_relevance: 8
-tags: ["web search", "MCP server", "context pruning", "AI tooling", "Windows app"]
-source: "https://github.com/Lwandi624/mcp-webgate"
-discovered_at: "2026-07-07T20:52:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web search
+- MCP server
+- context pruning
+- AI tooling
+- Windows app
+source: https://github.com/Lwandi624/mcp-webgate
+discovered_at: '2026-07-07T20:52:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

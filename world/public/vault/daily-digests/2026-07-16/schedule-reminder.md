@@ -1,13 +1,24 @@
 ---
-title: "DaizeDong/schedule-reminder"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "Discord API", "CLI/JSON API", "Windows Task Scheduler", "Pytest"]
+title: DaizeDong/schedule-reminder
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- Python
+- SQLite
+- Discord API
+- CLI/JSON API
+- Windows Task Scheduler
+- Pytest
 quality_score: 9
 rag_relevance: 7
-tags: ["task management", "reminder system", "state machine", "persistent storage", "Discord integration"]
-source: "https://github.com/DaizeDong/schedule-reminder"
-discovered_at: "2026-07-16T08:10:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- task management
+- reminder system
+- state machine
+- persistent storage
+- Discord integration
+source: https://github.com/DaizeDong/schedule-reminder
+discovered_at: '2026-07-16T08:10:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

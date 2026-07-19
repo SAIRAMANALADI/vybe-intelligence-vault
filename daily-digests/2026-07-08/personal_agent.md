@@ -1,13 +1,29 @@
 ---
-title: "alextra-lab/personal_agent"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "PostgreSQL", "Neo4j", "Elasticsearch", "MLX", "Qwen3.5-35B", "Docker", "SQLAlchemy", "Pydantic", "Asyncio"]
+title: alextra-lab/personal_agent
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- FastAPI
+- PostgreSQL
+- Neo4j
+- Elasticsearch
+- MLX
+- Qwen3.5-35B
+- Docker
+- SQLAlchemy
+- Pydantic
+- Asyncio
 quality_score: 8
 rag_relevance: 7
-tags: ["cognitive architecture", "agentic systems", "local LLM inference", "memory persistence", "research platform"]
-source: "https://github.com/alextra-lab/personal_agent"
-discovered_at: "2026-07-08T21:01:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- cognitive architecture
+- agentic systems
+- local LLM inference
+- memory persistence
+- research platform
+source: https://github.com/alextra-lab/personal_agent
+discovered_at: '2026-07-08T21:01:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

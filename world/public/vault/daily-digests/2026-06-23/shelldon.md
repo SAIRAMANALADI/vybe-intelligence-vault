@@ -1,13 +1,29 @@
 ---
-title: "elliotboney/shelldon"
-category: "Agent Framework"
-tech_stack: ["Python", "Raspberry Pi Zero 2W", "E-Ink Display (Waveshare)", "Telegram API", "SQLite", "GLM (Z.ai)", "Ollama", "OpenAI-compatible APIs", "Unix domain sockets", "systemd", "pytest"]
+title: elliotboney/shelldon
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Raspberry Pi Zero 2W
+- E-Ink Display (Waveshare)
+- Telegram API
+- SQLite
+- GLM (Z.ai)
+- Ollama
+- OpenAI-compatible APIs
+- Unix domain sockets
+- systemd
+- pytest
 quality_score: 9
 rag_relevance: 7
-tags: ["AI pet", "E-Ink display", "local LLM", "self-extending tools", "Raspberry Pi"]
-source: "https://github.com/elliotboney/shelldon"
-discovered_at: "2026-06-23T02:48:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI pet
+- E-Ink display
+- local LLM
+- self-extending tools
+- Raspberry Pi
+source: https://github.com/elliotboney/shelldon
+discovered_at: '2026-06-23T02:48:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

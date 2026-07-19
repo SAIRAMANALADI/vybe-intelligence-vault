@@ -1,13 +1,25 @@
 ---
-title: "shimo4228/agent-knowledge-cycle"
-category: "Orchestrator"
-tech_stack: ["Python", "JSON-LD", "JSON Schema", "Mermaid.js", "Markdown", "Claude Code", "GitMCP"]
+title: shimo4228/agent-knowledge-cycle
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Python
+- JSON-LD
+- JSON Schema
+- Mermaid.js
+- Markdown
+- Claude Code
+- GitMCP
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent lifecycle", "knowledge management", "intent alignment", "human-in-the-loop", "agent orchestration"]
-source: "https://github.com/shimo4228/agent-knowledge-cycle"
-discovered_at: "2026-07-06T21:25:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent lifecycle
+- knowledge management
+- intent alignment
+- human-in-the-loop
+- agent orchestration
+source: https://github.com/shimo4228/agent-knowledge-cycle
+discovered_at: '2026-07-06T21:25:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "u9401066/nsforge-mcp"
-category: "Orchestrator"
-tech_stack: ["Python 3.12+", "Model Context Protocol (MCP)", "SymPy", "MCP Tooling", "Provenance Tracking", "Verification Harness", "Mermaid Diagrams", "LaTeX", "JSON Schema"]
+title: u9401066/nsforge-mcp
+category: daily-digests/2026-07-08
+tech_stack:
+- Python 3.12+
+- Model Context Protocol (MCP)
+- SymPy
+- MCP Tooling
+- Provenance Tracking
+- Verification Harness
+- Mermaid Diagrams
+- LaTeX
+- JSON Schema
 quality_score: 9
 rag_relevance: 9
-tags: ["neurosymbolic", "provenance tracking", "symbolic derivation", "MCP server", "verification"]
-source: "https://github.com/u9401066/nsforge-mcp"
-discovered_at: "2026-07-08T05:46:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- neurosymbolic
+- provenance tracking
+- symbolic derivation
+- MCP server
+- verification
+source: https://github.com/u9401066/nsforge-mcp
+discovered_at: '2026-07-08T05:46:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

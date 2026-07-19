@@ -1,13 +1,24 @@
 ---
-title: "LeoYeAI/skill-evolution-spec"
-category: "Orchestrator"
-tech_stack: ["Markdown", "YAML", "JSON", "Agent Runtime", "OpenClaw", "MyClaw.ai"]
+title: LeoYeAI/skill-evolution-spec
+category: daily-digests/2026-06-24
+tech_stack:
+- Markdown
+- YAML
+- JSON
+- Agent Runtime
+- OpenClaw
+- MyClaw.ai
 quality_score: 8
 rag_relevance: 9
-tags: ["agent memory", "skill persistence", "lifecycle governance", "token efficiency", "self-evolving agents"]
-source: "https://github.com/LeoYeAI/skill-evolution-spec"
-discovered_at: "2026-06-24T02:44:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent memory
+- skill persistence
+- lifecycle governance
+- token efficiency
+- self-evolving agents
+source: https://github.com/LeoYeAI/skill-evolution-spec
+discovered_at: '2026-06-24T02:44:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,29 @@
 ---
-title: "777genius/infinity-context"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "PostgreSQL", "Qdrant", "Graphiti", "Docker", "TypeScript", "React", "MCP (Model Context Protocol)", "CLI", "SDK"]
+title: 777genius/infinity-context
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- FastAPI
+- PostgreSQL
+- Qdrant
+- Graphiti
+- Docker
+- TypeScript
+- React
+- MCP (Model Context Protocol)
+- CLI
+- SDK
 quality_score: 9
 rag_relevance: 10
-tags: ["memory infrastructure", "source-backed facts", "review-gated learning", "coding agents", "self-hosted"]
-source: "https://github.com/777genius/infinity-context"
-discovered_at: "2026-07-08T11:00:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory infrastructure
+- source-backed facts
+- review-gated learning
+- coding agents
+- self-hosted
+source: https://github.com/777genius/infinity-context
+discovered_at: '2026-07-08T11:00:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

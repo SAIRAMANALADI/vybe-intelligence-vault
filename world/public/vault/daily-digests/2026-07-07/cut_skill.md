@@ -1,13 +1,26 @@
 ---
-title: "ygtec/cut.skill"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Flask", "pymiere", "JSON", "Shell Scripting", "Node.js", "FFmpeg"]
+title: ygtec/cut.skill
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Flask
+- pymiere
+- JSON
+- Shell Scripting
+- Node.js
+- FFmpeg
 quality_score: 9
 rag_relevance: 8
-tags: ["video editing automation", "AI agent integration", "cross-platform", "MCP server", "CLI tool"]
-source: "https://github.com/ygtec/cut.skill"
-discovered_at: "2026-07-07T16:24:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- video editing automation
+- AI agent integration
+- cross-platform
+- MCP server
+- CLI tool
+source: https://github.com/ygtec/cut.skill
+discovered_at: '2026-07-07T16:24:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

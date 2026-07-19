@@ -1,13 +1,24 @@
 ---
-title: "beckettlab/beckett-godot-mcp"
-category: "Tooling"
-tech_stack: ["GDScript", "C#", "Godot Engine", "Model Context Protocol (MCP)", "HTTP/JSON-RPC", "TCPServer"]
+title: beckettlab/beckett-godot-mcp
+category: daily-digests/2026-07-19
+tech_stack:
+- GDScript
+- C#
+- Godot Engine
+- Model Context Protocol (MCP)
+- HTTP/JSON-RPC
+- TCPServer
 quality_score: 9
 rag_relevance: 8
-tags: ["AI-driven game development", "Godot MCP server", "zero-sidecar architecture", "real-time game inspection", "GDScript/C# support"]
-source: "https://github.com/beckettlab/beckett-godot-mcp"
-discovered_at: "2026-07-17T23:52:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-driven game development
+- Godot MCP server
+- zero-sidecar architecture
+- real-time game inspection
+- GDScript/C# support
+source: https://github.com/beckettlab/beckett-godot-mcp
+discovered_at: '2026-07-17T23:52:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

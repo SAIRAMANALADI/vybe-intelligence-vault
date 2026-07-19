@@ -1,13 +1,33 @@
 ---
-title: "XenoCoreGiger31/GEMMA-by-GOOGLE"
-category: "Agent Framework"
-tech_stack: ["Python", "Gemma 4-12B (GGUF)", "LM Studio", "Flask", "Kali Linux", "Masscan", "Nmap", "Nikto", "SQLmap", "Hydra", "Nuclei", "FFUF", "HTTpx", "Sherlock", "MIT License"]
+title: XenoCoreGiger31/GEMMA-by-GOOGLE
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- Gemma 4-12B (GGUF)
+- LM Studio
+- Flask
+- Kali Linux
+- Masscan
+- Nmap
+- Nikto
+- SQLmap
+- Hydra
+- Nuclei
+- FFUF
+- HTTpx
+- Sherlock
+- MIT License
 quality_score: 8
 rag_relevance: 6
-tags: ["autonomous-pentesting", "local-llm", "cybersecurity", "penetration-testing", "mcp-server"]
-source: "https://github.com/XenoCoreGiger31/GEMMA-by-GOOGLE"
-discovered_at: "2026-07-07T18:59:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous-pentesting
+- local-llm
+- cybersecurity
+- penetration-testing
+- mcp-server
+source: https://github.com/XenoCoreGiger31/GEMMA-by-GOOGLE
+discovered_at: '2026-07-07T18:59:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

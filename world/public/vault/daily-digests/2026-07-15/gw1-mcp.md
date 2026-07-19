@@ -1,13 +1,25 @@
 ---
-title: "Graphmaxer/gw1-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Cloudflare Workers", "Hono", "pnpm", "GitHub Actions"]
+title: Graphmaxer/gw1-mcp
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Cloudflare Workers
+- Hono
+- pnpm
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Guild Wars 1", "build validation", "template encoding", "game data"]
-source: "https://github.com/Graphmaxer/gw1-mcp"
-discovered_at: "2026-07-13T21:55:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Guild Wars 1
+- build validation
+- template encoding
+- game data
+source: https://github.com/Graphmaxer/gw1-mcp
+discovered_at: '2026-07-13T21:55:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "chetanmorey1/PaperCortex"
-category: "Tooling"
-tech_stack: ["TypeScript", "Ollama", "Paperless-ngx", "MCP Server", "Local AI", "Windows"]
+title: chetanmorey1/PaperCortex
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Ollama
+- Paperless-ngx
+- MCP Server
+- Local AI
+- Windows
 quality_score: 7
 rag_relevance: 6
-tags: ["document-intelligence", "local-ai", "paperless-ngx", "receipt-extraction", "semantic-search"]
-source: "https://github.com/chetanmorey1/PaperCortex"
-discovered_at: "2026-07-07T20:52:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- document-intelligence
+- local-ai
+- paperless-ngx
+- receipt-extraction
+- semantic-search
+source: https://github.com/chetanmorey1/PaperCortex
+discovered_at: '2026-07-07T20:52:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

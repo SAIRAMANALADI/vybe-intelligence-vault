@@ -1,13 +1,28 @@
 ---
-title: "tomcounsell/ai"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude Code", "Telegram API", "Email APIs", "Git", "FastAPI", "MCP (Model Context Protocol)", "Bloom filters", "Directed Acyclic Graphs (DAG)", "Docker"]
+title: tomcounsell/ai
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Claude Code
+- Telegram API
+- Email APIs
+- Git
+- FastAPI
+- MCP (Model Context Protocol)
+- Bloom filters
+- Directed Acyclic Graphs (DAG)
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous agents", "SDLC automation", "multi-channel integration", "self-healing systems", "memory management"]
-source: "https://github.com/tomcounsell/ai"
-discovered_at: "2026-06-24T10:22:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- SDLC automation
+- multi-channel integration
+- self-healing systems
+- memory management
+source: https://github.com/tomcounsell/ai
+discovered_at: '2026-06-24T10:22:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

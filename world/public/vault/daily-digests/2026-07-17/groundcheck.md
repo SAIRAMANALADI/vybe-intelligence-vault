@@ -1,13 +1,26 @@
 ---
-title: "beepboop2025/groundcheck"
-category: "Tooling"
-tech_stack: ["TypeScript", "Python", "FastAPI", "MCP (Model Context Protocol)", "Groq API", "Wikipedia API", "Docker", "x402 Protocol"]
+title: beepboop2025/groundcheck
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- Python
+- FastAPI
+- MCP (Model Context Protocol)
+- Groq API
+- Wikipedia API
+- Docker
+- x402 Protocol
 quality_score: 9
 rag_relevance: 10
-tags: ["fact-checking", "grounding", "MCP", "verification", "RAG"]
-source: "https://github.com/beepboop2025/groundcheck"
-discovered_at: "2026-07-15T16:21:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- fact-checking
+- grounding
+- MCP
+- verification
+- RAG
+source: https://github.com/beepboop2025/groundcheck
+discovered_at: '2026-07-15T16:21:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

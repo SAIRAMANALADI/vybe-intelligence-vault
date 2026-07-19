@@ -1,13 +1,25 @@
 ---
-title: "benethos-hub/yahoo-finance-mcp"
-category: "Tooling"
-tech_stack: ["Python", "yfinance", "Model Context Protocol (MCP)", "SQLite", "Docker", "uv", "FastAPI"]
+title: benethos-hub/yahoo-finance-mcp
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- yfinance
+- Model Context Protocol (MCP)
+- SQLite
+- Docker
+- uv
+- FastAPI
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "market data", "Yahoo Finance", "financial APIs", "real-time data"]
-source: "https://github.com/benethos-hub/yahoo-finance-mcp"
-discovered_at: "2026-06-25T07:31:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- market data
+- Yahoo Finance
+- financial APIs
+- real-time data
+source: https://github.com/benethos-hub/yahoo-finance-mcp
+discovered_at: '2026-06-25T07:31:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

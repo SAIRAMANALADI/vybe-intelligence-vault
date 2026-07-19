@@ -1,13 +1,28 @@
 ---
-title: "smart-mcp-proxy/mcpproxy-go"
-category: "Orchestrator"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "HTTPS/TLS", "Docker", "Prometheus", "OpenTelemetry", "SARIF", "Systemd", "Homebrew", "AUR"]
+title: smart-mcp-proxy/mcpproxy-go
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- HTTPS/TLS
+- Docker
+- Prometheus
+- OpenTelemetry
+- SARIF
+- Systemd
+- Homebrew
+- AUR
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP gateway", "AI agent orchestration", "security proxy", "tool federation", "multi-server management"]
-source: "https://github.com/smart-mcp-proxy/mcpproxy-go"
-discovered_at: "2026-06-24T06:50:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP gateway
+- AI agent orchestration
+- security proxy
+- tool federation
+- multi-server management
+source: https://github.com/smart-mcp-proxy/mcpproxy-go
+discovered_at: '2026-06-24T06:50:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

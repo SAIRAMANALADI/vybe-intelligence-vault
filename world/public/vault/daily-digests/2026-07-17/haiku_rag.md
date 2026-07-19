@@ -1,13 +1,30 @@
 ---
-title: "ggozad/haiku.rag"
-category: "Agent Framework"
-tech_stack: ["Python", "LanceDB", "Pydantic AI", "Docling", "FastAPI", "SQLite", "vLLM", "VoyageAI", "Cohere", "Ollama", "LM Studio", "Docker"]
+title: ggozad/haiku.rag
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- Python
+- LanceDB
+- Pydantic AI
+- Docling
+- FastAPI
+- SQLite
+- vLLM
+- VoyageAI
+- Cohere
+- Ollama
+- LM Studio
+- Docker
 quality_score: 9
 rag_relevance: 10
-tags: ["RAG", "Multimodal", "Vector Database", "Agentic AI", "Document Processing"]
-source: "https://github.com/ggozad/haiku.rag"
-discovered_at: "2026-07-14T08:01:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RAG
+- Multimodal
+- Vector Database
+- Agentic AI
+- Document Processing
+source: https://github.com/ggozad/haiku.rag
+discovered_at: '2026-07-14T08:01:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

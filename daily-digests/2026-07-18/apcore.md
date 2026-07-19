@@ -1,13 +1,26 @@
 ---
-title: "aiperceivable/apcore"
-category: "Tooling"
-tech_stack: ["Python", "TypeScript", "Rust", "Schema Enforcement", "ACL (Access Control)", "Middleware", "Observability", "Protocol Specification"]
+title: aiperceivable/apcore
+category: daily-digests/2026-07-18
+tech_stack:
+- Python
+- TypeScript
+- Rust
+- Schema Enforcement
+- ACL (Access Control)
+- Middleware
+- Observability
+- Protocol Specification
 quality_score: 9
 rag_relevance: 10
-tags: ["AI-Perceivable", "Schema Enforcement", "Module Standard", "Cross-Language", "AI Orchestration"]
-source: "https://github.com/aiperceivable/apcore"
-discovered_at: "2026-07-13T06:15:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-Perceivable
+- Schema Enforcement
+- Module Standard
+- Cross-Language
+- AI Orchestration
+source: https://github.com/aiperceivable/apcore
+discovered_at: '2026-07-13T06:15:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

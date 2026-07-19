@@ -1,13 +1,31 @@
 ---
-title: "orneryd/NornicDB"
-category: "Vector DB"
-tech_stack: ["Go", "Neo4j (Bolt/Cypher compatibility)", "Qdrant (gRPC compatibility)", "HNSW (Hierarchical Navigable Small World) for vector search", "MVCC (Multi-Version Concurrency Control)", "CUDA", "Metal", "Vulkan", "llama.cpp (for embeddings)", "Docker", "GraphQL", "gRPC", "REST"]
+title: orneryd/NornicDB
+category: daily-digests/2026-07-09
+tech_stack:
+- Go
+- Neo4j (Bolt/Cypher compatibility)
+- Qdrant (gRPC compatibility)
+- HNSW (Hierarchical Navigable Small World) for vector search
+- MVCC (Multi-Version Concurrency Control)
+- CUDA
+- Metal
+- Vulkan
+- llama.cpp (for embeddings)
+- Docker
+- GraphQL
+- gRPC
+- REST
 quality_score: 9
 rag_relevance: 10
-tags: ["Graph Database", "Vector Search", "Temporal MVCC", "Hybrid Retrieval", "AI Memory"]
-source: "https://github.com/orneryd/NornicDB"
-discovered_at: "2026-07-09T17:18:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Graph Database
+- Vector Search
+- Temporal MVCC
+- Hybrid Retrieval
+- AI Memory
+source: https://github.com/orneryd/NornicDB
+discovered_at: '2026-07-09T17:18:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

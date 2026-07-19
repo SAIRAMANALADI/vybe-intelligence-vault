@@ -1,13 +1,26 @@
 ---
-title: "DaniiN2/idea-anvil"
-category: "Orchestrator"
-tech_stack: ["Python", "YAML", "OpenAI API", "Claude API", "JavaScript", "React", "Node.js", "Docker"]
+title: DaniiN2/idea-anvil
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- YAML
+- OpenAI API
+- Claude API
+- JavaScript
+- React
+- Node.js
+- Docker
 quality_score: 8
 rag_relevance: 7
-tags: ["AI pipeline", "execution contracts", "agent orchestration", "drift prevention", "project blueprinting"]
-source: "https://github.com/DaniiN2/idea-anvil"
-discovered_at: "2026-07-08T12:25:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI pipeline
+- execution contracts
+- agent orchestration
+- drift prevention
+- project blueprinting
+source: https://github.com/DaniiN2/idea-anvil
+discovered_at: '2026-07-08T12:25:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

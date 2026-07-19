@@ -1,13 +1,24 @@
 ---
-title: "DaizeDong/discord-history-export"
-category: "Tooling"
-tech_stack: ["Python", "DiscordChatExporter", "Playwright MCP", "Claude Code", "HTML", "JSON"]
+title: DaizeDong/discord-history-export
+category: daily-digests/2026-07-17
+tech_stack:
+- Python
+- DiscordChatExporter
+- Playwright MCP
+- Claude Code
+- HTML
+- JSON
 quality_score: 8
 rag_relevance: 6
-tags: ["Discord", "Data Export", "Automation", "HTML Archive", "JSON Dataset"]
-source: "https://github.com/DaizeDong/discord-history-export"
-discovered_at: "2026-07-17T08:07:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Discord
+- Data Export
+- Automation
+- HTML Archive
+- JSON Dataset
+source: https://github.com/DaizeDong/discord-history-export
+discovered_at: '2026-07-17T08:07:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

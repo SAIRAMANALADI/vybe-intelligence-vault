@@ -1,13 +1,24 @@
 ---
-title: "Corrosive-turn243/tula"
-category: "Tooling"
-tech_stack: ["OpenClaw", "Windows", "Python (implied by OpenClaw)", "FHIR", "EHR systems", "Local file system"]
+title: Corrosive-turn243/tula
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- OpenClaw
+- Windows
+- Python (implied by OpenClaw)
+- FHIR
+- EHR systems
+- Local file system
 quality_score: 6
 rag_relevance: 7
-tags: ["health data aggregation", "personal health assistant", "EHR integration", "FHIR compliance", "local AI agent"]
-source: "https://github.com/Corrosive-turn243/tula"
-discovered_at: "2026-07-07T23:54:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- health data aggregation
+- personal health assistant
+- EHR integration
+- FHIR compliance
+- local AI agent
+source: https://github.com/Corrosive-turn243/tula
+discovered_at: '2026-07-07T23:54:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

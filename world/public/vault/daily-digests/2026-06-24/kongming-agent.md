@@ -1,13 +1,29 @@
 ---
-title: "KtKID/kongming-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "asyncio", "OpenAI-compatible LLM providers", "SQLite", "CLI (click, prompt_toolkit)", "ruff", "mypy", "pytest", "uv", "JSON/YAML configuration", "pydantic"]
+title: KtKID/kongming-agent
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- asyncio
+- OpenAI-compatible LLM providers
+- SQLite
+- CLI (click, prompt_toolkit)
+- ruff
+- mypy
+- pytest
+- uv
+- JSON/YAML configuration
+- pydantic
 quality_score: 9
 rag_relevance: 8
-tags: ["agent framework", "tool orchestration", "host-agnostic", "safety layers", "session persistence"]
-source: "https://github.com/KtKID/kongming-agent"
-discovered_at: "2026-06-24T18:51:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent framework
+- tool orchestration
+- host-agnostic
+- safety layers
+- session persistence
+source: https://github.com/KtKID/kongming-agent
+discovered_at: '2026-06-24T18:51:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,30 @@
 ---
-title: "openlegion-ai/openlegion"
-category: "Agent Framework"
-tech_stack: ["Python", "Docker", "LiteLLM", "SQLite", "FastAPI", "Telegram Bot API", "Discord API", "Slack API", "WhatsApp Business API", "Camoufox", "KasmVNC", "PolyForm Perimeter License"]
+title: openlegion-ai/openlegion
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- Python
+- Docker
+- LiteLLM
+- SQLite
+- FastAPI
+- Telegram Bot API
+- Discord API
+- Slack API
+- WhatsApp Business API
+- Camoufox
+- KasmVNC
+- PolyForm Perimeter License
 quality_score: 9
 rag_relevance: 9
-tags: ["multi-agent systems", "security-first", "self-hosted", "cost control", "container isolation"]
-source: "https://github.com/openlegion-ai/openlegion"
-discovered_at: "2026-07-10T18:22:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- security-first
+- self-hosted
+- cost control
+- container isolation
+source: https://github.com/openlegion-ai/openlegion
+discovered_at: '2026-07-10T18:22:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

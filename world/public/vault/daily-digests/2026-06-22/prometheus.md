@@ -1,13 +1,31 @@
 ---
-title: "FeverDream-dev/Prometheus"
-category: "Agent Framework"
-tech_stack: ["Python", "Ollama", "Textual (TUI framework)", "SQLite", "Git", "Playwright", "Docker", "Bubblewrap", "sandbox-exec", "PyTorch", "Diffusers", "MCP (Model Context Protocol)", "JSON-RPC"]
+title: FeverDream-dev/Prometheus
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- Ollama
+- Textual (TUI framework)
+- SQLite
+- Git
+- Playwright
+- Docker
+- Bubblewrap
+- sandbox-exec
+- PyTorch
+- Diffusers
+- MCP (Model Context Protocol)
+- JSON-RPC
 quality_score: 9
 rag_relevance: 8
-tags: ["local-first", "multi-model", "deterministic", "sandboxed", "hardware-aware"]
-source: "https://github.com/FeverDream-dev/Prometheus"
-discovered_at: "2026-06-22T18:56:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first
+- multi-model
+- deterministic
+- sandboxed
+- hardware-aware
+source: https://github.com/FeverDream-dev/Prometheus
+discovered_at: '2026-06-22T18:56:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

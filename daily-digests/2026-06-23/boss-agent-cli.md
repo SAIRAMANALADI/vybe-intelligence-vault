@@ -1,13 +1,29 @@
 ---
-title: "can4hou6joeng4/boss-agent-cli"
-category: "Tooling"
-tech_stack: ["Python", "Click", "httpx", "SQLite", "OpenAI/Anthropic API", "patchright", "CDP (Chrome DevTools Protocol)", "Fernet (encryption)", "pytest", "ruff", "mypy"]
+title: can4hou6joeng4/boss-agent-cli
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Click
+- httpx
+- SQLite
+- OpenAI/Anthropic API
+- patchright
+- CDP (Chrome DevTools Protocol)
+- Fernet (encryption)
+- pytest
+- ruff
+- mypy
 quality_score: 9
 rag_relevance: 7
-tags: ["job search", "AI agent integration", "compliance-first", "structured output", "welfare filtering"]
-source: "https://github.com/can4hou6joeng4/boss-agent-cli"
-discovered_at: "2026-06-23T16:30:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- job search
+- AI agent integration
+- compliance-first
+- structured output
+- welfare filtering
+source: https://github.com/can4hou6joeng4/boss-agent-cli
+discovered_at: '2026-06-23T16:30:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

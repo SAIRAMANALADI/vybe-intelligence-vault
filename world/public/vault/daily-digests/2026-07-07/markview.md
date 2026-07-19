@@ -1,13 +1,27 @@
 ---
-title: "paulhkang94/markview"
-category: "Tooling"
-tech_stack: ["Swift", "SwiftUI", "MCP (Model Context Protocol)", "cmark-gfm", "Mermaid.js", "Prism.js", "WKWebView", "Homebrew", "Xcode"]
+title: paulhkang94/markview
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Swift
+- SwiftUI
+- MCP (Model Context Protocol)
+- cmark-gfm
+- Mermaid.js
+- Prism.js
+- WKWebView
+- Homebrew
+- Xcode
 quality_score: 9
 rag_relevance: 8
-tags: ["markdown", "native macOS", "MCP server", "Claude Code", "live preview"]
-source: "https://github.com/paulhkang94/markview"
-discovered_at: "2026-07-07T20:52:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- markdown
+- native macOS
+- MCP server
+- Claude Code
+- live preview
+source: https://github.com/paulhkang94/markview
+discovered_at: '2026-07-07T20:52:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "RoxyAPI/astrology-ai-chatbot"
-category: "Agent Framework"
-tech_stack: ["Next.js 16", "TypeScript", "Vercel AI SDK v6", "Tailwind CSS", "shadcn/ui", "Model Context Protocol (MCP)", "RoxyAPI", "Gemini/Claude/GPT (multi-LLM support)", "Node.js"]
+title: RoxyAPI/astrology-ai-chatbot
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Next.js 16
+- TypeScript
+- Vercel AI SDK v6
+- Tailwind CSS
+- shadcn/ui
+- Model Context Protocol (MCP)
+- RoxyAPI
+- Gemini/Claude/GPT (multi-LLM support)
+- Node.js
 quality_score: 9
 rag_relevance: 7
-tags: ["astrology", "multi-domain AI", "MCP integration", "real-time calculations", "multi-LLM"]
-source: "https://github.com/RoxyAPI/astrology-ai-chatbot"
-discovered_at: "2026-07-08T21:02:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- astrology
+- multi-domain AI
+- MCP integration
+- real-time calculations
+- multi-LLM
+source: https://github.com/RoxyAPI/astrology-ai-chatbot
+discovered_at: '2026-07-08T21:02:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "sobhanali09-blip/headless-ida"
-category: "Tooling"
-tech_stack: ["Python", "IDA Pro (idalib)", "JSON", "Command Line Interface"]
+title: sobhanali09-blip/headless-ida
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- IDA Pro (idalib)
+- JSON
+- Command Line Interface
 quality_score: 8
 rag_relevance: 7
-tags: ["binary analysis", "reverse engineering", "malware analysis", "automation", "CLI"]
-source: "https://github.com/sobhanali09-blip/headless-ida"
-discovered_at: "2026-06-23T02:45:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- binary analysis
+- reverse engineering
+- malware analysis
+- automation
+- CLI
+source: https://github.com/sobhanali09-blip/headless-ida
+discovered_at: '2026-06-23T02:45:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

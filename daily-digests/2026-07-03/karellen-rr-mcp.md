@@ -1,13 +1,22 @@
 ---
-title: "Harshuiam/karellen-rr-mcp"
-category: "Tooling"
-tech_stack: ["MCP (Model Context Protocol)", "Rust", "rr (reverse debugging tool)", "Debugging"]
+title: Harshuiam/karellen-rr-mcp
+category: daily-digests/2026-07-03
+tech_stack:
+- MCP (Model Context Protocol)
+- Rust
+- rr (reverse debugging tool)
+- Debugging
 quality_score: 4
 rag_relevance: 6
-tags: ["debugging", "reverse execution", "MCP server", "rr tool", "program analysis"]
-source: "https://github.com/Harshuiam/karellen-rr-mcp"
-discovered_at: "2026-07-03T00:02:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- debugging
+- reverse execution
+- MCP server
+- rr tool
+- program analysis
+source: https://github.com/Harshuiam/karellen-rr-mcp
+discovered_at: '2026-07-03T00:02:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "labring/sealos-skills"
-category: "Orchestrator"
-tech_stack: ["Python", "Sealos Cloud", "Kubernetes", "Docker", "CLI Tools", "Plugin Systems", "JSON Schema", "Markdown"]
+title: labring/sealos-skills
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- Python
+- Sealos Cloud
+- Kubernetes
+- Docker
+- CLI Tools
+- Plugin Systems
+- JSON Schema
+- Markdown
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent deployment", "cloud-native", "Sealos Cloud", "plugin framework", "DevOps automation"]
-source: "https://github.com/labring/sealos-skills"
-discovered_at: "2026-07-16T10:58:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent deployment
+- cloud-native
+- Sealos Cloud
+- plugin framework
+- DevOps automation
+source: https://github.com/labring/sealos-skills
+discovered_at: '2026-07-16T10:58:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

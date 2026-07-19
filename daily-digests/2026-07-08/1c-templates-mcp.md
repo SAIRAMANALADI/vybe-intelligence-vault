@@ -1,13 +1,24 @@
 ---
-title: "Duramenrhaetoromance252/1c-templates-mcp"
-category: "Tooling"
-tech_stack: ["1C:Enterprise", "BSL", "Semantic Search", "MCP Tools", "Monaco Editor", "Web UI"]
+title: Duramenrhaetoromance252/1c-templates-mcp
+category: daily-digests/2026-07-08
+tech_stack:
+- 1C:Enterprise
+- BSL
+- Semantic Search
+- MCP Tools
+- Monaco Editor
+- Web UI
 quality_score: 4
 rag_relevance: 6
-tags: ["1C BSL", "code templates", "semantic search", "MCP", "Monaco Editor"]
-source: "https://github.com/Duramenrhaetoromance252/1c-templates-mcp"
-discovered_at: "2026-07-08T22:15:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- 1C BSL
+- code templates
+- semantic search
+- MCP
+- Monaco Editor
+source: https://github.com/Duramenrhaetoromance252/1c-templates-mcp
+discovered_at: '2026-07-08T22:15:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

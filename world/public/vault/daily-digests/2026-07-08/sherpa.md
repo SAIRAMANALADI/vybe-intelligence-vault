@@ -1,13 +1,25 @@
 ---
-title: "piotrlangowski/Sherpa"
-category: "Tooling"
-tech_stack: ["TypeScript", "SvelteKit", "Node.js", "SQLite", "MCP (Model Context Protocol)", "LLM (Large Language Model) integration", "DAG (Directed Acyclic Graph) for service dependencies"]
+title: piotrlangowski/Sherpa
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- SvelteKit
+- Node.js
+- SQLite
+- MCP (Model Context Protocol)
+- LLM (Large Language Model) integration
+- DAG (Directed Acyclic Graph) for service dependencies
 quality_score: 8
 rag_relevance: 7
-tags: ["ROI calculator", "AI feature evaluation", "SaaS metrics", "local-first", "MCP server"]
-source: "https://github.com/piotrlangowski/Sherpa"
-discovered_at: "2026-07-08T15:16:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- ROI calculator
+- AI feature evaluation
+- SaaS metrics
+- local-first
+- MCP server
+source: https://github.com/piotrlangowski/Sherpa
+discovered_at: '2026-07-08T15:16:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

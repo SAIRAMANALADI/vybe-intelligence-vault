@@ -1,13 +1,23 @@
 ---
-title: "vgiappnee-web/nostr-wot"
-category: "Tooling"
-tech_stack: ["TypeScript", "Nostr Protocol", "Browser Extension", "Oracle API", "Electron (inferred)"]
+title: vgiappnee-web/nostr-wot
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Nostr Protocol
+- Browser Extension
+- Oracle API
+- Electron (inferred)
 quality_score: 6
 rag_relevance: 7
-tags: ["Web of Trust", "Nostr", "Trust Filtering", "Social Graph", "Spam Reduction"]
-source: "https://github.com/vgiappnee-web/nostr-wot"
-discovered_at: "2026-06-24T16:19:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Web of Trust
+- Nostr
+- Trust Filtering
+- Social Graph
+- Spam Reduction
+source: https://github.com/vgiappnee-web/nostr-wot
+discovered_at: '2026-06-24T16:19:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

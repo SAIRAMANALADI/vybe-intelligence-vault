@@ -1,13 +1,23 @@
 ---
-title: "coo-quack/calc-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Bun", "Model Context Protocol (MCP)", "Docker"]
+title: coo-quack/calc-mcp
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- Bun
+- Model Context Protocol (MCP)
+- Docker
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP server", "deterministic computation", "mathematical tools", "cryptographic operations", "local processing"]
-source: "https://github.com/coo-quack/calc-mcp"
-discovered_at: "2026-07-07T22:09:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- deterministic computation
+- mathematical tools
+- cryptographic operations
+- local processing
+source: https://github.com/coo-quack/calc-mcp
+discovered_at: '2026-07-07T22:09:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

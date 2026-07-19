@@ -1,13 +1,27 @@
 ---
-title: "redvex/brijio"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "WebSocket", "Model Context Protocol (MCP)", "Chrome Extension", "Safari Extension", "Docker", "React", "pnpm"]
+title: redvex/brijio
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- WebSocket
+- Model Context Protocol (MCP)
+- Chrome Extension
+- Safari Extension
+- Docker
+- React
+- pnpm
 quality_score: 9
 rag_relevance: 9
-tags: ["browser automation", "AI agent integration", "MCP server", "authenticated web access", "privacy-focused"]
-source: "https://github.com/redvex/brijio"
-discovered_at: "2026-06-23T19:13:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- AI agent integration
+- MCP server
+- authenticated web access
+- privacy-focused
+source: https://github.com/redvex/brijio
+discovered_at: '2026-06-23T19:13:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

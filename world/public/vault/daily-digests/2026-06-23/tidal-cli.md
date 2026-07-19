@@ -1,13 +1,24 @@
 ---
-title: "robbiek3659/tidal-cli"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Tidal API v2", "OAuth", "CLI", "MCP Server"]
+title: robbiek3659/tidal-cli
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- Tidal API v2
+- OAuth
+- CLI
+- MCP Server
 quality_score: 8
 rag_relevance: 7
-tags: ["Tidal API", "CLI", "Music Automation", "JSON Output", "Agent Integration"]
-source: "https://github.com/robbiek3659/tidal-cli"
-discovered_at: "2026-06-23T02:41:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Tidal API
+- CLI
+- Music Automation
+- JSON Output
+- Agent Integration
+source: https://github.com/robbiek3659/tidal-cli
+discovered_at: '2026-06-23T02:41:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

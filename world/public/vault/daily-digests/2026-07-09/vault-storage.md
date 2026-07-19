@@ -1,13 +1,28 @@
 ---
-title: "uhop/vault-storage"
-category: "Vector DB"
-tech_stack: ["TypeScript", "Node.js 26", "SQLite", "sqlite-vec", "ONNX Runtime", "Xenova/bge-small-en-v1.5", "Docker", "REST API", "MCP (Model Context Protocol)", "Git"]
+title: uhop/vault-storage
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js 26
+- SQLite
+- sqlite-vec
+- ONNX Runtime
+- Xenova/bge-small-en-v1.5
+- Docker
+- REST API
+- MCP (Model Context Protocol)
+- Git
 quality_score: 9
 rag_relevance: 10
-tags: ["knowledge base", "semantic search", "markdown indexing", "AI agents", "vector database"]
-source: "https://github.com/uhop/vault-storage"
-discovered_at: "2026-07-09T21:18:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- knowledge base
+- semantic search
+- markdown indexing
+- AI agents
+- vector database
+source: https://github.com/uhop/vault-storage
+discovered_at: '2026-07-09T21:18:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

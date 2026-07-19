@@ -1,13 +1,27 @@
 ---
-title: "ayuayue/PiDeck"
-category: "Orchestrator"
-tech_stack: ["Electron", "React", "TypeScript", "Node.js", "pi CLI", "RPC", "PTY", "Git", "Monaco Editor"]
+title: ayuayue/PiDeck
+category: daily-digests/2026-06-23
+tech_stack:
+- Electron
+- React
+- TypeScript
+- Node.js
+- pi CLI
+- RPC
+- PTY
+- Git
+- Monaco Editor
 quality_score: 9
 rag_relevance: 7
-tags: ["Agent Management", "Multi-Project Workspace", "RPC Orchestration", "Desktop UI", "Session Isolation"]
-source: "https://github.com/ayuayue/PiDeck"
-discovered_at: "2026-06-23T10:38:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agent Management
+- Multi-Project Workspace
+- RPC Orchestration
+- Desktop UI
+- Session Isolation
+source: https://github.com/ayuayue/PiDeck
+discovered_at: '2026-06-23T10:38:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

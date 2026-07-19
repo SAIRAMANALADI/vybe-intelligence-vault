@@ -1,13 +1,23 @@
 ---
-title: "Marlorecent554/NeuralVaultSkill"
-category: "Tooling"
-tech_stack: ["Windows", "MCP (Model Context Protocol)", "NeuralVaultCore", "Python (implied)", "ZIP/Installer"]
+title: Marlorecent554/NeuralVaultSkill
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Windows
+- MCP (Model Context Protocol)
+- NeuralVaultCore
+- Python (implied)
+- ZIP/Installer
 quality_score: 6
 rag_relevance: 7
-tags: ["long-term memory", "AI agents", "MCP integration", "Windows tool", "persistent context"]
-source: "https://github.com/Marlorecent554/NeuralVaultSkill"
-discovered_at: "2026-07-07T20:51:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- long-term memory
+- AI agents
+- MCP integration
+- Windows tool
+- persistent context
+source: https://github.com/Marlorecent554/NeuralVaultSkill
+discovered_at: '2026-07-07T20:51:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

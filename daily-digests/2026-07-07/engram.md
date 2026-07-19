@@ -1,13 +1,31 @@
 ---
-title: "aiconnai/engram"
-category: "Vector DB"
-tech_stack: ["Rust", "SQLite", "BM25", "Vector Search", "Knowledge Graph", "MCP (Model Context Protocol)", "HTTP JSON-RPC", "CLI", "Python SDK", "TypeScript SDK", "Meilisearch (optional)", "ONNX Runtime (for local embeddings)", "WebSocket"]
+title: aiconnai/engram
+category: daily-digests/2026-07-07
+tech_stack:
+- Rust
+- SQLite
+- BM25
+- Vector Search
+- Knowledge Graph
+- MCP (Model Context Protocol)
+- HTTP JSON-RPC
+- CLI
+- Python SDK
+- TypeScript SDK
+- Meilisearch (optional)
+- ONNX Runtime (for local embeddings)
+- WebSocket
 quality_score: 9
 rag_relevance: 10
-tags: ["Memory Layer", "Hybrid Search", "MCP Server", "Persistent Context", "Knowledge Graph"]
-source: "https://github.com/aiconnai/engram"
-discovered_at: "2026-07-07T13:18:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Memory Layer
+- Hybrid Search
+- MCP Server
+- Persistent Context
+- Knowledge Graph
+source: https://github.com/aiconnai/engram
+discovered_at: '2026-07-07T13:18:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

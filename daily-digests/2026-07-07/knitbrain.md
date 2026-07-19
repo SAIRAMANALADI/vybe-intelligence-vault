@@ -1,13 +1,25 @@
 ---
-title: "PDgit12/knitbrain"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Hook Systems", "Lossless Compression", "Knowledge Graph", "Local-First Architecture"]
+title: PDgit12/knitbrain
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Hook Systems
+- Lossless Compression
+- Knowledge Graph
+- Local-First Architecture
 quality_score: 9
 rag_relevance: 10
-tags: ["agent loops", "context optimization", "MCP server", "local-first", "project memory"]
-source: "https://github.com/PDgit12/knitbrain"
-discovered_at: "2026-07-07T13:17:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent loops
+- context optimization
+- MCP server
+- local-first
+- project memory
+source: https://github.com/PDgit12/knitbrain
+discovered_at: '2026-07-07T13:17:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

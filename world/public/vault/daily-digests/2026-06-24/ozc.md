@@ -1,13 +1,26 @@
 ---
-title: "joemekw-code/ozc"
-category: "Tooling"
-tech_stack: ["Solidity", "Ethereum/Baseline", "Python", "JavaScript/TypeScript", "REST APIs", "MCP (Model Context Protocol)", "Anvil (local Ethereum devnet)", "Cast (CLI tool for Ethereum)"]
+title: joemekw-code/ozc
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Solidity
+- Ethereum/Baseline
+- Python
+- JavaScript/TypeScript
+- REST APIs
+- MCP (Model Context Protocol)
+- Anvil (local Ethereum devnet)
+- Cast (CLI tool for Ethereum)
 quality_score: 8
 rag_relevance: 9
-tags: ["trust layer", "decentralized filtering", "AI information control", "market dynamics", "RAG optimization"]
-source: "https://github.com/joemekw-code/ozc"
-discovered_at: "2026-06-24T02:49:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- trust layer
+- decentralized filtering
+- AI information control
+- market dynamics
+- RAG optimization
+source: https://github.com/joemekw-code/ozc
+discovered_at: '2026-06-24T02:49:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

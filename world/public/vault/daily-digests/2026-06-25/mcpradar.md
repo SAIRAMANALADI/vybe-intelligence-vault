@@ -1,13 +1,25 @@
 ---
-title: "yatuk/mcpradar"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "SARIF", "CycloneDX", "NVD CVE API", "Mermaid.js", "GitHub Actions"]
+title: yatuk/mcpradar
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- SQLite
+- SARIF
+- CycloneDX
+- NVD CVE API
+- Mermaid.js
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP security", "prompt injection", "tool poisoning", "supply chain risk", "static analysis"]
-source: "https://github.com/yatuk/mcpradar"
-discovered_at: "2026-06-25T17:13:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP security
+- prompt injection
+- tool poisoning
+- supply chain risk
+- static analysis
+source: https://github.com/yatuk/mcpradar
+discovered_at: '2026-06-25T17:13:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

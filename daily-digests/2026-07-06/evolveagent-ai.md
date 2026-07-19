@@ -1,13 +1,25 @@
 ---
-title: "manit0700/evolveagent-ai"
-category: "Orchestrator"
-tech_stack: ["FastAPI", "React", "Python", "JSON", "MCP (Model Context Protocol)", "SQLite (implied by local persistence)", "TypeScript (implied by React)"]
+title: manit0700/evolveagent-ai
+category: daily-digests/2026-07-06
+tech_stack:
+- FastAPI
+- React
+- Python
+- JSON
+- MCP (Model Context Protocol)
+- SQLite (implied by local persistence)
+- TypeScript (implied by React)
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent systems", "local-first", "governed automation", "MCP connectors", "workspace memory"]
-source: "https://github.com/manit0700/evolveagent-ai"
-discovered_at: "2026-07-06T19:48:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- local-first
+- governed automation
+- MCP connectors
+- workspace memory
+source: https://github.com/manit0700/evolveagent-ai
+discovered_at: '2026-07-06T19:48:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "osauer/ibkr"
-category: "Tooling"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "IBKR TWS API", "CLI", "JSON", "GitHub Actions"]
+title: osauer/ibkr
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- IBKR TWS API
+- CLI
+- JSON
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["IBKR integration", "portfolio analysis", "MCP server", "trading tools", "agentic workflows"]
-source: "https://github.com/osauer/ibkr"
-discovered_at: "2026-07-08T05:46:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- IBKR integration
+- portfolio analysis
+- MCP server
+- trading tools
+- agentic workflows
+source: https://github.com/osauer/ibkr
+discovered_at: '2026-07-08T05:46:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

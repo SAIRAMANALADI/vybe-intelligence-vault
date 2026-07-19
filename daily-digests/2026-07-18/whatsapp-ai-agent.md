@@ -1,13 +1,25 @@
 ---
-title: "devthayron/whatsapp-ai-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "OpenAI API", "Evolution API", "SQLAlchemy", "SQLite", "Logging"]
+title: devthayron/whatsapp-ai-agent
+category: daily-digests/2026-07-18
+tech_stack:
+- Python
+- FastAPI
+- OpenAI API
+- Evolution API
+- SQLAlchemy
+- SQLite
+- Logging
 quality_score: 7
 rag_relevance: 6
-tags: ["WhatsApp automation", "conversational AI", "contextual memory", "multi-model integration", "chatbot"]
-source: "https://github.com/devthayron/whatsapp-ai-agent"
-discovered_at: "2026-07-15T12:14:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- WhatsApp automation
+- conversational AI
+- contextual memory
+- multi-model integration
+- chatbot
+source: https://github.com/devthayron/whatsapp-ai-agent
+discovered_at: '2026-07-15T12:14:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

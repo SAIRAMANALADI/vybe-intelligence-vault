@@ -1,13 +1,32 @@
 ---
-title: "sepivip/SeekerClaw"
-category: "Agent Framework"
-tech_stack: ["Kotlin", "Jetpack Compose", "Node.js", "Android 14+", "Solana (USDC, x402 payments)", "Claude", "OpenAI", "OpenRouter", "Telegram Bot API", "Discord Gateway", "MCP (Model Context Protocol)", "SQL.js", "BouncyCastle (Ed25519 signing)", "Android Keystore (AES-256-GCM encryption)"]
+title: sepivip/SeekerClaw
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Kotlin
+- Jetpack Compose
+- Node.js
+- Android 14+
+- Solana (USDC, x402 payments)
+- Claude
+- OpenAI
+- OpenRouter
+- Telegram Bot API
+- Discord Gateway
+- MCP (Model Context Protocol)
+- SQL.js
+- BouncyCastle (Ed25519 signing)
+- Android Keystore (AES-256-GCM encryption)
 quality_score: 9
 rag_relevance: 8
-tags: ["on-device AI agent", "Solana payments", "autonomous transactions", "multi-provider LLM", "Android foreground service"]
-source: "https://github.com/sepivip/SeekerClaw"
-discovered_at: "2026-06-23T13:42:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- on-device AI agent
+- Solana payments
+- autonomous transactions
+- multi-provider LLM
+- Android foreground service
+source: https://github.com/sepivip/SeekerClaw
+discovered_at: '2026-06-23T13:42:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

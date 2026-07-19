@@ -1,13 +1,30 @@
 ---
-title: "ak1458/ai-executive-seo-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Ollama", "SQLAlchemy", "Celery", "Redis", "Google Cloud APIs", "DataForSEO", "Playwright", "Pydantic", "SQLite", "Vanilla JavaScript"]
+title: ak1458/ai-executive-seo-agent
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- FastAPI
+- Ollama
+- SQLAlchemy
+- Celery
+- Redis
+- Google Cloud APIs
+- DataForSEO
+- Playwright
+- Pydantic
+- SQLite
+- Vanilla JavaScript
 quality_score: 8
 rag_relevance: 7
-tags: ["SEO automation", "autonomous agent", "local LLM", "Google APIs", "rank tracking"]
-source: "https://github.com/ak1458/ai-executive-seo-agent"
-discovered_at: "2026-06-25T00:09:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- SEO automation
+- autonomous agent
+- local LLM
+- Google APIs
+- rank tracking
+source: https://github.com/ak1458/ai-executive-seo-agent
+discovered_at: '2026-06-25T00:09:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

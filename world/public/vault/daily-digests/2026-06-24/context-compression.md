@@ -1,13 +1,22 @@
 ---
-title: "herreravalenz6620/context-compression"
-category: "Tooling"
-tech_stack: ["Python", "Windows", "Deterministic Compression", "Token Optimization"]
+title: herreravalenz6620/context-compression
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Windows
+- Deterministic Compression
+- Token Optimization
 quality_score: 6
 rag_relevance: 8
-tags: ["token compression", "AI agent optimization", "data reduction", "deterministic processing", "local processing"]
-source: "https://github.com/herreravalenz6620/context-compression"
-discovered_at: "2026-06-24T22:16:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- token compression
+- AI agent optimization
+- data reduction
+- deterministic processing
+- local processing
+source: https://github.com/herreravalenz6620/context-compression
+discovered_at: '2026-06-24T22:16:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

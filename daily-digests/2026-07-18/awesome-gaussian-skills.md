@@ -1,13 +1,27 @@
 ---
-title: "jaccen/Awesome-Gaussian-Skills"
-category: "Tooling"
-tech_stack: ["Python", "HTML/CSS/JavaScript", "Markdown", "Bash", "Claude Code", "Cursor", "Three.js", "CUDA", "Git"]
+title: jaccen/Awesome-Gaussian-Skills
+category: daily-digests/2026-07-18
+tech_stack:
+- Python
+- HTML/CSS/JavaScript
+- Markdown
+- Bash
+- Claude Code
+- Cursor
+- Three.js
+- CUDA
+- Git
 quality_score: 9
 rag_relevance: 7
-tags: ["3D Gaussian Splatting", "AI Agent Skills", "Computer Graphics", "Research Toolkit", "Method Catalog"]
-source: "https://github.com/jaccen/Awesome-Gaussian-Skills"
-discovered_at: "2026-07-14T16:13:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- 3D Gaussian Splatting
+- AI Agent Skills
+- Computer Graphics
+- Research Toolkit
+- Method Catalog
+source: https://github.com/jaccen/Awesome-Gaussian-Skills
+discovered_at: '2026-07-14T16:13:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

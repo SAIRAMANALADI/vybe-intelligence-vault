@@ -1,13 +1,27 @@
 ---
-title: "chuccp/go-ai-agent"
-category: "Orchestrator"
-tech_stack: ["Go", "Wails v2", "React", "TypeScript", "SQLite", "WebSocket", "Starlark", "DAG (Directed Acyclic Graph)", "IPC (Inter-Process Communication)"]
+title: chuccp/go-ai-agent
+category: daily-digests/2026-06-23
+tech_stack:
+- Go
+- Wails v2
+- React
+- TypeScript
+- SQLite
+- WebSocket
+- Starlark
+- DAG (Directed Acyclic Graph)
+- IPC (Inter-Process Communication)
 quality_score: 8
 rag_relevance: 7
-tags: ["AI workflow automation", "multi-model LLM", "visual flow designer", "desktop AI agent", "zero-setup deployment"]
-source: "https://github.com/chuccp/go-ai-agent"
-discovered_at: "2026-06-23T10:34:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI workflow automation
+- multi-model LLM
+- visual flow designer
+- desktop AI agent
+- zero-setup deployment
+source: https://github.com/chuccp/go-ai-agent
+discovered_at: '2026-06-23T10:34:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

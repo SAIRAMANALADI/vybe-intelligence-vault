@@ -1,13 +1,27 @@
 ---
-title: "VyomKulshrestha/Heliox-OS"
-category: "Agent Framework"
-tech_stack: ["Python", "Tauri", "Svelte", "Meta TRIBE v2", "LLM APIs (Gemini/OpenAI/Claude)", "Computer Vision", "Voice Recognition", "Rust (backend components)", "CI/CD (GitHub Actions)"]
+title: VyomKulshrestha/Heliox-OS
+category: daily-digests/2026-07-11
+tech_stack:
+- Python
+- Tauri
+- Svelte
+- Meta TRIBE v2
+- LLM APIs (Gemini/OpenAI/Claude)
+- Computer Vision
+- Voice Recognition
+- Rust (backend components)
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 7
-tags: ["AI Agent", "Multi-Agent Orchestrator", "Voice Control", "Computer Vision", "Proactive Autonomy"]
-source: "https://github.com/VyomKulshrestha/Heliox-OS"
-discovered_at: "2026-07-11T21:47:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent
+- Multi-Agent Orchestrator
+- Voice Control
+- Computer Vision
+- Proactive Autonomy
+source: https://github.com/VyomKulshrestha/Heliox-OS
+discovered_at: '2026-07-11T21:47:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

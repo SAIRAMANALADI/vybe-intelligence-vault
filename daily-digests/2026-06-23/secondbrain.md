@@ -1,13 +1,28 @@
 ---
-title: "SI-GMT/SecondBrain"
-category: "Tooling"
-tech_stack: ["Python", "Markdown", "MCP (Model Context Protocol)", "CLI Integration", "Obsidian", "Git", "Tkinter", "Inno Setup", "PowerShell", "Bash"]
+title: SI-GMT/SecondBrain
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Markdown
+- MCP (Model Context Protocol)
+- CLI Integration
+- Obsidian
+- Git
+- Tkinter
+- Inno Setup
+- PowerShell
+- Bash
 quality_score: 9
 rag_relevance: 8
-tags: ["persistent memory", "LLM context management", "cross-model continuity", "automated archiving", "Obsidian integration"]
-source: "https://github.com/SI-GMT/SecondBrain"
-discovered_at: "2026-06-23T10:35:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- LLM context management
+- cross-model continuity
+- automated archiving
+- Obsidian integration
+source: https://github.com/SI-GMT/SecondBrain
+discovered_at: '2026-06-23T10:35:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

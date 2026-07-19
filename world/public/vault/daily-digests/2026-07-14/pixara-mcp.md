@@ -1,13 +1,23 @@
 ---
-title: "pinkpixel-dev/pixara-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "OpenRouter API", "npm"]
+title: pinkpixel-dev/pixara-mcp
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- OpenRouter API
+- npm
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "image generation", "OpenRouter", "AI tools", "model integration"]
-source: "https://github.com/pinkpixel-dev/pixara-mcp"
-discovered_at: "2026-07-11T13:14:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- image generation
+- OpenRouter
+- AI tools
+- model integration
+source: https://github.com/pinkpixel-dev/pixara-mcp
+discovered_at: '2026-07-11T13:14:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

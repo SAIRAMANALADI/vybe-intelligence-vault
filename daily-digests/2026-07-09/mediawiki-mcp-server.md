@@ -1,13 +1,25 @@
 ---
-title: "ProfessionalWiki/MediaWiki-MCP-Server"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "MediaWiki API", "OAuth 2.1", "Docker", "Prometheus (for metrics)"]
+title: ProfessionalWiki/MediaWiki-MCP-Server
+category: daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- MediaWiki API
+- OAuth 2.1
+- Docker
+- Prometheus (for metrics)
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP server", "MediaWiki integration", "LLM tooling", "knowledge graph", "structured data"]
-source: "https://github.com/ProfessionalWiki/MediaWiki-MCP-Server"
-discovered_at: "2026-07-09T14:45:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- MediaWiki integration
+- LLM tooling
+- knowledge graph
+- structured data
+source: https://github.com/ProfessionalWiki/MediaWiki-MCP-Server
+discovered_at: '2026-07-09T14:45:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

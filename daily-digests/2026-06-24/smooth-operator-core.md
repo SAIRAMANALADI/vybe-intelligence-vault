@@ -1,13 +1,28 @@
 ---
-title: "SmooAI/smooth-operator-core"
-category: "Orchestrator"
-tech_stack: ["Rust", "Tokio", "async-trait", "serde_json", "anyhow", "LLM Providers (OpenAI-compatible)", "Graph Workflow Engine", "Checkpointing (Memory, SQLite, Postgres)", "Cost Tracking", "Human-in-the-Loop (HITL) Hooks"]
+title: SmooAI/smooth-operator-core
+category: daily-digests/2026-06-24
+tech_stack:
+- Rust
+- Tokio
+- async-trait
+- serde_json
+- anyhow
+- LLM Providers (OpenAI-compatible)
+- Graph Workflow Engine
+- Checkpointing (Memory, SQLite, Postgres)
+- Cost Tracking
+- Human-in-the-Loop (HITL) Hooks
 quality_score: 9
 rag_relevance: 9
-tags: ["agent-orchestration", "workflow-engine", "checkpointing", "cost-control", "deterministic-testing"]
-source: "https://github.com/SmooAI/smooth-operator-core"
-discovered_at: "2026-06-24T02:47:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent-orchestration
+- workflow-engine
+- checkpointing
+- cost-control
+- deterministic-testing
+source: https://github.com/SmooAI/smooth-operator-core
+discovered_at: '2026-06-24T02:47:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

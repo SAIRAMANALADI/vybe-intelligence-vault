@@ -1,13 +1,24 @@
 ---
-title: "sraveshnandan/mcpkit"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "CLI", "Vitest", "npm", "Bun"]
+title: sraveshnandan/mcpkit
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- Vitest
+- npm
+- Bun
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "Model Context Protocol", "CLI toolkit", "TypeScript", "server scaffolding"]
-source: "https://github.com/sraveshnandan/mcpkit"
-discovered_at: "2026-07-08T17:26:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- Model Context Protocol
+- CLI toolkit
+- TypeScript
+- server scaffolding
+source: https://github.com/sraveshnandan/mcpkit
+discovered_at: '2026-07-08T17:26:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

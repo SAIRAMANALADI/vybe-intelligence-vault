@@ -1,13 +1,22 @@
 ---
-title: "nak-nak1308/verifiable-intent"
-category: "Tooling"
-tech_stack: ["Python", "Cryptography", "Windows Installer", "Command Line Interface"]
+title: nak-nak1308/verifiable-intent
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- Cryptography
+- Windows Installer
+- Command Line Interface
 quality_score: 6
 rag_relevance: 7
-tags: ["agent authorization", "cryptographic verification", "AI security", "commercial transactions", "permission management"]
-source: "https://github.com/nak-nak1308/verifiable-intent"
-discovered_at: "2026-07-08T02:07:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent authorization
+- cryptographic verification
+- AI security
+- commercial transactions
+- permission management
+source: https://github.com/nak-nak1308/verifiable-intent
+discovered_at: '2026-07-08T02:07:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

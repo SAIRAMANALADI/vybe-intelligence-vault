@@ -1,13 +1,23 @@
 ---
-title: "genetic-shopping832/h1-brain"
-category: "Tooling"
-tech_stack: ["Python", "Windows", "HackerOne API", "AI Integration", "Local Server"]
+title: genetic-shopping832/h1-brain
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- Python
+- Windows
+- HackerOne API
+- AI Integration
+- Local Server
 quality_score: 6
 rag_relevance: 4
-tags: ["bug bounty automation", "AI security tools", "HackerOne integration", "vulnerability analysis", "non-technical security"]
-source: "https://github.com/genetic-shopping832/h1-brain"
-discovered_at: "2026-07-14T12:10:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- bug bounty automation
+- AI security tools
+- HackerOne integration
+- vulnerability analysis
+- non-technical security
+source: https://github.com/genetic-shopping832/h1-brain
+discovered_at: '2026-07-14T12:10:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

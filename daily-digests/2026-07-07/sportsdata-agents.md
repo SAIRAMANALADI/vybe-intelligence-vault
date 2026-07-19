@@ -1,13 +1,31 @@
 ---
-title: "DanielTomaro13/sportsdata-agents"
-category: "Agent Framework"
-tech_stack: ["Python", "LLM Agents", "MCP (Model Context Protocol)", "SQLite/PostgreSQL", "FastAPI", "Pydantic", "Alembic", "Ruff", "MyPy", "GitHub Actions", "Docker", "CLI/REPL", "Web UI (P4)"]
+title: DanielTomaro13/sportsdata-agents
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- LLM Agents
+- MCP (Model Context Protocol)
+- SQLite/PostgreSQL
+- FastAPI
+- Pydantic
+- Alembic
+- Ruff
+- MyPy
+- GitHub Actions
+- Docker
+- CLI/REPL
+- Web UI (P4)
 quality_score: 9
 rag_relevance: 7
-tags: ["sports analytics", "agentic workflows", "multi-agent systems", "data ingestion", "decision support"]
-source: "https://github.com/DanielTomaro13/sportsdata-agents"
-discovered_at: "2026-07-07T02:33:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- sports analytics
+- agentic workflows
+- multi-agent systems
+- data ingestion
+- decision support
+source: https://github.com/DanielTomaro13/sportsdata-agents
+discovered_at: '2026-07-07T02:33:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

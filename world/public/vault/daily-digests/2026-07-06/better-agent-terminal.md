@@ -1,13 +1,30 @@
 ---
-title: "tony1223/better-agent-terminal"
-category: "UI Component"
-tech_stack: ["Tauri", "Rust", "React", "TypeScript", "Node.js", "xterm.js", "SQLite", "Claude Code SDK", "OpenAI Codex SDK", "Tree-sitter (cx integration)", "Git", "Electron (legacy)"]
+title: tony1223/better-agent-terminal
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Tauri
+- Rust
+- React
+- TypeScript
+- Node.js
+- xterm.js
+- SQLite
+- Claude Code SDK
+- OpenAI Codex SDK
+- Tree-sitter (cx integration)
+- Git
+- Electron (legacy)
 quality_score: 9
 rag_relevance: 7
-tags: ["terminal", "AI agent integration", "multi-workspace", "Claude Code", "Codex"]
-source: "https://github.com/tony1223/better-agent-terminal"
-discovered_at: "2026-07-06T23:03:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- terminal
+- AI agent integration
+- multi-workspace
+- Claude Code
+- Codex
+source: https://github.com/tony1223/better-agent-terminal
+discovered_at: '2026-07-06T23:03:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "Mohdar1277/engram-cli"
-category: "Tooling"
-tech_stack: ["Rust", "SQLite", "Gemini Embedding 2", "Cohere Rerank", "FTS5 (Full-Text Search)", "BM25", "Reciprocal Rank Fusion (RRF)", "PDF extraction", "CLI framework"]
+title: Mohdar1277/engram-cli
+category: daily-digests/2026-07-12
+tech_stack:
+- Rust
+- SQLite
+- Gemini Embedding 2
+- Cohere Rerank
+- FTS5 (Full-Text Search)
+- BM25
+- Reciprocal Rank Fusion (RRF)
+- PDF extraction
+- CLI framework
 quality_score: 9
 rag_relevance: 9
-tags: ["persistent memory", "hybrid retrieval", "AI agent tooling", "offline knowledge store", "benchmarking"]
-source: "https://github.com/Mohdar1277/engram-cli"
-discovered_at: "2026-07-11T11:03:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- hybrid retrieval
+- AI agent tooling
+- offline knowledge store
+- benchmarking
+source: https://github.com/Mohdar1277/engram-cli
+discovered_at: '2026-07-11T11:03:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

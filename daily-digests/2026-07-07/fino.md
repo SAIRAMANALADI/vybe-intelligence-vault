@@ -1,13 +1,23 @@
 ---
-title: "tophole-alphabetizer167/fino"
-category: "Tooling"
-tech_stack: ["TypeScript", "Windows", "Claude API", "Banking APIs", "Local-first architecture"]
+title: tophole-alphabetizer167/fino
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Windows
+- Claude API
+- Banking APIs
+- Local-first architecture
 quality_score: 6
 rag_relevance: 4
-tags: ["personal finance", "local-first", "banking integration", "AI-driven queries", "Windows app"]
-source: "https://github.com/tophole-alphabetizer167/fino"
-discovered_at: "2026-07-07T20:52:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personal finance
+- local-first
+- banking integration
+- AI-driven queries
+- Windows app
+source: https://github.com/tophole-alphabetizer167/fino
+discovered_at: '2026-07-07T20:52:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

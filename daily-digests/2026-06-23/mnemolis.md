@@ -1,13 +1,27 @@
 ---
-title: "immortalbob/Mnemolis"
-category: "Orchestrator"
-tech_stack: ["Python", "Docker", "FastAPI", "SQLite", "LLM Integration", "APScheduler", "REST API", "MCP Server", "GitHub Actions"]
+title: immortalbob/Mnemolis
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Docker
+- FastAPI
+- SQLite
+- LLM Integration
+- APScheduler
+- REST API
+- MCP Server
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["knowledge fusion", "self-hosted", "multi-source routing", "MCP server", "homelab"]
-source: "https://github.com/immortalbob/Mnemolis"
-discovered_at: "2026-06-23T19:13:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- knowledge fusion
+- self-hosted
+- multi-source routing
+- MCP server
+- homelab
+source: https://github.com/immortalbob/Mnemolis
+discovered_at: '2026-06-23T19:13:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

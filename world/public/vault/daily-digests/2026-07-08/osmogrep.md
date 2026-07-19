@@ -1,13 +1,27 @@
 ---
-title: "kaushal07wick/OsmoGrep"
-category: "Agent Framework"
-tech_stack: ["Rust", "Terminal UI (TUI)", "OpenAI-compatible APIs", "Git", "vLLM", "Ollama", "MCP (Model Context Protocol)", "WebSockets", "TOML (for configuration)"]
+title: kaushal07wick/OsmoGrep
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Rust
+- Terminal UI (TUI)
+- OpenAI-compatible APIs
+- Git
+- vLLM
+- Ollama
+- MCP (Model Context Protocol)
+- WebSockets
+- TOML (for configuration)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent", "terminal UI", "code editing", "Git integration", "autonomous debugging"]
-source: "https://github.com/kaushal07wick/OsmoGrep"
-discovered_at: "2026-07-08T10:59:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- terminal UI
+- code editing
+- Git integration
+- autonomous debugging
+source: https://github.com/kaushal07wick/OsmoGrep
+discovered_at: '2026-07-08T10:59:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

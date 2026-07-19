@@ -1,13 +1,24 @@
 ---
-title: "blackwell-systems/gcf-proxy"
-category: "Tooling"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "JSON", "GCF (Graph Context Format)", "HTTP", "STDIO"]
+title: blackwell-systems/gcf-proxy
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- JSON
+- GCF (Graph Context Format)
+- HTTP
+- STDIO
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP proxy", "token optimization", "GCF format", "JSON compression", "AI workflow"]
-source: "https://github.com/blackwell-systems/gcf-proxy"
-discovered_at: "2026-06-23T19:15:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP proxy
+- token optimization
+- GCF format
+- JSON compression
+- AI workflow
+source: https://github.com/blackwell-systems/gcf-proxy
+discovered_at: '2026-06-23T19:15:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "Svmiizzz/conventional-commit-batcher"
-category: "Tooling"
-tech_stack: ["Python", "Git", "Windows", "CI/CD", "Git Hooks"]
+title: Svmiizzz/conventional-commit-batcher
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- Git
+- Windows
+- CI/CD
+- Git Hooks
 quality_score: 5
 rag_relevance: 4
-tags: ["commit management", "git automation", "conventional commits", "version control", "CI integration"]
-source: "https://github.com/Svmiizzz/conventional-commit-batcher"
-discovered_at: "2026-06-22T18:55:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- commit management
+- git automation
+- conventional commits
+- version control
+- CI integration
+source: https://github.com/Svmiizzz/conventional-commit-batcher
+discovered_at: '2026-06-22T18:55:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

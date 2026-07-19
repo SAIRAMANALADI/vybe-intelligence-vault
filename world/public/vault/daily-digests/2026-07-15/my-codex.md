@@ -1,13 +1,25 @@
 ---
-title: "sehoon787/my-codex"
-category: "Orchestrator"
-tech_stack: ["Python", "Shell", "TOML", "OpenAI Codex CLI", "MCP (Model Context Protocol)", "Git", "NPM"]
+title: sehoon787/my-codex
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- Python
+- Shell
+- TOML
+- OpenAI Codex CLI
+- MCP (Model Context Protocol)
+- Git
+- NPM
 quality_score: 9
 rag_relevance: 9
-tags: ["agent orchestration", "meta-orchestrator", "codex cli", "multi-agent systems", "autonomous task routing"]
-source: "https://github.com/sehoon787/my-codex"
-discovered_at: "2026-07-15T02:12:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent orchestration
+- meta-orchestrator
+- codex cli
+- multi-agent systems
+- autonomous task routing
+source: https://github.com/sehoon787/my-codex
+discovered_at: '2026-07-15T02:12:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

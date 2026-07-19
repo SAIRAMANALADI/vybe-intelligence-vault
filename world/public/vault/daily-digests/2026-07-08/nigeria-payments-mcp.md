@@ -1,13 +1,23 @@
 ---
-title: "junter1989k-ai/nigeria-payments-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "Paystack API", "HTTP/JSON-RPC"]
+title: junter1989k-ai/nigeria-payments-mcp
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- Paystack API
+- HTTP/JSON-RPC
 quality_score: 8
 rag_relevance: 7
-tags: ["Payments", "Nigeria", "MCP Server", "Paystack", "AI Agents"]
-source: "https://github.com/junter1989k-ai/nigeria-payments-mcp"
-discovered_at: "2026-07-08T19:16:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Payments
+- Nigeria
+- MCP Server
+- Paystack
+- AI Agents
+source: https://github.com/junter1989k-ai/nigeria-payments-mcp
+discovered_at: '2026-07-08T19:16:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

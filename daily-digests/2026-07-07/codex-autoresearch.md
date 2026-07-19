@@ -1,13 +1,22 @@
 ---
-title: "taxpayerreunification534/codex-autoresearch"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "Windows Desktop App", "Codex CLI"]
+title: taxpayerreunification534/codex-autoresearch
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Electron
+- Windows Desktop App
+- Codex CLI
 quality_score: 6
 rag_relevance: 7
-tags: ["task automation", "Codex persistence", "long-running tasks", "Windows GUI", "CLI wrapper"]
-source: "https://github.com/taxpayerreunification534/codex-autoresearch"
-discovered_at: "2026-07-07T20:51:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- task automation
+- Codex persistence
+- long-running tasks
+- Windows GUI
+- CLI wrapper
+source: https://github.com/taxpayerreunification534/codex-autoresearch
+discovered_at: '2026-07-07T20:51:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

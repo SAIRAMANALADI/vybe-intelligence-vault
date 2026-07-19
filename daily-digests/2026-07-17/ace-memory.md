@@ -1,13 +1,24 @@
 ---
-title: "rocky007cn/ace-memory"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "PVM (Persistent Vector Memory)", "Tkinter (Desktop Dashboard)", "FastAPI (Web Dashboard)", "JSONL (Memory Storage)"]
+title: rocky007cn/ace-memory
+category: daily-digests/2026-07-17
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- PVM (Persistent Vector Memory)
+- Tkinter (Desktop Dashboard)
+- FastAPI (Web Dashboard)
+- JSONL (Memory Storage)
 quality_score: 8
 rag_relevance: 9
-tags: ["persistent memory", "local AI", "MCP server", "context retention", "self-improving"]
-source: "https://github.com/rocky007cn/ace-memory"
-discovered_at: "2026-07-13T10:24:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- local AI
+- MCP server
+- context retention
+- self-improving
+source: https://github.com/rocky007cn/ace-memory
+discovered_at: '2026-07-13T10:24:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

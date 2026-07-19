@@ -1,13 +1,22 @@
 ---
-title: "vp461876/claude-brief"
-category: "Tooling"
-tech_stack: ["Windows API", "Shell scripting", "Electron (inferred)", "C# (inferred)"]
+title: vp461876/claude-brief
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Windows API
+- Shell scripting
+- Electron (inferred)
+- C# (inferred)
 quality_score: 5
 rag_relevance: 4
-tags: ["session tracking", "productivity tool", "Claude Code", "workflow management", "desktop utility"]
-source: "https://github.com/vp461876/claude-brief"
-discovered_at: "2026-06-24T06:43:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- session tracking
+- productivity tool
+- Claude Code
+- workflow management
+- desktop utility
+source: https://github.com/vp461876/claude-brief
+discovered_at: '2026-06-24T06:43:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

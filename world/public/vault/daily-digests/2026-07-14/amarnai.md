@@ -1,13 +1,31 @@
 ---
-title: "amarnai/amarnai"
-category: "Tooling"
-tech_stack: ["TypeScript", "Next.js", "Node.js", "PostgreSQL", "Redis", "Docker", "Ollama", "Gemini", "OpenAI", "Google Cloud Pub/Sub", "Microsoft Graph", "NextAuth.js", "pnpm"]
+title: amarnai/amarnai
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- TypeScript
+- Next.js
+- Node.js
+- PostgreSQL
+- Redis
+- Docker
+- Ollama
+- Gemini
+- OpenAI
+- Google Cloud Pub/Sub
+- Microsoft Graph
+- NextAuth.js
+- pnpm
 quality_score: 9
 rag_relevance: 7
-tags: ["email triage", "self-hosted", "AI sorting", "Gmail integration", "read-only"]
-source: "https://github.com/amarnai/amarnai"
-discovered_at: "2026-07-11T13:14:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- email triage
+- self-hosted
+- AI sorting
+- Gmail integration
+- read-only
+source: https://github.com/amarnai/amarnai
+discovered_at: '2026-07-11T13:14:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

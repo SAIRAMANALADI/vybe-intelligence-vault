@@ -1,13 +1,24 @@
 ---
-title: "Dave-London/Pare"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "JSON Schema", "CI/CD (GitHub Actions)", "Code Coverage (codecov)"]
+title: Dave-London/Pare
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- JSON Schema
+- CI/CD (GitHub Actions)
+- Code Coverage (codecov)
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP", "structured output", "CLI parsing", "AI agents", "developer tools"]
-source: "https://github.com/Dave-London/Pare"
-discovered_at: "2026-07-14T16:14:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- structured output
+- CLI parsing
+- AI agents
+- developer tools
+source: https://github.com/Dave-London/Pare
+discovered_at: '2026-07-14T16:14:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

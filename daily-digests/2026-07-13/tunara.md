@@ -1,13 +1,28 @@
 ---
-title: "24kHandsome1201/tunara"
-category: "Tooling"
-tech_stack: ["Tauri 2", "React 19", "Rust", "TypeScript 5.8", "xterm.js 6", "Zustand 5", "Vite 7", "portable-pty", "git2", "tokio"]
+title: 24kHandsome1201/tunara
+category: daily-digests/2026-07-13
+tech_stack:
+- Tauri 2
+- React 19
+- Rust
+- TypeScript 5.8
+- xterm.js 6
+- Zustand 5
+- Vite 7
+- portable-pty
+- git2
+- tokio
 quality_score: 9
 rag_relevance: 6
-tags: ["terminal", "AI agent detection", "Git diff review", "Tauri app", "local-first"]
-source: "https://github.com/24kHandsome1201/tunara"
-discovered_at: "2026-07-10T23:08:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- terminal
+- AI agent detection
+- Git diff review
+- Tauri app
+- local-first
+source: https://github.com/24kHandsome1201/tunara
+discovered_at: '2026-07-10T23:08:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

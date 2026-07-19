@@ -1,13 +1,25 @@
 ---
-title: "a21989s/ievoide"
-category: "Agent Framework"
-tech_stack: ["Electron", "JavaScript", "Claude Agent SDK", "Node.js", "Git", "Mermaid.js", "PDF.js"]
+title: a21989s/ievoide
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Electron
+- JavaScript
+- Claude Agent SDK
+- Node.js
+- Git
+- Mermaid.js
+- PDF.js
 quality_score: 9
 rag_relevance: 8
-tags: ["self-evolving", "Claude Code", "IDE", "agentic development", "git integration"]
-source: "https://github.com/a21989s/ievoide"
-discovered_at: "2026-06-24T10:19:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-evolving
+- Claude Code
+- IDE
+- agentic development
+- git integration
+source: https://github.com/a21989s/ievoide
+discovered_at: '2026-06-24T10:19:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

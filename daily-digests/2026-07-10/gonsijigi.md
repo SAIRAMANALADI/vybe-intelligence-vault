@@ -1,13 +1,29 @@
 ---
-title: "gonsijigi/gonsijigi"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "LangGraph", "vLLM", "PostgreSQL", "pgvector", "Redis", "Docker", "Kubernetes", "GitHub Actions", "MCP (Model Context Protocol)"]
+title: gonsijigi/gonsijigi
+category: daily-digests/2026-07-10
+tech_stack:
+- Python
+- FastAPI
+- LangGraph
+- vLLM
+- PostgreSQL
+- pgvector
+- Redis
+- Docker
+- Kubernetes
+- GitHub Actions
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 9
-tags: ["RAG", "financial disclosures", "real-time notifications", "AI agent", "guardrails"]
-source: "https://github.com/gonsijigi/gonsijigi"
-discovered_at: "2026-07-10T06:52:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RAG
+- financial disclosures
+- real-time notifications
+- AI agent
+- guardrails
+source: https://github.com/gonsijigi/gonsijigi
+discovered_at: '2026-07-10T06:52:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "cniska/acolyte"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "Node.js", "Zod", "React", "TUI (Terminal UI)", "MCP (Model Context Protocol)"]
+title: cniska/acolyte
+category: daily-digests/2026-07-14
+tech_stack:
+- TypeScript
+- Bun
+- Node.js
+- Zod
+- React
+- TUI (Terminal UI)
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 7
-tags: ["AI coding agent", "terminal-first", "developer tool", "observable execution", "on-demand memory"]
-source: "https://github.com/cniska/acolyte"
-discovered_at: "2026-07-12T08:15:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding agent
+- terminal-first
+- developer tool
+- observable execution
+- on-demand memory
+source: https://github.com/cniska/acolyte
+discovered_at: '2026-07-12T08:15:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

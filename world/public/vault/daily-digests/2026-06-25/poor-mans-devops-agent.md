@@ -1,13 +1,24 @@
 ---
-title: "vector4wang/poor-mans-devops-agent"
-category: "Tooling"
-tech_stack: ["Python", "OpenAI API", "Docker", "Kubernetes", "Subprocess", "Natural Language Processing"]
+title: vector4wang/poor-mans-devops-agent
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- OpenAI API
+- Docker
+- Kubernetes
+- Subprocess
+- Natural Language Processing
 quality_score: 9
 rag_relevance: 8
-tags: ["AI debugging", "container troubleshooting", "LLM integration", "production diagnostics", "zero-dependency"]
-source: "https://github.com/vector4wang/poor-mans-devops-agent"
-discovered_at: "2026-06-25T07:25:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI debugging
+- container troubleshooting
+- LLM integration
+- production diagnostics
+- zero-dependency
+source: https://github.com/vector4wang/poor-mans-devops-agent
+discovered_at: '2026-06-25T07:25:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

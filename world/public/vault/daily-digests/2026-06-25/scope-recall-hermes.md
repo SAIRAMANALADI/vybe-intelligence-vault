@@ -1,13 +1,27 @@
 ---
-title: "410979729/scope-recall-hermes"
-category: "Agent Framework"
-tech_stack: ["Python", "SQLite", "LanceDB", "Hermes", "RRF (Reciprocal Rank Fusion)", "BM25", "FTS (Full-Text Search)", "JSON", "GitHub Actions"]
+title: 410979729/scope-recall-hermes
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- SQLite
+- LanceDB
+- Hermes
+- RRF (Reciprocal Rank Fusion)
+- BM25
+- FTS (Full-Text Search)
+- JSON
+- GitHub Actions
 quality_score: 9
 rag_relevance: 9
-tags: ["memory management", "durable recall", "hybrid retrieval", "agent context isolation", "SQLite truth store"]
-source: "https://github.com/410979729/scope-recall-hermes"
-discovered_at: "2026-06-25T14:13:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory management
+- durable recall
+- hybrid retrieval
+- agent context isolation
+- SQLite truth store
+source: https://github.com/410979729/scope-recall-hermes
+discovered_at: '2026-06-25T14:13:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

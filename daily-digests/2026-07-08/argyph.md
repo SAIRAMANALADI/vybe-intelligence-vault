@@ -1,13 +1,25 @@
 ---
-title: "ezzy1630/Argyph"
-category: "Agent Framework"
-tech_stack: ["Rust", "Tree-sitter", "LanceDB", "ONNX Runtime", "MCP (Model Context Protocol)", "BM25", "Embedding Models"]
+title: ezzy1630/Argyph
+category: daily-digests/2026-07-08
+tech_stack:
+- Rust
+- Tree-sitter
+- LanceDB
+- ONNX Runtime
+- MCP (Model Context Protocol)
+- BM25
+- Embedding Models
 quality_score: 9
 rag_relevance: 10
-tags: ["local-first", "symbol graph", "semantic search", "MCP server", "code indexing"]
-source: "https://github.com/ezzy1630/Argyph"
-discovered_at: "2026-07-08T21:02:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first
+- symbol graph
+- semantic search
+- MCP server
+- code indexing
+source: https://github.com/ezzy1630/Argyph
+discovered_at: '2026-07-08T21:02:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

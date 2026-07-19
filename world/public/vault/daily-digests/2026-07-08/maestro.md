@@ -1,13 +1,23 @@
 ---
-title: "edycutjong/maestro"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Constellation A2A (croo-core)", "Vitest", "Docker"]
+title: edycutjong/maestro
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- Constellation A2A (croo-core)
+- Vitest
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent orchestration", "on-chain agents", "quality assurance", "autonomous hiring", "escrow-backed workflows"]
-source: "https://github.com/edycutjong/maestro"
-discovered_at: "2026-07-08T02:06:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent orchestration
+- on-chain agents
+- quality assurance
+- autonomous hiring
+- escrow-backed workflows
+source: https://github.com/edycutjong/maestro
+discovered_at: '2026-07-08T02:06:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

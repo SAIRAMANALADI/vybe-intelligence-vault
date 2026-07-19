@@ -1,13 +1,24 @@
 ---
-title: "heidihelena/citevahti"
-category: "Tooling"
-tech_stack: ["Python", "Ollama (for local AI models)", "PyInstaller (for packaging)", "WebView/GTK (for native desktop UI)", "Zotero (integration)", "Markdown/HTML/Word (report generation)"]
+title: heidihelena/citevahti
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Ollama (for local AI models)
+- PyInstaller (for packaging)
+- WebView/GTK (for native desktop UI)
+- Zotero (integration)
+- Markdown/HTML/Word (report generation)
 quality_score: 9
 rag_relevance: 7
-tags: ["citation auditing", "research integrity", "local-first", "evidence mapping", "manuscript review"]
-source: "https://github.com/heidihelena/citevahti"
-discovered_at: "2026-06-24T20:52:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- citation auditing
+- research integrity
+- local-first
+- evidence mapping
+- manuscript review
+source: https://github.com/heidihelena/citevahti
+discovered_at: '2026-06-24T20:52:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

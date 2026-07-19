@@ -1,13 +1,22 @@
 ---
-title: "dduva2660/uiacli"
-category: "Tooling"
-tech_stack: ["Microsoft UI Automation", "JSON", "Windows API", "Python"]
+title: dduva2660/uiacli
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Microsoft UI Automation
+- JSON
+- Windows API
+- Python
 quality_score: 4
 rag_relevance: 7
-tags: ["Windows automation", "AI agent control", "UI interaction", "JSON commands", "desktop automation"]
-source: "https://github.com/dduva2660/uiacli"
-discovered_at: "2026-07-06T19:48:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Windows automation
+- AI agent control
+- UI interaction
+- JSON commands
+- desktop automation
+source: https://github.com/dduva2660/uiacli
+discovered_at: '2026-07-06T19:48:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

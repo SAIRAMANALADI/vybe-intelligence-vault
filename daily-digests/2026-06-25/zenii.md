@@ -1,13 +1,27 @@
 ---
-title: "sprklai/zenii"
-category: "Orchestrator"
-tech_stack: ["Rust", "Axum (HTTP/WebSocket server)", "SQLite", "BM25 (for memory search)", "Tauri (desktop app)", "Tokio (async runtime)", "OpenAPI/Swagger (API docs)", "Cargo (build system)", "GitHub Actions (CI/CD)"]
+title: sprklai/zenii
+category: daily-digests/2026-06-25
+tech_stack:
+- Rust
+- Axum (HTTP/WebSocket server)
+- SQLite
+- BM25 (for memory search)
+- Tauri (desktop app)
+- Tokio (async runtime)
+- OpenAPI/Swagger (API docs)
+- Cargo (build system)
+- GitHub Actions (CI/CD)
 quality_score: 9
 rag_relevance: 8
-tags: ["local AI backend", "multi-interface orchestration", "persistent memory", "agent framework", "MCP integration"]
-source: "https://github.com/sprklai/zenii"
-discovered_at: "2026-06-25T00:13:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local AI backend
+- multi-interface orchestration
+- persistent memory
+- agent framework
+- MCP integration
+source: https://github.com/sprklai/zenii
+discovered_at: '2026-06-25T00:13:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

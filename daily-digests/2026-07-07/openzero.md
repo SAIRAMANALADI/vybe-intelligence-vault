@@ -1,13 +1,28 @@
 ---
-title: "ResearchForumOnline/OpenZero"
-category: "Orchestrator"
-tech_stack: ["Python", "Flask", "Ollama", "GGUF", "Piper", "Voicebox", "Matrix", "Node.js", "PM2", "Shell Scripting"]
+title: ResearchForumOnline/OpenZero
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- Flask
+- Ollama
+- GGUF
+- Piper
+- Voicebox
+- Matrix
+- Node.js
+- PM2
+- Shell Scripting
 quality_score: 9
 rag_relevance: 9
-tags: ["self-hosted AI", "local LLM server", "OpenAI-compatible API", "CPU-friendly", "automation runtime"]
-source: "https://github.com/ResearchForumOnline/OpenZero"
-discovered_at: "2026-07-07T18:58:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-hosted AI
+- local LLM server
+- OpenAI-compatible API
+- CPU-friendly
+- automation runtime
+source: https://github.com/ResearchForumOnline/OpenZero
+discovered_at: '2026-07-07T18:58:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

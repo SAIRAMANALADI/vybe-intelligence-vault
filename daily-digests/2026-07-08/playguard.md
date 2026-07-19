@@ -1,13 +1,25 @@
 ---
-title: "ZenyaDAR/PlayGuard"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Playwright", "MCP (Model Context Protocol)", "Figma API", "Jest (testing)", "GitHub Actions (CI/CD)"]
+title: ZenyaDAR/PlayGuard
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- Playwright
+- MCP (Model Context Protocol)
+- Figma API
+- Jest (testing)
+- GitHub Actions (CI/CD)
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP proxy", "session recovery", "token optimization", "browser automation", "Figma integration"]
-source: "https://github.com/ZenyaDAR/PlayGuard"
-discovered_at: "2026-07-08T22:14:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP proxy
+- session recovery
+- token optimization
+- browser automation
+- Figma integration
+source: https://github.com/ZenyaDAR/PlayGuard
+discovered_at: '2026-07-08T22:14:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

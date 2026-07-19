@@ -1,13 +1,28 @@
 ---
-title: "ronilowtoned410/mcp_reverse_engineering"
-category: "Tooling"
-tech_stack: ["Python", "Windows API", "Angr", "Binwalk", "Frida", "Ghidra", "GDB", "Radare2", "UPX", "C/C++ (for compiled components)"]
+title: ronilowtoned410/mcp_reverse_engineering
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Windows API
+- Angr
+- Binwalk
+- Frida
+- Ghidra
+- GDB
+- Radare2
+- UPX
+- C/C++ (for compiled components)
 quality_score: 7
 rag_relevance: 6
-tags: ["reverse engineering", "file analysis", "Windows utilities", "sandboxed tools", "binary inspection"]
-source: "https://github.com/ronilowtoned410/mcp_reverse_engineering"
-discovered_at: "2026-07-07T23:56:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- reverse engineering
+- file analysis
+- Windows utilities
+- sandboxed tools
+- binary inspection
+source: https://github.com/ronilowtoned410/mcp_reverse_engineering
+discovered_at: '2026-07-07T23:56:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

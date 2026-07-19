@@ -1,13 +1,25 @@
 ---
-title: "Mary2241/seo-skills-agent-toolbox"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude API", "OpenAI API", "SE Ranking MCP Server", "Flask (for optional web UI)", "Mermaid.js (for architecture diagrams)", "YAML (for configuration)"]
+title: Mary2241/seo-skills-agent-toolbox
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Claude API
+- OpenAI API
+- SE Ranking MCP Server
+- Flask (for optional web UI)
+- Mermaid.js (for architecture diagrams)
+- YAML (for configuration)
 quality_score: 9
 rag_relevance: 7
-tags: ["SEO automation", "Claude Agent", "Content strategy", "Backlink analysis", "Schema markup"]
-source: "https://github.com/Mary2241/seo-skills-agent-toolbox"
-discovered_at: "2026-06-23T16:33:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- SEO automation
+- Claude Agent
+- Content strategy
+- Backlink analysis
+- Schema markup
+source: https://github.com/Mary2241/seo-skills-agent-toolbox
+discovered_at: '2026-06-23T16:33:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

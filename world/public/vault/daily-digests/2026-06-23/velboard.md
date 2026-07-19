@@ -1,13 +1,22 @@
 ---
-title: "Cazzy121/velboard"
-category: "UI Component"
-tech_stack: ["JavaScript", "Windows Desktop Application", "OpenClaw", "Vel Framework"]
+title: Cazzy121/velboard
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- JavaScript
+- Windows Desktop Application
+- OpenClaw
+- Vel Framework
 quality_score: 7
 rag_relevance: 6
-tags: ["AI agent monitoring", "real-time dashboard", "Vel plugin", "OpenClaw integration", "Windows desktop tool"]
-source: "https://github.com/Cazzy121/velboard"
-discovered_at: "2026-06-23T23:06:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent monitoring
+- real-time dashboard
+- Vel plugin
+- OpenClaw integration
+- Windows desktop tool
+source: https://github.com/Cazzy121/velboard
+discovered_at: '2026-06-23T23:06:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

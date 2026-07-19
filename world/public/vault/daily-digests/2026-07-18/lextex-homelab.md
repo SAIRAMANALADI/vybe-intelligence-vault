@@ -1,13 +1,27 @@
 ---
-title: "AniketPaul44/lextex-homelab"
-category: "Tooling"
-tech_stack: ["WSL2", "Ubuntu", "Bash", "Python", "Tailscale", "Cloudflare Tunnel", "OpenClaw", "Dextex WiFi", "Linux System Monitoring"]
+title: AniketPaul44/lextex-homelab
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- WSL2
+- Ubuntu
+- Bash
+- Python
+- Tailscale
+- Cloudflare Tunnel
+- OpenClaw
+- Dextex WiFi
+- Linux System Monitoring
 quality_score: 7
 rag_relevance: 4
-tags: ["homelab", "WSL2", "VPN", "AI agent", "system monitoring"]
-source: "https://github.com/AniketPaul44/lextex-homelab"
-discovered_at: "2026-07-12T15:58:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- homelab
+- WSL2
+- VPN
+- AI agent
+- system monitoring
+source: https://github.com/AniketPaul44/lextex-homelab
+discovered_at: '2026-07-12T15:58:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

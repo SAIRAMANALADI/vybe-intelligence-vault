@@ -1,13 +1,25 @@
 ---
-title: "leorsousa05/DiamondBlock"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "MCP (Model Context Protocol)", "Xenova/all-MiniLM-L6-v2 (embeddings)", "OpenAI API (optional)", "CLI (Rich tables, colors, spinners)"]
+title: leorsousa05/DiamondBlock
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- MCP (Model Context Protocol)
+- Xenova/all-MiniLM-L6-v2 (embeddings)
+- OpenAI API (optional)
+- CLI (Rich tables, colors, spinners)
 quality_score: 9
 rag_relevance: 9
-tags: ["semantic memory", "local-first", "MCP server", "coding agents", "persistent context"]
-source: "https://github.com/leorsousa05/DiamondBlock"
-discovered_at: "2026-07-09T19:31:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- semantic memory
+- local-first
+- MCP server
+- coding agents
+- persistent context
+source: https://github.com/leorsousa05/DiamondBlock
+discovered_at: '2026-07-09T19:31:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

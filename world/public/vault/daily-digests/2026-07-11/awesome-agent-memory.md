@@ -1,13 +1,23 @@
 ---
-title: "TeleAI-UAGI/Awesome-Agent-Memory"
-category: "Tooling"
-tech_stack: ["Python", "Markdown", "GitHub", "ArXiv", "Web Frameworks (for docs)"]
+title: TeleAI-UAGI/Awesome-Agent-Memory
+category: world/public/vault/daily-digests/2026-07-11
+tech_stack:
+- Python
+- Markdown
+- GitHub
+- ArXiv
+- Web Frameworks (for docs)
 quality_score: 9
 rag_relevance: 8
-tags: ["agent memory", "long-term context", "LLM tools", "curated resources", "AI agent development"]
-source: "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory"
-discovered_at: "2026-07-11T11:03:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent memory
+- long-term context
+- LLM tools
+- curated resources
+- AI agent development
+source: https://github.com/TeleAI-UAGI/Awesome-Agent-Memory
+discovered_at: '2026-07-11T11:03:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

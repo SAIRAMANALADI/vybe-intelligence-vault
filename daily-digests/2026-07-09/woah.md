@@ -1,13 +1,26 @@
 ---
-title: "generalbusiness-ai/woah"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "LambdaMOO", "Cloudflare Workers", "Durable Objects", "SQLite", "REST/WebSocket APIs", "MCP (Model Context Protocol)", "Git"]
+title: generalbusiness-ai/woah
+category: daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- LambdaMOO
+- Cloudflare Workers
+- Durable Objects
+- SQLite
+- REST/WebSocket APIs
+- MCP (Model Context Protocol)
+- Git
 quality_score: 8
 rag_relevance: 9
-tags: ["virtual world", "AI-human coordination", "distributed VM", "MCP server", "collaborative workspace"]
-source: "https://github.com/generalbusiness-ai/woah"
-discovered_at: "2026-07-09T00:06:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- virtual world
+- AI-human coordination
+- distributed VM
+- MCP server
+- collaborative workspace
+source: https://github.com/generalbusiness-ai/woah
+discovered_at: '2026-07-09T00:06:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

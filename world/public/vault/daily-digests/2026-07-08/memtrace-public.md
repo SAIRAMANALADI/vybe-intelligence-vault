@@ -1,13 +1,26 @@
 ---
-title: "syncable-dev/memtrace-public"
-category: "Vector DB"
-tech_stack: ["Rust", "Tree-sitter", "MCP (Model Context Protocol)", "Tantivy (BM25)", "Vector embeddings", "Louvain algorithm", "Cypher (graph queries)", "Node.js (npm package)"]
+title: syncable-dev/memtrace-public
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Rust
+- Tree-sitter
+- MCP (Model Context Protocol)
+- Tantivy (BM25)
+- Vector embeddings
+- Louvain algorithm
+- Cypher (graph queries)
+- Node.js (npm package)
 quality_score: 9
 rag_relevance: 10
-tags: ["structural memory", "bi-temporal graph", "code intelligence", "MCP-native", "zero LLM calls"]
-source: "https://github.com/syncable-dev/memtrace-public"
-discovered_at: "2026-07-08T15:16:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- structural memory
+- bi-temporal graph
+- code intelligence
+- MCP-native
+- zero LLM calls
+source: https://github.com/syncable-dev/memtrace-public
+discovered_at: '2026-07-08T15:16:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

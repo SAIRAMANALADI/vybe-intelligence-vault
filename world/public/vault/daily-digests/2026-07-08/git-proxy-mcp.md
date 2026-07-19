@@ -1,13 +1,26 @@
 ---
-title: "MatejGomboc/git-proxy-mcp"
-category: "Tooling"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "libgit2", "Git", "SSH", "HTTP/HTTPS", "SOCKS5 Proxy", "Git LFS"]
+title: MatejGomboc/git-proxy-mcp
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- libgit2
+- Git
+- SSH
+- HTTP/HTTPS
+- SOCKS5 Proxy
+- Git LFS
 quality_score: 9
 rag_relevance: 8
-tags: ["Git integration", "AI assistant", "secure proxy", "private repositories", "MCP server"]
-source: "https://github.com/MatejGomboc/git-proxy-mcp"
-discovered_at: "2026-07-08T17:27:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Git integration
+- AI assistant
+- secure proxy
+- private repositories
+- MCP server
+source: https://github.com/MatejGomboc/git-proxy-mcp
+discovered_at: '2026-07-08T17:27:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

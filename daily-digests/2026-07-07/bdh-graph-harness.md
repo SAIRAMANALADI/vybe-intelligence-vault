@@ -1,13 +1,28 @@
 ---
-title: "albidev/bdh-graph-harness"
-category: "Vector DB"
-tech_stack: ["Python", "Ollama", "nomic-embed-text-v2-moe", "ChromaDB", "vis.js", "FastMCP", "aiohttp", "Obsidian", "BM25 (optional)", "OpenRouter API (optional)"]
+title: albidev/bdh-graph-harness
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- Ollama
+- nomic-embed-text-v2-moe
+- ChromaDB
+- vis.js
+- FastMCP
+- aiohttp
+- Obsidian
+- BM25 (optional)
+- OpenRouter API (optional)
 quality_score: 9
 rag_relevance: 10
-tags: ["knowledge graph", "Hebbian learning", "Obsidian integration", "real-time visualization", "biologically-inspired AI"]
-source: "https://github.com/albidev/bdh-graph-harness"
-discovered_at: "2026-07-07T13:18:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- knowledge graph
+- Hebbian learning
+- Obsidian integration
+- real-time visualization
+- biologically-inspired AI
+source: https://github.com/albidev/bdh-graph-harness
+discovered_at: '2026-07-07T13:18:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

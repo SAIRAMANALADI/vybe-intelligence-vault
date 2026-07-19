@@ -1,13 +1,26 @@
 ---
-title: "while-coder/sbot"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Docker", "MCP (Model Context Protocol)", "Vector DB (for memory)", "React (for web UI)", "REST API", "WebSocket"]
+title: while-coder/sbot
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- Docker
+- MCP (Model Context Protocol)
+- Vector DB (for memory)
+- React (for web UI)
+- REST API
+- WebSocket
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agents", "self-hosted", "modular framework", "multi-LLM", "MCP tools"]
-source: "https://github.com/while-coder/sbot"
-discovered_at: "2026-06-24T10:18:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- self-hosted
+- modular framework
+- multi-LLM
+- MCP tools
+source: https://github.com/while-coder/sbot
+discovered_at: '2026-06-24T10:18:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

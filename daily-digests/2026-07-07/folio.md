@@ -1,13 +1,26 @@
 ---
-title: "aion-lumen/folio"
-category: "Orchestrator"
-tech_stack: ["SvelteKit 2", "Svelte 5 (Runes)", "Tailwind CSS 4", "SQLite (better-sqlite3)", "Hermes Agent (Nous Research)", "Cytoscape.js", "Node.js 20+", "Python (for multi-agent-lab integration)"]
+title: aion-lumen/folio
+category: daily-digests/2026-07-07
+tech_stack:
+- SvelteKit 2
+- Svelte 5 (Runes)
+- Tailwind CSS 4
+- SQLite (better-sqlite3)
+- Hermes Agent (Nous Research)
+- Cytoscape.js
+- Node.js 20+
+- Python (for multi-agent-lab integration)
 quality_score: 8
 rag_relevance: 9
-tags: ["local-first", "markdown vault", "AI agent", "strategic planning", "privacy-focused"]
-source: "https://github.com/aion-lumen/folio"
-discovered_at: "2026-07-07T18:58:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first
+- markdown vault
+- AI agent
+- strategic planning
+- privacy-focused
+source: https://github.com/aion-lumen/folio
+discovered_at: '2026-07-07T18:58:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

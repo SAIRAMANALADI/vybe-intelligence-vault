@@ -1,13 +1,25 @@
 ---
-title: "byh3071-cpu/vhk"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "Git", "GitHub CLI", "npm/pnpm/yarn"]
+title: byh3071-cpu/vhk
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- MCP (Model Context Protocol)
+- Git
+- GitHub CLI
+- npm/pnpm/yarn
 quality_score: 9
 rag_relevance: 8
-tags: ["AI coding workflow", "context management", "verification framework", "multi-agent coordination", "Korean-language CLI"]
-source: "https://github.com/byh3071-cpu/vhk"
-discovered_at: "2026-06-23T02:44:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding workflow
+- context management
+- verification framework
+- multi-agent coordination
+- Korean-language CLI
+source: https://github.com/byh3071-cpu/vhk
+discovered_at: '2026-06-23T02:44:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

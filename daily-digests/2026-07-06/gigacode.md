@@ -1,13 +1,26 @@
 ---
-title: "ChristopherSims/GigaCode"
-category: "Tooling"
-tech_stack: ["Python", "PyTorch", "FAISS", "CUDA", "Sentence Transformers", "FastAPI", "Docker", "AST Parsing"]
+title: ChristopherSims/GigaCode
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- PyTorch
+- FAISS
+- CUDA
+- Sentence Transformers
+- FastAPI
+- Docker
+- AST Parsing
 quality_score: 9
 rag_relevance: 9
-tags: ["code embedding", "semantic search", "AI agent tools", "GPU acceleration", "code analysis"]
-source: "https://github.com/ChristopherSims/GigaCode"
-discovered_at: "2026-07-06T23:03:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code embedding
+- semantic search
+- AI agent tools
+- GPU acceleration
+- code analysis
+source: https://github.com/ChristopherSims/GigaCode
+discovered_at: '2026-07-06T23:03:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

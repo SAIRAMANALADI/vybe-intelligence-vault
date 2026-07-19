@@ -1,13 +1,24 @@
 ---
-title: "zzzmada/permear"
-category: "Tooling"
-tech_stack: ["Python", "Home Assistant", "SQLite", "HACS", "Telegram Bot API", "LLM Integration (conversation & ai_task providers)"]
+title: zzzmada/permear
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- Home Assistant
+- SQLite
+- HACS
+- Telegram Bot API
+- LLM Integration (conversation & ai_task providers)
 quality_score: 8
 rag_relevance: 6
-tags: ["Home Automation", "Event Filtering", "Memory Management", "Attention Mechanism", "Privacy-First"]
-source: "https://github.com/zzzmada/permear"
-discovered_at: "2026-07-07T13:16:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Home Automation
+- Event Filtering
+- Memory Management
+- Attention Mechanism
+- Privacy-First
+source: https://github.com/zzzmada/permear
+discovered_at: '2026-07-07T13:16:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

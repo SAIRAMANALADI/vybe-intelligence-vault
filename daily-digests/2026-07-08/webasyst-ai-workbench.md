@@ -1,13 +1,26 @@
 ---
-title: "amit491k-del/webasyst-ai-workbench"
-category: "Orchestrator"
-tech_stack: ["Node.js", "Python", "Webasyst Framework", "OpenAI API", "Claude API", "Docker", "Mermaid.js", "JSON Schema"]
+title: amit491k-del/webasyst-ai-workbench
+category: daily-digests/2026-07-08
+tech_stack:
+- Node.js
+- Python
+- Webasyst Framework
+- OpenAI API
+- Claude API
+- Docker
+- Mermaid.js
+- JSON Schema
 quality_score: 8
 rag_relevance: 7
-tags: ["AI-driven development", "Webasyst automation", "modular ecosystem", "natural language processing", "plugin generation"]
-source: "https://github.com/amit491k-del/webasyst-ai-workbench"
-discovered_at: "2026-07-08T22:15:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-driven development
+- Webasyst automation
+- modular ecosystem
+- natural language processing
+- plugin generation
+source: https://github.com/amit491k-del/webasyst-ai-workbench
+discovered_at: '2026-07-08T22:15:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

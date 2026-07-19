@@ -1,13 +1,32 @@
 ---
-title: "juyterman1000/entroly"
-category: "Orchestrator"
-tech_stack: ["Rust", "WASM", "Python", "BM25", "BM25F", "SimHash", "Knapsack Algorithm", "Dependency Graphs", "WITNESS Verification", "MCP Server", "CLI", "SDK", "Proxy", "Docker"]
+title: juyterman1000/entroly
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- Rust
+- WASM
+- Python
+- BM25
+- BM25F
+- SimHash
+- Knapsack Algorithm
+- Dependency Graphs
+- WITNESS Verification
+- MCP Server
+- CLI
+- SDK
+- Proxy
+- Docker
 quality_score: 9
 rag_relevance: 10
-tags: ["context optimization", "hallucination guard", "token savings", "recoverable compression", "MCP integration"]
-source: "https://github.com/juyterman1000/entroly"
-discovered_at: "2026-07-11T19:00:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- context optimization
+- hallucination guard
+- token savings
+- recoverable compression
+- MCP integration
+source: https://github.com/juyterman1000/entroly
+discovered_at: '2026-07-11T19:00:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

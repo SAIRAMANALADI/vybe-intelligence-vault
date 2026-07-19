@@ -1,13 +1,41 @@
 ---
-title: "oratis/LISA"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "React", "Electron", "Python", "Claude Code", "OpenClaw", "Hermes", "Codex", "MCP Client", "Telegram API", "Discord API", "Slack API", "Feishu API", "iMessage API", "Webhook", "Ollama", "LM Studio", "vLLM", "llama.cpp", "Anthropic API", "OpenAI API", "Gemini API"]
+title: oratis/LISA
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- Electron
+- Python
+- Claude Code
+- OpenClaw
+- Hermes
+- Codex
+- MCP Client
+- Telegram API
+- Discord API
+- Slack API
+- Feishu API
+- iMessage API
+- Webhook
+- Ollama
+- LM Studio
+- vLLM
+- llama.cpp
+- Anthropic API
+- OpenAI API
+- Gemini API
 quality_score: 9
 rag_relevance: 7
-tags: ["autonomous agents", "multi-agent orchestration", "self-aware AI", "pixel-art UI", "LLM integration"]
-source: "https://github.com/oratis/LISA"
-discovered_at: "2026-06-24T16:16:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- multi-agent orchestration
+- self-aware AI
+- pixel-art UI
+- LLM integration
+source: https://github.com/oratis/LISA
+discovered_at: '2026-06-24T16:16:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

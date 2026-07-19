@@ -1,13 +1,30 @@
 ---
-title: "acoyfellow/my-ax"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Cloudflare Workers", "Cloudflare D1", "Cloudflare R2", "Cloudflare KV", "Cloudflare Workers AI", "Durable Objects", "MCP (Model Context Protocol)", "Node.js", "Docker", "Python", "Bash"]
+title: acoyfellow/my-ax
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Cloudflare Workers
+- Cloudflare D1
+- Cloudflare R2
+- Cloudflare KV
+- Cloudflare Workers AI
+- Durable Objects
+- MCP (Model Context Protocol)
+- Node.js
+- Docker
+- Python
+- Bash
 quality_score: 8
 rag_relevance: 7
-tags: ["personal agent", "Cloudflare Workers", "durable state", "agent delegation", "self-hosted"]
-source: "https://github.com/acoyfellow/my-ax"
-discovered_at: "2026-06-24T10:22:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personal agent
+- Cloudflare Workers
+- durable state
+- agent delegation
+- self-hosted
+source: https://github.com/acoyfellow/my-ax
+discovered_at: '2026-06-24T10:22:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

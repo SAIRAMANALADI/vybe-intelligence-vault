@@ -1,13 +1,23 @@
 ---
-title: "VitruvianSoftware/mcp-slack"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Slack API", "MCP (Model Context Protocol)", "TypeScript (inferred from build setup)"]
+title: VitruvianSoftware/mcp-slack
+category: daily-digests/2026-07-10
+tech_stack:
+- JavaScript
+- Node.js
+- Slack API
+- MCP (Model Context Protocol)
+- TypeScript (inferred from build setup)
 quality_score: 9
 rag_relevance: 8
-tags: ["Slack integration", "MCP server", "dual-token architecture", "workspace orchestration", "AI agent tools"]
-source: "https://github.com/VitruvianSoftware/mcp-slack"
-discovered_at: "2026-07-10T06:15:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Slack integration
+- MCP server
+- dual-token architecture
+- workspace orchestration
+- AI agent tools
+source: https://github.com/VitruvianSoftware/mcp-slack
+discovered_at: '2026-07-10T06:15:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

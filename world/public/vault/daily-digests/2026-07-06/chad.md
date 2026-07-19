@@ -1,13 +1,25 @@
 ---
-title: "nathansutton/chad"
-category: "Agent Framework"
-tech_stack: ["Python", "MLX", "Apple Silicon", "Hugging Face", "Prompt Toolkit", "Unsloth", "PyPI"]
+title: nathansutton/chad
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Python
+- MLX
+- Apple Silicon
+- Hugging Face
+- Prompt Toolkit
+- Unsloth
+- PyPI
 quality_score: 9
 rag_relevance: 9
-tags: ["local coding agent", "Apple Silicon", "MLX inference", "KV caching", "terminal UI"]
-source: "https://github.com/nathansutton/chad"
-discovered_at: "2026-07-06T21:26:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local coding agent
+- Apple Silicon
+- MLX inference
+- KV caching
+- terminal UI
+source: https://github.com/nathansutton/chad
+discovered_at: '2026-07-06T21:26:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

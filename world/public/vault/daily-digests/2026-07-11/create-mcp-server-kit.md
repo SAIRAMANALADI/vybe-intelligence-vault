@@ -1,13 +1,22 @@
 ---
-title: "bernardpacis/create-mcp-server-kit"
-category: "Tooling"
-tech_stack: ["TypeScript", "JavaScript", "Model Context Protocol (MCP)", "CI/CD Templates"]
+title: bernardpacis/create-mcp-server-kit
+category: world/public/vault/daily-digests/2026-07-11
+tech_stack:
+- TypeScript
+- JavaScript
+- Model Context Protocol (MCP)
+- CI/CD Templates
 quality_score: 6
 rag_relevance: 8
-tags: ["MCP", "scaffolding", "TypeScript", "CI/CD", "server-generator"]
-source: "https://github.com/bernardpacis/create-mcp-server-kit"
-discovered_at: "2026-07-10T22:00:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- scaffolding
+- TypeScript
+- CI/CD
+- server-generator
+source: https://github.com/bernardpacis/create-mcp-server-kit
+discovered_at: '2026-07-10T22:00:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

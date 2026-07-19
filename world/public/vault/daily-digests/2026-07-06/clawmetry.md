@@ -1,13 +1,27 @@
 ---
-title: "vivekchand/clawmetry"
-category: "Tooling"
-tech_stack: ["Python", "Flask", "React", "DuckDB", "SQLite", "OpenTelemetry", "HTTPX", "Vite", "TypeScript"]
+title: vivekchand/clawmetry
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Python
+- Flask
+- React
+- DuckDB
+- SQLite
+- OpenTelemetry
+- HTTPX
+- Vite
+- TypeScript
 quality_score: 9
 rag_relevance: 8
-tags: ["AI observability", "agent monitoring", "token tracking", "cost management", "real-time visualization"]
-source: "https://github.com/vivekchand/clawmetry"
-discovered_at: "2026-07-06T21:25:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI observability
+- agent monitoring
+- token tracking
+- cost management
+- real-time visualization
+source: https://github.com/vivekchand/clawmetry
+discovered_at: '2026-07-06T21:25:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

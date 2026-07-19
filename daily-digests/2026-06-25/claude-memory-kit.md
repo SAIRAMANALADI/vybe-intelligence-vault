@@ -1,13 +1,25 @@
 ---
-title: "LH8PPL/claude-memory-kit"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "TypeScript", "Markdown", "Semantic Search", "MCP (Model Context Protocol)", "CLI Tools"]
+title: LH8PPL/claude-memory-kit
+category: daily-digests/2026-06-25
+tech_stack:
+- JavaScript
+- Node.js
+- TypeScript
+- Markdown
+- Semantic Search
+- MCP (Model Context Protocol)
+- CLI Tools
 quality_score: 9
 rag_relevance: 8
-tags: ["persistent memory", "AI agent context", "local semantic search", "Claude Code integration", "project memory"]
-source: "https://github.com/LH8PPL/claude-memory-kit"
-discovered_at: "2026-06-25T07:30:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- AI agent context
+- local semantic search
+- Claude Code integration
+- project memory
+source: https://github.com/LH8PPL/claude-memory-kit
+discovered_at: '2026-06-25T07:30:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

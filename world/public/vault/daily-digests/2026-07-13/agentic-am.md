@@ -1,13 +1,25 @@
 ---
-title: "kleokl7/agentic-am"
-category: "Agent Framework"
-tech_stack: ["Obsidian", "Markdown", "Claude Code", "Slack API", "Google Calendar API", "MCP (Model Context Protocol)", "Python"]
+title: kleokl7/agentic-am
+category: world/public/vault/daily-digests/2026-07-13
+tech_stack:
+- Obsidian
+- Markdown
+- Claude Code
+- Slack API
+- Google Calendar API
+- MCP (Model Context Protocol)
+- Python
 quality_score: 9
 rag_relevance: 8
-tags: ["agentic workflows", "automated task management", "Obsidian integration", "daily brief generation", "entity graph"]
-source: "https://github.com/kleokl7/agentic-am"
-discovered_at: "2026-07-10T10:51:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agentic workflows
+- automated task management
+- Obsidian integration
+- daily brief generation
+- entity graph
+source: https://github.com/kleokl7/agentic-am
+discovered_at: '2026-07-10T10:51:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

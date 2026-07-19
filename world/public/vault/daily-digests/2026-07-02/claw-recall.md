@@ -1,13 +1,21 @@
 ---
-title: "ken12ken/claw-recall"
-category: "Tooling"
-tech_stack: ["Python", "Vector Search", "Metadata Storage"]
+title: ken12ken/claw-recall
+category: world/public/vault/daily-digests/2026-07-02
+tech_stack:
+- Python
+- Vector Search
+- Metadata Storage
 quality_score: 4
 rag_relevance: 7
-tags: ["context recovery", "multi-agent systems", "memory persistence", "conversation storage", "AI workflows"]
-source: "https://github.com/ken12ken/claw-recall"
-discovered_at: "2026-07-02T21:05:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- context recovery
+- multi-agent systems
+- memory persistence
+- conversation storage
+- AI workflows
+source: https://github.com/ken12ken/claw-recall
+discovered_at: '2026-07-02T21:05:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

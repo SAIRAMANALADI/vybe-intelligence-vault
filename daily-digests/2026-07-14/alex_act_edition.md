@@ -1,13 +1,27 @@
 ---
-title: "fabioc-aloha/Alex_ACT_Edition"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "GitHub Copilot", "VS Code", "Claude models", "Gemini models", "GPT models", "Git", "Copilot Chat"]
+title: fabioc-aloha/Alex_ACT_Edition
+category: daily-digests/2026-07-14
+tech_stack:
+- JavaScript
+- Node.js
+- GitHub Copilot
+- VS Code
+- Claude models
+- Gemini models
+- GPT models
+- Git
+- Copilot Chat
 quality_score: 9
 rag_relevance: 10
-tags: ["critical thinking", "epistemic calibration", "AI reasoning", "agent architecture", "uncertainty quantification"]
-source: "https://github.com/fabioc-aloha/Alex_ACT_Edition"
-discovered_at: "2026-07-11T23:53:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- critical thinking
+- epistemic calibration
+- AI reasoning
+- agent architecture
+- uncertainty quantification
+source: https://github.com/fabioc-aloha/Alex_ACT_Edition
+discovered_at: '2026-07-11T23:53:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

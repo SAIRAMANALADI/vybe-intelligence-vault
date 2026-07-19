@@ -1,13 +1,26 @@
 ---
-title: "mtrdesign/whygraph"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Git", "GitHub API", "Docker", "FastAPI", "SQLite/PostgreSQL", "LLM Integration"]
+title: mtrdesign/whygraph
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Git
+- GitHub API
+- Docker
+- FastAPI
+- SQLite/PostgreSQL
+- LLM Integration
 quality_score: 8
 rag_relevance: 9
-tags: ["code rationale", "git history analysis", "MCP server", "AI editor integration", "developer tooling"]
-source: "https://github.com/mtrdesign/whygraph"
-discovered_at: "2026-07-09T14:45:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code rationale
+- git history analysis
+- MCP server
+- AI editor integration
+- developer tooling
+source: https://github.com/mtrdesign/whygraph
+discovered_at: '2026-07-09T14:45:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

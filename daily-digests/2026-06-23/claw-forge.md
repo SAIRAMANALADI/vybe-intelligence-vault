@@ -1,13 +1,27 @@
 ---
-title: "HellenAngeli/claw-forge"
-category: "Agent Framework"
-tech_stack: ["Rust", "YAML", "REST API", "SQLite", "Redis", "WebAssembly", "React (Web UI)", "JWT Authentication", "Mermaid.js (Diagrams)"]
+title: HellenAngeli/claw-forge
+category: daily-digests/2026-06-23
+tech_stack:
+- Rust
+- YAML
+- REST API
+- SQLite
+- Redis
+- WebAssembly
+- React (Web UI)
+- JWT Authentication
+- Mermaid.js (Diagrams)
 quality_score: 9
 rag_relevance: 8
-tags: ["agent orchestration", "local AI deployment", "multi-provider support", "Rust-based", "digital sovereignty"]
-source: "https://github.com/HellenAngeli/claw-forge"
-discovered_at: "2026-06-23T21:28:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent orchestration
+- local AI deployment
+- multi-provider support
+- Rust-based
+- digital sovereignty
+source: https://github.com/HellenAngeli/claw-forge
+discovered_at: '2026-06-23T21:28:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

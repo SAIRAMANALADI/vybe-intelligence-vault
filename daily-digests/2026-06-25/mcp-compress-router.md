@@ -1,13 +1,24 @@
 ---
-title: "ameshkov/mcp-compress-router"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "CLI", "OAuth", "JSON/JSONC"]
+title: ameshkov/mcp-compress-router
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- CLI
+- OAuth
+- JSON/JSONC
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "token optimization", "router", "cost reduction", "stdio"]
-source: "https://github.com/ameshkov/mcp-compress-router"
-discovered_at: "2026-06-25T17:11:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- token optimization
+- router
+- cost reduction
+- stdio
+source: https://github.com/ameshkov/mcp-compress-router
+discovered_at: '2026-06-25T17:11:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

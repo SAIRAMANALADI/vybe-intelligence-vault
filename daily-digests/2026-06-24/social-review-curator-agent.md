@@ -1,13 +1,29 @@
 ---
-title: "pourebadi/social-review-curator-agent"
-category: "Orchestrator"
-tech_stack: ["Python", "Gemini (AI rewrite)", "Cloudflare Workers", "Cloudflare KV", "GitHub Actions", "Telegram Bot API", "Slack API", "X/Twitter API", "Instagram (via yt-dlp/ffmpeg)", "FFmpeg", "yt-dlp"]
+title: pourebadi/social-review-curator-agent
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Gemini (AI rewrite)
+- Cloudflare Workers
+- Cloudflare KV
+- GitHub Actions
+- Telegram Bot API
+- Slack API
+- X/Twitter API
+- Instagram (via yt-dlp/ffmpeg)
+- FFmpeg
+- yt-dlp
 quality_score: 8
 rag_relevance: 6
-tags: ["social media curation", "editorial workflow", "Gemini integration", "multi-platform publishing", "review automation"]
-source: "https://github.com/pourebadi/social-review-curator-agent"
-discovered_at: "2026-06-24T10:22:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- social media curation
+- editorial workflow
+- Gemini integration
+- multi-platform publishing
+- review automation
+source: https://github.com/pourebadi/social-review-curator-agent
+discovered_at: '2026-06-24T10:22:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

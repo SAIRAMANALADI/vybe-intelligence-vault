@@ -1,13 +1,25 @@
 ---
-title: "zikorachukwuka/mabara"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude Code Agent SDK", "Piper TTS", "Parakeet-TDT (STT)", "ONNX runtime", "Git", "Windows API (hotkey handling)"]
+title: zikorachukwuka/mabara
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Claude Code Agent SDK
+- Piper TTS
+- Parakeet-TDT (STT)
+- ONNX runtime
+- Git
+- Windows API (hotkey handling)
 quality_score: 9
 rag_relevance: 8
-tags: ["voice coding", "push-to-talk", "local AI", "real-time agent", "git-integrated"]
-source: "https://github.com/zikorachukwuka/mabara"
-discovered_at: "2026-07-07T16:25:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- voice coding
+- push-to-talk
+- local AI
+- real-time agent
+- git-integrated
+source: https://github.com/zikorachukwuka/mabara
+discovered_at: '2026-07-07T16:25:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

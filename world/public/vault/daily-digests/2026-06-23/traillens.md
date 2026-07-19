@@ -1,13 +1,32 @@
 ---
-title: "lzf00/traillens"
-category: "Agent Framework"
-tech_stack: ["Python", "LangGraph", "Qwen3-VL", "Claude", "OpenCV", "pHash", "Q-Align", "LoRA", "FastAPI", "Next.js", "PostgreSQL", "pgvector", "Docker", "MCP (Model Context Protocol)"]
+title: lzf00/traillens
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- LangGraph
+- Qwen3-VL
+- Claude
+- OpenCV
+- pHash
+- Q-Align
+- LoRA
+- FastAPI
+- Next.js
+- PostgreSQL
+- pgvector
+- Docker
+- MCP (Model Context Protocol)
 quality_score: 8
 rag_relevance: 7
-tags: ["multi-agent systems", "landscape photography", "aesthetic scoring", "travelogue generation", "AI-assisted planning"]
-source: "https://github.com/lzf00/traillens"
-discovered_at: "2026-06-23T08:58:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- landscape photography
+- aesthetic scoring
+- travelogue generation
+- AI-assisted planning
+source: https://github.com/lzf00/traillens
+discovered_at: '2026-06-23T08:58:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

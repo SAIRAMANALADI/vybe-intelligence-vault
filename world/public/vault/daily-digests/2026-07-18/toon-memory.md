@@ -1,13 +1,26 @@
 ---
-title: "LuiggiVal08/toon-memory"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "AES-256-GCM Encryption", "BM25 Ranking Algorithm", "Graph-Based Memory Recall", "CLI Tools", "Git Integration"]
+title: LuiggiVal08/toon-memory
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- AES-256-GCM Encryption
+- BM25 Ranking Algorithm
+- Graph-Based Memory Recall
+- CLI Tools
+- Git Integration
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP server", "persistent memory", "AI agent tools", "token-efficient", "multi-session coordination"]
-source: "https://github.com/LuiggiVal08/toon-memory"
-discovered_at: "2026-07-14T20:09:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- persistent memory
+- AI agent tools
+- token-efficient
+- multi-session coordination
+source: https://github.com/LuiggiVal08/toon-memory
+discovered_at: '2026-07-14T20:09:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

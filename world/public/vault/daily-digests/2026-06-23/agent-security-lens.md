@@ -1,13 +1,23 @@
 ---
-title: "professor2k8/agent-security-lens"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "REST APIs", "NPM"]
+title: professor2k8/agent-security-lens
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- REST APIs
+- NPM
 quality_score: 9
 rag_relevance: 8
-tags: ["agent security", "trust evaluation", "MCP safety", "risk assessment", "autonomous agents"]
-source: "https://github.com/professor2k8/agent-security-lens"
-discovered_at: "2026-06-23T16:24:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent security
+- trust evaluation
+- MCP safety
+- risk assessment
+- autonomous agents
+source: https://github.com/professor2k8/agent-security-lens
+discovered_at: '2026-06-23T16:24:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

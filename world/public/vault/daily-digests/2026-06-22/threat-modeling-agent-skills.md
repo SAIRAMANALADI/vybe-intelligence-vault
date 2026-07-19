@@ -1,13 +1,22 @@
 ---
-title: "ivan-sincek/threat-modeling-agent-skills"
-category: "Tooling"
-tech_stack: ["Markdown", "Mermaid.js", "Claude Skills Framework", "Threat Modeling Frameworks (STRIDE, PASTA, DREAD)"]
+title: ivan-sincek/threat-modeling-agent-skills
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Markdown
+- Mermaid.js
+- Claude Skills Framework
+- Threat Modeling Frameworks (STRIDE, PASTA, DREAD)
 quality_score: 6
 rag_relevance: 5
-tags: ["threat modeling", "AI agent skills", "risk assessment", "security frameworks", "STRIDE"]
-source: "https://github.com/ivan-sincek/threat-modeling-agent-skills"
-discovered_at: "2026-06-22T23:17:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- threat modeling
+- AI agent skills
+- risk assessment
+- security frameworks
+- STRIDE
+source: https://github.com/ivan-sincek/threat-modeling-agent-skills
+discovered_at: '2026-06-22T23:17:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

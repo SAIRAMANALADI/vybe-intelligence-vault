@@ -1,13 +1,24 @@
 ---
-title: "cyanheads/reliefweb-mcp-server"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "Model Context Protocol (MCP)", "ReliefWeb API", "Zod (schema validation)", "Node.js"]
+title: cyanheads/reliefweb-mcp-server
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- TypeScript
+- Bun
+- Model Context Protocol (MCP)
+- ReliefWeb API
+- Zod (schema validation)
+- Node.js
 quality_score: 9
 rag_relevance: 8
-tags: ["humanitarian data", "MCP server", "ReliefWeb integration", "AI agent tools", "real-time data access"]
-source: "https://github.com/cyanheads/reliefweb-mcp-server"
-discovered_at: "2026-07-13T18:43:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- humanitarian data
+- MCP server
+- ReliefWeb integration
+- AI agent tools
+- real-time data access
+source: https://github.com/cyanheads/reliefweb-mcp-server
+discovered_at: '2026-07-13T18:43:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

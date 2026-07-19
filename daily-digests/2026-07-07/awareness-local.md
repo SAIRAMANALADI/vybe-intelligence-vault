@@ -1,13 +1,24 @@
 ---
-title: "okeidontlike/Awareness-Local"
-category: "Tooling"
-tech_stack: ["JavaScript", "SQLite", "Markdown", "MCP (Model Context Protocol)", "FTS5 (Full-Text Search)", "Embeddings"]
+title: okeidontlike/Awareness-Local
+category: daily-digests/2026-07-07
+tech_stack:
+- JavaScript
+- SQLite
+- Markdown
+- MCP (Model Context Protocol)
+- FTS5 (Full-Text Search)
+- Embeddings
 quality_score: 7
 rag_relevance: 8
-tags: ["local-memory", "persistent-context", "offline-ai", "mcp-integration", "markdown-storage"]
-source: "https://github.com/okeidontlike/Awareness-Local"
-discovered_at: "2026-07-07T23:54:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-memory
+- persistent-context
+- offline-ai
+- mcp-integration
+- markdown-storage
+source: https://github.com/okeidontlike/Awareness-Local
+discovered_at: '2026-07-07T23:54:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

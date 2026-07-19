@@ -1,13 +1,25 @@
 ---
-title: "ficaviolaodorata520/met-museum-mcp-server"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "MCP SDK", "Node.js", "Docker", "Zod", "OpenTelemetry"]
+title: ficaviolaodorata520/met-museum-mcp-server
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Bun
+- MCP SDK
+- Node.js
+- Docker
+- Zod
+- OpenTelemetry
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP Server", "Metropolitan Museum API", "Artwork Retrieval", "Open-Access Images", "RAG Data Source"]
-source: "https://github.com/ficaviolaodorata520/met-museum-mcp-server"
-discovered_at: "2026-06-24T06:50:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- Metropolitan Museum API
+- Artwork Retrieval
+- Open-Access Images
+- RAG Data Source
+source: https://github.com/ficaviolaodorata520/met-museum-mcp-server
+discovered_at: '2026-06-24T06:50:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

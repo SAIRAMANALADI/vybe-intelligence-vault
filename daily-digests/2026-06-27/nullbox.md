@@ -1,13 +1,23 @@
 ---
-title: "bencsi9407/nullbox"
-category: "Tooling"
-tech_stack: ["Linux", "MicroVM", "Immutable Infrastructure", "Network Security", "Secret Management"]
+title: bencsi9407/nullbox
+category: daily-digests/2026-06-27
+tech_stack:
+- Linux
+- MicroVM
+- Immutable Infrastructure
+- Network Security
+- Secret Management
 quality_score: 4
 rag_relevance: 7
-tags: ["isolation", "security", "immutable", "microVM", "AI agents"]
-source: "https://github.com/bencsi9407/nullbox"
-discovered_at: "2026-06-27T00:06:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- isolation
+- security
+- immutable
+- microVM
+- AI agents
+source: https://github.com/bencsi9407/nullbox
+discovered_at: '2026-06-27T00:06:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,30 @@
 ---
-title: "joshuaswarren/remnic"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "pnpm", "MCP (Model Context Protocol)", "OpenClaw", "Ollama", "LM Studio", "Markdown", "YAML", "Vector Search", "BM25", "Reranking"]
+title: joshuaswarren/remnic
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- pnpm
+- MCP (Model Context Protocol)
+- OpenClaw
+- Ollama
+- LM Studio
+- Markdown
+- YAML
+- Vector Search
+- BM25
+- Reranking
 quality_score: 9
 rag_relevance: 10
-tags: ["memory management", "user-aware agents", "context retention", "local-first storage", "agentic workflows"]
-source: "https://github.com/joshuaswarren/remnic"
-discovered_at: "2026-06-23T16:28:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory management
+- user-aware agents
+- context retention
+- local-first storage
+- agentic workflows
+source: https://github.com/joshuaswarren/remnic
+discovered_at: '2026-06-23T16:28:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

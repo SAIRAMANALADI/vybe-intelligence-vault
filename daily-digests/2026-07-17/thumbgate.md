@@ -1,13 +1,25 @@
 ---
-title: "IgorGanapolsky/ThumbGate"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "TypeScript", "MCP (Model Context Protocol)", "CLI", "Git", "npm"]
+title: IgorGanapolsky/ThumbGate
+category: daily-digests/2026-07-17
+tech_stack:
+- JavaScript
+- Node.js
+- TypeScript
+- MCP (Model Context Protocol)
+- CLI
+- Git
+- npm
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent safety", "pre-action checks", "tool call evaluation", "risk mitigation", "local enforcement"]
-source: "https://github.com/IgorGanapolsky/ThumbGate"
-discovered_at: "2026-07-13T18:43:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent safety
+- pre-action checks
+- tool call evaluation
+- risk mitigation
+- local enforcement
+source: https://github.com/IgorGanapolsky/ThumbGate
+discovered_at: '2026-07-13T18:43:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

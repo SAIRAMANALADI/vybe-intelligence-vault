@@ -1,13 +1,25 @@
 ---
-title: "traygerbig/clawhub-skills"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Windows Desktop App", "AI Agent Skills", "MCP", "Poe", "GPT Store", "Coze"]
+title: traygerbig/clawhub-skills
+category: daily-digests/2026-06-23
+tech_stack:
+- JavaScript
+- Windows Desktop App
+- AI Agent Skills
+- MCP
+- Poe
+- GPT Store
+- Coze
 quality_score: 6
 rag_relevance: 5
-tags: ["AI agent skills", "Windows automation", "business workflows", "pre-built tools", "non-technical users"]
-source: "https://github.com/traygerbig/clawhub-skills"
-discovered_at: "2026-06-23T23:03:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent skills
+- Windows automation
+- business workflows
+- pre-built tools
+- non-technical users
+source: https://github.com/traygerbig/clawhub-skills
+discovered_at: '2026-06-23T23:03:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

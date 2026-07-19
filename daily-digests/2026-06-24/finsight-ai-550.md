@@ -1,13 +1,23 @@
 ---
-title: "Vinod2515/FinSight-AI-550"
-category: "Tooling"
-tech_stack: ["Python", "RAG (Retrieval-Augmented Generation)", "Windows Desktop Application", "Natural Language Processing (NLP)", "Financial Data APIs"]
+title: Vinod2515/FinSight-AI-550
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- RAG (Retrieval-Augmented Generation)
+- Windows Desktop Application
+- Natural Language Processing (NLP)
+- Financial Data APIs
 quality_score: 6
 rag_relevance: 7
-tags: ["equity research", "financial analysis", "RAG", "investment automation", "desktop tool"]
-source: "https://github.com/Vinod2515/FinSight-AI-550"
-discovered_at: "2026-06-24T06:44:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- equity research
+- financial analysis
+- RAG
+- investment automation
+- desktop tool
+source: https://github.com/Vinod2515/FinSight-AI-550
+discovered_at: '2026-06-24T06:44:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

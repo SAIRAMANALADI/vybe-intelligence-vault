@@ -1,13 +1,23 @@
 ---
-title: "techgardeners/atlarium-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Streamable HTTP", "JSON-RPC", "Node.js"]
+title: techgardeners/atlarium-mcp
+category: daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Streamable HTTP
+- JSON-RPC
+- Node.js
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "aquarium data", "habitat planning", "diagnostics", "AI agent integration"]
-source: "https://github.com/techgardeners/atlarium-mcp"
-discovered_at: "2026-07-09T17:18:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- aquarium data
+- habitat planning
+- diagnostics
+- AI agent integration
+source: https://github.com/techgardeners/atlarium-mcp
+discovered_at: '2026-07-09T17:18:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "irun2themoney/freetoolbox"
-category: "Tooling"
-tech_stack: ["HTML", "JavaScript", "CSS", "Node.js", "Cron Jobs", "GitHub Pages", "IndexNow API", "Cryptocurrency Wallets (ETH, SOL, BTC)"]
+title: irun2themoney/freetoolbox
+category: daily-digests/2026-07-15
+tech_stack:
+- HTML
+- JavaScript
+- CSS
+- Node.js
+- Cron Jobs
+- GitHub Pages
+- IndexNow API
+- Cryptocurrency Wallets (ETH, SOL, BTC)
 quality_score: 8
 rag_relevance: 7
-tags: ["client-side", "autonomous", "zero-cost", "crypto-tips", "GitHub Sponsors"]
-source: "https://github.com/irun2themoney/freetoolbox"
-discovered_at: "2026-07-15T05:29:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- client-side
+- autonomous
+- zero-cost
+- crypto-tips
+- GitHub Sponsors
+source: https://github.com/irun2themoney/freetoolbox
+discovered_at: '2026-07-15T05:29:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

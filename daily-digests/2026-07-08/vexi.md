@@ -1,13 +1,27 @@
 ---
-title: "Elomami1976/vexi"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "npm", "CLI", "LLM APIs", "D3.js", "Markdown", "Git", "MCP (Model Context Protocol)"]
+title: Elomami1976/vexi
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- npm
+- CLI
+- LLM APIs
+- D3.js
+- Markdown
+- Git
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI coding assistant", "terminal agent", "local-first", "multilingual", "project memory"]
-source: "https://github.com/Elomami1976/vexi"
-discovered_at: "2026-07-08T21:01:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding assistant
+- terminal agent
+- local-first
+- multilingual
+- project memory
+source: https://github.com/Elomami1976/vexi
+discovered_at: '2026-07-08T21:01:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "zylc369/OpenSecurity"
-category: "Agent Framework"
-tech_stack: ["Python", "OpenCode (AI Agent Framework)", "IDA Pro", "Frida", "apktool", "jadx", "Playwright", "LLM (Large Language Models)", "IDAPython", "Bash"]
+title: zylc369/OpenSecurity
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- OpenCode (AI Agent Framework)
+- IDA Pro
+- Frida
+- apktool
+- jadx
+- Playwright
+- LLM (Large Language Models)
+- IDAPython
+- Bash
 quality_score: 9
 rag_relevance: 7
-tags: ["AI-driven security analysis", "LLM orchestration", "autonomous agent", "multi-domain security", "reverse engineering"]
-source: "https://github.com/zylc369/OpenSecurity"
-discovered_at: "2026-06-23T16:29:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-driven security analysis
+- LLM orchestration
+- autonomous agent
+- multi-domain security
+- reverse engineering
+source: https://github.com/zylc369/OpenSecurity
+discovered_at: '2026-06-23T16:29:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

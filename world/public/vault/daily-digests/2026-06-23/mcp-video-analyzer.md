@@ -1,13 +1,28 @@
 ---
-title: "guimatheus92/mcp-video-analyzer"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Whisper (OpenAI)", "yt-dlp", "ffmpeg", "Puppeteer", "Tesseract.js", "TwelveLabs API", "Hugging Face Transformers"]
+title: guimatheus92/mcp-video-analyzer
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Whisper (OpenAI)
+- yt-dlp
+- ffmpeg
+- Puppeteer
+- Tesseract.js
+- TwelveLabs API
+- Hugging Face Transformers
 quality_score: 9
 rag_relevance: 10
-tags: ["video analysis", "MCP server", "transcript extraction", "OCR", "frame extraction"]
-source: "https://github.com/guimatheus92/mcp-video-analyzer"
-discovered_at: "2026-06-23T13:49:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- video analysis
+- MCP server
+- transcript extraction
+- OCR
+- frame extraction
+source: https://github.com/guimatheus92/mcp-video-analyzer
+discovered_at: '2026-06-23T13:49:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

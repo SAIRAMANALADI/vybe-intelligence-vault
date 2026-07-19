@@ -1,13 +1,23 @@
 ---
-title: "Neetx/ai-security-research-radar"
-category: "Tooling"
-tech_stack: ["Python", "Markdown", "ArXiv API", "Hacker News/Reddit API", "GitHub Actions (for automation)"]
+title: Neetx/ai-security-research-radar
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- Markdown
+- ArXiv API
+- Hacker News/Reddit API
+- GitHub Actions (for automation)
 quality_score: 8
 rag_relevance: 9
-tags: ["AI security", "offensive research", "vulnerability tracking", "threat intelligence", "autonomous monitoring"]
-source: "https://github.com/Neetx/ai-security-research-radar"
-discovered_at: "2026-07-08T05:45:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI security
+- offensive research
+- vulnerability tracking
+- threat intelligence
+- autonomous monitoring
+source: https://github.com/Neetx/ai-security-research-radar
+discovered_at: '2026-07-08T05:45:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

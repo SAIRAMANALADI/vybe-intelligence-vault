@@ -1,13 +1,27 @@
 ---
-title: "YuZh98/latex2arxiv"
-category: "Tooling"
-tech_stack: ["Python", "LaTeX", "Pyodide", "VS Code Extension API", "GitHub Actions", "Chrome Extension API", "MCP (Model Context Protocol)", "Pillow", "YAML"]
+title: YuZh98/latex2arxiv
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- LaTeX
+- Pyodide
+- VS Code Extension API
+- GitHub Actions
+- Chrome Extension API
+- MCP (Model Context Protocol)
+- Pillow
+- YAML
 quality_score: 9
 rag_relevance: 7
-tags: ["LaTeX", "arXiv submission", "document preparation", "CI integration", "automation"]
-source: "https://github.com/YuZh98/latex2arxiv"
-discovered_at: "2026-07-08T21:03:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LaTeX
+- arXiv submission
+- document preparation
+- CI integration
+- automation
+source: https://github.com/YuZh98/latex2arxiv
+discovered_at: '2026-07-08T21:03:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

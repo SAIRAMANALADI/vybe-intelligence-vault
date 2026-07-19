@@ -1,13 +1,26 @@
 ---
-title: "dingyiyi0226/fantasy-baseball-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Yahoo Fantasy API", "MLB Stats API", "Baseball Savant", "FanGraphs API", "Node.js", "OAuth 2.0"]
+title: dingyiyi0226/fantasy-baseball-mcp
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Yahoo Fantasy API
+- MLB Stats API
+- Baseball Savant
+- FanGraphs API
+- Node.js
+- OAuth 2.0
 quality_score: 8
 rag_relevance: 6
-tags: ["fantasy sports", "AI assistant", "roster management", "statcast analytics", "local-first"]
-source: "https://github.com/dingyiyi0226/fantasy-baseball-mcp"
-discovered_at: "2026-07-09T17:18:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- fantasy sports
+- AI assistant
+- roster management
+- statcast analytics
+- local-first
+source: https://github.com/dingyiyi0226/fantasy-baseball-mcp
+discovered_at: '2026-07-09T17:18:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

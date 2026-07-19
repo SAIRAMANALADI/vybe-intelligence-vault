@@ -1,13 +1,23 @@
 ---
-title: "NachaFromMars/rss-digest"
-category: "Tooling"
-tech_stack: ["Go", "RSS/OPML", "CLI", "Natural Language Processing (NLP)", "OpenClaw"]
+title: NachaFromMars/rss-digest
+category: daily-digests/2026-06-23
+tech_stack:
+- Go
+- RSS/OPML
+- CLI
+- Natural Language Processing (NLP)
+- OpenClaw
 quality_score: 7
 rag_relevance: 6
-tags: ["RSS aggregation", "content triage", "automated digest", "OpenClaw skill", "news summarization"]
-source: "https://github.com/NachaFromMars/rss-digest"
-discovered_at: "2026-06-23T06:47:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RSS aggregation
+- content triage
+- automated digest
+- OpenClaw skill
+- news summarization
+source: https://github.com/NachaFromMars/rss-digest
+discovered_at: '2026-06-23T06:47:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

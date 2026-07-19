@@ -1,13 +1,24 @@
 ---
-title: "dKosarevsky/albu-mcp"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "AlbumentationsX", "PyPI", "CI/CD", "CLI"]
+title: dKosarevsky/albu-mcp
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- AlbumentationsX
+- PyPI
+- CI/CD
+- CLI
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "computer vision", "data augmentation", "pipeline validation", "deterministic previews"]
-source: "https://github.com/dKosarevsky/albu-mcp"
-discovered_at: "2026-07-09T14:45:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- computer vision
+- data augmentation
+- pipeline validation
+- deterministic previews
+source: https://github.com/dKosarevsky/albu-mcp
+discovered_at: '2026-07-09T14:45:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "pipulate/pipulate"
-category: "Tooling"
-tech_stack: ["Python", "Nix", "FastHTML", "HTMX", "JupyterLab", "SQLite", "Bash"]
+title: pipulate/pipulate
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Nix
+- FastHTML
+- HTMX
+- JupyterLab
+- SQLite
+- Bash
 quality_score: 8
 rag_relevance: 7
-tags: ["local-first", "AI workflows", "reproducible environments", "SEO automation", "desktop app framework"]
-source: "https://github.com/pipulate/pipulate"
-discovered_at: "2026-06-23T09:02:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first
+- AI workflows
+- reproducible environments
+- SEO automation
+- desktop app framework
+source: https://github.com/pipulate/pipulate
+discovered_at: '2026-06-23T09:02:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

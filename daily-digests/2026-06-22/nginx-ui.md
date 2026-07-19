@@ -1,13 +1,26 @@
 ---
-title: "0xJacky/nginx-ui"
-category: "Tooling"
-tech_stack: ["Go", "Vue.js", "Docker", "Systemd", "Nginx", "WebSocket", "LLM Integration", "MCP (Model Context Protocol)"]
+title: 0xJacky/nginx-ui
+category: daily-digests/2026-06-22
+tech_stack:
+- Go
+- Vue.js
+- Docker
+- Systemd
+- Nginx
+- WebSocket
+- LLM Integration
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 6
-tags: ["Nginx management", "Web UI", "Configuration tool", "DevOps", "Automation"]
-source: "https://github.com/0xJacky/nginx-ui"
-discovered_at: "2026-06-22T18:14:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Nginx management
+- Web UI
+- Configuration tool
+- DevOps
+- Automation
+source: https://github.com/0xJacky/nginx-ui
+discovered_at: '2026-06-22T18:14:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

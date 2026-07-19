@@ -1,13 +1,22 @@
 ---
-title: "xnjiang/autowhisper-skill"
-category: "Agent Framework"
-tech_stack: ["MCP (Model Context Protocol)", "HTTP API", "OAuth", "Natural Language Processing"]
+title: xnjiang/autowhisper-skill
+category: daily-digests/2026-07-16
+tech_stack:
+- MCP (Model Context Protocol)
+- HTTP API
+- OAuth
+- Natural Language Processing
 quality_score: 7
 rag_relevance: 6
-tags: ["marketing automation", "multi-platform publishing", "AI agent integration", "ad creative generation", "MCP skill"]
-source: "https://github.com/xnjiang/autowhisper-skill"
-discovered_at: "2026-07-11T07:52:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- marketing automation
+- multi-platform publishing
+- AI agent integration
+- ad creative generation
+- MCP skill
+source: https://github.com/xnjiang/autowhisper-skill
+discovered_at: '2026-07-11T07:52:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

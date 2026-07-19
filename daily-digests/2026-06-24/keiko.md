@@ -1,13 +1,28 @@
 ---
-title: "oscharko-dev/Keiko"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "npm", "Next.js", "React", "AES-256-GCM", "Local-first architecture", "SSE (Server-Sent Events)", "Embeddings", "LiteLLM"]
+title: oscharko-dev/Keiko
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- npm
+- Next.js
+- React
+- AES-256-GCM
+- Local-first architecture
+- SSE (Server-Sent Events)
+- Embeddings
+- LiteLLM
 quality_score: 9
 rag_relevance: 8
-tags: ["governed agents", "local-first", "audit trails", "knowledge work", "enterprise RAG"]
-source: "https://github.com/oscharko-dev/Keiko"
-discovered_at: "2026-06-24T20:46:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- governed agents
+- local-first
+- audit trails
+- knowledge work
+- enterprise RAG
+source: https://github.com/oscharko-dev/Keiko
+discovered_at: '2026-06-24T20:46:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

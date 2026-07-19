@@ -1,13 +1,38 @@
 ---
-title: "Protocol-Wealth/nexus-core"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "FastMCP", "PostgreSQL", "asyncpg", "httpx", "mypy", "ruff", "Google Cloud Run", "Cloudflare", "yfinance", "MBOUM", "MarketStack", "CoinGecko", "Deribit", "DeBank", "Tatum", "Jupiter", "Uniswap V3", "Aerodrome Slipstream"]
+title: Protocol-Wealth/nexus-core
+category: daily-digests/2026-07-14
+tech_stack:
+- Python
+- FastAPI
+- FastMCP
+- PostgreSQL
+- asyncpg
+- httpx
+- mypy
+- ruff
+- Google Cloud Run
+- Cloudflare
+- yfinance
+- MBOUM
+- MarketStack
+- CoinGecko
+- Deribit
+- DeBank
+- Tatum
+- Jupiter
+- Uniswap V3
+- Aerodrome Slipstream
 quality_score: 8
 rag_relevance: 7
-tags: ["financial analysis", "regime detection", "MCP orchestration", "options pricing", "DeFi analytics"]
-source: "https://github.com/Protocol-Wealth/nexus-core"
-discovered_at: "2026-07-11T02:27:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- financial analysis
+- regime detection
+- MCP orchestration
+- options pricing
+- DeFi analytics
+source: https://github.com/Protocol-Wealth/nexus-core
+discovered_at: '2026-07-11T02:27:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "devart-ai-connectivity/devart-mcp-server-zoho-desk"
-category: "Tooling"
-tech_stack: ["MCP Server", "Zoho Desk API", "Python", "Self-hosted"]
+title: devart-ai-connectivity/devart-mcp-server-zoho-desk
+category: daily-digests/2026-06-23
+tech_stack:
+- MCP Server
+- Zoho Desk API
+- Python
+- Self-hosted
 quality_score: 5
 rag_relevance: 7
-tags: ["MCP", "Zoho Desk", "helpdesk integration", "AI data access", "self-hosted"]
-source: "https://github.com/devart-ai-connectivity/devart-mcp-server-zoho-desk"
-discovered_at: "2026-06-23T10:42:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- Zoho Desk
+- helpdesk integration
+- AI data access
+- self-hosted
+source: https://github.com/devart-ai-connectivity/devart-mcp-server-zoho-desk
+discovered_at: '2026-06-23T10:42:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

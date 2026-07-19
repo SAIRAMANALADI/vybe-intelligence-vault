@@ -1,13 +1,26 @@
 ---
-title: "justinwilliames/orbit-for-claude"
-category: "Tooling"
-tech_stack: ["JavaScript", "MCP (Model Context Protocol)", "MJML", "Braze", "Stripo", "Figma", "Notion", "Claude Desktop"]
+title: justinwilliames/orbit-for-claude
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- JavaScript
+- MCP (Model Context Protocol)
+- MJML
+- Braze
+- Stripo
+- Figma
+- Notion
+- Claude Desktop
 quality_score: 8
 rag_relevance: 7
-tags: ["lifecycle marketing", "email automation", "MCP extension", "deliverability", "segmentation"]
-source: "https://github.com/justinwilliames/orbit-for-claude"
-discovered_at: "2026-07-10T02:26:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- lifecycle marketing
+- email automation
+- MCP extension
+- deliverability
+- segmentation
+source: https://github.com/justinwilliames/orbit-for-claude
+discovered_at: '2026-07-10T02:26:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

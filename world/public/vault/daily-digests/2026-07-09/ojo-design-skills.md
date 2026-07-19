@@ -1,13 +1,22 @@
 ---
-title: "touchine-ojo/OJO-Design-Skills"
-category: "Tooling"
-tech_stack: ["Shell", "Markdown", "Tailwind CSS", "AI Agent Integration"]
+title: touchine-ojo/OJO-Design-Skills
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Shell
+- Markdown
+- Tailwind CSS
+- AI Agent Integration
 quality_score: 9
 rag_relevance: 7
-tags: ["UI/UX design", "AI agent skills", "design guardrails", "Tailwind components", "brand-driven design"]
-source: "https://github.com/touchine-ojo/OJO-Design-Skills"
-discovered_at: "2026-07-09T11:52:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- UI/UX design
+- AI agent skills
+- design guardrails
+- Tailwind components
+- brand-driven design
+source: https://github.com/touchine-ojo/OJO-Design-Skills
+discovered_at: '2026-07-09T11:52:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

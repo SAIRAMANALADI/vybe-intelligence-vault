@@ -1,13 +1,26 @@
 ---
-title: "litmusautomation/litmus-mcp-server"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Docker", "FastAPI", "NATS", "InfluxDB", "OAuth2", "React (Web UI)"]
+title: litmusautomation/litmus-mcp-server
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Docker
+- FastAPI
+- NATS
+- InfluxDB
+- OAuth2
+- React (Web UI)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP Server", "Industrial IoT", "Device Management", "AI Integration", "Litmus Edge"]
-source: "https://github.com/litmusautomation/litmus-mcp-server"
-discovered_at: "2026-07-09T00:06:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- Industrial IoT
+- Device Management
+- AI Integration
+- Litmus Edge
+source: https://github.com/litmusautomation/litmus-mcp-server
+discovered_at: '2026-07-09T00:06:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "doeixd/opencode-ralph-rlm"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "OpenCode SDK", "LLM APIs", "CLI Tools", "File-based Memory System"]
+title: doeixd/opencode-ralph-rlm
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- OpenCode SDK
+- LLM APIs
+- CLI Tools
+- File-based Memory System
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous coding", "iterative agent loops", "file-first memory", "RLM", "OpenCode plugin"]
-source: "https://github.com/doeixd/opencode-ralph-rlm"
-discovered_at: "2026-06-24T16:18:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous coding
+- iterative agent loops
+- file-first memory
+- RLM
+- OpenCode plugin
+source: https://github.com/doeixd/opencode-ralph-rlm
+discovered_at: '2026-06-24T16:18:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

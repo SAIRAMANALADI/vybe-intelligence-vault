@@ -1,13 +1,26 @@
 ---
-title: "alexander-zierhut/agent-tool-openproject-cli"
-category: "Tooling"
-tech_stack: ["Python", "OpenProject REST API v3", "PyPI", "pipx", "Docker", "GitHub Actions", "JSON", "HAL+JSON"]
+title: alexander-zierhut/agent-tool-openproject-cli
+category: daily-digests/2026-07-15
+tech_stack:
+- Python
+- OpenProject REST API v3
+- PyPI
+- pipx
+- Docker
+- GitHub Actions
+- JSON
+- HAL+JSON
 quality_score: 9
 rag_relevance: 7
-tags: ["OpenProject CLI", "AI agent tooling", "work package automation", "time tracking", "project management"]
-source: "https://github.com/alexander-zierhut/agent-tool-openproject-cli"
-discovered_at: "2026-07-15T16:21:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- OpenProject CLI
+- AI agent tooling
+- work package automation
+- time tracking
+- project management
+source: https://github.com/alexander-zierhut/agent-tool-openproject-cli
+discovered_at: '2026-07-15T16:21:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

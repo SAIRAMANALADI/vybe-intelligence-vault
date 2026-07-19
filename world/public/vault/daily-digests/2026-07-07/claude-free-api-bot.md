@@ -1,13 +1,23 @@
 ---
-title: "aurearobotic610/Claude-free-api-bot"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "Windows Desktop App", "API Aggregation", "AI Provider Integration"]
+title: aurearobotic610/Claude-free-api-bot
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Electron
+- Windows Desktop App
+- API Aggregation
+- AI Provider Integration
 quality_score: 7
 rag_relevance: 5
-tags: ["AI aggregation", "desktop app", "multi-provider routing", "Claude-style responses", "Windows tool"]
-source: "https://github.com/aurearobotic610/Claude-free-api-bot"
-discovered_at: "2026-07-07T20:50:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI aggregation
+- desktop app
+- multi-provider routing
+- Claude-style responses
+- Windows tool
+source: https://github.com/aurearobotic610/Claude-free-api-bot
+discovered_at: '2026-07-07T20:50:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

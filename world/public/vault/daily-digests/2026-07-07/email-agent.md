@@ -1,13 +1,28 @@
 ---
-title: "ayush-s-tomar/Email-agent"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "APScheduler", "Groq API", "LLaMA 3.3 70B", "IMAP", "SMTP", "React", "Vite", "CSV"]
+title: ayush-s-tomar/Email-agent
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- FastAPI
+- APScheduler
+- Groq API
+- LLaMA 3.3 70B
+- IMAP
+- SMTP
+- React
+- Vite
+- CSV
 quality_score: 9
 rag_relevance: 7
-tags: ["email automation", "AI agent", "Gmail integration", "LLM-powered", "workflow automation"]
-source: "https://github.com/ayush-s-tomar/Email-agent"
-discovered_at: "2026-07-07T18:58:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- email automation
+- AI agent
+- Gmail integration
+- LLM-powered
+- workflow automation
+source: https://github.com/ayush-s-tomar/Email-agent
+discovered_at: '2026-07-07T18:58:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

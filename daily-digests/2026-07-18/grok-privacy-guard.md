@@ -1,13 +1,24 @@
 ---
-title: "LeifDiao/grok-privacy-guard"
-category: "Tooling"
-tech_stack: ["Shell", "Python", "TOML/JSON parsing", "SHA-256 hashing", "Unix tools (awk, mktemp, strings)", "Git"]
+title: LeifDiao/grok-privacy-guard
+category: daily-digests/2026-07-18
+tech_stack:
+- Shell
+- Python
+- TOML/JSON parsing
+- SHA-256 hashing
+- Unix tools (awk, mktemp, strings)
+- Git
 quality_score: 8
 rag_relevance: 7
-tags: ["privacy guard", "CLI security", "codebase upload prevention", "Grok CLI", "local monitoring"]
-source: "https://github.com/LeifDiao/grok-privacy-guard"
-discovered_at: "2026-07-14T12:10:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- privacy guard
+- CLI security
+- codebase upload prevention
+- Grok CLI
+- local monitoring
+source: https://github.com/LeifDiao/grok-privacy-guard
+discovered_at: '2026-07-14T12:10:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

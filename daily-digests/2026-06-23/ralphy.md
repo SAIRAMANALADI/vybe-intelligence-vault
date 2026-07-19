@@ -1,13 +1,27 @@
 ---
-title: "alecs5am/ralphy"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "OpenRouter API", "ElevenLabs API", "HyperFrames (HTML + GSAP)", "Puppeteer", "FFmpeg", "SQLite", "Mermaid.js"]
+title: alecs5am/ralphy
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Bun
+- OpenRouter API
+- ElevenLabs API
+- HyperFrames (HTML + GSAP)
+- Puppeteer
+- FFmpeg
+- SQLite
+- Mermaid.js
 quality_score: 9
 rag_relevance: 6
-tags: ["AI video generation", "agent orchestration", "reproducible workflows", "cost tracking", "template-driven"]
-source: "https://github.com/alecs5am/ralphy"
-discovered_at: "2026-06-23T13:47:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI video generation
+- agent orchestration
+- reproducible workflows
+- cost tracking
+- template-driven
+source: https://github.com/alecs5am/ralphy
+discovered_at: '2026-06-23T13:47:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

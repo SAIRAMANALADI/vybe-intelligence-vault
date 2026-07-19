@@ -1,13 +1,23 @@
 ---
-title: "HappyLeoYang/FengChaoSkills"
-category: "Tooling"
-tech_stack: ["Python", "Markdown", "Git", "YAML", "Shell Scripting"]
+title: HappyLeoYang/FengChaoSkills
+category: daily-digests/2026-07-10
+tech_stack:
+- Python
+- Markdown
+- Git
+- YAML
+- Shell Scripting
 quality_score: 9
 rag_relevance: 8
-tags: ["business memory", "AI session context", "documentation automation", "agent integration", "truth ledger"]
-source: "https://github.com/HappyLeoYang/FengChaoSkills"
-discovered_at: "2026-07-10T06:52:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- business memory
+- AI session context
+- documentation automation
+- agent integration
+- truth ledger
+source: https://github.com/HappyLeoYang/FengChaoSkills
+discovered_at: '2026-07-10T06:52:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

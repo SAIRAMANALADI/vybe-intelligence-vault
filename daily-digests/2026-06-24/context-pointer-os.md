@@ -1,13 +1,25 @@
 ---
-title: "kagioneko/context-pointer-os"
-category: "Orchestrator"
-tech_stack: ["Python", "LLM", "Memory Management", "Virtual Memory", "Speculative Execution", "ACL (Access Control)", "Unit Testing (pytest)"]
+title: kagioneko/context-pointer-os
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- LLM
+- Memory Management
+- Virtual Memory
+- Speculative Execution
+- ACL (Access Control)
+- Unit Testing (pytest)
 quality_score: 8
 rag_relevance: 9
-tags: ["memory management", "LLM agents", "context window optimization", "stateful agents", "cognitive memory"]
-source: "https://github.com/kagioneko/context-pointer-os"
-discovered_at: "2026-06-24T13:18:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory management
+- LLM agents
+- context window optimization
+- stateful agents
+- cognitive memory
+source: https://github.com/kagioneko/context-pointer-os
+discovered_at: '2026-06-24T13:18:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

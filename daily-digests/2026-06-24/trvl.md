@@ -1,13 +1,24 @@
 ---
-title: "MikkoParkkola/trvl"
-category: "Agent Framework"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "HTTP/JSON APIs", "CLI", "Docker", "GitHub Actions"]
+title: MikkoParkkola/trvl
+category: daily-digests/2026-06-24
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- HTTP/JSON APIs
+- CLI
+- Docker
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["travel planning", "MCP server", "AI assistant integration", "real-time booking", "travel optimization"]
-source: "https://github.com/MikkoParkkola/trvl"
-discovered_at: "2026-06-24T13:17:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- travel planning
+- MCP server
+- AI assistant integration
+- real-time booking
+- travel optimization
+source: https://github.com/MikkoParkkola/trvl
+discovered_at: '2026-06-24T13:17:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

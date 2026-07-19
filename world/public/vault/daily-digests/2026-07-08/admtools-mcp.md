@@ -1,13 +1,23 @@
 ---
-title: "Zonary-prosciutto932/admtools-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Windows Desktop", "Web UI", "API Integration"]
+title: Zonary-prosciutto932/admtools-mcp
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- Windows Desktop
+- Web UI
+- API Integration
 quality_score: 6
 rag_relevance: 4
-tags: ["domain management", "DNS administration", "email hosting", "billing tools", "Windows utility"]
-source: "https://github.com/Zonary-prosciutto932/admtools-mcp"
-discovered_at: "2026-07-08T22:16:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- domain management
+- DNS administration
+- email hosting
+- billing tools
+- Windows utility
+source: https://github.com/Zonary-prosciutto932/admtools-mcp
+discovered_at: '2026-07-08T22:16:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "Ozkrnrike/homelab-infrastructure-monitor"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Docker", "PostgreSQL", "JavaScript", "HTML/CSS"]
+title: Ozkrnrike/homelab-infrastructure-monitor
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- FastAPI
+- Docker
+- PostgreSQL
+- JavaScript
+- HTML/CSS
 quality_score: 5
 rag_relevance: 4
-tags: ["monitoring", "home lab", "system metrics", "real-time dashboard", "alerts"]
-source: "https://github.com/Ozkrnrike/homelab-infrastructure-monitor"
-discovered_at: "2026-06-25T07:27:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- monitoring
+- home lab
+- system metrics
+- real-time dashboard
+- alerts
+source: https://github.com/Ozkrnrike/homelab-infrastructure-monitor
+discovered_at: '2026-06-25T07:27:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

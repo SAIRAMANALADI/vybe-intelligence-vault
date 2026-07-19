@@ -1,13 +1,21 @@
 ---
-title: "Felinerelief627/mcp"
-category: "Orchestrator"
-tech_stack: ["Model Context Protocol", "LLM Integration", "Analytics Data Connector"]
+title: Felinerelief627/mcp
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Model Context Protocol
+- LLM Integration
+- Analytics Data Connector
 quality_score: 3
 rag_relevance: 7
-tags: ["MCP", "LLM agents", "analytics", "real-time insights", "data integration"]
-source: "https://github.com/Felinerelief627/mcp"
-discovered_at: "2026-07-10T06:16:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- LLM agents
+- analytics
+- real-time insights
+- data integration
+source: https://github.com/Felinerelief627/mcp
+discovered_at: '2026-07-10T06:16:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

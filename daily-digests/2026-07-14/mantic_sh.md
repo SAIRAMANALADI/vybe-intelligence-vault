@@ -1,13 +1,24 @@
 ---
-title: "marcoaapfortes/Mantic.sh"
-category: "Tooling"
-tech_stack: ["TypeScript", "Tree-sitter", "transformers.js", "Node.js", "MCP (Model Context Protocol)", "Git"]
+title: marcoaapfortes/Mantic.sh
+category: daily-digests/2026-07-14
+tech_stack:
+- TypeScript
+- Tree-sitter
+- transformers.js
+- Node.js
+- MCP (Model Context Protocol)
+- Git
 quality_score: 9
 rag_relevance: 10
-tags: ["code search", "semantic search", "AI agents", "context-aware", "MCP server"]
-source: "https://github.com/marcoaapfortes/Mantic.sh"
-discovered_at: "2026-07-13T22:55:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code search
+- semantic search
+- AI agents
+- context-aware
+- MCP server
+source: https://github.com/marcoaapfortes/Mantic.sh
+discovered_at: '2026-07-13T22:55:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

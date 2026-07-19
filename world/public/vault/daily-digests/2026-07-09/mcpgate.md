@@ -1,13 +1,27 @@
 ---
-title: "Mcpgate-de/mcpgate"
-category: "Orchestrator"
-tech_stack: ["Python", "Docker", "MCP (Model Context Protocol)", "OAuth/OIDC", "YAML", "REST APIs", "OpenAPI", "PostgreSQL", "Redis"]
+title: Mcpgate-de/mcpgate
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- Docker
+- MCP (Model Context Protocol)
+- OAuth/OIDC
+- YAML
+- REST APIs
+- OpenAPI
+- PostgreSQL
+- Redis
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP gateway", "self-hosted", "PII pseudonymization", "policy enforcement", "AI agent integration"]
-source: "https://github.com/Mcpgate-de/mcpgate"
-discovered_at: "2026-07-09T21:19:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP gateway
+- self-hosted
+- PII pseudonymization
+- policy enforcement
+- AI agent integration
+source: https://github.com/Mcpgate-de/mcpgate
+discovered_at: '2026-07-09T21:19:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

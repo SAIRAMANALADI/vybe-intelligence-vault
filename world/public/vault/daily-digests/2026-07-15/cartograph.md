@@ -1,13 +1,26 @@
 ---
-title: "adder-factory/cartograph"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "SQLite", "PostgreSQL", "MCP (Model Context Protocol)", "LLM (OpenAI-compatible backends)", "React", "WebAssembly"]
+title: adder-factory/cartograph
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- TypeScript
+- Bun
+- SQLite
+- PostgreSQL
+- MCP (Model Context Protocol)
+- LLM (OpenAI-compatible backends)
+- React
+- WebAssembly
 quality_score: 9
 rag_relevance: 8
-tags: ["code intelligence", "knowledge graph", "MCP server", "local-first", "agent tooling"]
-source: "https://github.com/adder-factory/cartograph"
-discovered_at: "2026-07-10T10:52:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code intelligence
+- knowledge graph
+- MCP server
+- local-first
+- agent tooling
+source: https://github.com/adder-factory/cartograph
+discovered_at: '2026-07-10T10:52:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

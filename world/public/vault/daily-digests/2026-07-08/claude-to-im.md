@@ -1,13 +1,24 @@
 ---
-title: "sujaltilokani/Claude-to-IM"
-category: "Tooling"
-tech_stack: ["TypeScript", "Windows Desktop", "Claude Code SDK", "Telegram API", "Discord API", "Feishu API"]
+title: sujaltilokani/Claude-to-IM
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Windows Desktop
+- Claude Code SDK
+- Telegram API
+- Discord API
+- Feishu API
 quality_score: 7
 rag_relevance: 6
-tags: ["AI integration", "messaging bridge", "Claude Code", "Windows app", "chatbot interface"]
-source: "https://github.com/sujaltilokani/Claude-to-IM"
-discovered_at: "2026-07-08T02:07:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI integration
+- messaging bridge
+- Claude Code
+- Windows app
+- chatbot interface
+source: https://github.com/sujaltilokani/Claude-to-IM
+discovered_at: '2026-07-08T02:07:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "zaka265-star/MyTaskly-mcp"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "OAuth 2.1", "JWT", "Model Context Protocol (MCP)"]
+title: zaka265-star/MyTaskly-mcp
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- FastAPI
+- OAuth 2.1
+- JWT
+- Model Context Protocol (MCP)
 quality_score: 5
 rag_relevance: 4
-tags: ["task management", "authentication", "MCP", "FastAPI", "cross-device sync"]
-source: "https://github.com/zaka265-star/MyTaskly-mcp"
-discovered_at: "2026-06-25T05:08:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- task management
+- authentication
+- MCP
+- FastAPI
+- cross-device sync
+source: https://github.com/zaka265-star/MyTaskly-mcp
+discovered_at: '2026-06-25T05:08:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

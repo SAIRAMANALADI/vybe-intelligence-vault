@@ -1,13 +1,27 @@
 ---
-title: "Leisure-Auf1/A3-Multi-Agent-System"
-category: "Agent Framework"
-tech_stack: ["Python", "Streamlit", "EventBus", "LLM (unspecified)", "Mermaid.js", "Redis", "PostgreSQL", "ChromaDB", "pytest"]
+title: Leisure-Auf1/A3-Multi-Agent-System
+category: daily-digests/2026-07-16
+tech_stack:
+- Python
+- Streamlit
+- EventBus
+- LLM (unspecified)
+- Mermaid.js
+- Redis
+- PostgreSQL
+- ChromaDB
+- pytest
 quality_score: 8
 rag_relevance: 7
-tags: ["multi-agent systems", "personalized learning", "event-driven architecture", "self-improving agents", "research prototype"]
-source: "https://github.com/Leisure-Auf1/A3-Multi-Agent-System"
-discovered_at: "2026-07-14T05:29:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- personalized learning
+- event-driven architecture
+- self-improving agents
+- research prototype
+source: https://github.com/Leisure-Auf1/A3-Multi-Agent-System
+discovered_at: '2026-07-14T05:29:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

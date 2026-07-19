@@ -1,13 +1,26 @@
 ---
-title: "ryanschwartz88/creator-outreach-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Hermes Agent", "Ollama (Gemma 4 31B)", "Gmail API", "Telegram Bot API", "ScrapeCreators API", "SQLite", "Docker"]
+title: ryanschwartz88/creator-outreach-agent
+category: daily-digests/2026-07-15
+tech_stack:
+- Python
+- Hermes Agent
+- Ollama (Gemma 4 31B)
+- Gmail API
+- Telegram Bot API
+- ScrapeCreators API
+- SQLite
+- Docker
 quality_score: 8
 rag_relevance: 6
-tags: ["autonomous outreach", "local LLM", "TikTok creator discovery", "white-label", "multi-agent system"]
-source: "https://github.com/ryanschwartz88/creator-outreach-agent"
-discovered_at: "2026-07-11T22:44:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous outreach
+- local LLM
+- TikTok creator discovery
+- white-label
+- multi-agent system
+source: https://github.com/ryanschwartz88/creator-outreach-agent
+discovered_at: '2026-07-11T22:44:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

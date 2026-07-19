@@ -1,13 +1,27 @@
 ---
-title: "fdmtl/director"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "React", "Turborepo", "Docker", "OAuth", "CLI", "JSON Logging"]
+title: fdmtl/director
+category: daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- React
+- Turborepo
+- Docker
+- OAuth
+- CLI
+- JSON Logging
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "AI Agents", "Playbooks", "Orchestration", "Local-First"]
-source: "https://github.com/fdmtl/director"
-discovered_at: "2026-07-10T06:31:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- AI Agents
+- Playbooks
+- Orchestration
+- Local-First
+source: https://github.com/fdmtl/director
+discovered_at: '2026-07-10T06:31:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "dakshk11/personal_finance"
-category: "Tooling"
-tech_stack: ["Python", "OpenAI API", "Ollama", "Yahoo Finance API", "SEC 13F Data", "SQLite", "FastAPI", "React", "Docker"]
+title: dakshk11/personal_finance
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- OpenAI API
+- Ollama
+- Yahoo Finance API
+- SEC 13F Data
+- SQLite
+- FastAPI
+- React
+- Docker
 quality_score: 8
 rag_relevance: 4
-tags: ["personal finance", "AI-assisted planning", "tax optimization", "portfolio analysis", "self-hosted"]
-source: "https://github.com/dakshk11/personal_finance"
-discovered_at: "2026-06-24T02:43:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personal finance
+- AI-assisted planning
+- tax optimization
+- portfolio analysis
+- self-hosted
+source: https://github.com/dakshk11/personal_finance
+discovered_at: '2026-06-24T02:43:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

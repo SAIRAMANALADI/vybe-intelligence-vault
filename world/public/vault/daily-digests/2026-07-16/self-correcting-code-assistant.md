@@ -1,13 +1,24 @@
 ---
-title: "kunwardhruv/Self-Correcting-Code-Assistant"
-category: "Agent Framework"
-tech_stack: ["Python", "Streamlit", "LangGraph", "Groq API", "Pytest", "Subprocess"]
+title: kunwardhruv/Self-Correcting-Code-Assistant
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- Python
+- Streamlit
+- LangGraph
+- Groq API
+- Pytest
+- Subprocess
 quality_score: 9
 rag_relevance: 8
-tags: ["AI code generation", "self-correcting agent", "automated testing", "LLM-driven development", "code validation"]
-source: "https://github.com/kunwardhruv/Self-Correcting-Code-Assistant"
-discovered_at: "2026-07-12T17:03:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI code generation
+- self-correcting agent
+- automated testing
+- LLM-driven development
+- code validation
+source: https://github.com/kunwardhruv/Self-Correcting-Code-Assistant
+discovered_at: '2026-07-12T17:03:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

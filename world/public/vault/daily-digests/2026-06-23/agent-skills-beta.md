@@ -1,13 +1,27 @@
 ---
-title: "rondomondo/agent-skills-beta"
-category: "Agent Framework"
-tech_stack: ["Python", "Docker", "Mermaid.js", "Claude Code", "Bash", "HTML/CSS", "PDF generation (Playwright)", "Git hooks", "Makefile"]
+title: rondomondo/agent-skills-beta
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Docker
+- Mermaid.js
+- Claude Code
+- Bash
+- HTML/CSS
+- PDF generation (Playwright)
+- Git hooks
+- Makefile
 quality_score: 8
 rag_relevance: 9
-tags: ["AI agent skills", "tool integration", "structured workflows", "sandbox inspection", "project scaffolding"]
-source: "https://github.com/rondomondo/agent-skills-beta"
-discovered_at: "2026-06-23T21:28:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent skills
+- tool integration
+- structured workflows
+- sandbox inspection
+- project scaffolding
+source: https://github.com/rondomondo/agent-skills-beta
+discovered_at: '2026-06-23T21:28:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

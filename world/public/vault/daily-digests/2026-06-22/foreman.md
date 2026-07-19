@@ -1,13 +1,24 @@
 ---
-title: "FlexOr2/foreman"
-category: "Agent Framework"
-tech_stack: ["Claude Code", "Python", "uv", "Markdown", "Git", "CLI"]
+title: FlexOr2/foreman
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Claude Code
+- Python
+- uv
+- Markdown
+- Git
+- CLI
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous agent", "self-improving", "Claude Code", "continuous loop", "persistent identity"]
-source: "https://github.com/FlexOr2/foreman"
-discovered_at: "2026-06-22T23:19:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agent
+- self-improving
+- Claude Code
+- continuous loop
+- persistent identity
+source: https://github.com/FlexOr2/foreman
+discovered_at: '2026-06-22T23:19:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

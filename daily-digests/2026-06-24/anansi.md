@@ -1,13 +1,23 @@
 ---
-title: "aboral-bumper926/anansi"
-category: "Tooling"
-tech_stack: ["Python", "Pydantic", "TLS Fingerprinting", "Model Context Protocol (MCP)", "Browser Automation"]
+title: aboral-bumper926/anansi
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Pydantic
+- TLS Fingerprinting
+- Model Context Protocol (MCP)
+- Browser Automation
 quality_score: 7
 rag_relevance: 8
-tags: ["web scraping", "anti-bot evasion", "AI integration", "data extraction", "browser automation"]
-source: "https://github.com/aboral-bumper926/anansi"
-discovered_at: "2026-06-24T22:17:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web scraping
+- anti-bot evasion
+- AI integration
+- data extraction
+- browser automation
+source: https://github.com/aboral-bumper926/anansi
+discovered_at: '2026-06-24T22:17:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "1mcp-app/agent"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Docker", "CLI", "HTTP/Streamable Protocols"]
+title: 1mcp-app/agent
+category: daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Docker
+- CLI
+- HTTP/Streamable Protocols
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP", "agent orchestration", "tool aggregation", "RAG optimization", "AI runtime"]
-source: "https://github.com/1mcp-app/agent"
-discovered_at: "2026-07-14T16:14:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- agent orchestration
+- tool aggregation
+- RAG optimization
+- AI runtime
+source: https://github.com/1mcp-app/agent
+discovered_at: '2026-07-14T16:14:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

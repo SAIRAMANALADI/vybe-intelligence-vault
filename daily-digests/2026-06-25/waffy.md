@@ -1,13 +1,24 @@
 ---
-title: "upzare/Waffy"
-category: "Tooling"
-tech_stack: ["TypeScript", "Chrome Extension API", "Node.js", "React", "AI Model Providers (OpenAI, Anthropic, Google, xAI, Groq, OpenRouter)", "Vision-based interaction (screenshots, coordinates)"]
+title: upzare/Waffy
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Chrome Extension API
+- Node.js
+- React
+- AI Model Providers (OpenAI, Anthropic, Google, xAI, Groq, OpenRouter)
+- Vision-based interaction (screenshots, coordinates)
 quality_score: 9
 rag_relevance: 7
-tags: ["browser automation", "AI copilot", "Chrome extension", "vision models", "multi-stage workflows"]
-source: "https://github.com/upzare/Waffy"
-discovered_at: "2026-06-25T05:03:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- AI copilot
+- Chrome extension
+- vision models
+- multi-stage workflows
+source: https://github.com/upzare/Waffy
+discovered_at: '2026-06-25T05:03:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

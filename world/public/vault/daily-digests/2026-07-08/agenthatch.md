@@ -1,13 +1,26 @@
 ---
-title: "agenthatch/agenthatch"
-category: "Agent Framework"
-tech_stack: ["Python", "Jinja2", "LLM APIs (OpenAI, DeepSeek, Anthropic, OpenAI-compatible)", "TOML", "CLI", "Type Annotations", "MCP (Model Context Protocol)", "State Machines"]
+title: agenthatch/agenthatch
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- Jinja2
+- LLM APIs (OpenAI, DeepSeek, Anthropic, OpenAI-compatible)
+- TOML
+- CLI
+- Type Annotations
+- MCP (Model Context Protocol)
+- State Machines
 quality_score: 9
 rag_relevance: 8
-tags: ["agent compilation", "SKILL.md conversion", "deterministic agents", "MCP integration", "AI tooling"]
-source: "https://github.com/agenthatch/agenthatch"
-discovered_at: "2026-07-08T15:15:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent compilation
+- SKILL.md conversion
+- deterministic agents
+- MCP integration
+- AI tooling
+source: https://github.com/agenthatch/agenthatch
+discovered_at: '2026-07-08T15:15:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

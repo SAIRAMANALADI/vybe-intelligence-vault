@@ -1,13 +1,47 @@
 ---
-title: "genomoncology/biomcp"
-category: "Orchestrator"
-tech_stack: ["Rust", "Python", "Model Context Protocol (MCP)", "g:Profiler", "Enrichr", "PubTator3", "Europe PMC", "PubMed", "Semantic Scholar", "ClinicalTrials.gov", "OpenFDA", "MyGene.info", "UniProt", "Reactome", "STRING", "GTEx", "Human Protein Atlas", "ClinVar", "CIViC", "OncoKB", "cBioPortal", "GWAS Catalog", "AlphaGenome", "DisGeNET", "NCBI Genetic Testing Registry", "WHO Prequalification", "ChEMBL", "OpenTargets", "Drugs@FDA"]
+title: genomoncology/biomcp
+category: daily-digests/2026-06-24
+tech_stack:
+- Rust
+- Python
+- Model Context Protocol (MCP)
+- g:Profiler
+- Enrichr
+- PubTator3
+- Europe PMC
+- PubMed
+- Semantic Scholar
+- ClinicalTrials.gov
+- OpenFDA
+- MyGene.info
+- UniProt
+- Reactome
+- STRING
+- GTEx
+- Human Protein Atlas
+- ClinVar
+- CIViC
+- OncoKB
+- cBioPortal
+- GWAS Catalog
+- AlphaGenome
+- DisGeNET
+- NCBI Genetic Testing Registry
+- WHO Prequalification
+- ChEMBL
+- OpenTargets
+- Drugs@FDA
 quality_score: 9
 rag_relevance: 10
-tags: ["biomedical data integration", "MCP server", "RAG tooling", "multi-source search", "clinical evidence"]
-source: "https://github.com/genomoncology/biomcp"
-discovered_at: "2026-06-24T20:52:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- biomedical data integration
+- MCP server
+- RAG tooling
+- multi-source search
+- clinical evidence
+source: https://github.com/genomoncology/biomcp
+discovered_at: '2026-06-24T20:52:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

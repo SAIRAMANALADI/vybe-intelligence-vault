@@ -1,13 +1,23 @@
 ---
-title: "mr8lu/savile"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Git", "Vercel Labs Skills", "YAML"]
+title: mr8lu/savile
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Git
+- Vercel Labs Skills
+- YAML
 quality_score: 9
 rag_relevance: 8
-tags: ["prompt management", "agent frameworks", "version control", "MCP server", "portable skills"]
-source: "https://github.com/mr8lu/savile"
-discovered_at: "2026-07-07T19:00:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- prompt management
+- agent frameworks
+- version control
+- MCP server
+- portable skills
+source: https://github.com/mr8lu/savile
+discovered_at: '2026-07-07T19:00:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "kuvasz-uptime/kuvasz"
-category: "Tooling"
-tech_stack: ["Kotlin", "Docker", "REST API", "MCP Server", "Prometheus", "OpenTelemetry", "YAML", "PostgreSQL", "React", "TypeScript"]
+title: kuvasz-uptime/kuvasz
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- Kotlin
+- Docker
+- REST API
+- MCP Server
+- Prometheus
+- OpenTelemetry
+- YAML
+- PostgreSQL
+- React
+- TypeScript
 quality_score: 9
 rag_relevance: 8
-tags: ["uptime monitoring", "SSL monitoring", "status pages", "AI integration", "self-hosted"]
-source: "https://github.com/kuvasz-uptime/kuvasz"
-discovered_at: "2026-07-14T05:29:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- uptime monitoring
+- SSL monitoring
+- status pages
+- AI integration
+- self-hosted
+source: https://github.com/kuvasz-uptime/kuvasz
+discovered_at: '2026-07-14T05:29:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

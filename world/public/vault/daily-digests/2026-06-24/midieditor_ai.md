@@ -1,13 +1,28 @@
 ---
-title: "happytunesai/MidiEditor_AI"
-category: "Tooling"
-tech_stack: ["C++", "Qt", "OpenGL", "RtMidi", "FluidSynth", "LAME MP3 Encoder", "WebRTC", "SSE (Server-Sent Events)", "JSON", "GitHub Actions"]
+title: happytunesai/MidiEditor_AI
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- C++
+- Qt
+- OpenGL
+- RtMidi
+- FluidSynth
+- LAME MP3 Encoder
+- WebRTC
+- SSE (Server-Sent Events)
+- JSON
+- GitHub Actions
 quality_score: 9
 rag_relevance: 6
-tags: ["MIDI editor", "AI copilot", "natural language processing", "music generation", "collaboration"]
-source: "https://github.com/happytunesai/MidiEditor_AI"
-discovered_at: "2026-06-24T16:13:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MIDI editor
+- AI copilot
+- natural language processing
+- music generation
+- collaboration
+source: https://github.com/happytunesai/MidiEditor_AI
+discovered_at: '2026-06-24T16:13:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

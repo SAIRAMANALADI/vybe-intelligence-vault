@@ -1,13 +1,23 @@
 ---
-title: "Anonymousforareason111/hybrid-orchestrator"
-category: "Orchestrator"
-tech_stack: ["Python", "Voice AI", "Workflow Automation", "GUI Framework", "Financial Services"]
+title: Anonymousforareason111/hybrid-orchestrator
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Voice AI
+- Workflow Automation
+- GUI Framework
+- Financial Services
 quality_score: 7
 rag_relevance: 6
-tags: ["human-AI collaboration", "workflow automation", "financial services", "voice AI", "no-code"]
-source: "https://github.com/Anonymousforareason111/hybrid-orchestrator"
-discovered_at: "2026-06-24T16:21:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- human-AI collaboration
+- workflow automation
+- financial services
+- voice AI
+- no-code
+source: https://github.com/Anonymousforareason111/hybrid-orchestrator
+discovered_at: '2026-06-24T16:21:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

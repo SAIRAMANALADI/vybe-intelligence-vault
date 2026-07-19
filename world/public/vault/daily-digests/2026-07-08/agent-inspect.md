@@ -1,13 +1,30 @@
 ---
-title: "rajudandigam/agent-inspect"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "CLI", "JSONL", "SQLite", "Vercel AI SDK", "OpenAI Agents", "LangChain", "Vitest", "Jest", "MCP", "VS Code Extension"]
+title: rajudandigam/agent-inspect
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- JSONL
+- SQLite
+- Vercel AI SDK
+- OpenAI Agents
+- LangChain
+- Vitest
+- Jest
+- MCP
+- VS Code Extension
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent tracing", "local execution trees", "debugging tool", "CI integration", "safe sharing"]
-source: "https://github.com/rajudandigam/agent-inspect"
-discovered_at: "2026-07-08T21:01:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent tracing
+- local execution trees
+- debugging tool
+- CI integration
+- safe sharing
+source: https://github.com/rajudandigam/agent-inspect
+discovered_at: '2026-07-08T21:01:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

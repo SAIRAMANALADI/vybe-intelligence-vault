@@ -1,13 +1,23 @@
 ---
-title: "Carltonromansh946/daVinci-LLM"
-category: "Tooling"
-tech_stack: ["Python", "Windows OS", "LLM Training", "Batch Scripting", "Apache 2.0 License"]
+title: Carltonromansh946/daVinci-LLM
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Windows OS
+- LLM Training
+- Batch Scripting
+- Apache 2.0 License
 quality_score: 6
 rag_relevance: 5
-tags: ["LLM pretraining", "Windows compatibility", "research toolkit", "model training", "local experimentation"]
-source: "https://github.com/Carltonromansh946/daVinci-LLM"
-discovered_at: "2026-07-07T20:50:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LLM pretraining
+- Windows compatibility
+- research toolkit
+- model training
+- local experimentation
+source: https://github.com/Carltonromansh946/daVinci-LLM
+discovered_at: '2026-07-07T20:50:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

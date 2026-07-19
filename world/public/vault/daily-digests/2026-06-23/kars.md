@@ -1,13 +1,36 @@
 ---
-title: "Azure/kars"
-category: "Orchestrator"
-tech_stack: ["Rust", "Kubernetes", "Azure AKS", "Signal Protocol (X3DH + Double Ratchet)", "Docker", "Helm", "Cosign (SLSA/Sigstore)", "GitHub Actions", "OpenClaw", "Hermes", "LangGraph", "Microsoft Agent Framework", "Pydantic-AI", "Anthropic", "GitHub Copilot", "Azure AI Foundry", "Azure OpenAI", "GitHub Models"]
+title: Azure/kars
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Rust
+- Kubernetes
+- Azure AKS
+- Signal Protocol (X3DH + Double Ratchet)
+- Docker
+- Helm
+- Cosign (SLSA/Sigstore)
+- GitHub Actions
+- OpenClaw
+- Hermes
+- LangGraph
+- Microsoft Agent Framework
+- Pydantic-AI
+- Anthropic
+- GitHub Copilot
+- Azure AI Foundry
+- Azure OpenAI
+- GitHub Models
 quality_score: 9
 rag_relevance: 10
-tags: ["AI agent runtime", "Kubernetes security", "sandbox isolation", "end-to-end encryption", "governance framework"]
-source: "https://github.com/Azure/kars"
-discovered_at: "2026-06-23T21:31:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent runtime
+- Kubernetes security
+- sandbox isolation
+- end-to-end encryption
+- governance framework
+source: https://github.com/Azure/kars
+discovered_at: '2026-06-23T21:31:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

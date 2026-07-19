@@ -1,13 +1,25 @@
 ---
-title: "ma4nn/pp-terminal"
-category: "Tooling"
-tech_stack: ["Python", "CLI", "MCP Server", "TOML", "XML Parsing", "Typer", "Faker"]
+title: ma4nn/pp-terminal
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- Python
+- CLI
+- MCP Server
+- TOML
+- XML Parsing
+- Typer
+- Faker
 quality_score: 9
 rag_relevance: 7
-tags: ["portfolio analysis", "tax simulation", "financial data", "MCP server", "CLI tool"]
-source: "https://github.com/ma4nn/pp-terminal"
-discovered_at: "2026-07-14T16:14:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- portfolio analysis
+- tax simulation
+- financial data
+- MCP server
+- CLI tool
+source: https://github.com/ma4nn/pp-terminal
+discovered_at: '2026-07-14T16:14:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

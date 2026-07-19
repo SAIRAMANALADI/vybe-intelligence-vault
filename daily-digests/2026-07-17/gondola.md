@@ -1,13 +1,27 @@
 ---
-title: "sabrinaaquino/gondola"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Next.js", "Venice AI", "Pi Agent Core", "WebRTC", "MCP (Model Context Protocol)", "Semantic Search", "Local Storage (.gondola/)"]
+title: sabrinaaquino/gondola
+category: daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- Node.js
+- Next.js
+- Venice AI
+- Pi Agent Core
+- WebRTC
+- MCP (Model Context Protocol)
+- Semantic Search
+- Local Storage (.gondola/)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI companion", "voice interface", "vision integration", "self-editing agent", "local-first"]
-source: "https://github.com/sabrinaaquino/gondola"
-discovered_at: "2026-07-16T02:25:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI companion
+- voice interface
+- vision integration
+- self-editing agent
+- local-first
+source: https://github.com/sabrinaaquino/gondola
+discovered_at: '2026-07-16T02:25:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

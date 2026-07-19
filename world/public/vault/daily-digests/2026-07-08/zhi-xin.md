@@ -1,13 +1,26 @@
 ---
-title: "Detachment5879/zhi-xin"
-category: "Agent Framework"
-tech_stack: ["Next.js 15", "TypeScript", "FastAPI", "Python 3.14", "Supabase (PostgreSQL)", "Tailwind CSS", "DeepSeek V3 / R1", "SSE (Server-Sent Events)"]
+title: Detachment5879/zhi-xin
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Next.js 15
+- TypeScript
+- FastAPI
+- Python 3.14
+- Supabase (PostgreSQL)
+- Tailwind CSS
+- DeepSeek V3 / R1
+- SSE (Server-Sent Events)
 quality_score: 8
 rag_relevance: 7
-tags: ["personalized learning", "multi-agent AI", "educational platform", "cost-efficient RAG", "adaptive study plans"]
-source: "https://github.com/Detachment5879/zhi-xin"
-discovered_at: "2026-07-08T08:16:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personalized learning
+- multi-agent AI
+- educational platform
+- cost-efficient RAG
+- adaptive study plans
+source: https://github.com/Detachment5879/zhi-xin
+discovered_at: '2026-07-08T08:16:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "arifulislamat/database-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "SQL", "Model Context Protocol (MCP)", "CI/CD (GitHub Actions)"]
+title: arifulislamat/database-mcp
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- TypeScript
+- Node.js
+- SQL
+- Model Context Protocol (MCP)
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "SQL databases", "AI tooling", "read-only access", "structured queries"]
-source: "https://github.com/arifulislamat/database-mcp"
-discovered_at: "2026-07-15T20:08:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- SQL databases
+- AI tooling
+- read-only access
+- structured queries
+source: https://github.com/arifulislamat/database-mcp
+discovered_at: '2026-07-15T20:08:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

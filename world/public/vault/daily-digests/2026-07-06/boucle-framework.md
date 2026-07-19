@@ -1,13 +1,24 @@
 ---
-title: "Bande-a-Bonnot/Boucle-framework"
-category: "Tooling"
-tech_stack: ["Shell", "Bash", "PowerShell", "Claude Code", "Git", "Security Hooks"]
+title: Bande-a-Bonnot/Boucle-framework
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Shell
+- Bash
+- PowerShell
+- Claude Code
+- Git
+- Security Hooks
 quality_score: 9
 rag_relevance: 8
-tags: ["Claude Code", "Safety Hooks", "Command Enforcement", "Git Protection", "AI Agent Security"]
-source: "https://github.com/Bande-a-Bonnot/Boucle-framework"
-discovered_at: "2026-07-06T23:03:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- Safety Hooks
+- Command Enforcement
+- Git Protection
+- AI Agent Security
+source: https://github.com/Bande-a-Bonnot/Boucle-framework
+discovered_at: '2026-07-06T23:03:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "bizzal70/Audit_User_Agent"
-category: "Orchestrator"
-tech_stack: ["Python", "GitHub Actions", "Claude API", "YouTube Data API", "RSS/Atom feeds", "YAML configuration", "GitHub Issues"]
+title: bizzal70/Audit_User_Agent
+category: daily-digests/2026-07-17
+tech_stack:
+- Python
+- GitHub Actions
+- Claude API
+- YouTube Data API
+- RSS/Atom feeds
+- YAML configuration
+- GitHub Issues
 quality_score: 8
 rag_relevance: 6
-tags: ["content auditing", "multi-agent system", "social media analytics", "automated critique", "GitHub Actions"]
-source: "https://github.com/bizzal70/Audit_User_Agent"
-discovered_at: "2026-07-17T02:52:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- content auditing
+- multi-agent system
+- social media analytics
+- automated critique
+- GitHub Actions
+source: https://github.com/bizzal70/Audit_User_Agent
+discovered_at: '2026-07-17T02:52:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "Tonyx79/clov-ai"
-category: "Tooling"
-tech_stack: ["Rust", "JSON", "Command-line tools", "Windows"]
+title: Tonyx79/clov-ai
+category: daily-digests/2026-07-08
+tech_stack:
+- Rust
+- JSON
+- Command-line tools
+- Windows
 quality_score: 7
 rag_relevance: 8
-tags: ["context management", "token optimization", "data compression", "AI workflow", "MCP integration"]
-source: "https://github.com/Tonyx79/clov-ai"
-discovered_at: "2026-07-08T02:07:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- context management
+- token optimization
+- data compression
+- AI workflow
+- MCP integration
+source: https://github.com/Tonyx79/clov-ai
+discovered_at: '2026-07-08T02:07:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

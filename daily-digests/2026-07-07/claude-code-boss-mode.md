@@ -1,13 +1,22 @@
 ---
-title: "subashraja069-cmd/claude-code-boss-mode"
-category: "Tooling"
-tech_stack: ["Claude Code", "Windows", "Decision Framework", "Local Execution"]
+title: subashraja069-cmd/claude-code-boss-mode
+category: daily-digests/2026-07-07
+tech_stack:
+- Claude Code
+- Windows
+- Decision Framework
+- Local Execution
 quality_score: 6
 rag_relevance: 7
-tags: ["Claude Code", "Decision Layer", "Scope Management", "AI Coding Assistant", "Risk Assessment"]
-source: "https://github.com/subashraja069-cmd/claude-code-boss-mode"
-discovered_at: "2026-07-07T06:41:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- Decision Layer
+- Scope Management
+- AI Coding Assistant
+- Risk Assessment
+source: https://github.com/subashraja069-cmd/claude-code-boss-mode
+discovered_at: '2026-07-07T06:41:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

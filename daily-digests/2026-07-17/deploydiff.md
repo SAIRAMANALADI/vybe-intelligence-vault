@@ -1,13 +1,24 @@
 ---
-title: "Coding-Dev-Tools/deploydiff"
-category: "Tooling"
-tech_stack: ["Python", "Terraform", "CloudFormation", "Pulumi", "CLI", "MCP (Model Context Protocol)"]
+title: Coding-Dev-Tools/deploydiff
+category: daily-digests/2026-07-17
+tech_stack:
+- Python
+- Terraform
+- CloudFormation
+- Pulumi
+- CLI
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["infrastructure preview", "cost estimation", "rollback generation", "CI/CD integration", "multi-cloud"]
-source: "https://github.com/Coding-Dev-Tools/deploydiff"
-discovered_at: "2026-07-14T23:53:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- infrastructure preview
+- cost estimation
+- rollback generation
+- CI/CD integration
+- multi-cloud
+source: https://github.com/Coding-Dev-Tools/deploydiff
+discovered_at: '2026-07-14T23:53:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

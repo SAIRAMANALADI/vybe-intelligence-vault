@@ -1,13 +1,31 @@
 ---
-title: "RyanYao527/zilan-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude Code", "OpenAI API", "Agama corpus (CBETA-derived)", "Hetuvidya (Buddhist logic)", "Collected Topics (\u6444\u7c7b\u5b66)", "Madhyamaka critique", "Markdown-based retrieval", "GitHub Actions (CI/CD)", "PyYAML", "pytest", "ruff", "mypy"]
+title: RyanYao527/zilan-agent
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Python
+- Claude Code
+- OpenAI API
+- Agama corpus (CBETA-derived)
+- Hetuvidya (Buddhist logic)
+- Collected Topics (摄类学)
+- Madhyamaka critique
+- Markdown-based retrieval
+- GitHub Actions (CI/CD)
+- PyYAML
+- pytest
+- ruff
+- mypy
 quality_score: 9
 rag_relevance: 8
-tags: ["Buddhist AI", "LLM reasoning", "Agama retrieval", "Agent framework", "Logic engine"]
-source: "https://github.com/RyanYao527/zilan-agent"
-discovered_at: "2026-07-10T06:15:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Buddhist AI
+- LLM reasoning
+- Agama retrieval
+- Agent framework
+- Logic engine
+source: https://github.com/RyanYao527/zilan-agent
+discovered_at: '2026-07-10T06:15:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

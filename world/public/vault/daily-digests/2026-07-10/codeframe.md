@@ -1,13 +1,28 @@
 ---
-title: "frankbria/codeframe"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "SQLite", "Claude Code", "Codex", "OpenCode", "Kilocode", "ReAct", "Anthropic API", "uv (package manager)"]
+title: frankbria/codeframe
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- Claude Code
+- Codex
+- OpenCode
+- Kilocode
+- ReAct
+- Anthropic API
+- uv (package manager)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI orchestration", "project delivery", "requirements engineering", "quality gates", "agent framework"]
-source: "https://github.com/frankbria/codeframe"
-discovered_at: "2026-07-10T06:52:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI orchestration
+- project delivery
+- requirements engineering
+- quality gates
+- agent framework
+source: https://github.com/frankbria/codeframe
+discovered_at: '2026-07-10T06:52:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

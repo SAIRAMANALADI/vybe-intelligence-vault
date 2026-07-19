@@ -1,13 +1,26 @@
 ---
-title: "ajksunkang-aios/KGraph"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "SCIP (Sourcegraph Code Intelligence Protocol)", "scip-clang", "MCP (Model Context Protocol)", "Protobuf", "Docker", "clang/LLVM"]
+title: ajksunkang-aios/KGraph
+category: daily-digests/2026-07-16
+tech_stack:
+- Python
+- SQLite
+- SCIP (Sourcegraph Code Intelligence Protocol)
+- scip-clang
+- MCP (Model Context Protocol)
+- Protobuf
+- Docker
+- clang/LLVM
 quality_score: 9
 rag_relevance: 10
-tags: ["kernel code analysis", "compiler-aware indexing", "function-pointer resolution", "MCP server", "Linux kernel"]
-source: "https://github.com/ajksunkang-aios/KGraph"
-discovered_at: "2026-07-14T08:01:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- kernel code analysis
+- compiler-aware indexing
+- function-pointer resolution
+- MCP server
+- Linux kernel
+source: https://github.com/ajksunkang-aios/KGraph
+discovered_at: '2026-07-14T08:01:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

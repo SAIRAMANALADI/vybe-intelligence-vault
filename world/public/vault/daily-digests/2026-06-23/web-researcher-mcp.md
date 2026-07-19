@@ -1,13 +1,30 @@
 ---
-title: "zoharbabin/web-researcher-mcp"
-category: "Agent Framework"
-tech_stack: ["Go", "Python", "Docker", "MCP (Model Context Protocol)", "DuckDuckGo API", "Brave API", "SEC EDGAR API", "CourtListener API", "ClinicalTrials.gov API", "World Bank API", "OECD API", "FRED API"]
+title: zoharbabin/web-researcher-mcp
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Go
+- Python
+- Docker
+- MCP (Model Context Protocol)
+- DuckDuckGo API
+- Brave API
+- SEC EDGAR API
+- CourtListener API
+- ClinicalTrials.gov API
+- World Bank API
+- OECD API
+- FRED API
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP server", "web search", "citation verification", "trusted sources", "AI research assistant"]
-source: "https://github.com/zoharbabin/web-researcher-mcp"
-discovered_at: "2026-06-23T23:06:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- web search
+- citation verification
+- trusted sources
+- AI research assistant
+source: https://github.com/zoharbabin/web-researcher-mcp
+discovered_at: '2026-06-23T23:06:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

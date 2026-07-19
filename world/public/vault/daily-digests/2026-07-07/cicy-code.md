@@ -1,13 +1,28 @@
 ---
-title: "cicy-ai/cicy-code"
-category: "Orchestrator"
-tech_stack: ["Go", "React", "Vite", "TypeScript", "WebTTY", "tmux", "Cloudflare Workers", "npm", "Docker", "Python"]
+title: cicy-ai/cicy-code
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Go
+- React
+- Vite
+- TypeScript
+- WebTTY
+- tmux
+- Cloudflare Workers
+- npm
+- Docker
+- Python
 quality_score: 9
 rag_relevance: 7
-tags: ["multi-agent", "tmux integration", "AI gateway", "skill marketplace", "local-first"]
-source: "https://github.com/cicy-ai/cicy-code"
-discovered_at: "2026-07-07T16:25:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent
+- tmux integration
+- AI gateway
+- skill marketplace
+- local-first
+source: https://github.com/cicy-ai/cicy-code
+discovered_at: '2026-07-07T16:25:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

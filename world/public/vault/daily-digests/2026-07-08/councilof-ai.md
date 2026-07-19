@@ -1,13 +1,23 @@
 ---
-title: "CSOAI-ORG/councilof-ai"
-category: "Tooling"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "Python (for PyPI integration)", "REST APIs", "EU AI Act compliance frameworks"]
+title: CSOAI-ORG/councilof-ai
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- Python (for PyPI integration)
+- REST APIs
+- EU AI Act compliance frameworks
 quality_score: 7
 rag_relevance: 8
-tags: ["AI governance", "EU AI Act compliance", "MCP server", "democratic AI", "sovereign AI"]
-source: "https://github.com/CSOAI-ORG/councilof-ai"
-discovered_at: "2026-07-08T08:17:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI governance
+- EU AI Act compliance
+- MCP server
+- democratic AI
+- sovereign AI
+source: https://github.com/CSOAI-ORG/councilof-ai
+discovered_at: '2026-07-08T08:17:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

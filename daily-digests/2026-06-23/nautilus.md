@@ -1,13 +1,26 @@
 ---
-title: "KrakenNet/nautilus"
-category: "Orchestrator"
-tech_stack: ["Python", "CLIPS (Fathom)", "FastAPI", "PostgreSQL", "Ed25519 (JWS)", "JSONL", "uv (package manager)", "Docker (for integration tests)"]
+title: KrakenNet/nautilus
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- CLIPS (Fathom)
+- FastAPI
+- PostgreSQL
+- Ed25519 (JWS)
+- JSONL
+- uv (package manager)
+- Docker (for integration tests)
 quality_score: 9
 rag_relevance: 9
-tags: ["data governance", "policy enforcement", "AI agent security", "audit trail", "attestation"]
-source: "https://github.com/KrakenNet/nautilus"
-discovered_at: "2026-06-23T19:08:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- data governance
+- policy enforcement
+- AI agent security
+- audit trail
+- attestation
+source: https://github.com/KrakenNet/nautilus
+discovered_at: '2026-06-23T19:08:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

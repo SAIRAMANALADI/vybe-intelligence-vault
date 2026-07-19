@@ -1,13 +1,24 @@
 ---
-title: "robotlearning123/gpt2agent"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "curl_cffi", "OpenAI ChatGPT backend API", "TOML", "pytest"]
+title: robotlearning123/gpt2agent
+category: daily-digests/2026-07-10
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- curl_cffi
+- OpenAI ChatGPT backend API
+- TOML
+- pytest
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "ChatGPT integration", "agent tools", "code execution", "deep research"]
-source: "https://github.com/robotlearning123/gpt2agent"
-discovered_at: "2026-07-10T06:30:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- ChatGPT integration
+- agent tools
+- code execution
+- deep research
+source: https://github.com/robotlearning123/gpt2agent
+discovered_at: '2026-07-10T06:30:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

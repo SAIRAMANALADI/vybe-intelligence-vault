@@ -1,13 +1,25 @@
 ---
-title: "kahliburke/Kaimon.jl"
-category: "Agent Framework"
-tech_stack: ["Julia", "MCP (Model Context Protocol)", "ZMQ", "Qdrant", "Infiltrator.jl", "GLMakie", "GLFW"]
+title: kahliburke/Kaimon.jl
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Julia
+- MCP (Model Context Protocol)
+- ZMQ
+- Qdrant
+- Infiltrator.jl
+- GLMakie
+- GLFW
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Julia integration", "AI agent tools", "code execution", "semantic search"]
-source: "https://github.com/kahliburke/Kaimon.jl"
-discovered_at: "2026-07-08T05:47:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Julia integration
+- AI agent tools
+- code execution
+- semantic search
+source: https://github.com/kahliburke/Kaimon.jl
+discovered_at: '2026-07-08T05:47:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

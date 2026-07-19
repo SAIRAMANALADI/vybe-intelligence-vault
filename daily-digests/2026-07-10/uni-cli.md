@@ -1,13 +1,26 @@
 ---
-title: "olo-dot-io/Uni-CLI"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "AgentEnvelope v2", "Browser CDP (Chrome DevTools Protocol)", "macOS Accessibility (AX)", "JSON/Markdown envelopes", "NPM"]
+title: olo-dot-io/Uni-CLI
+category: daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- AgentEnvelope v2
+- Browser CDP (Chrome DevTools Protocol)
+- macOS Accessibility (AX)
+- JSON/Markdown envelopes
+- NPM
 quality_score: 9
 rag_relevance: 10
-tags: ["agent control plane", "computer-use automation", "intent-driven execution", "evidence-based repair", "multi-substrate governance"]
-source: "https://github.com/olo-dot-io/Uni-CLI"
-discovered_at: "2026-07-10T06:54:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent control plane
+- computer-use automation
+- intent-driven execution
+- evidence-based repair
+- multi-substrate governance
+source: https://github.com/olo-dot-io/Uni-CLI
+discovered_at: '2026-07-10T06:54:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

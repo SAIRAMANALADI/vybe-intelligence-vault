@@ -1,13 +1,23 @@
 ---
-title: "Justnessresponse962/ai-dev-framework"
-category: "Orchestrator"
-tech_stack: ["Claude Code", "Python", "Test-Driven Development (TDD)", "Agent Orchestration", "Quality Gating"]
+title: Justnessresponse962/ai-dev-framework
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Claude Code
+- Python
+- Test-Driven Development (TDD)
+- Agent Orchestration
+- Quality Gating
 quality_score: 4
 rag_relevance: 7
-tags: ["AI development", "spec-first", "TDD", "agent orchestration", "quality gates"]
-source: "https://github.com/Justnessresponse962/ai-dev-framework"
-discovered_at: "2026-07-07T20:51:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI development
+- spec-first
+- TDD
+- agent orchestration
+- quality gates
+source: https://github.com/Justnessresponse962/ai-dev-framework
+discovered_at: '2026-07-07T20:51:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

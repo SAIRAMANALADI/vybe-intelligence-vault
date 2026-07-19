@@ -1,13 +1,22 @@
 ---
-title: "Vannem1851/fcc-broadband-mcp-server"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "FCC API"]
+title: Vannem1851/fcc-broadband-mcp-server
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- FCC API
 quality_score: 7
 rag_relevance: 8
-tags: ["FCC data", "broadband coverage", "census block analysis", "MCP server", "U.S. internet access"]
-source: "https://github.com/Vannem1851/fcc-broadband-mcp-server"
-discovered_at: "2026-06-24T22:15:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- FCC data
+- broadband coverage
+- census block analysis
+- MCP server
+- U.S. internet access
+source: https://github.com/Vannem1851/fcc-broadband-mcp-server
+discovered_at: '2026-06-24T22:15:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

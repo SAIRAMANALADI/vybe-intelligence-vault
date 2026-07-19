@@ -1,13 +1,30 @@
 ---
-title: "peijin0405/scout-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Flask", "FastAPI", "PostgreSQL", "Claude API", "Google Calendar API", "Gmail API", "Resend API", "PyMuPDF", "python-docx", "pandas", "Bootstrap 5"]
+title: peijin0405/scout-agent
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Flask
+- FastAPI
+- PostgreSQL
+- Claude API
+- Google Calendar API
+- Gmail API
+- Resend API
+- PyMuPDF
+- python-docx
+- pandas
+- Bootstrap 5
 quality_score: 9
 rag_relevance: 7
-tags: ["AI scheduling", "HR automation", "multi-tenant", "Claude integration", "calendar booking"]
-source: "https://github.com/peijin0405/scout-agent"
-discovered_at: "2026-06-23T13:46:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI scheduling
+- HR automation
+- multi-tenant
+- Claude integration
+- calendar booking
+source: https://github.com/peijin0405/scout-agent
+discovered_at: '2026-06-23T13:46:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

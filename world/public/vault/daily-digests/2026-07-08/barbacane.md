@@ -1,13 +1,29 @@
 ---
-title: "barbacane-dev/barbacane"
-category: "Orchestrator"
-tech_stack: ["Rust", "Tokio", "Hyper", "WASM", "OpenAPI 3.x", "AsyncAPI 3.x", "Rustls", "aws-lc-rs", "Prometheus", "OTLP", "W3C Trace Context"]
+title: barbacane-dev/barbacane
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Rust
+- Tokio
+- Hyper
+- WASM
+- OpenAPI 3.x
+- AsyncAPI 3.x
+- Rustls
+- aws-lc-rs
+- Prometheus
+- OTLP
+- W3C Trace Context
 quality_score: 9
 rag_relevance: 10
-tags: ["API Gateway", "AI Gateway", "OpenAPI", "Rust", "WASM Plugins"]
-source: "https://github.com/barbacane-dev/barbacane"
-discovered_at: "2026-07-08T22:14:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- API Gateway
+- AI Gateway
+- OpenAPI
+- Rust
+- WASM Plugins
+source: https://github.com/barbacane-dev/barbacane
+discovered_at: '2026-07-08T22:14:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

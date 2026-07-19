@@ -1,13 +1,30 @@
 ---
-title: "ziyarago/RisalDash"
-category: "UI Component"
-tech_stack: ["C++", "ESP32/ESP8266", "Arduino Framework", "PlatformIO", "ESPAsyncWebServer", "WebSocket", "OKLCH Design System", "NVS (Non-Volatile Storage)", "MQTT", "Prometheus", "MCP (Model Context Protocol)", "OTA (Over-The-Air) Updates"]
+title: ziyarago/RisalDash
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- C++
+- ESP32/ESP8266
+- Arduino Framework
+- PlatformIO
+- ESPAsyncWebServer
+- WebSocket
+- OKLCH Design System
+- NVS (Non-Volatile Storage)
+- MQTT
+- Prometheus
+- MCP (Model Context Protocol)
+- OTA (Over-The-Air) Updates
 quality_score: 9
 rag_relevance: 7
-tags: ["Embedded UI", "Real-time Dashboards", "ESP32/ESP8266", "WebSocket", "Offline-first"]
-source: "https://github.com/ziyarago/RisalDash"
-discovered_at: "2026-07-07T18:59:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Embedded UI
+- Real-time Dashboards
+- ESP32/ESP8266
+- WebSocket
+- Offline-first
+source: https://github.com/ziyarago/RisalDash
+discovered_at: '2026-07-07T18:59:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

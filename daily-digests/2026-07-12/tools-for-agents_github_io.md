@@ -1,13 +1,23 @@
 ---
-title: "tools-for-agents/tools-for-agents.github.io"
-category: "Tooling"
-tech_stack: ["HTML", "JavaScript", "GitHub Actions", "MCP (Model Context Protocol)", "YAML"]
+title: tools-for-agents/tools-for-agents.github.io
+category: daily-digests/2026-07-12
+tech_stack:
+- HTML
+- JavaScript
+- GitHub Actions
+- MCP (Model Context Protocol)
+- YAML
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP", "agent tools", "machine-readable manifests", "auto-generation", "CI/CD"]
-source: "https://github.com/tools-for-agents/tools-for-agents.github.io"
-discovered_at: "2026-07-12T10:26:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- agent tools
+- machine-readable manifests
+- auto-generation
+- CI/CD
+source: https://github.com/tools-for-agents/tools-for-agents.github.io
+discovered_at: '2026-07-12T10:26:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

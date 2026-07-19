@@ -1,13 +1,27 @@
 ---
-title: "Labir12/oh-my-pi-ai-toolbelt"
-category: "Orchestrator"
-tech_stack: ["Python", "Language Server Protocol (LSP)", "Terminal UI (rich, textual)", "OpenAI API", "Claude API", "Mermaid.js", "YAML", "SHA-3-512", "Headless Browser Automation"]
+title: Labir12/oh-my-pi-ai-toolbelt
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- Language Server Protocol (LSP)
+- Terminal UI (rich, textual)
+- OpenAI API
+- Claude API
+- Mermaid.js
+- YAML
+- SHA-3-512
+- Headless Browser Automation
 quality_score: 8
 rag_relevance: 9
-tags: ["terminal automation", "multi-agent orchestration", "code refactoring", "LSP integration", "hash-anchored edits"]
-source: "https://github.com/Labir12/oh-my-pi-ai-toolbelt"
-discovered_at: "2026-06-22T23:20:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- terminal automation
+- multi-agent orchestration
+- code refactoring
+- LSP integration
+- hash-anchored edits
+source: https://github.com/Labir12/oh-my-pi-ai-toolbelt
+discovered_at: '2026-06-22T23:20:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

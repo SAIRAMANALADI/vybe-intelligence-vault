@@ -1,13 +1,23 @@
 ---
-title: "Unaacceptable297/kali-mcp"
-category: "Tooling"
-tech_stack: ["Docker", "Kali Linux", "TypeScript", "MCP (Model Context Protocol)", "Windows"]
+title: Unaacceptable297/kali-mcp
+category: daily-digests/2026-07-08
+tech_stack:
+- Docker
+- Kali Linux
+- TypeScript
+- MCP (Model Context Protocol)
+- Windows
 quality_score: 7
 rag_relevance: 8
-tags: ["security testing", "Dockerized Kali", "AI automation", "MCP server", "pentesting tools"]
-source: "https://github.com/Unaacceptable297/kali-mcp"
-discovered_at: "2026-07-08T11:00:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- security testing
+- Dockerized Kali
+- AI automation
+- MCP server
+- pentesting tools
+source: https://github.com/Unaacceptable297/kali-mcp
+discovered_at: '2026-07-08T11:00:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

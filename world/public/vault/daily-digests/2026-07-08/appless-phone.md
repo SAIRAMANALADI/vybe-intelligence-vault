@@ -1,13 +1,27 @@
 ---
-title: "XiaoLuoLYG/Appless-Phone"
-category: "Agent Framework"
-tech_stack: ["HarmonyOS", "JavaScript", "Python", "Composio", "React", "Node.js", "REST APIs", "OAuth", "HAP (HarmonyOS Application Package)"]
+title: XiaoLuoLYG/Appless-Phone
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- HarmonyOS
+- JavaScript
+- Python
+- Composio
+- React
+- Node.js
+- REST APIs
+- OAuth
+- HAP (HarmonyOS Application Package)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent", "multi-app integration", "HarmonyOS", "task automation", "real-time UI"]
-source: "https://github.com/XiaoLuoLYG/Appless-Phone"
-discovered_at: "2026-07-08T02:07:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- multi-app integration
+- HarmonyOS
+- task automation
+- real-time UI
+source: https://github.com/XiaoLuoLYG/Appless-Phone
+discovered_at: '2026-07-08T02:07:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

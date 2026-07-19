@@ -1,13 +1,28 @@
 ---
-title: "esterhuizen/opensidekick"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Chrome Extension API", "Service Workers", "OpenAI-compatible API", "Anthropic Messages API", "Ollama", "LM Studio", "Model Context Protocol (MCP)", "HTML/CSS", "ES Modules"]
+title: esterhuizen/opensidekick
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- Chrome Extension API
+- Service Workers
+- OpenAI-compatible API
+- Anthropic Messages API
+- Ollama
+- LM Studio
+- Model Context Protocol (MCP)
+- HTML/CSS
+- ES Modules
 quality_score: 9
 rag_relevance: 8
-tags: ["browser automation", "agentic AI", "open-source", "local LLM", "privacy-focused"]
-source: "https://github.com/esterhuizen/opensidekick"
-discovered_at: "2026-07-08T21:01:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- agentic AI
+- open-source
+- local LLM
+- privacy-focused
+source: https://github.com/esterhuizen/opensidekick
+discovered_at: '2026-07-08T21:01:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

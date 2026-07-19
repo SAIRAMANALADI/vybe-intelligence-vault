@@ -1,13 +1,23 @@
 ---
-title: "pranithao4/Smart-Study-Assistant"
-category: "Agent Framework"
-tech_stack: ["Python", "Streamlit", "Google Gemini API", "Jupyter Notebook", "ngrok"]
+title: pranithao4/Smart-Study-Assistant
+category: daily-digests/2026-07-10
+tech_stack:
+- Python
+- Streamlit
+- Google Gemini API
+- Jupyter Notebook
+- ngrok
 quality_score: 7
 rag_relevance: 8
-tags: ["AI agent", "tool integration", "Gemini API", "Streamlit", "autonomous function calling"]
-source: "https://github.com/pranithao4/Smart-Study-Assistant"
-discovered_at: "2026-07-10T06:31:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- tool integration
+- Gemini API
+- Streamlit
+- autonomous function calling
+source: https://github.com/pranithao4/Smart-Study-Assistant
+discovered_at: '2026-07-10T06:31:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

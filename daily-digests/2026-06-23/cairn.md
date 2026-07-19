@@ -1,13 +1,26 @@
 ---
-title: "plune-ai/cairn"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Playwright", "Langfuse", "ARIA", "React/Ink (TUI)", "Vitest", "CI/CD (GitHub Actions)"]
+title: plune-ai/cairn
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- Playwright
+- Langfuse
+- ARIA
+- React/Ink (TUI)
+- Vitest
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous testing", "QA automation", "Playwright", "Langfuse integration", "ISO/IEC 29119"]
-source: "https://github.com/plune-ai/cairn"
-discovered_at: "2026-06-23T21:28:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous testing
+- QA automation
+- Playwright
+- Langfuse integration
+- ISO/IEC 29119
+source: https://github.com/plune-ai/cairn
+discovered_at: '2026-06-23T21:28:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

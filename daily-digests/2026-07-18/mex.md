@@ -1,13 +1,25 @@
 ---
-title: "mex-memory/mex"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "YAML", "Markdown", "JSON"]
+title: mex-memory/mex
+category: daily-digests/2026-07-18
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- MCP (Model Context Protocol)
+- YAML
+- Markdown
+- JSON
 quality_score: 9
 rag_relevance: 9
-tags: ["AI memory", "context management", "drift detection", "agent scaffolding", "MCP server"]
-source: "https://github.com/mex-memory/mex"
-discovered_at: "2026-07-14T18:02:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI memory
+- context management
+- drift detection
+- agent scaffolding
+- MCP server
+source: https://github.com/mex-memory/mex
+discovered_at: '2026-07-14T18:02:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

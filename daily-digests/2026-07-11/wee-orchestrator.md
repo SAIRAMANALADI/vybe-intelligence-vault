@@ -1,13 +1,27 @@
 ---
-title: "leprachuan/Wee-Orchestrator"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Telegram Bot API", "WebEx API", "RabbitMQ", "Whisper (OpenAI/local)", "SQLite/PostgreSQL", "Docker", "GitHub Actions"]
+title: leprachuan/Wee-Orchestrator
+category: daily-digests/2026-07-11
+tech_stack:
+- Python
+- FastAPI
+- Telegram Bot API
+- WebEx API
+- RabbitMQ
+- Whisper (OpenAI/local)
+- SQLite/PostgreSQL
+- Docker
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["AI orchestration", "multi-agent systems", "RAG integration", "task scheduling", "cross-platform chat"]
-source: "https://github.com/leprachuan/Wee-Orchestrator"
-discovered_at: "2026-07-11T16:55:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI orchestration
+- multi-agent systems
+- RAG integration
+- task scheduling
+- cross-platform chat
+source: https://github.com/leprachuan/Wee-Orchestrator
+discovered_at: '2026-07-11T16:55:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "jmagar/cortex"
-category: "Tooling"
-tech_stack: ["Rust", "SQLite", "FTS5", "MCP (Model Context Protocol)", "RMCP Streamable HTTP", "JSON-RPC", "CLI", "Docker"]
+title: jmagar/cortex
+category: daily-digests/2026-07-06
+tech_stack:
+- Rust
+- SQLite
+- FTS5
+- MCP (Model Context Protocol)
+- RMCP Streamable HTTP
+- JSON-RPC
+- CLI
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["syslog", "log analysis", "MCP server", "homelab", "correlation"]
-source: "https://github.com/jmagar/cortex"
-discovered_at: "2026-07-06T21:27:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- syslog
+- log analysis
+- MCP server
+- homelab
+- correlation
+source: https://github.com/jmagar/cortex
+discovered_at: '2026-07-06T21:27:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

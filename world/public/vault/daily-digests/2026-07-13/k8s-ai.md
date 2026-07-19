@@ -1,13 +1,33 @@
 ---
-title: "mmontes11/k8s-ai"
-category: "Orchestrator"
-tech_stack: ["Kubernetes", "Flux CD", "Helm", "Ollama", "llama.cpp", "vLLM", "KServe", "Open WebUI", "ComfyUI", "n8n", "opencode", "MCP (Model Context Protocol)", "Prometheus", "RESTic", "NVIDIA GPU Support"]
+title: mmontes11/k8s-ai
+category: world/public/vault/daily-digests/2026-07-13
+tech_stack:
+- Kubernetes
+- Flux CD
+- Helm
+- Ollama
+- llama.cpp
+- vLLM
+- KServe
+- Open WebUI
+- ComfyUI
+- n8n
+- opencode
+- MCP (Model Context Protocol)
+- Prometheus
+- RESTic
+- NVIDIA GPU Support
 quality_score: 9
 rag_relevance: 8
-tags: ["Kubernetes", "GitOps", "LLM Serving", "AI Workloads", "Model Context Protocol"]
-source: "https://github.com/mmontes11/k8s-ai"
-discovered_at: "2026-07-11T15:54:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Kubernetes
+- GitOps
+- LLM Serving
+- AI Workloads
+- Model Context Protocol
+source: https://github.com/mmontes11/k8s-ai
+discovered_at: '2026-07-11T15:54:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

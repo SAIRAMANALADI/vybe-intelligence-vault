@@ -1,13 +1,32 @@
 ---
-title: "samantafluture/cherryagent"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js 20+", "Fastify", "PostgreSQL 16", "Drizzle ORM", "Redis 7", "BullMQ", "Docker Compose", "Telegram Bot API", "Groq", "DeepSeek", "Gemini 2.5 Flash", "Claude", "OpenFoodFacts API"]
+title: samantafluture/cherryagent
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js 20+
+- Fastify
+- PostgreSQL 16
+- Drizzle ORM
+- Redis 7
+- BullMQ
+- Docker Compose
+- Telegram Bot API
+- Groq
+- DeepSeek
+- Gemini 2.5 Flash
+- Claude
+- OpenFoodFacts API
 quality_score: 8
 rag_relevance: 7
-tags: ["self-hosted", "AI agent", "Telegram automation", "budget-friendly", "personal automation"]
-source: "https://github.com/samantafluture/cherryagent"
-discovered_at: "2026-06-23T10:37:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-hosted
+- AI agent
+- Telegram automation
+- budget-friendly
+- personal automation
+source: https://github.com/samantafluture/cherryagent
+discovered_at: '2026-06-23T10:37:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

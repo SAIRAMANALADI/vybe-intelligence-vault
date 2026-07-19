@@ -1,13 +1,26 @@
 ---
-title: "tornidomaroc-web/knowflow"
-category: "Agent Framework"
-tech_stack: ["Next.js 15", "FastAPI", "Claude Haiku", "Supabase", "Railway", "Vercel", "TypeScript", "Python"]
+title: tornidomaroc-web/knowflow
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Next.js 15
+- FastAPI
+- Claude Haiku
+- Supabase
+- Railway
+- Vercel
+- TypeScript
+- Python
 quality_score: 8
 rag_relevance: 9
-tags: ["document Q&A", "bilingual AI", "streaming responses", "Claude Haiku integration", "Supabase authentication"]
-source: "https://github.com/tornidomaroc-web/knowflow"
-discovered_at: "2026-07-09T11:52:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- document Q&A
+- bilingual AI
+- streaming responses
+- Claude Haiku integration
+- Supabase authentication
+source: https://github.com/tornidomaroc-web/knowflow
+discovered_at: '2026-07-09T11:52:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

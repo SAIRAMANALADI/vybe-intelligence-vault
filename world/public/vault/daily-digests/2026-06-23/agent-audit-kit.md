@@ -1,13 +1,29 @@
 ---
-title: "sattyamjjain/agent-audit-kit"
-category: "Tooling"
-tech_stack: ["Python", "TypeScript", "JavaScript", "Rust", "AST-based analysis", "Regex pattern scanning", "GitHub Actions", "Docker", "Sigstore", "CycloneDX", "SPDX"]
+title: sattyamjjain/agent-audit-kit
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- TypeScript
+- JavaScript
+- Rust
+- AST-based analysis
+- Regex pattern scanning
+- GitHub Actions
+- Docker
+- Sigstore
+- CycloneDX
+- SPDX
 quality_score: 10
 rag_relevance: 9
-tags: ["MCP security", "AI agent auditing", "static analysis", "compliance scanning", "supply chain security"]
-source: "https://github.com/sattyamjjain/agent-audit-kit"
-discovered_at: "2026-06-23T10:36:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP security
+- AI agent auditing
+- static analysis
+- compliance scanning
+- supply chain security
+source: https://github.com/sattyamjjain/agent-audit-kit
+discovered_at: '2026-06-23T10:36:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

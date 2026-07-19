@@ -1,13 +1,24 @@
 ---
-title: "nurulainifauziah99/gnosys"
-category: "Tooling"
-tech_stack: ["HTML", "CSS", "JavaScript", "PHP", "MySQL", "XAMPP"]
+title: nurulainifauziah99/gnosys
+category: daily-digests/2026-07-02
+tech_stack:
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- XAMPP
 quality_score: 4
 rag_relevance: 2
-tags: ["e-commerce", "herbal products", "PHP", "MySQL", "admin dashboard"]
-source: "https://github.com/nurulainifauziah99/gnosys"
-discovered_at: "2026-07-02T21:04:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- e-commerce
+- herbal products
+- PHP
+- MySQL
+- admin dashboard
+source: https://github.com/nurulainifauziah99/gnosys
+discovered_at: '2026-07-02T21:04:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "linny006/trending-claude-skills"
-category: "Tooling"
-tech_stack: ["Python", "GitHub Actions", "GitHub Search API", "Markdown", "Shell"]
+title: linny006/trending-claude-skills
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- GitHub Actions
+- GitHub Search API
+- Markdown
+- Shell
 quality_score: 8
 rag_relevance: 7
-tags: ["Claude Code", "AI Agent Skills", "GitHub Trends", "Auto-updated", "Leaderboard"]
-source: "https://github.com/linny006/trending-claude-skills"
-discovered_at: "2026-06-23T23:11:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- AI Agent Skills
+- GitHub Trends
+- Auto-updated
+- Leaderboard
+source: https://github.com/linny006/trending-claude-skills
+discovered_at: '2026-06-23T23:11:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

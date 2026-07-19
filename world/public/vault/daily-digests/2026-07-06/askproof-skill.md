@@ -1,13 +1,21 @@
 ---
-title: "recollective-genuseptatretus377/askproof-skill"
-category: "Tooling"
-tech_stack: ["Python", "Windows Desktop Application", "REST API (for verification engine)"]
+title: recollective-genuseptatretus377/askproof-skill
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Python
+- Windows Desktop Application
+- REST API (for verification engine)
 quality_score: 7
 rag_relevance: 8
-tags: ["AI verification", "fact-checking", "AI reliability", "prompt auditing", "evidence validation"]
-source: "https://github.com/recollective-genuseptatretus377/askproof-skill"
-discovered_at: "2026-07-06T19:48:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI verification
+- fact-checking
+- AI reliability
+- prompt auditing
+- evidence validation
+source: https://github.com/recollective-genuseptatretus377/askproof-skill
+discovered_at: '2026-07-06T19:48:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

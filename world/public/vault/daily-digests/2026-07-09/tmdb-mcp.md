@@ -1,13 +1,24 @@
 ---
-title: "Grinv/tmdb-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "TMDB API", "OMDb API", "npm"]
+title: Grinv/tmdb-mcp
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- TMDB API
+- OMDb API
+- npm
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "movie database", "media metadata", "ratings aggregation", "natural language queries"]
-source: "https://github.com/Grinv/tmdb-mcp"
-discovered_at: "2026-07-09T11:53:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- movie database
+- media metadata
+- ratings aggregation
+- natural language queries
+source: https://github.com/Grinv/tmdb-mcp
+discovered_at: '2026-07-09T11:53:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

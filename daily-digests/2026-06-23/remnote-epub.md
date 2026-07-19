@@ -1,13 +1,22 @@
 ---
-title: "NachaFromMars/remnote-epub"
-category: "Tooling"
-tech_stack: ["Python", "Markdown", "EPUB 3.3", "OpenClaw"]
+title: NachaFromMars/remnote-epub
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Markdown
+- EPUB 3.3
+- OpenClaw
 quality_score: 7
 rag_relevance: 6
-tags: ["EPUB conversion", "RemNote integration", "structured analysis", "book formatting", "OpenClaw"]
-source: "https://github.com/NachaFromMars/remnote-epub"
-discovered_at: "2026-06-23T06:47:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- EPUB conversion
+- RemNote integration
+- structured analysis
+- book formatting
+- OpenClaw
+source: https://github.com/NachaFromMars/remnote-epub
+discovered_at: '2026-06-23T06:47:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

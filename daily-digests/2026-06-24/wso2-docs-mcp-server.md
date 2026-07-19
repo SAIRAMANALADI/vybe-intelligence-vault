@@ -1,13 +1,26 @@
 ---
-title: "iamvirul/wso2-docs-mcp-server"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "PostgreSQL", "pgvector", "Ollama", "HuggingFace Transformers", "Docker", "Model Context Protocol (MCP)"]
+title: iamvirul/wso2-docs-mcp-server
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- PostgreSQL
+- pgvector
+- Ollama
+- HuggingFace Transformers
+- Docker
+- Model Context Protocol (MCP)
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP Server", "RAG", "Semantic Search", "WSO2 Documentation", "Embeddings"]
-source: "https://github.com/iamvirul/wso2-docs-mcp-server"
-discovered_at: "2026-06-24T20:51:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- RAG
+- Semantic Search
+- WSO2 Documentation
+- Embeddings
+source: https://github.com/iamvirul/wso2-docs-mcp-server
+discovered_at: '2026-06-24T20:51:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "xiaolai/codex-octopus"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "OpenAI Codex SDK", "Jest/Vitest"]
+title: xiaolai/codex-octopus
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- OpenAI Codex SDK
+- Jest/Vitest
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Codex agents", "multi-agent", "sandboxed execution", "AI tooling"]
-source: "https://github.com/xiaolai/codex-octopus"
-discovered_at: "2026-07-08T08:18:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Codex agents
+- multi-agent
+- sandboxed execution
+- AI tooling
+source: https://github.com/xiaolai/codex-octopus
+discovered_at: '2026-07-08T08:18:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

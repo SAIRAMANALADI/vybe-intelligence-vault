@@ -1,13 +1,28 @@
 ---
-title: "assafelovic/gpt-researcher"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "LangChain", "Tavily API", "OpenAI API", "Gemini (Nano Banana)", "Docker", "React", "Tailwind CSS", "MCP (Model Context Protocol)"]
+title: assafelovic/gpt-researcher
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- FastAPI
+- LangChain
+- Tavily API
+- OpenAI API
+- Gemini (Nano Banana)
+- Docker
+- React
+- Tailwind CSS
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 10
-tags: ["autonomous research", "multi-agent system", "deep research", "RAG enhancement", "document processing"]
-source: "https://github.com/assafelovic/gpt-researcher"
-discovered_at: "2026-06-22T18:15:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous research
+- multi-agent system
+- deep research
+- RAG enhancement
+- document processing
+source: https://github.com/assafelovic/gpt-researcher
+discovered_at: '2026-06-22T18:15:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

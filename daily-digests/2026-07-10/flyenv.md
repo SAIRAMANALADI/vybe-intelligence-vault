@@ -1,13 +1,29 @@
 ---
-title: "xpf0000/FlyEnv"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "Node.js", "Go", "Python", "PHP", "Java", ".NET", "Flutter", "MCP (Model Context Protocol)", "SQLite"]
+title: xpf0000/FlyEnv
+category: daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Electron
+- Node.js
+- Go
+- Python
+- PHP
+- Java
+- .NET
+- Flutter
+- MCP (Model Context Protocol)
+- SQLite
 quality_score: 9
 rag_relevance: 8
-tags: ["local development", "MCP server", "AI coding tools", "runtime management", "cross-platform"]
-source: "https://github.com/xpf0000/FlyEnv"
-discovered_at: "2026-07-10T06:31:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local development
+- MCP server
+- AI coding tools
+- runtime management
+- cross-platform
+source: https://github.com/xpf0000/FlyEnv
+discovered_at: '2026-07-10T06:31:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

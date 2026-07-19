@@ -1,13 +1,29 @@
 ---
-title: "nutstore/creatorweave"
-category: "Orchestrator"
-tech_stack: ["Rust", "React", "TypeScript", "WebAssembly (WASM)", "Pyodide", "SQLite WASM", "Zustand", "Tailwind CSS", "Vite", "Socket.IO", "Chart.js"]
+title: nutstore/creatorweave
+category: daily-digests/2026-06-24
+tech_stack:
+- Rust
+- React
+- TypeScript
+- WebAssembly (WASM)
+- Pyodide
+- SQLite WASM
+- Zustand
+- Tailwind CSS
+- Vite
+- Socket.IO
+- Chart.js
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent orchestration", "local-first AI", "browser-based workspace", "code intelligence", "privacy-first"]
-source: "https://github.com/nutstore/creatorweave"
-discovered_at: "2026-06-24T02:45:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent orchestration
+- local-first AI
+- browser-based workspace
+- code intelligence
+- privacy-first
+source: https://github.com/nutstore/creatorweave
+discovered_at: '2026-06-24T02:45:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

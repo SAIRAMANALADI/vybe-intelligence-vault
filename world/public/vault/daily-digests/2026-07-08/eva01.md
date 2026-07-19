@@ -1,13 +1,24 @@
 ---
-title: "AlisonGM03/Eva01"
-category: "Agent Framework"
-tech_stack: ["Python", "Computer Vision", "Speech Recognition", "Text-to-Speech", "API Integration", "Modular Architecture"]
+title: AlisonGM03/Eva01
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- Computer Vision
+- Speech Recognition
+- Text-to-Speech
+- API Integration
+- Modular Architecture
 quality_score: 7
 rag_relevance: 6
-tags: ["multimodal-ai", "voice-assistant", "face-recognition", "ai-agent", "personalized-ai"]
-source: "https://github.com/AlisonGM03/Eva01"
-discovered_at: "2026-07-08T02:07:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multimodal-ai
+- voice-assistant
+- face-recognition
+- ai-agent
+- personalized-ai
+source: https://github.com/AlisonGM03/Eva01
+discovered_at: '2026-07-08T02:07:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

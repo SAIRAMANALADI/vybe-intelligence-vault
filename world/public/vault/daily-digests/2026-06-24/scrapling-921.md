@@ -1,13 +1,22 @@
 ---
-title: "wonald22/Scrapling-921"
-category: "Tooling"
-tech_stack: ["Python", "Windows OS", "GUI Framework (unspecified)", "Web Scraping Libraries"]
+title: wonald22/Scrapling-921
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Windows OS
+- GUI Framework (unspecified)
+- Web Scraping Libraries
 quality_score: 6
 rag_relevance: 5
-tags: ["web scraping", "data extraction", "automation", "desktop application", "no-code"]
-source: "https://github.com/wonald22/Scrapling-921"
-discovered_at: "2026-06-24T22:14:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web scraping
+- data extraction
+- automation
+- desktop application
+- no-code
+source: https://github.com/wonald22/Scrapling-921
+discovered_at: '2026-06-24T22:14:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

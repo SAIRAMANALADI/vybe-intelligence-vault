@@ -1,13 +1,27 @@
 ---
-title: "mingyo186/partreel"
-category: "Tooling"
-tech_stack: ["Python", "KiCad", "FreeCAD", "GitHub Actions", "Cloudflare Workers", "HTML", "JavaScript", "STEP/GLB 3D models", "JSON API"]
+title: mingyo186/partreel
+category: world/public/vault/daily-digests/2026-07-12
+tech_stack:
+- Python
+- KiCad
+- FreeCAD
+- GitHub Actions
+- Cloudflare Workers
+- HTML
+- JavaScript
+- STEP/GLB 3D models
+- JSON API
 quality_score: 9
 rag_relevance: 8
-tags: ["KiCad", "PCB design", "verified parts", "datasheet provenance", "AI agent tools"]
-source: "https://github.com/mingyo186/partreel"
-discovered_at: "2026-07-11T07:52:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- KiCad
+- PCB design
+- verified parts
+- datasheet provenance
+- AI agent tools
+source: https://github.com/mingyo186/partreel
+discovered_at: '2026-07-11T07:52:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "oceantruong/farcaster-agent"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Farcaster Protocol", "REST APIs"]
+title: oceantruong/farcaster-agent
+category: world/public/vault/daily-digests/2026-07-05
+tech_stack:
+- JavaScript
+- Node.js
+- Farcaster Protocol
+- REST APIs
 quality_score: 4
 rag_relevance: 6
-tags: ["automation", "social media", "decentralized", "bot framework", "Farcaster"]
-source: "https://github.com/oceantruong/farcaster-agent"
-discovered_at: "2026-07-05T02:53:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- automation
+- social media
+- decentralized
+- bot framework
+- Farcaster
+source: https://github.com/oceantruong/farcaster-agent
+discovered_at: '2026-07-05T02:53:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

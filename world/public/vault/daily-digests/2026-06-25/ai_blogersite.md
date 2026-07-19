@@ -1,13 +1,26 @@
 ---
-title: "AI-Nikitka93/AI_Blogersite"
-category: "Tooling"
-tech_stack: ["Next.js 16", "React 19", "Tailwind CSS v4", "Supabase", "Groq", "GitHub Actions", "Vercel", "TypeScript"]
+title: AI-Nikitka93/AI_Blogersite
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Next.js 16
+- React 19
+- Tailwind CSS v4
+- Supabase
+- Groq
+- GitHub Actions
+- Vercel
+- TypeScript
 quality_score: 9
 rag_relevance: 7
-tags: ["autonomous publishing", "content generation", "editorial AI", "real-time signals", "tension-first writing"]
-source: "https://github.com/AI-Nikitka93/AI_Blogersite"
-discovered_at: "2026-06-25T17:08:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous publishing
+- content generation
+- editorial AI
+- real-time signals
+- tension-first writing
+source: https://github.com/AI-Nikitka93/AI_Blogersite
+discovered_at: '2026-06-25T17:08:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

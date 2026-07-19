@@ -1,13 +1,28 @@
 ---
-title: "wutsi/kokibot"
-category: "Agent Framework"
-tech_stack: ["Kotlin", "Spring Boot", "Java 17", "Python 3.x", "Telegram API", "Email", "WebSocket", "Deepseek", "Kimi", "Gemini"]
+title: wutsi/kokibot
+category: daily-digests/2026-06-25
+tech_stack:
+- Kotlin
+- Spring Boot
+- Java 17
+- Python 3.x
+- Telegram API
+- Email
+- WebSocket
+- Deepseek
+- Kimi
+- Gemini
 quality_score: 9
 rag_relevance: 8
-tags: ["AI assistant", "pluggable architecture", "multi-channel", "LLM integration", "production-ready"]
-source: "https://github.com/wutsi/kokibot"
-discovered_at: "2026-06-25T14:13:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI assistant
+- pluggable architecture
+- multi-channel
+- LLM integration
+- production-ready
+source: https://github.com/wutsi/kokibot
+discovered_at: '2026-06-25T14:13:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

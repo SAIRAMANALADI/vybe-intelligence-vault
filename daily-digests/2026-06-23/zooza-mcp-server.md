@@ -1,13 +1,26 @@
 ---
-title: "zooza-dev/zooza-mcp-server"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Node.js", "REST API", "OAuth 2.0", "TLS", "React (for documentation)", "GitHub Actions (CI/CD)"]
+title: zooza-dev/zooza-mcp-server
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Node.js
+- REST API
+- OAuth 2.0
+- TLS
+- React (for documentation)
+- GitHub Actions (CI/CD)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "natural language scheduling", "attendance tracking", "class management", "AI integration"]
-source: "https://github.com/zooza-dev/zooza-mcp-server"
-discovered_at: "2026-06-23T13:48:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- natural language scheduling
+- attendance tracking
+- class management
+- AI integration
+source: https://github.com/zooza-dev/zooza-mcp-server
+discovered_at: '2026-06-23T13:48:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

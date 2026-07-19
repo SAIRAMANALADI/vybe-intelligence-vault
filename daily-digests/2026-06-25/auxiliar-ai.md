@@ -1,13 +1,26 @@
 ---
-title: "Tlalvarez/Auxiliar-ai"
-category: "Tooling"
-tech_stack: ["TypeScript", "Python", "MCP (Model Context Protocol)", "Pydantic", "Zod", "Node.js", "npm", "Chrome Browser Automation"]
+title: Tlalvarez/Auxiliar-ai
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Python
+- MCP (Model Context Protocol)
+- Pydantic
+- Zod
+- Node.js
+- npm
+- Chrome Browser Automation
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP server", "AI tooling", "service recommendations", "capability indexing", "pricing verification"]
-source: "https://github.com/Tlalvarez/Auxiliar-ai"
-discovered_at: "2026-06-25T14:17:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- AI tooling
+- service recommendations
+- capability indexing
+- pricing verification
+source: https://github.com/Tlalvarez/Auxiliar-ai
+discovered_at: '2026-06-25T14:17:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

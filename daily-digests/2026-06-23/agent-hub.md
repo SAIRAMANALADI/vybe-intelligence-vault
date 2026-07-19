@@ -1,13 +1,33 @@
 ---
-title: "stardust-bytes/agent-hub"
-category: "Agent Framework"
-tech_stack: ["Vue 3", "NestJS", "TypeScript", "SQLite", "LanceDB", "TailwindCSS", "Prisma", "Ollama", "OpenAI", "DeepSeek", "Google Gemini", "Docker", "SSE", "Socket.io", "Headless UI"]
+title: stardust-bytes/agent-hub
+category: daily-digests/2026-06-23
+tech_stack:
+- Vue 3
+- NestJS
+- TypeScript
+- SQLite
+- LanceDB
+- TailwindCSS
+- Prisma
+- Ollama
+- OpenAI
+- DeepSeek
+- Google Gemini
+- Docker
+- SSE
+- Socket.io
+- Headless UI
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Agents", "Local-first", "Automation", "Multi-provider", "Safety"]
-source: "https://github.com/stardust-bytes/agent-hub"
-discovered_at: "2026-06-23T08:58:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agents
+- Local-first
+- Automation
+- Multi-provider
+- Safety
+source: https://github.com/stardust-bytes/agent-hub
+discovered_at: '2026-06-23T08:58:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

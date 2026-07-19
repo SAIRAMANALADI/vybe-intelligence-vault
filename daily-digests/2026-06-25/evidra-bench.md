@@ -1,13 +1,28 @@
 ---
-title: "vitas/evidra-bench"
-category: "Tooling"
-tech_stack: ["Go", "Kubernetes", "Helm", "Argo CD", "Terraform", "AWS", "LocalStack", "MCP (Model Context Protocol)", "React", "Vite"]
+title: vitas/evidra-bench
+category: daily-digests/2026-06-25
+tech_stack:
+- Go
+- Kubernetes
+- Helm
+- Argo CD
+- Terraform
+- AWS
+- LocalStack
+- MCP (Model Context Protocol)
+- React
+- Vite
 quality_score: 9
 rag_relevance: 8
-tags: ["AI SRE", "benchmarking", "infrastructure agents", "MCP servers", "Kubernetes"]
-source: "https://github.com/vitas/evidra-bench"
-discovered_at: "2026-06-25T17:13:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI SRE
+- benchmarking
+- infrastructure agents
+- MCP servers
+- Kubernetes
+source: https://github.com/vitas/evidra-bench
+discovered_at: '2026-06-25T17:13:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

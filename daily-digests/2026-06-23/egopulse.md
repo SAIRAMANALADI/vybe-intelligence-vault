@@ -1,13 +1,25 @@
 ---
-title: "endo-ly/egopulse"
-category: "Agent Framework"
-tech_stack: ["Rust", "Tokio", "SQLite", "Axum", "React", "Vite", "OpenAI-compatible LLM API"]
+title: endo-ly/egopulse
+category: daily-digests/2026-06-23
+tech_stack:
+- Rust
+- Tokio
+- SQLite
+- Axum
+- React
+- Vite
+- OpenAI-compatible LLM API
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent systems", "memory management", "self-hosted", "RAG optimization", "agent orchestration"]
-source: "https://github.com/endo-ly/egopulse"
-discovered_at: "2026-06-23T13:44:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- memory management
+- self-hosted
+- RAG optimization
+- agent orchestration
+source: https://github.com/endo-ly/egopulse
+discovered_at: '2026-06-23T13:44:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

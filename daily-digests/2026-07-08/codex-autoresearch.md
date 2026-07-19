@@ -1,13 +1,22 @@
 ---
-title: "luizgustavo22/codex-autoresearch"
-category: "Tooling"
-tech_stack: ["Python", "Windows", "Codex API", "Automation"]
+title: luizgustavo22/codex-autoresearch
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- Windows
+- Codex API
+- Automation
 quality_score: 7
 rag_relevance: 6
-tags: ["automation", "iterative research", "Codex integration", "Windows app", "feedback loops"]
-source: "https://github.com/luizgustavo22/codex-autoresearch"
-discovered_at: "2026-07-08T22:14:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- automation
+- iterative research
+- Codex integration
+- Windows app
+- feedback loops
+source: https://github.com/luizgustavo22/codex-autoresearch
+discovered_at: '2026-07-08T22:14:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

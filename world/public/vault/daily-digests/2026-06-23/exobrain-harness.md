@@ -1,13 +1,33 @@
 ---
-title: "BaesTheorem/exobrain-harness"
-category: "Orchestrator"
-tech_stack: ["Claude Code", "Python", "Shell Scripting", "SQLite", "FastAPI", "Obsidian", "Things 3", "Google Calendar", "launchd", "MCP Servers", "Twilio", "Fitbit API", "Withings API", "Discord API", "Open-Meteo API"]
+title: BaesTheorem/exobrain-harness
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Claude Code
+- Python
+- Shell Scripting
+- SQLite
+- FastAPI
+- Obsidian
+- Things 3
+- Google Calendar
+- launchd
+- MCP Servers
+- Twilio
+- Fitbit API
+- Withings API
+- Discord API
+- Open-Meteo API
 quality_score: 9
 rag_relevance: 8
-tags: ["personal automation", "knowledge management", "Claude Code integration", "multi-modal data fusion", "self-hosted"]
-source: "https://github.com/BaesTheorem/exobrain-harness"
-discovered_at: "2026-06-23T10:35:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personal automation
+- knowledge management
+- Claude Code integration
+- multi-modal data fusion
+- self-hosted
+source: https://github.com/BaesTheorem/exobrain-harness
+discovered_at: '2026-06-23T10:35:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

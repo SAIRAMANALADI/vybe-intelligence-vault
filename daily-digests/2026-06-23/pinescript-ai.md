@@ -1,13 +1,22 @@
 ---
-title: "nippa44-goku/pinescript-ai"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "AI APIs (OpenAI, Anthropic, Google, Ollama)", "PineScript"]
+title: nippa44-goku/pinescript-ai
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Electron
+- AI APIs (OpenAI, Anthropic, Google, Ollama)
+- PineScript
 quality_score: 7
 rag_relevance: 6
-tags: ["PineScript generation", "TradingView automation", "AI-powered coding", "local execution", "code validation"]
-source: "https://github.com/nippa44-goku/pinescript-ai"
-discovered_at: "2026-06-23T23:05:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- PineScript generation
+- TradingView automation
+- AI-powered coding
+- local execution
+- code validation
+source: https://github.com/nippa44-goku/pinescript-ai
+discovered_at: '2026-06-23T23:05:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

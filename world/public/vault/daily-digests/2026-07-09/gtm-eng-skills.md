@@ -1,13 +1,23 @@
 ---
-title: "getaero-io/gtm-eng-skills"
-category: "Agent Framework"
-tech_stack: ["Claude Code", "Deepline CLI", "Python", "Markdown", "APIs (Apollo, Crustdata, PDL, Hunter, LeadMagic, etc.)"]
+title: getaero-io/gtm-eng-skills
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Claude Code
+- Deepline CLI
+- Python
+- Markdown
+- APIs (Apollo, Crustdata, PDL, Hunter, LeadMagic, etc.)
 quality_score: 8
 rag_relevance: 7
-tags: ["GTM automation", "lead enrichment", "TAM building", "signal discovery", "outbound automation"]
-source: "https://github.com/getaero-io/gtm-eng-skills"
-discovered_at: "2026-07-09T00:05:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- GTM automation
+- lead enrichment
+- TAM building
+- signal discovery
+- outbound automation
+source: https://github.com/getaero-io/gtm-eng-skills
+discovered_at: '2026-07-09T00:05:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "intangible-sidalceamalviflora302/engram"
-category: "Vector DB"
-tech_stack: ["Python", "Graph Database", "Embedding Models", "Version Control", "AI Agents"]
+title: intangible-sidalceamalviflora302/engram
+category: world/public/vault/daily-digests/2026-06-27
+tech_stack:
+- Python
+- Graph Database
+- Embedding Models
+- Version Control
+- AI Agents
 quality_score: 4
 rag_relevance: 8
-tags: ["long-term memory", "AI agents", "embeddings", "graph visualization", "versioning"]
-source: "https://github.com/intangible-sidalceamalviflora302/engram"
-discovered_at: "2026-06-27T21:58:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- long-term memory
+- AI agents
+- embeddings
+- graph visualization
+- versioning
+source: https://github.com/intangible-sidalceamalviflora302/engram
+discovered_at: '2026-06-27T21:58:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

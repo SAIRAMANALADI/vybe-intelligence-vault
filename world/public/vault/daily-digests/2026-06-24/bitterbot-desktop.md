@@ -1,13 +1,31 @@
 ---
-title: "Bitterbot-AI/bitterbot-desktop"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Vite", "Electron", "WebSockets", "Chromium", "FFmpeg", "Ripgrep", "Anthropic API", "TAVILY API", "Brave API", "OpenAI API", "NEAR AI API"]
+title: Bitterbot-AI/bitterbot-desktop
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- Vite
+- Electron
+- WebSockets
+- Chromium
+- FFmpeg
+- Ripgrep
+- Anthropic API
+- TAVILY API
+- Brave API
+- OpenAI API
+- NEAR AI API
 quality_score: 9
 rag_relevance: 7
-tags: ["personal AI", "biological memory", "P2P skills economy", "local-first", "dream engine"]
-source: "https://github.com/Bitterbot-AI/bitterbot-desktop"
-discovered_at: "2026-06-24T20:46:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personal AI
+- biological memory
+- P2P skills economy
+- local-first
+- dream engine
+source: https://github.com/Bitterbot-AI/bitterbot-desktop
+discovered_at: '2026-06-24T20:46:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

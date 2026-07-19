@@ -1,13 +1,23 @@
 ---
-title: "11Bhavin/Quant_Trading_Portfolio-"
-category: "Tooling"
-tech_stack: ["Python", "Machine Learning", "Reinforcement Learning", "Algorithmic Trading", "Quantitative Finance"]
+title: 11Bhavin/Quant_Trading_Portfolio-
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- Machine Learning
+- Reinforcement Learning
+- Algorithmic Trading
+- Quantitative Finance
 quality_score: 5
 rag_relevance: 4
-tags: ["quantitative trading", "automated strategies", "backtesting", "financial analytics", "trading automation"]
-source: "https://github.com/11Bhavin/Quant_Trading_Portfolio-"
-discovered_at: "2026-06-25T00:07:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- quantitative trading
+- automated strategies
+- backtesting
+- financial analytics
+- trading automation
+source: https://github.com/11Bhavin/Quant_Trading_Portfolio-
+discovered_at: '2026-06-25T00:07:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

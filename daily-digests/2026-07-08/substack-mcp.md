@@ -1,13 +1,23 @@
 ---
-title: "conorbronsdon/substack-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Substack API (unofficial)", "npm"]
+title: conorbronsdon/substack-mcp
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Substack API (unofficial)
+- npm
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Substack integration", "AI agent tools", "newsletter automation", "content management"]
-source: "https://github.com/conorbronsdon/substack-mcp"
-discovered_at: "2026-07-08T08:17:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Substack integration
+- AI agent tools
+- newsletter automation
+- content management
+source: https://github.com/conorbronsdon/substack-mcp
+discovered_at: '2026-07-08T08:17:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

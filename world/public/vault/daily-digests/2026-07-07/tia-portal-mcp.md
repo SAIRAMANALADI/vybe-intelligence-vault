@@ -1,13 +1,26 @@
 ---
-title: "Czarnak/tia-portal-mcp"
-category: "Tooling"
-tech_stack: ["C#", ".NET 8", ".NET Framework 4.8", "Siemens Openness API", "Model Context Protocol (MCP)", "JSON", "Windows", "Siemens TIA Portal V21"]
+title: Czarnak/tia-portal-mcp
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- C#
+- .NET 8
+- .NET Framework 4.8
+- Siemens Openness API
+- Model Context Protocol (MCP)
+- JSON
+- Windows
+- Siemens TIA Portal V21
 quality_score: 9
 rag_relevance: 8
-tags: ["Siemens TIA Portal", "MCP server", "PLC automation", "Industrial IoT", "AI agent integration"]
-source: "https://github.com/Czarnak/tia-portal-mcp"
-discovered_at: "2026-07-07T18:59:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Siemens TIA Portal
+- MCP server
+- PLC automation
+- Industrial IoT
+- AI agent integration
+source: https://github.com/Czarnak/tia-portal-mcp
+discovered_at: '2026-07-07T18:59:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

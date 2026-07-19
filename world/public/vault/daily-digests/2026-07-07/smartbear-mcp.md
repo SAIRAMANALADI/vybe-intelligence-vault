@@ -1,13 +1,24 @@
 ---
-title: "SmartBear/smartbear-mcp"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "npm", "OAuth", "REST APIs"]
+title: SmartBear/smartbear-mcp
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- npm
+- OAuth
+- REST APIs
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP Server", "AI Integration", "Test Automation", "API Management", "Monitoring Tools"]
-source: "https://github.com/SmartBear/smartbear-mcp"
-discovered_at: "2026-07-07T16:25:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- AI Integration
+- Test Automation
+- API Management
+- Monitoring Tools
+source: https://github.com/SmartBear/smartbear-mcp
+discovered_at: '2026-07-07T16:25:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

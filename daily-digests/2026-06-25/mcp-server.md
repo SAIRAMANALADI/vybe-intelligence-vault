@@ -1,13 +1,24 @@
 ---
-title: "browserstack/mcp-server"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "BrowserStack API", "REST", "CLI"]
+title: browserstack/mcp-server
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- BrowserStack API
+- REST
+- CLI
 quality_score: 9
 rag_relevance: 8
-tags: ["test automation", "MCP server", "BrowserStack", "AI-driven testing", "CI/CD integration"]
-source: "https://github.com/browserstack/mcp-server"
-discovered_at: "2026-06-25T14:18:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- test automation
+- MCP server
+- BrowserStack
+- AI-driven testing
+- CI/CD integration
+source: https://github.com/browserstack/mcp-server
+discovered_at: '2026-06-25T14:18:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

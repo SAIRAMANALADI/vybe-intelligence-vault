@@ -1,13 +1,23 @@
 ---
-title: "NoClickAFK/NoClickAFK"
-category: "Tooling"
-tech_stack: ["JavaScript", "n8n", "LangChain", "OpenAI", "AI Agents"]
+title: NoClickAFK/NoClickAFK
+category: world/public/vault/daily-digests/2026-07-05
+tech_stack:
+- JavaScript
+- n8n
+- LangChain
+- OpenAI
+- AI Agents
 quality_score: 4
 rag_relevance: 5
-tags: ["automation", "agent-based systems", "AI workflows", "no-code/low-code", "autonomous systems"]
-source: "https://github.com/NoClickAFK/NoClickAFK"
-discovered_at: "2026-07-05T11:30:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- automation
+- agent-based systems
+- AI workflows
+- no-code/low-code
+- autonomous systems
+source: https://github.com/NoClickAFK/NoClickAFK
+discovered_at: '2026-07-05T11:30:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "shreyvirmani/HackMind-AI"
-category: "Agent Framework"
-tech_stack: ["Python", "Google Gemini", "LangGraph", "Streamlit", "Docker", "AWS"]
+title: shreyvirmani/HackMind-AI
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- Python
+- Google Gemini
+- LangGraph
+- Streamlit
+- Docker
+- AWS
 quality_score: 5
 rag_relevance: 7
-tags: ["multi-agent", "hackathon", "automation", "scalable", "AI assistant"]
-source: "https://github.com/shreyvirmani/HackMind-AI"
-discovered_at: "2026-07-10T13:10:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent
+- hackathon
+- automation
+- scalable
+- AI assistant
+source: https://github.com/shreyvirmani/HackMind-AI
+discovered_at: '2026-07-10T13:10:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

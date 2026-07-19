@@ -1,13 +1,22 @@
 ---
-title: "Torulose-formula909/hermes-browser-extension"
-category: "UI Component"
-tech_stack: ["JavaScript", "Chrome Extension API", "Edge Extension API", "HTML/CSS"]
+title: Torulose-formula909/hermes-browser-extension
+category: daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- Chrome Extension API
+- Edge Extension API
+- HTML/CSS
 quality_score: 7
 rag_relevance: 6
-tags: ["browser extension", "local AI agent", "data privacy", "side panel", "web integration"]
-source: "https://github.com/Torulose-formula909/hermes-browser-extension"
-discovered_at: "2026-07-08T05:46:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser extension
+- local AI agent
+- data privacy
+- side panel
+- web integration
+source: https://github.com/Torulose-formula909/hermes-browser-extension
+discovered_at: '2026-07-08T05:46:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

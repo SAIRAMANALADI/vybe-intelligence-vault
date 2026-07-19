@@ -1,13 +1,30 @@
 ---
-title: "mkarvan/AgentShield"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "OSV", "NVD", "GitHub Advisory Database", "Semgrep", "Bandit", "LD_PRELOAD", "Docker", "MCP", "Hermes", "OpenClaw"]
+title: mkarvan/AgentShield
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- SQLite
+- OSV
+- NVD
+- GitHub Advisory Database
+- Semgrep
+- Bandit
+- LD_PRELOAD
+- Docker
+- MCP
+- Hermes
+- OpenClaw
 quality_score: 9
 rag_relevance: 9
-tags: ["AI agent security", "supply chain protection", "package interception", "CVE scanning", "typosquatting detection"]
-source: "https://github.com/mkarvan/AgentShield"
-discovered_at: "2026-07-06T21:26:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent security
+- supply chain protection
+- package interception
+- CVE scanning
+- typosquatting detection
+source: https://github.com/mkarvan/AgentShield
+discovered_at: '2026-07-06T21:26:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

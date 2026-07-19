@@ -1,13 +1,23 @@
 ---
-title: "Jnewton-lab/JianYan"
-category: "Tooling"
-tech_stack: ["Python", "OpenAI API", "ASR (Automatic Speech Recognition)", "Windows", "AI"]
+title: Jnewton-lab/JianYan
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Python
+- OpenAI API
+- ASR (Automatic Speech Recognition)
+- Windows
+- AI
 quality_score: 6
 rag_relevance: 5
-tags: ["speech-to-text", "AI transcription", "Windows utility", "real-time processing", "voice recognition"]
-source: "https://github.com/Jnewton-lab/JianYan"
-discovered_at: "2026-07-06T21:25:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- speech-to-text
+- AI transcription
+- Windows utility
+- real-time processing
+- voice recognition
+source: https://github.com/Jnewton-lab/JianYan
+discovered_at: '2026-07-06T21:25:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

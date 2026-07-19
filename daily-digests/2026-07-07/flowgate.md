@@ -1,13 +1,32 @@
 ---
-title: "horrible-gh/FlowGate"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Vue 3", "Pinia", "SQLite", "MySQL", "PostgreSQL", "JWT", "bcrypt", "TOTP 2FA", "Docker", "Redis", "Vite", "Node.js"]
+title: horrible-gh/FlowGate
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- FastAPI
+- Vue 3
+- Pinia
+- SQLite
+- MySQL
+- PostgreSQL
+- JWT
+- bcrypt
+- TOTP 2FA
+- Docker
+- Redis
+- Vite
+- Node.js
 quality_score: 9
 rag_relevance: 7
-tags: ["AI accountability", "workflow automation", "document pipeline", "agent orchestration", "review gates"]
-source: "https://github.com/horrible-gh/FlowGate"
-discovered_at: "2026-07-07T22:08:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI accountability
+- workflow automation
+- document pipeline
+- agent orchestration
+- review gates
+source: https://github.com/horrible-gh/FlowGate
+discovered_at: '2026-07-07T22:08:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

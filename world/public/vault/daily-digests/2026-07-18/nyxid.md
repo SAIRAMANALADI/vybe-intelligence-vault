@@ -1,13 +1,28 @@
 ---
-title: "ChronoAIProject/NyxID"
-category: "Orchestrator"
-tech_stack: ["Rust", "Docker", "MongoDB", "OIDC/OAuth 2.0", "PKCE", "RBAC", "Model Context Protocol (MCP)", "SSH Tunneling", "REST API", "OpenAPI"]
+title: ChronoAIProject/NyxID
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- Rust
+- Docker
+- MongoDB
+- OIDC/OAuth 2.0
+- PKCE
+- RBAC
+- Model Context Protocol (MCP)
+- SSH Tunneling
+- REST API
+- OpenAPI
 quality_score: 9
 rag_relevance: 10
-tags: ["AI agent connectivity", "credential management", "MCP tooling", "NAT traversal", "API proxy"]
-source: "https://github.com/ChronoAIProject/NyxID"
-discovered_at: "2026-07-13T10:24:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent connectivity
+- credential management
+- MCP tooling
+- NAT traversal
+- API proxy
+source: https://github.com/ChronoAIProject/NyxID
+discovered_at: '2026-07-13T10:24:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

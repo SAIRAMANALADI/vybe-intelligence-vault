@@ -1,13 +1,24 @@
 ---
-title: "ilya-Jafari/imminews-ai-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Google Gemini 1.5 Flash", "Google News RSS", "Telegram Bot API", "GitHub Actions", "google-genai SDK"]
+title: ilya-Jafari/imminews-ai-agent
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- Google Gemini 1.5 Flash
+- Google News RSS
+- Telegram Bot API
+- GitHub Actions
+- google-genai SDK
 quality_score: 8
 rag_relevance: 6
-tags: ["automation", "news monitoring", "social media content generation", "AI agent", "cloud-native"]
-source: "https://github.com/ilya-Jafari/imminews-ai-agent"
-discovered_at: "2026-07-08T08:17:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- automation
+- news monitoring
+- social media content generation
+- AI agent
+- cloud-native
+source: https://github.com/ilya-Jafari/imminews-ai-agent
+discovered_at: '2026-07-08T08:17:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

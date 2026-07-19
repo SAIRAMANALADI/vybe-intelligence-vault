@@ -1,13 +1,23 @@
 ---
-title: "AmrKhater0011/devops_server"
-category: "Tooling"
-tech_stack: ["GitHub Actions", "Docker", "Terraform", "Kubernetes", "JavaScript"]
+title: AmrKhater0011/devops_server
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- GitHub Actions
+- Docker
+- Terraform
+- Kubernetes
+- JavaScript
 quality_score: 6
 rag_relevance: 7
-tags: ["CI/CD", "Infrastructure as Code", "Containerization", "Automation", "DevOps"]
-source: "https://github.com/AmrKhater0011/devops_server"
-discovered_at: "2026-06-23T09:01:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CI/CD
+- Infrastructure as Code
+- Containerization
+- Automation
+- DevOps
+source: https://github.com/AmrKhater0011/devops_server
+discovered_at: '2026-06-23T09:01:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

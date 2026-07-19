@@ -1,13 +1,22 @@
 ---
-title: "yadhavshetty/server-scripts-cli"
-category: "Tooling"
-tech_stack: ["Shell", "Bash", "YAML", "Systemd"]
+title: yadhavshetty/server-scripts-cli
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Shell
+- Bash
+- YAML
+- Systemd
 quality_score: 6
 rag_relevance: 3
-tags: ["script management", "CLI tool", "YAML interface", "automation", "systemd"]
-source: "https://github.com/yadhavshetty/server-scripts-cli"
-discovered_at: "2026-06-25T00:07:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- script management
+- CLI tool
+- YAML interface
+- automation
+- systemd
+source: https://github.com/yadhavshetty/server-scripts-cli
+discovered_at: '2026-06-25T00:07:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

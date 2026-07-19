@@ -1,13 +1,27 @@
 ---
-title: "seldonframe/seldonframe"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Composio (for app integrations)", "Stripe (for payments)", "Twilio (for phone numbers)", "React (for UI components)", "PostgreSQL (for state management)", "Docker (for deployment)"]
+title: seldonframe/seldonframe
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Composio (for app integrations)
+- Stripe (for payments)
+- Twilio (for phone numbers)
+- React (for UI components)
+- PostgreSQL (for state management)
+- Docker (for deployment)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agents", "production-grade", "multi-channel", "memory management", "monetization"]
-source: "https://github.com/seldonframe/seldonframe"
-discovered_at: "2026-07-07T16:25:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- production-grade
+- multi-channel
+- memory management
+- monetization
+source: https://github.com/seldonframe/seldonframe
+discovered_at: '2026-07-07T16:25:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

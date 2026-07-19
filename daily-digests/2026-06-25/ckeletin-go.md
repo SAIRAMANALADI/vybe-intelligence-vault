@@ -1,13 +1,26 @@
 ---
-title: "peiman/ckeletin-go"
-category: "Agent Framework"
-tech_stack: ["Go", "Taskfile", "Viper", "Zerolog", "Bubble Tea", "GitHub Actions", "CodeQL", "ADRs (Architecture Decision Records)"]
+title: peiman/ckeletin-go
+category: daily-digests/2026-06-25
+tech_stack:
+- Go
+- Taskfile
+- Viper
+- Zerolog
+- Bubble Tea
+- GitHub Actions
+- CodeQL
+- ADRs (Architecture Decision Records)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent framework", "CLI development", "Go framework", "production-ready scaffolding", "architectural enforcement"]
-source: "https://github.com/peiman/ckeletin-go"
-discovered_at: "2026-06-25T08:30:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent framework
+- CLI development
+- Go framework
+- production-ready scaffolding
+- architectural enforcement
+source: https://github.com/peiman/ckeletin-go
+discovered_at: '2026-06-25T08:30:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

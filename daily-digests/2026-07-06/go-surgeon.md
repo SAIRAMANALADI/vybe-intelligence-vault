@@ -1,13 +1,23 @@
 ---
-title: "JLugagne/go-surgeon"
-category: "Tooling"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "AST (Abstract Syntax Tree)", "goimports", "go/packages"]
+title: JLugagne/go-surgeon
+category: daily-digests/2026-07-06
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- AST (Abstract Syntax Tree)
+- goimports
+- go/packages
 quality_score: 9
 rag_relevance: 8
-tags: ["Go code editing", "AST-based tools", "MCP server", "deterministic edits", "LLM agent integration"]
-source: "https://github.com/JLugagne/go-surgeon"
-discovered_at: "2026-07-06T21:25:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Go code editing
+- AST-based tools
+- MCP server
+- deterministic edits
+- LLM agent integration
+source: https://github.com/JLugagne/go-surgeon
+discovered_at: '2026-07-06T21:25:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

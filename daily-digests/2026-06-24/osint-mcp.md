@@ -1,13 +1,31 @@
 ---
-title: "snuri00/osint-mcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "FastAPI", "Anthropic Claude", "DeepSeek", "Ollama", "SQLite", "RSS", "APIs (Shodan, Censys, VirusTotal, etc.)", "GeoCLIP", "PyTorch", "Mermaid.js", "OpenClaw"]
+title: snuri00/osint-mcp
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- FastAPI
+- Anthropic Claude
+- DeepSeek
+- Ollama
+- SQLite
+- RSS
+- APIs (Shodan, Censys, VirusTotal, etc.)
+- GeoCLIP
+- PyTorch
+- Mermaid.js
+- OpenClaw
 quality_score: 9
 rag_relevance: 7
-tags: ["OSINT", "MCP server", "AI-driven investigation", "self-hosted", "multi-interface"]
-source: "https://github.com/snuri00/osint-mcp"
-discovered_at: "2026-06-24T13:20:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- OSINT
+- MCP server
+- AI-driven investigation
+- self-hosted
+- multi-interface
+source: https://github.com/snuri00/osint-mcp
+discovered_at: '2026-06-24T13:20:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

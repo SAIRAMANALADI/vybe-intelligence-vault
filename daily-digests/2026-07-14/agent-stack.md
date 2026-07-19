@@ -1,13 +1,24 @@
 ---
-title: "B67687/Agent-Stack"
-category: "Orchestrator"
-tech_stack: ["OpenCode CLI", "Oh-My-OpenAgent (OMO)", "Shell (scripts)", "JSONC (config files)", "Git", "Markdown (documentation)"]
+title: B67687/Agent-Stack
+category: daily-digests/2026-07-14
+tech_stack:
+- OpenCode CLI
+- Oh-My-OpenAgent (OMO)
+- Shell (scripts)
+- JSONC (config files)
+- Git
+- Markdown (documentation)
 quality_score: 7
 rag_relevance: 8
-tags: ["AI agent configuration", "OpenCode", "Oh-My-OpenAgent", "model tier management", "workflow automation"]
-source: "https://github.com/B67687/Agent-Stack"
-discovered_at: "2026-07-14T14:48:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent configuration
+- OpenCode
+- Oh-My-OpenAgent
+- model tier management
+- workflow automation
+source: https://github.com/B67687/Agent-Stack
+discovered_at: '2026-07-14T14:48:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

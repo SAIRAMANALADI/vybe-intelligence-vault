@@ -1,13 +1,24 @@
 ---
-title: "asl4/amazon-sorftime-research-MCP-skill"
-category: "Tooling"
-tech_stack: ["Python", "Windows Desktop Application", "Sorftime MCP", "Claude Skills", "PyQt or similar GUI framework", "Excel/PDF Export Libraries"]
+title: asl4/amazon-sorftime-research-MCP-skill
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Windows Desktop Application
+- Sorftime MCP
+- Claude Skills
+- PyQt or similar GUI framework
+- Excel/PDF Export Libraries
 quality_score: 6
 rag_relevance: 4
-tags: ["Amazon data analysis", "competitor insights", "product research", "desktop tool", "Sorftime MCP"]
-source: "https://github.com/asl4/amazon-sorftime-research-MCP-skill"
-discovered_at: "2026-06-23T23:09:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Amazon data analysis
+- competitor insights
+- product research
+- desktop tool
+- Sorftime MCP
+source: https://github.com/asl4/amazon-sorftime-research-MCP-skill
+discovered_at: '2026-06-23T23:09:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

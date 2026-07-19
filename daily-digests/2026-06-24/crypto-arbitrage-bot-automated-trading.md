@@ -1,13 +1,22 @@
 ---
-title: "Gestationradiotelescope548/crypto-arbitrage-bot-automated-trading"
-category: "Tooling"
-tech_stack: ["Python", "Windows OS", "Exchange APIs (Binance, Bybit, TON)", "High-frequency trading logic"]
+title: Gestationradiotelescope548/crypto-arbitrage-bot-automated-trading
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Windows OS
+- Exchange APIs (Binance, Bybit, TON)
+- High-frequency trading logic
 quality_score: 6
 rag_relevance: 4
-tags: ["crypto arbitrage", "automated trading", "multi-exchange", "high-frequency trading", "risk management"]
-source: "https://github.com/Gestationradiotelescope548/crypto-arbitrage-bot-automated-trading"
-discovered_at: "2026-06-24T22:16:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- crypto arbitrage
+- automated trading
+- multi-exchange
+- high-frequency trading
+- risk management
+source: https://github.com/Gestationradiotelescope548/crypto-arbitrage-bot-automated-trading
+discovered_at: '2026-06-24T22:16:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

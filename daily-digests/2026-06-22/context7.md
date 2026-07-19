@@ -1,13 +1,25 @@
 ---
-title: "upstash/context7"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "CLI", "REST API", "OAuth", "GitHub API"]
+title: upstash/context7
+category: daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- CLI
+- REST API
+- OAuth
+- GitHub API
 quality_score: 9
 rag_relevance: 10
-tags: ["documentation", "real-time", "AI agents", "code examples", "library integration"]
-source: "https://github.com/upstash/context7"
-discovered_at: "2026-06-22T18:14:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- documentation
+- real-time
+- AI agents
+- code examples
+- library integration
+source: https://github.com/upstash/context7
+discovered_at: '2026-06-22T18:14:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

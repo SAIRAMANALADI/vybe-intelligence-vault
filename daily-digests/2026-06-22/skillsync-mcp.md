@@ -1,13 +1,22 @@
 ---
-title: "Glowboth/skillsync-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Windows API"]
+title: Glowboth/skillsync-mcp
+category: daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Windows API
 quality_score: 6
 rag_relevance: 7
-tags: ["AI security", "skill management", "threat detection", "MCP server", "Windows tool"]
-source: "https://github.com/Glowboth/skillsync-mcp"
-discovered_at: "2026-06-22T18:53:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI security
+- skill management
+- threat detection
+- MCP server
+- Windows tool
+source: https://github.com/Glowboth/skillsync-mcp
+discovered_at: '2026-06-22T18:53:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

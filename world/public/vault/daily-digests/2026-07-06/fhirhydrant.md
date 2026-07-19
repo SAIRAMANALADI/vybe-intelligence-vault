@@ -1,13 +1,26 @@
 ---
-title: "faulkj/fhirHydrant"
-category: "Tooling"
-tech_stack: ["Node.js", "TypeScript", "FHIR (R4+)", "SMART on FHIR", "JWT", "MCP (Model Context Protocol)", "JWKS", "FHIRPath"]
+title: faulkj/fhirHydrant
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Node.js
+- TypeScript
+- FHIR (R4+)
+- SMART on FHIR
+- JWT
+- MCP (Model Context Protocol)
+- JWKS
+- FHIRPath
 quality_score: 9
 rag_relevance: 8
-tags: ["FHIR", "MCP Server", "SMART Authentication", "Clinical Data", "Healthcare AI"]
-source: "https://github.com/faulkj/fhirHydrant"
-discovered_at: "2026-07-06T23:04:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- FHIR
+- MCP Server
+- SMART Authentication
+- Clinical Data
+- Healthcare AI
+source: https://github.com/faulkj/fhirHydrant
+discovered_at: '2026-07-06T23:04:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

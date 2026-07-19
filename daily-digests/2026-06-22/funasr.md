@@ -1,13 +1,30 @@
 ---
-title: "modelscope/FunASR"
-category: "Tooling"
-tech_stack: ["Python", "PyTorch", "TorchAudio", "vLLM", "LLM (Qwen3, GLM)", "Whisper", "VAD (FSMN-VAD)", "Speaker Diarization (CAM++)", "Punctuation Models (CT-Transformer)", "GGUF (llama.cpp)", "FastAPI", "Docker"]
+title: modelscope/FunASR
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- PyTorch
+- TorchAudio
+- vLLM
+- LLM (Qwen3, GLM)
+- Whisper
+- VAD (FSMN-VAD)
+- Speaker Diarization (CAM++)
+- Punctuation Models (CT-Transformer)
+- GGUF (llama.cpp)
+- FastAPI
+- Docker
 quality_score: 9
 rag_relevance: 9
-tags: ["speech recognition", "real-time processing", "multilingual ASR", "speaker diarization", "emotion detection"]
-source: "https://github.com/modelscope/FunASR"
-discovered_at: "2026-06-22T18:13:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- speech recognition
+- real-time processing
+- multilingual ASR
+- speaker diarization
+- emotion detection
+source: https://github.com/modelscope/FunASR
+discovered_at: '2026-06-22T18:13:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

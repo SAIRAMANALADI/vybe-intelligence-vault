@@ -1,13 +1,23 @@
 ---
-title: "realloon/RimSage"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "Ripgrep", "MCP (Model Context Protocol)", "C#"]
+title: realloon/RimSage
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Bun
+- Ripgrep
+- MCP (Model Context Protocol)
+- C#
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP server", "RimWorld", "code search", "AI tooling", "modding"]
-source: "https://github.com/realloon/RimSage"
-discovered_at: "2026-06-24T20:49:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- RimWorld
+- code search
+- AI tooling
+- modding
+source: https://github.com/realloon/RimSage
+discovered_at: '2026-06-24T20:49:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

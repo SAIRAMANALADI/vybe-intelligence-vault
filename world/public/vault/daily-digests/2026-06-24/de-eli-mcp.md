@@ -1,13 +1,23 @@
 ---
-title: "matematicsolutions/de-eli-mcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "HTTP/REST API", "JSON", "pytest"]
+title: matematicsolutions/de-eli-mcp
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- HTTP/REST API
+- JSON
+- pytest
 quality_score: 8
 rag_relevance: 7
-tags: ["legal-data", "MCP-server", "German-legislation", "ELI-identifiers", "public-domain"]
-source: "https://github.com/matematicsolutions/de-eli-mcp"
-discovered_at: "2026-06-24T18:52:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- legal-data
+- MCP-server
+- German-legislation
+- ELI-identifiers
+- public-domain
+source: https://github.com/matematicsolutions/de-eli-mcp
+discovered_at: '2026-06-24T18:52:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

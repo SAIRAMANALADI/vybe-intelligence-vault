@@ -1,13 +1,29 @@
 ---
-title: "TheSyart/emperor-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Electron", "Vue 3", "TypeScript", "Tailwind CSS", "aiohttp", "LLM APIs (OpenAI, Anthropic, DeepSeek, etc.)", "MCP (Model Context Protocol)", "SQLite", "Vite", "Node.js"]
+title: TheSyart/emperor-agent
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Electron
+- Vue 3
+- TypeScript
+- Tailwind CSS
+- aiohttp
+- LLM APIs (OpenAI, Anthropic, DeepSeek, etc.)
+- MCP (Model Context Protocol)
+- SQLite
+- Vite
+- Node.js
 quality_score: 9
 rag_relevance: 8
-tags: ["local agent", "multi-session memory", "desktop workbench", "tool execution", "scheduler"]
-source: "https://github.com/TheSyart/emperor-agent"
-discovered_at: "2026-06-23T10:34:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local agent
+- multi-session memory
+- desktop workbench
+- tool execution
+- scheduler
+source: https://github.com/TheSyart/emperor-agent
+discovered_at: '2026-06-23T10:34:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

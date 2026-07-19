@@ -1,13 +1,23 @@
 ---
-title: "Evasive-airplanemechanics850/slide-image-to-editable-pptx"
-category: "Tooling"
-tech_stack: ["Python", "Microsoft PowerPoint API", "OCR (Optical Character Recognition)", "Windows Desktop Application", "Image Processing"]
+title: Evasive-airplanemechanics850/slide-image-to-editable-pptx
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Microsoft PowerPoint API
+- OCR (Optical Character Recognition)
+- Windows Desktop Application
+- Image Processing
 quality_score: 7
 rag_relevance: 6
-tags: ["slide conversion", "PowerPoint generation", "OCR", "image processing", "local processing"]
-source: "https://github.com/Evasive-airplanemechanics850/slide-image-to-editable-pptx"
-discovered_at: "2026-06-24T06:46:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- slide conversion
+- PowerPoint generation
+- OCR
+- image processing
+- local processing
+source: https://github.com/Evasive-airplanemechanics850/slide-image-to-editable-pptx
+discovered_at: '2026-06-24T06:46:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

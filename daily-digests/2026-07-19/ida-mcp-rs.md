@@ -1,13 +1,23 @@
 ---
-title: "blacktop/ida-mcp-rs"
-category: "Tooling"
-tech_stack: ["Rust", "IDA Pro SDK", "Model Context Protocol (MCP)", "Hex-Rays", "dyld_shared_cache"]
+title: blacktop/ida-mcp-rs
+category: daily-digests/2026-07-19
+tech_stack:
+- Rust
+- IDA Pro SDK
+- Model Context Protocol (MCP)
+- Hex-Rays
+- dyld_shared_cache
 quality_score: 9
 rag_relevance: 8
-tags: ["reverse engineering", "MCP server", "IDA Pro integration", "binary analysis", "AI agent tools"]
-source: "https://github.com/blacktop/ida-mcp-rs"
-discovered_at: "2026-07-15T20:08:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- reverse engineering
+- MCP server
+- IDA Pro integration
+- binary analysis
+- AI agent tools
+source: https://github.com/blacktop/ida-mcp-rs
+discovered_at: '2026-07-15T20:08:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

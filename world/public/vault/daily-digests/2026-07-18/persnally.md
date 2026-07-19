@@ -1,13 +1,24 @@
 ---
-title: "persnally/persnally"
-category: "Tooling"
-tech_stack: ["TypeScript", "SQLite", "Node.js", "MCP (Model Context Protocol)", "Docker (implied for local deployment)", "Ollama (for local model integration)"]
+title: persnally/persnally
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- TypeScript
+- SQLite
+- Node.js
+- MCP (Model Context Protocol)
+- Docker (implied for local deployment)
+- Ollama (for local model integration)
 quality_score: 9
 rag_relevance: 8
-tags: ["personalization", "context engine", "local-first", "privacy", "AI integration"]
-source: "https://github.com/persnally/persnally"
-discovered_at: "2026-07-16T20:02:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personalization
+- context engine
+- local-first
+- privacy
+- AI integration
+source: https://github.com/persnally/persnally
+discovered_at: '2026-07-16T20:02:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

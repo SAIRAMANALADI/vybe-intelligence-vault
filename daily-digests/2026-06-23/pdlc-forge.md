@@ -1,13 +1,26 @@
 ---
-title: "24bsc244-svg/pdlc-forge"
-category: "Tooling"
-tech_stack: ["Python 3.11+", "YAML", "OpenAI API", "Claude API", "Hugging Face (local models)", "Terminal UI", "JSON", "GitOps"]
+title: 24bsc244-svg/pdlc-forge
+category: daily-digests/2026-06-23
+tech_stack:
+- Python 3.11+
+- YAML
+- OpenAI API
+- Claude API
+- Hugging Face (local models)
+- Terminal UI
+- JSON
+- GitOps
 quality_score: 9
 rag_relevance: 7
-tags: ["AI contract enforcement", "test-driven development", "pipeline automation", "LLM accountability", "software development lifecycle"]
-source: "https://github.com/24bsc244-svg/pdlc-forge"
-discovered_at: "2026-06-23T02:46:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI contract enforcement
+- test-driven development
+- pipeline automation
+- LLM accountability
+- software development lifecycle
+source: https://github.com/24bsc244-svg/pdlc-forge
+discovered_at: '2026-06-23T02:46:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "fergusalveolar205/Generative-UI-MCP"
-category: "Tooling"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "Windows Desktop App", "SVG", "JSON"]
+title: fergusalveolar205/Generative-UI-MCP
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- Windows Desktop App
+- SVG
+- JSON
 quality_score: 6
 rag_relevance: 7
-tags: ["MCP server", "visual generation", "UI prototyping", "SVG graphics", "AI integration"]
-source: "https://github.com/fergusalveolar205/Generative-UI-MCP"
-discovered_at: "2026-06-23T02:42:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- visual generation
+- UI prototyping
+- SVG graphics
+- AI integration
+source: https://github.com/fergusalveolar205/Generative-UI-MCP
+discovered_at: '2026-06-23T02:42:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

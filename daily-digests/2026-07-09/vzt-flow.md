@@ -1,13 +1,27 @@
 ---
-title: "vonzelle-vzt/vzt-flow"
-category: "Tooling"
-tech_stack: ["Rust", "ONNX Runtime", "CoreML", "Metal API", "Llama.cpp", "Parakeet TDT (ASR)", "Qwen3 (LLM)", "ScreenCaptureKit (macOS)", "MCP (Model Context Protocol)"]
+title: vonzelle-vzt/vzt-flow
+category: daily-digests/2026-07-09
+tech_stack:
+- Rust
+- ONNX Runtime
+- CoreML
+- Metal API
+- Llama.cpp
+- Parakeet TDT (ASR)
+- Qwen3 (LLM)
+- ScreenCaptureKit (macOS)
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 7
-tags: ["local ASR", "offline dictation", "privacy-focused", "AI cleanup", "MCP integration"]
-source: "https://github.com/vonzelle-vzt/vzt-flow"
-discovered_at: "2026-07-09T21:19:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local ASR
+- offline dictation
+- privacy-focused
+- AI cleanup
+- MCP integration
+source: https://github.com/vonzelle-vzt/vzt-flow
+discovered_at: '2026-07-09T21:19:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

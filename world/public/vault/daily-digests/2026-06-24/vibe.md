@@ -1,13 +1,23 @@
 ---
-title: "COBACOBAINI/vibe"
-category: "Tooling"
-tech_stack: ["Rust", "Whisper", "OpenAI API", "TypeScript", "Cross-platform UI"]
+title: COBACOBAINI/vibe
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Rust
+- Whisper
+- OpenAI API
+- TypeScript
+- Cross-platform UI
 quality_score: 8
 rag_relevance: 7
-tags: ["transcription", "privacy-focused", "offline processing", "audio processing", "cross-platform"]
-source: "https://github.com/COBACOBAINI/vibe"
-discovered_at: "2026-06-24T02:48:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- transcription
+- privacy-focused
+- offline processing
+- audio processing
+- cross-platform
+source: https://github.com/COBACOBAINI/vibe
+discovered_at: '2026-06-24T02:48:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

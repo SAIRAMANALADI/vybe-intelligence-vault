@@ -1,13 +1,22 @@
 ---
-title: "ahmed5bdelaal/luffa-agent-skills"
-category: "Agent Framework"
-tech_stack: ["PHP", "AI Agents", "Automation", "Workflow Management"]
+title: ahmed5bdelaal/luffa-agent-skills
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- PHP
+- AI Agents
+- Automation
+- Workflow Management
 quality_score: 4
 rag_relevance: 6
-tags: ["AI agents", "automation", "workflow", "PHP", "Luffa integration"]
-source: "https://github.com/ahmed5bdelaal/luffa-agent-skills"
-discovered_at: "2026-07-08T02:07:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- automation
+- workflow
+- PHP
+- Luffa integration
+source: https://github.com/ahmed5bdelaal/luffa-agent-skills
+discovered_at: '2026-07-08T02:07:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

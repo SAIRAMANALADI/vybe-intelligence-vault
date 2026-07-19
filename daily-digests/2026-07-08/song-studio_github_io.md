@@ -1,13 +1,26 @@
 ---
-title: "song-studio/song-studio.github.io"
-category: "Tooling"
-tech_stack: ["HTML", "CSS", "JavaScript", "Flask", "Gunicorn", "GitHub Pages", "Node.js", "MCP (Model Context Protocol)"]
+title: song-studio/song-studio.github.io
+category: daily-digests/2026-07-08
+tech_stack:
+- HTML
+- CSS
+- JavaScript
+- Flask
+- Gunicorn
+- GitHub Pages
+- Node.js
+- MCP (Model Context Protocol)
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP", "static-site", "data-api", "ai-agent-tools", "sports-data"]
-source: "https://github.com/song-studio/song-studio.github.io"
-discovered_at: "2026-07-08T17:25:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- static-site
+- data-api
+- ai-agent-tools
+- sports-data
+source: https://github.com/song-studio/song-studio.github.io
+discovered_at: '2026-07-08T17:25:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

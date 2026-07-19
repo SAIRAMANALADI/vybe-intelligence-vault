@@ -1,13 +1,33 @@
 ---
-title: "tninja/ai-code-interface.el"
-category: "Tooling"
-tech_stack: ["Emacs Lisp", "Emacs", "Transient", "Org-mode", "Magit", "vterm", "eat", "Ghostel", "Helm", "Whisper", "GPTel", "Flycheck", "YASnippet", "Projectile", "Helm-gtags"]
+title: tninja/ai-code-interface.el
+category: daily-digests/2026-07-16
+tech_stack:
+- Emacs Lisp
+- Emacs
+- Transient
+- Org-mode
+- Magit
+- vterm
+- eat
+- Ghostel
+- Helm
+- Whisper
+- GPTel
+- Flycheck
+- YASnippet
+- Projectile
+- Helm-gtags
 quality_score: 9
 rag_relevance: 6
-tags: ["Emacs", "AI coding assistant", "multi-backend", "agile workflow", "terminal integration"]
-source: "https://github.com/tninja/ai-code-interface.el"
-discovered_at: "2026-07-15T02:12:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Emacs
+- AI coding assistant
+- multi-backend
+- agile workflow
+- terminal integration
+source: https://github.com/tninja/ai-code-interface.el
+discovered_at: '2026-07-15T02:12:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "idnoobs/mycapsul-core-engine"
-category: "Orchestrator"
-tech_stack: ["Claude API", "OpenAI API", "Python", "YAML", "Mermaid.js", "OAuth", "REST APIs", "Reinforcement Learning", "Natural Language Processing"]
+title: idnoobs/mycapsul-core-engine
+category: daily-digests/2026-06-23
+tech_stack:
+- Claude API
+- OpenAI API
+- Python
+- YAML
+- Mermaid.js
+- OAuth
+- REST APIs
+- Reinforcement Learning
+- Natural Language Processing
 quality_score: 8
 rag_relevance: 7
-tags: ["AI productivity", "life orchestration", "Claude Desktop plugin", "autonomous scheduling", "personal AI assistant"]
-source: "https://github.com/idnoobs/mycapsul-core-engine"
-discovered_at: "2026-06-23T08:57:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI productivity
+- life orchestration
+- Claude Desktop plugin
+- autonomous scheduling
+- personal AI assistant
+source: https://github.com/idnoobs/mycapsul-core-engine
+discovered_at: '2026-06-23T08:57:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

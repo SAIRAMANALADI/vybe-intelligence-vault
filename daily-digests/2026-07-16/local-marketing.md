@@ -1,13 +1,26 @@
 ---
-title: "navig-me/local-marketing"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "SQLite", "SMTP", "Claude Code", "LLM CLI Agents", "YAML/JSON Configuration", "Bash Scripting"]
+title: navig-me/local-marketing
+category: daily-digests/2026-07-16
+tech_stack:
+- JavaScript
+- Node.js
+- SQLite
+- SMTP
+- Claude Code
+- LLM CLI Agents
+- YAML/JSON Configuration
+- Bash Scripting
 quality_score: 8
 rag_relevance: 7
-tags: ["local-first", "agent-agnostic", "outreach automation", "human-approved sends", "SMTP integration"]
-source: "https://github.com/navig-me/local-marketing"
-discovered_at: "2026-07-15T05:29:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first
+- agent-agnostic
+- outreach automation
+- human-approved sends
+- SMTP integration
+source: https://github.com/navig-me/local-marketing
+discovered_at: '2026-07-15T05:29:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "JdominguezEcommium/agentic-self-regulation-loop"
-category: "Orchestrator"
-tech_stack: ["Python", "YAML", "OpenAI API", "Claude API", "Sandboxed Execution", "Mermaid.js", "Web Dashboard"]
+title: JdominguezEcommium/agentic-self-regulation-loop
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- YAML
+- OpenAI API
+- Claude API
+- Sandboxed Execution
+- Mermaid.js
+- Web Dashboard
 quality_score: 8
 rag_relevance: 9
-tags: ["AI agent guardrails", "autonomous remediation", "multi-layer reflection", "code safety verification", "self-regulating loops"]
-source: "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-discovered_at: "2026-06-23T06:44:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent guardrails
+- autonomous remediation
+- multi-layer reflection
+- code safety verification
+- self-regulating loops
+source: https://github.com/JdominguezEcommium/agentic-self-regulation-loop
+discovered_at: '2026-06-23T06:44:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

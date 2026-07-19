@@ -1,13 +1,23 @@
 ---
-title: "kird89/OpenClaw-Turbo"
-category: "UI Component"
-tech_stack: ["Vue.js", "Windows", "Python", "OpenClaw", "Electron"]
+title: kird89/OpenClaw-Turbo
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Vue.js
+- Windows
+- Python
+- OpenClaw
+- Electron
 quality_score: 7
 rag_relevance: 6
-tags: ["AI management", "dashboard", "agent deployment", "Windows GUI", "OpenClaw"]
-source: "https://github.com/kird89/OpenClaw-Turbo"
-discovered_at: "2026-06-22T18:48:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI management
+- dashboard
+- agent deployment
+- Windows GUI
+- OpenClaw
+source: https://github.com/kird89/OpenClaw-Turbo
+discovered_at: '2026-06-22T18:48:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

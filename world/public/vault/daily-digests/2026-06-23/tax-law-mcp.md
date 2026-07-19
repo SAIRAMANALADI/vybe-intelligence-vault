@@ -1,13 +1,22 @@
 ---
-title: "xqzimgz/tax-law-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Windows Executable", "Local Web Server", "API Integration"]
+title: xqzimgz/tax-law-mcp
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Windows Executable
+- Local Web Server
+- API Integration
 quality_score: 7
 rag_relevance: 4
-tags: ["Japanese tax law", "local data access", "legal compliance", "offline browsing", "Windows application"]
-source: "https://github.com/xqzimgz/tax-law-mcp"
-discovered_at: "2026-06-23T23:08:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Japanese tax law
+- local data access
+- legal compliance
+- offline browsing
+- Windows application
+source: https://github.com/xqzimgz/tax-law-mcp
+discovered_at: '2026-06-23T23:08:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

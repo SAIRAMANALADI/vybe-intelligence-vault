@@ -1,13 +1,23 @@
 ---
-title: "meetsoma/website"
-category: "UI Component"
-tech_stack: ["Astro", "Vercel", "Markdown", "JavaScript", "HTML/CSS"]
+title: meetsoma/website
+category: daily-digests/2026-07-15
+tech_stack:
+- Astro
+- Vercel
+- Markdown
+- JavaScript
+- HTML/CSS
 quality_score: 7
 rag_relevance: 4
-tags: ["documentation", "static site generator", "content management", "Astro framework", "Vercel deployment"]
-source: "https://github.com/meetsoma/website"
-discovered_at: "2026-07-12T08:15:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- documentation
+- static site generator
+- content management
+- Astro framework
+- Vercel deployment
+source: https://github.com/meetsoma/website
+discovered_at: '2026-07-12T08:15:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

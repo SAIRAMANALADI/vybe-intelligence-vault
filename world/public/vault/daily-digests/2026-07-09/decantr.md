@@ -1,13 +1,29 @@
 ---
-title: "decantr-ai/decantr"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "React", "Angular", "Vue", "Svelte", "Vite", "pnpm", "MCP (Model Context Protocol)", "Fly.io", "Tailwind CSS"]
+title: decantr-ai/decantr
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- Angular
+- Vue
+- Svelte
+- Vite
+- pnpm
+- MCP (Model Context Protocol)
+- Fly.io
+- Tailwind CSS
 quality_score: 9
 rag_relevance: 8
-tags: ["frontend governance", "AI code alignment", "contract-driven development", "evidence-based verification", "AI agent tooling"]
-source: "https://github.com/decantr-ai/decantr"
-discovered_at: "2026-07-09T19:31:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- frontend governance
+- AI code alignment
+- contract-driven development
+- evidence-based verification
+- AI agent tooling
+source: https://github.com/decantr-ai/decantr
+discovered_at: '2026-07-09T19:31:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "manthanghasadiya/mcpsec"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Semgrep", "LLM (AI-powered analysis)", "Nix", "PyPI", "GitHub Actions"]
+title: manthanghasadiya/mcpsec
+category: daily-digests/2026-07-16
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Semgrep
+- LLM (AI-powered analysis)
+- Nix
+- PyPI
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP security", "protocol fuzzing", "runtime scanning", "AI agent security", "vulnerability detection"]
-source: "https://github.com/manthanghasadiya/mcpsec"
-discovered_at: "2026-07-12T05:56:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP security
+- protocol fuzzing
+- runtime scanning
+- AI agent security
+- vulnerability detection
+source: https://github.com/manthanghasadiya/mcpsec
+discovered_at: '2026-07-12T05:56:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

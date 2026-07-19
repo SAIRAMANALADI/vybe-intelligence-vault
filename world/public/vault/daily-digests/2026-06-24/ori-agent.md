@@ -1,13 +1,27 @@
 ---
-title: "johnjallday/ori-agent"
-category: "Agent Framework"
-tech_stack: ["Go", "Modern Web Technologies (UI)", "MCP (Model Context Protocol)", "Local LLM Providers (Ollama, LM Studio, MLX)", "Cloud LLM Providers (OpenAI, Anthropic, Google)", "Cron-like Scheduling", "Encrypted Storage (OS Keychain)", "REST API", "Browser UI"]
+title: johnjallday/ori-agent
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Go
+- Modern Web Technologies (UI)
+- MCP (Model Context Protocol)
+- Local LLM Providers (Ollama, LM Studio, MLX)
+- Cloud LLM Providers (OpenAI, Anthropic, Google)
+- Cron-like Scheduling
+- Encrypted Storage (OS Keychain)
+- REST API
+- Browser UI
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous agents", "local-first", "multi-agent orchestration", "policy-based autonomy", "RAG workflows"]
-source: "https://github.com/johnjallday/ori-agent"
-discovered_at: "2026-06-24T20:47:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- local-first
+- multi-agent orchestration
+- policy-based autonomy
+- RAG workflows
+source: https://github.com/johnjallday/ori-agent
+discovered_at: '2026-06-24T20:47:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

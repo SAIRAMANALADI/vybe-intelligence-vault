@@ -1,13 +1,26 @@
 ---
-title: "tosin2013/mcp-adr-analysis-server"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Tree-sitter", "OpenRouter API", "NPM", "MCP (Model Context Protocol)", "Knowledge Graph", "Firecrawl"]
+title: tosin2013/mcp-adr-analysis-server
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- TypeScript
+- Node.js
+- Tree-sitter
+- OpenRouter API
+- NPM
+- MCP (Model Context Protocol)
+- Knowledge Graph
+- Firecrawl
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Architectural Decision Records", "AI-powered analysis", "Code linking", "Development workflow"]
-source: "https://github.com/tosin2013/mcp-adr-analysis-server"
-discovered_at: "2026-07-13T10:24:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Architectural Decision Records
+- AI-powered analysis
+- Code linking
+- Development workflow
+source: https://github.com/tosin2013/mcp-adr-analysis-server
+discovered_at: '2026-07-13T10:24:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

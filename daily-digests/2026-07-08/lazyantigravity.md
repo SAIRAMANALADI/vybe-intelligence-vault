@@ -1,13 +1,27 @@
 ---
-title: "daeryundf2-prog/LAZYANTIGRAVITY"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Next.js", "Bun", "Gemini CLI", "LazyCodex", "Ouroboros", "Static Analysis (LSP)", "MCP Server", "Python (for browsing deps)"]
+title: daeryundf2-prog/LAZYANTIGRAVITY
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Next.js
+- Bun
+- Gemini CLI
+- LazyCodex
+- Ouroboros
+- Static Analysis (LSP)
+- MCP Server
+- Python (for browsing deps)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent orchestration", "Gemini CLI plugin", "multi-agent workflows", "hallucination mitigation", "visual dashboard"]
-source: "https://github.com/daeryundf2-prog/LAZYANTIGRAVITY"
-discovered_at: "2026-07-08T02:07:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent orchestration
+- Gemini CLI plugin
+- multi-agent workflows
+- hallucination mitigation
+- visual dashboard
+source: https://github.com/daeryundf2-prog/LAZYANTIGRAVITY
+discovered_at: '2026-07-08T02:07:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

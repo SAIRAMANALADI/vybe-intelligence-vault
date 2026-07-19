@@ -1,13 +1,25 @@
 ---
-title: "KenKaiii/gg-framework"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "React", "Ink", "Vitest", "Zod", "pnpm", "Node.js"]
+title: KenKaiii/gg-framework
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- React
+- Ink
+- Vitest
+- Zod
+- pnpm
+- Node.js
 quality_score: 8
 rag_relevance: 9
-tags: ["LLM integration", "agent orchestration", "TypeScript framework", "modular architecture", "CLI tools"]
-source: "https://github.com/KenKaiii/gg-framework"
-discovered_at: "2026-06-23T19:11:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LLM integration
+- agent orchestration
+- TypeScript framework
+- modular architecture
+- CLI tools
+source: https://github.com/KenKaiii/gg-framework
+discovered_at: '2026-06-23T19:11:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

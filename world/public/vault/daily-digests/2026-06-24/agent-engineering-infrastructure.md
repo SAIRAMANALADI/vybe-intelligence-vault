@@ -1,13 +1,30 @@
 ---
-title: "Fractera/Agent-Engineering-Infrastructure"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Next.js", "React", "Node.js", "SQLite", "Nginx", "Docker", "NextAuth.js", "MCP (Model Context Protocol)", "Claude Code", "Gemini CLI", "Qwen Code"]
+title: Fractera/Agent-Engineering-Infrastructure
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Next.js
+- React
+- Node.js
+- SQLite
+- Nginx
+- Docker
+- NextAuth.js
+- MCP (Model Context Protocol)
+- Claude Code
+- Gemini CLI
+- Qwen Code
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent systems", "self-hosted infrastructure", "deterministic architecture", "MCP-first", "enterprise deployment"]
-source: "https://github.com/Fractera/Agent-Engineering-Infrastructure"
-discovered_at: "2026-06-24T13:21:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- self-hosted infrastructure
+- deterministic architecture
+- MCP-first
+- enterprise deployment
+source: https://github.com/Fractera/Agent-Engineering-Infrastructure
+discovered_at: '2026-06-24T13:21:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

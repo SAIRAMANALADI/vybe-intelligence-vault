@@ -1,13 +1,27 @@
 ---
-title: "Sundeepg98/google-docs-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Google Docs API", "Google Drive API", "Google Sheets API", "Google Slides API", "Apps Script", "Model Context Protocol (MCP)", "GitHub Actions", "Fly.io"]
+title: Sundeepg98/google-docs-mcp
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- Google Docs API
+- Google Drive API
+- Google Sheets API
+- Google Slides API
+- Apps Script
+- Model Context Protocol (MCP)
+- GitHub Actions
+- Fly.io
 quality_score: 9
 rag_relevance: 7
-tags: ["Google Workspace automation", "MCP server", "Google Docs tabs", "persistent workflows", "Claude integration"]
-source: "https://github.com/Sundeepg98/google-docs-mcp"
-discovered_at: "2026-07-08T12:25:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Google Workspace automation
+- MCP server
+- Google Docs tabs
+- persistent workflows
+- Claude integration
+source: https://github.com/Sundeepg98/google-docs-mcp
+discovered_at: '2026-07-08T12:25:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

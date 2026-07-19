@@ -1,13 +1,24 @@
 ---
-title: "inth3shadows/runecho"
-category: "Tooling"
-tech_stack: ["Go", "SQLite", "MCP (Model Context Protocol)", "Git", "POSIX/Windows Shell", "JavaScript/TypeScript/Go/Python parsers"]
+title: inth3shadows/runecho
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Go
+- SQLite
+- MCP (Model Context Protocol)
+- Git
+- POSIX/Windows Shell
+- JavaScript/TypeScript/Go/Python parsers
 quality_score: 9
 rag_relevance: 10
-tags: ["deterministic", "code-truth oracle", "AI agent guardrails", "structural diff", "hallucination prevention"]
-source: "https://github.com/inth3shadows/runecho"
-discovered_at: "2026-07-09T00:06:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- deterministic
+- code-truth oracle
+- AI agent guardrails
+- structural diff
+- hallucination prevention
+source: https://github.com/inth3shadows/runecho
+discovered_at: '2026-07-09T00:06:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

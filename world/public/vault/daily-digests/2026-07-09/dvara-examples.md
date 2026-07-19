@@ -1,13 +1,32 @@
 ---
-title: "dvarahq/dvara-examples"
-category: "Tooling"
-tech_stack: ["Docker", "Docker Compose", "Python", "Node.js", "OpenAI SDK", "LangChain", "LiteLLM", "Pydantic AI", "Vercel AI", "Spring AI", "LangChain4j", "Kubernetes", "Helm", "Java"]
+title: dvarahq/dvara-examples
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Docker
+- Docker Compose
+- Python
+- Node.js
+- OpenAI SDK
+- LangChain
+- LiteLLM
+- Pydantic AI
+- Vercel AI
+- Spring AI
+- LangChain4j
+- Kubernetes
+- Helm
+- Java
 quality_score: 8
 rag_relevance: 7
-tags: ["LLM Gateway", "Docker Compose", "SDK Integration", "Multi-Provider", "Reference Examples"]
-source: "https://github.com/dvarahq/dvara-examples"
-discovered_at: "2026-07-09T11:53:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LLM Gateway
+- Docker Compose
+- SDK Integration
+- Multi-Provider
+- Reference Examples
+source: https://github.com/dvarahq/dvara-examples
+discovered_at: '2026-07-09T11:53:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

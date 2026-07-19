@@ -1,13 +1,27 @@
 ---
-title: "Justkog/sniptail"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Redis", "Discord API", "Slack API", "Telegram Bot API", "GitHub API", "GitLab API", "CLI-based coding agents (Codex, Copilot, OpenCode, ACP-backed agents)"]
+title: Justkog/sniptail
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- Redis
+- Discord API
+- Slack API
+- Telegram Bot API
+- GitHub API
+- GitLab API
+- CLI-based coding agents (Codex, Copilot, OpenCode, ACP-backed agents)
 quality_score: 9
 rag_relevance: 8
-tags: ["omnichannel automation", "code agent orchestration", "self-hosted", "repo interaction", "merge request automation"]
-source: "https://github.com/Justkog/sniptail"
-discovered_at: "2026-07-08T17:25:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- omnichannel automation
+- code agent orchestration
+- self-hosted
+- repo interaction
+- merge request automation
+source: https://github.com/Justkog/sniptail
+discovered_at: '2026-07-08T17:25:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

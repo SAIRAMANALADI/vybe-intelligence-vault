@@ -1,13 +1,25 @@
 ---
-title: "sharpsir-group/qobrix-crm-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Zod", "RESO Data Dictionary 2.0", "Redis", "Jest"]
+title: sharpsir-group/qobrix-crm-mcp
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Zod
+- RESO Data Dictionary 2.0
+- Redis
+- Jest
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "real estate CRM", "RESO DD 2.0", "read-only API", "AI agent integration"]
-source: "https://github.com/sharpsir-group/qobrix-crm-mcp"
-discovered_at: "2026-07-10T16:24:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- real estate CRM
+- RESO DD 2.0
+- read-only API
+- AI agent integration
+source: https://github.com/sharpsir-group/qobrix-crm-mcp
+discovered_at: '2026-07-10T16:24:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

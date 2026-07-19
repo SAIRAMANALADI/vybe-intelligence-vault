@@ -1,13 +1,22 @@
 ---
-title: "gatherfigtree740/ai-agent-landscape"
-category: "Tooling"
-tech_stack: ["Windows Desktop App", "Electron (assumed)", "JavaScript/TypeScript (assumed)", "Markdown for documentation"]
+title: gatherfigtree740/ai-agent-landscape
+category: daily-digests/2026-07-08
+tech_stack:
+- Windows Desktop App
+- Electron (assumed)
+- JavaScript/TypeScript (assumed)
+- Markdown for documentation
 quality_score: 6
 rag_relevance: 7
-tags: ["AI agent discovery", "curated directory", "offline access", "developer tools", "AI resource management"]
-source: "https://github.com/gatherfigtree740/ai-agent-landscape"
-discovered_at: "2026-07-08T02:06:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent discovery
+- curated directory
+- offline access
+- developer tools
+- AI resource management
+source: https://github.com/gatherfigtree740/ai-agent-landscape
+discovered_at: '2026-07-08T02:06:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

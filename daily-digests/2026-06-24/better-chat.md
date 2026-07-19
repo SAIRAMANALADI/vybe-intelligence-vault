@@ -1,13 +1,22 @@
 ---
-title: "Chris31372/better-chat"
-category: "UI Component"
-tech_stack: ["TypeScript", "Cloudflare Durable Objects", "Electron (implied by desktop app)", "Node.js"]
+title: Chris31372/better-chat
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Cloudflare Durable Objects
+- Electron (implied by desktop app)
+- Node.js
 quality_score: 5
 rag_relevance: 3
-tags: ["desktop chat app", "durable messaging", "real-time updates", "user-friendly UI", "Cloudflare integration"]
-source: "https://github.com/Chris31372/better-chat"
-discovered_at: "2026-06-24T10:27:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- desktop chat app
+- durable messaging
+- real-time updates
+- user-friendly UI
+- Cloudflare integration
+source: https://github.com/Chris31372/better-chat
+discovered_at: '2026-06-24T10:27:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

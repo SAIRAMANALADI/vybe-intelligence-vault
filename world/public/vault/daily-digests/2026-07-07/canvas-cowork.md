@@ -1,13 +1,23 @@
 ---
-title: "alexzq343-beep/canvas-cowork"
-category: "UI Component"
-tech_stack: ["TypeScript", "Electron", "Windows Desktop", "CLI", "AI Agents"]
+title: alexzq343-beep/canvas-cowork
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Electron
+- Windows Desktop
+- CLI
+- AI Agents
 quality_score: 6
 rag_relevance: 5
-tags: ["spatial canvas", "AI workflow", "node management", "agent collaboration", "visual workspace"]
-source: "https://github.com/alexzq343-beep/canvas-cowork"
-discovered_at: "2026-07-07T06:41:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- spatial canvas
+- AI workflow
+- node management
+- agent collaboration
+- visual workspace
+source: https://github.com/alexzq343-beep/canvas-cowork
+discovered_at: '2026-07-07T06:41:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

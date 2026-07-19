@@ -1,13 +1,29 @@
 ---
-title: "asim266/macvis"
-category: "Agent Framework"
-tech_stack: ["Electron", "React", "TypeScript", "Tailwind CSS", "Zustand", "Node.js", "Vite", "Anthropic SDK", "OpenAI SDK", "Google Generative AI SDK", "pnpm"]
+title: asim266/macvis
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Electron
+- React
+- TypeScript
+- Tailwind CSS
+- Zustand
+- Node.js
+- Vite
+- Anthropic SDK
+- OpenAI SDK
+- Google Generative AI SDK
+- pnpm
 quality_score: 9
 rag_relevance: 7
-tags: ["local-first AI", "multi-provider routing", "MCP integrations", "macOS agent", "BYOK"]
-source: "https://github.com/asim266/macvis"
-discovered_at: "2026-07-10T06:15:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first AI
+- multi-provider routing
+- MCP integrations
+- macOS agent
+- BYOK
+source: https://github.com/asim266/macvis
+discovered_at: '2026-07-10T06:15:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

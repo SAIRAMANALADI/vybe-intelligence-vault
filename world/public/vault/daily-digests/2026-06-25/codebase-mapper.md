@@ -1,13 +1,26 @@
 ---
-title: "Baraa-Suliman/codebase-mapper"
-category: "Tooling"
-tech_stack: ["Rust", "CLI", "AST Parsing", "Vector Embeddings", "Semantic Analysis", "Dependency Graph Extraction", "Quantization (int8)", "Parquet/JSON/Binary Export"]
+title: Baraa-Suliman/codebase-mapper
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Rust
+- CLI
+- AST Parsing
+- Vector Embeddings
+- Semantic Analysis
+- Dependency Graph Extraction
+- Quantization (int8)
+- Parquet/JSON/Binary Export
 quality_score: 9
 rag_relevance: 10
-tags: ["code indexing", "semantic graph", "AI agent tooling", "offline RAG", "privacy-first"]
-source: "https://github.com/Baraa-Suliman/codebase-mapper"
-discovered_at: "2026-06-25T08:33:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code indexing
+- semantic graph
+- AI agent tooling
+- offline RAG
+- privacy-first
+source: https://github.com/Baraa-Suliman/codebase-mapper
+discovered_at: '2026-06-25T08:33:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

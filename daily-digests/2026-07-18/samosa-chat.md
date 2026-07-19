@@ -1,13 +1,26 @@
 ---
-title: "deepanwadhwa/samosa-chat"
-category: "Tooling"
-tech_stack: ["C", "Qwen3.6-35B-A3B", "Apple Silicon (ARM64)", "Docker", "macOS", "Hugging Face", "SIMD kernels", "Group-32 quantization"]
+title: deepanwadhwa/samosa-chat
+category: daily-digests/2026-07-18
+tech_stack:
+- C
+- Qwen3.6-35B-A3B
+- Apple Silicon (ARM64)
+- Docker
+- macOS
+- Hugging Face
+- SIMD kernels
+- Group-32 quantization
 quality_score: 9
 rag_relevance: 8
-tags: ["local LLM inference", "Apple Silicon optimization", "CPU-only execution", "model quantization", "offline AI"]
-source: "https://github.com/deepanwadhwa/samosa-chat"
-discovered_at: "2026-07-15T20:07:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local LLM inference
+- Apple Silicon optimization
+- CPU-only execution
+- model quantization
+- offline AI
+source: https://github.com/deepanwadhwa/samosa-chat
+discovered_at: '2026-07-15T20:07:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

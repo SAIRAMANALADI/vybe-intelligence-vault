@@ -1,13 +1,24 @@
 ---
-title: "stacklok/toolhive-studio"
-category: "UI Component"
-tech_stack: ["TypeScript", "Electron", "Docker", "Model Context Protocol (MCP)", "React", "Node.js"]
+title: stacklok/toolhive-studio
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Electron
+- Docker
+- Model Context Protocol (MCP)
+- React
+- Node.js
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP servers", "secure containers", "AI agent integration", "desktop UI", "model context protocol"]
-source: "https://github.com/stacklok/toolhive-studio"
-discovered_at: "2026-07-07T13:17:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP servers
+- secure containers
+- AI agent integration
+- desktop UI
+- model context protocol
+source: https://github.com/stacklok/toolhive-studio
+discovered_at: '2026-07-07T13:17:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

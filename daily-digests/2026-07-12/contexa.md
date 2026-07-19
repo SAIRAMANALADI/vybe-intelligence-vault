@@ -1,13 +1,27 @@
 ---
-title: "contexa-security/contexa"
-category: "Orchestrator"
-tech_stack: ["Java", "Spring Boot", "PostgreSQL", "Redis", "Kafka", "Ollama", "LLM (Large Language Models)", "RAG (Retrieval-Augmented Generation)", "Docker"]
+title: contexa-security/contexa
+category: daily-digests/2026-07-12
+tech_stack:
+- Java
+- Spring Boot
+- PostgreSQL
+- Redis
+- Kafka
+- Ollama
+- LLM (Large Language Models)
+- RAG (Retrieval-Augmented Generation)
+- Docker
 quality_score: 8
 rag_relevance: 9
-tags: ["Zero Trust", "Runtime Security", "Post-Authentication", "AI-Native", "Spring Boot"]
-source: "https://github.com/contexa-security/contexa"
-discovered_at: "2026-07-11T09:27:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Zero Trust
+- Runtime Security
+- Post-Authentication
+- AI-Native
+- Spring Boot
+source: https://github.com/contexa-security/contexa
+discovered_at: '2026-07-11T09:27:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

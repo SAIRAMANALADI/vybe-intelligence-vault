@@ -1,13 +1,24 @@
 ---
-title: "sebastienrousseau/bankstatementparser-mcp"
-category: "Agent Framework"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FastMCP", "bankstatementparser", "Poetry", "Docker"]
+title: sebastienrousseau/bankstatementparser-mcp
+category: world/public/vault/daily-digests/2026-07-13
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FastMCP
+- bankstatementparser
+- Poetry
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["bank statement parsing", "MCP server", "ISO 20022", "financial data processing", "AI agent tools"]
-source: "https://github.com/sebastienrousseau/bankstatementparser-mcp"
-discovered_at: "2026-07-11T23:53:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- bank statement parsing
+- MCP server
+- ISO 20022
+- financial data processing
+- AI agent tools
+source: https://github.com/sebastienrousseau/bankstatementparser-mcp
+discovered_at: '2026-07-11T23:53:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

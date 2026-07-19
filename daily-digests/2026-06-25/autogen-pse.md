@@ -1,13 +1,27 @@
 ---
-title: "erishen/autogen-pse"
-category: "Agent Framework"
-tech_stack: ["Microsoft AutoGen", "FastAPI", "Vite", "React", "Chart.js", "Python", "uv", "DeepSeek", "OpenAI-compatible APIs"]
+title: erishen/autogen-pse
+category: daily-digests/2026-06-25
+tech_stack:
+- Microsoft AutoGen
+- FastAPI
+- Vite
+- React
+- Chart.js
+- Python
+- uv
+- DeepSeek
+- OpenAI-compatible APIs
 quality_score: 8
 rag_relevance: 9
-tags: ["agent orchestration", "multi-agent collaboration", "closed-loop verification", "task automation", "portfolio analysis"]
-source: "https://github.com/erishen/autogen-pse"
-discovered_at: "2026-06-25T11:36:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent orchestration
+- multi-agent collaboration
+- closed-loop verification
+- task automation
+- portfolio analysis
+source: https://github.com/erishen/autogen-pse
+discovered_at: '2026-06-25T11:36:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

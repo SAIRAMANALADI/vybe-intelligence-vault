@@ -1,13 +1,24 @@
 ---
-title: "ThienRabbit/sci-papers-downloder"
-category: "Tooling"
-tech_stack: ["Python", "Scopus API", "Unpaywall API", "Sci-Hub", "PyInstaller (for packaging)", "GUI Framework (unspecified)"]
+title: ThienRabbit/sci-papers-downloder
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Scopus API
+- Unpaywall API
+- Sci-Hub
+- PyInstaller (for packaging)
+- GUI Framework (unspecified)
 quality_score: 7
 rag_relevance: 4
-tags: ["academic paper download", "research tool", "open access", "Scopus integration", "Unpaywall"]
-source: "https://github.com/ThienRabbit/sci-papers-downloder"
-discovered_at: "2026-06-24T16:14:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- academic paper download
+- research tool
+- open access
+- Scopus integration
+- Unpaywall
+source: https://github.com/ThienRabbit/sci-papers-downloder
+discovered_at: '2026-06-24T16:14:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

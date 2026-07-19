@@ -1,13 +1,27 @@
 ---
-title: "SAMithila/llm-sql-agent"
-category: "Agent Framework"
-tech_stack: ["LangGraph", "GPT-4o", "FastAPI", "Streamlit", "SQLite", "PostgreSQL", "Python 3.11", "AWS EC2", "Docker"]
+title: SAMithila/llm-sql-agent
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- LangGraph
+- GPT-4o
+- FastAPI
+- Streamlit
+- SQLite
+- PostgreSQL
+- Python 3.11
+- AWS EC2
+- Docker
 quality_score: 9
 rag_relevance: 9
-tags: ["natural language to SQL", "agentic system", "deterministic AI", "database interaction", "guardrails"]
-source: "https://github.com/SAMithila/llm-sql-agent"
-discovered_at: "2026-06-24T02:42:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- natural language to SQL
+- agentic system
+- deterministic AI
+- database interaction
+- guardrails
+source: https://github.com/SAMithila/llm-sql-agent
+discovered_at: '2026-06-24T02:42:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

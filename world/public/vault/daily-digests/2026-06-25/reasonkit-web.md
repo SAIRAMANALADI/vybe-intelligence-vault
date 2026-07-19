@@ -1,13 +1,22 @@
 ---
-title: "romny5/reasonkit-web"
-category: "Tooling"
-tech_stack: ["Rust", "Electron (implied for desktop app)", "Web Automation", "Headless Browsing"]
+title: romny5/reasonkit-web
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Rust
+- Electron (implied for desktop app)
+- Web Automation
+- Headless Browsing
 quality_score: 6
 rag_relevance: 5
-tags: ["browser automation", "web scraping", "headless operations", "data extraction", "Rust"]
-source: "https://github.com/romny5/reasonkit-web"
-discovered_at: "2026-06-25T00:07:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- web scraping
+- headless operations
+- data extraction
+- Rust
+source: https://github.com/romny5/reasonkit-web
+discovered_at: '2026-06-25T00:07:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

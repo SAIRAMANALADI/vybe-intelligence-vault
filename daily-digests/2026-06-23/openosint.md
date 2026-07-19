@@ -1,13 +1,29 @@
 ---
-title: "OpenOSINT/OpenOSINT"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Anthropic Claude API", "Ollama", "OpenAI-compatible endpoints", "Asyncio", "FastAPI", "ReportLab (PDF generation)", "Pydantic", "Typer (CLI)", "GitHub Actions (CI/CD)"]
+title: OpenOSINT/OpenOSINT
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Anthropic Claude API
+- Ollama
+- OpenAI-compatible endpoints
+- Asyncio
+- FastAPI
+- ReportLab (PDF generation)
+- Pydantic
+- Typer (CLI)
+- GitHub Actions (CI/CD)
 quality_score: 9
 rag_relevance: 8
-tags: ["OSINT", "AI agent", "MCP server", "security research", "data collection"]
-source: "https://github.com/OpenOSINT/OpenOSINT"
-discovered_at: "2026-06-23T19:10:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- OSINT
+- AI agent
+- MCP server
+- security research
+- data collection
+source: https://github.com/OpenOSINT/OpenOSINT
+discovered_at: '2026-06-23T19:10:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

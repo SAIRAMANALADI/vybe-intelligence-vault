@@ -1,13 +1,30 @@
 ---
-title: "ethosagent/ethos"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "CLI", "PM2", "Telegram Bot API", "Discord API", "Slack API", "Email APIs", "Docusaurus (Documentation)", "Jest (Testing)", "ESLint (Linting)", "pnpm (Package Manager)"]
+title: ethosagent/ethos
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- PM2
+- Telegram Bot API
+- Discord API
+- Slack API
+- Email APIs
+- Docusaurus (Documentation)
+- Jest (Testing)
+- ESLint (Linting)
+- pnpm (Package Manager)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agents", "multi-channel", "personality-driven", "specialized agents", "TypeScript framework"]
-source: "https://github.com/ethosagent/ethos"
-discovered_at: "2026-06-25T14:15:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- multi-channel
+- personality-driven
+- specialized agents
+- TypeScript framework
+source: https://github.com/ethosagent/ethos
+discovered_at: '2026-06-25T14:15:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

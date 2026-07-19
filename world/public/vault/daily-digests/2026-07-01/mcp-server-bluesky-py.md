@@ -1,13 +1,22 @@
 ---
-title: "khleel213/mcp-server-bluesky-py"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Bluesky API", "Social Media Integration"]
+title: khleel213/mcp-server-bluesky-py
+category: world/public/vault/daily-digests/2026-07-01
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Bluesky API
+- Social Media Integration
 quality_score: 4
 rag_relevance: 6
-tags: ["AI Agents", "Social Media Automation", "MCP Server", "Bluesky Integration", "Python"]
-source: "https://github.com/khleel213/mcp-server-bluesky-py"
-discovered_at: "2026-07-01T09:39:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agents
+- Social Media Automation
+- MCP Server
+- Bluesky Integration
+- Python
+source: https://github.com/khleel213/mcp-server-bluesky-py
+discovered_at: '2026-07-01T09:39:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "littleoffice/mcp-searxng-relay"
-category: "Agent Framework"
-tech_stack: ["Go", "Docker", "Kubernetes", "Model Context Protocol (MCP)", "SearXNG", "Prometheus (metrics)", "SSRF protection", "Bearer token authentication"]
+title: littleoffice/mcp-searxng-relay
+category: daily-digests/2026-07-16
+tech_stack:
+- Go
+- Docker
+- Kubernetes
+- Model Context Protocol (MCP)
+- SearXNG
+- Prometheus (metrics)
+- SSRF protection
+- Bearer token authentication
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP server", "self-hosted search", "SearXNG", "security-hardened", "audit logging"]
-source: "https://github.com/littleoffice/mcp-searxng-relay"
-discovered_at: "2026-07-15T08:06:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- self-hosted search
+- SearXNG
+- security-hardened
+- audit logging
+source: https://github.com/littleoffice/mcp-searxng-relay
+discovered_at: '2026-07-15T08:06:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

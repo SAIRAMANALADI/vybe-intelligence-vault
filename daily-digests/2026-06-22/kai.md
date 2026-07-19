@@ -1,13 +1,30 @@
 ---
-title: "dcellison/kai"
-category: "Agent Framework"
-tech_stack: ["Python", "Telegram Bot API", "Claude Code", "Goose", "OpenAI Codex CLI", "OpenCode", "YAML", "SQLite", "FastAPI", "Sudo", "Git", "TOTP (Time-based One-Time Password)"]
+title: dcellison/kai
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- Telegram Bot API
+- Claude Code
+- Goose
+- OpenAI Codex CLI
+- OpenCode
+- YAML
+- SQLite
+- FastAPI
+- Sudo
+- Git
+- TOTP (Time-based One-Time Password)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent", "multi-user", "local execution", "security", "automation"]
-source: "https://github.com/dcellison/kai"
-discovered_at: "2026-06-22T23:20:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- multi-user
+- local execution
+- security
+- automation
+source: https://github.com/dcellison/kai
+discovered_at: '2026-06-22T23:20:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

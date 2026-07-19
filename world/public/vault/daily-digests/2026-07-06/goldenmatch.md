@@ -1,13 +1,33 @@
 ---
-title: "benseverndev-oss/goldenmatch"
-category: "Tooling"
-tech_stack: ["Python", "TypeScript", "Rust", "SQL", "PostgreSQL", "DuckDB", "WebAssembly", "LLM", "Fellegi-Sunter", "Ray", "FastAPI", "React", "MCP", "REST", "A2A"]
+title: benseverndev-oss/goldenmatch
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Python
+- TypeScript
+- Rust
+- SQL
+- PostgreSQL
+- DuckDB
+- WebAssembly
+- LLM
+- Fellegi-Sunter
+- Ray
+- FastAPI
+- React
+- MCP
+- REST
+- A2A
 quality_score: 10
 rag_relevance: 9
-tags: ["entity resolution", "data deduplication", "probabilistic matching", "knowledge graph", "zero-config"]
-source: "https://github.com/benseverndev-oss/goldenmatch"
-discovered_at: "2026-07-06T19:49:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- entity resolution
+- data deduplication
+- probabilistic matching
+- knowledge graph
+- zero-config
+source: https://github.com/benseverndev-oss/goldenmatch
+discovered_at: '2026-07-06T19:49:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

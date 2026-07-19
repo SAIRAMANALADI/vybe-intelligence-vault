@@ -1,13 +1,26 @@
 ---
-title: "RyjoxTechnologies/Octopoda-OS"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "PostgreSQL", "pgvector", "FastAPI", "React", "TypeScript", "Docker"]
+title: RyjoxTechnologies/Octopoda-OS
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- Python
+- SQLite
+- PostgreSQL
+- pgvector
+- FastAPI
+- React
+- TypeScript
+- Docker
 quality_score: 9
 rag_relevance: 9
-tags: ["memory", "observability", "agent monitoring", "loop detection", "audit trail"]
-source: "https://github.com/RyjoxTechnologies/Octopoda-OS"
-discovered_at: "2026-07-15T16:21:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory
+- observability
+- agent monitoring
+- loop detection
+- audit trail
+source: https://github.com/RyjoxTechnologies/Octopoda-OS
+discovered_at: '2026-07-15T16:21:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

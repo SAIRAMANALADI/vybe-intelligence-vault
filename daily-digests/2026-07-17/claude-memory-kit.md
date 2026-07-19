@@ -1,13 +1,23 @@
 ---
-title: "awrshift/claude-memory-kit"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code", "Markdown", "Git", "Shell Scripting"]
+title: awrshift/claude-memory-kit
+category: daily-digests/2026-07-17
+tech_stack:
+- Python
+- Claude Code
+- Markdown
+- Git
+- Shell Scripting
 quality_score: 9
 rag_relevance: 7
-tags: ["memory management", "Claude Code", "persistent context", "agent workflow", "automated auditing"]
-source: "https://github.com/awrshift/claude-memory-kit"
-discovered_at: "2026-07-17T12:08:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory management
+- Claude Code
+- persistent context
+- agent workflow
+- automated auditing
+source: https://github.com/awrshift/claude-memory-kit
+discovered_at: '2026-07-17T12:08:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

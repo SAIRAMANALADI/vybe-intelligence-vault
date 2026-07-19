@@ -1,13 +1,21 @@
 ---
-title: "Hassannewcode/AI-system-prompts"
-category: "Tooling"
-tech_stack: ["AI Prompts", "System Architecture", "Text Generation"]
+title: Hassannewcode/AI-system-prompts
+category: world/public/vault/daily-digests/2026-06-28
+tech_stack:
+- AI Prompts
+- System Architecture
+- Text Generation
 quality_score: 4
 rag_relevance: 5
-tags: ["AI prompts", "system architecture", "manipulative generation", "AI models", "prompt collection"]
-source: "https://github.com/Hassannewcode/AI-system-prompts"
-discovered_at: "2026-06-28T18:02:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI prompts
+- system architecture
+- manipulative generation
+- AI models
+- prompt collection
+source: https://github.com/Hassannewcode/AI-system-prompts
+discovered_at: '2026-06-28T18:02:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

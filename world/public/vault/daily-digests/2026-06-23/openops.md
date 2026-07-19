@@ -1,13 +1,26 @@
 ---
-title: "openops-cloud/openops"
-category: "Tooling"
-tech_stack: ["TypeScript", "Docker", "AWS", "Azure", "Google Cloud", "No-Code Workflow Engine", "Database Integration", "Visualization Tools"]
+title: openops-cloud/openops
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Docker
+- AWS
+- Azure
+- Google Cloud
+- No-Code Workflow Engine
+- Database Integration
+- Visualization Tools
 quality_score: 9
 rag_relevance: 4
-tags: ["FinOps", "Cloud Cost Optimization", "No-Code Automation", "Workflow Management", "Multi-Cloud"]
-source: "https://github.com/openops-cloud/openops"
-discovered_at: "2026-06-23T16:30:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- FinOps
+- Cloud Cost Optimization
+- No-Code Automation
+- Workflow Management
+- Multi-Cloud
+source: https://github.com/openops-cloud/openops
+discovered_at: '2026-06-23T16:30:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

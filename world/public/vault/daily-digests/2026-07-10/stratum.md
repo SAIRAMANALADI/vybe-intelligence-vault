@@ -1,13 +1,24 @@
 ---
-title: "smartmemory/stratum"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "YAML", "Pydantic", "LiteLLM", "PyPI"]
+title: smartmemory/stratum
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- YAML
+- Pydantic
+- LiteLLM
+- PyPI
 quality_score: 9
 rag_relevance: 9
-tags: ["workflow orchestration", "state machine", "AI agent governance", "postcondition enforcement", "auditable execution"]
-source: "https://github.com/smartmemory/stratum"
-discovered_at: "2026-07-10T02:27:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- workflow orchestration
+- state machine
+- AI agent governance
+- postcondition enforcement
+- auditable execution
+source: https://github.com/smartmemory/stratum
+discovered_at: '2026-07-10T02:27:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

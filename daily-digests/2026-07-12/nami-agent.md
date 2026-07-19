@@ -1,13 +1,25 @@
 ---
-title: "JmDemisana/nami-agent"
-category: "Agent Framework"
-tech_stack: ["Tauri", "Rust", "TypeScript", "React", "Google Gemini API", "Node.js", "WebView"]
+title: JmDemisana/nami-agent
+category: daily-digests/2026-07-12
+tech_stack:
+- Tauri
+- Rust
+- TypeScript
+- React
+- Google Gemini API
+- Node.js
+- WebView
 quality_score: 8
 rag_relevance: 7
-tags: ["local AI agent", "Tauri desktop shell", "Gemini API integration", "offline-capable", "file system access"]
-source: "https://github.com/JmDemisana/nami-agent"
-discovered_at: "2026-07-11T15:54:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local AI agent
+- Tauri desktop shell
+- Gemini API integration
+- offline-capable
+- file system access
+source: https://github.com/JmDemisana/nami-agent
+discovered_at: '2026-07-11T15:54:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

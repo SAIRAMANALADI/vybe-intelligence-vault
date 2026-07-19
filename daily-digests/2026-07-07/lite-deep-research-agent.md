@@ -1,13 +1,27 @@
 ---
-title: "strcoder4007/lite-deep-research-agent"
-category: "Agent Framework"
-tech_stack: ["LangGraph", "LangSmith", "Ollama", "Chroma", "Pydantic", "DuckDuckGo", "trafilatura", "nomic-embed-text", "Python"]
+title: strcoder4007/lite-deep-research-agent
+category: daily-digests/2026-07-07
+tech_stack:
+- LangGraph
+- LangSmith
+- Ollama
+- Chroma
+- Pydantic
+- DuckDuckGo
+- trafilatura
+- nomic-embed-text
+- Python
 quality_score: 8
 rag_relevance: 9
-tags: ["local research agent", "parallel sub-agents", "grounded report generation", "LangGraph orchestration", "Ollama integration"]
-source: "https://github.com/strcoder4007/lite-deep-research-agent"
-discovered_at: "2026-07-07T20:50:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local research agent
+- parallel sub-agents
+- grounded report generation
+- LangGraph orchestration
+- Ollama integration
+source: https://github.com/strcoder4007/lite-deep-research-agent
+discovered_at: '2026-07-07T20:50:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

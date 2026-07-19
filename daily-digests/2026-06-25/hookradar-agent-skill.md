@@ -1,13 +1,22 @@
 ---
-title: "Anagogic-blastinggelatin157/hookradar-agent-skill"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Windows OS", "Local Data Processing"]
+title: Anagogic-blastinggelatin157/hookradar-agent-skill
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Windows OS
+- Local Data Processing
 quality_score: 7
 rag_relevance: 7
-tags: ["marketing intelligence", "AI agent integration", "ad performance analysis", "competitive research", "MCP standard"]
-source: "https://github.com/Anagogic-blastinggelatin157/hookradar-agent-skill"
-discovered_at: "2026-06-25T08:32:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- marketing intelligence
+- AI agent integration
+- ad performance analysis
+- competitive research
+- MCP standard
+source: https://github.com/Anagogic-blastinggelatin157/hookradar-agent-skill
+discovered_at: '2026-06-25T08:32:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

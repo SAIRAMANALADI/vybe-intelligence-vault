@@ -1,13 +1,23 @@
 ---
-title: "Enfranchised-headlock480/skills-collection-2"
-category: "Tooling"
-tech_stack: ["Windows", "Scripts", "Templates", "Reference Guides", "Playbooks"]
+title: Enfranchised-headlock480/skills-collection-2
+category: daily-digests/2026-07-07
+tech_stack:
+- Windows
+- Scripts
+- Templates
+- Reference Guides
+- Playbooks
 quality_score: 6
 rag_relevance: 8
-tags: ["AI agent skills", "automation templates", "prompt engineering", "workflow organization", "reusable assets"]
-source: "https://github.com/Enfranchised-headlock480/skills-collection-2"
-discovered_at: "2026-07-07T06:42:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent skills
+- automation templates
+- prompt engineering
+- workflow organization
+- reusable assets
+source: https://github.com/Enfranchised-headlock480/skills-collection-2
+discovered_at: '2026-07-07T06:42:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

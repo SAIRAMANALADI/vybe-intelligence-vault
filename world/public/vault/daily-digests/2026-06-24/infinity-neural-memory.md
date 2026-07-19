@@ -1,13 +1,28 @@
 ---
-title: "NachaFromMars/infinity-neural-memory"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "FTS5 (Full-Text Search)", "BM25", "Reciprocal Rank Fusion (RRF)", "Okapi BM25", "JSONL", "POSIX file locking", "Pytest", "GitHub Actions"]
+title: NachaFromMars/infinity-neural-memory
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- SQLite
+- FTS5 (Full-Text Search)
+- BM25
+- Reciprocal Rank Fusion (RRF)
+- Okapi BM25
+- JSONL
+- POSIX file locking
+- Pytest
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["memory system", "event sourcing", "hybrid retrieval", "governance gates", "PII redaction"]
-source: "https://github.com/NachaFromMars/infinity-neural-memory"
-discovered_at: "2026-06-24T02:46:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory system
+- event sourcing
+- hybrid retrieval
+- governance gates
+- PII redaction
+source: https://github.com/NachaFromMars/infinity-neural-memory
+discovered_at: '2026-06-24T02:46:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

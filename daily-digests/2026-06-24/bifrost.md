@@ -1,13 +1,28 @@
 ---
-title: "maximhq/bifrost"
-category: "Orchestrator"
-tech_stack: ["Go", "Docker", "HTTP/REST APIs", "Prometheus", "OAuth 2.0/OIDC", "PostgreSQL", "gRPC", "WebSockets", "React", "TypeScript"]
+title: maximhq/bifrost
+category: daily-digests/2026-06-24
+tech_stack:
+- Go
+- Docker
+- HTTP/REST APIs
+- Prometheus
+- OAuth 2.0/OIDC
+- PostgreSQL
+- gRPC
+- WebSockets
+- React
+- TypeScript
 quality_score: 10
 rag_relevance: 9
-tags: ["AI Gateway", "Multi-Provider", "Load Balancing", "Semantic Caching", "Enterprise AI"]
-source: "https://github.com/maximhq/bifrost"
-discovered_at: "2026-06-24T13:21:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Gateway
+- Multi-Provider
+- Load Balancing
+- Semantic Caching
+- Enterprise AI
+source: https://github.com/maximhq/bifrost
+discovered_at: '2026-06-24T13:21:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

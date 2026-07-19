@@ -1,13 +1,26 @@
 ---
-title: "fathah/hermes-desktop"
-category: "UI Component"
-tech_stack: ["Electron", "TypeScript", "React", "Node.js", "Python", "SSE (Server-Sent Events)", "SQLite", "Vitest"]
+title: fathah/hermes-desktop
+category: daily-digests/2026-06-22
+tech_stack:
+- Electron
+- TypeScript
+- React
+- Node.js
+- Python
+- SSE (Server-Sent Events)
+- SQLite
+- Vitest
 quality_score: 9
 rag_relevance: 7
-tags: ["AI Assistant", "Desktop GUI", "Hermes Agent", "Tool Integration", "Multi-Provider"]
-source: "https://github.com/fathah/hermes-desktop"
-discovered_at: "2026-06-22T18:15:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Assistant
+- Desktop GUI
+- Hermes Agent
+- Tool Integration
+- Multi-Provider
+source: https://github.com/fathah/hermes-desktop
+discovered_at: '2026-06-22T18:15:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

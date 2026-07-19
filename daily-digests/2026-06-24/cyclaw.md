@@ -1,13 +1,28 @@
 ---
-title: "CGFixIT/CyClaw"
-category: "Orchestrator"
-tech_stack: ["Python 3.12", "FastAPI", "LangGraph", "ChromaDB", "Sentence Transformers", "LM Studio", "Docker", "Rclone", "GitHub CLI", "MCP (Model Context Protocol)"]
+title: CGFixIT/CyClaw
+category: daily-digests/2026-06-24
+tech_stack:
+- Python 3.12
+- FastAPI
+- LangGraph
+- ChromaDB
+- Sentence Transformers
+- LM Studio
+- Docker
+- Rclone
+- GitHub CLI
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 10
-tags: ["offline-first", "RAG", "LangGraph", "security invariants", "local AI"]
-source: "https://github.com/CGFixIT/CyClaw"
-discovered_at: "2026-06-24T02:49:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- offline-first
+- RAG
+- LangGraph
+- security invariants
+- local AI
+source: https://github.com/CGFixIT/CyClaw
+discovered_at: '2026-06-24T02:49:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

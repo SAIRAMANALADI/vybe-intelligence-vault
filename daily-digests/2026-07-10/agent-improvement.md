@@ -1,13 +1,24 @@
 ---
-title: "Atharv279/agent-improvement"
-category: "Agent Framework"
-tech_stack: ["Python", "GitHub Actions", "Mermaid.js", "Pytest", "Mypy", "Ruff"]
+title: Atharv279/agent-improvement
+category: daily-digests/2026-07-10
+tech_stack:
+- Python
+- GitHub Actions
+- Mermaid.js
+- Pytest
+- Mypy
+- Ruff
 quality_score: 7
 rag_relevance: 6
-tags: ["autonomous agents", "risk assessment", "self-correcting logic", "visual analytics", "operational monitoring"]
-source: "https://github.com/Atharv279/agent-improvement"
-discovered_at: "2026-07-10T06:15:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- risk assessment
+- self-correcting logic
+- visual analytics
+- operational monitoring
+source: https://github.com/Atharv279/agent-improvement
+discovered_at: '2026-07-10T06:15:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "tingbo-c/invest-research-skills"
-category: "Tooling"
-tech_stack: ["Python", "Markdown", "Mermaid.js", "Claude Code", "OpenClaw", "ChatGPT", "Gemini"]
+title: tingbo-c/invest-research-skills
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Markdown
+- Mermaid.js
+- Claude Code
+- OpenClaw
+- ChatGPT
+- Gemini
 quality_score: 9
 rag_relevance: 8
-tags: ["AI-driven research", "A-share analysis", "structured investment frameworks", "thematic chain analysis", "financial modeling"]
-source: "https://github.com/tingbo-c/invest-research-skills"
-discovered_at: "2026-06-23T10:37:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-driven research
+- A-share analysis
+- structured investment frameworks
+- thematic chain analysis
+- financial modeling
+source: https://github.com/tingbo-c/invest-research-skills
+discovered_at: '2026-06-23T10:37:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

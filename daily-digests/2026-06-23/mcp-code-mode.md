@@ -1,13 +1,23 @@
 ---
-title: "Jame0077/mcp-code-mode"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Node.js", "npm", "Virtual Environments"]
+title: Jame0077/mcp-code-mode
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Node.js
+- npm
+- Virtual Environments
 quality_score: 6
 rag_relevance: 7
-tags: ["code execution", "AI integration", "sandboxed environment", "MCP server", "Python tooling"]
-source: "https://github.com/Jame0077/mcp-code-mode"
-discovered_at: "2026-06-23T06:53:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code execution
+- AI integration
+- sandboxed environment
+- MCP server
+- Python tooling
+source: https://github.com/Jame0077/mcp-code-mode
+discovered_at: '2026-06-23T06:53:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

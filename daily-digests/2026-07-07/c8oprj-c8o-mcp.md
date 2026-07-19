@@ -1,13 +1,23 @@
 ---
-title: "convertigo/c8oprj-c8o-mcp"
-category: "Tooling"
-tech_stack: ["MCP (Model Context Protocol)", "Convertigo", "JavaScript", "Streamable HTTP", "JSON-RPC"]
+title: convertigo/c8oprj-c8o-mcp
+category: daily-digests/2026-07-07
+tech_stack:
+- MCP (Model Context Protocol)
+- Convertigo
+- JavaScript
+- Streamable HTTP
+- JSON-RPC
 quality_score: 7
 rag_relevance: 8
-tags: ["MCP server", "agentic workflows", "project generation", "CRUD templates", "AI stack integration"]
-source: "https://github.com/convertigo/c8oprj-c8o-mcp"
-discovered_at: "2026-07-07T16:27:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- agentic workflows
+- project generation
+- CRUD templates
+- AI stack integration
+source: https://github.com/convertigo/c8oprj-c8o-mcp
+discovered_at: '2026-07-07T16:27:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

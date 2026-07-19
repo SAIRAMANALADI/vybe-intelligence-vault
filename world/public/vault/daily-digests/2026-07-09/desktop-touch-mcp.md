@@ -1,13 +1,28 @@
 ---
-title: "Harusame64/desktop-touch-mcp"
-category: "Agent Framework"
-tech_stack: ["Rust", "TypeScript", "Node.js", "Windows UI Automation (UIA)", "Chrome DevTools Protocol (CDP)", "PowerShell", "OCR (Windows OCR API)", "SSE2 SIMD", "COM", "MCP (Model Context Protocol)"]
+title: Harusame64/desktop-touch-mcp
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Rust
+- TypeScript
+- Node.js
+- Windows UI Automation (UIA)
+- Chrome DevTools Protocol (CDP)
+- PowerShell
+- OCR (Windows OCR API)
+- SSE2 SIMD
+- COM
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 9
-tags: ["Windows automation", "UI interaction", "MCP server", "semantic targeting", "Rust native engine"]
-source: "https://github.com/Harusame64/desktop-touch-mcp"
-discovered_at: "2026-07-09T14:45:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Windows automation
+- UI interaction
+- MCP server
+- semantic targeting
+- Rust native engine
+source: https://github.com/Harusame64/desktop-touch-mcp
+discovered_at: '2026-07-09T14:45:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

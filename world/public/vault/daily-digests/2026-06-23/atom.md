@@ -1,13 +1,28 @@
 ---
-title: "rush86999/atom"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "PostgreSQL", "SQLite", "Docker", "React", "TypeScript", "GraphRAG", "LLM Integration", "Event-Driven Architecture"]
+title: rush86999/atom
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- FastAPI
+- PostgreSQL
+- SQLite
+- Docker
+- React
+- TypeScript
+- GraphRAG
+- LLM Integration
+- Event-Driven Architecture
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Agents", "Self-Hosted", "Multi-Agent Orchestration", "Workflow Automation", "Knowledge Graph"]
-source: "https://github.com/rush86999/atom"
-discovered_at: "2026-06-23T21:31:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agents
+- Self-Hosted
+- Multi-Agent Orchestration
+- Workflow Automation
+- Knowledge Graph
+source: https://github.com/rush86999/atom
+discovered_at: '2026-06-23T21:31:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,29 @@
 ---
-title: "andresparraarze/ForgeLab"
-category: "Orchestrator"
-tech_stack: ["Python", "JSON Schema", "MCP (Model Context Protocol)", "REST API", "OAuth 2.0", "KiCad", "FreeCAD", "Blender", "glTF", "OBJ", "STL"]
+title: andresparraarze/ForgeLab
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- JSON Schema
+- MCP (Model Context Protocol)
+- REST API
+- OAuth 2.0
+- KiCad
+- FreeCAD
+- Blender
+- glTF
+- OBJ
+- STL
 quality_score: 8
 rag_relevance: 9
-tags: ["AI-driven design", "JSON intermediate representation", "multi-tool integration", "hardware design", "3D modeling"]
-source: "https://github.com/andresparraarze/ForgeLab"
-discovered_at: "2026-06-24T18:58:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-driven design
+- JSON intermediate representation
+- multi-tool integration
+- hardware design
+- 3D modeling
+source: https://github.com/andresparraarze/ForgeLab
+discovered_at: '2026-06-24T18:58:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

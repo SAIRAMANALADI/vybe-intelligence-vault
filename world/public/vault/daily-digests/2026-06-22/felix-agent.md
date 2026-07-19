@@ -1,13 +1,28 @@
 ---
-title: "frdteknikelektro/felix-agent"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "React", "Docker", "LLM APIs (Codex, OpenCode, Claude Code)", "Mattermost", "Discord", "Slack", "Vite", "Server-Sent Events (SSE)"]
+title: frdteknikelektro/felix-agent
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- Docker
+- LLM APIs (Codex, OpenCode, Claude Code)
+- Mattermost
+- Discord
+- Slack
+- Vite
+- Server-Sent Events (SSE)
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agent", "multi-platform messaging", "skill-gated interactions", "owner console", "persistent sessions"]
-source: "https://github.com/frdteknikelektro/felix-agent"
-discovered_at: "2026-06-22T23:16:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- multi-platform messaging
+- skill-gated interactions
+- owner console
+- persistent sessions
+source: https://github.com/frdteknikelektro/felix-agent
+discovered_at: '2026-06-22T23:16:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

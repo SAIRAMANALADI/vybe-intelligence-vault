@@ -1,13 +1,30 @@
 ---
-title: "sjkim1127/Reversecore_MCP"
-category: "Orchestrator"
-tech_stack: ["Python", "FastMCP", "Ghidra", "Radare2", "Capstone", "LIEF", "YARA", "Docker", "JDK 21+", "FastAPI", "Jinja2", "SQLite"]
+title: sjkim1127/Reversecore_MCP
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- FastMCP
+- Ghidra
+- Radare2
+- Capstone
+- LIEF
+- YARA
+- Docker
+- JDK 21+
+- FastAPI
+- Jinja2
+- SQLite
 quality_score: 9
 rag_relevance: 8
-tags: ["reverse engineering", "binary analysis", "MCP server", "malware analysis", "static analysis"]
-source: "https://github.com/sjkim1127/Reversecore_MCP"
-discovered_at: "2026-06-25T05:07:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- reverse engineering
+- binary analysis
+- MCP server
+- malware analysis
+- static analysis
+source: https://github.com/sjkim1127/Reversecore_MCP
+discovered_at: '2026-06-25T05:07:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

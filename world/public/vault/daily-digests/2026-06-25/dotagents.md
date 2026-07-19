@@ -1,13 +1,22 @@
 ---
-title: "zoozo790/dotagents"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "Node.js", "Desktop Application"]
+title: zoozo790/dotagents
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Electron
+- Node.js
+- Desktop Application
 quality_score: 5
 rag_relevance: 4
-tags: ["AI tool management", "workflow automation", "desktop app", "hooks", "commands"]
-source: "https://github.com/zoozo790/dotagents"
-discovered_at: "2026-06-25T00:06:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI tool management
+- workflow automation
+- desktop app
+- hooks
+- commands
+source: https://github.com/zoozo790/dotagents
+discovered_at: '2026-06-25T00:06:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

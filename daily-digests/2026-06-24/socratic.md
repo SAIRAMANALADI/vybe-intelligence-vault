@@ -1,13 +1,23 @@
 ---
-title: "abenchannel/Socratic"
-category: "Tooling"
-tech_stack: ["GitHub Learning Lab", "HTML", "JavaScript", "GitHub API", "Markdown"]
+title: abenchannel/Socratic
+category: daily-digests/2026-06-24
+tech_stack:
+- GitHub Learning Lab
+- HTML
+- JavaScript
+- GitHub API
+- Markdown
 quality_score: 5
 rag_relevance: 7
-tags: ["knowledge synthesis", "LLM agents", "structured data", "GitHub automation", "learning lab"]
-source: "https://github.com/abenchannel/Socratic"
-discovered_at: "2026-06-24T13:22:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- knowledge synthesis
+- LLM agents
+- structured data
+- GitHub automation
+- learning lab
+source: https://github.com/abenchannel/Socratic
+discovered_at: '2026-06-24T13:22:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

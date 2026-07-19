@@ -1,13 +1,23 @@
 ---
-title: "allie-offsite/wristwise-mcp"
-category: "Tooling"
-tech_stack: ["Model Context Protocol (MCP)", "OAuth 2.1 with PKCE", "HTTP/Streamable API", "Android Health Connect", "Dynamic Client Registration"]
+title: allie-offsite/wristwise-mcp
+category: daily-digests/2026-07-14
+tech_stack:
+- Model Context Protocol (MCP)
+- OAuth 2.1 with PKCE
+- HTTP/Streamable API
+- Android Health Connect
+- Dynamic Client Registration
 quality_score: 7
 rag_relevance: 8
-tags: ["health data", "smartwatch integration", "privacy-focused", "MCP server", "AI assistant"]
-source: "https://github.com/allie-offsite/wristwise-mcp"
-discovered_at: "2026-07-10T10:52:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- health data
+- smartwatch integration
+- privacy-focused
+- MCP server
+- AI assistant
+source: https://github.com/allie-offsite/wristwise-mcp
+discovered_at: '2026-07-10T10:52:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

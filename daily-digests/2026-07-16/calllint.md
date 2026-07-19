@@ -1,13 +1,24 @@
 ---
-title: "calllint/calllint"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Static Analysis", "CLI", "JSON Schema"]
+title: calllint/calllint
+category: daily-digests/2026-07-16
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Static Analysis
+- CLI
+- JSON Schema
 quality_score: 9
 rag_relevance: 9
-tags: ["security", "linting", "agent-tools", "pre-flight-checks", "risk-assessment"]
-source: "https://github.com/calllint/calllint"
-discovered_at: "2026-07-15T10:48:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- security
+- linting
+- agent-tools
+- pre-flight-checks
+- risk-assessment
+source: https://github.com/calllint/calllint
+discovered_at: '2026-07-15T10:48:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

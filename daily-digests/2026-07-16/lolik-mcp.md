@@ -1,13 +1,23 @@
 ---
-title: "lolikai/lolik-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "REST API", "npm"]
+title: lolikai/lolik-mcp
+category: daily-digests/2026-07-16
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- REST API
+- npm
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP server", "trend intelligence", "virality scoring", "content monetization", "API integration"]
-source: "https://github.com/lolikai/lolik-mcp"
-discovered_at: "2026-07-14T22:56:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- trend intelligence
+- virality scoring
+- content monetization
+- API integration
+source: https://github.com/lolikai/lolik-mcp
+discovered_at: '2026-07-14T22:56:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

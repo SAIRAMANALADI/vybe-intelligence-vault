@@ -1,13 +1,22 @@
 ---
-title: "shaylaisotonic44/pcloud-mcp"
-category: "Tooling"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "OAuth", "Windows"]
+title: shaylaisotonic44/pcloud-mcp
+category: daily-digests/2026-06-24
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- OAuth
+- Windows
 quality_score: 7
 rag_relevance: 6
-tags: ["cloud integration", "file access control", "AI tooling", "secure storage", "MCP server"]
-source: "https://github.com/shaylaisotonic44/pcloud-mcp"
-discovered_at: "2026-06-24T22:15:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- cloud integration
+- file access control
+- AI tooling
+- secure storage
+- MCP server
+source: https://github.com/shaylaisotonic44/pcloud-mcp
+discovered_at: '2026-06-24T22:15:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

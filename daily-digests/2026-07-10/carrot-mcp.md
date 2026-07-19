@@ -1,13 +1,30 @@
 ---
-title: "CRThu/carrot-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FastAPI", "uv", "Pydantic", "PySerial", "python-docx", "openpyxl", "Pillow", "pynfc", "Pillow", "OCR libraries"]
+title: CRThu/carrot-mcp
+category: daily-digests/2026-07-10
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FastAPI
+- uv
+- Pydantic
+- PySerial
+- python-docx
+- openpyxl
+- Pillow
+- pynfc
+- Pillow
+- OCR libraries
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "hardware integration", "document processing", "AI tooling", "multimodal"]
-source: "https://github.com/CRThu/carrot-mcp"
-discovered_at: "2026-07-10T06:53:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- hardware integration
+- document processing
+- AI tooling
+- multimodal
+source: https://github.com/CRThu/carrot-mcp
+discovered_at: '2026-07-10T06:53:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

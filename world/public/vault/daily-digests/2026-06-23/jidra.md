@@ -1,13 +1,30 @@
 ---
-title: "akhilsinghcodes/jidra"
-category: "Tooling"
-tech_stack: ["Python", "Scala", "Java", "TypeScript", "Docker", "MCP (Model Context Protocol)", "AST (Abstract Syntax Tree)", "SemanticDB", "Tree-sitter", "Pyright", "Spring Boot Actuator", "Protobuf"]
+title: akhilsinghcodes/jidra
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Scala
+- Java
+- TypeScript
+- Docker
+- MCP (Model Context Protocol)
+- AST (Abstract Syntax Tree)
+- SemanticDB
+- Tree-sitter
+- Pyright
+- Spring Boot Actuator
+- Protobuf
 quality_score: 9
 rag_relevance: 10
-tags: ["code analysis", "call graph", "LLM context optimization", "multi-language support", "token reduction"]
-source: "https://github.com/akhilsinghcodes/jidra"
-discovered_at: "2026-06-23T09:01:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code analysis
+- call graph
+- LLM context optimization
+- multi-language support
+- token reduction
+source: https://github.com/akhilsinghcodes/jidra
+discovered_at: '2026-06-23T09:01:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

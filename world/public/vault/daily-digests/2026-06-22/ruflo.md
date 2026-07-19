@@ -1,13 +1,29 @@
 ---
-title: "ruvnet/ruflo"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Rust", "MCP (Model Context Protocol)", "Vector Databases", "Graph RAG", "WASM", "React", "Svelte", "GraphQL", "Ollama"]
+title: ruvnet/ruflo
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Node.js
+- Rust
+- MCP (Model Context Protocol)
+- Vector Databases
+- Graph RAG
+- WASM
+- React
+- Svelte
+- GraphQL
+- Ollama
 quality_score: 9
 rag_relevance: 10
-tags: ["multi-agent systems", "agent orchestration", "RAG integration", "self-learning swarms", "Claude Code integration"]
-source: "https://github.com/ruvnet/ruflo"
-discovered_at: "2026-06-22T18:13:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- agent orchestration
+- RAG integration
+- self-learning swarms
+- Claude Code integration
+source: https://github.com/ruvnet/ruflo
+discovered_at: '2026-06-22T18:13:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

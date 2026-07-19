@@ -1,13 +1,23 @@
 ---
-title: "Ismail-Rhoulam/ctxguard"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code", "TOML", "Regular Expressions", "Heuristic Detection"]
+title: Ismail-Rhoulam/ctxguard
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- Python
+- Claude Code
+- TOML
+- Regular Expressions
+- Heuristic Detection
 quality_score: 8
 rag_relevance: 7
-tags: ["secrets detection", "AI agent security", "pre-execution blocking", "local tooling", "context window protection"]
-source: "https://github.com/Ismail-Rhoulam/ctxguard"
-discovered_at: "2026-07-12T17:03:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- secrets detection
+- AI agent security
+- pre-execution blocking
+- local tooling
+- context window protection
+source: https://github.com/Ismail-Rhoulam/ctxguard
+discovered_at: '2026-07-12T17:03:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

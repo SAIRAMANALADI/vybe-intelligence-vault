@@ -1,13 +1,22 @@
 ---
-title: "zhuwujing28-del/codex-skills-cn"
-category: "Tooling"
-tech_stack: ["Python", "Markdown", "OpenAI Codex", "GitHub Actions"]
+title: zhuwujing28-del/codex-skills-cn
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Markdown
+- OpenAI Codex
+- GitHub Actions
 quality_score: 8
 rag_relevance: 7
-tags: ["Codex skills", "\u4e2d\u6587\u9002\u914d", "\u5f00\u6e90\u7ef4\u62a4", "\u5de5\u4f5c\u6d41\u81ea\u52a8\u5316", "AI\u8f85\u52a9\u7f16\u7a0b"]
-source: "https://github.com/zhuwujing28-del/codex-skills-cn"
-discovered_at: "2026-06-24T18:50:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Codex skills
+- 中文适配
+- 开源维护
+- 工作流自动化
+- AI辅助编程
+source: https://github.com/zhuwujing28-del/codex-skills-cn
+discovered_at: '2026-06-24T18:50:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

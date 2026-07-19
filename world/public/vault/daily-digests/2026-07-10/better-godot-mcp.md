@@ -1,13 +1,23 @@
 ---
-title: "n24q02m/better-godot-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Godot Engine", "MCP (Model Context Protocol)", "Docker"]
+title: n24q02m/better-godot-mcp
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Node.js
+- Godot Engine
+- MCP (Model Context Protocol)
+- Docker
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "Godot Engine", "AI-assisted game development", "Composite tools", "Scene manipulation"]
-source: "https://github.com/n24q02m/better-godot-mcp"
-discovered_at: "2026-07-10T02:27:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Godot Engine
+- AI-assisted game development
+- Composite tools
+- Scene manipulation
+source: https://github.com/n24q02m/better-godot-mcp
+discovered_at: '2026-07-10T02:27:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

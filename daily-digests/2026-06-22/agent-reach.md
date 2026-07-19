@@ -1,13 +1,31 @@
 ---
-title: "Panniantong/Agent-Reach"
-category: "Tooling"
-tech_stack: ["Python", "CLI Tools", "MCP (Model Context Protocol)", "Shell Scripting", "GitHub CLI", "yt-dlp", "Exa (Semantic Search)", "OpenCLI", "Twitter CLI", "Bili CLI", "Feedparser", "Node.js", "Whisper (Audio Transcription)"]
+title: Panniantong/Agent-Reach
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- CLI Tools
+- MCP (Model Context Protocol)
+- Shell Scripting
+- GitHub CLI
+- yt-dlp
+- Exa (Semantic Search)
+- OpenCLI
+- Twitter CLI
+- Bili CLI
+- Feedparser
+- Node.js
+- Whisper (Audio Transcription)
 quality_score: 9
 rag_relevance: 9
-tags: ["AI Agent Integration", "Web Access", "Multi-Platform Support", "Automated Setup", "Open Source"]
-source: "https://github.com/Panniantong/Agent-Reach"
-discovered_at: "2026-06-22T15:48:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent Integration
+- Web Access
+- Multi-Platform Support
+- Automated Setup
+- Open Source
+source: https://github.com/Panniantong/Agent-Reach
+discovered_at: '2026-06-22T15:48:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

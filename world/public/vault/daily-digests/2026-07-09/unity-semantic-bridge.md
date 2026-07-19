@@ -1,13 +1,24 @@
 ---
-title: "Programalyst/unity-semantic-bridge"
-category: "Agent Framework"
-tech_stack: ["C#", "Python", "MCP (Model Context Protocol)", "Unity", "Gemini", "uv (Python package manager)"]
+title: Programalyst/unity-semantic-bridge
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- C#
+- Python
+- MCP (Model Context Protocol)
+- Unity
+- Gemini
+- uv (Python package manager)
 quality_score: 7
 rag_relevance: 8
-tags: ["Unity integration", "AI agent", "MCP server", "gameplay automation", "scene understanding"]
-source: "https://github.com/Programalyst/unity-semantic-bridge"
-discovered_at: "2026-07-09T14:45:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Unity integration
+- AI agent
+- MCP server
+- gameplay automation
+- scene understanding
+source: https://github.com/Programalyst/unity-semantic-bridge
+discovered_at: '2026-07-09T14:45:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

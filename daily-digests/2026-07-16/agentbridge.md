@@ -1,13 +1,23 @@
 ---
-title: "tianzizhiming-svg/agentbridge"
-category: "Tooling"
-tech_stack: ["Python", "Playwright", "x402 Protocol", "USDC (Base Network)", "FastAPI (implied by API structure)"]
+title: tianzizhiming-svg/agentbridge
+category: daily-digests/2026-07-16
+tech_stack:
+- Python
+- Playwright
+- x402 Protocol
+- USDC (Base Network)
+- FastAPI (implied by API structure)
 quality_score: 8
 rag_relevance: 9
-tags: ["pay-per-fetch", "Chinese web scraping", "x402 protocol", "markdown conversion", "Base network"]
-source: "https://github.com/tianzizhiming-svg/agentbridge"
-discovered_at: "2026-07-15T23:02:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- pay-per-fetch
+- Chinese web scraping
+- x402 protocol
+- markdown conversion
+- Base network
+source: https://github.com/tianzizhiming-svg/agentbridge
+discovered_at: '2026-07-15T23:02:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

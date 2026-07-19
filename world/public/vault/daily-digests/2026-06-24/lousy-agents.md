@@ -1,13 +1,28 @@
 ---
-title: "zpratt/lousy-agents"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "npm", "Vitest", "Biome", "GitHub Actions", "Model Context Protocol (MCP)", "Docker", "YAML", "Markdown"]
+title: zpratt/lousy-agents
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- npm
+- Vitest
+- Biome
+- GitHub Actions
+- Model Context Protocol (MCP)
+- Docker
+- YAML
+- Markdown
 quality_score: 9
 rag_relevance: 8
-tags: ["AI scaffolding", "agentic development", "spec-driven development", "MCP integration", "npm script telemetry"]
-source: "https://github.com/zpratt/lousy-agents"
-discovered_at: "2026-06-24T18:54:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI scaffolding
+- agentic development
+- spec-driven development
+- MCP integration
+- npm script telemetry
+source: https://github.com/zpratt/lousy-agents
+discovered_at: '2026-06-24T18:54:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

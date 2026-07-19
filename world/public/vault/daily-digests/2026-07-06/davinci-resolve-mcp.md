@@ -1,13 +1,26 @@
 ---
-title: "samuelgursky/davinci-resolve-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Node.js", "MCP (Model Context Protocol)", "DaVinci Resolve Scripting API", "SQLite", "FFmpeg", "TypeScript", "JavaScript"]
+title: samuelgursky/davinci-resolve-mcp
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Python
+- Node.js
+- MCP (Model Context Protocol)
+- DaVinci Resolve Scripting API
+- SQLite
+- FFmpeg
+- TypeScript
+- JavaScript
 quality_score: 9
 rag_relevance: 7
-tags: ["video editing", "MCP server", "DaVinci Resolve", "AI integration", "post-production"]
-source: "https://github.com/samuelgursky/davinci-resolve-mcp"
-discovered_at: "2026-07-06T23:04:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- video editing
+- MCP server
+- DaVinci Resolve
+- AI integration
+- post-production
+source: https://github.com/samuelgursky/davinci-resolve-mcp
+discovered_at: '2026-07-06T23:04:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "tianshu-ai/tianshu"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "React", "Vite", "Playwright", "noVNC", "microsandbox", "REST/WebSocket APIs", "Docker", "launchd/systemd"]
+title: tianshu-ai/tianshu
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- Vite
+- Playwright
+- noVNC
+- microsandbox
+- REST/WebSocket APIs
+- Docker
+- launchd/systemd
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent platform", "multi-tenant", "browser automation", "sandbox isolation", "orchestration"]
-source: "https://github.com/tianshu-ai/tianshu"
-discovered_at: "2026-06-23T16:29:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent platform
+- multi-tenant
+- browser automation
+- sandbox isolation
+- orchestration
+source: https://github.com/tianshu-ai/tianshu
+discovered_at: '2026-06-23T16:29:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

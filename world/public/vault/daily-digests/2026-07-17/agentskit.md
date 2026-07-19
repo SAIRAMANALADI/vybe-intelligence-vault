@@ -1,13 +1,30 @@
 ---
-title: "AgentsKit-io/agentskit"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "JavaScript", "React", "Vue", "Svelte", "Solid", "Angular", "Ink", "Node.js", "MCP", "JSON-Schema", "OpenTelemetry"]
+title: AgentsKit-io/agentskit
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- JavaScript
+- React
+- Vue
+- Svelte
+- Solid
+- Angular
+- Ink
+- Node.js
+- MCP
+- JSON-Schema
+- OpenTelemetry
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agents", "modular toolkit", "JavaScript", "composable runtime", "multi-provider support"]
-source: "https://github.com/AgentsKit-io/agentskit"
-discovered_at: "2026-07-11T02:27:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- modular toolkit
+- JavaScript
+- composable runtime
+- multi-provider support
+source: https://github.com/AgentsKit-io/agentskit
+discovered_at: '2026-07-11T02:27:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

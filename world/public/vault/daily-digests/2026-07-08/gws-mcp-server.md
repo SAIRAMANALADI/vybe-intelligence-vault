@@ -1,13 +1,23 @@
 ---
-title: "conorbronsdon/gws-mcp-server"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Google Workspace CLI (gws)", "Vitest"]
+title: conorbronsdon/gws-mcp-server
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Google Workspace CLI (gws)
+- Vitest
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Google Workspace", "AI agents", "curated tools", "context window optimization"]
-source: "https://github.com/conorbronsdon/gws-mcp-server"
-discovered_at: "2026-07-08T08:18:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Google Workspace
+- AI agents
+- curated tools
+- context window optimization
+source: https://github.com/conorbronsdon/gws-mcp-server
+discovered_at: '2026-07-08T08:18:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

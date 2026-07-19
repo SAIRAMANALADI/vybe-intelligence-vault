@@ -1,13 +1,25 @@
 ---
-title: "jenni2910/serena-superpowers-kit"
-category: "SaaS Template"
-tech_stack: ["Serena Engine", "Superpowers Integration", "OpenAI API", "Claude API", "YAML/JSON Configuration", "Mermaid Diagrams", "Bash/Terminal Scripting"]
+title: jenni2910/serena-superpowers-kit
+category: daily-digests/2026-07-07
+tech_stack:
+- Serena Engine
+- Superpowers Integration
+- OpenAI API
+- Claude API
+- YAML/JSON Configuration
+- Mermaid Diagrams
+- Bash/Terminal Scripting
 quality_score: 7
 rag_relevance: 6
-tags: ["bootstrapping", "development acceleration", "pre-configured environments", "AI tooling", "zero-script"]
-source: "https://github.com/jenni2910/serena-superpowers-kit"
-discovered_at: "2026-07-07T22:09:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- bootstrapping
+- development acceleration
+- pre-configured environments
+- AI tooling
+- zero-script
+source: https://github.com/jenni2910/serena-superpowers-kit
+discovered_at: '2026-07-07T22:09:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

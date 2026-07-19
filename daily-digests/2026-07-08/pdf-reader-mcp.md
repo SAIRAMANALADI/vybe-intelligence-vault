@@ -1,13 +1,25 @@
 ---
-title: "SylphxAI/pdf-reader-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "OCR (Tesseract, etc.)", "Docker", "CI/CD (GitHub Actions)", "Benchmarking"]
+title: SylphxAI/pdf-reader-mcp
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- OCR (Tesseract, etc.)
+- Docker
+- CI/CD (GitHub Actions)
+- Benchmarking
 quality_score: 10
 rag_relevance: 9
-tags: ["PDF extraction", "evidence-based RAG", "agent document twin", "OCR integration", "trust reporting"]
-source: "https://github.com/SylphxAI/pdf-reader-mcp"
-discovered_at: "2026-07-08T21:01:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- PDF extraction
+- evidence-based RAG
+- agent document twin
+- OCR integration
+- trust reporting
+source: https://github.com/SylphxAI/pdf-reader-mcp
+discovered_at: '2026-07-08T21:01:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

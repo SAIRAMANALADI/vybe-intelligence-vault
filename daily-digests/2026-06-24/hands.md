@@ -1,13 +1,27 @@
 ---
-title: "askalf/hands"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "PowerShell", "AppleScript", "xdotool", "ydotool", "whisper.cpp", "Anthropic API", "Claude CLI"]
+title: askalf/hands
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- PowerShell
+- AppleScript
+- xdotool
+- ydotool
+- whisper.cpp
+- Anthropic API
+- Claude CLI
 quality_score: 9
 rag_relevance: 10
-tags: ["computer-use agent", "local LLM control", "cross-platform automation", "privacy-first", "shell integration"]
-source: "https://github.com/askalf/hands"
-discovered_at: "2026-06-24T18:51:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- computer-use agent
+- local LLM control
+- cross-platform automation
+- privacy-first
+- shell integration
+source: https://github.com/askalf/hands
+discovered_at: '2026-06-24T18:51:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

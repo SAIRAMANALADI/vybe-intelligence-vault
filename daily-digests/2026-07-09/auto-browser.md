@@ -1,13 +1,31 @@
 ---
-title: "LvcidPsyche/auto-browser"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Playwright", "Docker", "MCP (Model Context Protocol)", "noVNC", "Xvfb", "Redis", "LangChain", "LangGraph", "CrewAI", "PyPI", "CI/CD (GitHub Actions)"]
+title: LvcidPsyche/auto-browser
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- FastAPI
+- Playwright
+- Docker
+- MCP (Model Context Protocol)
+- noVNC
+- Xvfb
+- Redis
+- LangChain
+- LangGraph
+- CrewAI
+- PyPI
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP server", "browser automation", "human-in-the-loop", "auth profiles", "audit trails"]
-source: "https://github.com/LvcidPsyche/auto-browser"
-discovered_at: "2026-07-09T17:17:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- browser automation
+- human-in-the-loop
+- auth profiles
+- audit trails
+source: https://github.com/LvcidPsyche/auto-browser
+discovered_at: '2026-07-09T17:17:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

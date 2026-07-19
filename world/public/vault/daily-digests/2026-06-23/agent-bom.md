@@ -1,13 +1,27 @@
 ---
-title: "msaad00/agent-bom"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Docker", "PostgreSQL", "React", "TypeScript", "OSV/GHSA", "AWS/Azure/GCP", "Terraform/CloudFormation/Helm"]
+title: msaad00/agent-bom
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Docker
+- PostgreSQL
+- React
+- TypeScript
+- OSV/GHSA
+- AWS/Azure/GCP
+- Terraform/CloudFormation/Helm
 quality_score: 9
 rag_relevance: 7
-tags: ["AI security", "MCP infrastructure", "supply chain security", "attack path analysis", "compliance evidence"]
-source: "https://github.com/msaad00/agent-bom"
-discovered_at: "2026-06-23T19:15:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI security
+- MCP infrastructure
+- supply chain security
+- attack path analysis
+- compliance evidence
+source: https://github.com/msaad00/agent-bom
+discovered_at: '2026-06-23T19:15:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

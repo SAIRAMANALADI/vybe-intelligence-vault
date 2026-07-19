@@ -1,13 +1,28 @@
 ---
-title: "manwithacat/dazzle"
-category: "SaaS Template"
-tech_stack: ["Python", "PostgreSQL", "DSL (Domain-Specific Language)", "HTMX", "MCP (Model Context Protocol)", "SMT Solver (for RBAC proofs)", "Ruff", "mypy", "GitHub Actions", "Homebrew"]
+title: manwithacat/dazzle
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Python
+- PostgreSQL
+- DSL (Domain-Specific Language)
+- HTMX
+- MCP (Model Context Protocol)
+- SMT Solver (for RBAC proofs)
+- Ruff
+- mypy
+- GitHub Actions
+- Homebrew
 quality_score: 9
 rag_relevance: 10
-tags: ["declarative", "compliance", "AI-collaborative", "RBAC", "DSL"]
-source: "https://github.com/manwithacat/dazzle"
-discovered_at: "2026-07-06T23:02:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- declarative
+- compliance
+- AI-collaborative
+- RBAC
+- DSL
+source: https://github.com/manwithacat/dazzle
+discovered_at: '2026-07-06T23:02:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

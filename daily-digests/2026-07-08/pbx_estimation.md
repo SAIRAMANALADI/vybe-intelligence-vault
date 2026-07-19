@@ -1,13 +1,32 @@
 ---
-title: "dennislee928/pbx_estimation"
-category: "Tooling"
-tech_stack: ["Python", "Pandas", "NumPy", "SciPy", "scikit-learn", "Matplotlib", "Seaborn", "lifelines", "wbgapi", "Jupyter Notebook", "GitHub Actions", "Cloudflare Workers", "Hugging Face Spaces", "Docker"]
+title: dennislee928/pbx_estimation
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- Pandas
+- NumPy
+- SciPy
+- scikit-learn
+- Matplotlib
+- Seaborn
+- lifelines
+- wbgapi
+- Jupyter Notebook
+- GitHub Actions
+- Cloudflare Workers
+- Hugging Face Spaces
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["market forecasting", "time-series analysis", "survival analysis", "VoIP adoption", "telecom trends"]
-source: "https://github.com/dennislee928/pbx_estimation"
-discovered_at: "2026-07-08T17:26:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- market forecasting
+- time-series analysis
+- survival analysis
+- VoIP adoption
+- telecom trends
+source: https://github.com/dennislee928/pbx_estimation
+discovered_at: '2026-07-08T17:26:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

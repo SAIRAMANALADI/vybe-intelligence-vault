@@ -1,13 +1,27 @@
 ---
-title: "xevrion-v2/agent-playground"
-category: "SaaS Template"
-tech_stack: ["TypeScript", "Next.js", "Express.js", "Prisma", "React", "Zod", "Stripe", "JWT", "OAuth"]
+title: xevrion-v2/agent-playground
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Next.js
+- Express.js
+- Prisma
+- React
+- Zod
+- Stripe
+- JWT
+- OAuth
 quality_score: 8
 rag_relevance: 5
-tags: ["task management", "SaaS boilerplate", "full-stack", "TypeScript monorepo", "Next.js"]
-source: "https://github.com/xevrion-v2/agent-playground"
-discovered_at: "2026-06-22T23:24:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- task management
+- SaaS boilerplate
+- full-stack
+- TypeScript monorepo
+- Next.js
+source: https://github.com/xevrion-v2/agent-playground
+discovered_at: '2026-06-22T23:24:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

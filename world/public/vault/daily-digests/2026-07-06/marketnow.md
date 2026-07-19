@@ -1,13 +1,28 @@
 ---
-title: "edgarfloresguerra2011-a11y/marketnow"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Docker", "Semgrep", "SHA-256", "Stripe API", "USDC (Base)", "GitHub Actions", "Vercel", "MCP (Model Context Protocol)"]
+title: edgarfloresguerra2011-a11y/marketnow
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- JavaScript
+- Node.js
+- Docker
+- Semgrep
+- SHA-256
+- Stripe API
+- USDC (Base)
+- GitHub Actions
+- Vercel
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP marketplace", "security certification", "agent commerce", "trust layer", "Sentinel audits"]
-source: "https://github.com/edgarfloresguerra2011-a11y/marketnow"
-discovered_at: "2026-07-06T23:03:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP marketplace
+- security certification
+- agent commerce
+- trust layer
+- Sentinel audits
+source: https://github.com/edgarfloresguerra2011-a11y/marketnow
+discovered_at: '2026-07-06T23:03:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

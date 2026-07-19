@@ -1,13 +1,26 @@
 ---
-title: "Heretyc/subagent-mcp"
-category: "Orchestrator"
-tech_stack: ["Node.js", "TypeScript", "MCP (Model Context Protocol)", "Claude CLI", "Codex CLI", "OpenAPI-compatible APIs", "JSONC", "npm"]
+title: Heretyc/subagent-mcp
+category: daily-digests/2026-07-18
+tech_stack:
+- Node.js
+- TypeScript
+- MCP (Model Context Protocol)
+- Claude CLI
+- Codex CLI
+- OpenAPI-compatible APIs
+- JSONC
+- npm
 quality_score: 9
 rag_relevance: 8
-tags: ["agent orchestration", "multi-provider routing", "MCP server", "sub-agent delegation", "AI workflow automation"]
-source: "https://github.com/Heretyc/subagent-mcp"
-discovered_at: "2026-07-17T20:05:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent orchestration
+- multi-provider routing
+- MCP server
+- sub-agent delegation
+- AI workflow automation
+source: https://github.com/Heretyc/subagent-mcp
+discovered_at: '2026-07-17T20:05:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

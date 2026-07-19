@@ -1,13 +1,24 @@
 ---
-title: "Lilsmur/wamcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "BullMQ", "Docker", "WhatsApp Web (Baileys)", "WhatsApp Cloud API"]
+title: Lilsmur/wamcp
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- BullMQ
+- Docker
+- WhatsApp Web (Baileys)
+- WhatsApp Cloud API
 quality_score: 7
 rag_relevance: 6
-tags: ["WhatsApp integration", "AI agent automation", "MCP server", "Docker deployment", "real-time messaging"]
-source: "https://github.com/Lilsmur/wamcp"
-discovered_at: "2026-06-23T23:09:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- WhatsApp integration
+- AI agent automation
+- MCP server
+- Docker deployment
+- real-time messaging
+source: https://github.com/Lilsmur/wamcp
+discovered_at: '2026-06-23T23:09:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

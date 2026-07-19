@@ -1,13 +1,25 @@
 ---
-title: "rfxn/rdf"
-category: "Orchestrator"
-tech_stack: ["Shell", "Bash", "Markdown", "YAML", "TOML", "Git", "GitHub Actions"]
+title: rfxn/rdf
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- Shell
+- Bash
+- Markdown
+- YAML
+- TOML
+- Git
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-tags: ["AI governance", "code quality", "agent orchestration", "convention enforcement", "RAG pipeline"]
-source: "https://github.com/rfxn/rdf"
-discovered_at: "2026-07-13T20:14:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI governance
+- code quality
+- agent orchestration
+- convention enforcement
+- RAG pipeline
+source: https://github.com/rfxn/rdf
+discovered_at: '2026-07-13T20:14:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "shoaibraza123/promptbook-mcp"
-category: "Tooling"
-tech_stack: ["Python", "HTML", "RAG (Retrieval-Augmented Generation)", "Semantic Search"]
+title: shoaibraza123/promptbook-mcp
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- HTML
+- RAG (Retrieval-Augmented Generation)
+- Semantic Search
 quality_score: 5
 rag_relevance: 8
-tags: ["prompt management", "RAG", "semantic search", "developer tools", "AI workflow"]
-source: "https://github.com/shoaibraza123/promptbook-mcp"
-discovered_at: "2026-06-24T18:56:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- prompt management
+- RAG
+- semantic search
+- developer tools
+- AI workflow
+source: https://github.com/shoaibraza123/promptbook-mcp
+discovered_at: '2026-06-24T18:56:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

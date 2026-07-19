@@ -1,13 +1,28 @@
 ---
-title: "launchapp-dev/animus-cli"
-category: "Orchestrator"
-tech_stack: ["Rust", "YAML", "MCP (Model Context Protocol)", "Unix sockets", "Git", "Claude Code", "Codex", "Gemini", "OpenCode", "Ollama"]
+title: launchapp-dev/animus-cli
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Rust
+- YAML
+- MCP (Model Context Protocol)
+- Unix sockets
+- Git
+- Claude Code
+- Codex
+- Gemini
+- OpenCode
+- Ollama
 quality_score: 9
 rag_relevance: 9
-tags: ["autonomous agents", "multi-agent orchestration", "YAML workflows", "AI-driven development", "portfolio management"]
-source: "https://github.com/launchapp-dev/animus-cli"
-discovered_at: "2026-06-24T18:51:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- multi-agent orchestration
+- YAML workflows
+- AI-driven development
+- portfolio management
+source: https://github.com/launchapp-dev/animus-cli
+discovered_at: '2026-06-24T18:51:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

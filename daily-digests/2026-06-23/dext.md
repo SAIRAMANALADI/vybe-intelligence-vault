@@ -1,13 +1,27 @@
 ---
-title: "cesarliws/dext"
-category: "Tooling"
-tech_stack: ["Delphi", "Object Pascal", "ORM", "Dependency Injection", "Web Pipeline", "Concurrency", "MCP (Model Context Protocol)", "JSON/YAML Configuration", "VCL Compatibility"]
+title: cesarliws/dext
+category: daily-digests/2026-06-23
+tech_stack:
+- Delphi
+- Object Pascal
+- ORM
+- Dependency Injection
+- Web Pipeline
+- Concurrency
+- MCP (Model Context Protocol)
+- JSON/YAML Configuration
+- VCL Compatibility
 quality_score: 8
 rag_relevance: 4
-tags: ["Delphi", "Full-Stack", "ORM", "Native Compilation", "Enterprise Development"]
-source: "https://github.com/cesarliws/dext"
-discovered_at: "2026-06-23T21:34:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Delphi
+- Full-Stack
+- ORM
+- Native Compilation
+- Enterprise Development
+source: https://github.com/cesarliws/dext
+discovered_at: '2026-06-23T21:34:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

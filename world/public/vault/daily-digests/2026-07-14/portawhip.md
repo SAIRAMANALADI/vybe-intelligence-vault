@@ -1,13 +1,25 @@
 ---
-title: "VVeb1250/portawhip"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "TypeScript", "MCP (Model Context Protocol)", "CLI/TUI", "Embedding models", "npm"]
+title: VVeb1250/portawhip
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- JavaScript
+- Node.js
+- TypeScript
+- MCP (Model Context Protocol)
+- CLI/TUI
+- Embedding models
+- npm
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent orchestration", "MCP server management", "capability routing", "multi-agent synchronization", "local-first control plane"]
-source: "https://github.com/VVeb1250/portawhip"
-discovered_at: "2026-07-14T14:48:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent orchestration
+- MCP server management
+- capability routing
+- multi-agent synchronization
+- local-first control plane
+source: https://github.com/VVeb1250/portawhip
+discovered_at: '2026-07-14T14:48:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "PrathamITHub/dsers-mcp-product-py"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Shopify API", "DSers API", "pip", "Windows CLI"]
+title: PrathamITHub/dsers-mcp-product-py
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Shopify API
+- DSers API
+- pip
+- Windows CLI
 quality_score: 6
 rag_relevance: 7
-tags: ["MCP server", "DSers integration", "dropshipping automation", "AI agent tool", "product import"]
-source: "https://github.com/PrathamITHub/dsers-mcp-product-py"
-discovered_at: "2026-07-07T23:55:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- DSers integration
+- dropshipping automation
+- AI agent tool
+- product import
+source: https://github.com/PrathamITHub/dsers-mcp-product-py
+discovered_at: '2026-07-07T23:55:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

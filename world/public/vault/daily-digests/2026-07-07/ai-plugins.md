@@ -1,13 +1,30 @@
 ---
-title: "virajp/ai-plugins"
-category: "Orchestrator"
-tech_stack: ["Claude Code", "JavaScript", "TypeScript", "pnpm", "mise", "rtk", "graphify", "mempalace", "OpenAPI", "JSON-Schema", "TDD", "CI/CD"]
+title: virajp/ai-plugins
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Claude Code
+- JavaScript
+- TypeScript
+- pnpm
+- mise
+- rtk
+- graphify
+- mempalace
+- OpenAPI
+- JSON-Schema
+- TDD
+- CI/CD
 quality_score: 8
 rag_relevance: 7
-tags: ["workflow automation", "product development", "Claude Code plugin", "TDD enforcement", "code review"]
-source: "https://github.com/virajp/ai-plugins"
-discovered_at: "2026-07-07T16:25:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- workflow automation
+- product development
+- Claude Code plugin
+- TDD enforcement
+- code review
+source: https://github.com/virajp/ai-plugins
+discovered_at: '2026-07-07T16:25:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

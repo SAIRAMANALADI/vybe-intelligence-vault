@@ -1,13 +1,34 @@
 ---
-title: "alwalid-khllo/syriana-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "SQLite (FTS5 for memory)", "Electron (Desktop App)", "Docker", "Telegram API", "Discord API", "Slack API", "OpenAI API", "Anthropic API", "Google Gemini API", "Ollama", "LM Studio", "vLLM", "Node.js (optional for browser automation)", "FFmpeg (optional for media skills)"]
+title: alwalid-khllo/syriana-agent
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- FastAPI
+- SQLite (FTS5 for memory)
+- Electron (Desktop App)
+- Docker
+- Telegram API
+- Discord API
+- Slack API
+- OpenAI API
+- Anthropic API
+- Google Gemini API
+- Ollama
+- LM Studio
+- vLLM
+- Node.js (optional for browser automation)
+- FFmpeg (optional for media skills)
 quality_score: 9
 rag_relevance: 10
-tags: ["self-improving agent", "multi-provider", "persistent memory", "cross-platform", "skill automation"]
-source: "https://github.com/alwalid-khllo/syriana-agent"
-discovered_at: "2026-07-09T04:46:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-improving agent
+- multi-provider
+- persistent memory
+- cross-platform
+- skill automation
+source: https://github.com/alwalid-khllo/syriana-agent
+discovered_at: '2026-07-09T04:46:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "yasyf/yclaw"
-category: "Orchestrator"
-tech_stack: ["Nix", "Docker", "Tailscale", "Qwen MLX", "Nous Hermes Agent", "macOS", "Linux VM", "OAuth Proxy", "Agent Vault"]
+title: yasyf/yclaw
+category: daily-digests/2026-06-23
+tech_stack:
+- Nix
+- Docker
+- Tailscale
+- Qwen MLX
+- Nous Hermes Agent
+- macOS
+- Linux VM
+- OAuth Proxy
+- Agent Vault
 quality_score: 9
 rag_relevance: 8
-tags: ["credential isolation", "home server", "Apple Silicon", "agent orchestration", "reproducible deployment"]
-source: "https://github.com/yasyf/yclaw"
-discovered_at: "2026-06-23T08:57:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- credential isolation
+- home server
+- Apple Silicon
+- agent orchestration
+- reproducible deployment
+source: https://github.com/yasyf/yclaw
+discovered_at: '2026-06-23T08:57:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "joeyshi12/casper"
-category: "UI Component"
-tech_stack: ["TypeScript", "React", "Vite", "Fastify", "WebSocket", "Node.js", "PWA"]
+title: joeyshi12/casper
+category: daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- React
+- Vite
+- Fastify
+- WebSocket
+- Node.js
+- PWA
 quality_score: 8
 rag_relevance: 7
-tags: ["agent client", "persistent sessions", "real-time replay", "PWA", "observability"]
-source: "https://github.com/joeyshi12/casper"
-discovered_at: "2026-07-09T08:24:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent client
+- persistent sessions
+- real-time replay
+- PWA
+- observability
+source: https://github.com/joeyshi12/casper
+discovered_at: '2026-07-09T08:24:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

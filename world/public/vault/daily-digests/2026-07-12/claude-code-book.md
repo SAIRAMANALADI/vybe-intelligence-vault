@@ -1,13 +1,23 @@
 ---
-title: "ptolemaic-programmemusic151/claude-code-book"
-category: "Tooling"
-tech_stack: ["Python", "Windows Desktop App", "Markdown", "JSON", "Tkinter (assumed GUI framework)"]
+title: ptolemaic-programmemusic151/claude-code-book
+category: world/public/vault/daily-digests/2026-07-12
+tech_stack:
+- Python
+- Windows Desktop App
+- Markdown
+- JSON
+- Tkinter (assumed GUI framework)
 quality_score: 6
 rag_relevance: 7
-tags: ["Claude Code", "context management", "local processing", "Windows tool", "documentation"]
-source: "https://github.com/ptolemaic-programmemusic151/claude-code-book"
-discovered_at: "2026-07-10T20:22:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- context management
+- local processing
+- Windows tool
+- documentation
+source: https://github.com/ptolemaic-programmemusic151/claude-code-book
+discovered_at: '2026-07-10T20:22:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

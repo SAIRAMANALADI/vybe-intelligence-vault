@@ -1,13 +1,25 @@
 ---
-title: "28ips96/morning-intel"
-category: "Tooling"
-tech_stack: ["Python", "Google Gemini API", "Notion API", "Gmail SMTP", "GitHub Actions", "feedparser", "RSS"]
+title: 28ips96/morning-intel
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- Google Gemini API
+- Notion API
+- Gmail SMTP
+- GitHub Actions
+- feedparser
+- RSS
 quality_score: 8
 rag_relevance: 6
-tags: ["automation", "market intelligence", "LLM-powered", "RSS aggregation", "Notion integration"]
-source: "https://github.com/28ips96/morning-intel"
-discovered_at: "2026-07-09T14:45:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- automation
+- market intelligence
+- LLM-powered
+- RSS aggregation
+- Notion integration
+source: https://github.com/28ips96/morning-intel
+discovered_at: '2026-07-09T14:45:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

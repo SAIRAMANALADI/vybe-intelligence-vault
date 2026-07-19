@@ -1,13 +1,25 @@
 ---
-title: "theerud/kuri-browser-agent"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Kuri Engine", "Chromium", "Gemini CLI", "Claude Code"]
+title: theerud/kuri-browser-agent
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Kuri Engine
+- Chromium
+- Gemini CLI
+- Claude Code
 quality_score: 8
 rag_relevance: 9
-tags: ["browser automation", "MCP integration", "web scraping", "token efficiency", "stealth browsing"]
-source: "https://github.com/theerud/kuri-browser-agent"
-discovered_at: "2026-07-08T08:17:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- MCP integration
+- web scraping
+- token efficiency
+- stealth browsing
+source: https://github.com/theerud/kuri-browser-agent
+discovered_at: '2026-07-08T08:17:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

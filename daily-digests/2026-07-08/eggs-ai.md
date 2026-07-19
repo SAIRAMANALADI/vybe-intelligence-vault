@@ -1,13 +1,26 @@
 ---
-title: "Interested-Deving-1896/eggs-ai"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "JavaScript", "Shell", "Protocol Buffers", "GitHub Actions", "Node.js", "Linux", "AI/ML APIs"]
+title: Interested-Deving-1896/eggs-ai
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- JavaScript
+- Shell
+- Protocol Buffers
+- GitHub Actions
+- Node.js
+- Linux
+- AI/ML APIs
 quality_score: 7
 rag_relevance: 6
-tags: ["AI agent", "Linux system management", "ISO creation", "automation", "diagnostics"]
-source: "https://github.com/Interested-Deving-1896/eggs-ai"
-discovered_at: "2026-07-08T12:24:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- Linux system management
+- ISO creation
+- automation
+- diagnostics
+source: https://github.com/Interested-Deving-1896/eggs-ai
+discovered_at: '2026-07-08T12:24:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

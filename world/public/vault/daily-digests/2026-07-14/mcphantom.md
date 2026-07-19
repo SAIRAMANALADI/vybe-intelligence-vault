@@ -1,13 +1,24 @@
 ---
-title: "Dragkob/MCPhantom"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "MCP (Model Context Protocol)", "JavaScript", "HTML/CSS", "NDJSON"]
+title: Dragkob/MCPhantom
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- Python
+- FastAPI
+- MCP (Model Context Protocol)
+- JavaScript
+- HTML/CSS
+- NDJSON
 quality_score: 8
 rag_relevance: 6
-tags: ["MCP security", "vulnerability scanning", "web dashboard", "penetration testing", "automated reconnaissance"]
-source: "https://github.com/Dragkob/MCPhantom"
-discovered_at: "2026-07-14T20:09:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP security
+- vulnerability scanning
+- web dashboard
+- penetration testing
+- automated reconnaissance
+source: https://github.com/Dragkob/MCPhantom
+discovered_at: '2026-07-14T20:09:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

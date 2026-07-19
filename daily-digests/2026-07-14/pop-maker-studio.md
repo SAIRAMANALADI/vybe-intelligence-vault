@@ -1,13 +1,36 @@
 ---
-title: "verticalrectangle/pop-maker-studio"
-category: "Tooling"
-tech_stack: ["C++", "OpenGL", "Dear ImGui", "ONNX Runtime", "FFTW3", "libav", "FFmpeg", "Whisper.cpp", "MDX-Net", "u2net", "VITS", "PyTorch (ONNX export)", "Model Context Protocol (MCP)", "GLSL", "Linux", "VAAPI", "CUDA", "VideoToolbox"]
+title: verticalrectangle/pop-maker-studio
+category: daily-digests/2026-07-14
+tech_stack:
+- C++
+- OpenGL
+- Dear ImGui
+- ONNX Runtime
+- FFTW3
+- libav
+- FFmpeg
+- Whisper.cpp
+- MDX-Net
+- u2net
+- VITS
+- PyTorch (ONNX export)
+- Model Context Protocol (MCP)
+- GLSL
+- Linux
+- VAAPI
+- CUDA
+- VideoToolbox
 quality_score: 9
 rag_relevance: 7
-tags: ["music video editor", "local ML processing", "GPU effects", "lyric video generation", "AI-powered editing"]
-source: "https://github.com/verticalrectangle/pop-maker-studio"
-discovered_at: "2026-07-12T10:26:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- music video editor
+- local ML processing
+- GPU effects
+- lyric video generation
+- AI-powered editing
+source: https://github.com/verticalrectangle/pop-maker-studio
+discovered_at: '2026-07-12T10:26:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

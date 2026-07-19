@@ -1,13 +1,22 @@
 ---
-title: "shripadk1999/EVOKORE-MCP"
-category: "Agent Framework"
-tech_stack: ["Model Context Protocol (MCP)", "Windows", "TypeScript (implied by MCP)", "JSON (for configuration)"]
+title: shripadk1999/EVOKORE-MCP
+category: daily-digests/2026-06-23
+tech_stack:
+- Model Context Protocol (MCP)
+- Windows
+- TypeScript (implied by MCP)
+- JSON (for configuration)
 quality_score: 7
 rag_relevance: 8
-tags: ["Agent Skills", "MCP Server", "Prompt Management", "Workflow Automation", "AI Assistant Integration"]
-source: "https://github.com/shripadk1999/EVOKORE-MCP"
-discovered_at: "2026-06-23T23:12:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agent Skills
+- MCP Server
+- Prompt Management
+- Workflow Automation
+- AI Assistant Integration
+source: https://github.com/shripadk1999/EVOKORE-MCP
+discovered_at: '2026-06-23T23:12:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

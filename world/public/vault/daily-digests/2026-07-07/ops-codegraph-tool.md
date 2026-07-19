@@ -1,13 +1,27 @@
 ---
-title: "optave/ops-codegraph-tool"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "Tree-sitter", "Rust", "WASM", "MCP (Model Context Protocol)", "Git", "CI/CD"]
+title: optave/ops-codegraph-tool
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- Tree-sitter
+- Rust
+- WASM
+- MCP (Model Context Protocol)
+- Git
+- CI/CD
 quality_score: 9
 rag_relevance: 10
-tags: ["code intelligence", "dependency graph", "AI agent tooling", "static analysis", "CI/CD gates"]
-source: "https://github.com/optave/ops-codegraph-tool"
-discovered_at: "2026-07-07T02:33:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code intelligence
+- dependency graph
+- AI agent tooling
+- static analysis
+- CI/CD gates
+source: https://github.com/optave/ops-codegraph-tool
+discovered_at: '2026-07-07T02:33:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

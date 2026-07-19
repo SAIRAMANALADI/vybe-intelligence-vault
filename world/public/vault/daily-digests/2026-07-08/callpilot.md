@@ -1,13 +1,30 @@
 ---
-title: "tianye1999/callpilot"
-category: "Tooling"
-tech_stack: ["Python", "Quectel EC20/EG25 4G Modem", "Qwen Omni (Alibaba)", "Doubao (ByteDance)", "OpenAI Realtime API", "FFmpeg", "PortAudio", "PyUSB", "PyWebView", "DashScope API", "AT Commands", "DTMF (Dual-Tone Multi-Frequency)"]
+title: tianye1999/callpilot
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- Quectel EC20/EG25 4G Modem
+- Qwen Omni (Alibaba)
+- Doubao (ByteDance)
+- OpenAI Realtime API
+- FFmpeg
+- PortAudio
+- PyUSB
+- PyWebView
+- DashScope API
+- AT Commands
+- DTMF (Dual-Tone Multi-Frequency)
 quality_score: 8
 rag_relevance: 6
-tags: ["AI phone agent", "real-time voice AI", "SMS automation", "IVR navigation", "hardware integration"]
-source: "https://github.com/tianye1999/callpilot"
-discovered_at: "2026-07-08T08:16:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI phone agent
+- real-time voice AI
+- SMS automation
+- IVR navigation
+- hardware integration
+source: https://github.com/tianye1999/callpilot
+discovered_at: '2026-07-08T08:16:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

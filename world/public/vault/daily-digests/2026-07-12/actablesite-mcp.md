@@ -1,13 +1,22 @@
 ---
-title: "unitedideas/actablesite-mcp"
-category: "Tooling"
-tech_stack: ["Model Context Protocol (MCP)", "JavaScript", "Streamable HTTP", "Node.js"]
+title: unitedideas/actablesite-mcp
+category: world/public/vault/daily-digests/2026-07-12
+tech_stack:
+- Model Context Protocol (MCP)
+- JavaScript
+- Streamable HTTP
+- Node.js
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP server", "website auditing", "AI crawler policy", "metadata validation", "remote tooling"]
-source: "https://github.com/unitedideas/actablesite-mcp"
-discovered_at: "2026-07-12T10:26:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- website auditing
+- AI crawler policy
+- metadata validation
+- remote tooling
+source: https://github.com/unitedideas/actablesite-mcp
+discovered_at: '2026-07-12T10:26:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

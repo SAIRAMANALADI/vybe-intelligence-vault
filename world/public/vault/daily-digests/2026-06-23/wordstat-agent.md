@@ -1,13 +1,23 @@
 ---
-title: "puzanov/wordstat-agent"
-category: "Tooling"
-tech_stack: ["Python", "Yandex Cloud Search API", "Yandex Cloud AI Studio", "CLI", "Environment Variables"]
+title: puzanov/wordstat-agent
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Yandex Cloud Search API
+- Yandex Cloud AI Studio
+- CLI
+- Environment Variables
 quality_score: 8
 rag_relevance: 7
-tags: ["Yandex Wordstat", "Search Trends", "API Integration", "AI Agents", "Trend Analysis"]
-source: "https://github.com/puzanov/wordstat-agent"
-discovered_at: "2026-06-23T13:43:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Yandex Wordstat
+- Search Trends
+- API Integration
+- AI Agents
+- Trend Analysis
+source: https://github.com/puzanov/wordstat-agent
+discovered_at: '2026-06-23T13:43:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

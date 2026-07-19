@@ -1,13 +1,29 @@
 ---
-title: "ChaoYuZhang001/CaoGen"
-category: "UI Component"
-tech_stack: ["Electron", "TypeScript", "React", "Zustand", "Node.js", "OpenAI API", "Chat Completions Protocol", "Git Worktree", "3D Rendering (WebGL/Three.js)", "Electron IPC", "Tailwind CSS"]
+title: ChaoYuZhang001/CaoGen
+category: world/public/vault/daily-digests/2026-07-11
+tech_stack:
+- Electron
+- TypeScript
+- React
+- Zustand
+- Node.js
+- OpenAI API
+- Chat Completions Protocol
+- Git Worktree
+- 3D Rendering (WebGL/Three.js)
+- Electron IPC
+- Tailwind CSS
 quality_score: 8
 rag_relevance: 6
-tags: ["AI Workspace", "Multi-vendor", "Electron App", "3D Office", "Git Integration"]
-source: "https://github.com/ChaoYuZhang001/CaoGen"
-discovered_at: "2026-07-11T23:53:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Workspace
+- Multi-vendor
+- Electron App
+- 3D Office
+- Git Integration
+source: https://github.com/ChaoYuZhang001/CaoGen
+discovered_at: '2026-07-11T23:53:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

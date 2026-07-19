@@ -1,13 +1,23 @@
 ---
-title: "pzfreo/build123d-mcp"
-category: "Tooling"
-tech_stack: ["Python", "build123d", "MCP (Model Context Protocol)", "uv (Python package manager)", "STEP/STL/DXF/SVG (CAD file formats)"]
+title: pzfreo/build123d-mcp
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- build123d
+- MCP (Model Context Protocol)
+- uv (Python package manager)
+- STEP/STL/DXF/SVG (CAD file formats)
 quality_score: 9
 rag_relevance: 9
-tags: ["CAD automation", "MCP server", "parametric modeling", "AI-assisted design", "3D modeling"]
-source: "https://github.com/pzfreo/build123d-mcp"
-discovered_at: "2026-07-09T11:53:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CAD automation
+- MCP server
+- parametric modeling
+- AI-assisted design
+- 3D modeling
+source: https://github.com/pzfreo/build123d-mcp
+discovered_at: '2026-07-09T11:53:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

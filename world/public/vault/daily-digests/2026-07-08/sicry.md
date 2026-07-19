@@ -1,13 +1,25 @@
 ---
-title: "dublen5269/Sicry"
-category: "Tooling"
-tech_stack: ["Python", "Tor", "requests[socks]", "BeautifulSoup4", "python-dotenv", "stem", "LLM APIs (OpenAI, Anthropic, Gemini, Ollama)"]
+title: dublen5269/Sicry
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- Tor
+- requests[socks]
+- BeautifulSoup4
+- python-dotenv
+- stem
+- LLM APIs (OpenAI, Anthropic, Gemini, Ollama)
 quality_score: 9
 rag_relevance: 8
-tags: ["Tor integration", "dark web access", "OSINT", "AI agent tools", "onion services"]
-source: "https://github.com/dublen5269/Sicry"
-discovered_at: "2026-07-08T22:16:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Tor integration
+- dark web access
+- OSINT
+- AI agent tools
+- onion services
+source: https://github.com/dublen5269/Sicry
+discovered_at: '2026-07-08T22:16:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "stuckaJ/Famulor-MCP"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "Model Context Protocol (MCP)", "AI APIs"]
+title: stuckaJ/Famulor-MCP
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Electron
+- Model Context Protocol (MCP)
+- AI APIs
 quality_score: 5
 rag_relevance: 6
-tags: ["AI-powered calls", "voice assistant", "MCP server", "desktop application", "multi-client support"]
-source: "https://github.com/stuckaJ/Famulor-MCP"
-discovered_at: "2026-06-25T05:07:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-powered calls
+- voice assistant
+- MCP server
+- desktop application
+- multi-client support
+source: https://github.com/stuckaJ/Famulor-MCP
+discovered_at: '2026-06-25T05:07:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

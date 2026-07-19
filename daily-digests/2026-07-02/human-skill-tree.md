@@ -1,13 +1,22 @@
 ---
-title: "Alfietechtime/human-skill-tree"
-category: "Tooling"
-tech_stack: ["Python", "JSON/YAML", "Graph Theory", "Data Modeling"]
+title: Alfietechtime/human-skill-tree
+category: daily-digests/2026-07-02
+tech_stack:
+- Python
+- JSON/YAML
+- Graph Theory
+- Data Modeling
 quality_score: 4
 rag_relevance: 6
-tags: ["skill management", "learning tracking", "AI-human collaboration", "structured data", "development framework"]
-source: "https://github.com/Alfietechtime/human-skill-tree"
-discovered_at: "2026-07-02T21:04:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- skill management
+- learning tracking
+- AI-human collaboration
+- structured data
+- development framework
+source: https://github.com/Alfietechtime/human-skill-tree
+discovered_at: '2026-07-02T21:04:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

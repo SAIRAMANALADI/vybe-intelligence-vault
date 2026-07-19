@@ -1,13 +1,22 @@
 ---
-title: "kozakikaoru/company"
-category: "Agent Framework"
-tech_stack: ["Claude Code", "Shell", "Markdown", "Git"]
+title: kozakikaoru/company
+category: daily-digests/2026-07-08
+tech_stack:
+- Claude Code
+- Shell
+- Markdown
+- Git
 quality_score: 8
 rag_relevance: 7
-tags: ["AI agent orchestration", "Claude Code plugin", "multi-agent system", "project state management", "automated documentation"]
-source: "https://github.com/kozakikaoru/company"
-discovered_at: "2026-07-08T05:45:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent orchestration
+- Claude Code plugin
+- multi-agent system
+- project state management
+- automated documentation
+source: https://github.com/kozakikaoru/company
+discovered_at: '2026-07-08T05:45:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "na2faldosari/kafeet"
-category: "Tooling"
-tech_stack: ["JavaScript", "HTML/CSS", "SHA-256", "Vercel", "Python (for local server)", "Mermaid.js (for diagrams)"]
+title: na2faldosari/kafeet
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- JavaScript
+- HTML/CSS
+- SHA-256
+- Vercel
+- Python (for local server)
+- Mermaid.js (for diagrams)
 quality_score: 9
 rag_relevance: 7
-tags: ["complaint resolution", "audit trail", "SAMA compliance", "banking automation", "zero-install"]
-source: "https://github.com/na2faldosari/kafeet"
-discovered_at: "2026-07-07T22:08:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- complaint resolution
+- audit trail
+- SAMA compliance
+- banking automation
+- zero-install
+source: https://github.com/na2faldosari/kafeet
+discovered_at: '2026-07-07T22:08:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

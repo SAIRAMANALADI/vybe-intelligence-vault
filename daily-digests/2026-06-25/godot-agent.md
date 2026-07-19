@@ -1,13 +1,25 @@
 ---
-title: "aigengame/godot-agent"
-category: "Tooling"
-tech_stack: ["Python", "Godot Engine", "Model Context Protocol (MCP)", "JSON-Schema", "CLI", "Unix-domain sockets", "PyPI packaging"]
+title: aigengame/godot-agent
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- Godot Engine
+- Model Context Protocol (MCP)
+- JSON-Schema
+- CLI
+- Unix-domain sockets
+- PyPI packaging
 quality_score: 9
 rag_relevance: 8
-tags: ["Godot automation", "AI agent integration", "MCP server", "headless game control", "structured output"]
-source: "https://github.com/aigengame/godot-agent"
-discovered_at: "2026-06-25T11:39:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Godot automation
+- AI agent integration
+- MCP server
+- headless game control
+- structured output
+source: https://github.com/aigengame/godot-agent
+discovered_at: '2026-06-25T11:39:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

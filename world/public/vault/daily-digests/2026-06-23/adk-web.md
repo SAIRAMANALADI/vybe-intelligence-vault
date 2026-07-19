@@ -1,13 +1,23 @@
 ---
-title: "Flirnz/adk-web"
-category: "UI Component"
-tech_stack: ["TypeScript", "Electron", "React", "Node.js", "Web UI"]
+title: Flirnz/adk-web
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Electron
+- React
+- Node.js
+- Web UI
 quality_score: 7
 rag_relevance: 6
-tags: ["agent development", "debugging tool", "UI framework", "desktop application", "agent management"]
-source: "https://github.com/Flirnz/adk-web"
-discovered_at: "2026-06-23T09:00:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent development
+- debugging tool
+- UI framework
+- desktop application
+- agent management
+source: https://github.com/Flirnz/adk-web
+discovered_at: '2026-06-23T09:00:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

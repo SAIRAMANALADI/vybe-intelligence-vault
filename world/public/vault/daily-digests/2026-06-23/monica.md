@@ -1,13 +1,28 @@
 ---
-title: "Tairitsua/Monica"
-category: "Orchestrator"
-tech_stack: [".NET 10", "ASP.NET Core", "Entity Framework Core", "MudBlazor", "Mapster", "Microsoft Agent Framework", "Dapr", "Serilog", "FluentValidation", "Polly"]
+title: Tairitsua/Monica
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- .NET 10
+- ASP.NET Core
+- Entity Framework Core
+- MudBlazor
+- Mapster
+- Microsoft Agent Framework
+- Dapr
+- Serilog
+- FluentValidation
+- Polly
 quality_score: 9
 rag_relevance: 8
-tags: ["Modular Architecture", "DDD", "AI Backend", "Blazor UI", "Job Scheduler"]
-source: "https://github.com/Tairitsua/Monica"
-discovered_at: "2026-06-23T08:55:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Modular Architecture
+- DDD
+- AI Backend
+- Blazor UI
+- Job Scheduler
+source: https://github.com/Tairitsua/Monica
+discovered_at: '2026-06-23T08:55:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

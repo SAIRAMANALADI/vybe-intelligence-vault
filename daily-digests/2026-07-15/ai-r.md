@@ -1,13 +1,25 @@
 ---
-title: "pro-target/ai-r"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "JSONL", "MCP (Model Context Protocol)", "CLI", "JSON-RPC", "Bash"]
+title: pro-target/ai-r
+category: daily-digests/2026-07-15
+tech_stack:
+- Python
+- SQLite
+- JSONL
+- MCP (Model Context Protocol)
+- CLI
+- JSON-RPC
+- Bash
 quality_score: 9
 rag_relevance: 8
-tags: ["agent auditing", "session analysis", "multi-agent compatibility", "risk detection", "plan verification"]
-source: "https://github.com/pro-target/ai-r"
-discovered_at: "2026-07-14T05:29:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent auditing
+- session analysis
+- multi-agent compatibility
+- risk detection
+- plan verification
+source: https://github.com/pro-target/ai-r
+discovered_at: '2026-07-14T05:29:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

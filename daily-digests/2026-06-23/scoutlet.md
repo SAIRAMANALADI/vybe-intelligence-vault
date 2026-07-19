@@ -1,13 +1,25 @@
 ---
-title: "aistoy/scoutlet"
-category: "Tooling"
-tech_stack: ["Python", "httpx", "lxml", "babel", "SearXNG", "primp", "asyncio"]
+title: aistoy/scoutlet
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- httpx
+- lxml
+- babel
+- SearXNG
+- primp
+- asyncio
 quality_score: 9
 rag_relevance: 9
-tags: ["local search", "multi-engine aggregation", "SearXNG compatibility", "AI agent tooling", "zero-config"]
-source: "https://github.com/aistoy/scoutlet"
-discovered_at: "2026-06-23T19:10:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local search
+- multi-engine aggregation
+- SearXNG compatibility
+- AI agent tooling
+- zero-config
+source: https://github.com/aistoy/scoutlet
+discovered_at: '2026-06-23T19:10:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

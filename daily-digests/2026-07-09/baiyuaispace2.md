@@ -1,13 +1,29 @@
 ---
-title: "baiyuheniao/BaiyuAISpace2"
-category: "Agent Framework"
-tech_stack: ["Tauri 2.0", "Vue 3", "Rust", "TypeScript", "SQLite", "Naive UI", "Tokio", "Pinia", "Ollama", "LM Studio", "Docker"]
+title: baiyuheniao/BaiyuAISpace2
+category: daily-digests/2026-07-09
+tech_stack:
+- Tauri 2.0
+- Vue 3
+- Rust
+- TypeScript
+- SQLite
+- Naive UI
+- Tokio
+- Pinia
+- Ollama
+- LM Studio
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Agent", "RAG", "MCP", "Cross-platform", "Local LLM"]
-source: "https://github.com/baiyuheniao/BaiyuAISpace2"
-discovered_at: "2026-07-09T08:25:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent
+- RAG
+- MCP
+- Cross-platform
+- Local LLM
+source: https://github.com/baiyuheniao/BaiyuAISpace2
+discovered_at: '2026-07-09T08:25:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

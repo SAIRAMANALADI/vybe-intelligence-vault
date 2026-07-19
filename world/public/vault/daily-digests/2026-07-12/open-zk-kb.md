@@ -1,13 +1,25 @@
 ---
-title: "mrosnerr/open-zk-kb"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "SQLite", "MiniLM-L6-v2 (embeddings)", "Markdown", "Obsidian", "MCP (Model Context Protocol)"]
+title: mrosnerr/open-zk-kb
+category: world/public/vault/daily-digests/2026-07-12
+tech_stack:
+- TypeScript
+- Bun
+- SQLite
+- MiniLM-L6-v2 (embeddings)
+- Markdown
+- Obsidian
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["persistent memory", "AI agent tools", "Zettelkasten", "local embeddings", "cross-tool integration"]
-source: "https://github.com/mrosnerr/open-zk-kb"
-discovered_at: "2026-07-12T14:54:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- AI agent tools
+- Zettelkasten
+- local embeddings
+- cross-tool integration
+source: https://github.com/mrosnerr/open-zk-kb
+discovered_at: '2026-07-12T14:54:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

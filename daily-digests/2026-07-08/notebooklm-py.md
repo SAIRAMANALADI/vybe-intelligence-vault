@@ -1,13 +1,22 @@
 ---
-title: "patriarchal-boothose896/notebooklm-py"
-category: "Tooling"
-tech_stack: ["Python", "Google NotebookLM API", "Command Line Interface", "AI Agent Integration"]
+title: patriarchal-boothose896/notebooklm-py
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- Google NotebookLM API
+- Command Line Interface
+- AI Agent Integration
 quality_score: 6
 rag_relevance: 7
-tags: ["NotebookLM", "Python API", "CLI Tool", "AI Automation", "Google Integration"]
-source: "https://github.com/patriarchal-boothose896/notebooklm-py"
-discovered_at: "2026-07-08T02:08:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- NotebookLM
+- Python API
+- CLI Tool
+- AI Automation
+- Google Integration
+source: https://github.com/patriarchal-boothose896/notebooklm-py
+discovered_at: '2026-07-08T02:08:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

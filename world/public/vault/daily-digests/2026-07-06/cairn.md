@@ -1,13 +1,28 @@
 ---
-title: "jimovonz/cairn"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "sqlite-vec", "all-MiniLM-L6-v2", "ms-marco-MiniLM-L-6-v2", "FastAPI", "Claude Code", "Hooks", "NLI (Natural Language Inference)", "Reciprocal Rank Fusion (RRF)"]
+title: jimovonz/cairn
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Python
+- SQLite
+- sqlite-vec
+- all-MiniLM-L6-v2
+- ms-marco-MiniLM-L-6-v2
+- FastAPI
+- Claude Code
+- Hooks
+- NLI (Natural Language Inference)
+- Reciprocal Rank Fusion (RRF)
 quality_score: 9
 rag_relevance: 8
-tags: ["Memory capture", "Cross-session retrieval", "Hybrid search", "Claude Code integration", "Veracity tracking"]
-source: "https://github.com/jimovonz/cairn"
-discovered_at: "2026-07-06T19:48:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Memory capture
+- Cross-session retrieval
+- Hybrid search
+- Claude Code integration
+- Veracity tracking
+source: https://github.com/jimovonz/cairn
+discovered_at: '2026-07-06T19:48:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "sandraschi/inkscape-mcp"
-category: "Tooling"
-tech_stack: ["Python 3.13+", "FastMCP", "Inkscape CLI", "Ruff", "Just", "uv", "Biome", "Bandit", "Safety"]
+title: sandraschi/inkscape-mcp
+category: daily-digests/2026-06-25
+tech_stack:
+- Python 3.13+
+- FastMCP
+- Inkscape CLI
+- Ruff
+- Just
+- uv
+- Biome
+- Bandit
+- Safety
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "vector graphics", "AI agent integration", "Inkscape automation", "SVG manipulation"]
-source: "https://github.com/sandraschi/inkscape-mcp"
-discovered_at: "2026-06-25T14:16:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- vector graphics
+- AI agent integration
+- Inkscape automation
+- SVG manipulation
+source: https://github.com/sandraschi/inkscape-mcp
+discovered_at: '2026-06-25T14:16:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

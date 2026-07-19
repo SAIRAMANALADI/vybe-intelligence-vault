@@ -1,13 +1,22 @@
 ---
-title: "Tommyvr7/meta-ads-analyzer"
-category: "Tooling"
-tech_stack: ["Windows", "Shell", "Meta Ads API", "Data Analysis"]
+title: Tommyvr7/meta-ads-analyzer
+category: daily-digests/2026-06-23
+tech_stack:
+- Windows
+- Shell
+- Meta Ads API
+- Data Analysis
 quality_score: 6
 rag_relevance: 4
-tags: ["Meta Ads", "Advertising Analytics", "Campaign Optimization", "Desktop Tool", "Performance Diagnostics"]
-source: "https://github.com/Tommyvr7/meta-ads-analyzer"
-discovered_at: "2026-06-23T23:10:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Meta Ads
+- Advertising Analytics
+- Campaign Optimization
+- Desktop Tool
+- Performance Diagnostics
+source: https://github.com/Tommyvr7/meta-ads-analyzer
+discovered_at: '2026-06-23T23:10:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

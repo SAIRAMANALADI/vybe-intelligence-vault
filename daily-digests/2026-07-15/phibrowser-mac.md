@@ -1,13 +1,26 @@
 ---
-title: "phibrowser/phibrowser-mac"
-category: "UI Component"
-tech_stack: ["Swift", "SwiftUI", "AppKit", "Chromium", "Apple Foundation Models", "MLX", "Ollama", "LM Studio"]
+title: phibrowser/phibrowser-mac
+category: daily-digests/2026-07-15
+tech_stack:
+- Swift
+- SwiftUI
+- AppKit
+- Chromium
+- Apple Foundation Models
+- MLX
+- Ollama
+- LM Studio
 quality_score: 8
 rag_relevance: 7
-tags: ["AI browser", "macOS native", "agentic browsing", "local-first", "on-device AI"]
-source: "https://github.com/phibrowser/phibrowser-mac"
-discovered_at: "2026-07-15T10:48:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI browser
+- macOS native
+- agentic browsing
+- local-first
+- on-device AI
+source: https://github.com/phibrowser/phibrowser-mac
+discovered_at: '2026-07-15T10:48:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

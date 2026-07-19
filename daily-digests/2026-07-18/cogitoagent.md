@@ -1,13 +1,27 @@
 ---
-title: "SnowLeopard-io/CogitoAgent"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Electron", "Python", "WebSocket", "SSE (Server-Sent Events)", "MCP (Model Context Protocol)", "isolated-vm (Sandboxing)", "Mermaid.js (Diagrams)"]
+title: SnowLeopard-io/CogitoAgent
+category: daily-digests/2026-07-18
+tech_stack:
+- TypeScript
+- Node.js
+- Electron
+- Python
+- WebSocket
+- SSE (Server-Sent Events)
+- MCP (Model Context Protocol)
+- isolated-vm (Sandboxing)
+- Mermaid.js (Diagrams)
 quality_score: 9
 rag_relevance: 8
-tags: ["Autonomous Agents", "Local Execution", "Tool Integration", "Multi-Agent Systems", "Privacy-First"]
-source: "https://github.com/SnowLeopard-io/CogitoAgent"
-discovered_at: "2026-07-16T02:25:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Autonomous Agents
+- Local Execution
+- Tool Integration
+- Multi-Agent Systems
+- Privacy-First
+source: https://github.com/SnowLeopard-io/CogitoAgent
+discovered_at: '2026-07-16T02:25:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

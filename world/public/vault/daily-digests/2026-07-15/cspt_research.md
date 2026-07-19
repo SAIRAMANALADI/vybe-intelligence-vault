@@ -1,13 +1,22 @@
 ---
-title: "marcomackenberg01/cspt_research"
-category: "Tooling"
-tech_stack: ["Windows OS", "C#/.NET (implied by Windows desktop app)", "Electron (possible, but not explicitly stated)", "Local File System"]
+title: marcomackenberg01/cspt_research
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- Windows OS
+- C#/.NET (implied by Windows desktop app)
+- Electron (possible, but not explicitly stated)
+- Local File System
 quality_score: 5
 rag_relevance: 3
-tags: ["data management", "research tool", "Windows desktop app", "file organization", "local processing"]
-source: "https://github.com/marcomackenberg01/cspt_research"
-discovered_at: "2026-07-11T11:04:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- data management
+- research tool
+- Windows desktop app
+- file organization
+- local processing
+source: https://github.com/marcomackenberg01/cspt_research
+discovered_at: '2026-07-11T11:04:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,32 @@
 ---
-title: "Brokenwatch24/crowdmind"
-category: "Tooling"
-tech_stack: ["Electron", "TypeScript", "React", "SQLite", "Drizzle ORM", "Tailwind CSS", "Zustand", "Node.js", "Python", "Zod", "OpenAI API", "Anthropic API", "Google Gemini API", "OpenRouter API"]
+title: Brokenwatch24/crowdmind
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- Electron
+- TypeScript
+- React
+- SQLite
+- Drizzle ORM
+- Tailwind CSS
+- Zustand
+- Node.js
+- Python
+- Zod
+- OpenAI API
+- Anthropic API
+- Google Gemini API
+- OpenRouter API
 quality_score: 9
 rag_relevance: 7
-tags: ["AI personas", "local-first", "stimuli testing", "marketing research", "desktop app"]
-source: "https://github.com/Brokenwatch24/crowdmind"
-discovered_at: "2026-07-12T20:42:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI personas
+- local-first
+- stimuli testing
+- marketing research
+- desktop app
+source: https://github.com/Brokenwatch24/crowdmind
+discovered_at: '2026-07-12T20:42:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

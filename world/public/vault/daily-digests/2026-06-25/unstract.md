@@ -1,13 +1,37 @@
 ---
-title: "Zipstack/unstract"
-category: "Tooling"
-tech_stack: ["Python", "Django", "FastAPI", "React", "Celery", "PostgreSQL", "Redis", "RabbitMQ", "Docker", "Vite", "Bun", "Biome", "OpenAI", "Anthropic", "AWS Bedrock", "Ollama", "Qdrant", "Pinecone", "Weaviate"]
+title: Zipstack/unstract
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- Django
+- FastAPI
+- React
+- Celery
+- PostgreSQL
+- Redis
+- RabbitMQ
+- Docker
+- Vite
+- Bun
+- Biome
+- OpenAI
+- Anthropic
+- AWS Bedrock
+- Ollama
+- Qdrant
+- Pinecone
+- Weaviate
 quality_score: 9
 rag_relevance: 8
-tags: ["document extraction", "LLM-powered", "ETL pipeline", "structured data", "API deployment"]
-source: "https://github.com/Zipstack/unstract"
-discovered_at: "2026-06-25T08:35:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- document extraction
+- LLM-powered
+- ETL pipeline
+- structured data
+- API deployment
+source: https://github.com/Zipstack/unstract
+discovered_at: '2026-06-25T08:35:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

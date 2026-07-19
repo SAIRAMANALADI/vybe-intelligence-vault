@@ -1,13 +1,23 @@
 ---
-title: "Terobyte/librarian-cli"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "FTS5 (Full-Text Search)", "TOML (config)", "CLI (Click or similar)"]
+title: Terobyte/librarian-cli
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- FTS5 (Full-Text Search)
+- TOML (config)
+- CLI (Click or similar)
 quality_score: 9
 rag_relevance: 10
-tags: ["deterministic RAG", "ebook processing", "offline retrieval", "MCP server", "token counting"]
-source: "https://github.com/Terobyte/librarian-cli"
-discovered_at: "2026-07-08T17:27:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- deterministic RAG
+- ebook processing
+- offline retrieval
+- MCP server
+- token counting
+source: https://github.com/Terobyte/librarian-cli
+discovered_at: '2026-07-08T17:27:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

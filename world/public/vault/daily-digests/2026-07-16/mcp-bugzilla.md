@@ -1,13 +1,22 @@
 ---
-title: "openSUSE/mcp-bugzilla"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Bugzilla REST API", "FastAPI"]
+title: openSUSE/mcp-bugzilla
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Bugzilla REST API
+- FastAPI
 quality_score: 8
 rag_relevance: 7
-tags: ["Bugzilla", "MCP Server", "Issue Tracking", "AI Integration", "Bug Management"]
-source: "https://github.com/openSUSE/mcp-bugzilla"
-discovered_at: "2026-07-16T08:10:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Bugzilla
+- MCP Server
+- Issue Tracking
+- AI Integration
+- Bug Management
+source: https://github.com/openSUSE/mcp-bugzilla
+discovered_at: '2026-07-16T08:10:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

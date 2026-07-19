@@ -1,13 +1,25 @@
 ---
-title: "mnemeth1/gm-puppeteer"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Puppeteer", "Chromium", "Model Context Protocol (MCP)", "Foundry VTT API", "Jest (implied for testing)"]
+title: mnemeth1/gm-puppeteer
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- Node.js
+- Puppeteer
+- Chromium
+- Model Context Protocol (MCP)
+- Foundry VTT API
+- Jest (implied for testing)
 quality_score: 9
 rag_relevance: 8
-tags: ["Foundry VTT", "AI Game Master", "MCP Server", "Virtual Tabletop Automation", "TTRPG Tools"]
-source: "https://github.com/mnemeth1/gm-puppeteer"
-discovered_at: "2026-07-06T23:04:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Foundry VTT
+- AI Game Master
+- MCP Server
+- Virtual Tabletop Automation
+- TTRPG Tools
+source: https://github.com/mnemeth1/gm-puppeteer
+discovered_at: '2026-07-06T23:04:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

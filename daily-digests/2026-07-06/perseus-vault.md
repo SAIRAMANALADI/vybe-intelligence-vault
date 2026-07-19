@@ -1,13 +1,26 @@
 ---
-title: "Perseus-Computing-LLC/perseus-vault"
-category: "Tooling"
-tech_stack: ["Rust", "SQLite", "FTS5 (Full-Text Search)", "AES-256-GCM (Encryption)", "MCP (Model Context Protocol)", "BM25 (Search)", "Vector Embeddings", "Bi-temporal Data Model"]
+title: Perseus-Computing-LLC/perseus-vault
+category: daily-digests/2026-07-06
+tech_stack:
+- Rust
+- SQLite
+- FTS5 (Full-Text Search)
+- AES-256-GCM (Encryption)
+- MCP (Model Context Protocol)
+- BM25 (Search)
+- Vector Embeddings
+- Bi-temporal Data Model
 quality_score: 9
 rag_relevance: 10
-tags: ["persistent memory", "MCP server", "local-first", "agent framework", "RAG optimization"]
-source: "https://github.com/Perseus-Computing-LLC/perseus-vault"
-discovered_at: "2026-07-06T23:04:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- MCP server
+- local-first
+- agent framework
+- RAG optimization
+source: https://github.com/Perseus-Computing-LLC/perseus-vault
+discovered_at: '2026-07-06T23:04:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

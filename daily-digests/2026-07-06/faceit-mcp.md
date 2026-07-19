@@ -1,13 +1,22 @@
 ---
-title: "saivi3171/faceit-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FACEIT API", "Windows Desktop Application"]
+title: saivi3171/faceit-mcp
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FACEIT API
+- Windows Desktop Application
 quality_score: 7
 rag_relevance: 6
-tags: ["gaming stats", "CS2", "FACEIT API", "Claude integration", "real-time data"]
-source: "https://github.com/saivi3171/faceit-mcp"
-discovered_at: "2026-07-06T19:49:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- gaming stats
+- CS2
+- FACEIT API
+- Claude integration
+- real-time data
+source: https://github.com/saivi3171/faceit-mcp
+discovered_at: '2026-07-06T19:49:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

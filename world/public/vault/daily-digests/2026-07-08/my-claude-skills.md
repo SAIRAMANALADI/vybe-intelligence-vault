@@ -1,13 +1,21 @@
 ---
-title: "nariatrip191/my-claude-skills"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code", "Git"]
+title: nariatrip191/my-claude-skills
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- Claude Code
+- Git
 quality_score: 7
 rag_relevance: 6
-tags: ["Claude Code", "automation", "code review", "security auditing", "dependency management"]
-source: "https://github.com/nariatrip191/my-claude-skills"
-discovered_at: "2026-07-08T22:15:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- automation
+- code review
+- security auditing
+- dependency management
+source: https://github.com/nariatrip191/my-claude-skills
+discovered_at: '2026-07-08T22:15:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "iamsocool24/dbt-core-mcp"
-category: "Tooling"
-tech_stack: ["Python", "dbt", "Model Context Protocol (MCP)", "SQL"]
+title: iamsocool24/dbt-core-mcp
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- dbt
+- Model Context Protocol (MCP)
+- SQL
 quality_score: 6
 rag_relevance: 5
-tags: ["dbt", "data modeling", "MCP", "data transformation", "ETL"]
-source: "https://github.com/iamsocool24/dbt-core-mcp"
-discovered_at: "2026-06-23T09:01:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- dbt
+- data modeling
+- MCP
+- data transformation
+- ETL
+source: https://github.com/iamsocool24/dbt-core-mcp
+discovered_at: '2026-06-23T09:01:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

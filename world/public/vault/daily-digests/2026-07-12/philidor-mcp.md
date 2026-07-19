@@ -1,13 +1,22 @@
 ---
-title: "KhanhHuy1405/philidor-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Windows", "DeFi Protocols", "Model Context Protocol (MCP)"]
+title: KhanhHuy1405/philidor-mcp
+category: world/public/vault/daily-digests/2026-07-12
+tech_stack:
+- TypeScript
+- Windows
+- DeFi Protocols
+- Model Context Protocol (MCP)
 quality_score: 7
 rag_relevance: 6
-tags: ["DeFi", "Risk Analysis", "Vault Comparison", "Yield Optimization", "MCP Server"]
-source: "https://github.com/KhanhHuy1405/philidor-mcp"
-discovered_at: "2026-07-12T15:58:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- DeFi
+- Risk Analysis
+- Vault Comparison
+- Yield Optimization
+- MCP Server
+source: https://github.com/KhanhHuy1405/philidor-mcp
+discovered_at: '2026-07-12T15:58:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

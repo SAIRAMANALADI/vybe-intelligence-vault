@@ -1,13 +1,24 @@
 ---
-title: "stickerdaniel/linkedin-mcp-server"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Playwright", "Chromium", "Docker", "uvx"]
+title: stickerdaniel/linkedin-mcp-server
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Playwright
+- Chromium
+- Docker
+- uvx
 quality_score: 9
 rag_relevance: 8
-tags: ["LinkedIn API", "MCP Server", "Data Extraction", "AI Integration", "Browser Automation"]
-source: "https://github.com/stickerdaniel/linkedin-mcp-server"
-discovered_at: "2026-07-07T02:33:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LinkedIn API
+- MCP Server
+- Data Extraction
+- AI Integration
+- Browser Automation
+source: https://github.com/stickerdaniel/linkedin-mcp-server
+discovered_at: '2026-07-07T02:33:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

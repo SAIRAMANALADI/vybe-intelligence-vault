@@ -1,13 +1,22 @@
 ---
-title: "vshar5898/onebusaway-mcp-server"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "OneBusAway API", "Windows CLI"]
+title: vshar5898/onebusaway-mcp-server
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- OneBusAway API
+- Windows CLI
 quality_score: 6
 rag_relevance: 7
-tags: ["transit data", "MCP server", "real-time updates", "AI integration", "public transport"]
-source: "https://github.com/vshar5898/onebusaway-mcp-server"
-discovered_at: "2026-06-24T22:15:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- transit data
+- MCP server
+- real-time updates
+- AI integration
+- public transport
+source: https://github.com/vshar5898/onebusaway-mcp-server
+discovered_at: '2026-06-24T22:15:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

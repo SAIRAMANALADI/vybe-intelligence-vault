@@ -1,13 +1,23 @@
 ---
-title: "Vladimirbeneficiary741/claudian"
-category: "Tooling"
-tech_stack: ["TypeScript", "Obsidian Plugin API", "Claude API", "DeepSeek API", "Model Context Protocol (MCP)"]
+title: Vladimirbeneficiary741/claudian
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Obsidian Plugin API
+- Claude API
+- DeepSeek API
+- Model Context Protocol (MCP)
 quality_score: 7
 rag_relevance: 6
-tags: ["Obsidian", "AI agents", "note-taking", "automation", "code generation"]
-source: "https://github.com/Vladimirbeneficiary741/claudian"
-discovered_at: "2026-06-24T06:46:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Obsidian
+- AI agents
+- note-taking
+- automation
+- code generation
+source: https://github.com/Vladimirbeneficiary741/claudian
+discovered_at: '2026-06-24T06:46:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

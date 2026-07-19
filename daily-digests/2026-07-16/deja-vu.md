@@ -1,13 +1,25 @@
 ---
-title: "vshulcz/deja-vu"
-category: "Tooling"
-tech_stack: ["Go", "SQLite", "MCP (Model Context Protocol)", "JSONL", "CLI", "Bash", "npm"]
+title: vshulcz/deja-vu
+category: daily-digests/2026-07-16
+tech_stack:
+- Go
+- SQLite
+- MCP (Model Context Protocol)
+- JSONL
+- CLI
+- Bash
+- npm
 quality_score: 9
 rag_relevance: 8
-tags: ["memory layer", "agent recall", "session search", "secret redaction", "local indexing"]
-source: "https://github.com/vshulcz/deja-vu"
-discovered_at: "2026-07-16T08:10:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory layer
+- agent recall
+- session search
+- secret redaction
+- local indexing
+source: https://github.com/vshulcz/deja-vu
+discovered_at: '2026-07-16T08:10:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

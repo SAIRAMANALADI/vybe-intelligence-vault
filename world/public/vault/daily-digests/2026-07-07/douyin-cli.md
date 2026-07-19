@@ -1,13 +1,25 @@
 ---
-title: "Yht20927/douyin-cli"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "SQLite", "WebSocket", "Tampermonkey (User Scripts)", "OpenAI-compatible LLM APIs", "Bridge Framework"]
+title: Yht20927/douyin-cli
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- JavaScript
+- Node.js
+- SQLite
+- WebSocket
+- Tampermonkey (User Scripts)
+- OpenAI-compatible LLM APIs
+- Bridge Framework
 quality_score: 8
 rag_relevance: 6
-tags: ["automation", "social media", "AI-driven responses", "rate-limiting", "behavior simulation"]
-source: "https://github.com/Yht20927/douyin-cli"
-discovered_at: "2026-07-07T13:16:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- automation
+- social media
+- AI-driven responses
+- rate-limiting
+- behavior simulation
+source: https://github.com/Yht20927/douyin-cli
+discovered_at: '2026-07-07T13:16:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

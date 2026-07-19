@@ -1,13 +1,23 @@
 ---
-title: "Nikil11/stacks-clarity-mcp"
-category: "Tooling"
-tech_stack: ["Clarity", "Stacks Blockchain", "MCP (Model Context Protocol)", "Rust", "TypeScript"]
+title: Nikil11/stacks-clarity-mcp
+category: daily-digests/2026-06-24
+tech_stack:
+- Clarity
+- Stacks Blockchain
+- MCP (Model Context Protocol)
+- Rust
+- TypeScript
 quality_score: 5
 rag_relevance: 7
-tags: ["Clarity smart contracts", "Stacks blockchain", "MCP server", "security tools", "smart contract optimization"]
-source: "https://github.com/Nikil11/stacks-clarity-mcp"
-discovered_at: "2026-06-24T20:50:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Clarity smart contracts
+- Stacks blockchain
+- MCP server
+- security tools
+- smart contract optimization
+source: https://github.com/Nikil11/stacks-clarity-mcp
+discovered_at: '2026-06-24T20:50:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

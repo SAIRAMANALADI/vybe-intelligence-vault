@@ -1,13 +1,22 @@
 ---
-title: "Zorineinsupportable217/buyer-eval-skill"
-category: "Tooling"
-tech_stack: ["Windows", "Shell", "Claude Code", "AI Agent Interaction"]
+title: Zorineinsupportable217/buyer-eval-skill
+category: daily-digests/2026-07-07
+tech_stack:
+- Windows
+- Shell
+- Claude Code
+- AI Agent Interaction
 quality_score: 6
 rag_relevance: 4
-tags: ["vendor evaluation", "B2B procurement", "AI agent testing", "evidence-based scoring", "buying workflow"]
-source: "https://github.com/Zorineinsupportable217/buyer-eval-skill"
-discovered_at: "2026-07-07T20:50:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- vendor evaluation
+- B2B procurement
+- AI agent testing
+- evidence-based scoring
+- buying workflow
+source: https://github.com/Zorineinsupportable217/buyer-eval-skill
+discovered_at: '2026-07-07T20:50:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

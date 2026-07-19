@@ -1,13 +1,40 @@
 ---
-title: "asta-nguyen/kamehadb"
-category: "Tooling"
-tech_stack: ["Tauri v2", "React 19", "Vite", "Tailwind CSS v4", "Hono", "TypeScript", "PostgreSQL", "MySQL", "SQLite", "MongoDB", "Redis", "Qdrant", "SQL Server", "Oracle", "ClickHouse", "DuckDB", "TigerBeetle", "Monaco Editor", "ReactFlow", "OpenAI", "Ollama", "9Router"]
+title: asta-nguyen/kamehadb
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Tauri v2
+- React 19
+- Vite
+- Tailwind CSS v4
+- Hono
+- TypeScript
+- PostgreSQL
+- MySQL
+- SQLite
+- MongoDB
+- Redis
+- Qdrant
+- SQL Server
+- Oracle
+- ClickHouse
+- DuckDB
+- TigerBeetle
+- Monaco Editor
+- ReactFlow
+- OpenAI
+- Ollama
+- 9Router
 quality_score: 9
 rag_relevance: 9
-tags: ["database GUI", "AI-powered queries", "multi-engine support", "schema management", "local-first"]
-source: "https://github.com/asta-nguyen/kamehadb"
-discovered_at: "2026-07-10T06:53:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- database GUI
+- AI-powered queries
+- multi-engine support
+- schema management
+- local-first
+source: https://github.com/asta-nguyen/kamehadb
+discovered_at: '2026-07-10T06:53:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

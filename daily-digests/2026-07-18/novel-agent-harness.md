@@ -1,13 +1,24 @@
 ---
-title: "shoestealerz/novel-agent-harness"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Git", "Bun", "Node.js", "OpenCode", "Markdown"]
+title: shoestealerz/novel-agent-harness
+category: daily-digests/2026-07-18
+tech_stack:
+- TypeScript
+- Git
+- Bun
+- Node.js
+- OpenCode
+- Markdown
 quality_score: 9
 rag_relevance: 7
-tags: ["fiction writing", "agent harness", "Git-backed workflows", "immutable edits", "author authority"]
-source: "https://github.com/shoestealerz/novel-agent-harness"
-discovered_at: "2026-07-16T02:25:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- fiction writing
+- agent harness
+- Git-backed workflows
+- immutable edits
+- author authority
+source: https://github.com/shoestealerz/novel-agent-harness
+discovered_at: '2026-07-16T02:25:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

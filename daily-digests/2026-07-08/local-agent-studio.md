@@ -1,13 +1,23 @@
 ---
-title: "pugnacious-yezo931/Local-Agent-Studio"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Electron", "Python", "Local LLM Integration", "Visual Workflow Builder"]
+title: pugnacious-yezo931/Local-Agent-Studio
+category: daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- Electron
+- Python
+- Local LLM Integration
+- Visual Workflow Builder
 quality_score: 7
 rag_relevance: 6
-tags: ["local AI agents", "visual workflow builder", "privacy-focused", "desktop automation", "multi-agent system"]
-source: "https://github.com/pugnacious-yezo931/Local-Agent-Studio"
-discovered_at: "2026-07-08T05:46:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local AI agents
+- visual workflow builder
+- privacy-focused
+- desktop automation
+- multi-agent system
+source: https://github.com/pugnacious-yezo931/Local-Agent-Studio
+discovered_at: '2026-07-08T05:46:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

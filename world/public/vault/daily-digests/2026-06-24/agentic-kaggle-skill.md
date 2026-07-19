@@ -1,13 +1,22 @@
 ---
-title: "Mirannonarbitrable290/agentic-kaggle-skill"
-category: "Tooling"
-tech_stack: ["Python", "Kaggle API", "Windows Desktop Application", "Automation Scripts"]
+title: Mirannonarbitrable290/agentic-kaggle-skill
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Kaggle API
+- Windows Desktop Application
+- Automation Scripts
 quality_score: 6
 rag_relevance: 5
-tags: ["Kaggle automation", "data science workflow", "agentic tools", "competition management", "automated submissions"]
-source: "https://github.com/Mirannonarbitrable290/agentic-kaggle-skill"
-discovered_at: "2026-06-24T22:18:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Kaggle automation
+- data science workflow
+- agentic tools
+- competition management
+- automated submissions
+source: https://github.com/Mirannonarbitrable290/agentic-kaggle-skill
+discovered_at: '2026-06-24T22:18:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

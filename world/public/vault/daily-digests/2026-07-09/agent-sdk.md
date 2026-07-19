@@ -1,13 +1,21 @@
 ---
-title: "KewalPra/agent-sdk"
-category: "Agent Framework"
-tech_stack: ["Python", "Asyncio", "LLM APIs"]
+title: KewalPra/agent-sdk
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- Asyncio
+- LLM APIs
 quality_score: 5
 rag_relevance: 7
-tags: ["agent development", "minimalist framework", "tool integration", "async agents", "LLM orchestration"]
-source: "https://github.com/KewalPra/agent-sdk"
-discovered_at: "2026-07-09T08:25:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent development
+- minimalist framework
+- tool integration
+- async agents
+- LLM orchestration
+source: https://github.com/KewalPra/agent-sdk
+discovered_at: '2026-07-09T08:25:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

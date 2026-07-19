@@ -1,13 +1,27 @@
 ---
-title: "sou350121/Agent-Playbook"
-category: "Tooling"
-tech_stack: ["Python", "DashScope (qwen3.5-plus)", "GitHub Actions", "Telegram Bot API", "RSS", "Markdown", "Astro", "Tailwind CSS", "PowerShell"]
+title: sou350121/Agent-Playbook
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- DashScope (qwen3.5-plus)
+- GitHub Actions
+- Telegram Bot API
+- RSS
+- Markdown
+- Astro
+- Tailwind CSS
+- PowerShell
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Agent Intelligence", "Signal Filtering", "Prompt Engineering", "Engineering Best Practices", "Devil's Advocate Mechanism"]
-source: "https://github.com/sou350121/Agent-Playbook"
-discovered_at: "2026-07-08T02:06:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent Intelligence
+- Signal Filtering
+- Prompt Engineering
+- Engineering Best Practices
+- Devil's Advocate Mechanism
+source: https://github.com/sou350121/Agent-Playbook
+discovered_at: '2026-07-08T02:06:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

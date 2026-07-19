@@ -1,13 +1,25 @@
 ---
-title: "redwoodjs/agent-ci"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Rust", "Docker", "GitHub Actions", "Twirp", "Node.js", "CI/CD"]
+title: redwoodjs/agent-ci
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- Rust
+- Docker
+- GitHub Actions
+- Twirp
+- Node.js
+- CI/CD
 quality_score: 9
 rag_relevance: 8
-tags: ["local CI", "GitHub Actions", "pre-flight checks", "debugging", "caching"]
-source: "https://github.com/redwoodjs/agent-ci"
-discovered_at: "2026-07-13T10:24:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local CI
+- GitHub Actions
+- pre-flight checks
+- debugging
+- caching
+source: https://github.com/redwoodjs/agent-ci
+discovered_at: '2026-07-13T10:24:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "log-z/copaw-docker"
-category: "Tooling"
-tech_stack: ["Docker", "Docker Compose", "Shell", "Python", "QwenPaw", "GitHub Actions"]
+title: log-z/copaw-docker
+category: daily-digests/2026-06-23
+tech_stack:
+- Docker
+- Docker Compose
+- Shell
+- Python
+- QwenPaw
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-tags: ["Docker", "AI Assistant", "Self-hosted", "Agent Orchestration", "Multi-platform"]
-source: "https://github.com/log-z/copaw-docker"
-discovered_at: "2026-06-23T13:46:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Docker
+- AI Assistant
+- Self-hosted
+- Agent Orchestration
+- Multi-platform
+source: https://github.com/log-z/copaw-docker
+discovered_at: '2026-06-23T13:46:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

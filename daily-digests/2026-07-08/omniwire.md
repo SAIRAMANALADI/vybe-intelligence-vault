@@ -1,13 +1,32 @@
 ---
-title: "NetVar1337/omniwire"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "SSH2", "PostgreSQL", "A2A Protocol", "SFTP", "netcat", "LZ4", "aria2c", "WireGuard", "Tailscale", "nftables", "Docker"]
+title: NetVar1337/omniwire
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- SSH2
+- PostgreSQL
+- A2A Protocol
+- SFTP
+- netcat
+- LZ4
+- aria2c
+- WireGuard
+- Tailscale
+- nftables
+- Docker
 quality_score: 9
 rag_relevance: 9
-tags: ["AI agent orchestration", "multi-node execution", "MCP server", "distributed systems", "background task management"]
-source: "https://github.com/NetVar1337/omniwire"
-discovered_at: "2026-07-08T11:00:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent orchestration
+- multi-node execution
+- MCP server
+- distributed systems
+- background task management
+source: https://github.com/NetVar1337/omniwire
+discovered_at: '2026-07-08T11:00:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "memtomem/memtomem"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "BM25", "ONNX", "Dense Embeddings", "SQLite", "FastAPI", "React (Web UI)", "Tree-sitter (for code parsing)", "uv (package manager)"]
+title: memtomem/memtomem
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- BM25
+- ONNX
+- Dense Embeddings
+- SQLite
+- FastAPI
+- React (Web UI)
+- Tree-sitter (for code parsing)
+- uv (package manager)
 quality_score: 9
 rag_relevance: 10
-tags: ["long-term memory", "hybrid search", "markdown indexing", "MCP tools", "AI agent infrastructure"]
-source: "https://github.com/memtomem/memtomem"
-discovered_at: "2026-06-23T10:39:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- long-term memory
+- hybrid search
+- markdown indexing
+- MCP tools
+- AI agent infrastructure
+source: https://github.com/memtomem/memtomem
+discovered_at: '2026-06-23T10:39:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

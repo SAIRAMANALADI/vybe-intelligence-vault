@@ -1,13 +1,30 @@
 ---
-title: "Ogirala-Uday-Venkat-Rahul/glasswing"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Groq", "Vite", "React", "PostgreSQL", "S3-compatible storage", "Google OAuth", "Langfuse (optional)", "Serper", "Trafilatura", "httpx"]
+title: Ogirala-Uday-Venkat-Rahul/glasswing
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- FastAPI
+- Groq
+- Vite
+- React
+- PostgreSQL
+- S3-compatible storage
+- Google OAuth
+- Langfuse (optional)
+- Serper
+- Trafilatura
+- httpx
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent", "tool-calling", "streaming", "real-time reasoning", "deterministic grounding"]
-source: "https://github.com/Ogirala-Uday-Venkat-Rahul/glasswing"
-discovered_at: "2026-07-08T19:16:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- tool-calling
+- streaming
+- real-time reasoning
+- deterministic grounding
+source: https://github.com/Ogirala-Uday-Venkat-Rahul/glasswing
+discovered_at: '2026-07-08T19:16:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

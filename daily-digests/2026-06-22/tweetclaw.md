@@ -1,13 +1,25 @@
 ---
-title: "Xquik-dev/tweetclaw"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "OpenClaw", "X/Twitter API", "npm", "MPP (Machine Payments Protocol)", "REST APIs"]
+title: Xquik-dev/tweetclaw
+category: daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Node.js
+- OpenClaw
+- X/Twitter API
+- npm
+- MPP (Machine Payments Protocol)
+- REST APIs
 quality_score: 9
 rag_relevance: 7
-tags: ["X/Twitter automation", "OpenClaw plugin", "social media tools", "API integration", "agentic workflows"]
-source: "https://github.com/Xquik-dev/tweetclaw"
-discovered_at: "2026-06-22T23:16:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- X/Twitter automation
+- OpenClaw plugin
+- social media tools
+- API integration
+- agentic workflows
+source: https://github.com/Xquik-dev/tweetclaw
+discovered_at: '2026-06-22T23:16:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,21 @@
 ---
-title: "byrktrofficial/xiaomo-starter-kit"
-category: "Tooling"
-tech_stack: ["OpenClaw", "Python", "Pre-configured Templates"]
+title: byrktrofficial/xiaomo-starter-kit
+category: daily-digests/2026-06-24
+tech_stack:
+- OpenClaw
+- Python
+- Pre-configured Templates
 quality_score: 5
 rag_relevance: 4
-tags: ["AI Assistant", "Pre-configured", "Quick Setup", "Customization", "OpenClaw"]
-source: "https://github.com/byrktrofficial/xiaomo-starter-kit"
-discovered_at: "2026-06-24T16:20:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Assistant
+- Pre-configured
+- Quick Setup
+- Customization
+- OpenClaw
+source: https://github.com/byrktrofficial/xiaomo-starter-kit
+discovered_at: '2026-06-24T16:20:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

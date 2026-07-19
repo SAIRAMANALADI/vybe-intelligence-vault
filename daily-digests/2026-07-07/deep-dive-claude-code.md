@@ -1,13 +1,23 @@
 ---
-title: "Merylstreepapplesauce635/Deep-Dive-Claude-Code"
-category: "Tooling"
-tech_stack: ["HTML", "JavaScript", "Windows OS", "Visual Diagrams", "Agent Simulator"]
+title: Merylstreepapplesauce635/Deep-Dive-Claude-Code
+category: daily-digests/2026-07-07
+tech_stack:
+- HTML
+- JavaScript
+- Windows OS
+- Visual Diagrams
+- Agent Simulator
 quality_score: 5
 rag_relevance: 6
-tags: ["Claude Code", "Agent Architecture", "Educational Tool", "Windows Application", "System Analysis"]
-source: "https://github.com/Merylstreepapplesauce635/Deep-Dive-Claude-Code"
-discovered_at: "2026-07-07T06:41:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- Agent Architecture
+- Educational Tool
+- Windows Application
+- System Analysis
+source: https://github.com/Merylstreepapplesauce635/Deep-Dive-Claude-Code
+discovered_at: '2026-07-07T06:41:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

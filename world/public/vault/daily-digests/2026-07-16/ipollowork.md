@@ -1,13 +1,28 @@
 ---
-title: "Devin-AXIS/iPolloWork"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Tauri", "Rust", "Node.js", "pnpm", "OpenCode", "SSE (Server-Sent Events)", "WebKitGTK", "React", "CLI"]
+title: Devin-AXIS/iPolloWork
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- TypeScript
+- Tauri
+- Rust
+- Node.js
+- pnpm
+- OpenCode
+- SSE (Server-Sent Events)
+- WebKitGTK
+- React
+- CLI
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agents", "local-first", "workflow automation", "multi-model support", "team collaboration"]
-source: "https://github.com/Devin-AXIS/iPolloWork"
-discovered_at: "2026-07-11T14:52:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- local-first
+- workflow automation
+- multi-model support
+- team collaboration
+source: https://github.com/Devin-AXIS/iPolloWork
+discovered_at: '2026-07-11T14:52:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

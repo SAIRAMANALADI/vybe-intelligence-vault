@@ -1,13 +1,27 @@
 ---
-title: "Rul1an/assay"
-category: "Tooling"
-tech_stack: ["Rust", "eBPF", "LSM (Linux Security Modules)", "YAML", "Python", "GitHub Actions", "SARIF", "in-toto", "DSSE"]
+title: Rul1an/assay
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Rust
+- eBPF
+- LSM (Linux Security Modules)
+- YAML
+- Python
+- GitHub Actions
+- SARIF
+- in-toto
+- DSSE
 quality_score: 9
 rag_relevance: 8
-tags: ["policy-as-code", "MCP security", "eBPF enforcement", "evidence-based auditing", "deterministic gatekeeping"]
-source: "https://github.com/Rul1an/assay"
-discovered_at: "2026-07-08T22:15:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- policy-as-code
+- MCP security
+- eBPF enforcement
+- evidence-based auditing
+- deterministic gatekeeping
+source: https://github.com/Rul1an/assay
+discovered_at: '2026-07-08T22:15:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

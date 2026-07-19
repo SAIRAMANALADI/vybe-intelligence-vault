@@ -1,13 +1,23 @@
 ---
-title: "jakubs2623/notebooklm-skill"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code Skill", "MCP Server", "NotebookLM", "Windows Desktop App"]
+title: jakubs2623/notebooklm-skill
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- Python
+- Claude Code Skill
+- MCP Server
+- NotebookLM
+- Windows Desktop App
 quality_score: 7
 rag_relevance: 6
-tags: ["automated research", "content generation", "Claude integration", "NotebookLM", "Windows tool"]
-source: "https://github.com/jakubs2623/notebooklm-skill"
-discovered_at: "2026-07-13T20:14:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- automated research
+- content generation
+- Claude integration
+- NotebookLM
+- Windows tool
+source: https://github.com/jakubs2623/notebooklm-skill
+discovered_at: '2026-07-13T20:14:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

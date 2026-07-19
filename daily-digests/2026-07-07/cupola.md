@@ -1,13 +1,30 @@
 ---
-title: "Query-farm/cupola"
-category: "UI Component"
-tech_stack: ["Astro", "React", "TypeScript", "DuckDB-WASM", "Perspective", "xterm.js", "ShadCN/UI", "Tailwind CSS", "Bun", "Cloudflare Pages", "Cloudflare R2", "OAuth/PKCE"]
+title: Query-farm/cupola
+category: daily-digests/2026-07-07
+tech_stack:
+- Astro
+- React
+- TypeScript
+- DuckDB-WASM
+- Perspective
+- xterm.js
+- ShadCN/UI
+- Tailwind CSS
+- Bun
+- Cloudflare Pages
+- Cloudflare R2
+- OAuth/PKCE
 quality_score: 9
 rag_relevance: 8
-tags: ["database frontend", "SQL shell", "AI data analysis", "catalog browser", "VGI integration"]
-source: "https://github.com/Query-farm/cupola"
-discovered_at: "2026-07-07T16:24:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- database frontend
+- SQL shell
+- AI data analysis
+- catalog browser
+- VGI integration
+source: https://github.com/Query-farm/cupola
+discovered_at: '2026-07-07T16:24:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

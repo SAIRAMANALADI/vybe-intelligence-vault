@@ -1,13 +1,22 @@
 ---
-title: "employeesavingsplanmelagra893/SkillAnything"
-category: "Tooling"
-tech_stack: ["Python", "Windows API", "UI Automation", "Local File System"]
+title: employeesavingsplanmelagra893/SkillAnything
+category: daily-digests/2026-07-18
+tech_stack:
+- Python
+- Windows API
+- UI Automation
+- Local File System
 quality_score: 6
 rag_relevance: 7
-tags: ["AI automation", "skill acquisition", "task recording", "agent integration", "local processing"]
-source: "https://github.com/employeesavingsplanmelagra893/SkillAnything"
-discovered_at: "2026-07-13T22:55:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI automation
+- skill acquisition
+- task recording
+- agent integration
+- local processing
+source: https://github.com/employeesavingsplanmelagra893/SkillAnything
+discovered_at: '2026-07-13T22:55:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,29 @@
 ---
-title: "lianluo-esign/ferrogate"
-category: "Orchestrator"
-tech_stack: ["Rust", "Cloudflare Pingora", "Firecracker", "Supabase", "Prometheus", "OTLP", "Docker", "Kubernetes", "Helm", "Caddyfile", "TOML/YAML"]
+title: lianluo-esign/ferrogate
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Rust
+- Cloudflare Pingora
+- Firecracker
+- Supabase
+- Prometheus
+- OTLP
+- Docker
+- Kubernetes
+- Helm
+- Caddyfile
+- TOML/YAML
 quality_score: 9
 rag_relevance: 10
-tags: ["AI Gateway", "Rust", "Multi-Provider Routing", "Agent Execution", "Billing Integration"]
-source: "https://github.com/lianluo-esign/ferrogate"
-discovered_at: "2026-07-07T16:24:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Gateway
+- Rust
+- Multi-Provider Routing
+- Agent Execution
+- Billing Integration
+source: https://github.com/lianluo-esign/ferrogate
+discovered_at: '2026-07-07T16:24:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

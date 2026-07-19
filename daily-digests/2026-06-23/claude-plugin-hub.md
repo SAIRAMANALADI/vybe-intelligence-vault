@@ -1,13 +1,27 @@
 ---
-title: "astephenson660-lgtm/claude-plugin-hub"
-category: "Orchestrator"
-tech_stack: ["Python", "Node.js", "YAML", "WebSocket", "Claude API", "OpenAI API", "Mermaid.js", "Flask/Django (inferred)", "React/Vue.js (inferred for UI)"]
+title: astephenson660-lgtm/claude-plugin-hub
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Node.js
+- YAML
+- WebSocket
+- Claude API
+- OpenAI API
+- Mermaid.js
+- Flask/Django (inferred)
+- React/Vue.js (inferred for UI)
 quality_score: 8
 rag_relevance: 9
-tags: ["plugin management", "multi-model AI", "API integration", "unified marketplace", "AI toolchain"]
-source: "https://github.com/astephenson660-lgtm/claude-plugin-hub"
-discovered_at: "2026-06-23T02:41:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- plugin management
+- multi-model AI
+- API integration
+- unified marketplace
+- AI toolchain
+source: https://github.com/astephenson660-lgtm/claude-plugin-hub
+discovered_at: '2026-06-23T02:41:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

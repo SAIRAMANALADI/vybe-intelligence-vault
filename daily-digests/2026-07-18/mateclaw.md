@@ -1,13 +1,22 @@
 ---
-title: "Moon7515/mateclaw"
-category: "Agent Framework"
-tech_stack: ["Java", "Spring AI Alibaba", "MCP (Model Context Protocol)", "Windows Desktop App"]
+title: Moon7515/mateclaw
+category: daily-digests/2026-07-18
+tech_stack:
+- Java
+- Spring AI Alibaba
+- MCP (Model Context Protocol)
+- Windows Desktop App
 quality_score: 6
 rag_relevance: 7
-tags: ["AI assistant", "multi-agent orchestration", "personal knowledge management", "MCP integration", "Windows desktop"]
-source: "https://github.com/Moon7515/mateclaw"
-discovered_at: "2026-07-13T22:55:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI assistant
+- multi-agent orchestration
+- personal knowledge management
+- MCP integration
+- Windows desktop
+source: https://github.com/Moon7515/mateclaw
+discovered_at: '2026-07-13T22:55:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

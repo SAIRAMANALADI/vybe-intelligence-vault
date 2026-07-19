@@ -1,13 +1,24 @@
 ---
-title: "AhmedLaminou/GoogleDocsMCPServer"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Google OAuth", "FastAPI", "SSE (Server-Sent Events)", "VS Code Extension"]
+title: AhmedLaminou/GoogleDocsMCPServer
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Google OAuth
+- FastAPI
+- SSE (Server-Sent Events)
+- VS Code Extension
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP server", "Google Docs integration", "OAuth authentication", "document processing", "AI client tooling"]
-source: "https://github.com/AhmedLaminou/GoogleDocsMCPServer"
-discovered_at: "2026-06-24T22:18:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Google Docs integration
+- OAuth authentication
+- document processing
+- AI client tooling
+source: https://github.com/AhmedLaminou/GoogleDocsMCPServer
+discovered_at: '2026-06-24T22:18:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

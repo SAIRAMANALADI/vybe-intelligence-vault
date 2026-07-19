@@ -1,13 +1,25 @@
 ---
-title: "ictseoyoungmin/HADARA"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "CLI", "Markdown", "JSON", "Evidence Logging", "Document Governance"]
+title: ictseoyoungmin/HADARA
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- Markdown
+- JSON
+- Evidence Logging
+- Document Governance
 quality_score: 8
 rag_relevance: 7
-tags: ["agentic development", "evidence-backed workflows", "task capsules", "LLM integration", "document governance"]
-source: "https://github.com/ictseoyoungmin/HADARA"
-discovered_at: "2026-07-08T08:16:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agentic development
+- evidence-backed workflows
+- task capsules
+- LLM integration
+- document governance
+source: https://github.com/ictseoyoungmin/HADARA
+discovered_at: '2026-07-08T08:16:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

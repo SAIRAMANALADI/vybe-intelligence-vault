@@ -1,13 +1,27 @@
 ---
-title: "JuanSPZ/agent-ready-index"
-category: "Tooling"
-tech_stack: ["Python", "PostgreSQL", "Elasticsearch", "MCP (Model Context Protocol)", "REST API", "Docker", "OpenAPI", "ai-plugin Manifest Parser", "llms.txt Parser"]
+title: JuanSPZ/agent-ready-index
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- PostgreSQL
+- Elasticsearch
+- MCP (Model Context Protocol)
+- REST API
+- Docker
+- OpenAPI
+- ai-plugin Manifest Parser
+- llms.txt Parser
 quality_score: 8
 rag_relevance: 9
-tags: ["AI agent readiness", "web indexing", "MCP integration", "OpenAPI discovery", "llms.txt"]
-source: "https://github.com/JuanSPZ/agent-ready-index"
-discovered_at: "2026-06-25T11:42:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent readiness
+- web indexing
+- MCP integration
+- OpenAPI discovery
+- llms.txt
+source: https://github.com/JuanSPZ/agent-ready-index
+discovered_at: '2026-06-25T11:42:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

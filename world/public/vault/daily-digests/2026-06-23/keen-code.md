@@ -1,13 +1,25 @@
 ---
-title: "mochow13/keen-code"
-category: "Agent Framework"
-tech_stack: ["Go", "CLI", "AI Agents", "Markdown", "GitHub Actions", "OAuth", "Shell Scripting"]
+title: mochow13/keen-code
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Go
+- CLI
+- AI Agents
+- Markdown
+- GitHub Actions
+- OAuth
+- Shell Scripting
 quality_score: 9
 rag_relevance: 7
-tags: ["CLI coding agent", "AI-assisted development", "context-efficient", "multi-provider", "minimalist tools"]
-source: "https://github.com/mochow13/keen-code"
-discovered_at: "2026-06-23T10:35:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CLI coding agent
+- AI-assisted development
+- context-efficient
+- multi-provider
+- minimalist tools
+source: https://github.com/mochow13/keen-code
+discovered_at: '2026-06-23T10:35:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

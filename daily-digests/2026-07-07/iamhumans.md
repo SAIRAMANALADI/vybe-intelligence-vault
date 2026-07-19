@@ -1,13 +1,22 @@
 ---
-title: "hoainho/iamhumans"
-category: "Agent Framework"
-tech_stack: ["Markdown", "Python", "GitHub Actions", "MCP (planned)"]
+title: hoainho/iamhumans
+category: daily-digests/2026-07-07
+tech_stack:
+- Markdown
+- Python
+- GitHub Actions
+- MCP (planned)
 quality_score: 9
 rag_relevance: 8
-tags: ["human-like communication", "AI authenticity", "agent skills", "de-AI composition", "conversational presence"]
-source: "https://github.com/hoainho/iamhumans"
-discovered_at: "2026-07-07T13:16:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- human-like communication
+- AI authenticity
+- agent skills
+- de-AI composition
+- conversational presence
+source: https://github.com/hoainho/iamhumans
+discovered_at: '2026-07-07T13:16:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

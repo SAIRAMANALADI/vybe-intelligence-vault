@@ -1,13 +1,22 @@
 ---
-title: "115th-discomfited211/Awesome-Harness-Engineering"
-category: "Tooling"
-tech_stack: ["Markdown", "Windows OS", "GitHub", "ZIP/Archive"]
+title: 115th-discomfited211/Awesome-Harness-Engineering
+category: daily-digests/2026-07-08
+tech_stack:
+- Markdown
+- Windows OS
+- GitHub
+- ZIP/Archive
 quality_score: 6
 rag_relevance: 7
-tags: ["AI agent safety", "harness engineering", "guardrails", "workflow reliability", "production controls"]
-source: "https://github.com/115th-discomfited211/Awesome-Harness-Engineering"
-discovered_at: "2026-07-08T10:59:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent safety
+- harness engineering
+- guardrails
+- workflow reliability
+- production controls
+source: https://github.com/115th-discomfited211/Awesome-Harness-Engineering
+discovered_at: '2026-07-08T10:59:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

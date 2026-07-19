@@ -1,13 +1,27 @@
 ---
-title: "zzet/gortex"
-category: "Orchestrator"
-tech_stack: ["Go", "Tree-sitter", "MCP (Model Context Protocol)", "Graph Database", "CLI (Cobra)", "HTTP Server", "Sigstore", "SLSA 3", "Next.js"]
+title: zzet/gortex
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Go
+- Tree-sitter
+- MCP (Model Context Protocol)
+- Graph Database
+- CLI (Cobra)
+- HTTP Server
+- Sigstore
+- SLSA 3
+- Next.js
 quality_score: 9
 rag_relevance: 10
-tags: ["code intelligence", "graph database", "multi-repository", "MCP server", "token optimization"]
-source: "https://github.com/zzet/gortex"
-discovered_at: "2026-07-08T15:16:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code intelligence
+- graph database
+- multi-repository
+- MCP server
+- token optimization
+source: https://github.com/zzet/gortex
+discovered_at: '2026-07-08T15:16:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

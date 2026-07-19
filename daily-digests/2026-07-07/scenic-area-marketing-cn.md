@@ -1,13 +1,27 @@
 ---
-title: "limuran117-coder/Scenic-Area-Marketing-CN"
-category: "Agent Framework"
-tech_stack: ["OpenClaw AI Agent Framework", "DeepSeek-V4-Flash", "Python", "Playwright", "CDP Browser", "Feishu API", "Obsidian", "CSV Parsing", "Cron Scheduler"]
+title: limuran117-coder/Scenic-Area-Marketing-CN
+category: daily-digests/2026-07-07
+tech_stack:
+- OpenClaw AI Agent Framework
+- DeepSeek-V4-Flash
+- Python
+- Playwright
+- CDP Browser
+- Feishu API
+- Obsidian
+- CSV Parsing
+- Cron Scheduler
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Agent", "Marketing Automation", "Competitive Intelligence", "Knowledge Graph", "Real-Time Analytics"]
-source: "https://github.com/limuran117-coder/Scenic-Area-Marketing-CN"
-discovered_at: "2026-07-07T02:33:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent
+- Marketing Automation
+- Competitive Intelligence
+- Knowledge Graph
+- Real-Time Analytics
+source: https://github.com/limuran117-coder/Scenic-Area-Marketing-CN
+discovered_at: '2026-07-07T02:33:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

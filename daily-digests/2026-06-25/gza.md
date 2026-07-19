@@ -1,13 +1,26 @@
 ---
-title: "mhawthorne/gza"
-category: "Orchestrator"
-tech_stack: ["Python", "Docker", "SQLite", "Claude Code", "OpenAI Codex", "Gemini CLI", "Rich (terminal formatting)", "uv (package manager)"]
+title: mhawthorne/gza
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- Docker
+- SQLite
+- Claude Code
+- OpenAI Codex
+- Gemini CLI
+- Rich (terminal formatting)
+- uv (package manager)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI task automation", "parallel execution", "Docker isolation", "batch workflow", "code agent orchestration"]
-source: "https://github.com/mhawthorne/gza"
-discovered_at: "2026-06-25T17:10:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI task automation
+- parallel execution
+- Docker isolation
+- batch workflow
+- code agent orchestration
+source: https://github.com/mhawthorne/gza
+discovered_at: '2026-06-25T17:10:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

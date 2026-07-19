@@ -1,13 +1,28 @@
 ---
-title: "nikolausm/imap-mcp-server"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "IMAP", "SMTP", "Model Context Protocol (MCP)", "AES-256", "Zod", "Commander", "Open", "OAuth"]
+title: nikolausm/imap-mcp-server
+category: daily-digests/2026-07-16
+tech_stack:
+- TypeScript
+- Node.js
+- IMAP
+- SMTP
+- Model Context Protocol (MCP)
+- AES-256
+- Zod
+- Commander
+- Open
+- OAuth
 quality_score: 9
 rag_relevance: 8
-tags: ["email integration", "MCP server", "IMAP", "AI assistant tools", "secure credential management"]
-source: "https://github.com/nikolausm/imap-mcp-server"
-discovered_at: "2026-07-15T21:59:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- email integration
+- MCP server
+- IMAP
+- AI assistant tools
+- secure credential management
+source: https://github.com/nikolausm/imap-mcp-server
+discovered_at: '2026-07-15T21:59:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "Mona-Alkhatib/dbt-sentinel"
-category: "Tooling"
-tech_stack: ["Python", "Claude Sonnet 4.6", "dbt", "Anthropic SDK", "Pydantic v2", "PyYAML", "Typer", "pytest", "GitHub Actions"]
+title: Mona-Alkhatib/dbt-sentinel
+category: daily-digests/2026-07-16
+tech_stack:
+- Python
+- Claude Sonnet 4.6
+- dbt
+- Anthropic SDK
+- Pydantic v2
+- PyYAML
+- Typer
+- pytest
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["dbt", "AI code review", "data quality", "GitHub Actions", "LLM-powered"]
-source: "https://github.com/Mona-Alkhatib/dbt-sentinel"
-discovered_at: "2026-07-12T22:44:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- dbt
+- AI code review
+- data quality
+- GitHub Actions
+- LLM-powered
+source: https://github.com/Mona-Alkhatib/dbt-sentinel
+discovered_at: '2026-07-12T22:44:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

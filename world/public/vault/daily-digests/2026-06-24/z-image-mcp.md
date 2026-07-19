@@ -1,13 +1,23 @@
 ---
-title: "runapi-ai/z-image-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "RunAPI API", "NPM"]
+title: runapi-ai/z-image-mcp
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- RunAPI API
+- NPM
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP Server", "Image Generation", "RunAPI", "Z Image", "AI Agents"]
-source: "https://github.com/runapi-ai/z-image-mcp"
-discovered_at: "2026-06-24T10:23:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- Image Generation
+- RunAPI
+- Z Image
+- AI Agents
+source: https://github.com/runapi-ai/z-image-mcp
+discovered_at: '2026-06-24T10:23:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

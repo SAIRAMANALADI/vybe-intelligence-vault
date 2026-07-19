@@ -1,13 +1,28 @@
 ---
-title: "cyberspacesec/certificate-skills"
-category: "Tooling"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "CLI", "Skills (AI prompts)", "JSON", "SHA-256/SHA-1/MD5", "PKI", "TLS", "OCSP", "CT Logs"]
+title: cyberspacesec/certificate-skills
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- CLI
+- Skills (AI prompts)
+- JSON
+- SHA-256/SHA-1/MD5
+- PKI
+- TLS
+- OCSP
+- CT Logs
 quality_score: 9
 rag_relevance: 8
-tags: ["certificate security", "PKI", "TLS analysis", "cyberspace mapping", "AI integration"]
-source: "https://github.com/cyberspacesec/certificate-skills"
-discovered_at: "2026-06-24T13:15:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- certificate security
+- PKI
+- TLS analysis
+- cyberspace mapping
+- AI integration
+source: https://github.com/cyberspacesec/certificate-skills
+discovered_at: '2026-06-24T13:15:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

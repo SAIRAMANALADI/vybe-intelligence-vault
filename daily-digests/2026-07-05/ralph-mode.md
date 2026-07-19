@@ -1,13 +1,23 @@
 ---
-title: "Kirbydads/Ralph-Mode"
-category: "Tooling"
-tech_stack: ["JavaScript", "AI/ML", "Static Analysis", "Claude API", "Desktop Application"]
+title: Kirbydads/Ralph-Mode
+category: daily-digests/2026-07-05
+tech_stack:
+- JavaScript
+- AI/ML
+- Static Analysis
+- Claude API
+- Desktop Application
 quality_score: 4
 rag_relevance: 6
-tags: ["code quality", "AI debugging", "static analysis", "automated fixes", "production QA"]
-source: "https://github.com/Kirbydads/Ralph-Mode"
-discovered_at: "2026-07-05T19:12:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code quality
+- AI debugging
+- static analysis
+- automated fixes
+- production QA
+source: https://github.com/Kirbydads/Ralph-Mode
+discovered_at: '2026-07-05T19:12:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

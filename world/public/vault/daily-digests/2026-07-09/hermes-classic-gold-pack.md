@@ -1,13 +1,23 @@
 ---
-title: "Elevatormusic/hermes-classic-gold-pack"
-category: "UI Component"
-tech_stack: ["JavaScript", "Node.js", "Hermes-Agent", "CSS/HTML (theming)", "Shell Scripting"]
+title: Elevatormusic/hermes-classic-gold-pack
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- JavaScript
+- Node.js
+- Hermes-Agent
+- CSS/HTML (theming)
+- Shell Scripting
 quality_score: 9
 rag_relevance: 3
-tags: ["theming", "UI customization", "Hermes-Agent", "cosmetic pack", "desktop agent"]
-source: "https://github.com/Elevatormusic/hermes-classic-gold-pack"
-discovered_at: "2026-07-09T19:30:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- theming
+- UI customization
+- Hermes-Agent
+- cosmetic pack
+- desktop agent
+source: https://github.com/Elevatormusic/hermes-classic-gold-pack
+discovered_at: '2026-07-09T19:30:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

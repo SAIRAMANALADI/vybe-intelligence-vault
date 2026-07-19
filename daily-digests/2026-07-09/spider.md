@@ -1,13 +1,26 @@
 ---
-title: "spider-rs/spider"
-category: "Tooling"
-tech_stack: ["Rust", "Tokio", "Chrome Headless", "HTTP/HTTPS", "WARC", "Markdown", "JSON", "Spider Cloud (Managed Service)"]
+title: spider-rs/spider
+category: daily-digests/2026-07-09
+tech_stack:
+- Rust
+- Tokio
+- Chrome Headless
+- HTTP/HTTPS
+- WARC
+- Markdown
+- JSON
+- Spider Cloud (Managed Service)
 quality_score: 9
 rag_relevance: 9
-tags: ["web scraping", "crawling", "RAG pipeline", "anti-bot", "distributed"]
-source: "https://github.com/spider-rs/spider"
-discovered_at: "2026-07-09T00:05:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web scraping
+- crawling
+- RAG pipeline
+- anti-bot
+- distributed
+source: https://github.com/spider-rs/spider
+discovered_at: '2026-07-09T00:05:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "IkhsanMAlbar/govchain-llm-orchestrator"
-category: "Orchestrator"
-tech_stack: ["Python", "YAML", "CLI", "CI/CD Integration", "AI API Integration (OpenAI, Anthropic)", "Web Dashboard (UI)"]
+title: IkhsanMAlbar/govchain-llm-orchestrator
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- YAML
+- CLI
+- CI/CD Integration
+- AI API Integration (OpenAI, Anthropic)
+- Web Dashboard (UI)
 quality_score: 8
 rag_relevance: 9
-tags: ["AI governance", "code quality enforcement", "compliance automation", "multi-AI assistant integration", "development conventions"]
-source: "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-discovered_at: "2026-07-08T12:24:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI governance
+- code quality enforcement
+- compliance automation
+- multi-AI assistant integration
+- development conventions
+source: https://github.com/IkhsanMAlbar/govchain-llm-orchestrator
+discovered_at: '2026-07-08T12:24:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

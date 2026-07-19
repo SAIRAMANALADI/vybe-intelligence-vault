@@ -1,13 +1,28 @@
 ---
-title: "bzcsk2/deepreef"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "Ink", "React", "Node.js", "OpenAI-compatible APIs", "MCP (Model Context Protocol)", "AsyncGenerator", "CLI/TUI", "Jest (testing)"]
+title: bzcsk2/deepreef
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Bun
+- Ink
+- React
+- Node.js
+- OpenAI-compatible APIs
+- MCP (Model Context Protocol)
+- AsyncGenerator
+- CLI/TUI
+- Jest (testing)
 quality_score: 9
 rag_relevance: 9
-tags: ["agent framework", "supervisor-worker", "low-cost models", "terminal UI", "local LLM"]
-source: "https://github.com/bzcsk2/deepreef"
-discovered_at: "2026-06-25T08:28:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent framework
+- supervisor-worker
+- low-cost models
+- terminal UI
+- local LLM
+source: https://github.com/bzcsk2/deepreef
+discovered_at: '2026-06-25T08:28:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,29 @@
 ---
-title: "HarperZ9/gather"
-category: "Tooling"
-tech_stack: ["Python", "lxml", "Playwright", "tesseract-ocr", "whisper", "yt-dlp", "curl_cffi", "JSON", "HTML", "Markdown", "SHA-256"]
+title: HarperZ9/gather
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- lxml
+- Playwright
+- tesseract-ocr
+- whisper
+- yt-dlp
+- curl_cffi
+- JSON
+- HTML
+- Markdown
+- SHA-256
 quality_score: 9
 rag_relevance: 10
-tags: ["research intake", "data extraction", "provenance tracking", "content verification", "multi-source aggregation"]
-source: "https://github.com/HarperZ9/gather"
-discovered_at: "2026-07-07T16:26:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- research intake
+- data extraction
+- provenance tracking
+- content verification
+- multi-source aggregation
+source: https://github.com/HarperZ9/gather
+discovered_at: '2026-07-07T16:26:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

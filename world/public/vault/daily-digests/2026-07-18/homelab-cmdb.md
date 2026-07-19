@@ -1,13 +1,28 @@
 ---
-title: "osaljehani/homelab-cmdb"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "Ansible", "Docker", "Kubernetes", "Trivy", "HTMX", "Cytoscape.js", "FastAPI", "MCP (Model Context Protocol)"]
+title: osaljehani/homelab-cmdb
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- Python
+- SQLite
+- Ansible
+- Docker
+- Kubernetes
+- Trivy
+- HTMX
+- Cytoscape.js
+- FastAPI
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 7
-tags: ["CMDB", "Homelab", "Vulnerability Tracking", "Topology Visualization", "LLM Integration"]
-source: "https://github.com/osaljehani/homelab-cmdb"
-discovered_at: "2026-07-11T16:56:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CMDB
+- Homelab
+- Vulnerability Tracking
+- Topology Visualization
+- LLM Integration
+source: https://github.com/osaljehani/homelab-cmdb
+discovered_at: '2026-07-11T16:56:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "chquandogong/Quetzalcoatl"
-category: "Orchestrator"
-tech_stack: ["Claude Code", "Claude Skills", "Markdown", "Git", "GitHub Actions", "HTML", "LLM (Model-Neutral)"]
+title: chquandogong/Quetzalcoatl
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Claude Code
+- Claude Skills
+- Markdown
+- Git
+- GitHub Actions
+- HTML
+- LLM (Model-Neutral)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI project management", "meaning-first validation", "workflow automation", "LLM orchestration", "systematic decision-making"]
-source: "https://github.com/chquandogong/Quetzalcoatl"
-discovered_at: "2026-06-23T08:53:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI project management
+- meaning-first validation
+- workflow automation
+- LLM orchestration
+- systematic decision-making
+source: https://github.com/chquandogong/Quetzalcoatl
+discovered_at: '2026-06-23T08:53:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

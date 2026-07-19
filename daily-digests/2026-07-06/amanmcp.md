@@ -1,13 +1,21 @@
 ---
-title: "sampi02/amanmcp"
-category: "Tooling"
-tech_stack: ["C", "RAG", "Local Search"]
+title: sampi02/amanmcp
+category: daily-digests/2026-07-06
+tech_stack:
+- C
+- RAG
+- Local Search
 quality_score: 5
 rag_relevance: 7
-tags: ["local RAG", "code search", "privacy-first", "zero-config", "codebase query"]
-source: "https://github.com/sampi02/amanmcp"
-discovered_at: "2026-07-06T21:26:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local RAG
+- code search
+- privacy-first
+- zero-config
+- codebase query
+source: https://github.com/sampi02/amanmcp
+discovered_at: '2026-07-06T21:26:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "K3Tamaa/Vector-Forge"
-category: "Vector DB"
-tech_stack: ["Python", "RAG", "Semantic Search", "Document Processing", "Local Hosting"]
+title: K3Tamaa/Vector-Forge
+category: world/public/vault/daily-digests/2026-07-05
+tech_stack:
+- Python
+- RAG
+- Semantic Search
+- Document Processing
+- Local Hosting
 quality_score: 3
 rag_relevance: 8
-tags: ["RAG", "semantic search", "document understanding", "local hosting", "modular"]
-source: "https://github.com/K3Tamaa/Vector-Forge"
-discovered_at: "2026-07-05T21:57:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RAG
+- semantic search
+- document understanding
+- local hosting
+- modular
+source: https://github.com/K3Tamaa/Vector-Forge
+discovered_at: '2026-07-05T21:57:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

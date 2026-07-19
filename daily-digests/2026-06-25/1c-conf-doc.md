@@ -1,13 +1,29 @@
 ---
-title: "gybson63/1c-conf-doc"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "SQLite", "FAISS", "sentence-transformers", "Docker", "MCP (Model Context Protocol)", "Ollama", "OpenAI API", "Pydantic", "SQLModel"]
+title: gybson63/1c-conf-doc
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- FAISS
+- sentence-transformers
+- Docker
+- MCP (Model Context Protocol)
+- Ollama
+- OpenAI API
+- Pydantic
+- SQLModel
 quality_score: 9
 rag_relevance: 8
-tags: ["1C:Enterprise", "\u0441\u0435\u043c\u0430\u043d\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u043e\u0438\u0441\u043a", "MCP-\u0441\u0435\u0440\u0432\u0435\u0440", "\u0438\u043d\u0434\u0435\u043a\u0441\u0430\u0446\u0438\u044f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u0438", "RAG"]
-source: "https://github.com/gybson63/1c-conf-doc"
-discovered_at: "2026-06-25T17:13:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- 1C:Enterprise
+- семантический поиск
+- MCP-сервер
+- индексация документации
+- RAG
+source: https://github.com/gybson63/1c-conf-doc
+discovered_at: '2026-06-25T17:13:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

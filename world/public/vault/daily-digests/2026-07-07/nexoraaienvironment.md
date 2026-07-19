@@ -1,13 +1,29 @@
 ---
-title: "mutlukurt/NexoraAIEnvironment"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Electron", "node-llama-cpp", "llama.cpp", "React", "Vite", "Tailwind CSS", "TypeScript Language Service", "CDP Debugger", "GBNF Grammar", "GGUF Models"]
+title: mutlukurt/NexoraAIEnvironment
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Electron
+- node-llama-cpp
+- llama.cpp
+- React
+- Vite
+- Tailwind CSS
+- TypeScript Language Service
+- CDP Debugger
+- GBNF Grammar
+- GGUF Models
 quality_score: 9
 rag_relevance: 8
-tags: ["local-first", "agentic development", "GGUF models", "desktop AI", "web project generation"]
-source: "https://github.com/mutlukurt/NexoraAIEnvironment"
-discovered_at: "2026-07-07T22:08:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first
+- agentic development
+- GGUF models
+- desktop AI
+- web project generation
+source: https://github.com/mutlukurt/NexoraAIEnvironment
+discovered_at: '2026-07-07T22:08:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

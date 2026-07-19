@@ -1,13 +1,22 @@
 ---
-title: "Businesseditorexternalorgan481/claude-peers-mcp"
-category: "Tooling"
-tech_stack: ["Windows", "Claude Code", "MCP (Message Passing Protocol)", "Python (implied by MCP usage)"]
+title: Businesseditorexternalorgan481/claude-peers-mcp
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Windows
+- Claude Code
+- MCP (Message Passing Protocol)
+- Python (implied by MCP usage)
 quality_score: 6
 rag_relevance: 5
-tags: ["Claude Code", "message passing", "multi-session", "Windows tool", "agent collaboration"]
-source: "https://github.com/Businesseditorexternalorgan481/claude-peers-mcp"
-discovered_at: "2026-07-07T23:56:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- message passing
+- multi-session
+- Windows tool
+- agent collaboration
+source: https://github.com/Businesseditorexternalorgan481/claude-peers-mcp
+discovered_at: '2026-07-07T23:56:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

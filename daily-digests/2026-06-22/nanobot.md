@@ -1,13 +1,29 @@
 ---
-title: "HKUDS/nanobot"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "LangChain", "MCP (Model Context Protocol)", "SQLite", "Docker", "React", "TypeScript", "WebSockets", "OAuth", "Celery"]
+title: HKUDS/nanobot
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- FastAPI
+- LangChain
+- MCP (Model Context Protocol)
+- SQLite
+- Docker
+- React
+- TypeScript
+- WebSockets
+- OAuth
+- Celery
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agents", "personal automation", "multi-channel chat", "MCP integration", "lightweight"]
-source: "https://github.com/HKUDS/nanobot"
-discovered_at: "2026-06-22T15:48:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- personal automation
+- multi-channel chat
+- MCP integration
+- lightweight
+source: https://github.com/HKUDS/nanobot
+discovered_at: '2026-06-22T15:48:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

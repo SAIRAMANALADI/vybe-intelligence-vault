@@ -1,13 +1,27 @@
 ---
-title: "cablate/finance-viewer"
-category: "Tooling"
-tech_stack: ["Next.js", "React", "TypeScript", "SQLite", "Tailwind CSS", "shadcn/ui", "Node.js", "AI Agents (bring your own)", "Mermaid.js (for diagrams)"]
+title: cablate/finance-viewer
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- Next.js
+- React
+- TypeScript
+- SQLite
+- Tailwind CSS
+- shadcn/ui
+- Node.js
+- AI Agents (bring your own)
+- Mermaid.js (for diagrams)
 quality_score: 9
 rag_relevance: 7
-tags: ["local-first", "financial data processing", "AI-human collaboration", "transaction classification", "audit trail"]
-source: "https://github.com/cablate/finance-viewer"
-discovered_at: "2026-07-10T13:10:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first
+- financial data processing
+- AI-human collaboration
+- transaction classification
+- audit trail
+source: https://github.com/cablate/finance-viewer
+discovered_at: '2026-07-10T13:10:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

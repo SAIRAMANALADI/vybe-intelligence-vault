@@ -1,13 +1,21 @@
 ---
-title: "NachaFromMars/sendclaw"
-category: "Tooling"
-tech_stack: ["REST API", "Email Management", "OpenClaw Skill Ecosystem"]
+title: NachaFromMars/sendclaw
+category: daily-digests/2026-06-23
+tech_stack:
+- REST API
+- Email Management
+- OpenClaw Skill Ecosystem
 quality_score: 7
 rag_relevance: 6
-tags: ["email API", "AI agent tools", "email automation", "OpenClaw", "agent communication"]
-source: "https://github.com/NachaFromMars/sendclaw"
-discovered_at: "2026-06-23T06:46:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- email API
+- AI agent tools
+- email automation
+- OpenClaw
+- agent communication
+source: https://github.com/NachaFromMars/sendclaw
+discovered_at: '2026-06-23T06:46:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

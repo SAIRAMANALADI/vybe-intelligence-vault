@@ -1,13 +1,26 @@
 ---
-title: "withqwerty/football-docs"
-category: "Tooling"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "SQLite", "Node.js", "npm", "GitHub Actions", "Markdown", "Natural Language Processing (NLP)"]
+title: withqwerty/football-docs
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- SQLite
+- Node.js
+- npm
+- GitHub Actions
+- Markdown
+- Natural Language Processing (NLP)
 quality_score: 9
 rag_relevance: 10
-tags: ["football data", "AI documentation", "MCP server", "data provider index", "RAG optimization"]
-source: "https://github.com/withqwerty/football-docs"
-discovered_at: "2026-07-09T14:45:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- football data
+- AI documentation
+- MCP server
+- data provider index
+- RAG optimization
+source: https://github.com/withqwerty/football-docs
+discovered_at: '2026-07-09T14:45:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

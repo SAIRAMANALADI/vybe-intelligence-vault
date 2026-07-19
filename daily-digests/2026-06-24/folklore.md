@@ -1,13 +1,27 @@
 ---
-title: "usefolklore/folklore"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "libp2p", "ONNX Runtime", "BM25", "Vector Embeddings", "Cross-Encoder Reranking", "Graph Databases", "PreToolUse/PostToolUse Hooks", "BEIR Benchmarking"]
+title: usefolklore/folklore
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- libp2p
+- ONNX Runtime
+- BM25
+- Vector Embeddings
+- Cross-Encoder Reranking
+- Graph Databases
+- PreToolUse/PostToolUse Hooks
+- BEIR Benchmarking
 quality_score: 9
 rag_relevance: 10
-tags: ["peer-to-peer", "memory caching", "RAG optimization", "local-first", "provenance tracking"]
-source: "https://github.com/usefolklore/folklore"
-discovered_at: "2026-06-24T10:26:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- peer-to-peer
+- memory caching
+- RAG optimization
+- local-first
+- provenance tracking
+source: https://github.com/usefolklore/folklore
+discovered_at: '2026-06-24T10:26:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "open-agreements/open-agreements"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "DOCX generation libraries", "REST APIs", "GitHub Actions", "Mermaid.js"]
+title: open-agreements/open-agreements
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- DOCX generation libraries
+- REST APIs
+- GitHub Actions
+- Mermaid.js
 quality_score: 9
 rag_relevance: 7
-tags: ["legal automation", "document generation", "MCP server", "AI agent integration", "contract templates"]
-source: "https://github.com/open-agreements/open-agreements"
-discovered_at: "2026-06-25T11:43:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- legal automation
+- document generation
+- MCP server
+- AI agent integration
+- contract templates
+source: https://github.com/open-agreements/open-agreements
+discovered_at: '2026-06-25T11:43:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

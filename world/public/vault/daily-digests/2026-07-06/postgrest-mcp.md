@@ -1,13 +1,24 @@
 ---
-title: "MOHITGITAI/postgrest-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "PostgREST", "OAuth2", "Deno", "Supabase Functions", "Neon Data API"]
+title: MOHITGITAI/postgrest-mcp
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- PostgREST
+- OAuth2
+- Deno
+- Supabase Functions
+- Neon Data API
 quality_score: 6
 rag_relevance: 7
-tags: ["PostgREST", "MCP Server", "OAuth2", "Supabase", "Neon"]
-source: "https://github.com/MOHITGITAI/postgrest-mcp"
-discovered_at: "2026-07-06T21:26:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- PostgREST
+- MCP Server
+- OAuth2
+- Supabase
+- Neon
+source: https://github.com/MOHITGITAI/postgrest-mcp
+discovered_at: '2026-07-06T21:26:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

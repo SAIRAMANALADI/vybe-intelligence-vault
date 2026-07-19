@@ -1,13 +1,26 @@
 ---
-title: "Cavibora/bugbuster-code"
-category: "Agent Framework"
-tech_stack: ["Go", "LLM APIs (OpenAI, Anthropic, Ollama, etc.)", "YAML", "Terminal UI", "Multimodal (screenshots, voice, vision)", "MCP (Model Context Protocol)", "Whisper (STT)", "OpenAI TTS"]
+title: Cavibora/bugbuster-code
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- Go
+- LLM APIs (OpenAI, Anthropic, Ollama, etc.)
+- YAML
+- Terminal UI
+- Multimodal (screenshots, voice, vision)
+- MCP (Model Context Protocol)
+- Whisper (STT)
+- OpenAI TTS
 quality_score: 9
 rag_relevance: 8
-tags: ["AI coding agent", "model-agnostic", "multimodal", "terminal-based", "LLM tooling"]
-source: "https://github.com/Cavibora/bugbuster-code"
-discovered_at: "2026-07-15T02:12:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding agent
+- model-agnostic
+- multimodal
+- terminal-based
+- LLM tooling
+source: https://github.com/Cavibora/bugbuster-code
+discovered_at: '2026-07-15T02:12:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

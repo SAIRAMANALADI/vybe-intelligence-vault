@@ -1,13 +1,27 @@
 ---
-title: "blisspixel/primr"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "LLM APIs (Gemini, Grok, XAI)", "DNS reconnaissance tools", "Web scraping (browser rendering, TLS fingerprinting, vision extraction)", "Job board APIs (Greenhouse, Lever, Ashby, etc.)", "Markdown/DOCX/PDF generation", "Claude Skills integration", "OpenClaw integration"]
+title: blisspixel/primr
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- LLM APIs (Gemini, Grok, XAI)
+- DNS reconnaissance tools
+- Web scraping (browser rendering, TLS fingerprinting, vision extraction)
+- Job board APIs (Greenhouse, Lever, Ashby, etc.)
+- Markdown/DOCX/PDF generation
+- Claude Skills integration
+- OpenClaw integration
 quality_score: 9
 rag_relevance: 7
-tags: ["company research", "strategic intelligence", "DNS reconnaissance", "job posting analysis", "AI-powered synthesis"]
-source: "https://github.com/blisspixel/primr"
-discovered_at: "2026-06-25T14:20:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- company research
+- strategic intelligence
+- DNS reconnaissance
+- job posting analysis
+- AI-powered synthesis
+source: https://github.com/blisspixel/primr
+discovered_at: '2026-06-25T14:20:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

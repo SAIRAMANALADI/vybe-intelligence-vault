@@ -1,13 +1,25 @@
 ---
-title: "dirtysouthalpha/sentinel-desktop"
-category: "Tooling"
-tech_stack: ["Python", "CustomTkinter", "PyAutoGUI", "psutil", "requests", "Neuralis Brain API", "Pytest"]
+title: dirtysouthalpha/sentinel-desktop
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- CustomTkinter
+- PyAutoGUI
+- psutil
+- requests
+- Neuralis Brain API
+- Pytest
 quality_score: 8
 rag_relevance: 6
-tags: ["desktop automation", "AI assistant", "system monitoring", "multi-agent orchestration", "Windows automation"]
-source: "https://github.com/dirtysouthalpha/sentinel-desktop"
-discovered_at: "2026-06-23T23:06:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- desktop automation
+- AI assistant
+- system monitoring
+- multi-agent orchestration
+- Windows automation
+source: https://github.com/dirtysouthalpha/sentinel-desktop
+discovered_at: '2026-06-23T23:06:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

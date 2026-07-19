@@ -1,13 +1,22 @@
 ---
-title: "Pintaro/mem0"
-category: "Tooling"
-tech_stack: ["Python", "Electron (assumed for desktop app)", "SQLite (assumed for memory storage)", "Cross-platform UI"]
+title: Pintaro/mem0
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Electron (assumed for desktop app)
+- SQLite (assumed for memory storage)
+- Cross-platform UI
 quality_score: 5
 rag_relevance: 7
-tags: ["memory management", "AI agents", "long-term memory", "desktop application", "cross-platform"]
-source: "https://github.com/Pintaro/mem0"
-discovered_at: "2026-06-24T13:23:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory management
+- AI agents
+- long-term memory
+- desktop application
+- cross-platform
+source: https://github.com/Pintaro/mem0
+discovered_at: '2026-06-24T13:23:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "ChristopherSims/agentic-word"
-category: "UI Component"
-tech_stack: ["Electron", "React 18", "TypeScript", "TipTap", "Material-UI (MUI)", "Zustand", "Yjs CRDT", "Rust (napi-rs)", "WebSocket", "SSE Streaming"]
+title: ChristopherSims/agentic-word
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Electron
+- React 18
+- TypeScript
+- TipTap
+- Material-UI (MUI)
+- Zustand
+- Yjs CRDT
+- Rust (napi-rs)
+- WebSocket
+- SSE Streaming
 quality_score: 9
 rag_relevance: 6
-tags: ["document editor", "AI writing assistant", "version control", "real-time collaboration", "plugin ecosystem"]
-source: "https://github.com/ChristopherSims/agentic-word"
-discovered_at: "2026-07-06T23:02:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- document editor
+- AI writing assistant
+- version control
+- real-time collaboration
+- plugin ecosystem
+source: https://github.com/ChristopherSims/agentic-word
+discovered_at: '2026-07-06T23:02:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

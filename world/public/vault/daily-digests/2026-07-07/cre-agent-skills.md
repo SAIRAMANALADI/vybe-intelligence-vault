@@ -1,13 +1,24 @@
 ---
-title: "XAKLESK/cre-agent-skills"
-category: "Tooling"
-tech_stack: ["AI Skill Files", "Prompt Engineering", "Commercial Real Estate (CRE) Analysis", "Financial Modeling", "Underwriting Tools", "Due Diligence Automation"]
+title: XAKLESK/cre-agent-skills
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- AI Skill Files
+- Prompt Engineering
+- Commercial Real Estate (CRE) Analysis
+- Financial Modeling
+- Underwriting Tools
+- Due Diligence Automation
 quality_score: 7
 rag_relevance: 8
-tags: ["commercial real estate", "AI skills", "underwriting", "due diligence", "financial modeling"]
-source: "https://github.com/XAKLESK/cre-agent-skills"
-discovered_at: "2026-07-07T06:43:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- commercial real estate
+- AI skills
+- underwriting
+- due diligence
+- financial modeling
+source: https://github.com/XAKLESK/cre-agent-skills
+discovered_at: '2026-07-07T06:43:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

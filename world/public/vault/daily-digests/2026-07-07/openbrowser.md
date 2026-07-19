@@ -1,13 +1,22 @@
 ---
-title: "Lycoperdonbactericide741/Openbrowser"
-category: "Tooling"
-tech_stack: ["Windows Native", "C++/C# (inferred)", "Electron (possible)", "WebView (possible)"]
+title: Lycoperdonbactericide741/Openbrowser
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Windows Native
+- C++/C# (inferred)
+- Electron (possible)
+- WebView (possible)
 quality_score: 5
 rag_relevance: 7
-tags: ["browser automation", "agent tools", "structured browsing", "Windows application", "semantic state"]
-source: "https://github.com/Lycoperdonbactericide741/Openbrowser"
-discovered_at: "2026-07-07T06:41:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- agent tools
+- structured browsing
+- Windows application
+- semantic state
+source: https://github.com/Lycoperdonbactericide741/Openbrowser
+discovered_at: '2026-07-07T06:41:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

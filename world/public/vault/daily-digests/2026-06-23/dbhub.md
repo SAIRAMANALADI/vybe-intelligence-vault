@@ -1,13 +1,27 @@
 ---
-title: "bytebase/dbhub"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "PostgreSQL", "MySQL", "SQL Server", "SQLite", "MariaDB", "Docker"]
+title: bytebase/dbhub
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- PostgreSQL
+- MySQL
+- SQL Server
+- SQLite
+- MariaDB
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "database gateway", "multi-database", "token-efficient", "DevSecOps"]
-source: "https://github.com/bytebase/dbhub"
-discovered_at: "2026-06-23T16:32:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- database gateway
+- multi-database
+- token-efficient
+- DevSecOps
+source: https://github.com/bytebase/dbhub
+discovered_at: '2026-06-23T16:32:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

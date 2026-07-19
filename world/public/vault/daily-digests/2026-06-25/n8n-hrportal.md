@@ -1,13 +1,25 @@
 ---
-title: "alfredang/n8n-hrportal"
-category: "Orchestrator"
-tech_stack: ["n8n", "OpenAI", "HTML5", "JavaScript", "Gmail API", "LLM Guardrails", "Webhooks"]
+title: alfredang/n8n-hrportal
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- n8n
+- OpenAI
+- HTML5
+- JavaScript
+- Gmail API
+- LLM Guardrails
+- Webhooks
 quality_score: 8
 rag_relevance: 7
-tags: ["HR automation", "n8n workflows", "LLM guardrails", "self-service portal", "OpenAI integration"]
-source: "https://github.com/alfredang/n8n-hrportal"
-discovered_at: "2026-06-25T05:04:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- HR automation
+- n8n workflows
+- LLM guardrails
+- self-service portal
+- OpenAI integration
+source: https://github.com/alfredang/n8n-hrportal
+discovered_at: '2026-06-25T05:04:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

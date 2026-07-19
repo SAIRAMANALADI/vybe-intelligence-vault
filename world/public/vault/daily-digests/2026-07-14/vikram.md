@@ -1,13 +1,27 @@
 ---
-title: "Vatthu/vikram"
-category: "Agent Framework"
-tech_stack: ["Go", "Python", "Git", "LLM Providers (OpenAI, Anthropic, Google, etc.)", "Property-Based Testing", "Formal Verification", "Unix Domain Sockets", "Telemetry & Observability", "YAML/JSON Configuration"]
+title: Vatthu/vikram
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- Go
+- Python
+- Git
+- LLM Providers (OpenAI, Anthropic, Google, etc.)
+- Property-Based Testing
+- Formal Verification
+- Unix Domain Sockets
+- Telemetry & Observability
+- YAML/JSON Configuration
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous agents", "self-hosted", "formal verification", "governance policies", "multi-repository"]
-source: "https://github.com/Vatthu/vikram"
-discovered_at: "2026-07-11T20:09:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- self-hosted
+- formal verification
+- governance policies
+- multi-repository
+source: https://github.com/Vatthu/vikram
+discovered_at: '2026-07-11T20:09:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

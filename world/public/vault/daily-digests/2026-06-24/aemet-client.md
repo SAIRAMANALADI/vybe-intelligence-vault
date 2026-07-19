@@ -1,13 +1,22 @@
 ---
-title: "Alysiadeceptive64/aemet-client"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "AEMET OpenData API", "Windows Installer"]
+title: Alysiadeceptive64/aemet-client
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- AEMET OpenData API
+- Windows Installer
 quality_score: 6
 rag_relevance: 7
-tags: ["weather data", "MCP server", "AEMET API", "AI tool integration", "local processing"]
-source: "https://github.com/Alysiadeceptive64/aemet-client"
-discovered_at: "2026-06-24T22:17:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- weather data
+- MCP server
+- AEMET API
+- AI tool integration
+- local processing
+source: https://github.com/Alysiadeceptive64/aemet-client
+discovered_at: '2026-06-24T22:17:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "TencentCloudCommunity/mcp-server"
-category: "Tooling"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "Node.js", "Python", "TencentCloud APIs", "STDIO", "RESTful APIs"]
+title: TencentCloudCommunity/mcp-server
+category: daily-digests/2026-07-08
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- Node.js
+- Python
+- TencentCloud APIs
+- STDIO
+- RESTful APIs
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP", "TencentCloud", "Cloud Integration", "AI Development", "Infrastructure Management"]
-source: "https://github.com/TencentCloudCommunity/mcp-server"
-discovered_at: "2026-07-08T12:25:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- TencentCloud
+- Cloud Integration
+- AI Development
+- Infrastructure Management
+source: https://github.com/TencentCloudCommunity/mcp-server
+discovered_at: '2026-07-08T12:25:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

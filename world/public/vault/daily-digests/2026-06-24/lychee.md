@@ -1,13 +1,23 @@
 ---
-title: "hermionenoncyclical848/lychee"
-category: "Orchestrator"
-tech_stack: ["Python", "Ollama", "HuggingFace", "Electron (implied by desktop app structure)", "Windows OS"]
+title: hermionenoncyclical848/lychee
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Ollama
+- HuggingFace
+- Electron (implied by desktop app structure)
+- Windows OS
 quality_score: 7
 rag_relevance: 8
-tags: ["local LLM", "model management", "agent orchestration", "privacy-focused", "desktop AI"]
-source: "https://github.com/hermionenoncyclical848/lychee"
-discovered_at: "2026-06-24T06:49:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local LLM
+- model management
+- agent orchestration
+- privacy-focused
+- desktop AI
+source: https://github.com/hermionenoncyclical848/lychee
+discovered_at: '2026-06-24T06:49:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

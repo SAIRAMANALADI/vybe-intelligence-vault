@@ -1,13 +1,23 @@
 ---
-title: "Preservative-bowels37/Super-ai-agent"
-category: "Agent Framework"
-tech_stack: ["Spring Boot", "Spring AI", "Vue.js", "Java", "JavaScript"]
+title: Preservative-bowels37/Super-ai-agent
+category: daily-digests/2026-07-07
+tech_stack:
+- Spring Boot
+- Spring AI
+- Vue.js
+- Java
+- JavaScript
 quality_score: 3
 rag_relevance: 7
-tags: ["AI agents", "RAG", "Spring Boot", "Vue.js", "document processing"]
-source: "https://github.com/Preservative-bowels37/Super-ai-agent"
-discovered_at: "2026-07-07T20:51:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- RAG
+- Spring Boot
+- Vue.js
+- document processing
+source: https://github.com/Preservative-bowels37/Super-ai-agent
+discovered_at: '2026-07-07T20:51:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

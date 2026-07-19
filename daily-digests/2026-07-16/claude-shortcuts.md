@@ -1,13 +1,22 @@
 ---
-title: "0xSerachu/claude-shortcuts"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "Windows", "HTML/CSS"]
+title: 0xSerachu/claude-shortcuts
+category: daily-digests/2026-07-16
+tech_stack:
+- TypeScript
+- Electron
+- Windows
+- HTML/CSS
 quality_score: 6
 rag_relevance: 3
-tags: ["shortcut learning", "Claude Code", "interactive quizzes", "Windows utility", "productivity tool"]
-source: "https://github.com/0xSerachu/claude-shortcuts"
-discovered_at: "2026-07-13T20:14:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- shortcut learning
+- Claude Code
+- interactive quizzes
+- Windows utility
+- productivity tool
+source: https://github.com/0xSerachu/claude-shortcuts
+discovered_at: '2026-07-13T20:14:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

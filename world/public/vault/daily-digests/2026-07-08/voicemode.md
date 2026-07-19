@@ -1,13 +1,27 @@
 ---
-title: "mbailey/voicemode"
-category: "Tooling"
-tech_stack: ["Python", "Whisper.cpp", "Kokoro TTS", "PortAudio", "FFmpeg", "Claude Code", "MCP (Model Context Protocol)", "UV (package manager)", "NixOS"]
+title: mbailey/voicemode
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- Whisper.cpp
+- Kokoro TTS
+- PortAudio
+- FFmpeg
+- Claude Code
+- MCP (Model Context Protocol)
+- UV (package manager)
+- NixOS
 quality_score: 9
 rag_relevance: 7
-tags: ["voice interface", "AI agent integration", "speech-to-text", "text-to-speech", "hands-free coding"]
-source: "https://github.com/mbailey/voicemode"
-discovered_at: "2026-07-08T17:26:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- voice interface
+- AI agent integration
+- speech-to-text
+- text-to-speech
+- hands-free coding
+source: https://github.com/mbailey/voicemode
+discovered_at: '2026-07-08T17:26:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

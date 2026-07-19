@@ -1,13 +1,23 @@
 ---
-title: "racehooks/racehooks-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "OAuth 2.0", "REST API"]
+title: racehooks/racehooks-mcp
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- OAuth 2.0
+- REST API
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP server", "motorsport analytics", "live timing data", "AI assistant integration", "webhook management"]
-source: "https://github.com/racehooks/racehooks-mcp"
-discovered_at: "2026-07-14T20:09:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- motorsport analytics
+- live timing data
+- AI assistant integration
+- webhook management
+source: https://github.com/racehooks/racehooks-mcp
+discovered_at: '2026-07-14T20:09:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

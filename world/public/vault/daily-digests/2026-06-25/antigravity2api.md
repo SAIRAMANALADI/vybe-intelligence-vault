@@ -1,13 +1,22 @@
 ---
-title: "anshulrules/Antigravity2Api"
-category: "Tooling"
-tech_stack: ["JavaScript", "API Integration", "MCP (Model Context Protocol)", "CLI/Executable"]
+title: anshulrules/Antigravity2Api
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- JavaScript
+- API Integration
+- MCP (Model Context Protocol)
+- CLI/Executable
 quality_score: 5
 rag_relevance: 6
-tags: ["API unification", "Claude integration", "Gemini integration", "MCP workaround", "structured outputs"]
-source: "https://github.com/anshulrules/Antigravity2Api"
-discovered_at: "2026-06-25T05:02:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- API unification
+- Claude integration
+- Gemini integration
+- MCP workaround
+- structured outputs
+source: https://github.com/anshulrules/Antigravity2Api
+discovered_at: '2026-06-25T05:02:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

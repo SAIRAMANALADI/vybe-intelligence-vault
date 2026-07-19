@@ -1,13 +1,22 @@
 ---
-title: "zhangjhe3004-art/openclaw-free-web-search"
-category: "Tooling"
-tech_stack: ["Database", "Web Scraping", "Natural Language Processing", "Confidence Scoring"]
+title: zhangjhe3004-art/openclaw-free-web-search
+category: daily-digests/2026-07-04
+tech_stack:
+- Database
+- Web Scraping
+- Natural Language Processing
+- Confidence Scoring
 quality_score: 3
 rag_relevance: 7
-tags: ["web search", "verification", "confidence scoring", "multi-source validation", "cost-free"]
-source: "https://github.com/zhangjhe3004-art/openclaw-free-web-search"
-discovered_at: "2026-07-04T13:13:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web search
+- verification
+- confidence scoring
+- multi-source validation
+- cost-free
+source: https://github.com/zhangjhe3004-art/openclaw-free-web-search
+discovered_at: '2026-07-04T13:13:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "gefsikatsinelou/MetaSearchMCP"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "MCP (Model Context Protocol)", "Pydantic", "Docker", "Concurrent programming", "REST APIs", "HTML scraping", "API integrations"]
+title: gefsikatsinelou/MetaSearchMCP
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- FastAPI
+- MCP (Model Context Protocol)
+- Pydantic
+- Docker
+- Concurrent programming
+- REST APIs
+- HTML scraping
+- API integrations
 quality_score: 9
 rag_relevance: 10
-tags: ["metasearch", "MCP server", "multi-provider aggregation", "AI agent tools", "structured search"]
-source: "https://github.com/gefsikatsinelou/MetaSearchMCP"
-discovered_at: "2026-07-07T22:09:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- metasearch
+- MCP server
+- multi-provider aggregation
+- AI agent tools
+- structured search
+source: https://github.com/gefsikatsinelou/MetaSearchMCP
+discovered_at: '2026-07-07T22:09:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

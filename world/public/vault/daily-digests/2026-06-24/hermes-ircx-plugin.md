@@ -1,13 +1,24 @@
 ---
-title: "computator1200/hermes-ircx-plugin"
-category: "Agent Framework"
-tech_stack: ["Python", "IRCv3", "SASL (PLAIN, EXTERNAL, SCRAM-SHA-256, SCRAM-SHA-512)", "irctokens", "ircstates", "Hermes Agent SDK"]
+title: computator1200/hermes-ircx-plugin
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- IRCv3
+- SASL (PLAIN, EXTERNAL, SCRAM-SHA-256, SCRAM-SHA-512)
+- irctokens
+- ircstates
+- Hermes Agent SDK
 quality_score: 9
 rag_relevance: 7
-tags: ["IRCv3", "Hermes Agent", "SASL Authentication", "Channel Agency", "Autonomous Agent"]
-source: "https://github.com/computator1200/hermes-ircx-plugin"
-discovered_at: "2026-06-24T20:46:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- IRCv3
+- Hermes Agent
+- SASL Authentication
+- Channel Agency
+- Autonomous Agent
+source: https://github.com/computator1200/hermes-ircx-plugin
+discovered_at: '2026-06-24T20:46:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "muhzars/Agent.cpp"
-category: "Agent Framework"
-tech_stack: ["C++", "CPU Inference", "Mixture of Agents (MoA)", "Tiny-MoA"]
+title: muhzars/Agent.cpp
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- C++
+- CPU Inference
+- Mixture of Agents (MoA)
+- Tiny-MoA
 quality_score: 5
 rag_relevance: 7
-tags: ["on-device AI", "CPU inference", "Mixture of Agents", "high-performance", "Tiny-MoA"]
-source: "https://github.com/muhzars/Agent.cpp"
-discovered_at: "2026-07-09T00:05:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- on-device AI
+- CPU inference
+- Mixture of Agents
+- high-performance
+- Tiny-MoA
+source: https://github.com/muhzars/Agent.cpp
+discovered_at: '2026-07-09T00:05:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,36 @@
 ---
-title: "DemonDamon/AgenticX"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "React", "Electron", "SQLite", "Redis", "PostgreSQL", "Milvus", "Qdrant", "Chroma", "Faiss", "Neo4j", "Pydantic", "Docker", "MCP", "LiteLLM", "Prometheus", "OpenTelemetry"]
+title: DemonDamon/AgenticX
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- FastAPI
+- React
+- Electron
+- SQLite
+- Redis
+- PostgreSQL
+- Milvus
+- Qdrant
+- Chroma
+- Faiss
+- Neo4j
+- Pydantic
+- Docker
+- MCP
+- LiteLLM
+- Prometheus
+- OpenTelemetry
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent systems", "agent orchestration", "RAG integration", "production-ready", "scalable AI"]
-source: "https://github.com/DemonDamon/AgenticX"
-discovered_at: "2026-07-07T06:41:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- agent orchestration
+- RAG integration
+- production-ready
+- scalable AI
+source: https://github.com/DemonDamon/AgenticX
+discovered_at: '2026-07-07T06:41:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

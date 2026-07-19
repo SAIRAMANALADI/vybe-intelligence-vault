@@ -1,13 +1,28 @@
 ---
-title: "swoofer/mcp-coordinator"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "MQTT (Aedes)", "MCP (Model Context Protocol)", "Docker", "OAuth 2.1", "React (Dashboard)", "Git", "JWT", "CI/CD (GitHub Actions)"]
+title: swoofer/mcp-coordinator
+category: world/public/vault/daily-digests/2026-07-11
+tech_stack:
+- TypeScript
+- Node.js
+- MQTT (Aedes)
+- MCP (Model Context Protocol)
+- Docker
+- OAuth 2.1
+- React (Dashboard)
+- Git
+- JWT
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 9
-tags: ["multi-agent coordination", "conflict resolution", "AI coding agents", "real-time collaboration", "MCP server"]
-source: "https://github.com/swoofer/mcp-coordinator"
-discovered_at: "2026-07-11T16:56:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent coordination
+- conflict resolution
+- AI coding agents
+- real-time collaboration
+- MCP server
+source: https://github.com/swoofer/mcp-coordinator
+discovered_at: '2026-07-11T16:56:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

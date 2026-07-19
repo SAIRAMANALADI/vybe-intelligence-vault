@@ -1,13 +1,25 @@
 ---
-title: "1jehuang/jcode"
-category: "Agent Framework"
-tech_stack: ["Rust", "Python", "Mermaid.js", "Terminal UI", "Embedding Models", "Graph Databases", "LLM APIs"]
+title: 1jehuang/jcode
+category: daily-digests/2026-07-09
+tech_stack:
+- Rust
+- Python
+- Mermaid.js
+- Terminal UI
+- Embedding Models
+- Graph Databases
+- LLM APIs
 quality_score: 9
 rag_relevance: 9
-tags: ["coding agent", "multi-session", "memory system", "performance optimization", "RAG"]
-source: "https://github.com/1jehuang/jcode"
-discovered_at: "2026-07-09T11:52:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- coding agent
+- multi-session
+- memory system
+- performance optimization
+- RAG
+source: https://github.com/1jehuang/jcode
+discovered_at: '2026-07-09T11:52:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

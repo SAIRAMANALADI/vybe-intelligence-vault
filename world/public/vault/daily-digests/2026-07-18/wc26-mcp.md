@@ -1,13 +1,22 @@
 ---
-title: "jordanlyall/wc26-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Node.js", "Docker"]
+title: jordanlyall/wc26-mcp
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Node.js
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "World Cup 2026", "AI Companion", "Static Data", "Tooling"]
-source: "https://github.com/jordanlyall/wc26-mcp"
-discovered_at: "2026-07-14T10:08:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- World Cup 2026
+- AI Companion
+- Static Data
+- Tooling
+source: https://github.com/jordanlyall/wc26-mcp
+discovered_at: '2026-07-14T10:08:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

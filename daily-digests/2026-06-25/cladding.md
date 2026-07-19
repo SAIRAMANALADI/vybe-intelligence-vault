@@ -1,13 +1,27 @@
 ---
-title: "qwerfunch/cladding"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "YAML", "Git Hooks", "CI/CD Pipelines", "Static Analysis", "Testing Frameworks", "MCP Server", "Plugin Architecture"]
+title: qwerfunch/cladding
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- YAML
+- Git Hooks
+- CI/CD Pipelines
+- Static Analysis
+- Testing Frameworks
+- MCP Server
+- Plugin Architecture
 quality_score: 9
 rag_relevance: 10
-tags: ["AI governance", "code verification", "drift detection", "LLM safety", "spec-driven development"]
-source: "https://github.com/qwerfunch/cladding"
-discovered_at: "2026-06-25T14:17:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI governance
+- code verification
+- drift detection
+- LLM safety
+- spec-driven development
+source: https://github.com/qwerfunch/cladding
+discovered_at: '2026-06-25T14:17:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

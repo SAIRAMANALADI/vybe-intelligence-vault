@@ -1,13 +1,27 @@
 ---
-title: "KushalRoyChowdhury/fluxflow-cli"
-category: "Agent Framework"
-tech_stack: ["Node.js", "React", "Ink", "Google GenAI SDK", "DeepSeek API", "OpenRouter API", "NVIDIA API", "TypeScript", "VS Code Extension"]
+title: KushalRoyChowdhury/fluxflow-cli
+category: daily-digests/2026-07-08
+tech_stack:
+- Node.js
+- React
+- Ink
+- Google GenAI SDK
+- DeepSeek API
+- OpenRouter API
+- NVIDIA API
+- TypeScript
+- VS Code Extension
 quality_score: 9
 rag_relevance: 6
-tags: ["autonomous agent", "terminal AI", "IDE integration", "multimodal", "agentic tooling"]
-source: "https://github.com/KushalRoyChowdhury/fluxflow-cli"
-discovered_at: "2026-07-08T21:01:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agent
+- terminal AI
+- IDE integration
+- multimodal
+- agentic tooling
+source: https://github.com/KushalRoyChowdhury/fluxflow-cli
+discovered_at: '2026-07-08T21:01:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

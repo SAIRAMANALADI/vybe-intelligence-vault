@@ -1,13 +1,23 @@
 ---
-title: "tansuasici/claude-code-kit"
-category: "Tooling"
-tech_stack: ["Shell", "JavaScript/TypeScript", "Claude Code", "Bash", "Git Hooks"]
+title: tansuasici/claude-code-kit
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Shell
+- JavaScript/TypeScript
+- Claude Code
+- Bash
+- Git Hooks
 quality_score: 9
 rag_relevance: 7
-tags: ["AI workflow", "code discipline", "Claude Code", "guardrails", "automation"]
-source: "https://github.com/tansuasici/claude-code-kit"
-discovered_at: "2026-07-09T00:05:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI workflow
+- code discipline
+- Claude Code
+- guardrails
+- automation
+source: https://github.com/tansuasici/claude-code-kit
+discovered_at: '2026-07-09T00:05:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

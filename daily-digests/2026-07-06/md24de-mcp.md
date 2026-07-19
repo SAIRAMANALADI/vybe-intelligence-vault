@@ -1,13 +1,27 @@
 ---
-title: "volsch/md24de-mcp"
-category: "Agent Framework"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FastAPI", "python-md24de", "reportlab", "Pillow", "pytest", "ruff", "pyright"]
+title: volsch/md24de-mcp
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FastAPI
+- python-md24de
+- reportlab
+- Pillow
+- pytest
+- ruff
+- pyright
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP server", "energy consumption", "heating data", "hot-water data", "utility portal integration"]
-source: "https://github.com/volsch/md24de-mcp"
-discovered_at: "2026-07-06T21:26:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- energy consumption
+- heating data
+- hot-water data
+- utility portal integration
+source: https://github.com/volsch/md24de-mcp
+discovered_at: '2026-07-06T21:26:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "mitsou55/100-GitHub-Projects-That-Defined-2025"
-category: "Tooling"
-tech_stack: ["Open Source", "AI", "Kubernetes", "Software Development", "Curated Lists"]
+title: mitsou55/100-GitHub-Projects-That-Defined-2025
+category: daily-digests/2026-07-05
+tech_stack:
+- Open Source
+- AI
+- Kubernetes
+- Software Development
+- Curated Lists
 quality_score: 4
 rag_relevance: 3
-tags: ["curated projects", "open source tools", "2025 tech trends", "AI and Kubernetes", "developer resources"]
-source: "https://github.com/mitsou55/100-GitHub-Projects-That-Defined-2025"
-discovered_at: "2026-07-05T19:15:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- curated projects
+- open source tools
+- 2025 tech trends
+- AI and Kubernetes
+- developer resources
+source: https://github.com/mitsou55/100-GitHub-Projects-That-Defined-2025
+discovered_at: '2026-07-05T19:15:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

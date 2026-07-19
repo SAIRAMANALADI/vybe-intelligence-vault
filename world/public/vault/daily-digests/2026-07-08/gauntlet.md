@@ -1,13 +1,26 @@
 ---
-title: "edycutjong/gauntlet"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "PDFKit", "Vitest", "Docker", "CROO SDK", "@edycutjong/croo-core", "Base Mainnet"]
+title: edycutjong/gauntlet
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- PDFKit
+- Vitest
+- Docker
+- CROO SDK
+- '@edycutjong/croo-core'
+- Base Mainnet
 quality_score: 9
 rag_relevance: 9
-tags: ["adversarial testing", "agent certification", "A2A protocol", "on-chain escrow", "security scorecard"]
-source: "https://github.com/edycutjong/gauntlet"
-discovered_at: "2026-07-08T02:06:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- adversarial testing
+- agent certification
+- A2A protocol
+- on-chain escrow
+- security scorecard
+source: https://github.com/edycutjong/gauntlet
+discovered_at: '2026-07-08T02:06:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

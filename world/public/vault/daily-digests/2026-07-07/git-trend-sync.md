@@ -1,13 +1,23 @@
 ---
-title: "juninfxp/git-trend-sync"
-category: "Tooling"
-tech_stack: ["Python", "Windows Desktop App", "GitHub API", "Trend Analysis", "Local File System Scanning"]
+title: juninfxp/git-trend-sync
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Windows Desktop App
+- GitHub API
+- Trend Analysis
+- Local File System Scanning
 quality_score: 6
 rag_relevance: 7
-tags: ["trend discovery", "GitHub matching", "AI tools", "developer productivity", "open-source sync"]
-source: "https://github.com/juninfxp/git-trend-sync"
-discovered_at: "2026-07-07T23:54:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- trend discovery
+- GitHub matching
+- AI tools
+- developer productivity
+- open-source sync
+source: https://github.com/juninfxp/git-trend-sync
+discovered_at: '2026-07-07T23:54:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

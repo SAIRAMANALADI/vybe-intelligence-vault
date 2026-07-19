@@ -1,13 +1,21 @@
 ---
-title: "filariasistrichoglossusmoluccanus49/Alvus"
-category: "Tooling"
-tech_stack: ["Go", "Proxy Server", "Windows Application"]
+title: filariasistrichoglossusmoluccanus49/Alvus
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Go
+- Proxy Server
+- Windows Application
 quality_score: 7
 rag_relevance: 8
-tags: ["API key rotation", "rate limiting", "AI proxy", "local proxy", "Go application"]
-source: "https://github.com/filariasistrichoglossusmoluccanus49/Alvus"
-discovered_at: "2026-06-24T22:14:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- API key rotation
+- rate limiting
+- AI proxy
+- local proxy
+- Go application
+source: https://github.com/filariasistrichoglossusmoluccanus49/Alvus
+discovered_at: '2026-06-24T22:14:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

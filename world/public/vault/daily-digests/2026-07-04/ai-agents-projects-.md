@@ -1,13 +1,23 @@
 ---
-title: "muhammadhussain-2009/AI-Agents-Projects-"
-category: "Agent Framework"
-tech_stack: ["Python", "CrewAI", "Agno", "LangChain", "LangGraph"]
+title: muhammadhussain-2009/AI-Agents-Projects-
+category: world/public/vault/daily-digests/2026-07-04
+tech_stack:
+- Python
+- CrewAI
+- Agno
+- LangChain
+- LangGraph
 quality_score: 4
 rag_relevance: 7
-tags: ["agent-orchestration", "ai-agents", "crewai", "langchain", "agentic-frameworks"]
-source: "https://github.com/muhammadhussain-2009/AI-Agents-Projects-"
-discovered_at: "2026-07-04T18:05:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent-orchestration
+- ai-agents
+- crewai
+- langchain
+- agentic-frameworks
+source: https://github.com/muhammadhussain-2009/AI-Agents-Projects-
+discovered_at: '2026-07-04T18:05:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

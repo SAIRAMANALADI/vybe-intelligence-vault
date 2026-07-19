@@ -1,13 +1,26 @@
 ---
-title: "artokun/comfyui-mcp-panel"
-category: "UI Component"
-tech_stack: ["JavaScript", "ComfyUI", "Claude AI", "ChatGPT (Codex)", "Node.js", "WebSocket", "LiteGraph", "ComfyUI Manager"]
+title: artokun/comfyui-mcp-panel
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- JavaScript
+- ComfyUI
+- Claude AI
+- ChatGPT (Codex)
+- Node.js
+- WebSocket
+- LiteGraph
+- ComfyUI Manager
 quality_score: 9
 rag_relevance: 8
-tags: ["ComfyUI", "AI Agent", "Workflow Automation", "Canvas Editing", "MCP Integration"]
-source: "https://github.com/artokun/comfyui-mcp-panel"
-discovered_at: "2026-07-09T00:05:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- ComfyUI
+- AI Agent
+- Workflow Automation
+- Canvas Editing
+- MCP Integration
+source: https://github.com/artokun/comfyui-mcp-panel
+discovered_at: '2026-07-09T00:05:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

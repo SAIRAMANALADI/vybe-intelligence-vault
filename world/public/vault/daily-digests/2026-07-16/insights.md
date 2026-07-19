@@ -1,13 +1,32 @@
 ---
-title: "l0lsec/Insights"
-category: "Orchestrator"
-tech_stack: ["Python", "Flask", "SQLite", "OpenAI API", "Anthropic API", "Ollama (local models)", "yt-dlp", "faster-whisper/mlx-whisper", "Trafilatura", "OAuth 2.0", "JIRA API", "Unsplash/Pexels/Pixabay APIs", "Cloudinary (optional)", "FFmpeg"]
+title: l0lsec/Insights
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- Python
+- Flask
+- SQLite
+- OpenAI API
+- Anthropic API
+- Ollama (local models)
+- yt-dlp
+- faster-whisper/mlx-whisper
+- Trafilatura
+- OAuth 2.0
+- JIRA API
+- Unsplash/Pexels/Pixabay APIs
+- Cloudinary (optional)
+- FFmpeg
 quality_score: 9
 rag_relevance: 7
-tags: ["content automation", "AI transcription", "social media scheduling", "multi-platform publishing", "RAG pipeline"]
-source: "https://github.com/l0lsec/Insights"
-discovered_at: "2026-07-15T16:21:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- content automation
+- AI transcription
+- social media scheduling
+- multi-platform publishing
+- RAG pipeline
+source: https://github.com/l0lsec/Insights
+discovered_at: '2026-07-15T16:21:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

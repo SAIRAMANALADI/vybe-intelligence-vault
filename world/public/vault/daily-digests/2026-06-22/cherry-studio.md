@@ -1,13 +1,28 @@
 ---
-title: "CherryHQ/cherry-studio"
-category: "UI Component"
-tech_stack: ["TypeScript", "Electron", "React", "Node.js", "LLM APIs (OpenAI, Anthropic, Gemini, etc.)", "Ollama", "LM Studio", "WebDAV", "Mermaid", "Markdown Rendering"]
+title: CherryHQ/cherry-studio
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Electron
+- React
+- Node.js
+- LLM APIs (OpenAI, Anthropic, Gemini, etc.)
+- Ollama
+- LM Studio
+- WebDAV
+- Mermaid
+- Markdown Rendering
 quality_score: 9
 rag_relevance: 7
-tags: ["AI desktop client", "multi-model support", "document processing", "cross-platform", "knowledge management"]
-source: "https://github.com/CherryHQ/cherry-studio"
-discovered_at: "2026-06-22T15:56:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI desktop client
+- multi-model support
+- document processing
+- cross-platform
+- knowledge management
+source: https://github.com/CherryHQ/cherry-studio
+discovered_at: '2026-06-22T15:56:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

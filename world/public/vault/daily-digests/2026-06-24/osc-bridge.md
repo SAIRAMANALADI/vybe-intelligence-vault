@@ -1,13 +1,29 @@
 ---
-title: "roomi-fields/osc-bridge"
-category: "Orchestrator"
-tech_stack: ["Rust", "TypeScript", "Lua 5.4", "MIDI", "SysEx", "OSC (Open Sound Control)", "JSON", "MCP (Model Context Protocol)", "Node.js", "Electra One MK2", "CI/CD (GitHub Actions)"]
+title: roomi-fields/osc-bridge
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Rust
+- TypeScript
+- Lua 5.4
+- MIDI
+- SysEx
+- OSC (Open Sound Control)
+- JSON
+- MCP (Model Context Protocol)
+- Node.js
+- Electra One MK2
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 9
-tags: ["MIDI/OSC bridge", "LLM integration", "MCP server", "music hardware control", "declarative device mapping"]
-source: "https://github.com/roomi-fields/osc-bridge"
-discovered_at: "2026-06-24T10:24:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MIDI/OSC bridge
+- LLM integration
+- MCP server
+- music hardware control
+- declarative device mapping
+source: https://github.com/roomi-fields/osc-bridge
+discovered_at: '2026-06-24T10:24:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

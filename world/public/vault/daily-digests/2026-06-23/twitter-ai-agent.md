@@ -1,13 +1,22 @@
 ---
-title: "Saminiscool/twitter-ai-agent"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "Twitter API", "Natural Language Processing"]
+title: Saminiscool/twitter-ai-agent
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Electron
+- Twitter API
+- Natural Language Processing
 quality_score: 5
 rag_relevance: 4
-tags: ["Twitter automation", "NLP interface", "desktop agent", "social media tool", "API wrapper"]
-source: "https://github.com/Saminiscool/twitter-ai-agent"
-discovered_at: "2026-06-23T19:10:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Twitter automation
+- NLP interface
+- desktop agent
+- social media tool
+- API wrapper
+source: https://github.com/Saminiscool/twitter-ai-agent
+discovered_at: '2026-06-23T19:10:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

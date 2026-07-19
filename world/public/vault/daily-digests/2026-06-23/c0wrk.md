@@ -1,13 +1,32 @@
 ---
-title: "v0lka/c0wrk"
-category: "Agent Framework"
-tech_stack: ["Go", "React", "TypeScript", "Wails", "SQLite", "ONNX Runtime", "Tavily API", "MCP (Model Context Protocol)", "Tailwind CSS", "Zustand", "shadcn/ui", "Vite", "Linux (GTK/WebKit)", "Git"]
+title: v0lka/c0wrk
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Go
+- React
+- TypeScript
+- Wails
+- SQLite
+- ONNX Runtime
+- Tavily API
+- MCP (Model Context Protocol)
+- Tailwind CSS
+- Zustand
+- shadcn/ui
+- Vite
+- Linux (GTK/WebKit)
+- Git
 quality_score: 8
 rag_relevance: 9
-tags: ["AI agent", "DAG planner", "desktop application", "LLM integration", "security policies"]
-source: "https://github.com/v0lka/c0wrk"
-discovered_at: "2026-06-23T21:27:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- DAG planner
+- desktop application
+- LLM integration
+- security policies
+source: https://github.com/v0lka/c0wrk
+discovered_at: '2026-06-23T21:27:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

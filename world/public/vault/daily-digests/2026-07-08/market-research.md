@@ -1,13 +1,23 @@
 ---
-title: "yzmw123/market-research"
-category: "Tooling"
-tech_stack: ["Python", "Markdown", "HTML/CSS", "Hermes Agent", "Natural Language Processing (NLP)"]
+title: yzmw123/market-research
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- Markdown
+- HTML/CSS
+- Hermes Agent
+- Natural Language Processing (NLP)
 quality_score: 9
 rag_relevance: 8
-tags: ["market research", "evidence-driven", "AI agents", "methodology", "report generation"]
-source: "https://github.com/yzmw123/market-research"
-discovered_at: "2026-07-08T17:24:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- market research
+- evidence-driven
+- AI agents
+- methodology
+- report generation
+source: https://github.com/yzmw123/market-research
+discovered_at: '2026-07-08T17:24:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

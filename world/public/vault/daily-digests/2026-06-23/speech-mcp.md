@@ -1,13 +1,24 @@
 ---
-title: "NG-Bullseye/speech-mcp"
-category: "Tooling"
-tech_stack: ["Python", "WhisperX", "ComfyUI", "Qwen3", "MCP (Model Context Protocol)", "ALSA (for microphone recording)"]
+title: NG-Bullseye/speech-mcp
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- WhisperX
+- ComfyUI
+- Qwen3
+- MCP (Model Context Protocol)
+- ALSA (for microphone recording)
 quality_score: 7
 rag_relevance: 8
-tags: ["speech-to-text", "text-to-speech", "MCP server", "WhisperX", "Qwen3"]
-source: "https://github.com/NG-Bullseye/speech-mcp"
-discovered_at: "2026-06-23T13:49:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- speech-to-text
+- text-to-speech
+- MCP server
+- WhisperX
+- Qwen3
+source: https://github.com/NG-Bullseye/speech-mcp
+discovered_at: '2026-06-23T13:49:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

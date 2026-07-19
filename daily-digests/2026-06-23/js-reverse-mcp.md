@@ -1,13 +1,25 @@
 ---
-title: "zhizhuodemao/js-reverse-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Chrome DevTools Protocol (CDP)", "Playwright", "Patchright", "CloakBrowser", "MCP (Model Context Protocol)"]
+title: zhizhuodemao/js-reverse-mcp
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- Chrome DevTools Protocol (CDP)
+- Playwright
+- Patchright
+- CloakBrowser
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 10
-tags: ["JavaScript reverse engineering", "AI-native debugging", "MCP server", "anti-detection", "browser automation"]
-source: "https://github.com/zhizhuodemao/js-reverse-mcp"
-discovered_at: "2026-06-23T06:51:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- JavaScript reverse engineering
+- AI-native debugging
+- MCP server
+- anti-detection
+- browser automation
+source: https://github.com/zhizhuodemao/js-reverse-mcp
+discovered_at: '2026-06-23T06:51:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

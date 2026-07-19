@@ -1,13 +1,34 @@
 ---
-title: "ArdurAI/ardur-agent"
-category: "Agent Framework"
-tech_stack: ["Rust", "Biscuit (capability tokens)", "Cedar (policy engine)", "JWS-ES256 (receipt signing)", "Qdrant (memory backend)", "Tantivy (sparse retrieval)", "FastEmbed (dense retrieval)", "MCP (Model Context Protocol)", "Slack", "Matrix", "Discord", "Telegram", "Ollama", "Anthropic", "OpenRouter", "OpenAI-compatible endpoints"]
+title: ArdurAI/ardur-agent
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Rust
+- Biscuit (capability tokens)
+- Cedar (policy engine)
+- JWS-ES256 (receipt signing)
+- Qdrant (memory backend)
+- Tantivy (sparse retrieval)
+- FastEmbed (dense retrieval)
+- MCP (Model Context Protocol)
+- Slack
+- Matrix
+- Discord
+- Telegram
+- Ollama
+- Anthropic
+- OpenRouter
+- OpenAI-compatible endpoints
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent runtime", "capability-based security", "receipt-chain auditing", "multi-provider LLM access", "bi-temporal memory"]
-source: "https://github.com/ArdurAI/ardur-agent"
-discovered_at: "2026-07-06T21:26:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent runtime
+- capability-based security
+- receipt-chain auditing
+- multi-provider LLM access
+- bi-temporal memory
+source: https://github.com/ArdurAI/ardur-agent
+discovered_at: '2026-07-06T21:26:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

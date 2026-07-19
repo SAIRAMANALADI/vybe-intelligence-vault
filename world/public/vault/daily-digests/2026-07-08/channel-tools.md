@@ -1,13 +1,23 @@
 ---
-title: "ChannelEngineer/channel-tools"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FastAPI", "Docker", "YAML"]
+title: ChannelEngineer/channel-tools
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FastAPI
+- Docker
+- YAML
 quality_score: 8
 rag_relevance: 7
-tags: ["channel management", "partner programs", "deal registration", "MCP servers", "lead management"]
-source: "https://github.com/ChannelEngineer/channel-tools"
-discovered_at: "2026-07-08T08:17:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- channel management
+- partner programs
+- deal registration
+- MCP servers
+- lead management
+source: https://github.com/ChannelEngineer/channel-tools
+discovered_at: '2026-07-08T08:17:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "cyberspacesec/snir-skills"
-category: "Tooling"
-tech_stack: ["Go", "Chrome DevTools Protocol (CDP)", "HTTP API", "CLI", "Docker", "SQLite", "JSONL", "CSV"]
+title: cyberspacesec/snir-skills
+category: daily-digests/2026-06-24
+tech_stack:
+- Go
+- Chrome DevTools Protocol (CDP)
+- HTTP API
+- CLI
+- Docker
+- SQLite
+- JSONL
+- CSV
 quality_score: 9
 rag_relevance: 8
-tags: ["web intelligence", "screenshot automation", "Chrome DevTools", "AI agent integration", "evidence collection"]
-source: "https://github.com/cyberspacesec/snir-skills"
-discovered_at: "2026-06-24T13:15:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web intelligence
+- screenshot automation
+- Chrome DevTools
+- AI agent integration
+- evidence collection
+source: https://github.com/cyberspacesec/snir-skills
+discovered_at: '2026-06-24T13:15:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

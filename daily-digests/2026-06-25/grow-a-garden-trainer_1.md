@@ -1,13 +1,22 @@
 ---
-title: "meridelvolitional423/Grow-a-Garden-Trainer_1"
-category: "Tooling"
-tech_stack: ["Python", "Windows API", "Roblox Client Interaction", "GUI Framework (unspecified)"]
+title: meridelvolitional423/Grow-a-Garden-Trainer_1
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- Windows API
+- Roblox Client Interaction
+- GUI Framework (unspecified)
 quality_score: 5
 rag_relevance: 3
-tags: ["Roblox automation", "game trainer", "farming bot", "Windows tool", "pet management"]
-source: "https://github.com/meridelvolitional423/Grow-a-Garden-Trainer_1"
-discovered_at: "2026-06-25T08:32:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Roblox automation
+- game trainer
+- farming bot
+- Windows tool
+- pet management
+source: https://github.com/meridelvolitional423/Grow-a-Garden-Trainer_1
+discovered_at: '2026-06-25T08:32:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

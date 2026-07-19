@@ -1,13 +1,22 @@
 ---
-title: "hugo57100/golembot"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron (implied by desktop app)", "Node.js (for embedding)", "AI APIs (Cursor, Claude Code, etc.)"]
+title: hugo57100/golembot
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Electron (implied by desktop app)
+- Node.js (for embedding)
+- AI APIs (Cursor, Claude Code, etc.)
 quality_score: 6
 rag_relevance: 5
-tags: ["AI automation", "chat integration", "AI coding assistants", "desktop application", "workflow tool"]
-source: "https://github.com/hugo57100/golembot"
-discovered_at: "2026-06-23T23:04:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI automation
+- chat integration
+- AI coding assistants
+- desktop application
+- workflow tool
+source: https://github.com/hugo57100/golembot
+discovered_at: '2026-06-23T23:04:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

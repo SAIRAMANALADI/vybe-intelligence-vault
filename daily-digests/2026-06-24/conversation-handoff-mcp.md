@@ -1,13 +1,23 @@
 ---
-title: "trust-delta/conversation-handoff-mcp"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "HTTP Server", "npm"]
+title: trust-delta/conversation-handoff-mcp
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- HTTP Server
+- npm
 quality_score: 9
 rag_relevance: 8
-tags: ["context transfer", "MCP server", "conversation handoff", "AI workflow", "session management"]
-source: "https://github.com/trust-delta/conversation-handoff-mcp"
-discovered_at: "2026-06-24T13:23:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- context transfer
+- MCP server
+- conversation handoff
+- AI workflow
+- session management
+source: https://github.com/trust-delta/conversation-handoff-mcp
+discovered_at: '2026-06-24T13:23:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

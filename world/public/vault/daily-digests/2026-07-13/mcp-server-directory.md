@@ -1,13 +1,23 @@
 ---
-title: "xuanlinflow413/mcp-server-directory"
-category: "Tooling"
-tech_stack: ["Next.js 14", "TypeScript", "Tailwind CSS", "Lucide React", "Cloudflare Pages"]
+title: xuanlinflow413/mcp-server-directory
+category: world/public/vault/daily-digests/2026-07-13
+tech_stack:
+- Next.js 14
+- TypeScript
+- Tailwind CSS
+- Lucide React
+- Cloudflare Pages
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP", "Model Context Protocol", "Claude", "Cursor", "AI agents"]
-source: "https://github.com/xuanlinflow413/mcp-server-directory"
-discovered_at: "2026-07-11T05:39:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- Model Context Protocol
+- Claude
+- Cursor
+- AI agents
+source: https://github.com/xuanlinflow413/mcp-server-directory
+discovered_at: '2026-07-11T05:39:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

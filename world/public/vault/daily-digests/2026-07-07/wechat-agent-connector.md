@@ -1,13 +1,22 @@
 ---
-title: "Shouted-numberone752/wechat-agent-connector"
-category: "Tooling"
-tech_stack: ["Python", "Windows CLI", "WeChat API", "Shell Scripting"]
+title: Shouted-numberone752/wechat-agent-connector
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Windows CLI
+- WeChat API
+- Shell Scripting
 quality_score: 6
 rag_relevance: 5
-tags: ["WeChat integration", "agent connector", "local setup", "CLI automation", "Windows tool"]
-source: "https://github.com/Shouted-numberone752/wechat-agent-connector"
-discovered_at: "2026-07-07T23:54:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- WeChat integration
+- agent connector
+- local setup
+- CLI automation
+- Windows tool
+source: https://github.com/Shouted-numberone752/wechat-agent-connector
+discovered_at: '2026-07-07T23:54:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

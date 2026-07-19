@@ -1,13 +1,25 @@
 ---
-title: "strongmandisabilitypayment539/hermes-geopolitical-market-sim"
-category: "Tooling"
-tech_stack: ["Windows", "Python (implied by workflow integration)", "Polymarket API", "WorldOSINT headless", "MiroFish", "JSON (for configuration)", "ZIP (for distribution)"]
+title: strongmandisabilitypayment539/hermes-geopolitical-market-sim
+category: daily-digests/2026-06-23
+tech_stack:
+- Windows
+- Python (implied by workflow integration)
+- Polymarket API
+- WorldOSINT headless
+- MiroFish
+- JSON (for configuration)
+- ZIP (for distribution)
 quality_score: 6
 rag_relevance: 4
-tags: ["geopolitical simulation", "market forecasting", "OSINT integration", "Windows tool", "no-code"]
-source: "https://github.com/strongmandisabilitypayment539/hermes-geopolitical-market-sim"
-discovered_at: "2026-06-23T02:42:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- geopolitical simulation
+- market forecasting
+- OSINT integration
+- Windows tool
+- no-code
+source: https://github.com/strongmandisabilitypayment539/hermes-geopolitical-market-sim
+discovered_at: '2026-06-23T02:42:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "gradusnikov/eclipse-chatgpt-plugin"
-category: "Orchestrator"
-tech_stack: ["Java", "Eclipse IDE", "Eclipse JDT", "MCP (Model Context Protocol)", "HTTP Server", "JUnit", "Maven", "EGit"]
+title: gradusnikov/eclipse-chatgpt-plugin
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- Java
+- Eclipse IDE
+- Eclipse JDT
+- MCP (Model Context Protocol)
+- HTTP Server
+- JUnit
+- Maven
+- EGit
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP Server", "Eclipse Plugin", "AI Agent Integration", "Java Development", "Code Editing"]
-source: "https://github.com/gradusnikov/eclipse-chatgpt-plugin"
-discovered_at: "2026-07-14T12:10:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- Eclipse Plugin
+- AI Agent Integration
+- Java Development
+- Code Editing
+source: https://github.com/gradusnikov/eclipse-chatgpt-plugin
+discovered_at: '2026-07-14T12:10:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "getlien/lien"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "FTS5/BM25", "Model Context Protocol (MCP)", "SQLite", "Git Worktrees", "GitHub Actions"]
+title: getlien/lien
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- FTS5/BM25
+- Model Context Protocol (MCP)
+- SQLite
+- Git Worktrees
+- GitHub Actions
 quality_score: 9
 rag_relevance: 9
-tags: ["code analysis", "MCP integration", "local-first", "impact analysis", "AI agent tools"]
-source: "https://github.com/getlien/lien"
-discovered_at: "2026-07-07T13:17:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code analysis
+- MCP integration
+- local-first
+- impact analysis
+- AI agent tools
+source: https://github.com/getlien/lien
+discovered_at: '2026-07-07T13:17:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

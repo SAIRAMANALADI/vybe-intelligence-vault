@@ -1,13 +1,31 @@
 ---
-title: "zmustafa/AzureSupportAgent"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "React", "Azure Container Apps", "Azure MCP Server", "Microsoft Graph (Entra ID) MCP Server", "Docker", "PostgreSQL", "Redis", "TypeScript", "Azure Monitor", "Azure Policy", "Bicep/Terraform"]
+title: zmustafa/AzureSupportAgent
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- FastAPI
+- React
+- Azure Container Apps
+- Azure MCP Server
+- Microsoft Graph (Entra ID) MCP Server
+- Docker
+- PostgreSQL
+- Redis
+- TypeScript
+- Azure Monitor
+- Azure Policy
+- Bicep/Terraform
 quality_score: 9
 rag_relevance: 8
-tags: ["Azure operations", "AI agents", "workload management", "proactive monitoring", "architecture visualization"]
-source: "https://github.com/zmustafa/AzureSupportAgent"
-discovered_at: "2026-06-24T20:45:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Azure operations
+- AI agents
+- workload management
+- proactive monitoring
+- architecture visualization
+source: https://github.com/zmustafa/AzureSupportAgent
+discovered_at: '2026-06-24T20:45:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

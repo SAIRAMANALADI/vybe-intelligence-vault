@@ -1,13 +1,26 @@
 ---
-title: "twindebank/tclaw"
-category: "Agent Framework"
-tech_stack: ["Go", "Claude Code CLI", "MCP (Model Context Protocol)", "OAuth", "Telegram API", "Fly.io", "Bubblewrap", "NaCl encryption"]
+title: twindebank/tclaw
+category: world/public/vault/daily-digests/2026-07-11
+tech_stack:
+- Go
+- Claude Code CLI
+- MCP (Model Context Protocol)
+- OAuth
+- Telegram API
+- Fly.io
+- Bubblewrap
+- NaCl encryption
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agent", "multi-channel", "self-hosted", "autonomous tasks", "MCP tools"]
-source: "https://github.com/twindebank/tclaw"
-discovered_at: "2026-07-11T13:14:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- multi-channel
+- self-hosted
+- autonomous tasks
+- MCP tools
+source: https://github.com/twindebank/tclaw
+discovered_at: '2026-07-11T13:14:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

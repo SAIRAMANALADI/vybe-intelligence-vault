@@ -1,13 +1,29 @@
 ---
-title: "CardSorting/LUMI"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "VS Code Extension API", "Node.js", "MCP (Model Context Protocol)", "BroccoliDB (@noorm/broccolidb)", "Mermaid.js (for diagrams)", "Git (for checkpoints)", "OpenRouter", "ChatGPT Subscription", "NousResearch", "Cloudflare Workers AI"]
+title: CardSorting/LUMI
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- VS Code Extension API
+- Node.js
+- MCP (Model Context Protocol)
+- BroccoliDB (@noorm/broccolidb)
+- Mermaid.js (for diagrams)
+- Git (for checkpoints)
+- OpenRouter
+- ChatGPT Subscription
+- NousResearch
+- Cloudflare Workers AI
 quality_score: 9
 rag_relevance: 8
-tags: ["VS Code extension", "human-in-the-loop", "agentic coding", "governed execution", "MCP integration"]
-source: "https://github.com/CardSorting/LUMI"
-discovered_at: "2026-06-25T00:04:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- VS Code extension
+- human-in-the-loop
+- agentic coding
+- governed execution
+- MCP integration
+source: https://github.com/CardSorting/LUMI
+discovered_at: '2026-06-25T00:04:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "kajidog/mcp-datadog-logs"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Datadog API", "Model Context Protocol (MCP)", "React", "pnpm"]
+title: kajidog/mcp-datadog-logs
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- TypeScript
+- Node.js
+- Datadog API
+- Model Context Protocol (MCP)
+- React
+- pnpm
 quality_score: 8
 rag_relevance: 9
-tags: ["Datadog", "MCP", "log analysis", "metrics collection", "AI investigation"]
-source: "https://github.com/kajidog/mcp-datadog-logs"
-discovered_at: "2026-07-12T13:36:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Datadog
+- MCP
+- log analysis
+- metrics collection
+- AI investigation
+source: https://github.com/kajidog/mcp-datadog-logs
+discovered_at: '2026-07-12T13:36:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "Whistlegenusvincetoxicum446/Mem-Forever"
-category: "Tooling"
-tech_stack: ["Windows", "Python", "Local Storage (JSON)", "I-Lang Protocol", "Electron (assumed UI framework)"]
+title: Whistlegenusvincetoxicum446/Mem-Forever
+category: daily-digests/2026-07-18
+tech_stack:
+- Windows
+- Python
+- Local Storage (JSON)
+- I-Lang Protocol
+- Electron (assumed UI framework)
 quality_score: 7
 rag_relevance: 8
-tags: ["persistent memory", "local storage", "AI assistant", "session recall", "offline access"]
-source: "https://github.com/Whistlegenusvincetoxicum446/Mem-Forever"
-discovered_at: "2026-07-11T16:55:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- local storage
+- AI assistant
+- session recall
+- offline access
+source: https://github.com/Whistlegenusvincetoxicum446/Mem-Forever
+discovered_at: '2026-07-11T16:55:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

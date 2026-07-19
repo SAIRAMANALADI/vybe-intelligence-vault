@@ -1,13 +1,26 @@
 ---
-title: "carvedinstone-heartbreaker804/telegram-ai-monitor"
-category: "Tooling"
-tech_stack: ["Python", "Flask", "React", "Vite", "SQLAlchemy", "Telegram Webhooks", "LLM-based Classification", "OpenAI-compatible AI Tools"]
+title: carvedinstone-heartbreaker804/telegram-ai-monitor
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Flask
+- React
+- Vite
+- SQLAlchemy
+- Telegram Webhooks
+- LLM-based Classification
+- OpenAI-compatible AI Tools
 quality_score: 6
 rag_relevance: 5
-tags: ["Telegram monitoring", "AI message classification", "real-time dashboard", "Windows desktop app", "LLM integration"]
-source: "https://github.com/carvedinstone-heartbreaker804/telegram-ai-monitor"
-discovered_at: "2026-07-07T06:42:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Telegram monitoring
+- AI message classification
+- real-time dashboard
+- Windows desktop app
+- LLM integration
+source: https://github.com/carvedinstone-heartbreaker804/telegram-ai-monitor
+discovered_at: '2026-07-07T06:42:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

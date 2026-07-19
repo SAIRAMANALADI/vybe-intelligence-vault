@@ -1,13 +1,26 @@
 ---
-title: "CronusL-1141/AI-company"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "React", "MCP (Model Context Protocol)", "SQLite", "Claude Code", "Git", "GitHub API"]
+title: CronusL-1141/AI-company
+category: daily-digests/2026-07-10
+tech_stack:
+- Python
+- FastAPI
+- React
+- MCP (Model Context Protocol)
+- SQLite
+- Claude Code
+- Git
+- GitHub API
 quality_score: 9
 rag_relevance: 7
-tags: ["multi-agent systems", "autonomous AI", "Claude Code integration", "self-improving workflows", "MCP tools"]
-source: "https://github.com/CronusL-1141/AI-company"
-discovered_at: "2026-07-10T06:53:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- autonomous AI
+- Claude Code integration
+- self-improving workflows
+- MCP tools
+source: https://github.com/CronusL-1141/AI-company
+discovered_at: '2026-07-10T06:53:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

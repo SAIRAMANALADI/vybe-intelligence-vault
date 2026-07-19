@@ -1,13 +1,26 @@
 ---
-title: "1Dark134/arxiv-mcp-server"
-category: "Agent Framework"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "arXiv API", "REST API", "Docker", "Embeddings (for semantic search)", "SQL/NoSQL (for data storage)", "CLI"]
+title: 1Dark134/arxiv-mcp-server
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- arXiv API
+- REST API
+- Docker
+- Embeddings (for semantic search)
+- SQL/NoSQL (for data storage)
+- CLI
 quality_score: 7
 rag_relevance: 8
-tags: ["arXiv integration", "paper search", "citation analysis", "MCP server", "academic research"]
-source: "https://github.com/1Dark134/arxiv-mcp-server"
-discovered_at: "2026-06-24T02:49:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- arXiv integration
+- paper search
+- citation analysis
+- MCP server
+- academic research
+source: https://github.com/1Dark134/arxiv-mcp-server
+discovered_at: '2026-06-24T02:49:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

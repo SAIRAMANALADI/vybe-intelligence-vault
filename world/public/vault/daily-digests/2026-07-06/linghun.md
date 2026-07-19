@@ -1,13 +1,28 @@
 ---
-title: "linghungegeg/Linghun"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "CLI frameworks", "Git integration", "Bash/PowerShell execution", "MCP (Model Context Protocol)", "TUI (Terminal User Interface)", "Caching systems", "Workflow orchestration", "Multi-agent systems"]
+title: linghungegeg/Linghun
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- Node.js
+- CLI frameworks
+- Git integration
+- Bash/PowerShell execution
+- MCP (Model Context Protocol)
+- TUI (Terminal User Interface)
+- Caching systems
+- Workflow orchestration
+- Multi-agent systems
 quality_score: 9
 rag_relevance: 9
-tags: ["AI coding assistant", "evidence-based", "local-first", "verification-driven", "multi-agent"]
-source: "https://github.com/linghungegeg/Linghun"
-discovered_at: "2026-07-06T23:02:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding assistant
+- evidence-based
+- local-first
+- verification-driven
+- multi-agent
+source: https://github.com/linghungegeg/Linghun
+discovered_at: '2026-07-06T23:02:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

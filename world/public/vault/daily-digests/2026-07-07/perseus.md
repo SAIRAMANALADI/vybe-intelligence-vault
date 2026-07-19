@@ -1,13 +1,29 @@
 ---
-title: "Perseus-Computing-LLC/perseus"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "SQLite", "FTS5 (Full-Text Search)", "Rust (for Perseus Vault)", "Docker", "Git", "Elasticsearch (via Rapid Agent)", "Claude Desktop", "Cursor", "Codex"]
+title: Perseus-Computing-LLC/perseus
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- SQLite
+- FTS5 (Full-Text Search)
+- Rust (for Perseus Vault)
+- Docker
+- Git
+- Elasticsearch (via Rapid Agent)
+- Claude Desktop
+- Cursor
+- Codex
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP server", "live context engine", "persistent memory", "AI agent orchestration", "workspace state resolution"]
-source: "https://github.com/Perseus-Computing-LLC/perseus"
-discovered_at: "2026-07-07T19:00:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- live context engine
+- persistent memory
+- AI agent orchestration
+- workspace state resolution
+source: https://github.com/Perseus-Computing-LLC/perseus
+discovered_at: '2026-07-07T19:00:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

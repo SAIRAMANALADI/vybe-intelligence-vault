@@ -1,13 +1,24 @@
 ---
-title: "atdy/maoxuan-product-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Agent Skills Framework", "CLI Tools", "GitHub Actions", "Markdown", "Mermaid.js"]
+title: atdy/maoxuan-product-agent
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Python
+- Agent Skills Framework
+- CLI Tools
+- GitHub Actions
+- Markdown
+- Mermaid.js
 quality_score: 9
 rag_relevance: 8
-tags: ["product decision agent", "Chinese AI agent", "philosophy-driven AI", "product management", "growth strategy"]
-source: "https://github.com/atdy/maoxuan-product-agent"
-discovered_at: "2026-07-10T06:15:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- product decision agent
+- Chinese AI agent
+- philosophy-driven AI
+- product management
+- growth strategy
+source: https://github.com/atdy/maoxuan-product-agent
+discovered_at: '2026-07-10T06:15:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

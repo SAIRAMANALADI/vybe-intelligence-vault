@@ -1,13 +1,27 @@
 ---
-title: "ikh4079/AI-CSKH"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Next.js", "TypeScript", "LangChain", "LangGraph", "LlamaIndex", "FAISS", "Docker"]
+title: ikh4079/AI-CSKH
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- FastAPI
+- Next.js
+- TypeScript
+- LangChain
+- LangGraph
+- LlamaIndex
+- FAISS
+- Docker
 quality_score: 6
 rag_relevance: 8
-tags: ["customer support", "RAG", "e-commerce", "chatbot", "automation"]
-source: "https://github.com/ikh4079/AI-CSKH"
-discovered_at: "2026-07-07T20:50:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- customer support
+- RAG
+- e-commerce
+- chatbot
+- automation
+source: https://github.com/ikh4079/AI-CSKH
+discovered_at: '2026-07-07T20:50:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

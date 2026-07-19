@@ -1,13 +1,25 @@
 ---
-title: "Paul-hengChen/agent-governance-mcp"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "Zod", "SQLite", "HTTP", "Docker"]
+title: Paul-hengChen/agent-governance-mcp
+category: daily-digests/2026-07-09
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- Zod
+- SQLite
+- HTTP
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["AI governance", "multi-agent coordination", "state management", "rule enforcement", "MCP server"]
-source: "https://github.com/Paul-hengChen/agent-governance-mcp"
-discovered_at: "2026-07-09T17:17:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI governance
+- multi-agent coordination
+- state management
+- rule enforcement
+- MCP server
+source: https://github.com/Paul-hengChen/agent-governance-mcp
+discovered_at: '2026-07-09T17:17:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "maksim9510/Prostor"
-category: "Agent Framework"
-tech_stack: ["Python", "Node.js", "LLM APIs (Nous Research, OpenRouter, OpenAI, etc.)", "SQLite", "Docker", "SSH", "Telegram/Discord/Signal APIs", "FTS5 (Full-Text Search)", "Honcho (user modeling)", "agentskills.io (standard)"]
+title: maksim9510/Prostor
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- Node.js
+- LLM APIs (Nous Research, OpenRouter, OpenAI, etc.)
+- SQLite
+- Docker
+- SSH
+- Telegram/Discord/Signal APIs
+- FTS5 (Full-Text Search)
+- Honcho (user modeling)
+- agentskills.io (standard)
 quality_score: 9
 rag_relevance: 10
-tags: ["self-improving agent", "multi-platform deployment", "LLM optimization", "closed-loop learning", "Russian language support"]
-source: "https://github.com/maksim9510/Prostor"
-discovered_at: "2026-06-22T18:50:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-improving agent
+- multi-platform deployment
+- LLM optimization
+- closed-loop learning
+- Russian language support
+source: https://github.com/maksim9510/Prostor
+discovered_at: '2026-06-22T18:50:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

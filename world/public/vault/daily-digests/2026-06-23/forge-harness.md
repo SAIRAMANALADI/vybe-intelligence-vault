@@ -1,13 +1,27 @@
 ---
-title: "chrono-meta/forge-harness"
-category: "Orchestrator"
-tech_stack: ["Claude Code", "Shell", "JavaScript/TypeScript", "Node.js", "Git", "npm", "Zenodo (DOI)", "Markdown", "YAML"]
+title: chrono-meta/forge-harness
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Claude Code
+- Shell
+- JavaScript/TypeScript
+- Node.js
+- Git
+- npm
+- Zenodo (DOI)
+- Markdown
+- YAML
 quality_score: 9
 rag_relevance: 8
-tags: ["AI governance", "project scaffolding", "Claude Code plugin", "adversarial testing", "session persistence"]
-source: "https://github.com/chrono-meta/forge-harness"
-discovered_at: "2026-06-23T16:25:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI governance
+- project scaffolding
+- Claude Code plugin
+- adversarial testing
+- session persistence
+source: https://github.com/chrono-meta/forge-harness
+discovered_at: '2026-06-23T16:25:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

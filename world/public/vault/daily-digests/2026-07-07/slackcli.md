@@ -1,13 +1,23 @@
 ---
-title: "jackchuka/slackcli"
-category: "Tooling"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "Slack API", "JSON", "CLI"]
+title: jackchuka/slackcli
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- Slack API
+- JSON
+- CLI
 quality_score: 9
 rag_relevance: 8
-tags: ["Slack integration", "MCP server", "LLM agent tooling", "CLI automation", "read-only mode"]
-source: "https://github.com/jackchuka/slackcli"
-discovered_at: "2026-07-07T02:34:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Slack integration
+- MCP server
+- LLM agent tooling
+- CLI automation
+- read-only mode
+source: https://github.com/jackchuka/slackcli
+discovered_at: '2026-07-07T02:34:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

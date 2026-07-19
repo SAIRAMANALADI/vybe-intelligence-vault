@@ -1,13 +1,30 @@
 ---
-title: "nafwa03/specopt-mcp"
-category: "Tooling"
-tech_stack: ["Python", "DSPy", "LangChain", "FastMCP", "LM Studio", "Ollama", "Lemonade", "MIPROv2", "GEPA", "pytest", "YAML", "JSON"]
+title: nafwa03/specopt-mcp
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Python
+- DSPy
+- LangChain
+- FastMCP
+- LM Studio
+- Ollama
+- Lemonade
+- MIPROv2
+- GEPA
+- pytest
+- YAML
+- JSON
 quality_score: 8
 rag_relevance: 9
-tags: ["prompt optimization", "code optimization", "MCP", "DSPy", "agent framework"]
-source: "https://github.com/nafwa03/specopt-mcp"
-discovered_at: "2026-07-06T21:26:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- prompt optimization
+- code optimization
+- MCP
+- DSPy
+- agent framework
+source: https://github.com/nafwa03/specopt-mcp
+discovered_at: '2026-07-06T21:26:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

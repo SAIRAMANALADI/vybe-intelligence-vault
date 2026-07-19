@@ -1,13 +1,27 @@
 ---
-title: "drpwchen/vault-search"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "LanceDB", "Ollama", "bge-m3", "Obsidian Plugin", "MCP Server", "Personalized PageRank", "Vector Embeddings"]
+title: drpwchen/vault-search
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- FastAPI
+- LanceDB
+- Ollama
+- bge-m3
+- Obsidian Plugin
+- MCP Server
+- Personalized PageRank
+- Vector Embeddings
 quality_score: 9
 rag_relevance: 9
-tags: ["semantic search", "local-first", "RAG", "Obsidian plugin", "MCP server"]
-source: "https://github.com/drpwchen/vault-search"
-discovered_at: "2026-07-09T08:26:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- semantic search
+- local-first
+- RAG
+- Obsidian plugin
+- MCP server
+source: https://github.com/drpwchen/vault-search
+discovered_at: '2026-07-09T08:26:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

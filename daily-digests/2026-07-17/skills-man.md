@@ -1,13 +1,23 @@
 ---
-title: "nomyfan/skills-man"
-category: "Tooling"
-tech_stack: ["Rust", "GitHub API", "TOML", "CLI", "Symlinks"]
+title: nomyfan/skills-man
+category: daily-digests/2026-07-17
+tech_stack:
+- Rust
+- GitHub API
+- TOML
+- CLI
+- Symlinks
 quality_score: 9
 rag_relevance: 8
-tags: ["skill management", "AI agents", "GitHub integration", "CLI tool", "synchronization"]
-source: "https://github.com/nomyfan/skills-man"
-discovered_at: "2026-07-12T08:15:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- skill management
+- AI agents
+- GitHub integration
+- CLI tool
+- synchronization
+source: https://github.com/nomyfan/skills-man
+discovered_at: '2026-07-12T08:15:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

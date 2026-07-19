@@ -1,13 +1,34 @@
 ---
-title: "anbeime/ai-trend-publish"
-category: "Tooling"
-tech_stack: ["FastAPI", "React", "Python", "TypeScript", "Celery", "PostgreSQL", "Redis", "Docker", "WeChat Mini Program", "GLM-4", "Agnes AI", "SiliconFlow", "WaveSpeed", "Ark Seedance", "Tailwind CSS", "Vite"]
+title: anbeime/ai-trend-publish
+category: daily-digests/2026-07-12
+tech_stack:
+- FastAPI
+- React
+- Python
+- TypeScript
+- Celery
+- PostgreSQL
+- Redis
+- Docker
+- WeChat Mini Program
+- GLM-4
+- Agnes AI
+- SiliconFlow
+- WaveSpeed
+- Ark Seedance
+- Tailwind CSS
+- Vite
 quality_score: 9
 rag_relevance: 7
-tags: ["AI content generation", "multi-platform publishing", "trending content aggregation", "digital humans", "automation"]
-source: "https://github.com/anbeime/ai-trend-publish"
-discovered_at: "2026-07-12T02:32:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI content generation
+- multi-platform publishing
+- trending content aggregation
+- digital humans
+- automation
+source: https://github.com/anbeime/ai-trend-publish
+discovered_at: '2026-07-12T02:32:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

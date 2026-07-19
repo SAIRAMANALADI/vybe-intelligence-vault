@@ -1,13 +1,26 @@
 ---
-title: "busabase/busabase"
-category: "Tooling"
-tech_stack: ["TypeScript", "Tauri", "PGlite (embedded PostgreSQL)", "React", "Docker", "REST API", "Node.js", "Webhooks"]
+title: busabase/busabase
+category: daily-digests/2026-07-18
+tech_stack:
+- TypeScript
+- Tauri
+- PGlite (embedded PostgreSQL)
+- React
+- Docker
+- REST API
+- Node.js
+- Webhooks
 quality_score: 9
 rag_relevance: 8
-tags: ["AI data review", "local-first", "change management", "audit trails", "agent-friendly"]
-source: "https://github.com/busabase/busabase"
-discovered_at: "2026-07-14T08:00:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI data review
+- local-first
+- change management
+- audit trails
+- agent-friendly
+source: https://github.com/busabase/busabase
+discovered_at: '2026-07-14T08:00:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

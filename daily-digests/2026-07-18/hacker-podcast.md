@@ -1,13 +1,29 @@
 ---
-title: "miantiao-me/hacker-podcast"
-category: "Tooling"
-tech_stack: ["TypeScript", "React", "Vite", "Cloudflare Workers", "Cloudflare R2", "Cloudflare KV", "OpenAI API", "TTS (Text-to-Speech)", "Tailwind CSS", "shadcn-ui", "vinext (Vite + React Server Components)"]
+title: miantiao-me/hacker-podcast
+category: daily-digests/2026-07-18
+tech_stack:
+- TypeScript
+- React
+- Vite
+- Cloudflare Workers
+- Cloudflare R2
+- Cloudflare KV
+- OpenAI API
+- TTS (Text-to-Speech)
+- Tailwind CSS
+- shadcn-ui
+- vinext (Vite + React Server Components)
 quality_score: 8
 rag_relevance: 6
-tags: ["podcast automation", "AI content generation", "Hacker News aggregation", "TTS conversion", "RSS feed generation"]
-source: "https://github.com/miantiao-me/hacker-podcast"
-discovered_at: "2026-07-11T13:14:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- podcast automation
+- AI content generation
+- Hacker News aggregation
+- TTS conversion
+- RSS feed generation
+source: https://github.com/miantiao-me/hacker-podcast
+discovered_at: '2026-07-11T13:14:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

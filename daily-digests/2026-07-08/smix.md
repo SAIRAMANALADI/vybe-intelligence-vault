@@ -1,13 +1,28 @@
 ---
-title: "goliajp/smix"
-category: "Tooling"
-tech_stack: ["Rust", "Swift", "Kotlin", "TypeScript", "XCUITest", "MCP (Model Context Protocol)", "UniFFI", "Criterion (benchmarking)", "clap (CLI)", "xcrun simctl"]
+title: goliajp/smix
+category: daily-digests/2026-07-08
+tech_stack:
+- Rust
+- Swift
+- Kotlin
+- TypeScript
+- XCUITest
+- MCP (Model Context Protocol)
+- UniFFI
+- Criterion (benchmarking)
+- clap (CLI)
+- xcrun simctl
 quality_score: 9
 rag_relevance: 7
-tags: ["iOS automation", "AI-native testing", "cross-platform SDK", "Rust core", "MCP server"]
-source: "https://github.com/goliajp/smix"
-discovered_at: "2026-07-08T05:47:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- iOS automation
+- AI-native testing
+- cross-platform SDK
+- Rust core
+- MCP server
+source: https://github.com/goliajp/smix
+discovered_at: '2026-07-08T05:47:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

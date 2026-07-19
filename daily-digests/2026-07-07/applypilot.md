@@ -1,13 +1,28 @@
 ---
-title: "cebersaban44-rgb/ApplyPilot"
-category: "Tooling"
-tech_stack: ["Python 3.11+", "LLM (Gemini API)", "Playwright", "SQLite", "Chrome/Chromium", "Telegram Bot API", "Claude Code CLI", "FastAPI (implied by service mode)", "Pydantic", "pytest"]
+title: cebersaban44-rgb/ApplyPilot
+category: daily-digests/2026-07-07
+tech_stack:
+- Python 3.11+
+- LLM (Gemini API)
+- Playwright
+- SQLite
+- Chrome/Chromium
+- Telegram Bot API
+- Claude Code CLI
+- FastAPI (implied by service mode)
+- Pydantic
+- pytest
 quality_score: 9
 rag_relevance: 6
-tags: ["job application automation", "honesty enforcement", "human-in-the-loop", "Polish job market", "multi-tenant"]
-source: "https://github.com/cebersaban44-rgb/ApplyPilot"
-discovered_at: "2026-07-07T13:15:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- job application automation
+- honesty enforcement
+- human-in-the-loop
+- Polish job market
+- multi-tenant
+source: https://github.com/cebersaban44-rgb/ApplyPilot
+discovered_at: '2026-07-07T13:15:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

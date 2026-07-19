@@ -1,13 +1,31 @@
 ---
-title: "kidproquo/agent-starter"
-category: "Agent Framework"
-tech_stack: ["React 18", "TypeScript", "Vite", "MUI 6", "FastAPI", "Python 3.12", "LiteLLM", "Zustand", "React Query", "Plotly", "SQLite", "Docker", "Telegram Bot API"]
+title: kidproquo/agent-starter
+category: daily-digests/2026-06-23
+tech_stack:
+- React 18
+- TypeScript
+- Vite
+- MUI 6
+- FastAPI
+- Python 3.12
+- LiteLLM
+- Zustand
+- React Query
+- Plotly
+- SQLite
+- Docker
+- Telegram Bot API
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent framework", "streaming chat UI", "multi-user auth", "tool-use agents", "LLM runtime config"]
-source: "https://github.com/kidproquo/agent-starter"
-discovered_at: "2026-06-23T21:30:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent framework
+- streaming chat UI
+- multi-user auth
+- tool-use agents
+- LLM runtime config
+source: https://github.com/kidproquo/agent-starter
+discovered_at: '2026-06-23T21:30:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

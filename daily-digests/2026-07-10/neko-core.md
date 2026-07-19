@@ -1,13 +1,26 @@
 ---
-title: "meiiie/neko-core"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "Ink", "Node.js", "MCP (Model Context Protocol)", "Ripgrep", "Terminal UI (fullscreen)", "Vision APIs (for screenshots)"]
+title: meiiie/neko-core
+category: daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Bun
+- Ink
+- Node.js
+- MCP (Model Context Protocol)
+- Ripgrep
+- Terminal UI (fullscreen)
+- Vision APIs (for screenshots)
 quality_score: 9
 rag_relevance: 8
-tags: ["terminal agent", "local-first", "extensible", "MCP integration", "offline-capable"]
-source: "https://github.com/meiiie/neko-core"
-discovered_at: "2026-07-10T02:26:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- terminal agent
+- local-first
+- extensible
+- MCP integration
+- offline-capable
+source: https://github.com/meiiie/neko-core
+discovered_at: '2026-07-10T02:26:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

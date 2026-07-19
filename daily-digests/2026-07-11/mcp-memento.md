@@ -1,13 +1,24 @@
 ---
-title: "caiowilson/MCP-memento"
-category: "Orchestrator"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "JSON-RPC", "Git", "Filesystem Watcher", "VS Code Extension"]
+title: caiowilson/MCP-memento
+category: daily-digests/2026-07-11
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- JSON-RPC
+- Git
+- Filesystem Watcher
+- VS Code Extension
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP server", "code indexing", "memory persistence", "semantic search", "AI agent memory"]
-source: "https://github.com/caiowilson/MCP-memento"
-discovered_at: "2026-07-10T22:00:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- code indexing
+- memory persistence
+- semantic search
+- AI agent memory
+source: https://github.com/caiowilson/MCP-memento
+discovered_at: '2026-07-10T22:00:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,33 @@
 ---
-title: "silver4444-xs/silver_research_bot"
-category: "Agent Framework"
-tech_stack: ["Python 3.11+", "FastAPI", "Uvicorn", "PyMuPDF", "asyncio", "Vue 3.5", "Vite 6", "MathJax 3", "Mermaid 10", "D3.js v7", "PDF.js v3.11", "Pydantic", "Loguru", "pytest", "Docker"]
+title: silver4444-xs/silver_research_bot
+category: daily-digests/2026-07-18
+tech_stack:
+- Python 3.11+
+- FastAPI
+- Uvicorn
+- PyMuPDF
+- asyncio
+- Vue 3.5
+- Vite 6
+- MathJax 3
+- Mermaid 10
+- D3.js v7
+- PDF.js v3.11
+- Pydantic
+- Loguru
+- pytest
+- Docker
 quality_score: 9
 rag_relevance: 9
-tags: ["AI Research Assistant", "Multi-Stage Paper Analysis", "LLM Integration", "RAG Pipeline", "Academic Automation"]
-source: "https://github.com/silver4444-xs/silver_research_bot"
-discovered_at: "2026-07-17T10:46:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Research Assistant
+- Multi-Stage Paper Analysis
+- LLM Integration
+- RAG Pipeline
+- Academic Automation
+source: https://github.com/silver4444-xs/silver_research_bot
+discovered_at: '2026-07-17T10:46:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

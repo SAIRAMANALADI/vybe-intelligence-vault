@@ -1,13 +1,27 @@
 ---
-title: "Ink-dark/orcha"
-category: "Agent Framework"
-tech_stack: ["Rust", "TypeScript", "Node.js", "Feishu API", "SQLite", "Git", "LLM (OpenAI-compatible)", "IPC (Unix Socket/TCP)", "Cargo (Rust package manager)"]
+title: Ink-dark/orcha
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Rust
+- TypeScript
+- Node.js
+- Feishu API
+- SQLite
+- Git
+- LLM (OpenAI-compatible)
+- IPC (Unix Socket/TCP)
+- Cargo (Rust package manager)
 quality_score: 9
 rag_relevance: 9
-tags: ["AI coding agent", "multi-agent system", "Feishu integration", "autonomous git operations", "human-in-the-loop approval"]
-source: "https://github.com/Ink-dark/orcha"
-discovered_at: "2026-07-10T02:26:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding agent
+- multi-agent system
+- Feishu integration
+- autonomous git operations
+- human-in-the-loop approval
+source: https://github.com/Ink-dark/orcha
+discovered_at: '2026-07-10T02:26:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "yangfei222666-9/taiji"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "SQLite", "pyautogui", "edge-tts", "Whisper", "Ising Model", "LLM Gateway", "Event-Driven Architecture"]
+title: yangfei222666-9/taiji
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- pyautogui
+- edge-tts
+- Whisper
+- Ising Model
+- LLM Gateway
+- Event-Driven Architecture
 quality_score: 9
 rag_relevance: 9
-tags: ["AI Agent Reliability", "Evidence-Driven", "Self-Healing", "I Ching State Machine", "Audit Logging"]
-source: "https://github.com/yangfei222666-9/taiji"
-discovered_at: "2026-06-24T13:20:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent Reliability
+- Evidence-Driven
+- Self-Healing
+- I Ching State Machine
+- Audit Logging
+source: https://github.com/yangfei222666-9/taiji
+discovered_at: '2026-06-24T13:20:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

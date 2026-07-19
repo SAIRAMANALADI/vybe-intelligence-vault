@@ -1,13 +1,23 @@
 ---
-title: "malindo77/smartchannels"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "Windows API", "AI/ML (unspecified framework)", "REST APIs (for chat platforms)"]
+title: malindo77/smartchannels
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- SQLite
+- Windows API
+- AI/ML (unspecified framework)
+- REST APIs (for chat platforms)
 quality_score: 7
 rag_relevance: 5
-tags: ["AI assistant", "multi-channel messaging", "local-first", "Windows desktop", "privacy-focused"]
-source: "https://github.com/malindo77/smartchannels"
-discovered_at: "2026-06-22T18:50:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI assistant
+- multi-channel messaging
+- local-first
+- Windows desktop
+- privacy-focused
+source: https://github.com/malindo77/smartchannels
+discovered_at: '2026-06-22T18:50:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

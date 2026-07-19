@@ -1,13 +1,30 @@
 ---
-title: "ansvisor/ansvisor"
-category: "Tooling"
-tech_stack: ["Next.js", "React", "TypeScript", "Express", "Supabase", "Tailwind CSS", "Vercel AI SDK", "Zod", "Socket.IO", "Stripe", "PostHog", "Docker"]
+title: ansvisor/ansvisor
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Next.js
+- React
+- TypeScript
+- Express
+- Supabase
+- Tailwind CSS
+- Vercel AI SDK
+- Zod
+- Socket.IO
+- Stripe
+- PostHog
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Visibility", "Search Optimization", "Brand Tracking", "Content Optimization", "Self-hosted"]
-source: "https://github.com/ansvisor/ansvisor"
-discovered_at: "2026-07-08T17:25:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Visibility
+- Search Optimization
+- Brand Tracking
+- Content Optimization
+- Self-hosted
+source: https://github.com/ansvisor/ansvisor
+discovered_at: '2026-07-08T17:25:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

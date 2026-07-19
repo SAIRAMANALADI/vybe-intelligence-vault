@@ -1,13 +1,23 @@
 ---
-title: "browser-use/browser-harness"
-category: "Agent Framework"
-tech_stack: ["Python", "Chrome DevTools Protocol (CDP)", "WebSocket", "LLM Integration", "Self-healing Automation"]
+title: browser-use/browser-harness
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- Chrome DevTools Protocol (CDP)
+- WebSocket
+- LLM Integration
+- Self-healing Automation
 quality_score: 9
 rag_relevance: 8
-tags: ["browser automation", "LLM agent harness", "self-improving systems", "CDP integration", "web interaction"]
-source: "https://github.com/browser-use/browser-harness"
-discovered_at: "2026-06-22T18:13:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- LLM agent harness
+- self-improving systems
+- CDP integration
+- web interaction
+source: https://github.com/browser-use/browser-harness
+discovered_at: '2026-06-22T18:13:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

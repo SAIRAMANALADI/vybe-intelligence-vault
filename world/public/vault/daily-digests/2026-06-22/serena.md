@@ -1,13 +1,23 @@
 ---
-title: "oraios/serena"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Language Server Protocol (LSP)", "YAML", "JetBrains Plugin (optional)"]
+title: oraios/serena
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Language Server Protocol (LSP)
+- YAML
+- JetBrains Plugin (optional)
 quality_score: 9
 rag_relevance: 10
-tags: ["semantic code analysis", "MCP server", "AI agent IDE", "code refactoring", "symbol-level operations"]
-source: "https://github.com/oraios/serena"
-discovered_at: "2026-06-22T18:15:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- semantic code analysis
+- MCP server
+- AI agent IDE
+- code refactoring
+- symbol-level operations
+source: https://github.com/oraios/serena
+discovered_at: '2026-06-22T18:15:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

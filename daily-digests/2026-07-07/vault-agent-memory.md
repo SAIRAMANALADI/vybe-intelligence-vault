@@ -1,13 +1,26 @@
 ---
-title: "zycaskevin/Vault-Agent-Memory"
-category: "Orchestrator"
-tech_stack: ["Python", "SQLite", "MCP (Model Context Protocol)", "Supabase", "Markdown", "CLI", "Obsidian Sync", "Gateway API"]
+title: zycaskevin/Vault-Agent-Memory
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- SQLite
+- MCP (Model Context Protocol)
+- Supabase
+- Markdown
+- CLI
+- Obsidian Sync
+- Gateway API
 quality_score: 9
 rag_relevance: 8
-tags: ["memory governance", "agent collaboration", "local-first", "review pipeline", "multi-agent systems"]
-source: "https://github.com/zycaskevin/Vault-Agent-Memory"
-discovered_at: "2026-07-07T16:27:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory governance
+- agent collaboration
+- local-first
+- review pipeline
+- multi-agent systems
+source: https://github.com/zycaskevin/Vault-Agent-Memory
+discovered_at: '2026-07-07T16:27:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

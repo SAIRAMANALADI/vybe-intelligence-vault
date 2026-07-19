@@ -1,13 +1,26 @@
 ---
-title: "DevinoSolutions/ai-agent-notifier"
-category: "Tooling"
-tech_stack: ["Node.js", "JavaScript", "PowerShell", "Bash", "ntfy.sh", "BurntToast", "osascript", "notify-send"]
+title: DevinoSolutions/ai-agent-notifier
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Node.js
+- JavaScript
+- PowerShell
+- Bash
+- ntfy.sh
+- BurntToast
+- osascript
+- notify-send
 quality_score: 9
 rag_relevance: 7
-tags: ["notifications", "AI agents", "desktop alerts", "push notifications", "developer tools"]
-source: "https://github.com/DevinoSolutions/ai-agent-notifier"
-discovered_at: "2026-06-22T23:19:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- notifications
+- AI agents
+- desktop alerts
+- push notifications
+- developer tools
+source: https://github.com/DevinoSolutions/ai-agent-notifier
+discovered_at: '2026-06-22T23:19:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "Ales375/giving-agent-starter"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "OpenAI API", "Coinbase Developer Platform (CDP)", "zooidfund", "YAML", "REST APIs", "Cron Scheduling"]
+title: Ales375/giving-agent-starter
+category: daily-digests/2026-07-13
+tech_stack:
+- TypeScript
+- Node.js
+- OpenAI API
+- Coinbase Developer Platform (CDP)
+- zooidfund
+- YAML
+- REST APIs
+- Cron Scheduling
 quality_score: 8
 rag_relevance: 6
-tags: ["autonomous agents", "donation automation", "AI-driven giving", "USDC on Base", "zooidfund"]
-source: "https://github.com/Ales375/giving-agent-starter"
-discovered_at: "2026-07-10T10:51:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- donation automation
+- AI-driven giving
+- USDC on Base
+- zooidfund
+source: https://github.com/Ales375/giving-agent-starter
+discovered_at: '2026-07-10T10:51:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "squadcodercom/squadcoder"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Electron", "Bun", "MCP (Model Context Protocol)", "Claude API", "OpenRouter", "Playwright", "GitHub API", "Semantic Search", "Hebrew Localization"]
+title: squadcodercom/squadcoder
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Electron
+- Bun
+- MCP (Model Context Protocol)
+- Claude API
+- OpenRouter
+- Playwright
+- GitHub API
+- Semantic Search
+- Hebrew Localization
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent orchestration", "autonomous development", "semantic code search", "persistent memory", "local-first AI"]
-source: "https://github.com/squadcodercom/squadcoder"
-discovered_at: "2026-06-24T16:15:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent orchestration
+- autonomous development
+- semantic code search
+- persistent memory
+- local-first AI
+source: https://github.com/squadcodercom/squadcoder
+discovered_at: '2026-06-24T16:15:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

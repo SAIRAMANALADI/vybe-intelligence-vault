@@ -1,13 +1,24 @@
 ---
-title: "Mugyen/agent-bridge"
-category: "Orchestrator"
-tech_stack: ["Node.js", "MCP (Model Context Protocol)", "Bash", "JavaScript", "CLI hooks", "P2P networking"]
+title: Mugyen/agent-bridge
+category: daily-digests/2026-07-09
+tech_stack:
+- Node.js
+- MCP (Model Context Protocol)
+- Bash
+- JavaScript
+- CLI hooks
+- P2P networking
 quality_score: 9
 rag_relevance: 8
-tags: ["agent coordination", "real-time communication", "MCP bridge", "cross-session workflows", "zero dependencies"]
-source: "https://github.com/Mugyen/agent-bridge"
-discovered_at: "2026-07-09T21:18:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent coordination
+- real-time communication
+- MCP bridge
+- cross-session workflows
+- zero dependencies
+source: https://github.com/Mugyen/agent-bridge
+discovered_at: '2026-07-09T21:18:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,29 @@
 ---
-title: "Peiiii/nextclaw"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "React", "Docker", "Electron", "OpenRouter", "OpenAI", "Anthropic", "Gemini", "MCP Servers", "CLI Tools"]
+title: Peiiii/nextclaw
+category: world/public/vault/daily-digests/2026-07-13
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- Docker
+- Electron
+- OpenRouter
+- OpenAI
+- Anthropic
+- Gemini
+- MCP Servers
+- CLI Tools
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Workspace", "Agent Orchestration", "Local-First", "Multi-Model", "Automation"]
-source: "https://github.com/Peiiii/nextclaw"
-discovered_at: "2026-07-13T18:43:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Workspace
+- Agent Orchestration
+- Local-First
+- Multi-Model
+- Automation
+source: https://github.com/Peiiii/nextclaw
+discovered_at: '2026-07-13T18:43:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

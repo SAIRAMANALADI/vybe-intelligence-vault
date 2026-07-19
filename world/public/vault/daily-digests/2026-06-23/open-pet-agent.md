@@ -1,13 +1,26 @@
 ---
-title: "iuin8/open-pet-agent"
-category: "UI Component"
-tech_stack: ["Swift", "Metal GPU", "AppKit", "LLM (OpenAI/Anthropic)", "Swift Package Manager", "Metal Shading Language (MSL)", "AX (Accessibility) APIs", "Open-Meteo API"]
+title: iuin8/open-pet-agent
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Swift
+- Metal GPU
+- AppKit
+- LLM (OpenAI/Anthropic)
+- Swift Package Manager
+- Metal Shading Language (MSL)
+- AX (Accessibility) APIs
+- Open-Meteo API
 quality_score: 9
 rag_relevance: 7
-tags: ["macOS desktop pet", "GPU physics", "LLM integration", "swappable avatars", "agent awareness"]
-source: "https://github.com/iuin8/open-pet-agent"
-discovered_at: "2026-06-23T13:43:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- macOS desktop pet
+- GPU physics
+- LLM integration
+- swappable avatars
+- agent awareness
+source: https://github.com/iuin8/open-pet-agent
+discovered_at: '2026-06-23T13:43:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "ZenthXSin/Vicky"
-category: "Agent Framework"
-tech_stack: ["Kotlin", "Java 21+", "OpenAI API", "Qdrant Vector Database", "KSP (Kotlin Symbol Processing)", "TypeScript 4.9.5", "Maven", "GitHub Actions"]
+title: ZenthXSin/Vicky
+category: daily-digests/2026-06-25
+tech_stack:
+- Kotlin
+- Java 21+
+- OpenAI API
+- Qdrant Vector Database
+- KSP (Kotlin Symbol Processing)
+- TypeScript 4.9.5
+- Maven
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["Kotlin Agent Framework", "OpenAI Compatible", "Tool System", "Semantic Memory", "Dynamic Scripting"]
-source: "https://github.com/ZenthXSin/Vicky"
-discovered_at: "2026-06-25T17:08:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Kotlin Agent Framework
+- OpenAI Compatible
+- Tool System
+- Semantic Memory
+- Dynamic Scripting
+source: https://github.com/ZenthXSin/Vicky
+discovered_at: '2026-06-25T17:08:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

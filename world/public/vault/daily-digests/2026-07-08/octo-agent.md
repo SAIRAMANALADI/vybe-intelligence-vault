@@ -1,13 +1,25 @@
 ---
-title: "open-octo/octo-agent"
-category: "Agent Framework"
-tech_stack: ["Go", "CLI/TUI", "Web Server", "IM Bridge", "Sandboxing", "MCP (Model Context Protocol)", "Skills System"]
+title: open-octo/octo-agent
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Go
+- CLI/TUI
+- Web Server
+- IM Bridge
+- Sandboxing
+- MCP (Model Context Protocol)
+- Skills System
 quality_score: 9
 rag_relevance: 8
-tags: ["self-hosted", "multi-model", "sandboxed", "skills-based", "open-source"]
-source: "https://github.com/open-octo/octo-agent"
-discovered_at: "2026-07-08T02:07:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-hosted
+- multi-model
+- sandboxed
+- skills-based
+- open-source
+source: https://github.com/open-octo/octo-agent
+discovered_at: '2026-07-08T02:07:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

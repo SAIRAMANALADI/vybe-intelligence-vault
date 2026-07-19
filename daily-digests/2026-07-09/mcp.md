@@ -1,13 +1,26 @@
 ---
-title: "awslabs/mcp"
-category: "Agent Framework"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "AWS SDK", "Lambda", "Docker", "HTTP/Streamable HTTP", "Terraform", "CDK"]
+title: awslabs/mcp
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- AWS SDK
+- Lambda
+- Docker
+- HTTP/Streamable HTTP
+- Terraform
+- CDK
 quality_score: 9
 rag_relevance: 8
-tags: ["AWS integration", "Model Context Protocol", "AI agent tools", "Cloud automation", "LLM augmentation"]
-source: "https://github.com/awslabs/mcp"
-discovered_at: "2026-07-09T19:31:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AWS integration
+- Model Context Protocol
+- AI agent tools
+- Cloud automation
+- LLM augmentation
+source: https://github.com/awslabs/mcp
+discovered_at: '2026-07-09T19:31:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

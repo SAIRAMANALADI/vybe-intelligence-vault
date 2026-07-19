@@ -1,13 +1,27 @@
 ---
-title: "Grizzly-Endeavors/grizzly-gameservers"
-category: "Orchestrator"
-tech_stack: ["Rust", "Kubernetes", "Agones", "Discord API", "LLM (Large Language Model)", "Docker", "CI/CD", "Hetzner VPS", "Cargo"]
+title: Grizzly-Endeavors/grizzly-gameservers
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- Rust
+- Kubernetes
+- Agones
+- Discord API
+- LLM (Large Language Model)
+- Docker
+- CI/CD
+- Hetzner VPS
+- Cargo
 quality_score: 8
 rag_relevance: 6
-tags: ["game server management", "automated ops", "Discord automation", "homelab Kubernetes", "LLM-driven maintenance"]
-source: "https://github.com/Grizzly-Endeavors/grizzly-gameservers"
-discovered_at: "2026-07-12T17:03:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- game server management
+- automated ops
+- Discord automation
+- homelab Kubernetes
+- LLM-driven maintenance
+source: https://github.com/Grizzly-Endeavors/grizzly-gameservers
+discovered_at: '2026-07-12T17:03:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

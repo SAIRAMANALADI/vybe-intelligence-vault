@@ -1,13 +1,26 @@
 ---
-title: "yansircc/pi-chrome"
-category: "Tooling"
-tech_stack: ["TypeScript", "Chrome Extension API", "Pi AI Framework", "Effect TS", "Vite", "Node.js", "JSON Schema", "HMAC Authentication"]
+title: yansircc/pi-chrome
+category: daily-digests/2026-07-15
+tech_stack:
+- TypeScript
+- Chrome Extension API
+- Pi AI Framework
+- Effect TS
+- Vite
+- Node.js
+- JSON Schema
+- HMAC Authentication
 quality_score: 8
 rag_relevance: 9
-tags: ["Chrome automation", "browser extension", "atomic tools", "authenticated scraping", "Pi AI integration"]
-source: "https://github.com/yansircc/pi-chrome"
-discovered_at: "2026-07-15T20:07:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Chrome automation
+- browser extension
+- atomic tools
+- authenticated scraping
+- Pi AI integration
+source: https://github.com/yansircc/pi-chrome
+discovered_at: '2026-07-15T20:07:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

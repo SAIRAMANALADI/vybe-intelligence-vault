@@ -1,13 +1,25 @@
 ---
-title: "Genusophiophagussqueezeplay359/ragpipe"
-category: "Tooling"
-tech_stack: ["Python", "YAML", "CLI", "Qdrant", "Pinecone", "Ollama", "OpenAI"]
+title: Genusophiophagussqueezeplay359/ragpipe
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- YAML
+- CLI
+- Qdrant
+- Pinecone
+- Ollama
+- OpenAI
 quality_score: 7
 rag_relevance: 9
-tags: ["RAG", "vector-database", "document-ingestion", "LLM-integration", "pipeline-automation"]
-source: "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-discovered_at: "2026-07-07T06:42:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RAG
+- vector-database
+- document-ingestion
+- LLM-integration
+- pipeline-automation
+source: https://github.com/Genusophiophagussqueezeplay359/ragpipe
+discovered_at: '2026-07-07T06:42:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

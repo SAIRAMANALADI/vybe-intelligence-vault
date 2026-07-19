@@ -1,13 +1,29 @@
 ---
-title: "MikkyPrestige/footydraft"
-category: "Tooling"
-tech_stack: ["Python", "Telegram Bot API", "Streamlit", "SQLAlchemy", "Groq API", "API-Football", "RSS/Reddit/Google News", "Sentry", "Dropbox API", "Docker", "Fly.io"]
+title: MikkyPrestige/footydraft
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- Telegram Bot API
+- Streamlit
+- SQLAlchemy
+- Groq API
+- API-Football
+- RSS/Reddit/Google News
+- Sentry
+- Dropbox API
+- Docker
+- Fly.io
 quality_score: 9
 rag_relevance: 6
-tags: ["AI content generation", "football analytics", "automated social media", "Telegram bot", "RAG pipeline"]
-source: "https://github.com/MikkyPrestige/footydraft"
-discovered_at: "2026-07-09T00:06:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI content generation
+- football analytics
+- automated social media
+- Telegram bot
+- RAG pipeline
+source: https://github.com/MikkyPrestige/footydraft
+discovered_at: '2026-07-09T00:06:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

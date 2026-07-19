@@ -1,13 +1,26 @@
 ---
-title: "hugohe3/ppt-master"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code", "VS Code + Copilot", "PowerPoint API", "AI IDEs", "Claude", "GPT", "Gemini"]
+title: hugohe3/ppt-master
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- Claude Code
+- VS Code + Copilot
+- PowerPoint API
+- AI IDEs
+- Claude
+- GPT
+- Gemini
 quality_score: 9
 rag_relevance: 6
-tags: ["AI-generated presentations", "PowerPoint automation", "document-to-PPTX", "editable slides", "AI workflow harness"]
-source: "https://github.com/hugohe3/ppt-master"
-discovered_at: "2026-06-22T16:48:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-generated presentations
+- PowerPoint automation
+- document-to-PPTX
+- editable slides
+- AI workflow harness
+source: https://github.com/hugohe3/ppt-master
+discovered_at: '2026-06-22T16:48:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

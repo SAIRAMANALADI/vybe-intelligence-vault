@@ -1,13 +1,26 @@
 ---
-title: "marsxhq/manifesto"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "JSON-RPC2", "HTTP/JSON APIs", "MCP (Model Context Protocol)", "A2A (Agent-to-Agent) protocol", "JSON Schema", "JSON-LD", "Crypto payment rails (BTC, ETH, SOL, USDC)"]
+title: marsxhq/manifesto
+category: daily-digests/2026-07-10
+tech_stack:
+- JavaScript
+- JSON-RPC2
+- HTTP/JSON APIs
+- MCP (Model Context Protocol)
+- A2A (Agent-to-Agent) protocol
+- JSON Schema
+- JSON-LD
+- Crypto payment rails (BTC, ETH, SOL, USDC)
 quality_score: 8
 rag_relevance: 9
-tags: ["agent coordination", "hybrid teams", "MCP server", "A2A protocol", "open-core"]
-source: "https://github.com/marsxhq/manifesto"
-discovered_at: "2026-07-10T06:31:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent coordination
+- hybrid teams
+- MCP server
+- A2A protocol
+- open-core
+source: https://github.com/marsxhq/manifesto
+discovered_at: '2026-07-10T06:31:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "inquisitive-genusvedalia144/smartest-tv"
-category: "Tooling"
-tech_stack: ["Python", "Windows Desktop App", "MCP Server", "Network Protocols", "CLI"]
+title: inquisitive-genusvedalia144/smartest-tv
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- Python
+- Windows Desktop App
+- MCP Server
+- Network Protocols
+- CLI
 quality_score: 7
 rag_relevance: 6
-tags: ["TV control", "natural language commands", "smart home", "media automation", "MCP integration"]
-source: "https://github.com/inquisitive-genusvedalia144/smartest-tv"
-discovered_at: "2026-07-13T22:55:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- TV control
+- natural language commands
+- smart home
+- media automation
+- MCP integration
+source: https://github.com/inquisitive-genusvedalia144/smartest-tv
+discovered_at: '2026-07-13T22:55:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

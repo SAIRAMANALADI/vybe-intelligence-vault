@@ -1,13 +1,26 @@
 ---
-title: "aliyun/alibabacloud-agent-toolkit"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Terraform", "IaC Service", "Alibaba Cloud CLI", "OpenAPI", "Telemetry", "JSONL"]
+title: aliyun/alibabacloud-agent-toolkit
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Terraform
+- IaC Service
+- Alibaba Cloud CLI
+- OpenAPI
+- Telemetry
+- JSONL
 quality_score: 8
 rag_relevance: 7
-tags: ["Alibaba Cloud", "Agent Plugins", "Infrastructure as Code", "MCP Server", "Telemetry"]
-source: "https://github.com/aliyun/alibabacloud-agent-toolkit"
-discovered_at: "2026-06-25T11:38:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Alibaba Cloud
+- Agent Plugins
+- Infrastructure as Code
+- MCP Server
+- Telemetry
+source: https://github.com/aliyun/alibabacloud-agent-toolkit
+discovered_at: '2026-06-25T11:38:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

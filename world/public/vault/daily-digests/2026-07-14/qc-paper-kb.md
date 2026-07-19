@@ -1,13 +1,22 @@
 ---
-title: "marianahu1342/QC-Paper-KB"
-category: "Tooling"
-tech_stack: ["Python", "Windows Desktop App", "Semantic Search", "LLM Integration"]
+title: marianahu1342/QC-Paper-KB
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- Python
+- Windows Desktop App
+- Semantic Search
+- LLM Integration
 quality_score: 6
 rag_relevance: 7
-tags: ["quantum computing", "literature review", "paper discovery", "semantic search", "research tool"]
-source: "https://github.com/marianahu1342/QC-Paper-KB"
-discovered_at: "2026-07-12T21:47:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- quantum computing
+- literature review
+- paper discovery
+- semantic search
+- research tool
+source: https://github.com/marianahu1342/QC-Paper-KB
+discovered_at: '2026-07-12T21:47:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

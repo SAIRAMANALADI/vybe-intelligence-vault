@@ -1,13 +1,24 @@
 ---
-title: "akrishnash/anamoly_detection"
-category: "Tooling"
-tech_stack: ["Python", "Isolation Forest (scikit-learn)", "OpenAI API", "PCAP processing", "CVE databases", "MITRE ATT&CK framework"]
+title: akrishnash/anamoly_detection
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Isolation Forest (scikit-learn)
+- OpenAI API
+- PCAP processing
+- CVE databases
+- MITRE ATT&CK framework
 quality_score: 8
 rag_relevance: 7
-tags: ["cybersecurity", "anomaly detection", "network monitoring", "threat intelligence", "AI agent"]
-source: "https://github.com/akrishnash/anamoly_detection"
-discovered_at: "2026-06-23T19:09:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- cybersecurity
+- anomaly detection
+- network monitoring
+- threat intelligence
+- AI agent
+source: https://github.com/akrishnash/anamoly_detection
+discovered_at: '2026-06-23T19:09:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

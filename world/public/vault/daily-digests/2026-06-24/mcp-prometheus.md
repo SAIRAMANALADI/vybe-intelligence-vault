@@ -1,13 +1,27 @@
 ---
-title: "giantswarm/mcp-prometheus"
-category: "Orchestrator"
-tech_stack: ["Go", "Prometheus", "Mimir", "OAuth 2.1", "Dex OIDC", "Kubernetes", "Helm", "Valkey/Redis", "OpenTelemetry"]
+title: giantswarm/mcp-prometheus
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Go
+- Prometheus
+- Mimir
+- OAuth 2.1
+- Dex OIDC
+- Kubernetes
+- Helm
+- Valkey/Redis
+- OpenTelemetry
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP server", "Prometheus integration", "multi-tenancy", "OAuth 2.1", "metrics access"]
-source: "https://github.com/giantswarm/mcp-prometheus"
-discovered_at: "2026-06-24T10:26:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Prometheus integration
+- multi-tenancy
+- OAuth 2.1
+- metrics access
+source: https://github.com/giantswarm/mcp-prometheus
+discovered_at: '2026-06-24T10:26:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

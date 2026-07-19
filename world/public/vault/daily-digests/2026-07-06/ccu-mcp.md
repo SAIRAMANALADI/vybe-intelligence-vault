@@ -1,13 +1,24 @@
 ---
-title: "claymore666/ccu-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Docker", "JSON-RPC", "MCP (Model Context Protocol)", "HomeMatic CCU API"]
+title: claymore666/ccu-mcp
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- Node.js
+- Docker
+- JSON-RPC
+- MCP (Model Context Protocol)
+- HomeMatic CCU API
 quality_score: 9
 rag_relevance: 7
-tags: ["Home Automation", "Smart Home", "MCP Server", "HomeMatic CCU", "AI Integration"]
-source: "https://github.com/claymore666/ccu-mcp"
-discovered_at: "2026-07-06T23:04:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Home Automation
+- Smart Home
+- MCP Server
+- HomeMatic CCU
+- AI Integration
+source: https://github.com/claymore666/ccu-mcp
+discovered_at: '2026-07-06T23:04:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

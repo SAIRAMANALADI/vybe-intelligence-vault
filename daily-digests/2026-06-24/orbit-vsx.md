@@ -1,13 +1,25 @@
 ---
-title: "oaslananka/orbit-vsx"
-category: "UI Component"
-tech_stack: ["TypeScript", "VS Code Extension API", "Node.js", "MCP (Model Context Protocol)", "A2A (Agent-to-Agent) Protocol", "HTTP Services", "REST APIs"]
+title: oaslananka/orbit-vsx
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- VS Code Extension API
+- Node.js
+- MCP (Model Context Protocol)
+- A2A (Agent-to-Agent) Protocol
+- HTTP Services
+- REST APIs
 quality_score: 8
 rag_relevance: 6
-tags: ["VS Code extension", "MCP monitoring", "A2A agent discovery", "Debug session history", "Developer tooling"]
-source: "https://github.com/oaslananka/orbit-vsx"
-discovered_at: "2026-06-24T18:53:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- VS Code extension
+- MCP monitoring
+- A2A agent discovery
+- Debug session history
+- Developer tooling
+source: https://github.com/oaslananka/orbit-vsx
+discovered_at: '2026-06-24T18:53:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

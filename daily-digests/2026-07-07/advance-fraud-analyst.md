@@ -1,13 +1,23 @@
 ---
-title: "Johnza06/advance-fraud-analyst"
-category: "Tooling"
-tech_stack: ["Python", "Hugging Face", "LangChain", "Machine Learning", "Desktop Application"]
+title: Johnza06/advance-fraud-analyst
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- Hugging Face
+- LangChain
+- Machine Learning
+- Desktop Application
 quality_score: 6
 rag_relevance: 4
-tags: ["fraud detection", "risk assessment", "Hugging Face integration", "desktop app", "transaction analysis"]
-source: "https://github.com/Johnza06/advance-fraud-analyst"
-discovered_at: "2026-07-07T13:17:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- fraud detection
+- risk assessment
+- Hugging Face integration
+- desktop app
+- transaction analysis
+source: https://github.com/Johnza06/advance-fraud-analyst
+discovered_at: '2026-07-07T13:17:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

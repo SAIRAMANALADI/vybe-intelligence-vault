@@ -1,13 +1,24 @@
 ---
-title: "musickako-ux/AgentCliBridge"
-category: "Tooling"
-tech_stack: ["TypeScript", "Windows", "Telegram API", "Discord API", "CLI", "Webhooks"]
+title: musickako-ux/AgentCliBridge
+category: daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Windows
+- Telegram API
+- Discord API
+- CLI
+- Webhooks
 quality_score: 7
 rag_relevance: 6
-tags: ["AI agent integration", "chat automation", "workflow orchestration", "human-in-the-loop", "multi-platform"]
-source: "https://github.com/musickako-ux/AgentCliBridge"
-discovered_at: "2026-06-22T18:53:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent integration
+- chat automation
+- workflow orchestration
+- human-in-the-loop
+- multi-platform
+source: https://github.com/musickako-ux/AgentCliBridge
+discovered_at: '2026-06-22T18:53:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

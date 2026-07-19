@@ -1,13 +1,25 @@
 ---
-title: "triggerdotdev/trigger.dev"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "React", "Docker", "Kubernetes", "PostgreSQL", "Redis"]
+title: triggerdotdev/trigger.dev
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- Docker
+- Kubernetes
+- PostgreSQL
+- Redis
 quality_score: 9
 rag_relevance: 9
-tags: ["AI workflows", "durable tasks", "TypeScript SDK", "long-running processes", "observability"]
-source: "https://github.com/triggerdotdev/trigger.dev"
-discovered_at: "2026-06-22T18:14:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI workflows
+- durable tasks
+- TypeScript SDK
+- long-running processes
+- observability
+source: https://github.com/triggerdotdev/trigger.dev
+discovered_at: '2026-06-22T18:14:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

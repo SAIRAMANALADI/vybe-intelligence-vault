@@ -1,13 +1,31 @@
 ---
-title: "brzozanet/fotai.app"
-category: "UI Component"
-tech_stack: ["React", "TypeScript", "Vite", "Express.js", "OpenAI API", "TailwindCSS", "Shadcn/ui", "Zustand", "React Router", "Docker", "MariaDB", "Vercel", "Railway"]
+title: brzozanet/fotai.app
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- React
+- TypeScript
+- Vite
+- Express.js
+- OpenAI API
+- TailwindCSS
+- Shadcn/ui
+- Zustand
+- React Router
+- Docker
+- MariaDB
+- Vercel
+- Railway
 quality_score: 9
 rag_relevance: 6
-tags: ["AI assistant", "photography", "conversational AI", "full-stack", "portfolio"]
-source: "https://github.com/brzozanet/fotai.app"
-discovered_at: "2026-06-25T00:05:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI assistant
+- photography
+- conversational AI
+- full-stack
+- portfolio
+source: https://github.com/brzozanet/fotai.app
+discovered_at: '2026-06-25T00:05:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

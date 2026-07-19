@@ -1,13 +1,28 @@
 ---
-title: "Mague/void-stack"
-category: "Orchestrator"
-tech_stack: ["Rust", "Tree-sitter", "ONNX Runtime", "BAAI/bge-small-en-v1.5", "Tauri", "React", "SQLite", "BM25", "gRPC", "Docker"]
+title: Mague/void-stack
+category: daily-digests/2026-07-11
+tech_stack:
+- Rust
+- Tree-sitter
+- ONNX Runtime
+- BAAI/bge-small-en-v1.5
+- Tauri
+- React
+- SQLite
+- BM25
+- gRPC
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["dev stack orchestration", "AI-assisted code analysis", "MCP server integration", "hybrid semantic indexing", "multi-interface toolkit"]
-source: "https://github.com/Mague/void-stack"
-discovered_at: "2026-07-11T22:45:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- dev stack orchestration
+- AI-assisted code analysis
+- MCP server integration
+- hybrid semantic indexing
+- multi-interface toolkit
+source: https://github.com/Mague/void-stack
+discovered_at: '2026-07-11T22:45:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

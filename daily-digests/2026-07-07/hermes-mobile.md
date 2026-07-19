@@ -1,13 +1,29 @@
 ---
-title: "YinGakki/hermes-mobile"
-category: "Agent Framework"
-tech_stack: ["Kotlin", "Android SDK", "proot", "Ubuntu 24.04 rootfs", "Python", "Node.js", "Hermes Agent", "Hermes WebUI", "Git", "JDK 17", "Gradle"]
+title: YinGakki/hermes-mobile
+category: daily-digests/2026-07-07
+tech_stack:
+- Kotlin
+- Android SDK
+- proot
+- Ubuntu 24.04 rootfs
+- Python
+- Node.js
+- Hermes Agent
+- Hermes WebUI
+- Git
+- JDK 17
+- Gradle
 quality_score: 9
 rag_relevance: 8
-tags: ["Android", "Hermes Agent", "proot", "AI Agent", "Ubuntu rootfs"]
-source: "https://github.com/YinGakki/hermes-mobile"
-discovered_at: "2026-07-07T02:32:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Android
+- Hermes Agent
+- proot
+- AI Agent
+- Ubuntu rootfs
+source: https://github.com/YinGakki/hermes-mobile
+discovered_at: '2026-07-07T02:32:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

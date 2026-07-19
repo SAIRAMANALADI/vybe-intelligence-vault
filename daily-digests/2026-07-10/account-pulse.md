@@ -1,13 +1,25 @@
 ---
-title: "me-Shahsavan/account-pulse"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Nylas v3 API", "Claude LLM", "React (UI)", "REST API", "Hosted Auth"]
+title: me-Shahsavan/account-pulse
+category: daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Node.js
+- Nylas v3 API
+- Claude LLM
+- React (UI)
+- REST API
+- Hosted Auth
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent", "email analysis", "calendar integration", "Nylas", "grounded responses"]
-source: "https://github.com/me-Shahsavan/account-pulse"
-discovered_at: "2026-07-10T06:15:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- email analysis
+- calendar integration
+- Nylas
+- grounded responses
+source: https://github.com/me-Shahsavan/account-pulse
+discovered_at: '2026-07-10T06:15:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "soil-dev/capsulemcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Node.js", "npm", "OAuth", "HTTP", "REST API"]
+title: soil-dev/capsulemcp
+category: world/public/vault/daily-digests/2026-07-13
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Node.js
+- npm
+- OAuth
+- HTTP
+- REST API
 quality_score: 9
 rag_relevance: 8
-tags: ["CRM integration", "MCP server", "Claude AI", "natural language queries", "batch operations"]
-source: "https://github.com/soil-dev/capsulemcp"
-discovered_at: "2026-07-10T18:22:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CRM integration
+- MCP server
+- Claude AI
+- natural language queries
+- batch operations
+source: https://github.com/soil-dev/capsulemcp
+discovered_at: '2026-07-10T18:22:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "yusong652/yade-mcp"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "YADE (Discrete Element Method Engine)", "uv (package manager)", "WebSocket", "Bridge Architecture"]
+title: yusong652/yade-mcp
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- YADE (Discrete Element Method Engine)
+- uv (package manager)
+- WebSocket
+- Bridge Architecture
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "DEM simulations", "AI agent integration", "YADE bridge", "long-running tasks"]
-source: "https://github.com/yusong652/yade-mcp"
-discovered_at: "2026-06-25T05:07:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- DEM simulations
+- AI agent integration
+- YADE bridge
+- long-running tasks
+source: https://github.com/yusong652/yade-mcp
+discovered_at: '2026-06-25T05:07:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "chedong/phpman"
-category: "Tooling"
-tech_stack: ["PHP", "SQLite3", "FTS5", "MCP Protocol", "REST API", "HTML", "Markdown"]
+title: chedong/phpman
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- PHP
+- SQLite3
+- FTS5
+- MCP Protocol
+- REST API
+- HTML
+- Markdown
 quality_score: 9
 rag_relevance: 8
-tags: ["documentation", "MCP server", "man pages", "AI tools", "REST API"]
-source: "https://github.com/chedong/phpman"
-discovered_at: "2026-06-25T07:29:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- documentation
+- MCP server
+- man pages
+- AI tools
+- REST API
+source: https://github.com/chedong/phpman
+discovered_at: '2026-06-25T07:29:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

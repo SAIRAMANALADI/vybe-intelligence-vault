@@ -1,13 +1,24 @@
 ---
-title: "phisanti/MCPR"
-category: "Agent Framework"
-tech_stack: ["R", "JSON-RPC 2.0", "nanonext", "httpgd", "MCP (Model Context Protocol)", "roxygen2"]
+title: phisanti/MCPR
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- R
+- JSON-RPC 2.0
+- nanonext
+- httpgd
+- MCP (Model Context Protocol)
+- roxygen2
 quality_score: 8
 rag_relevance: 7
-tags: ["R programming", "stateful AI collaboration", "data analysis", "MCP tools", "interactive sessions"]
-source: "https://github.com/phisanti/MCPR"
-discovered_at: "2026-07-10T06:31:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- R programming
+- stateful AI collaboration
+- data analysis
+- MCP tools
+- interactive sessions
+source: https://github.com/phisanti/MCPR
+discovered_at: '2026-07-10T06:31:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "hgcon5301/gws-os"
-category: "Tooling"
-tech_stack: ["Python", "Google Workspace API", "CAR Protocol", "Windows CLI", "gws CLI"]
+title: hgcon5301/gws-os
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- Google Workspace API
+- CAR Protocol
+- Windows CLI
+- gws CLI
 quality_score: 6
 rag_relevance: 5
-tags: ["Google Workspace", "multi-account", "memory system", "Claude Code", "local learning"]
-source: "https://github.com/hgcon5301/gws-os"
-discovered_at: "2026-07-07T20:50:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Google Workspace
+- multi-account
+- memory system
+- Claude Code
+- local learning
+source: https://github.com/hgcon5301/gws-os
+discovered_at: '2026-07-07T20:50:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

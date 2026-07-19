@@ -1,13 +1,25 @@
 ---
-title: "cruxible-ai/cruxible"
-category: "Orchestrator"
-tech_stack: ["Python", "YAML", "SQLite", "FastAPI", "Pydantic", "Git", "Docker"]
+title: cruxible-ai/cruxible
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- YAML
+- SQLite
+- FastAPI
+- Pydantic
+- Git
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["state management", "governed workflows", "deterministic queries", "provenance tracking", "AI agent coordination"]
-source: "https://github.com/cruxible-ai/cruxible"
-discovered_at: "2026-07-08T15:16:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- state management
+- governed workflows
+- deterministic queries
+- provenance tracking
+- AI agent coordination
+source: https://github.com/cruxible-ai/cruxible
+discovered_at: '2026-07-08T15:16:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,32 @@
 ---
-title: "FeanorsCodeSL/thorondor"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Docker", "SearXNG", "Crawl4AI", "llama.cpp", "BGE-M3 embeddings", "BGE-reranker-v2-m3", "PostgreSQL", "PowerShell", "Bash", "GGUF models", "Compose", "MCP (Model Context Protocol)"]
+title: FeanorsCodeSL/thorondor
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- Python
+- FastAPI
+- Docker
+- SearXNG
+- Crawl4AI
+- llama.cpp
+- BGE-M3 embeddings
+- BGE-reranker-v2-m3
+- PostgreSQL
+- PowerShell
+- Bash
+- GGUF models
+- Compose
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 10
-tags: ["semantic search", "self-hosted", "RAG pipeline", "agent tools", "data sovereignty"]
-source: "https://github.com/FeanorsCodeSL/thorondor"
-discovered_at: "2026-07-12T17:03:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- semantic search
+- self-hosted
+- RAG pipeline
+- agent tools
+- data sovereignty
+source: https://github.com/FeanorsCodeSL/thorondor
+discovered_at: '2026-07-12T17:03:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

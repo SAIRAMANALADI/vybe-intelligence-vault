@@ -1,13 +1,27 @@
 ---
-title: "ariffazil/wealth"
-category: "Orchestrator"
-tech_stack: ["Python 3.12+", "MCP (Model Context Protocol)", "NumPy", "Pandas", "Monte Carlo simulations", "Systemd", "Node.js (legacy kernel)", "World Bank API", "Frankfurter API (FX rates)"]
+title: ariffazil/wealth
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python 3.12+
+- MCP (Model Context Protocol)
+- NumPy
+- Pandas
+- Monte Carlo simulations
+- Systemd
+- Node.js (legacy kernel)
+- World Bank API
+- Frankfurter API (FX rates)
 quality_score: 9
 rag_relevance: 8
-tags: ["capital computation", "financial analytics", "epistemic tagging", "MCP server", "thermodynamic finance"]
-source: "https://github.com/ariffazil/wealth"
-discovered_at: "2026-06-24T06:51:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- capital computation
+- financial analytics
+- epistemic tagging
+- MCP server
+- thermodynamic finance
+source: https://github.com/ariffazil/wealth
+discovered_at: '2026-06-24T06:51:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

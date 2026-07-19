@@ -1,13 +1,23 @@
 ---
-title: "rupamsamanta123/PDF-QA-RAG-System"
-category: "Tooling"
-tech_stack: ["Streamlit", "LangChain", "Ollama", "Chroma", "Python"]
+title: rupamsamanta123/PDF-QA-RAG-System
+category: daily-digests/2026-06-23
+tech_stack:
+- Streamlit
+- LangChain
+- Ollama
+- Chroma
+- Python
 quality_score: 7
 rag_relevance: 9
-tags: ["RAG", "PDF Processing", "Question Answering", "Vector Database", "Streamlit App"]
-source: "https://github.com/rupamsamanta123/PDF-QA-RAG-System"
-discovered_at: "2026-06-23T19:09:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RAG
+- PDF Processing
+- Question Answering
+- Vector Database
+- Streamlit App
+source: https://github.com/rupamsamanta123/PDF-QA-RAG-System
+discovered_at: '2026-06-23T19:09:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "Jorlyk7630/MCPilot"
-category: "Tooling"
-tech_stack: ["TypeScript", "React", "Tauri", "Windows"]
+title: Jorlyk7630/MCPilot
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- React
+- Tauri
+- Windows
 quality_score: 7
 rag_relevance: 5
-tags: ["MCP", "desktop-app", "server-management", "developer-tools", "Model Context Protocol"]
-source: "https://github.com/Jorlyk7630/MCPilot"
-discovered_at: "2026-07-07T18:58:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- desktop-app
+- server-management
+- developer-tools
+- Model Context Protocol
+source: https://github.com/Jorlyk7630/MCPilot
+discovered_at: '2026-07-07T18:58:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

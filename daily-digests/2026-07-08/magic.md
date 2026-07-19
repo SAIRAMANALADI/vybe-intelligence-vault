@@ -1,13 +1,29 @@
 ---
-title: "polterguy/magic"
-category: "Agent Framework"
-tech_stack: ["C#", ".NET Core", "Hyperlambda", "OpenAI API", "SQLite", "MySQL", "PostgreSQL", "Microsoft SQL Server", "PuppeteerSharp", "Docker", "Git"]
+title: polterguy/magic
+category: daily-digests/2026-07-08
+tech_stack:
+- C#
+- .NET Core
+- Hyperlambda
+- OpenAI API
+- SQLite
+- MySQL
+- PostgreSQL
+- Microsoft SQL Server
+- PuppeteerSharp
+- Docker
+- Git
 quality_score: 9
 rag_relevance: 8
-tags: ["AI-driven development", "self-hosted", "full-stack generation", "agent automation", "natural language programming"]
-source: "https://github.com/polterguy/magic"
-discovered_at: "2026-07-08T15:16:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-driven development
+- self-hosted
+- full-stack generation
+- agent automation
+- natural language programming
+source: https://github.com/polterguy/magic
+discovered_at: '2026-07-08T15:16:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

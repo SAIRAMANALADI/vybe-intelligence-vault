@@ -1,13 +1,25 @@
 ---
-title: "amirdaraee/luxembourg-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "HTTP/Stdio", "Docker", "JSON-RPC", "GeoJSON", "SDMX"]
+title: amirdaraee/luxembourg-mcp
+category: daily-digests/2026-07-15
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- HTTP/Stdio
+- Docker
+- JSON-RPC
+- GeoJSON
+- SDMX
 quality_score: 8
 rag_relevance: 9
-tags: ["public data", "MCP server", "keyless access", "Luxembourg", "AI tooling"]
-source: "https://github.com/amirdaraee/luxembourg-mcp"
-discovered_at: "2026-07-11T11:03:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- public data
+- MCP server
+- keyless access
+- Luxembourg
+- AI tooling
+source: https://github.com/amirdaraee/luxembourg-mcp
+discovered_at: '2026-07-11T11:03:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

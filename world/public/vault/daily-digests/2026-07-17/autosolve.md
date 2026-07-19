@@ -1,13 +1,24 @@
 ---
-title: "thumbrise/autosolve"
-category: "Orchestrator"
-tech_stack: ["Go", "Ollama", "GitHub API", "SQLite", "OpenTelemetry (OTEL)", "YAML"]
+title: thumbrise/autosolve
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- Go
+- Ollama
+- GitHub API
+- SQLite
+- OpenTelemetry (OTEL)
+- YAML
 quality_score: 9
 rag_relevance: 7
-tags: ["AI automation", "GitHub integration", "self-hosted", "issue resolution", "LLM dispatch"]
-source: "https://github.com/thumbrise/autosolve"
-discovered_at: "2026-07-16T20:02:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI automation
+- GitHub integration
+- self-hosted
+- issue resolution
+- LLM dispatch
+source: https://github.com/thumbrise/autosolve
+discovered_at: '2026-07-16T20:02:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

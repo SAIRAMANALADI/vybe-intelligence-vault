@@ -1,13 +1,30 @@
 ---
-title: "sweetcornna/corlinman"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "uvicorn", "gRPC", "SQLite", "Docker", "Next.js", "TypeScript", "OpenTelemetry", "Prometheus", "JSON-RPC 2.0", "TOML"]
+title: sweetcornna/corlinman
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- Python
+- FastAPI
+- uvicorn
+- gRPC
+- SQLite
+- Docker
+- Next.js
+- TypeScript
+- OpenTelemetry
+- Prometheus
+- JSON-RPC 2.0
+- TOML
 quality_score: 9
 rag_relevance: 9
-tags: ["self-hosted", "multi-provider", "sandboxed plugins", "human-in-the-loop", "RAG memory"]
-source: "https://github.com/sweetcornna/corlinman"
-discovered_at: "2026-07-14T16:14:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-hosted
+- multi-provider
+- sandboxed plugins
+- human-in-the-loop
+- RAG memory
+source: https://github.com/sweetcornna/corlinman
+discovered_at: '2026-07-14T16:14:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,21 @@
 ---
-title: "rifkimaulana05/onemcp"
-category: "Tooling"
-tech_stack: ["Java", "Go (CLI)", "API Integration"]
+title: rifkimaulana05/onemcp
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Java
+- Go (CLI)
+- API Integration
 quality_score: 4
 rag_relevance: 6
-tags: ["API integration", "AI agents", "natural language interface", "cost-efficient", "Java"]
-source: "https://github.com/rifkimaulana05/onemcp"
-discovered_at: "2026-07-10T02:26:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- API integration
+- AI agents
+- natural language interface
+- cost-efficient
+- Java
+source: https://github.com/rifkimaulana05/onemcp
+discovered_at: '2026-07-10T02:26:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

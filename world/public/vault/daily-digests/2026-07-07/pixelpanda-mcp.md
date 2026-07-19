@@ -1,13 +1,23 @@
 ---
-title: "longsleevedanaid991/pixelpanda-mcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Real-ESRGAN (for AI upscaling)", "OCR (for text removal)", "FastAPI (implied for API interactions)"]
+title: longsleevedanaid991/pixelpanda-mcp
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Real-ESRGAN (for AI upscaling)
+- OCR (for text removal)
+- FastAPI (implied for API interactions)
 quality_score: 8
 rag_relevance: 7
-tags: ["image processing", "MCP server", "AI tools", "product photography", "local editing"]
-source: "https://github.com/longsleevedanaid991/pixelpanda-mcp"
-discovered_at: "2026-07-07T06:43:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- image processing
+- MCP server
+- AI tools
+- product photography
+- local editing
+source: https://github.com/longsleevedanaid991/pixelpanda-mcp
+discovered_at: '2026-07-07T06:43:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

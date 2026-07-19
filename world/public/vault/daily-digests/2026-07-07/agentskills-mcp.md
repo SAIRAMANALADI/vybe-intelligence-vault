@@ -1,13 +1,22 @@
 ---
-title: "Drhir2460/agentskills-mcp"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "Model Context Protocol (MCP)", "GitHub API"]
+title: Drhir2460/agentskills-mcp
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- FastMCP
+- Model Context Protocol (MCP)
+- GitHub API
 quality_score: 7
 rag_relevance: 8
-tags: ["agent skills", "MCP server", "skill discovery", "GitHub integration", "AI workflows"]
-source: "https://github.com/Drhir2460/agentskills-mcp"
-discovered_at: "2026-07-07T06:43:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent skills
+- MCP server
+- skill discovery
+- GitHub integration
+- AI workflows
+source: https://github.com/Drhir2460/agentskills-mcp
+discovered_at: '2026-07-07T06:43:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "kenzzark/polengshui-skill"
-category: "Tooling"
-tech_stack: ["YAML", "Markdown", "CLI Tools", "Agent Skills Framework", "Structured Prompting"]
+title: kenzzark/polengshui-skill
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- YAML
+- Markdown
+- CLI Tools
+- Agent Skills Framework
+- Structured Prompting
 quality_score: 8
 rag_relevance: 7
-tags: ["evidence-based critique", "premortem analysis", "decision validation", "risk auditing", "adversarial review"]
-source: "https://github.com/kenzzark/polengshui-skill"
-discovered_at: "2026-07-10T16:24:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- evidence-based critique
+- premortem analysis
+- decision validation
+- risk auditing
+- adversarial review
+source: https://github.com/kenzzark/polengshui-skill
+discovered_at: '2026-07-10T16:24:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

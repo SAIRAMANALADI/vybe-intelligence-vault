@@ -1,13 +1,28 @@
 ---
-title: "heymrun/heym"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Vue.js", "TypeScript", "Bun", "Docker", "PostgreSQL", "pgvector", "Qdrant", "OpenTelemetry"]
+title: heymrun/heym
+category: daily-digests/2026-07-16
+tech_stack:
+- Python
+- FastAPI
+- Vue.js
+- TypeScript
+- Bun
+- Docker
+- PostgreSQL
+- pgvector
+- Qdrant
+- OpenTelemetry
 quality_score: 9
 rag_relevance: 9
-tags: ["AI workflow automation", "multi-agent orchestration", "RAG pipelines", "visual canvas", "self-hosted"]
-source: "https://github.com/heymrun/heym"
-discovered_at: "2026-07-11T13:14:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI workflow automation
+- multi-agent orchestration
+- RAG pipelines
+- visual canvas
+- self-hosted
+source: https://github.com/heymrun/heym
+discovered_at: '2026-07-11T13:14:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

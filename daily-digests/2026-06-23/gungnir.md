@@ -1,13 +1,30 @@
 ---
-title: "kevinggraphiste-hub/Gungnir"
-category: "Agent Framework"
-tech_stack: ["Python 3.12", "FastAPI", "PostgreSQL 16", "React 18", "TypeScript", "Qdrant", "Pinecone", "ChromaDB", "Supabase", "Docker", "asyncio", "asyncpg"]
+title: kevinggraphiste-hub/Gungnir
+category: daily-digests/2026-06-23
+tech_stack:
+- Python 3.12
+- FastAPI
+- PostgreSQL 16
+- React 18
+- TypeScript
+- Qdrant
+- Pinecone
+- ChromaDB
+- Supabase
+- Docker
+- asyncio
+- asyncpg
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous agents", "vector memory", "sovereign AI", "modular plugins", "multi-provider LLM"]
-source: "https://github.com/kevinggraphiste-hub/Gungnir"
-discovered_at: "2026-06-23T23:07:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- vector memory
+- sovereign AI
+- modular plugins
+- multi-provider LLM
+source: https://github.com/kevinggraphiste-hub/Gungnir
+discovered_at: '2026-06-23T23:07:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

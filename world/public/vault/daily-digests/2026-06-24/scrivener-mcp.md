@@ -1,13 +1,26 @@
 ---
-title: "writerslogic/scrivener-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Scrivener API", "Holographic Memory System", "OpenAI API", "Docker", "Homebrew"]
+title: writerslogic/scrivener-mcp
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Scrivener API
+- Holographic Memory System
+- OpenAI API
+- Docker
+- Homebrew
 quality_score: 9
 rag_relevance: 7
-tags: ["Scrivener integration", "AI-assisted writing", "Document management", "Semantic search", "Content analysis"]
-source: "https://github.com/writerslogic/scrivener-mcp"
-discovered_at: "2026-06-24T06:49:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Scrivener integration
+- AI-assisted writing
+- Document management
+- Semantic search
+- Content analysis
+source: https://github.com/writerslogic/scrivener-mcp
+discovered_at: '2026-06-24T06:49:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

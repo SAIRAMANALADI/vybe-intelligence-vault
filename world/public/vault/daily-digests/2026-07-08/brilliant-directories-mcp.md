@@ -1,13 +1,23 @@
 ---
-title: "brilliantdirectories/brilliant-directories-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "REST API", "npm"]
+title: brilliantdirectories/brilliant-directories-mcp
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- REST API
+- npm
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Brilliant Directories", "AI integration", "REST API wrapper", "automation"]
-source: "https://github.com/brilliantdirectories/brilliant-directories-mcp"
-discovered_at: "2026-07-08T11:00:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Brilliant Directories
+- AI integration
+- REST API wrapper
+- automation
+source: https://github.com/brilliantdirectories/brilliant-directories-mcp
+discovered_at: '2026-07-08T11:00:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "Sugers955/agent-mill"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Vue 3", "TypeScript", "MySQL", "Rust (ZVec vector engine)", "Docker", "Node.js", "Element Plus", "Pinia"]
+title: Sugers955/agent-mill
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- FastAPI
+- Vue 3
+- TypeScript
+- MySQL
+- Rust (ZVec vector engine)
+- Docker
+- Node.js
+- Element Plus
+- Pinia
 quality_score: 9
 rag_relevance: 9
-tags: ["AI Agents", "Multi-Agent Orchestration", "RAG", "Enterprise AI", "Tool Integration"]
-source: "https://github.com/Sugers955/agent-mill"
-discovered_at: "2026-06-24T10:21:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agents
+- Multi-Agent Orchestration
+- RAG
+- Enterprise AI
+- Tool Integration
+source: https://github.com/Sugers955/agent-mill
+discovered_at: '2026-06-24T10:21:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

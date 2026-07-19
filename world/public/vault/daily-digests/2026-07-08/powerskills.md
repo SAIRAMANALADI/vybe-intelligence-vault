@@ -1,13 +1,22 @@
 ---
-title: "felipemsilva/PowerSkills"
-category: "Tooling"
-tech_stack: ["PowerShell", "JSON", "Windows COM Automation", "PowerShell Scripting"]
+title: felipemsilva/PowerSkills
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- PowerShell
+- JSON
+- Windows COM Automation
+- PowerShell Scripting
 quality_score: 7
 rag_relevance: 4
-tags: ["Windows automation", "PowerShell scripting", "task automation", "JSON workflows", "desktop control"]
-source: "https://github.com/felipemsilva/PowerSkills"
-discovered_at: "2026-07-08T02:07:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Windows automation
+- PowerShell scripting
+- task automation
+- JSON workflows
+- desktop control
+source: https://github.com/felipemsilva/PowerSkills
+discovered_at: '2026-07-08T02:07:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

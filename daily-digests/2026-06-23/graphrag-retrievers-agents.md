@@ -1,13 +1,24 @@
 ---
-title: "JessEnterprise/graphRAG-retrievers-agents"
-category: "Agent Framework"
-tech_stack: ["Python", "Jupyter Notebook", "Neo4j", "GraphRAG", "Vector Retrieval", "Cypher Query Language"]
+title: JessEnterprise/graphRAG-retrievers-agents
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Jupyter Notebook
+- Neo4j
+- GraphRAG
+- Vector Retrieval
+- Cypher Query Language
 quality_score: 6
 rag_relevance: 8
-tags: ["GraphRAG", "Neo4j", "Retrieval-Augmented Generation", "Conversational Agents", "Hybrid Search"]
-source: "https://github.com/JessEnterprise/graphRAG-retrievers-agents"
-discovered_at: "2026-06-23T19:07:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- GraphRAG
+- Neo4j
+- Retrieval-Augmented Generation
+- Conversational Agents
+- Hybrid Search
+source: https://github.com/JessEnterprise/graphRAG-retrievers-agents
+discovered_at: '2026-06-23T19:07:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

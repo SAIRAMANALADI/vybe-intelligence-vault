@@ -1,13 +1,22 @@
 ---
-title: "ninjacazul/hono-mcp-server"
-category: "Tooling"
-tech_stack: ["TypeScript", "Hono", "MCP (Model Context Protocol)", "Zod"]
+title: ninjacazul/hono-mcp-server
+category: daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- Hono
+- MCP (Model Context Protocol)
+- Zod
 quality_score: 6
 rag_relevance: 7
-tags: ["MCP", "Hono", "API Integration", "TypeScript", "Tooling"]
-source: "https://github.com/ninjacazul/hono-mcp-server"
-discovered_at: "2026-07-06T21:26:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- Hono
+- API Integration
+- TypeScript
+- Tooling
+source: https://github.com/ninjacazul/hono-mcp-server
+discovered_at: '2026-07-06T21:26:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

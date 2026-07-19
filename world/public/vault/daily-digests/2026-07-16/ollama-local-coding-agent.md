@@ -1,13 +1,24 @@
 ---
-title: "Sachin7456/ollama-local-coding-agent"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Ollama", "Qwen models", "React-like terminal UI", "Zero external dependencies"]
+title: Sachin7456/ollama-local-coding-agent
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- TypeScript
+- Node.js
+- Ollama
+- Qwen models
+- React-like terminal UI
+- Zero external dependencies
 quality_score: 9
 rag_relevance: 8
-tags: ["local LLM", "offline AI", "coding agent", "multi-agent system", "self-hosted"]
-source: "https://github.com/Sachin7456/ollama-local-coding-agent"
-discovered_at: "2026-07-11T17:54:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local LLM
+- offline AI
+- coding agent
+- multi-agent system
+- self-hosted
+source: https://github.com/Sachin7456/ollama-local-coding-agent
+discovered_at: '2026-07-11T17:54:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

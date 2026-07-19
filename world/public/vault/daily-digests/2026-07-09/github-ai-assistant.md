@@ -1,13 +1,22 @@
 ---
-title: "monuro/github-ai-assistant"
-category: "Tooling"
-tech_stack: ["Java", "GitHub API", "AI/ML (implied for automation)", "Command-line Interface (CLI)"]
+title: monuro/github-ai-assistant
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Java
+- GitHub API
+- AI/ML (implied for automation)
+- Command-line Interface (CLI)
 quality_score: 5
 rag_relevance: 6
-tags: ["GitHub automation", "AI-powered tools", "CLI assistant", "development workflow", "commit message generation"]
-source: "https://github.com/monuro/github-ai-assistant"
-discovered_at: "2026-07-09T00:06:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- GitHub automation
+- AI-powered tools
+- CLI assistant
+- development workflow
+- commit message generation
+source: https://github.com/monuro/github-ai-assistant
+discovered_at: '2026-07-09T00:06:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

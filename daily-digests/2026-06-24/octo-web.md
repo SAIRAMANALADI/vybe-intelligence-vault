@@ -1,13 +1,26 @@
 ---
-title: "Mininglamp-OSS/octo-web"
-category: "UI Component"
-tech_stack: ["TypeScript", "React", "Electron", "WebSocket", "REST API", "i18n", "Jest", "pnpm"]
+title: Mininglamp-OSS/octo-web
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- React
+- Electron
+- WebSocket
+- REST API
+- i18n
+- Jest
+- pnpm
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agent interface", "multi-platform client", "React/TypeScript", "Electron", "real-time messaging"]
-source: "https://github.com/Mininglamp-OSS/octo-web"
-discovered_at: "2026-06-24T02:46:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent interface
+- multi-platform client
+- React/TypeScript
+- Electron
+- real-time messaging
+source: https://github.com/Mininglamp-OSS/octo-web
+discovered_at: '2026-06-24T02:46:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

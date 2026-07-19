@@ -1,13 +1,25 @@
 ---
-title: "aliasunder/vault-cortex"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Docker", "SQLite FTS5", "OAuth 2.1", "Node.js", "Obsidian Sync", "MCP (Model Context Protocol)"]
+title: aliasunder/vault-cortex
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Docker
+- SQLite FTS5
+- OAuth 2.1
+- Node.js
+- Obsidian Sync
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["Obsidian integration", "MCP server", "AI memory", "full-text search", "remote access"]
-source: "https://github.com/aliasunder/vault-cortex"
-discovered_at: "2026-06-24T18:57:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Obsidian integration
+- MCP server
+- AI memory
+- full-text search
+- remote access
+source: https://github.com/aliasunder/vault-cortex
+discovered_at: '2026-06-24T18:57:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

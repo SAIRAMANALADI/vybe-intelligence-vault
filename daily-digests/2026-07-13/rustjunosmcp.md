@@ -1,13 +1,29 @@
 ---
-title: "fastrevmd-lab/rustjunosmcp"
-category: "Agent Framework"
-tech_stack: ["Rust", "Model Context Protocol (MCP)", "NETCONF", "SSH", "Juniper Junos", "Jinja2", "SCP", "TLS", "rustEZ", "rustnetconf", "rmcp"]
+title: fastrevmd-lab/rustjunosmcp
+category: daily-digests/2026-07-13
+tech_stack:
+- Rust
+- Model Context Protocol (MCP)
+- NETCONF
+- SSH
+- Juniper Junos
+- Jinja2
+- SCP
+- TLS
+- rustEZ
+- rustnetconf
+- rmcp
 quality_score: 9
 rag_relevance: 9
-tags: ["Junos automation", "MCP server", "Rust", "network management", "configuration management"]
-source: "https://github.com/fastrevmd-lab/rustjunosmcp"
-discovered_at: "2026-07-13T16:31:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Junos automation
+- MCP server
+- Rust
+- network management
+- configuration management
+source: https://github.com/fastrevmd-lab/rustjunosmcp
+discovered_at: '2026-07-13T16:31:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

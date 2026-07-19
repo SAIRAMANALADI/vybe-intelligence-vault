@@ -1,13 +1,25 @@
 ---
-title: "woodwosj/GhostShell"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "PostgreSQL", "Argon2id", "AES-256-GCM", "OAuth2"]
+title: woodwosj/GhostShell
+category: daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- PostgreSQL
+- Argon2id
+- AES-256-GCM
+- OAuth2
 quality_score: 9
 rag_relevance: 8
-tags: ["credential management", "MCP server", "AI agent security", "authentication proxy", "secret vault"]
-source: "https://github.com/woodwosj/GhostShell"
-discovered_at: "2026-07-10T02:27:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- credential management
+- MCP server
+- AI agent security
+- authentication proxy
+- secret vault
+source: https://github.com/woodwosj/GhostShell
+discovered_at: '2026-07-10T02:27:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

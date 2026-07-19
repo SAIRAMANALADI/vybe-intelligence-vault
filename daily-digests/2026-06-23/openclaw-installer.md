@@ -1,13 +1,22 @@
 ---
-title: "addurus/openclaw-installer"
-category: "Tooling"
-tech_stack: ["Installer (EXE)", "Microsoft Visual C++ Redistributable", "Python (implied by OpenClaw dependencies)", "Git (optional, bundled)"]
+title: addurus/openclaw-installer
+category: daily-digests/2026-06-23
+tech_stack:
+- Installer (EXE)
+- Microsoft Visual C++ Redistributable
+- Python (implied by OpenClaw dependencies)
+- Git (optional, bundled)
 quality_score: 6
 rag_relevance: 4
-tags: ["one-click installer", "dependency management", "OpenClaw", "Chinese localization", "system optimization"]
-source: "https://github.com/addurus/openclaw-installer"
-discovered_at: "2026-06-23T02:44:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- one-click installer
+- dependency management
+- OpenClaw
+- Chinese localization
+- system optimization
+source: https://github.com/addurus/openclaw-installer
+discovered_at: '2026-06-23T02:44:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

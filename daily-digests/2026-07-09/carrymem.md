@@ -1,13 +1,29 @@
 ---
-title: "lulin70/carrymem"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "PyYAML", "sqlite-vec", "sentence-transformers", "cryptography", "pycld2", "langdetect", "pytest", "ruff", "mypy"]
+title: lulin70/carrymem
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- SQLite
+- PyYAML
+- sqlite-vec
+- sentence-transformers
+- cryptography
+- pycld2
+- langdetect
+- pytest
+- ruff
+- mypy
 quality_score: 10
 rag_relevance: 9
-tags: ["AI memory", "preference injection", "portable identity", "MCP integration", "zero-dependency"]
-source: "https://github.com/lulin70/carrymem"
-discovered_at: "2026-07-09T04:46:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI memory
+- preference injection
+- portable identity
+- MCP integration
+- zero-dependency
+source: https://github.com/lulin70/carrymem
+discovered_at: '2026-07-09T04:46:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

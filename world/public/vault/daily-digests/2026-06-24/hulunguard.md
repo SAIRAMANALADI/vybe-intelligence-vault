@@ -1,13 +1,29 @@
 ---
-title: "Felix-Zuo/HulunGuard"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "OpenTelemetry", "OpenInference", "LangGraph", "LangSmith", "Langfuse", "SWE-agent", "JSON/JSONL", "CLI", "SDK"]
+title: Felix-Zuo/HulunGuard
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- OpenTelemetry
+- OpenInference
+- LangGraph
+- LangSmith
+- Langfuse
+- SWE-agent
+- JSON/JSONL
+- CLI
+- SDK
 quality_score: 9
 rag_relevance: 8
-tags: ["AI reliability", "agent monitoring", "risk assessment", "evidence tracking", "task verification"]
-source: "https://github.com/Felix-Zuo/HulunGuard"
-discovered_at: "2026-06-24T22:13:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI reliability
+- agent monitoring
+- risk assessment
+- evidence tracking
+- task verification
+source: https://github.com/Felix-Zuo/HulunGuard
+discovered_at: '2026-06-24T22:13:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

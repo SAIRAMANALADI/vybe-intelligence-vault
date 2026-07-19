@@ -1,13 +1,31 @@
 ---
-title: "Gsfrota/e-finance"
-category: "SaaS Template"
-tech_stack: ["React 19", "TypeScript", "Supabase", "Vite", "Tailwind CSS", "Google Cloud Run", "Gemini AI", "WhatsApp API", "Node.js", "PostgreSQL", "Express", "Telegram Bot API", "Playwright"]
+title: Gsfrota/e-finance
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- React 19
+- TypeScript
+- Supabase
+- Vite
+- Tailwind CSS
+- Google Cloud Run
+- Gemini AI
+- WhatsApp API
+- Node.js
+- PostgreSQL
+- Express
+- Telegram Bot API
+- Playwright
 quality_score: 9
 rag_relevance: 5
-tags: ["multi-tenant SaaS", "AI conversational agent", "WhatsApp integration", "credit management", "PIX payments"]
-source: "https://github.com/Gsfrota/e-finance"
-discovered_at: "2026-06-24T20:46:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-tenant SaaS
+- AI conversational agent
+- WhatsApp integration
+- credit management
+- PIX payments
+source: https://github.com/Gsfrota/e-finance
+discovered_at: '2026-06-24T20:46:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

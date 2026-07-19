@@ -1,13 +1,30 @@
 ---
-title: "linny006/llm-agents-radar"
-category: "Tooling"
-tech_stack: ["Python", "GitHub Actions", "GitHub Search API", "Markdown", "TypeScript", "Rust", "Go", "JavaScript", "Ruby", "Kotlin", "HTML", "CSS"]
+title: linny006/llm-agents-radar
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- GitHub Actions
+- GitHub Search API
+- Markdown
+- TypeScript
+- Rust
+- Go
+- JavaScript
+- Ruby
+- Kotlin
+- HTML
+- CSS
 quality_score: 9
 rag_relevance: 7
-tags: ["LLM agents", "GitHub monitoring", "live index", "automated discovery", "developer tools"]
-source: "https://github.com/linny006/llm-agents-radar"
-discovered_at: "2026-06-22T18:50:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LLM agents
+- GitHub monitoring
+- live index
+- automated discovery
+- developer tools
+source: https://github.com/linny006/llm-agents-radar
+discovered_at: '2026-06-22T18:50:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

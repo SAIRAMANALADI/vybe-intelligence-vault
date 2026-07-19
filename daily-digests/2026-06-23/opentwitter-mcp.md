@@ -1,13 +1,25 @@
 ---
-title: "kamflowersthemacrogod/opentwitter-mcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "FastMCP", "HTTPX", "Uvicorn", "JSON", "REST API"]
+title: kamflowersthemacrogod/opentwitter-mcp
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- FastMCP
+- HTTPX
+- Uvicorn
+- JSON
+- REST API
 quality_score: 8
 rag_relevance: 7
-tags: ["Twitter API", "MCP Server", "Data Access", "Social Media", "AI Integration"]
-source: "https://github.com/kamflowersthemacrogod/opentwitter-mcp"
-discovered_at: "2026-06-23T23:10:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Twitter API
+- MCP Server
+- Data Access
+- Social Media
+- AI Integration
+source: https://github.com/kamflowersthemacrogod/opentwitter-mcp
+discovered_at: '2026-06-23T23:10:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "TangGV/hermes-self-iteration-skill"
-category: "Tooling"
-tech_stack: ["Markdown", "YAML", "Bash/Shell", "Python", "systemd", "Nginx/OpenResty", "Git"]
+title: TangGV/hermes-self-iteration-skill
+category: daily-digests/2026-07-08
+tech_stack:
+- Markdown
+- YAML
+- Bash/Shell
+- Python
+- systemd
+- Nginx/OpenResty
+- Git
 quality_score: 8
 rag_relevance: 7
-tags: ["Hermes Agent", "Runbook", "Self-Iteration", "DevOps", "Knowledge Repository"]
-source: "https://github.com/TangGV/hermes-self-iteration-skill"
-discovered_at: "2026-07-08T02:06:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Hermes Agent
+- Runbook
+- Self-Iteration
+- DevOps
+- Knowledge Repository
+source: https://github.com/TangGV/hermes-self-iteration-skill
+discovered_at: '2026-07-08T02:06:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

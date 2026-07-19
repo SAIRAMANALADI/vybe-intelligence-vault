@@ -1,13 +1,25 @@
 ---
-title: "LouisLau-art/multi-agent-skills-catalog"
-category: "Tooling"
-tech_stack: ["Python", "Shell Scripting", "PowerShell", "CSV", "GitHub Actions", "MCP (Model Context Protocol)", "API Integration"]
+title: LouisLau-art/multi-agent-skills-catalog
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Shell Scripting
+- PowerShell
+- CSV
+- GitHub Actions
+- MCP (Model Context Protocol)
+- API Integration
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent", "skill management", "curated catalog", "deterministic install", "cross-agent sync"]
-source: "https://github.com/LouisLau-art/multi-agent-skills-catalog"
-discovered_at: "2026-06-23T06:49:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent
+- skill management
+- curated catalog
+- deterministic install
+- cross-agent sync
+source: https://github.com/LouisLau-art/multi-agent-skills-catalog
+discovered_at: '2026-06-23T06:49:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

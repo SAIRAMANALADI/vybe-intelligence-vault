@@ -1,13 +1,22 @@
 ---
-title: "vrinda3369/clawtouch-mcp"
-category: "Tooling"
-tech_stack: ["Python", "USB HID", "MCP (Model Context Protocol)", "Device Drivers"]
+title: vrinda3369/clawtouch-mcp
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- USB HID
+- MCP (Model Context Protocol)
+- Device Drivers
 quality_score: 5
 rag_relevance: 7
-tags: ["HID control", "MCP integration", "AI peripherals", "input automation", "device server"]
-source: "https://github.com/vrinda3369/clawtouch-mcp"
-discovered_at: "2026-06-24T06:45:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- HID control
+- MCP integration
+- AI peripherals
+- input automation
+- device server
+source: https://github.com/vrinda3369/clawtouch-mcp
+discovered_at: '2026-06-24T06:45:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

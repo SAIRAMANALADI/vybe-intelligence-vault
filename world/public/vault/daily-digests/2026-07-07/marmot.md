@@ -1,13 +1,24 @@
 ---
-title: "marmotdata/marmot"
-category: "Tooling"
-tech_stack: ["Go", "TypeScript", "MCP (Model Context Protocol)", "SQL", "REST APIs", "Plugin System"]
+title: marmotdata/marmot
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Go
+- TypeScript
+- MCP (Model Context Protocol)
+- SQL
+- REST APIs
+- Plugin System
 quality_score: 9
 rag_relevance: 9
-tags: ["data catalog", "metadata management", "AI context layer", "data discovery", "MCP integration"]
-source: "https://github.com/marmotdata/marmot"
-discovered_at: "2026-07-07T22:09:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- data catalog
+- metadata management
+- AI context layer
+- data discovery
+- MCP integration
+source: https://github.com/marmotdata/marmot
+discovered_at: '2026-07-07T22:09:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

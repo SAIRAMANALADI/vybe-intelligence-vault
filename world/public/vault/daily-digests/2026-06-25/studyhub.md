@@ -1,13 +1,28 @@
 ---
-title: "ChengjinLii/studyhub"
-category: "UI Component"
-tech_stack: ["FastAPI", "Next.js", "TypeScript", "MySQL", "Redis", "SQLAlchemy", "Pydantic", "\u963f\u91cc\u4e91 OSS", "Docker", "Nginx"]
+title: ChengjinLii/studyhub
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- FastAPI
+- Next.js
+- TypeScript
+- MySQL
+- Redis
+- SQLAlchemy
+- Pydantic
+- 阿里云 OSS
+- Docker
+- Nginx
 quality_score: 8
 rag_relevance: 6
-tags: ["campus platform", "knowledge sharing", "AI integration", "RESTful API", "resource management"]
-source: "https://github.com/ChengjinLii/studyhub"
-discovered_at: "2026-06-25T08:29:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- campus platform
+- knowledge sharing
+- AI integration
+- RESTful API
+- resource management
+source: https://github.com/ChengjinLii/studyhub
+discovered_at: '2026-06-25T08:29:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

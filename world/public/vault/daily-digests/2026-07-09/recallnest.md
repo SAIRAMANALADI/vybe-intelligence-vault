@@ -1,13 +1,27 @@
 ---
-title: "AliceLJY/recallnest"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "LanceDB", "Bun", "Node.js", "Model Context Protocol (MCP)", "React", "TailwindCSS", "Zod", "Jina AI API"]
+title: AliceLJY/recallnest
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- LanceDB
+- Bun
+- Node.js
+- Model Context Protocol (MCP)
+- React
+- TailwindCSS
+- Zod
+- Jina AI API
 quality_score: 9
 rag_relevance: 10
-tags: ["memory management", "context persistence", "hybrid retrieval", "knowledge graph", "agent integration"]
-source: "https://github.com/AliceLJY/recallnest"
-discovered_at: "2026-07-09T17:17:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory management
+- context persistence
+- hybrid retrieval
+- knowledge graph
+- agent integration
+source: https://github.com/AliceLJY/recallnest
+discovered_at: '2026-07-09T17:17:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

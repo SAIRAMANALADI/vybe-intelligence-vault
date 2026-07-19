@@ -1,13 +1,25 @@
 ---
-title: "tdwhere123/Do-SOUL-Alaya"
-category: "Tooling"
-tech_stack: ["TypeScript", "SQLite", "Node.js", "MCP (Model Context Protocol)", "pnpm", "ONNX Runtime", "Benchmarking Frameworks"]
+title: tdwhere123/Do-SOUL-Alaya
+category: daily-digests/2026-07-14
+tech_stack:
+- TypeScript
+- SQLite
+- Node.js
+- MCP (Model Context Protocol)
+- pnpm
+- ONNX Runtime
+- Benchmarking Frameworks
 quality_score: 8
 rag_relevance: 9
-tags: ["memory management", "CLI agents", "evidence-gated", "local-first", "auditability"]
-source: "https://github.com/tdwhere123/Do-SOUL-Alaya"
-discovered_at: "2026-07-11T14:52:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory management
+- CLI agents
+- evidence-gated
+- local-first
+- auditability
+source: https://github.com/tdwhere123/Do-SOUL-Alaya
+discovered_at: '2026-07-11T14:52:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

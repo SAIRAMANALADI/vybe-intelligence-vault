@@ -1,13 +1,25 @@
 ---
-title: "badchars/darknet-mcp-server"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Bun", "Model Context Protocol (MCP)", "Node.js", "Tor SOCKS5 Proxy", "REST APIs", "Web Scraping"]
+title: badchars/darknet-mcp-server
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Bun
+- Model Context Protocol (MCP)
+- Node.js
+- Tor SOCKS5 Proxy
+- REST APIs
+- Web Scraping
 quality_score: 9
 rag_relevance: 10
-tags: ["threat intelligence", "dark web", "MCP server", "ransomware tracking", "breach data"]
-source: "https://github.com/badchars/darknet-mcp-server"
-discovered_at: "2026-06-23T19:12:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- threat intelligence
+- dark web
+- MCP server
+- ransomware tracking
+- breach data
+source: https://github.com/badchars/darknet-mcp-server
+discovered_at: '2026-06-23T19:12:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

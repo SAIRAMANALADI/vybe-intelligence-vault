@@ -1,13 +1,34 @@
 ---
-title: "trydirect/stacker"
-category: "Orchestrator"
-tech_stack: ["Rust", "Docker", "Docker Compose", "Terraform", "Ansible", "Ollama", "OpenAI API", "Anthropic API", "Nginx Proxy Manager", "Vault", "AMQP", "mTLS", "SSH", "CLI", "REST API", "MCP Server"]
+title: trydirect/stacker
+category: daily-digests/2026-07-08
+tech_stack:
+- Rust
+- Docker
+- Docker Compose
+- Terraform
+- Ansible
+- Ollama
+- OpenAI API
+- Anthropic API
+- Nginx Proxy Manager
+- Vault
+- AMQP
+- mTLS
+- SSH
+- CLI
+- REST API
+- MCP Server
 quality_score: 9
 rag_relevance: 8
-tags: ["container orchestration", "AI-assisted deployment", "multi-cloud", "secrets management", "reverse proxy"]
-source: "https://github.com/trydirect/stacker"
-discovered_at: "2026-07-08T21:02:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- container orchestration
+- AI-assisted deployment
+- multi-cloud
+- secrets management
+- reverse proxy
+source: https://github.com/trydirect/stacker
+discovered_at: '2026-07-08T21:02:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

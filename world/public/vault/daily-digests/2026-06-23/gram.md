@@ -1,13 +1,27 @@
 ---
-title: "speakeasy-api/gram"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Go", "Golang", "Goa (API framework)", "Temporal (workflow engine)", "OpenAPI", "MCP (Model Context Protocol)", "CLI", "OAuth"]
+title: speakeasy-api/gram
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Go
+- Golang
+- Goa (API framework)
+- Temporal (workflow engine)
+- OpenAPI
+- MCP (Model Context Protocol)
+- CLI
+- OAuth
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP", "Model Context Protocol", "TypeScript SDK", "OpenAPI", "Agent Tools"]
-source: "https://github.com/speakeasy-api/gram"
-discovered_at: "2026-06-23T19:15:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- Model Context Protocol
+- TypeScript SDK
+- OpenAPI
+- Agent Tools
+source: https://github.com/speakeasy-api/gram
+discovered_at: '2026-06-23T19:15:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

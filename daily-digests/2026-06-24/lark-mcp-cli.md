@@ -1,13 +1,23 @@
 ---
-title: "Nonsteroidal-steelman66/lark-mcp-cli"
-category: "Tooling"
-tech_stack: ["Model Context Protocol (MCP)", "Command-Line Interface (CLI)", "Windows OS", "Lark API", "Python (implied by CLI structure)"]
+title: Nonsteroidal-steelman66/lark-mcp-cli
+category: daily-digests/2026-06-24
+tech_stack:
+- Model Context Protocol (MCP)
+- Command-Line Interface (CLI)
+- Windows OS
+- Lark API
+- Python (implied by CLI structure)
 quality_score: 5
 rag_relevance: 6
-tags: ["Lark integration", "MCP bridge", "CLI automation", "team collaboration", "data synchronization"]
-source: "https://github.com/Nonsteroidal-steelman66/lark-mcp-cli"
-discovered_at: "2026-06-24T06:44:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Lark integration
+- MCP bridge
+- CLI automation
+- team collaboration
+- data synchronization
+source: https://github.com/Nonsteroidal-steelman66/lark-mcp-cli
+discovered_at: '2026-06-24T06:44:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

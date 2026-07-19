@@ -1,13 +1,22 @@
 ---
-title: "ManuelGonzalessalas/orbiqd-briefkit"
-category: "Orchestrator"
-tech_stack: ["Go", "MCP Server", "Local Execution", "UI Framework"]
+title: ManuelGonzalessalas/orbiqd-briefkit
+category: daily-digests/2026-06-25
+tech_stack:
+- Go
+- MCP Server
+- Local Execution
+- UI Framework
 quality_score: 7
 rag_relevance: 6
-tags: ["local agents", "multi-agent orchestration", "MCP integration", "coding workflow", "offline execution"]
-source: "https://github.com/ManuelGonzalessalas/orbiqd-briefkit"
-discovered_at: "2026-06-25T00:12:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local agents
+- multi-agent orchestration
+- MCP integration
+- coding workflow
+- offline execution
+source: https://github.com/ManuelGonzalessalas/orbiqd-briefkit
+discovered_at: '2026-06-25T00:12:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

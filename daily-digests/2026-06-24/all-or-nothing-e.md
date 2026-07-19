@@ -1,13 +1,22 @@
 ---
-title: "KCaprisun/All-or-Nothing-E"
-category: "Tooling"
-tech_stack: ["Python", "Matrix Operations", "Physics Simulation", "Cross-Platform (Windows/macOS/Linux)"]
+title: KCaprisun/All-or-Nothing-E
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Matrix Operations
+- Physics Simulation
+- Cross-Platform (Windows/macOS/Linux)
 quality_score: 5
 rag_relevance: 3
-tags: ["physics engine", "simulation", "matrix calculations", "educational tool", "cross-platform"]
-source: "https://github.com/KCaprisun/All-or-Nothing-E"
-discovered_at: "2026-06-24T16:17:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- physics engine
+- simulation
+- matrix calculations
+- educational tool
+- cross-platform
+source: https://github.com/KCaprisun/All-or-Nothing-E
+discovered_at: '2026-06-24T16:17:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

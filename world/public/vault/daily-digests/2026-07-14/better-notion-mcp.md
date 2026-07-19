@@ -1,13 +1,26 @@
 ---
-title: "n24q02m/better-notion-mcp"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Notion API", "Docker", "OAuth 2.1", "HTTP/HTTPS", "semantic-release", "Renovate"]
+title: n24q02m/better-notion-mcp
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- TypeScript
+- Node.js
+- Notion API
+- Docker
+- OAuth 2.1
+- HTTP/HTTPS
+- semantic-release
+- Renovate
 quality_score: 9
 rag_relevance: 8
-tags: ["Notion integration", "MCP server", "Markdown conversion", "AI agents", "OAuth"]
-source: "https://github.com/n24q02m/better-notion-mcp"
-discovered_at: "2026-07-11T02:27:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Notion integration
+- MCP server
+- Markdown conversion
+- AI agents
+- OAuth
+source: https://github.com/n24q02m/better-notion-mcp
+discovered_at: '2026-07-11T02:27:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

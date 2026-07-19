@@ -1,13 +1,27 @@
 ---
-title: "Huxun-Inc/frontpost-design"
-category: "UI Component"
-tech_stack: ["HTML", "CSS", "JavaScript", "i18next", "Lottie (for animations)", "Design Tokens", "RTL (Right-to-Left) Language Support", "Dark Mode", "Accessibility (WCAG)"]
+title: Huxun-Inc/frontpost-design
+category: daily-digests/2026-07-07
+tech_stack:
+- HTML
+- CSS
+- JavaScript
+- i18next
+- Lottie (for animations)
+- Design Tokens
+- RTL (Right-to-Left) Language Support
+- Dark Mode
+- Accessibility (WCAG)
 quality_score: 8
 rag_relevance: 6
-tags: ["Design System", "UI Components", "Accessibility", "Multi-Language", "AI-Powered Summarization"]
-source: "https://github.com/Huxun-Inc/frontpost-design"
-discovered_at: "2026-07-07T18:58:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Design System
+- UI Components
+- Accessibility
+- Multi-Language
+- AI-Powered Summarization
+source: https://github.com/Huxun-Inc/frontpost-design
+discovered_at: '2026-07-07T18:58:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

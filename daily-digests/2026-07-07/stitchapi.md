@@ -1,13 +1,23 @@
 ---
-title: "rejifald/StitchAPI"
-category: "Tooling"
-tech_stack: ["TypeScript", "Zod", "Fetch API", "Node.js", "Standard Schema (Valibot, ArkType, etc.)"]
+title: rejifald/StitchAPI
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Zod
+- Fetch API
+- Node.js
+- Standard Schema (Valibot, ArkType, etc.)
 quality_score: 9
 rag_relevance: 8
-tags: ["API abstraction", "resilient functions", "type safety", "AI agent integration", "zero dependencies"]
-source: "https://github.com/rejifald/StitchAPI"
-discovered_at: "2026-07-07T22:09:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- API abstraction
+- resilient functions
+- type safety
+- AI agent integration
+- zero dependencies
+source: https://github.com/rejifald/StitchAPI
+discovered_at: '2026-07-07T22:09:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

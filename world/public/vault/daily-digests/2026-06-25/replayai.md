@@ -1,13 +1,28 @@
 ---
-title: "smazzinni/replayai"
-category: "Tooling"
-tech_stack: ["TypeScript", "Python", "Next.js", "Prisma", "SQLite", "Tailwind CSS", "shadcn/ui", "Socket.io", "TanStack Query", "Framer Motion"]
+title: smazzinni/replayai
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Python
+- Next.js
+- Prisma
+- SQLite
+- Tailwind CSS
+- shadcn/ui
+- Socket.io
+- TanStack Query
+- Framer Motion
 quality_score: 9
 rag_relevance: 8
-tags: ["AI debugging", "workflow recording", "deterministic replay", "agent instrumentation", "test export"]
-source: "https://github.com/smazzinni/replayai"
-discovered_at: "2026-06-25T08:30:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI debugging
+- workflow recording
+- deterministic replay
+- agent instrumentation
+- test export
+source: https://github.com/smazzinni/replayai
+discovered_at: '2026-06-25T08:30:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "Hack23/European-Parliament-MCP-Server"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Zod", "Vitest", "Playwright", "TypeDoc", "SLSA", "GDPR", "ISMS"]
+title: Hack23/European-Parliament-MCP-Server
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Zod
+- Vitest
+- Playwright
+- TypeDoc
+- SLSA
+- GDPR
+- ISMS
 quality_score: 10
 rag_relevance: 9
-tags: ["MCP Server", "European Parliament", "OSINT", "Political Intelligence", "TypeScript"]
-source: "https://github.com/Hack23/European-Parliament-MCP-Server"
-discovered_at: "2026-07-08T15:16:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- European Parliament
+- OSINT
+- Political Intelligence
+- TypeScript
+source: https://github.com/Hack23/European-Parliament-MCP-Server
+discovered_at: '2026-07-08T15:16:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

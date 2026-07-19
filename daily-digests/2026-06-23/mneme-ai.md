@@ -1,13 +1,27 @@
 ---
-title: "patsa2561-art/mneme-ai"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "gRPC", "CLI", "Telegram/Slack/Discord bots", "Git", "Mermaid.js", "NPM"]
+title: patsa2561-art/mneme-ai
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- gRPC
+- CLI
+- Telegram/Slack/Discord bots
+- Git
+- Mermaid.js
+- NPM
 quality_score: 9
 rag_relevance: 10
-tags: ["AI agent security", "trust layer", "offline verification", "context management", "token metering"]
-source: "https://github.com/patsa2561-art/mneme-ai"
-discovered_at: "2026-06-23T06:52:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent security
+- trust layer
+- offline verification
+- context management
+- token metering
+source: https://github.com/patsa2561-art/mneme-ai
+discovered_at: '2026-06-23T06:52:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

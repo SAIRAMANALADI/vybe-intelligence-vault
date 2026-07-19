@@ -1,13 +1,26 @@
 ---
-title: "IvanMurzak/Godot-MCP"
-category: "Tooling"
-tech_stack: ["C#", ".NET 8", "Godot Engine 4.3+", "Model Context Protocol (MCP)", "SignalR", "Docker", "NuGet", "TypeScript (for CLI)"]
+title: IvanMurzak/Godot-MCP
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- C#
+- .NET 8
+- Godot Engine 4.3+
+- Model Context Protocol (MCP)
+- SignalR
+- Docker
+- NuGet
+- TypeScript (for CLI)
 quality_score: 9
 rag_relevance: 7
-tags: ["AI-driven game development", "MCP integration", "Godot automation", "C# scripting", "editor tools"]
-source: "https://github.com/IvanMurzak/Godot-MCP"
-discovered_at: "2026-07-08T21:02:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-driven game development
+- MCP integration
+- Godot automation
+- C# scripting
+- editor tools
+source: https://github.com/IvanMurzak/Godot-MCP
+discovered_at: '2026-07-08T21:02:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "Edwinvi6421/x402-fpl-api"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Claude Desktop", "pip", "Windows OS"]
+title: Edwinvi6421/x402-fpl-api
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Claude Desktop
+- pip
+- Windows OS
 quality_score: 7
 rag_relevance: 6
-tags: ["Fantasy Premier League", "MCP Server", "Claude Desktop", "AI Agent Tools", "Sports Analytics"]
-source: "https://github.com/Edwinvi6421/x402-fpl-api"
-discovered_at: "2026-06-23T02:41:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Fantasy Premier League
+- MCP Server
+- Claude Desktop
+- AI Agent Tools
+- Sports Analytics
+source: https://github.com/Edwinvi6421/x402-fpl-api
+discovered_at: '2026-06-23T02:41:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

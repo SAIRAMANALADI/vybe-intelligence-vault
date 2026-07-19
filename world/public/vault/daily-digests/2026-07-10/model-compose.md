@@ -1,13 +1,35 @@
 ---
-title: "hanyeol/model-compose"
-category: "Orchestrator"
-tech_stack: ["Python", "YAML", "Docker", "FastAPI", "Redis", "HuggingFace Transformers", "vLLM", "llama.cpp", "Chroma", "FAISS", "Milvus", "Qdrant", "Neo4j", "ArangoDB", "Gradio", "SSE (Server-Sent Events)", "MCP (Model Context Protocol)"]
+title: hanyeol/model-compose
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Python
+- YAML
+- Docker
+- FastAPI
+- Redis
+- HuggingFace Transformers
+- vLLM
+- llama.cpp
+- Chroma
+- FAISS
+- Milvus
+- Qdrant
+- Neo4j
+- ArangoDB
+- Gradio
+- SSE (Server-Sent Events)
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 10
-tags: ["AI orchestration", "RAG pipelines", "Hybrid AI", "Declarative YAML", "Multi-provider"]
-source: "https://github.com/hanyeol/model-compose"
-discovered_at: "2026-07-10T06:31:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI orchestration
+- RAG pipelines
+- Hybrid AI
+- Declarative YAML
+- Multi-provider
+source: https://github.com/hanyeol/model-compose
+discovered_at: '2026-07-10T06:31:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

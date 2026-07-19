@@ -1,13 +1,24 @@
 ---
-title: "wiklob/linear-mcp-lean"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "@modelcontextprotocol/sdk", "Express", "GraphQL", "graphql-request"]
+title: wiklob/linear-mcp-lean
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- '@modelcontextprotocol/sdk'
+- Express
+- GraphQL
+- graphql-request
 quality_score: 8
 rag_relevance: 9
-tags: ["Linear", "MCP", "token optimization", "self-hosted", "LLM agents"]
-source: "https://github.com/wiklob/linear-mcp-lean"
-discovered_at: "2026-07-07T18:59:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Linear
+- MCP
+- token optimization
+- self-hosted
+- LLM agents
+source: https://github.com/wiklob/linear-mcp-lean
+discovered_at: '2026-07-07T18:59:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

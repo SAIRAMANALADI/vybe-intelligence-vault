@@ -1,13 +1,27 @@
 ---
-title: "Farhaja4948/NebuShell"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "React", "Monaco Editor", "xterm.js", "SSH", "SFTP", "OpenAI-compatible AI", "Windows API"]
+title: Farhaja4948/NebuShell
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- TypeScript
+- Electron
+- React
+- Monaco Editor
+- xterm.js
+- SSH
+- SFTP
+- OpenAI-compatible AI
+- Windows API
 quality_score: 6
 rag_relevance: 5
-tags: ["server-management", "AI-assistant", "desktop-app", "local-first", "devops"]
-source: "https://github.com/Farhaja4948/NebuShell"
-discovered_at: "2026-07-10T23:08:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- server-management
+- AI-assistant
+- desktop-app
+- local-first
+- devops
+source: https://github.com/Farhaja4948/NebuShell
+discovered_at: '2026-07-10T23:08:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "LeilaoMi/hot-news-radar"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Docker", "GitHub Actions", "RSS", "MCP (Model Context Protocol)", "AI (NLP for filtering/translation)", "Webhooks", "GitHub Pages"]
+title: LeilaoMi/hot-news-radar
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- FastAPI
+- Docker
+- GitHub Actions
+- RSS
+- MCP (Model Context Protocol)
+- AI (NLP for filtering/translation)
+- Webhooks
+- GitHub Pages
 quality_score: 9
 rag_relevance: 8
-tags: ["AI-driven news aggregation", "multi-platform alerts", "RSS monitoring", "MCP integration", "trend analysis"]
-source: "https://github.com/LeilaoMi/hot-news-radar"
-discovered_at: "2026-07-07T22:09:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-driven news aggregation
+- multi-platform alerts
+- RSS monitoring
+- MCP integration
+- trend analysis
+source: https://github.com/LeilaoMi/hot-news-radar
+discovered_at: '2026-07-07T22:09:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

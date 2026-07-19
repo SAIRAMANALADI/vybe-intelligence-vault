@@ -1,13 +1,26 @@
 ---
-title: "tokeo/fundi"
-category: "Orchestrator"
-tech_stack: ["Python", "NumPy", "WebAssembly (WASM)", "YAML", "CLI Frameworks", "Machine Learning (Micro Models)", "Type Contracts", "Sandboxing"]
+title: tokeo/fundi
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- NumPy
+- WebAssembly (WASM)
+- YAML
+- CLI Frameworks
+- Machine Learning (Micro Models)
+- Type Contracts
+- Sandboxing
 quality_score: 9
 rag_relevance: 8
-tags: ["governed AI", "agent runtime", "typed contracts", "sandboxing", "traceability"]
-source: "https://github.com/tokeo/fundi"
-discovered_at: "2026-06-23T16:30:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- governed AI
+- agent runtime
+- typed contracts
+- sandboxing
+- traceability
+source: https://github.com/tokeo/fundi
+discovered_at: '2026-06-23T16:30:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

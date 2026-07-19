@@ -1,13 +1,25 @@
 ---
-title: "Auto-Skiller/plugboot"
-category: "Orchestrator"
-tech_stack: ["Python", "Starlette", "YAML", "htmx", "Alpine.js", "Cytoscape.js", "Git"]
+title: Auto-Skiller/plugboot
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- Python
+- Starlette
+- YAML
+- htmx
+- Alpine.js
+- Cytoscape.js
+- Git
 quality_score: 9
 rag_relevance: 8
-tags: ["persistent memory", "AI workspace", "project management", "YAML state", "multi-agent"]
-source: "https://github.com/Auto-Skiller/plugboot"
-discovered_at: "2026-07-11T07:52:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- AI workspace
+- project management
+- YAML state
+- multi-agent
+source: https://github.com/Auto-Skiller/plugboot
+discovered_at: '2026-07-11T07:52:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

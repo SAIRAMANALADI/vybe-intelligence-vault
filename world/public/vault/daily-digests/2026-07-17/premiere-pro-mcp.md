@@ -1,13 +1,24 @@
 ---
-title: "leancoderkavy/premiere-pro-mcp"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "ExtendScript", "CEP (Common Extensibility Platform)", "MCP (Model Context Protocol)", "Fly.io"]
+title: leancoderkavy/premiere-pro-mcp
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- Node.js
+- ExtendScript
+- CEP (Common Extensibility Platform)
+- MCP (Model Context Protocol)
+- Fly.io
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "video editing automation", "AI-driven Premiere Pro", "ExtendScript bridge", "CEP plugin"]
-source: "https://github.com/leancoderkavy/premiere-pro-mcp"
-discovered_at: "2026-07-12T05:56:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- video editing automation
+- AI-driven Premiere Pro
+- ExtendScript bridge
+- CEP plugin
+source: https://github.com/leancoderkavy/premiere-pro-mcp
+discovered_at: '2026-07-12T05:56:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

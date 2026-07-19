@@ -1,13 +1,26 @@
 ---
-title: "thedaviddias/Front-End-Checklist"
-category: "Tooling"
-tech_stack: ["Markdown", "MDX", "TypeScript", "Node.js", "MCP (Model Context Protocol)", "React", "Next.js", "Web Components"]
+title: thedaviddias/Front-End-Checklist
+category: daily-digests/2026-06-22
+tech_stack:
+- Markdown
+- MDX
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- React
+- Next.js
+- Web Components
 quality_score: 9
 rag_relevance: 7
-tags: ["frontend quality", "code review", "accessibility", "performance", "AI agent workflows"]
-source: "https://github.com/thedaviddias/Front-End-Checklist"
-discovered_at: "2026-06-22T15:56:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- frontend quality
+- code review
+- accessibility
+- performance
+- AI agent workflows
+source: https://github.com/thedaviddias/Front-End-Checklist
+discovered_at: '2026-06-22T15:56:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

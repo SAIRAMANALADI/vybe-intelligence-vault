@@ -1,13 +1,24 @@
 ---
-title: "senad-d/IssueMe"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "GitHub REST API", "GitHub GraphQL API", "pi (LLM agent framework)", "TypeScript"]
+title: senad-d/IssueMe
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- JavaScript
+- Node.js
+- GitHub REST API
+- GitHub GraphQL API
+- pi (LLM agent framework)
+- TypeScript
 quality_score: 9
 rag_relevance: 9
-tags: ["GitHub integration", "issue management", "LLM agent tools", "local caching", "structured APIs"]
-source: "https://github.com/senad-d/IssueMe"
-discovered_at: "2026-07-09T19:30:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- GitHub integration
+- issue management
+- LLM agent tools
+- local caching
+- structured APIs
+source: https://github.com/senad-d/IssueMe
+discovered_at: '2026-07-09T19:30:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

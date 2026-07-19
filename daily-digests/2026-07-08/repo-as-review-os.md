@@ -1,13 +1,25 @@
 ---
-title: "Guojiz/Repo-as-Review-OS"
-category: "Orchestrator"
-tech_stack: ["GitHub", "Markdown", "YAML", "Agentic Tutoring Systems", "Spaced Repetition", "Automation Scripts", "AI Memory Systems"]
+title: Guojiz/Repo-as-Review-OS
+category: daily-digests/2026-07-08
+tech_stack:
+- GitHub
+- Markdown
+- YAML
+- Agentic Tutoring Systems
+- Spaced Repetition
+- Automation Scripts
+- AI Memory Systems
 quality_score: 8
 rag_relevance: 9
-tags: ["learning OS", "AI-assisted study", "GitHub-native", "spaced repetition", "agent orchestration"]
-source: "https://github.com/Guojiz/Repo-as-Review-OS"
-discovered_at: "2026-07-08T12:25:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- learning OS
+- AI-assisted study
+- GitHub-native
+- spaced repetition
+- agent orchestration
+source: https://github.com/Guojiz/Repo-as-Review-OS
+discovered_at: '2026-07-08T12:25:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

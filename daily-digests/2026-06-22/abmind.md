@@ -1,13 +1,28 @@
 ---
-title: "aksika/abmind"
-category: "Tooling"
-tech_stack: ["TypeScript", "SQLite", "FTS5 (Full-Text Search)", "Trigram Fuzzy Matching", "Embeddings (Ollama/OpenAI-compatible)", "Node.js 22+", "AES-256-GCM Encryption", "LLM Integration (for sleep maintenance)", "CLI Tools", "MCP Server"]
+title: aksika/abmind
+category: daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- SQLite
+- FTS5 (Full-Text Search)
+- Trigram Fuzzy Matching
+- Embeddings (Ollama/OpenAI-compatible)
+- Node.js 22+
+- AES-256-GCM Encryption
+- LLM Integration (for sleep maintenance)
+- CLI Tools
+- MCP Server
 quality_score: 9
 rag_relevance: 9
-tags: ["persistent memory", "AI agents", "multilingual recall", "SQLite", "memory consolidation"]
-source: "https://github.com/aksika/abmind"
-discovered_at: "2026-06-22T23:15:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- AI agents
+- multilingual recall
+- SQLite
+- memory consolidation
+source: https://github.com/aksika/abmind
+discovered_at: '2026-06-22T23:15:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

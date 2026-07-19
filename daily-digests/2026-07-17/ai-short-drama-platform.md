@@ -1,13 +1,27 @@
 ---
-title: "Y-w1234/ai-short-drama-platform"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "React Agent Framework", "LLM Clients (DeepSeek, Doubao, OpenAI)", "Function Calling", "SQLite", "Asyncio", "Multimodal APIs (Dream API, Tongyi Wanxiang)", "Prompt Engineering"]
+title: Y-w1234/ai-short-drama-platform
+category: daily-digests/2026-07-17
+tech_stack:
+- Python
+- FastAPI
+- React Agent Framework
+- LLM Clients (DeepSeek, Doubao, OpenAI)
+- Function Calling
+- SQLite
+- Asyncio
+- Multimodal APIs (Dream API, Tongyi Wanxiang)
+- Prompt Engineering
 quality_score: 9
 rag_relevance: 7
-tags: ["AI video generation", "multi-agent orchestration", "prompt engineering", "video production pipeline", "content-to-video automation"]
-source: "https://github.com/Y-w1234/ai-short-drama-platform"
-discovered_at: "2026-07-14T05:28:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI video generation
+- multi-agent orchestration
+- prompt engineering
+- video production pipeline
+- content-to-video automation
+source: https://github.com/Y-w1234/ai-short-drama-platform
+discovered_at: '2026-07-14T05:28:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

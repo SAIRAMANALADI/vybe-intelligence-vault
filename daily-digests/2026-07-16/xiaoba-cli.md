@@ -1,13 +1,28 @@
 ---
-title: "fightheyyy/XiaoBa-CLI"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Electron", "React", "OpenAI-compatible LLMs", "Anthropic", "Ollama", "Feishu API", "Browser Automation", "macOS GUI Automation"]
+title: fightheyyy/XiaoBa-CLI
+category: daily-digests/2026-07-16
+tech_stack:
+- TypeScript
+- Node.js
+- Electron
+- React
+- OpenAI-compatible LLMs
+- Anthropic
+- Ollama
+- Feishu API
+- Browser Automation
+- macOS GUI Automation
 quality_score: 8
 rag_relevance: 7
-tags: ["Agent Runtime", "Controlled Evolution", "Trace Replay", "Evidence-Based AI", "IM-Native"]
-source: "https://github.com/fightheyyy/XiaoBa-CLI"
-discovered_at: "2026-07-15T08:05:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agent Runtime
+- Controlled Evolution
+- Trace Replay
+- Evidence-Based AI
+- IM-Native
+source: https://github.com/fightheyyy/XiaoBa-CLI
+discovered_at: '2026-07-15T08:05:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

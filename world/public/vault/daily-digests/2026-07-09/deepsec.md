@@ -1,13 +1,22 @@
 ---
-title: "hasfo/deepsec"
-category: "Tooling"
-tech_stack: ["Python", "Groq API", "Static Application Security Testing (SAST)", "OWASP standards"]
+title: hasfo/deepsec
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- Groq API
+- Static Application Security Testing (SAST)
+- OWASP standards
 quality_score: 4
 rag_relevance: 5
-tags: ["security auditing", "vulnerability detection", "SAST", "AI-driven analysis", "OWASP compliance"]
-source: "https://github.com/hasfo/deepsec"
-discovered_at: "2026-07-09T08:26:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- security auditing
+- vulnerability detection
+- SAST
+- AI-driven analysis
+- OWASP compliance
+source: https://github.com/hasfo/deepsec
+discovered_at: '2026-07-09T08:26:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

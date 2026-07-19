@@ -1,13 +1,26 @@
 ---
-title: "mwl313/HH-Memory"
-category: "Tooling"
-tech_stack: ["Python", "OpenClaw", "vsearch", "grep", "RRF (Reciprocal Rank Fusion)", "JSON", "Bash", "LLM Providers (DeepSeek, OpenAI, Anthropic, Ollama)"]
+title: mwl313/HH-Memory
+category: daily-digests/2026-07-10
+tech_stack:
+- Python
+- OpenClaw
+- vsearch
+- grep
+- RRF (Reciprocal Rank Fusion)
+- JSON
+- Bash
+- LLM Providers (DeepSeek, OpenAI, Anthropic, Ollama)
 quality_score: 9
 rag_relevance: 8
-tags: ["memory system", "local-first", "auto-extraction", "RAG enhancement", "self-hosted"]
-source: "https://github.com/mwl313/HH-Memory"
-discovered_at: "2026-07-10T06:15:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory system
+- local-first
+- auto-extraction
+- RAG enhancement
+- self-hosted
+source: https://github.com/mwl313/HH-Memory
+discovered_at: '2026-07-10T06:15:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "NeoCyber05/Docker-Agent-CLI"
-category: "Agent Framework"
-tech_stack: ["Python", "LangGraph", "Textual", "Docker", "Pydantic", "MCP (Model Context Protocol)", "ReAct Pattern"]
+title: NeoCyber05/Docker-Agent-CLI
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- LangGraph
+- Textual
+- Docker
+- Pydantic
+- MCP (Model Context Protocol)
+- ReAct Pattern
 quality_score: 8
 rag_relevance: 7
-tags: ["LLM Agent", "Docker Orchestration", "MCP Plugins", "Natural Language CLI", "Infrastructure as Code"]
-source: "https://github.com/NeoCyber05/Docker-Agent-CLI"
-discovered_at: "2026-07-06T21:25:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LLM Agent
+- Docker Orchestration
+- MCP Plugins
+- Natural Language CLI
+- Infrastructure as Code
+source: https://github.com/NeoCyber05/Docker-Agent-CLI
+discovered_at: '2026-07-06T21:25:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

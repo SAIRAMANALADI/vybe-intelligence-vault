@@ -1,13 +1,33 @@
 ---
-title: "nirholas/three.ws"
-category: "Agent Framework"
-tech_stack: ["Three.js", "WebGL 2.0", "GLB/glTF", "LLM (Claude, ElevenLabs)", "EVM/Solana (ERC-8004, Metaplex Core)", "Vercel Serverless", "Neon Postgres", "Cloudflare R2", "Upstash Redis", "OAuth 2.1", "MCP (Model Context Protocol)", "React", "TypeScript", "Solana Mobile (Seeker)", "Livepeer Inference Network"]
+title: nirholas/three.ws
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Three.js
+- WebGL 2.0
+- GLB/glTF
+- LLM (Claude, ElevenLabs)
+- EVM/Solana (ERC-8004, Metaplex Core)
+- Vercel Serverless
+- Neon Postgres
+- Cloudflare R2
+- Upstash Redis
+- OAuth 2.1
+- MCP (Model Context Protocol)
+- React
+- TypeScript
+- Solana Mobile (Seeker)
+- Livepeer Inference Network
 quality_score: 9
 rag_relevance: 7
-tags: ["3D AI Agents", "Web Components", "On-Chain Identity", "Text-to-3D", "LLM Integration"]
-source: "https://github.com/nirholas/three.ws"
-discovered_at: "2026-06-22T23:18:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- 3D AI Agents
+- Web Components
+- On-Chain Identity
+- Text-to-3D
+- LLM Integration
+source: https://github.com/nirholas/three.ws
+discovered_at: '2026-06-22T23:18:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

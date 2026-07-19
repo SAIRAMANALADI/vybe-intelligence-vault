@@ -1,13 +1,25 @@
 ---
-title: "millsymills-com/protonmail-mcp"
-category: "Tooling"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "Proton Mail API", "gopenpgp", "go-proton-api", "REST", "Keychain/Secret Service (Linux)"]
+title: millsymills-com/protonmail-mcp
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- Proton Mail API
+- gopenpgp
+- go-proton-api
+- REST
+- Keychain/Secret Service (Linux)
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP server", "Proton Mail integration", "email management", "encryption keys", "AI tooling"]
-source: "https://github.com/millsymills-com/protonmail-mcp"
-discovered_at: "2026-06-25T08:34:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Proton Mail integration
+- email management
+- encryption keys
+- AI tooling
+source: https://github.com/millsymills-com/protonmail-mcp
+discovered_at: '2026-06-25T08:34:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "magnexis/LLM-bridge-mcp-server"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "Node.js", "Zod", "Z.AI (GLM-family LLM provider)", "OpenRouter", "Vitest", "HTTP/STDIO transport", "JSON-based persistence"]
+title: magnexis/LLM-bridge-mcp-server
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- Node.js
+- Zod
+- Z.AI (GLM-family LLM provider)
+- OpenRouter
+- Vitest
+- HTTP/STDIO transport
+- JSON-based persistence
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP server", "LLM orchestration", "approval-gated", "local-first", "GLM integration"]
-source: "https://github.com/magnexis/LLM-bridge-mcp-server"
-discovered_at: "2026-07-12T20:42:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- LLM orchestration
+- approval-gated
+- local-first
+- GLM integration
+source: https://github.com/magnexis/LLM-bridge-mcp-server
+discovered_at: '2026-07-12T20:42:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,21 @@
 ---
-title: "PaulinaBarcat-arte/aio-coding-hub"
-category: "Tooling"
-tech_stack: ["Python", "CLI", "AI APIs"]
+title: PaulinaBarcat-arte/aio-coding-hub
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- CLI
+- AI APIs
 quality_score: 3
 rag_relevance: 5
-tags: ["CLI", "AI integration", "model gateway", "developer tool", "automation"]
-source: "https://github.com/PaulinaBarcat-arte/aio-coding-hub"
-discovered_at: "2026-07-09T08:24:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CLI
+- AI integration
+- model gateway
+- developer tool
+- automation
+source: https://github.com/PaulinaBarcat-arte/aio-coding-hub
+discovered_at: '2026-07-09T08:24:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

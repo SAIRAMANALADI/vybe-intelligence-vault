@@ -1,13 +1,25 @@
 ---
-title: "davidvornholt/mail-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "Effect", "IMAP", "MCP (Model Context Protocol)", "CLI", "OS Keyring (Secret Service API)"]
+title: davidvornholt/mail-mcp
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- TypeScript
+- Bun
+- Effect
+- IMAP
+- MCP (Model Context Protocol)
+- CLI
+- OS Keyring (Secret Service API)
 quality_score: 8
 rag_relevance: 6
-tags: ["IMAP", "MCP server", "draft management", "Thunderbird integration", "CLI tool"]
-source: "https://github.com/davidvornholt/mail-mcp"
-discovered_at: "2026-07-13T18:43:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- IMAP
+- MCP server
+- draft management
+- Thunderbird integration
+- CLI tool
+source: https://github.com/davidvornholt/mail-mcp
+discovered_at: '2026-07-13T18:43:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

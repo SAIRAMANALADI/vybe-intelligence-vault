@@ -1,13 +1,25 @@
 ---
-title: "freestylefly/wesight"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Electron", "Node.js", "React", "Vite", "Tailwind CSS", "Python (for agent runtimes)"]
+title: freestylefly/wesight
+category: daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- Electron
+- Node.js
+- React
+- Vite
+- Tailwind CSS
+- Python (for agent runtimes)
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agent workspace", "local coding agents", "desktop application", "model routing", "runtime monitoring"]
-source: "https://github.com/freestylefly/wesight"
-discovered_at: "2026-07-16T15:00:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent workspace
+- local coding agents
+- desktop application
+- model routing
+- runtime monitoring
+source: https://github.com/freestylefly/wesight
+discovered_at: '2026-07-16T15:00:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

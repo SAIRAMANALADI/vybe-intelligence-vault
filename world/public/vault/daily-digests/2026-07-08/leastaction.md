@@ -1,13 +1,27 @@
 ---
-title: "LeastAction-Labs/LeastAction"
-category: "Orchestrator"
-tech_stack: ["Python", "Docker", "PostgreSQL", "Celery", "React", "TypeScript", "MCP (Model Context Protocol)", "SQL", "Git"]
+title: LeastAction-Labs/LeastAction
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- Docker
+- PostgreSQL
+- Celery
+- React
+- TypeScript
+- MCP (Model Context Protocol)
+- SQL
+- Git
 quality_score: 9
 rag_relevance: 9
-tags: ["AI-driven orchestration", "self-hosted workflows", "end-to-end automation", "data pipeline management", "MCP integration"]
-source: "https://github.com/LeastAction-Labs/LeastAction"
-discovered_at: "2026-07-08T15:16:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-driven orchestration
+- self-hosted workflows
+- end-to-end automation
+- data pipeline management
+- MCP integration
+source: https://github.com/LeastAction-Labs/LeastAction
+discovered_at: '2026-07-08T15:16:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

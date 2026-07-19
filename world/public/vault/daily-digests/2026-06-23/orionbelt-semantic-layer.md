@@ -1,13 +1,33 @@
 ---
-title: "ralforion/orionbelt-semantic-layer"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Pydantic", "Gradio", "Docker", "PostgreSQL", "BigQuery", "Snowflake", "ClickHouse", "Dremio", "Databricks", "DuckDB", "MySQL", "Arrow Flight SQL", "YAML"]
+title: ralforion/orionbelt-semantic-layer
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- FastAPI
+- Pydantic
+- Gradio
+- Docker
+- PostgreSQL
+- BigQuery
+- Snowflake
+- ClickHouse
+- Dremio
+- Databricks
+- DuckDB
+- MySQL
+- Arrow Flight SQL
+- YAML
 quality_score: 9
 rag_relevance: 10
-tags: ["Semantic Layer", "Governed Data", "Text-to-SQL", "AI Data Access", "Analytics as Code"]
-source: "https://github.com/ralforion/orionbelt-semantic-layer"
-discovered_at: "2026-06-23T10:41:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Semantic Layer
+- Governed Data
+- Text-to-SQL
+- AI Data Access
+- Analytics as Code
+source: https://github.com/ralforion/orionbelt-semantic-layer
+discovered_at: '2026-06-23T10:41:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

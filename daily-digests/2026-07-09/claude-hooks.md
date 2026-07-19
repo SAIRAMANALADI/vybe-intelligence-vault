@@ -1,13 +1,21 @@
 ---
-title: "ExoGameYT/claude-hooks"
-category: "Tooling"
-tech_stack: ["Shell", "Python (implied for scripting)", "Cross-platform CLI tools"]
+title: ExoGameYT/claude-hooks
+category: daily-digests/2026-07-09
+tech_stack:
+- Shell
+- Python (implied for scripting)
+- Cross-platform CLI tools
 quality_score: 4
 rag_relevance: 3
-tags: ["workflow automation", "Claude integration", "script management", "custom commands", "developer tools"]
-source: "https://github.com/ExoGameYT/claude-hooks"
-discovered_at: "2026-07-09T21:18:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- workflow automation
+- Claude integration
+- script management
+- custom commands
+- developer tools
+source: https://github.com/ExoGameYT/claude-hooks
+discovered_at: '2026-07-09T21:18:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

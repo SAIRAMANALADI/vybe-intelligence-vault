@@ -1,13 +1,22 @@
 ---
-title: "not-a-skid/Awesome-Agent-Memory"
-category: "Tooling"
-tech_stack: ["Python", "Research Papers", "Benchmarking Tools", "Documentation"]
+title: not-a-skid/Awesome-Agent-Memory
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Research Papers
+- Benchmarking Tools
+- Documentation
 quality_score: 6
 rag_relevance: 8
-tags: ["AI Memory", "LLM Benchmarks", "Multimodal Systems", "Research Curated", "Agent Memory"]
-source: "https://github.com/not-a-skid/Awesome-Agent-Memory"
-discovered_at: "2026-06-23T08:56:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Memory
+- LLM Benchmarks
+- Multimodal Systems
+- Research Curated
+- Agent Memory
+source: https://github.com/not-a-skid/Awesome-Agent-Memory
+discovered_at: '2026-06-23T08:56:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

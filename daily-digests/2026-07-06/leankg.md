@@ -1,13 +1,22 @@
 ---
-title: "Benjinsassi/LeanKG"
-category: "Tooling"
-tech_stack: ["Python", "Knowledge Graph", "Windows Desktop Application", "Local File System"]
+title: Benjinsassi/LeanKG
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- Knowledge Graph
+- Windows Desktop Application
+- Local File System
 quality_score: 7
 rag_relevance: 8
-tags: ["token optimization", "local knowledge graph", "AI context management", "codebase indexing", "cost reduction"]
-source: "https://github.com/Benjinsassi/LeanKG"
-discovered_at: "2026-07-06T19:49:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- token optimization
+- local knowledge graph
+- AI context management
+- codebase indexing
+- cost reduction
+source: https://github.com/Benjinsassi/LeanKG
+discovered_at: '2026-07-06T19:49:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

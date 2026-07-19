@@ -1,13 +1,23 @@
 ---
-title: "imperalcloud/webbee-code"
-category: "Agent Framework"
-tech_stack: ["Python", "ICNLI (open protocol)", "Imperal Cloud", "PyPI", "pipx"]
+title: imperalcloud/webbee-code
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- ICNLI (open protocol)
+- Imperal Cloud
+- PyPI
+- pipx
 quality_score: 8
 rag_relevance: 7
-tags: ["coding agent", "terminal automation", "cloud-based AI", "model-kernel separation", "ICNLI protocol"]
-source: "https://github.com/imperalcloud/webbee-code"
-discovered_at: "2026-07-09T21:18:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- coding agent
+- terminal automation
+- cloud-based AI
+- model-kernel separation
+- ICNLI protocol
+source: https://github.com/imperalcloud/webbee-code
+discovered_at: '2026-07-09T21:18:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

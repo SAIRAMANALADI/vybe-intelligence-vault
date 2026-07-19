@@ -1,13 +1,23 @@
 ---
-title: "Ohialha4618/karpathy-wiki"
-category: "Tooling"
-tech_stack: ["Spring AI", "Java", "Markdown", "Schema-driven workflow", "AI Agents"]
+title: Ohialha4618/karpathy-wiki
+category: world/public/vault/daily-digests/2026-07-03
+tech_stack:
+- Spring AI
+- Java
+- Markdown
+- Schema-driven workflow
+- AI Agents
 quality_score: 4
 rag_relevance: 6
-tags: ["knowledge base", "automation", "Spring AI", "Markdown", "AI agents"]
-source: "https://github.com/Ohialha4618/karpathy-wiki"
-discovered_at: "2026-07-03T20:59:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- knowledge base
+- automation
+- Spring AI
+- Markdown
+- AI agents
+source: https://github.com/Ohialha4618/karpathy-wiki
+discovered_at: '2026-07-03T20:59:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

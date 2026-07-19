@@ -1,13 +1,22 @@
 ---
-title: "smb-ai-studio/chatart"
-category: "UI Component"
-tech_stack: ["HTML", "Static Site Generator (likely custom or Jekyll)", "Markdown", "JavaScript (for interactivity)"]
+title: smb-ai-studio/chatart
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- HTML
+- Static Site Generator (likely custom or Jekyll)
+- Markdown
+- JavaScript (for interactivity)
 quality_score: 7
 rag_relevance: 6
-tags: ["AI education", "prompt engineering", "creative workflows", "model explainers", "tutorials"]
-source: "https://github.com/smb-ai-studio/chatart"
-discovered_at: "2026-07-10T06:52:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI education
+- prompt engineering
+- creative workflows
+- model explainers
+- tutorials
+source: https://github.com/smb-ai-studio/chatart
+discovered_at: '2026-07-10T06:52:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

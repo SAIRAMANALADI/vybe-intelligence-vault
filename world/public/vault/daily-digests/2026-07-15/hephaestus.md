@@ -1,13 +1,30 @@
 ---
-title: "MrSyr3x/Hephaestus"
-category: "UI Component"
-tech_stack: ["Next.js 16", "TypeScript", "Clerk", "PostgreSQL", "Prisma", "Supabase", "Arcjet", "Gemini 3.5 Flash", "Cline SDK", "@codesandbox/sandpack-react", "Tailwind CSS v4", "shadcn/ui"]
+title: MrSyr3x/Hephaestus
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- Next.js 16
+- TypeScript
+- Clerk
+- PostgreSQL
+- Prisma
+- Supabase
+- Arcjet
+- Gemini 3.5 Flash
+- Cline SDK
+- '@codesandbox/sandpack-react'
+- Tailwind CSS v4
+- shadcn/ui
 quality_score: 9
 rag_relevance: 8
-tags: ["AI app generation", "React code builder", "live preview", "agent-based editing", "Next.js"]
-source: "https://github.com/MrSyr3x/Hephaestus"
-discovered_at: "2026-07-14T14:48:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI app generation
+- React code builder
+- live preview
+- agent-based editing
+- Next.js
+source: https://github.com/MrSyr3x/Hephaestus
+discovered_at: '2026-07-14T14:48:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

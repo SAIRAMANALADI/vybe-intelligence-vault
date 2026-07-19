@@ -1,13 +1,25 @@
 ---
-title: "sebastienrousseau/pain001-mcp"
-category: "Agent Framework"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FastMCP", "ISO 20022", "XSD validation", "Poetry", "Docker"]
+title: sebastienrousseau/pain001-mcp
+category: daily-digests/2026-07-13
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FastMCP
+- ISO 20022
+- XSD validation
+- Poetry
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["ISO 20022", "SEPA payments", "MCP server", "payment validation", "AI agent tools"]
-source: "https://github.com/sebastienrousseau/pain001-mcp"
-discovered_at: "2026-07-11T23:53:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- ISO 20022
+- SEPA payments
+- MCP server
+- payment validation
+- AI agent tools
+source: https://github.com/sebastienrousseau/pain001-mcp
+discovered_at: '2026-07-11T23:53:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "vinayakchandra/Smart-Lights-MCP-Server"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "pywizlight", "Model Context Protocol (MCP)"]
+title: vinayakchandra/Smart-Lights-MCP-Server
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- FastMCP
+- pywizlight
+- Model Context Protocol (MCP)
 quality_score: 6
 rag_relevance: 5
-tags: ["MCP", "smart lights", "WiZ", "home automation", "IoT"]
-source: "https://github.com/vinayakchandra/Smart-Lights-MCP-Server"
-discovered_at: "2026-07-09T19:31:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- smart lights
+- WiZ
+- home automation
+- IoT
+source: https://github.com/vinayakchandra/Smart-Lights-MCP-Server
+discovered_at: '2026-07-09T19:31:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

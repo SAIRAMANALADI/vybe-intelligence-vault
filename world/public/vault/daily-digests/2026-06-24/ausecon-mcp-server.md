@@ -1,13 +1,25 @@
 ---
-title: "AnthonyPuggs/ausecon-mcp-server"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FastAPI", "Pydantic", "GitHub Actions", "Docker", "PyPI"]
+title: AnthonyPuggs/ausecon-mcp-server
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FastAPI
+- Pydantic
+- GitHub Actions
+- Docker
+- PyPI
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Australian economic data", "ABS", "RBA", "APRA"]
-source: "https://github.com/AnthonyPuggs/ausecon-mcp-server"
-discovered_at: "2026-06-24T20:52:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Australian economic data
+- ABS
+- RBA
+- APRA
+source: https://github.com/AnthonyPuggs/ausecon-mcp-server
+discovered_at: '2026-06-24T20:52:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

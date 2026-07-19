@@ -1,13 +1,23 @@
 ---
-title: "faabi28/Secure-Agent-Launcher"
-category: "Tooling"
-tech_stack: ["Python", "macOS System APIs", "File Access Monitoring", "Logging", "Security Policies"]
+title: faabi28/Secure-Agent-Launcher
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- macOS System APIs
+- File Access Monitoring
+- Logging
+- Security Policies
 quality_score: 7
 rag_relevance: 6
-tags: ["security", "macOS", "AI access control", "sensitive data protection", "command-line monitoring"]
-source: "https://github.com/faabi28/Secure-Agent-Launcher"
-discovered_at: "2026-06-22T18:49:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- security
+- macOS
+- AI access control
+- sensitive data protection
+- command-line monitoring
+source: https://github.com/faabi28/Secure-Agent-Launcher
+discovered_at: '2026-06-22T18:49:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

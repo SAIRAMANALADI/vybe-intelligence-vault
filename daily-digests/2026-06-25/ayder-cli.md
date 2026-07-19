@@ -1,13 +1,30 @@
 ---
-title: "ayder/ayder-cli"
-category: "Agent Framework"
-tech_stack: ["Python", "Textual (TUI framework)", "Rich (terminal UI)", "Ollama", "OpenAI API", "Anthropic API", "Google Gemini API", "DeepSeek", "Qwen (DashScope)", "GLM (ZhipuAI)", "TOML (configuration)", "uv (package manager)"]
+title: ayder/ayder-cli
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- Textual (TUI framework)
+- Rich (terminal UI)
+- Ollama
+- OpenAI API
+- Anthropic API
+- Google Gemini API
+- DeepSeek
+- Qwen (DashScope)
+- GLM (ZhipuAI)
+- TOML (configuration)
+- uv (package manager)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent", "terminal-based", "multi-provider", "autonomous coding", "TUI"]
-source: "https://github.com/ayder/ayder-cli"
-discovered_at: "2026-06-25T07:25:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- terminal-based
+- multi-provider
+- autonomous coding
+- TUI
+source: https://github.com/ayder/ayder-cli
+discovered_at: '2026-06-25T07:25:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,29 @@
 ---
-title: "mystiquemide/keel"
-category: "Tooling"
-tech_stack: ["Next.js", "TypeScript", "Python", "FastAPI", "Qwen (via OpenRouter)", "Bitget API", "Tailwind CSS", "PostgreSQL", "Redis", "JWT", "MCP Server"]
+title: mystiquemide/keel
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Next.js
+- TypeScript
+- Python
+- FastAPI
+- Qwen (via OpenRouter)
+- Bitget API
+- Tailwind CSS
+- PostgreSQL
+- Redis
+- JWT
+- MCP Server
 quality_score: 9
 rag_relevance: 7
-tags: ["behavioral trading", "AI coaching", "real-time intervention", "crypto trading", "emotional bias detection"]
-source: "https://github.com/mystiquemide/keel"
-discovered_at: "2026-06-25T11:41:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- behavioral trading
+- AI coaching
+- real-time intervention
+- crypto trading
+- emotional bias detection
+source: https://github.com/mystiquemide/keel
+discovered_at: '2026-06-25T11:41:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

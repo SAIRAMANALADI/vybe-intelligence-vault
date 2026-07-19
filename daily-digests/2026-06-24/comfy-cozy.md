@@ -1,13 +1,27 @@
 ---
-title: "JosephOIbrahim/Comfy-Cozy"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "ComfyUI", "LLM Providers (Claude, GPT-4o, Gemini, Ollama, NVIDIA Nemotron)", "FastAPI", "Symlinks", "WebSockets", "Docker (optional)", "Git"]
+title: JosephOIbrahim/Comfy-Cozy
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- ComfyUI
+- LLM Providers (Claude, GPT-4o, Gemini, Ollama, NVIDIA Nemotron)
+- FastAPI
+- Symlinks
+- WebSockets
+- Docker (optional)
+- Git
 quality_score: 9
 rag_relevance: 8
-tags: ["AI co-pilot", "ComfyUI automation", "workflow management", "model swapping", "undoable edits"]
-source: "https://github.com/JosephOIbrahim/Comfy-Cozy"
-discovered_at: "2026-06-24T22:12:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI co-pilot
+- ComfyUI automation
+- workflow management
+- model swapping
+- undoable edits
+source: https://github.com/JosephOIbrahim/Comfy-Cozy
+discovered_at: '2026-06-24T22:12:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

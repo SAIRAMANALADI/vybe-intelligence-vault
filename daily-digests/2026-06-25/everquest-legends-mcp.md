@@ -1,13 +1,24 @@
 ---
-title: "Sergeantfirstclassvincetoxicumnegrum35/everquest-legends-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "MediaWiki API", "RSS", "yt-dlp (optional)"]
+title: Sergeantfirstclassvincetoxicumnegrum35/everquest-legends-mcp
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- MediaWiki API
+- RSS
+- yt-dlp (optional)
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP server", "EverQuest Legends", "public data access", "wiki integration", "YouTube transcripts"]
-source: "https://github.com/Sergeantfirstclassvincetoxicumnegrum35/everquest-legends-mcp"
-discovered_at: "2026-06-25T08:34:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- EverQuest Legends
+- public data access
+- wiki integration
+- YouTube transcripts
+source: https://github.com/Sergeantfirstclassvincetoxicumnegrum35/everquest-legends-mcp
+discovered_at: '2026-06-25T08:34:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,21 @@
 ---
-title: "alanecolourless776/gsearch-mcp"
-category: "Tooling"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "Google Search API"]
+title: alanecolourless776/gsearch-mcp
+category: daily-digests/2026-07-07
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- Google Search API
 quality_score: 5
 rag_relevance: 8
-tags: ["real-time search", "MCP", "grounding", "Go", "AI tools"]
-source: "https://github.com/alanecolourless776/gsearch-mcp"
-discovered_at: "2026-07-07T20:51:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- real-time search
+- MCP
+- grounding
+- Go
+- AI tools
+source: https://github.com/alanecolourless776/gsearch-mcp
+discovered_at: '2026-07-07T20:51:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

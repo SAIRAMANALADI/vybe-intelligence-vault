@@ -1,13 +1,24 @@
 ---
-title: "forgeorbital/forge-agent-gate"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Ed25519 cryptographic signing", "REST APIs", "Docker"]
+title: forgeorbital/forge-agent-gate
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Ed25519 cryptographic signing
+- REST APIs
+- Docker
 quality_score: 9
 rag_relevance: 9
-tags: ["risk control", "mandate enforcement", "proof trail", "AI agent safety", "enterprise accountability"]
-source: "https://github.com/forgeorbital/forge-agent-gate"
-discovered_at: "2026-07-10T06:31:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- risk control
+- mandate enforcement
+- proof trail
+- AI agent safety
+- enterprise accountability
+source: https://github.com/forgeorbital/forge-agent-gate
+discovered_at: '2026-07-10T06:31:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

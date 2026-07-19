@@ -1,13 +1,25 @@
 ---
-title: "Prashantxo/Forge"
-category: "Agent Framework"
-tech_stack: ["Claude Code", "OpenAI Codex", "Gemini CLI", "Cursor", "Shell", "TypeScript (inferred from plugin structure)", "MCP (Model Context Protocol)"]
+title: Prashantxo/Forge
+category: daily-digests/2026-06-23
+tech_stack:
+- Claude Code
+- OpenAI Codex
+- Gemini CLI
+- Cursor
+- Shell
+- TypeScript (inferred from plugin structure)
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI coding assistant", "structured workflows", "code review automation", "TDD integration", "multi-model compatibility"]
-source: "https://github.com/Prashantxo/Forge"
-discovered_at: "2026-06-23T19:12:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding assistant
+- structured workflows
+- code review automation
+- TDD integration
+- multi-model compatibility
+source: https://github.com/Prashantxo/Forge
+discovered_at: '2026-06-23T19:12:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

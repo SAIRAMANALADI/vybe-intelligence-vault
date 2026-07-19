@@ -1,13 +1,34 @@
 ---
-title: "yf0522/ai-companion-runtime"
-category: "Orchestrator"
-tech_stack: ["Python 3.11", "FastAPI", "WebSocket", "PostgreSQL 16", "pgvector", "Redis 7", "MinIO", "Celery", "Next.js 14", "TypeScript", "TailwindCSS", "OpenTelemetry", "Jaeger", "Prometheus", "Grafana", "Docker Compose"]
+title: yf0522/ai-companion-runtime
+category: daily-digests/2026-07-09
+tech_stack:
+- Python 3.11
+- FastAPI
+- WebSocket
+- PostgreSQL 16
+- pgvector
+- Redis 7
+- MinIO
+- Celery
+- Next.js 14
+- TypeScript
+- TailwindCSS
+- OpenTelemetry
+- Jaeger
+- Prometheus
+- Grafana
+- Docker Compose
 quality_score: 9
 rag_relevance: 8
-tags: ["eldercare", "risk detection", "streaming chat", "long-term memory", "observability"]
-source: "https://github.com/yf0522/ai-companion-runtime"
-discovered_at: "2026-07-09T14:43:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- eldercare
+- risk detection
+- streaming chat
+- long-term memory
+- observability
+source: https://github.com/yf0522/ai-companion-runtime
+discovered_at: '2026-07-09T14:43:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

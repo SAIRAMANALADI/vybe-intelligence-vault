@@ -1,13 +1,28 @@
 ---
-title: "shieldspprt/solhunt-recovery"
-category: "Tooling"
-tech_stack: ["React 19", "TypeScript", "Solana Web3.js", "SPL Token Standard", "MCP (Model Context Protocol)", "Tailwind CSS", "Zustand", "Helius DAS API", "Jupiter V6 Aggregator", "Jito Kobe Network"]
+title: shieldspprt/solhunt-recovery
+category: daily-digests/2026-06-25
+tech_stack:
+- React 19
+- TypeScript
+- Solana Web3.js
+- SPL Token Standard
+- MCP (Model Context Protocol)
+- Tailwind CSS
+- Zustand
+- Helius DAS API
+- Jupiter V6 Aggregator
+- Jito Kobe Network
 quality_score: 9
 rag_relevance: 9
-tags: ["Solana recovery", "wallet security", "MCP integration", "client-side execution", "DeFi tooling"]
-source: "https://github.com/shieldspprt/solhunt-recovery"
-discovered_at: "2026-06-25T07:23:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Solana recovery
+- wallet security
+- MCP integration
+- client-side execution
+- DeFi tooling
+source: https://github.com/shieldspprt/solhunt-recovery
+discovered_at: '2026-06-25T07:23:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

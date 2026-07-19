@@ -1,13 +1,26 @@
 ---
-title: "HeyClioo/fde-guide"
-category: "Tooling"
-tech_stack: ["Product Management", "AI Integration", "RAG (Retrieval-Augmented Generation)", "Agent Frameworks", "Automation Tools (n8n, Playwright)", "Data Analysis (SQL, BI)", "Prompt Engineering", "Workflow Automation"]
+title: HeyClioo/fde-guide
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Product Management
+- AI Integration
+- RAG (Retrieval-Augmented Generation)
+- Agent Frameworks
+- Automation Tools (n8n, Playwright)
+- Data Analysis (SQL, BI)
+- Prompt Engineering
+- Workflow Automation
 quality_score: 7
 rag_relevance: 6
-tags: ["FDE", "AI Deployment", "Enterprise AI", "Business Integration", "Automation"]
-source: "https://github.com/HeyClioo/fde-guide"
-discovered_at: "2026-07-10T02:26:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- FDE
+- AI Deployment
+- Enterprise AI
+- Business Integration
+- Automation
+source: https://github.com/HeyClioo/fde-guide
+discovered_at: '2026-07-10T02:26:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

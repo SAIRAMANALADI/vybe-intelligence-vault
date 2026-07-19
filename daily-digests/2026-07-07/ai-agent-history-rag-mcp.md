@@ -1,13 +1,29 @@
 ---
-title: "no13productions/ai-agent-history-rag-mcp"
-category: "Vector DB"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "LanceDB", "Ollama", "OpenAI API", "BM25", "RRF Reranking", "Docker", "FastAPI", "uv", "Spanner (optional)"]
+title: no13productions/ai-agent-history-rag-mcp
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- LanceDB
+- Ollama
+- OpenAI API
+- BM25
+- RRF Reranking
+- Docker
+- FastAPI
+- uv
+- Spanner (optional)
 quality_score: 9
 rag_relevance: 10
-tags: ["RAG", "MCP Server", "AI Agent History", "Vector Database", "Semantic Search"]
-source: "https://github.com/no13productions/ai-agent-history-rag-mcp"
-discovered_at: "2026-07-07T22:09:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RAG
+- MCP Server
+- AI Agent History
+- Vector Database
+- Semantic Search
+source: https://github.com/no13productions/ai-agent-history-rag-mcp
+discovered_at: '2026-07-07T22:09:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

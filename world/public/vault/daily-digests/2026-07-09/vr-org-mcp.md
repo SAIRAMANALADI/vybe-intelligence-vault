@@ -1,13 +1,22 @@
 ---
-title: "evanatpizzarobot/vr-org-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "npm"]
+title: evanatpizzarobot/vr-org-mcp
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- npm
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "VR/AR/XR data", "AI agent integration", "news aggregation", "read-only API"]
-source: "https://github.com/evanatpizzarobot/vr-org-mcp"
-discovered_at: "2026-07-09T04:46:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- VR/AR/XR data
+- AI agent integration
+- news aggregation
+- read-only API
+source: https://github.com/evanatpizzarobot/vr-org-mcp
+discovered_at: '2026-07-09T04:46:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

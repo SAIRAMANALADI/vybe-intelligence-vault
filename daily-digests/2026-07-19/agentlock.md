@@ -1,13 +1,26 @@
 ---
-title: "webpro255/agentlock"
-category: "Tooling"
-tech_stack: ["Python", "Ed25519", "FastAPI", "Flask", "MCP", "Autogen", "CrewAI", "LangChain"]
+title: webpro255/agentlock
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- Ed25519
+- FastAPI
+- Flask
+- MCP
+- Autogen
+- CrewAI
+- LangChain
 quality_score: 9
 rag_relevance: 8
-tags: ["agent security", "pre-action authorization", "prompt injection defense", "provenance tracking", "LLM tool gating"]
-source: "https://github.com/webpro255/agentlock"
-discovered_at: "2026-07-17T10:46:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent security
+- pre-action authorization
+- prompt injection defense
+- provenance tracking
+- LLM tool gating
+source: https://github.com/webpro255/agentlock
+discovered_at: '2026-07-17T10:46:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

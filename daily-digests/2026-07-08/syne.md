@@ -1,13 +1,28 @@
 ---
-title: "riyogarta/syne"
-category: "Agent Framework"
-tech_stack: ["Python", "PostgreSQL", "pgvector", "Ollama", "Telegram Bot API", "Docker", "LLM (Ollama, Anthropic, Google, OpenAI, Together AI)", "FastAPI", "asyncpg", "HNSW (Hierarchical Navigable Small World) for vector search"]
+title: riyogarta/syne
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- PostgreSQL
+- pgvector
+- Ollama
+- Telegram Bot API
+- Docker
+- LLM (Ollama, Anthropic, Google, OpenAI, Together AI)
+- FastAPI
+- asyncpg
+- HNSW (Hierarchical Navigable Small World) for vector search
 quality_score: 9
 rag_relevance: 10
-tags: ["long-term memory", "self-hosted", "PostgreSQL-native", "persistent AI", "semantic search"]
-source: "https://github.com/riyogarta/syne"
-discovered_at: "2026-07-08T02:06:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- long-term memory
+- self-hosted
+- PostgreSQL-native
+- persistent AI
+- semantic search
+source: https://github.com/riyogarta/syne
+discovered_at: '2026-07-08T02:06:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

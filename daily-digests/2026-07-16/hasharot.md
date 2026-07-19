@@ -1,13 +1,29 @@
 ---
-title: "Mamasodikov/hasharot"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Claude Agent SDK", "Telegram Bot API (Grammy)", "Reddit API", "Medium API (via Freedium)", "OpenAI TTS", "Groq Whisper", "yt-dlp", "ffmpeg", "MCP (Model Context Protocol)"]
+title: Mamasodikov/hasharot
+category: daily-digests/2026-07-16
+tech_stack:
+- TypeScript
+- Node.js
+- Claude Agent SDK
+- Telegram Bot API (Grammy)
+- Reddit API
+- Medium API (via Freedium)
+- OpenAI TTS
+- Groq Whisper
+- yt-dlp
+- ffmpeg
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent", "Telegram integration", "Claude Code", "self-hosted", "multi-user"]
-source: "https://github.com/Mamasodikov/hasharot"
-discovered_at: "2026-07-11T05:39:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- Telegram integration
+- Claude Code
+- self-hosted
+- multi-user
+source: https://github.com/Mamasodikov/hasharot
+discovered_at: '2026-07-11T05:39:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

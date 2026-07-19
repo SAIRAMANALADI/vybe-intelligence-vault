@@ -1,13 +1,21 @@
 ---
-title: "sertolicellselectorswitch13/bytepack"
-category: "Tooling"
-tech_stack: ["Python", "Binary Encoding", "Windows Executable"]
+title: sertolicellselectorswitch13/bytepack
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- Binary Encoding
+- Windows Executable
 quality_score: 6
 rag_relevance: 7
-tags: ["binary encoding", "AI agent communication", "message compression", "fixed-size payloads", "structured data"]
-source: "https://github.com/sertolicellselectorswitch13/bytepack"
-discovered_at: "2026-07-07T23:55:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- binary encoding
+- AI agent communication
+- message compression
+- fixed-size payloads
+- structured data
+source: https://github.com/sertolicellselectorswitch13/bytepack
+discovered_at: '2026-07-07T23:55:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

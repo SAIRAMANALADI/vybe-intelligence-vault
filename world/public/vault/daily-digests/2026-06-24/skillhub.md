@@ -1,13 +1,29 @@
 ---
-title: "iflytek/skillhub"
-category: "Tooling"
-tech_stack: ["Java 21", "React 19", "Spring Boot", "Docker", "PostgreSQL", "Redis", "MinIO/S3", "Prometheus", "Grafana", "Kubernetes", "i18next"]
+title: iflytek/skillhub
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Java 21
+- React 19
+- Spring Boot
+- Docker
+- PostgreSQL
+- Redis
+- MinIO/S3
+- Prometheus
+- Grafana
+- Kubernetes
+- i18next
 quality_score: 9
 rag_relevance: 8
-tags: ["agent skills", "skill registry", "self-hosted", "enterprise", "governance"]
-source: "https://github.com/iflytek/skillhub"
-discovered_at: "2026-06-24T02:43:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent skills
+- skill registry
+- self-hosted
+- enterprise
+- governance
+source: https://github.com/iflytek/skillhub
+discovered_at: '2026-06-24T02:43:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

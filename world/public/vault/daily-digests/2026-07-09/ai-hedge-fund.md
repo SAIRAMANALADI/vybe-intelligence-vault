@@ -1,13 +1,22 @@
 ---
-title: "raidy-gans/ai-hedge-fund"
-category: "Tooling"
-tech_stack: ["Python", "Machine Learning", "Financial Modeling", "AI Trading Strategies"]
+title: raidy-gans/ai-hedge-fund
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- Machine Learning
+- Financial Modeling
+- AI Trading Strategies
 quality_score: 3
 rag_relevance: 6
-tags: ["finance", "trading", "AI-driven", "educational", "hedge fund"]
-source: "https://github.com/raidy-gans/ai-hedge-fund"
-discovered_at: "2026-07-09T23:07:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- finance
+- trading
+- AI-driven
+- educational
+- hedge fund
+source: https://github.com/raidy-gans/ai-hedge-fund
+discovered_at: '2026-07-09T23:07:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

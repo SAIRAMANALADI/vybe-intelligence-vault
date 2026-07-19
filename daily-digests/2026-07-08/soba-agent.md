@@ -1,13 +1,23 @@
 ---
-title: "avacadorun-dev/soba-agent"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "Node.js", "Biome", "MCP (Model Context Protocol)"]
+title: avacadorun-dev/soba-agent
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Bun
+- Node.js
+- Biome
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous coding", "project memory", "proof receipts", "MCP integration", "local-first"]
-source: "https://github.com/avacadorun-dev/soba-agent"
-discovered_at: "2026-07-08T10:59:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous coding
+- project memory
+- proof receipts
+- MCP integration
+- local-first
+source: https://github.com/avacadorun-dev/soba-agent
+discovered_at: '2026-07-08T10:59:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

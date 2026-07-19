@@ -1,13 +1,23 @@
 ---
-title: "thdelmas/playtime"
-category: "Agent Framework"
-tech_stack: ["Claude Code", "Codex", "Cursor", "Python", "Shell Scripting"]
+title: thdelmas/playtime
+category: daily-digests/2026-06-24
+tech_stack:
+- Claude Code
+- Codex
+- Cursor
+- Python
+- Shell Scripting
 quality_score: 7
 rag_relevance: 8
-tags: ["curiosity-driven exploration", "agent development", "safe-to-fail experimentation", "proactive learning", "skill rehearsal"]
-source: "https://github.com/thdelmas/playtime"
-discovered_at: "2026-06-24T10:19:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- curiosity-driven exploration
+- agent development
+- safe-to-fail experimentation
+- proactive learning
+- skill rehearsal
+source: https://github.com/thdelmas/playtime
+discovered_at: '2026-06-24T10:19:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

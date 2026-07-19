@@ -1,13 +1,23 @@
 ---
-title: "abhishek-genailytics/flowgraf-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "HTTP/JSON API", "SVG rendering"]
+title: abhishek-genailytics/flowgraf-mcp
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- HTTP/JSON API
+- SVG rendering
 quality_score: 8
 rag_relevance: 7
-tags: ["diagram generation", "MCP server", "architecture visualization", "AI agent integration", "editable diagrams"]
-source: "https://github.com/abhishek-genailytics/flowgraf-mcp"
-discovered_at: "2026-07-09T17:18:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- diagram generation
+- MCP server
+- architecture visualization
+- AI agent integration
+- editable diagrams
+source: https://github.com/abhishek-genailytics/flowgraf-mcp
+discovered_at: '2026-07-09T17:18:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

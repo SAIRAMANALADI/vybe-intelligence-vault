@@ -1,13 +1,25 @@
 ---
-title: "SharminSirajudeen/drengr-community"
-category: "Tooling"
-tech_stack: ["Node.js", "Shell", "ADB (Android Debug Bridge)", "simctl (iOS Simulator Control)", "Appium", "MCP (Model Context Protocol)", "Vision-based UI analysis"]
+title: SharminSirajudeen/drengr-community
+category: daily-digests/2026-06-24
+tech_stack:
+- Node.js
+- Shell
+- ADB (Android Debug Bridge)
+- simctl (iOS Simulator Control)
+- Appium
+- MCP (Model Context Protocol)
+- Vision-based UI analysis
 quality_score: 8
 rag_relevance: 9
-tags: ["mobile automation", "AI agents", "MCP server", "vision-based interaction", "multi-platform"]
-source: "https://github.com/SharminSirajudeen/drengr-community"
-discovered_at: "2026-06-24T22:18:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- mobile automation
+- AI agents
+- MCP server
+- vision-based interaction
+- multi-platform
+source: https://github.com/SharminSirajudeen/drengr-community
+discovered_at: '2026-06-24T22:18:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

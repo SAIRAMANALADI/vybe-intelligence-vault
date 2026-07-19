@@ -1,13 +1,28 @@
 ---
-title: "schwarztim/thesun"
-category: "Orchestrator"
-tech_stack: ["Go", "TypeScript", "Python", "MCP (Model Context Protocol)", "REST", "CLI", "SSO Authentication", "Ed25519 Signing", "SHA-256", "Process Management"]
+title: schwarztim/thesun
+category: daily-digests/2026-07-09
+tech_stack:
+- Go
+- TypeScript
+- Python
+- MCP (Model Context Protocol)
+- REST
+- CLI
+- SSO Authentication
+- Ed25519 Signing
+- SHA-256
+- Process Management
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP server management", "Docker-free deployment", "AI client integration", "Authentication broker", "Server routing"]
-source: "https://github.com/schwarztim/thesun"
-discovered_at: "2026-07-09T17:18:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server management
+- Docker-free deployment
+- AI client integration
+- Authentication broker
+- Server routing
+source: https://github.com/schwarztim/thesun
+discovered_at: '2026-07-09T17:18:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

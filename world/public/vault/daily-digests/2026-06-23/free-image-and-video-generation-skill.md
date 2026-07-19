@@ -1,13 +1,24 @@
 ---
-title: "xramjetx/free-image-and-video-generation-skill"
-category: "Tooling"
-tech_stack: ["Python", "Stable Diffusion", "FFmpeg", "Atlas Cloud API", "CUDA (for GPU acceleration)", "Windows Installer"]
+title: xramjetx/free-image-and-video-generation-skill
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Stable Diffusion
+- FFmpeg
+- Atlas Cloud API
+- CUDA (for GPU acceleration)
+- Windows Installer
 quality_score: 7
 rag_relevance: 6
-tags: ["AI image generation", "video editing", "local processing", "cloud models", "AI agents"]
-source: "https://github.com/xramjetx/free-image-and-video-generation-skill"
-discovered_at: "2026-06-23T02:46:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI image generation
+- video editing
+- local processing
+- cloud models
+- AI agents
+source: https://github.com/xramjetx/free-image-and-video-generation-skill
+discovered_at: '2026-06-23T02:46:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "Salomeleprous919/dectell-ai"
-category: "Tooling"
-tech_stack: ["Python", "Streamlit", "Machine Learning", "Data Cleaning", "Predictive Modeling", "Natural Language Processing"]
+title: Salomeleprous919/dectell-ai
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- Streamlit
+- Machine Learning
+- Data Cleaning
+- Predictive Modeling
+- Natural Language Processing
 quality_score: 7
 rag_relevance: 6
-tags: ["data analysis", "business intelligence", "predictive modeling", "natural language queries", "decision support"]
-source: "https://github.com/Salomeleprous919/dectell-ai"
-discovered_at: "2026-07-07T23:54:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- data analysis
+- business intelligence
+- predictive modeling
+- natural language queries
+- decision support
+source: https://github.com/Salomeleprous919/dectell-ai
+discovered_at: '2026-07-07T23:54:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

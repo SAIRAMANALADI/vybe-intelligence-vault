@@ -1,13 +1,23 @@
 ---
-title: "elvis-velez/google-ads-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Google Ads API", "Model Context Protocol (MCP)", "YAML", "Windows"]
+title: elvis-velez/google-ads-mcp
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Google Ads API
+- Model Context Protocol (MCP)
+- YAML
+- Windows
 quality_score: 7
 rag_relevance: 6
-tags: ["Google Ads", "MCP", "AI Integration", "Campaign Management", "Audit Logging"]
-source: "https://github.com/elvis-velez/google-ads-mcp"
-discovered_at: "2026-06-24T22:19:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Google Ads
+- MCP
+- AI Integration
+- Campaign Management
+- Audit Logging
+source: https://github.com/elvis-velez/google-ads-mcp
+discovered_at: '2026-06-24T22:19:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

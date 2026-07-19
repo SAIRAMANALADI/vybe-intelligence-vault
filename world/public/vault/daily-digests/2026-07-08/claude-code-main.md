@@ -1,13 +1,23 @@
 ---
-title: "danielgamy981/claude-code-main"
-category: "Tooling"
-tech_stack: ["TypeScript", "React Ink", "Bun", "Anthropic API", "MCP (Model Context Protocol)"]
+title: danielgamy981/claude-code-main
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- React Ink
+- Bun
+- Anthropic API
+- MCP (Model Context Protocol)
 quality_score: 4
 rag_relevance: 7
-tags: ["Claude Code", "TypeScript", "Bun runtime", "AI coding assistant", "MCP support"]
-source: "https://github.com/danielgamy981/claude-code-main"
-discovered_at: "2026-07-08T10:59:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- TypeScript
+- Bun runtime
+- AI coding assistant
+- MCP support
+source: https://github.com/danielgamy981/claude-code-main
+discovered_at: '2026-07-08T10:59:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

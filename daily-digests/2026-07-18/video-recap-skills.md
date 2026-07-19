@@ -1,13 +1,24 @@
 ---
-title: "worldwonderer/video-recap-skills"
-category: "Tooling"
-tech_stack: ["Python", "FFmpeg", "Xiaomi MiMo API (ASR, VLM, TTS)", "Claude Code Plugin Framework", "JSON/Markdown-based data pipelines", "Mermaid for workflow diagrams"]
+title: worldwonderer/video-recap-skills
+category: daily-digests/2026-07-18
+tech_stack:
+- Python
+- FFmpeg
+- Xiaomi MiMo API (ASR, VLM, TTS)
+- Claude Code Plugin Framework
+- JSON/Markdown-based data pipelines
+- Mermaid for workflow diagrams
 quality_score: 9
 rag_relevance: 7
-tags: ["video processing", "automated narration", "AI-powered editing", "multi-modal understanding", "API-driven workflow"]
-source: "https://github.com/worldwonderer/video-recap-skills"
-discovered_at: "2026-07-13T16:31:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- video processing
+- automated narration
+- AI-powered editing
+- multi-modal understanding
+- API-driven workflow
+source: https://github.com/worldwonderer/video-recap-skills
+discovered_at: '2026-07-13T16:31:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

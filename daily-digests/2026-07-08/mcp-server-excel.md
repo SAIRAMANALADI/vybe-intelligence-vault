@@ -1,13 +1,23 @@
 ---
-title: "sbroenne/mcp-server-excel"
-category: "Tooling"
-tech_stack: ["C#", ".NET 10", "Model Context Protocol (MCP)", "COM Automation", "Windows API"]
+title: sbroenne/mcp-server-excel
+category: daily-digests/2026-07-08
+tech_stack:
+- C#
+- .NET 10
+- Model Context Protocol (MCP)
+- COM Automation
+- Windows API
 quality_score: 9
 rag_relevance: 7
-tags: ["Excel automation", "MCP server", "AI-powered tools", "COM interop", "data processing"]
-source: "https://github.com/sbroenne/mcp-server-excel"
-discovered_at: "2026-07-08T15:16:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Excel automation
+- MCP server
+- AI-powered tools
+- COM interop
+- data processing
+source: https://github.com/sbroenne/mcp-server-excel
+discovered_at: '2026-07-08T15:16:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

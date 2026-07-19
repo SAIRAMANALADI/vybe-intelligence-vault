@@ -1,13 +1,27 @@
 ---
-title: "cq27-dev/rag-rat"
-category: "Orchestrator"
-tech_stack: ["Rust", "SQLite", "tree-sitter", "SCIP (Sourcegraph Code Intelligence Protocol)", "MCP (Model Context Protocol)", "Git", "GitHub API", "FastEmbed", "gix (gitoxide)"]
+title: cq27-dev/rag-rat
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Rust
+- SQLite
+- tree-sitter
+- SCIP (Sourcegraph Code Intelligence Protocol)
+- MCP (Model Context Protocol)
+- Git
+- GitHub API
+- FastEmbed
+- gix (gitoxide)
 quality_score: 9
 rag_relevance: 10
-tags: ["repository intelligence", "MCP server", "call graph", "git history", "repo memories"]
-source: "https://github.com/cq27-dev/rag-rat"
-discovered_at: "2026-06-24T16:20:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- repository intelligence
+- MCP server
+- call graph
+- git history
+- repo memories
+source: https://github.com/cq27-dev/rag-rat
+discovered_at: '2026-06-24T16:20:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

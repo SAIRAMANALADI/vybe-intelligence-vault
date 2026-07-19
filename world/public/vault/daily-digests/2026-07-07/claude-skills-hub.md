@@ -1,13 +1,21 @@
 ---
-title: "valenciajinxed265/claude-skills-hub"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code", "Windows"]
+title: valenciajinxed265/claude-skills-hub
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Claude Code
+- Windows
 quality_score: 6
 rag_relevance: 5
-tags: ["Claude Code", "slash commands", "productivity", "AI tools", "automation"]
-source: "https://github.com/valenciajinxed265/claude-skills-hub"
-discovered_at: "2026-07-07T20:51:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- slash commands
+- productivity
+- AI tools
+- automation
+source: https://github.com/valenciajinxed265/claude-skills-hub
+discovered_at: '2026-07-07T20:51:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

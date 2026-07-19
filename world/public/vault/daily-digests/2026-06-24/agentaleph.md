@@ -1,13 +1,26 @@
 ---
-title: "matiasA/AgentAleph"
-category: "Agent Framework"
-tech_stack: ["Tauri 2", "Rust", "Svelte 5", "TypeScript", "Vite", "llama.cpp", "Hugging Face Hub API", "GBNF (Grammar-Based Format)"]
+title: matiasA/AgentAleph
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Tauri 2
+- Rust
+- Svelte 5
+- TypeScript
+- Vite
+- llama.cpp
+- Hugging Face Hub API
+- GBNF (Grammar-Based Format)
 quality_score: 9
 rag_relevance: 8
-tags: ["local AI agent", "coding assistant", "GGUF model manager", "offline RAG", "privacy-focused"]
-source: "https://github.com/matiasA/AgentAleph"
-discovered_at: "2026-06-24T02:46:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local AI agent
+- coding assistant
+- GGUF model manager
+- offline RAG
+- privacy-focused
+source: https://github.com/matiasA/AgentAleph
+discovered_at: '2026-06-24T02:46:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

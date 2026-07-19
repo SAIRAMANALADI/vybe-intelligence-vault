@@ -1,13 +1,27 @@
 ---
-title: "adeoluwaadesina/wingman-mcp"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "SQLite", "PostgreSQL", "FastAPI", "OAuth 2.1", "React", "TypeScript", "Render (hosting)"]
+title: adeoluwaadesina/wingman-mcp
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- SQLite
+- PostgreSQL
+- FastAPI
+- OAuth 2.1
+- React
+- TypeScript
+- Render (hosting)
 quality_score: 9
 rag_relevance: 8
-tags: ["task management", "MCP server", "AI assistant", "plan panel", "persistent state"]
-source: "https://github.com/adeoluwaadesina/wingman-mcp"
-discovered_at: "2026-07-08T22:14:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- task management
+- MCP server
+- AI assistant
+- plan panel
+- persistent state
+source: https://github.com/adeoluwaadesina/wingman-mcp
+discovered_at: '2026-07-08T22:14:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

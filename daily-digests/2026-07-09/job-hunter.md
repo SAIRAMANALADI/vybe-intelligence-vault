@@ -1,13 +1,28 @@
 ---
-title: "abdulrbasit/job-hunter"
-category: "Tooling"
-tech_stack: ["Python", "LLM APIs", "Claude Code", "VS Code Codex", "SQLite", "FastAPI", "Pydantic", "Ruff", "Typer", "uv (Python package manager)"]
+title: abdulrbasit/job-hunter
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- LLM APIs
+- Claude Code
+- VS Code Codex
+- SQLite
+- FastAPI
+- Pydantic
+- Ruff
+- Typer
+- uv (Python package manager)
 quality_score: 9
 rag_relevance: 6
-tags: ["job search automation", "resume tailoring", "LLM workflows", "application tracking", "career tools"]
-source: "https://github.com/abdulrbasit/job-hunter"
-discovered_at: "2026-07-09T14:43:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- job search automation
+- resume tailoring
+- LLM workflows
+- application tracking
+- career tools
+source: https://github.com/abdulrbasit/job-hunter
+discovered_at: '2026-07-09T14:43:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

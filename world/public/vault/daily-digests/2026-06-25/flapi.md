@@ -1,13 +1,26 @@
 ---
-title: "DataZooDE/flapi"
-category: "Orchestrator"
-tech_stack: ["DuckDB", "SQL", "RESTful APIs", "Model Context Protocol (MCP)", "YAML", "C++", "Python", "Docker"]
+title: DataZooDE/flapi
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- DuckDB
+- SQL
+- RESTful APIs
+- Model Context Protocol (MCP)
+- YAML
+- C++
+- Python
+- Docker
 quality_score: 9
 rag_relevance: 9
-tags: ["API generation", "DuckDB integration", "MCP support", "SQL templating", "data orchestration"]
-source: "https://github.com/DataZooDE/flapi"
-discovered_at: "2026-06-25T14:20:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- API generation
+- DuckDB integration
+- MCP support
+- SQL templating
+- data orchestration
+source: https://github.com/DataZooDE/flapi
+discovered_at: '2026-06-25T14:20:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,21 @@
 ---
-title: "axxafo/awesome-agent-benchmarks"
-category: "Tooling"
-tech_stack: ["Benchmarking", "Data Curation", "Evaluation Frameworks"]
+title: axxafo/awesome-agent-benchmarks
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Benchmarking
+- Data Curation
+- Evaluation Frameworks
 quality_score: 7
 rag_relevance: 8
-tags: ["benchmarking", "LLM agents", "evaluation", "datasets", "performance assessment"]
-source: "https://github.com/axxafo/awesome-agent-benchmarks"
-discovered_at: "2026-06-25T05:02:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- benchmarking
+- LLM agents
+- evaluation
+- datasets
+- performance assessment
+source: https://github.com/axxafo/awesome-agent-benchmarks
+discovered_at: '2026-06-25T05:02:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

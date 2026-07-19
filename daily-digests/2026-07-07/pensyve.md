@@ -1,13 +1,30 @@
 ---
-title: "major7apps/pensyve"
-category: "Tooling"
-tech_stack: ["Rust", "Python", "TypeScript", "Go", "SQLite", "PostgreSQL", "pgvector", "ONNX", "MCP (Model Context Protocol)", "Axum (Rust web framework)", "PyO3 (Python bindings)", "FSRS (forgetting curve algorithm)"]
+title: major7apps/pensyve
+category: daily-digests/2026-07-07
+tech_stack:
+- Rust
+- Python
+- TypeScript
+- Go
+- SQLite
+- PostgreSQL
+- pgvector
+- ONNX
+- MCP (Model Context Protocol)
+- Axum (Rust web framework)
+- PyO3 (Python bindings)
+- FSRS (forgetting curve algorithm)
 quality_score: 9
 rag_relevance: 10
-tags: ["memory management", "AI agents", "context retention", "offline-first", "multi-language SDK"]
-source: "https://github.com/major7apps/pensyve"
-discovered_at: "2026-07-07T16:26:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory management
+- AI agents
+- context retention
+- offline-first
+- multi-language SDK
+source: https://github.com/major7apps/pensyve
+discovered_at: '2026-07-07T16:26:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

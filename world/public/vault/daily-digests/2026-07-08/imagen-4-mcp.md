@@ -1,13 +1,23 @@
 ---
-title: "runapi-ai/imagen-4-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "RunAPI API", "NPM"]
+title: runapi-ai/imagen-4-mcp
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- RunAPI API
+- NPM
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP Server", "Image Generation", "RunAPI", "Imagen 4", "AI Agents"]
-source: "https://github.com/runapi-ai/imagen-4-mcp"
-discovered_at: "2026-07-08T17:27:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- Image Generation
+- RunAPI
+- Imagen 4
+- AI Agents
+source: https://github.com/runapi-ai/imagen-4-mcp
+discovered_at: '2026-07-08T17:27:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "nitrocloudofficial/nitrostack"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Decorators", "Dependency Injection", "React", "Zod", "JWT", "OAuth 2.1", "CLI", "Docker"]
+title: nitrocloudofficial/nitrostack
+category: daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Node.js
+- Decorators
+- Dependency Injection
+- React
+- Zod
+- JWT
+- OAuth 2.1
+- CLI
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP servers", "TypeScript framework", "AI-native backends", "decorators", "dependency injection"]
-source: "https://github.com/nitrocloudofficial/nitrostack"
-discovered_at: "2026-07-10T06:53:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP servers
+- TypeScript framework
+- AI-native backends
+- decorators
+- dependency injection
+source: https://github.com/nitrocloudofficial/nitrostack
+discovered_at: '2026-07-10T06:53:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

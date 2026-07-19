@@ -1,13 +1,24 @@
 ---
-title: "sidpan2011/persnally"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "MCP (Model Context Protocol)", "React", "Docker (implied for local deployment)"]
+title: sidpan2011/persnally
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- MCP (Model Context Protocol)
+- React
+- Docker (implied for local deployment)
 quality_score: 9
 rag_relevance: 8
-tags: ["personalization", "context engine", "local-first", "privacy", "AI augmentation"]
-source: "https://github.com/sidpan2011/persnally"
-discovered_at: "2026-06-24T20:49:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personalization
+- context engine
+- local-first
+- privacy
+- AI augmentation
+source: https://github.com/sidpan2011/persnally
+discovered_at: '2026-06-24T20:49:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

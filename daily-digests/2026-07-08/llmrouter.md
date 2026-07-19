@@ -1,13 +1,23 @@
 ---
-title: "paularlott/llmrouter"
-category: "Orchestrator"
-tech_stack: ["Go", "Python (for Scriptling routing scripts)", "TOML (for configuration)", "OpenAPI (for protocol translation)", "MCP (Model Context Protocol)"]
+title: paularlott/llmrouter
+category: daily-digests/2026-07-08
+tech_stack:
+- Go
+- Python (for Scriptling routing scripts)
+- TOML (for configuration)
+- OpenAPI (for protocol translation)
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 10
-tags: ["LLM aggregation", "multi-provider routing", "smart load balancing", "protocol translation", "MCP integration"]
-source: "https://github.com/paularlott/llmrouter"
-discovered_at: "2026-07-08T17:26:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LLM aggregation
+- multi-provider routing
+- smart load balancing
+- protocol translation
+- MCP integration
+source: https://github.com/paularlott/llmrouter
+discovered_at: '2026-07-08T17:26:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "iambilliefan/gia-mcp-server"
-category: "Orchestrator"
-tech_stack: ["Model Context Protocol (MCP)", "JavaScript", "Windows OS", "Networking"]
+title: iambilliefan/gia-mcp-server
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Model Context Protocol (MCP)
+- JavaScript
+- Windows OS
+- Networking
 quality_score: 6
 rag_relevance: 7
-tags: ["governance", "compliance", "MCP", "Claude AI", "enterprise AI"]
-source: "https://github.com/iambilliefan/gia-mcp-server"
-discovered_at: "2026-06-23T23:11:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- governance
+- compliance
+- MCP
+- Claude AI
+- enterprise AI
+source: https://github.com/iambilliefan/gia-mcp-server
+discovered_at: '2026-06-23T23:11:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

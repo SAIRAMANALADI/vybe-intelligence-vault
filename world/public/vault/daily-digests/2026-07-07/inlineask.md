@@ -1,13 +1,27 @@
 ---
-title: "Butterflyfishunvariedness395/InlineAsk"
-category: "Tooling"
-tech_stack: ["JavaScript", "Chrome Extension API", "OpenAI API", "Claude API", "Qwen API", "MiniMax API", "Ollama", "LM Studio", "HTML/CSS"]
+title: Butterflyfishunvariedness395/InlineAsk
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- JavaScript
+- Chrome Extension API
+- OpenAI API
+- Claude API
+- Qwen API
+- MiniMax API
+- Ollama
+- LM Studio
+- HTML/CSS
 quality_score: 8
 rag_relevance: 7
-tags: ["browser extension", "AI assistant", "contextual Q&A", "productivity tool", "streaming responses"]
-source: "https://github.com/Butterflyfishunvariedness395/InlineAsk"
-discovered_at: "2026-07-07T20:50:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser extension
+- AI assistant
+- contextual Q&A
+- productivity tool
+- streaming responses
+source: https://github.com/Butterflyfishunvariedness395/InlineAsk
+discovered_at: '2026-07-07T20:50:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

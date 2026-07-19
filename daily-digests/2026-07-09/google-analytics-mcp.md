@@ -1,13 +1,25 @@
 ---
-title: "surendranb/google-analytics-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Node.js", "Google Analytics Data API", "MCP (Model Context Protocol)", "Google Cloud Service Account", "FastAPI", "TypeScript"]
+title: surendranb/google-analytics-mcp
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- Node.js
+- Google Analytics Data API
+- MCP (Model Context Protocol)
+- Google Cloud Service Account
+- FastAPI
+- TypeScript
 quality_score: 9
 rag_relevance: 8
-tags: ["Google Analytics 4", "MCP Server", "AI Agents", "Data Integration", "Analytics"]
-source: "https://github.com/surendranb/google-analytics-mcp"
-discovered_at: "2026-07-09T04:46:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Google Analytics 4
+- MCP Server
+- AI Agents
+- Data Integration
+- Analytics
+source: https://github.com/surendranb/google-analytics-mcp
+discovered_at: '2026-07-09T04:46:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

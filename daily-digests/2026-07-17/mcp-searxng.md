@@ -1,13 +1,25 @@
 ---
-title: "ihor-sokoliuk/mcp-searxng"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Docker", "NPM", "Model Context Protocol (MCP)", "SearXNG API", "HTTP/JSON"]
+title: ihor-sokoliuk/mcp-searxng
+category: daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- Node.js
+- Docker
+- NPM
+- Model Context Protocol (MCP)
+- SearXNG API
+- HTTP/JSON
 quality_score: 9
 rag_relevance: 10
-tags: ["web search", "privacy-focused", "self-hosted", "MCP server", "SearXNG integration"]
-source: "https://github.com/ihor-sokoliuk/mcp-searxng"
-discovered_at: "2026-07-13T21:55:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web search
+- privacy-focused
+- self-hosted
+- MCP server
+- SearXNG integration
+source: https://github.com/ihor-sokoliuk/mcp-searxng
+discovered_at: '2026-07-13T21:55:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

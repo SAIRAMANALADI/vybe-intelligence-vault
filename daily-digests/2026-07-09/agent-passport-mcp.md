@@ -1,13 +1,27 @@
 ---
-title: "aeoess/agent-passport-mcp"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "TypeScript", "Ed25519 Cryptography", "MCP (Model Context Protocol)", "Node.js", "REST APIs", "YAML", "JSON", "GitHub API"]
+title: aeoess/agent-passport-mcp
+category: daily-digests/2026-07-09
+tech_stack:
+- JavaScript
+- TypeScript
+- Ed25519 Cryptography
+- MCP (Model Context Protocol)
+- Node.js
+- REST APIs
+- YAML
+- JSON
+- GitHub API
 quality_score: 9
 rag_relevance: 10
-tags: ["agent identity", "delegation", "enforcement", "governance", "signed receipts"]
-source: "https://github.com/aeoess/agent-passport-mcp"
-discovered_at: "2026-07-09T21:18:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent identity
+- delegation
+- enforcement
+- governance
+- signed receipts
+source: https://github.com/aeoess/agent-passport-mcp
+discovered_at: '2026-07-09T21:18:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

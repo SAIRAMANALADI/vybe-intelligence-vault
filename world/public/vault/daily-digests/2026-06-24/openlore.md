@@ -1,13 +1,25 @@
 ---
-title: "clay-good/OpenLore"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Static Analysis", "MCP (Model Context Protocol)", "Graph Theory", "LLM Integration", "CI/CD Pipelines"]
+title: clay-good/OpenLore
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- Static Analysis
+- MCP (Model Context Protocol)
+- Graph Theory
+- LLM Integration
+- CI/CD Pipelines
 quality_score: 9
 rag_relevance: 10
-tags: ["knowledge graph", "AI agent memory", "static analysis", "deterministic retrieval", "architectural governance"]
-source: "https://github.com/clay-good/OpenLore"
-discovered_at: "2026-06-24T16:20:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- knowledge graph
+- AI agent memory
+- static analysis
+- deterministic retrieval
+- architectural governance
+source: https://github.com/clay-good/OpenLore
+discovered_at: '2026-06-24T16:20:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

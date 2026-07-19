@@ -1,13 +1,22 @@
 ---
-title: "Sebas2015diaz/hermes-agent-orange-book"
-category: "Agent Framework"
-tech_stack: ["Hermes Agent Framework", "Windows OS", "Python (implied)", "Agent Orchestration"]
+title: Sebas2015diaz/hermes-agent-orange-book
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- Hermes Agent Framework
+- Windows OS
+- Python (implied)
+- Agent Orchestration
 quality_score: 6
 rag_relevance: 5
-tags: ["AI agents", "agent framework", "automation", "practical guide", "Hermes"]
-source: "https://github.com/Sebas2015diaz/hermes-agent-orange-book"
-discovered_at: "2026-07-11T11:03:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- agent framework
+- automation
+- practical guide
+- Hermes
+source: https://github.com/Sebas2015diaz/hermes-agent-orange-book
+discovered_at: '2026-07-11T11:03:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

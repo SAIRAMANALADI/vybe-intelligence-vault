@@ -1,13 +1,23 @@
 ---
-title: "cherninlab/ennodia"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Bun", "MCP (Model Context Protocol)", "Node.js", "CLI Tools"]
+title: cherninlab/ennodia
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Bun
+- MCP (Model Context Protocol)
+- Node.js
+- CLI Tools
 quality_score: 8
 rag_relevance: 9
-tags: ["multi-agent collaboration", "MCP server", "agent orchestration", "task routing", "reliability"]
-source: "https://github.com/cherninlab/ennodia"
-discovered_at: "2026-06-23T23:10:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent collaboration
+- MCP server
+- agent orchestration
+- task routing
+- reliability
+source: https://github.com/cherninlab/ennodia
+discovered_at: '2026-06-23T23:10:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

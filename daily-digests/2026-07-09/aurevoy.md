@@ -1,13 +1,27 @@
 ---
-title: "nullskymc/Aurevoy"
-category: "Agent Framework"
-tech_stack: ["Tauri 2", "React", "TypeScript", "Node.js", "Fastify", "SQLite", "MCP (Model Context Protocol)", "OpenAI-compatible APIs", "Vision Models"]
+title: nullskymc/Aurevoy
+category: daily-digests/2026-07-09
+tech_stack:
+- Tauri 2
+- React
+- TypeScript
+- Node.js
+- Fastify
+- SQLite
+- MCP (Model Context Protocol)
+- OpenAI-compatible APIs
+- Vision Models
 quality_score: 9
 rag_relevance: 7
-tags: ["autonomous agent", "local-first", "multimodal", "code editing", "task automation"]
-source: "https://github.com/nullskymc/Aurevoy"
-discovered_at: "2026-07-09T14:44:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agent
+- local-first
+- multimodal
+- code editing
+- task automation
+source: https://github.com/nullskymc/Aurevoy
+discovered_at: '2026-07-09T14:44:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

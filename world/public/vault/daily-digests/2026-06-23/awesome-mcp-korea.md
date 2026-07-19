@@ -1,13 +1,22 @@
 ---
-title: "avinash1441/awesome-mcp-korea"
-category: "Tooling"
-tech_stack: ["Windows", "C#/.NET", "MCP (Model Context Protocol)", "REST APIs"]
+title: avinash1441/awesome-mcp-korea
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Windows
+- C#/.NET
+- MCP (Model Context Protocol)
+- REST APIs
 quality_score: 5
 rag_relevance: 6
-tags: ["MCP", "Korea", "Legal Data", "Commerce", "Public Datasets"]
-source: "https://github.com/avinash1441/awesome-mcp-korea"
-discovered_at: "2026-06-23T23:08:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- Korea
+- Legal Data
+- Commerce
+- Public Datasets
+source: https://github.com/avinash1441/awesome-mcp-korea
+discovered_at: '2026-06-23T23:08:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

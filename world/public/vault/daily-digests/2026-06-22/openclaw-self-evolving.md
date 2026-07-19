@@ -1,13 +1,22 @@
 ---
-title: "TeeTheerakorn777/openclaw-self-evolving"
-category: "Agent Framework"
-tech_stack: ["Python", "Shell", "Large Language Models", "Windows Executable"]
+title: TeeTheerakorn777/openclaw-self-evolving
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- Shell
+- Large Language Models
+- Windows Executable
 quality_score: 6
 rag_relevance: 7
-tags: ["AI agent optimization", "log analysis", "workflow improvement", "self-evolving systems", "autonomous agents"]
-source: "https://github.com/TeeTheerakorn777/openclaw-self-evolving"
-discovered_at: "2026-06-22T18:56:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent optimization
+- log analysis
+- workflow improvement
+- self-evolving systems
+- autonomous agents
+source: https://github.com/TeeTheerakorn777/openclaw-self-evolving
+discovered_at: '2026-06-22T18:56:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

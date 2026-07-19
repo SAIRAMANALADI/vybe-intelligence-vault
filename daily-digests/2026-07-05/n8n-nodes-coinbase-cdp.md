@@ -1,13 +1,22 @@
 ---
-title: "matsadxxx/n8n-nodes-coinbase-cdp"
-category: "Tooling"
-tech_stack: ["Python", "n8n", "Coinbase CDP API", "Workflow Automation"]
+title: matsadxxx/n8n-nodes-coinbase-cdp
+category: daily-digests/2026-07-05
+tech_stack:
+- Python
+- n8n
+- Coinbase CDP API
+- Workflow Automation
 quality_score: 4
 rag_relevance: 6
-tags: ["n8n", "Coinbase CDP", "automation", "workflow", "cryptocurrency"]
-source: "https://github.com/matsadxxx/n8n-nodes-coinbase-cdp"
-discovered_at: "2026-07-05T21:59:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- n8n
+- Coinbase CDP
+- automation
+- workflow
+- cryptocurrency
+source: https://github.com/matsadxxx/n8n-nodes-coinbase-cdp
+discovered_at: '2026-07-05T21:59:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

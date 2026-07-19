@@ -1,13 +1,28 @@
 ---
-title: "mobius-os/mobius"
-category: "Agent Framework"
-tech_stack: ["Python", "Docker", "React", "JavaScript/JSX", "Git", "Claude Code", "ChatGPT (Codex)", "Caddy", "SQLite", "PWA (Progressive Web App)"]
+title: mobius-os/mobius
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Docker
+- React
+- JavaScript/JSX
+- Git
+- Claude Code
+- ChatGPT (Codex)
+- Caddy
+- SQLite
+- PWA (Progressive Web App)
 quality_score: 9
 rag_relevance: 8
-tags: ["self-hosted", "AI agent", "app builder", "autonomous improvement", "offline-first"]
-source: "https://github.com/mobius-os/mobius"
-discovered_at: "2026-06-24T18:49:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-hosted
+- AI agent
+- app builder
+- autonomous improvement
+- offline-first
+source: https://github.com/mobius-os/mobius
+discovered_at: '2026-06-24T18:49:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

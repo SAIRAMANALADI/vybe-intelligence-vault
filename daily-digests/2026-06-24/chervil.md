@@ -1,13 +1,30 @@
 ---
-title: "chervil-ai/chervil"
-category: "Agent Framework"
-tech_stack: ["Electron", "JavaScript", "TypeScript", "Node.js", "React", "ONNX Runtime", "Claude API", "Grok API", "Gemini API", "OpenAI API", "Azure AI Foundry", "Ollama"]
+title: chervil-ai/chervil
+category: daily-digests/2026-06-24
+tech_stack:
+- Electron
+- JavaScript
+- TypeScript
+- Node.js
+- React
+- ONNX Runtime
+- Claude API
+- Grok API
+- Gemini API
+- OpenAI API
+- Azure AI Foundry
+- Ollama
 quality_score: 8
 rag_relevance: 9
-tags: ["conversational AI", "web agent", "live search", "interactive pages", "multi-agent"]
-source: "https://github.com/chervil-ai/chervil"
-discovered_at: "2026-06-24T13:16:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- conversational AI
+- web agent
+- live search
+- interactive pages
+- multi-agent
+source: https://github.com/chervil-ai/chervil
+discovered_at: '2026-06-24T13:16:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

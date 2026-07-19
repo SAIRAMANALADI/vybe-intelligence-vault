@@ -1,13 +1,26 @@
 ---
-title: "piaomiaoguying/mdtoword"
-category: "Tooling"
-tech_stack: ["Node.js", "Python", "Pandoc", "Playwright", "Mermaid CLI", "Claude Code", "Markdown", "Word (.docx) format"]
+title: piaomiaoguying/mdtoword
+category: daily-digests/2026-06-24
+tech_stack:
+- Node.js
+- Python
+- Pandoc
+- Playwright
+- Mermaid CLI
+- Claude Code
+- Markdown
+- Word (.docx) format
 quality_score: 8
 rag_relevance: 9
-tags: ["Markdown to Word", "AI document processing", "Mermaid diagram rendering", "ASCII art conversion", "Claude Code skill"]
-source: "https://github.com/piaomiaoguying/mdtoword"
-discovered_at: "2026-06-24T02:45:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Markdown to Word
+- AI document processing
+- Mermaid diagram rendering
+- ASCII art conversion
+- Claude Code skill
+source: https://github.com/piaomiaoguying/mdtoword
+discovered_at: '2026-06-24T02:45:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

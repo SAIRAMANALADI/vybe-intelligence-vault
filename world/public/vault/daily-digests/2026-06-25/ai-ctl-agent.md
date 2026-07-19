@@ -1,13 +1,25 @@
 ---
-title: "jaynguyen2612-glitch/ai-ctl-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "YAML", "OpenAI API", "Anthropic API", "Ollama (Local LLM)", "Shell Integration (bash, zsh, fish, PowerShell)", "Mermaid.js (for diagrams)"]
+title: jaynguyen2612-glitch/ai-ctl-agent
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- YAML
+- OpenAI API
+- Anthropic API
+- Ollama (Local LLM)
+- Shell Integration (bash, zsh, fish, PowerShell)
+- Mermaid.js (for diagrams)
 quality_score: 8
 rag_relevance: 7
-tags: ["terminal assistant", "multi-model orchestration", "context-aware", "AI copilot", "shell integration"]
-source: "https://github.com/jaynguyen2612-glitch/ai-ctl-agent"
-discovered_at: "2026-06-25T08:28:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- terminal assistant
+- multi-model orchestration
+- context-aware
+- AI copilot
+- shell integration
+source: https://github.com/jaynguyen2612-glitch/ai-ctl-agent
+discovered_at: '2026-06-25T08:28:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

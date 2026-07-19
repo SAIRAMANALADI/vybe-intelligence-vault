@@ -1,13 +1,24 @@
 ---
-title: "memtomem/memtomem-stm"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "FastAPI", "SQLite", "Langfuse", "Jupyter Notebooks"]
+title: memtomem/memtomem-stm
+category: daily-digests/2026-07-10
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- FastAPI
+- SQLite
+- Langfuse
+- Jupyter Notebooks
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP proxy", "token compression", "memory retention", "AI agent tooling", "session context"]
-source: "https://github.com/memtomem/memtomem-stm"
-discovered_at: "2026-07-10T02:27:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP proxy
+- token compression
+- memory retention
+- AI agent tooling
+- session context
+source: https://github.com/memtomem/memtomem-stm
+discovered_at: '2026-07-10T02:27:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "jayaramkalaivani/prompt-intercept-pattern"
-category: "Tooling"
-tech_stack: ["Windows", "Claude Code", "Shell", "Local Hook Interception", "ZIP Distribution"]
+title: jayaramkalaivani/prompt-intercept-pattern
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Windows
+- Claude Code
+- Shell
+- Local Hook Interception
+- ZIP Distribution
 quality_score: 6
 rag_relevance: 5
-tags: ["command interception", "local execution", "Claude Code plugin", "Windows tooling", "hook-based workflows"]
-source: "https://github.com/jayaramkalaivani/prompt-intercept-pattern"
-discovered_at: "2026-07-07T20:51:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- command interception
+- local execution
+- Claude Code plugin
+- Windows tooling
+- hook-based workflows
+source: https://github.com/jayaramkalaivani/prompt-intercept-pattern
+discovered_at: '2026-07-07T20:51:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

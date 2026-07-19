@@ -1,13 +1,22 @@
 ---
-title: "Overembellished-sidewinder141/OffSploit"
-category: "Tooling"
-tech_stack: ["Python", "Local LLMs", "Security Testing", "Sandboxing"]
+title: Overembellished-sidewinder141/OffSploit
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Python
+- Local LLMs
+- Security Testing
+- Sandboxing
 quality_score: 4
 rag_relevance: 6
-tags: ["security testing", "vulnerability assessment", "local AI", "offline operation", "sandboxing"]
-source: "https://github.com/Overembellished-sidewinder141/OffSploit"
-discovered_at: "2026-07-10T06:15:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- security testing
+- vulnerability assessment
+- local AI
+- offline operation
+- sandboxing
+source: https://github.com/Overembellished-sidewinder141/OffSploit
+discovered_at: '2026-07-10T06:15:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

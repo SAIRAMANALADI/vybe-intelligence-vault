@@ -1,13 +1,21 @@
 ---
-title: "Marcel98717/openclaw-power-skills"
-category: "Agent Framework"
-tech_stack: ["OpenClaw", "Python", "Agent Skills"]
+title: Marcel98717/openclaw-power-skills
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- OpenClaw
+- Python
+- Agent Skills
 quality_score: 3
 rag_relevance: 7
-tags: ["OpenClaw", "agent-skills", "modular-components", "production-ready", "zero-config"]
-source: "https://github.com/Marcel98717/openclaw-power-skills"
-discovered_at: "2026-07-08T02:06:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- OpenClaw
+- agent-skills
+- modular-components
+- production-ready
+- zero-config
+source: https://github.com/Marcel98717/openclaw-power-skills
+discovered_at: '2026-07-08T02:06:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

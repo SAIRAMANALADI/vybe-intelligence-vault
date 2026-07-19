@@ -1,13 +1,25 @@
 ---
-title: "ambiental-media/jor-mcp"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Docker", "JWT", "WordPress REST API", "GitHub API", "Model Context Protocol (MCP)"]
+title: ambiental-media/jor-mcp
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Python
+- FastAPI
+- Docker
+- JWT
+- WordPress REST API
+- GitHub API
+- Model Context Protocol (MCP)
 quality_score: 8
 rag_relevance: 9
-tags: ["journalism", "MCP server", "WordPress integration", "GitHub integration", "secure AI access"]
-source: "https://github.com/ambiental-media/jor-mcp"
-discovered_at: "2026-07-06T23:03:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- journalism
+- MCP server
+- WordPress integration
+- GitHub integration
+- secure AI access
+source: https://github.com/ambiental-media/jor-mcp
+discovered_at: '2026-07-06T23:03:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

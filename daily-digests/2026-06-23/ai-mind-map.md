@@ -1,13 +1,24 @@
 ---
-title: "shdra06/ai-mind-map"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "SQLite", "Node.js", "Cypher-like graph queries", "Tree-sitter (for code parsing)"]
+title: shdra06/ai-mind-map
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- SQLite
+- Node.js
+- Cypher-like graph queries
+- Tree-sitter (for code parsing)
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP Server", "Token Optimization", "Knowledge Graph", "AI Agent Memory", "Codebase Indexing"]
-source: "https://github.com/shdra06/ai-mind-map"
-discovered_at: "2026-06-23T13:51:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- Token Optimization
+- Knowledge Graph
+- AI Agent Memory
+- Codebase Indexing
+source: https://github.com/shdra06/ai-mind-map
+discovered_at: '2026-06-23T13:51:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

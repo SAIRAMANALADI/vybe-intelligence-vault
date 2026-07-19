@@ -1,13 +1,28 @@
 ---
-title: "chunkhound/chunkhound"
-category: "Tooling"
-tech_stack: ["Python", "Tree-sitter", "MCP (Model Context Protocol)", "DuckDB", "VoyageAI", "OpenAI", "Claude Code CLI", "HNSW (Hierarchical Navigable Small World)", "Git", "uv (package manager)"]
+title: chunkhound/chunkhound
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- Tree-sitter
+- MCP (Model Context Protocol)
+- DuckDB
+- VoyageAI
+- OpenAI
+- Claude Code CLI
+- HNSW (Hierarchical Navigable Small World)
+- Git
+- uv (package manager)
 quality_score: 9
 rag_relevance: 9
-tags: ["code analysis", "semantic search", "local-first", "MCP integration", "multi-language support"]
-source: "https://github.com/chunkhound/chunkhound"
-discovered_at: "2026-06-25T08:35:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code analysis
+- semantic search
+- local-first
+- MCP integration
+- multi-language support
+source: https://github.com/chunkhound/chunkhound
+discovered_at: '2026-06-25T08:35:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

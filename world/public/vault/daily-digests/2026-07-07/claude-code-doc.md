@@ -1,13 +1,22 @@
 ---
-title: "Nobeliummolestation149/claude-code-doc"
-category: "Tooling"
-tech_stack: ["Windows Desktop App", "Electron", "JavaScript/TypeScript", "HTML/CSS"]
+title: Nobeliummolestation149/claude-code-doc
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Windows Desktop App
+- Electron
+- JavaScript/TypeScript
+- HTML/CSS
 quality_score: 5
 rag_relevance: 3
-tags: ["documentation", "local app", "Windows utility", "Claude code", "offline access"]
-source: "https://github.com/Nobeliummolestation149/claude-code-doc"
-discovered_at: "2026-07-07T06:41:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- documentation
+- local app
+- Windows utility
+- Claude code
+- offline access
+source: https://github.com/Nobeliummolestation149/claude-code-doc
+discovered_at: '2026-07-07T06:41:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

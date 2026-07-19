@@ -1,13 +1,23 @@
 ---
-title: "ABUTHAHIR101/gemini-computer-control"
-category: "Tooling"
-tech_stack: ["Python", "Windows API", "Gemini 3 Series Models", "Electron (implied by frontend zip)", "Installer Scripts"]
+title: ABUTHAHIR101/gemini-computer-control
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- Windows API
+- Gemini 3 Series Models
+- Electron (implied by frontend zip)
+- Installer Scripts
 quality_score: 5
 rag_relevance: 3
-tags: ["desktop automation", "system control", "Gemini integration", "Windows tooling", "task automation"]
-source: "https://github.com/ABUTHAHIR101/gemini-computer-control"
-discovered_at: "2026-06-25T05:01:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- desktop automation
+- system control
+- Gemini integration
+- Windows tooling
+- task automation
+source: https://github.com/ABUTHAHIR101/gemini-computer-control
+discovered_at: '2026-06-25T05:01:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

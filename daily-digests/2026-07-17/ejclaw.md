@@ -1,13 +1,29 @@
 ---
-title: "phj1081/EJClaw"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Python", "systemd", "Docker", "Discord API", "Anthropic API", "CLI tools", "MCP (Model Context Protocol)", "OAuth", "1Password (secrets management)"]
+title: phj1081/EJClaw
+category: daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- Node.js
+- Python
+- systemd
+- Docker
+- Discord API
+- Anthropic API
+- CLI tools
+- MCP (Model Context Protocol)
+- OAuth
+- 1Password (secrets management)
 quality_score: 8
 rag_relevance: 7
-tags: ["agent-orchestration", "carry-layer", "MCP-integration", "Discord-bot", "secrets-management"]
-source: "https://github.com/phj1081/EJClaw"
-discovered_at: "2026-07-15T20:08:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent-orchestration
+- carry-layer
+- MCP-integration
+- Discord-bot
+- secrets-management
+source: https://github.com/phj1081/EJClaw
+discovered_at: '2026-07-15T20:08:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

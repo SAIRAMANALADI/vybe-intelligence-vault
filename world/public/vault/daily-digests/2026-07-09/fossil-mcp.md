@@ -1,13 +1,25 @@
 ---
-title: "sjkim1127/fossil-mcp"
-category: "Agent Framework"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "SQLite", "Tree-sitter", "SCIP (Sourcegraph Code Intelligence Protocol)", "Git", "Embeddings"]
+title: sjkim1127/fossil-mcp
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- SQLite
+- Tree-sitter
+- SCIP (Sourcegraph Code Intelligence Protocol)
+- Git
+- Embeddings
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP server", "code indexing", "implementation search", "AI assistant tooling", "repository analysis"]
-source: "https://github.com/sjkim1127/fossil-mcp"
-discovered_at: "2026-07-09T14:45:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- code indexing
+- implementation search
+- AI assistant tooling
+- repository analysis
+source: https://github.com/sjkim1127/fossil-mcp
+discovered_at: '2026-07-09T14:45:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

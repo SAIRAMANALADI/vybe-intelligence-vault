@@ -1,13 +1,23 @@
 ---
-title: "Phillipphilatelical734/eve-agent-v2-unleashed"
-category: "Agent Framework"
-tech_stack: ["Python", "Ollama", "Llama3", "Windows OS", "Local AI inference"]
+title: Phillipphilatelical734/eve-agent-v2-unleashed
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Ollama
+- Llama3
+- Windows OS
+- Local AI inference
 quality_score: 6
 rag_relevance: 7
-tags: ["autonomous coding", "local AI", "privacy-focused", "Ollama integration", "Windows desktop"]
-source: "https://github.com/Phillipphilatelical734/eve-agent-v2-unleashed"
-discovered_at: "2026-06-24T06:48:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous coding
+- local AI
+- privacy-focused
+- Ollama integration
+- Windows desktop
+source: https://github.com/Phillipphilatelical734/eve-agent-v2-unleashed
+discovered_at: '2026-06-24T06:48:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

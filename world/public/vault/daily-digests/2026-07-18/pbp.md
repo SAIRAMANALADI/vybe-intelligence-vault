@@ -1,13 +1,26 @@
 ---
-title: "MadGapun/PBP"
-category: "Tooling"
-tech_stack: ["Python", "Claude Desktop (MCP)", "React 19", "Vite", "Tailwind CSS", "SQLite", "MCP (Model Context Protocol)", "Thunderbird Add-on (JavaScript)"]
+title: MadGapun/PBP
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- Python
+- Claude Desktop (MCP)
+- React 19
+- Vite
+- Tailwind CSS
+- SQLite
+- MCP (Model Context Protocol)
+- Thunderbird Add-on (JavaScript)
 quality_score: 9
 rag_relevance: 4
-tags: ["job application", "career management", "local-first", "AI feedback", "German market"]
-source: "https://github.com/MadGapun/PBP"
-discovered_at: "2026-07-16T22:02:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- job application
+- career management
+- local-first
+- AI feedback
+- German market
+source: https://github.com/MadGapun/PBP
+discovered_at: '2026-07-16T22:02:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

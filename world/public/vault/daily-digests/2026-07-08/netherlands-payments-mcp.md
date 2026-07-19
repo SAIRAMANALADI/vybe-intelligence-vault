@@ -1,13 +1,23 @@
 ---
-title: "junter1989k-ai/netherlands-payments-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Mollie API", "Model Context Protocol (MCP)", "HTTP/JSON-RPC"]
+title: junter1989k-ai/netherlands-payments-mcp
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- Node.js
+- Mollie API
+- Model Context Protocol (MCP)
+- HTTP/JSON-RPC
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP server", "payments", "Netherlands", "iDEAL", "Mollie API"]
-source: "https://github.com/junter1989k-ai/netherlands-payments-mcp"
-discovered_at: "2026-07-08T19:16:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- payments
+- Netherlands
+- iDEAL
+- Mollie API
+source: https://github.com/junter1989k-ai/netherlands-payments-mcp
+discovered_at: '2026-07-08T19:16:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

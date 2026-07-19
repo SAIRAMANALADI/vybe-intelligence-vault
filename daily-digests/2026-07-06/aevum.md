@@ -1,13 +1,30 @@
 ---
-title: "aevum-labs/aevum"
-category: "Tooling"
-tech_stack: ["Python", "Ed25519", "SHA3-256", "COSE_Sign1", "RFC 3161", "Rekor v2", "RFC 8785 (JCS)", "RFC 6962 (Merkle Tree)", "Cedar Policy", "PostgreSQL", "Oxigraph", "ML-DSA-65 (post-quantum)"]
+title: aevum-labs/aevum
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- Ed25519
+- SHA3-256
+- COSE_Sign1
+- RFC 3161
+- Rekor v2
+- RFC 8785 (JCS)
+- RFC 6962 (Merkle Tree)
+- Cedar Policy
+- PostgreSQL
+- Oxigraph
+- ML-DSA-65 (post-quantum)
 quality_score: 9
 rag_relevance: 10
-tags: ["AI governance", "tamper-evident logging", "regulatory compliance", "agent audit trails", "cryptographic verification"]
-source: "https://github.com/aevum-labs/aevum"
-discovered_at: "2026-07-06T23:02:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI governance
+- tamper-evident logging
+- regulatory compliance
+- agent audit trails
+- cryptographic verification
+source: https://github.com/aevum-labs/aevum
+discovered_at: '2026-07-06T23:02:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

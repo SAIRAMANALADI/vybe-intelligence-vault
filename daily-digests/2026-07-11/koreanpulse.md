@@ -1,13 +1,26 @@
 ---
-title: "whdrnr2583-cmd/koreanpulse"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "DART API", "OpenAI API", "FastAPI", "AGPL-3.0", "Polar (for billing)", "Discord/Telegram/Slack integrations"]
+title: whdrnr2583-cmd/koreanpulse
+category: daily-digests/2026-07-11
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- DART API
+- OpenAI API
+- FastAPI
+- AGPL-3.0
+- Polar (for billing)
+- Discord/Telegram/Slack integrations
 quality_score: 8
 rag_relevance: 9
-tags: ["Korean equity data", "DART filings", "foreign-holder tracking", "AI agent integration", "real-time alerts"]
-source: "https://github.com/whdrnr2583-cmd/koreanpulse"
-discovered_at: "2026-07-11T05:39:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Korean equity data
+- DART filings
+- foreign-holder tracking
+- AI agent integration
+- real-time alerts
+source: https://github.com/whdrnr2583-cmd/koreanpulse
+discovered_at: '2026-07-11T05:39:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

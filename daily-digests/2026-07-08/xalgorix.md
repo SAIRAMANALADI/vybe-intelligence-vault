@@ -1,13 +1,25 @@
 ---
-title: "xalgord/xalgorix"
-category: "Tooling"
-tech_stack: ["Go", "TypeScript", "React", "WebSockets", "LLM APIs (OpenAI, Anthropic, DeepSeek, etc.)", "PDF generation libraries", "Browser automation tools"]
+title: xalgord/xalgorix
+category: daily-digests/2026-07-08
+tech_stack:
+- Go
+- TypeScript
+- React
+- WebSockets
+- LLM APIs (OpenAI, Anthropic, DeepSeek, etc.)
+- PDF generation libraries
+- Browser automation tools
 quality_score: 9
 rag_relevance: 7
-tags: ["Penetration testing", "Autonomous agents", "Vulnerability verification", "Self-hosted security", "AI-driven exploitation"]
-source: "https://github.com/xalgord/xalgorix"
-discovered_at: "2026-07-08T10:59:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Penetration testing
+- Autonomous agents
+- Vulnerability verification
+- Self-hosted security
+- AI-driven exploitation
+source: https://github.com/xalgord/xalgorix
+discovered_at: '2026-07-08T10:59:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

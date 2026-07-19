@@ -1,13 +1,24 @@
 ---
-title: "vsj4394/hermes-health-apollo"
-category: "Tooling"
-tech_stack: ["Python", "Windows Desktop", "Google Calendar API", "Oura API", "CSV Export", "Local Encryption"]
+title: vsj4394/hermes-health-apollo
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Windows Desktop
+- Google Calendar API
+- Oura API
+- CSV Export
+- Local Encryption
 quality_score: 7
 rag_relevance: 5
-tags: ["health data integration", "privacy-focused", "wearable sync", "calendar optimization", "local storage"]
-source: "https://github.com/vsj4394/hermes-health-apollo"
-discovered_at: "2026-06-24T06:42:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- health data integration
+- privacy-focused
+- wearable sync
+- calendar optimization
+- local storage
+source: https://github.com/vsj4394/hermes-health-apollo
+discovered_at: '2026-06-24T06:42:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

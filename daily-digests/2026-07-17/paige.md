@@ -1,13 +1,28 @@
 ---
-title: "peelar/paige"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Eve (Agent Runtime)", "Next.js", "pnpm", "Turborepo", "Drizzle ORM", "libSQL", "Slack API", "Linear API", "GitHub API"]
+title: peelar/paige
+category: daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- Eve (Agent Runtime)
+- Next.js
+- pnpm
+- Turborepo
+- Drizzle ORM
+- libSQL
+- Slack API
+- Linear API
+- GitHub API
 quality_score: 8
 rag_relevance: 9
-tags: ["documentation automation", "agentic workflows", "evidence-based updates", "developer tools", "AI-assisted writing"]
-source: "https://github.com/peelar/paige"
-discovered_at: "2026-07-14T20:09:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- documentation automation
+- agentic workflows
+- evidence-based updates
+- developer tools
+- AI-assisted writing
+source: https://github.com/peelar/paige
+discovered_at: '2026-07-14T20:09:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

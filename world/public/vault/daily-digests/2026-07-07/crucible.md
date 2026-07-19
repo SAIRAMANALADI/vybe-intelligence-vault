@@ -1,13 +1,23 @@
 ---
-title: "HarperZ9/crucible"
-category: "Tooling"
-tech_stack: ["Python", "JSON", "CLI", "MCP (Model Context Protocol)", "Standard Library"]
+title: HarperZ9/crucible
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- JSON
+- CLI
+- MCP (Model Context Protocol)
+- Standard Library
 quality_score: 9
 rag_relevance: 7
-tags: ["verification", "claim evaluation", "evidence-based reasoning", "deterministic verdicts", "refinement loop"]
-source: "https://github.com/HarperZ9/crucible"
-discovered_at: "2026-07-07T16:26:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- verification
+- claim evaluation
+- evidence-based reasoning
+- deterministic verdicts
+- refinement loop
+source: https://github.com/HarperZ9/crucible
+discovered_at: '2026-07-07T16:26:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

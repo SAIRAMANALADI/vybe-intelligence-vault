@@ -1,13 +1,24 @@
 ---
-title: "app-builders-club/designLib-mcp"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "PostgreSQL", "Docker", "Model Context Protocol (MCP)", "HTTP Transport"]
+title: app-builders-club/designLib-mcp
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- FastMCP
+- PostgreSQL
+- Docker
+- Model Context Protocol (MCP)
+- HTTP Transport
 quality_score: 9
 rag_relevance: 8
-tags: ["design tokens", "MCP server", "UI patterns", "design system", "AI agent tooling"]
-source: "https://github.com/app-builders-club/designLib-mcp"
-discovered_at: "2026-07-08T08:17:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- design tokens
+- MCP server
+- UI patterns
+- design system
+- AI agent tooling
+source: https://github.com/app-builders-club/designLib-mcp
+discovered_at: '2026-07-08T08:17:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

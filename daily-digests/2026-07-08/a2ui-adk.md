@@ -1,13 +1,22 @@
 ---
-title: "Sieameek/a2ui-adk"
-category: "UI Component"
-tech_stack: ["A2UI", "Tailwind CSS", "shadcn/ui", "Google ADK"]
+title: Sieameek/a2ui-adk
+category: daily-digests/2026-07-08
+tech_stack:
+- A2UI
+- Tailwind CSS
+- shadcn/ui
+- Google ADK
 quality_score: 4
 rag_relevance: 6
-tags: ["UI Framework", "Agent Development", "Google ADK", "Tailwind CSS", "shadcn/ui"]
-source: "https://github.com/Sieameek/a2ui-adk"
-discovered_at: "2026-07-08T02:06:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- UI Framework
+- Agent Development
+- Google ADK
+- Tailwind CSS
+- shadcn/ui
+source: https://github.com/Sieameek/a2ui-adk
+discovered_at: '2026-07-08T02:06:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "black22345/commune-cookbook"
-category: "Tooling"
-tech_stack: ["Python", "LangChain", "CrewAI", "OpenAI Agents SDK", "Jupyter Notebook", "TypeScript"]
+title: black22345/commune-cookbook
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- LangChain
+- CrewAI
+- OpenAI Agents SDK
+- Jupyter Notebook
+- TypeScript
 quality_score: 7
 rag_relevance: 6
-tags: ["AI agents", "email automation", "SMS integration", "agent frameworks", "communication tools"]
-source: "https://github.com/black22345/commune-cookbook"
-discovered_at: "2026-06-23T23:09:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- email automation
+- SMS integration
+- agent frameworks
+- communication tools
+source: https://github.com/black22345/commune-cookbook
+discovered_at: '2026-06-23T23:09:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

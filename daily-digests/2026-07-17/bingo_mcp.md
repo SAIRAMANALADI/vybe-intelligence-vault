@@ -1,13 +1,24 @@
 ---
-title: "ROhta/bingo_mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "esbuild", "CSS", "AI Agent Package Manager (APM)", "Submodules"]
+title: ROhta/bingo_mcp
+category: daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- esbuild
+- CSS
+- AI Agent Package Manager (APM)
+- Submodules
 quality_score: 8
 rag_relevance: 6
-tags: ["bingo", "MCP", "interactive widget", "AI agent tooling", "submodule reuse"]
-source: "https://github.com/ROhta/bingo_mcp"
-discovered_at: "2026-07-12T10:26:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- bingo
+- MCP
+- interactive widget
+- AI agent tooling
+- submodule reuse
+source: https://github.com/ROhta/bingo_mcp
+discovered_at: '2026-07-12T10:26:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

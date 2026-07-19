@@ -1,13 +1,23 @@
 ---
-title: "ljhljh0703-cmd/katousa-agent-harness"
-category: "Agent Framework"
-tech_stack: ["Python", "Natural Language Processing", "Unit Testing", "GitHub Actions", "Mermaid.js"]
+title: ljhljh0703-cmd/katousa-agent-harness
+category: daily-digests/2026-07-10
+tech_stack:
+- Python
+- Natural Language Processing
+- Unit Testing
+- GitHub Actions
+- Mermaid.js
 quality_score: 8
 rag_relevance: 7
-tags: ["investment education", "AI safety", "decision support", "transparency", "risk assessment"]
-source: "https://github.com/ljhljh0703-cmd/katousa-agent-harness"
-discovered_at: "2026-07-10T06:30:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- investment education
+- AI safety
+- decision support
+- transparency
+- risk assessment
+source: https://github.com/ljhljh0703-cmd/katousa-agent-harness
+discovered_at: '2026-07-10T06:30:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

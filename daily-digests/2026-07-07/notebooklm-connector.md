@@ -1,13 +1,23 @@
 ---
-title: "arsen9112/notebooklm-connector"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Google NotebookLM API", "Windows", "OAuth 2.0"]
+title: arsen9112/notebooklm-connector
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Google NotebookLM API
+- Windows
+- OAuth 2.0
 quality_score: 7
 rag_relevance: 9
-tags: ["MCP", "Google NotebookLM", "AI integration", "RAG enhancement", "Windows tool"]
-source: "https://github.com/arsen9112/notebooklm-connector"
-discovered_at: "2026-07-07T19:00:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- Google NotebookLM
+- AI integration
+- RAG enhancement
+- Windows tool
+source: https://github.com/arsen9112/notebooklm-connector
+discovered_at: '2026-07-07T19:00:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

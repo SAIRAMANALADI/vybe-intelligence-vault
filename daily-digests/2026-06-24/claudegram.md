@@ -1,13 +1,22 @@
 ---
-title: "Uri6407/claudegram"
-category: "Tooling"
-tech_stack: ["Python", "MTProto Protocol", "Model Context Protocol (MCP)", "Windows OS"]
+title: Uri6407/claudegram
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- MTProto Protocol
+- Model Context Protocol (MCP)
+- Windows OS
 quality_score: 7
 rag_relevance: 4
-tags: ["Telegram automation", "AI command control", "local data processing", "MTProto integration", "privacy-focused"]
-source: "https://github.com/Uri6407/claudegram"
-discovered_at: "2026-06-24T22:19:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Telegram automation
+- AI command control
+- local data processing
+- MTProto integration
+- privacy-focused
+source: https://github.com/Uri6407/claudegram
+discovered_at: '2026-06-24T22:19:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

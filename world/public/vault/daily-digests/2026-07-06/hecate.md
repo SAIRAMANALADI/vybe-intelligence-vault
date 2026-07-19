@@ -1,13 +1,28 @@
 ---
-title: "hecatehq/hecate"
-category: "Orchestrator"
-tech_stack: ["Go", "React", "TypeScript", "SQLite", "PostgreSQL", "OpenTelemetry", "Docker", "Tauri", "ACP (Agent Communication Protocol)", "MCP (Model Context Protocol)"]
+title: hecatehq/hecate
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Go
+- React
+- TypeScript
+- SQLite
+- PostgreSQL
+- OpenTelemetry
+- Docker
+- Tauri
+- ACP (Agent Communication Protocol)
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["agent operations", "runtime control plane", "model routing", "supervision", "observability"]
-source: "https://github.com/hecatehq/hecate"
-discovered_at: "2026-07-06T19:49:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent operations
+- runtime control plane
+- model routing
+- supervision
+- observability
+source: https://github.com/hecatehq/hecate
+discovered_at: '2026-07-06T19:49:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

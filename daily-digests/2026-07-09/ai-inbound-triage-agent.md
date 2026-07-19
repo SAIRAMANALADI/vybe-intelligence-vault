@@ -1,13 +1,24 @@
 ---
-title: "dan-nackasha-keyworth/ai-inbound-triage-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude API (Haiku 4.5, Sonnet 5)", "HTML", "CSS", "JavaScript", "GitHub Actions"]
+title: dan-nackasha-keyworth/ai-inbound-triage-agent
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- Claude API (Haiku 4.5, Sonnet 5)
+- HTML
+- CSS
+- JavaScript
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-tags: ["AI triage", "customer support automation", "agentic workflow", "confidence scoring", "message routing"]
-source: "https://github.com/dan-nackasha-keyworth/ai-inbound-triage-agent"
-discovered_at: "2026-07-09T11:52:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI triage
+- customer support automation
+- agentic workflow
+- confidence scoring
+- message routing
+source: https://github.com/dan-nackasha-keyworth/ai-inbound-triage-agent
+discovered_at: '2026-07-09T11:52:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

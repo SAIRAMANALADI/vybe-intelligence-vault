@@ -1,13 +1,23 @@
 ---
-title: "aashima/cognithor"
-category: "Agent Framework"
-tech_stack: ["C#", ".NET", "React", "LLM APIs", "Windows OS"]
+title: aashima/cognithor
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- C#
+- .NET
+- React
+- LLM APIs
+- Windows OS
 quality_score: 7
 rag_relevance: 6
-tags: ["autonomous agents", "local AI", "multi-LLM integration", "knowledge management", "document analysis"]
-source: "https://github.com/aashima/cognithor"
-discovered_at: "2026-06-22T18:49:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- local AI
+- multi-LLM integration
+- knowledge management
+- document analysis
+source: https://github.com/aashima/cognithor
+discovered_at: '2026-06-22T18:49:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

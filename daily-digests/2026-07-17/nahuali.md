@@ -1,13 +1,26 @@
 ---
-title: "Arakiss/nahuali"
-category: "Tooling"
-tech_stack: ["Rust", "SurrealDB", "SurrealKV", "Qdrant", "MCP (Model Context Protocol)", "HTTP API", "Ed25519 (cryptographic signing)", "Docker (optional)"]
+title: Arakiss/nahuali
+category: daily-digests/2026-07-17
+tech_stack:
+- Rust
+- SurrealDB
+- SurrealKV
+- Qdrant
+- MCP (Model Context Protocol)
+- HTTP API
+- Ed25519 (cryptographic signing)
+- Docker (optional)
 quality_score: 9
 rag_relevance: 10
-tags: ["memory management", "trust layer", "tamper-evident", "agent memory", "deterministic recall"]
-source: "https://github.com/Arakiss/nahuali"
-discovered_at: "2026-07-14T22:56:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory management
+- trust layer
+- tamper-evident
+- agent memory
+- deterministic recall
+source: https://github.com/Arakiss/nahuali
+discovered_at: '2026-07-14T22:56:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

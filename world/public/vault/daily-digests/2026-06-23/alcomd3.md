@@ -1,13 +1,27 @@
 ---
-title: "CQMHV/ALCOMD3"
-category: "Tooling"
-tech_stack: ["Rust", "Tauri", "TypeScript", "Node.js", "npm", "Material Design 3", "VPM", "MCP (Model Context Protocol)", "Inno Setup"]
+title: CQMHV/ALCOMD3
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Rust
+- Tauri
+- TypeScript
+- Node.js
+- npm
+- Material Design 3
+- VPM
+- MCP (Model Context Protocol)
+- Inno Setup
 quality_score: 8
 rag_relevance: 5
-tags: ["VRChat", "VPM", "package manager", "MCP integration", "desktop tool"]
-source: "https://github.com/CQMHV/ALCOMD3"
-discovered_at: "2026-06-23T16:33:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- VRChat
+- VPM
+- package manager
+- MCP integration
+- desktop tool
+source: https://github.com/CQMHV/ALCOMD3
+discovered_at: '2026-06-23T16:33:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

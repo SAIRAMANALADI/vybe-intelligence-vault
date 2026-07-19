@@ -1,13 +1,23 @@
 ---
-title: "mistertechie06/x402-payments-skill"
-category: "Tooling"
-tech_stack: ["USDC", "Base Blockchain", "Solana Blockchain", "Sentinel Payment Router", "Windows OS"]
+title: mistertechie06/x402-payments-skill
+category: daily-digests/2026-06-23
+tech_stack:
+- USDC
+- Base Blockchain
+- Solana Blockchain
+- Sentinel Payment Router
+- Windows OS
 quality_score: 7
 rag_relevance: 6
-tags: ["AI monetization", "USDC payments", "blockchain integration", "no-code setup", "AI agent tools"]
-source: "https://github.com/mistertechie06/x402-payments-skill"
-discovered_at: "2026-06-23T23:10:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI monetization
+- USDC payments
+- blockchain integration
+- no-code setup
+- AI agent tools
+source: https://github.com/mistertechie06/x402-payments-skill
+discovered_at: '2026-06-23T23:10:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "feenlace/mcp-1c"
-category: "Tooling"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "1C:Enterprise", "HTTP/REST", "SQLite", "BM25 (for search indexing)"]
+title: feenlace/mcp-1c
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- 1C:Enterprise
+- HTTP/REST
+- SQLite
+- BM25 (for search indexing)
 quality_score: 9
 rag_relevance: 8
-tags: ["1C:Enterprise", "BSL code generation", "AI integration", "local data processing", "MCP server"]
-source: "https://github.com/feenlace/mcp-1c"
-discovered_at: "2026-06-23T09:02:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- 1C:Enterprise
+- BSL code generation
+- AI integration
+- local data processing
+- MCP server
+source: https://github.com/feenlace/mcp-1c
+discovered_at: '2026-06-23T09:02:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

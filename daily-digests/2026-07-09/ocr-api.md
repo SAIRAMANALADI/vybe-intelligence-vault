@@ -1,13 +1,27 @@
 ---
-title: "IA-Generative/ocr-api"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "PaddleOCR", "Redis", "S3/MinIO", "PostgreSQL", "Celery", "Docker", "Pydantic"]
+title: IA-Generative/ocr-api
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- FastAPI
+- PaddleOCR
+- Redis
+- S3/MinIO
+- PostgreSQL
+- Celery
+- Docker
+- Pydantic
 quality_score: 8
 rag_relevance: 7
-tags: ["OCR", "text extraction", "asynchronous processing", "document processing", "Python SDK"]
-source: "https://github.com/IA-Generative/ocr-api"
-discovered_at: "2026-07-09T14:45:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- OCR
+- text extraction
+- asynchronous processing
+- document processing
+- Python SDK
+source: https://github.com/IA-Generative/ocr-api
+discovered_at: '2026-07-09T14:45:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "jordiboehme/crystalline"
-category: "Orchestrator"
-tech_stack: ["Rust", "Markdown", "YAML", "SQLite", "Embedding models", "MCP (Model Context Protocol)", "CI/CD (GitHub Actions)"]
+title: jordiboehme/crystalline
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Rust
+- Markdown
+- YAML
+- SQLite
+- Embedding models
+- MCP (Model Context Protocol)
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 9
-tags: ["AI memory", "knowledge management", "RAG optimization", "agent persistence", "Markdown-based workflow"]
-source: "https://github.com/jordiboehme/crystalline"
-discovered_at: "2026-07-08T21:01:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI memory
+- knowledge management
+- RAG optimization
+- agent persistence
+- Markdown-based workflow
+source: https://github.com/jordiboehme/crystalline
+discovered_at: '2026-07-08T21:01:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

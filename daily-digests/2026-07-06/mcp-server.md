@@ -1,13 +1,24 @@
 ---
-title: "opengolfapi/mcp-server"
-category: "Tooling"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "REST API", "OpenAPI 3.1", "CC0 (Creative Commons Zero)", "ODbL (Open Data Commons Open Database License)"]
+title: opengolfapi/mcp-server
+category: daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- REST API
+- OpenAPI 3.1
+- CC0 (Creative Commons Zero)
+- ODbL (Open Data Commons Open Database License)
 quality_score: 9
 rag_relevance: 7
-tags: ["golf data", "MCP server", "open standards", "AI agent integration", "tournament management"]
-source: "https://github.com/opengolfapi/mcp-server"
-discovered_at: "2026-07-06T21:26:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- golf data
+- MCP server
+- open standards
+- AI agent integration
+- tournament management
+source: https://github.com/opengolfapi/mcp-server
+discovered_at: '2026-07-06T21:26:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

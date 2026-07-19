@@ -1,13 +1,23 @@
 ---
-title: "DIYA73/contextpulse-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "PostgreSQL", "TikToken", "Node.js"]
+title: DIYA73/contextpulse-mcp
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- PostgreSQL
+- TikToken
+- Node.js
 quality_score: 9
 rag_relevance: 8
-tags: ["context tracking", "token budget", "MCP server", "loop detection", "AI agent monitoring"]
-source: "https://github.com/DIYA73/contextpulse-mcp"
-discovered_at: "2026-06-25T17:12:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- context tracking
+- token budget
+- MCP server
+- loop detection
+- AI agent monitoring
+source: https://github.com/DIYA73/contextpulse-mcp
+discovered_at: '2026-06-25T17:12:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

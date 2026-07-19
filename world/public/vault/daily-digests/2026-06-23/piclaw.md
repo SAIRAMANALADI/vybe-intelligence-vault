@@ -1,13 +1,26 @@
 ---
-title: "rcarmo/piclaw"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Docker", "SQLite", "Pi Coding Agent", "Earendil Runtime", "WebSockets", "Electron (optional desktop shell)", "Bun (package manager)"]
+title: rcarmo/piclaw
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Docker
+- SQLite
+- Pi Coding Agent
+- Earendil Runtime
+- WebSockets
+- Electron (optional desktop shell)
+- Bun (package manager)
 quality_score: 9
 rag_relevance: 8
-tags: ["self-hosted", "AI workspace", "agent framework", "multi-provider LLM", "persistent state"]
-source: "https://github.com/rcarmo/piclaw"
-discovered_at: "2026-06-23T23:07:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-hosted
+- AI workspace
+- agent framework
+- multi-provider LLM
+- persistent state
+source: https://github.com/rcarmo/piclaw
+discovered_at: '2026-06-23T23:07:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

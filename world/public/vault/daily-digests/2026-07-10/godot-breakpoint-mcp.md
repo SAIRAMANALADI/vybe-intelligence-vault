@@ -1,13 +1,26 @@
 ---
-title: "jlivingston-Cipher/godot-breakpoint-mcp"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Godot Engine (4.2+)", "GDScript", "Node.js (18/20/22)", "Godot Language Server (LSP)", "Godot Debug Adapter (DAP)", "EditorUndoRedoManager"]
+title: jlivingston-Cipher/godot-breakpoint-mcp
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Godot Engine (4.2+)
+- GDScript
+- Node.js (18/20/22)
+- Godot Language Server (LSP)
+- Godot Debug Adapter (DAP)
+- EditorUndoRedoManager
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Godot integration", "AI-assisted game development", "live debugging", "GDScript development"]
-source: "https://github.com/jlivingston-Cipher/godot-breakpoint-mcp"
-discovered_at: "2026-07-10T06:16:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Godot integration
+- AI-assisted game development
+- live debugging
+- GDScript development
+source: https://github.com/jlivingston-Cipher/godot-breakpoint-mcp
+discovered_at: '2026-07-10T06:16:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

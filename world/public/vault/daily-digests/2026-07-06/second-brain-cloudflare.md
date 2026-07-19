@@ -1,13 +1,23 @@
 ---
-title: "Advanced-starfruit874/second-brain-cloudflare"
-category: "Orchestrator"
-tech_stack: ["Cloudflare Workers", "Cloudflare D1 Database", "Model Context Protocol (MCP)", "Windows Installer", "Python (inferred from installer)"]
+title: Advanced-starfruit874/second-brain-cloudflare
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Cloudflare Workers
+- Cloudflare D1 Database
+- Model Context Protocol (MCP)
+- Windows Installer
+- Python (inferred from installer)
 quality_score: 6
 rag_relevance: 8
-tags: ["MCP server", "Cloudflare integration", "knowledge storage", "AI memory layer", "private data"]
-source: "https://github.com/Advanced-starfruit874/second-brain-cloudflare"
-discovered_at: "2026-07-06T19:48:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Cloudflare integration
+- knowledge storage
+- AI memory layer
+- private data
+source: https://github.com/Advanced-starfruit874/second-brain-cloudflare
+discovered_at: '2026-07-06T19:48:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

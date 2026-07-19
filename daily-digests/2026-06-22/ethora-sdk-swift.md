@@ -1,13 +1,23 @@
 ---
-title: "titit-star/ethora-sdk-swift"
-category: "UI Component"
-tech_stack: ["Swift", "XMPP", "WebSockets", "REST API", "Xcode"]
+title: titit-star/ethora-sdk-swift
+category: daily-digests/2026-06-22
+tech_stack:
+- Swift
+- XMPP
+- WebSockets
+- REST API
+- Xcode
 quality_score: 6
 rag_relevance: 4
-tags: ["iOS SDK", "Chat Integration", "AI Bots", "Real-time Messaging", "Modular UI"]
-source: "https://github.com/titit-star/ethora-sdk-swift"
-discovered_at: "2026-06-22T23:18:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- iOS SDK
+- Chat Integration
+- AI Bots
+- Real-time Messaging
+- Modular UI
+source: https://github.com/titit-star/ethora-sdk-swift
+discovered_at: '2026-06-22T23:18:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

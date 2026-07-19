@@ -1,13 +1,23 @@
 ---
-title: "smilemin07/korean-rnd-regs-mcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "FastAPI", "National Law Information Center OpenAPI", "Claude AI integration"]
+title: smilemin07/korean-rnd-regs-mcp
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- FastAPI
+- National Law Information Center OpenAPI
+- Claude AI integration
 quality_score: 9
 rag_relevance: 8
-tags: ["Korean R&D regulations", "regulatory compliance", "MCP server", "legal document retrieval", "AI-assisted regulation review"]
-source: "https://github.com/smilemin07/korean-rnd-regs-mcp"
-discovered_at: "2026-07-07T16:26:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Korean R&D regulations
+- regulatory compliance
+- MCP server
+- legal document retrieval
+- AI-assisted regulation review
+source: https://github.com/smilemin07/korean-rnd-regs-mcp
+discovered_at: '2026-07-07T16:26:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

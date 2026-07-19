@@ -1,13 +1,24 @@
 ---
-title: "paulocorcino/ralphy"
-category: "Orchestrator"
-tech_stack: ["Rust", "GitHub CLI", "Claude Code", "Codex", "OpenCode", "Shell scripting"]
+title: paulocorcino/ralphy
+category: daily-digests/2026-06-25
+tech_stack:
+- Rust
+- GitHub CLI
+- Claude Code
+- Codex
+- OpenCode
+- Shell scripting
 quality_score: 9
 rag_relevance: 7
-tags: ["autonomous coding", "issue management", "AI agent orchestration", "GitHub automation", "nightly runs"]
-source: "https://github.com/paulocorcino/ralphy"
-discovered_at: "2026-06-25T08:28:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous coding
+- issue management
+- AI agent orchestration
+- GitHub automation
+- nightly runs
+source: https://github.com/paulocorcino/ralphy
+discovered_at: '2026-06-25T08:28:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

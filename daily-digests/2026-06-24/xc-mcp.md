@@ -1,13 +1,23 @@
 ---
-title: "ericvoltolin/xc-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Xcode CLI", "Model Context Protocol (MCP)", "CLI Tools"]
+title: ericvoltolin/xc-mcp
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- Xcode CLI
+- Model Context Protocol (MCP)
+- CLI Tools
 quality_score: 8
 rag_relevance: 9
-tags: ["Xcode", "CLI wrapper", "token optimization", "MCP server", "summarization"]
-source: "https://github.com/ericvoltolin/xc-mcp"
-discovered_at: "2026-06-24T02:49:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Xcode
+- CLI wrapper
+- token optimization
+- MCP server
+- summarization
+source: https://github.com/ericvoltolin/xc-mcp
+discovered_at: '2026-06-24T02:49:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

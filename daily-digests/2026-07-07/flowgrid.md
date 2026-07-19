@@ -1,13 +1,23 @@
 ---
-title: "dlxeva/FlowGrid"
-category: "Orchestrator"
-tech_stack: ["Python", "CLI", "Markdown", "JSON", "File-based state management"]
+title: dlxeva/FlowGrid
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- CLI
+- Markdown
+- JSON
+- File-based state management
 quality_score: 8
 rag_relevance: 7
-tags: ["project state management", "decision tracking", "local-first", "rationale preservation", "multi-agent continuity"]
-source: "https://github.com/dlxeva/FlowGrid"
-discovered_at: "2026-07-07T13:16:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- project state management
+- decision tracking
+- local-first
+- rationale preservation
+- multi-agent continuity
+source: https://github.com/dlxeva/FlowGrid
+discovered_at: '2026-07-07T13:16:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

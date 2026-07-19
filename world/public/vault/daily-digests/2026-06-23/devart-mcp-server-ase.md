@@ -1,13 +1,23 @@
 ---
-title: "devart-ai-connectivity/devart-mcp-server-ase"
-category: "Tooling"
-tech_stack: ["C#", ".NET 8", "ODBC", "SAP ASE", "MCP (Model Context Protocol)"]
+title: devart-ai-connectivity/devart-mcp-server-ase
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- C#
+- .NET 8
+- ODBC
+- SAP ASE
+- MCP (Model Context Protocol)
 quality_score: 8
 rag_relevance: 9
-tags: ["SAP ASE", "natural language queries", "MCP server", "enterprise data access", "ODBC integration"]
-source: "https://github.com/devart-ai-connectivity/devart-mcp-server-ase"
-discovered_at: "2026-06-23T10:38:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- SAP ASE
+- natural language queries
+- MCP server
+- enterprise data access
+- ODBC integration
+source: https://github.com/devart-ai-connectivity/devart-mcp-server-ase
+discovered_at: '2026-06-23T10:38:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

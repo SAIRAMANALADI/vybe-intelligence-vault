@@ -1,13 +1,24 @@
 ---
-title: "krutsko/istio-mcp-server"
-category: "Tooling"
-tech_stack: ["Go", "Kubernetes", "Istio", "Model Context Protocol (MCP)", "Envoy Proxy", "TypeScript (for npm distribution)"]
+title: krutsko/istio-mcp-server
+category: daily-digests/2026-07-16
+tech_stack:
+- Go
+- Kubernetes
+- Istio
+- Model Context Protocol (MCP)
+- Envoy Proxy
+- TypeScript (for npm distribution)
 quality_score: 9
 rag_relevance: 8
-tags: ["Istio", "MCP Server", "Service Mesh", "Kubernetes", "Read-Only Access"]
-source: "https://github.com/krutsko/istio-mcp-server"
-discovered_at: "2026-07-12T10:26:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Istio
+- MCP Server
+- Service Mesh
+- Kubernetes
+- Read-Only Access
+source: https://github.com/krutsko/istio-mcp-server
+discovered_at: '2026-07-12T10:26:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

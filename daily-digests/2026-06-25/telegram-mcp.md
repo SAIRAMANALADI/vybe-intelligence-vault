@@ -1,13 +1,22 @@
 ---
-title: "saadkhan1150/telegram-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Telegram Bot API", "AI/ML (for automation)", "CLI/Terminal"]
+title: saadkhan1150/telegram-mcp
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- Telegram Bot API
+- AI/ML (for automation)
+- CLI/Terminal
 quality_score: 5
 rag_relevance: 4
-tags: ["Telegram automation", "multi-account management", "AI-driven messaging", "bulk operations", "API wrapper"]
-source: "https://github.com/saadkhan1150/telegram-mcp"
-discovered_at: "2026-06-25T07:31:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Telegram automation
+- multi-account management
+- AI-driven messaging
+- bulk operations
+- API wrapper
+source: https://github.com/saadkhan1150/telegram-mcp
+discovered_at: '2026-06-25T07:31:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

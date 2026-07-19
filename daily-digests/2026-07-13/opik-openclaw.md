@@ -1,13 +1,23 @@
 ---
-title: "brucekumar/opik-openclaw"
-category: "Tooling"
-tech_stack: ["TypeScript", "Windows", "OpenClaw", "CSV", "JSON"]
+title: brucekumar/opik-openclaw
+category: daily-digests/2026-07-13
+tech_stack:
+- TypeScript
+- Windows
+- OpenClaw
+- CSV
+- JSON
 quality_score: 7
 rag_relevance: 6
-tags: ["agent monitoring", "OpenClaw integration", "data export", "observability", "cost tracking"]
-source: "https://github.com/brucekumar/opik-openclaw"
-discovered_at: "2026-07-12T15:58:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent monitoring
+- OpenClaw integration
+- data export
+- observability
+- cost tracking
+source: https://github.com/brucekumar/opik-openclaw
+discovered_at: '2026-07-12T15:58:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

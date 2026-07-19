@@ -1,13 +1,24 @@
 ---
-title: "edycutjong/worker"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Anthropic Claude (Haiku)", "CROO Constellation A2A", "Vitest", "Docker"]
+title: edycutjong/worker
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- Anthropic Claude (Haiku)
+- CROO Constellation A2A
+- Vitest
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["on-chain research", "multi-agent orchestration", "deterministic fallback", "A2A protocol", "sourced draft generation"]
-source: "https://github.com/edycutjong/worker"
-discovered_at: "2026-07-08T08:16:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- on-chain research
+- multi-agent orchestration
+- deterministic fallback
+- A2A protocol
+- sourced draft generation
+source: https://github.com/edycutjong/worker
+discovered_at: '2026-07-08T08:16:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,30 @@
 ---
-title: "Astro-Han/pawwork"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Electron", "Bun", "Python", "OpenAI API", "Claude API", "Gemini API", "DeepSeek API", "Ollama", "LM Studio", "OpenCLI", "Apache License 2.0"]
+title: Astro-Han/pawwork
+category: daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Electron
+- Bun
+- Python
+- OpenAI API
+- Claude API
+- Gemini API
+- DeepSeek API
+- Ollama
+- LM Studio
+- OpenCLI
+- Apache License 2.0
 quality_score: 9
 rag_relevance: 7
-tags: ["desktop agent", "multi-model support", "document automation", "local file access", "open-source"]
-source: "https://github.com/Astro-Han/pawwork"
-discovered_at: "2026-07-09T17:17:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- desktop agent
+- multi-model support
+- document automation
+- local file access
+- open-source
+source: https://github.com/Astro-Han/pawwork
+discovered_at: '2026-07-09T17:17:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

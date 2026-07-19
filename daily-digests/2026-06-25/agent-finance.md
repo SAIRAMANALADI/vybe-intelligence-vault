@@ -1,13 +1,30 @@
 ---
-title: "M4n5ter/agent-finance"
-category: "Tooling"
-tech_stack: ["Rust", "CLI", "npm", "Binance API", "Coinbase API", "OKX API", "CoinGecko API", "Polymarket API", "Yahoo Finance", "SEC EDGAR", "Robinhood API", "TUI (Terminal User Interface)"]
+title: M4n5ter/agent-finance
+category: daily-digests/2026-06-25
+tech_stack:
+- Rust
+- CLI
+- npm
+- Binance API
+- Coinbase API
+- OKX API
+- CoinGecko API
+- Polymarket API
+- Yahoo Finance
+- SEC EDGAR
+- Robinhood API
+- TUI (Terminal User Interface)
 quality_score: 9
 rag_relevance: 8
-tags: ["financial data", "AI agent toolkit", "market intelligence", "CLI", "audit trails"]
-source: "https://github.com/M4n5ter/agent-finance"
-discovered_at: "2026-06-25T11:39:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- financial data
+- AI agent toolkit
+- market intelligence
+- CLI
+- audit trails
+source: https://github.com/M4n5ter/agent-finance
+discovered_at: '2026-06-25T11:39:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

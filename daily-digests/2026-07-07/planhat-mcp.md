@@ -1,13 +1,24 @@
 ---
-title: "da-troll/planhat-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Planhat API", "uv", "pytest", "ruff"]
+title: da-troll/planhat-mcp
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Planhat API
+- uv
+- pytest
+- ruff
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Planhat CRM", "local AI integration", "customer data access", "API token authentication"]
-source: "https://github.com/da-troll/planhat-mcp"
-discovered_at: "2026-07-07T13:17:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Planhat CRM
+- local AI integration
+- customer data access
+- API token authentication
+source: https://github.com/da-troll/planhat-mcp
+discovered_at: '2026-07-07T13:17:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "Joshua-Millward/Maverick"
-category: "Tooling"
-tech_stack: ["Crystal", "C", "Shellcode", "C2 Framework"]
+title: Joshua-Millward/Maverick
+category: world/public/vault/daily-digests/2026-07-02
+tech_stack:
+- Crystal
+- C
+- Shellcode
+- C2 Framework
 quality_score: 4
 rag_relevance: 5
-tags: ["C2 Framework", "Offensive Security", "Shellcode", "Modular Agents", "Position-Independent"]
-source: "https://github.com/Joshua-Millward/Maverick"
-discovered_at: "2026-07-02T21:05:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- C2 Framework
+- Offensive Security
+- Shellcode
+- Modular Agents
+- Position-Independent
+source: https://github.com/Joshua-Millward/Maverick
+discovered_at: '2026-07-02T21:05:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

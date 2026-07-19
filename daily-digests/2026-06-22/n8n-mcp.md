@@ -1,13 +1,25 @@
 ---
-title: "czlonkowski/n8n-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Docker", "n8n", "Model Context Protocol (MCP)", "REST APIs", "GitHub Actions"]
+title: czlonkowski/n8n-mcp
+category: daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Node.js
+- Docker
+- n8n
+- Model Context Protocol (MCP)
+- REST APIs
+- GitHub Actions
 quality_score: 9
 rag_relevance: 9
-tags: ["workflow automation", "AI integration", "n8n", "MCP server", "template discovery"]
-source: "https://github.com/czlonkowski/n8n-mcp"
-discovered_at: "2026-06-22T18:15:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- workflow automation
+- AI integration
+- n8n
+- MCP server
+- template discovery
+source: https://github.com/czlonkowski/n8n-mcp
+discovered_at: '2026-06-22T18:15:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

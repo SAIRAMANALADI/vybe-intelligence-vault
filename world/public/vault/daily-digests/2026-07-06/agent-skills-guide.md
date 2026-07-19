@@ -1,13 +1,22 @@
 ---
-title: "kaydenplayZ/agent-skills-guide"
-category: "Tooling"
-tech_stack: ["Python", "Agent Frameworks", "Templates", "Documentation Tools"]
+title: kaydenplayZ/agent-skills-guide
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Python
+- Agent Frameworks
+- Templates
+- Documentation Tools
 quality_score: 4
 rag_relevance: 6
-tags: ["agent development", "skill templates", "beginner-friendly", "custom agents", "tutorials"]
-source: "https://github.com/kaydenplayZ/agent-skills-guide"
-discovered_at: "2026-07-06T21:25:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent development
+- skill templates
+- beginner-friendly
+- custom agents
+- tutorials
+source: https://github.com/kaydenplayZ/agent-skills-guide
+discovered_at: '2026-07-06T21:25:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

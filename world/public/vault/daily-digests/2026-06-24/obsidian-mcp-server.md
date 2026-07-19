@@ -1,13 +1,22 @@
 ---
-title: "Amri854/obsidian-mcp-server"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Obsidian API", "Node.js"]
+title: Amri854/obsidian-mcp-server
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Obsidian API
+- Node.js
 quality_score: 6
 rag_relevance: 7
-tags: ["Obsidian", "MCP Server", "Knowledge Graph", "AI Integration", "Vault Management"]
-source: "https://github.com/Amri854/obsidian-mcp-server"
-discovered_at: "2026-06-24T13:25:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Obsidian
+- MCP Server
+- Knowledge Graph
+- AI Integration
+- Vault Management
+source: https://github.com/Amri854/obsidian-mcp-server
+discovered_at: '2026-06-24T13:25:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "quocvinh2812/ai-integration-assistant"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Docker", "AI Service APIs (e.g., OpenAI, Anthropic, Mistral)"]
+title: quocvinh2812/ai-integration-assistant
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- FastAPI
+- Docker
+- AI Service APIs (e.g., OpenAI, Anthropic, Mistral)
 quality_score: 4
 rag_relevance: 7
-tags: ["AI integration", "multi-service API", "automation", "customizable", "unified outputs"]
-source: "https://github.com/quocvinh2812/ai-integration-assistant"
-discovered_at: "2026-07-09T23:07:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI integration
+- multi-service API
+- automation
+- customizable
+- unified outputs
+source: https://github.com/quocvinh2812/ai-integration-assistant
+discovered_at: '2026-07-09T23:07:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

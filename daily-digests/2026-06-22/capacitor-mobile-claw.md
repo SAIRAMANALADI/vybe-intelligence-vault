@@ -1,13 +1,24 @@
 ---
-title: "sernnee/capacitor-mobile-claw"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Capacitor", "Claude LLM", "Git", "Mobile Development"]
+title: sernnee/capacitor-mobile-claw
+category: daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Node.js
+- Capacitor
+- Claude LLM
+- Git
+- Mobile Development
 quality_score: 7
 rag_relevance: 6
-tags: ["on-device AI", "mobile agent", "offline LLM", "Capacitor", "local automation"]
-source: "https://github.com/sernnee/capacitor-mobile-claw"
-discovered_at: "2026-06-22T18:49:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- on-device AI
+- mobile agent
+- offline LLM
+- Capacitor
+- local automation
+source: https://github.com/sernnee/capacitor-mobile-claw
+discovered_at: '2026-06-22T18:49:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

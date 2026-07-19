@@ -1,13 +1,25 @@
 ---
-title: "ahmedtawfeeq1/loredex"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Markdown", "Obsidian", "Model Context Protocol (MCP)", "Git", "LLM (Claude Code, Cursor, Codex)"]
+title: ahmedtawfeeq1/loredex
+category: daily-digests/2026-07-12
+tech_stack:
+- TypeScript
+- Node.js
+- Markdown
+- Obsidian
+- Model Context Protocol (MCP)
+- Git
+- LLM (Claude Code, Cursor, Codex)
 quality_score: 9
 rag_relevance: 9
-tags: ["multi-agent collaboration", "knowledge management", "cross-repo context", "MCP integration", "Obsidian plugin"]
-source: "https://github.com/ahmedtawfeeq1/loredex"
-discovered_at: "2026-07-12T10:26:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent collaboration
+- knowledge management
+- cross-repo context
+- MCP integration
+- Obsidian plugin
+source: https://github.com/ahmedtawfeeq1/loredex
+discovered_at: '2026-07-12T10:26:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

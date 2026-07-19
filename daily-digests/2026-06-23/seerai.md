@@ -1,13 +1,28 @@
 ---
-title: "dralkh/seerai"
-category: "Tooling"
-tech_stack: ["TypeScript", "Zotero Plugin API", "React", "Node.js", "Vector Databases", "OCR (Mistral, DataLab.to, Local Marker)", "LLM APIs (OpenAI, Anthropic, Google, Mistral, etc.)", "Git Integration", "Cloud Storage (Google Drive, Dropbox, etc.)", "Web Search (Firecrawl, Tavily, You.com)"]
+title: dralkh/seerai
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Zotero Plugin API
+- React
+- Node.js
+- Vector Databases
+- OCR (Mistral, DataLab.to, Local Marker)
+- LLM APIs (OpenAI, Anthropic, Google, Mistral, etc.)
+- Git Integration
+- Cloud Storage (Google Drive, Dropbox, etc.)
+- Web Search (Firecrawl, Tavily, You.com)
 quality_score: 9
 rag_relevance: 9
-tags: ["Research Assistant", "Zotero Plugin", "RAG", "Agentic Workflows", "Semantic Search"]
-source: "https://github.com/dralkh/seerai"
-discovered_at: "2026-06-23T21:31:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Research Assistant
+- Zotero Plugin
+- RAG
+- Agentic Workflows
+- Semantic Search
+source: https://github.com/dralkh/seerai
+discovered_at: '2026-06-23T21:31:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

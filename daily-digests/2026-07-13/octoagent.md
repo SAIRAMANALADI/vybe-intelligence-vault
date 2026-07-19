@@ -1,13 +1,29 @@
 ---
-title: "sievepub-2000/octoagent"
-category: "Agent Framework"
-tech_stack: ["Python", "Node.js", "FastAPI", "LangGraph", "Next.js", "PostgreSQL", "Redis", "Docker", "Playwright", "FAISS", "OpenRouter API"]
+title: sievepub-2000/octoagent
+category: daily-digests/2026-07-13
+tech_stack:
+- Python
+- Node.js
+- FastAPI
+- LangGraph
+- Next.js
+- PostgreSQL
+- Redis
+- Docker
+- Playwright
+- FAISS
+- OpenRouter API
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent", "white-box AI", "task automation", "auditable workflows", "local deployment"]
-source: "https://github.com/sievepub-2000/octoagent"
-discovered_at: "2026-07-13T16:31:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent
+- white-box AI
+- task automation
+- auditable workflows
+- local deployment
+source: https://github.com/sievepub-2000/octoagent
+discovered_at: '2026-07-13T16:31:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

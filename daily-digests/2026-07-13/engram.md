@@ -1,13 +1,26 @@
 ---
-title: "the-long-ride/engram"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "Markdown", "Git", "Mermaid.js", "npm", "CLI"]
+title: the-long-ride/engram
+category: daily-digests/2026-07-13
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- Markdown
+- Git
+- Mermaid.js
+- npm
+- CLI
 quality_score: 9
 rag_relevance: 9
-tags: ["memory management", "AI agent protocol", "Git-native", "human-in-the-loop", "portable knowledge"]
-source: "https://github.com/the-long-ride/engram"
-discovered_at: "2026-07-11T17:54:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory management
+- AI agent protocol
+- Git-native
+- human-in-the-loop
+- portable knowledge
+source: https://github.com/the-long-ride/engram
+discovered_at: '2026-07-11T17:54:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

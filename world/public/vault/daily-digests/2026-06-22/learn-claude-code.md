@@ -1,13 +1,22 @@
 ---
-title: "jafini/learn-claude-code"
-category: "Agent Framework"
-tech_stack: ["Python", "Bash", "TypeScript", "Windows CLI"]
+title: jafini/learn-claude-code
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- Bash
+- TypeScript
+- Windows CLI
 quality_score: 7
 rag_relevance: 6
-tags: ["AI agent learning", "Claude Code alternative", "Bash scripting", "Windows application", "educational tool"]
-source: "https://github.com/jafini/learn-claude-code"
-discovered_at: "2026-06-22T18:48:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent learning
+- Claude Code alternative
+- Bash scripting
+- Windows application
+- educational tool
+source: https://github.com/jafini/learn-claude-code
+discovered_at: '2026-06-22T18:48:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

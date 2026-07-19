@@ -1,13 +1,31 @@
 ---
-title: "mateaix/mateclaw"
-category: "Agent Framework"
-tech_stack: ["Java", "Spring Boot", "Vue.js", "Electron", "MySQL", "PostgreSQL", "KingbaseES", "MCP (Model Context Protocol)", "ReAct", "Plan-and-Execute", "JWT", "Flyway", "Docker"]
+title: mateaix/mateclaw
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Java
+- Spring Boot
+- Vue.js
+- Electron
+- MySQL
+- PostgreSQL
+- KingbaseES
+- MCP (Model Context Protocol)
+- ReAct
+- Plan-and-Execute
+- JWT
+- Flyway
+- Docker
 quality_score: 9
 rag_relevance: 7
-tags: ["multi-agent orchestration", "enterprise AI", "knowledge digestion", "multi-vendor failover", "RBAC security"]
-source: "https://github.com/mateaix/mateclaw"
-discovered_at: "2026-06-23T10:37:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent orchestration
+- enterprise AI
+- knowledge digestion
+- multi-vendor failover
+- RBAC security
+source: https://github.com/mateaix/mateclaw
+discovered_at: '2026-06-23T10:37:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

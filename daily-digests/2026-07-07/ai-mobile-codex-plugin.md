@@ -1,13 +1,26 @@
 ---
-title: "comprono/Ai-Mobile-Codex-plugin"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Chromium DevTools Protocol", "PowerShell", "Antigravity", "Claude Code CLI", "gRPC-web"]
+title: comprono/Ai-Mobile-Codex-plugin
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Chromium DevTools Protocol
+- PowerShell
+- Antigravity
+- Claude Code CLI
+- gRPC-web
 quality_score: 8
 rag_relevance: 9
-tags: ["Codex plugin", "Antigravity bridge", "Claude Code integration", "MCP server", "Windows desktop AI"]
-source: "https://github.com/comprono/Ai-Mobile-Codex-plugin"
-discovered_at: "2026-07-07T19:00:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Codex plugin
+- Antigravity bridge
+- Claude Code integration
+- MCP server
+- Windows desktop AI
+source: https://github.com/comprono/Ai-Mobile-Codex-plugin
+discovered_at: '2026-07-07T19:00:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

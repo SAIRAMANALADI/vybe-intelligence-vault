@@ -1,13 +1,23 @@
 ---
-title: "princeca4746/DirectorSkill"
-category: "Tooling"
-tech_stack: ["Windows", "C#/.NET", "SQLite (assumed for data storage)", "WinForms (assumed for UI)", "Installer (Inno Setup or similar)"]
+title: princeca4746/DirectorSkill
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Windows
+- C#/.NET
+- SQLite (assumed for data storage)
+- WinForms (assumed for UI)
+- Installer (Inno Setup or similar)
 quality_score: 5
 rag_relevance: 2
-tags: ["film production", "project management", "desktop application", "director tools", "offline workflow"]
-source: "https://github.com/princeca4746/DirectorSkill"
-discovered_at: "2026-07-06T19:49:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- film production
+- project management
+- desktop application
+- director tools
+- offline workflow
+source: https://github.com/princeca4746/DirectorSkill
+discovered_at: '2026-07-06T19:49:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

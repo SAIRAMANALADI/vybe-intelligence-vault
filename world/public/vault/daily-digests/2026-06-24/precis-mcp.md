@@ -1,13 +1,31 @@
 ---
-title: "retospect/precis-mcp"
-category: "Orchestrator"
-tech_stack: ["Python", "PostgreSQL", "pgvector", "FastAPI", "Jinja2", "HTMX", "psycopg3", "Model Context Protocol (MCP)", "sentence-transformers", "sympy", "Wolfram Alpha", "Perplexity API", "EPO OPS API"]
+title: retospect/precis-mcp
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- PostgreSQL
+- pgvector
+- FastAPI
+- Jinja2
+- HTMX
+- psycopg3
+- Model Context Protocol (MCP)
+- sentence-transformers
+- sympy
+- Wolfram Alpha
+- Perplexity API
+- EPO OPS API
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP server", "hybrid search", "content management", "agent tooling", "PostgreSQL"]
-source: "https://github.com/retospect/precis-mcp"
-discovered_at: "2026-06-24T20:53:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- hybrid search
+- content management
+- agent tooling
+- PostgreSQL
+source: https://github.com/retospect/precis-mcp
+discovered_at: '2026-06-24T20:53:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

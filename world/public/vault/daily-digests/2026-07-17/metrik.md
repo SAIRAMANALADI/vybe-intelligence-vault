@@ -1,13 +1,25 @@
 ---
-title: "keros68/metrik"
-category: "Tooling"
-tech_stack: ["Rust", "Tauri", "TypeScript", "SQLite", "Node.js", "React", "CSS"]
+title: keros68/metrik
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- Rust
+- Tauri
+- TypeScript
+- SQLite
+- Node.js
+- React
+- CSS
 quality_score: 9
 rag_relevance: 7
-tags: ["AI usage tracking", "local-first", "token cost estimation", "desktop widget", "multi-agent support"]
-source: "https://github.com/keros68/metrik"
-discovered_at: "2026-07-14T10:07:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI usage tracking
+- local-first
+- token cost estimation
+- desktop widget
+- multi-agent support
+source: https://github.com/keros68/metrik
+discovered_at: '2026-07-14T10:07:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

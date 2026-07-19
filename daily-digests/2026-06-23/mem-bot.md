@@ -1,13 +1,25 @@
 ---
-title: "Bazilio-san/mem-bot"
-category: "Agent Framework"
-tech_stack: ["Node.js", "PostgreSQL", "pgvector", "JavaScript", "Model Context Protocol (MCP)", "Telegram Bot API", "Vue.js"]
+title: Bazilio-san/mem-bot
+category: daily-digests/2026-06-23
+tech_stack:
+- Node.js
+- PostgreSQL
+- pgvector
+- JavaScript
+- Model Context Protocol (MCP)
+- Telegram Bot API
+- Vue.js
 quality_score: 8
 rag_relevance: 7
-tags: ["Agentic Chatbot", "Long-term Memory", "Telegram Integration", "MCP Tools", "Voice Support"]
-source: "https://github.com/Bazilio-san/mem-bot"
-discovered_at: "2026-06-23T23:04:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agentic Chatbot
+- Long-term Memory
+- Telegram Integration
+- MCP Tools
+- Voice Support
+source: https://github.com/Bazilio-san/mem-bot
+discovered_at: '2026-06-23T23:04:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

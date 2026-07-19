@@ -1,13 +1,21 @@
 ---
-title: "Yandatini/mcp-agent-framework"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Agent Orchestration"]
+title: Yandatini/mcp-agent-framework
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Agent Orchestration
 quality_score: 6
 rag_relevance: 7
-tags: ["AI agent orchestration", "MCP framework", "multi-agent systems", "AI integration", "user-friendly"]
-source: "https://github.com/Yandatini/mcp-agent-framework"
-discovered_at: "2026-07-09T00:06:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent orchestration
+- MCP framework
+- multi-agent systems
+- AI integration
+- user-friendly
+source: https://github.com/Yandatini/mcp-agent-framework
+discovered_at: '2026-07-09T00:06:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

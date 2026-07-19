@@ -1,13 +1,21 @@
 ---
-title: "Hyanthropological659/clarify-skill"
-category: "Tooling"
-tech_stack: ["Claude Code", "Python", "Philosophical Frameworks (Wittgenstein, Socratic, Polanyi)"]
+title: Hyanthropological659/clarify-skill
+category: world/public/vault/daily-digests/2026-07-03
+tech_stack:
+- Claude Code
+- Python
+- Philosophical Frameworks (Wittgenstein, Socratic, Polanyi)
 quality_score: 4
 rag_relevance: 7
-tags: ["clarification", "instruction refinement", "philosophical frameworks", "AI reasoning", "Claude Code skill"]
-source: "https://github.com/Hyanthropological659/clarify-skill"
-discovered_at: "2026-07-03T21:02:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- clarification
+- instruction refinement
+- philosophical frameworks
+- AI reasoning
+- Claude Code skill
+source: https://github.com/Hyanthropological659/clarify-skill
+discovered_at: '2026-07-03T21:02:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

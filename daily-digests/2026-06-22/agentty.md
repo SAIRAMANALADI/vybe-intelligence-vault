@@ -1,13 +1,25 @@
 ---
-title: "1ay1/agentty"
-category: "Agent Framework"
-tech_stack: ["C++26", "Bubblewrap (bwrap)", "Sandbox-exec (macOS)", "SOCKS5-over-SSH", "CMake", "GitHub Actions (for releases)", "JSON (for thread storage)"]
+title: 1ay1/agentty
+category: daily-digests/2026-06-22
+tech_stack:
+- C++26
+- Bubblewrap (bwrap)
+- Sandbox-exec (macOS)
+- SOCKS5-over-SSH
+- CMake
+- GitHub Actions (for releases)
+- JSON (for thread storage)
 quality_score: 9
 rag_relevance: 8
-tags: ["terminal AI", "sandboxed execution", "C++26", "SSH airgap", "Agent Skills"]
-source: "https://github.com/1ay1/agentty"
-discovered_at: "2026-06-22T23:21:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- terminal AI
+- sandboxed execution
+- C++26
+- SSH airgap
+- Agent Skills
+source: https://github.com/1ay1/agentty
+discovered_at: '2026-06-22T23:21:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

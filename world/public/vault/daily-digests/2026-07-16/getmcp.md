@@ -1,13 +1,27 @@
 ---
-title: "RodrigoTomeES/getmcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Zod", "Next.js", "CLI", "YAML", "TOML", "JSON", "JavaScript"]
+title: RodrigoTomeES/getmcp
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- TypeScript
+- Node.js
+- Zod
+- Next.js
+- CLI
+- YAML
+- TOML
+- JSON
+- JavaScript
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP", "Model Context Protocol", "AI configuration", "multi-app support", "server registry"]
-source: "https://github.com/RodrigoTomeES/getmcp"
-discovered_at: "2026-07-11T07:52:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- Model Context Protocol
+- AI configuration
+- multi-app support
+- server registry
+source: https://github.com/RodrigoTomeES/getmcp
+discovered_at: '2026-07-11T07:52:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

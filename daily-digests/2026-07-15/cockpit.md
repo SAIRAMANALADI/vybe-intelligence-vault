@@ -1,13 +1,29 @@
 ---
-title: "Surething-io/cockpit"
-category: "UI Component"
-tech_stack: ["TypeScript", "React", "Claude Agent SDK", "Node.js", "xterm.js", "PostgreSQL", "MySQL", "Redis", "Shiki (syntax highlighting)", "Tree-sitter (CodeGraph)", "Electron (via Tauri-like architecture)"]
+title: Surething-io/cockpit
+category: daily-digests/2026-07-15
+tech_stack:
+- TypeScript
+- React
+- Claude Agent SDK
+- Node.js
+- xterm.js
+- PostgreSQL
+- MySQL
+- Redis
+- Shiki (syntax highlighting)
+- Tree-sitter (CodeGraph)
+- Electron (via Tauri-like architecture)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI IDE", "Multi-agent GUI", "Code review", "Smart bubbles", "Local-first"]
-source: "https://github.com/Surething-io/cockpit"
-discovered_at: "2026-07-13T13:22:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI IDE
+- Multi-agent GUI
+- Code review
+- Smart bubbles
+- Local-first
+source: https://github.com/Surething-io/cockpit
+discovered_at: '2026-07-13T13:22:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

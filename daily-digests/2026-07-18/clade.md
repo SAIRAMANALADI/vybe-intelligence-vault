@@ -1,13 +1,29 @@
 ---
-title: "shenxingy/Clade"
-category: "Agent Framework"
-tech_stack: ["Python", "Bash", "Model Context Protocol (MCP)", "FastAPI", "Git", "TypeScript", "Rust", "Go", "Swift", "Kotlin", "LaTeX"]
+title: shenxingy/Clade
+category: daily-digests/2026-07-18
+tech_stack:
+- Python
+- Bash
+- Model Context Protocol (MCP)
+- FastAPI
+- Git
+- TypeScript
+- Rust
+- Go
+- Swift
+- Kotlin
+- LaTeX
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous coding", "multi-agent systems", "self-learning", "code quality automation", "AI workflows"]
-source: "https://github.com/shenxingy/Clade"
-discovered_at: "2026-07-15T16:21:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous coding
+- multi-agent systems
+- self-learning
+- code quality automation
+- AI workflows
+source: https://github.com/shenxingy/Clade
+discovered_at: '2026-07-15T16:21:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

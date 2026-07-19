@@ -1,13 +1,25 @@
 ---
-title: "entire-vc/evc-team-relay-mcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "REST API", "Docker", "Yjs CRDT", "Obsidian", "JSON-RPC"]
+title: entire-vc/evc-team-relay-mcp
+category: daily-digests/2026-07-15
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- REST API
+- Docker
+- Yjs CRDT
+- Obsidian
+- JSON-RPC
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Obsidian integration", "AI agent tools", "knowledge base sync", "Team Relay"]
-source: "https://github.com/entire-vc/evc-team-relay-mcp"
-discovered_at: "2026-07-10T13:11:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Obsidian integration
+- AI agent tools
+- knowledge base sync
+- Team Relay
+source: https://github.com/entire-vc/evc-team-relay-mcp
+discovered_at: '2026-07-10T13:11:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

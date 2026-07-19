@@ -1,13 +1,22 @@
 ---
-title: "justinqwerty/design-skills"
-category: "Tooling"
-tech_stack: ["HTML", "Windows App", "UX Design", "Accessibility Checks"]
+title: justinqwerty/design-skills
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- HTML
+- Windows App
+- UX Design
+- Accessibility Checks
 quality_score: 7
 rag_relevance: 6
-tags: ["UX guidance", "AI agent tools", "accessibility", "design critique", "Claude Code"]
-source: "https://github.com/justinqwerty/design-skills"
-discovered_at: "2026-07-07T23:55:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- UX guidance
+- AI agent tools
+- accessibility
+- design critique
+- Claude Code
+source: https://github.com/justinqwerty/design-skills
+discovered_at: '2026-07-07T23:55:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

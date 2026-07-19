@@ -1,13 +1,21 @@
 ---
-title: "nowphyy/cursor-ralph-wiggum"
-category: "Tooling"
-tech_stack: ["Shell", "Windows API", "Cursor Customization"]
+title: nowphyy/cursor-ralph-wiggum
+category: daily-digests/2026-07-06
+tech_stack:
+- Shell
+- Windows API
+- Cursor Customization
 quality_score: 4
 rag_relevance: 1
-tags: ["cursor customization", "desktop utility", "fun UI", "Windows tool", "Ralph Wiggum"]
-source: "https://github.com/nowphyy/cursor-ralph-wiggum"
-discovered_at: "2026-07-06T21:25:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- cursor customization
+- desktop utility
+- fun UI
+- Windows tool
+- Ralph Wiggum
+source: https://github.com/nowphyy/cursor-ralph-wiggum
+discovered_at: '2026-07-06T21:25:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

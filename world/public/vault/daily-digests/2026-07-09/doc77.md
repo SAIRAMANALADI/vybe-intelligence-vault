@@ -1,13 +1,29 @@
 ---
-title: "xyy277/doc77"
-category: "Tooling"
-tech_stack: ["Node.js", "TypeScript", "Express", "SQLite", "MCP Protocol", "Marked", "Mermaid", "Highlight.js", "Vitest", "tsup", "pnpm"]
+title: xyy277/doc77
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Node.js
+- TypeScript
+- Express
+- SQLite
+- MCP Protocol
+- Marked
+- Mermaid
+- Highlight.js
+- Vitest
+- tsup
+- pnpm
 quality_score: 9
 rag_relevance: 7
-tags: ["document management", "local preview", "MCP server", "AI-assisted", "cross-platform"]
-source: "https://github.com/xyy277/doc77"
-discovered_at: "2026-07-09T14:46:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- document management
+- local preview
+- MCP server
+- AI-assisted
+- cross-platform
+source: https://github.com/xyy277/doc77
+discovered_at: '2026-07-09T14:46:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

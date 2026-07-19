@@ -1,13 +1,26 @@
 ---
-title: "plumpslabs/kuma"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "ESLint", "TypeScript Language Server", "Prettier", "Ruff", "Git"]
+title: plumpslabs/kuma
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- ESLint
+- TypeScript Language Server
+- Prettier
+- Ruff
+- Git
 quality_score: 9
 rag_relevance: 8
-tags: ["AI safety", "MCP client", "code editing", "sandboxed execution", "rollback mechanism"]
-source: "https://github.com/plumpslabs/kuma"
-discovered_at: "2026-06-23T16:31:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI safety
+- MCP client
+- code editing
+- sandboxed execution
+- rollback mechanism
+source: https://github.com/plumpslabs/kuma
+discovered_at: '2026-06-23T16:31:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

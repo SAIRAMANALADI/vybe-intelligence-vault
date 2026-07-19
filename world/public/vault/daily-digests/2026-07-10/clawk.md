@@ -1,13 +1,23 @@
 ---
-title: "U90364321/clawk"
-category: "Tooling"
-tech_stack: ["Go", "Linux", "Windows Subsystem for Linux (WSL)", "Hardware Virtualization", "MicroVM"]
+title: U90364321/clawk
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Go
+- Linux
+- Windows Subsystem for Linux (WSL)
+- Hardware Virtualization
+- MicroVM
 quality_score: 7
 rag_relevance: 8
-tags: ["sandboxing", "AI agent security", "microVM", "isolated environments", "code execution safety"]
-source: "https://github.com/U90364321/clawk"
-discovered_at: "2026-07-10T06:31:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- sandboxing
+- AI agent security
+- microVM
+- isolated environments
+- code execution safety
+source: https://github.com/U90364321/clawk
+discovered_at: '2026-07-10T06:31:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

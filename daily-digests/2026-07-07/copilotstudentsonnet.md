@@ -1,13 +1,22 @@
 ---
-title: "rilind412/CopilotStudentSonnet"
-category: "Tooling"
-tech_stack: ["Windows", "Python", "GitHub", "Browser Automation"]
+title: rilind412/CopilotStudentSonnet
+category: daily-digests/2026-07-07
+tech_stack:
+- Windows
+- Python
+- GitHub
+- Browser Automation
 quality_score: 5
 rag_relevance: 3
-tags: ["Windows utility", "Copilot Student", "Claude Sonnet", "AI model switching", "student workflow"]
-source: "https://github.com/rilind412/CopilotStudentSonnet"
-discovered_at: "2026-07-07T23:55:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Windows utility
+- Copilot Student
+- Claude Sonnet
+- AI model switching
+- student workflow
+source: https://github.com/rilind412/CopilotStudentSonnet
+discovered_at: '2026-07-07T23:55:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

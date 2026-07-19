@@ -1,13 +1,26 @@
 ---
-title: "webkubor/xiaobai-kanban"
-category: "Agent Framework"
-tech_stack: ["Python", "CLI Tools", "Git", "GitLab CLI", "GitHub CLI", "Node.js", "Agent Frameworks", "Natural Language Processing"]
+title: webkubor/xiaobai-kanban
+category: daily-digests/2026-07-15
+tech_stack:
+- Python
+- CLI Tools
+- Git
+- GitLab CLI
+- GitHub CLI
+- Node.js
+- Agent Frameworks
+- Natural Language Processing
 quality_score: 8
 rag_relevance: 9
-tags: ["AI Agent", "Natural Language Programming", "Git Automation", "Developer Tooling", "Beginner-Friendly"]
-source: "https://github.com/webkubor/xiaobai-kanban"
-discovered_at: "2026-07-15T10:48:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent
+- Natural Language Programming
+- Git Automation
+- Developer Tooling
+- Beginner-Friendly
+source: https://github.com/webkubor/xiaobai-kanban
+discovered_at: '2026-07-15T10:48:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

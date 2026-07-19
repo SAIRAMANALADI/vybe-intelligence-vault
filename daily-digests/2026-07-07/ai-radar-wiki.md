@@ -1,13 +1,25 @@
 ---
-title: "ttmens/ai-radar-wiki"
-category: "Tooling"
-tech_stack: ["Knowledge Graph", "RSS", "JSON", "HTML", "Data Visualization", "Web Scraping", "Markdown"]
+title: ttmens/ai-radar-wiki
+category: daily-digests/2026-07-07
+tech_stack:
+- Knowledge Graph
+- RSS
+- JSON
+- HTML
+- Data Visualization
+- Web Scraping
+- Markdown
 quality_score: 8
 rag_relevance: 7
-tags: ["AI Intelligence", "Knowledge Graph", "Product Management", "Real-time Updates", "Data Visualization"]
-source: "https://github.com/ttmens/ai-radar-wiki"
-discovered_at: "2026-07-07T22:08:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Intelligence
+- Knowledge Graph
+- Product Management
+- Real-time Updates
+- Data Visualization
+source: https://github.com/ttmens/ai-radar-wiki
+discovered_at: '2026-07-07T22:08:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

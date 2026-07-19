@@ -1,13 +1,24 @@
 ---
-title: "firda0802/Ai-Document-Generation"
-category: "Tooling"
-tech_stack: ["TypeScript", "Google Gemini API", "ElevenLabs API", ".NET", "PDF Generation", "AI Agents"]
+title: firda0802/Ai-Document-Generation
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Google Gemini API
+- ElevenLabs API
+- .NET
+- PDF Generation
+- AI Agents
 quality_score: 5
 rag_relevance: 6
-tags: ["document generation", "AI automation", "content creation", "desktop application", "API integration"]
-source: "https://github.com/firda0802/Ai-Document-Generation"
-discovered_at: "2026-06-25T00:14:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- document generation
+- AI automation
+- content creation
+- desktop application
+- API integration
+source: https://github.com/firda0802/Ai-Document-Generation
+discovered_at: '2026-06-25T00:14:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

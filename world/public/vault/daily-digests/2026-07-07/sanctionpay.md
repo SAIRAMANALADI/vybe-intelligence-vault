@@ -1,13 +1,28 @@
 ---
-title: "Berakb/sanctionpay"
-category: "Tooling"
-tech_stack: ["Rust", "Odra Framework", "Python", "FastAPI", "Claude API", "x402", "Casper Network", "SQLite", "Docker", "HTML/JS"]
+title: Berakb/sanctionpay
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Rust
+- Odra Framework
+- Python
+- FastAPI
+- Claude API
+- x402
+- Casper Network
+- SQLite
+- Docker
+- HTML/JS
 quality_score: 8
 rag_relevance: 9
-tags: ["compliance", "sanction screening", "Casper Network", "x402 payments", "AI agent"]
-source: "https://github.com/Berakb/sanctionpay"
-discovered_at: "2026-07-07T16:25:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- compliance
+- sanction screening
+- Casper Network
+- x402 payments
+- AI agent
+source: https://github.com/Berakb/sanctionpay
+discovered_at: '2026-07-07T16:25:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

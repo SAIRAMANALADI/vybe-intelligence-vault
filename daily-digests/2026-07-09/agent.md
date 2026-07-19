@@ -1,13 +1,38 @@
 ---
-title: "haih-net/agent"
-category: "Agent Framework"
-tech_stack: ["Next.js 16", "React", "GraphQL", "Apollo Server", "Prisma ORM", "PostgreSQL", "TypeScript", "n8n", "Express", "JWT", "Telegram", "MetaMask", "Arbitrum", "Docker", "llama.cpp", "Qwen3.5", "OpenRouter", "Gemini 3.1", "Claude", "Traefik"]
+title: haih-net/agent
+category: daily-digests/2026-07-09
+tech_stack:
+- Next.js 16
+- React
+- GraphQL
+- Apollo Server
+- Prisma ORM
+- PostgreSQL
+- TypeScript
+- n8n
+- Express
+- JWT
+- Telegram
+- MetaMask
+- Arbitrum
+- Docker
+- llama.cpp
+- Qwen3.5
+- OpenRouter
+- Gemini 3.1
+- Claude
+- Traefik
 quality_score: 9
 rag_relevance: 10
-tags: ["autonomous agents", "reasoning transparency", "local-first AI", "knowledge management", "code-driven workflows"]
-source: "https://github.com/haih-net/agent"
-discovered_at: "2026-07-09T14:44:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- reasoning transparency
+- local-first AI
+- knowledge management
+- code-driven workflows
+source: https://github.com/haih-net/agent
+discovered_at: '2026-07-09T14:44:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

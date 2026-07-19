@@ -1,13 +1,28 @@
 ---
-title: "NexoBridge/NexoAgent"
-category: "Agent Framework"
-tech_stack: ["Electron", "React", "TypeScript", "Ant Design", "Express", "LangChain", "SQLite", "sql.js", "Vite", "Node.js"]
+title: NexoBridge/NexoAgent
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Electron
+- React
+- TypeScript
+- Ant Design
+- Express
+- LangChain
+- SQLite
+- sql.js
+- Vite
+- Node.js
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agents", "local-first", "multi-modal", "memory persistence", "browser automation"]
-source: "https://github.com/NexoBridge/NexoAgent"
-discovered_at: "2026-07-09T08:24:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- local-first
+- multi-modal
+- memory persistence
+- browser automation
+source: https://github.com/NexoBridge/NexoAgent
+discovered_at: '2026-07-09T08:24:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

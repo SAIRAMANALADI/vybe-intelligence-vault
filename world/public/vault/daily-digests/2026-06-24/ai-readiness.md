@@ -1,13 +1,23 @@
 ---
-title: "epistemedeus/ai-readiness"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "GitHub Actions"]
+title: epistemedeus/ai-readiness
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- JavaScript
+- Node.js
+- CLI
+- MCP (Model Context Protocol)
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["AI search visibility", "SEO for LLMs", "structured data", "crawlability", "website auditing"]
-source: "https://github.com/epistemedeus/ai-readiness"
-discovered_at: "2026-06-24T02:47:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI search visibility
+- SEO for LLMs
+- structured data
+- crawlability
+- website auditing
+source: https://github.com/epistemedeus/ai-readiness
+discovered_at: '2026-06-24T02:47:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

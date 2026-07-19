@@ -1,13 +1,28 @@
 ---
-title: "vscarpenter/gsd-task-manager"
-category: "Tooling"
-tech_stack: ["TypeScript", "React", "Next.js", "PocketBase", "IndexedDB", "TanStack Query", "Docker", "PWA", "OAuth (Google/GitHub)", "CloudFront"]
+title: vscarpenter/gsd-task-manager
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- React
+- Next.js
+- PocketBase
+- IndexedDB
+- TanStack Query
+- Docker
+- PWA
+- OAuth (Google/GitHub)
+- CloudFront
 quality_score: 9
 rag_relevance: 5
-tags: ["productivity", "task management", "Eisenhower Matrix", "privacy-first", "offline-first"]
-source: "https://github.com/vscarpenter/gsd-task-manager"
-discovered_at: "2026-07-07T23:56:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- productivity
+- task management
+- Eisenhower Matrix
+- privacy-first
+- offline-first
+source: https://github.com/vscarpenter/gsd-task-manager
+discovered_at: '2026-07-07T23:56:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

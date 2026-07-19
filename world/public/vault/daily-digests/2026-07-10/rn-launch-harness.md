@@ -1,13 +1,33 @@
 ---
-title: "tjdrhs90/rn-launch-harness"
-category: "Agent Framework"
-tech_stack: ["React Native", "Expo", "TypeScript", "NativeWind", "EAS Build", "Maestro", "App Store Connect API", "Google Play Developer API", "AdMob", "Zustand", "TanStack Query", "React Hook Form", "Zod", "FlashList", "Claude Code"]
+title: tjdrhs90/rn-launch-harness
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- React Native
+- Expo
+- TypeScript
+- NativeWind
+- EAS Build
+- Maestro
+- App Store Connect API
+- Google Play Developer API
+- AdMob
+- Zustand
+- TanStack Query
+- React Hook Form
+- Zod
+- FlashList
+- Claude Code
 quality_score: 9
 rag_relevance: 8
-tags: ["React Native automation", "Claude Code plugin", "App store submission", "Mobile development pipeline", "AI-driven development"]
-source: "https://github.com/tjdrhs90/rn-launch-harness"
-discovered_at: "2026-07-10T06:52:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- React Native automation
+- Claude Code plugin
+- App store submission
+- Mobile development pipeline
+- AI-driven development
+source: https://github.com/tjdrhs90/rn-launch-harness
+discovered_at: '2026-07-10T06:52:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

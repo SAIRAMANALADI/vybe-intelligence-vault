@@ -1,13 +1,23 @@
 ---
-title: "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-category: "UI Component"
-tech_stack: ["JavaScript", "TypeScript", "React", "GraphQL", "Node.js"]
+title: osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard
+category: daily-digests/2026-07-04
+tech_stack:
+- JavaScript
+- TypeScript
+- React
+- GraphQL
+- Node.js
 quality_score: 3
 rag_relevance: 6
-tags: ["dashboard", "AI model management", "graph-based execution", "real-time monitoring", "workflow visualization"]
-source: "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-discovered_at: "2026-07-04T13:12:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- dashboard
+- AI model management
+- graph-based execution
+- real-time monitoring
+- workflow visualization
+source: https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard
+discovered_at: '2026-07-04T13:12:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

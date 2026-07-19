@@ -1,13 +1,30 @@
 ---
-title: "omnigent-ai/omnigent"
-category: "Orchestrator"
-tech_stack: ["Python", "TypeScript", "Docker", "FastAPI", "React", "Modal", "Daytona", "Islo", "tmux", "bubblewrap", "uv", "Node.js"]
+title: omnigent-ai/omnigent
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- TypeScript
+- Docker
+- FastAPI
+- React
+- Modal
+- Daytona
+- Islo
+- tmux
+- bubblewrap
+- uv
+- Node.js
 quality_score: 9
 rag_relevance: 9
-tags: ["AI agent orchestration", "multi-agent collaboration", "sandboxing", "policy enforcement", "cross-device synchronization"]
-source: "https://github.com/omnigent-ai/omnigent"
-discovered_at: "2026-06-22T18:52:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent orchestration
+- multi-agent collaboration
+- sandboxing
+- policy enforcement
+- cross-device synchronization
+source: https://github.com/omnigent-ai/omnigent
+discovered_at: '2026-06-22T18:52:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

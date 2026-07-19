@@ -1,13 +1,24 @@
 ---
-title: "mondaycom/mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "GraphQL", "OAuth", "REST API"]
+title: mondaycom/mcp
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- GraphQL
+- OAuth
+- REST API
 quality_score: 9
 rag_relevance: 8
-tags: ["AI integration", "work OS", "automation", "agent framework", "GraphQL"]
-source: "https://github.com/mondaycom/mcp"
-discovered_at: "2026-06-25T14:18:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI integration
+- work OS
+- automation
+- agent framework
+- GraphQL
+source: https://github.com/mondaycom/mcp
+discovered_at: '2026-06-25T14:18:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

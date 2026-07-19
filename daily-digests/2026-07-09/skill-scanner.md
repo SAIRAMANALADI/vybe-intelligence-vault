@@ -1,13 +1,22 @@
 ---
-title: "shrav89/skill-scanner"
-category: "Tooling"
-tech_stack: ["Python", "Electron (likely for desktop app)", "Static Analysis", "Reporting Tools"]
+title: shrav89/skill-scanner
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- Electron (likely for desktop app)
+- Static Analysis
+- Reporting Tools
 quality_score: 5
 rag_relevance: 7
-tags: ["security scanning", "agent skills", "vulnerability detection", "desktop application", "AI tooling"]
-source: "https://github.com/shrav89/skill-scanner"
-discovered_at: "2026-07-09T00:06:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- security scanning
+- agent skills
+- vulnerability detection
+- desktop application
+- AI tooling
+source: https://github.com/shrav89/skill-scanner
+discovered_at: '2026-07-09T00:06:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

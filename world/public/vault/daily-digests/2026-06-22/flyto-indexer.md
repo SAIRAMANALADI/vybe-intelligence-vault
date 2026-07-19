@@ -1,13 +1,24 @@
 ---
-title: "flytohub/flyto-indexer"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "AST (Abstract Syntax Tree) analysis", "Taint analysis", "Static code analysis", "YAML configuration"]
+title: flytohub/flyto-indexer
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- AST (Abstract Syntax Tree) analysis
+- Taint analysis
+- Static code analysis
+- YAML configuration
 quality_score: 9
 rag_relevance: 8
-tags: ["impact analysis", "code health scoring", "cross-project tracking", "AI assistant tooling", "MCP server"]
-source: "https://github.com/flytohub/flyto-indexer"
-discovered_at: "2026-06-22T23:24:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- impact analysis
+- code health scoring
+- cross-project tracking
+- AI assistant tooling
+- MCP server
+source: https://github.com/flytohub/flyto-indexer
+discovered_at: '2026-06-22T23:24:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "codingwithgokul/ai-context-vault"
-category: "Tooling"
-tech_stack: ["Python", "Azure AI Search", "Claude API", "RAG (Retrieval-Augmented Generation)", "Windows Desktop App"]
+title: codingwithgokul/ai-context-vault
+category: world/public/vault/daily-digests/2026-07-12
+tech_stack:
+- Python
+- Azure AI Search
+- Claude API
+- RAG (Retrieval-Augmented Generation)
+- Windows Desktop App
 quality_score: 7
 rag_relevance: 8
-tags: ["AI context management", "token optimization", "cloud sync", "RAG integration", "developer tools"]
-source: "https://github.com/codingwithgokul/ai-context-vault"
-discovered_at: "2026-07-12T15:58:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI context management
+- token optimization
+- cloud sync
+- RAG integration
+- developer tools
+source: https://github.com/codingwithgokul/ai-context-vault
+discovered_at: '2026-07-12T15:58:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

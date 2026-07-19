@@ -1,13 +1,25 @@
 ---
-title: "USHIKUNDESUYO/sekisho"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Next.js", "Gemini API (gemini-2.5-flash)", "Google Cloud Run", "Firestore", "GitHub Actions", "Docker"]
+title: USHIKUNDESUYO/sekisho
+category: daily-digests/2026-07-14
+tech_stack:
+- TypeScript
+- Next.js
+- Gemini API (gemini-2.5-flash)
+- Google Cloud Run
+- Firestore
+- GitHub Actions
+- Docker
 quality_score: 8
 rag_relevance: 9
-tags: ["AI gatekeeping", "human-in-the-loop", "audit trail", "counter-evidence", "CI/CD security"]
-source: "https://github.com/USHIKUNDESUYO/sekisho"
-discovered_at: "2026-07-11T07:52:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI gatekeeping
+- human-in-the-loop
+- audit trail
+- counter-evidence
+- CI/CD security
+source: https://github.com/USHIKUNDESUYO/sekisho
+discovered_at: '2026-07-11T07:52:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

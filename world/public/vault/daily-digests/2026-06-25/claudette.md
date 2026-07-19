@@ -1,13 +1,28 @@
 ---
-title: "mrdushidush/claudette"
-category: "Agent Framework"
-tech_stack: ["Rust", "Ollama", "LM Studio", "Local LLM", "Telegram API", "Git", "Bash", "Embeddings", "Whisper (STT)", "Edge-TTS"]
+title: mrdushidush/claudette
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Rust
+- Ollama
+- LM Studio
+- Local LLM
+- Telegram API
+- Git
+- Bash
+- Embeddings
+- Whisper (STT)
+- Edge-TTS
 quality_score: 9
 rag_relevance: 8
-tags: ["air-gapped", "local LLM", "coding agent", "offline AI", "autonomous coding"]
-source: "https://github.com/mrdushidush/claudette"
-discovered_at: "2026-06-25T07:24:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- air-gapped
+- local LLM
+- coding agent
+- offline AI
+- autonomous coding
+source: https://github.com/mrdushidush/claudette
+discovered_at: '2026-06-25T07:24:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

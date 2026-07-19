@@ -1,13 +1,27 @@
 ---
-title: "chrisdoc/hevy-mcp"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Oxc (oxlint/oxfmt)", "Zod", "Kubb", "Sentry", "Vitest", "GitHub Actions"]
+title: chrisdoc/hevy-mcp
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Oxc (oxlint/oxfmt)
+- Zod
+- Kubb
+- Sentry
+- Vitest
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-tags: ["fitness tracking", "workout management", "MCP server", "AI assistant integration", "API client"]
-source: "https://github.com/chrisdoc/hevy-mcp"
-discovered_at: "2026-07-09T08:26:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- fitness tracking
+- workout management
+- MCP server
+- AI assistant integration
+- API client
+source: https://github.com/chrisdoc/hevy-mcp
+discovered_at: '2026-07-09T08:26:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

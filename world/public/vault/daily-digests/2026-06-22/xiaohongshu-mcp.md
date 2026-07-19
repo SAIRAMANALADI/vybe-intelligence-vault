@@ -1,13 +1,27 @@
 ---
-title: "xpzouying/xiaohongshu-mcp"
-category: "Tooling"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "Docker", "Chromium (Headless Browser)", "HTTP/HTTPS", "SOCKS5 Proxy", "Claude Code CLI", "Open Code CLI", "Cursor"]
+title: xpzouying/xiaohongshu-mcp
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- Docker
+- Chromium (Headless Browser)
+- HTTP/HTTPS
+- SOCKS5 Proxy
+- Claude Code CLI
+- Open Code CLI
+- Cursor
 quality_score: 9
 rag_relevance: 7
-tags: ["social media automation", "content publishing", "MCP server", "AI integration", "data retrieval"]
-source: "https://github.com/xpzouying/xiaohongshu-mcp"
-discovered_at: "2026-06-22T18:15:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- social media automation
+- content publishing
+- MCP server
+- AI integration
+- data retrieval
+source: https://github.com/xpzouying/xiaohongshu-mcp
+discovered_at: '2026-06-22T18:15:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

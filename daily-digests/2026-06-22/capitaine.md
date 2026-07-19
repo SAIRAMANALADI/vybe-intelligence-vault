@@ -1,13 +1,23 @@
 ---
-title: "Lucineer/capitaine"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Git", "Node.js", "AI Agents", "Autonomous Systems"]
+title: Lucineer/capitaine
+category: daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Git
+- Node.js
+- AI Agents
+- Autonomous Systems
 quality_score: 8
 rag_relevance: 9
-tags: ["autonomous agents", "git-native AI", "self-improving systems", "repo-agent", "agentic workflows"]
-source: "https://github.com/Lucineer/capitaine"
-discovered_at: "2026-06-22T18:50:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- git-native AI
+- self-improving systems
+- repo-agent
+- agentic workflows
+source: https://github.com/Lucineer/capitaine
+discovered_at: '2026-06-22T18:50:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

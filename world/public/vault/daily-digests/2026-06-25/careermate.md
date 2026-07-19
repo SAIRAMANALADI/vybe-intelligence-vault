@@ -1,13 +1,27 @@
 ---
-title: "osntak/careermate"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "MCP (Model Context Protocol)", "Zod", "ESBuild", "Playwright", "Vanilla JS (Dashboard)", "Node:sqlite (Native Module)"]
+title: osntak/careermate
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- MCP (Model Context Protocol)
+- Zod
+- ESBuild
+- Playwright
+- Vanilla JS (Dashboard)
+- Node:sqlite (Native Module)
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP integration", "local-first", "career management", "AI agent tooling", "resume management"]
-source: "https://github.com/osntak/careermate"
-discovered_at: "2026-06-25T05:03:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP integration
+- local-first
+- career management
+- AI agent tooling
+- resume management
+source: https://github.com/osntak/careermate
+discovered_at: '2026-06-25T05:03:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

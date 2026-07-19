@@ -1,13 +1,25 @@
 ---
-title: "killertcell428/aigis"
-category: "Tooling"
-tech_stack: ["Python", "CLI", "Docker", "HMAC-SHA256", "Apache 2.0", "GitHub Actions", "OpenSSF Scorecard"]
+title: killertcell428/aigis
+category: world/public/vault/daily-digests/2026-07-13
+tech_stack:
+- Python
+- CLI
+- Docker
+- HMAC-SHA256
+- Apache 2.0
+- GitHub Actions
+- OpenSSF Scorecard
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent security", "deterministic guardrails", "audit logging", "compliance automation", "MCP protection"]
-source: "https://github.com/killertcell428/aigis"
-discovered_at: "2026-07-12T17:03:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent security
+- deterministic guardrails
+- audit logging
+- compliance automation
+- MCP protection
+source: https://github.com/killertcell428/aigis
+discovered_at: '2026-07-12T17:03:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

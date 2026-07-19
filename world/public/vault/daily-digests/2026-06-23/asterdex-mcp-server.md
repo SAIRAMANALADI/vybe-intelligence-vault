@@ -1,13 +1,25 @@
 ---
-title: "Excaliber9271/asterdex-mcp-server"
-category: "Tooling"
-tech_stack: ["Node.js", "TypeScript", "Model Context Protocol (MCP)", "WebSocket", "REST APIs", "Volume Profile Analytics", "Technical Indicators (MFI, StochRSI, OBV, EMA/RSI)"]
+title: Excaliber9271/asterdex-mcp-server
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Node.js
+- TypeScript
+- Model Context Protocol (MCP)
+- WebSocket
+- REST APIs
+- Volume Profile Analytics
+- Technical Indicators (MFI, StochRSI, OBV, EMA/RSI)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP Server", "Perpetual Futures", "Trading Automation", "Volume Profile", "Cross-Exchange Analysis"]
-source: "https://github.com/Excaliber9271/asterdex-mcp-server"
-discovered_at: "2026-06-23T23:10:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- Perpetual Futures
+- Trading Automation
+- Volume Profile
+- Cross-Exchange Analysis
+source: https://github.com/Excaliber9271/asterdex-mcp-server
+discovered_at: '2026-06-23T23:10:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

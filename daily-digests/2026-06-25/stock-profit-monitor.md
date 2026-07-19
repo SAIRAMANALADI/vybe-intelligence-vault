@@ -1,13 +1,24 @@
 ---
-title: "GuangfuWu/stock-profit-monitor"
-category: "Tooling"
-tech_stack: ["Python", "Privora (Serverless Data Orchestration)", "Webhook APIs (WeChat, Feishu, DingTalk)", "Bearer Token Authentication", "SQL (for encrypted portfolio storage)", "ClawHub (AI Agent Integration)"]
+title: GuangfuWu/stock-profit-monitor
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- Privora (Serverless Data Orchestration)
+- Webhook APIs (WeChat, Feishu, DingTalk)
+- Bearer Token Authentication
+- SQL (for encrypted portfolio storage)
+- ClawHub (AI Agent Integration)
 quality_score: 8
 rag_relevance: 7
-tags: ["stock monitoring", "automated alerts", "portfolio tracking", "AI agent integration", "serverless"]
-source: "https://github.com/GuangfuWu/stock-profit-monitor"
-discovered_at: "2026-06-25T08:29:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- stock monitoring
+- automated alerts
+- portfolio tracking
+- AI agent integration
+- serverless
+source: https://github.com/GuangfuWu/stock-profit-monitor
+discovered_at: '2026-06-25T08:29:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

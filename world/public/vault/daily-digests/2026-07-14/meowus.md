@@ -1,13 +1,36 @@
 ---
-title: "MeowAI-HK/meowus"
-category: "Agent Framework"
-tech_stack: ["Electron", "Next.js", "React", "TypeScript", "SQLite/libSQL", "Drizzle ORM", "LangGraph/LangChain", "Playwright", "CloakBrowser", "Tailwind CSS", "HeroUI", "SWR", "Zod", "Gemini", "Groq", "OpenAI-compatible APIs", "OpenRouter", "Node.js"]
+title: MeowAI-HK/meowus
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- Electron
+- Next.js
+- React
+- TypeScript
+- SQLite/libSQL
+- Drizzle ORM
+- LangGraph/LangChain
+- Playwright
+- CloakBrowser
+- Tailwind CSS
+- HeroUI
+- SWR
+- Zod
+- Gemini
+- Groq
+- OpenAI-compatible APIs
+- OpenRouter
+- Node.js
 quality_score: 9
 rag_relevance: 7
-tags: ["social media automation", "AI agent", "browser automation", "multi-account management", "local-first workflow"]
-source: "https://github.com/MeowAI-HK/meowus"
-discovered_at: "2026-07-13T10:24:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- social media automation
+- AI agent
+- browser automation
+- multi-account management
+- local-first workflow
+source: https://github.com/MeowAI-HK/meowus
+discovered_at: '2026-07-13T10:24:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

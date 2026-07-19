@@ -1,13 +1,21 @@
 ---
-title: "zenithpd/agent-sessions"
-category: "Tooling"
-tech_stack: ["Rust", "Desktop Application", "Cross-Platform"]
+title: zenithpd/agent-sessions
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Rust
+- Desktop Application
+- Cross-Platform
 quality_score: 6
 rag_relevance: 4
-tags: ["session management", "AI agents", "desktop app", "multi-session", "Rust"]
-source: "https://github.com/zenithpd/agent-sessions"
-discovered_at: "2026-06-24T18:56:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- session management
+- AI agents
+- desktop app
+- multi-session
+- Rust
+source: https://github.com/zenithpd/agent-sessions
+discovered_at: '2026-06-24T18:56:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

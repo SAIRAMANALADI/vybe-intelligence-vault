@@ -1,13 +1,28 @@
 ---
-title: "mksglu/context-mode"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "FTS5 (Full-Text Search)", "MCP (Model Context Protocol)", "Bun", "Playwright", "GitHub CLI", "Gemini CLI", "Claude Code"]
+title: mksglu/context-mode
+category: daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- FTS5 (Full-Text Search)
+- MCP (Model Context Protocol)
+- Bun
+- Playwright
+- GitHub CLI
+- Gemini CLI
+- Claude Code
 quality_score: 9
 rag_relevance: 10
-tags: ["context optimization", "MCP server", "AI agent tooling", "session continuity", "sandboxing"]
-source: "https://github.com/mksglu/context-mode"
-discovered_at: "2026-06-22T18:14:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- context optimization
+- MCP server
+- AI agent tooling
+- session continuity
+- sandboxing
+source: https://github.com/mksglu/context-mode
+discovered_at: '2026-06-22T18:14:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

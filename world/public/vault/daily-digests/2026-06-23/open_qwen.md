@@ -1,13 +1,24 @@
 ---
-title: "Traversecityjesuit102/open_qwen"
-category: "Tooling"
-tech_stack: ["Python", "PyTorch", "Transformer Models", "Windows Desktop App", "RMS Normalization", "Delta Network Updates"]
+title: Traversecityjesuit102/open_qwen
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- PyTorch
+- Transformer Models
+- Windows Desktop App
+- RMS Normalization
+- Delta Network Updates
 quality_score: 6
 rag_relevance: 4
-tags: ["text generation", "Qwen 3.5", "Windows desktop app", "local AI", "PyTorch framework"]
-source: "https://github.com/Traversecityjesuit102/open_qwen"
-discovered_at: "2026-06-23T02:49:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- text generation
+- Qwen 3.5
+- Windows desktop app
+- local AI
+- PyTorch framework
+source: https://github.com/Traversecityjesuit102/open_qwen
+discovered_at: '2026-06-23T02:49:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

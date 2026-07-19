@@ -1,13 +1,28 @@
 ---
-title: "beatvalo-code/cobblemon-mchip-ralph-autoloop-60fps"
-category: "Tooling"
-tech_stack: ["Minecraft", "Cobblemon (Pok\u00e9mon mod)", "Apple Silicon (M1/M2/M3/M4)", "Metal Performance Shaders", "Core ML", "OpenAI API", "Claude API", "YAML", "Java", "Mermaid.js"]
+title: beatvalo-code/cobblemon-mchip-ralph-autoloop-60fps
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Minecraft
+- Cobblemon (Pokémon mod)
+- Apple Silicon (M1/M2/M3/M4)
+- Metal Performance Shaders
+- Core ML
+- OpenAI API
+- Claude API
+- YAML
+- Java
+- Mermaid.js
 quality_score: 7
 rag_relevance: 3
-tags: ["Minecraft optimization", "Apple Silicon performance", "Cobblemon mod", "real-time FPS tuning", "AI-driven gameplay"]
-source: "https://github.com/beatvalo-code/cobblemon-mchip-ralph-autoloop-60fps"
-discovered_at: "2026-07-07T18:58:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Minecraft optimization
+- Apple Silicon performance
+- Cobblemon mod
+- real-time FPS tuning
+- AI-driven gameplay
+source: https://github.com/beatvalo-code/cobblemon-mchip-ralph-autoloop-60fps
+discovered_at: '2026-07-07T18:58:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

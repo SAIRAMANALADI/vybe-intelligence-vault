@@ -1,13 +1,28 @@
 ---
-title: "lsdefine/GenericAgent"
-category: "Agent Framework"
-tech_stack: ["Python", "LLM APIs (Claude, Gemini, Kimi, MiniMax)", "TMWebdriver (browser automation)", "ADB (Android Debug Bridge)", "OCR (RapidOCR)", "Streamlit", "PyWebView", "Simple WebSocket Server", "AIOHTTP", "BeautifulSoup4"]
+title: lsdefine/GenericAgent
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- LLM APIs (Claude, Gemini, Kimi, MiniMax)
+- TMWebdriver (browser automation)
+- ADB (Android Debug Bridge)
+- OCR (RapidOCR)
+- Streamlit
+- PyWebView
+- Simple WebSocket Server
+- AIOHTTP
+- BeautifulSoup4
 quality_score: 9
 rag_relevance: 10
-tags: ["autonomous agents", "self-evolving", "minimal architecture", "system control", "skill crystallization"]
-source: "https://github.com/lsdefine/GenericAgent"
-discovered_at: "2026-06-22T18:14:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- self-evolving
+- minimal architecture
+- system control
+- skill crystallization
+source: https://github.com/lsdefine/GenericAgent
+discovered_at: '2026-06-22T18:14:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

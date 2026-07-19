@@ -1,13 +1,23 @@
 ---
-title: "rio225/docusaurus-skill"
-category: "Tooling"
-tech_stack: ["Python", "Docusaurus", "AI/ML", "Electron (likely)", "JavaScript/TypeScript"]
+title: rio225/docusaurus-skill
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- Docusaurus
+- AI/ML
+- Electron (likely)
+- JavaScript/TypeScript
 quality_score: 6
 rag_relevance: 5
-tags: ["documentation management", "AI agent", "Docusaurus", "content generation", "developer tools"]
-source: "https://github.com/rio225/docusaurus-skill"
-discovered_at: "2026-07-09T00:05:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- documentation management
+- AI agent
+- Docusaurus
+- content generation
+- developer tools
+source: https://github.com/rio225/docusaurus-skill
+discovered_at: '2026-07-09T00:05:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "salems-3Dpov/ai-agent-pipeline"
-category: "Agent Framework"
-tech_stack: ["LangChain", "LangGraph", "LangSmith", "Python", "ChromaDB", "OpenWeatherMap API", "Streamlit", "Pytest", "Docker"]
+title: salems-3Dpov/ai-agent-pipeline
+category: daily-digests/2026-06-24
+tech_stack:
+- LangChain
+- LangGraph
+- LangSmith
+- Python
+- ChromaDB
+- OpenWeatherMap API
+- Streamlit
+- Pytest
+- Docker
 quality_score: 8
 rag_relevance: 9
-tags: ["AI agents", "RAG", "observability", "document processing", "workflow orchestration"]
-source: "https://github.com/salems-3Dpov/ai-agent-pipeline"
-discovered_at: "2026-06-24T02:48:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- RAG
+- observability
+- document processing
+- workflow orchestration
+source: https://github.com/salems-3Dpov/ai-agent-pipeline
+discovered_at: '2026-06-24T02:48:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

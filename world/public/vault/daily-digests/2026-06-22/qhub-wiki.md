@@ -1,13 +1,25 @@
 ---
-title: "intelliconnect/QHub-Wiki"
-category: "Orchestrator"
-tech_stack: ["WikiJS", "Qdrant", "Python", "Ansible", "NGINX", "Docker", "LLM APIs (Claude, OpenAI, GROQ)"]
+title: intelliconnect/QHub-Wiki
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- WikiJS
+- Qdrant
+- Python
+- Ansible
+- NGINX
+- Docker
+- LLM APIs (Claude, OpenAI, GROQ)
 quality_score: 8
 rag_relevance: 9
-tags: ["self-hosted", "knowledge base", "vector search", "AI-powered", "SMB"]
-source: "https://github.com/intelliconnect/QHub-Wiki"
-discovered_at: "2026-06-22T18:14:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-hosted
+- knowledge base
+- vector search
+- AI-powered
+- SMB
+source: https://github.com/intelliconnect/QHub-Wiki
+discovered_at: '2026-06-22T18:14:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

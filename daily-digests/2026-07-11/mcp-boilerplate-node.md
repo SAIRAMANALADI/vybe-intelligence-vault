@@ -1,13 +1,24 @@
 ---
-title: "timescale/mcp-boilerplate-node"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "ESLint", "OpenTelemetry", "Bun"]
+title: timescale/mcp-boilerplate-node
+category: daily-digests/2026-07-11
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- ESLint
+- OpenTelemetry
+- Bun
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP", "Node.js", "boilerplate", "security", "server"]
-source: "https://github.com/timescale/mcp-boilerplate-node"
-discovered_at: "2026-07-10T16:24:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- Node.js
+- boilerplate
+- security
+- server
+source: https://github.com/timescale/mcp-boilerplate-node
+discovered_at: '2026-07-10T16:24:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

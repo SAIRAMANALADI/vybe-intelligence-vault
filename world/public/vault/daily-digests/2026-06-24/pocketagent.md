@@ -1,13 +1,27 @@
 ---
-title: "XiaoLuoLYG/PocketAgent"
-category: "Agent Framework"
-tech_stack: ["HarmonyOS", "ArkTS", "A2UI", "OpenAI-compatible models", "Node.js", "ArkUI", "HDC", "JavaScript", "TypeScript"]
+title: XiaoLuoLYG/PocketAgent
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- HarmonyOS
+- ArkTS
+- A2UI
+- OpenAI-compatible models
+- Node.js
+- ArkUI
+- HDC
+- JavaScript
+- TypeScript
 quality_score: 8
 rag_relevance: 6
-tags: ["HarmonyOS", "A2UI", "Agentic Interface", "Query-only Tools", "Device-local"]
-source: "https://github.com/XiaoLuoLYG/PocketAgent"
-discovered_at: "2026-06-24T02:41:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- HarmonyOS
+- A2UI
+- Agentic Interface
+- Query-only Tools
+- Device-local
+source: https://github.com/XiaoLuoLYG/PocketAgent
+discovered_at: '2026-06-24T02:41:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

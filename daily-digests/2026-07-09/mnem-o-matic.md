@@ -1,13 +1,27 @@
 ---
-title: "integratedcomputersolutions/mnem-o-matic"
-category: "Orchestrator"
-tech_stack: ["Python", "Docker", "MCP (Model Context Protocol)", "SQLite", "ONNX Runtime", "FastAPI", "Pydantic", "FTS5 (Full-Text Search)", "Vector Embeddings"]
+title: integratedcomputersolutions/mnem-o-matic
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- Docker
+- MCP (Model Context Protocol)
+- SQLite
+- ONNX Runtime
+- FastAPI
+- Pydantic
+- FTS5 (Full-Text Search)
+- Vector Embeddings
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP", "shared memory", "RAG", "document storage", "knowledge retention"]
-source: "https://github.com/integratedcomputersolutions/mnem-o-matic"
-discovered_at: "2026-07-09T17:17:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- shared memory
+- RAG
+- document storage
+- knowledge retention
+source: https://github.com/integratedcomputersolutions/mnem-o-matic
+discovered_at: '2026-07-09T17:17:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "wnkinc/claude-custom-connector-server"
-category: "Agent Framework"
-tech_stack: ["Python", "FastMCP", "Docker", "Cloudflare Tunnel", "Google OAuth", "Pulumi", "Squid Proxy", "Amazon Bedrock Guardrails", "LlamaFirewall"]
+title: wnkinc/claude-custom-connector-server
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- FastMCP
+- Docker
+- Cloudflare Tunnel
+- Google OAuth
+- Pulumi
+- Squid Proxy
+- Amazon Bedrock Guardrails
+- LlamaFirewall
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP", "Claude integration", "self-hosted", "secure tooling", "cloud deployment"]
-source: "https://github.com/wnkinc/claude-custom-connector-server"
-discovered_at: "2026-07-08T22:15:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- Claude integration
+- self-hosted
+- secure tooling
+- cloud deployment
+source: https://github.com/wnkinc/claude-custom-connector-server
+discovered_at: '2026-07-08T22:15:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

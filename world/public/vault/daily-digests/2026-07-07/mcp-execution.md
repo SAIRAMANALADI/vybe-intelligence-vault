@@ -1,13 +1,25 @@
 ---
-title: "bug-ops/mcp-execution"
-category: "Tooling"
-tech_stack: ["Rust", "TypeScript", "MCP (Model Context Protocol)", "Node.js", "rmcp SDK", "CI/CD (GitHub Actions)", "Code Coverage (codecov)"]
+title: bug-ops/mcp-execution
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Rust
+- TypeScript
+- MCP (Model Context Protocol)
+- Node.js
+- rmcp SDK
+- CI/CD (GitHub Actions)
+- Code Coverage (codecov)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "TypeScript generation", "progressive loading", "token optimization", "AI agent tools"]
-source: "https://github.com/bug-ops/mcp-execution"
-discovered_at: "2026-07-07T20:51:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- TypeScript generation
+- progressive loading
+- token optimization
+- AI agent tools
+source: https://github.com/bug-ops/mcp-execution
+discovered_at: '2026-07-07T20:51:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

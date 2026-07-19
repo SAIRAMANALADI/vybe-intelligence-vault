@@ -1,13 +1,22 @@
 ---
-title: "lowwkezer/shannon"
-category: "Tooling"
-tech_stack: ["TypeScript", "Web Security", "Automated Scanning", "AI-driven Exploit Detection"]
+title: lowwkezer/shannon
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Web Security
+- Automated Scanning
+- AI-driven Exploit Detection
 quality_score: 7
 rag_relevance: 4
-tags: ["web security", "automated pentesting", "vulnerability scanning", "AI security", "exploit detection"]
-source: "https://github.com/lowwkezer/shannon"
-discovered_at: "2026-06-24T16:16:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web security
+- automated pentesting
+- vulnerability scanning
+- AI security
+- exploit detection
+source: https://github.com/lowwkezer/shannon
+discovered_at: '2026-06-24T16:16:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "chenyuxiaojin/cyxj-groksearch"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "FastMCP", "Tavily API", "Firecrawl API", "Grok API", "HTTPX", "Tenacity", "FastAPI"]
+title: chenyuxiaojin/cyxj-groksearch
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- FastMCP
+- Tavily API
+- Firecrawl API
+- Grok API
+- HTTPX
+- Tenacity
+- FastAPI
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP server", "web search", "multi-source aggregation", "failover mechanism", "Claude Code integration"]
-source: "https://github.com/chenyuxiaojin/cyxj-groksearch"
-discovered_at: "2026-07-07T02:34:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- web search
+- multi-source aggregation
+- failover mechanism
+- Claude Code integration
+source: https://github.com/chenyuxiaojin/cyxj-groksearch
+discovered_at: '2026-07-07T02:34:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

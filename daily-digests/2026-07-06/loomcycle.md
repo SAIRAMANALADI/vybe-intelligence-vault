@@ -1,13 +1,28 @@
 ---
-title: "denn-gubsky/loomcycle"
-category: "Orchestrator"
-tech_stack: ["Go", "HTTP/gRPC", "MCP (Model Context Protocol)", "SQLite-vec/pgvector", "OpenTelemetry", "React", "TypeScript", "Python", "Docker", "Homebrew"]
+title: denn-gubsky/loomcycle
+category: daily-digests/2026-07-06
+tech_stack:
+- Go
+- HTTP/gRPC
+- MCP (Model Context Protocol)
+- SQLite-vec/pgvector
+- OpenTelemetry
+- React
+- TypeScript
+- Python
+- Docker
+- Homebrew
 quality_score: 9
 rag_relevance: 10
-tags: ["agent runtime", "sidecar", "multi-provider", "MCP-native", "self-hosted"]
-source: "https://github.com/denn-gubsky/loomcycle"
-discovered_at: "2026-07-06T19:49:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent runtime
+- sidecar
+- multi-provider
+- MCP-native
+- self-hosted
+source: https://github.com/denn-gubsky/loomcycle
+discovered_at: '2026-07-06T19:49:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

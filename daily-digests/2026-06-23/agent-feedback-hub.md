@@ -1,13 +1,28 @@
 ---
-title: "AdrianSQA/agent-feedback-hub"
-category: "Agent Framework"
-tech_stack: ["React", "Python", "Node.js", "MCP (Model Context Protocol)", "OpenAI API", "Claude API", "Ollama (Local LLMs)", "SQLite", "PostgreSQL", "Mermaid.js"]
+title: AdrianSQA/agent-feedback-hub
+category: daily-digests/2026-06-23
+tech_stack:
+- React
+- Python
+- Node.js
+- MCP (Model Context Protocol)
+- OpenAI API
+- Claude API
+- Ollama (Local LLMs)
+- SQLite
+- PostgreSQL
+- Mermaid.js
 quality_score: 8
 rag_relevance: 7
-tags: ["AI feedback loop", "real-time agent adjustment", "developer sentiment analysis", "MCP server", "personalized coding style"]
-source: "https://github.com/AdrianSQA/agent-feedback-hub"
-discovered_at: "2026-06-23T06:52:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI feedback loop
+- real-time agent adjustment
+- developer sentiment analysis
+- MCP server
+- personalized coding style
+source: https://github.com/AdrianSQA/agent-feedback-hub
+discovered_at: '2026-06-23T06:52:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

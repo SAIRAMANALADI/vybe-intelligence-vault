@@ -1,13 +1,22 @@
 ---
-title: "gloria112/any-api"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Cloudflare Workers", "REST APIs", "JavaScript"]
+title: gloria112/any-api
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Cloudflare Workers
+- REST APIs
+- JavaScript
 quality_score: 5
 rag_relevance: 7
-tags: ["AI gateway", "model routing", "LLM integration", "unified API", "cross-model compatibility"]
-source: "https://github.com/gloria112/any-api"
-discovered_at: "2026-06-25T05:06:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI gateway
+- model routing
+- LLM integration
+- unified API
+- cross-model compatibility
+source: https://github.com/gloria112/any-api
+discovered_at: '2026-06-25T05:06:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

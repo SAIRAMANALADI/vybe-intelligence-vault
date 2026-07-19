@@ -1,13 +1,26 @@
 ---
-title: "rustok-org/mcp"
-category: "Tooling"
-tech_stack: ["Python", "Docker", "Model Context Protocol (MCP)", "Argon2id", "AES-256-GCM", "SQLite", "Redis", "FastAPI"]
+title: rustok-org/mcp
+category: daily-digests/2026-07-11
+tech_stack:
+- Python
+- Docker
+- Model Context Protocol (MCP)
+- Argon2id
+- AES-256-GCM
+- SQLite
+- Redis
+- FastAPI
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP server", "self-custody wallet", "AI agent integration", "crypto transactions", "security-focused"]
-source: "https://github.com/rustok-org/mcp"
-discovered_at: "2026-07-11T07:52:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- self-custody wallet
+- AI agent integration
+- crypto transactions
+- security-focused
+source: https://github.com/rustok-org/mcp
+discovered_at: '2026-07-11T07:52:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

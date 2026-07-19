@@ -1,13 +1,29 @@
 ---
-title: "smarterweather/developer"
-category: "Tooling"
-tech_stack: ["TypeScript", "Python", "Go", "Node.js", "npm", "REST API", "MCP (Model Context Protocol)", "OpenAPI", "OAuth", "TypeScript SDK", "Python SDK"]
+title: smarterweather/developer
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Python
+- Go
+- Node.js
+- npm
+- REST API
+- MCP (Model Context Protocol)
+- OpenAPI
+- OAuth
+- TypeScript SDK
+- Python SDK
 quality_score: 7
 rag_relevance: 8
-tags: ["weather API", "MCP server", "AI agent integration", "SDKs", "developer platform"]
-source: "https://github.com/smarterweather/developer"
-discovered_at: "2026-07-09T19:31:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- weather API
+- MCP server
+- AI agent integration
+- SDKs
+- developer platform
+source: https://github.com/smarterweather/developer
+discovered_at: '2026-07-09T19:31:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

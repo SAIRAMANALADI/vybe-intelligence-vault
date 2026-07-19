@@ -1,13 +1,25 @@
 ---
-title: "jodydugas-ctrl/mantle-os"
-category: "Agent Framework"
-tech_stack: ["Python", "VCW (Volatile Continuous Write) substrate", "LLM integration", "Cryptographic identity", "Deterministic organ systems", "Tamper-evident memory", "Self-replication mechanisms"]
+title: jodydugas-ctrl/mantle-os
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- VCW (Volatile Continuous Write) substrate
+- LLM integration
+- Cryptographic identity
+- Deterministic organ systems
+- Tamper-evident memory
+- Self-replication mechanisms
 quality_score: 9
 rag_relevance: 8
-tags: ["organic coding", "self-evolving AI", "homeostatic systems", "tamper-evident", "AppAI framework"]
-source: "https://github.com/jodydugas-ctrl/mantle-os"
-discovered_at: "2026-07-06T19:48:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- organic coding
+- self-evolving AI
+- homeostatic systems
+- tamper-evident
+- AppAI framework
+source: https://github.com/jodydugas-ctrl/mantle-os
+discovered_at: '2026-07-06T19:48:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

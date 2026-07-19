@@ -1,13 +1,25 @@
 ---
-title: "SigNoz/signoz-mcp-server"
-category: "Tooling"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "HTTP", "Docker", "SigNoz", "OAuth", "REST APIs"]
+title: SigNoz/signoz-mcp-server
+category: daily-digests/2026-06-25
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- HTTP
+- Docker
+- SigNoz
+- OAuth
+- REST APIs
 quality_score: 9
 rag_relevance: 8
-tags: ["observability", "MCP server", "AI integration", "SigNoz", "natural language queries"]
-source: "https://github.com/SigNoz/signoz-mcp-server"
-discovered_at: "2026-06-25T11:40:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- observability
+- MCP server
+- AI integration
+- SigNoz
+- natural language queries
+source: https://github.com/SigNoz/signoz-mcp-server
+discovered_at: '2026-06-25T11:40:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

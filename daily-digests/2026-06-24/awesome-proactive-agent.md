@@ -1,13 +1,23 @@
 ---
-title: "LowEntropyAI/awesome-proactive-agent"
-category: "Tooling"
-tech_stack: ["Python", "Markdown", "arXiv", "GitHub", "Hugging Face"]
+title: LowEntropyAI/awesome-proactive-agent
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Markdown
+- arXiv
+- GitHub
+- Hugging Face
 quality_score: 9
 rag_relevance: 7
-tags: ["Proactive Agents", "Intent Inference", "Benchmarks", "Human Factors", "AI Assistants"]
-source: "https://github.com/LowEntropyAI/awesome-proactive-agent"
-discovered_at: "2026-06-24T06:42:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Proactive Agents
+- Intent Inference
+- Benchmarks
+- Human Factors
+- AI Assistants
+source: https://github.com/LowEntropyAI/awesome-proactive-agent
+discovered_at: '2026-06-24T06:42:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "sipyourdrink-ltd/bernstein"
-category: "Orchestrator"
-tech_stack: ["Python", "Git", "JWT", "HMAC-SHA256", "Ed25519/EdDSA", "JWS (RFC 7515)", "JCS (RFC 8785)", "Docker", "CLI Agents (Claude Code, Codex, Gemini CLI, etc.)"]
+title: sipyourdrink-ltd/bernstein
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- Git
+- JWT
+- HMAC-SHA256
+- Ed25519/EdDSA
+- JWS (RFC 7515)
+- JCS (RFC 8785)
+- Docker
+- CLI Agents (Claude Code, Codex, Gemini CLI, etc.)
 quality_score: 9
 rag_relevance: 9
-tags: ["multi-agent orchestration", "deterministic scheduling", "audit-grade compliance", "CLI coding agents", "air-gap deployable"]
-source: "https://github.com/sipyourdrink-ltd/bernstein"
-discovered_at: "2026-06-25T11:40:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent orchestration
+- deterministic scheduling
+- audit-grade compliance
+- CLI coding agents
+- air-gap deployable
+source: https://github.com/sipyourdrink-ltd/bernstein
+discovered_at: '2026-06-25T11:40:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

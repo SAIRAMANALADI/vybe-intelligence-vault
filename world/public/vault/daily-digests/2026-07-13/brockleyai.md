@@ -1,13 +1,23 @@
 ---
-title: "heliumgrouplypressin723/brockleyai"
-category: "Agent Framework"
-tech_stack: ["Go", "Windows Desktop", "LLM Integration", "Local Processing", "Workflow Automation"]
+title: heliumgrouplypressin723/brockleyai
+category: world/public/vault/daily-digests/2026-07-13
+tech_stack:
+- Go
+- Windows Desktop
+- LLM Integration
+- Local Processing
+- Workflow Automation
 quality_score: 6
 rag_relevance: 5
-tags: ["AI agents", "workflow automation", "local processing", "no-code", "task automation"]
-source: "https://github.com/heliumgrouplypressin723/brockleyai"
-discovered_at: "2026-07-13T22:55:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- workflow automation
+- local processing
+- no-code
+- task automation
+source: https://github.com/heliumgrouplypressin723/brockleyai
+discovered_at: '2026-07-13T22:55:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

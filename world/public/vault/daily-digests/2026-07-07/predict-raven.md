@@ -1,13 +1,31 @@
 ---
-title: "Alchemist-X/predict-raven"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "pnpm", "Polymarket CLOB Client", "Claude Code", "Codex CLI", "OpenClaw", "React", "Next.js", "PostgreSQL", "Bayesian Modeling", "Monte Carlo Simulations", "Docker (implied for deployment)"]
+title: Alchemist-X/predict-raven
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- pnpm
+- Polymarket CLOB Client
+- Claude Code
+- Codex CLI
+- OpenClaw
+- React
+- Next.js
+- PostgreSQL
+- Bayesian Modeling
+- Monte Carlo Simulations
+- Docker (implied for deployment)
 quality_score: 8
 rag_relevance: 9
-tags: ["autonomous trading", "forecasting agent", "prediction markets", "Bayesian inference", "evidence gathering"]
-source: "https://github.com/Alchemist-X/predict-raven"
-discovered_at: "2026-07-07T02:32:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous trading
+- forecasting agent
+- prediction markets
+- Bayesian inference
+- evidence gathering
+source: https://github.com/Alchemist-X/predict-raven
+discovered_at: '2026-07-07T02:32:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "AndresI19/open-vMCP"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "PostgreSQL", "Drizzle ORM", "Express", "SSE (Server-Sent Events)", "Streamable HTTP", "React", "Carbon Design System", "Zod"]
+title: AndresI19/open-vMCP
+category: daily-digests/2026-07-16
+tech_stack:
+- TypeScript
+- Node.js
+- PostgreSQL
+- Drizzle ORM
+- Express
+- SSE (Server-Sent Events)
+- Streamable HTTP
+- React
+- Carbon Design System
+- Zod
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP gateway", "telemetry", "policy enforcement", "dashboard", "reference implementation"]
-source: "https://github.com/AndresI19/open-vMCP"
-discovered_at: "2026-07-13T23:53:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP gateway
+- telemetry
+- policy enforcement
+- dashboard
+- reference implementation
+source: https://github.com/AndresI19/open-vMCP
+discovered_at: '2026-07-13T23:53:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

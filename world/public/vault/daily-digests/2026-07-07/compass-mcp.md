@@ -1,13 +1,22 @@
 ---
-title: "Cdplayerjumpingoffplace65/compass-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "Windows Desktop", "Local File System"]
+title: Cdplayerjumpingoffplace65/compass-mcp
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- Windows Desktop
+- Local File System
 quality_score: 7
 rag_relevance: 6
-tags: ["task synchronization", "Claude integration", "MCP server", "project management", "local workspace"]
-source: "https://github.com/Cdplayerjumpingoffplace65/compass-mcp"
-discovered_at: "2026-07-07T20:51:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- task synchronization
+- Claude integration
+- MCP server
+- project management
+- local workspace
+source: https://github.com/Cdplayerjumpingoffplace65/compass-mcp
+discovered_at: '2026-07-07T20:51:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "j-joker/pi-todo-rail"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Pi (AI agent framework)", "Terminal UI"]
+title: j-joker/pi-todo-rail
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- TypeScript
+- Node.js
+- Pi (AI agent framework)
+- Terminal UI
 quality_score: 8
 rag_relevance: 7
-tags: ["task management", "AI agent integration", "context persistence", "branch-aware", "developer tool"]
-source: "https://github.com/j-joker/pi-todo-rail"
-discovered_at: "2026-07-17T12:08:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- task management
+- AI agent integration
+- context persistence
+- branch-aware
+- developer tool
+source: https://github.com/j-joker/pi-todo-rail
+discovered_at: '2026-07-17T12:08:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

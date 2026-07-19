@@ -1,13 +1,29 @@
 ---
-title: "maioio/genesis-architect"
-category: "Tooling"
-tech_stack: ["Python", "Click", "FastAPI", "SQLite", "PostgreSQL", "GitHub API", "LiteLLM", "pytest", "mypy", "SonarCloud", "Snyk"]
+title: maioio/genesis-architect
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Click
+- FastAPI
+- SQLite
+- PostgreSQL
+- GitHub API
+- LiteLLM
+- pytest
+- mypy
+- SonarCloud
+- Snyk
 quality_score: 9
 rag_relevance: 8
-tags: ["project scaffolding", "automated research", "pitfall mitigation", "production-ready templates", "AI-assisted development"]
-source: "https://github.com/maioio/genesis-architect"
-discovered_at: "2026-06-24T06:43:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- project scaffolding
+- automated research
+- pitfall mitigation
+- production-ready templates
+- AI-assisted development
+source: https://github.com/maioio/genesis-architect
+discovered_at: '2026-06-24T06:43:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

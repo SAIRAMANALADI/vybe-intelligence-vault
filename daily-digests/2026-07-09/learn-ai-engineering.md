@@ -1,13 +1,29 @@
 ---
-title: "bob798/learn-ai-engineering"
-category: "Tooling"
-tech_stack: ["Next.js", "Python", "Markdown", "HTML", "Tailwind CSS", "TypeScript", "MCP (Model Context Protocol)", "RAG (Retrieval-Augmented Generation)", "Agent Frameworks", "Embedding Models", "Claude Code"]
+title: bob798/learn-ai-engineering
+category: daily-digests/2026-07-09
+tech_stack:
+- Next.js
+- Python
+- Markdown
+- HTML
+- Tailwind CSS
+- TypeScript
+- MCP (Model Context Protocol)
+- RAG (Retrieval-Augmented Generation)
+- Agent Frameworks
+- Embedding Models
+- Claude Code
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Engineering", "RAG", "Agent Frameworks", "MCP", "Interactive Learning"]
-source: "https://github.com/bob798/learn-ai-engineering"
-discovered_at: "2026-07-09T00:05:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Engineering
+- RAG
+- Agent Frameworks
+- MCP
+- Interactive Learning
+source: https://github.com/bob798/learn-ai-engineering
+discovered_at: '2026-07-09T00:05:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

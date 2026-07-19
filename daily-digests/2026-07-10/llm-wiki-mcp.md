@@ -1,13 +1,24 @@
 ---
-title: "jaronlu/llm-wiki-mcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "YAML", "JSON", "pytest", "ruff"]
+title: jaronlu/llm-wiki-mcp
+category: daily-digests/2026-07-10
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- YAML
+- JSON
+- pytest
+- ruff
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "knowledge governance", "wiki management", "AI agent safety", "structured knowledge"]
-source: "https://github.com/jaronlu/llm-wiki-mcp"
-discovered_at: "2026-07-10T02:27:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- knowledge governance
+- wiki management
+- AI agent safety
+- structured knowledge
+source: https://github.com/jaronlu/llm-wiki-mcp
+discovered_at: '2026-07-10T02:27:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

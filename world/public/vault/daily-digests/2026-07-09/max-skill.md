@@ -1,13 +1,25 @@
 ---
-title: "Jenzo0/max-skill"
-category: "Agent Framework"
-tech_stack: ["System Prompt Engineering", "Modular Architecture", "Decision Engine (Weighted Keyword Scoring)", "Token-Budget Allocation", "Universal Tool Registry", "Arabic Dialect Detection", "Context Layering (4-Layer Priority)"]
+title: Jenzo0/max-skill
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- System Prompt Engineering
+- Modular Architecture
+- Decision Engine (Weighted Keyword Scoring)
+- Token-Budget Allocation
+- Universal Tool Registry
+- Arabic Dialect Detection
+- Context Layering (4-Layer Priority)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Agent Framework", "Model-Agnostic", "Multi-Mode Prompt", "Production-Ready", "Arabic Support"]
-source: "https://github.com/Jenzo0/max-skill"
-discovered_at: "2026-07-09T17:17:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent Framework
+- Model-Agnostic
+- Multi-Mode Prompt
+- Production-Ready
+- Arabic Support
+source: https://github.com/Jenzo0/max-skill
+discovered_at: '2026-07-09T17:17:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "NickalasLight/VibeHarness"
-category: "Agent Framework"
-tech_stack: ["Python", "Ollama", "Hugging Face Transformers", "JSON Schema", "Playwright CLI", "Node.js"]
+title: NickalasLight/VibeHarness
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Ollama
+- Hugging Face Transformers
+- JSON Schema
+- Playwright CLI
+- Node.js
 quality_score: 8
 rag_relevance: 7
-tags: ["local AI agents", "RAG tooling", "small language models", "file system interaction", "agent orchestration"]
-source: "https://github.com/NickalasLight/VibeHarness"
-discovered_at: "2026-06-24T13:21:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local AI agents
+- RAG tooling
+- small language models
+- file system interaction
+- agent orchestration
+source: https://github.com/NickalasLight/VibeHarness
+discovered_at: '2026-06-24T13:21:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

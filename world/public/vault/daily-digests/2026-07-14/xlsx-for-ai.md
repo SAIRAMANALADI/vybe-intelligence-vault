@@ -1,13 +1,26 @@
 ---
-title: "senoff/xlsx-for-ai"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "REST API", "Ed25519 cryptography", "HyperFormula (for formula evaluation)", "ExcelJS (for .xlsx manipulation)", "CLI tools"]
+title: senoff/xlsx-for-ai
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- REST API
+- Ed25519 cryptography
+- HyperFormula (for formula evaluation)
+- ExcelJS (for .xlsx manipulation)
+- CLI tools
 quality_score: 9
 rag_relevance: 8
-tags: ["spreadsheet processing", "MCP server", "Excel tools", "LLM integration", "data integrity"]
-source: "https://github.com/senoff/xlsx-for-ai"
-discovered_at: "2026-07-11T16:55:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- spreadsheet processing
+- MCP server
+- Excel tools
+- LLM integration
+- data integrity
+source: https://github.com/senoff/xlsx-for-ai
+discovered_at: '2026-07-11T16:55:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

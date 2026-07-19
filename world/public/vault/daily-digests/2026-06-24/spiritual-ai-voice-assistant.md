@@ -1,13 +1,27 @@
 ---
-title: "RoxyAPI/spiritual-ai-voice-assistant"
-category: "Tooling"
-tech_stack: ["TypeScript", "Next.js", "Vercel AI SDK", "RoxyAPI Remote MCP", "Web Speech API", "Gemini", "Claude", "GPT", "NASA JPL Horizons"]
+title: RoxyAPI/spiritual-ai-voice-assistant
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Next.js
+- Vercel AI SDK
+- RoxyAPI Remote MCP
+- Web Speech API
+- Gemini
+- Claude
+- GPT
+- NASA JPL Horizons
 quality_score: 9
 rag_relevance: 7
-tags: ["voice assistant", "spiritual readings", "astrology", "tarot", "numerology"]
-source: "https://github.com/RoxyAPI/spiritual-ai-voice-assistant"
-discovered_at: "2026-06-24T18:50:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- voice assistant
+- spiritual readings
+- astrology
+- tarot
+- numerology
+source: https://github.com/RoxyAPI/spiritual-ai-voice-assistant
+discovered_at: '2026-06-24T18:50:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

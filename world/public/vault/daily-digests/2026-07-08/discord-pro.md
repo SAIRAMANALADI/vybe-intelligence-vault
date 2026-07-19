@@ -1,13 +1,25 @@
 ---
-title: "ntfreem/discord-pro"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Anthropic SDK", "ParadeDB BM25", "MongoDB", "Discord.js", "Node.js", "API Key Authentication"]
+title: ntfreem/discord-pro
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- Anthropic SDK
+- ParadeDB BM25
+- MongoDB
+- Discord.js
+- Node.js
+- API Key Authentication
 quality_score: 8
 rag_relevance: 7
-tags: ["Discord automation", "knowledge retrieval", "multi-tenant", "LLM integration", "analytics"]
-source: "https://github.com/ntfreem/discord-pro"
-discovered_at: "2026-07-08T08:16:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Discord automation
+- knowledge retrieval
+- multi-tenant
+- LLM integration
+- analytics
+source: https://github.com/ntfreem/discord-pro
+discovered_at: '2026-07-08T08:16:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

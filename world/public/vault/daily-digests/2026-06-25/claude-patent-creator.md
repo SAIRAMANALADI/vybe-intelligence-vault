@@ -1,13 +1,28 @@
 ---
-title: "RobThePCGuy/Claude-Patent-Creator"
-category: "Tooling"
-tech_stack: ["Python", "PyTorch", "FAISS", "BM25", "Graphviz", "Google BigQuery", "FastMCP", "Claude Code", "USPTO/EPO APIs", "CLI"]
+title: RobThePCGuy/Claude-Patent-Creator
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- PyTorch
+- FAISS
+- BM25
+- Graphviz
+- Google BigQuery
+- FastMCP
+- Claude Code
+- USPTO/EPO APIs
+- CLI
 quality_score: 9
 rag_relevance: 8
-tags: ["patent automation", "RAG for legal documents", "prior art search", "compliance checking", "AI-assisted drafting"]
-source: "https://github.com/RobThePCGuy/Claude-Patent-Creator"
-discovered_at: "2026-06-25T17:12:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- patent automation
+- RAG for legal documents
+- prior art search
+- compliance checking
+- AI-assisted drafting
+source: https://github.com/RobThePCGuy/Claude-Patent-Creator
+discovered_at: '2026-06-25T17:12:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

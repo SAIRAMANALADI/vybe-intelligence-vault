@@ -1,13 +1,27 @@
 ---
-title: "dwnjuguna/AI-Stack-Doctor"
-category: "Tooling"
-tech_stack: ["Python", "Flask", "SQLite", "Anthropic API (Claude)", "HTML/CSS", "JavaScript", "Agentic AI", "MCP (Model Context Protocol)", "DuckDuckGo/Google/Bing Search APIs"]
+title: dwnjuguna/AI-Stack-Doctor
+category: world/public/vault/daily-digests/2026-07-12
+tech_stack:
+- Python
+- Flask
+- SQLite
+- Anthropic API (Claude)
+- HTML/CSS
+- JavaScript
+- Agentic AI
+- MCP (Model Context Protocol)
+- DuckDuckGo/Google/Bing Search APIs
 quality_score: 9
 rag_relevance: 8
-tags: ["AI infrastructure audit", "compliance and governance", "ROI analysis", "peer benchmarking", "open-source tooling"]
-source: "https://github.com/dwnjuguna/AI-Stack-Doctor"
-discovered_at: "2026-07-10T22:00:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI infrastructure audit
+- compliance and governance
+- ROI analysis
+- peer benchmarking
+- open-source tooling
+source: https://github.com/dwnjuguna/AI-Stack-Doctor
+discovered_at: '2026-07-10T22:00:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

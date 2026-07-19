@@ -1,13 +1,24 @@
 ---
-title: "offthehook-implication870/bambu-printer-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "MQTT", "Bambu Studio", "Windows", "3D Printing"]
+title: offthehook-implication870/bambu-printer-mcp
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- MQTT
+- Bambu Studio
+- Windows
+- 3D Printing
 quality_score: 7
 rag_relevance: 6
-tags: ["3D printing automation", "Bambu Lab integration", "MCP server", "printer control", "workflow tool"]
-source: "https://github.com/offthehook-implication870/bambu-printer-mcp"
-discovered_at: "2026-07-08T22:15:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- 3D printing automation
+- Bambu Lab integration
+- MCP server
+- printer control
+- workflow tool
+source: https://github.com/offthehook-implication870/bambu-printer-mcp
+discovered_at: '2026-07-08T22:15:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "the-priest/Basilisk"
-category: "Tooling"
-tech_stack: ["Python", "GTK4", "Linux (X11/Wayland)", "LLM API (SiliconFlow, Groq)", "Shell scripting", "Security tools (sqlmap, nmap, etc.)", "Tamper-evident ledger (hashing, signatures)"]
+title: the-priest/Basilisk
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- GTK4
+- Linux (X11/Wayland)
+- LLM API (SiliconFlow, Groq)
+- Shell scripting
+- Security tools (sqlmap, nmap, etc.)
+- Tamper-evident ledger (hashing, signatures)
 quality_score: 9
 rag_relevance: 7
-tags: ["pentesting", "autonomous agent", "LLM security", "evidence ledger", "offensive security"]
-source: "https://github.com/the-priest/Basilisk"
-discovered_at: "2026-07-06T23:02:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- pentesting
+- autonomous agent
+- LLM security
+- evidence ledger
+- offensive security
+source: https://github.com/the-priest/Basilisk
+discovered_at: '2026-07-06T23:02:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "machulav/accountant24"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Electron", "hledger", "LLMs (local or cloud)", "Ollama", "pi (agent framework)", "Git"]
+title: machulav/accountant24
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Electron
+- hledger
+- LLMs (local or cloud)
+- Ollama
+- pi (agent framework)
+- Git
 quality_score: 9
 rag_relevance: 7
-tags: ["personal finance", "AI agent", "local-first", "double-entry accounting", "natural language processing"]
-source: "https://github.com/machulav/accountant24"
-discovered_at: "2026-07-08T12:24:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personal finance
+- AI agent
+- local-first
+- double-entry accounting
+- natural language processing
+source: https://github.com/machulav/accountant24
+discovered_at: '2026-07-08T12:24:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

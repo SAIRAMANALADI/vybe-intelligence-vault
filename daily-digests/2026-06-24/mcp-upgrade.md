@@ -1,13 +1,21 @@
 ---
-title: "Ramosagustinaolivia23/mcp-upgrade"
-category: "Tooling"
-tech_stack: ["Go", "Windows API", "Model Context Protocol (MCP)"]
+title: Ramosagustinaolivia23/mcp-upgrade
+category: daily-digests/2026-06-24
+tech_stack:
+- Go
+- Windows API
+- Model Context Protocol (MCP)
 quality_score: 7
 rag_relevance: 6
-tags: ["MCP", "AI tool updates", "automated maintenance", "Windows utility", "AI coding assistants"]
-source: "https://github.com/Ramosagustinaolivia23/mcp-upgrade"
-discovered_at: "2026-06-24T22:19:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- AI tool updates
+- automated maintenance
+- Windows utility
+- AI coding assistants
+source: https://github.com/Ramosagustinaolivia23/mcp-upgrade
+discovered_at: '2026-06-24T22:19:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

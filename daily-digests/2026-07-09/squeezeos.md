@@ -1,13 +1,31 @@
 ---
-title: "Timwal78/SqueezeOS"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "MCP (Model Context Protocol)", "XRPL (XRP Ledger)", "RLUSD (Stablecoin)", "Docker", "Render (Hosting)", "Tradier (Options Data)", "Alpaca (Market Data)", "Polygon (Market Data)", "Alpha Vantage (Market Data)", "JWT (Authentication)", "HMAC-SHA256 (Security)"]
+title: Timwal78/SqueezeOS
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- FastAPI
+- MCP (Model Context Protocol)
+- XRPL (XRP Ledger)
+- RLUSD (Stablecoin)
+- Docker
+- Render (Hosting)
+- Tradier (Options Data)
+- Alpaca (Market Data)
+- Polygon (Market Data)
+- Alpha Vantage (Market Data)
+- JWT (Authentication)
+- HMAC-SHA256 (Security)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI trading intelligence", "MCP server", "pay-per-call", "XRPL payments", "market signals"]
-source: "https://github.com/Timwal78/SqueezeOS"
-discovered_at: "2026-07-09T17:18:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI trading intelligence
+- MCP server
+- pay-per-call
+- XRPL payments
+- market signals
+source: https://github.com/Timwal78/SqueezeOS
+discovered_at: '2026-07-09T17:18:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

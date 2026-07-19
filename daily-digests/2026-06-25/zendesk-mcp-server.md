@@ -1,13 +1,26 @@
 ---
-title: "fruggr/zendesk-mcp-server"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "@modelcontextprotocol/sdk", "Zendesk Support API", "Zendesk Help Center API", "OAuth 2.1 PKCE", "Zod", "npm"]
+title: fruggr/zendesk-mcp-server
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- '@modelcontextprotocol/sdk'
+- Zendesk Support API
+- Zendesk Help Center API
+- OAuth 2.1 PKCE
+- Zod
+- npm
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Zendesk integration", "OAuth authentication", "AI assistant tooling", "Help Center management"]
-source: "https://github.com/fruggr/zendesk-mcp-server"
-discovered_at: "2026-06-25T17:08:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Zendesk integration
+- OAuth authentication
+- AI assistant tooling
+- Help Center management
+source: https://github.com/fruggr/zendesk-mcp-server
+discovered_at: '2026-06-25T17:08:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

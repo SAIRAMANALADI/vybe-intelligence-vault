@@ -1,13 +1,24 @@
 ---
-title: "zenitheditor/zenith"
-category: "Tooling"
-tech_stack: ["Rust", "KDL (KDL Document Language)", "Model Context Protocol (MCP)", "npm", "GitHub Actions", "Cargo"]
+title: zenitheditor/zenith
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Rust
+- KDL (KDL Document Language)
+- Model Context Protocol (MCP)
+- npm
+- GitHub Actions
+- Cargo
 quality_score: 9
 rag_relevance: 8
-tags: ["design automation", "AI agent tooling", "deterministic rendering", "plain-text design", "document format"]
-source: "https://github.com/zenitheditor/zenith"
-discovered_at: "2026-07-08T15:16:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- design automation
+- AI agent tooling
+- deterministic rendering
+- plain-text design
+- document format
+source: https://github.com/zenitheditor/zenith
+discovered_at: '2026-07-08T15:16:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

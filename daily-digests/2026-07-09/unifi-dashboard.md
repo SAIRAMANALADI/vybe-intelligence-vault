@@ -1,13 +1,30 @@
 ---
-title: "MaddogWarner/unifi-dashboard"
-category: "Tooling"
-tech_stack: ["Docker", "Docker Compose", "FastAPI", "React", "PostgreSQL", "Python", "TypeScript", "Nginx", "nmap", "MCP (Model Context Protocol)", "SQLAlchemy", "Vite"]
+title: MaddogWarner/unifi-dashboard
+category: daily-digests/2026-07-09
+tech_stack:
+- Docker
+- Docker Compose
+- FastAPI
+- React
+- PostgreSQL
+- Python
+- TypeScript
+- Nginx
+- nmap
+- MCP (Model Context Protocol)
+- SQLAlchemy
+- Vite
 quality_score: 9
 rag_relevance: 7
-tags: ["network security", "firewall monitoring", "UniFi integration", "MCP server", "self-hosted"]
-source: "https://github.com/MaddogWarner/unifi-dashboard"
-discovered_at: "2026-07-09T11:53:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- network security
+- firewall monitoring
+- UniFi integration
+- MCP server
+- self-hosted
+source: https://github.com/MaddogWarner/unifi-dashboard
+discovered_at: '2026-07-09T11:53:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

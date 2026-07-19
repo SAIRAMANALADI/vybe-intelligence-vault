@@ -1,13 +1,28 @@
 ---
-title: "brianonbased-dev/HoloScript"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "WebGPU", "Three.js", "Rust", "Node.js", "MCP (Model Context Protocol)", "PostgreSQL", "WebAssembly", "React", "GraphRAG"]
+title: brianonbased-dev/HoloScript
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- WebGPU
+- Three.js
+- Rust
+- Node.js
+- MCP (Model Context Protocol)
+- PostgreSQL
+- WebAssembly
+- React
+- GraphRAG
 quality_score: 9
 rag_relevance: 8
-tags: ["no-code", "multi-platform", "AI agent integration", "semantic computing", "compiler"]
-source: "https://github.com/brianonbased-dev/HoloScript"
-discovered_at: "2026-06-23T19:14:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- no-code
+- multi-platform
+- AI agent integration
+- semantic computing
+- compiler
+source: https://github.com/brianonbased-dev/HoloScript
+discovered_at: '2026-06-23T19:14:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

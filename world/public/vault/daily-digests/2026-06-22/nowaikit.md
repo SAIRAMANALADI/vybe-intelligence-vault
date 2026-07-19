@@ -1,13 +1,22 @@
 ---
-title: "wishmikaovindu-stack/nowaikit"
-category: "Tooling"
-tech_stack: ["TypeScript", "ServiceNow API", "AI Model APIs (Claude, ChatGPT, Gemini, Cursor)", "Windows Desktop Application"]
+title: wishmikaovindu-stack/nowaikit
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- ServiceNow API
+- AI Model APIs (Claude, ChatGPT, Gemini, Cursor)
+- Windows Desktop Application
 quality_score: 6
 rag_relevance: 5
-tags: ["ServiceNow", "AI Automation", "ITSM", "Workflow Integration", "Desktop Toolkit"]
-source: "https://github.com/wishmikaovindu-stack/nowaikit"
-discovered_at: "2026-06-22T18:54:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- ServiceNow
+- AI Automation
+- ITSM
+- Workflow Integration
+- Desktop Toolkit
+source: https://github.com/wishmikaovindu-stack/nowaikit
+discovered_at: '2026-06-22T18:54:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

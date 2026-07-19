@@ -1,13 +1,24 @@
 ---
-title: "Notchly/Notchly"
-category: "Tooling"
-tech_stack: ["SwiftUI", "Swift", "macOS SDK", "Sparkle", "SkyLightWindow", "mediaremote-adapter"]
+title: Notchly/Notchly
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- SwiftUI
+- Swift
+- macOS SDK
+- Sparkle
+- SkyLightWindow
+- mediaremote-adapter
 quality_score: 9
 rag_relevance: 6
-tags: ["macOS utility", "Dynamic Island", "AI notifications", "media controls", "privacy-friendly"]
-source: "https://github.com/Notchly/Notchly"
-discovered_at: "2026-06-23T21:29:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- macOS utility
+- Dynamic Island
+- AI notifications
+- media controls
+- privacy-friendly
+source: https://github.com/Notchly/Notchly
+discovered_at: '2026-06-23T21:29:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

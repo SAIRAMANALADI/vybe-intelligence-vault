@@ -1,13 +1,23 @@
 ---
-title: "junter1989k-ai/usa-payments-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Stripe API", "Model Context Protocol (MCP)", "HTTP/JSON-RPC"]
+title: junter1989k-ai/usa-payments-mcp
+category: daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- Node.js
+- Stripe API
+- Model Context Protocol (MCP)
+- HTTP/JSON-RPC
 quality_score: 7
 rag_relevance: 8
-tags: ["payments", "Stripe", "MCP", "AI agents", "checkout"]
-source: "https://github.com/junter1989k-ai/usa-payments-mcp"
-discovered_at: "2026-07-08T19:16:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- payments
+- Stripe
+- MCP
+- AI agents
+- checkout
+source: https://github.com/junter1989k-ai/usa-payments-mcp
+discovered_at: '2026-07-08T19:16:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

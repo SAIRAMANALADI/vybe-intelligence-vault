@@ -1,13 +1,24 @@
 ---
-title: "YBSbarker/barker-stablecoin-skills"
-category: "Agent Framework"
-tech_stack: ["Model Context Protocol (MCP)", "JavaScript/TypeScript", "x402 Payment Protocol", "DeFi Protocols (ERC-4626)", "HTTP/Streamable Transport", "Claude Code Integration"]
+title: YBSbarker/barker-stablecoin-skills
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- Model Context Protocol (MCP)
+- JavaScript/TypeScript
+- x402 Payment Protocol
+- DeFi Protocols (ERC-4626)
+- HTTP/Streamable Transport
+- Claude Code Integration
 quality_score: 9
 rag_relevance: 10
-tags: ["stablecoin yield", "AI agents", "MCP server", "non-custodial execution", "DeFi data"]
-source: "https://github.com/YBSbarker/barker-stablecoin-skills"
-discovered_at: "2026-07-17T08:07:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- stablecoin yield
+- AI agents
+- MCP server
+- non-custodial execution
+- DeFi data
+source: https://github.com/YBSbarker/barker-stablecoin-skills
+discovered_at: '2026-07-17T08:07:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "ayush-s-tomar/agentloop"
-category: "Agent Framework"
-tech_stack: ["LangGraph", "Groq", "Tavily API", "Streamlit", "SQLite", "Python 3.11+"]
+title: ayush-s-tomar/agentloop
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- LangGraph
+- Groq
+- Tavily API
+- Streamlit
+- SQLite
+- Python 3.11+
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous agents", "multi-step reasoning", "tool-use", "long-term memory", "research automation"]
-source: "https://github.com/ayush-s-tomar/agentloop"
-discovered_at: "2026-07-16T12:22:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- multi-step reasoning
+- tool-use
+- long-term memory
+- research automation
+source: https://github.com/ayush-s-tomar/agentloop
+discovered_at: '2026-07-16T12:22:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

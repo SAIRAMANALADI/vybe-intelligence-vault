@@ -1,13 +1,22 @@
 ---
-title: "elbenhawy007/Kimi-Case-Battle-For-Pricing"
-category: "Tooling"
-tech_stack: ["Python", "Electron", "JavaScript", "HTML/CSS"]
+title: elbenhawy007/Kimi-Case-Battle-For-Pricing
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- Electron
+- JavaScript
+- HTML/CSS
 quality_score: 5
 rag_relevance: 4
-tags: ["AI collaboration", "pricing strategies", "interactive dialogue", "ethical AI", "desktop application"]
-source: "https://github.com/elbenhawy007/Kimi-Case-Battle-For-Pricing"
-discovered_at: "2026-07-09T00:05:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI collaboration
+- pricing strategies
+- interactive dialogue
+- ethical AI
+- desktop application
+source: https://github.com/elbenhawy007/Kimi-Case-Battle-For-Pricing
+discovered_at: '2026-07-09T00:05:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

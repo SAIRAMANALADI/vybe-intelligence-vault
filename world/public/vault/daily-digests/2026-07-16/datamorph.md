@@ -1,13 +1,27 @@
 ---
-title: "Coding-Dev-Tools/datamorph"
-category: "Tooling"
-tech_stack: ["Python", "CLI", "Parquet", "Avro", "Protobuf", "CSV", "JSON", "YAML", "Schema Validation"]
+title: Coding-Dev-Tools/datamorph
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- Python
+- CLI
+- Parquet
+- Avro
+- Protobuf
+- CSV
+- JSON
+- YAML
+- Schema Validation
 quality_score: 9
 rag_relevance: 7
-tags: ["data conversion", "streaming", "schema validation", "large files", "batch processing"]
-source: "https://github.com/Coding-Dev-Tools/datamorph"
-discovered_at: "2026-07-14T23:53:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- data conversion
+- streaming
+- schema validation
+- large files
+- batch processing
+source: https://github.com/Coding-Dev-Tools/datamorph
+discovered_at: '2026-07-14T23:53:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

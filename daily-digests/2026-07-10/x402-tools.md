@@ -1,13 +1,25 @@
 ---
-title: "fablerlabs/x402-tools"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "x402 Protocol", "MCP (Model Context Protocol)", "EVM (Ethereum Virtual Machine)", "USDC (Base)", "Claude Code/Desktop"]
+title: fablerlabs/x402-tools
+category: daily-digests/2026-07-10
+tech_stack:
+- JavaScript
+- Node.js
+- x402 Protocol
+- MCP (Model Context Protocol)
+- EVM (Ethereum Virtual Machine)
+- USDC (Base)
+- Claude Code/Desktop
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "x402 protocol", "secret scanning", "agent auditing", "payment-per-call"]
-source: "https://github.com/fablerlabs/x402-tools"
-discovered_at: "2026-07-10T06:32:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- x402 protocol
+- secret scanning
+- agent auditing
+- payment-per-call
+source: https://github.com/fablerlabs/x402-tools
+discovered_at: '2026-07-10T06:32:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,21 @@
 ---
-title: "alaas4989/cc-update-all"
-category: "Tooling"
-tech_stack: ["JavaScript", "Windows Executable", "CLI"]
+title: alaas4989/cc-update-all
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- Windows Executable
+- CLI
 quality_score: 7
 rag_relevance: 6
-tags: ["automation", "Claude Code", "MCP servers", "bulk updates", "developer tools"]
-source: "https://github.com/alaas4989/cc-update-all"
-discovered_at: "2026-07-08T22:15:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- automation
+- Claude Code
+- MCP servers
+- bulk updates
+- developer tools
+source: https://github.com/alaas4989/cc-update-all
+discovered_at: '2026-07-08T22:15:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

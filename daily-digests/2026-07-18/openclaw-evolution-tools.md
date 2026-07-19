@@ -1,13 +1,25 @@
 ---
-title: "xli498/openclaw-evolution-tools"
-category: "Tooling"
-tech_stack: ["SQLite", "Node.js", "Python", "GEP (Gene Expression Programming)", "TypeScript", "Git", "NPM"]
+title: xli498/openclaw-evolution-tools
+category: daily-digests/2026-07-18
+tech_stack:
+- SQLite
+- Node.js
+- Python
+- GEP (Gene Expression Programming)
+- TypeScript
+- Git
+- NPM
 quality_score: 7
 rag_relevance: 8
-tags: ["memory_management", "self_evolution", "agent_learning", "modular_tools", "hierarchical_knowledge"]
-source: "https://github.com/xli498/openclaw-evolution-tools"
-discovered_at: "2026-07-11T05:39:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory_management
+- self_evolution
+- agent_learning
+- modular_tools
+- hierarchical_knowledge
+source: https://github.com/xli498/openclaw-evolution-tools
+discovered_at: '2026-07-11T05:39:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

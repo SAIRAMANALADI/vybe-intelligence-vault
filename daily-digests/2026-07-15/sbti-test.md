@@ -1,13 +1,22 @@
 ---
-title: "pansexualanoplura2252/SBTI-test"
-category: "Tooling"
-tech_stack: ["HTML", "JavaScript", "CSS", "Web Browser"]
+title: pansexualanoplura2252/SBTI-test
+category: daily-digests/2026-07-15
+tech_stack:
+- HTML
+- JavaScript
+- CSS
+- Web Browser
 quality_score: 5
 rag_relevance: 3
-tags: ["personality assessment", "offline tool", "local execution", "web-based", "data privacy"]
-source: "https://github.com/pansexualanoplura2252/SBTI-test"
-discovered_at: "2026-07-11T11:03:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personality assessment
+- offline tool
+- local execution
+- web-based
+- data privacy
+source: https://github.com/pansexualanoplura2252/SBTI-test
+discovered_at: '2026-07-11T11:03:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

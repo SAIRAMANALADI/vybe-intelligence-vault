@@ -1,13 +1,25 @@
 ---
-title: "lqb464/AgenThink"
-category: "Agent Framework"
-tech_stack: ["Python", "LangGraph", "FastAPI", "SQLite", "BM25", "Streaming", "Docker"]
+title: lqb464/AgenThink
+category: daily-digests/2026-07-18
+tech_stack:
+- Python
+- LangGraph
+- FastAPI
+- SQLite
+- BM25
+- Streaming
+- Docker
 quality_score: 8
 rag_relevance: 9
-tags: ["AI agents", "multi-step reasoning", "RAG", "tool integration", "production-ready"]
-source: "https://github.com/lqb464/AgenThink"
-discovered_at: "2026-07-13T13:22:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- multi-step reasoning
+- RAG
+- tool integration
+- production-ready
+source: https://github.com/lqb464/AgenThink
+discovered_at: '2026-07-13T13:22:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

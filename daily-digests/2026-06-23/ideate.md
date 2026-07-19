@@ -1,13 +1,28 @@
 ---
-title: "paultyng/ideate"
-category: "Orchestrator"
-tech_stack: ["Go", "Wails", "React", "TypeScript", "Node.js", "Protocol Buffers (buf)", "MCP (Model Context Protocol)", "Git Worktrees", "YAML", "Markdown"]
+title: paultyng/ideate
+category: daily-digests/2026-06-23
+tech_stack:
+- Go
+- Wails
+- React
+- TypeScript
+- Node.js
+- Protocol Buffers (buf)
+- MCP (Model Context Protocol)
+- Git Worktrees
+- YAML
+- Markdown
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent orchestration", "local-first development", "worktree management", "MCP integration", "idea tracking"]
-source: "https://github.com/paultyng/ideate"
-discovered_at: "2026-06-23T13:41:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent orchestration
+- local-first development
+- worktree management
+- MCP integration
+- idea tracking
+source: https://github.com/paultyng/ideate
+discovered_at: '2026-06-23T13:41:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

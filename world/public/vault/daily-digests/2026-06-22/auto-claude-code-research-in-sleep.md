@@ -1,13 +1,26 @@
 ---
-title: "wanshuiyin/Auto-claude-code-research-in-sleep"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude Code", "Codex CLI", "MCP (Model Context Protocol)", "HTML/CSS", "JavaScript", "Bash", "GitHub Actions"]
+title: wanshuiyin/Auto-claude-code-research-in-sleep
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- Claude Code
+- Codex CLI
+- MCP (Model Context Protocol)
+- HTML/CSS
+- JavaScript
+- Bash
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous research", "cross-model review", "LLM agents", "experiment automation", "multimodal generation"]
-source: "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
-discovered_at: "2026-06-22T18:15:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous research
+- cross-model review
+- LLM agents
+- experiment automation
+- multimodal generation
+source: https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep
+discovered_at: '2026-06-22T18:15:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

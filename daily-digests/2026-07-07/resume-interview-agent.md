@@ -1,13 +1,23 @@
 ---
-title: "Benedictine-brachiocephalicvein220/resume-interview-agent"
-category: "Tooling"
-tech_stack: ["TypeScript", "Next.js", "Tailwind CSS", "OpenAI/OpenRouter API", "LLM-based tools"]
+title: Benedictine-brachiocephalicvein220/resume-interview-agent
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Next.js
+- Tailwind CSS
+- OpenAI/OpenRouter API
+- LLM-based tools
 quality_score: 6
 rag_relevance: 7
-tags: ["interview preparation", "resume analysis", "mock interviews", "AI feedback", "career development"]
-source: "https://github.com/Benedictine-brachiocephalicvein220/resume-interview-agent"
-discovered_at: "2026-07-07T23:55:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- interview preparation
+- resume analysis
+- mock interviews
+- AI feedback
+- career development
+source: https://github.com/Benedictine-brachiocephalicvein220/resume-interview-agent
+discovered_at: '2026-07-07T23:55:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

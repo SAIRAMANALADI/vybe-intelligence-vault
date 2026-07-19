@@ -1,13 +1,29 @@
 ---
-title: "K-Dense-AI/k-dense-byok"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "React", "Electron", "OpenRouter API", "Modal (remote compute)", "Ollama (local models)", "MCP (Model Context Protocol)", "LaTeX", "Git", "Docker"]
+title: K-Dense-AI/k-dense-byok
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- Electron
+- OpenRouter API
+- Modal (remote compute)
+- Ollama (local models)
+- MCP (Model Context Protocol)
+- LaTeX
+- Git
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["AI research assistant", "local-first", "scientific workflows", "BYOK", "agentic AI"]
-source: "https://github.com/K-Dense-AI/k-dense-byok"
-discovered_at: "2026-07-08T12:25:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI research assistant
+- local-first
+- scientific workflows
+- BYOK
+- agentic AI
+source: https://github.com/K-Dense-AI/k-dense-byok
+discovered_at: '2026-07-08T12:25:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "dewiaratna/pypi_search"
-category: "Tooling"
-tech_stack: ["Python", "PyPI API", "Local Caching", "GUI Framework (unspecified)", "Cross-platform (Windows/macOS/Linux)"]
+title: dewiaratna/pypi_search
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- PyPI API
+- Local Caching
+- GUI Framework (unspecified)
+- Cross-platform (Windows/macOS/Linux)
 quality_score: 6
 rag_relevance: 5
-tags: ["package discovery", "offline search", "PyPI cache", "Python tooling", "local metadata"]
-source: "https://github.com/dewiaratna/pypi_search"
-discovered_at: "2026-06-24T16:21:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- package discovery
+- offline search
+- PyPI cache
+- Python tooling
+- local metadata
+source: https://github.com/dewiaratna/pypi_search
+discovered_at: '2026-06-24T16:21:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

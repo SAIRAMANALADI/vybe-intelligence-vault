@@ -1,13 +1,32 @@
 ---
-title: "own2pwn-fr/a2pwn"
-category: "Orchestrator"
-tech_stack: ["Python", "LangGraph", "LangChain", "Claude Code SDK", "Burpwn", "Nuclei", "Katana", "Hydra", "Nmap", "FFUF", "SQLMap", "Subfinder", "Httpx", "Webcrack"]
+title: own2pwn-fr/a2pwn
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- Python
+- LangGraph
+- LangChain
+- Claude Code SDK
+- Burpwn
+- Nuclei
+- Katana
+- Hydra
+- Nmap
+- FFUF
+- SQLMap
+- Subfinder
+- Httpx
+- Webcrack
 quality_score: 8
 rag_relevance: 7
-tags: ["autonomous pentesting", "adversarial verification", "sandboxed traffic", "zero false positives", "LangGraph"]
-source: "https://github.com/own2pwn-fr/a2pwn"
-discovered_at: "2026-07-17T10:46:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous pentesting
+- adversarial verification
+- sandboxed traffic
+- zero false positives
+- LangGraph
+source: https://github.com/own2pwn-fr/a2pwn
+discovered_at: '2026-07-17T10:46:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

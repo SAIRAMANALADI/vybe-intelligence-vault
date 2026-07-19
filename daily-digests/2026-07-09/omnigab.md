@@ -1,13 +1,31 @@
 ---
-title: "duckcoop/omnigab"
-category: "Agent Framework"
-tech_stack: ["Python", "llama-cpp-python", "Qwen2.5 (GGUF)", "FAISS", "sentence-transformers", "PyMuPDF", "DuckDuckGo (ddgs)", "FastAPI", "Uvicorn", "SQLite", "tkinter", "CUDA 12.x", "Playwright"]
+title: duckcoop/omnigab
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- llama-cpp-python
+- Qwen2.5 (GGUF)
+- FAISS
+- sentence-transformers
+- PyMuPDF
+- DuckDuckGo (ddgs)
+- FastAPI
+- Uvicorn
+- SQLite
+- tkinter
+- CUDA 12.x
+- Playwright
 quality_score: 9
 rag_relevance: 10
-tags: ["Local AI", "RAG", "Agentic Workflow", "Privacy-First", "Offline LLM"]
-source: "https://github.com/duckcoop/omnigab"
-discovered_at: "2026-07-09T21:18:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Local AI
+- RAG
+- Agentic Workflow
+- Privacy-First
+- Offline LLM
+source: https://github.com/duckcoop/omnigab
+discovered_at: '2026-07-09T21:18:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

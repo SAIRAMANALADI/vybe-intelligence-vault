@@ -1,13 +1,23 @@
 ---
-title: "Saliksha6568/hermes-war-room"
-category: "Orchestrator"
-tech_stack: ["Python", "JavaScript", "TypeScript", "React", "Docker"]
+title: Saliksha6568/hermes-war-room
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Python
+- JavaScript
+- TypeScript
+- React
+- Docker
 quality_score: 3
 rag_relevance: 6
-tags: ["agent management", "orchestration", "dashboard", "Hermes agents", "task delegation"]
-source: "https://github.com/Saliksha6568/hermes-war-room"
-discovered_at: "2026-07-06T19:48:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent management
+- orchestration
+- dashboard
+- Hermes agents
+- task delegation
+source: https://github.com/Saliksha6568/hermes-war-room
+discovered_at: '2026-07-06T19:48:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

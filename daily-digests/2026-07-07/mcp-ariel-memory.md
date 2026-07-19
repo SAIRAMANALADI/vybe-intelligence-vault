@@ -1,13 +1,29 @@
 ---
-title: "Cipher208/mcp-ariel-memory"
-category: "Orchestrator"
-tech_stack: ["Python", "FastMCP", "SQLite", "FTS5", "libsodium", "Docker", "Prometheus", "MkDocs", "pytest", "aiosqlite", "argparse"]
+title: Cipher208/mcp-ariel-memory
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- FastMCP
+- SQLite
+- FTS5
+- libsodium
+- Docker
+- Prometheus
+- MkDocs
+- pytest
+- aiosqlite
+- argparse
 quality_score: 9
 rag_relevance: 10
-tags: ["memory", "MCP server", "RAG", "knowledge graphs", "episodic recall"]
-source: "https://github.com/Cipher208/mcp-ariel-memory"
-discovered_at: "2026-07-07T22:08:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory
+- MCP server
+- RAG
+- knowledge graphs
+- episodic recall
+source: https://github.com/Cipher208/mcp-ariel-memory
+discovered_at: '2026-07-07T22:08:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

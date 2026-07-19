@@ -1,13 +1,25 @@
 ---
-title: "Agents365-ai/dsclaude"
-category: "Tooling"
-tech_stack: ["Bash", "PowerShell", "Python", "JavaScript", "Shell Scripting", "API Integration", "Environment Variables"]
+title: Agents365-ai/dsclaude
+category: daily-digests/2026-07-10
+tech_stack:
+- Bash
+- PowerShell
+- Python
+- JavaScript
+- Shell Scripting
+- API Integration
+- Environment Variables
 quality_score: 9
 rag_relevance: 8
-tags: ["Claude Code", "LLM Backend Integration", "Third-Party Model Support", "Anthropic API Compatibility", "Multi-Platform Launchers"]
-source: "https://github.com/Agents365-ai/dsclaude"
-discovered_at: "2026-07-10T06:32:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- LLM Backend Integration
+- Third-Party Model Support
+- Anthropic API Compatibility
+- Multi-Platform Launchers
+source: https://github.com/Agents365-ai/dsclaude
+discovered_at: '2026-07-10T06:32:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

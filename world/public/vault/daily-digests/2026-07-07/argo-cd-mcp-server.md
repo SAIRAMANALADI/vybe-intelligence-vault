@@ -1,13 +1,28 @@
 ---
-title: "kamolc4/argo-cd-mcp-server"
-category: "Tooling"
-tech_stack: ["TypeScript", "Express", "Model Context Protocol (MCP)", "Argo CD REST API", "Jest", "GitHub Actions", "Pino (logging)", "Zod (validation)", "Bearer Token Authentication", "Rate Limiting"]
+title: kamolc4/argo-cd-mcp-server
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Express
+- Model Context Protocol (MCP)
+- Argo CD REST API
+- Jest
+- GitHub Actions
+- Pino (logging)
+- Zod (validation)
+- Bearer Token Authentication
+- Rate Limiting
 quality_score: 9
 rag_relevance: 8
-tags: ["GitOps", "Kubernetes", "MCP Server", "Argo CD", "AI Integration"]
-source: "https://github.com/kamolc4/argo-cd-mcp-server"
-discovered_at: "2026-07-07T22:09:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- GitOps
+- Kubernetes
+- MCP Server
+- Argo CD
+- AI Integration
+source: https://github.com/kamolc4/argo-cd-mcp-server
+discovered_at: '2026-07-07T22:09:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

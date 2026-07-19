@@ -1,13 +1,27 @@
 ---
-title: "konjoai/lopi"
-category: "Orchestrator"
-tech_stack: ["Rust", "Tokio", "SQLite", "ratatui", "axum", "teloxide", "Twilio", "Claude Code", "Git"]
+title: konjoai/lopi
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Rust
+- Tokio
+- SQLite
+- ratatui
+- axum
+- teloxide
+- Twilio
+- Claude Code
+- Git
 quality_score: 9
 rag_relevance: 9
-tags: ["agent orchestration", "Claude Code", "Rust", "concurrent execution", "git isolation"]
-source: "https://github.com/konjoai/lopi"
-discovered_at: "2026-06-23T13:41:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent orchestration
+- Claude Code
+- Rust
+- concurrent execution
+- git isolation
+source: https://github.com/konjoai/lopi
+discovered_at: '2026-06-23T13:41:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

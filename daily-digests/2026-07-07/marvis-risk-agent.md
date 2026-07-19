@@ -1,13 +1,25 @@
 ---
-title: "eddyzzl/marvis-risk-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Java (for PMML scoring)", "Node.js (frontend syntax checks)", "Pytest", "Ruff", "Git"]
+title: eddyzzl/marvis-risk-agent
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- FastAPI
+- Java (for PMML scoring)
+- Node.js (frontend syntax checks)
+- Pytest
+- Ruff
+- Git
 quality_score: 9
 rag_relevance: 7
-tags: ["credit risk", "agent framework", "local-first", "workflow automation", "audit trail"]
-source: "https://github.com/eddyzzl/marvis-risk-agent"
-discovered_at: "2026-07-07T06:42:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- credit risk
+- agent framework
+- local-first
+- workflow automation
+- audit trail
+source: https://github.com/eddyzzl/marvis-risk-agent
+discovered_at: '2026-07-07T06:42:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

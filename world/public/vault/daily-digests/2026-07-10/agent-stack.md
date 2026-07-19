@@ -1,13 +1,32 @@
 ---
-title: "Syati/agent-stack"
-category: "Agent Framework"
-tech_stack: ["Docker", "Zsh", "mise", "Claude Code", "Codex", "RTK", "APM", "entire", "git-wt", "sheldon", "GitHub CLI", "ripgrep", "agent-browser", "1Password CLI (op)"]
+title: Syati/agent-stack
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Docker
+- Zsh
+- mise
+- Claude Code
+- Codex
+- RTK
+- APM
+- entire
+- git-wt
+- sheldon
+- GitHub CLI
+- ripgrep
+- agent-browser
+- 1Password CLI (op)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent development", "Docker container", "multi-tool integration", "persistent state", "shell launcher"]
-source: "https://github.com/Syati/agent-stack"
-discovered_at: "2026-07-10T06:31:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent development
+- Docker container
+- multi-tool integration
+- persistent state
+- shell launcher
+source: https://github.com/Syati/agent-stack
+discovered_at: '2026-07-10T06:31:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

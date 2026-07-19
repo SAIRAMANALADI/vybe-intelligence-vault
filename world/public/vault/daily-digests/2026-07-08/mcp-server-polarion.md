@@ -1,13 +1,24 @@
 ---
-title: "devemberx/mcp-server-polarion"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Polarion REST API", "AsyncIO", "uv (Python package manager)", "PyPI"]
+title: devemberx/mcp-server-polarion
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Polarion REST API
+- AsyncIO
+- uv (Python package manager)
+- PyPI
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Polarion ALM", "AI integration", "Document management", "Work item automation"]
-source: "https://github.com/devemberx/mcp-server-polarion"
-discovered_at: "2026-07-08T17:26:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Polarion ALM
+- AI integration
+- Document management
+- Work item automation
+source: https://github.com/devemberx/mcp-server-polarion
+discovered_at: '2026-07-08T17:26:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

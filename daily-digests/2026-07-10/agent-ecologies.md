@@ -1,13 +1,24 @@
 ---
-title: "israriqbal/agent-ecologies"
-category: "Agent Framework"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Large Language Models (LLMs) - DeepSeek, OpenAI, Claude", "JavaScript/HTML (for dashboard)", "JSON (for configuration and skills)", "Web Browsers (for visualization)"]
+title: israriqbal/agent-ecologies
+category: daily-digests/2026-07-10
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Large Language Models (LLMs) - DeepSeek, OpenAI, Claude
+- JavaScript/HTML (for dashboard)
+- JSON (for configuration and skills)
+- Web Browsers (for visualization)
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent systems", "autonomous NPCs", "LLM orchestration", "emergent behavior", "simulation"]
-source: "https://github.com/israriqbal/agent-ecologies"
-discovered_at: "2026-07-10T06:52:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- autonomous NPCs
+- LLM orchestration
+- emergent behavior
+- simulation
+source: https://github.com/israriqbal/agent-ecologies
+discovered_at: '2026-07-10T06:52:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

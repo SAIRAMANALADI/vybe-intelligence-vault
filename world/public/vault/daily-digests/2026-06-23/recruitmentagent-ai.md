@@ -1,13 +1,25 @@
 ---
-title: "hari7261/RecruitmentAgent-AI"
-category: "Tooling"
-tech_stack: ["Python", "Streamlit", "Google Gemini API", "Gmail SMTP", "Zoom API", "PyPDF2", "Agno Framework"]
+title: hari7261/RecruitmentAgent-AI
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Streamlit
+- Google Gemini API
+- Gmail SMTP
+- Zoom API
+- PyPDF2
+- Agno Framework
 quality_score: 9
 rag_relevance: 6
-tags: ["recruitment automation", "AI resume analysis", "video interview scheduling", "email automation", "engineering hiring"]
-source: "https://github.com/hari7261/RecruitmentAgent-AI"
-discovered_at: "2026-06-23T10:33:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- recruitment automation
+- AI resume analysis
+- video interview scheduling
+- email automation
+- engineering hiring
+source: https://github.com/hari7261/RecruitmentAgent-AI
+discovered_at: '2026-06-23T10:33:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

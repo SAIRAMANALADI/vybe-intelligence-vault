@@ -1,13 +1,32 @@
 ---
-title: "vladyrap/supply-chain-ams-agent"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Fastify", "PostgreSQL", "pgvector", "Redis", "Gemini 2.5 Flash", "Twilio Voice", "Whisper (STT)", "Docker Compose", "Prometheus", "Grafana", "ELK Stack", "Next.js (frontend)"]
+title: vladyrap/supply-chain-ams-agent
+category: daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- Fastify
+- PostgreSQL
+- pgvector
+- Redis
+- Gemini 2.5 Flash
+- Twilio Voice
+- Whisper (STT)
+- Docker Compose
+- Prometheus
+- Grafana
+- ELK Stack
+- Next.js (frontend)
 quality_score: 9
 rag_relevance: 8
-tags: ["SAP Supply Chain", "LLM Agent", "RAG", "Multi-modal AI", "Observability"]
-source: "https://github.com/vladyrap/supply-chain-ams-agent"
-discovered_at: "2026-07-09T21:18:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- SAP Supply Chain
+- LLM Agent
+- RAG
+- Multi-modal AI
+- Observability
+source: https://github.com/vladyrap/supply-chain-ams-agent
+discovered_at: '2026-07-09T21:18:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

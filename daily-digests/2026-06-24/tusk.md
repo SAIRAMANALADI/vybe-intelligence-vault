@@ -1,13 +1,25 @@
 ---
-title: "germanamz/tusk"
-category: "Orchestrator"
-tech_stack: ["Go", "SQLite", "Ollama", "Markdown", "MCP (Model Context Protocol)", "TOML", "fsnotify"]
+title: germanamz/tusk
+category: daily-digests/2026-06-24
+tech_stack:
+- Go
+- SQLite
+- Ollama
+- Markdown
+- MCP (Model Context Protocol)
+- TOML
+- fsnotify
 quality_score: 9
 rag_relevance: 9
-tags: ["local-first", "markdown indexing", "semantic search", "agent integration", "schema validation"]
-source: "https://github.com/germanamz/tusk"
-discovered_at: "2026-06-24T20:48:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first
+- markdown indexing
+- semantic search
+- agent integration
+- schema validation
+source: https://github.com/germanamz/tusk
+discovered_at: '2026-06-24T20:48:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

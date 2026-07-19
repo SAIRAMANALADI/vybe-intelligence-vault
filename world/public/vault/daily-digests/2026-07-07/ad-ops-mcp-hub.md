@@ -1,13 +1,25 @@
 ---
-title: "MAhmed004/ad-ops-mcp-hub"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "OAuth 2.0", "REST APIs", "YAML", "Mermaid.js", "Natural Language Processing (NLP)"]
+title: MAhmed004/ad-ops-mcp-hub
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- OAuth 2.0
+- REST APIs
+- YAML
+- Mermaid.js
+- Natural Language Processing (NLP)
 quality_score: 7
 rag_relevance: 6
-tags: ["advertising automation", "MCP server", "cross-platform management", "AI orchestration", "human-in-the-loop"]
-source: "https://github.com/MAhmed004/ad-ops-mcp-hub"
-discovered_at: "2026-07-07T22:10:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- advertising automation
+- MCP server
+- cross-platform management
+- AI orchestration
+- human-in-the-loop
+source: https://github.com/MAhmed004/ad-ops-mcp-hub
+discovered_at: '2026-07-07T22:10:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

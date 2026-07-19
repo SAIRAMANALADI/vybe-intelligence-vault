@@ -1,13 +1,23 @@
 ---
-title: "sebattfg/ZeroScript-Free"
-category: "Tooling"
-tech_stack: ["JavaScript", "Python", "Roblox Studio", "MCP (Model Context Protocol)", "Browser Extension (Chrome/Edge)"]
+title: sebattfg/ZeroScript-Free
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- JavaScript
+- Python
+- Roblox Studio
+- MCP (Model Context Protocol)
+- Browser Extension (Chrome/Edge)
 quality_score: 8
 rag_relevance: 7
-tags: ["Roblox automation", "AI agent", "browser extension", "game development", "Luau scripting"]
-source: "https://github.com/sebattfg/ZeroScript-Free"
-discovered_at: "2026-06-24T20:46:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Roblox automation
+- AI agent
+- browser extension
+- game development
+- Luau scripting
+source: https://github.com/sebattfg/ZeroScript-Free
+discovered_at: '2026-06-24T20:46:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

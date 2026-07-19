@@ -1,13 +1,26 @@
 ---
-title: "YunyueLi/telos"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Next.js", "Python", "FSRS (Flashcard Spaced Repetition Scheduling)", "LLM APIs (OpenAI-compatible)", "Docker", "AGPL-3.0", "Apache-2.0"]
+title: YunyueLi/telos
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Next.js
+- Python
+- FSRS (Flashcard Spaced Repetition Scheduling)
+- LLM APIs (OpenAI-compatible)
+- Docker
+- AGPL-3.0
+- Apache-2.0
 quality_score: 8
 rag_relevance: 7
-tags: ["learning engine", "knowledge graph", "spaced repetition", "adaptive study", "self-hosted"]
-source: "https://github.com/YunyueLi/telos"
-discovered_at: "2026-07-07T06:41:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- learning engine
+- knowledge graph
+- spaced repetition
+- adaptive study
+- self-hosted
+source: https://github.com/YunyueLi/telos
+discovered_at: '2026-07-07T06:41:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

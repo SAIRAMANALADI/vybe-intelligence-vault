@@ -1,13 +1,25 @@
 ---
-title: "MicrotronX/mxLore"
-category: "Agent Framework"
-tech_stack: ["Delphi (RAD Studio)", "MariaDB", "TMS Sparkle", "FireDAC", "Model Context Protocol (MCP)", "HTTP+SSE", "PBKDF2-HMAC-SHA256"]
+title: MicrotronX/mxLore
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Delphi (RAD Studio)
+- MariaDB
+- TMS Sparkle
+- FireDAC
+- Model Context Protocol (MCP)
+- HTTP+SSE
+- PBKDF2-HMAC-SHA256
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "self-hosted", "AI memory", "institutional knowledge", "software development"]
-source: "https://github.com/MicrotronX/mxLore"
-discovered_at: "2026-07-10T06:32:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- self-hosted
+- AI memory
+- institutional knowledge
+- software development
+source: https://github.com/MicrotronX/mxLore
+discovered_at: '2026-07-10T06:32:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

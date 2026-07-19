@@ -1,13 +1,25 @@
 ---
-title: "aesthetic-legalism5470/korean-dart-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "OpenDART API", "XBRL parsing", "PDF/HWP conversion", "CLI tools"]
+title: aesthetic-legalism5470/korean-dart-mcp
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- OpenDART API
+- XBRL parsing
+- PDF/HWP conversion
+- CLI tools
 quality_score: 9
 rag_relevance: 8
-tags: ["Korean financial data", "MCP server", "OpenDART integration", "XBRL parsing", "AI assistant tooling"]
-source: "https://github.com/aesthetic-legalism5470/korean-dart-mcp"
-discovered_at: "2026-07-06T19:49:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Korean financial data
+- MCP server
+- OpenDART integration
+- XBRL parsing
+- AI assistant tooling
+source: https://github.com/aesthetic-legalism5470/korean-dart-mcp
+discovered_at: '2026-07-06T19:49:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

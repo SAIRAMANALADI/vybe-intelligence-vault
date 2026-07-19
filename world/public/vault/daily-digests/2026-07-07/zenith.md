@@ -1,13 +1,27 @@
 ---
-title: "bigduu/Zenith"
-category: "Orchestrator"
-tech_stack: ["Rust", "Go", "TypeScript", "React", "Vite", "Tauri", "Git Submodules", "CI/CD (GitHub Actions)", "Mermaid.js"]
+title: bigduu/Zenith
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Rust
+- Go
+- TypeScript
+- React
+- Vite
+- Tauri
+- Git Submodules
+- CI/CD (GitHub Actions)
+- Mermaid.js
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agent", "monorepo", "local-first", "desktop application", "RAG infrastructure"]
-source: "https://github.com/bigduu/Zenith"
-discovered_at: "2026-07-07T18:58:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- monorepo
+- local-first
+- desktop application
+- RAG infrastructure
+source: https://github.com/bigduu/Zenith
+discovered_at: '2026-07-07T18:58:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

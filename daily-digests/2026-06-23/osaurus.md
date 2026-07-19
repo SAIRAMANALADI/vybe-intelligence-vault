@@ -1,13 +1,28 @@
 ---
-title: "osaurus-ai/osaurus"
-category: "Agent Framework"
-tech_stack: ["Swift", "Apple Silicon", "MLX", "Containerization", "SQLCipher", "X25519", "ChaCha20-Poly1305", "MLX Community Models", "Hugging Face", "MCP (Model Context Protocol)"]
+title: osaurus-ai/osaurus
+category: daily-digests/2026-06-23
+tech_stack:
+- Swift
+- Apple Silicon
+- MLX
+- Containerization
+- SQLCipher
+- X25519
+- ChaCha20-Poly1305
+- MLX Community Models
+- Hugging Face
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agents", "offline-first", "macOS native", "privacy-focused", "autonomous execution"]
-source: "https://github.com/osaurus-ai/osaurus"
-discovered_at: "2026-06-23T16:31:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- offline-first
+- macOS native
+- privacy-focused
+- autonomous execution
+source: https://github.com/osaurus-ai/osaurus
+discovered_at: '2026-06-23T16:31:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

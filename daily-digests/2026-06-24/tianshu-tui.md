@@ -1,13 +1,30 @@
 ---
-title: "huiliyi37/Tianshu-Tui"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js 22", "Ink (TUI framework)", "DeepSeek API", "Claude API", "GLM (Zhipu) API", "Codex (GPT-5.5) API", "MiniMax API", "MiMo API", "Model Context Protocol (MCP)", "tsup (bundler)", "node:test (testing)"]
+title: huiliyi37/Tianshu-Tui
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js 22
+- Ink (TUI framework)
+- DeepSeek API
+- Claude API
+- GLM (Zhipu) API
+- Codex (GPT-5.5) API
+- MiniMax API
+- MiMo API
+- Model Context Protocol (MCP)
+- tsup (bundler)
+- node:test (testing)
 quality_score: 9
 rag_relevance: 8
-tags: ["coding agent", "prefix-cache optimization", "multi-provider LLM", "subagent orchestration", "terminal TUI"]
-source: "https://github.com/huiliyi37/Tianshu-Tui"
-discovered_at: "2026-06-24T16:17:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- coding agent
+- prefix-cache optimization
+- multi-provider LLM
+- subagent orchestration
+- terminal TUI
+source: https://github.com/huiliyi37/Tianshu-Tui
+discovered_at: '2026-06-24T16:17:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

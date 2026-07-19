@@ -1,13 +1,31 @@
 ---
-title: "sebastienrousseau/cloudcdn.pro"
-category: "Vector DB"
-tech_stack: ["Cloudflare Workers", "Cloudflare Pages", "Cloudflare KV", "Cloudflare Vectorize", "Cloudflare Workers AI", "JavaScript/TypeScript", "Node.js", "MCP (Model Context Protocol)", "WebAuthn", "OpenAPI 3.1", "Skeletonic Stylus", "Durable Objects", "HLS (HTTP Live Streaming)"]
+title: sebastienrousseau/cloudcdn.pro
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Cloudflare Workers
+- Cloudflare Pages
+- Cloudflare KV
+- Cloudflare Vectorize
+- Cloudflare Workers AI
+- JavaScript/TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- WebAuthn
+- OpenAPI 3.1
+- Skeletonic Stylus
+- Durable Objects
+- HLS (HTTP Live Streaming)
 quality_score: 9
 rag_relevance: 8
-tags: ["CDN", "AI-native", "Multi-tenant", "Edge computing", "MCP server"]
-source: "https://github.com/sebastienrousseau/cloudcdn.pro"
-discovered_at: "2026-06-23T21:36:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CDN
+- AI-native
+- Multi-tenant
+- Edge computing
+- MCP server
+source: https://github.com/sebastienrousseau/cloudcdn.pro
+discovered_at: '2026-06-23T21:36:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

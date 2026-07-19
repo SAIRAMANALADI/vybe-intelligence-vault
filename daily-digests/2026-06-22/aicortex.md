@@ -1,13 +1,27 @@
 ---
-title: "IkarusMK/AIcortex"
-category: "Orchestrator"
-tech_stack: ["Python", "FastMCP", "MCP (Model Context Protocol)", "Docker", "MQTT", "FTP/FTPS", "OAuth", "SSRF Egress Guard", "Cron Scheduling"]
+title: IkarusMK/AIcortex
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- FastMCP
+- MCP (Model Context Protocol)
+- Docker
+- MQTT
+- FTP/FTPS
+- OAuth
+- SSRF Egress Guard
+- Cron Scheduling
 quality_score: 9
 rag_relevance: 8
-tags: ["self-hosted", "memory persistence", "MCP server", "multi-agent coordination", "NAS integration"]
-source: "https://github.com/IkarusMK/AIcortex"
-discovered_at: "2026-06-22T18:52:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-hosted
+- memory persistence
+- MCP server
+- multi-agent coordination
+- NAS integration
+source: https://github.com/IkarusMK/AIcortex
+discovered_at: '2026-06-22T18:52:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

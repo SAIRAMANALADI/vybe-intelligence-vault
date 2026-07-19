@@ -1,13 +1,21 @@
 ---
-title: "nunner322/mcp-arr"
-category: "Tooling"
-tech_stack: ["JavaScript", "Electron (implied by cross-platform support)", "Model Context Protocol (MCP)"]
+title: nunner322/mcp-arr
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- JavaScript
+- Electron (implied by cross-platform support)
+- Model Context Protocol (MCP)
 quality_score: 5
 rag_relevance: 3
-tags: ["media management", "automation", "arr suite", "cross-platform", "user-friendly"]
-source: "https://github.com/nunner322/mcp-arr"
-discovered_at: "2026-06-24T18:57:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- media management
+- automation
+- arr suite
+- cross-platform
+- user-friendly
+source: https://github.com/nunner322/mcp-arr
+discovered_at: '2026-06-24T18:57:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

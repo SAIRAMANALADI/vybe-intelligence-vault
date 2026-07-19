@@ -1,13 +1,23 @@
 ---
-title: "intelligexhq/garmx"
-category: "Orchestrator"
-tech_stack: ["Go", "OpenTelemetry", "MCP (Model Context Protocol)", "Grafana", "Prometheus"]
+title: intelligexhq/garmx
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- Go
+- OpenTelemetry
+- MCP (Model Context Protocol)
+- Grafana
+- Prometheus
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP", "observability", "audit", "OpenTelemetry", "AI agents"]
-source: "https://github.com/intelligexhq/garmx"
-discovered_at: "2026-07-10T20:22:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- observability
+- audit
+- OpenTelemetry
+- AI agents
+source: https://github.com/intelligexhq/garmx
+discovered_at: '2026-07-10T20:22:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

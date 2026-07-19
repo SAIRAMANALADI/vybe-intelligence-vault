@@ -1,13 +1,28 @@
 ---
-title: "helinakdogan/agentmagnet"
-category: "Agent Framework"
-tech_stack: ["Python", "Redis", "Qdrant", "Neo4j", "FastAPI", "OpenAI API", "Anthropic API", "Google Gemini API", "MCP (Model Context Protocol)", "SQLite"]
+title: helinakdogan/agentmagnet
+category: world/public/vault/daily-digests/2026-07-13
+tech_stack:
+- Python
+- Redis
+- Qdrant
+- Neo4j
+- FastAPI
+- OpenAI API
+- Anthropic API
+- Google Gemini API
+- MCP (Model Context Protocol)
+- SQLite
 quality_score: 9
 rag_relevance: 10
-tags: ["AI memory", "persistent context", "behavioral learning", "cross-session agents", "MCP server"]
-source: "https://github.com/helinakdogan/agentmagnet"
-discovered_at: "2026-07-12T13:36:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI memory
+- persistent context
+- behavioral learning
+- cross-session agents
+- MCP server
+source: https://github.com/helinakdogan/agentmagnet
+discovered_at: '2026-07-12T13:36:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

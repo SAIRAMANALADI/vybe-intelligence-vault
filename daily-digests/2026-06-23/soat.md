@@ -1,13 +1,33 @@
 ---
-title: "ttoss/soat"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "PostgreSQL", "pgvector", "Docker", "pnpm", "Turbo", "REST API", "Model Context Protocol (MCP)", "CLI", "TypeScript SDK", "Sequelize", "JWT", "Webhooks", "OpenAPI"]
+title: ttoss/soat
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- PostgreSQL
+- pgvector
+- Docker
+- pnpm
+- Turbo
+- REST API
+- Model Context Protocol (MCP)
+- CLI
+- TypeScript SDK
+- Sequelize
+- JWT
+- Webhooks
+- OpenAPI
 quality_score: 9
 rag_relevance: 10
-tags: ["AI agent infrastructure", "vector search", "multi-agent orchestration", "MCP server", "self-hosted"]
-source: "https://github.com/ttoss/soat"
-discovered_at: "2026-06-23T21:36:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent infrastructure
+- vector search
+- multi-agent orchestration
+- MCP server
+- self-hosted
+source: https://github.com/ttoss/soat
+discovered_at: '2026-06-23T21:36:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

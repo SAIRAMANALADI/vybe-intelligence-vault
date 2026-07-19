@@ -1,13 +1,24 @@
 ---
-title: "JoeanAmier/XHS-Downloader"
-category: "Tooling"
-tech_stack: ["Python", "Docker", "FastAPI", "Tampermonkey", "Sourcery", "SQLite"]
+title: JoeanAmier/XHS-Downloader
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- Docker
+- FastAPI
+- Tampermonkey
+- Sourcery
+- SQLite
 quality_score: 9
 rag_relevance: 3
-tags: ["content extraction", "social media downloader", "Xiaohongshu", "API integration", "automation"]
-source: "https://github.com/JoeanAmier/XHS-Downloader"
-discovered_at: "2026-06-22T18:15:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- content extraction
+- social media downloader
+- Xiaohongshu
+- API integration
+- automation
+source: https://github.com/JoeanAmier/XHS-Downloader
+discovered_at: '2026-06-22T18:15:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

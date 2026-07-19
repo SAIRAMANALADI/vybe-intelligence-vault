@@ -1,13 +1,25 @@
 ---
-title: "Grinv/mal-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Jikan API", "MyAnimeList API", "OAuth PKCE", "npm"]
+title: Grinv/mal-mcp
+category: daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Jikan API
+- MyAnimeList API
+- OAuth PKCE
+- npm
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "MyAnimeList integration", "anime data", "personal list management", "natural language queries"]
-source: "https://github.com/Grinv/mal-mcp"
-discovered_at: "2026-07-09T11:53:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- MyAnimeList integration
+- anime data
+- personal list management
+- natural language queries
+source: https://github.com/Grinv/mal-mcp
+discovered_at: '2026-07-09T11:53:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

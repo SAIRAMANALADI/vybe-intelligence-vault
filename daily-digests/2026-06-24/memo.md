@@ -1,13 +1,29 @@
 ---
-title: "jagoff/memo"
-category: "Vector DB"
-tech_stack: ["Python", "Apple MLX", "SQLite", "SQLite-vec", "Markdown", "Obsidian", "MCP (Model Context Protocol)", "BM25 (FTS5)", "RRF (Reciprocal Rank Fusion)", "UMAP/PCA", "Plotly"]
+title: jagoff/memo
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Apple MLX
+- SQLite
+- SQLite-vec
+- Markdown
+- Obsidian
+- MCP (Model Context Protocol)
+- BM25 (FTS5)
+- RRF (Reciprocal Rank Fusion)
+- UMAP/PCA
+- Plotly
 quality_score: 9
 rag_relevance: 10
-tags: ["local AI memory", "Apple Silicon", "Markdown storage", "MCP server", "semantic search"]
-source: "https://github.com/jagoff/memo"
-discovered_at: "2026-06-24T02:50:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local AI memory
+- Apple Silicon
+- Markdown storage
+- MCP server
+- semantic search
+source: https://github.com/jagoff/memo
+discovered_at: '2026-06-24T02:50:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

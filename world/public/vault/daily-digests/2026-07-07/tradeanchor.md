@@ -1,13 +1,25 @@
 ---
-title: "twelfthtidelaminariales979/TradeAnchor"
-category: "SaaS Template"
-tech_stack: ["TypeScript", "ReactJS", "NodeJS", "NestJS", "Prisma", "Vite", "Docker-Compose"]
+title: twelfthtidelaminariales979/TradeAnchor
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- ReactJS
+- NodeJS
+- NestJS
+- Prisma
+- Vite
+- Docker-Compose
 quality_score: 6
 rag_relevance: 4
-tags: ["trade journal", "AI reporting", "financial analytics", "bilingual support", "profit tracking"]
-source: "https://github.com/twelfthtidelaminariales979/TradeAnchor"
-discovered_at: "2026-07-07T18:59:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- trade journal
+- AI reporting
+- financial analytics
+- bilingual support
+- profit tracking
+source: https://github.com/twelfthtidelaminariales979/TradeAnchor
+discovered_at: '2026-07-07T18:59:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

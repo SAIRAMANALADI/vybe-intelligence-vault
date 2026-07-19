@@ -1,13 +1,32 @@
 ---
-title: "heypandax/cc-pocket"
-category: "Orchestrator"
-tech_stack: ["Kotlin", "Kotlin Multiplatform", "Ktor", "Compose Multiplatform", "SQLite", "P-256 ECDH", "HKDF", "AES-256-GCM", "X3DH/Noise-style handshake", "Gradle", "Firebase", "Swift (iOS)", "Java (JDK 17)", "Android SDK"]
+title: heypandax/cc-pocket
+category: daily-digests/2026-07-08
+tech_stack:
+- Kotlin
+- Kotlin Multiplatform
+- Ktor
+- Compose Multiplatform
+- SQLite
+- P-256 ECDH
+- HKDF
+- AES-256-GCM
+- X3DH/Noise-style handshake
+- Gradle
+- Firebase
+- Swift (iOS)
+- Java (JDK 17)
+- Android SDK
 quality_score: 9
 rag_relevance: 7
-tags: ["remote AI control", "end-to-end encryption", "Claude Code integration", "mobile orchestration", "zero-knowledge relay"]
-source: "https://github.com/heypandax/cc-pocket"
-discovered_at: "2026-07-08T17:24:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- remote AI control
+- end-to-end encryption
+- Claude Code integration
+- mobile orchestration
+- zero-knowledge relay
+source: https://github.com/heypandax/cc-pocket
+discovered_at: '2026-07-08T17:24:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

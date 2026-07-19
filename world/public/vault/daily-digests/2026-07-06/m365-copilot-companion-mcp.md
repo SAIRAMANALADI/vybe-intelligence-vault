@@ -1,13 +1,25 @@
 ---
-title: "MasayukiTa/m365-copilot-companion-mcp"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Microsoft 365 Copilot", "Copilot Studio", "DevTunnel", "ODBC", "OCR (Optical Character Recognition)"]
+title: MasayukiTa/m365-copilot-companion-mcp
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Microsoft 365 Copilot
+- Copilot Studio
+- DevTunnel
+- ODBC
+- OCR (Optical Character Recognition)
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous agent", "Microsoft 365 Copilot", "MCP server", "local file operations", "OCR"]
-source: "https://github.com/MasayukiTa/m365-copilot-companion-mcp"
-discovered_at: "2026-07-06T21:26:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agent
+- Microsoft 365 Copilot
+- MCP server
+- local file operations
+- OCR
+source: https://github.com/MasayukiTa/m365-copilot-companion-mcp
+discovered_at: '2026-07-06T21:26:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

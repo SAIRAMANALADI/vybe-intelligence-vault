@@ -1,13 +1,23 @@
 ---
-title: "Sequenzy/mcp"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "Node.js", "REST API", "OAuth"]
+title: Sequenzy/mcp
+category: daily-digests/2026-07-12
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- Node.js
+- REST API
+- OAuth
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "email marketing", "AI agent integration", "structured tools", "automation"]
-source: "https://github.com/Sequenzy/mcp"
-discovered_at: "2026-07-12T11:58:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- email marketing
+- AI agent integration
+- structured tools
+- automation
+source: https://github.com/Sequenzy/mcp
+discovered_at: '2026-07-12T11:58:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

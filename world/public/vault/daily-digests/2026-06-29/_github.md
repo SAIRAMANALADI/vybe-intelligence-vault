@@ -1,13 +1,21 @@
 ---
-title: "AceDataCloud/.github"
-category: "Tooling"
-tech_stack: ["Python", "GitHub Actions", "Markdown"]
+title: AceDataCloud/.github
+category: world/public/vault/daily-digests/2026-06-29
+tech_stack:
+- Python
+- GitHub Actions
+- Markdown
 quality_score: 3
 rag_relevance: 4
-tags: ["organization profile", "developer tools", "MCP ecosystem", "AI API platform", "GitHub metadata"]
-source: "https://github.com/AceDataCloud/.github"
-discovered_at: "2026-06-29T02:59:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- organization profile
+- developer tools
+- MCP ecosystem
+- AI API platform
+- GitHub metadata
+source: https://github.com/AceDataCloud/.github
+discovered_at: '2026-06-29T02:59:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

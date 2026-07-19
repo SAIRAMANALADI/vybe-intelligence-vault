@@ -1,13 +1,29 @@
 ---
-title: "jaypetez/sidekick"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Telegram Bot API", "Slack API", "SQLite", "APScheduler", "Ollama", "Anthropic API", "Chronary.ai", "Docker", "Playwright"]
+title: jaypetez/sidekick
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- Python
+- FastAPI
+- Telegram Bot API
+- Slack API
+- SQLite
+- APScheduler
+- Ollama
+- Anthropic API
+- Chronary.ai
+- Docker
+- Playwright
 quality_score: 9
 rag_relevance: 8
-tags: ["AI assistant", "multi-platform chat", "self-hosted", "calendar integration", "task management"]
-source: "https://github.com/jaypetez/sidekick"
-discovered_at: "2026-07-14T16:14:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI assistant
+- multi-platform chat
+- self-hosted
+- calendar integration
+- task management
+source: https://github.com/jaypetez/sidekick
+discovered_at: '2026-07-14T16:14:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

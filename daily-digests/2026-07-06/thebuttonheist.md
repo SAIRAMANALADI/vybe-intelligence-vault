@@ -1,13 +1,26 @@
 ---
-title: "RoyalPineapple/TheButtonHeist"
-category: "Tooling"
-tech_stack: ["Swift", "iOS Accessibility API", "XCTest", "MCP (Model Context Protocol)", "CLI", "Objective-C", "TCP/IP", "Bonjour"]
+title: RoyalPineapple/TheButtonHeist
+category: daily-digests/2026-07-06
+tech_stack:
+- Swift
+- iOS Accessibility API
+- XCTest
+- MCP (Model Context Protocol)
+- CLI
+- Objective-C
+- TCP/IP
+- Bonjour
 quality_score: 9
 rag_relevance: 8
-tags: ["iOS automation", "accessibility testing", "AI agent integration", "semantic UI interaction", "test automation"]
-source: "https://github.com/RoyalPineapple/TheButtonHeist"
-discovered_at: "2026-07-06T19:49:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- iOS automation
+- accessibility testing
+- AI agent integration
+- semantic UI interaction
+- test automation
+source: https://github.com/RoyalPineapple/TheButtonHeist
+discovered_at: '2026-07-06T19:49:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

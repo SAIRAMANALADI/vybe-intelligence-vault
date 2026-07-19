@@ -1,13 +1,23 @@
 ---
-title: "Zahid-Abbas-Ali-Baig/weather_Agent"
-category: "Agent Framework"
-tech_stack: ["Python", "vLLM", "Open-Meteo API", "OpenAI-compatible API", "Mermaid.js (for diagrams)"]
+title: Zahid-Abbas-Ali-Baig/weather_Agent
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- vLLM
+- Open-Meteo API
+- OpenAI-compatible API
+- Mermaid.js (for diagrams)
 quality_score: 7
 rag_relevance: 6
-tags: ["AI agent", "weather data", "outfit recommendation", "persistent memory", "guardrails"]
-source: "https://github.com/Zahid-Abbas-Ali-Baig/weather_Agent"
-discovered_at: "2026-07-09T11:52:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- weather data
+- outfit recommendation
+- persistent memory
+- guardrails
+source: https://github.com/Zahid-Abbas-Ali-Baig/weather_Agent
+discovered_at: '2026-07-09T11:52:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,29 @@
 ---
-title: "qf-studio/pilot"
-category: "Agent Framework"
-tech_stack: ["Go", "Claude Code CLI", "Telegram Bot API", "GitHub API", "Linear API", "Jira API", "Asana API", "SQLite", "TUI (Terminal User Interface)", "Haiku API", "OpenAI API (optional)"]
+title: qf-studio/pilot
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Go
+- Claude Code CLI
+- Telegram Bot API
+- GitHub API
+- Linear API
+- Jira API
+- Asana API
+- SQLite
+- TUI (Terminal User Interface)
+- Haiku API
+- OpenAI API (optional)
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous agents", "AI-driven development", "pull request automation", "task automation", "developer productivity"]
-source: "https://github.com/qf-studio/pilot"
-discovered_at: "2026-06-24T13:18:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- AI-driven development
+- pull request automation
+- task automation
+- developer productivity
+source: https://github.com/qf-studio/pilot
+discovered_at: '2026-06-24T13:18:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

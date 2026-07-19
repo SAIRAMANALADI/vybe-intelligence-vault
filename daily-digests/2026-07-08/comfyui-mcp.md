@@ -1,13 +1,28 @@
 ---
-title: "artokun/comfyui-mcp"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "ComfyUI", "WebSocket", "REST API", "Claude Code", "Ollama", "OpenRouter", "Streamable HTTP"]
+title: artokun/comfyui-mcp
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- ComfyUI
+- WebSocket
+- REST API
+- Claude Code
+- Ollama
+- OpenRouter
+- Streamable HTTP
 quality_score: 9
 rag_relevance: 9
-tags: ["ComfyUI automation", "MCP server", "AI agent control plane", "workflow generation", "model management"]
-source: "https://github.com/artokun/comfyui-mcp"
-discovered_at: "2026-07-08T05:47:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- ComfyUI automation
+- MCP server
+- AI agent control plane
+- workflow generation
+- model management
+source: https://github.com/artokun/comfyui-mcp
+discovered_at: '2026-07-08T05:47:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

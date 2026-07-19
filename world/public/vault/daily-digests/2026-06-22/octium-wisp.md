@@ -1,13 +1,24 @@
 ---
-title: "TrungHuy2128/octium-wisp"
-category: "Tooling"
-tech_stack: ["Python", "OpenAI API", "Anthropic Claude API", "YAML", "ANSI Terminal", "Mermaid.js"]
+title: TrungHuy2128/octium-wisp
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- OpenAI API
+- Anthropic Claude API
+- YAML
+- ANSI Terminal
+- Mermaid.js
 quality_score: 7
 rag_relevance: 6
-tags: ["CLI", "AI assistant", "API integration", "terminal-based", "multilingual"]
-source: "https://github.com/TrungHuy2128/octium-wisp"
-discovered_at: "2026-06-22T23:22:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CLI
+- AI assistant
+- API integration
+- terminal-based
+- multilingual
+source: https://github.com/TrungHuy2128/octium-wisp
+discovered_at: '2026-06-22T23:22:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

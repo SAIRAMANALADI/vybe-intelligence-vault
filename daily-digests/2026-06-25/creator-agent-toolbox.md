@@ -1,13 +1,33 @@
 ---
-title: "ak1458/creator-agent-toolbox"
-category: "Agent Framework"
-tech_stack: ["Python 3.11", "FastAPI", "LangGraph", "SQLAlchemy 2.0", "React 18", "TypeScript", "Vite", "TailwindCSS", "Zustand", "Ollama", "Groq API", "Pollinations.ai", "SQLite", "PostgreSQL", "Redis"]
+title: ak1458/creator-agent-toolbox
+category: daily-digests/2026-06-25
+tech_stack:
+- Python 3.11
+- FastAPI
+- LangGraph
+- SQLAlchemy 2.0
+- React 18
+- TypeScript
+- Vite
+- TailwindCSS
+- Zustand
+- Ollama
+- Groq API
+- Pollinations.ai
+- SQLite
+- PostgreSQL
+- Redis
 quality_score: 8
 rag_relevance: 7
-tags: ["content generation", "A/B testing", "automation", "LLM integration", "YouTube optimization"]
-source: "https://github.com/ak1458/creator-agent-toolbox"
-discovered_at: "2026-06-25T00:09:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- content generation
+- A/B testing
+- automation
+- LLM integration
+- YouTube optimization
+source: https://github.com/ak1458/creator-agent-toolbox
+discovered_at: '2026-06-25T00:09:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

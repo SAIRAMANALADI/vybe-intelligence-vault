@@ -1,13 +1,28 @@
 ---
-title: "netease-youdao/LobsterAI"
-category: "Agent Framework"
-tech_stack: ["Electron", "React", "TypeScript", "OpenClaw Agent Framework", "Node.js", "SQLite", "Python", "Model Context Protocol (MCP)", "Tailwind CSS", "Redux Toolkit"]
+title: netease-youdao/LobsterAI
+category: daily-digests/2026-06-25
+tech_stack:
+- Electron
+- React
+- TypeScript
+- OpenClaw Agent Framework
+- Node.js
+- SQLite
+- Python
+- Model Context Protocol (MCP)
+- Tailwind CSS
+- Redux Toolkit
 quality_score: 9
 rag_relevance: 8
-tags: ["desktop agent", "automation", "multi-platform", "IM integration", "open-source"]
-source: "https://github.com/netease-youdao/LobsterAI"
-discovered_at: "2026-06-25T08:32:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- desktop agent
+- automation
+- multi-platform
+- IM integration
+- open-source
+source: https://github.com/netease-youdao/LobsterAI
+discovered_at: '2026-06-25T08:32:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

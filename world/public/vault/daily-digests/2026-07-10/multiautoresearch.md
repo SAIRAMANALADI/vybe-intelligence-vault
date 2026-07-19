@@ -1,13 +1,22 @@
 ---
-title: "sequelafairness341/multiautoresearch"
-category: "Tooling"
-tech_stack: ["Python", "Windows GUI", "Local Storage", "AI API Integration"]
+title: sequelafairness341/multiautoresearch
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Python
+- Windows GUI
+- Local Storage
+- AI API Integration
 quality_score: 7
 rag_relevance: 6
-tags: ["AI research", "multi-agent workflows", "local execution", "experiment management", "Windows app"]
-source: "https://github.com/sequelafairness341/multiautoresearch"
-discovered_at: "2026-07-10T20:21:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI research
+- multi-agent workflows
+- local execution
+- experiment management
+- Windows app
+source: https://github.com/sequelafairness341/multiautoresearch
+discovered_at: '2026-07-10T20:21:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

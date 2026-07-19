@@ -1,13 +1,26 @@
 ---
-title: "ruvnet/agent-harness-generator"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "CLI (Command Line Interface)", "MCP (Model Context Protocol)", "npm", "GitHub Actions", "Witness-signed provenance", "Model routing (cheapest model selection)"]
+title: ruvnet/agent-harness-generator
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- CLI (Command Line Interface)
+- MCP (Model Context Protocol)
+- npm
+- GitHub Actions
+- Witness-signed provenance
+- Model routing (cheapest model selection)
 quality_score: 9
 rag_relevance: 8
-tags: ["agent harness", "custom AI agents", "MCP server", "model routing", "repo-aware"]
-source: "https://github.com/ruvnet/agent-harness-generator"
-discovered_at: "2026-06-23T23:09:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent harness
+- custom AI agents
+- MCP server
+- model routing
+- repo-aware
+source: https://github.com/ruvnet/agent-harness-generator
+discovered_at: '2026-06-23T23:09:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

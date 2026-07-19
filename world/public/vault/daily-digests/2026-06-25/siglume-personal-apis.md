@@ -1,13 +1,25 @@
 ---
-title: "taihei-05/siglume-personal-apis"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "YAML", "OpenAPI", "pytest", "Docker", "GitHub Actions"]
+title: taihei-05/siglume-personal-apis
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- FastAPI
+- YAML
+- OpenAPI
+- pytest
+- Docker
+- GitHub Actions
 quality_score: 8
 rag_relevance: 7
-tags: ["AI agent tools", "API scaffolding", "deterministic judgments", "rare data integration", "multi-source APIs"]
-source: "https://github.com/taihei-05/siglume-personal-apis"
-discovered_at: "2026-06-25T05:05:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent tools
+- API scaffolding
+- deterministic judgments
+- rare data integration
+- multi-source APIs
+source: https://github.com/taihei-05/siglume-personal-apis
+discovered_at: '2026-06-25T05:05:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

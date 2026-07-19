@@ -1,13 +1,26 @@
 ---
-title: "abundantbeing/hermes-browser-extension"
-category: "UI Component"
-tech_stack: ["JavaScript", "TypeScript", "Node.js", "Chrome Extension API", "Side Panel API", "REST API", "WebSocket", "MV3 Extension Manifest"]
+title: abundantbeing/hermes-browser-extension
+category: daily-digests/2026-06-25
+tech_stack:
+- JavaScript
+- TypeScript
+- Node.js
+- Chrome Extension API
+- Side Panel API
+- REST API
+- WebSocket
+- MV3 Extension Manifest
 quality_score: 8
 rag_relevance: 9
-tags: ["browser extension", "side panel", "Hermes Agent", "web context integration", "AI interaction"]
-source: "https://github.com/abundantbeing/hermes-browser-extension"
-discovered_at: "2026-06-25T14:16:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser extension
+- side panel
+- Hermes Agent
+- web context integration
+- AI interaction
+source: https://github.com/abundantbeing/hermes-browser-extension
+discovered_at: '2026-06-25T14:16:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

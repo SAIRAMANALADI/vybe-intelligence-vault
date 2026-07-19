@@ -1,13 +1,23 @@
 ---
-title: "RavenQueen03/btp-sap-odata-to-mcp-server"
-category: "Tooling"
-tech_stack: ["Python", "SAP OData", "Model Context Protocol (MCP)", "REST API", "Natural Language Processing"]
+title: RavenQueen03/btp-sap-odata-to-mcp-server
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- SAP OData
+- Model Context Protocol (MCP)
+- REST API
+- Natural Language Processing
 quality_score: 5
 rag_relevance: 8
-tags: ["SAP integration", "MCP server", "OData", "ERP data", "conversational AI"]
-source: "https://github.com/RavenQueen03/btp-sap-odata-to-mcp-server"
-discovered_at: "2026-06-25T17:10:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- SAP integration
+- MCP server
+- OData
+- ERP data
+- conversational AI
+source: https://github.com/RavenQueen03/btp-sap-odata-to-mcp-server
+discovered_at: '2026-06-25T17:10:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

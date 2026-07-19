@@ -1,13 +1,23 @@
 ---
-title: "Mezo1122/RiMCP_hybrid"
-category: "Tooling"
-tech_stack: ["Python", "HTML", "XML", "MCP (Model Context Protocol)", "Search Engine"]
+title: Mezo1122/RiMCP_hybrid
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- HTML
+- XML
+- MCP (Model Context Protocol)
+- Search Engine
 quality_score: 5
 rag_relevance: 7
-tags: ["RimWorld", "game data retrieval", "XML parsing", "AI-assisted search", "modding tools"]
-source: "https://github.com/Mezo1122/RiMCP_hybrid"
-discovered_at: "2026-06-23T06:52:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RimWorld
+- game data retrieval
+- XML parsing
+- AI-assisted search
+- modding tools
+source: https://github.com/Mezo1122/RiMCP_hybrid
+discovered_at: '2026-06-23T06:52:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

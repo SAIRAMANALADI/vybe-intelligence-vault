@@ -1,13 +1,24 @@
 ---
-title: "paladini/devutils-cursor-plugin"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Cursor", "Claude Code", "Docker"]
+title: paladini/devutils-cursor-plugin
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Cursor
+- Claude Code
+- Docker
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP", "developer utilities", "local processing", "Cursor plugin", "Claude Code"]
-source: "https://github.com/paladini/devutils-cursor-plugin"
-discovered_at: "2026-07-08T15:16:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- developer utilities
+- local processing
+- Cursor plugin
+- Claude Code
+source: https://github.com/paladini/devutils-cursor-plugin
+discovered_at: '2026-07-08T15:16:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

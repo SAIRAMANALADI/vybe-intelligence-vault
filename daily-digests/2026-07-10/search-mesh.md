@@ -1,13 +1,24 @@
 ---
-title: "jamestkelly/search-mesh"
-category: "Tooling"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "JSON-RPC", "Tree-sitter", "Cargo", "CI/CD (GitHub Actions)"]
+title: jamestkelly/search-mesh
+category: daily-digests/2026-07-10
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- JSON-RPC
+- Tree-sitter
+- Cargo
+- CI/CD (GitHub Actions)
 quality_score: 8
 rag_relevance: 9
-tags: ["code intelligence", "MCP server", "AST parsing", "autonomous agents", "Rust"]
-source: "https://github.com/jamestkelly/search-mesh"
-discovered_at: "2026-07-10T06:32:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code intelligence
+- MCP server
+- AST parsing
+- autonomous agents
+- Rust
+source: https://github.com/jamestkelly/search-mesh
+discovered_at: '2026-07-10T06:32:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

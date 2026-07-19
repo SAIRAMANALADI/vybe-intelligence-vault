@@ -1,13 +1,25 @@
 ---
-title: "mcp-use/mcp-use"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Python", "React", "Node.js", "Zod", "MCP (Model Context Protocol)", "Docker"]
+title: mcp-use/mcp-use
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Python
+- React
+- Node.js
+- Zod
+- MCP (Model Context Protocol)
+- Docker
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP", "AI Agents", "Fullstack Development", "Widget Builder", "Debugging Tools"]
-source: "https://github.com/mcp-use/mcp-use"
-discovered_at: "2026-06-22T18:14:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- AI Agents
+- Fullstack Development
+- Widget Builder
+- Debugging Tools
+source: https://github.com/mcp-use/mcp-use
+discovered_at: '2026-06-22T18:14:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

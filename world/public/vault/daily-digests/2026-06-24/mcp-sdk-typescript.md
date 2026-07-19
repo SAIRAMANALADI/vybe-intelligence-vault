@@ -1,13 +1,23 @@
 ---
-title: "Palald/mcp-sdk-typescript"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "HTTP Transport", "Model Context Protocol (MCP)", "Node.js"]
+title: Palald/mcp-sdk-typescript
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Bun
+- HTTP Transport
+- Model Context Protocol (MCP)
+- Node.js
 quality_score: 6
 rag_relevance: 8
-tags: ["MCP", "TypeScript SDK", "HTTP Transport", "Real-time Sessions", "Bun Optimization"]
-source: "https://github.com/Palald/mcp-sdk-typescript"
-discovered_at: "2026-06-24T20:50:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- TypeScript SDK
+- HTTP Transport
+- Real-time Sessions
+- Bun Optimization
+source: https://github.com/Palald/mcp-sdk-typescript
+discovered_at: '2026-06-24T20:50:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

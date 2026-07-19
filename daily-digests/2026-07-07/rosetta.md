@@ -1,13 +1,25 @@
 ---
-title: "tikoci/rosetta"
-category: "Agent Framework"
-tech_stack: ["MCP (Model Context Protocol)", "SQLite", "FTS5 (Full-Text Search)", "Bun", "RouterOS Container (/app)", "TypeScript", "Node.js"]
+title: tikoci/rosetta
+category: daily-digests/2026-07-07
+tech_stack:
+- MCP (Model Context Protocol)
+- SQLite
+- FTS5 (Full-Text Search)
+- Bun
+- RouterOS Container (/app)
+- TypeScript
+- Node.js
 quality_score: 9
 rag_relevance: 9
-tags: ["MikroTik RouterOS", "MCP server", "SQL-as-RAG", "technical documentation", "hardware specs"]
-source: "https://github.com/tikoci/rosetta"
-discovered_at: "2026-07-07T18:59:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MikroTik RouterOS
+- MCP server
+- SQL-as-RAG
+- technical documentation
+- hardware specs
+source: https://github.com/tikoci/rosetta
+discovered_at: '2026-07-07T18:59:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

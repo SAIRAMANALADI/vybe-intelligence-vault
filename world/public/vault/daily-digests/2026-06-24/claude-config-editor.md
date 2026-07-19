@@ -1,13 +1,22 @@
 ---
-title: "Genusboragosirharoldwalterkroto654/claude-config-editor"
-category: "Tooling"
-tech_stack: ["Electron", "HTML", "JavaScript", "CSS"]
+title: Genusboragosirharoldwalterkroto654/claude-config-editor
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Electron
+- HTML
+- JavaScript
+- CSS
 quality_score: 4
 rag_relevance: 3
-tags: ["Claude AI", "Configuration Management", "Local Tooling", "Chat History Cleanup", "Performance Optimization"]
-source: "https://github.com/Genusboragosirharoldwalterkroto654/claude-config-editor"
-discovered_at: "2026-06-24T13:24:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude AI
+- Configuration Management
+- Local Tooling
+- Chat History Cleanup
+- Performance Optimization
+source: https://github.com/Genusboragosirharoldwalterkroto654/claude-config-editor
+discovered_at: '2026-06-24T13:24:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

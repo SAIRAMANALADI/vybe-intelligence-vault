@@ -1,13 +1,24 @@
 ---
-title: "mirnoorata/codexa"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "POSIX-shell parsing", "Git", "Ripgrep (rg)"]
+title: mirnoorata/codexa
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- POSIX-shell parsing
+- Git
+- Ripgrep (rg)
 quality_score: 9
 rag_relevance: 10
-tags: ["AI agent governance", "deterministic codebase indexing", "drift detection", "verification ledger", "MCP server"]
-source: "https://github.com/mirnoorata/codexa"
-discovered_at: "2026-07-10T06:53:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent governance
+- deterministic codebase indexing
+- drift detection
+- verification ledger
+- MCP server
+source: https://github.com/mirnoorata/codexa
+discovered_at: '2026-07-10T06:53:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

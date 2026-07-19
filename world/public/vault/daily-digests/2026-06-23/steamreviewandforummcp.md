@@ -1,13 +1,22 @@
 ---
-title: "icue/SteamReviewAndForumMcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "Steam Web API"]
+title: icue/SteamReviewAndForumMcp
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- Steam Web API
 quality_score: 8
 rag_relevance: 9
-tags: ["Steam data extraction", "player sentiment analysis", "temporal review analysis", "MCP server", "game research"]
-source: "https://github.com/icue/SteamReviewAndForumMcp"
-discovered_at: "2026-06-23T16:34:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Steam data extraction
+- player sentiment analysis
+- temporal review analysis
+- MCP server
+- game research
+source: https://github.com/icue/SteamReviewAndForumMcp
+discovered_at: '2026-06-23T16:34:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

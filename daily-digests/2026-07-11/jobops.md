@@ -1,13 +1,29 @@
 ---
-title: "mohith-das/jobops"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "Playwright", "Model Context Protocol (MCP)", "Gemini API", "DeepSeek API", "PostgreSQL (optional, for legacy pipeline)", "n8n (optional, for legacy pipeline)", "LaTeX", "PDF generation"]
+title: mohith-das/jobops
+category: daily-digests/2026-07-11
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- Playwright
+- Model Context Protocol (MCP)
+- Gemini API
+- DeepSeek API
+- PostgreSQL (optional, for legacy pipeline)
+- n8n (optional, for legacy pipeline)
+- LaTeX
+- PDF generation
 quality_score: 8
 rag_relevance: 7
-tags: ["job search automation", "MCP server", "resume generation", "ATS optimization", "career tools"]
-source: "https://github.com/mohith-das/jobops"
-discovered_at: "2026-07-10T22:00:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- job search automation
+- MCP server
+- resume generation
+- ATS optimization
+- career tools
+source: https://github.com/mohith-das/jobops
+discovered_at: '2026-07-10T22:00:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "GDWhisper/OmniTerm"
-category: "UI Component"
-tech_stack: ["Rust", "Axum", "SQLite", "React 19", "Tailwind CSS 4", "xterm.js", "tmux", "WebSocket", "Docker"]
+title: GDWhisper/OmniTerm
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Rust
+- Axum
+- SQLite
+- React 19
+- Tailwind CSS 4
+- xterm.js
+- tmux
+- WebSocket
+- Docker
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agent monitoring", "tmux integration", "terminal dashboard", "Git worktree awareness", "multi-agent management"]
-source: "https://github.com/GDWhisper/OmniTerm"
-discovered_at: "2026-07-08T15:15:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent monitoring
+- tmux integration
+- terminal dashboard
+- Git worktree awareness
+- multi-agent management
+source: https://github.com/GDWhisper/OmniTerm
+discovered_at: '2026-07-08T15:15:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

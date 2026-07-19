@@ -1,13 +1,25 @@
 ---
-title: "light-misty/Samoyed-Work"
-category: "Agent Framework"
-tech_stack: ["Tauri 2", "React 19", "Rust", "TypeScript", "Python (for code execution)", "Electron (via Tauri)", "Language Server Protocol (LSP)"]
+title: light-misty/Samoyed-Work
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- Tauri 2
+- React 19
+- Rust
+- TypeScript
+- Python (for code execution)
+- Electron (via Tauri)
+- Language Server Protocol (LSP)
 quality_score: 8
 rag_relevance: 6
-tags: ["AI Agent", "Desktop Application", "Document Processing", "Multi-Model Integration", "Workspace Management"]
-source: "https://github.com/light-misty/Samoyed-Work"
-discovered_at: "2026-07-15T10:48:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent
+- Desktop Application
+- Document Processing
+- Multi-Model Integration
+- Workspace Management
+source: https://github.com/light-misty/Samoyed-Work
+discovered_at: '2026-07-15T10:48:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

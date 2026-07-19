@@ -1,13 +1,25 @@
 ---
-title: "cyanheads/socrata-mcp-server"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "Model Context Protocol (MCP)", "Socrata SODA API", "DuckDB", "Zod", "Node.js"]
+title: cyanheads/socrata-mcp-server
+category: world/public/vault/daily-digests/2026-07-12
+tech_stack:
+- TypeScript
+- Bun
+- Model Context Protocol (MCP)
+- Socrata SODA API
+- DuckDB
+- Zod
+- Node.js
 quality_score: 9
 rag_relevance: 8
-tags: ["open data", "Socrata", "MCP server", "SoQL", "DuckDB"]
-source: "https://github.com/cyanheads/socrata-mcp-server"
-discovered_at: "2026-07-10T23:08:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- open data
+- Socrata
+- MCP server
+- SoQL
+- DuckDB
+source: https://github.com/cyanheads/socrata-mcp-server
+discovered_at: '2026-07-10T23:08:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "Rehui-2006/aria2-agent"
-category: "Tooling"
-tech_stack: ["Python", "aria2", "JSON-RPC", "Model Context Protocol (MCP)", "FastMCP"]
+title: Rehui-2006/aria2-agent
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- aria2
+- JSON-RPC
+- Model Context Protocol (MCP)
+- FastMCP
 quality_score: 9
 rag_relevance: 8
-tags: ["download", "aria2", "MCP", "AI agents", "file integrity"]
-source: "https://github.com/Rehui-2006/aria2-agent"
-discovered_at: "2026-07-08T05:46:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- download
+- aria2
+- MCP
+- AI agents
+- file integrity
+source: https://github.com/Rehui-2006/aria2-agent
+discovered_at: '2026-07-08T05:46:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,21 @@
 ---
-title: "NachaFromMars/smart-meme-generator"
-category: "Tooling"
-tech_stack: ["Python", "imgflip API", "OpenClaw Skill"]
+title: NachaFromMars/smart-meme-generator
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- imgflip API
+- OpenClaw Skill
 quality_score: 7
 rag_relevance: 5
-tags: ["meme generation", "template selection", "imgflip API", "content automation", "OpenClaw"]
-source: "https://github.com/NachaFromMars/smart-meme-generator"
-discovered_at: "2026-06-23T06:46:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- meme generation
+- template selection
+- imgflip API
+- content automation
+- OpenClaw
+source: https://github.com/NachaFromMars/smart-meme-generator
+discovered_at: '2026-06-23T06:46:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

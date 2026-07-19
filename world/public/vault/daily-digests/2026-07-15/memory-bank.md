@@ -1,13 +1,21 @@
 ---
-title: "josiahcrackle9631/memory-bank"
-category: "Tooling"
-tech_stack: ["Python", "Windows OS", "Local File System"]
+title: josiahcrackle9631/memory-bank
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- Python
+- Windows OS
+- Local File System
 quality_score: 7
 rag_relevance: 8
-tags: ["memory management", "context preservation", "token optimization", "local AI tools", "project continuity"]
-source: "https://github.com/josiahcrackle9631/memory-bank"
-discovered_at: "2026-07-11T11:03:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory management
+- context preservation
+- token optimization
+- local AI tools
+- project continuity
+source: https://github.com/josiahcrackle9631/memory-bank
+discovered_at: '2026-07-11T11:03:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

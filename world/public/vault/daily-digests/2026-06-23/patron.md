@@ -1,13 +1,32 @@
 ---
-title: "matematicsolutions/patron"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Electron", "Next.js", "Express", "Node.js", "SQLite", "PostgreSQL", "Supabase", "Docker", "MCP (Model Context Protocol)", "Gemini", "Claude", "Ollama", "OpenRouter"]
+title: matematicsolutions/patron
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Electron
+- Next.js
+- Express
+- Node.js
+- SQLite
+- PostgreSQL
+- Supabase
+- Docker
+- MCP (Model Context Protocol)
+- Gemini
+- Claude
+- Ollama
+- OpenRouter
 quality_score: 9
 rag_relevance: 8
-tags: ["legal AI", "self-hosted", "compliance", "MCP connectors", "audit trail"]
-source: "https://github.com/matematicsolutions/patron"
-discovered_at: "2026-06-23T10:34:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- legal AI
+- self-hosted
+- compliance
+- MCP connectors
+- audit trail
+source: https://github.com/matematicsolutions/patron
+discovered_at: '2026-06-23T10:34:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

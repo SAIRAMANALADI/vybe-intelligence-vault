@@ -1,13 +1,23 @@
 ---
-title: "9093333310/scagent"
-category: "Tooling"
-tech_stack: ["TypeScript", "AI/ML", "Static Analysis", "Node.js", "Electron"]
+title: 9093333310/scagent
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- AI/ML
+- Static Analysis
+- Node.js
+- Electron
 quality_score: 5
 rag_relevance: 6
-tags: ["code audit", "security scanning", "performance analysis", "AI-powered", "developer tool"]
-source: "https://github.com/9093333310/scagent"
-discovered_at: "2026-06-25T00:07:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code audit
+- security scanning
+- performance analysis
+- AI-powered
+- developer tool
+source: https://github.com/9093333310/scagent
+discovered_at: '2026-06-25T00:07:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

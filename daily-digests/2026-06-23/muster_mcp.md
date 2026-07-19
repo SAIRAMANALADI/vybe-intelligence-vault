@@ -1,13 +1,23 @@
 ---
-title: "ABINETHACKER/MUSTer_MCP"
-category: "Agent Framework"
-tech_stack: ["Python", "Selenium", "MCP (Model Context Protocol)", "Web Scraping", "Natural Language Processing"]
+title: ABINETHACKER/MUSTer_MCP
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Selenium
+- MCP (Model Context Protocol)
+- Web Scraping
+- Natural Language Processing
 quality_score: 6
 rag_relevance: 5
-tags: ["campus automation", "MCP server", "web automation", "AI integration", "educational tools"]
-source: "https://github.com/ABINETHACKER/MUSTer_MCP"
-discovered_at: "2026-06-23T06:51:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- campus automation
+- MCP server
+- web automation
+- AI integration
+- educational tools
+source: https://github.com/ABINETHACKER/MUSTer_MCP
+discovered_at: '2026-06-23T06:51:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

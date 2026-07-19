@@ -1,13 +1,23 @@
 ---
-title: "junter1989k-ai/argentina-payments-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Mercado Pago API", "Model Context Protocol (MCP)", "HTTP/JSON-RPC"]
+title: junter1989k-ai/argentina-payments-mcp
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- Node.js
+- Mercado Pago API
+- Model Context Protocol (MCP)
+- HTTP/JSON-RPC
 quality_score: 7
 rag_relevance: 8
-tags: ["payments", "Mercado Pago", "AI agents", "Argentina", "MCP server"]
-source: "https://github.com/junter1989k-ai/argentina-payments-mcp"
-discovered_at: "2026-07-08T19:16:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- payments
+- Mercado Pago
+- AI agents
+- Argentina
+- MCP server
+source: https://github.com/junter1989k-ai/argentina-payments-mcp
+discovered_at: '2026-07-08T19:16:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

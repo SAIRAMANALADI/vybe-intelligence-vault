@@ -1,13 +1,31 @@
 ---
-title: "yusei531642/vibe-editor"
-category: "Orchestrator"
-tech_stack: ["Tauri", "Rust", "TypeScript", "React", "Node.js", "Claude Code", "Codex", "Monaco Editor", "XYFlow (ReactFlow)", "Git", "Portable PTY", "Zustand", "Lucide React"]
+title: yusei531642/vibe-editor
+category: daily-digests/2026-07-15
+tech_stack:
+- Tauri
+- Rust
+- TypeScript
+- React
+- Node.js
+- Claude Code
+- Codex
+- Monaco Editor
+- XYFlow (ReactFlow)
+- Git
+- Portable PTY
+- Zustand
+- Lucide React
 quality_score: 9
 rag_relevance: 7
-tags: ["multi-agent orchestration", "AI coding assistants", "desktop UI", "real-time collaboration", "infinite canvas"]
-source: "https://github.com/yusei531642/vibe-editor"
-discovered_at: "2026-07-14T05:28:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent orchestration
+- AI coding assistants
+- desktop UI
+- real-time collaboration
+- infinite canvas
+source: https://github.com/yusei531642/vibe-editor
+discovered_at: '2026-07-14T05:28:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

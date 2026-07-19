@@ -1,13 +1,23 @@
 ---
-title: "Phaja/semantic-search-project"
-category: "Tooling"
-tech_stack: ["Python", "Vector Embeddings", "Semantic Search", "Caching", "Windows Desktop Application"]
+title: Phaja/semantic-search-project
+category: daily-digests/2026-07-13
+tech_stack:
+- Python
+- Vector Embeddings
+- Semantic Search
+- Caching
+- Windows Desktop Application
 quality_score: 6
 rag_relevance: 7
-tags: ["semantic search", "vector embeddings", "text retrieval", "Windows application", "caching"]
-source: "https://github.com/Phaja/semantic-search-project"
-discovered_at: "2026-07-12T13:36:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- semantic search
+- vector embeddings
+- text retrieval
+- Windows application
+- caching
+source: https://github.com/Phaja/semantic-search-project
+discovered_at: '2026-07-12T13:36:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

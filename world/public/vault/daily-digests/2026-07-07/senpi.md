@@ -1,13 +1,28 @@
 ---
-title: "code-yeongyu/senpi"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Monorepo", "LLM", "Agent Framework", "CI/CD", "TUI", "Bash", "Web Search", "AST Parsing"]
+title: code-yeongyu/senpi
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- Monorepo
+- LLM
+- Agent Framework
+- CI/CD
+- TUI
+- Bash
+- Web Search
+- AST Parsing
 quality_score: 8
 rag_relevance: 9
-tags: ["coding agent", "LLM runtime", "agent extensions", "prompt engineering", "AI assistant"]
-source: "https://github.com/code-yeongyu/senpi"
-discovered_at: "2026-07-07T13:16:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- coding agent
+- LLM runtime
+- agent extensions
+- prompt engineering
+- AI assistant
+source: https://github.com/code-yeongyu/senpi
+discovered_at: '2026-07-07T13:16:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

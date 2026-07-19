@@ -1,13 +1,25 @@
 ---
-title: "ai-creed/ai-cortex"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Git", "MCP (Model Context Protocol)", "CLI", "Local File System", "3D Graph Visualization"]
+title: ai-creed/ai-cortex
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- Git
+- MCP (Model Context Protocol)
+- CLI
+- Local File System
+- 3D Graph Visualization
 quality_score: 9
 rag_relevance: 7
-tags: ["coding agents", "project memory", "session continuity", "MCP server", "local-first"]
-source: "https://github.com/ai-creed/ai-cortex"
-discovered_at: "2026-06-23T19:07:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- coding agents
+- project memory
+- session continuity
+- MCP server
+- local-first
+source: https://github.com/ai-creed/ai-cortex
+discovered_at: '2026-06-23T19:07:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

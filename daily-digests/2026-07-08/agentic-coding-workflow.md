@@ -1,13 +1,22 @@
 ---
-title: "Anbumani08/agentic-coding-workflow"
-category: "Tooling"
-tech_stack: ["Windows", "Installer (EXE/MSI)", "Documentation (Markdown)", "Git"]
+title: Anbumani08/agentic-coding-workflow
+category: daily-digests/2026-07-08
+tech_stack:
+- Windows
+- Installer (EXE/MSI)
+- Documentation (Markdown)
+- Git
 quality_score: 5
 rag_relevance: 4
-tags: ["code review", "task automation", "branch management", "workflow tool", "AI-assisted coding"]
-source: "https://github.com/Anbumani08/agentic-coding-workflow"
-discovered_at: "2026-07-08T02:07:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code review
+- task automation
+- branch management
+- workflow tool
+- AI-assisted coding
+source: https://github.com/Anbumani08/agentic-coding-workflow
+discovered_at: '2026-07-08T02:07:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

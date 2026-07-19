@@ -1,13 +1,23 @@
 ---
-title: "Lawsonseminiferous124/flowchart-mcp-server"
-category: "Tooling"
-tech_stack: ["Python", "Graphviz", "Model Context Protocol (MCP)", "Windows OS", "SVG rendering"]
+title: Lawsonseminiferous124/flowchart-mcp-server
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Graphviz
+- Model Context Protocol (MCP)
+- Windows OS
+- SVG rendering
 quality_score: 7
 rag_relevance: 6
-tags: ["flowchart generation", "MCP server", "Graphviz", "Claude AI integration", "local processing"]
-source: "https://github.com/Lawsonseminiferous124/flowchart-mcp-server"
-discovered_at: "2026-06-24T06:47:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- flowchart generation
+- MCP server
+- Graphviz
+- Claude AI integration
+- local processing
+source: https://github.com/Lawsonseminiferous124/flowchart-mcp-server
+discovered_at: '2026-06-24T06:47:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

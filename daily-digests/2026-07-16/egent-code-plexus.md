@@ -1,13 +1,29 @@
 ---
-title: "coseto6125/egent-code-plexus"
-category: "Vector DB"
-tech_stack: ["Rust", "rkyv", "Tantivy", "Git", "TOON", "JSON", "SQL", "Docker", "Terraform", "Move", "Solidity"]
+title: coseto6125/egent-code-plexus
+category: daily-digests/2026-07-16
+tech_stack:
+- Rust
+- rkyv
+- Tantivy
+- Git
+- TOON
+- JSON
+- SQL
+- Docker
+- Terraform
+- Move
+- Solidity
 quality_score: 10
 rag_relevance: 10
-tags: ["code graph", "AI agents", "structural analysis", "impact analysis", "zero-copy"]
-source: "https://github.com/coseto6125/egent-code-plexus"
-discovered_at: "2026-07-10T18:22:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code graph
+- AI agents
+- structural analysis
+- impact analysis
+- zero-copy
+source: https://github.com/coseto6125/egent-code-plexus
+discovered_at: '2026-07-10T18:22:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

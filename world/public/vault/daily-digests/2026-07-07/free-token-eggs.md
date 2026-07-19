@@ -1,13 +1,22 @@
 ---
-title: "ruodou233/free-token-eggs"
-category: "Tooling"
-tech_stack: ["Python", "JSON", "Git", "Agent Frameworks (Codex/Claude Code)"]
+title: ruodou233/free-token-eggs
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- JSON
+- Git
+- Agent Frameworks (Codex/Claude Code)
 quality_score: 7
 rag_relevance: 6
-tags: ["Chinese AI platforms", "free tokens", "referral rewards", "agent automation", "API credits"]
-source: "https://github.com/ruodou233/free-token-eggs"
-discovered_at: "2026-07-07T02:32:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Chinese AI platforms
+- free tokens
+- referral rewards
+- agent automation
+- API credits
+source: https://github.com/ruodou233/free-token-eggs
+discovered_at: '2026-07-07T02:32:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

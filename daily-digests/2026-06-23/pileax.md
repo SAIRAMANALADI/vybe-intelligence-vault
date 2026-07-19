@@ -1,13 +1,29 @@
 ---
-title: "pileax-ai/pileax"
-category: "UI Component"
-tech_stack: ["Vue.js", "TypeScript", "Docker", "Python", "Tiptap", "ProseMirror", "EPUB", "MOBI", "PDF", "SQLite", "FastAPI"]
+title: pileax-ai/pileax
+category: daily-digests/2026-06-23
+tech_stack:
+- Vue.js
+- TypeScript
+- Docker
+- Python
+- Tiptap
+- ProseMirror
+- EPUB
+- MOBI
+- PDF
+- SQLite
+- FastAPI
 quality_score: 9
 rag_relevance: 7
-tags: ["knowledge base", "AI chat", "e-book management", "local-first", "notion-style editor"]
-source: "https://github.com/pileax-ai/pileax"
-discovered_at: "2026-06-23T10:36:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- knowledge base
+- AI chat
+- e-book management
+- local-first
+- notion-style editor
+source: https://github.com/pileax-ai/pileax
+discovered_at: '2026-06-23T10:36:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

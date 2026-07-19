@@ -1,13 +1,27 @@
 ---
-title: "ZC89757/story-claw"
-category: "Tooling"
-tech_stack: ["Node.js", "TypeScript", "ComfyUI", "LTX-2.3", "gpt-image-2", "TTS APIs", "@mariozechner/pi-coding-agent", "@sinclair/typebox", "VLM (Vision Language Model)"]
+title: ZC89757/story-claw
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Node.js
+- TypeScript
+- ComfyUI
+- LTX-2.3
+- gpt-image-2
+- TTS APIs
+- '@mariozechner/pi-coding-agent'
+- '@sinclair/typebox'
+- VLM (Vision Language Model)
 quality_score: 8
 rag_relevance: 7
-tags: ["novel-to-video", "AI automation", "video generation", "character consistency", "self-hosted"]
-source: "https://github.com/ZC89757/story-claw"
-discovered_at: "2026-07-07T16:24:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- novel-to-video
+- AI automation
+- video generation
+- character consistency
+- self-hosted
+source: https://github.com/ZC89757/story-claw
+discovered_at: '2026-07-07T16:24:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

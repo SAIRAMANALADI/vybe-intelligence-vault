@@ -1,13 +1,22 @@
 ---
-title: "Stopy160/uihash-hotnews"
-category: "UI Component"
-tech_stack: ["HTML", "JavaScript", "RSS", "CSS"]
+title: Stopy160/uihash-hotnews
+category: daily-digests/2026-06-25
+tech_stack:
+- HTML
+- JavaScript
+- RSS
+- CSS
 quality_score: 4
 rag_relevance: 3
-tags: ["RSS aggregation", "news browsing", "lightweight UI", "end-to-end testing", "trending content"]
-source: "https://github.com/Stopy160/uihash-hotnews"
-discovered_at: "2026-06-25T05:09:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RSS aggregation
+- news browsing
+- lightweight UI
+- end-to-end testing
+- trending content
+source: https://github.com/Stopy160/uihash-hotnews
+discovered_at: '2026-06-25T05:09:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

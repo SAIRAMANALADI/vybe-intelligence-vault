@@ -1,13 +1,29 @@
 ---
-title: "Abhigyan-Shekhar/Waggle-mcp"
-category: "Tooling"
-tech_stack: ["Python 3.11+", "MCP (Model Context Protocol)", "SQLite (default graph storage)", "Neo4j (optional backend)", "Sentence Transformers (local embeddings)", "Ruff", "Mypy", "Pytest", "GitHub Actions", "Vite/React (Graph Studio UI)", "PyPI packaging"]
+title: Abhigyan-Shekhar/Waggle-mcp
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- Python 3.11+
+- MCP (Model Context Protocol)
+- SQLite (default graph storage)
+- Neo4j (optional backend)
+- Sentence Transformers (local embeddings)
+- Ruff
+- Mypy
+- Pytest
+- GitHub Actions
+- Vite/React (Graph Studio UI)
+- PyPI packaging
 quality_score: 9
 rag_relevance: 8
-tags: ["persistent memory", "graph-based RAG", "MCP server", "local embeddings", "AI agent tooling"]
-source: "https://github.com/Abhigyan-Shekhar/Waggle-mcp"
-discovered_at: "2026-07-16T05:39:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- graph-based RAG
+- MCP server
+- local embeddings
+- AI agent tooling
+source: https://github.com/Abhigyan-Shekhar/Waggle-mcp
+discovered_at: '2026-07-16T05:39:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

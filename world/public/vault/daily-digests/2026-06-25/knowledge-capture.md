@@ -1,13 +1,25 @@
 ---
-title: "beiyuii/knowledge-capture"
-category: "Tooling"
-tech_stack: ["Python", "Obsidian", "Markdown", "JSON", "HTML", "CLI", "Session IR (Intermediate Representation)"]
+title: beiyuii/knowledge-capture
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- Obsidian
+- Markdown
+- JSON
+- HTML
+- CLI
+- Session IR (Intermediate Representation)
 quality_score: 9
 rag_relevance: 8
-tags: ["knowledge capture", "Obsidian integration", "AI agent logs", "automated note-taking", "kanban review"]
-source: "https://github.com/beiyuii/knowledge-capture"
-discovered_at: "2026-06-25T11:37:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- knowledge capture
+- Obsidian integration
+- AI agent logs
+- automated note-taking
+- kanban review
+source: https://github.com/beiyuii/knowledge-capture
+discovered_at: '2026-06-25T11:37:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

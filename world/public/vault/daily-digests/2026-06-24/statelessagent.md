@@ -1,13 +1,22 @@
 ---
-title: "rerecoy123/statelessagent"
-category: "Tooling"
-tech_stack: ["Go", "Local AI models", "Encrypted local databases", "Cross-platform desktop framework"]
+title: rerecoy123/statelessagent
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Go
+- Local AI models
+- Encrypted local databases
+- Cross-platform desktop framework
 quality_score: 7
 rag_relevance: 8
-tags: ["privacy-focused", "local-first", "offline AI", "session isolation", "contextual memory"]
-source: "https://github.com/rerecoy123/statelessagent"
-discovered_at: "2026-06-24T16:16:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- privacy-focused
+- local-first
+- offline AI
+- session isolation
+- contextual memory
+source: https://github.com/rerecoy123/statelessagent
+discovered_at: '2026-06-24T16:16:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

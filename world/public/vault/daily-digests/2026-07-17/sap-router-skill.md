@@ -1,13 +1,30 @@
 ---
-title: "williamcorrea23/sap-router-skill"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Python", "Node.js", "ABAP", "SAP ADT (ABAP Development Tools)", "SAP GUI", "RFC (Remote Function Call)", "Claude Code", "MCP (Model Context Protocol)", "Mermaid.js", "Docker", "Git"]
+title: williamcorrea23/sap-router-skill
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- Python
+- Node.js
+- ABAP
+- SAP ADT (ABAP Development Tools)
+- SAP GUI
+- RFC (Remote Function Call)
+- Claude Code
+- MCP (Model Context Protocol)
+- Mermaid.js
+- Docker
+- Git
 quality_score: 9
 rag_relevance: 8
-tags: ["SAP automation", "natural language interface", "VS Code integration", "ABAP development", "RAG pipeline"]
-source: "https://github.com/williamcorrea23/sap-router-skill"
-discovered_at: "2026-07-15T21:59:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- SAP automation
+- natural language interface
+- VS Code integration
+- ABAP development
+- RAG pipeline
+source: https://github.com/williamcorrea23/sap-router-skill
+discovered_at: '2026-07-15T21:59:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

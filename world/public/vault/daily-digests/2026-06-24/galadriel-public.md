@@ -1,13 +1,27 @@
 ---
-title: "avasol/galadriel-public"
-category: "Agent Framework"
-tech_stack: ["Python", "Docker", "ChromaDB", "SQLite", "MemPalace", "Anthropic API", "FastAPI", "Discord API", "Prompt Caching"]
+title: avasol/galadriel-public
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Docker
+- ChromaDB
+- SQLite
+- MemPalace
+- Anthropic API
+- FastAPI
+- Discord API
+- Prompt Caching
 quality_score: 9
 rag_relevance: 8
-tags: ["self-modifying agent", "memory palace", "local retrieval", "Claude integration", "autonomous learning"]
-source: "https://github.com/avasol/galadriel-public"
-discovered_at: "2026-06-24T10:19:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-modifying agent
+- memory palace
+- local retrieval
+- Claude integration
+- autonomous learning
+source: https://github.com/avasol/galadriel-public
+discovered_at: '2026-06-24T10:19:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

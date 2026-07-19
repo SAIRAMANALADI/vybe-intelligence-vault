@@ -1,13 +1,22 @@
 ---
-title: "sigridcorrupting777/nano-claude-code"
-category: "Tooling"
-tech_stack: ["Python", "Windows Desktop App", "Tkinter (assumed UI framework)", "MIT License"]
+title: sigridcorrupting777/nano-claude-code
+category: daily-digests/2026-07-12
+tech_stack:
+- Python
+- Windows Desktop App
+- Tkinter (assumed UI framework)
+- MIT License
 quality_score: 7
 rag_relevance: 5
-tags: ["local coding assistant", "Windows desktop tool", "lightweight agent", "code review", "Python-based"]
-source: "https://github.com/sigridcorrupting777/nano-claude-code"
-discovered_at: "2026-07-10T20:21:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local coding assistant
+- Windows desktop tool
+- lightweight agent
+- code review
+- Python-based
+source: https://github.com/sigridcorrupting777/nano-claude-code
+discovered_at: '2026-07-10T20:21:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

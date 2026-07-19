@@ -1,13 +1,33 @@
 ---
-title: "danis5789/xspace-agent"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Puppeteer", "Express", "Socket.IO", "OpenAI API", "Claude API", "Groq API", "Deepgram (STT)", "ElevenLabs (TTS)", "Drizzle ORM", "Docker", "React", "Zod", "Pino (Logging)"]
+title: danis5789/xspace-agent
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- Puppeteer
+- Express
+- Socket.IO
+- OpenAI API
+- Claude API
+- Groq API
+- Deepgram (STT)
+- ElevenLabs (TTS)
+- Drizzle ORM
+- Docker
+- React
+- Zod
+- Pino (Logging)
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agents", "X/Twitter Spaces", "real-time transcription", "voice synthesis", "multi-agent systems"]
-source: "https://github.com/danis5789/xspace-agent"
-discovered_at: "2026-07-07T06:42:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- X/Twitter Spaces
+- real-time transcription
+- voice synthesis
+- multi-agent systems
+source: https://github.com/danis5789/xspace-agent
+discovered_at: '2026-07-07T06:42:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

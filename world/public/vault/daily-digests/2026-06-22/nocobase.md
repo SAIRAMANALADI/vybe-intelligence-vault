@@ -1,13 +1,26 @@
 ---
-title: "nocobase/nocobase"
-category: "SaaS Template"
-tech_stack: ["TypeScript", "Node.js", "React", "SQL (PostgreSQL, MySQL, KingBase, etc.)", "AI Agents (Claude Code, Cursor, OpenCode, etc.)", "Plugin Architecture", "RESTful APIs", "CLI"]
+title: nocobase/nocobase
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- SQL (PostgreSQL, MySQL, KingBase, etc.)
+- AI Agents (Claude Code, Cursor, OpenCode, etc.)
+- Plugin Architecture
+- RESTful APIs
+- CLI
 quality_score: 9
 rag_relevance: 7
-tags: ["no-code", "AI integration", "business systems", "plugin architecture", "WYSIWYG"]
-source: "https://github.com/nocobase/nocobase"
-discovered_at: "2026-06-22T18:13:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- no-code
+- AI integration
+- business systems
+- plugin architecture
+- WYSIWYG
+source: https://github.com/nocobase/nocobase
+discovered_at: '2026-06-22T18:13:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

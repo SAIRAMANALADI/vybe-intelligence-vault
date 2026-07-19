@@ -1,13 +1,29 @@
 ---
-title: "aks129/HealthClawGuardrails"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI/Flask", "FHIR (R4, R6)", "MCP (Model Context Protocol)", "Docker", "Redis", "HL7 SDC", "SMART Health Links", "PostgreSQL/SQLite", "Node.js (for testing)", "GitHub Actions (CI/CD)"]
+title: aks129/HealthClawGuardrails
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- FastAPI/Flask
+- FHIR (R4, R6)
+- MCP (Model Context Protocol)
+- Docker
+- Redis
+- HL7 SDC
+- SMART Health Links
+- PostgreSQL/SQLite
+- Node.js (for testing)
+- GitHub Actions (CI/CD)
 quality_score: 9
 rag_relevance: 10
-tags: ["FHIR Guardrails", "PHI Redaction", "AI Healthcare Security", "MCP Server", "Clinical Data Compliance"]
-source: "https://github.com/aks129/HealthClawGuardrails"
-discovered_at: "2026-07-08T11:00:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- FHIR Guardrails
+- PHI Redaction
+- AI Healthcare Security
+- MCP Server
+- Clinical Data Compliance
+source: https://github.com/aks129/HealthClawGuardrails
+discovered_at: '2026-07-08T11:00:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

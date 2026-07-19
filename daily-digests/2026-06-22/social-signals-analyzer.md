@@ -1,13 +1,27 @@
 ---
-title: "jatinloey1598-dot/social-signals-analyzer"
-category: "Tooling"
-tech_stack: ["Python", "Machine Learning", "Natural Language Processing (NLP)", "Behavioral Psychology", "OpenAI API", "Claude API", "YAML/JSON Configuration", "Cross-Platform UI", "Real-Time Data Processing"]
+title: jatinloey1598-dot/social-signals-analyzer
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- Machine Learning
+- Natural Language Processing (NLP)
+- Behavioral Psychology
+- OpenAI API
+- Claude API
+- YAML/JSON Configuration
+- Cross-Platform UI
+- Real-Time Data Processing
 quality_score: 7
 rag_relevance: 6
-tags: ["social manipulation detection", "authenticity scoring", "behavioral analysis", "AI-powered tooling", "psychological benchmarks"]
-source: "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-discovered_at: "2026-06-22T23:21:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- social manipulation detection
+- authenticity scoring
+- behavioral analysis
+- AI-powered tooling
+- psychological benchmarks
+source: https://github.com/jatinloey1598-dot/social-signals-analyzer
+discovered_at: '2026-06-22T23:21:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

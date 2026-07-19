@@ -1,13 +1,31 @@
 ---
-title: "heznpc/AirMCP"
-category: "Orchestrator"
-tech_stack: ["JavaScript/TypeScript", "Swift", "JXA (JavaScript for Automation)", "Model Context Protocol (MCP)", "OAuth 2.1", "HMAC", "SwiftUI", "EventKit", "HealthKit", "Vision Framework", "FoundationModels", "Node.js", "npm"]
+title: heznpc/AirMCP
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- JavaScript/TypeScript
+- Swift
+- JXA (JavaScript for Automation)
+- Model Context Protocol (MCP)
+- OAuth 2.1
+- HMAC
+- SwiftUI
+- EventKit
+- HealthKit
+- Vision Framework
+- FoundationModels
+- Node.js
+- npm
 quality_score: 9
 rag_relevance: 9
-tags: ["Apple automation", "MCP server", "AI governance", "audit logging", "human-in-the-loop"]
-source: "https://github.com/heznpc/AirMCP"
-discovered_at: "2026-06-25T05:10:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Apple automation
+- MCP server
+- AI governance
+- audit logging
+- human-in-the-loop
+source: https://github.com/heznpc/AirMCP
+discovered_at: '2026-06-25T05:10:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

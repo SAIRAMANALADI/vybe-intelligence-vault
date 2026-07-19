@@ -1,13 +1,23 @@
 ---
-title: "lalitnagda1717/claude-wechat-channel"
-category: "Tooling"
-tech_stack: ["TypeScript", "Windows Desktop App", "WeChat API", "Claude Code API", "MCP (Model Context Protocol)"]
+title: lalitnagda1717/claude-wechat-channel
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Windows Desktop App
+- WeChat API
+- Claude Code API
+- MCP (Model Context Protocol)
 quality_score: 6
 rag_relevance: 4
-tags: ["WeChat integration", "Claude Code", "Windows app", "message automation", "chat bridge"]
-source: "https://github.com/lalitnagda1717/claude-wechat-channel"
-discovered_at: "2026-07-07T23:54:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- WeChat integration
+- Claude Code
+- Windows app
+- message automation
+- chat bridge
+source: https://github.com/lalitnagda1717/claude-wechat-channel
+discovered_at: '2026-07-07T23:54:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "miuiadmin/ailang"
-category: "Tooling"
-tech_stack: ["LLVM", "Systems Programming", "Type System", "Effect System", "Ownership Model"]
+title: miuiadmin/ailang
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- LLVM
+- Systems Programming
+- Type System
+- Effect System
+- Ownership Model
 quality_score: 7
 rag_relevance: 9
-tags: ["AI-native language", "semantic metadata", "compiler-verified", "LLVM backend", "effect system"]
-source: "https://github.com/miuiadmin/ailang"
-discovered_at: "2026-07-13T13:22:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-native language
+- semantic metadata
+- compiler-verified
+- LLVM backend
+- effect system
+source: https://github.com/miuiadmin/ailang
+discovered_at: '2026-07-13T13:22:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "huisezhiyin/sdd-riper"
-category: "Orchestrator"
-tech_stack: ["Python", "LLM (Large Language Model) Integration", "Agentic Coding Frameworks", "Context Management", "Task Automation"]
+title: huisezhiyin/sdd-riper
+category: daily-digests/2026-07-10
+tech_stack:
+- Python
+- LLM (Large Language Model) Integration
+- Agentic Coding Frameworks
+- Context Management
+- Task Automation
 quality_score: 8
 rag_relevance: 9
-tags: ["AI Agent Orchestration", "Context Control", "Task Automation", "Checkpointing", "Validation Framework"]
-source: "https://github.com/huisezhiyin/sdd-riper"
-discovered_at: "2026-07-10T06:30:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent Orchestration
+- Context Control
+- Task Automation
+- Checkpointing
+- Validation Framework
+source: https://github.com/huisezhiyin/sdd-riper
+discovered_at: '2026-07-10T06:30:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

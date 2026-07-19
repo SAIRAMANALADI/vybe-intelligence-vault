@@ -1,13 +1,25 @@
 ---
-title: "ipsupport-llc/ipsupport-code"
-category: "Agent Framework"
-tech_stack: ["Go", "LM Studio", "OpenAI API", "Bubble Tea (TUI framework)", "Git", "File system tools", "Shell command execution"]
+title: ipsupport-llc/ipsupport-code
+category: world/public/vault/daily-digests/2026-07-11
+tech_stack:
+- Go
+- LM Studio
+- OpenAI API
+- Bubble Tea (TUI framework)
+- Git
+- File system tools
+- Shell command execution
 quality_score: 9
 rag_relevance: 7
-tags: ["coding agent", "self-learning", "TUI", "sub-agents", "local LLM"]
-source: "https://github.com/ipsupport-llc/ipsupport-code"
-discovered_at: "2026-07-11T02:27:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- coding agent
+- self-learning
+- TUI
+- sub-agents
+- local LLM
+source: https://github.com/ipsupport-llc/ipsupport-code
+discovered_at: '2026-07-11T02:27:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

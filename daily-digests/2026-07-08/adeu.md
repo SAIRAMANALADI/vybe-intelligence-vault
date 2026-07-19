@@ -1,13 +1,26 @@
 ---
-title: "dealfluence/adeu"
-category: "Tooling"
-tech_stack: ["Python", "TypeScript", "Node.js", "MCP (Model Context Protocol)", "CriticMarkup", "OpenXML", "LangChain", "n8n"]
+title: dealfluence/adeu
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- CriticMarkup
+- OpenXML
+- LangChain
+- n8n
 quality_score: 9
 rag_relevance: 8
-tags: ["DOCX processing", "LLM document editing", "tracked changes", "non-destructive edits", "AI agent integration"]
-source: "https://github.com/dealfluence/adeu"
-discovered_at: "2026-07-08T05:46:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- DOCX processing
+- LLM document editing
+- tracked changes
+- non-destructive edits
+- AI agent integration
+source: https://github.com/dealfluence/adeu
+discovered_at: '2026-07-08T05:46:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

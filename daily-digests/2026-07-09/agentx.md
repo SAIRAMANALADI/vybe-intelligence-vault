@@ -1,13 +1,22 @@
 ---
-title: "WP2-Danikusuma/AgentX"
-category: "Agent Framework"
-tech_stack: ["HTML", "JavaScript", "Natural Language Processing", "Agent Framework"]
+title: WP2-Danikusuma/AgentX
+category: daily-digests/2026-07-09
+tech_stack:
+- HTML
+- JavaScript
+- Natural Language Processing
+- Agent Framework
 quality_score: 3
 rag_relevance: 5
-tags: ["agent development", "natural language", "personalization", "AI tools", "no-code"]
-source: "https://github.com/WP2-Danikusuma/AgentX"
-discovered_at: "2026-07-09T23:08:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent development
+- natural language
+- personalization
+- AI tools
+- no-code
+source: https://github.com/WP2-Danikusuma/AgentX
+discovered_at: '2026-07-09T23:08:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

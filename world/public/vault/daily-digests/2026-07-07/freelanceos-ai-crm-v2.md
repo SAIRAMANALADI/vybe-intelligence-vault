@@ -1,13 +1,26 @@
 ---
-title: "akshayav316/FreelanceOS-AI-CRM-v2"
-category: "Orchestrator"
-tech_stack: ["n8n", "Gemini AI", "Gmail API", "Google Sheets API", "Telegram Bot API", "Structured Output Parser", "JSON", "Workflow Automation"]
+title: akshayav316/FreelanceOS-AI-CRM-v2
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- n8n
+- Gemini AI
+- Gmail API
+- Google Sheets API
+- Telegram Bot API
+- Structured Output Parser
+- JSON
+- Workflow Automation
 quality_score: 9
 rag_relevance: 9
-tags: ["CRM automation", "AI Copilot", "RAG", "workflow automation", "business insights"]
-source: "https://github.com/akshayav316/FreelanceOS-AI-CRM-v2"
-discovered_at: "2026-07-07T16:24:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CRM automation
+- AI Copilot
+- RAG
+- workflow automation
+- business insights
+source: https://github.com/akshayav316/FreelanceOS-AI-CRM-v2
+discovered_at: '2026-07-07T16:24:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

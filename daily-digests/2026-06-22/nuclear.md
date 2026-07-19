@@ -1,13 +1,26 @@
 ---
-title: "nukeop/nuclear"
-category: "Tooling"
-tech_stack: ["TypeScript", "Rust", "React", "Tauri", "pnpm", "Turborepo", "Node.js", "MCP (Model Context Protocol)"]
+title: nukeop/nuclear
+category: daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Rust
+- React
+- Tauri
+- pnpm
+- Turborepo
+- Node.js
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 7
-tags: ["music player", "MCP server", "plugin system", "cross-platform", "AI integration"]
-source: "https://github.com/nukeop/nuclear"
-discovered_at: "2026-06-22T18:13:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- music player
+- MCP server
+- plugin system
+- cross-platform
+- AI integration
+source: https://github.com/nukeop/nuclear
+discovered_at: '2026-06-22T18:13:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

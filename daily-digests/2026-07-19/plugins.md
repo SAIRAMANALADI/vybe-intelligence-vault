@@ -1,13 +1,23 @@
 ---
-title: "reassignai/plugins"
-category: "Tooling"
-tech_stack: ["JavaScript", "Model Context Protocol (MCP)", "Node.js", "Claude Code", "npm"]
+title: reassignai/plugins
+category: daily-digests/2026-07-19
+tech_stack:
+- JavaScript
+- Model Context Protocol (MCP)
+- Node.js
+- Claude Code
+- npm
 quality_score: 8
 rag_relevance: 6
-tags: ["time management", "ADHD-friendly", "circular planner", "MCP server", "productivity tool"]
-source: "https://github.com/reassignai/plugins"
-discovered_at: "2026-07-17T22:47:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- time management
+- ADHD-friendly
+- circular planner
+- MCP server
+- productivity tool
+source: https://github.com/reassignai/plugins
+discovered_at: '2026-07-17T22:47:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

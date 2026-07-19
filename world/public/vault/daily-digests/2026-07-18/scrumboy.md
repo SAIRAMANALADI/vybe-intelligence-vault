@@ -1,13 +1,32 @@
 ---
-title: "markrai/scrumboy"
-category: "Tooling"
-tech_stack: ["Go", "SQLite", "Docker", "JavaScript", "TypeScript", "HTML/CSS", "WebSockets", "SSE (Server-Sent Events)", "MCP (Model Context Protocol)", "OIDC (OpenID Connect)", "SMTP", "PWA (Progressive Web App)", "Markdown", "Mermaid.js"]
+title: markrai/scrumboy
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- Go
+- SQLite
+- Docker
+- JavaScript
+- TypeScript
+- HTML/CSS
+- WebSockets
+- SSE (Server-Sent Events)
+- MCP (Model Context Protocol)
+- OIDC (OpenID Connect)
+- SMTP
+- PWA (Progressive Web App)
+- Markdown
+- Mermaid.js
 quality_score: 9
 rag_relevance: 7
-tags: ["project management", "kanban", "self-hosted", "AI agent integration", "real-time collaboration"]
-source: "https://github.com/markrai/scrumboy"
-discovered_at: "2026-07-15T16:21:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- project management
+- kanban
+- self-hosted
+- AI agent integration
+- real-time collaboration
+source: https://github.com/markrai/scrumboy
+discovered_at: '2026-07-15T16:21:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "100rabhsah/ai-news-aggregator"
-category: "Agent Framework"
-tech_stack: ["Python", "Web Crawling", "NLP (Natural Language Processing)", "Frontend (Web UI)", "Database (SQL/NoSQL)", "APIs (for summarization and data fetching)"]
+title: 100rabhsah/ai-news-aggregator
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Web Crawling
+- NLP (Natural Language Processing)
+- Frontend (Web UI)
+- Database (SQL/NoSQL)
+- APIs (for summarization and data fetching)
 quality_score: 7
 rag_relevance: 6
-tags: ["autonomous agent", "news aggregation", "NLP summarization", "web crawling", "publishing pipeline"]
-source: "https://github.com/100rabhsah/ai-news-aggregator"
-discovered_at: "2026-06-23T21:29:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agent
+- news aggregation
+- NLP summarization
+- web crawling
+- publishing pipeline
+source: https://github.com/100rabhsah/ai-news-aggregator
+discovered_at: '2026-06-23T21:29:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

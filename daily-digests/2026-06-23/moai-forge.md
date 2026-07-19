@@ -1,13 +1,24 @@
 ---
-title: "leerhadz/moai-forge"
-category: "Orchestrator"
-tech_stack: ["Go", "YAML/JSON", "OpenAPI", "Claude API", "TDD/DDD", "Mermaid.js"]
+title: leerhadz/moai-forge
+category: daily-digests/2026-06-23
+tech_stack:
+- Go
+- YAML/JSON
+- OpenAPI
+- Claude API
+- TDD/DDD
+- Mermaid.js
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent orchestration", "specification-first", "deterministic AI", "code generation", "TDD/DDD enforcement"]
-source: "https://github.com/leerhadz/moai-forge"
-discovered_at: "2026-06-23T21:29:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent orchestration
+- specification-first
+- deterministic AI
+- code generation
+- TDD/DDD enforcement
+source: https://github.com/leerhadz/moai-forge
+discovered_at: '2026-06-23T21:29:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

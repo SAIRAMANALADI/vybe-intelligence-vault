@@ -1,13 +1,27 @@
 ---
-title: "Nocetic/flowly"
-category: "Agent Framework"
-tech_stack: ["Python", "LLM Providers (OpenRouter, Anthropic, OpenAI, Google Gemini, Groq, xAI, Zhipu)", "MCP (Model Context Protocol)", "Terminal UI (TUI)", "Sandboxing (macOS sandbox-exec, Linux bwrap)", "WebSockets", "Git", "uv (Python package manager)", "Apache 2.0 License"]
+title: Nocetic/flowly
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- LLM Providers (OpenRouter, Anthropic, OpenAI, Google Gemini, Groq, xAI, Zhipu)
+- MCP (Model Context Protocol)
+- Terminal UI (TUI)
+- Sandboxing (macOS sandbox-exec, Linux bwrap)
+- WebSockets
+- Git
+- uv (Python package manager)
+- Apache 2.0 License
 quality_score: 9
 rag_relevance: 8
-tags: ["personal AI agent", "self-hosted", "memory management", "MCP integration", "multi-channel"]
-source: "https://github.com/Nocetic/flowly"
-discovered_at: "2026-07-09T00:05:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personal AI agent
+- self-hosted
+- memory management
+- MCP integration
+- multi-channel
+source: https://github.com/Nocetic/flowly
+discovered_at: '2026-07-09T00:05:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,30 @@
 ---
-title: "olemeyer/rocketplaneIO"
-category: "Orchestrator"
-tech_stack: ["Go", "TypeScript", "Next.js", "eBPF", "Kubernetes", "OpenTelemetry", "ClickHouse", "PostgreSQL", "PromQL", "Starlark", "Docker", "Helm"]
+title: olemeyer/rocketplaneIO
+category: daily-digests/2026-07-07
+tech_stack:
+- Go
+- TypeScript
+- Next.js
+- eBPF
+- Kubernetes
+- OpenTelemetry
+- ClickHouse
+- PostgreSQL
+- PromQL
+- Starlark
+- Docker
+- Helm
 quality_score: 9
 rag_relevance: 8
-tags: ["Kubernetes SRE", "AI Copilot", "eBPF Observability", "Self-hosted", "BYO-LLM"]
-source: "https://github.com/olemeyer/rocketplaneIO"
-discovered_at: "2026-07-07T18:58:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Kubernetes SRE
+- AI Copilot
+- eBPF Observability
+- Self-hosted
+- BYO-LLM
+source: https://github.com/olemeyer/rocketplaneIO
+discovered_at: '2026-07-07T18:58:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "a-y-ibrahim/after-effects-mcp"
-category: "Tooling"
-tech_stack: ["Node.js", "TypeScript", "ExtendScript", "Model Context Protocol (MCP)", "Adobe After Effects", "Vitest"]
+title: a-y-ibrahim/after-effects-mcp
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Node.js
+- TypeScript
+- ExtendScript
+- Model Context Protocol (MCP)
+- Adobe After Effects
+- Vitest
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP Server", "Adobe After Effects", "Natural Language Control", "Multilingual Support", "Automation"]
-source: "https://github.com/a-y-ibrahim/after-effects-mcp"
-discovered_at: "2026-07-07T13:15:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- Adobe After Effects
+- Natural Language Control
+- Multilingual Support
+- Automation
+source: https://github.com/a-y-ibrahim/after-effects-mcp
+discovered_at: '2026-07-07T13:15:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

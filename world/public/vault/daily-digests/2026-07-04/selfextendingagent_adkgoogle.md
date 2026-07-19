@@ -1,13 +1,22 @@
 ---
-title: "Inspectorategianttortoise371/SelfExtendingAgent_ADKGoogle"
-category: "Agent Framework"
-tech_stack: ["Python", "Google Agent Development Kit (ADK)", "Code Generation", "Agentic AI"]
+title: Inspectorategianttortoise371/SelfExtendingAgent_ADKGoogle
+category: world/public/vault/daily-digests/2026-07-04
+tech_stack:
+- Python
+- Google Agent Development Kit (ADK)
+- Code Generation
+- Agentic AI
 quality_score: 4
 rag_relevance: 7
-tags: ["agentic-ai", "code-generation", "self-extending", "google-adk", "autonomous-agents"]
-source: "https://github.com/Inspectorategianttortoise371/SelfExtendingAgent_ADKGoogle"
-discovered_at: "2026-07-04T13:11:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agentic-ai
+- code-generation
+- self-extending
+- google-adk
+- autonomous-agents
+source: https://github.com/Inspectorategianttortoise371/SelfExtendingAgent_ADKGoogle
+discovered_at: '2026-07-04T13:11:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

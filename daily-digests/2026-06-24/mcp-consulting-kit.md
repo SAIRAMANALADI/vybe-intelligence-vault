@@ -1,13 +1,36 @@
 ---
-title: "JRM-FusionAL/mcp-consulting-kit"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Uvicorn", "MCP (Model Context Protocol)", "Docker", "PostgreSQL", "MySQL", "SQLite", "Slack API", "GitHub API", "Stripe API", "BeautifulSoup", "Feedparser", "SQLAlchemy", "React", "Vite", "Nginx", "Cloudflare Tunnel"]
+title: JRM-FusionAL/mcp-consulting-kit
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- FastAPI
+- Uvicorn
+- MCP (Model Context Protocol)
+- Docker
+- PostgreSQL
+- MySQL
+- SQLite
+- Slack API
+- GitHub API
+- Stripe API
+- BeautifulSoup
+- Feedparser
+- SQLAlchemy
+- React
+- Vite
+- Nginx
+- Cloudflare Tunnel
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP servers", "AI automation", "production deployment", "governance framework", "multi-service integration"]
-source: "https://github.com/JRM-FusionAL/mcp-consulting-kit"
-discovered_at: "2026-06-24T06:49:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP servers
+- AI automation
+- production deployment
+- governance framework
+- multi-service integration
+source: https://github.com/JRM-FusionAL/mcp-consulting-kit
+discovered_at: '2026-06-24T06:49:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

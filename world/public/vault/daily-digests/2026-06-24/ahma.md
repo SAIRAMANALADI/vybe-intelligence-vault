@@ -1,13 +1,25 @@
 ---
-title: "paulirotta/ahma"
-category: "Tooling"
-tech_stack: ["Rust", "Model Context Protocol (MCP)", "Landlock (Linux sandboxing)", "Seatbelt (macOS sandboxing)", "Job Objects (Windows sandboxing)", "Sigstore (supply chain security)", "CI/CD (GitHub Actions)"]
+title: paulirotta/ahma
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Rust
+- Model Context Protocol (MCP)
+- Landlock (Linux sandboxing)
+- Seatbelt (macOS sandboxing)
+- Job Objects (Windows sandboxing)
+- Sigstore (supply chain security)
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 8
-tags: ["sandboxing", "MCP server", "concurrent execution", "security", "CLI automation"]
-source: "https://github.com/paulirotta/ahma"
-discovered_at: "2026-06-24T16:19:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- sandboxing
+- MCP server
+- concurrent execution
+- security
+- CLI automation
+source: https://github.com/paulirotta/ahma
+discovered_at: '2026-06-24T16:19:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

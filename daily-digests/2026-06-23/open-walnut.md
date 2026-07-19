@@ -1,13 +1,26 @@
 ---
-title: "EvanZhang008/open-walnut"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "React", "SQLite", "BGE-M3 (embeddings)", "Claude Code API", "Tailwind CSS", "Docker"]
+title: EvanZhang008/open-walnut
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- SQLite
+- BGE-M3 (embeddings)
+- Claude Code API
+- Tailwind CSS
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["AI butler", "task management", "Claude Code integration", "self-hosted", "memory system"]
-source: "https://github.com/EvanZhang008/open-walnut"
-discovered_at: "2026-06-23T21:31:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI butler
+- task management
+- Claude Code integration
+- self-hosted
+- memory system
+source: https://github.com/EvanZhang008/open-walnut
+discovered_at: '2026-06-23T21:31:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "proticom/gnosys"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "SQLite", "Node.js", "MCP (Model Context Protocol)", "FTS5 (Full-Text Search)", "better-sqlite3", "@huggingface/transformers", "Obsidian"]
+title: proticom/gnosys
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- SQLite
+- Node.js
+- MCP (Model Context Protocol)
+- FTS5 (Full-Text Search)
+- better-sqlite3
+- '@huggingface/transformers'
+- Obsidian
 quality_score: 9
 rag_relevance: 10
-tags: ["persistent memory", "MCP server", "SQLite", "federated search", "AI agent tooling"]
-source: "https://github.com/proticom/gnosys"
-discovered_at: "2026-06-24T13:22:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- MCP server
+- SQLite
+- federated search
+- AI agent tooling
+source: https://github.com/proticom/gnosys
+discovered_at: '2026-06-24T13:22:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

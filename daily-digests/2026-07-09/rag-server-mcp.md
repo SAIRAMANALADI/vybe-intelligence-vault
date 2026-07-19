@@ -1,13 +1,24 @@
 ---
-title: "SylphxAI/rag-server-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "ChromaDB", "Ollama", "Docker", "TF-IDF", "Vector Search"]
+title: SylphxAI/rag-server-mcp
+category: daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- ChromaDB
+- Ollama
+- Docker
+- TF-IDF
+- Vector Search
 quality_score: 4
 rag_relevance: 3
-tags: ["deprecated", "MCP server", "RAG pipeline", "ChromaDB", "Ollama"]
-source: "https://github.com/SylphxAI/rag-server-mcp"
-discovered_at: "2026-07-09T04:46:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- deprecated
+- MCP server
+- RAG pipeline
+- ChromaDB
+- Ollama
+source: https://github.com/SylphxAI/rag-server-mcp
+discovered_at: '2026-07-09T04:46:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

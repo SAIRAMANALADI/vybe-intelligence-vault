@@ -1,13 +1,24 @@
 ---
-title: "jpbaking/second-brain"
-category: "Orchestrator"
-tech_stack: ["Python", "Markdown", "HTML/CSS", "VS Code", "Cline (AI agent framework)", "Git/GitHub"]
+title: jpbaking/second-brain
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- Markdown
+- HTML/CSS
+- VS Code
+- Cline (AI agent framework)
+- Git/GitHub
 quality_score: 9
 rag_relevance: 8
-tags: ["knowledge management", "AI agent", "file-based RAG", "document automation", "executive assistant"]
-source: "https://github.com/jpbaking/second-brain"
-discovered_at: "2026-07-07T23:55:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- knowledge management
+- AI agent
+- file-based RAG
+- document automation
+- executive assistant
+source: https://github.com/jpbaking/second-brain
+discovered_at: '2026-07-07T23:55:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

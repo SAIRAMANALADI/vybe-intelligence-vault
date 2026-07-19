@@ -1,13 +1,23 @@
 ---
-title: "ramkoirala11235/Prisma-Gemini-DeepThink-API"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Gemini 3.1 Pro", "OpenAI-compatible APIs", "LLM (Large Language Models)"]
+title: ramkoirala11235/Prisma-Gemini-DeepThink-API
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- FastAPI
+- Gemini 3.1 Pro
+- OpenAI-compatible APIs
+- LLM (Large Language Models)
 quality_score: 6
 rag_relevance: 8
-tags: ["multi-expert reasoning", "parallel processing", "LLM orchestration", "deep analysis", "API backend"]
-source: "https://github.com/ramkoirala11235/Prisma-Gemini-DeepThink-API"
-discovered_at: "2026-06-23T23:09:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-expert reasoning
+- parallel processing
+- LLM orchestration
+- deep analysis
+- API backend
+source: https://github.com/ramkoirala11235/Prisma-Gemini-DeepThink-API
+discovered_at: '2026-06-23T23:09:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

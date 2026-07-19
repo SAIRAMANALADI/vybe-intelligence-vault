@@ -1,13 +1,26 @@
 ---
-title: "can1357/oh-my-pi"
-category: "Agent Framework"
-tech_stack: ["Rust", "TypeScript", "Bun", "Python", "LSP (Language Server Protocol)", "DAP (Debug Adapter Protocol)", "Node.js", "WebAssembly"]
+title: can1357/oh-my-pi
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Rust
+- TypeScript
+- Bun
+- Python
+- LSP (Language Server Protocol)
+- DAP (Debug Adapter Protocol)
+- Node.js
+- WebAssembly
 quality_score: 9
 rag_relevance: 8
-tags: ["coding agent", "IDE integration", "multi-model tooling", "debugging", "LSP/DAP"]
-source: "https://github.com/can1357/oh-my-pi"
-discovered_at: "2026-06-22T18:13:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- coding agent
+- IDE integration
+- multi-model tooling
+- debugging
+- LSP/DAP
+source: https://github.com/can1357/oh-my-pi
+discovered_at: '2026-06-22T18:13:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

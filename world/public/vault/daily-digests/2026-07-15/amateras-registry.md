@@ -1,13 +1,24 @@
 ---
-title: "moriwo-dev-ai/amateras-registry"
-category: "Tooling"
-tech_stack: ["JavaScript", "TypeScript", "Vitest", "CI/CD", "JSON", "AGPL-3.0"]
+title: moriwo-dev-ai/amateras-registry
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- JavaScript
+- TypeScript
+- Vitest
+- CI/CD
+- JSON
+- AGPL-3.0
 quality_score: 8
 rag_relevance: 7
-tags: ["plugin registry", "verification gates", "AMA-teras", "tool discovery", "community plugins"]
-source: "https://github.com/moriwo-dev-ai/amateras-registry"
-discovered_at: "2026-07-10T18:22:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- plugin registry
+- verification gates
+- AMA-teras
+- tool discovery
+- community plugins
+source: https://github.com/moriwo-dev-ai/amateras-registry
+discovered_at: '2026-07-10T18:22:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

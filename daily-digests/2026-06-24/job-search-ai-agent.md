@@ -1,13 +1,27 @@
 ---
-title: "PWDevens/job-search-ai-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "ChromaDB", "Ollama", "Flask", "Docker", "Sentence Transformers", "APScheduler", "Pandas", "SMTP (for email summaries)"]
+title: PWDevens/job-search-ai-agent
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- ChromaDB
+- Ollama
+- Flask
+- Docker
+- Sentence Transformers
+- APScheduler
+- Pandas
+- SMTP (for email summaries)
 quality_score: 9
 rag_relevance: 7
-tags: ["local LLM", "job search automation", "resume optimization", "vector search", "offline AI"]
-source: "https://github.com/PWDevens/job-search-ai-agent"
-discovered_at: "2026-06-24T20:47:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local LLM
+- job search automation
+- resume optimization
+- vector search
+- offline AI
+source: https://github.com/PWDevens/job-search-ai-agent
+discovered_at: '2026-06-24T20:47:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

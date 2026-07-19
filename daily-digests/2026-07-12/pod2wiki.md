@@ -1,13 +1,23 @@
 ---
-title: "Jacobusarminiusradyera634/pod2wiki"
-category: "Tooling"
-tech_stack: ["Python", "Whisper (AI transcription)", "DeepSeek (summarization)", "RSS parsing", "Windows desktop application"]
+title: Jacobusarminiusradyera634/pod2wiki
+category: daily-digests/2026-07-12
+tech_stack:
+- Python
+- Whisper (AI transcription)
+- DeepSeek (summarization)
+- RSS parsing
+- Windows desktop application
 quality_score: 6
 rag_relevance: 7
-tags: ["podcast processing", "RSS to wiki", "AI summarization", "knowledge extraction", "local LLM integration"]
-source: "https://github.com/Jacobusarminiusradyera634/pod2wiki"
-discovered_at: "2026-07-11T16:55:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- podcast processing
+- RSS to wiki
+- AI summarization
+- knowledge extraction
+- local LLM integration
+source: https://github.com/Jacobusarminiusradyera634/pod2wiki
+discovered_at: '2026-07-11T16:55:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

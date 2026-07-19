@@ -1,13 +1,26 @@
 ---
-title: "SapienXai/AgentOS"
-category: "Orchestrator"
-tech_stack: ["Next.js", "React", "TypeScript", "pnpm", "OpenClaw", "Node.js", "WebSocket", "RPC"]
+title: SapienXai/AgentOS
+category: daily-digests/2026-07-18
+tech_stack:
+- Next.js
+- React
+- TypeScript
+- pnpm
+- OpenClaw
+- Node.js
+- WebSocket
+- RPC
 quality_score: 9
 rag_relevance: 9
-tags: ["agent orchestration", "control plane", "AI workspace", "multi-agent systems", "human oversight"]
-source: "https://github.com/SapienXai/AgentOS"
-discovered_at: "2026-07-10T22:00:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent orchestration
+- control plane
+- AI workspace
+- multi-agent systems
+- human oversight
+source: https://github.com/SapienXai/AgentOS
+discovered_at: '2026-07-10T22:00:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "harriottdirty774/supply-chain-monitor"
-category: "Tooling"
-tech_stack: ["Python", "PyPI", "npm", "Slack API", "LLM (Cursor Agent CLI)", "Windows"]
+title: harriottdirty774/supply-chain-monitor
+category: world/public/vault/daily-digests/2026-07-11
+tech_stack:
+- Python
+- PyPI
+- npm
+- Slack API
+- LLM (Cursor Agent CLI)
+- Windows
 quality_score: 6
 rag_relevance: 7
-tags: ["supply chain security", "package monitoring", "LLM-based analysis", "Slack alerts", "risk detection"]
-source: "https://github.com/harriottdirty774/supply-chain-monitor"
-discovered_at: "2026-07-10T20:22:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- supply chain security
+- package monitoring
+- LLM-based analysis
+- Slack alerts
+- risk detection
+source: https://github.com/harriottdirty774/supply-chain-monitor
+discovered_at: '2026-07-10T20:22:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

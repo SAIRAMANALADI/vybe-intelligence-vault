@@ -1,13 +1,23 @@
 ---
-title: "akbfar/Zomato-MCP-Demo"
-category: "Tooling"
-tech_stack: ["Zomato API", "MCP (Model Context Protocol)", "Claude Desktop", "Python (implied by MCP)", "Windows/macOS"]
+title: akbfar/Zomato-MCP-Demo
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Zomato API
+- MCP (Model Context Protocol)
+- Claude Desktop
+- Python (implied by MCP)
+- Windows/macOS
 quality_score: 5
 rag_relevance: 4
-tags: ["food ordering", "MCP integration", "AI assistant", "Zomato API", "demo application"]
-source: "https://github.com/akbfar/Zomato-MCP-Demo"
-discovered_at: "2026-06-24T13:23:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- food ordering
+- MCP integration
+- AI assistant
+- Zomato API
+- demo application
+source: https://github.com/akbfar/Zomato-MCP-Demo
+discovered_at: '2026-06-24T13:23:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

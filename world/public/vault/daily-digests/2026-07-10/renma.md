@@ -1,13 +1,24 @@
 ---
-title: "KazuCocoa/renma"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "CLI", "Markdown", "JSON", "Git"]
+title: KazuCocoa/renma
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- Markdown
+- JSON
+- Git
 quality_score: 9
 rag_relevance: 8
-tags: ["context management", "agent governance", "knowledge organization", "Git-based assets", "deterministic diagnostics"]
-source: "https://github.com/KazuCocoa/renma"
-discovered_at: "2026-07-10T06:30:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- context management
+- agent governance
+- knowledge organization
+- Git-based assets
+- deterministic diagnostics
+source: https://github.com/KazuCocoa/renma
+discovered_at: '2026-07-10T06:30:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

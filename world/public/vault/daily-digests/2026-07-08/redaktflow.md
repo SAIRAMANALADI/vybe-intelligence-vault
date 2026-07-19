@@ -1,13 +1,23 @@
 ---
-title: "zonary-genusoryx71/redaktflow"
-category: "Tooling"
-tech_stack: ["AI Content Generation", "Workflow Automation", "Make.com", "n8n", "Notion"]
+title: zonary-genusoryx71/redaktflow
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- AI Content Generation
+- Workflow Automation
+- Make.com
+- n8n
+- Notion
 quality_score: 3
 rag_relevance: 5
-tags: ["content automation", "AI drafting", "workflow integration", "human review", "content repurposing"]
-source: "https://github.com/zonary-genusoryx71/redaktflow"
-discovered_at: "2026-07-08T19:16:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- content automation
+- AI drafting
+- workflow integration
+- human review
+- content repurposing
+source: https://github.com/zonary-genusoryx71/redaktflow
+discovered_at: '2026-07-08T19:16:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

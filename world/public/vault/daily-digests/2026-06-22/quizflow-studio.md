@@ -1,13 +1,22 @@
 ---
-title: "gauravmrgd/quizflow-studio"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Electron (implied by desktop app)", "Windows OS"]
+title: gauravmrgd/quizflow-studio
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Node.js
+- Electron (implied by desktop app)
+- Windows OS
 quality_score: 5
 rag_relevance: 3
-tags: ["quiz builder", "desktop app", "educational tool", "Windows software", "offline-first"]
-source: "https://github.com/gauravmrgd/quizflow-studio"
-discovered_at: "2026-06-22T18:48:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- quiz builder
+- desktop app
+- educational tool
+- Windows software
+- offline-first
+source: https://github.com/gauravmrgd/quizflow-studio
+discovered_at: '2026-06-22T18:48:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

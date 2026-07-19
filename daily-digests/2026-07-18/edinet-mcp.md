@@ -1,13 +1,26 @@
 ---
-title: "ajtgjmdjp/edinet-mcp"
-category: "Tooling"
-tech_stack: ["Python", "XBRL", "Polars", "pandas", "MCP (Model Context Protocol)", "Docker", "PyPI", "GitHub Actions"]
+title: ajtgjmdjp/edinet-mcp
+category: daily-digests/2026-07-18
+tech_stack:
+- Python
+- XBRL
+- Polars
+- pandas
+- MCP (Model Context Protocol)
+- Docker
+- PyPI
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["XBRL parsing", "Japanese financial data", "MCP server", "EDINET API", "financial statements"]
-source: "https://github.com/ajtgjmdjp/edinet-mcp"
-discovered_at: "2026-07-18T08:09:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- XBRL parsing
+- Japanese financial data
+- MCP server
+- EDINET API
+- financial statements
+source: https://github.com/ajtgjmdjp/edinet-mcp
+discovered_at: '2026-07-18T08:09:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

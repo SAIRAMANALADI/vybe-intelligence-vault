@@ -1,13 +1,34 @@
 ---
-title: "EKKOLearnAI/hermes-studio"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Electron", "Node.js", "React", "Socket.IO", "SQLite", "Docker", "Python", "WebSocket", "npm", "YAML", "SQL", "Web Speech API", "TTS/STT", "node-pty", "@xterm/xterm"]
+title: EKKOLearnAI/hermes-studio
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Electron
+- Node.js
+- React
+- Socket.IO
+- SQLite
+- Docker
+- Python
+- WebSocket
+- npm
+- YAML
+- SQL
+- Web Speech API
+- TTS/STT
+- node-pty
+- '@xterm/xterm'
 quality_score: 9
 rag_relevance: 8
-tags: ["Agent Management", "Local AI Runtime", "Multi-Platform Integration", "Automation", "Desktop App"]
-source: "https://github.com/EKKOLearnAI/hermes-studio"
-discovered_at: "2026-06-24T13:18:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agent Management
+- Local AI Runtime
+- Multi-Platform Integration
+- Automation
+- Desktop App
+source: https://github.com/EKKOLearnAI/hermes-studio
+discovered_at: '2026-06-24T13:18:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

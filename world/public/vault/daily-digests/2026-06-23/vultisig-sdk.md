@@ -1,13 +1,30 @@
 ---
-title: "vultisig/vultisig-sdk"
-category: "Tooling"
-tech_stack: ["TypeScript", "MPC (Multi-Party Computation)", "WASM", "Node.js", "Blockchain SDKs (Bitcoin, Ethereum, Cosmos, Solana, etc.)", "THORChain", "1inch", "KyberSwap", "LiFi", "CoinGecko API", "Blockaid", "Electron"]
+title: vultisig/vultisig-sdk
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- MPC (Multi-Party Computation)
+- WASM
+- Node.js
+- Blockchain SDKs (Bitcoin, Ethereum, Cosmos, Solana, etc.)
+- THORChain
+- 1inch
+- KyberSwap
+- LiFi
+- CoinGecko API
+- Blockaid
+- Electron
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-chain wallet", "MPC security", "cross-chain swaps", "AI agent integration", "self-custody"]
-source: "https://github.com/vultisig/vultisig-sdk"
-discovered_at: "2026-06-23T23:06:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-chain wallet
+- MPC security
+- cross-chain swaps
+- AI agent integration
+- self-custody
+source: https://github.com/vultisig/vultisig-sdk
+discovered_at: '2026-06-23T23:06:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

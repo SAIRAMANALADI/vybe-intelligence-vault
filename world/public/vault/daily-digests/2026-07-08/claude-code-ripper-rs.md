@@ -1,13 +1,26 @@
 ---
-title: "papislayboy/claude-code-ripper-rs"
-category: "Agent Framework"
-tech_stack: ["Rust", "OpenAI API", "Claude API", "YAML", "Docker", "SQLite", "Mermaid.js", "Cargo"]
+title: papislayboy/claude-code-ripper-rs
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Rust
+- OpenAI API
+- Claude API
+- YAML
+- Docker
+- SQLite
+- Mermaid.js
+- Cargo
 quality_score: 8
 rag_relevance: 9
-tags: ["autonomous code generation", "multi-agent orchestration", "AI-driven architecture", "Rust-based AI", "production-ready code"]
-source: "https://github.com/papislayboy/claude-code-ripper-rs"
-discovered_at: "2026-07-08T12:24:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous code generation
+- multi-agent orchestration
+- AI-driven architecture
+- Rust-based AI
+- production-ready code
+source: https://github.com/papislayboy/claude-code-ripper-rs
+discovered_at: '2026-07-08T12:24:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

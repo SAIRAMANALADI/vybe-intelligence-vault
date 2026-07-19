@@ -1,13 +1,23 @@
 ---
-title: "npmaiecosystem/npmai-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "LLM APIs (NPMAI, OpenAI, Groq, Anthropic, etc.)", "CLI", "PyPI packaging", "Fernet encryption for credentials"]
+title: npmaiecosystem/npmai-agent
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- LLM APIs (NPMAI, OpenAI, Groq, Anthropic, etc.)
+- CLI
+- PyPI packaging
+- Fernet encryption for credentials
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous agents", "multi-llm pipeline", "tool integration", "production-grade", "open-source"]
-source: "https://github.com/npmaiecosystem/npmai-agent"
-discovered_at: "2026-07-06T21:27:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- multi-llm pipeline
+- tool integration
+- production-grade
+- open-source
+source: https://github.com/npmaiecosystem/npmai-agent
+discovered_at: '2026-07-06T21:27:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

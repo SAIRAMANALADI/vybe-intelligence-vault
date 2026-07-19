@@ -1,13 +1,30 @@
 ---
-title: "bug-ops/zeph"
-category: "Agent Framework"
-tech_stack: ["Rust", "SQLite", "Ollama", "Claude", "OpenAI", "Gemini", "Vector DB", "Graph DB", "Embedding Models", "TEE (Trusted Execution Environment)", "MCP (Model Context Protocol)", "ACP (Agent Communication Protocol)"]
+title: bug-ops/zeph
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Rust
+- SQLite
+- Ollama
+- Claude
+- OpenAI
+- Gemini
+- Vector DB
+- Graph DB
+- Embedding Models
+- TEE (Trusted Execution Environment)
+- MCP (Model Context Protocol)
+- ACP (Agent Communication Protocol)
 quality_score: 9
 rag_relevance: 9
-tags: ["memory-first", "long-running agents", "multi-model routing", "graph memory", "sandboxed tools"]
-source: "https://github.com/bug-ops/zeph"
-discovered_at: "2026-07-06T19:48:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory-first
+- long-running agents
+- multi-model routing
+- graph memory
+- sandboxed tools
+source: https://github.com/bug-ops/zeph
+discovered_at: '2026-07-06T19:48:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

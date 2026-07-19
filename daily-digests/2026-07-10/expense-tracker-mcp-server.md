@@ -1,13 +1,21 @@
 ---
-title: "manojkumarjanapati/expense-tracker-mcp-server"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Java (metadata)"]
+title: manojkumarjanapati/expense-tracker-mcp-server
+category: daily-digests/2026-07-10
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Java (metadata)
 quality_score: 4
 rag_relevance: 6
-tags: ["expense tracking", "MCP server", "financial AI", "budget management", "natural language processing"]
-source: "https://github.com/manojkumarjanapati/expense-tracker-mcp-server"
-discovered_at: "2026-07-10T02:27:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- expense tracking
+- MCP server
+- financial AI
+- budget management
+- natural language processing
+source: https://github.com/manojkumarjanapati/expense-tracker-mcp-server
+discovered_at: '2026-07-10T02:27:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

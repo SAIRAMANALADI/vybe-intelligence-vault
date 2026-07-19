@@ -1,13 +1,25 @@
 ---
-title: "0xZ0uk/openfusion"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Hono", "LiteLLM", "Brave Search API", "Docker", "Zod"]
+title: 0xZ0uk/openfusion
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- Hono
+- LiteLLM
+- Brave Search API
+- Docker
+- Zod
 quality_score: 8
 rag_relevance: 9
-tags: ["multi-model", "LLM orchestration", "self-hosted", "RAG optimization", "model fusion"]
-source: "https://github.com/0xZ0uk/openfusion"
-discovered_at: "2026-06-23T16:28:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-model
+- LLM orchestration
+- self-hosted
+- RAG optimization
+- model fusion
+source: https://github.com/0xZ0uk/openfusion
+discovered_at: '2026-06-23T16:28:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

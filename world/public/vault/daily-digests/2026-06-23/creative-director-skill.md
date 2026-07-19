@@ -1,13 +1,23 @@
 ---
-title: "eiwru/creative-director-skill"
-category: "Tooling"
-tech_stack: ["Python", "JavaScript", "Windows Installer (.exe/.msi)", "AI Model APIs (Claude, GPT, Gemini)", "Web Browser (Chrome, Edge)"]
+title: eiwru/creative-director-skill
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- JavaScript
+- Windows Installer (.exe/.msi)
+- AI Model APIs (Claude, GPT, Gemini)
+- Web Browser (Chrome, Edge)
 quality_score: 7
 rag_relevance: 6
-tags: ["creative ideation", "AI-assisted brainstorming", "creativity methods", "idea evaluation", "marketing tools"]
-source: "https://github.com/eiwru/creative-director-skill"
-discovered_at: "2026-06-23T23:06:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- creative ideation
+- AI-assisted brainstorming
+- creativity methods
+- idea evaluation
+- marketing tools
+source: https://github.com/eiwru/creative-director-skill
+discovered_at: '2026-06-23T23:06:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

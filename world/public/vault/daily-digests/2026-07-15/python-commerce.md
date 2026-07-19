@@ -1,13 +1,32 @@
 ---
-title: "agentscore/python-commerce"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Flask", "Django", "AIOHTTP", "Sanic", "Stripe", "JWT", "ASGI", "Redis", "EIP-3009", "MPP (Multi-Party Payment)", "USDC", "CDP (Commerce Data Platform)"]
+title: agentscore/python-commerce
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- Python
+- FastAPI
+- Flask
+- Django
+- AIOHTTP
+- Sanic
+- Stripe
+- JWT
+- ASGI
+- Redis
+- EIP-3009
+- MPP (Multi-Party Payment)
+- USDC
+- CDP (Commerce Data Platform)
 quality_score: 9
 rag_relevance: 7
-tags: ["commerce SDK", "agent integration", "payment processing", "identity verification", "Stripe multichain"]
-source: "https://github.com/agentscore/python-commerce"
-discovered_at: "2026-07-11T22:44:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- commerce SDK
+- agent integration
+- payment processing
+- identity verification
+- Stripe multichain
+source: https://github.com/agentscore/python-commerce
+discovered_at: '2026-07-11T22:44:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

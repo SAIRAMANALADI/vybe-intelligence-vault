@@ -1,13 +1,27 @@
 ---
-title: "dryvist/nix-ai"
-category: "Tooling"
-tech_stack: ["Nix", "Nix Flakes", "Home Manager", "Nixpkgs", "MCP (Model Context Protocol)", "Claude Code", "Gemini", "OpenAI Codex", "MLX (Apple Silicon inference)"]
+title: dryvist/nix-ai
+category: daily-digests/2026-06-25
+tech_stack:
+- Nix
+- Nix Flakes
+- Home Manager
+- Nixpkgs
+- MCP (Model Context Protocol)
+- Claude Code
+- Gemini
+- OpenAI Codex
+- MLX (Apple Silicon inference)
 quality_score: 9
 rag_relevance: 7
-tags: ["Nix", "AI configuration", "MCP servers", "reproducible environments", "developer tooling"]
-source: "https://github.com/dryvist/nix-ai"
-discovered_at: "2026-06-25T11:40:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Nix
+- AI configuration
+- MCP servers
+- reproducible environments
+- developer tooling
+source: https://github.com/dryvist/nix-ai
+discovered_at: '2026-06-25T11:40:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "tooluse-labs/perfetto-mcp-rs"
-category: "Tooling"
-tech_stack: ["Rust", "PerfettoSQL", "MCP (Model Context Protocol)", "trace_processor_shell", "HTTP/REST APIs"]
+title: tooluse-labs/perfetto-mcp-rs
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Rust
+- PerfettoSQL
+- MCP (Model Context Protocol)
+- trace_processor_shell
+- HTTP/REST APIs
 quality_score: 9
 rag_relevance: 8
-tags: ["Perfetto", "trace analysis", "MCP server", "LLM integration", "performance diagnostics"]
-source: "https://github.com/tooluse-labs/perfetto-mcp-rs"
-discovered_at: "2026-07-10T06:53:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Perfetto
+- trace analysis
+- MCP server
+- LLM integration
+- performance diagnostics
+source: https://github.com/tooluse-labs/perfetto-mcp-rs
+discovered_at: '2026-07-10T06:53:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

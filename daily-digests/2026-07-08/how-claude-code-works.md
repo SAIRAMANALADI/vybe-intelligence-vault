@@ -1,13 +1,23 @@
 ---
-title: "Euphonic-treesparrow658/how-claude-code-works"
-category: "Tooling"
-tech_stack: ["Markdown", "HTML", "JSON", "Text Files", "Windows OS"]
+title: Euphonic-treesparrow658/how-claude-code-works
+category: daily-digests/2026-07-08
+tech_stack:
+- Markdown
+- HTML
+- JSON
+- Text Files
+- Windows OS
 quality_score: 7
 rag_relevance: 6
-tags: ["Claude Code", "AI Agent Architecture", "Source Code Analysis", "Context Engineering", "Tool System"]
-source: "https://github.com/Euphonic-treesparrow658/how-claude-code-works"
-discovered_at: "2026-07-08T10:59:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- AI Agent Architecture
+- Source Code Analysis
+- Context Engineering
+- Tool System
+source: https://github.com/Euphonic-treesparrow658/how-claude-code-works
+discovered_at: '2026-07-08T10:59:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

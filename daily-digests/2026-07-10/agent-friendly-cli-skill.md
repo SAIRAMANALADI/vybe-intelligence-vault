@@ -1,13 +1,23 @@
 ---
-title: "x0c/agent-friendly-cli-skill"
-category: "Tooling"
-tech_stack: ["Markdown", "CLI Design", "JSON Contracts", "Agent Integration", "Verification Methodology"]
+title: x0c/agent-friendly-cli-skill
+category: daily-digests/2026-07-10
+tech_stack:
+- Markdown
+- CLI Design
+- JSON Contracts
+- Agent Integration
+- Verification Methodology
 quality_score: 8
 rag_relevance: 9
-tags: ["CLI design", "AI agent compatibility", "non-interactive mode", "JSON contracts", "verification checklist"]
-source: "https://github.com/x0c/agent-friendly-cli-skill"
-discovered_at: "2026-07-10T06:15:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CLI design
+- AI agent compatibility
+- non-interactive mode
+- JSON contracts
+- verification checklist
+source: https://github.com/x0c/agent-friendly-cli-skill
+discovered_at: '2026-07-10T06:15:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "arun3676/code-tribunal"
-category: "Orchestrator"
-tech_stack: ["Python", "Groq API", "Cerebras API", "Gemini API", "Band (coordination framework)", "FastAPI", "Next.js", "Docker", "MCP (Model Context Protocol)", "CLI tools"]
+title: arun3676/code-tribunal
+category: world/public/vault/daily-digests/2026-07-11
+tech_stack:
+- Python
+- Groq API
+- Cerebras API
+- Gemini API
+- Band (coordination framework)
+- FastAPI
+- Next.js
+- Docker
+- MCP (Model Context Protocol)
+- CLI tools
 quality_score: 9
 rag_relevance: 8
-tags: ["AI code review", "intent-conformance", "multi-agent system", "merge automation", "traceability"]
-source: "https://github.com/arun3676/code-tribunal"
-discovered_at: "2026-07-11T17:54:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI code review
+- intent-conformance
+- multi-agent system
+- merge automation
+- traceability
+source: https://github.com/arun3676/code-tribunal
+discovered_at: '2026-07-11T17:54:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

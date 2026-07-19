@@ -1,13 +1,22 @@
 ---
-title: "Freezingmixtureboarding521/tether-md"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron (implied by desktop app)", "Windows OS", "Markdown parsing"]
+title: Freezingmixtureboarding521/tether-md
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Electron (implied by desktop app)
+- Windows OS
+- Markdown parsing
 quality_score: 7
 rag_relevance: 5
-tags: ["markdown editing", "AI-assisted review", "human-in-the-loop", "local processing", "document collaboration"]
-source: "https://github.com/Freezingmixtureboarding521/tether-md"
-discovered_at: "2026-07-07T19:00:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- markdown editing
+- AI-assisted review
+- human-in-the-loop
+- local processing
+- document collaboration
+source: https://github.com/Freezingmixtureboarding521/tether-md
+discovered_at: '2026-07-07T19:00:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

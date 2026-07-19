@@ -1,13 +1,25 @@
 ---
-title: "zycaskevin/Vault-for-LLM"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "Markdown", "Obsidian", "Supabase", "ONNX", "MCP (Model Context Protocol)"]
+title: zycaskevin/Vault-for-LLM
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- SQLite
+- Markdown
+- Obsidian
+- Supabase
+- ONNX
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 10
-tags: ["local-first", "agent memory", "SQLite", "Obsidian integration", "governance"]
-source: "https://github.com/zycaskevin/Vault-for-LLM"
-discovered_at: "2026-06-23T13:48:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first
+- agent memory
+- SQLite
+- Obsidian integration
+- governance
+source: https://github.com/zycaskevin/Vault-for-LLM
+discovered_at: '2026-06-23T13:48:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

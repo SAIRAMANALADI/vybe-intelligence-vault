@@ -1,13 +1,23 @@
 ---
-title: "x0c/ui-prototyper-skill"
-category: "Tooling"
-tech_stack: ["Claude Code", "Codex CLI", "Mobbin API", "AI Image Generation", "MCP Server"]
+title: x0c/ui-prototyper-skill
+category: daily-digests/2026-07-10
+tech_stack:
+- Claude Code
+- Codex CLI
+- Mobbin API
+- AI Image Generation
+- MCP Server
 quality_score: 8
 rag_relevance: 7
-tags: ["UI prototyping", "AI-driven design", "reference-grounded generation", "Claude Code skill", "Codex CLI integration"]
-source: "https://github.com/x0c/ui-prototyper-skill"
-discovered_at: "2026-07-10T06:15:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- UI prototyping
+- AI-driven design
+- reference-grounded generation
+- Claude Code skill
+- Codex CLI integration
+source: https://github.com/x0c/ui-prototyper-skill
+discovered_at: '2026-07-10T06:15:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "xerxesanoxemic375/cagecheck"
-category: "Tooling"
-tech_stack: ["Go", "Windows API", "Sandboxing", "Security Testing"]
+title: xerxesanoxemic375/cagecheck
+category: daily-digests/2026-06-24
+tech_stack:
+- Go
+- Windows API
+- Sandboxing
+- Security Testing
 quality_score: 7
 rag_relevance: 6
-tags: ["sandbox security", "escape testing", "isolation verification", "malware containment", "security validation"]
-source: "https://github.com/xerxesanoxemic375/cagecheck"
-discovered_at: "2026-06-24T06:45:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- sandbox security
+- escape testing
+- isolation verification
+- malware containment
+- security validation
+source: https://github.com/xerxesanoxemic375/cagecheck
+discovered_at: '2026-06-24T06:45:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

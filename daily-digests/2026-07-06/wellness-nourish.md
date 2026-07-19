@@ -1,13 +1,25 @@
 ---
-title: "davidmosiah/wellness-nourish"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "USDA FoodData Central", "Open Food Facts", "ZXing (barcode scanning)", "CLI tools"]
+title: davidmosiah/wellness-nourish
+category: daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- USDA FoodData Central
+- Open Food Facts
+- ZXing (barcode scanning)
+- CLI tools
 quality_score: 9
 rag_relevance: 8
-tags: ["nutrition", "local-first", "MCP server", "AI agents", "privacy-focused"]
-source: "https://github.com/davidmosiah/wellness-nourish"
-discovered_at: "2026-07-06T23:03:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- nutrition
+- local-first
+- MCP server
+- AI agents
+- privacy-focused
+source: https://github.com/davidmosiah/wellness-nourish
+discovered_at: '2026-07-06T23:03:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

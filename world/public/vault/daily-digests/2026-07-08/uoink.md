@@ -1,13 +1,27 @@
 ---
-title: "ryanbiddy/uoink"
-category: "Tooling"
-tech_stack: ["Python", "Rust", "JavaScript", "TypeScript", "Chrome Extension", "Model Context Protocol (MCP)", "OpenAPI", "Whisper (for transcription)", "SQLite (for metadata storage)"]
+title: ryanbiddy/uoink
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- Rust
+- JavaScript
+- TypeScript
+- Chrome Extension
+- Model Context Protocol (MCP)
+- OpenAPI
+- Whisper (for transcription)
+- SQLite (for metadata storage)
 quality_score: 9
 rag_relevance: 10
-tags: ["content capture", "local-first", "MCP server", "AI corpus", "transcript extraction"]
-source: "https://github.com/ryanbiddy/uoink"
-discovered_at: "2026-07-08T17:27:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- content capture
+- local-first
+- MCP server
+- AI corpus
+- transcript extraction
+source: https://github.com/ryanbiddy/uoink
+discovered_at: '2026-07-08T17:27:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

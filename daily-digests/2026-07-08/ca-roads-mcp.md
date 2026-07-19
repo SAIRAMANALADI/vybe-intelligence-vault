@@ -1,13 +1,31 @@
 ---
-title: "nicglazkov/ca-roads-mcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "FastMCP", "httpx", "asyncio", "Caltrans LCS", "CHP sa.xml", "WFIGS ArcGIS", "Nominatim/Photon (geocoding)", "OSRM/Valhalla (routing)", "Cloud Run (deployment)", "GitHub Actions (CI/CD)", "pytest (testing)"]
+title: nicglazkov/ca-roads-mcp
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- FastMCP
+- httpx
+- asyncio
+- Caltrans LCS
+- CHP sa.xml
+- WFIGS ArcGIS
+- Nominatim/Photon (geocoding)
+- OSRM/Valhalla (routing)
+- Cloud Run (deployment)
+- GitHub Actions (CI/CD)
+- pytest (testing)
 quality_score: 9
 rag_relevance: 8
-tags: ["real-time road conditions", "MCP server", "California traffic data", "AI assistant integration", "evaluation suite"]
-source: "https://github.com/nicglazkov/ca-roads-mcp"
-discovered_at: "2026-07-08T11:00:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- real-time road conditions
+- MCP server
+- California traffic data
+- AI assistant integration
+- evaluation suite
+source: https://github.com/nicglazkov/ca-roads-mcp
+discovered_at: '2026-07-08T11:00:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

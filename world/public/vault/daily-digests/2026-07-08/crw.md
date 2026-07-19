@@ -1,13 +1,27 @@
 ---
-title: "us/crw"
-category: "Tooling"
-tech_stack: ["Rust", "Docker", "REST API", "MCP (Model Context Protocol)", "SearXNG", "Playwright (for browser rendering)", "Python SDK", "Node.js SDK", "AGPL-3.0"]
+title: us/crw
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Rust
+- Docker
+- REST API
+- MCP (Model Context Protocol)
+- SearXNG
+- Playwright (for browser rendering)
+- Python SDK
+- Node.js SDK
+- AGPL-3.0
 quality_score: 9
 rag_relevance: 10
-tags: ["web scraping", "crawling", "Rust-native", "AI agents", "Firecrawl alternative"]
-source: "https://github.com/us/crw"
-discovered_at: "2026-07-08T17:26:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web scraping
+- crawling
+- Rust-native
+- AI agents
+- Firecrawl alternative
+source: https://github.com/us/crw
+discovered_at: '2026-07-08T17:26:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

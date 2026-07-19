@@ -1,13 +1,33 @@
 ---
-title: "ArcReel/ArcReel"
-category: "Orchestrator"
-tech_stack: ["Python 3.12+", "FastAPI", "React 19", "Claude Agent SDK", "Gemini", "\u706b\u5c71\u65b9\u821f (Volcano Engine)", "Grok", "OpenAI", "Vidu", "FFmpeg", "SQLAlchemy 2.0", "PostgreSQL/SQLite", "Docker", "TypeScript", "Tailwind CSS 4"]
+title: ArcReel/ArcReel
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python 3.12+
+- FastAPI
+- React 19
+- Claude Agent SDK
+- Gemini
+- 火山方舟 (Volcano Engine)
+- Grok
+- OpenAI
+- Vidu
+- FFmpeg
+- SQLAlchemy 2.0
+- PostgreSQL/SQLite
+- Docker
+- TypeScript
+- Tailwind CSS 4
 quality_score: 9
 rag_relevance: 8
-tags: ["AI video generation", "multi-agent orchestration", "multi-vendor API integration", "RAG pipeline automation", "visual workflow"]
-source: "https://github.com/ArcReel/ArcReel"
-discovered_at: "2026-06-24T02:44:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI video generation
+- multi-agent orchestration
+- multi-vendor API integration
+- RAG pipeline automation
+- visual workflow
+source: https://github.com/ArcReel/ArcReel
+discovered_at: '2026-06-24T02:44:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

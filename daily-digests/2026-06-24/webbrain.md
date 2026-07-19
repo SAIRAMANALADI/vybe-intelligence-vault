@@ -1,13 +1,27 @@
 ---
-title: "webbrain-one/webbrain"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "TypeScript", "Chrome Extensions (Manifest V3)", "Firefox Extensions (Manifest V2)", "Python", "LLM APIs (OpenAI, Anthropic, Google, Mistral, etc.)", "Local LLM Servers (llama.cpp, Ollama, LM Studio, vLLM, SGLang)", "WebAssembly", "HTML/CSS"]
+title: webbrain-one/webbrain
+category: daily-digests/2026-06-24
+tech_stack:
+- JavaScript
+- TypeScript
+- Chrome Extensions (Manifest V3)
+- Firefox Extensions (Manifest V2)
+- Python
+- LLM APIs (OpenAI, Anthropic, Google, Mistral, etc.)
+- Local LLM Servers (llama.cpp, Ollama, LM Studio, vLLM, SGLang)
+- WebAssembly
+- HTML/CSS
 quality_score: 9
 rag_relevance: 9
-tags: ["browser automation", "multi-step agents", "LLM integration", "web interaction", "RAG tooling"]
-source: "https://github.com/webbrain-one/webbrain"
-discovered_at: "2026-06-24T10:20:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- multi-step agents
+- LLM integration
+- web interaction
+- RAG tooling
+source: https://github.com/webbrain-one/webbrain
+discovered_at: '2026-06-24T10:20:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

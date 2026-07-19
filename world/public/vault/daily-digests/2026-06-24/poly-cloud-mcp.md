@@ -1,13 +1,25 @@
 ---
-title: "Hiruna219066/poly-cloud-mcp"
-category: "Tooling"
-tech_stack: ["Deno", "Model Context Protocol (MCP)", "AWS CLI", "Google Cloud CLI (gcloud)", "Azure CLI (az)", "DigitalOcean CLI (doctl)", "ReScript"]
+title: Hiruna219066/poly-cloud-mcp
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Deno
+- Model Context Protocol (MCP)
+- AWS CLI
+- Google Cloud CLI (gcloud)
+- Azure CLI (az)
+- DigitalOcean CLI (doctl)
+- ReScript
 quality_score: 7
 rag_relevance: 8
-tags: ["multi-cloud", "MCP server", "cloud management", "infrastructure automation", "AI tooling"]
-source: "https://github.com/Hiruna219066/poly-cloud-mcp"
-discovered_at: "2026-06-24T18:53:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-cloud
+- MCP server
+- cloud management
+- infrastructure automation
+- AI tooling
+source: https://github.com/Hiruna219066/poly-cloud-mcp
+discovered_at: '2026-06-24T18:53:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

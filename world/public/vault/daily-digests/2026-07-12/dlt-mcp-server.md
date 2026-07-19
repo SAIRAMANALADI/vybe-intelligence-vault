@@ -1,13 +1,24 @@
 ---
-title: "Ulenspiegel/dlt-mcp-server"
-category: "Tooling"
-tech_stack: ["C++", "Qt", "CMake", "Boost", "Model Context Protocol (MCP)", "DLT Viewer"]
+title: Ulenspiegel/dlt-mcp-server
+category: world/public/vault/daily-digests/2026-07-12
+tech_stack:
+- C++
+- Qt
+- CMake
+- Boost
+- Model Context Protocol (MCP)
+- DLT Viewer
 quality_score: 7
 rag_relevance: 6
-tags: ["DLT logs", "MCP server", "log analysis", "AI agents", "real-time querying"]
-source: "https://github.com/Ulenspiegel/dlt-mcp-server"
-discovered_at: "2026-07-10T18:22:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- DLT logs
+- MCP server
+- log analysis
+- AI agents
+- real-time querying
+source: https://github.com/Ulenspiegel/dlt-mcp-server
+discovered_at: '2026-07-10T18:22:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

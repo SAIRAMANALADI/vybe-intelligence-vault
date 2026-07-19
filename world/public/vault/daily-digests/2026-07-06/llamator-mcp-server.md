@@ -1,13 +1,22 @@
 ---
-title: "kyle122497/llamator-mcp-server"
-category: "Tooling"
-tech_stack: ["Python", "MCP Server", "LLM Security", "Automation"]
+title: kyle122497/llamator-mcp-server
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Python
+- MCP Server
+- LLM Security
+- Automation
 quality_score: 6
 rag_relevance: 7
-tags: ["LLM Security", "Red Teaming", "Automation", "MCP Server", "Vulnerability Analysis"]
-source: "https://github.com/kyle122497/llamator-mcp-server"
-discovered_at: "2026-07-06T21:26:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LLM Security
+- Red Teaming
+- Automation
+- MCP Server
+- Vulnerability Analysis
+source: https://github.com/kyle122497/llamator-mcp-server
+discovered_at: '2026-07-06T21:26:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

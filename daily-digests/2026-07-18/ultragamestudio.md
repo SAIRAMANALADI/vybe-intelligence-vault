@@ -1,13 +1,31 @@
 ---
-title: "wellingfeng/UltraGameStudio"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "React", "Vite", "Tauri", "Claude Code", "OpenAI API", "Gemini API", "DeepSeek", "GitHub Models", "Hugging Face", "ComfyUI", "FFmpeg", "Node.js"]
+title: wellingfeng/UltraGameStudio
+category: daily-digests/2026-07-18
+tech_stack:
+- TypeScript
+- React
+- Vite
+- Tauri
+- Claude Code
+- OpenAI API
+- Gemini API
+- DeepSeek
+- GitHub Models
+- Hugging Face
+- ComfyUI
+- FFmpeg
+- Node.js
 quality_score: 9
 rag_relevance: 8
-tags: ["game development", "AI coding agent", "asset generation", "multi-engine support", "free model routing"]
-source: "https://github.com/wellingfeng/UltraGameStudio"
-discovered_at: "2026-07-14T16:13:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- game development
+- AI coding agent
+- asset generation
+- multi-engine support
+- free model routing
+source: https://github.com/wellingfeng/UltraGameStudio
+discovered_at: '2026-07-14T16:13:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

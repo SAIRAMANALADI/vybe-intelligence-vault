@@ -1,13 +1,28 @@
 ---
-title: "skvdhshuk-blip/hao-work"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Electron", "React", "PHP", "Node.js", "Bun", "Composer", "Laravel Livewire", "NativePHP", "HaoCode SDK"]
+title: skvdhshuk-blip/hao-work
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Electron
+- React
+- PHP
+- Node.js
+- Bun
+- Composer
+- Laravel Livewire
+- NativePHP
+- HaoCode SDK
 quality_score: 9
 rag_relevance: 7
-tags: ["AI programming agent", "desktop workbench", "multi-model support", "local LLM integration", "Electron-based"]
-source: "https://github.com/skvdhshuk-blip/hao-work"
-discovered_at: "2026-07-14T21:56:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI programming agent
+- desktop workbench
+- multi-model support
+- local LLM integration
+- Electron-based
+source: https://github.com/skvdhshuk-blip/hao-work
+discovered_at: '2026-07-14T21:56:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

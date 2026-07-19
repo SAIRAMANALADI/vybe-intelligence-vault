@@ -1,13 +1,22 @@
 ---
-title: "quickchange-frog81/kdna-skills"
-category: "Tooling"
-tech_stack: ["Shell", "JavaScript/TypeScript", "CLI Tools", "JSON"]
+title: quickchange-frog81/kdna-skills
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Shell
+- JavaScript/TypeScript
+- CLI Tools
+- JSON
 quality_score: 7
 rag_relevance: 8
-tags: ["domain cognition", "AI agent skills", "knowledge injection", "RAG enhancement", "skill framework"]
-source: "https://github.com/quickchange-frog81/kdna-skills"
-discovered_at: "2026-06-24T06:48:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- domain cognition
+- AI agent skills
+- knowledge injection
+- RAG enhancement
+- skill framework
+source: https://github.com/quickchange-frog81/kdna-skills
+discovered_at: '2026-06-24T06:48:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

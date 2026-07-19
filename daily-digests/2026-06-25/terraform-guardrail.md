@@ -1,13 +1,23 @@
 ---
-title: "imnumb1/terraform-guardrail"
-category: "Tooling"
-tech_stack: ["Python", "Terraform", "CLI", "Web UI", "MCP (Model Context Protocol)"]
+title: imnumb1/terraform-guardrail
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- Terraform
+- CLI
+- Web UI
+- MCP (Model Context Protocol)
 quality_score: 6
 rag_relevance: 7
-tags: ["Terraform", "compliance", "infrastructure-as-code", "governance", "multi-cloud"]
-source: "https://github.com/imnumb1/terraform-guardrail"
-discovered_at: "2026-06-25T07:32:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Terraform
+- compliance
+- infrastructure-as-code
+- governance
+- multi-cloud
+source: https://github.com/imnumb1/terraform-guardrail
+discovered_at: '2026-06-25T07:32:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

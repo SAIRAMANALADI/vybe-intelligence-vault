@@ -1,13 +1,29 @@
 ---
-title: "kirklasalle/Prism"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js (>=22)", "Playwright", "node-pty", "Docker", "LLM APIs (Claude, GPT-4o, Gemini, etc.)", "llama.cpp", "SQLite", "OIDC/SAML", "SCIM", "CI/CD (GitHub Actions)"]
+title: kirklasalle/Prism
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js (>=22)
+- Playwright
+- node-pty
+- Docker
+- LLM APIs (Claude, GPT-4o, Gemini, etc.)
+- llama.cpp
+- SQLite
+- OIDC/SAML
+- SCIM
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 10
-tags: ["autonomous agents", "governance-native", "multi-model orchestration", "cryptographic integrity", "computer-use autonomy"]
-source: "https://github.com/kirklasalle/Prism"
-discovered_at: "2026-07-07T22:10:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- governance-native
+- multi-model orchestration
+- cryptographic integrity
+- computer-use autonomy
+source: https://github.com/kirklasalle/Prism
+discovered_at: '2026-07-07T22:10:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

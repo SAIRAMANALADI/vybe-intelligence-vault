@@ -1,13 +1,22 @@
 ---
-title: "Ingramradical235/anty-framework"
-category: "Agent Framework"
-tech_stack: ["Claude Code", "Shell", "AI Agents", "Automation"]
+title: Ingramradical235/anty-framework
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Claude Code
+- Shell
+- AI Agents
+- Automation
 quality_score: 7
 rag_relevance: 6
-tags: ["AI Workforce", "Claude Code Plugin", "Startup Strategy", "Sales Automation", "Marketing Planning"]
-source: "https://github.com/Ingramradical235/anty-framework"
-discovered_at: "2026-07-07T23:54:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Workforce
+- Claude Code Plugin
+- Startup Strategy
+- Sales Automation
+- Marketing Planning
+source: https://github.com/Ingramradical235/anty-framework
+discovered_at: '2026-07-07T23:54:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

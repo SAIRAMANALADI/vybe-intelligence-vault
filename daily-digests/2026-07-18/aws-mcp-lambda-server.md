@@ -1,13 +1,28 @@
 ---
-title: "poad/aws-mcp-lambda-server"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "AWS Lambda", "AWS CDK", "AWS Cognito", "AWS DynamoDB", "AWS API Gateway", "Hono.js", "Model Context Protocol (MCP)", "Node.js", "GitHub Actions"]
+title: poad/aws-mcp-lambda-server
+category: daily-digests/2026-07-18
+tech_stack:
+- TypeScript
+- AWS Lambda
+- AWS CDK
+- AWS Cognito
+- AWS DynamoDB
+- AWS API Gateway
+- Hono.js
+- Model Context Protocol (MCP)
+- Node.js
+- GitHub Actions
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP Server", "Serverless", "AWS Lambda", "Claude Desktop", "AI Tooling"]
-source: "https://github.com/poad/aws-mcp-lambda-server"
-discovered_at: "2026-07-14T20:09:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- Serverless
+- AWS Lambda
+- Claude Desktop
+- AI Tooling
+source: https://github.com/poad/aws-mcp-lambda-server
+discovered_at: '2026-07-14T20:09:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "prest/prest"
-category: "Tooling"
-tech_stack: ["Go", "PostgreSQL", "HTTP/JSON-RPC", "Docker", "TOML", "Kubernetes"]
+title: prest/prest
+category: daily-digests/2026-07-11
+tech_stack:
+- Go
+- PostgreSQL
+- HTTP/JSON-RPC
+- Docker
+- TOML
+- Kubernetes
 quality_score: 9
 rag_relevance: 7
-tags: ["PostgreSQL", "REST API", "low-code", "database abstraction", "MCP server"]
-source: "https://github.com/prest/prest"
-discovered_at: "2026-07-11T05:39:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- PostgreSQL
+- REST API
+- low-code
+- database abstraction
+- MCP server
+source: https://github.com/prest/prest
+discovered_at: '2026-07-11T05:39:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

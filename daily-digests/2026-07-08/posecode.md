@@ -1,13 +1,26 @@
 ---
-title: "posecode-dev/posecode"
-category: "Tooling"
-tech_stack: ["TypeScript", "Three.js", "Node.js", "Vite", "MCP (Model Context Protocol)", "Forward Kinematics (FK)", "Inverse Kinematics (IK)", "CI/CD Pipelines"]
+title: posecode-dev/posecode
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Three.js
+- Node.js
+- Vite
+- MCP (Model Context Protocol)
+- Forward Kinematics (FK)
+- Inverse Kinematics (IK)
+- CI/CD Pipelines
 quality_score: 9
 rag_relevance: 8
-tags: ["kinematic motion", "DSL", "LLM integration", "3D animation", "biomechanics"]
-source: "https://github.com/posecode-dev/posecode"
-discovered_at: "2026-07-08T17:27:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- kinematic motion
+- DSL
+- LLM integration
+- 3D animation
+- biomechanics
+source: https://github.com/posecode-dev/posecode
+discovered_at: '2026-07-08T17:27:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "modelstudioai/cli"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "CLI Development", "API Integration", "Multimodal AI", "MCP Integration"]
+title: modelstudioai/cli
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- CLI Development
+- API Integration
+- Multimodal AI
+- MCP Integration
 quality_score: 9
 rag_relevance: 8
-tags: ["CLI", "Multimodal AI", "AI Agents", "Model Studio", "Aliyun"]
-source: "https://github.com/modelstudioai/cli"
-discovered_at: "2026-06-24T02:42:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CLI
+- Multimodal AI
+- AI Agents
+- Model Studio
+- Aliyun
+source: https://github.com/modelstudioai/cli
+discovered_at: '2026-06-24T02:42:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "ericjuta/codex"
-category: "Agent Framework"
-tech_stack: ["Rust", "CLI", "OpenAI API", "Shell Scripting", "Package Managers"]
+title: ericjuta/codex
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Rust
+- CLI
+- OpenAI API
+- Shell Scripting
+- Package Managers
 quality_score: 8
 rag_relevance: 7
-tags: ["coding agent", "local AI", "CLI tool", "OpenAI integration", "developer productivity"]
-source: "https://github.com/ericjuta/codex"
-discovered_at: "2026-07-09T19:30:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- coding agent
+- local AI
+- CLI tool
+- OpenAI integration
+- developer productivity
+source: https://github.com/ericjuta/codex
+discovered_at: '2026-07-09T19:30:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

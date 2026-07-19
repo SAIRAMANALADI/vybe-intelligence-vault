@@ -1,13 +1,29 @@
 ---
-title: "visterion/HiveMem"
-category: "Tooling"
-tech_stack: ["Java", "Spring Boot", "PostgreSQL", "SeaweedFS", "pgvector", "Tesseract OCR", "ONNX Runtime", "Claude Haiku (Vision)", "Docker", "JUnit", "Testcontainers"]
+title: visterion/HiveMem
+category: daily-digests/2026-07-08
+tech_stack:
+- Java
+- Spring Boot
+- PostgreSQL
+- SeaweedFS
+- pgvector
+- Tesseract OCR
+- ONNX Runtime
+- Claude Haiku (Vision)
+- Docker
+- JUnit
+- Testcontainers
 quality_score: 9
 rag_relevance: 7
-tags: ["Personal Knowledge Management", "Temporal Knowledge Graph", "Privacy-First", "Append-Only Storage", "AI Data Aggregation"]
-source: "https://github.com/visterion/HiveMem"
-discovered_at: "2026-07-08T19:16:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Personal Knowledge Management
+- Temporal Knowledge Graph
+- Privacy-First
+- Append-Only Storage
+- AI Data Aggregation
+source: https://github.com/visterion/HiveMem
+discovered_at: '2026-07-08T19:16:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

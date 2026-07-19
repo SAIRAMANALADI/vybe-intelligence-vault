@@ -1,13 +1,26 @@
 ---
-title: "babanigit/ask_anything_ai"
-category: "Orchestrator"
-tech_stack: ["Django", "Python", "OpenRouter API", "Gunicorn", "Docker", "SQLite", "django-cors-headers", "requests"]
+title: babanigit/ask_anything_ai
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Django
+- Python
+- OpenRouter API
+- Gunicorn
+- Docker
+- SQLite
+- django-cors-headers
+- requests
 quality_score: 8
 rag_relevance: 7
-tags: ["AI backend", "Django REST API", "OpenRouter integration", "containerized", "prompt engineering"]
-source: "https://github.com/babanigit/ask_anything_ai"
-discovered_at: "2026-07-08T17:25:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI backend
+- Django REST API
+- OpenRouter integration
+- containerized
+- prompt engineering
+source: https://github.com/babanigit/ask_anything_ai
+discovered_at: '2026-07-08T17:25:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

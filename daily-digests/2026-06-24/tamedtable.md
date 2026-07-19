@@ -1,13 +1,27 @@
 ---
-title: "ZSvedic/TamedTable"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "Anthropic API", "Node.js", "LLM (Claude models)", "Cucumber (testing)", "Playwright (browser automation)", "Gherkin (test cases)", "React (web UI)"]
+title: ZSvedic/TamedTable
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Bun
+- Anthropic API
+- Node.js
+- LLM (Claude models)
+- Cucumber (testing)
+- Playwright (browser automation)
+- Gherkin (test cases)
+- React (web UI)
 quality_score: 9
 rag_relevance: 7
-tags: ["ETL", "natural language processing", "data transformation", "CLI tool", "LLM-driven"]
-source: "https://github.com/ZSvedic/TamedTable"
-discovered_at: "2026-06-24T18:51:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- ETL
+- natural language processing
+- data transformation
+- CLI tool
+- LLM-driven
+source: https://github.com/ZSvedic/TamedTable
+discovered_at: '2026-06-24T18:51:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "gbevin/RouteMIDI"
-category: "Tooling"
-tech_stack: ["C++", "JUCE Framework", "JavaScript", "Model Context Protocol (MCP)", "Command-line Interface"]
+title: gbevin/RouteMIDI
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- C++
+- JUCE Framework
+- JavaScript
+- Model Context Protocol (MCP)
+- Command-line Interface
 quality_score: 9
 rag_relevance: 6
-tags: ["MIDI", "routing", "filtering", "transformation", "MCP"]
-source: "https://github.com/gbevin/RouteMIDI"
-discovered_at: "2026-07-08T17:26:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MIDI
+- routing
+- filtering
+- transformation
+- MCP
+source: https://github.com/gbevin/RouteMIDI
+discovered_at: '2026-07-08T17:26:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

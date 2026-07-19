@@ -1,13 +1,25 @@
 ---
-title: "2389-research/dippin-lang"
-category: "Tooling"
-tech_stack: ["Go", "Domain-Specific Language (DSL)", "Graphviz DOT", "CLI", "JSON", "YAML (for configuration)", "Shell scripting"]
+title: 2389-research/dippin-lang
+category: daily-digests/2026-07-08
+tech_stack:
+- Go
+- Domain-Specific Language (DSL)
+- Graphviz DOT
+- CLI
+- JSON
+- YAML (for configuration)
+- Shell scripting
 quality_score: 9
 rag_relevance: 8
-tags: ["AI pipeline authoring", "DSL", "workflow automation", "Graphviz alternative", "AI toolchain"]
-source: "https://github.com/2389-research/dippin-lang"
-discovered_at: "2026-07-08T19:16:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI pipeline authoring
+- DSL
+- workflow automation
+- Graphviz alternative
+- AI toolchain
+source: https://github.com/2389-research/dippin-lang
+discovered_at: '2026-07-08T19:16:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

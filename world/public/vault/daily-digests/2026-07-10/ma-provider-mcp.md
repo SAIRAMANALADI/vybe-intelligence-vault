@@ -1,13 +1,26 @@
 ---
-title: "trudenboy/ma-provider-mcp"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "Model Context Protocol (MCP)", "Music Assistant", "PrefectHQ", "JWT", "OAuth 2.0", "Streamable HTTP Transport"]
+title: trudenboy/ma-provider-mcp
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Python
+- FastMCP
+- Model Context Protocol (MCP)
+- Music Assistant
+- PrefectHQ
+- JWT
+- OAuth 2.0
+- Streamable HTTP Transport
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP Server", "Music Assistant", "AI Integration", "Model Context Protocol", "Media Control"]
-source: "https://github.com/trudenboy/ma-provider-mcp"
-discovered_at: "2026-07-10T06:32:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- Music Assistant
+- AI Integration
+- Model Context Protocol
+- Media Control
+source: https://github.com/trudenboy/ma-provider-mcp
+discovered_at: '2026-07-10T06:32:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

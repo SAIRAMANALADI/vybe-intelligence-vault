@@ -1,13 +1,22 @@
 ---
-title: "Wafaamu3113/boss-cli"
-category: "Tooling"
-tech_stack: ["Python", "Command-Line Interface (CLI)", "Windows OS", "Reverse-Engineered API"]
+title: Wafaamu3113/boss-cli
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Command-Line Interface (CLI)
+- Windows OS
+- Reverse-Engineered API
 quality_score: 7
 rag_relevance: 3
-tags: ["job search", "CLI tool", "BOSS \u76f4\u8058", "application management", "Windows automation"]
-source: "https://github.com/Wafaamu3113/boss-cli"
-discovered_at: "2026-06-23T02:45:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- job search
+- CLI tool
+- BOSS 直聘
+- application management
+- Windows automation
+source: https://github.com/Wafaamu3113/boss-cli
+discovered_at: '2026-06-23T02:45:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

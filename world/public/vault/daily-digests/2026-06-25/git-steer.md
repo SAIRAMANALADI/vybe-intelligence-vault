@@ -1,13 +1,27 @@
 ---
-title: "ry-ops/git-steer"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "GitHub API", "GraphQL", "GitHub Actions", "REST API", "Keychain (macOS)", "Docker (implied for Actions runners)"]
+title: ry-ops/git-steer
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- GitHub API
+- GraphQL
+- GitHub Actions
+- REST API
+- Keychain (macOS)
+- Docker (implied for Actions runners)
 quality_score: 9
 rag_relevance: 9
-tags: ["autonomous GitHub management", "MCP server", "rate-limit-hardened", "zero local footprint", "CI/CD orchestration"]
-source: "https://github.com/ry-ops/git-steer"
-discovered_at: "2026-06-25T11:43:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous GitHub management
+- MCP server
+- rate-limit-hardened
+- zero local footprint
+- CI/CD orchestration
+source: https://github.com/ry-ops/git-steer
+discovered_at: '2026-06-25T11:43:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

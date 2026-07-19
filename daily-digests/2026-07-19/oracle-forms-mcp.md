@@ -1,13 +1,25 @@
 ---
-title: "aoreshkov/oracle-forms-mcp"
-category: "Tooling"
-tech_stack: ["Kotlin", "Kotlin Multiplatform", "MCP (Model Context Protocol)", "StAX XML Parser", "JVM", "Gradle", "Docker"]
+title: aoreshkov/oracle-forms-mcp
+category: daily-digests/2026-07-19
+tech_stack:
+- Kotlin
+- Kotlin Multiplatform
+- MCP (Model Context Protocol)
+- StAX XML Parser
+- JVM
+- Gradle
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["Oracle Forms", "MCP Server", "Legacy Modernization", "PL/SQL", "Reverse Engineering"]
-source: "https://github.com/aoreshkov/oracle-forms-mcp"
-discovered_at: "2026-07-15T05:29:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Oracle Forms
+- MCP Server
+- Legacy Modernization
+- PL/SQL
+- Reverse Engineering
+source: https://github.com/aoreshkov/oracle-forms-mcp
+discovered_at: '2026-07-15T05:29:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

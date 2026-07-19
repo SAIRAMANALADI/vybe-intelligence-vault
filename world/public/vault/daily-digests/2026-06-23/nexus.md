@@ -1,13 +1,28 @@
 ---
-title: "PalashMulchandani/nexus"
-category: "Agent Framework"
-tech_stack: ["React", "Tailwind CSS", "FastAPI", "LangGraph", "LangChain", "Groq API", "Tavily API", "ChromaDB", "Python", "JavaScript"]
+title: PalashMulchandani/nexus
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- React
+- Tailwind CSS
+- FastAPI
+- LangGraph
+- LangChain
+- Groq API
+- Tavily API
+- ChromaDB
+- Python
+- JavaScript
 quality_score: 8
 rag_relevance: 9
-tags: ["autonomous agents", "research automation", "LangGraph", "real-time web search", "agentic AI"]
-source: "https://github.com/PalashMulchandani/nexus"
-discovered_at: "2026-06-23T10:36:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- research automation
+- LangGraph
+- real-time web search
+- agentic AI
+source: https://github.com/PalashMulchandani/nexus
+discovered_at: '2026-06-23T10:36:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

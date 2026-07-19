@@ -1,13 +1,22 @@
 ---
-title: "ansariwaqqas/storybook-mcp-server"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Storybook", "C++ (for MCP core)"]
+title: ansariwaqqas/storybook-mcp-server
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Storybook
+- C++ (for MCP core)
 quality_score: 5
 rag_relevance: 7
-tags: ["MCP", "Storybook", "UI Components", "AI Integration", "TypeScript"]
-source: "https://github.com/ansariwaqqas/storybook-mcp-server"
-discovered_at: "2026-06-23T19:15:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- Storybook
+- UI Components
+- AI Integration
+- TypeScript
+source: https://github.com/ansariwaqqas/storybook-mcp-server
+discovered_at: '2026-06-23T19:15:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

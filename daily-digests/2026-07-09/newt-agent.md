@@ -1,13 +1,28 @@
 ---
-title: "Gilamonster-Foundation/newt-agent"
-category: "Agent Framework"
-tech_stack: ["Rust", "Python", "PyO3", "Ollama", "vLLM", "Git", "JSON-RPC", "TOML", "Maturin", "Cargo"]
+title: Gilamonster-Foundation/newt-agent
+category: daily-digests/2026-07-09
+tech_stack:
+- Rust
+- Python
+- PyO3
+- Ollama
+- vLLM
+- Git
+- JSON-RPC
+- TOML
+- Maturin
+- Cargo
 quality_score: 9
 rag_relevance: 8
-tags: ["local-first", "agentic coding", "Rust-based", "privacy-focused", "minimalist"]
-source: "https://github.com/Gilamonster-Foundation/newt-agent"
-discovered_at: "2026-07-09T19:30:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first
+- agentic coding
+- Rust-based
+- privacy-focused
+- minimalist
+source: https://github.com/Gilamonster-Foundation/newt-agent
+discovered_at: '2026-07-09T19:30:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

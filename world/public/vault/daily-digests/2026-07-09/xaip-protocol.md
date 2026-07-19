@@ -1,13 +1,27 @@
 ---
-title: "xkumakichi/xaip-protocol"
-category: "Tooling"
-tech_stack: ["TypeScript", "Ed25519 (cryptographic signing)", "Cloudflare Workers", "Cloudflare D1", "Node.js", "MCP (Model Context Protocol)", "Bayesian statistics", "REST APIs", "DID (Decentralized Identifiers)"]
+title: xkumakichi/xaip-protocol
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Ed25519 (cryptographic signing)
+- Cloudflare Workers
+- Cloudflare D1
+- Node.js
+- MCP (Model Context Protocol)
+- Bayesian statistics
+- REST APIs
+- DID (Decentralized Identifiers)
 quality_score: 9
 rag_relevance: 8
-tags: ["trust layer", "execution receipts", "agent tool calls", "delegation evidence", "Bayesian scoring"]
-source: "https://github.com/xkumakichi/xaip-protocol"
-discovered_at: "2026-07-09T21:18:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- trust layer
+- execution receipts
+- agent tool calls
+- delegation evidence
+- Bayesian scoring
+source: https://github.com/xkumakichi/xaip-protocol
+discovered_at: '2026-07-09T21:18:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

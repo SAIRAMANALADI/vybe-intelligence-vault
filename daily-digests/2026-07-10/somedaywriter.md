@@ -1,13 +1,25 @@
 ---
-title: "kevinv92/SomedayWriter"
-category: "UI Component"
-tech_stack: ["Electron", "React", "TypeScript", "CodeMirror 6", "Model Context Protocol (MCP)", "LanguageTool", "Vim Mode"]
+title: kevinv92/SomedayWriter
+category: daily-digests/2026-07-10
+tech_stack:
+- Electron
+- React
+- TypeScript
+- CodeMirror 6
+- Model Context Protocol (MCP)
+- LanguageTool
+- Vim Mode
 quality_score: 8
 rag_relevance: 7
-tags: ["writing application", "markdown editor", "local-first", "story intelligence", "AI integration"]
-source: "https://github.com/kevinv92/SomedayWriter"
-discovered_at: "2026-07-10T06:31:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- writing application
+- markdown editor
+- local-first
+- story intelligence
+- AI integration
+source: https://github.com/kevinv92/SomedayWriter
+discovered_at: '2026-07-10T06:31:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "donkinbioremediation110/MECCHA-HAMELEON-TRAINER"
-category: "Tooling"
-tech_stack: ["Python", "Windows API", "DirectX", "Steam Client"]
+title: donkinbioremediation110/MECCHA-HAMELEON-TRAINER
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- Windows API
+- DirectX
+- Steam Client
 quality_score: 4
 rag_relevance: 2
-tags: ["game optimization", "performance tuning", "Windows utility", "gaming tool", "frame rate enhancement"]
-source: "https://github.com/donkinbioremediation110/MECCHA-HAMELEON-TRAINER"
-discovered_at: "2026-07-07T19:00:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- game optimization
+- performance tuning
+- Windows utility
+- gaming tool
+- frame rate enhancement
+source: https://github.com/donkinbioremediation110/MECCHA-HAMELEON-TRAINER
+discovered_at: '2026-07-07T19:00:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

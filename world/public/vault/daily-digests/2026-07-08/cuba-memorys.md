@@ -1,13 +1,29 @@
 ---
-title: "gbh3247872997-del/cuba-memorys"
-category: "Orchestrator"
-tech_stack: ["Rust", "PostgreSQL", "pgvector", "Model Context Protocol (MCP)", "ONNX Runtime", "FSRS-6", "Hebbian Learning", "BCM Metaplasticity", "Leiden Community Detection", "PageRank", "Brandes Centrality"]
+title: gbh3247872997-del/cuba-memorys
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Rust
+- PostgreSQL
+- pgvector
+- Model Context Protocol (MCP)
+- ONNX Runtime
+- FSRS-6
+- Hebbian Learning
+- BCM Metaplasticity
+- Leiden Community Detection
+- PageRank
+- Brandes Centrality
 quality_score: 9
 rag_relevance: 10
-tags: ["long-term memory", "knowledge graph", "neuroscience-inspired", "anti-hallucination", "MCP server"]
-source: "https://github.com/gbh3247872997-del/cuba-memorys"
-discovered_at: "2026-07-08T02:08:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- long-term memory
+- knowledge graph
+- neuroscience-inspired
+- anti-hallucination
+- MCP server
+source: https://github.com/gbh3247872997-del/cuba-memorys
+discovered_at: '2026-07-08T02:08:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

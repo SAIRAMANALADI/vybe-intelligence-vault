@@ -1,13 +1,23 @@
 ---
-title: "iturri-ai/iturri-mcp"
-category: "Tooling"
-tech_stack: ["MCP (Model Context Protocol)", "HTTP/JSON-RPC", "USDC (on-chain payments)", "SHA-256 checksumming", "Data verification pipelines"]
+title: iturri-ai/iturri-mcp
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- MCP (Model Context Protocol)
+- HTTP/JSON-RPC
+- USDC (on-chain payments)
+- SHA-256 checksumming
+- Data verification pipelines
 quality_score: 9
 rag_relevance: 8
-tags: ["market data", "verified history", "AI agents", "trading bots", "data quality"]
-source: "https://github.com/iturri-ai/iturri-mcp"
-discovered_at: "2026-07-13T02:34:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- market data
+- verified history
+- AI agents
+- trading bots
+- data quality
+source: https://github.com/iturri-ai/iturri-mcp
+discovered_at: '2026-07-13T02:34:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

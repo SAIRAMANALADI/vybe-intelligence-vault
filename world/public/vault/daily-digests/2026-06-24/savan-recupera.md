@@ -1,13 +1,26 @@
 ---
-title: "ViniciusBenevides/savan-recupera"
-category: "Orchestrator"
-tech_stack: ["Next.js", "Supabase (Postgres + Edge Functions)", "n8n", "Chatwoot", "Asaas (Pix payments)", "TypeScript", "Python", "OpenAI (for negotiation bot)"]
+title: ViniciusBenevides/savan-recupera
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Next.js
+- Supabase (Postgres + Edge Functions)
+- n8n
+- Chatwoot
+- Asaas (Pix payments)
+- TypeScript
+- Python
+- OpenAI (for negotiation bot)
 quality_score: 8
 rag_relevance: 7
-tags: ["debt recovery", "WhatsApp automation", "AI negotiation", "Pix payments", "no-code dashboard"]
-source: "https://github.com/ViniciusBenevides/savan-recupera"
-discovered_at: "2026-06-24T18:52:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- debt recovery
+- WhatsApp automation
+- AI negotiation
+- Pix payments
+- no-code dashboard
+source: https://github.com/ViniciusBenevides/savan-recupera
+discovered_at: '2026-06-24T18:52:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

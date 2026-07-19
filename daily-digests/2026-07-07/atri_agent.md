@@ -1,13 +1,30 @@
 ---
-title: "Tz-WIND/ATRI_AGENT"
-category: "Orchestrator"
-tech_stack: ["Python", "Rust", "Vue.js", "CPAL", "VST3", "LLM (OpenAI/Anthropic compatible)", "Neo4j", "SQLite", "WebSocket", "REST API", "MCP", "Skills Framework"]
+title: Tz-WIND/ATRI_AGENT
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- Rust
+- Vue.js
+- CPAL
+- VST3
+- LLM (OpenAI/Anthropic compatible)
+- Neo4j
+- SQLite
+- WebSocket
+- REST API
+- MCP
+- Skills Framework
 quality_score: 9
 rag_relevance: 8
-tags: ["AI music generation", "DAW automation", "LLM agent tools", "MIDI manipulation", "VST3 integration"]
-source: "https://github.com/Tz-WIND/ATRI_AGENT"
-discovered_at: "2026-07-07T02:32:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI music generation
+- DAW automation
+- LLM agent tools
+- MIDI manipulation
+- VST3 integration
+source: https://github.com/Tz-WIND/ATRI_AGENT
+discovered_at: '2026-07-07T02:32:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

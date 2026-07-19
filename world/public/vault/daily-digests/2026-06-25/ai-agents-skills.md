@@ -1,13 +1,21 @@
 ---
-title: "Makiya1202/ai-agents-skills"
-category: "Tooling"
-tech_stack: ["Python", "VS Code", "ZIP/Archive Distribution"]
+title: Makiya1202/ai-agents-skills
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- VS Code
+- ZIP/Archive Distribution
 quality_score: 5
 rag_relevance: 6
-tags: ["AI coding assistance", "skill modules", "IDE integration", "code completion", "developer tools"]
-source: "https://github.com/Makiya1202/ai-agents-skills"
-discovered_at: "2026-06-25T00:05:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding assistance
+- skill modules
+- IDE integration
+- code completion
+- developer tools
+source: https://github.com/Makiya1202/ai-agents-skills
+discovered_at: '2026-06-25T00:05:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

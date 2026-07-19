@@ -1,13 +1,22 @@
 ---
-title: "Wackodacko/agent-skills-mcp"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Model Context Protocol (MCP)", "Electron (implied by installer types)", "Node.js (implied by JavaScript runtime)"]
+title: Wackodacko/agent-skills-mcp
+category: daily-digests/2026-07-09
+tech_stack:
+- JavaScript
+- Model Context Protocol (MCP)
+- Electron (implied by installer types)
+- Node.js (implied by JavaScript runtime)
 quality_score: 5
 rag_relevance: 7
-tags: ["MCP server", "AI agent skills", "task execution", "specialized instructions", "Model Context Protocol"]
-source: "https://github.com/Wackodacko/agent-skills-mcp"
-discovered_at: "2026-07-09T00:06:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- AI agent skills
+- task execution
+- specialized instructions
+- Model Context Protocol
+source: https://github.com/Wackodacko/agent-skills-mcp
+discovered_at: '2026-07-09T00:06:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

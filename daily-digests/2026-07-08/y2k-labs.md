@@ -1,13 +1,21 @@
 ---
-title: "carobbarlightshow628/y2k-labs"
-category: "Tooling"
-tech_stack: ["JavaScript", "Windows Desktop App", "AI Agent Integration"]
+title: carobbarlightshow628/y2k-labs
+category: daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- Windows Desktop App
+- AI Agent Integration
 quality_score: 6
 rag_relevance: 5
-tags: ["DevOps", "AI Workflow Automation", "Agile Planning", "Backlog Management", "Windows App"]
-source: "https://github.com/carobbarlightshow628/y2k-labs"
-discovered_at: "2026-07-08T22:14:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- DevOps
+- AI Workflow Automation
+- Agile Planning
+- Backlog Management
+- Windows App
+source: https://github.com/carobbarlightshow628/y2k-labs
+discovered_at: '2026-07-08T22:14:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

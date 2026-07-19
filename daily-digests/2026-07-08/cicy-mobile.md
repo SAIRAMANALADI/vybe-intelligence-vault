@@ -1,13 +1,26 @@
 ---
-title: "cicy-ai/cicy-mobile"
-category: "UI Component"
-tech_stack: ["TypeScript", "React Native", "Expo", "React", "Cloudflare Workers", "GitHub Actions", "Android/iOS Native", "Telegram Mini App SDK"]
+title: cicy-ai/cicy-mobile
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- React Native
+- Expo
+- React
+- Cloudflare Workers
+- GitHub Actions
+- Android/iOS Native
+- Telegram Mini App SDK
 quality_score: 9
 rag_relevance: 7
-tags: ["cross-platform", "agent client", "Expo", "Telegram Mini App", "PWA"]
-source: "https://github.com/cicy-ai/cicy-mobile"
-discovered_at: "2026-07-08T17:24:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- cross-platform
+- agent client
+- Expo
+- Telegram Mini App
+- PWA
+source: https://github.com/cicy-ai/cicy-mobile
+discovered_at: '2026-07-08T17:24:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

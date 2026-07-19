@@ -1,13 +1,22 @@
 ---
-title: "Ayushje/nslookup-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Windows", "nslookup.io API", "MCP (Model Context Protocol)"]
+title: Ayushje/nslookup-mcp
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Windows
+- nslookup.io API
+- MCP (Model Context Protocol)
 quality_score: 6
 rag_relevance: 5
-tags: ["DNS lookup", "certificate monitoring", "propagation checks", "MCP server", "Windows utility"]
-source: "https://github.com/Ayushje/nslookup-mcp"
-discovered_at: "2026-07-07T23:55:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- DNS lookup
+- certificate monitoring
+- propagation checks
+- MCP server
+- Windows utility
+source: https://github.com/Ayushje/nslookup-mcp
+discovered_at: '2026-07-07T23:55:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

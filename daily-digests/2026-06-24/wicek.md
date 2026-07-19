@@ -1,13 +1,26 @@
 ---
-title: "xxczaki/wicek"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Claude Agent SDK", "Discord.js", "Kubernetes (K3s)", "Helm", "Chrome DevTools MCP", "GitOps (ArgoCD)"]
+title: xxczaki/wicek
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- Claude Agent SDK
+- Discord.js
+- Kubernetes (K3s)
+- Helm
+- Chrome DevTools MCP
+- GitOps (ArgoCD)
 quality_score: 8
 rag_relevance: 7
-tags: ["Discord bot", "Claude Code", "AI agent", "Kubernetes", "GitOps"]
-source: "https://github.com/xxczaki/wicek"
-discovered_at: "2026-06-24T18:49:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Discord bot
+- Claude Code
+- AI agent
+- Kubernetes
+- GitOps
+source: https://github.com/xxczaki/wicek
+discovered_at: '2026-06-24T18:49:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

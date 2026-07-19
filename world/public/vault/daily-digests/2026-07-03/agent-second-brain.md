@@ -1,13 +1,22 @@
 ---
-title: "benizlerken/agent-second-brain"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude Code", "Knowledge Management", "AI Agents"]
+title: benizlerken/agent-second-brain
+category: world/public/vault/daily-digests/2026-07-03
+tech_stack:
+- Python
+- Claude Code
+- Knowledge Management
+- AI Agents
 quality_score: 4
 rag_relevance: 7
-tags: ["knowledge management", "AI agents", "dynamic learning", "Claude Code", "second brain"]
-source: "https://github.com/benizlerken/agent-second-brain"
-discovered_at: "2026-07-03T20:58:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- knowledge management
+- AI agents
+- dynamic learning
+- Claude Code
+- second brain
+source: https://github.com/benizlerken/agent-second-brain
+discovered_at: '2026-07-03T20:58:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

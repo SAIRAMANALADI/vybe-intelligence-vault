@@ -1,13 +1,21 @@
 ---
-title: "NachaFromMars/prompt-engineering-expert"
-category: "Tooling"
-tech_stack: ["Python", "OpenClaw", "Prompt Engineering Techniques"]
+title: NachaFromMars/prompt-engineering-expert
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- OpenClaw
+- Prompt Engineering Techniques
 quality_score: 7
 rag_relevance: 9
-tags: ["prompt engineering", "AI optimization", "system instructions", "prompt debugging", "multimodal prompting"]
-source: "https://github.com/NachaFromMars/prompt-engineering-expert"
-discovered_at: "2026-06-23T06:48:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- prompt engineering
+- AI optimization
+- system instructions
+- prompt debugging
+- multimodal prompting
+source: https://github.com/NachaFromMars/prompt-engineering-expert
+discovered_at: '2026-06-23T06:48:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "Alejandrowe-bot/claude-mcps-and-prompts"
-category: "Tooling"
-tech_stack: ["Claude (AI Model)", "Model Context Protocol (MCP)", "n8n (Workflow Automation)", "SEO Optimization Techniques"]
+title: Alejandrowe-bot/claude-mcps-and-prompts
+category: daily-digests/2026-07-09
+tech_stack:
+- Claude (AI Model)
+- Model Context Protocol (MCP)
+- n8n (Workflow Automation)
+- SEO Optimization Techniques
 quality_score: 5
 rag_relevance: 4
-tags: ["SEO automation", "content generation", "workflow automation", "Claude MCP", "blogging tools"]
-source: "https://github.com/Alejandrowe-bot/claude-mcps-and-prompts"
-discovered_at: "2026-07-09T00:06:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- SEO automation
+- content generation
+- workflow automation
+- Claude MCP
+- blogging tools
+source: https://github.com/Alejandrowe-bot/claude-mcps-and-prompts
+discovered_at: '2026-07-09T00:06:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

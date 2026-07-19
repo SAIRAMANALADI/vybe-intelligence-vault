@@ -1,13 +1,28 @@
 ---
-title: "apistol78/traktor"
-category: "Tooling"
-tech_stack: ["C++", "Vulkan", "Lua", "Jolt Physics", "Bullet Physics", "OpenAL", "DirectSound", "XAudio2", "ReSTIR", "MCP Server"]
+title: apistol78/traktor
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- C++
+- Vulkan
+- Lua
+- Jolt Physics
+- Bullet Physics
+- OpenAL
+- DirectSound
+- XAudio2
+- ReSTIR
+- MCP Server
 quality_score: 8
 rag_relevance: 5
-tags: ["game engine", "3D rendering", "Vulkan", "scripting", "physics"]
-source: "https://github.com/apistol78/traktor"
-discovered_at: "2026-07-09T17:18:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- game engine
+- 3D rendering
+- Vulkan
+- scripting
+- physics
+source: https://github.com/apistol78/traktor
+discovered_at: '2026-07-09T17:18:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

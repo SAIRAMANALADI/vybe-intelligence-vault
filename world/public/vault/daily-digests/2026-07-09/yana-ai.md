@@ -1,13 +1,25 @@
 ---
-title: "yanacuti1121/Yana-AI"
-category: "Tooling"
-tech_stack: ["Rust", "Python", "JavaScript/TypeScript", "Node.js", "Git", "Shell Scripting", "CI/CD (GitHub Actions)"]
+title: yanacuti1121/Yana-AI
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Rust
+- Python
+- JavaScript/TypeScript
+- Node.js
+- Git
+- Shell Scripting
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 8
-tags: ["safety firewall", "AI agent protection", "command interception", "deterministic rules", "local execution"]
-source: "https://github.com/yanacuti1121/Yana-AI"
-discovered_at: "2026-07-09T11:53:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- safety firewall
+- AI agent protection
+- command interception
+- deterministic rules
+- local execution
+source: https://github.com/yanacuti1121/Yana-AI
+discovered_at: '2026-07-09T11:53:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

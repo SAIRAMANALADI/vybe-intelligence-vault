@@ -1,13 +1,28 @@
 ---
-title: "jztan/pdf-mcp"
-category: "Tooling"
-tech_stack: ["Python", "PyMuPDF (fitz)", "FastEmbed", "SQLite", "Tesseract OCR", "Pydantic", "MCP (Model Context Protocol)", "FastAPI", "NumPy", "Pillow (PIL)"]
+title: jztan/pdf-mcp
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- PyMuPDF (fitz)
+- FastEmbed
+- SQLite
+- Tesseract OCR
+- Pydantic
+- MCP (Model Context Protocol)
+- FastAPI
+- NumPy
+- Pillow (PIL)
 quality_score: 9
 rag_relevance: 10
-tags: ["PDF processing", "MCP server", "AI agent tools", "OCR", "Hybrid search"]
-source: "https://github.com/jztan/pdf-mcp"
-discovered_at: "2026-06-25T14:18:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- PDF processing
+- MCP server
+- AI agent tools
+- OCR
+- Hybrid search
+source: https://github.com/jztan/pdf-mcp
+discovered_at: '2026-06-25T14:18:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

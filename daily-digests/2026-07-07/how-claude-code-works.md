@@ -1,13 +1,28 @@
 ---
-title: "Windy3f3f3f3f/how-claude-code-works"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "React", "Bun", "Zod", "Mermaid", "OpenTelemetry", "Git Worktree", "tree-sitter", "Node.js", "Python"]
+title: Windy3f3f3f3f/how-claude-code-works
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- React
+- Bun
+- Zod
+- Mermaid
+- OpenTelemetry
+- Git Worktree
+- tree-sitter
+- Node.js
+- Python
 quality_score: 9
 rag_relevance: 10
-tags: ["Claude Code", "AI Agent Architecture", "Agentic Coding", "System Design", "Security"]
-source: "https://github.com/Windy3f3f3f3f/how-claude-code-works"
-discovered_at: "2026-07-07T13:16:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- AI Agent Architecture
+- Agentic Coding
+- System Design
+- Security
+source: https://github.com/Windy3f3f3f3f/how-claude-code-works
+discovered_at: '2026-07-07T13:16:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

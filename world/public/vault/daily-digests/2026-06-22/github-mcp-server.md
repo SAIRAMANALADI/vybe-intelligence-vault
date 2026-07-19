@@ -1,13 +1,24 @@
 ---
-title: "github/github-mcp-server"
-category: "Agent Framework"
-tech_stack: ["Go", "Docker", "GitHub API", "MCP (Model Context Protocol)", "HTTP/REST", "GraphQL"]
+title: github/github-mcp-server
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Go
+- Docker
+- GitHub API
+- MCP (Model Context Protocol)
+- HTTP/REST
+- GraphQL
 quality_score: 9
 rag_relevance: 10
-tags: ["GitHub integration", "MCP server", "AI agent tools", "natural language automation", "CI/CD insights"]
-source: "https://github.com/github/github-mcp-server"
-discovered_at: "2026-06-22T18:13:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- GitHub integration
+- MCP server
+- AI agent tools
+- natural language automation
+- CI/CD insights
+source: https://github.com/github/github-mcp-server
+discovered_at: '2026-06-22T18:13:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

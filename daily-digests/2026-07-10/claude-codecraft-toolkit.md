@@ -1,13 +1,27 @@
 ---
-title: "Frun1753/claude-codecraft-toolkit"
-category: "Tooling"
-tech_stack: ["Python", "Claude API", "OpenAI API", "Docker", "Git", "YAML", "REST API", "CLI", "CI/CD (GitHub Actions)"]
+title: Frun1753/claude-codecraft-toolkit
+category: daily-digests/2026-07-10
+tech_stack:
+- Python
+- Claude API
+- OpenAI API
+- Docker
+- Git
+- YAML
+- REST API
+- CLI
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI-powered code review", "security auditing", "dependency governance", "multi-model AI", "context-aware analysis"]
-source: "https://github.com/Frun1753/claude-codecraft-toolkit"
-discovered_at: "2026-07-10T06:16:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-powered code review
+- security auditing
+- dependency governance
+- multi-model AI
+- context-aware analysis
+source: https://github.com/Frun1753/claude-codecraft-toolkit
+discovered_at: '2026-07-10T06:16:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

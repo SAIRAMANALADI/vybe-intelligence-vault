@@ -1,13 +1,28 @@
 ---
-title: "0x2fycy3/inquisitor"
-category: "Orchestrator"
-tech_stack: ["Python 3.12+", "MCP (Model Context Protocol)", "FastMCP", "uv (package manager)", "httpx", "SQLite", "trafilatura", "readability-lxml", "pytest", "ruff"]
+title: 0x2fycy3/inquisitor
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- Python 3.12+
+- MCP (Model Context Protocol)
+- FastMCP
+- uv (package manager)
+- httpx
+- SQLite
+- trafilatura
+- readability-lxml
+- pytest
+- ruff
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "AI agent optimization", "problem triage", "heuristic pruning", "structured investigation"]
-source: "https://github.com/0x2fycy3/inquisitor"
-discovered_at: "2026-07-14T14:48:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- AI agent optimization
+- problem triage
+- heuristic pruning
+- structured investigation
+source: https://github.com/0x2fycy3/inquisitor
+discovered_at: '2026-07-14T14:48:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

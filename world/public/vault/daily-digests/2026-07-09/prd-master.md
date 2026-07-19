@@ -1,13 +1,22 @@
 ---
-title: "solune-lab/prd-master"
-category: "Tooling"
-tech_stack: ["TypeScript", "Web Application", "AI Agent Integration", "Streaming UI"]
+title: solune-lab/prd-master
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Web Application
+- AI Agent Integration
+- Streaming UI
 quality_score: 8
 rag_relevance: 9
-tags: ["PRD Generation", "AI Agent Optimization", "Requirement Specification", "Vibe Coding", "Productivity Tool"]
-source: "https://github.com/solune-lab/prd-master"
-discovered_at: "2026-07-09T17:17:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- PRD Generation
+- AI Agent Optimization
+- Requirement Specification
+- Vibe Coding
+- Productivity Tool
+source: https://github.com/solune-lab/prd-master
+discovered_at: '2026-07-09T17:17:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

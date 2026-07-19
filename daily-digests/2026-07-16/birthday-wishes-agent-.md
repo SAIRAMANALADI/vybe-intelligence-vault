@@ -1,13 +1,30 @@
 ---
-title: "SadManFahIm/Birthday-Wishes-Agent-"
-category: "Agent Framework"
-tech_stack: ["Python", "LangChain", "Gemini 2.5 Pro", "Streamlit", "Docker", "GitHub Actions", "ChromaDB", "Selenium", "Twilio", "ElevenLabs", "FastAPI", "Pydantic"]
+title: SadManFahIm/Birthday-Wishes-Agent-
+category: daily-digests/2026-07-16
+tech_stack:
+- Python
+- LangChain
+- Gemini 2.5 Pro
+- Streamlit
+- Docker
+- GitHub Actions
+- ChromaDB
+- Selenium
+- Twilio
+- ElevenLabs
+- FastAPI
+- Pydantic
 quality_score: 9
 rag_relevance: 7
-tags: ["AI Agent", "Automation", "Social Media", "Personalization", "Sentiment Analysis"]
-source: "https://github.com/SadManFahIm/Birthday-Wishes-Agent-"
-discovered_at: "2026-07-10T18:22:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent
+- Automation
+- Social Media
+- Personalization
+- Sentiment Analysis
+source: https://github.com/SadManFahIm/Birthday-Wishes-Agent-
+discovered_at: '2026-07-10T18:22:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

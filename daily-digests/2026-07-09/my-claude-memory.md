@@ -1,13 +1,24 @@
 ---
-title: "Yht20927/my-claude-memory"
-category: "Tooling"
-tech_stack: ["Bash", "Git", "Python (optional, for cross-platform compatibility)", "SHA-256", "flock (file locking)", "YAML frontmatter"]
+title: Yht20927/my-claude-memory
+category: daily-digests/2026-07-09
+tech_stack:
+- Bash
+- Git
+- Python (optional, for cross-platform compatibility)
+- SHA-256
+- flock (file locking)
+- YAML frontmatter
 quality_score: 9
 rag_relevance: 8
-tags: ["memory management", "AI context persistence", "cross-session knowledge", "hierarchical indexing", "Bash-based tooling"]
-source: "https://github.com/Yht20927/my-claude-memory"
-discovered_at: "2026-07-09T14:43:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory management
+- AI context persistence
+- cross-session knowledge
+- hierarchical indexing
+- Bash-based tooling
+source: https://github.com/Yht20927/my-claude-memory
+discovered_at: '2026-07-09T14:43:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

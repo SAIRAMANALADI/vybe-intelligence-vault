@@ -1,13 +1,30 @@
 ---
-title: "oomkapwn/enquire-mcp"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "BM25", "HNSW", "BGE reranker", "TF-IDF", "RRF (Reciprocal Rank Fusion)", "int8 quantization", "Tesseract.js (OCR)", "Louvain modularity (GraphRAG-light)", "SLSA L2 (build provenance)"]
+title: oomkapwn/enquire-mcp
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- BM25
+- HNSW
+- BGE reranker
+- TF-IDF
+- RRF (Reciprocal Rank Fusion)
+- int8 quantization
+- Tesseract.js (OCR)
+- Louvain modularity (GraphRAG-light)
+- SLSA L2 (build provenance)
 quality_score: 10
 rag_relevance: 10
-tags: ["Obsidian integration", "long-term memory", "hybrid retrieval", "MCP server", "agentic RAG"]
-source: "https://github.com/oomkapwn/enquire-mcp"
-discovered_at: "2026-06-23T13:50:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Obsidian integration
+- long-term memory
+- hybrid retrieval
+- MCP server
+- agentic RAG
+source: https://github.com/oomkapwn/enquire-mcp
+discovered_at: '2026-06-23T13:50:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

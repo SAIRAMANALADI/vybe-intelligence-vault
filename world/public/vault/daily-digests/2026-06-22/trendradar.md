@@ -1,13 +1,28 @@
 ---
-title: "sansan0/TrendRadar"
-category: "Tooling"
-tech_stack: ["Python", "Docker", "GitHub Actions", "RSS", "AI (OpenAI-compatible models)", "MCP (Model Context Protocol)", "Webhooks", "Markdown", "HTML/CSS", "GitHub Pages"]
+title: sansan0/TrendRadar
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- Docker
+- GitHub Actions
+- RSS
+- AI (OpenAI-compatible models)
+- MCP (Model Context Protocol)
+- Webhooks
+- Markdown
+- HTML/CSS
+- GitHub Pages
 quality_score: 9
 rag_relevance: 7
-tags: ["trend monitoring", "AI filtering", "multi-platform aggregation", "RSS", "notification automation"]
-source: "https://github.com/sansan0/TrendRadar"
-discovered_at: "2026-06-22T18:14:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- trend monitoring
+- AI filtering
+- multi-platform aggregation
+- RSS
+- notification automation
+source: https://github.com/sansan0/TrendRadar
+discovered_at: '2026-06-22T18:14:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

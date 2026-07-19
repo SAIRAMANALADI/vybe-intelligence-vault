@@ -1,13 +1,35 @@
 ---
-title: "Kaelio/ktx"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Python", "Node.js", "PostgreSQL", "Snowflake", "BigQuery", "ClickHouse", "MySQL", "SQL Server", "SQLite", "LLM APIs (Anthropic, Google Vertex AI)", "MCP (Model Context Protocol)", "dbt", "MetricFlow", "Looker", "Metabase", "Notion"]
+title: Kaelio/ktx
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Python
+- Node.js
+- PostgreSQL
+- Snowflake
+- BigQuery
+- ClickHouse
+- MySQL
+- SQL Server
+- SQLite
+- LLM APIs (Anthropic, Google Vertex AI)
+- MCP (Model Context Protocol)
+- dbt
+- MetricFlow
+- Looker
+- Metabase
+- Notion
 quality_score: 9
 rag_relevance: 10
-tags: ["semantic layer", "data agents", "context engine", "MCP server", "warehouse integration"]
-source: "https://github.com/Kaelio/ktx"
-discovered_at: "2026-06-24T18:51:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- semantic layer
+- data agents
+- context engine
+- MCP server
+- warehouse integration
+source: https://github.com/Kaelio/ktx
+discovered_at: '2026-06-24T18:51:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

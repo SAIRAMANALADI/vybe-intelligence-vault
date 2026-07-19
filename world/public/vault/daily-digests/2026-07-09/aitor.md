@@ -1,13 +1,26 @@
 ---
-title: "Alien69Flow/AiTor"
-category: "Agent Framework"
-tech_stack: ["React", "TypeScript", "Vite", "Shadcn-UI", "Tailwind CSS", "Supabase", "PostgREST", "Realtime Database"]
+title: Alien69Flow/AiTor
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- React
+- TypeScript
+- Vite
+- Shadcn-UI
+- Tailwind CSS
+- Supabase
+- PostgREST
+- Realtime Database
 quality_score: 5
 rag_relevance: 4
-tags: ["Neural Intelligence", "DAO Management", "Quantum Ledger", "Hybrid Architecture", "Web3 Integration"]
-source: "https://github.com/Alien69Flow/AiTor"
-discovered_at: "2026-07-09T19:29:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Neural Intelligence
+- DAO Management
+- Quantum Ledger
+- Hybrid Architecture
+- Web3 Integration
+source: https://github.com/Alien69Flow/AiTor
+discovered_at: '2026-07-09T19:29:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

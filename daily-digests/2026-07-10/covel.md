@@ -1,13 +1,30 @@
 ---
-title: "ackness/covel"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "React 19", "Hono", "Drizzle ORM", "SQLite", "pnpm", "Turborepo", "ESM", "OpenAI API", "Anthropic API", "DeepSeek API", "Qwen API"]
+title: ackness/covel
+category: daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- React 19
+- Hono
+- Drizzle ORM
+- SQLite
+- pnpm
+- Turborepo
+- ESM
+- OpenAI API
+- Anthropic API
+- DeepSeek API
+- Qwen API
 quality_score: 8
 rag_relevance: 7
-tags: ["AI RPG", "multi-agent systems", "plugin framework", "interactive fiction", "visual novel"]
-source: "https://github.com/ackness/covel"
-discovered_at: "2026-07-10T02:25:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI RPG
+- multi-agent systems
+- plugin framework
+- interactive fiction
+- visual novel
+source: https://github.com/ackness/covel
+discovered_at: '2026-07-10T02:25:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

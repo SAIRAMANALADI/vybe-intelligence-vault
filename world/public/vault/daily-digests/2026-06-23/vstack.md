@@ -1,13 +1,31 @@
 ---
-title: "valani9/vstack"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Docker", "LangChain", "LangGraph", "CrewAI", "LlamaIndex", "Pydantic", "Anthropic API", "OpenAI API", "Ollama", "Model Context Protocol (MCP)", "GitHub Actions"]
+title: valani9/vstack
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- FastAPI
+- Docker
+- LangChain
+- LangGraph
+- CrewAI
+- LlamaIndex
+- Pydantic
+- Anthropic API
+- OpenAI API
+- Ollama
+- Model Context Protocol (MCP)
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent diagnostics", "organizational behavior", "failure analysis", "multi-agent systems", "root cause analysis"]
-source: "https://github.com/valani9/vstack"
-discovered_at: "2026-06-23T13:50:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent diagnostics
+- organizational behavior
+- failure analysis
+- multi-agent systems
+- root cause analysis
+source: https://github.com/valani9/vstack
+discovered_at: '2026-06-23T13:50:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

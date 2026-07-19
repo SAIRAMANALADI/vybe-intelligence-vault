@@ -1,13 +1,25 @@
 ---
-title: "Hyperyond/Hover"
-category: "Tooling"
-tech_stack: ["TypeScript", "Playwright", "Model Context Protocol (MCP)", "Node.js", "VS Code Extension", "Playwright Test", "Chrome DevTools Protocol (CDP)"]
+title: Hyperyond/Hover
+category: daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- Playwright
+- Model Context Protocol (MCP)
+- Node.js
+- VS Code Extension
+- Playwright Test
+- Chrome DevTools Protocol (CDP)
 quality_score: 9
 rag_relevance: 8
-tags: ["test automation", "deterministic testing", "AI agent integration", "Playwright", "CI/CD"]
-source: "https://github.com/Hyperyond/Hover"
-discovered_at: "2026-07-10T10:51:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- test automation
+- deterministic testing
+- AI agent integration
+- Playwright
+- CI/CD
+source: https://github.com/Hyperyond/Hover
+discovered_at: '2026-07-10T10:51:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

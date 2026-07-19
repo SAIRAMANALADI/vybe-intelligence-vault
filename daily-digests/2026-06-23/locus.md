@@ -1,13 +1,28 @@
 ---
-title: "r1n7aro/Locus"
-category: "Agent Framework"
-tech_stack: ["Rust", "Tauri", "Vue.js", "C#", "Roslyn", "Python", "Git", "Unity Editor API", "CoreCLR", "mimalloc"]
+title: r1n7aro/Locus
+category: daily-digests/2026-06-23
+tech_stack:
+- Rust
+- Tauri
+- Vue.js
+- C#
+- Roslyn
+- Python
+- Git
+- Unity Editor API
+- CoreCLR
+- mimalloc
 quality_score: 9
 rag_relevance: 7
-tags: ["Unity automation", "AI agent", "game development", "C# scripting", "runtime debugging"]
-source: "https://github.com/r1n7aro/Locus"
-discovered_at: "2026-06-23T10:36:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Unity automation
+- AI agent
+- game development
+- C# scripting
+- runtime debugging
+source: https://github.com/r1n7aro/Locus
+discovered_at: '2026-06-23T10:36:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

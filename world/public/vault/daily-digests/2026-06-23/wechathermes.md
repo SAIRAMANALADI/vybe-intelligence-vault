@@ -1,13 +1,25 @@
 ---
-title: "Monah-Limited/WeChatHermes"
-category: "Agent Framework"
-tech_stack: ["Python", "Shell", "Hermes AI Agent", "WeChat API", "DeepSeek API", "OpenAI API", "iLink Protocol"]
+title: Monah-Limited/WeChatHermes
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Shell
+- Hermes AI Agent
+- WeChat API
+- DeepSeek API
+- OpenAI API
+- iLink Protocol
 quality_score: 8
 rag_relevance: 6
-tags: ["AI Agent", "WeChat Integration", "Multi-tool Assistant", "Local Deployment", "API Abstraction"]
-source: "https://github.com/Monah-Limited/WeChatHermes"
-discovered_at: "2026-06-23T16:25:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent
+- WeChat Integration
+- Multi-tool Assistant
+- Local Deployment
+- API Abstraction
+source: https://github.com/Monah-Limited/WeChatHermes
+discovered_at: '2026-06-23T16:25:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

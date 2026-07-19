@@ -1,13 +1,23 @@
 ---
-title: "runapi-ai/veo-3-1-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "RunAPI API", "npm"]
+title: runapi-ai/veo-3-1-mcp
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- RunAPI API
+- npm
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP Server", "Video Generation", "Veo 3.1", "RunAPI", "AI Agents"]
-source: "https://github.com/runapi-ai/veo-3-1-mcp"
-discovered_at: "2026-06-24T10:24:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- Video Generation
+- Veo 3.1
+- RunAPI
+- AI Agents
+source: https://github.com/runapi-ai/veo-3-1-mcp
+discovered_at: '2026-06-24T10:24:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "moriwo-dev-ai/ama-teras"
-category: "Agent Framework"
-tech_stack: ["Electron", "React", "TypeScript", "Node.js", "Git", "Vitest", "OpenAI-compatible APIs", "Mermaid.js"]
+title: moriwo-dev-ai/ama-teras
+category: daily-digests/2026-07-15
+tech_stack:
+- Electron
+- React
+- TypeScript
+- Node.js
+- Git
+- Vitest
+- OpenAI-compatible APIs
+- Mermaid.js
 quality_score: 8
 rag_relevance: 9
-tags: ["self-evolving AI", "autonomous agent", "safety gates", "multi-model orchestration", "desktop application"]
-source: "https://github.com/moriwo-dev-ai/ama-teras"
-discovered_at: "2026-07-10T18:22:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-evolving AI
+- autonomous agent
+- safety gates
+- multi-model orchestration
+- desktop application
+source: https://github.com/moriwo-dev-ai/ama-teras
+discovered_at: '2026-07-10T18:22:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

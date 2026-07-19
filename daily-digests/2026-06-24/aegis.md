@@ -1,13 +1,29 @@
 ---
-title: "Alien0013/aegis"
-category: "Agent Framework"
-tech_stack: ["Python", "React", "Vite", "Electron", "FastAPI", "SQLite", "TypeScript", "MCP (Model Context Protocol)", "JSON-RPC", "OpenAI-compatible API", "GitHub Actions"]
+title: Alien0013/aegis
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- React
+- Vite
+- Electron
+- FastAPI
+- SQLite
+- TypeScript
+- MCP (Model Context Protocol)
+- JSON-RPC
+- OpenAI-compatible API
+- GitHub Actions
 quality_score: 9
 rag_relevance: 9
-tags: ["agent framework", "local-first", "multi-surface", "self-hosted", "automation"]
-source: "https://github.com/Alien0013/aegis"
-discovered_at: "2026-06-24T13:16:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent framework
+- local-first
+- multi-surface
+- self-hosted
+- automation
+source: https://github.com/Alien0013/aegis
+discovered_at: '2026-06-24T13:16:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

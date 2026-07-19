@@ -1,13 +1,24 @@
 ---
-title: "devcxl/gh-ai-workflow-template"
-category: "Orchestrator"
-tech_stack: ["GitHub Actions", "Python", "FastAPI", "opencode.ai", "pytest", "TypeScript"]
+title: devcxl/gh-ai-workflow-template
+category: world/public/vault/daily-digests/2026-07-12
+tech_stack:
+- GitHub Actions
+- Python
+- FastAPI
+- opencode.ai
+- pytest
+- TypeScript
 quality_score: 9
 rag_relevance: 8
-tags: ["AI automation", "GitHub workflows", "issue resolution", "TDD", "opencode"]
-source: "https://github.com/devcxl/gh-ai-workflow-template"
-discovered_at: "2026-07-10T10:51:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI automation
+- GitHub workflows
+- issue resolution
+- TDD
+- opencode
+source: https://github.com/devcxl/gh-ai-workflow-template
+discovered_at: '2026-07-10T10:51:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

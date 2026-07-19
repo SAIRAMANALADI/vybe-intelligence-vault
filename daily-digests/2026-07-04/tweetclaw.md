@@ -1,13 +1,23 @@
 ---
-title: "Polystichumlonchitissumatran261/tweetclaw"
-category: "Tooling"
-tech_stack: ["Python", "X/Twitter API", "OpenClaw", "Xquik", "Automation"]
+title: Polystichumlonchitissumatran261/tweetclaw
+category: daily-digests/2026-07-04
+tech_stack:
+- Python
+- X/Twitter API
+- OpenClaw
+- Xquik
+- Automation
 quality_score: 3
 rag_relevance: 4
-tags: ["automation", "social media", "X/Twitter", "API integration", "low-cost"]
-source: "https://github.com/Polystichumlonchitissumatran261/tweetclaw"
-discovered_at: "2026-07-04T13:14:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- automation
+- social media
+- X/Twitter
+- API integration
+- low-cost
+source: https://github.com/Polystichumlonchitissumatran261/tweetclaw
+discovered_at: '2026-07-04T13:14:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

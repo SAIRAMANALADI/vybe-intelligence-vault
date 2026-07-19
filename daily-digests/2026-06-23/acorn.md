@@ -1,13 +1,27 @@
 ---
-title: "ycvk/acorn"
-category: "Agent Framework"
-tech_stack: ["Go", "SQLite", "FAISS", "OpenBLAS", "OpenAPI", "Kotlin", "Jetpack Compose", "Android", "systemd"]
+title: ycvk/acorn
+category: daily-digests/2026-06-23
+tech_stack:
+- Go
+- SQLite
+- FAISS
+- OpenBLAS
+- OpenAPI
+- Kotlin
+- Jetpack Compose
+- Android
+- systemd
 quality_score: 9
 rag_relevance: 8
-tags: ["self-hosted", "AI agents", "persistent memory", "mobile control", "local deployment"]
-source: "https://github.com/ycvk/acorn"
-discovered_at: "2026-06-23T10:35:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-hosted
+- AI agents
+- persistent memory
+- mobile control
+- local deployment
+source: https://github.com/ycvk/acorn
+discovered_at: '2026-06-23T10:35:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

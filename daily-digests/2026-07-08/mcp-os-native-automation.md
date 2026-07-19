@@ -1,13 +1,25 @@
 ---
-title: "a92070888-dev/mcp-os-native-automation"
-category: "Tooling"
-tech_stack: ["Python", "pywinauto", "pywin32", "UI Automation (UIA)", "Win32 API", "MCP (Model Context Protocol)", "SendInput"]
+title: a92070888-dev/mcp-os-native-automation
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- pywinauto
+- pywin32
+- UI Automation (UIA)
+- Win32 API
+- MCP (Model Context Protocol)
+- SendInput
 quality_score: 9
 rag_relevance: 8
-tags: ["Windows automation", "UIA framework", "low-latency operations", "deterministic RAG", "headless automation"]
-source: "https://github.com/a92070888-dev/mcp-os-native-automation"
-discovered_at: "2026-07-08T08:16:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Windows automation
+- UIA framework
+- low-latency operations
+- deterministic RAG
+- headless automation
+source: https://github.com/a92070888-dev/mcp-os-native-automation
+discovered_at: '2026-07-08T08:16:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

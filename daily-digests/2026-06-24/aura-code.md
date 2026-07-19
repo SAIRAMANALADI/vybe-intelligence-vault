@@ -1,13 +1,25 @@
 ---
-title: "milodule3-debug/aura-code"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Praktess framework", "Vitest (testing)", "OpenAI-compatible endpoints", "CI/CD (GitHub Actions)", "Ollama (local models)"]
+title: milodule3-debug/aura-code
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- Praktess framework
+- Vitest (testing)
+- OpenAI-compatible endpoints
+- CI/CD (GitHub Actions)
+- Ollama (local models)
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous coding", "multi-agent orchestration", "model-agnostic", "AI-assisted development", "code verification"]
-source: "https://github.com/milodule3-debug/aura-code"
-discovered_at: "2026-06-24T06:45:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous coding
+- multi-agent orchestration
+- model-agnostic
+- AI-assisted development
+- code verification
+source: https://github.com/milodule3-debug/aura-code
+discovered_at: '2026-06-24T06:45:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

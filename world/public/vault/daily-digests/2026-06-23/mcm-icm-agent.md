@@ -1,13 +1,26 @@
 ---
-title: "jsyzlbw/MCM-ICM-Agent"
-category: "Vector DB"
-tech_stack: ["Python", "ChromaDB", "Voyage API", "MinerU", "Ruff", "Pytest", "Markdown", "LaTeX"]
+title: jsyzlbw/MCM-ICM-Agent
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- ChromaDB
+- Voyage API
+- MinerU
+- Ruff
+- Pytest
+- Markdown
+- LaTeX
 quality_score: 8
 rag_relevance: 9
-tags: ["mathematical modeling", "knowledge base", "vector retrieval", "competition assistant", "prebuilt corpus"]
-source: "https://github.com/jsyzlbw/MCM-ICM-Agent"
-discovered_at: "2026-06-23T13:45:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- mathematical modeling
+- knowledge base
+- vector retrieval
+- competition assistant
+- prebuilt corpus
+source: https://github.com/jsyzlbw/MCM-ICM-Agent
+discovered_at: '2026-06-23T13:45:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

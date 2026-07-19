@@ -1,13 +1,26 @@
 ---
-title: "Fino-wind/tether-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Curve25519 ECDH", "HKDF-SHA256", "AES-GCM", "Apple HealthKit", "QR Code Authentication", "HTTP/STDIO Transport"]
+title: Fino-wind/tether-mcp
+category: daily-digests/2026-07-17
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Curve25519 ECDH
+- HKDF-SHA256
+- AES-GCM
+- Apple HealthKit
+- QR Code Authentication
+- HTTP/STDIO Transport
 quality_score: 9
 rag_relevance: 8
-tags: ["end-to-end encryption", "Apple Health integration", "MCP server", "AI agent interface", "health data privacy"]
-source: "https://github.com/Fino-wind/tether-mcp"
-discovered_at: "2026-07-16T10:58:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- end-to-end encryption
+- Apple Health integration
+- MCP server
+- AI agent interface
+- health data privacy
+source: https://github.com/Fino-wind/tether-mcp
+discovered_at: '2026-07-16T10:58:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "mymark21/tt-bridge"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Chrome Extensions API", "Chrome DevTools Protocol (CDP)", "WebSocket", "CLI Tools"]
+title: mymark21/tt-bridge
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- Chrome Extensions API
+- Chrome DevTools Protocol (CDP)
+- WebSocket
+- CLI Tools
 quality_score: 8
 rag_relevance: 7
-tags: ["browser automation", "AI agent tools", "Chrome extension", "RPA", "web interaction"]
-source: "https://github.com/mymark21/tt-bridge"
-discovered_at: "2026-06-24T10:20:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- AI agent tools
+- Chrome extension
+- RPA
+- web interaction
+source: https://github.com/mymark21/tt-bridge
+discovered_at: '2026-06-24T10:20:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

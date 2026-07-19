@@ -1,13 +1,27 @@
 ---
-title: "jinsoo96/agethos"
-category: "Agent Framework"
-tech_stack: ["Python", "Pydantic", "OpenAI API", "Anthropic API", "LiteLLM", "LangChain", "NumPy", "Jaccard similarity", "Embedding models"]
+title: jinsoo96/agethos
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Pydantic
+- OpenAI API
+- Anthropic API
+- LiteLLM
+- LangChain
+- NumPy
+- Jaccard similarity
+- Embedding models
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agents", "cognitive architecture", "personality modeling", "emotional intelligence", "memory systems"]
-source: "https://github.com/jinsoo96/agethos"
-discovered_at: "2026-06-23T09:00:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- cognitive architecture
+- personality modeling
+- emotional intelligence
+- memory systems
+source: https://github.com/jinsoo96/agethos
+discovered_at: '2026-06-23T09:00:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

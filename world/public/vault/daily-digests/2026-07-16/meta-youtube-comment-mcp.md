@@ -1,13 +1,27 @@
 ---
-title: "benmfzen/meta-youtube-comment-mcp"
-category: "Agent Framework"
-tech_stack: ["Python", "Meta Graph API", "YouTube Data API v3", "Claude Code CLI", "LLM (Claude)", "MCP (Model Context Protocol)", "OAuth 2.0", "Shell scripting", "Markdown"]
+title: benmfzen/meta-youtube-comment-mcp
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- Python
+- Meta Graph API
+- YouTube Data API v3
+- Claude Code CLI
+- LLM (Claude)
+- MCP (Model Context Protocol)
+- OAuth 2.0
+- Shell scripting
+- Markdown
 quality_score: 9
 rag_relevance: 8
-tags: ["comment automation", "human-in-the-loop", "deterministic guardrails", "MCP server", "social media management"]
-source: "https://github.com/benmfzen/meta-youtube-comment-mcp"
-discovered_at: "2026-07-16T12:22:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- comment automation
+- human-in-the-loop
+- deterministic guardrails
+- MCP server
+- social media management
+source: https://github.com/benmfzen/meta-youtube-comment-mcp
+discovered_at: '2026-07-16T12:22:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

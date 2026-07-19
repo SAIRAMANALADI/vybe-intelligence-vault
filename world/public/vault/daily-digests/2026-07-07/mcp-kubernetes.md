@@ -1,13 +1,26 @@
 ---
-title: "giantswarm/mcp-kubernetes"
-category: "Tooling"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "Kubernetes API", "OAuth 2.1", "OpenTelemetry", "Prometheus", "Helm", "Dex OIDC"]
+title: giantswarm/mcp-kubernetes
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- Kubernetes API
+- OAuth 2.1
+- OpenTelemetry
+- Prometheus
+- Helm
+- Dex OIDC
 quality_score: 9
 rag_relevance: 9
-tags: ["Kubernetes", "MCP", "Multi-Cluster", "OAuth", "Observability"]
-source: "https://github.com/giantswarm/mcp-kubernetes"
-discovered_at: "2026-07-07T16:26:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Kubernetes
+- MCP
+- Multi-Cluster
+- OAuth
+- Observability
+source: https://github.com/giantswarm/mcp-kubernetes
+discovered_at: '2026-07-07T16:26:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

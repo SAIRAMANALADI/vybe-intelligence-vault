@@ -1,13 +1,26 @@
 ---
-title: "myraffy/homelab-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Docker", "Podman", "Ollama", "Pi-hole", "Unifi", "Ansible"]
+title: myraffy/homelab-mcp
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Docker
+- Podman
+- Ollama
+- Pi-hole
+- Unifi
+- Ansible
 quality_score: 6
 rag_relevance: 4
-tags: ["homelab", "infrastructure management", "MCP server", "automation", "monitoring"]
-source: "https://github.com/myraffy/homelab-mcp"
-discovered_at: "2026-06-24T10:26:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- homelab
+- infrastructure management
+- MCP server
+- automation
+- monitoring
+source: https://github.com/myraffy/homelab-mcp
+discovered_at: '2026-06-24T10:26:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

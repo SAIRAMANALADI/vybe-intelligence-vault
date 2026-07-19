@@ -1,13 +1,32 @@
 ---
-title: "jrodolfo/local-genai-lab"
-category: "Orchestrator"
-tech_stack: ["Java 21", "Spring Boot 3.4", "React", "Ollama", "Amazon Bedrock", "Hugging Face", "MCP (Model Context Protocol)", "AWS CLI", "Qdrant (vector store)", "Vite", "Docker", "Docker Compose", "Maven", "Node.js 20+"]
+title: jrodolfo/local-genai-lab
+category: daily-digests/2026-06-25
+tech_stack:
+- Java 21
+- Spring Boot 3.4
+- React
+- Ollama
+- Amazon Bedrock
+- Hugging Face
+- MCP (Model Context Protocol)
+- AWS CLI
+- Qdrant (vector store)
+- Vite
+- Docker
+- Docker Compose
+- Maven
+- Node.js 20+
 quality_score: 9
 rag_relevance: 9
-tags: ["GenAI", "RAG", "MCP", "Spring Boot", "React"]
-source: "https://github.com/jrodolfo/local-genai-lab"
-discovered_at: "2026-06-25T14:19:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- GenAI
+- RAG
+- MCP
+- Spring Boot
+- React
+source: https://github.com/jrodolfo/local-genai-lab
+discovered_at: '2026-06-25T14:19:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

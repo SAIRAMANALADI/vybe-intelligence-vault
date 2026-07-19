@@ -1,13 +1,22 @@
 ---
-title: "Carlosagamez2021/AI-Indexing"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron (assumed for desktop app)", "Node.js (assumed for backend)", "Custom indexing algorithms"]
+title: Carlosagamez2021/AI-Indexing
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Electron (assumed for desktop app)
+- Node.js (assumed for backend)
+- Custom indexing algorithms
 quality_score: 6
 rag_relevance: 7
-tags: ["code indexing", "semantic search", "repository mapping", "AI optimization", "code analysis"]
-source: "https://github.com/Carlosagamez2021/AI-Indexing"
-discovered_at: "2026-06-23T19:09:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code indexing
+- semantic search
+- repository mapping
+- AI optimization
+- code analysis
+source: https://github.com/Carlosagamez2021/AI-Indexing
+discovered_at: '2026-06-23T19:09:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

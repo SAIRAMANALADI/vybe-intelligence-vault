@@ -1,13 +1,22 @@
 ---
-title: "Sealed-organofcorti310/build-code-agent"
-category: "Tooling"
-tech_stack: ["Windows Desktop App", "Electron (assumed)", "Python (assumed)", "GUI Framework"]
+title: Sealed-organofcorti310/build-code-agent
+category: daily-digests/2026-07-07
+tech_stack:
+- Windows Desktop App
+- Electron (assumed)
+- Python (assumed)
+- GUI Framework
 quality_score: 7
 rag_relevance: 6
-tags: ["code agent", "Windows tool", "local development", "agent workflow", "learning tool"]
-source: "https://github.com/Sealed-organofcorti310/build-code-agent"
-discovered_at: "2026-07-07T06:42:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code agent
+- Windows tool
+- local development
+- agent workflow
+- learning tool
+source: https://github.com/Sealed-organofcorti310/build-code-agent
+discovered_at: '2026-07-07T06:42:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

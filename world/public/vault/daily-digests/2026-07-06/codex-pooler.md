@@ -1,13 +1,26 @@
 ---
-title: "icoretech/codex-pooler"
-category: "Orchestrator"
-tech_stack: ["Elixir", "Erlang", "Docker", "Kubernetes", "PostgreSQL", "TypeScript", "React", "Helm"]
+title: icoretech/codex-pooler
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Elixir
+- Erlang
+- Docker
+- Kubernetes
+- PostgreSQL
+- TypeScript
+- React
+- Helm
 quality_score: 9
 rag_relevance: 8
-tags: ["Codex gateway", "self-hosted", "multi-account routing", "privacy-focused", "AI orchestration"]
-source: "https://github.com/icoretech/codex-pooler"
-discovered_at: "2026-07-06T21:26:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Codex gateway
+- self-hosted
+- multi-account routing
+- privacy-focused
+- AI orchestration
+source: https://github.com/icoretech/codex-pooler
+discovered_at: '2026-07-06T21:26:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

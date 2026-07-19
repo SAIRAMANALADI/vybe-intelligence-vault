@@ -1,13 +1,23 @@
 ---
-title: "clamp-sh/mcp"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "REST API", "JWT Authentication"]
+title: clamp-sh/mcp
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- REST API
+- JWT Authentication
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "analytics", "AI agents", "real-time data", "privacy-first"]
-source: "https://github.com/clamp-sh/mcp"
-discovered_at: "2026-07-07T18:59:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- analytics
+- AI agents
+- real-time data
+- privacy-first
+source: https://github.com/clamp-sh/mcp
+discovered_at: '2026-07-07T18:59:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

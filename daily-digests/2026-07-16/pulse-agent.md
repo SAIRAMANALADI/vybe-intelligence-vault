@@ -1,13 +1,28 @@
 ---
-title: "Alex663028/pulse-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Ollama", "SQLite FTS5", "Typer", "Rich", "Model Context Protocol (MCP)", "agentskills.io standard", "FastAPI", "Pydantic", "Mermaid.js"]
+title: Alex663028/pulse-agent
+category: daily-digests/2026-07-16
+tech_stack:
+- Python
+- Ollama
+- SQLite FTS5
+- Typer
+- Rich
+- Model Context Protocol (MCP)
+- agentskills.io standard
+- FastAPI
+- Pydantic
+- Mermaid.js
 quality_score: 9
 rag_relevance: 10
-tags: ["self-improving agents", "reliability-first", "multi-agent orchestration", "self-hosted", "skill evaluation"]
-source: "https://github.com/Alex663028/pulse-agent"
-discovered_at: "2026-07-15T02:12:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-improving agents
+- reliability-first
+- multi-agent orchestration
+- self-hosted
+- skill evaluation
+source: https://github.com/Alex663028/pulse-agent
+discovered_at: '2026-07-15T02:12:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

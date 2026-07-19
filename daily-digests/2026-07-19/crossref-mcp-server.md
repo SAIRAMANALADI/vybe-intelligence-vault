@@ -1,13 +1,25 @@
 ---
-title: "cyanheads/crossref-mcp-server"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "Model Context Protocol (MCP)", "Crossref REST API", "Zod", "OpenTelemetry", "Docker"]
+title: cyanheads/crossref-mcp-server
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Bun
+- Model Context Protocol (MCP)
+- Crossref REST API
+- Zod
+- OpenTelemetry
+- Docker
 quality_score: 9
 rag_relevance: 9
-tags: ["DOI resolution", "scholarly search", "Crossref API", "MCP server", "reference fetching"]
-source: "https://github.com/cyanheads/crossref-mcp-server"
-discovered_at: "2026-07-13T18:43:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- DOI resolution
+- scholarly search
+- Crossref API
+- MCP server
+- reference fetching
+source: https://github.com/cyanheads/crossref-mcp-server
+discovered_at: '2026-07-13T18:43:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

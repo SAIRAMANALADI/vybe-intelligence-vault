@@ -1,13 +1,25 @@
 ---
-title: "zoebischuribe-cloud/postgwas-skills"
-category: "Agent Framework"
-tech_stack: ["AI Skills", "YAML", "Bash", "Codex", "Claude Code", "OpenClaw/QClaw", "Git"]
+title: zoebischuribe-cloud/postgwas-skills
+category: daily-digests/2026-07-14
+tech_stack:
+- AI Skills
+- YAML
+- Bash
+- Codex
+- Claude Code
+- OpenClaw/QClaw
+- Git
 quality_score: 7
 rag_relevance: 6
-tags: ["Post-GWAS analysis", "Mendelian Randomization", "Colocalization", "AI Skills", "Bioinformatics"]
-source: "https://github.com/zoebischuribe-cloud/postgwas-skills"
-discovered_at: "2026-07-12T13:35:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Post-GWAS analysis
+- Mendelian Randomization
+- Colocalization
+- AI Skills
+- Bioinformatics
+source: https://github.com/zoebischuribe-cloud/postgwas-skills
+discovered_at: '2026-07-12T13:35:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

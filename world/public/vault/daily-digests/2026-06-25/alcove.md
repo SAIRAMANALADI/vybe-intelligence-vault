@@ -1,13 +1,27 @@
 ---
-title: "epicsagas/alcove"
-category: "Orchestrator"
-tech_stack: ["Rust", "HTTP API", "BM25", "Vector Search", "Tree-sitter", "ONNX", "PDF Text Extraction", "CLI", "MCP Server"]
+title: epicsagas/alcove
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Rust
+- HTTP API
+- BM25
+- Vector Search
+- Tree-sitter
+- ONNX
+- PDF Text Extraction
+- CLI
+- MCP Server
 quality_score: 9
 rag_relevance: 10
-tags: ["documentation retrieval", "AI agent context", "hybrid search", "code indexing", "MCP server"]
-source: "https://github.com/epicsagas/alcove"
-discovered_at: "2026-06-25T17:09:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- documentation retrieval
+- AI agent context
+- hybrid search
+- code indexing
+- MCP server
+source: https://github.com/epicsagas/alcove
+discovered_at: '2026-06-25T17:09:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

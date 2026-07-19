@@ -1,13 +1,27 @@
 ---
-title: "Knuckles-Team/gitlab-api"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "A2A (Agent-to-Agent Protocol)", "GraphQL", "REST API", "OpenTelemetry", "Langfuse", "Pydantic", "FastAPI"]
+title: Knuckles-Team/gitlab-api
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- A2A (Agent-to-Agent Protocol)
+- GraphQL
+- REST API
+- OpenTelemetry
+- Langfuse
+- Pydantic
+- FastAPI
 quality_score: 9
 rag_relevance: 8
-tags: ["GitLab", "MCP Server", "API Wrapper", "Agent Integration", "DevOps Automation"]
-source: "https://github.com/Knuckles-Team/gitlab-api"
-discovered_at: "2026-07-09T11:53:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- GitLab
+- MCP Server
+- API Wrapper
+- Agent Integration
+- DevOps Automation
+source: https://github.com/Knuckles-Team/gitlab-api
+discovered_at: '2026-07-09T11:53:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

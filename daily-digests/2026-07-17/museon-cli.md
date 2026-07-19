@@ -1,13 +1,24 @@
 ---
-title: "Museon-AI/museon-cli"
-category: "Tooling"
-tech_stack: ["Python", "CLI", "Shell Commands", "GitHub Actions", "uv (Python package manager)", "REST APIs"]
+title: Museon-AI/museon-cli
+category: daily-digests/2026-07-17
+tech_stack:
+- Python
+- CLI
+- Shell Commands
+- GitHub Actions
+- uv (Python package manager)
+- REST APIs
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agent integration", "social media automation", "content research", "publishing workflow", "approval gates"]
-source: "https://github.com/Museon-AI/museon-cli"
-discovered_at: "2026-07-17T10:46:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent integration
+- social media automation
+- content research
+- publishing workflow
+- approval gates
+source: https://github.com/Museon-AI/museon-cli
+discovered_at: '2026-07-17T10:46:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

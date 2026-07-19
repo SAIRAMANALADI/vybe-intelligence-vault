@@ -1,13 +1,26 @@
 ---
-title: "op7418/guizang-ppt-skill"
-category: "Tooling"
-tech_stack: ["HTML", "CSS", "JavaScript", "Claude Code", "Codex", "WebGL", "SVG", "Git"]
+title: op7418/guizang-ppt-skill
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- HTML
+- CSS
+- JavaScript
+- Claude Code
+- Codex
+- WebGL
+- SVG
+- Git
 quality_score: 9
 rag_relevance: 7
-tags: ["PPT generation", "AI agent skill", "HTML slides", "visual design", "presentation tool"]
-source: "https://github.com/op7418/guizang-ppt-skill"
-discovered_at: "2026-06-22T18:14:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- PPT generation
+- AI agent skill
+- HTML slides
+- visual design
+- presentation tool
+source: https://github.com/op7418/guizang-ppt-skill
+discovered_at: '2026-06-22T18:14:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

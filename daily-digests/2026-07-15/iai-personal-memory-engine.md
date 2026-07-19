@@ -1,13 +1,28 @@
 ---
-title: "CodeAbra/iai-personal-memory-engine"
-category: "Orchestrator"
-tech_stack: ["Python", "Rust", "MCP (Model Context Protocol)", "Vector Search", "Knowledge Graph", "AES-256-GCM Encryption", "Node.js", "SQLite", "HNSW (Hierarchical Navigable Small World)", "Hyperdimensional Computing"]
+title: CodeAbra/iai-personal-memory-engine
+category: daily-digests/2026-07-15
+tech_stack:
+- Python
+- Rust
+- MCP (Model Context Protocol)
+- Vector Search
+- Knowledge Graph
+- AES-256-GCM Encryption
+- Node.js
+- SQLite
+- HNSW (Hierarchical Navigable Small World)
+- Hyperdimensional Computing
 quality_score: 9
 rag_relevance: 10
-tags: ["personal memory engine", "MCP-compatible", "local AI memory", "vector search", "knowledge graph"]
-source: "https://github.com/CodeAbra/iai-personal-memory-engine"
-discovered_at: "2026-07-11T02:27:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personal memory engine
+- MCP-compatible
+- local AI memory
+- vector search
+- knowledge graph
+source: https://github.com/CodeAbra/iai-personal-memory-engine
+discovered_at: '2026-07-11T02:27:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

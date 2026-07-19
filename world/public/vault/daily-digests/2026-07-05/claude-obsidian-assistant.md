@@ -1,13 +1,23 @@
 ---
-title: "GMPasaylo/claude-obsidian-assistant"
-category: "UI Component"
-tech_stack: ["Obsidian", "HTML", "Markdown", "Claude AI", "JavaScript"]
+title: GMPasaylo/claude-obsidian-assistant
+category: world/public/vault/daily-digests/2026-07-05
+tech_stack:
+- Obsidian
+- HTML
+- Markdown
+- Claude AI
+- JavaScript
 quality_score: 4
 rag_relevance: 5
-tags: ["Obsidian", "Claude AI", "note-taking", "project management", "template"]
-source: "https://github.com/GMPasaylo/claude-obsidian-assistant"
-discovered_at: "2026-07-05T22:00:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Obsidian
+- Claude AI
+- note-taking
+- project management
+- template
+source: https://github.com/GMPasaylo/claude-obsidian-assistant
+discovered_at: '2026-07-05T22:00:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

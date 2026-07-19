@@ -1,13 +1,23 @@
 ---
-title: "Abdulreh4874/gdocs-comments-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Model Context Protocol (MCP)", "Playwright", "Google Docs API", "Browser Automation"]
+title: Abdulreh4874/gdocs-comments-mcp
+category: daily-digests/2026-07-19
+tech_stack:
+- JavaScript
+- Model Context Protocol (MCP)
+- Playwright
+- Google Docs API
+- Browser Automation
 quality_score: 7
 rag_relevance: 6
-tags: ["MCP server", "Google Docs automation", "anchored comments", "AI agent integration", "browser automation"]
-source: "https://github.com/Abdulreh4874/gdocs-comments-mcp"
-discovered_at: "2026-07-19T07:29:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Google Docs automation
+- anchored comments
+- AI agent integration
+- browser automation
+source: https://github.com/Abdulreh4874/gdocs-comments-mcp
+discovered_at: '2026-07-19T07:29:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

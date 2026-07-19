@@ -1,13 +1,24 @@
 ---
-title: "sritajkumarpatel/portforge"
-category: "UI Component"
-tech_stack: ["React", "Vite", "Tailwind CSS", "Framer Motion", "JavaScript", "JSON"]
+title: sritajkumarpatel/portforge
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
+- JavaScript
+- JSON
 quality_score: 9
 rag_relevance: 6
-tags: ["portfolio builder", "AI agent", "React template", "personalization", "developer tools"]
-source: "https://github.com/sritajkumarpatel/portforge"
-discovered_at: "2026-07-07T02:32:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- portfolio builder
+- AI agent
+- React template
+- personalization
+- developer tools
+source: https://github.com/sritajkumarpatel/portforge
+discovered_at: '2026-07-07T02:32:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

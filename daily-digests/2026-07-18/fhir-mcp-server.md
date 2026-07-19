@@ -1,13 +1,26 @@
 ---
-title: "wso2/fhir-mcp-server"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Model Context Protocol (MCP)", "FHIR", "SMART-on-FHIR", "Docker", "uv", "PostgreSQL"]
+title: wso2/fhir-mcp-server
+category: daily-digests/2026-07-18
+tech_stack:
+- Python
+- FastAPI
+- Model Context Protocol (MCP)
+- FHIR
+- SMART-on-FHIR
+- Docker
+- uv
+- PostgreSQL
 quality_score: 9
 rag_relevance: 8
-tags: ["FHIR", "MCP", "healthcare", "LLM integration", "clinical data"]
-source: "https://github.com/wso2/fhir-mcp-server"
-discovered_at: "2026-07-14T05:29:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- FHIR
+- MCP
+- healthcare
+- LLM integration
+- clinical data
+source: https://github.com/wso2/fhir-mcp-server
+discovered_at: '2026-07-14T05:29:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

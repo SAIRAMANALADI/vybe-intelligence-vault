@@ -1,13 +1,25 @@
 ---
-title: "dimitrilaouanis-tech/onyx-mcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "USDC (USD Coin)", "Base blockchain", "EIP-3009 (USDC authorization)", "FastAPI (implicitly via MCP)", "x402 protocol"]
+title: dimitrilaouanis-tech/onyx-mcp
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- USDC (USD Coin)
+- Base blockchain
+- EIP-3009 (USDC authorization)
+- FastAPI (implicitly via MCP)
+- x402 protocol
 quality_score: 9
 rag_relevance: 8
-tags: ["paid-mcp", "USDC-settlement", "x402-protocol", "AI-agent-billing", "on-chain-payments"]
-source: "https://github.com/dimitrilaouanis-tech/onyx-mcp"
-discovered_at: "2026-06-24T20:53:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- paid-mcp
+- USDC-settlement
+- x402-protocol
+- AI-agent-billing
+- on-chain-payments
+source: https://github.com/dimitrilaouanis-tech/onyx-mcp
+discovered_at: '2026-06-24T20:53:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

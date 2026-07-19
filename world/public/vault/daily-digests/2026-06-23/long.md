@@ -1,13 +1,29 @@
 ---
-title: "mjason/long"
-category: "Agent Framework"
-tech_stack: ["Elixir", "Phoenix", "Ash", "OTP", "SQLite", "GraphQL", "ReqLLM", "Oban", "Deno", "Tailwind CSS", "LiveView"]
+title: mjason/long
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Elixir
+- Phoenix
+- Ash
+- OTP
+- SQLite
+- GraphQL
+- ReqLLM
+- Oban
+- Deno
+- Tailwind CSS
+- LiveView
 quality_score: 9
 rag_relevance: 8
-tags: ["LLM agent runtime", "multi-user", "GraphQL tools", "Elixir/OTP", "self-contained binary"]
-source: "https://github.com/mjason/long"
-discovered_at: "2026-06-23T02:49:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LLM agent runtime
+- multi-user
+- GraphQL tools
+- Elixir/OTP
+- self-contained binary
+source: https://github.com/mjason/long
+discovered_at: '2026-06-23T02:49:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "svnscha/mcp-windbg"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "WinDbg/CDB", "CDB (Microsoft Debugging Tools)", "Streamable HTTP", "MkDocs (for documentation)"]
+title: svnscha/mcp-windbg
+category: daily-digests/2026-07-15
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- WinDbg/CDB
+- CDB (Microsoft Debugging Tools)
+- Streamable HTTP
+- MkDocs (for documentation)
 quality_score: 9
 rag_relevance: 7
-tags: ["debugging", "crash analysis", "WinDbg", "MCP server", "AI integration"]
-source: "https://github.com/svnscha/mcp-windbg"
-discovered_at: "2026-07-15T18:06:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- debugging
+- crash analysis
+- WinDbg
+- MCP server
+- AI integration
+source: https://github.com/svnscha/mcp-windbg
+discovered_at: '2026-07-15T18:06:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

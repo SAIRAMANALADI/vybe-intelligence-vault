@@ -1,13 +1,23 @@
 ---
-title: "markgbkkj/hyperliquid-trading-agent"
-category: "Tooling"
-tech_stack: ["Python", "Claude (AI model)", "Hyperliquid API", "Trading algorithms", "Risk management systems"]
+title: markgbkkj/hyperliquid-trading-agent
+category: world/public/vault/daily-digests/2026-07-03
+tech_stack:
+- Python
+- Claude (AI model)
+- Hyperliquid API
+- Trading algorithms
+- Risk management systems
 quality_score: 3
 rag_relevance: 6
-tags: ["trading agent", "AI-powered trading", "perpetual futures", "Hyperliquid integration", "risk management"]
-source: "https://github.com/markgbkkj/hyperliquid-trading-agent"
-discovered_at: "2026-07-03T21:02:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- trading agent
+- AI-powered trading
+- perpetual futures
+- Hyperliquid integration
+- risk management
+source: https://github.com/markgbkkj/hyperliquid-trading-agent
+discovered_at: '2026-07-03T21:02:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

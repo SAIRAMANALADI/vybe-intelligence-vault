@@ -1,13 +1,29 @@
 ---
-title: "kruchenburger/another-s3-manager"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "SQLite", "Docker", "JavaScript", "TypeScript", "React", "Boto3", "Alembic", "Prometheus", "Grafana"]
+title: kruchenburger/another-s3-manager
+category: daily-digests/2026-07-18
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- Docker
+- JavaScript
+- TypeScript
+- React
+- Boto3
+- Alembic
+- Prometheus
+- Grafana
 quality_score: 9
 rag_relevance: 6
-tags: ["S3 management", "self-hosted", "file browser", "multi-cloud", "AI agent integration"]
-source: "https://github.com/kruchenburger/another-s3-manager"
-discovered_at: "2026-07-14T22:56:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- S3 management
+- self-hosted
+- file browser
+- multi-cloud
+- AI agent integration
+source: https://github.com/kruchenburger/another-s3-manager
+discovered_at: '2026-07-14T22:56:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

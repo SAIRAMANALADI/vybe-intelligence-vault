@@ -1,13 +1,25 @@
 ---
-title: "yamadashy/pdfvision"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "PDF.js", "OCR (Tesseract)", "CLI", "PNG rendering", "Unicode normalization"]
+title: yamadashy/pdfvision
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Node.js
+- PDF.js
+- OCR (Tesseract)
+- CLI
+- PNG rendering
+- Unicode normalization
 quality_score: 9
 rag_relevance: 10
-tags: ["PDF extraction", "AI agent tools", "OCR", "layout analysis", "multimodal"]
-source: "https://github.com/yamadashy/pdfvision"
-discovered_at: "2026-07-10T13:10:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- PDF extraction
+- AI agent tools
+- OCR
+- layout analysis
+- multimodal
+source: https://github.com/yamadashy/pdfvision
+discovered_at: '2026-07-10T13:10:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

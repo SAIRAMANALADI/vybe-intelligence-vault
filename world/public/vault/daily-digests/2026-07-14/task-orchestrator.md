@@ -1,13 +1,25 @@
 ---
-title: "jpicklyk/task-orchestrator"
-category: "Orchestrator"
-tech_stack: ["Kotlin", "MCP (Model Context Protocol)", "SQLite", "Docker", "REST API", "YAML", "JWKS (for actor authentication)"]
+title: jpicklyk/task-orchestrator
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- Kotlin
+- MCP (Model Context Protocol)
+- SQLite
+- Docker
+- REST API
+- YAML
+- JWKS (for actor authentication)
 quality_score: 9
 rag_relevance: 10
-tags: ["workflow enforcement", "multi-agent orchestration", "MCP server", "dependency graph", "actor attribution"]
-source: "https://github.com/jpicklyk/task-orchestrator"
-discovered_at: "2026-07-14T18:01:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- workflow enforcement
+- multi-agent orchestration
+- MCP server
+- dependency graph
+- actor attribution
+source: https://github.com/jpicklyk/task-orchestrator
+discovered_at: '2026-07-14T18:01:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

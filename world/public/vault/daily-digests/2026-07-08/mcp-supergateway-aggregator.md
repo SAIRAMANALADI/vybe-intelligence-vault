@@ -1,13 +1,25 @@
 ---
-title: "brainoir/mcp-supergateway-aggregator"
-category: "Orchestrator"
-tech_stack: ["Docker", "Go", "Node.js", "Python", "NGINX", "Model Context Protocol (MCP)", "Server-Sent Events (SSE)"]
+title: brainoir/mcp-supergateway-aggregator
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Docker
+- Go
+- Node.js
+- Python
+- NGINX
+- Model Context Protocol (MCP)
+- Server-Sent Events (SSE)
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP", "SSE", "Docker", "AI Orchestration", "Memory Optimization"]
-source: "https://github.com/brainoir/mcp-supergateway-aggregator"
-discovered_at: "2026-07-08T15:16:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- SSE
+- Docker
+- AI Orchestration
+- Memory Optimization
+source: https://github.com/brainoir/mcp-supergateway-aggregator
+discovered_at: '2026-07-08T15:16:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

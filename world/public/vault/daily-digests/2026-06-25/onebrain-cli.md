@@ -1,13 +1,26 @@
 ---
-title: "onebrain-ai/onebrain-cli"
-category: "Tooling"
-tech_stack: ["Rust", "CLI", "Obsidian", "TypeScript", "Bun", "GitHub Actions", "npm", "Homebrew"]
+title: onebrain-ai/onebrain-cli
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Rust
+- CLI
+- Obsidian
+- TypeScript
+- Bun
+- GitHub Actions
+- npm
+- Homebrew
 quality_score: 9
 rag_relevance: 8
-tags: ["local-first", "deterministic", "cross-platform", "Obsidian integration", "AI OS"]
-source: "https://github.com/onebrain-ai/onebrain-cli"
-discovered_at: "2026-06-25T14:16:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first
+- deterministic
+- cross-platform
+- Obsidian integration
+- AI OS
+source: https://github.com/onebrain-ai/onebrain-cli
+discovered_at: '2026-06-25T14:16:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

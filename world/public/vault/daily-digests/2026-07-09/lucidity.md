@@ -1,13 +1,29 @@
 ---
-title: "opencore-x/lucidity"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "React Native (Expo)", "TanStack Start", "Hono (Node.js)", "PostgreSQL", "Drizzle ORM", "Clerk Auth", "MCP SDK", "Turborepo", "Zustand", "NativeWind"]
+title: opencore-x/lucidity
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- React Native (Expo)
+- TanStack Start
+- Hono (Node.js)
+- PostgreSQL
+- Drizzle ORM
+- Clerk Auth
+- MCP SDK
+- Turborepo
+- Zustand
+- NativeWind
 quality_score: 8
 rag_relevance: 9
-tags: ["AI assistant", "local-first", "agent communication", "task management", "privacy-focused"]
-source: "https://github.com/opencore-x/lucidity"
-discovered_at: "2026-07-09T08:25:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI assistant
+- local-first
+- agent communication
+- task management
+- privacy-focused
+source: https://github.com/opencore-x/lucidity
+discovered_at: '2026-07-09T08:25:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

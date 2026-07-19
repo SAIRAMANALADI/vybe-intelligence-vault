@@ -1,13 +1,25 @@
 ---
-title: "Razee4315/NetLogo-MCP"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "NetLogo", "Java JDK", "Docker", "PyPI", "GitHub Actions"]
+title: Razee4315/NetLogo-MCP
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- NetLogo
+- Java JDK
+- Docker
+- PyPI
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["agent-based modeling", "MCP server", "NetLogo integration", "AI automation", "simulation"]
-source: "https://github.com/Razee4315/NetLogo-MCP"
-discovered_at: "2026-07-07T16:27:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent-based modeling
+- MCP server
+- NetLogo integration
+- AI automation
+- simulation
+source: https://github.com/Razee4315/NetLogo-MCP
+discovered_at: '2026-07-07T16:27:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

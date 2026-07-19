@@ -1,13 +1,23 @@
 ---
-title: "thdelmas/rem-sleep"
-category: "Agent Framework"
-tech_stack: ["Claude Code", "Codex", "Cursor", "Markdown", "Shell"]
+title: thdelmas/rem-sleep
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Claude Code
+- Codex
+- Cursor
+- Markdown
+- Shell
 quality_score: 8
 rag_relevance: 9
-tags: ["memory consolidation", "AI agent skills", "long-term memory", "emotional regulation", "learning integration"]
-source: "https://github.com/thdelmas/rem-sleep"
-discovered_at: "2026-06-24T10:20:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory consolidation
+- AI agent skills
+- long-term memory
+- emotional regulation
+- learning integration
+source: https://github.com/thdelmas/rem-sleep
+discovered_at: '2026-06-24T10:20:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

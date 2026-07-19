@@ -1,13 +1,25 @@
 ---
-title: "dizhouid-lgtm/pixboom-recruiting"
-category: "Tooling"
-tech_stack: ["Node.js", "JavaScript", "Claude Code", "Liepin CLI", "Chrome/Edge (headless automation)", "PDF generation", "Git"]
+title: dizhouid-lgtm/pixboom-recruiting
+category: daily-digests/2026-06-23
+tech_stack:
+- Node.js
+- JavaScript
+- Claude Code
+- Liepin CLI
+- Chrome/Edge (headless automation)
+- PDF generation
+- Git
 quality_score: 8
 rag_relevance: 6
-tags: ["resume screening", "AI-assisted hiring", "candidate sourcing", "automated filtering", "JD refinement"]
-source: "https://github.com/dizhouid-lgtm/pixboom-recruiting"
-discovered_at: "2026-06-23T08:54:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- resume screening
+- AI-assisted hiring
+- candidate sourcing
+- automated filtering
+- JD refinement
+source: https://github.com/dizhouid-lgtm/pixboom-recruiting
+discovered_at: '2026-06-23T08:54:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

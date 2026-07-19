@@ -1,13 +1,27 @@
 ---
-title: "netresearch/skill-repo-skill"
-category: "Tooling"
-tech_stack: ["Shell", "Python", "PHP", "JavaScript/Node.js", "GitHub Actions", "Composer", "npm", "Markdown", "YAML"]
+title: netresearch/skill-repo-skill
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Shell
+- Python
+- PHP
+- JavaScript/Node.js
+- GitHub Actions
+- Composer
+- npm
+- Markdown
+- YAML
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agent skills", "repository standardization", "CI/CD automation", "multi-platform distribution", "skill validation"]
-source: "https://github.com/netresearch/skill-repo-skill"
-discovered_at: "2026-07-10T13:10:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent skills
+- repository standardization
+- CI/CD automation
+- multi-platform distribution
+- skill validation
+source: https://github.com/netresearch/skill-repo-skill
+discovered_at: '2026-07-10T13:10:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

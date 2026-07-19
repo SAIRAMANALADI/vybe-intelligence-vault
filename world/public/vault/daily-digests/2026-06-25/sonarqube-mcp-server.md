@@ -1,13 +1,23 @@
 ---
-title: "SonarSource/sonarqube-mcp-server"
-category: "Tooling"
-tech_stack: ["Java", "Docker", "Model Context Protocol (MCP)", "SonarQube", "Gradle"]
+title: SonarSource/sonarqube-mcp-server
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Java
+- Docker
+- Model Context Protocol (MCP)
+- SonarQube
+- Gradle
 quality_score: 9
 rag_relevance: 8
-tags: ["code quality", "security analysis", "MCP server", "SonarQube integration", "AI agent tools"]
-source: "https://github.com/SonarSource/sonarqube-mcp-server"
-discovered_at: "2026-06-25T08:33:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code quality
+- security analysis
+- MCP server
+- SonarQube integration
+- AI agent tools
+source: https://github.com/SonarSource/sonarqube-mcp-server
+discovered_at: '2026-06-25T08:33:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

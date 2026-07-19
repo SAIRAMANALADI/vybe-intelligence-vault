@@ -1,13 +1,26 @@
 ---
-title: "guillermovzq/alchemical-agent-ecosystem"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Docker", "Caddy", "FastAPI", "Redis", "ChromaDB", "Ollama", "OpenClaw"]
+title: guillermovzq/alchemical-agent-ecosystem
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Docker
+- Caddy
+- FastAPI
+- Redis
+- ChromaDB
+- Ollama
+- OpenClaw
 quality_score: 7
 rag_relevance: 8
-tags: ["multi-agent", "local-first", "self-hosted", "automation", "AI orchestration"]
-source: "https://github.com/guillermovzq/alchemical-agent-ecosystem"
-discovered_at: "2026-06-22T18:49:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent
+- local-first
+- self-hosted
+- automation
+- AI orchestration
+source: https://github.com/guillermovzq/alchemical-agent-ecosystem
+discovered_at: '2026-06-22T18:49:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

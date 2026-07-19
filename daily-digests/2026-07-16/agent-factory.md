@@ -1,13 +1,22 @@
 ---
-title: "cornhuskinghemophiliab653/agent-factory"
-category: "Agent Framework"
-tech_stack: ["Python", "Windows Desktop Application", "LLM APIs (ChatGPT, Claude, Gemini)", "Prompt Engineering"]
+title: cornhuskinghemophiliab653/agent-factory
+category: daily-digests/2026-07-16
+tech_stack:
+- Python
+- Windows Desktop Application
+- LLM APIs (ChatGPT, Claude, Gemini)
+- Prompt Engineering
 quality_score: 7
 rag_relevance: 6
-tags: ["AI Agents", "Prompt Library", "No-Code", "Multi-LLM Support", "Industry Playbooks"]
-source: "https://github.com/cornhuskinghemophiliab653/agent-factory"
-discovered_at: "2026-07-15T14:49:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agents
+- Prompt Library
+- No-Code
+- Multi-LLM Support
+- Industry Playbooks
+source: https://github.com/cornhuskinghemophiliab653/agent-factory
+discovered_at: '2026-07-15T14:49:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

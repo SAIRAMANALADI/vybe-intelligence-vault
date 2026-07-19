@@ -1,13 +1,23 @@
 ---
-title: "mohahasan/ios-agentic-skills"
-category: "Tooling"
-tech_stack: ["JavaScript", "iOS", "watchOS", "Agentic Systems", "Automated Testing"]
+title: mohahasan/ios-agentic-skills
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- JavaScript
+- iOS
+- watchOS
+- Agentic Systems
+- Automated Testing
 quality_score: 6
 rag_relevance: 7
-tags: ["iOS testing", "agentic skills", "automated QA", "mobile development", "watchOS"]
-source: "https://github.com/mohahasan/ios-agentic-skills"
-discovered_at: "2026-07-09T00:05:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- iOS testing
+- agentic skills
+- automated QA
+- mobile development
+- watchOS
+source: https://github.com/mohahasan/ios-agentic-skills
+discovered_at: '2026-07-09T00:05:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

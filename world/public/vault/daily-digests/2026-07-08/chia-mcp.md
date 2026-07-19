@@ -1,13 +1,23 @@
 ---
-title: "Carolaunfading944/chia-mcp"
-category: "Tooling"
-tech_stack: ["Model Context Protocol (MCP)", "Windows Desktop App", "Python (implied)", "Stripe ACP (for payments)", "HIPAA Compliance"]
+title: Carolaunfading944/chia-mcp
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Model Context Protocol (MCP)
+- Windows Desktop App
+- Python (implied)
+- Stripe ACP (for payments)
+- HIPAA Compliance
 quality_score: 6
 rag_relevance: 5
-tags: ["telehealth", "MCP", "GLP-1 medications", "peptide therapies", "HIPAA compliance"]
-source: "https://github.com/Carolaunfading944/chia-mcp"
-discovered_at: "2026-07-08T22:15:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- telehealth
+- MCP
+- GLP-1 medications
+- peptide therapies
+- HIPAA compliance
+source: https://github.com/Carolaunfading944/chia-mcp
+discovered_at: '2026-07-08T22:15:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,30 @@
 ---
-title: "DarkNoah/aime-chat"
-category: "Agent Framework"
-tech_stack: ["Electron", "React 19", "TypeScript", "Mastra", "shadcn/ui", "Tailwind CSS", "TypeORM", "better-sqlite3", "@mastra/fastembed", "Vercel AI SDK", "Webpack 5", "i18next"]
+title: DarkNoah/aime-chat
+category: daily-digests/2026-07-10
+tech_stack:
+- Electron
+- React 19
+- TypeScript
+- Mastra
+- shadcn/ui
+- Tailwind CSS
+- TypeORM
+- better-sqlite3
+- '@mastra/fastembed'
+- Vercel AI SDK
+- Webpack 5
+- i18next
 quality_score: 9
 rag_relevance: 9
-tags: ["AI Agent", "RAG", "MCP", "Cross-platform", "Tool Integration"]
-source: "https://github.com/DarkNoah/aime-chat"
-discovered_at: "2026-07-10T06:32:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent
+- RAG
+- MCP
+- Cross-platform
+- Tool Integration
+source: https://github.com/DarkNoah/aime-chat
+discovered_at: '2026-07-10T06:32:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

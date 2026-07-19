@@ -1,13 +1,25 @@
 ---
-title: "AbrarRagib/selenium-script-generator"
-category: "Tooling"
-tech_stack: ["Python", "Selenium", "Page Object Model", "LLM (Claude API or offline parser)", "Pytest", "WebDriverWait", "Anthropic API"]
+title: AbrarRagib/selenium-script-generator
+category: daily-digests/2026-07-18
+tech_stack:
+- Python
+- Selenium
+- Page Object Model
+- LLM (Claude API or offline parser)
+- Pytest
+- WebDriverWait
+- Anthropic API
 quality_score: 8
 rag_relevance: 6
-tags: ["test automation", "Selenium", "Page Object Model", "AI agent", "QA tooling"]
-source: "https://github.com/AbrarRagib/selenium-script-generator"
-discovered_at: "2026-07-13T18:43:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- test automation
+- Selenium
+- Page Object Model
+- AI agent
+- QA tooling
+source: https://github.com/AbrarRagib/selenium-script-generator
+discovered_at: '2026-07-13T18:43:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

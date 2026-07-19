@@ -1,13 +1,23 @@
 ---
-title: "Bowotria/aethercore"
-category: "Agent Framework"
-tech_stack: ["Rust", "Go", "Sandboxing", "Edge Computing", "Distributed Systems"]
+title: Bowotria/aethercore
+category: daily-digests/2026-06-23
+tech_stack:
+- Rust
+- Go
+- Sandboxing
+- Edge Computing
+- Distributed Systems
 quality_score: 7
 rag_relevance: 6
-tags: ["lightweight", "edge AI", "distributed agents", "Rust sandboxing", "fast startup"]
-source: "https://github.com/Bowotria/aethercore"
-discovered_at: "2026-06-23T23:05:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- lightweight
+- edge AI
+- distributed agents
+- Rust sandboxing
+- fast startup
+source: https://github.com/Bowotria/aethercore
+discovered_at: '2026-06-23T23:05:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

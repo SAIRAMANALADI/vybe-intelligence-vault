@@ -1,13 +1,21 @@
 ---
-title: "vladsure158/drift"
-category: "Tooling"
-tech_stack: ["Go", "Terminal User Interface (TUI)", "Command Line Interface (CLI)"]
+title: vladsure158/drift
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Go
+- Terminal User Interface (TUI)
+- Command Line Interface (CLI)
 quality_score: 6
 rag_relevance: 4
-tags: ["project tracking", "terminal-based", "AI workflow", "productivity tool", "Go application"]
-source: "https://github.com/vladsure158/drift"
-discovered_at: "2026-07-07T23:56:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- project tracking
+- terminal-based
+- AI workflow
+- productivity tool
+- Go application
+source: https://github.com/vladsure158/drift
+discovered_at: '2026-07-07T23:56:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,30 @@
 ---
-title: "boxlite-ai/boxlite"
-category: "Orchestrator"
-tech_stack: ["Rust", "Python", "Node.js", "Go", "C", "OCI/Docker", "KVM", "seccomp", "sandbox-exec", "QCOW2", "Tokio", "Async I/O"]
+title: boxlite-ai/boxlite
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Rust
+- Python
+- Node.js
+- Go
+- C
+- OCI/Docker
+- KVM
+- seccomp
+- sandbox-exec
+- QCOW2
+- Tokio
+- Async I/O
 quality_score: 9
 rag_relevance: 8
-tags: ["compute substrate", "micro-VMs", "OCI containers", "stateful environments", "AI agents"]
-source: "https://github.com/boxlite-ai/boxlite"
-discovered_at: "2026-06-24T13:19:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- compute substrate
+- micro-VMs
+- OCI containers
+- stateful environments
+- AI agents
+source: https://github.com/boxlite-ai/boxlite
+discovered_at: '2026-06-24T13:19:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

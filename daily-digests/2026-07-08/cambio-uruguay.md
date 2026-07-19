@@ -1,13 +1,27 @@
 ---
-title: "eduair94/cambio-uruguay"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "React", "Model Context Protocol (MCP)", "Express.js", "Docker", "PostgreSQL", "Redis", "GitHub Actions"]
+title: eduair94/cambio-uruguay
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- Model Context Protocol (MCP)
+- Express.js
+- Docker
+- PostgreSQL
+- Redis
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-tags: ["exchange rates", "currency comparison", "financial data", "real-time API", "MCP server"]
-source: "https://github.com/eduair94/cambio-uruguay"
-discovered_at: "2026-07-08T21:02:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- exchange rates
+- currency comparison
+- financial data
+- real-time API
+- MCP server
+source: https://github.com/eduair94/cambio-uruguay
+discovered_at: '2026-07-08T21:02:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

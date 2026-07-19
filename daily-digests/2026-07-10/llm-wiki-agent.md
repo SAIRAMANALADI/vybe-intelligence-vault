@@ -1,13 +1,27 @@
 ---
-title: "SamurAIGPT/llm-wiki-agent"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code", "Codex", "Gemini CLI", "Markdown", "PDF/DOCX/PPTX/XLSX converters", "Obsidian (integration)", "YAML/JSON (metadata handling)", "Natural Language Processing (NLP)"]
+title: SamurAIGPT/llm-wiki-agent
+category: daily-digests/2026-07-10
+tech_stack:
+- Python
+- Claude Code
+- Codex
+- Gemini CLI
+- Markdown
+- PDF/DOCX/PPTX/XLSX converters
+- Obsidian (integration)
+- YAML/JSON (metadata handling)
+- Natural Language Processing (NLP)
 quality_score: 9
 rag_relevance: 8
-tags: ["knowledge management", "document ingestion", "persistent wiki", "knowledge graph", "autonomous agent"]
-source: "https://github.com/SamurAIGPT/llm-wiki-agent"
-discovered_at: "2026-07-10T06:15:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- knowledge management
+- document ingestion
+- persistent wiki
+- knowledge graph
+- autonomous agent
+source: https://github.com/SamurAIGPT/llm-wiki-agent
+discovered_at: '2026-07-10T06:15:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "Anmol-Shukla-20/AI-Agent-Travel-Planner"
-category: "Agent Framework"
-tech_stack: ["Python", "Streamlit", "FastAPI", "LLM (unspecified)", "YAML", "Uvicorn"]
+title: Anmol-Shukla-20/AI-Agent-Travel-Planner
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- Streamlit
+- FastAPI
+- LLM (unspecified)
+- YAML
+- Uvicorn
 quality_score: 7
 rag_relevance: 7
-tags: ["travel planning", "agentic workflows", "modular tools", "itinerary generation", "budget estimation"]
-source: "https://github.com/Anmol-Shukla-20/AI-Agent-Travel-Planner"
-discovered_at: "2026-07-09T17:17:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- travel planning
+- agentic workflows
+- modular tools
+- itinerary generation
+- budget estimation
+source: https://github.com/Anmol-Shukla-20/AI-Agent-Travel-Planner
+discovered_at: '2026-07-09T17:17:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

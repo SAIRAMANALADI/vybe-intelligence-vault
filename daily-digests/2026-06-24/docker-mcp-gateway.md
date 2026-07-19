@@ -1,13 +1,23 @@
 ---
-title: "waynestimulative605/docker-mcp-gateway"
-category: "Orchestrator"
-tech_stack: ["Docker", "Model Context Protocol (MCP)", "Shell", "HTTP Gateway", "Bearer Token Authentication"]
+title: waynestimulative605/docker-mcp-gateway
+category: daily-digests/2026-06-24
+tech_stack:
+- Docker
+- Model Context Protocol (MCP)
+- Shell
+- HTTP Gateway
+- Bearer Token Authentication
 quality_score: 6
 rag_relevance: 8
-tags: ["MCP", "data integration", "self-hosted", "authenticated gateway", "Docker"]
-source: "https://github.com/waynestimulative605/docker-mcp-gateway"
-discovered_at: "2026-06-24T22:18:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- data integration
+- self-hosted
+- authenticated gateway
+- Docker
+source: https://github.com/waynestimulative605/docker-mcp-gateway
+discovered_at: '2026-06-24T22:18:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

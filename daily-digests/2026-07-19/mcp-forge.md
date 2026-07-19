@@ -1,13 +1,23 @@
 ---
-title: "Muhammad-Adil-code/Mcp-forge"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "OpenAPI/Swagger", "Model Context Protocol (MCP)", "CLI"]
+title: Muhammad-Adil-code/Mcp-forge
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- OpenAPI/Swagger
+- Model Context Protocol (MCP)
+- CLI
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP", "OpenAPI", "AI agents", "API integration", "CLI tool"]
-source: "https://github.com/Muhammad-Adil-code/Mcp-forge"
-discovered_at: "2026-07-18T15:55:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- OpenAPI
+- AI agents
+- API integration
+- CLI tool
+source: https://github.com/Muhammad-Adil-code/Mcp-forge
+discovered_at: '2026-07-18T15:55:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

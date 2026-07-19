@@ -1,13 +1,21 @@
 ---
-title: "christophervideo/kaban"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "Node.js"]
+title: christophervideo/kaban
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- Electron
+- Node.js
 quality_score: 5
 rag_relevance: 3
-tags: ["task management", "kanban board", "AI agent collaboration", "terminal tool", "productivity"]
-source: "https://github.com/christophervideo/kaban"
-discovered_at: "2026-07-06T21:25:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- task management
+- kanban board
+- AI agent collaboration
+- terminal tool
+- productivity
+source: https://github.com/christophervideo/kaban
+discovered_at: '2026-07-06T21:25:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

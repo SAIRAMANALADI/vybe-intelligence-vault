@@ -1,13 +1,24 @@
 ---
-title: "privacyplaybook/sops-mcp"
-category: "Tooling"
-tech_stack: ["Python", "SOPS", "age encryption", "MCP (Model Context Protocol)", "YAML", "Docker"]
+title: privacyplaybook/sops-mcp
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- SOPS
+- age encryption
+- MCP (Model Context Protocol)
+- YAML
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["secrets management", "SOPS", "age encryption", "MCP server", "secure generation"]
-source: "https://github.com/privacyplaybook/sops-mcp"
-discovered_at: "2026-06-23T16:32:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- secrets management
+- SOPS
+- age encryption
+- MCP server
+- secure generation
+source: https://github.com/privacyplaybook/sops-mcp
+discovered_at: '2026-06-23T16:32:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

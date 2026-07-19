@@ -1,13 +1,23 @@
 ---
-title: "Splayfooted-wynnea293/agent-toolkit-for-aws"
-category: "Tooling"
-tech_stack: ["AWS SDK", "Python", "Windows Installer", "Model Context Protocol (MCP)", "IAM"]
+title: Splayfooted-wynnea293/agent-toolkit-for-aws
+category: daily-digests/2026-07-08
+tech_stack:
+- AWS SDK
+- Python
+- Windows Installer
+- Model Context Protocol (MCP)
+- IAM
 quality_score: 6
 rag_relevance: 7
-tags: ["AWS integration", "AI agent tools", "cloud automation", "security guardrails", "local server"]
-source: "https://github.com/Splayfooted-wynnea293/agent-toolkit-for-aws"
-discovered_at: "2026-07-08T05:45:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AWS integration
+- AI agent tools
+- cloud automation
+- security guardrails
+- local server
+source: https://github.com/Splayfooted-wynnea293/agent-toolkit-for-aws
+discovered_at: '2026-07-08T05:45:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

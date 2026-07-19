@@ -1,13 +1,29 @@
 ---
-title: "waooAI/waoowaoo"
-category: "Tooling"
-tech_stack: ["Next.js", "React", "TypeScript", "MySQL", "Prisma ORM", "Redis", "BullMQ", "Tailwind CSS", "NextAuth.js", "Docker", "MinIO"]
+title: waooAI/waoowaoo
+category: daily-digests/2026-06-22
+tech_stack:
+- Next.js
+- React
+- TypeScript
+- MySQL
+- Prisma ORM
+- Redis
+- BullMQ
+- Tailwind CSS
+- NextAuth.js
+- Docker
+- MinIO
 quality_score: 9
 rag_relevance: 7
-tags: ["AI video generation", "storyboard automation", "multimodal content creation", "AI voice synthesis", "visual consistency"]
-source: "https://github.com/waooAI/waoowaoo"
-discovered_at: "2026-06-22T18:15:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI video generation
+- storyboard automation
+- multimodal content creation
+- AI voice synthesis
+- visual consistency
+source: https://github.com/waooAI/waoowaoo
+discovered_at: '2026-06-22T18:15:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

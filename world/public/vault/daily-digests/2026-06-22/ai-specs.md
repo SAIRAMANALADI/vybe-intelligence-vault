@@ -1,13 +1,21 @@
 ---
-title: "sanjusathian/ai-specs"
-category: "Tooling"
-tech_stack: ["Configuration Management", "AI Agent Frameworks", "Development Standards"]
+title: sanjusathian/ai-specs
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Configuration Management
+- AI Agent Frameworks
+- Development Standards
 quality_score: 5
 rag_relevance: 7
-tags: ["AI development standards", "coding guidelines", "agent configurations", "consistent AI output", "project setup"]
-source: "https://github.com/sanjusathian/ai-specs"
-discovered_at: "2026-06-22T23:23:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI development standards
+- coding guidelines
+- agent configurations
+- consistent AI output
+- project setup
+source: https://github.com/sanjusathian/ai-specs
+discovered_at: '2026-06-22T23:23:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

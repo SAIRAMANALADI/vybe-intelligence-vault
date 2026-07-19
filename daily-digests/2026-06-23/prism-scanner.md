@@ -1,13 +1,22 @@
 ---
-title: "Shelflifegymnopilusvalidipes977/prism-scanner"
-category: "Tooling"
-tech_stack: ["Python", "Windows CLI", "Static Analysis", "Security Scanning"]
+title: Shelflifegymnopilusvalidipes977/prism-scanner
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Windows CLI
+- Static Analysis
+- Security Scanning
 quality_score: 7
 rag_relevance: 8
-tags: ["security scanning", "AI agent validation", "MCP server auditing", "supply chain security", "pre-deployment checks"]
-source: "https://github.com/Shelflifegymnopilusvalidipes977/prism-scanner"
-discovered_at: "2026-06-23T02:42:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- security scanning
+- AI agent validation
+- MCP server auditing
+- supply chain security
+- pre-deployment checks
+source: https://github.com/Shelflifegymnopilusvalidipes977/prism-scanner
+discovered_at: '2026-06-23T02:42:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

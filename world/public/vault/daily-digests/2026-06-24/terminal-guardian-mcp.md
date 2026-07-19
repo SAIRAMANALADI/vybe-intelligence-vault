@@ -1,13 +1,23 @@
 ---
-title: "Licentious-underframe246/terminal-guardian-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Windows API", "Sandboxing", "Model Context Protocol (MCP)", "Electron (inferred)"]
+title: Licentious-underframe246/terminal-guardian-mcp
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Windows API
+- Sandboxing
+- Model Context Protocol (MCP)
+- Electron (inferred)
 quality_score: 7
 rag_relevance: 8
-tags: ["terminal security", "AI command filtering", "sandboxing", "Model Context Protocol", "Windows protection"]
-source: "https://github.com/Licentious-underframe246/terminal-guardian-mcp"
-discovered_at: "2026-06-24T22:16:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- terminal security
+- AI command filtering
+- sandboxing
+- Model Context Protocol
+- Windows protection
+source: https://github.com/Licentious-underframe246/terminal-guardian-mcp
+discovered_at: '2026-06-24T22:16:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

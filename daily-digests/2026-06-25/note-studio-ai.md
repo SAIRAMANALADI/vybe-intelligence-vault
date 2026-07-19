@@ -1,13 +1,23 @@
 ---
-title: "Ajstylsz/Note-Studio-Ai"
-category: "Tooling"
-tech_stack: ["Electron", "HTML/CSS", "JavaScript", "C++", "Local AI Models"]
+title: Ajstylsz/Note-Studio-Ai
+category: daily-digests/2026-06-25
+tech_stack:
+- Electron
+- HTML/CSS
+- JavaScript
+- C++
+- Local AI Models
 quality_score: 6
 rag_relevance: 4
-tags: ["code editor", "local AI", "privacy-focused", "offline development", "C++ support"]
-source: "https://github.com/Ajstylsz/Note-Studio-Ai"
-discovered_at: "2026-06-25T07:22:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code editor
+- local AI
+- privacy-focused
+- offline development
+- C++ support
+source: https://github.com/Ajstylsz/Note-Studio-Ai
+discovered_at: '2026-06-25T07:22:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

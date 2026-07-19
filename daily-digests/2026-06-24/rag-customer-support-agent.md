@@ -1,13 +1,23 @@
 ---
-title: "dawood125/rag-customer-support-agent"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Retrieval-Augmented Generation (RAG)", "Vector Embeddings", "Web UI", "WhatsApp API"]
+title: dawood125/rag-customer-support-agent
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Retrieval-Augmented Generation (RAG)
+- Vector Embeddings
+- Web UI
+- WhatsApp API
 quality_score: 5
 rag_relevance: 9
-tags: ["RAG", "customer support", "multi-tenant", "vector embeddings", "real-time resolution"]
-source: "https://github.com/dawood125/rag-customer-support-agent"
-discovered_at: "2026-06-24T13:19:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RAG
+- customer support
+- multi-tenant
+- vector embeddings
+- real-time resolution
+source: https://github.com/dawood125/rag-customer-support-agent
+discovered_at: '2026-06-24T13:19:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

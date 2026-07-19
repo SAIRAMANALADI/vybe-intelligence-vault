@@ -1,13 +1,23 @@
 ---
-title: "Fyrgo8/memory-system-skill"
-category: "Tooling"
-tech_stack: ["PowerShell", "Markdown", "Filesystem", "Agent Routing", "Memory Management"]
+title: Fyrgo8/memory-system-skill
+category: daily-digests/2026-07-17
+tech_stack:
+- PowerShell
+- Markdown
+- Filesystem
+- Agent Routing
+- Memory Management
 quality_score: 8
 rag_relevance: 7
-tags: ["memory management", "agent persistence", "filesystem storage", "session recall", "privacy-aware"]
-source: "https://github.com/Fyrgo8/memory-system-skill"
-discovered_at: "2026-07-11T14:51:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory management
+- agent persistence
+- filesystem storage
+- session recall
+- privacy-aware
+source: https://github.com/Fyrgo8/memory-system-skill
+discovered_at: '2026-07-11T14:51:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

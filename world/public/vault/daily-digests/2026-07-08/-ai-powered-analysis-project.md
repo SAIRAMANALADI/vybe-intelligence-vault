@@ -1,13 +1,26 @@
 ---
-title: "Timnitt/-AI-powered-Analysis-project"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Streamlit", "Pandas", "Google Generative AI (Gemini 2.5 Flash)", "Openpyxl", "Uvicorn", "python-dotenv"]
+title: Timnitt/-AI-powered-Analysis-project
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- FastAPI
+- Streamlit
+- Pandas
+- Google Generative AI (Gemini 2.5 Flash)
+- Openpyxl
+- Uvicorn
+- python-dotenv
 quality_score: 8
 rag_relevance: 7
-tags: ["data analysis", "natural language processing", "automated reporting", "non-technical users", "spreadsheet processing"]
-source: "https://github.com/Timnitt/-AI-powered-Analysis-project"
-discovered_at: "2026-07-08T12:24:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- data analysis
+- natural language processing
+- automated reporting
+- non-technical users
+- spreadsheet processing
+source: https://github.com/Timnitt/-AI-powered-Analysis-project
+discovered_at: '2026-07-08T12:24:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,31 @@
 ---
-title: "umarqadri345/awesome-lark-bots"
-category: "Agent Framework"
-tech_stack: ["Python", "Lark (Feishu) API", "DeepSeek", "Kimi", "Doubao", "AgentLoop", "Streamlit", "Tavily API", "DuckDuckGo API", "JustOneAPI", "WebSocket", "Pydantic", "FastAPI"]
+title: umarqadri345/awesome-lark-bots
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Lark (Feishu) API
+- DeepSeek
+- Kimi
+- Doubao
+- AgentLoop
+- Streamlit
+- Tavily API
+- DuckDuckGo API
+- JustOneAPI
+- WebSocket
+- Pydantic
+- FastAPI
 quality_score: 8
 rag_relevance: 7
-tags: ["AI automation", "Lark integration", "multi-agent systems", "content generation", "workflow orchestration"]
-source: "https://github.com/umarqadri345/awesome-lark-bots"
-discovered_at: "2026-06-23T23:05:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI automation
+- Lark integration
+- multi-agent systems
+- content generation
+- workflow orchestration
+source: https://github.com/umarqadri345/awesome-lark-bots
+discovered_at: '2026-06-23T23:05:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

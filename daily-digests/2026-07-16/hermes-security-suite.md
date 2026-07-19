@@ -1,13 +1,27 @@
 ---
-title: "503496348-ops/hermes-security-suite"
-category: "Tooling"
-tech_stack: ["Python", "YARA", "AST (Abstract Syntax Tree) Analysis", "Taint Tracking", "OSV (Open Source Vulnerabilities) Querying", "CI/CD Pipelines", "MCP (Model Context Protocol) Security", "Shell Scripting", "Pytest"]
+title: 503496348-ops/hermes-security-suite
+category: daily-digests/2026-07-16
+tech_stack:
+- Python
+- YARA
+- AST (Abstract Syntax Tree) Analysis
+- Taint Tracking
+- OSV (Open Source Vulnerabilities) Querying
+- CI/CD Pipelines
+- MCP (Model Context Protocol) Security
+- Shell Scripting
+- Pytest
 quality_score: 8
 rag_relevance: 9
-tags: ["AI Agent Security", "Real-time Protection", "Red Teaming", "Self-Healing Diagnostics", "Multi-layered Detection"]
-source: "https://github.com/503496348-ops/hermes-security-suite"
-discovered_at: "2026-07-11T02:27:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent Security
+- Real-time Protection
+- Red Teaming
+- Self-Healing Diagnostics
+- Multi-layered Detection
+source: https://github.com/503496348-ops/hermes-security-suite
+discovered_at: '2026-07-11T02:27:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

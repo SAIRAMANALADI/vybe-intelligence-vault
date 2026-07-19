@@ -1,13 +1,24 @@
 ---
-title: "Florious95/team-agent"
-category: "Orchestrator"
-tech_stack: ["Rust", "Claude Code", "Codex CLI", "Copilot CLI", "tmux", "Node.js (for installer)"]
+title: Florious95/team-agent
+category: daily-digests/2026-06-24
+tech_stack:
+- Rust
+- Claude Code
+- Codex CLI
+- Copilot CLI
+- tmux
+- Node.js (for installer)
 quality_score: 8
 rag_relevance: 7
-tags: ["multi-agent", "orchestration", "parallel execution", "autonomous agents", "natural language control"]
-source: "https://github.com/Florious95/team-agent"
-discovered_at: "2026-06-24T18:56:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent
+- orchestration
+- parallel execution
+- autonomous agents
+- natural language control
+source: https://github.com/Florious95/team-agent
+discovered_at: '2026-06-24T18:56:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

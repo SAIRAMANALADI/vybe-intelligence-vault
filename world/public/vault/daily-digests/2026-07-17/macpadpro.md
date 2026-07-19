@@ -1,13 +1,23 @@
 ---
-title: "anvilfilbert/MacPadPro"
-category: "Tooling"
-tech_stack: ["Swift", "macOS", "JSON", "SHA-256", "OpenAI-compatible APIs"]
+title: anvilfilbert/MacPadPro
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- Swift
+- macOS
+- JSON
+- SHA-256
+- OpenAI-compatible APIs
 quality_score: 8
 rag_relevance: 6
-tags: ["macOS editor", "extension system", "AI workflows", "plain-text", "modular tools"]
-source: "https://github.com/anvilfilbert/MacPadPro"
-discovered_at: "2026-07-10T10:51:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- macOS editor
+- extension system
+- AI workflows
+- plain-text
+- modular tools
+source: https://github.com/anvilfilbert/MacPadPro
+discovered_at: '2026-07-10T10:51:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

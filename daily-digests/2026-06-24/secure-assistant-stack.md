@@ -1,13 +1,28 @@
 ---
-title: "bgheneti/secure-assistant-stack"
-category: "Orchestrator"
-tech_stack: ["ZeroClaw", "OneCLI", "LiteLLM", "PrivateMode", "Squid", "Multipass", "Docker", "PostgreSQL", "Python", "Shell Scripting"]
+title: bgheneti/secure-assistant-stack
+category: daily-digests/2026-06-24
+tech_stack:
+- ZeroClaw
+- OneCLI
+- LiteLLM
+- PrivateMode
+- Squid
+- Multipass
+- Docker
+- PostgreSQL
+- Python
+- Shell Scripting
 quality_score: 8
 rag_relevance: 7
-tags: ["security-hardened", "zero-trust", "agent-orchestration", "self-hosted", "credential-vault"]
-source: "https://github.com/bgheneti/secure-assistant-stack"
-discovered_at: "2026-06-24T16:15:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- security-hardened
+- zero-trust
+- agent-orchestration
+- self-hosted
+- credential-vault
+source: https://github.com/bgheneti/secure-assistant-stack
+discovered_at: '2026-06-24T16:15:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

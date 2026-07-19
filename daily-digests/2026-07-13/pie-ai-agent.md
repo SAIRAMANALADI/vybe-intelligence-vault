@@ -1,13 +1,25 @@
 ---
-title: "WiseriaAI/pie-ai-agent"
-category: "Tooling"
-tech_stack: ["TypeScript", "React 19", "Vite", "Chrome Extension (Manifest V3)", "Pnpm", "CDP (Chrome DevTools Protocol)", "Ollama (for local models, roadmap)"]
+title: WiseriaAI/pie-ai-agent
+category: daily-digests/2026-07-13
+tech_stack:
+- TypeScript
+- React 19
+- Vite
+- Chrome Extension (Manifest V3)
+- Pnpm
+- CDP (Chrome DevTools Protocol)
+- Ollama (for local models, roadmap)
 quality_score: 9
 rag_relevance: 6
-tags: ["Browser automation", "AI agent", "Chrome extension", "Natural language tasks", "Multi-tab workflows"]
-source: "https://github.com/WiseriaAI/pie-ai-agent"
-discovered_at: "2026-07-11T15:54:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Browser automation
+- AI agent
+- Chrome extension
+- Natural language tasks
+- Multi-tab workflows
+source: https://github.com/WiseriaAI/pie-ai-agent
+discovered_at: '2026-07-11T15:54:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

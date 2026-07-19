@@ -1,13 +1,26 @@
 ---
-title: "SimoneB79/memory-engine-mcp"
-category: "Vector DB"
-tech_stack: ["Python", "SQLite", "FastMCP", "Ollama", "nomic-embed-text", "watchdog", "JSON1", "FTS5"]
+title: SimoneB79/memory-engine-mcp
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- SQLite
+- FastMCP
+- Ollama
+- nomic-embed-text
+- watchdog
+- JSON1
+- FTS5
 quality_score: 9
 rag_relevance: 10
-tags: ["memory management", "knowledge graph", "semantic search", "MCP protocol", "AI assistants"]
-source: "https://github.com/SimoneB79/memory-engine-mcp"
-discovered_at: "2026-07-09T14:45:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory management
+- knowledge graph
+- semantic search
+- MCP protocol
+- AI assistants
+source: https://github.com/SimoneB79/memory-engine-mcp
+discovered_at: '2026-07-09T14:45:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

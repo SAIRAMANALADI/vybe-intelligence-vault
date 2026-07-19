@@ -1,13 +1,31 @@
 ---
-title: "seferogluemre/personal-assistant-platform"
-category: "Agent Framework"
-tech_stack: ["Next.js", "Elysia.js", "Mastra Framework", "Vercel AI SDK", "Google Gemini", "PostgreSQL", "pgvector", "Prisma ORM", "Bun", "TailwindCSS", "Prism.js", "Lucide React", "Tavily API"]
+title: seferogluemre/personal-assistant-platform
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Next.js
+- Elysia.js
+- Mastra Framework
+- Vercel AI SDK
+- Google Gemini
+- PostgreSQL
+- pgvector
+- Prisma ORM
+- Bun
+- TailwindCSS
+- Prism.js
+- Lucide React
+- Tavily API
 quality_score: 7
 rag_relevance: 9
-tags: ["self-learning", "RAG", "personal assistant", "streaming AI", "vector database"]
-source: "https://github.com/seferogluemre/personal-assistant-platform"
-discovered_at: "2026-07-09T11:52:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-learning
+- RAG
+- personal assistant
+- streaming AI
+- vector database
+source: https://github.com/seferogluemre/personal-assistant-platform
+discovered_at: '2026-07-09T11:52:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

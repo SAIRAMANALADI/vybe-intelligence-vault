@@ -1,13 +1,31 @@
 ---
-title: "cammac-creator/ibanforge"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Python", "MCP (Model Context Protocol)", "x402 (micropayments protocol)", "REST API", "Docker", "Next.js", "PostgreSQL", "Redis", "GLEIF API", "SIX BankMaster", "EBA Clearing STEP2"]
+title: cammac-creator/ibanforge
+category: daily-digests/2026-07-15
+tech_stack:
+- TypeScript
+- Node.js
+- Python
+- MCP (Model Context Protocol)
+- x402 (micropayments protocol)
+- REST API
+- Docker
+- Next.js
+- PostgreSQL
+- Redis
+- GLEIF API
+- SIX BankMaster
+- EBA Clearing STEP2
 quality_score: 9
 rag_relevance: 10
-tags: ["compliance", "IBAN validation", "micropayments", "AI agents", "financial data"]
-source: "https://github.com/cammac-creator/ibanforge"
-discovered_at: "2026-07-10T16:24:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- compliance
+- IBAN validation
+- micropayments
+- AI agents
+- financial data
+source: https://github.com/cammac-creator/ibanforge
+discovered_at: '2026-07-10T16:24:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

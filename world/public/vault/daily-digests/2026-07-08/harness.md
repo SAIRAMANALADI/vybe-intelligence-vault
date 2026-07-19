@@ -1,13 +1,27 @@
 ---
-title: "TheRealJadenKwek/harness"
-category: "Orchestrator"
-tech_stack: ["Swift (iOS)", "Python (server)", "Electron (desktop agent)", "Tailscale (private networking)", "OpenRouter (model aggregation)", "Ollama (local models)", "Supabase (database)", "Vercel (hosting)", "MLX (on-device ML)"]
+title: TheRealJadenKwek/harness
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Swift (iOS)
+- Python (server)
+- Electron (desktop agent)
+- Tailscale (private networking)
+- OpenRouter (model aggregation)
+- Ollama (local models)
+- Supabase (database)
+- Vercel (hosting)
+- MLX (on-device ML)
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agent orchestration", "mobile remote control", "private networking", "BYOK support", "local-first AI"]
-source: "https://github.com/TheRealJadenKwek/harness"
-discovered_at: "2026-07-08T08:16:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent orchestration
+- mobile remote control
+- private networking
+- BYOK support
+- local-first AI
+source: https://github.com/TheRealJadenKwek/harness
+discovered_at: '2026-07-08T08:16:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

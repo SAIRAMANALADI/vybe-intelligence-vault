@@ -1,13 +1,23 @@
 ---
-title: "AIMOWAY/aimoway-api-examples"
-category: "Tooling"
-tech_stack: ["Python", "Node.js", "OpenAI SDK", "REST API", "curl"]
+title: AIMOWAY/aimoway-api-examples
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Node.js
+- OpenAI SDK
+- REST API
+- curl
 quality_score: 8
 rag_relevance: 7
-tags: ["OpenAI-compatible", "LLM API", "integration examples", "multi-language", "API client"]
-source: "https://github.com/AIMOWAY/aimoway-api-examples"
-discovered_at: "2026-06-24T20:47:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- OpenAI-compatible
+- LLM API
+- integration examples
+- multi-language
+- API client
+source: https://github.com/AIMOWAY/aimoway-api-examples
+discovered_at: '2026-06-24T20:47:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

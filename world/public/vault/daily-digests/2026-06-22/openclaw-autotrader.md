@@ -1,13 +1,22 @@
 ---
-title: "JokerJohn/openclaw-autotrader"
-category: "Tooling"
-tech_stack: ["JavaScript", "Stock Trading", "Automated Execution", "Public Dashboard"]
+title: JokerJohn/openclaw-autotrader
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- JavaScript
+- Stock Trading
+- Automated Execution
+- Public Dashboard
 quality_score: 7
 rag_relevance: 6
-tags: ["automated trading", "live challenge", "public transparency", "stock market", "learning log"]
-source: "https://github.com/JokerJohn/openclaw-autotrader"
-discovered_at: "2026-06-22T18:54:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- automated trading
+- live challenge
+- public transparency
+- stock market
+- learning log
+source: https://github.com/JokerJohn/openclaw-autotrader
+discovered_at: '2026-06-22T18:54:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

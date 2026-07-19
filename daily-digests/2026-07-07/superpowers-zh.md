@@ -1,13 +1,25 @@
 ---
-title: "Leodorareluctant259/superpowers-zh"
-category: "Tooling"
-tech_stack: ["JavaScript", "Shell", "Node.js", "AI Agent Frameworks", "MCP (Model Context Protocol)", "Git", "YAML"]
+title: Leodorareluctant259/superpowers-zh
+category: daily-digests/2026-07-07
+tech_stack:
+- JavaScript
+- Shell
+- Node.js
+- AI Agent Frameworks
+- MCP (Model Context Protocol)
+- Git
+- YAML
 quality_score: 9
 rag_relevance: 8
-tags: ["AI coding skills", "Chinese localization", "workflow automation", "agent-driven development", "TDD"]
-source: "https://github.com/Leodorareluctant259/superpowers-zh"
-discovered_at: "2026-07-07T23:55:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding skills
+- Chinese localization
+- workflow automation
+- agent-driven development
+- TDD
+source: https://github.com/Leodorareluctant259/superpowers-zh
+discovered_at: '2026-07-07T23:55:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

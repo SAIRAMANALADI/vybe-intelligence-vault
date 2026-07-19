@@ -1,13 +1,26 @@
 ---
-title: "Joanium/Joanium"
-category: "Agent Framework"
-tech_stack: ["Electron", "Node.js", "JavaScript", "MCP (Model Context Protocol)", "Ollama", "LM Studio", "React", "TypeScript"]
+title: Joanium/Joanium
+category: daily-digests/2026-06-24
+tech_stack:
+- Electron
+- Node.js
+- JavaScript
+- MCP (Model Context Protocol)
+- Ollama
+- LM Studio
+- React
+- TypeScript
 quality_score: 9
 rag_relevance: 8
-tags: ["local-first", "multi-model", "desktop-agent", "automation", "privacy-focused"]
-source: "https://github.com/Joanium/Joanium"
-discovered_at: "2026-06-24T10:18:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first
+- multi-model
+- desktop-agent
+- automation
+- privacy-focused
+source: https://github.com/Joanium/Joanium
+discovered_at: '2026-06-24T10:18:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

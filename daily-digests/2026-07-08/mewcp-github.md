@@ -1,13 +1,23 @@
 ---
-title: "AStheTECH/mewcp-github"
-category: "Tooling"
-tech_stack: ["Python", "GitHub API", "Model Context Protocol (MCP)", "TypeScript (for typed responses)", "REST API"]
+title: AStheTECH/mewcp-github
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- GitHub API
+- Model Context Protocol (MCP)
+- TypeScript (for typed responses)
+- REST API
 quality_score: 9
 rag_relevance: 8
-tags: ["GitHub automation", "MCP server", "AI agent tools", "repository management", "code search"]
-source: "https://github.com/AStheTECH/mewcp-github"
-discovered_at: "2026-07-08T22:15:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- GitHub automation
+- MCP server
+- AI agent tools
+- repository management
+- code search
+source: https://github.com/AStheTECH/mewcp-github
+discovered_at: '2026-07-08T22:15:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

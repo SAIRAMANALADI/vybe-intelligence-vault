@@ -1,13 +1,28 @@
 ---
-title: "Knuckles-Team/github-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FastAPI", "Pydantic", "OpenTelemetry", "Langfuse", "GitHub API", "Agent Control Protocol (ACP)", "OIDC", "Eunomia"]
+title: Knuckles-Team/github-agent
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FastAPI
+- Pydantic
+- OpenTelemetry
+- Langfuse
+- GitHub API
+- Agent Control Protocol (ACP)
+- OIDC
+- Eunomia
 quality_score: 9
 rag_relevance: 8
-tags: ["GitHub automation", "MCP server", "agent framework", "LLM tooling", "enterprise security"]
-source: "https://github.com/Knuckles-Team/github-agent"
-discovered_at: "2026-07-09T11:53:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- GitHub automation
+- MCP server
+- agent framework
+- LLM tooling
+- enterprise security
+source: https://github.com/Knuckles-Team/github-agent
+discovered_at: '2026-07-09T11:53:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

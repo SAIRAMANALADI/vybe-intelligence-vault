@@ -1,13 +1,37 @@
 ---
-title: "nuoyan7594/TitanVault"
-category: "Orchestrator"
-tech_stack: ["Python", "Docker", "ROCm", "Vulkan", "llama.cpp", "React", "Caddy", "PostgreSQL", "Redis", "Qdrant", "LiteLLM", "SenseVoice", "Kokoro", "MinerU", "ComfyUI", "Hermes", "OpenSquilla", "Uptime Kuma", "Glances"]
+title: nuoyan7594/TitanVault
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Docker
+- ROCm
+- Vulkan
+- llama.cpp
+- React
+- Caddy
+- PostgreSQL
+- Redis
+- Qdrant
+- LiteLLM
+- SenseVoice
+- Kokoro
+- MinerU
+- ComfyUI
+- Hermes
+- OpenSquilla
+- Uptime Kuma
+- Glances
 quality_score: 9
 rag_relevance: 9
-tags: ["local AI", "AMD Strix Halo", "GPU acceleration", "RAG stack", "AI agents"]
-source: "https://github.com/nuoyan7594/TitanVault"
-discovered_at: "2026-07-07T18:58:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local AI
+- AMD Strix Halo
+- GPU acceleration
+- RAG stack
+- AI agents
+source: https://github.com/nuoyan7594/TitanVault
+discovered_at: '2026-07-07T18:58:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

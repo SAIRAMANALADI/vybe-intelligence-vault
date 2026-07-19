@@ -1,13 +1,25 @@
 ---
-title: "SungYongMOON/soulforge"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Git", "Mermaid.js", "YAML", "Node.js", "GitHub", "Ontology Modeling"]
+title: SungYongMOON/soulforge
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- JavaScript
+- Git
+- Mermaid.js
+- YAML
+- Node.js
+- GitHub
+- Ontology Modeling
 quality_score: 8
 rag_relevance: 9
-tags: ["AI agent architecture", "workflow orchestration", "project materialization", "canonical roots", "cross-project operations"]
-source: "https://github.com/SungYongMOON/soulforge"
-discovered_at: "2026-06-23T08:56:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent architecture
+- workflow orchestration
+- project materialization
+- canonical roots
+- cross-project operations
+source: https://github.com/SungYongMOON/soulforge
+discovered_at: '2026-06-23T08:56:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

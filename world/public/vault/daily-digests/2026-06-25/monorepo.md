@@ -1,13 +1,33 @@
 ---
-title: "mnemonik-xyz/monorepo"
-category: "Orchestrator"
-tech_stack: ["Rust", "TypeScript", "Solana", "Arweave", "SQLite", "CBOR", "COSE_Sign1", "Ed25519", "Blake3", "FastEmbed", "OpenAI Embeddings", "Model Context Protocol (MCP)", "OAuth 2.1", "PKCE", "ONNX Runtime"]
+title: mnemonik-xyz/monorepo
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Rust
+- TypeScript
+- Solana
+- Arweave
+- SQLite
+- CBOR
+- COSE_Sign1
+- Ed25519
+- Blake3
+- FastEmbed
+- OpenAI Embeddings
+- Model Context Protocol (MCP)
+- OAuth 2.1
+- PKCE
+- ONNX Runtime
 quality_score: 9
 rag_relevance: 10
-tags: ["verifiable memory", "AI agent persistence", "blockchain anchoring", "MCP server", "semantic search"]
-source: "https://github.com/mnemonik-xyz/monorepo"
-discovered_at: "2026-06-25T07:32:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- verifiable memory
+- AI agent persistence
+- blockchain anchoring
+- MCP server
+- semantic search
+source: https://github.com/mnemonik-xyz/monorepo
+discovered_at: '2026-06-25T07:32:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

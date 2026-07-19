@@ -1,13 +1,27 @@
 ---
-title: "ManSio/mscodebase-intelligence"
-category: "Tooling"
-tech_stack: ["Python 3.10+", "MCP (Model Context Protocol)", "LanceDB v2", "BM25", "LM Studio / Ollama / ONNX", "Clean Architecture", "Dependency Injection", "Asyncio", "SQLite"]
+title: ManSio/mscodebase-intelligence
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python 3.10+
+- MCP (Model Context Protocol)
+- LanceDB v2
+- BM25
+- LM Studio / Ollama / ONNX
+- Clean Architecture
+- Dependency Injection
+- Asyncio
+- SQLite
 quality_score: 9
 rag_relevance: 9
-tags: ["semantic code search", "call graph analysis", "RAG", "IDE extension", "vector database"]
-source: "https://github.com/ManSio/mscodebase-intelligence"
-discovered_at: "2026-07-07T22:09:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- semantic code search
+- call graph analysis
+- RAG
+- IDE extension
+- vector database
+source: https://github.com/ManSio/mscodebase-intelligence
+discovered_at: '2026-07-07T22:09:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

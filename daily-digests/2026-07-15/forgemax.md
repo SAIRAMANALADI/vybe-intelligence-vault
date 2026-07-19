@@ -1,13 +1,23 @@
 ---
-title: "ahmedk95/forgemax"
-category: "Orchestrator"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "Windows", "Sandboxing", "AI Agents"]
+title: ahmedk95/forgemax
+category: daily-digests/2026-07-15
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- Windows
+- Sandboxing
+- AI Agents
 quality_score: 7
 rag_relevance: 8
-tags: ["MCP Gateway", "AI Tool Orchestration", "Local Sandboxing", "Windows Tool Management", "AI Agent Coordination"]
-source: "https://github.com/ahmedk95/forgemax"
-discovered_at: "2026-07-12T15:58:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Gateway
+- AI Tool Orchestration
+- Local Sandboxing
+- Windows Tool Management
+- AI Agent Coordination
+source: https://github.com/ahmedk95/forgemax
+discovered_at: '2026-07-12T15:58:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

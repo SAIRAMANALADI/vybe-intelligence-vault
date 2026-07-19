@@ -1,13 +1,26 @@
 ---
-title: "CyberStrikeus/CyberStrike"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "LLM Integration (Anthropic, OpenAI, Google, etc.)", "Playwright", "Frida", "Proxy Tools", "TUI (Terminal User Interface)", "Docker (for remote execution)"]
+title: CyberStrikeus/CyberStrike
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- LLM Integration (Anthropic, OpenAI, Google, etc.)
+- Playwright
+- Frida
+- Proxy Tools
+- TUI (Terminal User Interface)
+- Docker (for remote execution)
 quality_score: 9
 rag_relevance: 8
-tags: ["offensive security", "AI agent", "penetration testing", "autonomous red teaming", "LLM integration"]
-source: "https://github.com/CyberStrikeus/CyberStrike"
-discovered_at: "2026-06-23T02:43:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- offensive security
+- AI agent
+- penetration testing
+- autonomous red teaming
+- LLM integration
+source: https://github.com/CyberStrikeus/CyberStrike
+discovered_at: '2026-06-23T02:43:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

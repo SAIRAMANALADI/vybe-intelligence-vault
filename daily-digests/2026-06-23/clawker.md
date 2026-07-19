@@ -1,13 +1,29 @@
 ---
-title: "schmitthub/clawker"
-category: "Orchestrator"
-tech_stack: ["Go", "Docker", "Envoy", "CoreDNS", "eBPF", "gRPC", "mTLS", "SQLite", "OTel", "OpenSearch", "Prometheus"]
+title: schmitthub/clawker
+category: daily-digests/2026-06-23
+tech_stack:
+- Go
+- Docker
+- Envoy
+- CoreDNS
+- eBPF
+- gRPC
+- mTLS
+- SQLite
+- OTel
+- OpenSearch
+- Prometheus
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent sandbox", "container security", "Claude Code", "egress firewall", "self-hosted"]
-source: "https://github.com/schmitthub/clawker"
-discovered_at: "2026-06-23T06:47:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent sandbox
+- container security
+- Claude Code
+- egress firewall
+- self-hosted
+source: https://github.com/schmitthub/clawker
+discovered_at: '2026-06-23T06:47:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

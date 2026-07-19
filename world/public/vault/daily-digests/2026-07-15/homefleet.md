@@ -1,13 +1,28 @@
 ---
-title: "Hugodzl/HomeFleet"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "mTLS", "mDNS", "MCP (Model Context Protocol)", "Zod", "Vitest", "Biome", "Git Bundles", "OpenAI-compatible APIs"]
+title: Hugodzl/HomeFleet
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- TypeScript
+- Node.js
+- mTLS
+- mDNS
+- MCP (Model Context Protocol)
+- Zod
+- Vitest
+- Biome
+- Git Bundles
+- OpenAI-compatible APIs
 quality_score: 8
 rag_relevance: 9
-tags: ["distributed computing", "local AI", "MCP integration", "home automation", "multi-machine orchestration"]
-source: "https://github.com/Hugodzl/HomeFleet"
-discovered_at: "2026-07-13T02:34:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- distributed computing
+- local AI
+- MCP integration
+- home automation
+- multi-machine orchestration
+source: https://github.com/Hugodzl/HomeFleet
+discovered_at: '2026-07-13T02:34:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

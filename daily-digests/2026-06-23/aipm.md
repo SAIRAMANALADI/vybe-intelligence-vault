@@ -1,13 +1,27 @@
 ---
-title: "gantrydev/aipm"
-category: "Tooling"
-tech_stack: ["TypeScript", "Cloudflare Workers", "Cloudflare Queues", "Cloudflare Durable Objects", "Cloudflare D1", "Cloudflare KV", "Workers AI", "GitHub API", "Slack API"]
+title: gantrydev/aipm
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Cloudflare Workers
+- Cloudflare Queues
+- Cloudflare Durable Objects
+- Cloudflare D1
+- Cloudflare KV
+- Workers AI
+- GitHub API
+- Slack API
 quality_score: 8
 rag_relevance: 6
-tags: ["workflow automation", "collaboration bot", "GitHub integration", "Slack integration", "LLM-assisted nudging"]
-source: "https://github.com/gantrydev/aipm"
-discovered_at: "2026-06-23T08:54:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- workflow automation
+- collaboration bot
+- GitHub integration
+- Slack integration
+- LLM-assisted nudging
+source: https://github.com/gantrydev/aipm
+discovered_at: '2026-06-23T08:54:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

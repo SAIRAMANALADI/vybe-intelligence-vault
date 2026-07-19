@@ -1,13 +1,26 @@
 ---
-title: "famclaw/honeybadger"
-category: "Tooling"
-tech_stack: ["Go", "GitHub Actions", "Docker", "gitleaks", "OSV.dev API", "Cosign", "JSON-RPC", "NDJSON"]
+title: famclaw/honeybadger
+category: daily-digests/2026-07-16
+tech_stack:
+- Go
+- GitHub Actions
+- Docker
+- gitleaks
+- OSV.dev API
+- Cosign
+- JSON-RPC
+- NDJSON
 quality_score: 9
 rag_relevance: 10
-tags: ["security scanning", "MCP server validation", "AI runtime protection", "static analysis", "prompt injection detection"]
-source: "https://github.com/famclaw/honeybadger"
-discovered_at: "2026-07-13T16:31:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- security scanning
+- MCP server validation
+- AI runtime protection
+- static analysis
+- prompt injection detection
+source: https://github.com/famclaw/honeybadger
+discovered_at: '2026-07-13T16:31:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

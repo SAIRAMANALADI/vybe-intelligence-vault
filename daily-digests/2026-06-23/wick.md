@@ -1,13 +1,26 @@
 ---
-title: "yogasw/wick"
-category: "Agent Framework"
-tech_stack: ["Go", "Docker", "MCP (Model Context Protocol)", "Slack API", "Telegram Bot API", "Web UI", "Cron Scheduler", "JSONL Auditing"]
+title: yogasw/wick
+category: daily-digests/2026-06-23
+tech_stack:
+- Go
+- Docker
+- MCP (Model Context Protocol)
+- Slack API
+- Telegram Bot API
+- Web UI
+- Cron Scheduler
+- JSONL Auditing
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent hosting", "internal tools", "Go framework", "LLM integration", "modular architecture"]
-source: "https://github.com/yogasw/wick"
-discovered_at: "2026-06-23T10:37:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent hosting
+- internal tools
+- Go framework
+- LLM integration
+- modular architecture
+source: https://github.com/yogasw/wick
+discovered_at: '2026-06-23T10:37:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

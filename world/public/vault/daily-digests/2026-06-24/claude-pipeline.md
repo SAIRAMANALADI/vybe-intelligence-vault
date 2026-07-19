@@ -1,13 +1,23 @@
 ---
-title: "kenzoprime/claude-pipeline"
-category: "Orchestrator"
-tech_stack: ["Python", "Agent Automation", "Workflow Orchestration", "Quality Gates", "Cross-platform (Windows/Linux)"]
+title: kenzoprime/claude-pipeline
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Agent Automation
+- Workflow Orchestration
+- Quality Gates
+- Cross-platform (Windows/Linux)
 quality_score: 7
 rag_relevance: 6
-tags: ["multi-agent automation", "workflow orchestration", "no-code automation", "task automation", "quality control"]
-source: "https://github.com/kenzoprime/claude-pipeline"
-discovered_at: "2026-06-24T16:17:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent automation
+- workflow orchestration
+- no-code automation
+- task automation
+- quality control
+source: https://github.com/kenzoprime/claude-pipeline
+discovered_at: '2026-06-24T16:17:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

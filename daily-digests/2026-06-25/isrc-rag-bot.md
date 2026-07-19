@@ -1,13 +1,26 @@
 ---
-title: "Jason-Hooo/isrc-rag-bot"
-category: "Agent Framework"
-tech_stack: ["Python", "LlamaIndex", "Gemini 2.5 Flash", "JinaAI Embeddings & Reranker", "Qdrant Cloud", "Chainlit", "Google Sheets API", "Docker"]
+title: Jason-Hooo/isrc-rag-bot
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- LlamaIndex
+- Gemini 2.5 Flash
+- JinaAI Embeddings & Reranker
+- Qdrant Cloud
+- Chainlit
+- Google Sheets API
+- Docker
 quality_score: 9
 rag_relevance: 9
-tags: ["RAG", "Agentic Workflow", "Multilingual", "Educational AI", "Metadata Filtering"]
-source: "https://github.com/Jason-Hooo/isrc-rag-bot"
-discovered_at: "2026-06-25T08:28:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RAG
+- Agentic Workflow
+- Multilingual
+- Educational AI
+- Metadata Filtering
+source: https://github.com/Jason-Hooo/isrc-rag-bot
+discovered_at: '2026-06-25T08:28:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

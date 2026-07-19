@@ -1,13 +1,28 @@
 ---
-title: "AuraVixStudio/caelo"
-category: "UI Component"
-tech_stack: ["Electron", "Python", "FastAPI", "React", "TypeScript", "SQLite", "WebSocket", "OAuth", "PyInstaller", "electron-builder"]
+title: AuraVixStudio/caelo
+category: daily-digests/2026-06-23
+tech_stack:
+- Electron
+- Python
+- FastAPI
+- React
+- TypeScript
+- SQLite
+- WebSocket
+- OAuth
+- PyInstaller
+- electron-builder
 quality_score: 9
 rag_relevance: 7
-tags: ["xAI Grok Client", "Multi-modal AI", "Agentic Coding", "Privacy-First", "Desktop Application"]
-source: "https://github.com/AuraVixStudio/caelo"
-discovered_at: "2026-06-23T21:30:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- xAI Grok Client
+- Multi-modal AI
+- Agentic Coding
+- Privacy-First
+- Desktop Application
+source: https://github.com/AuraVixStudio/caelo
+discovered_at: '2026-06-23T21:30:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

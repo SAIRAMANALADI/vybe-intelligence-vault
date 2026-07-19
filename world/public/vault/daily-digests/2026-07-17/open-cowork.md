@@ -1,13 +1,29 @@
 ---
-title: "OpenCoworkAI/open-cowork"
-category: "Agent Framework"
-tech_stack: ["Electron", "TypeScript", "Node.js", "React", "Tailwind CSS", "WSL2", "Lima VM", "MCP (Model Context Protocol)", "SQLite", "Python (for agent runner)", "Docker (for sandboxing)"]
+title: OpenCoworkAI/open-cowork
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- Electron
+- TypeScript
+- Node.js
+- React
+- Tailwind CSS
+- WSL2
+- Lima VM
+- MCP (Model Context Protocol)
+- SQLite
+- Python (for agent runner)
+- Docker (for sandboxing)
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agent desktop", "sandbox isolation", "MCP integration", "document automation", "remote control"]
-source: "https://github.com/OpenCoworkAI/open-cowork"
-discovered_at: "2026-07-12T05:56:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent desktop
+- sandbox isolation
+- MCP integration
+- document automation
+- remote control
+source: https://github.com/OpenCoworkAI/open-cowork
+discovered_at: '2026-07-12T05:56:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "lbliii/milo-cli"
-category: "Agent Framework"
-tech_stack: ["Python 3.14", "MCP (Model Context Protocol)", "JSON-RPC", "argparse", "Redux-style state management", "ThreadPoolExecutor", "Kida Templates", "PEP 703 (Free-threading)"]
+title: lbliii/milo-cli
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python 3.14
+- MCP (Model Context Protocol)
+- JSON-RPC
+- argparse
+- Redux-style state management
+- ThreadPoolExecutor
+- Kida Templates
+- PEP 703 (Free-threading)
 quality_score: 9
 rag_relevance: 10
-tags: ["CLI generation", "MCP server", "dual-mode commands", "schema validation", "terminal UI"]
-source: "https://github.com/lbliii/milo-cli"
-discovered_at: "2026-07-07T16:26:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CLI generation
+- MCP server
+- dual-mode commands
+- schema validation
+- terminal UI
+source: https://github.com/lbliii/milo-cli
+discovered_at: '2026-07-07T16:26:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

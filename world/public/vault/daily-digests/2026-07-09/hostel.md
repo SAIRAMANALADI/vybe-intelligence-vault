@@ -1,13 +1,25 @@
 ---
-title: "qiankunli/hostel"
-category: "Orchestrator"
-tech_stack: ["Go", "HTTP API", "bubblewrap (bwrap)", "Landlock LSM", "Chromium", "S3-compatible storage", "Docker"]
+title: qiankunli/hostel
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Go
+- HTTP API
+- bubblewrap (bwrap)
+- Landlock LSM
+- Chromium
+- S3-compatible storage
+- Docker
 quality_score: 9
 rag_relevance: 9
-tags: ["sandbox runtime", "multi-tenant isolation", "AI agent environment", "OpenSandbox compatible", "lightweight execution"]
-source: "https://github.com/qiankunli/hostel"
-discovered_at: "2026-07-09T11:52:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- sandbox runtime
+- multi-tenant isolation
+- AI agent environment
+- OpenSandbox compatible
+- lightweight execution
+source: https://github.com/qiankunli/hostel
+discovered_at: '2026-07-09T11:52:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

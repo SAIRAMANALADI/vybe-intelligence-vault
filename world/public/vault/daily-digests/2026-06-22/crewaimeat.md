@@ -1,13 +1,26 @@
 ---
-title: "miikkij/crewaimeat"
-category: "Orchestrator"
-tech_stack: ["Python", "CrewAI", "AIMEAT", "uv", "OpenRouter API", "Tavily", "Textual (for TUI)", "Claude Code / GitHub Copilot (for AI-assisted setup)"]
+title: miikkij/crewaimeat
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- CrewAI
+- AIMEAT
+- uv
+- OpenRouter API
+- Tavily
+- Textual (for TUI)
+- Claude Code / GitHub Copilot (for AI-assisted setup)
 quality_score: 9
 rag_relevance: 8
-tags: ["Agent Orchestration", "Multi-Agent Systems", "CrewAI Integration", "AIMEAT Platform", "AI Workflow Automation"]
-source: "https://github.com/miikkij/crewaimeat"
-discovered_at: "2026-06-22T23:15:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agent Orchestration
+- Multi-Agent Systems
+- CrewAI Integration
+- AIMEAT Platform
+- AI Workflow Automation
+source: https://github.com/miikkij/crewaimeat
+discovered_at: '2026-06-22T23:15:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

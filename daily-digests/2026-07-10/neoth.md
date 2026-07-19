@@ -1,13 +1,30 @@
 ---
-title: "The-Geek-Freaks/NEOTH"
-category: "Agent Framework"
-tech_stack: ["Rust", "WASM", "SQLite", "LLM Routing", "CLI", "GUI", "WebAssembly", "SHA-256", "Cosign", "Minisign", "YAML", "Markdown"]
+title: The-Geek-Freaks/NEOTH
+category: daily-digests/2026-07-10
+tech_stack:
+- Rust
+- WASM
+- SQLite
+- LLM Routing
+- CLI
+- GUI
+- WebAssembly
+- SHA-256
+- Cosign
+- Minisign
+- YAML
+- Markdown
 quality_score: 9
 rag_relevance: 8
-tags: ["Personal AI", "Local-first", "Memory System", "Audit Trail", "Privacy-First"]
-source: "https://github.com/The-Geek-Freaks/NEOTH"
-discovered_at: "2026-07-10T06:52:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Personal AI
+- Local-first
+- Memory System
+- Audit Trail
+- Privacy-First
+source: https://github.com/The-Geek-Freaks/NEOTH
+discovered_at: '2026-07-10T06:52:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

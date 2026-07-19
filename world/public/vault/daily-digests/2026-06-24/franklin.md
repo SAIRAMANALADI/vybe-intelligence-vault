@@ -1,13 +1,25 @@
 ---
-title: "BlockRunAI/Franklin"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "x402 micropayment protocol", "USDC wallet integration", "Smart Router (55+ models)", "Telegram bot integration", "VS Code extension"]
+title: BlockRunAI/Franklin
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- x402 micropayment protocol
+- USDC wallet integration
+- Smart Router (55+ models)
+- Telegram bot integration
+- VS Code extension
 quality_score: 9
 rag_relevance: 9
-tags: ["autonomous agents", "micropayments", "multi-model routing", "budget-aware AI", "wallet-driven execution"]
-source: "https://github.com/BlockRunAI/Franklin"
-discovered_at: "2026-06-24T18:52:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- micropayments
+- multi-model routing
+- budget-aware AI
+- wallet-driven execution
+source: https://github.com/BlockRunAI/Franklin
+discovered_at: '2026-06-24T18:52:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

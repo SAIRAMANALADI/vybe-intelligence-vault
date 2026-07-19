@@ -1,13 +1,26 @@
 ---
-title: "JeroenPieksma/claude-computer"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "React", "Docker", "WebSocket", "VNC-like remote session rendering", "Computer vision", "Tokenomics (CCFT)"]
+title: JeroenPieksma/claude-computer
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- FastAPI
+- React
+- Docker
+- WebSocket
+- VNC-like remote session rendering
+- Computer vision
+- Tokenomics (CCFT)
 quality_score: 7
 rag_relevance: 6
-tags: ["autonomous AI", "remote interaction", "tokenized contributions", "modular architecture", "real-time streaming"]
-source: "https://github.com/JeroenPieksma/claude-computer"
-discovered_at: "2026-06-24T02:48:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous AI
+- remote interaction
+- tokenized contributions
+- modular architecture
+- real-time streaming
+source: https://github.com/JeroenPieksma/claude-computer
+discovered_at: '2026-06-24T02:48:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

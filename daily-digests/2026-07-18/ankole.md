@@ -1,13 +1,29 @@
 ---
-title: "AgentBull/ankole"
-category: "Orchestrator"
-tech_stack: ["Elixir", "Phoenix Framework", "OTP (Open Telecom Platform)", "Rust", "Bun", "TypeScript", "PostgreSQL", "ZeroMQ", "React", "Vite", "Docker"]
+title: AgentBull/ankole
+category: daily-digests/2026-07-18
+tech_stack:
+- Elixir
+- Phoenix Framework
+- OTP (Open Telecom Platform)
+- Rust
+- Bun
+- TypeScript
+- PostgreSQL
+- ZeroMQ
+- React
+- Vite
+- Docker
 quality_score: 8
 rag_relevance: 9
-tags: ["multi-agent orchestration", "self-hosted AI", "long-running agents", "actor model", "durable memory"]
-source: "https://github.com/AgentBull/ankole"
-discovered_at: "2026-07-11T17:54:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent orchestration
+- self-hosted AI
+- long-running agents
+- actor model
+- durable memory
+source: https://github.com/AgentBull/ankole
+discovered_at: '2026-07-11T17:54:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

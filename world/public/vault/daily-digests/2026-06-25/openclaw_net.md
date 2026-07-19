@@ -1,13 +1,28 @@
 ---
-title: "clawdotnet/openclaw.net"
-category: "Agent Framework"
-tech_stack: ["C#", ".NET", "NativeAOT", "ASP.NET Core", "MCP (Model Context Protocol)", "OpenAI API", "LLM Providers (OpenAI, Claude, Gemini, Ollama, Azure OpenAI)", "Telemetry/Diagnostics", "WebSockets", "CLI Tools"]
+title: clawdotnet/openclaw.net
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- C#
+- .NET
+- NativeAOT
+- ASP.NET Core
+- MCP (Model Context Protocol)
+- OpenAI API
+- LLM Providers (OpenAI, Claude, Gemini, Ollama, Azure OpenAI)
+- Telemetry/Diagnostics
+- WebSockets
+- CLI Tools
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent runtime", "NativeAOT", "self-hosted", "governance", "tooling"]
-source: "https://github.com/clawdotnet/openclaw.net"
-discovered_at: "2026-06-25T00:05:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent runtime
+- NativeAOT
+- self-hosted
+- governance
+- tooling
+source: https://github.com/clawdotnet/openclaw.net
+discovered_at: '2026-06-25T00:05:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

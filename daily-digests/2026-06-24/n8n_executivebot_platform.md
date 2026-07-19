@@ -1,13 +1,25 @@
 ---
-title: "hidetheweed11/n8n_ExecutiveBot_Platform"
-category: "Agent Framework"
-tech_stack: ["n8n", "Docker", "Telegram Bot API", "Python", "Ollama", "Gemini AI", "WSL2"]
+title: hidetheweed11/n8n_ExecutiveBot_Platform
+category: daily-digests/2026-06-24
+tech_stack:
+- n8n
+- Docker
+- Telegram Bot API
+- Python
+- Ollama
+- Gemini AI
+- WSL2
 quality_score: 7
 rag_relevance: 6
-tags: ["automation", "telegram-bot", "ai-agent", "workflow-orchestration", "containerized"]
-source: "https://github.com/hidetheweed11/n8n_ExecutiveBot_Platform"
-discovered_at: "2026-06-24T02:43:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- automation
+- telegram-bot
+- ai-agent
+- workflow-orchestration
+- containerized
+source: https://github.com/hidetheweed11/n8n_ExecutiveBot_Platform
+discovered_at: '2026-06-24T02:43:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

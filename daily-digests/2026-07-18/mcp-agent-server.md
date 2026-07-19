@@ -1,13 +1,26 @@
 ---
-title: "FlowMCP/mcp-agent-server"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Express.js", "MCP (Model Context Protocol)", "A2A (Agent-to-Agent) Protocol", "FlowMCP", "Anthropic SDK", "OpenRouter API", "JSON Schema"]
+title: FlowMCP/mcp-agent-server
+category: daily-digests/2026-07-18
+tech_stack:
+- TypeScript
+- Express.js
+- MCP (Model Context Protocol)
+- A2A (Agent-to-Agent) Protocol
+- FlowMCP
+- Anthropic SDK
+- OpenRouter API
+- JSON Schema
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP Server", "AI Agent Orchestration", "FlowMCP Integration", "A2A Protocol", "LLM Tool Calling"]
-source: "https://github.com/FlowMCP/mcp-agent-server"
-discovered_at: "2026-07-12T14:54:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- AI Agent Orchestration
+- FlowMCP Integration
+- A2A Protocol
+- LLM Tool Calling
+source: https://github.com/FlowMCP/mcp-agent-server
+discovered_at: '2026-07-12T14:54:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "Daffiburrlike452/agent-harness-generator"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "CLI", "Sandboxing (RVM)", "Local Databases"]
+title: Daffiburrlike452/agent-harness-generator
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- Sandboxing (RVM)
+- Local Databases
 quality_score: 7
 rag_relevance: 8
-tags: ["AI agent scaffolding", "local memory systems", "sandboxed execution", "CLI generator", "model integration"]
-source: "https://github.com/Daffiburrlike452/agent-harness-generator"
-discovered_at: "2026-06-25T08:32:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent scaffolding
+- local memory systems
+- sandboxed execution
+- CLI generator
+- model integration
+source: https://github.com/Daffiburrlike452/agent-harness-generator
+discovered_at: '2026-06-25T08:32:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

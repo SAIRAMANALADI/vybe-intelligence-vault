@@ -1,13 +1,25 @@
 ---
-title: "Armaan29-09-2005/AI-OSINT-Security-Analyzer"
-category: "Tooling"
-tech_stack: ["Python", "Streamlit", "Cohere Command A", "Shodan", "VirusTotal", "AbuseIPDB", "CVE Databases"]
+title: Armaan29-09-2005/AI-OSINT-Security-Analyzer
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Streamlit
+- Cohere Command A
+- Shodan
+- VirusTotal
+- AbuseIPDB
+- CVE Databases
 quality_score: 6
 rag_relevance: 7
-tags: ["OSINT", "cybersecurity", "threat intelligence", "AI-driven analysis", "vulnerability assessment"]
-source: "https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer"
-discovered_at: "2026-06-24T02:44:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- OSINT
+- cybersecurity
+- threat intelligence
+- AI-driven analysis
+- vulnerability assessment
+source: https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer
+discovered_at: '2026-06-24T02:44:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

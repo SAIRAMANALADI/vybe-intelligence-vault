@@ -1,13 +1,28 @@
 ---
-title: "IBazylchuk/paparats-mcp"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Docker", "Qdrant (Vector DB)", "llama.cpp (Embeddings)", "Tree-sitter (AST parsing)", "SQLite", "Prometheus (Metrics)", "OpenTelemetry (Tracing)", "Node.js", "MCP (Model Context Protocol)"]
+title: IBazylchuk/paparats-mcp
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- TypeScript
+- Docker
+- Qdrant (Vector DB)
+- llama.cpp (Embeddings)
+- Tree-sitter (AST parsing)
+- SQLite
+- Prometheus (Metrics)
+- OpenTelemetry (Tracing)
+- Node.js
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 10
-tags: ["semantic code search", "AST-aware indexing", "local-first", "MCP server", "architectural memory"]
-source: "https://github.com/IBazylchuk/paparats-mcp"
-discovered_at: "2026-07-16T08:10:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- semantic code search
+- AST-aware indexing
+- local-first
+- MCP server
+- architectural memory
+source: https://github.com/IBazylchuk/paparats-mcp
+discovered_at: '2026-07-16T08:10:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

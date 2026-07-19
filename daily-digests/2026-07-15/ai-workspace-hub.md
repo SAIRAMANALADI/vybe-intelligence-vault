@@ -1,13 +1,25 @@
 ---
-title: "Benboerba620/ai-workspace-hub"
-category: "Orchestrator"
-tech_stack: ["Python", "Markdown", "YAML", "Git", "Obsidian (compatible)", "Shell Scripting", "LLM APIs (optional)"]
+title: Benboerba620/ai-workspace-hub
+category: daily-digests/2026-07-15
+tech_stack:
+- Python
+- Markdown
+- YAML
+- Git
+- Obsidian (compatible)
+- Shell Scripting
+- LLM APIs (optional)
 quality_score: 9
 rag_relevance: 8
-tags: ["research automation", "knowledge management", "AI agent integration", "long-term memory", "structured workflows"]
-source: "https://github.com/Benboerba620/ai-workspace-hub"
-discovered_at: "2026-07-12T10:26:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- research automation
+- knowledge management
+- AI agent integration
+- long-term memory
+- structured workflows
+source: https://github.com/Benboerba620/ai-workspace-hub
+discovered_at: '2026-07-12T10:26:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

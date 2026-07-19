@@ -1,13 +1,22 @@
 ---
-title: "HmERro3/indian-trading-skills"
-category: "Tooling"
-tech_stack: ["Python", "Claude", "Market Data APIs", "Financial Analysis"]
+title: HmERro3/indian-trading-skills
+category: daily-digests/2026-07-04
+tech_stack:
+- Python
+- Claude
+- Market Data APIs
+- Financial Analysis
 quality_score: 3
 rag_relevance: 6
-tags: ["Indian markets", "equity analysis", "financial data", "trade planning", "market flows"]
-source: "https://github.com/HmERro3/indian-trading-skills"
-discovered_at: "2026-07-04T13:13:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Indian markets
+- equity analysis
+- financial data
+- trade planning
+- market flows
+source: https://github.com/HmERro3/indian-trading-skills
+discovered_at: '2026-07-04T13:13:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

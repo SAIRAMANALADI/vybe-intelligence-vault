@@ -1,13 +1,25 @@
 ---
-title: "respawn-llc/kent"
-category: "Agent Framework"
-tech_stack: ["Go", "Terminal UI", "Git Worktrees", "Async Shell Execution", "Customizable Agent Roles", "Token-Optimized Search", "Supervisor Agent"]
+title: respawn-llc/kent
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Go
+- Terminal UI
+- Git Worktrees
+- Async Shell Execution
+- Customizable Agent Roles
+- Token-Optimized Search
+- Supervisor Agent
 quality_score: 9
 rag_relevance: 8
-tags: ["coding agent", "agentic engineering", "token efficiency", "long-running tasks", "collaborative coding"]
-source: "https://github.com/respawn-llc/kent"
-discovered_at: "2026-06-25T14:14:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- coding agent
+- agentic engineering
+- token efficiency
+- long-running tasks
+- collaborative coding
+source: https://github.com/respawn-llc/kent
+discovered_at: '2026-06-25T14:14:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

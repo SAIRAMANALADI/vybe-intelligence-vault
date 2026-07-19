@@ -1,13 +1,25 @@
 ---
-title: "theabbie/webpi"
-category: "Tooling"
-tech_stack: ["Python", "Streamlit", "xterm.js", "WebSocket", "PTY (Pseudo Terminal)", "Node.js", "Gemini AI (via exa-direct provider)"]
+title: theabbie/webpi
+category: daily-digests/2026-07-18
+tech_stack:
+- Python
+- Streamlit
+- xterm.js
+- WebSocket
+- PTY (Pseudo Terminal)
+- Node.js
+- Gemini AI (via exa-direct provider)
 quality_score: 7
 rag_relevance: 6
-tags: ["AI CLI", "Streamlit application", "interactive terminal", "PTY bridging", "workspace isolation"]
-source: "https://github.com/theabbie/webpi"
-discovered_at: "2026-07-12T08:15:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI CLI
+- Streamlit application
+- interactive terminal
+- PTY bridging
+- workspace isolation
+source: https://github.com/theabbie/webpi
+discovered_at: '2026-07-12T08:15:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

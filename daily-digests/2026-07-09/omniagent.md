@@ -1,13 +1,29 @@
 ---
-title: "anhquan075/OmniAgent"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Rust", "Casper Testnet", "React", "TypeScript", "Casper Rust SDK", "Casper MCP Tools", "CSPR.cloud", "x402 Payment Rail", "Docker"]
+title: anhquan075/OmniAgent
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- FastAPI
+- Rust
+- Casper Testnet
+- React
+- TypeScript
+- Casper Rust SDK
+- Casper MCP Tools
+- CSPR.cloud
+- x402 Payment Rail
+- Docker
 quality_score: 8
 rag_relevance: 9
-tags: ["verifiable AI agents", "RWA collateral risk", "Casper blockchain", "autonomous agent loop", "on-chain decision receipts"]
-source: "https://github.com/anhquan075/OmniAgent"
-discovered_at: "2026-07-09T17:17:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- verifiable AI agents
+- RWA collateral risk
+- Casper blockchain
+- autonomous agent loop
+- on-chain decision receipts
+source: https://github.com/anhquan075/OmniAgent
+discovered_at: '2026-07-09T17:17:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "Leihb/octo-agent"
-category: "Agent Framework"
-tech_stack: ["Go", "Anthropic Messages API", "OpenAI Chat Completions API", "CLI/TUI", "Web Server", "IM Bridge", "MCP (Model Context Protocol)", "YAML", "Landlock (Linux)", "Seatbelt (macOS)"]
+title: Leihb/octo-agent
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Go
+- Anthropic Messages API
+- OpenAI Chat Completions API
+- CLI/TUI
+- Web Server
+- IM Bridge
+- MCP (Model Context Protocol)
+- YAML
+- Landlock (Linux)
+- Seatbelt (macOS)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agents", "multi-modal interfaces", "sandboxing", "MCP integration", "Go binary"]
-source: "https://github.com/Leihb/octo-agent"
-discovered_at: "2026-06-24T13:20:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- multi-modal interfaces
+- sandboxing
+- MCP integration
+- Go binary
+source: https://github.com/Leihb/octo-agent
+discovered_at: '2026-06-24T13:20:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

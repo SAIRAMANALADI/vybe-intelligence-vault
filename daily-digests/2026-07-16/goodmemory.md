@@ -1,13 +1,26 @@
 ---
-title: "hjqcan/GoodMemory"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "SQLite", "PostgreSQL", "MCP (Model Context Protocol)", "HTTP", "Python", "Node.js"]
+title: hjqcan/GoodMemory
+category: daily-digests/2026-07-16
+tech_stack:
+- TypeScript
+- Bun
+- SQLite
+- PostgreSQL
+- MCP (Model Context Protocol)
+- HTTP
+- Python
+- Node.js
 quality_score: 9
 rag_relevance: 8
-tags: ["memory layer", "durable storage", "agent integration", "auditable", "local-first"]
-source: "https://github.com/hjqcan/GoodMemory"
-discovered_at: "2026-07-15T10:48:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory layer
+- durable storage
+- agent integration
+- auditable
+- local-first
+source: https://github.com/hjqcan/GoodMemory
+discovered_at: '2026-07-15T10:48:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

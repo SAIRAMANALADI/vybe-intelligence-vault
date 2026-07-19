@@ -1,13 +1,24 @@
 ---
-title: "AnkushinDaniil/noti"
-category: "Tooling"
-tech_stack: ["Go", "Telegram Bot API", "MCP (Model Context Protocol)", "JSON-RPC 2.0", "systemd/launchd", "HTTP/JSON APIs"]
+title: AnkushinDaniil/noti
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Go
+- Telegram Bot API
+- MCP (Model Context Protocol)
+- JSON-RPC 2.0
+- systemd/launchd
+- HTTP/JSON APIs
 quality_score: 9
 rag_relevance: 7
-tags: ["Claude Code", "Telegram notifications", "MCP integration", "remote interaction", "permission gate"]
-source: "https://github.com/AnkushinDaniil/noti"
-discovered_at: "2026-06-23T19:16:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- Telegram notifications
+- MCP integration
+- remote interaction
+- permission gate
+source: https://github.com/AnkushinDaniil/noti
+discovered_at: '2026-06-23T19:16:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

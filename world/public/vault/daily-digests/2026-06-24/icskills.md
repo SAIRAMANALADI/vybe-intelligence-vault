@@ -1,13 +1,27 @@
 ---
-title: "dfinity/icskills"
-category: "Tooling"
-tech_stack: ["Markdown", "YAML", "Astro", "Preact", "Node.js", "Python", "SHA-256", "JSON Schema", "ICP Asset Canister"]
+title: dfinity/icskills
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Markdown
+- YAML
+- Astro
+- Preact
+- Node.js
+- Python
+- SHA-256
+- JSON Schema
+- ICP Asset Canister
 quality_score: 9
 rag_relevance: 10
-tags: ["AI agent skills", "Internet Computer", "hallucination prevention", "canister development", "documentation automation"]
-source: "https://github.com/dfinity/icskills"
-discovered_at: "2026-06-24T10:17:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent skills
+- Internet Computer
+- hallucination prevention
+- canister development
+- documentation automation
+source: https://github.com/dfinity/icskills
+discovered_at: '2026-06-24T10:17:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

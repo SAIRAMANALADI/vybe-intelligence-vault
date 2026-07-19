@@ -1,13 +1,22 @@
 ---
-title: "Marisa6747/Jarvey"
-category: "Tooling"
-tech_stack: ["Python", "Speech Recognition", "macOS Automation", "Natural Language Processing"]
+title: Marisa6747/Jarvey
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- Speech Recognition
+- macOS Automation
+- Natural Language Processing
 quality_score: 4
 rag_relevance: 6
-tags: ["voice control", "automation", "macOS", "productivity", "accessibility"]
-source: "https://github.com/Marisa6747/Jarvey"
-discovered_at: "2026-07-08T02:06:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- voice control
+- automation
+- macOS
+- productivity
+- accessibility
+source: https://github.com/Marisa6747/Jarvey
+discovered_at: '2026-07-08T02:06:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

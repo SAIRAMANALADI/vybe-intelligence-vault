@@ -1,13 +1,23 @@
 ---
-title: "RFingAdam/mcp-remote-access"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Paramiko (SSH)", "PySerial (UART/Serial)", "uv (Python package manager)"]
+title: RFingAdam/mcp-remote-access
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Paramiko (SSH)
+- PySerial (UART/Serial)
+- uv (Python package manager)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "SSH automation", "serial communication", "embedded device control", "remote access"]
-source: "https://github.com/RFingAdam/mcp-remote-access"
-discovered_at: "2026-07-09T14:46:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- SSH automation
+- serial communication
+- embedded device control
+- remote access
+source: https://github.com/RFingAdam/mcp-remote-access
+discovered_at: '2026-07-09T14:46:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

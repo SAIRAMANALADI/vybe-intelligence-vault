@@ -1,13 +1,24 @@
 ---
-title: "pinkpixel-dev/web-scout-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "DuckDuckGo API", "Cheerio (HTML parsing)", "Smithery (deployment tool)"]
+title: pinkpixel-dev/web-scout-mcp
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- DuckDuckGo API
+- Cheerio (HTML parsing)
+- Smithery (deployment tool)
 quality_score: 9
 rag_relevance: 9
-tags: ["web search", "content extraction", "MCP server", "DuckDuckGo", "AI tooling"]
-source: "https://github.com/pinkpixel-dev/web-scout-mcp"
-discovered_at: "2026-07-11T22:44:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web search
+- content extraction
+- MCP server
+- DuckDuckGo
+- AI tooling
+source: https://github.com/pinkpixel-dev/web-scout-mcp
+discovered_at: '2026-07-11T22:44:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

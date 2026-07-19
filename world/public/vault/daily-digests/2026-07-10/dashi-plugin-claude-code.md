@@ -1,13 +1,27 @@
 ---
-title: "qwwiwi/dashi-plugin-claude-code"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "Claude Code", "Telegram Bot API", "grammy", "Zod", "tmux", "MCP (Model Context Protocol)", "YAML"]
+title: qwwiwi/dashi-plugin-claude-code
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Bun
+- Claude Code
+- Telegram Bot API
+- grammy
+- Zod
+- tmux
+- MCP (Model Context Protocol)
+- YAML
 quality_score: 9
 rag_relevance: 8
-tags: ["Telegram integration", "Claude Code plugin", "AI agent", "SDK billing optimization", "multichat routing"]
-source: "https://github.com/qwwiwi/dashi-plugin-claude-code"
-discovered_at: "2026-07-10T06:31:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Telegram integration
+- Claude Code plugin
+- AI agent
+- SDK billing optimization
+- multichat routing
+source: https://github.com/qwwiwi/dashi-plugin-claude-code
+discovered_at: '2026-07-10T06:31:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

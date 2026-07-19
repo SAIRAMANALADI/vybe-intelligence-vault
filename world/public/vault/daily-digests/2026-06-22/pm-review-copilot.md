@@ -1,13 +1,23 @@
 ---
-title: "wikiiizhao/pm-review-copilot"
-category: "Agent Framework"
-tech_stack: ["Python", "Agent Frameworks (Codex, etc.)", "Markdown", "Shell Scripting", "Natural Language Processing (NLP)"]
+title: wikiiizhao/pm-review-copilot
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- Agent Frameworks (Codex, etc.)
+- Markdown
+- Shell Scripting
+- Natural Language Processing (NLP)
 quality_score: 8
 rag_relevance: 9
-tags: ["Project Memory", "PRD Review", "Hallucination Detection", "Version Drift Analysis", "Label Consistency Audit"]
-source: "https://github.com/wikiiizhao/pm-review-copilot"
-discovered_at: "2026-06-22T23:18:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Project Memory
+- PRD Review
+- Hallucination Detection
+- Version Drift Analysis
+- Label Consistency Audit
+source: https://github.com/wikiiizhao/pm-review-copilot
+discovered_at: '2026-06-22T23:18:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

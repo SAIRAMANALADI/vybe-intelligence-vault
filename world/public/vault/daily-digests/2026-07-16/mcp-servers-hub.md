@@ -1,13 +1,22 @@
 ---
-title: "haniamkhan5-coder/mcp-servers-hub"
-category: "Tooling"
-tech_stack: ["Model Context Protocol (MCP)", "Windows", "Python (implied)", "Web Browsers"]
+title: haniamkhan5-coder/mcp-servers-hub
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- Model Context Protocol (MCP)
+- Windows
+- Python (implied)
+- Web Browsers
 quality_score: 6
 rag_relevance: 7
-tags: ["MCP", "AI agents", "server directory", "integration", "tooling"]
-source: "https://github.com/haniamkhan5-coder/mcp-servers-hub"
-discovered_at: "2026-07-14T12:10:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- AI agents
+- server directory
+- integration
+- tooling
+source: https://github.com/haniamkhan5-coder/mcp-servers-hub
+discovered_at: '2026-07-14T12:10:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

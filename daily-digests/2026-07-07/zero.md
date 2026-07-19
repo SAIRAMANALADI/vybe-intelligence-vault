@@ -1,13 +1,29 @@
 ---
-title: "Gitlawb/zero"
-category: "Agent Framework"
-tech_stack: ["Go", "TUI (Terminal User Interface)", "OpenAI API", "Anthropic API", "Gemini API", "Ollama", "LM Studio", "MCP (Model Context Protocol)", "Git", "Sandboxing", "JSON/Stream-JSON"]
+title: Gitlawb/zero
+category: daily-digests/2026-07-07
+tech_stack:
+- Go
+- TUI (Terminal User Interface)
+- OpenAI API
+- Anthropic API
+- Gemini API
+- Ollama
+- LM Studio
+- MCP (Model Context Protocol)
+- Git
+- Sandboxing
+- JSON/Stream-JSON
 quality_score: 9
 rag_relevance: 7
-tags: ["AI coding agent", "terminal automation", "local LLM", "sandboxed execution", "multi-model support"]
-source: "https://github.com/Gitlawb/zero"
-discovered_at: "2026-07-07T02:32:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding agent
+- terminal automation
+- local LLM
+- sandboxed execution
+- multi-model support
+source: https://github.com/Gitlawb/zero
+discovered_at: '2026-07-07T02:32:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

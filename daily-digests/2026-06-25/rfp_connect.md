@@ -1,13 +1,24 @@
 ---
-title: "sarthakpatil089/RFP_CONNECT"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "React", "PostgreSQL", "Redis", "Docker", "OpenAI API"]
+title: sarthakpatil089/RFP_CONNECT
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- React
+- PostgreSQL
+- Redis
+- Docker
+- OpenAI API
 quality_score: 5
 rag_relevance: 6
-tags: ["RFP automation", "AI matching", "vendor-buyer platform", "workflow management", "collaboration tools"]
-source: "https://github.com/sarthakpatil089/RFP_CONNECT"
-discovered_at: "2026-06-25T00:06:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RFP automation
+- AI matching
+- vendor-buyer platform
+- workflow management
+- collaboration tools
+source: https://github.com/sarthakpatil089/RFP_CONNECT
+discovered_at: '2026-06-25T00:06:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

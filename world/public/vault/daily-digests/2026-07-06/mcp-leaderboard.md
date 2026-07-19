@@ -1,13 +1,24 @@
 ---
-title: "davidmosiah/mcp-leaderboard"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "npm", "GitHub Actions", "Model Context Protocol (MCP)", "mcp-scorecard"]
+title: davidmosiah/mcp-leaderboard
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- JavaScript
+- Node.js
+- npm
+- GitHub Actions
+- Model Context Protocol (MCP)
+- mcp-scorecard
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP", "agent-readiness", "leaderboard", "model context protocol", "scoring"]
-source: "https://github.com/davidmosiah/mcp-leaderboard"
-discovered_at: "2026-07-06T23:04:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- agent-readiness
+- leaderboard
+- model context protocol
+- scoring
+source: https://github.com/davidmosiah/mcp-leaderboard
+discovered_at: '2026-07-06T23:04:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

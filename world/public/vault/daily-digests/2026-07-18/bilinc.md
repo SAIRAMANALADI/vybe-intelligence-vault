@@ -1,13 +1,24 @@
 ---
-title: "atakanelik34/Bilinc"
-category: "Vector DB"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "REST API", "CLI", "PyPI", "TLS/SSL"]
+title: atakanelik34/Bilinc
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- REST API
+- CLI
+- PyPI
+- TLS/SSL
 quality_score: 9
 rag_relevance: 8
-tags: ["AI memory", "verifiable state", "agent persistence", "hosted memory", "audit trails"]
-source: "https://github.com/atakanelik34/Bilinc"
-discovered_at: "2026-07-12T19:02:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI memory
+- verifiable state
+- agent persistence
+- hosted memory
+- audit trails
+source: https://github.com/atakanelik34/Bilinc
+discovered_at: '2026-07-12T19:02:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "electron-stagewright/electron-stagewright"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Electron", "Model Context Protocol (MCP)", "Playwright", "Node.js", "Accessibility Tree (ARIA)"]
+title: electron-stagewright/electron-stagewright
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Electron
+- Model Context Protocol (MCP)
+- Playwright
+- Node.js
+- Accessibility Tree (ARIA)
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP server", "Electron automation", "AI agent UX", "Accessibility-driven", "Token-efficient"]
-source: "https://github.com/electron-stagewright/electron-stagewright"
-discovered_at: "2026-06-25T00:10:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Electron automation
+- AI agent UX
+- Accessibility-driven
+- Token-efficient
+source: https://github.com/electron-stagewright/electron-stagewright
+discovered_at: '2026-06-25T00:10:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

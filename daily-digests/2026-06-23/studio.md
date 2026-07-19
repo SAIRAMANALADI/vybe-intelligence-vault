@@ -1,13 +1,29 @@
 ---
-title: "decocms/studio"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Bun", "Hono", "React 19", "Kysely", "PostgreSQL", "Better Auth", "OpenTelemetry", "Model Context Protocol (MCP)", "Tailwind CSS", "Zod"]
+title: decocms/studio
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Bun
+- Hono
+- React 19
+- Kysely
+- PostgreSQL
+- Better Auth
+- OpenTelemetry
+- Model Context Protocol (MCP)
+- Tailwind CSS
+- Zod
 quality_score: 9
 rag_relevance: 9
-tags: ["AI agent management", "MCP server", "observability", "multi-tenancy", "self-hosted"]
-source: "https://github.com/decocms/studio"
-discovered_at: "2026-06-23T16:30:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent management
+- MCP server
+- observability
+- multi-tenancy
+- self-hosted
+source: https://github.com/decocms/studio
+discovered_at: '2026-06-23T16:30:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

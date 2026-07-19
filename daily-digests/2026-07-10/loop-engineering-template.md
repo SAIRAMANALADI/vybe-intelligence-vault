@@ -1,13 +1,23 @@
 ---
-title: "shira022/loop-engineering-template"
-category: "Orchestrator"
-tech_stack: ["Python", "GitHub Actions", "agentskills.io", "Makefile", "YAML"]
+title: shira022/loop-engineering-template
+category: daily-digests/2026-07-10
+tech_stack:
+- Python
+- GitHub Actions
+- agentskills.io
+- Makefile
+- YAML
 quality_score: 7
 rag_relevance: 8
-tags: ["AI agent development", "loop engineering", "skill orchestration", "continuous learning", "agentskills.io"]
-source: "https://github.com/shira022/loop-engineering-template"
-discovered_at: "2026-07-10T06:30:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent development
+- loop engineering
+- skill orchestration
+- continuous learning
+- agentskills.io
+source: https://github.com/shira022/loop-engineering-template
+discovered_at: '2026-07-10T06:30:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

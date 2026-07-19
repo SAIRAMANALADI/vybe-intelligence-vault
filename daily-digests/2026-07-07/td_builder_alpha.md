@@ -1,13 +1,27 @@
 ---
-title: "TrueFiasco/TD_Builder_alpha"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "TouchDesigner", "Local Embedding Models (all-MiniLM-L6-v2)", "BM25", "Cross-Encoder Reranker", "Vector DB", "Pytest", "GitHub Actions"]
+title: TrueFiasco/TD_Builder_alpha
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- TouchDesigner
+- Local Embedding Models (all-MiniLM-L6-v2)
+- BM25
+- Cross-Encoder Reranker
+- Vector DB
+- Pytest
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-tags: ["TouchDesigner automation", "local LLM tools", "MCP servers", "offline RAG", "network generation"]
-source: "https://github.com/TrueFiasco/TD_Builder_alpha"
-discovered_at: "2026-07-07T13:17:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- TouchDesigner automation
+- local LLM tools
+- MCP servers
+- offline RAG
+- network generation
+source: https://github.com/TrueFiasco/TD_Builder_alpha
+discovered_at: '2026-07-07T13:17:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

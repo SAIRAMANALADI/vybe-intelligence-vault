@@ -1,13 +1,34 @@
 ---
-title: "bigduu/Lotus"
-category: "UI Component"
-tech_stack: ["React", "Vite", "TypeScript", "Ant Design", "Jotai", "Zustand", "Dexie (IndexedDB)", "Mermaid", "recharts", "i18next", "react-markdown", "SSE (Server-Sent Events)", "JSPDF", "Playwright", "ESLint", "Prettier"]
+title: bigduu/Lotus
+category: daily-digests/2026-07-19
+tech_stack:
+- React
+- Vite
+- TypeScript
+- Ant Design
+- Jotai
+- Zustand
+- Dexie (IndexedDB)
+- Mermaid
+- recharts
+- i18next
+- react-markdown
+- SSE (Server-Sent Events)
+- JSPDF
+- Playwright
+- ESLint
+- Prettier
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent interface", "real-time streaming", "SSE visualization", "React UI", "agent transparency"]
-source: "https://github.com/bigduu/Lotus"
-discovered_at: "2026-07-16T08:10:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent interface
+- real-time streaming
+- SSE visualization
+- React UI
+- agent transparency
+source: https://github.com/bigduu/Lotus
+discovered_at: '2026-07-16T08:10:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

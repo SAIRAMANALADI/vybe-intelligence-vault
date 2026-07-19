@@ -1,13 +1,23 @@
 ---
-title: "kaffircatnumberonewood311/FPV-Drone-AI-Agent"
-category: "Tooling"
-tech_stack: ["C++", "MAVLink", "ExpressLRS", "Betaflight", "Windows API"]
+title: kaffircatnumberonewood311/FPV-Drone-AI-Agent
+category: daily-digests/2026-07-13
+tech_stack:
+- C++
+- MAVLink
+- ExpressLRS
+- Betaflight
+- Windows API
 quality_score: 7
 rag_relevance: 6
-tags: ["autonomous drones", "AI flight control", "FPV navigation", "drone autonomy", "Betaflight integration"]
-source: "https://github.com/kaffircatnumberonewood311/FPV-Drone-AI-Agent"
-discovered_at: "2026-07-12T13:36:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous drones
+- AI flight control
+- FPV navigation
+- drone autonomy
+- Betaflight integration
+source: https://github.com/kaffircatnumberonewood311/FPV-Drone-AI-Agent
+discovered_at: '2026-07-12T13:36:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "quangdang46/fast_file_search"
-category: "Tooling"
-tech_stack: ["Rust", "Tree-sitter", "SIMD", "Bloom filters", "Bigram indexing", "JSON-RPC", "MCP (Model Context Protocol)", "C ABI"]
+title: quangdang46/fast_file_search
+category: world/public/vault/daily-digests/2026-07-11
+tech_stack:
+- Rust
+- Tree-sitter
+- SIMD
+- Bloom filters
+- Bigram indexing
+- JSON-RPC
+- MCP (Model Context Protocol)
+- C ABI
 quality_score: 9
 rag_relevance: 9
-tags: ["file search", "symbol navigation", "MCP server", "code-aware", "token-budget reader"]
-source: "https://github.com/quangdang46/fast_file_search"
-discovered_at: "2026-07-11T02:27:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- file search
+- symbol navigation
+- MCP server
+- code-aware
+- token-budget reader
+source: https://github.com/quangdang46/fast_file_search
+discovered_at: '2026-07-11T02:27:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

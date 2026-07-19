@@ -1,13 +1,22 @@
 ---
-title: "nativist-rossini671/memorycrystal"
-category: "Tooling"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "OpenClaw", "Windows Desktop App"]
+title: nativist-rossini671/memorycrystal
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- OpenClaw
+- Windows Desktop App
 quality_score: 7
 rag_relevance: 8
-tags: ["persistent memory", "AI agents", "MCP server", "OpenClaw plugin", "session continuity"]
-source: "https://github.com/nativist-rossini671/memorycrystal"
-discovered_at: "2026-07-07T20:51:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- AI agents
+- MCP server
+- OpenClaw plugin
+- session continuity
+source: https://github.com/nativist-rossini671/memorycrystal
+discovered_at: '2026-07-07T20:51:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

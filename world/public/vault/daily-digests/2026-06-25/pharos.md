@@ -1,13 +1,28 @@
 ---
-title: "dong-park/pharos"
-category: "Tooling"
-tech_stack: ["Tauri", "TypeScript", "Rust", "xterm.js", "Tokio", "React", "CLI (Rust-based)", "WebCodecs", "adb (Android Debug Bridge)", "scrcpy"]
+title: dong-park/pharos
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Tauri
+- TypeScript
+- Rust
+- xterm.js
+- Tokio
+- React
+- CLI (Rust-based)
+- WebCodecs
+- adb (Android Debug Bridge)
+- scrcpy
 quality_score: 9
 rag_relevance: 8
-tags: ["terminal multiplexer", "AI agent orchestration", "workspace management", "CLI automation", "real-time state tracking"]
-source: "https://github.com/dong-park/pharos"
-discovered_at: "2026-06-25T08:29:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- terminal multiplexer
+- AI agent orchestration
+- workspace management
+- CLI automation
+- real-time state tracking
+source: https://github.com/dong-park/pharos
+discovered_at: '2026-06-25T08:29:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

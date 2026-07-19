@@ -1,13 +1,25 @@
 ---
-title: "HarperZ9/forum"
-category: "Orchestrator"
-tech_stack: ["Python", "Standard Library", "HTTP", "MCP (Model Context Protocol)", "TOML", "JSON", "Asyncio"]
+title: HarperZ9/forum
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Standard Library
+- HTTP
+- MCP (Model Context Protocol)
+- TOML
+- JSON
+- Asyncio
 quality_score: 9
 rag_relevance: 10
-tags: ["agent orchestration", "replayable ledger", "model-agnostic", "quality gates", "deterministic routing"]
-source: "https://github.com/HarperZ9/forum"
-discovered_at: "2026-07-07T16:26:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent orchestration
+- replayable ledger
+- model-agnostic
+- quality gates
+- deterministic routing
+source: https://github.com/HarperZ9/forum
+discovered_at: '2026-07-07T16:26:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

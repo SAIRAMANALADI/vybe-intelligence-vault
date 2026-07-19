@@ -1,13 +1,26 @@
 ---
-title: "leon-ai/leon"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Python", "Agentic Architecture", "Memory Systems", "Context Management", "REST APIs", "WebSockets"]
+title: leon-ai/leon
+category: daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Node.js
+- Python
+- Agentic Architecture
+- Memory Systems
+- Context Management
+- REST APIs
+- WebSockets
 quality_score: 8
 rag_relevance: 7
-tags: ["AI Assistant", "Agentic Execution", "Privacy-Focused", "Modular Skills", "Local AI"]
-source: "https://github.com/leon-ai/leon"
-discovered_at: "2026-06-22T18:14:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Assistant
+- Agentic Execution
+- Privacy-Focused
+- Modular Skills
+- Local AI
+source: https://github.com/leon-ai/leon
+discovered_at: '2026-06-22T18:14:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

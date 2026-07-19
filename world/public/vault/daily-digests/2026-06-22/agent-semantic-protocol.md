@@ -1,13 +1,22 @@
 ---
-title: "danicyber1/agent-semantic-protocol"
-category: "Orchestrator"
-tech_stack: ["Go", "Windows", "Semantic Interoperability", "Network Protocols"]
+title: danicyber1/agent-semantic-protocol
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Go
+- Windows
+- Semantic Interoperability
+- Network Protocols
 quality_score: 6
 rag_relevance: 7
-tags: ["AI agent communication", "semantic interoperability", "multi-agent systems", "decentralized collaboration", "Windows tool"]
-source: "https://github.com/danicyber1/agent-semantic-protocol"
-discovered_at: "2026-06-22T18:52:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent communication
+- semantic interoperability
+- multi-agent systems
+- decentralized collaboration
+- Windows tool
+source: https://github.com/danicyber1/agent-semantic-protocol
+discovered_at: '2026-06-22T18:52:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

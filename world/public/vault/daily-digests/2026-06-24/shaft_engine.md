@@ -1,13 +1,28 @@
 ---
-title: "ShaftHQ/SHAFT_ENGINE"
-category: "Tooling"
-tech_stack: ["Java", "Maven", "TestNG", "JUnit 5", "Cucumber", "Playwright", "Selenium", "Allure Reporting", "MCP (Model Context Protocol)", "AI Providers (OpenAI, Anthropic, Gemini, Ollama)"]
+title: ShaftHQ/SHAFT_ENGINE
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Java
+- Maven
+- TestNG
+- JUnit 5
+- Cucumber
+- Playwright
+- Selenium
+- Allure Reporting
+- MCP (Model Context Protocol)
+- AI Providers (OpenAI, Anthropic, Gemini, Ollama)
 quality_score: 9
 rag_relevance: 6
-tags: ["test automation", "Java framework", "agent-assisted workflows", "multi-platform testing", "AI debugging"]
-source: "https://github.com/ShaftHQ/SHAFT_ENGINE"
-discovered_at: "2026-06-24T10:26:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- test automation
+- Java framework
+- agent-assisted workflows
+- multi-platform testing
+- AI debugging
+source: https://github.com/ShaftHQ/SHAFT_ENGINE
+discovered_at: '2026-06-24T10:26:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

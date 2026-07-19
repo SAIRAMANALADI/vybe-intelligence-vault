@@ -1,13 +1,27 @@
 ---
-title: "kerbelp/metatron"
-category: "Orchestrator"
-tech_stack: ["Python", "SQLite", "Git", "Anthropic API", "Docker", "Model Context Protocol (MCP)", "Open Knowledge Format (OKF)", "FastAPI", "React"]
+title: kerbelp/metatron
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- SQLite
+- Git
+- Anthropic API
+- Docker
+- Model Context Protocol (MCP)
+- Open Knowledge Format (OKF)
+- FastAPI
+- React
 quality_score: 9
 rag_relevance: 10
-tags: ["codebase conventions", "agent context", "MCP server", "self-hosted", "decision curation"]
-source: "https://github.com/kerbelp/metatron"
-discovered_at: "2026-07-14T08:00:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- codebase conventions
+- agent context
+- MCP server
+- self-hosted
+- decision curation
+source: https://github.com/kerbelp/metatron
+discovered_at: '2026-07-14T08:00:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

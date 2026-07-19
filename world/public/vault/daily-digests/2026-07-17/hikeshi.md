@@ -1,13 +1,27 @@
 ---
-title: "srkwr/hikeshi"
-category: "Agent Framework"
-tech_stack: ["Python 3.12", "Google ADK 2.x", "Gemini 3.x", "Cloud Run", "Elasticsearch 8.19", "FastAPI", "OSV.dev", "BM25-lite", "SSE (Server-Sent Events)"]
+title: srkwr/hikeshi
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- Python 3.12
+- Google ADK 2.x
+- Gemini 3.x
+- Cloud Run
+- Elasticsearch 8.19
+- FastAPI
+- OSV.dev
+- BM25-lite
+- SSE (Server-Sent Events)
 quality_score: 9
 rag_relevance: 8
-tags: ["incident response", "multi-agent systems", "human-in-the-loop", "autonomous remediation", "SRE tooling"]
-source: "https://github.com/srkwr/hikeshi"
-discovered_at: "2026-07-11T13:14:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- incident response
+- multi-agent systems
+- human-in-the-loop
+- autonomous remediation
+- SRE tooling
+source: https://github.com/srkwr/hikeshi
+discovered_at: '2026-07-11T13:14:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "dylanroscover/Embody"
-category: "Tooling"
-tech_stack: ["Python", "TouchDesigner", "Model Context Protocol (MCP)", "YAML", "Git", "JavaScript/TypeScript (for UI components)"]
+title: dylanroscover/Embody
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- TouchDesigner
+- Model Context Protocol (MCP)
+- YAML
+- Git
+- JavaScript/TypeScript (for UI components)
 quality_score: 9
 rag_relevance: 7
-tags: ["TouchDesigner", "MCP server", "AI-assisted development", "version control", "externalization"]
-source: "https://github.com/dylanroscover/Embody"
-discovered_at: "2026-06-24T18:55:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- TouchDesigner
+- MCP server
+- AI-assisted development
+- version control
+- externalization
+source: https://github.com/dylanroscover/Embody
+discovered_at: '2026-06-24T18:55:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

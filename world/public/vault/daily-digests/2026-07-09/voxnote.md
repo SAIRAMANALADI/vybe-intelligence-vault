@@ -1,13 +1,30 @@
 ---
-title: "nurgysa/voxnote"
-category: "Tooling"
-tech_stack: ["Python", "CustomTkinter", "AssemblyAI", "Deepgram", "Gladia", "Speechmatics", "OpenRouter", "ffmpeg", "MCP", "Webhooks", "JSON", "CLI"]
+title: nurgysa/voxnote
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- CustomTkinter
+- AssemblyAI
+- Deepgram
+- Gladia
+- Speechmatics
+- OpenRouter
+- ffmpeg
+- MCP
+- Webhooks
+- JSON
+- CLI
 quality_score: 9
 rag_relevance: 8
-tags: ["speech-to-text", "speaker diarization", "cloud transcription", "meeting transcripts", "Mini-AGI"]
-source: "https://github.com/nurgysa/voxnote"
-discovered_at: "2026-07-09T17:18:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- speech-to-text
+- speaker diarization
+- cloud transcription
+- meeting transcripts
+- Mini-AGI
+source: https://github.com/nurgysa/voxnote
+discovered_at: '2026-07-09T17:18:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

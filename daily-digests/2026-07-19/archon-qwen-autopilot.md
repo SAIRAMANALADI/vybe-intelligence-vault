@@ -1,13 +1,27 @@
 ---
-title: "upgradedev/archon-qwen-autopilot"
-category: "Agent Framework"
-tech_stack: ["Python", "Qwen (function-calling, vision model)", "FastAPI", "PostgreSQL", "pgvector", "SMTP", "JSONL", "Docker", "Alibaba Cloud ECS"]
+title: upgradedev/archon-qwen-autopilot
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- Qwen (function-calling, vision model)
+- FastAPI
+- PostgreSQL
+- pgvector
+- SMTP
+- JSONL
+- Docker
+- Alibaba Cloud ECS
 quality_score: 8
 rag_relevance: 7
-tags: ["accounts-payable automation", "human-in-the-loop agent", "Qwen function-calling", "pgvector memory", "invoice processing"]
-source: "https://github.com/upgradedev/archon-qwen-autopilot"
-discovered_at: "2026-07-15T16:21:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- accounts-payable automation
+- human-in-the-loop agent
+- Qwen function-calling
+- pgvector memory
+- invoice processing
+source: https://github.com/upgradedev/archon-qwen-autopilot
+discovered_at: '2026-07-15T16:21:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

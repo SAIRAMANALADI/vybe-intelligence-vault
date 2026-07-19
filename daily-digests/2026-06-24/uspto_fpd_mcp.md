@@ -1,13 +1,22 @@
 ---
-title: "Tam1379/uspto_fpd_mcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "USPTO API", "REST"]
+title: Tam1379/uspto_fpd_mcp
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- USPTO API
+- REST
 quality_score: 6
 rag_relevance: 5
-tags: ["patent analysis", "USPTO API", "MCP server", "legal tech", "document retrieval"]
-source: "https://github.com/Tam1379/uspto_fpd_mcp"
-discovered_at: "2026-06-24T18:57:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- patent analysis
+- USPTO API
+- MCP server
+- legal tech
+- document retrieval
+source: https://github.com/Tam1379/uspto_fpd_mcp
+discovered_at: '2026-06-24T18:57:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

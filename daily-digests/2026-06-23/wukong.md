@@ -1,13 +1,26 @@
 ---
-title: "raybird/Wukong"
-category: "Orchestrator"
-tech_stack: ["Rust", "SQLite", "FTS5 (Full-Text Search)", "Docker", "Agent CLI (e.g., OpenCode)", "LLM Routing", "Memory Management", "CLI Development"]
+title: raybird/Wukong
+category: daily-digests/2026-06-23
+tech_stack:
+- Rust
+- SQLite
+- FTS5 (Full-Text Search)
+- Docker
+- Agent CLI (e.g., OpenCode)
+- LLM Routing
+- Memory Management
+- CLI Development
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Agent Orchestration", "Persistent Memory", "Multi-Role Collaboration", "Rust-Based", "Session Isolation"]
-source: "https://github.com/raybird/Wukong"
-discovered_at: "2026-06-23T13:45:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent Orchestration
+- Persistent Memory
+- Multi-Role Collaboration
+- Rust-Based
+- Session Isolation
+source: https://github.com/raybird/Wukong
+discovered_at: '2026-06-23T13:45:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

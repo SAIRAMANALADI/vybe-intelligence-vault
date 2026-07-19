@@ -1,13 +1,30 @@
 ---
-title: "igdigitallab/cardloop"
-category: "Orchestrator"
-tech_stack: ["Python", "Node.js", "Claude Code CLI", "React", "TypeScript", "PWA (Progressive Web App)", "WebSockets", "SSE (Server-Sent Events)", "Git", "Docker", "systemd", "Anthropic API"]
+title: igdigitallab/cardloop
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- Node.js
+- Claude Code CLI
+- React
+- TypeScript
+- PWA (Progressive Web App)
+- WebSockets
+- SSE (Server-Sent Events)
+- Git
+- Docker
+- systemd
+- Anthropic API
 quality_score: 9
 rag_relevance: 8
-tags: ["Agent Orchestration", "Kanban Automation", "Mobile-First", "Claude Code Integration", "Self-Hosted"]
-source: "https://github.com/igdigitallab/cardloop"
-discovered_at: "2026-07-09T17:17:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agent Orchestration
+- Kanban Automation
+- Mobile-First
+- Claude Code Integration
+- Self-Hosted
+source: https://github.com/igdigitallab/cardloop
+discovered_at: '2026-07-09T17:17:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

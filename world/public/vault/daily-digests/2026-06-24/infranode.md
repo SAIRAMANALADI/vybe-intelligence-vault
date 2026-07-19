@@ -1,13 +1,26 @@
 ---
-title: "street1983nk/infranode"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Docker", "Redis", "Model Context Protocol (MCP)", "REST API", "HTTP", "Postman"]
+title: street1983nk/infranode
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- FastAPI
+- Docker
+- Redis
+- Model Context Protocol (MCP)
+- REST API
+- HTTP
+- Postman
 quality_score: 9
 rag_relevance: 9
-tags: ["German open data", "REST API", "MCP server", "public infrastructure", "data normalization"]
-source: "https://github.com/street1983nk/infranode"
-discovered_at: "2026-06-24T18:55:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- German open data
+- REST API
+- MCP server
+- public infrastructure
+- data normalization
+source: https://github.com/street1983nk/infranode
+discovered_at: '2026-06-24T18:55:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "timmo001/notes"
-category: "Tooling"
-tech_stack: ["TypeScript", "CLI", "MCP Server", "Markdown"]
+title: timmo001/notes
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- CLI
+- MCP Server
+- Markdown
 quality_score: 7
 rag_relevance: 8
-tags: ["note-taking", "MCP server", "CLI tool", "Markdown", "repository-scoped"]
-source: "https://github.com/timmo001/notes"
-discovered_at: "2026-07-06T19:49:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- note-taking
+- MCP server
+- CLI tool
+- Markdown
+- repository-scoped
+source: https://github.com/timmo001/notes
+discovered_at: '2026-07-06T19:49:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

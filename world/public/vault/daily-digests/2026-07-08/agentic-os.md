@@ -1,13 +1,24 @@
 ---
-title: "KbWen/agentic-os"
-category: "Orchestrator"
-tech_stack: ["Python", "Bash", "Git Hooks", "CI/CD (GitHub Actions)", "Markdown", "Shell Scripting"]
+title: KbWen/agentic-os
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- Bash
+- Git Hooks
+- CI/CD (GitHub Actions)
+- Markdown
+- Shell Scripting
 quality_score: 9
 rag_relevance: 8
-tags: ["AI governance", "agent guardrails", "CI/CD enforcement", "secret scanning", "workflow validation"]
-source: "https://github.com/KbWen/agentic-os"
-discovered_at: "2026-07-08T15:15:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI governance
+- agent guardrails
+- CI/CD enforcement
+- secret scanning
+- workflow validation
+source: https://github.com/KbWen/agentic-os
+discovered_at: '2026-07-08T15:15:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

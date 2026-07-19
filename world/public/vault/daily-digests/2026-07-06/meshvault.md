@@ -1,13 +1,31 @@
 ---
-title: "lpalbou/MeshVault"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Three.js", "JavaScript", "TypeScript", "Poetry", "React", "GLTF/GLB", "OBJ", "FBX", "STL", "PBR Rendering", "MCP (Model Context Protocol)"]
+title: lpalbou/MeshVault
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Python
+- FastAPI
+- Three.js
+- JavaScript
+- TypeScript
+- Poetry
+- React
+- GLTF/GLB
+- OBJ
+- FBX
+- STL
+- PBR Rendering
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["3D asset management", "AI agent integration", "local-first tool", "3D viewer", "file system browser"]
-source: "https://github.com/lpalbou/MeshVault"
-discovered_at: "2026-07-06T23:02:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- 3D asset management
+- AI agent integration
+- local-first tool
+- 3D viewer
+- file system browser
+source: https://github.com/lpalbou/MeshVault
+discovered_at: '2026-07-06T23:02:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

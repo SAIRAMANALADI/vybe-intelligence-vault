@@ -1,13 +1,29 @@
 ---
-title: "cerebrixos-org/tuning-engines-cli"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Python SDK", "QLoRA", "Axolotl", "HuggingFace Transformers", "PEFT", "LangGraph", "Temporal", "OpenAI-compatible API"]
+title: cerebrixos-org/tuning-engines-cli
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Python SDK
+- QLoRA
+- Axolotl
+- HuggingFace Transformers
+- PEFT
+- LangGraph
+- Temporal
+- OpenAI-compatible API
 quality_score: 9
 rag_relevance: 8
-tags: ["fine-tuning", "MCP server", "code agents", "LLM orchestration", "governed AI"]
-source: "https://github.com/cerebrixos-org/tuning-engines-cli"
-discovered_at: "2026-06-25T17:14:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- fine-tuning
+- MCP server
+- code agents
+- LLM orchestration
+- governed AI
+source: https://github.com/cerebrixos-org/tuning-engines-cli
+discovered_at: '2026-06-25T17:14:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

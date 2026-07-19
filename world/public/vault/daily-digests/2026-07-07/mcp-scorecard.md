@@ -1,13 +1,22 @@
 ---
-title: "Kerrimoral221/MCP-Scorecard"
-category: "Tooling"
-tech_stack: ["Python", "Windows", "Static Analysis", "CI/CD"]
+title: Kerrimoral221/MCP-Scorecard
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Windows
+- Static Analysis
+- CI/CD
 quality_score: 7
 rag_relevance: 8
-tags: ["MCP", "security", "static analysis", "CI/CD", "risk assessment"]
-source: "https://github.com/Kerrimoral221/MCP-Scorecard"
-discovered_at: "2026-07-07T06:43:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- security
+- static analysis
+- CI/CD
+- risk assessment
+source: https://github.com/Kerrimoral221/MCP-Scorecard
+discovered_at: '2026-07-07T06:43:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

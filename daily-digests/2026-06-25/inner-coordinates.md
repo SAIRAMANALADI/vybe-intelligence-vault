@@ -1,13 +1,24 @@
 ---
-title: "bettersilvanus849/inner-coordinates"
-category: "Tooling"
-tech_stack: ["Python", "PyAutoGUI", "Tkinter", "Windows API", "Shell (Installer)", "Visual Coordinate Mapping"]
+title: bettersilvanus849/inner-coordinates
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- PyAutoGUI
+- Tkinter
+- Windows API
+- Shell (Installer)
+- Visual Coordinate Mapping
 quality_score: 6
 rag_relevance: 4
-tags: ["desktop automation", "GUI interaction", "coordinate-based workflows", "no-code automation", "Windows tooling"]
-source: "https://github.com/bettersilvanus849/inner-coordinates"
-discovered_at: "2026-06-25T08:30:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- desktop automation
+- GUI interaction
+- coordinate-based workflows
+- no-code automation
+- Windows tooling
+source: https://github.com/bettersilvanus849/inner-coordinates
+discovered_at: '2026-06-25T08:30:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

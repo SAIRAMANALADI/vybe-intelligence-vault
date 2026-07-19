@@ -1,13 +1,28 @@
 ---
-title: "vonzio/vonzio"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js 22+", "Fastify", "PostgreSQL 17", "Docker", "React", "Vite", "MCP (Model Context Protocol)", "Drizzle ORM", "WebSockets"]
+title: vonzio/vonzio
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js 22+
+- Fastify
+- PostgreSQL 17
+- Docker
+- React
+- Vite
+- MCP (Model Context Protocol)
+- Drizzle ORM
+- WebSockets
 quality_score: 9
 rag_relevance: 8
-tags: ["self-hosted", "agent runtime", "MCP", "embeddable", "multi-model"]
-source: "https://github.com/vonzio/vonzio"
-discovered_at: "2026-06-24T02:42:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-hosted
+- agent runtime
+- MCP
+- embeddable
+- multi-model
+source: https://github.com/vonzio/vonzio
+discovered_at: '2026-06-24T02:42:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

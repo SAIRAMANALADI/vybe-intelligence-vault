@@ -1,13 +1,23 @@
 ---
-title: "vick1st/mcp-trello"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Trello API", "Fuzzy Matching", "uv (package manager)"]
+title: vick1st/mcp-trello
+category: daily-digests/2026-07-15
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Trello API
+- Fuzzy Matching
+- uv (package manager)
 quality_score: 9
 rag_relevance: 7
-tags: ["Trello integration", "AI agent tools", "MCP server", "project management", "fuzzy matching"]
-source: "https://github.com/vick1st/mcp-trello"
-discovered_at: "2026-07-12T23:52:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Trello integration
+- AI agent tools
+- MCP server
+- project management
+- fuzzy matching
+source: https://github.com/vick1st/mcp-trello
+discovered_at: '2026-07-12T23:52:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

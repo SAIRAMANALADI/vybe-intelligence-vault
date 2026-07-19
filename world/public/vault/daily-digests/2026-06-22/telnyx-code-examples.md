@@ -1,13 +1,31 @@
 ---
-title: "team-telnyx/telnyx-code-examples"
-category: "Tooling"
-tech_stack: ["Python", "Node.js", "Java", "C#", "Ruby", "PHP", "Go", "Telnyx API", "WebRTC", "DTMF", "STIR/SHAKEN", "TTS", "AI Inference"]
+title: team-telnyx/telnyx-code-examples
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- Node.js
+- Java
+- C#
+- Ruby
+- PHP
+- Go
+- Telnyx API
+- WebRTC
+- DTMF
+- STIR/SHAKEN
+- TTS
+- AI Inference
 quality_score: 9
 rag_relevance: 7
-tags: ["Telnyx", "Voice AI", "SMS API", "Call Control", "WebRTC"]
-source: "https://github.com/team-telnyx/telnyx-code-examples"
-discovered_at: "2026-06-22T18:51:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Telnyx
+- Voice AI
+- SMS API
+- Call Control
+- WebRTC
+source: https://github.com/team-telnyx/telnyx-code-examples
+discovered_at: '2026-06-22T18:51:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

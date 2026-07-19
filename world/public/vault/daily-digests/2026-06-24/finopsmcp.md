@@ -1,13 +1,27 @@
 ---
-title: "chaandannn/finopsmcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "AWS SDK", "Azure SDK", "GCP SDK", "SQLite", "Fernet (for credential encryption)", "FastAPI (for dashboard)", "uv (package manager)"]
+title: chaandannn/finopsmcp
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- AWS SDK
+- Azure SDK
+- GCP SDK
+- SQLite
+- Fernet (for credential encryption)
+- FastAPI (for dashboard)
+- uv (package manager)
 quality_score: 9
 rag_relevance: 7
-tags: ["FinOps", "Cost Optimization", "Local-first", "MCP Server", "Cloud Billing"]
-source: "https://github.com/chaandannn/finopsmcp"
-discovered_at: "2026-06-24T18:58:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- FinOps
+- Cost Optimization
+- Local-first
+- MCP Server
+- Cloud Billing
+source: https://github.com/chaandannn/finopsmcp
+discovered_at: '2026-06-24T18:58:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,34 @@
 ---
-title: "ahkedia/lyra-ai"
-category: "Agent Framework"
-tech_stack: ["OpenClaw", "MiniMax M2.7", "Claude Haiku 4.5", "Claude Sonnet 4.6", "Telegram Bot API", "Notion API", "Google Calendar API", "Gmail (himalaya CLI)", "Tavily API", "PostgreSQL", "Python", "systemd", "Docker", "Ollama (nomic-embed-text)", "IFTTT", "GitHub Actions"]
+title: ahkedia/lyra-ai
+category: daily-digests/2026-07-09
+tech_stack:
+- OpenClaw
+- MiniMax M2.7
+- Claude Haiku 4.5
+- Claude Sonnet 4.6
+- Telegram Bot API
+- Notion API
+- Google Calendar API
+- Gmail (himalaya CLI)
+- Tavily API
+- PostgreSQL
+- Python
+- systemd
+- Docker
+- Ollama (nomic-embed-text)
+- IFTTT
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-tags: ["personal AI agent", "multi-user coordination", "Notion integration", "automated reminders", "resilient architecture"]
-source: "https://github.com/ahkedia/lyra-ai"
-discovered_at: "2026-07-09T04:46:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personal AI agent
+- multi-user coordination
+- Notion integration
+- automated reminders
+- resilient architecture
+source: https://github.com/ahkedia/lyra-ai
+discovered_at: '2026-07-09T04:46:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

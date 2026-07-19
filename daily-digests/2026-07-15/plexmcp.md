@@ -1,13 +1,28 @@
 ---
-title: "sandraschi/plexmcp"
-category: "Agent Framework"
-tech_stack: ["Python 3.12+", "FastMCP 3.2", "FastAPI", "Next.js", "Tauri", "LanceDB", "plexapi", "Ruff", "Biome", "uv"]
+title: sandraschi/plexmcp
+category: daily-digests/2026-07-15
+tech_stack:
+- Python 3.12+
+- FastMCP 3.2
+- FastAPI
+- Next.js
+- Tauri
+- LanceDB
+- plexapi
+- Ruff
+- Biome
+- uv
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "Plex Media Server", "RAG", "Tauri", "AI Agents"]
-source: "https://github.com/sandraschi/plexmcp"
-discovered_at: "2026-07-14T08:00:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- Plex Media Server
+- RAG
+- Tauri
+- AI Agents
+source: https://github.com/sandraschi/plexmcp
+discovered_at: '2026-07-14T08:00:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "runapi-ai/topaz-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "RunAPI API"]
+title: runapi-ai/topaz-mcp
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- RunAPI API
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP Server", "Image Generation", "Video Upscaling", "RunAPI", "AI Agents"]
-source: "https://github.com/runapi-ai/topaz-mcp"
-discovered_at: "2026-06-24T10:25:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- Image Generation
+- Video Upscaling
+- RunAPI
+- AI Agents
+source: https://github.com/runapi-ai/topaz-mcp
+discovered_at: '2026-06-24T10:25:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

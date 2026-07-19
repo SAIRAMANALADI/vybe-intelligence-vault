@@ -1,13 +1,24 @@
 ---
-title: "danieljustus/symaira-operate"
-category: "Tooling"
-tech_stack: ["Swift", "AppKit", "Accessibility API", "ScreenCaptureKit", "MCP (Model Context Protocol)", "macOS 15+"]
+title: danieljustus/symaira-operate
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Swift
+- AppKit
+- Accessibility API
+- ScreenCaptureKit
+- MCP (Model Context Protocol)
+- macOS 15+
 quality_score: 9
 rag_relevance: 8
-tags: ["macOS automation", "MCP server", "GUI interaction", "AI agent tools", "Accessibility"]
-source: "https://github.com/danieljustus/symaira-operate"
-discovered_at: "2026-07-08T08:16:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- macOS automation
+- MCP server
+- GUI interaction
+- AI agent tools
+- Accessibility
+source: https://github.com/danieljustus/symaira-operate
+discovered_at: '2026-07-08T08:16:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

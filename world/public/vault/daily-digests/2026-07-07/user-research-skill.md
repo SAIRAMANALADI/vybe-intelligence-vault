@@ -1,13 +1,24 @@
 ---
-title: "cookiy-ai/user-research-skill"
-category: "Tooling"
-tech_stack: ["Shell", "Claude API", "AI Agent Frameworks", "Natural Language Processing", "Survey Design", "Interview Moderation"]
+title: cookiy-ai/user-research-skill
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Shell
+- Claude API
+- AI Agent Frameworks
+- Natural Language Processing
+- Survey Design
+- Interview Moderation
 quality_score: 9
 rag_relevance: 8
-tags: ["user research", "AI agents", "qualitative analysis", "survey automation", "human-in-the-loop"]
-source: "https://github.com/cookiy-ai/user-research-skill"
-discovered_at: "2026-07-07T02:32:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- user research
+- AI agents
+- qualitative analysis
+- survey automation
+- human-in-the-loop
+source: https://github.com/cookiy-ai/user-research-skill
+discovered_at: '2026-07-07T02:32:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

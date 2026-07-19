@@ -1,13 +1,28 @@
 ---
-title: "jakerusso100-ai/Anvil"
-category: "Agent Framework"
-tech_stack: ["Python", "PySide6", "Ollama", "Anthropic API", "MCP (Model Context Protocol)", "PyInstaller", "Nomic-embed-text", "Qwen3-coder", "GPT-OSS", "Granite4"]
+title: jakerusso100-ai/Anvil
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- PySide6
+- Ollama
+- Anthropic API
+- MCP (Model Context Protocol)
+- PyInstaller
+- Nomic-embed-text
+- Qwen3-coder
+- GPT-OSS
+- Granite4
 quality_score: 9
 rag_relevance: 7
-tags: ["local AI coding", "agent framework", "model escalation", "IDE automation", "cost-efficient AI"]
-source: "https://github.com/jakerusso100-ai/Anvil"
-discovered_at: "2026-07-06T19:48:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local AI coding
+- agent framework
+- model escalation
+- IDE automation
+- cost-efficient AI
+source: https://github.com/jakerusso100-ai/Anvil
+discovered_at: '2026-07-06T19:48:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

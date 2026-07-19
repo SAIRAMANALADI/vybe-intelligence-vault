@@ -1,13 +1,23 @@
 ---
-title: "111nathanlar/Agent-Worlds"
-category: "Agent Framework"
-tech_stack: ["Python", "HTML", "JavaScript", "Flask", "WebSockets"]
+title: 111nathanlar/Agent-Worlds
+category: daily-digests/2026-07-10
+tech_stack:
+- Python
+- HTML
+- JavaScript
+- Flask
+- WebSockets
 quality_score: 3
 rag_relevance: 7
-tags: ["multi-agent systems", "simulation", "agent-based modeling", "research framework", "interactive environments"]
-source: "https://github.com/111nathanlar/Agent-Worlds"
-discovered_at: "2026-07-10T06:39:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- simulation
+- agent-based modeling
+- research framework
+- interactive environments
+source: https://github.com/111nathanlar/Agent-Worlds
+discovered_at: '2026-07-10T06:39:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

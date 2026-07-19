@@ -1,13 +1,24 @@
 ---
-title: "thdelmas/agent-nervous-system"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude Code", "Git", "JSON", "Submodules", "CI/CD (GitHub Actions)"]
+title: thdelmas/agent-nervous-system
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Claude Code
+- Git
+- JSON
+- Submodules
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agent self-maintenance", "modular agent skills", "long-running agents", "memory consolidation", "autonomous evolution"]
-source: "https://github.com/thdelmas/agent-nervous-system"
-discovered_at: "2026-06-23T10:33:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent self-maintenance
+- modular agent skills
+- long-running agents
+- memory consolidation
+- autonomous evolution
+source: https://github.com/thdelmas/agent-nervous-system
+discovered_at: '2026-06-23T10:33:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

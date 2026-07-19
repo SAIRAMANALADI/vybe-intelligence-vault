@@ -1,13 +1,29 @@
 ---
-title: "yoloshii/gigaxity-deep-research"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "MCP (Model Context Protocol)", "OpenRouter", "Qwen3-30B-A3B-Thinking", "SearXNG", "Tavily", "LinkUp", "RRF (Reciprocal Rank Fusion)", "CRAG (Citation-aware RAG)", "Docker"]
+title: yoloshii/gigaxity-deep-research
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- FastAPI
+- MCP (Model Context Protocol)
+- OpenRouter
+- Qwen3-30B-A3B-Thinking
+- SearXNG
+- Tavily
+- LinkUp
+- RRF (Reciprocal Rank Fusion)
+- CRAG (Citation-aware RAG)
+- Docker
 quality_score: 9
 rag_relevance: 10
-tags: ["deep research", "multi-source synthesis", "MCP server", "citation binding", "reasoning models"]
-source: "https://github.com/yoloshii/gigaxity-deep-research"
-discovered_at: "2026-06-25T17:11:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- deep research
+- multi-source synthesis
+- MCP server
+- citation binding
+- reasoning models
+source: https://github.com/yoloshii/gigaxity-deep-research
+discovered_at: '2026-06-25T17:11:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

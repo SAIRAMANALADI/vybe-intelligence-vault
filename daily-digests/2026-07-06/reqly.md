@@ -1,13 +1,29 @@
 ---
-title: "RutvikPansare/Reqly"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol) Server", "YAML", "REST", "GraphQL", "gRPC", "Express.js", "GitHub Actions", "CLI", "Web UI"]
+title: RutvikPansare/Reqly
+category: daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol) Server
+- YAML
+- REST
+- GraphQL
+- gRPC
+- Express.js
+- GitHub Actions
+- CLI
+- Web UI
 quality_score: 9
 rag_relevance: 10
-tags: ["API testing", "MCP server", "AI agent integration", "CI/CD automation", "YAML-based collections"]
-source: "https://github.com/RutvikPansare/Reqly"
-discovered_at: "2026-07-06T23:05:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- API testing
+- MCP server
+- AI agent integration
+- CI/CD automation
+- YAML-based collections
+source: https://github.com/RutvikPansare/Reqly
+discovered_at: '2026-07-06T23:05:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

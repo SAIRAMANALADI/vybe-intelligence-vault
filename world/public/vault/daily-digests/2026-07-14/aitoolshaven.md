@@ -1,13 +1,23 @@
 ---
-title: "odidost/AIToolshaven"
-category: "UI Component"
-tech_stack: ["Next.js", "TypeScript", "React", "Vercel Platform", "Next.js Font (Geist)"]
+title: odidost/AIToolshaven
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- Next.js
+- TypeScript
+- React
+- Vercel Platform
+- Next.js Font (Geist)
 quality_score: 6
 rag_relevance: 5
-tags: ["AI tools", "directory", "Next.js", "discovery", "curated"]
-source: "https://github.com/odidost/AIToolshaven"
-discovered_at: "2026-07-11T21:47:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI tools
+- directory
+- Next.js
+- discovery
+- curated
+source: https://github.com/odidost/AIToolshaven
+discovered_at: '2026-07-11T21:47:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

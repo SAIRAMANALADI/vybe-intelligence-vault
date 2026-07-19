@@ -1,13 +1,25 @@
 ---
-title: "haya10hikawa-hub/Atra-workunitOS"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Cloudflare Workers", "REST API", "SHA-256 hashing", "Tenant isolation", "Regression testing"]
+title: haya10hikawa-hub/Atra-workunitOS
+category: daily-digests/2026-07-14
+tech_stack:
+- TypeScript
+- Node.js
+- Cloudflare Workers
+- REST API
+- SHA-256 hashing
+- Tenant isolation
+- Regression testing
 quality_score: 8
 rag_relevance: 9
-tags: ["work orchestration", "execution safety", "approval pipeline", "dry-run verification", "AI work OS"]
-source: "https://github.com/haya10hikawa-hub/Atra-workunitOS"
-discovered_at: "2026-07-12T10:26:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- work orchestration
+- execution safety
+- approval pipeline
+- dry-run verification
+- AI work OS
+source: https://github.com/haya10hikawa-hub/Atra-workunitOS
+discovered_at: '2026-07-12T10:26:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

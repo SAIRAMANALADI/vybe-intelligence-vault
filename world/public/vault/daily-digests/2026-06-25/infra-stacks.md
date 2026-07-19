@@ -1,13 +1,22 @@
 ---
-title: "Luizgugss/infra-stacks"
-category: "Tooling"
-tech_stack: ["Docker", "Docker Compose", "Shell", "YAML"]
+title: Luizgugss/infra-stacks
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Docker
+- Docker Compose
+- Shell
+- YAML
 quality_score: 7
 rag_relevance: 5
-tags: ["self-hosting", "docker-compose", "infrastructure", "pre-configured stacks", "devops"]
-source: "https://github.com/Luizgugss/infra-stacks"
-discovered_at: "2026-06-25T05:02:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-hosting
+- docker-compose
+- infrastructure
+- pre-configured stacks
+- devops
+source: https://github.com/Luizgugss/infra-stacks
+discovered_at: '2026-06-25T05:02:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

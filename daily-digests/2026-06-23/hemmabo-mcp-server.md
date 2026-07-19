@@ -1,13 +1,28 @@
 ---
-title: "HemmaBo-se/hemmabo-mcp-server"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Ed25519/JWKS", "Vacation Rental Protocol (VRP)", "Supabase", "Stripe", "Redis", "OAuth 2.0", "HTTP/Streamable Transport"]
+title: HemmaBo-se/hemmabo-mcp-server
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Ed25519/JWKS
+- Vacation Rental Protocol (VRP)
+- Supabase
+- Stripe
+- Redis
+- OAuth 2.0
+- HTTP/Streamable Transport
 quality_score: 9
 rag_relevance: 8
-tags: ["vacation rental", "direct booking", "VRP", "Ed25519", "AI agent integration"]
-source: "https://github.com/HemmaBo-se/hemmabo-mcp-server"
-discovered_at: "2026-06-23T16:32:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- vacation rental
+- direct booking
+- VRP
+- Ed25519
+- AI agent integration
+source: https://github.com/HemmaBo-se/hemmabo-mcp-server
+discovered_at: '2026-06-23T16:32:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

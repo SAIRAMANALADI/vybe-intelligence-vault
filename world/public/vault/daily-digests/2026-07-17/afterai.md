@@ -1,13 +1,23 @@
 ---
-title: "chenjiatong1989-pixel/afterai"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "JSON/JSONL", "HTML", "REST API (Frankfurter for exchange rates)"]
+title: chenjiatong1989-pixel/afterai
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- JavaScript
+- Node.js
+- JSON/JSONL
+- HTML
+- REST API (Frankfurter for exchange rates)
 quality_score: 8
 rag_relevance: 7
-tags: ["token tracking", "AI cost analysis", "local-first", "privacy-focused", "developer tools"]
-source: "https://github.com/chenjiatong1989-pixel/afterai"
-discovered_at: "2026-07-17T08:07:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- token tracking
+- AI cost analysis
+- local-first
+- privacy-focused
+- developer tools
+source: https://github.com/chenjiatong1989-pixel/afterai
+discovered_at: '2026-07-17T08:07:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

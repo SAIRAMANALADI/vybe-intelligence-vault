@@ -1,13 +1,28 @@
 ---
-title: "bgrablin/hermes-personal-display"
-category: "UI Component"
-tech_stack: ["JavaScript", "Python", "Node.js", "Vite", "Chromium/Chrome", "SVG/DOM", "systemd", "JSON Schema", "HTTP/HTTPS", "SSE (Server-Sent Events)"]
+title: bgrablin/hermes-personal-display
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- JavaScript
+- Python
+- Node.js
+- Vite
+- Chromium/Chrome
+- SVG/DOM
+- systemd
+- JSON Schema
+- HTTP/HTTPS
+- SSE (Server-Sent Events)
 quality_score: 9
 rag_relevance: 7
-tags: ["ambient display", "agent companion", "kiosk UI", "privacy-safe state", "local AI"]
-source: "https://github.com/bgrablin/hermes-personal-display"
-discovered_at: "2026-07-10T20:22:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- ambient display
+- agent companion
+- kiosk UI
+- privacy-safe state
+- local AI
+source: https://github.com/bgrablin/hermes-personal-display
+discovered_at: '2026-07-10T20:22:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

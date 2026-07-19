@@ -1,13 +1,25 @@
 ---
-title: "NG-Bullseye/crisis-radar"
-category: "Tooling"
-tech_stack: ["Python", "LLM (Large Language Model)", "YAML", "JSON Schema", "MCP (Model Context Protocol)", "Mermaid (for diagrams)", "C4 Model (for architecture)"]
+title: NG-Bullseye/crisis-radar
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- LLM (Large Language Model)
+- YAML
+- JSON Schema
+- MCP (Model Context Protocol)
+- Mermaid (for diagrams)
+- C4 Model (for architecture)
 quality_score: 7
 rag_relevance: 6
-tags: ["macro risk analysis", "deterministic scoring", "LLM-assisted research", "financial signals", "risk dashboard"]
-source: "https://github.com/NG-Bullseye/crisis-radar"
-discovered_at: "2026-06-23T13:49:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- macro risk analysis
+- deterministic scoring
+- LLM-assisted research
+- financial signals
+- risk dashboard
+source: https://github.com/NG-Bullseye/crisis-radar
+discovered_at: '2026-06-23T13:49:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

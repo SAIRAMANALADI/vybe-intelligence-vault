@@ -1,13 +1,22 @@
 ---
-title: "bridgettmirthful637/librecrawl-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Docker", "Model Context Protocol (MCP)", "SEO Auditing Tools"]
+title: bridgettmirthful637/librecrawl-mcp
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Docker
+- Model Context Protocol (MCP)
+- SEO Auditing Tools
 quality_score: 7
 rag_relevance: 6
-tags: ["SEO auditing", "web crawling", "Claude integration", "technical SEO", "self-hosted"]
-source: "https://github.com/bridgettmirthful637/librecrawl-mcp"
-discovered_at: "2026-06-24T22:16:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- SEO auditing
+- web crawling
+- Claude integration
+- technical SEO
+- self-hosted
+source: https://github.com/bridgettmirthful637/librecrawl-mcp
+discovered_at: '2026-06-24T22:16:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

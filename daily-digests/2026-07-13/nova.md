@@ -1,13 +1,27 @@
 ---
-title: "bigduu/Nova"
-category: "Agent Framework"
-tech_stack: ["Rust", "Model Context Protocol (MCP)", "ScreenCaptureKit", "CoreGraphics", "Accessibility APIs", "Apple Vision (OCR)", "Cargo", "Homebrew", "Streamable HTTP"]
+title: bigduu/Nova
+category: daily-digests/2026-07-13
+tech_stack:
+- Rust
+- Model Context Protocol (MCP)
+- ScreenCaptureKit
+- CoreGraphics
+- Accessibility APIs
+- Apple Vision (OCR)
+- Cargo
+- Homebrew
+- Streamable HTTP
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP server", "macOS automation", "computer use", "LLM agent", "Rust"]
-source: "https://github.com/bigduu/Nova"
-discovered_at: "2026-07-11T14:51:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- macOS automation
+- computer use
+- LLM agent
+- Rust
+source: https://github.com/bigduu/Nova
+discovered_at: '2026-07-11T14:51:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

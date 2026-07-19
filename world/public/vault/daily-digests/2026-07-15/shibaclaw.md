@@ -1,13 +1,29 @@
 ---
-title: "RikyZ90/ShibaClaw"
-category: "Agent Framework"
-tech_stack: ["Python", "PyWebView", "FastAPI", "React (WebUI)", "Docker", "MCP (Model Context Protocol)", "OAuth", "SQLite", "LangChain (optional)", "FAISS (optional)", "Sentence Transformers (optional)"]
+title: RikyZ90/ShibaClaw
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- Python
+- PyWebView
+- FastAPI
+- React (WebUI)
+- Docker
+- MCP (Model Context Protocol)
+- OAuth
+- SQLite
+- LangChain (optional)
+- FAISS (optional)
+- Sentence Transformers (optional)
 quality_score: 9
 rag_relevance: 7
-tags: ["AI Agent", "Security-First", "Self-Hosted", "MCP Ready", "Multi-Provider"]
-source: "https://github.com/RikyZ90/ShibaClaw"
-discovered_at: "2026-07-11T07:52:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent
+- Security-First
+- Self-Hosted
+- MCP Ready
+- Multi-Provider
+source: https://github.com/RikyZ90/ShibaClaw
+discovered_at: '2026-07-11T07:52:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,30 @@
 ---
-title: "yshmr/ai-development-support-workbench"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Next.js", "React", "Zod", "Qdrant", "OpenAI API", "Gemini API", "Claude API", "Vitest", "Playwright", "Markdown", "Mermaid"]
+title: yshmr/ai-development-support-workbench
+category: daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Next.js
+- React
+- Zod
+- Qdrant
+- OpenAI API
+- Gemini API
+- Claude API
+- Vitest
+- Playwright
+- Markdown
+- Mermaid
 quality_score: 9
 rag_relevance: 8
-tags: ["LLM evaluation", "RAG workflow", "AI agent orchestration", "structured generation", "requirement decomposition"]
-source: "https://github.com/yshmr/ai-development-support-workbench"
-discovered_at: "2026-07-09T04:46:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LLM evaluation
+- RAG workflow
+- AI agent orchestration
+- structured generation
+- requirement decomposition
+source: https://github.com/yshmr/ai-development-support-workbench
+discovered_at: '2026-07-09T04:46:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

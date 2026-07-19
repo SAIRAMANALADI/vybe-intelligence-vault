@@ -1,13 +1,32 @@
 ---
-title: "oaslananka/zaptrace"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "REST API", "KiCad", "Gerber RS-274X", "Excellon", "SVG", "YAML", "SQLite", "FastAPI", "Pydantic", "ruff", "pyright", "pytest"]
+title: oaslananka/zaptrace
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- REST API
+- KiCad
+- Gerber RS-274X
+- Excellon
+- SVG
+- YAML
+- SQLite
+- FastAPI
+- Pydantic
+- ruff
+- pyright
+- pytest
 quality_score: 9
 rag_relevance: 8
-tags: ["EDA", "PCB design automation", "verification-first", "proof packs", "AI-native electronics"]
-source: "https://github.com/oaslananka/zaptrace"
-discovered_at: "2026-07-07T16:26:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- EDA
+- PCB design automation
+- verification-first
+- proof packs
+- AI-native electronics
+source: https://github.com/oaslananka/zaptrace
+discovered_at: '2026-07-07T16:26:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

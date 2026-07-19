@@ -1,13 +1,24 @@
 ---
-title: "lusky3/play-store-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Google Play Developer API", "Model Context Protocol (MCP)", "Docker", "FastAPI", "Google Cloud Service Accounts"]
+title: lusky3/play-store-mcp
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Google Play Developer API
+- Model Context Protocol (MCP)
+- Docker
+- FastAPI
+- Google Cloud Service Accounts
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP Server", "Google Play API", "App Deployment", "AI Integration", "Release Management"]
-source: "https://github.com/lusky3/play-store-mcp"
-discovered_at: "2026-07-07T02:33:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- Google Play API
+- App Deployment
+- AI Integration
+- Release Management
+source: https://github.com/lusky3/play-store-mcp
+discovered_at: '2026-07-07T02:33:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

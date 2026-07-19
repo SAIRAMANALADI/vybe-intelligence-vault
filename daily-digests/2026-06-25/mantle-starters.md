@@ -1,13 +1,23 @@
 ---
-title: "aotter/mantle-starters"
-category: "SaaS Template"
-tech_stack: ["JavaScript", "Node.js", "pnpm", "Kiwa UI", "Mantle"]
+title: aotter/mantle-starters
+category: daily-digests/2026-06-25
+tech_stack:
+- JavaScript
+- Node.js
+- pnpm
+- Kiwa UI
+- Mantle
 quality_score: 7
 rag_relevance: 6
-tags: ["starter templates", "provisioning", "UI scaffolding", "deterministic generation", "Kiwa integration"]
-source: "https://github.com/aotter/mantle-starters"
-discovered_at: "2026-06-25T00:05:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- starter templates
+- provisioning
+- UI scaffolding
+- deterministic generation
+- Kiwa integration
+source: https://github.com/aotter/mantle-starters
+discovered_at: '2026-06-25T00:05:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

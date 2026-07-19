@@ -1,13 +1,23 @@
 ---
-title: "wang-jie-git/moat"
-category: "Tooling"
-tech_stack: ["Python", "Static Analysis", "Security Auditing", "Architecture Enforcement", "CI/CD Integration"]
+title: wang-jie-git/moat
+category: daily-digests/2026-07-15
+tech_stack:
+- Python
+- Static Analysis
+- Security Auditing
+- Architecture Enforcement
+- CI/CD Integration
 quality_score: 9
 rag_relevance: 8
-tags: ["ai-agent-guardrail", "architecture-validation", "security-scanner", "code-review-automation", "local-first"]
-source: "https://github.com/wang-jie-git/moat"
-discovered_at: "2026-07-14T10:07:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- ai-agent-guardrail
+- architecture-validation
+- security-scanner
+- code-review-automation
+- local-first
+source: https://github.com/wang-jie-git/moat
+discovered_at: '2026-07-14T10:07:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

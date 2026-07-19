@@ -1,13 +1,24 @@
 ---
-title: "ivanostanin/lucius-mcp"
-category: "Agent Framework"
-tech_stack: ["Python", "FastMCP", "Starlette", "uv", "Model Context Protocol (MCP)", "Allure TestOps API"]
+title: ivanostanin/lucius-mcp
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- FastMCP
+- Starlette
+- uv
+- Model Context Protocol (MCP)
+- Allure TestOps API
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP Server", "TestOps Integration", "AI Agent Tools", "Test Management", "Automation"]
-source: "https://github.com/ivanostanin/lucius-mcp"
-discovered_at: "2026-07-09T21:19:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- TestOps Integration
+- AI Agent Tools
+- Test Management
+- Automation
+source: https://github.com/ivanostanin/lucius-mcp
+discovered_at: '2026-07-09T21:19:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

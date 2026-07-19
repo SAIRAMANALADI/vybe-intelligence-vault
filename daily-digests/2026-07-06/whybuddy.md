@@ -1,13 +1,27 @@
 ---
-title: "xiaojilele-glitch/WhyBuddy"
-category: "Tooling"
-tech_stack: ["TypeScript", "LLM (Large Language Model)", "Node.js", "Python", "Mermaid.js", "GitHub API", "Image Generation APIs (e.g., OpenAI, Gemini)", "JSON Schema Validation", "Deterministic Scripting"]
+title: xiaojilele-glitch/WhyBuddy
+category: daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- LLM (Large Language Model)
+- Node.js
+- Python
+- Mermaid.js
+- GitHub API
+- Image Generation APIs (e.g., OpenAI, Gemini)
+- JSON Schema Validation
+- Deterministic Scripting
 quality_score: 9
 rag_relevance: 8
-tags: ["Product Rehearsal", "PRD Generation", "AI-Powered Specs", "Deterministic Validation", "Exportable Deliverables"]
-source: "https://github.com/xiaojilele-glitch/WhyBuddy"
-discovered_at: "2026-07-06T21:25:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Product Rehearsal
+- PRD Generation
+- AI-Powered Specs
+- Deterministic Validation
+- Exportable Deliverables
+source: https://github.com/xiaojilele-glitch/WhyBuddy
+discovered_at: '2026-07-06T21:25:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

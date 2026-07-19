@@ -1,13 +1,21 @@
 ---
-title: "motivated-groupthink347/boss-skill"
-category: "Tooling"
-tech_stack: ["Python", "Windows Desktop App", "Local File Storage"]
+title: motivated-groupthink347/boss-skill
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- Python
+- Windows Desktop App
+- Local File Storage
 quality_score: 6
 rag_relevance: 4
-tags: ["workplace negotiation", "PUA detection", "labor law lookup", "AI assistant", "employee tools"]
-source: "https://github.com/motivated-groupthink347/boss-skill"
-discovered_at: "2026-07-10T20:21:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- workplace negotiation
+- PUA detection
+- labor law lookup
+- AI assistant
+- employee tools
+source: https://github.com/motivated-groupthink347/boss-skill
+discovered_at: '2026-07-10T20:21:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

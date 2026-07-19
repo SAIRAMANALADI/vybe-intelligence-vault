@@ -1,13 +1,24 @@
 ---
-title: "tools-for-agents/lens"
-category: "Tooling"
-tech_stack: ["Node.js", "SQLite (FTS5)", "BM25 ranking", "MCP (Model Context Protocol)", "HTML/CSS (Web Explorer)", "JavaScript/TypeScript"]
+title: tools-for-agents/lens
+category: daily-digests/2026-07-14
+tech_stack:
+- Node.js
+- SQLite (FTS5)
+- BM25 ranking
+- MCP (Model Context Protocol)
+- HTML/CSS (Web Explorer)
+- JavaScript/TypeScript
 quality_score: 9
 rag_relevance: 10
-tags: ["code retrieval", "token efficiency", "MCP server", "symbol outline", "incremental indexing"]
-source: "https://github.com/tools-for-agents/lens"
-discovered_at: "2026-07-12T10:26:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code retrieval
+- token efficiency
+- MCP server
+- symbol outline
+- incremental indexing
+source: https://github.com/tools-for-agents/lens
+discovered_at: '2026-07-12T10:26:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

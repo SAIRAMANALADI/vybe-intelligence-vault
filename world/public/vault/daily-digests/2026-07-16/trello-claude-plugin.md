@@ -1,13 +1,22 @@
 ---
-title: "jesign/trello-claude-plugin"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Trello REST API", "Claude Code"]
+title: jesign/trello-claude-plugin
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- JavaScript
+- Node.js
+- Trello REST API
+- Claude Code
 quality_score: 8
 rag_relevance: 7
-tags: ["Trello integration", "Claude Code plugin", "read-only API", "Markdown export", "AI context enrichment"]
-source: "https://github.com/jesign/trello-claude-plugin"
-discovered_at: "2026-07-16T05:39:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Trello integration
+- Claude Code plugin
+- read-only API
+- Markdown export
+- AI context enrichment
+source: https://github.com/jesign/trello-claude-plugin
+discovered_at: '2026-07-16T05:39:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

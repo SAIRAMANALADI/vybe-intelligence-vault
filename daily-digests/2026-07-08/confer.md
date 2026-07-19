@@ -1,13 +1,30 @@
 ---
-title: "rohansx/confer"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "React", "Vite", "Hono", "SQLite", "Zod", "Model Context Protocol (MCP)", "Docker", "Caddy", "Litestream", "Slack Webhooks"]
+title: rohansx/confer
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- Vite
+- Hono
+- SQLite
+- Zod
+- Model Context Protocol (MCP)
+- Docker
+- Caddy
+- Litestream
+- Slack Webhooks
 quality_score: 9
 rag_relevance: 8
-tags: ["documentation review", "MCP integration", "provenance tracking", "collaborative AI", "self-hosted"]
-source: "https://github.com/rohansx/confer"
-discovered_at: "2026-07-08T17:25:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- documentation review
+- MCP integration
+- provenance tracking
+- collaborative AI
+- self-hosted
+source: https://github.com/rohansx/confer
+discovered_at: '2026-07-08T17:25:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

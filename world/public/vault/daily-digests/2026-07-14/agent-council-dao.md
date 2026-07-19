@@ -1,13 +1,27 @@
 ---
-title: "emmet-bot/agent-council-dao"
-category: "Orchestrator"
-tech_stack: ["Universal Profiles (LSP0)", "LSP6 KeyManager", "LSP23 Linked Contracts Factory", "LSP3 Profile Metadata", "Solidity", "Ethereum", "LUKSO", "Base", "Rocket.Chat"]
+title: emmet-bot/agent-council-dao
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- Universal Profiles (LSP0)
+- LSP6 KeyManager
+- LSP23 Linked Contracts Factory
+- LSP3 Profile Metadata
+- Solidity
+- Ethereum
+- LUKSO
+- Base
+- Rocket.Chat
 quality_score: 9
 rag_relevance: 10
-tags: ["AI governance", "multi-agent systems", "Universal Profiles", "cross-chain DAO", "on-chain execution"]
-source: "https://github.com/emmet-bot/agent-council-dao"
-discovered_at: "2026-07-14T10:07:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI governance
+- multi-agent systems
+- Universal Profiles
+- cross-chain DAO
+- on-chain execution
+source: https://github.com/emmet-bot/agent-council-dao
+discovered_at: '2026-07-14T10:07:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

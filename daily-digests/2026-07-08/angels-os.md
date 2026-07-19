@@ -1,13 +1,27 @@
 ---
-title: "The-Angel-OS/angels-os"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Next.js 16", "React 19", "Payload CMS 3.77", "PostgreSQL", "LiveKit", "Vercel Blob", "Stripe", "Google Sign-In"]
+title: The-Angel-OS/angels-os
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Next.js 16
+- React 19
+- Payload CMS 3.77
+- PostgreSQL
+- LiveKit
+- Vercel Blob
+- Stripe
+- Google Sign-In
 quality_score: 9
 rag_relevance: 7
-tags: ["Constitutional AI", "Federated Platform", "AI Guardian", "Maker Economy", "Tokenized Incentives"]
-source: "https://github.com/The-Angel-OS/angels-os"
-discovered_at: "2026-07-08T15:15:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Constitutional AI
+- Federated Platform
+- AI Guardian
+- Maker Economy
+- Tokenized Incentives
+source: https://github.com/The-Angel-OS/angels-os
+discovered_at: '2026-07-08T15:15:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

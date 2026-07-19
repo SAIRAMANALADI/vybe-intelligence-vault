@@ -1,13 +1,28 @@
 ---
-title: "rhobs/obs-mcp"
-category: "Agent Framework"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "Prometheus", "Thanos", "Alertmanager", "Loki", "Grafana Tempo", "OpenTelemetry Collector", "Kubernetes", "Docker"]
+title: rhobs/obs-mcp
+category: daily-digests/2026-07-18
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- Prometheus
+- Thanos
+- Alertmanager
+- Loki
+- Grafana Tempo
+- OpenTelemetry Collector
+- Kubernetes
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "observability", "LLM integration", "Kubernetes", "metrics"]
-source: "https://github.com/rhobs/obs-mcp"
-discovered_at: "2026-07-15T10:48:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- observability
+- LLM integration
+- Kubernetes
+- metrics
+source: https://github.com/rhobs/obs-mcp
+discovered_at: '2026-07-15T10:48:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

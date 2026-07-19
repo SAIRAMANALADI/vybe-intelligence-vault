@@ -1,13 +1,22 @@
 ---
-title: "ysg6407/mautic-cli"
-category: "Tooling"
-tech_stack: ["Python", "Mautic API", "Command Line Interface", "REST API"]
+title: ysg6407/mautic-cli
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Mautic API
+- Command Line Interface
+- REST API
 quality_score: 7
 rag_relevance: 4
-tags: ["Mautic", "marketing automation", "CLI tool", "API client", "command-line interface"]
-source: "https://github.com/ysg6407/mautic-cli"
-discovered_at: "2026-06-23T02:45:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Mautic
+- marketing automation
+- CLI tool
+- API client
+- command-line interface
+source: https://github.com/ysg6407/mautic-cli
+discovered_at: '2026-06-23T02:45:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

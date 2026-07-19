@@ -1,13 +1,23 @@
 ---
-title: "junter1989k-ai/malaysia-payments-mcp"
-category: "Tooling"
-tech_stack: ["Model Context Protocol (MCP)", "JavaScript", "Node.js", "Billplz API", "HTTP/JSON-RPC"]
+title: junter1989k-ai/malaysia-payments-mcp
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Model Context Protocol (MCP)
+- JavaScript
+- Node.js
+- Billplz API
+- HTTP/JSON-RPC
 quality_score: 8
 rag_relevance: 7
-tags: ["payments", "Malaysia", "FPX", "DuitNow", "MCP"]
-source: "https://github.com/junter1989k-ai/malaysia-payments-mcp"
-discovered_at: "2026-07-08T19:16:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- payments
+- Malaysia
+- FPX
+- DuitNow
+- MCP
+source: https://github.com/junter1989k-ai/malaysia-payments-mcp
+discovered_at: '2026-07-08T19:16:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

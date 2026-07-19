@@ -1,13 +1,27 @@
 ---
-title: "3aKHP/prts-mcp"
-category: "Tooling"
-tech_stack: ["Python", "TypeScript", "Node.js", "Bun", "Docker", "MCP (Model Context Protocol)", "MediaWiki API", "RESTful HTTP", "GitHub Actions (CI/CD)"]
+title: 3aKHP/prts-mcp
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- TypeScript
+- Node.js
+- Bun
+- Docker
+- MCP (Model Context Protocol)
+- MediaWiki API
+- RESTful HTTP
+- GitHub Actions (CI/CD)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP Server", "Arknights Game Data", "Lore Retrieval", "AI Agent Integration", "Game Wiki API"]
-source: "https://github.com/3aKHP/prts-mcp"
-discovered_at: "2026-07-07T19:00:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- Arknights Game Data
+- Lore Retrieval
+- AI Agent Integration
+- Game Wiki API
+source: https://github.com/3aKHP/prts-mcp
+discovered_at: '2026-07-07T19:00:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

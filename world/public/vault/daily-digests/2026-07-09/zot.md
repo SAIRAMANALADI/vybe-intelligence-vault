@@ -1,13 +1,26 @@
 ---
-title: "patriceckhart/zot"
-category: "Agent Framework"
-tech_stack: ["Go", "JSON-RPC", "OAuth", "TUI", "CLI", "Static Binary", "Telegram Bot", "Extensions"]
+title: patriceckhart/zot
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Go
+- JSON-RPC
+- OAuth
+- TUI
+- CLI
+- Static Binary
+- Telegram Bot
+- Extensions
 quality_score: 9
 rag_relevance: 8
-tags: ["coding agent", "multi-provider", "extensible", "lightweight", "TUI"]
-source: "https://github.com/patriceckhart/zot"
-discovered_at: "2026-07-09T17:17:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- coding agent
+- multi-provider
+- extensible
+- lightweight
+- TUI
+source: https://github.com/patriceckhart/zot
+discovered_at: '2026-07-09T17:17:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

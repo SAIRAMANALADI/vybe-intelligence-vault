@@ -1,13 +1,30 @@
 ---
-title: "devforth/adminforth"
-category: "UI Component"
-tech_stack: ["TypeScript", "Vue.js", "Tailwind CSS", "Node.js", "Express", "Prisma", "Docker", "SQLite", "PostgreSQL", "MySQL", "MongoDB", "ClickHouse"]
+title: devforth/adminforth
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Vue.js
+- Tailwind CSS
+- Node.js
+- Express
+- Prisma
+- Docker
+- SQLite
+- PostgreSQL
+- MySQL
+- MongoDB
+- ClickHouse
 quality_score: 9
 rag_relevance: 7
-tags: ["Admin Panel", "CRUD Generator", "Agent-First", "Database UI", "TypeScript Framework"]
-source: "https://github.com/devforth/adminforth"
-discovered_at: "2026-06-23T08:58:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Admin Panel
+- CRUD Generator
+- Agent-First
+- Database UI
+- TypeScript Framework
+source: https://github.com/devforth/adminforth
+discovered_at: '2026-06-23T08:58:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

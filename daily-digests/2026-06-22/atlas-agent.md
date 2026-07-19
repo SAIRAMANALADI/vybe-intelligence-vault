@@ -1,13 +1,25 @@
 ---
-title: "usernotfinded/atlas-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "CLI", "Markdown", "TOML", "Bash", "GitHub Actions", "Cryptographic Hashing"]
+title: usernotfinded/atlas-agent
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- CLI
+- Markdown
+- TOML
+- Bash
+- GitHub Actions
+- Cryptographic Hashing
 quality_score: 9
 rag_relevance: 7
-tags: ["trading agent", "paper trading", "deterministic risk", "broker-neutral", "LLM tooling"]
-source: "https://github.com/usernotfinded/atlas-agent"
-discovered_at: "2026-06-22T23:24:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- trading agent
+- paper trading
+- deterministic risk
+- broker-neutral
+- LLM tooling
+source: https://github.com/usernotfinded/atlas-agent
+discovered_at: '2026-06-22T23:24:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

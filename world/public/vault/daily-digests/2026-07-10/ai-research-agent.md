@@ -1,13 +1,25 @@
 ---
-title: "Zyuting/ai-research-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "LangGraph", "LLM API Integration (Qwen, GPT, DeepSeek)", "DuckDuckGo/Tavily/Google Search", "Web Content Extraction", "TypedDict", "Factory + Registry Pattern"]
+title: Zyuting/ai-research-agent
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Python
+- LangGraph
+- LLM API Integration (Qwen, GPT, DeepSeek)
+- DuckDuckGo/Tavily/Google Search
+- Web Content Extraction
+- TypedDict
+- Factory + Registry Pattern
 quality_score: 8
 rag_relevance: 9
-tags: ["Agent Workflow", "Multi-Step Task Execution", "Tool Integration", "LLM Orchestration", "Research Automation"]
-source: "https://github.com/Zyuting/ai-research-agent"
-discovered_at: "2026-07-10T06:52:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agent Workflow
+- Multi-Step Task Execution
+- Tool Integration
+- LLM Orchestration
+- Research Automation
+source: https://github.com/Zyuting/ai-research-agent
+discovered_at: '2026-07-10T06:52:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

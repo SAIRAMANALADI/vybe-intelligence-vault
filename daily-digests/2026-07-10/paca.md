@@ -1,13 +1,28 @@
 ---
-title: "Paca-AI/paca"
-category: "Orchestrator"
-tech_stack: ["Go", "TypeScript", "React", "PostgreSQL", "Valkey", "Docker", "WebAssembly (WASM)", "Socket.IO", "Model Context Protocol (MCP)", "OpenHands SDK"]
+title: Paca-AI/paca
+category: daily-digests/2026-07-10
+tech_stack:
+- Go
+- TypeScript
+- React
+- PostgreSQL
+- Valkey
+- Docker
+- WebAssembly (WASM)
+- Socket.IO
+- Model Context Protocol (MCP)
+- OpenHands SDK
 quality_score: 9
 rag_relevance: 7
-tags: ["project management", "AI collaboration", "self-hosted", "Scrum", "plugins"]
-source: "https://github.com/Paca-AI/paca"
-discovered_at: "2026-07-10T06:30:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- project management
+- AI collaboration
+- self-hosted
+- Scrum
+- plugins
+source: https://github.com/Paca-AI/paca
+discovered_at: '2026-07-10T06:30:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

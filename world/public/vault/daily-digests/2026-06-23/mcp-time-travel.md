@@ -1,13 +1,22 @@
 ---
-title: "pandemic-xanthicacid21/mcp-time-travel"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP Server Protocol", "Windows API"]
+title: pandemic-xanthicacid21/mcp-time-travel
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- MCP Server Protocol
+- Windows API
 quality_score: 7
 rag_relevance: 7
-tags: ["MCP debugging", "agent monitoring", "session replay", "deterministic debugging", "tool call analysis"]
-source: "https://github.com/pandemic-xanthicacid21/mcp-time-travel"
-discovered_at: "2026-06-23T02:47:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP debugging
+- agent monitoring
+- session replay
+- deterministic debugging
+- tool call analysis
+source: https://github.com/pandemic-xanthicacid21/mcp-time-travel
+discovered_at: '2026-06-23T02:47:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

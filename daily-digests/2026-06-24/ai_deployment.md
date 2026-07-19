@@ -1,13 +1,23 @@
 ---
-title: "Fahadfk/AI_deployment"
-category: "Tooling"
-tech_stack: ["FastAPI", "Pydantic", "SQLAlchemy", "Python", "Uvicorn"]
+title: Fahadfk/AI_deployment
+category: daily-digests/2026-06-24
+tech_stack:
+- FastAPI
+- Pydantic
+- SQLAlchemy
+- Python
+- Uvicorn
 quality_score: 7
 rag_relevance: 8
-tags: ["API development", "data validation", "database management", "AI deployment", "backend framework"]
-source: "https://github.com/Fahadfk/AI_deployment"
-discovered_at: "2026-06-24T02:43:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- API development
+- data validation
+- database management
+- AI deployment
+- backend framework
+source: https://github.com/Fahadfk/AI_deployment
+discovered_at: '2026-06-24T02:43:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

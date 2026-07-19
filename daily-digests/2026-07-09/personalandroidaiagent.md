@@ -1,13 +1,28 @@
 ---
-title: "alexeyw/PersonalAndroidAIAgent"
-category: "Agent Framework"
-tech_stack: ["Kotlin", "Android SDK", "LiteRT-LM", "Jetpack Compose", "TensorFlow Lite", "Model Context Protocol (MCP)", "AppFunctions Jetpack", "Room Database", "WorkManager", "Hugging Face Hub"]
+title: alexeyw/PersonalAndroidAIAgent
+category: daily-digests/2026-07-09
+tech_stack:
+- Kotlin
+- Android SDK
+- LiteRT-LM
+- Jetpack Compose
+- TensorFlow Lite
+- Model Context Protocol (MCP)
+- AppFunctions Jetpack
+- Room Database
+- WorkManager
+- Hugging Face Hub
 quality_score: 8
 rag_relevance: 7
-tags: ["on-device AI", "Android agent", "pipeline editor", "LiteRT-LM", "local LLM"]
-source: "https://github.com/alexeyw/PersonalAndroidAIAgent"
-discovered_at: "2026-07-09T14:44:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- on-device AI
+- Android agent
+- pipeline editor
+- LiteRT-LM
+- local LLM
+source: https://github.com/alexeyw/PersonalAndroidAIAgent
+discovered_at: '2026-07-09T14:44:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

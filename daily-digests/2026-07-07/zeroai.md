@@ -1,13 +1,25 @@
 ---
-title: "heryartshtv/ZeroAI"
-category: "UI Component"
-tech_stack: ["Kotlin", "Rust", "Jetpack Compose", "UniFFI", "Android SDK", "Gradle", "Android Studio"]
+title: heryartshtv/ZeroAI
+category: daily-digests/2026-07-07
+tech_stack:
+- Kotlin
+- Rust
+- Jetpack Compose
+- UniFFI
+- Android SDK
+- Gradle
+- Android Studio
 quality_score: 7
 rag_relevance: 5
-tags: ["Android AI", "Rust integration", "Jetpack Compose", "Multi-provider AI", "Mobile agent"]
-source: "https://github.com/heryartshtv/ZeroAI"
-discovered_at: "2026-07-07T23:55:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Android AI
+- Rust integration
+- Jetpack Compose
+- Multi-provider AI
+- Mobile agent
+source: https://github.com/heryartshtv/ZeroAI
+discovered_at: '2026-07-07T23:55:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

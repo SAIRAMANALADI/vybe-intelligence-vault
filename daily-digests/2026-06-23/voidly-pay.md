@@ -1,13 +1,31 @@
 ---
-title: "voidly-ai/voidly-pay"
-category: "Tooling"
-tech_stack: ["TypeScript", "Python", "Node.js", "Ed25519 cryptography", "Cloudflare Workers", "D1 (Cloudflare database)", "Docker", "Helm", "Terraform", "OpenAPI 3.1", "MCP (Model Context Protocol)", "Postman", "AsyncAPI"]
+title: voidly-ai/voidly-pay
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Python
+- Node.js
+- Ed25519 cryptography
+- Cloudflare Workers
+- D1 (Cloudflare database)
+- Docker
+- Helm
+- Terraform
+- OpenAPI 3.1
+- MCP (Model Context Protocol)
+- Postman
+- AsyncAPI
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent payments", "off-chain ledger", "escrow system", "atomic settlement", "Ed25519 signatures"]
-source: "https://github.com/voidly-ai/voidly-pay"
-discovered_at: "2026-06-23T06:49:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent payments
+- off-chain ledger
+- escrow system
+- atomic settlement
+- Ed25519 signatures
+source: https://github.com/voidly-ai/voidly-pay
+discovered_at: '2026-06-23T06:49:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "aloki-alok/mcpify"
-category: "Tooling"
-tech_stack: ["Go", "OpenAPI 3.x", "MCP (Model Context Protocol)", "HTTP/HTTPS"]
+title: aloki-alok/mcpify
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Go
+- OpenAPI 3.x
+- MCP (Model Context Protocol)
+- HTTP/HTTPS
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "OpenAPI", "API integration", "tool generation", "automation"]
-source: "https://github.com/aloki-alok/mcpify"
-discovered_at: "2026-07-09T00:06:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- OpenAPI
+- API integration
+- tool generation
+- automation
+source: https://github.com/aloki-alok/mcpify
+discovered_at: '2026-07-09T00:06:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

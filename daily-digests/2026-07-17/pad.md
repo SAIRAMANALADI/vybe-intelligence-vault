@@ -1,13 +1,28 @@
 ---
-title: "PerpetualSoftware/pad"
-category: "Orchestrator"
-tech_stack: ["Go", "SQLite", "PostgreSQL", "Redis", "Node.js", "TypeScript", "Docker", "React", "Tiptap", "MCP (Model Context Protocol)"]
+title: PerpetualSoftware/pad
+category: daily-digests/2026-07-17
+tech_stack:
+- Go
+- SQLite
+- PostgreSQL
+- Redis
+- Node.js
+- TypeScript
+- Docker
+- React
+- Tiptap
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["Project Management", "AI Agents", "Local-First", "CLI", "SQLite"]
-source: "https://github.com/PerpetualSoftware/pad"
-discovered_at: "2026-07-11T05:39:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Project Management
+- AI Agents
+- Local-First
+- CLI
+- SQLite
+source: https://github.com/PerpetualSoftware/pad
+discovered_at: '2026-07-11T05:39:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

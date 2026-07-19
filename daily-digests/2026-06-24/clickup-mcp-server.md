@@ -1,13 +1,24 @@
 ---
-title: "taazkareem/clickup-mcp-server"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "ClickUp API", "OAuth 2.1", "Docker"]
+title: taazkareem/clickup-mcp-server
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- ClickUp API
+- OAuth 2.1
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["ClickUp", "MCP Server", "AI Integration", "Project Management", "Task Automation"]
-source: "https://github.com/taazkareem/clickup-mcp-server"
-discovered_at: "2026-06-24T02:49:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- ClickUp
+- MCP Server
+- AI Integration
+- Project Management
+- Task Automation
+source: https://github.com/taazkareem/clickup-mcp-server
+discovered_at: '2026-06-24T02:49:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

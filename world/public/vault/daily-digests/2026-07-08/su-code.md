@@ -1,13 +1,33 @@
 ---
-title: "8-Sync-Dev/su-code"
-category: "Orchestrator"
-tech_stack: ["Rust", "omp (oh-my-pi)", "Kitty Terminal", "Helix Editor", "codegraph", "GitHub CLI", "abduco", "SQLite", "MCP (Model Context Protocol)", "Axum (for dashboard)", "Vite (for dashboard frontend)", "Systemd (for timers)", "Git", "Python (for some skills)", "GGUF (for local model serving)"]
+title: 8-Sync-Dev/su-code
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Rust
+- omp (oh-my-pi)
+- Kitty Terminal
+- Helix Editor
+- codegraph
+- GitHub CLI
+- abduco
+- SQLite
+- MCP (Model Context Protocol)
+- Axum (for dashboard)
+- Vite (for dashboard frontend)
+- Systemd (for timers)
+- Git
+- Python (for some skills)
+- GGUF (for local model serving)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI coding assistant", "terminal-first", "agent orchestration", "project memory", "CLI harness"]
-source: "https://github.com/8-Sync-Dev/su-code"
-discovered_at: "2026-07-08T12:25:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding assistant
+- terminal-first
+- agent orchestration
+- project memory
+- CLI harness
+source: https://github.com/8-Sync-Dev/su-code
+discovered_at: '2026-07-08T12:25:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

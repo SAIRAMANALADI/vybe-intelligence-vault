@@ -1,13 +1,25 @@
 ---
-title: "zykooooooooo/SeekMoney-ai"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "Python", "OpenAI-compatible AI models", "DBSCAN (clustering algorithm)", "Embedding technology", "CSV/PDF export libraries"]
+title: zykooooooooo/SeekMoney-ai
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Electron
+- Python
+- OpenAI-compatible AI models
+- DBSCAN (clustering algorithm)
+- Embedding technology
+- CSV/PDF export libraries
 quality_score: 6
 rag_relevance: 5
-tags: ["trend analysis", "business intelligence", "social media scraping", "AI clustering", "market research"]
-source: "https://github.com/zykooooooooo/SeekMoney-ai"
-discovered_at: "2026-06-24T16:22:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- trend analysis
+- business intelligence
+- social media scraping
+- AI clustering
+- market research
+source: https://github.com/zykooooooooo/SeekMoney-ai
+discovered_at: '2026-06-24T16:22:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

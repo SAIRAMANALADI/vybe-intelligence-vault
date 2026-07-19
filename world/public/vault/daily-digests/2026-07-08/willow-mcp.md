@@ -1,13 +1,26 @@
 ---
-title: "rudi193-cmd/willow-mcp"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "SQLite", "PostgreSQL", "OAuth 2.0", "PKCE", "systemd", "FastAPI (for HTTP serve mode)"]
+title: rudi193-cmd/willow-mcp
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- SQLite
+- PostgreSQL
+- OAuth 2.0
+- PKCE
+- systemd
+- FastAPI (for HTTP serve mode)
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP server", "persistent memory", "task execution", "knowledge graph", "OAuth authentication"]
-source: "https://github.com/rudi193-cmd/willow-mcp"
-discovered_at: "2026-07-08T17:26:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- persistent memory
+- task execution
+- knowledge graph
+- OAuth authentication
+source: https://github.com/rudi193-cmd/willow-mcp
+discovered_at: '2026-07-08T17:26:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

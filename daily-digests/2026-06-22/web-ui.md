@@ -1,13 +1,24 @@
 ---
-title: "browser-use/web-ui"
-category: "UI Component"
-tech_stack: ["Python", "Gradio", "Playwright", "Docker", "LLM APIs (Google, OpenAI, Azure OpenAI, Anthropic, DeepSeek, Ollama)", "WebRTC"]
+title: browser-use/web-ui
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- Gradio
+- Playwright
+- Docker
+- LLM APIs (Google, OpenAI, Azure OpenAI, Anthropic, DeepSeek, Ollama)
+- WebRTC
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agent interface", "browser automation", "LLM integration", "persistent sessions", "screen recording"]
-source: "https://github.com/browser-use/web-ui"
-discovered_at: "2026-06-22T18:13:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent interface
+- browser automation
+- LLM integration
+- persistent sessions
+- screen recording
+source: https://github.com/browser-use/web-ui
+discovered_at: '2026-06-22T18:13:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

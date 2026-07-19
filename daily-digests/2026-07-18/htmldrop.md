@@ -1,13 +1,27 @@
 ---
-title: "vin-spiegel/htmldrop"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Cloudflare R2", "React", "Vite", "pnpm", "Vitest", "MCP (Model Context Protocol)", "SSE (Server-Sent Events)"]
+title: vin-spiegel/htmldrop
+category: daily-digests/2026-07-18
+tech_stack:
+- TypeScript
+- Node.js
+- Cloudflare R2
+- React
+- Vite
+- pnpm
+- Vitest
+- MCP (Model Context Protocol)
+- SSE (Server-Sent Events)
 quality_score: 9
 rag_relevance: 8
-tags: ["artifact sharing", "MCP server", "temporary links", "AI agent tools", "self-hostable"]
-source: "https://github.com/vin-spiegel/htmldrop"
-discovered_at: "2026-07-15T10:48:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- artifact sharing
+- MCP server
+- temporary links
+- AI agent tools
+- self-hostable
+source: https://github.com/vin-spiegel/htmldrop
+discovered_at: '2026-07-15T10:48:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

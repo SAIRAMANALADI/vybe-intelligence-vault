@@ -1,13 +1,23 @@
 ---
-title: "dawnaadopted177/specsmith"
-category: "Tooling"
-tech_stack: ["Python", "Windows GUI", "CLI", "FPGA/HDL tools", "LLM integrations"]
+title: dawnaadopted177/specsmith
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- Python
+- Windows GUI
+- CLI
+- FPGA/HDL tools
+- LLM integrations
 quality_score: 6
 rag_relevance: 4
-tags: ["AEE management", "agent sessions", "execution profiles", "FPGA/HDL support", "LLM toolkit"]
-source: "https://github.com/dawnaadopted177/specsmith"
-discovered_at: "2026-07-10T20:21:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AEE management
+- agent sessions
+- execution profiles
+- FPGA/HDL support
+- LLM toolkit
+source: https://github.com/dawnaadopted177/specsmith
+discovered_at: '2026-07-10T20:21:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

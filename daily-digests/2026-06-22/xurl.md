@@ -1,13 +1,21 @@
 ---
-title: "octo8-debug/xurl"
-category: "Tooling"
-tech_stack: ["Rust", "Windows API", "Markdown"]
+title: octo8-debug/xurl
+category: daily-digests/2026-06-22
+tech_stack:
+- Rust
+- Windows API
+- Markdown
 quality_score: 5
 rag_relevance: 4
-tags: ["URL management", "AI agent tools", "Windows client", "offline access", "lightweight"]
-source: "https://github.com/octo8-debug/xurl"
-discovered_at: "2026-06-22T18:51:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- URL management
+- AI agent tools
+- Windows client
+- offline access
+- lightweight
+source: https://github.com/octo8-debug/xurl
+discovered_at: '2026-06-22T18:51:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

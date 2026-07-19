@@ -1,13 +1,22 @@
 ---
-title: "agabor/yact"
-category: "Tooling"
-tech_stack: ["Go", "Claude API", "CLI", "JSON"]
+title: agabor/yact
+category: daily-digests/2026-07-09
+tech_stack:
+- Go
+- Claude API
+- CLI
+- JSON
 quality_score: 8
 rag_relevance: 7
-tags: ["LLM assistant", "CLI tool", "prompt engineering", "code generation", "cost-efficient"]
-source: "https://github.com/agabor/yact"
-discovered_at: "2026-07-09T08:24:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LLM assistant
+- CLI tool
+- prompt engineering
+- code generation
+- cost-efficient
+source: https://github.com/agabor/yact
+discovered_at: '2026-07-09T08:24:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

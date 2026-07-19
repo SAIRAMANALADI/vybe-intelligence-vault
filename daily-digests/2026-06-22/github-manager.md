@@ -1,13 +1,23 @@
 ---
-title: "NachaFromMars/github-manager"
-category: "Tooling"
-tech_stack: ["Python", "GitHub REST API", "Fine-grained Personal Access Tokens (PAT)", "Shell scripting", "JSON for local repo library"]
+title: NachaFromMars/github-manager
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- GitHub REST API
+- Fine-grained Personal Access Tokens (PAT)
+- Shell scripting
+- JSON for local repo library
 quality_score: 9
 rag_relevance: 8
-tags: ["GitHub automation", "AI agent tooling", "repository management", "REST API", "security-focused"]
-source: "https://github.com/NachaFromMars/github-manager"
-discovered_at: "2026-06-22T18:48:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- GitHub automation
+- AI agent tooling
+- repository management
+- REST API
+- security-focused
+source: https://github.com/NachaFromMars/github-manager
+discovered_at: '2026-06-22T18:48:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

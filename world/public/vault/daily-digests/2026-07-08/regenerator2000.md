@@ -1,13 +1,23 @@
 ---
-title: "ricardoquesada/regenerator2000"
-category: "Tooling"
-tech_stack: ["Rust", "6502 Assembly", "Model Context Protocol (MCP)", "TUI (Terminal User Interface)", "VICE Emulator Integration"]
+title: ricardoquesada/regenerator2000
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Rust
+- 6502 Assembly
+- Model Context Protocol (MCP)
+- TUI (Terminal User Interface)
+- VICE Emulator Integration
 quality_score: 9
 rag_relevance: 6
-tags: ["6502 disassembler", "Commodore retro computing", "MCP server", "binary analysis", "reverse engineering"]
-source: "https://github.com/ricardoquesada/regenerator2000"
-discovered_at: "2026-07-08T17:27:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- 6502 disassembler
+- Commodore retro computing
+- MCP server
+- binary analysis
+- reverse engineering
+source: https://github.com/ricardoquesada/regenerator2000
+discovered_at: '2026-07-08T17:27:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

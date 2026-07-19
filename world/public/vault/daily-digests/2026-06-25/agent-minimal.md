@@ -1,13 +1,24 @@
 ---
-title: "klaus-kramer/agent-minimal"
-category: "Agent Framework"
-tech_stack: ["C++", "llama.cpp", "CUDA", "CMake", "GGUF", "libcurl"]
+title: klaus-kramer/agent-minimal
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- C++
+- llama.cpp
+- CUDA
+- CMake
+- GGUF
+- libcurl
 quality_score: 8
 rag_relevance: 9
-tags: ["local LLM", "C++ embeddable", "offline execution", "tool calling", "multi-step planning"]
-source: "https://github.com/klaus-kramer/agent-minimal"
-discovered_at: "2026-06-25T11:37:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local LLM
+- C++ embeddable
+- offline execution
+- tool calling
+- multi-step planning
+source: https://github.com/klaus-kramer/agent-minimal
+discovered_at: '2026-06-25T11:37:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

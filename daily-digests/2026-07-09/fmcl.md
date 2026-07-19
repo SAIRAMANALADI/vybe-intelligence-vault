@@ -1,13 +1,29 @@
 ---
-title: "Janson20/FMCL"
-category: "Tooling"
-tech_stack: ["Python", "CustomTkinter", "PyInstaller", "Modrinth API", "CurseForge API", "BMCLAPI", "Fernet Encryption", "SQLite", "Asyncio", "JSON", "GitHub Actions"]
+title: Janson20/FMCL
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- CustomTkinter
+- PyInstaller
+- Modrinth API
+- CurseForge API
+- BMCLAPI
+- Fernet Encryption
+- SQLite
+- Asyncio
+- JSON
+- GitHub Actions
 quality_score: 9
 rag_relevance: 3
-tags: ["Minecraft Launcher", "Mod Management", "AI Integration", "Cross-Platform", "Modern UI"]
-source: "https://github.com/Janson20/FMCL"
-discovered_at: "2026-07-09T14:44:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Minecraft Launcher
+- Mod Management
+- AI Integration
+- Cross-Platform
+- Modern UI
+source: https://github.com/Janson20/FMCL
+discovered_at: '2026-07-09T14:44:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

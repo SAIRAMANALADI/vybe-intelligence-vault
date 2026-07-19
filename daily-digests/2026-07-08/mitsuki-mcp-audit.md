@@ -1,13 +1,23 @@
 ---
-title: "T25bimmer/mitsuki-mcp-audit"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "npm", "Security Auditing", "MCP (Model Context Protocol)"]
+title: T25bimmer/mitsuki-mcp-audit
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- npm
+- Security Auditing
+- MCP (Model Context Protocol)
 quality_score: 4
 rag_relevance: 7
-tags: ["security auditing", "npm dependencies", "vulnerability detection", "dependency analysis", "MCP"]
-source: "https://github.com/T25bimmer/mitsuki-mcp-audit"
-discovered_at: "2026-07-08T21:02:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- security auditing
+- npm dependencies
+- vulnerability detection
+- dependency analysis
+- MCP
+source: https://github.com/T25bimmer/mitsuki-mcp-audit
+discovered_at: '2026-07-08T21:02:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

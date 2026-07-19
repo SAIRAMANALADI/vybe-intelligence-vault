@@ -1,13 +1,26 @@
 ---
-title: "norrietaylor/distillery"
-category: "Agent Framework"
-tech_stack: ["Python", "DuckDB", "FastEmbed", "Claude Code", "MCP (Model Context Protocol)", "GitHub OAuth", "Jina AI", "OpenAI"]
+title: norrietaylor/distillery
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- DuckDB
+- FastEmbed
+- Claude Code
+- MCP (Model Context Protocol)
+- GitHub OAuth
+- Jina AI
+- OpenAI
 quality_score: 9
 rag_relevance: 8
-tags: ["knowledge management", "vector database", "team collaboration", "RAG augmentation", "conversational AI"]
-source: "https://github.com/norrietaylor/distillery"
-discovered_at: "2026-06-23T23:07:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- knowledge management
+- vector database
+- team collaboration
+- RAG augmentation
+- conversational AI
+source: https://github.com/norrietaylor/distillery
+discovered_at: '2026-06-23T23:07:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

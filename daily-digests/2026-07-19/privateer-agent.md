@@ -1,13 +1,32 @@
 ---
-title: "privateer-agent/privateer-agent"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Pi Framework", "Model Context Protocol (MCP)", "Trusted Execution Environment (TEE)", "Ollama", "OpenRouter", "Anthropic", "OpenAI", "Google", "NEAR AI", "Tinfoil", "Venice", "Fireworks"]
+title: privateer-agent/privateer-agent
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- Pi Framework
+- Model Context Protocol (MCP)
+- Trusted Execution Environment (TEE)
+- Ollama
+- OpenRouter
+- Anthropic
+- OpenAI
+- Google
+- NEAR AI
+- Tinfoil
+- Venice
+- Fireworks
 quality_score: 9
 rag_relevance: 8
-tags: ["privacy-first", "safe-by-default", "model-agnostic", "TEE inference", "agent framework"]
-source: "https://github.com/privateer-agent/privateer-agent"
-discovered_at: "2026-07-12T11:58:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- privacy-first
+- safe-by-default
+- model-agnostic
+- TEE inference
+- agent framework
+source: https://github.com/privateer-agent/privateer-agent
+discovered_at: '2026-07-12T11:58:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

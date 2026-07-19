@@ -1,13 +1,28 @@
 ---
-title: "mcp-tool-shop-org/ai-jam-sessions"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "SVG rendering", "Web Audio API", "Physical modeling synthesis", "Additive synthesis", "MIDI processing", "Browser-based UI (Vite, React)", "Markdown journaling"]
+title: mcp-tool-shop-org/ai-jam-sessions
+category: daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- SVG rendering
+- Web Audio API
+- Physical modeling synthesis
+- Additive synthesis
+- MIDI processing
+- Browser-based UI (Vite, React)
+- Markdown journaling
 quality_score: 9
 rag_relevance: 7
-tags: ["music synthesis", "MCP server", "AI learning tool", "interactive music", "practice journal"]
-source: "https://github.com/mcp-tool-shop-org/ai-jam-sessions"
-discovered_at: "2026-07-09T11:53:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- music synthesis
+- MCP server
+- AI learning tool
+- interactive music
+- practice journal
+source: https://github.com/mcp-tool-shop-org/ai-jam-sessions
+discovered_at: '2026-07-09T11:53:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "sdsrss/claude-mem-lite"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "SQLite", "MCP (Model Context Protocol)", "TF-IDF", "FTS5 (Full-Text Search)", "LLM (Haiku/Sonnet via Anthropic API)"]
+title: sdsrss/claude-mem-lite
+category: daily-digests/2026-06-24
+tech_stack:
+- JavaScript
+- Node.js
+- SQLite
+- MCP (Model Context Protocol)
+- TF-IDF
+- FTS5 (Full-Text Search)
+- LLM (Haiku/Sonnet via Anthropic API)
 quality_score: 9
 rag_relevance: 8
-tags: ["persistent memory", "Claude Code", "MCP server", "SQLite", "hybrid search"]
-source: "https://github.com/sdsrss/claude-mem-lite"
-discovered_at: "2026-06-24T20:50:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- Claude Code
+- MCP server
+- SQLite
+- hybrid search
+source: https://github.com/sdsrss/claude-mem-lite
+discovered_at: '2026-06-24T20:50:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

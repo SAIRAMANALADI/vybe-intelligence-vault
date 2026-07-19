@@ -1,13 +1,22 @@
 ---
-title: "genuserysiphelycopuseuropaeus944/Rust-Crash-Fix"
-category: "Tooling"
-tech_stack: ["C++", "Windows API", "Batch Scripting", "Inno Setup"]
+title: genuserysiphelycopuseuropaeus944/Rust-Crash-Fix
+category: daily-digests/2026-07-07
+tech_stack:
+- C++
+- Windows API
+- Batch Scripting
+- Inno Setup
 quality_score: 6
 rag_relevance: 2
-tags: ["game repair", "stability tool", "Windows optimization", "corrupted files", "Rust"]
-source: "https://github.com/genuserysiphelycopuseuropaeus944/Rust-Crash-Fix"
-discovered_at: "2026-07-07T18:59:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- game repair
+- stability tool
+- Windows optimization
+- corrupted files
+- Rust
+source: https://github.com/genuserysiphelycopuseuropaeus944/Rust-Crash-Fix
+discovered_at: '2026-07-07T18:59:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

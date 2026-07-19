@@ -1,13 +1,25 @@
 ---
-title: "Friz-zy/ai-capability-registry"
-category: "Orchestrator"
-tech_stack: ["Python", "YAML", "TOML", "Git", "MCP (Model Context Protocol)", "Docker", "CLI Tools"]
+title: Friz-zy/ai-capability-registry
+category: daily-digests/2026-07-16
+tech_stack:
+- Python
+- YAML
+- TOML
+- Git
+- MCP (Model Context Protocol)
+- Docker
+- CLI Tools
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Capability Registry", "Multi-Agent Orchestration", "MCP Servers", "Skill Management", "Workflow Routing"]
-source: "https://github.com/Friz-zy/ai-capability-registry"
-discovered_at: "2026-07-10T18:22:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Capability Registry
+- Multi-Agent Orchestration
+- MCP Servers
+- Skill Management
+- Workflow Routing
+source: https://github.com/Friz-zy/ai-capability-registry
+discovered_at: '2026-07-10T18:22:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

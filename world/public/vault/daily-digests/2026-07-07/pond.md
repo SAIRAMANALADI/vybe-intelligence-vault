@@ -1,13 +1,26 @@
 ---
-title: "tenequm/pond"
-category: "Orchestrator"
-tech_stack: ["Rust", "LanceDB", "MCP (Model Context Protocol)", "SQL (DataFusion)", "BM25 (Full-text search)", "Vector embeddings (intfloat/multilingual-e5-small)", "Object storage (S3, GCS, Azure, MinIO)", "TOML (Configuration)"]
+title: tenequm/pond
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Rust
+- LanceDB
+- MCP (Model Context Protocol)
+- SQL (DataFusion)
+- BM25 (Full-text search)
+- Vector embeddings (intfloat/multilingual-e5-small)
+- Object storage (S3, GCS, Azure, MinIO)
+- TOML (Configuration)
 quality_score: 9
 rag_relevance: 10
-tags: ["AI session storage", "Cross-client retrieval", "Vector search", "MCP integration", "Lossless archiving"]
-source: "https://github.com/tenequm/pond"
-discovered_at: "2026-07-07T19:00:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI session storage
+- Cross-client retrieval
+- Vector search
+- MCP integration
+- Lossless archiving
+source: https://github.com/tenequm/pond
+discovered_at: '2026-07-07T19:00:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

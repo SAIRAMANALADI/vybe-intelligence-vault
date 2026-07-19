@@ -1,13 +1,28 @@
 ---
-title: "rejigtian/Smart-AI-Bot"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "TypeScript", "React", "Kotlin", "Android", "SQLite", "Docker", "WebSocket", "LLM APIs (OpenAI, Anthropic, Gemini, Zhipu GLM, Groq, Ollama)"]
+title: rejigtian/Smart-AI-Bot
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- FastAPI
+- TypeScript
+- React
+- Kotlin
+- Android
+- SQLite
+- Docker
+- WebSocket
+- LLM APIs (OpenAI, Anthropic, Gemini, Zhipu GLM, Groq, Ollama)
 quality_score: 9
 rag_relevance: 7
-tags: ["Android automation", "AI-driven testing", "plain-language test cases", "visual replay reports", "self-learning agent"]
-source: "https://github.com/rejigtian/Smart-AI-Bot"
-discovered_at: "2026-06-23T08:59:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Android automation
+- AI-driven testing
+- plain-language test cases
+- visual replay reports
+- self-learning agent
+source: https://github.com/rejigtian/Smart-AI-Bot
+discovered_at: '2026-06-23T08:59:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

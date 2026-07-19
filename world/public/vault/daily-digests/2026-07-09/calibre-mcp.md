@@ -1,13 +1,26 @@
 ---
-title: "caelum29/calibre-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Calibre Content Server", "Hugging Face Transformers", "Vector Embeddings", "Semantic Search", "Natural Language Processing (NLP)"]
+title: caelum29/calibre-mcp
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Calibre Content Server
+- Hugging Face Transformers
+- Vector Embeddings
+- Semantic Search
+- Natural Language Processing (NLP)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "ebook management", "semantic search", "metadata curation", "AI integration"]
-source: "https://github.com/caelum29/calibre-mcp"
-discovered_at: "2026-07-09T11:53:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- ebook management
+- semantic search
+- metadata curation
+- AI integration
+source: https://github.com/caelum29/calibre-mcp
+discovered_at: '2026-07-09T11:53:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

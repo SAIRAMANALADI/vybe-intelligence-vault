@@ -1,13 +1,28 @@
 ---
-title: "Dannykkh/skill-olympus"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude Code", "Codex CLI", "Gemini CLI", "Playwright", "PostgreSQL", "React", "Spring Boot", "Bash/PowerShell", "Git"]
+title: Dannykkh/skill-olympus
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Claude Code
+- Codex CLI
+- Gemini CLI
+- Playwright
+- PostgreSQL
+- React
+- Spring Boot
+- Bash/PowerShell
+- Git
 quality_score: 9
 rag_relevance: 10
-tags: ["autonomous agents", "loop engineering", "multi-CLI integration", "SaaS automation", "verification loops"]
-source: "https://github.com/Dannykkh/skill-olympus"
-discovered_at: "2026-06-24T02:45:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- loop engineering
+- multi-CLI integration
+- SaaS automation
+- verification loops
+source: https://github.com/Dannykkh/skill-olympus
+discovered_at: '2026-06-24T02:45:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

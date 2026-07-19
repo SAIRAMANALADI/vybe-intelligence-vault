@@ -1,13 +1,21 @@
 ---
-title: "oliverquaye23/claude-hooks"
-category: "Tooling"
-tech_stack: ["CSS", "JavaScript", "Claude Code API"]
+title: oliverquaye23/claude-hooks
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- CSS
+- JavaScript
+- Claude Code API
 quality_score: 3
 rag_relevance: 6
-tags: ["security", "prompt injection", "Claude Code", "custom hooks", "utility scripts"]
-source: "https://github.com/oliverquaye23/claude-hooks"
-discovered_at: "2026-07-06T21:26:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- security
+- prompt injection
+- Claude Code
+- custom hooks
+- utility scripts
+source: https://github.com/oliverquaye23/claude-hooks
+discovered_at: '2026-07-06T21:26:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

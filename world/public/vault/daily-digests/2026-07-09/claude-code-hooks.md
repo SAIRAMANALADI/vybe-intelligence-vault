@@ -1,13 +1,21 @@
 ---
-title: "GabrielCostaLopes16/claude-code-hooks"
-category: "Tooling"
-tech_stack: ["JavaScript", "Shell Scripting", "Claude Code"]
+title: GabrielCostaLopes16/claude-code-hooks
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- JavaScript
+- Shell Scripting
+- Claude Code
 quality_score: 6
 rag_relevance: 5
-tags: ["automation", "hooks", "Claude Code", "notifications", "customization"]
-source: "https://github.com/GabrielCostaLopes16/claude-code-hooks"
-discovered_at: "2026-07-09T00:06:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- automation
+- hooks
+- Claude Code
+- notifications
+- customization
+source: https://github.com/GabrielCostaLopes16/claude-code-hooks
+discovered_at: '2026-07-09T00:06:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "qlan-ro/mainframe"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Electron", "React", "WebSocket", "HTTP API", "Cloudflare Tunnel", "Claude Code", "OpenAI Codex"]
+title: qlan-ro/mainframe
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- Electron
+- React
+- WebSocket
+- HTTP API
+- Cloudflare Tunnel
+- Claude Code
+- OpenAI Codex
 quality_score: 8
 rag_relevance: 9
-tags: ["agent orchestration", "AI development environment", "multi-project management", "remote daemon pairing", "plugin system"]
-source: "https://github.com/qlan-ro/mainframe"
-discovered_at: "2026-07-07T06:41:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent orchestration
+- AI development environment
+- multi-project management
+- remote daemon pairing
+- plugin system
+source: https://github.com/qlan-ro/mainframe
+discovered_at: '2026-07-07T06:41:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

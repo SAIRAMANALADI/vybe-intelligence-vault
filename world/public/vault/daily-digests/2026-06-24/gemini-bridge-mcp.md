@@ -1,13 +1,24 @@
 ---
-title: "Euamobi4582/gemini-bridge-mcp"
-category: "Agent Framework"
-tech_stack: ["Node.js", "JavaScript", "Gemini CLI", "Playwright", "Chromium", "MCP (Model Context Protocol)"]
+title: Euamobi4582/gemini-bridge-mcp
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Node.js
+- JavaScript
+- Gemini CLI
+- Playwright
+- Chromium
+- MCP (Model Context Protocol)
 quality_score: 8
 rag_relevance: 9
-tags: ["Gemini", "MCP server", "free AI tools", "multimodal", "agent framework"]
-source: "https://github.com/Euamobi4582/gemini-bridge-mcp"
-discovered_at: "2026-06-24T06:50:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Gemini
+- MCP server
+- free AI tools
+- multimodal
+- agent framework
+source: https://github.com/Euamobi4582/gemini-bridge-mcp
+discovered_at: '2026-06-24T06:50:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

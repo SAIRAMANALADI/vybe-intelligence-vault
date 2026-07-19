@@ -1,13 +1,22 @@
 ---
-title: "Lossy-billiejeanking657/storyboard-ai"
-category: "Tooling"
-tech_stack: ["TypeScript", "Windows Desktop App", "Electron (assumed)", "Local File System"]
+title: Lossy-billiejeanking657/storyboard-ai
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Windows Desktop App
+- Electron (assumed)
+- Local File System
 quality_score: 6
 rag_relevance: 5
-tags: ["storyboarding", "video preproduction", "visual planning", "Windows app", "creative tools"]
-source: "https://github.com/Lossy-billiejeanking657/storyboard-ai"
-discovered_at: "2026-07-07T20:50:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- storyboarding
+- video preproduction
+- visual planning
+- Windows app
+- creative tools
+source: https://github.com/Lossy-billiejeanking657/storyboard-ai
+discovered_at: '2026-07-07T20:50:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

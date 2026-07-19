@@ -1,13 +1,24 @@
 ---
-title: "AkashGoenka/coldstart"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Ripgrep", "Tree-sitter", "Git", "MCP (Model Context Protocol)"]
+title: AkashGoenka/coldstart
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- Ripgrep
+- Tree-sitter
+- Git
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 9
-tags: ["code navigation", "agent memory", "static analysis", "knowledge retention", "RAG optimization"]
-source: "https://github.com/AkashGoenka/coldstart"
-discovered_at: "2026-07-08T15:16:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code navigation
+- agent memory
+- static analysis
+- knowledge retention
+- RAG optimization
+source: https://github.com/AkashGoenka/coldstart
+discovered_at: '2026-07-08T15:16:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

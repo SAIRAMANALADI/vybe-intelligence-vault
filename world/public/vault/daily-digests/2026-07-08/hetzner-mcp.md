@@ -1,13 +1,24 @@
 ---
-title: "jurislm/hetzner-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Bun", "MCP (Model Context Protocol)", "Hetzner Cloud API", "SSH"]
+title: jurislm/hetzner-mcp
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- Bun
+- MCP (Model Context Protocol)
+- Hetzner Cloud API
+- SSH
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "Hetzner Cloud", "infrastructure automation", "Claude Code integration", "cloud management"]
-source: "https://github.com/jurislm/hetzner-mcp"
-discovered_at: "2026-07-08T08:17:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Hetzner Cloud
+- infrastructure automation
+- Claude Code integration
+- cloud management
+source: https://github.com/jurislm/hetzner-mcp
+discovered_at: '2026-07-08T08:17:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "prime-radiant-inc/serf"
-category: "Agent Framework"
-tech_stack: ["Go", "LLM Tool-Calling", "OpenAI API", "Anthropic API", "Google API", "Terminal User Interface (TUI)", "Web Orchestrator", "NDJSON", "Ollama"]
+title: prime-radiant-inc/serf
+category: daily-digests/2026-06-24
+tech_stack:
+- Go
+- LLM Tool-Calling
+- OpenAI API
+- Anthropic API
+- Google API
+- Terminal User Interface (TUI)
+- Web Orchestrator
+- NDJSON
+- Ollama
 quality_score: 9
 rag_relevance: 8
-tags: ["coding agent", "LLM tool-calling", "automation", "multi-session orchestrator", "TUI and web UI"]
-source: "https://github.com/prime-radiant-inc/serf"
-discovered_at: "2026-06-24T18:48:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- coding agent
+- LLM tool-calling
+- automation
+- multi-session orchestrator
+- TUI and web UI
+source: https://github.com/prime-radiant-inc/serf
+discovered_at: '2026-06-24T18:48:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

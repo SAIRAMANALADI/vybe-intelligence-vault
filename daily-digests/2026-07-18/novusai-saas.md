@@ -1,13 +1,30 @@
 ---
-title: "yzxingtu2026/novusai-saas"
-category: "SaaS Template"
-tech_stack: ["Python", "FastAPI", "SQLAlchemy", "PostgreSQL", "Redis", "Celery", "Vue 3", "TypeScript", "Vben Admin", "Ant Design Vue", "Docker", "Docker Compose"]
+title: yzxingtu2026/novusai-saas
+category: daily-digests/2026-07-18
+tech_stack:
+- Python
+- FastAPI
+- SQLAlchemy
+- PostgreSQL
+- Redis
+- Celery
+- Vue 3
+- TypeScript
+- Vben Admin
+- Ant Design Vue
+- Docker
+- Docker Compose
 quality_score: 9
 rag_relevance: 7
-tags: ["multi-tenant", "AI SaaS framework", "FastAPI", "Vue 3", "RBAC"]
-source: "https://github.com/yzxingtu2026/novusai-saas"
-discovered_at: "2026-07-12T08:15:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-tenant
+- AI SaaS framework
+- FastAPI
+- Vue 3
+- RBAC
+source: https://github.com/yzxingtu2026/novusai-saas
+discovered_at: '2026-07-12T08:15:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

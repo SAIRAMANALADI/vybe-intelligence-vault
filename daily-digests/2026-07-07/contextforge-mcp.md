@@ -1,13 +1,24 @@
 ---
-title: "alfredoizdev/contextforge-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "TypeScript", "REST API", "GitHub API"]
+title: alfredoizdev/contextforge-mcp
+category: daily-digests/2026-07-07
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- TypeScript
+- REST API
+- GitHub API
 quality_score: 9
 rag_relevance: 10
-tags: ["persistent memory", "MCP server", "AI coding assistants", "semantic search", "GitHub integration"]
-source: "https://github.com/alfredoizdev/contextforge-mcp"
-discovered_at: "2026-07-07T02:33:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- MCP server
+- AI coding assistants
+- semantic search
+- GitHub integration
+source: https://github.com/alfredoizdev/contextforge-mcp
+discovered_at: '2026-07-07T02:33:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "signalwire-demos/blackjack"
-category: "Agent Framework"
-tech_stack: ["Python", "SignalWire Agents SDK", "SWML (SignalWire Markup Language)", "WebRTC", "JavaScript", "HTML/CSS", "ElevenLabs TTS", "Heroku/Dokku", "Flask (implicit)"]
+title: signalwire-demos/blackjack
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Python
+- SignalWire Agents SDK
+- SWML (SignalWire Markup Language)
+- WebRTC
+- JavaScript
+- HTML/CSS
+- ElevenLabs TTS
+- Heroku/Dokku
+- Flask (implicit)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Agents", "Real-time Gaming", "WebRTC", "Stateless Architecture", "SignalWire"]
-source: "https://github.com/signalwire-demos/blackjack"
-discovered_at: "2026-07-06T19:48:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agents
+- Real-time Gaming
+- WebRTC
+- Stateless Architecture
+- SignalWire
+source: https://github.com/signalwire-demos/blackjack
+discovered_at: '2026-07-06T19:48:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

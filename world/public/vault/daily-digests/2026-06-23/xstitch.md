@@ -1,13 +1,22 @@
 ---
-title: "suads463/xstitch"
-category: "Tooling"
-tech_stack: ["Python", "BM25 search", "Windows native installer", "Standard file-based storage"]
+title: suads463/xstitch
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- BM25 search
+- Windows native installer
+- Standard file-based storage
 quality_score: 7
 rag_relevance: 6
-tags: ["AI memory management", "context persistence", "agent handoff", "session tracking", "Windows productivity"]
-source: "https://github.com/suads463/xstitch"
-discovered_at: "2026-06-23T02:47:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI memory management
+- context persistence
+- agent handoff
+- session tracking
+- Windows productivity
+source: https://github.com/suads463/xstitch
+discovered_at: '2026-06-23T02:47:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

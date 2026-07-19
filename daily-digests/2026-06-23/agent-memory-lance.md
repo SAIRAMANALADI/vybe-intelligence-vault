@@ -1,13 +1,26 @@
 ---
-title: "cj7-john/agent-memory-lance"
-category: "Tooling"
-tech_stack: ["TypeScript", "LanceDB", "Node.js", "Vector Embeddings", "Semantic Search", "OpenAPI", "Claude API", "Docker"]
+title: cj7-john/agent-memory-lance
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- LanceDB
+- Node.js
+- Vector Embeddings
+- Semantic Search
+- OpenAPI
+- Claude API
+- Docker
 quality_score: 8
 rag_relevance: 9
-tags: ["persistent memory", "AI agents", "LanceDB", "TypeScript", "contextual continuity"]
-source: "https://github.com/cj7-john/agent-memory-lance"
-discovered_at: "2026-06-23T21:32:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- AI agents
+- LanceDB
+- TypeScript
+- contextual continuity
+source: https://github.com/cj7-john/agent-memory-lance
+discovered_at: '2026-06-23T21:32:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

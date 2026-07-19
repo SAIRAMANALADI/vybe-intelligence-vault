@@ -1,13 +1,30 @@
 ---
-title: "WingedGuardian/GENesis-AGI"
-category: "Orchestrator"
-tech_stack: ["Python", "Claude Code", "Node.js", "Playwright", "Qdrant", "SQLite", "MCP Servers", "Docker", "Linux", "Tailscale", "Ollama", "LM Studio"]
+title: WingedGuardian/GENesis-AGI
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- Claude Code
+- Node.js
+- Playwright
+- Qdrant
+- SQLite
+- MCP Servers
+- Docker
+- Linux
+- Tailscale
+- Ollama
+- LM Studio
 quality_score: 9
 rag_relevance: 8
-tags: ["Autonomous AI", "Memory Systems", "Self-Learning", "Agent Framework", "Cognitive Architecture"]
-source: "https://github.com/WingedGuardian/GENesis-AGI"
-discovered_at: "2026-07-06T23:02:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Autonomous AI
+- Memory Systems
+- Self-Learning
+- Agent Framework
+- Cognitive Architecture
+source: https://github.com/WingedGuardian/GENesis-AGI
+discovered_at: '2026-07-06T23:02:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

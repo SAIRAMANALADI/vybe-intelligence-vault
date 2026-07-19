@@ -1,13 +1,27 @@
 ---
-title: "jsnyde0/rip-cage"
-category: "Tooling"
-tech_stack: ["Docker", "Shell", "YAML", "Network Firewall", "SSH Agent Forwarding", "Git Worktrees", "Claude Code", "Pi Coding Agent", "Homebrew"]
+title: jsnyde0/rip-cage
+category: daily-digests/2026-06-25
+tech_stack:
+- Docker
+- Shell
+- YAML
+- Network Firewall
+- SSH Agent Forwarding
+- Git Worktrees
+- Claude Code
+- Pi Coding Agent
+- Homebrew
 quality_score: 9
 rag_relevance: 7
-tags: ["sandboxing", "agent safety", "Docker container", "command guard", "egress firewall"]
-source: "https://github.com/jsnyde0/rip-cage"
-discovered_at: "2026-06-25T14:13:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- sandboxing
+- agent safety
+- Docker container
+- command guard
+- egress firewall
+source: https://github.com/jsnyde0/rip-cage
+discovered_at: '2026-06-25T14:13:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

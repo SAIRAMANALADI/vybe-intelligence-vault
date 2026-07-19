@@ -1,13 +1,23 @@
 ---
-title: "SHUKLAO/call-with-ai-agent"
-category: "Agent Framework"
-tech_stack: ["Next.js", "ElevenLabs", "TypeScript", "React", "WebSockets"]
+title: SHUKLAO/call-with-ai-agent
+category: daily-digests/2026-06-23
+tech_stack:
+- Next.js
+- ElevenLabs
+- TypeScript
+- React
+- WebSockets
 quality_score: 4
 rag_relevance: 6
-tags: ["voice-ai", "real-time-conversation", "nextjs", "elevenlabs", "ai-agent"]
-source: "https://github.com/SHUKLAO/call-with-ai-agent"
-discovered_at: "2026-06-23T13:44:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- voice-ai
+- real-time-conversation
+- nextjs
+- elevenlabs
+- ai-agent
+source: https://github.com/SHUKLAO/call-with-ai-agent
+discovered_at: '2026-06-23T13:44:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

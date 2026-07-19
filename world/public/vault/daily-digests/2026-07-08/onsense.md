@@ -1,13 +1,26 @@
 ---
-title: "hufirst/onsense"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "HTTP/REST", "mDNS", "AES-256-GCM encryption", "HMAC-SHA256 signing", "uv (package manager)", "Android (Java/Kotlin for the app)"]
+title: hufirst/onsense
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- HTTP/REST
+- mDNS
+- AES-256-GCM encryption
+- HMAC-SHA256 signing
+- uv (package manager)
+- Android (Java/Kotlin for the app)
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP broker", "Android integration", "local AI agents", "sensor data", "camera access"]
-source: "https://github.com/hufirst/onsense"
-discovered_at: "2026-07-08T02:07:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP broker
+- Android integration
+- local AI agents
+- sensor data
+- camera access
+source: https://github.com/hufirst/onsense
+discovered_at: '2026-07-08T02:07:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

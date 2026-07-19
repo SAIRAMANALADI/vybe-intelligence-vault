@@ -1,13 +1,37 @@
 ---
-title: "devantler-tech/ksail"
-category: "Orchestrator"
-tech_stack: ["Go", "Kubernetes", "Kind", "K3d", "Talos", "VCluster", "Helm", "Kustomize", "Flux", "ArgoCD", "SOPS", "Age", "Kubeconform", "K9s", "Docker", "MCP (Model Context Protocol)", "VS Code Extension", "GitHub Copilot CLI", "Claude Code"]
+title: devantler-tech/ksail
+category: daily-digests/2026-07-07
+tech_stack:
+- Go
+- Kubernetes
+- Kind
+- K3d
+- Talos
+- VCluster
+- Helm
+- Kustomize
+- Flux
+- ArgoCD
+- SOPS
+- Age
+- Kubeconform
+- K9s
+- Docker
+- MCP (Model Context Protocol)
+- VS Code Extension
+- GitHub Copilot CLI
+- Claude Code
 quality_score: 9
 rag_relevance: 8
-tags: ["Kubernetes", "Cluster Management", "GitOps", "AI Integration", "MCP Server"]
-source: "https://github.com/devantler-tech/ksail"
-discovered_at: "2026-07-07T13:17:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Kubernetes
+- Cluster Management
+- GitOps
+- AI Integration
+- MCP Server
+source: https://github.com/devantler-tech/ksail
+discovered_at: '2026-07-07T13:17:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

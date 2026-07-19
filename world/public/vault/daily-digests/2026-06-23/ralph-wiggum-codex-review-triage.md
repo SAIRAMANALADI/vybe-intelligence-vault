@@ -1,13 +1,26 @@
 ---
-title: "AlainRic/ralph-wiggum-codex-review-triage"
-category: "Orchestrator"
-tech_stack: ["Python", "Node.js", "OpenAI API", "Anthropic API", "YAML/JSON", "CLI", "REST API", "Mermaid.js"]
+title: AlainRic/ralph-wiggum-codex-review-triage
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Node.js
+- OpenAI API
+- Anthropic API
+- YAML/JSON
+- CLI
+- REST API
+- Mermaid.js
 quality_score: 7
 rag_relevance: 9
-tags: ["autonomous AI", "task decomposition", "human-in-the-loop", "LLM orchestration", "verification gates"]
-source: "https://github.com/AlainRic/ralph-wiggum-codex-review-triage"
-discovered_at: "2026-06-23T06:44:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous AI
+- task decomposition
+- human-in-the-loop
+- LLM orchestration
+- verification gates
+source: https://github.com/AlainRic/ralph-wiggum-codex-review-triage
+discovered_at: '2026-06-23T06:44:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

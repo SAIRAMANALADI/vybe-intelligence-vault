@@ -1,13 +1,27 @@
 ---
-title: "BluegReeno/hal"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Deno", "Supabase", "PostgreSQL", "MCP (Model Context Protocol)", "Edge Functions", "Python (for scripts)", "React (for Edifice PWA/Webapp)", "RLS (Row-Level Security)"]
+title: BluegReeno/hal
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Deno
+- Supabase
+- PostgreSQL
+- MCP (Model Context Protocol)
+- Edge Functions
+- Python (for scripts)
+- React (for Edifice PWA/Webapp)
+- RLS (Row-Level Security)
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP server", "BYOA (Bring Your Own AI)", "CRM integration", "Document vault", "Field workflow automation"]
-source: "https://github.com/BluegReeno/hal"
-discovered_at: "2026-07-07T13:15:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- BYOA (Bring Your Own AI)
+- CRM integration
+- Document vault
+- Field workflow automation
+source: https://github.com/BluegReeno/hal
+discovered_at: '2026-07-07T13:15:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "robhunter/agentdeals"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "REST API", "npm", "Docker"]
+title: robhunter/agentdeals
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- REST API
+- npm
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "free tiers", "startup credits", "developer tools", "infrastructure pricing"]
-source: "https://github.com/robhunter/agentdeals"
-discovered_at: "2026-06-25T07:32:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- free tiers
+- startup credits
+- developer tools
+- infrastructure pricing
+source: https://github.com/robhunter/agentdeals
+discovered_at: '2026-06-25T07:32:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

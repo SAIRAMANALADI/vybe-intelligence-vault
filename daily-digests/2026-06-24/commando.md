@@ -1,13 +1,25 @@
 ---
-title: "Frank-Pu/commando"
-category: "Orchestrator"
-tech_stack: ["Python", "CLI", "YAML", "Markdown", "launchd/systemd", "Feishu API", "Git"]
+title: Frank-Pu/commando
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- CLI
+- YAML
+- Markdown
+- launchd/systemd
+- Feishu API
+- Git
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent configuration", "digital employee", "onboarding automation", "scheduler", "multi-LLM support"]
-source: "https://github.com/Frank-Pu/commando"
-discovered_at: "2026-06-24T02:45:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent configuration
+- digital employee
+- onboarding automation
+- scheduler
+- multi-LLM support
+source: https://github.com/Frank-Pu/commando
+discovered_at: '2026-06-24T02:45:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

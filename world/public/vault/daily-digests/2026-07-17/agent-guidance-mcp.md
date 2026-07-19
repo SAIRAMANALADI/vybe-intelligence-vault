@@ -1,13 +1,25 @@
 ---
-title: "JunMystery/Agent-Guidance-MCP"
-category: "Agent Framework"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Stdio", "uv (Python toolchain)", "Context7 (for documentation)", "SQLite (for caching)", "CodeGraph (for project context tools)"]
+title: JunMystery/Agent-Guidance-MCP
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Stdio
+- uv (Python toolchain)
+- Context7 (for documentation)
+- SQLite (for caching)
+- CodeGraph (for project context tools)
 quality_score: 9
 rag_relevance: 9
-tags: ["AI agent guidance", "MCP server", "coding standards", "token optimization", "project context tools"]
-source: "https://github.com/JunMystery/Agent-Guidance-MCP"
-discovered_at: "2026-07-11T15:54:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent guidance
+- MCP server
+- coding standards
+- token optimization
+- project context tools
+source: https://github.com/JunMystery/Agent-Guidance-MCP
+discovered_at: '2026-07-11T15:54:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

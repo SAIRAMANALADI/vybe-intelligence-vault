@@ -1,13 +1,24 @@
 ---
-title: "richardwooding/file-search-on"
-category: "Tooling"
-tech_stack: ["Go", "CEL (Common Expression Language)", "MCP (Model Context Protocol)", "Tree-sitter", "EXIF metadata parsing", "FFmpeg for media metadata"]
+title: richardwooding/file-search-on
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Go
+- CEL (Common Expression Language)
+- MCP (Model Context Protocol)
+- Tree-sitter
+- EXIF metadata parsing
+- FFmpeg for media metadata
 quality_score: 9
 rag_relevance: 8
-tags: ["file search", "metadata extraction", "CEL expressions", "AI agent integration", "content-type aware"]
-source: "https://github.com/richardwooding/file-search-on"
-discovered_at: "2026-06-24T20:51:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- file search
+- metadata extraction
+- CEL expressions
+- AI agent integration
+- content-type aware
+source: https://github.com/richardwooding/file-search-on
+discovered_at: '2026-06-24T20:51:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

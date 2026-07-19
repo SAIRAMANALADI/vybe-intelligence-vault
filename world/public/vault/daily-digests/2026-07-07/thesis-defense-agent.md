@@ -1,13 +1,38 @@
 ---
-title: "buan496/thesis-defense-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Pydantic", "Docker", "Docker Compose", "PostgreSQL", "Qdrant", "Milvus", "Prometheus", "Alertmanager", "Kubernetes", "pytest", "uv", "OpenAI-compatible SDK", "DeepSeek API", "BAAI/bge-m3", "BM25", "Hybrid Retrieval", "Reranker", "Query Rewrite"]
+title: buan496/thesis-defense-agent
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- FastAPI
+- Pydantic
+- Docker
+- Docker Compose
+- PostgreSQL
+- Qdrant
+- Milvus
+- Prometheus
+- Alertmanager
+- Kubernetes
+- pytest
+- uv
+- OpenAI-compatible SDK
+- DeepSeek API
+- BAAI/bge-m3
+- BM25
+- Hybrid Retrieval
+- Reranker
+- Query Rewrite
 quality_score: 9
 rag_relevance: 9
-tags: ["AI Agent Harness", "RAG Evaluation", "Tool Calling", "Memory Management", "Observability"]
-source: "https://github.com/buan496/thesis-defense-agent"
-discovered_at: "2026-07-07T16:24:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent Harness
+- RAG Evaluation
+- Tool Calling
+- Memory Management
+- Observability
+source: https://github.com/buan496/thesis-defense-agent
+discovered_at: '2026-07-07T16:24:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

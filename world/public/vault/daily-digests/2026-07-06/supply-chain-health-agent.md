@@ -1,13 +1,29 @@
 ---
-title: "dwnjuguna/Supply-Chain-Health-Agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Anthropic Claude SDK", "Streamlit", "SQLite", "MCP (Model Context Protocol)", "Claude Desktop", "Claude Code", "Gamma", "Slack API", "Jira API", "Stripe"]
+title: dwnjuguna/Supply-Chain-Health-Agent
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Python
+- Anthropic Claude SDK
+- Streamlit
+- SQLite
+- MCP (Model Context Protocol)
+- Claude Desktop
+- Claude Code
+- Gamma
+- Slack API
+- Jira API
+- Stripe
 quality_score: 9
 rag_relevance: 7
-tags: ["supply chain", "AI agent", "diagnostic tool", "MCP server", "benchmarking"]
-source: "https://github.com/dwnjuguna/Supply-Chain-Health-Agent"
-discovered_at: "2026-07-06T21:27:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- supply chain
+- AI agent
+- diagnostic tool
+- MCP server
+- benchmarking
+source: https://github.com/dwnjuguna/Supply-Chain-Health-Agent
+discovered_at: '2026-07-06T21:27:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

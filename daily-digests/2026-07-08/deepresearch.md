@@ -1,13 +1,23 @@
 ---
-title: "sapwoodgelly475/deepresearch"
-category: "Tooling"
-tech_stack: ["Spring Boot", "Spring AI", "Browserbase", "Java", "REST API"]
+title: sapwoodgelly475/deepresearch
+category: daily-digests/2026-07-08
+tech_stack:
+- Spring Boot
+- Spring AI
+- Browserbase
+- Java
+- REST API
 quality_score: 4
 rag_relevance: 7
-tags: ["research automation", "AI report generation", "Spring ecosystem", "browser automation", "API integration"]
-source: "https://github.com/sapwoodgelly475/deepresearch"
-discovered_at: "2026-07-08T11:00:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- research automation
+- AI report generation
+- Spring ecosystem
+- browser automation
+- API integration
+source: https://github.com/sapwoodgelly475/deepresearch
+discovered_at: '2026-07-08T11:00:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,32 @@
 ---
-title: "0ssy/prometheus"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "SQLite", "TypeScript", "Vite", "Tauri", "Rust", "Knowledge Graphs", "Ontology", "Multi-Agent Systems", "Plugin SDK", "Event Bus", "Reasoning Pipeline", "Simulation Engine"]
+title: 0ssy/prometheus
+category: world/public/vault/daily-digests/2026-07-12
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- TypeScript
+- Vite
+- Tauri
+- Rust
+- Knowledge Graphs
+- Ontology
+- Multi-Agent Systems
+- Plugin SDK
+- Event Bus
+- Reasoning Pipeline
+- Simulation Engine
 quality_score: 8
 rag_relevance: 9
-tags: ["digital twin", "multi-agent orchestration", "knowledge graph", "hardware abstraction", "local-first AI"]
-source: "https://github.com/0ssy/prometheus"
-discovered_at: "2026-07-10T18:22:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- digital twin
+- multi-agent orchestration
+- knowledge graph
+- hardware abstraction
+- local-first AI
+source: https://github.com/0ssy/prometheus
+discovered_at: '2026-07-10T18:22:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "MarcinMikula/PhoenixQA"
-category: "Tooling"
-tech_stack: ["Python", "Playwright", "React", "Vite", "Ollama", "Anthropic API", "SQLite", "Pytest", "TypeScript"]
+title: MarcinMikula/PhoenixQA
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Playwright
+- React
+- Vite
+- Ollama
+- Anthropic API
+- SQLite
+- Pytest
+- TypeScript
 quality_score: 8
 rag_relevance: 7
-tags: ["self-healing", "test automation", "LLM-powered", "frontend testing", "chaos engineering"]
-source: "https://github.com/MarcinMikula/PhoenixQA"
-discovered_at: "2026-06-24T18:48:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-healing
+- test automation
+- LLM-powered
+- frontend testing
+- chaos engineering
+source: https://github.com/MarcinMikula/PhoenixQA
+discovered_at: '2026-06-24T18:48:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "vk0dev/agent-cost-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "JSONL", "npm"]
+title: vk0dev/agent-cost-mcp
+category: daily-digests/2026-07-16
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- JSONL
+- npm
 quality_score: 9
 rag_relevance: 8
-tags: ["cost monitoring", "Claude Code", "local-first", "guardrails", "token attribution"]
-source: "https://github.com/vk0dev/agent-cost-mcp"
-discovered_at: "2026-07-13T06:15:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- cost monitoring
+- Claude Code
+- local-first
+- guardrails
+- token attribution
+source: https://github.com/vk0dev/agent-cost-mcp
+discovered_at: '2026-07-13T06:15:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

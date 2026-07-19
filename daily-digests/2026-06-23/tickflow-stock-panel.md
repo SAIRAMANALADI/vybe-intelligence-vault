@@ -1,13 +1,31 @@
 ---
-title: "shy3130/tickflow-stock-panel"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Polars", "DuckDB", "React", "TypeScript", "Docker", "TickFlow API", "vectorbt", "APScheduler", "Tailwind CSS", "Pydantic", "Parquet"]
+title: shy3130/tickflow-stock-panel
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- FastAPI
+- Polars
+- DuckDB
+- React
+- TypeScript
+- Docker
+- TickFlow API
+- vectorbt
+- APScheduler
+- Tailwind CSS
+- Pydantic
+- Parquet
 quality_score: 9
 rag_relevance: 7
-tags: ["quantitative trading", "stock analysis", "backtesting", "self-hosted", "A-share"]
-source: "https://github.com/shy3130/tickflow-stock-panel"
-discovered_at: "2026-06-23T08:55:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- quantitative trading
+- stock analysis
+- backtesting
+- self-hosted
+- A-share
+source: https://github.com/shy3130/tickflow-stock-panel
+discovered_at: '2026-06-23T08:55:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

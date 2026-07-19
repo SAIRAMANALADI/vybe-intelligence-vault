@@ -1,13 +1,29 @@
 ---
-title: "qadeer-ux/oh-my-codex-remix"
-category: "Orchestrator"
-tech_stack: ["Python", "YAML", "Node.js", "Docker", "OpenAI API", "Claude API", "FastAPI", "SQLAlchemy", "Pytest", "Pydantic", "GitHub Actions"]
+title: qadeer-ux/oh-my-codex-remix
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- YAML
+- Node.js
+- Docker
+- OpenAI API
+- Claude API
+- FastAPI
+- SQLAlchemy
+- Pytest
+- Pydantic
+- GitHub Actions
 quality_score: 8
 rag_relevance: 9
-tags: ["prompt engineering", "AI coding assistant", "orchestration", "code generation", "multi-project memory"]
-source: "https://github.com/qadeer-ux/oh-my-codex-remix"
-discovered_at: "2026-06-22T23:20:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- prompt engineering
+- AI coding assistant
+- orchestration
+- code generation
+- multi-project memory
+source: https://github.com/qadeer-ux/oh-my-codex-remix
+discovered_at: '2026-06-22T23:20:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

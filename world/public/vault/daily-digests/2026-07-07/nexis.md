@@ -1,13 +1,34 @@
 ---
-title: "rwetz/Nexis"
-category: "Tooling"
-tech_stack: ["Tauri 2", "Rust", "React 19", "TypeScript", "xterm.js", "CodeMirror 6", "Language Server Protocol (LSP)", "Debug Adapter Protocol (DAP)", "LM Studio", "MLX", "Ollama", "WebGL", "WebSocket", "SQLite", "PostgreSQL", "MySQL"]
+title: rwetz/Nexis
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Tauri 2
+- Rust
+- React 19
+- TypeScript
+- xterm.js
+- CodeMirror 6
+- Language Server Protocol (LSP)
+- Debug Adapter Protocol (DAP)
+- LM Studio
+- MLX
+- Ollama
+- WebGL
+- WebSocket
+- SQLite
+- PostgreSQL
+- MySQL
 quality_score: 9
 rag_relevance: 8
-tags: ["AI-native terminal", "multi-provider LLM integration", "offline AI capabilities", "developer environment", "cross-platform"]
-source: "https://github.com/rwetz/Nexis"
-discovered_at: "2026-07-07T06:42:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-native terminal
+- multi-provider LLM integration
+- offline AI capabilities
+- developer environment
+- cross-platform
+source: https://github.com/rwetz/Nexis
+discovered_at: '2026-07-07T06:42:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

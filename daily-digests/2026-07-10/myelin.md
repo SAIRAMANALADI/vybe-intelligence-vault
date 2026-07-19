@@ -1,13 +1,26 @@
 ---
-title: "Niraven/myelin"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "SQLite", "FTS5 (Full-Text Search)", "ClustalW-inspired multiple sequence alignment", "Bayesian confidence tracking", "Entity-relation graph databases", "Temporal state tracking"]
+title: Niraven/myelin
+category: daily-digests/2026-07-10
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- SQLite
+- FTS5 (Full-Text Search)
+- ClustalW-inspired multiple sequence alignment
+- Bayesian confidence tracking
+- Entity-relation graph databases
+- Temporal state tracking
 quality_score: 9
 rag_relevance: 8
-tags: ["procedural memory", "agent learning", "workflow automation", "MCP integration", "knowledge transfer"]
-source: "https://github.com/Niraven/myelin"
-discovered_at: "2026-07-10T06:53:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- procedural memory
+- agent learning
+- workflow automation
+- MCP integration
+- knowledge transfer
+source: https://github.com/Niraven/myelin
+discovered_at: '2026-07-10T06:53:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

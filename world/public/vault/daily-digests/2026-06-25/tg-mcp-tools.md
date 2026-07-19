@@ -1,13 +1,25 @@
 ---
-title: "ausievich/tg-mcp-tools"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MTProto (Telegram API)", "@mtcute/node", "@modelcontextprotocol/sdk", "zod", "dotenv"]
+title: ausievich/tg-mcp-tools
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- MTProto (Telegram API)
+- '@mtcute/node'
+- '@modelcontextprotocol/sdk'
+- zod
+- dotenv
 quality_score: 9
 rag_relevance: 8
-tags: ["Telegram integration", "MCP server", "AI agent tools", "Natural language digests", "Channel management"]
-source: "https://github.com/ausievich/tg-mcp-tools"
-discovered_at: "2026-06-25T14:17:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Telegram integration
+- MCP server
+- AI agent tools
+- Natural language digests
+- Channel management
+source: https://github.com/ausievich/tg-mcp-tools
+discovered_at: '2026-06-25T14:17:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "vcode-sh/dokploy-mcp"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Dokploy API", "REST", "CLI"]
+title: vcode-sh/dokploy-mcp
+category: daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Dokploy API
+- REST
+- CLI
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP server", "Dokploy integration", "AI agent tools", "deployment automation", "infrastructure management"]
-source: "https://github.com/vcode-sh/dokploy-mcp"
-discovered_at: "2026-07-09T14:45:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Dokploy integration
+- AI agent tools
+- deployment automation
+- infrastructure management
+source: https://github.com/vcode-sh/dokploy-mcp
+discovered_at: '2026-07-09T14:45:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "jonislutheran87/weclaw"
-category: "Tooling"
-tech_stack: ["Go", "Windows Desktop App", "WeChat API", "ClawBot", "OpenClaw"]
+title: jonislutheran87/weclaw
+category: daily-digests/2026-07-08
+tech_stack:
+- Go
+- Windows Desktop App
+- WeChat API
+- ClawBot
+- OpenClaw
 quality_score: 4
 rag_relevance: 3
-tags: ["WeChat integration", "AI agent bridge", "Windows desktop app", "automated chat", "account management"]
-source: "https://github.com/jonislutheran87/weclaw"
-discovered_at: "2026-07-08T11:00:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- WeChat integration
+- AI agent bridge
+- Windows desktop app
+- automated chat
+- account management
+source: https://github.com/jonislutheran87/weclaw
+discovered_at: '2026-07-08T11:00:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

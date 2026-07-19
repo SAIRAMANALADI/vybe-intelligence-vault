@@ -1,13 +1,23 @@
 ---
-title: "jeebusgoodwin-netizen/perform_comparison_1c_rag_mcp"
-category: "Tooling"
-tech_stack: ["Python", "Windows OS", "MCP (Model Context Protocol)", "1C:Enterprise", "Performance Benchmarking"]
+title: jeebusgoodwin-netizen/perform_comparison_1c_rag_mcp
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- Windows OS
+- MCP (Model Context Protocol)
+- 1C:Enterprise
+- Performance Benchmarking
 quality_score: 6
 rag_relevance: 7
-tags: ["benchmarking", "MCP servers", "1C code analysis", "performance comparison", "AI tooling"]
-source: "https://github.com/jeebusgoodwin-netizen/perform_comparison_1c_rag_mcp"
-discovered_at: "2026-07-06T19:49:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- benchmarking
+- MCP servers
+- 1C code analysis
+- performance comparison
+- AI tooling
+source: https://github.com/jeebusgoodwin-netizen/perform_comparison_1c_rag_mcp
+discovered_at: '2026-07-06T19:49:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

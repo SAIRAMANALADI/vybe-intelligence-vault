@@ -1,13 +1,24 @@
 ---
-title: "halftime-apricotsauce647/claude-research"
-category: "Tooling"
-tech_stack: ["VS Code", "Claude Code", "LaTeX", "Reveal.js", "HTML", "Windows"]
+title: halftime-apricotsauce647/claude-research
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- VS Code
+- Claude Code
+- LaTeX
+- Reveal.js
+- HTML
+- Windows
 quality_score: 6
 rag_relevance: 4
-tags: ["AI-assisted research", "academic writing", "literature review", "LaTeX export", "VS Code extension"]
-source: "https://github.com/halftime-apricotsauce647/claude-research"
-discovered_at: "2026-07-08T11:00:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-assisted research
+- academic writing
+- literature review
+- LaTeX export
+- VS Code extension
+source: https://github.com/halftime-apricotsauce647/claude-research
+discovered_at: '2026-07-08T11:00:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

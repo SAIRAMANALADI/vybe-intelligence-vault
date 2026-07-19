@@ -1,13 +1,25 @@
 ---
-title: "nowsprinting/mcp-extension-unity"
-category: "Tooling"
-tech_stack: ["Kotlin", "C#", "JetBrains Plugin API", "Unity Editor", "MCP Server", "Rider IDE", "HTTP/SSE"]
+title: nowsprinting/mcp-extension-unity
+category: daily-digests/2026-06-24
+tech_stack:
+- Kotlin
+- C#
+- JetBrains Plugin API
+- Unity Editor
+- MCP Server
+- Rider IDE
+- HTTP/SSE
 quality_score: 9
 rag_relevance: 8
-tags: ["Unity Editor", "MCP Server", "JetBrains Rider", "Coding Agents", "Test Automation"]
-source: "https://github.com/nowsprinting/mcp-extension-unity"
-discovered_at: "2026-06-24T13:23:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Unity Editor
+- MCP Server
+- JetBrains Rider
+- Coding Agents
+- Test Automation
+source: https://github.com/nowsprinting/mcp-extension-unity
+discovered_at: '2026-06-24T13:23:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

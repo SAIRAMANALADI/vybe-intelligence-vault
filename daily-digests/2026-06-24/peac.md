@@ -1,13 +1,28 @@
 ---
-title: "peacprotocol/peac"
-category: "Tooling"
-tech_stack: ["TypeScript", "JavaScript", "Node.js", "Go", "Python", "Ed25519", "JWK", "JWT", "HTTP Message Signatures", "COSE-Sign1"]
+title: peacprotocol/peac
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- JavaScript
+- Node.js
+- Go
+- Python
+- Ed25519
+- JWK
+- JWT
+- HTTP Message Signatures
+- COSE-Sign1
 quality_score: 9
 rag_relevance: 10
-tags: ["signed records", "verifiable evidence", "cross-boundary verification", "audit trail", "portable records"]
-source: "https://github.com/peacprotocol/peac"
-discovered_at: "2026-06-24T10:23:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- signed records
+- verifiable evidence
+- cross-boundary verification
+- audit trail
+- portable records
+source: https://github.com/peacprotocol/peac
+discovered_at: '2026-06-24T10:23:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

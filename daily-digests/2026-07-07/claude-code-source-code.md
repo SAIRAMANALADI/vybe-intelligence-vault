@@ -1,13 +1,23 @@
 ---
-title: "dhruv7291022-create/claude-code-source-code"
-category: "Tooling"
-tech_stack: ["Windows", "Electron", "JavaScript/TypeScript", "Claude API", "Desktop App"]
+title: dhruv7291022-create/claude-code-source-code
+category: daily-digests/2026-07-07
+tech_stack:
+- Windows
+- Electron
+- JavaScript/TypeScript
+- Claude API
+- Desktop App
 quality_score: 6
 rag_relevance: 4
-tags: ["Claude AI", "AI agents", "Windows desktop", "AI workflows", "Anthropic"]
-source: "https://github.com/dhruv7291022-create/claude-code-source-code"
-discovered_at: "2026-07-07T06:41:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude AI
+- AI agents
+- Windows desktop
+- AI workflows
+- Anthropic
+source: https://github.com/dhruv7291022-create/claude-code-source-code
+discovered_at: '2026-07-07T06:41:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

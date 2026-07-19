@@ -1,13 +1,30 @@
 ---
-title: "1304674612/agentbench"
-category: "Tooling"
-tech_stack: ["TypeScript", "Next.js", "React", "PostgreSQL", "Redis", "Docker", "Prisma", "Jest", "SSE (Server-Sent Events)", "Zod", "Tailwind CSS", "Radix UI"]
+title: 1304674612/agentbench
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Next.js
+- React
+- PostgreSQL
+- Redis
+- Docker
+- Prisma
+- Jest
+- SSE (Server-Sent Events)
+- Zod
+- Tailwind CSS
+- Radix UI
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent testing", "regression testing", "LLM evaluation", "CI/CD integration", "automated assertions"]
-source: "https://github.com/1304674612/agentbench"
-discovered_at: "2026-07-10T06:30:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent testing
+- regression testing
+- LLM evaluation
+- CI/CD integration
+- automated assertions
+source: https://github.com/1304674612/agentbench
+discovered_at: '2026-07-10T06:30:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

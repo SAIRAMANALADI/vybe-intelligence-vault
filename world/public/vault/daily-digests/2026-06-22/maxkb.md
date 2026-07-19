@@ -1,13 +1,25 @@
 ---
-title: "1Panel-dev/MaxKB"
-category: "Agent Framework"
-tech_stack: ["Python", "Django", "Vue.js", "LangChain", "PostgreSQL", "pgvector", "Docker"]
+title: 1Panel-dev/MaxKB
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- Django
+- Vue.js
+- LangChain
+- PostgreSQL
+- pgvector
+- Docker
 quality_score: 9
 rag_relevance: 10
-tags: ["RAG", "AI Agents", "Enterprise", "Multi-modal", "Workflow Orchestration"]
-source: "https://github.com/1Panel-dev/MaxKB"
-discovered_at: "2026-06-22T18:13:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RAG
+- AI Agents
+- Enterprise
+- Multi-modal
+- Workflow Orchestration
+source: https://github.com/1Panel-dev/MaxKB
+discovered_at: '2026-06-22T18:13:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

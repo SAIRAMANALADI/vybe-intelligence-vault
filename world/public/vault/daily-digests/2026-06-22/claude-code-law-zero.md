@@ -1,13 +1,21 @@
 ---
-title: "erickafram10/claude-code-law-zero"
-category: "Tooling"
-tech_stack: ["Windows", "Python (implied)", "System Tray Application"]
+title: erickafram10/claude-code-law-zero
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Windows
+- Python (implied)
+- System Tray Application
 quality_score: 6
 rag_relevance: 4
-tags: ["file management", "safe deletion", "Claude Code", "Windows utility", "rollback"]
-source: "https://github.com/erickafram10/claude-code-law-zero"
-discovered_at: "2026-06-22T18:55:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- file management
+- safe deletion
+- Claude Code
+- Windows utility
+- rollback
+source: https://github.com/erickafram10/claude-code-law-zero
+discovered_at: '2026-06-22T18:55:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

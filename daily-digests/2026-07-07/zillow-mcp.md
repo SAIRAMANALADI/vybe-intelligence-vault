@@ -1,13 +1,24 @@
 ---
-title: "ZeroPointRepo/zillow-mcp"
-category: "Tooling"
-tech_stack: ["Model Context Protocol (MCP)", "REST API", "OAuth 2.1", "Streamable HTTP", "JSON", "Zillow API"]
+title: ZeroPointRepo/zillow-mcp
+category: daily-digests/2026-07-07
+tech_stack:
+- Model Context Protocol (MCP)
+- REST API
+- OAuth 2.1
+- Streamable HTTP
+- JSON
+- Zillow API
 quality_score: 9
 rag_relevance: 8
-tags: ["real estate data", "MCP server", "Zillow integration", "AI agents", "property valuation"]
-source: "https://github.com/ZeroPointRepo/zillow-mcp"
-discovered_at: "2026-07-07T13:17:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- real estate data
+- MCP server
+- Zillow integration
+- AI agents
+- property valuation
+source: https://github.com/ZeroPointRepo/zillow-mcp
+discovered_at: '2026-07-07T13:17:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

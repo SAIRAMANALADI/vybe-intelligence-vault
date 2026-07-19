@@ -1,13 +1,29 @@
 ---
-title: "miracodeai/mira"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "PostgreSQL", "SQLite", "React", "TypeScript", "Docker", "GitHub API", "OpenRouter", "OSV.dev", "AWS Bedrock"]
+title: miracodeai/mira
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- FastAPI
+- PostgreSQL
+- SQLite
+- React
+- TypeScript
+- Docker
+- GitHub API
+- OpenRouter
+- OSV.dev
+- AWS Bedrock
 quality_score: 9
 rag_relevance: 8
-tags: ["code review", "self-hosted", "LLM integration", "vulnerability scanning", "dependency management"]
-source: "https://github.com/miracodeai/mira"
-discovered_at: "2026-06-23T13:41:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code review
+- self-hosted
+- LLM integration
+- vulnerability scanning
+- dependency management
+source: https://github.com/miracodeai/mira
+discovered_at: '2026-06-23T13:41:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

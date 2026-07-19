@@ -1,13 +1,26 @@
 ---
-title: "Yoodaddy0311/artibot"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "Claude Code", "Agent Teams API", "MCP Server", "Playwright", "Git", "TypeScript (partial)"]
+title: Yoodaddy0311/artibot
+category: daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- Node.js
+- Claude Code
+- Agent Teams API
+- MCP Server
+- Playwright
+- Git
+- TypeScript (partial)
 quality_score: 9
 rag_relevance: 8
-tags: ["Agent Orchestration", "Cognitive Architecture", "Self-Learning Systems", "Multi-Agent Teams", "Claude Code Plugin"]
-source: "https://github.com/Yoodaddy0311/artibot"
-discovered_at: "2026-07-08T05:47:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agent Orchestration
+- Cognitive Architecture
+- Self-Learning Systems
+- Multi-Agent Teams
+- Claude Code Plugin
+source: https://github.com/Yoodaddy0311/artibot
+discovered_at: '2026-07-08T05:47:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

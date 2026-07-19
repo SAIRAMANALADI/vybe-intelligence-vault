@@ -1,13 +1,23 @@
 ---
-title: "Atharvpatil112/nano-banana-2-ai"
-category: "Tooling"
-tech_stack: ["TypeScript", "Gemini 3.1 Flash Image", "Windows Desktop App", "Electron (assumed for desktop app)", "Open-source"]
+title: Atharvpatil112/nano-banana-2-ai
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Gemini 3.1 Flash Image
+- Windows Desktop App
+- Electron (assumed for desktop app)
+- Open-source
 quality_score: 7
 rag_relevance: 4
-tags: ["text-to-image", "4K image generation", "Gemini 3.1", "character consistency", "desktop app"]
-source: "https://github.com/Atharvpatil112/nano-banana-2-ai"
-discovered_at: "2026-06-23T23:09:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- text-to-image
+- 4K image generation
+- Gemini 3.1
+- character consistency
+- desktop app
+source: https://github.com/Atharvpatil112/nano-banana-2-ai
+discovered_at: '2026-06-23T23:09:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

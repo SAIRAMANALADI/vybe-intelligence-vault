@@ -1,13 +1,30 @@
 ---
-title: "ChenSiyun1234/closet-context"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "React", "Vite", "Express", "OpenAI Responses API", "Zod", "Chrome Extension (Manifest V3)", "Node.js", "Tailwind CSS (implied by screenshots)", "Playwright", "Oxlint", "Unsplash API"]
+title: ChenSiyun1234/closet-context
+category: world/public/vault/daily-digests/2026-07-13
+tech_stack:
+- TypeScript
+- React
+- Vite
+- Express
+- OpenAI Responses API
+- Zod
+- Chrome Extension (Manifest V3)
+- Node.js
+- Tailwind CSS (implied by screenshots)
+- Playwright
+- Oxlint
+- Unsplash API
 quality_score: 9
 rag_relevance: 7
-tags: ["Explainable AI", "Wardrobe Assistant", "Agent Transparency", "Multi-Surface UI", "Privacy-First"]
-source: "https://github.com/ChenSiyun1234/closet-context"
-discovered_at: "2026-07-10T20:21:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Explainable AI
+- Wardrobe Assistant
+- Agent Transparency
+- Multi-Surface UI
+- Privacy-First
+source: https://github.com/ChenSiyun1234/closet-context
+discovered_at: '2026-07-10T20:21:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

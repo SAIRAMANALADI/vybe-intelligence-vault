@@ -1,13 +1,29 @@
 ---
-title: "cometchat/cometchat-skills"
-category: "Tooling"
-tech_stack: ["JavaScript", "TypeScript", "React", "React Native", "Angular", "Android (Kotlin/Java)", "Flutter", "iOS (Swift)", "Node.js", "CLI", "AI Agent Integration"]
+title: cometchat/cometchat-skills
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- JavaScript
+- TypeScript
+- React
+- React Native
+- Angular
+- Android (Kotlin/Java)
+- Flutter
+- iOS (Swift)
+- Node.js
+- CLI
+- AI Agent Integration
 quality_score: 9
 rag_relevance: 8
-tags: ["chat integration", "AI agent automation", "multi-platform", "voice/video calls", "CometChat"]
-source: "https://github.com/cometchat/cometchat-skills"
-discovered_at: "2026-06-23T10:33:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- chat integration
+- AI agent automation
+- multi-platform
+- voice/video calls
+- CometChat
+source: https://github.com/cometchat/cometchat-skills
+discovered_at: '2026-06-23T10:33:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "Oolab-labs/patchwork-os"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "YAML", "MCP (Model Context Protocol)", "React (Dashboard)", "OAuth 2.0", "CI/CD (GitHub Actions)"]
+title: Oolab-labs/patchwork-os
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- Node.js
+- YAML
+- MCP (Model Context Protocol)
+- React (Dashboard)
+- OAuth 2.0
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI decision layer", "agent orchestration", "local-first automation", "approval workflows", "IDE integration"]
-source: "https://github.com/Oolab-labs/patchwork-os"
-discovered_at: "2026-07-16T12:22:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI decision layer
+- agent orchestration
+- local-first automation
+- approval workflows
+- IDE integration
+source: https://github.com/Oolab-labs/patchwork-os
+discovered_at: '2026-07-16T12:22:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

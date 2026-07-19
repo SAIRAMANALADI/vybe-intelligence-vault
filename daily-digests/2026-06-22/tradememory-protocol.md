@@ -1,13 +1,24 @@
 ---
-title: "Eltano1985/tradememory-protocol"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Windows", "MetaTrader 5", "Alpaca", "Binance"]
+title: Eltano1985/tradememory-protocol
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- FastAPI
+- Windows
+- MetaTrader 5
+- Alpaca
+- Binance
 quality_score: 6
 rag_relevance: 7
-tags: ["AI trading memory", "outcome-weighted learning", "trading automation", "quantitative trading", "server application"]
-source: "https://github.com/Eltano1985/tradememory-protocol"
-discovered_at: "2026-06-22T18:51:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI trading memory
+- outcome-weighted learning
+- trading automation
+- quantitative trading
+- server application
+source: https://github.com/Eltano1985/tradememory-protocol
+discovered_at: '2026-06-22T18:51:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

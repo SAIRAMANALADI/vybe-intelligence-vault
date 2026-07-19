@@ -1,13 +1,24 @@
 ---
-title: "cagataycali/strands-mcp-server"
-category: "Tooling"
-tech_stack: ["Python", "Strands Agents", "Model Context Protocol (MCP)", "HTTP", "stdio", "SSE"]
+title: cagataycali/strands-mcp-server
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- Python
+- Strands Agents
+- Model Context Protocol (MCP)
+- HTTP
+- stdio
+- SSE
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "Strands Agents", "Agent Integration", "Bidirectional Communication", "Tooling"]
-source: "https://github.com/cagataycali/strands-mcp-server"
-discovered_at: "2026-07-15T23:02:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- Strands Agents
+- Agent Integration
+- Bidirectional Communication
+- Tooling
+source: https://github.com/cagataycali/strands-mcp-server
+discovered_at: '2026-07-15T23:02:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

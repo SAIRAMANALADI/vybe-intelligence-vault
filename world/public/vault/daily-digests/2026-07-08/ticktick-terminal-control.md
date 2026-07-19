@@ -1,13 +1,28 @@
 ---
-title: "sreypovrupp/ticktick-terminal-control"
-category: "Tooling"
-tech_stack: ["Python", "YAML", "OpenAI API", "Claude API", "TickTick API v2", "systemd/launchd/Task Scheduler", "D-Bus", "ASCII art rendering", "Natural Language Processing", "Cron scheduling"]
+title: sreypovrupp/ticktick-terminal-control
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- YAML
+- OpenAI API
+- Claude API
+- TickTick API v2
+- systemd/launchd/Task Scheduler
+- D-Bus
+- ASCII art rendering
+- Natural Language Processing
+- Cron scheduling
 quality_score: 8
 rag_relevance: 7
-tags: ["task automation", "CLI productivity", "AI-powered task management", "cross-platform synchronization", "state-machine architecture"]
-source: "https://github.com/sreypovrupp/ticktick-terminal-control"
-discovered_at: "2026-07-08T12:25:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- task automation
+- CLI productivity
+- AI-powered task management
+- cross-platform synchronization
+- state-machine architecture
+source: https://github.com/sreypovrupp/ticktick-terminal-control
+discovered_at: '2026-07-08T12:25:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

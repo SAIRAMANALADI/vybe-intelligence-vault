@@ -1,13 +1,23 @@
 ---
-title: "Bboybo/canvo"
-category: "Tooling"
-tech_stack: ["Python", "Windows Desktop Application", "Linux Sandbox", "AI Model Integration (ChatGPT, Claude, Gemini, Local LLMs)", "Visual Canvas (Drag-and-drop UI)"]
+title: Bboybo/canvo
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- Windows Desktop Application
+- Linux Sandbox
+- AI Model Integration (ChatGPT, Claude, Gemini, Local LLMs)
+- Visual Canvas (Drag-and-drop UI)
 quality_score: 6
 rag_relevance: 7
-tags: ["AI Agent", "Data Visualization", "Local Processing", "Linux Sandbox", "Privacy-Focused"]
-source: "https://github.com/Bboybo/canvo"
-discovered_at: "2026-07-08T02:07:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent
+- Data Visualization
+- Local Processing
+- Linux Sandbox
+- Privacy-Focused
+source: https://github.com/Bboybo/canvo
+discovered_at: '2026-07-08T02:07:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "chuspeeism/dashiAI-ppt-skill"
-category: "Tooling"
-tech_stack: ["JavaScript", "HTML/CSS", "Node.js", "Puppeteer (for PDF/PPTX export)", "JSON (for structured content)", "Claude Code", "Codex", "\u8c46\u5305"]
+title: chuspeeism/dashiAI-ppt-skill
+category: daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- HTML/CSS
+- Node.js
+- Puppeteer (for PDF/PPTX export)
+- JSON (for structured content)
+- Claude Code
+- Codex
+- 豆包
 quality_score: 9
 rag_relevance: 7
-tags: ["presentation generation", "AI agent skill", "PPTX export", "browser-editable PPT", "visual themes"]
-source: "https://github.com/chuspeeism/dashiAI-ppt-skill"
-discovered_at: "2026-07-08T08:17:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- presentation generation
+- AI agent skill
+- PPTX export
+- browser-editable PPT
+- visual themes
+source: https://github.com/chuspeeism/dashiAI-ppt-skill
+discovered_at: '2026-07-08T08:17:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

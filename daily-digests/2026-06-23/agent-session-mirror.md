@@ -1,13 +1,27 @@
 ---
-title: "makoy-daniot2001/agent-session-mirror"
-category: "Tooling"
-tech_stack: ["Node.js", "BM25", "Semantic Search", "Cross-Encoder Reranking", "OpenAI API", "Claude API", "YAML", "Mermaid.js", "React (for UI)"]
+title: makoy-daniot2001/agent-session-mirror
+category: daily-digests/2026-06-23
+tech_stack:
+- Node.js
+- BM25
+- Semantic Search
+- Cross-Encoder Reranking
+- OpenAI API
+- Claude API
+- YAML
+- Mermaid.js
+- React (for UI)
 quality_score: 8
 rag_relevance: 9
-tags: ["session observability", "hybrid retrieval", "self-benchmarking", "AI agent instrumentation", "code search optimization"]
-source: "https://github.com/makoy-daniot2001/agent-session-mirror"
-discovered_at: "2026-06-23T16:35:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- session observability
+- hybrid retrieval
+- self-benchmarking
+- AI agent instrumentation
+- code search optimization
+source: https://github.com/makoy-daniot2001/agent-session-mirror
+discovered_at: '2026-06-23T16:35:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

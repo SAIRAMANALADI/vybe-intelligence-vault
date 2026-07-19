@@ -1,13 +1,24 @@
 ---
-title: "wanaku-ai/wanaku"
-category: "Orchestrator"
-tech_stack: ["Java", "Apache Camel", "Model Context Protocol (MCP)", "Kubernetes", "Keycloak", "CLI"]
+title: wanaku-ai/wanaku
+category: daily-digests/2026-06-24
+tech_stack:
+- Java
+- Apache Camel
+- Model Context Protocol (MCP)
+- Kubernetes
+- Keycloak
+- CLI
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP router", "AI orchestration", "resource management", "LLM integration", "Kubernetes-native"]
-source: "https://github.com/wanaku-ai/wanaku"
-discovered_at: "2026-06-24T13:24:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP router
+- AI orchestration
+- resource management
+- LLM integration
+- Kubernetes-native
+source: https://github.com/wanaku-ai/wanaku
+discovered_at: '2026-06-24T13:24:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

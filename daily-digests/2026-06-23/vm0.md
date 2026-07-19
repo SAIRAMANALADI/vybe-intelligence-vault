@@ -1,13 +1,29 @@
 ---
-title: "vm0-ai/vm0"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Firecracker microVM", "Slack API", "GitHub API", "Linear API", "Notion API", "Sentry", "Google Workspace APIs", "React", "Next.js"]
+title: vm0-ai/vm0
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- Firecracker microVM
+- Slack API
+- GitHub API
+- Linear API
+- Notion API
+- Sentry
+- Google Workspace APIs
+- React
+- Next.js
 quality_score: 9
 rag_relevance: 7
-tags: ["autonomous agents", "workflow automation", "multi-tool integration", "context-aware AI", "enterprise productivity"]
-source: "https://github.com/vm0-ai/vm0"
-discovered_at: "2026-06-23T08:54:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- workflow automation
+- multi-tool integration
+- context-aware AI
+- enterprise productivity
+source: https://github.com/vm0-ai/vm0
+discovered_at: '2026-06-23T08:54:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

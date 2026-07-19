@@ -1,13 +1,27 @@
 ---
-title: "apu1k/simple-ai-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Textual (TUI framework)", "OpenAI API", "OpenAI-compatible APIs", "LLM Responses API", "Chat Completions API", "JSON tool execution", "TOML (configuration)", "Pytest (testing)"]
+title: apu1k/simple-ai-agent
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- Textual (TUI framework)
+- OpenAI API
+- OpenAI-compatible APIs
+- LLM Responses API
+- Chat Completions API
+- JSON tool execution
+- TOML (configuration)
+- Pytest (testing)
 quality_score: 9
 rag_relevance: 8
-tags: ["local AI agent", "terminal UI", "tool execution", "file editing", "LLM integration"]
-source: "https://github.com/apu1k/simple-ai-agent"
-discovered_at: "2026-06-25T05:04:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local AI agent
+- terminal UI
+- tool execution
+- file editing
+- LLM integration
+source: https://github.com/apu1k/simple-ai-agent
+discovered_at: '2026-06-25T05:04:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

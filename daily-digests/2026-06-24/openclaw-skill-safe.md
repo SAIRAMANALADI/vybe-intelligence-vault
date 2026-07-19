@@ -1,13 +1,20 @@
 ---
-title: "cyrustmods/OPENCLAW-SKILL-SAFE"
-category: "Tooling"
-tech_stack: ["PHP", "Shell Scripting"]
+title: cyrustmods/OPENCLAW-SKILL-SAFE
+category: daily-digests/2026-06-24
+tech_stack:
+- PHP
+- Shell Scripting
 quality_score: 3
 rag_relevance: 4
-tags: ["skill validation", "safety audit", "OpenClaw", "PHP tools", "quality assurance"]
-source: "https://github.com/cyrustmods/OPENCLAW-SKILL-SAFE"
-discovered_at: "2026-06-24T16:17:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- skill validation
+- safety audit
+- OpenClaw
+- PHP tools
+- quality assurance
+source: https://github.com/cyrustmods/OPENCLAW-SKILL-SAFE
+discovered_at: '2026-06-24T16:17:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

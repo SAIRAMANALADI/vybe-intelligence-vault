@@ -1,13 +1,25 @@
 ---
-title: "CorpusIQ/corpusiq-docs"
-category: "Tooling"
-tech_stack: ["Model Context Protocol (MCP)", "REST API", "OAuth", "Markdown", "HTML", "JavaScript (for integrations)", "Python (for backend services)"]
+title: CorpusIQ/corpusiq-docs
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Model Context Protocol (MCP)
+- REST API
+- OAuth
+- Markdown
+- HTML
+- JavaScript (for integrations)
+- Python (for backend services)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI connectors", "business intelligence", "MCP protocol", "autonomous agents", "data integration"]
-source: "https://github.com/CorpusIQ/corpusiq-docs"
-discovered_at: "2026-06-23T21:33:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI connectors
+- business intelligence
+- MCP protocol
+- autonomous agents
+- data integration
+source: https://github.com/CorpusIQ/corpusiq-docs
+discovered_at: '2026-06-23T21:33:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

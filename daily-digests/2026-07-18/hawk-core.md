@@ -1,13 +1,27 @@
 ---
-title: "snraydogan86-ux/hawk-core"
-category: "Agent Framework"
-tech_stack: ["Python", "Qwen3-8B", "QLoRA", "PyTorch", "FastAPI", "Hugging Face Transformers", "GPU Serving", "SQLite/Vector DB (for memory)", "Benchmarking Framework"]
+title: snraydogan86-ux/hawk-core
+category: daily-digests/2026-07-18
+tech_stack:
+- Python
+- Qwen3-8B
+- QLoRA
+- PyTorch
+- FastAPI
+- Hugging Face Transformers
+- GPU Serving
+- SQLite/Vector DB (for memory)
+- Benchmarking Framework
 quality_score: 9
 rag_relevance: 8
-tags: ["Agentic AI", "Fine-tuned LLM", "Multi-agent Orchestration", "Persistent Memory", "Self-Healing"]
-source: "https://github.com/snraydogan86-ux/hawk-core"
-discovered_at: "2026-07-17T20:05:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agentic AI
+- Fine-tuned LLM
+- Multi-agent Orchestration
+- Persistent Memory
+- Self-Healing
+source: https://github.com/snraydogan86-ux/hawk-core
+discovered_at: '2026-07-17T20:05:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

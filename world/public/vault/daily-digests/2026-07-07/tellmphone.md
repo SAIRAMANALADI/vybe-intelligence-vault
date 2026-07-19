@@ -1,13 +1,24 @@
 ---
-title: "CaliforniaOpenSource/tellmphone"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "CLI Tools", "JSON", "TOML", "Subprocess Management"]
+title: CaliforniaOpenSource/tellmphone
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- CLI Tools
+- JSON
+- TOML
+- Subprocess Management
 quality_score: 9
 rag_relevance: 8
-tags: ["agent orchestration", "multi-agent communication", "MCP server", "coding assistants", "local AI interactions"]
-source: "https://github.com/CaliforniaOpenSource/tellmphone"
-discovered_at: "2026-07-07T16:26:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent orchestration
+- multi-agent communication
+- MCP server
+- coding assistants
+- local AI interactions
+source: https://github.com/CaliforniaOpenSource/tellmphone
+discovered_at: '2026-07-07T16:26:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

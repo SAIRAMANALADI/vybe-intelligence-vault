@@ -1,13 +1,22 @@
 ---
-title: "leor2707/Financial-Research-Agent-2026"
-category: "Tooling"
-tech_stack: ["Python", "Windows Desktop App", "Financial APIs", "Natural Language Processing"]
+title: leor2707/Financial-Research-Agent-2026
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- Windows Desktop App
+- Financial APIs
+- Natural Language Processing
 quality_score: 6
 rag_relevance: 5
-tags: ["financial research", "desktop agent", "stock analysis", "investment automation", "Windows tool"]
-source: "https://github.com/leor2707/Financial-Research-Agent-2026"
-discovered_at: "2026-07-19T07:29:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- financial research
+- desktop agent
+- stock analysis
+- investment automation
+- Windows tool
+source: https://github.com/leor2707/Financial-Research-Agent-2026
+discovered_at: '2026-07-19T07:29:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

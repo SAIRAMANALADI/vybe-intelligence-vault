@@ -1,13 +1,26 @@
 ---
-title: "kenny0312/videosense-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Gemini 2.5", "PostgreSQL + pgvector", "Google Cloud Run", "BigQuery", "Redis", "Google Cloud Storage"]
+title: kenny0312/videosense-agent
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- FastAPI
+- Gemini 2.5
+- PostgreSQL + pgvector
+- Google Cloud Run
+- BigQuery
+- Redis
+- Google Cloud Storage
 quality_score: 9
 rag_relevance: 8
-tags: ["video analysis", "multi-modal agent", "tool-use loop", "verifiable answers", "Gemini integration"]
-source: "https://github.com/kenny0312/videosense-agent"
-discovered_at: "2026-07-09T19:29:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- video analysis
+- multi-modal agent
+- tool-use loop
+- verifiable answers
+- Gemini integration
+source: https://github.com/kenny0312/videosense-agent
+discovered_at: '2026-07-09T19:29:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

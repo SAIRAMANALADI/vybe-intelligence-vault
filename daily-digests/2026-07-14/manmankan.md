@@ -1,13 +1,26 @@
 ---
-title: "piklen/manmankan"
-category: "Tooling"
-tech_stack: ["Python", "CLI", "JSON API", "MCP (Model Context Protocol)", "AKShare", "TuShare", "XDG Base Directory Specification", "AGPL-3.0"]
+title: piklen/manmankan
+category: daily-digests/2026-07-14
+tech_stack:
+- Python
+- CLI
+- JSON API
+- MCP (Model Context Protocol)
+- AKShare
+- TuShare
+- XDG Base Directory Specification
+- AGPL-3.0
 quality_score: 9
 rag_relevance: 8
-tags: ["A-share", "local-first", "stock analysis", "data aggregation", "AI-readable API"]
-source: "https://github.com/piklen/manmankan"
-discovered_at: "2026-07-10T13:10:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- A-share
+- local-first
+- stock analysis
+- data aggregation
+- AI-readable API
+source: https://github.com/piklen/manmankan
+discovered_at: '2026-07-10T13:10:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

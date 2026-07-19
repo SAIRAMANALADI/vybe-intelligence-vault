@@ -1,13 +1,28 @@
 ---
-title: "CariBosio/mentis-rag-agent"
-category: "Agent Framework"
-tech_stack: ["React", "TypeScript", "Vite", "Cohere (Chat Model y Embeddings)", "Neon Serverless PostgreSQL (pgvector)", "n8n", "GSAP", "Telegram Bot API", "Vercel", "Hugging Face Spaces"]
+title: CariBosio/mentis-rag-agent
+category: daily-digests/2026-07-13
+tech_stack:
+- React
+- TypeScript
+- Vite
+- Cohere (Chat Model y Embeddings)
+- Neon Serverless PostgreSQL (pgvector)
+- n8n
+- GSAP
+- Telegram Bot API
+- Vercel
+- Hugging Face Spaces
 quality_score: 9
 rag_relevance: 9
-tags: ["RAG", "Omnicanal", "Psicolog\u00eda Cl\u00ednica", "n8n", "Cohere"]
-source: "https://github.com/CariBosio/mentis-rag-agent"
-discovered_at: "2026-07-13T23:53:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RAG
+- Omnicanal
+- Psicología Clínica
+- n8n
+- Cohere
+source: https://github.com/CariBosio/mentis-rag-agent
+discovered_at: '2026-07-13T23:53:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

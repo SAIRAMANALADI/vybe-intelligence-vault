@@ -1,13 +1,22 @@
 ---
-title: "s2mgtvodois2/postgresql-mcp-js"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun Runtime", "PostgreSQL", "Model Context Protocol (MCP)"]
+title: s2mgtvodois2/postgresql-mcp-js
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Bun Runtime
+- PostgreSQL
+- Model Context Protocol (MCP)
 quality_score: 6
 rag_relevance: 7
-tags: ["PostgreSQL", "MCP Server", "Database Management", "Bun Runtime", "LLM Integration"]
-source: "https://github.com/s2mgtvodois2/postgresql-mcp-js"
-discovered_at: "2026-06-24T10:21:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- PostgreSQL
+- MCP Server
+- Database Management
+- Bun Runtime
+- LLM Integration
+source: https://github.com/s2mgtvodois2/postgresql-mcp-js
+discovered_at: '2026-06-24T10:21:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "junter1989k-ai/vietnam-payments-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "HMAC-SHA256", "HMAC-SHA512", "REST API", "JSON-RPC"]
+title: junter1989k-ai/vietnam-payments-mcp
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- HMAC-SHA256
+- HMAC-SHA512
+- REST API
+- JSON-RPC
 quality_score: 8
 rag_relevance: 7
-tags: ["payment processing", "Vietnam", "MoMo", "VNPay", "AI agents"]
-source: "https://github.com/junter1989k-ai/vietnam-payments-mcp"
-discovered_at: "2026-07-08T19:16:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- payment processing
+- Vietnam
+- MoMo
+- VNPay
+- AI agents
+source: https://github.com/junter1989k-ai/vietnam-payments-mcp
+discovered_at: '2026-07-08T19:16:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

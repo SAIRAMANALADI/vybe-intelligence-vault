@@ -1,13 +1,23 @@
 ---
-title: "Garnel-Diffo/ai-driven-financial"
-category: "UI Component"
-tech_stack: ["JavaScript", "React", "React Router", "Tailwind CSS", "Vite"]
+title: Garnel-Diffo/ai-driven-financial
+category: daily-digests/2026-06-22
+tech_stack:
+- JavaScript
+- React
+- React Router
+- Tailwind CSS
+- Vite
 quality_score: 5
 rag_relevance: 4
-tags: ["financial analytics", "predictive modeling", "desktop application", "data visualization", "AI-driven insights"]
-source: "https://github.com/Garnel-Diffo/ai-driven-financial"
-discovered_at: "2026-06-22T23:23:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- financial analytics
+- predictive modeling
+- desktop application
+- data visualization
+- AI-driven insights
+source: https://github.com/Garnel-Diffo/ai-driven-financial
+discovered_at: '2026-06-22T23:23:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

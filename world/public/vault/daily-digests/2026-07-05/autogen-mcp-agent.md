@@ -1,13 +1,22 @@
 ---
-title: "armanjscript/Autogen-MCP-Agent"
-category: "Agent Framework"
-tech_stack: ["Python", "AutoGen", "Model Context Protocol (MCP)", "APIs (weather, search)"]
+title: armanjscript/Autogen-MCP-Agent
+category: world/public/vault/daily-digests/2026-07-05
+tech_stack:
+- Python
+- AutoGen
+- Model Context Protocol (MCP)
+- APIs (weather, search)
 quality_score: 4
 rag_relevance: 7
-tags: ["agent-automation", "file-management", "weather-api", "search-integration", "autogen"]
-source: "https://github.com/armanjscript/Autogen-MCP-Agent"
-discovered_at: "2026-07-05T20:59:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent-automation
+- file-management
+- weather-api
+- search-integration
+- autogen
+source: https://github.com/armanjscript/Autogen-MCP-Agent
+discovered_at: '2026-07-05T20:59:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

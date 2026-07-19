@@ -1,13 +1,22 @@
 ---
-title: "MakiDevelop/mcp-lighthouse"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "JSON-RPC 2.0", "CLI"]
+title: MakiDevelop/mcp-lighthouse
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- JSON-RPC 2.0
+- CLI
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "audit", "compliance", "server validation", "JSON-RPC"]
-source: "https://github.com/MakiDevelop/mcp-lighthouse"
-discovered_at: "2026-06-23T06:50:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- audit
+- compliance
+- server validation
+- JSON-RPC
+source: https://github.com/MakiDevelop/mcp-lighthouse
+discovered_at: '2026-06-23T06:50:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

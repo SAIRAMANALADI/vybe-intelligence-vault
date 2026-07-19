@@ -1,13 +1,27 @@
 ---
-title: "RalfHuesing/SqlToAi"
-category: "Tooling"
-tech_stack: ["C#", ".NET 10", "Microsoft.Data.SqlClient", "Dapper", "System.Text.Json", "Microsoft.Extensions.DependencyInjection", "Microsoft.Extensions.Logging", "Serilog", "xUnit"]
+title: RalfHuesing/SqlToAi
+category: world/public/vault/daily-digests/2026-07-12
+tech_stack:
+- C#
+- .NET 10
+- Microsoft.Data.SqlClient
+- Dapper
+- System.Text.Json
+- Microsoft.Extensions.DependencyInjection
+- Microsoft.Extensions.Logging
+- Serilog
+- xUnit
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP server", "SQL Server", "PII anonymization", "read-only queries", "AI database interaction"]
-source: "https://github.com/RalfHuesing/SqlToAi"
-discovered_at: "2026-07-12T17:03:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- SQL Server
+- PII anonymization
+- read-only queries
+- AI database interaction
+source: https://github.com/RalfHuesing/SqlToAi
+discovered_at: '2026-07-12T17:03:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

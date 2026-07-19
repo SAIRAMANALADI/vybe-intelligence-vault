@@ -1,13 +1,25 @@
 ---
-title: "db-lyon/ue-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "C++", "Unreal Engine API", "MCP (Model Context Protocol)", "YAML", "PythonScriptPlugin"]
+title: db-lyon/ue-mcp
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- C++
+- Unreal Engine API
+- MCP (Model Context Protocol)
+- YAML
+- PythonScriptPlugin
 quality_score: 9
 rag_relevance: 8
-tags: ["Unreal Engine", "MCP Server", "AI Integration", "Game Development", "Automation"]
-source: "https://github.com/db-lyon/ue-mcp"
-discovered_at: "2026-06-24T18:54:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Unreal Engine
+- MCP Server
+- AI Integration
+- Game Development
+- Automation
+source: https://github.com/db-lyon/ue-mcp
+discovered_at: '2026-06-24T18:54:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

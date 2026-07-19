@@ -1,13 +1,23 @@
 ---
-title: "protealesmicroelectronics246/claude-watch"
-category: "Tooling"
-tech_stack: ["Swift", "Apple Watch SDK", "Windows Executable", "Networking", "Bluetooth"]
+title: protealesmicroelectronics246/claude-watch
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Swift
+- Apple Watch SDK
+- Windows Executable
+- Networking
+- Bluetooth
 quality_score: 6
 rag_relevance: 3
-tags: ["Apple Watch integration", "Claude Code control", "remote task management", "wearable computing", "local execution"]
-source: "https://github.com/protealesmicroelectronics246/claude-watch"
-discovered_at: "2026-07-08T11:00:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Apple Watch integration
+- Claude Code control
+- remote task management
+- wearable computing
+- local execution
+source: https://github.com/protealesmicroelectronics246/claude-watch
+discovered_at: '2026-07-08T11:00:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

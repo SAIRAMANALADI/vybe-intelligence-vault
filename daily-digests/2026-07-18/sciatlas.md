@@ -1,13 +1,25 @@
 ---
-title: "zjunlp/SciAtlas"
-category: "Orchestrator"
-tech_stack: ["Python", "CLI", "REST API", "Knowledge Graph", "Graph Database", "LLM Integration", "Docker"]
+title: zjunlp/SciAtlas
+category: daily-digests/2026-07-18
+tech_stack:
+- Python
+- CLI
+- REST API
+- Knowledge Graph
+- Graph Database
+- LLM Integration
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["knowledge graph", "literature review", "scientific research", "automated workflows", "agent skills"]
-source: "https://github.com/zjunlp/SciAtlas"
-discovered_at: "2026-07-16T15:00:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- knowledge graph
+- literature review
+- scientific research
+- automated workflows
+- agent skills
+source: https://github.com/zjunlp/SciAtlas
+discovered_at: '2026-07-16T15:00:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "secret-fort290/Claude-Code"
-category: "UI Component"
-tech_stack: ["Windows Desktop App", "Electron (assumed)", "JavaScript/TypeScript (assumed)", "React (assumed)", "Bun (mentioned in metadata)", "MCP (mentioned in metadata)"]
+title: secret-fort290/Claude-Code
+category: daily-digests/2026-07-07
+tech_stack:
+- Windows Desktop App
+- Electron (assumed)
+- JavaScript/TypeScript (assumed)
+- React (assumed)
+- Bun (mentioned in metadata)
+- MCP (mentioned in metadata)
 quality_score: 5
 rag_relevance: 3
-tags: ["Windows desktop app", "task management", "user-friendly interface", "Claude workflow", "lightweight tool"]
-source: "https://github.com/secret-fort290/Claude-Code"
-discovered_at: "2026-07-07T06:42:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Windows desktop app
+- task management
+- user-friendly interface
+- Claude workflow
+- lightweight tool
+source: https://github.com/secret-fort290/Claude-Code
+discovered_at: '2026-07-07T06:42:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

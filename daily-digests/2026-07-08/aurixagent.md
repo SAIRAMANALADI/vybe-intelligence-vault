@@ -1,13 +1,27 @@
 ---
-title: "DekaPrayoga/AurixAgent"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Bun", "Playwright", "NPM", "CLI", "Terminal UI", "Vision Models", "API Integration"]
+title: DekaPrayoga/AurixAgent
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- Bun
+- Playwright
+- NPM
+- CLI
+- Terminal UI
+- Vision Models
+- API Integration
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous agents", "browser automation", "multi-agent systems", "CTF tools", "terminal workspace"]
-source: "https://github.com/DekaPrayoga/AurixAgent"
-discovered_at: "2026-07-08T17:25:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- browser automation
+- multi-agent systems
+- CTF tools
+- terminal workspace
+source: https://github.com/DekaPrayoga/AurixAgent
+discovered_at: '2026-07-08T17:25:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

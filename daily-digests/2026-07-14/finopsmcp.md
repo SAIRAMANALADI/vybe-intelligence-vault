@@ -1,13 +1,27 @@
 ---
-title: "getnable/finopsmcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "SQLite", "AWS SDK", "Azure SDK", "GCP SDK", "Fernet (encryption)", "uv (package manager)", "Claude/Cursor MCP integration"]
+title: getnable/finopsmcp
+category: daily-digests/2026-07-14
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- SQLite
+- AWS SDK
+- Azure SDK
+- GCP SDK
+- Fernet (encryption)
+- uv (package manager)
+- Claude/Cursor MCP integration
 quality_score: 9
 rag_relevance: 8
-tags: ["FinOps", "Cost Optimization", "MCP Server", "AI Agent Integration", "Multi-Cloud"]
-source: "https://github.com/getnable/finopsmcp"
-discovered_at: "2026-07-14T21:56:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- FinOps
+- Cost Optimization
+- MCP Server
+- AI Agent Integration
+- Multi-Cloud
+source: https://github.com/getnable/finopsmcp
+discovered_at: '2026-07-14T21:56:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

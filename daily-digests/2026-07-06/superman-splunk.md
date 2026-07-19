@@ -1,13 +1,23 @@
 ---
-title: "lyndondefunct151/superman-splunk"
-category: "Tooling"
-tech_stack: ["Markdown", "AI Skill Framework", "Splunk", "Python", "REST API"]
+title: lyndondefunct151/superman-splunk
+category: daily-digests/2026-07-06
+tech_stack:
+- Markdown
+- AI Skill Framework
+- Splunk
+- Python
+- REST API
 quality_score: 9
 rag_relevance: 8
-tags: ["Splunk", "LLM augmentation", "SPL", "Enterprise Security", "AI skill"]
-source: "https://github.com/lyndondefunct151/superman-splunk"
-discovered_at: "2026-07-06T19:48:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Splunk
+- LLM augmentation
+- SPL
+- Enterprise Security
+- AI skill
+source: https://github.com/lyndondefunct151/superman-splunk
+discovered_at: '2026-07-06T19:48:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

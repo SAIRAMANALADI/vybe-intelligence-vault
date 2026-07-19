@@ -1,13 +1,27 @@
 ---
-title: "japananh/aimonitor"
-category: "Tooling"
-tech_stack: ["Go", "SQLite", "macOS Keychain", "Linux libsecret", "GitHub Actions", "Argon2id", "AES-256-GCM", "MCP (Model Context Protocol)", "Swift (for macOS app UI)"]
+title: japananh/aimonitor
+category: daily-digests/2026-07-08
+tech_stack:
+- Go
+- SQLite
+- macOS Keychain
+- Linux libsecret
+- GitHub Actions
+- Argon2id
+- AES-256-GCM
+- MCP (Model Context Protocol)
+- Swift (for macOS app UI)
 quality_score: 9
 rag_relevance: 7
-tags: ["Claude Code", "Anthropic API", "multi-account management", "automatic switching", "token usage monitoring"]
-source: "https://github.com/japananh/aimonitor"
-discovered_at: "2026-07-08T11:00:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- Anthropic API
+- multi-account management
+- automatic switching
+- token usage monitoring
+source: https://github.com/japananh/aimonitor
+discovered_at: '2026-07-08T11:00:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

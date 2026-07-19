@@ -1,13 +1,26 @@
 ---
-title: "stalin670/plangy"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "npm", "Mermaid.js", "Markdown", "HTML/CSS", "Server-Sent Events (SSE)", "CLI"]
+title: stalin670/plangy
+category: daily-digests/2026-06-23
+tech_stack:
+- JavaScript
+- Node.js
+- npm
+- Mermaid.js
+- Markdown
+- HTML/CSS
+- Server-Sent Events (SSE)
+- CLI
 quality_score: 9
 rag_relevance: 7
-tags: ["plan visualization", "AI agent workflow", "project planning", "live-reload", "markdown rendering"]
-source: "https://github.com/stalin670/plangy"
-discovered_at: "2026-06-23T10:34:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- plan visualization
+- AI agent workflow
+- project planning
+- live-reload
+- markdown rendering
+source: https://github.com/stalin670/plangy
+discovered_at: '2026-06-23T10:34:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

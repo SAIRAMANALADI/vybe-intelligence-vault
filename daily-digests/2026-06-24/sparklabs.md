@@ -1,13 +1,31 @@
 ---
-title: "Yuan-ManX/SparkLabs"
-category: "Orchestrator"
-tech_stack: ["C++", "Python", "React", "TypeScript", "Vite", "Tailwind CSS", "WebSocket", "LLM Providers (OpenAI, Anthropic, DeepSeek, Ollama)", "ONNX Runtime", "Node.js", "CMake", "Uvicorn", "FastAPI"]
+title: Yuan-ManX/SparkLabs
+category: daily-digests/2026-06-24
+tech_stack:
+- C++
+- Python
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- WebSocket
+- LLM Providers (OpenAI, Anthropic, DeepSeek, Ollama)
+- ONNX Runtime
+- Node.js
+- CMake
+- Uvicorn
+- FastAPI
 quality_score: 9
 rag_relevance: 7
-tags: ["AI-native game engine", "multi-agent orchestration", "procedural content generation", "neural rendering", "NPC intelligence"]
-source: "https://github.com/Yuan-ManX/SparkLabs"
-discovered_at: "2026-06-24T16:13:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-native game engine
+- multi-agent orchestration
+- procedural content generation
+- neural rendering
+- NPC intelligence
+source: https://github.com/Yuan-ManX/SparkLabs
+discovered_at: '2026-06-24T16:13:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

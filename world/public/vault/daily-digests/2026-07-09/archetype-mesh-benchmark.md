@@ -1,13 +1,29 @@
 ---
-title: "IT-Help-San-Diego/archetype-mesh-benchmark"
-category: "Tooling"
-tech_stack: ["Rust", "Axum", "Tokio", "SQLx", "PostgreSQL", "reqwest", "SHA-3", "LM Studio REST API", "OpenAI-compatible endpoints", "HTML/CSS (zero frameworks)", "Server-Sent Events (SSE)"]
+title: IT-Help-San-Diego/archetype-mesh-benchmark
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Rust
+- Axum
+- Tokio
+- SQLx
+- PostgreSQL
+- reqwest
+- SHA-3
+- LM Studio REST API
+- OpenAI-compatible endpoints
+- HTML/CSS (zero frameworks)
+- Server-Sent Events (SSE)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI benchmarking", "local-first evaluation", "auditable evidence", "model performance testing", "RAG optimization"]
-source: "https://github.com/IT-Help-San-Diego/archetype-mesh-benchmark"
-discovered_at: "2026-07-09T19:30:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI benchmarking
+- local-first evaluation
+- auditable evidence
+- model performance testing
+- RAG optimization
+source: https://github.com/IT-Help-San-Diego/archetype-mesh-benchmark
+discovered_at: '2026-07-09T19:30:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

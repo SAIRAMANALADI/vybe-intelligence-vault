@@ -1,13 +1,29 @@
 ---
-title: "icoretech/airbroke"
-category: "Tooling"
-tech_stack: ["TypeScript", "Next.js", "React", "PostgreSQL", "Prisma", "Tailwind CSS", "Docker", "Kubernetes", "Helm", "Better Auth", "MCP API"]
+title: icoretech/airbroke
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Next.js
+- React
+- PostgreSQL
+- Prisma
+- Tailwind CSS
+- Docker
+- Kubernetes
+- Helm
+- Better Auth
+- MCP API
 quality_score: 9
 rag_relevance: 8
-tags: ["error monitoring", "postgresql", "airbrake alternative", "sentry alternative", "ai debugging"]
-source: "https://github.com/icoretech/airbroke"
-discovered_at: "2026-06-24T13:24:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- error monitoring
+- postgresql
+- airbrake alternative
+- sentry alternative
+- ai debugging
+source: https://github.com/icoretech/airbroke
+discovered_at: '2026-06-24T13:24:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

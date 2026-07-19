@@ -1,13 +1,26 @@
 ---
-title: "worldop123/aether-os"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "pnpm", "Vitest", "ESM", "EventEmitter", "better-sqlite3"]
+title: worldop123/aether-os
+category: daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- pnpm
+- Vitest
+- ESM
+- EventEmitter
+- better-sqlite3
 quality_score: 9
 rag_relevance: 9
-tags: ["AI Agent Runtime", "Stateful Orchestration", "Memory Management", "Process Isolation", "MCP/A2A Standards"]
-source: "https://github.com/worldop123/aether-os"
-discovered_at: "2026-06-22T23:20:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent Runtime
+- Stateful Orchestration
+- Memory Management
+- Process Isolation
+- MCP/A2A Standards
+source: https://github.com/worldop123/aether-os
+discovered_at: '2026-06-22T23:20:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

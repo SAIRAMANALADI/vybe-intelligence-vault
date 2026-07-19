@@ -1,13 +1,22 @@
 ---
-title: "tinyfish-io/agentql-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "AgentQL API"]
+title: tinyfish-io/agentql-mcp
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- AgentQL API
 quality_score: 8
 rag_relevance: 9
-tags: ["web scraping", "data extraction", "MCP server", "AgentQL", "structured data"]
-source: "https://github.com/tinyfish-io/agentql-mcp"
-discovered_at: "2026-07-07T22:09:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web scraping
+- data extraction
+- MCP server
+- AgentQL
+- structured data
+source: https://github.com/tinyfish-io/agentql-mcp
+discovered_at: '2026-07-07T22:09:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

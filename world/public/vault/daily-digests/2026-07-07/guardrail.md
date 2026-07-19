@@ -1,13 +1,21 @@
 ---
-title: "Rosalyndfaithful716/Guardrail"
-category: "Tooling"
-tech_stack: ["TypeScript", "Windows Desktop App", "AST (Abstract Syntax Tree)"]
+title: Rosalyndfaithful716/Guardrail
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Windows Desktop App
+- AST (Abstract Syntax Tree)
 quality_score: 7
 rag_relevance: 8
-tags: ["code scanning", "AI safety", "security validation", "performance optimization", "Windows tool"]
-source: "https://github.com/Rosalyndfaithful716/Guardrail"
-discovered_at: "2026-07-07T20:51:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code scanning
+- AI safety
+- security validation
+- performance optimization
+- Windows tool
+source: https://github.com/Rosalyndfaithful716/Guardrail
+discovered_at: '2026-07-07T20:51:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

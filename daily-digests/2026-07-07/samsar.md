@@ -1,13 +1,32 @@
 ---
-title: "samsarone/samsar"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "Docker", "Kubernetes", "MongoDB", "MinIO", "React", "Express", "OpenAI API", "Google Cloud AI", "ElevenLabs", "FFmpeg", "Loki", "Grafana"]
+title: samsarone/samsar
+category: daily-digests/2026-07-07
+tech_stack:
+- JavaScript
+- Node.js
+- Docker
+- Kubernetes
+- MongoDB
+- MinIO
+- React
+- Express
+- OpenAI API
+- Google Cloud AI
+- ElevenLabs
+- FFmpeg
+- Loki
+- Grafana
 quality_score: 9
 rag_relevance: 7
-tags: ["video generation", "AI orchestration", "generative AI", "media processing", "workflow automation"]
-source: "https://github.com/samsarone/samsar"
-discovered_at: "2026-07-07T06:41:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- video generation
+- AI orchestration
+- generative AI
+- media processing
+- workflow automation
+source: https://github.com/samsarone/samsar
+discovered_at: '2026-07-07T06:41:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

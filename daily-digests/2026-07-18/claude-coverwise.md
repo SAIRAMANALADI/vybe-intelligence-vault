@@ -1,13 +1,26 @@
 ---
-title: "libraz/claude-coverwise"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js (>=22)", "Yarn 4", "Biome (linting)", "Model Context Protocol (MCP)", "WASM (coverwise engine)", "TypeScript", "Claude Code"]
+title: libraz/claude-coverwise
+category: daily-digests/2026-07-18
+tech_stack:
+- JavaScript
+- Node.js (>=22)
+- Yarn 4
+- Biome (linting)
+- Model Context Protocol (MCP)
+- WASM (coverwise engine)
+- TypeScript
+- Claude Code
 quality_score: 9
 rag_relevance: 8
-tags: ["combinatorial testing", "pairwise coverage", "AI test generation", "MCP server", "constraint solver"]
-source: "https://github.com/libraz/claude-coverwise"
-discovered_at: "2026-07-15T10:48:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- combinatorial testing
+- pairwise coverage
+- AI test generation
+- MCP server
+- constraint solver
+source: https://github.com/libraz/claude-coverwise
+discovered_at: '2026-07-15T10:48:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

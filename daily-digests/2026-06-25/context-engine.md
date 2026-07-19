@@ -1,13 +1,23 @@
 ---
-title: "pallavi-borra/context-engine"
-category: "Tooling"
-tech_stack: ["Electron", "Markdown", "JavaScript/TypeScript", "Python (potential backend)", "Desktop Application Framework"]
+title: pallavi-borra/context-engine
+category: daily-digests/2026-06-25
+tech_stack:
+- Electron
+- Markdown
+- JavaScript/TypeScript
+- Python (potential backend)
+- Desktop Application Framework
 quality_score: 5
 rag_relevance: 7
-tags: ["business context", "AI agents", "documentation", "productivity", "structured knowledge"]
-source: "https://github.com/pallavi-borra/context-engine"
-discovered_at: "2026-06-25T00:13:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- business context
+- AI agents
+- documentation
+- productivity
+- structured knowledge
+source: https://github.com/pallavi-borra/context-engine
+discovered_at: '2026-06-25T00:13:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

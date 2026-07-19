@@ -1,13 +1,27 @@
 ---
-title: "lml2468/octobuddy"
-category: "Orchestrator"
-tech_stack: ["Go", "Wails v3", "Svelte 5", "SQLite", "NDJSON", "Unix Domain Sockets", "TypeScript", "Claude Code", "WuKongIM"]
+title: lml2468/octobuddy
+category: daily-digests/2026-06-23
+tech_stack:
+- Go
+- Wails v3
+- Svelte 5
+- SQLite
+- NDJSON
+- Unix Domain Sockets
+- TypeScript
+- Claude Code
+- WuKongIM
 quality_score: 9
 rag_relevance: 8
-tags: ["agent gateway", "multi-agent orchestration", "prompt injection defense", "desktop app", "sandboxing"]
-source: "https://github.com/lml2468/octobuddy"
-discovered_at: "2026-06-23T10:38:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent gateway
+- multi-agent orchestration
+- prompt injection defense
+- desktop app
+- sandboxing
+source: https://github.com/lml2468/octobuddy
+discovered_at: '2026-06-23T10:38:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

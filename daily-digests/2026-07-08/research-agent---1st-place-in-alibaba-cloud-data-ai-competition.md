@@ -1,13 +1,23 @@
 ---
-title: "Crinolineflexion823/Research-Agent---1st-place-in-Alibaba-Cloud-Data-AI-Competition"
-category: "Agent Framework"
-tech_stack: ["Python", "Qwen (LLM)", "Web Search APIs", "Content Extraction", "ReAct (Reasoning-Action Framework)"]
+title: Crinolineflexion823/Research-Agent---1st-place-in-Alibaba-Cloud-Data-AI-Competition
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- Qwen (LLM)
+- Web Search APIs
+- Content Extraction
+- ReAct (Reasoning-Action Framework)
 quality_score: 6
 rag_relevance: 8
-tags: ["multi-hop reasoning", "evidence-based research", "web content extraction", "agentic workflow", "Alibaba Cloud competition"]
-source: "https://github.com/Crinolineflexion823/Research-Agent---1st-place-in-Alibaba-Cloud-Data-AI-Competition"
-discovered_at: "2026-07-08T22:15:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-hop reasoning
+- evidence-based research
+- web content extraction
+- agentic workflow
+- Alibaba Cloud competition
+source: https://github.com/Crinolineflexion823/Research-Agent---1st-place-in-Alibaba-Cloud-Data-AI-Competition
+discovered_at: '2026-07-08T22:15:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

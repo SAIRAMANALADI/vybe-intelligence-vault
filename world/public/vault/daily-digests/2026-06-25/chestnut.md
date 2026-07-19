@@ -1,13 +1,24 @@
 ---
-title: "nutshell-dev/chestnut"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "pnpm", "Git", "LLM Providers (Ollama, Anthropic, OpenAI, DeepSeek, Gemini)", "CLI"]
+title: nutshell-dev/chestnut
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- pnpm
+- Git
+- LLM Providers (Ollama, Anthropic, OpenAI, DeepSeek, Gemini)
+- CLI
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agents", "intent-driven", "contract-based execution", "local-first", "verification gates"]
-source: "https://github.com/nutshell-dev/chestnut"
-discovered_at: "2026-06-25T08:30:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- intent-driven
+- contract-based execution
+- local-first
+- verification gates
+source: https://github.com/nutshell-dev/chestnut
+discovered_at: '2026-06-25T08:30:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

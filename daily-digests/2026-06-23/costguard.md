@@ -1,13 +1,34 @@
 ---
-title: "mbanderas/costguard"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "GitHub Actions", "Vercel", "Supabase", "Railway", "Netlify", "Neon", "Cloudflare", "Fly", "Render", "Sentry", "Upstash", "MongoDB Atlas", "Datadog"]
+title: mbanderas/costguard
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- GitHub Actions
+- Vercel
+- Supabase
+- Railway
+- Netlify
+- Neon
+- Cloudflare
+- Fly
+- Render
+- Sentry
+- Upstash
+- MongoDB Atlas
+- Datadog
 quality_score: 9
 rag_relevance: 8
-tags: ["cost optimization", "CI/CD audit", "cloud infrastructure", "MCP server", "automated fixes"]
-source: "https://github.com/mbanderas/costguard"
-discovered_at: "2026-06-23T16:31:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- cost optimization
+- CI/CD audit
+- cloud infrastructure
+- MCP server
+- automated fixes
+source: https://github.com/mbanderas/costguard
+discovered_at: '2026-06-23T16:31:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

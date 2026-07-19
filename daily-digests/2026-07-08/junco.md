@@ -1,13 +1,26 @@
 ---
-title: "ironforgesoftware/junco"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Git", "GitHub CLI", "OpenAI-compatible inference endpoints", "Terminal UI (TUI)", "YAML", "Markdown"]
+title: ironforgesoftware/junco
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- Git
+- GitHub CLI
+- OpenAI-compatible inference endpoints
+- Terminal UI (TUI)
+- YAML
+- Markdown
 quality_score: 9
 rag_relevance: 8
-tags: ["automation", "coding agent", "pull request generation", "local-first", "workflow orchestration"]
-source: "https://github.com/ironforgesoftware/junco"
-discovered_at: "2026-07-08T17:24:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- automation
+- coding agent
+- pull request generation
+- local-first
+- workflow orchestration
+source: https://github.com/ironforgesoftware/junco
+discovered_at: '2026-07-08T17:24:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "mongodb-js/mongodb-mcp-server"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "MongoDB", "Model Context Protocol (MCP)", "Docker", "Atlas API"]
+title: mongodb-js/mongodb-mcp-server
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- MongoDB
+- Model Context Protocol (MCP)
+- Docker
+- Atlas API
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP server", "MongoDB integration", "AI tooling", "database automation", "Atlas API"]
-source: "https://github.com/mongodb-js/mongodb-mcp-server"
-discovered_at: "2026-07-07T22:08:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- MongoDB integration
+- AI tooling
+- database automation
+- Atlas API
+source: https://github.com/mongodb-js/mongodb-mcp-server
+discovered_at: '2026-07-07T22:08:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

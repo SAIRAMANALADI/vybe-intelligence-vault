@@ -1,13 +1,28 @@
 ---
-title: "sero-labs/sero"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Electron", "React", "Node.js", "Pi Agent Framework", "Docker", "Apple Container", "Vitest", "pnpm", "RSPress"]
+title: sero-labs/sero
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- TypeScript
+- Electron
+- React
+- Node.js
+- Pi Agent Framework
+- Docker
+- Apple Container
+- Vitest
+- pnpm
+- RSPress
 quality_score: 9
 rag_relevance: 8
-tags: ["agent-native workspace", "local-first AI", "desktop shell", "plugin architecture", "persistent memory"]
-source: "https://github.com/sero-labs/sero"
-discovered_at: "2026-07-12T20:42:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent-native workspace
+- local-first AI
+- desktop shell
+- plugin architecture
+- persistent memory
+source: https://github.com/sero-labs/sero
+discovered_at: '2026-07-12T20:42:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

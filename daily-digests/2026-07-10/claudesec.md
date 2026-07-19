@@ -1,13 +1,22 @@
 ---
-title: "Videoa7917/ClaudeSec"
-category: "Tooling"
-tech_stack: ["Claude Opus", "Python", "OWASP Top 10", "PTES (Penetration Testing Execution Standard)"]
+title: Videoa7917/ClaudeSec
+category: daily-digests/2026-07-10
+tech_stack:
+- Claude Opus
+- Python
+- OWASP Top 10
+- PTES (Penetration Testing Execution Standard)
 quality_score: 4
 rag_relevance: 7
-tags: ["security assessment", "automation", "vulnerability scanning", "OWASP compliance", "AI-driven security"]
-source: "https://github.com/Videoa7917/ClaudeSec"
-discovered_at: "2026-07-10T06:16:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- security assessment
+- automation
+- vulnerability scanning
+- OWASP compliance
+- AI-driven security
+source: https://github.com/Videoa7917/ClaudeSec
+discovered_at: '2026-07-10T06:16:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

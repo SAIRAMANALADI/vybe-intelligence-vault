@@ -1,13 +1,24 @@
 ---
-title: "furbon/navlyn"
-category: "Tooling"
-tech_stack: ["C#", ".NET", "Roslyn", "MSBuild", "MCP (Model Context Protocol)", "CLI"]
+title: furbon/navlyn
+category: daily-digests/2026-07-14
+tech_stack:
+- C#
+- .NET
+- Roslyn
+- MSBuild
+- MCP (Model Context Protocol)
+- CLI
 quality_score: 8
 rag_relevance: 9
-tags: ["semantic code navigation", "AI agent tooling", "C#/.NET analysis", "MCP server", "code investigation"]
-source: "https://github.com/furbon/navlyn"
-discovered_at: "2026-07-12T22:44:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- semantic code navigation
+- AI agent tooling
+- C#/.NET analysis
+- MCP server
+- code investigation
+source: https://github.com/furbon/navlyn
+discovered_at: '2026-07-12T22:44:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

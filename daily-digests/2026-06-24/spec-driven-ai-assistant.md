@@ -1,13 +1,31 @@
 ---
-title: "vishnu1432/spec-driven-ai-assistant"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "TypeScript", "Go", "Rust", "Java", "C#", "Docker", "Kubernetes", "OpenAI API", "Claude API", "WebSocket", "Markdown"]
+title: vishnu1432/spec-driven-ai-assistant
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- FastAPI
+- TypeScript
+- Go
+- Rust
+- Java
+- C#
+- Docker
+- Kubernetes
+- OpenAI API
+- Claude API
+- WebSocket
+- Markdown
 quality_score: 8
 rag_relevance: 9
-tags: ["spec-driven development", "autonomous coding", "code generation", "AI validation", "traceability"]
-source: "https://github.com/vishnu1432/spec-driven-ai-assistant"
-discovered_at: "2026-06-24T20:44:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- spec-driven development
+- autonomous coding
+- code generation
+- AI validation
+- traceability
+source: https://github.com/vishnu1432/spec-driven-ai-assistant
+discovered_at: '2026-06-24T20:44:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

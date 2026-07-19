@@ -1,13 +1,28 @@
 ---
-title: "vbkotecha/agentcourt-api"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Pydantic", "Docker", "x402 (USDC on Base)", "ERC-8183", "ADRP (IETF draft)", "MCP (Model Context Protocol)", "JavaScript/TypeScript", "Postman"]
+title: vbkotecha/agentcourt-api
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- FastAPI
+- Pydantic
+- Docker
+- x402 (USDC on Base)
+- ERC-8183
+- ADRP (IETF draft)
+- MCP (Model Context Protocol)
+- JavaScript/TypeScript
+- Postman
 quality_score: 9
 rag_relevance: 10
-tags: ["dispute resolution", "AI agent commerce", "policy engine", "deterministic rulings", "x402 integration"]
-source: "https://github.com/vbkotecha/agentcourt-api"
-discovered_at: "2026-06-23T16:34:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- dispute resolution
+- AI agent commerce
+- policy engine
+- deterministic rulings
+- x402 integration
+source: https://github.com/vbkotecha/agentcourt-api
+discovered_at: '2026-06-23T16:34:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

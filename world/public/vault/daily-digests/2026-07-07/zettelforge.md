@@ -1,13 +1,29 @@
 ---
-title: "ThreatRecall/zettelforge"
-category: "Tooling"
-tech_stack: ["Python", "STIX 2.1", "SQLite", "LanceDB", "fastembed (ONNX)", "llama-cpp-python", "Ollama", "Claude Code MCP", "OCSF (audit logging)", "Regex", "LLM NER"]
+title: ThreatRecall/zettelforge
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- STIX 2.1
+- SQLite
+- LanceDB
+- fastembed (ONNX)
+- llama-cpp-python
+- Ollama
+- Claude Code MCP
+- OCSF (audit logging)
+- Regex
+- LLM NER
 quality_score: 9
 rag_relevance: 10
-tags: ["CTI memory", "knowledge graph", "agentic RAG", "offline-first", "STIX 2.1"]
-source: "https://github.com/ThreatRecall/zettelforge"
-discovered_at: "2026-07-07T02:32:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CTI memory
+- knowledge graph
+- agentic RAG
+- offline-first
+- STIX 2.1
+source: https://github.com/ThreatRecall/zettelforge
+discovered_at: '2026-07-07T02:32:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

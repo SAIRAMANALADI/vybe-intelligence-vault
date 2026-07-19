@@ -1,13 +1,28 @@
 ---
-title: "clidey/whodb"
-category: "Tooling"
-tech_stack: ["Go", "TypeScript", "React", "Docker", "PostgreSQL", "MySQL", "SQLite", "MongoDB", "Redis", "Elasticsearch"]
+title: clidey/whodb
+category: daily-digests/2026-07-19
+tech_stack:
+- Go
+- TypeScript
+- React
+- Docker
+- PostgreSQL
+- MySQL
+- SQLite
+- MongoDB
+- Redis
+- Elasticsearch
 quality_score: 9
 rag_relevance: 7
-tags: ["database management", "self-hosted", "data exploration", "AI integration", "multi-database support"]
-source: "https://github.com/clidey/whodb"
-discovered_at: "2026-07-16T15:00:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- database management
+- self-hosted
+- data exploration
+- AI integration
+- multi-database support
+source: https://github.com/clidey/whodb
+discovered_at: '2026-07-16T15:00:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "looseleaf-acrylic560/claude-md-generator"
-category: "Tooling"
-tech_stack: ["Python", "Windows Installer", "File System Scanning", "Markdown Generation"]
+title: looseleaf-acrylic560/claude-md-generator
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Windows Installer
+- File System Scanning
+- Markdown Generation
 quality_score: 6
 rag_relevance: 5
-tags: ["documentation automation", "governance files", "project setup", "Claude Code", "team collaboration"]
-source: "https://github.com/looseleaf-acrylic560/claude-md-generator"
-discovered_at: "2026-06-23T02:47:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- documentation automation
+- governance files
+- project setup
+- Claude Code
+- team collaboration
+source: https://github.com/looseleaf-acrylic560/claude-md-generator
+discovered_at: '2026-06-23T02:47:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "partymola/fitbit-mcp"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "OAuth 2.0 PKCE", "Model Context Protocol (MCP)", "Fitbit Web API"]
+title: partymola/fitbit-mcp
+category: world/public/vault/daily-digests/2026-07-13
+tech_stack:
+- Python
+- SQLite
+- OAuth 2.0 PKCE
+- Model Context Protocol (MCP)
+- Fitbit Web API
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "Fitbit integration", "OAuth PKCE", "local caching", "health data"]
-source: "https://github.com/partymola/fitbit-mcp"
-discovered_at: "2026-07-11T22:44:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Fitbit integration
+- OAuth PKCE
+- local caching
+- health data
+source: https://github.com/partymola/fitbit-mcp
+discovered_at: '2026-07-11T22:44:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

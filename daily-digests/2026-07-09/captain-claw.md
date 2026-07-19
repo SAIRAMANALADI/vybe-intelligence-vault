@@ -1,13 +1,32 @@
 ---
-title: "kstevica/captain-claw"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "SQLite", "FTS5", "Git", "Docker", "React", "TypeScript", "Ollama", "OpenAI API", "Anthropic API", "Google Gemini API", "DeepSeek API", "OpenRouter"]
+title: kstevica/captain-claw
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- FTS5
+- Git
+- Docker
+- React
+- TypeScript
+- Ollama
+- OpenAI API
+- Anthropic API
+- Google Gemini API
+- DeepSeek API
+- OpenRouter
 quality_score: 9
 rag_relevance: 9
-tags: ["multi-agent orchestration", "agentic coding", "self-hosted", "deterministic workflows", "model-agnostic"]
-source: "https://github.com/kstevica/captain-claw"
-discovered_at: "2026-07-09T11:52:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent orchestration
+- agentic coding
+- self-hosted
+- deterministic workflows
+- model-agnostic
+source: https://github.com/kstevica/captain-claw
+discovered_at: '2026-07-09T11:52:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

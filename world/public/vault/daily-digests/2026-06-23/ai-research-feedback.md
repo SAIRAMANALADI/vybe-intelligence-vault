@@ -1,13 +1,23 @@
 ---
-title: "Labrat025/AI-research-feedback"
-category: "Tooling"
-tech_stack: ["Python", "Natural Language Processing (NLP)", "Windows Command Line", "JSON", "AI Agents"]
+title: Labrat025/AI-research-feedback
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Natural Language Processing (NLP)
+- Windows Command Line
+- JSON
+- AI Agents
 quality_score: 7
 rag_relevance: 6
-tags: ["academic paper review", "multi-agent AI", "pre-submission feedback", "economics research", "automated proofreading"]
-source: "https://github.com/Labrat025/AI-research-feedback"
-discovered_at: "2026-06-23T23:04:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- academic paper review
+- multi-agent AI
+- pre-submission feedback
+- economics research
+- automated proofreading
+source: https://github.com/Labrat025/AI-research-feedback
+discovered_at: '2026-06-23T23:04:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

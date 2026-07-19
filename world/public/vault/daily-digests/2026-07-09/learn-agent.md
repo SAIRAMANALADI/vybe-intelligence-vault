@@ -1,13 +1,29 @@
 ---
-title: "LienJack/learn-agent"
-category: "Tooling"
-tech_stack: ["Astro", "Markdown/MDX", "Mermaid", "Node.js", "pnpm", "Redis", "MySQL", "PostgreSQL", "LLM", "RAG", "AI Agent Frameworks"]
+title: LienJack/learn-agent
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Astro
+- Markdown/MDX
+- Mermaid
+- Node.js
+- pnpm
+- Redis
+- MySQL
+- PostgreSQL
+- LLM
+- RAG
+- AI Agent Frameworks
 quality_score: 8
 rag_relevance: 7
-tags: ["AI Agent", "Claude Code", "Database", "Redis", "Engineering Education"]
-source: "https://github.com/LienJack/learn-agent"
-discovered_at: "2026-07-09T04:46:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent
+- Claude Code
+- Database
+- Redis
+- Engineering Education
+source: https://github.com/LienJack/learn-agent
+discovered_at: '2026-07-09T04:46:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

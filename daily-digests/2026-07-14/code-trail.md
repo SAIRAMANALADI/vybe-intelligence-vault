@@ -1,13 +1,26 @@
 ---
-title: "Praveenlahiru01/code-trail"
-category: "Tooling"
-tech_stack: ["Python", "OpenAI API", "Claude API", "REST API", "WebSocket", "Docker", "JavaScript", "HTML/CSS"]
+title: Praveenlahiru01/code-trail
+category: daily-digests/2026-07-14
+tech_stack:
+- Python
+- OpenAI API
+- Claude API
+- REST API
+- WebSocket
+- Docker
+- JavaScript
+- HTML/CSS
 quality_score: 8
 rag_relevance: 7
-tags: ["AI coding assistant", "decision traceability", "development history", "collaborative coding", "context preservation"]
-source: "https://github.com/Praveenlahiru01/code-trail"
-discovered_at: "2026-07-10T23:08:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding assistant
+- decision traceability
+- development history
+- collaborative coding
+- context preservation
+source: https://github.com/Praveenlahiru01/code-trail
+discovered_at: '2026-07-10T23:08:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

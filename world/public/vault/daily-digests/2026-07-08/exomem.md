@@ -1,13 +1,28 @@
 ---
-title: "Artexis10/exomem"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "SQLite", "FastAPI", "PyTorch", "CLIP", "BM25", "Obsidian", "Markdown", "Docker"]
+title: Artexis10/exomem
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- SQLite
+- FastAPI
+- PyTorch
+- CLIP
+- BM25
+- Obsidian
+- Markdown
+- Docker
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP server", "knowledge management", "local-first RAG", "Obsidian integration", "agent orchestration"]
-source: "https://github.com/Artexis10/exomem"
-discovered_at: "2026-07-08T21:01:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- knowledge management
+- local-first RAG
+- Obsidian integration
+- agent orchestration
+source: https://github.com/Artexis10/exomem
+discovered_at: '2026-07-08T21:01:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

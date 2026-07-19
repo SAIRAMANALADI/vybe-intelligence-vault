@@ -1,13 +1,23 @@
 ---
-title: "yandifei/ShittimTerminal"
-category: "Agent Framework"
-tech_stack: ["Python", "AI/ML frameworks (unspecified)", "Natural Language Processing (NLP)", "Voice Control", "Desktop Application Development"]
+title: yandifei/ShittimTerminal
+category: daily-digests/2026-07-01
+tech_stack:
+- Python
+- AI/ML frameworks (unspecified)
+- Natural Language Processing (NLP)
+- Voice Control
+- Desktop Application Development
 quality_score: 3
 rag_relevance: 5
-tags: ["AI companion", "desktop terminal", "voice control", "task automation", "emotional intelligence"]
-source: "https://github.com/yandifei/ShittimTerminal"
-discovered_at: "2026-07-01T15:39:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI companion
+- desktop terminal
+- voice control
+- task automation
+- emotional intelligence
+source: https://github.com/yandifei/ShittimTerminal
+discovered_at: '2026-07-01T15:39:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

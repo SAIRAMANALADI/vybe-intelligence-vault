@@ -1,13 +1,22 @@
 ---
-title: "alejandrade5748/mendeley-cli"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Mendeley API", "Command-line Interface"]
+title: alejandrade5748/mendeley-cli
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- JavaScript
+- Node.js
+- Mendeley API
+- Command-line Interface
 quality_score: 6
 rag_relevance: 7
-tags: ["academic references", "BibTeX", "research automation", "citation management", "AI integration"]
-source: "https://github.com/alejandrade5748/mendeley-cli"
-discovered_at: "2026-06-24T06:42:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- academic references
+- BibTeX
+- research automation
+- citation management
+- AI integration
+source: https://github.com/alejandrade5748/mendeley-cli
+discovered_at: '2026-06-24T06:42:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

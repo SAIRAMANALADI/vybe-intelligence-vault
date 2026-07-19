@@ -1,13 +1,23 @@
 ---
-title: "laolaoshiren/claude-code-skills-zh"
-category: "Tooling"
-tech_stack: ["Claude Code", "Python", "Markdown", "Git", "Shell"]
+title: laolaoshiren/claude-code-skills-zh
+category: daily-digests/2026-06-23
+tech_stack:
+- Claude Code
+- Python
+- Markdown
+- Git
+- Shell
 quality_score: 9
 rag_relevance: 7
-tags: ["Claude Code", "AI Skills", "Code Review", "Documentation", "Chinese Localization"]
-source: "https://github.com/laolaoshiren/claude-code-skills-zh"
-discovered_at: "2026-06-23T08:56:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- AI Skills
+- Code Review
+- Documentation
+- Chinese Localization
+source: https://github.com/laolaoshiren/claude-code-skills-zh
+discovered_at: '2026-06-23T08:56:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

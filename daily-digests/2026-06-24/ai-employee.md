@@ -1,13 +1,30 @@
 ---
-title: "greeves89/AI-Employee"
-category: "Orchestrator"
-tech_stack: ["Python", "Docker", "PostgreSQL", "Claude Code CLI", "BAAI/bge-m3 (embeddings)", "FastAPI", "React", "Telegram Bot API", "Microsoft Graph API", "STT/TTS (Speech-to-Text/Text-to-Speech)", "OAuth", "Git (for knowledge base versioning)"]
+title: greeves89/AI-Employee
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Docker
+- PostgreSQL
+- Claude Code CLI
+- BAAI/bge-m3 (embeddings)
+- FastAPI
+- React
+- Telegram Bot API
+- Microsoft Graph API
+- STT/TTS (Speech-to-Text/Text-to-Speech)
+- OAuth
+- Git (for knowledge base versioning)
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent systems", "self-hosted", "governance", "compliance", "Docker isolation"]
-source: "https://github.com/greeves89/AI-Employee"
-discovered_at: "2026-06-24T10:22:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- self-hosted
+- governance
+- compliance
+- Docker isolation
+source: https://github.com/greeves89/AI-Employee
+discovered_at: '2026-06-24T10:22:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "voxanne1478/markdown-note-app"
-category: "Tooling"
-tech_stack: ["JavaScript", "Electron", "Markdown", "HTML/CSS"]
+title: voxanne1478/markdown-note-app
+category: daily-digests/2026-07-15
+tech_stack:
+- JavaScript
+- Electron
+- Markdown
+- HTML/CSS
 quality_score: 6
 rag_relevance: 3
-tags: ["note-taking", "markdown", "desktop-app", "productivity", "export-tools"]
-source: "https://github.com/voxanne1478/markdown-note-app"
-discovered_at: "2026-07-14T10:08:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- note-taking
+- markdown
+- desktop-app
+- productivity
+- export-tools
+source: https://github.com/voxanne1478/markdown-note-app
+discovered_at: '2026-07-14T10:08:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

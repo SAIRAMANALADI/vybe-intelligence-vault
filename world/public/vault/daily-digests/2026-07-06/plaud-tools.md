@@ -1,13 +1,24 @@
 ---
-title: "massive-value/plaud-tools"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "CLI", "PyPI", "FFmpeg", "GitHub Actions"]
+title: massive-value/plaud-tools
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- CLI
+- PyPI
+- FFmpeg
+- GitHub Actions
 quality_score: 8
 rag_relevance: 7
-tags: ["transcription", "meeting assistant", "MCP server", "audio processing", "AI integration"]
-source: "https://github.com/massive-value/plaud-tools"
-discovered_at: "2026-07-06T19:49:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- transcription
+- meeting assistant
+- MCP server
+- audio processing
+- AI integration
+source: https://github.com/massive-value/plaud-tools
+discovered_at: '2026-07-06T19:49:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

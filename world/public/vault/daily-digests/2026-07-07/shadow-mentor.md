@@ -1,13 +1,26 @@
 ---
-title: "alex-jb/shadow-mentor"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "Anthropic Sonnet 4.6", "Ed25519", "HMAC-SHA-256", "JSON Schema", "Vercel"]
+title: alex-jb/shadow-mentor
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- Anthropic Sonnet 4.6
+- Ed25519
+- HMAC-SHA-256
+- JSON Schema
+- Vercel
 quality_score: 9
 rag_relevance: 10
-tags: ["AI compliance", "regulated lending", "attestation", "MCP integration", "regulatory governance"]
-source: "https://github.com/alex-jb/shadow-mentor"
-discovered_at: "2026-07-07T02:33:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI compliance
+- regulated lending
+- attestation
+- MCP integration
+- regulatory governance
+source: https://github.com/alex-jb/shadow-mentor
+discovered_at: '2026-07-07T02:33:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

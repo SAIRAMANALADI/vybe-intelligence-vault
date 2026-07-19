@@ -1,13 +1,26 @@
 ---
-title: "cyanheads/secedgar-mcp-server"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "Model Context Protocol (MCP)", "DuckDB", "XBRL", "SEC EDGAR API", "Docker", "Node.js"]
+title: cyanheads/secedgar-mcp-server
+category: daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Bun
+- Model Context Protocol (MCP)
+- DuckDB
+- XBRL
+- SEC EDGAR API
+- Docker
+- Node.js
 quality_score: 9
 rag_relevance: 8
-tags: ["SEC EDGAR", "XBRL financials", "MCP server", "financial data", "dataframes"]
-source: "https://github.com/cyanheads/secedgar-mcp-server"
-discovered_at: "2026-07-09T21:19:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- SEC EDGAR
+- XBRL financials
+- MCP server
+- financial data
+- dataframes
+source: https://github.com/cyanheads/secedgar-mcp-server
+discovered_at: '2026-07-09T21:19:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

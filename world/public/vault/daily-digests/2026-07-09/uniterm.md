@@ -1,13 +1,26 @@
 ---
-title: "ys-ll/uniterm"
-category: "Tooling"
-tech_stack: ["Go", "Vue 3", "Wails v2", "xterm.js", "Element Plus", "Pinia", "Anthropic Messages API", "OpenAI Chat Completions API"]
+title: ys-ll/uniterm
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Go
+- Vue 3
+- Wails v2
+- xterm.js
+- Element Plus
+- Pinia
+- Anthropic Messages API
+- OpenAI Chat Completions API
 quality_score: 9
 rag_relevance: 7
-tags: ["Terminal", "AI Agent", "Multi-protocol", "Cross-platform", "Autonomous execution"]
-source: "https://github.com/ys-ll/uniterm"
-discovered_at: "2026-07-09T04:46:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Terminal
+- AI Agent
+- Multi-protocol
+- Cross-platform
+- Autonomous execution
+source: https://github.com/ys-ll/uniterm
+discovered_at: '2026-07-09T04:46:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

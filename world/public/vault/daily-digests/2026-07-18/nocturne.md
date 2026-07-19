@@ -1,13 +1,24 @@
 ---
-title: "clusterpinealgland805/Nocturne"
-category: "Tooling"
-tech_stack: ["Swift", "CoreML", "Apple Neural Engine", "Ollama", "Qwen3", "macOS"]
+title: clusterpinealgland805/Nocturne
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- Swift
+- CoreML
+- Apple Neural Engine
+- Ollama
+- Qwen3
+- macOS
 quality_score: 8
 rag_relevance: 6
-tags: ["offline-ai", "privacy-first", "speech-to-text", "macos", "local-ai"]
-source: "https://github.com/clusterpinealgland805/Nocturne"
-discovered_at: "2026-07-13T06:15:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- offline-ai
+- privacy-first
+- speech-to-text
+- macos
+- local-ai
+source: https://github.com/clusterpinealgland805/Nocturne
+discovered_at: '2026-07-13T06:15:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,30 @@
 ---
-title: "winterop-com/kodo"
-category: "Tooling"
-tech_stack: ["Python", "Typer", "FastAPI", "Pydantic", "llama.cpp", "MLX", "Hugging Face", "Ollama", "LM Studio", "MCP (Model Context Protocol)", "uv (package manager)", "Bun (frontend)"]
+title: winterop-com/kodo
+category: daily-digests/2026-07-12
+tech_stack:
+- Python
+- Typer
+- FastAPI
+- Pydantic
+- llama.cpp
+- MLX
+- Hugging Face
+- Ollama
+- LM Studio
+- MCP (Model Context Protocol)
+- uv (package manager)
+- Bun (frontend)
 quality_score: 8
 rag_relevance: 7
-tags: ["local LLM management", "model library", "voice models", "vision models", "MCP integration"]
-source: "https://github.com/winterop-com/kodo"
-discovered_at: "2026-07-11T18:59:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local LLM management
+- model library
+- voice models
+- vision models
+- MCP integration
+source: https://github.com/winterop-com/kodo
+discovered_at: '2026-07-11T18:59:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

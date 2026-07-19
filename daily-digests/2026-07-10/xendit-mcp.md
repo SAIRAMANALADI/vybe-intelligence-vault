@@ -1,13 +1,23 @@
 ---
-title: "mrslbt/xendit-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "Xendit API", "TypeScript (implied by npm package structure)"]
+title: mrslbt/xendit-mcp
+category: daily-digests/2026-07-10
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- Xendit API
+- TypeScript (implied by npm package structure)
 quality_score: 9
 rag_relevance: 7
-tags: ["payment gateway", "MCP server", "Southeast Asia", "financial transactions", "API integration"]
-source: "https://github.com/mrslbt/xendit-mcp"
-discovered_at: "2026-07-10T06:53:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- payment gateway
+- MCP server
+- Southeast Asia
+- financial transactions
+- API integration
+source: https://github.com/mrslbt/xendit-mcp
+discovered_at: '2026-07-10T06:53:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "rollinirenic365/dexter-jp"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "LangChain", "LLM APIs (OpenAI, Anthropic, Google, xAI, OpenRouter, Ollama)", "EDINET DB API", "J-Quants API", "Slack/Discord/LINE Messaging APIs", "Web Search APIs (Exa, Perplexity, Tavily)"]
+title: rollinirenic365/dexter-jp
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Bun
+- LangChain
+- LLM APIs (OpenAI, Anthropic, Google, xAI, OpenRouter, Ollama)
+- EDINET DB API
+- J-Quants API
+- Slack/Discord/LINE Messaging APIs
+- Web Search APIs (Exa, Perplexity, Tavily)
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous research agent", "financial analysis", "Japanese stocks", "multi-source data integration", "LLM-powered workflows"]
-source: "https://github.com/rollinirenic365/dexter-jp"
-discovered_at: "2026-07-07T20:50:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous research agent
+- financial analysis
+- Japanese stocks
+- multi-source data integration
+- LLM-powered workflows
+source: https://github.com/rollinirenic365/dexter-jp
+discovered_at: '2026-07-07T20:50:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

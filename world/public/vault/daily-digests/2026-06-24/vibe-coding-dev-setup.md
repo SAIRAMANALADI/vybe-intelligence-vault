@@ -1,13 +1,24 @@
 ---
-title: "ILXNSM/Vibe-Coding-Dev-Setup"
-category: "Tooling"
-tech_stack: [".NET", "GitHub Copilot", "Neo4j", "Azure DevOps", "JavaScript", "Model Context Protocol (MCP)"]
+title: ILXNSM/Vibe-Coding-Dev-Setup
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- .NET
+- GitHub Copilot
+- Neo4j
+- Azure DevOps
+- JavaScript
+- Model Context Protocol (MCP)
 quality_score: 7
 rag_relevance: 6
-tags: ["AI-assisted coding", ".NET backend setup", "GitHub Copilot integration", "Neo4j database", "MCP server configuration"]
-source: "https://github.com/ILXNSM/Vibe-Coding-Dev-Setup"
-discovered_at: "2026-06-24T16:21:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-assisted coding
+- .NET backend setup
+- GitHub Copilot integration
+- Neo4j database
+- MCP server configuration
+source: https://github.com/ILXNSM/Vibe-Coding-Dev-Setup
+discovered_at: '2026-06-24T16:21:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

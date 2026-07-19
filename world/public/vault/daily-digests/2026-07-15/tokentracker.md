@@ -1,13 +1,27 @@
 ---
-title: "mm7894215/TokenTracker"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "SQLite", "Electron", "React", "TypeScript", "LiteLLM", "Homebrew", "SQLite CLI"]
+title: mm7894215/TokenTracker
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- JavaScript
+- Node.js
+- SQLite
+- Electron
+- React
+- TypeScript
+- LiteLLM
+- Homebrew
+- SQLite CLI
 quality_score: 9
 rag_relevance: 7
-tags: ["token tracking", "AI cost analysis", "local-first", "CLI tool", "dashboard"]
-source: "https://github.com/mm7894215/TokenTracker"
-discovered_at: "2026-07-10T23:08:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- token tracking
+- AI cost analysis
+- local-first
+- CLI tool
+- dashboard
+source: https://github.com/mm7894215/TokenTracker
+discovered_at: '2026-07-10T23:08:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

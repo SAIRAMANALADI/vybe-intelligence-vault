@@ -1,13 +1,24 @@
 ---
-title: "mosesy5688-cell/ai-nexus"
-category: "Tooling"
-tech_stack: ["JavaScript", "API Development", "Web Scraping", "Data Aggregation", "Parquet", "MCP (Model Context Protocol)"]
+title: mosesy5688-cell/ai-nexus
+category: daily-digests/2026-07-18
+tech_stack:
+- JavaScript
+- API Development
+- Web Scraping
+- Data Aggregation
+- Parquet
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 9
-tags: ["AI Registry", "Model Discovery", "FNI Scoring", "MCP Integration", "Open Data"]
-source: "https://github.com/mosesy5688-cell/ai-nexus"
-discovered_at: "2026-07-18T09:24:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Registry
+- Model Discovery
+- FNI Scoring
+- MCP Integration
+- Open Data
+source: https://github.com/mosesy5688-cell/ai-nexus
+discovered_at: '2026-07-18T09:24:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

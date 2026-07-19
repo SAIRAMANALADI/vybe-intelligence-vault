@@ -1,13 +1,21 @@
 ---
-title: "travisthetrashpanda/stable-mcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Stable API"]
+title: travisthetrashpanda/stable-mcp
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Stable API
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "virtual mailbox", "AI assistant integration", "OCR", "mail organization"]
-source: "https://github.com/travisthetrashpanda/stable-mcp"
-discovered_at: "2026-07-08T05:46:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- virtual mailbox
+- AI assistant integration
+- OCR
+- mail organization
+source: https://github.com/travisthetrashpanda/stable-mcp
+discovered_at: '2026-07-08T05:46:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

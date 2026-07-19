@@ -1,13 +1,29 @@
 ---
-title: "Monkopedia/rouse-context"
-category: "Orchestrator"
-tech_stack: ["Kotlin", "Android SDK", "Model Context Protocol (MCP)", "TLS/mTLS", "Firebase Cloud Messaging (FCM)", "Rust (Relay Server)", "ACME (Let's Encrypt/Google Trust Services)", "OAuth 2.0 (PKCE)", "Room Database (Audit Logging)", "Compose UI", "Koin (Dependency Injection)"]
+title: Monkopedia/rouse-context
+category: daily-digests/2026-07-08
+tech_stack:
+- Kotlin
+- Android SDK
+- Model Context Protocol (MCP)
+- TLS/mTLS
+- Firebase Cloud Messaging (FCM)
+- Rust (Relay Server)
+- ACME (Let's Encrypt/Google Trust Services)
+- OAuth 2.0 (PKCE)
+- Room Database (Audit Logging)
+- Compose UI
+- Koin (Dependency Injection)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "on-device AI", "privacy-first", "Android integration", "end-to-end encryption"]
-source: "https://github.com/Monkopedia/rouse-context"
-discovered_at: "2026-07-08T15:16:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- on-device AI
+- privacy-first
+- Android integration
+- end-to-end encryption
+source: https://github.com/Monkopedia/rouse-context
+discovered_at: '2026-07-08T15:16:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

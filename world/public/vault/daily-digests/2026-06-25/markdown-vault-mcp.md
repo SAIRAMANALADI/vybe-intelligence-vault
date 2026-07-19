@@ -1,13 +1,27 @@
 ---
-title: "pvliesdonk/markdown-vault-mcp"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "FastEmbed", "Ollama", "OpenAI", "FastMCP", "Docker", "Git", "YAML"]
+title: pvliesdonk/markdown-vault-mcp
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- SQLite
+- FastEmbed
+- Ollama
+- OpenAI
+- FastMCP
+- Docker
+- Git
+- YAML
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP server", "Markdown indexing", "semantic search", "full-text search", "knowledge base"]
-source: "https://github.com/pvliesdonk/markdown-vault-mcp"
-discovered_at: "2026-06-25T05:06:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Markdown indexing
+- semantic search
+- full-text search
+- knowledge base
+source: https://github.com/pvliesdonk/markdown-vault-mcp
+discovered_at: '2026-06-25T05:06:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

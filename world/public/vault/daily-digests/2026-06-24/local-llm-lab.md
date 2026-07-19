@@ -1,13 +1,22 @@
 ---
-title: "tandatthach1/local-llm-lab"
-category: "Tooling"
-tech_stack: ["Python", "Windows Desktop Application", "Benchmarking", "Hardware Profiling"]
+title: tandatthach1/local-llm-lab
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Windows Desktop Application
+- Benchmarking
+- Hardware Profiling
 quality_score: 6
 rag_relevance: 4
-tags: ["hardware planning", "local AI", "benchmarking", "memory estimation", "LLM deployment"]
-source: "https://github.com/tandatthach1/local-llm-lab"
-discovered_at: "2026-06-24T06:44:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- hardware planning
+- local AI
+- benchmarking
+- memory estimation
+- LLM deployment
+source: https://github.com/tandatthach1/local-llm-lab
+discovered_at: '2026-06-24T06:44:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

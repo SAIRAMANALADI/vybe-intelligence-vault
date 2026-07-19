@@ -1,13 +1,30 @@
 ---
-title: "INFOKOM-KI/blue-team-soc-mcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Wazuh SIEM", "OpenSearch", "HTTP/Streamable Transport", "SSH", "Pydantic", "httpx (Async HTTP Client)", "CrowdSec", "GreyNoise", "VirusTotal", "AbuseIPDB"]
+title: INFOKOM-KI/blue-team-soc-mcp
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Wazuh SIEM
+- OpenSearch
+- HTTP/Streamable Transport
+- SSH
+- Pydantic
+- httpx (Async HTTP Client)
+- CrowdSec
+- GreyNoise
+- VirusTotal
+- AbuseIPDB
 quality_score: 9
 rag_relevance: 7
-tags: ["SOC Automation", "Blue Team Tools", "Wazuh Integration", "Threat Intelligence", "Host Forensics"]
-source: "https://github.com/INFOKOM-KI/blue-team-soc-mcp"
-discovered_at: "2026-07-09T08:26:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- SOC Automation
+- Blue Team Tools
+- Wazuh Integration
+- Threat Intelligence
+- Host Forensics
+source: https://github.com/INFOKOM-KI/blue-team-soc-mcp
+discovered_at: '2026-07-09T08:26:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

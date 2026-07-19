@@ -1,13 +1,24 @@
 ---
-title: "KSym04/limpet"
-category: "Tooling"
-tech_stack: ["Rust", "SQLite", "Tree-sitter", "MCP (Model Context Protocol)", "AST (Abstract Syntax Tree) parsing", "SQL"]
+title: KSym04/limpet
+category: daily-digests/2026-07-07
+tech_stack:
+- Rust
+- SQLite
+- Tree-sitter
+- MCP (Model Context Protocol)
+- AST (Abstract Syntax Tree) parsing
+- SQL
 quality_score: 9
 rag_relevance: 9
-tags: ["persistent memory", "AI agent memory", "AST anchoring", "stale detection", "MCP server"]
-source: "https://github.com/KSym04/limpet"
-discovered_at: "2026-07-07T19:00:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- AI agent memory
+- AST anchoring
+- stale detection
+- MCP server
+source: https://github.com/KSym04/limpet
+discovered_at: '2026-07-07T19:00:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

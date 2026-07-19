@@ -1,13 +1,23 @@
 ---
-title: "CorrectRoadH/NiceEval"
-category: "Tooling"
-tech_stack: ["TypeScript", "Docker", "Node.js", "OpenTelemetry (OTel)", "AI SDKs (Claude, Codex, Pi, etc.)"]
+title: CorrectRoadH/NiceEval
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- Docker
+- Node.js
+- OpenTelemetry (OTel)
+- AI SDKs (Claude, Codex, Pi, etc.)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent evaluation", "multi-turn testing", "tool call validation", "sandboxed execution", "production monitoring"]
-source: "https://github.com/CorrectRoadH/NiceEval"
-discovered_at: "2026-07-13T02:34:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent evaluation
+- multi-turn testing
+- tool call validation
+- sandboxed execution
+- production monitoring
+source: https://github.com/CorrectRoadH/NiceEval
+discovered_at: '2026-07-13T02:34:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

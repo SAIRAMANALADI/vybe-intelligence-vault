@@ -1,13 +1,23 @@
 ---
-title: "shigechika/zapi-mcp"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Zabbix API", "INI configuration", "uv/pip packaging"]
+title: shigechika/zapi-mcp
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Zabbix API
+- INI configuration
+- uv/pip packaging
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Zabbix integration", "network monitoring", "daily brief", "problem management"]
-source: "https://github.com/shigechika/zapi-mcp"
-discovered_at: "2026-07-09T00:06:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Zabbix integration
+- network monitoring
+- daily brief
+- problem management
+source: https://github.com/shigechika/zapi-mcp
+discovered_at: '2026-07-09T00:06:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

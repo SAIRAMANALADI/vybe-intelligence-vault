@@ -1,13 +1,23 @@
 ---
-title: "Marashumpo/browserclaw"
-category: "Tooling"
-tech_stack: ["TypeScript", "Chrome DevTools Protocol (CDP)", "OpenClaw", "Playwright", "Electron (implied for standalone setup)"]
+title: Marashumpo/browserclaw
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Chrome DevTools Protocol (CDP)
+- OpenClaw
+- Playwright
+- Electron (implied for standalone setup)
 quality_score: 7
 rag_relevance: 6
-tags: ["browser automation", "AI-driven web interaction", "no-code automation", "web scraping", "Chrome DevTools Protocol"]
-source: "https://github.com/Marashumpo/browserclaw"
-discovered_at: "2026-06-24T16:15:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- AI-driven web interaction
+- no-code automation
+- web scraping
+- Chrome DevTools Protocol
+source: https://github.com/Marashumpo/browserclaw
+discovered_at: '2026-06-24T16:15:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

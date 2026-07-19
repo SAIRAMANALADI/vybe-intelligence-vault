@@ -1,13 +1,23 @@
 ---
-title: "Scryptic-Official/YOAP-A2A"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Windows Desktop", "AI Agents", "Open Protocols", "Electron (assumed)"]
+title: Scryptic-Official/YOAP-A2A
+category: daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- Windows Desktop
+- AI Agents
+- Open Protocols
+- Electron (assumed)
 quality_score: 6
 rag_relevance: 5
-tags: ["AI matchmaking", "agent-to-agent protocol", "human connection", "open-source", "Windows application"]
-source: "https://github.com/Scryptic-Official/YOAP-A2A"
-discovered_at: "2026-07-08T02:06:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI matchmaking
+- agent-to-agent protocol
+- human connection
+- open-source
+- Windows application
+source: https://github.com/Scryptic-Official/YOAP-A2A
+discovered_at: '2026-07-08T02:06:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,33 @@
 ---
-title: "dirtysouthalpha/sentinel-override"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Chrome Extension API", "Manifest V3", "WebSocket", "LLM Providers (16+)", "Computer Vision", "DOM Navigation", "Content Security Policy (CSP)", "Chrome Storage API", "HTML/CSS", "WebSockets", "SHA-256 Authentication", "Exponential Backoff", "Jest (Testing Framework)", "Chrome Web Store"]
+title: dirtysouthalpha/sentinel-override
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- JavaScript
+- Chrome Extension API
+- Manifest V3
+- WebSocket
+- LLM Providers (16+)
+- Computer Vision
+- DOM Navigation
+- Content Security Policy (CSP)
+- Chrome Storage API
+- HTML/CSS
+- WebSockets
+- SHA-256 Authentication
+- Exponential Backoff
+- Jest (Testing Framework)
+- Chrome Web Store
 quality_score: 9
 rag_relevance: 8
-tags: ["browser automation", "vision-based agents", "self-healing", "MSP tools", "LLM orchestration"]
-source: "https://github.com/dirtysouthalpha/sentinel-override"
-discovered_at: "2026-06-23T16:29:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- vision-based agents
+- self-healing
+- MSP tools
+- LLM orchestration
+source: https://github.com/dirtysouthalpha/sentinel-override
+discovered_at: '2026-06-23T16:29:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

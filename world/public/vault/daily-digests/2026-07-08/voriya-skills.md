@@ -1,13 +1,23 @@
 ---
-title: "biblosaggins/voriya-skills"
-category: "Tooling"
-tech_stack: ["Python", "AI Agents", "Chrome DevTools", "API Generation", "Windows Automation"]
+title: biblosaggins/voriya-skills
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- AI Agents
+- Chrome DevTools
+- API Generation
+- Windows Automation
 quality_score: 7
 rag_relevance: 6
-tags: ["AI automation", "website workflows", "API generation", "agentic skills", "Windows tools"]
-source: "https://github.com/biblosaggins/voriya-skills"
-discovered_at: "2026-07-08T02:07:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI automation
+- website workflows
+- API generation
+- agentic skills
+- Windows tools
+source: https://github.com/biblosaggins/voriya-skills
+discovered_at: '2026-07-08T02:07:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

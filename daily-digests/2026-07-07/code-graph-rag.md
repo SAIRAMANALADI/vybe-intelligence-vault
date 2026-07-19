@@ -1,13 +1,29 @@
 ---
-title: "vitali87/code-graph-rag"
-category: "Vector DB"
-tech_stack: ["Python", "Tree-sitter", "Memgraph", "Qdrant", "Ollama", "OpenAI", "Google Gemini", "Docker", "Tree-sitter grammars", "Cypher", "Rust (for dependencies)"]
+title: vitali87/code-graph-rag
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- Tree-sitter
+- Memgraph
+- Qdrant
+- Ollama
+- OpenAI
+- Google Gemini
+- Docker
+- Tree-sitter grammars
+- Cypher
+- Rust (for dependencies)
 quality_score: 9
 rag_relevance: 10
-tags: ["code analysis", "knowledge graph", "multi-language support", "RAG", "AI-powered querying"]
-source: "https://github.com/vitali87/code-graph-rag"
-discovered_at: "2026-07-07T13:17:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code analysis
+- knowledge graph
+- multi-language support
+- RAG
+- AI-powered querying
+source: https://github.com/vitali87/code-graph-rag
+discovered_at: '2026-07-07T13:17:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

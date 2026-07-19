@@ -1,13 +1,21 @@
 ---
-title: "yyh19930816-prog/qidian-ai-site"
-category: "UI Component"
-tech_stack: ["HTML", "JavaScript", "CSS"]
+title: yyh19930816-prog/qidian-ai-site
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- HTML
+- JavaScript
+- CSS
 quality_score: 4
 rag_relevance: 5
-tags: ["enterprise AI", "RAG", "AI agents", "GEO", "company showcase"]
-source: "https://github.com/yyh19930816-prog/qidian-ai-site"
-discovered_at: "2026-07-15T23:02:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- enterprise AI
+- RAG
+- AI agents
+- GEO
+- company showcase
+source: https://github.com/yyh19930816-prog/qidian-ai-site
+discovered_at: '2026-07-15T23:02:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

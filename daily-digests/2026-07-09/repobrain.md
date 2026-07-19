@@ -1,13 +1,26 @@
 ---
-title: "study8677/repobrain"
-category: "Agent Framework"
-tech_stack: ["Python", "Multi-agent systems", "MCP (Model Context Protocol)", "CLI tools", "Git integration", "LLM APIs (OpenAI-compatible)", "Markdown documentation", "GitHub Actions"]
+title: study8677/repobrain
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- Multi-agent systems
+- MCP (Model Context Protocol)
+- CLI tools
+- Git integration
+- LLM APIs (OpenAI-compatible)
+- Markdown documentation
+- GitHub Actions
 quality_score: 9
 rag_relevance: 10
-tags: ["codebase Q&A", "multi-agent indexing", "IDE integration", "contextual retrieval", "automated documentation"]
-source: "https://github.com/study8677/repobrain"
-discovered_at: "2026-07-09T08:24:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- codebase Q&A
+- multi-agent indexing
+- IDE integration
+- contextual retrieval
+- automated documentation
+source: https://github.com/study8677/repobrain
+discovered_at: '2026-07-09T08:24:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

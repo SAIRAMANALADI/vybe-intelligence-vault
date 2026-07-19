@@ -1,13 +1,23 @@
 ---
-title: "apkd/Conduit"
-category: "Tooling"
-tech_stack: ["C#", "Unity Engine", "MCP (Model Context Protocol)", ".NET", "C# Scripting"]
+title: apkd/Conduit
+category: daily-digests/2026-06-25
+tech_stack:
+- C#
+- Unity Engine
+- MCP (Model Context Protocol)
+- .NET
+- C# Scripting
 quality_score: 8
 rag_relevance: 7
-tags: ["Unity", "MCP Server", "AI Integration", "Game Development", "Tooling"]
-source: "https://github.com/apkd/Conduit"
-discovered_at: "2026-06-25T14:17:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Unity
+- MCP Server
+- AI Integration
+- Game Development
+- Tooling
+source: https://github.com/apkd/Conduit
+discovered_at: '2026-06-25T14:17:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

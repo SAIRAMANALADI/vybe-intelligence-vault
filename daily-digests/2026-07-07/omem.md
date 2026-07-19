@@ -1,13 +1,22 @@
 ---
-title: "Toperythroblast876/omem"
-category: "Tooling"
-tech_stack: ["Rust", "LanceDB", "Vector Search", "MCP Server"]
+title: Toperythroblast876/omem
+category: daily-digests/2026-07-07
+tech_stack:
+- Rust
+- LanceDB
+- Vector Search
+- MCP Server
 quality_score: 7
 rag_relevance: 8
-tags: ["persistent memory", "AI agents", "context sharing", "vector search", "multi-tool integration"]
-source: "https://github.com/Toperythroblast876/omem"
-discovered_at: "2026-07-07T20:50:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- AI agents
+- context sharing
+- vector search
+- multi-tool integration
+source: https://github.com/Toperythroblast876/omem
+discovered_at: '2026-07-07T20:50:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

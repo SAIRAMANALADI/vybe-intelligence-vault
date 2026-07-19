@@ -1,13 +1,27 @@
 ---
-title: "JustGenius-s/Fogot"
-category: "Tooling"
-tech_stack: ["Godot Engine 4.7", "C++", "React", "TypeScript", "Vercel AI SDK", "WebView (WKWebView/WebView2)", "SCons", "Tailwind CSS", "shadcn/ui"]
+title: JustGenius-s/Fogot
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Godot Engine 4.7
+- C++
+- React
+- TypeScript
+- Vercel AI SDK
+- WebView (WKWebView/WebView2)
+- SCons
+- Tailwind CSS
+- shadcn/ui
 quality_score: 8
 rag_relevance: 6
-tags: ["AI-powered editor", "game development", "Godot Engine", "multi-agent orchestration", "2D game tools"]
-source: "https://github.com/JustGenius-s/Fogot"
-discovered_at: "2026-06-23T16:28:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-powered editor
+- game development
+- Godot Engine
+- multi-agent orchestration
+- 2D game tools
+source: https://github.com/JustGenius-s/Fogot
+discovered_at: '2026-06-23T16:28:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

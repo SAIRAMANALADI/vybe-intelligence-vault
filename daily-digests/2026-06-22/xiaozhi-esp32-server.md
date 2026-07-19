@@ -1,13 +1,31 @@
 ---
-title: "xinnan-tech/xiaozhi-esp32-server"
-category: "Orchestrator"
-tech_stack: ["Python", "Java", "Vue.js", "MQTT", "UDP", "WebSocket", "MCP", "ASR (FunASR, Xunfei, etc.)", "TTS (EdgeTTS, Huoshan, etc.)", "LLM (GLM, Qwen, etc.)", "VLLM (GLM-V, Qwen-VL, etc.)", "Docker", "SQL/NoSQL (for memory and knowledge storage)"]
+title: xinnan-tech/xiaozhi-esp32-server
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- Java
+- Vue.js
+- MQTT
+- UDP
+- WebSocket
+- MCP
+- ASR (FunASR, Xunfei, etc.)
+- TTS (EdgeTTS, Huoshan, etc.)
+- LLM (GLM, Qwen, etc.)
+- VLLM (GLM-V, Qwen-VL, etc.)
+- Docker
+- SQL/NoSQL (for memory and knowledge storage)
 quality_score: 9
 rag_relevance: 7
-tags: ["ESP32", "Voice Interaction", "Multi-Modal AI", "Device Orchestration", "Open-Source Hardware"]
-source: "https://github.com/xinnan-tech/xiaozhi-esp32-server"
-discovered_at: "2026-06-22T18:13:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- ESP32
+- Voice Interaction
+- Multi-Modal AI
+- Device Orchestration
+- Open-Source Hardware
+source: https://github.com/xinnan-tech/xiaozhi-esp32-server
+discovered_at: '2026-06-22T18:13:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

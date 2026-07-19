@@ -1,13 +1,22 @@
 ---
-title: "princeomar9009/sciagent"
-category: "Tooling"
-tech_stack: ["Python", "Electron", "Local Storage", "Data Visualization"]
+title: princeomar9009/sciagent
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Electron
+- Local Storage
+- Data Visualization
 quality_score: 5
 rag_relevance: 4
-tags: ["experiment tracking", "AI assistant", "data analysis", "local deployment", "report generation"]
-source: "https://github.com/princeomar9009/sciagent"
-discovered_at: "2026-06-23T06:51:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- experiment tracking
+- AI assistant
+- data analysis
+- local deployment
+- report generation
+source: https://github.com/princeomar9009/sciagent
+discovered_at: '2026-06-23T06:51:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

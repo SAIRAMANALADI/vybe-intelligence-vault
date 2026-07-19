@@ -1,13 +1,28 @@
 ---
-title: "MasterPlayspots/motionspec"
-category: "Tooling"
-tech_stack: ["JavaScript", "TypeScript", "Node.js", "GSAP", "WAAPI", "CSS", "Zod", "MCP (Model Context Protocol)", "Cloudflare Workers", "Playwright"]
+title: MasterPlayspots/motionspec
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- JavaScript
+- TypeScript
+- Node.js
+- GSAP
+- WAAPI
+- CSS
+- Zod
+- MCP (Model Context Protocol)
+- Cloudflare Workers
+- Playwright
 quality_score: 10
 rag_relevance: 9
-tags: ["UI Animation", "Accessibility", "WCAG Compliance", "Deterministic Compilation", "AI-Generated Web Apps"]
-source: "https://github.com/MasterPlayspots/motionspec"
-discovered_at: "2026-07-14T16:14:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- UI Animation
+- Accessibility
+- WCAG Compliance
+- Deterministic Compilation
+- AI-Generated Web Apps
+source: https://github.com/MasterPlayspots/motionspec
+discovered_at: '2026-07-14T16:14:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

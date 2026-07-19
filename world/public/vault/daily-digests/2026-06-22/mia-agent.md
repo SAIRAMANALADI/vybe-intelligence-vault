@@ -1,13 +1,25 @@
 ---
-title: "mastermach50/mia-agent"
-category: "Agent Framework"
-tech_stack: ["Rust", "Python", "OpenRouter API", "Tavily API", "Termimad", "Ripgrep", "fd"]
+title: mastermach50/mia-agent
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Rust
+- Python
+- OpenRouter API
+- Tavily API
+- Termimad
+- Ripgrep
+- fd
 quality_score: 9
 rag_relevance: 7
-tags: ["personal assistant", "terminal agent", "multi-tool integration", "configurable", "RAG-ready"]
-source: "https://github.com/mastermach50/mia-agent"
-discovered_at: "2026-06-22T18:56:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personal assistant
+- terminal agent
+- multi-tool integration
+- configurable
+- RAG-ready
+source: https://github.com/mastermach50/mia-agent
+discovered_at: '2026-06-22T18:56:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

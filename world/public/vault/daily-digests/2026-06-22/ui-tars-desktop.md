@@ -1,13 +1,26 @@
 ---
-title: "bytedance/UI-TARS-desktop"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Electron", "React", "MCP (Model Context Protocol)", "Multimodal LLMs", "Web UI", "CLI"]
+title: bytedance/UI-TARS-desktop
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Node.js
+- Electron
+- React
+- MCP (Model Context Protocol)
+- Multimodal LLMs
+- Web UI
+- CLI
 quality_score: 9
 rag_relevance: 8
-tags: ["GUI Agent", "Multimodal AI", "Computer Control", "Browser Automation", "MCP Integration"]
-source: "https://github.com/bytedance/UI-TARS-desktop"
-discovered_at: "2026-06-22T18:13:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- GUI Agent
+- Multimodal AI
+- Computer Control
+- Browser Automation
+- MCP Integration
+source: https://github.com/bytedance/UI-TARS-desktop
+discovered_at: '2026-06-22T18:13:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

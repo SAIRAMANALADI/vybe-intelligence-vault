@@ -1,13 +1,29 @@
 ---
-title: "SimplyLiz/ckb"
-category: "Orchestrator"
-tech_stack: ["Go", "TypeScript", "JavaScript", "Python", "Rust", "SCIP (Sourcegraph Code Intelligence Protocol)", "MCP (Model Context Protocol)", "HTTP API", "CLI", "Node.js", "Docker"]
+title: SimplyLiz/ckb
+category: daily-digests/2026-07-16
+tech_stack:
+- Go
+- TypeScript
+- JavaScript
+- Python
+- Rust
+- SCIP (Sourcegraph Code Intelligence Protocol)
+- MCP (Model Context Protocol)
+- HTTP API
+- CLI
+- Node.js
+- Docker
 quality_score: 9
 rag_relevance: 10
-tags: ["code intelligence", "impact analysis", "semantic search", "AI assistant integration", "static analysis"]
-source: "https://github.com/SimplyLiz/ckb"
-discovered_at: "2026-07-14T10:08:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code intelligence
+- impact analysis
+- semantic search
+- AI assistant integration
+- static analysis
+source: https://github.com/SimplyLiz/ckb
+discovered_at: '2026-07-14T10:08:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

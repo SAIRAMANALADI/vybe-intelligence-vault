@@ -1,13 +1,28 @@
 ---
-title: "joejamal029/vibecode-project"
-category: "Orchestrator"
-tech_stack: ["Python", "Gemini 3.1", "PyQt6", "WeasyPrint", "Pygments", "ChromaDB", "MCP (Model Context Protocol)", "Google GenAI SDK", "Ollama", "FastAPI"]
+title: joejamal029/vibecode-project
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Gemini 3.1
+- PyQt6
+- WeasyPrint
+- Pygments
+- ChromaDB
+- MCP (Model Context Protocol)
+- Google GenAI SDK
+- Ollama
+- FastAPI
 quality_score: 9
 rag_relevance: 10
-tags: ["Digital Twin Snapshots", "Whole-Program Context", "Multi-Agent Orchestration", "Cryptographic Verification", "MCP Integration"]
-source: "https://github.com/joejamal029/vibecode-project"
-discovered_at: "2026-06-24T10:25:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Digital Twin Snapshots
+- Whole-Program Context
+- Multi-Agent Orchestration
+- Cryptographic Verification
+- MCP Integration
+source: https://github.com/joejamal029/vibecode-project
+discovered_at: '2026-06-24T10:25:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

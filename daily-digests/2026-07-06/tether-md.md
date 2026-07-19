@@ -1,13 +1,26 @@
 ---
-title: "tether-md/tether-md"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "VS Code Extension", "JSON/JSONL", "ULID", "GitHub Actions"]
+title: tether-md/tether-md
+category: daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- MCP (Model Context Protocol)
+- VS Code Extension
+- JSON/JSONL
+- ULID
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-tags: ["Markdown", "AI collaboration", "comment-driven editing", "version control", "human-in-the-loop"]
-source: "https://github.com/tether-md/tether-md"
-discovered_at: "2026-07-06T21:27:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Markdown
+- AI collaboration
+- comment-driven editing
+- version control
+- human-in-the-loop
+source: https://github.com/tether-md/tether-md
+discovered_at: '2026-07-06T21:27:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

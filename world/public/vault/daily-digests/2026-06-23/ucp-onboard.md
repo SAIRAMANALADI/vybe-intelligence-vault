@@ -1,13 +1,23 @@
 ---
-title: "thesagarjain9-cpu/ucp-onboard"
-category: "Tooling"
-tech_stack: ["Python", "AI Agents", "Windows Desktop App", "CSV/XLSX Parsing", "JSON Data Handling"]
+title: thesagarjain9-cpu/ucp-onboard
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- AI Agents
+- Windows Desktop App
+- CSV/XLSX Parsing
+- JSON Data Handling
 quality_score: 7
 rag_relevance: 6
-tags: ["merchant onboarding", "Universal Commerce Protocol", "AI automation", "e-commerce tool", "data validation"]
-source: "https://github.com/thesagarjain9-cpu/ucp-onboard"
-discovered_at: "2026-06-23T02:45:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- merchant onboarding
+- Universal Commerce Protocol
+- AI automation
+- e-commerce tool
+- data validation
+source: https://github.com/thesagarjain9-cpu/ucp-onboard
+discovered_at: '2026-06-23T02:45:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

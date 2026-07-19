@@ -1,13 +1,23 @@
 ---
-title: "DavidKoleczek/agent-tui"
-category: "UI Component"
-tech_stack: ["TypeScript", "Bun", "OpenTUI", "Rust (for agent-core)", "VSCode Extensions"]
+title: DavidKoleczek/agent-tui
+category: daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- Bun
+- OpenTUI
+- Rust (for agent-core)
+- VSCode Extensions
 quality_score: 7
 rag_relevance: 6
-tags: ["TUI", "AI Agents", "Terminal Interface", "Developer Tools", "Agent Management"]
-source: "https://github.com/DavidKoleczek/agent-tui"
-discovered_at: "2026-07-14T22:55:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- TUI
+- AI Agents
+- Terminal Interface
+- Developer Tools
+- Agent Management
+source: https://github.com/DavidKoleczek/agent-tui
+discovered_at: '2026-07-14T22:55:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

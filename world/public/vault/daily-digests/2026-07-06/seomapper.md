@@ -1,13 +1,23 @@
 ---
-title: "KevinMKiarie/seomapper"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Headless Chromium", "MCP (Model Context Protocol)", "Claude/Gemini/OpenAI APIs"]
+title: KevinMKiarie/seomapper
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- Node.js
+- Headless Chromium
+- MCP (Model Context Protocol)
+- Claude/Gemini/OpenAI APIs
 quality_score: 8
 rag_relevance: 6
-tags: ["SEO audit", "AI-enhanced", "CLI tool", "AEO (AI Engine Optimization)", "MCP server"]
-source: "https://github.com/KevinMKiarie/seomapper"
-discovered_at: "2026-07-06T21:26:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- SEO audit
+- AI-enhanced
+- CLI tool
+- AEO (AI Engine Optimization)
+- MCP server
+source: https://github.com/KevinMKiarie/seomapper
+discovered_at: '2026-07-06T21:26:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "basou-dev/basou"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "CLI", "JSONL", "Markdown", "Git", "npm", "pnpm"]
+title: basou-dev/basou
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- JSONL
+- Markdown
+- Git
+- npm
+- pnpm
 quality_score: 8
 rag_relevance: 9
-tags: ["provenance tracking", "AI agent sessions", "session replay", "decision logging", "workflow audit"]
-source: "https://github.com/basou-dev/basou"
-discovered_at: "2026-06-24T02:41:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- provenance tracking
+- AI agent sessions
+- session replay
+- decision logging
+- workflow audit
+source: https://github.com/basou-dev/basou
+discovered_at: '2026-06-24T02:41:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "Actenon/actenon-kernel"
-category: "Tooling"
-tech_stack: ["Python", "Cryptography", "FastAPI", "MCP (Model Context Protocol)", "LangChain/LangGraph", "JWT", "pytest"]
+title: Actenon/actenon-kernel
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- Cryptography
+- FastAPI
+- MCP (Model Context Protocol)
+- LangChain/LangGraph
+- JWT
+- pytest
 quality_score: 9
 rag_relevance: 8
-tags: ["execution gating", "agent safety", "cryptographic proof", "side-effect prevention", "consequential actions"]
-source: "https://github.com/Actenon/actenon-kernel"
-discovered_at: "2026-07-08T22:14:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- execution gating
+- agent safety
+- cryptographic proof
+- side-effect prevention
+- consequential actions
+source: https://github.com/Actenon/actenon-kernel
+discovered_at: '2026-07-08T22:14:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

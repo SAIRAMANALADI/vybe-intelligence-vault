@@ -1,13 +1,26 @@
 ---
-title: "samuellawrence/openapi-mcp-bridge"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "OpenAPI/Swagger", "FastAPI", "httpx", "thefuzz", "sentence-transformers", "pytest"]
+title: samuellawrence/openapi-mcp-bridge
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- OpenAPI/Swagger
+- FastAPI
+- httpx
+- thefuzz
+- sentence-transformers
+- pytest
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP", "OpenAPI", "REST API", "AI orchestration", "tool integration"]
-source: "https://github.com/samuellawrence/openapi-mcp-bridge"
-discovered_at: "2026-07-11T07:52:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- OpenAPI
+- REST API
+- AI orchestration
+- tool integration
+source: https://github.com/samuellawrence/openapi-mcp-bridge
+discovered_at: '2026-07-11T07:52:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

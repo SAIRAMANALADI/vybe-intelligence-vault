@@ -1,13 +1,32 @@
 ---
-title: "eugeniughelbur/obsidian-second-brain"
-category: "Tooling"
-tech_stack: ["Python", "Obsidian", "Claude Code", "Codex CLI", "Gemini CLI", "OpenCode", "Hermes", "Pi", "Perplexity API", "Grok API", "YouTube Data API", "Whisper", "FFmpeg", "Mermaid.js"]
+title: eugeniughelbur/obsidian-second-brain
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- Obsidian
+- Claude Code
+- Codex CLI
+- Gemini CLI
+- OpenCode
+- Hermes
+- Pi
+- Perplexity API
+- Grok API
+- YouTube Data API
+- Whisper
+- FFmpeg
+- Mermaid.js
 quality_score: 9
 rag_relevance: 10
-tags: ["Obsidian", "AI-first vault", "knowledge management", "self-rewriting notes", "scheduled agents"]
-source: "https://github.com/eugeniughelbur/obsidian-second-brain"
-discovered_at: "2026-07-06T21:25:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Obsidian
+- AI-first vault
+- knowledge management
+- self-rewriting notes
+- scheduled agents
+source: https://github.com/eugeniughelbur/obsidian-second-brain
+discovered_at: '2026-07-06T21:25:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

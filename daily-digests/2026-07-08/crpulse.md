@@ -1,13 +1,23 @@
 ---
-title: "ChuckGPTX/crpulse"
-category: "UI Component"
-tech_stack: ["Next.js", "TypeScript", "React", "API Integration", "CSS/Styling"]
+title: ChuckGPTX/crpulse
+category: daily-digests/2026-07-08
+tech_stack:
+- Next.js
+- TypeScript
+- React
+- API Integration
+- CSS/Styling
 quality_score: 5
 rag_relevance: 4
-tags: ["basketball analytics", "Next.js", "data visualization", "sports tracking", "API integration"]
-source: "https://github.com/ChuckGPTX/crpulse"
-discovered_at: "2026-07-08T02:07:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- basketball analytics
+- Next.js
+- data visualization
+- sports tracking
+- API integration
+source: https://github.com/ChuckGPTX/crpulse
+discovered_at: '2026-07-08T02:07:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

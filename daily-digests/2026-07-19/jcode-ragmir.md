@@ -1,13 +1,27 @@
 ---
-title: "jcode-works/jcode-ragmir"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "LanceDB", "Transformers.js", "Model Context Protocol (MCP)", "node-llama-cpp", "Astro", "React", "Tailwind CSS"]
+title: jcode-works/jcode-ragmir
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- LanceDB
+- Transformers.js
+- Model Context Protocol (MCP)
+- node-llama-cpp
+- Astro
+- React
+- Tailwind CSS
 quality_score: 9
 rag_relevance: 10
-tags: ["local RAG", "cited retrieval", "agent integration", "offline-first", "privacy-focused"]
-source: "https://github.com/jcode-works/jcode-ragmir"
-discovered_at: "2026-07-14T14:49:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local RAG
+- cited retrieval
+- agent integration
+- offline-first
+- privacy-focused
+source: https://github.com/jcode-works/jcode-ragmir
+discovered_at: '2026-07-14T14:49:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

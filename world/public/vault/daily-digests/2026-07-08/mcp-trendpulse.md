@@ -1,13 +1,25 @@
 ---
-title: "AKzar1el/mcp-trendpulse"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Google News API", "Google Trends API", "Playwright", "NLP", "LLM Integration"]
+title: AKzar1el/mcp-trendpulse
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Google News API
+- Google Trends API
+- Playwright
+- NLP
+- LLM Integration
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP Server", "Trend Analysis", "News Aggregation", "Google Trends", "RAG Enhancement"]
-source: "https://github.com/AKzar1el/mcp-trendpulse"
-discovered_at: "2026-07-08T21:02:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- Trend Analysis
+- News Aggregation
+- Google Trends
+- RAG Enhancement
+source: https://github.com/AKzar1el/mcp-trendpulse
+discovered_at: '2026-07-08T21:02:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

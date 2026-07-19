@@ -1,13 +1,24 @@
 ---
-title: "tjdrhs90/flutter-flame-harness"
-category: "Orchestrator"
-tech_stack: ["Flutter", "Flame", "Claude Code", "Fastlane", "Shell", "GitHub Actions"]
+title: tjdrhs90/flutter-flame-harness
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Flutter
+- Flame
+- Claude Code
+- Fastlane
+- Shell
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-tags: ["game development", "automation pipeline", "Flutter", "Flame", "App Store deployment"]
-source: "https://github.com/tjdrhs90/flutter-flame-harness"
-discovered_at: "2026-07-10T06:31:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- game development
+- automation pipeline
+- Flutter
+- Flame
+- App Store deployment
+source: https://github.com/tjdrhs90/flutter-flame-harness
+discovered_at: '2026-07-10T06:31:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "putamencaseworker25/tg-agent-leadgen"
-category: "Tooling"
-tech_stack: ["Python", "Telethon", "Telegram API", "OpenAI API (optional)", "Windows OS"]
+title: putamencaseworker25/tg-agent-leadgen
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Telethon
+- Telegram API
+- OpenAI API (optional)
+- Windows OS
 quality_score: 7
 rag_relevance: 5
-tags: ["lead generation", "Telegram automation", "userbot", "chat analysis", "AI outreach"]
-source: "https://github.com/putamencaseworker25/tg-agent-leadgen"
-discovered_at: "2026-06-23T02:48:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- lead generation
+- Telegram automation
+- userbot
+- chat analysis
+- AI outreach
+source: https://github.com/putamencaseworker25/tg-agent-leadgen
+discovered_at: '2026-06-23T02:48:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

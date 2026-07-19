@@ -1,13 +1,25 @@
 ---
-title: "Goldentrii/AgentRecall-MCP"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "FSRS-lite (memory decay algorithm)", "BM25/RRF (retrieval methods)", "Node.js", "Markdown-based storage", "Optional OpenAI embeddings"]
+title: Goldentrii/AgentRecall-MCP
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- FSRS-lite (memory decay algorithm)
+- BM25/RRF (retrieval methods)
+- Node.js
+- Markdown-based storage
+- Optional OpenAI embeddings
 quality_score: 9
 rag_relevance: 9
-tags: ["memory management", "agent learning", "correction tracking", "persistent context", "MCP integration"]
-source: "https://github.com/Goldentrii/AgentRecall-MCP"
-discovered_at: "2026-06-23T21:36:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory management
+- agent learning
+- correction tracking
+- persistent context
+- MCP integration
+source: https://github.com/Goldentrii/AgentRecall-MCP
+discovered_at: '2026-06-23T21:36:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

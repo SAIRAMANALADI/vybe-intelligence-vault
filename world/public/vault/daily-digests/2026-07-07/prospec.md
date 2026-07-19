@@ -1,13 +1,24 @@
 ---
-title: "benwu95/prospec"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "CLI", "Markdown", "YAML"]
+title: benwu95/prospec
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- CLI
+- Markdown
+- YAML
 quality_score: 9
 rag_relevance: 8
-tags: ["Spec-Driven Development", "AI Workflow Automation", "MCP Integration", "Progressive Disclosure", "Agent Orchestration"]
-source: "https://github.com/benwu95/prospec"
-discovered_at: "2026-07-07T16:26:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Spec-Driven Development
+- AI Workflow Automation
+- MCP Integration
+- Progressive Disclosure
+- Agent Orchestration
+source: https://github.com/benwu95/prospec
+discovered_at: '2026-07-07T16:26:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,37 @@
 ---
-title: "bigsk1/jarvis-voice"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Ollama", "OpenAI API", "MCP (Model Context Protocol)", "SQLite", "PostgreSQL", "Redis", "Docker", "WebSockets", "React", "TypeScript", "TailwindCSS", "FFmpeg", "ElevenLabs TTS", "Kokoro TTS", "Qwen3-TTS", "LangChain", "Vector DB (for tool RAG)"]
+title: bigsk1/jarvis-voice
+category: daily-digests/2026-07-15
+tech_stack:
+- Python
+- FastAPI
+- Ollama
+- OpenAI API
+- MCP (Model Context Protocol)
+- SQLite
+- PostgreSQL
+- Redis
+- Docker
+- WebSockets
+- React
+- TypeScript
+- TailwindCSS
+- FFmpeg
+- ElevenLabs TTS
+- Kokoro TTS
+- Qwen3-TTS
+- LangChain
+- Vector DB (for tool RAG)
 quality_score: 9
 rag_relevance: 10
-tags: ["AI orchestration", "self-hosted assistant", "voice interface", "deterministic workflows", "multi-modal interaction"]
-source: "https://github.com/bigsk1/jarvis-voice"
-discovered_at: "2026-07-13T10:24:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI orchestration
+- self-hosted assistant
+- voice interface
+- deterministic workflows
+- multi-modal interaction
+source: https://github.com/bigsk1/jarvis-voice
+discovered_at: '2026-07-13T10:24:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

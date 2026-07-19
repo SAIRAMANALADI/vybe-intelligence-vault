@@ -1,13 +1,25 @@
 ---
-title: "oficinabarreal/rancho-raiz-zira"
-category: "Tooling"
-tech_stack: ["Python", "Google Sheets API", "GitHub Pages", "GitHub Actions", "WhatsApp API", "SVG Animation", "Hermes Agent (Termux/Android)"]
+title: oficinabarreal/rancho-raiz-zira
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- Google Sheets API
+- GitHub Pages
+- GitHub Actions
+- WhatsApp API
+- SVG Animation
+- Hermes Agent (Termux/Android)
 quality_score: 7
 rag_relevance: 6
-tags: ["CRM", "automation", "Google Sheets CMS", "WhatsApp integration", "static site management"]
-source: "https://github.com/oficinabarreal/rancho-raiz-zira"
-discovered_at: "2026-07-08T12:25:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CRM
+- automation
+- Google Sheets CMS
+- WhatsApp integration
+- static site management
+source: https://github.com/oficinabarreal/rancho-raiz-zira
+discovered_at: '2026-07-08T12:25:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

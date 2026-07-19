@@ -1,13 +1,32 @@
 ---
-title: "phanidhar09/clozehive"
-category: "Agent Framework"
-tech_stack: ["React 18", "Vite", "TypeScript", "FastAPI", "Python 3.12", "PostgreSQL", "pgvector", "Redis", "OpenAI/Gemini", "Docker", "nginx", "Tailwind CSS", "Zustand", "WebSockets"]
+title: phanidhar09/clozehive
+category: daily-digests/2026-07-08
+tech_stack:
+- React 18
+- Vite
+- TypeScript
+- FastAPI
+- Python 3.12
+- PostgreSQL
+- pgvector
+- Redis
+- OpenAI/Gemini
+- Docker
+- nginx
+- Tailwind CSS
+- Zustand
+- WebSockets
 quality_score: 9
 rag_relevance: 9
-tags: ["RAG", "AI Stylist", "Digital Closet", "Vector Search", "Fashion Recommendation"]
-source: "https://github.com/phanidhar09/clozehive"
-discovered_at: "2026-07-08T15:15:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RAG
+- AI Stylist
+- Digital Closet
+- Vector Search
+- Fashion Recommendation
+source: https://github.com/phanidhar09/clozehive
+discovered_at: '2026-07-08T15:15:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

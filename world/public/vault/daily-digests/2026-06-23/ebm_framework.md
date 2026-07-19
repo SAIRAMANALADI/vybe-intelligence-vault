@@ -1,13 +1,27 @@
 ---
-title: "kau10082/EBM_Framework"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code", "Crossref API", "PubMed API", "Unpaywall API", "GRADE framework", "PRISMA 2020 checklist", "Zotero API (optional)", "Epistemonikos API (optional)"]
+title: kau10082/EBM_Framework
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Claude Code
+- Crossref API
+- PubMed API
+- Unpaywall API
+- GRADE framework
+- PRISMA 2020 checklist
+- Zotero API (optional)
+- Epistemonikos API (optional)
 quality_score: 8
 rag_relevance: 7
-tags: ["Evidence-Based Medicine", "Literature Verification", "GRADE Appraisal", "Anti-Hallucination", "Medical Research Automation"]
-source: "https://github.com/kau10082/EBM_Framework"
-discovered_at: "2026-06-23T08:59:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Evidence-Based Medicine
+- Literature Verification
+- GRADE Appraisal
+- Anti-Hallucination
+- Medical Research Automation
+source: https://github.com/kau10082/EBM_Framework
+discovered_at: '2026-06-23T08:59:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

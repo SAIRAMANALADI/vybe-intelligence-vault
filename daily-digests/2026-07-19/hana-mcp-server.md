@@ -1,13 +1,23 @@
 ---
-title: "HatriGt/hana-mcp-server"
-category: "Orchestrator"
-tech_stack: ["Node.js", "SAP HANA", "Model Context Protocol (MCP)", "TypeScript", "JWT/OAuth2"]
+title: HatriGt/hana-mcp-server
+category: daily-digests/2026-07-19
+tech_stack:
+- Node.js
+- SAP HANA
+- Model Context Protocol (MCP)
+- TypeScript
+- JWT/OAuth2
 quality_score: 9
 rag_relevance: 9
-tags: ["SAP HANA", "MCP Server", "SQL Execution", "Schema Discovery", "AI Integration"]
-source: "https://github.com/HatriGt/hana-mcp-server"
-discovered_at: "2026-07-18T11:02:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- SAP HANA
+- MCP Server
+- SQL Execution
+- Schema Discovery
+- AI Integration
+source: https://github.com/HatriGt/hana-mcp-server
+discovered_at: '2026-07-18T11:02:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

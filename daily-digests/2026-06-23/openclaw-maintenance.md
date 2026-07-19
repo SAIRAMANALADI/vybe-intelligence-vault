@@ -1,13 +1,24 @@
 ---
-title: "y-999/openclaw-maintenance"
-category: "Tooling"
-tech_stack: ["Bash", "PowerShell", "Shell Scripting", "Windows Task Scheduler", "jq", "curl"]
+title: y-999/openclaw-maintenance
+category: daily-digests/2026-06-23
+tech_stack:
+- Bash
+- PowerShell
+- Shell Scripting
+- Windows Task Scheduler
+- jq
+- curl
 quality_score: 7
 rag_relevance: 4
-tags: ["OpenClaw", "service monitoring", "automated maintenance", "log cleanup", "health checks"]
-source: "https://github.com/y-999/openclaw-maintenance"
-discovered_at: "2026-06-23T23:04:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- OpenClaw
+- service monitoring
+- automated maintenance
+- log cleanup
+- health checks
+source: https://github.com/y-999/openclaw-maintenance
+discovered_at: '2026-06-23T23:04:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

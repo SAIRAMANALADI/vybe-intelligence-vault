@@ -1,13 +1,27 @@
 ---
-title: "scchearn/loam"
-category: "Agent Framework"
-tech_stack: ["Shell", "JavaScript/Node.js", "Markdown", "Obsidian", "Claude Code", "OpenCode", "Cursor", "Codex", "Antigravity"]
+title: scchearn/loam
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- Shell
+- JavaScript/Node.js
+- Markdown
+- Obsidian
+- Claude Code
+- OpenCode
+- Cursor
+- Codex
+- Antigravity
 quality_score: 8
 rag_relevance: 9
-tags: ["AI agent workflows", "persistent memory", "planning and execution", "knowledge base management", "multi-agent coordination"]
-source: "https://github.com/scchearn/loam"
-discovered_at: "2026-07-14T10:07:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent workflows
+- persistent memory
+- planning and execution
+- knowledge base management
+- multi-agent coordination
+source: https://github.com/scchearn/loam
+discovered_at: '2026-07-14T10:07:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

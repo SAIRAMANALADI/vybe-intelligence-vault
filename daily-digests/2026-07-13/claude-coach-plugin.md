@@ -1,13 +1,24 @@
 ---
-title: "netresearch/claude-coach-plugin"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "Claude Code", "Agent Skills specification", "LLM (Claude Haiku)", "Git"]
+title: netresearch/claude-coach-plugin
+category: daily-digests/2026-07-13
+tech_stack:
+- Python
+- SQLite
+- Claude Code
+- Agent Skills specification
+- LLM (Claude Haiku)
+- Git
 quality_score: 7
 rag_relevance: 4
-tags: ["self-improving", "friction detection", "Claude Code plugin", "skill updates", "deprecated"]
-source: "https://github.com/netresearch/claude-coach-plugin"
-discovered_at: "2026-07-12T10:26:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-improving
+- friction detection
+- Claude Code plugin
+- skill updates
+- deprecated
+source: https://github.com/netresearch/claude-coach-plugin
+discovered_at: '2026-07-12T10:26:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

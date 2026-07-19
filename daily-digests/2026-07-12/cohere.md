@@ -1,13 +1,27 @@
 ---
-title: "MasterBhuvnesh/Cohere"
-category: "SaaS Template"
-tech_stack: ["Next.js 16", "Convex", "Clerk", "TypeScript", "Tailwind CSS v4", "OpenAI", "DnD Kit", "Svix", "PostgreSQL (via Convex)"]
+title: MasterBhuvnesh/Cohere
+category: daily-digests/2026-07-12
+tech_stack:
+- Next.js 16
+- Convex
+- Clerk
+- TypeScript
+- Tailwind CSS v4
+- OpenAI
+- DnD Kit
+- Svix
+- PostgreSQL (via Convex)
 quality_score: 9
 rag_relevance: 6
-tags: ["Issue Tracking", "AI-Powered Triage", "Multi-Tenant SaaS", "Real-Time Collaboration", "GitHub Integration"]
-source: "https://github.com/MasterBhuvnesh/Cohere"
-discovered_at: "2026-07-12T15:58:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Issue Tracking
+- AI-Powered Triage
+- Multi-Tenant SaaS
+- Real-Time Collaboration
+- GitHub Integration
+source: https://github.com/MasterBhuvnesh/Cohere
+discovered_at: '2026-07-12T15:58:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

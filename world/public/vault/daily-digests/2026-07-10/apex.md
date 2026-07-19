@@ -1,13 +1,31 @@
 ---
-title: "use-ash/apex"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "SQLite", "mTLS", "WebSocket", "Ollama", "Claude SDK", "Grok API", "OpenAI Codex", "Semantic Search", "Whisper", "React (Web UI)", "SwiftUI (iOS)"]
+title: use-ash/apex
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- mTLS
+- WebSocket
+- Ollama
+- Claude SDK
+- Grok API
+- OpenAI Codex
+- Semantic Search
+- Whisper
+- React (Web UI)
+- SwiftUI (iOS)
 quality_score: 9
 rag_relevance: 8
-tags: ["self-hosted", "multi-model", "persistent memory", "skills engine", "mTLS security"]
-source: "https://github.com/use-ash/apex"
-discovered_at: "2026-07-10T06:15:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-hosted
+- multi-model
+- persistent memory
+- skills engine
+- mTLS security
+source: https://github.com/use-ash/apex
+discovered_at: '2026-07-10T06:15:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "ChatLab/ChatLab"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "Vue 3", "Nuxt UI", "Tailwind CSS", "Node.js", "SQL Engine", "AI Agents", "Function Calling", "pnpm"]
+title: ChatLab/ChatLab
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Electron
+- Vue 3
+- Nuxt UI
+- Tailwind CSS
+- Node.js
+- SQL Engine
+- AI Agents
+- Function Calling
+- pnpm
 quality_score: 9
 rag_relevance: 7
-tags: ["chat analysis", "local-first", "AI agents", "data visualization", "multi-platform"]
-source: "https://github.com/ChatLab/ChatLab"
-discovered_at: "2026-06-23T06:46:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- chat analysis
+- local-first
+- AI agents
+- data visualization
+- multi-platform
+source: https://github.com/ChatLab/ChatLab
+discovered_at: '2026-06-23T06:46:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

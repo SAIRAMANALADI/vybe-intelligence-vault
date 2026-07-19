@@ -1,13 +1,24 @@
 ---
-title: "a2cr/a2cr"
-category: "Orchestrator"
-tech_stack: ["Python", "SQLite", "MCP (Model Context Protocol)", "FastAPI", "PyPI", "GitHub Actions"]
+title: a2cr/a2cr
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- SQLite
+- MCP (Model Context Protocol)
+- FastAPI
+- PyPI
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent handoff", "context management", "MCP server", "work state preservation", "local workspace"]
-source: "https://github.com/a2cr/a2cr"
-discovered_at: "2026-06-25T07:28:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent handoff
+- context management
+- MCP server
+- work state preservation
+- local workspace
+source: https://github.com/a2cr/a2cr
+discovered_at: '2026-06-25T07:28:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

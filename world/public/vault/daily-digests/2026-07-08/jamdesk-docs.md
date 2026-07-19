@@ -1,13 +1,29 @@
 ---
-title: "jamdesk/jamdesk-docs"
-category: "SaaS Template"
-tech_stack: ["MDX", "JavaScript", "Node.js", "GitHub", "Vercel", "Cloudflare", "AWS", "OpenAPI", "RAG", "Claude Code", "Cursor"]
+title: jamdesk/jamdesk-docs
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- MDX
+- JavaScript
+- Node.js
+- GitHub
+- Vercel
+- Cloudflare
+- AWS
+- OpenAPI
+- RAG
+- Claude Code
+- Cursor
 quality_score: 9
 rag_relevance: 7
-tags: ["documentation", "MDX", "Jamdesk", "AI-powered docs", "static site generator"]
-source: "https://github.com/jamdesk/jamdesk-docs"
-discovered_at: "2026-07-08T21:01:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- documentation
+- MDX
+- Jamdesk
+- AI-powered docs
+- static site generator
+source: https://github.com/jamdesk/jamdesk-docs
+discovered_at: '2026-07-08T21:01:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

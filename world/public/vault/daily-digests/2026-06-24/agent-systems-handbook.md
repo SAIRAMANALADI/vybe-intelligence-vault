@@ -1,13 +1,23 @@
 ---
-title: "Prompthon-IO/agent-systems-handbook"
-category: "Tooling"
-tech_stack: ["MDX", "Markdown", "AI-native workflows", "GitHub", "Discord"]
+title: Prompthon-IO/agent-systems-handbook
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- MDX
+- Markdown
+- AI-native workflows
+- GitHub
+- Discord
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agents", "agent systems", "production-ready", "workflows", "context engineering"]
-source: "https://github.com/Prompthon-IO/agent-systems-handbook"
-discovered_at: "2026-06-24T13:17:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- agent systems
+- production-ready
+- workflows
+- context engineering
+source: https://github.com/Prompthon-IO/agent-systems-handbook
+discovered_at: '2026-06-24T13:17:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,31 @@
 ---
-title: "bejranonda/ExternalBrain"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Next.js", "React", "Tailwind CSS", "PostgreSQL", "pgvector", "Model Context Protocol (MCP)", "Prisma", "Docker", "Docker Compose", "Turborepo", "pg-boss"]
+title: bejranonda/ExternalBrain
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- Next.js
+- React
+- Tailwind CSS
+- PostgreSQL
+- pgvector
+- Model Context Protocol (MCP)
+- Prisma
+- Docker
+- Docker Compose
+- Turborepo
+- pg-boss
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP server", "self-hosted AI memory", "knowledge extraction", "semantic retrieval", "team collaboration"]
-source: "https://github.com/bejranonda/ExternalBrain"
-discovered_at: "2026-07-07T20:51:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- self-hosted AI memory
+- knowledge extraction
+- semantic retrieval
+- team collaboration
+source: https://github.com/bejranonda/ExternalBrain
+discovered_at: '2026-07-07T20:51:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

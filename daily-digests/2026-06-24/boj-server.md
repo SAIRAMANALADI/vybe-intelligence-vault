@@ -1,13 +1,30 @@
 ---
-title: "hyperpolymath/boj-server"
-category: "Agent Framework"
-tech_stack: ["MCP (Model Context Protocol)", "Deno", "Zig", "Idris2", "JavaScript/TypeScript", "REST API", "Formal Verification", "Docker", "Kubernetes", "PostgreSQL", "MongoDB", "Redis"]
+title: hyperpolymath/boj-server
+category: daily-digests/2026-06-24
+tech_stack:
+- MCP (Model Context Protocol)
+- Deno
+- Zig
+- Idris2
+- JavaScript/TypeScript
+- REST API
+- Formal Verification
+- Docker
+- Kubernetes
+- PostgreSQL
+- MongoDB
+- Redis
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP server", "AI tooling", "multi-cartridge", "formal verification", "cloud integration"]
-source: "https://github.com/hyperpolymath/boj-server"
-discovered_at: "2026-06-24T20:49:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- AI tooling
+- multi-cartridge
+- formal verification
+- cloud integration
+source: https://github.com/hyperpolymath/boj-server
+discovered_at: '2026-06-24T20:49:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

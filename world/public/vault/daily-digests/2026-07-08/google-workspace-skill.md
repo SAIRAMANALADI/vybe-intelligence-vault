@@ -1,13 +1,23 @@
 ---
-title: "geziel16/google-workspace-skill"
-category: "Tooling"
-tech_stack: ["Python", "OpenClaw", "Google Workspace APIs", "gws CLI", "Windows Installer"]
+title: geziel16/google-workspace-skill
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- OpenClaw
+- Google Workspace APIs
+- gws CLI
+- Windows Installer
 quality_score: 7
 rag_relevance: 6
-tags: ["Google Workspace automation", "command-line tool", "OpenClaw integration", "API wrapper", "productivity"]
-source: "https://github.com/geziel16/google-workspace-skill"
-discovered_at: "2026-07-08T02:07:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Google Workspace automation
+- command-line tool
+- OpenClaw integration
+- API wrapper
+- productivity
+source: https://github.com/geziel16/google-workspace-skill
+discovered_at: '2026-07-08T02:07:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

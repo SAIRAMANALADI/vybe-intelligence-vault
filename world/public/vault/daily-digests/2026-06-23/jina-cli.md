@@ -1,13 +1,23 @@
 ---
-title: "leadsgorillaio/jina-cli"
-category: "Tooling"
-tech_stack: ["Go", "Jina AI Reader API", "Windows CLI", "Markdown", "HTML"]
+title: leadsgorillaio/jina-cli
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Go
+- Jina AI Reader API
+- Windows CLI
+- Markdown
+- HTML
 quality_score: 7
 rag_relevance: 8
-tags: ["web scraping", "text extraction", "CLI tool", "LLM preprocessing", "content conversion"]
-source: "https://github.com/leadsgorillaio/jina-cli"
-discovered_at: "2026-06-23T23:05:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web scraping
+- text extraction
+- CLI tool
+- LLM preprocessing
+- content conversion
+source: https://github.com/leadsgorillaio/jina-cli
+discovered_at: '2026-06-23T23:05:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

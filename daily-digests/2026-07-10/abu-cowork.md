@@ -1,13 +1,26 @@
 ---
-title: "PM-Shawn/Abu-Cowork"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Electron", "React", "Node.js", "Python", "MCP (Model Context Protocol)", "Ollama", "Docker"]
+title: PM-Shawn/Abu-Cowork
+category: daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Electron
+- React
+- Node.js
+- Python
+- MCP (Model Context Protocol)
+- Ollama
+- Docker
 quality_score: 9
 rag_relevance: 7
-tags: ["AI Agent", "Desktop Assistant", "Multi-Agent System", "Privacy-First", "Autonomous Workflows"]
-source: "https://github.com/PM-Shawn/Abu-Cowork"
-discovered_at: "2026-07-10T06:52:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent
+- Desktop Assistant
+- Multi-Agent System
+- Privacy-First
+- Autonomous Workflows
+source: https://github.com/PM-Shawn/Abu-Cowork
+discovered_at: '2026-07-10T06:52:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

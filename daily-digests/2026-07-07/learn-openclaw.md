@@ -1,13 +1,21 @@
 ---
-title: "Cecillaunion404/Learn-OpenClaw"
-category: "Tooling"
-tech_stack: ["Python", "Windows Desktop Application", "GUI Framework"]
+title: Cecillaunion404/Learn-OpenClaw
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- Windows Desktop Application
+- GUI Framework
 quality_score: 7
 rag_relevance: 6
-tags: ["agent education", "tutorial app", "LLM agents", "beginner-friendly", "Windows learning tool"]
-source: "https://github.com/Cecillaunion404/Learn-OpenClaw"
-discovered_at: "2026-07-07T23:54:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent education
+- tutorial app
+- LLM agents
+- beginner-friendly
+- Windows learning tool
+source: https://github.com/Cecillaunion404/Learn-OpenClaw
+discovered_at: '2026-07-07T23:54:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

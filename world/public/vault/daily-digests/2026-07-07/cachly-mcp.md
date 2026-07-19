@@ -1,13 +1,24 @@
 ---
-title: "cachly-dev/cachly-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Valkey/Redis", "Git", "NPM"]
+title: cachly-dev/cachly-mcp
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Valkey/Redis
+- Git
+- NPM
 quality_score: 9
 rag_relevance: 10
-tags: ["AI memory", "persistent context", "team knowledge sharing", "MCP server", "causal analysis"]
-source: "https://github.com/cachly-dev/cachly-mcp"
-discovered_at: "2026-07-07T16:26:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI memory
+- persistent context
+- team knowledge sharing
+- MCP server
+- causal analysis
+source: https://github.com/cachly-dev/cachly-mcp
+discovered_at: '2026-07-07T16:26:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

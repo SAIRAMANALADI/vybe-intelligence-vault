@@ -1,13 +1,26 @@
 ---
-title: "vivek7557/Ai-Job-hunting-Agent"
-category: "Tooling"
-tech_stack: ["Python", "Streamlit", "SQLite", "BeautifulSoup", "Requests", "TF-IDF", "Cosine Similarity", "Pandas"]
+title: vivek7557/Ai-Job-hunting-Agent
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Streamlit
+- SQLite
+- BeautifulSoup
+- Requests
+- TF-IDF
+- Cosine Similarity
+- Pandas
 quality_score: 8
 rag_relevance: 6
-tags: ["job scraping", "CV analysis", "match scoring", "real-time updates", "career tools"]
-source: "https://github.com/vivek7557/Ai-Job-hunting-Agent"
-discovered_at: "2026-06-24T18:57:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- job scraping
+- CV analysis
+- match scoring
+- real-time updates
+- career tools
+source: https://github.com/vivek7557/Ai-Job-hunting-Agent
+discovered_at: '2026-06-24T18:57:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "Archerkattri/mathlas"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Lean 4", "PSLQ (Integer Relation Detection)", "Qwen3-Embedding", "PyArrow", "NumPy", "FastMCP", "Hugging Face Datasets", "Dolma Dataset"]
+title: Archerkattri/mathlas
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Lean 4
+- PSLQ (Integer Relation Detection)
+- Qwen3-Embedding
+- PyArrow
+- NumPy
+- FastMCP
+- Hugging Face Datasets
+- Dolma Dataset
 quality_score: 9
 rag_relevance: 10
-tags: ["mathematical verification", "MCP tools", "deterministic computation", "Lean 4 integration", "numeric constant identification"]
-source: "https://github.com/Archerkattri/mathlas"
-discovered_at: "2026-07-07T16:27:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- mathematical verification
+- MCP tools
+- deterministic computation
+- Lean 4 integration
+- numeric constant identification
+source: https://github.com/Archerkattri/mathlas
+discovered_at: '2026-07-07T16:27:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

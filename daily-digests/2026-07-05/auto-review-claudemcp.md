@@ -1,13 +1,21 @@
 ---
-title: "cemilan-sepuluh/Auto-Review-ClaudeMCP"
-category: "Tooling"
-tech_stack: ["Claude Desktop", "GitHub API", "Python"]
+title: cemilan-sepuluh/Auto-Review-ClaudeMCP
+category: daily-digests/2026-07-05
+tech_stack:
+- Claude Desktop
+- GitHub API
+- Python
 quality_score: 4
 rag_relevance: 6
-tags: ["code review", "AI feedback", "GitHub integration", "Claude Desktop", "automation"]
-source: "https://github.com/cemilan-sepuluh/Auto-Review-ClaudeMCP"
-discovered_at: "2026-07-05T21:59:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code review
+- AI feedback
+- GitHub integration
+- Claude Desktop
+- automation
+source: https://github.com/cemilan-sepuluh/Auto-Review-ClaudeMCP
+discovered_at: '2026-07-05T21:59:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

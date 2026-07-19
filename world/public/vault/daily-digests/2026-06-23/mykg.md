@@ -1,13 +1,27 @@
 ---
-title: "SenolIsci/mykg"
-category: "Tooling"
-tech_stack: ["Python", "RDFS/OWL", "LLM (Anthropic, OpenAI, Ollama, OpenRouter)", "MinerU", "Crawlee", "NetworkX", "Neo4j", "Obsidian", "PyPI"]
+title: SenolIsci/mykg
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- RDFS/OWL
+- LLM (Anthropic, OpenAI, Ollama, OpenRouter)
+- MinerU
+- Crawlee
+- NetworkX
+- Neo4j
+- Obsidian
+- PyPI
 quality_score: 9
 rag_relevance: 8
-tags: ["knowledge graph extraction", "ontology induction", "RAG pipeline", "document processing", "LLM integration"]
-source: "https://github.com/SenolIsci/mykg"
-discovered_at: "2026-06-23T16:25:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- knowledge graph extraction
+- ontology induction
+- RAG pipeline
+- document processing
+- LLM integration
+source: https://github.com/SenolIsci/mykg
+discovered_at: '2026-06-23T16:25:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

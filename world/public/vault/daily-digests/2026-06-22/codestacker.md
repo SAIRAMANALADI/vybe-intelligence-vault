@@ -1,13 +1,21 @@
 ---
-title: "zonunakht-hub/CodeStacker"
-category: "Tooling"
-tech_stack: ["PowerShell", "Windows OS", "Plain Text/JSON for memory storage"]
+title: zonunakht-hub/CodeStacker
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- PowerShell
+- Windows OS
+- Plain Text/JSON for memory storage
 quality_score: 7
 rag_relevance: 6
-tags: ["AI coding assistant", "project organization", "context management", "prompt engineering", "developer workflow"]
-source: "https://github.com/zonunakht-hub/CodeStacker"
-discovered_at: "2026-06-22T18:48:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding assistant
+- project organization
+- context management
+- prompt engineering
+- developer workflow
+source: https://github.com/zonunakht-hub/CodeStacker
+discovered_at: '2026-06-22T18:48:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

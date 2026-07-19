@@ -1,13 +1,28 @@
 ---
-title: "juliopolycarpo/mangostudio"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "React", "Elysia", "Kysely", "SQLite", "Bun", "Docker", "Model Context Protocol (MCP)", "OAuth", "CI/CD (GitHub Actions)"]
+title: juliopolycarpo/mangostudio
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- React
+- Elysia
+- Kysely
+- SQLite
+- Bun
+- Docker
+- Model Context Protocol (MCP)
+- OAuth
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agent framework", "multi-provider LLM", "MCP integration", "modular skills", "image generation"]
-source: "https://github.com/juliopolycarpo/mangostudio"
-discovered_at: "2026-07-09T11:52:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent framework
+- multi-provider LLM
+- MCP integration
+- modular skills
+- image generation
+source: https://github.com/juliopolycarpo/mangostudio
+discovered_at: '2026-07-09T11:52:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

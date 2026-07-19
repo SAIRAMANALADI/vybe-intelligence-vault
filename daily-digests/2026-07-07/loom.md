@@ -1,13 +1,26 @@
 ---
-title: "reslava/loom"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "VS Code Extension API", "Markdown", "Git", "CLI (npm)", "Telemetry (opt-in)"]
+title: reslava/loom
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- VS Code Extension API
+- Markdown
+- Git
+- CLI (npm)
+- Telemetry (opt-in)
 quality_score: 9
 rag_relevance: 10
-tags: ["AI workflow", "document graph", "context management", "MCP server", "persistent state"]
-source: "https://github.com/reslava/loom"
-discovered_at: "2026-07-07T18:59:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI workflow
+- document graph
+- context management
+- MCP server
+- persistent state
+source: https://github.com/reslava/loom
+discovered_at: '2026-07-07T18:59:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

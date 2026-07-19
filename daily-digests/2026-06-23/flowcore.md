@@ -1,13 +1,23 @@
 ---
-title: "Ej-Locked/FlowCore"
-category: "Tooling"
-tech_stack: ["Rust", "React", "JavaScript", "Event-Time Processing", "Stream Processing"]
+title: Ej-Locked/FlowCore
+category: daily-digests/2026-06-23
+tech_stack:
+- Rust
+- React
+- JavaScript
+- Event-Time Processing
+- Stream Processing
 quality_score: 5
 rag_relevance: 6
-tags: ["stream processing", "real-time analytics", "event-time processing", "Rust engine", "React dashboard"]
-source: "https://github.com/Ej-Locked/FlowCore"
-discovered_at: "2026-06-23T06:53:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- stream processing
+- real-time analytics
+- event-time processing
+- Rust engine
+- React dashboard
+source: https://github.com/Ej-Locked/FlowCore
+discovered_at: '2026-06-23T06:53:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

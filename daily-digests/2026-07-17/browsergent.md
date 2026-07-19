@@ -1,13 +1,27 @@
 ---
-title: "Irvingouj/Browsergent"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Rust (compiled to WASM)", "Chrome Extension API (Manifest V3)", "Preact", "Zustand", "Tailwind CSS", "Vitest", "Playwright", "Anthropic Messages API"]
+title: Irvingouj/Browsergent
+category: daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- Rust (compiled to WASM)
+- Chrome Extension API (Manifest V3)
+- Preact
+- Zustand
+- Tailwind CSS
+- Vitest
+- Playwright
+- Anthropic Messages API
 quality_score: 8
 rag_relevance: 7
-tags: ["browser automation", "AI agent", "Chrome extension", "WASM", "LLM integration"]
-source: "https://github.com/Irvingouj/Browsergent"
-discovered_at: "2026-07-11T17:54:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- AI agent
+- Chrome extension
+- WASM
+- LLM integration
+source: https://github.com/Irvingouj/Browsergent
+discovered_at: '2026-07-11T17:54:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

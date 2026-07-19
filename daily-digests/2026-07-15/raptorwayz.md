@@ -1,13 +1,23 @@
 ---
-title: "raptorofficer/raptorwayz"
-category: "Tooling"
-tech_stack: ["Python", "Node.js", "MCP", "HTTP Clients", "Cloudflare Challenge Solving"]
+title: raptorofficer/raptorwayz
+category: daily-digests/2026-07-15
+tech_stack:
+- Python
+- Node.js
+- MCP
+- HTTP Clients
+- Cloudflare Challenge Solving
 quality_score: 7
 rag_relevance: 6
-tags: ["Cloudflare bypass", "scraping", "proxy integration", "API client", "MCP server"]
-source: "https://github.com/raptorofficer/raptorwayz"
-discovered_at: "2026-07-15T12:14:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Cloudflare bypass
+- scraping
+- proxy integration
+- API client
+- MCP server
+source: https://github.com/raptorofficer/raptorwayz
+discovered_at: '2026-07-15T12:14:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

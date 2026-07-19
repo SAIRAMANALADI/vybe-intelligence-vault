@@ -1,13 +1,32 @@
 ---
-title: "yusufkaraaslan/Skill_Seekers"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "LangChain", "LlamaIndex", "Pinecone", "ChromaDB", "FAISS", "Qdrant", "YouTube API", "FFmpeg", "Natural Language Processing (NLP)", "Machine Learning (ML)", "CLI", "PyPI"]
+title: yusufkaraaslan/Skill_Seekers
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- LangChain
+- LlamaIndex
+- Pinecone
+- ChromaDB
+- FAISS
+- Qdrant
+- YouTube API
+- FFmpeg
+- Natural Language Processing (NLP)
+- Machine Learning (ML)
+- CLI
+- PyPI
 quality_score: 9
 rag_relevance: 10
-tags: ["documentation processing", "AI skill generation", "RAG pipeline", "multi-source ingestion", "automated data preprocessing"]
-source: "https://github.com/yusufkaraaslan/Skill_Seekers"
-discovered_at: "2026-06-22T18:15:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- documentation processing
+- AI skill generation
+- RAG pipeline
+- multi-source ingestion
+- automated data preprocessing
+source: https://github.com/yusufkaraaslan/Skill_Seekers
+discovered_at: '2026-06-22T18:15:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

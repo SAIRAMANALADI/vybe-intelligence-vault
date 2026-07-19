@@ -1,13 +1,20 @@
 ---
-title: "1837620622/qoderwork-reset-id"
-category: "Tooling"
-tech_stack: ["PowerShell", "Shell Scripting"]
+title: 1837620622/qoderwork-reset-id
+category: daily-digests/2026-06-24
+tech_stack:
+- PowerShell
+- Shell Scripting
 quality_score: 5
 rag_relevance: 3
-tags: ["device ID reset", "local storage modification", "cross-platform", "account persistence", "AI agent tools"]
-source: "https://github.com/1837620622/qoderwork-reset-id"
-discovered_at: "2026-06-24T06:44:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- device ID reset
+- local storage modification
+- cross-platform
+- account persistence
+- AI agent tools
+source: https://github.com/1837620622/qoderwork-reset-id
+discovered_at: '2026-06-24T06:44:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

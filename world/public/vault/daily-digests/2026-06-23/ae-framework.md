@@ -1,13 +1,31 @@
 ---
-title: "itdojp/ae-framework"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "pnpm", "GitHub Actions", "AJV (JSON Schema validator)", "Alloy", "TLA+", "SMT (Satisfiability Modulo Theories)", "Apalache", "Kani", "SPIN", "CSP (Communicating Sequential Processes)", "Lean4"]
+title: itdojp/ae-framework
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- pnpm
+- GitHub Actions
+- AJV (JSON Schema validator)
+- Alloy
+- TLA+
+- SMT (Satisfiability Modulo Theories)
+- Apalache
+- Kani
+- SPIN
+- CSP (Communicating Sequential Processes)
+- Lean4
 quality_score: 9
 rag_relevance: 8
-tags: ["assurance control plane", "agent-driven SDLC", "formal verification", "policy gates", "agent-neutral"]
-source: "https://github.com/itdojp/ae-framework"
-discovered_at: "2026-06-23T02:49:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- assurance control plane
+- agent-driven SDLC
+- formal verification
+- policy gates
+- agent-neutral
+source: https://github.com/itdojp/ae-framework
+discovered_at: '2026-06-23T02:49:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

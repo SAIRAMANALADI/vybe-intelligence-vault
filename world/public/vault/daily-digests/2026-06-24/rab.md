@@ -1,13 +1,21 @@
 ---
-title: "markokocic/rab"
-category: "Agent Framework"
-tech_stack: ["Rust", "Cargo", "CLI"]
+title: markokocic/rab
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Rust
+- Cargo
+- CLI
 quality_score: 7
 rag_relevance: 6
-tags: ["coding agent", "Rust", "AI orchestration", "agent framework", "lightweight"]
-source: "https://github.com/markokocic/rab"
-discovered_at: "2026-06-24T20:45:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- coding agent
+- Rust
+- AI orchestration
+- agent framework
+- lightweight
+source: https://github.com/markokocic/rab
+discovered_at: '2026-06-24T20:45:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

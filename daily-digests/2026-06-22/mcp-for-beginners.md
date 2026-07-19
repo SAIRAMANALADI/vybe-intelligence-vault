@@ -1,13 +1,25 @@
 ---
-title: "microsoft/mcp-for-beginners"
-category: "Tooling"
-tech_stack: ["Python", "JavaScript", "TypeScript", "Rust", "C#", "Jupyter Notebook", "GitHub Actions"]
+title: microsoft/mcp-for-beginners
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- JavaScript
+- TypeScript
+- Rust
+- C#
+- Jupyter Notebook
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-tags: ["Model Context Protocol", "AI integration", "multi-language", "beginner-friendly", "curriculum"]
-source: "https://github.com/microsoft/mcp-for-beginners"
-discovered_at: "2026-06-22T18:13:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Model Context Protocol
+- AI integration
+- multi-language
+- beginner-friendly
+- curriculum
+source: https://github.com/microsoft/mcp-for-beginners
+discovered_at: '2026-06-22T18:13:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

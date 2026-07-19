@@ -1,13 +1,23 @@
 ---
-title: "9xj89gzrtw-hue/v950-bot"
-category: "Tooling"
-tech_stack: ["Python", "GitHub API", "GraphQL", "REST API", "CI/CD"]
+title: 9xj89gzrtw-hue/v950-bot
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- GitHub API
+- GraphQL
+- REST API
+- CI/CD
 quality_score: 7
 rag_relevance: 6
-tags: ["GitHub automation", "CI/CD monitoring", "repository management", "Python toolkit", "API abstraction"]
-source: "https://github.com/9xj89gzrtw-hue/v950-bot"
-discovered_at: "2026-07-07T16:24:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- GitHub automation
+- CI/CD monitoring
+- repository management
+- Python toolkit
+- API abstraction
+source: https://github.com/9xj89gzrtw-hue/v950-bot
+discovered_at: '2026-07-07T16:24:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "nathas6674/Zero-code"
-category: "Tooling"
-tech_stack: ["Java", "LangGraph4j", "AI Agents", "Local Database", "Windows Installer"]
+title: nathas6674/Zero-code
+category: daily-digests/2026-07-14
+tech_stack:
+- Java
+- LangGraph4j
+- AI Agents
+- Local Database
+- Windows Installer
 quality_score: 6
 rag_relevance: 5
-tags: ["no-code", "workflow automation", "AI-driven development", "local execution", "task planning"]
-source: "https://github.com/nathas6674/Zero-code"
-discovered_at: "2026-07-11T11:03:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- no-code
+- workflow automation
+- AI-driven development
+- local execution
+- task planning
+source: https://github.com/nathas6674/Zero-code
+discovered_at: '2026-07-11T11:03:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

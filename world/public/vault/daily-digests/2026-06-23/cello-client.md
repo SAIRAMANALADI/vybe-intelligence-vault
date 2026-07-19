@@ -1,13 +1,26 @@
 ---
-title: "Mygentic-AI/cello-client"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "SQLCipher", "Ed25519", "libp2p", "MCP (Model Context Protocol)", "FROST threshold cryptography", "Telegram API"]
+title: Mygentic-AI/cello-client
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- SQLCipher
+- Ed25519
+- libp2p
+- MCP (Model Context Protocol)
+- FROST threshold cryptography
+- Telegram API
 quality_score: 8
 rag_relevance: 7
-tags: ["decentralized communication", "agent identity", "secure messaging", "tamper-evident audit", "MCP server"]
-source: "https://github.com/Mygentic-AI/cello-client"
-discovered_at: "2026-06-23T16:31:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- decentralized communication
+- agent identity
+- secure messaging
+- tamper-evident audit
+- MCP server
+source: https://github.com/Mygentic-AI/cello-client
+discovered_at: '2026-06-23T16:31:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

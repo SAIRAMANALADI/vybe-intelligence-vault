@@ -1,13 +1,23 @@
 ---
-title: "junter1989k-ai/india-payments-mcp"
-category: "Tooling"
-tech_stack: ["Node.js", "Model Context Protocol (MCP)", "Razorpay API", "HTTP/JSON-RPC", "JavaScript"]
+title: junter1989k-ai/india-payments-mcp
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Node.js
+- Model Context Protocol (MCP)
+- Razorpay API
+- HTTP/JSON-RPC
+- JavaScript
 quality_score: 8
 rag_relevance: 9
-tags: ["payments", "UPI", "Razorpay", "MCP server", "AI agents"]
-source: "https://github.com/junter1989k-ai/india-payments-mcp"
-discovered_at: "2026-07-08T19:17:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- payments
+- UPI
+- Razorpay
+- MCP server
+- AI agents
+source: https://github.com/junter1989k-ai/india-payments-mcp
+discovered_at: '2026-07-08T19:17:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "AdvancingTitans/stock-analysis"
-category: "Tooling"
-tech_stack: ["Python", "CLI", "Markdown", "JSON", "Tencent API", "Sina API", "Eastmoney API", "Pytest", "Ruff"]
+title: AdvancingTitans/stock-analysis
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- CLI
+- Markdown
+- JSON
+- Tencent API
+- Sina API
+- Eastmoney API
+- Pytest
+- Ruff
 quality_score: 9
 rag_relevance: 8
-tags: ["stock market analysis", "evidence-driven", "quant research", "data-quality scoring", "multi-source fallback"]
-source: "https://github.com/AdvancingTitans/stock-analysis"
-discovered_at: "2026-07-09T08:24:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- stock market analysis
+- evidence-driven
+- quant research
+- data-quality scoring
+- multi-source fallback
+source: https://github.com/AdvancingTitans/stock-analysis
+discovered_at: '2026-07-09T08:24:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

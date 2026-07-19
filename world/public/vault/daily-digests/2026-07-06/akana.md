@@ -1,13 +1,33 @@
 ---
-title: "MuhittinYilmazer/akana"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "SQLite", "MCP (Model Context Protocol)", "Ollama", "Claude Code CLI", "Cursor SDK", "Gemini API", "OpenAI API", "FFmpeg", "Piper TTS", "Microsoft Edge TTS", "Playwright", "Node.js", "React"]
+title: MuhittinYilmazer/akana
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- MCP (Model Context Protocol)
+- Ollama
+- Claude Code CLI
+- Cursor SDK
+- Gemini API
+- OpenAI API
+- FFmpeg
+- Piper TTS
+- Microsoft Edge TTS
+- Playwright
+- Node.js
+- React
 quality_score: 9
 rag_relevance: 8
-tags: ["self-hosted", "local-first", "LLM provider agnostic", "memory management", "encrypted vault"]
-source: "https://github.com/MuhittinYilmazer/akana"
-discovered_at: "2026-07-06T21:25:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-hosted
+- local-first
+- LLM provider agnostic
+- memory management
+- encrypted vault
+source: https://github.com/MuhittinYilmazer/akana
+discovered_at: '2026-07-06T21:25:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

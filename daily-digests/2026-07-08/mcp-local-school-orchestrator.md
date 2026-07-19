@@ -1,13 +1,25 @@
 ---
-title: "sheelaghexpensive483/mcp-local-school-orchestrator"
-category: "Orchestrator"
-tech_stack: ["Python", "Streamlit", "SQLite", "MCP (Model Context Protocol)", "LangGraph", "Ollama", "Local LLMs (e.g., Llama 3)"]
+title: sheelaghexpensive483/mcp-local-school-orchestrator
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- Streamlit
+- SQLite
+- MCP (Model Context Protocol)
+- LangGraph
+- Ollama
+- Local LLMs (e.g., Llama 3)
 quality_score: 7
 rag_relevance: 6
-tags: ["school management", "local AI", "privacy-first", "workflow automation", "PDF generation"]
-source: "https://github.com/sheelaghexpensive483/mcp-local-school-orchestrator"
-discovered_at: "2026-07-08T22:15:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- school management
+- local AI
+- privacy-first
+- workflow automation
+- PDF generation
+source: https://github.com/sheelaghexpensive483/mcp-local-school-orchestrator
+discovered_at: '2026-07-08T22:15:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

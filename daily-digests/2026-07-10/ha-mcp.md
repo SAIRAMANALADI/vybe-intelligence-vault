@@ -1,13 +1,24 @@
 ---
-title: "zorak1103/ha-mcp"
-category: "Agent Framework"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "Home Assistant WebSocket API", "REST API", "Docker", "GitHub Actions"]
+title: zorak1103/ha-mcp
+category: daily-digests/2026-07-10
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- Home Assistant WebSocket API
+- REST API
+- Docker
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["Home Automation", "MCP Server", "Smart Home", "AI Integration", "Home Assistant"]
-source: "https://github.com/zorak1103/ha-mcp"
-discovered_at: "2026-07-10T06:16:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Home Automation
+- MCP Server
+- Smart Home
+- AI Integration
+- Home Assistant
+source: https://github.com/zorak1103/ha-mcp
+discovered_at: '2026-07-10T06:16:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

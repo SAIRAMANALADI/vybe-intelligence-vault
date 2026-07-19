@@ -1,13 +1,22 @@
 ---
-title: "jobregisterlanguage90/agent-kit"
-category: "Agent Framework"
-tech_stack: ["Python", "Runtime Environment", "Multi-process Coordination", "Observability Tools"]
+title: jobregisterlanguage90/agent-kit
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Runtime Environment
+- Multi-process Coordination
+- Observability Tools
 quality_score: 5
 rag_relevance: 7
-tags: ["AI agents", "runtime", "persistence", "observability", "multi-process"]
-source: "https://github.com/jobregisterlanguage90/agent-kit"
-discovered_at: "2026-07-07T20:51:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- runtime
+- persistence
+- observability
+- multi-process
+source: https://github.com/jobregisterlanguage90/agent-kit
+discovered_at: '2026-07-07T20:51:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

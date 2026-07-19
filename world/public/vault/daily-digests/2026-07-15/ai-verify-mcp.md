@@ -1,13 +1,27 @@
 ---
-title: "validpilot/ai-verify-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Playwright", "axe-core", "Puppeteer", "Markdown", "HAR (HTTP Archive)", "CI/CD (GitHub Actions)"]
+title: validpilot/ai-verify-mcp
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Playwright
+- axe-core
+- Puppeteer
+- Markdown
+- HAR (HTTP Archive)
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI verification", "evidence collection", "browser automation", "MCP server", "RAG validation"]
-source: "https://github.com/validpilot/ai-verify-mcp"
-discovered_at: "2026-07-11T16:55:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI verification
+- evidence collection
+- browser automation
+- MCP server
+- RAG validation
+source: https://github.com/validpilot/ai-verify-mcp
+discovered_at: '2026-07-11T16:55:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

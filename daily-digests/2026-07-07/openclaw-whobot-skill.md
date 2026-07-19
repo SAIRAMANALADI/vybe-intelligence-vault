@@ -1,13 +1,22 @@
 ---
-title: "Elizabethan-thortveitite288/openclaw-whobot-skill"
-category: "Tooling"
-tech_stack: ["Python", "OpenClaw", "WhoBot", "Windows OS"]
+title: Elizabethan-thortveitite288/openclaw-whobot-skill
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- OpenClaw
+- WhoBot
+- Windows OS
 quality_score: 7
 rag_relevance: 6
-tags: ["OpenClaw", "WhoBot", "AI phone agents", "voice AI", "enterprise knowledge"]
-source: "https://github.com/Elizabethan-thortveitite288/openclaw-whobot-skill"
-discovered_at: "2026-07-07T23:54:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- OpenClaw
+- WhoBot
+- AI phone agents
+- voice AI
+- enterprise knowledge
+source: https://github.com/Elizabethan-thortveitite288/openclaw-whobot-skill
+discovered_at: '2026-07-07T23:54:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

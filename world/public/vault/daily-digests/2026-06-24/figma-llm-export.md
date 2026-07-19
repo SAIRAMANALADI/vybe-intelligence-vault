@@ -1,13 +1,24 @@
 ---
-title: "Gamma-Software/figma-llm-export"
-category: "Tooling"
-tech_stack: ["TypeScript", "Figma Plugin API", "esbuild", "Node.js", "Base64 Encoding", "JSON Schema"]
+title: Gamma-Software/figma-llm-export
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Figma Plugin API
+- esbuild
+- Node.js
+- Base64 Encoding
+- JSON Schema
 quality_score: 8
 rag_relevance: 9
-tags: ["Figma plugin", "LLM integration", "design export", "multimodal payload", "AI agent tooling"]
-source: "https://github.com/Gamma-Software/figma-llm-export"
-discovered_at: "2026-06-24T20:47:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Figma plugin
+- LLM integration
+- design export
+- multimodal payload
+- AI agent tooling
+source: https://github.com/Gamma-Software/figma-llm-export
+discovered_at: '2026-06-24T20:47:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

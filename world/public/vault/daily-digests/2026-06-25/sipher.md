@@ -1,13 +1,29 @@
 ---
-title: "sip-protocol/sipher"
-category: "Tooling"
-tech_stack: ["TypeScript", "Express.js", "Solana", "Anchor Framework", "Ed25519 ECDH", "secp256k1", "Pedersen Commitments", "XChaCha20-Poly1305", "BIP32/BIP39", "REST API", "OpenClaw"]
+title: sip-protocol/sipher
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Express.js
+- Solana
+- Anchor Framework
+- Ed25519 ECDH
+- secp256k1
+- Pedersen Commitments
+- XChaCha20-Poly1305
+- BIP32/BIP39
+- REST API
+- OpenClaw
 quality_score: 9
 rag_relevance: 8
-tags: ["privacy", "multi-chain", "stealth addresses", "agent transactions", "compliance"]
-source: "https://github.com/sip-protocol/sipher"
-discovered_at: "2026-06-25T05:03:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- privacy
+- multi-chain
+- stealth addresses
+- agent transactions
+- compliance
+source: https://github.com/sip-protocol/sipher
+discovered_at: '2026-06-25T05:03:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "NPC-Worldwide/npcpy"
-category: "Agent Framework"
-tech_stack: ["Python", "Ollama", "Llama.cpp", "LM Studio", "Minimax", "LiteLLM", "HuggingFace Datasets", "PyTorch", "FastAPI"]
+title: NPC-Worldwide/npcpy
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- Ollama
+- Llama.cpp
+- LM Studio
+- Minimax
+- LiteLLM
+- HuggingFace Datasets
+- PyTorch
+- FastAPI
 quality_score: 9
 rag_relevance: 10
-tags: ["multi-agent systems", "knowledge graphs", "LLM tooling", "context engineering", "RAG optimization"]
-source: "https://github.com/NPC-Worldwide/npcpy"
-discovered_at: "2026-07-09T21:19:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- knowledge graphs
+- LLM tooling
+- context engineering
+- RAG optimization
+source: https://github.com/NPC-Worldwide/npcpy
+discovered_at: '2026-07-09T21:19:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

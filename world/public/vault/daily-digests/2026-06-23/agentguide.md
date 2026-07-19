@@ -1,13 +1,23 @@
 ---
-title: "lukas121212112/AgentGuide"
-category: "UI Component"
-tech_stack: ["LangGraph", "Electron", "HTML", "JavaScript", "Markdown"]
+title: lukas121212112/AgentGuide
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- LangGraph
+- Electron
+- HTML
+- JavaScript
+- Markdown
 quality_score: 6
 rag_relevance: 7
-tags: ["AI agent development", "LangGraph", "tutorials", "interview prep", "RAG techniques"]
-source: "https://github.com/lukas121212112/AgentGuide"
-discovered_at: "2026-06-23T08:54:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent development
+- LangGraph
+- tutorials
+- interview prep
+- RAG techniques
+source: https://github.com/lukas121212112/AgentGuide
+discovered_at: '2026-06-23T08:54:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

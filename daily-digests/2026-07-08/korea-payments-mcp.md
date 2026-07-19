@@ -1,13 +1,23 @@
 ---
-title: "junter1989k-ai/korea-payments-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "Toss Payments API", "HTTP/JSON-RPC"]
+title: junter1989k-ai/korea-payments-mcp
+category: daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- Toss Payments API
+- HTTP/JSON-RPC
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP server", "Korean payments", "Toss Payments", "AI agent integration", "payment gateway"]
-source: "https://github.com/junter1989k-ai/korea-payments-mcp"
-discovered_at: "2026-07-08T19:17:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Korean payments
+- Toss Payments
+- AI agent integration
+- payment gateway
+source: https://github.com/junter1989k-ai/korea-payments-mcp
+discovered_at: '2026-07-08T19:17:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "EtanHey/cmuxlayer"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Unix sockets", "Bun", "Vitest", "Git"]
+title: EtanHey/cmuxlayer
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Unix sockets
+- Bun
+- Vitest
+- Git
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "terminal orchestration", "multi-agent coordination", "screen parsing", "workspace management"]
-source: "https://github.com/EtanHey/cmuxlayer"
-discovered_at: "2026-06-24T20:48:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- terminal orchestration
+- multi-agent coordination
+- screen parsing
+- workspace management
+source: https://github.com/EtanHey/cmuxlayer
+discovered_at: '2026-06-24T20:48:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

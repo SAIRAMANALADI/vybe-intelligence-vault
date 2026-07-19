@@ -1,13 +1,22 @@
 ---
-title: "christ3686/LLuna"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Local Small Language Models (SLMs)", "AGPLv3 License"]
+title: christ3686/LLuna
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Local Small Language Models (SLMs)
+- AGPLv3 License
 quality_score: 6
 rag_relevance: 7
-tags: ["autonomous AI", "research tools", "local SLMs", "MCP integration", "security-first"]
-source: "https://github.com/christ3686/LLuna"
-discovered_at: "2026-06-25T00:05:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous AI
+- research tools
+- local SLMs
+- MCP integration
+- security-first
+source: https://github.com/christ3686/LLuna
+discovered_at: '2026-06-25T00:05:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

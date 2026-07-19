@@ -1,13 +1,21 @@
 ---
-title: "NachaFromMars/productivity"
-category: "Tooling"
-tech_stack: ["OpenClaw", "Markdown", "Local File System"]
+title: NachaFromMars/productivity
+category: daily-digests/2026-06-23
+tech_stack:
+- OpenClaw
+- Markdown
+- Local File System
 quality_score: 6
 rag_relevance: 4
-tags: ["productivity", "time management", "energy awareness", "OpenClaw", "personalization"]
-source: "https://github.com/NachaFromMars/productivity"
-discovered_at: "2026-06-23T06:48:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- productivity
+- time management
+- energy awareness
+- OpenClaw
+- personalization
+source: https://github.com/NachaFromMars/productivity
+discovered_at: '2026-06-23T06:48:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

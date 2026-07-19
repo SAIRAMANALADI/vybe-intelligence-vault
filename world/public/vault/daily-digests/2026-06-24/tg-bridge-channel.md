@@ -1,13 +1,27 @@
 ---
-title: "AliceLJY/tg-bridge-channel"
-category: "Tooling"
-tech_stack: ["JavaScript", "Bun", "Telegram Bot API", "Claude Agent SDK", "Claude CLI (claude --bg)", "SQLite", "Redis", "A2A-TG Protocol", "Node.js"]
+title: AliceLJY/tg-bridge-channel
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- JavaScript
+- Bun
+- Telegram Bot API
+- Claude Agent SDK
+- Claude CLI (claude --bg)
+- SQLite
+- Redis
+- A2A-TG Protocol
+- Node.js
 quality_score: 8
 rag_relevance: 9
-tags: ["Telegram integration", "AI agent control", "Claude Code", "multi-agent collaboration", "self-hosted"]
-source: "https://github.com/AliceLJY/tg-bridge-channel"
-discovered_at: "2026-06-24T02:47:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Telegram integration
+- AI agent control
+- Claude Code
+- multi-agent collaboration
+- self-hosted
+source: https://github.com/AliceLJY/tg-bridge-channel
+discovered_at: '2026-06-24T02:47:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

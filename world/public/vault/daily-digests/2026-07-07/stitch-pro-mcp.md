@@ -1,13 +1,25 @@
 ---
-title: "ostensible-meeting210/stitch-pro-mcp"
-category: "Tooling"
-tech_stack: ["MCP", "Google Stitch", "React", "Vue", "Svelte", "TypeScript", "Node.js"]
+title: ostensible-meeting210/stitch-pro-mcp
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- MCP
+- Google Stitch
+- React
+- Vue
+- Svelte
+- TypeScript
+- Node.js
 quality_score: 5
 rag_relevance: 7
-tags: ["MCP server", "frontend orchestration", "design systems", "accessibility tools", "responsive UI"]
-source: "https://github.com/ostensible-meeting210/stitch-pro-mcp"
-discovered_at: "2026-07-07T23:56:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- frontend orchestration
+- design systems
+- accessibility tools
+- responsive UI
+source: https://github.com/ostensible-meeting210/stitch-pro-mcp
+discovered_at: '2026-07-07T23:56:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

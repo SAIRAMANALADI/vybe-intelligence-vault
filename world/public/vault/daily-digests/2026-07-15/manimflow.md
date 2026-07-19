@@ -1,13 +1,32 @@
 ---
-title: "theabbie/ManimFlow"
-category: "Orchestrator"
-tech_stack: ["Python", "Streamlit", "Manim", "Pi (autonomous coding agent)", "GitHub Copilot", "Google Gemini", "ChatGPT", "Anthropic", "Exa", "Node.js", "LaTeX", "FFmpeg", "Monaco Editor", "YouTube API"]
+title: theabbie/ManimFlow
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- Python
+- Streamlit
+- Manim
+- Pi (autonomous coding agent)
+- GitHub Copilot
+- Google Gemini
+- ChatGPT
+- Anthropic
+- Exa
+- Node.js
+- LaTeX
+- FFmpeg
+- Monaco Editor
+- YouTube API
 quality_score: 9
 rag_relevance: 7
-tags: ["AI animation generation", "autonomous coding agent", "Manim automation", "natural language to video", "YouTube upload"]
-source: "https://github.com/theabbie/ManimFlow"
-discovered_at: "2026-07-11T20:09:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI animation generation
+- autonomous coding agent
+- Manim automation
+- natural language to video
+- YouTube upload
+source: https://github.com/theabbie/ManimFlow
+discovered_at: '2026-07-11T20:09:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

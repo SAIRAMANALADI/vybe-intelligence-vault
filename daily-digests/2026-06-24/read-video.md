@@ -1,13 +1,28 @@
 ---
-title: "RikepilB/read-video"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude Code", "ffmpeg/ffprobe", "yt-dlp", "faster-whisper", "Whisper", "Groq API", "OpenAI API", "Gemini API", "trx"]
+title: RikepilB/read-video
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Claude Code
+- ffmpeg/ffprobe
+- yt-dlp
+- faster-whisper
+- Whisper
+- Groq API
+- OpenAI API
+- Gemini API
+- trx
 quality_score: 9
 rag_relevance: 8
-tags: ["video processing", "cost estimation", "transcription", "privacy-first", "Claude Code skill"]
-source: "https://github.com/RikepilB/read-video"
-discovered_at: "2026-06-24T22:13:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- video processing
+- cost estimation
+- transcription
+- privacy-first
+- Claude Code skill
+source: https://github.com/RikepilB/read-video
+discovered_at: '2026-06-24T22:13:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

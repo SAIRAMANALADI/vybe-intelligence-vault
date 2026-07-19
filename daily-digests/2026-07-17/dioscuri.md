@@ -1,13 +1,27 @@
 ---
-title: "alexar76/dioscuri"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "grammY (Telegram)", "discord.js (Discord)", "DeepSeek/Anthropic/OpenAI-compatible LLMs", "GitHub API", "Docker", "NFKC normalization", "SHA-256 hashing"]
+title: alexar76/dioscuri
+category: daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- Node.js
+- grammY (Telegram)
+- discord.js (Discord)
+- DeepSeek/Anthropic/OpenAI-compatible LLMs
+- GitHub API
+- Docker
+- NFKC normalization
+- SHA-256 hashing
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent system", "prompt injection defense", "community agents", "knowledge base sync", "moderation framework"]
-source: "https://github.com/alexar76/dioscuri"
-discovered_at: "2026-07-16T12:22:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent system
+- prompt injection defense
+- community agents
+- knowledge base sync
+- moderation framework
+source: https://github.com/alexar76/dioscuri
+discovered_at: '2026-07-16T12:22:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

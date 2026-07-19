@@ -1,13 +1,27 @@
 ---
-title: "DUBSOpenHub/hoot"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "GitHub Copilot SDK", "SQLite", "Telegram Bot API", "EventEmitter", "Priority Queue", "Circuit Breaker", "Docker (implied for deployment)"]
+title: DUBSOpenHub/hoot
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- GitHub Copilot SDK
+- SQLite
+- Telegram Bot API
+- EventEmitter
+- Priority Queue
+- Circuit Breaker
+- Docker (implied for deployment)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI daemon", "background service", "multi-channel", "long-term memory", "agent framework"]
-source: "https://github.com/DUBSOpenHub/hoot"
-discovered_at: "2026-06-25T07:26:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI daemon
+- background service
+- multi-channel
+- long-term memory
+- agent framework
+source: https://github.com/DUBSOpenHub/hoot
+discovered_at: '2026-06-25T07:26:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

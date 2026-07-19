@@ -1,13 +1,28 @@
 ---
-title: "sandraschi/filesystem-mcp"
-category: "Orchestrator"
-tech_stack: ["Python", "FastMCP", "Docker", "Git", "React", "Pydantic", "Uvicorn", "Just", "Ruff", "Biome"]
+title: sandraschi/filesystem-mcp
+category: daily-digests/2026-07-18
+tech_stack:
+- Python
+- FastMCP
+- Docker
+- Git
+- React
+- Pydantic
+- Uvicorn
+- Just
+- Ruff
+- Biome
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP Server", "File System Operations", "Docker Management", "Git Integration", "AI Tooling"]
-source: "https://github.com/sandraschi/filesystem-mcp"
-discovered_at: "2026-07-14T08:01:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- File System Operations
+- Docker Management
+- Git Integration
+- AI Tooling
+source: https://github.com/sandraschi/filesystem-mcp
+discovered_at: '2026-07-14T08:01:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

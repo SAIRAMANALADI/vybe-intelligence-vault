@@ -1,13 +1,29 @@
 ---
-title: "ForLegalAI/mcp-ms-office-documents"
-category: "Tooling"
-tech_stack: ["Python", "Docker", "MCP (Model Context Protocol)", "FastAPI", "python-docx", "python-pptx", "openpyxl", "markdown", "boto3", "google-cloud-storage", "azure-storage-blob"]
+title: ForLegalAI/mcp-ms-office-documents
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Docker
+- MCP (Model Context Protocol)
+- FastAPI
+- python-docx
+- python-pptx
+- openpyxl
+- markdown
+- boto3
+- google-cloud-storage
+- azure-storage-blob
 quality_score: 9
 rag_relevance: 8
-tags: ["document generation", "MCP server", "Office automation", "AI integration", "cloud storage"]
-source: "https://github.com/ForLegalAI/mcp-ms-office-documents"
-discovered_at: "2026-06-23T21:32:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- document generation
+- MCP server
+- Office automation
+- AI integration
+- cloud storage
+source: https://github.com/ForLegalAI/mcp-ms-office-documents
+discovered_at: '2026-06-23T21:32:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "Divakar-2005-02-02/nl-mcp-stdio-ollama-time-demo"
-category: "Tooling"
-tech_stack: ["Python", ".NET", "Ollama", "MCP (Model Context Protocol)"]
+title: Divakar-2005-02-02/nl-mcp-stdio-ollama-time-demo
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- .NET
+- Ollama
+- MCP (Model Context Protocol)
 quality_score: 5
 rag_relevance: 6
-tags: ["MCP", "Ollama", "LLM Integration", ".NET", "Tooling"]
-source: "https://github.com/Divakar-2005-02-02/nl-mcp-stdio-ollama-time-demo"
-discovered_at: "2026-06-25T00:13:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- Ollama
+- LLM Integration
+- .NET
+- Tooling
+source: https://github.com/Divakar-2005-02-02/nl-mcp-stdio-ollama-time-demo
+discovered_at: '2026-06-25T00:13:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "joysinleung/index-tts2-skills"
-category: "Tooling"
-tech_stack: ["Python", "gradio_client", "IndexTTS2", "uv (Python package manager)", "WebUI (Gradio-based)"]
+title: joysinleung/index-tts2-skills
+category: daily-digests/2026-07-14
+tech_stack:
+- Python
+- gradio_client
+- IndexTTS2
+- uv (Python package manager)
+- WebUI (Gradio-based)
 quality_score: 8
 rag_relevance: 7
-tags: ["TTS", "voice generation", "local inference", "Gradio API", "Agent integration"]
-source: "https://github.com/joysinleung/index-tts2-skills"
-discovered_at: "2026-07-11T18:59:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- TTS
+- voice generation
+- local inference
+- Gradio API
+- Agent integration
+source: https://github.com/joysinleung/index-tts2-skills
+discovered_at: '2026-07-11T18:59:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

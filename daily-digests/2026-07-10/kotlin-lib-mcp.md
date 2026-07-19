@@ -1,13 +1,25 @@
 ---
-title: "aoreshkov/kotlin-lib-mcp"
-category: "Orchestrator"
-tech_stack: ["Kotlin", "Kotlin Analysis API (K2/FIR)", "MCP (Model Context Protocol)", "Gradle", "Java 21", "Compose Desktop", "Docker"]
+title: aoreshkov/kotlin-lib-mcp
+category: daily-digests/2026-07-10
+tech_stack:
+- Kotlin
+- Kotlin Analysis API (K2/FIR)
+- MCP (Model Context Protocol)
+- Gradle
+- Java 21
+- Compose Desktop
+- Docker
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP server", "Kotlin/Java library analysis", "API documentation", "Source code retrieval", "AI agent tools"]
-source: "https://github.com/aoreshkov/kotlin-lib-mcp"
-discovered_at: "2026-07-10T06:32:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Kotlin/Java library analysis
+- API documentation
+- Source code retrieval
+- AI agent tools
+source: https://github.com/aoreshkov/kotlin-lib-mcp
+discovered_at: '2026-07-10T06:32:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

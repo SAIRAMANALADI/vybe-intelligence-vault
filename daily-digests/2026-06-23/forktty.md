@@ -1,13 +1,26 @@
 ---
-title: "Lucenx9/forktty"
-category: "Orchestrator"
-tech_stack: ["Rust", "GTK4", "libadwaita", "Ghostty", "Git", "Unix sockets", "Zig", "WebKitGTK (experimental)"]
+title: Lucenx9/forktty
+category: daily-digests/2026-06-23
+tech_stack:
+- Rust
+- GTK4
+- libadwaita
+- Ghostty
+- Git
+- Unix sockets
+- Zig
+- WebKitGTK (experimental)
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent terminal", "git worktrees", "local socket API", "agent orchestration", "Linux-native"]
-source: "https://github.com/Lucenx9/forktty"
-discovered_at: "2026-06-23T19:13:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent terminal
+- git worktrees
+- local socket API
+- agent orchestration
+- Linux-native
+source: https://github.com/Lucenx9/forktty
+discovered_at: '2026-06-23T19:13:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "woodstock-tokyo/google-finance-mcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "PyInstaller", "HTTP/HTTPS", "JSON", "RPC"]
+title: woodstock-tokyo/google-finance-mcp
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- PyInstaller
+- HTTP/HTTPS
+- JSON
+- RPC
 quality_score: 8
 rag_relevance: 7
-tags: ["finance data", "MCP server", "RPC", "market data", "unofficial API"]
-source: "https://github.com/woodstock-tokyo/google-finance-mcp"
-discovered_at: "2026-06-25T11:42:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- finance data
+- MCP server
+- RPC
+- market data
+- unofficial API
+source: https://github.com/woodstock-tokyo/google-finance-mcp
+discovered_at: '2026-06-25T11:42:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

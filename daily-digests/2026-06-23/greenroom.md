@@ -1,13 +1,25 @@
 ---
-title: "YunyueLi/greenroom"
-category: "Tooling"
-tech_stack: ["Python", "HTML/CSS/JavaScript", "Claude Code (skills integration)", "Markdown", "Tauri (desktop app, roadmap)", "OpenAI-compatible APIs", "DiceBear (avatar generation)"]
+title: YunyueLi/greenroom
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- HTML/CSS/JavaScript
+- Claude Code (skills integration)
+- Markdown
+- Tauri (desktop app, roadmap)
+- OpenAI-compatible APIs
+- DiceBear (avatar generation)
 quality_score: 9
 rag_relevance: 7
-tags: ["interview preparation", "AI automation", "resume parsing", "mock interviews", "career development"]
-source: "https://github.com/YunyueLi/greenroom"
-discovered_at: "2026-06-23T08:54:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- interview preparation
+- AI automation
+- resume parsing
+- mock interviews
+- career development
+source: https://github.com/YunyueLi/greenroom
+discovered_at: '2026-06-23T08:54:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

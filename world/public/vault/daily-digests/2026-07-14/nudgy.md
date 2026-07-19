@@ -1,13 +1,22 @@
 ---
-title: "highstepping-chaperon781/nudgy"
-category: "Tooling"
-tech_stack: ["Swift", "SwiftUI", "macOS", "Local Notifications"]
+title: highstepping-chaperon781/nudgy
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- Swift
+- SwiftUI
+- macOS
+- Local Notifications
 quality_score: 7
 rag_relevance: 5
-tags: ["AI agent monitoring", "macOS menu bar", "local notifications", "privacy-first", "developer tools"]
-source: "https://github.com/highstepping-chaperon781/nudgy"
-discovered_at: "2026-07-13T22:55:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent monitoring
+- macOS menu bar
+- local notifications
+- privacy-first
+- developer tools
+source: https://github.com/highstepping-chaperon781/nudgy
+discovered_at: '2026-07-13T22:55:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "msrbuilds/elementor-mcp"
-category: "Tooling"
-tech_stack: ["PHP", "WordPress", "Elementor", "Model Context Protocol (MCP)", "JavaScript", "HTML/CSS"]
+title: msrbuilds/elementor-mcp
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- PHP
+- WordPress
+- Elementor
+- Model Context Protocol (MCP)
+- JavaScript
+- HTML/CSS
 quality_score: 9
 rag_relevance: 8
-tags: ["WordPress", "Elementor", "MCP", "AI Agents", "Page Builder"]
-source: "https://github.com/msrbuilds/elementor-mcp"
-discovered_at: "2026-07-08T17:26:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- WordPress
+- Elementor
+- MCP
+- AI Agents
+- Page Builder
+source: https://github.com/msrbuilds/elementor-mcp
+discovered_at: '2026-07-08T17:26:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

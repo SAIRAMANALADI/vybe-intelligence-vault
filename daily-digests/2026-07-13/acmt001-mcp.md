@@ -1,13 +1,26 @@
 ---
-title: "sebastienrousseau/acmt001-mcp"
-category: "Agent Framework"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "ISO 20022", "FastMCP", "Poetry", "mypy", "ruff", "black"]
+title: sebastienrousseau/acmt001-mcp
+category: daily-digests/2026-07-13
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- ISO 20022
+- FastMCP
+- Poetry
+- mypy
+- ruff
+- black
 quality_score: 9
 rag_relevance: 8
-tags: ["ISO 20022", "MCP server", "financial messaging", "AI agents", "XML validation"]
-source: "https://github.com/sebastienrousseau/acmt001-mcp"
-discovered_at: "2026-07-11T23:53:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- ISO 20022
+- MCP server
+- financial messaging
+- AI agents
+- XML validation
+source: https://github.com/sebastienrousseau/acmt001-mcp
+discovered_at: '2026-07-11T23:53:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

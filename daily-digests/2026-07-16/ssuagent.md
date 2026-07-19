@@ -1,13 +1,29 @@
 ---
-title: "ghdtjdwn/ssuAgent"
-category: "Agent Framework"
-tech_stack: ["Python", "LangGraph", "LangChain", "FastAPI", "PostgreSQL", "MCP (Model Context Protocol)", "Groq API", "Gemini API", "OpenRouter API", "Streamable HTTP", "Docker"]
+title: ghdtjdwn/ssuAgent
+category: daily-digests/2026-07-16
+tech_stack:
+- Python
+- LangGraph
+- LangChain
+- FastAPI
+- PostgreSQL
+- MCP (Model Context Protocol)
+- Groq API
+- Gemini API
+- OpenRouter API
+- Streamable HTTP
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent", "campus AI", "LangGraph", "MCP integration", "SSE streaming"]
-source: "https://github.com/ghdtjdwn/ssuAgent"
-discovered_at: "2026-07-16T05:39:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent
+- campus AI
+- LangGraph
+- MCP integration
+- SSE streaming
+source: https://github.com/ghdtjdwn/ssuAgent
+discovered_at: '2026-07-16T05:39:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

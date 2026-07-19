@@ -1,13 +1,27 @@
 ---
-title: "starter-series/create-starter"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Zod", "GitHub Actions", "Claude Code", "Docker", "ESLint", "Jest"]
+title: starter-series/create-starter
+category: daily-digests/2026-07-16
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Zod
+- GitHub Actions
+- Claude Code
+- Docker
+- ESLint
+- Jest
 quality_score: 9
 rag_relevance: 8
-tags: ["project scaffolding", "CI/CD auditing", "security validation", "MCP server", "Claude Code integration"]
-source: "https://github.com/starter-series/create-starter"
-discovered_at: "2026-07-15T02:12:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- project scaffolding
+- CI/CD auditing
+- security validation
+- MCP server
+- Claude Code integration
+source: https://github.com/starter-series/create-starter
+discovered_at: '2026-07-15T02:12:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

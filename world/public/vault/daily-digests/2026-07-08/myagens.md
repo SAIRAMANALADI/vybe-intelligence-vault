@@ -1,13 +1,27 @@
 ---
-title: "gyorgysh/myagens"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Claude Code", "Telegram Bot API", "React", "AES-256 encryption", "WebSockets", "Docker (implied for deployment)", "Git"]
+title: gyorgysh/myagens
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- Claude Code
+- Telegram Bot API
+- React
+- AES-256 encryption
+- WebSockets
+- Docker (implied for deployment)
+- Git
 quality_score: 9
 rag_relevance: 8
-tags: ["self-hosted", "autonomous agents", "Claude Code", "local AI", "security-first"]
-source: "https://github.com/gyorgysh/myagens"
-discovered_at: "2026-07-08T17:24:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-hosted
+- autonomous agents
+- Claude Code
+- local AI
+- security-first
+source: https://github.com/gyorgysh/myagens
+discovered_at: '2026-07-08T17:24:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

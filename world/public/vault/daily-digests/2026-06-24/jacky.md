@@ -1,13 +1,31 @@
 ---
-title: "mdjakkariya/jacky"
-category: "Tooling"
-tech_stack: ["Python", "Tauri (Rust)", "Ollama", "Whisper (STT)", "Piper (TTS)", "FastAPI", "SQLite", "macOS Permissions API", "WebSocket", "Pydantic", "Ruff", "Mypy", "Pytest"]
+title: mdjakkariya/jacky
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Tauri (Rust)
+- Ollama
+- Whisper (STT)
+- Piper (TTS)
+- FastAPI
+- SQLite
+- macOS Permissions API
+- WebSocket
+- Pydantic
+- Ruff
+- Mypy
+- Pytest
 quality_score: 9
 rag_relevance: 7
-tags: ["voice-assistant", "on-device-ai", "macOS", "privacy-focused", "local-llm"]
-source: "https://github.com/mdjakkariya/jacky"
-discovered_at: "2026-06-24T20:45:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- voice-assistant
+- on-device-ai
+- macOS
+- privacy-focused
+- local-llm
+source: https://github.com/mdjakkariya/jacky
+discovered_at: '2026-06-24T20:45:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

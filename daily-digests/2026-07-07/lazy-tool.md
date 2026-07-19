@@ -1,13 +1,23 @@
 ---
-title: "unabused-wichita77/lazy-tool"
-category: "Tooling"
-tech_stack: ["Go", "SQLite", "CLI", "TUI", "Web UI"]
+title: unabused-wichita77/lazy-tool
+category: daily-digests/2026-07-07
+tech_stack:
+- Go
+- SQLite
+- CLI
+- TUI
+- Web UI
 quality_score: 7
 rag_relevance: 8
-tags: ["MCP", "tool discovery", "local indexing", "agent routing", "prompt optimization"]
-source: "https://github.com/unabused-wichita77/lazy-tool"
-discovered_at: "2026-07-07T06:43:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- tool discovery
+- local indexing
+- agent routing
+- prompt optimization
+source: https://github.com/unabused-wichita77/lazy-tool
+discovered_at: '2026-07-07T06:43:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

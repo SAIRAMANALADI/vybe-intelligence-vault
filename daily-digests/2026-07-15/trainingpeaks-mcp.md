@@ -1,13 +1,25 @@
 ---
-title: "JamsusMaximus/trainingpeaks-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "TrainingPeaks API", "FastAPI", "OAuth", "Keyring", "Browser Automation"]
+title: JamsusMaximus/trainingpeaks-mcp
+category: daily-digests/2026-07-15
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- TrainingPeaks API
+- FastAPI
+- OAuth
+- Keyring
+- Browser Automation
 quality_score: 9
 rag_relevance: 7
-tags: ["TrainingPeaks", "MCP", "Fitness Data", "Workout Management", "AI Integration"]
-source: "https://github.com/JamsusMaximus/trainingpeaks-mcp"
-discovered_at: "2026-07-13T18:43:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- TrainingPeaks
+- MCP
+- Fitness Data
+- Workout Management
+- AI Integration
+source: https://github.com/JamsusMaximus/trainingpeaks-mcp
+discovered_at: '2026-07-13T18:43:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

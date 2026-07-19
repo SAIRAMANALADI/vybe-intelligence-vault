@@ -1,13 +1,26 @@
 ---
-title: "OrbiAds/Orbiads-GAM-MCP"
-category: "Agent Framework"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Google Ad Manager API", "OAuth 2.0", "Streamable HTTP", "CLI (Click, Typer)", "JSON Schema", "GitHub Actions"]
+title: OrbiAds/Orbiads-GAM-MCP
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Google Ad Manager API
+- OAuth 2.0
+- Streamable HTTP
+- CLI (Click, Typer)
+- JSON Schema
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["Google Ad Manager", "AI Agent Integration", "MCP Server", "Ad Operations Automation", "Natural Language Workflows"]
-source: "https://github.com/OrbiAds/Orbiads-GAM-MCP"
-discovered_at: "2026-06-25T00:12:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Google Ad Manager
+- AI Agent Integration
+- MCP Server
+- Ad Operations Automation
+- Natural Language Workflows
+source: https://github.com/OrbiAds/Orbiads-GAM-MCP
+discovered_at: '2026-06-25T00:12:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

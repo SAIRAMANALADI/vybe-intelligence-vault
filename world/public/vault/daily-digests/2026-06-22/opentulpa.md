@@ -1,13 +1,26 @@
 ---
-title: "soeltanakbar/opentulpa"
-category: "Agent Framework"
-tech_stack: ["Python", "LangGraph", "LLM (Large Language Model)", "Gmail API", "Slack API", "Telegram API", "Giphy API", "Market Data APIs"]
+title: soeltanakbar/opentulpa
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- LangGraph
+- LLM (Large Language Model)
+- Gmail API
+- Slack API
+- Telegram API
+- Giphy API
+- Market Data APIs
 quality_score: 7
 rag_relevance: 6
-tags: ["personal AI assistant", "self-hosted automation", "multi-service integration", "task scheduling", "adaptive memory"]
-source: "https://github.com/soeltanakbar/opentulpa"
-discovered_at: "2026-06-22T18:54:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personal AI assistant
+- self-hosted automation
+- multi-service integration
+- task scheduling
+- adaptive memory
+source: https://github.com/soeltanakbar/opentulpa
+discovered_at: '2026-06-22T18:54:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

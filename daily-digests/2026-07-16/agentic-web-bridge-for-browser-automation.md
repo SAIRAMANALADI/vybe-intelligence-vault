@@ -1,13 +1,24 @@
 ---
-title: "lee-muriithi-kingori/agentic-web-bridge-for-browser-automation"
-category: "Tooling"
-tech_stack: ["Python", "Chrome DevTools Protocol (CDP)", "Chrome/Edge Extensions", "Manifest V3", "HTTP Server", "JavaScript"]
+title: lee-muriithi-kingori/agentic-web-bridge-for-browser-automation
+category: daily-digests/2026-07-16
+tech_stack:
+- Python
+- Chrome DevTools Protocol (CDP)
+- Chrome/Edge Extensions
+- Manifest V3
+- HTTP Server
+- JavaScript
 quality_score: 9
 rag_relevance: 8
-tags: ["browser automation", "CDP", "local-first", "AI agent integration", "privacy-preserving"]
-source: "https://github.com/lee-muriithi-kingori/agentic-web-bridge-for-browser-automation"
-discovered_at: "2026-07-11T11:03:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- CDP
+- local-first
+- AI agent integration
+- privacy-preserving
+source: https://github.com/lee-muriithi-kingori/agentic-web-bridge-for-browser-automation
+discovered_at: '2026-07-11T11:03:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

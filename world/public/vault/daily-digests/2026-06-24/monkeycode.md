@@ -1,13 +1,27 @@
 ---
-title: "chaitin/MonkeyCode"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "React", "Electron", "Node.js", "Docker", "Python", "AI Model APIs (GLM, Kimi, MiniMax, Qwen, DeepSeek)", "PostgreSQL", "Redis"]
+title: chaitin/MonkeyCode
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- React
+- Electron
+- Node.js
+- Docker
+- Python
+- AI Model APIs (GLM, Kimi, MiniMax, Qwen, DeepSeek)
+- PostgreSQL
+- Redis
 quality_score: 9
 rag_relevance: 8
-tags: ["AI development platform", "enterprise workflow", "cloud IDE", "AI agent orchestration", "private deployment"]
-source: "https://github.com/chaitin/MonkeyCode"
-discovered_at: "2026-06-24T16:18:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI development platform
+- enterprise workflow
+- cloud IDE
+- AI agent orchestration
+- private deployment
+source: https://github.com/chaitin/MonkeyCode
+discovered_at: '2026-06-24T16:18:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "wentf9/xops-cli"
-category: "Tooling"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "SSH", "SCP/SFTP", "YAML", "AES Encryption", "TUI (Terminal User Interface)", "i18n (Internationalization)"]
+title: wentf9/xops-cli
+category: daily-digests/2026-07-10
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- SSH
+- SCP/SFTP
+- YAML
+- AES Encryption
+- TUI (Terminal User Interface)
+- i18n (Internationalization)
 quality_score: 9
 rag_relevance: 9
-tags: ["server management", "AI infrastructure", "automation", "MCP integration", "batch execution"]
-source: "https://github.com/wentf9/xops-cli"
-discovered_at: "2026-07-10T02:27:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- server management
+- AI infrastructure
+- automation
+- MCP integration
+- batch execution
+source: https://github.com/wentf9/xops-cli
+discovered_at: '2026-07-10T02:27:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

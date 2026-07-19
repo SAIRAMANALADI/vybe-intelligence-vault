@@ -1,13 +1,22 @@
 ---
-title: "gamfidick/ClaudeUsageBar"
-category: "Tooling"
-tech_stack: ["Swift", "SwiftUI", "macOS", "API Integration"]
+title: gamfidick/ClaudeUsageBar
+category: daily-digests/2026-07-09
+tech_stack:
+- Swift
+- SwiftUI
+- macOS
+- API Integration
 quality_score: 4
 rag_relevance: 3
-tags: ["macOS", "Claude.ai", "API tracking", "menu bar", "usage monitoring"]
-source: "https://github.com/gamfidick/ClaudeUsageBar"
-discovered_at: "2026-07-09T08:24:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- macOS
+- Claude.ai
+- API tracking
+- menu bar
+- usage monitoring
+source: https://github.com/gamfidick/ClaudeUsageBar
+discovered_at: '2026-07-09T08:24:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

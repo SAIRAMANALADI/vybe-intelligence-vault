@@ -1,13 +1,23 @@
 ---
-title: "twpr460/open-brain-template"
-category: "UI Component"
-tech_stack: ["HTML", "JavaScript", "Supabase", "Vercel", "MCP (Model Context Protocol)"]
+title: twpr460/open-brain-template
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- HTML
+- JavaScript
+- Supabase
+- Vercel
+- MCP (Model Context Protocol)
 quality_score: 6
 rag_relevance: 7
-tags: ["AI memory", "visual dashboard", "MCP integration", "Supabase backend", "Vercel deployment"]
-source: "https://github.com/twpr460/open-brain-template"
-discovered_at: "2026-07-07T23:54:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI memory
+- visual dashboard
+- MCP integration
+- Supabase backend
+- Vercel deployment
+source: https://github.com/twpr460/open-brain-template
+discovered_at: '2026-07-07T23:54:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

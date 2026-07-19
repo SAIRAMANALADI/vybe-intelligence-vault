@@ -1,13 +1,23 @@
 ---
-title: "bautiroalt/MCP-Server"
-category: "Tooling"
-tech_stack: ["FastAPI", "React", "Python", "JavaScript", "HTML/CSS"]
+title: bautiroalt/MCP-Server
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- FastAPI
+- React
+- Python
+- JavaScript
+- HTML/CSS
 quality_score: 6
 rag_relevance: 5
-tags: ["admin panel", "RBAC", "real-time streaming", "desktop app", "context protocols"]
-source: "https://github.com/bautiroalt/MCP-Server"
-discovered_at: "2026-06-24T10:21:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- admin panel
+- RBAC
+- real-time streaming
+- desktop app
+- context protocols
+source: https://github.com/bautiroalt/MCP-Server
+discovered_at: '2026-06-24T10:21:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

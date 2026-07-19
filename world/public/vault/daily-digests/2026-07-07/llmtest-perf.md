@@ -1,13 +1,23 @@
 ---
-title: "eslammoha8625/llmtest-perf"
-category: "Tooling"
-tech_stack: ["Python", "PyTorch", "pytest", "Windows OS", "Command Line Interface"]
+title: eslammoha8625/llmtest-perf
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- PyTorch
+- pytest
+- Windows OS
+- Command Line Interface
 quality_score: 7
 rag_relevance: 6
-tags: ["LLM benchmarking", "performance validation", "regression testing", "Windows tooling", "CI/CD integration"]
-source: "https://github.com/eslammoha8625/llmtest-perf"
-discovered_at: "2026-07-07T06:42:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LLM benchmarking
+- performance validation
+- regression testing
+- Windows tooling
+- CI/CD integration
+source: https://github.com/eslammoha8625/llmtest-perf
+discovered_at: '2026-07-07T06:42:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

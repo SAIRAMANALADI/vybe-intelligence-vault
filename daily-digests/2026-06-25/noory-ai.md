@@ -1,13 +1,24 @@
 ---
-title: "noory-code/noory-ai"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code", "MCP (Model Context Protocol)", "Git", "Full-Text Search (FTS5)", "Semantic Vector Search"]
+title: noory-code/noory-ai
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- Claude Code
+- MCP (Model Context Protocol)
+- Git
+- Full-Text Search (FTS5)
+- Semantic Vector Search
 quality_score: 7
 rag_relevance: 6
-tags: ["Claude Code", "MCP servers", "autonomous development", "knowledge distillation", "workflow automation"]
-source: "https://github.com/noory-code/noory-ai"
-discovered_at: "2026-06-25T17:11:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- MCP servers
+- autonomous development
+- knowledge distillation
+- workflow automation
+source: https://github.com/noory-code/noory-ai
+discovered_at: '2026-06-25T17:11:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

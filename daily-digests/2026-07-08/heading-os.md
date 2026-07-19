@@ -1,13 +1,28 @@
 ---
-title: "mishahanin/heading-os"
-category: "Orchestrator"
-tech_stack: ["Python", "Claude Code", "Ruff", "Ollama", "Gemini", "Grok", "Kimi", "Git", "Pre-commit", "CI/CD"]
+title: mishahanin/heading-os
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- Claude Code
+- Ruff
+- Ollama
+- Gemini
+- Grok
+- Kimi
+- Git
+- Pre-commit
+- CI/CD
 quality_score: 9
 rag_relevance: 8
-tags: ["agent framework", "security-first", "sovereign data", "executive tooling", "workflow automation"]
-source: "https://github.com/mishahanin/heading-os"
-discovered_at: "2026-07-08T17:25:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent framework
+- security-first
+- sovereign data
+- executive tooling
+- workflow automation
+source: https://github.com/mishahanin/heading-os
+discovered_at: '2026-07-08T17:25:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

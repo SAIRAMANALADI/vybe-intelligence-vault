@@ -1,13 +1,24 @@
 ---
-title: "farmerhunter/agent-foundry"
-category: "Orchestrator"
-tech_stack: ["Python", "YAML", "Markdown", "Shell Scripting", "Git", "JSON Schema"]
+title: farmerhunter/agent-foundry
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- YAML
+- Markdown
+- Shell Scripting
+- Git
+- JSON Schema
 quality_score: 8
 rag_relevance: 9
-tags: ["agent lifecycle management", "workflow automation", "capability packaging", "multi-agent collaboration", "human-in-the-loop governance"]
-source: "https://github.com/farmerhunter/agent-foundry"
-discovered_at: "2026-07-07T06:42:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent lifecycle management
+- workflow automation
+- capability packaging
+- multi-agent collaboration
+- human-in-the-loop governance
+source: https://github.com/farmerhunter/agent-foundry
+discovered_at: '2026-07-07T06:42:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

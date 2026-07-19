@@ -1,13 +1,30 @@
 ---
-title: "slive777/OpenAver"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "PyWebView", "SQLite", "Jinja2", "Tailwind CSS", "DaisyUI", "GSAP", "Ollama", "Gemini", "OpenAI-compatible APIs", "Pytest"]
+title: slive777/OpenAver
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- FastAPI
+- PyWebView
+- SQLite
+- Jinja2
+- Tailwind CSS
+- DaisyUI
+- GSAP
+- Ollama
+- Gemini
+- OpenAI-compatible APIs
+- Pytest
 quality_score: 9
 rag_relevance: 7
-tags: ["JAV metadata scraper", "NFO generator", "AI-ready API", "Actress collection manager", "Cross-platform desktop app"]
-source: "https://github.com/slive777/OpenAver"
-discovered_at: "2026-07-09T19:30:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- JAV metadata scraper
+- NFO generator
+- AI-ready API
+- Actress collection manager
+- Cross-platform desktop app
+source: https://github.com/slive777/OpenAver
+discovered_at: '2026-07-09T19:30:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

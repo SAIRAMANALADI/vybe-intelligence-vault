@@ -1,13 +1,22 @@
 ---
-title: "All-zzz/claude-canvas"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "Node.js", "TUI (Terminal User Interface) Toolkit"]
+title: All-zzz/claude-canvas
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Electron
+- Node.js
+- TUI (Terminal User Interface) Toolkit
 quality_score: 5
 rag_relevance: 4
-tags: ["multi-monitor", "workspace extension", "Claude Code", "TUI toolkit", "productivity"]
-source: "https://github.com/All-zzz/claude-canvas"
-discovered_at: "2026-06-25T00:12:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-monitor
+- workspace extension
+- Claude Code
+- TUI toolkit
+- productivity
+source: https://github.com/All-zzz/claude-canvas
+discovered_at: '2026-06-25T00:12:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

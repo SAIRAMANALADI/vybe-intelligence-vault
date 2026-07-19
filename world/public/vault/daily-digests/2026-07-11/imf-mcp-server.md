@@ -1,13 +1,25 @@
 ---
-title: "cyanheads/imf-mcp-server"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "Model Context Protocol (MCP)", "SDMX 3.0", "DuckDB", "Node.js", "Docker"]
+title: cyanheads/imf-mcp-server
+category: world/public/vault/daily-digests/2026-07-11
+tech_stack:
+- TypeScript
+- Bun
+- Model Context Protocol (MCP)
+- SDMX 3.0
+- DuckDB
+- Node.js
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["IMF data", "SDMX 3.0", "MCP server", "macroeconomic analytics", "data integration"]
-source: "https://github.com/cyanheads/imf-mcp-server"
-discovered_at: "2026-07-11T17:54:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- IMF data
+- SDMX 3.0
+- MCP server
+- macroeconomic analytics
+- data integration
+source: https://github.com/cyanheads/imf-mcp-server
+discovered_at: '2026-07-11T17:54:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

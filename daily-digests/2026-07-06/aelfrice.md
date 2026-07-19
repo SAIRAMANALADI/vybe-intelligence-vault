@@ -1,13 +1,28 @@
 ---
-title: "robotrocketscience/aelfrice"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "MCP (Model Context Protocol)", "Beta-Bernoulli posterior model", "BM25 full-text search", "FTS5 (SQLite)", "NER (Named Entity Recognition)", "Graph-based retrieval (BFS)", "CLI tooling (uv)", "Markov Decision Process (MDP) for retrieval"]
+title: robotrocketscience/aelfrice
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- SQLite
+- MCP (Model Context Protocol)
+- Beta-Bernoulli posterior model
+- BM25 full-text search
+- FTS5 (SQLite)
+- NER (Named Entity Recognition)
+- Graph-based retrieval (BFS)
+- CLI tooling (uv)
+- Markov Decision Process (MDP) for retrieval
 quality_score: 9
 rag_relevance: 8
-tags: ["memory system", "rule enforcement", "local-first", "Bayesian feedback", "agent context"]
-source: "https://github.com/robotrocketscience/aelfrice"
-discovered_at: "2026-07-06T23:04:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory system
+- rule enforcement
+- local-first
+- Bayesian feedback
+- agent context
+source: https://github.com/robotrocketscience/aelfrice
+discovered_at: '2026-07-06T23:04:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

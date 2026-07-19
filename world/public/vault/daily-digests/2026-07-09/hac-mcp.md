@@ -1,13 +1,26 @@
 ---
-title: "yunusemregul/hac-mcp"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "Express", "Model Context Protocol (MCP)", "SAP Commerce Cloud", "TypeScript (implied by Zod validators)", "PM2 (for process management)", "SSE (Server-Sent Events)"]
+title: yunusemregul/hac-mcp
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- JavaScript
+- Node.js
+- Express
+- Model Context Protocol (MCP)
+- SAP Commerce Cloud
+- TypeScript (implied by Zod validators)
+- PM2 (for process management)
+- SSE (Server-Sent Events)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "SAP Commerce Cloud", "HAC automation", "AI tool integration", "FlexibleSearch"]
-source: "https://github.com/yunusemregul/hac-mcp"
-discovered_at: "2026-07-09T19:31:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- SAP Commerce Cloud
+- HAC automation
+- AI tool integration
+- FlexibleSearch
+source: https://github.com/yunusemregul/hac-mcp
+discovered_at: '2026-07-09T19:31:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

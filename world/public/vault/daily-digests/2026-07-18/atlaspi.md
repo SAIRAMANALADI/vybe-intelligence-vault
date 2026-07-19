@@ -1,13 +1,30 @@
 ---
-title: "Soil911/AtlasPI"
-category: "Vector DB"
-tech_stack: ["Python", "FastAPI", "PostgreSQL", "GeoJSON", "Swagger UI", "Docker", "REST API", "SQLAlchemy", "Jinja2", "Matplotlib", "Pandas", "NumPy"]
+title: Soil911/AtlasPI
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- Python
+- FastAPI
+- PostgreSQL
+- GeoJSON
+- Swagger UI
+- Docker
+- REST API
+- SQLAlchemy
+- Jinja2
+- Matplotlib
+- Pandas
+- NumPy
 quality_score: 9
 rag_relevance: 10
-tags: ["historical geography", "geospatial data", "structured database", "AI agent tools", "historical events"]
-source: "https://github.com/Soil911/AtlasPI"
-discovered_at: "2026-07-17T21:52:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- historical geography
+- geospatial data
+- structured database
+- AI agent tools
+- historical events
+source: https://github.com/Soil911/AtlasPI
+discovered_at: '2026-07-17T21:52:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

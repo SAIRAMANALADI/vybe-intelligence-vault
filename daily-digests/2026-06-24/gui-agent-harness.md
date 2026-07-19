@@ -1,13 +1,26 @@
 ---
-title: "Fzkuji/GUI-Agent-Harness"
-category: "Agent Framework"
-tech_stack: ["Python", "PyTorch", "YOLO (GPA-GUI-Detector)", "OCR (Apple Vision, EasyOCR)", "OpenProgram", "CLI", "Template Matching", "LLM Integration (OpenAI, Anthropic, MiniMax)"]
+title: Fzkuji/GUI-Agent-Harness
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- PyTorch
+- YOLO (GPA-GUI-Detector)
+- OCR (Apple Vision, EasyOCR)
+- OpenProgram
+- CLI
+- Template Matching
+- LLM Integration (OpenAI, Anthropic, MiniMax)
 quality_score: 9
 rag_relevance: 9
-tags: ["GUI automation", "visual grounding", "LLM agent", "desktop interaction", "benchmark-driven"]
-source: "https://github.com/Fzkuji/GUI-Agent-Harness"
-discovered_at: "2026-06-24T20:45:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- GUI automation
+- visual grounding
+- LLM agent
+- desktop interaction
+- benchmark-driven
+source: https://github.com/Fzkuji/GUI-Agent-Harness
+discovered_at: '2026-06-24T20:45:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

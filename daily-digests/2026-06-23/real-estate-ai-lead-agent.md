@@ -1,13 +1,30 @@
 ---
-title: "mayankjndl/real-estate-ai-lead-agent"
-category: "Agent Framework"
-tech_stack: ["Python 3.13", "FastAPI", "Gemini 3.1 Flash Lite", "PostgreSQL 18", "Redis", "FAISS", "Twilio WhatsApp API", "ngrok", "APScheduler", "Prometheus", "Docker", "Next.js"]
+title: mayankjndl/real-estate-ai-lead-agent
+category: daily-digests/2026-06-23
+tech_stack:
+- Python 3.13
+- FastAPI
+- Gemini 3.1 Flash Lite
+- PostgreSQL 18
+- Redis
+- FAISS
+- Twilio WhatsApp API
+- ngrok
+- APScheduler
+- Prometheus
+- Docker
+- Next.js
 quality_score: 9
 rag_relevance: 8
-tags: ["WhatsApp AI Agent", "Lead Qualification", "CRM Integration", "RAG Context", "Multi-tenant"]
-source: "https://github.com/mayankjndl/real-estate-ai-lead-agent"
-discovered_at: "2026-06-23T10:36:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- WhatsApp AI Agent
+- Lead Qualification
+- CRM Integration
+- RAG Context
+- Multi-tenant
+source: https://github.com/mayankjndl/real-estate-ai-lead-agent
+discovered_at: '2026-06-23T10:36:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

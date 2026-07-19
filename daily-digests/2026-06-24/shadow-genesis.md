@@ -1,13 +1,23 @@
 ---
-title: "Onurizm/shadow-genesis"
-category: "Tooling"
-tech_stack: ["Python", "Electron", "JavaScript", "AI Prompt Engineering", "Memory Systems"]
+title: Onurizm/shadow-genesis
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Electron
+- JavaScript
+- AI Prompt Engineering
+- Memory Systems
 quality_score: 7
 rag_relevance: 6
-tags: ["prompt engineering", "AI agents", "self-replicating systems", "memory management", "no-code AI"]
-source: "https://github.com/Onurizm/shadow-genesis"
-discovered_at: "2026-06-24T16:16:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- prompt engineering
+- AI agents
+- self-replicating systems
+- memory management
+- no-code AI
+source: https://github.com/Onurizm/shadow-genesis
+discovered_at: '2026-06-24T16:16:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

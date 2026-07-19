@@ -1,13 +1,23 @@
 ---
-title: "NotMrAdan/linkedin-job-scraping"
-category: "Tooling"
-tech_stack: ["Python", "Selenium", "WebDriver", "CSV", "GUI"]
+title: NotMrAdan/linkedin-job-scraping
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Selenium
+- WebDriver
+- CSV
+- GUI
 quality_score: 5
 rag_relevance: 4
-tags: ["web scraping", "job search automation", "LinkedIn", "data extraction", "recruitment"]
-source: "https://github.com/NotMrAdan/linkedin-job-scraping"
-discovered_at: "2026-06-23T06:53:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web scraping
+- job search automation
+- LinkedIn
+- data extraction
+- recruitment
+source: https://github.com/NotMrAdan/linkedin-job-scraping
+discovered_at: '2026-06-23T06:53:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

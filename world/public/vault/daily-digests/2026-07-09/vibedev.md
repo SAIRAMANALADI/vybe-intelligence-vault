@@ -1,13 +1,24 @@
 ---
-title: "4pixeltechBR/VibeDev"
-category: "Orchestrator"
-tech_stack: ["Python", "Markdown", "Shell Scripting", "AI Agent Workflows", "Security Auditing", "Localization (pt-BR)"]
+title: 4pixeltechBR/VibeDev
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- Markdown
+- Shell Scripting
+- AI Agent Workflows
+- Security Auditing
+- Localization (pt-BR)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI governance", "vibe coding", "security auditing", "layman mode", "project lifecycle"]
-source: "https://github.com/4pixeltechBR/VibeDev"
-discovered_at: "2026-07-09T00:05:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI governance
+- vibe coding
+- security auditing
+- layman mode
+- project lifecycle
+source: https://github.com/4pixeltechBR/VibeDev
+discovered_at: '2026-07-09T00:05:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

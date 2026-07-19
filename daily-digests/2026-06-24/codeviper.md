@@ -1,13 +1,31 @@
 ---
-title: "rkfsociety/CodeViper"
-category: "Agent Framework"
-tech_stack: ["Electron", "TypeScript", "Node.js", "React", "Ollama", "OpenAI API", "Gemini API", "Anthropic API", "OpenRouter", "NSIS", "Windows", "macOS", "Linux"]
+title: rkfsociety/CodeViper
+category: daily-digests/2026-06-24
+tech_stack:
+- Electron
+- TypeScript
+- Node.js
+- React
+- Ollama
+- OpenAI API
+- Gemini API
+- Anthropic API
+- OpenRouter
+- NSIS
+- Windows
+- macOS
+- Linux
 quality_score: 9
 rag_relevance: 7
-tags: ["local AI agent", "code assistant", "GUI", "self-improving", "multi-provider"]
-source: "https://github.com/rkfsociety/CodeViper"
-discovered_at: "2026-06-24T18:49:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local AI agent
+- code assistant
+- GUI
+- self-improving
+- multi-provider
+source: https://github.com/rkfsociety/CodeViper
+discovered_at: '2026-06-24T18:49:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

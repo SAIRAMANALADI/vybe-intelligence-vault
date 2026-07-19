@@ -1,13 +1,28 @@
 ---
-title: "danlkv/codette"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "Express", "WebSocket", "Svelte", "EC P-256 (ECDSA)", "AES-GCM-256", "JWT", "HMAC", "OIDC (optional)"]
+title: danlkv/codette
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- JavaScript
+- Node.js
+- Express
+- WebSocket
+- Svelte
+- EC P-256 (ECDSA)
+- AES-GCM-256
+- JWT
+- HMAC
+- OIDC (optional)
 quality_score: 9
 rag_relevance: 7
-tags: ["Claude Code", "remote control", "end-to-end encryption", "self-hosted", "multi-device"]
-source: "https://github.com/danlkv/codette"
-discovered_at: "2026-06-25T07:24:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- remote control
+- end-to-end encryption
+- self-hosted
+- multi-device
+source: https://github.com/danlkv/codette
+discovered_at: '2026-06-25T07:24:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

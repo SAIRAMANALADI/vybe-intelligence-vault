@@ -1,13 +1,23 @@
 ---
-title: "enhzoenr2373/Reina"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Electron", "React", "MCP (Model Context Protocol)", "LLM (Large Language Model) Integration"]
+title: enhzoenr2373/Reina
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Electron
+- React
+- MCP (Model Context Protocol)
+- LLM (Large Language Model) Integration
 quality_score: 7
 rag_relevance: 6
-tags: ["multi-agent systems", "desktop AI", "model integration", "task automation", "MCP"]
-source: "https://github.com/enhzoenr2373/Reina"
-discovered_at: "2026-07-07T18:58:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- desktop AI
+- model integration
+- task automation
+- MCP
+source: https://github.com/enhzoenr2373/Reina
+discovered_at: '2026-07-07T18:58:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

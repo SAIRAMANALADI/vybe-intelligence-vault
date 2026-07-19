@@ -1,13 +1,28 @@
 ---
-title: "Amirahmed0685/gradle-build-accelerator"
-category: "Tooling"
-tech_stack: ["GitHub Actions", "Gradle", "Node.js", "Machine Learning", "YAML", "CLI Tools", "REST APIs", "Docker", "OpenAI API", "Anthropic API"]
+title: Amirahmed0685/gradle-build-accelerator
+category: daily-digests/2026-06-23
+tech_stack:
+- GitHub Actions
+- Gradle
+- Node.js
+- Machine Learning
+- YAML
+- CLI Tools
+- REST APIs
+- Docker
+- OpenAI API
+- Anthropic API
 quality_score: 8
 rag_relevance: 7
-tags: ["CI/CD optimization", "Gradle acceleration", "GitHub Actions", "predictive caching", "build parallelization"]
-source: "https://github.com/Amirahmed0685/gradle-build-accelerator"
-discovered_at: "2026-06-23T06:50:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CI/CD optimization
+- Gradle acceleration
+- GitHub Actions
+- predictive caching
+- build parallelization
+source: https://github.com/Amirahmed0685/gradle-build-accelerator
+discovered_at: '2026-06-23T06:50:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

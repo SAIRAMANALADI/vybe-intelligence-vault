@@ -1,13 +1,31 @@
 ---
-title: "momil-seedat/ops-cortex"
-category: "Orchestrator"
-tech_stack: ["Python", "Docker", "Redis", "Neo4j", "SQLite", "NetworkX", "OpenTelemetry", "Prometheus", "Streamlit", "Anthropic API", "OpenAI API", "Ollama", "Machine Learning (Isolation Forests)"]
+title: momil-seedat/ops-cortex
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Docker
+- Redis
+- Neo4j
+- SQLite
+- NetworkX
+- OpenTelemetry
+- Prometheus
+- Streamlit
+- Anthropic API
+- OpenAI API
+- Ollama
+- Machine Learning (Isolation Forests)
 quality_score: 9
 rag_relevance: 9
-tags: ["AIOps", "Multi-agent systems", "Root cause analysis", "Observability", "Autonomous monitoring"]
-source: "https://github.com/momil-seedat/ops-cortex"
-discovered_at: "2026-06-23T10:35:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AIOps
+- Multi-agent systems
+- Root cause analysis
+- Observability
+- Autonomous monitoring
+source: https://github.com/momil-seedat/ops-cortex
+discovered_at: '2026-06-23T10:35:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "jsierra87/engram"
-category: "Tooling"
-tech_stack: ["Windows", "Electron", "Markdown", "API Integration", "Local Storage"]
+title: jsierra87/engram
+category: daily-digests/2026-07-08
+tech_stack:
+- Windows
+- Electron
+- Markdown
+- API Integration
+- Local Storage
 quality_score: 7
 rag_relevance: 8
-tags: ["AI memory", "context persistence", "cross-device sync", "Windows application", "productivity tool"]
-source: "https://github.com/jsierra87/engram"
-discovered_at: "2026-07-08T02:06:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI memory
+- context persistence
+- cross-device sync
+- Windows application
+- productivity tool
+source: https://github.com/jsierra87/engram
+discovered_at: '2026-07-08T02:06:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

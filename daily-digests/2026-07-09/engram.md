@@ -1,13 +1,29 @@
 ---
-title: "rwnalds/engram"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Next.js 16", "React 19", "Tailwind CSS", "shadcn/ui", "bun", "MiniSearch", "d3-force", "MCP SDK", "Git", "Docker"]
+title: rwnalds/engram
+category: daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Next.js 16
+- React 19
+- Tailwind CSS
+- shadcn/ui
+- bun
+- MiniSearch
+- d3-force
+- MCP SDK
+- Git
+- Docker
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP server", "long-term memory", "markdown knowledge base", "AI agent orchestration", "git-backed storage"]
-source: "https://github.com/rwnalds/engram"
-discovered_at: "2026-07-09T21:19:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- long-term memory
+- markdown knowledge base
+- AI agent orchestration
+- git-backed storage
+source: https://github.com/rwnalds/engram
+discovered_at: '2026-07-09T21:19:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

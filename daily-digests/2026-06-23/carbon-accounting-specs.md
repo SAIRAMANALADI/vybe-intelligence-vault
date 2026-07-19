@@ -1,13 +1,23 @@
 ---
-title: "Nikeandocean/carbon-accounting-specs"
-category: "Tooling"
-tech_stack: ["YAML", "JsonLogic", "Python", "JSON Schema", "GitHub Actions"]
+title: Nikeandocean/carbon-accounting-specs
+category: daily-digests/2026-06-23
+tech_stack:
+- YAML
+- JsonLogic
+- Python
+- JSON Schema
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-tags: ["carbon accounting", "GHG Protocol", "Scope 2 emissions", "AI agent integration", "sustainability compliance"]
-source: "https://github.com/Nikeandocean/carbon-accounting-specs"
-discovered_at: "2026-06-23T08:57:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- carbon accounting
+- GHG Protocol
+- Scope 2 emissions
+- AI agent integration
+- sustainability compliance
+source: https://github.com/Nikeandocean/carbon-accounting-specs
+discovered_at: '2026-06-23T08:57:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

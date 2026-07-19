@@ -1,13 +1,23 @@
 ---
-title: "Kitakyushulassavirus728/ResearcherSkill"
-category: "Tooling"
-tech_stack: ["Python", "Markdown", "Git", "Claude Code", "LLM Agents"]
+title: Kitakyushulassavirus728/ResearcherSkill
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- Markdown
+- Git
+- Claude Code
+- LLM Agents
 quality_score: 8
 rag_relevance: 7
-tags: ["autonomous experimentation", "agent optimization", "hypothesis testing", "convergence detection", "iterative refinement"]
-source: "https://github.com/Kitakyushulassavirus728/ResearcherSkill"
-discovered_at: "2026-07-07T23:54:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous experimentation
+- agent optimization
+- hypothesis testing
+- convergence detection
+- iterative refinement
+source: https://github.com/Kitakyushulassavirus728/ResearcherSkill
+discovered_at: '2026-07-07T23:54:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

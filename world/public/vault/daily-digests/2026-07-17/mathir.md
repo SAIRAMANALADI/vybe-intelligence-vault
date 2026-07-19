@@ -1,13 +1,30 @@
 ---
-title: "sil3d/MATHIR"
-category: "Vector DB"
-tech_stack: ["Python", "PyTorch", "SQLite", "Flask", "Waitress", "ONNX", "Sentence Transformers", "SQLite-Vec", "MCP (Model Context Protocol)", "HTTP", "Git", "Docker"]
+title: sil3d/MATHIR
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- Python
+- PyTorch
+- SQLite
+- Flask
+- Waitress
+- ONNX
+- Sentence Transformers
+- SQLite-Vec
+- MCP (Model Context Protocol)
+- HTTP
+- Git
+- Docker
 quality_score: 9
 rag_relevance: 10
-tags: ["memory-augmented", "long-term-memory", "vector-database", "multi-agent-orchestration", "cognitive-memory"]
-source: "https://github.com/sil3d/MATHIR"
-discovered_at: "2026-07-16T12:22:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory-augmented
+- long-term-memory
+- vector-database
+- multi-agent-orchestration
+- cognitive-memory
+source: https://github.com/sil3d/MATHIR
+discovered_at: '2026-07-16T12:22:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

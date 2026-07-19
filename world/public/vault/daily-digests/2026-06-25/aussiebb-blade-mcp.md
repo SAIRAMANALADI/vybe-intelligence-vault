@@ -1,13 +1,23 @@
 ---
-title: "Groupthink-dev/aussiebb-blade-mcp"
-category: "Agent Framework"
-tech_stack: ["Python", "FastMCP 2.0", "pyaussiebb", "Model Context Protocol (MCP)", "Bash (for deployment)"]
+title: Groupthink-dev/aussiebb-blade-mcp
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- FastMCP 2.0
+- pyaussiebb
+- Model Context Protocol (MCP)
+- Bash (for deployment)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Aussie Broadband integration", "token-efficient output", "multi-account management", "diagnostic safety"]
-source: "https://github.com/Groupthink-dev/aussiebb-blade-mcp"
-discovered_at: "2026-06-25T08:33:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Aussie Broadband integration
+- token-efficient output
+- multi-account management
+- diagnostic safety
+source: https://github.com/Groupthink-dev/aussiebb-blade-mcp
+discovered_at: '2026-06-25T08:33:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

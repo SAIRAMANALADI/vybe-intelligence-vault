@@ -1,13 +1,25 @@
 ---
-title: "linny006/mcp-servers-live"
-category: "Tooling"
-tech_stack: ["GitHub Actions", "Python", "GitHub Search API", "JavaScript", "TypeScript", "Rust", "HTML"]
+title: linny006/mcp-servers-live
+category: daily-digests/2026-06-23
+tech_stack:
+- GitHub Actions
+- Python
+- GitHub Search API
+- JavaScript
+- TypeScript
+- Rust
+- HTML
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "server-discovery", "real-time-indexing", "GitHub-integration", "AI-tools"]
-source: "https://github.com/linny006/mcp-servers-live"
-discovered_at: "2026-06-23T23:11:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- server-discovery
+- real-time-indexing
+- GitHub-integration
+- AI-tools
+source: https://github.com/linny006/mcp-servers-live
+discovered_at: '2026-06-23T23:11:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

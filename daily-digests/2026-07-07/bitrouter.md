@@ -1,13 +1,28 @@
 ---
-title: "bitrouter/bitrouter"
-category: "Orchestrator"
-tech_stack: ["Rust", "OpenAI API", "Anthropic API", "MCP (Model Context Protocol)", "ACP (Agent Context Protocol)", "Prometheus", "OTLP (OpenTelemetry Protocol)", "CLI", "HTTP/HTTPS", "YAML"]
+title: bitrouter/bitrouter
+category: daily-digests/2026-07-07
+tech_stack:
+- Rust
+- OpenAI API
+- Anthropic API
+- MCP (Model Context Protocol)
+- ACP (Agent Context Protocol)
+- Prometheus
+- OTLP (OpenTelemetry Protocol)
+- CLI
+- HTTP/HTTPS
+- YAML
 quality_score: 9
 rag_relevance: 10
-tags: ["agentic routing", "cost optimization", "LLM gateway", "multi-provider", "self-hosted"]
-source: "https://github.com/bitrouter/bitrouter"
-discovered_at: "2026-07-07T06:42:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agentic routing
+- cost optimization
+- LLM gateway
+- multi-provider
+- self-hosted
+source: https://github.com/bitrouter/bitrouter
+discovered_at: '2026-07-07T06:42:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "he-yufeng/AgentProbe"
-category: "Tooling"
-tech_stack: ["Python", "Pytest", "Pydantic", "sentence-transformers", "OpenAI API", "JSON", "CLI"]
+title: he-yufeng/AgentProbe
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Pytest
+- Pydantic
+- sentence-transformers
+- OpenAI API
+- JSON
+- CLI
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent testing", "regression testing", "snapshot baselines", "LLM mocking", "CI/CD"]
-source: "https://github.com/he-yufeng/AgentProbe"
-discovered_at: "2026-06-23T16:27:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent testing
+- regression testing
+- snapshot baselines
+- LLM mocking
+- CI/CD
+source: https://github.com/he-yufeng/AgentProbe
+discovered_at: '2026-06-23T16:27:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

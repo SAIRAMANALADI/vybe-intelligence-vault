@@ -1,13 +1,32 @@
 ---
-title: "zhanglunet/mba"
-category: "Orchestrator"
-tech_stack: ["Claude Code", "TypeScript", "Node.js", "Python", "YAML", "HTML/CSS", "JavaScript", "Mermaid.js", "Chart.js", "Cloudflare Pages", "GitHub Actions", "MCP (Model Context Protocol)", "Web Search Tools", "Agent Orchestration"]
+title: zhanglunet/mba
+category: daily-digests/2026-07-07
+tech_stack:
+- Claude Code
+- TypeScript
+- Node.js
+- Python
+- YAML
+- HTML/CSS
+- JavaScript
+- Mermaid.js
+- Chart.js
+- Cloudflare Pages
+- GitHub Actions
+- MCP (Model Context Protocol)
+- Web Search Tools
+- Agent Orchestration
 quality_score: 9
 rag_relevance: 8
-tags: ["brand evaluation", "multi-agent system", "versioned reports", "parallel research", "MCP server"]
-source: "https://github.com/zhanglunet/mba"
-discovered_at: "2026-07-07T16:24:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- brand evaluation
+- multi-agent system
+- versioned reports
+- parallel research
+- MCP server
+source: https://github.com/zhanglunet/mba
+discovered_at: '2026-07-07T16:24:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "Oceanicabysslesothomonetaryunit652/llm-file-manager-agent"
-category: "Tooling"
-tech_stack: ["Python", "Flask", "Ollama", "Natural Language Processing", "MIT License"]
+title: Oceanicabysslesothomonetaryunit652/llm-file-manager-agent
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Flask
+- Ollama
+- Natural Language Processing
+- MIT License
 quality_score: 6
 rag_relevance: 5
-tags: ["file management", "natural language processing", "LLM integration", "desktop application", "AI assistant"]
-source: "https://github.com/Oceanicabysslesothomonetaryunit652/llm-file-manager-agent"
-discovered_at: "2026-06-23T08:59:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- file management
+- natural language processing
+- LLM integration
+- desktop application
+- AI assistant
+source: https://github.com/Oceanicabysslesothomonetaryunit652/llm-file-manager-agent
+discovered_at: '2026-06-23T08:59:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

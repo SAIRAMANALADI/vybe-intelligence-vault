@@ -1,13 +1,28 @@
 ---
-title: "andrii-su/organon"
-category: "Orchestrator"
-tech_stack: ["Rust", "Python 3.12+", "SQLite", "LanceDB", "fastembed", "Model Context Protocol (MCP)", "notify", "tokio", "ruff", "pyarrow"]
+title: andrii-su/organon
+category: daily-digests/2026-07-07
+tech_stack:
+- Rust
+- Python 3.12+
+- SQLite
+- LanceDB
+- fastembed
+- Model Context Protocol (MCP)
+- notify
+- tokio
+- ruff
+- pyarrow
 quality_score: 9
 rag_relevance: 10
-tags: ["semantic filesystem", "MCP server", "local-first", "AI agent tooling", "knowledge graph"]
-source: "https://github.com/andrii-su/organon"
-discovered_at: "2026-07-07T23:55:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- semantic filesystem
+- MCP server
+- local-first
+- AI agent tooling
+- knowledge graph
+source: https://github.com/andrii-su/organon
+discovered_at: '2026-07-07T23:55:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

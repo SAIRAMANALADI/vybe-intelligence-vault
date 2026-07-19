@@ -1,13 +1,24 @@
 ---
-title: "trustxai/thoughtspot-mcp"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "Model Context Protocol (MCP)", "Docker", "REST API", "uv/uvx"]
+title: trustxai/thoughtspot-mcp
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- FastMCP
+- Model Context Protocol (MCP)
+- Docker
+- REST API
+- uv/uvx
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP Server", "ThoughtSpot Integration", "Natural Language Access", "Data Export", "API Wrapper"]
-source: "https://github.com/trustxai/thoughtspot-mcp"
-discovered_at: "2026-07-06T23:04:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- ThoughtSpot Integration
+- Natural Language Access
+- Data Export
+- API Wrapper
+source: https://github.com/trustxai/thoughtspot-mcp
+discovered_at: '2026-07-06T23:04:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

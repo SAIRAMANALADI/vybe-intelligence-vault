@@ -1,13 +1,29 @@
 ---
-title: "ColinGPT9/clips-studio"
-category: "Tooling"
-tech_stack: ["Python", "Node.js", "FFmpeg", "Ollama", "Gemma (LLM)", "faster-whisper", "YOLOv8", "OpenCV", "CUDA", "PyTorch", "React (UI)"]
+title: ColinGPT9/clips-studio
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- Node.js
+- FFmpeg
+- Ollama
+- Gemma (LLM)
+- faster-whisper
+- YOLOv8
+- OpenCV
+- CUDA
+- PyTorch
+- React (UI)
 quality_score: 8
 rag_relevance: 7
-tags: ["video clipping", "local AI", "multimodal processing", "automated captions", "GPU acceleration"]
-source: "https://github.com/ColinGPT9/clips-studio"
-discovered_at: "2026-07-08T17:25:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- video clipping
+- local AI
+- multimodal processing
+- automated captions
+- GPU acceleration
+source: https://github.com/ColinGPT9/clips-studio
+discovered_at: '2026-07-08T17:25:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

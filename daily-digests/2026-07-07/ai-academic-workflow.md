@@ -1,13 +1,24 @@
 ---
-title: "qiaomiaojoe/ai-academic-workflow"
-category: "Tooling"
-tech_stack: ["Claude Code", "Codex", "Shell", "Markdown", "Python (implied for data analysis skills)", "Zotero (for literature management)"]
+title: qiaomiaojoe/ai-academic-workflow
+category: daily-digests/2026-07-07
+tech_stack:
+- Claude Code
+- Codex
+- Shell
+- Markdown
+- Python (implied for data analysis skills)
+- Zotero (for literature management)
 quality_score: 9
 rag_relevance: 7
-tags: ["academic workflow automation", "research methodology", "AI-assisted writing", "literature analysis", "data analysis"]
-source: "https://github.com/qiaomiaojoe/ai-academic-workflow"
-discovered_at: "2026-07-07T02:32:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- academic workflow automation
+- research methodology
+- AI-assisted writing
+- literature analysis
+- data analysis
+source: https://github.com/qiaomiaojoe/ai-academic-workflow
+discovered_at: '2026-07-07T02:32:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

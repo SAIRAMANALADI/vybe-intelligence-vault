@@ -1,13 +1,33 @@
 ---
-title: "Ub207/vault-sync"
-category: "Orchestrator"
-tech_stack: ["Python", "Claude Code (Opus 4)", "Obsidian", "Git", "Oracle Cloud VM", "Docker", "Odoo 17", "MCP Servers", "Gmail API", "WhatsApp API", "LinkedIn API", "Twitter API", "Facebook API", "Slack API", "Google Calendar API"]
+title: Ub207/vault-sync
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- Claude Code (Opus 4)
+- Obsidian
+- Git
+- Oracle Cloud VM
+- Docker
+- Odoo 17
+- MCP Servers
+- Gmail API
+- WhatsApp API
+- LinkedIn API
+- Twitter API
+- Facebook API
+- Slack API
+- Google Calendar API
 quality_score: 9
 rag_relevance: 7
-tags: ["AI automation", "digital employee", "human-in-the-loop", "business operations", "multi-channel integration"]
-source: "https://github.com/Ub207/vault-sync"
-discovered_at: "2026-06-22T23:21:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI automation
+- digital employee
+- human-in-the-loop
+- business operations
+- multi-channel integration
+source: https://github.com/Ub207/vault-sync
+discovered_at: '2026-06-22T23:21:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

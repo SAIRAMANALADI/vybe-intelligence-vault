@@ -1,13 +1,22 @@
 ---
-title: "ebncommonthyme293/AI-Metadata-Inspector"
-category: "Tooling"
-tech_stack: ["C#", "Windows API", "MSI Installer", ".NET Framework"]
+title: ebncommonthyme293/AI-Metadata-Inspector
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- C#
+- Windows API
+- MSI Installer
+- .NET Framework
 quality_score: 7
 rag_relevance: 6
-tags: ["metadata extraction", "AI-generated content", "Windows integration", "prompt recovery", "local processing"]
-source: "https://github.com/ebncommonthyme293/AI-Metadata-Inspector"
-discovered_at: "2026-07-11T11:04:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- metadata extraction
+- AI-generated content
+- Windows integration
+- prompt recovery
+- local processing
+source: https://github.com/ebncommonthyme293/AI-Metadata-Inspector
+discovered_at: '2026-07-11T11:04:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

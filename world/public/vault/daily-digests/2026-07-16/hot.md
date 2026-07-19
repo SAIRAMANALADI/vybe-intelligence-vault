@@ -1,13 +1,26 @@
 ---
-title: "hot-dev/hot"
-category: "Orchestrator"
-tech_stack: ["Rust", "Custom Language (Hot)", "CLI", "WebAssembly", "Docker", "TypeScript", "Python", "VS Code Extension"]
+title: hot-dev/hot
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- Rust
+- Custom Language (Hot)
+- CLI
+- WebAssembly
+- Docker
+- TypeScript
+- Python
+- VS Code Extension
 quality_score: 9
 rag_relevance: 8
-tags: ["workflow automation", "AI agents", "event-driven", "orchestration", "backend platform"]
-source: "https://github.com/hot-dev/hot"
-discovered_at: "2026-07-16T22:02:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- workflow automation
+- AI agents
+- event-driven
+- orchestration
+- backend platform
+source: https://github.com/hot-dev/hot
+discovered_at: '2026-07-16T22:02:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

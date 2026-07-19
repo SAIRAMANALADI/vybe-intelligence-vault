@@ -1,13 +1,26 @@
 ---
-title: "Rustam-Z/hamroh"
-category: "Agent Framework"
-tech_stack: ["Python", "Telegram Bot API", "Claude Code CLI", "Docker", "SQLite", "MCP (Model Context Protocol)", "Claude API", "Git"]
+title: Rustam-Z/hamroh
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- Telegram Bot API
+- Claude Code CLI
+- Docker
+- SQLite
+- MCP (Model Context Protocol)
+- Claude API
+- Git
 quality_score: 9
 rag_relevance: 7
-tags: ["AI companion", "Telegram bot", "persistent memory", "MCP integration", "self-learning agent"]
-source: "https://github.com/Rustam-Z/hamroh"
-discovered_at: "2026-07-09T14:44:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI companion
+- Telegram bot
+- persistent memory
+- MCP integration
+- self-learning agent
+source: https://github.com/Rustam-Z/hamroh
+discovered_at: '2026-07-09T14:44:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

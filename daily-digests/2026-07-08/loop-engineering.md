@@ -1,13 +1,25 @@
 ---
-title: "Norinatiring463/loop-engineering"
-category: "Agent Framework"
-tech_stack: ["Markdown", "YAML", "Python", "Claude Code", "Codex", "GitHub Copilot CLI", "Gemini CLI"]
+title: Norinatiring463/loop-engineering
+category: daily-digests/2026-07-08
+tech_stack:
+- Markdown
+- YAML
+- Python
+- Claude Code
+- Codex
+- GitHub Copilot CLI
+- Gemini CLI
 quality_score: 9
 rag_relevance: 9
-tags: ["autonomous agents", "agent loops", "prompt engineering", "verification frameworks", "guardrails"]
-source: "https://github.com/Norinatiring463/loop-engineering"
-discovered_at: "2026-07-08T05:46:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- agent loops
+- prompt engineering
+- verification frameworks
+- guardrails
+source: https://github.com/Norinatiring463/loop-engineering
+discovered_at: '2026-07-08T05:46:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

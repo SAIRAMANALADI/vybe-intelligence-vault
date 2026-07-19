@@ -1,13 +1,21 @@
 ---
-title: "CodesbyFebin/best-ai-agent"
-category: "Tooling"
-tech_stack: ["TypeScript", "GitHub Actions", "Markdown"]
+title: CodesbyFebin/best-ai-agent
+category: daily-digests/2026-06-30
+tech_stack:
+- TypeScript
+- GitHub Actions
+- Markdown
 quality_score: 3
 rag_relevance: 4
-tags: ["community management", "CI/CD", "AI agent rankings", "templates", "metadata"]
-source: "https://github.com/CodesbyFebin/best-ai-agent"
-discovered_at: "2026-06-30T22:14:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- community management
+- CI/CD
+- AI agent rankings
+- templates
+- metadata
+source: https://github.com/CodesbyFebin/best-ai-agent
+discovered_at: '2026-06-30T22:14:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "phuetz/code-buddy"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Electron", "Ollama", "LLM APIs (GPT, Grok, Claude, etc.)", "Rust (buddy-sense)", "Python (buddy-vision)", "WebSocket", "Jest", "Vitest"]
+title: phuetz/code-buddy
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- Node.js
+- Electron
+- Ollama
+- LLM APIs (GPT, Grok, Claude, etc.)
+- Rust (buddy-sense)
+- Python (buddy-vision)
+- WebSocket
+- Jest
+- Vitest
 quality_score: 9
 rag_relevance: 10
-tags: ["AI coding agent", "multi-provider LLM", "local-first", "MCP integration", "autonomous fleet"]
-source: "https://github.com/phuetz/code-buddy"
-discovered_at: "2026-07-06T23:03:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding agent
+- multi-provider LLM
+- local-first
+- MCP integration
+- autonomous fleet
+source: https://github.com/phuetz/code-buddy
+discovered_at: '2026-07-06T23:03:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

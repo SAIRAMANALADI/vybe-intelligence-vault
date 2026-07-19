@@ -1,13 +1,27 @@
 ---
-title: "zboralski/ida-headless-mcp"
-category: "Agent Framework"
-tech_stack: ["Go", "Python", "IDA Pro", "idalib", "Model Context Protocol (MCP)", "Connect RPC", "Protobuf", "Il2CppDumper", "unflutter"]
+title: zboralski/ida-headless-mcp
+category: daily-digests/2026-07-18
+tech_stack:
+- Go
+- Python
+- IDA Pro
+- idalib
+- Model Context Protocol (MCP)
+- Connect RPC
+- Protobuf
+- Il2CppDumper
+- unflutter
 quality_score: 9
 rag_relevance: 8
-tags: ["binary analysis", "MCP server", "IDA Pro integration", "reverse engineering", "automated analysis"]
-source: "https://github.com/zboralski/ida-headless-mcp"
-discovered_at: "2026-07-14T10:08:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- binary analysis
+- MCP server
+- IDA Pro integration
+- reverse engineering
+- automated analysis
+source: https://github.com/zboralski/ida-headless-mcp
+discovered_at: '2026-07-14T10:08:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

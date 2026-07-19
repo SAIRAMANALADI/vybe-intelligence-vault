@@ -1,13 +1,24 @@
 ---
-title: "Coding-Dev-Tools/deadcode"
-category: "Tooling"
-tech_stack: ["Python", "TypeScript", "React", "Next.js", "CLI", "Regex-based scanning"]
+title: Coding-Dev-Tools/deadcode
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- Python
+- TypeScript
+- React
+- Next.js
+- CLI
+- Regex-based scanning
 quality_score: 9
 rag_relevance: 7
-tags: ["dead code detection", "bundle optimization", "code cleanup", "TypeScript", "React"]
-source: "https://github.com/Coding-Dev-Tools/deadcode"
-discovered_at: "2026-07-14T23:53:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- dead code detection
+- bundle optimization
+- code cleanup
+- TypeScript
+- React
+source: https://github.com/Coding-Dev-Tools/deadcode
+discovered_at: '2026-07-14T23:53:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

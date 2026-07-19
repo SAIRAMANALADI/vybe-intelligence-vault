@@ -1,13 +1,30 @@
 ---
-title: "opensandbox-group/OpenSandbox"
-category: "Orchestrator"
-tech_stack: ["Python", "Java/Kotlin", "JavaScript/TypeScript", "C#/.NET", "Go", "Docker", "Kubernetes", "FastAPI", "gVisor", "Kata Containers", "Firecracker", "OpenAPI"]
+title: opensandbox-group/OpenSandbox
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Java/Kotlin
+- JavaScript/TypeScript
+- C#/.NET
+- Go
+- Docker
+- Kubernetes
+- FastAPI
+- gVisor
+- Kata Containers
+- Firecracker
+- OpenAPI
 quality_score: 9
 rag_relevance: 8
-tags: ["sandboxing", "AI execution", "multi-language SDKs", "container orchestration", "secure isolation"]
-source: "https://github.com/opensandbox-group/OpenSandbox"
-discovered_at: "2026-06-23T08:58:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- sandboxing
+- AI execution
+- multi-language SDKs
+- container orchestration
+- secure isolation
+source: https://github.com/opensandbox-group/OpenSandbox
+discovered_at: '2026-06-23T08:58:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

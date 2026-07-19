@@ -1,13 +1,25 @@
 ---
-title: "cheapestinference/mcp"
-category: "Tooling"
-tech_stack: ["Model Context Protocol (MCP)", "OpenAI-compatible API", "Anthropic-compatible API", "USDC (ERC-20)", "Base L2", "EIP-191", "x402 pay-per-request protocol"]
+title: cheapestinference/mcp
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- Model Context Protocol (MCP)
+- OpenAI-compatible API
+- Anthropic-compatible API
+- USDC (ERC-20)
+- Base L2
+- EIP-191
+- x402 pay-per-request protocol
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP server", "LLM inference", "subscription management", "USDC payments", "autonomous agents"]
-source: "https://github.com/cheapestinference/mcp"
-discovered_at: "2026-07-11T09:27:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- LLM inference
+- subscription management
+- USDC payments
+- autonomous agents
+source: https://github.com/cheapestinference/mcp
+discovered_at: '2026-07-11T09:27:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

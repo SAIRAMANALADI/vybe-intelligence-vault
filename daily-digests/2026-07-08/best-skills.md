@@ -1,13 +1,21 @@
 ---
-title: "Kartikpanel2008/best-skills"
-category: "Tooling"
-tech_stack: ["Python", "Windows Executable", "ZIP Archive"]
+title: Kartikpanel2008/best-skills
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- Windows Executable
+- ZIP Archive
 quality_score: 5
 rag_relevance: 2
-tags: ["Windows automation", "skill library", "productivity tools", "offline access", "user-friendly"]
-source: "https://github.com/Kartikpanel2008/best-skills"
-discovered_at: "2026-07-08T02:07:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Windows automation
+- skill library
+- productivity tools
+- offline access
+- user-friendly
+source: https://github.com/Kartikpanel2008/best-skills
+discovered_at: '2026-07-08T02:07:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

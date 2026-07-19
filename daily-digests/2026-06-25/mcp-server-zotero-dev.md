@@ -1,13 +1,24 @@
 ---
-title: "introfini/mcp-server-zotero-dev"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Zotero", "Firefox Remote Debugging Protocol (RDP)", "XUL/XPCOM (Zotero internals)"]
+title: introfini/mcp-server-zotero-dev
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Zotero
+- Firefox Remote Debugging Protocol (RDP)
+- XUL/XPCOM (Zotero internals)
 quality_score: 9
 rag_relevance: 8
-tags: ["Zotero", "MCP", "AI assistant integration", "plugin development", "debugging"]
-source: "https://github.com/introfini/mcp-server-zotero-dev"
-discovered_at: "2026-06-25T14:18:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Zotero
+- MCP
+- AI assistant integration
+- plugin development
+- debugging
+source: https://github.com/introfini/mcp-server-zotero-dev
+discovered_at: '2026-06-25T14:18:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

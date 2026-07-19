@@ -1,13 +1,26 @@
 ---
-title: "232252/education-advisor"
-category: "Agent Framework"
-tech_stack: ["Rust", "egui", "SQLite", "Tokio", "AES-256-GCM", "LLM APIs (OpenAI, Anthropic, Ollama, etc.)", "ReAct orchestration", "Cron scheduler"]
+title: 232252/education-advisor
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Rust
+- egui
+- SQLite
+- Tokio
+- AES-256-GCM
+- LLM APIs (OpenAI, Anthropic, Ollama, etc.)
+- ReAct orchestration
+- Cron scheduler
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agents", "education management", "privacy preservation", "local-first", "cross-platform"]
-source: "https://github.com/232252/education-advisor"
-discovered_at: "2026-06-23T02:46:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- education management
+- privacy preservation
+- local-first
+- cross-platform
+source: https://github.com/232252/education-advisor
+discovered_at: '2026-06-23T02:46:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

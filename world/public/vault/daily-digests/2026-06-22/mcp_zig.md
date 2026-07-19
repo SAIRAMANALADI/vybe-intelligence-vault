@@ -1,13 +1,20 @@
 ---
-title: "nobita5609/mcp.zig"
-category: "Tooling"
-tech_stack: ["Zig", "Model Context Protocol (MCP)"]
+title: nobita5609/mcp.zig
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Zig
+- Model Context Protocol (MCP)
 quality_score: 5
 rag_relevance: 7
-tags: ["Zig", "MCP", "context-management", "cross-platform", "protocol-library"]
-source: "https://github.com/nobita5609/mcp.zig"
-discovered_at: "2026-06-22T23:24:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Zig
+- MCP
+- context-management
+- cross-platform
+- protocol-library
+source: https://github.com/nobita5609/mcp.zig
+discovered_at: '2026-06-22T23:24:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

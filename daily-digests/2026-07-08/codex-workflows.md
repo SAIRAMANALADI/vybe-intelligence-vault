@@ -1,13 +1,22 @@
 ---
-title: "round-comfortfood117/codex-workflows"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Codex CLI", "AI Subagents", "Windows"]
+title: round-comfortfood117/codex-workflows
+category: daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- Codex CLI
+- AI Subagents
+- Windows
 quality_score: 6
 rag_relevance: 7
-tags: ["AI coding workflows", "Codex CLI", "multi-agent systems", "test-driven development", "code quality automation"]
-source: "https://github.com/round-comfortfood117/codex-workflows"
-discovered_at: "2026-07-08T22:15:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding workflows
+- Codex CLI
+- multi-agent systems
+- test-driven development
+- code quality automation
+source: https://github.com/round-comfortfood117/codex-workflows
+discovered_at: '2026-07-08T22:15:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

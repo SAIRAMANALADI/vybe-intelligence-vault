@@ -1,13 +1,28 @@
 ---
-title: "EngineerProjects/seshat"
-category: "Agent Framework"
-tech_stack: ["Go", "gRPC", "MCP (Model Context Protocol)", "RAG (Retrieval-Augmented Generation)", "LLM Providers (15+ supported)", "Terminal UI (TUI)", "Sandboxed Execution", "Structured Messaging", "Persistent Sessions", "Skills Framework"]
+title: EngineerProjects/seshat
+category: daily-digests/2026-06-25
+tech_stack:
+- Go
+- gRPC
+- MCP (Model Context Protocol)
+- RAG (Retrieval-Augmented Generation)
+- LLM Providers (15+ supported)
+- Terminal UI (TUI)
+- Sandboxed Execution
+- Structured Messaging
+- Persistent Sessions
+- Skills Framework
 quality_score: 9
 rag_relevance: 7
-tags: ["multi-agent systems", "agent orchestration", "Go runtime", "structured communication", "production-grade"]
-source: "https://github.com/EngineerProjects/seshat"
-discovered_at: "2026-06-25T08:31:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- agent orchestration
+- Go runtime
+- structured communication
+- production-grade
+source: https://github.com/EngineerProjects/seshat
+discovered_at: '2026-06-25T08:31:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "ionalpha/flynn"
-category: "Agent Framework"
-tech_stack: ["Go", "SQLite", "Cosign", "Docker", "Telegram/Signal APIs", "OpenSSF Scorecard"]
+title: ionalpha/flynn
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Go
+- SQLite
+- Cosign
+- Docker
+- Telegram/Signal APIs
+- OpenSSF Scorecard
 quality_score: 9
 rag_relevance: 10
-tags: ["autonomous agents", "agent runtime", "self-improving systems", "sandboxed execution", "verifiable records"]
-source: "https://github.com/ionalpha/flynn"
-discovered_at: "2026-07-09T19:30:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- agent runtime
+- self-improving systems
+- sandboxed execution
+- verifiable records
+source: https://github.com/ionalpha/flynn
+discovered_at: '2026-07-09T19:30:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,32 @@
 ---
-title: "Eras256/Nirium"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Python", "Soroban (Stellar Smart Contracts)", "Rust", "Next.js", "Express", "Supabase", "Stellar Horizon", "JWT", "HMAC-SHA256", "WebSocket", "Docker", "Fly.io", "Vercel"]
+title: Eras256/Nirium
+category: daily-digests/2026-07-14
+tech_stack:
+- TypeScript
+- Python
+- Soroban (Stellar Smart Contracts)
+- Rust
+- Next.js
+- Express
+- Supabase
+- Stellar Horizon
+- JWT
+- HMAC-SHA256
+- WebSocket
+- Docker
+- Fly.io
+- Vercel
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous treasury", "Stellar blockchain", "agentic SDK", "Soroban smart contracts", "institutional fintech"]
-source: "https://github.com/Eras256/Nirium"
-discovered_at: "2026-07-14T02:13:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous treasury
+- Stellar blockchain
+- agentic SDK
+- Soroban smart contracts
+- institutional fintech
+source: https://github.com/Eras256/Nirium
+discovered_at: '2026-07-14T02:13:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

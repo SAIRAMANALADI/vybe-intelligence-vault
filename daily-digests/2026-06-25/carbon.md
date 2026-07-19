@@ -1,13 +1,32 @@
 ---
-title: "crbnos/carbon"
-category: "SaaS Template"
-tech_stack: ["TypeScript", "React", "Supabase", "Redis", "Tailwind CSS", "Radix UI", "React Router", "Inngest", "Resend", "Lingui", "Vercel", "Stripe", "PostgreSQL", "Docker"]
+title: crbnos/carbon
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- React
+- Supabase
+- Redis
+- Tailwind CSS
+- Radix UI
+- React Router
+- Inngest
+- Resend
+- Lingui
+- Vercel
+- Stripe
+- PostgreSQL
+- Docker
 quality_score: 9
 rag_relevance: 7
-tags: ["manufacturing", "ERP", "MES", "QMS", "open-source"]
-source: "https://github.com/crbnos/carbon"
-discovered_at: "2026-06-25T14:19:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- manufacturing
+- ERP
+- MES
+- QMS
+- open-source
+source: https://github.com/crbnos/carbon
+discovered_at: '2026-06-25T14:19:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "KhanhRomVN/Zen"
-category: "Tooling"
-tech_stack: ["TypeScript", "VSCode Extension API", "Node.js", "LLM Provider APIs"]
+title: KhanhRomVN/Zen
+category: daily-digests/2026-07-12
+tech_stack:
+- TypeScript
+- VSCode Extension API
+- Node.js
+- LLM Provider APIs
 quality_score: 8
 rag_relevance: 7
-tags: ["VSCode extension", "AI chat", "code assistant", "multi-LLM", "file operations"]
-source: "https://github.com/KhanhRomVN/Zen"
-discovered_at: "2026-07-12T02:32:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- VSCode extension
+- AI chat
+- code assistant
+- multi-LLM
+- file operations
+source: https://github.com/KhanhRomVN/Zen
+discovered_at: '2026-07-12T02:32:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

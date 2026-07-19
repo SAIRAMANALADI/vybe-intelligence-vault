@@ -1,13 +1,28 @@
 ---
-title: "Cloud-Temple/mcp-vault"
-category: "Tooling"
-tech_stack: ["Python", "OpenBao", "ASGI", "Docker", "S3", "SSH", "PKI", "ACME", "JWT", "C18 (Credential Broker Service)"]
+title: Cloud-Temple/mcp-vault
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- OpenBao
+- ASGI
+- Docker
+- S3
+- SSH
+- PKI
+- ACME
+- JWT
+- C18 (Credential Broker Service)
 quality_score: 9
 rag_relevance: 8
-tags: ["secret management", "AI agents", "OpenBao", "MCP server", "security"]
-source: "https://github.com/Cloud-Temple/mcp-vault"
-discovered_at: "2026-06-25T08:34:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- secret management
+- AI agents
+- OpenBao
+- MCP server
+- security
+source: https://github.com/Cloud-Temple/mcp-vault
+discovered_at: '2026-06-25T08:34:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

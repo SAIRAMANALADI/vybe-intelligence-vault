@@ -1,13 +1,24 @@
 ---
-title: "FallDownTheSystem/converse"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "npm", "REST APIs", "Environment variables"]
+title: FallDownTheSystem/converse
+category: daily-digests/2026-07-15
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- npm
+- REST APIs
+- Environment variables
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP Server", "Multi-model AI", "Consensus Tool", "Asynchronous Execution", "Smart Summarization"]
-source: "https://github.com/FallDownTheSystem/converse"
-discovered_at: "2026-07-10T22:00:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- Multi-model AI
+- Consensus Tool
+- Asynchronous Execution
+- Smart Summarization
+source: https://github.com/FallDownTheSystem/converse
+discovered_at: '2026-07-10T22:00:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

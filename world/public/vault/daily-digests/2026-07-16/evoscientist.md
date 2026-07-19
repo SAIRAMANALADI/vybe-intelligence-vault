@@ -1,13 +1,29 @@
 ---
-title: "EvoScientist/EvoScientist"
-category: "Agent Framework"
-tech_stack: ["Python", "LangChain", "DeepAgents", "MCP (Model Context Protocol)", "FastAPI", "React", "TypeScript", "Telegram API", "Slack API", "Feishu API", "WeChat API"]
+title: EvoScientist/EvoScientist
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- Python
+- LangChain
+- DeepAgents
+- MCP (Model Context Protocol)
+- FastAPI
+- React
+- TypeScript
+- Telegram API
+- Slack API
+- Feishu API
+- WeChat API
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous research", "multi-agent systems", "self-evolving AI", "scientific workflow", "vibe coding"]
-source: "https://github.com/EvoScientist/EvoScientist"
-discovered_at: "2026-07-13T13:22:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous research
+- multi-agent systems
+- self-evolving AI
+- scientific workflow
+- vibe coding
+source: https://github.com/EvoScientist/EvoScientist
+discovered_at: '2026-07-13T13:22:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

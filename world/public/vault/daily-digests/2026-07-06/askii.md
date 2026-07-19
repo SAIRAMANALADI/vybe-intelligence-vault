@@ -1,13 +1,28 @@
 ---
-title: "danisss9/ASKII"
-category: "Tooling"
-tech_stack: ["TypeScript", "VS Code Extension API", "Ollama", "GitHub Copilot", "LM Studio", "OpenAI API", "Anthropic API", "Puppeteer", "MiniSearch", "BM25"]
+title: danisss9/ASKII
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- VS Code Extension API
+- Ollama
+- GitHub Copilot
+- LM Studio
+- OpenAI API
+- Anthropic API
+- Puppeteer
+- MiniSearch
+- BM25
 quality_score: 9
 rag_relevance: 7
-tags: ["VS Code extension", "AI-powered coding", "RAG", "agentic workflows", "multi-model support"]
-source: "https://github.com/danisss9/ASKII"
-discovered_at: "2026-07-06T23:02:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- VS Code extension
+- AI-powered coding
+- RAG
+- agentic workflows
+- multi-model support
+source: https://github.com/danisss9/ASKII
+discovered_at: '2026-07-06T23:02:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

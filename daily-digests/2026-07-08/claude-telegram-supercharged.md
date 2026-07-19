@@ -1,13 +1,22 @@
 ---
-title: "woodruffradiography633/claude-telegram-supercharged"
-category: "Tooling"
-tech_stack: ["Telegram Bot API", "Claude Code", "Python", "Plugin System"]
+title: woodruffradiography633/claude-telegram-supercharged
+category: daily-digests/2026-07-08
+tech_stack:
+- Telegram Bot API
+- Claude Code
+- Python
+- Plugin System
 quality_score: 3
 rag_relevance: 5
-tags: ["Claude Code", "Telegram", "Plugin", "Workflow Automation", "AI Tools"]
-source: "https://github.com/woodruffradiography633/claude-telegram-supercharged"
-discovered_at: "2026-07-08T22:14:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- Telegram
+- Plugin
+- Workflow Automation
+- AI Tools
+source: https://github.com/woodruffradiography633/claude-telegram-supercharged
+discovered_at: '2026-07-08T22:14:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

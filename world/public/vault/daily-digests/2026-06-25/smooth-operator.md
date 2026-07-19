@@ -1,13 +1,33 @@
 ---
-title: "SmooAI/smooth-operator"
-category: "Orchestrator"
-tech_stack: ["Rust", "TypeScript", "Go", ".NET", "Python", "PostgreSQL", "pgvector", "DynamoDB", "Redis", "NATS", "S3 Vectors", "WebSocket", "Helm", "SST", "Docker"]
+title: SmooAI/smooth-operator
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Rust
+- TypeScript
+- Go
+- .NET
+- Python
+- PostgreSQL
+- pgvector
+- DynamoDB
+- Redis
+- NATS
+- S3 Vectors
+- WebSocket
+- Helm
+- SST
+- Docker
 quality_score: 9
 rag_relevance: 10
-tags: ["AI agent orchestration", "hybrid retrieval", "multi-language support", "human-in-the-loop", "self-hostable"]
-source: "https://github.com/SmooAI/smooth-operator"
-discovered_at: "2026-06-25T17:08:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent orchestration
+- hybrid retrieval
+- multi-language support
+- human-in-the-loop
+- self-hostable
+source: https://github.com/SmooAI/smooth-operator
+discovered_at: '2026-06-25T17:08:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "BankNatchapol/SuperSaiyan"
-category: "Orchestrator"
-tech_stack: ["Claude Code", "GitHub CLI", "Git", "JavaScript", "Electron", "Node.js"]
+title: BankNatchapol/SuperSaiyan
+category: daily-digests/2026-06-24
+tech_stack:
+- Claude Code
+- GitHub CLI
+- Git
+- JavaScript
+- Electron
+- Node.js
 quality_score: 8
 rag_relevance: 7
-tags: ["AI development pipeline", "autonomous PR generation", "Claude Code integration", "multi-agent workflow", "GitHub Project automation"]
-source: "https://github.com/BankNatchapol/SuperSaiyan"
-discovered_at: "2026-06-24T02:46:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI development pipeline
+- autonomous PR generation
+- Claude Code integration
+- multi-agent workflow
+- GitHub Project automation
+source: https://github.com/BankNatchapol/SuperSaiyan
+discovered_at: '2026-06-24T02:46:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

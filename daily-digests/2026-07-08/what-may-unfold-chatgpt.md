@@ -1,13 +1,23 @@
 ---
-title: "holoinverse/what-may-unfold-chatgpt"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "HTTP Server", "Vercel (hosting)"]
+title: holoinverse/what-may-unfold-chatgpt
+category: daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- HTTP Server
+- Vercel (hosting)
 quality_score: 7
 rag_relevance: 4
-tags: ["reflection", "daily prompts", "self-awareness", "MCP server", "ChatGPT integration"]
-source: "https://github.com/holoinverse/what-may-unfold-chatgpt"
-discovered_at: "2026-07-08T05:46:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- reflection
+- daily prompts
+- self-awareness
+- MCP server
+- ChatGPT integration
+source: https://github.com/holoinverse/what-may-unfold-chatgpt
+discovered_at: '2026-07-08T05:46:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

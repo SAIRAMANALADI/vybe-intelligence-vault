@@ -1,13 +1,30 @@
 ---
-title: "kyomi-ai/kyomi-connect"
-category: "Tooling"
-tech_stack: ["Rust", "WebSocket", "TLS", "JWT", "SQLx", "libpq", "MySQL protocol", "HTTP API", "REST API", "TDS protocol", "Arrow Flight SQL", "DataFusion"]
+title: kyomi-ai/kyomi-connect
+category: daily-digests/2026-07-14
+tech_stack:
+- Rust
+- WebSocket
+- TLS
+- JWT
+- SQLx
+- libpq
+- MySQL protocol
+- HTTP API
+- REST API
+- TDS protocol
+- Arrow Flight SQL
+- DataFusion
 quality_score: 9
 rag_relevance: 8
-tags: ["database proxy", "on-premise agent", "secure data access", "JWT authentication", "multi-database support"]
-source: "https://github.com/kyomi-ai/kyomi-connect"
-discovered_at: "2026-07-10T23:08:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- database proxy
+- on-premise agent
+- secure data access
+- JWT authentication
+- multi-database support
+source: https://github.com/kyomi-ai/kyomi-connect
+discovered_at: '2026-07-10T23:08:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

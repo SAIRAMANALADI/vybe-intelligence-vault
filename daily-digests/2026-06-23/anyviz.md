@@ -1,13 +1,30 @@
 ---
-title: "TseringYuu/anyviz"
-category: "UI Component"
-tech_stack: ["JavaScript", "Python", "R", "D3.js", "ECharts", "Mapbox", "Three.js", "Plotly", "Matplotlib", "ggplot2", "JSON", "Observable Plot"]
+title: TseringYuu/anyviz
+category: daily-digests/2026-06-23
+tech_stack:
+- JavaScript
+- Python
+- R
+- D3.js
+- ECharts
+- Mapbox
+- Three.js
+- Plotly
+- Matplotlib
+- ggplot2
+- JSON
+- Observable Plot
 quality_score: 9
 rag_relevance: 8
-tags: ["data visualization", "AI workflow", "design consistency", "multi-stack rendering", "aesthetic systems"]
-source: "https://github.com/TseringYuu/anyviz"
-discovered_at: "2026-06-23T06:49:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- data visualization
+- AI workflow
+- design consistency
+- multi-stack rendering
+- aesthetic systems
+source: https://github.com/TseringYuu/anyviz
+discovered_at: '2026-06-23T06:49:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

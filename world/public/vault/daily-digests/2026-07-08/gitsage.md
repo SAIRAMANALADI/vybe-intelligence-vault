@@ -1,13 +1,23 @@
 ---
-title: "younismahmoud1234/gitsage"
-category: "Tooling"
-tech_stack: ["Java", "GitHub API", "AI-Powered Search", "Vector Database", "Windows Desktop"]
+title: younismahmoud1234/gitsage
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Java
+- GitHub API
+- AI-Powered Search
+- Vector Database
+- Windows Desktop
 quality_score: 7
 rag_relevance: 8
-tags: ["codebase assistant", "GitHub integration", "AI search", "desktop tool", "vector indexing"]
-source: "https://github.com/younismahmoud1234/gitsage"
-discovered_at: "2026-07-08T02:07:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- codebase assistant
+- GitHub integration
+- AI search
+- desktop tool
+- vector indexing
+source: https://github.com/younismahmoud1234/gitsage
+discovered_at: '2026-07-08T02:07:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

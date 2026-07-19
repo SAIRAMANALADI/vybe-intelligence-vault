@@ -1,13 +1,23 @@
 ---
-title: "enola-labs/enola"
-category: "Orchestrator"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "Tree-sitter", "Graph algorithms", "YAML/JSON (configuration)"]
+title: enola-labs/enola
+category: daily-digests/2026-06-23
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- Tree-sitter
+- Graph algorithms
+- YAML/JSON (configuration)
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP server", "code architecture", "deterministic modeling", "AI agent tooling", "refactoring safety"]
-source: "https://github.com/enola-labs/enola"
-discovered_at: "2026-06-23T21:33:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- code architecture
+- deterministic modeling
+- AI agent tooling
+- refactoring safety
+source: https://github.com/enola-labs/enola
+discovered_at: '2026-06-23T21:33:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

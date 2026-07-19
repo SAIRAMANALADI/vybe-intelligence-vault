@@ -1,13 +1,32 @@
 ---
-title: "chris-dare/pontifex"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP SDK", "OAuth 2.1", "JWT", "SQLite", "PostgreSQL", "Redis", "Alembic", "OpenTelemetry", "Logfire", "Docker", "uv", "Pydantic", "FastAPI"]
+title: chris-dare/pontifex
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- MCP SDK
+- OAuth 2.1
+- JWT
+- SQLite
+- PostgreSQL
+- Redis
+- Alembic
+- OpenTelemetry
+- Logfire
+- Docker
+- uv
+- Pydantic
+- FastAPI
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP", "AI agent governance", "security layer", "authentication", "audit trail"]
-source: "https://github.com/chris-dare/pontifex"
-discovered_at: "2026-06-23T16:26:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- AI agent governance
+- security layer
+- authentication
+- audit trail
+source: https://github.com/chris-dare/pontifex
+discovered_at: '2026-06-23T16:26:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "german-krasnikov/unity-kiss-mcp"
-category: "Tooling"
-tech_stack: ["Unity", "Python", "MCP (Model Context Protocol)", "TCP/IP", "Roslyn", "C#"]
+title: german-krasnikov/unity-kiss-mcp
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Unity
+- Python
+- MCP (Model Context Protocol)
+- TCP/IP
+- Roslyn
+- C#
 quality_score: 9
 rag_relevance: 7
-tags: ["Unity automation", "AI tool integration", "MCP protocol", "token optimization", "playtest DSL"]
-source: "https://github.com/german-krasnikov/unity-kiss-mcp"
-discovered_at: "2026-06-23T06:51:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Unity automation
+- AI tool integration
+- MCP protocol
+- token optimization
+- playtest DSL
+source: https://github.com/german-krasnikov/unity-kiss-mcp
+discovered_at: '2026-06-23T06:51:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

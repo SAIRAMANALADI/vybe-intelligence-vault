@@ -1,13 +1,27 @@
 ---
-title: "skynetcmd/m3-memory"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "BGE-M3 (GGUF)", "Rust (oxidized core)", "MCP (Model Context Protocol)", "FTS5 (full-text search)", "GGUF (quantized models)", "Git LFS", "FastAPI (embedding service)"]
+title: skynetcmd/m3-memory
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- SQLite
+- BGE-M3 (GGUF)
+- Rust (oxidized core)
+- MCP (Model Context Protocol)
+- FTS5 (full-text search)
+- GGUF (quantized models)
+- Git LFS
+- FastAPI (embedding service)
 quality_score: 9
 rag_relevance: 10
-tags: ["long-term memory", "hybrid retrieval", "offline-first", "MCP integration", "knowledge graph"]
-source: "https://github.com/skynetcmd/m3-memory"
-discovered_at: "2026-06-23T06:52:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- long-term memory
+- hybrid retrieval
+- offline-first
+- MCP integration
+- knowledge graph
+source: https://github.com/skynetcmd/m3-memory
+discovered_at: '2026-06-23T06:52:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

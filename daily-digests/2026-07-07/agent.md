@@ -1,13 +1,22 @@
 ---
-title: "cocohig4830/Agent"
-category: "Tooling"
-tech_stack: ["Windows", "C#", ".NET", "WinForms"]
+title: cocohig4830/Agent
+category: daily-digests/2026-07-07
+tech_stack:
+- Windows
+- C#
+- .NET
+- WinForms
 quality_score: 5
 rag_relevance: 2
-tags: ["interview prep", "note-taking", "Windows app", "study tool", "Q&A organizer"]
-source: "https://github.com/cocohig4830/Agent"
-discovered_at: "2026-07-07T23:54:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- interview prep
+- note-taking
+- Windows app
+- study tool
+- Q&A organizer
+source: https://github.com/cocohig4830/Agent
+discovered_at: '2026-07-07T23:54:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

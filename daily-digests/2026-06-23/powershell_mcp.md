@@ -1,13 +1,23 @@
 ---
-title: "yotsuda/PowerShell.MCP"
-category: "Orchestrator"
-tech_stack: ["PowerShell", "C#", "Model Context Protocol (MCP)", "PowerShell Gallery", "ConPTY"]
+title: yotsuda/PowerShell.MCP
+category: daily-digests/2026-06-23
+tech_stack:
+- PowerShell
+- C#
+- Model Context Protocol (MCP)
+- PowerShell Gallery
+- ConPTY
 quality_score: 9
 rag_relevance: 8
-tags: ["PowerShell", "MCP server", "AI orchestration", "CLI integration", "multi-client architecture"]
-source: "https://github.com/yotsuda/PowerShell.MCP"
-discovered_at: "2026-06-23T06:45:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- PowerShell
+- MCP server
+- AI orchestration
+- CLI integration
+- multi-client architecture
+source: https://github.com/yotsuda/PowerShell.MCP
+discovered_at: '2026-06-23T06:45:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

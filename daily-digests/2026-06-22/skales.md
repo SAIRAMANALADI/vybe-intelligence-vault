@@ -1,13 +1,28 @@
 ---
-title: "skalesapp/skales"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Electron", "React", "Node.js", "Python", "Ollama", "REST API", "WebSockets", "SQLite", "TensorFlow.js"]
+title: skalesapp/skales
+category: daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Electron
+- React
+- Node.js
+- Python
+- Ollama
+- REST API
+- WebSockets
+- SQLite
+- TensorFlow.js
 quality_score: 9
 rag_relevance: 8
-tags: ["desktop agent", "autonomous AI", "multi-agent systems", "local-first", "workflow automation"]
-source: "https://github.com/skalesapp/skales"
-discovered_at: "2026-06-22T18:54:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- desktop agent
+- autonomous AI
+- multi-agent systems
+- local-first
+- workflow automation
+source: https://github.com/skalesapp/skales
+discovered_at: '2026-06-22T18:54:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

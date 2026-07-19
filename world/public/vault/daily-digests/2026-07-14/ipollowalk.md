@@ -1,13 +1,28 @@
 ---
-title: "Devin-AXIS/iPolloWalk"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "JavaScript", "Ethereum-compatible Smart Contracts", "MCP (Model Context Protocol)", "A2A (Agent-to-Agent) Protocol", "X402 Protocol", "Web3 Wallets (MetaMask, WalletConnect)", "HTTP Gateway", "Node.js", "Python"]
+title: Devin-AXIS/iPolloWalk
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- TypeScript
+- JavaScript
+- Ethereum-compatible Smart Contracts
+- MCP (Model Context Protocol)
+- A2A (Agent-to-Agent) Protocol
+- X402 Protocol
+- Web3 Wallets (MetaMask, WalletConnect)
+- HTTP Gateway
+- Node.js
+- Python
 quality_score: 8
 rag_relevance: 9
-tags: ["AI Value Protocol", "Decentralized AI Economy", "Agent Compensation", "On-Chain Settlement", "Hybrid Intelligence Consensus"]
-source: "https://github.com/Devin-AXIS/iPolloWalk"
-discovered_at: "2026-07-11T13:14:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Value Protocol
+- Decentralized AI Economy
+- Agent Compensation
+- On-Chain Settlement
+- Hybrid Intelligence Consensus
+source: https://github.com/Devin-AXIS/iPolloWalk
+discovered_at: '2026-07-11T13:14:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "nico2sh/kimun"
-category: "Tooling"
-tech_stack: ["Rust", "Ratatui", "SQLite", "Nucleo (fuzzy search)", "Neovim", "Model Context Protocol (MCP)", "Docker", "Homebrew", "Cargo"]
+title: nico2sh/kimun
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- Rust
+- Ratatui
+- SQLite
+- Nucleo (fuzzy search)
+- Neovim
+- Model Context Protocol (MCP)
+- Docker
+- Homebrew
+- Cargo
 quality_score: 9
 rag_relevance: 8
-tags: ["note-taking", "terminal-based", "RAG", "Markdown", "AI integration"]
-source: "https://github.com/nico2sh/kimun"
-discovered_at: "2026-07-15T18:06:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- note-taking
+- terminal-based
+- RAG
+- Markdown
+- AI integration
+source: https://github.com/nico2sh/kimun
+discovered_at: '2026-07-15T18:06:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

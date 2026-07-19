@@ -1,13 +1,24 @@
 ---
-title: "masondelan/selvedge"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "MCP (Model Context Protocol)", "Agent Trace (open standard)", "Git", "CLI"]
+title: masondelan/selvedge
+category: world/public/vault/daily-digests/2026-07-12
+tech_stack:
+- Python
+- SQLite
+- MCP (Model Context Protocol)
+- Agent Trace (open standard)
+- Git
+- CLI
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent memory", "code provenance", "long-term reasoning capture", "MCP server", "change tracking"]
-source: "https://github.com/masondelan/selvedge"
-discovered_at: "2026-07-11T17:54:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent memory
+- code provenance
+- long-term reasoning capture
+- MCP server
+- change tracking
+source: https://github.com/masondelan/selvedge
+discovered_at: '2026-07-11T17:54:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "shuji-bonji/epsg-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "JSDoc", "JSON Schema"]
+title: shuji-bonji/epsg-mcp
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- JSDoc
+- JSON Schema
 quality_score: 9
 rag_relevance: 8
-tags: ["CRS", "Coordinate Systems", "Geospatial", "MCP Server", "EPSG"]
-source: "https://github.com/shuji-bonji/epsg-mcp"
-discovered_at: "2026-07-13T21:55:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CRS
+- Coordinate Systems
+- Geospatial
+- MCP Server
+- EPSG
+source: https://github.com/shuji-bonji/epsg-mcp
+discovered_at: '2026-07-13T21:55:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,34 @@
 ---
-title: "harshd5382-droid/evomind-pdf-intelligence"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Next.js", "React", "TypeScript", "PostgreSQL", "Qdrant", "Neo4j", "Redis", "Celery", "Docker", "NVIDIA NIM", "Anthropic", "OpenAI", "Gemini", "Ollama"]
+title: harshd5382-droid/evomind-pdf-intelligence
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- FastAPI
+- Next.js
+- React
+- TypeScript
+- PostgreSQL
+- Qdrant
+- Neo4j
+- Redis
+- Celery
+- Docker
+- NVIDIA NIM
+- Anthropic
+- OpenAI
+- Gemini
+- Ollama
 quality_score: 9
 rag_relevance: 10
-tags: ["autonomous research", "knowledge graph", "RAG pipeline", "multi-agent system", "PDF processing"]
-source: "https://github.com/harshd5382-droid/evomind-pdf-intelligence"
-discovered_at: "2026-06-24T18:49:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous research
+- knowledge graph
+- RAG pipeline
+- multi-agent system
+- PDF processing
+source: https://github.com/harshd5382-droid/evomind-pdf-intelligence
+discovered_at: '2026-06-24T18:49:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

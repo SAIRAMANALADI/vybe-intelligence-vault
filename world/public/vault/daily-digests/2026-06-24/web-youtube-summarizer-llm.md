@@ -1,13 +1,24 @@
 ---
-title: "redblac/web-youtube-summarizer-llm"
-category: "Tooling"
-tech_stack: ["Python", "LangChain", "Groq Llama", "PyTube", "BeautifulSoup", "Electron (implied by cross-platform desktop app)"]
+title: redblac/web-youtube-summarizer-llm
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- LangChain
+- Groq Llama
+- PyTube
+- BeautifulSoup
+- Electron (implied by cross-platform desktop app)
 quality_score: 5
 rag_relevance: 7
-tags: ["summarization", "content extraction", "YouTube processing", "web scraping", "LLM integration"]
-source: "https://github.com/redblac/web-youtube-summarizer-llm"
-discovered_at: "2026-06-24T18:54:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- summarization
+- content extraction
+- YouTube processing
+- web scraping
+- LLM integration
+source: https://github.com/redblac/web-youtube-summarizer-llm
+discovered_at: '2026-06-24T18:54:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

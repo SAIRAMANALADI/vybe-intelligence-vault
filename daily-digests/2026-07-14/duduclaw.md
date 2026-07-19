@@ -1,13 +1,30 @@
 ---
-title: "zhixuli0406/DuDuClaw"
-category: "Agent Framework"
-tech_stack: ["Rust", "TypeScript", "Python", "MCP (Model Context Protocol)", "SQLite", "React 19", "Node.js", "Docker", "llama.cpp", "mistral.rs", "Exo P2P", "Apache License 2.0"]
+title: zhixuli0406/DuDuClaw
+category: daily-digests/2026-07-14
+tech_stack:
+- Rust
+- TypeScript
+- Python
+- MCP (Model Context Protocol)
+- SQLite
+- React 19
+- Node.js
+- Docker
+- llama.cpp
+- mistral.rs
+- Exo P2P
+- Apache License 2.0
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Agent Orchestration", "Multi-Platform Communication", "Self-Hosted", "Multi-LLM Support", "MCP Integration"]
-source: "https://github.com/zhixuli0406/DuDuClaw"
-discovered_at: "2026-07-11T07:52:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent Orchestration
+- Multi-Platform Communication
+- Self-Hosted
+- Multi-LLM Support
+- MCP Integration
+source: https://github.com/zhixuli0406/DuDuClaw
+discovered_at: '2026-07-11T07:52:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

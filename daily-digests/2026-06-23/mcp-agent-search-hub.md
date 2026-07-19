@@ -1,13 +1,28 @@
 ---
-title: "Dan1el2109/mcp-agent-search-hub"
-category: "Orchestrator"
-tech_stack: ["Python", "TypeScript", "OpenAI API", "Claude API", "MCP (Model Context Protocol)", "AI Dev Jobs API", "Zod", "Pydantic", "aiohttp", "axios"]
+title: Dan1el2109/mcp-agent-search-hub
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- TypeScript
+- OpenAI API
+- Claude API
+- MCP (Model Context Protocol)
+- AI Dev Jobs API
+- Zod
+- Pydantic
+- aiohttp
+- axios
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP server discovery", "AI job matching", "autonomous agents", "multi-language support", "self-organizing networks"]
-source: "https://github.com/Dan1el2109/mcp-agent-search-hub"
-discovered_at: "2026-06-23T21:35:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server discovery
+- AI job matching
+- autonomous agents
+- multi-language support
+- self-organizing networks
+source: https://github.com/Dan1el2109/mcp-agent-search-hub
+discovered_at: '2026-06-23T21:35:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

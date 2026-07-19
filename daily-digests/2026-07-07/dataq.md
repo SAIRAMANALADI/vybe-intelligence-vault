@@ -1,13 +1,34 @@
 ---
-title: "TheurgicDuke771/DataQ"
-category: "Tooling"
-tech_stack: ["FastAPI", "Celery", "Great Expectations", "PostgreSQL", "Redis", "React", "Vite", "Ant Design", "OIDC (Azure AD)", "Azure Container Apps", "Azure Key Vault", "Application Insights", "Docker", "MkDocs Material", "SQLAlchemy", "Alembic"]
+title: TheurgicDuke771/DataQ
+category: daily-digests/2026-07-07
+tech_stack:
+- FastAPI
+- Celery
+- Great Expectations
+- PostgreSQL
+- Redis
+- React
+- Vite
+- Ant Design
+- OIDC (Azure AD)
+- Azure Container Apps
+- Azure Key Vault
+- Application Insights
+- Docker
+- MkDocs Material
+- SQLAlchemy
+- Alembic
 quality_score: 9
 rag_relevance: 8
-tags: ["data quality", "Great Expectations", "monitoring", "orchestration", "AI assistant integration"]
-source: "https://github.com/TheurgicDuke771/DataQ"
-discovered_at: "2026-07-07T20:51:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- data quality
+- Great Expectations
+- monitoring
+- orchestration
+- AI assistant integration
+source: https://github.com/TheurgicDuke771/DataQ
+discovered_at: '2026-07-07T20:51:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

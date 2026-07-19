@@ -1,13 +1,27 @@
 ---
-title: "vigot876-arch/base-agent-airdrop-mcp"
-category: "Orchestrator"
-tech_stack: ["Node.js", "TypeScript", "OpenAI API", "Anthropic Claude API", "Base Blockchain", "RESTful APIs", "WebSocket", "Docker", "PM2"]
+title: vigot876-arch/base-agent-airdrop-mcp
+category: daily-digests/2026-06-23
+tech_stack:
+- Node.js
+- TypeScript
+- OpenAI API
+- Anthropic Claude API
+- Base Blockchain
+- RESTful APIs
+- WebSocket
+- Docker
+- PM2
 quality_score: 7
 rag_relevance: 8
-tags: ["Agent Orchestration", "Blockchain Automation", "Multi-Agent Systems", "Decentralized AI", "Smart Contract Coordination"]
-source: "https://github.com/vigot876-arch/base-agent-airdrop-mcp"
-discovered_at: "2026-06-23T06:45:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agent Orchestration
+- Blockchain Automation
+- Multi-Agent Systems
+- Decentralized AI
+- Smart Contract Coordination
+source: https://github.com/vigot876-arch/base-agent-airdrop-mcp
+discovered_at: '2026-06-23T06:45:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

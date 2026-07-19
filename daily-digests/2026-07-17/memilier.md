@@ -1,13 +1,28 @@
 ---
-title: "hemilier001-afk/Memilier"
-category: "Agent Framework"
-tech_stack: ["Electron", "React", "TypeScript", "Ollama", "DeepSeek", "MiniMax", "OpenAI API", "Node.js", "Vitest", "KaTeX"]
+title: hemilier001-afk/Memilier
+category: daily-digests/2026-07-17
+tech_stack:
+- Electron
+- React
+- TypeScript
+- Ollama
+- DeepSeek
+- MiniMax
+- OpenAI API
+- Node.js
+- Vitest
+- KaTeX
 quality_score: 9
 rag_relevance: 7
-tags: ["desktop agent", "tool calling", "file operations", "multi-model support", "sandboxed execution"]
-source: "https://github.com/hemilier001-afk/Memilier"
-discovered_at: "2026-07-16T16:25:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- desktop agent
+- tool calling
+- file operations
+- multi-model support
+- sandboxed execution
+source: https://github.com/hemilier001-afk/Memilier
+discovered_at: '2026-07-16T16:25:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

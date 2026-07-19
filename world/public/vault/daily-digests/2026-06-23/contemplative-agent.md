@@ -1,13 +1,26 @@
 ---
-title: "shimo4228/contemplative-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Ollama", "Qwen3.5 9B", "NumPy", "Requests", "Markdown", "JSONL", "CLI"]
+title: shimo4228/contemplative-agent
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Ollama
+- Qwen3.5 9B
+- NumPy
+- Requests
+- Markdown
+- JSONL
+- CLI
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous agents", "knowledge distillation", "self-reflection", "local LLM", "human-in-the-loop"]
-source: "https://github.com/shimo4228/contemplative-agent"
-discovered_at: "2026-06-23T21:28:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- knowledge distillation
+- self-reflection
+- local LLM
+- human-in-the-loop
+source: https://github.com/shimo4228/contemplative-agent
+discovered_at: '2026-06-23T21:28:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

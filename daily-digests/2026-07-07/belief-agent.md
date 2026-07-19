@@ -1,13 +1,23 @@
 ---
-title: "pt9912/belief-agent"
-category: "Agent Framework"
-tech_stack: ["Kotlin", "Kotlin Multiplatform", "HexSlice Architecture", "Bayesian Inference", "Docker"]
+title: pt9912/belief-agent
+category: daily-digests/2026-07-07
+tech_stack:
+- Kotlin
+- Kotlin Multiplatform
+- HexSlice Architecture
+- Bayesian Inference
+- Docker
 quality_score: 8
 rag_relevance: 9
-tags: ["uncertainty modeling", "probabilistic reasoning", "confidence-gated decisions", "agent framework", "Bayesian updates"]
-source: "https://github.com/pt9912/belief-agent"
-discovered_at: "2026-07-07T16:25:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- uncertainty modeling
+- probabilistic reasoning
+- confidence-gated decisions
+- agent framework
+- Bayesian updates
+source: https://github.com/pt9912/belief-agent
+discovered_at: '2026-07-07T16:25:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

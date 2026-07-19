@@ -1,13 +1,28 @@
 ---
-title: "blksails/pi-web"
-category: "UI Component"
-tech_stack: ["TypeScript", "Next.js", "React", "shadcn/ui", "Vercel AI SDK", "Node.js", "SSE (Server-Sent Events)", "RPC (Remote Procedure Call)", "pnpm", "Playwright"]
+title: blksails/pi-web
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Next.js
+- React
+- shadcn/ui
+- Vercel AI SDK
+- Node.js
+- SSE (Server-Sent Events)
+- RPC (Remote Procedure Call)
+- pnpm
+- Playwright
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent UI", "streaming chat", "RPC protocol", "tool integration", "attachment handling"]
-source: "https://github.com/blksails/pi-web"
-discovered_at: "2026-06-25T11:38:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent UI
+- streaming chat
+- RPC protocol
+- tool integration
+- attachment handling
+source: https://github.com/blksails/pi-web
+discovered_at: '2026-06-25T11:38:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

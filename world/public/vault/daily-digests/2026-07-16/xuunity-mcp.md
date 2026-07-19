@@ -1,13 +1,24 @@
 ---
-title: "FoxsterDev/xuunity-mcp"
-category: "Orchestrator"
-tech_stack: ["Python", "Unity", "MCP (Model Context Protocol)", "C#", "Git UPM", "CLI Tools"]
+title: FoxsterDev/xuunity-mcp
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- Python
+- Unity
+- MCP (Model Context Protocol)
+- C#
+- Git UPM
+- CLI Tools
 quality_score: 9
 rag_relevance: 8
-tags: ["Unity automation", "MCP server", "AI-driven testing", "safe editor automation", "validation-first"]
-source: "https://github.com/FoxsterDev/xuunity-mcp"
-discovered_at: "2026-07-11T13:14:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Unity automation
+- MCP server
+- AI-driven testing
+- safe editor automation
+- validation-first
+source: https://github.com/FoxsterDev/xuunity-mcp
+discovered_at: '2026-07-11T13:14:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

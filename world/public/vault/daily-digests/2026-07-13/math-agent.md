@@ -1,13 +1,30 @@
 ---
-title: "Heliotrope-dev/math-agent"
-category: "Agent Framework"
-tech_stack: ["Python 3.11", "Streamlit", "SymPy", "DeepSeek API", "SiliconFlow Qwen3-VL", "SenseVoice", "ChromaDB", "BAAI/bge-m3", "Supabase", "Nginx", "Cloudflare CDN", "systemd"]
+title: Heliotrope-dev/math-agent
+category: world/public/vault/daily-digests/2026-07-13
+tech_stack:
+- Python 3.11
+- Streamlit
+- SymPy
+- DeepSeek API
+- SiliconFlow Qwen3-VL
+- SenseVoice
+- ChromaDB
+- BAAI/bge-m3
+- Supabase
+- Nginx
+- Cloudflare CDN
+- systemd
 quality_score: 9
 rag_relevance: 8
-tags: ["mathematics solver", "RAG", "multi-modal input", "symbolic computation", "educational AI"]
-source: "https://github.com/Heliotrope-dev/math-agent"
-discovered_at: "2026-07-11T02:27:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- mathematics solver
+- RAG
+- multi-modal input
+- symbolic computation
+- educational AI
+source: https://github.com/Heliotrope-dev/math-agent
+discovered_at: '2026-07-11T02:27:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

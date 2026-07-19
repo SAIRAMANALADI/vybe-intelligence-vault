@@ -1,13 +1,27 @@
 ---
-title: "gethelio/helio-openclaw"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "HTTP sideband communication", "OpenClaw plugin system", "Helio governance proxy", "Jest/Vitest (testing)", "ESLint (linting)", "Prettier (formatting)", "TSUP (bundling)"]
+title: gethelio/helio-openclaw
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- HTTP sideband communication
+- OpenClaw plugin system
+- Helio governance proxy
+- Jest/Vitest (testing)
+- ESLint (linting)
+- Prettier (formatting)
+- TSUP (bundling)
 quality_score: 8
 rag_relevance: 9
-tags: ["governance", "policy enforcement", "tool call auditing", "fail-closed security", "AI agent tooling"]
-source: "https://github.com/gethelio/helio-openclaw"
-discovered_at: "2026-07-08T17:24:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- governance
+- policy enforcement
+- tool call auditing
+- fail-closed security
+- AI agent tooling
+source: https://github.com/gethelio/helio-openclaw
+discovered_at: '2026-07-08T17:24:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "HarperZ9/index"
-category: "Tooling"
-tech_stack: ["Python", "Standard Library (3.11+)", "HTML/CSS", "JSON", "TOML", "Git", "LSP (Language Server Protocol)"]
+title: HarperZ9/index
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- Standard Library (3.11+)
+- HTML/CSS
+- JSON
+- TOML
+- Git
+- LSP (Language Server Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["workspace mapping", "dependency graph", "offline documentation", "architecture verification", "multi-repo analysis"]
-source: "https://github.com/HarperZ9/index"
-discovered_at: "2026-07-07T16:25:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- workspace mapping
+- dependency graph
+- offline documentation
+- architecture verification
+- multi-repo analysis
+source: https://github.com/HarperZ9/index
+discovered_at: '2026-07-07T16:25:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

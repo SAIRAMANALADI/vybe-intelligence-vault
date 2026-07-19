@@ -1,13 +1,22 @@
 ---
-title: "grijinha/solana-dapp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "CLI", "Solana SDK"]
+title: grijinha/solana-dapp
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- Solana SDK
 quality_score: 6
 rag_relevance: 4
-tags: ["Solana", "CLI", "Blockchain", "DApp", "Developer Tools"]
-source: "https://github.com/grijinha/solana-dapp"
-discovered_at: "2026-06-22T23:16:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Solana
+- CLI
+- Blockchain
+- DApp
+- Developer Tools
+source: https://github.com/grijinha/solana-dapp
+discovered_at: '2026-06-22T23:16:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

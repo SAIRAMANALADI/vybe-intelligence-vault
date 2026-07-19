@@ -1,13 +1,26 @@
 ---
-title: "XuMingKe-06/DocAgent"
-category: "Tooling"
-tech_stack: ["Tauri", "React", "Rust", "TypeScript", "OpenAI API", "Anthropic API", "Google Gemini API", "Ollama"]
+title: XuMingKe-06/DocAgent
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Tauri
+- React
+- Rust
+- TypeScript
+- OpenAI API
+- Anthropic API
+- Google Gemini API
+- Ollama
 quality_score: 8
 rag_relevance: 7
-tags: ["document processing", "AI chat interface", "local-first", "multi-model support", "version control"]
-source: "https://github.com/XuMingKe-06/DocAgent"
-discovered_at: "2026-07-08T17:25:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- document processing
+- AI chat interface
+- local-first
+- multi-model support
+- version control
+source: https://github.com/XuMingKe-06/DocAgent
+discovered_at: '2026-07-08T17:25:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

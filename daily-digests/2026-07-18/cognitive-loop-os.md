@@ -1,13 +1,26 @@
 ---
-title: "DTALEX66/Cognitive-Loop-OS"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "SQLite", "Uvicorn", "Pydantic", "Ruff", "Pytest", "Obsidian Integration"]
+title: DTALEX66/Cognitive-Loop-OS
+category: daily-digests/2026-07-18
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- Uvicorn
+- Pydantic
+- Ruff
+- Pytest
+- Obsidian Integration
 quality_score: 7
 rag_relevance: 9
-tags: ["cognitive runtime", "knowledge management", "evidence tracking", "local-first", "modular architecture"]
-source: "https://github.com/DTALEX66/Cognitive-Loop-OS"
-discovered_at: "2026-07-13T18:43:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- cognitive runtime
+- knowledge management
+- evidence tracking
+- local-first
+- modular architecture
+source: https://github.com/DTALEX66/Cognitive-Loop-OS
+discovered_at: '2026-07-13T18:43:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

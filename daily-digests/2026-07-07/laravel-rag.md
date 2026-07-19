@@ -1,13 +1,26 @@
 ---
-title: "cannedfoodssunbonnet729/laravel-rag"
-category: "Orchestrator"
-tech_stack: ["PHP", "Laravel", "PostgreSQL", "pgvector", "SQLite", "sqlite-vec", "Filament", "MCP Server"]
+title: cannedfoodssunbonnet729/laravel-rag
+category: daily-digests/2026-07-07
+tech_stack:
+- PHP
+- Laravel
+- PostgreSQL
+- pgvector
+- SQLite
+- sqlite-vec
+- Filament
+- MCP Server
 quality_score: 7
 rag_relevance: 9
-tags: ["RAG", "Vector Search", "Local AI", "Laravel", "Document Retrieval"]
-source: "https://github.com/cannedfoodssunbonnet729/laravel-rag"
-discovered_at: "2026-07-07T06:42:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RAG
+- Vector Search
+- Local AI
+- Laravel
+- Document Retrieval
+source: https://github.com/cannedfoodssunbonnet729/laravel-rag
+discovered_at: '2026-07-07T06:42:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

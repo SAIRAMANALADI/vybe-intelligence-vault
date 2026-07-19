@@ -1,13 +1,28 @@
 ---
-title: "ai4s-research/open-science"
-category: "Tooling"
-tech_stack: ["Tauri", "React", "TypeScript", "Rust", "Python", "Jupyter", "MCP (Model Context Protocol)", "OpenCode Runtime", "Node.js", "Vite"]
+title: ai4s-research/open-science
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Tauri
+- React
+- TypeScript
+- Rust
+- Python
+- Jupyter
+- MCP (Model Context Protocol)
+- OpenCode Runtime
+- Node.js
+- Vite
 quality_score: 9
 rag_relevance: 7
-tags: ["AI for Science", "Reproducible Research", "Local-First", "Agent Workbench", "Open Source"]
-source: "https://github.com/ai4s-research/open-science"
-discovered_at: "2026-07-07T13:16:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI for Science
+- Reproducible Research
+- Local-First
+- Agent Workbench
+- Open Source
+source: https://github.com/ai4s-research/open-science
+discovered_at: '2026-07-07T13:16:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

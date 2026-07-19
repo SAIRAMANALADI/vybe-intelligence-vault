@@ -1,13 +1,25 @@
 ---
-title: "huiyonghkw/hekouwang-stock-data-reader-skill"
-category: "Tooling"
-tech_stack: ["Python", "akshare", "Pandas", "Claude Code", "Node.js", "SVG", "akfamily/akshare"]
+title: huiyonghkw/hekouwang-stock-data-reader-skill
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- Python
+- akshare
+- Pandas
+- Claude Code
+- Node.js
+- SVG
+- akfamily/akshare
 quality_score: 8
 rag_relevance: 6
-tags: ["stock analysis", "financial data", "Claude Code Skill", "compliance-safe", "automated reporting"]
-source: "https://github.com/huiyonghkw/hekouwang-stock-data-reader-skill"
-discovered_at: "2026-07-15T14:48:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- stock analysis
+- financial data
+- Claude Code Skill
+- compliance-safe
+- automated reporting
+source: https://github.com/huiyonghkw/hekouwang-stock-data-reader-skill
+discovered_at: '2026-07-15T14:48:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

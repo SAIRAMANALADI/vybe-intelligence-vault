@@ -1,13 +1,22 @@
 ---
-title: "devart-ai-connectivity/devart-mcp-server-dynamics365"
-category: "Tooling"
-tech_stack: ["C#", "MCP (Model Context Protocol)", "ODBC Drivers", "Devart Connectivity"]
+title: devart-ai-connectivity/devart-mcp-server-dynamics365
+category: daily-digests/2026-06-23
+tech_stack:
+- C#
+- MCP (Model Context Protocol)
+- ODBC Drivers
+- Devart Connectivity
 quality_score: 7
 rag_relevance: 8
-tags: ["Dynamics 365", "MCP Server", "AI Data Access", "Self-hosted", "Natural Language Queries"]
-source: "https://github.com/devart-ai-connectivity/devart-mcp-server-dynamics365"
-discovered_at: "2026-06-23T10:41:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Dynamics 365
+- MCP Server
+- AI Data Access
+- Self-hosted
+- Natural Language Queries
+source: https://github.com/devart-ai-connectivity/devart-mcp-server-dynamics365
+discovered_at: '2026-06-23T10:41:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

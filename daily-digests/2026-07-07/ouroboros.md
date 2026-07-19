@@ -1,13 +1,25 @@
 ---
-title: "Q00/ouroboros"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "LLM Integration (Claude, Copilot, Codex, etc.)", "Textual (TUI framework)", "FastAPI", "SQLite", "Docker"]
+title: Q00/ouroboros
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- LLM Integration (Claude, Copilot, Codex, etc.)
+- Textual (TUI framework)
+- FastAPI
+- SQLite
+- Docker
 quality_score: 9
 rag_relevance: 9
-tags: ["Agent OS", "AI Workflow Automation", "Specification-First", "Reproducible AI", "Multi-Model Orchestration"]
-source: "https://github.com/Q00/ouroboros"
-discovered_at: "2026-07-07T16:25:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agent OS
+- AI Workflow Automation
+- Specification-First
+- Reproducible AI
+- Multi-Model Orchestration
+source: https://github.com/Q00/ouroboros
+discovered_at: '2026-07-07T16:25:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "gaoyu666/openco-ai-publications"
-category: "Tooling"
-tech_stack: ["Markdown", "RSS", "Web scraping (implied for metadata)", "Community documentation"]
+title: gaoyu666/openco-ai-publications
+category: daily-digests/2026-06-23
+tech_stack:
+- Markdown
+- RSS
+- Web scraping (implied for metadata)
+- Community documentation
 quality_score: 5
 rag_relevance: 6
-tags: ["community documentation", "entity disambiguation", "AI resources", "enterprise agents", "local AI hub"]
-source: "https://github.com/gaoyu666/openco-ai-publications"
-discovered_at: "2026-06-23T16:27:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- community documentation
+- entity disambiguation
+- AI resources
+- enterprise agents
+- local AI hub
+source: https://github.com/gaoyu666/openco-ai-publications
+discovered_at: '2026-06-23T16:27:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

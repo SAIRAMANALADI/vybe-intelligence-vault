@@ -1,13 +1,30 @@
 ---
-title: "Ikalus1988/MisakaNet"
-category: "Vector DB"
-tech_stack: ["Python", "Git", "BM25", "RRF (Reciprocal Rank Fusion)", "Markdown", "CLI", "PyPI", "npm", "CI/CD", "SQLite", "Docker", "MCP Server"]
+title: Ikalus1988/MisakaNet
+category: daily-digests/2026-07-10
+tech_stack:
+- Python
+- Git
+- BM25
+- RRF (Reciprocal Rank Fusion)
+- Markdown
+- CLI
+- PyPI
+- npm
+- CI/CD
+- SQLite
+- Docker
+- MCP Server
 quality_score: 9
 rag_relevance: 10
-tags: ["decentralized knowledge", "AI debugging", "lesson sharing", "BM25 retrieval", "agent collaboration"]
-source: "https://github.com/Ikalus1988/MisakaNet"
-discovered_at: "2026-07-10T02:26:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- decentralized knowledge
+- AI debugging
+- lesson sharing
+- BM25 retrieval
+- agent collaboration
+source: https://github.com/Ikalus1988/MisakaNet
+discovered_at: '2026-07-10T02:26:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

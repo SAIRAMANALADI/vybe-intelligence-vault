@@ -1,13 +1,21 @@
 ---
-title: "SALDAPAL/microclaw"
-category: "Tooling"
-tech_stack: ["Rust", "Chat Platforms", "Cross-Platform (Windows, macOS, Linux)"]
+title: SALDAPAL/microclaw
+category: daily-digests/2026-06-24
+tech_stack:
+- Rust
+- Chat Platforms
+- Cross-Platform (Windows, macOS, Linux)
 quality_score: 6
 rag_relevance: 4
-tags: ["AI assistant", "chat automation", "Rust-based", "cross-platform", "productivity tool"]
-source: "https://github.com/SALDAPAL/microclaw"
-discovered_at: "2026-06-24T16:16:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI assistant
+- chat automation
+- Rust-based
+- cross-platform
+- productivity tool
+source: https://github.com/SALDAPAL/microclaw
+discovered_at: '2026-06-24T16:16:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

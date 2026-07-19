@@ -1,13 +1,23 @@
 ---
-title: "Rumblingb/agentpay-sentinel-mcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "SHA-256", "JSON", "CLI/Config Integration"]
+title: Rumblingb/agentpay-sentinel-mcp
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- SHA-256
+- JSON
+- CLI/Config Integration
 quality_score: 9
 rag_relevance: 8
-tags: ["security", "payment validation", "agent safety", "MCP server", "pre-flight auditing"]
-source: "https://github.com/Rumblingb/agentpay-sentinel-mcp"
-discovered_at: "2026-07-13T06:15:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- security
+- payment validation
+- agent safety
+- MCP server
+- pre-flight auditing
+source: https://github.com/Rumblingb/agentpay-sentinel-mcp
+discovered_at: '2026-07-13T06:15:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

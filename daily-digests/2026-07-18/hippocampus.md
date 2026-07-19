@@ -1,13 +1,30 @@
 ---
-title: "karrolcia/hippocampus"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "SQLite", "SQLCipher", "Docker", "Caddy", "Cloudflare Tunnel", "Fly.io", "Embedding models (all-MiniLM-L6-v2)", "OAuth", "JWT"]
+title: karrolcia/hippocampus
+category: daily-digests/2026-07-18
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- SQLite
+- SQLCipher
+- Docker
+- Caddy
+- Cloudflare Tunnel
+- Fly.io
+- Embedding models (all-MiniLM-L6-v2)
+- OAuth
+- JWT
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP server", "memory persistence", "cross-platform AI", "knowledge graph", "semantic search"]
-source: "https://github.com/karrolcia/hippocampus"
-discovered_at: "2026-07-17T12:08:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- memory persistence
+- cross-platform AI
+- knowledge graph
+- semantic search
+source: https://github.com/karrolcia/hippocampus
+discovered_at: '2026-07-17T12:08:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

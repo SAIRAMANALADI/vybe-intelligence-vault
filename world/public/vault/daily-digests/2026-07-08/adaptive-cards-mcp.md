@@ -1,13 +1,22 @@
 ---
-title: "hinominomi/adaptive-cards-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Windows Desktop Applications", "Adaptive Cards JSON Schema"]
+title: hinominomi/adaptive-cards-mcp
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Windows Desktop Applications
+- Adaptive Cards JSON Schema
 quality_score: 7
 rag_relevance: 7
-tags: ["Adaptive Cards", "MCP Server", "AI Tooling", "UI Generation", "Microsoft Ecosystem"]
-source: "https://github.com/hinominomi/adaptive-cards-mcp"
-discovered_at: "2026-07-08T22:16:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Adaptive Cards
+- MCP Server
+- AI Tooling
+- UI Generation
+- Microsoft Ecosystem
+source: https://github.com/hinominomi/adaptive-cards-mcp
+discovered_at: '2026-07-08T22:16:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

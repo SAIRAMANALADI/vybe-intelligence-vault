@@ -1,13 +1,22 @@
 ---
-title: "SidiqHadi/daisyui-mcp"
-category: "UI Component"
-tech_stack: ["Python", "DaisyUI", "HTML/CSS", "JavaScript"]
+title: SidiqHadi/daisyui-mcp
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- DaisyUI
+- HTML/CSS
+- JavaScript
 quality_score: 5
 rag_relevance: 4
-tags: ["UI documentation", "local server", "DaisyUI", "offline access", "component explorer"]
-source: "https://github.com/SidiqHadi/daisyui-mcp"
-discovered_at: "2026-06-23T06:50:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- UI documentation
+- local server
+- DaisyUI
+- offline access
+- component explorer
+source: https://github.com/SidiqHadi/daisyui-mcp
+discovered_at: '2026-06-23T06:50:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

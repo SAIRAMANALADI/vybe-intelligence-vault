@@ -1,13 +1,27 @@
 ---
-title: "lukekwan/agent-payment-guard"
-category: "Orchestrator"
-tech_stack: ["Cloudflare Workers", "D1 Database", "JavaScript", "Python", "x402 Protocol", "REST API", "JSON Policy Evaluation", "BlockchainSecurity API", "EVM Intent Decoding"]
+title: lukekwan/agent-payment-guard
+category: daily-digests/2026-07-18
+tech_stack:
+- Cloudflare Workers
+- D1 Database
+- JavaScript
+- Python
+- x402 Protocol
+- REST API
+- JSON Policy Evaluation
+- BlockchainSecurity API
+- EVM Intent Decoding
 quality_score: 9
 rag_relevance: 10
-tags: ["pre-payment governance", "AI agent security", "risk assessment", "x402 protocol", "autonomous commerce"]
-source: "https://github.com/lukekwan/agent-payment-guard"
-discovered_at: "2026-07-15T16:20:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- pre-payment governance
+- AI agent security
+- risk assessment
+- x402 protocol
+- autonomous commerce
+source: https://github.com/lukekwan/agent-payment-guard
+discovered_at: '2026-07-15T16:20:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,33 @@
 ---
-title: "TaeSooPark-PTS/LatticeAI"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "React", "TypeScript", "Tauri", "SQLite", "PostgreSQL/pgvector", "Vite", "TanStack Query", "Zustand", "Cytoscape.js", "React Flow", "OpenAPI", "Ruff", "npm"]
+title: TaeSooPark-PTS/LatticeAI
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- FastAPI
+- React
+- TypeScript
+- Tauri
+- SQLite
+- PostgreSQL/pgvector
+- Vite
+- TanStack Query
+- Zustand
+- Cytoscape.js
+- React Flow
+- OpenAPI
+- Ruff
+- npm
 quality_score: 9
 rag_relevance: 8
-tags: ["local-first AI", "knowledge graph", "memory preservation", "model-agnostic", "private AI"]
-source: "https://github.com/TaeSooPark-PTS/LatticeAI"
-discovered_at: "2026-07-07T02:32:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first AI
+- knowledge graph
+- memory preservation
+- model-agnostic
+- private AI
+source: https://github.com/TaeSooPark-PTS/LatticeAI
+discovered_at: '2026-07-07T02:32:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

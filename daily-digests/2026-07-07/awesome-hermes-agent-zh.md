@@ -1,13 +1,22 @@
 ---
-title: "zcweah1981/awesome-hermes-agent-zh"
-category: "Tooling"
-tech_stack: ["Markdown", "GitHub Actions", "Python", "Web Development (HTML/CSS)"]
+title: zcweah1981/awesome-hermes-agent-zh
+category: daily-digests/2026-07-07
+tech_stack:
+- Markdown
+- GitHub Actions
+- Python
+- Web Development (HTML/CSS)
 quality_score: 8
 rag_relevance: 7
-tags: ["Hermes Agent", "\u4e2d\u6587\u6587\u6863", "AI Agent", "\u5b9e\u6218\u6307\u5357", "\u90e8\u7f72\u6307\u5357"]
-source: "https://github.com/zcweah1981/awesome-hermes-agent-zh"
-discovered_at: "2026-07-07T18:58:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Hermes Agent
+- 中文文档
+- AI Agent
+- 实战指南
+- 部署指南
+source: https://github.com/zcweah1981/awesome-hermes-agent-zh
+discovered_at: '2026-07-07T18:58:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

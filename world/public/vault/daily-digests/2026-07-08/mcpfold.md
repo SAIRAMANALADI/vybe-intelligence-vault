@@ -1,13 +1,28 @@
 ---
-title: "dj-pearson/MCPFold"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "React", "Deno", "Supabase", "Zod", "Vitest", "ESLint", "pnpm", "JSON Schema"]
+title: dj-pearson/MCPFold
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- Deno
+- Supabase
+- Zod
+- Vitest
+- ESLint
+- pnpm
+- JSON Schema
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "context-window optimization", "tool curation", "secret management", "multi-client config"]
-source: "https://github.com/dj-pearson/MCPFold"
-discovered_at: "2026-07-08T17:26:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- context-window optimization
+- tool curation
+- secret management
+- multi-client config
+source: https://github.com/dj-pearson/MCPFold
+discovered_at: '2026-07-08T17:26:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

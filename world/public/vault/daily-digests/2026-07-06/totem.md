@@ -1,13 +1,26 @@
 ---
-title: "mmnto-ai/totem"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Tree-sitter", "LanceDB", "pnpm", "MCP (Model Context Protocol)", "Git Hooks", "SARIF"]
+title: mmnto-ai/totem
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- Node.js
+- Tree-sitter
+- LanceDB
+- pnpm
+- MCP (Model Context Protocol)
+- Git Hooks
+- SARIF
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent tooling", "architectural enforcement", "deterministic linting", "knowledge indexing", "context durability"]
-source: "https://github.com/mmnto-ai/totem"
-discovered_at: "2026-07-06T23:04:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent tooling
+- architectural enforcement
+- deterministic linting
+- knowledge indexing
+- context durability
+source: https://github.com/mmnto-ai/totem
+discovered_at: '2026-07-06T23:04:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

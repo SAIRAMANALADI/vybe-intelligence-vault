@@ -1,13 +1,28 @@
 ---
-title: "RahulBiju-dev/AI-CLI-Agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Ollama", "Gemma 4", "ChromaDB", "FastAPI", "React", "TypeScript", "OpenAI-compatible function calling", "SSE (Server-Sent Events)", "OAuth (Google Calendar/Tasks)"]
+title: RahulBiju-dev/AI-CLI-Agent
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- Ollama
+- Gemma 4
+- ChromaDB
+- FastAPI
+- React
+- TypeScript
+- OpenAI-compatible function calling
+- SSE (Server-Sent Events)
+- OAuth (Google Calendar/Tasks)
 quality_score: 9
 rag_relevance: 10
-tags: ["local AI", "RAG", "tool-augmented agents", "privacy-first", "autonomous agents"]
-source: "https://github.com/RahulBiju-dev/AI-CLI-Agent"
-discovered_at: "2026-07-08T08:16:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local AI
+- RAG
+- tool-augmented agents
+- privacy-first
+- autonomous agents
+source: https://github.com/RahulBiju-dev/AI-CLI-Agent
+discovered_at: '2026-07-08T08:16:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

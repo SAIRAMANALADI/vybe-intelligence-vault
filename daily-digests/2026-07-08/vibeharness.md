@@ -1,13 +1,22 @@
 ---
-title: "pruthviraj00007/VibeHarness"
-category: "Agent Framework"
-tech_stack: ["Python", "Ollama", "Windows OS", "Local LLM (VibeThinker-3B)"]
+title: pruthviraj00007/VibeHarness
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- Ollama
+- Windows OS
+- Local LLM (VibeThinker-3B)
 quality_score: 7
 rag_relevance: 6
-tags: ["local AI", "offline processing", "privacy-focused", "agent framework", "Windows"]
-source: "https://github.com/pruthviraj00007/VibeHarness"
-discovered_at: "2026-07-08T05:46:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local AI
+- offline processing
+- privacy-focused
+- agent framework
+- Windows
+source: https://github.com/pruthviraj00007/VibeHarness
+discovered_at: '2026-07-08T05:46:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

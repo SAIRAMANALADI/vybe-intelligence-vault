@@ -1,13 +1,22 @@
 ---
-title: "titan77champion/webustler"
-category: "Tooling"
-tech_stack: ["Python", "Electron", "Cloudflare bypass techniques", "Markdown conversion"]
+title: titan77champion/webustler
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- Electron
+- Cloudflare bypass techniques
+- Markdown conversion
 quality_score: 7
 rag_relevance: 6
-tags: ["web scraping", "markdown extraction", "Cloudflare bypass", "MCP server", "desktop tool"]
-source: "https://github.com/titan77champion/webustler"
-discovered_at: "2026-06-25T00:13:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web scraping
+- markdown extraction
+- Cloudflare bypass
+- MCP server
+- desktop tool
+source: https://github.com/titan77champion/webustler
+discovered_at: '2026-06-25T00:13:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

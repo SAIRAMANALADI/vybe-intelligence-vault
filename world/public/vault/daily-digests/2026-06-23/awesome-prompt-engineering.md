@@ -1,13 +1,21 @@
 ---
-title: "hungf1511/awesome-prompt-engineering"
-category: "Tooling"
-tech_stack: ["Markdown", "GitHub Releases", "Community Contributions"]
+title: hungf1511/awesome-prompt-engineering
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Markdown
+- GitHub Releases
+- Community Contributions
 quality_score: 7
 rag_relevance: 8
-tags: ["prompt engineering", "LLM resources", "AI interaction", "curated guides", "community-driven"]
-source: "https://github.com/hungf1511/awesome-prompt-engineering"
-discovered_at: "2026-06-23T08:57:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- prompt engineering
+- LLM resources
+- AI interaction
+- curated guides
+- community-driven
+source: https://github.com/hungf1511/awesome-prompt-engineering
+discovered_at: '2026-06-23T08:57:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

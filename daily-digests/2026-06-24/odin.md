@@ -1,13 +1,32 @@
 ---
-title: "Calmingstorm/Odin"
-category: "Agent Framework"
-tech_stack: ["Python", "Discord API", "Playwright", "Docker", "Kubernetes", "Terraform", "SQLite (FTS5 + vector search)", "Vue 3", "Tailwind CSS", "aiohttp", "Pydantic", "Ollama", "OpenAI Codex", "Moonshot Kimi"]
+title: Calmingstorm/Odin
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Discord API
+- Playwright
+- Docker
+- Kubernetes
+- Terraform
+- SQLite (FTS5 + vector search)
+- Vue 3
+- Tailwind CSS
+- aiohttp
+- Pydantic
+- Ollama
+- OpenAI Codex
+- Moonshot Kimi
 quality_score: 9
 rag_relevance: 7
-tags: ["autonomous agents", "DevOps automation", "multi-tool orchestration", "Discord integration", "LLM execution"]
-source: "https://github.com/Calmingstorm/Odin"
-discovered_at: "2026-06-24T02:47:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- DevOps automation
+- multi-tool orchestration
+- Discord integration
+- LLM execution
+source: https://github.com/Calmingstorm/Odin
+discovered_at: '2026-06-24T02:47:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

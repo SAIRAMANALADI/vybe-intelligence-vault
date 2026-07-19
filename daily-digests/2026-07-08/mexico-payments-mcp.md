@@ -1,13 +1,23 @@
 ---
-title: "junter1989k-ai/mexico-payments-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "Mercado Pago API", "HTTP/JSON-RPC"]
+title: junter1989k-ai/mexico-payments-mcp
+category: daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- Mercado Pago API
+- HTTP/JSON-RPC
 quality_score: 8
 rag_relevance: 7
-tags: ["payments", "Mexico", "MCP server", "Mercado Pago", "AI agents"]
-source: "https://github.com/junter1989k-ai/mexico-payments-mcp"
-discovered_at: "2026-07-08T19:16:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- payments
+- Mexico
+- MCP server
+- Mercado Pago
+- AI agents
+source: https://github.com/junter1989k-ai/mexico-payments-mcp
+discovered_at: '2026-07-08T19:16:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

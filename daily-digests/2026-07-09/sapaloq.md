@@ -1,13 +1,26 @@
 ---
-title: "jahrulnr/sapaloq"
-category: "Orchestrator"
-tech_stack: ["Go", "Wails v2", "WebKitGTK", "systemd", "SQLite", "JSON", "IPC", "Linux desktop"]
+title: jahrulnr/sapaloq
+category: daily-digests/2026-07-09
+tech_stack:
+- Go
+- Wails v2
+- WebKitGTK
+- systemd
+- SQLite
+- JSON
+- IPC
+- Linux desktop
 quality_score: 9
 rag_relevance: 7
-tags: ["LLM orchestration", "desktop agent", "modular drivers", "IPC communication", "Linux HUD"]
-source: "https://github.com/jahrulnr/sapaloq"
-discovered_at: "2026-07-09T17:17:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LLM orchestration
+- desktop agent
+- modular drivers
+- IPC communication
+- Linux HUD
+source: https://github.com/jahrulnr/sapaloq
+discovered_at: '2026-07-09T17:17:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

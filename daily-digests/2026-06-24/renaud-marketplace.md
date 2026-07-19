@@ -1,13 +1,25 @@
 ---
-title: "BluegReeno/renaud-marketplace"
-category: "Tooling"
-tech_stack: ["Python", "TypeScript", "Deno", "Supabase Edge Functions", "Claude Code", "MCP (Model Context Protocol)", "GitHub Actions"]
+title: BluegReeno/renaud-marketplace
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- TypeScript
+- Deno
+- Supabase Edge Functions
+- Claude Code
+- MCP (Model Context Protocol)
+- GitHub Actions
 quality_score: 8
 rag_relevance: 7
-tags: ["Claude Code", "MCP Servers", "Job Search", "CV Generation", "Productivity Tools"]
-source: "https://github.com/BluegReeno/renaud-marketplace"
-discovered_at: "2026-06-24T20:44:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- MCP Servers
+- Job Search
+- CV Generation
+- Productivity Tools
+source: https://github.com/BluegReeno/renaud-marketplace
+discovered_at: '2026-06-24T20:44:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

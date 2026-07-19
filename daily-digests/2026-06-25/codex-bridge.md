@@ -1,13 +1,21 @@
 ---
-title: "tearubbernecker997/codex-bridge"
-category: "Tooling"
-tech_stack: ["JavaScript", "Electron", "Windows API"]
+title: tearubbernecker997/codex-bridge
+category: daily-digests/2026-06-25
+tech_stack:
+- JavaScript
+- Electron
+- Windows API
 quality_score: 7
 rag_relevance: 6
-tags: ["AI model management", "desktop gateway", "multi-model interface", "API key integration", "Windows application"]
-source: "https://github.com/tearubbernecker997/codex-bridge"
-discovered_at: "2026-06-25T08:31:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI model management
+- desktop gateway
+- multi-model interface
+- API key integration
+- Windows application
+source: https://github.com/tearubbernecker997/codex-bridge
+discovered_at: '2026-06-25T08:31:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

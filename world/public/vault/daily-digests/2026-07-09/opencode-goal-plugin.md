@@ -1,13 +1,23 @@
 ---
-title: "prevalentWare/opencode-goal-plugin"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "npm", "OpenCode Plugin System", "Bun"]
+title: prevalentWare/opencode-goal-plugin
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- npm
+- OpenCode Plugin System
+- Bun
 quality_score: 9
 rag_relevance: 7
-tags: ["goal-driven AI", "agent focus", "persistent objectives", "OpenCode plugin", "task automation"]
-source: "https://github.com/prevalentWare/opencode-goal-plugin"
-discovered_at: "2026-07-09T14:44:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- goal-driven AI
+- agent focus
+- persistent objectives
+- OpenCode plugin
+- task automation
+source: https://github.com/prevalentWare/opencode-goal-plugin
+discovered_at: '2026-07-09T14:44:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

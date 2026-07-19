@@ -1,13 +1,23 @@
 ---
-title: "CobaltSato/fde-atlas"
-category: "Orchestrator"
-tech_stack: ["Claude Code", "Bash", "Markdown", "Mermaid.js", "Shell Scripting"]
+title: CobaltSato/fde-atlas
+category: daily-digests/2026-07-18
+tech_stack:
+- Claude Code
+- Bash
+- Markdown
+- Mermaid.js
+- Shell Scripting
 quality_score: 8
 rag_relevance: 7
-tags: ["AI delegation", "document management", "workflow automation", "safety controls", "non-engineer friendly"]
-source: "https://github.com/CobaltSato/fde-atlas"
-discovered_at: "2026-07-11T09:27:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI delegation
+- document management
+- workflow automation
+- safety controls
+- non-engineer friendly
+source: https://github.com/CobaltSato/fde-atlas
+discovered_at: '2026-07-11T09:27:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

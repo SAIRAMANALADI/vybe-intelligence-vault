@@ -1,13 +1,40 @@
 ---
-title: "Sorcha-Platform/Sorcha"
-category: "Orchestrator"
-tech_stack: ["C#", ".NET 10", "ASP.NET Core", "PostgreSQL", "MongoDB", "Redis", "Docker", "gRPC", "SignalR", "YARP", "JWT", "OAuth2", "BIP32/39/44", "ED25519", "P-256", "RSA-4096", "ML-DSA", "ML-KEM", "SLH-DSA", "MCP Server", "Mermaid", "OpenAPI"]
+title: Sorcha-Platform/Sorcha
+category: daily-digests/2026-07-09
+tech_stack:
+- C#
+- .NET 10
+- ASP.NET Core
+- PostgreSQL
+- MongoDB
+- Redis
+- Docker
+- gRPC
+- SignalR
+- YARP
+- JWT
+- OAuth2
+- BIP32/39/44
+- ED25519
+- P-256
+- RSA-4096
+- ML-DSA
+- ML-KEM
+- SLH-DSA
+- MCP Server
+- Mermaid
+- OpenAPI
 quality_score: 9
 rag_relevance: 8
-tags: ["decentralized workflows", "cryptographic ledger", "multi-party data exchange", "selective disclosure", "AI integration"]
-source: "https://github.com/Sorcha-Platform/Sorcha"
-discovered_at: "2026-07-09T17:18:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- decentralized workflows
+- cryptographic ledger
+- multi-party data exchange
+- selective disclosure
+- AI integration
+source: https://github.com/Sorcha-Platform/Sorcha
+discovered_at: '2026-07-09T17:18:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

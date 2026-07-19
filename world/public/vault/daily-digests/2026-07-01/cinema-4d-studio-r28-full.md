@@ -1,13 +1,25 @@
 ---
-title: "AmberCardinalSupply/Cinema-4D-Studio-R28-Full"
-category: "Tooling"
-tech_stack: ["Cinema 4D", "Windows", "Keygen", "Patch", "Redshift", "MoGraph", "GPU Acceleration"]
+title: AmberCardinalSupply/Cinema-4D-Studio-R28-Full
+category: world/public/vault/daily-digests/2026-07-01
+tech_stack:
+- Cinema 4D
+- Windows
+- Keygen
+- Patch
+- Redshift
+- MoGraph
+- GPU Acceleration
 quality_score: 3
 rag_relevance: 1
-tags: ["3D Software", "Pre-Activated", "Offline Patch", "Keygen", "Visualization"]
-source: "https://github.com/AmberCardinalSupply/Cinema-4D-Studio-R28-Full"
-discovered_at: "2026-07-01T17:56:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- 3D Software
+- Pre-Activated
+- Offline Patch
+- Keygen
+- Visualization
+source: https://github.com/AmberCardinalSupply/Cinema-4D-Studio-R28-Full
+discovered_at: '2026-07-01T17:56:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

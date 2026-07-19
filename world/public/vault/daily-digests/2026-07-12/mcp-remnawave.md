@@ -1,13 +1,23 @@
 ---
-title: "moksharth77/mcp-remnawave"
-category: "Tooling"
-tech_stack: ["TypeScript", "Windows API", "Node.js (implied)", "Electron (implied)", "Remnawave MCP Protocol"]
+title: moksharth77/mcp-remnawave
+category: world/public/vault/daily-digests/2026-07-12
+tech_stack:
+- TypeScript
+- Windows API
+- Node.js (implied)
+- Electron (implied)
+- Remnawave MCP Protocol
 quality_score: 6
 rag_relevance: 4
-tags: ["MCP Server", "Hardware Management", "Windows Application", "Device Control", "Remnawave Integration"]
-source: "https://github.com/moksharth77/mcp-remnawave"
-discovered_at: "2026-07-12T15:58:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- Hardware Management
+- Windows Application
+- Device Control
+- Remnawave Integration
+source: https://github.com/moksharth77/mcp-remnawave
+discovered_at: '2026-07-12T15:58:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "mbtiongson1/gaia-skill-tree"
-category: "Tooling"
-tech_stack: ["Python", "JavaScript", "CLI", "MCP Server", "GitHub Actions", "Textual (TUI)", "npm", "Markdown", "JSON"]
+title: mbtiongson1/gaia-skill-tree
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- JavaScript
+- CLI
+- MCP Server
+- GitHub Actions
+- Textual (TUI)
+- npm
+- Markdown
+- JSON
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Agent Skills", "Skill Registry", "Evidence-Based Ranking", "Agent Capability Tracking", "Open Source"]
-source: "https://github.com/mbtiongson1/gaia-skill-tree"
-discovered_at: "2026-06-23T19:12:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent Skills
+- Skill Registry
+- Evidence-Based Ranking
+- Agent Capability Tracking
+- Open Source
+source: https://github.com/mbtiongson1/gaia-skill-tree
+discovered_at: '2026-06-23T19:12:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

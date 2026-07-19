@@ -1,13 +1,23 @@
 ---
-title: "galeliving46/SAMURAI"
-category: "Tooling"
-tech_stack: ["SAP ADT", "MCP", "ABAP", "AI Integration", "Remote Development"]
+title: galeliving46/SAMURAI
+category: daily-digests/2026-06-27
+tech_stack:
+- SAP ADT
+- MCP
+- ABAP
+- AI Integration
+- Remote Development
 quality_score: 4
 rag_relevance: 8
-tags: ["SAP integration", "ABAP development", "AI tooling", "MCP protocol", "remote development"]
-source: "https://github.com/galeliving46/SAMURAI"
-discovered_at: "2026-06-27T00:08:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- SAP integration
+- ABAP development
+- AI tooling
+- MCP protocol
+- remote development
+source: https://github.com/galeliving46/SAMURAI
+discovered_at: '2026-06-27T00:08:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

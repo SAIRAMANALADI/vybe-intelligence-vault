@@ -1,13 +1,30 @@
 ---
-title: "lvis-project/lvis-app"
-category: "Agent Framework"
-tech_stack: ["Electron", "React", "TypeScript", "Node.js", "Bun", "Python", "Webpack", "esbuild", "Tailwind CSS", "Vitest", "Playwright", "Storybook"]
+title: lvis-project/lvis-app
+category: daily-digests/2026-07-08
+tech_stack:
+- Electron
+- React
+- TypeScript
+- Node.js
+- Bun
+- Python
+- Webpack
+- esbuild
+- Tailwind CSS
+- Vitest
+- Playwright
+- Storybook
 quality_score: 9
 rag_relevance: 8
-tags: ["desktop agent", "plugin system", "local indexing", "RAG", "workflow automation"]
-source: "https://github.com/lvis-project/lvis-app"
-discovered_at: "2026-07-08T17:25:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- desktop agent
+- plugin system
+- local indexing
+- RAG
+- workflow automation
+source: https://github.com/lvis-project/lvis-app
+discovered_at: '2026-07-08T17:25:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

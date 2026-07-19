@@ -1,13 +1,28 @@
 ---
-title: "alazndy/R-AI-OS"
-category: "Orchestrator"
-tech_stack: ["Rust", "SQLite", "TCP/IP", "MCP (Model Context Protocol)", "BM25", "SHA-256", "TOML", "VS Code Extension", "WebSocket", "HTTP API"]
+title: alazndy/R-AI-OS
+category: daily-digests/2026-07-06
+tech_stack:
+- Rust
+- SQLite
+- TCP/IP
+- MCP (Model Context Protocol)
+- BM25
+- SHA-256
+- TOML
+- VS Code Extension
+- WebSocket
+- HTTP API
 quality_score: 9
 rag_relevance: 8
-tags: ["Agent Orchestration", "Security Kernel", "Policy Enforcement", "Audit Logging", "Swarm Management"]
-source: "https://github.com/alazndy/R-AI-OS"
-discovered_at: "2026-07-06T23:03:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agent Orchestration
+- Security Kernel
+- Policy Enforcement
+- Audit Logging
+- Swarm Management
+source: https://github.com/alazndy/R-AI-OS
+discovered_at: '2026-07-06T23:03:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

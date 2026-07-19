@@ -1,13 +1,25 @@
 ---
-title: "panguard-ai/panguard-ai"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "CLI", "Dashboard (Web UI)", "ATR (Agent Threat Rule) standard", "SARIF", "Sigma/YARA rule migration tools"]
+title: panguard-ai/panguard-ai
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- Dashboard (Web UI)
+- ATR (Agent Threat Rule) standard
+- SARIF
+- Sigma/YARA rule migration tools
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agent security", "runtime monitoring", "threat detection", "on-device privacy", "open standard"]
-source: "https://github.com/panguard-ai/panguard-ai"
-discovered_at: "2026-06-25T08:28:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent security
+- runtime monitoring
+- threat detection
+- on-device privacy
+- open standard
+source: https://github.com/panguard-ai/panguard-ai
+discovered_at: '2026-06-25T08:28:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

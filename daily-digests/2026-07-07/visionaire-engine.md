@@ -1,13 +1,24 @@
 ---
-title: "mi60dev/visionaire-engine"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Chrome DevTools Protocol", "MCP (Model Context Protocol)", "Docker", "Jest"]
+title: mi60dev/visionaire-engine
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- Chrome DevTools Protocol
+- MCP (Model Context Protocol)
+- Docker
+- Jest
 quality_score: 9
 rag_relevance: 10
-tags: ["CSS debugging", "AI frontend tools", "deterministic rendering", "MCP server", "visual verification"]
-source: "https://github.com/mi60dev/visionaire-engine"
-discovered_at: "2026-07-07T22:10:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CSS debugging
+- AI frontend tools
+- deterministic rendering
+- MCP server
+- visual verification
+source: https://github.com/mi60dev/visionaire-engine
+discovered_at: '2026-07-07T22:10:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

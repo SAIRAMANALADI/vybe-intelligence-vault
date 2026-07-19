@@ -1,13 +1,22 @@
 ---
-title: "Louishin/claude-api-cost-optimization"
-category: "Tooling"
-tech_stack: ["Python", "Claude API", "Batch Processing", "Prompt Caching"]
+title: Louishin/claude-api-cost-optimization
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- Claude API
+- Batch Processing
+- Prompt Caching
 quality_score: 6
 rag_relevance: 5
-tags: ["API cost optimization", "Claude API", "batch processing", "prompt caching", "cost efficiency"]
-source: "https://github.com/Louishin/claude-api-cost-optimization"
-discovered_at: "2026-07-09T00:06:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- API cost optimization
+- Claude API
+- batch processing
+- prompt caching
+- cost efficiency
+source: https://github.com/Louishin/claude-api-cost-optimization
+discovered_at: '2026-07-09T00:06:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

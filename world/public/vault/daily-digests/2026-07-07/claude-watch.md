@@ -1,13 +1,22 @@
 ---
-title: "mr-mrs-xx1/claude-watch"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "Windows Desktop", "Local File System"]
+title: mr-mrs-xx1/claude-watch
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Electron
+- Windows Desktop
+- Local File System
 quality_score: 6
 rag_relevance: 5
-tags: ["Claude Code", "Code Monitoring", "Real-Time Tracking", "Project Visualization", "Developer Tool"]
-source: "https://github.com/mr-mrs-xx1/claude-watch"
-discovered_at: "2026-07-07T23:55:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- Code Monitoring
+- Real-Time Tracking
+- Project Visualization
+- Developer Tool
+source: https://github.com/mr-mrs-xx1/claude-watch
+discovered_at: '2026-07-07T23:55:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

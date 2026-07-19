@@ -1,13 +1,26 @@
 ---
-title: "djagdalebing/joy-smart-inbox"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Google Gemini API", "Pydantic", "React", "Docker", "Render", "Pytest"]
+title: djagdalebing/joy-smart-inbox
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- Python
+- FastAPI
+- Google Gemini API
+- Pydantic
+- React
+- Docker
+- Render
+- Pytest
 quality_score: 9
 rag_relevance: 9
-tags: ["AI agent", "healthcare automation", "tool-using LLM", "governance", "guardrails"]
-source: "https://github.com/djagdalebing/joy-smart-inbox"
-discovered_at: "2026-07-12T17:03:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- healthcare automation
+- tool-using LLM
+- governance
+- guardrails
+source: https://github.com/djagdalebing/joy-smart-inbox
+discovered_at: '2026-07-12T17:03:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

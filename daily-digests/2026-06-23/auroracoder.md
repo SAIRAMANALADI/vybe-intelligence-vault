@@ -1,13 +1,30 @@
 ---
-title: "1001WillsStudio/AuroraCoder"
-category: "Agent Framework"
-tech_stack: ["Python 3.10+", "Node.js 18+", "Docker", "DeepSeek V4 Pro", "OpenAI Function Calling", "PyTorch", "vLLM", "CUDA", "React", "VNC", "SSE", "TypeScript"]
+title: 1001WillsStudio/AuroraCoder
+category: daily-digests/2026-06-23
+tech_stack:
+- Python 3.10+
+- Node.js 18+
+- Docker
+- DeepSeek V4 Pro
+- OpenAI Function Calling
+- PyTorch
+- vLLM
+- CUDA
+- React
+- VNC
+- SSE
+- TypeScript
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous agent", "code editing", "Docker sandbox", "GPU acceleration", "VNC desktop"]
-source: "https://github.com/1001WillsStudio/AuroraCoder"
-discovered_at: "2026-06-23T08:57:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agent
+- code editing
+- Docker sandbox
+- GPU acceleration
+- VNC desktop
+source: https://github.com/1001WillsStudio/AuroraCoder
+discovered_at: '2026-06-23T08:57:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "yingxiaoshuai/NexoAgent"
-category: "Agent Framework"
-tech_stack: ["Electron", "React", "TypeScript", "Express", "LangChain", "SQLite", "Vite", "Node.js", "Ant Design"]
+title: yingxiaoshuai/NexoAgent
+category: daily-digests/2026-06-24
+tech_stack:
+- Electron
+- React
+- TypeScript
+- Express
+- LangChain
+- SQLite
+- Vite
+- Node.js
+- Ant Design
 quality_score: 9
 rag_relevance: 7
-tags: ["AI Agent", "Local-first", "Multi-model", "Tool integration", "Memory system"]
-source: "https://github.com/yingxiaoshuai/NexoAgent"
-discovered_at: "2026-06-24T10:22:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent
+- Local-first
+- Multi-model
+- Tool integration
+- Memory system
+source: https://github.com/yingxiaoshuai/NexoAgent
+discovered_at: '2026-06-24T10:22:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

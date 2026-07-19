@@ -1,13 +1,24 @@
 ---
-title: "chuspeeism/dashi-ppt-skill"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "HTML/CSS", "PPTX Export Engine", "AI Agent Integration", "Chrome/Chromium for Export"]
+title: chuspeeism/dashi-ppt-skill
+category: daily-digests/2026-07-18
+tech_stack:
+- JavaScript
+- Node.js
+- HTML/CSS
+- PPTX Export Engine
+- AI Agent Integration
+- Chrome/Chromium for Export
 quality_score: 9
 rag_relevance: 7
-tags: ["PPT Generation", "AI Agent Skill", "Interactive Presentations", "Document to PPTX", "Visual Themes"]
-source: "https://github.com/chuspeeism/dashi-ppt-skill"
-discovered_at: "2026-07-14T05:29:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- PPT Generation
+- AI Agent Skill
+- Interactive Presentations
+- Document to PPTX
+- Visual Themes
+source: https://github.com/chuspeeism/dashi-ppt-skill
+discovered_at: '2026-07-14T05:29:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

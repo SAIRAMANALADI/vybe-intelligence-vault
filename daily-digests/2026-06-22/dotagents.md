@@ -1,13 +1,22 @@
 ---
-title: "den4ik4/dotagents"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron (implied by cross-platform desktop app)", "Node.js (implied by TypeScript and desktop app)", "Zip/Archive (for documentation and distribution)"]
+title: den4ik4/dotagents
+category: daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Electron (implied by cross-platform desktop app)
+- Node.js (implied by TypeScript and desktop app)
+- Zip/Archive (for documentation and distribution)
 quality_score: 4
 rag_relevance: 3
-tags: ["AI tool management", "centralized hooks", "desktop application", "resource organization", "cross-platform"]
-source: "https://github.com/den4ik4/dotagents"
-discovered_at: "2026-06-22T18:37:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI tool management
+- centralized hooks
+- desktop application
+- resource organization
+- cross-platform
+source: https://github.com/den4ik4/dotagents
+discovered_at: '2026-06-22T18:37:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

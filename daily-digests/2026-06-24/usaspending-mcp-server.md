@@ -1,13 +1,24 @@
 ---
-title: "Lancastrianlinealkalinuria181/usaspending-mcp-server"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "MCP SDK", "Node.js", "REST API", "Docker"]
+title: Lancastrianlinealkalinuria181/usaspending-mcp-server
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Bun
+- MCP SDK
+- Node.js
+- REST API
+- Docker
 quality_score: 7
 rag_relevance: 8
-tags: ["USAspending.gov", "federal spending", "MCP server", "data retrieval", "analytics"]
-source: "https://github.com/Lancastrianlinealkalinuria181/usaspending-mcp-server"
-discovered_at: "2026-06-24T22:15:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- USAspending.gov
+- federal spending
+- MCP server
+- data retrieval
+- analytics
+source: https://github.com/Lancastrianlinealkalinuria181/usaspending-mcp-server
+discovered_at: '2026-06-24T22:15:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

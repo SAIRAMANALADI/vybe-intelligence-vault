@@ -1,13 +1,26 @@
 ---
-title: "jmagar/unraid-mcp"
-category: "Tooling"
-tech_stack: ["Python", "GraphQL", "MCP (Model Context Protocol)", "Docker", "FastAPI", "WebSocket", "OAuth", "Unraid API"]
+title: jmagar/unraid-mcp
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- GraphQL
+- MCP (Model Context Protocol)
+- Docker
+- FastAPI
+- WebSocket
+- OAuth
+- Unraid API
 quality_score: 9
 rag_relevance: 8
-tags: ["Unraid", "MCP server", "GraphQL", "system monitoring", "automation"]
-source: "https://github.com/jmagar/unraid-mcp"
-discovered_at: "2026-07-08T21:02:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Unraid
+- MCP server
+- GraphQL
+- system monitoring
+- automation
+source: https://github.com/jmagar/unraid-mcp
+discovered_at: '2026-07-08T21:02:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,35 @@
 ---
-title: "phonghhd/EvoNet-AI-Core"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Pinecone", "Neo4j", "NVIDIA NIM", "Groq", "Cloudflare AI", "Ollama", "PPO (Reinforcement Learning)", "EPSS API", "Telegram Bot API", "Docker", "Prometheus", "Typer", "Rich", "APScheduler", "Gymnasium"]
+title: phonghhd/EvoNet-AI-Core
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Python
+- FastAPI
+- Pinecone
+- Neo4j
+- NVIDIA NIM
+- Groq
+- Cloudflare AI
+- Ollama
+- PPO (Reinforcement Learning)
+- EPSS API
+- Telegram Bot API
+- Docker
+- Prometheus
+- Typer
+- Rich
+- APScheduler
+- Gymnasium
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Security", "Autonomous Patching", "Knowledge Graph", "Reinforcement Learning", "CVE Analysis"]
-source: "https://github.com/phonghhd/EvoNet-AI-Core"
-discovered_at: "2026-07-10T06:52:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Security
+- Autonomous Patching
+- Knowledge Graph
+- Reinforcement Learning
+- CVE Analysis
+source: https://github.com/phonghhd/EvoNet-AI-Core
+discovered_at: '2026-07-10T06:52:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "timegamin/polymarket-ai-market-suggestor"
-category: "Tooling"
-tech_stack: ["Python", "LLM (Large Language Models)", "Command-Line Interface (CLI)", "Real-time data APIs", "Sentiment analysis tools"]
+title: timegamin/polymarket-ai-market-suggestor
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- LLM (Large Language Models)
+- Command-Line Interface (CLI)
+- Real-time data APIs
+- Sentiment analysis tools
 quality_score: 6
 rag_relevance: 7
-tags: ["prediction markets", "market analysis", "LLM-powered", "trading insights", "real-time data"]
-source: "https://github.com/timegamin/polymarket-ai-market-suggestor"
-discovered_at: "2026-06-22T23:23:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- prediction markets
+- market analysis
+- LLM-powered
+- trading insights
+- real-time data
+source: https://github.com/timegamin/polymarket-ai-market-suggestor
+discovered_at: '2026-06-22T23:23:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

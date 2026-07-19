@@ -1,13 +1,22 @@
 ---
-title: "Incorrect-limp303/get-shit-done"
-category: "Tooling"
-tech_stack: ["Windows Desktop App", "JavaScript", "Electron (implied)", "Markdown"]
+title: Incorrect-limp303/get-shit-done
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Windows Desktop App
+- JavaScript
+- Electron (implied)
+- Markdown
 quality_score: 6
 rag_relevance: 7
-tags: ["meta-prompting", "spec-driven development", "Claude Code", "context engineering", "task planning"]
-source: "https://github.com/Incorrect-limp303/get-shit-done"
-discovered_at: "2026-07-07T23:55:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- meta-prompting
+- spec-driven development
+- Claude Code
+- context engineering
+- task planning
+source: https://github.com/Incorrect-limp303/get-shit-done
+discovered_at: '2026-07-07T23:55:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

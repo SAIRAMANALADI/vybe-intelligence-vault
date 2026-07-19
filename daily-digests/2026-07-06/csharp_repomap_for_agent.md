@@ -1,13 +1,21 @@
 ---
-title: "FrxshSpamzL2/csharp_Repomap_for_Agent"
-category: "Tooling"
-tech_stack: ["C#", "Code Mapping", "AI Agents"]
+title: FrxshSpamzL2/csharp_Repomap_for_Agent
+category: daily-digests/2026-07-06
+tech_stack:
+- C#
+- Code Mapping
+- AI Agents
 quality_score: 3
 rag_relevance: 6
-tags: ["code mapping", "C# analysis", "AI agent enhancement", "context retention", "developer tools"]
-source: "https://github.com/FrxshSpamzL2/csharp_Repomap_for_Agent"
-discovered_at: "2026-07-06T21:25:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code mapping
+- C# analysis
+- AI agent enhancement
+- context retention
+- developer tools
+source: https://github.com/FrxshSpamzL2/csharp_Repomap_for_Agent
+discovered_at: '2026-07-06T21:25:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "Fan0tashi/Ai-Agent-Subtitle-Downloader"
-category: "Tooling"
-tech_stack: ["Python", "PyQt or Tkinter (for GUI)", "Subtitle databases (e.g., OpenSubtitles, SubDB)", "HTTP clients (e.g., requests)", "Operating System APIs"]
+title: Fan0tashi/Ai-Agent-Subtitle-Downloader
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- PyQt or Tkinter (for GUI)
+- Subtitle databases (e.g., OpenSubtitles, SubDB)
+- HTTP clients (e.g., requests)
+- Operating System APIs
 quality_score: 5
 rag_relevance: 4
-tags: ["subtitle-downloader", "media-automation", "agent-based", "multi-language", "TV-series"]
-source: "https://github.com/Fan0tashi/Ai-Agent-Subtitle-Downloader"
-discovered_at: "2026-06-24T16:18:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- subtitle-downloader
+- media-automation
+- agent-based
+- multi-language
+- TV-series
+source: https://github.com/Fan0tashi/Ai-Agent-Subtitle-Downloader
+discovered_at: '2026-06-24T16:18:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "aydenbarkle11-gif/claude-enterprise-skills"
-category: "Tooling"
-tech_stack: ["Windows", "Shell", "Python (implied)", "Automated Testing Frameworks"]
+title: aydenbarkle11-gif/claude-enterprise-skills
+category: daily-digests/2026-06-23
+tech_stack:
+- Windows
+- Shell
+- Python (implied)
+- Automated Testing Frameworks
 quality_score: 5
 rag_relevance: 4
-tags: ["automated testing", "enterprise development", "TDD", "adversarial testing", "quality assurance"]
-source: "https://github.com/aydenbarkle11-gif/claude-enterprise-skills"
-discovered_at: "2026-06-23T02:44:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- automated testing
+- enterprise development
+- TDD
+- adversarial testing
+- quality assurance
+source: https://github.com/aydenbarkle11-gif/claude-enterprise-skills
+discovered_at: '2026-06-23T02:44:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

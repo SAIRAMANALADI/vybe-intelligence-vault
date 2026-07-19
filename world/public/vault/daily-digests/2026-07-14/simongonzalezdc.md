@@ -1,13 +1,34 @@
 ---
-title: "simongonzalezdc/simongonzalezdc"
-category: "Tooling"
-tech_stack: ["Python", "TypeScript", "JavaScript", "Node.js", "Bash", "React", "Next.js", "Tailwind CSS", "FFmpeg", "Git", "GitHub Actions", "Docker", "Linux", "SQLite", "PostgreSQL", "Vercel"]
+title: simongonzalezdc/simongonzalezdc
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- Python
+- TypeScript
+- JavaScript
+- Node.js
+- Bash
+- React
+- Next.js
+- Tailwind CSS
+- FFmpeg
+- Git
+- GitHub Actions
+- Docker
+- Linux
+- SQLite
+- PostgreSQL
+- Vercel
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP servers", "AI workflows", "agent tools", "production-ready", "documentation"]
-source: "https://github.com/simongonzalezdc/simongonzalezdc"
-discovered_at: "2026-07-11T07:52:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP servers
+- AI workflows
+- agent tools
+- production-ready
+- documentation
+source: https://github.com/simongonzalezdc/simongonzalezdc
+discovered_at: '2026-07-11T07:52:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

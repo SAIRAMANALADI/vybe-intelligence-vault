@@ -1,13 +1,32 @@
 ---
-title: "dajiaohuang/SagaSmith-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "NanoBot", "SQLAlchemy", "Alembic", "ChromaDB", "BGE-M3", "d20", "SQLite", "PostgreSQL", "FastAPI", "Pydantic", "uvicorn", "Markdown", "PDF/HTML/DOCX parsers"]
+title: dajiaohuang/SagaSmith-agent
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- NanoBot
+- SQLAlchemy
+- Alembic
+- ChromaDB
+- BGE-M3
+- d20
+- SQLite
+- PostgreSQL
+- FastAPI
+- Pydantic
+- uvicorn
+- Markdown
+- PDF/HTML/DOCX parsers
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Dungeon Master", "D&D 5e", "RAG", "Multi-platform", "Autonomous NPC"]
-source: "https://github.com/dajiaohuang/SagaSmith-agent"
-discovered_at: "2026-06-23T21:30:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Dungeon Master
+- D&D 5e
+- RAG
+- Multi-platform
+- Autonomous NPC
+source: https://github.com/dajiaohuang/SagaSmith-agent
+discovered_at: '2026-06-23T21:30:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

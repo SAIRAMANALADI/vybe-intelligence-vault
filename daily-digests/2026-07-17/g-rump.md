@@ -1,13 +1,32 @@
 ---
-title: "Aphrodine-wq/G-Rump"
-category: "Agent Framework"
-tech_stack: ["Swift", "SwiftUI", "SwiftData", "SPM (Swift Package Manager)", "Xcode", "MCP (Model Context Protocol)", "SQLite", "Keychain", "SourceKit-LSP", "Docker", "OCR/vision", "Git", "HTTP", "Shell"]
+title: Aphrodine-wq/G-Rump
+category: daily-digests/2026-07-17
+tech_stack:
+- Swift
+- SwiftUI
+- SwiftData
+- SPM (Swift Package Manager)
+- Xcode
+- MCP (Model Context Protocol)
+- SQLite
+- Keychain
+- SourceKit-LSP
+- Docker
+- OCR/vision
+- Git
+- HTTP
+- Shell
 quality_score: 9
 rag_relevance: 8
-tags: ["macOS native", "agentic coding", "multi-provider", "cross-session memory", "safety-gated execution"]
-source: "https://github.com/Aphrodine-wq/G-Rump"
-discovered_at: "2026-07-16T16:25:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- macOS native
+- agentic coding
+- multi-provider
+- cross-session memory
+- safety-gated execution
+source: https://github.com/Aphrodine-wq/G-Rump
+discovered_at: '2026-07-16T16:25:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

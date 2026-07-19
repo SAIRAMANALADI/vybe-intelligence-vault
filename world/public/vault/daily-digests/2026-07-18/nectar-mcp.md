@@ -1,13 +1,23 @@
 ---
-title: "pinkpixel-dev/nectar-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Pollinations API", "npm"]
+title: pinkpixel-dev/nectar-mcp
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Pollinations API
+- npm
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "image generation", "video generation", "Pollinations API", "media tools"]
-source: "https://github.com/pinkpixel-dev/nectar-mcp"
-discovered_at: "2026-07-12T02:33:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- image generation
+- video generation
+- Pollinations API
+- media tools
+source: https://github.com/pinkpixel-dev/nectar-mcp
+discovered_at: '2026-07-12T02:33:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

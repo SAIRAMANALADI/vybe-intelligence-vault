@@ -1,13 +1,32 @@
 ---
-title: "Vaquill-AI/integrations"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "TypeScript", "JavaScript", "Docker", "Redis", "Next.js", "slack-bolt", "discord.py", "python-telegram-bot", "botbuilder", "n8n", "MCP (Model Context Protocol)", "Twilio API"]
+title: Vaquill-AI/integrations
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- FastAPI
+- TypeScript
+- JavaScript
+- Docker
+- Redis
+- Next.js
+- slack-bolt
+- discord.py
+- python-telegram-bot
+- botbuilder
+- n8n
+- MCP (Model Context Protocol)
+- Twilio API
 quality_score: 8
 rag_relevance: 7
-tags: ["legal AI", "chatbot integrations", "MCP servers", "multi-platform", "API connectors"]
-source: "https://github.com/Vaquill-AI/integrations"
-discovered_at: "2026-07-09T04:46:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- legal AI
+- chatbot integrations
+- MCP servers
+- multi-platform
+- API connectors
+source: https://github.com/Vaquill-AI/integrations
+discovered_at: '2026-07-09T04:46:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

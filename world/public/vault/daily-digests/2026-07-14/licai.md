@@ -1,13 +1,31 @@
 ---
-title: "SnowWarri0r/licai"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "SQLite", "React", "Vite", "Tailwind CSS", "PWA", "akshare", "Sina API", "EastMoney API", "Claude API", "Firecrawl", "Jina Reader"]
+title: SnowWarri0r/licai
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- React
+- Vite
+- Tailwind CSS
+- PWA
+- akshare
+- Sina API
+- EastMoney API
+- Claude API
+- Firecrawl
+- Jina Reader
 quality_score: 9
 rag_relevance: 7
-tags: ["personal finance", "AI-powered insights", "local data processing", "multi-asset dashboard", "market analysis"]
-source: "https://github.com/SnowWarri0r/licai"
-discovered_at: "2026-07-14T12:10:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personal finance
+- AI-powered insights
+- local data processing
+- multi-asset dashboard
+- market analysis
+source: https://github.com/SnowWarri0r/licai
+discovered_at: '2026-07-14T12:10:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

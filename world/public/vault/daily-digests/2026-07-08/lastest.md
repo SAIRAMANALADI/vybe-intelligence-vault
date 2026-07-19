@@ -1,13 +1,28 @@
 ---
-title: "las-team/lastest"
-category: "Tooling"
-tech_stack: ["TypeScript", "Playwright", "AI (Claude for test generation)", "Kubernetes (for embedded browser pods)", "Docker", "React", "Node.js", "SSIM", "Butteraugli", "pixelmatch"]
+title: las-team/lastest
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Playwright
+- AI (Claude for test generation)
+- Kubernetes (for embedded browser pods)
+- Docker
+- React
+- Node.js
+- SSIM
+- Butteraugli
+- pixelmatch
 quality_score: 9
 rag_relevance: 7
-tags: ["visual regression testing", "AI test generation", "self-hosted", "Playwright", "UI testing"]
-source: "https://github.com/las-team/lastest"
-discovered_at: "2026-07-08T17:26:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- visual regression testing
+- AI test generation
+- self-hosted
+- Playwright
+- UI testing
+source: https://github.com/las-team/lastest
+discovered_at: '2026-07-08T17:26:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "joinwell52-AI/CodeFlowMu-open"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Cursor SDK", "React", "Mermaid.js", "Git", "npm"]
+title: joinwell52-AI/CodeFlowMu-open
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- Cursor SDK
+- React
+- Mermaid.js
+- Git
+- npm
 quality_score: 8
 rag_relevance: 7
-tags: ["AI agent orchestration", "multi-agent collaboration", "local development", "task automation", "file-based workflow"]
-source: "https://github.com/joinwell52-AI/CodeFlowMu-open"
-discovered_at: "2026-07-07T13:15:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent orchestration
+- multi-agent collaboration
+- local development
+- task automation
+- file-based workflow
+source: https://github.com/joinwell52-AI/CodeFlowMu-open
+discovered_at: '2026-07-07T13:15:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

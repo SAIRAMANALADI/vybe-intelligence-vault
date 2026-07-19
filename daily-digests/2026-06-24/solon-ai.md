@@ -1,13 +1,27 @@
 ---
-title: "opensolon/solon-ai"
-category: "Agent Framework"
-tech_stack: ["Java", "LLM (Large Language Models)", "RAG (Retrieval-Augmented Generation)", "MCP (Model Context Protocol)", "Agent Frameworks (ReAct, Team)", "YAML", "SpringBoot", "Vert.X", "Quarkus"]
+title: opensolon/solon-ai
+category: daily-digests/2026-06-24
+tech_stack:
+- Java
+- LLM (Large Language Models)
+- RAG (Retrieval-Augmented Generation)
+- MCP (Model Context Protocol)
+- Agent Frameworks (ReAct, Team)
+- YAML
+- SpringBoot
+- Vert.X
+- Quarkus
 quality_score: 9
 rag_relevance: 9
-tags: ["Java AI framework", "RAG integration", "Agent orchestration", "MCP protocol", "Multi-model support"]
-source: "https://github.com/opensolon/solon-ai"
-discovered_at: "2026-06-24T02:48:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Java AI framework
+- RAG integration
+- Agent orchestration
+- MCP protocol
+- Multi-model support
+source: https://github.com/opensolon/solon-ai
+discovered_at: '2026-06-24T02:48:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

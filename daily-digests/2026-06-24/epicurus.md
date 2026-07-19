@@ -1,13 +1,29 @@
 ---
-title: "baakhoff/epicurus"
-category: "Agent Framework"
-tech_stack: ["Python", "Docker", "PostgreSQL", "Valkey", "NATS", "Qdrant", "OpenBao", "Ollama", "FastAPI", "TypeScript", "React"]
+title: baakhoff/epicurus
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Docker
+- PostgreSQL
+- Valkey
+- NATS
+- Qdrant
+- OpenBao
+- Ollama
+- FastAPI
+- TypeScript
+- React
 quality_score: 9
 rag_relevance: 8
-tags: ["self-hosted", "modular architecture", "local-first", "AI agent", "multi-module integration"]
-source: "https://github.com/baakhoff/epicurus"
-discovered_at: "2026-06-24T13:18:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-hosted
+- modular architecture
+- local-first
+- AI agent
+- multi-module integration
+source: https://github.com/baakhoff/epicurus
+discovered_at: '2026-06-24T13:18:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

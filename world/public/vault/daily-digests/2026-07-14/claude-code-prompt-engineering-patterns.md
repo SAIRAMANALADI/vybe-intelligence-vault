@@ -1,13 +1,22 @@
 ---
-title: "howar2113/claude-code-prompt-engineering-patterns"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code", "Windows", "Prompt Engineering"]
+title: howar2113/claude-code-prompt-engineering-patterns
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- Python
+- Claude Code
+- Windows
+- Prompt Engineering
 quality_score: 7
 rag_relevance: 8
-tags: ["prompt engineering", "Claude Code", "AI workflows", "system prompts", "local tool"]
-source: "https://github.com/howar2113/claude-code-prompt-engineering-patterns"
-discovered_at: "2026-07-10T20:21:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- prompt engineering
+- Claude Code
+- AI workflows
+- system prompts
+- local tool
+source: https://github.com/howar2113/claude-code-prompt-engineering-patterns
+discovered_at: '2026-07-10T20:21:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

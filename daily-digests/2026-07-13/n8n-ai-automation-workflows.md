@@ -1,13 +1,28 @@
 ---
-title: "ahmed-ali-codes/n8n-ai-automation-workflows"
-category: "Tooling"
-tech_stack: ["n8n", "Anthropic Claude", "OpenAI", "HeyGen", "Google Sheets API", "Google Maps API", "Twilio", "Meta Cloud API", "Docker", "YouTube API"]
+title: ahmed-ali-codes/n8n-ai-automation-workflows
+category: daily-digests/2026-07-13
+tech_stack:
+- n8n
+- Anthropic Claude
+- OpenAI
+- HeyGen
+- Google Sheets API
+- Google Maps API
+- Twilio
+- Meta Cloud API
+- Docker
+- YouTube API
 quality_score: 9
 rag_relevance: 7
-tags: ["automation", "n8n", "AI workflows", "lead generation", "customer service"]
-source: "https://github.com/ahmed-ali-codes/n8n-ai-automation-workflows"
-discovered_at: "2026-07-11T20:09:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- automation
+- n8n
+- AI workflows
+- lead generation
+- customer service
+source: https://github.com/ahmed-ali-codes/n8n-ai-automation-workflows
+discovered_at: '2026-07-11T20:09:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

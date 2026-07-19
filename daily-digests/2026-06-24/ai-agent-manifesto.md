@@ -1,13 +1,21 @@
 ---
-title: "Doc-Abdo/ai-agent-manifesto"
-category: "Tooling"
-tech_stack: ["HTML", "Documentation", "Guidelines"]
+title: Doc-Abdo/ai-agent-manifesto
+category: daily-digests/2026-06-24
+tech_stack:
+- HTML
+- Documentation
+- Guidelines
 quality_score: 5
 rag_relevance: 6
-tags: ["AI Agents", "Manifesto", "Production Systems", "Guidelines", "Trustworthy AI"]
-source: "https://github.com/Doc-Abdo/ai-agent-manifesto"
-discovered_at: "2026-06-24T18:50:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agents
+- Manifesto
+- Production Systems
+- Guidelines
+- Trustworthy AI
+source: https://github.com/Doc-Abdo/ai-agent-manifesto
+discovered_at: '2026-06-24T18:50:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

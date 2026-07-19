@@ -1,13 +1,30 @@
 ---
-title: "bulletinmybeard/agent-forge"
-category: "Agent Framework"
-tech_stack: ["Python", "Docker Compose", "Qdrant", "Redis", "FastAPI", "Ollama", "AWS Bedrock", "OpenAI-compatible APIs", "Ruff", "Pytest", "WebSocket", "SAQ (Simple Async Queue)"]
+title: bulletinmybeard/agent-forge
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Docker Compose
+- Qdrant
+- Redis
+- FastAPI
+- Ollama
+- AWS Bedrock
+- OpenAI-compatible APIs
+- Ruff
+- Pytest
+- WebSocket
+- SAQ (Simple Async Queue)
 quality_score: 9
 rag_relevance: 10
-tags: ["AI agents", "RAG", "self-hosted", "tool-calling", "multi-step pipelines"]
-source: "https://github.com/bulletinmybeard/agent-forge"
-discovered_at: "2026-06-24T13:18:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- RAG
+- self-hosted
+- tool-calling
+- multi-step pipelines
+source: https://github.com/bulletinmybeard/agent-forge
+discovered_at: '2026-06-24T13:18:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

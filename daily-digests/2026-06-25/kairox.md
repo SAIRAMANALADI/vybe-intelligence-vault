@@ -1,13 +1,29 @@
 ---
-title: "Z-Only/kairox"
-category: "Agent Framework"
-tech_stack: ["Rust", "Tauri", "Vue.js", "SQLite", "ratatui", "OpenAI API", "Anthropic API", "Ollama", "Model Context Protocol (MCP)", "Playwright", "TOML"]
+title: Z-Only/kairox
+category: daily-digests/2026-06-25
+tech_stack:
+- Rust
+- Tauri
+- Vue.js
+- SQLite
+- ratatui
+- OpenAI API
+- Anthropic API
+- Ollama
+- Model Context Protocol (MCP)
+- Playwright
+- TOML
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agents", "local-first", "multi-agent orchestration", "context management", "MCP integration"]
-source: "https://github.com/Z-Only/kairox"
-discovered_at: "2026-06-25T11:37:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- local-first
+- multi-agent orchestration
+- context management
+- MCP integration
+source: https://github.com/Z-Only/kairox
+discovered_at: '2026-06-25T11:37:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

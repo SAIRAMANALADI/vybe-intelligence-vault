@@ -1,13 +1,26 @@
 ---
-title: "Yuan-ManX/open-motion"
-category: "UI Component"
-tech_stack: ["TypeScript", "React", "HTML/CSS", "Web Animations API", "SVG", "Video Processing (MP4, GIF, WebM)", "Natural Language Processing (NLP)", "Agentic Frameworks (MCP)"]
+title: Yuan-ManX/open-motion
+category: daily-digests/2026-07-12
+tech_stack:
+- TypeScript
+- React
+- HTML/CSS
+- Web Animations API
+- SVG
+- Video Processing (MP4, GIF, WebM)
+- Natural Language Processing (NLP)
+- Agentic Frameworks (MCP)
 quality_score: 8
 rag_relevance: 7
-tags: ["animation", "AI-native design", "motion systems", "reusable skills", "web components"]
-source: "https://github.com/Yuan-ManX/open-motion"
-discovered_at: "2026-07-10T18:22:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- animation
+- AI-native design
+- motion systems
+- reusable skills
+- web components
+source: https://github.com/Yuan-ManX/open-motion
+discovered_at: '2026-07-10T18:22:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

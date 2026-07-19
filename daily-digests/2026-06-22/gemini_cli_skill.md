@@ -1,13 +1,21 @@
 ---
-title: "Junayedahmedd/gemini_cli_skill"
-category: "Tooling"
-tech_stack: ["Python", "Command Line Interface (CLI)", "Google Gemini API"]
+title: Junayedahmedd/gemini_cli_skill
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- Command Line Interface (CLI)
+- Google Gemini API
 quality_score: 5
 rag_relevance: 4
-tags: ["CLI", "Gemini", "AI Access", "Productivity", "Developer Tool"]
-source: "https://github.com/Junayedahmedd/gemini_cli_skill"
-discovered_at: "2026-06-22T23:22:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CLI
+- Gemini
+- AI Access
+- Productivity
+- Developer Tool
+source: https://github.com/Junayedahmedd/gemini_cli_skill
+discovered_at: '2026-06-22T23:22:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

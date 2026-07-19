@@ -1,13 +1,22 @@
 ---
-title: "selfish-hindustani263/ESP-MECCHA-HAMELEON"
-category: "Tooling"
-tech_stack: ["C++", "Windows API", ".NET Framework", "DirectX 11"]
+title: selfish-hindustani263/ESP-MECCHA-HAMELEON
+category: daily-digests/2026-07-07
+tech_stack:
+- C++
+- Windows API
+- .NET Framework
+- DirectX 11
 quality_score: 5
 rag_relevance: 2
-tags: ["gaming optimization", "ESP overlay", "performance tuning", "Windows utility", "modding support"]
-source: "https://github.com/selfish-hindustani263/ESP-MECCHA-HAMELEON"
-discovered_at: "2026-07-07T19:00:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- gaming optimization
+- ESP overlay
+- performance tuning
+- Windows utility
+- modding support
+source: https://github.com/selfish-hindustani263/ESP-MECCHA-HAMELEON
+discovered_at: '2026-07-07T19:00:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "yava-code/SteamMCP"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Steam Web API", "Docker", "pytest"]
+title: yava-code/SteamMCP
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Steam Web API
+- Docker
+- pytest
 quality_score: 8
 rag_relevance: 7
-tags: ["Steam API", "MCP server", "Game data", "Market analysis", "LLM integration"]
-source: "https://github.com/yava-code/SteamMCP"
-discovered_at: "2026-07-06T23:04:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Steam API
+- MCP server
+- Game data
+- Market analysis
+- LLM integration
+source: https://github.com/yava-code/SteamMCP
+discovered_at: '2026-07-06T23:04:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

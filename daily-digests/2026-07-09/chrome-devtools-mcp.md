@@ -1,13 +1,24 @@
 ---
-title: "ChromeDevTools/chrome-devtools-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Puppeteer", "Chrome DevTools Protocol", "Model Context Protocol (MCP)", "npm"]
+title: ChromeDevTools/chrome-devtools-mcp
+category: daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- Puppeteer
+- Chrome DevTools Protocol
+- Model Context Protocol (MCP)
+- npm
 quality_score: 9
 rag_relevance: 8
-tags: ["browser automation", "debugging", "performance analysis", "MCP server", "AI agent tools"]
-source: "https://github.com/ChromeDevTools/chrome-devtools-mcp"
-discovered_at: "2026-07-09T08:25:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- debugging
+- performance analysis
+- MCP server
+- AI agent tools
+source: https://github.com/ChromeDevTools/chrome-devtools-mcp
+discovered_at: '2026-07-09T08:25:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

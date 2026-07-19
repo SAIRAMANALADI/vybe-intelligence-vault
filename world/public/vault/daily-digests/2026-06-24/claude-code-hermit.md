@@ -1,13 +1,25 @@
 ---
-title: "gtapps/claude-code-hermit"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "Claude Code", "Docker", "Discord API", "Telegram API", "MCP (Model Context Protocol)"]
+title: gtapps/claude-code-hermit
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Bun
+- Claude Code
+- Docker
+- Discord API
+- Telegram API
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous agents", "Claude Code plugin", "always-on AI", "self-improving systems", "cost-efficient AI"]
-source: "https://github.com/gtapps/claude-code-hermit"
-discovered_at: "2026-06-24T13:15:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- Claude Code plugin
+- always-on AI
+- self-improving systems
+- cost-efficient AI
+source: https://github.com/gtapps/claude-code-hermit
+discovered_at: '2026-06-24T13:15:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

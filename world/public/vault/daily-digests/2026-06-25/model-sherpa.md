@@ -1,13 +1,24 @@
 ---
-title: "nordicnode/model-sherpa"
-category: "Agent Framework"
-tech_stack: ["Python", "Hermes Agent Framework", "JSON Schema", "Regex", "Atomic Transactions", "Threading"]
+title: nordicnode/model-sherpa
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- Hermes Agent Framework
+- JSON Schema
+- Regex
+- Atomic Transactions
+- Threading
 quality_score: 9
 rag_relevance: 8
-tags: ["LLM safety", "agent middleware", "loop detection", "context optimization", "privacy enforcement"]
-source: "https://github.com/nordicnode/model-sherpa"
-discovered_at: "2026-06-25T17:09:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LLM safety
+- agent middleware
+- loop detection
+- context optimization
+- privacy enforcement
+source: https://github.com/nordicnode/model-sherpa
+discovered_at: '2026-06-25T17:09:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

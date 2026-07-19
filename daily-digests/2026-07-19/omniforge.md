@@ -1,13 +1,25 @@
 ---
-title: "nexiouscaliver/OmniForge"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude Code", "GitLab API", "MCP (Model Context Protocol)", "Git Worktrees", "uv (Python package runner)", "glab CLI"]
+title: nexiouscaliver/OmniForge
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- Claude Code
+- GitLab API
+- MCP (Model Context Protocol)
+- Git Worktrees
+- uv (Python package runner)
+- glab CLI
 quality_score: 9
 rag_relevance: 8
-tags: ["AI-powered review", "multi-agent system", "GitLab automation", "merge request lifecycle", "Claude Code plugin"]
-source: "https://github.com/nexiouscaliver/OmniForge"
-discovered_at: "2026-07-11T21:47:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-powered review
+- multi-agent system
+- GitLab automation
+- merge request lifecycle
+- Claude Code plugin
+source: https://github.com/nexiouscaliver/OmniForge
+discovered_at: '2026-07-11T21:47:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

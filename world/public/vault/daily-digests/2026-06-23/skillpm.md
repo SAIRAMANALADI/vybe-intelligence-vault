@@ -1,13 +1,23 @@
 ---
-title: "musharrafsaroof-123/skillpm"
-category: "Tooling"
-tech_stack: ["TypeScript", "npm", "Node.js", "CLI", "MCP (Model Context Protocol)"]
+title: musharrafsaroof-123/skillpm
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- npm
+- Node.js
+- CLI
+- MCP (Model Context Protocol)
 quality_score: 7
 rag_relevance: 8
-tags: ["Agent Skills", "npm packages", "dependency management", "AI tooling", "modular skills"]
-source: "https://github.com/musharrafsaroof-123/skillpm"
-discovered_at: "2026-06-23T23:11:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agent Skills
+- npm packages
+- dependency management
+- AI tooling
+- modular skills
+source: https://github.com/musharrafsaroof-123/skillpm
+discovered_at: '2026-06-23T23:11:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

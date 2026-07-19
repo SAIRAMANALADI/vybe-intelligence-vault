@@ -1,13 +1,22 @@
 ---
-title: "saundershintoistic428/weixin-agent-sdk-rs"
-category: "Tooling"
-tech_stack: ["Rust", "Async Runtime", "WeChat iLink Protocol", "Windows"]
+title: saundershintoistic428/weixin-agent-sdk-rs
+category: daily-digests/2026-07-07
+tech_stack:
+- Rust
+- Async Runtime
+- WeChat iLink Protocol
+- Windows
 quality_score: 7
 rag_relevance: 5
-tags: ["WeChat Integration", "AI Agents", "Rust SDK", "Windows Bot", "Protocol Handling"]
-source: "https://github.com/saundershintoistic428/weixin-agent-sdk-rs"
-discovered_at: "2026-07-07T06:42:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- WeChat Integration
+- AI Agents
+- Rust SDK
+- Windows Bot
+- Protocol Handling
+source: https://github.com/saundershintoistic428/weixin-agent-sdk-rs
+discovered_at: '2026-07-07T06:42:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

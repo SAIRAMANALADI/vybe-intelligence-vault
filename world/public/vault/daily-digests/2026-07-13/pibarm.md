@@ -1,13 +1,27 @@
 ---
-title: "leemeichin/pibarm"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Pi Agent Framework", "Git", "Bun", "MCP (Model Context Protocol)", "WezTerm", "Obsidian", "GitHub CLI", "SourceHut"]
+title: leemeichin/pibarm
+category: world/public/vault/daily-digests/2026-07-13
+tech_stack:
+- TypeScript
+- Pi Agent Framework
+- Git
+- Bun
+- MCP (Model Context Protocol)
+- WezTerm
+- Obsidian
+- GitHub CLI
+- SourceHut
 quality_score: 8
 rag_relevance: 7
-tags: ["agent-safety", "workflow-automation", "git-worktrees", "subagents", "MCP-integration"]
-source: "https://github.com/leemeichin/pibarm"
-discovered_at: "2026-07-13T18:43:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent-safety
+- workflow-automation
+- git-worktrees
+- subagents
+- MCP-integration
+source: https://github.com/leemeichin/pibarm
+discovered_at: '2026-07-13T18:43:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

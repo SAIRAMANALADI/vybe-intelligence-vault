@@ -1,13 +1,33 @@
 ---
-title: "prasad-bigdp/EmployeeOS"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "React", "SQLite", "Drizzle ORM", "Fastify", "Turborepo", "pnpm", "Anthropic API", "OpenAI API", "Ollama", "Telegram Bot API", "Nodemailer", "Playwright", "MCP Server"]
+title: prasad-bigdp/EmployeeOS
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- SQLite
+- Drizzle ORM
+- Fastify
+- Turborepo
+- pnpm
+- Anthropic API
+- OpenAI API
+- Ollama
+- Telegram Bot API
+- Nodemailer
+- Playwright
+- MCP Server
 quality_score: 9
 rag_relevance: 7
-tags: ["AI automation", "business intelligence", "local-first", "multi-agent system", "self-hosted"]
-source: "https://github.com/prasad-bigdp/EmployeeOS"
-discovered_at: "2026-06-25T05:01:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI automation
+- business intelligence
+- local-first
+- multi-agent system
+- self-hosted
+source: https://github.com/prasad-bigdp/EmployeeOS
+discovered_at: '2026-06-25T05:01:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

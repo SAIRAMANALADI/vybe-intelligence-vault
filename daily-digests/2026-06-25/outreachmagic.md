@@ -1,13 +1,25 @@
 ---
-title: "outreachmagic/outreachmagic"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "Webhooks", "API Integration", "Claude Code", "Cursor", "Hermes Agent"]
+title: outreachmagic/outreachmagic
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- SQLite
+- Webhooks
+- API Integration
+- Claude Code
+- Cursor
+- Hermes Agent
 quality_score: 9
 rag_relevance: 8
-tags: ["pipeline synchronization", "GTM automation", "AI agent integration", "lead enrichment", "email verification"]
-source: "https://github.com/outreachmagic/outreachmagic"
-discovered_at: "2026-06-25T07:26:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- pipeline synchronization
+- GTM automation
+- AI agent integration
+- lead enrichment
+- email verification
+source: https://github.com/outreachmagic/outreachmagic
+discovered_at: '2026-06-25T07:26:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

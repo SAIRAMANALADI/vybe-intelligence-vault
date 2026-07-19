@@ -1,13 +1,25 @@
 ---
-title: "SKE-Labs/deepalpha-cli"
-category: "Agent Framework"
-tech_stack: ["Python", "LangChain", "LangGraph", "LangGraph BaseStore", "JWT", "Subprocess Execution", "REST API"]
+title: SKE-Labs/deepalpha-cli
+category: daily-digests/2026-07-16
+tech_stack:
+- Python
+- LangChain
+- LangGraph
+- LangGraph BaseStore
+- JWT
+- Subprocess Execution
+- REST API
 quality_score: 8
 rag_relevance: 7
-tags: ["Agent Orchestration", "Middleware", "LangChain Integration", "Memory Management", "Subagent Delegation"]
-source: "https://github.com/SKE-Labs/deepalpha-cli"
-discovered_at: "2026-07-11T09:27:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agent Orchestration
+- Middleware
+- LangChain Integration
+- Memory Management
+- Subagent Delegation
+source: https://github.com/SKE-Labs/deepalpha-cli
+discovered_at: '2026-07-11T09:27:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

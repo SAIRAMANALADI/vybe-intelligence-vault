@@ -1,13 +1,29 @@
 ---
-title: "Tianzeyui/brainPlus"
-category: "Agent Framework"
-tech_stack: ["Electron", "React 18", "TypeScript", "Vite", "Tailwind CSS", "shadcn/ui", "Vercel AI SDK", "Supabase", "Cloudinary", "esbuild", "MCP (Model Context Protocol)"]
+title: Tianzeyui/brainPlus
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Electron
+- React 18
+- TypeScript
+- Vite
+- Tailwind CSS
+- shadcn/ui
+- Vercel AI SDK
+- Supabase
+- Cloudinary
+- esbuild
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agents", "plugin system", "multi-model support", "sandbox execution", "MCP integration"]
-source: "https://github.com/Tianzeyui/brainPlus"
-discovered_at: "2026-06-23T10:37:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- plugin system
+- multi-model support
+- sandbox execution
+- MCP integration
+source: https://github.com/Tianzeyui/brainPlus
+discovered_at: '2026-06-23T10:37:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,21 @@
 ---
-title: "liquidbleachjourneying419/discli"
-category: "Tooling"
-tech_stack: ["Python", "Discord API", "CLI"]
+title: liquidbleachjourneying419/discli
+category: world/public/vault/daily-digests/2026-07-04
+tech_stack:
+- Python
+- Discord API
+- CLI
 quality_score: 3
 rag_relevance: 5
-tags: ["Discord management", "CLI tool", "server administration", "automation", "community tools"]
-source: "https://github.com/liquidbleachjourneying419/discli"
-discovered_at: "2026-07-04T13:12:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Discord management
+- CLI tool
+- server administration
+- automation
+- community tools
+source: https://github.com/liquidbleachjourneying419/discli
+discovered_at: '2026-07-04T13:12:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

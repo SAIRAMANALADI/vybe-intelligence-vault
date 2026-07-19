@@ -1,13 +1,28 @@
 ---
-title: "jungjaehoon-lifegamez/MAMA"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js (>=22)", "SQLite", "Embeddings (1024-dim)", "React (Viewer UI)", "CLI Subprocesses (Claude Code, Codex)", "MCP (Model Context Protocol)", "GraphQL", "JWT", "Docker (optional)"]
+title: jungjaehoon-lifegamez/MAMA
+category: daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js (>=22)
+- SQLite
+- Embeddings (1024-dim)
+- React (Viewer UI)
+- CLI Subprocesses (Claude Code, Codex)
+- MCP (Model Context Protocol)
+- GraphQL
+- JWT
+- Docker (optional)
 quality_score: 9
 rag_relevance: 9
-tags: ["local memory", "knowledge graph", "agent context", "evidence-based reasoning", "provenance tracking"]
-source: "https://github.com/jungjaehoon-lifegamez/MAMA"
-discovered_at: "2026-07-09T19:31:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local memory
+- knowledge graph
+- agent context
+- evidence-based reasoning
+- provenance tracking
+source: https://github.com/jungjaehoon-lifegamez/MAMA
+discovered_at: '2026-07-09T19:31:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

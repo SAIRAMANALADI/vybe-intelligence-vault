@@ -1,13 +1,24 @@
 ---
-title: "NovaLux12/agent-card"
-category: "Tooling"
-tech_stack: ["JSON", "JSON Schema", "Python", "GitHub Pages", "A2A Protocol", "reflectt agent-identity-kit"]
+title: NovaLux12/agent-card
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- JSON
+- JSON Schema
+- Python
+- GitHub Pages
+- A2A Protocol
+- reflectt agent-identity-kit
 quality_score: 8
 rag_relevance: 9
-tags: ["agent identity", "discovery protocol", "trust signaling", "A2A", "reflectt"]
-source: "https://github.com/NovaLux12/agent-card"
-discovered_at: "2026-06-23T23:07:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent identity
+- discovery protocol
+- trust signaling
+- A2A
+- reflectt
+source: https://github.com/NovaLux12/agent-card
+discovered_at: '2026-06-23T23:07:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

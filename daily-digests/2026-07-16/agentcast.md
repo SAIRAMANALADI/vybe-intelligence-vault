@@ -1,13 +1,25 @@
 ---
-title: "jmagar/agentcast"
-category: "Orchestrator"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "HTTP", "JSON-RPC", "CLI", "OAuth", "TOML"]
+title: jmagar/agentcast
+category: daily-digests/2026-07-16
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- HTTP
+- JSON-RPC
+- CLI
+- OAuth
+- TOML
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP gateway", "agent launcher", "tool normalization", "Rust workspace", "deterministic tool invocation"]
-source: "https://github.com/jmagar/agentcast"
-discovered_at: "2026-07-12T11:58:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP gateway
+- agent launcher
+- tool normalization
+- Rust workspace
+- deterministic tool invocation
+source: https://github.com/jmagar/agentcast
+discovered_at: '2026-07-12T11:58:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

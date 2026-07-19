@@ -1,13 +1,23 @@
 ---
-title: "boltmcp/boltmcp"
-category: "Tooling"
-tech_stack: ["Kubernetes", "Helm", "Shell", "Claude Code", "MCP (Model Context Protocol)"]
+title: boltmcp/boltmcp
+category: daily-digests/2026-06-24
+tech_stack:
+- Kubernetes
+- Helm
+- Shell
+- Claude Code
+- MCP (Model Context Protocol)
 quality_score: 7
 rag_relevance: 6
-tags: ["Kubernetes", "MCP", "AI integration", "Helm charts", "Claude Code"]
-source: "https://github.com/boltmcp/boltmcp"
-discovered_at: "2026-06-24T16:22:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Kubernetes
+- MCP
+- AI integration
+- Helm charts
+- Claude Code
+source: https://github.com/boltmcp/boltmcp
+discovered_at: '2026-06-24T16:22:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

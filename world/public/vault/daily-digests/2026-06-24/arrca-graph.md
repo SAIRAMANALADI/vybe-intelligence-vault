@@ -1,13 +1,25 @@
 ---
-title: "arrca-ai/arrca-graph"
-category: "Vector DB"
-tech_stack: ["Go", "Kubernetes API", "OpenTelemetry (OTLP)", "NATS", "Redis", "Protocol Buffers", "HTTP/REST"]
+title: arrca-ai/arrca-graph
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Go
+- Kubernetes API
+- OpenTelemetry (OTLP)
+- NATS
+- Redis
+- Protocol Buffers
+- HTTP/REST
 quality_score: 9
 rag_relevance: 8
-tags: ["Kubernetes observability", "Service graph", "OpenTelemetry integration", "Redis persistence", "Real-time topology"]
-source: "https://github.com/arrca-ai/arrca-graph"
-discovered_at: "2026-06-24T13:22:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Kubernetes observability
+- Service graph
+- OpenTelemetry integration
+- Redis persistence
+- Real-time topology
+source: https://github.com/arrca-ai/arrca-graph
+discovered_at: '2026-06-24T13:22:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

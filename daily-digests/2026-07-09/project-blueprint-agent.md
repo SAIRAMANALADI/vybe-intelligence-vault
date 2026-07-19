@@ -1,13 +1,23 @@
 ---
-title: "zzhqqa478850-lang/project-blueprint-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "AST (Abstract Syntax Tree) Parsing", "Static Code Analysis", "Command Line Interface (CLI)", "JSON/YAML Configuration"]
+title: zzhqqa478850-lang/project-blueprint-agent
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- AST (Abstract Syntax Tree) Parsing
+- Static Code Analysis
+- Command Line Interface (CLI)
+- JSON/YAML Configuration
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Agent Tooling", "Project Architecture Analysis", "Impact Analysis", "Context Management", "Architecture Guard"]
-source: "https://github.com/zzhqqa478850-lang/project-blueprint-agent"
-discovered_at: "2026-07-09T11:52:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent Tooling
+- Project Architecture Analysis
+- Impact Analysis
+- Context Management
+- Architecture Guard
+source: https://github.com/zzhqqa478850-lang/project-blueprint-agent
+discovered_at: '2026-07-09T11:52:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

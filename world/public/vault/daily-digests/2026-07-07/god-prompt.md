@@ -1,13 +1,21 @@
 ---
-title: "Heartbreaking-greenhouseeffect508/god-prompt"
-category: "Tooling"
-tech_stack: ["System Prompt", "Prompt Engineering", "AI Workflow Optimization"]
+title: Heartbreaking-greenhouseeffect508/god-prompt
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- System Prompt
+- Prompt Engineering
+- AI Workflow Optimization
 quality_score: 7
 rag_relevance: 8
-tags: ["prompt-engineering", "ai-coding-assistant", "quality-gates", "test-driven-development", "system-prompt"]
-source: "https://github.com/Heartbreaking-greenhouseeffect508/god-prompt"
-discovered_at: "2026-07-07T23:54:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- prompt-engineering
+- ai-coding-assistant
+- quality-gates
+- test-driven-development
+- system-prompt
+source: https://github.com/Heartbreaking-greenhouseeffect508/god-prompt
+discovered_at: '2026-07-07T23:54:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

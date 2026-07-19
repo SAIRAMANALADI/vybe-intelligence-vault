@@ -1,13 +1,30 @@
 ---
-title: "ramblinghermit0403/Memwyre"
-category: "Vector DB"
-tech_stack: ["FastAPI", "Vue 3", "Python", "Node.js", "PostgreSQL", "Pinecone", "ChromaDB", "Redis", "Celery", "Nginx", "Chrome Extension (Manifest V3)", "Model Context Protocol (MCP)"]
+title: ramblinghermit0403/Memwyre
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- FastAPI
+- Vue 3
+- Python
+- Node.js
+- PostgreSQL
+- Pinecone
+- ChromaDB
+- Redis
+- Celery
+- Nginx
+- Chrome Extension (Manifest V3)
+- Model Context Protocol (MCP)
 quality_score: 9
 rag_relevance: 10
-tags: ["persistent memory", "RAG optimization", "multi-agent integration", "context pruning", "knowledge retrieval"]
-source: "https://github.com/ramblinghermit0403/Memwyre"
-discovered_at: "2026-07-10T16:25:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- RAG optimization
+- multi-agent integration
+- context pruning
+- knowledge retrieval
+source: https://github.com/ramblinghermit0403/Memwyre
+discovered_at: '2026-07-10T16:25:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

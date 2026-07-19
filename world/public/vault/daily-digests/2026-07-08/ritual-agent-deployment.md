@@ -1,13 +1,25 @@
 ---
-title: "icehockeyplayermusiccritic501/ritual-agent-deployment"
-category: "Orchestrator"
-tech_stack: ["Solidity", "Foundry", "PowerShell", "Bash", "Ritual testnet", "TEE (Trusted Execution Environment)", "ZeroClaw CLI"]
+title: icehockeyplayermusiccritic501/ritual-agent-deployment
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Solidity
+- Foundry
+- PowerShell
+- Bash
+- Ritual testnet
+- TEE (Trusted Execution Environment)
+- ZeroClaw CLI
 quality_score: 8
 rag_relevance: 7
-tags: ["sovereign agents", "on-chain AI", "smart contract automation", "Ritual testnet", "self-funding agents"]
-source: "https://github.com/icehockeyplayermusiccritic501/ritual-agent-deployment"
-discovered_at: "2026-07-08T05:46:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- sovereign agents
+- on-chain AI
+- smart contract automation
+- Ritual testnet
+- self-funding agents
+source: https://github.com/icehockeyplayermusiccritic501/ritual-agent-deployment
+discovered_at: '2026-07-08T05:46:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

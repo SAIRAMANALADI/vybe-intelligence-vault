@@ -1,13 +1,26 @@
 ---
-title: "spirex-ds-dev/ai-cockpit-template"
-category: "Orchestrator"
-tech_stack: ["Python", "Git", "POSIX Shell", "YAML", "JSON", "CI/CD", "Makefile", "Markdown"]
+title: spirex-ds-dev/ai-cockpit-template
+category: daily-digests/2026-07-17
+tech_stack:
+- Python
+- Git
+- POSIX Shell
+- YAML
+- JSON
+- CI/CD
+- Makefile
+- Markdown
 quality_score: 9
 rag_relevance: 9
-tags: ["AI governance", "code review automation", "agentic coding", "evidence-based review", "LLMOps"]
-source: "https://github.com/spirex-ds-dev/ai-cockpit-template"
-discovered_at: "2026-07-16T12:22:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI governance
+- code review automation
+- agentic coding
+- evidence-based review
+- LLMOps
+source: https://github.com/spirex-ds-dev/ai-cockpit-template
+discovered_at: '2026-07-16T12:22:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

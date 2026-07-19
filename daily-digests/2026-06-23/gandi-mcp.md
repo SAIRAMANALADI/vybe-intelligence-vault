@@ -1,13 +1,27 @@
 ---
-title: "millsymills-com/gandi-mcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Gandi v5 API", "uv (package manager)", "ruff (linting)", "ty (type checking)", "pytest (testing)", "bandit (security scanning)", "pre-commit (hooks)"]
+title: millsymills-com/gandi-mcp
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Gandi v5 API
+- uv (package manager)
+- ruff (linting)
+- ty (type checking)
+- pytest (testing)
+- bandit (security scanning)
+- pre-commit (hooks)
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "Gandi API", "domain management", "DNS automation", "safety model"]
-source: "https://github.com/millsymills-com/gandi-mcp"
-discovered_at: "2026-06-23T23:08:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Gandi API
+- domain management
+- DNS automation
+- safety model
+source: https://github.com/millsymills-com/gandi-mcp
+discovered_at: '2026-06-23T23:08:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

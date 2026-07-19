@@ -1,13 +1,28 @@
 ---
-title: "fabio-rovai/open-ontologies"
-category: "Tooling"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "Oxigraph (RDF/OWL triple store)", "OWL2-DL", "SHACL", "SPARQL", "Tauri", "Node.js", "Fast Downward (PDDL planner)", "PyWhy (optional for causal inference)"]
+title: fabio-rovai/open-ontologies
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- Oxigraph (RDF/OWL triple store)
+- OWL2-DL
+- SHACL
+- SPARQL
+- Tauri
+- Node.js
+- Fast Downward (PDDL planner)
+- PyWhy (optional for causal inference)
 quality_score: 9
 rag_relevance: 10
-tags: ["ontology-engineering", "RDF/OWL", "knowledge-graphs", "MCP-server", "AI-native"]
-source: "https://github.com/fabio-rovai/open-ontologies"
-discovered_at: "2026-07-08T21:02:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- ontology-engineering
+- RDF/OWL
+- knowledge-graphs
+- MCP-server
+- AI-native
+source: https://github.com/fabio-rovai/open-ontologies
+discovered_at: '2026-07-08T21:02:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

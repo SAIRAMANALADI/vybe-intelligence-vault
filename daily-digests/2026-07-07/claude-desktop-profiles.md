@@ -1,13 +1,21 @@
 ---
-title: "delusionkedgeree109/claude-desktop-profiles"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "Windows API"]
+title: delusionkedgeree109/claude-desktop-profiles
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Electron
+- Windows API
 quality_score: 7
 rag_relevance: 4
-tags: ["Claude Desktop", "multi-account", "profile management", "Windows utility", "session isolation"]
-source: "https://github.com/delusionkedgeree109/claude-desktop-profiles"
-discovered_at: "2026-07-07T18:59:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Desktop
+- multi-account
+- profile management
+- Windows utility
+- session isolation
+source: https://github.com/delusionkedgeree109/claude-desktop-profiles
+discovered_at: '2026-07-07T18:59:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

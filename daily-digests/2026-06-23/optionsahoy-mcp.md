@@ -1,13 +1,26 @@
 ---
-title: "AlvisoOculus/optionsahoy-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "REST API", "Node.js", "Python", "Black-Scholes", "SLSA (Supply-chain Levels for Software Artifacts)", "GitHub Actions"]
+title: AlvisoOculus/optionsahoy-mcp
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- REST API
+- Node.js
+- Python
+- Black-Scholes
+- SLSA (Supply-chain Levels for Software Artifacts)
+- GitHub Actions
 quality_score: 10
 rag_relevance: 8
-tags: ["equity compensation", "tax optimization", "MCP server", "financial planning", "deterministic calculations"]
-source: "https://github.com/AlvisoOculus/optionsahoy-mcp"
-discovered_at: "2026-06-23T06:52:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- equity compensation
+- tax optimization
+- MCP server
+- financial planning
+- deterministic calculations
+source: https://github.com/AlvisoOculus/optionsahoy-mcp
+discovered_at: '2026-06-23T06:52:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

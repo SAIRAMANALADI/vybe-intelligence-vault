@@ -1,13 +1,28 @@
 ---
-title: "purpleshellsecurity/aws-triage-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "AWS Lambda", "Amazon Bedrock", "AWS GuardDuty", "Amazon EventBridge", "Amazon SQS", "AWS CloudTrail", "AWS IAM", "AWS SAM", "GitHub Actions"]
+title: purpleshellsecurity/aws-triage-agent
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- AWS Lambda
+- Amazon Bedrock
+- AWS GuardDuty
+- Amazon EventBridge
+- Amazon SQS
+- AWS CloudTrail
+- AWS IAM
+- AWS SAM
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-tags: ["AWS security", "GuardDuty triage", "read-only agent", "event-driven", "SIEM integration"]
-source: "https://github.com/purpleshellsecurity/aws-triage-agent"
-discovered_at: "2026-06-23T02:41:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AWS security
+- GuardDuty triage
+- read-only agent
+- event-driven
+- SIEM integration
+source: https://github.com/purpleshellsecurity/aws-triage-agent
+discovered_at: '2026-06-23T02:41:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

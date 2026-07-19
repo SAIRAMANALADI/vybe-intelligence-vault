@@ -1,13 +1,31 @@
 ---
-title: "BenardKemp/ai-meeting-assistant-vibe"
-category: "Agent Framework"
-tech_stack: ["FastAPI", "Python 3.12+", "PostgreSQL", "pgvector", "OpenAI GPT", "OpenAI Whisper", "React", "TypeScript", "Celery", "Redis", "Docker", "SQLAlchemy", "Alembic"]
+title: BenardKemp/ai-meeting-assistant-vibe
+category: daily-digests/2026-07-16
+tech_stack:
+- FastAPI
+- Python 3.12+
+- PostgreSQL
+- pgvector
+- OpenAI GPT
+- OpenAI Whisper
+- React
+- TypeScript
+- Celery
+- Redis
+- Docker
+- SQLAlchemy
+- Alembic
 quality_score: 9
 rag_relevance: 9
-tags: ["meeting assistant", "RAG", "transcription", "AI agent", "vibe coding"]
-source: "https://github.com/BenardKemp/ai-meeting-assistant-vibe"
-discovered_at: "2026-07-15T20:07:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- meeting assistant
+- RAG
+- transcription
+- AI agent
+- vibe coding
+source: https://github.com/BenardKemp/ai-meeting-assistant-vibe
+discovered_at: '2026-07-15T20:07:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

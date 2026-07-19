@@ -1,13 +1,23 @@
 ---
-title: "Lakshmi2655/MyClaw"
-category: "Tooling"
-tech_stack: ["Python", "Windows OS", "AI Server", "Automation Scripts", "Local Deployment"]
+title: Lakshmi2655/MyClaw
+category: daily-digests/2026-07-17
+tech_stack:
+- Python
+- Windows OS
+- AI Server
+- Automation Scripts
+- Local Deployment
 quality_score: 5
 rag_relevance: 4
-tags: ["local AI", "automation", "Windows tool", "AI server", "privacy-focused"]
-source: "https://github.com/Lakshmi2655/MyClaw"
-discovered_at: "2026-07-10T20:21:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local AI
+- automation
+- Windows tool
+- AI server
+- privacy-focused
+source: https://github.com/Lakshmi2655/MyClaw
+discovered_at: '2026-07-10T20:21:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

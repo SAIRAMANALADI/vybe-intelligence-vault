@@ -1,13 +1,25 @@
 ---
-title: "huangyuantao19920411/agent-harness-rs"
-category: "Agent Framework"
-tech_stack: ["Rust", "ReAct (Agent Loop)", "MCP (Model Context Protocol)", "Sandboxed Execution (Process, Wasm, MicroVM)", "Execution Tracing", "DeepSeek API", "OpenAI API"]
+title: huangyuantao19920411/agent-harness-rs
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Rust
+- ReAct (Agent Loop)
+- MCP (Model Context Protocol)
+- Sandboxed Execution (Process, Wasm, MicroVM)
+- Execution Tracing
+- DeepSeek API
+- OpenAI API
 quality_score: 8
 rag_relevance: 9
-tags: ["Agent Framework", "Rust", "Sandboxing", "MCP Integration", "Multi-Agent"]
-source: "https://github.com/huangyuantao19920411/agent-harness-rs"
-discovered_at: "2026-07-07T16:25:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agent Framework
+- Rust
+- Sandboxing
+- MCP Integration
+- Multi-Agent
+source: https://github.com/huangyuantao19920411/agent-harness-rs
+discovered_at: '2026-07-07T16:25:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

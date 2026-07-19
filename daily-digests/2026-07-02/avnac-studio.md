@@ -1,13 +1,21 @@
 ---
-title: "Standard-anthologist637/Avnac-Studio"
-category: "Tooling"
-tech_stack: ["Electron", "JavaScript/TypeScript", "Native Desktop Framework"]
+title: Standard-anthologist637/Avnac-Studio
+category: daily-digests/2026-07-02
+tech_stack:
+- Electron
+- JavaScript/TypeScript
+- Native Desktop Framework
 quality_score: 3
 rag_relevance: 4
-tags: ["design canvas", "graphics editor", "desktop app", "layout tool", "UI design"]
-source: "https://github.com/Standard-anthologist637/Avnac-Studio"
-discovered_at: "2026-07-02T15:13:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- design canvas
+- graphics editor
+- desktop app
+- layout tool
+- UI design
+source: https://github.com/Standard-anthologist637/Avnac-Studio
+discovered_at: '2026-07-02T15:13:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

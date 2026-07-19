@@ -1,13 +1,24 @@
 ---
-title: "Alices5723/n8n-telegram-voice-transcription-bot"
-category: "Tooling"
-tech_stack: ["n8n", "Telegram Bot API", "Groq API", "Whisper (speech-to-text)", "Llama (LLM for summarization)", "SMTP (for email delivery)"]
+title: Alices5723/n8n-telegram-voice-transcription-bot
+category: daily-digests/2026-06-24
+tech_stack:
+- n8n
+- Telegram Bot API
+- Groq API
+- Whisper (speech-to-text)
+- Llama (LLM for summarization)
+- SMTP (for email delivery)
 quality_score: 6
 rag_relevance: 7
-tags: ["voice transcription", "automation", "Telegram bot", "n8n workflow", "Groq integration"]
-source: "https://github.com/Alices5723/n8n-telegram-voice-transcription-bot"
-discovered_at: "2026-06-24T06:43:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- voice transcription
+- automation
+- Telegram bot
+- n8n workflow
+- Groq integration
+source: https://github.com/Alices5723/n8n-telegram-voice-transcription-bot
+discovered_at: '2026-06-24T06:43:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

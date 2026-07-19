@@ -1,13 +1,28 @@
 ---
-title: "BinaryBananaLLC/WhipDesk"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "WebRTC", "H.264 Video Encoding", "WebSockets", "Firebase Auth", "Cloudflare Workers", "Vite", "Electron (implied for packaging)", "FFmpeg"]
+title: BinaryBananaLLC/WhipDesk
+category: daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Node.js
+- WebRTC
+- H.264 Video Encoding
+- WebSockets
+- Firebase Auth
+- Cloudflare Workers
+- Vite
+- Electron (implied for packaging)
+- FFmpeg
 quality_score: 9
 rag_relevance: 7
-tags: ["remote desktop", "AI agent control", "mobile browser", "peer-to-peer", "screen sharing"]
-source: "https://github.com/BinaryBananaLLC/WhipDesk"
-discovered_at: "2026-07-10T06:52:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- remote desktop
+- AI agent control
+- mobile browser
+- peer-to-peer
+- screen sharing
+source: https://github.com/BinaryBananaLLC/WhipDesk
+discovered_at: '2026-07-10T06:52:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

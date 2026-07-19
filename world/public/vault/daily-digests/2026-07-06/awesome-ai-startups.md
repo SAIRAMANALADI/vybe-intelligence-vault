@@ -1,13 +1,23 @@
 ---
-title: "Lacemakingatmometer593/awesome-ai-startups"
-category: "Tooling"
-tech_stack: ["Windows", "Electron (inferred from .exe distribution)", "JavaScript/TypeScript (inferred from Electron)", "Markdown (for README)", "GitHub Actions (for updates)"]
+title: Lacemakingatmometer593/awesome-ai-startups
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- Windows
+- Electron (inferred from .exe distribution)
+- JavaScript/TypeScript (inferred from Electron)
+- Markdown (for README)
+- GitHub Actions (for updates)
 quality_score: 6
 rag_relevance: 4
-tags: ["AI startups", "curated directory", "marketing tools", "SEO software", "independent creators"]
-source: "https://github.com/Lacemakingatmometer593/awesome-ai-startups"
-discovered_at: "2026-07-06T19:48:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI startups
+- curated directory
+- marketing tools
+- SEO software
+- independent creators
+source: https://github.com/Lacemakingatmometer593/awesome-ai-startups
+discovered_at: '2026-07-06T19:48:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

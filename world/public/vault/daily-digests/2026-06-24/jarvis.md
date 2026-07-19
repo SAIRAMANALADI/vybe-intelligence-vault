@@ -1,13 +1,29 @@
 ---
-title: "arhancodes/jarvis"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Rust", "Node.js", "Claude API", "Playwright", "SFSpeechRecognizer", "Edge TTS", "ElevenLabs", "WebSocket", "HomeKit", "Spotify API"]
+title: arhancodes/jarvis
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Rust
+- Node.js
+- Claude API
+- Playwright
+- SFSpeechRecognizer
+- Edge TTS
+- ElevenLabs
+- WebSocket
+- HomeKit
+- Spotify API
 quality_score: 9
 rag_relevance: 7
-tags: ["AI assistant", "macOS automation", "voice control", "screen awareness", "multi-agent"]
-source: "https://github.com/arhancodes/jarvis"
-discovered_at: "2026-06-24T10:21:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI assistant
+- macOS automation
+- voice control
+- screen awareness
+- multi-agent
+source: https://github.com/arhancodes/jarvis
+discovered_at: '2026-06-24T10:21:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

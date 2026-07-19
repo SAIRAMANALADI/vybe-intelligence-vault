@@ -1,13 +1,23 @@
 ---
-title: "devoidfury/hotdog"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Bun Runtime", "OpenAI API", "Model Context Protocol (MCP)", "JSON/YAML Configuration"]
+title: devoidfury/hotdog
+category: daily-digests/2026-07-10
+tech_stack:
+- JavaScript
+- Bun Runtime
+- OpenAI API
+- Model Context Protocol (MCP)
+- JSON/YAML Configuration
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agents", "tool calling", "LLM integration", "zero dependencies", "extensible"]
-source: "https://github.com/devoidfury/hotdog"
-discovered_at: "2026-07-10T06:52:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- tool calling
+- LLM integration
+- zero dependencies
+- extensible
+source: https://github.com/devoidfury/hotdog
+discovered_at: '2026-07-10T06:52:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

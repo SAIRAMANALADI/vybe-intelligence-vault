@@ -1,13 +1,22 @@
 ---
-title: "rubysthedog/dotagents"
-category: "Tooling"
-tech_stack: ["Python", "Electron", "JavaScript", "MIT License"]
+title: rubysthedog/dotagents
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Electron
+- JavaScript
+- MIT License
 quality_score: 5
 rag_relevance: 7
-tags: ["agent management", "context organization", "RAG optimization", "token efficiency", "developer tools"]
-source: "https://github.com/rubysthedog/dotagents"
-discovered_at: "2026-06-24T16:19:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent management
+- context organization
+- RAG optimization
+- token efficiency
+- developer tools
+source: https://github.com/rubysthedog/dotagents
+discovered_at: '2026-06-24T16:19:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

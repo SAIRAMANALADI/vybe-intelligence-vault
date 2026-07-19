@@ -1,13 +1,29 @@
 ---
-title: "systempromptio/systemprompt-core"
-category: "Orchestrator"
-tech_stack: ["Rust", "PostgreSQL", "A2A Protocol", "Model Context Protocol (MCP)", "OAuth2/OIDC", "HTTP", "SSE (Server-Sent Events)", "JWT (RS256)", "WebAuthn", "Rate Limiting", "Audit Logging"]
+title: systempromptio/systemprompt-core
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Rust
+- PostgreSQL
+- A2A Protocol
+- Model Context Protocol (MCP)
+- OAuth2/OIDC
+- HTTP
+- SSE (Server-Sent Events)
+- JWT (RS256)
+- WebAuthn
+- Rate Limiting
+- Audit Logging
 quality_score: 9
 rag_relevance: 8
-tags: ["AI governance", "agent orchestration", "MCP servers", "self-hosted", "security"]
-source: "https://github.com/systempromptio/systemprompt-core"
-discovered_at: "2026-06-25T11:41:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI governance
+- agent orchestration
+- MCP servers
+- self-hosted
+- security
+source: https://github.com/systempromptio/systemprompt-core
+discovered_at: '2026-06-25T11:41:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

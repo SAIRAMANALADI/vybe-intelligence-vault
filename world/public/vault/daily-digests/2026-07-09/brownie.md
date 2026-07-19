@@ -1,13 +1,27 @@
 ---
-title: "brownie-labs/brownie"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Claude Code", "SQLite", "FTS5", "Ink (TUI framework)", "React", "MCP (Model Context Protocol)", "NDJSON"]
+title: brownie-labs/brownie
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- Claude Code
+- SQLite
+- FTS5
+- Ink (TUI framework)
+- React
+- MCP (Model Context Protocol)
+- NDJSON
 quality_score: 9
 rag_relevance: 7
-tags: ["autonomous agents", "task automation", "long-term memory", "Claude Code", "TUI"]
-source: "https://github.com/brownie-labs/brownie"
-discovered_at: "2026-07-09T19:29:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- task automation
+- long-term memory
+- Claude Code
+- TUI
+source: https://github.com/brownie-labs/brownie
+discovered_at: '2026-07-09T19:29:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

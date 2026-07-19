@@ -1,13 +1,27 @@
 ---
-title: "hara-cli/hara"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Ink (TUI framework)", "Anthropic API", "OpenAI-compatible endpoints", "Docker", "OCR/Describer models", "MCP (Model Context Protocol)", "Semantic search (optional)"]
+title: hara-cli/hara
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Node.js
+- Ink (TUI framework)
+- Anthropic API
+- OpenAI-compatible endpoints
+- Docker
+- OCR/Describer models
+- MCP (Model Context Protocol)
+- Semantic search (optional)
 quality_score: 9
 rag_relevance: 8
-tags: ["coding agent", "multi-agent system", "task decomposition", "chat integration", "memory persistence"]
-source: "https://github.com/hara-cli/hara"
-discovered_at: "2026-07-10T06:52:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- coding agent
+- multi-agent system
+- task decomposition
+- chat integration
+- memory persistence
+source: https://github.com/hara-cli/hara
+discovered_at: '2026-07-10T06:52:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

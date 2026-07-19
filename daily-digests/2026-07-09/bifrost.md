@@ -1,13 +1,25 @@
 ---
-title: "BrokkAi/bifrost"
-category: "Tooling"
-tech_stack: ["Rust", "Multi-language static analysis", "MCP", "LSP", "Python", "CLI", "Documentation (Docsify)"]
+title: BrokkAi/bifrost
+category: daily-digests/2026-07-09
+tech_stack:
+- Rust
+- Multi-language static analysis
+- MCP
+- LSP
+- Python
+- CLI
+- Documentation (Docsify)
 quality_score: 9
 rag_relevance: 8
-tags: ["static analysis", "multi-language", "incremental parsing", "AI coding tools", "concurrency"]
-source: "https://github.com/BrokkAi/bifrost"
-discovered_at: "2026-07-09T11:53:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- static analysis
+- multi-language
+- incremental parsing
+- AI coding tools
+- concurrency
+source: https://github.com/BrokkAi/bifrost
+discovered_at: '2026-07-09T11:53:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

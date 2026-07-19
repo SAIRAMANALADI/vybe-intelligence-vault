@@ -1,13 +1,23 @@
 ---
-title: "Lucasdesign13/codexfi"
-category: "Vector DB"
-tech_stack: ["TypeScript", "LanceDB", "Voyage AI", "Bun", "JavaScript"]
+title: Lucasdesign13/codexfi
+category: daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- LanceDB
+- Voyage AI
+- Bun
+- JavaScript
 quality_score: 6
 rag_relevance: 8
-tags: ["memory storage", "AI agents", "persistent data", "embeddings", "TypeScript"]
-source: "https://github.com/Lucasdesign13/codexfi"
-discovered_at: "2026-06-22T18:55:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory storage
+- AI agents
+- persistent data
+- embeddings
+- TypeScript
+source: https://github.com/Lucasdesign13/codexfi
+discovered_at: '2026-06-22T18:55:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

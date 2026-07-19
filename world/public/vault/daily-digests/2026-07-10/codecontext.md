@@ -1,13 +1,23 @@
 ---
-title: "DavidVeksler/CodeContext"
-category: "Tooling"
-tech_stack: ["C#", ".NET 9", "Model Context Protocol (MCP)", "SOLID Principles", "Dependency Injection"]
+title: DavidVeksler/CodeContext
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- C#
+- .NET 9
+- Model Context Protocol (MCP)
+- SOLID Principles
+- Dependency Injection
 quality_score: 9
 rag_relevance: 9
-tags: ["code context", "MCP server", "token optimization", "prompt engineering", "agentic coding"]
-source: "https://github.com/DavidVeksler/CodeContext"
-discovered_at: "2026-07-10T06:16:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code context
+- MCP server
+- token optimization
+- prompt engineering
+- agentic coding
+source: https://github.com/DavidVeksler/CodeContext
+discovered_at: '2026-07-10T06:16:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

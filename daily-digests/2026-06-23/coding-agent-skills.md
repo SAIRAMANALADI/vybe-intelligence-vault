@@ -1,13 +1,22 @@
 ---
-title: "Chrike/coding-agent-skills"
-category: "Agent Framework"
-tech_stack: ["Markdown", "YAML (implicit in workflows)", "Shell scripts (for installation)", "AI agent frameworks (Claude Code, Codex)"]
+title: Chrike/coding-agent-skills
+category: daily-digests/2026-06-23
+tech_stack:
+- Markdown
+- YAML (implicit in workflows)
+- Shell scripts (for installation)
+- AI agent frameworks (Claude Code, Codex)
 quality_score: 8
 rag_relevance: 7
-tags: ["AI-assisted development", "workflow optimization", "debugging", "testing", "code review"]
-source: "https://github.com/Chrike/coding-agent-skills"
-discovered_at: "2026-06-23T19:09:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-assisted development
+- workflow optimization
+- debugging
+- testing
+- code review
+source: https://github.com/Chrike/coding-agent-skills
+discovered_at: '2026-06-23T19:09:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

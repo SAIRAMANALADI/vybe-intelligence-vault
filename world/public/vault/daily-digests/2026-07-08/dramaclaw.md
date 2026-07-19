@@ -1,13 +1,27 @@
 ---
-title: "dramaclaw/dramaclaw"
-category: "Tooling"
-tech_stack: ["TypeScript", "Docker", "Python", "SQLite", "OpenAI-compatible API Gateway", "FFmpeg", "Node.js", "React", "AI/ML Models (LLMs, TTS, Image Generation)"]
+title: dramaclaw/dramaclaw
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Docker
+- Python
+- SQLite
+- OpenAI-compatible API Gateway
+- FFmpeg
+- Node.js
+- React
+- AI/ML Models (LLMs, TTS, Image Generation)
 quality_score: 9
 rag_relevance: 7
-tags: ["AI video generation", "automated filmmaking", "script-to-video", "storyboard generation", "voice synthesis"]
-source: "https://github.com/dramaclaw/dramaclaw"
-discovered_at: "2026-07-08T08:17:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI video generation
+- automated filmmaking
+- script-to-video
+- storyboard generation
+- voice synthesis
+source: https://github.com/dramaclaw/dramaclaw
+discovered_at: '2026-07-08T08:17:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

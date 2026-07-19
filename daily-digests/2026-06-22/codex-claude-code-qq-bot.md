@@ -1,13 +1,26 @@
 ---
-title: "zz327455573/codex-claude-code-qq-bot"
-category: "Tooling"
-tech_stack: ["Python", "QQ Official WebSocket API", "OpenAI Codex CLI", "Anthropic Claude Code CLI", "Google AGY (Gemini) CLI", "aiohttp", "httpx", "asyncio"]
+title: zz327455573/codex-claude-code-qq-bot
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- QQ Official WebSocket API
+- OpenAI Codex CLI
+- Anthropic Claude Code CLI
+- Google AGY (Gemini) CLI
+- aiohttp
+- httpx
+- asyncio
 quality_score: 8
 rag_relevance: 7
-tags: ["QQ bot", "AI agent bridge", "multi-agent integration", "session memory", "official API"]
-source: "https://github.com/zz327455573/codex-claude-code-qq-bot"
-discovered_at: "2026-06-22T23:17:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- QQ bot
+- AI agent bridge
+- multi-agent integration
+- session memory
+- official API
+source: https://github.com/zz327455573/codex-claude-code-qq-bot
+discovered_at: '2026-06-22T23:17:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

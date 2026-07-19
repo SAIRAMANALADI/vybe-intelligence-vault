@@ -1,13 +1,27 @@
 ---
-title: "terrorproforma/explore-better"
-category: "Tooling"
-tech_stack: ["Electron", "JavaScript", "TypeScript", "Go", "xterm.js", "node-pty", "ConPTY", "Win32 API", "PowerShell"]
+title: terrorproforma/explore-better
+category: daily-digests/2026-07-16
+tech_stack:
+- Electron
+- JavaScript
+- TypeScript
+- Go
+- xterm.js
+- node-pty
+- ConPTY
+- Win32 API
+- PowerShell
 quality_score: 9
 rag_relevance: 7
-tags: ["file manager", "Windows", "MCP bridge", "terminal integration", "disk analysis"]
-source: "https://github.com/terrorproforma/explore-better"
-discovered_at: "2026-07-14T12:10:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- file manager
+- Windows
+- MCP bridge
+- terminal integration
+- disk analysis
+source: https://github.com/terrorproforma/explore-better
+discovered_at: '2026-07-14T12:10:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

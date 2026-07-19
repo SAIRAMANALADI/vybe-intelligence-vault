@@ -1,13 +1,30 @@
 ---
-title: "modu-ai/moai-adk"
-category: "Agent Framework"
-tech_stack: ["Go", "Claude Code", "TDD/DDD", "Git", "Test Coverage Tools", "LSP (Language Server Protocol)", "Tree-sitter", "AST Parsing", "Concurrency (Goroutines)", "CI/CD (GitHub Actions)", "CodeQL", "Codecov"]
+title: modu-ai/moai-adk
+category: daily-digests/2026-06-23
+tech_stack:
+- Go
+- Claude Code
+- TDD/DDD
+- Git
+- Test Coverage Tools
+- LSP (Language Server Protocol)
+- Tree-sitter
+- AST Parsing
+- Concurrency (Goroutines)
+- CI/CD (GitHub Actions)
+- CodeQL
+- Codecov
 quality_score: 9
 rag_relevance: 9
-tags: ["Agentic Development", "TDD/DDD", "Claude Code", "Go", "AI Orchestration"]
-source: "https://github.com/modu-ai/moai-adk"
-discovered_at: "2026-06-23T19:10:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agentic Development
+- TDD/DDD
+- Claude Code
+- Go
+- AI Orchestration
+source: https://github.com/modu-ai/moai-adk
+discovered_at: '2026-06-23T19:10:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "MarzWars/oculusai"
-category: "Agent Framework"
-tech_stack: ["Python", "Flask", "OpenRouter API", "Supabase", "Tavily Search", "Jinja2", "JavaScript", "HTML/CSS"]
+title: MarzWars/oculusai
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Flask
+- OpenRouter API
+- Supabase
+- Tavily Search
+- Jinja2
+- JavaScript
+- HTML/CSS
 quality_score: 8
 rag_relevance: 7
-tags: ["AI Assistant", "Memory System", "Uncensored Models", "Multi-User Auth", "Live Web Search"]
-source: "https://github.com/MarzWars/oculusai"
-discovered_at: "2026-06-23T08:53:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Assistant
+- Memory System
+- Uncensored Models
+- Multi-User Auth
+- Live Web Search
+source: https://github.com/MarzWars/oculusai
+discovered_at: '2026-06-23T08:53:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

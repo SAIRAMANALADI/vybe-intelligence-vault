@@ -1,13 +1,23 @@
 ---
-title: "sjinks/wpscan-mcp-server"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Bun", "MCP (Model Context Protocol)", "WPScan API"]
+title: sjinks/wpscan-mcp-server
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- Bun
+- MCP (Model Context Protocol)
+- WPScan API
 quality_score: 7
 rag_relevance: 6
-tags: ["WordPress security", "MCP server", "vulnerability scanning", "API integration", "TypeScript"]
-source: "https://github.com/sjinks/wpscan-mcp-server"
-discovered_at: "2026-07-08T21:02:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- WordPress security
+- MCP server
+- vulnerability scanning
+- API integration
+- TypeScript
+source: https://github.com/sjinks/wpscan-mcp-server
+discovered_at: '2026-07-08T21:02:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

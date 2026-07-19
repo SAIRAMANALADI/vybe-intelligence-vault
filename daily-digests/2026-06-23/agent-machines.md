@@ -1,13 +1,36 @@
 ---
-title: "Kevin-Liu-01/Agent-Machines"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Next.js", "React", "tmux", "Docker", "E2B", "Sprites.dev", "Vercel Sandbox", "Dedalus Machines", "OpenRouter", "Claude Code", "Codex CLI", "Hermes Agent", "OpenClaw", "Clerk", "SSE (Server-Sent Events)", "WebSockets (indirectly via tmux)", "MCP (Model Context Protocol)"]
+title: Kevin-Liu-01/Agent-Machines
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Next.js
+- React
+- tmux
+- Docker
+- E2B
+- Sprites.dev
+- Vercel Sandbox
+- Dedalus Machines
+- OpenRouter
+- Claude Code
+- Codex CLI
+- Hermes Agent
+- OpenClaw
+- Clerk
+- SSE (Server-Sent Events)
+- WebSockets (indirectly via tmux)
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["agent orchestration", "persistent workers", "multi-substrate routing", "browser terminal", "MCP integration"]
-source: "https://github.com/Kevin-Liu-01/Agent-Machines"
-discovered_at: "2026-06-23T10:33:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent orchestration
+- persistent workers
+- multi-substrate routing
+- browser terminal
+- MCP integration
+source: https://github.com/Kevin-Liu-01/Agent-Machines
+discovered_at: '2026-06-23T10:33:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

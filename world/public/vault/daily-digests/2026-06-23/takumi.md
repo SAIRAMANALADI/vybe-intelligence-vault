@@ -1,13 +1,25 @@
 ---
-title: "sriinnu/takumi"
-category: "Agent Framework"
-tech_stack: ["Rust", "ratatui", "WebAssembly (Wasm)", "JSON-RPC", "Unix sockets", "MCP (Model Context Protocol)", "TypeScript (parked legacy code)"]
+title: sriinnu/takumi
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Rust
+- ratatui
+- WebAssembly (Wasm)
+- JSON-RPC
+- Unix sockets
+- MCP (Model Context Protocol)
+- TypeScript (parked legacy code)
 quality_score: 9
 rag_relevance: 7
-tags: ["terminal agent", "coding assistant", "MCP integration", "plugin system", "Chitragupta client"]
-source: "https://github.com/sriinnu/takumi"
-discovered_at: "2026-06-23T23:05:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- terminal agent
+- coding assistant
+- MCP integration
+- plugin system
+- Chitragupta client
+source: https://github.com/sriinnu/takumi
+discovered_at: '2026-06-23T23:05:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

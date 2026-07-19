@@ -1,13 +1,23 @@
 ---
-title: "Pale-mayenne964/devdocs-forge-agent"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "AI/LLM APIs", "Markdown", "Windows API"]
+title: Pale-mayenne964/devdocs-forge-agent
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Electron
+- AI/LLM APIs
+- Markdown
+- Windows API
 quality_score: 7
 rag_relevance: 6
-tags: ["documentation automation", "video-to-text", "LLM integration", "technical writing", "Markdown generation"]
-source: "https://github.com/Pale-mayenne964/devdocs-forge-agent"
-discovered_at: "2026-06-24T22:14:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- documentation automation
+- video-to-text
+- LLM integration
+- technical writing
+- Markdown generation
+source: https://github.com/Pale-mayenne964/devdocs-forge-agent
+discovered_at: '2026-06-24T22:14:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

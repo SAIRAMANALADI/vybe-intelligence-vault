@@ -1,13 +1,22 @@
 ---
-title: "waleedkhanbaloch/claude-code-safety-net"
-category: "Tooling"
-tech_stack: ["TypeScript", "Git", "Filesystem APIs", "Cross-platform frameworks"]
+title: waleedkhanbaloch/claude-code-safety-net
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Git
+- Filesystem APIs
+- Cross-platform frameworks
 quality_score: 6
 rag_relevance: 5
-tags: ["command safety", "Git protection", "filesystem security", "risk mitigation", "plugin"]
-source: "https://github.com/waleedkhanbaloch/claude-code-safety-net"
-discovered_at: "2026-06-25T05:06:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- command safety
+- Git protection
+- filesystem security
+- risk mitigation
+- plugin
+source: https://github.com/waleedkhanbaloch/claude-code-safety-net
+discovered_at: '2026-06-25T05:06:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "luuuc/sense"
-category: "Orchestrator"
-tech_stack: ["Go", "Tree-sitter", "ONNX Runtime", "SQLite", "MCP (Model Context Protocol)", "Rust (for some extractors)", "Python (for some extractors)"]
+title: luuuc/sense
+category: daily-digests/2026-06-25
+tech_stack:
+- Go
+- Tree-sitter
+- ONNX Runtime
+- SQLite
+- MCP (Model Context Protocol)
+- Rust (for some extractors)
+- Python (for some extractors)
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP server", "codebase indexing", "structural understanding", "AI coding agents", "semantic search"]
-source: "https://github.com/luuuc/sense"
-discovered_at: "2026-06-25T11:42:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- codebase indexing
+- structural understanding
+- AI coding agents
+- semantic search
+source: https://github.com/luuuc/sense
+discovered_at: '2026-06-25T11:42:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

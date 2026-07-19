@@ -1,13 +1,26 @@
 ---
-title: "GERMANKBR/signal-protocol"
-category: "Tooling"
-tech_stack: ["JavaScript", "GitHub Actions", "GitHub Pages", "RapidAPI", "OpenAPI", "JSON Feed", "RSS", "Atom"]
+title: GERMANKBR/signal-protocol
+category: daily-digests/2026-06-24
+tech_stack:
+- JavaScript
+- GitHub Actions
+- GitHub Pages
+- RapidAPI
+- OpenAPI
+- JSON Feed
+- RSS
+- Atom
 quality_score: 7
 rag_relevance: 6
-tags: ["Korean market data", "crypto arbitrage", "exchange rates", "API monetization", "static data feeds"]
-source: "https://github.com/GERMANKBR/signal-protocol"
-discovered_at: "2026-06-24T13:19:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Korean market data
+- crypto arbitrage
+- exchange rates
+- API monetization
+- static data feeds
+source: https://github.com/GERMANKBR/signal-protocol
+discovered_at: '2026-06-24T13:19:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

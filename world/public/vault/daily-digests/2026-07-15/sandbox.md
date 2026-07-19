@@ -1,13 +1,36 @@
 ---
-title: "cocoonstack/sandbox"
-category: "Orchestrator"
-tech_stack: ["Go", "Rust", "Firecracker", "Cloud Hypervisor", "Tokio", "Memberlist", "HTTP", "vsock", "CNI", "Linux Kernel", "EROFS", "OverlayFS", "musl", "Docker", "Git", "Python", "OpenAI Agents SDK", "LangChain"]
+title: cocoonstack/sandbox
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- Go
+- Rust
+- Firecracker
+- Cloud Hypervisor
+- Tokio
+- Memberlist
+- HTTP
+- vsock
+- CNI
+- Linux Kernel
+- EROFS
+- OverlayFS
+- musl
+- Docker
+- Git
+- Python
+- OpenAI Agents SDK
+- LangChain
 quality_score: 9
 rag_relevance: 8
-tags: ["MicroVM", "Sandboxing", "AI Agents", "Fast Boot", "Isolation"]
-source: "https://github.com/cocoonstack/sandbox"
-discovered_at: "2026-07-13T06:15:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MicroVM
+- Sandboxing
+- AI Agents
+- Fast Boot
+- Isolation
+source: https://github.com/cocoonstack/sandbox
+discovered_at: '2026-07-13T06:15:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

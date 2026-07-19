@@ -1,13 +1,31 @@
 ---
-title: "Aaron-arn/samaritain"
-category: "Agent Framework"
-tech_stack: ["Python", "Rust", "Electron", "Docker", "Telegram API", "Discord API", "Slack API", "Signal API", "Whisper (TTS/STT)", "SQLite", "FTS5 (Full-Text Search)", "uv (Python package manager)", "Node.js"]
+title: Aaron-arn/samaritain
+category: world/public/vault/daily-digests/2026-07-12
+tech_stack:
+- Python
+- Rust
+- Electron
+- Docker
+- Telegram API
+- Discord API
+- Slack API
+- Signal API
+- Whisper (TTS/STT)
+- SQLite
+- FTS5 (Full-Text Search)
+- uv (Python package manager)
+- Node.js
 quality_score: 9
 rag_relevance: 8
-tags: ["self-improving agent", "multi-platform", "learning loop", "autonomous skills", "memory graph"]
-source: "https://github.com/Aaron-arn/samaritain"
-discovered_at: "2026-07-10T18:22:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-improving agent
+- multi-platform
+- learning loop
+- autonomous skills
+- memory graph
+source: https://github.com/Aaron-arn/samaritain
+discovered_at: '2026-07-10T18:22:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

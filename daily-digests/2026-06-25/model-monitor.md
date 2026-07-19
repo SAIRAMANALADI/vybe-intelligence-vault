@@ -1,13 +1,28 @@
 ---
-title: "dirjaker/model-monitor"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "SQLAlchemy", "Vue.js", "ECharts", "httpx", "mitmproxy", "Rich", "SQLite", "YAML"]
+title: dirjaker/model-monitor
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- FastAPI
+- SQLAlchemy
+- Vue.js
+- ECharts
+- httpx
+- mitmproxy
+- Rich
+- SQLite
+- YAML
 quality_score: 9
 rag_relevance: 8
-tags: ["API monitoring", "cost tracking", "LLM observability", "multi-provider support", "real-time analytics"]
-source: "https://github.com/dirjaker/model-monitor"
-discovered_at: "2026-06-25T14:15:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- API monitoring
+- cost tracking
+- LLM observability
+- multi-provider support
+- real-time analytics
+source: https://github.com/dirjaker/model-monitor
+discovered_at: '2026-06-25T14:15:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

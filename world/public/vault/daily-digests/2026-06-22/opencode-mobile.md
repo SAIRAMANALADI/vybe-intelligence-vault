@@ -1,13 +1,25 @@
 ---
-title: "dzianisv/opencode-mobile"
-category: "UI Component"
-tech_stack: ["React Native", "Expo", "TypeScript", "Android Keystore", "Sentry", "HTTP + SSE API", "F-Droid"]
+title: dzianisv/opencode-mobile
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- React Native
+- Expo
+- TypeScript
+- Android Keystore
+- Sentry
+- HTTP + SSE API
+- F-Droid
 quality_score: 9
 rag_relevance: 7
-tags: ["AI coding assistant", "mobile client", "self-hosted", "React Native", "Android"]
-source: "https://github.com/dzianisv/opencode-mobile"
-discovered_at: "2026-06-22T23:22:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding assistant
+- mobile client
+- self-hosted
+- React Native
+- Android
+source: https://github.com/dzianisv/opencode-mobile
+discovered_at: '2026-06-22T23:22:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

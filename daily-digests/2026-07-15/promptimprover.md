@@ -1,13 +1,26 @@
 ---
-title: "Coding-Autopilot-System/Promptimprover"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js 22", "Model Context Protocol (MCP)", "FlexSearch", "SQLite", "Mermaid.js", "OpenAI-compatible API", "Gemini models"]
+title: Coding-Autopilot-System/Promptimprover
+category: daily-digests/2026-07-15
+tech_stack:
+- TypeScript
+- Node.js 22
+- Model Context Protocol (MCP)
+- FlexSearch
+- SQLite
+- Mermaid.js
+- OpenAI-compatible API
+- Gemini models
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP", "prompt governance", "RAG", "evidence-based refinement", "AI orchestration"]
-source: "https://github.com/Coding-Autopilot-System/Promptimprover"
-discovered_at: "2026-07-13T06:15:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- prompt governance
+- RAG
+- evidence-based refinement
+- AI orchestration
+source: https://github.com/Coding-Autopilot-System/Promptimprover
+discovered_at: '2026-07-13T06:15:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

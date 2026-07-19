@@ -1,13 +1,27 @@
 ---
-title: "whiteguo233/OpenBiliClaw"
-category: "Agent Framework"
-tech_stack: ["Python", "SQLite", "Ollama", "Embedding Models (e.g., bge-m3)", "Browser Extensions (Chrome, Firefox, Edge)", "FastAPI", "React", "TypeScript", "Docker (optional)"]
+title: whiteguo233/OpenBiliClaw
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- SQLite
+- Ollama
+- Embedding Models (e.g., bge-m3)
+- Browser Extensions (Chrome, Firefox, Edge)
+- FastAPI
+- React
+- TypeScript
+- Docker (optional)
 quality_score: 9
 rag_relevance: 7
-tags: ["personalized recommendation", "local-first AI", "cross-platform agent", "privacy-preserving", "content discovery"]
-source: "https://github.com/whiteguo233/OpenBiliClaw"
-discovered_at: "2026-06-25T11:39:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personalized recommendation
+- local-first AI
+- cross-platform agent
+- privacy-preserving
+- content discovery
+source: https://github.com/whiteguo233/OpenBiliClaw
+discovered_at: '2026-06-25T11:39:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

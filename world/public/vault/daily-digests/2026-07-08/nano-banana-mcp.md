@@ -1,13 +1,23 @@
 ---
-title: "runapi-ai/nano-banana-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "RunAPI API", "npm"]
+title: runapi-ai/nano-banana-mcp
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- RunAPI API
+- npm
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "image generation", "RunAPI", "Nano Banana", "AI agents"]
-source: "https://github.com/runapi-ai/nano-banana-mcp"
-discovered_at: "2026-07-08T17:27:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- image generation
+- RunAPI
+- Nano Banana
+- AI agents
+source: https://github.com/runapi-ai/nano-banana-mcp
+discovered_at: '2026-07-08T17:27:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

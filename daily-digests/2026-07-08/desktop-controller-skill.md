@@ -1,13 +1,22 @@
 ---
-title: "Nishad710/desktop-controller-skill"
-category: "Tooling"
-tech_stack: ["Win32 API", "Playwright", "Python", "Windows Automation"]
+title: Nishad710/desktop-controller-skill
+category: daily-digests/2026-07-08
+tech_stack:
+- Win32 API
+- Playwright
+- Python
+- Windows Automation
 quality_score: 4
 rag_relevance: 6
-tags: ["Windows automation", "AI control", "desktop integration", "Playwright", "Win32 API"]
-source: "https://github.com/Nishad710/desktop-controller-skill"
-discovered_at: "2026-07-08T02:07:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Windows automation
+- AI control
+- desktop integration
+- Playwright
+- Win32 API
+source: https://github.com/Nishad710/desktop-controller-skill
+discovered_at: '2026-07-08T02:07:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "aiperceivable/apcore-mcp-python"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "OpenAI Tools API", "apcore", "FastAPI", "Starlette", "JWT", "CLI"]
+title: aiperceivable/apcore-mcp-python
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- OpenAI Tools API
+- apcore
+- FastAPI
+- Starlette
+- JWT
+- CLI
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP Server", "OpenAI Tools", "apcore Integration", "Zero-Code", "Tool Orchestration"]
-source: "https://github.com/aiperceivable/apcore-mcp-python"
-discovered_at: "2026-06-23T09:02:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- OpenAI Tools
+- apcore Integration
+- Zero-Code
+- Tool Orchestration
+source: https://github.com/aiperceivable/apcore-mcp-python
+discovered_at: '2026-06-23T09:02:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

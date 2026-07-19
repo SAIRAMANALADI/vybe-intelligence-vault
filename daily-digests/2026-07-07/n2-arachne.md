@@ -1,13 +1,23 @@
 ---
-title: "Genealogic-verticalfile126/n2-arachne"
-category: "Tooling"
-tech_stack: ["Windows", "TypeScript", "Rust", "C++ SIMD", "SQLite"]
+title: Genealogic-verticalfile126/n2-arachne
+category: daily-digests/2026-07-07
+tech_stack:
+- Windows
+- TypeScript
+- Rust
+- C++ SIMD
+- SQLite
 quality_score: 5
 rag_relevance: 8
-tags: ["context assembly", "LLM optimization", "file filtering", "AI agents", "prompt management"]
-source: "https://github.com/Genealogic-verticalfile126/n2-arachne"
-discovered_at: "2026-07-07T23:56:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- context assembly
+- LLM optimization
+- file filtering
+- AI agents
+- prompt management
+source: https://github.com/Genealogic-verticalfile126/n2-arachne
+discovered_at: '2026-07-07T23:56:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

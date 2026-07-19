@@ -1,13 +1,25 @@
 ---
-title: "mozilla/firefox-devtools-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "WebDriver BiDi", "Selenium WebDriver", "Model Context Protocol (MCP)", "Firefox", "Docker"]
+title: mozilla/firefox-devtools-mcp
+category: daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- WebDriver BiDi
+- Selenium WebDriver
+- Model Context Protocol (MCP)
+- Firefox
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["browser automation", "MCP server", "WebDriver BiDi", "AI tooling", "Firefox DevTools"]
-source: "https://github.com/mozilla/firefox-devtools-mcp"
-discovered_at: "2026-07-09T08:25:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- MCP server
+- WebDriver BiDi
+- AI tooling
+- Firefox DevTools
+source: https://github.com/mozilla/firefox-devtools-mcp
+discovered_at: '2026-07-09T08:25:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

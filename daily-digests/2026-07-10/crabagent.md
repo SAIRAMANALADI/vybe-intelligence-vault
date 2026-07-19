@@ -1,13 +1,29 @@
 ---
-title: "xcl1989/CrabAgent"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "React", "Electron", "SQLAlchemy", "Playwright", "Monaco Editor", "OpenAI API", "OAuth Device Code Flow", "Markdown", "Office Document Processing (DOCX, XLSX, PPTX)"]
+title: xcl1989/CrabAgent
+category: daily-digests/2026-07-10
+tech_stack:
+- Python
+- FastAPI
+- React
+- Electron
+- SQLAlchemy
+- Playwright
+- Monaco Editor
+- OpenAI API
+- OAuth Device Code Flow
+- Markdown
+- Office Document Processing (DOCX, XLSX, PPTX)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Workspace", "Multi-Modal Agent", "Local-First", "Document Automation", "Real-Time Collaboration"]
-source: "https://github.com/xcl1989/CrabAgent"
-discovered_at: "2026-07-10T06:52:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Workspace
+- Multi-Modal Agent
+- Local-First
+- Document Automation
+- Real-Time Collaboration
+source: https://github.com/xcl1989/CrabAgent
+discovered_at: '2026-07-10T06:52:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

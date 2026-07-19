@@ -1,13 +1,24 @@
 ---
-title: "SkeinRank/agent-lexicon"
-category: "Tooling"
-tech_stack: ["Python", "Aho-Corasick algorithm", "Git", "CLI tools", "MCP (Model Context Protocol)", "YAML"]
+title: SkeinRank/agent-lexicon
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- Aho-Corasick algorithm
+- Git
+- CLI tools
+- MCP (Model Context Protocol)
+- YAML
 quality_score: 9
 rag_relevance: 8
-tags: ["terminology management", "deterministic resolution", "drift detection", "agent governance", "vocabulary standardization"]
-source: "https://github.com/SkeinRank/agent-lexicon"
-discovered_at: "2026-07-09T11:54:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- terminology management
+- deterministic resolution
+- drift detection
+- agent governance
+- vocabulary standardization
+source: https://github.com/SkeinRank/agent-lexicon
+discovered_at: '2026-07-09T11:54:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "zhayujie/CowAgent"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "React", "Docker", "SQLite/PostgreSQL", "LangChain", "MCP (Model Context Protocol)", "WebSockets", "Redis", "Celery"]
+title: zhayujie/CowAgent
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- FastAPI
+- React
+- Docker
+- SQLite/PostgreSQL
+- LangChain
+- MCP (Model Context Protocol)
+- WebSockets
+- Redis
+- Celery
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Agents", "Task Automation", "Memory Management", "Multi-Model LLM", "Self-Evolution"]
-source: "https://github.com/zhayujie/CowAgent"
-discovered_at: "2026-06-22T15:49:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agents
+- Task Automation
+- Memory Management
+- Multi-Model LLM
+- Self-Evolution
+source: https://github.com/zhayujie/CowAgent
+discovered_at: '2026-06-22T15:49:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

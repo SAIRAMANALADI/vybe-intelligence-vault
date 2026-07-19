@@ -1,13 +1,31 @@
 ---
-title: "benteigland11/Cartograph"
-category: "Tooling"
-tech_stack: ["Python", "CLI", "pytest", "coverage.py", "AST", "JavaScript/TypeScript", "Nim", "OpenSCAD", "SystemVerilog", "Angular", "PHP", "Terraform", "Go"]
+title: benteigland11/Cartograph
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- CLI
+- pytest
+- coverage.py
+- AST
+- JavaScript/TypeScript
+- Nim
+- OpenSCAD
+- SystemVerilog
+- Angular
+- PHP
+- Terraform
+- Go
 quality_score: 9
 rag_relevance: 8
-tags: ["code reuse", "AI agent tools", "widget management", "validation pipeline", "local registry"]
-source: "https://github.com/benteigland11/Cartograph"
-discovered_at: "2026-06-25T00:07:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code reuse
+- AI agent tools
+- widget management
+- validation pipeline
+- local registry
+source: https://github.com/benteigland11/Cartograph
+discovered_at: '2026-06-25T00:07:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

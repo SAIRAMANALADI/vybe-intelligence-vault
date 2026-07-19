@@ -1,13 +1,25 @@
 ---
-title: "Hierarchical-sage374/remote-collab-agents"
-category: "Orchestrator"
-tech_stack: ["Python", "Shell", "Tailscale", "SSH", "Syncthing", "Claude Code", "Windows"]
+title: Hierarchical-sage374/remote-collab-agents
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- Shell
+- Tailscale
+- SSH
+- Syncthing
+- Claude Code
+- Windows
 quality_score: 6
 rag_relevance: 7
-tags: ["multi-agent coordination", "distributed workflows", "file synchronization", "remote execution", "Claude Code"]
-source: "https://github.com/Hierarchical-sage374/remote-collab-agents"
-discovered_at: "2026-07-07T20:51:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent coordination
+- distributed workflows
+- file synchronization
+- remote execution
+- Claude Code
+source: https://github.com/Hierarchical-sage374/remote-collab-agents
+discovered_at: '2026-07-07T20:51:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

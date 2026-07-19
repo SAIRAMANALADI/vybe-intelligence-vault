@@ -1,13 +1,29 @@
 ---
-title: "sungjin9288/personal-ai-agent"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "ES Modules", "Vanilla HTML/CSS/JS", "JSON-based local storage", "OpenAI API", "Anthropic API", "Provider adapters", "CLI", "HTTP Server", "GitHub Actions"]
+title: sungjin9288/personal-ai-agent
+category: daily-digests/2026-06-23
+tech_stack:
+- JavaScript
+- Node.js
+- ES Modules
+- Vanilla HTML/CSS/JS
+- JSON-based local storage
+- OpenAI API
+- Anthropic API
+- Provider adapters
+- CLI
+- HTTP Server
+- GitHub Actions
 quality_score: 8
 rag_relevance: 9
-tags: ["multi-agent", "local-first", "evidence-driven", "operator control", "release readiness"]
-source: "https://github.com/sungjin9288/personal-ai-agent"
-discovered_at: "2026-06-23T06:48:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent
+- local-first
+- evidence-driven
+- operator control
+- release readiness
+source: https://github.com/sungjin9288/personal-ai-agent
+discovered_at: '2026-06-23T06:48:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

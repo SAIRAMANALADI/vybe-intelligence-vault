@@ -1,13 +1,28 @@
 ---
-title: "aashir771/Memory-Layered-Agent-Core"
-category: "Agent Framework"
-tech_stack: ["Python", "YAML", "Vector Databases", "REST API", "React", "Node.js", "OpenAI API", "Claude API", "Ollama", "Llama.cpp"]
+title: aashir771/Memory-Layered-Agent-Core
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- YAML
+- Vector Databases
+- REST API
+- React
+- Node.js
+- OpenAI API
+- Claude API
+- Ollama
+- Llama.cpp
 quality_score: 7
 rag_relevance: 8
-tags: ["persistent memory", "AI personality", "contextual awareness", "multi-layered memory", "agent framework"]
-source: "https://github.com/aashir771/Memory-Layered-Agent-Core"
-discovered_at: "2026-07-08T12:24:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- AI personality
+- contextual awareness
+- multi-layered memory
+- agent framework
+source: https://github.com/aashir771/Memory-Layered-Agent-Core
+discovered_at: '2026-07-08T12:24:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

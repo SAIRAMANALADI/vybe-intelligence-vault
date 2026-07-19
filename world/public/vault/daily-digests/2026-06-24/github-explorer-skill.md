@@ -1,13 +1,23 @@
 ---
-title: "caution724/github-explorer-skill"
-category: "Tooling"
-tech_stack: ["Electron", "JavaScript", "Python", "GitHub API", "PDF/Export Libraries"]
+title: caution724/github-explorer-skill
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Electron
+- JavaScript
+- Python
+- GitHub API
+- PDF/Export Libraries
 quality_score: 7
 rag_relevance: 6
-tags: ["GitHub analysis", "repository insights", "multi-source data", "project reporting", "desktop tool"]
-source: "https://github.com/caution724/github-explorer-skill"
-discovered_at: "2026-06-24T16:15:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- GitHub analysis
+- repository insights
+- multi-source data
+- project reporting
+- desktop tool
+source: https://github.com/caution724/github-explorer-skill
+discovered_at: '2026-06-24T16:15:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

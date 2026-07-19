@@ -1,13 +1,22 @@
 ---
-title: "ahmadqatato2-maker/openclaw_vulnerabilities_and_solutions"
-category: "Tooling"
-tech_stack: ["Markdown", "PDF Documentation", "Deployment Scripts", "Security Auditing"]
+title: ahmadqatato2-maker/openclaw_vulnerabilities_and_solutions
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Markdown
+- PDF Documentation
+- Deployment Scripts
+- Security Auditing
 quality_score: 6
 rag_relevance: 5
-tags: ["security", "audit", "OpenClaw", "deployment", "hardening"]
-source: "https://github.com/ahmadqatato2-maker/openclaw_vulnerabilities_and_solutions"
-discovered_at: "2026-06-22T18:53:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- security
+- audit
+- OpenClaw
+- deployment
+- hardening
+source: https://github.com/ahmadqatato2-maker/openclaw_vulnerabilities_and_solutions
+discovered_at: '2026-06-22T18:53:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

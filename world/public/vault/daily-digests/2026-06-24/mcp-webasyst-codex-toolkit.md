@@ -1,13 +1,26 @@
 ---
-title: "abrahemy319-png/mcp-webasyst-codex-toolkit"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "OpenAI API", "Claude API", "Webasyst Framework", "Mermaid.js", "JSON"]
+title: abrahemy319-png/mcp-webasyst-codex-toolkit
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- OpenAI API
+- Claude API
+- Webasyst Framework
+- Mermaid.js
+- JSON
 quality_score: 7
 rag_relevance: 8
-tags: ["AI-driven development", "Webasyst framework", "MCP integration", "automated plugin generation", "UI auditing"]
-source: "https://github.com/abrahemy319-png/mcp-webasyst-codex-toolkit"
-discovered_at: "2026-06-24T18:53:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-driven development
+- Webasyst framework
+- MCP integration
+- automated plugin generation
+- UI auditing
+source: https://github.com/abrahemy319-png/mcp-webasyst-codex-toolkit
+discovered_at: '2026-06-24T18:53:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

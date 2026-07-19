@@ -1,13 +1,22 @@
 ---
-title: "Gisellesleeveless396/go-agent-skills"
-category: "Agent Framework"
-tech_stack: ["Go", "Shell", "AI Agent Frameworks", "Text-based Skill Packs"]
+title: Gisellesleeveless396/go-agent-skills
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Go
+- Shell
+- AI Agent Frameworks
+- Text-based Skill Packs
 quality_score: 5
 rag_relevance: 7
-tags: ["Go development", "AI agent skills", "code automation", "project structure", "workflow guidance"]
-source: "https://github.com/Gisellesleeveless396/go-agent-skills"
-discovered_at: "2026-07-07T20:50:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Go development
+- AI agent skills
+- code automation
+- project structure
+- workflow guidance
+source: https://github.com/Gisellesleeveless396/go-agent-skills
+discovered_at: '2026-07-07T20:50:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

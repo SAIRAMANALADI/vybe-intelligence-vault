@@ -1,13 +1,27 @@
 ---
-title: "chriswu727/argus"
-category: "Tooling"
-tech_stack: ["Python", "Playwright", "Model Context Protocol (MCP)", "Playwright MCP", "LiteLLM", "JUnit", "SARIF", "JSON", "HTML"]
+title: chriswu727/argus
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- Python
+- Playwright
+- Model Context Protocol (MCP)
+- Playwright MCP
+- LiteLLM
+- JUnit
+- SARIF
+- JSON
+- HTML
 quality_score: 9
 rag_relevance: 7
-tags: ["autonomous QA", "bug verification", "reproducibility", "MCP server", "evidence-based testing"]
-source: "https://github.com/chriswu727/argus"
-discovered_at: "2026-07-14T21:56:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous QA
+- bug verification
+- reproducibility
+- MCP server
+- evidence-based testing
+source: https://github.com/chriswu727/argus
+discovered_at: '2026-07-14T21:56:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

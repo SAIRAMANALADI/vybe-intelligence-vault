@@ -1,13 +1,23 @@
 ---
-title: "vanlew1/ai-agent-project-governance"
-category: "Orchestrator"
-tech_stack: ["Python", "GitHub Actions", "JSON Schema", "DAG (Directed Acyclic Graph)", "CLI Tools"]
+title: vanlew1/ai-agent-project-governance
+category: daily-digests/2026-07-18
+tech_stack:
+- Python
+- GitHub Actions
+- JSON Schema
+- DAG (Directed Acyclic Graph)
+- CLI Tools
 quality_score: 9
 rag_relevance: 8
-tags: ["agent governance", "deterministic runtime", "multi-agent coordination", "verifiable closure", "test verification"]
-source: "https://github.com/vanlew1/ai-agent-project-governance"
-discovered_at: "2026-07-15T18:06:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent governance
+- deterministic runtime
+- multi-agent coordination
+- verifiable closure
+- test verification
+source: https://github.com/vanlew1/ai-agent-project-governance
+discovered_at: '2026-07-15T18:06:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

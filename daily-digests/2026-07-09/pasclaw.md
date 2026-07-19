@@ -1,13 +1,28 @@
 ---
-title: "FMXExpress/PasClaw"
-category: "Agent Framework"
-tech_stack: ["Delphi Object Pascal", "Free Pascal Compiler (FPC)", "SQLite", "OpenSSL", "ONNX Runtime", "Docker", "HTTP/HTTPS", "SSE (Server-Sent Events)", "JSON-RPC", "MCP (Model Context Protocol)"]
+title: FMXExpress/PasClaw
+category: daily-digests/2026-07-09
+tech_stack:
+- Delphi Object Pascal
+- Free Pascal Compiler (FPC)
+- SQLite
+- OpenSSL
+- ONNX Runtime
+- Docker
+- HTTP/HTTPS
+- SSE (Server-Sent Events)
+- JSON-RPC
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agent framework", "Delphi Pascal", "MCP integration", "OpenAI-compatible API", "lightweight"]
-source: "https://github.com/FMXExpress/PasClaw"
-discovered_at: "2026-07-09T00:05:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent framework
+- Delphi Pascal
+- MCP integration
+- OpenAI-compatible API
+- lightweight
+source: https://github.com/FMXExpress/PasClaw
+discovered_at: '2026-07-09T00:05:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "aitora159-art/3am-AI"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "llama-cpp", "SQLite", "JavaScript", "HTML/CSS"]
+title: aitora159-art/3am-AI
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- FastAPI
+- llama-cpp
+- SQLite
+- JavaScript
+- HTML/CSS
 quality_score: 7
 rag_relevance: 8
-tags: ["local LLM", "self-learning AI", "privacy-focused", "offline AI", "personal assistant"]
-source: "https://github.com/aitora159-art/3am-AI"
-discovered_at: "2026-06-22T18:53:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local LLM
+- self-learning AI
+- privacy-focused
+- offline AI
+- personal assistant
+source: https://github.com/aitora159-art/3am-AI
+discovered_at: '2026-06-22T18:53:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

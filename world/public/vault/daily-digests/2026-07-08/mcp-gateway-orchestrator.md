@@ -1,13 +1,28 @@
 ---
-title: "Mugetsu44-44/mcp-gateway-orchestrator"
-category: "Orchestrator"
-tech_stack: ["Python", "YAML", "OpenAI API", "Anthropic API", "PostgreSQL", "MongoDB", "Redis", "RabbitMQ", "Kafka", "Docker"]
+title: Mugetsu44-44/mcp-gateway-orchestrator
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- YAML
+- OpenAI API
+- Anthropic API
+- PostgreSQL
+- MongoDB
+- Redis
+- RabbitMQ
+- Kafka
+- Docker
 quality_score: 8
 rag_relevance: 9
-tags: ["multi-agent orchestration", "AI safety protocols", "adaptive learning", "enterprise AI", "agent collaboration"]
-source: "https://github.com/Mugetsu44-44/mcp-gateway-orchestrator"
-discovered_at: "2026-07-08T12:25:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent orchestration
+- AI safety protocols
+- adaptive learning
+- enterprise AI
+- agent collaboration
+source: https://github.com/Mugetsu44-44/mcp-gateway-orchestrator
+discovered_at: '2026-07-08T12:25:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

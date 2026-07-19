@@ -1,13 +1,27 @@
 ---
-title: "Pythoughts-labs/pythinker-code"
-category: "Agent Framework"
-tech_stack: ["Python", "Agent Client Protocol (ACP)", "Model Context Protocol (MCP)", "Ruff", "OpenAI API", "Docker", "Homebrew", "Nix", "Shell scripting"]
+title: Pythoughts-labs/pythinker-code
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Agent Client Protocol (ACP)
+- Model Context Protocol (MCP)
+- Ruff
+- OpenAI API
+- Docker
+- Homebrew
+- Nix
+- Shell scripting
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent", "code review", "security scanning", "terminal-native", "MCP integration"]
-source: "https://github.com/Pythoughts-labs/pythinker-code"
-discovered_at: "2026-06-23T21:29:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- code review
+- security scanning
+- terminal-native
+- MCP integration
+source: https://github.com/Pythoughts-labs/pythinker-code
+discovered_at: '2026-06-23T21:29:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

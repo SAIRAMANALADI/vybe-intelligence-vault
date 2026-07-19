@@ -1,13 +1,37 @@
 ---
-title: "cornreform/baw-agent-platform"
-category: "Agent Framework"
-tech_stack: ["Python 3.11+", "Docker", "FastAPI", "LangChain (not used as a framework, but may interact with)", "Telegram Bot API", "OpenAI API", "Anthropic API", "Google Generative AI API", "DuckDuckGo Search API", "SQLite", "Jinja2", "Pydantic", "Croniter", "Requests", "BeautifulSoup4", "Faster-Whisper (STT)", "WebSocket", "Git", "Bash"]
+title: cornreform/baw-agent-platform
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python 3.11+
+- Docker
+- FastAPI
+- LangChain (not used as a framework, but may interact with)
+- Telegram Bot API
+- OpenAI API
+- Anthropic API
+- Google Generative AI API
+- DuckDuckGo Search API
+- SQLite
+- Jinja2
+- Pydantic
+- Croniter
+- Requests
+- BeautifulSoup4
+- Faster-Whisper (STT)
+- WebSocket
+- Git
+- Bash
 quality_score: 9
 rag_relevance: 8
-tags: ["adversarial agents", "self-evolving systems", "multi-model orchestration", "zero vendor lock-in", "cost-transparent AI"]
-source: "https://github.com/cornreform/baw-agent-platform"
-discovered_at: "2026-06-25T08:27:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- adversarial agents
+- self-evolving systems
+- multi-model orchestration
+- zero vendor lock-in
+- cost-transparent AI
+source: https://github.com/cornreform/baw-agent-platform
+discovered_at: '2026-06-25T08:27:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

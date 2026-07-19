@@ -1,13 +1,23 @@
 ---
-title: "junter1989k-ai/singapore-payments-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "HTTP/JSON-RPC", "HitPay API"]
+title: junter1989k-ai/singapore-payments-mcp
+category: daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- HTTP/JSON-RPC
+- HitPay API
 quality_score: 7
 rag_relevance: 8
-tags: ["payments", "Singapore", "MCP server", "AI agents", "HitPay"]
-source: "https://github.com/junter1989k-ai/singapore-payments-mcp"
-discovered_at: "2026-07-08T19:16:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- payments
+- Singapore
+- MCP server
+- AI agents
+- HitPay
+source: https://github.com/junter1989k-ai/singapore-payments-mcp
+discovered_at: '2026-07-08T19:16:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

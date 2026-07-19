@@ -1,13 +1,27 @@
 ---
-title: "BuyWhere/buywhere"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "PostgreSQL", "Redis", "BM25 (PostgreSQL FTS5)", "Docker", "ECS Fargate", "TypeScript (metadata)", "MCP (Model Context Protocol)"]
+title: BuyWhere/buywhere
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- FastAPI
+- PostgreSQL
+- Redis
+- BM25 (PostgreSQL FTS5)
+- Docker
+- ECS Fargate
+- TypeScript (metadata)
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["product catalog", "price comparison", "AI agent tools", "MCP server", "retail data"]
-source: "https://github.com/BuyWhere/buywhere"
-discovered_at: "2026-06-25T07:29:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- product catalog
+- price comparison
+- AI agent tools
+- MCP server
+- retail data
+source: https://github.com/BuyWhere/buywhere
+discovered_at: '2026-06-25T07:29:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

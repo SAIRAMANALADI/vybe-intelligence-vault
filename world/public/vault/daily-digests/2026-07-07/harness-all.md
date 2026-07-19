@@ -1,13 +1,25 @@
 ---
-title: "LuckyOneTwoThree/harness-all"
-category: "Agent Framework"
-tech_stack: ["Python", "Bash", "Markdown", "YAML", "Git", "Semantic Versioning", "WSL (for Windows support)"]
+title: LuckyOneTwoThree/harness-all
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Bash
+- Markdown
+- YAML
+- Git
+- Semantic Versioning
+- WSL (for Windows support)
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent systems", "AI-powered development", "domain-specialized agents", "structured collaboration", "project memory"]
-source: "https://github.com/LuckyOneTwoThree/harness-all"
-discovered_at: "2026-07-07T13:15:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- AI-powered development
+- domain-specialized agents
+- structured collaboration
+- project memory
+source: https://github.com/LuckyOneTwoThree/harness-all
+discovered_at: '2026-07-07T13:15:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "Peronosporaceaevenography165/rails-ai-context"
-category: "Tooling"
-tech_stack: ["Ruby", "Rails", "MCP (Model Context Protocol)", "CLI", "Gem"]
+title: Peronosporaceaevenography165/rails-ai-context
+category: daily-digests/2026-07-07
+tech_stack:
+- Ruby
+- Rails
+- MCP (Model Context Protocol)
+- CLI
+- Gem
 quality_score: 8
 rag_relevance: 9
-tags: ["Rails", "AI context", "MCP server", "CLI tools", "token efficiency"]
-source: "https://github.com/Peronosporaceaevenography165/rails-ai-context"
-discovered_at: "2026-07-07T23:55:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Rails
+- AI context
+- MCP server
+- CLI tools
+- token efficiency
+source: https://github.com/Peronosporaceaevenography165/rails-ai-context
+discovered_at: '2026-07-07T23:55:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

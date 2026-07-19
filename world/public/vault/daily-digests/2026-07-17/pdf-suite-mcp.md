@@ -1,13 +1,23 @@
 ---
-title: "beepboop2025/pdf-suite-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "pdf-lib", "unpdf (Mozilla pdf.js)", "MCP (Model Context Protocol)"]
+title: beepboop2025/pdf-suite-mcp
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- Node.js
+- pdf-lib
+- unpdf (Mozilla pdf.js)
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["PDF manipulation", "MCP server", "document processing", "text extraction", "form handling"]
-source: "https://github.com/beepboop2025/pdf-suite-mcp"
-discovered_at: "2026-07-14T05:29:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- PDF manipulation
+- MCP server
+- document processing
+- text extraction
+- form handling
+source: https://github.com/beepboop2025/pdf-suite-mcp
+discovered_at: '2026-07-14T05:29:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

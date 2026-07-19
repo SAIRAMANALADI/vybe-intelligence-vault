@@ -1,13 +1,21 @@
 ---
-title: "Mohamm732/skillpilot-releases"
-category: "Tooling"
-tech_stack: ["AI Agents", "Command-line Tools", "Automation Scripts"]
+title: Mohamm732/skillpilot-releases
+category: daily-digests/2026-07-07
+tech_stack:
+- AI Agents
+- Command-line Tools
+- Automation Scripts
 quality_score: 4
 rag_relevance: 6
-tags: ["skill automation", "AI agents", "SKILL.md", "command integration", "agent tools"]
-source: "https://github.com/Mohamm732/skillpilot-releases"
-discovered_at: "2026-07-07T20:51:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- skill automation
+- AI agents
+- SKILL.md
+- command integration
+- agent tools
+source: https://github.com/Mohamm732/skillpilot-releases
+discovered_at: '2026-07-07T20:51:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

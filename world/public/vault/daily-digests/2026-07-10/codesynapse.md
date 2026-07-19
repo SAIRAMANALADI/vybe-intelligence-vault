@@ -1,13 +1,25 @@
 ---
-title: "sohilladhani/codesynapse"
-category: "Agent Framework"
-tech_stack: ["Rust", "Tree-sitter", "Sled (embedded database)", "BM25", "Dense vector embeddings", "Model2Vec (potion-code-16M)", "MCP (Model Context Protocol)"]
+title: sohilladhani/codesynapse
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Rust
+- Tree-sitter
+- Sled (embedded database)
+- BM25
+- Dense vector embeddings
+- Model2Vec (potion-code-16M)
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 10
-tags: ["code intelligence", "knowledge graph", "MCP server", "RAG optimization", "architecture analysis"]
-source: "https://github.com/sohilladhani/codesynapse"
-discovered_at: "2026-07-10T06:53:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code intelligence
+- knowledge graph
+- MCP server
+- RAG optimization
+- architecture analysis
+source: https://github.com/sohilladhani/codesynapse
+discovered_at: '2026-07-10T06:53:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

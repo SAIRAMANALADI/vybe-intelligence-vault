@@ -1,13 +1,23 @@
 ---
-title: "BeluyOff/agorio"
-category: "Tooling"
-tech_stack: ["TypeScript", "Windows GUI", "UCP (Universal Commerce Protocol)", "ACP (Agent Commerce Protocol)", "CLI"]
+title: BeluyOff/agorio
+category: daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Windows GUI
+- UCP (Universal Commerce Protocol)
+- ACP (Agent Commerce Protocol)
+- CLI
 quality_score: 6
 rag_relevance: 5
-tags: ["AI agents", "e-commerce automation", "checkout automation", "commerce protocols", "Windows toolkit"]
-source: "https://github.com/BeluyOff/agorio"
-discovered_at: "2026-06-22T18:55:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- e-commerce automation
+- checkout automation
+- commerce protocols
+- Windows toolkit
+source: https://github.com/BeluyOff/agorio
+discovered_at: '2026-06-22T18:55:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

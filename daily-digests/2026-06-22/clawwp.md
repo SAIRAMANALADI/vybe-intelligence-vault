@@ -1,13 +1,26 @@
 ---
-title: "oops121/clawwp"
-category: "Tooling"
-tech_stack: ["PHP", "Windows Desktop Application", "AI Chat Interface", "WordPress REST API", "Model Context Protocol (MCP)", "Telegram API", "Slack API", "Discord API"]
+title: oops121/clawwp
+category: daily-digests/2026-06-22
+tech_stack:
+- PHP
+- Windows Desktop Application
+- AI Chat Interface
+- WordPress REST API
+- Model Context Protocol (MCP)
+- Telegram API
+- Slack API
+- Discord API
 quality_score: 7
 rag_relevance: 6
-tags: ["WordPress automation", "AI chat agent", "multi-channel management", "SEO optimization", "WooCommerce control"]
-source: "https://github.com/oops121/clawwp"
-discovered_at: "2026-06-22T18:53:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- WordPress automation
+- AI chat agent
+- multi-channel management
+- SEO optimization
+- WooCommerce control
+source: https://github.com/oops121/clawwp
+discovered_at: '2026-06-22T18:53:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

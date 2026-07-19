@@ -1,13 +1,22 @@
 ---
-title: "trizaominah/gamanote"
-category: "Tooling"
-tech_stack: ["Electron", "JavaScript", "React", "Vite"]
+title: trizaominah/gamanote
+category: daily-digests/2026-06-23
+tech_stack:
+- Electron
+- JavaScript
+- React
+- Vite
 quality_score: 7
 rag_relevance: 4
-tags: ["desktop IDE", "note-taking", "code editor", "offline tool", "beginner-friendly"]
-source: "https://github.com/trizaominah/gamanote"
-discovered_at: "2026-06-23T23:04:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- desktop IDE
+- note-taking
+- code editor
+- offline tool
+- beginner-friendly
+source: https://github.com/trizaominah/gamanote
+discovered_at: '2026-06-23T23:04:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

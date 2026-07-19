@@ -1,13 +1,26 @@
 ---
-title: "microsoft/SwiftStreamingMarkdown"
-category: "UI Component"
-tech_stack: ["Swift", "SwiftUI", "Swift Package Manager", "Markdown parsing", "LaTeX rendering", "iOS development", "Async/Await", "Xcode"]
+title: microsoft/SwiftStreamingMarkdown
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Swift
+- SwiftUI
+- Swift Package Manager
+- Markdown parsing
+- LaTeX rendering
+- iOS development
+- Async/Await
+- Xcode
 quality_score: 9
 rag_relevance: 7
-tags: ["Markdown rendering", "streaming UI", "iOS", "LaTeX support", "LLM response display"]
-source: "https://github.com/microsoft/SwiftStreamingMarkdown"
-discovered_at: "2026-06-24T20:45:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Markdown rendering
+- streaming UI
+- iOS
+- LaTeX support
+- LLM response display
+source: https://github.com/microsoft/SwiftStreamingMarkdown
+discovered_at: '2026-06-24T20:45:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

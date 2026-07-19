@@ -1,13 +1,25 @@
 ---
-title: "diky87688973/deepseek-code-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "DeepSeek API", "Edge-TTS", "Flask (or similar web framework)", "HTML/CSS/JavaScript", "GLM-5V (for vision tasks)", "Ngrok (for remote access)"]
+title: diky87688973/deepseek-code-agent
+category: daily-digests/2026-07-17
+tech_stack:
+- Python
+- DeepSeek API
+- Edge-TTS
+- Flask (or similar web framework)
+- HTML/CSS/JavaScript
+- GLM-5V (for vision tasks)
+- Ngrok (for remote access)
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agent", "multi-agent collaboration", "code assistant", "TTS integration", "DeepSeek"]
-source: "https://github.com/diky87688973/deepseek-code-agent"
-discovered_at: "2026-07-16T08:09:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- multi-agent collaboration
+- code assistant
+- TTS integration
+- DeepSeek
+source: https://github.com/diky87688973/deepseek-code-agent
+discovered_at: '2026-07-16T08:09:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "nczz/pi-tasks"
-category: "Tooling"
-tech_stack: ["TypeScript", "Pi Host APIs", "Node.js", "TUI (Terminal User Interface)", "Redux-like state management"]
+title: nczz/pi-tasks
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Pi Host APIs
+- Node.js
+- TUI (Terminal User Interface)
+- Redux-like state management
 quality_score: 9
 rag_relevance: 8
-tags: ["execution contracts", "evidence-gated completion", "atomic decomposition", "compaction-safe resume", "AI agent tooling"]
-source: "https://github.com/nczz/pi-tasks"
-discovered_at: "2026-06-23T13:41:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- execution contracts
+- evidence-gated completion
+- atomic decomposition
+- compaction-safe resume
+- AI agent tooling
+source: https://github.com/nczz/pi-tasks
+discovered_at: '2026-06-23T13:41:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

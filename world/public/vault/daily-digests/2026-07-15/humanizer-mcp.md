@@ -1,13 +1,23 @@
 ---
-title: "nicojan/humanizer-mcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "JSON", "Docker", "TypeScript (for web client)"]
+title: nicojan/humanizer-mcp
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- JSON
+- Docker
+- TypeScript (for web client)
 quality_score: 8
 rag_relevance: 7
-tags: ["natural language processing", "content humanization", "psycholinguistics", "MCP server", "deterministic checks"]
-source: "https://github.com/nicojan/humanizer-mcp"
-discovered_at: "2026-07-14T08:01:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- natural language processing
+- content humanization
+- psycholinguistics
+- MCP server
+- deterministic checks
+source: https://github.com/nicojan/humanizer-mcp
+discovered_at: '2026-07-14T08:01:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

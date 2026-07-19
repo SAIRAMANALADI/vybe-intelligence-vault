@@ -1,13 +1,24 @@
 ---
-title: "danieljustus/symaira-vault"
-category: "Tooling"
-tech_stack: ["Go", "age encryption (X25519 + ChaCha20-Poly1305)", "MCP (Model Context Protocol)", "Git", "OS keyring", "TOTP (Time-based One-Time Password)"]
+title: danieljustus/symaira-vault
+category: daily-digests/2026-07-18
+tech_stack:
+- Go
+- age encryption (X25519 + ChaCha20-Poly1305)
+- MCP (Model Context Protocol)
+- Git
+- OS keyring
+- TOTP (Time-based One-Time Password)
 quality_score: 9
 rag_relevance: 8
-tags: ["password manager", "MCP server", "age encryption", "AI agent integration", "secure secrets management"]
-source: "https://github.com/danieljustus/symaira-vault"
-discovered_at: "2026-07-16T08:10:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- password manager
+- MCP server
+- age encryption
+- AI agent integration
+- secure secrets management
+source: https://github.com/danieljustus/symaira-vault
+discovered_at: '2026-07-16T08:10:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

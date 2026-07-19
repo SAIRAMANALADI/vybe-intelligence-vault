@@ -1,13 +1,23 @@
 ---
-title: "cbe07883/ASI-Redefined"
-category: "Tooling"
-tech_stack: ["Electron", "Python", "C++", "JavaScript", "MIT License"]
+title: cbe07883/ASI-Redefined
+category: daily-digests/2026-06-25
+tech_stack:
+- Electron
+- Python
+- C++
+- JavaScript
+- MIT License
 quality_score: 5
 rag_relevance: 4
-tags: ["ASI evaluation", "behavioral coherence", "memory continuity", "evidence-based classification", "AI safety"]
-source: "https://github.com/cbe07883/ASI-Redefined"
-discovered_at: "2026-06-25T07:23:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- ASI evaluation
+- behavioral coherence
+- memory continuity
+- evidence-based classification
+- AI safety
+source: https://github.com/cbe07883/ASI-Redefined
+discovered_at: '2026-06-25T07:23:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

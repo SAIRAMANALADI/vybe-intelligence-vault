@@ -1,13 +1,28 @@
 ---
-title: "ucsandman/DashClaw"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Next.js", "PostgreSQL", "Node.js", "Python", "Docker", "Vercel", "Neon", "Ed25519", "JWKS"]
+title: ucsandman/DashClaw
+category: daily-digests/2026-07-15
+tech_stack:
+- TypeScript
+- Next.js
+- PostgreSQL
+- Node.js
+- Python
+- Docker
+- Vercel
+- Neon
+- Ed25519
+- JWKS
 quality_score: 9
 rag_relevance: 10
-tags: ["AI agent governance", "destructive action interception", "approval layer", "audit trail", "fail-closed enforcement"]
-source: "https://github.com/ucsandman/DashClaw"
-discovered_at: "2026-07-10T10:52:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent governance
+- destructive action interception
+- approval layer
+- audit trail
+- fail-closed enforcement
+source: https://github.com/ucsandman/DashClaw
+discovered_at: '2026-07-10T10:52:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

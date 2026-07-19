@@ -1,13 +1,28 @@
 ---
-title: "jjang-ai/vmlx"
-category: "Orchestrator"
-tech_stack: ["Python", "MLX", "PyTorch", "Metal", "Electron", "FastAPI", "HuggingFace Transformers", "JANG Quantization", "CUDA (for compatibility)", "mflux (for image generation)"]
+title: jjang-ai/vmlx
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- MLX
+- PyTorch
+- Metal
+- Electron
+- FastAPI
+- HuggingFace Transformers
+- JANG Quantization
+- CUDA (for compatibility)
+- mflux (for image generation)
 quality_score: 9
 rag_relevance: 10
-tags: ["Apple Silicon", "MLX", "Self-hosted LLM", "Distributed Inference", "JANG Quantization"]
-source: "https://github.com/jjang-ai/vmlx"
-discovered_at: "2026-07-09T19:31:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Apple Silicon
+- MLX
+- Self-hosted LLM
+- Distributed Inference
+- JANG Quantization
+source: https://github.com/jjang-ai/vmlx
+discovered_at: '2026-07-09T19:31:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

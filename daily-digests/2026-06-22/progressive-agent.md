@@ -1,13 +1,22 @@
 ---
-title: "Rayan55050/progressive-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Telegram Bot API", "Open-source AI libraries", "Automation scripts"]
+title: Rayan55050/progressive-agent
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- Telegram Bot API
+- Open-source AI libraries
+- Automation scripts
 quality_score: 7
 rag_relevance: 5
-tags: ["Telegram bot", "local AI", "personal assistant", "automation", "privacy-focused"]
-source: "https://github.com/Rayan55050/progressive-agent"
-discovered_at: "2026-06-22T18:47:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Telegram bot
+- local AI
+- personal assistant
+- automation
+- privacy-focused
+source: https://github.com/Rayan55050/progressive-agent
+discovered_at: '2026-06-22T18:47:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

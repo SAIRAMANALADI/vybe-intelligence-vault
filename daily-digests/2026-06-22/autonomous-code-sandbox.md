@@ -1,13 +1,29 @@
 ---
-title: "Alucard1718/autonomous-code-sandbox"
-category: "Orchestrator"
-tech_stack: ["Python", "Docker", "AWS Fargate", "React", "Material UI", "Mermaid.js", "Claude API", "OpenAI API", "Groq API", "YAML", "GitHub Webhooks"]
+title: Alucard1718/autonomous-code-sandbox
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- Docker
+- AWS Fargate
+- React
+- Material UI
+- Mermaid.js
+- Claude API
+- OpenAI API
+- Groq API
+- YAML
+- GitHub Webhooks
 quality_score: 8
 rag_relevance: 9
-tags: ["autonomous code repair", "multi-LLM orchestration", "sandboxed validation", "DevOps automation", "AI-driven pull requests"]
-source: "https://github.com/Alucard1718/autonomous-code-sandbox"
-discovered_at: "2026-06-22T23:20:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous code repair
+- multi-LLM orchestration
+- sandboxed validation
+- DevOps automation
+- AI-driven pull requests
+source: https://github.com/Alucard1718/autonomous-code-sandbox
+discovered_at: '2026-06-22T23:20:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "KryptosAI/mcp-seatbelt"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "JSON-RPC 2.0", "YAML", "npm", "Express.js", "React", "SARIF 2.1.0"]
+title: KryptosAI/mcp-seatbelt
+category: daily-digests/2026-07-15
+tech_stack:
+- TypeScript
+- Node.js
+- JSON-RPC 2.0
+- YAML
+- npm
+- Express.js
+- React
+- SARIF 2.1.0
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP security", "runtime enforcement", "AI agent guardrails", "policy engine", "proxy server"]
-source: "https://github.com/KryptosAI/mcp-seatbelt"
-discovered_at: "2026-07-15T23:02:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP security
+- runtime enforcement
+- AI agent guardrails
+- policy engine
+- proxy server
+source: https://github.com/KryptosAI/mcp-seatbelt
+discovered_at: '2026-07-15T23:02:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

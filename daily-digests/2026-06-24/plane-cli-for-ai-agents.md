@@ -1,13 +1,24 @@
 ---
-title: "bookseal/plane-cli-for-ai-agents"
-category: "Tooling"
-tech_stack: ["Rust", "Shell", "CLI", "API Integration", "k3s", "Ubuntu"]
+title: bookseal/plane-cli-for-ai-agents
+category: daily-digests/2026-06-24
+tech_stack:
+- Rust
+- Shell
+- CLI
+- API Integration
+- k3s
+- Ubuntu
 quality_score: 8
 rag_relevance: 7
-tags: ["CLI for AI agents", "Project management", "Self-hosted tools", "API automation", "Rust CLI"]
-source: "https://github.com/bookseal/plane-cli-for-ai-agents"
-discovered_at: "2026-06-24T22:12:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CLI for AI agents
+- Project management
+- Self-hosted tools
+- API automation
+- Rust CLI
+source: https://github.com/bookseal/plane-cli-for-ai-agents
+discovered_at: '2026-06-24T22:12:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "ilharp/webview-devtools-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "WebView", "DevTools", "JavaScript"]
+title: ilharp/webview-devtools-mcp
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- WebView
+- DevTools
+- JavaScript
 quality_score: 9
 rag_relevance: 8
-tags: ["WebView debugging", "MCP server", "AI agent automation", "DevTools integration", "Web automation"]
-source: "https://github.com/ilharp/webview-devtools-mcp"
-discovered_at: "2026-07-09T17:18:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- WebView debugging
+- MCP server
+- AI agent automation
+- DevTools integration
+- Web automation
+source: https://github.com/ilharp/webview-devtools-mcp
+discovered_at: '2026-07-09T17:18:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

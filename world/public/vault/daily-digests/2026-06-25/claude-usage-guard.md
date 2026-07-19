@@ -1,13 +1,22 @@
 ---
-title: "ecerutti/claude-usage-guard"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "Claude Code CLI"]
+title: ecerutti/claude-usage-guard
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- Claude Code CLI
 quality_score: 8
 rag_relevance: 9
-tags: ["rate limiting", "Claude Code", "MCP server", "orchestration", "workflow management"]
-source: "https://github.com/ecerutti/claude-usage-guard"
-discovered_at: "2026-06-25T07:31:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- rate limiting
+- Claude Code
+- MCP server
+- orchestration
+- workflow management
+source: https://github.com/ecerutti/claude-usage-guard
+discovered_at: '2026-06-25T07:31:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

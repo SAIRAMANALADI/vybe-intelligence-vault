@@ -1,13 +1,24 @@
 ---
-title: "zap-coding-agent/zap-coding-agent"
-category: "Agent Framework"
-tech_stack: ["Rust", "AST (Abstract Syntax Tree)", "LLM API Integration", "Markdown-based Skills System", "Terminal UI", "Token Cost Optimization"]
+title: zap-coding-agent/zap-coding-agent
+category: daily-digests/2026-07-07
+tech_stack:
+- Rust
+- AST (Abstract Syntax Tree)
+- LLM API Integration
+- Markdown-based Skills System
+- Terminal UI
+- Token Cost Optimization
 quality_score: 9
 rag_relevance: 8
-tags: ["AI coding agent", "prompt optimization", "AST indexing", "token efficiency", "local LLM"]
-source: "https://github.com/zap-coding-agent/zap-coding-agent"
-discovered_at: "2026-07-07T13:18:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding agent
+- prompt optimization
+- AST indexing
+- token efficiency
+- local LLM
+source: https://github.com/zap-coding-agent/zap-coding-agent
+discovered_at: '2026-07-07T13:18:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

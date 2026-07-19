@@ -1,13 +1,26 @@
 ---
-title: "Octo-Lex/ChatGPT-Web2API"
-category: "Tooling"
-tech_stack: ["Python", "Selenium", "Chrome DevTools Protocol (CDP)", "FastAPI", "Model Context Protocol (MCP)", "Docker", "Pydantic", "OpenAI SDK"]
+title: Octo-Lex/ChatGPT-Web2API
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- Selenium
+- Chrome DevTools Protocol (CDP)
+- FastAPI
+- Model Context Protocol (MCP)
+- Docker
+- Pydantic
+- OpenAI SDK
 quality_score: 9
 rag_relevance: 8
-tags: ["ChatGPT automation", "OpenAI-compatible API", "MCP server", "browser automation", "AI agent integration"]
-source: "https://github.com/Octo-Lex/ChatGPT-Web2API"
-discovered_at: "2026-06-25T05:01:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- ChatGPT automation
+- OpenAI-compatible API
+- MCP server
+- browser automation
+- AI agent integration
+source: https://github.com/Octo-Lex/ChatGPT-Web2API
+discovered_at: '2026-06-25T05:01:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

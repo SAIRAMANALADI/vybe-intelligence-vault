@@ -1,13 +1,37 @@
 ---
-title: "gede-cahya/Smara-CLI"
-category: "Agent Framework"
-tech_stack: ["Go", "TUI (Terminal User Interface)", "MCP (Model Context Protocol)", "SQLite", "Turso/libSQL", "React Flow", "Ollama", "Anthropic", "OpenAI", "OpenRouter", "Telegram API", "Discord API", "WhatsApp API", "SFTP/SCP", "SSH", "Tesseract OCR", "Neo4j", "JSON Lines", "Cron Scheduler"]
+title: gede-cahya/Smara-CLI
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Go
+- TUI (Terminal User Interface)
+- MCP (Model Context Protocol)
+- SQLite
+- Turso/libSQL
+- React Flow
+- Ollama
+- Anthropic
+- OpenAI
+- OpenRouter
+- Telegram API
+- Discord API
+- WhatsApp API
+- SFTP/SCP
+- SSH
+- Tesseract OCR
+- Neo4j
+- JSON Lines
+- Cron Scheduler
 quality_score: 9
 rag_relevance: 8
-tags: ["Multi-Agent Systems", "Memory Management", "MCP Integration", "Terminal UI", "Autonomous Agents"]
-source: "https://github.com/gede-cahya/Smara-CLI"
-discovered_at: "2026-06-24T18:50:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Multi-Agent Systems
+- Memory Management
+- MCP Integration
+- Terminal UI
+- Autonomous Agents
+source: https://github.com/gede-cahya/Smara-CLI
+discovered_at: '2026-06-24T18:50:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

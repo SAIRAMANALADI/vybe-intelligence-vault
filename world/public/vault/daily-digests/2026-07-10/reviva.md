@@ -1,13 +1,26 @@
 ---
-title: "mingchen666/Reviva"
-category: "Tooling"
-tech_stack: ["Electron", "Vue.js", "SQLite", "JavaScript/TypeScript", "Vite", "OpenAI-compatible APIs", "MCP (Model Context Protocol)", "Markdown"]
+title: mingchen666/Reviva
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- Electron
+- Vue.js
+- SQLite
+- JavaScript/TypeScript
+- Vite
+- OpenAI-compatible APIs
+- MCP (Model Context Protocol)
+- Markdown
 quality_score: 9
 rag_relevance: 8
-tags: ["local-first", "AI Agents", "knowledge management", "RAG", "desktop application"]
-source: "https://github.com/mingchen666/Reviva"
-discovered_at: "2026-07-10T02:26:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first
+- AI Agents
+- knowledge management
+- RAG
+- desktop application
+source: https://github.com/mingchen666/Reviva
+discovered_at: '2026-07-10T02:26:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

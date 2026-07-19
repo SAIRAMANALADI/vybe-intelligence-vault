@@ -1,13 +1,25 @@
 ---
-title: "karmaniverous/jeeves-meta"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Fastify", "Node.js", "LLM", "OpenClaw", "Croner", "NSSM/systemd/launchd"]
+title: karmaniverous/jeeves-meta
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Fastify
+- Node.js
+- LLM
+- OpenClaw
+- Croner
+- NSSM/systemd/launchd
 quality_score: 9
 rag_relevance: 9
-tags: ["knowledge synthesis", "LLM pipeline", "self-improving feedback loops", "heterarchical mesh", "agent tooling"]
-source: "https://github.com/karmaniverous/jeeves-meta"
-discovered_at: "2026-06-25T07:26:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- knowledge synthesis
+- LLM pipeline
+- self-improving feedback loops
+- heterarchical mesh
+- agent tooling
+source: https://github.com/karmaniverous/jeeves-meta
+discovered_at: '2026-06-25T07:26:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

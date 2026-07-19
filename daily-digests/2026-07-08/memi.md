@@ -1,13 +1,28 @@
 ---
-title: "sarveshsea/memi"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Tailwind CSS", "shadcn/ui", "React", "Figma API", "MCP (Model Context Protocol)", "SARIF", "GitHub Actions", "CLI tools"]
+title: sarveshsea/memi
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- Tailwind CSS
+- shadcn/ui
+- React
+- Figma API
+- MCP (Model Context Protocol)
+- SARIF
+- GitHub Actions
+- CLI tools
 quality_score: 9
 rag_relevance: 10
-tags: ["design-system memory", "AI agent tooling", "UX auditing", "shadcn integration", "deterministic evaluation"]
-source: "https://github.com/sarveshsea/memi"
-discovered_at: "2026-07-08T22:14:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- design-system memory
+- AI agent tooling
+- UX auditing
+- shadcn integration
+- deterministic evaluation
+source: https://github.com/sarveshsea/memi
+discovered_at: '2026-07-08T22:14:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "humanspeak/svelte-markdown"
-category: "UI Component"
-tech_stack: ["Svelte", "TypeScript", "Marked", "HTMLParser2", "Vitest", "Playwright", "Node.js"]
+title: humanspeak/svelte-markdown
+category: daily-digests/2026-07-07
+tech_stack:
+- Svelte
+- TypeScript
+- Marked
+- HTMLParser2
+- Vitest
+- Playwright
+- Node.js
 quality_score: 9
 rag_relevance: 8
-tags: ["markdown renderer", "AI agent output", "Svelte 5", "XSS protection", "streaming"]
-source: "https://github.com/humanspeak/svelte-markdown"
-discovered_at: "2026-07-07T16:25:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- markdown renderer
+- AI agent output
+- Svelte 5
+- XSS protection
+- streaming
+source: https://github.com/humanspeak/svelte-markdown
+discovered_at: '2026-07-07T16:25:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

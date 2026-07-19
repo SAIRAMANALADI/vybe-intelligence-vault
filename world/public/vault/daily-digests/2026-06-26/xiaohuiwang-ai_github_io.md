@@ -1,13 +1,22 @@
 ---
-title: "xiaohuiwang-ai/xiaohuiwang-ai.github.io"
-category: "Agent Framework"
-tech_stack: ["HTML", "JavaScript", "Claude Agent SDK", "Static Site Generator"]
+title: xiaohuiwang-ai/xiaohuiwang-ai.github.io
+category: world/public/vault/daily-digests/2026-06-26
+tech_stack:
+- HTML
+- JavaScript
+- Claude Agent SDK
+- Static Site Generator
 quality_score: 4
 rag_relevance: 5
-tags: ["AI Agent Builder", "Network Architecture", "Harness", "Static Site", "Claude SDK"]
-source: "https://github.com/xiaohuiwang-ai/xiaohuiwang-ai.github.io"
-discovered_at: "2026-06-26T16:13:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent Builder
+- Network Architecture
+- Harness
+- Static Site
+- Claude SDK
+source: https://github.com/xiaohuiwang-ai/xiaohuiwang-ai.github.io
+discovered_at: '2026-06-26T16:13:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

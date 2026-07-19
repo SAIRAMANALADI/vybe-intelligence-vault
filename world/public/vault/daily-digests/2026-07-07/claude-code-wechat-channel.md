@@ -1,13 +1,23 @@
 ---
-title: "Antoninabated443/claude-code-wechat-channel"
-category: "Tooling"
-tech_stack: ["TypeScript", "Windows API", "ClawBot ilink API", "Claude Code", "WeChat"]
+title: Antoninabated443/claude-code-wechat-channel
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Windows API
+- ClawBot ilink API
+- Claude Code
+- WeChat
 quality_score: 5
 rag_relevance: 4
-tags: ["WeChat integration", "Claude Code plugin", "real-time messaging", "Windows bridge", "API connector"]
-source: "https://github.com/Antoninabated443/claude-code-wechat-channel"
-discovered_at: "2026-07-07T23:54:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- WeChat integration
+- Claude Code plugin
+- real-time messaging
+- Windows bridge
+- API connector
+source: https://github.com/Antoninabated443/claude-code-wechat-channel
+discovered_at: '2026-07-07T23:54:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

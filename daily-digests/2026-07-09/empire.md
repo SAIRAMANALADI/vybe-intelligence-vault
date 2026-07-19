@@ -1,13 +1,33 @@
 ---
-title: "JondriDev/empire"
-category: "UI Component"
-tech_stack: ["React 19", "TypeScript 5.6", "Vite 5", "Tailwind CSS 4", "React Router 7", "Zustand 5", "Express 5", "WebSocket", "Capacitor 8", "pdfjs-dist 6", "epubjs", "mammoth", "Leaflet 1.9", "Lucide Icons", "Workbox (PWA)"]
+title: JondriDev/empire
+category: daily-digests/2026-07-09
+tech_stack:
+- React 19
+- TypeScript 5.6
+- Vite 5
+- Tailwind CSS 4
+- React Router 7
+- Zustand 5
+- Express 5
+- WebSocket
+- Capacitor 8
+- pdfjs-dist 6
+- epubjs
+- mammoth
+- Leaflet 1.9
+- Lucide Icons
+- Workbox (PWA)
 quality_score: 9
 rag_relevance: 5
-tags: ["offline-first", "PWA", "AI agent integration", "local-first persistence", "modular architecture"]
-source: "https://github.com/JondriDev/empire"
-discovered_at: "2026-07-09T21:18:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- offline-first
+- PWA
+- AI agent integration
+- local-first persistence
+- modular architecture
+source: https://github.com/JondriDev/empire
+discovered_at: '2026-07-09T21:18:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

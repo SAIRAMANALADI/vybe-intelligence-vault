@@ -1,13 +1,23 @@
 ---
-title: "RyanAlberts/best-of-Agent-Harnesses"
-category: "Orchestrator"
-tech_stack: ["Python", "Markdown", "JSON", "MCP (Model Context Protocol)", "GitHub Actions"]
+title: RyanAlberts/best-of-Agent-Harnesses
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- Markdown
+- JSON
+- MCP (Model Context Protocol)
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["agent harnesses", "orchestration", "curated list", "AI frameworks", "production-grade agents"]
-source: "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
-discovered_at: "2026-06-22T18:52:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent harnesses
+- orchestration
+- curated list
+- AI frameworks
+- production-grade agents
+source: https://github.com/RyanAlberts/best-of-Agent-Harnesses
+discovered_at: '2026-06-22T18:52:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

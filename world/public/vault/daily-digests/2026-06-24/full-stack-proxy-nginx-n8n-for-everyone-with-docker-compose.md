@@ -1,13 +1,24 @@
 ---
-title: "lingga1997/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose"
-category: "Tooling"
-tech_stack: ["Docker", "Docker Compose", "NGINX", "n8n", "Shell", "SSL/TLS"]
+title: lingga1997/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Docker
+- Docker Compose
+- NGINX
+- n8n
+- Shell
+- SSL/TLS
 quality_score: 5
 rag_relevance: 6
-tags: ["workflow automation", "self-hosted", "docker-compose", "n8n", "nginx proxy"]
-source: "https://github.com/lingga1997/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose"
-discovered_at: "2026-06-24T13:21:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- workflow automation
+- self-hosted
+- docker-compose
+- n8n
+- nginx proxy
+source: https://github.com/lingga1997/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose
+discovered_at: '2026-06-24T13:21:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

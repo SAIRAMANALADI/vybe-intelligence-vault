@@ -1,13 +1,28 @@
 ---
-title: "smaniches/alphafold-sovereign-mcp"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "SQLite", "AlphaFold DB API", "Pydantic", "Gudhi (for TDA)", "FastAPI", "CI/CD (GitHub Actions)", "PyPI", "Zenodo"]
+title: smaniches/alphafold-sovereign-mcp
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- SQLite
+- AlphaFold DB API
+- Pydantic
+- Gudhi (for TDA)
+- FastAPI
+- CI/CD (GitHub Actions)
+- PyPI
+- Zenodo
 quality_score: 9
 rag_relevance: 8
-tags: ["biomedical", "structural biology", "variant analysis", "knowledge graph", "offline-first"]
-source: "https://github.com/smaniches/alphafold-sovereign-mcp"
-discovered_at: "2026-06-23T19:14:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- biomedical
+- structural biology
+- variant analysis
+- knowledge graph
+- offline-first
+source: https://github.com/smaniches/alphafold-sovereign-mcp
+discovered_at: '2026-06-23T19:14:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

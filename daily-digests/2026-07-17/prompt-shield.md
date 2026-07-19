@@ -1,13 +1,23 @@
 ---
-title: "ShaggyT0701/prompt-shield"
-category: "Tooling"
-tech_stack: ["Python", "Vector Similarity", "Machine Learning", "Desktop Application", "Community Threat Intelligence"]
+title: ShaggyT0701/prompt-shield
+category: daily-digests/2026-07-17
+tech_stack:
+- Python
+- Vector Similarity
+- Machine Learning
+- Desktop Application
+- Community Threat Intelligence
 quality_score: 7
 rag_relevance: 8
-tags: ["AI Security", "Prompt Injection", "Threat Detection", "Self-Learning", "Agent Protection"]
-source: "https://github.com/ShaggyT0701/prompt-shield"
-discovered_at: "2026-07-17T02:51:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Security
+- Prompt Injection
+- Threat Detection
+- Self-Learning
+- Agent Protection
+source: https://github.com/ShaggyT0701/prompt-shield
+discovered_at: '2026-07-17T02:51:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

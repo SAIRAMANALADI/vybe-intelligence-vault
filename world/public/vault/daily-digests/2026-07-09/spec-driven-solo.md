@@ -1,13 +1,26 @@
 ---
-title: "soyona/spec-driven-solo"
-category: "Tooling"
-tech_stack: ["Shell", "TypeScript", "React", "Markdown", "Git", "AI Agents (ChatGPT Plus, Codex, Cline)", "JSON Schema", "Mermaid"]
+title: soyona/spec-driven-solo
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Shell
+- TypeScript
+- React
+- Markdown
+- Git
+- AI Agents (ChatGPT Plus, Codex, Cline)
+- JSON Schema
+- Mermaid
 quality_score: 9
 rag_relevance: 8
-tags: ["AI engineering", "deterministic development", "agent constraints", "solo development", "software engineering"]
-source: "https://github.com/soyona/spec-driven-solo"
-discovered_at: "2026-07-09T08:25:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI engineering
+- deterministic development
+- agent constraints
+- solo development
+- software engineering
+source: https://github.com/soyona/spec-driven-solo
+discovered_at: '2026-07-09T08:25:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

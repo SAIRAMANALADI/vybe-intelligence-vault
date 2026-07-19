@@ -1,13 +1,26 @@
 ---
-title: "yannn14/opencode-claude-cortex-sync"
-category: "Orchestrator"
-tech_stack: ["Python", "Node.js", "YAML", "AES-256-GCM", "TPM/Secure Enclave", "OpenCode CLI", "REST APIs", "Hardware Security Modules"]
+title: yannn14/opencode-claude-cortex-sync
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Node.js
+- YAML
+- AES-256-GCM
+- TPM/Secure Enclave
+- OpenCode CLI
+- REST APIs
+- Hardware Security Modules
 quality_score: 9
 rag_relevance: 9
-tags: ["AI provider switching", "multi-model routing", "zero-configuration", "credential vault", "cost optimization"]
-source: "https://github.com/yannn14/opencode-claude-cortex-sync"
-discovered_at: "2026-06-24T16:20:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI provider switching
+- multi-model routing
+- zero-configuration
+- credential vault
+- cost optimization
+source: https://github.com/yannn14/opencode-claude-cortex-sync
+discovered_at: '2026-06-24T16:20:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "laolaoshiren/ai-hot"
-category: "Tooling"
-tech_stack: ["Python", "Web Scraping", "Data Aggregation", "Markdown", "Static Site Generation", "API Integration"]
+title: laolaoshiren/ai-hot
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Web Scraping
+- Data Aggregation
+- Markdown
+- Static Site Generation
+- API Integration
 quality_score: 8
 rag_relevance: 7
-tags: ["AI Aggregator", "Chinese AI Resources", "Tool Navigation", "Model Ranking", "Agent Directory"]
-source: "https://github.com/laolaoshiren/ai-hot"
-discovered_at: "2026-06-24T02:44:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Aggregator
+- Chinese AI Resources
+- Tool Navigation
+- Model Ranking
+- Agent Directory
+source: https://github.com/laolaoshiren/ai-hot
+discovered_at: '2026-06-24T02:44:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

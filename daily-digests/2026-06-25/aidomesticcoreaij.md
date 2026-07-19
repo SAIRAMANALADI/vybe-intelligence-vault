@@ -1,13 +1,22 @@
 ---
-title: "Kirkigmenezes/AIDomesticCoreAIJ"
-category: "Agent Framework"
-tech_stack: ["Python", "AI Agents", "Multi-Model Orchestration", "Workflow Automation"]
+title: Kirkigmenezes/AIDomesticCoreAIJ
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- AI Agents
+- Multi-Model Orchestration
+- Workflow Automation
 quality_score: 5
 rag_relevance: 4
-tags: ["AI Agents", "Automation", "Multi-Model Integration", "User-Friendly", "Sovereign AI"]
-source: "https://github.com/Kirkigmenezes/AIDomesticCoreAIJ"
-discovered_at: "2026-06-25T05:00:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agents
+- Automation
+- Multi-Model Integration
+- User-Friendly
+- Sovereign AI
+source: https://github.com/Kirkigmenezes/AIDomesticCoreAIJ
+discovered_at: '2026-06-25T05:00:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

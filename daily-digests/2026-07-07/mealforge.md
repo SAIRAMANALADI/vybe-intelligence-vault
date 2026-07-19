@@ -1,13 +1,30 @@
 ---
-title: "LooseWireDev/mealforge"
-category: "Tooling"
-tech_stack: ["TypeScript", "React", "Node.js", "Hono", "tRPC", "Drizzle ORM", "SQLite", "Docker", "MCP (Model Context Protocol)", "Tailwind CSS", "Vite", "Playwright"]
+title: LooseWireDev/mealforge
+category: daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- React
+- Node.js
+- Hono
+- tRPC
+- Drizzle ORM
+- SQLite
+- Docker
+- MCP (Model Context Protocol)
+- Tailwind CSS
+- Vite
+- Playwright
 quality_score: 9
 rag_relevance: 7
-tags: ["meal planning", "AI-driven recipes", "self-hosted", "MCP integration", "grocery list generation"]
-source: "https://github.com/LooseWireDev/mealforge"
-discovered_at: "2026-07-07T18:59:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- meal planning
+- AI-driven recipes
+- self-hosted
+- MCP integration
+- grocery list generation
+source: https://github.com/LooseWireDev/mealforge
+discovered_at: '2026-07-07T18:59:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

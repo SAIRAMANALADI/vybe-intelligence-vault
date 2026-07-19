@@ -1,13 +1,22 @@
 ---
-title: "Jok98/kiroku-forge"
-category: "Tooling"
-tech_stack: ["Python", "Markdown", "Agent Skills", "CLI Tools"]
+title: Jok98/kiroku-forge
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- Python
+- Markdown
+- Agent Skills
+- CLI Tools
 quality_score: 9
 rag_relevance: 8
-tags: ["project memory", "agent context", "Markdown hub", "workstream tracking", "context preservation"]
-source: "https://github.com/Jok98/kiroku-forge"
-discovered_at: "2026-07-13T21:55:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- project memory
+- agent context
+- Markdown hub
+- workstream tracking
+- context preservation
+source: https://github.com/Jok98/kiroku-forge
+discovered_at: '2026-07-13T21:55:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

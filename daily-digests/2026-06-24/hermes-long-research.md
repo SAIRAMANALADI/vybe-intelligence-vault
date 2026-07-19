@@ -1,13 +1,23 @@
 ---
-title: "Kaushal-Panchal/hermes-long-research"
-category: "Agent Framework"
-tech_stack: ["Python", "Hermes Agent", "LLM with web search capabilities", "Cron scheduler", "Markdown for state management"]
+title: Kaushal-Panchal/hermes-long-research
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Hermes Agent
+- LLM with web search capabilities
+- Cron scheduler
+- Markdown for state management
 quality_score: 8
 rag_relevance: 7
-tags: ["time-boxed research", "self-improving", "cited reports", "Hermes Agent", "automated research"]
-source: "https://github.com/Kaushal-Panchal/hermes-long-research"
-discovered_at: "2026-06-24T18:49:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- time-boxed research
+- self-improving
+- cited reports
+- Hermes Agent
+- automated research
+source: https://github.com/Kaushal-Panchal/hermes-long-research
+discovered_at: '2026-06-24T18:49:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

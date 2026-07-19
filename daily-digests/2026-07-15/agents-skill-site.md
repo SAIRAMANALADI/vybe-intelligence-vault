@@ -1,13 +1,26 @@
 ---
-title: "ZhangHalfGod/Agents-Skill-Site"
-category: "Orchestrator"
-tech_stack: ["VitePress", "JavaScript", "Node.js", "MCP (Model Context Protocol)", "Git", "Nginx", "PM2", "Express"]
+title: ZhangHalfGod/Agents-Skill-Site
+category: daily-digests/2026-07-15
+tech_stack:
+- VitePress
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- Git
+- Nginx
+- PM2
+- Express
 quality_score: 9
 rag_relevance: 8
-tags: ["AI governance", "MCP integration", "role definitions", "skill catalog", "team collaboration"]
-source: "https://github.com/ZhangHalfGod/Agents-Skill-Site"
-discovered_at: "2026-07-14T14:48:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI governance
+- MCP integration
+- role definitions
+- skill catalog
+- team collaboration
+source: https://github.com/ZhangHalfGod/Agents-Skill-Site
+discovered_at: '2026-07-14T14:48:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

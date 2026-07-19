@@ -1,13 +1,23 @@
 ---
-title: "Birdieflemishspeaking787/MCP_Detailed_With_Projects"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Windows Terminal", "Command Line", "Node.js (optional)"]
+title: Birdieflemishspeaking787/MCP_Detailed_With_Projects
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Windows Terminal
+- Command Line
+- Node.js (optional)
 quality_score: 6
 rag_relevance: 7
-tags: ["MCP", "AI agents", "learning projects", "protocol integration", "Windows development"]
-source: "https://github.com/Birdieflemishspeaking787/MCP_Detailed_With_Projects"
-discovered_at: "2026-07-07T06:43:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- AI agents
+- learning projects
+- protocol integration
+- Windows development
+source: https://github.com/Birdieflemishspeaking787/MCP_Detailed_With_Projects
+discovered_at: '2026-07-07T06:43:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

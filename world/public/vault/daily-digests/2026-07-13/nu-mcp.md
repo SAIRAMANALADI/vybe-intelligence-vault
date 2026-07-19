@@ -1,13 +1,26 @@
 ---
-title: "ck3mp3r/nu-mcp"
-category: "Orchestrator"
-tech_stack: ["Rust", "Nushell", "Model Context Protocol (MCP)", "Nix", "Homebrew", "Async Rust", "PTY (Pseudo Terminal)", "Sandboxing"]
+title: ck3mp3r/nu-mcp
+category: world/public/vault/daily-digests/2026-07-13
+tech_stack:
+- Rust
+- Nushell
+- Model Context Protocol (MCP)
+- Nix
+- Homebrew
+- Async Rust
+- PTY (Pseudo Terminal)
+- Sandboxing
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Nushell integration", "persistent shell", "AI tooling", "modular tools"]
-source: "https://github.com/ck3mp3r/nu-mcp"
-discovered_at: "2026-07-12T02:33:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Nushell integration
+- persistent shell
+- AI tooling
+- modular tools
+source: https://github.com/ck3mp3r/nu-mcp
+discovered_at: '2026-07-12T02:33:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

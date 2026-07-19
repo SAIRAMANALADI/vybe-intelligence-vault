@@ -1,13 +1,23 @@
 ---
-title: "dream-num/skills"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "CLI", "Univer Framework", "Spreadsheet Engine"]
+title: dream-num/skills
+category: world/public/vault/daily-digests/2026-07-12
+tech_stack:
+- JavaScript
+- Node.js
+- CLI
+- Univer Framework
+- Spreadsheet Engine
 quality_score: 8
 rag_relevance: 7
-tags: ["spreadsheet automation", "workbook inspection", "AI tool integration", "Excel compatibility", "structured migration"]
-source: "https://github.com/dream-num/skills"
-discovered_at: "2026-07-11T02:27:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- spreadsheet automation
+- workbook inspection
+- AI tool integration
+- Excel compatibility
+- structured migration
+source: https://github.com/dream-num/skills
+discovered_at: '2026-07-11T02:27:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

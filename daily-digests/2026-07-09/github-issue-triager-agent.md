@@ -1,13 +1,32 @@
 ---
-title: "Rimlee01/github-issue-triager-agent"
-category: "Agent Framework"
-tech_stack: ["LangGraph", "LangChain", "Groq", "ChromaDB", "FastAPI", "PostgreSQL", "Redis", "Celery", "React", "Vite", "Docker", "Kubernetes", "Python", "JavaScript"]
+title: Rimlee01/github-issue-triager-agent
+category: daily-digests/2026-07-09
+tech_stack:
+- LangGraph
+- LangChain
+- Groq
+- ChromaDB
+- FastAPI
+- PostgreSQL
+- Redis
+- Celery
+- React
+- Vite
+- Docker
+- Kubernetes
+- Python
+- JavaScript
 quality_score: 9
 rag_relevance: 10
-tags: ["AI agent", "GitHub automation", "RAG", "issue triaging", "LangGraph"]
-source: "https://github.com/Rimlee01/github-issue-triager-agent"
-discovered_at: "2026-07-09T11:52:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- GitHub automation
+- RAG
+- issue triaging
+- LangGraph
+source: https://github.com/Rimlee01/github-issue-triager-agent
+discovered_at: '2026-07-09T11:52:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

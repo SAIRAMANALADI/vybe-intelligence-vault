@@ -1,13 +1,25 @@
 ---
-title: "fredxyt/cyber-sakyamuni"
-category: "Agent Framework"
-tech_stack: ["Python", "Neo4j", "Git", "LLM (Large Language Model)", "Embedding Models", "Cron Jobs", "Environment Variables"]
+title: fredxyt/cyber-sakyamuni
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Neo4j
+- Git
+- LLM (Large Language Model)
+- Embedding Models
+- Cron Jobs
+- Environment Variables
 quality_score: 8
 rag_relevance: 7
-tags: ["autonomous AI", "self-reflection", "Buddhist philosophy", "auditable growth", "continuous learning"]
-source: "https://github.com/fredxyt/cyber-sakyamuni"
-discovered_at: "2026-06-23T02:48:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous AI
+- self-reflection
+- Buddhist philosophy
+- auditable growth
+- continuous learning
+source: https://github.com/fredxyt/cyber-sakyamuni
+discovered_at: '2026-06-23T02:48:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

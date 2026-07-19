@@ -1,13 +1,25 @@
 ---
-title: "LysaJPDataLab/first-workflow-with-n8n"
-category: "Orchestrator"
-tech_stack: ["n8n", "Cohere", "RAG (Retrieval-Augmented Generation)", "MySQL", "Telegram Bot API", "Simple Vector Store", "Railway"]
+title: LysaJPDataLab/first-workflow-with-n8n
+category: daily-digests/2026-06-23
+tech_stack:
+- n8n
+- Cohere
+- RAG (Retrieval-Augmented Generation)
+- MySQL
+- Telegram Bot API
+- Simple Vector Store
+- Railway
 quality_score: 7
 rag_relevance: 9
-tags: ["RAG", "workflow automation", "industrial maintenance", "conversational AI", "documentation retrieval"]
-source: "https://github.com/LysaJPDataLab/first-workflow-with-n8n"
-discovered_at: "2026-06-23T02:45:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RAG
+- workflow automation
+- industrial maintenance
+- conversational AI
+- documentation retrieval
+source: https://github.com/LysaJPDataLab/first-workflow-with-n8n
+discovered_at: '2026-06-23T02:45:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

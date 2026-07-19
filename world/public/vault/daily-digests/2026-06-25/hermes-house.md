@@ -1,13 +1,26 @@
 ---
-title: "clowlove/Hermes-House"
-category: "Agent Framework"
-tech_stack: ["Python", "Multi-Agent Systems", "GitHub API", "Telegram Bot API", "Machine Learning", "Automation Frameworks", "Memory Systems", "Trend Analysis"]
+title: clowlove/Hermes-House
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- Multi-Agent Systems
+- GitHub API
+- Telegram Bot API
+- Machine Learning
+- Automation Frameworks
+- Memory Systems
+- Trend Analysis
 quality_score: 9
 rag_relevance: 7
-tags: ["self-evolving AI", "multi-agent system", "autonomous learning", "skill automation", "trend monitoring"]
-source: "https://github.com/clowlove/Hermes-House"
-discovered_at: "2026-06-25T14:16:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-evolving AI
+- multi-agent system
+- autonomous learning
+- skill automation
+- trend monitoring
+source: https://github.com/clowlove/Hermes-House
+discovered_at: '2026-06-25T14:16:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

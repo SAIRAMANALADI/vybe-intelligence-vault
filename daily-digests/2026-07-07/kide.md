@@ -1,13 +1,31 @@
 ---
-title: "Fuusio/kide"
-category: "Agent Framework"
-tech_stack: ["Kotlin", "Kotlin Multiplatform (KMP)", "Compose Multiplatform", "Navigation 3", "Clean Architecture", "Model Context Protocol (MCP)", "Koin", "Decompose", "Voyager", "Coroutines", "Kotlinx Serialization", "Turbine", "Gradle"]
+title: Fuusio/kide
+category: daily-digests/2026-07-07
+tech_stack:
+- Kotlin
+- Kotlin Multiplatform (KMP)
+- Compose Multiplatform
+- Navigation 3
+- Clean Architecture
+- Model Context Protocol (MCP)
+- Koin
+- Decompose
+- Voyager
+- Coroutines
+- Kotlinx Serialization
+- Turbine
+- Gradle
 quality_score: 9
 rag_relevance: 10
-tags: ["MVI Architecture", "Kotlin Multiplatform", "AI-Assisted Development", "Clean Architecture", "Debugging Tools"]
-source: "https://github.com/Fuusio/kide"
-discovered_at: "2026-07-07T13:16:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MVI Architecture
+- Kotlin Multiplatform
+- AI-Assisted Development
+- Clean Architecture
+- Debugging Tools
+source: https://github.com/Fuusio/kide
+discovered_at: '2026-07-07T13:16:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

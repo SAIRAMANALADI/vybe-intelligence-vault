@@ -1,13 +1,27 @@
 ---
-title: "mage0535/hermes-memory-installer"
-category: "Tooling"
-tech_stack: ["Python", "PostgreSQL", "gbrain", "Hindsight", "Shell Scripting", "Markdown", "Embedding Models", "Prometheus", "Grafana"]
+title: mage0535/hermes-memory-installer
+category: daily-digests/2026-07-12
+tech_stack:
+- Python
+- PostgreSQL
+- gbrain
+- Hindsight
+- Shell Scripting
+- Markdown
+- Embedding Models
+- Prometheus
+- Grafana
 quality_score: 9
 rag_relevance: 9
-tags: ["memory sidecar", "long-term recall", "agent integration", "knowledge management", "observability"]
-source: "https://github.com/mage0535/hermes-memory-installer"
-discovered_at: "2026-07-12T13:36:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory sidecar
+- long-term recall
+- agent integration
+- knowledge management
+- observability
+source: https://github.com/mage0535/hermes-memory-installer
+discovered_at: '2026-07-12T13:36:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

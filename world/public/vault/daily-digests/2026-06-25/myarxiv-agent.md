@@ -1,13 +1,27 @@
 ---
-title: "neflibata-feng/MyArxiv-Agent"
-category: "Tooling"
-tech_stack: ["Python", "arXiv API", "GitHub Actions", "YAML", "Markdown", "OpenAlex", "BibTeX", "Mermaid", "LaTeX"]
+title: neflibata-feng/MyArxiv-Agent
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- arXiv API
+- GitHub Actions
+- YAML
+- Markdown
+- OpenAlex
+- BibTeX
+- Mermaid
+- LaTeX
 quality_score: 8
 rag_relevance: 7
-tags: ["paper management", "automated workflow", "AI research", "literature review", "agent framework"]
-source: "https://github.com/neflibata-feng/MyArxiv-Agent"
-discovered_at: "2026-06-25T05:05:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- paper management
+- automated workflow
+- AI research
+- literature review
+- agent framework
+source: https://github.com/neflibata-feng/MyArxiv-Agent
+discovered_at: '2026-06-25T05:05:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

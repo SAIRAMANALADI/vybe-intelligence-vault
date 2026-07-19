@@ -1,13 +1,29 @@
 ---
-title: "hrygo/hotplex"
-category: "Orchestrator"
-tech_stack: ["Go", "WebSocket", "SQLite", "PostgreSQL", "Next.js", "TypeScript", "Python", "Java", "Prometheus", "OpenTelemetry", "Docker"]
+title: hrygo/hotplex
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- Go
+- WebSocket
+- SQLite
+- PostgreSQL
+- Next.js
+- TypeScript
+- Python
+- Java
+- Prometheus
+- OpenTelemetry
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["AI gateway", "multi-platform", "agent orchestration", "WebSocket protocol", "session management"]
-source: "https://github.com/hrygo/hotplex"
-discovered_at: "2026-07-13T22:55:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI gateway
+- multi-platform
+- agent orchestration
+- WebSocket protocol
+- session management
+source: https://github.com/hrygo/hotplex
+discovered_at: '2026-07-13T22:55:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

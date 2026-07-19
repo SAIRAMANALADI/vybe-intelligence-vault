@@ -1,13 +1,25 @@
 ---
-title: "enginerd-kr/chronis"
-category: "Orchestrator"
-tech_stack: ["Python", "Asyncio", "PostgreSQL", "Redis", "SQLite", "IANA Timezones", "Exponential Backoff"]
+title: enginerd-kr/chronis
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- Python
+- Asyncio
+- PostgreSQL
+- Redis
+- SQLite
+- IANA Timezones
+- Exponential Backoff
 quality_score: 9
 rag_relevance: 8
-tags: ["scheduling", "AI agents", "distributed systems", "LLM workflows", "timezone-aware"]
-source: "https://github.com/enginerd-kr/chronis"
-discovered_at: "2026-07-12T11:58:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- scheduling
+- AI agents
+- distributed systems
+- LLM workflows
+- timezone-aware
+source: https://github.com/enginerd-kr/chronis
+discovered_at: '2026-07-12T11:58:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

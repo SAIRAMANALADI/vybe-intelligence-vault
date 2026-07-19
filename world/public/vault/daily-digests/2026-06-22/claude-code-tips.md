@@ -1,13 +1,22 @@
 ---
-title: "habibbedawi/claude-code-tips"
-category: "Tooling"
-tech_stack: ["Batch Script", "Python", "Windows OS", "Command Line Interface"]
+title: habibbedawi/claude-code-tips
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Batch Script
+- Python
+- Windows OS
+- Command Line Interface
 quality_score: 7
 rag_relevance: 4
-tags: ["Claude Code", "Productivity Tools", "Windows Automation", "Plugin Guide", "Beginner-Friendly"]
-source: "https://github.com/habibbedawi/claude-code-tips"
-discovered_at: "2026-06-22T18:47:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- Productivity Tools
+- Windows Automation
+- Plugin Guide
+- Beginner-Friendly
+source: https://github.com/habibbedawi/claude-code-tips
+discovered_at: '2026-06-22T18:47:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

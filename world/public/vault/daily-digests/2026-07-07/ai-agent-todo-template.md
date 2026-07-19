@@ -1,13 +1,23 @@
 ---
-title: "Flat-enophile546/ai-agent-todo-template"
-category: "Agent Framework"
-tech_stack: ["Next.js", "LangGraph", "Ollama", "TypeScript", "AI Agents"]
+title: Flat-enophile546/ai-agent-todo-template
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Next.js
+- LangGraph
+- Ollama
+- TypeScript
+- AI Agents
 quality_score: 5
 rag_relevance: 7
-tags: ["AI agents", "task management", "stateful workflows", "Next.js", "LangGraph"]
-source: "https://github.com/Flat-enophile546/ai-agent-todo-template"
-discovered_at: "2026-07-07T18:59:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- task management
+- stateful workflows
+- Next.js
+- LangGraph
+source: https://github.com/Flat-enophile546/ai-agent-todo-template
+discovered_at: '2026-07-07T18:59:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

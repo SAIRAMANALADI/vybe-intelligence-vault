@@ -1,13 +1,29 @@
 ---
-title: "memorycrystal/memorycrystal"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Convex", "MCP (Model Context Protocol)", "Node.js", "React", "Next.js", "Docker", "Gemini API", "BM25", "Vector Search", "Graph Databases"]
+title: memorycrystal/memorycrystal
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Convex
+- MCP (Model Context Protocol)
+- Node.js
+- React
+- Next.js
+- Docker
+- Gemini API
+- BM25
+- Vector Search
+- Graph Databases
 quality_score: 9
 rag_relevance: 10
-tags: ["persistent memory", "AI agent context", "long-term memory", "MCP server", "knowledge retention"]
-source: "https://github.com/memorycrystal/memorycrystal"
-discovered_at: "2026-06-25T17:12:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- AI agent context
+- long-term memory
+- MCP server
+- knowledge retention
+source: https://github.com/memorycrystal/memorycrystal
+discovered_at: '2026-06-25T17:12:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

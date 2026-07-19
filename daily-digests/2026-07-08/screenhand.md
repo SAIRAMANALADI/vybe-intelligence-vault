@@ -1,13 +1,23 @@
 ---
-title: "SuvarnaBhangare/Screenhand"
-category: "Tooling"
-tech_stack: ["Python", "Accessibility APIs", "OCR", "Chrome DevTools Protocol (CDP)", "MCP (Model Context Protocol)"]
+title: SuvarnaBhangare/Screenhand
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- Accessibility APIs
+- OCR
+- Chrome DevTools Protocol (CDP)
+- MCP (Model Context Protocol)
 quality_score: 4
 rag_relevance: 7
-tags: ["desktop automation", "MCP agents", "OCR integration", "native control", "AI agents"]
-source: "https://github.com/SuvarnaBhangare/Screenhand"
-discovered_at: "2026-07-08T02:07:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- desktop automation
+- MCP agents
+- OCR integration
+- native control
+- AI agents
+source: https://github.com/SuvarnaBhangare/Screenhand
+discovered_at: '2026-07-08T02:07:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

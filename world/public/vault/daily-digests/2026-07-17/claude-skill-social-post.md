@@ -1,13 +1,25 @@
 ---
-title: "Hao0321/claude-skill-social-post"
-category: "Tooling"
-tech_stack: ["Claude Code", "JavaScript/TypeScript", "Chrome MCP (Model Context Protocol)", "Node.js", "Python (for data analysis)", "Markdown", "Git"]
+title: Hao0321/claude-skill-social-post
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- Claude Code
+- JavaScript/TypeScript
+- Chrome MCP (Model Context Protocol)
+- Node.js
+- Python (for data analysis)
+- Markdown
+- Git
 quality_score: 9
 rag_relevance: 7
-tags: ["social media automation", "Claude Code skill", "content generation", "viral content formulas", "multi-platform posting"]
-source: "https://github.com/Hao0321/claude-skill-social-post"
-discovered_at: "2026-07-16T15:00:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- social media automation
+- Claude Code skill
+- content generation
+- viral content formulas
+- multi-platform posting
+source: https://github.com/Hao0321/claude-skill-social-post
+discovered_at: '2026-07-16T15:00:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

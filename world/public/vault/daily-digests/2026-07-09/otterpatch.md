@@ -1,13 +1,31 @@
 ---
-title: "Eilen6316/otterpatch"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "React", "Vite", "Electron", "MCP (Model Context Protocol)", "OOXML", "PDF-Lib", "Univer", "DrawIO", "Claude", "OpenAI-compatible LLMs", "Jest"]
+title: Eilen6316/otterpatch
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- Vite
+- Electron
+- MCP (Model Context Protocol)
+- OOXML
+- PDF-Lib
+- Univer
+- DrawIO
+- Claude
+- OpenAI-compatible LLMs
+- Jest
 quality_score: 9
 rag_relevance: 8
-tags: ["document editing", "agent orchestration", "surgical write-back", "reviewable diffs", "office automation"]
-source: "https://github.com/Eilen6316/otterpatch"
-discovered_at: "2026-07-09T11:52:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- document editing
+- agent orchestration
+- surgical write-back
+- reviewable diffs
+- office automation
+source: https://github.com/Eilen6316/otterpatch
+discovered_at: '2026-07-09T11:52:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "imohitseth/AST-Healer"
-category: "Tooling"
-tech_stack: ["Python 3.11", "FastAPI", "Uvicorn", "Gemini LLM (google-antigravity)", "Pydantic v2", "Docker", "GitHub Actions", "Pytest", "Python AST module"]
+title: imohitseth/AST-Healer
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python 3.11
+- FastAPI
+- Uvicorn
+- Gemini LLM (google-antigravity)
+- Pydantic v2
+- Docker
+- GitHub Actions
+- Pytest
+- Python AST module
 quality_score: 9
 rag_relevance: 7
-tags: ["self-healing", "code repair", "AST parsing", "LLM integration", "automated debugging"]
-source: "https://github.com/imohitseth/AST-Healer"
-discovered_at: "2026-06-25T08:30:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-healing
+- code repair
+- AST parsing
+- LLM integration
+- automated debugging
+source: https://github.com/imohitseth/AST-Healer
+discovered_at: '2026-06-25T08:30:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

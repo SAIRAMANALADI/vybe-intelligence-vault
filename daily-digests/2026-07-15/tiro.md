@@ -1,13 +1,34 @@
 ---
-title: "esagduyu/tiro"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "SQLite", "ChromaDB", "Tauri", "React", "TypeScript", "Anthropic API (Claude Opus 4.6)", "OpenAI API (TTS)", "Docker", "Playwright", "pytest", "bcrypt", "nh3", "DOMPurify", "uv"]
+title: esagduyu/tiro
+category: daily-digests/2026-07-15
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- ChromaDB
+- Tauri
+- React
+- TypeScript
+- Anthropic API (Claude Opus 4.6)
+- OpenAI API (TTS)
+- Docker
+- Playwright
+- pytest
+- bcrypt
+- nh3
+- DOMPurify
+- uv
 quality_score: 9
 rag_relevance: 8
-tags: ["local-first", "RAG", "document processing", "AI-powered reading", "knowledge management"]
-source: "https://github.com/esagduyu/tiro"
-discovered_at: "2026-07-11T17:54:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first
+- RAG
+- document processing
+- AI-powered reading
+- knowledge management
+source: https://github.com/esagduyu/tiro
+discovered_at: '2026-07-11T17:54:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

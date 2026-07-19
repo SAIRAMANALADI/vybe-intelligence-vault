@@ -1,13 +1,24 @@
 ---
-title: "zebulensharedout782/deep-researcher"
-category: "Tooling"
-tech_stack: ["Python", "Windows Desktop App", "Agent-based Workflow", "Web Scraping", "JSON", "Markdown"]
+title: zebulensharedout782/deep-researcher
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Windows Desktop App
+- Agent-based Workflow
+- Web Scraping
+- JSON
+- Markdown
 quality_score: 6
 rag_relevance: 5
-tags: ["research automation", "literature review", "Windows app", "structured output", "source aggregation"]
-source: "https://github.com/zebulensharedout782/deep-researcher"
-discovered_at: "2026-07-07T06:41:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- research automation
+- literature review
+- Windows app
+- structured output
+- source aggregation
+source: https://github.com/zebulensharedout782/deep-researcher
+discovered_at: '2026-07-07T06:41:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

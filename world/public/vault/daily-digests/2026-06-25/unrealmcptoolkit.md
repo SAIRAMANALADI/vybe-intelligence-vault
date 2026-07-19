@@ -1,13 +1,23 @@
 ---
-title: "timargv/UnrealMCPToolkit"
-category: "Tooling"
-tech_stack: ["Unreal Engine 5.8", "Model Context Protocol (MCP)", "Python", "C++", "Editor Scripting Plugin"]
+title: timargv/UnrealMCPToolkit
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Unreal Engine 5.8
+- Model Context Protocol (MCP)
+- Python
+- C++
+- Editor Scripting Plugin
 quality_score: 8
 rag_relevance: 7
-tags: ["Unreal Engine", "MCP", "AI Agent Integration", "Editor Automation", "Python Scripting"]
-source: "https://github.com/timargv/UnrealMCPToolkit"
-discovered_at: "2026-06-25T08:29:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Unreal Engine
+- MCP
+- AI Agent Integration
+- Editor Automation
+- Python Scripting
+source: https://github.com/timargv/UnrealMCPToolkit
+discovered_at: '2026-06-25T08:29:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

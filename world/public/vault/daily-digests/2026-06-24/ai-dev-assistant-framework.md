@@ -1,13 +1,23 @@
 ---
-title: "MunnaXbadmash/ai-dev-assistant-framework"
-category: "Agent Framework"
-tech_stack: ["Python", "AI Governance", "Prompt Engineering", "Software Architecture", "CI/CD"]
+title: MunnaXbadmash/ai-dev-assistant-framework
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- AI Governance
+- Prompt Engineering
+- Software Architecture
+- CI/CD
 quality_score: 5
 rag_relevance: 7
-tags: ["AI governance", "software development", "context-aware", "collaboration", "prompt engineering"]
-source: "https://github.com/MunnaXbadmash/ai-dev-assistant-framework"
-discovered_at: "2026-06-24T02:43:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI governance
+- software development
+- context-aware
+- collaboration
+- prompt engineering
+source: https://github.com/MunnaXbadmash/ai-dev-assistant-framework
+discovered_at: '2026-06-24T02:43:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

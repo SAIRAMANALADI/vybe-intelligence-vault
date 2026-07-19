@@ -1,13 +1,27 @@
 ---
-title: "KincaidYang/whois"
-category: "Tooling"
-tech_stack: ["Go", "RDAP", "WHOIS", "Docker", "Redis", "Prometheus", "OpenAPI 3.1", "MCP (Model Context Protocol)", "REST API"]
+title: KincaidYang/whois
+category: daily-digests/2026-07-15
+tech_stack:
+- Go
+- RDAP
+- WHOIS
+- Docker
+- Redis
+- Prometheus
+- OpenAPI 3.1
+- MCP (Model Context Protocol)
+- REST API
 quality_score: 9
 rag_relevance: 8
-tags: ["WHOIS", "RDAP", "IP lookup", "ASN lookup", "self-hosted"]
-source: "https://github.com/KincaidYang/whois"
-discovered_at: "2026-07-11T09:27:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- WHOIS
+- RDAP
+- IP lookup
+- ASN lookup
+- self-hosted
+source: https://github.com/KincaidYang/whois
+discovered_at: '2026-07-11T09:27:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

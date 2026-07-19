@@ -1,13 +1,24 @@
 ---
-title: "serrendypity/preapp-agent"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "CLI", "Static Hosting", "Sandboxed Iframes", "Markdown/JSON Feedback Payloads"]
+title: serrendypity/preapp-agent
+category: daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- Static Hosting
+- Sandboxed Iframes
+- Markdown/JSON Feedback Payloads
 quality_score: 9
 rag_relevance: 8
-tags: ["AI feedback loop", "agent integration", "static publishing", "human-in-the-loop", "iterative refinement"]
-source: "https://github.com/serrendypity/preapp-agent"
-discovered_at: "2026-07-10T06:30:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI feedback loop
+- agent integration
+- static publishing
+- human-in-the-loop
+- iterative refinement
+source: https://github.com/serrendypity/preapp-agent
+discovered_at: '2026-07-10T06:30:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

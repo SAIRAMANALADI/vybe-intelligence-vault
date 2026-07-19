@@ -1,13 +1,30 @@
 ---
-title: "jaypetez/glean"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Docker", "SQLite", "Ollama", "Anthropic", "OpenAI", "Svelte", "TypeScript", "YAML", "GitHub Actions", "CodeQL"]
+title: jaypetez/glean
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- FastAPI
+- Docker
+- SQLite
+- Ollama
+- Anthropic
+- OpenAI
+- Svelte
+- TypeScript
+- YAML
+- GitHub Actions
+- CodeQL
 quality_score: 9
 rag_relevance: 8
-tags: ["personal agent", "LLM pipeline", "multi-sink delivery", "self-hosted", "RAG workflow"]
-source: "https://github.com/jaypetez/glean"
-discovered_at: "2026-07-09T17:17:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personal agent
+- LLM pipeline
+- multi-sink delivery
+- self-hosted
+- RAG workflow
+source: https://github.com/jaypetez/glean
+discovered_at: '2026-07-09T17:17:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

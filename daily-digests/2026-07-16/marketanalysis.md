@@ -1,13 +1,23 @@
 ---
-title: "Mftrferdinand/MarketAnalysis"
-category: "Tooling"
-tech_stack: ["Markdown", "Structured Data Formats", "Risk Management Frameworks", "Technical Analysis (Fibonacci, SMA, RSI, Bollinger Bands)", "Astronacci/Elliott Wave Analysis"]
+title: Mftrferdinand/MarketAnalysis
+category: daily-digests/2026-07-16
+tech_stack:
+- Markdown
+- Structured Data Formats
+- Risk Management Frameworks
+- Technical Analysis (Fibonacci, SMA, RSI, Bollinger Bands)
+- Astronacci/Elliott Wave Analysis
 quality_score: 8
 rag_relevance: 7
-tags: ["market analysis", "risk management", "AI agent templates", "technical indicators", "structured prompts"]
-source: "https://github.com/Mftrferdinand/MarketAnalysis"
-discovered_at: "2026-07-12T14:54:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- market analysis
+- risk management
+- AI agent templates
+- technical indicators
+- structured prompts
+source: https://github.com/Mftrferdinand/MarketAnalysis
+discovered_at: '2026-07-12T14:54:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,29 @@
 ---
-title: "Shadowell/HyperTrade"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Agent Framework", "RAG (Retrieval-Augmented Generation)", "OKX API", "TypeScript", "React", "PostgreSQL", "Docker", "Pydantic", "MCP (Model Context Protocol)"]
+title: Shadowell/HyperTrade
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- FastAPI
+- Agent Framework
+- RAG (Retrieval-Augmented Generation)
+- OKX API
+- TypeScript
+- React
+- PostgreSQL
+- Docker
+- Pydantic
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["crypto trading", "agent-based automation", "RAG integration", "paper trading", "market research"]
-source: "https://github.com/Shadowell/HyperTrade"
-discovered_at: "2026-06-23T16:27:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- crypto trading
+- agent-based automation
+- RAG integration
+- paper trading
+- market research
+source: https://github.com/Shadowell/HyperTrade
+discovered_at: '2026-06-23T16:27:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

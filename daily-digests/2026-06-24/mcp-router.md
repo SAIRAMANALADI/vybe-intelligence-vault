@@ -1,13 +1,23 @@
 ---
-title: "mcp-router/mcp-router"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Electron", "React", "Node.js", "Model Context Protocol (MCP)"]
+title: mcp-router/mcp-router
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Electron
+- React
+- Node.js
+- Model Context Protocol (MCP)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "server management", "AI tool integration", "cross-platform", "local data"]
-source: "https://github.com/mcp-router/mcp-router"
-discovered_at: "2026-06-24T10:26:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- server management
+- AI tool integration
+- cross-platform
+- local data
+source: https://github.com/mcp-router/mcp-router
+discovered_at: '2026-06-24T10:26:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "getsentry/sentry-mcp"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Cloudflare Workers", "Node.js", "OAuth", "REST API", "LLM Integration (OpenAI, Anthropic)"]
+title: getsentry/sentry-mcp
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Cloudflare Workers
+- Node.js
+- OAuth
+- REST API
+- LLM Integration (OpenAI, Anthropic)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Sentry integration", "AI debugging", "error monitoring", "coding agents"]
-source: "https://github.com/getsentry/sentry-mcp"
-discovered_at: "2026-06-23T21:34:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Sentry integration
+- AI debugging
+- error monitoring
+- coding agents
+source: https://github.com/getsentry/sentry-mcp
+discovered_at: '2026-06-23T21:34:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

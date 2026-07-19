@@ -1,13 +1,23 @@
 ---
-title: "embedded-society/altium-designer-mcp"
-category: "Tooling"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "Altium Designer", "OLE Compound File Format", "IPC-7351B"]
+title: embedded-society/altium-designer-mcp
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- Altium Designer
+- OLE Compound File Format
+- IPC-7351B
 quality_score: 9
 rag_relevance: 8
-tags: ["Altium Designer", "MCP server", "PCB library automation", "AI-assisted design", "component generation"]
-source: "https://github.com/embedded-society/altium-designer-mcp"
-discovered_at: "2026-06-24T06:50:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Altium Designer
+- MCP server
+- PCB library automation
+- AI-assisted design
+- component generation
+source: https://github.com/embedded-society/altium-designer-mcp
+discovered_at: '2026-06-24T06:50:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

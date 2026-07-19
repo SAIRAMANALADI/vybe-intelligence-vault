@@ -1,13 +1,25 @@
 ---
-title: "Isaac1909/site-soul-action"
-category: "Tooling"
-tech_stack: ["GitHub Actions", "YAML", "JavaScript/Node.js", "Docker", "API Integration (Not Human Search, OpenAI, Claude)", "HTML/CSS Validation", "Mermaid Diagrams"]
+title: Isaac1909/site-soul-action
+category: daily-digests/2026-06-23
+tech_stack:
+- GitHub Actions
+- YAML
+- JavaScript/Node.js
+- Docker
+- API Integration (Not Human Search, OpenAI, Claude)
+- HTML/CSS Validation
+- Mermaid Diagrams
 quality_score: 9
 rag_relevance: 10
-tags: ["AI readiness monitoring", "GitHub Action", "LLM optimization", "CI/CD integration", "Content integrity"]
-source: "https://github.com/Isaac1909/site-soul-action"
-discovered_at: "2026-06-23T21:37:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI readiness monitoring
+- GitHub Action
+- LLM optimization
+- CI/CD integration
+- Content integrity
+source: https://github.com/Isaac1909/site-soul-action
+discovered_at: '2026-06-23T21:37:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

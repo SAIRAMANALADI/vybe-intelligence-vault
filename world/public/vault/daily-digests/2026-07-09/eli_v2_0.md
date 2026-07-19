@@ -1,13 +1,30 @@
 ---
-title: "ShadowESC95/ELI_v2.0"
-category: "Agent Framework"
-tech_stack: ["Python", "GGUF models", "FAISS", "SQLite", "PyTorch", "PEFT", "llama-cpp", "CUDA", "OCR", "TTS", "DAG orchestrator", "FastAPI"]
+title: ShadowESC95/ELI_v2.0
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- GGUF models
+- FAISS
+- SQLite
+- PyTorch
+- PEFT
+- llama-cpp
+- CUDA
+- OCR
+- TTS
+- DAG orchestrator
+- FastAPI
 quality_score: 9
 rag_relevance: 8
-tags: ["local AI", "private assistant", "offline-first", "desktop automation", "GGUF models"]
-source: "https://github.com/ShadowESC95/ELI_v2.0"
-discovered_at: "2026-07-09T14:44:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local AI
+- private assistant
+- offline-first
+- desktop automation
+- GGUF models
+source: https://github.com/ShadowESC95/ELI_v2.0
+discovered_at: '2026-07-09T14:44:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

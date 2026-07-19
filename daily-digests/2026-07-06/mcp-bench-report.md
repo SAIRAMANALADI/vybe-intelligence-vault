@@ -1,13 +1,27 @@
 ---
-title: "Abderrahmane-msd/mcp-bench-report"
-category: "Tooling"
-tech_stack: ["Python", "Node.js", "OpenAI API", "Claude API", "YAML", "HTML", "PDF generation", "REST APIs", "Docker"]
+title: Abderrahmane-msd/mcp-bench-report
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- Node.js
+- OpenAI API
+- Claude API
+- YAML
+- HTML
+- PDF generation
+- REST APIs
+- Docker
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP server evaluation", "production readiness", "token cost analysis", "AI response grading", "visual reporting"]
-source: "https://github.com/Abderrahmane-msd/mcp-bench-report"
-discovered_at: "2026-07-06T23:04:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server evaluation
+- production readiness
+- token cost analysis
+- AI response grading
+- visual reporting
+source: https://github.com/Abderrahmane-msd/mcp-bench-report
+discovered_at: '2026-07-06T23:04:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

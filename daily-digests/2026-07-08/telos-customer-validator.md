@@ -1,13 +1,27 @@
 ---
-title: "hieu5882/telos-customer-validator"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code API", "OpenAI API", "YAML/JSON", "Docker", "Terminal/CLI", "Web Dashboard (UI)", "Sentiment Analysis", "Natural Language Processing"]
+title: hieu5882/telos-customer-validator
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- Claude Code API
+- OpenAI API
+- YAML/JSON
+- Docker
+- Terminal/CLI
+- Web Dashboard (UI)
+- Sentiment Analysis
+- Natural Language Processing
 quality_score: 9
 rag_relevance: 7
-tags: ["customer validation", "startup ideation", "AI-driven feedback", "adversarial roleplay", "pre-product development"]
-source: "https://github.com/hieu5882/telos-customer-validator"
-discovered_at: "2026-07-08T22:15:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- customer validation
+- startup ideation
+- AI-driven feedback
+- adversarial roleplay
+- pre-product development
+source: https://github.com/hieu5882/telos-customer-validator
+discovered_at: '2026-07-08T22:15:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

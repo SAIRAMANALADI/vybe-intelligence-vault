@@ -1,13 +1,25 @@
 ---
-title: "twjackysu/TWSEMCPServer"
-category: "Agent Framework"
-tech_stack: ["Python", "FastMCP", "Docker", "TWSE OpenAPI", "TPEx OpenAPI", "TAIFEX OpenAPI", "GitHub Actions"]
+title: twjackysu/TWSEMCPServer
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- FastMCP
+- Docker
+- TWSE OpenAPI
+- TPEx OpenAPI
+- TAIFEX OpenAPI
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP Server", "Taiwan Stock Data", "Financial Analysis", "ESG Data", "Real-time Quotes"]
-source: "https://github.com/twjackysu/TWSEMCPServer"
-discovered_at: "2026-07-09T08:26:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- Taiwan Stock Data
+- Financial Analysis
+- ESG Data
+- Real-time Quotes
+source: https://github.com/twjackysu/TWSEMCPServer
+discovered_at: '2026-07-09T08:26:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "moraisdev/otto-agent-cli"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "NATS JetStream", "SQLite", "Claude CLI", "Codex CLI", "WhatsApp API", "Telegram API", "Node.js"]
+title: moraisdev/otto-agent-cli
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Bun
+- NATS JetStream
+- SQLite
+- Claude CLI
+- Codex CLI
+- WhatsApp API
+- Telegram API
+- Node.js
 quality_score: 9
 rag_relevance: 8
-tags: ["AI coding agent", "multi-model fusion", "local-first", "omnipresent sessions", "automatic failover"]
-source: "https://github.com/moraisdev/otto-agent-cli"
-discovered_at: "2026-06-24T18:52:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding agent
+- multi-model fusion
+- local-first
+- omnipresent sessions
+- automatic failover
+source: https://github.com/moraisdev/otto-agent-cli
+discovered_at: '2026-06-24T18:52:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

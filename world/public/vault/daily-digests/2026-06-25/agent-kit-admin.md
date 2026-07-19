@@ -1,13 +1,27 @@
 ---
-title: "afine907/agent-kit-admin"
-category: "Tooling"
-tech_stack: ["FastAPI", "Next.js", "PostgreSQL", "MinIO", "TypeScript", "Python", "Docker", "OAuth", "CLI (Node.js)"]
+title: afine907/agent-kit-admin
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- FastAPI
+- Next.js
+- PostgreSQL
+- MinIO
+- TypeScript
+- Python
+- Docker
+- OAuth
+- CLI (Node.js)
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP Server", "Agent Skills", "Team Collaboration", "Package Management", "AI Tooling"]
-source: "https://github.com/afine907/agent-kit-admin"
-discovered_at: "2026-06-25T05:00:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- Agent Skills
+- Team Collaboration
+- Package Management
+- AI Tooling
+source: https://github.com/afine907/agent-kit-admin
+discovered_at: '2026-06-25T05:00:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

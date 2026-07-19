@@ -1,13 +1,23 @@
 ---
-title: "myowinthein/claude-compass"
-category: "Tooling"
-tech_stack: ["Claude Cowork", "Claude Desktop", "Subagents (deep-reasoner, calculator)", "HTML", "Markdown"]
+title: myowinthein/claude-compass
+category: daily-digests/2026-07-07
+tech_stack:
+- Claude Cowork
+- Claude Desktop
+- Subagents (deep-reasoner, calculator)
+- HTML
+- Markdown
 quality_score: 7
 rag_relevance: 6
-tags: ["job search", "remote work", "visa sponsorship", "salary calculation", "Claude plugin"]
-source: "https://github.com/myowinthein/claude-compass"
-discovered_at: "2026-07-07T16:24:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- job search
+- remote work
+- visa sponsorship
+- salary calculation
+- Claude plugin
+source: https://github.com/myowinthein/claude-compass
+discovered_at: '2026-07-07T16:24:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

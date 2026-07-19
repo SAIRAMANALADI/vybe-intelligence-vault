@@ -1,13 +1,26 @@
 ---
-title: "pkhamre/opencode-docker"
-category: "Tooling"
-tech_stack: ["Docker", "Distroless", "Linux Capabilities", "Seccomp", "Python", "Shell", "Node.js", "Xvfb"]
+title: pkhamre/opencode-docker
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Docker
+- Distroless
+- Linux Capabilities
+- Seccomp
+- Python
+- Shell
+- Node.js
+- Xvfb
 quality_score: 9
 rag_relevance: 7
-tags: ["security", "docker", "isolation", "secrets-management", "opencode"]
-source: "https://github.com/pkhamre/opencode-docker"
-discovered_at: "2026-06-24T13:17:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- security
+- docker
+- isolation
+- secrets-management
+- opencode
+source: https://github.com/pkhamre/opencode-docker
+discovered_at: '2026-06-24T13:17:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

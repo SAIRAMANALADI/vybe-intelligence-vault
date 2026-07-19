@@ -1,13 +1,26 @@
 ---
-title: "wavyx/hscli"
-category: "Tooling"
-tech_stack: ["Node.js", "JavaScript", "TypeScript (likely)", "Docker", "Homebrew", "Scoop", "GitHub Actions", "npm"]
+title: wavyx/hscli
+category: daily-digests/2026-07-08
+tech_stack:
+- Node.js
+- JavaScript
+- TypeScript (likely)
+- Docker
+- Homebrew
+- Scoop
+- GitHub Actions
+- npm
 quality_score: 9
 rag_relevance: 8
-tags: ["CLI", "Help Scout", "API Automation", "AI Agent Integration", "Backup"]
-source: "https://github.com/wavyx/hscli"
-discovered_at: "2026-07-08T21:01:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CLI
+- Help Scout
+- API Automation
+- AI Agent Integration
+- Backup
+source: https://github.com/wavyx/hscli
+discovered_at: '2026-07-08T21:01:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

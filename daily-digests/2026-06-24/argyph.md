@@ -1,13 +1,21 @@
 ---
-title: "Denithenar327/Argyph"
-category: "Tooling"
-tech_stack: ["Rust", "Model Context Protocol", "Windows API"]
+title: Denithenar327/Argyph
+category: daily-digests/2026-06-24
+tech_stack:
+- Rust
+- Model Context Protocol
+- Windows API
 quality_score: 8
 rag_relevance: 9
-tags: ["local indexing", "semantic search", "privacy-focused", "AI context", "code analysis"]
-source: "https://github.com/Denithenar327/Argyph"
-discovered_at: "2026-06-24T22:17:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local indexing
+- semantic search
+- privacy-focused
+- AI context
+- code analysis
+source: https://github.com/Denithenar327/Argyph
+discovered_at: '2026-06-24T22:17:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

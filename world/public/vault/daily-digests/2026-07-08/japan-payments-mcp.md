@@ -1,13 +1,23 @@
 ---
-title: "junter1989k-ai/japan-payments-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "HTTP/JSON-RPC", "KOMOJU API"]
+title: junter1989k-ai/japan-payments-mcp
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- HTTP/JSON-RPC
+- KOMOJU API
 quality_score: 7
 rag_relevance: 8
-tags: ["payment processing", "MCP server", "Japan payments", "konbini", "AI agent integration"]
-source: "https://github.com/junter1989k-ai/japan-payments-mcp"
-discovered_at: "2026-07-08T19:17:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- payment processing
+- MCP server
+- Japan payments
+- konbini
+- AI agent integration
+source: https://github.com/junter1989k-ai/japan-payments-mcp
+discovered_at: '2026-07-08T19:17:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "delilahsaprophytic338/rag-ready-extractor"
-category: "Tooling"
-tech_stack: ["Python", "PyPDF2", "BeautifulSoup", "NLP (Natural Language Processing)", "Windows Desktop App"]
+title: delilahsaprophytic338/rag-ready-extractor
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- PyPDF2
+- BeautifulSoup
+- NLP (Natural Language Processing)
+- Windows Desktop App
 quality_score: 7
 rag_relevance: 9
-tags: ["data extraction", "RAG preprocessing", "PDF parsing", "web scraping", "token optimization"]
-source: "https://github.com/delilahsaprophytic338/rag-ready-extractor"
-discovered_at: "2026-07-08T02:06:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- data extraction
+- RAG preprocessing
+- PDF parsing
+- web scraping
+- token optimization
+source: https://github.com/delilahsaprophytic338/rag-ready-extractor
+discovered_at: '2026-07-08T02:06:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

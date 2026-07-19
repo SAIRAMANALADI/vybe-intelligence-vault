@@ -1,13 +1,28 @@
 ---
-title: "openocta/openocta"
-category: "Agent Framework"
-tech_stack: ["Go", "TypeScript", "Lit", "Vite", "WebSocket", "HTTP", "MCP (Model Context Protocol)", "CLI", "Docker", "Wails"]
+title: openocta/openocta
+category: daily-digests/2026-07-09
+tech_stack:
+- Go
+- TypeScript
+- Lit
+- Vite
+- WebSocket
+- HTTP
+- MCP (Model Context Protocol)
+- CLI
+- Docker
+- Wails
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Agent", "Workflow Automation", "Enterprise Integration", "Single Binary Deployment", "MCP Support"]
-source: "https://github.com/openocta/openocta"
-discovered_at: "2026-07-09T08:24:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent
+- Workflow Automation
+- Enterprise Integration
+- Single Binary Deployment
+- MCP Support
+source: https://github.com/openocta/openocta
+discovered_at: '2026-07-09T08:24:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "jayzalowitz/skytwin"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "CockroachDB", "llama.cpp", "React", "Electron", "OAuth", "Python", "Docker (optional)"]
+title: jayzalowitz/skytwin
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- CockroachDB
+- llama.cpp
+- React
+- Electron
+- OAuth
+- Python
+- Docker (optional)
 quality_score: 9
 rag_relevance: 4
-tags: ["digital twin", "autonomous agent", "preference learning", "safety constraints", "explainable AI"]
-source: "https://github.com/jayzalowitz/skytwin"
-discovered_at: "2026-06-25T05:05:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- digital twin
+- autonomous agent
+- preference learning
+- safety constraints
+- explainable AI
+source: https://github.com/jayzalowitz/skytwin
+discovered_at: '2026-06-25T05:05:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

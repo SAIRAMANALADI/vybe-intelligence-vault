@@ -1,13 +1,34 @@
 ---
-title: "hypeprinter007-stack/anchor-x402"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "AWS Lambda", "Solana", "Base (Ethereum L2)", "USDC (stablecoin)", "JPYC (stablecoin)", "CoinGecko API", "DynamoDB", "S3", "AWS Secrets Manager", "OpenAPI", "Pydantic", "Bedrock (LLM)", "EIP-3009 (JPYC facilitator)", "CDP Bazaar facilitator"]
+title: hypeprinter007-stack/anchor-x402
+category: daily-digests/2026-07-13
+tech_stack:
+- Python
+- FastAPI
+- AWS Lambda
+- Solana
+- Base (Ethereum L2)
+- USDC (stablecoin)
+- JPYC (stablecoin)
+- CoinGecko API
+- DynamoDB
+- S3
+- AWS Secrets Manager
+- OpenAPI
+- Pydantic
+- Bedrock (LLM)
+- EIP-3009 (JPYC facilitator)
+- CDP Bazaar facilitator
 quality_score: 9
 rag_relevance: 10
-tags: ["on-chain payments", "AI agent utilities", "cryptographic receipts", "multi-chain", "LLM tooling"]
-source: "https://github.com/hypeprinter007-stack/anchor-x402"
-discovered_at: "2026-07-12T23:52:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- on-chain payments
+- AI agent utilities
+- cryptographic receipts
+- multi-chain
+- LLM tooling
+source: https://github.com/hypeprinter007-stack/anchor-x402
+discovered_at: '2026-07-12T23:52:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

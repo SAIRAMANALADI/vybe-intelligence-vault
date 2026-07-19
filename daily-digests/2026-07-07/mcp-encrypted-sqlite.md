@@ -1,13 +1,22 @@
 ---
-title: "TahaHussein-dotcom/mcp-encrypted-sqlite"
-category: "Tooling"
-tech_stack: ["SQLite", "SQLCipher", "Model Context Protocol (MCP)", "Python"]
+title: TahaHussein-dotcom/mcp-encrypted-sqlite
+category: daily-digests/2026-07-07
+tech_stack:
+- SQLite
+- SQLCipher
+- Model Context Protocol (MCP)
+- Python
 quality_score: 4
 rag_relevance: 7
-tags: ["encryption", "SQLite", "MCP", "SQLCipher", "database management"]
-source: "https://github.com/TahaHussein-dotcom/mcp-encrypted-sqlite"
-discovered_at: "2026-07-07T02:33:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- encryption
+- SQLite
+- MCP
+- SQLCipher
+- database management
+source: https://github.com/TahaHussein-dotcom/mcp-encrypted-sqlite
+discovered_at: '2026-07-07T02:33:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

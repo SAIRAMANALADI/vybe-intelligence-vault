@@ -1,13 +1,33 @@
 ---
-title: "lemonade-sdk/lemonade"
-category: "Orchestrator"
-tech_stack: ["C++", "Python", "GGUF", "ONNX", "llamacpp", "vLLM", "ROCm", "CUDA", "Vulkan", "Metal", "Ryzen AI NPU", "Docker", "CLI", "REST API", "OpenAI-compatible API"]
+title: lemonade-sdk/lemonade
+category: daily-digests/2026-06-23
+tech_stack:
+- C++
+- Python
+- GGUF
+- ONNX
+- llamacpp
+- vLLM
+- ROCm
+- CUDA
+- Vulkan
+- Metal
+- Ryzen AI NPU
+- Docker
+- CLI
+- REST API
+- OpenAI-compatible API
 quality_score: 9
 rag_relevance: 10
-tags: ["local AI", "LLM serving", "multi-modal", "privacy-focused", "hardware optimization"]
-source: "https://github.com/lemonade-sdk/lemonade"
-discovered_at: "2026-06-23T23:12:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local AI
+- LLM serving
+- multi-modal
+- privacy-focused
+- hardware optimization
+source: https://github.com/lemonade-sdk/lemonade
+discovered_at: '2026-06-23T23:12:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

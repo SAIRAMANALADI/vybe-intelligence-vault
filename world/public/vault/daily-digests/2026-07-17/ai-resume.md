@@ -1,13 +1,34 @@
 ---
-title: "schwichtgit/ai-resume"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "React 19", "Python 3.12", "FastAPI", "Rust", "gRPC", "Tailwind CSS", "shadcn/ui", "OpenRouter", "memvid", "Docker", "Podman", "OpenTelemetry", "Prometheus", "Grafana", "Loki"]
+title: schwichtgit/ai-resume
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- React 19
+- Python 3.12
+- FastAPI
+- Rust
+- gRPC
+- Tailwind CSS
+- shadcn/ui
+- OpenRouter
+- memvid
+- Docker
+- Podman
+- OpenTelemetry
+- Prometheus
+- Grafana
+- Loki
 quality_score: 9
 rag_relevance: 10
-tags: ["RAG", "Semantic Search", "Resume Agent", "Hybrid Retrieval", "LLM Orchestration"]
-source: "https://github.com/schwichtgit/ai-resume"
-discovered_at: "2026-07-15T02:12:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RAG
+- Semantic Search
+- Resume Agent
+- Hybrid Retrieval
+- LLM Orchestration
+source: https://github.com/schwichtgit/ai-resume
+discovered_at: '2026-07-15T02:12:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

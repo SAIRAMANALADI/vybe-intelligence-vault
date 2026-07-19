@@ -1,13 +1,33 @@
 ---
-title: "Lulu-The-Narwhal/dali-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FastAPI", "Higgsfield", "Runway", "Flux", "Midjourney", "Kling", "Seedance", "Wan", "Minimax", "Ideogram", "Firefly", "Node.js", "npm"]
+title: Lulu-The-Narwhal/dali-mcp
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FastAPI
+- Higgsfield
+- Runway
+- Flux
+- Midjourney
+- Kling
+- Seedance
+- Wan
+- Minimax
+- Ideogram
+- Firefly
+- Node.js
+- npm
 quality_score: 9
 rag_relevance: 10
-tags: ["prompt optimization", "AI generation scoring", "Model Context Protocol", "video generation", "image generation"]
-source: "https://github.com/Lulu-The-Narwhal/dali-mcp"
-discovered_at: "2026-07-09T14:45:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- prompt optimization
+- AI generation scoring
+- Model Context Protocol
+- video generation
+- image generation
+source: https://github.com/Lulu-The-Narwhal/dali-mcp
+discovered_at: '2026-07-09T14:45:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

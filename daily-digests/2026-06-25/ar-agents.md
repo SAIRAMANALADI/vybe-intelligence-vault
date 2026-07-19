@@ -1,13 +1,33 @@
 ---
-title: "ar-agents/ar-agents"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Vercel AI SDK", "Mercado Pago API", "AFIP/ARCA (Argentine tax authority)", "OpenTelemetry", "Vercel Edge Runtime", "Vercel KV", "Model Context Protocol (MCP)", "React/Next.js", "pnpm", "WebSockets", "HMAC", "Ed25519", "JWT"]
+title: ar-agents/ar-agents
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- Vercel AI SDK
+- Mercado Pago API
+- AFIP/ARCA (Argentine tax authority)
+- OpenTelemetry
+- Vercel Edge Runtime
+- Vercel KV
+- Model Context Protocol (MCP)
+- React/Next.js
+- pnpm
+- WebSockets
+- HMAC
+- Ed25519
+- JWT
 quality_score: 9
 rag_relevance: 8
-tags: ["Argentine compliance", "AI agent tools", "Vercel AI SDK", "Mercado Pago integration", "Governance RFCs"]
-source: "https://github.com/ar-agents/ar-agents"
-discovered_at: "2026-06-25T17:12:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Argentine compliance
+- AI agent tools
+- Vercel AI SDK
+- Mercado Pago integration
+- Governance RFCs
+source: https://github.com/ar-agents/ar-agents
+discovered_at: '2026-06-25T17:12:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

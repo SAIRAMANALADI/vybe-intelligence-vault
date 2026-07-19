@@ -1,13 +1,21 @@
 ---
-title: "duciker14/cloudflare-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Cloudflare API"]
+title: duciker14/cloudflare-mcp
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Cloudflare API
 quality_score: 5
 rag_relevance: 7
-tags: ["MCP server", "Cloudflare integration", "AI workflows", "cloud management", "API abstraction"]
-source: "https://github.com/duciker14/cloudflare-mcp"
-discovered_at: "2026-06-25T00:11:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Cloudflare integration
+- AI workflows
+- cloud management
+- API abstraction
+source: https://github.com/duciker14/cloudflare-mcp
+discovered_at: '2026-06-25T00:11:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

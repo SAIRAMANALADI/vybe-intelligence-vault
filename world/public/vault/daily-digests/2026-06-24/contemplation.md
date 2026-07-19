@@ -1,13 +1,23 @@
 ---
-title: "thdelmas/contemplation"
-category: "Agent Framework"
-tech_stack: ["Claude Code", "Codex", "Cursor", "Markdown", "Shell"]
+title: thdelmas/contemplation
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Claude Code
+- Codex
+- Cursor
+- Markdown
+- Shell
 quality_score: 7
 rag_relevance: 8
-tags: ["agent-architecture", "deliberation", "non-instrumental-thought", "value-examination", "reflective-equilibrium"]
-source: "https://github.com/thdelmas/contemplation"
-discovered_at: "2026-06-24T10:19:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent-architecture
+- deliberation
+- non-instrumental-thought
+- value-examination
+- reflective-equilibrium
+source: https://github.com/thdelmas/contemplation
+discovered_at: '2026-06-24T10:19:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

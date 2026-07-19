@@ -1,13 +1,22 @@
 ---
-title: "Pr-E/openclaw-master-skills"
-category: "Tooling"
-tech_stack: ["Python", "Windows", "OpenClaw", "GitHub"]
+title: Pr-E/openclaw-master-skills
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Windows
+- OpenClaw
+- GitHub
 quality_score: 7
 rag_relevance: 6
-tags: ["OpenClaw", "AI skills", "productivity tools", "automation", "personal assistants"]
-source: "https://github.com/Pr-E/openclaw-master-skills"
-discovered_at: "2026-06-23T23:03:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- OpenClaw
+- AI skills
+- productivity tools
+- automation
+- personal assistants
+source: https://github.com/Pr-E/openclaw-master-skills
+discovered_at: '2026-06-23T23:03:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

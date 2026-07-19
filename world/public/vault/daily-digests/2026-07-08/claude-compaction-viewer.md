@@ -1,13 +1,21 @@
 ---
-title: "danielsod12/claude-compaction-viewer"
-category: "Tooling"
-tech_stack: ["Python", "Windows OS", "TUI/CLI"]
+title: danielsod12/claude-compaction-viewer
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- Windows OS
+- TUI/CLI
 quality_score: 7
 rag_relevance: 4
-tags: ["Claude Code", "Conversation Analysis", "Compaction Viewer", "TUI", "Windows Tool"]
-source: "https://github.com/danielsod12/claude-compaction-viewer"
-discovered_at: "2026-07-08T02:07:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- Conversation Analysis
+- Compaction Viewer
+- TUI
+- Windows Tool
+source: https://github.com/danielsod12/claude-compaction-viewer
+discovered_at: '2026-07-08T02:07:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

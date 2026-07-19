@@ -1,13 +1,27 @@
 ---
-title: "PredictionMarketTrader/openthomas"
-category: "Agent Framework"
-tech_stack: ["Python", "LLM (Anthropic, OpenAI-compatible, local models)", "SQLite", "NWS (National Weather Service) data", "Polymarket API", "Kalshi API", "GDELT + Google News (for news retrieval)", "Fractional Kelly Criterion (risk sizing)", "Platt scaling (calibration)"]
+title: PredictionMarketTrader/openthomas
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- Python
+- LLM (Anthropic, OpenAI-compatible, local models)
+- SQLite
+- NWS (National Weather Service) data
+- Polymarket API
+- Kalshi API
+- GDELT + Google News (for news retrieval)
+- Fractional Kelly Criterion (risk sizing)
+- Platt scaling (calibration)
 quality_score: 9
 rag_relevance: 7
-tags: ["autonomous trading", "weather prediction markets", "LLM forecasting", "risk management", "deterministic agent"]
-source: "https://github.com/PredictionMarketTrader/openthomas"
-discovered_at: "2026-07-12T05:56:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous trading
+- weather prediction markets
+- LLM forecasting
+- risk management
+- deterministic agent
+source: https://github.com/PredictionMarketTrader/openthomas
+discovered_at: '2026-07-12T05:56:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

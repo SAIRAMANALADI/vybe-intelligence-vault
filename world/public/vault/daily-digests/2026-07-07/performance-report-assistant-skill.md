@@ -1,13 +1,25 @@
 ---
-title: "XiaofeiCY/performance-report-assistant-skill"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code", "Codex", "openpyxl", "Git", "Excel", "Natural Language Processing"]
+title: XiaofeiCY/performance-report-assistant-skill
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Claude Code
+- Codex
+- openpyxl
+- Git
+- Excel
+- Natural Language Processing
 quality_score: 8
 rag_relevance: 7
-tags: ["performance reporting", "Excel automation", "workflow automation", "AI agent skill", "structured interviews"]
-source: "https://github.com/XiaofeiCY/performance-report-assistant-skill"
-discovered_at: "2026-07-07T02:32:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- performance reporting
+- Excel automation
+- workflow automation
+- AI agent skill
+- structured interviews
+source: https://github.com/XiaofeiCY/performance-report-assistant-skill
+discovered_at: '2026-07-07T02:32:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

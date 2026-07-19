@@ -1,13 +1,25 @@
 ---
-title: "joshua-jingu-lee/ante"
-category: "Orchestrator"
-tech_stack: ["Python", "CLI", "SQLite", "REST API", "Broker Adapter (KIS)", "IPC (Inter-Process Communication)", "Backtesting Framework"]
+title: joshua-jingu-lee/ante
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- CLI
+- SQLite
+- REST API
+- Broker Adapter (KIS)
+- IPC (Inter-Process Communication)
+- Backtesting Framework
 quality_score: 8
 rag_relevance: 7
-tags: ["AI trading", "automated trading", "risk management", "backtesting", "Korean stock market"]
-source: "https://github.com/joshua-jingu-lee/ante"
-discovered_at: "2026-07-08T12:24:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI trading
+- automated trading
+- risk management
+- backtesting
+- Korean stock market
+source: https://github.com/joshua-jingu-lee/ante
+discovered_at: '2026-07-08T12:24:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

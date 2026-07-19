@@ -1,13 +1,26 @@
 ---
-title: "neotenous-refund862/guiwei"
-category: "Tooling"
-tech_stack: ["Python", "LLM APIs (OpenAI-compatible, Gemini)", "SQLite", "FFmpeg", "FileSystemWatcher (PowerShell)", "PyMuPDF", "Pillow", "OpenPyXL"]
+title: neotenous-refund862/guiwei
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- LLM APIs (OpenAI-compatible, Gemini)
+- SQLite
+- FFmpeg
+- FileSystemWatcher (PowerShell)
+- PyMuPDF
+- Pillow
+- OpenPyXL
 quality_score: 8
 rag_relevance: 7
-tags: ["file organization", "LLM automation", "local processing", "document indexing", "undoable operations"]
-source: "https://github.com/neotenous-refund862/guiwei"
-discovered_at: "2026-07-07T18:59:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- file organization
+- LLM automation
+- local processing
+- document indexing
+- undoable operations
+source: https://github.com/neotenous-refund862/guiwei
+discovered_at: '2026-07-07T18:59:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

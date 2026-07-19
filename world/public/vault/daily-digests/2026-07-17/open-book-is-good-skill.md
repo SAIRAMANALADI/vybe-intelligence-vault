@@ -1,13 +1,25 @@
 ---
-title: "5219rayhsu/open-book-is-good-skill"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude AI Skills", "Markdown", "YAML", "Pydantic (implied for schema validation)", "OCR (implied for figure extraction)", "AI Model Integration (for explanation generation)"]
+title: 5219rayhsu/open-book-is-good-skill
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- Python
+- Claude AI Skills
+- Markdown
+- YAML
+- Pydantic (implied for schema validation)
+- OCR (implied for figure extraction)
+- AI Model Integration (for explanation generation)
 quality_score: 7
 rag_relevance: 6
-tags: ["AI agent automation", "exam question processing", "clean-room data pipeline", "judgment-based parsing", "copyright-compliant RAG"]
-source: "https://github.com/5219rayhsu/open-book-is-good-skill"
-discovered_at: "2026-07-17T16:14:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent automation
+- exam question processing
+- clean-room data pipeline
+- judgment-based parsing
+- copyright-compliant RAG
+source: https://github.com/5219rayhsu/open-book-is-good-skill
+discovered_at: '2026-07-17T16:14:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

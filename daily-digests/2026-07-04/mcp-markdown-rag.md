@@ -1,13 +1,21 @@
 ---
-title: "UnitVectorY-Labs/mcp-markdown-rag"
-category: "Tooling"
-tech_stack: ["Go", "Vector Embeddings", "Self-contained Vector Database"]
+title: UnitVectorY-Labs/mcp-markdown-rag
+category: daily-digests/2026-07-04
+tech_stack:
+- Go
+- Vector Embeddings
+- Self-contained Vector Database
 quality_score: 4
 rag_relevance: 7
-tags: ["Markdown", "Vector Search", "Local-First", "Embeddings", "CLI"]
-source: "https://github.com/UnitVectorY-Labs/mcp-markdown-rag"
-discovered_at: "2026-07-04T20:15:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Markdown
+- Vector Search
+- Local-First
+- Embeddings
+- CLI
+source: https://github.com/UnitVectorY-Labs/mcp-markdown-rag
+discovered_at: '2026-07-04T20:15:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

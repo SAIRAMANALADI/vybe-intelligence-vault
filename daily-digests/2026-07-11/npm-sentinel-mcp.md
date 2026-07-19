@@ -1,13 +1,26 @@
 ---
-title: "Nekzus/npm-sentinel-mcp"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Node.js", "Zod", "Docker", "deps.dev API", "OSV.dev API", "Smithery.ai"]
+title: Nekzus/npm-sentinel-mcp
+category: daily-digests/2026-07-11
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Node.js
+- Zod
+- Docker
+- deps.dev API
+- OSV.dev API
+- Smithery.ai
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP server", "NPM analysis", "dependency scanning", "security intelligence", "AI integration"]
-source: "https://github.com/Nekzus/npm-sentinel-mcp"
-discovered_at: "2026-07-11T17:54:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- NPM analysis
+- dependency scanning
+- security intelligence
+- AI integration
+source: https://github.com/Nekzus/npm-sentinel-mcp
+discovered_at: '2026-07-11T17:54:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

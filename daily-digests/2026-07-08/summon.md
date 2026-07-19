@@ -1,13 +1,24 @@
 ---
-title: "edycutjong/summon"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Telegram Bot API", "Constellation A2A (croo-core)", "Vitest", "Docker"]
+title: edycutjong/summon
+category: daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- Telegram Bot API
+- Constellation A2A (croo-core)
+- Vitest
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["human-in-the-loop", "Telegram integration", "on-chain AI", "agent framework", "escrow-backed decisions"]
-source: "https://github.com/edycutjong/summon"
-discovered_at: "2026-07-08T02:06:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- human-in-the-loop
+- Telegram integration
+- on-chain AI
+- agent framework
+- escrow-backed decisions
+source: https://github.com/edycutjong/summon
+discovered_at: '2026-07-08T02:06:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

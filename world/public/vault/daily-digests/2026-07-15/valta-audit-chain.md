@@ -1,13 +1,22 @@
 ---
-title: "Billionaire664/valta-audit-chain"
-category: "Tooling"
-tech_stack: ["TypeScript", "PostgreSQL", "SHA-256", "Node.js"]
+title: Billionaire664/valta-audit-chain
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- TypeScript
+- PostgreSQL
+- SHA-256
+- Node.js
 quality_score: 9
 rag_relevance: 8
-tags: ["pre-call authorization", "tamper-evident logging", "spend gate", "audit chain", "AI agent safety"]
-source: "https://github.com/Billionaire664/valta-audit-chain"
-discovered_at: "2026-07-11T02:27:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- pre-call authorization
+- tamper-evident logging
+- spend gate
+- audit chain
+- AI agent safety
+source: https://github.com/Billionaire664/valta-audit-chain
+discovered_at: '2026-07-11T02:27:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

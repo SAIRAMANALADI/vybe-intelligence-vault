@@ -1,13 +1,22 @@
 ---
-title: "Crosswise-overage824/agentic-planet"
-category: "Tooling"
-tech_stack: ["Windows OS", "Python (implied)", "Local Database", "System Tray Integration"]
+title: Crosswise-overage824/agentic-planet
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Windows OS
+- Python (implied)
+- Local Database
+- System Tray Integration
 quality_score: 6
 rag_relevance: 4
-tags: ["automation", "desktop-app", "task-management", "Windows", "workflow-tools"]
-source: "https://github.com/Crosswise-overage824/agentic-planet"
-discovered_at: "2026-06-24T22:18:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- automation
+- desktop-app
+- task-management
+- Windows
+- workflow-tools
+source: https://github.com/Crosswise-overage824/agentic-planet
+discovered_at: '2026-06-24T22:18:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

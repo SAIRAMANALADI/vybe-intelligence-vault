@@ -1,13 +1,23 @@
 ---
-title: "Eastmapquest735/konquest-meta-ads-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Meta Marketing API", "Claude Code", "Model Context Protocol (MCP)", "Windows"]
+title: Eastmapquest735/konquest-meta-ads-mcp
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- Meta Marketing API
+- Claude Code
+- Model Context Protocol (MCP)
+- Windows
 quality_score: 6
 rag_relevance: 5
-tags: ["Meta Ads", "Ad Management", "Claude Code Integration", "Safety Checks", "Diagnostics"]
-source: "https://github.com/Eastmapquest735/konquest-meta-ads-mcp"
-discovered_at: "2026-07-07T20:51:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Meta Ads
+- Ad Management
+- Claude Code Integration
+- Safety Checks
+- Diagnostics
+source: https://github.com/Eastmapquest735/konquest-meta-ads-mcp
+discovered_at: '2026-07-07T20:51:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

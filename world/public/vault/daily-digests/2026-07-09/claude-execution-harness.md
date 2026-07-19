@@ -1,13 +1,24 @@
 ---
-title: "freshdigital-it/claude-execution-harness"
-category: "Orchestrator"
-tech_stack: ["Shell", "Claude Code", "JSON", "Git Hooks", "Subagents", "Adversarial Verification"]
+title: freshdigital-it/claude-execution-harness
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Shell
+- Claude Code
+- JSON
+- Git Hooks
+- Subagents
+- Adversarial Verification
 quality_score: 9
 rag_relevance: 8
-tags: ["autopilot", "task automation", "self-healing", "trajectory tracking", "Claude Code"]
-source: "https://github.com/freshdigital-it/claude-execution-harness"
-discovered_at: "2026-07-09T17:17:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autopilot
+- task automation
+- self-healing
+- trajectory tracking
+- Claude Code
+source: https://github.com/freshdigital-it/claude-execution-harness
+discovered_at: '2026-07-09T17:17:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "modelcontextprotocol/csharp-sdk"
-category: "Agent Framework"
-tech_stack: ["C#", ".NET", "NuGet", "ASP.NET Core", "HTTP/SSE", "Dependency Injection"]
+title: modelcontextprotocol/csharp-sdk
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- C#
+- .NET
+- NuGet
+- ASP.NET Core
+- HTTP/SSE
+- Dependency Injection
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "C# SDK", "Model Context Protocol", "LLM Integration", "Agent Framework"]
-source: "https://github.com/modelcontextprotocol/csharp-sdk"
-discovered_at: "2026-07-14T22:56:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- C# SDK
+- Model Context Protocol
+- LLM Integration
+- Agent Framework
+source: https://github.com/modelcontextprotocol/csharp-sdk
+discovered_at: '2026-07-14T22:56:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

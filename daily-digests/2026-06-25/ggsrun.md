@@ -1,13 +1,27 @@
 ---
-title: "tanaikech/ggsrun"
-category: "Tooling"
-tech_stack: ["Go", "Google Drive API", "Google Apps Script API", "Model Context Protocol (MCP)", "OAuth2", "Concurrent I/O", "TUI (Terminal User Interface)", "Antigravity CLI", "JSON-RPC"]
+title: tanaikech/ggsrun
+category: daily-digests/2026-06-25
+tech_stack:
+- Go
+- Google Drive API
+- Google Apps Script API
+- Model Context Protocol (MCP)
+- OAuth2
+- Concurrent I/O
+- TUI (Terminal User Interface)
+- Antigravity CLI
+- JSON-RPC
 quality_score: 9
 rag_relevance: 8
-tags: ["Google Drive automation", "MCP server", "Google Apps Script execution", "parallel I/O", "LLM integration"]
-source: "https://github.com/tanaikech/ggsrun"
-discovered_at: "2026-06-25T07:29:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Google Drive automation
+- MCP server
+- Google Apps Script execution
+- parallel I/O
+- LLM integration
+source: https://github.com/tanaikech/ggsrun
+discovered_at: '2026-06-25T07:29:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

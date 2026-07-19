@@ -1,13 +1,23 @@
 ---
-title: "SamEricBailey/PlayWright-Framework-PoC"
-category: "Tooling"
-tech_stack: ["TypeScript", "Playwright", "Node.js", "Jest", "CI/CD Pipelines"]
+title: SamEricBailey/PlayWright-Framework-PoC
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Playwright
+- Node.js
+- Jest
+- CI/CD Pipelines
 quality_score: 6
 rag_relevance: 4
-tags: ["automated testing", "Playwright", "TypeScript", "CI/CD", "performance testing"]
-source: "https://github.com/SamEricBailey/PlayWright-Framework-PoC"
-discovered_at: "2026-06-25T05:08:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- automated testing
+- Playwright
+- TypeScript
+- CI/CD
+- performance testing
+source: https://github.com/SamEricBailey/PlayWright-Framework-PoC
+discovered_at: '2026-06-25T05:08:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

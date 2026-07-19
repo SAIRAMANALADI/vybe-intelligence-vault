@@ -1,13 +1,21 @@
 ---
-title: "NachaFromMars/self-improving-agent"
-category: "Agent Framework"
-tech_stack: ["Shell", "Markdown", "OpenClaw"]
+title: NachaFromMars/self-improving-agent
+category: daily-digests/2026-06-23
+tech_stack:
+- Shell
+- Markdown
+- OpenClaw
 quality_score: 7
 rag_relevance: 8
-tags: ["self-improving", "agent learning", "error logging", "continuous improvement", "OpenClaw"]
-source: "https://github.com/NachaFromMars/self-improving-agent"
-discovered_at: "2026-06-23T06:46:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-improving
+- agent learning
+- error logging
+- continuous improvement
+- OpenClaw
+source: https://github.com/NachaFromMars/self-improving-agent
+discovered_at: '2026-06-23T06:46:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

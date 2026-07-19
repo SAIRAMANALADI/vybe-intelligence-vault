@@ -1,13 +1,24 @@
 ---
-title: "D4Vinci/Scrapling"
-category: "Tooling"
-tech_stack: ["Python", "Playwright", "BeautifulSoup", "Asyncio", "Proxy Rotation", "MCP Server"]
+title: D4Vinci/Scrapling
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- Playwright
+- BeautifulSoup
+- Asyncio
+- Proxy Rotation
+- MCP Server
 quality_score: 9
 rag_relevance: 7
-tags: ["web scraping", "anti-bot bypass", "proxy rotation", "adaptive parsing", "AI agent integration"]
-source: "https://github.com/D4Vinci/Scrapling"
-discovered_at: "2026-06-22T18:15:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web scraping
+- anti-bot bypass
+- proxy rotation
+- adaptive parsing
+- AI agent integration
+source: https://github.com/D4Vinci/Scrapling
+discovered_at: '2026-06-22T18:15:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

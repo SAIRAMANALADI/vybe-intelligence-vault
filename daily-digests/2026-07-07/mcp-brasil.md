@@ -1,13 +1,23 @@
 ---
-title: "ungarbed-triggerfish318/mcp-brasil"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Windows", "FastMCP", "Public APIs"]
+title: ungarbed-triggerfish318/mcp-brasil
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Windows
+- FastMCP
+- Public APIs
 quality_score: 7
 rag_relevance: 8
-tags: ["Brazilian APIs", "MCP Server", "Public Data", "AI Agents", "Government Data"]
-source: "https://github.com/ungarbed-triggerfish318/mcp-brasil"
-discovered_at: "2026-07-07T20:52:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Brazilian APIs
+- MCP Server
+- Public Data
+- AI Agents
+- Government Data
+source: https://github.com/ungarbed-triggerfish318/mcp-brasil
+discovered_at: '2026-07-07T20:52:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

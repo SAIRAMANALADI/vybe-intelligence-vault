@@ -1,13 +1,22 @@
 ---
-title: "stern-mathematicalstatement418/pcurl"
-category: "Tooling"
-tech_stack: ["Python", "OS Keychain (e.g., macOS Keychain, Windows Credential Manager, Linux Keyring)", "Shell Scripting", "Runtime Secret Injection"]
+title: stern-mathematicalstatement418/pcurl
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- OS Keychain (e.g., macOS Keychain, Windows Credential Manager, Linux Keyring)
+- Shell Scripting
+- Runtime Secret Injection
 quality_score: 5
 rag_relevance: 7
-tags: ["secrets management", "secure curl", "runtime injection", "OS keychain", "credential security"]
-source: "https://github.com/stern-mathematicalstatement418/pcurl"
-discovered_at: "2026-07-07T06:41:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- secrets management
+- secure curl
+- runtime injection
+- OS keychain
+- credential security
+source: https://github.com/stern-mathematicalstatement418/pcurl
+discovered_at: '2026-07-07T06:41:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

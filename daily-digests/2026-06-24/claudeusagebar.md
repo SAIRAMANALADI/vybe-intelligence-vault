@@ -1,13 +1,22 @@
 ---
-title: "pink-electrostatics104/ClaudeUsageBar"
-category: "Tooling"
-tech_stack: ["Swift", "macOS", "Browser Cookies", "Local Execution"]
+title: pink-electrostatics104/ClaudeUsageBar
+category: daily-digests/2026-06-24
+tech_stack:
+- Swift
+- macOS
+- Browser Cookies
+- Local Execution
 quality_score: 7
 rag_relevance: 3
-tags: ["Claude AI", "Usage Monitoring", "macOS Menu Bar", "Rate Limits", "Local Privacy"]
-source: "https://github.com/pink-electrostatics104/ClaudeUsageBar"
-discovered_at: "2026-06-24T06:44:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude AI
+- Usage Monitoring
+- macOS Menu Bar
+- Rate Limits
+- Local Privacy
+source: https://github.com/pink-electrostatics104/ClaudeUsageBar
+discovered_at: '2026-06-24T06:44:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

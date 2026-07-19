@@ -1,13 +1,24 @@
 ---
-title: "slavins-co/cellartracker-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "CSV parsing", "OS keychain integration", "Environment variables"]
+title: slavins-co/cellartracker-mcp
+category: daily-digests/2026-07-16
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- CSV parsing
+- OS keychain integration
+- Environment variables
 quality_score: 9
 rag_relevance: 6
-tags: ["MCP server", "wine inventory", "AI integration", "data retrieval", "natural language queries"]
-source: "https://github.com/slavins-co/cellartracker-mcp"
-discovered_at: "2026-07-11T20:09:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- wine inventory
+- AI integration
+- data retrieval
+- natural language queries
+source: https://github.com/slavins-co/cellartracker-mcp
+discovered_at: '2026-07-11T20:09:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

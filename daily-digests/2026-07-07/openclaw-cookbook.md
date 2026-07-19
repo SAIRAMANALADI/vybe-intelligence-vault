@@ -1,13 +1,25 @@
 ---
-title: "philbertexceptional796/openclaw-cookbook"
-category: "Tooling"
-tech_stack: ["OpenClaw", "Windows", "Telegram API", "Discord API", "Slack API", "WhatsApp API", "Docker Compose"]
+title: philbertexceptional796/openclaw-cookbook
+category: daily-digests/2026-07-07
+tech_stack:
+- OpenClaw
+- Windows
+- Telegram API
+- Discord API
+- Slack API
+- WhatsApp API
+- Docker Compose
 quality_score: 7
 rag_relevance: 6
-tags: ["AI agent setup", "self-hosted", "multi-channel integration", "chatbot deployment", "pre-configured recipes"]
-source: "https://github.com/philbertexceptional796/openclaw-cookbook"
-discovered_at: "2026-07-07T06:42:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent setup
+- self-hosted
+- multi-channel integration
+- chatbot deployment
+- pre-configured recipes
+source: https://github.com/philbertexceptional796/openclaw-cookbook
+discovered_at: '2026-07-07T06:42:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "sema-lisp/sema"
-category: "Agent Framework"
-tech_stack: ["Rust", "Lisp", "LLM APIs", "Bytecode VM", "WebAssembly", "CLI Tools"]
+title: sema-lisp/sema
+category: daily-digests/2026-07-07
+tech_stack:
+- Rust
+- Lisp
+- LLM APIs
+- Bytecode VM
+- WebAssembly
+- CLI Tools
 quality_score: 9
 rag_relevance: 8
-tags: ["LLM agents", "Lisp dialect", "bytecode VM", "RAG tooling", "agent primitives"]
-source: "https://github.com/sema-lisp/sema"
-discovered_at: "2026-07-07T16:27:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LLM agents
+- Lisp dialect
+- bytecode VM
+- RAG tooling
+- agent primitives
+source: https://github.com/sema-lisp/sema
+discovered_at: '2026-07-07T16:27:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

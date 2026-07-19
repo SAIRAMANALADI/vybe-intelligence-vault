@@ -1,13 +1,25 @@
 ---
-title: "pgplex/pgconsole"
-category: "Tooling"
-tech_stack: ["TypeScript", "PostgreSQL", "Node.js", "Docker", "Model Context Protocol (MCP)", "AI/LLM Integration", "TOML (Configuration)"]
+title: pgplex/pgconsole
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- PostgreSQL
+- Node.js
+- Docker
+- Model Context Protocol (MCP)
+- AI/LLM Integration
+- TOML (Configuration)
 quality_score: 9
 rag_relevance: 8
-tags: ["PostgreSQL", "SQL Editor", "AI Assistant", "Access Control", "Audit Logging"]
-source: "https://github.com/pgplex/pgconsole"
-discovered_at: "2026-06-25T11:41:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- PostgreSQL
+- SQL Editor
+- AI Assistant
+- Access Control
+- Audit Logging
+source: https://github.com/pgplex/pgconsole
+discovered_at: '2026-06-25T11:41:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

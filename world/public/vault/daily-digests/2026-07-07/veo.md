@@ -1,13 +1,24 @@
 ---
-title: "Mercantile-danaidae17/veo"
-category: "UI Component"
-tech_stack: ["TypeScript", "Node.js", "npm", "Electron (implied)", "React (implied)", "Gemini API"]
+title: Mercantile-danaidae17/veo
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- npm
+- Electron (implied)
+- React (implied)
+- Gemini API
 quality_score: 6
 rag_relevance: 5
-tags: ["Windows desktop app", "AI Studio runner", "local AI deployment", "Gemini API integration", "no-code setup"]
-source: "https://github.com/Mercantile-danaidae17/veo"
-discovered_at: "2026-07-07T20:51:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Windows desktop app
+- AI Studio runner
+- local AI deployment
+- Gemini API integration
+- no-code setup
+source: https://github.com/Mercantile-danaidae17/veo
+discovered_at: '2026-07-07T20:51:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

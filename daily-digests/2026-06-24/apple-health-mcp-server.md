@@ -1,13 +1,25 @@
 ---
-title: "rinoshiyo/apple-health-mcp-server"
-category: "Tooling"
-tech_stack: ["Python", "DuckDB", "Model Context Protocol (MCP)", "FastMCP", "uv", "XML/CSV/GPX Parsing", "SQL"]
+title: rinoshiyo/apple-health-mcp-server
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- DuckDB
+- Model Context Protocol (MCP)
+- FastMCP
+- uv
+- XML/CSV/GPX Parsing
+- SQL
 quality_score: 9
 rag_relevance: 7
-tags: ["Apple Health", "MCP Server", "Health Data", "Local AI", "DuckDB"]
-source: "https://github.com/rinoshiyo/apple-health-mcp-server"
-discovered_at: "2026-06-24T10:23:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Apple Health
+- MCP Server
+- Health Data
+- Local AI
+- DuckDB
+source: https://github.com/rinoshiyo/apple-health-mcp-server
+discovered_at: '2026-06-24T10:23:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

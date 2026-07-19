@@ -1,13 +1,27 @@
 ---
-title: "Tempguru-co/tempguru-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Next.js", "Model Context Protocol (MCP)", "Streamable HTTP", "Open Knowledge Format (OKF)", "Vercel", "Cloudflare Workers", "Redis", "Docker"]
+title: Tempguru-co/tempguru-mcp
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Next.js
+- Model Context Protocol (MCP)
+- Streamable HTTP
+- Open Knowledge Format (OKF)
+- Vercel
+- Cloudflare Workers
+- Redis
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["event staffing", "MCP server", "W-2 workforce", "rate benchmarking", "compliance data"]
-source: "https://github.com/Tempguru-co/tempguru-mcp"
-discovered_at: "2026-06-24T20:52:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- event staffing
+- MCP server
+- W-2 workforce
+- rate benchmarking
+- compliance data
+source: https://github.com/Tempguru-co/tempguru-mcp
+discovered_at: '2026-06-24T20:52:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

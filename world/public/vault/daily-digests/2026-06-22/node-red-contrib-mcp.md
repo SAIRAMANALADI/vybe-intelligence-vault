@@ -1,13 +1,24 @@
 ---
-title: "tode77/node-red-contrib-mcp"
-category: "Agent Framework"
-tech_stack: ["Node.js", "Node-RED", "JavaScript", "Model Context Protocol (MCP)", "HTTP/SSE Transport", "OpenAI-compatible APIs"]
+title: tode77/node-red-contrib-mcp
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Node.js
+- Node-RED
+- JavaScript
+- Model Context Protocol (MCP)
+- HTTP/SSE Transport
+- OpenAI-compatible APIs
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP", "Node-RED", "AI Agents", "Low-code", "Industrial Automation"]
-source: "https://github.com/tode77/node-red-contrib-mcp"
-discovered_at: "2026-06-22T18:51:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- Node-RED
+- AI Agents
+- Low-code
+- Industrial Automation
+source: https://github.com/tode77/node-red-contrib-mcp
+discovered_at: '2026-06-22T18:51:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

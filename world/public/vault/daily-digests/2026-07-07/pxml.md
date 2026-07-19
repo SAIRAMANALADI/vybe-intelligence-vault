@@ -1,13 +1,25 @@
 ---
-title: "two-tech-dev/pxml"
-category: "Tooling"
-tech_stack: ["TypeScript", "XML", "Node.js", "CLI", "AI/LLM Integration", "Vitest", "XSD Schema"]
+title: two-tech-dev/pxml
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- XML
+- Node.js
+- CLI
+- AI/LLM Integration
+- Vitest
+- XSD Schema
 quality_score: 8
 rag_relevance: 9
-tags: ["AI code generation", "structured prompts", "self-healing repairs", "XML DSL", "multi-stack support"]
-source: "https://github.com/two-tech-dev/pxml"
-discovered_at: "2026-07-07T18:58:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI code generation
+- structured prompts
+- self-healing repairs
+- XML DSL
+- multi-stack support
+source: https://github.com/two-tech-dev/pxml
+discovered_at: '2026-07-07T18:58:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

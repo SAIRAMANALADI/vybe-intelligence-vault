@@ -1,13 +1,22 @@
 ---
-title: "theflixerbox77/ralph-wiggum-codex"
-category: "Agent Framework"
-tech_stack: ["Windows", "Shell", "AI-driven iterative refinement", "Autonomous agent framework"]
+title: theflixerbox77/ralph-wiggum-codex
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Windows
+- Shell
+- AI-driven iterative refinement
+- Autonomous agent framework
 quality_score: 7
 rag_relevance: 6
-tags: ["autonomous coding", "code refinement", "Windows automation", "iterative validation", "AI agent"]
-source: "https://github.com/theflixerbox77/ralph-wiggum-codex"
-discovered_at: "2026-06-22T18:51:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous coding
+- code refinement
+- Windows automation
+- iterative validation
+- AI agent
+source: https://github.com/theflixerbox77/ralph-wiggum-codex
+discovered_at: '2026-06-22T18:51:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

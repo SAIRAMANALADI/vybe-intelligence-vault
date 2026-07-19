@@ -1,13 +1,22 @@
 ---
-title: "Screwtopped-annapavlova802/SparkLabs"
-category: "Tooling"
-tech_stack: ["C++", "Windows API", "Game Engine", "AI Agents"]
+title: Screwtopped-annapavlova802/SparkLabs
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- C++
+- Windows API
+- Game Engine
+- AI Agents
 quality_score: 6
 rag_relevance: 3
-tags: ["game engine", "AI-driven games", "NPC behavior", "Windows application", "game prototyping"]
-source: "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-discovered_at: "2026-07-07T23:55:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- game engine
+- AI-driven games
+- NPC behavior
+- Windows application
+- game prototyping
+source: https://github.com/Screwtopped-annapavlova802/SparkLabs
+discovered_at: '2026-07-07T23:55:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

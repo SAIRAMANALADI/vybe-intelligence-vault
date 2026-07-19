@@ -1,13 +1,22 @@
 ---
-title: "Deadnessdarfur431/cli"
-category: "Tooling"
-tech_stack: ["Python", "Jina AI", "Windows Command Prompt", "PowerShell"]
+title: Deadnessdarfur431/cli
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Jina AI
+- Windows Command Prompt
+- PowerShell
 quality_score: 7
 rag_relevance: 6
-tags: ["Windows CLI", "Jina AI", "AI Commands", "Text Embeddings", "Local AI"]
-source: "https://github.com/Deadnessdarfur431/cli"
-discovered_at: "2026-06-23T02:46:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Windows CLI
+- Jina AI
+- AI Commands
+- Text Embeddings
+- Local AI
+source: https://github.com/Deadnessdarfur431/cli
+discovered_at: '2026-06-23T02:46:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

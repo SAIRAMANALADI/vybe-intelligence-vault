@@ -1,13 +1,31 @@
 ---
-title: "presenton/presenton"
-category: "Tooling"
-tech_stack: ["TypeScript", "Python", "FastAPI", "Next.js", "Electron", "Docker", "Tailwind CSS", "Ollama", "OpenAI API", "Gemini", "Azure OpenAI", "Anthropic", "Model Context Protocol (MCP)"]
+title: presenton/presenton
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Python
+- FastAPI
+- Next.js
+- Electron
+- Docker
+- Tailwind CSS
+- Ollama
+- OpenAI API
+- Gemini
+- Azure OpenAI
+- Anthropic
+- Model Context Protocol (MCP)
 quality_score: 9
 rag_relevance: 7
-tags: ["AI Presentation", "Self-hosted", "Open-source", "Multi-model", "PPTX Export"]
-source: "https://github.com/presenton/presenton"
-discovered_at: "2026-06-25T05:02:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Presentation
+- Self-hosted
+- Open-source
+- Multi-model
+- PPTX Export
+source: https://github.com/presenton/presenton
+discovered_at: '2026-06-25T05:02:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

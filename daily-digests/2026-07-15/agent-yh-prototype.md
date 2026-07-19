@@ -1,13 +1,27 @@
 ---
-title: "dragonwang71/agent-yh-prototype"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "React", "Vitest", "Node.js", "Yahoo! JAPAN APIs (Shopping, Maps, Weather)", "OpenAI API", "GitHub Actions", "NDJSON streaming", "i18n (Japanese, English, Chinese)"]
+title: dragonwang71/agent-yh-prototype
+category: daily-digests/2026-07-15
+tech_stack:
+- TypeScript
+- React
+- Vitest
+- Node.js
+- Yahoo! JAPAN APIs (Shopping, Maps, Weather)
+- OpenAI API
+- GitHub Actions
+- NDJSON streaming
+- i18n (Japanese, English, Chinese)
 quality_score: 8
 rag_relevance: 7
-tags: ["AI agent", "source-grounded", "multi-API integration", "real-time decision making", "observability"]
-source: "https://github.com/dragonwang71/agent-yh-prototype"
-discovered_at: "2026-07-14T22:55:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- source-grounded
+- multi-API integration
+- real-time decision making
+- observability
+source: https://github.com/dragonwang71/agent-yh-prototype
+discovered_at: '2026-07-14T22:55:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

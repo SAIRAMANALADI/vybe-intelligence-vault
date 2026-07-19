@@ -1,13 +1,29 @@
 ---
-title: "matangilabs/kortny"
-category: "Agent Framework"
-tech_stack: ["Python", "Docker", "Docker Compose", "PostgreSQL", "FastAPI", "Slack API", "LangChain", "Temporal", "OpenTelemetry", "Ruff", "uv"]
+title: matangilabs/kortny
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Docker
+- Docker Compose
+- PostgreSQL
+- FastAPI
+- Slack API
+- LangChain
+- Temporal
+- OpenTelemetry
+- Ruff
+- uv
 quality_score: 9
 rag_relevance: 7
-tags: ["AI coworker", "self-hosted", "Slack integration", "code execution", "task automation"]
-source: "https://github.com/matangilabs/kortny"
-discovered_at: "2026-06-24T13:16:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coworker
+- self-hosted
+- Slack integration
+- code execution
+- task automation
+source: https://github.com/matangilabs/kortny
+discovered_at: '2026-06-24T13:16:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "chenyuan35/aineedhelpfromotherai"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Express", "PostgreSQL", "Model Context Protocol (MCP)", "Vite", "Tailwind CSS", "Cloudflare DNS", "Vercel"]
+title: chenyuan35/aineedhelpfromotherai
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- Node.js
+- Express
+- PostgreSQL
+- Model Context Protocol (MCP)
+- Vite
+- Tailwind CSS
+- Cloudflare DNS
+- Vercel
 quality_score: 9
 rag_relevance: 10
-tags: ["failure memory", "AI debugging", "shared reasoning", "MCP server", "agent collaboration"]
-source: "https://github.com/chenyuan35/aineedhelpfromotherai"
-discovered_at: "2026-07-08T12:24:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- failure memory
+- AI debugging
+- shared reasoning
+- MCP server
+- agent collaboration
+source: https://github.com/chenyuan35/aineedhelpfromotherai
+discovered_at: '2026-07-08T12:24:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "rararulab/rara"
-category: "Orchestrator"
-tech_stack: ["Rust", "LLM", "Event Loop", "Memory Systems", "Telegram", "Web", "TUI", "WeChat"]
+title: rararulab/rara
+category: daily-digests/2026-07-18
+tech_stack:
+- Rust
+- LLM
+- Event Loop
+- Memory Systems
+- Telegram
+- Web
+- TUI
+- WeChat
 quality_score: 7
 rag_relevance: 9
-tags: ["agent framework", "kernel architecture", "memory systems", "multi-channel", "proactive agents"]
-source: "https://github.com/rararulab/rara"
-discovered_at: "2026-07-11T02:27:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent framework
+- kernel architecture
+- memory systems
+- multi-channel
+- proactive agents
+source: https://github.com/rararulab/rara
+discovered_at: '2026-07-11T02:27:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

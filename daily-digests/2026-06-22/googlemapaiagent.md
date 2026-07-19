@@ -1,13 +1,22 @@
 ---
-title: "codezer0x/GoogleMapAIagent"
-category: "Tooling"
-tech_stack: ["Python", "OpenAI", "Google Maps API", "Google Sheets API"]
+title: codezer0x/GoogleMapAIagent
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- OpenAI
+- Google Maps API
+- Google Sheets API
 quality_score: 5
 rag_relevance: 4
-tags: ["lead generation", "Google Maps", "data extraction", "automation", "business intelligence"]
-source: "https://github.com/codezer0x/GoogleMapAIagent"
-discovered_at: "2026-06-22T23:17:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- lead generation
+- Google Maps
+- data extraction
+- automation
+- business intelligence
+source: https://github.com/codezer0x/GoogleMapAIagent
+discovered_at: '2026-06-22T23:17:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,31 @@
 ---
-title: "RyanCoreAI/spring-ai-crossborder-customer-service"
-category: "Orchestrator"
-tech_stack: ["Spring Boot 4", "Spring AI 2", "Java 21", "MySQL 8.0", "PostgreSQL 16 + pgvector", "Redis 7", "RocketMQ 5.1", "Vue 3", "Ant Design Vue", "TypeScript", "Docker", "Flyway", "Resilience4j"]
+title: RyanCoreAI/spring-ai-crossborder-customer-service
+category: daily-digests/2026-07-14
+tech_stack:
+- Spring Boot 4
+- Spring AI 2
+- Java 21
+- MySQL 8.0
+- PostgreSQL 16 + pgvector
+- Redis 7
+- RocketMQ 5.1
+- Vue 3
+- Ant Design Vue
+- TypeScript
+- Docker
+- Flyway
+- Resilience4j
 quality_score: 9
 rag_relevance: 10
-tags: ["RAG", "Agent Orchestration", "Multi-tenant Security", "Ecommerce Helpdesk", "Observability"]
-source: "https://github.com/RyanCoreAI/spring-ai-crossborder-customer-service"
-discovered_at: "2026-07-13T02:34:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RAG
+- Agent Orchestration
+- Multi-tenant Security
+- Ecommerce Helpdesk
+- Observability
+source: https://github.com/RyanCoreAI/spring-ai-crossborder-customer-service
+discovered_at: '2026-07-13T02:34:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,32 @@
 ---
-title: "vul-os/vulos"
-category: "Orchestrator"
-tech_stack: ["Go 1.25", "React 19", "Vite", "Tailwind CSS", "WebRTC", "WebAuthn/FIDO2", "SQLite", "CRDTs", "Ed25519", "WebSocket", "Docker", "TypeScript", "Yjs", "Restic"]
+title: vul-os/vulos
+category: daily-digests/2026-07-06
+tech_stack:
+- Go 1.25
+- React 19
+- Vite
+- Tailwind CSS
+- WebRTC
+- WebAuthn/FIDO2
+- SQLite
+- CRDTs
+- Ed25519
+- WebSocket
+- Docker
+- TypeScript
+- Yjs
+- Restic
 quality_score: 9
 rag_relevance: 7
-tags: ["self-hosted OS", "AI assistant", "web-native desktop", "peer-to-peer sync", "local-first storage"]
-source: "https://github.com/vul-os/vulos"
-discovered_at: "2026-07-06T21:25:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-hosted OS
+- AI assistant
+- web-native desktop
+- peer-to-peer sync
+- local-first storage
+source: https://github.com/vul-os/vulos
+discovered_at: '2026-07-06T21:25:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "aislon/uizze-mcp"
-category: "Tooling"
-tech_stack: ["MCP (Model Context Protocol)", "HTTP/REST APIs", "Bearer Token Authentication", "OCR (Optical Character Recognition)", "Structured Data Contracts"]
+title: aislon/uizze-mcp
+category: daily-digests/2026-07-15
+tech_stack:
+- MCP (Model Context Protocol)
+- HTTP/REST APIs
+- Bearer Token Authentication
+- OCR (Optical Character Recognition)
+- Structured Data Contracts
 quality_score: 8
 rag_relevance: 7
-tags: ["UI design", "coding agents", "MCP server", "design validation", "anti-slop"]
-source: "https://github.com/aislon/uizze-mcp"
-discovered_at: "2026-07-11T22:45:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- UI design
+- coding agents
+- MCP server
+- design validation
+- anti-slop
+source: https://github.com/aislon/uizze-mcp
+discovered_at: '2026-07-11T22:45:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

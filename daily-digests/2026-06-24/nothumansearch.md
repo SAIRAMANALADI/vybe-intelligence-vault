@@ -1,13 +1,26 @@
 ---
-title: "unitedideas/nothumansearch"
-category: "Tooling"
-tech_stack: ["Go", "Postgres", "Fly.io", "MCP (Model Context Protocol)", "HTTP API", "IndexNow", "JSON-RPC", "Streamable HTTP"]
+title: unitedideas/nothumansearch
+category: daily-digests/2026-06-24
+tech_stack:
+- Go
+- Postgres
+- Fly.io
+- MCP (Model Context Protocol)
+- HTTP API
+- IndexNow
+- JSON-RPC
+- Streamable HTTP
 quality_score: 9
 rag_relevance: 9
-tags: ["AI agent search", "agentic readiness", "MCP server", "OpenAPI indexing", "LLM-friendly web"]
-source: "https://github.com/unitedideas/nothumansearch"
-discovered_at: "2026-06-24T16:23:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent search
+- agentic readiness
+- MCP server
+- OpenAPI indexing
+- LLM-friendly web
+source: https://github.com/unitedideas/nothumansearch
+discovered_at: '2026-06-24T16:23:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

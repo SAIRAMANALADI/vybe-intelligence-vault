@@ -1,13 +1,26 @@
 ---
-title: "leemysw/feishu-docx"
-category: "Tooling"
-tech_stack: ["Python", "Feishu/Lark API", "Markdown", "Textual (TUI)", "Playwright (browser export)", "WeasyPrint (PDF export)", "OAuth 2.0", "CLI"]
+title: leemysw/feishu-docx
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- Feishu/Lark API
+- Markdown
+- Textual (TUI)
+- Playwright (browser export)
+- WeasyPrint (PDF export)
+- OAuth 2.0
+- CLI
 quality_score: 9
 rag_relevance: 9
-tags: ["document export", "Feishu integration", "Markdown conversion", "AI agent tooling", "knowledge base management"]
-source: "https://github.com/leemysw/feishu-docx"
-discovered_at: "2026-07-08T08:17:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- document export
+- Feishu integration
+- Markdown conversion
+- AI agent tooling
+- knowledge base management
+source: https://github.com/leemysw/feishu-docx
+discovered_at: '2026-07-08T08:17:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

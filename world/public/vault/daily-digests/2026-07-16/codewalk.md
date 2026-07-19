@@ -1,13 +1,36 @@
 ---
-title: "gupta29470/codewalk"
-category: "Tooling"
-tech_stack: ["Python", "Next.js", "LangGraph", "ChromaDB", "DuckDB", "igraph", "Tree-sitter", "FastAPI", "Ollama", "OpenAI", "Anthropic", "Groq", "Gemini", "OpenRouter", "DeepSeek", "faster-whisper", "D3.js", "ELK.js"]
+title: gupta29470/codewalk
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- Python
+- Next.js
+- LangGraph
+- ChromaDB
+- DuckDB
+- igraph
+- Tree-sitter
+- FastAPI
+- Ollama
+- OpenAI
+- Anthropic
+- Groq
+- Gemini
+- OpenRouter
+- DeepSeek
+- faster-whisper
+- D3.js
+- ELK.js
 quality_score: 9
 rag_relevance: 10
-tags: ["codebase intelligence", "dependency graph", "AI-powered reviews", "RAG", "MCP integration"]
-source: "https://github.com/gupta29470/codewalk"
-discovered_at: "2026-07-12T20:42:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- codebase intelligence
+- dependency graph
+- AI-powered reviews
+- RAG
+- MCP integration
+source: https://github.com/gupta29470/codewalk
+discovered_at: '2026-07-12T20:42:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

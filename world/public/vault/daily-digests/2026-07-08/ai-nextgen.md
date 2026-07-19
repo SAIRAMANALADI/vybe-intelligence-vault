@@ -1,13 +1,22 @@
 ---
-title: "pudurvenu/AI-NextGen"
-category: "Tooling"
-tech_stack: ["Electron", "JavaScript/TypeScript", "Python (potentially)", "Custom UI Framework"]
+title: pudurvenu/AI-NextGen
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Electron
+- JavaScript/TypeScript
+- Python (potentially)
+- Custom UI Framework
 quality_score: 4
 rag_relevance: 3
-tags: ["desktop application", "creative tools", "user-friendly", "secure workflow", "AI-powered"]
-source: "https://github.com/pudurvenu/AI-NextGen"
-discovered_at: "2026-07-08T12:24:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- desktop application
+- creative tools
+- user-friendly
+- secure workflow
+- AI-powered
+source: https://github.com/pudurvenu/AI-NextGen
+discovered_at: '2026-07-08T12:24:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "NachaFromMars/self-improving"
-category: "Tooling"
-tech_stack: ["Markdown", "File-based storage", "Memory tiering", "Correction logging"]
+title: NachaFromMars/self-improving
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Markdown
+- File-based storage
+- Memory tiering
+- Correction logging
 quality_score: 7
 rag_relevance: 8
-tags: ["memory management", "knowledge retention", "agent learning", "correction tracking", "tiered storage"]
-source: "https://github.com/NachaFromMars/self-improving"
-discovered_at: "2026-06-23T06:47:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory management
+- knowledge retention
+- agent learning
+- correction tracking
+- tiered storage
+source: https://github.com/NachaFromMars/self-improving
+discovered_at: '2026-06-23T06:47:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

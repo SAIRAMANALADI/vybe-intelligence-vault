@@ -1,13 +1,25 @@
 ---
-title: "wesleysimplicio/simplicio-dev-cli"
-category: "Tooling"
-tech_stack: ["Python", "CLI", "LLM Integration", "Testing Frameworks", "Benchmarking", "Git", "PyPI"]
+title: wesleysimplicio/simplicio-dev-cli
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- CLI
+- LLM Integration
+- Testing Frameworks
+- Benchmarking
+- Git
+- PyPI
 quality_score: 9
 rag_relevance: 9
-tags: ["code generation", "LLM orchestration", "automated testing", "prompt engineering", "verification loops"]
-source: "https://github.com/wesleysimplicio/simplicio-dev-cli"
-discovered_at: "2026-06-25T17:08:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code generation
+- LLM orchestration
+- automated testing
+- prompt engineering
+- verification loops
+source: https://github.com/wesleysimplicio/simplicio-dev-cli
+discovered_at: '2026-06-25T17:08:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "tucked-angiologist465/agent-automation-creator"
-category: "Orchestrator"
-tech_stack: ["Python", "HTML", "PDF", "Claude Code", "Bedrock", "Twilio", "RevolutionEHR"]
+title: tucked-angiologist465/agent-automation-creator
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- HTML
+- PDF
+- Claude Code
+- Bedrock
+- Twilio
+- RevolutionEHR
 quality_score: 9
 rag_relevance: 8
-tags: ["workflow automation", "AI governance", "process mapping", "closed-loop AI", "operational reliability"]
-source: "https://github.com/tucked-angiologist465/agent-automation-creator"
-discovered_at: "2026-06-24T22:16:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- workflow automation
+- AI governance
+- process mapping
+- closed-loop AI
+- operational reliability
+source: https://github.com/tucked-angiologist465/agent-automation-creator
+discovered_at: '2026-06-24T22:16:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

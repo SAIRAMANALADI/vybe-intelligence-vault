@@ -1,13 +1,23 @@
 ---
-title: "fisher-admin/stock-report"
-category: "UI Component"
-tech_stack: ["JavaScript", "HTML/CSS", "JSON", "GitHub Actions", "AI-generated analysis"]
+title: fisher-admin/stock-report
+category: daily-digests/2026-06-25
+tech_stack:
+- JavaScript
+- HTML/CSS
+- JSON
+- GitHub Actions
+- AI-generated analysis
 quality_score: 8
 rag_relevance: 7
-tags: ["quantitative trading", "AI agent pipeline", "A-share market", "dashboard", "data traceability"]
-source: "https://github.com/fisher-admin/stock-report"
-discovered_at: "2026-06-25T00:06:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- quantitative trading
+- AI agent pipeline
+- A-share market
+- dashboard
+- data traceability
+source: https://github.com/fisher-admin/stock-report
+discovered_at: '2026-06-25T00:06:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

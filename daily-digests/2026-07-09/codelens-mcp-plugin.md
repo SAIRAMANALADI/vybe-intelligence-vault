@@ -1,13 +1,27 @@
 ---
-title: "mupozg823/codelens-mcp-plugin"
-category: "Agent Framework"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "tree-sitter", "BM25", "SQLite", "ONNX Runtime", "LSP (Language Server Protocol)", "HTTP Daemon", "FastEmbed"]
+title: mupozg823/codelens-mcp-plugin
+category: daily-digests/2026-07-09
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- tree-sitter
+- BM25
+- SQLite
+- ONNX Runtime
+- LSP (Language Server Protocol)
+- HTTP Daemon
+- FastEmbed
 quality_score: 9
 rag_relevance: 9
-tags: ["code intelligence", "multi-agent", "hybrid retrieval", "mutation gating", "token optimization"]
-source: "https://github.com/mupozg823/codelens-mcp-plugin"
-discovered_at: "2026-07-09T04:47:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code intelligence
+- multi-agent
+- hybrid retrieval
+- mutation gating
+- token optimization
+source: https://github.com/mupozg823/codelens-mcp-plugin
+discovered_at: '2026-07-09T04:47:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

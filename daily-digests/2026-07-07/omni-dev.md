@@ -1,13 +1,27 @@
 ---
-title: "rust-works/omni-dev"
-category: "Tooling"
-tech_stack: ["Rust", "Claude AI", "Git", "MCP (Model Context Protocol)", "Jira", "Confluence", "Datadog", "Snowflake SQL", "Nix"]
+title: rust-works/omni-dev
+category: daily-digests/2026-07-07
+tech_stack:
+- Rust
+- Claude AI
+- Git
+- MCP (Model Context Protocol)
+- Jira
+- Confluence
+- Datadog
+- Snowflake SQL
+- Nix
 quality_score: 9
 rag_relevance: 7
-tags: ["AI commit message generator", "Git workflow automation", "MCP server", "Rust tooling", "PR description generator"]
-source: "https://github.com/rust-works/omni-dev"
-discovered_at: "2026-07-07T13:17:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI commit message generator
+- Git workflow automation
+- MCP server
+- Rust tooling
+- PR description generator
+source: https://github.com/rust-works/omni-dev
+discovered_at: '2026-07-07T13:17:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

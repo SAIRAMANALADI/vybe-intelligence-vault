@@ -1,13 +1,29 @@
 ---
-title: "DustinTrap/kvm-pilot"
-category: "Tooling"
-tech_stack: ["Python", "REST API", "Vision Language Models (VLM)", "Claude API", "OpenAI-compatible APIs", "Redfish BMC", "PiKVM", "GL.iNet GLKVM", "BliKVM", "WebSocket", "MCP Server"]
+title: DustinTrap/kvm-pilot
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- REST API
+- Vision Language Models (VLM)
+- Claude API
+- OpenAI-compatible APIs
+- Redfish BMC
+- PiKVM
+- GL.iNet GLKVM
+- BliKVM
+- WebSocket
+- MCP Server
 quality_score: 8
 rag_relevance: 9
-tags: ["bare-metal control", "boot-phase detection", "headless automation", "KVM management", "vision-based classification"]
-source: "https://github.com/DustinTrap/kvm-pilot"
-discovered_at: "2026-07-07T13:17:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- bare-metal control
+- boot-phase detection
+- headless automation
+- KVM management
+- vision-based classification
+source: https://github.com/DustinTrap/kvm-pilot
+discovered_at: '2026-07-07T13:17:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

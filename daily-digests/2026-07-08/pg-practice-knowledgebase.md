@@ -1,13 +1,24 @@
 ---
-title: "bokyostudio/pg-practice-knowledgebase"
-category: "Tooling"
-tech_stack: ["PostgreSQL", "YAML", "CLI", "Python", "Mermaid.js", "LLM APIs (OpenAI, Anthropic)"]
+title: bokyostudio/pg-practice-knowledgebase
+category: daily-digests/2026-07-08
+tech_stack:
+- PostgreSQL
+- YAML
+- CLI
+- Python
+- Mermaid.js
+- LLM APIs (OpenAI, Anthropic)
 quality_score: 8
 rag_relevance: 9
-tags: ["PostgreSQL", "AI code generation", "versioned documentation", "anti-pattern detection", "schema-aware prompts"]
-source: "https://github.com/bokyostudio/pg-practice-knowledgebase"
-discovered_at: "2026-07-08T22:15:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- PostgreSQL
+- AI code generation
+- versioned documentation
+- anti-pattern detection
+- schema-aware prompts
+source: https://github.com/bokyostudio/pg-practice-knowledgebase
+discovered_at: '2026-07-08T22:15:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

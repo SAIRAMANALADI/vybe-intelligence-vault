@@ -1,13 +1,23 @@
 ---
-title: "mahaishu/n8n-CyberSecurity-Workflows"
-category: "Tooling"
-tech_stack: ["n8n", "JavaScript", "Python", "REST APIs", "Cybersecurity Tools"]
+title: mahaishu/n8n-CyberSecurity-Workflows
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- n8n
+- JavaScript
+- Python
+- REST APIs
+- Cybersecurity Tools
 quality_score: 6
 rag_relevance: 7
-tags: ["cybersecurity automation", "n8n workflows", "red team", "blue team", "security playbooks"]
-source: "https://github.com/mahaishu/n8n-CyberSecurity-Workflows"
-discovered_at: "2026-06-23T19:08:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- cybersecurity automation
+- n8n workflows
+- red team
+- blue team
+- security playbooks
+source: https://github.com/mahaishu/n8n-CyberSecurity-Workflows
+discovered_at: '2026-06-23T19:08:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

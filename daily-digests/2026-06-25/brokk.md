@@ -1,13 +1,28 @@
 ---
-title: "cold-code-labs/brokk"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Next.js 15", "Hono", "Drizzle ORM", "PostgreSQL", "Docker", "Traefik", "Claude Agent SDK", "Semgrep", "Trivy"]
+title: cold-code-labs/brokk
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Next.js 15
+- Hono
+- Drizzle ORM
+- PostgreSQL
+- Docker
+- Traefik
+- Claude Agent SDK
+- Semgrep
+- Trivy
 quality_score: 9
 rag_relevance: 8
-tags: ["AI coding agent", "automated PR generation", "isolated git worktrees", "multi-agent orchestration", "self-hosted"]
-source: "https://github.com/cold-code-labs/brokk"
-discovered_at: "2026-06-25T17:08:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding agent
+- automated PR generation
+- isolated git worktrees
+- multi-agent orchestration
+- self-hosted
+source: https://github.com/cold-code-labs/brokk
+discovered_at: '2026-06-25T17:08:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

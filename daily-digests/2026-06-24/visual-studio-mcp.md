@@ -1,13 +1,23 @@
 ---
-title: "keny0322/visual-studio-mcp"
-category: "Tooling"
-tech_stack: ["C#", "MCP (Model Context Protocol)", "COM Interface", "Windows", "Visual Studio"]
+title: keny0322/visual-studio-mcp
+category: daily-digests/2026-06-24
+tech_stack:
+- C#
+- MCP (Model Context Protocol)
+- COM Interface
+- Windows
+- Visual Studio
 quality_score: 7
 rag_relevance: 6
-tags: ["AI-assisted development", "Visual Studio integration", "automated debugging", "MCP server", "COM interface"]
-source: "https://github.com/keny0322/visual-studio-mcp"
-discovered_at: "2026-06-24T16:15:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-assisted development
+- Visual Studio integration
+- automated debugging
+- MCP server
+- COM interface
+source: https://github.com/keny0322/visual-studio-mcp
+discovered_at: '2026-06-24T16:15:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

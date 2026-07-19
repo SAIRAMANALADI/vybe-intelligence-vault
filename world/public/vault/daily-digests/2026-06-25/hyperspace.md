@@ -1,13 +1,29 @@
 ---
-title: "freerunningkid/HyperSpace"
-category: "Orchestrator"
-tech_stack: ["Python", "Playwright", "DeepSeek Web API", "GitHub API", "Zhipu GLM API", "Agnes API", "SSE (Server-Sent Events)", "PoW (Proof of Work) for authentication", "CLI", "MCP (Model Context Protocol)", "YAML/JSON configuration"]
+title: freerunningkid/HyperSpace
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- Playwright
+- DeepSeek Web API
+- GitHub API
+- Zhipu GLM API
+- Agnes API
+- SSE (Server-Sent Events)
+- PoW (Proof of Work) for authentication
+- CLI
+- MCP (Model Context Protocol)
+- YAML/JSON configuration
 quality_score: 9
 rag_relevance: 8
-tags: ["LLM routing", "cost optimization", "agent middleware", "DeepSeek integration", "multi-provider fallback"]
-source: "https://github.com/freerunningkid/HyperSpace"
-discovered_at: "2026-06-25T14:14:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LLM routing
+- cost optimization
+- agent middleware
+- DeepSeek integration
+- multi-provider fallback
+source: https://github.com/freerunningkid/HyperSpace
+discovered_at: '2026-06-25T14:14:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

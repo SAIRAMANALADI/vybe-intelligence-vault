@@ -1,13 +1,26 @@
 ---
-title: "paladini/devutils-mcp-server"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "@modelcontextprotocol/sdk", "bcryptjs", "nanoid", "zod", "Docker"]
+title: paladini/devutils-mcp-server
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- '@modelcontextprotocol/sdk'
+- bcryptjs
+- nanoid
+- zod
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "developer utilities", "local tooling", "AI assistant integration", "JWT decoding"]
-source: "https://github.com/paladini/devutils-mcp-server"
-discovered_at: "2026-07-08T15:16:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- developer utilities
+- local tooling
+- AI assistant integration
+- JWT decoding
+source: https://github.com/paladini/devutils-mcp-server
+discovered_at: '2026-07-08T15:16:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

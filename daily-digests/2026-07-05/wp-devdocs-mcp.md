@@ -1,13 +1,23 @@
 ---
-title: "ankit2160/wp-devdocs-mcp"
-category: "Tooling"
-tech_stack: ["Python", "WordPress", "SQLite", "Web Scraping", "API Integration"]
+title: ankit2160/wp-devdocs-mcp
+category: daily-digests/2026-07-05
+tech_stack:
+- Python
+- WordPress
+- SQLite
+- Web Scraping
+- API Integration
 quality_score: 4
 rag_relevance: 8
-tags: ["WordPress", "hooks", "AI coding assistants", "documentation", "development tools"]
-source: "https://github.com/ankit2160/wp-devdocs-mcp"
-discovered_at: "2026-07-05T21:59:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- WordPress
+- hooks
+- AI coding assistants
+- documentation
+- development tools
+source: https://github.com/ankit2160/wp-devdocs-mcp
+discovered_at: '2026-07-05T21:59:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

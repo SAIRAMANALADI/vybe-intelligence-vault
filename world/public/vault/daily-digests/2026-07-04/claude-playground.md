@@ -1,13 +1,21 @@
 ---
-title: "yingzhuo/claude-playground"
-category: "Tooling"
-tech_stack: ["Java", "Claude Code", "DeepSeek V4 Pro"]
+title: yingzhuo/claude-playground
+category: world/public/vault/daily-digests/2026-07-04
+tech_stack:
+- Java
+- Claude Code
+- DeepSeek V4 Pro
 quality_score: 4
 rag_relevance: 3
-tags: ["Java", "Claude Code", "AI Development", "Skeleton", "Plugin Integration"]
-source: "https://github.com/yingzhuo/claude-playground"
-discovered_at: "2026-07-04T03:40:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Java
+- Claude Code
+- AI Development
+- Skeleton
+- Plugin Integration
+source: https://github.com/yingzhuo/claude-playground
+discovered_at: '2026-07-04T03:40:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

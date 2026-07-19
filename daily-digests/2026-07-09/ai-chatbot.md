@@ -1,13 +1,21 @@
 ---
-title: "heyitsvinny/ai-chatbot"
-category: "Tooling"
-tech_stack: ["Python", "Natural Language Processing", "Chatbot Framework"]
+title: heyitsvinny/ai-chatbot
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- Natural Language Processing
+- Chatbot Framework
 quality_score: 2
 rag_relevance: 3
-tags: ["chatbot", "NLP", "communication", "automation", "prototype"]
-source: "https://github.com/heyitsvinny/ai-chatbot"
-discovered_at: "2026-07-09T23:07:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- chatbot
+- NLP
+- communication
+- automation
+- prototype
+source: https://github.com/heyitsvinny/ai-chatbot
+discovered_at: '2026-07-09T23:07:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

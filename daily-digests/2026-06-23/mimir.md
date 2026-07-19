@@ -1,13 +1,26 @@
 ---
-title: "dbtlr/mimir"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "SQLite", "Kysely", "MCP (Model Context Protocol)", "REST API", "React (for UI console)", "Vite"]
+title: dbtlr/mimir
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Bun
+- SQLite
+- Kysely
+- MCP (Model Context Protocol)
+- REST API
+- React (for UI console)
+- Vite
 quality_score: 8
 rag_relevance: 7
-tags: ["work state management", "task tracking", "SQLite", "MCP server", "CLI tool"]
-source: "https://github.com/dbtlr/mimir"
-discovered_at: "2026-06-23T13:47:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- work state management
+- task tracking
+- SQLite
+- MCP server
+- CLI tool
+source: https://github.com/dbtlr/mimir
+discovered_at: '2026-06-23T13:47:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

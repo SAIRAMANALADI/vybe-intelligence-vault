@@ -1,13 +1,25 @@
 ---
-title: "kindrat86/agentmail"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "MCP (Model Context Protocol)", "Mail.tm (for disposable email)", "5sim/Twilio (for SMS verification)", "OFAC SDN List (sanctions data)", "SQLite (local caching)"]
+title: kindrat86/agentmail
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- FastAPI
+- MCP (Model Context Protocol)
+- Mail.tm (for disposable email)
+- 5sim/Twilio (for SMS verification)
+- OFAC SDN List (sanctions data)
+- SQLite (local caching)
 quality_score: 9
 rag_relevance: 8
-tags: ["compliance", "sanctions screening", "AI agent verification", "OFAC", "transaction risk scoring"]
-source: "https://github.com/kindrat86/agentmail"
-discovered_at: "2026-07-08T08:17:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- compliance
+- sanctions screening
+- AI agent verification
+- OFAC
+- transaction risk scoring
+source: https://github.com/kindrat86/agentmail
+discovered_at: '2026-07-08T08:17:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

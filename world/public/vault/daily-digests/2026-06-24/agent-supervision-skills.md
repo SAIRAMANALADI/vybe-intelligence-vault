@@ -1,13 +1,22 @@
 ---
-title: "drippy-passport968/agent-supervision-skills"
-category: "Tooling"
-tech_stack: ["PowerShell", "Windows API", "Local Bridge Architecture", "GUI (Windows Forms/WPF)"]
+title: drippy-passport968/agent-supervision-skills
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- PowerShell
+- Windows API
+- Local Bridge Architecture
+- GUI (Windows Forms/WPF)
 quality_score: 7
 rag_relevance: 5
-tags: ["AI agent supervision", "local monitoring", "Windows security", "coding agent control", "file change logging"]
-source: "https://github.com/drippy-passport968/agent-supervision-skills"
-discovered_at: "2026-06-24T06:47:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent supervision
+- local monitoring
+- Windows security
+- coding agent control
+- file change logging
+source: https://github.com/drippy-passport968/agent-supervision-skills
+discovered_at: '2026-06-24T06:47:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

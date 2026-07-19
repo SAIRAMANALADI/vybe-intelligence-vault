@@ -1,13 +1,31 @@
 ---
-title: "spyrae/kronos-agent-os"
-category: "Agent Framework"
-tech_stack: ["Python", "SQLite", "Mem0", "FTS5", "MCP (Model Context Protocol)", "Telegram API", "Discord API", "FastAPI", "Pydantic", "Docker", "Node.js", "React", "Mermaid.js"]
+title: spyrae/kronos-agent-os
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- SQLite
+- Mem0
+- FTS5
+- MCP (Model Context Protocol)
+- Telegram API
+- Discord API
+- FastAPI
+- Pydantic
+- Docker
+- Node.js
+- React
+- Mermaid.js
 quality_score: 9
 rag_relevance: 7
-tags: ["durable agents", "self-hosted", "multi-agent coordination", "MCP tools", "memory management"]
-source: "https://github.com/spyrae/kronos-agent-os"
-discovered_at: "2026-07-09T04:46:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- durable agents
+- self-hosted
+- multi-agent coordination
+- MCP tools
+- memory management
+source: https://github.com/spyrae/kronos-agent-os
+discovered_at: '2026-07-09T04:46:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,29 @@
 ---
-title: "jmagar/axon"
-category: "Orchestrator"
-tech_stack: ["Rust", "Docker", "Docker Compose", "Qdrant", "Hugging Face TEI", "Qwen/Qwen3-Embedding-0.6B", "Gemini CLI", "SearXNG", "Tavily", "Chrome", "NVIDIA Container Toolkit"]
+title: jmagar/axon
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Rust
+- Docker
+- Docker Compose
+- Qdrant
+- Hugging Face TEI
+- Qwen/Qwen3-Embedding-0.6B
+- Gemini CLI
+- SearXNG
+- Tavily
+- Chrome
+- NVIDIA Container Toolkit
 quality_score: 9
 rag_relevance: 10
-tags: ["RAG", "self-hosted", "vector database", "embedding", "MCP"]
-source: "https://github.com/jmagar/axon"
-discovered_at: "2026-06-24T18:54:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RAG
+- self-hosted
+- vector database
+- embedding
+- MCP
+source: https://github.com/jmagar/axon
+discovered_at: '2026-06-24T18:54:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

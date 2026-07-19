@@ -1,13 +1,25 @@
 ---
-title: "darthzen/ollama-code-mcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Ollama", "Qwen3", "FastAPI", "Docker", "Kubernetes"]
+title: darthzen/ollama-code-mcp
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Ollama
+- Qwen3
+- FastAPI
+- Docker
+- Kubernetes
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "Claude Code integration", "Ollama integration", "code generation", "local LLM"]
-source: "https://github.com/darthzen/ollama-code-mcp"
-discovered_at: "2026-07-09T19:31:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Claude Code integration
+- Ollama integration
+- code generation
+- local LLM
+source: https://github.com/darthzen/ollama-code-mcp
+discovered_at: '2026-07-09T19:31:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "AmitafAdir-RidaFatima/mcp-shark-viewer-vscode"
-category: "Tooling"
-tech_stack: ["JavaScript", "Visual Studio Code Extension API", "MCP Shark", "Node.js"]
+title: AmitafAdir-RidaFatima/mcp-shark-viewer-vscode
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- JavaScript
+- Visual Studio Code Extension API
+- MCP Shark
+- Node.js
 quality_score: 6
 rag_relevance: 5
-tags: ["MCP", "traffic inspection", "VS Code extension", "debugging", "network monitoring"]
-source: "https://github.com/AmitafAdir-RidaFatima/mcp-shark-viewer-vscode"
-discovered_at: "2026-06-25T05:09:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- traffic inspection
+- VS Code extension
+- debugging
+- network monitoring
+source: https://github.com/AmitafAdir-RidaFatima/mcp-shark-viewer-vscode
+discovered_at: '2026-06-25T05:09:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

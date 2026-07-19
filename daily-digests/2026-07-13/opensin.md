@@ -1,13 +1,28 @@
 ---
-title: "OpenSIN-AI/OpenSIN"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Docker", "Asyncio", "MCP (Model Context Protocol)", "ReAct", "OAuth", "Git", "SSE (Server-Sent Events)", "WebSockets"]
+title: OpenSIN-AI/OpenSIN
+category: daily-digests/2026-07-13
+tech_stack:
+- Python
+- FastAPI
+- Docker
+- Asyncio
+- MCP (Model Context Protocol)
+- ReAct
+- OAuth
+- Git
+- SSE (Server-Sent Events)
+- WebSockets
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent systems", "agent orchestration", "A2A protocol", "AI tooling", "scalable agent deployment"]
-source: "https://github.com/OpenSIN-AI/OpenSIN"
-discovered_at: "2026-07-13T02:34:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- agent orchestration
+- A2A protocol
+- AI tooling
+- scalable agent deployment
+source: https://github.com/OpenSIN-AI/OpenSIN
+discovered_at: '2026-07-13T02:34:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

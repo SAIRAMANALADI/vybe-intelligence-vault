@@ -1,13 +1,25 @@
 ---
-title: "opensolon/solon"
-category: "Tooling"
-tech_stack: ["Java", "Maven", "Gradle", "GraalVM", "JetBrains", "Snack4", "Reactor Core"]
+title: opensolon/solon
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Java
+- Maven
+- Gradle
+- GraalVM
+- JetBrains
+- Snack4
+- Reactor Core
 quality_score: 9
 rag_relevance: 7
-tags: ["Java framework", "high performance", "enterprise development", "lightweight", "multi-JDK support"]
-source: "https://github.com/opensolon/solon"
-discovered_at: "2026-06-24T02:48:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Java framework
+- high performance
+- enterprise development
+- lightweight
+- multi-JDK support
+source: https://github.com/opensolon/solon
+discovered_at: '2026-06-24T02:48:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

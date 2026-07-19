@@ -1,13 +1,25 @@
 ---
-title: "ishoplus/xitto-kernel"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "TypeScript", "CLI", "TUI (Ink)", "Sandboxing (Seatbelt)", "NPM"]
+title: ishoplus/xitto-kernel
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- JavaScript
+- Node.js
+- TypeScript
+- CLI
+- TUI (Ink)
+- Sandboxing (Seatbelt)
+- NPM
 quality_score: 9
 rag_relevance: 9
-tags: ["agent kernel", "domain-agnostic", "multi-model support", "sandboxing", "progressive trust"]
-source: "https://github.com/ishoplus/xitto-kernel"
-discovered_at: "2026-07-07T16:24:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent kernel
+- domain-agnostic
+- multi-model support
+- sandboxing
+- progressive trust
+source: https://github.com/ishoplus/xitto-kernel
+discovered_at: '2026-07-07T16:24:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

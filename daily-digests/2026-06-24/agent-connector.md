@@ -1,13 +1,25 @@
 ---
-title: "ken-jo/agent-connector"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "CLI Tools", "Plugin Systems", "Telemetry", "Marketplace Packaging"]
+title: ken-jo/agent-connector
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- CLI Tools
+- Plugin Systems
+- Telemetry
+- Marketplace Packaging
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP", "Agent Integration", "Multi-CLI Deployment", "Telemetry", "Plugin SDK"]
-source: "https://github.com/ken-jo/agent-connector"
-discovered_at: "2026-06-24T02:48:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- Agent Integration
+- Multi-CLI Deployment
+- Telemetry
+- Plugin SDK
+source: https://github.com/ken-jo/agent-connector
+discovered_at: '2026-06-24T02:48:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "huangjia2019/agent-design-patterns"
-category: "Agent Framework"
-tech_stack: ["Python", "LangGraph", "LangChain", "Claude Code", "Aider", "OpenHands", "DeerFlow", "Hermes Agent", "DeepAgents", "MCP (Model Context Protocol)"]
+title: huangjia2019/agent-design-patterns
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- LangGraph
+- LangChain
+- Claude Code
+- Aider
+- OpenHands
+- DeerFlow
+- Hermes Agent
+- DeepAgents
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["agent design patterns", "AI architecture", "production-grade agents", "cognitive function topology", "pattern catalog"]
-source: "https://github.com/huangjia2019/agent-design-patterns"
-discovered_at: "2026-06-25T05:03:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent design patterns
+- AI architecture
+- production-grade agents
+- cognitive function topology
+- pattern catalog
+source: https://github.com/huangjia2019/agent-design-patterns
+discovered_at: '2026-06-25T05:03:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,21 @@
 ---
-title: "Kavyrocom/smartplan"
-category: "Agent Framework"
-tech_stack: ["Hermes Agent", "Markdown", "Python (implied by Hermes Agent integration)"]
+title: Kavyrocom/smartplan
+category: daily-digests/2026-07-18
+tech_stack:
+- Hermes Agent
+- Markdown
+- Python (implied by Hermes Agent integration)
 quality_score: 8
 rag_relevance: 7
-tags: ["process planning", "workflow automation", "business operations", "rollback strategy", "GO gates"]
-source: "https://github.com/Kavyrocom/smartplan"
-discovered_at: "2026-07-16T12:22:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- process planning
+- workflow automation
+- business operations
+- rollback strategy
+- GO gates
+source: https://github.com/Kavyrocom/smartplan
+discovered_at: '2026-07-16T12:22:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

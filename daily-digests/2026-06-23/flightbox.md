@@ -1,13 +1,26 @@
 ---
-title: "he-yufeng/FlightBox"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "OpenAI SDK", "Anthropic SDK", "LiteLLM", "CLI", "Markdown", "HTML"]
+title: he-yufeng/FlightBox
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- SQLite
+- OpenAI SDK
+- Anthropic SDK
+- LiteLLM
+- CLI
+- Markdown
+- HTML
 quality_score: 9
 rag_relevance: 8
-tags: ["LLM debugging", "agent testing", "session replay", "deterministic testing", "evidence generation"]
-source: "https://github.com/he-yufeng/FlightBox"
-discovered_at: "2026-06-23T16:29:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LLM debugging
+- agent testing
+- session replay
+- deterministic testing
+- evidence generation
+source: https://github.com/he-yufeng/FlightBox
+discovered_at: '2026-06-23T16:29:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,29 @@
 ---
-title: "bailinghub/bailinghub"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Vue.js", "Element Plus", "Pinia", "MySQL", "Docker", "OpenAPI", "ACC (Agent Capability Contract)", "HMAC/SHA256", "RBAC"]
+title: bailinghub/bailinghub
+category: daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Node.js
+- Vue.js
+- Element Plus
+- Pinia
+- MySQL
+- Docker
+- OpenAPI
+- ACC (Agent Capability Contract)
+- HMAC/SHA256
+- RBAC
 quality_score: 9
 rag_relevance: 9
-tags: ["Agent orchestration", "Business-AI integration", "Tool governance", "Audit trail", "Self-hosted"]
-source: "https://github.com/bailinghub/bailinghub"
-discovered_at: "2026-07-10T06:53:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agent orchestration
+- Business-AI integration
+- Tool governance
+- Audit trail
+- Self-hosted
+source: https://github.com/bailinghub/bailinghub
+discovered_at: '2026-07-10T06:53:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

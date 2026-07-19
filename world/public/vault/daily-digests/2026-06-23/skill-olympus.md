@@ -1,13 +1,28 @@
 ---
-title: "Dannykkh/skill-olympus"
-category: "Orchestrator"
-tech_stack: ["Python", "Claude Code", "Codex CLI", "Gemini CLI", "Playwright", "PostgreSQL", "React", "Spring Boot", "Bash", "PowerShell"]
+title: Dannykkh/skill-olympus
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Claude Code
+- Codex CLI
+- Gemini CLI
+- Playwright
+- PostgreSQL
+- React
+- Spring Boot
+- Bash
+- PowerShell
 quality_score: 9
 rag_relevance: 10
-tags: ["autonomous agents", "loop engineering", "multi-agent orchestration", "RAG pipeline automation", "SaaS development"]
-source: "https://github.com/Dannykkh/skill-olympus"
-discovered_at: "2026-06-23T13:44:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- loop engineering
+- multi-agent orchestration
+- RAG pipeline automation
+- SaaS development
+source: https://github.com/Dannykkh/skill-olympus
+discovered_at: '2026-06-23T13:44:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

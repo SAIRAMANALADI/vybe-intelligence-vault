@@ -1,13 +1,22 @@
 ---
-title: "Mykazi127/noxrunner"
-category: "Tooling"
-tech_stack: ["Python", "CLI", "Sandboxing", "Standard Library"]
+title: Mykazi127/noxrunner
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- CLI
+- Sandboxing
+- Standard Library
 quality_score: 5
 rag_relevance: 4
-tags: ["sandboxing", "testing", "offline execution", "CLI tool", "Python"]
-source: "https://github.com/Mykazi127/noxrunner"
-discovered_at: "2026-06-25T00:07:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- sandboxing
+- testing
+- offline execution
+- CLI tool
+- Python
+source: https://github.com/Mykazi127/noxrunner
+discovered_at: '2026-06-25T00:07:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

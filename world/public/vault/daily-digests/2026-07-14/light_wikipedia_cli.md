@@ -1,13 +1,23 @@
 ---
-title: "felixscode/light_wikipedia_cli"
-category: "Tooling"
-tech_stack: ["Go", "Wikimedia REST API", "MCP (Model Context Protocol)", "ANSI Terminal", "Makefile"]
+title: felixscode/light_wikipedia_cli
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- Go
+- Wikimedia REST API
+- MCP (Model Context Protocol)
+- ANSI Terminal
+- Makefile
 quality_score: 8
 rag_relevance: 9
-tags: ["Wikipedia", "CLI", "MCP Server", "Terminal", "AI Integration"]
-source: "https://github.com/felixscode/light_wikipedia_cli"
-discovered_at: "2026-07-12T11:58:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Wikipedia
+- CLI
+- MCP Server
+- Terminal
+- AI Integration
+source: https://github.com/felixscode/light_wikipedia_cli
+discovered_at: '2026-07-12T11:58:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

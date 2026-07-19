@@ -1,13 +1,21 @@
 ---
-title: "samsaeed22/kevlar-benchmark"
-category: "Tooling"
-tech_stack: ["Python", "OWASP Top 10 Framework", "Cybersecurity Testing Tools"]
+title: samsaeed22/kevlar-benchmark
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Python
+- OWASP Top 10 Framework
+- Cybersecurity Testing Tools
 quality_score: 6
 rag_relevance: 7
-tags: ["cybersecurity", "AI security testing", "OWASP Top 10", "vulnerability assessment", "agent-specific injection"]
-source: "https://github.com/samsaeed22/kevlar-benchmark"
-discovered_at: "2026-06-22T23:16:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- cybersecurity
+- AI security testing
+- OWASP Top 10
+- vulnerability assessment
+- agent-specific injection
+source: https://github.com/samsaeed22/kevlar-benchmark
+discovered_at: '2026-06-22T23:16:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

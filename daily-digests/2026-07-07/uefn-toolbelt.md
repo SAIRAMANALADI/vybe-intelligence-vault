@@ -1,13 +1,23 @@
 ---
-title: "Unpolished-tagusriver58/UEFN-TOOLBELT"
-category: "Tooling"
-tech_stack: ["Python", "UEFN Python API", "Verse (Fortnite's scripting language)", "Qt (for UI components)", "AGPL-3.0 License"]
+title: Unpolished-tagusriver58/UEFN-TOOLBELT
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- UEFN Python API
+- Verse (Fortnite's scripting language)
+- Qt (for UI components)
+- AGPL-3.0 License
 quality_score: 9
 rag_relevance: 8
-tags: ["UEFN", "Fortnite Creative", "Verse Automation", "AI-Assisted Development", "Asset Management"]
-source: "https://github.com/Unpolished-tagusriver58/UEFN-TOOLBELT"
-discovered_at: "2026-07-07T23:56:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- UEFN
+- Fortnite Creative
+- Verse Automation
+- AI-Assisted Development
+- Asset Management
+source: https://github.com/Unpolished-tagusriver58/UEFN-TOOLBELT
+discovered_at: '2026-07-07T23:56:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

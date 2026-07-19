@@ -1,13 +1,24 @@
 ---
-title: "lidless-labs/immichctrl"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "REST API", "CLI", "npm"]
+title: lidless-labs/immichctrl
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- REST API
+- CLI
+- npm
 quality_score: 9
 rag_relevance: 8
-tags: ["photo management", "MCP adapter", "self-hosted", "immich", "AI automation"]
-source: "https://github.com/lidless-labs/immichctrl"
-discovered_at: "2026-07-17T02:52:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- photo management
+- MCP adapter
+- self-hosted
+- immich
+- AI automation
+source: https://github.com/lidless-labs/immichctrl
+discovered_at: '2026-07-17T02:52:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

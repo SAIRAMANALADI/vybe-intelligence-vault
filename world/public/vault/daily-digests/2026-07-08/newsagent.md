@@ -1,13 +1,25 @@
 ---
-title: "sasaxton15/NewsAgent"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude AI (Anthropic API)", "feedparser", "BeautifulSoup", "Gmail API", "GitHub Actions", "RSS"]
+title: sasaxton15/NewsAgent
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- Claude AI (Anthropic API)
+- feedparser
+- BeautifulSoup
+- Gmail API
+- GitHub Actions
+- RSS
 quality_score: 8
 rag_relevance: 6
-tags: ["news aggregation", "AI curation", "automated email", "RSS processing", "Claude integration"]
-source: "https://github.com/sasaxton15/NewsAgent"
-discovered_at: "2026-07-08T15:15:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- news aggregation
+- AI curation
+- automated email
+- RSS processing
+- Claude integration
+source: https://github.com/sasaxton15/NewsAgent
+discovered_at: '2026-07-08T15:15:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

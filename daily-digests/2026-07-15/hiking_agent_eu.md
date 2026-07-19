@@ -1,13 +1,25 @@
 ---
-title: "akorablov/hiking_agent_eu"
-category: "Agent Framework"
-tech_stack: ["Python", "Ollama", "Open-Meteo API", "OpenStreetMap (Overpass API)", "Streamlit", "Docker", "Groq API"]
+title: akorablov/hiking_agent_eu
+category: daily-digests/2026-07-15
+tech_stack:
+- Python
+- Ollama
+- Open-Meteo API
+- OpenStreetMap (Overpass API)
+- Streamlit
+- Docker
+- Groq API
 quality_score: 9
 rag_relevance: 7
-tags: ["location-based recommendations", "LLM-powered agent", "open-source", "zero-cost", "hiking trails"]
-source: "https://github.com/akorablov/hiking_agent_eu"
-discovered_at: "2026-07-11T23:53:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- location-based recommendations
+- LLM-powered agent
+- open-source
+- zero-cost
+- hiking trails
+source: https://github.com/akorablov/hiking_agent_eu
+discovered_at: '2026-07-11T23:53:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

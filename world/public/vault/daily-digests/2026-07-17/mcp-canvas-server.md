@@ -1,13 +1,24 @@
 ---
-title: "CharlieCardenasToledo/mcp-canvas-server"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "REST API", "Canvas LMS API", "npm"]
+title: CharlieCardenasToledo/mcp-canvas-server
+category: world/public/vault/daily-digests/2026-07-17
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- REST API
+- Canvas LMS API
+- npm
 quality_score: 9
 rag_relevance: 7
-tags: ["Canvas LMS", "MCP Server", "AI Integration", "Educational Tools", "REST Bridge"]
-source: "https://github.com/CharlieCardenasToledo/mcp-canvas-server"
-discovered_at: "2026-07-14T22:56:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Canvas LMS
+- MCP Server
+- AI Integration
+- Educational Tools
+- REST Bridge
+source: https://github.com/CharlieCardenasToledo/mcp-canvas-server
+discovered_at: '2026-07-14T22:56:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

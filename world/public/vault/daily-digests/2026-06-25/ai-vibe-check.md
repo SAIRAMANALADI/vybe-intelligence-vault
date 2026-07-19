@@ -1,13 +1,23 @@
 ---
-title: "abhxhekrathore5/AI-Vibe-Check"
-category: "Tooling"
-tech_stack: ["Python", "AI/ML", "Data Scraping", "Visualization", "Desktop Application"]
+title: abhxhekrathore5/AI-Vibe-Check
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- AI/ML
+- Data Scraping
+- Visualization
+- Desktop Application
 quality_score: 4
 rag_relevance: 3
-tags: ["developer well-being", "sentiment analysis", "mood tracking", "data visualization", "AI insights"]
-source: "https://github.com/abhxhekrathore5/AI-Vibe-Check"
-discovered_at: "2026-06-25T05:07:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- developer well-being
+- sentiment analysis
+- mood tracking
+- data visualization
+- AI insights
+source: https://github.com/abhxhekrathore5/AI-Vibe-Check
+discovered_at: '2026-06-25T05:07:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

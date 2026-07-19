@@ -1,13 +1,26 @@
 ---
-title: "googleworkspace/cli"
-category: "Tooling"
-tech_stack: ["Rust", "Node.js", "TypeScript", "OAuth 2.0", "Google Discovery API", "CLI", "Nix", "Homebrew"]
+title: googleworkspace/cli
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Rust
+- Node.js
+- TypeScript
+- OAuth 2.0
+- Google Discovery API
+- CLI
+- Nix
+- Homebrew
 quality_score: 9
 rag_relevance: 8
-tags: ["Google Workspace", "CLI", "API Integration", "AI Agent Tools", "Automation"]
-source: "https://github.com/googleworkspace/cli"
-discovered_at: "2026-06-22T16:48:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Google Workspace
+- CLI
+- API Integration
+- AI Agent Tools
+- Automation
+source: https://github.com/googleworkspace/cli
+discovered_at: '2026-06-22T16:48:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

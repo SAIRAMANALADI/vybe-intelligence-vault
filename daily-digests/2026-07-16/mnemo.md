@@ -1,13 +1,25 @@
 ---
-title: "DanceNitra/mnemo"
-category: "Tooling"
-tech_stack: ["Python", "JSON", "Ed25519 (cryptography)", "BM25 (lexical retrieval)", "Reciprocal Rank Fusion (hybrid retrieval)", "Hash-chaining (tamper-evident storage)", "Neural Network Inversion (vector store auditing)"]
+title: DanceNitra/mnemo
+category: daily-digests/2026-07-16
+tech_stack:
+- Python
+- JSON
+- Ed25519 (cryptography)
+- BM25 (lexical retrieval)
+- Reciprocal Rank Fusion (hybrid retrieval)
+- Hash-chaining (tamper-evident storage)
+- Neural Network Inversion (vector store auditing)
 quality_score: 9
 rag_relevance: 10
-tags: ["agent memory", "memory layer", "RAG optimization", "tamper-evident storage", "adversarial resilience"]
-source: "https://github.com/DanceNitra/mnemo"
-discovered_at: "2026-07-13T16:31:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent memory
+- memory layer
+- RAG optimization
+- tamper-evident storage
+- adversarial resilience
+source: https://github.com/DanceNitra/mnemo
+discovered_at: '2026-07-13T16:31:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

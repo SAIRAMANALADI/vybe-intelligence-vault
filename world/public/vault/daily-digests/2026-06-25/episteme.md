@@ -1,13 +1,26 @@
 ---
-title: "epicsagas/Episteme"
-category: "Tooling"
-tech_stack: ["Rust", "SQLite", "ONNX Runtime", "fastembed", "HTTP API", "MCP (Model Context Protocol)", "Docker", "CI/CD (GitHub Actions)"]
+title: epicsagas/Episteme
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Rust
+- SQLite
+- ONNX Runtime
+- fastembed
+- HTTP API
+- MCP (Model Context Protocol)
+- Docker
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 10
-tags: ["knowledge graph", "software engineering", "AI agent integration", "offline-first", "refactoring"]
-source: "https://github.com/epicsagas/Episteme"
-discovered_at: "2026-06-25T17:09:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- knowledge graph
+- software engineering
+- AI agent integration
+- offline-first
+- refactoring
+source: https://github.com/epicsagas/Episteme
+discovered_at: '2026-06-25T17:09:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

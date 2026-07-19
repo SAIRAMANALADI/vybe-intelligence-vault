@@ -1,13 +1,30 @@
 ---
-title: "tertiarycourses/TGS-2023035977-Agentic-AI-Automation-with-n8n"
-category: "Agent Framework"
-tech_stack: ["n8n", "OpenAI (gpt-4.1-mini)", "LangChain", "Telegram Bot API", "Vector Stores", "Gmail API", "Google Sheets API", "Twelve Data API", "NewsAPI", "PostgreSQL", "HTML/CSS/JavaScript", "Python (for courseware)"]
+title: tertiarycourses/TGS-2023035977-Agentic-AI-Automation-with-n8n
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- n8n
+- OpenAI (gpt-4.1-mini)
+- LangChain
+- Telegram Bot API
+- Vector Stores
+- Gmail API
+- Google Sheets API
+- Twelve Data API
+- NewsAPI
+- PostgreSQL
+- HTML/CSS/JavaScript
+- Python (for courseware)
 quality_score: 8
 rag_relevance: 9
-tags: ["Agentic AI", "n8n", "RAG", "Automation", "Workflows"]
-source: "https://github.com/tertiarycourses/TGS-2023035977-Agentic-AI-Automation-with-n8n"
-discovered_at: "2026-06-25T05:00:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agentic AI
+- n8n
+- RAG
+- Automation
+- Workflows
+source: https://github.com/tertiarycourses/TGS-2023035977-Agentic-AI-Automation-with-n8n
+discovered_at: '2026-06-25T05:00:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

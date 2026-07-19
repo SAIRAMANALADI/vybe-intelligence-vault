@@ -1,13 +1,24 @@
 ---
-title: "thefacelessdon/facework"
-category: "Orchestrator"
-tech_stack: ["YAML", "Shell", "Markdown", "JSON Schema", "Claude Code", "LLM (Large Language Models)"]
+title: thefacelessdon/facework
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- YAML
+- Shell
+- Markdown
+- JSON Schema
+- Claude Code
+- LLM (Large Language Models)
 quality_score: 8
 rag_relevance: 9
-tags: ["protocol", "coherence", "runtime portability", "system design", "quality governance"]
-source: "https://github.com/thefacelessdon/facework"
-discovered_at: "2026-07-07T16:25:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- protocol
+- coherence
+- runtime portability
+- system design
+- quality governance
+source: https://github.com/thefacelessdon/facework
+discovered_at: '2026-07-07T16:25:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

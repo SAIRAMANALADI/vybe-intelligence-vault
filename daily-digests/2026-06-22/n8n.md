@@ -1,13 +1,24 @@
 ---
-title: "n8n-io/n8n"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "JavaScript", "Python", "Docker", "LangChain"]
+title: n8n-io/n8n
+category: daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Node.js
+- JavaScript
+- Python
+- Docker
+- LangChain
 quality_score: 10
 rag_relevance: 9
-tags: ["workflow automation", "AI orchestration", "no-code", "self-hosted", "enterprise-ready"]
-source: "https://github.com/n8n-io/n8n"
-discovered_at: "2026-06-22T18:14:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- workflow automation
+- AI orchestration
+- no-code
+- self-hosted
+- enterprise-ready
+source: https://github.com/n8n-io/n8n
+discovered_at: '2026-06-22T18:14:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

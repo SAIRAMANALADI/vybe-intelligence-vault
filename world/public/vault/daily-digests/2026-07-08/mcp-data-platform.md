@@ -1,13 +1,28 @@
 ---
-title: "txn2/mcp-data-platform"
-category: "Orchestrator"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "DataHub", "Trino", "PostgreSQL", "S3", "TypeScript", "OAuth 2.1", "Prometheus", "OpenTelemetry"]
+title: txn2/mcp-data-platform
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- DataHub
+- Trino
+- PostgreSQL
+- S3
+- TypeScript
+- OAuth 2.1
+- Prometheus
+- OpenTelemetry
 quality_score: 9
 rag_relevance: 10
-tags: ["semantic layer", "data governance", "MCP server", "cross-enrichment", "knowledge capture"]
-source: "https://github.com/txn2/mcp-data-platform"
-discovered_at: "2026-07-08T17:25:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- semantic layer
+- data governance
+- MCP server
+- cross-enrichment
+- knowledge capture
+source: https://github.com/txn2/mcp-data-platform
+discovered_at: '2026-07-08T17:25:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

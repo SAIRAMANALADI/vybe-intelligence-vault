@@ -1,13 +1,29 @@
 ---
-title: "bigmoostache/context-pilot"
-category: "Orchestrator"
-tech_stack: ["Rust", "React", "TypeScript", "Vite", "Tauri", "TUI (Ratatui, Crossterm)", "Meilisearch", "SQLite", "Unix sockets", "HTTP/REST", "Server-Sent Events (SSE)"]
+title: bigmoostache/context-pilot
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Rust
+- React
+- TypeScript
+- Vite
+- Tauri
+- TUI (Ratatui, Crossterm)
+- Meilisearch
+- SQLite
+- Unix sockets
+- HTTP/REST
+- Server-Sent Events (SSE)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI coding agent", "multi-agent orchestration", "self-hosted", "terminal IDE", "fleet management"]
-source: "https://github.com/bigmoostache/context-pilot"
-discovered_at: "2026-06-23T21:30:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding agent
+- multi-agent orchestration
+- self-hosted
+- terminal IDE
+- fleet management
+source: https://github.com/bigmoostache/context-pilot
+discovered_at: '2026-06-23T21:30:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "daumiercarpet9916/career-copilot"
-category: "Tooling"
-tech_stack: ["Electron", "JavaScript", "Python", "GitHub API", "Natural Language Processing (NLP)", "Windows Desktop"]
+title: daumiercarpet9916/career-copilot
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- Electron
+- JavaScript
+- Python
+- GitHub API
+- Natural Language Processing (NLP)
+- Windows Desktop
 quality_score: 7
 rag_relevance: 5
-tags: ["job search automation", "resume generation", "AI-powered matching", "application tracking", "desktop tool"]
-source: "https://github.com/daumiercarpet9916/career-copilot"
-discovered_at: "2026-07-11T11:03:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- job search automation
+- resume generation
+- AI-powered matching
+- application tracking
+- desktop tool
+source: https://github.com/daumiercarpet9916/career-copilot
+discovered_at: '2026-07-11T11:03:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

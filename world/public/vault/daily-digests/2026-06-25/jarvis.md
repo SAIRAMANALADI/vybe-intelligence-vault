@@ -1,13 +1,31 @@
 ---
-title: "dev-core-busy/jarvis"
-category: "Agent Framework"
-tech_stack: ["Python 3.13", "FastAPI", "LLM Providers (Gemini, Claude, OpenRouter, Ollama)", "ChromaDB", "Whisper (faster-whisper)", "face_recognition (dlib)", "Node.js", "Baileys (WhatsApp API)", "Xvfb", "x11vnc", "xdotool", "React (frontend)", "LDAP/AD Authentication"]
+title: dev-core-busy/jarvis
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python 3.13
+- FastAPI
+- LLM Providers (Gemini, Claude, OpenRouter, Ollama)
+- ChromaDB
+- Whisper (faster-whisper)
+- face_recognition (dlib)
+- Node.js
+- Baileys (WhatsApp API)
+- Xvfb
+- x11vnc
+- xdotool
+- React (frontend)
+- LDAP/AD Authentication
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous AI agent", "multi-LLM support", "desktop automation", "RAG knowledge base", "WhatsApp integration"]
-source: "https://github.com/dev-core-busy/jarvis"
-discovered_at: "2026-06-25T14:15:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous AI agent
+- multi-LLM support
+- desktop automation
+- RAG knowledge base
+- WhatsApp integration
+source: https://github.com/dev-core-busy/jarvis
+discovered_at: '2026-06-25T14:15:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

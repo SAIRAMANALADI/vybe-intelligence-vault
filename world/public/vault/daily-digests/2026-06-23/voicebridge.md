@@ -1,13 +1,28 @@
 ---
-title: "berkayturanci/voicebridge"
-category: "Tooling"
-tech_stack: ["Node.js", "TypeScript", "Web Speech API", "Tailscale", "Dart (Flutter for optional mobile app)", "Whisper (for local STT)", "Claude Code", "Codex", "Antigravity", "Ollama"]
+title: berkayturanci/voicebridge
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Node.js
+- TypeScript
+- Web Speech API
+- Tailscale
+- Dart (Flutter for optional mobile app)
+- Whisper (for local STT)
+- Claude Code
+- Codex
+- Antigravity
+- Ollama
 quality_score: 9
 rag_relevance: 7
-tags: ["voice interface", "coding agents", "hands-free", "local processing", "Tailscale"]
-source: "https://github.com/berkayturanci/voicebridge"
-discovered_at: "2026-06-23T08:53:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- voice interface
+- coding agents
+- hands-free
+- local processing
+- Tailscale
+source: https://github.com/berkayturanci/voicebridge
+discovered_at: '2026-06-23T08:53:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

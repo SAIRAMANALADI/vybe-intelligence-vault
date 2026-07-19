@@ -1,13 +1,26 @@
 ---
-title: "leo119110120-zhang/leo-ai-content-ops-cn"
-category: "Tooling"
-tech_stack: ["Python", "DeepSeek API", "Pillow", "RSS/Atom", "Markdown", "Git", "Windows PowerShell", "YAML"]
+title: leo119110120-zhang/leo-ai-content-ops-cn
+category: world/public/vault/daily-digests/2026-07-12
+tech_stack:
+- Python
+- DeepSeek API
+- Pillow
+- RSS/Atom
+- Markdown
+- Git
+- Windows PowerShell
+- YAML
 quality_score: 7
 rag_relevance: 6
-tags: ["content generation", "human-in-the-loop", "local-first", "source-constrained", "multi-platform"]
-source: "https://github.com/leo119110120-zhang/leo-ai-content-ops-cn"
-discovered_at: "2026-07-12T10:26:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- content generation
+- human-in-the-loop
+- local-first
+- source-constrained
+- multi-platform
+source: https://github.com/leo119110120-zhang/leo-ai-content-ops-cn
+discovered_at: '2026-07-12T10:26:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

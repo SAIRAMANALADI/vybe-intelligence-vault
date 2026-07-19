@@ -1,13 +1,23 @@
 ---
-title: "runapi-ai/seedance-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "RunAPI API", "npm"]
+title: runapi-ai/seedance-mcp
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- RunAPI API
+- npm
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "video generation", "RunAPI", "Seedance", "AI agents"]
-source: "https://github.com/runapi-ai/seedance-mcp"
-discovered_at: "2026-06-24T10:25:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- video generation
+- RunAPI
+- Seedance
+- AI agents
+source: https://github.com/runapi-ai/seedance-mcp
+discovered_at: '2026-06-24T10:25:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "nota-america/forgecat-agent-profiles"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "CLI", "YAML", "GitHub Actions", "npm", "Markdown"]
+title: nota-america/forgecat-agent-profiles
+category: daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- YAML
+- GitHub Actions
+- npm
+- Markdown
 quality_score: 9
 rag_relevance: 7
-tags: ["agent-profiles", "cross-platform", "workflow-curation", "MCP-integration", "profile-management"]
-source: "https://github.com/nota-america/forgecat-agent-profiles"
-discovered_at: "2026-07-06T23:03:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent-profiles
+- cross-platform
+- workflow-curation
+- MCP-integration
+- profile-management
+source: https://github.com/nota-america/forgecat-agent-profiles
+discovered_at: '2026-07-06T23:03:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

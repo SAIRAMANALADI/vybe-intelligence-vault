@@ -1,13 +1,24 @@
 ---
-title: "brightwave-inc/openwave"
-category: "Agent Framework"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "Tauri", "WebSocket", "Cargo (Rust package manager)", "Apache-2.0"]
+title: brightwave-inc/openwave
+category: daily-digests/2026-07-09
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- Tauri
+- WebSocket
+- Cargo (Rust package manager)
+- Apache-2.0
 quality_score: 7
 rag_relevance: 8
-tags: ["local-first", "agent runtime", "multi-agent systems", "privacy-focused", "model-agnostic"]
-source: "https://github.com/brightwave-inc/openwave"
-discovered_at: "2026-07-09T14:44:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first
+- agent runtime
+- multi-agent systems
+- privacy-focused
+- model-agnostic
+source: https://github.com/brightwave-inc/openwave
+discovered_at: '2026-07-09T14:44:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

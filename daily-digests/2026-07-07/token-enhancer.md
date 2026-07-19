@@ -1,13 +1,24 @@
 ---
-title: "Footshaped-friction742/token-enhancer"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "BeautifulSoup", "Requests", "MCP (Model Context Protocol)", "LangChain"]
+title: Footshaped-friction742/token-enhancer
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- FastAPI
+- BeautifulSoup
+- Requests
+- MCP (Model Context Protocol)
+- LangChain
 quality_score: 9
 rag_relevance: 10
-tags: ["token optimization", "web scraping", "context window", "MCP server", "prompt refinement"]
-source: "https://github.com/Footshaped-friction742/token-enhancer"
-discovered_at: "2026-07-07T20:52:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- token optimization
+- web scraping
+- context window
+- MCP server
+- prompt refinement
+source: https://github.com/Footshaped-friction742/token-enhancer
+discovered_at: '2026-07-07T20:52:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "OpenBioHack/openbiohack"
-category: "Tooling"
-tech_stack: ["Claude Code", "Shell", "Markdown", "Natural Language Processing (NLP)", "First-Principles Reasoning"]
+title: OpenBioHack/openbiohack
+category: daily-digests/2026-06-22
+tech_stack:
+- Claude Code
+- Shell
+- Markdown
+- Natural Language Processing (NLP)
+- First-Principles Reasoning
 quality_score: 6
 rag_relevance: 7
-tags: ["health investigation", "first-principles reasoning", "personalized medicine", "biohacking", "educational tool"]
-source: "https://github.com/OpenBioHack/openbiohack"
-discovered_at: "2026-06-22T23:19:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- health investigation
+- first-principles reasoning
+- personalized medicine
+- biohacking
+- educational tool
+source: https://github.com/OpenBioHack/openbiohack
+discovered_at: '2026-06-22T23:19:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

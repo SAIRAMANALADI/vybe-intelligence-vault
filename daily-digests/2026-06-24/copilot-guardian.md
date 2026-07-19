@@ -1,13 +1,22 @@
 ---
-title: "haroonahmed45/copilot-guardian"
-category: "Tooling"
-tech_stack: ["TypeScript", "GitHub Copilot CLI", "CI/CD Pipelines", "Automated Patch Generation"]
+title: haroonahmed45/copilot-guardian
+category: daily-digests/2026-06-24
+tech_stack:
+- TypeScript
+- GitHub Copilot CLI
+- CI/CD Pipelines
+- Automated Patch Generation
 quality_score: 6
 rag_relevance: 5
-tags: ["CI/CD automation", "failure recovery", "risk-aware patching", "GitHub Copilot integration", "DevOps tooling"]
-source: "https://github.com/haroonahmed45/copilot-guardian"
-discovered_at: "2026-06-24T16:19:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CI/CD automation
+- failure recovery
+- risk-aware patching
+- GitHub Copilot integration
+- DevOps tooling
+source: https://github.com/haroonahmed45/copilot-guardian
+discovered_at: '2026-06-24T16:19:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

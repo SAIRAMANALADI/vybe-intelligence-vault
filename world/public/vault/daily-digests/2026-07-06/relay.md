@@ -1,13 +1,25 @@
 ---
-title: "fablerlabs/relay"
-category: "Tooling"
-tech_stack: ["JavaScript", "Cloudflare Workers", "Cloudflare KV", "Node.js", "MCP (Model Context Protocol)", "AES-256-GCM", "Wrangler CLI"]
+title: fablerlabs/relay
+category: world/public/vault/daily-digests/2026-07-06
+tech_stack:
+- JavaScript
+- Cloudflare Workers
+- Cloudflare KV
+- Node.js
+- MCP (Model Context Protocol)
+- AES-256-GCM
+- Wrangler CLI
 quality_score: 9
 rag_relevance: 8
-tags: ["human-in-the-loop", "request queue", "autonomous agents", "Cloudflare Worker", "security"]
-source: "https://github.com/fablerlabs/relay"
-discovered_at: "2026-07-06T23:04:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- human-in-the-loop
+- request queue
+- autonomous agents
+- Cloudflare Worker
+- security
+source: https://github.com/fablerlabs/relay
+discovered_at: '2026-07-06T23:04:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

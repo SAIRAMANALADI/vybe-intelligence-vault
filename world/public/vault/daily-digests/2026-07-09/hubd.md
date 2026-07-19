@@ -1,13 +1,25 @@
 ---
-title: "bzdOS/hubd"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "JSON-RPC 2.0", "Markdown", "JSONL", "Git"]
+title: bzdOS/hubd
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- JSON-RPC 2.0
+- Markdown
+- JSONL
+- Git
 quality_score: 9
 rag_relevance: 8
-tags: ["project management", "AI agent coordination", "plain files", "MCP server", "multi-agent collaboration"]
-source: "https://github.com/bzdOS/hubd"
-discovered_at: "2026-07-09T11:53:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- project management
+- AI agent coordination
+- plain files
+- MCP server
+- multi-agent collaboration
+source: https://github.com/bzdOS/hubd
+discovered_at: '2026-07-09T11:53:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

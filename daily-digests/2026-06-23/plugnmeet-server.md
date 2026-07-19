@@ -1,13 +1,31 @@
 ---
-title: "mynaparrot/plugNmeet-server"
-category: "Orchestrator"
-tech_stack: ["Go", "WebRTC", "LiveKit", "Redis", "MariaDB/MySQL", "React", "Redux", "Docker", "PHP", "JavaScript", "RTMP", "WHIP", "E2EE"]
+title: mynaparrot/plugNmeet-server
+category: daily-digests/2026-06-23
+tech_stack:
+- Go
+- WebRTC
+- LiveKit
+- Redis
+- MariaDB/MySQL
+- React
+- Redux
+- Docker
+- PHP
+- JavaScript
+- RTMP
+- WHIP
+- E2EE
 quality_score: 9
 rag_relevance: 7
-tags: ["video conferencing", "WebRTC", "AI-powered", "self-hosted", "scalable"]
-source: "https://github.com/mynaparrot/plugNmeet-server"
-discovered_at: "2026-06-23T19:10:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- video conferencing
+- WebRTC
+- AI-powered
+- self-hosted
+- scalable
+source: https://github.com/mynaparrot/plugNmeet-server
+discovered_at: '2026-06-23T19:10:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

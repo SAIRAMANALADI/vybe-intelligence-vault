@@ -1,13 +1,22 @@
 ---
-title: "kentunderage549/cc-harness-skills"
-category: "Tooling"
-tech_stack: ["Python", "Prompt Engineering", "Agent Frameworks", "Windows OS"]
+title: kentunderage549/cc-harness-skills
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- Python
+- Prompt Engineering
+- Agent Frameworks
+- Windows OS
 quality_score: 6
 rag_relevance: 7
-tags: ["AI agent skills", "context compression", "multi-agent coordination", "prompt templates", "workflow automation"]
-source: "https://github.com/kentunderage549/cc-harness-skills"
-discovered_at: "2026-07-10T20:22:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent skills
+- context compression
+- multi-agent coordination
+- prompt templates
+- workflow automation
+source: https://github.com/kentunderage549/cc-harness-skills
+discovered_at: '2026-07-10T20:22:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

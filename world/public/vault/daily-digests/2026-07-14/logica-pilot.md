@@ -1,13 +1,26 @@
 ---
-title: "Rovemark/logica-pilot"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "Chromium DevTools Protocol (CDP)", "Node.js", "MCP (Model Context Protocol)", "CLI", "WebAssembly", "Ad-blocking (EasyList/EasyPrivacy)"]
+title: Rovemark/logica-pilot
+category: world/public/vault/daily-digests/2026-07-14
+tech_stack:
+- TypeScript
+- Electron
+- Chromium DevTools Protocol (CDP)
+- Node.js
+- MCP (Model Context Protocol)
+- CLI
+- WebAssembly
+- Ad-blocking (EasyList/EasyPrivacy)
 quality_score: 9
 rag_relevance: 10
-tags: ["browser automation", "AI copilot", "token-efficient", "semantic perception", "local learning"]
-source: "https://github.com/Rovemark/logica-pilot"
-discovered_at: "2026-07-14T02:13:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- AI copilot
+- token-efficient
+- semantic perception
+- local learning
+source: https://github.com/Rovemark/logica-pilot
+discovered_at: '2026-07-14T02:13:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

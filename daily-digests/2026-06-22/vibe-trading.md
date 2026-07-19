@@ -1,13 +1,28 @@
 ---
-title: "HKUDS/Vibe-Trading"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "React", "MCP (Model Context Protocol)", "FastAPI", "CCXT", "YFinance", "Ta-Lib", "DuckDB", "Docker"]
+title: HKUDS/Vibe-Trading
+category: daily-digests/2026-06-22
+tech_stack:
+- Python
+- FastAPI
+- React
+- MCP (Model Context Protocol)
+- FastAPI
+- CCXT
+- YFinance
+- Ta-Lib
+- DuckDB
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["trading automation", "quantitative finance", "AI agent", "broker integration", "research automation"]
-source: "https://github.com/HKUDS/Vibe-Trading"
-discovered_at: "2026-06-22T18:14:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- trading automation
+- quantitative finance
+- AI agent
+- broker integration
+- research automation
+source: https://github.com/HKUDS/Vibe-Trading
+discovered_at: '2026-06-22T18:14:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

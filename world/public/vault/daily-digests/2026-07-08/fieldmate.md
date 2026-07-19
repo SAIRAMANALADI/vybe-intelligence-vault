@@ -1,13 +1,25 @@
 ---
-title: "bitpixi2/FieldMate"
-category: "Tooling"
-tech_stack: ["React", "TypeScript", "Model Context Protocol (MCP)", "Express.js", "Computer Vision (planned)", "HTML/CSS", "JavaScript"]
+title: bitpixi2/FieldMate
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- React
+- TypeScript
+- Model Context Protocol (MCP)
+- Express.js
+- Computer Vision (planned)
+- HTML/CSS
+- JavaScript
 quality_score: 7
 rag_relevance: 8
-tags: ["data collection", "smartphone capture", "energy credits", "resident participation", "MCP integration"]
-source: "https://github.com/bitpixi2/FieldMate"
-discovered_at: "2026-07-08T17:26:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- data collection
+- smartphone capture
+- energy credits
+- resident participation
+- MCP integration
+source: https://github.com/bitpixi2/FieldMate
+discovered_at: '2026-07-08T17:26:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

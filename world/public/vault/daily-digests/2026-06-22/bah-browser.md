@@ -1,13 +1,28 @@
 ---
-title: "alexvilelabah/bah-browser"
-category: "Tooling"
-tech_stack: ["Electron", "React", "TypeScript", "Vite", "DeepSeek", "Ollama", "Chromium", "Adblocker (Ghostery)", "Webview", "Node.js"]
+title: alexvilelabah/bah-browser
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- Electron
+- React
+- TypeScript
+- Vite
+- DeepSeek
+- Ollama
+- Chromium
+- Adblocker (Ghostery)
+- Webview
+- Node.js
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agent", "browser automation", "natural language commands", "real user interaction", "offline/local AI"]
-source: "https://github.com/alexvilelabah/bah-browser"
-discovered_at: "2026-06-22T18:52:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- browser automation
+- natural language commands
+- real user interaction
+- offline/local AI
+source: https://github.com/alexvilelabah/bah-browser
+discovered_at: '2026-06-22T18:52:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

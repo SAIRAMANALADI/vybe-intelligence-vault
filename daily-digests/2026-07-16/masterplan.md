@@ -1,13 +1,25 @@
 ---
-title: "rasatpetabit/masterplan"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Claude Code", "Codex CLI", "YAML", "Git", "Node.js", "Workflow Automation"]
+title: rasatpetabit/masterplan
+category: daily-digests/2026-07-16
+tech_stack:
+- JavaScript
+- Claude Code
+- Codex CLI
+- YAML
+- Git
+- Node.js
+- Workflow Automation
 quality_score: 9
 rag_relevance: 8
-tags: ["workflow automation", "multi-phase development", "state persistence", "Claude Code plugin", "Codex CLI"]
-source: "https://github.com/rasatpetabit/masterplan"
-discovered_at: "2026-07-13T20:14:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- workflow automation
+- multi-phase development
+- state persistence
+- Claude Code plugin
+- Codex CLI
+source: https://github.com/rasatpetabit/masterplan
+discovered_at: '2026-07-13T20:14:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

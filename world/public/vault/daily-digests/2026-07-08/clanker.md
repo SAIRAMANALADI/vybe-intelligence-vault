@@ -1,13 +1,33 @@
 ---
-title: "bgdnvk/clanker"
-category: "Agent Framework"
-tech_stack: ["Go", "CLI", "MCP (Model Context Protocol)", "AWS CLI", "GCP CLI", "Azure CLI", "Kubernetes", "Tencent Cloud", "Cloudflare", "Linear", "Notion", "Sentry", "OpenAI API", "Gemini API", "Cohere API"]
+title: bgdnvk/clanker
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Go
+- CLI
+- MCP (Model Context Protocol)
+- AWS CLI
+- GCP CLI
+- Azure CLI
+- Kubernetes
+- Tencent Cloud
+- Cloudflare
+- Linear
+- Notion
+- Sentry
+- OpenAI API
+- Gemini API
+- Cohere API
 quality_score: 9
 rag_relevance: 9
-tags: ["DevOps", "Infrastructure Automation", "Multi-Cloud", "Agent Swarm", "CLI Tool"]
-source: "https://github.com/bgdnvk/clanker"
-discovered_at: "2026-07-08T08:16:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- DevOps
+- Infrastructure Automation
+- Multi-Cloud
+- Agent Swarm
+- CLI Tool
+source: https://github.com/bgdnvk/clanker
+discovered_at: '2026-07-08T08:16:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "Prithivirajraj/kintsugi-issue-forge"
-category: "Agent Framework"
-tech_stack: ["Python", "GitHub Actions", "OpenAI API", "Anthropic Claude API", "React", "D3.js", "Docker", "RESTful API", "YAML/JSON Configuration"]
+title: Prithivirajraj/kintsugi-issue-forge
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- GitHub Actions
+- OpenAI API
+- Anthropic Claude API
+- React
+- D3.js
+- Docker
+- RESTful API
+- YAML/JSON Configuration
 quality_score: 9
 rag_relevance: 8
-tags: ["AI-driven issue resolution", "autonomous pull requests", "GitHub automation", "code generation", "developer productivity"]
-source: "https://github.com/Prithivirajraj/kintsugi-issue-forge"
-discovered_at: "2026-06-23T09:00:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-driven issue resolution
+- autonomous pull requests
+- GitHub automation
+- code generation
+- developer productivity
+source: https://github.com/Prithivirajraj/kintsugi-issue-forge
+discovered_at: '2026-06-23T09:00:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

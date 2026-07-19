@@ -1,13 +1,23 @@
 ---
-title: "teddy6320/databuff"
-category: "Tooling"
-tech_stack: ["OpenTelemetry", "AI/ML", "Monitoring", "Performance Management", "Observability"]
+title: teddy6320/databuff
+category: daily-digests/2026-07-10
+tech_stack:
+- OpenTelemetry
+- AI/ML
+- Monitoring
+- Performance Management
+- Observability
 quality_score: 3
 rag_relevance: 5
-tags: ["observability", "performance monitoring", "OpenTelemetry", "AI-native", "APM"]
-source: "https://github.com/teddy6320/databuff"
-discovered_at: "2026-07-10T06:15:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- observability
+- performance monitoring
+- OpenTelemetry
+- AI-native
+- APM
+source: https://github.com/teddy6320/databuff
+discovered_at: '2026-07-10T06:15:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

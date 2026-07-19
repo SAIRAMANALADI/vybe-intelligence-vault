@@ -1,13 +1,22 @@
 ---
-title: "a258huit58/claude-memory"
-category: "Tooling"
-tech_stack: ["JavaScript", "Windows API", "Model Context Protocol (MCP)", "Local File System"]
+title: a258huit58/claude-memory
+category: daily-digests/2026-07-16
+tech_stack:
+- JavaScript
+- Windows API
+- Model Context Protocol (MCP)
+- Local File System
 quality_score: 7
 rag_relevance: 6
-tags: ["persistent memory", "Claude Code plugin", "session recovery", "local storage", "context management"]
-source: "https://github.com/a258huit58/claude-memory"
-discovered_at: "2026-07-12T23:52:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- Claude Code plugin
+- session recovery
+- local storage
+- context management
+source: https://github.com/a258huit58/claude-memory
+discovered_at: '2026-07-12T23:52:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "strausmann/mcp-dockhand"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Docker", "MCP (Model Context Protocol)", "Hawser", "SSE (Server-Sent Events)"]
+title: strausmann/mcp-dockhand
+category: daily-digests/2026-07-18
+tech_stack:
+- TypeScript
+- Node.js
+- Docker
+- MCP (Model Context Protocol)
+- Hawser
+- SSE (Server-Sent Events)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP Server", "Docker Management", "AI Integration", "Container Orchestration", "DevOps Automation"]
-source: "https://github.com/strausmann/mcp-dockhand"
-discovered_at: "2026-07-16T15:00:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- Docker Management
+- AI Integration
+- Container Orchestration
+- DevOps Automation
+source: https://github.com/strausmann/mcp-dockhand
+discovered_at: '2026-07-16T15:00:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

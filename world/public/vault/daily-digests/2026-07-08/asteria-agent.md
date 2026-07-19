@@ -1,13 +1,28 @@
 ---
-title: "blurryface13/asteria-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "LangChain", "LangGraph", "FastAPI", "Next.js", "PostgreSQL", "Ollama", "WebSocket", "JWT", "Markdown/Word/PDF Export"]
+title: blurryface13/asteria-agent
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Python
+- LangChain
+- LangGraph
+- FastAPI
+- Next.js
+- PostgreSQL
+- Ollama
+- WebSocket
+- JWT
+- Markdown/Word/PDF Export
 quality_score: 8
 rag_relevance: 9
-tags: ["multi-agent", "local-first", "research automation", "citation tracking", "real-time interaction"]
-source: "https://github.com/blurryface13/asteria-agent"
-discovered_at: "2026-07-08T12:24:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent
+- local-first
+- research automation
+- citation tracking
+- real-time interaction
+source: https://github.com/blurryface13/asteria-agent
+discovered_at: '2026-07-08T12:24:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "Daniyal-GraphicDesigner/ai-trading-agent"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "CSS", "AI/ML", "Trading Algorithms"]
+title: Daniyal-GraphicDesigner/ai-trading-agent
+category: daily-digests/2026-07-10
+tech_stack:
+- JavaScript
+- CSS
+- AI/ML
+- Trading Algorithms
 quality_score: 3
 rag_relevance: 5
-tags: ["trading", "AI agent", "financial markets", "automation", "JavaScript"]
-source: "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-discovered_at: "2026-07-10T02:25:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- trading
+- AI agent
+- financial markets
+- automation
+- JavaScript
+source: https://github.com/Daniyal-GraphicDesigner/ai-trading-agent
+discovered_at: '2026-07-10T02:25:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

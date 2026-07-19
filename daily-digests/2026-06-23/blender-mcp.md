@@ -1,13 +1,22 @@
 ---
-title: "Vertiiii/blender-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Blender", "Model Context Protocol (MCP)", "Claude AI"]
+title: Vertiiii/blender-mcp
+category: daily-digests/2026-06-23
+tech_stack:
+- Python
+- Blender
+- Model Context Protocol (MCP)
+- Claude AI
 quality_score: 6
 rag_relevance: 5
-tags: ["3D modeling", "AI integration", "Blender plugin", "Model Context Protocol", "Claude AI"]
-source: "https://github.com/Vertiiii/blender-mcp"
-discovered_at: "2026-06-23T19:15:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- 3D modeling
+- AI integration
+- Blender plugin
+- Model Context Protocol
+- Claude AI
+source: https://github.com/Vertiiii/blender-mcp
+discovered_at: '2026-06-23T19:15:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

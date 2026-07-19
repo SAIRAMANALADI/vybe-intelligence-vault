@@ -1,13 +1,25 @@
 ---
-title: "ohad6k/VibeRaven"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "npm", "CLI", "MCP (Model Context Protocol)", "JSON", "GitHub Actions"]
+title: ohad6k/VibeRaven
+category: daily-digests/2026-06-23
+tech_stack:
+- TypeScript
+- Node.js
+- npm
+- CLI
+- MCP (Model Context Protocol)
+- JSON
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["production gate", "AI app validation", "launch readiness", "local-first", "agent tooling"]
-source: "https://github.com/ohad6k/VibeRaven"
-discovered_at: "2026-06-23T21:33:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- production gate
+- AI app validation
+- launch readiness
+- local-first
+- agent tooling
+source: https://github.com/ohad6k/VibeRaven
+discovered_at: '2026-06-23T21:33:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

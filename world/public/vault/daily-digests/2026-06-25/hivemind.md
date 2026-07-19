@@ -1,13 +1,28 @@
 ---
-title: "dip497/hivemind"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Electron", "ReactFlow", "MCP (Model Context Protocol)", "WebSockets", "Markdown", "YAML", "Git", "SSH", "Terminal Emulation (xterm.js)"]
+title: dip497/hivemind
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Electron
+- ReactFlow
+- MCP (Model Context Protocol)
+- WebSockets
+- Markdown
+- YAML
+- Git
+- SSH
+- Terminal Emulation (xterm.js)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent orchestration", "Kanban for AI workflows", "Markdown-backed project management", "Multi-agent collaboration", "Live diff review"]
-source: "https://github.com/dip497/hivemind"
-discovered_at: "2026-06-25T11:41:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent orchestration
+- Kanban for AI workflows
+- Markdown-backed project management
+- Multi-agent collaboration
+- Live diff review
+source: https://github.com/dip497/hivemind
+discovered_at: '2026-06-25T11:41:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

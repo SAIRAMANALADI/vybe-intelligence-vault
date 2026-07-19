@@ -1,13 +1,28 @@
 ---
-title: "ljh15039080965-prog/norma-financial-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude Code", "OpenClaw", "OpenAI Codex", "Rust", "LSTM/Transformer", "Knowledge Graphs", "Sequential Decision Trees", "VaR/CVaR", "Mean-Variance Optimization"]
+title: ljh15039080965-prog/norma-financial-agent
+category: daily-digests/2026-07-17
+tech_stack:
+- Python
+- Claude Code
+- OpenClaw
+- OpenAI Codex
+- Rust
+- LSTM/Transformer
+- Knowledge Graphs
+- Sequential Decision Trees
+- VaR/CVaR
+- Mean-Variance Optimization
 quality_score: 8
 rag_relevance: 9
-tags: ["Financial AI", "Quantitative Trading", "Knowledge Fusion", "Multi-Agent Debate", "A-Share Market"]
-source: "https://github.com/ljh15039080965-prog/norma-financial-agent"
-discovered_at: "2026-07-15T16:21:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Financial AI
+- Quantitative Trading
+- Knowledge Fusion
+- Multi-Agent Debate
+- A-Share Market
+source: https://github.com/ljh15039080965-prog/norma-financial-agent
+discovered_at: '2026-07-15T16:21:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

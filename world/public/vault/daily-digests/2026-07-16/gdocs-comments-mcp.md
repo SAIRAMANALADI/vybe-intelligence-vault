@@ -1,13 +1,24 @@
 ---
-title: "stanislawherjan1/gdocs-comments-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Playwright", "Model Context Protocol (MCP)", "Google Chrome/Chromium", "Google Docs API (indirectly via UI automation)"]
+title: stanislawherjan1/gdocs-comments-mcp
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- JavaScript
+- Node.js
+- Playwright
+- Model Context Protocol (MCP)
+- Google Chrome/Chromium
+- Google Docs API (indirectly via UI automation)
 quality_score: 9
 rag_relevance: 8
-tags: ["Google Docs", "MCP server", "inline comments", "AI agent integration", "document automation"]
-source: "https://github.com/stanislawherjan1/gdocs-comments-mcp"
-discovered_at: "2026-07-12T17:03:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Google Docs
+- MCP server
+- inline comments
+- AI agent integration
+- document automation
+source: https://github.com/stanislawherjan1/gdocs-comments-mcp
+discovered_at: '2026-07-12T17:03:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

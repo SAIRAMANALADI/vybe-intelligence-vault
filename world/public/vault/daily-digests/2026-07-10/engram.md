@@ -1,13 +1,28 @@
 ---
-title: "blakestone-x/engram"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Markdown", "YAML", "BM25F search", "Embeddings (optional)", "React", "Vite", "Model Context Protocol (MCP)", "Jest (testing)"]
+title: blakestone-x/engram
+category: world/public/vault/daily-digests/2026-07-10
+tech_stack:
+- TypeScript
+- Node.js
+- Markdown
+- YAML
+- BM25F search
+- Embeddings (optional)
+- React
+- Vite
+- Model Context Protocol (MCP)
+- Jest (testing)
 quality_score: 9
 rag_relevance: 10
-tags: ["long-term memory", "agent memory", "forgetting curve", "local-first", "MCP server"]
-source: "https://github.com/blakestone-x/engram"
-discovered_at: "2026-07-10T06:32:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- long-term memory
+- agent memory
+- forgetting curve
+- local-first
+- MCP server
+source: https://github.com/blakestone-x/engram
+discovered_at: '2026-07-10T06:32:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

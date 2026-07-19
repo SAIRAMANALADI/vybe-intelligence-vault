@@ -1,13 +1,28 @@
 ---
-title: "zhu1090093659/deepseek-pp"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Chrome Extension API", "MCP (Model Context Protocol)", "Web Search Tools", "Browser Automation", "Memory Systems", "Skill Templates", "Automation Scheduling", "Multimodal Media Analysis", "Local Storage"]
+title: zhu1090093659/deepseek-pp
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Chrome Extension API
+- MCP (Model Context Protocol)
+- Web Search Tools
+- Browser Automation
+- Memory Systems
+- Skill Templates
+- Automation Scheduling
+- Multimodal Media Analysis
+- Local Storage
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Agent", "DeepSeek Extension", "MCP Tools", "Memory System", "Automation"]
-source: "https://github.com/zhu1090093659/deepseek-pp"
-discovered_at: "2026-06-25T07:26:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent
+- DeepSeek Extension
+- MCP Tools
+- Memory System
+- Automation
+source: https://github.com/zhu1090093659/deepseek-pp
+discovered_at: '2026-06-25T07:26:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

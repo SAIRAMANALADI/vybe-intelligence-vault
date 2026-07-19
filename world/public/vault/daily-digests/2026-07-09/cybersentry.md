@@ -1,13 +1,28 @@
 ---
-title: "prutxvi/cybersentry"
-category: "Tooling"
-tech_stack: ["Python 3.13", "NVIDIA NIM", "Llama 3.1 70B", "ReAct Architecture", "Nmap", "Rich (Terminal UI)", "OpenAI-compatible API", "Requests", "SSLyze", "Scapy"]
+title: prutxvi/cybersentry
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python 3.13
+- NVIDIA NIM
+- Llama 3.1 70B
+- ReAct Architecture
+- Nmap
+- Rich (Terminal UI)
+- OpenAI-compatible API
+- Requests
+- SSLyze
+- Scapy
 quality_score: 9
 rag_relevance: 7
-tags: ["autonomous security auditing", "AI-powered vulnerability detection", "ethical hacking", "ReAct agent framework", "professional security reporting"]
-source: "https://github.com/prutxvi/cybersentry"
-discovered_at: "2026-07-09T19:30:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous security auditing
+- AI-powered vulnerability detection
+- ethical hacking
+- ReAct agent framework
+- professional security reporting
+source: https://github.com/prutxvi/cybersentry
+discovered_at: '2026-07-09T19:30:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

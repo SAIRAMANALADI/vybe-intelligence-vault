@@ -1,13 +1,25 @@
 ---
-title: "merchantprotocol/sulla-desktop"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Electron", "Docker", "Lima VM", "llama.cpp", "Node.js", "React"]
+title: merchantprotocol/sulla-desktop
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Electron
+- Docker
+- Lima VM
+- llama.cpp
+- Node.js
+- React
 quality_score: 9
 rag_relevance: 7
-tags: ["autonomous agents", "local AI", "persistent memory", "sandboxed environments", "context management"]
-source: "https://github.com/merchantprotocol/sulla-desktop"
-discovered_at: "2026-07-07T22:08:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- local AI
+- persistent memory
+- sandboxed environments
+- context management
+source: https://github.com/merchantprotocol/sulla-desktop
+discovered_at: '2026-07-07T22:08:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

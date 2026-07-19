@@ -1,13 +1,23 @@
 ---
-title: "Harshil-fx/claw-market"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Blockchain", "Smart Wallets", "Autonomous Agents", "Decentralized Marketplace"]
+title: Harshil-fx/claw-market
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Blockchain
+- Smart Wallets
+- Autonomous Agents
+- Decentralized Marketplace
 quality_score: 7
 rag_relevance: 5
-tags: ["autonomous agents", "blockchain marketplace", "smart wallets", "decentralized AI", "self-sustaining economy"]
-source: "https://github.com/Harshil-fx/claw-market"
-discovered_at: "2026-06-22T18:54:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- blockchain marketplace
+- smart wallets
+- decentralized AI
+- self-sustaining economy
+source: https://github.com/Harshil-fx/claw-market
+discovered_at: '2026-06-22T18:54:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

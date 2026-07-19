@@ -1,13 +1,21 @@
 ---
-title: "acvnace/awesome-vibe-coding-resources"
-category: "Tooling"
-tech_stack: ["Markdown", "GitHub Pages", "Awesome Lists"]
+title: acvnace/awesome-vibe-coding-resources
+category: daily-digests/2026-06-24
+tech_stack:
+- Markdown
+- GitHub Pages
+- Awesome Lists
 quality_score: 8
 rag_relevance: 7
-tags: ["vibe coding", "AI-assisted development", "curated resources", "developer tools", "automation"]
-source: "https://github.com/acvnace/awesome-vibe-coding-resources"
-discovered_at: "2026-06-24T22:12:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- vibe coding
+- AI-assisted development
+- curated resources
+- developer tools
+- automation
+source: https://github.com/acvnace/awesome-vibe-coding-resources
+discovered_at: '2026-06-24T22:12:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

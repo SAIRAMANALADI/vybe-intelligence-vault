@@ -1,13 +1,23 @@
 ---
-title: "close-shellflower7762/e2e-tester"
-category: "Tooling"
-tech_stack: ["Playwright", "Lighthouse", "Cursor IDE", "TypeScript", "JavaScript"]
+title: close-shellflower7762/e2e-tester
+category: daily-digests/2026-07-03
+tech_stack:
+- Playwright
+- Lighthouse
+- Cursor IDE
+- TypeScript
+- JavaScript
 quality_score: 4
 rag_relevance: 6
-tags: ["end-to-end testing", "performance auditing", "Cursor IDE", "Playwright", "automation"]
-source: "https://github.com/close-shellflower7762/e2e-tester"
-discovered_at: "2026-07-03T20:58:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- end-to-end testing
+- performance auditing
+- Cursor IDE
+- Playwright
+- automation
+source: https://github.com/close-shellflower7762/e2e-tester
+discovered_at: '2026-07-03T20:58:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

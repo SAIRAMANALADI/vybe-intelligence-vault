@@ -1,13 +1,25 @@
 ---
-title: "dreamiurg/datadog-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Datadog API", "Jest", "Biome", "GitHub Actions"]
+title: dreamiurg/datadog-mcp
+category: daily-digests/2026-07-06
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Datadog API
+- Jest
+- Biome
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["Datadog", "Observability", "MCP Server", "Read-Only", "AI Integration"]
-source: "https://github.com/dreamiurg/datadog-mcp"
-discovered_at: "2026-07-06T23:04:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Datadog
+- Observability
+- MCP Server
+- Read-Only
+- AI Integration
+source: https://github.com/dreamiurg/datadog-mcp
+discovered_at: '2026-07-06T23:04:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "ammar2211332-jpg/my-claude-skills"
-category: "Tooling"
-tech_stack: ["Claude Code", "DNS API", "VPS Automation", "Cloudflare API", "Tencent Cloud API", "Aliyun API", "Bash/Shell Scripting"]
+title: ammar2211332-jpg/my-claude-skills
+category: daily-digests/2026-07-14
+tech_stack:
+- Claude Code
+- DNS API
+- VPS Automation
+- Cloudflare API
+- Tencent Cloud API
+- Aliyun API
+- Bash/Shell Scripting
 quality_score: 7
 rag_relevance: 6
-tags: ["automation", "dns-management", "vps-operations", "cloud-integration", "claude-code"]
-source: "https://github.com/ammar2211332-jpg/my-claude-skills"
-discovered_at: "2026-07-12T13:36:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- automation
+- dns-management
+- vps-operations
+- cloud-integration
+- claude-code
+source: https://github.com/ammar2211332-jpg/my-claude-skills
+discovered_at: '2026-07-12T13:36:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

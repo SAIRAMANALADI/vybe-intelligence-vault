@@ -1,13 +1,30 @@
 ---
-title: "Anirudhx7/suitecrm-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Redis", "SuiteCRM", "OAuth2/OIDC", "Prometheus", "Grafana", "Loki", "Docker", "SQLite", "GraphQL", "REST API"]
+title: Anirudhx7/suitecrm-mcp
+category: daily-digests/2026-06-24
+tech_stack:
+- JavaScript
+- Node.js
+- Redis
+- SuiteCRM
+- OAuth2/OIDC
+- Prometheus
+- Grafana
+- Loki
+- Docker
+- SQLite
+- GraphQL
+- REST API
 quality_score: 9
 rag_relevance: 7
-tags: ["CRM integration", "MCP gateway", "AI agent tools", "Enterprise data access", "Observability stack"]
-source: "https://github.com/Anirudhx7/suitecrm-mcp"
-discovered_at: "2026-06-24T18:52:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CRM integration
+- MCP gateway
+- AI agent tools
+- Enterprise data access
+- Observability stack
+source: https://github.com/Anirudhx7/suitecrm-mcp
+discovered_at: '2026-06-24T18:52:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

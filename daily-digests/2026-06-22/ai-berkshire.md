@@ -1,13 +1,24 @@
 ---
-title: "xbtlin/ai-berkshire"
-category: "Tooling"
-tech_stack: ["Claude Code", "Python", "Mermaid.js", "Markdown", "AI Agents", "Financial Data APIs"]
+title: xbtlin/ai-berkshire
+category: daily-digests/2026-06-22
+tech_stack:
+- Claude Code
+- Python
+- Mermaid.js
+- Markdown
+- AI Agents
+- Financial Data APIs
 quality_score: 9
 rag_relevance: 7
-tags: ["value investing", "AI agents", "investment research", "multi-agent systems", "financial analysis"]
-source: "https://github.com/xbtlin/ai-berkshire"
-discovered_at: "2026-06-22T23:19:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- value investing
+- AI agents
+- investment research
+- multi-agent systems
+- financial analysis
+source: https://github.com/xbtlin/ai-berkshire
+discovered_at: '2026-06-22T23:19:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

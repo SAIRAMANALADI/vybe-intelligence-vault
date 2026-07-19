@@ -1,13 +1,26 @@
 ---
-title: "MCamner/mq-agent"
-category: "Orchestrator"
-tech_stack: ["Python", "OpenAI API", "Textual (TUI framework)", "Ollama (local LLM runtime)", "Git", "Markdown", "JSON Schema", "HTTP/MCP (Model Context Protocol)"]
+title: MCamner/mq-agent
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- OpenAI API
+- Textual (TUI framework)
+- Ollama (local LLM runtime)
+- Git
+- Markdown
+- JSON Schema
+- HTTP/MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent orchestration", "terminal workflows", "safety gates", "repository intelligence", "controlled execution"]
-source: "https://github.com/MCamner/mq-agent"
-discovered_at: "2026-07-09T00:05:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent orchestration
+- terminal workflows
+- safety gates
+- repository intelligence
+- controlled execution
+source: https://github.com/MCamner/mq-agent
+discovered_at: '2026-07-09T00:05:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

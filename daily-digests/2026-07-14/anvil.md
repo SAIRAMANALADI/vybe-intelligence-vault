@@ -1,13 +1,23 @@
 ---
-title: "tools-for-agents/anvil"
-category: "Tooling"
-tech_stack: ["Docker", "Node.js", "TypeScript", "MCP (Model Context Protocol)", "SQLite (for run logging)"]
+title: tools-for-agents/anvil
+category: daily-digests/2026-07-14
+tech_stack:
+- Docker
+- Node.js
+- TypeScript
+- MCP (Model Context Protocol)
+- SQLite (for run logging)
 quality_score: 9
 rag_relevance: 9
-tags: ["sandbox", "docker", "agent-tools", "isolation", "MCP"]
-source: "https://github.com/tools-for-agents/anvil"
-discovered_at: "2026-07-12T10:26:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- sandbox
+- docker
+- agent-tools
+- isolation
+- MCP
+source: https://github.com/tools-for-agents/anvil
+discovered_at: '2026-07-12T10:26:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

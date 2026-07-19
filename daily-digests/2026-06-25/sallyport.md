@@ -1,13 +1,31 @@
 ---
-title: "ginkida/sallyport"
-category: "Tooling"
-tech_stack: ["TypeScript", "Python", "Chrome Extension (MV3)", "WebSocket (WS)", "HMAC-SHA256", "MCP (Model Context Protocol)", "Pytest", "Vitest", "Ruff", "Mypy", "ESLint", "Prettier", "TypeScript Compiler (tsc)"]
+title: ginkida/sallyport
+category: daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Python
+- Chrome Extension (MV3)
+- WebSocket (WS)
+- HMAC-SHA256
+- MCP (Model Context Protocol)
+- Pytest
+- Vitest
+- Ruff
+- Mypy
+- ESLint
+- Prettier
+- TypeScript Compiler (tsc)
 quality_score: 9
 rag_relevance: 8
-tags: ["browser automation", "security", "MCP client", "Chrome extension", "HMAC authentication"]
-source: "https://github.com/ginkida/sallyport"
-discovered_at: "2026-06-25T11:39:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- security
+- MCP client
+- Chrome extension
+- HMAC authentication
+source: https://github.com/ginkida/sallyport
+discovered_at: '2026-06-25T11:39:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

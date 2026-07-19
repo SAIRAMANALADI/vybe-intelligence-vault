@@ -1,13 +1,29 @@
 ---
-title: "michaelellis003/paperboy"
-category: "Agent Framework"
-tech_stack: ["Python", "FastMCP", "Zotero API", "OpenAlex", "arXiv API", "Semantic Scholar API", "SMTP", "Dropbox API", "uv", "pytest", "ruff"]
+title: michaelellis003/paperboy
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- Python
+- FastMCP
+- Zotero API
+- OpenAlex
+- arXiv API
+- Semantic Scholar API
+- SMTP
+- Dropbox API
+- uv
+- pytest
+- ruff
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "Zotero integration", "paper delivery", "e-reader support", "research automation"]
-source: "https://github.com/michaelellis003/paperboy"
-discovered_at: "2026-07-11T21:47:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Zotero integration
+- paper delivery
+- e-reader support
+- research automation
+source: https://github.com/michaelellis003/paperboy
+discovered_at: '2026-07-11T21:47:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

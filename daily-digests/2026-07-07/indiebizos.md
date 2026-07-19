@@ -1,13 +1,26 @@
 ---
-title: "kangkukjin/indiebizOS"
-category: "Orchestrator"
-tech_stack: ["Python", "Node.js", "IBL (IndieBiz Logic)", "LLM (Gemini lightweight/full tiers)", "Android (native app)", "macOS", "Windows", "Vercel (homepage)"]
+title: kangkukjin/indiebizOS
+category: daily-digests/2026-07-07
+tech_stack:
+- Python
+- Node.js
+- IBL (IndieBiz Logic)
+- LLM (Gemini lightweight/full tiers)
+- Android (native app)
+- macOS
+- Windows
+- Vercel (homepage)
 quality_score: 8
 rag_relevance: 9
-tags: ["personal AI", "action language", "cognitive exoskeleton", "on-device execution", "decentralized apps"]
-source: "https://github.com/kangkukjin/indiebizOS"
-discovered_at: "2026-07-07T02:33:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personal AI
+- action language
+- cognitive exoskeleton
+- on-device execution
+- decentralized apps
+source: https://github.com/kangkukjin/indiebizOS
+discovered_at: '2026-07-07T02:33:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

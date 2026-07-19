@@ -1,13 +1,25 @@
 ---
-title: "Hayatelin/clinicpilot"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "SQLite", "Pydantic", "OpenAI API (optional)", "HTML/CSS/JS (dashboard)", "pytest (testing)"]
+title: Hayatelin/clinicpilot
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- Pydantic
+- OpenAI API (optional)
+- HTML/CSS/JS (dashboard)
+- pytest (testing)
 quality_score: 8
 rag_relevance: 7
-tags: ["AI agent", "patient recall", "appointment reminders", "human-in-the-loop", "healthcare automation"]
-source: "https://github.com/Hayatelin/clinicpilot"
-discovered_at: "2026-06-25T07:22:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- patient recall
+- appointment reminders
+- human-in-the-loop
+- healthcare automation
+source: https://github.com/Hayatelin/clinicpilot
+discovered_at: '2026-06-25T07:22:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

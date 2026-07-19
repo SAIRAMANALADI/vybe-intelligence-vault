@@ -1,13 +1,23 @@
 ---
-title: "national-jamesii265/omnilimb"
-category: "Tooling"
-tech_stack: ["Python", "Windows OS", "Sandboxing", "Web Automation", "Local Execution"]
+title: national-jamesii265/omnilimb
+category: world/public/vault/daily-digests/2026-06-24
+tech_stack:
+- Python
+- Windows OS
+- Sandboxing
+- Web Automation
+- Local Execution
 quality_score: 7
 rag_relevance: 6
-tags: ["agent augmentation", "local tooling", "sandboxing", "web automation", "Hermes integration"]
-source: "https://github.com/national-jamesii265/omnilimb"
-discovered_at: "2026-06-24T06:42:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent augmentation
+- local tooling
+- sandboxing
+- web automation
+- Hermes integration
+source: https://github.com/national-jamesii265/omnilimb
+discovered_at: '2026-06-24T06:42:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

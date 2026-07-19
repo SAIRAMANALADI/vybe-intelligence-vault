@@ -1,13 +1,22 @@
 ---
-title: "jamald33n/tweetsave-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "Node.js", "Twitter/X scraping libraries"]
+title: jamald33n/tweetsave-mcp
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Electron
+- Node.js
+- Twitter/X scraping libraries
 quality_score: 6
 rag_relevance: 4
-tags: ["Twitter/X scraping", "media extraction", "content analysis", "desktop app", "API-free"]
-source: "https://github.com/jamald33n/tweetsave-mcp"
-discovered_at: "2026-07-09T00:06:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Twitter/X scraping
+- media extraction
+- content analysis
+- desktop app
+- API-free
+source: https://github.com/jamald33n/tweetsave-mcp
+discovered_at: '2026-07-09T00:06:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

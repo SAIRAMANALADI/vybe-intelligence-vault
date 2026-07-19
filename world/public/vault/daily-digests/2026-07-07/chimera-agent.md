@@ -1,13 +1,27 @@
 ---
-title: "brcampidelli/chimera-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "LLM (Large Language Models)", "Docker", "FastAPI", "Ruff (linting)", "mypy (type checking)", "OpenRouter (model provider)", "SQLite (memory storage)", "Git (version control)"]
+title: brcampidelli/chimera-agent
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- Python
+- LLM (Large Language Models)
+- Docker
+- FastAPI
+- Ruff (linting)
+- mypy (type checking)
+- OpenRouter (model provider)
+- SQLite (memory storage)
+- Git (version control)
 quality_score: 9
 rag_relevance: 10
-tags: ["multi-model reasoning", "self-improving agents", "task automation", "memory management", "safety-first execution"]
-source: "https://github.com/brcampidelli/chimera-agent"
-discovered_at: "2026-07-07T13:15:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-model reasoning
+- self-improving agents
+- task automation
+- memory management
+- safety-first execution
+source: https://github.com/brcampidelli/chimera-agent
+discovered_at: '2026-07-07T13:15:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

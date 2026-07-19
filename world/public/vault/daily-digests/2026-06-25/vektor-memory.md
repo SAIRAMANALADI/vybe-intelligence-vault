@@ -1,13 +1,27 @@
 ---
-title: "Vektor-Memory/Vektor-memory"
-category: "Vector DB"
-tech_stack: ["TypeScript", "SQLite", "ONNX Runtime", "BM25", "RRF (Reciprocal Rank Fusion)", "MCP (Model Context Protocol)", "Playwright", "Node.js", "Claude Desktop Extension (DXT)"]
+title: Vektor-Memory/Vektor-memory
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- SQLite
+- ONNX Runtime
+- BM25
+- RRF (Reciprocal Rank Fusion)
+- MCP (Model Context Protocol)
+- Playwright
+- Node.js
+- Claude Desktop Extension (DXT)
 quality_score: 9
 rag_relevance: 10
-tags: ["persistent memory", "agentic AI", "vector database", "MCP tools", "local-first"]
-source: "https://github.com/Vektor-Memory/Vektor-memory"
-discovered_at: "2026-06-25T05:08:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent memory
+- agentic AI
+- vector database
+- MCP tools
+- local-first
+source: https://github.com/Vektor-Memory/Vektor-memory
+discovered_at: '2026-06-25T05:08:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

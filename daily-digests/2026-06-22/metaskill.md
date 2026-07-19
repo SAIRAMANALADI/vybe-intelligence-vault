@@ -1,13 +1,22 @@
 ---
-title: "morganmuli/metaskill"
-category: "Agent Framework"
-tech_stack: ["Windows", "Claude AI SDK", "Shell", "Agent Orchestration"]
+title: morganmuli/metaskill
+category: daily-digests/2026-06-22
+tech_stack:
+- Windows
+- Claude AI SDK
+- Shell
+- Agent Orchestration
 quality_score: 6
 rag_relevance: 7
-tags: ["multi-agent systems", "AI orchestration", "no-code AI", "agent teams", "Windows application"]
-source: "https://github.com/morganmuli/metaskill"
-discovered_at: "2026-06-22T18:56:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- AI orchestration
+- no-code AI
+- agent teams
+- Windows application
+source: https://github.com/morganmuli/metaskill
+discovered_at: '2026-06-22T18:56:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "shenlian19831109/progmune-runtime"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Static Analysis", "State Machine Validation", "LLM Integration"]
+title: shenlian19831109/progmune-runtime
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Static Analysis
+- State Machine Validation
+- LLM Integration
 quality_score: 9
 rag_relevance: 8
-tags: ["AI code safety", "protocol enforcement", "static analysis", "LLM constraint", "security runtime"]
-source: "https://github.com/shenlian19831109/progmune-runtime"
-discovered_at: "2026-06-25T14:19:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI code safety
+- protocol enforcement
+- static analysis
+- LLM constraint
+- security runtime
+source: https://github.com/shenlian19831109/progmune-runtime
+discovered_at: '2026-06-25T14:19:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

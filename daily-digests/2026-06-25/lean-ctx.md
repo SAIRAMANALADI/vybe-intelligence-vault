@@ -1,13 +1,26 @@
 ---
-title: "yvgude/lean-ctx"
-category: "Orchestrator"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "Tree-sitter", "SQLite", "HTTP Proxy", "Shell Hooks", "Knowledge Graph", "FTS5 (Full-Text Search)"]
+title: yvgude/lean-ctx
+category: daily-digests/2026-06-25
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- Tree-sitter
+- SQLite
+- HTTP Proxy
+- Shell Hooks
+- Knowledge Graph
+- FTS5 (Full-Text Search)
 quality_score: 9
 rag_relevance: 10
-tags: ["Context Engineering", "Token Optimization", "Agent Orchestration", "Local-First", "Verification"]
-source: "https://github.com/yvgude/lean-ctx"
-discovered_at: "2026-06-25T11:42:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Context Engineering
+- Token Optimization
+- Agent Orchestration
+- Local-First
+- Verification
+source: https://github.com/yvgude/lean-ctx
+discovered_at: '2026-06-25T11:42:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

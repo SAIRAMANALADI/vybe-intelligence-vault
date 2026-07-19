@@ -1,13 +1,29 @@
 ---
-title: "sonichi/sutando"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude Code CLI", "Gemini API", "Node.js", "WebSocket", "ffmpeg", "Twilio", "Telegram API", "Discord API", "macOS", "fswatch"]
+title: sonichi/sutando
+category: daily-digests/2026-07-06
+tech_stack:
+- Python
+- Claude Code CLI
+- Gemini API
+- Node.js
+- WebSocket
+- ffmpeg
+- Twilio
+- Telegram API
+- Discord API
+- macOS
+- fswatch
 quality_score: 9
 rag_relevance: 7
-tags: ["autonomous agent", "voice assistant", "local AI", "multi-modal automation", "self-improving"]
-source: "https://github.com/sonichi/sutando"
-discovered_at: "2026-07-06T23:02:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agent
+- voice assistant
+- local AI
+- multi-modal automation
+- self-improving
+source: https://github.com/sonichi/sutando
+discovered_at: '2026-07-06T23:02:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

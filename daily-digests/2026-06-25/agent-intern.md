@@ -1,13 +1,26 @@
 ---
-title: "SinanTufekci/agent-intern"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FastMCP", "Google Antigravity CLI", "OpenAI Codex", "uv (package manager)", "JSONL", "CLI tools"]
+title: SinanTufekci/agent-intern
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FastMCP
+- Google Antigravity CLI
+- OpenAI Codex
+- uv (package manager)
+- JSONL
+- CLI tools
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP bridge", "multi-model orchestration", "Claude Code integration", "AI sub-agents", "Gemini 3.5 Flash"]
-source: "https://github.com/SinanTufekci/agent-intern"
-discovered_at: "2026-06-25T08:34:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP bridge
+- multi-model orchestration
+- Claude Code integration
+- AI sub-agents
+- Gemini 3.5 Flash
+source: https://github.com/SinanTufekci/agent-intern
+discovered_at: '2026-06-25T08:34:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

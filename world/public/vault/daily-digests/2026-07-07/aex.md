@@ -1,13 +1,28 @@
 ---
-title: "aexhq/aex"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "CLI", "REST API", "Anthropic", "OpenAI", "Gemini", "Mistral", "DeepSeek", "MCP Servers"]
+title: aexhq/aex
+category: world/public/vault/daily-digests/2026-07-07
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- REST API
+- Anthropic
+- OpenAI
+- Gemini
+- Mistral
+- DeepSeek
+- MCP Servers
 quality_score: 8
 rag_relevance: 9
-tags: ["autonomous agents", "agent execution", "TypeScript SDK", "multi-agent systems", "agent runtime"]
-source: "https://github.com/aexhq/aex"
-discovered_at: "2026-07-07T16:26:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- agent execution
+- TypeScript SDK
+- multi-agent systems
+- agent runtime
+source: https://github.com/aexhq/aex
+discovered_at: '2026-07-07T16:26:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

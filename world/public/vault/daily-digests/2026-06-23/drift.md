@@ -1,13 +1,22 @@
 ---
-title: "miguelito0204/drift"
-category: "Tooling"
-tech_stack: ["Python", "Natural Language Processing", "Code Transpilation", "Windows Executable"]
+title: miguelito0204/drift
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- Python
+- Natural Language Processing
+- Code Transpilation
+- Windows Executable
 quality_score: 6
 rag_relevance: 7
-tags: ["no-code", "AI-driven coding", "code transpilation", "automation", "natural language programming"]
-source: "https://github.com/miguelito0204/drift"
-discovered_at: "2026-06-23T23:12:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- no-code
+- AI-driven coding
+- code transpilation
+- automation
+- natural language programming
+source: https://github.com/miguelito0204/drift
+discovered_at: '2026-06-23T23:12:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

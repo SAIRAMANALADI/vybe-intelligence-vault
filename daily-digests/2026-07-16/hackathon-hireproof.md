@@ -1,13 +1,34 @@
 ---
-title: "Iron-Mark/Hackathon-HireProof"
-category: "Tooling"
-tech_stack: ["TypeScript", "Next.js", "React", "Node.js", "Docker", "Vercel", "LangChain", "n8n", "Chrome Extension (Manifest V3)", "CLI (npm package)", "API (REST)", "MCP (Model Context Protocol)", "ChatSDK (Slack, Discord, Telegram)", "OCR (Google Vision, Tesseract)", "SerpAPI", "Vercel Workflow / WDK"]
+title: Iron-Mark/Hackathon-HireProof
+category: daily-digests/2026-07-16
+tech_stack:
+- TypeScript
+- Next.js
+- React
+- Node.js
+- Docker
+- Vercel
+- LangChain
+- n8n
+- Chrome Extension (Manifest V3)
+- CLI (npm package)
+- API (REST)
+- MCP (Model Context Protocol)
+- ChatSDK (Slack, Discord, Telegram)
+- OCR (Google Vision, Tesseract)
+- SerpAPI
+- Vercel Workflow / WDK
 quality_score: 9
 rag_relevance: 7
-tags: ["fraud detection", "job scam verification", "evidence-based AI", "employment safety", "multi-surface agent"]
-source: "https://github.com/Iron-Mark/Hackathon-HireProof"
-discovered_at: "2026-07-11T13:14:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- fraud detection
+- job scam verification
+- evidence-based AI
+- employment safety
+- multi-surface agent
+source: https://github.com/Iron-Mark/Hackathon-HireProof
+discovered_at: '2026-07-11T13:14:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

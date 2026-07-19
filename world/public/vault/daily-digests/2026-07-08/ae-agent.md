@@ -1,13 +1,22 @@
 ---
-title: "smooth-snarl702/AE-agent"
-category: "Tooling"
-tech_stack: ["JavaScript", "Adobe After Effects", "Windows OS", "AI API Integration"]
+title: smooth-snarl702/AE-agent
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- JavaScript
+- Adobe After Effects
+- Windows OS
+- AI API Integration
 quality_score: 6
 rag_relevance: 4
-tags: ["AI automation", "After Effects plugin", "local AI integration", "workflow assistant", "Windows tool"]
-source: "https://github.com/smooth-snarl702/AE-agent"
-discovered_at: "2026-07-08T22:15:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI automation
+- After Effects plugin
+- local AI integration
+- workflow assistant
+- Windows tool
+source: https://github.com/smooth-snarl702/AE-agent
+discovered_at: '2026-07-08T22:15:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

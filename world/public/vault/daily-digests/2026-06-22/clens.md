@@ -1,13 +1,25 @@
 ---
-title: "edobreque/clens"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "Claude Code", "JSONL", "OpenTelemetry", "CLI", "TUI"]
+title: edobreque/clens
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Bun
+- Claude Code
+- JSONL
+- OpenTelemetry
+- CLI
+- TUI
 quality_score: 9
 rag_relevance: 8
-tags: ["session observability", "agent tracing", "local-first", "Claude Code", "debugging"]
-source: "https://github.com/edobreque/clens"
-discovered_at: "2026-06-22T18:49:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- session observability
+- agent tracing
+- local-first
+- Claude Code
+- debugging
+source: https://github.com/edobreque/clens
+discovered_at: '2026-06-22T18:49:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

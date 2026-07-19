@@ -1,13 +1,24 @@
 ---
-title: "RoxyAPI/sdk-dotnet"
-category: "Tooling"
-tech_stack: ["C#", ".NET", "NuGet", "Kiota Abstractions", "REST API", "OpenAPI Spec"]
+title: RoxyAPI/sdk-dotnet
+category: daily-digests/2026-07-18
+tech_stack:
+- C#
+- .NET
+- NuGet
+- Kiota Abstractions
+- REST API
+- OpenAPI Spec
 quality_score: 9
 rag_relevance: 7
-tags: ["astrology", "numerology", "tarot", "esoteric APIs", "AI integration"]
-source: "https://github.com/RoxyAPI/sdk-dotnet"
-discovered_at: "2026-07-12T08:15:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- astrology
+- numerology
+- tarot
+- esoteric APIs
+- AI integration
+source: https://github.com/RoxyAPI/sdk-dotnet
+discovered_at: '2026-07-12T08:15:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

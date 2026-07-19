@@ -1,13 +1,26 @@
 ---
-title: "AlpharomeroJL/operant"
-category: "Agent Framework"
-tech_stack: ["Rust", "TypeScript", "Windows UI Automation (UIA)", "Chrome DevTools Protocol (CDP)", "OCR", "Ed25519 (for signatures)", "MCP (Model Context Protocol)", "Git"]
+title: AlpharomeroJL/operant
+category: world/public/vault/daily-digests/2026-07-16
+tech_stack:
+- Rust
+- TypeScript
+- Windows UI Automation (UIA)
+- Chrome DevTools Protocol (CDP)
+- OCR
+- Ed25519 (for signatures)
+- MCP (Model Context Protocol)
+- Git
 quality_score: 9
 rag_relevance: 8
-tags: ["local-first", "deterministic automation", "AI task compilation", "offline replay", "workflow compiler"]
-source: "https://github.com/AlpharomeroJL/operant"
-discovered_at: "2026-07-11T18:59:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first
+- deterministic automation
+- AI task compilation
+- offline replay
+- workflow compiler
+source: https://github.com/AlpharomeroJL/operant
+discovered_at: '2026-07-11T18:59:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

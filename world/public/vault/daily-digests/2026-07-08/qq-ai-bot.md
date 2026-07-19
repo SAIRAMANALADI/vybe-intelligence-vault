@@ -1,13 +1,27 @@
 ---
-title: "happysnaker/qq-ai-bot"
-category: "Orchestrator"
-tech_stack: ["Node.js", "TypeScript", "Docker", "OneBot 11", "ACP (Agent Client Protocol)", "Prometheus", "GitHub Actions", "PostgreSQL", "Redis"]
+title: happysnaker/qq-ai-bot
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Node.js
+- TypeScript
+- Docker
+- OneBot 11
+- ACP (Agent Client Protocol)
+- Prometheus
+- GitHub Actions
+- PostgreSQL
+- Redis
 quality_score: 9
 rag_relevance: 8
-tags: ["QQ bot", "AI bridge", "OneBot 11", "ACP protocol", "self-hosted"]
-source: "https://github.com/happysnaker/qq-ai-bot"
-discovered_at: "2026-07-08T19:16:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- QQ bot
+- AI bridge
+- OneBot 11
+- ACP protocol
+- self-hosted
+source: https://github.com/happysnaker/qq-ai-bot
+discovered_at: '2026-07-08T19:16:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

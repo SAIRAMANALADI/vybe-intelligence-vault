@@ -1,13 +1,23 @@
 ---
-title: "Tencent-RTC/agent-skills"
-category: "Agent Framework"
-tech_stack: ["Python", "TRTC SDK", "AI Agent Framework", "CLI Tools", "Natural Language Processing"]
+title: Tencent-RTC/agent-skills
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Python
+- TRTC SDK
+- AI Agent Framework
+- CLI Tools
+- Natural Language Processing
 quality_score: 9
 rag_relevance: 7
-tags: ["AI assistant", "real-time communication", "TRTC", "SDK integration", "developer tooling"]
-source: "https://github.com/Tencent-RTC/agent-skills"
-discovered_at: "2026-07-09T08:24:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI assistant
+- real-time communication
+- TRTC
+- SDK integration
+- developer tooling
+source: https://github.com/Tencent-RTC/agent-skills
+discovered_at: '2026-07-09T08:24:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

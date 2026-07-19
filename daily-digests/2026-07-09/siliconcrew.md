@@ -1,13 +1,34 @@
 ---
-title: "naman-ranka/siliconcrew"
-category: "Agent Framework"
-tech_stack: ["Python", "LangGraph", "FastAPI", "Next.js", "TypeScript", "Tailwind CSS", "LangChain", "MCP (Model Context Protocol)", "Icarus Verilog", "SymbiYosys", "OpenROAD", "Docker", "SQLite", "Gemini", "OpenAI", "Anthropic"]
+title: naman-ranka/siliconcrew
+category: daily-digests/2026-07-09
+tech_stack:
+- Python
+- LangGraph
+- FastAPI
+- Next.js
+- TypeScript
+- Tailwind CSS
+- LangChain
+- MCP (Model Context Protocol)
+- Icarus Verilog
+- SymbiYosys
+- OpenROAD
+- Docker
+- SQLite
+- Gemini
+- OpenAI
+- Anthropic
 quality_score: 9
 rag_relevance: 8
-tags: ["LLM agent", "RTL generation", "hardware design automation", "verification", "synthesis"]
-source: "https://github.com/naman-ranka/siliconcrew"
-discovered_at: "2026-07-09T19:30:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LLM agent
+- RTL generation
+- hardware design automation
+- verification
+- synthesis
+source: https://github.com/naman-ranka/siliconcrew
+discovered_at: '2026-07-09T19:30:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

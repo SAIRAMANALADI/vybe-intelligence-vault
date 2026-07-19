@@ -1,13 +1,22 @@
 ---
-title: "Oni-002/compose-skill"
-category: "Tooling"
-tech_stack: ["Jetpack Compose", "Android Development", "AI Code Generation", "Metadata Parsing"]
+title: Oni-002/compose-skill
+category: world/public/vault/daily-digests/2026-07-03
+tech_stack:
+- Jetpack Compose
+- Android Development
+- AI Code Generation
+- Metadata Parsing
 quality_score: 4
 rag_relevance: 7
-tags: ["Jetpack Compose", "AI coding tools", "code generation", "Android development", "metadata parsing"]
-source: "https://github.com/Oni-002/compose-skill"
-discovered_at: "2026-07-03T00:01:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Jetpack Compose
+- AI coding tools
+- code generation
+- Android development
+- metadata parsing
+source: https://github.com/Oni-002/compose-skill
+discovered_at: '2026-07-03T00:01:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

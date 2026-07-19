@@ -1,13 +1,30 @@
 ---
-title: "trip2g/trip2g"
-category: "Orchestrator"
-tech_stack: ["Go", "SQLite", "Markdown", "MCP (Model Context Protocol)", "Obsidian", "Docker", "Git", "Jet Templates", "Mermaid", "Telegram API", "OAuth", "Prometheus"]
+title: trip2g/trip2g
+category: world/public/vault/daily-digests/2026-07-08
+tech_stack:
+- Go
+- SQLite
+- Markdown
+- MCP (Model Context Protocol)
+- Obsidian
+- Docker
+- Git
+- Jet Templates
+- Mermaid
+- Telegram API
+- OAuth
+- Prometheus
 quality_score: 9
 rag_relevance: 10
-tags: ["knowledge management", "self-hosted", "MCP server", "Obsidian integration", "agent orchestration"]
-source: "https://github.com/trip2g/trip2g"
-discovered_at: "2026-07-08T02:07:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- knowledge management
+- self-hosted
+- MCP server
+- Obsidian integration
+- agent orchestration
+source: https://github.com/trip2g/trip2g
+discovered_at: '2026-07-08T02:07:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

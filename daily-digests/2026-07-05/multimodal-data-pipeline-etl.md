@@ -1,13 +1,22 @@
 ---
-title: "joaquincanete/multimodal-data-pipeline-etl"
-category: "Tooling"
-tech_stack: ["PHP", "ODBC", "dBase (FoxPro)", "CoffeeScript"]
+title: joaquincanete/multimodal-data-pipeline-etl
+category: daily-digests/2026-07-05
+tech_stack:
+- PHP
+- ODBC
+- dBase (FoxPro)
+- CoffeeScript
 quality_score: 3
 rag_relevance: 4
-tags: ["ETL", "PHP", "dBase", "multimodal", "data pipeline"]
-source: "https://github.com/joaquincanete/multimodal-data-pipeline-etl"
-discovered_at: "2026-07-05T02:50:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- ETL
+- PHP
+- dBase
+- multimodal
+- data pipeline
+source: https://github.com/joaquincanete/multimodal-data-pipeline-etl
+discovered_at: '2026-07-05T02:50:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

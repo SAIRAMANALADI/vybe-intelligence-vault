@@ -1,13 +1,24 @@
 ---
-title: "EfrainTorres/armavita-meta-ads-mcp"
-category: "Tooling"
-tech_stack: ["Python 3.11+", "Model Context Protocol (MCP)", "Meta Marketing API v25.0", "OAuth 2.0", "FastAPI", "Pydantic"]
+title: EfrainTorres/armavita-meta-ads-mcp
+category: daily-digests/2026-07-07
+tech_stack:
+- Python 3.11+
+- Model Context Protocol (MCP)
+- Meta Marketing API v25.0
+- OAuth 2.0
+- FastAPI
+- Pydantic
 quality_score: 9
 rag_relevance: 8
-tags: ["Meta Ads", "MCP Server", "OAuth", "Marketing API", "AI Integration"]
-source: "https://github.com/EfrainTorres/armavita-meta-ads-mcp"
-discovered_at: "2026-07-07T23:56:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Meta Ads
+- MCP Server
+- OAuth
+- Marketing API
+- AI Integration
+source: https://github.com/EfrainTorres/armavita-meta-ads-mcp
+discovered_at: '2026-07-07T23:56:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

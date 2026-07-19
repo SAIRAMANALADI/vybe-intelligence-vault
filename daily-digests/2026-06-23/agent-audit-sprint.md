@@ -1,13 +1,29 @@
 ---
-title: "jackjin1997/agent-audit-sprint"
-category: "Tooling"
-tech_stack: ["HTML", "JavaScript", "GitHub Pages", "GitHub Actions", "GitHub Issues", "GitHub Discussions", "SARIF", "Markdown", "ETH/SOL payments", "LLM heuristics", "Static site generation"]
+title: jackjin1997/agent-audit-sprint
+category: daily-digests/2026-06-23
+tech_stack:
+- HTML
+- JavaScript
+- GitHub Pages
+- GitHub Actions
+- GitHub Issues
+- GitHub Discussions
+- SARIF
+- Markdown
+- ETH/SOL payments
+- LLM heuristics
+- Static site generation
 quality_score: 7
 rag_relevance: 6
-tags: ["security auditing", "AI agent safety", "MCP server review", "automated triage", "commercial SaaS"]
-source: "https://github.com/jackjin1997/agent-audit-sprint"
-discovered_at: "2026-06-23T06:53:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- security auditing
+- AI agent safety
+- MCP server review
+- automated triage
+- commercial SaaS
+source: https://github.com/jackjin1997/agent-audit-sprint
+discovered_at: '2026-06-23T06:53:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

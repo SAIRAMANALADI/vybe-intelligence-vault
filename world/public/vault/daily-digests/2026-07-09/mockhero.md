@@ -1,13 +1,26 @@
 ---
-title: "dinosaur24/mockhero"
-category: "Tooling"
-tech_stack: ["Next.js 15", "TypeScript", "Supabase", "PostgreSQL", "Clerk", "Polar", "Tailwind CSS", "Model Context Protocol (MCP)"]
+title: dinosaur24/mockhero
+category: world/public/vault/daily-digests/2026-07-09
+tech_stack:
+- Next.js 15
+- TypeScript
+- Supabase
+- PostgreSQL
+- Clerk
+- Polar
+- Tailwind CSS
+- Model Context Protocol (MCP)
 quality_score: 9
 rag_relevance: 8
-tags: ["synthetic data generation", "test data API", "relational data", "MCP server", "database seeding"]
-source: "https://github.com/dinosaur24/mockhero"
-discovered_at: "2026-07-09T17:18:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- synthetic data generation
+- test data API
+- relational data
+- MCP server
+- database seeding
+source: https://github.com/dinosaur24/mockhero
+discovered_at: '2026-07-09T17:18:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

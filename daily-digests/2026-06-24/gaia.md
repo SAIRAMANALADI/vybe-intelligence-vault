@@ -1,13 +1,30 @@
 ---
-title: "Sho0pi/gaia"
-category: "Agent Framework"
-tech_stack: ["Python", "Google ADK", "A2A SDK", "Mem0 (memory management)", "Typer", "Textual", "uv (package manager)", "Ruff (linting)", "Mypy (type checking)", "Pytest (testing)", "Telegram/WhatsApp connectors", "Astro Starlight (docs)"]
+title: Sho0pi/gaia
+category: daily-digests/2026-06-24
+tech_stack:
+- Python
+- Google ADK
+- A2A SDK
+- Mem0 (memory management)
+- Typer
+- Textual
+- uv (package manager)
+- Ruff (linting)
+- Mypy (type checking)
+- Pytest (testing)
+- Telegram/WhatsApp connectors
+- Astro Starlight (docs)
 quality_score: 8
 rag_relevance: 9
-tags: ["AI agents", "subagent specialization", "memory management", "multi-platform interaction", "autonomous learning"]
-source: "https://github.com/Sho0pi/gaia"
-discovered_at: "2026-06-24T10:18:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- subagent specialization
+- memory management
+- multi-platform interaction
+- autonomous learning
+source: https://github.com/Sho0pi/gaia
+discovered_at: '2026-06-24T10:18:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

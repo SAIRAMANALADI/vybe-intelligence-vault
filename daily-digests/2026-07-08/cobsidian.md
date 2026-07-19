@@ -1,13 +1,24 @@
 ---
-title: "Totoro-qaq/Cobsidian"
-category: "Tooling"
-tech_stack: ["Python", "Obsidian", "Markdown", "YAML", "Model Context Protocol (MCP)", "GitHub Actions"]
+title: Totoro-qaq/Cobsidian
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- Obsidian
+- Markdown
+- YAML
+- Model Context Protocol (MCP)
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["knowledge management", "Obsidian integration", "AI conversation structuring", "duplicate prevention", "MCP server"]
-source: "https://github.com/Totoro-qaq/Cobsidian"
-discovered_at: "2026-07-08T05:45:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- knowledge management
+- Obsidian integration
+- AI conversation structuring
+- duplicate prevention
+- MCP server
+source: https://github.com/Totoro-qaq/Cobsidian
+discovered_at: '2026-07-08T05:45:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

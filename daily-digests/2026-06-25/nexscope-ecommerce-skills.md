@@ -1,13 +1,23 @@
 ---
-title: "nexscope-ai/nexscope-ecommerce-skills"
-category: "Tooling"
-tech_stack: ["Python", "Nexscope API", "AI Agent Skills Framework", "RESTful APIs", "Environment Variables"]
+title: nexscope-ai/nexscope-ecommerce-skills
+category: daily-digests/2026-06-25
+tech_stack:
+- Python
+- Nexscope API
+- AI Agent Skills Framework
+- RESTful APIs
+- Environment Variables
 quality_score: 8
 rag_relevance: 7
-tags: ["e-commerce", "AI agent skills", "market intelligence", "competitive analysis", "product research"]
-source: "https://github.com/nexscope-ai/nexscope-ecommerce-skills"
-discovered_at: "2026-06-25T07:27:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- e-commerce
+- AI agent skills
+- market intelligence
+- competitive analysis
+- product research
+source: https://github.com/nexscope-ai/nexscope-ecommerce-skills
+discovered_at: '2026-06-25T07:27:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

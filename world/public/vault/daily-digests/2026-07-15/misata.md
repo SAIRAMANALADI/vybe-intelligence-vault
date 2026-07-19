@@ -1,13 +1,26 @@
 ---
-title: "rasinmuhammed/misata"
-category: "Tooling"
-tech_stack: ["Python", "NumPy", "Pandas", "LLM (Large Language Models)", "MCP (Model Context Protocol)", "YAML", "SQL", "arXiv (for research backing)"]
+title: rasinmuhammed/misata
+category: world/public/vault/daily-digests/2026-07-15
+tech_stack:
+- Python
+- NumPy
+- Pandas
+- LLM (Large Language Models)
+- MCP (Model Context Protocol)
+- YAML
+- SQL
+- arXiv (for research backing)
 quality_score: 9
 rag_relevance: 8
-tags: ["synthetic data", "data generation", "outcome-conformant", "referential integrity", "no-code"]
-source: "https://github.com/rasinmuhammed/misata"
-discovered_at: "2026-07-11T14:52:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- synthetic data
+- data generation
+- outcome-conformant
+- referential integrity
+- no-code
+source: https://github.com/rasinmuhammed/misata
+discovered_at: '2026-07-11T14:52:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

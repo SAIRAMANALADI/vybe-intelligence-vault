@@ -1,13 +1,25 @@
 ---
-title: "szuqianshijia-ux/auto-research-wiki"
-category: "Orchestrator"
-tech_stack: ["Python", "Node.js", "LLM Wiki (API)", "MinerU (PDF to Markdown)", "Claude Code (Agent Framework)", "PyYAML", "WandB/TensorBoard (Experiment Tracking)"]
+title: szuqianshijia-ux/auto-research-wiki
+category: daily-digests/2026-07-08
+tech_stack:
+- Python
+- Node.js
+- LLM Wiki (API)
+- MinerU (PDF to Markdown)
+- Claude Code (Agent Framework)
+- PyYAML
+- WandB/TensorBoard (Experiment Tracking)
 quality_score: 8
 rag_relevance: 9
-tags: ["Research Automation", "Knowledge Management", "Agent Workflows", "Paper Retrieval", "Progress Tracking"]
-source: "https://github.com/szuqianshijia-ux/auto-research-wiki"
-discovered_at: "2026-07-08T05:46:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Research Automation
+- Knowledge Management
+- Agent Workflows
+- Paper Retrieval
+- Progress Tracking
+source: https://github.com/szuqianshijia-ux/auto-research-wiki
+discovered_at: '2026-07-08T05:46:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

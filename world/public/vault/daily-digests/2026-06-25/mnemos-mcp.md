@@ -1,13 +1,22 @@
 ---
-title: "ELSAKKK/mnemos-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Local Vector Search", "Self-Hosted Application", "Document Processing"]
+title: ELSAKKK/mnemos-mcp
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- Python
+- Local Vector Search
+- Self-Hosted Application
+- Document Processing
 quality_score: 7
 rag_relevance: 8
-tags: ["private knowledge server", "local vector search", "document ingestion", "multi-collection isolation", "self-hosted"]
-source: "https://github.com/ELSAKKK/mnemos-mcp"
-discovered_at: "2026-06-25T07:27:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- private knowledge server
+- local vector search
+- document ingestion
+- multi-collection isolation
+- self-hosted
+source: https://github.com/ELSAKKK/mnemos-mcp
+discovered_at: '2026-06-25T07:27:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

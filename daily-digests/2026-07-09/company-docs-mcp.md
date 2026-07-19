@@ -1,13 +1,25 @@
 ---
-title: "southleft/company-docs-mcp"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Cloudflare Workers", "Cloudflare Workers AI", "Supabase", "Model Context Protocol (MCP)", "Node.js", "Wrangler CLI"]
+title: southleft/company-docs-mcp
+category: daily-digests/2026-07-09
+tech_stack:
+- TypeScript
+- Cloudflare Workers
+- Cloudflare Workers AI
+- Supabase
+- Model Context Protocol (MCP)
+- Node.js
+- Wrangler CLI
 quality_score: 9
 rag_relevance: 10
-tags: ["documentation", "knowledge base", "RAG", "MCP", "semantic search"]
-source: "https://github.com/southleft/company-docs-mcp"
-discovered_at: "2026-07-09T11:53:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- documentation
+- knowledge base
+- RAG
+- MCP
+- semantic search
+source: https://github.com/southleft/company-docs-mcp
+discovered_at: '2026-07-09T11:53:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

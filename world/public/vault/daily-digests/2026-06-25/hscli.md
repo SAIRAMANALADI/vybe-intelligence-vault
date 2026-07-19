@@ -1,13 +1,25 @@
 ---
-title: "revfleet/hscli"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "HubSpot API", "CLI", "JSONL tracing", "Private App Tokens"]
+title: revfleet/hscli
+category: world/public/vault/daily-digests/2026-06-25
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- HubSpot API
+- CLI
+- JSONL tracing
+- Private App Tokens
 quality_score: 9
 rag_relevance: 8
-tags: ["HubSpot", "CLI", "MCP server", "agentic workflows", "enterprise safety"]
-source: "https://github.com/revfleet/hscli"
-discovered_at: "2026-06-25T11:40:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- HubSpot
+- CLI
+- MCP server
+- agentic workflows
+- enterprise safety
+source: https://github.com/revfleet/hscli
+discovered_at: '2026-06-25T11:40:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

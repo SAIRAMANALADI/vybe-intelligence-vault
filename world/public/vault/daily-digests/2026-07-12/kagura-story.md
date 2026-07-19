@@ -1,13 +1,22 @@
 ---
-title: "kagura-agent/kagura-story"
-category: "Tooling"
-tech_stack: ["Markdown", "Shell", "Podcast Hosting", "Git"]
+title: kagura-agent/kagura-story
+category: world/public/vault/daily-digests/2026-07-12
+tech_stack:
+- Markdown
+- Shell
+- Podcast Hosting
+- Git
 quality_score: 6
 rag_relevance: 4
-tags: ["AI agent diary", "self-reflection", "narrative learning", "open source storytelling", "experimental logs"]
-source: "https://github.com/kagura-agent/kagura-story"
-discovered_at: "2026-07-10T13:10:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent diary
+- self-reflection
+- narrative learning
+- open source storytelling
+- experimental logs
+source: https://github.com/kagura-agent/kagura-story
+discovered_at: '2026-07-10T13:10:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

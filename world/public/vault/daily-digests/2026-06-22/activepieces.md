@@ -1,13 +1,27 @@
 ---
-title: "activepieces/activepieces"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "React", "PostgreSQL", "Redis", "Docker", "Bun", "MCP (Model Context Protocol)", "PostHog"]
+title: activepieces/activepieces
+category: world/public/vault/daily-digests/2026-06-22
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- PostgreSQL
+- Redis
+- Docker
+- Bun
+- MCP (Model Context Protocol)
+- PostHog
 quality_score: 9
 rag_relevance: 8
-tags: ["automation", "workflow engine", "AI agents", "MCP servers", "no-code"]
-source: "https://github.com/activepieces/activepieces"
-discovered_at: "2026-06-22T18:14:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- automation
+- workflow engine
+- AI agents
+- MCP servers
+- no-code
+source: https://github.com/activepieces/activepieces
+discovered_at: '2026-06-22T18:14:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

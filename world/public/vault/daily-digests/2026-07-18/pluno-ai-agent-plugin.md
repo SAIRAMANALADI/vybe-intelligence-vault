@@ -1,13 +1,22 @@
 ---
-title: "unbrainedgmbh/pluno-ai-agent-plugin"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Chrome Extension API", "AI Agent Integration", "CDP (Chrome DevTools Protocol)"]
+title: unbrainedgmbh/pluno-ai-agent-plugin
+category: world/public/vault/daily-digests/2026-07-18
+tech_stack:
+- JavaScript
+- Chrome Extension API
+- AI Agent Integration
+- CDP (Chrome DevTools Protocol)
 quality_score: 7
 rag_relevance: 6
-tags: ["AI agent delegation", "browser automation", "Chrome extension", "task routing", "Pluno integration"]
-source: "https://github.com/unbrainedgmbh/pluno-ai-agent-plugin"
-discovered_at: "2026-07-17T16:14:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent delegation
+- browser automation
+- Chrome extension
+- task routing
+- Pluno integration
+source: https://github.com/unbrainedgmbh/pluno-ai-agent-plugin
+discovered_at: '2026-07-17T16:14:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

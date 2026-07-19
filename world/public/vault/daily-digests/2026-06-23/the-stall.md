@@ -1,13 +1,25 @@
 ---
-title: "thebrierfox/the-stall"
-category: "Tooling"
-tech_stack: ["MCP (Model Context Protocol)", "JavaScript", "x402 (crypto payments)", "Stripe (fiat payments)", "Base (Ethereum L2)", "HTTP/REST API", "WebSockets"]
+title: thebrierfox/the-stall
+category: world/public/vault/daily-digests/2026-06-23
+tech_stack:
+- MCP (Model Context Protocol)
+- JavaScript
+- x402 (crypto payments)
+- Stripe (fiat payments)
+- Base (Ethereum L2)
+- HTTP/REST API
+- WebSockets
 quality_score: 8
 rag_relevance: 9
-tags: ["pay-per-call", "MCP server", "real-time data", "crypto payments", "multi-domain intelligence"]
-source: "https://github.com/thebrierfox/the-stall"
-discovered_at: "2026-06-23T21:29:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- pay-per-call
+- MCP server
+- real-time data
+- crypto payments
+- multi-domain intelligence
+source: https://github.com/thebrierfox/the-stall
+discovered_at: '2026-06-23T21:29:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

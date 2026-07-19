@@ -1,13 +1,24 @@
 ---
-title: "FROWNINGdev/django-orm-lens"
-category: "Tooling"
-tech_stack: ["Python", "Django", "TypeScript", "VS Code Extension API", "Model Context Protocol (MCP)", "Mermaid.js"]
+title: FROWNINGdev/django-orm-lens
+category: daily-digests/2026-07-16
+tech_stack:
+- Python
+- Django
+- TypeScript
+- VS Code Extension API
+- Model Context Protocol (MCP)
+- Mermaid.js
 quality_score: 9
 rag_relevance: 8
-tags: ["Django schema visualization", "ER diagram generator", "AI agent integration", "VS Code extension", "MCP server"]
-source: "https://github.com/FROWNINGdev/django-orm-lens"
-discovered_at: "2026-07-15T20:08:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Django schema visualization
+- ER diagram generator
+- AI agent integration
+- VS Code extension
+- MCP server
+source: https://github.com/FROWNINGdev/django-orm-lens
+discovered_at: '2026-07-15T20:08:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

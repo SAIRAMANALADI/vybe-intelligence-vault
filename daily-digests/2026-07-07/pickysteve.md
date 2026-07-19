@@ -1,13 +1,27 @@
 ---
-title: "KernelLord/pickysteve"
-category: "Orchestrator"
-tech_stack: ["Python 3.11", "uv (dependency manager)", "Ollama (local LLM)", "OpenAI-compatible APIs", "rank_bm25", "sentence-transformers", "BAAI/bge-reranker-base", "stackone-defender[onnx]", "JSONL logging"]
+title: KernelLord/pickysteve
+category: daily-digests/2026-07-07
+tech_stack:
+- Python 3.11
+- uv (dependency manager)
+- Ollama (local LLM)
+- OpenAI-compatible APIs
+- rank_bm25
+- sentence-transformers
+- BAAI/bge-reranker-base
+- stackone-defender[onnx]
+- JSONL logging
 quality_score: 9
 rag_relevance: 10
-tags: ["skill routing", "prompt injection defense", "context isolation", "agent orchestration", "RAG security"]
-source: "https://github.com/KernelLord/pickysteve"
-discovered_at: "2026-07-07T13:17:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- skill routing
+- prompt injection defense
+- context isolation
+- agent orchestration
+- RAG security
+source: https://github.com/KernelLord/pickysteve
+discovered_at: '2026-07-07T13:17:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
