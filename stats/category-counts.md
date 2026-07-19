@@ -4,31 +4,24 @@ Below is the file distribution across the vault categories.
 
 | Folder | Files |
 | :--- | ---: |
-| `Tooling/` | 1 |
-| `ai/agents/` | 1815 |
+| `Agent Framework/` | 1 |
+| `ai/agents/` | 1627 |
 | `ai/community/` | 3 |
-| `ai/companies/` | 10 |
-| `ai/companies/anthropic/` | 9 |
-| `ai/companies/deepmind/` | 5 |
-| `ai/companies/mistral/` | 10 |
-| `ai/companies/openai/` | 4 |
-| `ai/models/` | 804 |
-| `ai/rag/` | 3921 |
-| `ai/releases/` | 3 |
-| `ai/research/` | 4294 |
-| `ai/resources/` | 1337 |
-| `ai/trending/` | 6 |
-| `web-development/` | 41 |
-| `web-development/dashboards/` | 1 |
-| `web-development/framer-motion/` | 25 |
-| `web-development/gsap/` | 6 |
-| `web-development/nextjs/` | 78 |
-| `web-development/react-three-fiber/` | 25 |
+| `ai/rag/` | 3431 |
+| `ai/releases/` | 1 |
+| `ai/research/` | 4286 |
+| `ai/resources/` | 1104 |
+| `ai/trending/` | 5 |
+| `web-development/` | 39 |
+| `web-development/framer-motion/` | 3 |
+| `web-development/gsap/` | 3 |
+| `web-development/nextjs/` | 9 |
+| `web-development/react-three-fiber/` | 22 |
 | `web-development/shadcn-ui/` | 26 |
-| `web-development/tailwind/` | 2 |
+| `web-development/tailwind/` | 1 |
 | `web-development/threejs/` | 24 |
 | `web-development/webgl/` | 1 |
-| `web-development/webgpu/` | 26 |
+| `web-development/webgpu/` | 25 |
 
 ## Categories Needing More Coverage
 
