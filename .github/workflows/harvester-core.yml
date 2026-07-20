@@ -1,8 +1,11 @@
+# NOTE: This workflow orchestrates ingestion using the private engine repository (sairaman436/vybe-intelligence-engine).
+# It requires the secret ENGINE_GITHUB_TOKEN to be configured in repository secrets.
+# For public standalone runs, use harvester.yml or trigger via workflow_dispatch.
 name: Harvest Public Vault Core
 
 on:
-  schedule:
-    - cron: "17 */3 * * *"
+  # schedule:
+  #   - cron: "17 */3 * * *"
   workflow_dispatch:
     inputs:
       mode:

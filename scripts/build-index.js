@@ -248,11 +248,12 @@ const staticMockVector = Array.from({ length: 768 }, (_, i) => parseFloat(Math.s
 
 async function buildIndex() {
   // Dynamically scan all directories in the vault except for internal system/temporary folders
+  const IGNORED_TOP_LEVEL = ['node_modules', 'vault-core', 'scripts', 'temp_vault', 'temp_vault2', 'world', 'dist', 'build', 'cache', '.cache', 'temp', 'tmp', '_index', 'assets', '.git'];
   const foldersToScan = fs.readdirSync(VAULT_ROOT).filter(file => {
     const filePath = path.join(VAULT_ROOT, file);
     return fs.statSync(filePath).isDirectory() && 
            !file.startsWith('.') && 
-           !['node_modules', 'vault-core', 'scripts', 'temp_vault', 'temp_vault2'].includes(file);
+           !IGNORED_TOP_LEVEL.includes(file.toLowerCase());
   });
   console.log(`Discovered and scanning folders: ${foldersToScan.join(', ')}`);
   const nodes = [];
@@ -483,17 +484,22 @@ function copyMarkdownFiles() {
   }
   fs.mkdirSync(targetVaultDir, { recursive: true });
 
-  const folders = ['maps', 'skills', 'daily-digests', 'prompts'];
+  const IGNORED_TOP_LEVEL = ['node_modules', 'vault-core', 'scripts', 'temp_vault', 'temp_vault2', 'world', 'dist', 'build', 'cache', '.cache', 'temp', 'tmp', '_index', 'assets', '.git'];
+  const folders = fs.readdirSync(VAULT_ROOT).filter(file => {
+    const filePath = path.join(VAULT_ROOT, file);
+    return fs.statSync(filePath).isDirectory() && 
+           !file.startsWith('.') && 
+           !IGNORED_TOP_LEVEL.includes(file.toLowerCase());
+  });
+
   for (const folder of folders) {
     const srcDir = path.join(VAULT_ROOT, folder);
-    const destDir = path.join(targetVaultDir, folder);
     if (!fs.existsSync(srcDir)) continue;
 
-    fs.mkdirSync(destDir, { recursive: true });
     const files = getMarkdownFiles(srcDir);
     for (const file of files) {
-      const relPath = path.relative(srcDir, file);
-      const destFile = path.join(destDir, relPath);
+      const relPath = path.relative(VAULT_ROOT, file);
+      const destFile = path.join(targetVaultDir, relPath);
       fs.mkdirSync(path.dirname(destFile), { recursive: true });
       fs.copyFileSync(file, destFile);
     }

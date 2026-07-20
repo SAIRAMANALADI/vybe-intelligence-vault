@@ -56,7 +56,11 @@ Every 3 hours:
        │   vault-index.json   ← semantic node/edge graph (cosine sim > 0.75)
        │         │
        │         ▼
-       │   React 3D Map       ← WebGL intelligence visualization (SWR polling)
+       │         ▼
+       │   vault-index.json   ← compact node/edge graph
+       │         │
+       │         ▼
+       │   React Explorer     ← Modern Web document explorer UI (world/)
        │
        └─▶ Orchestrator :3456 ← MCP gateway for agent context injection
 ```
@@ -75,20 +79,21 @@ Each resource is evaluated across 4 dimensions:
 ### Semantic Graph
 
 Embeddings via `nomic-embed-text` (Ollama). Two nodes are linked if:
-- Cosine similarity `> 0.75` → `similar_to`
-- Shared tech stack → `depends_on`  
-- Same category + shared tags → `references`
+- Cosine similarity `> 0.75` -> `similar_to`
+- Shared tech stack -> `depends_on`  
+- Same category + shared tags -> `references`
 
-Edge weight = `cosine_sim + (shared_tags × 0.08)`
+Edge weight = `cosine_sim + (shared_tags * 0.08)`
 
 ### MCP Gateway
 
-HTTP bridge on `:3456`. Send a vault file path → receive a clean, LLM-formatted context block. Agents can pull any resource into their context window without reading the filesystem directly.
+HTTP bridge on `:3456`. Send a vault file path -> receive a clean, LLM-formatted context block. Agents can pull any resource into their context window without reading the filesystem directly.
 
 ```bash
 # Example agent request
-curl -X POST http://localhost:3456/inject \
-  -d '{"path": "ai/agents/tool-use-patterns.md"}'
+curl -X POST http://localhost:3456/orchestrate \
+  -H "Content-Type: application/json" \
+  -d '{"action": "inject", "parameters": {"path": "skills/rag.md"}}'
 ```
 
 ---
@@ -97,14 +102,14 @@ curl -X POST http://localhost:3456/inject \
 
 ```mermaid
 graph TD
-    A[⏰ Cron / Dispatch Trigger] -->|every 3h| B(evaluate_repo.py)
+    A[Cron / Dispatch Trigger] -->|every 3h| B(evaluate_repo.py)
     B -->|LLM score| C{Decision Engine}
     C -->|pass threshold| D[vault-core/]
-    C -->|reject| X[❌ Discarded]
+    C -->|reject| X[Discarded]
     D -->|git push| E(rebuild-index.yml)
-    E -->|nomic-embed-text| F[vault-index.json]
-    F -->|SWR poll| G[🌐 React 3D Map]
-    H[🤖 AI Agent] -->|MCP request| I[Orchestrator :3456]
+    E -->|build-index.js| F[world/public/vault-index.json]
+    F -->|fetch| G[React Document Explorer world/]
+    H[AI Agent] -->|MCP request| I[Orchestrator :3456]
     I -->|read + format| D
 
     style A fill:#1f2937,color:#e5e7eb
@@ -115,11 +120,11 @@ graph TD
 
 ### Key Design Decisions
 
-**Write-lock state management** — `state.lock` prevents collision writes when multiple pipeline jobs run concurrently. All mutations are append-only to `vault-events.log` (JSONL). In-memory reads use a 30s TTL. → [`scripts/state-manager.js`](./scripts/state-manager.js)
+**Write-lock state management** — `state.lock` prevents collision writes when multiple pipeline jobs run concurrently. All mutations are append-only to `vault-events.log` (JSONL). In-memory reads use a 30s TTL. -> [`scripts/state-manager.js`](./scripts/state-manager.js)
 
-**Hybrid inference** — Pipeline tries local Ollama first (zero cost, no rate limits). Falls back to cloud LLM if Ollama is unavailable. Scoring is deterministic via fixed seed. → [`scripts/evaluate_repo.py`](./scripts/evaluate_repo.py)
+**Hybrid inference** — Pipeline tries local Ollama first (zero cost, no rate limits). Falls back to cloud LLM if Ollama is unavailable. Scoring is deterministic via fixed seed. -> [`scripts/evaluate_repo.py`](./scripts/evaluate_repo.py)
 
-**Bot commits on heatmap** — Git identity configured so automated commits register on the contribution graph. Pipeline runs as `vybe-bot` with a PAT scoped to `repo` only. → [`.github/workflows/harvester.yml`](./.github/workflows/harvester.yml)
+**Bot commits on heatmap** — Git identity configured so automated commits register on the contribution graph. Pipeline runs as `vybe-bot` with a PAT scoped to `repo` only. -> [`.github/workflows/harvester.yml`](./.github/workflows/harvester.yml)
 
 ---
 
@@ -127,37 +132,49 @@ graph TD
 
 ### Prerequisites
 
-- [Ollama](https://ollama.com) installed and running
-- Node.js 18+
-- Python 3.10+
+- [Ollama](https://ollama.com) installed and running (optional for local LLM scoring/embeddings)
+- Node.js 20+
+- Python 3.11+
 
-### Setup
+### Setup Commands
 
-```bash
-# Clone
+#### Windows (PowerShell / CMD)
+```powershell
+# Clone repository
 git clone https://github.com/sairaman436/vybe-intelligence-vault.git
 cd vybe-intelligence-vault
 
-# Pull required models
-ollama pull nomic-embed-text   # embeddings
-ollama pull qwen2.5:14b        # scoring
-
-# Install dependencies
-npm install
+# Install Python requirements
 pip install -r requirements.txt
 
-# Start everything (MCP server + orchestrator + web UI)
-bash scripts/vault-init.sh
+# Rebuild vault index
+npm run build:index
+
+# Install frontend dependencies & run dev server
+cd world
+npm ci
+npm run dev
 ```
 
-### Verify
-
+#### Linux / macOS (Unix Shell)
 ```bash
-# Check service health, ports, and event log
-bash scripts/vault-status.sh
+# Clone repository
+git clone https://github.com/sairaman436/vybe-intelligence-vault.git
+cd vybe-intelligence-vault
+
+# Install Python requirements
+pip install -r requirements.txt
+
+# Rebuild vault index
+npm run build:index
+
+# Install frontend dependencies & run dev server
+cd world
+npm ci
+npm run dev
 ```
 
-Open `http://localhost:3000` for the 3D intelligence map.
+Open `http://localhost:5173` for the React document explorer interface.
 
 ### Configure Topics
 

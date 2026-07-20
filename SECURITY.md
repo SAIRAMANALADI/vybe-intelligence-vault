@@ -8,4 +8,10 @@ If you identify any sensitive credentials, secret tokens, private emails, phone 
 2. **Contact Privately**: Email the maintainer directly at [sairamanladi2007@gmail.com](mailto:sairamanladi2007@gmail.com) with the details.
 3. **Prompt Removal**: We will immediately remove the file, rotate any leaked tokens, and scrub the repository's git history if necessary.
 
-Thank you for helping keep this open-source workspace safe!
+## Secret Management & Token Rotation
+
+> [!IMPORTANT]
+> **Token Rotation Action Required**: If any Personal Access Token (PAT) was previously stored in local `.git/config` files or committed, the repository owner must immediately revoke and rotate it via GitHub Developer Settings.
+
+- **Secrets Storage**: All automated workflow tokens must be stored exclusively in GitHub Actions Secrets (`VAULT_GITHUB_TOKEN`, `GEMINI_API_KEY`, `MISTRAL_API_KEY`, etc.).
+- **No Embedded Credentials**: Never include tokens in git remotes, documentation, or committed scripts.

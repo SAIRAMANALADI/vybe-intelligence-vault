@@ -4,19 +4,23 @@ import ReactMarkdown from 'react-markdown';
 import { useVaultIndex } from './data/vaultHooks';
 
 const IS_PROD = window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1';
-const VAULT_REPO_URL = 'https://raw.githubusercontent.com/sairaman436/vybe-intelligence-vault/main';
-
 const BASE_PATH = IS_PROD ? '/vybe-intelligence-vault/' : '/';
 
 /* ─── Markdown Viewer ─── */
 function MarkdownViewer({ node, onNavigate, onBack }) {
   const [content, setContent] = useState('');
   const [loading, setLoading] = useState(false);
+  const [activePath, setActivePath] = useState(null);
+
+  if (node && node.path !== activePath) {
+    setActivePath(node.path);
+    setLoading(true);
+    setContent('');
+  }
 
   useEffect(() => {
     if (!node) return;
-    setLoading(true);
-    setContent('');
+    let isCurrent = true;
 
     const fileUrl = `${BASE_PATH}vault/${node.path}`;
 
@@ -26,6 +30,7 @@ function MarkdownViewer({ node, onNavigate, onBack }) {
         return res.text();
       })
       .then((text) => {
+        if (!isCurrent) return;
         let cleanText = text;
         if (text.startsWith('---')) {
           const parts = text.split('---');
@@ -37,12 +42,18 @@ function MarkdownViewer({ node, onNavigate, onBack }) {
         setLoading(false);
       })
       .catch((err) => {
+        if (!isCurrent) return;
         console.error('Fetch error:', err);
+        const sourceUrl = `https://github.com/sairaman436/vybe-intelligence-vault/blob/main/${node.path}`;
         setContent(node.path.endsWith('.md') 
-          ? '# Error\n\nFailed to load content. Ensure the file is checked into the repository.'
+          ? `# Document Source Available\n\nThis entry (\`${node.path}\`) is part of the repository vault.\n\n🔗 **[View file directly on GitHub](${sourceUrl})**`
           : '_This is a non-markdown file. Preview is not available._');
         setLoading(false);
       });
+
+    return () => {
+      isCurrent = false;
+    };
   }, [node]);
 
   if (!node) return null;
@@ -102,7 +113,7 @@ function MarkdownViewer({ node, onNavigate, onBack }) {
             <div className="markdown-body">
               <ReactMarkdown
                 components={{
-                  a: ({ node: mdNode, href, children, ...props }) => {
+                  a: ({ href, children, ...props }) => {
                     if (href && !href.startsWith('http') && !href.startsWith('#') && !href.startsWith('mailto:')) {
                       return (
                         <a 

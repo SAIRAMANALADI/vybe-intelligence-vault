@@ -1,22 +1,55 @@
+# Environment & Configuration
 .env
 *.env
 .env.*
+
+# Logs & State
 logs/
 *.log
 state/
 seen_urls.json
-**pycache**/
+state.lock
+vault-events.log
+vault-core/vault-events.log
+
+# Python
+__pycache__/
+*.pyc
 .venv/
+
+# Secrets
 private/
 secrets/
 credentials/
 *.key
 *.pem
+
+# Databases
 *.sqlite
 *.db
+
+# OS Artifacts
 .DS_Store
+Thumbs.db
+
+# Node Dependencies & Builds
 node_modules/
+world/node_modules/
 world/dist/
 world/build/
+
+# Generated Index Files & Caches
+vault-index.json
 vault-core/vault-index.json
 vault-core/embeddings/
+search-index.json
+search-index.md
+stats.json
+
+# Pipeline & Evaluation Artifacts
+discovery-batch.json
+evaluation-*.json
+error-*.json
+harvester-report.json
+pipeline-report.json
+evaluated-batch.json

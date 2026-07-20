@@ -7,16 +7,13 @@ import argparse
 import urllib.request
 import urllib.parse
 import subprocess
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
-# Try importing jsonschema, install dynamically if not present
 try:
     import jsonschema
 except ImportError:
-    print("Installing jsonschema dynamically...")
-    subprocess.run([sys.executable, "-m", "pip", "install", "jsonschema"], check=True)
-    import jsonschema
+    raise ImportError("jsonschema is required for evaluate_repo.py. Please run 'pip install -r requirements.txt'")
 
 # Configuration
 VAULT_ROOT = Path(__file__).resolve().parent.parent
@@ -29,7 +26,7 @@ def log(msg):
 def append_event(event_type, payload, correlation_id=""):
     """Append event to vault-core/vault-events.log and its root copy."""
     event = {
-        "timestamp": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "timestamp": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "type": event_type,
         "payload": payload,
         "correlation_id": correlation_id
@@ -440,7 +437,7 @@ def evaluate_single_repo(repo, token, force_cloud_llm, force, correlation_id):
         "tokens_used": tokens,
         "estimated_cost": cost,
         "model_used": model_used,
-        "collected_at": datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')
+        "collected_at": datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
     }
     
     with open(cache_file, "w", encoding="utf-8") as f:
