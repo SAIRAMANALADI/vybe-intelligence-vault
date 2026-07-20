@@ -2,10 +2,10 @@
 
 | Metric               | Count |
 | -------------------- | ----: |
-| Active resources     | 10776 |
+| Active resources     | 10775 |
 | Inactive resources   |   245 |
-| Markdown files       | 42107 |
-| Archive files        |  2018 |
+| Markdown files       | 42030 |
+| Archive files        |  1927 |
 | Archive categories   |    26 |
 | Skill files          |    19 |
 | Intelligence files   |     8 |
@@ -16,7 +16,7 @@
 | Examples             |     8 |
 | Search index entries | 23972 |
 
-Last Generated: 2026-07-20 08:15 IST
+Last Generated: 2026-07-20 09:08 IST
 
 ## Top Categories
 - **Ai/Research**: 4346 files

@@ -317,7 +317,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | framerstatus.com | 1 |
 | apstylebook.com | 1 |
 | docs.cloud.llamaindex.ai | 1 |
-| docs.astro.build | 1 |
 | nationalarchives.gov.uk | 1 |
 | pydata-sphinx-theme.readthedocs.io | 1 |
 | developmentseed.org | 1 |

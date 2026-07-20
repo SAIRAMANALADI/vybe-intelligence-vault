@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T08:15:24.736216+05:30",
+  "generated_at": "2026-07-20T09:08:10.410019+05:30",
   "trending_resources": [
     {
       "id": "github:run-llama/llama_index",
@@ -142,7 +142,7 @@
       "file_path": "ai/rag/monday-service-langsmith-building-a-code-first-eva.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 992,
+      "rank_change": 993,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -155,7 +155,7 @@
       "file_path": "ai/rag/sentencetransformers-documentation-sentence-transf.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 992,
+      "rank_change": 993,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -168,7 +168,7 @@
       "file_path": "ai/rag/medium-terms-of-service-by-medium-medium-policy.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 992,
+      "rank_change": 993,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -181,7 +181,7 @@
       "file_path": "ai/rag/evaluate-a-simple-llm-application-ragas.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 992,
+      "rank_change": 993,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -194,7 +194,7 @@
       "file_path": "ai/rag/promptfoo-promptfoo-action.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 992,
+      "rank_change": 993,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -207,7 +207,7 @@
       "file_path": "ai/rag/alucek-graphrag-breakdown.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 992,
+      "rank_change": 993,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -220,7 +220,7 @@
       "file_path": "ai/rag/rag-application-tutorial-2025-build-production-rea.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 992,
+      "rank_change": 993,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -233,7 +233,7 @@
       "file_path": "ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 992,
+      "rank_change": 993,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,7 +246,7 @@
       "file_path": "ai/rag/arxiv-2606-29031.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 992,
+      "rank_change": 993,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -259,7 +259,7 @@
       "file_path": "ai/research/arxiv-2606-26428.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 992,
+      "rank_change": 993,
       "new_resource": false,
       "tier": "tier-3"
     }

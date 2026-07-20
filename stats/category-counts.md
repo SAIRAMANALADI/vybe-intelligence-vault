@@ -18,7 +18,7 @@ Below is the file distribution across the vault categories.
 | `web-development/nextjs/` | 9 |
 | `web-development/react-three-fiber/` | 22 |
 | `web-development/shadcn-ui/` | 26 |
-| `web-development/tailwind/` | 2 |
+| `web-development/tailwind/` | 1 |
 | `web-development/threejs/` | 24 |
 | `web-development/webgl/` | 1 |
 | `web-development/webgpu/` | 25 |
