@@ -1,6 +1,6 @@
 ---
 title: KYCgrayson/APPAI
-category: world/public/vault/daily-digests/2026-07-12
+category: daily-digests/2026-07-12
 tech_stack:
 - Next.js 16
 - React 19

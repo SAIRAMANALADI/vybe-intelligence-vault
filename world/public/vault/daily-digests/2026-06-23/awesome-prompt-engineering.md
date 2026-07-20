@@ -1,6 +1,6 @@
 ---
 title: hungf1511/awesome-prompt-engineering
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - Markdown
 - GitHub Releases

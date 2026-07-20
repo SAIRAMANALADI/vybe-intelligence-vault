@@ -1,6 +1,6 @@
 ---
 title: killop/anything_about_game
-category: world/public/vault/daily-digests/2026-07-13
+category: daily-digests/2026-07-13
 tech_stack:
 - Markdown
 - QQ Groups (Community)

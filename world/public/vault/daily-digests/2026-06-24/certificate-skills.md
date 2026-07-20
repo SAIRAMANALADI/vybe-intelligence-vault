@@ -1,6 +1,6 @@
 ---
 title: cyberspacesec/certificate-skills
-category: world/public/vault/daily-digests/2026-06-24
+category: daily-digests/2026-06-24
 tech_stack:
 - Go
 - MCP (Model Context Protocol)

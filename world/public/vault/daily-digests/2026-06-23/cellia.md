@@ -1,6 +1,6 @@
 ---
 title: nbbou81000/cellia
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - GitHub Pages
 - GitHub Actions

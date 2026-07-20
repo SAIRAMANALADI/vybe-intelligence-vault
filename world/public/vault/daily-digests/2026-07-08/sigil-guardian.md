@@ -1,6 +1,6 @@
 ---
 title: Sengathirmcse/sigil-guardian
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - Python 3.10+
 - Node.js 18+

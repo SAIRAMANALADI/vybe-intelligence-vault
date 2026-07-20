@@ -1,6 +1,6 @@
 ---
 title: lexi-sg/lexi-for-chrome
-category: world/public/vault/daily-digests/2026-07-18
+category: daily-digests/2026-07-18
 tech_stack:
 - JavaScript (ES Modules)
 - Chrome Extensions API

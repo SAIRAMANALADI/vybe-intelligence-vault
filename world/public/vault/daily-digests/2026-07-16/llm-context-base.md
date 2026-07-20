@@ -1,6 +1,6 @@
 ---
 title: minor-maianthemumcanadense3023/llm-context-base
-category: world/public/vault/daily-digests/2026-07-16
+category: daily-digests/2026-07-16
 tech_stack:
 - Python
 - Markdown

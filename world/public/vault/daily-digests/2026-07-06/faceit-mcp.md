@@ -1,6 +1,6 @@
 ---
 title: saivi3171/faceit-mcp
-category: world/public/vault/daily-digests/2026-07-06
+category: daily-digests/2026-07-06
 tech_stack:
 - Python
 - Model Context Protocol (MCP)

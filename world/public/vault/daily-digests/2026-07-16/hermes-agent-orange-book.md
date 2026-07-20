@@ -1,6 +1,6 @@
 ---
 title: Sebas2015diaz/hermes-agent-orange-book
-category: world/public/vault/daily-digests/2026-07-16
+category: daily-digests/2026-07-16
 tech_stack:
 - Hermes Agent Framework
 - Windows OS

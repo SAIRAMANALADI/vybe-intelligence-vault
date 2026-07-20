@@ -1,6 +1,6 @@
 ---
 title: 28ips96/morning-intel
-category: world/public/vault/daily-digests/2026-07-09
+category: daily-digests/2026-07-09
 tech_stack:
 - Python
 - Google Gemini API

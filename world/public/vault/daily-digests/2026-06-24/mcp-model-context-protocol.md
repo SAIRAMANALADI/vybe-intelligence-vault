@@ -1,6 +1,6 @@
 ---
 title: Wilendera4031/mcp-model-context-protocol
-category: world/public/vault/daily-digests/2026-06-24
+category: daily-digests/2026-06-24
 tech_stack:
 - Model Context Protocol
 - Windows Installer (MSI/EXE)

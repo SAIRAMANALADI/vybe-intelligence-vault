@@ -1,6 +1,6 @@
 ---
 title: 1ay1/agentty
-category: world/public/vault/daily-digests/2026-06-22
+category: daily-digests/2026-06-22
 tech_stack:
 - C++26
 - Bubblewrap (bwrap)

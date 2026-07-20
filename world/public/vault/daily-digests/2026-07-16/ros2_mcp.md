@@ -1,6 +1,6 @@
 ---
 title: wise-vision/ros2_mcp
-category: world/public/vault/daily-digests/2026-07-16
+category: daily-digests/2026-07-16
 tech_stack:
 - Python
 - ROS 2 (Humble, Jazzy)

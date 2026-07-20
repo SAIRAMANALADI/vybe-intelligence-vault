@@ -1,6 +1,6 @@
 ---
 title: oops121/clawwp
-category: world/public/vault/daily-digests/2026-06-22
+category: daily-digests/2026-06-22
 tech_stack:
 - PHP
 - Windows Desktop Application

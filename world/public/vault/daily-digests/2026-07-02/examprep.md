@@ -1,6 +1,6 @@
 ---
 title: Eighteen-ganja934/ExamPrep
-category: world/public/vault/daily-digests/2026-07-02
+category: daily-digests/2026-07-02
 tech_stack:
 - Python
 - Jupyter Notebooks

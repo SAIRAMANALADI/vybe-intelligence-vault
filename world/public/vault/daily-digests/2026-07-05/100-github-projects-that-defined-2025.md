@@ -1,6 +1,6 @@
 ---
 title: mitsou55/100-GitHub-Projects-That-Defined-2025
-category: world/public/vault/daily-digests/2026-07-05
+category: daily-digests/2026-07-05
 tech_stack:
 - Open Source
 - AI

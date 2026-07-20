@@ -1,6 +1,6 @@
 ---
 title: lusky3/play-store-mcp
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - Python
 - Google Play Developer API

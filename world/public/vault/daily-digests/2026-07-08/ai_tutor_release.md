@@ -1,6 +1,6 @@
 ---
 title: Zenglian990/AI_Tutor_Release
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - React
 - Node.js

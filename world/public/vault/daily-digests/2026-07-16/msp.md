@@ -1,6 +1,6 @@
 ---
 title: Nian2026/MSP
-category: world/public/vault/daily-digests/2026-07-16
+category: daily-digests/2026-07-16
 tech_stack:
 - JavaScript
 - Shell Scripting

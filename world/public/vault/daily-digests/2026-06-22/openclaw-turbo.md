@@ -1,6 +1,6 @@
 ---
 title: kird89/OpenClaw-Turbo
-category: world/public/vault/daily-digests/2026-06-22
+category: daily-digests/2026-06-22
 tech_stack:
 - Vue.js
 - Windows

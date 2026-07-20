@@ -1,6 +1,6 @@
 ---
 title: tertiarycourses/TGS-2023035977-Agentic-AI-Automation-with-n8n
-category: world/public/vault/daily-digests/2026-06-25
+category: daily-digests/2026-06-25
 tech_stack:
 - n8n
 - OpenAI (gpt-4.1-mini)

@@ -1,6 +1,6 @@
 ---
 title: Atharvpatil112/nano-banana-2-ai
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - TypeScript
 - Gemini 3.1 Flash Image

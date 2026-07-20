@@ -1,6 +1,6 @@
 ---
 title: Advanced-starfruit874/second-brain-cloudflare
-category: world/public/vault/daily-digests/2026-07-06
+category: daily-digests/2026-07-06
 tech_stack:
 - Cloudflare Workers
 - Cloudflare D1 Database

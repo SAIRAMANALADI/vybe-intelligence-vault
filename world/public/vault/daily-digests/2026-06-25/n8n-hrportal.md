@@ -1,6 +1,6 @@
 ---
 title: alfredang/n8n-hrportal
-category: world/public/vault/daily-digests/2026-06-25
+category: daily-digests/2026-06-25
 tech_stack:
 - n8n
 - OpenAI

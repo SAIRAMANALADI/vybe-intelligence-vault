@@ -1,6 +1,6 @@
 ---
 title: arturkorb3/cli-agent
-category: world/public/vault/daily-digests/2026-07-14
+category: daily-digests/2026-07-14
 tech_stack:
 - Node.js
 - JavaScript

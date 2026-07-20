@@ -1,6 +1,6 @@
 ---
 title: sapwoodgelly475/deepresearch
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - Spring Boot
 - Spring AI

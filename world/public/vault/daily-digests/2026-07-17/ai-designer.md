@@ -1,6 +1,6 @@
 ---
 title: developerz-ai/ai-designer
-category: world/public/vault/daily-digests/2026-07-17
+category: daily-digests/2026-07-17
 tech_stack:
 - Chrome Extension (MV3)
 - SolidJS

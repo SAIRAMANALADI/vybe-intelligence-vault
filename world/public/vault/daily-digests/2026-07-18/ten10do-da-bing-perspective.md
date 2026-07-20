@@ -1,6 +1,6 @@
 ---
 title: ten10do/ten10do-da-bing-perspective
-category: world/public/vault/daily-digests/2026-07-18
+category: daily-digests/2026-07-18
 tech_stack:
 - Python
 - Codex Skill

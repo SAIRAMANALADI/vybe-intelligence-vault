@@ -1,6 +1,6 @@
 ---
 title: jyrki69pro/pdf-insight-agent
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - Python
 - PyPDF2

@@ -1,6 +1,6 @@
 ---
 title: u9401066/nsforge-mcp
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - Python 3.12+
 - Model Context Protocol (MCP)

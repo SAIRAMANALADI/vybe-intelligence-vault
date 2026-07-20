@@ -1,6 +1,6 @@
 ---
 title: entire-vc/evc-team-relay-mcp
-category: world/public/vault/daily-digests/2026-07-18
+category: daily-digests/2026-07-18
 tech_stack:
 - Python
 - MCP (Model Context Protocol)

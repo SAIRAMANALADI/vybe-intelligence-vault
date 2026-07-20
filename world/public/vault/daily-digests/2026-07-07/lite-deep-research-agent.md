@@ -1,6 +1,6 @@
 ---
 title: strcoder4007/lite-deep-research-agent
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - LangGraph
 - LangSmith

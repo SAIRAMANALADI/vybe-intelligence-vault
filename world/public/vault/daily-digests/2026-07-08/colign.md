@@ -1,6 +1,6 @@
 ---
 title: invertible-statue269/colign
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - TypeScript
 - Go

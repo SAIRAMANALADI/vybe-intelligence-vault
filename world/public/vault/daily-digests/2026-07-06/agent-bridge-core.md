@@ -1,6 +1,6 @@
 ---
 title: oprounak34-cpu/agent-bridge-core
-category: world/public/vault/daily-digests/2026-07-06
+category: daily-digests/2026-07-06
 tech_stack:
 - Python
 - Docker

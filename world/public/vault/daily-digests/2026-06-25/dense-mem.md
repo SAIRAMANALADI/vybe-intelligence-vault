@@ -1,6 +1,6 @@
 ---
 title: markhuangai/dense-mem
-category: world/public/vault/daily-digests/2026-06-25
+category: daily-digests/2026-06-25
 tech_stack:
 - Go
 - PostgreSQL

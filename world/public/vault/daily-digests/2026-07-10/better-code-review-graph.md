@@ -1,6 +1,6 @@
 ---
 title: n24q02m/better-code-review-graph
-category: world/public/vault/daily-digests/2026-07-10
+category: daily-digests/2026-07-10
 tech_stack:
 - Python
 - Tree-sitter

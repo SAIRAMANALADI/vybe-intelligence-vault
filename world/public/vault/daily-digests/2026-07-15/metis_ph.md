@@ -1,6 +1,6 @@
 ---
 title: SVerITG/Metis_PH
-category: world/public/vault/daily-digests/2026-07-15
+category: daily-digests/2026-07-15
 tech_stack:
 - Python
 - Claude MCP

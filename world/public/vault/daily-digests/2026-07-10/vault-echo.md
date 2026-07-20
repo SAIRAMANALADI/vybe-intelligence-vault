@@ -1,6 +1,6 @@
 ---
 title: Ibarra25/vault-echo
-category: world/public/vault/daily-digests/2026-07-10
+category: daily-digests/2026-07-10
 tech_stack:
 - Python
 - Node.js

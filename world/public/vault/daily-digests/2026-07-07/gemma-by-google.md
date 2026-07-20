@@ -1,6 +1,6 @@
 ---
 title: XenoCoreGiger31/GEMMA-by-GOOGLE
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - Python
 - Gemma 4-12B (GGUF)

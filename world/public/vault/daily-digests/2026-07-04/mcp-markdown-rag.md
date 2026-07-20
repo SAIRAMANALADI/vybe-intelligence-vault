@@ -1,6 +1,6 @@
 ---
 title: UnitVectorY-Labs/mcp-markdown-rag
-category: world/public/vault/daily-digests/2026-07-04
+category: daily-digests/2026-07-04
 tech_stack:
 - Go
 - Vector Embeddings

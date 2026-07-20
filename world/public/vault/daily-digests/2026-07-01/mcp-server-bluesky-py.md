@@ -1,6 +1,6 @@
 ---
 title: khleel213/mcp-server-bluesky-py
-category: world/public/vault/daily-digests/2026-07-01
+category: daily-digests/2026-07-01
 tech_stack:
 - Python
 - Model Context Protocol (MCP)

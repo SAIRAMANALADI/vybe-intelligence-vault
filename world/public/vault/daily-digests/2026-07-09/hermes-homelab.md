@@ -1,6 +1,6 @@
 ---
 title: lel1guy/hermes-homelab
-category: world/public/vault/daily-digests/2026-07-09
+category: daily-digests/2026-07-09
 tech_stack:
 - Hermes Agent
 - DeepSeek V4 Pro

@@ -1,6 +1,6 @@
 ---
 title: frankramblings/podcast-agent
-category: world/public/vault/daily-digests/2026-07-09
+category: daily-digests/2026-07-09
 tech_stack:
 - Python
 - Node.js

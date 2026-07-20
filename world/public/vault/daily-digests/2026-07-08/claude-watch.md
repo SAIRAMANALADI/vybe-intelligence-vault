@@ -1,6 +1,6 @@
 ---
 title: protealesmicroelectronics246/claude-watch
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - Swift
 - Apple Watch SDK

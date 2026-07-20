@@ -1,6 +1,6 @@
 ---
 title: 4b8wsfdk7y-cloud/acef-policy-agent-case-study
-category: world/public/vault/daily-digests/2026-07-10
+category: daily-digests/2026-07-10
 tech_stack:
 - JavaScript
 - Node.js

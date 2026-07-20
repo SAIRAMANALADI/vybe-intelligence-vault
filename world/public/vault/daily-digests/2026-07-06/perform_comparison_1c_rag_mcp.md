@@ -1,6 +1,6 @@
 ---
 title: jeebusgoodwin-netizen/perform_comparison_1c_rag_mcp
-category: world/public/vault/daily-digests/2026-07-06
+category: daily-digests/2026-07-06
 tech_stack:
 - Python
 - Windows OS

@@ -1,6 +1,6 @@
 ---
 title: reenahot496/claude-code
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - TypeScript
 - Electron

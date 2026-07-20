@@ -1,6 +1,6 @@
 ---
 title: taxpayerreunification534/codex-autoresearch
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - TypeScript
 - Electron

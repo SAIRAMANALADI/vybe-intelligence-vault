@@ -1,6 +1,6 @@
 ---
 title: DaizeDong/demand-mining
-category: world/public/vault/daily-digests/2026-07-17
+category: daily-digests/2026-07-17
 tech_stack:
 - Python
 - LLM (Claude Code)

@@ -1,6 +1,6 @@
 ---
 title: Maxma1104/a-share-shortline-ledger
-category: world/public/vault/daily-digests/2026-06-22
+category: daily-digests/2026-06-22
 tech_stack:
 - Python
 - SQLite

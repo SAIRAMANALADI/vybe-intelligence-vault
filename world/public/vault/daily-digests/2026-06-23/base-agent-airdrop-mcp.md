@@ -1,6 +1,6 @@
 ---
 title: vigot876-arch/base-agent-airdrop-mcp
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - Node.js
 - TypeScript

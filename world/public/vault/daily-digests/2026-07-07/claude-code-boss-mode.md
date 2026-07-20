@@ -1,6 +1,6 @@
 ---
 title: subashraja069-cmd/claude-code-boss-mode
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - Claude Code
 - Windows

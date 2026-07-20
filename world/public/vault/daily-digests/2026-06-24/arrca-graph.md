@@ -1,6 +1,6 @@
 ---
 title: arrca-ai/arrca-graph
-category: world/public/vault/daily-digests/2026-06-24
+category: daily-digests/2026-06-24
 tech_stack:
 - Go
 - Kubernetes API

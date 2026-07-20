@@ -1,6 +1,6 @@
 ---
 title: tony1223/better-agent-terminal
-category: world/public/vault/daily-digests/2026-07-06
+category: daily-digests/2026-07-06
 tech_stack:
 - Tauri
 - Rust

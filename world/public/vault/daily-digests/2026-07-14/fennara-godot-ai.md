@@ -1,6 +1,6 @@
 ---
 title: fennaraOfficial/fennara-godot-ai
-category: world/public/vault/daily-digests/2026-07-14
+category: daily-digests/2026-07-14
 tech_stack:
 - Godot Engine
 - Rust

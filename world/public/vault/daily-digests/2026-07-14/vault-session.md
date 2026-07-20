@@ -1,6 +1,6 @@
 ---
 title: rynl3571/Vault-Session
-category: world/public/vault/daily-digests/2026-07-14
+category: daily-digests/2026-07-14
 tech_stack:
 - JavaScript
 - AES-256-GCM

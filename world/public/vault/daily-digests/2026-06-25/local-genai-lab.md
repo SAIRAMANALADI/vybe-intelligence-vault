@@ -1,6 +1,6 @@
 ---
 title: jrodolfo/local-genai-lab
-category: world/public/vault/daily-digests/2026-06-25
+category: daily-digests/2026-06-25
 tech_stack:
 - Java 21
 - Spring Boot 3.4

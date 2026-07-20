@@ -1,6 +1,6 @@
 ---
 title: Standard-anthologist637/Avnac-Studio
-category: world/public/vault/daily-digests/2026-07-02
+category: daily-digests/2026-07-02
 tech_stack:
 - Electron
 - JavaScript/TypeScript

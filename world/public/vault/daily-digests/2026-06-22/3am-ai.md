@@ -1,6 +1,6 @@
 ---
 title: aitora159-art/3am-AI
-category: world/public/vault/daily-digests/2026-06-22
+category: daily-digests/2026-06-22
 tech_stack:
 - Python
 - FastAPI

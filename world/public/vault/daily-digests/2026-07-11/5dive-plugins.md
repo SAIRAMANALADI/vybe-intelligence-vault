@@ -1,6 +1,6 @@
 ---
 title: 5dive-ai/5dive-plugins
-category: world/public/vault/daily-digests/2026-07-11
+category: daily-digests/2026-07-11
 tech_stack:
 - TypeScript
 - Telegram Bot API

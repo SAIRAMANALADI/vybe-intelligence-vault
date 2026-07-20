@@ -1,6 +1,6 @@
 ---
 title: tinyfish-io/agentql-mcp
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - JavaScript
 - Node.js

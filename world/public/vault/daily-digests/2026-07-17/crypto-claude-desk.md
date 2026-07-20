@@ -1,6 +1,6 @@
 ---
 title: hugoguerrap/crypto-claude-desk
-category: world/public/vault/daily-digests/2026-07-17
+category: daily-digests/2026-07-17
 tech_stack:
 - Claude Code
 - MCP (Model Context Protocol)

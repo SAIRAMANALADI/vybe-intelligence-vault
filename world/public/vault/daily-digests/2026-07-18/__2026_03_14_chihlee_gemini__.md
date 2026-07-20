@@ -1,6 +1,6 @@
 ---
 title: mamun1978/__2026_03_14_chihlee_gemini__
-category: world/public/vault/daily-digests/2026-07-18
+category: daily-digests/2026-07-18
 tech_stack:
 - Python
 - Raspberry Pi

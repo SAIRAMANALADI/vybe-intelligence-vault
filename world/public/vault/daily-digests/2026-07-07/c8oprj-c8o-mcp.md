@@ -1,6 +1,6 @@
 ---
 title: convertigo/c8oprj-c8o-mcp
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - MCP (Model Context Protocol)
 - Convertigo

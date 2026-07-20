@@ -1,6 +1,6 @@
 ---
 title: Jayrajsinh45/ossmate-stack-mate
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - Node.js
 - Python

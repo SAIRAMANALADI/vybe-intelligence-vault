@@ -1,6 +1,6 @@
 ---
 title: Hassannewcode/AI-system-prompts
-category: world/public/vault/daily-digests/2026-06-28
+category: daily-digests/2026-06-28
 tech_stack:
 - AI Prompts
 - System Architecture

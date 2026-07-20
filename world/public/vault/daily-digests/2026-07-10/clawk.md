@@ -1,6 +1,6 @@
 ---
 title: U90364321/clawk
-category: world/public/vault/daily-digests/2026-07-10
+category: daily-digests/2026-07-10
 tech_stack:
 - Go
 - Linux

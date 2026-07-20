@@ -1,6 +1,6 @@
 ---
 title: NeoCyber05/Docker-Agent-CLI
-category: world/public/vault/daily-digests/2026-07-06
+category: daily-digests/2026-07-06
 tech_stack:
 - Python
 - LangGraph

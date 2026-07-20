@@ -1,6 +1,6 @@
 ---
 title: nel-neru/LibrAIum
-category: world/public/vault/daily-digests/2026-07-13
+category: daily-digests/2026-07-13
 tech_stack:
 - Tauri v2
 - Svelte 5

@@ -1,6 +1,6 @@
 ---
 title: erickafram10/claude-code-law-zero
-category: world/public/vault/daily-digests/2026-06-22
+category: daily-digests/2026-06-22
 tech_stack:
 - Windows
 - Python (implied)

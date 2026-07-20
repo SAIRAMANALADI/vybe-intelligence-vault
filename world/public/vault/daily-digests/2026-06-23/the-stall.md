@@ -1,6 +1,6 @@
 ---
 title: thebrierfox/the-stall
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - MCP (Model Context Protocol)
 - JavaScript

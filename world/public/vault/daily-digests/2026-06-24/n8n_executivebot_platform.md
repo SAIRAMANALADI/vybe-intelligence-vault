@@ -1,6 +1,6 @@
 ---
 title: hidetheweed11/n8n_ExecutiveBot_Platform
-category: world/public/vault/daily-digests/2026-06-24
+category: daily-digests/2026-06-24
 tech_stack:
 - n8n
 - Docker

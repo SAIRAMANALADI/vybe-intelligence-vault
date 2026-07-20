@@ -1,6 +1,6 @@
 ---
 title: rising-armoire4069/dan-koe-skill
-category: world/public/vault/daily-digests/2026-07-11
+category: daily-digests/2026-07-11
 tech_stack:
 - Windows OS
 - Python (implied for AI logic)

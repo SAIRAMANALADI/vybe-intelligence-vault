@@ -1,6 +1,6 @@
 ---
 title: rupamsamanta123/PDF-QA-RAG-System
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - Streamlit
 - LangChain

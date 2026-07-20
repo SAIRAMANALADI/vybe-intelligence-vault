@@ -1,6 +1,6 @@
 ---
 title: sdsrss/loop-testing
-category: world/public/vault/daily-digests/2026-07-18
+category: daily-digests/2026-07-18
 tech_stack:
 - Shell
 - Node.js

@@ -1,6 +1,6 @@
 ---
 title: bencsi9407/nullbox
-category: world/public/vault/daily-digests/2026-06-27
+category: daily-digests/2026-06-27
 tech_stack:
 - Linux
 - MicroVM

@@ -1,6 +1,6 @@
 ---
 title: mordiaky/vouchspec
-category: world/public/vault/daily-digests/2026-07-16
+category: daily-digests/2026-07-16
 tech_stack:
 - Ed25519
 - DSSE (Digital Signature Standard Envelope)

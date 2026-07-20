@@ -1,6 +1,6 @@
 ---
 title: MasayukiTa/m365-copilot-companion-mcp
-category: world/public/vault/daily-digests/2026-07-06
+category: daily-digests/2026-07-06
 tech_stack:
 - Python
 - MCP (Model Context Protocol)

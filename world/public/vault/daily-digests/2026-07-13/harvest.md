@@ -1,6 +1,6 @@
 ---
 title: zad111ak-ai/harvest
-category: world/public/vault/daily-digests/2026-07-13
+category: daily-digests/2026-07-13
 tech_stack:
 - Python
 - Scrapling

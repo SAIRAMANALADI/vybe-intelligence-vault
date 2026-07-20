@@ -1,6 +1,6 @@
 ---
 title: c2717649225-rgb/neoforge-1.21.1-ai-starter
-category: world/public/vault/daily-digests/2026-07-18
+category: daily-digests/2026-07-18
 tech_stack:
 - Java 21
 - NeoForge 21.1.x

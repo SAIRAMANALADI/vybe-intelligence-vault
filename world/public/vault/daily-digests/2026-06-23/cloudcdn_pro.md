@@ -1,6 +1,6 @@
 ---
 title: sebastienrousseau/cloudcdn.pro
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - Cloudflare Workers
 - Cloudflare Pages

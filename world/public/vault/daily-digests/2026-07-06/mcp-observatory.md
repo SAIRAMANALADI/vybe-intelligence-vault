@@ -1,6 +1,6 @@
 ---
 title: KryptosAI/mcp-observatory
-category: world/public/vault/daily-digests/2026-07-06
+category: daily-digests/2026-07-06
 tech_stack:
 - TypeScript
 - Node.js

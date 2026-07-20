@@ -1,6 +1,6 @@
 ---
 title: den4ik4/dotagents
-category: world/public/vault/daily-digests/2026-06-22
+category: daily-digests/2026-06-22
 tech_stack:
 - TypeScript
 - Electron (implied by cross-platform desktop app)

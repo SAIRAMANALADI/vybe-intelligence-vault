@@ -1,6 +1,6 @@
 ---
 title: wikiiizhao/pm-review-copilot
-category: world/public/vault/daily-digests/2026-06-22
+category: daily-digests/2026-06-22
 tech_stack:
 - Python
 - Agent Frameworks (Codex, etc.)

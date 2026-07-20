@@ -1,6 +1,6 @@
 ---
 title: philbertexceptional796/openclaw-cookbook
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - OpenClaw
 - Windows

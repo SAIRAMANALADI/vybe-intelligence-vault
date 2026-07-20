@@ -1,6 +1,6 @@
 ---
 title: rudi193-cmd/willow-mcp
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - Python
 - MCP (Model Context Protocol)

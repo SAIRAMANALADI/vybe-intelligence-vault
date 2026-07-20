@@ -1,6 +1,6 @@
 ---
 title: quangdang46/fast_file_search
-category: world/public/vault/daily-digests/2026-07-14
+category: daily-digests/2026-07-14
 tech_stack:
 - Rust
 - Tree-sitter

@@ -1,6 +1,6 @@
 ---
 title: bookseal/plane-cli-for-ai-agents
-category: world/public/vault/daily-digests/2026-06-24
+category: daily-digests/2026-06-24
 tech_stack:
 - Rust
 - Shell

@@ -1,6 +1,6 @@
 ---
 title: da-troll/planhat-mcp
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - Python
 - Model Context Protocol (MCP)

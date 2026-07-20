@@ -1,6 +1,6 @@
 ---
 title: johnoconnor0/google-ads-mcp
-category: world/public/vault/daily-digests/2026-07-17
+category: daily-digests/2026-07-17
 tech_stack:
 - Python
 - Google Ads API

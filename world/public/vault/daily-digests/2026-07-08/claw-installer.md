@@ -1,6 +1,6 @@
 ---
 title: Anang304-crypto/claw-installer
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - Swift
 - SwiftUI

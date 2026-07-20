@@ -1,6 +1,6 @@
 ---
 title: 503496348-ops/barren-order
-category: world/public/vault/daily-digests/2026-07-16
+category: daily-digests/2026-07-16
 tech_stack:
 - Python
 - Feishu (Lark) API

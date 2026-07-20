@@ -1,6 +1,6 @@
 ---
 title: hokithree7/2nothing
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - TypeScript
 - REST API

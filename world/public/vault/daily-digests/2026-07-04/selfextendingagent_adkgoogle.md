@@ -1,6 +1,6 @@
 ---
 title: Inspectorategianttortoise371/SelfExtendingAgent_ADKGoogle
-category: world/public/vault/daily-digests/2026-07-04
+category: daily-digests/2026-07-04
 tech_stack:
 - Python
 - Google Agent Development Kit (ADK)

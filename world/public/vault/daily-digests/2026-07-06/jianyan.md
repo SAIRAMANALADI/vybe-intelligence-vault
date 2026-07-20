@@ -1,6 +1,6 @@
 ---
 title: Jnewton-lab/JianYan
-category: world/public/vault/daily-digests/2026-07-06
+category: daily-digests/2026-07-06
 tech_stack:
 - Python
 - OpenAI API

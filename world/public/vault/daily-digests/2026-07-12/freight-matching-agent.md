@@ -1,6 +1,6 @@
 ---
 title: Torch-ju/freight-matching-agent
-category: world/public/vault/daily-digests/2026-07-12
+category: daily-digests/2026-07-12
 tech_stack:
 - Agentic AI
 - Operations Research

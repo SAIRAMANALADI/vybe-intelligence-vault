@@ -1,6 +1,6 @@
 ---
 title: alex13slem/openproject-codex-plugin
-category: world/public/vault/daily-digests/2026-07-16
+category: daily-digests/2026-07-16
 tech_stack:
 - TypeScript
 - Bun

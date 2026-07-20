@@ -1,6 +1,6 @@
 ---
 title: Euphonic-treesparrow658/how-claude-code-works
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - Markdown
 - HTML

@@ -1,6 +1,6 @@
 ---
 title: can1357/oh-my-pi
-category: world/public/vault/daily-digests/2026-06-22
+category: daily-digests/2026-06-22
 tech_stack:
 - Rust
 - TypeScript

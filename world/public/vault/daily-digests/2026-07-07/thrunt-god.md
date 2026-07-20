@@ -1,6 +1,6 @@
 ---
 title: 3dcom2711/thrunt-god
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - JavaScript
 - Windows

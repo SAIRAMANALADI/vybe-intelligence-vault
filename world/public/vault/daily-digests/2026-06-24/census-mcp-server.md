@@ -1,6 +1,6 @@
 ---
 title: Taliawedged117/census-mcp-server
-category: world/public/vault/daily-digests/2026-06-24
+category: daily-digests/2026-06-24
 tech_stack:
 - TypeScript
 - Bun

@@ -1,6 +1,6 @@
 ---
 title: Gsfrota/e-finance
-category: world/public/vault/daily-digests/2026-06-24
+category: daily-digests/2026-06-24
 tech_stack:
 - React 19
 - TypeScript

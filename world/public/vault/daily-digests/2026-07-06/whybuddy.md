@@ -1,6 +1,6 @@
 ---
 title: xiaojilele-glitch/WhyBuddy
-category: world/public/vault/daily-digests/2026-07-06
+category: daily-digests/2026-07-06
 tech_stack:
 - TypeScript
 - LLM (Large Language Model)

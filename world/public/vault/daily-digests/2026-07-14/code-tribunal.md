@@ -1,6 +1,6 @@
 ---
 title: arun3676/code-tribunal
-category: world/public/vault/daily-digests/2026-07-14
+category: daily-digests/2026-07-14
 tech_stack:
 - Python
 - Groq API

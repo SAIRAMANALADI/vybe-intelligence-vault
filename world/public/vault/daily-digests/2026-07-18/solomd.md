@@ -1,6 +1,6 @@
 ---
 title: zhitongblog/solomd
-category: world/public/vault/daily-digests/2026-07-18
+category: daily-digests/2026-07-18
 tech_stack:
 - Tauri 2
 - Vue 3

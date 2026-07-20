@@ -1,6 +1,6 @@
 ---
 title: ziyarago/RisalDash
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - C++
 - ESP32/ESP8266

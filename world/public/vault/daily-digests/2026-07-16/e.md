@@ -1,6 +1,6 @@
 ---
 title: kwhorne/e
-category: world/public/vault/daily-digests/2026-07-16
+category: daily-digests/2026-07-16
 tech_stack:
 - Rust
 - Tree-sitter

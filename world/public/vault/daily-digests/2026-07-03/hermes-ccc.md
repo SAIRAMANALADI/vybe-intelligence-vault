@@ -1,6 +1,6 @@
 ---
 title: Arseni6361/hermes-CCC
-category: world/public/vault/daily-digests/2026-07-03
+category: daily-digests/2026-07-03
 tech_stack:
 - Python
 - Claude Code

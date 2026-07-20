@@ -1,6 +1,6 @@
 ---
 title: NiobiumInc/niobium-skills
-category: world/public/vault/daily-digests/2026-07-16
+category: daily-digests/2026-07-16
 tech_stack:
 - Fully Homomorphic Encryption (FHE)
 - OpenFHE

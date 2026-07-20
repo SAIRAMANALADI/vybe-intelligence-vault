@@ -1,6 +1,6 @@
 ---
 title: unitary-monoiodotyrosine892/tgcli
-category: world/public/vault/daily-digests/2026-07-14
+category: daily-digests/2026-07-14
 tech_stack:
 - Go
 - Telegram API

@@ -1,6 +1,6 @@
 ---
 title: Enricoporcine154/ESP32-C3-Laser-Engraver
-category: world/public/vault/daily-digests/2026-07-02
+category: daily-digests/2026-07-02
 tech_stack:
 - ESP32-C3
 - C++

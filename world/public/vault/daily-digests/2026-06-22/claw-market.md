@@ -1,6 +1,6 @@
 ---
 title: Harshil-fx/claw-market
-category: world/public/vault/daily-digests/2026-06-22
+category: daily-digests/2026-06-22
 tech_stack:
 - TypeScript
 - Blockchain

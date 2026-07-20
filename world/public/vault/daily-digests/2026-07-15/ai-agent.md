@@ -1,6 +1,6 @@
 ---
 title: aditya8975/ai-agent
-category: world/public/vault/daily-digests/2026-07-15
+category: daily-digests/2026-07-15
 tech_stack:
 - Next.js
 - FastAPI

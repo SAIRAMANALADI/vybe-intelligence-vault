@@ -1,6 +1,6 @@
 ---
 title: HarperZ9/index
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - Python
 - Standard Library (3.11+)

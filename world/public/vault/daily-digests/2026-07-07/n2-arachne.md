@@ -1,6 +1,6 @@
 ---
 title: Genealogic-verticalfile126/n2-arachne
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - Windows
 - TypeScript

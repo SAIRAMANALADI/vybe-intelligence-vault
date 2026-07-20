@@ -1,6 +1,6 @@
 ---
 title: EfrainTorres/armavita-meta-ads-mcp
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - Python 3.11+
 - Model Context Protocol (MCP)

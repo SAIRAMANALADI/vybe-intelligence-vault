@@ -1,6 +1,6 @@
 ---
 title: beepboop2025/pdf-suite-mcp
-category: world/public/vault/daily-digests/2026-07-16
+category: daily-digests/2026-07-16
 tech_stack:
 - TypeScript
 - Node.js

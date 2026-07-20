@@ -1,6 +1,6 @@
 ---
 title: ai-assist-org/ai-assist
-category: world/public/vault/daily-digests/2026-07-18
+category: daily-digests/2026-07-18
 tech_stack:
 - Python
 - Claude (Anthropic)

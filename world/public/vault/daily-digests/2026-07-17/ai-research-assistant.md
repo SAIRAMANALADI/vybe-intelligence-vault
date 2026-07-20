@@ -1,6 +1,6 @@
 ---
 title: jwna166-png/ai-research-assistant
-category: world/public/vault/daily-digests/2026-07-17
+category: daily-digests/2026-07-17
 tech_stack:
 - LangChain
 - Claude (Anthropic API)

@@ -1,6 +1,6 @@
 ---
 title: huiliyi37/Tianshu-Tui
-category: world/public/vault/daily-digests/2026-06-24
+category: daily-digests/2026-06-24
 tech_stack:
 - TypeScript
 - Node.js 22

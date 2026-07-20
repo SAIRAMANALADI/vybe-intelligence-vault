@@ -1,6 +1,6 @@
 ---
 title: ebncommonthyme293/AI-Metadata-Inspector
-category: world/public/vault/daily-digests/2026-07-14
+category: daily-digests/2026-07-14
 tech_stack:
 - C#
 - Windows API

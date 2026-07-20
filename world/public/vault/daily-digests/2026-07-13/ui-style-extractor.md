@@ -1,6 +1,6 @@
 ---
 title: Melisa6532/ui-style-extractor
-category: world/public/vault/daily-digests/2026-07-13
+category: daily-digests/2026-07-13
 tech_stack:
 - Windows Desktop App
 - Electron

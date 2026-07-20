@@ -1,6 +1,6 @@
 ---
 title: gtapps/claude-code-hermit
-category: world/public/vault/daily-digests/2026-06-24
+category: daily-digests/2026-06-24
 tech_stack:
 - TypeScript
 - Bun

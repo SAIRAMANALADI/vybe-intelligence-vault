@@ -1,6 +1,6 @@
 ---
 title: beatvalo-code/cobblemon-mchip-ralph-autoloop-60fps
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - Minecraft
 - Cobblemon (Pokémon mod)

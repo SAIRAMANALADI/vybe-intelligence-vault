@@ -1,6 +1,6 @@
 ---
 title: phisanti/MCPR
-category: world/public/vault/daily-digests/2026-07-10
+category: daily-digests/2026-07-10
 tech_stack:
 - R
 - JSON-RPC 2.0

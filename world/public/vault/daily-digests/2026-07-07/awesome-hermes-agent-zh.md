@@ -1,6 +1,6 @@
 ---
 title: zcweah1981/awesome-hermes-agent-zh
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - Markdown
 - GitHub Actions

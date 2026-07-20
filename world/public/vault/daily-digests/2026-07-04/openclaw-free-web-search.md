@@ -1,6 +1,6 @@
 ---
 title: zhangjhe3004-art/openclaw-free-web-search
-category: world/public/vault/daily-digests/2026-07-04
+category: daily-digests/2026-07-04
 tech_stack:
 - Database
 - Web Scraping

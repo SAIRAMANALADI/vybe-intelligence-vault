@@ -1,6 +1,6 @@
 ---
 title: Rheosoph/flow-like
-category: world/public/vault/daily-digests/2026-07-13
+category: daily-digests/2026-07-13
 tech_stack:
 - Rust
 - TypeScript

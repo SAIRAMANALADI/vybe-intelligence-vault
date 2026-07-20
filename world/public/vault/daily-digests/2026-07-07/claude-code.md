@@ -1,6 +1,6 @@
 ---
 title: secret-fort290/Claude-Code
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - Windows Desktop App
 - Electron (assumed)

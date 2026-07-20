@@ -1,6 +1,6 @@
 ---
 title: CueCrux/Crux
-category: world/public/vault/daily-digests/2026-07-11
+category: daily-digests/2026-07-11
 tech_stack:
 - Rust
 - BM25

@@ -1,6 +1,6 @@
 ---
 title: AmberCardinalSupply/Cinema-4D-Studio-R28-Full
-category: world/public/vault/daily-digests/2026-07-01
+category: daily-digests/2026-07-01
 tech_stack:
 - Cinema 4D
 - Windows

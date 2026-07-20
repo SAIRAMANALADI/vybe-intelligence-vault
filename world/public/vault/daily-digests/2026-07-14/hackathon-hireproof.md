@@ -1,6 +1,6 @@
 ---
 title: Iron-Mark/Hackathon-HireProof
-category: world/public/vault/daily-digests/2026-07-14
+category: daily-digests/2026-07-14
 tech_stack:
 - TypeScript
 - Next.js

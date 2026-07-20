@@ -1,6 +1,6 @@
 ---
 title: Laurenfeminine36/google-jules-skill
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - Python
 - Windows Installer

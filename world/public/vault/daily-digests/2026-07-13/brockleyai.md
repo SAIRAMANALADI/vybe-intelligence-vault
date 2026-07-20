@@ -1,6 +1,6 @@
 ---
 title: heliumgrouplypressin723/brockleyai
-category: world/public/vault/daily-digests/2026-07-13
+category: daily-digests/2026-07-13
 tech_stack:
 - Go
 - Windows Desktop

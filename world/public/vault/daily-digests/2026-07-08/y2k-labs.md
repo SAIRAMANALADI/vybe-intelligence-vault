@@ -1,6 +1,6 @@
 ---
 title: carobbarlightshow628/y2k-labs
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - JavaScript
 - Windows Desktop App

@@ -1,6 +1,6 @@
 ---
 title: Yandatini/mcp-agent-framework
-category: world/public/vault/daily-digests/2026-07-09
+category: daily-digests/2026-07-09
 tech_stack:
 - Python
 - MCP (Model Context Protocol)

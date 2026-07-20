@@ -1,6 +1,6 @@
 ---
 title: sym804/ai-squad
-category: world/public/vault/daily-digests/2026-07-15
+category: daily-digests/2026-07-15
 tech_stack:
 - Python
 - Slack API

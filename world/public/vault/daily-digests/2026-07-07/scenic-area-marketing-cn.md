@@ -1,6 +1,6 @@
 ---
 title: limuran117-coder/Scenic-Area-Marketing-CN
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - OpenClaw AI Agent Framework
 - DeepSeek-V4-Flash

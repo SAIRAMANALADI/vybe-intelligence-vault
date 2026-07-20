@@ -1,6 +1,6 @@
 ---
 title: Gisellesleeveless396/go-agent-skills
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - Go
 - Shell

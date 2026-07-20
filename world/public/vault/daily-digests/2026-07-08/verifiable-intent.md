@@ -1,6 +1,6 @@
 ---
 title: nak-nak1308/verifiable-intent
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - Python
 - Cryptography

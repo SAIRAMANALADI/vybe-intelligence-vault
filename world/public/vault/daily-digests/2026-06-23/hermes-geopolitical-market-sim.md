@@ -1,6 +1,6 @@
 ---
 title: strongmandisabilitypayment539/hermes-geopolitical-market-sim
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - Windows
 - Python (implied by workflow integration)

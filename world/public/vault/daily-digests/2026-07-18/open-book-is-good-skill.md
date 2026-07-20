@@ -1,6 +1,6 @@
 ---
 title: 5219rayhsu/open-book-is-good-skill
-category: world/public/vault/daily-digests/2026-07-18
+category: daily-digests/2026-07-18
 tech_stack:
 - Python
 - Claude AI Skills

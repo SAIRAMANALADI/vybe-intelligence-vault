@@ -1,6 +1,6 @@
 ---
 title: assoujojo82-coder/synergieloc-mcp
-category: world/public/vault/daily-digests/2026-07-17
+category: daily-digests/2026-07-17
 tech_stack:
 - MCP (Model Context Protocol)
 - JSON-RPC 2.0

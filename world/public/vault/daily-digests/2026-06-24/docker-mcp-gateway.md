@@ -1,6 +1,6 @@
 ---
 title: waynestimulative605/docker-mcp-gateway
-category: world/public/vault/daily-digests/2026-06-24
+category: daily-digests/2026-06-24
 tech_stack:
 - Docker
 - Model Context Protocol (MCP)

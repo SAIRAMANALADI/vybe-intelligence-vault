@@ -1,6 +1,6 @@
 ---
 title: OneGoodArea/OneGoodArea
-category: world/public/vault/daily-digests/2026-06-24
+category: daily-digests/2026-06-24
 tech_stack:
 - Fastify
 - Node.js 22

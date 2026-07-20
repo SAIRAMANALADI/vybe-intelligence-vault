@@ -1,6 +1,6 @@
 ---
 title: paulgrape/skill-auditor
-category: world/public/vault/daily-digests/2026-07-11
+category: daily-digests/2026-07-11
 tech_stack:
 - TypeScript
 - Node.js

@@ -1,6 +1,6 @@
 ---
 title: roymcfarland/workflow-blueprint
-category: world/public/vault/daily-digests/2026-07-15
+category: daily-digests/2026-07-15
 tech_stack:
 - Next.js 16
 - React 19

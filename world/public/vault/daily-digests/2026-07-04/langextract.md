@@ -1,6 +1,6 @@
 ---
 title: haritha8503/langextract
-category: world/public/vault/daily-digests/2026-07-04
+category: daily-digests/2026-07-04
 tech_stack:
 - Python
 - Natural Language Processing (NLP)

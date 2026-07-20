@@ -1,6 +1,6 @@
 ---
 title: dhruv7291022-create/claude-code-source-code
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - Windows
 - Electron

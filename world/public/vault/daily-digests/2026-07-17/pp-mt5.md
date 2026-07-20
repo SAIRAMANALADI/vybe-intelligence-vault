@@ -1,6 +1,6 @@
 ---
 title: ek-labs/pp-mt5
-category: world/public/vault/daily-digests/2026-07-17
+category: daily-digests/2026-07-17
 tech_stack:
 - Go
 - Python

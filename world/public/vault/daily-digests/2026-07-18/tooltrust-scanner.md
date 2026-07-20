@@ -1,6 +1,6 @@
 ---
 title: AgentSafe-AI/tooltrust-scanner
-category: world/public/vault/daily-digests/2026-07-18
+category: daily-digests/2026-07-18
 tech_stack:
 - Go
 - MCP (Model Context Protocol)

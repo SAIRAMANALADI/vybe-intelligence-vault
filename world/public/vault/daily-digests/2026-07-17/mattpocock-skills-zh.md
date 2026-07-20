@@ -1,6 +1,6 @@
 ---
 title: devcxl/mattpocock-skills-zh
-category: world/public/vault/daily-digests/2026-07-17
+category: daily-digests/2026-07-17
 tech_stack:
 - TypeScript
 - Shell

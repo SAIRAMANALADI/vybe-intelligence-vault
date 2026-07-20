@@ -1,6 +1,6 @@
 ---
 title: uhop/vault-storage
-category: world/public/vault/daily-digests/2026-07-09
+category: daily-digests/2026-07-09
 tech_stack:
 - TypeScript
 - Node.js 26

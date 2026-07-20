@@ -1,6 +1,6 @@
 ---
 title: runapi-ai/nano-banana-mcp
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - TypeScript
 - Node.js

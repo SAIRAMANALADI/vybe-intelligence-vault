@@ -1,6 +1,6 @@
 ---
 title: hyperpolymath/boj-server
-category: world/public/vault/daily-digests/2026-06-24
+category: daily-digests/2026-06-24
 tech_stack:
 - MCP (Model Context Protocol)
 - Deno

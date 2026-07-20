@@ -1,6 +1,6 @@
 ---
 title: 24kHandsome1201/tunara
-category: world/public/vault/daily-digests/2026-07-18
+category: daily-digests/2026-07-18
 tech_stack:
 - Tauri 2
 - React 19

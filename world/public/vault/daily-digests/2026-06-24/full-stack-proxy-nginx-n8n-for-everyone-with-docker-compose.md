@@ -1,6 +1,6 @@
 ---
 title: lingga1997/full-stack-proxy-nginx-n8n-for-everyone-with-docker-compose
-category: world/public/vault/daily-digests/2026-06-24
+category: daily-digests/2026-06-24
 tech_stack:
 - Docker
 - Docker Compose

@@ -1,6 +1,6 @@
 ---
 title: daya7781r/miii-cli-offline-coder
-category: world/public/vault/daily-digests/2026-06-22
+category: daily-digests/2026-06-22
 tech_stack:
 - Python
 - Ollama

@@ -1,6 +1,6 @@
 ---
 title: ostensible-meeting210/stitch-pro-mcp
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - MCP
 - Google Stitch

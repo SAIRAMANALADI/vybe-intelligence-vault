@@ -1,6 +1,6 @@
 ---
 title: FerroxLabs/wayland-core
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - Rust
 - LLM Providers (Anthropic, OpenAI, Google, AWS, etc.)

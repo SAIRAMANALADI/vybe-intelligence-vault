@@ -1,6 +1,6 @@
 ---
 title: EBISPOT/GrEBI
-category: world/public/vault/daily-digests/2026-07-10
+category: daily-digests/2026-07-10
 tech_stack:
 - Nextflow
 - Docker

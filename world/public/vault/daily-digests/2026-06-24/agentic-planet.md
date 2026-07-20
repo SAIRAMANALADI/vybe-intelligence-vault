@@ -1,6 +1,6 @@
 ---
 title: Crosswise-overage824/agentic-planet
-category: world/public/vault/daily-digests/2026-06-24
+category: daily-digests/2026-06-24
 tech_stack:
 - Windows OS
 - Python (implied)

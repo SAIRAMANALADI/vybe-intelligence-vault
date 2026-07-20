@@ -1,6 +1,6 @@
 ---
 title: Meghna-K03/PACER
-category: world/public/vault/daily-digests/2026-07-01
+category: daily-digests/2026-07-01
 tech_stack:
 - Python
 - FastAPI

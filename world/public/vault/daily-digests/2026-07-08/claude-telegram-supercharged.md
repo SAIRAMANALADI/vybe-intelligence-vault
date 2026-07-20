@@ -1,6 +1,6 @@
 ---
 title: woodruffradiography633/claude-telegram-supercharged
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - Telegram Bot API
 - Claude Code

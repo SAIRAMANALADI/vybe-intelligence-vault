@@ -1,6 +1,6 @@
 ---
 title: blakestone-x/engram
-category: world/public/vault/daily-digests/2026-07-10
+category: daily-digests/2026-07-10
 tech_stack:
 - TypeScript
 - Node.js

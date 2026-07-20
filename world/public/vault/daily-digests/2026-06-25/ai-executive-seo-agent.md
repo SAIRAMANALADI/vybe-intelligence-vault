@@ -1,6 +1,6 @@
 ---
 title: ak1458/ai-executive-seo-agent
-category: world/public/vault/daily-digests/2026-06-25
+category: daily-digests/2026-06-25
 tech_stack:
 - Python
 - FastAPI

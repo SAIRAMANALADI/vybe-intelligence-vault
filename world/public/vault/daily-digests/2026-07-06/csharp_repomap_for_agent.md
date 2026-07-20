@@ -1,6 +1,6 @@
 ---
 title: FrxshSpamzL2/csharp_Repomap_for_Agent
-category: world/public/vault/daily-digests/2026-07-06
+category: daily-digests/2026-07-06
 tech_stack:
 - C#
 - Code Mapping

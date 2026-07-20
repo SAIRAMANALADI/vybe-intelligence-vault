@@ -1,6 +1,6 @@
 ---
 title: marcomackenberg01/cspt_research
-category: world/public/vault/daily-digests/2026-07-14
+category: daily-digests/2026-07-14
 tech_stack:
 - Windows OS
 - C#/.NET (implied by Windows desktop app)

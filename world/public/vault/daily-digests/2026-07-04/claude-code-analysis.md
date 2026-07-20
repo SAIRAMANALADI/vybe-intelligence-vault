@@ -1,6 +1,6 @@
 ---
 title: unused-explosive464/claude-code-analysis
-category: world/public/vault/daily-digests/2026-07-04
+category: daily-digests/2026-07-04
 tech_stack:
 - TypeScript
 - Reverse Engineering

@@ -1,6 +1,6 @@
 ---
 title: franklinchristuraj/obsidian-mcp-server_SPARK-method
-category: world/public/vault/daily-digests/2026-07-18
+category: daily-digests/2026-07-18
 tech_stack:
 - Python
 - Model Context Protocol (MCP)

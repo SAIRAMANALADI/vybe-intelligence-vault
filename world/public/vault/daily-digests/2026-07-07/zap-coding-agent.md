@@ -1,6 +1,6 @@
 ---
 title: zap-coding-agent/zap-coding-agent
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - Rust
 - AST (Abstract Syntax Tree)

@@ -1,6 +1,6 @@
 ---
 title: akshayav316/FreelanceOS-AI-CRM-v2
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - n8n
 - Gemini AI

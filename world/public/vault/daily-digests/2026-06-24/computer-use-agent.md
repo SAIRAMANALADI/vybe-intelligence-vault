@@ -1,6 +1,6 @@
 ---
 title: snake-aabb-wtf/computer-use-agent
-category: world/public/vault/daily-digests/2026-06-24
+category: daily-digests/2026-06-24
 tech_stack:
 - Python
 - OpenAI-compatible LLM

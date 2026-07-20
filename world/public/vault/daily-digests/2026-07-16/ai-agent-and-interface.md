@@ -1,6 +1,6 @@
 ---
 title: NguyenDK2247/AI-Agent-and-Interface
-category: world/public/vault/daily-digests/2026-07-16
+category: daily-digests/2026-07-16
 tech_stack:
 - React
 - Next.js

@@ -1,6 +1,6 @@
 ---
 title: 0xJacky/nginx-ui
-category: world/public/vault/daily-digests/2026-06-22
+category: daily-digests/2026-06-22
 tech_stack:
 - Go
 - Vue.js

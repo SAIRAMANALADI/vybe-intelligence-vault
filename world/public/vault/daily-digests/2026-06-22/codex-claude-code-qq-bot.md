@@ -1,6 +1,6 @@
 ---
 title: zz327455573/codex-claude-code-qq-bot
-category: world/public/vault/daily-digests/2026-06-22
+category: daily-digests/2026-06-22
 tech_stack:
 - Python
 - QQ Official WebSocket API

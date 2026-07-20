@@ -1,6 +1,6 @@
 ---
 title: 100rabhsah/ai-news-aggregator
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - Python
 - Web Crawling

@@ -1,6 +1,6 @@
 ---
 title: dezhiguan/careermate
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - Java 21
 - Spring Boot 3.5

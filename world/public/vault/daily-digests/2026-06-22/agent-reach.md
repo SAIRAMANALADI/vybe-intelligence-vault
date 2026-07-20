@@ -1,6 +1,6 @@
 ---
 title: Panniantong/Agent-Reach
-category: world/public/vault/daily-digests/2026-06-22
+category: daily-digests/2026-06-22
 tech_stack:
 - Python
 - CLI Tools

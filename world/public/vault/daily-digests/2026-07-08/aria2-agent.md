@@ -1,6 +1,6 @@
 ---
 title: Rehui-2006/aria2-agent
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - Python
 - aria2

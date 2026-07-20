@@ -1,6 +1,6 @@
 ---
 title: close-shellflower7762/e2e-tester
-category: world/public/vault/daily-digests/2026-07-03
+category: daily-digests/2026-07-03
 tech_stack:
 - Playwright
 - Lighthouse

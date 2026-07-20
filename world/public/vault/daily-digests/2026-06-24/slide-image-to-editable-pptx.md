@@ -1,6 +1,6 @@
 ---
 title: Evasive-airplanemechanics850/slide-image-to-editable-pptx
-category: world/public/vault/daily-digests/2026-06-24
+category: daily-digests/2026-06-24
 tech_stack:
 - Python
 - Microsoft PowerPoint API

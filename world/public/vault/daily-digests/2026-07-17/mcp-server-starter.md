@@ -1,6 +1,6 @@
 ---
 title: starter-series/mcp-server-starter
-category: world/public/vault/daily-digests/2026-07-17
+category: daily-digests/2026-07-17
 tech_stack:
 - TypeScript
 - MCP SDK

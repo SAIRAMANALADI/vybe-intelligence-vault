@@ -1,6 +1,6 @@
 ---
 title: monuro/github-ai-assistant
-category: world/public/vault/daily-digests/2026-07-09
+category: daily-digests/2026-07-09
 tech_stack:
 - Java
 - GitHub API

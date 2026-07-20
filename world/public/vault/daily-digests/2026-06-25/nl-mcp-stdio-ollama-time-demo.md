@@ -1,6 +1,6 @@
 ---
 title: Divakar-2005-02-02/nl-mcp-stdio-ollama-time-demo
-category: world/public/vault/daily-digests/2026-06-25
+category: daily-digests/2026-06-25
 tech_stack:
 - Python
 - .NET

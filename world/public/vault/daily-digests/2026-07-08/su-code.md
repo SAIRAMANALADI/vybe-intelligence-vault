@@ -1,6 +1,6 @@
 ---
 title: 8-Sync-Dev/su-code
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - Rust
 - omp (oh-my-pi)

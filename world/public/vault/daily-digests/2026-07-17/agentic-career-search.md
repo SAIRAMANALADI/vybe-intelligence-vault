@@ -1,6 +1,6 @@
 ---
 title: Francis1998/agentic-career-search
-category: world/public/vault/daily-digests/2026-07-17
+category: daily-digests/2026-07-17
 tech_stack:
 - Python
 - FastAPI

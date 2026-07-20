@@ -1,6 +1,6 @@
 ---
 title: devart-ai-connectivity/devart-mcp-server-access
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - C#
 - .NET 8

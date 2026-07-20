@@ -1,6 +1,6 @@
 ---
 title: pengmoubuaixuexi/TAgent
-category: world/public/vault/daily-digests/2026-07-10
+category: daily-digests/2026-07-10
 tech_stack:
 - Java 17
 - Spring Boot 3.4.3

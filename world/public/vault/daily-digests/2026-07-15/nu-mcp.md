@@ -1,6 +1,6 @@
 ---
 title: ck3mp3r/nu-mcp
-category: world/public/vault/daily-digests/2026-07-15
+category: daily-digests/2026-07-15
 tech_stack:
 - Rust
 - Nushell

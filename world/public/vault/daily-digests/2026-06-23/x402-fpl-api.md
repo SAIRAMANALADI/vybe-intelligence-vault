@@ -1,6 +1,6 @@
 ---
 title: Edwinvi6421/x402-fpl-api
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - Python
 - Model Context Protocol (MCP)

@@ -1,6 +1,6 @@
 ---
 title: Ryoowa1303/kiro-telegram-bot
-category: world/public/vault/daily-digests/2026-06-25
+category: daily-digests/2026-06-25
 tech_stack:
 - TypeScript
 - Telegram Bot API

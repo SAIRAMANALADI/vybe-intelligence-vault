@@ -1,6 +1,6 @@
 ---
 title: aoreshkov/kotlin-lib-mcp
-category: world/public/vault/daily-digests/2026-07-10
+category: daily-digests/2026-07-10
 tech_stack:
 - Kotlin
 - Kotlin Analysis API (K2/FIR)

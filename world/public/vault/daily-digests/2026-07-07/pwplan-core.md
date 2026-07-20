@@ -1,6 +1,6 @@
 ---
 title: Protocol-Wealth/pwplan-core
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - React 19
 - Vite 8

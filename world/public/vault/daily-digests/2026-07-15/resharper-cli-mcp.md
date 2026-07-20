@@ -1,6 +1,6 @@
 ---
 title: andypgray/resharper-cli-mcp
-category: world/public/vault/daily-digests/2026-07-15
+category: daily-digests/2026-07-15
 tech_stack:
 - C#
 - MCP (Model Context Protocol)

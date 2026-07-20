@@ -1,6 +1,6 @@
 ---
 title: Mona-Alkhatib/lineage-oracle
-category: world/public/vault/daily-digests/2026-07-14
+category: daily-digests/2026-07-14
 tech_stack:
 - Python
 - Claude Sonnet 4.6

@@ -1,6 +1,6 @@
 ---
 title: can4hou6joeng4/boss-agent-cli
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - Python
 - Click

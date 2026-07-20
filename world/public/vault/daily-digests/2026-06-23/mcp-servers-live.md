@@ -1,6 +1,6 @@
 ---
 title: linny006/mcp-servers-live
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - GitHub Actions
 - Python

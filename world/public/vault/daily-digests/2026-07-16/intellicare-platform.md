@@ -1,6 +1,6 @@
 ---
 title: erangross27/intellicare-platform
-category: world/public/vault/daily-digests/2026-07-16
+category: daily-digests/2026-07-16
 tech_stack:
 - Claude Opus 4.8
 - Node.js

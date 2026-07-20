@@ -1,6 +1,6 @@
 ---
 title: silver4444-xs/silver_research_bot
-category: world/public/vault/daily-digests/2026-07-18
+category: daily-digests/2026-07-18
 tech_stack:
 - Python 3.11+
 - FastAPI

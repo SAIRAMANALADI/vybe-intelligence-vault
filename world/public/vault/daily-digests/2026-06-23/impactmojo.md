@@ -1,6 +1,6 @@
 ---
 title: ImpactMojo/ImpactMojo
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - HTML5
 - CSS3

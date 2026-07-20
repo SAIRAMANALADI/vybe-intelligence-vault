@@ -1,6 +1,6 @@
 ---
 title: Leisure-Auf1/A3-Multi-Agent-System
-category: world/public/vault/daily-digests/2026-07-16
+category: daily-digests/2026-07-16
 tech_stack:
 - Python
 - Streamlit

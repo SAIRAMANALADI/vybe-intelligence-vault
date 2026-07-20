@@ -1,6 +1,6 @@
 ---
 title: Duramenrhaetoromance252/1c-templates-mcp
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - 1C:Enterprise
 - BSL

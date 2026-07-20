@@ -1,6 +1,6 @@
 ---
 title: Pand8266/aseprite-mcp-pro
-category: world/public/vault/daily-digests/2026-07-10
+category: daily-digests/2026-07-10
 tech_stack:
 - Lua
 - Model Context Protocol (MCP)

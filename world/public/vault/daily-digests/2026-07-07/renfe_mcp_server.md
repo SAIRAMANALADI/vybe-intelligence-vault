@@ -1,6 +1,6 @@
 ---
 title: SaberMaple1/renfe_mcp_server
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - Python
 - MCP Server

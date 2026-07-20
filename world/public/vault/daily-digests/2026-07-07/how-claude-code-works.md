@@ -1,6 +1,6 @@
 ---
 title: Windy3f3f3f3f/how-claude-code-works
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - TypeScript
 - React

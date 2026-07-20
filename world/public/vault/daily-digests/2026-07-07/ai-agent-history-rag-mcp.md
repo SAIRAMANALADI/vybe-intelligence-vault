@@ -1,6 +1,6 @@
 ---
 title: no13productions/ai-agent-history-rag-mcp
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - Python
 - MCP (Model Context Protocol)

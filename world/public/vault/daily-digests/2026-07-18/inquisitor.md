@@ -1,6 +1,6 @@
 ---
 title: 1111111111111111111114oLvT2/inquisitor
-category: world/public/vault/daily-digests/2026-07-18
+category: daily-digests/2026-07-18
 tech_stack:
 - Python 3.12+
 - MCP (Model Context Protocol)

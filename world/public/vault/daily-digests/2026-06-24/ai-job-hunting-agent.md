@@ -1,6 +1,6 @@
 ---
 title: vivek7557/Ai-Job-hunting-Agent
-category: world/public/vault/daily-digests/2026-06-24
+category: daily-digests/2026-06-24
 tech_stack:
 - Python
 - Streamlit

@@ -1,6 +1,6 @@
 ---
 title: SavithOnline/GimpMCP
-category: world/public/vault/daily-digests/2026-07-12
+category: daily-digests/2026-07-12
 tech_stack:
 - Python
 - MCP (Model Context Protocol)

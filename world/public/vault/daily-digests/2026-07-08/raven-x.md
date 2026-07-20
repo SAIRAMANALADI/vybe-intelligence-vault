@@ -1,6 +1,6 @@
 ---
 title: LaBestiaPR/RAVEN-X
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - Python
 - AI/ML Frameworks

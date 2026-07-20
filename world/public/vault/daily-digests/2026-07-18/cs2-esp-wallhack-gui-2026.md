@@ -1,6 +1,6 @@
 ---
 title: Jordanaconceptional53/CS2-ESP-Wallhack-GUI-2026
-category: world/public/vault/daily-digests/2026-07-18
+category: daily-digests/2026-07-18
 tech_stack:
 - Python
 - Windows API

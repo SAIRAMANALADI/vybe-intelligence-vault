@@ -1,6 +1,6 @@
 ---
 title: ramkoirala11235/Prisma-Gemini-DeepThink-API
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - Python
 - FastAPI

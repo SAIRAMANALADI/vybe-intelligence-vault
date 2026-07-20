@@ -1,6 +1,6 @@
 ---
 title: ronilowtoned410/mcp_reverse_engineering
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - Python
 - Windows API

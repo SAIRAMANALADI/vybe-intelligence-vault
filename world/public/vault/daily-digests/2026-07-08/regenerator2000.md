@@ -1,6 +1,6 @@
 ---
 title: ricardoquesada/regenerator2000
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - Rust
 - 6502 Assembly

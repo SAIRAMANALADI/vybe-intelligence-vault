@@ -1,6 +1,6 @@
 ---
 title: galeliving46/SAMURAI
-category: world/public/vault/daily-digests/2026-06-27
+category: daily-digests/2026-06-27
 tech_stack:
 - SAP ADT
 - MCP

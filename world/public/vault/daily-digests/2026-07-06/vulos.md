@@ -1,6 +1,6 @@
 ---
 title: vul-os/vulos
-category: world/public/vault/daily-digests/2026-07-06
+category: daily-digests/2026-07-06
 tech_stack:
 - Go 1.25
 - React 19

@@ -1,6 +1,6 @@
 ---
 title: Marshanda14816/agent-skills
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - Markdown
 - React Native

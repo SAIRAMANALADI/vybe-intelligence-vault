@@ -1,6 +1,6 @@
 ---
 title: dan-nackasha-keyworth/ai-inbound-triage-agent
-category: world/public/vault/daily-digests/2026-07-09
+category: daily-digests/2026-07-09
 tech_stack:
 - Python
 - Claude API (Haiku 4.5, Sonnet 5)

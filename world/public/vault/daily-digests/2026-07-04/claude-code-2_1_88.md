@@ -1,6 +1,6 @@
 ---
 title: Simplex-publicspeaking797/claude-code-2.1.88
-category: world/public/vault/daily-digests/2026-07-04
+category: daily-digests/2026-07-04
 tech_stack:
 - TypeScript
 - Node.js

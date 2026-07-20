@@ -1,6 +1,6 @@
 ---
 title: Alfietechtime/human-skill-tree
-category: world/public/vault/daily-digests/2026-07-02
+category: daily-digests/2026-07-02
 tech_stack:
 - Python
 - JSON/YAML

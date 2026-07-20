@@ -1,6 +1,6 @@
 ---
 title: Zorineinsupportable217/buyer-eval-skill
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - Windows
 - Shell

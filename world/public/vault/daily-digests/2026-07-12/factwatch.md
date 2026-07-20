@@ -1,6 +1,6 @@
 ---
 title: kiriz/factwatch
-category: world/public/vault/daily-digests/2026-07-12
+category: daily-digests/2026-07-12
 tech_stack:
 - Python
 - Google Gemini 2.0 Flash

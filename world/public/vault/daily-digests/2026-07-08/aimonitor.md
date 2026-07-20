@@ -1,6 +1,6 @@
 ---
 title: japananh/aimonitor
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - Go
 - SQLite

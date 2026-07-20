@@ -1,6 +1,6 @@
 ---
 title: Moon7515/mateclaw
-category: world/public/vault/daily-digests/2026-07-17
+category: daily-digests/2026-07-17
 tech_stack:
 - Java
 - Spring AI Alibaba

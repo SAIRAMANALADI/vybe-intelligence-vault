@@ -1,6 +1,6 @@
 ---
 title: tingbo-c/invest-research-skills
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - Python
 - Markdown

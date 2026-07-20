@@ -1,6 +1,6 @@
 ---
 title: devart-ai-connectivity/devart-mcp-server-zoho-desk
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - MCP Server
 - Zoho Desk API

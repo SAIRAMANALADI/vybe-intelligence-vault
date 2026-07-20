@@ -1,6 +1,6 @@
 ---
 title: oceantruong/farcaster-agent
-category: world/public/vault/daily-digests/2026-07-05
+category: daily-digests/2026-07-05
 tech_stack:
 - JavaScript
 - Node.js

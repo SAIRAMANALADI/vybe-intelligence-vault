@@ -1,6 +1,6 @@
 ---
 title: Alices5723/n8n-telegram-voice-transcription-bot
-category: world/public/vault/daily-digests/2026-06-24
+category: daily-digests/2026-06-24
 tech_stack:
 - n8n
 - Telegram Bot API

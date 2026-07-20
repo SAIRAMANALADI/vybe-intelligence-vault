@@ -1,6 +1,6 @@
 ---
 title: Tamang4607/rustyhand
-category: world/public/vault/daily-digests/2026-07-18
+category: daily-digests/2026-07-18
 tech_stack:
 - Rust
 - LLM APIs

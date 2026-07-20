@@ -1,6 +1,6 @@
 ---
 title: lsdefine/GenericAgent
-category: world/public/vault/daily-digests/2026-06-22
+category: daily-digests/2026-06-22
 tech_stack:
 - Python
 - LLM APIs (Claude, Gemini, Kimi, MiniMax)

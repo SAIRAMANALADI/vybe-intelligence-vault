@@ -1,6 +1,6 @@
 ---
 title: addurus/openclaw-installer
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - Installer (EXE)
 - Microsoft Visual C++ Redistributable

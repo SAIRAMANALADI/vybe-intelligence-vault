@@ -1,6 +1,6 @@
 ---
 title: miguelito0204/drift
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - Python
 - Natural Language Processing

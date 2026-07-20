@@ -1,6 +1,6 @@
 ---
 title: Oni-002/compose-skill
-category: world/public/vault/daily-digests/2026-07-03
+category: daily-digests/2026-07-03
 tech_stack:
 - Jetpack Compose
 - Android Development

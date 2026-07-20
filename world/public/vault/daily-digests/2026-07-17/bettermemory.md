@@ -1,6 +1,6 @@
 ---
 title: 0Mattias/bettermemory
-category: world/public/vault/daily-digests/2026-07-17
+category: daily-digests/2026-07-17
 tech_stack:
 - Python
 - MCP (Model Context Protocol)

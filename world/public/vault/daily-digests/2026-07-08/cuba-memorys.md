@@ -1,6 +1,6 @@
 ---
 title: gbh3247872997-del/cuba-memorys
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - Rust
 - PostgreSQL

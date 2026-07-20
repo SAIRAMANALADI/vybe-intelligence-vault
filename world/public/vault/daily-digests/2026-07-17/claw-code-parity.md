@@ -1,6 +1,6 @@
 ---
 title: emavague180/claw-code-parity
-category: world/public/vault/daily-digests/2026-07-17
+category: daily-digests/2026-07-17
 tech_stack:
 - Rust
 - Windows Desktop

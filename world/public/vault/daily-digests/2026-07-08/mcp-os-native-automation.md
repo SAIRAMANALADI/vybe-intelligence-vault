@@ -1,6 +1,6 @@
 ---
 title: a92070888-dev/mcp-os-native-automation
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - Python
 - pywinauto

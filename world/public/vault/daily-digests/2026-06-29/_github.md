@@ -1,6 +1,6 @@
 ---
 title: AceDataCloud/.github
-category: world/public/vault/daily-digests/2026-06-29
+category: daily-digests/2026-06-29
 tech_stack:
 - Python
 - GitHub Actions

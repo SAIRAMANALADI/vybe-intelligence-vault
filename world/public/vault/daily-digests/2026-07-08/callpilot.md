@@ -1,6 +1,6 @@
 ---
 title: tianye1999/callpilot
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - Python
 - Quectel EC20/EG25 4G Modem

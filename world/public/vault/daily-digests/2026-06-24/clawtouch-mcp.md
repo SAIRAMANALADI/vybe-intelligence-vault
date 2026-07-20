@@ -1,6 +1,6 @@
 ---
 title: vrinda3369/clawtouch-mcp
-category: world/public/vault/daily-digests/2026-06-24
+category: daily-digests/2026-06-24
 tech_stack:
 - Python
 - USB HID

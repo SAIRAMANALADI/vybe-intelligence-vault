@@ -1,6 +1,6 @@
 ---
 title: jatinloey1598-dot/social-signals-analyzer
-category: world/public/vault/daily-digests/2026-06-22
+category: daily-digests/2026-06-22
 tech_stack:
 - Python
 - Machine Learning

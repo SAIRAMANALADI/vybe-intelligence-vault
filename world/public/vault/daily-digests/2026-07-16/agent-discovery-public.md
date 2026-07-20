@@ -1,6 +1,6 @@
 ---
 title: djp1122222-alt/agent-discovery-public
-category: world/public/vault/daily-digests/2026-07-16
+category: daily-digests/2026-07-16
 tech_stack:
 - HTML
 - JSON

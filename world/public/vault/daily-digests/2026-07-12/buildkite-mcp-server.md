@@ -1,6 +1,6 @@
 ---
 title: buildkite/buildkite-mcp-server
-category: world/public/vault/daily-digests/2026-07-12
+category: daily-digests/2026-07-12
 tech_stack:
 - Go
 - Model Context Protocol (MCP)

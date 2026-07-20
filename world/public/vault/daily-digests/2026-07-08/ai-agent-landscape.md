@@ -1,6 +1,6 @@
 ---
 title: gatherfigtree740/ai-agent-landscape
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - Windows Desktop App
 - Electron (assumed)

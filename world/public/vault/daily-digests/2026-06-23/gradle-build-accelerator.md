@@ -1,6 +1,6 @@
 ---
 title: Amirahmed0685/gradle-build-accelerator
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - GitHub Actions
 - Gradle

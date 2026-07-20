@@ -1,6 +1,6 @@
 ---
 title: certinia/debug-log-analyzer-mcp
-category: world/public/vault/daily-digests/2026-07-18
+category: daily-digests/2026-07-18
 tech_stack:
 - TypeScript
 - Node.js

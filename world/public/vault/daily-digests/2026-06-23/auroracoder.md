@@ -1,6 +1,6 @@
 ---
 title: 1001WillsStudio/AuroraCoder
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - Python 3.10+
 - Node.js 18+

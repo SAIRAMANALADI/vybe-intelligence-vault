@@ -1,6 +1,6 @@
 ---
 title: Surging-scotandlot818/product-dev-blueprint
-category: world/public/vault/daily-digests/2026-07-06
+category: daily-digests/2026-07-06
 tech_stack:
 - TypeScript
 - Windows Desktop Application

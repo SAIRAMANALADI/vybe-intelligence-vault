@@ -1,6 +1,6 @@
 ---
 title: junter1989k-ai/japan-payments-mcp
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - JavaScript
 - Node.js

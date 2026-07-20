@@ -1,6 +1,6 @@
 ---
 title: hugo57100/golembot
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - TypeScript
 - Electron (implied by desktop app)

@@ -1,6 +1,6 @@
 ---
 title: jake12-cpu/AI-Desktop-Companion
-category: world/public/vault/daily-digests/2026-07-15
+category: daily-digests/2026-07-15
 tech_stack:
 - Python
 - PySide6

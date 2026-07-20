@@ -1,6 +1,6 @@
 ---
 title: jasonxkensei/xproof-openclaw-skill
-category: world/public/vault/daily-digests/2026-07-17
+category: daily-digests/2026-07-17
 tech_stack:
 - MultiversX Blockchain
 - x402 Payment Protocol

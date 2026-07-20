@@ -1,6 +1,6 @@
 ---
 title: ninouanis84-sudo/foxl-orchestrator
-category: world/public/vault/daily-digests/2026-07-06
+category: daily-digests/2026-07-06
 tech_stack:
 - JavaScript/TypeScript
 - HTML/CSS

@@ -1,6 +1,6 @@
 ---
 title: Nonsteroidal-steelman66/lark-mcp-cli
-category: world/public/vault/daily-digests/2026-06-24
+category: daily-digests/2026-06-24
 tech_stack:
 - Model Context Protocol (MCP)
 - Command-Line Interface (CLI)

@@ -1,6 +1,6 @@
 ---
 title: prayerjosiah/ai-automation-portfolio
-category: world/public/vault/daily-digests/2026-07-18
+category: daily-digests/2026-07-18
 tech_stack:
 - n8n
 - Zapier

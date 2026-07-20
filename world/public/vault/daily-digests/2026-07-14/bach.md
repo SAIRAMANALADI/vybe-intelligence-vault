@@ -1,6 +1,6 @@
 ---
 title: ellmos-ai/bach
-category: world/public/vault/daily-digests/2026-07-14
+category: daily-digests/2026-07-14
 tech_stack:
 - Python
 - SQLite

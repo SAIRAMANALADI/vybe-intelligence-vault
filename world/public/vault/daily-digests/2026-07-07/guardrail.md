@@ -1,6 +1,6 @@
 ---
 title: Rosalyndfaithful716/Guardrail
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - TypeScript
 - Windows Desktop App

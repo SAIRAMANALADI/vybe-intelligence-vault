@@ -1,6 +1,6 @@
 ---
 title: cloudy-sfu/MCP-rednote-assistant
-category: world/public/vault/daily-digests/2026-07-12
+category: daily-digests/2026-07-12
 tech_stack:
 - Python 3.13
 - MCP (Model Context Protocol)

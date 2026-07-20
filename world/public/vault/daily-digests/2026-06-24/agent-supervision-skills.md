@@ -1,6 +1,6 @@
 ---
 title: drippy-passport968/agent-supervision-skills
-category: world/public/vault/daily-digests/2026-06-24
+category: daily-digests/2026-06-24
 tech_stack:
 - PowerShell
 - Windows API

@@ -1,6 +1,6 @@
 ---
 title: Omkarjamadar/MCP-server-client-computer-use-ai-sdk
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - Rust
 - Model Context Protocol (MCP)

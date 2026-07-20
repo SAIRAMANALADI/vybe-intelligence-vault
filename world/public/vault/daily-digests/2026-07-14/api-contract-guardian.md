@@ -1,6 +1,6 @@
 ---
 title: Coding-Dev-Tools/api-contract-guardian
-category: world/public/vault/daily-digests/2026-07-14
+category: daily-digests/2026-07-14
 tech_stack:
 - Python
 - OpenAPI 3.x

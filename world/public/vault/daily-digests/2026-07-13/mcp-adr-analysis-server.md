@@ -1,6 +1,6 @@
 ---
 title: tosin2013/mcp-adr-analysis-server
-category: world/public/vault/daily-digests/2026-07-13
+category: daily-digests/2026-07-13
 tech_stack:
 - TypeScript
 - Node.js

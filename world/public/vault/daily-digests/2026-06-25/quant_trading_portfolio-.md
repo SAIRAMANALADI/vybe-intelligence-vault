@@ -1,6 +1,6 @@
 ---
 title: 11Bhavin/Quant_Trading_Portfolio-
-category: world/public/vault/daily-digests/2026-06-25
+category: daily-digests/2026-06-25
 tech_stack:
 - Python
 - Machine Learning

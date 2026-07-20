@@ -1,6 +1,6 @@
 ---
 title: cannoneer85-svg/stratanote
-category: world/public/vault/daily-digests/2026-07-18
+category: daily-digests/2026-07-18
 tech_stack:
 - React
 - TypeScript

@@ -1,6 +1,6 @@
 ---
 title: Splayfooted-wynnea293/agent-toolkit-for-aws
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - AWS SDK
 - Python

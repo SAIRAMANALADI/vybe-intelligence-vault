@@ -1,6 +1,6 @@
 ---
 title: Anbumani08/agentic-coding-workflow
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - Windows
 - Installer (EXE/MSI)

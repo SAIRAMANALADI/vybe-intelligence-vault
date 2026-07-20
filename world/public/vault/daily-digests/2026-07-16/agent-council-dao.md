@@ -1,6 +1,6 @@
 ---
 title: emmet-bot/agent-council-dao
-category: world/public/vault/daily-digests/2026-07-16
+category: daily-digests/2026-07-16
 tech_stack:
 - Universal Profiles (LSP0)
 - LSP6 KeyManager

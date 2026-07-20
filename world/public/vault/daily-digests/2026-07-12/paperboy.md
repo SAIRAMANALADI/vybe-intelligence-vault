@@ -1,6 +1,6 @@
 ---
 title: michaelellis003/paperboy
-category: world/public/vault/daily-digests/2026-07-12
+category: daily-digests/2026-07-12
 tech_stack:
 - Python
 - FastMCP

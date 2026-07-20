@@ -1,6 +1,6 @@
 ---
 title: fegone/claude-code-delegate-local
-category: world/public/vault/daily-digests/2026-07-18
+category: daily-digests/2026-07-18
 tech_stack:
 - Python
 - MCP (Model Context Protocol)

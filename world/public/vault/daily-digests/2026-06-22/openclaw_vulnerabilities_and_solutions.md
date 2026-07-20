@@ -1,6 +1,6 @@
 ---
 title: ahmadqatato2-maker/openclaw_vulnerabilities_and_solutions
-category: world/public/vault/daily-digests/2026-06-22
+category: daily-digests/2026-06-22
 tech_stack:
 - Markdown
 - PDF Documentation

@@ -1,6 +1,6 @@
 ---
 title: amekala/ads-mcp
-category: world/public/vault/daily-digests/2026-07-16
+category: daily-digests/2026-07-16
 tech_stack:
 - Model Context Protocol (MCP)
 - OAuth 2.1 with PKCE

@@ -1,6 +1,6 @@
 ---
 title: Vladimirbeneficiary741/claudian
-category: world/public/vault/daily-digests/2026-06-24
+category: daily-digests/2026-06-24
 tech_stack:
 - TypeScript
 - Obsidian Plugin API

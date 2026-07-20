@@ -1,6 +1,6 @@
 ---
 title: Yht20927/douyin-cli
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - JavaScript
 - Node.js

@@ -1,6 +1,6 @@
 ---
 title: lukekwan/agent-payment-guard
-category: world/public/vault/daily-digests/2026-07-16
+category: daily-digests/2026-07-16
 tech_stack:
 - Cloudflare Workers
 - D1 Database

@@ -1,6 +1,6 @@
 ---
 title: sreypovrupp/ticktick-terminal-control
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - Python
 - YAML

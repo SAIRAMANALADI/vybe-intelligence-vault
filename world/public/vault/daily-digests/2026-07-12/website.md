@@ -1,6 +1,6 @@
 ---
 title: meetsoma/website
-category: world/public/vault/daily-digests/2026-07-12
+category: daily-digests/2026-07-12
 tech_stack:
 - Astro
 - Vercel

@@ -1,6 +1,6 @@
 ---
 title: haniamkhan5-coder/mcp-servers-hub
-category: world/public/vault/daily-digests/2026-07-17
+category: daily-digests/2026-07-17
 tech_stack:
 - Model Context Protocol (MCP)
 - Windows

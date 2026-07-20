@@ -1,6 +1,6 @@
 ---
 title: smb-ai-studio/chatart
-category: world/public/vault/daily-digests/2026-07-10
+category: daily-digests/2026-07-10
 tech_stack:
 - HTML
 - Static Site Generator (likely custom or Jekyll)

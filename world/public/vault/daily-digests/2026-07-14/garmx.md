@@ -1,6 +1,6 @@
 ---
 title: intelligexhq/garmx
-category: world/public/vault/daily-digests/2026-07-14
+category: daily-digests/2026-07-14
 tech_stack:
 - Go
 - OpenTelemetry

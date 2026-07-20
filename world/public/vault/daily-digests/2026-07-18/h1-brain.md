@@ -1,6 +1,6 @@
 ---
 title: genetic-shopping832/h1-brain
-category: world/public/vault/daily-digests/2026-07-18
+category: daily-digests/2026-07-18
 tech_stack:
 - Python
 - Windows

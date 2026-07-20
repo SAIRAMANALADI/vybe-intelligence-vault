@@ -1,6 +1,6 @@
 ---
 title: motivated-groupthink347/boss-skill
-category: world/public/vault/daily-digests/2026-07-12
+category: daily-digests/2026-07-12
 tech_stack:
 - Python
 - Windows Desktop App

@@ -1,6 +1,6 @@
 ---
 title: tools-for-agents/scout
-category: world/public/vault/daily-digests/2026-07-14
+category: daily-digests/2026-07-14
 tech_stack:
 - Node.js
 - SQLite (FTS5 for search)

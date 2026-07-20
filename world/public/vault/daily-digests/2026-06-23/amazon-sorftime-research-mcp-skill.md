@@ -1,6 +1,6 @@
 ---
 title: asl4/amazon-sorftime-research-MCP-skill
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - Python
 - Windows Desktop Application

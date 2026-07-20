@@ -1,6 +1,6 @@
 ---
 title: blackwell-systems/gcf-proxy
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - Go
 - MCP (Model Context Protocol)

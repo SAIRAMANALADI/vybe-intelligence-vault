@@ -1,6 +1,6 @@
 ---
 title: JunMystery/Agent-Guidance-MCP
-category: world/public/vault/daily-digests/2026-07-11
+category: daily-digests/2026-07-11
 tech_stack:
 - Python
 - Model Context Protocol (MCP)

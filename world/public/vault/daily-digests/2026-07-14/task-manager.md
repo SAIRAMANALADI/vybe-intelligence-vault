@@ -1,6 +1,6 @@
 ---
 title: Dexter376/task-manager
-category: world/public/vault/daily-digests/2026-07-14
+category: daily-digests/2026-07-14
 tech_stack:
 - Laravel 12
 - PHP 8.1+

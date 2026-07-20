@@ -1,6 +1,6 @@
 ---
 title: ml8s/liki
-category: world/public/vault/daily-digests/2026-07-12
+category: daily-digests/2026-07-12
 tech_stack:
 - Shell
 - JavaScript/TypeScript

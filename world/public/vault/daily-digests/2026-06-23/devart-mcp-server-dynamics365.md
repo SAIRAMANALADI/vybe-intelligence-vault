@@ -1,6 +1,6 @@
 ---
 title: devart-ai-connectivity/devart-mcp-server-dynamics365
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - C#
 - MCP (Model Context Protocol)

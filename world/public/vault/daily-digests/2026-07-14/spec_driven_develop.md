@@ -1,6 +1,6 @@
 ---
 title: zhu1090093659/spec_driven_develop
-category: world/public/vault/daily-digests/2026-07-14
+category: daily-digests/2026-07-14
 tech_stack:
 - Markdown
 - Python

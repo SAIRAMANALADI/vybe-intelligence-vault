@@ -1,6 +1,6 @@
 ---
 title: benmfzen/meta-youtube-comment-mcp
-category: world/public/vault/daily-digests/2026-07-16
+category: daily-digests/2026-07-16
 tech_stack:
 - Python
 - Meta Graph API

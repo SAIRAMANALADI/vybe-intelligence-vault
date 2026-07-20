@@ -1,6 +1,6 @@
 ---
 title: jaynguyen2612-glitch/ai-ctl-agent
-category: world/public/vault/daily-digests/2026-06-25
+category: daily-digests/2026-06-25
 tech_stack:
 - Python
 - YAML

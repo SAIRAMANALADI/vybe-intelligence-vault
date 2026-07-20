@@ -1,6 +1,6 @@
 ---
 title: yandifei/ShittimTerminal
-category: world/public/vault/daily-digests/2026-07-01
+category: daily-digests/2026-07-01
 tech_stack:
 - Python
 - AI/ML frameworks (unspecified)

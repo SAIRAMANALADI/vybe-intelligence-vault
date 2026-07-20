@@ -1,6 +1,6 @@
 ---
 title: JondriDev/empire
-category: world/public/vault/daily-digests/2026-07-09
+category: daily-digests/2026-07-09
 tech_stack:
 - React 19
 - TypeScript 5.6

@@ -1,6 +1,6 @@
 ---
 title: afine907/agent-kit-admin
-category: world/public/vault/daily-digests/2026-06-25
+category: daily-digests/2026-06-25
 tech_stack:
 - FastAPI
 - Next.js

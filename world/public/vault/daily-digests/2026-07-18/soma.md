@@ -1,6 +1,6 @@
 ---
 title: jmagar/soma
-category: world/public/vault/daily-digests/2026-07-18
+category: daily-digests/2026-07-18
 tech_stack:
 - Rust
 - MCP (Model Context Protocol)

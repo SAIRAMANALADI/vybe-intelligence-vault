@@ -1,6 +1,6 @@
 ---
 title: shimo4228/agent-knowledge-cycle
-category: world/public/vault/daily-digests/2026-07-06
+category: daily-digests/2026-07-06
 tech_stack:
 - Python
 - JSON-LD

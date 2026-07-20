@@ -1,6 +1,6 @@
 ---
 title: ManSio/mscodebase-intelligence
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - Python 3.10+
 - MCP (Model Context Protocol)

@@ -1,6 +1,6 @@
 ---
 title: sbroenne/mcp-server-powerpoint
-category: world/public/vault/daily-digests/2026-07-18
+category: daily-digests/2026-07-18
 tech_stack:
 - C#
 - .NET 10

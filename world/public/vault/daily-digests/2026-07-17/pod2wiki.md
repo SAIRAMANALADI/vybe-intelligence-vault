@@ -1,6 +1,6 @@
 ---
 title: Jacobusarminiusradyera634/pod2wiki
-category: world/public/vault/daily-digests/2026-07-17
+category: daily-digests/2026-07-17
 tech_stack:
 - Python
 - Whisper (AI transcription)

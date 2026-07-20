@@ -1,6 +1,6 @@
 ---
 title: xiaohuiwang-ai/xiaohuiwang-ai.github.io
-category: world/public/vault/daily-digests/2026-06-26
+category: daily-digests/2026-06-26
 tech_stack:
 - HTML
 - JavaScript

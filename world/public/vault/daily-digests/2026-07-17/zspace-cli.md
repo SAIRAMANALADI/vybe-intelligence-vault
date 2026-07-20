@@ -1,6 +1,6 @@
 ---
 title: skyzhao1223/zspace-cli
-category: world/public/vault/daily-digests/2026-07-17
+category: daily-digests/2026-07-17
 tech_stack:
 - Python
 - CLI

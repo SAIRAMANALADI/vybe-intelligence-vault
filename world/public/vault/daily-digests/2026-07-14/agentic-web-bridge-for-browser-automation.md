@@ -1,6 +1,6 @@
 ---
 title: lee-muriithi-kingori/agentic-web-bridge-for-browser-automation
-category: world/public/vault/daily-digests/2026-07-14
+category: daily-digests/2026-07-14
 tech_stack:
 - Python
 - Chrome DevTools Protocol (CDP)

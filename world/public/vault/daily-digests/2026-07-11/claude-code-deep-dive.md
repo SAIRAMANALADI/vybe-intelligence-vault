@@ -1,6 +1,6 @@
 ---
 title: azizjaz7890/claude-code-deep-dive
-category: world/public/vault/daily-digests/2026-07-11
+category: daily-digests/2026-07-11
 tech_stack:
 - Markdown
 - Documentation

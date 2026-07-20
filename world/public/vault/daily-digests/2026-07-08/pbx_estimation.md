@@ -1,6 +1,6 @@
 ---
 title: dennislee928/pbx_estimation
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - Python
 - Pandas

@@ -1,6 +1,6 @@
 ---
 title: Hyanthropological659/clarify-skill
-category: world/public/vault/daily-digests/2026-07-03
+category: daily-digests/2026-07-03
 tech_stack:
 - Claude Code
 - Python

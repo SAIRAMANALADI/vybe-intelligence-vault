@@ -1,6 +1,6 @@
 ---
 title: h5i-dev/h5i
-category: world/public/vault/daily-digests/2026-07-09
+category: daily-digests/2026-07-09
 tech_stack:
 - Rust
 - Git

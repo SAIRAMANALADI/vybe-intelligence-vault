@@ -1,6 +1,6 @@
 ---
 title: mahaishu/n8n-CyberSecurity-Workflows
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - n8n
 - JavaScript

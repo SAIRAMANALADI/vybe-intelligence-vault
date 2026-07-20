@@ -1,6 +1,6 @@
 ---
 title: 115th-discomfited211/Awesome-Harness-Engineering
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - Markdown
 - Windows OS

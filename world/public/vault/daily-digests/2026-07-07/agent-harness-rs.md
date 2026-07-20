@@ -1,6 +1,6 @@
 ---
 title: huangyuantao19920411/agent-harness-rs
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - Rust
 - ReAct (Agent Loop)

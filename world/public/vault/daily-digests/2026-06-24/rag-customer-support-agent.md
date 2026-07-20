@@ -1,6 +1,6 @@
 ---
 title: dawood125/rag-customer-support-agent
-category: world/public/vault/daily-digests/2026-06-24
+category: daily-digests/2026-06-24
 tech_stack:
 - TypeScript
 - Retrieval-Augmented Generation (RAG)

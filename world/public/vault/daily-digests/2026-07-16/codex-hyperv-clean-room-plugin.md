@@ -1,6 +1,6 @@
 ---
 title: rogue-shadowdancer/codex-hyperv-clean-room-plugin
-category: world/public/vault/daily-digests/2026-07-16
+category: daily-digests/2026-07-16
 tech_stack:
 - PowerShell 5.1
 - MCP (Model Context Protocol)

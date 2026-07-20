@@ -1,6 +1,6 @@
 ---
 title: florianherrengt/deep-search-app
-category: world/public/vault/daily-digests/2026-07-18
+category: daily-digests/2026-07-18
 tech_stack:
 - Tauri
 - React

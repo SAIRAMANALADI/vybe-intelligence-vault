@@ -1,6 +1,6 @@
 ---
 title: zzhqqa478850-lang/project-blueprint-agent
-category: world/public/vault/daily-digests/2026-07-09
+category: daily-digests/2026-07-09
 tech_stack:
 - Python
 - AST (Abstract Syntax Tree) Parsing

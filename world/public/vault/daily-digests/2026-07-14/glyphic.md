@@ -1,6 +1,6 @@
 ---
 title: MS-Teja/Glyphic
-category: world/public/vault/daily-digests/2026-07-14
+category: daily-digests/2026-07-14
 tech_stack:
 - TypeScript
 - Rust

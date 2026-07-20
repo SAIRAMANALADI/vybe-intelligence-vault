@@ -1,6 +1,6 @@
 ---
 title: stardust-bytes/agent-hub
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - Vue 3
 - NestJS

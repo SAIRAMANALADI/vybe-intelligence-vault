@@ -1,6 +1,6 @@
 ---
 title: Chewg8067/avatar-pipeline
-category: world/public/vault/daily-digests/2026-07-17
+category: daily-digests/2026-07-17
 tech_stack:
 - Next.js 16
 - FastAPI

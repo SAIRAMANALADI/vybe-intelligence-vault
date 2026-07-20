@@ -1,6 +1,6 @@
 ---
 title: wenliu3/ai-smart-homework-review
-category: world/public/vault/daily-digests/2026-07-16
+category: daily-digests/2026-07-16
 tech_stack:
 - FastAPI
 - Vue 3

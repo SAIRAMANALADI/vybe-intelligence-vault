@@ -1,6 +1,6 @@
 ---
 title: CodesbyFebin/best-ai-agent
-category: world/public/vault/daily-digests/2026-06-30
+category: daily-digests/2026-06-30
 tech_stack:
 - TypeScript
 - GitHub Actions

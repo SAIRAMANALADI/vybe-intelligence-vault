@@ -1,6 +1,6 @@
 ---
 title: Crinolineflexion823/Research-Agent---1st-place-in-Alibaba-Cloud-Data-AI-Competition
-category: world/public/vault/daily-digests/2026-07-13
+category: daily-digests/2026-07-13
 tech_stack:
 - Python
 - Qwen (LLM)

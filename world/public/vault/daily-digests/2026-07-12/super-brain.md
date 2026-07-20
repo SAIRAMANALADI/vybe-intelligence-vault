@@ -1,6 +1,6 @@
 ---
 title: A1m1ng777888/super-brain
-category: world/public/vault/daily-digests/2026-07-12
+category: daily-digests/2026-07-12
 tech_stack:
 - Python
 - SimHash

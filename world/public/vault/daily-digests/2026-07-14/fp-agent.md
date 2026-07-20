@@ -1,6 +1,6 @@
 ---
 title: zpb911km/fp-agent
-category: world/public/vault/daily-digests/2026-07-14
+category: daily-digests/2026-07-14
 tech_stack:
 - Python 3.11+
 - FastAPI

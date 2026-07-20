@@ -1,6 +1,6 @@
 ---
 title: AI-Nikitka93/AI_Blogersite
-category: world/public/vault/daily-digests/2026-06-25
+category: daily-digests/2026-06-25
 tech_stack:
 - Next.js 16
 - React 19

@@ -1,6 +1,6 @@
 ---
 title: makoy-daniot2001/agent-session-mirror
-category: world/public/vault/daily-digests/2026-06-23
+category: daily-digests/2026-06-23
 tech_stack:
 - Node.js
 - BM25

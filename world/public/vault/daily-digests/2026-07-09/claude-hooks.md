@@ -1,6 +1,6 @@
 ---
 title: ExoGameYT/claude-hooks
-category: world/public/vault/daily-digests/2026-07-09
+category: daily-digests/2026-07-09
 tech_stack:
 - Shell
 - Python (implied for scripting)

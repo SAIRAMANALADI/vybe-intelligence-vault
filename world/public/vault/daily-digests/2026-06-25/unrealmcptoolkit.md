@@ -1,6 +1,6 @@
 ---
 title: timargv/UnrealMCPToolkit
-category: world/public/vault/daily-digests/2026-06-25
+category: daily-digests/2026-06-25
 tech_stack:
 - Unreal Engine 5.8
 - Model Context Protocol (MCP)

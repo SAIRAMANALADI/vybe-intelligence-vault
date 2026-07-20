@@ -1,6 +1,6 @@
 ---
 title: edgarfloresguerra2011-a11y/marketnow
-category: world/public/vault/daily-digests/2026-07-06
+category: daily-digests/2026-07-06
 tech_stack:
 - JavaScript
 - Node.js

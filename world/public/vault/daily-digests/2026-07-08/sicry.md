@@ -1,6 +1,6 @@
 ---
 title: dublen5269/Sicry
-category: world/public/vault/daily-digests/2026-07-08
+category: daily-digests/2026-07-08
 tech_stack:
 - Python
 - Tor

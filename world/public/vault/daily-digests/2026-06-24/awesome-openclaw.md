@@ -1,6 +1,6 @@
 ---
 title: lemurhacep/awesome-openclaw
-category: world/public/vault/daily-digests/2026-06-24
+category: daily-digests/2026-06-24
 tech_stack:
 - OpenClaw
 - MCP (Model Context Protocol)

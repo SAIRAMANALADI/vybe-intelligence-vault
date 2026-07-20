@@ -1,6 +1,6 @@
 ---
 title: chew-z/itunes.vim
-category: world/public/vault/daily-digests/2026-07-15
+category: daily-digests/2026-07-15
 tech_stack:
 - Go
 - SQLite FTS5

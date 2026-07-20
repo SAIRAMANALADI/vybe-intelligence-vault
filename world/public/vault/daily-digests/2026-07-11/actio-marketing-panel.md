@@ -1,6 +1,6 @@
 ---
 title: n33x0n/actio-marketing-panel
-category: world/public/vault/daily-digests/2026-07-11
+category: daily-digests/2026-07-11
 tech_stack:
 - Python 3.12
 - uv

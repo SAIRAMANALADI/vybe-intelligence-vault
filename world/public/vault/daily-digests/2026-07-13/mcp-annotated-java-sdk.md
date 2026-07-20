@@ -1,6 +1,6 @@
 ---
 title: thought2code/mcp-annotated-java-sdk
-category: world/public/vault/daily-digests/2026-07-13
+category: daily-digests/2026-07-13
 tech_stack:
 - Java 17+
 - MCP (Model Context Protocol)

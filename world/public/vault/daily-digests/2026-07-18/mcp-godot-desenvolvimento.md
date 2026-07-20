@@ -1,6 +1,6 @@
 ---
 title: joabcostamd/mcp-godot-desenvolvimento
-category: world/public/vault/daily-digests/2026-07-18
+category: daily-digests/2026-07-18
 tech_stack:
 - Python
 - Godot 4.7

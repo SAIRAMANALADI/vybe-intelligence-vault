@@ -1,6 +1,6 @@
 ---
 title: ranxi2001/kaggle-auto-research
-category: world/public/vault/daily-digests/2026-07-17
+category: daily-digests/2026-07-17
 tech_stack:
 - Python
 - Kaggle API

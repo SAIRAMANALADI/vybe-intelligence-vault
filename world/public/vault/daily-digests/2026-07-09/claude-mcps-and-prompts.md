@@ -1,6 +1,6 @@
 ---
 title: Alejandrowe-bot/claude-mcps-and-prompts
-category: world/public/vault/daily-digests/2026-07-09
+category: daily-digests/2026-07-09
 tech_stack:
 - Claude (AI Model)
 - Model Context Protocol (MCP)

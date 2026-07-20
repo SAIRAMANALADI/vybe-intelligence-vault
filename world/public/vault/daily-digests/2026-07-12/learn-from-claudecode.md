@@ -1,6 +1,6 @@
 ---
 title: seductive-bercy787/learn-from-claudecode
-category: world/public/vault/daily-digests/2026-07-12
+category: daily-digests/2026-07-12
 tech_stack:
 - Windows
 - Electron

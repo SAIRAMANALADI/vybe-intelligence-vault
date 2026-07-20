@@ -1,6 +1,6 @@
 ---
 title: Hyeonu-Cha/dotnet-coverage-mcp
-category: world/public/vault/daily-digests/2026-07-13
+category: daily-digests/2026-07-13
 tech_stack:
 - C#
 - .NET 9.0

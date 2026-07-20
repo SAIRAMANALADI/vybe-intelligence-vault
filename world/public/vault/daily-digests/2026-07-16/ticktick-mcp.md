@@ -1,6 +1,6 @@
 ---
 title: partymola/ticktick-mcp
-category: world/public/vault/daily-digests/2026-07-16
+category: daily-digests/2026-07-16
 tech_stack:
 - Python 3.13+
 - MCP (Model Context Protocol)

@@ -20,28 +20,94 @@ const CACHE_TTL = 30000; // 30 seconds
 // Sleep helper
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
+const LOCK_STALE_MS = Number(process.env.VAULT_LOCK_STALE_MS || 60000);
+const LOCK_RETRIES = Number(process.env.VAULT_LOCK_RETRIES || 900);
+const LOCK_RETRY_DELAY_MS = Number(process.env.VAULT_LOCK_RETRY_DELAY_MS || 100);
+const lockToken = `${process.pid}-${Date.now()}-${Math.random().toString(16).slice(2)}`;
+
+function readLockInfo() {
+  try {
+    const raw = fs.readFileSync(LOCK_PATH, 'utf-8');
+    const info = {};
+    for (const line of raw.split(/\r?\n/)) {
+      const idx = line.indexOf('=');
+      if (idx > 0) {
+        info[line.slice(0, idx)] = line.slice(idx + 1);
+      }
+    }
+    return info;
+  } catch {
+    return {};
+  }
+}
+
+function isLockStale() {
+  try {
+    const stat = fs.statSync(LOCK_PATH);
+    const ageMs = Date.now() - stat.mtimeMs;
+    if (ageMs > LOCK_STALE_MS) {
+      return true;
+    }
+
+    const info = readLockInfo();
+    const lockTime = Date.parse(info.time || '');
+    return Number.isFinite(lockTime) && Date.now() - lockTime > LOCK_STALE_MS;
+  } catch (err) {
+    if (err.code === 'ENOENT') return false;
+    return false;
+  }
+}
+
+function removeStaleLock() {
+  if (!fs.existsSync(LOCK_PATH) || !isLockStale()) {
+    return false;
+  }
+
+  const info = readLockInfo();
+  try {
+    fs.unlinkSync(LOCK_PATH);
+    console.warn(`Removed stale state lock${info.pid ? ` from pid ${info.pid}` : ''}.`);
+    return true;
+  } catch (err) {
+    if (err.code !== 'ENOENT') {
+      console.warn(`Failed to remove stale state lock: ${err.message}`);
+    }
+    return false;
+  }
+}
+
 // Acquire lock
-async function acquireLock(maxRetries = 150, delayMs = 100) {
+async function acquireLock(maxRetries = LOCK_RETRIES, delayMs = LOCK_RETRY_DELAY_MS) {
   for (let i = 0; i < maxRetries; i++) {
     try {
       const fd = fs.openSync(LOCK_PATH, 'wx');
-      fs.writeSync(fd, `pid=${process.pid}\ntime=${new Date().toISOString()}\n`);
+      fs.writeSync(fd, `pid=${process.pid}\ntoken=${lockToken}\ntime=${new Date().toISOString()}\n`);
       fs.closeSync(fd);
-      return true;
+      return lockToken;
     } catch (err) {
       if (err.code !== 'EEXIST') {
         throw err;
       }
+      removeStaleLock();
       await sleep(delayMs);
     }
   }
-  throw new Error('Timeout acquiring state lock');
+  const info = readLockInfo();
+  throw new Error(
+    `Timeout acquiring state lock at ${LOCK_PATH}` +
+    `${info.pid ? ` held by pid ${info.pid}` : ''}` +
+    `${info.time ? ` since ${info.time}` : ''}`
+  );
 }
 
 // Release lock
-function releaseLock() {
+function releaseLock(ownerToken = lockToken) {
   try {
     if (fs.existsSync(LOCK_PATH)) {
+      const info = readLockInfo();
+      if (info.token && info.token !== ownerToken) {
+        return;
+      }
       fs.unlinkSync(LOCK_PATH);
     }
   } catch (err) {

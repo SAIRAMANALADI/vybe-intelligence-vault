@@ -1,6 +1,6 @@
 ---
 title: Bande-a-Bonnot/Boucle-framework
-category: world/public/vault/daily-digests/2026-07-06
+category: daily-digests/2026-07-06
 tech_stack:
 - Shell
 - Bash

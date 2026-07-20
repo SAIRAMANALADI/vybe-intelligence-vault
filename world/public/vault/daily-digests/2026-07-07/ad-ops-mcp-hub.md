@@ -1,6 +1,6 @@
 ---
 title: MAhmed004/ad-ops-mcp-hub
-category: world/public/vault/daily-digests/2026-07-07
+category: daily-digests/2026-07-07
 tech_stack:
 - Python
 - Model Context Protocol (MCP)

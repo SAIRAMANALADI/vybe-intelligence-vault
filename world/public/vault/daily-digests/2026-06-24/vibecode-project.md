@@ -1,6 +1,6 @@
 ---
 title: joejamal029/vibecode-project
-category: world/public/vault/daily-digests/2026-06-24
+category: daily-digests/2026-06-24
 tech_stack:
 - Python
 - Gemini 3.1

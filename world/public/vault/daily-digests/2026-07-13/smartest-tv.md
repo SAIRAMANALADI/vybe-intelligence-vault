@@ -1,6 +1,6 @@
 ---
 title: inquisitive-genusvedalia144/smartest-tv
-category: world/public/vault/daily-digests/2026-07-13
+category: daily-digests/2026-07-13
 tech_stack:
 - Python
 - Windows Desktop App

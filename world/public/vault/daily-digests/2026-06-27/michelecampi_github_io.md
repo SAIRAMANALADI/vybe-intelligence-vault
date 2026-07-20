@@ -1,6 +1,6 @@
 ---
 title: MicheleCampi/michelecampi.github.io
-category: world/public/vault/daily-digests/2026-06-27
+category: daily-digests/2026-06-27
 tech_stack:
 - Ruby
 - Rust
