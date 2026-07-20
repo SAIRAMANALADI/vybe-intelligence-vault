@@ -1,13 +1,27 @@
 ---
-title: "financial-reports/financial-reports-mcp-server"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "FastMCP", "Model Context Protocol (MCP)", "AWS Cognito", "OAuth 2.0", "PKCE", "Dynamic Client Registration", "Streamable HTTP"]
+title: financial-reports/financial-reports-mcp-server
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- FastAPI
+- FastMCP
+- Model Context Protocol (MCP)
+- AWS Cognito
+- OAuth 2.0
+- PKCE
+- Dynamic Client Registration
+- Streamable HTTP
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "financial data", "regulatory filings", "LLM integration", "corporate information"]
-source: "https://github.com/financial-reports/financial-reports-mcp-server"
-discovered_at: "2026-07-19T19:13:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- financial data
+- regulatory filings
+- LLM integration
+- corporate information
+source: https://github.com/financial-reports/financial-reports-mcp-server
+discovered_at: '2026-07-19T19:13:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

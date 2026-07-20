@@ -4,14 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-07-20T20:07:43.381343+05:30'
+collected_at: '2026-07-21T01:30:05.064277+05:30'
 published_at: '2026-07-19T08:23:22Z'
 tags:
 - agents
-- benchmark
 - frontend_ui
 - github-repo
+- hackernews
 - typescript
+- workflows
 stars: 530
 language: TypeScript
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-07-20T20:07:43.381343+05:30'
-last_seen: '2026-07-20T20:07:43.381343+05:30'
-last_checked: '2026-07-20T20:07:43.381343+05:30'
+first_seen: '2026-07-21T01:30:05.064277+05:30'
+last_seen: '2026-07-21T01:30:05.064277+05:30'
+last_checked: '2026-07-21T01:30:05.064277+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Language Best Practices Repository**: Curated collection of coding standards and best practices for TypeScript, Kotlin, Go, Java (Spring Boot), PHP (Laravel), Dart (Flutter), and JavaScript frameworks (React, Next.js, NestJS) to guide AI agents in optimal code generation.
-
-- **Framework-Specific Guidelines**: Provides structured rules for Android, iOS, Angular, React Native, and other platforms, ensuring AI agents adhere to platform-specific conventions and performance benchmarks.
-
-- **Agentic AI Integration**: Includes Cursor Rules and structured documentation to standardize AI agent behavior across repositories, enabling consistent, high-quality code output in collaborative development environments.
+- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding guidelines for AI agents, covering multiple frameworks (e.g., Angular, React, NestJS, Spring Boot) and platforms (Android, iOS, Flutter).
+- **Key Features**: Includes framework-specific coding standards, cursor rules, and agentic AI best practices to ensure consistency and efficiency in AI-driven development workflows.
+- **Metadata**: 530 stars, 153 forks, last updated July 19, 2026, with topics spanning agentic AI, mobile/desktop frameworks, and backend technologies.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-07-20T22:17:31.980450+05:30'
+collected_at: '2026-07-21T01:29:10.047207+05:30'
 published_at: '2026-07-18T19:14:58Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-07-20T22:17:31.980450+05:30'
-last_seen: '2026-07-20T22:17:31.980450+05:30'
-last_checked: '2026-07-20T22:17:31.980450+05:30'
+first_seen: '2026-07-21T01:29:10.047207+05:30'
+last_seen: '2026-07-21T01:29:10.047207+05:30'
+last_checked: '2026-07-21T01:29:10.047207+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Introduces a novel **KDD 2026** framework, **MemGraphRAG**, leveraging a **memory-driven architecture** for **multi-agent collaboration** to enhance **Graph Retrieval-Augmented Generation (GraphRAG)**.
+- **Memory-based Multi-Agent System**: Introduces a novel **MemGraphRAG** framework leveraging memory-augmented agents for **graph-based Retrieval-Augmented Generation (RAG)**, enabling dynamic knowledge integration and reasoning over structured graph data.
 
-- **Graph & Ontology Construction**: Implements **dynamic graph construction** and **ontology integration** to structure knowledge, enabling efficient **contextual retrieval** and **semantic reasoning** for downstream tasks.
+- **Graph Construction & Ontology Integration**: Implements **automated graph construction** with **ontology alignment** to enhance semantic understanding, facilitating efficient multi-agent collaboration for knowledge retrieval and generation tasks.
 
-- **Python Implementation**: Provides an open-source **Python-based** toolkit with **agent-memory** mechanisms, optimized for **scalable knowledge graphs** and **multi-agent coordination** in RAG pipelines.
+- **Python Implementation**: Provides an open-source **Python-based** implementation with modular components for **graph memory management**, **agent coordination**, and **RAG pipeline optimization**, optimized for scalability and extensibility.
 
 ## Why It Matters
 

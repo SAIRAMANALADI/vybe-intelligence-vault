@@ -1,13 +1,23 @@
 ---
-title: "Pallid-pilotballoon266/Orbination-AI-Desktop-Vision-Control"
-category: "Tooling"
-tech_stack: ["C#", "Windows UIAutomation", "OCR", "MCP (Model Context Protocol)", "Batch Automation"]
+title: Pallid-pilotballoon266/Orbination-AI-Desktop-Vision-Control
+category: daily-digests/2026-07-20
+tech_stack:
+- C#
+- Windows UIAutomation
+- OCR
+- MCP (Model Context Protocol)
+- Batch Automation
 quality_score: 7
 rag_relevance: 8
-tags: ["Windows automation", "OCR", "UI control", "AI desktop interaction", "accessibility"]
-source: "https://github.com/Pallid-pilotballoon266/Orbination-AI-Desktop-Vision-Control"
-discovered_at: "2026-07-14T12:10:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Windows automation
+- OCR
+- UI control
+- AI desktop interaction
+- accessibility
+source: https://github.com/Pallid-pilotballoon266/Orbination-AI-Desktop-Vision-Control
+discovered_at: '2026-07-14T12:10:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

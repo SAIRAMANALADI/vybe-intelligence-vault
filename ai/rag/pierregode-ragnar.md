@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PierreGode/Ragnar
-collected_at: '2026-07-20T22:17:11.899996+05:30'
-published_at: '2026-07-20T15:24:08Z'
+collected_at: '2026-07-21T01:28:49.993476+05:30'
+published_at: '2026-07-20T19:52:35Z'
 tags:
 - github-repo
 - paper
@@ -17,11 +17,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2025-11-01T03:12:25Z'
-pushed_at: '2026-07-20T15:21:11Z'
+pushed_at: '2026-07-20T18:33:58Z'
 resource_id: github:pierregode/ragnar
-first_seen: '2026-07-20T22:17:11.899996+05:30'
-last_seen: '2026-07-20T22:17:11.899996+05:30'
-last_checked: '2026-07-20T22:17:11.899996+05:30'
+first_seen: '2026-07-21T01:28:49.993476+05:30'
+last_seen: '2026-07-21T01:28:49.993476+05:30'
+last_checked: '2026-07-21T01:28:49.993476+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Ragnar is a Python-based offensive security tool designed for Raspberry Pi, integrating a 2.13-inch e-Paper HAT for network scanning, target discovery, port enumeration, service identification, and vulnerability assessment.
+- **Network Scanning & Offensive Security Tool**: Ragnar is a Python-based utility designed for Raspberry Pi, leveraging a 2.13-inch e-Paper HAT for network discovery, including target identification, open port enumeration, exposed service detection, and vulnerability assessment.
 
-- **Hardware Integration**: Utilizes a 2.13-inch e-Paper HAT for display, enabling portable and low-power operation for field deployments.
+- **Integration with Bjorn**: Functions as the parent tool to Bjorn, suggesting a modular architecture where Ragnar handles primary scanning tasks while delegating specialized operations to Bjorn.
 
-- **Capabilities**: Automates reconnaissance (e.g., Nmap integration), exposes service enumeration, and identifies vulnerabilities in discovered targets.
+- **Hardware-Software Synergy**: Optimized for Raspberry Pi hardware, utilizing the e-Paper HAT for low-power, high-visibility output of scan results, enhancing portability and stealth in offensive security operations.
 
 ## Why It Matters
 
@@ -46,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 63
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-20T15:24:08Z
+- Last Updated: 2026-07-20T19:52:35Z
 - License: MIT
 - Archived: No
 - Created At: 2025-11-01T03:12:25Z
-- Pushed At: 2026-07-20T15:21:11Z
+- Pushed At: 2026-07-20T18:33:58Z
 
 ## Possible Use Cases
 

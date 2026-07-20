@@ -11,6 +11,7 @@ Curated highlights from the current week's collection, representing high-quality
 *   [Speechify: Text to Speech & Voice Typing AI Assistant | 60M+ Users](https://speechify.com/) (Score: 70) - Category: `ai-coding-agents/`
 *   [Blog | Bluesky](https://docs.bsky.app/blog) (Score: 70) - Category: `ai-coding-agents/`
 *   [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (Score: 70) - Category: `ai-coding-agents/`
+*   [How your Apple Card application is evaluated - Apple Support](https://support.apple.com/kb/HT209218) (Score: 70) - Category: `ai-coding-agents/`
 *   [Stylised pathways to “well below 2°C”](https://cicero.oslo.no/en/articles/stylised-pathways-to-well-below-2c) (Score: 70) - Category: `ai-coding-agents/`
 *   [bbPress Codex](https://codex.bbpress.org) (Score: 70) - Category: `ai-coding-agents/`
 *   [Photojournal - NASA Science](https://photojournal.jpl.nasa.gov/index.html) (Score: 70) - Category: `ai-coding-agents/`
@@ -18,6 +19,5 @@ Curated highlights from the current week's collection, representing high-quality
 *   [TriViewBench: Controlled Complexity Scaling for Multi-View Structural Reasoning in MLLMs](https://arxiv.org/abs/2606.26029) (Score: 70) - Category: `ai-coding-agents/`
 *   [Environmental Drivers of Respiratory Disease: A District Level Analysis](https://arxiv.org/abs/2607.04416) (Score: 70) - Category: `ai-coding-agents/`
 *   [Mitigating Early Training Collapse in CTR Models](https://arxiv.org/abs/2607.09696) (Score: 70) - Category: `ai-coding-agents/`
-*   [On the Optimal Reasoning Length for RL-Trained Language Models](https://arxiv.org/abs/2602.09591) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

@@ -13,13 +13,14 @@ collected_at: '2026-07-20T22:15:09.032301+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:sealed-tomb-filled-with-paintings-and-inscriptions
 first_seen: '2026-07-20T15:04:11.397372+05:30'
 last_seen: '2026-07-20T22:15:09.032301+05:30'
 last_checked: '2026-07-20T22:15:09.032301+05:30'
 health_score: 100
 ---
+
 
 # Sealed tomb filled with paintings and inscriptions discovered in Egypt
 

@@ -8,6 +8,7 @@ LLMOps observability tracks costs, latencies, tokens, and trace histories of act
 
 ## Top Matched Resources
 
+- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app) (benchmark - ESSENTIAL Tier)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
 - [AIRMap: AI-Generated Radio Maps for Wireless Digital Twins](https://arxiv.org/abs/2511.05522) (framework - USEFUL Tier)
 - [OpenTelemetry](https://opentelemetry.io/) (framework - USEFUL Tier)
@@ -15,15 +16,14 @@ LLMOps observability tracks costs, latencies, tokens, and trace histories of act
 - [HiFi-LLP: High-Fidelity, Low-Cost Latency Predictors with Confidence for Robust HW-NAS](https://arxiv.org/abs/2607.11746) (framework - USEFUL Tier)
 - [FlashTrie: A GPU-Accelerated Constrained Beam Search for Generative Retrieval](https://arxiv.org/abs/2607.10044) (framework - USEFUL Tier)
 - [Photonic convolutional neural network with pre-trained in situ training](https://arxiv.org/abs/2604.02429) (dataset - USEFUL Tier)
-- [Mitigating Heterogeneity-Induced Drift in Hierarchical Sign-Based Federated Learning](https://arxiv.org/abs/2602.02355) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/langfuse/langfuse (Langfuse)
 https://github.com/Arize-AI/phoenix (Arize Phoenix)
+- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
 - [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape)
-- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
 - [NicholasGoh/fastapi-mcp-langgraph-template](https://github.com/NicholasGoh/fastapi-mcp-langgraph-template)
 - [gnikoloff/webgpu-raytracer](https://github.com/gnikoloff/webgpu-raytracer)
 
@@ -43,4 +43,4 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 
 ---
 
-*Last updated: 2026-07-20 22:33 IST*
+*Last updated: 2026-07-21 01:44 IST*

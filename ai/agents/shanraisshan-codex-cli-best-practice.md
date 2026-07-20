@@ -4,13 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-07-20T22:18:22.051187+05:30'
+collected_at: '2026-07-21T01:30:00.117640+05:30'
 published_at: '2026-07-20T07:34:57Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - openai
 - python
+- scripts
 - workflows
 stars: 931
 language: Python
@@ -20,9 +22,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-07-20T22:18:22.051187+05:30'
-last_seen: '2026-07-20T22:18:22.051187+05:30'
-last_checked: '2026-07-20T22:18:22.051187+05:30'
+first_seen: '2026-07-21T01:30:00.117640+05:30'
+last_seen: '2026-07-21T01:30:00.117640+05:30'
+last_checked: '2026-07-21T01:30:00.117640+05:30'
 health_score: 100
 ---
 
@@ -30,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository provides structured methodologies for transitioning from *vibe coding* to *agentic engineering* using **Codex CLI**, emphasizing modular agentic workflows, hooks, and context engineering for AI-driven development.
+- **Agentic Workflow Integration**: Repository provides structured methodologies for transitioning from *vibe coding* to *agentic engineering* using OpenAI Codex CLI, emphasizing automation, context engineering, and modular agentic workflows.
 
-- **Codex CLI Best Practices**: Documents optimized **Codex CLI commands**, skills, and agentic patterns (e.g., `codex-cli-agents`, `codex-hooks`) to enhance productivity, reproducibility, and scalability in AI-assisted coding workflows.
+- **CLI & Hooks Optimization**: Implements advanced `codex-cli` commands, hooks, and skills for dynamic context injection, task decomposition, and stateful agent interactions, enabling reproducible AI-driven development cycles.
 
-- **Open-Source Contribution & Localization**: Open-source project (Python-based) with active community contributions, targeting **Pakistani developers** and broader AI engineering practices, last updated July 2026.
+- **Best Practice Framework**: Offers a curated set of Python-based templates and patterns for scalable AI agent orchestration, including skill chaining, error recovery, and performance benchmarking for enterprise-grade agentic systems.
 
 ## Why It Matters
 

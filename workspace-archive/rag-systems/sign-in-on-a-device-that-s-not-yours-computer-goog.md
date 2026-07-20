@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Guest Mode in Chrome**: Enables temporary sign-in on shared/public devices; browsing history, cookies, and site data are auto-deleted upon closure, while Google Account activity (e.g., Wallet) remains linked to the user’s profile.
-- **Private Browsing in Other Browsers**: Uses incognito/private windows (Safari/Firefox/Edge) to prevent local storage of search history/cookies; requires manual sign-out to fully disconnect the Google Account.
-- **Cache/Cookie Clearing for Non-Private Browsing**:
+- **Guest Mode in Chrome**: Uses a temporary session where browsing history, cookies, and site data are deleted upon exit, preventing account activity from being saved to the host device.
+- **Private Browsing in Other Browsers**: Similar to Guest Mode, private windows (Safari, Firefox, Edge) prevent local storage of session data but require manual cache/cookie clearing if Guest Mode is unavailable.
+- **Post-Session Cleanup**: Explicitly signing out and clearing browser cache/cookies ensures no r
 
 ## Use Cases
 

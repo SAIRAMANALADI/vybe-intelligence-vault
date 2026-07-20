@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-20T22:16:26.868636+05:30'
+collected_at: '2026-07-21T01:28:04.912249+05:30'
 published_at: '2026-07-14T09:11:11Z'
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
 - models
 - rag
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-20T22:16:26.868636+05:30'
-last_seen: '2026-07-20T22:16:26.868636+05:30'
-last_checked: '2026-07-20T22:16:26.868636+05:30'
+first_seen: '2026-07-21T01:28:04.912249+05:30'
+last_seen: '2026-07-21T01:28:04.912249+05:30'
+last_checked: '2026-07-21T01:28:04.912249+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Python-based Jupyter Notebook tool (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processes.
-
-- **Streamlit Integration**: Built with Streamlit for web-based UI, facilitating real-time visualization of RAG components (e.g., retrieval steps, context relevance, and model outputs) with dynamic user interaction.
-
-- **Technical Stack**: Leverages Python for core logic, with dependencies on LLM frameworks (e.g., Hugging Face Transformers) and visualization libraries (e.g., Plotly, Matplotlib) for rendering interactive graphs and metrics.
+- **Purpose**: Open-source Python tool using Jupyter Notebooks and Streamlit to **interactively visualize and debug Retrieval-Augmented Generation (RAG) pipelines**, enhancing transparency in LLM-based systems.
+- **Key Features**: Enables **dynamic exploration** of RAG components (retrieval, generation, and context) via interactive visualizations, supporting debugging and performance analysis.
+- **Tech Stack**: Built with **Streamlit** (UI), **Python**, and Jupyter Notebooks; integrates with LLM frameworks for real-time RAG pipeline inspection.
 
 ## Why It Matters
 

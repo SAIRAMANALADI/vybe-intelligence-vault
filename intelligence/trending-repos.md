@@ -6,7 +6,7 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | :--- | :--- | :--- |
 | [pmndrs/triplex](https://github.com/pmndrs/triplex) | `ai-coding-agents/` | 70 |
 | [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) | `ai-coding-agents/` | 70 |
-| [firecrawl repositories · GitHub](https://github.com/orgs/firecrawl/repositories?q=sort%3Astars) | `ai-coding-agents/` | 70 |
+| [DeckardGer/tanstack-agent-skills](https://github.com/DeckardGer/tanstack-agent-skills) | `ai-coding-agents/` | 70 |
 | [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) | `ai-coding-agents/` | 70 |
 | [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) | `ai-coding-agents/` | 70 |
 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | `ai-coding-agents/` | 70 |

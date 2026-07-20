@@ -1,13 +1,25 @@
 ---
-title: "neptaco/mcproc"
-category: "Orchestrator"
-tech_stack: ["Rust", "Model Context Protocol (MCP)", "gRPC", "Protocol Buffers", "Tokio", "Homebrew (for distribution)", "XDG Base Directory Specification"]
+title: neptaco/mcproc
+category: daily-digests/2026-07-20
+tech_stack:
+- Rust
+- Model Context Protocol (MCP)
+- gRPC
+- Protocol Buffers
+- Tokio
+- Homebrew (for distribution)
+- XDG Base Directory Specification
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP server", "process management", "AI agent integration", "background processes", "CLI tooling"]
-source: "https://github.com/neptaco/mcproc"
-discovered_at: "2026-07-18T19:02:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- process management
+- AI agent integration
+- background processes
+- CLI tooling
+source: https://github.com/neptaco/mcproc
+discovered_at: '2026-07-18T19:02:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

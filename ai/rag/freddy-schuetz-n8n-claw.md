@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-07-20T22:19:12.081678+05:30'
+collected_at: '2026-07-21T01:30:50.176517+05:30'
 published_at: '2026-07-19T16:45:01Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-07-17T20:06:51Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-07-20T22:19:12.081678+05:30'
-last_seen: '2026-07-20T22:19:12.081678+05:30'
-last_checked: '2026-07-20T22:19:12.081678+05:30'
+first_seen: '2026-07-21T01:30:50.176517+05:30'
+last_seen: '2026-07-21T01:30:50.176517+05:30'
+last_checked: '2026-07-21T01:30:50.176517+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous AI Agent Framework**: OpenClaw-inspired system built entirely in n8n, featuring adaptive Retrieval-Augmented Generation (RAG) memory, MCP-based Skills integration, and Expert Agents with delegated sub-agents for hierarchical task execution.
-
-- **Proactive Task & Media Handling**: Supports proactive task management, media understanding, and self-hosted deployment via a single setup script, leveraging tools like Crawl4AI for scraping and SearXNG for search engine functionality.
-
-- **Tech Stack & Integration**: Primarily shell-based, with dependencies on Supabase for storage, MCP for skill templates, and n8n for workflow orchestration, targeting AI agent frameworks and automation workflows.
+- **OpenClaw-inspired autonomous AI agent** implemented entirely in **n8n**, leveraging **adaptive RAG-powered memory** for dynamic context retention and retrieval.
+- **Modular architecture** with **MCP templates for Skills**, **delegated Expert Agents**, and **proactive task management**, supporting **media understanding** and **self-hosted deployment** via a single setup script.
+- **Integrated tooling stack** including **Crawl4AI** for web scraping, **SearXNG** for search, and **Supabase** for storage, with **Shell-based automation** for streamlined deployment.
 
 ## Why It Matters
 

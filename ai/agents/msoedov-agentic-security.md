@@ -4,13 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/msoedov/agentic_security
-collected_at: '2026-07-20T22:18:52.072275+05:30'
+collected_at: '2026-07-21T01:30:30.121623+05:30'
 published_at: '2026-07-19T22:50:41Z'
 tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - python
 stars: 1934
 language: Python
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-04-11T17:18:54Z'
 pushed_at: '2026-06-23T07:20:13Z'
 resource_id: github:msoedov/agentic_security
-first_seen: '2026-07-20T22:18:52.072275+05:30'
-last_seen: '2026-07-20T22:18:52.072275+05:30'
-last_checked: '2026-07-20T22:18:52.072275+05:30'
+first_seen: '2026-07-21T01:30:30.121623+05:30'
+last_seen: '2026-07-21T01:30:30.121623+05:30'
+last_checked: '2026-07-21T01:30:30.121623+05:30'
 health_score: 100
 ---
 
@@ -30,16 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Agentic LLM Vulnerability Scanner and AI red-teaming toolkit designed to evaluate and exploit weaknesses in LLM-based systems through automated fuzzing, jailbreak testing, and prompt injection detection.
-
-- **Key Features**:
-  - Supports **LLM fuzzing**, **jailbreak detection**, and **prompt testing** via an extensible agent framework.
-  - Aggregates results from multiple LLM security evaluation techniques (e.g., vulnerability scanning, guardrail bypasses).
-  - Implements **LLM-specific attack vectors** (e.g., prompt injection, adversarial prompts) for security assessment.
-
-- **Technical Stack**:
-  - **Language**: Python-based with modular agent architecture.
-  - **Use Cases**: AI security auditing, red teaming, and LLM evaluation frameworks.
+- **Purpose**: A Python-based agentic framework for LLM vulnerability scanning and AI red teaming, designed to evaluate and test LLM security, guardrails, and resilience against jailbreaks and prompt-based attacks.
+- **Features**: Includes an LLM fuzzer, scanner, and evaluation framework to aggregate and test LLM vulnerabilities, prompt testing, and security hardening.
+- **Scope**: Covers LLM security topics such as jailbreak detection, prompt injection, fuzzing, and evaluation of agent-framework vulnerabilities.
 
 ## Why It Matters
 

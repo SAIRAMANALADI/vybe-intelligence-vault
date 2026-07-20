@@ -1,13 +1,25 @@
 ---
-title: "berntpopp/genefoundry-router"
-category: "Orchestrator"
-tech_stack: ["Python 3.12+", "FastMCP", "Streamable HTTP", "uv (dependency manager)", "YAML (configuration)", "GitHub Actions (CI/CD)", "MIT License"]
+title: berntpopp/genefoundry-router
+category: daily-digests/2026-07-20
+tech_stack:
+- Python 3.12+
+- FastMCP
+- Streamable HTTP
+- uv (dependency manager)
+- YAML (configuration)
+- GitHub Actions (CI/CD)
+- MIT License
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP aggregator", "biomedical tools", "federated search", "namespaced tools", "RAG optimization"]
-source: "https://github.com/berntpopp/genefoundry-router"
-discovered_at: "2026-07-14T12:10:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP aggregator
+- biomedical tools
+- federated search
+- namespaced tools
+- RAG optimization
+source: https://github.com/berntpopp/genefoundry-router
+discovered_at: '2026-07-14T12:10:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

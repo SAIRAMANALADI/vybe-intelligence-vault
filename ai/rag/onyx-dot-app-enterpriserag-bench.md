@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-07-20T22:17:06.935031+05:30'
+collected_at: '2026-07-21T01:28:44.996348+05:30'
 published_at: '2026-07-19T14:44:32Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - rag
 - unknown
 stars: 469
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-07-20T22:17:06.935031+05:30'
-last_seen: '2026-07-20T22:17:06.935031+05:30'
-last_checked: '2026-07-20T22:17:06.935031+05:30'
+first_seen: '2026-07-21T01:28:44.996348+05:30'
+last_seen: '2026-07-21T01:28:44.996348+05:30'
+last_checked: '2026-07-21T01:28:44.996348+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Dataset & Benchmark**: Provides a curated dataset and evaluation framework for Retrieval-Augmented Generation (RAG) systems tailored to company internal documents, enabling standardized assessment of performance in enterprise contexts.
-
-- **Synthetic Data Generation**: Implements automated synthetic data generation techniques to create diverse, realistic enterprise document-query pairs for robust RAG evaluation across domains like semantic search and QA.
-
-- **Evaluation Suite**: Includes Python-based tools for assessing RAG pipelines on metrics such as retrieval accuracy, answer correctness, and latency, supporting modular integration with LLMs and vector databases.
+- **Purpose**: Provides a benchmarking framework and synthetic dataset for evaluating Retrieval-Augmented Generation (RAG) systems on enterprise internal documents, focusing on real-world applicability.
+- **Components**: Includes synthetic data generation for knowledge bases, evaluation metrics for retrieval and generation, and Python-based tools for benchmarking RAG pipelines.
+- **Scope**: Covers enterprise search, semantic retrieval, LLM evaluation, and QA tasks, with support for multi-modal and cross-domain enterprise document analysis.
 
 ## Why It Matters
 

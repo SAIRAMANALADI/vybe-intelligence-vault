@@ -5,17 +5,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://speechify.com/medium
-published_at: '2026-07-20T03:47:32.277532+05:30'
-collected_at: '2026-07-20T03:47:32.277548+05:30'
+published_at: '2026-07-21T01:36:14.894930+05:30'
+collected_at: '2026-07-21T01:36:14.894951+05:30'
 tags:
 - producthunt
 - rag
 - web-crawled
+- workflows
 status: active
 resource_id: blog:medium-members-can-listen-to-any-medium-story-with
-first_seen: '2026-07-20T03:47:32.277548+05:30'
-last_seen: '2026-07-20T03:47:32.277548+05:30'
-last_checked: '2026-07-20T03:47:32.277548+05:30'
+first_seen: '2026-07-21T01:36:14.894951+05:30'
+last_seen: '2026-07-21T01:36:14.894951+05:30'
+last_checked: '2026-07-21T01:36:14.894951+05:30'
 health_score: 100
 ---
 
@@ -23,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Integration & Accessibility**: Medium's "Listen" feature, powered by Speechify's TTS engine, enables Medium members to convert any article into audio with synchronized text highlighting, enhancing accessibility for users with dyslexia, visual impairments, or those multitasking.
+- **Integration & Accessibility**: Medium’s "Listen" feature, powered by Speechify, enables Medium members to convert text-to-speech (TTS) for any story, with playback speeds adjustable from 0.5x to 4.5x, supporting multitasking (e.g., commuting, exercising) and accessibility for users with dyslexia or visual impairments.
 
-- **Performance & Customization**: Users can adjust playback speed (0.5x–4.5x) and select from multiple narrators, with reports of up to 3x higher content consumption and improved retention when combining listening with reading.
+- **Dual-Mode Consumption**: Speechify’s TTS highlights text in real-time as it reads aloud, enhancing comprehension and retention for users who prefer simultaneous auditory and visual input, particularly useful for proofreading drafts or consuming backlogged articles.
 
-- **Proofreading & Productivity**: Writers leverage the feature for proofreading drafts (via draft link sharing), while speed listening serves as a productivity tool for rapid content consumption during commutes, workouts, or chores.
+- **Customization & Workflow**: Users can switch between multiple AI narrators and adjust playback speed dynamically (up to 4.5x), optimizing for productivity or leisure, while writers leverage the feature for real-time editorial feedback.
 
 ## Why It Matters
 
@@ -37,13 +38,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T03:47:32.277532+05:30
+- Published: 2026-07-21T01:36:14.894930+05:30
 
 ## Related Tags
 
 - producthunt
 - rag
 - web-crawled
+- workflows
 
 ## Source
 

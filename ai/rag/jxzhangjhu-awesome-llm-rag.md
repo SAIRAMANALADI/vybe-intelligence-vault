@@ -4,14 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-07-20T22:16:51.891891+05:30'
+collected_at: '2026-07-21T01:28:29.959795+05:30'
 published_at: '2026-07-12T12:42:50Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - hackernews
-- models
 - paper
 - rag
 - unknown
@@ -22,9 +19,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-06-15T18:27:39Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-07-20T22:16:51.891891+05:30'
-last_seen: '2026-07-20T22:16:51.891891+05:30'
-last_checked: '2026-07-20T22:16:51.891891+05:30'
+first_seen: '2026-07-21T01:28:29.959795+05:30'
+last_seen: '2026-07-21T01:28:29.959795+05:30'
+last_checked: '2026-07-21T01:28:29.959795+05:30'
 health_score: 100
 ---
 
@@ -32,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Aggregates advanced techniques, frameworks, and research papers on retrieval-augmented generation (RAG) for LLMs, covering embeddings, retrieval mechanisms, and integration strategies.
-- **Multi-Topic Coverage**: Encompasses topics like LLM fine-tuning, embedding optimization, retrieval efficiency, and hybrid RAG architectures for enhanced generation quality.
-- **Active Maintenance**: Last updated July 2026, ensuring inclusion of recent advancements in RAG methodologies, tools, and benchmarking datasets.
+- **Curated resource**: A GitHub repository (`jxzhangjhu/Awesome-LLM-RAG`) compiling state-of-the-art techniques, papers, and tools for **Retrieval-Augmented Generation (RAG)** in Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and integration strategies.
+
+- **Technical scope**: Focuses on **advanced RAG methodologies**, including hybrid retrieval, multi-modal embeddings, and dynamic knowledge integration, with emphasis on optimizing LLM performance via external knowledge augmentation.
+
+- **Community-driven**: Actively maintained (last updated **2026-07-12**) with **1,339 stars** and **87 forks**, serving as a central hub for researchers and practitioners in LLM-RAG research.
 
 ## Why It Matters
 

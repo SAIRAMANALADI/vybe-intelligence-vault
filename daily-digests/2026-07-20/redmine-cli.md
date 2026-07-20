@@ -1,13 +1,24 @@
 ---
-title: "aarondpn/redmine-cli"
-category: "Tooling"
-tech_stack: ["Go", "GitHub Actions", "Docker", "Shell Scripting", "MCP (Model Context Protocol)", "Agent Skills"]
+title: aarondpn/redmine-cli
+category: daily-digests/2026-07-20
+tech_stack:
+- Go
+- GitHub Actions
+- Docker
+- Shell Scripting
+- MCP (Model Context Protocol)
+- Agent Skills
 quality_score: 9
 rag_relevance: 7
-tags: ["CLI", "Redmine", "Project Management", "AI Agent Integration", "MCP Server"]
-source: "https://github.com/aarondpn/redmine-cli"
-discovered_at: "2026-07-20T18:00:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CLI
+- Redmine
+- Project Management
+- AI Agent Integration
+- MCP Server
+source: https://github.com/aarondpn/redmine-cli
+discovered_at: '2026-07-20T18:00:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

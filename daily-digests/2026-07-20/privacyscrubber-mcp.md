@@ -1,13 +1,23 @@
 ---
-title: "moxno/privacyscrubber-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "JSON-RPC", "Smithery"]
+title: moxno/privacyscrubber-mcp
+category: daily-digests/2026-07-20
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- JSON-RPC
+- Smithery
 quality_score: 8
 rag_relevance: 9
-tags: ["PII sanitization", "zero-trust", "MCP server", "data privacy", "in-memory processing"]
-source: "https://github.com/moxno/privacyscrubber-mcp"
-discovered_at: "2026-07-11T18:59:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- PII sanitization
+- zero-trust
+- MCP server
+- data privacy
+- in-memory processing
+source: https://github.com/moxno/privacyscrubber-mcp
+discovered_at: '2026-07-11T18:59:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

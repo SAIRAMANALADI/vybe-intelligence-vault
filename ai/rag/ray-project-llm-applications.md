@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-07-20T22:17:27.073710+05:30'
+collected_at: '2026-07-21T01:29:05.024883+05:30'
 published_at: '2026-07-11T01:00:06Z'
 tags:
+- benchmark
 - github-repo
 - jupyter notebook
 - meta-ai
@@ -22,9 +23,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-07-20T22:17:27.073710+05:30'
-last_seen: '2026-07-20T22:17:27.073710+05:30'
-last_checked: '2026-07-20T22:17:27.073710+05:30'
+first_seen: '2026-07-21T01:29:05.024883+05:30'
+last_seen: '2026-07-21T01:29:05.024883+05:30'
+last_checked: '2026-07-21T01:29:05.024883+05:30'
 health_score: 100
 ---
 
@@ -32,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows leveraging Ray for distributed compute, with notebooks covering vector DB integration, retrieval strategies, and LLM prompt engineering.
-- **Multi-LLM Compatibility**: Supports fine-tuning and serving for Llama2, OpenAI, and Anyscale models, with examples for model adaptation, prompt templating, and latency optimization in production environments.
-- **Scalable Deployment**: Provides end-to-end guidance on Ray-based serving (e.g., Ray Serve), batch inference, and cost-efficient scaling, including monitoring, logging, and CI/CD integration for LLM applications.
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with examples leveraging Llama2, OpenAI, and Anyscale endpoints.
+- **Fine-Tuning & Optimization**: Includes notebooks for model fine-tuning (e.g., LoRA) and performance benchmarking, with optimizations for latency and throughput in LLM serving.
+- **Deployment & Scalability**: Provides end-to-end deployment guides using Ray Serve, covering horizontal scaling, batch inference, and integration with vector databases for real-time RAG applications.
 
 ## Why It Matters
 

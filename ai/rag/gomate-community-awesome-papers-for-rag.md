@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gomate-community/awesome-papers-for-rag
-collected_at: '2026-07-20T22:17:01.945321+05:30'
+collected_at: '2026-07-21T01:28:40.016461+05:30'
 published_at: '2026-07-01T02:40:05Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
-- meta-ai
-- models
 - paper
 - python
 - rag
@@ -23,9 +21,9 @@ archived: false
 created_at: '2024-02-23T08:38:47Z'
 pushed_at: '2025-10-31T14:16:08Z'
 resource_id: github:gomate-community/awesome-papers-for-rag
-first_seen: '2026-07-20T22:17:01.945321+05:30'
-last_seen: '2026-07-20T22:17:01.945321+05:30'
-last_checked: '2026-07-20T22:17:01.945321+05:30'
+first_seen: '2026-07-21T01:28:40.016461+05:30'
+last_seen: '2026-07-21T01:28:40.016461+05:30'
+last_checked: '2026-07-21T01:28:40.016461+05:30'
 health_score: 100
 ---
 
@@ -33,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG), including foundational works (e.g., Lewis et al., 2020) and recent advancements in hybrid retrieval-generation architectures.
-- **Python-Centric Implementation**: Focuses on Python-based implementations, tools, and libraries (e.g., LangChain, Haystack, LlamaIndex) for deploying RAG systems, with examples of integrating vector databases (FAISS, Chroma) and LLMs (HuggingFace Transformers).
-- **Maintenance & Updates**: Last updated July 2026, indicating ongoing curation of cutting-edge RAG research, including papers on retrieval optimization, memory-augmented models, and evaluation benchmarks (e.g., RAGTruth, CRAG).
+- **Curated RAG Resources**: GitHub repository hosting a structured collection of research papers, frameworks, and tools focused on Retrieval-Augmented Generation (RAG) methodologies.
+- **Metadata**: 136 stars, 12 forks, primarily Python-based, last updated July 1, 2026.
+- **Scope**: Encompasses foundational, applied, and emerging RAG techniques, including retrieval mechanisms, integration with LLMs, and evaluation benchmarks.
 
 ## Why It Matters
 

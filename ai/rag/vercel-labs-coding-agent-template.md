@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/coding-agent-template
-collected_at: '2026-07-20T22:18:02.015514+05:30'
+collected_at: '2026-07-21T01:29:40.097956+05:30'
 published_at: '2026-07-20T05:44:51Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-- workflows
 stars: 1749
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-09-23T14:00:46Z'
 pushed_at: '2026-04-13T21:44:42Z'
 resource_id: github:vercel-labs/coding-agent-template
-first_seen: '2026-07-20T22:18:02.015514+05:30'
-last_seen: '2026-07-20T22:18:02.015514+05:30'
-last_checked: '2026-07-20T22:18:02.015514+05:30'
+first_seen: '2026-07-21T01:29:40.097956+05:30'
+last_seen: '2026-07-21T01:29:40.097956+05:30'
+last_checked: '2026-07-21T01:29:40.097956+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Multi-agent AI coding platform leveraging Vercel Sandbox for isolated execution and AI Gateway for unified AI model access.
-- **Tech Stack**: Built with TypeScript, integrating Vercel’s serverless and AI infrastructure for scalable, distributed agent workflows.
-- **Key Features**: Enables autonomous or collaborative AI-driven coding tasks with sandboxed environments and seamless AI model switching via AI Gateway.
+- **Multi-agent architecture**: Template implements a distributed AI coding system leveraging Vercel Sandbox for isolated agent execution and AI Gateway for unified API access to LLMs.
+- **TypeScript-based**: Entire platform is built in TypeScript, ensuring type safety and compatibility with Vercel's ecosystem.
+- **Vercel-first design**: Integrates with Vercel Sandbox for secure code execution and AI Gateway for scalable, multi-model LLM orchestration.
 
 ## Why It Matters
 
@@ -42,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: vercel-labs
 - Stars: 1749
-- Forks: 286
+- Forks: 287
 - Language: TypeScript
 - Topics: None
 - Last Updated: 2026-07-20T05:44:51Z

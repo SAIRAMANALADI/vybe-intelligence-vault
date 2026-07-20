@@ -1,13 +1,25 @@
 ---
-title: "kaiser-data/kitsune-mcp"
-category: "Orchestrator"
-tech_stack: ["Python", "FastMCP", "uvx", "npx", "MCP (Model Context Protocol)", "GitHub Actions", "Docker"]
+title: kaiser-data/kitsune-mcp
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- FastMCP
+- uvx
+- npx
+- MCP (Model Context Protocol)
+- GitHub Actions
+- Docker
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP gateway", "dynamic tool mounting", "token optimization", "server orchestration", "schema validation"]
-source: "https://github.com/kaiser-data/kitsune-mcp"
-discovered_at: "2026-07-11T13:14:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP gateway
+- dynamic tool mounting
+- token optimization
+- server orchestration
+- schema validation
+source: https://github.com/kaiser-data/kitsune-mcp
+discovered_at: '2026-07-11T13:14:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

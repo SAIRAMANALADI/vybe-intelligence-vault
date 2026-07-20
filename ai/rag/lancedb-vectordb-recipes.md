@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-07-20T22:16:06.913426+05:30'
+collected_at: '2026-07-21T01:27:44.972288+05:30'
 published_at: '2026-07-20T15:07:29Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-07-20T22:16:06.913426+05:30'
-last_seen: '2026-07-20T22:16:06.913426+05:30'
-last_checked: '2026-07-20T22:16:06.913426+05:30'
+first_seen: '2026-07-21T01:27:44.972288+05:30'
+last_seen: '2026-07-21T01:27:44.972288+05:30'
+last_checked: '2026-07-21T01:27:44.972288+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Examples**: Repository provides Jupyter Notebook-based tutorials and examples for multimodal AI applications, including Retrieval-Augmented Generation (RAG) and agent-based systems, leveraging vector search and Large Language Models (LLMs).
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI systems, integrating vector search with LLMs (e.g., GPT-4-Vision, Llama-Index, LangChain).
 
-- **Tooling Integration**: Demonstrates integration with frameworks like LangChain, LlamaIndex, and OpenAI's GPT-4 Vision, showcasing fine-tuning, embedding generation, and multimodal data processing workflows.
+- **Vector Database Integration**: Demonstrates practical use cases of LanceDB for efficient vector search in AI pipelines, including embeddings, fine-tuning, and agent-based workflows.
 
-- **Vector Database Focus**: Utilizes LanceDB as the vector database backend, emphasizing efficient storage, retrieval, and querying of high-dimensional embeddings for AI-driven applications.
+- **Toolchain & Frameworks**: Covers integration with OpenAI APIs, LangChain, and Llama-Index, showcasing end-to-end solutions for deep learning, machine learning, and multimodal applications.
 
 ## Why It Matters
 

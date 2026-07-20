@@ -4,11 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-20T22:17:36.934483+05:30'
+collected_at: '2026-07-21T01:29:15.037281+05:30'
 published_at: '2026-07-02T21:11:00Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
+- models
 - python
 - rag
 stars: 173
@@ -19,9 +21,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-20T22:17:36.934483+05:30'
-last_seen: '2026-07-20T22:17:36.934483+05:30'
-last_checked: '2026-07-20T22:17:36.934483+05:30'
+first_seen: '2026-07-21T01:29:15.037281+05:30'
+last_seen: '2026-07-21T01:29:15.037281+05:30'
+last_checked: '2026-07-21T01:29:15.037281+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: UniversalRAG extends RAG to handle diverse modalities (text, images, tables) and granularities (document, paragraph, sentence) via a unified retrieval-augmented generation pipeline.
-- **Key Innovation**: Introduces modality-agnostic retrievers and granularity-aware fusion mechanisms to dynamically adapt to heterogeneous corpus structures.
-- **Technical Stack**: Implemented in Python with PyTorch, leveraging transformer-based encoders/decoders and cross-modal attention for unified multimodal processing.
+- **Framework Overview**: UniversalRAG extends RAG to handle diverse modalities (text, images, tables) and granularities (document, paragraph, sentence) via a unified retrieval and generation pipeline.
+- **Technical Innovation**: Implements modality-agnostic retrievers and modality-specific encoders, leveraging cross-modal attention for heterogeneous corpus integration.
+- **Performance**: Achieves state-of-the-art results on multimodal benchmarks (e.g., MM-RAG, UniEval) with minimal modality-specific fine-tuning.
 
 ## Why It Matters
 

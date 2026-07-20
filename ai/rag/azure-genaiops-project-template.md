@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-07-20T22:16:16.920280+05:30'
+collected_at: '2026-07-21T01:27:54.948678+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
+- openai
 - rag
-- scripts
 - workflows
 stars: 44
 language: Bicep
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-07-20T22:16:16.920280+05:30'
-last_seen: '2026-07-20T22:16:16.920280+05:30'
-last_checked: '2026-07-20T22:16:16.920280+05:30'
+first_seen: '2026-07-21T01:27:54.948678+05:30'
+last_seen: '2026-07-21T01:27:54.948678+05:30'
+last_checked: '2026-07-21T01:27:54.948678+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for Generative AI Ops with RAG (Retrieval-Augmented Generation) pipelines, enabling automated provisioning of Azure resources (e.g., AI Search, Cosmos DB, ACA/AKS) for scalable GenAI workflows.
+- **Infrastructure-as-Code (IaC) Template**: Uses Bicep for declarative Azure resource provisioning, enabling repeatable GenAIOps RAG (Retrieval-Augmented Generation) pipeline deployments with Azure services (e.g., Azure OpenAI, Cognitive Search, AKS).
 
-- **Modular Design**: Organized into reusable Bicep modules for core components (e.g., networking, compute, storage) with configurable parameters for customization across environments (dev/test/prod).
+- **RAG-Optimized Architecture**: Pre-configured for Retrieval-Augmented Generation workflows, integrating vector databases (Azure Cognitive Search) and LLM endpoints (Azure OpenAI) with CI/CD-ready pipelines.
 
-- **CI/CD Integration**: Includes GitHub Actions workflows for automated testing, validation, and deployment of GenAI Ops infrastructure, ensuring consistency and reproducibility.
+- **Ops-Ready Components**: Includes monitoring (Azure Monitor), logging (Azure Log Analytics), and security (RBAC, Private Endpoints) to support GenAIOps operational best practices.
 
 ## Why It Matters
 

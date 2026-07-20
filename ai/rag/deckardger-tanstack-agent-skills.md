@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-07-20T22:18:26.988320+05:30'
+collected_at: '2026-07-21T01:30:05.117867+05:30'
 published_at: '2026-07-19T01:32:42Z'
 tags:
 - agents
-- frontend_ui
 - github-repo
 - rag
 - reddit
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-07-20T22:18:26.988320+05:30'
-last_seen: '2026-07-20T22:18:26.988320+05:30'
-last_checked: '2026-07-20T22:18:26.988320+05:30'
+first_seen: '2026-07-21T01:30:05.117867+05:30'
+last_seen: '2026-07-21T01:30:05.117867+05:30'
+last_checked: '2026-07-21T01:30:05.117867+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications, leveraging TanStack Query's reactivity and performance optimizations.
+- **Optimized Caching Strategies**: Implements advanced TanStack Query patterns for efficient data caching and stale-while-revalidate (SWR) mechanisms, reducing redundant API calls in AI-driven applications.
 
-- **TanStack Router Best Practices**: Provides structured guidance on dynamic routing, lazy loading, and state management for SPAs, ensuring seamless navigation and performance in AI agent workflows.
+- **State Management Integration**: Demonstrates seamless synchronization between TanStack Router and Query for dynamic route-based data fetching, leveraging URL state for persistent client-side caching.
 
-- **TanStack Start Optimization**: Focuses on server-side rendering (SSR) and static site generation (SSG) strategies, integrating TanStack Start to enhance AI agent responsiveness and scalability.
+- **AI-Agent Adaptability**: Provides pre-configured hooks and utilities to adapt TanStack Query/Router/Start for AI coding agents, ensuring optimized performance in automated code generation and execution workflows.
 
 ## Why It Matters
 

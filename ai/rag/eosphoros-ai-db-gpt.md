@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/eosphoros-ai/DB-GPT
-collected_at: '2026-07-20T22:16:31.915851+05:30'
+collected_at: '2026-07-21T01:28:09.975912+05:30'
 published_at: '2026-07-20T16:06:42Z'
 tags:
 - agents
@@ -13,6 +13,7 @@ tags:
 - openai
 - python
 - rag
+- workflows
 stars: 19519
 language: Python
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2023-04-13T14:52:43Z'
 pushed_at: '2026-07-16T11:51:08Z'
 resource_id: github:eosphoros-ai/db-gpt
-first_seen: '2026-07-20T22:16:31.915851+05:30'
-last_seen: '2026-07-20T22:16:31.915851+05:30'
-last_checked: '2026-07-20T22:16:31.915851+05:30'
+first_seen: '2026-07-21T01:28:09.975912+05:30'
+last_seen: '2026-07-21T01:28:09.975912+05:30'
+last_checked: '2026-07-21T01:28:09.975912+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases via LLMs (e.g., DeepSeek, GPT-4) for querying, analysis, and RAG-based applications.
-- **Multi-Model & Private Deployment**: Supports Vicuna, GPT variants, and private LLMs; emphasizes security with local/private data processing for enterprise use.
-- **Python-Based Architecture**: Modular Python implementation with 19.5K+ stars, integrating agents, BGI (likely a proprietary component), and hacktoberfest contributions for extensibility.
+- **Agentic AI Framework**: DB-GPT is an open-source framework designed to act as an autonomous AI data assistant, integrating multi-agent systems for next-gen AI + Data applications.
+
+- **Database-Centric LLM Integration**: Supports private, secure interactions with databases using LLMs (e.g., GPT-4, DeepSeek, Vicuna) via RAG (Retrieval-Augmented Generation) for contextual query processing.
+
+- **Security & Extensibility**: Prioritizes private data handling with modular agentic workflows; includes hacktoberfest contributions and supports BGI (likely a proprietary or specialized component).
 
 ## Why It Matters
 

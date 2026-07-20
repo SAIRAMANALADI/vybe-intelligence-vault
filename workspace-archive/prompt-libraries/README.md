@@ -15,7 +15,7 @@ Well-crafted system and user prompts are the primary mechanism for directing LLM
 - [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) (framework - USEFUL Tier)
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) (framework - USEFUL Tier)
 - [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](https://github.com/lm-sys/FastChat/blob/main/fastchat/llm_judge/data/judge_prompts.jsonl) (template - USEFUL Tier)
-- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (framework - USEFUL Tier)
+- [pguso/rag-from-scratch](https://github.com/pguso/rag-from-scratch) (prompt - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -24,9 +24,9 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 - [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research)
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 - [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](https://github.com/lm-sys/FastChat/blob/main/fastchat/llm_judge/data/judge_prompts.jsonl)
+- [pguso/rag-from-scratch](https://github.com/pguso/rag-from-scratch)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
-- [junwoojeong100/azure-intelligent-app-labs](https://github.com/junwoojeong100/azure-intelligent-app-labs)
-- [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide)
+- [Danielskry/Awesome-RAG](https://github.com/Danielskry/Awesome-RAG)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 
 ---
 
-*Last updated: 2026-07-20 22:33 IST*
+*Last updated: 2026-07-21 01:44 IST*

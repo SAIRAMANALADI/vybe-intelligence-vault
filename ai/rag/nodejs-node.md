@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/nodejs/node/blob/main/SECURITY.md
-published_at: '2026-07-20T15:15:33.238619+05:30'
-collected_at: '2026-07-20T15:15:33.238628+05:30'
+published_at: '2026-07-21T01:37:11.341186+05:30'
+collected_at: '2026-07-21T01:37:11.341207+05:30'
 tags:
 - hackernews
 - rag
 - web-crawled
 status: active
 resource_id: github:nodejs/node
-first_seen: '2026-07-20T15:15:33.238628+05:30'
-last_seen: '2026-07-20T15:15:33.238628+05:30'
-last_checked: '2026-07-20T15:15:33.238628+05:30'
+first_seen: '2026-07-21T01:37:11.341207+05:30'
+last_seen: '2026-07-21T01:37:11.341207+05:30'
+last_checked: '2026-07-21T01:37:11.341207+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Reporting & Escalation Process**: Security bugs in Node.js are reported via [HackerOne](https://hackerone.com/nodejs) with acknowledgment within 5 days and detailed response within 10 days; escalation to `security@lists.openjsf.org` is permitted if no response is received within 6 business days or 14 days post-acknowledgment.
+- Security bugs in Node.js must be reported via [HackerOne](https://hackerone.com/nodejs) with initial acknowledgment within 5 days and detailed response within 10 days; escalation to `security@lists.openjsf.org` is possible if no response is received within 6 business days or 14 days post-acknowledgment.
 
-- **Disclosure Policy & Validation**: Security reports are validated across supported Node.js versions, with fixes prepared privately; CVEs are requested, and embargoes typically set 72 hours post-CVE issuance, followed by public disclosure via mailing list, repository, and blog within 6 hours.
+- Vulnerabilities are validated across all supported Node.js versions, with fixes prepared privately before embargoed disclosure (typically 72 hours post-CVE issuance), followed by public repository commits and Node.js blog advisories within 6 hours of mailing list notification.
 
-- **Vulnerability Criteria & Scope**: Valid vulnerabilities must exploit untrusted inputs (e.g., network data, file I/O) to cause data disclosure/loss, DoS, or unauthorized actions; experimental/platform-specific or flag-gated features are excluded from CVE issuance and bug bounties.
+- Node.js threat model excludes vulnerabilities requiring compromise of trusted elements (e.g., OS) or affecting experimental platforms/features behind compile-time flags/V8 flags; valid vulnerabilities must enable disclosure/loss of data integrity or runtime unavailability via untrusted inputs.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T15:15:33.238619+05:30
+- Published: 2026-07-21T01:37:11.341186+05:30
 
 ## Related Tags
 

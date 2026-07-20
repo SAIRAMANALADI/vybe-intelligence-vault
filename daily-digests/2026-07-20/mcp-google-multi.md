@@ -1,13 +1,24 @@
 ---
-title: "bakissation/mcp-google-multi"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "OAuth2", "AES-256-GCM", "REST APIs", "Model Context Protocol (MCP)"]
+title: bakissation/mcp-google-multi
+category: daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Node.js
+- OAuth2
+- AES-256-GCM
+- REST APIs
+- Model Context Protocol (MCP)
 quality_score: 9
 rag_relevance: 7
-tags: ["Google Workspace", "Multi-account", "OAuth2", "MCP server", "AI tooling"]
-source: "https://github.com/bakissation/mcp-google-multi"
-discovered_at: "2026-07-17T16:14:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Google Workspace
+- Multi-account
+- OAuth2
+- MCP server
+- AI tooling
+source: https://github.com/bakissation/mcp-google-multi
+discovered_at: '2026-07-17T16:14:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

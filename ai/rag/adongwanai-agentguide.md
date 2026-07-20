@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/adongwanai/AgentGuide
-collected_at: '2026-07-20T22:20:02.079628+05:30'
-published_at: '2026-07-20T15:53:44Z'
+collected_at: '2026-07-21T01:31:40.156243+05:30'
+published_at: '2026-07-20T18:42:30Z'
 tags:
 - agents
-- benchmark
 - github-repo
 - hackernews
 - html
+- models
 - rag
-stars: 7161
+stars: 7159
 language: HTML
 status: active
 archived: false
 created_at: '2025-11-03T10:46:38Z'
 pushed_at: '2026-07-09T03:48:25Z'
 resource_id: github:adongwanai/agentguide
-first_seen: '2026-07-20T22:20:02.079628+05:30'
-last_seen: '2026-07-20T22:20:02.079628+05:30'
-last_checked: '2026-07-20T22:20:02.079628+05:30'
+first_seen: '2026-07-21T01:31:40.156243+05:30'
+last_seen: '2026-07-21T01:31:40.156243+05:30'
+last_checked: '2026-07-21T01:31:40.156243+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive AI Agent Development Guide**: Covers LangGraph implementation, advanced RAG techniques, multi-agent systems, and reinforcement learning (GRPO) with practical tutorials and SFT methodologies.
+- **Comprehensive AI Agent Development Guide**: Covers advanced topics including LangGraph, RAG (Retrieval-Augmented Generation), multi-agent systems, and reinforcement learning (GRPO) with practical tutorials and SFT (Supervised Fine-Tuning) methodologies.
 
-- **Interview & Career Resources**: Includes curated interview questions, job-hunting strategies, and transition guides specifically for algorithm engineers and LLM roles, with a focus on CrewAI and GraphRAG frameworks.
+- **Career Transition & Interview Resources**: Provides specialized content for transitioning into AI roles (e.g., algorithm engineer) with curated interview question banks, model interview prep, and job-hunting strategies for large language model (LLM) positions.
 
-- **Technical Stack & Synthesis**: Integrates LangChain, GraphRAG, and data synthesis techniques, providing a structured repository for AI agent development, evaluation, and deployment.
+- **Technical Toolkit & Frameworks**: Integrates multiple agentic frameworks (LangChain, CrewAI, GraphRAG) and data synthesis techniques, offering hands-on implementations for real-world AI agent deployment and optimization.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: adongwanai
-- Stars: 7161
-- Forks: 712
+- Stars: 7159
+- Forks: 711
 - Language: HTML
 - Topics: agenticrag, ai-agent, crewai, graphrag, grpo, interview, job-hunting, langchain, llm, multi-agent, rag, sft, tutorial
-- Last Updated: 2026-07-20T15:53:44Z
+- Last Updated: 2026-07-20T18:42:30Z
 - Archived: No
 - Created At: 2025-11-03T10:46:38Z
 - Pushed At: 2026-07-09T03:48:25Z

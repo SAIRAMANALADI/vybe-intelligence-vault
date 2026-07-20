@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: http://www4.law.cornell.edu/uscode/17/107.html
-published_at: '2026-07-20T22:26:23.874577+05:30'
-collected_at: '2026-07-20T22:26:23.874590+05:30'
+published_at: '2026-07-21T01:35:09.752151+05:30'
+collected_at: '2026-07-21T01:35:09.752184+05:30'
 tags:
 - benchmark
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:17-u-s-code-ss-107-limitations-on-exclusive-rights
-first_seen: '2026-07-20T22:26:23.874590+05:30'
-last_seen: '2026-07-20T22:26:23.874590+05:30'
-last_checked: '2026-07-20T22:26:23.874590+05:30'
+first_seen: '2026-07-21T01:35:09.752184+05:30'
+last_seen: '2026-07-21T01:35:09.752184+05:30'
+last_checked: '2026-07-21T01:35:09.752184+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Fair use doctrine** codified under 17 U.S.C. § 107 permits limited reproduction/copying of copyrighted works for purposes such as criticism, comment, news reporting, teaching, scholarship, or research without infringement, explicitly overriding §§ 106 and 106A.
+- **Fair use doctrine**: Codified in 17 U.S. Code § 107, fair use permits reproduction/copying of copyrighted works for purposes like criticism, comment, news reporting, teaching, scholarship, or research, without infringement, despite § 106 exclusivity.
 
-- **Four statutory factors** govern fair use analysis: (1) purpose/character of use (commercial vs. nonprofit educational), (2) nature of copyrighted work, (3) amount/substantiality of portion used relative to whole, and (4) effect on market value/potential market.
+- **Four-factor test**: Determines fair use eligibility: (1) purpose/character (commercial vs. nonprofit educational), (2) nature of copyrighted work, (3) amount/substantiality of portion used, and (4) effect on potential market/value.
 
-- **Unpublished works** are not categorically excluded from fair use; determination relies on equitable balancing of the four factors on a case-by-case basis, with no rigid statutory definition provided.
+- **Unpublished works & classroom guidelines**: Unpublished status does not preclude fair use; guidelines for classroom copying (e.g., limited portions, not for substitution) were negotiated between educational institutions and copyright holders but remain non-binding.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T22:26:23.874577+05:30
+- Published: 2026-07-21T01:35:09.752151+05:30
 
 ## Related Tags
 

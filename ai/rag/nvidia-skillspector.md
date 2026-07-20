@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/SkillSpector
-collected_at: '2026-07-20T22:18:52.080954+05:30'
-published_at: '2026-07-20T14:56:27Z'
+collected_at: '2026-07-21T01:30:30.173154+05:30'
+published_at: '2026-07-20T19:34:21Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
-- workflows
-stars: 13466
+stars: 13468
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-03-21T00:28:43Z'
 pushed_at: '2026-07-14T23:13:01Z'
 resource_id: github:nvidia/skillspector
-first_seen: '2026-07-20T22:18:52.080954+05:30'
-last_seen: '2026-07-20T22:18:52.080954+05:30'
-last_checked: '2026-07-20T22:18:52.080954+05:30'
+first_seen: '2026-07-21T01:30:30.173154+05:30'
+last_seen: '2026-07-21T01:30:30.173154+05:30'
+last_checked: '2026-07-21T01:30:30.173154+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Static Analysis Tool**: SkillSpector performs static analysis on AI agent skills to detect vulnerabilities, malicious patterns, and security risks without executing the code.
-- **Python-Based**: Implemented in Python, leveraging libraries for AST parsing, pattern matching, and rule-based detection of security flaws.
-- **Rule-Driven Detection**: Uses predefined and customizable rules to identify issues such as privilege escalation, data exfiltration, and unsafe function calls in AI agent workflows.
+- **Static Analysis Tool**: SkillSpector performs static code analysis on AI agent skills to detect vulnerabilities, malicious patterns, and security risks without execution.
+- **Python-Based**: Implemented in Python, leveraging static analysis techniques (e.g., AST parsing, pattern matching) to evaluate AI skill codebases.
+- **NVIDIA Framework**: Designed for integration with NVIDIA's AI agent ecosystems, providing security auditing for skill definitions and dependencies.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NVIDIA
-- Stars: 13466
+- Stars: 13468
 - Forks: 1110
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-20T14:56:27Z
+- Last Updated: 2026-07-20T19:34:21Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-03-21T00:28:43Z

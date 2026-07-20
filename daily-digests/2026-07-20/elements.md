@@ -1,13 +1,31 @@
 ---
-title: "NVIDIA/elements"
-category: "UI Component"
-tech_stack: ["TypeScript", "Web Components", "React", "Angular", "Vue", "Svelte", "Lit", "Go", "pnpm", "Mise", "Vite", "Lighthouse", "Playwright"]
+title: NVIDIA/elements
+category: daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Web Components
+- React
+- Angular
+- Vue
+- Svelte
+- Lit
+- Go
+- pnpm
+- Mise
+- Vite
+- Lighthouse
+- Playwright
 quality_score: 9
 rag_relevance: 8
-tags: ["design system", "UI components", "agent harness", "AI infrastructure", "web components"]
-source: "https://github.com/NVIDIA/elements"
-discovered_at: "2026-07-20T19:53:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- design system
+- UI components
+- agent harness
+- AI infrastructure
+- web components
+source: https://github.com/NVIDIA/elements
+discovered_at: '2026-07-20T19:53:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

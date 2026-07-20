@@ -5,15 +5,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/mdn/content/blob/main/files/en-us/web/security/defenses/subresource_integrity/index.md?plain=1
-published_at: '2026-07-18T16:57:30.293853+05:30'
-collected_at: '2026-07-18T16:57:30.293860+05:30'
+published_at: '2026-07-21T01:37:06.822631+05:30'
+collected_at: '2026-07-21T01:37:06.822652+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: github:mdn/content
-first_seen: '2026-07-18T16:57:30.293860+05:30'
-last_seen: '2026-07-18T16:57:30.293860+05:30'
-last_checked: '2026-07-18T16:57:30.293860+05:30'
+first_seen: '2026-07-21T01:37:06.822652+05:30'
+last_seen: '2026-07-21T01:37:06.822652+05:30'
+last_checked: '2026-07-21T01:37:06.822652+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Subresource Integrity (SRI)** is a security mechanism that verifies the integrity of fetched resources (e.g., from CDNs) using cryptographic hashes (`sha256`, `sha384`, `sha512`) in the `integrity` attribute of `<script>` or `<link>` elements to prevent supply chain attacks.
+- **Purpose & Mechanism**: Subresource Integrity (SRI) uses cryptographic hashes (SHA-256/384/512) in the `integrity` attribute to verify fetched resources (scripts/stylesheets) against expected values, mitigating supply chain attacks via CDNs or third-party hosts.
 
-- **CORS Requirement**: SRI requires Cross-Origin Resource Sharing (CORS) headers (`Access-Control-Allow-Origin`) for cross-origin requests; the `crossorigin` attribute must be set in markup to enforce this.
+- **CORS Dependency & Enforcement**: SRI requires CORS-enabled cross-origin requests; the `crossorigin` attribute must be set, and the server must include `Access-Control-Allow-Origin` headers to permit integrity checks.
 
-- **Integrity Policy Headers**: The `Integrity-Policy` and `Integrity-Policy-Report-Only` HTTP headers enforce mandatory `integrity` attributes on subresources, blocking or reporting violations via the Reporting API.
+- **Policy Headers & Tools**: The `Integrity-Policy` header enforces SRI requirements (blocking or reporting violations), while tools like OpenSSL (`openssl dgst -sha384 -binary | openssl base64 -A`) and online generators (e.g., [srihash.org](https://srihash.org)) automate hash generation.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-18T16:57:30.293853+05:30
+- Published: 2026-07-21T01:37:06.822631+05:30
 
 ## Related Tags
 

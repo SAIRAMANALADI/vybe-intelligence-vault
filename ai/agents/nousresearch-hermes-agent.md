@@ -4,26 +4,28 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NousResearch/hermes-agent
-collected_at: '2026-07-20T22:19:07.076804+05:30'
-published_at: '2026-07-20T16:47:35Z'
+collected_at: '2026-07-21T01:30:45.151423+05:30'
+published_at: '2026-07-20T19:59:59Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- mistral
+- models
 - openai
 - python
-- scripts
-stars: 217652
+- workflows
+stars: 217715
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-07-22T22:22:28Z'
-pushed_at: '2026-07-20T16:48:01Z'
+pushed_at: '2026-07-20T19:57:03Z'
 resource_id: github:nousresearch/hermes-agent
-first_seen: '2026-07-20T22:19:07.076804+05:30'
-last_seen: '2026-07-20T22:19:07.076804+05:30'
-last_checked: '2026-07-20T22:19:07.076804+05:30'
+first_seen: '2026-07-21T01:30:45.151423+05:30'
+last_seen: '2026-07-21T01:30:45.151423+05:30'
+last_checked: '2026-07-21T01:30:45.151423+05:30'
 health_score: 100
 ---
 
@@ -31,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Model Agent Framework**: Hermes-Agent is a Python-based AI agent system supporting diverse LLMs (e.g., Anthropic, OpenAI, Codex) with extensible tool integration (e.g., `claude-code`, `moltbot`) for dynamic task execution.
-- **Self-Improving Architecture**: Implements adaptive learning mechanisms to evolve agent capabilities over time, optimizing performance through iterative feedback loops and toolchain interactions.
-- **High-Scale Deployment**: Optimized for large-scale deployments with 217K+ stars, featuring modular design, multi-agent collaboration, and compatibility with frameworks like `ClawDBot` for enterprise-grade AI automation.
+- **Multi-LLM Agent Framework**: Hermes-Agent is a modular Python-based AI agent system supporting integration with multiple LLM providers (e.g., Anthropic, OpenAI, Mistral) via standardized APIs, enabling cross-platform agentic workflows.
+
+- **Dynamic Skill Expansion**: Implements a plugin architecture for real-time skill/tool integration, allowing agents to adapt capabilities (e.g., code execution, web browsing) without core system modifications.
+
+- **Stateful Conversational Memory**: Utilizes persistent memory stores (e.g., vector DBs) for context retention across sessions, enabling long-term task continuity and personalized agent behavior.
 
 ## Why It Matters
 
@@ -42,15 +46,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NousResearch
-- Stars: 217652
-- Forks: 41034
+- Stars: 217715
+- Forks: 41052
 - Language: Python
 - Topics: ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw
-- Last Updated: 2026-07-20T16:47:35Z
+- Last Updated: 2026-07-20T19:59:59Z
 - License: MIT
 - Archived: No
 - Created At: 2025-07-22T22:22:28Z
-- Pushed At: 2026-07-20T16:48:01Z
+- Pushed At: 2026-07-20T19:57:03Z
 
 ## Possible Use Cases
 

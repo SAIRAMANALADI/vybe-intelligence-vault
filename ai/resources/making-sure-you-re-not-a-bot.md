@@ -3,17 +3,17 @@ title: Making sure you're not a bot!
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://lumendatabase.org/
-published_at: '2026-07-20T03:49:18.183422+05:30'
-collected_at: '2026-07-20T03:49:18.183437+05:30'
+source_url: https://lumendatabase.org/topics/14
+published_at: '2026-07-21T01:35:15.382255+05:30'
+collected_at: '2026-07-21T01:35:15.382273+05:30'
 tags:
 - scripts
 - web-crawled
 status: active
 resource_id: blog:making-sure-you-re-not-a-bot
-first_seen: '2026-07-20T03:49:18.183437+05:30'
-last_seen: '2026-07-20T03:49:18.183437+05:30'
-last_checked: '2026-07-20T03:49:18.183437+05:30'
+first_seen: '2026-07-21T01:35:15.382273+05:30'
+last_seen: '2026-07-21T01:35:15.382273+05:30'
+last_checked: '2026-07-21T01:35:15.382273+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Anubis employs a Proof-of-Work (PoW) scheme inspired by Hashcash** to mitigate aggressive AI-driven web scraping, imposing computational costs at scale while remaining negligible for individual users.
+- **Proof-of-Work Mechanism**: Anubis implements a Hashcash-inspired proof-of-work system to deter aggressive web scraping by increasing computational costs, particularly at scale, while remaining negligible for individual users.
 
-- **Aims to transition from PoW challenges to headless browser fingerprinting** (e.g., via font rendering analysis) to reduce friction for legitimate users, though JavaScript is currently required for implementation.
+- **Headless Browser Detection**: The system prioritizes fingerprinting and identifying headless browsers (e.g., via font rendering discrepancies) to reduce reliance on challenge pages for legitimate users.
 
-- **Requires modern JavaScript features** (disabled by plugins like JShelter), with a no-JS solution in development due to AI companies altering web hosting norms.
+- **JavaScript Dependency**: Anubis requires modern JavaScript to function, as a no-JS solution is still in development, due to shifts in how AI companies exploit website hosting norms.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-20T03:49:18.183422+05:30
+- Published: 2026-07-21T01:35:15.382255+05:30
 
 ## Related Tags
 
@@ -44,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://lumendatabase.org/
+Original source: https://lumendatabase.org/topics/14

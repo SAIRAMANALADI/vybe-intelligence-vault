@@ -4,28 +4,27 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-07-20T22:18:57.092514+05:30'
-published_at: '2026-07-20T16:13:23Z'
+collected_at: '2026-07-21T01:30:35.172608+05:30'
+published_at: '2026-07-20T19:02:05Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - python
 - rag
 - scripts
 - workflows
-stars: 3735
+stars: 3733
 language: Python
 status: active
 license: AGPL-3.0
 archived: false
 created_at: '2024-02-27T06:48:32Z'
-pushed_at: '2026-07-20T16:37:57Z'
+pushed_at: '2026-07-20T19:52:30Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-07-20T22:18:57.092514+05:30'
-last_seen: '2026-07-20T22:18:57.092514+05:30'
-last_checked: '2026-07-20T22:18:57.092514+05:30'
+first_seen: '2026-07-21T01:30:35.172608+05:30'
+last_seen: '2026-07-21T01:30:35.172608+05:30'
+last_checked: '2026-07-21T01:30:35.172608+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Platform Architecture**: Open-source security automation platform built with Python (FastAPI backend, Next.js frontend), leveraging **Temporal.io** for event-driven workflow orchestration and **Pydantic** for data validation.
-
-- **Core Features**: Low-code workflow engine with **OpenAPI** integration, designed for AI agents and teams to automate security operations via **LLM**-enabled orchestration and real-time monitoring.
-
-- **Technical Stack**: Combines **FastAPI** (API layer), **Temporal.io** (workflow engine), and **Pydantic** (data modeling) for scalable, secure automation with minimal boilerplate.
+- **Python-based open-source security automation platform** leveraging FastAPI, Pydantic, and TemporalIO for event-driven workflow orchestration, enabling low-code security automation for teams and AI agents.
+- **Integrates LLM capabilities** with OpenAPI-driven API design for AI agent interaction, supporting monitoring and security workflows with Next.js frontend.
+- **Modular architecture** with 3,733+ GitHub stars and 393 forks, emphasizing scalability via temporal workflows and OpenAPI schema validation.
 
 ## Why It Matters
 
@@ -46,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TracecatHQ
-- Stars: 3735
+- Stars: 3733
 - Forks: 393
 - Language: Python
 - Topics: agents, automation, event-driven, fastapi, llm, low-code, monitoring, nextjs, openapi, orchestration, pydantic, security, temporalio, workflow-engine
-- Last Updated: 2026-07-20T16:13:23Z
+- Last Updated: 2026-07-20T19:02:05Z
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2024-02-27T06:48:32Z
-- Pushed At: 2026-07-20T16:37:57Z
+- Pushed At: 2026-07-20T19:52:30Z
 
 ## Possible Use Cases
 

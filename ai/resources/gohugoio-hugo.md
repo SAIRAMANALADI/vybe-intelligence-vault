@@ -1,70 +1,49 @@
 ---
-title: gohugoio/hugo
+title: Release v0.164.0 · gohugoio/hugo · GitHub
 category: ai/resources
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/gohugoio/hugo
-collected_at: '2026-07-20T22:21:40.448504+05:30'
-published_at: '2026-07-20T14:24:52Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/gohugoio/hugo/releases/tag/v0.164.0
+published_at: '2026-07-21T01:33:12.808568+05:30'
+collected_at: '2026-07-21T01:33:12.808589+05:30'
 tags:
-- github-repo
-- go
-- workflows
-stars: 89033
-language: Go
+- frontend_ui
+- reddit
+- web-crawled
 status: active
-license: Apache-2.0
-archived: false
-created_at: '2013-07-04T15:26:26Z'
-pushed_at: '2026-07-13T08:58:38Z'
 resource_id: github:gohugoio/hugo
-first_seen: '2026-07-20T22:21:40.448504+05:30'
-last_seen: '2026-07-20T22:21:40.448504+05:30'
-last_checked: '2026-07-20T22:21:40.448504+05:30'
+first_seen: '2026-07-21T01:33:12.808589+05:30'
+last_seen: '2026-07-21T01:33:12.808589+05:30'
+last_checked: '2026-07-21T01:33:12.808589+05:30'
 health_score: 100
 ---
 
-# gohugoio/hugo
+# Release v0.164.0 · gohugoio/hugo · GitHub
 
 ## Summary
 
-- **Static Site Generator**: Hugo is a high-performance static site generator written in Go, optimized for speed and efficiency, enabling rapid website builds from Markdown, JSON, or other structured content.
+- **Syntax Highlighting & Template Enhancements**: Introduced dark/light mode pairs for Chroma highlighter styles and added new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), along with Pandoc citation support and `markup.rst.syntaxHighlight` configuration option.
 
-- **Modular Architecture**: Supports a plugin-based system with themes, shortcodes, and custom archetypes, allowing extensibility without sacrificing performance.
+- **Performance & Deprecations**: Fixed a performance regression (post-v0.128.0) affecting larger sites, deprecated `resources.PostProcess` in favor of `templates.Defer`, and improved template name lookup case-insensitivity.
 
-- **Cross-Platform & Scalable**: Compiles sites in milliseconds, supports multi-language content, and deploys to any static hosting provider, making it ideal for large-scale documentation and CMS workflows.
+- **Dependency Updates**: Upgraded core dependencies (e.g., `esbuild` v0.28.0→v0.28.1, `go-toml/v2` v2.3.1→v2.4.3) and added Chroma dark/light mode support via dependency bumps.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: gohugoio
-- Stars: 89033
-- Forks: 8294
-- Language: Go
-- Topics: blog-engine, cms, content-management-system, documentation-tool, go, hugo, static-site-generator
-- Last Updated: 2026-07-20T14:24:52Z
-- License: Apache-2.0
-- Archived: No
-- Created At: 2013-07-04T15:26:26Z
-- Pushed At: 2026-07-13T08:58:38Z
+- Source: Web Discovery
+- Category: ai/resources
+- Published: 2026-07-21T01:33:12.808568+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- frontend_ui
+- reddit
+- web-crawled
 
 ## Source
 
-Original source: https://github.com/gohugoio/hugo
+Original source: https://github.com/gohugoio/hugo/releases/tag/v0.164.0

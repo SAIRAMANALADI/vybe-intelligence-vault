@@ -1,13 +1,25 @@
 ---
-title: "88plug/amnesia"
-category: "Tooling"
-tech_stack: ["Claude Code", "Shell", "Python", "Markdown", "Git", "MCP (Model Context Protocol)", "Claude API"]
+title: 88plug/amnesia
+category: daily-digests/2026-07-20
+tech_stack:
+- Claude Code
+- Shell
+- Python
+- Markdown
+- Git
+- MCP (Model Context Protocol)
+- Claude API
 quality_score: 9
 rag_relevance: 8
-tags: ["context continuity", "Claude Code plugin", "agent memory", "compaction recovery", "structured handoff"]
-source: "https://github.com/88plug/amnesia"
-discovered_at: "2026-07-19T08:13:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- context continuity
+- Claude Code plugin
+- agent memory
+- compaction recovery
+- structured handoff
+source: https://github.com/88plug/amnesia
+discovered_at: '2026-07-19T08:13:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

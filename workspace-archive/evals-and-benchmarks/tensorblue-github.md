@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- GitHub user `tensorblue` (ID: 253736847) has 51 stars but **0 public repositories, projects, or packages** as of the snapshot.
-- User account has **2 followers** and **0 following**, with no activity visible in repositories/projects/packages.
-- GitHub’s UI indicates a **loading error** when attempting to access popular repositories, suggesting potential account deactivation or API/data retrieval issues.
+- GitHub user `tensorblue` has **0 public repositories, projects, or packages**, with **51 stars** across unspecified content.
+- User account shows **2 followers and 0 following**, with no visible activity or contributions.
+- GitHub’s UI indicates a **loading error** when attempting to display repositories, suggesting potential account deactivation or data retrieval issues.
 
 ## Use Cases
 

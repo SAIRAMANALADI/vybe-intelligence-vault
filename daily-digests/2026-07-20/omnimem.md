@@ -1,13 +1,25 @@
 ---
-title: "weksbwrx62862/omnimem"
-category: "Tooling"
-tech_stack: ["Python", "FSRS (Spaced Repetition Algorithm)", "Vector Embeddings", "REST API", "HTML Dashboard", "Pytest", "GitHub Actions"]
+title: weksbwrx62862/omnimem
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- FSRS (Spaced Repetition Algorithm)
+- Vector Embeddings
+- REST API
+- HTML Dashboard
+- Pytest
+- GitHub Actions
 quality_score: 8
 rag_relevance: 7
-tags: ["memory management", "spaced repetition", "FSRS algorithm", "semantic analysis", "knowledge retention"]
-source: "https://github.com/weksbwrx62862/omnimem"
-discovered_at: "2026-07-19T13:17:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory management
+- spaced repetition
+- FSRS algorithm
+- semantic analysis
+- knowledge retention
+source: https://github.com/weksbwrx62862/omnimem
+discovered_at: '2026-07-19T13:17:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -3,7 +3,7 @@ title: Sign in - Google Accounts
 archive_category: evals-and-benchmarks
 source_category: ai/resources
 source_url: https://takeout.google.com/settings/takeout
-resource_id: blog:sign-in-google-accounts
+resource_id: blog:sign-in-google-accounts-1bcf6bbd
 local_vault_path: ai/resources/sign-in-google-accounts.md
 quality_score: 70
 archive_score: 72

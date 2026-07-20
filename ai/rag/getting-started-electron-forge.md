@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://electronforge.io
-published_at: '2026-07-20T22:27:07.818726+05:30'
-collected_at: '2026-07-20T22:27:07.818739+05:30'
+published_at: '2026-07-21T01:36:08.539156+05:30'
+collected_at: '2026-07-21T01:36:08.539188+05:30'
 tags:
 - rag
 - web-crawled
 - workflows
 status: active
 resource_id: blog:getting-started-electron-forge
-first_seen: '2026-07-20T22:27:07.818739+05:30'
-last_seen: '2026-07-20T22:27:07.818739+05:30'
-last_checked: '2026-07-20T22:27:07.818739+05:30'
+first_seen: '2026-07-21T01:36:08.539188+05:30'
+last_seen: '2026-07-21T01:36:08.539188+05:30'
+last_checked: '2026-07-21T01:36:08.539188+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Electron Forge** is an all-in-one tool for packaging and distributing Electron apps, providing a full build pipeline with built-in support for code signing, installers, and artifact publishing, while allowing customization via its Plugin API, Makers, and Publishers.
+- **Electron Forge** is a unified build pipeline for Electron apps, supporting code signing, installers, and artifact publishing out-of-the-box, with extensibility via **Plugin API**, **Makers**, and **Publishers** for custom build logic and storage targets.
 
-- **Packaging dependencies** require `node_modules` on disk; Forge does not support Yarn PnP or symlinked dependencies—Yarn ≥2 must use `nodeLinker: node-modules`, and pnpm requires `node-linker=hoisted` in `.npmrc`.
+- **Packaging dependencies** requires `node_modules` on disk; Forge’s naive module resolution does not support Yarn PnP or symlinked dependencies—use `nodeLinker: node-modules` (Yarn ≥2) or `node-linker=hoisted` (pnpm) to ensure compatibility.
 
-- **Initialization and templates** are streamlined via `create-electron-app`, supporting first-party templates (`webpack`, `vite`, etc.) for modern JS tooling, while distributables are generated via `make` and published via `publish` with configurable publishers (e.g., GitHub).
+- **Initialization** is done via `create-electron-app`, supporting templates (`webpack`, `vite`, etc.) for modern JS tooling; distributables are generated via `make`, and publishing is handled via `publish` with configurable **Publishers** (e.g., GitHub).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T22:27:07.818726+05:30
+- Published: 2026-07-21T01:36:08.539156+05:30
 
 ## Related Tags
 

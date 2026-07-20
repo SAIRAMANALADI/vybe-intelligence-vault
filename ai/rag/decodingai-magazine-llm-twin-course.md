@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-07-20T22:16:46.922652+05:30'
+collected_at: '2026-07-21T01:28:24.978463+05:30'
 published_at: '2026-07-19T03:42:21Z'
 tags:
 - github-repo
 - hackernews
 - python
 - rag
+- scripts
 - workflows
 stars: 4374
 language: Python
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-07-20T22:16:46.922652+05:30'
-last_seen: '2026-07-20T22:16:46.922652+05:30'
-last_checked: '2026-07-20T22:16:46.922652+05:30'
+first_seen: '2026-07-21T01:28:24.978463+05:30'
+last_seen: '2026-07-21T01:28:24.978463+05:30'
+last_checked: '2026-07-21T01:28:24.978463+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Course Content**: Provides a structured, hands-on guide to building production-ready LLM and RAG systems using LLMOps best practices, including 12 hands-on lessons and source code.
+- **Course Structure**: Provides open-source code and 12 hands-on lessons for building a production-ready LLM and RAG system using LLMOps best practices, covering end-to-end development from model training to deployment.
 
-- **Technical Stack**: Utilizes Python-based tools (e.g., Bytewax, Qdrant, Pulumi) and integrates AWS, Docker, Comet-ML, Qwak, and Superlinked for MLOps, infrastructure-as-code, and generative AI workflows.
+- **Technical Stack**: Implements AWS, Pulumi (IaC), Bytewax (streaming), Qdrant (vector DB), Qwak (MLOps), and Comet.ml (experiment tracking) with Docker for containerization.
 
-- **Repository Metrics**: Maintained with 4,374 stars and 734 forks, last updated in July 2026, emphasizing scalability and modern ML engineering practices.
+- **Focus Areas**: Covers MLOps, ML system design, generative AI, and infrastructure automation, emphasizing scalable, production-grade LLM/RAG deployment workflows.
 
 ## Why It Matters
 

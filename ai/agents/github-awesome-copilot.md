@@ -4,15 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/github/awesome-copilot
-collected_at: '2026-07-20T22:17:36.966482+05:30'
-published_at: '2026-07-20T16:45:30Z'
+collected_at: '2026-07-21T01:29:15.051492+05:30'
+published_at: '2026-07-20T19:38:05Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
-- workflows
-stars: 36812
+stars: 36821
 language: Python
 status: active
 license: MIT
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-06-11T16:57:39Z'
 pushed_at: '2026-07-20T15:33:42Z'
 resource_id: github:github/awesome-copilot
-first_seen: '2026-07-20T22:17:36.966482+05:30'
-last_seen: '2026-07-20T22:17:36.966482+05:30'
-last_checked: '2026-07-20T22:17:36.966482+05:30'
+first_seen: '2026-07-21T01:29:15.051492+05:30'
+last_seen: '2026-07-21T01:29:15.051492+05:30'
+last_checked: '2026-07-21T01:29:15.051492+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Curated collection of community-driven resources for GitHub Copilot, including instructions, agents, skills, and configurations to enhance productivity and customization.
-
-- **Technical Scope**: Primarily Python-based, covering agent skills, custom agents, prompt engineering, and AI-driven workflows, with active contributions under `hacktoberfest`.
-
-- **Metadata**: 36,812 stars, 4,608 forks; last updated July 20, 2026. Focuses on extensibility and AI integration for Copilot workflows.
+- **Curated Resources**: Repository aggregating community-contributed instructions, agents, skills, and configurations to enhance GitHub Copilot usage across various domains.
+- **Technical Scope**: Focuses on Python-based implementations, prompt engineering, and custom agent development for GitHub Copilot integration.
+- **Community-Driven**: Actively maintained with contributions under `hacktoberfest`, last updated in July 2026, and includes 36.8K+ stars and 4.6K+ forks.
 
 ## Why It Matters
 
@@ -43,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: github
-- Stars: 36812
-- Forks: 4608
+- Stars: 36821
+- Forks: 4607
 - Language: Python
 - Topics: agent-skills, agents, ai, awesome, custom-agents, github-copilot, hacktoberfest, prompt-engineering
-- Last Updated: 2026-07-20T16:45:30Z
+- Last Updated: 2026-07-20T19:38:05Z
 - License: MIT
 - Archived: No
 - Created At: 2025-06-11T16:57:39Z

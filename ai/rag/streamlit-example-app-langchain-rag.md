@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-07-20T22:16:36.923280+05:30'
+collected_at: '2026-07-21T01:28:14.995647+05:30'
 published_at: '2026-07-16T10:59:46Z'
 tags:
 - github-repo
+- openai
 - python
 - rag
 stars: 158
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-07-20T22:16:36.923280+05:30'
-last_seen: '2026-07-20T22:16:36.923280+05:30'
-last_checked: '2026-07-20T22:16:36.923280+05:30'
+first_seen: '2026-07-21T01:28:14.995647+05:30'
+last_seen: '2026-07-21T01:28:14.995647+05:30'
+last_checked: '2026-07-21T01:28:14.995647+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- Implements a **Streamlit-based RAG pipeline** using **LangChain** for document retrieval and generation, integrating a **vector store** (e.g., FAISS or Chroma) for semantic search.
-- Demonstrates **hybrid search** combining **vector similarity** and **keyword-based retrieval** to enhance answer relevance and accuracy.
-- Provides a **modular Python implementation** with clear separation of components (embedding, retrieval, LLM integration) for scalability and customization.
+- **Hybrid RAG Pipeline**: Implements a Streamlit app combining LangChain with retrieval-augmented generation (RAG), integrating a vector store and hybrid search (combining dense and sparse retrieval methods) for enhanced document retrieval.
+
+- **Modular Architecture**: Uses LangChain's modular components (e.g., `RetrievalQA`, `VectorStore`) to chain document processing, embedding generation (e.g., HuggingFace embeddings), and LLM inference (e.g., OpenAI or local models).
+
+- **Streamlit UI Integration**: Provides a real-time web interface for querying the RAG system, displaying retrieved context, and streaming generated responses, with configurable parameters (e.g., chunk size, retrieval top-k).
 
 ## Why It Matters
 

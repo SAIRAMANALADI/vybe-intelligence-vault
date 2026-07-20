@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Core Data Structures in R**: Vectors (1D, homogeneous), lists (1D, heterogeneous), and data frames (2D, tabular, column-wise heterogeneous) form the foundation of R data manipulation.
-- **Data Analysis Workflow**: Import, clean, transform, and visualize data using R’s base functions and packages like `dplyr` and `ggplot2` for efficient analysis.
-- **Hands-on Practice**: Apply concepts to real-world datasets (e.g., CSV/Excel files) using RStudio or Jupyter Notebooks to reinforce learning thro
+- **Core Data Structures in R**: Vectors (homogeneous 1D arrays), lists (heterogeneous collections), and data frames (tabular structures with rows/columns) form the foundation of R data manipulation.
+- **Practical Implementation**: Apply these structures to real datasets for hands-on experience in indexing, subsetting, and basic operations (e.g., `subset()`, `merge()`, `apply()`).
+- **Workflow Integration**: Combine data wrangling (e.g., `dplyr`, `tidyr`) with visualization (e.g., `ggplot2`) to
 
 ## Use Cases
 

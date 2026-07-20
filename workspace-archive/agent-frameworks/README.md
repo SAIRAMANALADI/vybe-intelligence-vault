@@ -8,14 +8,14 @@ Agent frameworks simplify state management, tool usage, and memory in multi-agen
 
 ## Top Matched Resources
 
-- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) (framework - ESSENTIAL Tier)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
 - [deepset-ai/haystack-experimental](https://github.com/deepset-ai/haystack-experimental) (framework - ESSENTIAL Tier)
 - [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
-- [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents) (framework - ESSENTIAL Tier)
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (api - ESSENTIAL Tier)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page-----dba899ae0355---------------------------------------) (framework - ESSENTIAL Tier)
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (framework - ESSENTIAL Tier)
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (product - ESSENTIAL Tier)
+- [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (framework - ESSENTIAL Tier)
+- [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -26,7 +26,7 @@ https://github.com/pydantic/pydantic-ai (Pydantic AI)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
 - [deepset-ai/haystack-experimental](https://github.com/deepset-ai/haystack-experimental)
 - [langgenius/dify](https://github.com/langgenius/dify)
-- [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents)
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/pydantic/pydantic-ai (Pydantic AI)
 
 ---
 
-*Last updated: 2026-07-20 22:32 IST*
+*Last updated: 2026-07-21 01:44 IST*

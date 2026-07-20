@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sierra-research/tau2-bench
-collected_at: '2026-07-20T22:18:42.126875+05:30'
+collected_at: '2026-07-21T01:30:20.170788+05:30'
 published_at: '2026-07-20T13:36:08Z'
 tags:
 - agents
@@ -12,18 +12,17 @@ tags:
 - github-repo
 - hackernews
 - python
-- reddit
 stars: 1622
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-06-09T23:46:17Z'
-pushed_at: '2026-07-18T00:10:38Z'
+pushed_at: '2026-07-20T19:04:40Z'
 resource_id: github:sierra-research/tau2-bench
-first_seen: '2026-07-20T22:18:42.126875+05:30'
-last_seen: '2026-07-20T22:18:42.126875+05:30'
-last_checked: '2026-07-20T22:18:42.126875+05:30'
+first_seen: '2026-07-21T01:30:20.170788+05:30'
+last_seen: '2026-07-21T01:30:20.170788+05:30'
+last_checked: '2026-07-21T01:30:20.170788+05:30'
 health_score: 100
 ---
 
@@ -32,8 +31,10 @@ health_score: 100
 ## Summary
 
 - **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions across real-world domains, focusing on conversational agents and LLM-based systems with tool integration.
+
 - **Technical Scope**: Implemented in Python, the benchmark assesses multi-turn interactions, tool-use efficiency, and adaptability in dynamic environments.
-- **Evaluation Metrics**: Measures performance via task completion rates, latency, and robustness to user/tool variability, with updates as of July 2026.
+
+- **Evaluation Metrics**: Measures performance via task completion rates, latency, and robustness under varying user-agent-tool configurations.
 
 ## Why It Matters
 
@@ -50,7 +51,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2025-06-09T23:46:17Z
-- Pushed At: 2026-07-18T00:10:38Z
+- Pushed At: 2026-07-20T19:04:40Z
 
 ## Possible Use Cases
 

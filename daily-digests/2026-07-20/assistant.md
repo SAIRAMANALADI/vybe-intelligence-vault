@@ -1,13 +1,31 @@
 ---
-title: "elitecoder/assistant"
-category: "Orchestrator"
-tech_stack: ["Python", "Claude Code", "LLM (Triage Model)", "GitHub CLI", "Slack API", "Google APIs (Gmail, Calendar)", "Microsoft 365 (Outlook)", "JIRA API", "OAuth", "LaunchAgent (macOS)", "JSONL", "Obsidian", "Mem0"]
+title: elitecoder/assistant
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- Claude Code
+- LLM (Triage Model)
+- GitHub CLI
+- Slack API
+- Google APIs (Gmail, Calendar)
+- Microsoft 365 (Outlook)
+- JIRA API
+- OAuth
+- LaunchAgent (macOS)
+- JSONL
+- Obsidian
+- Mem0
 quality_score: 9
 rag_relevance: 7
-tags: ["automation", "workflow orchestration", "deterministic AI", "Claude Code integration", "rule-based learning"]
-source: "https://github.com/elitecoder/assistant"
-discovered_at: "2026-07-12T22:44:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- automation
+- workflow orchestration
+- deterministic AI
+- Claude Code integration
+- rule-based learning
+source: https://github.com/elitecoder/assistant
+discovered_at: '2026-07-12T22:44:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

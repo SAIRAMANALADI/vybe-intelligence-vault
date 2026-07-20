@@ -3,9 +3,9 @@ title: GitHub Status
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.githubstatus.com
-published_at: '2026-07-20T22:26:30.872147+05:30'
-collected_at: '2026-07-20T22:26:30.872162+05:30'
+source_url: https://www.githubstatus.com/
+published_at: '2026-07-21T01:32:56.869982+05:30'
+collected_at: '2026-07-21T01:32:56.870004+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-status
-first_seen: '2026-07-20T22:26:30.872162+05:30'
-last_seen: '2026-07-20T22:26:30.872162+05:30'
-last_checked: '2026-07-20T22:26:30.872162+05:30'
+first_seen: '2026-07-21T01:32:56.870004+05:30'
+last_seen: '2026-07-21T01:32:56.870004+05:30'
+last_checked: '2026-07-21T01:32:56.870004+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Incident Report**: GitHub Copilot AI Model Providers (GPT 5.3 Codex) experienced degraded performance due to upstream provider errors, causing failed/incomplete responses; mitigation via traffic rerouting is in progress.
-- **Uptime Metrics**: GitHub Enterprise Cloud services (e.g., Git Operations, API Requests, Actions) maintain high availability (99.71–100% uptime over 90 days), with real-time status tracked via regional dashboards (AU/EU/JP/US).
-- **Notification Systems**: Users can subscribe to incident updates via email, SMS (global carrier support), Slack, or webhooks for real-time alerts on status changes, failures, or resolutions.
+- **GitHub Status Page** provides real-time operational status for GitHub services (e.g., GitHub Actions, API Requests, Issues) with historical uptime metrics (90-day windows) and incident tracking.
+- **Multi-Channel Incident Notifications** supported via email, SMS (global phone codes), Slack, and webhooks for automated incident updates (create/update/resolve).
+- **Regional Status Endpoints** available for GitHub Enterprise Cloud (Australia, EU, Japan, US) alongside aggregated service health dashboards (e.g., 99.99% uptime for Git Operations).
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T22:26:30.872147+05:30
+- Published: 2026-07-21T01:32:56.869982+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.githubstatus.com
+Original source: https://www.githubstatus.com/

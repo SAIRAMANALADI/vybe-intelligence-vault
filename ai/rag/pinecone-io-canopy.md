@@ -6,7 +6,7 @@ source_name: GitHub Discovery
 source_url: https://github.com/pinecone-io/canopy?source=post_page
 resource_id: github:pinecone-io/canopy
 -----dba899ae0355---------------------------------------
-collected_at: '2026-07-20T20:09:23.526886+05:30'
+collected_at: '2026-07-21T01:31:50.226937+05:30'
 published_at: '2026-07-08T12:32:04Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: true
 created_at: '2023-08-08T15:42:16Z'
 pushed_at: '2024-11-13T06:32:28Z'
 resource_id: github:pinecone-io/canopy
-first_seen: '2026-07-20T20:09:23.526886+05:30'
-last_seen: '2026-07-20T20:09:23.526886+05:30'
-last_checked: '2026-07-20T20:09:23.526886+05:30'
+first_seen: '2026-07-21T01:31:50.226937+05:30'
+last_seen: '2026-07-21T01:31:50.226937+05:30'
+last_checked: '2026-07-21T01:31:50.226937+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Framework**: Canopy is a Retrieval Augmented Generation (RAG) framework designed to enhance Large Language Models (LLMs) by integrating real-time, context-aware retrieval from Pinecone's vector database.
-
-- **Context Engine**: The framework includes a context engine that dynamically processes and structures retrieved vector embeddings to optimize LLM input, improving response relevance and accuracy.
-
-- **Python-Based**: Implemented in Python, Canopy supports scalable deployment with modular components for retrieval, context management, and LLM integration, leveraging Pinecone's vector search capabilities.
+- **RAG Framework**: Canopy is a Retrieval Augmented Generation (RAG) framework designed to enhance LLMs with dynamic, real-time context retrieval from Pinecone's vector database.
+- **Context Engine**: Implements a context engine for efficient, low-latency retrieval of relevant data chunks to augment LLM prompts, optimizing for accuracy and performance.
+- **Python-Based**: Built in Python with Pinecone integration, supporting vector search, hybrid retrieval, and dynamic prompt augmentation for generative AI applications.
 
 ## Why It Matters
 

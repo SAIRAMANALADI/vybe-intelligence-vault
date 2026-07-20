@@ -1,13 +1,25 @@
 ---
-title: "tools-for-agents/cortex"
-category: "Tooling"
-tech_stack: ["Node.js", "SQLite (FTS5 for full-text search)", "Markdown", "YAML", "HTML/CSS/JavaScript (for web view)", "SSE (Server-Sent Events)", "MCP (Model Context Protocol)"]
+title: tools-for-agents/cortex
+category: daily-digests/2026-07-20
+tech_stack:
+- Node.js
+- SQLite (FTS5 for full-text search)
+- Markdown
+- YAML
+- HTML/CSS/JavaScript (for web view)
+- SSE (Server-Sent Events)
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 9
-tags: ["knowledge-graph", "Obsidian-compatible", "markdown-vault", "agent-memory", "wikilinks"]
-source: "https://github.com/tools-for-agents/cortex"
-discovered_at: "2026-07-12T10:26:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- knowledge-graph
+- Obsidian-compatible
+- markdown-vault
+- agent-memory
+- wikilinks
+source: https://github.com/tools-for-agents/cortex
+discovered_at: '2026-07-12T10:26:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

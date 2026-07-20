@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/stackitcloud/rag-template
-collected_at: '2026-07-20T22:16:16.973097+05:30'
+collected_at: '2026-07-21T01:27:54.958893+05:30'
 published_at: '2026-07-19T00:38:35Z'
 tags:
 - github-repo
-- hackernews
 - meta-ai
 - models
 - python
 - rag
+- workflows
 stars: 84
 language: Python
 status: active
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-01-16T12:14:53Z'
 pushed_at: '2026-07-19T01:30:55Z'
 resource_id: github:stackitcloud/rag-template
-first_seen: '2026-07-20T22:16:16.973097+05:30'
-last_seen: '2026-07-20T22:16:16.973097+05:30'
-last_checked: '2026-07-20T22:16:16.973097+05:30'
+first_seen: '2026-07-21T01:27:54.958893+05:30'
+last_seen: '2026-07-21T01:27:54.958893+05:30'
+last_checked: '2026-07-21T01:27:54.958893+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a template for deploying AI chatbots and document management systems using Retrieval-Augmented Generation (RAG) with vector search capabilities.
-- **Technical Stack**: Built with FastAPI, Python, and integrates components like Ollama for LLM inference, Docker for containerization, and Kubernetes for orchestration.
-- **Key Features**: Supports vector databases for efficient document retrieval, includes API endpoints for chatbot interactions, and is optimized for deployment on STACKIT cloud infrastructure.
+- **RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) with FastAPI, enabling AI chatbots to query document stores via vector search (likely using embeddings from models like Ollama).
+- **Deployment Options**: Supports Docker for containerization and Kubernetes for orchestration, with infrastructure-as-code compatibility for scalable deployments.
+- **Tech Stack**: Python-based, integrates with vector databases (e.g., Chroma, Weaviate), and includes Ollama for local LLM inference, optimized for document management workflows.
 
 ## Why It Matters
 

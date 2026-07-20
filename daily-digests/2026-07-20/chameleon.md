@@ -1,13 +1,27 @@
 ---
-title: "crisnahine/chameleon"
-category: "Tooling"
-tech_stack: ["TypeScript", "Python", "Ruby", "Claude Code", "MCP (Model Context Protocol)", "Git", "TypeScript Compiler API", "Prism", "libcst"]
+title: crisnahine/chameleon
+category: daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Python
+- Ruby
+- Claude Code
+- MCP (Model Context Protocol)
+- Git
+- TypeScript Compiler API
+- Prism
+- libcst
 quality_score: 9
 rag_relevance: 8
-tags: ["AI code generation", "convention enforcement", "repository patterns", "code review automation", "team idioms"]
-source: "https://github.com/crisnahine/chameleon"
-discovered_at: "2026-07-18T13:10:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI code generation
+- convention enforcement
+- repository patterns
+- code review automation
+- team idioms
+source: https://github.com/crisnahine/chameleon
+discovered_at: '2026-07-18T13:10:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

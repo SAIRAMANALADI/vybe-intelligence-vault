@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pinecone-io/examples
-collected_at: '2026-07-20T22:16:32.012469+05:30'
+collected_at: '2026-07-21T01:28:10.058364+05:30'
 published_at: '2026-07-16T04:02:32Z'
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 - workflows
@@ -20,9 +19,9 @@ archived: false
 created_at: '2021-03-09T19:42:10Z'
 pushed_at: '2026-07-11T20:48:20Z'
 resource_id: github:pinecone-io/examples
-first_seen: '2026-07-20T22:16:32.012469+05:30'
-last_seen: '2026-07-20T22:16:32.012469+05:30'
-last_checked: '2026-07-20T22:16:32.012469+05:30'
+first_seen: '2026-07-21T01:28:10.058364+05:30'
+last_seen: '2026-07-21T01:28:10.058364+05:30'
+last_checked: '2026-07-21T01:28:10.058364+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Hosts Jupyter Notebooks demonstrating Pinecone vector database applications, covering topics like RAG, semantic search, and vector search with Python.
-- **Technical Scope**: Includes examples for integrating Pinecone with LLMs, vector embeddings, and large-scale vector search workflows.
-- **Usage Metrics**: 3,028 stars, 1,072 forks, last updated July 2026, with active development in AI/ML workflows.
+- Repository containing Jupyter Notebooks for hands-on experimentation with Pinecone vector databases, covering topics like AI, LLM, RAG, semantic search, and vector search.
+- Supports Python-based implementations with 3,028 stars and 1,072 forks, last updated on July 16, 2026.
+- Provides practical examples for integrating Pinecone with vector search workflows and large language models (LLMs).
 
 ## Why It Matters
 

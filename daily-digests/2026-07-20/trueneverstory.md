@@ -1,13 +1,35 @@
 ---
-title: "ajaxiis-rust/TrueNeverStory"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "Hono", "SQLite", "C (FFI)", "Zig", "Mojo", "Ollama", "OpenAI API", "LM Studio", "MCP (Model Context Protocol)", "Faiss", "BGE-M3", "WebSocket", "SSE (Server-Sent Events)", "Zod", "i18n (7 languages)"]
+title: ajaxiis-rust/TrueNeverStory
+category: daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Bun
+- Hono
+- SQLite
+- C (FFI)
+- Zig
+- Mojo
+- Ollama
+- OpenAI API
+- LM Studio
+- MCP (Model Context Protocol)
+- Faiss
+- BGE-M3
+- WebSocket
+- SSE (Server-Sent Events)
+- Zod
+- i18n (7 languages)
 quality_score: 9
 rag_relevance: 7
-tags: ["interactive storytelling", "deterministic simulation", "multi-agent systems", "narrative generation", "RAG optimization"]
-source: "https://github.com/ajaxiis-rust/TrueNeverStory"
-discovered_at: "2026-07-20T18:00:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- interactive storytelling
+- deterministic simulation
+- multi-agent systems
+- narrative generation
+- RAG optimization
+source: https://github.com/ajaxiis-rust/TrueNeverStory
+discovered_at: '2026-07-20T18:00:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
