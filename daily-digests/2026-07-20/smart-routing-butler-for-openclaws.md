@@ -1,27 +1,13 @@
 ---
-title: mukeshk3272/Smart-Routing-Butler-for-OpenClaws
-category: daily-digests/2026-07-20
-tech_stack:
-- TypeScript
-- Python
-- Next.js
-- React
-- FastAPI
-- Redis
-- PostgreSQL
-- Docker
-- OpenAI API
+title: "mukeshk3272/Smart-Routing-Butler-for-OpenClaws"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Python", "Next.js", "React", "FastAPI", "Redis", "PostgreSQL", "Docker", "OpenAI API"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- AI model routing
-- self-hosted proxy
-- cost optimization
-- multi-layer routing
-- OpenAI-compatible
-source: https://github.com/mukeshk3272/Smart-Routing-Butler-for-OpenClaws
-discovered_at: '2026-07-18T02:12:32Z'
-evaluated_by: mistral-small-latest
+tags: ["AI model routing", "self-hosted proxy", "cost optimization", "multi-layer routing", "OpenAI-compatible"]
+source: "https://github.com/mukeshk3272/Smart-Routing-Butler-for-OpenClaws"
+discovered_at: "2026-07-18T02:12:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

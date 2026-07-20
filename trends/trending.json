@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T04:02:36.206885+05:30",
+  "generated_at": "2026-07-21T04:30:14.811788+05:30",
   "trending_resources": [
     {
       "id": "hackernews:airport-simulator",
@@ -62,7 +62,7 @@
       "file_path": "ai/rag/run-payments-with-stripe-firebase-extensions-hub.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1946,
+      "rank_change": 1947,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -75,7 +75,7 @@
       "file_path": "ai/resources/sign-in-google-accounts.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 91,
+      "rank_change": 92,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -88,7 +88,7 @@
       "file_path": "ai/resources/android-open-source-project.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 9,
+      "rank_change": 10,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -101,7 +101,7 @@
       "file_path": "ai/resources/develop-for-android-android-developers.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2114,
+      "rank_change": 2115,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -114,7 +114,7 @@
       "file_path": "ai/rag/firebase-google-s-mobile-and-web-app-development-p.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1402,
+      "rank_change": 1403,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -127,7 +127,7 @@
       "file_path": "ai/resources/factory-images-for-nexus-and-pixel-devices-google.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1359,
+      "rank_change": 1361,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -142,7 +142,7 @@
       "file_path": "ai/rag/truefoundry-cognita.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 12003,
+      "rank_change": 12031,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -155,7 +155,7 @@
       "file_path": "ai/resources/legal-software-license-agreements-apple.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 7866,
+      "rank_change": 7870,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -168,7 +168,7 @@
       "file_path": "ai/resources/deed-attribution-sharealike-4-0-international-crea.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 7145,
+      "rank_change": 7173,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -181,20 +181,7 @@
       "file_path": "ai/rag/langfuse-langfuse.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 6223,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:deepset-ai/haystack-cookbook",
-      "title": "deepset-ai/haystack-cookbook",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/deepset-ai/haystack-cookbook",
-      "file_path": "ai/rag/deepset-ai-haystack-cookbook.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 6219,
+      "rank_change": 6228,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -207,7 +194,20 @@
       "file_path": "ai/resources/how-we-handle-ads-funding-and-data-security-google.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 6208,
+      "rank_change": 6228,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:deepset-ai/haystack-cookbook",
+      "title": "deepset-ai/haystack-cookbook",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/deepset-ai/haystack-cookbook",
+      "file_path": "ai/rag/deepset-ai-haystack-cookbook.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 6226,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -220,7 +220,7 @@
       "file_path": "ai/rag/langfuse.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 6179,
+      "rank_change": 6197,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -233,7 +233,7 @@
       "file_path": "ai/rag/medium-policy.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 4913,
+      "rank_change": 4934,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,7 +246,7 @@
       "file_path": "ai/rag/the-santa-clara-principles-on-transparency-and-acc.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 4910,
+      "rank_change": 4932,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -259,14 +259,14 @@
       "file_path": "ai/rag/resources-whitepapers.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 4856,
+      "rank_change": 4882,
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "new_discoveries": [
     {
-      "id": "hackernews:china-s-open-weights-ai-strategy-is-winning",
+      "id": "hackernews:chinas-open-weights-ai-strategy-is-winning",
       "title": "China’s open-weights AI strategy is winning",
       "category": "ai/community",
       "source_type": "hackernews",
@@ -305,38 +305,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:search-firestore-with-algolia-firebase-extensions",
-      "title": "Search Firestore with Algolia | Firebase Extensions Hub",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://extensions.dev/extensions/algolia/firestore-algolia-search",
-      "file_path": "ai/rag/search-firestore-with-algolia-firebase-extensions.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
       "id": "blog:android-git-repositories-git-at-google",
       "title": "android Git repositories - Git at Google",
       "category": "ai/rag",
       "source_type": "web",
       "url": "https://android.googlesource.com",
       "file_path": "ai/rag/android-git-repositories-git-at-google.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:gemini-developer-api-gemma-open-models-google-ai-f",
-      "title": "Gemini Developer API | Gemma open models | Google AI for Developers",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "http://ai.google.dev",
-      "file_path": "ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -370,38 +344,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:security-verification",
-      "title": "Security Verification",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://discussions.apple.com/community/applications-services/safari",
-      "file_path": "ai/resources/security-verification.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
       "id": "blog:aapple-support-app-app-store",
       "title": "âApple Support App - App Store",
       "category": "ai/rag",
       "source_type": "web",
       "url": "https://apps.apple.com/us/app/apple-support/id1130498044?pt=2003&ct=support.safari&mt=8&l=en",
       "file_path": "ai/rag/aapple-support-app-app-store.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:protect-privacy-online-with-google-google-safety-c",
-      "title": "Protect Privacy Online with Google - Google Safety Center",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://safety.google/security-privacy",
-      "file_path": "ai/rag/protect-privacy-online-with-google-google-safety-c.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -422,19 +370,6 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:fourthwall-the-best-way-for-creators-to-open-shops",
-      "title": "Fourthwall | The best way for creators to open shops, offer memberships, and engage supporters",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://fourthwall.com",
-      "file_path": "ai/rag/fourthwall-the-best-way-for-creators-to-open-shops.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
       "id": "github:github/gov-takedowns",
       "title": "github/gov-takedowns",
       "category": "ai/resources",
@@ -448,12 +383,77 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:text-to-speech-leaderboard-top-ai-speech-models",
-      "title": "Text to Speech Leaderboard - Top AI Speech Models",
-      "category": "ai/agents",
+      "id": "blog:deepset-makers-of-haystack-youtube",
+      "title": "deepset, makers of Haystack - YouTube",
+      "category": "ai/resources",
       "source_type": "web",
-      "url": "https://artificialanalysis.ai/text-to-speech/leaderboard/selected-voice?top-models=true",
-      "file_path": "ai/agents/text-to-speech-leaderboard-top-ai-speech-models.md",
+      "url": "https://youtube.com/channel/uc5dfn9m310oyt-cbeegfvzw",
+      "file_path": "ai/resources/deepset-makers-of-haystack-youtube.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:delete-allow-and-manage-cookies-in-chrome-computer",
+      "title": "Delete, allow, and manage cookies in Chrome - Computer - Google Chrome Help",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://support.google.com/chrome/answer/95647",
+      "file_path": "ai/rag/delete-allow-and-manage-cookies-in-chrome-computer.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:creative-commons-creativecommons-mastodon-social-m",
+      "title": "Creative Commons (@creativecommons@mastodon.social) - Mastodon",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://mastodon.social/@creativecommons",
+      "file_path": "ai/resources/creative-commons-creativecommons-mastodon-social-m.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:creative-commons",
+      "title": "Creative Commons",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://creative-commons-shop.fourthwall.com",
+      "file_path": "ai/rag/creative-commons.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:explosion/spacy",
+      "title": "explosion/spaCy",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/explosion/spacy",
+      "file_path": "ai/rag/explosion-spacy.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:explosion/spacy-llm",
+      "title": "explosion/spacy-llm",
+      "category": "ai/resources",
+      "source_type": "github",
+      "url": "https://github.com/explosion/spacy-llm",
+      "file_path": "ai/resources/explosion-spacy-llm.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,

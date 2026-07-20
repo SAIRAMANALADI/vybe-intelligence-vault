@@ -1,36 +1,13 @@
 ---
-title: mantis-x/mantis
-category: daily-digests/2026-07-20
-tech_stack:
-- Python 3.11
-- Solidity 0.8.20
-- web3.py
-- Claude Sonnet 5
-- Byreal Skills CLI
-- Nansen API
-- Elfa AI
-- Telegram Bot API
-- Discord API
-- LINE Messaging API
-- PostgreSQL
-- Redis
-- Hardhat
-- Docker
-- Mantle L2
-- Arbitrum L2
-- HashKey Chain
-- Ethereum
+title: "mantis-x/mantis"
+category: "Orchestrator"
+tech_stack: ["Python 3.11", "Solidity 0.8.20", "web3.py", "Claude Sonnet 5", "Byreal Skills CLI", "Nansen API", "Elfa AI", "Telegram Bot API", "Discord API", "LINE Messaging API", "PostgreSQL", "Redis", "Hardhat", "Docker", "Mantle L2", "Arbitrum L2", "HashKey Chain", "Ethereum"]
 quality_score: 9
 rag_relevance: 9
-tags:
-- DeFi monitoring
-- AI-driven trading
-- multi-chain
-- smart money detection
-- intent-based execution
-source: https://github.com/mantis-x/mantis
-discovered_at: '2026-07-19T13:17:31Z'
-evaluated_by: mistral-small-latest
+tags: ["DeFi monitoring", "AI-driven trading", "multi-chain", "smart money detection", "intent-based execution"]
+source: "https://github.com/mantis-x/mantis"
+discovered_at: "2026-07-19T13:17:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

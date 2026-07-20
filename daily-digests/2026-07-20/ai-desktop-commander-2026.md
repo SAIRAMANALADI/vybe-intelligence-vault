@@ -1,23 +1,13 @@
 ---
-title: pitchservantdawn/AI-Desktop-Commander-2026
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- Windows API
-- Docker (for isolation)
-- Excel/PDF/DOCX libraries
+title: "pitchservantdawn/AI-Desktop-Commander-2026"
+category: "Agent Framework"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "Windows API", "Docker (for isolation)", "Excel/PDF/DOCX libraries"]
 quality_score: 7
 rag_relevance: 8
-tags:
-- MCP server
-- Windows automation
-- AI desktop control
-- process management
-- filesystem access
-source: https://github.com/pitchservantdawn/AI-Desktop-Commander-2026
-discovered_at: '2026-07-20T06:16:58Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP server", "Windows automation", "AI desktop control", "process management", "filesystem access"]
+source: "https://github.com/pitchservantdawn/AI-Desktop-Commander-2026"
+discovered_at: "2026-07-20T06:16:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

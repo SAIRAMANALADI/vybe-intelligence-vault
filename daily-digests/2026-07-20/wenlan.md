@@ -1,31 +1,13 @@
 ---
-title: 7xuanlu/wenlan
-category: daily-digests/2026-07-20
-tech_stack:
-- Rust
-- TypeScript
-- SQLite
-- libSQL
-- MCP (Model Context Protocol)
-- Git
-- Markdown
-- Vector Embeddings
-- Hybrid Retrieval
-- Claude Code
-- Codex
-- Cursor
-- Claude Desktop
+title: "7xuanlu/wenlan"
+category: "Orchestrator"
+tech_stack: ["Rust", "TypeScript", "SQLite", "libSQL", "MCP (Model Context Protocol)", "Git", "Markdown", "Vector Embeddings", "Hybrid Retrieval", "Claude Code", "Codex", "Cursor", "Claude Desktop"]
 quality_score: 9
 rag_relevance: 9
-tags:
-- AI memory management
-- source-cited knowledge base
-- agent context retention
-- local retrieval
-- MCP integration
-source: https://github.com/7xuanlu/wenlan
-discovered_at: '2026-07-12T05:56:20Z'
-evaluated_by: mistral-small-latest
+tags: ["AI memory management", "source-cited knowledge base", "agent context retention", "local retrieval", "MCP integration"]
+source: "https://github.com/7xuanlu/wenlan"
+discovered_at: "2026-07-12T05:56:20Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

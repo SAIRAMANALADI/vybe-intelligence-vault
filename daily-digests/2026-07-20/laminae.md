@@ -1,25 +1,13 @@
 ---
-title: Arneunalarming861/Laminae
-category: daily-digests/2026-07-20
-tech_stack:
-- Rust
-- LLM Integration
-- Sandboxing
-- Adversarial Testing
-- Multi-Agent Systems
-- Prompt Engineering
-- Security Enforcement
+title: "Arneunalarming861/Laminae"
+category: "Tooling"
+tech_stack: ["Rust", "LLM Integration", "Sandboxing", "Adversarial Testing", "Multi-Agent Systems", "Prompt Engineering", "Security Enforcement"]
 quality_score: 7
 rag_relevance: 8
-tags:
-- AI safety
-- LLM guardrails
-- Rust SDK
-- multi-agent systems
-- prompt injection defense
-source: https://github.com/Arneunalarming861/Laminae
-discovered_at: '2026-07-15T14:48:59Z'
-evaluated_by: mistral-small-latest
+tags: ["AI safety", "LLM guardrails", "Rust SDK", "multi-agent systems", "prompt injection defense"]
+source: "https://github.com/Arneunalarming861/Laminae"
+discovered_at: "2026-07-15T14:48:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

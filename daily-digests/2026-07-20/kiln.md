@@ -1,33 +1,13 @@
 ---
-title: codeofaxel/Kiln
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- OctoPrint
-- Moonraker/Klipper
-- Bambu Lab API
-- PrusaLink
-- Creality
-- Elegoo
-- Serial (Marlin)
-- Sigstore
-- SLSA
-- FFmpeg
-- PrusaSlicer
-- OrcaSlicer
-- OpenSCAD
+title: "codeofaxel/Kiln"
+category: "Orchestrator"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "OctoPrint", "Moonraker/Klipper", "Bambu Lab API", "PrusaLink", "Creality", "Elegoo", "Serial (Marlin)", "Sigstore", "SLSA", "FFmpeg", "PrusaSlicer", "OrcaSlicer", "OpenSCAD"]
 quality_score: 9
 rag_relevance: 9
-tags:
-- 3D printing automation
-- AI agent integration
-- MCP server
-- multi-printer support
-- natural language to print
-source: https://github.com/codeofaxel/Kiln
-discovered_at: '2026-07-11T02:27:57Z'
-evaluated_by: mistral-small-latest
+tags: ["3D printing automation", "AI agent integration", "MCP server", "multi-printer support", "natural language to print"]
+source: "https://github.com/codeofaxel/Kiln"
+discovered_at: "2026-07-11T02:27:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

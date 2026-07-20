@@ -1,26 +1,13 @@
 ---
-title: kilroyblockchain/free2pa-devtool
-category: daily-digests/2026-07-20
-tech_stack:
-- JavaScript
-- Node.js
-- C2PA-inspired cryptography
-- CLI
-- MCP (Model Context Protocol)
-- HTTP API
-- GitHub Actions
-- OpenSSL
+title: "kilroyblockchain/free2pa-devtool"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "C2PA-inspired cryptography", "CLI", "MCP (Model Context Protocol)", "HTTP API", "GitHub Actions", "OpenSSL"]
 quality_score: 9
 rag_relevance: 9
-tags:
-- tamper-evident
-- agent security
-- cryptographic verification
-- trust group
-- load gate
-source: https://github.com/kilroyblockchain/free2pa-devtool
-discovered_at: '2026-07-20T03:52:23Z'
-evaluated_by: mistral-small-latest
+tags: ["tamper-evident", "agent security", "cryptographic verification", "trust group", "load gate"]
+source: "https://github.com/kilroyblockchain/free2pa-devtool"
+discovered_at: "2026-07-20T03:52:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

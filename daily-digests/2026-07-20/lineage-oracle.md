@@ -1,28 +1,13 @@
 ---
-title: Mona-Alkhatib/lineage-oracle
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- Claude Sonnet 4.6
-- dbt
-- NetworkX
-- Voyage-3
-- DuckDB
-- Streamlit
-- Typer
-- pytest
-- Anthropic SDK
+title: "Mona-Alkhatib/lineage-oracle"
+category: "Agent Framework"
+tech_stack: ["Python", "Claude Sonnet 4.6", "dbt", "NetworkX", "Voyage-3", "DuckDB", "Streamlit", "Typer", "pytest", "Anthropic SDK"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- data lineage
-- AI agent
-- dbt integration
-- grounded answers
-- impact analysis
-source: https://github.com/Mona-Alkhatib/lineage-oracle
-discovered_at: '2026-07-12T22:44:42Z'
-evaluated_by: mistral-small-latest
+tags: ["data lineage", "AI agent", "dbt integration", "grounded answers", "impact analysis"]
+source: "https://github.com/Mona-Alkhatib/lineage-oracle"
+discovered_at: "2026-07-12T22:44:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

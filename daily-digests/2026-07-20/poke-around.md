@@ -1,26 +1,13 @@
 ---
-title: undivisible/poke-around
-category: daily-digests/2026-07-20
-tech_stack:
-- Rust
-- Node.js
-- OAuth
-- systemd
-- Homebrew
-- PowerShell
-- Bash
-- MCP (Model Context Protocol)
+title: "undivisible/poke-around"
+category: "Tooling"
+tech_stack: ["Rust", "Node.js", "OAuth", "systemd", "Homebrew", "PowerShell", "Bash", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- remote execution
-- AI assistant integration
-- cross-platform
-- security modes
-- automation
-source: https://github.com/undivisible/poke-around
-discovered_at: '2026-07-20T03:52:21Z'
-evaluated_by: mistral-small-latest
+tags: ["remote execution", "AI assistant integration", "cross-platform", "security modes", "automation"]
+source: "https://github.com/undivisible/poke-around"
+discovered_at: "2026-07-20T03:52:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,13 @@
 ---
-title: HeWhenJay/Multimodal-RAG-Agent-Learning-Evidence-Platform
-category: daily-digests/2026-07-20
-tech_stack:
-- React
-- FastAPI
-- PostgreSQL
-- pgvector
-- LangGraph
-- Python
-- TypeScript
-- Docker
-- Kafka
-- MinerU
-- OCR
-- ASR
-- BM25
-- RAG-Fusion
-- RRF
-- SSE
+title: "HeWhenJay/Multimodal-RAG-Agent-Learning-Evidence-Platform"
+category: "Agent Framework"
+tech_stack: ["React", "FastAPI", "PostgreSQL", "pgvector", "LangGraph", "Python", "TypeScript", "Docker", "Kafka", "MinerU", "OCR", "ASR", "BM25", "RAG-Fusion", "RRF", "SSE"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- Multimodal RAG
-- Agent Orchestration
-- Hybrid Search
-- Evidence-Based Responses
-- Durable Task Processing
-source: https://github.com/HeWhenJay/Multimodal-RAG-Agent-Learning-Evidence-Platform
-discovered_at: '2026-07-20T21:10:55Z'
-evaluated_by: mistral-small-latest
+tags: ["Multimodal RAG", "Agent Orchestration", "Hybrid Search", "Evidence-Based Responses", "Durable Task Processing"]
+source: "https://github.com/HeWhenJay/Multimodal-RAG-Agent-Learning-Evidence-Platform"
+discovered_at: "2026-07-20T21:10:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

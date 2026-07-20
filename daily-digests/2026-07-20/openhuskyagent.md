@@ -1,32 +1,13 @@
 ---
-title: HandleCoding/OpenHuskyAgent
-category: daily-digests/2026-07-20
-tech_stack:
-- Java
-- Spring Boot
-- Spring AI
-- LangGraph4j
-- SQLite
-- Playwright
-- Brave Search
-- Tavily API
-- MCP (Model Context Protocol)
-- Feishu
-- Telegram
-- Slack
-- WebSocket
-- SSE (Server-Sent Events)
+title: "HandleCoding/OpenHuskyAgent"
+category: "Agent Framework"
+tech_stack: ["Java", "Spring Boot", "Spring AI", "LangGraph4j", "SQLite", "Playwright", "Brave Search", "Tavily API", "MCP (Model Context Protocol)", "Feishu", "Telegram", "Slack", "WebSocket", "SSE (Server-Sent Events)"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- agent runtime
-- metadata-driven
-- multi-channel
-- self-hosted
-- Java-based
-source: https://github.com/HandleCoding/OpenHuskyAgent
-discovered_at: '2026-07-11T05:39:14Z'
-evaluated_by: mistral-small-latest
+tags: ["agent runtime", "metadata-driven", "multi-channel", "self-hosted", "Java-based"]
+source: "https://github.com/HandleCoding/OpenHuskyAgent"
+discovered_at: "2026-07-11T05:39:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

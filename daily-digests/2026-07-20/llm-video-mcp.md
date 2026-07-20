@@ -1,26 +1,13 @@
 ---
-title: shkyyy18/llm-video-mcp
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- ffmpeg
-- faster-whisper
-- Silero VAD
-- yt-dlp
-- pytest
-- ruff
+title: "shkyyy18/llm-video-mcp"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "ffmpeg", "faster-whisper", "Silero VAD", "yt-dlp", "pytest", "ruff"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- MCP server
-- video analysis
-- token budget
-- transcription
-- scene detection
-source: https://github.com/shkyyy18/llm-video-mcp
-discovered_at: '2026-07-20T12:22:19Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP server", "video analysis", "token budget", "transcription", "scene detection"]
+source: "https://github.com/shkyyy18/llm-video-mcp"
+discovered_at: "2026-07-20T12:22:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

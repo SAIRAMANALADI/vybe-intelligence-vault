@@ -1,29 +1,13 @@
 ---
-title: jaswanthsanjay88/Bit_Android
-category: daily-digests/2026-07-20
-tech_stack:
-- Kotlin
-- Android SDK
-- llama.cpp
-- GGUF
-- ONNX Runtime
-- Stable Diffusion
-- Jetpack Compose
-- CMake
-- Android NDK
-- AES-256-GCM
-- Android Keystore
+title: "jaswanthsanjay88/Bit_Android"
+category: "Agent Framework"
+tech_stack: ["Kotlin", "Android SDK", "llama.cpp", "GGUF", "ONNX Runtime", "Stable Diffusion", "Jetpack Compose", "CMake", "Android NDK", "AES-256-GCM", "Android Keystore"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- on-device AI
-- privacy-first
-- local LLM
-- Android AI assistant
-- GGUF inference
-source: https://github.com/jaswanthsanjay88/Bit_Android
-discovered_at: '2026-07-20T19:53:32Z'
-evaluated_by: mistral-small-latest
+tags: ["on-device AI", "privacy-first", "local LLM", "Android AI assistant", "GGUF inference"]
+source: "https://github.com/jaswanthsanjay88/Bit_Android"
+discovered_at: "2026-07-20T19:53:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

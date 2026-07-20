@@ -1,25 +1,13 @@
 ---
-title: ebowman/mcp-server-things
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- AppleScript
-- Model Context Protocol (MCP)
-- FastMCP
-- SQLite
-- Poetry
-- GitHub Actions
+title: "ebowman/mcp-server-things"
+category: "Tooling"
+tech_stack: ["Python", "AppleScript", "Model Context Protocol (MCP)", "FastMCP", "SQLite", "Poetry", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- MCP server
-- task management
-- Things 3 integration
-- AI automation
-- productivity tools
-source: https://github.com/ebowman/mcp-server-things
-discovered_at: '2026-07-20T12:22:22Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP server", "task management", "Things 3 integration", "AI automation", "productivity tools"]
+source: "https://github.com/ebowman/mcp-server-things"
+discovered_at: "2026-07-20T12:22:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

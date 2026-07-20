@@ -1,23 +1,13 @@
 ---
-title: Cnashn/your-daily-sports-agent
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- GitHub Actions
-- Bluesky API
-- Natural Language Generation (NLG)
-- Web Scraping
+title: "Cnashn/your-daily-sports-agent"
+category: "Tooling"
+tech_stack: ["Python", "GitHub Actions", "Bluesky API", "Natural Language Generation (NLG)", "Web Scraping"]
 quality_score: 5
 rag_relevance: 4
-tags:
-- autonomous content generation
-- sports journalism
-- social media automation
-- GitHub Actions
-- AI publishing
-source: https://github.com/Cnashn/your-daily-sports-agent
-discovered_at: '2026-07-19T11:56:58Z'
-evaluated_by: mistral-small-latest
+tags: ["autonomous content generation", "sports journalism", "social media automation", "GitHub Actions", "AI publishing"]
+source: "https://github.com/Cnashn/your-daily-sports-agent"
+discovered_at: "2026-07-19T11:56:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

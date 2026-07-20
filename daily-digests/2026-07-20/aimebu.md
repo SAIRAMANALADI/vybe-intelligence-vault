@@ -1,27 +1,13 @@
 ---
-title: hrubymar10/aimebu
-category: daily-digests/2026-07-20
-tech_stack:
-- Go
-- MCP (Model Context Protocol)
-- SQLite
-- HTTP/REST
-- WebSockets
-- SSE (Server-Sent Events)
-- Docker
-- CLI
-- Web UI
+title: "hrubymar10/aimebu"
+category: "Orchestrator"
+tech_stack: ["Go", "MCP (Model Context Protocol)", "SQLite", "HTTP/REST", "WebSockets", "SSE (Server-Sent Events)", "Docker", "CLI", "Web UI"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- message bus
-- multi-agent collaboration
-- MCP server
-- real-time communication
-- Docker integration
-source: https://github.com/hrubymar10/aimebu
-discovered_at: '2026-07-14T16:14:25Z'
-evaluated_by: mistral-small-latest
+tags: ["message bus", "multi-agent collaboration", "MCP server", "real-time communication", "Docker integration"]
+source: "https://github.com/hrubymar10/aimebu"
+discovered_at: "2026-07-14T16:14:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

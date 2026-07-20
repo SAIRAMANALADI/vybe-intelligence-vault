@@ -1,26 +1,13 @@
 ---
-title: MinishLab/semble
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- Tree-sitter
-- Model2Vec
-- BM25
-- Reciprocal Rank Fusion (RRF)
-- CLI
-- MCP Server
-- Git
+title: "MinishLab/semble"
+category: "Tooling"
+tech_stack: ["Python", "Tree-sitter", "Model2Vec", "BM25", "Reciprocal Rank Fusion (RRF)", "CLI", "MCP Server", "Git"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- code search
-- AI agents
-- token efficiency
-- MCP server
-- local indexing
-source: https://github.com/MinishLab/semble
-discovered_at: '2026-07-16T08:10:18Z'
-evaluated_by: mistral-small-latest
+tags: ["code search", "AI agents", "token efficiency", "MCP server", "local indexing"]
+source: "https://github.com/MinishLab/semble"
+discovered_at: "2026-07-16T08:10:18Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

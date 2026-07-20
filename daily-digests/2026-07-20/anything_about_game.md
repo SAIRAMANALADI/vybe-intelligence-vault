@@ -1,23 +1,13 @@
 ---
-title: killop/anything_about_game
-category: daily-digests/2026-07-20
-tech_stack:
-- Markdown
-- QQ Groups (Community)
-- Web/Documentation
-- Various Programming Languages (C#, C++, Rust, Java, etc.)
-- Game Engines (Unity, Unreal, etc.)
+title: "killop/anything_about_game"
+category: "Tooling"
+tech_stack: ["Markdown", "QQ Groups (Community)", "Web/Documentation", "Various Programming Languages (C#, C++, Rust, Java, etc.)", "Game Engines (Unity, Unreal, etc.)"]
 quality_score: 8
 rag_relevance: 6
-tags:
-- game development
-- curated resources
-- multi-language
-- graphics
-- AI
-source: https://github.com/killop/anything_about_game
-discovered_at: '2026-07-13T02:34:14Z'
-evaluated_by: mistral-small-latest
+tags: ["game development", "curated resources", "multi-language", "graphics", "AI"]
+source: "https://github.com/killop/anything_about_game"
+discovered_at: "2026-07-13T02:34:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

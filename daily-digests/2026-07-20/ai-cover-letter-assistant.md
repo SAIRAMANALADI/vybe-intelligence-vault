@@ -1,24 +1,13 @@
 ---
-title: yingyingxucy-hub/ai-cover-letter-assistant
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- Streamlit
-- OpenAI API
-- PyPDF2
-- python-docx
-- dotenv
+title: "yingyingxucy-hub/ai-cover-letter-assistant"
+category: "Tooling"
+tech_stack: ["Python", "Streamlit", "OpenAI API", "PyPDF2", "python-docx", "dotenv"]
 quality_score: 8
 rag_relevance: 6
-tags:
-- job application
-- cover letter generator
-- resume parser
-- OpenAI integration
-- document automation
-source: https://github.com/yingyingxucy-hub/ai-cover-letter-assistant
-discovered_at: '2026-07-20T18:00:39Z'
-evaluated_by: mistral-small-latest
+tags: ["job application", "cover letter generator", "resume parser", "OpenAI integration", "document automation"]
+source: "https://github.com/yingyingxucy-hub/ai-cover-letter-assistant"
+discovered_at: "2026-07-20T18:00:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,28 +1,13 @@
 ---
-title: srichsun/Minerva
-category: daily-digests/2026-07-20
-tech_stack:
-- FastAPI
-- LangChain
-- Postgres + pgvector
-- OpenAI (gpt-4o-mini-transcribe, gpt-5.3-chat-latest, text-embedding-3-small)
-- Google Cloud TTS
-- Firebase Auth
-- React (Vite)
-- LangSmith
-- Docker
-- GitHub Actions
+title: "srichsun/Minerva"
+category: "Agent Framework"
+tech_stack: ["FastAPI", "LangChain", "Postgres + pgvector", "OpenAI (gpt-4o-mini-transcribe, gpt-5.3-chat-latest, text-embedding-3-small)", "Google Cloud TTS", "Firebase Auth", "React (Vite)", "LangSmith", "Docker", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- memory-augmented AI
-- voice interaction
-- personalized agent
-- vector search
-- LLM orchestration
-source: https://github.com/srichsun/Minerva
-discovered_at: '2026-07-20T09:59:24Z'
-evaluated_by: mistral-small-latest
+tags: ["memory-augmented AI", "voice interaction", "personalized agent", "vector search", "LLM orchestration"]
+source: "https://github.com/srichsun/Minerva"
+discovered_at: "2026-07-20T09:59:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

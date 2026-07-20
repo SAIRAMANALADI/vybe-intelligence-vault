@@ -1,25 +1,13 @@
 ---
-title: 2395935208/campus-memory
-category: daily-digests/2026-07-20
-tech_stack:
-- Java
-- Spring Boot
-- H2 Database
-- Qwen Cloud API
-- Docker
-- Alibaba Cloud ECS
-- Maven
+title: "2395935208/campus-memory"
+category: "Agent Framework"
+tech_stack: ["Java", "Spring Boot", "H2 Database", "Qwen Cloud API", "Docker", "Alibaba Cloud ECS", "Maven"]
 quality_score: 8
 rag_relevance: 9
-tags:
-- memory management
-- persistent context
-- Qwen Cloud
-- learning coach
-- audit trail
-source: https://github.com/2395935208/campus-memory
-discovered_at: '2026-07-20T02:44:50Z'
-evaluated_by: mistral-small-latest
+tags: ["memory management", "persistent context", "Qwen Cloud", "learning coach", "audit trail"]
+source: "https://github.com/2395935208/campus-memory"
+discovered_at: "2026-07-20T02:44:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

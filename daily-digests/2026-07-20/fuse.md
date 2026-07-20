@@ -1,24 +1,13 @@
 ---
-title: Litenova-Solutions/Fuse
-category: daily-digests/2026-07-20
-tech_stack:
-- C#
-- .NET
-- Roslyn
-- MSBuild
-- SQLite
-- MCP (Model Context Protocol)
+title: "Litenova-Solutions/Fuse"
+category: "Tooling"
+tech_stack: ["C#", ".NET", "Roslyn", "MSBuild", "SQLite", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- compiler verification
-- dependency injection
-- semantic indexing
-- AI agent tooling
-- pre-write validation
-source: https://github.com/Litenova-Solutions/Fuse
-discovered_at: '2026-07-14T05:29:06Z'
-evaluated_by: mistral-small-latest
+tags: ["compiler verification", "dependency injection", "semantic indexing", "AI agent tooling", "pre-write validation"]
+source: "https://github.com/Litenova-Solutions/Fuse"
+discovered_at: "2026-07-14T05:29:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

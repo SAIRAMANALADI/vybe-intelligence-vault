@@ -1,25 +1,13 @@
 ---
-title: OneHillAI/ASDD
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- GitHub Actions
-- Goose
-- OpenAI-compatible models
-- SAST tools (e.g., bandit)
-- Static analysis
-- CI/CD pipelines
+title: "OneHillAI/ASDD"
+category: "Orchestrator"
+tech_stack: ["Python", "GitHub Actions", "Goose", "OpenAI-compatible models", "SAST tools (e.g., bandit)", "Static analysis", "CI/CD pipelines"]
 quality_score: 8
 rag_relevance: 9
-tags:
-- AI governance
-- code review automation
-- spec-driven development
-- security gates
-- contribution pipeline
-source: https://github.com/OneHillAI/ASDD
-discovered_at: '2026-07-20T21:10:52Z'
-evaluated_by: mistral-small-latest
+tags: ["AI governance", "code review automation", "spec-driven development", "security gates", "contribution pipeline"]
+source: "https://github.com/OneHillAI/ASDD"
+discovered_at: "2026-07-20T21:10:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
