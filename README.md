@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-46%2C867-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-46%2C887-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--20-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **46,867 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **46,887 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -197,8 +197,8 @@ score_threshold: 0.65
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 46,867 files</p>
-        <p><b>Last Update:</b> 2026-07-20 15:30 IST</p>
+        <p><b>Total Vault Size:</b> 46,887 files</p>
+        <p><b>Last Update:</b> 2026-07-20 17:52 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,28 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[npm/documentation](ai/resources/npm-documentation.md)** • Rank: <kbd>+1663</kbd>
-- 🔼 **[GitHub CLI | Take GitHub to the command line](ai/agents/github-cli-take-github-to-the-command-line.md)** • Rank: <kbd>+15</kbd>
-- 🔼 **[Git](ai/resources/git.md)** • Rank: <kbd>+1362</kbd>
-- 🔼 **[Node.js — Run JavaScript Everywhere](ai/resources/node-js-run-javascript-everywhere.md)** • Rank: <kbd>+1360</kbd>
-- 🔼 **[Sign in on a device that's not yours - Computer - Google Account Help](ai/rag/sign-in-on-a-device-that-s-not-yours-computer-goog.md)** • Rank: <kbd>+2233</kbd>
+- 🔼 **[Extensions for Visual Studio family of products | Visual Studio Marketplace](ai/rag/extensions-for-visual-studio-family-of-products-vi.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[npm/documentation](ai/resources/npm-documentation.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[GitHub CLI | Take GitHub to the command line](ai/agents/github-cli-take-github-to-the-command-line.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Git](ai/resources/git.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Node.js — Run JavaScript Everywhere](ai/resources/node-js-run-javascript-everywhere.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[How proprietary formats have become Microsoft’s main tool for lock-in](ai/community/how-proprietary-formats-have-become-microsofts-mai.md)** • Score: `84`
-- 🆕 **[Self-Powered Trailers Promise Leaner Freight Runs](ai/community/self-powered-trailers-promise-leaner-freight-runs.md)** • Score: `34`
-- 🆕 **[1-Bit LLM in the Browser](ai/community/huggingface-spaces-webml-community.md)** • Score: `33`
-- 🆕 **[Sealed tomb filled with paintings and inscriptions discovered in Egypt](ai/community/sealed-tomb-filled-with-paintings-and-inscriptions.md)** • Score: `32`
-- 🆕 **[EU Exempts Apple Watch and AirPods from Battery Removal Requirements](ai/community/eu-exempts-apple-watch-and-airpods-from-battery-re.md)** • Score: `28`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[OpenAI reduces Codex Model Context Size from 372k to 272k](ai/community/openai-codex.md)**
-- 💤 **[Moonshot AI suspends new subscriptions due to Kimi K3 demand](ai/community/moonshot-ai-suspends-new-subscriptions-due-to-kimi.md)**
-- 💤 **[Heavy TV watching associated with smaller brain structures, study finds](ai/community/heavy-tv-watching-associated-with-smaller-brain-st.md)**
-- 💤 **[AI advice made people 3x less accurate but 2x confident, researchers found](ai/community/ai-advice-made-people-3x-less-accurate-but-2x-conf.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
