@@ -1,24 +1,13 @@
 ---
-title: DaizeDong/screen-vision
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- UI Automation (UIA)
-- OCR (winocr, rapidocr-onnxruntime)
-- Pillow
-- ctypes
-- MSS
+title: "DaizeDong/screen-vision"
+category: "Tooling"
+tech_stack: ["Python", "UI Automation (UIA)", "OCR (winocr, rapidocr-onnxruntime)", "Pillow", "ctypes", "MSS"]
 quality_score: 8
 rag_relevance: 7
-tags:
-- desktop automation
-- accessibility tree
-- OCR fallback
-- pixel-accurate UI
-- Windows GUI
-source: https://github.com/DaizeDong/screen-vision
-discovered_at: '2026-07-17T08:07:17Z'
-evaluated_by: mistral-small-latest
+tags: ["desktop automation", "accessibility tree", "OCR fallback", "pixel-accurate UI", "Windows GUI"]
+source: "https://github.com/DaizeDong/screen-vision"
+discovered_at: "2026-07-17T08:07:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

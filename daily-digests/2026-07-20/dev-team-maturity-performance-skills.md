@@ -1,23 +1,13 @@
 ---
-title: kamkate/dev-team-maturity-performance-skills
-category: daily-digests/2026-07-20
-tech_stack:
-- Claude Code
-- Jira
-- JSON
-- Markdown
-- Python (implied by Claude Skills)
+title: "kamkate/dev-team-maturity-performance-skills"
+category: "Tooling"
+tech_stack: ["Claude Code", "Jira", "JSON", "Markdown", "Python (implied by Claude Skills)"]
 quality_score: 8
 rag_relevance: 7
-tags:
-- engineering maturity
-- Jira analysis
-- deterministic KPIs
-- governed AI workflow
-- Claude Skills
-source: https://github.com/kamkate/dev-team-maturity-performance-skills
-discovered_at: '2026-07-20T18:00:51Z'
-evaluated_by: mistral-small-latest
+tags: ["engineering maturity", "Jira analysis", "deterministic KPIs", "governed AI workflow", "Claude Skills"]
+source: "https://github.com/kamkate/dev-team-maturity-performance-skills"
+discovered_at: "2026-07-20T18:00:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

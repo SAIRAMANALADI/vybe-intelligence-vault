@@ -1,22 +1,13 @@
 ---
-title: h-kazuki-pixel/release-announcer-mcp
-category: daily-digests/2026-07-20
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- GitHub API
+title: "h-kazuki-pixel/release-announcer-mcp"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "GitHub API"]
 quality_score: 8
 rag_relevance: 7
-tags:
-- MCP server
-- release automation
-- GitHub integration
-- announcement generation
-- publish readiness
-source: https://github.com/h-kazuki-pixel/release-announcer-mcp
-discovered_at: '2026-07-20T09:59:46Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP server", "release automation", "GitHub integration", "announcement generation", "publish readiness"]
+source: "https://github.com/h-kazuki-pixel/release-announcer-mcp"
+discovered_at: "2026-07-20T09:59:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

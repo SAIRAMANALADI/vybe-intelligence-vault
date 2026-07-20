@@ -1,24 +1,13 @@
 ---
-title: xcircl/xcircl-agent
-category: daily-digests/2026-07-20
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- REST API
-- NPM
-- GitHub Actions
+title: "xcircl/xcircl-agent"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "REST API", "NPM", "GitHub Actions"]
 quality_score: 8
 rag_relevance: 7
-tags:
-- healthcare data
-- compliance API
-- MCP server
-- provider search
-- GLP-1 clinics
-source: https://github.com/xcircl/xcircl-agent
-discovered_at: '2026-07-12T17:03:56Z'
-evaluated_by: mistral-small-latest
+tags: ["healthcare data", "compliance API", "MCP server", "provider search", "GLP-1 clinics"]
+source: "https://github.com/xcircl/xcircl-agent"
+discovered_at: "2026-07-12T17:03:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

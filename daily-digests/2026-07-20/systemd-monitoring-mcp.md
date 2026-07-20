@@ -1,24 +1,13 @@
 ---
-title: paulstaab/systemd-monitoring-mcp
-category: daily-digests/2026-07-20
-tech_stack:
-- Rust
-- JSON-RPC
-- systemd
-- MCP (Model Context Protocol)
-- Journald
-- Cargo
+title: "paulstaab/systemd-monitoring-mcp"
+category: "Tooling"
+tech_stack: ["Rust", "JSON-RPC", "systemd", "MCP (Model Context Protocol)", "Journald", "Cargo"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- systemd
-- monitoring
-- MCP server
-- Linux
-- logging
-source: https://github.com/paulstaab/systemd-monitoring-mcp
-discovered_at: '2026-07-19T08:13:39Z'
-evaluated_by: mistral-small-latest
+tags: ["systemd", "monitoring", "MCP server", "Linux", "logging"]
+source: "https://github.com/paulstaab/systemd-monitoring-mcp"
+discovered_at: "2026-07-19T08:13:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,28 +1,13 @@
 ---
-title: heart-IT/react-brain
-category: daily-digests/2026-07-20
-tech_stack:
-- JavaScript
-- React
-- React Native
-- Node.js
-- CLI
-- MCP (Model Context Protocol)
-- Astro
-- YAML
-- TypeScript (implied by modern JS practices)
-- GitHub Actions (for CI)
+title: "heart-IT/react-brain"
+category: "Tooling"
+tech_stack: ["JavaScript", "React", "React Native", "Node.js", "CLI", "MCP (Model Context Protocol)", "Astro", "YAML", "TypeScript (implied by modern JS practices)", "GitHub Actions (for CI)"]
 quality_score: 8
 rag_relevance: 9
-tags:
-- React ecosystem
-- decision corpus
-- CLI tooling
-- MCP server
-- engineering mentorship
-source: https://github.com/heart-IT/react-brain
-discovered_at: '2026-07-16T08:10:21Z'
-evaluated_by: mistral-small-latest
+tags: ["React ecosystem", "decision corpus", "CLI tooling", "MCP server", "engineering mentorship"]
+source: "https://github.com/heart-IT/react-brain"
+discovered_at: "2026-07-16T08:10:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

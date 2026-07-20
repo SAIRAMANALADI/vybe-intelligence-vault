@@ -1,30 +1,13 @@
 ---
-title: BruceLanLan/chokepoint-research-agent
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- FastAPI
-- Typer
-- Anthropic API
-- OpenAI-compatible APIs
-- Tavily API
-- SQLite
-- Docker
-- Markdown
-- YAML
-- Claude models
-- DeepSeek models
+title: "BruceLanLan/chokepoint-research-agent"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "Typer", "Anthropic API", "OpenAI-compatible APIs", "Tavily API", "SQLite", "Docker", "Markdown", "YAML", "Claude models", "DeepSeek models"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- multi-agent systems
-- supply-chain analysis
-- investment research
-- thesis generation
-- red-team analysis
-source: https://github.com/BruceLanLan/chokepoint-research-agent
-discovered_at: '2026-07-11T17:54:38Z'
-evaluated_by: mistral-small-latest
+tags: ["multi-agent systems", "supply-chain analysis", "investment research", "thesis generation", "red-team analysis"]
+source: "https://github.com/BruceLanLan/chokepoint-research-agent"
+discovered_at: "2026-07-11T17:54:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

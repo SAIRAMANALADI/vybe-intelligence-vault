@@ -1,28 +1,13 @@
 ---
-title: Davidcarmelalex/MrNothing
-category: daily-digests/2026-07-20
-tech_stack:
-- Next.js
-- React
-- TypeScript
-- FastAPI
-- Python
-- PostgreSQL
-- Redis
-- Stripe
-- Telegram Bot API
-- SendGrid
+title: "Davidcarmelalex/MrNothing"
+category: "SaaS Template"
+tech_stack: ["Next.js", "React", "TypeScript", "FastAPI", "Python", "PostgreSQL", "Redis", "Stripe", "Telegram Bot API", "SendGrid"]
 quality_score: 7
 rag_relevance: 4
-tags:
-- luxury fashion
-- AI-driven drops
-- autonomous inventory
-- e-commerce
-- AI ecosystem
-source: https://github.com/Davidcarmelalex/MrNothing
-discovered_at: '2026-07-10T22:00:18Z'
-evaluated_by: mistral-small-latest
+tags: ["luxury fashion", "AI-driven drops", "autonomous inventory", "e-commerce", "AI ecosystem"]
+source: "https://github.com/Davidcarmelalex/MrNothing"
+discovered_at: "2026-07-10T22:00:18Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

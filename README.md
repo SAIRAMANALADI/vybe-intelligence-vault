@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-91%2C582-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-47%2C057-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--21-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **91,582 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **47,057 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 12,399</p>
-        <p><b>Active:</b> 12,142 | <b>Inactive:</b> 257</p>
+        <p><b>Resources tracked:</b> 11,397</p>
+        <p><b>Active:</b> 11,140 | <b>Inactive:</b> 257</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 45,575</p>
+        <p><b>Archive Files:</b> 2,013</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 91,582 files</p>
-        <p><b>Last Update:</b> 2026-07-21 01:45 IST</p>
+        <p><b>Total Vault Size:</b> 47,057 files</p>
+        <p><b>Last Update:</b> 2026-07-21 02:41 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,26 +210,22 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[China's open-weights AI strategy is winning](ai/community/american-ai-is-locked-down-and-proprietary-it-s-lo.md)** • <kbd>+429 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Airport Simulator](ai/community/airport-simulator.md)** • <kbd>+158 pts</kbd>
-- 🔼 **[Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling](ai/community/kimi-k3-qwen-3-8-and-anthropic-s-potential-unravel.md)** • <kbd>+104 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Controlling Reasoning Effort in LLMs](ai/community/controlling-reasoning-effort-in-llms.md)** • <kbd>+37 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12](ai/community/launch-hn-bloomy-yc-s26-ai-powered-mastery-learnin.md)** • <kbd>+32 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Client Challenge](ai/resources/client-challenge-2.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[App Store Connect](ai/resources/app-store-connect.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Apple Open Source](ai/resources/apple-open-source.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Apple - Legal](ai/resources/apple-legal.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Apple Support - YouTube](ai/resources/apple-support-youtube.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[How we measured AI writing across arXiv, and where the measurement breaks](ai/community/how-we-measured-ai-writing-across-arxiv-and-where.md)** • Score: `154`
-- 🆕 **[An Empirical Study: AI Agent Rules Need Context and Layered Enforcement](ai/community/an-empirical-study-ai-agent-rules-need-context-and.md)** • Score: `13`
-- 🆕 **[Browse privately in Safari on Mac - Apple Support](ai/resources/browse-privately-in-safari-on-mac-apple-support.md)** • Score: `0`
-- 🆕 **[Browse InPrivate in Microsoft Edge - Microsoft Support](ai/rag/browse-inprivate-in-microsoft-edge-microsoft-suppo.md)** • Score: `0`
-- 🆕 **[Apple - Legal](ai/resources/apple-legal.md)** • Score: `0`
+- 🆕 **[China's open-weights AI strategy is winning](ai/community/american-ai-is-locked-down-and-proprietary-it-s-lo.md)** • Score: `582`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Sealed tomb filled with paintings and inscriptions discovered in Egypt](ai/community/sealed-tomb-filled-with-paintings-and-inscriptions.md)**
-- 💤 **[Jaron Lanier: there is no AI (2023)](ai/community/jaron-lanier-there-is-no-ai-2023.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

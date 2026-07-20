@@ -1,24 +1,13 @@
 ---
-title: gwbtc/urbit-mcp
-category: daily-digests/2026-07-20
-tech_stack:
-- Hoon
-- Zig
-- Urbit
-- Model Context Protocol (MCP)
-- HTTP
-- Shell Scripting
+title: "gwbtc/urbit-mcp"
+category: "Tooling"
+tech_stack: ["Hoon", "Zig", "Urbit", "Model Context Protocol (MCP)", "HTTP", "Shell Scripting"]
 quality_score: 8
 rag_relevance: 7
-tags:
-- MCP
-- Urbit
-- AI Agents
-- Tool Integration
-- Decentralized Computing
-source: https://github.com/gwbtc/urbit-mcp
-discovered_at: '2026-07-20T09:59:42Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP", "Urbit", "AI Agents", "Tool Integration", "Decentralized Computing"]
+source: "https://github.com/gwbtc/urbit-mcp"
+discovered_at: "2026-07-20T09:59:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

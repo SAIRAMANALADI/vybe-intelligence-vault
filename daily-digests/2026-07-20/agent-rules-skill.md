@@ -1,24 +1,13 @@
 ---
-title: netresearch/agent-rules-skill
-category: daily-digests/2026-07-20
-tech_stack:
-- Shell
-- Markdown
-- JSON
-- YAML
-- Shell Scripting
-- CI/CD
+title: "netresearch/agent-rules-skill"
+category: "Tooling"
+tech_stack: ["Shell", "Markdown", "JSON", "YAML", "Shell Scripting", "CI/CD"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- AI documentation
-- agents.md
-- AI agent guidance
-- project scaffolding
-- multi-language support
-source: https://github.com/netresearch/agent-rules-skill
-discovered_at: '2026-07-10T13:10:55Z'
-evaluated_by: mistral-small-latest
+tags: ["AI documentation", "agents.md", "AI agent guidance", "project scaffolding", "multi-language support"]
+source: "https://github.com/netresearch/agent-rules-skill"
+discovered_at: "2026-07-10T13:10:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

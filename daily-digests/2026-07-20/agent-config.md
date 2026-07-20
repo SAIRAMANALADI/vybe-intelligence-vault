@@ -1,28 +1,13 @@
 ---
-title: junghan0611/agent-config
-category: daily-digests/2026-07-20
-tech_stack:
-- TypeScript
-- Python
-- LanceDB
-- MCP (Model Context Protocol)
-- Pi (Claude Code)
-- Git
-- Deno
-- Node.js
-- Shell Scripting
-- JQ
+title: "junghan0611/agent-config"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Python", "LanceDB", "MCP (Model Context Protocol)", "Pi (Claude Code)", "Git", "Deno", "Node.js", "Shell Scripting", "JQ"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- contextual continuity
-- agent memory
-- semantic search
-- multi-harness support
-- skill orchestration
-source: https://github.com/junghan0611/agent-config
-discovered_at: '2026-07-14T05:29:02Z'
-evaluated_by: mistral-small-latest
+tags: ["contextual continuity", "agent memory", "semantic search", "multi-harness support", "skill orchestration"]
+source: "https://github.com/junghan0611/agent-config"
+discovered_at: "2026-07-14T05:29:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,27 +1,13 @@
 ---
-title: 0xzr/freellmpool
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- HTTPX
-- OpenAI API
-- Anthropic API
-- CLI
-- MCP (Model Context Protocol)
-- Tailscale
-- FastAPI (implied by proxy)
-- Async/Await
+title: "0xzr/freellmpool"
+category: "Orchestrator"
+tech_stack: ["Python", "HTTPX", "OpenAI API", "Anthropic API", "CLI", "MCP (Model Context Protocol)", "Tailscale", "FastAPI (implied by proxy)", "Async/Await"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- LLM aggregation
-- free tier pooling
-- failover routing
-- OpenAI-compatible API
-- MCP server
-source: https://github.com/0xzr/freellmpool
-discovered_at: '2026-07-19T22:50:44Z'
-evaluated_by: mistral-small-latest
+tags: ["LLM aggregation", "free tier pooling", "failover routing", "OpenAI-compatible API", "MCP server"]
+source: "https://github.com/0xzr/freellmpool"
+discovered_at: "2026-07-19T22:50:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

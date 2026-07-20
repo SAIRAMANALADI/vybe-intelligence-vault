@@ -1,21 +1,13 @@
 ---
-title: lvshiwei66/tokenmf
-category: daily-digests/2026-07-20
-tech_stack:
-- TypeScript
-- Node.js
-- CLI
+title: "lvshiwei66/tokenmf"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "CLI"]
 quality_score: 6
 rag_relevance: 7
-tags:
-- LLM management
-- CLI tool
-- provider switching
-- AI configuration
-- developer tooling
-source: https://github.com/lvshiwei66/tokenmf
-discovered_at: '2026-07-20T03:52:20Z'
-evaluated_by: mistral-small-latest
+tags: ["LLM management", "CLI tool", "provider switching", "AI configuration", "developer tooling"]
+source: "https://github.com/lvshiwei66/tokenmf"
+discovered_at: "2026-07-20T03:52:20Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

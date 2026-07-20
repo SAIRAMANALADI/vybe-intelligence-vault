@@ -1,24 +1,13 @@
 ---
-title: chanceryhq/chancery
-category: daily-digests/2026-07-20
-tech_stack:
-- Go
-- MCP (Model Context Protocol)
-- Cosign (for signing)
-- Docker
-- REST API
-- CLI
+title: "chanceryhq/chancery"
+category: "Orchestrator"
+tech_stack: ["Go", "MCP (Model Context Protocol)", "Cosign (for signing)", "Docker", "REST API", "CLI"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- identity provider
-- agent governance
-- delegation
-- audit trail
-- MCP enforcement
-source: https://github.com/chanceryhq/chancery
-discovered_at: '2026-07-20T18:01:01Z'
-evaluated_by: mistral-small-latest
+tags: ["identity provider", "agent governance", "delegation", "audit trail", "MCP enforcement"]
+source: "https://github.com/chanceryhq/chancery"
+discovered_at: "2026-07-20T18:01:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

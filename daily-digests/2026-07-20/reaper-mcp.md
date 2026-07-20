@@ -1,25 +1,13 @@
 ---
-title: xDarkzx/Reaper-MCP
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- Lua
-- Model Context Protocol (MCP)
-- FastMCP
-- REAPER API
-- pytest
-- JSON-RPC
+title: "xDarkzx/Reaper-MCP"
+category: "Tooling"
+tech_stack: ["Python", "Lua", "Model Context Protocol (MCP)", "FastMCP", "REAPER API", "pytest", "JSON-RPC"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- AI music production
-- REAPER integration
-- MCP server
-- audio mixing
-- MIDI composition
-source: https://github.com/xDarkzx/Reaper-MCP
-discovered_at: '2026-07-17T10:46:38Z'
-evaluated_by: mistral-small-latest
+tags: ["AI music production", "REAPER integration", "MCP server", "audio mixing", "MIDI composition"]
+source: "https://github.com/xDarkzx/Reaper-MCP"
+discovered_at: "2026-07-17T10:46:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

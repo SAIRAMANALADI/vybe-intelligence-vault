@@ -1,28 +1,13 @@
 ---
-title: valuationgeek/daybrief
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- Ollama
-- SQLite
-- RSS
-- LLM (Local or OpenAI-compatible API)
-- YAML
-- SMTP
-- Telegram Bot API
-- Markdown
-- Obsidian
+title: "valuationgeek/daybrief"
+category: "Agent Framework"
+tech_stack: ["Python", "Ollama", "SQLite", "RSS", "LLM (Local or OpenAI-compatible API)", "YAML", "SMTP", "Telegram Bot API", "Markdown", "Obsidian"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- news aggregation
-- local LLM
-- personalization
-- RSS processing
-- automated curation
-source: https://github.com/valuationgeek/daybrief
-discovered_at: '2026-07-17T23:51:55Z'
-evaluated_by: mistral-small-latest
+tags: ["news aggregation", "local LLM", "personalization", "RSS processing", "automated curation"]
+source: "https://github.com/valuationgeek/daybrief"
+discovered_at: "2026-07-17T23:51:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

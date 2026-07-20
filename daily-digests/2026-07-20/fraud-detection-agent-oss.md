@@ -1,25 +1,13 @@
 ---
-title: warpdotdev/fraud-detection-agent-oss
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- SQL
-- Metabase
-- BigQuery
-- Slack API
-- Oz CLI
-- Warp Agent Platform
+title: "warpdotdev/fraud-detection-agent-oss"
+category: "Tooling"
+tech_stack: ["Python", "SQL", "Metabase", "BigQuery", "Slack API", "Oz CLI", "Warp Agent Platform"]
 quality_score: 8
 rag_relevance: 7
-tags:
-- fraud detection
-- SQL-based analysis
-- automated reporting
-- agent skills
-- data warehouse integration
-source: https://github.com/warpdotdev/fraud-detection-agent-oss
-discovered_at: '2026-07-20T19:53:32Z'
-evaluated_by: mistral-small-latest
+tags: ["fraud detection", "SQL-based analysis", "automated reporting", "agent skills", "data warehouse integration"]
+source: "https://github.com/warpdotdev/fraud-detection-agent-oss"
+discovered_at: "2026-07-20T19:53:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

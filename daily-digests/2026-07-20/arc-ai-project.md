@@ -1,31 +1,13 @@
 ---
-title: Aashutosh31/arc-ai-project
-category: daily-digests/2026-07-20
-tech_stack:
-- React
-- Node.js
-- Express.js
-- Socket.IO
-- MongoDB
-- Pinecone (Vector DB)
-- Gemini
-- Mistral AI
-- Pixtral
-- Tailwind CSS
-- WebAssembly (QuickJS)
-- node-cron
-- Cheerio
+title: "Aashutosh31/arc-ai-project"
+category: "Agent Framework"
+tech_stack: ["React", "Node.js", "Express.js", "Socket.IO", "MongoDB", "Pinecone (Vector DB)", "Gemini", "Mistral AI", "Pixtral", "Tailwind CSS", "WebAssembly (QuickJS)", "node-cron", "Cheerio"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- autonomous agents
-- RAG memory
-- real-time AI
-- multi-workspace
-- voice-activated
-source: https://github.com/Aashutosh31/arc-ai-project
-discovered_at: '2026-07-18T13:09:52Z'
-evaluated_by: mistral-small-latest
+tags: ["autonomous agents", "RAG memory", "real-time AI", "multi-workspace", "voice-activated"]
+source: "https://github.com/Aashutosh31/arc-ai-project"
+discovered_at: "2026-07-18T13:09:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

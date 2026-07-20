@@ -1,26 +1,13 @@
 ---
-title: chenshize/weclaudex
-category: daily-digests/2026-07-20
-tech_stack:
-- Node.js
-- TypeScript
-- WeChat API
-- Claude Code CLI
-- Codex CLI
-- Express.js
-- Jest
-- Docker
+title: "chenshize/weclaudex"
+category: "Orchestrator"
+tech_stack: ["Node.js", "TypeScript", "WeChat API", "Claude Code CLI", "Codex CLI", "Express.js", "Jest", "Docker"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- remote agent control
-- multi-modal input
-- resumable sessions
-- secure workspace
-- artifact delivery
-source: https://github.com/chenshize/weclaudex
-discovered_at: '2026-07-16T05:39:14Z'
-evaluated_by: mistral-small-latest
+tags: ["remote agent control", "multi-modal input", "resumable sessions", "secure workspace", "artifact delivery"]
+source: "https://github.com/chenshize/weclaudex"
+discovered_at: "2026-07-16T05:39:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

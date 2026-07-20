@@ -1,25 +1,13 @@
 ---
-title: qinxujunai/ai-work-method
-category: daily-digests/2026-07-20
-tech_stack:
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
-- Vitest
-- GitHub Actions
-- GitHub Pages
+title: "qinxujunai/ai-work-method"
+category: "Tooling"
+tech_stack: ["React", "TypeScript", "Vite", "Tailwind CSS", "Vitest", "GitHub Actions", "GitHub Pages"]
 quality_score: 8
 rag_relevance: 7
-tags:
-- AI methodology
-- workflow optimization
-- agent collaboration
-- natural language programming
-- deliverable generation
-source: https://github.com/qinxujunai/ai-work-method
-discovered_at: '2026-07-19T19:13:19Z'
-evaluated_by: mistral-small-latest
+tags: ["AI methodology", "workflow optimization", "agent collaboration", "natural language programming", "deliverable generation"]
+source: "https://github.com/qinxujunai/ai-work-method"
+discovered_at: "2026-07-19T19:13:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
