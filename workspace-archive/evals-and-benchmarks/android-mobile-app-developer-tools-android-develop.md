@@ -6,7 +6,7 @@ source_url: http://developer.android.com/index.html
 resource_id: blog:android-mobile-app-developer-tools-android-develop
 local_vault_path: ai/rag/android-mobile-app-developer-tools-android-develop.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -29,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Android Bench LLM Benchmarking**: Updated methodology for evaluating LLMs in Android development, with new models benchmarked and a public leaderboard for contributions ([Android Bench](https://developer.android.com/bench)).
+- **Android Bench 2026 Update**: Introduces updated LLM benchmarking methodology for Android development, includes new models, and invites community contributions to the benchmark via [Android Bench Leaderboard](https://developer.android.com/bench).
 
-- **Android 17 & XR Updates**: Android 17 (API 37) source code live on AOSP with Pixel rollout; Android XR expands engine support and resources for immersive app development.
+- **Android 17 (API 37) Release**: Source code live on AOSP, rolling out to Pixel devices; highlights top 5 updates developers must adopt for compatibility and new features.
 
-- **Android Studio Quail 2026.1.2**: Latest SDK release with updated licensing terms (Sections
+- **Android Studio Quail 2026.1.2**: Latest SDK release with updated licen
 
 ## Use Cases
 

@@ -1,13 +1,30 @@
 ---
-title: "13shreyansh/pulse-qwen-autopilot"
-category: "Agent Framework"
-tech_stack: ["Qwen Cloud", "Alibaba Function Compute", "FastAPI", "Next.js", "TypeScript", "React", "Pydantic", "Google Places API", "OpenStreetMap", "Vercel", "Python", "SHA-256 Hashing"]
+title: 13shreyansh/pulse-qwen-autopilot
+category: daily-digests/2026-07-20
+tech_stack:
+- Qwen Cloud
+- Alibaba Function Compute
+- FastAPI
+- Next.js
+- TypeScript
+- React
+- Pydantic
+- Google Places API
+- OpenStreetMap
+- Vercel
+- Python
+- SHA-256 Hashing
 quality_score: 9
 rag_relevance: 8
-tags: ["emergency coordination", "agent framework", "human-in-the-loop", "deterministic validation", "Qwen Cloud"]
-source: "https://github.com/13shreyansh/pulse-qwen-autopilot"
-discovered_at: "2026-07-20T18:00:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- emergency coordination
+- agent framework
+- human-in-the-loop
+- deterministic validation
+- Qwen Cloud
+source: https://github.com/13shreyansh/pulse-qwen-autopilot
+discovered_at: '2026-07-20T18:00:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

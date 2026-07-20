@@ -4,28 +4,26 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NousResearch/hermes-agent
-collected_at: '2026-07-21T01:30:45.151423+05:30'
-published_at: '2026-07-20T19:59:59Z'
+collected_at: '2026-07-21T03:47:47.683972+05:30'
+published_at: '2026-07-20T22:16:53Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- mistral
-- models
 - openai
 - python
 - workflows
-stars: 217715
+stars: 217758
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-07-22T22:22:28Z'
-pushed_at: '2026-07-20T19:57:03Z'
+pushed_at: '2026-07-20T21:52:45Z'
 resource_id: github:nousresearch/hermes-agent
-first_seen: '2026-07-21T01:30:45.151423+05:30'
-last_seen: '2026-07-21T01:30:45.151423+05:30'
-last_checked: '2026-07-21T01:30:45.151423+05:30'
+first_seen: '2026-07-21T03:47:47.683972+05:30'
+last_seen: '2026-07-21T03:47:47.683972+05:30'
+last_checked: '2026-07-21T03:47:47.683972+05:30'
 health_score: 100
 ---
 
@@ -33,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-LLM Agent Framework**: Hermes-Agent is a modular Python-based AI agent system supporting integration with multiple LLM providers (e.g., Anthropic, OpenAI, Mistral) via standardized APIs, enabling cross-platform agentic workflows.
+- **Multi-Model Agent Framework**: Hermes-Agent is a Python-based AI agent system supporting models from OpenAI, Anthropic, Nous Research, and others, enabling cross-platform agentic workflows with unified API interfaces.
 
-- **Dynamic Skill Expansion**: Implements a plugin architecture for real-time skill/tool integration, allowing agents to adapt capabilities (e.g., code execution, web browsing) without core system modifications.
+- **Dynamic Skill Integration**: Implements a modular architecture for real-time skill/plugin addition/removal, allowing agents to adapt capabilities without full redeployment via dynamic Python module loading.
 
-- **Stateful Conversational Memory**: Utilizes persistent memory stores (e.g., vector DBs) for context retention across sessions, enabling long-term task continuity and personalized agent behavior.
+- **Tool-Agnostic Execution**: Supports heterogeneous tool integration (code execution, API calls, file ops) with sandboxed environments, enabling secure multi-tool workflows across CLI, GUI, and API interfaces.
 
 ## Why It Matters
 
@@ -46,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NousResearch
-- Stars: 217715
-- Forks: 41052
+- Stars: 217758
+- Forks: 41064
 - Language: Python
 - Topics: ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw
-- Last Updated: 2026-07-20T19:59:59Z
+- Last Updated: 2026-07-20T22:16:53Z
 - License: MIT
 - Archived: No
 - Created At: 2025-07-22T22:22:28Z
-- Pushed At: 2026-07-20T19:57:03Z
+- Pushed At: 2026-07-20T21:52:45Z
 
 ## Possible Use Cases
 

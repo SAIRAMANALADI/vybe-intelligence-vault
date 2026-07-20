@@ -1,13 +1,27 @@
 ---
-title: "Abhi-2016/agilebot"
-category: "Agent Framework"
-tech_stack: ["Claude Agent SDK", "FastAPI", "Python", "Microsoft Teams (botbuilder-python)", "JIRA REST API", "PostgreSQL (Supabase)", "Redis", "Azure AD", "Claude API (claude-opus-4)"]
+title: Abhi-2016/agilebot
+category: daily-digests/2026-07-20
+tech_stack:
+- Claude Agent SDK
+- FastAPI
+- Python
+- Microsoft Teams (botbuilder-python)
+- JIRA REST API
+- PostgreSQL (Supabase)
+- Redis
+- Azure AD
+- Claude API (claude-opus-4)
 quality_score: 7
 rag_relevance: 6
-tags: ["Agile automation", "Scrum master", "Multi-agent systems", "JIRA integration", "Teams bot"]
-source: "https://github.com/Abhi-2016/agilebot"
-discovered_at: "2026-07-18T17:56:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agile automation
+- Scrum master
+- Multi-agent systems
+- JIRA integration
+- Teams bot
+source: https://github.com/Abhi-2016/agilebot
+discovered_at: '2026-07-18T17:56:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

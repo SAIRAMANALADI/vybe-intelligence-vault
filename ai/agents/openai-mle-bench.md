@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/openai/mle-bench
-collected_at: '2026-07-20T22:18:42.096220+05:30'
-published_at: '2026-07-20T13:43:51Z'
+collected_at: '2026-07-21T03:47:22.677349+05:30'
+published_at: '2026-07-20T18:14:25Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - openai
 - python
-stars: 1643
+stars: 1644
 language: Python
 status: active
 license: NOASSERTION
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-10-08T17:07:40Z'
 pushed_at: '2026-04-24T17:33:44Z'
 resource_id: github:openai/mle-bench
-first_seen: '2026-07-20T22:18:42.096220+05:30'
-last_seen: '2026-07-20T22:18:42.096220+05:30'
-last_checked: '2026-07-20T22:18:42.096220+05:30'
+first_seen: '2026-07-21T03:47:22.677349+05:30'
+last_seen: '2026-07-21T03:47:22.677349+05:30'
+last_checked: '2026-07-21T03:47:22.677349+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **MLE-bench**: A benchmark suite designed to evaluate AI agents' proficiency in machine learning engineering tasks, including model training, hyperparameter optimization, and debugging.
+- **MLE-bench**: A benchmark suite designed to evaluate AI agents' proficiency in machine learning engineering tasks, including model training, debugging, and optimization.
 
-- **Implementation**: Written in Python, it provides a standardized framework for assessing agent performance across diverse ML engineering challenges.
+- **Implementation**: Written in Python, the benchmark provides standardized tasks and metrics to assess agents' end-to-end ML engineering capabilities.
 
-- **Metadata**: 1,643 stars, 256 forks, last updated July 20, 2026.
+- **Status**: Last updated on July 20, 2026, with 1,644 stars and 256 forks on GitHub.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: openai
-- Stars: 1643
+- Stars: 1644
 - Forks: 256
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-20T13:43:51Z
+- Last Updated: 2026-07-20T18:14:25Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-10-08T17:07:40Z

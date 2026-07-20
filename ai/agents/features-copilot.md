@@ -4,22 +4,23 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/copilot/cli
-published_at: '2026-07-21T01:33:22.642217+05:30'
-collected_at: '2026-07-21T01:33:22.642237+05:30'
+published_at: '2026-07-21T03:50:26.856289+05:30'
+collected_at: '2026-07-21T03:50:26.856304+05:30'
 tags:
 - agents
 - anthropic
 - frontend_ui
 - hackernews
 - openai
+- scripts
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-07-21T01:33:22.642237+05:30'
-last_seen: '2026-07-21T01:33:22.642237+05:30'
-last_checked: '2026-07-21T01:33:22.642237+05:30'
+first_seen: '2026-07-21T03:50:26.856304+05:30'
+last_seen: '2026-07-21T03:50:26.856304+05:30'
+last_checked: '2026-07-21T03:50:26.856304+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Workflows**: Copilot CLI supports parallelized subagents via `/fleet`, enabling concurrent task execution across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching, and autonomous multi-step workflows from `/plan` to PR via `/delegate`.
+- **Multi-Model & Parallel Execution**: Supports `/model` switching and `/fleet` for parallelized task execution across multiple subagents, enabling concurrent model comparisons and distributed workloads.
 
-- **GitHub-Native Integration**: Built on GitHub’s Model Context Protocol (MCP), it directly interacts with issues, PRs, and branches, inherits org policies (branch protections, governance), and persists sessions across `/remote` devices with explicit user approval for all file/command changes.
+- **GitHub-Native Agentic Workflow**: Integrates with GitHub’s `/mcp` for native issue/PR management, branch operations, and pull request automation, while maintaining compliance with org policies (branch protections, required checks).
 
-- **Extensible & SDK-Compatible**: Supports custom MCP servers, skills, and plugins via `AGENTS.md`; integrates with VS Code terminal/chat; and offers experimental features (`/experimental show`) and an SDK (`@github/copilot`) for programmatic agent integration.
+- **Session Persistence & Autopilot**: Maintains context via `/resume` for long-running tasks and `/plan` mode for agentic outlining, with Shift+Tab autopilot for autonomous execution under user-defined guardrails.
 
 ## Why It Matters
 
@@ -41,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-21T01:33:22.642217+05:30
+- Published: 2026-07-21T03:50:26.856289+05:30
 
 ## Related Tags
 
@@ -50,6 +51,7 @@ General public resource representing technology updates, guides, or tutorials.
 - frontend_ui
 - hackernews
 - openai
+- scripts
 - web-crawled
 - workflows
 - youtube

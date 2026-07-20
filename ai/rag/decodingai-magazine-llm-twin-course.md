@@ -4,15 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-07-21T01:28:24.978463+05:30'
+collected_at: '2026-07-21T03:45:27.531264+05:30'
 published_at: '2026-07-19T03:42:21Z'
 tags:
 - github-repo
 - hackernews
 - python
 - rag
-- scripts
-- workflows
 stars: 4374
 language: Python
 status: active
@@ -21,9 +19,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-07-21T01:28:24.978463+05:30'
-last_seen: '2026-07-21T01:28:24.978463+05:30'
-last_checked: '2026-07-21T01:28:24.978463+05:30'
+first_seen: '2026-07-21T03:45:27.531264+05:30'
+last_seen: '2026-07-21T03:45:27.531264+05:30'
+last_checked: '2026-07-21T03:45:27.531264+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Course Structure**: Provides open-source code and 12 hands-on lessons for building a production-ready LLM and RAG system using LLMOps best practices, covering end-to-end development from model training to deployment.
-
-- **Technical Stack**: Implements AWS, Pulumi (IaC), Bytewax (streaming), Qdrant (vector DB), Qwak (MLOps), and Comet.ml (experiment tracking) with Docker for containerization.
-
-- **Focus Areas**: Covers MLOps, ML system design, generative AI, and infrastructure automation, emphasizing scalable, production-grade LLM/RAG deployment workflows.
+- **Course Structure**: End-to-end guide for building production-ready LLM & RAG systems using LLMOps best practices, including 12 hands-on lessons and full source code.
+- **Technical Stack**: Python-based implementation leveraging AWS, Pulumi (IaC), Bytewax (streaming), Qdrant (vector DB), Comet-ML (experiment tracking), and Qwak (MLOps platform).
+- **Deployment & Scalability**: Docker containerization, infrastructure-as-code (Pulumi), and integration with generative AI tools for scalable, production-grade LLM/RAG systems.
 
 ## Why It Matters
 

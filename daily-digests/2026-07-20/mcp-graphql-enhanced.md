@@ -1,13 +1,24 @@
 ---
-title: "letoribo/mcp-graphql-enhanced"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "GraphQL", "Model Context Protocol (MCP)", "Node.js", "HTTP/JSON-RPC", "Zod"]
+title: letoribo/mcp-graphql-enhanced
+category: daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- GraphQL
+- Model Context Protocol (MCP)
+- Node.js
+- HTTP/JSON-RPC
+- Zod
 quality_score: 9
 rag_relevance: 9
-tags: ["GraphQL", "MCP", "LLM", "introspection", "federated gateway"]
-source: "https://github.com/letoribo/mcp-graphql-enhanced"
-discovered_at: "2026-07-19T20:44:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- GraphQL
+- MCP
+- LLM
+- introspection
+- federated gateway
+source: https://github.com/letoribo/mcp-graphql-enhanced
+discovered_at: '2026-07-19T20:44:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

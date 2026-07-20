@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/BrandPeng/Langchain1.0-Langgraph1.0-Learning
-collected_at: '2026-07-21T01:31:30.157990+05:30'
+collected_at: '2026-07-21T03:48:32.698328+05:30'
 published_at: '2026-07-20T02:08:10Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-12-13T13:19:40Z'
 pushed_at: '2026-01-11T10:47:01Z'
 resource_id: github:brandpeng/langchain1.0-langgraph1.0-learning
-first_seen: '2026-07-21T01:31:30.157990+05:30'
-last_seen: '2026-07-21T01:31:30.157990+05:30'
-last_checked: '2026-07-21T01:31:30.157990+05:30'
+first_seen: '2026-07-21T03:48:32.698328+05:30'
+last_seen: '2026-07-21T03:48:32.698328+05:30'
+last_checked: '2026-07-21T03:48:32.698328+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational Repository**: Focuses on LangChain 1.0 and LangGraph 1.0, covering agent development from foundational concepts to practical implementations.
-- **Technical Stack**: Implemented in Python, emphasizing agent-based workflows and integration of LangChain/LangGraph frameworks.
-- **Project Scope**: Includes a complete learning path with hands-on projects, updated as of July 20, 2026.
+- **Purpose**: Repository focused on learning **LangChain 1.0** and **LangGraph 1.0** for **agent development**, covering foundational concepts to practical implementation.
+- **Technical Scope**: Provides a structured learning path for **Python-based agent systems**, integrating workflows from basic theory to real-world projects.
+- **Metadata**: **592 stars**, **109 forks**, last updated **July 20, 2026**; categorized under **agent, langchain, langgraph**.
 
 ## Why It Matters
 

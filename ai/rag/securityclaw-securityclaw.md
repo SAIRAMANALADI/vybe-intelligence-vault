@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-07-21T01:28:49.995870+05:30'
+collected_at: '2026-07-21T03:45:52.548468+05:30'
 published_at: '2026-07-20T15:03:06Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - python
 - rag
 - scripts
+- workflows
 stars: 255
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-07-20T15:01:31Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-07-21T01:28:49.995870+05:30'
-last_seen: '2026-07-21T01:28:49.995870+05:30'
-last_checked: '2026-07-21T01:28:49.995870+05:30'
+first_seen: '2026-07-21T03:45:52.548468+05:30'
+last_seen: '2026-07-21T03:45:52.548468+05:30'
+last_checked: '2026-07-21T03:45:52.548468+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous SOC agent with skill-based architecture for monitoring OpenSearch/Elasticsearch logs, integrating RAG for behavioral memory, and validating real-time anomalies via LLMs.
+- **Modular SOC Agent**: Python-based autonomous SOC agent leveraging OpenSearch/Elasticsearch for real-time data monitoring, with modular design for extensibility in cybersecurity workflows.
 
-- **RAG-Enhanced Threat Detection**: Builds contextual behavioral memory using retrieval-augmented generation (RAG) to correlate historical and real-time security events, improving anomaly validation accuracy.
+- **RAG-Powered Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to construct and query contextual behavioral memory for anomaly validation, enhancing threat detection accuracy.
 
-- **LLM-Driven Anomaly Validation**: Leverages large language models (LLMs) to dynamically assess and validate detected anomalies, enabling autonomous threat detection and response in SOC environments.
+- **LLM-Driven Anomaly Validation**: Uses Large Language Models (LLMs) to dynamically assess and validate real-time anomalies, integrating AI agents for autonomous threat hunting and SOC automation.
 
 ## Why It Matters
 

@@ -1,13 +1,34 @@
 ---
-title: "shaheersalal/nexadesk"
-category: "Agent Framework"
-tech_stack: ["FastAPI", "Python", "React", "Tailwind CSS", "Vite", "Anthropic Claude", "Deepgram", "ElevenLabs", "OpenAI", "Qdrant", "Supabase", "Redis", "Twilio", "Google Calendar API", "Docker", "Nginx"]
+title: shaheersalal/nexadesk
+category: daily-digests/2026-07-20
+tech_stack:
+- FastAPI
+- Python
+- React
+- Tailwind CSS
+- Vite
+- Anthropic Claude
+- Deepgram
+- ElevenLabs
+- OpenAI
+- Qdrant
+- Supabase
+- Redis
+- Twilio
+- Google Calendar API
+- Docker
+- Nginx
 quality_score: 9
 rag_relevance: 10
-tags: ["AI receptionist", "real estate automation", "voice AI", "RAG", "lead qualification"]
-source: "https://github.com/shaheersalal/nexadesk"
-discovered_at: "2026-07-18T21:49:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI receptionist
+- real estate automation
+- voice AI
+- RAG
+- lead qualification
+source: https://github.com/shaheersalal/nexadesk
+discovered_at: '2026-07-18T21:49:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

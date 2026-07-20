@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-07-21T01:30:05.117867+05:30'
+collected_at: '2026-07-21T03:47:07.610793+05:30'
 published_at: '2026-07-19T01:32:42Z'
 tags:
 - agents
+- frontend_ui
 - github-repo
 - rag
 - reddit
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-07-21T01:30:05.117867+05:30'
-last_seen: '2026-07-21T01:30:05.117867+05:30'
-last_checked: '2026-07-21T01:30:05.117867+05:30'
+first_seen: '2026-07-21T03:47:07.610793+05:30'
+last_seen: '2026-07-21T03:47:07.610793+05:30'
+last_checked: '2026-07-21T03:47:07.610793+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized Caching Strategies**: Implements advanced TanStack Query patterns for efficient data caching and stale-while-revalidate (SWR) mechanisms, reducing redundant API calls in AI-driven applications.
+- **Optimized State Management**: Implements TanStack Query best practices for efficient data fetching, caching, and synchronization in AI-driven applications, reducing redundant network requests and improving performance.
 
-- **State Management Integration**: Demonstrates seamless synchronization between TanStack Router and Query for dynamic route-based data fetching, leveraging URL state for persistent client-side caching.
+- **Advanced Routing Strategies**: Leverages TanStack Router for dynamic, type-safe routing with lazy loading and nested route configurations, enhancing navigation in AI agent interfaces.
 
-- **AI-Agent Adaptability**: Provides pre-configured hooks and utilities to adapt TanStack Query/Router/Start for AI coding agents, ensuring optimized performance in automated code generation and execution workflows.
+- **Start Framework Integration**: Utilizes TanStack Start for streamlined SSR/SSG setup, optimizing initial load times and SEO while maintaining reactivity in AI agent workflows.
 
 ## Why It Matters
 

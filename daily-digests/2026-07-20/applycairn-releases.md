@@ -1,13 +1,23 @@
 ---
-title: "scumunna/applycairn-releases"
-category: "Tooling"
-tech_stack: ["JavaScript", "MCP (Model Context Protocol)", "Local-first architecture", "SHA-256 checksums", "GitHub Actions (for releases)"]
+title: scumunna/applycairn-releases
+category: daily-digests/2026-07-20
+tech_stack:
+- JavaScript
+- MCP (Model Context Protocol)
+- Local-first architecture
+- SHA-256 checksums
+- GitHub Actions (for releases)
 quality_score: 8
 rag_relevance: 6
-tags: ["career memory", "job search", "evidence tracking", "local-first", "AI assistant"]
-source: "https://github.com/scumunna/applycairn-releases"
-discovered_at: "2026-07-15T21:59:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- career memory
+- job search
+- evidence tracking
+- local-first
+- AI assistant
+source: https://github.com/scumunna/applycairn-releases
+discovered_at: '2026-07-15T21:59:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

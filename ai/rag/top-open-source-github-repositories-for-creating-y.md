@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.resemble.ai/resources/top-open-source-github-repositories-for-creating-your-own-rag
-published_at: '2026-07-21T01:32:01.053335+05:30'
-collected_at: '2026-07-21T01:32:01.053350+05:30'
+published_at: '2026-07-21T03:48:58.438220+05:30'
+collected_at: '2026-07-21T03:48:58.438233+05:30'
 tags:
 - agents
 - benchmark
@@ -17,12 +17,13 @@ tags:
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: blog:top-open-source-github-repositories-for-creating-y
-first_seen: '2026-07-21T01:32:01.053350+05:30'
-last_seen: '2026-07-21T01:32:01.053350+05:30'
-last_checked: '2026-07-21T01:32:01.053350+05:30'
+first_seen: '2026-07-21T03:48:58.438233+05:30'
+last_seen: '2026-07-21T03:48:58.438233+05:30'
+last_checked: '2026-07-21T03:48:58.438233+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Resemble AI** provides a suite of **multimodal deepfake detection and verification tools**, including **Resemble Detect** for real-time deepfake monitoring, **Resemble Watermarker** for media authentication, and **Resemble Identity** for biometric verification.
+- **Cognita (Truefoundry)**: Open-source RAG framework for modular RAG configuration, local testing, and production deployment, addressing chunking, embedding, query/LLM/vector DB deployment via a unified codebase ([GitHub](https://github.com/truefoundry/cognita)).
 
-- **Top open-source RAG repositories** include **Cognita** (Truefoundry) for modular RAG deployment, **Verba** (Weaviate) for user-friendly RAG applications, and **LlamaIndex** for structured data indexing and retrieval pipelines.
+- **Verba (Weaviate)**: Modular, user-friendly RAG application with a customizable architecture, supporting HuggingFace models and document ingestion from sources like Unstructured and GitHub ([GitHub](https://github.com/weaviate/Verba)).
 
-- **Key selection criteria** for RAG repositories involve **popularity metrics (stars, forks)**, **feature completeness**, **license compliance**, **scalability**, and **code quality with active maintenance**.
+- **LlamaIndex**: High-level RAG framework enabling data ingestion, indexing, and querying across diverse sources (APIs, PDFs, databases) with built-in tools for retrieval, synthesis, and agent workflows ([GitHub](https://github.com/run-llama/llama_index)).
 
 ## Why It Matters
 
@@ -44,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T01:32:01.053335+05:30
+- Published: 2026-07-21T03:48:58.438220+05:30
 
 ## Related Tags
 
@@ -58,6 +59,7 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 
 ## Source

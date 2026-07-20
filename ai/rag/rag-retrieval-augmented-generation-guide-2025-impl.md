@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://tensorblue.com/blog/rag-retrieval-augmented-generation-implementation-guide-2025
-published_at: '2026-07-21T01:27:34.602284+05:30'
-collected_at: '2026-07-21T01:27:34.602301+05:30'
+published_at: '2026-07-21T03:44:34.945556+05:30'
+collected_at: '2026-07-21T03:44:34.945568+05:30'
 tags:
 - anthropic
 - hackernews
@@ -15,11 +15,12 @@ tags:
 - openai
 - rag
 - web-crawled
+- workflows
 status: active
 resource_id: blog:rag-retrieval-augmented-generation-guide-2025-impl
-first_seen: '2026-07-21T01:27:34.602301+05:30'
-last_seen: '2026-07-21T01:27:34.602301+05:30'
-last_checked: '2026-07-21T01:27:34.602301+05:30'
+first_seen: '2026-07-21T03:44:34.945568+05:30'
+last_seen: '2026-07-21T03:44:34.945568+05:30'
+last_checked: '2026-07-21T03:44:34.945568+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI text-embedding-ada-002, Sentence Transformers), and vector databases (Pinecone, Weaviate, Qdrant) for dynamic knowledge retrieval and LLM response augmentation.
+- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI text-embedding-ada-002, Sentence Transformers), vector databases (Pinecone, Weaviate, FAISS), and retrieval strategies (semantic, hybrid, re-ranking) to enhance LLM responses with external knowledge.
 
-- **Advanced Techniques**: Implements hierarchical retrieval, query expansion, hybrid search (dense + sparse vectors), re-ranking (e.g., ms-marco-MiniLM), and adaptive retrieval (Self-RAG) to improve recall, precision, and reduce hallucinations by grounding responses in verified data.
+- **Implementation Workflow**: Processes documents via LangChain’s `RecursiveCharacterTextSplitter`, generates embeddings (e.g., OpenAI embeddings), stores in vector DB (e.g., Pinecone), and retrieves top-*k* chunks for LLM generation (e.g., GPT-4) with prompt injection and citation attribution.
 
-- **Production Metrics**: Achieves 90-95% accuracy with real-time updates, <2s latency, and 10-50x cost savings vs. fine-tuning; case studies show 92% accuracy in legal Q&A and 78% automated resolution in customer support.
+- **Advanced Techniques & Trade-offs**: Uses hierarchical retrieval, query expansion, and hybrid search to improve recall/precision (e.g., +20-30% recall with query expansion), while RAG outperforms fine-tuning in cost ($0.02-0.10/query vs $500-5,000) and real-time updates but may introduce latency (target <2s end-to-end).
 
 ## Why It Matters
 
@@ -41,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T01:27:34.602284+05:30
+- Published: 2026-07-21T03:44:34.945556+05:30
 
 ## Related Tags
 
@@ -52,6 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 - openai
 - rag
 - web-crawled
+- workflows
 
 ## Source
 

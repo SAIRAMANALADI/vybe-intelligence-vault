@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/naver/bergen
-collected_at: '2026-07-21T01:28:40.006632+05:30'
+collected_at: '2026-07-21T03:45:42.570529+05:30'
 published_at: '2026-07-08T12:33:32Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-05-09T14:13:44Z'
 pushed_at: '2026-07-14T11:04:39Z'
 resource_id: github:naver/bergen
-first_seen: '2026-07-21T01:28:40.006632+05:30'
-last_seen: '2026-07-21T01:28:40.006632+05:30'
-last_checked: '2026-07-21T01:28:40.006632+05:30'
+first_seen: '2026-07-21T03:45:42.570529+05:30'
+last_seen: '2026-07-21T03:45:42.570529+05:30'
+last_checked: '2026-07-21T03:45:42.570529+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   RAG benchmarking library for comprehensive evaluation of retrieval, augmentation, and generation components.
-*   Targets performance assessment of LLMs within Retrieval-Augmented Generation architectures.
-*   Developed in Jupyter Notebook, facilitating interactive experimentation and analysis of RAG pipelines.
+*   A benchmarking library for Retrieval Augmented Generation (RAG) systems.
+*   Evaluates RAG components including augmentation, generation, retrieval, and LLM integration.
+*   Developed predominantly in Jupyter Notebook, suggesting an interactive or experimental framework.
 
 ## Why It Matters
 

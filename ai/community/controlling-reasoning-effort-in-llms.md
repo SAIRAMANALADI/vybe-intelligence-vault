@@ -13,13 +13,14 @@ collected_at: '2026-07-21T01:26:43.798730+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:controlling-reasoning-effort-in-llms
 first_seen: '2026-07-20T22:15:08.855909+05:30'
 last_seen: '2026-07-21T01:26:43.798730+05:30'
 last_checked: '2026-07-21T01:26:43.798730+05:30'
 health_score: 100
 ---
+
 
 # Controlling Reasoning Effort in LLMs
 

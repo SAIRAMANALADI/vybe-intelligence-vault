@@ -4,16 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-07-21T01:27:24.968536+05:30'
-published_at: '2026-07-20T04:18:27Z'
+collected_at: '2026-07-21T03:44:27.526270+05:30'
+published_at: '2026-07-20T20:54:26Z'
 tags:
 - benchmark
 - dataset
 - github-repo
 - hackernews
+- models
 - python
 - rag
-stars: 259
+stars: 260
 language: Python
 status: active
 license: MIT
@@ -21,9 +22,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-07-21T01:27:24.968536+05:30'
-last_seen: '2026-07-21T01:27:24.968536+05:30'
-last_checked: '2026-07-21T01:27:24.968536+05:30'
+first_seen: '2026-07-21T03:44:27.526270+05:30'
+last_seen: '2026-07-21T03:44:27.526270+05:30'
+last_checked: '2026-07-21T03:44:27.526270+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Introduces **RAGTruth**, a hallucination corpus designed to evaluate and improve the trustworthiness of **Retrieval-Augmented Generation (RAG)** language models by identifying and mitigating hallucinations in generated outputs.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and categorizing hallucinations in generated outputs.
 
-- **Dataset Features**: Contains **annotated hallucinations** across diverse domains, enabling fine-grained analysis of model errors, including **faithfulness, factuality, and contextual relevance** in RAG pipelines.
+- **Technical Composition**: Contains annotated hallucination data (e.g., factual inaccuracies, unsupported claims) across diverse domains, structured for fine-tuning and benchmarking RAG systems against hallucination risks.
 
-- **Technical Stack**: Implemented in **Python**, with tools for **corpus generation, evaluation metrics, and hallucination detection** to facilitate reproducible research and benchmarking in trustworthy RAG systems.
+- **Implementation**: Provides Python-based tools for dataset access, preprocessing, and integration with RAG pipelines, enabling reproducible hallucination detection and mitigation research.
 
 ## Why It Matters
 
@@ -44,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ParticleMedia
-- Stars: 259
+- Stars: 260
 - Forks: 32
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-20T04:18:27Z
+- Last Updated: 2026-07-20T20:54:26Z
 - License: MIT
 - Archived: No
 - Created At: 2023-12-26T05:41:01Z

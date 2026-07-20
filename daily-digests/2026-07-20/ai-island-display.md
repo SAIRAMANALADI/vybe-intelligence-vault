@@ -1,13 +1,25 @@
 ---
-title: "Wangchena/ai-island-display"
-category: "UI Component"
-tech_stack: ["Swift", "SwiftUI", "Xcode", "macOS SDK", "HTTP Hooks", "Local Server (127.0.0.1)", "Swift Concurrency"]
+title: Wangchena/ai-island-display
+category: daily-digests/2026-07-20
+tech_stack:
+- Swift
+- SwiftUI
+- Xcode
+- macOS SDK
+- HTTP Hooks
+- Local Server (127.0.0.1)
+- Swift Concurrency
 quality_score: 8
 rag_relevance: 6
-tags: ["macOS", "AI Activity Monitor", "Dynamic Island", "Claude Code", "Qoder"]
-source: "https://github.com/Wangchena/ai-island-display"
-discovered_at: "2026-07-19T08:13:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- macOS
+- AI Activity Monitor
+- Dynamic Island
+- Claude Code
+- Qoder
+source: https://github.com/Wangchena/ai-island-display
+discovered_at: '2026-07-19T08:13:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

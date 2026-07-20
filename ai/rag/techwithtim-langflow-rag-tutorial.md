@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/techwithtim/Langflow-RAG-Tutorial
-collected_at: '2026-07-21T01:27:44.930472+05:30'
+collected_at: '2026-07-21T03:44:47.491640+05:30'
 published_at: '2026-07-03T20:52:55Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2024-04-17T10:56:19Z'
 pushed_at: '2024-07-18T10:50:24Z'
 resource_id: github:techwithtim/langflow-rag-tutorial
-first_seen: '2026-07-21T01:27:44.930472+05:30'
-last_seen: '2026-07-21T01:27:44.930472+05:30'
-last_checked: '2026-07-21T01:27:44.930472+05:30'
+first_seen: '2026-07-21T03:44:47.491640+05:30'
+last_seen: '2026-07-21T03:44:47.491640+05:30'
+last_checked: '2026-07-21T03:44:47.491640+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Status**: Last updated on 2026-07-03; minimal metadata (no language/topics specified).
-- **Activity Metrics**: 97 stars, 25 forks; suggests niche or emerging project.
-- **Purpose**: Unclear (no description provided); likely a tutorial for Langflow-based RAG implementations.
+- **Repository**: `techwithtim/Langflow-RAG-Tutorial` (97 ⭐, 25 🍴), last updated 2026-07-03.
+- **Language/Topics**: Undefined (no metadata provided).
+- **Purpose**: Unspecified (no description or topics listed).
 
 ## Why It Matters
 

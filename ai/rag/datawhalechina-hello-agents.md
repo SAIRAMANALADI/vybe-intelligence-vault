@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/hello-agents
-collected_at: '2026-07-21T01:27:40.028147+05:30'
+collected_at: '2026-07-21T03:44:42.588649+05:30'
 published_at: '2026-07-20T19:28:42Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 stars: 67438
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-09-07T09:50:24Z'
 pushed_at: '2026-07-17T09:29:46Z'
 resource_id: github:datawhalechina/hello-agents
-first_seen: '2026-07-21T01:27:40.028147+05:30'
-last_seen: '2026-07-21T01:27:40.028147+05:30'
-last_checked: '2026-07-21T01:27:40.028147+05:30'
+first_seen: '2026-07-21T03:44:42.588649+05:30'
+last_seen: '2026-07-21T03:44:42.588649+05:30'
+last_checked: '2026-07-21T03:44:42.588649+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational Repository**: Provides a comprehensive tutorial on building intelligent agents from scratch, covering both theoretical principles and practical implementations in Python.
-
-- **Key Components**: Focuses on integrating large language models (LLMs), retrieval-augmented generation (RAG), and agent architectures for real-world applications.
-
-- **Updated Content**: Last modified on July 20, 2026, with 67,438 stars and 8,371 forks, indicating active community engagement and maintenance.
+- **Purpose**: Comprehensive tutorial in Chinese for building AI agents from scratch, covering theoretical foundations and practical implementations.
+- **Key Components**: Integrates LLM (Large Language Models), RAG (Retrieval-Augmented Generation), and agent frameworks for hands-on development.
+- **Technical Stack**: Python-based repository with active updates (last modified July 2026) and high community engagement (67k+ stars, 8k+ forks).
 
 ## Why It Matters
 

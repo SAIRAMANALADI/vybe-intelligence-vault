@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/react-agent
-collected_at: '2026-07-21T01:31:05.216622+05:30'
+collected_at: '2026-07-21T03:48:07.692663+05:30'
 published_at: '2026-07-16T19:57:17Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-21T19:57:32Z'
 pushed_at: '2026-06-26T08:21:52Z'
 resource_id: github:langchain-ai/react-agent
-first_seen: '2026-07-21T01:31:05.216622+05:30'
-last_seen: '2026-07-21T01:31:05.216622+05:30'
-last_checked: '2026-07-21T01:31:05.216622+05:30'
+first_seen: '2026-07-21T03:48:07.692663+05:30'
+last_seen: '2026-07-21T03:48:07.692663+05:30'
+last_checked: '2026-07-21T03:48:07.692663+05:30'
 health_score: 100
 ---
 
@@ -31,8 +31,10 @@ health_score: 100
 ## Summary
 
 - **Template Purpose**: Provides a LangGraph-based implementation of a ReAct (Reasoning and Acting) agent in Python, enabling iterative reasoning and action execution workflows.
-- **Key Components**: Utilizes LangGraph for state management and agent orchestration, with modular tools/actions for dynamic decision-making.
-- **Dependencies**: Requires Python ecosystem integration with LangChain/LangGraph libraries for agentic workflows.
+
+- **Core Components**: Utilizes LangGraph for stateful, multi-actor workflows, with a focus on modularity and extensibility for agent-based systems.
+
+- **Update Status**: Last modified on **2026-07-16**, with 798 stars and 696 forks, indicating active community engagement.
 
 ## Why It Matters
 

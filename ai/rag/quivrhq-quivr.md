@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-07-21T01:28:50.008684+05:30'
-published_at: '2026-07-20T15:11:35Z'
+collected_at: '2026-07-21T03:45:52.550125+05:30'
+published_at: '2026-07-20T22:09:54Z'
 tags:
 - frontend_ui
 - github-repo
@@ -14,7 +14,7 @@ tags:
 - openai
 - python
 - rag
-stars: 39228
+stars: 39229
 language: Python
 status: active
 license: NOASSERTION
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-07-21T01:28:50.008684+05:30'
-last_seen: '2026-07-21T01:28:50.008684+05:30'
-last_checked: '2026-07-21T01:28:50.008684+05:30'
+first_seen: '2026-07-21T03:45:52.550125+05:30'
+last_seen: '2026-07-21T03:45:52.550125+05:30'
+last_checked: '2026-07-21T03:45:52.550125+05:30'
 health_score: 100
 ---
 
@@ -34,9 +34,9 @@ health_score: 100
 
 - **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization across LLMs (e.g., GPT4, Groq, Llama), vector stores (e.g., PGVector, Faiss), and file types without vendor lock-in.
 
-- **Multi-Platform Compatibility**: The framework offers flexible deployment options via Docker, supports both Python (backend) and TypeScript/JavaScript (frontend with React), and integrates with databases like PostgreSQL, enabling hybrid RAG architectures.
+- **Multi-Platform Compatibility**: Built with Python backend and React frontend, it offers Dockerized deployment, TypeScript/JavaScript API support, and compatibility with PostgreSQL, ensuring flexibility for integration into existing products.
 
-- **Privacy & Security Focus**: Prioritizes data privacy with self-hosting capabilities, supports secure API integrations (e.g., OpenAI, Groq), and provides customizable security layers for enterprise-grade deployments.
+- **Privacy & Security Focus**: Emphasizes data privacy with secure handling of sensitive information, supporting local LLM deployment and customizable security configurations for enterprise-grade use cases.
 
 ## Why It Matters
 
@@ -45,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: QuivrHQ
-- Stars: 39228
-- Forks: 3715
+- Stars: 39229
+- Forks: 3716
 - Language: Python
 - Topics: ai, api, chatbot, chatgpt, database, docker, framework, frontend, groq, html, javascript, llm, openai, postgresql, privacy, rag, react, security, typescript, vector
-- Last Updated: 2026-07-20T15:11:35Z
+- Last Updated: 2026-07-20T22:09:54Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-05-12T23:53:30Z

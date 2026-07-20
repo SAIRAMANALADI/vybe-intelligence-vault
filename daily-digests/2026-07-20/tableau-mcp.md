@@ -1,13 +1,24 @@
 ---
-title: "tableau/tableau-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "OAuth 2.1", "Docker", "Heroku"]
+title: tableau/tableau-mcp
+category: daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- OAuth 2.1
+- Docker
+- Heroku
 quality_score: 9
 rag_relevance: 8
-tags: ["Tableau", "MCP", "data integration", "AI agents", "analytics"]
-source: "https://github.com/tableau/tableau-mcp"
-discovered_at: "2026-07-15T16:21:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Tableau
+- MCP
+- data integration
+- AI agents
+- analytics
+source: https://github.com/tableau/tableau-mcp
+discovered_at: '2026-07-15T16:21:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

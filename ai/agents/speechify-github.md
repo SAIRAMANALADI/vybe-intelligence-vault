@@ -4,19 +4,18 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/SpeechifyInc
-published_at: '2026-07-20T20:13:31.631045+05:30'
-collected_at: '2026-07-20T20:13:31.631063+05:30'
+published_at: '2026-07-21T03:53:16.091287+05:30'
+collected_at: '2026-07-21T03:53:16.091299+05:30'
 tags:
 - agents
 - dataset
 - reddit
 - web-crawled
-- workflows
 status: active
 resource_id: blog:speechify-github
-first_seen: '2026-07-20T20:13:31.631063+05:30'
-last_seen: '2026-07-20T20:13:31.631063+05:30'
-last_checked: '2026-07-20T20:13:31.631063+05:30'
+first_seen: '2026-07-21T03:53:16.091299+05:30'
+last_seen: '2026-07-21T03:53:16.091299+05:30'
+last_checked: '2026-07-21T03:53:16.091299+05:30'
 health_score: 100
 ---
 
@@ -24,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Meta-Voicebox**: First generative AI model for speech, enabling cross-task generalization with state-of-the-art performance, implemented in the `Meta-voicebox` repository.
+- **Meta-Voicebox**: First generative AI speech model by Speechify, enabling cross-task generalization with state-of-the-art performance (GitHub: [SpeechifyInc/Meta-voicebox](https://github.com/SpeechifyInc/Meta-voicebox)).
 
-- **Speechify AI SDKs**: Multiple SDKs (TypeScript, Python) and legacy libraries (`speechify-api-sdk-typescript`, `speechify-api-sdk-python`) for interfacing with Speechify’s AI API, supporting text-to-speech and speech processing workflows.
+- **AI/ML Tooling**: Open-source libraries including `string-tracker` (TypeScript) for transparent string manipulation, `olmocr` (Python) for PDF linearization in LLM training, and `SpecForge` (Python) for speculative decoding model training and deployment.
 
-- **Open-source tooling**: Forked projects like `olmocr` (PDF linearization for LLM training) and `SpecForge` (speculative decoding model training) demonstrate integration with AI/ML pipelines for document processing and model optimization.
+- **API & SDK Ecosystem**: Provides TypeScript/Python SDKs (`speechify-api-sdk-typescript`, `speechify-api-sdk-python`) and legacy SDKs for AI API integration, alongside examples (`ai-api-examples`) and Cloudflare Worker-based agent tracking tools.
 
 ## Why It Matters
 
@@ -38,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-20T20:13:31.631045+05:30
+- Published: 2026-07-21T03:53:16.091287+05:30
 
 ## Related Tags
 
@@ -46,7 +45,6 @@ General public resource representing technology updates, guides, or tutorials.
 - dataset
 - reddit
 - web-crawled
-- workflows
 
 ## Source
 

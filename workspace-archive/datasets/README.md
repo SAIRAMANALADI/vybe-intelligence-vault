@@ -8,6 +8,7 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 
 ## Top Matched Resources
 
+- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) (framework - ESSENTIAL Tier)
 - [VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset](https://arxiv.org/abs/2407.18245) (framework - ESSENTIAL Tier)
 - [Synthetic Time Series Generation via Complex Networks](https://arxiv.org/abs/2601.22879) (framework - ESSENTIAL Tier)
 - [Contrastive Predictive Coding with Compression for Enhanced Channel State Feedback in Wireless Networks](https://arxiv.org/abs/2607.05419) (framework - ESSENTIAL Tier)
@@ -15,17 +16,16 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 - [Do Counterfactually Fair Image Classifiers Satisfy Group Fairness? -- A Theoretical and Empirical Study](https://arxiv.org/abs/2607.06603) (framework - ESSENTIAL Tier)
 - [Mathematical Reasoning in Large Language Models: Benchmarks, Architectures, Evaluation, and Open Challenges](https://arxiv.org/abs/2605.19723) (framework - ESSENTIAL Tier)
 - [Deployment-Centered Evaluation: Predicting Query-Level Rejection Risk in a Clinical LLM System](https://arxiv.org/abs/2606.12702) (framework - ESSENTIAL Tier)
-- [Model Agnostic Graph Prompt Learning for Crystal Property Prediction](https://arxiv.org/abs/2607.08996) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/huggingface/datasets (Hugging Face Datasets)
+- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - [IAAR-Shanghai/CRUD_RAG](https://github.com/IAAR-Shanghai/CRUD_RAG)
 - [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench)
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)
-- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - [RUC-NLPIR/FlashRAG](https://github.com/RUC-NLPIR/FlashRAG)
-- [DEEP-PolyU/LinearRAG](https://github.com/DEEP-PolyU/LinearRAG)
+- [blog/train-sentence-transformers.md at main · huggingface/blog · GitHub](https://github.com/huggingface/blog/blob/main/train-sentence-transformers.md)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-07-21 01:44 IST*
+*Last updated: 2026-07-21 04:01 IST*

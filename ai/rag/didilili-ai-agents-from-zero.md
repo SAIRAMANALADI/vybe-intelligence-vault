@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/didilili/ai-agents-from-zero
-collected_at: '2026-07-21T01:29:30.047659+05:30'
+collected_at: '2026-07-21T03:46:32.683394+05:30'
 published_at: '2026-07-20T14:01:23Z'
 tags:
 - agents
 - github-repo
+- models
 - python
 - rag
 stars: 2890
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-01-29T02:49:11Z'
 pushed_at: '2026-06-23T16:29:23Z'
 resource_id: github:didilili/ai-agents-from-zero
-first_seen: '2026-07-21T01:29:30.047659+05:30'
-last_seen: '2026-07-21T01:29:30.047659+05:30'
-last_checked: '2026-07-21T01:29:30.047659+05:30'
+first_seen: '2026-07-21T03:46:32.683394+05:30'
+last_seen: '2026-07-21T03:46:32.683394+05:30'
+last_checked: '2026-07-21T03:46:32.683394+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive AI Agent Learning Path (2026)**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, structured for enterprise-level AI agent development and deployment.
-- **Full-Stack Project Integration**: Includes hands-on projects, interview prep, and enterprise deployment/finetuning, aligning with AI application engineer roles.
-- **Toolchain & Skills**: Integrates Python-based frameworks (LangChain, LangGraph), agentic AI tools (Coze, Dify), and MCP/skills for end-to-end agentic AI solutions.
+- **Comprehensive AI Agent Learning Path (2026)**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, structured for enterprise-level deployment and fine-tuning.
+- **Hands-on Projects & Interview Prep**: Includes real-world projects, enterprise deployment strategies, and a curated interview question bank aligned with AI Agent Development Engineer roles.
+- **Multi-Framework & Tool Integration**: Integrates Python-based frameworks (e.g., LangChain, LangGraph) with tools like Coze, Dify, and MCP, emphasizing end-to-end AI agent development from learning to production.
 
 ## Why It Matters
 

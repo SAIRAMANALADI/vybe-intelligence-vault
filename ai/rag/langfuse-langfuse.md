@@ -1,77 +1,57 @@
 ---
-title: langfuse/langfuse
+title: Releases · langfuse/langfuse · GitHub
 category: ai/rag
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/langfuse/langfuse
-collected_at: '2026-07-07T04:22:06.841499+05:30'
-published_at: '2026-07-06T22:26:42Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/langfuse/langfuse/releases
+published_at: '2026-07-21T03:53:27.908963+05:30'
+collected_at: '2026-07-21T03:53:27.908975+05:30'
 tags:
 - agents
-- benchmark
 - dataset
-- github-repo
-- meta-ai
-- models
+- frontend_ui
 - openai
 - rag
-- typescript
-- workflows
-stars: 30561
-language: TypeScript
+- scripts
+- web-crawled
 status: active
-license: NOASSERTION
-archived: false
-created_at: '2023-05-18T17:47:09Z'
-pushed_at: '2026-07-06T21:51:51Z'
 resource_id: github:langfuse/langfuse
-first_seen: '2026-07-07T04:22:06.841499+05:30'
-last_seen: '2026-07-07T04:22:06.841499+05:30'
-last_checked: '2026-07-07T04:22:06.841499+05:30'
+first_seen: '2026-07-21T03:53:27.908975+05:30'
+last_seen: '2026-07-21T03:53:27.908975+05:30'
+last_checked: '2026-07-21T03:53:27.908975+05:30'
 health_score: 100
 ---
 
-# langfuse/langfuse
+# Releases · langfuse/langfuse · GitHub
 
 ## Summary
 
-- **Open-source AI engineering platform** for LLM evaluation, observability, metrics, prompt management, and dataset handling, with a built-in playground for testing and debugging.
+- **Langfuse v3.222.0** introduces UI/UX improvements including block filter-sidebar facets in chart view, typography tokenization, and compact session views, alongside performance optimizations like prioritized retention cleanup and one-way sizing for dashboard widgets.
 
-- **Integrations** with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and other tools, enabling seamless monitoring and tracing across AI workflows.
+- **v3.221.1** focuses on dashboard tuning to prevent scroll issues and brightens chart bars, with minor UI polish for assistant quick actions and cleanup of verification screenshots.
 
-- **Self-hostable** solution with support for prompt engineering, LLMops, and multi-framework compatibility (e.g., LangChain, LlamaIndex), last updated July 2026.
+- **v3.221.0** adds in-view charts for v4 events tables, "View as table" navigation from widgets, direct assistant entrypoints for widget creation, and a filter sidebar UX overhaul, while **v3.220.0** moves the assistant entrypoint to top navigation and fixes data retention, event filtering, and authentication validation.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: langfuse
-- Stars: 30561
-- Forks: 3206
-- Language: TypeScript
-- Topics: analytics, autogen, evaluation, langchain, large-language-models, llama-index, llm, llm-evaluation, llm-observability, llmops, monitoring, observability, open-source, openai, playground, prompt-engineering, prompt-management, self-hosted, ycombinator
-- Last Updated: 2026-07-06T22:26:42Z
-- License: NOASSERTION
-- Archived: No
-- Created At: 2023-05-18T17:47:09Z
-- Pushed At: 2026-07-06T21:51:51Z
+- Source: Web Discovery
+- Category: ai/rag
+- Published: 2026-07-21T03:53:27.908963+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- agents
+- dataset
+- frontend_ui
+- openai
+- rag
+- scripts
+- web-crawled
 
 ## Source
 
-Original source: https://github.com/langfuse/langfuse
+Original source: https://github.com/langfuse/langfuse/releases

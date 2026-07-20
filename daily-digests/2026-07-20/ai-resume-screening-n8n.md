@@ -1,13 +1,25 @@
 ---
-title: "chaudharynitin01/ai-resume-screening-n8n"
-category: "Orchestrator"
-tech_stack: ["n8n", "Ollama", "Qwen3:4B", "Google Sheets", "Gmail", "PDF text extraction", "Structured Output Parser"]
+title: chaudharynitin01/ai-resume-screening-n8n
+category: daily-digests/2026-07-20
+tech_stack:
+- n8n
+- Ollama
+- Qwen3:4B
+- Google Sheets
+- Gmail
+- PDF text extraction
+- Structured Output Parser
 quality_score: 7
 rag_relevance: 6
-tags: ["resume screening", "automation", "n8n workflow", "LLM integration", "data extraction"]
-source: "https://github.com/chaudharynitin01/ai-resume-screening-n8n"
-discovered_at: "2026-07-19T13:17:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- resume screening
+- automation
+- n8n workflow
+- LLM integration
+- data extraction
+source: https://github.com/chaudharynitin01/ai-resume-screening-n8n
+discovered_at: '2026-07-19T13:17:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

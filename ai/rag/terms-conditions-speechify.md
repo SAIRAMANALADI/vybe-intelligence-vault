@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://speechify.com/terms
-published_at: '2026-07-20T15:16:22.072283+05:30'
-collected_at: '2026-07-20T15:16:22.072296+05:30'
+published_at: '2026-07-21T03:53:13.635143+05:30'
+collected_at: '2026-07-21T03:53:13.635155+05:30'
 tags:
 - agents
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:terms-conditions-speechify
-first_seen: '2026-07-20T15:16:22.072296+05:30'
-last_seen: '2026-07-20T15:16:22.072296+05:30'
-last_checked: '2026-07-20T15:16:22.072296+05:30'
+first_seen: '2026-07-21T03:53:13.635155+05:30'
+last_seen: '2026-07-21T03:53:13.635155+05:30'
+last_checked: '2026-07-21T03:53:13.635155+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Mandatory Arbitration & Class Action Waiver**: Terms enforce pre-dispute arbitration and prohibit class actions, binding users to resolve disputes individually via arbitration, with updates retroactively affecting unresolved claims.
+- **Mandatory Arbitration & Class Action Waiver**: All disputes with Speechify must undergo binding arbitration (per FAA) with a class action waiver, precluding litigation or participation in class-wide claims, regardless of dispute type or prior notice.
 
-- **Subscription & Auto-Renewal Terms**: Paid subscriptions auto-renew monthly/annually unless canceled ≥30 days pre-expiry (30-day notice for business plans); refunds are non-pro-rated, with Apple/Google Play Store policies governing mobile purchases.
+- **Subscription Renewal & Billing**: Paid subscriptions auto-renew monthly/annually unless canceled via account settings (consumer) or 30-day written notice (enterprise), with charges processed by Speechify or third-party payment partners (e.g., Apple/Google), and no pro-rated refunds for unused terms.
 
-- **User Eligibility & Compliance**: Users must be ≥18 (or age of majority) with minors requiring guardian consent; breach of terms by minors imposes liability on guardians. All subscriptions are non-transferable, and promotional offers are non-stackable.
+- **User Eligibility & Compliance**: Users must be ≥18 (or legal age in jurisdiction) or minors with parental consent; account security (passwords, User Information) is user-responsible, with Speechify reserving rights to modify services, terms, or trial features unilaterally.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T15:16:22.072283+05:30
+- Published: 2026-07-21T03:53:13.635143+05:30
 
 ## Related Tags
 

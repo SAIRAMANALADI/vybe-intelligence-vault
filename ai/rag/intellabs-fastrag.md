@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IntelLabs/fastRAG
-collected_at: '2026-07-21T01:28:45.028674+05:30'
+collected_at: '2026-07-21T03:45:47.596152+05:30'
 published_at: '2026-07-20T12:43:14Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: true
 created_at: '2023-01-23T16:25:35Z'
 pushed_at: '2026-01-12T19:58:22Z'
 resource_id: github:intellabs/fastrag
-first_seen: '2026-07-21T01:28:45.028674+05:30'
-last_seen: '2026-07-21T01:28:45.028674+05:30'
-last_checked: '2026-07-21T01:28:45.028674+05:30'
+first_seen: '2026-07-21T03:45:47.596152+05:30'
+last_seen: '2026-07-21T03:45:47.596152+05:30'
+last_checked: '2026-07-21T03:45:47.596152+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: FastRAG is an efficient, open-source Python framework for retrieval-augmented generation (RAG) optimized for speed and scalability, supporting multi-modal and knowledge-intensive tasks.
-- **Core Components**: Integrates advanced retrieval (e.g., ColBERT, sentence-transformers) with generative models (e.g., LLMs, diffusion) for tasks like QA, summarization, and semantic search.
-- **Performance Focus**: Designed for low-latency inference and benchmarking, leveraging Intel optimizations for high-throughput RAG pipelines.
+- **Framework Overview**: FastRAG is an efficient, modular Python framework for **Retrieval-Augmented Generation (RAG)** optimized for low-latency, high-throughput applications, supporting **multi-modal** and **knowledge-intensive** tasks.
+- **Key Components**: Integrates **ColBERT** for late interaction retrieval, **sentence-transformers** for dense embeddings, and **diffusion models** for generative tasks, with built-in support for **semantic search**, **QA**, and **summarization**.
+- **Performance Focus**: Designed for **scalability** with hardware-aware optimizations (e.g., Intel optimizations) and supports **benchmarking** across **LLMs**, **knowledge graphs**, and **transformer-based** models.
 
 ## Why It Matters
 

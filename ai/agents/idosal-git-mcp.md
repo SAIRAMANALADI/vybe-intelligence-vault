@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/idosal/git-mcp
-collected_at: '2026-07-21T01:29:25.030798+05:30'
+collected_at: '2026-07-21T03:46:27.593977+05:30'
 published_at: '2026-07-20T18:29:58Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-03-29T00:44:19Z'
 pushed_at: '2026-05-08T14:21:24Z'
 resource_id: github:idosal/git-mcp
-first_seen: '2026-07-21T01:29:25.030798+05:30'
-last_seen: '2026-07-21T01:29:25.030798+05:30'
-last_checked: '2026-07-21T01:29:25.030798+05:30'
+first_seen: '2026-07-21T03:46:27.593977+05:30'
+last_seen: '2026-07-21T03:46:27.593977+05:30'
+last_checked: '2026-07-21T03:46:27.593977+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: GitMCP is an open-source, remote MCP (Model Context Protocol) server designed to integrate with GitHub repositories, enabling AI agents to interact with codebases programmatically to mitigate "code hallucinations" (AI-generated incorrect or nonsensical code).
-
-- **Technical Stack**: Implemented in TypeScript, GitMCP supports agentic AI workflows, integrating with tools like Claude, Copilot, and Cursor for enhanced code analysis, retrieval, and generation.
-
-- **Functionality**: Acts as a bridge between AI models and GitHub projects, allowing agents to fetch, analyze, and modify repository files via MCP, improving accuracy in code-related AI tasks.
+- **Purpose**: GitMCP is a free, open-source remote MCP (Model Context Protocol) server designed to mitigate "code hallucinations" by providing structured, real-time GitHub repository access for AI agents.
+- **Technical Stack**: Implemented in TypeScript, it enables seamless integration with LLM-based tools (e.g., Claude, Copilot, Cursor) via the MCP framework for agentic AI workflows.
+- **Functionality**: Acts as a bridge between AI agents and GitHub projects, allowing dynamic repository interaction (e.g., code retrieval, updates) without hallucinations from outdated or incorrect data.
 
 ## Why It Matters
 

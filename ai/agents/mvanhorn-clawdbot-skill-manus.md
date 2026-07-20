@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mvanhorn/clawdbot-skill-manus
-collected_at: '2026-07-20T20:08:28.470330+05:30'
+collected_at: '2026-07-21T03:47:52.653728+05:30'
 published_at: '2026-07-18T16:50:27Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - scripts
 - shell
+- workflows
 stars: 27
 language: Shell
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-22T01:48:25Z'
 pushed_at: '2026-03-16T05:09:31Z'
 resource_id: github:mvanhorn/clawdbot-skill-manus
-first_seen: '2026-07-20T20:08:28.470330+05:30'
-last_seen: '2026-07-20T20:08:28.470330+05:30'
-last_checked: '2026-07-20T20:08:28.470330+05:30'
+first_seen: '2026-07-21T03:47:52.653728+05:30'
+last_seen: '2026-07-21T03:47:52.653728+05:30'
+last_checked: '2026-07-21T03:47:52.653728+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Task Delegation & Automation**: Enables delegation of complex tasks (web research, report generation, code building, data scraping) to Manus AI via OpenClaw skill, with support for task templates, monitoring, and cost tracking.
-
-- **Technical Stack & Integration**: Implemented in Shell, designed to work within the ClawHub ecosystem, facilitating autonomous AI-agent operations (e.g., web browsing, automation).
-
-- **Repository Metadata**: 27 stars, 14 forks, last updated July 18, 2026; categorized under AI-agent, automation, scraping, and task-delegation topics.
+- **OpenClaw Skill for Manus AI**: Enables delegation of complex tasks (web research, report generation, code building, data scraping) via task templates, monitoring, and cost tracking.
+- **Shell-Based Implementation**: Repository written in Shell, integrating with Manus AI for autonomous task execution and OpenClaw framework.
+- **Automation & Monitoring**: Supports AI-agent workflows, web browsing, and data scraping with built-in cost tracking and last updated on 2026-07-18.
 
 ## Why It Matters
 

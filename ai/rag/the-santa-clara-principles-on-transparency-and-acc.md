@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://santaclaraprinciples.org/
-published_at: '2026-07-08T01:52:12.269326+05:30'
-collected_at: '2026-07-08T01:52:12.269341+05:30'
+published_at: '2026-07-21T03:50:23.607745+05:30'
+collected_at: '2026-07-21T03:50:23.607759+05:30'
 tags:
 - hackernews
 - producthunt
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-santa-clara-principles-on-transparency-and-acc
-first_seen: '2026-07-08T01:52:12.269341+05:30'
-last_seen: '2026-07-08T01:52:12.269341+05:30'
-last_checked: '2026-07-08T01:52:12.269341+05:30'
+first_seen: '2026-07-21T03:50:23.607759+05:30'
+last_seen: '2026-07-21T03:50:23.607759+05:30'
+last_checked: '2026-07-21T03:50:23.607759+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Scope Expansion**: SCP 2.0 broadens transparency requirements to include all user-generated content (paid/unpaid, ads) and enforcement actions (removal, downranking, account suspension), not just removals.
+- **Scope Expansion**: Version 2.0 broadens transparency requirements to include all user-generated content (paid/unpaid) and enforcement actions (removal, downranking, account suspension), not just content removal.
 
-- **Foundational Principles**: Mandates human rights/due process integration, clear rules/policies, cultural competence, state involvement disclosure, and explainable/accurate moderation systems with auditability.
+- **Foundational Principles**: Mandates human rights integration, due process, culturally competent moderation, and state involvement disclosure, with implementation guidance for rules, policies, and appeal mechanisms.
 
-- **Operational Transparency**: Requires granular reporting on actioned content/accounts (by region, rule violated), appeal outcomes (including automated flagging), proactive reinstatements, and crisis-period enforcement metrics.
+- **Operational Transparency**: Requires granular reporting on enforcement actions, appeals, reinstatements, and automated system performance, including crisis-period and state-involved moderation data.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T01:52:12.269326+05:30
+- Published: 2026-07-21T03:50:23.607745+05:30
 
 ## Related Tags
 

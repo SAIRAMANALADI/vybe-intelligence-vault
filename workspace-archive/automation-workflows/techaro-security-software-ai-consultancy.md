@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Bot Protection**: Deploys open-source and commercial solutions leveraging proof-of-work challenges to mitigate automated abuse and infrastructure attacks.
+- **Bot Protection**: Open-source and commercial solutions leveraging proof-of-work challenges to mitigate automated abuse and protect infrastructure.
 
-- **AI Consultancy**: Provides strategic expertise for AI integration, covering architecture design, workflow optimization, and end-to-end deployment.
+- **AI Consultancy**: Provides strategic expertise for AI integration, covering architecture design, workflow optimization, and deployment strategies.
 
-- **Custom Software**: Offers tailored engineering services delivering high-performance, reliable software solutions aligned with client specifications.
+- **Custom Software**: End-to-end engineering services delivering tailored, high-performance software solutions aligned with client specifications.
 
 ## Use Cases
 

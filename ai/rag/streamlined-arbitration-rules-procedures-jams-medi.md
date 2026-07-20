@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.jamsadr.com/rules-streamlined-arbitration/
-published_at: '2026-07-21T01:33:05.043369+05:30'
-collected_at: '2026-07-21T01:33:05.043391+05:30'
+published_at: '2026-07-21T03:50:20.197261+05:30'
+collected_at: '2026-07-21T03:50:20.197272+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:streamlined-arbitration-rules-procedures-jams-medi
-first_seen: '2026-07-21T01:33:05.043391+05:30'
-last_seen: '2026-07-21T01:33:05.043391+05:30'
-last_checked: '2026-07-21T01:33:05.043391+05:30'
+first_seen: '2026-07-21T03:50:20.197272+05:30'
+last_seen: '2026-07-21T03:50:20.197272+05:30'
+last_checked: '2026-07-21T03:50:20.197272+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Scope & Applicability**: JAMS Streamlined Arbitration Rules govern binding arbitrations administered by JAMS where parties agree to use these rules or where disputed claims do not exceed $250,000 (exclusive of interest/attorney fees), with JAMS National Arbitration Committee (NAC) overseeing administration and enforcement.
+- **Scope & Applicability**: JAMS Streamlined Arbitration Rules apply to disputes ≤$250K (excl. interest/fees) unless parties agree otherwise; JAMS NAC administers proceedings under Rule 1(c), with authority to assign cases to Resolution Centers.
 
-- **Electronic Filing & Service**: Mandatory electronic filing (e-filing) and service (e-service) via JAMS Electronic Filing System are enforceable, with documents deemed filed/served upon successful transmission; technical errors may be corrected *nunc pro tunc* upon showing of good cause.
+- **Commencement & Service**: Arbitration deemed commenced upon JAMS issuing Commencement Letter (Rule 5(a)); service/e-filing governed by Rule 5(e-f), including 3-day extension for mailed documents and electronic filing deadlines (11:59 p.m. local time).
 
-- **Consolidation & Administrative Authority**: JAMS may consolidate arbitrations where multiple filings involve overlapping parties or disputes, with consolidation decisions based on case linkages and procedural progress; JAMS may also suspend/terminate proceedings for unpaid fees, allocating costs per Rules 19(e) and 26(c).
+- **Consolidation & Administrative Authority**: JAMS may consolidate arbitrations per Rule 6(e) (e.g., overlapping parties/cases); may suspend/terminate proceedings for unpaid fees (Rule 6(c)) and convene administrative conferences (Rule 6(a)).
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T01:33:05.043369+05:30
+- Published: 2026-07-21T03:50:20.197261+05:30
 
 ## Related Tags
 

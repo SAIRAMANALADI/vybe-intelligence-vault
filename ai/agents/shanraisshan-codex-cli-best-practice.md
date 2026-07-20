@@ -4,15 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-07-21T01:30:00.117640+05:30'
+collected_at: '2026-07-21T03:47:02.611751+05:30'
 published_at: '2026-07-20T07:34:57Z'
 tags:
 - agents
-- benchmark
 - github-repo
 - openai
 - python
-- scripts
 - workflows
 stars: 931
 language: Python
@@ -22,9 +20,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-07-21T01:30:00.117640+05:30'
-last_seen: '2026-07-21T01:30:00.117640+05:30'
-last_checked: '2026-07-21T01:30:00.117640+05:30'
+first_seen: '2026-07-21T03:47:02.611751+05:30'
+last_seen: '2026-07-21T03:47:02.611751+05:30'
+last_checked: '2026-07-21T03:47:02.611751+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository provides structured methodologies for transitioning from *vibe coding* to *agentic engineering* using OpenAI Codex CLI, emphasizing automation, context engineering, and modular agentic workflows.
+- **Agentic Workflow Integration**: Repository provides structured methodologies to transition from "vibe coding" to agentic engineering using Codex CLI, emphasizing automated, iterative development cycles with AI-driven agents.
 
-- **CLI & Hooks Optimization**: Implements advanced `codex-cli` commands, hooks, and skills for dynamic context injection, task decomposition, and stateful agent interactions, enabling reproducible AI-driven development cycles.
+- **CLI Command & Skill Optimization**: Includes curated best practices for Codex CLI commands, hooks, and skill configurations to enhance AI agent efficiency, context engineering, and multi-agent orchestration.
 
-- **Best Practice Framework**: Offers a curated set of Python-based templates and patterns for scalable AI agent orchestration, including skill chaining, error recovery, and performance benchmarking for enterprise-grade agentic systems.
+- **Open-Source Contribution Framework**: Offers a Pakistani developer-centric template for OpenAI Codex integration, with modular hooks and workflows to standardize agentic AI development and deployment.
 
 ## Why It Matters
 

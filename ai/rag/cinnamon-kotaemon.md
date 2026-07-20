@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-07-21T01:27:59.952113+05:30'
+collected_at: '2026-07-21T03:45:02.559136+05:30'
 published_at: '2026-07-20T15:44:49Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 25571
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-07-14T16:53:59Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-07-21T01:27:59.952113+05:30'
-last_seen: '2026-07-21T01:27:59.952113+05:30'
-last_checked: '2026-07-21T01:27:59.952113+05:30'
+first_seen: '2026-07-21T03:45:02.559136+05:30'
+last_seen: '2026-07-21T03:45:02.559136+05:30'
+last_checked: '2026-07-21T03:45:02.559136+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-based conversational AI, dynamically retrieving and synthesizing information from user-provided documents for contextual responses.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational interactions, leveraging LLMs for contextual query responses.
 
-- **Modular Python Framework**: Built in Python with extensible components for document ingestion, embedding, retrieval, and LLM integration, supporting customization for diverse document types and use cases.
+- **Modular Python Framework**: Built with Python, offering extensible components for document ingestion, retrieval, and LLM integration, optimized for scalability and customization.
 
-- **Open-Source Deployment**: Provides a fully open-source solution with active community contributions, optimized for self-hosting and integration with local or cloud-based LLMs.
+- **Open-Source Deployment**: Provides a fully open-source solution with active community contributions, supporting self-hosted or cloud-based document processing workflows.
 
 ## Why It Matters
 

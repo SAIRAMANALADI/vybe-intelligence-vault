@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-07-21T01:30:30.119446+05:30'
+collected_at: '2026-07-21T03:47:32.656580+05:30'
 published_at: '2026-07-20T02:42:56Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - unknown
 - workflows
 stars: 2485
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-07-21T01:30:30.119446+05:30'
-last_seen: '2026-07-21T01:30:30.119446+05:30'
-last_checked: '2026-07-21T01:30:30.119446+05:30'
+first_seen: '2026-07-21T03:47:32.656580+05:30'
+last_seen: '2026-07-21T03:47:32.656580+05:30'
+last_checked: '2026-07-21T03:47:32.656580+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Analyzes prompt patterns, agent coordination mechanisms, and security classifications for autonomous AI-driven coding workflows.
-- **Prompt Engineering & System Prompts**: Reconstructs structured prompt frameworks for agentic AI systems, focusing on Claude-based implementations and multi-agent collaboration.
-- **Research & Security Classification**: Documents security vulnerabilities, threat models, and mitigation strategies in agentic AI coding assistants, with updates as of July 2026.
+- **Agentic AI Coding Assistants**: Investigates the architecture and workflow of autonomous AI coding agents, focusing on prompt patterns, multi-agent coordination, and task decomposition strategies for complex software development tasks.
+
+- **Security & System Prompts**: Analyzes security classifications and vulnerabilities in agentic AI systems, including prompt injection risks, sandboxing techniques, and secure system prompt design for constrained execution environments.
+
+- **Claude & Prompt Engineering**: Examines prompt engineering techniques tailored for agentic AI models (e.g., Claude), including dynamic prompt reconstruction, context management, and adaptive reasoning for iterative coding workflows.
 
 ## Why It Matters
 

@@ -1,13 +1,32 @@
 ---
-title: "abhi1693/wardn-hub"
-category: "Tooling"
-tech_stack: ["FastAPI", "Python 3.12+", "PostgreSQL", "SQLAlchemy", "Alembic", "Next.js 16", "React 19", "OpenAPI", "Orval", "Docker", "GitHub API", "OIDC", "JWT", "TypeScript"]
+title: abhi1693/wardn-hub
+category: daily-digests/2026-07-20
+tech_stack:
+- FastAPI
+- Python 3.12+
+- PostgreSQL
+- SQLAlchemy
+- Alembic
+- Next.js 16
+- React 19
+- OpenAPI
+- Orval
+- Docker
+- GitHub API
+- OIDC
+- JWT
+- TypeScript
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP registry", "server metadata", "submission workflow", "AI tooling", "developer platform"]
-source: "https://github.com/abhi1693/wardn-hub"
-discovered_at: "2026-07-16T15:00:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP registry
+- server metadata
+- submission workflow
+- AI tooling
+- developer platform
+source: https://github.com/abhi1693/wardn-hub
+discovered_at: '2026-07-16T15:00:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

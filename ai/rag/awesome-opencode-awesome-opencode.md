@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/awesome-opencode/awesome-opencode
-collected_at: '2026-07-21T01:30:15.139658+05:30'
+collected_at: '2026-07-21T03:47:17.652205+05:30'
 published_at: '2026-07-20T19:37:20Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-09-22T00:01:14Z'
 pushed_at: '2026-07-03T14:10:38Z'
 resource_id: github:awesome-opencode/awesome-opencode
-first_seen: '2026-07-21T01:30:15.139658+05:30'
-last_seen: '2026-07-21T01:30:15.139658+05:30'
-last_checked: '2026-07-21T01:30:15.139658+05:30'
+first_seen: '2026-07-21T03:47:17.652205+05:30'
+last_seen: '2026-07-21T03:47:17.652205+05:30'
+last_checked: '2026-07-21T03:47:17.652205+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: A comprehensive collection of plugins, themes, agents, projects, and tools specifically for [opencode.ai](https://opencode.ai), maintained as an open-source repository.
-- **Technical Stack**: Primarily implemented in JavaScript, leveraging modern web technologies for extensibility and integration.
-- **High Activity & Maintenance**: Actively updated (last commit: 2026-07-20) with 9,036 stars and 653 forks, indicating strong community engagement and continuous development.
+- **Curated Resource Hub**: A GitHub repository aggregating plugins, themes, agents, projects, and tools specifically for [opencode.ai](https://opencode.ai), organized as an "awesome-list" format.
+- **Technical Stack**: Primarily implemented in JavaScript, leveraging GitHub's platform for version control and community collaboration.
+- **Metadata**: 9,036 stars, 654 forks, last updated on **2026-07-20T19:37:20Z**, with no additional topics or tags specified.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: awesome-opencode
 - Stars: 9036
-- Forks: 653
+- Forks: 654
 - Language: JavaScript
 - Topics: None
 - Last Updated: 2026-07-20T19:37:20Z

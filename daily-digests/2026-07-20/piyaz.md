@@ -1,13 +1,28 @@
 ---
-title: "FrkAk/piyaz"
-category: "Orchestrator"
-tech_stack: ["Next.js", "TypeScript", "React", "PostgreSQL", "Drizzle ORM", "Better-Auth", "Tailwind CSS", "Motion", "Bun", "Docker"]
+title: FrkAk/piyaz
+category: daily-digests/2026-07-20
+tech_stack:
+- Next.js
+- TypeScript
+- React
+- PostgreSQL
+- Drizzle ORM
+- Better-Auth
+- Tailwind CSS
+- Motion
+- Bun
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["agentic workflow", "multi-agent collaboration", "task orchestration", "code review automation", "project decomposition"]
-source: "https://github.com/FrkAk/piyaz"
-discovered_at: "2026-07-11T07:52:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agentic workflow
+- multi-agent collaboration
+- task orchestration
+- code review automation
+- project decomposition
+source: https://github.com/FrkAk/piyaz
+discovered_at: '2026-07-11T07:52:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

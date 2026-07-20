@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Senpi-ai/senpi-skills
-collected_at: '2026-07-21T01:30:50.137690+05:30'
+collected_at: '2026-07-21T03:47:52.692684+05:30'
 published_at: '2026-07-17T17:12:00Z'
 tags:
 - agents
@@ -16,11 +16,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2026-02-23T19:28:09Z'
-pushed_at: '2026-07-20T03:37:23Z'
+pushed_at: '2026-07-20T21:11:43Z'
 resource_id: github:senpi-ai/senpi-skills
-first_seen: '2026-07-21T01:30:50.137690+05:30'
-last_seen: '2026-07-21T01:30:50.137690+05:30'
-last_checked: '2026-07-21T01:30:50.137690+05:30'
+first_seen: '2026-07-21T03:47:52.692684+05:30'
+last_seen: '2026-07-21T03:47:52.692684+05:30'
+last_checked: '2026-07-21T03:47:52.692684+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Open-source AI agent framework** for autonomous trading on Hyperliquid, supporting crypto, equities, commodities, and indices with 80+ strategy templates.
-- **Two-phase trailing-stop (DSL) exits** for dynamic profit protection and risk management in trading strategies.
-- **Python-based** repository with deployment-ready skills for building, testing, and protecting automated trading strategies.
+- **Open-source AI agent framework** for autonomous trading on Hyperliquid, supporting **80+ strategy templates** across crypto, equities, commodities, and indices.
+- **Two-phase trailing-stop (DSL) exits** for dynamic position management and risk mitigation in automated trading strategies.
+- **Python-based implementation** with deployment-ready components for building, testing, and protecting trading strategies.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2026-02-23T19:28:09Z
-- Pushed At: 2026-07-20T03:37:23Z
+- Pushed At: 2026-07-20T21:11:43Z
 
 ## Possible Use Cases
 

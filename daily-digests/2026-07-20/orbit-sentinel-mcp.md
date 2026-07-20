@@ -1,13 +1,23 @@
 ---
-title: "Viventine-Space/orbit-sentinel-mcp"
-category: "Tooling"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "REST API", "CI/CD (GitHub Actions)", "Homebrew"]
+title: Viventine-Space/orbit-sentinel-mcp
+category: daily-digests/2026-07-20
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- REST API
+- CI/CD (GitHub Actions)
+- Homebrew
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "space regulatory filings", "API integration", "Go", "Claude integration"]
-source: "https://github.com/Viventine-Space/orbit-sentinel-mcp"
-discovered_at: "2026-07-11T13:14:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- space regulatory filings
+- API integration
+- Go
+- Claude integration
+source: https://github.com/Viventine-Space/orbit-sentinel-mcp
+discovered_at: '2026-07-11T13:14:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

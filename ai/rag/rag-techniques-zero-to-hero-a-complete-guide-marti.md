@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-07-21T01:27:35.687346+05:30'
-collected_at: '2026-07-21T01:27:35.687366+05:30'
+published_at: '2026-07-21T03:44:37.796560+05:30'
+collected_at: '2026-07-21T03:44:37.796573+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-07-21T01:27:35.687366+05:30'
-last_seen: '2026-07-21T01:27:35.687366+05:30'
-last_checked: '2026-07-21T01:27:35.687366+05:30'
+first_seen: '2026-07-21T03:44:37.796573+05:30'
+last_seen: '2026-07-21T03:44:37.796573+05:30'
+last_checked: '2026-07-21T03:44:37.796573+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Pipeline**: Combines a retriever (vector/lexical), vector store/index, and LLM generator; optional rerankers, query rewriting, caching, and orchestration layers enhance precision/efficiency.
+- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/query-rewriting layers; orchestration and caching optimize performance and cost.
 
-- **Chunking & Embeddings**: Text segmentation strategies (fixed-size, semantic, structure-aware) directly impact retrieval quality; domain-specific fine-tuned embeddings outperform generic models, with dimensionality/normalization optimized for cosine similarity and latency.
+- **Advanced Retrieval Techniques**: Hybrid search (BM25 + vector), two-stage reranking (cross-encoders on top-K candidates), and multi-hop/iterative retrieval (GraphRAG, agent-based workflows) enhance precision and reasoning for complex queries.
 
-- **Hybrid Retrieval & Multi-Hop Reasoning**: ANN-based vector search + BM25 fusion improves recall; cross-encoder rerankers refine top-K candidates; iterative multi-hop retrieval and GraphRAG enable structured reasoning for complex queries.
+- **Context Optimization & Evaluation**: Token budgeting, autocut trimming, and source attribution reduce hallucinations; evaluation metrics span retrieval (MRR/nDCG) and generation (factuality, hallucination rate) with gold-standard evidence sets for validation.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T01:27:35.687346+05:30
+- Published: 2026-07-21T03:44:37.796560+05:30
 
 ## Related Tags
 

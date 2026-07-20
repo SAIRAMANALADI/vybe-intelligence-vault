@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/liangdabiao/easy_investment_Agent_crewai
-collected_at: '2026-07-20T22:20:02.094820+05:30'
+collected_at: '2026-07-21T03:48:42.739678+05:30'
 published_at: '2026-07-17T06:08:52Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 stars: 463
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-09-26T11:16:52Z'
 pushed_at: '2026-05-07T01:07:08Z'
 resource_id: github:liangdabiao/easy_investment_agent_crewai
-first_seen: '2026-07-20T22:20:02.094820+05:30'
-last_seen: '2026-07-20T22:20:02.094820+05:30'
-last_checked: '2026-07-20T22:20:02.094820+05:30'
+first_seen: '2026-07-21T03:48:42.739678+05:30'
+last_seen: '2026-07-21T03:48:42.739678+05:30'
+last_checked: '2026-07-21T03:48:42.739678+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent A-Shares Analysis System**: Leverages AKShare for real-time A-share market data (quotes, financials, fund flows, sentiment) via 4 specialized AI agents (e.g., data fetcher, analyzer, sentiment evaluator, decision generator) in a CrewAI framework.
-- **China-Specific Optimization**: Tailored for A-share market nuances (e.g., regulatory constraints, liquidity patterns) with specialized financial metrics and localized sentiment analysis.
-- **Automated Investment Pipeline**: Integrates AKShare’s professional-grade data sources to generate actionable investment recommendations through agentic collaboration, covering technical, fundamental, and sentiment-driven insights.
+- **Multi-Agent System**: Implements 4 specialized AI agents collaborating for A-share investment analysis, leveraging CrewAI for orchestration.
+- **Data Integration**: Utilizes AKShare for real-time A-share market data (quotes, financials, fund flows, sentiment) with China-specific optimizations.
+- **Decision Support**: Aggregates multi-source analysis to generate AI-driven investment recommendations for A-share market decisions.
 
 ## Why It Matters
 

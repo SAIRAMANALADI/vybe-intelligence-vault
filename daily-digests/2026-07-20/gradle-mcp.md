@@ -1,13 +1,24 @@
 ---
-title: "rnett/gradle-mcp"
-category: "Tooling"
-tech_stack: ["Kotlin", "Gradle", "MCP (Model Context Protocol)", "JBang", "JVM", "Develocity"]
+title: rnett/gradle-mcp
+category: daily-digests/2026-07-20
+tech_stack:
+- Kotlin
+- Gradle
+- MCP (Model Context Protocol)
+- JBang
+- JVM
+- Develocity
 quality_score: 9
 rag_relevance: 8
-tags: ["Gradle", "MCP Server", "AI Agent Tools", "Dependency Management", "Build Automation"]
-source: "https://github.com/rnett/gradle-mcp"
-discovered_at: "2026-07-14T12:10:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Gradle
+- MCP Server
+- AI Agent Tools
+- Dependency Management
+- Build Automation
+source: https://github.com/rnett/gradle-mcp
+discovered_at: '2026-07-14T12:10:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

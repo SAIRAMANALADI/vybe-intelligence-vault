@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
-collected_at: '2026-07-21T01:29:25.041276+05:30'
+collected_at: '2026-07-21T03:46:27.605144+05:30'
 published_at: '2026-07-20T19:49:30Z'
 tags:
 - agents
-- frontend_ui
 - github-repo
 - jupyter notebook
 - rag
+- scripts
 - workflows
 stars: 2807
 language: Jupyter Notebook
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-05-15T09:00:54Z'
 pushed_at: '2026-07-20T17:49:29Z'
 resource_id: github:marktechpost-ai-media-inc/ai-agents-projects-tutorials
-first_seen: '2026-07-21T01:29:25.041276+05:30'
-last_seen: '2026-07-21T01:29:25.041276+05:30'
-last_checked: '2026-07-21T01:29:25.041276+05:30'
+first_seen: '2026-07-21T03:46:27.605144+05:30'
+last_seen: '2026-07-21T03:46:27.605144+05:30'
+last_checked: '2026-07-21T03:46:27.605144+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent systems**: Repository focuses on frameworks and implementations for coordinating multiple AI agents, including communication protocols, role assignment, and conflict resolution strategies.
-
-- **Memory & reasoning loops**: Contains tutorials on integrating short-term/long-term memory (e.g., vector DBs, graph-based memory) and iterative reasoning loops (e.g., ReAct, Chain-of-Thought) for agentic workflows.
-
-- **Agentic RAG & development tools**: Features projects on Retrieval-Augmented Generation (RAG) for dynamic knowledge integration, along with agentic coding frameworks (e.g., AutoGen, CrewAI) for autonomous task execution.
+- Repository focuses on **multi-agent systems**, **memory management**, **planning**, and **reasoning loops** in AI agent development.
+- Contains **Jupyter Notebooks** covering **agentic AI frameworks**, **RAG (Retrieval-Augmented Generation)**, and **workflow automation**.
+- Updated **July 2026**; includes **2,807 stars** and **612 forks**, with topics spanning **agent skills**, **agentic coding**, and **AI agent engineering**.
 
 ## Why It Matters
 

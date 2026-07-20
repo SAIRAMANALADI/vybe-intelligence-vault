@@ -14,7 +14,7 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (tutorial - USEFUL Tier)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (framework - USEFUL Tier)
 - [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) (prompt - USEFUL Tier)
-- [BrandPeng/Langchain1.0-Langgraph1.0-Learning](https://github.com/BrandPeng/Langchain1.0-Langgraph1.0-Learning) (framework - USEFUL Tier)
+- [BrandPeng/Langchain1.0-Langgraph1.0-Learning](https://github.com/BrandPeng/Langchain1.0-Langgraph1.0-Learning) (workflow - USEFUL Tier)
 - [Resources - Linux Foundation - Education](https://training.linuxfoundation.org/resources) (dataset - USEFUL Tier)
 
 ## Best GitHub Repositories
@@ -39,4 +39,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-07-21 01:44 IST*
+*Last updated: 2026-07-21 04:01 IST*

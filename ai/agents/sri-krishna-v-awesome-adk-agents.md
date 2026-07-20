@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Sri-Krishna-V/awesome-adk-agents
-collected_at: '2026-07-21T01:30:05.089099+05:30'
+collected_at: '2026-07-21T03:47:07.614900+05:30'
 published_at: '2026-07-19T14:13:00Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-05-27T11:48:53Z'
 pushed_at: '2026-06-28T14:36:38Z'
 resource_id: github:sri-krishna-v/awesome-adk-agents
-first_seen: '2026-07-21T01:30:05.089099+05:30'
-last_seen: '2026-07-21T01:30:05.089099+05:30'
-last_checked: '2026-07-21T01:30:05.089099+05:30'
+first_seen: '2026-07-21T03:47:07.614900+05:30'
+last_seen: '2026-07-21T03:47:07.614900+05:30'
+last_checked: '2026-07-21T03:47:07.614900+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated ADK Resources**: Repository offering templates, best practices, and production-ready examples for AI agents built with Google's Agent Development Kit (ADK), covering research, business, automation, and education use cases.
-- **Multi-Platform Support**: Includes ADK-Python and ADK-Web implementations, with examples for multi-agent systems and integration with Google's Gemini AI.
-- **Active Maintenance**: Last updated in July 2026, with 335 stars and 48 forks, indicating ongoing community engagement and development.
+- **Curated ADK Resources**: Repository offering templates, best practices, and production-ready examples for building AI agents using Google’s Agent Development Kit (ADK) across domains like research, business, automation, and education.
+
+- **Multi-Faceted ADK Support**: Includes `adk-python`, `adk-web`, and examples for multi-agent systems, with integration for Google’s Gemini AI and ADK-specific tooling.
+
+- **High-Activity Open Source Project**: Maintained repository with 335 stars, 48 forks, last updated July 19, 2026, and categorized under topics like `agentic-ai`, `awesome-list`, and `google-adk`.
 
 ## Why It Matters
 

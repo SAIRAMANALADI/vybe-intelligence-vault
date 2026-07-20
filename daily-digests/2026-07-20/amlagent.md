@@ -1,13 +1,29 @@
 ---
-title: "byGanesh/AMLAgent"
-category: "Agent Framework"
-tech_stack: ["Python", "Docker", "LLM API", "scikit-learn", "XGBoost", "LightGBM", "pandas", "numpy", "FastAPI", "Streamlit", "JSON"]
+title: byGanesh/AMLAgent
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- Docker
+- LLM API
+- scikit-learn
+- XGBoost
+- LightGBM
+- pandas
+- numpy
+- FastAPI
+- Streamlit
+- JSON
 quality_score: 8
 rag_relevance: 9
-tags: ["autonomous ML", "multi-agent system", "reasoning loop", "ML pipeline automation", "model diagnosis"]
-source: "https://github.com/byGanesh/AMLAgent"
-discovered_at: "2026-07-19T10:26:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous ML
+- multi-agent system
+- reasoning loop
+- ML pipeline automation
+- model diagnosis
+source: https://github.com/byGanesh/AMLAgent
+discovered_at: '2026-07-19T10:26:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

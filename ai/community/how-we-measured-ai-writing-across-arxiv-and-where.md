@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://unslop.run/blog/measuring-ai-writing-on-arxiv
 hn_url: https://news.ycombinator.com/item?id=48981206
-score: 154
+score: 178
 author: dopamine_daddy
-comments_count: 112
+comments_count: 131
 published_at: '2026-07-20T22:06:36+05:30'
-collected_at: '2026-07-21T01:26:41.693351+05:30'
+collected_at: '2026-07-21T03:43:47.922728+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:how-we-measured-ai-writing-across-arxiv-and-where
 first_seen: '2026-07-21T01:26:41.693351+05:30'
-last_seen: '2026-07-21T01:26:41.693351+05:30'
-last_checked: '2026-07-21T01:26:41.693351+05:30'
+last_seen: '2026-07-21T03:43:47.922728+05:30'
+last_checked: '2026-07-21T03:43:47.922728+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by dopamine_daddy. Score: 154, Comments: 112.
+Hacker News story by dopamine_daddy. Score: 178, Comments: 131.
 Original Link: https://unslop.run/blog/measuring-ai-writing-on-arxiv
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: dopamine_daddy
-- Score: 154 Upvotes
-- Comments: 112 Discussions
+- Score: 178 Upvotes
+- Comments: 131 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48981206
 - Original Article: https://unslop.run/blog/measuring-ai-writing-on-arxiv
 

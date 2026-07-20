@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/airweave-ai/airweave
-collected_at: '2026-07-21T01:29:50.119656+05:30'
+collected_at: '2026-07-21T03:46:52.652719+05:30'
 published_at: '2026-07-20T12:50:07Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-12-24T10:00:06Z'
 pushed_at: '2026-06-05T09:52:19Z'
 resource_id: github:airweave-ai/airweave
-first_seen: '2026-07-21T01:29:50.119656+05:30'
-last_seen: '2026-07-21T01:29:50.119656+05:30'
-last_checked: '2026-07-21T01:29:50.119656+05:30'
+first_seen: '2026-07-21T03:46:52.652719+05:30'
+last_seen: '2026-07-21T03:46:52.652719+05:30'
+last_checked: '2026-07-21T03:46:52.652719+05:30'
 health_score: 100
 ---
 
@@ -31,15 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source context retrieval layer designed to enhance AI agents by providing structured, real-time data access from enterprise sources (e.g., databases, APIs, documents) for RAG workflows.
+- **Open-source context retrieval layer**: Airweave provides a modular, API-first framework for AI agents to dynamically fetch, index, and retrieve contextual data from enterprise sources (e.g., databases, APIs, unstructured documents) to augment LLM prompts.
 
-- **Key Features**:
-  - **Semantic Search API**: Enables vector-based retrieval with support for custom embeddings and hybrid search (keyword + semantic).
-  - **Data Connectors**: Pre-built integrations for enterprise systems (e.g., PostgreSQL, Notion, Slack) and unstructured data (PDFs, emails) via SDK.
+- **Enterprise data integration**: Supports connectors for structured (SQL, NoSQL) and unstructured (PDFs, emails) data, enabling semantic search and retrieval-augmented generation (RAG) with low-latency vector search capabilities.
 
-- **Technical Stack**:
-  - **Language**: Python-based backend with modular architecture for extensibility.
-  - **Integration**: REST API for LLM/agent communication; supports async processing and caching for low-latency retrieval.
+- **Developer-focused SDK**: Python-based SDK with built-in support for hybrid search (keyword + vector), caching, and real-time indexing, optimized for scalable agent workflows in production environments.
 
 ## Why It Matters
 

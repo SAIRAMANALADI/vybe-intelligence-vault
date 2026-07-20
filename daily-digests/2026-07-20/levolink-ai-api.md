@@ -1,13 +1,25 @@
 ---
-title: "jiaqing77cn/levolink-ai-api"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "OpenAI SDK", "GitHub Actions", "CDN", "Docker", "Node.js"]
+title: jiaqing77cn/levolink-ai-api
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- FastAPI
+- OpenAI SDK
+- GitHub Actions
+- CDN
+- Docker
+- Node.js
 quality_score: 9
 rag_relevance: 8
-tags: ["AI API Proxy", "Model Aggregation", "China CDN", "OpenAI-Compatible", "Cost Optimization"]
-source: "https://github.com/jiaqing77cn/levolink-ai-api"
-discovered_at: "2026-07-20T15:10:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI API Proxy
+- Model Aggregation
+- China CDN
+- OpenAI-Compatible
+- Cost Optimization
+source: https://github.com/jiaqing77cn/levolink-ai-api
+discovered_at: '2026-07-20T15:10:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

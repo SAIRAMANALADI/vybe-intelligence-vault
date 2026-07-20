@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://news.ycombinator.com/item?id=48981136
 hn_url: https://news.ycombinator.com/item?id=48981136
-score: 34
+score: 47
 author: alexsouthmayd
-comments_count: 60
+comments_count: 71
 published_at: '2026-07-20T22:02:10+05:30'
-collected_at: '2026-07-21T01:26:42.113620+05:30'
+collected_at: '2026-07-21T03:43:48.556529+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:launch-hn-bloomy-yc-s26-ai-powered-mastery-learnin
 first_seen: '2026-07-20T22:15:07.434029+05:30'
-last_seen: '2026-07-21T01:26:42.113620+05:30'
-last_checked: '2026-07-21T01:26:42.113620+05:30'
+last_seen: '2026-07-21T03:43:48.556529+05:30'
+last_checked: '2026-07-21T03:43:48.556529+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by alexsouthmayd. Score: 34, Comments: 60.
+Hacker News story by alexsouthmayd. Score: 47, Comments: 71.
 Original Link: None
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: alexsouthmayd
-- Score: 34 Upvotes
-- Comments: 60 Discussions
+- Score: 47 Upvotes
+- Comments: 71 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48981136
 - Original Article: https://news.ycombinator.com/item?id=48981136
 

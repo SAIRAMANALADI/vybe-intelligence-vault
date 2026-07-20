@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/stackitcloud/rag-template
-collected_at: '2026-07-21T01:27:54.958893+05:30'
+collected_at: '2026-07-21T03:44:57.553402+05:30'
 published_at: '2026-07-19T00:38:35Z'
 tags:
 - github-repo
@@ -12,7 +12,6 @@ tags:
 - models
 - python
 - rag
-- workflows
 stars: 84
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-01-16T12:14:53Z'
 pushed_at: '2026-07-19T01:30:55Z'
 resource_id: github:stackitcloud/rag-template
-first_seen: '2026-07-21T01:27:54.958893+05:30'
-last_seen: '2026-07-21T01:27:54.958893+05:30'
-last_checked: '2026-07-21T01:27:54.958893+05:30'
+first_seen: '2026-07-21T03:44:57.553402+05:30'
+last_seen: '2026-07-21T03:44:57.553402+05:30'
+last_checked: '2026-07-21T03:44:57.553402+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) with FastAPI, enabling AI chatbots to query document stores via vector search (likely using embeddings from models like Ollama).
-- **Deployment Options**: Supports Docker for containerization and Kubernetes for orchestration, with infrastructure-as-code compatibility for scalable deployments.
-- **Tech Stack**: Python-based, integrates with vector databases (e.g., Chroma, Weaviate), and includes Ollama for local LLM inference, optimized for document management workflows.
+- **Architecture**: Implements a Retrieval-Augmented Generation (RAG) system using FastAPI for document management and AI chatbots, integrating vector search via a vector database and LLM (e.g., Ollama) for contextual retrieval and generation.
+
+- **Deployment**: Provides Docker and Kubernetes configurations for scalable deployment, enabling containerized execution and orchestration of the RAG pipeline components (API, vector DB, and LLM).
+
+- **Tech Stack**: Python-based, leveraging FastAPI for the API layer, with support for Ollama (local LLM inference) and STACKIT’s infrastructure for vector database and cloud-native deployment.
 
 ## Why It Matters
 

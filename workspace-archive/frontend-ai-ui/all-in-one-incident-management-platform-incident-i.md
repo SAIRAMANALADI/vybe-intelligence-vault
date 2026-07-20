@@ -12,7 +12,6 @@ resource_kind: tutorial
 importance: medium
 tags:
 - rag
-- reddit
 - web-crawled
 - workflows
 selection_reason:
@@ -33,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **AI-Powered Alert Noise Reduction**: Utilizes machine learning to filter and prioritize critical alerts, minimizing unnecessary pages while ensuring critical incidents are escalated efficiently.
+- **AI-powered alert noise reduction**: Filters and prioritizes critical alerts to minimize false positives and unnecessary pages, optimizing incident response workflows.
 
-- **Automated On-Call Scheduling**: Implements dynamic, rule-based rotation systems with integration to HR/calendar systems to ensure optimal coverage and reduce manual scheduling overhead.
+- **Automated scheduling & escalation**: Dynamically assigns on-call duties with smart rotation, ensuring optimal coverage while accounting for team availability and workload.
 
-- **Real-Time Incident Trends & Analytics**: Provides dashboards and trend analysis to identify recurring issu
+- **Real-time incident trends & analytics**: Provides actionable insights via mobile and web dashboards, tracking response times, incident frequency, a
 
 ## Use Cases
 

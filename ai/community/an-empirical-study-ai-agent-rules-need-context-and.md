@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:an-empirical-study-ai-agent-rules-need-context-and
 first_seen: '2026-07-21T01:26:43.266997+05:30'
 last_seen: '2026-07-21T01:26:43.266997+05:30'
 last_checked: '2026-07-21T01:26:43.266997+05:30'
 health_score: 100
 ---
+
 
 # An Empirical Study: AI Agent Rules Need Context and Layered Enforcement
 

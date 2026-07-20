@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/alvinreal/awesome-opensource-ai
-collected_at: '2026-07-21T01:28:34.959655+05:30'
+collected_at: '2026-07-21T03:45:37.518692+05:30'
 published_at: '2026-07-20T18:51:11Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-03-24T15:58:22Z'
 pushed_at: '2026-07-20T12:30:51Z'
 resource_id: github:alvinreal/awesome-opensource-ai
-first_seen: '2026-07-21T01:28:34.959655+05:30'
-last_seen: '2026-07-21T01:28:34.959655+05:30'
-last_checked: '2026-07-21T01:28:34.959655+05:30'
+first_seen: '2026-07-21T03:45:37.518692+05:30'
+last_seen: '2026-07-21T03:45:37.518692+05:30'
+last_checked: '2026-07-21T03:45:37.518692+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Open-Source AI Repository**: A meticulously maintained GitHub repository (`alvinreal/awesome-opensource-ai`) listing high-quality, truly open-source AI projects, models, tools, and infrastructure, with daily updates.
-- **Technical Scope**: Focuses on key AI domains including agents, generative AI, LLMs, machine learning (MLOps), and retrieval-augmented generation (RAG), primarily implemented in Python.
-- **Community Metrics**: High engagement with 4,177 stars, 511 forks, and last updated on 2026-07-20, reflecting active maintenance and relevance in the open-source AI ecosystem.
+- **Curated Repository**: `alvinreal/awesome-opensource-ai` is a continuously updated, community-driven list of high-quality, truly open-source AI projects, models, tools, and infrastructure, covering agents, LLMs, RAG, MLOps, and more.
+- **Technical Scope**: Focuses on Python-based open-source AI solutions, excluding proprietary or partially open frameworks, with topics including generative AI, machine learning, and AI agents.
+- **Metrics & Maintenance**: Maintains 4,177+ stars, 511+ forks, and is updated daily (last sync: 2026-07-20), ensuring relevance for cutting-edge AI development.
 
 ## Why It Matters
 

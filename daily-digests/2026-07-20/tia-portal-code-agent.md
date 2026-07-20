@@ -1,13 +1,24 @@
 ---
-title: "allanmarum/tia-portal-code-agent"
-category: "Agent Framework"
-tech_stack: ["C#", ".NET Framework 4.8", "Siemens TIA Portal V21", "Model Context Protocol (MCP)", "Siemens Openness API", "Visual Studio 2022"]
+title: allanmarum/tia-portal-code-agent
+category: daily-digests/2026-07-20
+tech_stack:
+- C#
+- .NET Framework 4.8
+- Siemens TIA Portal V21
+- Model Context Protocol (MCP)
+- Siemens Openness API
+- Visual Studio 2022
 quality_score: 8
 rag_relevance: 9
-tags: ["PLC engineering", "Siemens TIA Portal", "AI agent integration", "Model Context Protocol", "Add-In development"]
-source: "https://github.com/allanmarum/tia-portal-code-agent"
-discovered_at: "2026-07-20T02:44:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- PLC engineering
+- Siemens TIA Portal
+- AI agent integration
+- Model Context Protocol
+- Add-In development
+source: https://github.com/allanmarum/tia-portal-code-agent
+discovered_at: '2026-07-20T02:44:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

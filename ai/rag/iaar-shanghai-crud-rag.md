@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-07-21T01:28:45.014798+05:30'
+collected_at: '2026-07-21T03:45:47.606326+05:30'
 published_at: '2026-07-10T09:46:49Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-07-21T01:28:45.014798+05:30'
-last_seen: '2026-07-21T01:28:45.014798+05:30'
-last_checked: '2026-07-21T01:28:45.014798+05:30'
+first_seen: '2026-07-21T03:45:47.606326+05:30'
+last_seen: '2026-07-21T03:45:47.606326+05:30'
+last_checked: '2026-07-21T03:45:47.606326+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: Introduces CRUD-RAG, a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems in Large Language Models (LLMs), focusing on comprehensive performance assessment across multiple dimensions.
+- **Benchmark Design**: CRUD-RAG introduces a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on comprehensive assessment across multiple dimensions (e.g., retrieval accuracy, generation quality, and contextual relevance).
 
-- **Evaluation Framework**: Implements a structured evaluation pipeline with metrics for retrieval quality, generation accuracy, and end-to-end RAG performance, tailored for Chinese linguistic and contextual nuances.
+- **Evaluation Framework**: Implements a structured pipeline to test RAG models under controlled conditions, including synthetic and real-world datasets, with metrics for retrieval precision, answer correctness, and hallucination detection.
 
-- **Open-Source Toolkit**: Provides a Python-based repository with datasets, evaluation scripts, and baseline models to facilitate reproducible research and benchmarking in RAG systems for Chinese LLMs.
+- **Open-Source Toolkit**: Provides a Python-based repository with modular components for dataset preprocessing, retrieval model integration, and generation evaluation, supporting extensibility for custom RAG architectures.
 
 ## Why It Matters
 

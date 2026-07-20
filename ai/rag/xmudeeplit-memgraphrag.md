@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-07-21T01:29:10.047207+05:30'
+collected_at: '2026-07-21T03:46:12.610750+05:30'
 published_at: '2026-07-18T19:14:58Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-07-21T01:29:10.047207+05:30'
-last_seen: '2026-07-21T01:29:10.047207+05:30'
-last_checked: '2026-07-21T01:29:10.047207+05:30'
+first_seen: '2026-07-21T03:46:12.610750+05:30'
+last_seen: '2026-07-21T03:46:12.610750+05:30'
+last_checked: '2026-07-21T03:46:12.610750+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Introduces a novel **MemGraphRAG** framework leveraging memory-augmented agents for **graph-based Retrieval-Augmented Generation (RAG)**, enabling dynamic knowledge integration and reasoning over structured graph data.
+- **Memory-based Multi-Agent Architecture**: Introduces a **MemGraphRAG** framework where multiple agents collaboratively construct and refine a **graph-based memory structure** to enhance retrieval-augmented generation (RAG) by leveraging **agent-specific memory modules** for dynamic knowledge integration.
 
-- **Graph Construction & Ontology Integration**: Implements **automated graph construction** with **ontology alignment** to enhance semantic understanding, facilitating efficient multi-agent collaboration for knowledge retrieval and generation tasks.
+- **Graph Construction & Ontology Integration**: Implements **ontology-driven graph construction** to model relationships between entities, enabling **hierarchical memory retrieval** and **context-aware knowledge augmentation** for improved LLM reasoning.
 
-- **Python Implementation**: Provides an open-source **Python-based** implementation with modular components for **graph memory management**, **agent coordination**, and **RAG pipeline optimization**, optimized for scalability and extensibility.
+- **Dynamic Knowledge Graph Updates**: Utilizes **real-time memory updates** via agent interactions, ensuring the graph remains **scalable and adaptive** to evolving contexts, with a focus on **efficient retrieval mechanisms** for large-scale knowledge graphs.
 
 ## Why It Matters
 

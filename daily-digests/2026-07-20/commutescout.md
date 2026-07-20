@@ -1,13 +1,30 @@
 ---
-title: "nicglazkov/commutescout"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "React", "TypeScript", "MCP (Model Context Protocol)", "PostgreSQL", "Redis", "Cloud Run", "OSRM", "Valhalla", "CARTO", "OpenStreetMap"]
+title: nicglazkov/commutescout
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- FastAPI
+- React
+- TypeScript
+- MCP (Model Context Protocol)
+- PostgreSQL
+- Redis
+- Cloud Run
+- OSRM
+- Valhalla
+- CARTO
+- OpenStreetMap
 quality_score: 9
 rag_relevance: 8
-tags: ["real-time traffic data", "route planning", "AI assistant integration", "MCP server", "California road conditions"]
-source: "https://github.com/nicglazkov/commutescout"
-discovered_at: "2026-07-20T21:11:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- real-time traffic data
+- route planning
+- AI assistant integration
+- MCP server
+- California road conditions
+source: https://github.com/nicglazkov/commutescout
+discovered_at: '2026-07-20T21:11:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

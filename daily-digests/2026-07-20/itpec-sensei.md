@@ -1,13 +1,24 @@
 ---
-title: "jim-ww/itpec-sensei"
-category: "Tooling"
-tech_stack: ["Go", "SQLite", "MCP (Model Context Protocol)", "Cobra (CLI framework)", "Nix (optional)", "GitHub Releases (for data distribution)"]
+title: jim-ww/itpec-sensei
+category: daily-digests/2026-07-20
+tech_stack:
+- Go
+- SQLite
+- MCP (Model Context Protocol)
+- Cobra (CLI framework)
+- Nix (optional)
+- GitHub Releases (for data distribution)
 quality_score: 8
 rag_relevance: 6
-tags: ["CLI", "Exam Practice", "MCP Server", "Local-First", "ITPEC"]
-source: "https://github.com/jim-ww/itpec-sensei"
-discovered_at: "2026-07-20T12:22:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CLI
+- Exam Practice
+- MCP Server
+- Local-First
+- ITPEC
+source: https://github.com/jim-ww/itpec-sensei
+discovered_at: '2026-07-20T12:22:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

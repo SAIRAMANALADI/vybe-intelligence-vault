@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pathwaycom/llm-app
-collected_at: '2026-07-21T01:27:54.992311+05:30'
-published_at: '2026-07-20T19:46:38Z'
+collected_at: '2026-07-21T03:44:57.514597+05:30'
+published_at: '2026-07-20T20:53:59Z'
 tags:
 - github-repo
 - jupyter notebook
 - openai
 - rag
-- workflows
-stars: 59013
+stars: 59012
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -20,9 +19,9 @@ archived: false
 created_at: '2023-07-19T08:43:37Z'
 pushed_at: '2026-07-05T17:59:07Z'
 resource_id: github:pathwaycom/llm-app
-first_seen: '2026-07-21T01:27:54.992311+05:30'
-last_seen: '2026-07-21T01:27:54.992311+05:30'
-last_checked: '2026-07-21T01:27:54.992311+05:30'
+first_seen: '2026-07-21T03:44:57.514597+05:30'
+last_seen: '2026-07-21T03:44:57.514597+05:30'
+last_checked: '2026-07-21T03:44:57.514597+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Cloud-native RAG & AI pipeline templates**: Pre-configured Docker-ready deployments for retrieval-augmented generation (RAG), AI pipelines, and enterprise search, supporting live data synchronization with SharePoint, Google Drive, S3, Kafka, PostgreSQL, and real-time APIs.
-
-- **Multi-source integration**: Real-time data ingestion from diverse sources (e.g., SharePoint, S3, Kafka) with built-in support for vector databases/indexing, enabling dynamic retrieval and augmentation for LLMs.
-
-- **Enterprise-grade LLMOps toolkit**: Includes Jupyter Notebook-based templates for Hugging Face, OpenAI, and local LLM integration, with focus on LLM security, prompting, and vector-based retrieval workflows.
+- **Cloud-native RAG & AI pipeline templates**: Pre-configured, Docker-ready deployments for Retrieval-Augmented Generation (RAG), AI pipelines, and enterprise search with live data synchronization.
+- **Multi-source data integration**: Supports real-time sync with SharePoint, Google Drive, S3, Kafka, PostgreSQL, and REST APIs via vector databases and indexing.
+- **Enterprise-grade LLMOps toolkit**: Includes security-hardened LLM prompting, Hugging Face/OpenAI compatibility, and local LLM deployment with vector search optimization.
 
 ## Why It Matters
 
@@ -43,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pathwaycom
-- Stars: 59013
+- Stars: 59012
 - Forks: 1441
 - Language: Jupyter Notebook
 - Topics: chatbot, hugging-face, llm, llm-local, llm-prompting, llm-security, llmops, machine-learning, open-ai, pathway, rag, real-time, retrieval-augmented-generation, vector-database, vector-index
-- Last Updated: 2026-07-20T19:46:38Z
+- Last Updated: 2026-07-20T20:53:59Z
 - License: MIT
 - Archived: No
 - Created At: 2023-07-19T08:43:37Z

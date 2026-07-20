@@ -4,12 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-07-21T01:27:19.868991+05:30'
+collected_at: '2026-07-21T03:44:27.566370+05:30'
 published_at: '2026-07-20T19:02:28Z'
 tags:
-- benchmark
 - github-repo
-- hackernews
 - meta-ai
 - models
 - python
@@ -21,9 +19,9 @@ archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-07-20T19:00:56Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-07-21T01:27:19.868991+05:30'
-last_seen: '2026-07-21T01:27:19.868991+05:30'
-last_checked: '2026-07-21T01:27:19.868991+05:30'
+first_seen: '2026-07-21T03:44:27.566370+05:30'
+last_seen: '2026-07-21T03:44:27.566370+05:30'
+last_checked: '2026-07-21T03:44:27.566370+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Development Guide**: Provides a full-stack technical resource for building Retrieval-Augmented Generation (RAG) applications, covering end-to-end implementation with Python, including embedding models, vector databases (Milvus), and LLM frameworks (LangChain, LlamaIndex).
+- **Comprehensive RAG Framework**: Repository provides a full-stack guide for developing RAG (Retrieval-Augmented Generation) applications, covering integration with frameworks like LangChain and LlamaIndex, and supporting multimodal data processing.
 
-- **Multi-Model & Multimodal Integration**: Supports advanced RAG pipelines with multimodal data (text, images) and integrates with cutting-edge LLMs (DeepSeek, Kimi-K2) and graph databases (Neo4j) for structured knowledge retrieval.
+- **Multi-Tool Integration**: Supports multiple vector databases (Milvus), graph databases (Neo4j), and embedding models, optimized for large language models (LLMs) including DeepSeek and Kimi-K2.
 
-- **Production-Ready Tooling**: Includes deployment strategies, performance optimization techniques, and benchmarking for scalable RAG systems, with last update timestamped July 20, 2026.
+- **Practical Implementation**: Includes hands-on examples in Python, focusing on end-to-end RAG pipelines, with last update timestamp indicating active maintenance and relevance.
 
 ## Why It Matters
 

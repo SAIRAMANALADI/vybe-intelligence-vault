@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/kyrolabs/awesome-agents
-collected_at: '2026-07-21T01:30:10.132315+05:30'
+collected_at: '2026-07-21T03:47:12.631850+05:30'
 published_at: '2026-07-20T12:55:27Z'
 tags:
 - agents
+- benchmark
 - github-repo
+- paper
 - rag
-- scripts
 - unknown
-- workflows
 stars: 2638
 language: Unknown
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-07-02T11:12:36Z'
 pushed_at: '2026-07-17T13:20:56Z'
 resource_id: github:kyrolabs/awesome-agents
-first_seen: '2026-07-21T01:30:10.132315+05:30'
-last_seen: '2026-07-21T01:30:10.132315+05:30'
-last_checked: '2026-07-21T01:30:10.132315+05:30'
+first_seen: '2026-07-21T03:47:12.631850+05:30'
+last_seen: '2026-07-21T03:47:12.631850+05:30'
+last_checked: '2026-07-21T03:47:12.631850+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Aggregates a comprehensive list of AI agent frameworks, libraries, and tools, including autonomous agents, multi-agent systems, and agent-based modeling platforms.
-- **Open-Source Focus**: Primarily features open-source projects with active community contributions and GitHub repositories.
-- **Multi-Domain Coverage**: Encompasses agents for research, automation, gaming, robotics, and enterprise workflows, with links to documentation and use cases.
+- **Curated Collection**: Aggregates a comprehensive list of AI agent frameworks, libraries, tools, and research papers, spanning autonomous agents, multi-agent systems, and agent-based simulations.
+- **Multi-Domain Coverage**: Includes resources for task-specific agents (e.g., coding, research, web browsing), general-purpose agent platforms, and benchmarks for evaluating agent performance.
+- **Open-Source Focus**: Primarily features open-source projects with active maintenance, GitHub stars, and recent updates (last synced July 2026), facilitating community contributions and reproducibility.
 
 ## Why It Matters
 
