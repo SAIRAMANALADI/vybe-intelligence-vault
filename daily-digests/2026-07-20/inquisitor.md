@@ -1,26 +1,13 @@
 ---
-title: 1111111111111111111114oLvT2/inquisitor
-category: daily-digests/2026-07-20
-tech_stack:
-- Python 3.12+
-- MCP (Model Context Protocol)
-- FastMCP
-- uv (package manager)
-- SQLite
-- DuckDuckGo/Brave/SearXNG (search backends)
-- trafilatura/readability (content extraction)
-- docling/pypdf (PDF extraction)
+title: "1111111111111111111114oLvT2/inquisitor"
+category: "Orchestrator"
+tech_stack: ["Python 3.12+", "MCP (Model Context Protocol)", "FastMCP", "uv (package manager)", "SQLite", "DuckDuckGo/Brave/SearXNG (search backends)", "trafilatura/readability (content extraction)", "docling/pypdf (PDF extraction)"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- AI agent optimization
-- heuristic search
-- problem triage
-- MCP server
-- Newtonian methodology
-source: https://github.com/1111111111111111111114oLvT2/inquisitor
-discovered_at: '2026-07-15T20:08:11Z'
-evaluated_by: mistral-small-latest
+tags: ["AI agent optimization", "heuristic search", "problem triage", "MCP server", "Newtonian methodology"]
+source: "https://github.com/1111111111111111111114oLvT2/inquisitor"
+discovered_at: "2026-07-15T20:08:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

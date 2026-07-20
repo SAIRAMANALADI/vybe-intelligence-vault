@@ -1,28 +1,13 @@
 ---
-title: abcubed3/okf
-category: daily-digests/2026-07-20
-tech_stack:
-- Go
-- YAML
-- Markdown
-- PostgreSQL
-- BigQuery
-- Cloud Spanner
-- OpenAPI
-- Protobuf
-- Model Context Protocol (MCP)
-- GitHub Actions
+title: "abcubed3/okf"
+category: "Tooling"
+tech_stack: ["Go", "YAML", "Markdown", "PostgreSQL", "BigQuery", "Cloud Spanner", "OpenAPI", "Protobuf", "Model Context Protocol (MCP)", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- knowledge-graph
-- RAG
-- MCP
-- metadata-harvesting
-- context-assembly
-source: https://github.com/abcubed3/okf
-discovered_at: '2026-07-15T05:29:41Z'
-evaluated_by: mistral-small-latest
+tags: ["knowledge-graph", "RAG", "MCP", "metadata-harvesting", "context-assembly"]
+source: "https://github.com/abcubed3/okf"
+discovered_at: "2026-07-15T05:29:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

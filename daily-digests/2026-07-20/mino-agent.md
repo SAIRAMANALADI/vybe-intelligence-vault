@@ -1,27 +1,13 @@
 ---
-title: H4fizWasabie/mino-agent
-category: daily-digests/2026-07-20
-tech_stack:
-- Go
-- SQLite
-- Model Context Protocol (MCP)
-- Telegram Bot API
-- OpenAI-compatible API
-- REST API
-- WebSockets
-- Markdown
-- HTTP Extensions
+title: "H4fizWasabie/mino-agent"
+category: "Agent Framework"
+tech_stack: ["Go", "SQLite", "Model Context Protocol (MCP)", "Telegram Bot API", "OpenAI-compatible API", "REST API", "WebSockets", "Markdown", "HTTP Extensions"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- self-hosted
-- personal AI
-- agent framework
-- SQLite
-- Go
-source: https://github.com/H4fizWasabie/mino-agent
-discovered_at: '2026-07-20T06:16:52Z'
-evaluated_by: mistral-small-latest
+tags: ["self-hosted", "personal AI", "agent framework", "SQLite", "Go"]
+source: "https://github.com/H4fizWasabie/mino-agent"
+discovered_at: "2026-07-20T06:16:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,22 +1,13 @@
 ---
-title: rynl3571/Vault-Session
-category: daily-digests/2026-07-20
-tech_stack:
-- JavaScript
-- AES-256-GCM
-- Browser Extensions
-- Windows 10/11
+title: "rynl3571/Vault-Session"
+category: "Tooling"
+tech_stack: ["JavaScript", "AES-256-GCM", "Browser Extensions", "Windows 10/11"]
 quality_score: 7
 rag_relevance: 4
-tags:
-- session migration
-- cookie encryption
-- browser logins
-- cross-device sync
-- privacy tool
-source: https://github.com/rynl3571/Vault-Session
-discovered_at: '2026-07-11T16:55:40Z'
-evaluated_by: mistral-small-latest
+tags: ["session migration", "cookie encryption", "browser logins", "cross-device sync", "privacy tool"]
+source: "https://github.com/rynl3571/Vault-Session"
+discovered_at: "2026-07-11T16:55:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

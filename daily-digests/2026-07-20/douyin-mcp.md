@@ -1,26 +1,13 @@
 ---
-title: Kuhakucai/douyin-mcp
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- FastMCP
-- Playwright
-- SQLite
-- FFmpeg
-- Faster-Whisper
-- Chrome/Chromium
-- PowerShell
+title: "Kuhakucai/douyin-mcp"
+category: "Agent Framework"
+tech_stack: ["Python", "FastMCP", "Playwright", "SQLite", "FFmpeg", "Faster-Whisper", "Chrome/Chromium", "PowerShell"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- MCP Server
-- Douyin Creator Data
-- Video Transcription
-- AI Agent Integration
-- Local Processing
-source: https://github.com/Kuhakucai/douyin-mcp
-discovered_at: '2026-07-20T03:37:41Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP Server", "Douyin Creator Data", "Video Transcription", "AI Agent Integration", "Local Processing"]
+source: "https://github.com/Kuhakucai/douyin-mcp"
+discovered_at: "2026-07-20T03:37:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,22 +1,13 @@
 ---
-title: Louiselate441/reverseloom
-category: daily-digests/2026-07-20
-tech_stack:
-- React
-- TypeScript
-- Vite
-- ESLint
+title: "Louiselate441/reverseloom"
+category: "Tooling"
+tech_stack: ["React", "TypeScript", "Vite", "ESLint"]
 quality_score: 4
 rag_relevance: 5
-tags:
-- web scraping
-- browser automation
-- LLM integration
-- headless scraping
-- protocol reversal
-source: https://github.com/Louiselate441/reverseloom
-discovered_at: '2026-07-19T22:50:32Z'
-evaluated_by: mistral-small-latest
+tags: ["web scraping", "browser automation", "LLM integration", "headless scraping", "protocol reversal"]
+source: "https://github.com/Louiselate441/reverseloom"
+discovered_at: "2026-07-19T22:50:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,26 +1,13 @@
 ---
-title: n1byn1kt/apitap
-category: daily-digests/2026-07-20
-tech_stack:
-- TypeScript
-- Node.js
-- Chrome DevTools Protocol (CDP)
-- Playwright
-- OpenAPI/Swagger
-- MCP (Model Context Protocol)
-- CLI
-- npm
+title: "n1byn1kt/apitap"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Chrome DevTools Protocol (CDP)", "Playwright", "OpenAPI/Swagger", "MCP (Model Context Protocol)", "CLI", "npm"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- API generation
-- web automation
-- MCP server
-- token efficiency
-- AI agent tools
-source: https://github.com/n1byn1kt/apitap
-discovered_at: '2026-07-19T15:56:39Z'
-evaluated_by: mistral-small-latest
+tags: ["API generation", "web automation", "MCP server", "token efficiency", "AI agent tools"]
+source: "https://github.com/n1byn1kt/apitap"
+discovered_at: "2026-07-19T15:56:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,26 +1,13 @@
 ---
-title: RMANOV/sqlite-memory-mcp
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- SQLite
-- SQLite FTS5
-- sqlite-vec (optional)
-- FastMCP
-- PyQt6
-- Git
-- CI/CD (GitHub Actions)
+title: "RMANOV/sqlite-memory-mcp"
+category: "Tooling"
+tech_stack: ["Python", "SQLite", "SQLite FTS5", "sqlite-vec (optional)", "FastMCP", "PyQt6", "Git", "CI/CD (GitHub Actions)"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- MCP memory
-- SQLite knowledge graph
-- hybrid retrieval
-- provenance tracking
-- cross-agent collaboration
-source: https://github.com/RMANOV/sqlite-memory-mcp
-discovered_at: '2026-07-19T20:44:23Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP memory", "SQLite knowledge graph", "hybrid retrieval", "provenance tracking", "cross-agent collaboration"]
+source: "https://github.com/RMANOV/sqlite-memory-mcp"
+discovered_at: "2026-07-19T20:44:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

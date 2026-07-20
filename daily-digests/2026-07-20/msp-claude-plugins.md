@@ -1,26 +1,13 @@
 ---
-title: wyre-technology/msp-claude-plugins
-category: daily-digests/2026-07-20
-tech_stack:
-- Markdown
-- MCP (Model Context Protocol)
-- OAuth 2.0
-- API Integration
-- Claude Code
-- Docker
-- npm
-- Astro
+title: "wyre-technology/msp-claude-plugins"
+category: "Tooling"
+tech_stack: ["Markdown", "MCP (Model Context Protocol)", "OAuth 2.0", "API Integration", "Claude Code", "Docker", "npm", "Astro"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- MSP
-- PSA
-- RMM
-- API Integration
-- Claude Code
-source: https://github.com/wyre-technology/msp-claude-plugins
-discovered_at: '2026-07-14T21:56:31Z'
-evaluated_by: mistral-small-latest
+tags: ["MSP", "PSA", "RMM", "API Integration", "Claude Code"]
+source: "https://github.com/wyre-technology/msp-claude-plugins"
+discovered_at: "2026-07-14T21:56:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

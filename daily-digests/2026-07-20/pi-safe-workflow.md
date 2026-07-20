@@ -1,22 +1,13 @@
 ---
-title: adyba/pi-safe-workflow
-category: daily-digests/2026-07-20
-tech_stack:
-- Pi.dev
-- SAFe (Scaled Agile Framework)
-- Agentic Workflows
-- Multi-agent Systems
+title: "adyba/pi-safe-workflow"
+category: "Agent Framework"
+tech_stack: ["Pi.dev", "SAFe (Scaled Agile Framework)", "Agentic Workflows", "Multi-agent Systems"]
 quality_score: 7
 rag_relevance: 8
-tags:
-- SAFe
-- multi-agent collaboration
-- agile workflows
-- agent personas
-- software development
-source: https://github.com/adyba/pi-safe-workflow
-discovered_at: '2026-07-10T13:11:01Z'
-evaluated_by: mistral-small-latest
+tags: ["SAFe", "multi-agent collaboration", "agile workflows", "agent personas", "software development"]
+source: "https://github.com/adyba/pi-safe-workflow"
+discovered_at: "2026-07-10T13:11:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

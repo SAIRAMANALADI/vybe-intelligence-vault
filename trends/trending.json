@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T20:22:48.993313+05:30",
+  "generated_at": "2026-07-20T20:41:22.339044+05:30",
   "trending_resources": [
     {
       "id": "hackernews:sealed-tomb-filled-with-paintings-and-inscriptions",
@@ -62,7 +62,7 @@
       "file_path": "ai/resources/git-git.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1738,
+      "rank_change": 1739,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -75,7 +75,7 @@
       "file_path": "ai/resources/amazon-com.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 8418,
+      "rank_change": 8419,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -88,7 +88,7 @@
       "file_path": "ai/resources/a-safe-and-modern-home-for-javascript-technologies.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2068,
+      "rank_change": 2070,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -101,7 +101,7 @@
       "file_path": "ai/resources/contact-us-ico.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1783,
+      "rank_change": 1785,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -114,7 +114,7 @@
       "file_path": "ai/rag/learn-greenhouse.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 7822,
+      "rank_change": 7825,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -127,7 +127,7 @@
       "file_path": "ai/resources/incident-io-youtube.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1709,
+      "rank_change": 1712,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -142,7 +142,7 @@
       "file_path": "ai/resources/amazon-com.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 8418,
+      "rank_change": 8419,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -155,7 +155,7 @@
       "file_path": "ai/rag/learn-greenhouse.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 7822,
+      "rank_change": 7825,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -181,7 +181,7 @@
       "file_path": "ai/agents/the-knowledge-layer-for-ai-gitbook.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 7511,
+      "rank_change": 7523,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -194,7 +194,7 @@
       "file_path": "ai/resources/how-youtube-works-giving-everyone-a-voice.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 7181,
+      "rank_change": 7192,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -207,7 +207,7 @@
       "file_path": "ai/rag/disintegration-imaging.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 4405,
+      "rank_change": 4416,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -220,7 +220,7 @@
       "file_path": "ai/resources/privacy-checkup.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 4384,
+      "rank_change": 4402,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -233,7 +233,7 @@
       "file_path": "ai/rag/github-codeql.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 4377,
+      "rank_change": 4399,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,7 +246,7 @@
       "file_path": "ai/rag/weaviate-database-weaviate-documentation.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 3932,
+      "rank_change": 3966,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -259,7 +259,7 @@
       "file_path": "ai/rag/evaluate-a-simple-llm-application-ragas.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 3501,
+      "rank_change": 3536,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -318,32 +318,6 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:documentation-relnotes-2-55-0-adoc-head-git-scm-gi",
-      "title": "Documentation/RelNotes/2.55.0.adoc · HEAD · git-scm / Git · GitLab",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://gitlab.com/git-scm/git/-/blob/head/documentation/relnotes/2.55.0.adoc",
-      "file_path": "ai/rag/documentation-relnotes-2-55-0-adoc-head-git-scm-gi.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "huggingface:mistralai/voxtral-4b-tts-2603",
-      "title": "mistralai/Voxtral-4B-TTS-2603 · Hugging Face",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://huggingface.co/mistralai/voxtral-4b-tts-2603",
-      "file_path": "ai/resources/huggingface-mistralai-voxtral-4b-tts-2603.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
       "id": "github:metavoiceio/metavoice-src",
       "title": "metavoiceio/metavoice-src",
       "category": "ai/resources",
@@ -363,32 +337,6 @@
       "source_type": "web",
       "url": "https://youtube.com/@llamaindex",
       "file_path": "ai/rag/llamaindex-youtube.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:talk-to-sales-speechifyai-api",
-      "title": "Talk to Sales - SpeechifyAI API",
-      "category": "ai/agents",
-      "source_type": "web",
-      "url": "https://simbavoice.ai/contact",
-      "file_path": "ai/agents/talk-to-sales-speechifyai-api.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:developer-resources-greenhouse",
-      "title": "Developer Resources | Greenhouse",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://developers.greenhouse.io",
-      "file_path": "ai/resources/developer-resources-greenhouse.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -422,19 +370,6 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:build-fast-run-any-code-fearlessly-fly",
-      "title": "Build fast. Run any code fearlessly. · Fly",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://fly.io",
-      "file_path": "ai/rag/build-fast-run-any-code-fearlessly-fly.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
       "id": "blog:streamdown",
       "title": "Streamdown",
       "category": "ai/resources",
@@ -454,6 +389,71 @@
       "source_type": "web",
       "url": "https://opensourcefriday.com",
       "file_path": "ai/rag/open-source-friday-this-friday-invest-a-few-hours.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:access-control-activity-in-your-account-computer-g",
+      "title": "Access & control activity in your account - Computer - Google Account Help",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://support.google.com/accounts?p=my_activity&hl=en_US",
+      "file_path": "ai/rag/access-control-activity-in-your-account-computer-g.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:google-analytics-opt-out-browser-add-on-download-p",
+      "title": "Google Analytics Opt-out Browser Add-on Download Page",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://tools.google.com/dlpage/gaoptout",
+      "file_path": "ai/resources/google-analytics-opt-out-browser-add-on-download-p.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:mona-s-bug-bash",
+      "title": "Mona's Bug Bash",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://bug-bash.github.com",
+      "file_path": "ai/resources/mona-s-bug-bash.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:github-universe-2026",
+      "title": "GitHub Universe 2026",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://githubuniverse.com",
+      "file_path": "ai/rag/github-universe-2026.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:google-drive-sign-in",
+      "title": "Google Drive: Sign-in",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://accounts.google.com/accountchooser?continue=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfeT0rtTPL6eu3zHQzG9Kt4GshYarxVb7U9Yvo_nIHFG58fAA%2Fviewform%3Fusp%3Dsend_form&service=wise",
+      "file_path": "ai/resources/google-drive-sign-in.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,

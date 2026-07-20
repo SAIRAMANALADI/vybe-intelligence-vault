@@ -1,25 +1,13 @@
 ---
-title: openpouch/openpouch
-category: daily-digests/2026-07-20
-tech_stack:
-- TypeScript
-- Node.js
-- CLI
-- MCP (Model Context Protocol)
-- Docker
-- JSON Schema
-- GitHub Actions
+title: "openpouch/openpouch"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "Docker", "JSON Schema", "GitHub Actions"]
 quality_score: 8
 rag_relevance: 9
-tags:
-- agent-native
-- autonomous deployment
-- MCP server
-- governed lifecycle
-- live previews
-source: https://github.com/openpouch/openpouch
-discovered_at: '2026-07-11T21:47:08Z'
-evaluated_by: mistral-small-latest
+tags: ["agent-native", "autonomous deployment", "MCP server", "governed lifecycle", "live previews"]
+source: "https://github.com/openpouch/openpouch"
+discovered_at: "2026-07-11T21:47:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

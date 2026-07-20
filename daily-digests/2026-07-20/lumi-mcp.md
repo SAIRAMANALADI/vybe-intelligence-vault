@@ -1,23 +1,13 @@
 ---
-title: alice51849/lumi-mcp
-category: daily-digests/2026-07-20
-tech_stack:
-- JavaScript
-- Node.js
-- MCP (Model Context Protocol)
-- GitHub Actions
-- npm
+title: "alice51849/lumi-mcp"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "GitHub Actions", "npm"]
 quality_score: 8
 rag_relevance: 6
-tags:
-- MCP
-- iOS App Discovery
-- Localization
-- Privacy-Preserving
-- Tool Integration
-source: https://github.com/alice51849/lumi-mcp
-discovered_at: '2026-07-19T02:30:11Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP", "iOS App Discovery", "Localization", "Privacy-Preserving", "Tool Integration"]
+source: "https://github.com/alice51849/lumi-mcp"
+discovered_at: "2026-07-19T02:30:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

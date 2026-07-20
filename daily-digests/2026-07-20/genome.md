@@ -1,25 +1,13 @@
 ---
-title: NORTHTEKDevs/genome
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- Sentence Transformers
-- SQLite
-- MCP (Model Context Protocol)
-- Vector Search
-- Local Embeddings
-- OpenAI Embeddings (optional)
+title: "NORTHTEKDevs/genome"
+category: "Tooling"
+tech_stack: ["Python", "Sentence Transformers", "SQLite", "MCP (Model Context Protocol)", "Vector Search", "Local Embeddings", "OpenAI Embeddings (optional)"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- memory layer
-- offline AI
-- vector database
-- agent framework
-- cost-efficient RAG
-source: https://github.com/NORTHTEKDevs/genome
-discovered_at: '2026-07-16T02:25:58Z'
-evaluated_by: mistral-small-latest
+tags: ["memory layer", "offline AI", "vector database", "agent framework", "cost-efficient RAG"]
+source: "https://github.com/NORTHTEKDevs/genome"
+discovered_at: "2026-07-16T02:25:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

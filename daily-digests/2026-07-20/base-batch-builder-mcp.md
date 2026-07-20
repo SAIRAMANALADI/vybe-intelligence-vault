@@ -1,27 +1,13 @@
 ---
-title: Umerfarooq1973/base-batch-builder-mcp
-category: daily-digests/2026-07-20
-tech_stack:
-- Node.js
-- Python
-- Base Blockchain
-- OpenAI API
-- Claude API
-- Docker
-- YAML
-- JavaScript
-- Mermaid.js
+title: "Umerfarooq1973/base-batch-builder-mcp"
+category: "Orchestrator"
+tech_stack: ["Node.js", "Python", "Base Blockchain", "OpenAI API", "Claude API", "Docker", "YAML", "JavaScript", "Mermaid.js"]
 quality_score: 8
 rag_relevance: 7
-tags:
-- blockchain
-- multi-agent systems
-- AI orchestration
-- gas optimization
-- Base network
-source: https://github.com/Umerfarooq1973/base-batch-builder-mcp
-discovered_at: '2026-07-15T08:06:00Z'
-evaluated_by: mistral-small-latest
+tags: ["blockchain", "multi-agent systems", "AI orchestration", "gas optimization", "Base network"]
+source: "https://github.com/Umerfarooq1973/base-batch-builder-mcp"
+discovered_at: "2026-07-15T08:06:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,25 +1,13 @@
 ---
-title: VenomD846/HoloCore
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- Markdown
-- CLI
-- MCP (Model Context Protocol)
-- SQLite
-- Obsidian (optional)
-- Git
+title: "VenomD846/HoloCore"
+category: "Orchestrator"
+tech_stack: ["Python", "Markdown", "CLI", "MCP (Model Context Protocol)", "SQLite", "Obsidian (optional)", "Git"]
 quality_score: 9
 rag_relevance: 9
-tags:
-- context management
-- local AI
-- knowledge graph
-- memory system
-- token optimization
-source: https://github.com/VenomD846/HoloCore
-discovered_at: '2026-07-14T10:07:50Z'
-evaluated_by: mistral-small-latest
+tags: ["context management", "local AI", "knowledge graph", "memory system", "token optimization"]
+source: "https://github.com/VenomD846/HoloCore"
+discovered_at: "2026-07-14T10:07:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

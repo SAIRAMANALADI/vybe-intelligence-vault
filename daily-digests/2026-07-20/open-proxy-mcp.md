@@ -1,25 +1,13 @@
 ---
-title: MarcoYou/open-proxy-mcp
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- DART OpenAPI
-- FastAPI
-- Asyncio
-- KRX KIND
-- PolyForm Noncommercial License
+title: "MarcoYou/open-proxy-mcp"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "DART OpenAPI", "FastAPI", "Asyncio", "KRX KIND", "PolyForm Noncommercial License"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- Korean corporate data
-- DART API
-- proxy voting
-- financial analysis
-- ownership mapping
-source: https://github.com/MarcoYou/open-proxy-mcp
-discovered_at: '2026-07-19T22:50:34Z'
-evaluated_by: mistral-small-latest
+tags: ["Korean corporate data", "DART API", "proxy voting", "financial analysis", "ownership mapping"]
+source: "https://github.com/MarcoYou/open-proxy-mcp"
+discovered_at: "2026-07-19T22:50:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,28 +1,13 @@
 ---
-title: brycewang-stanford/Auto-Empirical-Research-Skills
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- Stata
-- R
-- LaTeX
-- Quarto
-- Claude
-- GitHub Actions
-- JSON
-- Markdown
-- Docker
+title: "brycewang-stanford/Auto-Empirical-Research-Skills"
+category: "Tooling"
+tech_stack: ["Python", "Stata", "R", "LaTeX", "Quarto", "Claude", "GitHub Actions", "JSON", "Markdown", "Docker"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- empirical research automation
-- causal inference
-- academic writing
-- AI agent skills
-- research workflow
-source: https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills
-discovered_at: '2026-07-18T17:56:19Z'
-evaluated_by: mistral-small-latest
+tags: ["empirical research automation", "causal inference", "academic writing", "AI agent skills", "research workflow"]
+source: "https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills"
+discovered_at: "2026-07-18T17:56:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-91%2C365-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-46%2C925-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--20-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **91,365 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **46,925 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 12,347</p>
-        <p><b>Active:</b> 12,094 | <b>Inactive:</b> 253</p>
+        <p><b>Resources tracked:</b> 11,348</p>
+        <p><b>Active:</b> 11,095 | <b>Inactive:</b> 253</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 45,466</p>
+        <p><b>Archive Files:</b> 1,985</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 91,365 files</p>
-        <p><b>Last Update:</b> 2026-07-20 20:22 IST</p>
+        <p><b>Total Vault Size:</b> 46,925 files</p>
+        <p><b>Last Update:</b> 2026-07-20 20:41 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -214,7 +214,7 @@ score_threshold: 0.65
 - 🔼 **[1-Bit LLM in the Browser](ai/community/huggingface-spaces-webml-community.md)** • <kbd>+49 pts</kbd>
 - 🔼 **[cli/cli](ai/rag/cli-cli.md)** • Rank: <kbd>+40</kbd>
 - 🔼 **[Quickstart | GitBook Documentation](ai/rag/quickstart-gitbook-documentation.md)** • Rank: <kbd>+7523</kbd>
-- 🔼 **[git/git](ai/resources/git-git.md)** • Rank: <kbd>+1738</kbd>
+- 🔼 **[git/git](ai/resources/git-git.md)** • Rank: <kbd>+1739</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
@@ -223,7 +223,7 @@ score_threshold: 0.65
 - 🆕 **[Show HN: Stacks – an hourly card solitaire about building four gardens](ai/community/show-hn-stacks-an-hourly-card-solitaire-about-buil.md)** • Score: `9`
 - 🆕 **[API reference | Developers | GitBook Documentation](ai/resources/api-reference-developers-gitbook-documentation.md)** • Score: `0`
 - 🆕 **[GitBook · GitHub](ai/agents/gitbook-github.md)** • Score: `0`
-- 🆕 **[Documentation/RelNotes/2.55.0.adoc · HEAD · git-scm / Git · GitLab](ai/rag/documentation-relnotes-2-55-0-adoc-head-git-scm-gi.md)** • Score: `0`
+- 🆕 **[metavoiceio/metavoice-src](ai/resources/metavoiceio-metavoice-src.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.

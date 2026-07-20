@@ -1,28 +1,13 @@
 ---
-title: MadaBurns/bv-mcp
-category: daily-digests/2026-07-20
-tech_stack:
-- TypeScript
-- Cloudflare Workers
-- Model Context Protocol (MCP)
-- JSON-RPC 2.0
-- Durable Objects
-- D1/D2 Databases
-- RDAP
-- WHOIS
-- DNS-over-HTTPS
-- JWT Authentication
+title: "MadaBurns/bv-mcp"
+category: "Tooling"
+tech_stack: ["TypeScript", "Cloudflare Workers", "Model Context Protocol (MCP)", "JSON-RPC 2.0", "Durable Objects", "D1/D2 Databases", "RDAP", "WHOIS", "DNS-over-HTTPS", "JWT Authentication"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- DNS security
-- email authentication
-- MCP server
-- security scanning
-- compliance mapping
-source: https://github.com/MadaBurns/bv-mcp
-discovered_at: '2026-07-20T03:37:48Z'
-evaluated_by: mistral-small-latest
+tags: ["DNS security", "email authentication", "MCP server", "security scanning", "compliance mapping"]
+source: "https://github.com/MadaBurns/bv-mcp"
+discovered_at: "2026-07-20T03:37:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

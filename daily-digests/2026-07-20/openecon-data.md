@@ -1,29 +1,13 @@
 ---
-title: hanlulong/openecon-data
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- Node.js
-- MCP (Model Context Protocol)
-- FastAPI
-- React
-- PostgreSQL
-- Supabase
-- OpenRouter API
-- FRED API
-- World Bank API
-- IMF API
+title: "hanlulong/openecon-data"
+category: "Tooling"
+tech_stack: ["Python", "Node.js", "MCP (Model Context Protocol)", "FastAPI", "React", "PostgreSQL", "Supabase", "OpenRouter API", "FRED API", "World Bank API", "IMF API"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- economic data
-- MCP server
-- natural language queries
-- real-time data
-- AI agent integration
-source: https://github.com/hanlulong/openecon-data
-discovered_at: '2026-07-11T02:27:52Z'
-evaluated_by: mistral-small-latest
+tags: ["economic data", "MCP server", "natural language queries", "real-time data", "AI agent integration"]
+source: "https://github.com/hanlulong/openecon-data"
+discovered_at: "2026-07-11T02:27:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

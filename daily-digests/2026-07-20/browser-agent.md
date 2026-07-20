@@ -1,27 +1,13 @@
 ---
-title: devcxl/browser-agent
-category: daily-digests/2026-07-20
-tech_stack:
-- TypeScript
-- React 18
-- TailwindCSS
-- WXT
-- Vite
-- Vitest
-- Playwright
-- ESLint
-- Prettier
+title: "devcxl/browser-agent"
+category: "Tooling"
+tech_stack: ["TypeScript", "React 18", "TailwindCSS", "WXT", "Vite", "Vitest", "Playwright", "ESLint", "Prettier"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- browser automation
-- AI agent
-- extension framework
-- natural language control
-- cross-browser
-source: https://github.com/devcxl/browser-agent
-discovered_at: '2026-07-18T20:43:58Z'
-evaluated_by: mistral-small-latest
+tags: ["browser automation", "AI agent", "extension framework", "natural language control", "cross-browser"]
+source: "https://github.com/devcxl/browser-agent"
+discovered_at: "2026-07-18T20:43:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
