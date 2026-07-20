@@ -1,13 +1,23 @@
 ---
-title: "Retsumdk/Retsumdk"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Python", "JavaScript", "Node.js", "Go"]
+title: Retsumdk/Retsumdk
+category: daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Python
+- JavaScript
+- Node.js
+- Go
 quality_score: 7
 rag_relevance: 8
-tags: ["AI Agents", "Multi-Agent Systems", "Orchestration", "Infrastructure", "Autonomous Systems"]
-source: "https://github.com/Retsumdk/Retsumdk"
-discovered_at: "2026-07-19T13:17:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agents
+- Multi-Agent Systems
+- Orchestration
+- Infrastructure
+- Autonomous Systems
+source: https://github.com/Retsumdk/Retsumdk
+discovered_at: '2026-07-19T13:17:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

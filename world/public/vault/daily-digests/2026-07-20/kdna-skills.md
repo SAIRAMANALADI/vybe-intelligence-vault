@@ -1,13 +1,23 @@
 ---
-title: "aikdna/kdna-skills"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "CLI tools", "npm"]
+title: aikdna/kdna-skills
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- CLI tools
+- npm
 quality_score: 8
 rag_relevance: 9
-tags: ["judgment assets", "AI agent integration", "MCP server", "knowledge injection", "domain-specific rules"]
-source: "https://github.com/aikdna/kdna-skills"
-discovered_at: "2026-07-18T14:50:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- judgment assets
+- AI agent integration
+- MCP server
+- knowledge injection
+- domain-specific rules
+source: https://github.com/aikdna/kdna-skills
+discovered_at: '2026-07-18T14:50:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

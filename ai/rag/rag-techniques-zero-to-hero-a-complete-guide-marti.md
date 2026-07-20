@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-07-20T03:41:53.505031+05:30'
-collected_at: '2026-07-20T03:41:53.505048+05:30'
+published_at: '2026-07-20T15:05:31.464818+05:30'
+collected_at: '2026-07-20T15:05:31.464828+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-07-20T03:41:53.505048+05:30'
-last_seen: '2026-07-20T03:41:53.505048+05:30'
-last_checked: '2026-07-20T03:41:53.505048+05:30'
+first_seen: '2026-07-20T15:05:31.464828+05:30'
+last_seen: '2026-07-20T15:05:31.464828+05:30'
+last_checked: '2026-07-20T15:05:31.464828+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines a retriever (vector/lexical) with an LLM generator, enabling dynamic knowledge access without retraining; core components include embeddings, vector stores, rerankers, and orchestration layers for efficient retrieval and generation.
+- **RAG Architecture**: Combines a retriever (vector/lexical search) with a generator (LLM) to ground responses in external knowledge, improving factuality and reducing hallucinations compared to pure parametric generation.
 
-- **Advanced Retrieval Techniques**: Hybrid search (BM25 + vector), multi-stage reranking (cross-encoders on top-K candidates), and query rewriting (expansion, paraphrasing, multi-query fusion) improve precision and recall while reducing hallucinations.
+- **Core Techniques**: Includes chunking strategies (semantic/structure-aware), hybrid retrieval (BM25 + vector fusion), reranking (cross-encoder distillation), and multi-hop iterative retrieval for complex queries.
 
-- **Context Optimization & Scalability**: Techniques like semantic chunking, context distillation, iterative multi-hop retrieval, and ANN-based vector search balance coherence and latency; operational concerns include cost control, monitoring, and retrieval-aware fine-tuning for domain adaptation.
+- **Operational Considerations**: Requires evaluation of both retrieval (precision/recall) and generation (factuality/hallucination), with trade-offs in latency, cost, and scalability addressed via caching, ANN indexes, and query rewriting.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T03:41:53.505031+05:30
+- Published: 2026-07-20T15:05:31.464818+05:30
 
 ## Related Tags
 

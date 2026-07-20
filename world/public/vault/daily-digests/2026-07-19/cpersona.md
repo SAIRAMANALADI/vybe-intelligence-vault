@@ -1,13 +1,27 @@
 ---
-title: "Cloto-dev/CPersona"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "MCP (Model Context Protocol)", "FastAPI", "ONNX", "HTTP", "SQLAlchemy", "aiosqlite", "uv"]
+title: Cloto-dev/CPersona
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Python
+- SQLite
+- MCP (Model Context Protocol)
+- FastAPI
+- ONNX
+- HTTP
+- SQLAlchemy
+- aiosqlite
+- uv
 quality_score: 9
 rag_relevance: 9
-tags: ["memory", "persistent", "MCP", "SQLite", "hybrid search"]
-source: "https://github.com/Cloto-dev/CPersona"
-discovered_at: "2026-07-19T22:50:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory
+- persistent
+- MCP
+- SQLite
+- hybrid search
+source: https://github.com/Cloto-dev/CPersona
+discovered_at: '2026-07-19T22:50:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

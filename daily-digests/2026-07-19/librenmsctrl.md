@@ -1,13 +1,24 @@
 ---
-title: "lidless-labs/librenmsctrl"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "LibreNMS API", "Model Context Protocol (MCP)", "TypeBox (schema validation)", "Jest (testing)"]
+title: lidless-labs/librenmsctrl
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- LibreNMS API
+- Model Context Protocol (MCP)
+- TypeBox (schema validation)
+- Jest (testing)
 quality_score: 8
 rag_relevance: 7
-tags: ["network monitoring", "MCP adapter", "CLI tool", "LibreNMS integration", "safety-gated writes"]
-source: "https://github.com/lidless-labs/librenmsctrl"
-discovered_at: "2026-07-17T02:52:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- network monitoring
+- MCP adapter
+- CLI tool
+- LibreNMS integration
+- safety-gated writes
+source: https://github.com/lidless-labs/librenmsctrl
+discovered_at: '2026-07-17T02:52:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

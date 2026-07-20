@@ -1,13 +1,22 @@
 ---
-title: "usevebu3783/awesome-mcp-security"
-category: "Tooling"
-tech_stack: ["C#", "Windows Desktop Application", "Security Scanning", "Automated Testing"]
+title: usevebu3783/awesome-mcp-security
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- C#
+- Windows Desktop Application
+- Security Scanning
+- Automated Testing
 quality_score: 7
 rag_relevance: 8
-tags: ["MCP security", "AI agent safety", "prompt injection detection", "server trust scoring", "LLM security"]
-source: "https://github.com/usevebu3783/awesome-mcp-security"
-discovered_at: "2026-07-13T20:14:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP security
+- AI agent safety
+- prompt injection detection
+- server trust scoring
+- LLM security
+source: https://github.com/usevebu3783/awesome-mcp-security
+discovered_at: '2026-07-13T20:14:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

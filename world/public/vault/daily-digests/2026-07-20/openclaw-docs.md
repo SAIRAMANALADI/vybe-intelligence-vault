@@ -1,13 +1,24 @@
 ---
-title: "yeuxuan/openclaw-docs"
-category: "Tooling"
-tech_stack: ["VitePress", "JavaScript", "Markdown", "Node.js", "Azure Static Web Apps", "MDX"]
+title: yeuxuan/openclaw-docs
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- VitePress
+- JavaScript
+- Markdown
+- Node.js
+- Azure Static Web Apps
+- MDX
 quality_score: 9
 rag_relevance: 7
-tags: ["documentation", "AI agent framework", "self-hosted", "multi-channel", "tutorial"]
-source: "https://github.com/yeuxuan/openclaw-docs"
-discovered_at: "2026-07-19T07:29:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- documentation
+- AI agent framework
+- self-hosted
+- multi-channel
+- tutorial
+source: https://github.com/yeuxuan/openclaw-docs
+discovered_at: '2026-07-19T07:29:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -5,7 +5,7 @@ archive_category: evals-and-benchmarks
 source_category: ai/models
 source_url: https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe
 resource_id: huggingface:blog/nvidia/nemotron-3-nano-evaluation-recipe
-local_vault_path: ai/models/the-open-evaluation-standard-benchmarking-nvidia-n.md
+local_vault_path: ai/models/huggingface-blog-nvidia-nemotron-3-nano-evaluation-recipe.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluati
 
 ## Local Vault File
 
-Path: [the-open-evaluation-standard-benchmarking-nvidia-n.md](../../ai/models/the-open-evaluation-standard-benchmarking-nvidia-n.md)
+Path: [huggingface-blog-nvidia-nemotron-3-nano-evaluation-recipe.md](../../ai/models/huggingface-blog-nvidia-nemotron-3-nano-evaluation-recipe.md)

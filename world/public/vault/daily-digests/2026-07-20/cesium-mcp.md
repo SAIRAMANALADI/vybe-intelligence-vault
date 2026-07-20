@@ -1,13 +1,26 @@
 ---
-title: "gaopengbin/cesium-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "TypeScript", "CesiumJS", "Model Context Protocol (MCP)", "WebMCP", "npm", "Vite", "Node.js"]
+title: gaopengbin/cesium-mcp
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- JavaScript
+- TypeScript
+- CesiumJS
+- Model Context Protocol (MCP)
+- WebMCP
+- npm
+- Vite
+- Node.js
 quality_score: 9
 rag_relevance: 8
-tags: ["CesiumJS", "3D GIS", "AI integration", "MCP", "geospatial tools"]
-source: "https://github.com/gaopengbin/cesium-mcp"
-discovered_at: "2026-07-14T10:07:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CesiumJS
+- 3D GIS
+- AI integration
+- MCP
+- geospatial tools
+source: https://github.com/gaopengbin/cesium-mcp
+discovered_at: '2026-07-14T10:07:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

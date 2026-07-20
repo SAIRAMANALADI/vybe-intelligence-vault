@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-07-20T03:43:33.294301+05:30'
+collected_at: '2026-07-20T15:07:10.941683+05:30'
 published_at: '2026-07-18T19:14:58Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-07-20T03:43:33.294301+05:30'
-last_seen: '2026-07-20T03:43:33.294301+05:30'
-last_checked: '2026-07-20T03:43:33.294301+05:30'
+first_seen: '2026-07-20T15:07:10.941683+05:30'
+last_seen: '2026-07-20T15:07:10.941683+05:30'
+last_checked: '2026-07-20T15:07:10.941683+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Introduces `MemGraphRAG`, a novel framework leveraging memory-augmented multi-agent collaboration for graph-based Retrieval-Augmented Generation (RAG), enhancing contextual reasoning in knowledge-intensive tasks.
+- **Memory-based Multi-Agent System**: Introduces a novel framework integrating memory mechanisms with multi-agent collaboration for enhanced Graph Retrieval-Augmented Generation (GraphRAG), enabling dynamic knowledge retention and retrieval.
 
-- **Graph & Ontology Construction**: Implements dynamic graph construction and ontology integration to structure and retrieve hierarchical knowledge, improving semantic relevance and multi-hop reasoning capabilities in downstream applications.
+- **Graph & Ontology Construction**: Implements automated graph construction and ontology integration, facilitating structured knowledge representation and efficient multi-hop reasoning for complex queries.
 
-- **Python Implementation**: Provides an open-source Python-based implementation with modular components for agent-memory interaction, graph retrieval, and ontology alignment, optimized for scalability and adaptability in KDD 2026 research contexts.
+- **Python Implementation**: Provides an open-source Python-based implementation optimized for scalability, with modular components for agent-memory management, graph operations, and RAG integration.
 
 ## Why It Matters
 

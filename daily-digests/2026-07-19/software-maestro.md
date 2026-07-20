@@ -1,13 +1,26 @@
 ---
-title: "coreyone/software-maestro"
-category: "Orchestrator"
-tech_stack: ["AI IDE Integration", "Agent Orchestration", "Product Lifecycle Management", "Design Systems", "Software Engineering Governance", "API Design", "Security Protocols", "Telemetry and Observability"]
+title: coreyone/software-maestro
+category: daily-digests/2026-07-19
+tech_stack:
+- AI IDE Integration
+- Agent Orchestration
+- Product Lifecycle Management
+- Design Systems
+- Software Engineering Governance
+- API Design
+- Security Protocols
+- Telemetry and Observability
 quality_score: 7
 rag_relevance: 8
-tags: ["AI agent orchestration", "product lifecycle management", "software governance", "design systems", "engineering workflows"]
-source: "https://github.com/coreyone/software-maestro"
-discovered_at: "2026-07-12T19:02:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent orchestration
+- product lifecycle management
+- software governance
+- design systems
+- engineering workflows
+source: https://github.com/coreyone/software-maestro
+discovered_at: '2026-07-12T19:02:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

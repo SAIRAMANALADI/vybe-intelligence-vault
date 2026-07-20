@@ -1,13 +1,35 @@
 ---
-title: "agentrq/agentrq"
-category: "Orchestrator"
-tech_stack: ["Go", "Fiber", "Vue.js 3", "Vite", "Pinia", "Tailwind CSS", "GORM", "SQLite", "Google OAuth2", "JWT", "SSE (Server-Sent Events)", "Docker", "Node.js", "npm", "TypeScript", "Model Context Protocol (MCP)", "Agent Client Protocol (ACP)"]
+title: agentrq/agentrq
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Go
+- Fiber
+- Vue.js 3
+- Vite
+- Pinia
+- Tailwind CSS
+- GORM
+- SQLite
+- Google OAuth2
+- JWT
+- SSE (Server-Sent Events)
+- Docker
+- Node.js
+- npm
+- TypeScript
+- Model Context Protocol (MCP)
+- Agent Client Protocol (ACP)
 quality_score: 9
 rag_relevance: 9
-tags: ["AI-human collaboration", "MCP integration", "task orchestration", "real-time synchronization", "multi-agent management"]
-source: "https://github.com/agentrq/agentrq"
-discovered_at: "2026-07-16T02:26:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-human collaboration
+- MCP integration
+- task orchestration
+- real-time synchronization
+- multi-agent management
+source: https://github.com/agentrq/agentrq
+discovered_at: '2026-07-16T02:26:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

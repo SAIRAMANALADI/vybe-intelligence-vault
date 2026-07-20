@@ -1,13 +1,25 @@
 ---
-title: "FoundryNet/mint-mcp"
-category: "Orchestrator"
-tech_stack: ["Python", "FastMCP", "Solana Blockchain", "Supabase", "Stripe", "Streamable HTTP", "FastAPI"]
+title: FoundryNet/mint-mcp
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python
+- FastMCP
+- Solana Blockchain
+- Supabase
+- Stripe
+- Streamable HTTP
+- FastAPI
 quality_score: 9
 rag_relevance: 8
-tags: ["work attestation", "trust protocol", "autonomous agents", "Solana blockchain", "MCP server"]
-source: "https://github.com/FoundryNet/mint-mcp"
-discovered_at: "2026-07-19T07:29:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- work attestation
+- trust protocol
+- autonomous agents
+- Solana blockchain
+- MCP server
+source: https://github.com/FoundryNet/mint-mcp
+discovered_at: '2026-07-19T07:29:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "wgabrys88/endgame-ai"
-category: "Agent Framework"
-tech_stack: ["Python", "LLM (Local Models)", "GitHub API", "Browser Automation", "Terminal/Editor Automation", "Git", "JSON Configuration"]
+title: wgabrys88/endgame-ai
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- LLM (Local Models)
+- GitHub API
+- Browser Automation
+- Terminal/Editor Automation
+- Git
+- JSON Configuration
 quality_score: 7
 rag_relevance: 8
-tags: ["autonomous agent", "desktop automation", "self-evolving", "LLM-driven", "local execution"]
-source: "https://github.com/wgabrys88/endgame-ai"
-discovered_at: "2026-07-11T15:54:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agent
+- desktop automation
+- self-evolving
+- LLM-driven
+- local execution
+source: https://github.com/wgabrys88/endgame-ai
+discovered_at: '2026-07-11T15:54:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

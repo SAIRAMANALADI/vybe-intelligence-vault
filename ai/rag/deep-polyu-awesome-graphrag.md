@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/Awesome-GraphRAG
-collected_at: '2026-07-20T03:42:48.172103+05:30'
-published_at: '2026-07-19T16:11:17Z'
+collected_at: '2026-07-20T15:06:25.911280+05:30'
+published_at: '2026-07-20T09:32:05Z'
 tags:
 - benchmark
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - paper
 - rag
 - unknown
-stars: 2536
+stars: 2538
 language: Unknown
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-10-21T08:29:58Z'
 pushed_at: '2026-06-02T12:52:38Z'
 resource_id: github:deep-polyu/awesome-graphrag
-first_seen: '2026-07-20T03:42:48.172103+05:30'
-last_seen: '2026-07-20T03:42:48.172103+05:30'
-last_checked: '2026-07-20T03:42:48.172103+05:30'
+first_seen: '2026-07-20T15:06:25.911280+05:30'
+last_seen: '2026-07-20T15:06:25.911280+05:30'
+last_checked: '2026-07-20T15:06:25.911280+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based Retrieval-Augmented Generation (GraphRAG)** for enhanced LLM reasoning.
-- **Technical Scope**: Covers **knowledge graphs, large language models (LLMs), and retrieval-augmented generation (RAG)** with emphasis on graph-structured data integration.
-- **Repository Metrics**: 2,536 stars, 222 forks, last updated **July 19, 2026**, with active maintenance in graph-centric AI research.
+- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based Retrieval-Augmented Generation (GraphRAG)**, covering knowledge graphs, large language models (LLMs), and RAG techniques.
+- **Technical Scope**: Encompasses **GraphRAG-specific topics**, including graph-based retrieval methods, integration with LLMs, and evaluation benchmarks for RAG systems leveraging graph structures.
+- **Repository Metrics**: Maintained by **DEEP-PolyU**, with **2,538 stars**, **222 forks**, and last updated on **July 20, 2026**; language unspecified but likely multi-language due to diverse research content.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: DEEP-PolyU
-- Stars: 2536
+- Stars: 2538
 - Forks: 222
 - Language: Unknown
 - Topics: graphrag, graphrag-paper, graphrag-survey, knowledge-graph, large-language-models, rag, retrieval-augmented-generation
-- Last Updated: 2026-07-19T16:11:17Z
+- Last Updated: 2026-07-20T09:32:05Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-21T08:29:58Z

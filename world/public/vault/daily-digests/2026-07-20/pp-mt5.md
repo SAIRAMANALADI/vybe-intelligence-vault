@@ -1,13 +1,25 @@
 ---
-title: "ek-labs/pp-mt5"
-category: "Tooling"
-tech_stack: ["Go", "Python", "MetaTrader 5 API", "SQLite", "MCP (Model Context Protocol)", "Parquet", "JSON/JSONL"]
+title: ek-labs/pp-mt5
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Go
+- Python
+- MetaTrader 5 API
+- SQLite
+- MCP (Model Context Protocol)
+- Parquet
+- JSON/JSONL
 quality_score: 9
 rag_relevance: 7
-tags: ["trading automation", "MetaTrader 5", "quantitative analysis", "AI agent integration", "forensic trading records"]
-source: "https://github.com/ek-labs/pp-mt5"
-discovered_at: "2026-07-14T23:53:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- trading automation
+- MetaTrader 5
+- quantitative analysis
+- AI agent integration
+- forensic trading records
+source: https://github.com/ek-labs/pp-mt5
+discovered_at: '2026-07-14T23:53:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

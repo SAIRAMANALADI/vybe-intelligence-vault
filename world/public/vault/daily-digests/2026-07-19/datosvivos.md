@@ -1,13 +1,33 @@
 ---
-title: "jsricop/DatosVivos"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Next.js", "ChromaDB", "Claude Haiku API", "Socrata API", "CKAN API", "DCAT", "DIVIPOLA (DANE)", "Power BI", "Parquet", "Ollama (r\u00e9plicas locales)", "NL2SQL", "LLM (multilingual-e5)", "ETL"]
+title: jsricop/DatosVivos
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Python
+- FastAPI
+- Next.js
+- ChromaDB
+- Claude Haiku API
+- Socrata API
+- CKAN API
+- DCAT
+- DIVIPOLA (DANE)
+- Power BI
+- Parquet
+- Ollama (réplicas locales)
+- NL2SQL
+- LLM (multilingual-e5)
+- ETL
 quality_score: 9
 rag_relevance: 8
-tags: ["Datos abiertos", "NL2SQL", "MCP Server", "Gobierno abierto", "Calidad de datos"]
-source: "https://github.com/jsricop/DatosVivos"
-discovered_at: "2026-07-14T02:13:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Datos abiertos
+- NL2SQL
+- MCP Server
+- Gobierno abierto
+- Calidad de datos
+source: https://github.com/jsricop/DatosVivos
+discovered_at: '2026-07-14T02:13:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

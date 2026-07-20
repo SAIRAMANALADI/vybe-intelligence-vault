@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IBM/mt-rag-benchmark
-collected_at: '2026-07-20T03:43:03.277659+05:30'
+collected_at: '2026-07-20T15:06:40.915261+05:30'
 published_at: '2026-07-16T03:38:47Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - python
 - rag
 stars: 148
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-12-17T19:26:10Z'
 pushed_at: '2026-07-14T01:32:02Z'
 resource_id: github:ibm/mt-rag-benchmark
-first_seen: '2026-07-20T03:43:03.277659+05:30'
-last_seen: '2026-07-20T03:43:03.277659+05:30'
-last_checked: '2026-07-20T03:43:03.277659+05:30'
+first_seen: '2026-07-20T15:06:40.915261+05:30'
+last_seen: '2026-07-20T15:06:40.915261+05:30'
+last_checked: '2026-07-20T15:06:40.915261+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: Multi-Turn Retrieval-Augmented Generation (RAG) benchmark for evaluating conversational AI systems across multi-turn interactions, focusing on context retention and dynamic retrieval accuracy.
-
-- **Technical Implementation**: Python-based framework with standardized evaluation metrics for assessing RAG models' performance in multi-turn scenarios, including retrieval relevance, response coherence, and context utilization.
-
-- **Dataset & Metrics**: Includes curated multi-turn conversational datasets and evaluation protocols to measure long-term dependency handling, retrieval robustness, and end-to-end system efficiency.
+- **Purpose**: Multi-Turn Retrieval-Augmented Generation (RAG) benchmark designed to evaluate conversational AI systems' ability to maintain context and retrieve relevant information across multiple interaction turns.
+- **Implementation**: Python-based framework with structured datasets and evaluation metrics for assessing multi-turn RAG performance, including retrieval accuracy, response coherence, and context retention.
+- **Scope**: Focuses on dynamic, iterative question-answering scenarios where prior turns influence subsequent queries and responses, enabling comprehensive testing of long-term dependency handling in RAG models.
 
 ## Why It Matters
 

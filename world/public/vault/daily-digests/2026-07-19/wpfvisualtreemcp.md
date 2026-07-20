@@ -1,13 +1,26 @@
 ---
-title: "faze79/WPFVisualTreeMcp"
-category: "Tooling"
-tech_stack: ["C#", ".NET 8.0", "Model Context Protocol (MCP)", "UI Automation", "WPF", "Dependency Injection", "Named Pipes", "Win32 API"]
+title: faze79/WPFVisualTreeMcp
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- C#
+- .NET 8.0
+- Model Context Protocol (MCP)
+- UI Automation
+- WPF
+- Dependency Injection
+- Named Pipes
+- Win32 API
 quality_score: 9
 rag_relevance: 8
-tags: ["WPF inspection", "AI agent tools", "UI automation", "binding debugging", "visual tree analysis"]
-source: "https://github.com/faze79/WPFVisualTreeMcp"
-discovered_at: "2026-07-12T22:44:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- WPF inspection
+- AI agent tools
+- UI automation
+- binding debugging
+- visual tree analysis
+source: https://github.com/faze79/WPFVisualTreeMcp
+discovered_at: '2026-07-12T22:44:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

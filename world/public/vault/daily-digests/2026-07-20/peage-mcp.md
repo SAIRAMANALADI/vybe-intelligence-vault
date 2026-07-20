@@ -1,13 +1,24 @@
 ---
-title: "javimosch/peage-mcp"
-category: "Tooling"
-tech_stack: ["MCP (Model Context Protocol)", "Shell", "Machin (MFL)", "Stripe Checkout", "HMAC", "JSON"]
+title: javimosch/peage-mcp
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- MCP (Model Context Protocol)
+- Shell
+- Machin (MFL)
+- Stripe Checkout
+- HMAC
+- JSON
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP server", "pay-per-call", "fiat wallet", "agent payment", "microtransactions"]
-source: "https://github.com/javimosch/peage-mcp"
-discovered_at: "2026-07-18T14:50:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- pay-per-call
+- fiat wallet
+- agent payment
+- microtransactions
+source: https://github.com/javimosch/peage-mcp
+discovered_at: '2026-07-18T14:50:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

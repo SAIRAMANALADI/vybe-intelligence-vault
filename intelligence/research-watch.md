@@ -14,6 +14,7 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [A Quantitative Analysis of Multimodal Biomarkers in Alzheimer's Disease](https://arxiv.org/abs/2606.17867) | `ai-coding-agents/` | 70 |
 | [A Temporal Machine Learning-Based Time-to-Event Model for Predicting ALS Progression and Healthcare Utilization](https://arxiv.org/abs/2607.14190) | `ai-coding-agents/` | 70 |
 | [Fingerprint, Not Blueprint: How Positional Schemes Set the Default Spectral Algebra of Attention](https://arxiv.org/abs/2607.06621) | `ai-coding-agents/` | 70 |
+| [Lightweight CNN-Based Anomaly Detection for High Voltage Converter Modulators in the Spallation Neutron Source](https://arxiv.org/abs/2605.31259) | `ai-coding-agents/` | 70 |
 | [SynthDocBench: Controlled Benchmark for Long-Context Visual Document Understanding](https://arxiv.org/abs/2607.10400) | `ai-coding-agents/` | 70 |
 | [The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences](https://arxiv.org/abs/2606.24104) | `ai-coding-agents/` | 70 |
 | [Assessing AI in Introductory Physics Problem Solving](https://arxiv.org/abs/2607.14303) | `ai-coding-agents/` | 70 |
@@ -28,6 +29,5 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [You Don't Need to Run Every Eval](https://arxiv.org/abs/2606.24020) | `ai-coding-agents/` | 70 |
 | [Workload-Driven Optimization for On-Device Real-Time Subtitle Translation](https://arxiv.org/abs/2607.09957) | `ai-coding-agents/` | 70 |
 | [TCLA: Training-Free Class-wise Logit Adaptation for Medical Vision-Language Models](https://arxiv.org/abs/2607.09562) | `ai-coding-agents/` | 70 |
-| [From Overload to Convergence: Supporting Multi-Issue Human-AI Negotiation with Bayesian Visualization](https://arxiv.org/abs/2603.22766) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

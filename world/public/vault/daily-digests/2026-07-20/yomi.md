@@ -1,13 +1,24 @@
 ---
-title: "RikaiDev/yomi"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "SQLite", "LINE TCompact-over-HTTPS protocol", "E2EE decryption"]
+title: RikaiDev/yomi
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- SQLite
+- LINE TCompact-over-HTTPS protocol
+- E2EE decryption
 quality_score: 9
 rag_relevance: 8
-tags: ["LINE integration", "MCP server", "E2EE decryption", "personal AI agent", "conversation search"]
-source: "https://github.com/RikaiDev/yomi"
-discovered_at: "2026-07-19T16:57:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LINE integration
+- MCP server
+- E2EE decryption
+- personal AI agent
+- conversation search
+source: https://github.com/RikaiDev/yomi
+discovered_at: '2026-07-19T16:57:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

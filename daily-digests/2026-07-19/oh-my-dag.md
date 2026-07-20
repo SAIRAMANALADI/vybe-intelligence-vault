@@ -1,13 +1,25 @@
 ---
-title: "AbyssCN/oh-my-dag"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Bun Runtime", "SQLite", "Zod (schema validation)", "OpenAI-compatible APIs", "MCP (Model Context Protocol)", "Mermaid.js (for DAG visualization)"]
+title: AbyssCN/oh-my-dag
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Bun Runtime
+- SQLite
+- Zod (schema validation)
+- OpenAI-compatible APIs
+- MCP (Model Context Protocol)
+- Mermaid.js (for DAG visualization)
 quality_score: 8
 rag_relevance: 9
-tags: ["DAG execution", "multi-agent orchestration", "memory management", "cross-model verification", "fault isolation"]
-source: "https://github.com/AbyssCN/oh-my-dag"
-discovered_at: "2026-07-18T21:49:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- DAG execution
+- multi-agent orchestration
+- memory management
+- cross-model verification
+- fault isolation
+source: https://github.com/AbyssCN/oh-my-dag
+discovered_at: '2026-07-18T21:49:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

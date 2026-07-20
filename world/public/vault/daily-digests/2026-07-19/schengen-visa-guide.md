@@ -1,13 +1,22 @@
 ---
-title: "EndlessBlueWJL/schengen-visa-guide"
-category: "Tooling"
-tech_stack: ["Markdown", "Git", "AI Agent Integration", "Static File-Based State Management"]
+title: EndlessBlueWJL/schengen-visa-guide
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Markdown
+- Git
+- AI Agent Integration
+- Static File-Based State Management
 quality_score: 7
 rag_relevance: 5
-tags: ["Schengen Visa", "AI Agent Skill", "Checklist Generator", "Cross-Session Memory", "Travel Documentation"]
-source: "https://github.com/EndlessBlueWJL/schengen-visa-guide"
-discovered_at: "2026-07-18T11:02:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Schengen Visa
+- AI Agent Skill
+- Checklist Generator
+- Cross-Session Memory
+- Travel Documentation
+source: https://github.com/EndlessBlueWJL/schengen-visa-guide
+discovered_at: '2026-07-18T11:02:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

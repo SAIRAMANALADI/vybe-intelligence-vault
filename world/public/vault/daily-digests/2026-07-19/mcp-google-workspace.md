@@ -1,13 +1,30 @@
 ---
-title: "guinacio/mcp-google-workspace"
-category: "Orchestrator"
-tech_stack: ["Python 3.12+", "FastMCP", "Google APIs Client Library", "OAuth 2.0", "Fernet encryption", "Node.js 18+", "TypeScript", "MCP (Model Context Protocol)", "Redis", "Streamable HTTP", "JWT", "uv package manager"]
+title: guinacio/mcp-google-workspace
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Python 3.12+
+- FastMCP
+- Google APIs Client Library
+- OAuth 2.0
+- Fernet encryption
+- Node.js 18+
+- TypeScript
+- MCP (Model Context Protocol)
+- Redis
+- Streamable HTTP
+- JWT
+- uv package manager
 quality_score: 9
 rag_relevance: 9
-tags: ["Google Workspace", "MCP Server", "Multi-tool Integration", "OAuth Automation", "Production-Ready"]
-source: "https://github.com/guinacio/mcp-google-workspace"
-discovered_at: "2026-07-17T22:47:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Google Workspace
+- MCP Server
+- Multi-tool Integration
+- OAuth Automation
+- Production-Ready
+source: https://github.com/guinacio/mcp-google-workspace
+discovered_at: '2026-07-17T22:47:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

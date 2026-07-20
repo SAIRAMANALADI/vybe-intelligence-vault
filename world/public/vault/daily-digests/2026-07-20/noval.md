@@ -1,13 +1,27 @@
 ---
-title: "kestiny18/Noval"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Bubblewrap (Linux sandboxing)", "JSON Schema", "Mermaid (for architecture diagrams)", "GitHub Actions (CI/CD)", "MCP (Model Context Protocol)", "Anthropic Messages", "OpenAI-compatible APIs"]
+title: kestiny18/Noval
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python
+- FastAPI
+- Bubblewrap (Linux sandboxing)
+- JSON Schema
+- Mermaid (for architecture diagrams)
+- GitHub Actions (CI/CD)
+- MCP (Model Context Protocol)
+- Anthropic Messages
+- OpenAI-compatible APIs
 quality_score: 9
 rag_relevance: 8
-tags: ["agent-framework", "provider-agnostic", "execution-layer", "sandboxing", "verification"]
-source: "https://github.com/kestiny18/Noval"
-discovered_at: "2026-07-19T02:30:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent-framework
+- provider-agnostic
+- execution-layer
+- sandboxing
+- verification
+source: https://github.com/kestiny18/Noval
+discovered_at: '2026-07-19T02:30:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

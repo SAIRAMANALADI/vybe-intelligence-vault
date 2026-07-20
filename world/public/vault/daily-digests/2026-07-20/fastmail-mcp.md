@@ -1,13 +1,25 @@
 ---
-title: "MadLlama25/fastmail-mcp"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "JMAP API", "CalDAV", "WebDAV", "REST"]
+title: MadLlama25/fastmail-mcp
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- JMAP API
+- CalDAV
+- WebDAV
+- REST
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Fastmail integration", "email automation", "contact management", "calendar tools"]
-source: "https://github.com/MadLlama25/fastmail-mcp"
-discovered_at: "2026-07-19T17:59:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Fastmail integration
+- email automation
+- contact management
+- calendar tools
+source: https://github.com/MadLlama25/fastmail-mcp
+discovered_at: '2026-07-19T17:59:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

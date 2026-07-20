@@ -1,13 +1,26 @@
 ---
-title: "saurabhsharma2u/search-console-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Google Search Console API", "Bing Webmaster Tools API", "Google Analytics 4 API", "OAuth 2.0", "AES-256 encryption"]
+title: saurabhsharma2u/search-console-mcp
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Google Search Console API
+- Bing Webmaster Tools API
+- Google Analytics 4 API
+- OAuth 2.0
+- AES-256 encryption
 quality_score: 9
 rag_relevance: 8
-tags: ["SEO automation", "AI agent integration", "Search analytics", "Data unification", "MCP server"]
-source: "https://github.com/saurabhsharma2u/search-console-mcp"
-discovered_at: "2026-07-15T08:06:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- SEO automation
+- AI agent integration
+- Search analytics
+- Data unification
+- MCP server
+source: https://github.com/saurabhsharma2u/search-console-mcp
+discovered_at: '2026-07-15T08:06:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,30 @@
 ---
-title: "nxin-github/Auteur"
-category: "Orchestrator"
-tech_stack: ["Java 21", "Spring Boot 3.3", "Vue 3", "Remotion", "ffmpeg", "MySQL", "Flyway", "JPA", "TypeScript", "Docker", "RSSHub (optional)", "vLLM/DeepSeek/Anthropic (LLM providers)"]
+title: nxin-github/Auteur
+category: daily-digests/2026-07-19
+tech_stack:
+- Java 21
+- Spring Boot 3.3
+- Vue 3
+- Remotion
+- ffmpeg
+- MySQL
+- Flyway
+- JPA
+- TypeScript
+- Docker
+- RSSHub (optional)
+- vLLM/DeepSeek/Anthropic (LLM providers)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI film studio", "multi-agent system", "end-to-end video generation", "self-hosted", "RAG pipeline"]
-source: "https://github.com/nxin-github/Auteur"
-discovered_at: "2026-07-19T05:51:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI film studio
+- multi-agent system
+- end-to-end video generation
+- self-hosted
+- RAG pipeline
+source: https://github.com/nxin-github/Auteur
+discovered_at: '2026-07-19T05:51:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

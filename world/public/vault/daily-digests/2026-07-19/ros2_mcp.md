@@ -1,13 +1,24 @@
 ---
-title: "wise-vision/ros2_mcp"
-category: "Tooling"
-tech_stack: ["Python", "ROS 2 (Humble, Jazzy)", "Model Context Protocol (MCP)", "Docker", "FastDDS", "InfluxDB (for data black box)"]
+title: wise-vision/ros2_mcp
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Python
+- ROS 2 (Humble, Jazzy)
+- Model Context Protocol (MCP)
+- Docker
+- FastDDS
+- InfluxDB (for data black box)
 quality_score: 9
 rag_relevance: 8
-tags: ["ROS 2", "MCP Server", "AI Integration", "Robotics", "Debugging"]
-source: "https://github.com/wise-vision/ros2_mcp"
-discovered_at: "2026-07-16T12:22:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- ROS 2
+- MCP Server
+- AI Integration
+- Robotics
+- Debugging
+source: https://github.com/wise-vision/ros2_mcp
+discovered_at: '2026-07-16T12:22:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

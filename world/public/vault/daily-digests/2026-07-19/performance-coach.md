@@ -1,13 +1,31 @@
 ---
-title: "srichsun/performance-coach"
-category: "Agent Framework"
-tech_stack: ["FastAPI", "LangChain", "Claude (ChatAnthropic)", "OpenAI Whisper", "ElevenLabs TTS", "Postgres + pgvector", "OpenAI embeddings", "Firebase Auth", "LangSmith", "React (Vite)", "Google Cloud (Cloud Run, Cloud SQL, Secret Manager)", "uv (packaging)", "Docker"]
+title: srichsun/performance-coach
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- FastAPI
+- LangChain
+- Claude (ChatAnthropic)
+- OpenAI Whisper
+- ElevenLabs TTS
+- Postgres + pgvector
+- OpenAI embeddings
+- Firebase Auth
+- LangSmith
+- React (Vite)
+- Google Cloud (Cloud Run, Cloud SQL, Secret Manager)
+- uv (packaging)
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["AI life coach", "RAG", "voice AI", "memory system", "personalization"]
-source: "https://github.com/srichsun/performance-coach"
-discovered_at: "2026-07-19T11:56:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI life coach
+- RAG
+- voice AI
+- memory system
+- personalization
+source: https://github.com/srichsun/performance-coach
+discovered_at: '2026-07-19T11:56:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

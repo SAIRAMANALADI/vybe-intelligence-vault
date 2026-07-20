@@ -1,13 +1,24 @@
 ---
-title: "jdvann/hermes-desktop-linux"
-category: "UI Component"
-tech_stack: ["Electron", "Shell", "Hermes Agent", "Linux", "Chromium", "Node.js"]
+title: jdvann/hermes-desktop-linux
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Electron
+- Shell
+- Hermes Agent
+- Linux
+- Chromium
+- Node.js
 quality_score: 8
 rag_relevance: 7
-tags: ["Electron", "Hermes Agent", "Linux Desktop", "Portable App", "Agent UI"]
-source: "https://github.com/jdvann/hermes-desktop-linux"
-discovered_at: "2026-07-19T19:13:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Electron
+- Hermes Agent
+- Linux Desktop
+- Portable App
+- Agent UI
+source: https://github.com/jdvann/hermes-desktop-linux
+discovered_at: '2026-07-19T19:13:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

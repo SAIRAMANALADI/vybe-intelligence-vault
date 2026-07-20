@@ -1,13 +1,21 @@
 ---
-title: "WitnessVisuals/Caveman-Opencode-Agents"
-category: "Tooling"
-tech_stack: ["OpenCode", "Prompt Engineering", "Token Optimization"]
+title: WitnessVisuals/Caveman-Opencode-Agents
+category: daily-digests/2026-07-20
+tech_stack:
+- OpenCode
+- Prompt Engineering
+- Token Optimization
 quality_score: 5
 rag_relevance: 7
-tags: ["token optimization", "prompt compression", "opencode", "agent templates", "cost reduction"]
-source: "https://github.com/WitnessVisuals/Caveman-Opencode-Agents"
-discovered_at: "2026-07-19T19:13:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- token optimization
+- prompt compression
+- opencode
+- agent templates
+- cost reduction
+source: https://github.com/WitnessVisuals/Caveman-Opencode-Agents
+discovered_at: '2026-07-19T19:13:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

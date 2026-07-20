@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.geeksforgeeks.org/artificial-intelligence/rag-system-with-langchain-and-langgraph/
-published_at: '2026-07-20T03:42:03.763310+05:30'
-collected_at: '2026-07-20T03:42:03.763327+05:30'
+published_at: '2026-07-20T15:05:46.582279+05:30'
+collected_at: '2026-07-20T15:05:46.582291+05:30'
 tags:
 - agents
 - dataset
@@ -20,9 +20,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:rag-system-with-langchain-and-langgraph-geeksforge
-first_seen: '2026-07-20T03:42:03.763327+05:30'
-last_seen: '2026-07-20T03:42:03.763327+05:30'
-last_checked: '2026-07-20T03:42:03.763327+05:30'
+first_seen: '2026-07-20T15:05:46.582291+05:30'
+last_seen: '2026-07-20T15:05:46.582291+05:30'
+last_checked: '2026-07-20T15:05:46.582291+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Combines LangChain for document processing (chunking, embeddings) and LangGraph for workflow orchestration (retrieval, generation, refinement) to produce context-aware answers from vectorized document chunks.
+- **RAG Architecture**: Combines LangChain for document processing (chunking, embeddings) and LangGraph for orchestrating retrieval-generation workflows, enabling context-aware LLM responses via vector similarity search (e.g., OpenAI `text-embedding-3-large`).
 
-- **State Management & Execution**: Uses a `TypedDict`-based `State` to track `question`, `context` (retrieved docs), and `answer`, with LangGraph nodes (`retrieve`, `generate`, `classify`, `refine`) sequentially processing data for modular, maintainable AI workflows.
+- **Stateful Workflow**: Implements a TypedDict-based `State` graph with nodes for classification, retrieval (top-5 chunks), generation (GPT-4.1 with temperature=0.3), and refinement, compiled into a directed acyclic graph for modular execution.
 
-- **Vector Search & LLM Integration**: Employs `OpenAIEmbeddings` and `InMemoryVectorStore` for similarity search (top-5 chunks), while a custom prompt guides the `gpt-4.1` LLM (temperature=0.3) to generate grounded responses, reducing hallucinations via retrieved context.
+- **Advantages**: Mitigates hallucinations via document-grounded responses, supports domain adaptation (custom datasets), ensures up-to-date knowledge retrieval, and optimizes context efficiency through chunked embeddings and vector search.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T03:42:03.763310+05:30
+- Published: 2026-07-20T15:05:46.582279+05:30
 
 ## Related Tags
 

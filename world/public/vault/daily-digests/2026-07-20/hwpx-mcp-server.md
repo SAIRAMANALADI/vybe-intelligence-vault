@@ -1,13 +1,25 @@
 ---
-title: "airmang/hwpx-mcp-server"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "FastMCP", "python-hwpx", "Pydantic", "uv", "GitHub Actions"]
+title: airmang/hwpx-mcp-server
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- FastMCP
+- python-hwpx
+- Pydantic
+- uv
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["HWPX", "document processing", "MCP server", "AI agents", "Hangul Word Processor"]
-source: "https://github.com/airmang/hwpx-mcp-server"
-discovered_at: "2026-07-18T15:55:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- HWPX
+- document processing
+- MCP server
+- AI agents
+- Hangul Word Processor
+source: https://github.com/airmang/hwpx-mcp-server
+discovered_at: '2026-07-18T15:55:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

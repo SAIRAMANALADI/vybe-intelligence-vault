@@ -1,13 +1,23 @@
 ---
-title: "claude-book/mcp-server-google-forms"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Google Forms API", "OAuth 2.0", "MCP (Model Context Protocol)"]
+title: claude-book/mcp-server-google-forms
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- JavaScript
+- Node.js
+- Google Forms API
+- OAuth 2.0
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 7
-tags: ["Google Forms", "MCP Server", "Form Automation", "Claude Code Integration", "OAuth"]
-source: "https://github.com/claude-book/mcp-server-google-forms"
-discovered_at: "2026-07-10T13:12:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Google Forms
+- MCP Server
+- Form Automation
+- Claude Code Integration
+- OAuth
+source: https://github.com/claude-book/mcp-server-google-forms
+discovered_at: '2026-07-10T13:12:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

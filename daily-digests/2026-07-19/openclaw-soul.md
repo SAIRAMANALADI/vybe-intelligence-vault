@@ -1,13 +1,24 @@
 ---
-title: "tommyguolin/openclaw-soul"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "OpenClaw", "LLM (Large Language Model)", "Web Search", "Memory Storage", "Agent Framework"]
+title: tommyguolin/openclaw-soul
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- OpenClaw
+- LLM (Large Language Model)
+- Web Search
+- Memory Storage
+- Agent Framework
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous agents", "proactive AI", "long-term memory", "self-improvement", "OpenClaw plugin"]
-source: "https://github.com/tommyguolin/openclaw-soul"
-discovered_at: "2026-07-12T13:35:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- proactive AI
+- long-term memory
+- self-improvement
+- OpenClaw plugin
+source: https://github.com/tommyguolin/openclaw-soul
+discovered_at: '2026-07-12T13:35:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

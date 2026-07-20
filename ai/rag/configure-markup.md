@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/markup/#syntaxhighlight
-published_at: '2026-07-20T03:49:11.724622+05:30'
-collected_at: '2026-07-20T03:49:11.724640+05:30'
+published_at: '2026-07-20T15:12:04.842332+05:30'
+collected_at: '2026-07-20T15:12:04.842346+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-markup
-first_seen: '2026-07-20T03:49:11.724640+05:30'
-last_seen: '2026-07-20T03:49:11.724640+05:30'
-last_checked: '2026-07-20T03:49:11.724640+05:30'
+first_seen: '2026-07-20T15:12:04.842346+05:30'
+last_seen: '2026-07-20T15:12:04.842346+05:30'
+last_checked: '2026-07-20T15:12:04.842346+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- Hugo defaults to **Goldmark** for Markdown rendering (`.md`, `.mdown`, `.markdown` files) but supports alternative renderers (`asciidocext`, `org`, `pandoc`, `rst`) via configuration, requiring external tool installations for non-default options.
+- **Default Markdown Handler**: Hugo defaults to Goldmark for Markdown rendering (`.md`, `.mdown`, `.markdown`), with alternatives (`asciidocext`, `org`, `pandoc`, `rst`) configurable via `defaultMarkdownHandler` in project settings.
 
-- Goldmark’s default configuration includes extensions like **footnote**, **table**, **taskList**, **typographer**, and **linkify**, with optional extras (subscript/superscript, deleted/inserted text) and passthrough for LaTeX math, configurable via `markup.goldmark` in YAML/TOML/JSON.
+- **Goldmark Configuration**: Goldmark’s default settings include extensions like `definitionList`, `footnote`, `linkify`, `strikethrough`, `table`, `taskList`, and `typographer`, with configurable parser (`autoHeadingID`, `wrapStandAloneImageWithinParagraph`) and renderer options.
 
-- Key Goldmark settings include `duplicateResourceFiles` (for multilingual projects), `parser.wrapStandAloneImageWithinParagraph` (controls standalone image wrapping), and `parser.autoHeadingID` (auto-generates heading IDs), with conflicts requiring explicit overrides (e.g., disabling `strikethrough` to enable `subscript`).
+- **Extras & Passthrough**: Extras extension enables `deleted text`, `inserted text`, `mark text`, `subscript`, and `superscript` via `++`, `~~`, `==`, `~`, `^` syntax; Passthrough extension supports LaTeX math expressions for equations.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T03:49:11.724622+05:30
+- Published: 2026-07-20T15:12:04.842332+05:30
 
 ## Related Tags
 

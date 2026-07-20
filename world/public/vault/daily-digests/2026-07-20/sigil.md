@@ -1,13 +1,25 @@
 ---
-title: "JimmyDaddy/sigil"
-category: "Agent Framework"
-tech_stack: ["Rust", "TypeScript", "Node.js", "TUI (Terminal User Interface)", "MCP (Model Context Protocol)", "OAuth", "CI/CD (GitHub Actions)"]
+title: JimmyDaddy/sigil
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Rust
+- TypeScript
+- Node.js
+- TUI (Terminal User Interface)
+- MCP (Model Context Protocol)
+- OAuth
+- CI/CD (GitHub Actions)
 quality_score: 8
 rag_relevance: 7
-tags: ["coding agent", "TUI", "reviewable edits", "resumable sessions", "terminal-first"]
-source: "https://github.com/JimmyDaddy/sigil"
-discovered_at: "2026-07-18T13:09:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- coding agent
+- TUI
+- reviewable edits
+- resumable sessions
+- terminal-first
+source: https://github.com/JimmyDaddy/sigil
+discovered_at: '2026-07-18T13:09:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

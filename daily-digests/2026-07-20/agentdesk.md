@@ -1,13 +1,31 @@
 ---
-title: "rkshadow999/AgentDesk"
-category: "Agent Framework"
-tech_stack: ["C#/.NET 10", "WinUI 3", "WebView2", "Rust", "React", "TypeScript", "PowerShell", "Node.js 24", "Monaco Editor", "xterm.js", "Windows Credential Manager", "SignalR", "WSL2"]
+title: rkshadow999/AgentDesk
+category: daily-digests/2026-07-20
+tech_stack:
+- C#/.NET 10
+- WinUI 3
+- WebView2
+- Rust
+- React
+- TypeScript
+- PowerShell
+- Node.js 24
+- Monaco Editor
+- xterm.js
+- Windows Credential Manager
+- SignalR
+- WSL2
 quality_score: 7
 rag_relevance: 8
-tags: ["Windows desktop client", "AI agent runtime", "local-first workflows", "bilingual UI", "workspace management"]
-source: "https://github.com/rkshadow999/AgentDesk"
-discovered_at: "2026-07-19T22:50:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Windows desktop client
+- AI agent runtime
+- local-first workflows
+- bilingual UI
+- workspace management
+source: https://github.com/rkshadow999/AgentDesk
+discovered_at: '2026-07-19T22:50:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "abdul4rehman215/Bazaarsync-Whatsapp-Workflow"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Claude (Anthropic API)", "SQLAlchemy", "PostgreSQL", "SQLite", "Twilio WhatsApp Sandbox", "Pydantic", "Docker", "pytest"]
+title: abdul4rehman215/Bazaarsync-Whatsapp-Workflow
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- FastAPI
+- Claude (Anthropic API)
+- SQLAlchemy
+- PostgreSQL
+- SQLite
+- Twilio WhatsApp Sandbox
+- Pydantic
+- Docker
+- pytest
 quality_score: 9
 rag_relevance: 7
-tags: ["WhatsApp integration", "LLM parsing", "structured data extraction", "transaction processing", "API-driven workflow"]
-source: "https://github.com/abdul4rehman215/Bazaarsync-Whatsapp-Workflow"
-discovered_at: "2026-07-14T14:48:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- WhatsApp integration
+- LLM parsing
+- structured data extraction
+- transaction processing
+- API-driven workflow
+source: https://github.com/abdul4rehman215/Bazaarsync-Whatsapp-Workflow
+discovered_at: '2026-07-14T14:48:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

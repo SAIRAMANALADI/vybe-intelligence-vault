@@ -1,13 +1,23 @@
 ---
-title: "opendata-kr/narajangteo-corpinfo-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "npm", "GitHub Actions"]
+title: opendata-kr/narajangteo-corpinfo-mcp
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- npm
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "public procurement", "business verification", "Korean API", "data.go.kr"]
-source: "https://github.com/opendata-kr/narajangteo-corpinfo-mcp"
-discovered_at: "2026-07-13T06:15:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- public procurement
+- business verification
+- Korean API
+- data.go.kr
+source: https://github.com/opendata-kr/narajangteo-corpinfo-mcp
+discovered_at: '2026-07-13T06:15:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

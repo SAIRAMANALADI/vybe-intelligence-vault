@@ -4,17 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://code.visualstudio.com/docs/copilot/agents/background-agents
-published_at: '2026-07-20T01:13:16.948384+05:30'
-collected_at: '2026-07-20T01:13:16.948393+05:30'
+published_at: '2026-07-20T15:14:26.080964+05:30'
+collected_at: '2026-07-20T15:14:26.080977+05:30'
 tags:
 - agents
 - openai
 - web-crawled
 status: active
 resource_id: blog:copilot-cli-sessions-in-visual-studio-code
-first_seen: '2026-07-20T01:13:16.948393+05:30'
-last_seen: '2026-07-20T01:13:16.948393+05:30'
-last_checked: '2026-07-20T01:13:16.948393+05:30'
+first_seen: '2026-07-20T15:14:26.080977+05:30'
+last_seen: '2026-07-20T15:14:26.080977+05:30'
+last_checked: '2026-07-20T15:14:26.080977+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Copilot CLI Sessions**: Background agent sessions running autonomously on local machines via GitHub Copilot CLI, managed through VS Code's Chat view; support multi-repository workspaces and parallel execution with isolation modes (Worktree/Folder).
+- **Copilot CLI Sessions**: Background agent sessions running autonomously on local machines via Copilot CLI, managed through VS Code’s Chat view; support parallel execution, Git worktree isolation, and direct folder modifications with configurable permission levels (auto-approved for worktree, flexible for folder isolation).
 
-- **Isolation Modes**: Worktree mode creates a Git worktree for agent changes, auto-approving tool calls; Folder mode applies changes directly to the workspace with configurable permission levels (Default/Bypass/Autopilot).
+- **Isolation Modes**: Two modes for Copilot CLI sessions—**Worktree** (isolated Git worktree for safe agent changes) and **Folder** (direct workspace modifications)—with Git repository dependency for worktree isolation and permission auto-approval in worktree mode.
 
-- **Permissions & Features**: Supports slash commands (`/research`, `/yolo`, etc.), reusable prompts, and agent skills; Worktree mode enforces Bypass Approvals, while Folder mode allows granular permission control.
+- **Permissions & Auth**: Permission levels (Default/Bypass/Autopilot) configurable for folder isolation; GitHub Enterprise authentication inherited from VS Code Copilot context, enabling seamless session management and tool execution.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-20T01:13:16.948384+05:30
+- Published: 2026-07-20T15:14:26.080964+05:30
 
 ## Related Tags
 

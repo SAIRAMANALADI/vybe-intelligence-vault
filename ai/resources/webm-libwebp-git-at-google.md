@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://chromium.googlesource.com/webm/libwebp/
-published_at: '2026-07-18T16:58:26.765813+05:30'
-collected_at: '2026-07-18T16:58:26.765820+05:30'
+published_at: '2026-07-20T15:15:31.430445+05:30'
+collected_at: '2026-07-20T15:15:31.430457+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:webm-libwebp-git-at-google
-first_seen: '2026-07-18T16:58:26.765820+05:30'
-last_seen: '2026-07-18T16:58:26.765820+05:30'
-last_checked: '2026-07-18T16:58:26.765820+05:30'
+first_seen: '2026-07-20T15:15:31.430457+05:30'
+last_seen: '2026-07-20T15:15:31.430457+05:30'
+last_checked: '2026-07-20T15:15:31.430457+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: `libwebp` is a WebP image codec library hosted on Chromium's Gitiles, supporting encoding/decoding with tools `cwebp` (compression) and `dwebp` (decompression), and released under WebM project's license (see `COPYING`/`PATENTS`).
+- **Library & Tools**: `libwebp` is a C library for encoding/decoding WebP images, bundled with CLI tools `cwebp` (compression) and `dwebp` (decompression), released under the same license as the WebM project.
 
-- **Branches/Tags**: Main development branch (`main`) and legacy branches (e.g., `0.2.0`–`0.5.1`) alongside versioned tags (e.g., `v1.6.0`, `webp-rfc9649`), with recent commits focused on AVX2 optimizations and build script fixes.
+- **Branches/Tags**: Hosted on Chromium Googlesource with active branches (e.g., `main`, `0.5.1`) and tagged releases (e.g., `v1.6.0`, `webp-rfc9649`), supporting AVX2 optimizations and XCFramework builds.
 
-- **Build/Usage**: Requires following [building.md](https://chromium.googlesource.com/webm/libwebp/+/HEAD/doc/building.md); APIs documented in [api.md](https://chromium.googlesource.com/webm/libwebp/+/HEAD/doc/api.md), with examples in `examples/` for encoding/decoding, animation handling, and metadata inspection.
+- **Development**: Bug tracking via WebM issue tracker, contribution guidelines in `CONTRIBUTING.md`, and APIs documented for integration (see `doc/api.md`).
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-18T16:58:26.765813+05:30
+- Published: 2026-07-20T15:15:31.430445+05:30
 
 ## Related Tags
 

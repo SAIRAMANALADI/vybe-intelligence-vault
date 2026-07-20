@@ -1,72 +1,52 @@
 ---
-title: langchain-ai/deepagents
+title: deepagents/libs/deepagents/deepagents/backends/protocol.py at main · langchain-ai/deepagents
+  · GitHub
 category: ai/rag
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/langchain-ai/deepagents
-collected_at: '2026-06-25T16:44:20.683320+05:30'
-published_at: '2026-06-25T10:30:22Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/langchain-ai/deepagents/blob/main/libs/deepagents/deepagents/backends/protocol.py
+published_at: '2026-07-20T15:13:16.381315+05:30'
+collected_at: '2026-07-20T15:13:16.381330+05:30'
 tags:
 - agents
-- github-repo
-- python
 - rag
-- workflows
-stars: 25105
-language: Python
+- reddit
+- web-crawled
 status: active
-license: MIT
-archived: false
-created_at: '2025-07-27T23:07:53Z'
-pushed_at: '2026-06-25T09:47:39Z'
 resource_id: github:langchain-ai/deepagents
-first_seen: '2026-06-25T16:44:20.683320+05:30'
-last_seen: '2026-06-25T16:44:20.683320+05:30'
-last_checked: '2026-06-25T16:44:20.683320+05:30'
+first_seen: '2026-07-20T15:13:16.381330+05:30'
+last_seen: '2026-07-20T15:13:16.381330+05:30'
+last_checked: '2026-07-20T15:13:16.381330+05:30'
 health_score: 100
 ---
 
-# langchain-ai/deepagents
+# deepagents/libs/deepagents/deepagents/backends/protocol.py at main · langchain-ai/deepagents · GitHub
 
 ## Summary
 
-- **Framework Overview**: `deepagents` is a Python-based agent harness integrating LangChain and LangGraph for AI-driven workflows, supporting both Python and TypeScript ecosystems.
+- **Backend Protocol Definition**: `BackendProtocol` abstract base class enforces standardized file operations (read/write/delete) across pluggable memory backends, supporting both sync and async interfaces with versioned file storage formats (`v1`/`v2`).
 
-- **Key Features**: Provides modular components for agent orchestration, tool integration, and state management, enabling complex AI agent pipelines with minimal boilerplate.
+- **Error Standardization**: Defines `FileOperationError` literals (`file_not_found`, `permission_denied`, etc.) and structured response types (`FileDownloadResponse`, `FileUploadResponse`) for consistent error handling in LLM-driven file operations.
 
-- **Ecosystem Integration**: Designed for extensibility, leveraging LangChain's tooling and LangGraph's graph-based execution for scalable agent deployments.
+- **Grep Integration**: Implements `GrepMatch`/`ReadResult` with pagination support (e.g., `start_line`, `end_line`, `next_offset`) and context-aware search via `ContextLine`, enabling efficient line-level file inspection with configurable timeouts.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: langchain-ai
-- Stars: 25105
-- Forks: 3546
-- Language: Python
-- Topics: ai, deepagents, langchain, langgraph, python, typescript
-- Last Updated: 2026-06-25T10:30:22Z
-- License: MIT
-- Archived: No
-- Created At: 2025-07-27T23:07:53Z
-- Pushed At: 2026-06-25T09:47:39Z
+- Source: Web Discovery
+- Category: ai/rag
+- Published: 2026-07-20T15:13:16.381315+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- agents
+- rag
+- reddit
+- web-crawled
 
 ## Source
 
-Original source: https://github.com/langchain-ai/deepagents
+Original source: https://github.com/langchain-ai/deepagents/blob/main/libs/deepagents/deepagents/backends/protocol.py

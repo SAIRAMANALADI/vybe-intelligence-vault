@@ -1,13 +1,29 @@
 ---
-title: "wildwalker2026/Swees"
-category: "Agent Framework"
-tech_stack: ["Java", "JavaScript", "C", "Android SDK", "PRoot", "Ubuntu 24.04", "SQLite", "SSE (Server-Sent Events)", "OpenAI-compatible API", "WebView", "Gradle"]
+title: wildwalker2026/Swees
+category: daily-digests/2026-07-19
+tech_stack:
+- Java
+- JavaScript
+- C
+- Android SDK
+- PRoot
+- Ubuntu 24.04
+- SQLite
+- SSE (Server-Sent Events)
+- OpenAI-compatible API
+- WebView
+- Gradle
 quality_score: 8
 rag_relevance: 7
-tags: ["AI Agent", "Android Terminal", "Ubuntu on Mobile", "Multi-Agent System", "PRoot"]
-source: "https://github.com/wildwalker2026/Swees"
-discovered_at: "2026-07-19T11:57:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent
+- Android Terminal
+- Ubuntu on Mobile
+- Multi-Agent System
+- PRoot
+source: https://github.com/wildwalker2026/Swees
+discovered_at: '2026-07-19T11:57:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

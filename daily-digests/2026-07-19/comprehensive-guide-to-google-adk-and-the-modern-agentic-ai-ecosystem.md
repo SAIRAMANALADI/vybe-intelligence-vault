@@ -1,13 +1,23 @@
 ---
-title: "iammohith/Comprehensive-Guide-to-Google-ADK-and-the-Modern-Agentic-AI-Ecosystem"
-category: "Tooling"
-tech_stack: ["Python", "LLMs", "Agent Development Kit (ADK)", "RAG", "Vector Databases"]
+title: iammohith/Comprehensive-Guide-to-Google-ADK-and-the-Modern-Agentic-AI-Ecosystem
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- LLMs
+- Agent Development Kit (ADK)
+- RAG
+- Vector Databases
 quality_score: 5
 rag_relevance: 7
-tags: ["Google ADK", "Agentic AI", "RAG", "LLM Integration", "AI Development Guide"]
-source: "https://github.com/iammohith/Comprehensive-Guide-to-Google-ADK-and-the-Modern-Agentic-AI-Ecosystem"
-discovered_at: "2026-07-18T13:09:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Google ADK
+- Agentic AI
+- RAG
+- LLM Integration
+- AI Development Guide
+source: https://github.com/iammohith/Comprehensive-Guide-to-Google-ADK-and-the-Modern-Agentic-AI-Ecosystem
+discovered_at: '2026-07-18T13:09:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

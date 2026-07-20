@@ -1,13 +1,27 @@
 ---
-title: "xiaokaige1130-maker/grok-desktop"
-category: "UI Component"
-tech_stack: ["Electron", "JavaScript", "TypeScript", "React", "Node.js", "Grok CLI", "ACP (Agent Communication Protocol)", "Linux (Debian/Ubuntu)", "Windows (x64)"]
+title: xiaokaige1130-maker/grok-desktop
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Electron
+- JavaScript
+- TypeScript
+- React
+- Node.js
+- Grok CLI
+- ACP (Agent Communication Protocol)
+- Linux (Debian/Ubuntu)
+- Windows (x64)
 quality_score: 9
 rag_relevance: 7
-tags: ["Desktop Agent UI", "Multi-session Management", "Grok CLI Integration", "Cross-platform", "Permission Control"]
-source: "https://github.com/xiaokaige1130-maker/grok-desktop"
-discovered_at: "2026-07-19T23:55:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Desktop Agent UI
+- Multi-session Management
+- Grok CLI Integration
+- Cross-platform
+- Permission Control
+source: https://github.com/xiaokaige1130-maker/grok-desktop
+discovered_at: '2026-07-19T23:55:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

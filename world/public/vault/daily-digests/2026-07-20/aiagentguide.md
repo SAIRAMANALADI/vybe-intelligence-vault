@@ -1,13 +1,23 @@
 ---
-title: "itkdm/aiagentguide"
-category: "Tooling"
-tech_stack: ["VitePress", "Markdown", "JavaScript/TypeScript", "Node.js", "GitHub Actions"]
+title: itkdm/aiagentguide
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- VitePress
+- Markdown
+- JavaScript/TypeScript
+- Node.js
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Agent Guide", "Chinese Developer Resources", "LLM Applications", "RAG", "Agent Frameworks"]
-source: "https://github.com/itkdm/aiagentguide"
-discovered_at: "2026-07-18T09:23:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent Guide
+- Chinese Developer Resources
+- LLM Applications
+- RAG
+- Agent Frameworks
+source: https://github.com/itkdm/aiagentguide
+discovered_at: '2026-07-18T09:23:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

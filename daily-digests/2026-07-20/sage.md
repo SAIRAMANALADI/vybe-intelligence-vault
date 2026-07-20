@@ -1,13 +1,28 @@
 ---
-title: "avase33/sage"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "SQLite", "Streaming SSE", "Retrieval-Augmented Generation (RAG)", "Mock LLM Provider", "Anthropic API", "OpenAI API", "Hashing Vectorizer", "HTML/CSS/JS (Single-file UI)"]
+title: avase33/sage
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- Streaming SSE
+- Retrieval-Augmented Generation (RAG)
+- Mock LLM Provider
+- Anthropic API
+- OpenAI API
+- Hashing Vectorizer
+- HTML/CSS/JS (Single-file UI)
 quality_score: 9
 rag_relevance: 10
-tags: ["self-hosted", "RAG", "agent framework", "tool-use", "offline-first"]
-source: "https://github.com/avase33/sage"
-discovered_at: "2026-07-16T18:05:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-hosted
+- RAG
+- agent framework
+- tool-use
+- offline-first
+source: https://github.com/avase33/sage
+discovered_at: '2026-07-16T18:05:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

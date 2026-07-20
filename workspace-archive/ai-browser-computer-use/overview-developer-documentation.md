@@ -29,7 +29,8 @@ selection_reason:
 
 ## Summary
 
-- **No content provided for summarization.**
+*   [Article content missing for summarization]
+*   [Please provide the full article
 
 ## Use Cases
 

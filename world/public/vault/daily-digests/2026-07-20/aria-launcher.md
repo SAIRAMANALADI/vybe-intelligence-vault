@@ -1,13 +1,30 @@
 ---
-title: "trek-boldly-go/aria-launcher"
-category: "UI Component"
-tech_stack: ["Kotlin", "Jetpack Compose", "Android (API 36)", "Room Database", "WorkManager", "Hilt/Dagger", "OkHttp", "Coroutines + Flow", "Lawnchair Launcher", "LLM Providers (Gemini, Claude, Ollama, OpenAI, etc.)", "Accessibility Services", "Android Shortcuts"]
+title: trek-boldly-go/aria-launcher
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Kotlin
+- Jetpack Compose
+- Android (API 36)
+- Room Database
+- WorkManager
+- Hilt/Dagger
+- OkHttp
+- Coroutines + Flow
+- Lawnchair Launcher
+- LLM Providers (Gemini, Claude, Ollama, OpenAI, etc.)
+- Accessibility Services
+- Android Shortcuts
 quality_score: 8
 rag_relevance: 7
-tags: ["Android Launcher", "AI Agent", "Context-Aware UI", "LLM Integration", "Privacy-First"]
-source: "https://github.com/trek-boldly-go/aria-launcher"
-discovered_at: "2026-07-14T20:09:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Android Launcher
+- AI Agent
+- Context-Aware UI
+- LLM Integration
+- Privacy-First
+source: https://github.com/trek-boldly-go/aria-launcher
+discovered_at: '2026-07-14T20:09:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "nel-neru/LibrAIum"
-category: "Tooling"
-tech_stack: ["Tauri v2", "Svelte 5", "Rust", "Node.js", "Git", "GitHub API", "MCP (Model Context Protocol)", "TypeScript", "YAML", "Markdown"]
+title: nel-neru/LibrAIum
+category: daily-digests/2026-07-20
+tech_stack:
+- Tauri v2
+- Svelte 5
+- Rust
+- Node.js
+- Git
+- GitHub API
+- MCP (Model Context Protocol)
+- TypeScript
+- YAML
+- Markdown
 quality_score: 9
 rag_relevance: 8
-tags: ["repository curation", "MCP server", "local-first", "AI agent integration", "Git-based knowledge management"]
-source: "https://github.com/nel-neru/LibrAIum"
-discovered_at: "2026-07-11T14:51:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- repository curation
+- MCP server
+- local-first
+- AI agent integration
+- Git-based knowledge management
+source: https://github.com/nel-neru/LibrAIum
+discovered_at: '2026-07-11T14:51:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

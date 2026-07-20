@@ -1,13 +1,25 @@
 ---
-title: "michielhdoteth/squish"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "SQLite/PostgreSQL", "Vector Search", "Knowledge Graphs", "NPM"]
+title: michielhdoteth/squish
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- SQLite/PostgreSQL
+- Vector Search
+- Knowledge Graphs
+- NPM
 quality_score: 9
 rag_relevance: 8
-tags: ["AI memory", "coding agents", "persistent context", "MCP integration", "local-first"]
-source: "https://github.com/michielhdoteth/squish"
-discovered_at: "2026-07-10T22:00:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI memory
+- coding agents
+- persistent context
+- MCP integration
+- local-first
+source: https://github.com/michielhdoteth/squish
+discovered_at: '2026-07-10T22:00:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

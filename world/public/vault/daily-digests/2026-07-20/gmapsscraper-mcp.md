@@ -1,13 +1,23 @@
 ---
-title: "gmapsscraper/gmapsscraper-mcp"
-category: "Tooling"
-tech_stack: ["Node.js", "MCP (Model Context Protocol)", "TypeScript/JavaScript", "REST API", "Google Maps API"]
+title: gmapsscraper/gmapsscraper-mcp
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Node.js
+- MCP (Model Context Protocol)
+- TypeScript/JavaScript
+- REST API
+- Google Maps API
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP server", "Google Maps scraping", "business data extraction", "AI tooling", "data enrichment"]
-source: "https://github.com/gmapsscraper/gmapsscraper-mcp"
-discovered_at: "2026-07-17T14:43:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Google Maps scraping
+- business data extraction
+- AI tooling
+- data enrichment
+source: https://github.com/gmapsscraper/gmapsscraper-mcp
+discovered_at: '2026-07-17T14:43:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-07-20T03:42:23.128353+05:30'
-published_at: '2026-07-18T19:36:35Z'
+collected_at: '2026-07-20T15:06:00.877627+05:30'
+published_at: '2026-07-20T07:23:20Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
-stars: 1978
+stars: 1979
 language: Python
 status: active
 license: MIT
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-07-20T03:42:23.128353+05:30'
-last_seen: '2026-07-20T03:42:23.128353+05:30'
-last_checked: '2026-07-20T03:42:23.128353+05:30'
+first_seen: '2026-07-20T15:06:00.877627+05:30'
+last_seen: '2026-07-20T15:06:00.877627+05:30'
+last_checked: '2026-07-20T15:06:00.877627+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-*   Simplifies Retrieval-Augmented Generation (RAG) architectures.
-*   Leverages small, open-source language models (SLMs) for RAG implementations.
-*   Aims to reduce RAG system complexity, potentially enhancing accessibility and efficiency.
+- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-source language models (LLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
+
+- **Key Technical Contributions**: Optimizes retrieval and generation stages by integrating lightweight models (e.g., <1B parameters) with efficient indexing and prompt compression techniques to minimize latency and memory usage.
+
+- **Open-Source Implementation**: Provides a Python-based repository with modular components for easy integration, supporting customizable retrieval strategies and model backends for broader accessibility.
 
 ## Why It Matters
 
@@ -39,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: HKUDS
-- Stars: 1978
+- Stars: 1979
 - Forks: 255
 - Language: Python
 - Topics: large-language-models, rag, retrieval-augmented-generation
-- Last Updated: 2026-07-18T19:36:35Z
+- Last Updated: 2026-07-20T07:23:20Z
 - License: MIT
 - Archived: No
 - Created At: 2025-01-11T13:24:14Z

@@ -1,13 +1,25 @@
 ---
-title: "Byte-Mechanic/local_llm_scaffolding"
-category: "Agent Framework"
-tech_stack: ["Python", "llama.cpp", "Docker/Podman", "SearXNG", "JSON", "Subprocess", "Markdown"]
+title: Byte-Mechanic/local_llm_scaffolding
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python
+- llama.cpp
+- Docker/Podman
+- SearXNG
+- JSON
+- Subprocess
+- Markdown
 quality_score: 6
 rag_relevance: 7
-tags: ["local LLM", "agent framework", "consumer hardware", "tool use", "web research"]
-source: "https://github.com/Byte-Mechanic/local_llm_scaffolding"
-discovered_at: "2026-07-19T02:30:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local LLM
+- agent framework
+- consumer hardware
+- tool use
+- web research
+source: https://github.com/Byte-Mechanic/local_llm_scaffolding
+discovered_at: '2026-07-19T02:30:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

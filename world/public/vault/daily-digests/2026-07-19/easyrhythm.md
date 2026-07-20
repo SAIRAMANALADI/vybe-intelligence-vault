@@ -1,13 +1,29 @@
 ---
-title: "503496348-ops/easyrhythm"
-category: "Agent Framework"
-tech_stack: ["Python 3.11+", "FastAPI", "OpenAI Agents SDK", "Next.js", "TypeScript", "Tailwind CSS", "OpenAI ChatKit React", "LLM Guardrails", "SSE Streaming", "Regex", "CRM Integration"]
+title: 503496348-ops/easyrhythm
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Python 3.11+
+- FastAPI
+- OpenAI Agents SDK
+- Next.js
+- TypeScript
+- Tailwind CSS
+- OpenAI ChatKit React
+- LLM Guardrails
+- SSE Streaming
+- Regex
+- CRM Integration
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent orchestration", "intent classification", "LLM guardrails", "customer service automation", "enterprise RAG"]
-source: "https://github.com/503496348-ops/easyrhythm"
-discovered_at: "2026-07-14T02:13:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent orchestration
+- intent classification
+- LLM guardrails
+- customer service automation
+- enterprise RAG
+source: https://github.com/503496348-ops/easyrhythm
+discovered_at: '2026-07-14T02:13:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

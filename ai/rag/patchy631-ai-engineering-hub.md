@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/patchy631/ai-engineering-hub
-collected_at: '2026-07-20T03:41:58.119788+05:30'
-published_at: '2026-07-19T21:40:54Z'
+collected_at: '2026-07-20T15:05:35.898348+05:30'
+published_at: '2026-07-20T09:06:59Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
-stars: 36597
+stars: 36610
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-10-21T10:43:24Z'
 pushed_at: '2026-07-15T17:58:23Z'
 resource_id: github:patchy631/ai-engineering-hub
-first_seen: '2026-07-20T03:41:58.119788+05:30'
-last_seen: '2026-07-20T03:41:58.119788+05:30'
-last_checked: '2026-07-20T03:41:58.119788+05:30'
+first_seen: '2026-07-20T15:05:35.898348+05:30'
+last_seen: '2026-07-20T15:05:35.898348+05:30'
+last_checked: '2026-07-20T15:05:35.898348+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Content Focus**: Repository provides advanced tutorials on **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **real-world AI agent applications**, emphasizing practical implementation.
-- **Technical Stack**: Primarily uses **Jupyter Notebooks** with topics spanning **AI agents, LLMs, machine learning, and Model Context Protocol (MCP)**.
-- **Metrics**: High engagement with **36,597 stars** and **6,056 forks**, last updated **July 19, 2026**.
+- **Repository Overview**: GitHub repository (`patchy631/ai-engineering-hub`) with 36,610 stars and 6,057 forks, focused on AI engineering tutorials using Jupyter Notebooks.
+- **Technical Content**: Covers in-depth tutorials on **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **real-world AI agent applications**.
+- **Topics & Tools**: Includes **agents**, **machine learning**, **Model Context Protocol (MCP)**, and **RAG**, last updated on **2026-07-20**.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: patchy631
-- Stars: 36597
-- Forks: 6056
+- Stars: 36610
+- Forks: 6057
 - Language: Jupyter Notebook
 - Topics: agents, ai, llms, machine-learning, mcp, rag
-- Last Updated: 2026-07-19T21:40:54Z
+- Last Updated: 2026-07-20T09:06:59Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-21T10:43:24Z

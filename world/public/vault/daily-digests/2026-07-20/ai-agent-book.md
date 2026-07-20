@@ -1,13 +1,28 @@
 ---
-title: "bojieli/ai-agent-book"
-category: "Tooling"
-tech_stack: ["Python", "Markdown", "LaTeX", "Docker", "FastAPI", "MCP (Model Context Protocol)", "RAG (Retrieval-Augmented Generation)", "Vector Databases", "LLM (Large Language Models)", "Benchmarking Frameworks"]
+title: bojieli/ai-agent-book
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python
+- Markdown
+- LaTeX
+- Docker
+- FastAPI
+- MCP (Model Context Protocol)
+- RAG (Retrieval-Augmented Generation)
+- Vector Databases
+- LLM (Large Language Models)
+- Benchmarking Frameworks
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Agent", "RAG", "Context Engineering", "Tool Integration", "Multi-Agent Systems"]
-source: "https://github.com/bojieli/ai-agent-book"
-discovered_at: "2026-07-17T14:43:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent
+- RAG
+- Context Engineering
+- Tool Integration
+- Multi-Agent Systems
+source: https://github.com/bojieli/ai-agent-book
+discovered_at: '2026-07-17T14:43:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

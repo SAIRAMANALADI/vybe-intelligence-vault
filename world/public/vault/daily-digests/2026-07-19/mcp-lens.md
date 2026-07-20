@@ -1,13 +1,26 @@
 ---
-title: "ashishnallana/mcp-lens"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "FastMCP", "React", "TypeScript", "Tailwind CSS", "Vite", "Uvicorn"]
+title: ashishnallana/mcp-lens
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Python
+- FastAPI
+- FastMCP
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
+- Uvicorn
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "Model Context Protocol", "Debugging", "API Explorer", "Developer Tools"]
-source: "https://github.com/ashishnallana/mcp-lens"
-discovered_at: "2026-07-15T16:21:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- Model Context Protocol
+- Debugging
+- API Explorer
+- Developer Tools
+source: https://github.com/ashishnallana/mcp-lens
+discovered_at: '2026-07-15T16:21:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

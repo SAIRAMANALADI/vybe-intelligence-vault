@@ -15,7 +15,7 @@ WebGL/WebGPU and 3D creative design elevate traditional UI pages into wow-worthy
 - [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next) (tool - USEFUL Tier)
 - [juniorxsound/R3F.Multiplayer](https://github.com/juniorxsound/r3f.multiplayer) (template - USEFUL Tier)
 - [whoisryosuke/r3f-next-starter](https://github.com/whoisryosuke/r3f-next-starter) (template - USEFUL Tier)
-- [wrongakram/R3F-Chairs](https://github.com/wrongakram/r3f-chairs) (tool - USEFUL Tier)
+- [wass08/r3f-ultimate-character-configurator](https://github.com/wass08/r3f-ultimate-character-configurator) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -44,4 +44,4 @@ https://github.com/pmndrs/react-three-fiber (React Three Fiber)
 
 ---
 
-*Last updated: 2026-07-18 17:05 IST*
+*Last updated: 2026-07-20 15:22 IST*

@@ -1,13 +1,28 @@
 ---
-title: "cryptoduke01/vector"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Express", "Qwen (LLM)", "Bitget API", "Exa (News API)", "DexScreener (On-chain)", "Zod", "Chart.js", "Vanilla HTML/CSS/JS"]
+title: cryptoduke01/vector
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- Express
+- Qwen (LLM)
+- Bitget API
+- Exa (News API)
+- DexScreener (On-chain)
+- Zod
+- Chart.js
+- Vanilla HTML/CSS/JS
 quality_score: 7
 rag_relevance: 6
-tags: ["trading agent", "signal tribunal", "paper trading", "LLM decision-making", "Bitget integration"]
-source: "https://github.com/cryptoduke01/vector"
-discovered_at: "2026-07-13T16:31:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- trading agent
+- signal tribunal
+- paper trading
+- LLM decision-making
+- Bitget integration
+source: https://github.com/cryptoduke01/vector
+discovered_at: '2026-07-13T16:31:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

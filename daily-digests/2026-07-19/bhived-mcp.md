@@ -1,13 +1,23 @@
 ---
-title: "ArtKeyAi/bhived-mcp"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "NPM", "CLI Tools"]
+title: ArtKeyAi/bhived-mcp
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- NPM
+- CLI Tools
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP server", "shared knowledge", "agent collaboration", "skills activation", "tool discovery"]
-source: "https://github.com/ArtKeyAi/bhived-mcp"
-discovered_at: "2026-07-14T10:08:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- shared knowledge
+- agent collaboration
+- skills activation
+- tool discovery
+source: https://github.com/ArtKeyAi/bhived-mcp
+discovered_at: '2026-07-14T10:08:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

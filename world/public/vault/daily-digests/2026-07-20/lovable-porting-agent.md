@@ -1,13 +1,26 @@
 ---
-title: "adamhjort/lovable-porting-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Agent Skills framework", "CLI tooling", "PostgreSQL", "Supabase", "Vite", "React", "TanStack Start"]
+title: adamhjort/lovable-porting-agent
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python
+- Agent Skills framework
+- CLI tooling
+- PostgreSQL
+- Supabase
+- Vite
+- React
+- TanStack Start
 quality_score: 9
 rag_relevance: 8
-tags: ["migration", "agent-skill", "infrastructure-porting", "database-cloning", "Lovable"]
-source: "https://github.com/adamhjort/lovable-porting-agent"
-discovered_at: "2026-07-17T10:46:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- migration
+- agent-skill
+- infrastructure-porting
+- database-cloning
+- Lovable
+source: https://github.com/adamhjort/lovable-porting-agent
+discovered_at: '2026-07-17T10:46:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

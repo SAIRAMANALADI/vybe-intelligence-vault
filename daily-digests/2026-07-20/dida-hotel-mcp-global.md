@@ -1,13 +1,24 @@
 ---
-title: "DIDA-AI/Dida-Hotel-MCP-Global"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "HTTP API", "JSON-RPC", "Streamable HTTP", "RESTful APIs"]
+title: DIDA-AI/Dida-Hotel-MCP-Global
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- HTTP API
+- JSON-RPC
+- Streamable HTTP
+- RESTful APIs
 quality_score: 9
 rag_relevance: 10
-tags: ["hotel booking", "real-time inventory", "MCP server", "travel AI", "B2B travel platform"]
-source: "https://github.com/DIDA-AI/Dida-Hotel-MCP-Global"
-discovered_at: "2026-07-14T10:07:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- hotel booking
+- real-time inventory
+- MCP server
+- travel AI
+- B2B travel platform
+source: https://github.com/DIDA-AI/Dida-Hotel-MCP-Global
+discovered_at: '2026-07-14T10:07:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

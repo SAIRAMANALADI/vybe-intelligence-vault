@@ -1,13 +1,28 @@
 ---
-title: "AdrianMedico/oroimen"
-category: "Agent Framework"
-tech_stack: ["Python", "Docker", "Ollama", "SQLite", "FastAPI", "OpenWebUI", "qwen2.5", "qwen3-embedding", "MiniMax", "OpenAI API"]
+title: AdrianMedico/oroimen
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- Docker
+- Ollama
+- SQLite
+- FastAPI
+- OpenWebUI
+- qwen2.5
+- qwen3-embedding
+- MiniMax
+- OpenAI API
 quality_score: 9
 rag_relevance: 10
-tags: ["local-first", "privacy-focused", "RAG", "prompt-injection defense", "multi-tier architecture"]
-source: "https://github.com/AdrianMedico/oroimen"
-discovered_at: "2026-07-19T17:59:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first
+- privacy-focused
+- RAG
+- prompt-injection defense
+- multi-tier architecture
+source: https://github.com/AdrianMedico/oroimen
+discovered_at: '2026-07-19T17:59:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "sudo-haggis/noteIT_core"
-category: "Tooling"
-tech_stack: ["Markdown", "YAML", "Claude Code", "Git", "Obsidian", "Go (external tools)"]
+title: sudo-haggis/noteIT_core
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Markdown
+- YAML
+- Claude Code
+- Git
+- Obsidian
+- Go (external tools)
 quality_score: 7
 rag_relevance: 6
-tags: ["note-taking", "PARA method", "LLM-driven workflows", "plain text", "Claude Code"]
-source: "https://github.com/sudo-haggis/noteIT_core"
-discovered_at: "2026-07-14T10:07:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- note-taking
+- PARA method
+- LLM-driven workflows
+- plain text
+- Claude Code
+source: https://github.com/sudo-haggis/noteIT_core
+discovered_at: '2026-07-14T10:07:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

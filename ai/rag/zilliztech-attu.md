@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zilliztech/attu
-collected_at: '2026-07-14T19:52:28.366292+05:30'
-published_at: '2026-07-14T03:20:18Z'
+collected_at: '2026-07-20T15:11:06.204738+05:30'
+published_at: '2026-07-19T16:37:03Z'
 tags:
 - github-repo
 - hackernews
 - rag
 - shell
-stars: 3035
+stars: 3045
 language: Shell
 status: active
 license: NOASSERTION
@@ -19,9 +19,9 @@ archived: false
 created_at: '2021-12-09T09:15:33Z'
 pushed_at: '2026-06-11T06:23:28Z'
 resource_id: github:zilliztech/attu
-first_seen: '2026-07-14T19:52:28.366292+05:30'
-last_seen: '2026-07-14T19:52:28.366292+05:30'
-last_checked: '2026-07-14T19:52:28.366292+05:30'
+first_seen: '2026-07-20T15:11:06.204738+05:30'
+last_seen: '2026-07-20T15:11:06.204738+05:30'
+last_checked: '2026-07-20T15:11:06.204738+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Attu is a graphical user interface (GUI) designed to simplify interactions with Milvus, a vector database, by providing a user-friendly alternative to command-line operations.
-- **Technical Stack**: Primarily implemented in Shell, with integration capabilities for Milvus's API and ecosystem.
-- **Repository Status**: Actively maintained with 3,035 stars and 218 forks, last updated on 2026-07-14.
+- **Purpose**: Attu is a graphical user interface (GUI) designed to simplify interactions with Milvus, an open-source vector database, by providing a user-friendly alternative to command-line operations.
+- **Technical Stack**: Primarily implemented in Shell, with dependencies on Milvus APIs for backend integration and frontend rendering.
+- **Features**: Enables visualization and management of Milvus clusters, collections, and data operations (e.g., CRUD, indexing) through an intuitive web-based interface.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: zilliztech
-- Stars: 3035
+- Stars: 3045
 - Forks: 218
 - Language: Shell
 - Topics: attu, milvus, vector-database
-- Last Updated: 2026-07-14T03:20:18Z
+- Last Updated: 2026-07-19T16:37:03Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2021-12-09T09:15:33Z

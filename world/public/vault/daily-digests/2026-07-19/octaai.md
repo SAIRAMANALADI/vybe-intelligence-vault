@@ -1,13 +1,31 @@
 ---
-title: "MParvin/OctaAI"
-category: "Agent Framework"
-tech_stack: ["Go", "OpenAI API", "Claude API", "Ollama", "YAML", "Docker", "Firefox Extension", "WebSocket", "Redis", "Flask", "Nginx", "HTN Planning", "DAG Scheduler"]
+title: MParvin/OctaAI
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Go
+- OpenAI API
+- Claude API
+- Ollama
+- YAML
+- Docker
+- Firefox Extension
+- WebSocket
+- Redis
+- Flask
+- Nginx
+- HTN Planning
+- DAG Scheduler
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous agents", "multi-llm support", "software automation", "browser automation", "deployment automation"]
-source: "https://github.com/MParvin/OctaAI"
-discovered_at: "2026-07-19T23:55:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- multi-llm support
+- software automation
+- browser automation
+- deployment automation
+source: https://github.com/MParvin/OctaAI
+discovered_at: '2026-07-19T23:55:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

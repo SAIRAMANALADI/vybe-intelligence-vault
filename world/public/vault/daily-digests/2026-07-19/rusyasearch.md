@@ -1,13 +1,27 @@
 ---
-title: "andylopeslindao-art/RusyaSearch"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Playwright", "Brave Search", "Model Context Protocol (MCP)", "HTTPx", "Jina AI", "Wayback Machine API", "Markdown"]
+title: andylopeslindao-art/RusyaSearch
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Python
+- FastAPI
+- Playwright
+- Brave Search
+- Model Context Protocol (MCP)
+- HTTPx
+- Jina AI
+- Wayback Machine API
+- Markdown
 quality_score: 9
 rag_relevance: 10
-tags: ["meta-search", "AI agents", "web scraping", "MCP server", "data extraction"]
-source: "https://github.com/andylopeslindao-art/RusyaSearch"
-discovered_at: "2026-07-16T22:02:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- meta-search
+- AI agents
+- web scraping
+- MCP server
+- data extraction
+source: https://github.com/andylopeslindao-art/RusyaSearch
+discovered_at: '2026-07-16T22:02:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

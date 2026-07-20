@@ -4,25 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Phala-Network/ai-agent-template-openai
-collected_at: '2026-07-19T21:45:36.313403+05:30'
-published_at: '2026-06-30T16:46:05Z'
+collected_at: '2026-07-20T15:07:40.979589+05:30'
+published_at: '2026-07-20T07:13:51Z'
 tags:
 - agents
 - github-repo
 - openai
 - rag
 - typescript
-- workflows
-stars: 218
+stars: 219
 language: TypeScript
 status: active
 archived: false
 created_at: '2024-03-28T19:00:47Z'
 pushed_at: '2024-09-05T18:01:35Z'
 resource_id: github:phala-network/ai-agent-template-openai
-first_seen: '2026-07-19T21:45:36.313403+05:30'
-last_seen: '2026-07-19T21:45:36.313403+05:30'
-last_checked: '2026-07-19T21:45:36.313403+05:30'
+first_seen: '2026-07-20T15:07:40.979589+05:30'
+last_seen: '2026-07-20T15:07:40.979589+05:30'
+last_checked: '2026-07-20T15:07:40.979589+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with the Phala Network, enabling decentralized AI agent execution.
+- **Template Structure**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with Phala Network, enabling on-chain AI agent interactions.
 
-- **Key Components**: Includes pre-configured OpenAPI client integration, Phala Network-specific hooks, and a structured agent workflow for secure, off-chain computation.
+- **Key Components**: Includes pre-configured modules for OpenAI API integration, secure contract deployment, and interoperability with Phala's confidential computing infrastructure.
 
-- **Deployment Ready**: Supports deployment to Phala Network with minimal configuration, leveraging TypeScript for type safety and OpenAI's API for AI agent orchestration.
+- **Purpose**: Facilitates the development of AI agents that execute securely on Phala's decentralized cloud, leveraging OpenAI's models while maintaining data privacy.
 
 ## Why It Matters
 
@@ -43,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Phala-Network
-- Stars: 218
-- Forks: 233
+- Stars: 219
+- Forks: 234
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-06-30T16:46:05Z
+- Last Updated: 2026-07-20T07:13:51Z
 - Archived: No
 - Created At: 2024-03-28T19:00:47Z
 - Pushed At: 2024-09-05T18:01:35Z

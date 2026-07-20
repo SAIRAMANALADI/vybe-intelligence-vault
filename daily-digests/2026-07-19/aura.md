@@ -1,13 +1,24 @@
 ---
-title: "IzzoSol/Aura"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "BM25 (for tool selection)", "JSON Schema (for validation)"]
+title: IzzoSol/Aura
+category: daily-digests/2026-07-19
+tech_stack:
+- JavaScript
+- Node.js
+- CLI
+- MCP (Model Context Protocol)
+- BM25 (for tool selection)
+- JSON Schema (for validation)
 quality_score: 9
 rag_relevance: 9
-tags: ["context optimization", "token reduction", "deterministic pre-processing", "MCP server", "agent efficiency"]
-source: "https://github.com/IzzoSol/Aura"
-discovered_at: "2026-07-19T19:13:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- context optimization
+- token reduction
+- deterministic pre-processing
+- MCP server
+- agent efficiency
+source: https://github.com/IzzoSol/Aura
+discovered_at: '2026-07-19T19:13:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

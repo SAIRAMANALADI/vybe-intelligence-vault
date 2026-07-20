@@ -1,13 +1,26 @@
 ---
-title: "SHENG5411/grimoire-of-tools"
-category: "Agent Framework"
-tech_stack: ["Python", "YAML", "CLI", "OpenAI API", "Anthropic API", "Redis", "Textual (TUI)", "Mermaid (diagrams)"]
+title: SHENG5411/grimoire-of-tools
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- YAML
+- CLI
+- OpenAI API
+- Anthropic API
+- Redis
+- Textual (TUI)
+- Mermaid (diagrams)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI workflows", "multi-platform automation", "modular spells", "LLM integration", "scalable AI"]
-source: "https://github.com/SHENG5411/grimoire-of-tools"
-discovered_at: "2026-07-19T19:13:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI workflows
+- multi-platform automation
+- modular spells
+- LLM integration
+- scalable AI
+source: https://github.com/SHENG5411/grimoire-of-tools
+discovered_at: '2026-07-19T19:13:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "natiixnt/redcon"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "VS Code Extension (TypeScript/React)", "SQLite", "Git", "CLI (Click, Typer)", "Benchmarking (pytest, custom evaluators)"]
+title: natiixnt/redcon
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- VS Code Extension (TypeScript/React)
+- SQLite
+- Git
+- CLI (Click, Typer)
+- Benchmarking (pytest, custom evaluators)
 quality_score: 9
 rag_relevance: 10
-tags: ["context compression", "token budgeting", "AI coding agents", "deterministic ranking", "MCP integration"]
-source: "https://github.com/natiixnt/redcon"
-discovered_at: "2026-07-10T18:22:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- context compression
+- token budgeting
+- AI coding agents
+- deterministic ranking
+- MCP integration
+source: https://github.com/natiixnt/redcon
+discovered_at: '2026-07-10T18:22:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

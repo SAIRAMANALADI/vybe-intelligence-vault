@@ -1,13 +1,25 @@
 ---
-title: "jasonxkensei/xproof-openclaw-skill"
-category: "Tooling"
-tech_stack: ["MultiversX Blockchain", "x402 Payment Protocol", "Python", "Shell", "HTTP API", "MCP (Model Context Protocol)", "SHA-256 Hashing"]
+title: jasonxkensei/xproof-openclaw-skill
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- MultiversX Blockchain
+- x402 Payment Protocol
+- Python
+- Shell
+- HTTP API
+- MCP (Model Context Protocol)
+- SHA-256 Hashing
 quality_score: 8
 rag_relevance: 9
-tags: ["accountability", "on-chain verification", "AI agent governance", "proof-of-output", "x402 payments"]
-source: "https://github.com/jasonxkensei/xproof-openclaw-skill"
-discovered_at: "2026-07-15T10:48:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- accountability
+- on-chain verification
+- AI agent governance
+- proof-of-output
+- x402 payments
+source: https://github.com/jasonxkensei/xproof-openclaw-skill
+discovered_at: '2026-07-15T10:48:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

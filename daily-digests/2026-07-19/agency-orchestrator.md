@@ -1,13 +1,26 @@
 ---
-title: "jnMetaCode/agency-orchestrator"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "YAML", "Electron", "React", "DAG (Directed Acyclic Graph) workflows", "LLM providers (DeepSeek, Claude, Gemini, OpenAI, etc.)", "MCP Server"]
+title: jnMetaCode/agency-orchestrator
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- YAML
+- Electron
+- React
+- DAG (Directed Acyclic Graph) workflows
+- LLM providers (DeepSeek, Claude, Gemini, OpenAI, etc.)
+- MCP Server
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent orchestration", "zero-code AI workflows", "LLM collaboration", "automated task decomposition", "RAG pipeline integration"]
-source: "https://github.com/jnMetaCode/agency-orchestrator"
-discovered_at: "2026-07-15T10:48:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent orchestration
+- zero-code AI workflows
+- LLM collaboration
+- automated task decomposition
+- RAG pipeline integration
+source: https://github.com/jnMetaCode/agency-orchestrator
+discovered_at: '2026-07-15T10:48:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

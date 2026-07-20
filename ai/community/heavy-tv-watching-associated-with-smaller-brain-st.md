@@ -13,13 +13,14 @@ collected_at: '2026-07-20T03:41:00.684928+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:heavy-tv-watching-associated-with-smaller-brain-st
 first_seen: '2026-07-20T03:41:00.684928+05:30'
 last_seen: '2026-07-20T03:41:00.684928+05:30'
 last_checked: '2026-07-20T03:41:00.684928+05:30'
 health_score: 100
 ---
+
 
 # Heavy TV watching associated with smaller brain structures, study finds
 

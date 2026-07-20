@@ -1,13 +1,26 @@
 ---
-title: "boogaav/robin-good"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Ethereum", "Uniswap v3", "React", "Web3.js/Ethers.js", "Solidity (for contract interactions)", "npm"]
+title: boogaav/robin-good
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- Ethereum
+- Uniswap v3
+- React
+- Web3.js/Ethers.js
+- Solidity (for contract interactions)
+- npm
 quality_score: 8
 rag_relevance: 6
-tags: ["trading-agent", "memecoin", "Uniswap-v3", "self-learning", "risk-management"]
-source: "https://github.com/boogaav/robin-good"
-discovered_at: "2026-07-15T18:06:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- trading-agent
+- memecoin
+- Uniswap-v3
+- self-learning
+- risk-management
+source: https://github.com/boogaav/robin-good
+discovered_at: '2026-07-15T18:06:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

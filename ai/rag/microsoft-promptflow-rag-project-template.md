@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/promptflow-rag-project-template
-collected_at: '2026-07-20T03:42:18.168479+05:30'
+collected_at: '2026-07-20T15:05:55.902222+05:30'
 published_at: '2026-07-17T11:47:29Z'
 tags:
 - benchmark
 - github-repo
 - jupyter notebook
 - rag
+- reddit
 - workflows
 stars: 59
 language: Jupyter Notebook
@@ -20,9 +21,9 @@ archived: false
 created_at: '2023-12-14T01:47:16Z'
 pushed_at: '2024-09-06T22:11:58Z'
 resource_id: github:microsoft/promptflow-rag-project-template
-first_seen: '2026-07-20T03:42:18.168479+05:30'
-last_seen: '2026-07-20T03:42:18.168479+05:30'
-last_checked: '2026-07-20T03:42:18.168479+05:30'
+first_seen: '2026-07-20T15:05:55.902222+05:30'
+last_seen: '2026-07-20T15:05:55.902222+05:30'
+last_checked: '2026-07-20T15:05:55.902222+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **End-to-End RAG Pipeline**: Demonstrates Retrieval-Augmented Generation (RAG) workflows using **Promptflow**, integrating development, evaluation, experimentation, and deployment phases.
+- **End-to-End RAG Pipeline**: Demonstrates Retrieval-Augmented Generation (RAG) workflows using **Promptflow**, integrating **CosmosDB**, **PostgreSQL**, and **Azure AI Search** for data retrieval and indexing.
 
-- **Multi-Search Backend Support**: Implements retrieval via **CosmosDB**, **PostgreSQL**, and **Azure AI Search**, showcasing heterogeneous data source integration for RAG systems.
+- **Development & Evaluation**: Provides structured templates for **experimentation**, **evaluation**, and **deployment** of RAG models, leveraging Jupyter Notebooks for reproducibility.
 
-- **Notebook-Based Implementation**: Provides a **Jupyter Notebook**-centric template for reproducible RAG experimentation, with modular components for prompt engineering, evaluation, and deployment.
+- **Multi-Search Integration**: Supports hybrid retrieval strategies across **CosmosDB (NoSQL)**, **PostgreSQL (relational)**, and **Azure AI Search (vector/keyword-based)** for scalable and flexible RAG implementations.
 
 ## Why It Matters
 

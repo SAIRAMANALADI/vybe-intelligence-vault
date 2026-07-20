@@ -1,13 +1,23 @@
 ---
-title: "Aletheore/Aletheore"
-category: "Tooling"
-tech_stack: ["Python", "GitHub Actions", "MCP (Model Context Protocol)", "OSV.dev", "PyPI Packaging"]
+title: Aletheore/Aletheore
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python
+- GitHub Actions
+- MCP (Model Context Protocol)
+- OSV.dev
+- PyPI Packaging
 quality_score: 7
 rag_relevance: 8
-tags: ["security scanning", "GitHub automation", "dependency auditing", "PR diff analysis", "MCP server"]
-source: "https://github.com/Aletheore/Aletheore"
-discovered_at: "2026-07-17T16:14:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- security scanning
+- GitHub automation
+- dependency auditing
+- PR diff analysis
+- MCP server
+source: https://github.com/Aletheore/Aletheore
+discovered_at: '2026-07-17T16:14:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

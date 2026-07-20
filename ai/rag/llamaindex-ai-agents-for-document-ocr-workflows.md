@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/
-published_at: '2026-07-20T03:46:09.055148+05:30'
-collected_at: '2026-07-20T03:46:09.055167+05:30'
+published_at: '2026-07-20T15:09:46.632353+05:30'
+collected_at: '2026-07-20T15:09:46.632366+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
-first_seen: '2026-07-20T03:46:09.055167+05:30'
-last_seen: '2026-07-20T03:46:09.055167+05:30'
-last_checked: '2026-07-20T03:46:09.055167+05:30'
+first_seen: '2026-07-20T15:09:46.632366+05:30'
+last_seen: '2026-07-20T15:09:46.632366+05:30'
+last_checked: '2026-07-20T15:09:46.632366+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OCR & Structured Extraction**: LlamaParse uses Vision-Language Models (VLM) for layout-aware document parsing, enabling structured extraction of schemas (e.g., tables, charts, handwritten text) with auto-correction loops for high accuracy in complex documents.
+- **Agentic OCR with VLM Integration**: LlamaParse employs Vision Language Models (VLMs) for layout-aware document parsing, enabling semantic understanding of complex layouts (e.g., tables, charts, handwritten text) and converting them into LLM-ready structured outputs with high accuracy.
 
-- **Enterprise-Grade Performance**: Benchmarks show superior parsing, extraction, and retrieval across 50+ unstructured file types, with 99.9% uptime, SOC2/GDPR/HIPAA compliance, and scalable cloud/VPC deployment options for mission-critical workloads.
+- **Task-Specific Expert Agents & Auto-Correction Loops**: Specialized agents decompose document content (text, tables, charts) and route it to appropriate processors, while recursive auto-correction loops detect and fix errors in real-time, ensuring high pass-through rates even for messy scans or multi-modal inputs.
 
-- **Open-Source LiteParse**: Lightweight, local-first alternative (GitHub) for fast parsing of PDFs, Office docs, and images without cloud/LLM token dependencies, supporting bounding box outputs and major formats.
+- **Enterprise-Grade Performance & Security**: Supports 50+ unstructured file types with schema-based LLM extraction, chunking, and embedding pipelines optimized for RAG; offers 99.9% uptime, HIPAA/GDPR/SOC2 compliance, granular access controls, and flexible deployment (cloud or VPC).
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T03:46:09.055148+05:30
+- Published: 2026-07-20T15:09:46.632353+05:30
 
 ## Related Tags
 

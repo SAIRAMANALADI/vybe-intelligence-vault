@@ -1,13 +1,25 @@
 ---
-title: "SAP/aas-mcp-server"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "OpenAPI", "Docker", "OAuth 2.1", "YAML", "Model Context Protocol (MCP)"]
+title: SAP/aas-mcp-server
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- FastMCP
+- OpenAPI
+- Docker
+- OAuth 2.1
+- YAML
+- Model Context Protocol (MCP)
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP", "Asset Administration Shell", "OpenAPI", "LLM Integration", "Industrial IoT"]
-source: "https://github.com/SAP/aas-mcp-server"
-discovered_at: "2026-07-19T13:17:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- Asset Administration Shell
+- OpenAPI
+- LLM Integration
+- Industrial IoT
+source: https://github.com/SAP/aas-mcp-server
+discovered_at: '2026-07-19T13:17:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

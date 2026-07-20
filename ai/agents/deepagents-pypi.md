@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://pypi.org/project/deepagents/
-published_at: '2026-06-25T16:42:20.366756+05:30'
-collected_at: '2026-06-25T16:42:20.366769+05:30'
+published_at: '2026-07-20T15:12:29.603982+05:30'
+collected_at: '2026-07-20T15:12:29.603996+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:deepagents-pypi
-first_seen: '2026-06-25T16:42:20.366769+05:30'
-last_seen: '2026-06-25T16:42:20.366769+05:30'
-last_checked: '2026-06-25T16:42:20.366769+05:30'
+first_seen: '2026-07-20T15:12:29.603996+05:30'
+last_seen: '2026-07-20T15:12:29.603996+05:30'
+last_checked: '2026-07-20T15:12:29.603996+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Architecture**: Built on LangGraph with a production-ready, opinionated agent harness supporting sub-agent delegation, context management, and pluggable filesystem backends (local/sandboxed/remote).
+- **Framework Overview**: Deep Agents v0.6.12 is an opinionated, production-ready agent harness built on LangGraph, supporting sub-agent spawning, persistent memory, filesystem operations, and human-in-the-loop tool approval with streaming, checkpointing, and tracing capabilities.
 
-- **Model Compatibility**: Supports any LLM with tool-calling capabilities (frontier APIs, open-weight models, or local LLMs) via LangChain's chat model abstraction.
+- **Technical Requirements & Compatibility**: Requires Python >=3.11, <4.0; supports any tool-calling LLM (frontier/open-weight/local) via LangChain's chat model interface; provides extras for AWS and QuickJS integration.
 
-- **Key Features**: Includes persistent memory, human-in-the-loop approvals, shell access, and skills/tools system; designed for long-horizon tasks with streaming, checkpointing, and LangSmith integration for tracing/evaluation.
+- **Architecture & Extensibility**: Model-agnostic design with pluggable backends (filesystem, state/store) and customizable components (tools, sub-agents, skills); enforces security via tool-level sandboxing rather than LLM restrictions.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-25T16:42:20.366756+05:30
+- Published: 2026-07-20T15:12:29.603982+05:30
 
 ## Related Tags
 

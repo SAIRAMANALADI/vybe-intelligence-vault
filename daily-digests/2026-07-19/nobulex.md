@@ -1,13 +1,33 @@
 ---
-title: "arian-gogani/nobulex"
-category: "Orchestrator"
-tech_stack: ["Python", "TypeScript", "Ed25519", "SHA-256", "Cedar-inspired DSL", "DID (Decentralized Identifiers)", "JCS (JSON Canonicalization Scheme)", "Merkle trees", "FastAPI", "LangChain", "CrewAI", "Google ADK", "PydanticAI", "Haystack", "LlamaIndex"]
+title: arian-gogani/nobulex
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- TypeScript
+- Ed25519
+- SHA-256
+- Cedar-inspired DSL
+- DID (Decentralized Identifiers)
+- JCS (JSON Canonicalization Scheme)
+- Merkle trees
+- FastAPI
+- LangChain
+- CrewAI
+- Google ADK
+- PydanticAI
+- Haystack
+- LlamaIndex
 quality_score: 9
 rag_relevance: 10
-tags: ["trust protocol", "AI agent governance", "cryptographic receipts", "behavioral enforcement", "credit scoring"]
-source: "https://github.com/arian-gogani/nobulex"
-discovered_at: "2026-07-14T08:01:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- trust protocol
+- AI agent governance
+- cryptographic receipts
+- behavioral enforcement
+- credit scoring
+source: https://github.com/arian-gogani/nobulex
+discovered_at: '2026-07-14T08:01:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

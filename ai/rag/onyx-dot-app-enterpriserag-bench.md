@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-07-20T03:43:03.271971+05:30'
+collected_at: '2026-07-20T15:06:40.940999+05:30'
 published_at: '2026-07-19T14:44:32Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-07-20T03:43:03.271971+05:30'
-last_seen: '2026-07-20T03:43:03.271971+05:30'
-last_checked: '2026-07-20T03:43:03.271971+05:30'
+first_seen: '2026-07-20T15:06:40.940999+05:30'
+last_seen: '2026-07-20T15:06:40.940999+05:30'
+last_checked: '2026-07-20T15:06:40.940999+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmark and synthetic dataset for evaluating Retrieval-Augmented Generation (RAG) systems on internal company documents, enabling standardized assessment of enterprise RAG performance.
-- **Key Features**: Includes tools for semantic search, question-answering, and LLM evaluation, with a focus on enterprise use cases like knowledge base integration and internal document retrieval.
-- **Technical Scope**: Supports Python-based RAG pipelines, LLM evaluation frameworks, and synthetic data generation for testing retrieval accuracy, generative quality, and end-to-end system robustness.
+- **Purpose**: Provides a benchmarking framework and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of LLM performance in real-world internal knowledge bases.
+
+- **Key Features**: Includes synthetic data generation for enterprise contexts, semantic search evaluation, and multi-metric assessment (e.g., retrieval accuracy, answer correctness, latency) tailored for enterprise RAG pipelines.
+
+- **Technical Scope**: Supports Python-based evaluation of RAG components (retrievers, LLMs, post-processing) with tools for QA, information retrieval, and generative AI metrics, optimized for enterprise-scale document corpora.
 
 ## Why It Matters
 

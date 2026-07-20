@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.github.com/
-published_at: '2026-07-20T01:14:14.699219+05:30'
-collected_at: '2026-07-20T01:14:14.699229+05:30'
+published_at: '2026-07-20T15:12:24.496168+05:30'
+collected_at: '2026-07-20T15:12:24.496177+05:30'
 tags:
 - agents
 - scripts
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-docs
-first_seen: '2026-07-20T01:14:14.699229+05:30'
-last_seen: '2026-07-20T01:14:14.699229+05:30'
-last_checked: '2026-07-20T01:14:14.699229+05:30'
+first_seen: '2026-07-20T15:12:24.496177+05:30'
+last_seen: '2026-07-20T15:12:24.496177+05:30'
+last_checked: '2026-07-20T15:12:24.496177+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Core Functionality**: GitHub utilizes Git for version control, supports SSH for secure remote connections, and enables repository creation/management with configurable naming and location.
+- **Core GitHub Services**: GitHub provides version control (Git), secure remote repositories, and collaboration tools (pull requests, discussions) with integrations for CI/CD (GitHub Actions), package management (GitHub Packages), and static hosting (GitHub Pages).
 
-- **Collaborative Development**: Pull requests facilitate code proposal, review, and merging; GitHub Copilot integrates AI-driven code suggestions in IDEs; remote repository management bridges local and cloud-based workflows.
+- **Security & Compliance**: Features include secret scanning, vulnerability detection (CodeQL), supply chain security (Dependabot), and enterprise-scale security policies with audit logging and role-based access control.
 
-- **Security & APIs**: GitHub enforces secure authentication (SSH, tokens, OAuth) and provides REST/GraphQL APIs, webhooks, and CodeQL for vulnerability analysis and supply chain security.
+- **Developer & Automation Tools**: Supports REST/GraphQL APIs, webhooks, GitHub CLI, and Copilot for AI-driven coding, alongside project management (GitHub Issues/Projects) and team/organizational workflows.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-20T01:14:14.699219+05:30
+- Published: 2026-07-20T15:12:24.496168+05:30
 
 ## Related Tags
 

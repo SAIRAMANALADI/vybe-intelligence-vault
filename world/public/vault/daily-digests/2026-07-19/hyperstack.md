@@ -1,13 +1,30 @@
 ---
-title: "orkait/hyperstack"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "Docker", "Bun", "Node.js", "React", "Next.js", "shadcn/ui", "React Flow", "Motion", "Go", "Rust"]
+title: orkait/hyperstack
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- Docker
+- Bun
+- Node.js
+- React
+- Next.js
+- shadcn/ui
+- React Flow
+- Motion
+- Go
+- Rust
 quality_score: 9
 rag_relevance: 10
-tags: ["AI agent harness", "disciplined engineering", "MCP server", "adversarial skills", "ground-truth verification"]
-source: "https://github.com/orkait/hyperstack"
-discovered_at: "2026-07-18T09:23:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent harness
+- disciplined engineering
+- MCP server
+- adversarial skills
+- ground-truth verification
+source: https://github.com/orkait/hyperstack
+discovered_at: '2026-07-18T09:23:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

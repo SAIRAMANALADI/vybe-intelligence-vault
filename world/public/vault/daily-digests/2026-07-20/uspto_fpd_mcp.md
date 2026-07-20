@@ -1,13 +1,28 @@
 ---
-title: "john-walkoe/uspto_fpd_mcp"
-category: "Orchestrator"
-tech_stack: ["Python", "FastMCP 3.0", "MCP (Model Context Protocol)", "USPTO API", "Mistral OCR", "Docker", "SQLite", "uv (package manager)", "PowerShell", "Windows DPAPI"]
+title: john-walkoe/uspto_fpd_mcp
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python
+- FastMCP 3.0
+- MCP (Model Context Protocol)
+- USPTO API
+- Mistral OCR
+- Docker
+- SQLite
+- uv (package manager)
+- PowerShell
+- Windows DPAPI
 quality_score: 9
 rag_relevance: 8
-tags: ["USPTO API", "MCP Server", "Patent Analysis", "Context Reduction", "OCR Integration"]
-source: "https://github.com/john-walkoe/uspto_fpd_mcp"
-discovered_at: "2026-07-19T05:51:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- USPTO API
+- MCP Server
+- Patent Analysis
+- Context Reduction
+- OCR Integration
+source: https://github.com/john-walkoe/uspto_fpd_mcp
+discovered_at: '2026-07-19T05:51:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

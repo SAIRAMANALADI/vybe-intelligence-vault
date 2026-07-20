@@ -1,13 +1,30 @@
 ---
-title: "anzy-renlab-ai/pronounce"
-category: "Tooling"
-tech_stack: ["Bash", "TypeScript", "Python", "Markdown", "HTML/CSS", "Homebrew", "VS Code Extension API", "Claude Code Skills", "MCP (Model Context Protocol) Server", "espeak-ng", "FFmpeg", "GitHub Actions"]
+title: anzy-renlab-ai/pronounce
+category: daily-digests/2026-07-20
+tech_stack:
+- Bash
+- TypeScript
+- Python
+- Markdown
+- HTML/CSS
+- Homebrew
+- VS Code Extension API
+- Claude Code Skills
+- MCP (Model Context Protocol) Server
+- espeak-ng
+- FFmpeg
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-tags: ["pronunciation", "developer tools", "CLI utility", "AI assistant integration", "technical jargon"]
-source: "https://github.com/anzy-renlab-ai/pronounce"
-discovered_at: "2026-07-12T11:58:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- pronunciation
+- developer tools
+- CLI utility
+- AI assistant integration
+- technical jargon
+source: https://github.com/anzy-renlab-ai/pronounce
+discovered_at: '2026-07-12T11:58:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "Atom-Eons/atomeons-com"
-category: "UI Component"
-tech_stack: ["HTML", "CSS", "JavaScript", "Static Site Generation"]
+title: Atom-Eons/atomeons-com
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- HTML
+- CSS
+- JavaScript
+- Static Site Generation
 quality_score: 5
 rag_relevance: 3
-tags: ["static website", "portfolio", "documentation", "research hub", "open source"]
-source: "https://github.com/Atom-Eons/atomeons-com"
-discovered_at: "2026-07-19T16:57:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- static website
+- portfolio
+- documentation
+- research hub
+- open source
+source: https://github.com/Atom-Eons/atomeons-com
+discovered_at: '2026-07-19T16:57:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

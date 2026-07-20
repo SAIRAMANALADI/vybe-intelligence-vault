@@ -1,13 +1,26 @@
 ---
-title: "loki4agent/loki-auto"
-category: "Tooling"
-tech_stack: ["Rust", "WebAssembly (WASM)", "Rhai Scripting Language", "TypeScript", "Chrome/Firefox Extensions", "Model Context Protocol (MCP)", "Axum Web Framework", "Bun (package manager)"]
+title: loki4agent/loki-auto
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Rust
+- WebAssembly (WASM)
+- Rhai Scripting Language
+- TypeScript
+- Chrome/Firefox Extensions
+- Model Context Protocol (MCP)
+- Axum Web Framework
+- Bun (package manager)
 quality_score: 8
 rag_relevance: 9
-tags: ["browser automation", "LLM tooling", "WASM sandbox", "MCP server", "serverless in browser"]
-source: "https://github.com/loki4agent/loki-auto"
-discovered_at: "2026-07-13T13:22:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- LLM tooling
+- WASM sandbox
+- MCP server
+- serverless in browser
+source: https://github.com/loki4agent/loki-auto
+discovered_at: '2026-07-13T13:22:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

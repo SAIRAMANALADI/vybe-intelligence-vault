@@ -1,13 +1,28 @@
 ---
-title: "roymcfarland/workflow-blueprint"
-category: "Orchestrator"
-tech_stack: ["Next.js 16", "React 19", "TypeScript", "Prisma 7", "PostgreSQL", "Tailwind CSS 4", "Zod", "Resend", "jose", "Sentry"]
+title: roymcfarland/workflow-blueprint
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Next.js 16
+- React 19
+- TypeScript
+- Prisma 7
+- PostgreSQL
+- Tailwind CSS 4
+- Zod
+- Resend
+- jose
+- Sentry
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent orchestration", "multi-agent workflow", "Kanban workspace", "MCP server", "REST API"]
-source: "https://github.com/roymcfarland/workflow-blueprint"
-discovered_at: "2026-07-14T23:53:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent orchestration
+- multi-agent workflow
+- Kanban workspace
+- MCP server
+- REST API
+source: https://github.com/roymcfarland/workflow-blueprint
+discovered_at: '2026-07-14T23:53:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

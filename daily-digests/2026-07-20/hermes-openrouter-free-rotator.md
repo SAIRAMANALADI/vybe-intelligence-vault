@@ -1,13 +1,23 @@
 ---
-title: "GoSlowPoke168/hermes-openrouter-free-rotator"
-category: "Tooling"
-tech_stack: ["Python", "Hermes Agent", "OpenRouter API", "YAML", "Cron"]
+title: GoSlowPoke168/hermes-openrouter-free-rotator
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- Hermes Agent
+- OpenRouter API
+- YAML
+- Cron
 quality_score: 9
 rag_relevance: 7
-tags: ["model rotation", "free models", "OpenRouter", "Hermes Agent", "privacy-respecting"]
-source: "https://github.com/GoSlowPoke168/hermes-openrouter-free-rotator"
-discovered_at: "2026-07-20T06:16:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- model rotation
+- free models
+- OpenRouter
+- Hermes Agent
+- privacy-respecting
+source: https://github.com/GoSlowPoke168/hermes-openrouter-free-rotator
+discovered_at: '2026-07-20T06:16:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

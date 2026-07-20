@@ -4,7 +4,7 @@ archive_category: ai-tools-products
 source_category: ai/models
 source_url: https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3
 resource_id: huggingface:blog/huggingface/one-year-since-the-deepseek-moment-blog-3
-local_vault_path: ai/models/the-future-of-the-global-open-source-ai-ecosystem.md
+local_vault_path: ai/models/huggingface-blog-huggingface-one-year-since-the-deepseek-moment-blog-3.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/huggingface/one-year-since-the-
 
 ## Local Vault File
 
-Path: [the-future-of-the-global-open-source-ai-ecosystem.md](../../ai/models/the-future-of-the-global-open-source-ai-ecosystem.md)
+Path: [huggingface-blog-huggingface-one-year-since-the-deepseek-moment-blog-3.md](../../ai/models/huggingface-blog-huggingface-one-year-since-the-deepseek-moment-blog-3.md)

@@ -1,13 +1,27 @@
 ---
-title: "kofujimura/tctc-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Ethereum", "ERC-7303", "ERC-1155", "ERC-721", "MCP (Model Context Protocol)", "Solidity", "npm"]
+title: kofujimura/tctc-mcp
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Node.js
+- Ethereum
+- ERC-7303
+- ERC-1155
+- ERC-721
+- MCP (Model Context Protocol)
+- Solidity
+- npm
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent permissions", "on-chain authorization", "ERC-7303", "MCP server", "gasless expiry"]
-source: "https://github.com/kofujimura/tctc-mcp"
-discovered_at: "2026-07-11T21:47:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent permissions
+- on-chain authorization
+- ERC-7303
+- MCP server
+- gasless expiry
+source: https://github.com/kofujimura/tctc-mcp
+discovered_at: '2026-07-11T21:47:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

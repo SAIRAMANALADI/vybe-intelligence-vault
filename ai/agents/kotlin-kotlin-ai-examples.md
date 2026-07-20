@@ -4,16 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Kotlin/Kotlin-AI-Examples
-collected_at: '2026-07-18T01:08:28.095561+05:30'
-published_at: '2026-07-02T02:19:59Z'
+collected_at: '2026-07-20T15:07:55.995077+05:30'
+published_at: '2026-07-18T17:22:23Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - openai
 - workflows
-stars: 265
+stars: 266
 language: Jupyter Notebook
 status: active
 license: Apache-2.0
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-10-03T23:36:12Z'
 pushed_at: '2026-07-01T13:55:55Z'
 resource_id: github:kotlin/kotlin-ai-examples
-first_seen: '2026-07-18T01:08:28.095561+05:30'
-last_seen: '2026-07-18T01:08:28.095561+05:30'
-last_checked: '2026-07-18T01:08:28.095561+05:30'
+first_seen: '2026-07-20T15:07:55.995077+05:30'
+last_seen: '2026-07-20T15:07:55.995077+05:30'
+last_checked: '2026-07-20T15:07:55.995077+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Framework AI Examples**: Repository showcasing Kotlin implementations of AI frameworks including **Spring AI** and **LangChain4j**, with hands-on Jupyter notebooks for practical learning.
-- **Technical Stack**: Primarily uses **Kotlin** with **Jupyter Notebooks**, covering topics like **agents, inference, OpenAI integration**, and **AI-driven workflows**.
-- **Metadata**: Last updated **July 2026**, with **265 stars** and **32 forks**, focusing on AI/ML applications in Kotlin.
+- **Multi-Framework AI Examples**: Repository showcasing Kotlin implementations using Spring AI, LangChain4j, and other AI frameworks, with practical Jupyter Notebooks for interactive learning.
+- **Agent & LLM Integration**: Demonstrates AI agent development, OpenAI API usage, and inference workflows in Kotlin, with modular examples for extensibility.
+- **Active Development**: Last updated July 2026, featuring modern AI topics (e.g., inference, LangChain) and Kotlin-specific optimizations.
 
 ## Why It Matters
 
@@ -42,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Kotlin
-- Stars: 265
+- Stars: 266
 - Forks: 32
 - Language: Jupyter Notebook
 - Topics: agents, ai, awesome, inference, kotlin, langchain, openai, spring
-- Last Updated: 2026-07-02T02:19:59Z
+- Last Updated: 2026-07-18T17:22:23Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-10-03T23:36:12Z

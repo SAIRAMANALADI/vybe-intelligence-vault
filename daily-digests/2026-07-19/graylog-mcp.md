@@ -1,13 +1,23 @@
 ---
-title: "jperelli/graylog-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "Graylog API", "REST"]
+title: jperelli/graylog-mcp
+category: daily-digests/2026-07-19
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- Graylog API
+- REST
 quality_score: 9
 rag_relevance: 8
-tags: ["log analysis", "debugging", "MCP server", "Graylog integration", "AI agent tools"]
-source: "https://github.com/jperelli/graylog-mcp"
-discovered_at: "2026-07-17T12:08:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- log analysis
+- debugging
+- MCP server
+- Graylog integration
+- AI agent tools
+source: https://github.com/jperelli/graylog-mcp
+discovered_at: '2026-07-17T12:08:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

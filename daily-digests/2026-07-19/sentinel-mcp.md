@@ -1,13 +1,32 @@
 ---
-title: "fncreator22/sentinel-mcp"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "scikit-learn", "TF-IDF", "Logistic Regression", "Ollama", "OpenAI", "Anthropic", "Google Gemini", "SQLite", "Docker", "Model Context Protocol (MCP)", "FastMCP", "YAML"]
+title: fncreator22/sentinel-mcp
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- FastAPI
+- scikit-learn
+- TF-IDF
+- Logistic Regression
+- Ollama
+- OpenAI
+- Anthropic
+- Google Gemini
+- SQLite
+- Docker
+- Model Context Protocol (MCP)
+- FastMCP
+- YAML
 quality_score: 9
 rag_relevance: 8
-tags: ["guardrails", "LLM safety", "MCP integration", "multi-stage decision pipeline", "audit logging"]
-source: "https://github.com/fncreator22/sentinel-mcp"
-discovered_at: "2026-07-19T07:29:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- guardrails
+- LLM safety
+- MCP integration
+- multi-stage decision pipeline
+- audit logging
+source: https://github.com/fncreator22/sentinel-mcp
+discovered_at: '2026-07-19T07:29:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

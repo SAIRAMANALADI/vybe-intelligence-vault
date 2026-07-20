@@ -1,13 +1,27 @@
 ---
-title: "smixs/iva"
-category: "Agent Framework"
-tech_stack: ["Node.js", "Python", "SQLite", "Telegram Bot API", "Deepgram (STT)", "Ollama Cloud / OpenRouter / OpenAI (LLM)", "Eve (Vercel agent framework)", "Git", "systemd"]
+title: smixs/iva
+category: daily-digests/2026-07-19
+tech_stack:
+- Node.js
+- Python
+- SQLite
+- Telegram Bot API
+- Deepgram (STT)
+- Ollama Cloud / OpenRouter / OpenAI (LLM)
+- Eve (Vercel agent framework)
+- Git
+- systemd
 quality_score: 9
 rag_relevance: 7
-tags: ["self-hosted", "memory management", "Telegram bot", "RAG", "knowledge vault"]
-source: "https://github.com/smixs/iva"
-discovered_at: "2026-07-18T02:12:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-hosted
+- memory management
+- Telegram bot
+- RAG
+- knowledge vault
+source: https://github.com/smixs/iva
+discovered_at: '2026-07-18T02:12:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

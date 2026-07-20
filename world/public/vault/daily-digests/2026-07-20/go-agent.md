@@ -1,13 +1,23 @@
 ---
-title: "TaleGcloud/go-agent"
-category: "Agent Framework"
-tech_stack: ["Go", "LLM APIs", "CLI", "JSON", "Markdown"]
+title: TaleGcloud/go-agent
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Go
+- LLM APIs
+- CLI
+- JSON
+- Markdown
 quality_score: 8
 rag_relevance: 7
-tags: ["AI agent", "Go", "LLM integration", "modular tools", "memory system"]
-source: "https://github.com/TaleGcloud/go-agent"
-discovered_at: "2026-07-12T08:15:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- Go
+- LLM integration
+- modular tools
+- memory system
+source: https://github.com/TaleGcloud/go-agent
+discovered_at: '2026-07-12T08:15:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

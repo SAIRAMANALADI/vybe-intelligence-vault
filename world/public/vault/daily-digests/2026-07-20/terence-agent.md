@@ -1,13 +1,26 @@
 ---
-title: "Leisure-Auf1/Terence-Agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Large Language Models (LLMs)", "Mermaid.js", "Git", "Pytest", "Docker", "DeepSeek", "Xunfei Spark"]
+title: Leisure-Auf1/Terence-Agent
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python
+- Large Language Models (LLMs)
+- Mermaid.js
+- Git
+- Pytest
+- Docker
+- DeepSeek
+- Xunfei Spark
 quality_score: 7
 rag_relevance: 8
-tags: ["multi-agent systems", "automated workflows", "LLM orchestration", "sandboxed execution", "quality assurance"]
-source: "https://github.com/Leisure-Auf1/Terence-Agent"
-discovered_at: "2026-07-14T05:28:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- automated workflows
+- LLM orchestration
+- sandboxed execution
+- quality assurance
+source: https://github.com/Leisure-Auf1/Terence-Agent
+discovered_at: '2026-07-14T05:28:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "DaizeDong/demand-mining"
-category: "Tooling"
-tech_stack: ["Python", "LLM (Claude Code)", "Discord API", "RICE/Kano scoring frameworks", "JSON/YAML (config)", "CLI-based workflows"]
+title: DaizeDong/demand-mining
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- LLM (Claude Code)
+- Discord API
+- RICE/Kano scoring frameworks
+- JSON/YAML (config)
+- CLI-based workflows
 quality_score: 7
 rag_relevance: 6
-tags: ["demand mining", "user feedback analysis", "product iteration", "RICE scoring", "Kano model"]
-source: "https://github.com/DaizeDong/demand-mining"
-discovered_at: "2026-07-17T05:41:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- demand mining
+- user feedback analysis
+- product iteration
+- RICE scoring
+- Kano model
+source: https://github.com/DaizeDong/demand-mining
+discovered_at: '2026-07-17T05:41:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

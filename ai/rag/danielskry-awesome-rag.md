@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Danielskry/Awesome-RAG
-collected_at: '2026-07-20T03:42:48.132498+05:30'
-published_at: '2026-07-18T04:30:49Z'
+collected_at: '2026-07-20T15:06:25.890464+05:30'
+published_at: '2026-07-20T05:58:08Z'
 tags:
 - github-repo
+- hackernews
+- paper
 - rag
 - unknown
-stars: 1311
+stars: 1312
 language: Unknown
 status: active
 license: CC0-1.0
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-04-12T14:45:44Z'
 pushed_at: '2026-07-09T14:58:23Z'
 resource_id: github:danielskry/awesome-rag
-first_seen: '2026-07-20T03:42:48.132498+05:30'
-last_seen: '2026-07-20T03:42:48.132498+05:30'
-last_checked: '2026-07-20T03:42:48.132498+05:30'
+first_seen: '2026-07-20T15:06:25.890464+05:30'
+last_seen: '2026-07-20T15:06:25.890464+05:30'
+last_checked: '2026-07-20T15:06:25.890464+05:30'
 health_score: 100
 ---
 
@@ -28,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: GitHub repository aggregating state-of-the-art Retrieval-Augmented Generation (RAG) applications, frameworks, and tools for Generative AI.
-- **High Community Engagement**: 1,311 stars and 176 forks, indicating strong adoption and collaborative contributions in the AI research community.
-- **Updated & Relevant**: Last modified on July 18, 2026, ensuring inclusion of recent advancements in RAG architectures and implementations.
+- Curated repository of **Retrieval-Augmented Generation (RAG)** applications, frameworks, and tools in Generative AI, emphasizing integration of retrieval mechanisms with large language models (LLMs).
+- Aggregates open-source projects, research papers, and production-ready implementations spanning **cross-domain RAG techniques**, including vector databases, hybrid search, and prompt optimization.
+- Maintains structured categorization (e.g., by use case, model compatibility, or retrieval strategy) with **last update timestamp** (2026-07-20) reflecting ongoing community-driven maintenance.
 
 ## Why It Matters
 
@@ -39,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Danielskry
-- Stars: 1311
+- Stars: 1312
 - Forks: 176
 - Language: Unknown
 - Topics: artificial-intelligence, generative-ai, large-language-models, rag, retrieval-augmented-generation
-- Last Updated: 2026-07-18T04:30:49Z
+- Last Updated: 2026-07-20T05:58:08Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2024-04-12T14:45:44Z

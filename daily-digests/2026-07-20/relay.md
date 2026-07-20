@@ -1,13 +1,29 @@
 ---
-title: "jcast90/relay"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Rust", "Tauri", "React", "Node.js", "npm", "CLI", "TUI", "MCP (Model Context Protocol)", "GitHub API", "Linear API"]
+title: jcast90/relay
+category: daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Rust
+- Tauri
+- React
+- Node.js
+- npm
+- CLI
+- TUI
+- MCP (Model Context Protocol)
+- GitHub API
+- Linear API
 quality_score: 9
 rag_relevance: 10
-tags: ["agent orchestration", "cross-repo coordination", "local-first", "MCP integration", "autonomous AI workflows"]
-source: "https://github.com/jcast90/relay"
-discovered_at: "2026-07-11T15:54:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent orchestration
+- cross-repo coordination
+- local-first
+- MCP integration
+- autonomous AI workflows
+source: https://github.com/jcast90/relay
+discovered_at: '2026-07-11T15:54:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

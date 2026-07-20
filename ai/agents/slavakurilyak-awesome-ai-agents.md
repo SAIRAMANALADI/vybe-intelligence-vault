@@ -4,16 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/slavakurilyak/awesome-ai-agents
-collected_at: '2026-07-20T03:44:33.325427+05:30'
-published_at: '2026-07-19T20:38:41Z'
+collected_at: '2026-07-20T15:08:05.966127+05:30'
+published_at: '2026-07-20T02:39:45Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - paper
 - python
-- workflows
-stars: 1836
+stars: 1837
 language: Python
 status: active
 license: MIT
@@ -21,9 +19,9 @@ archived: false
 created_at: '2024-01-15T12:48:42Z'
 pushed_at: '2025-09-09T22:33:26Z'
 resource_id: github:slavakurilyak/awesome-ai-agents
-first_seen: '2026-07-20T03:44:33.325427+05:30'
-last_seen: '2026-07-20T03:44:33.325427+05:30'
-last_checked: '2026-07-20T03:44:33.325427+05:30'
+first_seen: '2026-07-20T15:08:05.966127+05:30'
+last_seen: '2026-07-20T15:08:05.966127+05:30'
+last_checked: '2026-07-20T15:08:05.966127+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: A GitHub repository (`slavakurilyak/awesome-ai-agents`) hosting a structured, community-driven list of **300+ resources** focused on **agentic AI**, including frameworks, tools, research papers, and applications.
-- **Metrics**: Repository statistics indicate **1,836 stars** and **466 forks**, reflecting significant community engagement and adoption.
-- **Technical Stack**: Primarily **Python-based**, with resources spanning agent architectures, multi-agent systems, reinforcement learning, and autonomous workflows. Last updated **July 19, 2026**.
+- **Curated Resource**: GitHub repository `slavakurilyak/awesome-ai-agents` containing 300+ agentic AI resources, last updated July 20, 2026.
+- **Metrics**: 1,837 stars, 467 forks, primarily Python-based with focus on agentic AI systems.
+- **Scope**: Aggregates tools, frameworks, papers, and libraries for AI agents, categorized for research and development.
 
 ## Why It Matters
 
@@ -42,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: slavakurilyak
-- Stars: 1836
-- Forks: 466
+- Stars: 1837
+- Forks: 467
 - Language: Python
 - Topics: agent, agentic, agents
-- Last Updated: 2026-07-19T20:38:41Z
+- Last Updated: 2026-07-20T02:39:45Z
 - License: MIT
 - Archived: No
 - Created At: 2024-01-15T12:48:42Z

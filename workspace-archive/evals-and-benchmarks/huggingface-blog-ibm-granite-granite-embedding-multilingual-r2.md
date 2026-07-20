@@ -5,7 +5,7 @@ archive_category: evals-and-benchmarks
 source_category: ai/rag
 source_url: https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2
 resource_id: huggingface:blog/ibm-granite/granite-embedding-multilingual-r2
-local_vault_path: ai/rag/granite-embedding-multilingual-r2-open-apache-2-0.md
+local_vault_path: ai/rag/huggingface-blog-ibm-granite-granite-embedding-multilingual-r2.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/ibm-granite/granite-embedding-m
 
 ## Local Vault File
 
-Path: [granite-embedding-multilingual-r2-open-apache-2-0.md](../../ai/rag/granite-embedding-multilingual-r2-open-apache-2-0.md)
+Path: [huggingface-blog-ibm-granite-granite-embedding-multilingual-r2.md](../../ai/rag/huggingface-blog-ibm-granite-granite-embedding-multilingual-r2.md)

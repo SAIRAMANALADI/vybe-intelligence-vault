@@ -1,13 +1,24 @@
 ---
-title: "abryfs/willitsend"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "CLI", "Browser-based playground", "GitHub Actions (CI)"]
+title: abryfs/willitsend
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- CLI
+- Browser-based playground
+- GitHub Actions (CI)
 quality_score: 9
 rag_relevance: 8
-tags: ["SMS compliance", "preflight validation", "segment math", "carrier filtering", "AI agent tooling"]
-source: "https://github.com/abryfs/willitsend"
-discovered_at: "2026-07-16T02:25:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- SMS compliance
+- preflight validation
+- segment math
+- carrier filtering
+- AI agent tooling
+source: https://github.com/abryfs/willitsend
+discovered_at: '2026-07-16T02:25:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

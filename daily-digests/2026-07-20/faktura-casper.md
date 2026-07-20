@@ -1,13 +1,28 @@
 ---
-title: "a252937166/faktura-casper"
-category: "Orchestrator"
-tech_stack: ["Rust", "Odra Framework", "Casper Blockchain", "TypeScript", "Node.js", "React", "MCP (Model Context Protocol)", "HTTP 402", "SHA-256", "LLM (Large Language Model)"]
+title: a252937166/faktura-casper
+category: daily-digests/2026-07-20
+tech_stack:
+- Rust
+- Odra Framework
+- Casper Blockchain
+- TypeScript
+- Node.js
+- React
+- MCP (Model Context Protocol)
+- HTTP 402
+- SHA-256
+- LLM (Large Language Model)
 quality_score: 9
 rag_relevance: 10
-tags: ["autonomous underwriting", "RWA credit desk", "Casper blockchain", "AI agent orchestration", "on-chain risk policy"]
-source: "https://github.com/a252937166/faktura-casper"
-discovered_at: "2026-07-18T09:23:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous underwriting
+- RWA credit desk
+- Casper blockchain
+- AI agent orchestration
+- on-chain risk policy
+source: https://github.com/a252937166/faktura-casper
+discovered_at: '2026-07-18T09:23:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

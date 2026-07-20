@@ -1,13 +1,30 @@
 ---
-title: "sherwood-exchange/sherwood"
-category: "Vector DB"
-tech_stack: ["Solidity", "Circom", "Groth16", "Poseidon Hash", "TypeScript", "React", "Vite", "Foundry", "Docker", "Web3.js/Ethers.js", "Uniswap v2/v3/v4", "Virtuals ACP"]
+title: sherwood-exchange/sherwood
+category: daily-digests/2026-07-20
+tech_stack:
+- Solidity
+- Circom
+- Groth16
+- Poseidon Hash
+- TypeScript
+- React
+- Vite
+- Foundry
+- Docker
+- Web3.js/Ethers.js
+- Uniswap v2/v3/v4
+- Virtuals ACP
 quality_score: 9
 rag_relevance: 8
-tags: ["Zero-Knowledge Proofs", "Privacy-Preserving", "DEX Aggregator", "Autonomous Agent", "Cross-Chain"]
-source: "https://github.com/sherwood-exchange/sherwood"
-discovered_at: "2026-07-17T02:52:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Zero-Knowledge Proofs
+- Privacy-Preserving
+- DEX Aggregator
+- Autonomous Agent
+- Cross-Chain
+source: https://github.com/sherwood-exchange/sherwood
+discovered_at: '2026-07-17T02:52:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -43,11 +43,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `83` | **Path**: [`whoisryosuke-r3f-next-starter.md`](../../web-development/react-three-fiber/whoisryosuke-r3f-next-starter.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [wrongakram/R3F-Chairs](https://github.com/wrongakram/r3f-chairs)
-- **Category**: `web-development/react-three-fiber` | **Kind**: `TOOL` | **Tier**: `USEFUL`
-- **Score**: `83` | **Path**: [`wrongakram-r3f-chairs.md`](../../web-development/react-three-fiber/wrongakram-r3f-chairs.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
 ### [wass08/r3f-ultimate-character-configurator](https://github.com/wass08/r3f-ultimate-character-configurator)
 - **Category**: `web-development/react-three-fiber` | **Kind**: `TUTORIAL` | **Tier**: `USEFUL`
 - **Score**: `83` | **Path**: [`wass08-r3f-ultimate-character-configurator.md`](../../web-development/react-three-fiber/wass08-r3f-ultimate-character-configurator.md)
@@ -67,6 +62,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Category**: `web-development/threejs` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
 - **Score**: `83` | **Path**: [`mrdoob-three-js.md`](../../web-development/threejs/mrdoob-three-js.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
+
+### [luosijie/threejs-examples](https://github.com/luosijie/threejs-examples)
+- **Category**: `web-development/threejs` | **Kind**: `TOOL` | **Tier**: `USEFUL`
+- **Score**: `83` | **Path**: [`luosijie-threejs-examples.md`](../../web-development/threejs/luosijie-threejs-examples.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-18 17:05 IST*
+*Last updated: 2026-07-20 15:22 IST*

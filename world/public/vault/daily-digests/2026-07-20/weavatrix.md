@@ -1,13 +1,28 @@
 ---
-title: "sergii-ziborov/weavatrix"
-category: "Orchestrator"
-tech_stack: ["JavaScript/TypeScript", "Node.js", "MCP (Model Context Protocol)", "Graph Theory", "Static Analysis", "Git", "Rust", "Java", "Python", "Go"]
+title: sergii-ziborov/weavatrix
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- JavaScript/TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Graph Theory
+- Static Analysis
+- Git
+- Rust
+- Java
+- Python
+- Go
 quality_score: 9
 rag_relevance: 10
-tags: ["code dependency graph", "AI coding agents", "blast radius analysis", "static analysis", "MCP server"]
-source: "https://github.com/sergii-ziborov/weavatrix"
-discovered_at: "2026-07-16T18:05:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code dependency graph
+- AI coding agents
+- blast radius analysis
+- static analysis
+- MCP server
+source: https://github.com/sergii-ziborov/weavatrix
+discovered_at: '2026-07-16T18:05:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

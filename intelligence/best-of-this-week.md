@@ -7,7 +7,6 @@ Curated highlights from the current week's collection, representing high-quality
 *   [pmndrs/triplex](https://github.com/pmndrs/triplex) (Score: 70) - Category: `ai-coding-agents/`
 *   [Codex is Open Sourcing AI models](https://huggingface.co/blog/hf-skills-training-codex) (Score: 70) - Category: `ai-coding-agents/`
 *   [Custom Kernels for All from Codex and Claude](https://huggingface.co/blog/custom-cuda-kernels-agent-skills) (Score: 70) - Category: `ai-coding-agents/`
-*   [OpenAI reduces Codex Model Context Size from 372k to 272k](https://github.com/openai/codex) (Score: 70) - Category: `ai-coding-agents/`
 *   [Speechify: Text to Speech & Voice Typing AI Assistant | 60M+ Users](https://speechify.com/) (Score: 70) - Category: `ai-coding-agents/`
 *   [Blog | Bluesky](https://docs.bsky.app/blog) (Score: 70) - Category: `ai-coding-agents/`
 *   [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (Score: 70) - Category: `ai-coding-agents/`
@@ -19,5 +18,6 @@ Curated highlights from the current week's collection, representing high-quality
 *   [Environmental Drivers of Respiratory Disease: A District Level Analysis](https://arxiv.org/abs/2607.04416) (Score: 70) - Category: `ai-coding-agents/`
 *   [Mitigating Early Training Collapse in CTR Models](https://arxiv.org/abs/2607.09696) (Score: 70) - Category: `ai-coding-agents/`
 *   [On the Optimal Reasoning Length for RL-Trained Language Models](https://arxiv.org/abs/2602.09591) (Score: 70) - Category: `ai-coding-agents/`
+*   [HyDRA: Hybrid Dynamic Routing Architecture for Heterogeneous LLM Pools](https://arxiv.org/abs/2605.17106) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

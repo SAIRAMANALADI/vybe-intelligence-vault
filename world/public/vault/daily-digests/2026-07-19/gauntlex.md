@@ -1,13 +1,26 @@
 ---
-title: "sanjoy1234/gauntlex"
-category: "Tooling"
-tech_stack: ["Python", "asyncio", "MCP (Model Context Protocol)", "LLM APIs (Ollama, OpenRouter, Anthropic, OpenAI)", "FastAPI", "Jinja2", "SQLite", "GitHub Actions"]
+title: sanjoy1234/gauntlex
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Python
+- asyncio
+- MCP (Model Context Protocol)
+- LLM APIs (Ollama, OpenRouter, Anthropic, OpenAI)
+- FastAPI
+- Jinja2
+- SQLite
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["adversarial testing", "AI security", "CI/CD integration", "code generation", "compliance automation"]
-source: "https://github.com/sanjoy1234/gauntlex"
-discovered_at: "2026-07-15T02:12:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- adversarial testing
+- AI security
+- CI/CD integration
+- code generation
+- compliance automation
+source: https://github.com/sanjoy1234/gauntlex
+discovered_at: '2026-07-15T02:12:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

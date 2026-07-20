@@ -1,13 +1,26 @@
 ---
-title: "Sealjay/mcp-whatsapp"
-category: "Agent Framework"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "whatsmeow", "SQLite", "HTTP", "FFmpeg (optional)", "whatsmeow", "CGO (Windows)"]
+title: Sealjay/mcp-whatsapp
+category: daily-digests/2026-07-19
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- whatsmeow
+- SQLite
+- HTTP
+- FFmpeg (optional)
+- whatsmeow
+- CGO (Windows)
 quality_score: 9
 rag_relevance: 8
-tags: ["WhatsApp integration", "MCP server", "LLM tooling", "multi-device messaging", "media handling"]
-source: "https://github.com/Sealjay/mcp-whatsapp"
-discovered_at: "2026-07-18T23:52:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- WhatsApp integration
+- MCP server
+- LLM tooling
+- multi-device messaging
+- media handling
+source: https://github.com/Sealjay/mcp-whatsapp
+discovered_at: '2026-07-18T23:52:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

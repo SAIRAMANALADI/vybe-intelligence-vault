@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/airweave-ai/airweave
-collected_at: '2026-07-20T03:44:13.394088+05:30'
+collected_at: '2026-07-20T15:07:46.028538+05:30'
 published_at: '2026-07-19T21:51:23Z'
 tags:
 - agents
-- dataset
 - github-repo
 - python
 - rag
+- workflows
 stars: 6488
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-12-24T10:00:06Z'
 pushed_at: '2026-06-05T09:52:19Z'
 resource_id: github:airweave-ai/airweave
-first_seen: '2026-07-20T03:44:13.394088+05:30'
-last_seen: '2026-07-20T03:44:13.394088+05:30'
-last_checked: '2026-07-20T03:44:13.394088+05:30'
+first_seen: '2026-07-20T15:07:46.028538+05:30'
+last_seen: '2026-07-20T15:07:46.028538+05:30'
+last_checked: '2026-07-20T15:07:46.028538+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Open-source context retrieval layer**: Provides a Python-based SDK for AI agents to fetch and integrate contextual data from enterprise sources via API.
-- **Semantic search & retrieval-augmented generation (RAG)**: Supports advanced semantic search, data connectors, and integration with LLMs for enhanced context-aware AI responses.
-- **Enterprise data integration**: Enables retrieval from structured/unstructured enterprise datasets with built-in API, search, and retrieval mechanisms for AI agent infrastructure.
+- **Open-source context retrieval layer**: Airweave provides a Python-based SDK for AI agents to dynamically fetch and integrate relevant context from enterprise data sources via API, enhancing retrieval-augmented generation (RAG) workflows.
+
+- **Enterprise data connectors**: Supports integration with structured/unstructured data (SQL, NoSQL, documents) and semantic search, enabling real-time context retrieval for LLMs without manual preprocessing.
+
+- **Scalable API-driven architecture**: Designed for high-throughput, low-latency retrieval with modular data connectors, semantic indexing, and enterprise-grade security for multi-agent AI systems.
 
 ## Why It Matters
 
@@ -42,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: airweave-ai
 - Stars: 6488
-- Forks: 814
+- Forks: 815
 - Language: Python
 - Topics: agent-infrastructure, ai, ai-agents, ai-infrastructure, api, context-retrieval, data-connectors, developer-tools, enterprise-data, information-retrieval, integration, llm, open-source, rag, retrieval, retrieval-augmented-generation, sdk, search, search-api, semantic-search
 - Last Updated: 2026-07-19T21:51:23Z

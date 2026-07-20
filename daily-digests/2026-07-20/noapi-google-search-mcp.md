@@ -1,13 +1,22 @@
 ---
-title: "Daenerys888/noapi-google-search-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Headless Chromium", "Local Server", "HTTP/REST"]
+title: Daenerys888/noapi-google-search-mcp
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- Headless Chromium
+- Local Server
+- HTTP/REST
 quality_score: 7
 rag_relevance: 8
-tags: ["web scraping", "headless browser", "local search", "privacy-focused", "automation"]
-source: "https://github.com/Daenerys888/noapi-google-search-mcp"
-discovered_at: "2026-07-17T02:52:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web scraping
+- headless browser
+- local search
+- privacy-focused
+- automation
+source: https://github.com/Daenerys888/noapi-google-search-mcp
+discovered_at: '2026-07-17T02:52:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

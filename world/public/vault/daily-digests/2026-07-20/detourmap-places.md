@@ -1,13 +1,27 @@
 ---
-title: "Flightmussy/detourmap-places"
-category: "Tooling"
-tech_stack: ["Wikidata", "CSV", "GeoJSON", "JavaScript", "Python", "Pandas", "GeoPandas", "Wikimedia Commons", "MCP Server"]
+title: Flightmussy/detourmap-places
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Wikidata
+- CSV
+- GeoJSON
+- JavaScript
+- Python
+- Pandas
+- GeoPandas
+- Wikimedia Commons
+- MCP Server
 quality_score: 9
 rag_relevance: 8
-tags: ["open data", "geospatial", "Wikidata", "points of interest", "MCP server"]
-source: "https://github.com/Flightmussy/detourmap-places"
-discovered_at: "2026-07-18T17:56:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- open data
+- geospatial
+- Wikidata
+- points of interest
+- MCP server
+source: https://github.com/Flightmussy/detourmap-places
+discovered_at: '2026-07-18T17:56:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

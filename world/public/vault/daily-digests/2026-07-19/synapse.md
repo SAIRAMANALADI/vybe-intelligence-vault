@@ -1,13 +1,27 @@
 ---
-title: "jmagar/synapse"
-category: "Orchestrator"
-tech_stack: ["Rust", "Model Context Protocol (MCP)", "Docker", "Docker Compose", "SSH", "ZFS", "REST", "CLI", "npm"]
+title: jmagar/synapse
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Rust
+- Model Context Protocol (MCP)
+- Docker
+- Docker Compose
+- SSH
+- ZFS
+- REST
+- CLI
+- npm
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "infrastructure automation", "Docker orchestration", "host management", "Rust"]
-source: "https://github.com/jmagar/synapse"
-discovered_at: "2026-07-19T23:56:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- infrastructure automation
+- Docker orchestration
+- host management
+- Rust
+source: https://github.com/jmagar/synapse
+discovered_at: '2026-07-19T23:56:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

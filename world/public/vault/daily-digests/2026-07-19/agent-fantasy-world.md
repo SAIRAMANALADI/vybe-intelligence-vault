@@ -1,13 +1,29 @@
 ---
-title: "AlexLee00/agent-fantasy-world"
-category: "Agent Framework"
-tech_stack: ["Solidity", "Elixir/OTP", "Python", "Hardhat", "Base Sepolia", "UUPS Proxy", "OpenZeppelin", "Phoenix Framework", "Anthropic API", "OpenAI API", "Claude Code CLI"]
+title: AlexLee00/agent-fantasy-world
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Solidity
+- Elixir/OTP
+- Python
+- Hardhat
+- Base Sepolia
+- UUPS Proxy
+- OpenZeppelin
+- Phoenix Framework
+- Anthropic API
+- OpenAI API
+- Claude Code CLI
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agents", "blockchain gaming", "smart contracts", "autonomous systems", "pluggable AI"]
-source: "https://github.com/AlexLee00/agent-fantasy-world"
-discovered_at: "2026-07-16T12:22:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- blockchain gaming
+- smart contracts
+- autonomous systems
+- pluggable AI
+source: https://github.com/AlexLee00/agent-fantasy-world
+discovered_at: '2026-07-16T12:22:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

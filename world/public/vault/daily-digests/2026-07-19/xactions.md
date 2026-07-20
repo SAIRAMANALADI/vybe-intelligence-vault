@@ -1,13 +1,28 @@
 ---
-title: "nirholas/XActions"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Docker", "Socket.IO", "D3.js", "Browser Automation", "REST API", "CLI", "Browser Extension (Chrome/Firefox)"]
+title: nirholas/XActions
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Docker
+- Socket.IO
+- D3.js
+- Browser Automation
+- REST API
+- CLI
+- Browser Extension (Chrome/Firefox)
 quality_score: 9
 rag_relevance: 8
-tags: ["automation", "twitter-scraping", "ai-agents", "mcp-server", "browser-scripting"]
-source: "https://github.com/nirholas/XActions"
-discovered_at: "2026-07-19T07:29:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- automation
+- twitter-scraping
+- ai-agents
+- mcp-server
+- browser-scripting
+source: https://github.com/nirholas/XActions
+discovered_at: '2026-07-19T07:29:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

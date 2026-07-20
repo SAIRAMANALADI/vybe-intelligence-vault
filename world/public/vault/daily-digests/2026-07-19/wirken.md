@@ -1,13 +1,30 @@
 ---
-title: "gebruder/wirken"
-category: "Orchestrator"
-tech_stack: ["Rust", "Ed25519", "Cap'n Proto", "XChaCha20-Poly1305", "Docker", "gVisor", "Wasm", "OpenTelemetry", "Datadog", "Splunk", "Microsoft Sentinel", "Mermaid (for diagrams)"]
+title: gebruder/wirken
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Rust
+- Ed25519
+- Cap'n Proto
+- XChaCha20-Poly1305
+- Docker
+- gVisor
+- Wasm
+- OpenTelemetry
+- Datadog
+- Splunk
+- Microsoft Sentinel
+- Mermaid (for diagrams)
 quality_score: 9
 rag_relevance: 9
-tags: ["agent orchestration", "multi-channel messaging", "security isolation", "audit logging", "MCP integration"]
-source: "https://github.com/gebruder/wirken"
-discovered_at: "2026-07-18T20:43:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent orchestration
+- multi-channel messaging
+- security isolation
+- audit logging
+- MCP integration
+source: https://github.com/gebruder/wirken
+discovered_at: '2026-07-18T20:43:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

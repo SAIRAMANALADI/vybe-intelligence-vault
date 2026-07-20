@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://speechify.com/terms
-published_at: '2026-07-14T13:07:31.021653+05:30'
-collected_at: '2026-07-14T13:07:31.021669+05:30'
+published_at: '2026-07-20T15:16:22.072283+05:30'
+collected_at: '2026-07-20T15:16:22.072296+05:30'
 tags:
 - agents
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:terms-conditions-speechify
-first_seen: '2026-07-14T13:07:31.021669+05:30'
-last_seen: '2026-07-14T13:07:31.021669+05:30'
-last_checked: '2026-07-14T13:07:31.021669+05:30'
+first_seen: '2026-07-20T15:16:22.072296+05:30'
+last_seen: '2026-07-20T15:16:22.072296+05:30'
+last_checked: '2026-07-20T15:16:22.072296+05:30'
 health_score: 100
 ---
 
@@ -26,9 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Mandatory Arbitration & Class Action Waiver**: Terms enforce pre-dispute arbitration and class action waivers, restricting dispute resolution to individual arbitration, with updates retroactively binding past unreported disputes.
-- **Subscription Model & Auto-Renewal**: Paid subscriptions auto-renew monthly/annually unless canceled 30+ days pre-termination; free trials convert to paid plans post-expiry, with no pro-rated refunds for unused days.
-- **Data & Account Compliance**: Users must maintain accurate account/payment data, with Speechify authorized to charge renewal fees; minors require parental consent, and all users indemnify Speechify for breaches.
+- **Mandatory Arbitration & Class Action Waiver**: Terms enforce pre-dispute arbitration and prohibit class actions, binding users to resolve disputes individually via arbitration, with updates retroactively affecting unresolved claims.
+
+- **Subscription & Auto-Renewal Terms**: Paid subscriptions auto-renew monthly/annually unless canceled ≥30 days pre-expiry (30-day notice for business plans); refunds are non-pro-rated, with Apple/Google Play Store policies governing mobile purchases.
+
+- **User Eligibility & Compliance**: Users must be ≥18 (or age of majority) with minors requiring guardian consent; breach of terms by minors imposes liability on guardians. All subscriptions are non-transferable, and promotional offers are non-stackable.
 
 ## Why It Matters
 
@@ -38,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-14T13:07:31.021653+05:30
+- Published: 2026-07-20T15:16:22.072283+05:30
 
 ## Related Tags
 

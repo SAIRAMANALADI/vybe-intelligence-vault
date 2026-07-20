@@ -1,13 +1,26 @@
 ---
-title: "xaligo/xaligo"
-category: "Tooling"
-tech_stack: ["Go", "Vue.js", "Excalidraw", "SVG", "PPTX", "DSL", "CLI", "JavaScript/TypeScript"]
+title: xaligo/xaligo
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Go
+- Vue.js
+- Excalidraw
+- SVG
+- PPTX
+- DSL
+- CLI
+- JavaScript/TypeScript
 quality_score: 8
 rag_relevance: 5
-tags: ["diagram-as-code", "architecture visualization", "DSL", "Excalidraw", "infrastructure diagrams"]
-source: "https://github.com/xaligo/xaligo"
-discovered_at: "2026-07-11T14:51:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- diagram-as-code
+- architecture visualization
+- DSL
+- Excalidraw
+- infrastructure diagrams
+source: https://github.com/xaligo/xaligo
+discovered_at: '2026-07-11T14:51:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

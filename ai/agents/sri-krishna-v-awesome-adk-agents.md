@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Sri-Krishna-V/awesome-adk-agents
-collected_at: '2026-07-20T03:44:23.328546+05:30'
+collected_at: '2026-07-20T15:08:00.992994+05:30'
 published_at: '2026-07-19T14:13:00Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-05-27T11:48:53Z'
 pushed_at: '2026-06-28T14:36:38Z'
 resource_id: github:sri-krishna-v/awesome-adk-agents
-first_seen: '2026-07-20T03:44:23.328546+05:30'
-last_seen: '2026-07-20T03:44:23.328546+05:30'
-last_checked: '2026-07-20T03:44:23.328546+05:30'
+first_seen: '2026-07-20T15:08:00.992994+05:30'
+last_seen: '2026-07-20T15:08:00.992994+05:30'
+last_checked: '2026-07-20T15:08:00.992994+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated ADK Resources**: Repository offering a structured collection of AI agents built with Google's Agent Development Kit (ADK), including templates, best practices, and production-ready examples for domains like research, business automation, education, and more.
+- **Curated ADK-Agents Repository**: A GitHub repository (`Sri-Krishna-V/awesome-adk-agents`) hosting a collection of AI agents built with Google's Agent Development Kit (ADK), including templates, best practices, and production-ready examples across research, business, automation, and education.
 
-- **Multi-Faceted ADK Support**: Includes samples for `adk-python`, `adk-web`, and multi-agent systems, with integration examples for Google's Gemini AI and Google ADK, facilitating diverse agentic AI development workflows.
+- **Technical Stack & Scope**: Primarily implemented in Python, with support for ADK-Python, ADK-Web, and multi-agent systems; includes samples for Gemini-AI, Google ADK, and agentic AI workflows.
 
-- **Technical Metadata**: Python-based repository with 335 stars, 48 forks, last updated on 2026-07-19, and tagged under topics such as `agent-samples`, `awesome-list`, and `multi-agent-systems`.
+- **Metadata**: 335 stars, 48 forks, last updated on 2026-07-19; categorized under topics like `adk`, `agent-samples`, and `awesome-list`.
 
 ## Why It Matters
 

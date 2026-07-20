@@ -1,13 +1,23 @@
 ---
-title: "Jimthetaxguy/pdf-inspector-integration"
-category: "Tooling"
-tech_stack: ["Rust", "Model Context Protocol (MCP)", "JSON-RPC", "firecrawl/pdf-inspector", "Cargo"]
+title: Jimthetaxguy/pdf-inspector-integration
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Rust
+- Model Context Protocol (MCP)
+- JSON-RPC
+- firecrawl/pdf-inspector
+- Cargo
 quality_score: 8
 rag_relevance: 9
-tags: ["PDF processing", "MCP server", "tax form extraction", "offline OCR-free", "domain-specific tools"]
-source: "https://github.com/Jimthetaxguy/pdf-inspector-integration"
-discovered_at: "2026-07-19T16:57:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- PDF processing
+- MCP server
+- tax form extraction
+- offline OCR-free
+- domain-specific tools
+source: https://github.com/Jimthetaxguy/pdf-inspector-integration
+discovered_at: '2026-07-19T16:57:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

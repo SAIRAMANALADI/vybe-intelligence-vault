@@ -1,13 +1,24 @@
 ---
-title: "malkreide/bag-health-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FastAPI", "Docker", "OpenTelemetry", "JSON-RPC"]
+title: malkreide/bag-health-mcp
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FastAPI
+- Docker
+- OpenTelemetry
+- JSON-RPC
 quality_score: 9
 rag_relevance: 8
-tags: ["Swiss public health data", "epidemiological surveillance", "MCP server", "infectious disease tracking", "wastewater monitoring"]
-source: "https://github.com/malkreide/bag-health-mcp"
-discovered_at: "2026-07-19T14:54:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Swiss public health data
+- epidemiological surveillance
+- MCP server
+- infectious disease tracking
+- wastewater monitoring
+source: https://github.com/malkreide/bag-health-mcp
+discovered_at: '2026-07-19T14:54:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,32 @@
 ---
-title: "Kirky-X/pangu"
-category: "Tooling"
-tech_stack: ["Shell", "Git", "GitHub Actions", "Pre-commit", "Lefthook", "Rust", "Python", "Node.js", "Java", "Go", "C/C++", "Ruby", "PHP", ".NET"]
+title: Kirky-X/pangu
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Shell
+- Git
+- GitHub Actions
+- Pre-commit
+- Lefthook
+- Rust
+- Python
+- Node.js
+- Java
+- Go
+- C/C++
+- Ruby
+- PHP
+- .NET
 quality_score: 9
 rag_relevance: 7
-tags: ["project scaffolding", "CI/CD automation", "code quality guardrails", "multi-language support", "industrial-grade templates"]
-source: "https://github.com/Kirky-X/pangu"
-discovered_at: "2026-07-19T19:13:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- project scaffolding
+- CI/CD automation
+- code quality guardrails
+- multi-language support
+- industrial-grade templates
+source: https://github.com/Kirky-X/pangu
+discovered_at: '2026-07-19T19:13:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

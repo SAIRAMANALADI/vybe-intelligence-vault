@@ -1,13 +1,23 @@
 ---
-title: "Fast-newengland468/CyberClaw"
-category: "Agent Framework"
-tech_stack: ["LangGraph", "Python", "Windows OS", "OpenClaw", "Claude Code"]
+title: Fast-newengland468/CyberClaw
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- LangGraph
+- Python
+- Windows OS
+- OpenClaw
+- Claude Code
 quality_score: 6
 rag_relevance: 7
-tags: ["agent control", "task automation", "transparent operations", "memory management", "user oversight"]
-source: "https://github.com/Fast-newengland468/CyberClaw"
-discovered_at: "2026-07-11T11:03:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent control
+- task automation
+- transparent operations
+- memory management
+- user oversight
+source: https://github.com/Fast-newengland468/CyberClaw
+discovered_at: '2026-07-11T11:03:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

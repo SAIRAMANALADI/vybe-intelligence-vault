@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://changelog.langchain.com/
-published_at: '2026-07-20T03:47:19.653655+05:30'
-collected_at: '2026-07-20T03:47:19.653674+05:30'
+published_at: '2026-07-20T15:13:13.360601+05:30'
+collected_at: '2026-07-20T15:13:13.360618+05:30'
 tags:
 - agents
 - anthropic
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langsmith-cloud-changelog-docs-by-langchain
-first_seen: '2026-07-20T03:47:19.653674+05:30'
-last_seen: '2026-07-20T03:47:19.653674+05:30'
-last_checked: '2026-07-20T03:47:19.653674+05:30'
+first_seen: '2026-07-20T15:13:13.360618+05:30'
+last_seen: '2026-07-20T15:13:13.360618+05:30'
+last_checked: '2026-07-20T15:13:13.360618+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Datasets & Experiments**: Enhanced experiment comparison views with real-time dataset split chips, improved evaluator handling (PEP 604 union types, thread evaluators), and new API endpoints (`POST /v2/datasets/{dataset_id}/experiment-runs`). Legacy dataset comparison helpers deprecated in public OpenAPI spec.
-
-- **Tracing & Engine**: Implemented monthly trace limits, stricter run validation, and improved OpenTelemetry integration (e.g., Vercel AI SDK traces, VS Code Copilot Chat nesting). Engine now retries transient errors and exposes issue management via MCP/SDK.
-
-- **Prompts & Feedback**: Proxy-aware Playground/evaluator calls, new Anthropic models (Claude Sonnet 5/Fable 5/Opus 4.8), and fixed feedback score editing. Self-hosted deployments now support Anthropic-compatible routing via `ENGINE_ANTHROPIC_BASE_URL`.
+- **Datasets & Experiments**: Enhanced experiment comparison views with real-time dataset split chips, improved evaluator handling (PEP 604 union types, thread evaluators), and refined experiment statistics refresh. Legacy dataset comparison helpers deprecated in public OpenAPI spec.
+- **Tracing & Observability**: Enforced monthly trace limits, improved OpenTelemetry trace rendering (VS Code Copilot Chat, Vercel AI SDK), and added ABAC access-control messages. Bulk export compression defaults to zstd; duplicate run payloads now return clearer 409 errors.
+- **Engine & Prompts**: Engine project spend limits now visible in UI; Anthropic Bedrock IAM Trusted Entity fixes for Playground/evaluator calls; added Claude Sonnet 5/Fable 5/Opus 4.8 models. Self-hosted Playground/evaluator proxy support with SSRF validation.
 
 ## Why It Matters
 
@@ -45,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T03:47:19.653655+05:30
+- Published: 2026-07-20T15:13:13.360601+05:30
 
 ## Related Tags
 

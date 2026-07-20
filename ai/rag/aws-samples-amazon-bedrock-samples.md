@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aws-samples/amazon-bedrock-samples
-collected_at: '2026-07-20T03:42:38.292116+05:30'
+collected_at: '2026-07-20T15:06:16.032610+05:30'
 published_at: '2026-07-19T16:39:29Z'
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
+- workflows
 stars: 1476
 language: Jupyter Notebook
 status: active
@@ -18,9 +20,9 @@ archived: false
 created_at: '2023-07-05T18:23:34Z'
 pushed_at: '2026-07-15T23:16:03Z'
 resource_id: github:aws-samples/amazon-bedrock-samples
-first_seen: '2026-07-20T03:42:38.292116+05:30'
-last_seen: '2026-07-20T03:42:38.292116+05:30'
-last_checked: '2026-07-20T03:42:38.292116+05:30'
+first_seen: '2026-07-20T15:06:16.032610+05:30'
+last_seen: '2026-07-20T15:06:16.032610+05:30'
+last_checked: '2026-07-20T15:06:16.032610+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook-based examples for all available foundational models in Amazon Bedrock, including Amazon Titan and other supported models.
+- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook-based examples covering all available foundational models (e.g., Amazon Titan) for Amazon Bedrock, enabling hands-on experimentation and integration.
 
-- **Multi-Feature Demonstrations**: Includes implementations for key Bedrock features such as embeddings, knowledge bases, and Retrieval-Augmented Generation (RAG) using LangChain integration.
+- **Key Technical Components**: Includes implementations for embeddings, generative AI, knowledge bases, and Retrieval-Augmented Generation (RAG) using tools like LangChain, facilitating advanced AI workflows.
 
-- **AWS Service Integration**: Focuses on practical customer use cases, demonstrating how to leverage Amazon Bedrock within AWS ecosystems for generative AI applications.
+- **AWS Service Integration**: Demonstrates practical use cases leveraging Amazon Bedrock’s capabilities within AWS ecosystems, with last update timestamp indicating ongoing maintenance and relevance.
 
 ## Why It Matters
 

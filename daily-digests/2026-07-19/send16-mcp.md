@@ -1,13 +1,23 @@
 ---
-title: "spruikco/send16-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "Docker", "REST API"]
+title: spruikco/send16-mcp
+category: daily-digests/2026-07-19
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- Docker
+- REST API
 quality_score: 8
 rag_relevance: 7
-tags: ["email automation", "MCP server", "AI agent tools", "transactional email", "deliverability"]
-source: "https://github.com/spruikco/send16-mcp"
-discovered_at: "2026-07-11T14:52:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- email automation
+- MCP server
+- AI agent tools
+- transactional email
+- deliverability
+source: https://github.com/spruikco/send16-mcp
+discovered_at: '2026-07-11T14:52:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

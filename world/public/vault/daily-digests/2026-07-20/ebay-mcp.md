@@ -1,13 +1,26 @@
 ---
-title: "YosefHayim/ebay-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Effect (for validation)", "OpenAPI", "OAuth 2.0", "GitHub Actions", "Vitest"]
+title: YosefHayim/ebay-mcp
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Effect (for validation)
+- OpenAPI
+- OAuth 2.0
+- GitHub Actions
+- Vitest
 quality_score: 9
 rag_relevance: 8
-tags: ["eBay API integration", "AI assistant tooling", "Model Context Protocol", "OAuth automation", "inventory management"]
-source: "https://github.com/YosefHayim/ebay-mcp"
-discovered_at: "2026-07-19T13:17:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- eBay API integration
+- AI assistant tooling
+- Model Context Protocol
+- OAuth automation
+- inventory management
+source: https://github.com/YosefHayim/ebay-mcp
+discovered_at: '2026-07-19T13:17:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

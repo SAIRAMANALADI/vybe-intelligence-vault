@@ -1,13 +1,24 @@
 ---
-title: "ojimpo/health-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Docker", "REST API", "Cloudflare Tunnel"]
+title: ojimpo/health-mcp
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Docker
+- REST API
+- Cloudflare Tunnel
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP server", "health data", "cultural activity tracking", "natural language queries", "personal dashboard"]
-source: "https://github.com/ojimpo/health-mcp"
-discovered_at: "2026-07-19T22:50:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- health data
+- cultural activity tracking
+- natural language queries
+- personal dashboard
+source: https://github.com/ojimpo/health-mcp
+discovered_at: '2026-07-19T22:50:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

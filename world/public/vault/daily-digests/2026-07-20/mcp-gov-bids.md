@@ -1,13 +1,22 @@
 ---
-title: "pipeworx-io/mcp-gov-bids"
-category: "Tooling"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "REST API", "JSON"]
+title: pipeworx-io/mcp-gov-bids
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- REST API
+- JSON
 quality_score: 6
 rag_relevance: 7
-tags: ["government bids", "RFP/RFQ", "MCP server", "data aggregation", "US public sector"]
-source: "https://github.com/pipeworx-io/mcp-gov-bids"
-discovered_at: "2026-07-19T20:44:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- government bids
+- RFP/RFQ
+- MCP server
+- data aggregation
+- US public sector
+source: https://github.com/pipeworx-io/mcp-gov-bids
+discovered_at: '2026-07-19T20:44:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

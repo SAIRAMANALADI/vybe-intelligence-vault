@@ -1,13 +1,23 @@
 ---
-title: "reitenji/jarvis-line"
-category: "Tooling"
-tech_stack: ["Python", "Text-to-Speech (TTS)", "macOS CLI", "Kokoro", "Custom TTS Command Support"]
+title: reitenji/jarvis-line
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Python
+- Text-to-Speech (TTS)
+- macOS CLI
+- Kokoro
+- Custom TTS Command Support
 quality_score: 8
 rag_relevance: 7
-tags: ["voice notifications", "AI agent monitoring", "TTS integration", "coding assistant", "session-aware audio"]
-source: "https://github.com/reitenji/jarvis-line"
-discovered_at: "2026-07-19T05:51:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- voice notifications
+- AI agent monitoring
+- TTS integration
+- coding assistant
+- session-aware audio
+source: https://github.com/reitenji/jarvis-line
+discovered_at: '2026-07-19T05:51:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

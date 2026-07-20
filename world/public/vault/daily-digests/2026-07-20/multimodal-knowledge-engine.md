@@ -1,13 +1,28 @@
 ---
-title: "iTao-AI/multimodal-knowledge-engine"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "FastAPI", "MCP (Model Context Protocol)", "CLI", "FTS5 (Full-Text Search)", "CJK (Chinese, Japanese, Korean) retrieval strategies", "pytest", "ruff", "pyright"]
+title: iTao-AI/multimodal-knowledge-engine
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python
+- SQLite
+- FastAPI
+- MCP (Model Context Protocol)
+- CLI
+- FTS5 (Full-Text Search)
+- CJK (Chinese, Japanese, Korean) retrieval strategies
+- pytest
+- ruff
+- pyright
 quality_score: 9
 rag_relevance: 8
-tags: ["local-first", "evidence-engine", "agent-tool", "document-retrieval", "CJK-retrieval"]
-source: "https://github.com/iTao-AI/multimodal-knowledge-engine"
-discovered_at: "2026-07-11T17:54:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first
+- evidence-engine
+- agent-tool
+- document-retrieval
+- CJK-retrieval
+source: https://github.com/iTao-AI/multimodal-knowledge-engine
+discovered_at: '2026-07-11T17:54:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

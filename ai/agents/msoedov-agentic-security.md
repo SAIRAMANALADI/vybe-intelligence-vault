@@ -4,15 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/msoedov/agentic_security
-collected_at: '2026-07-20T03:44:53.368726+05:30'
-published_at: '2026-07-19T00:32:07Z'
+collected_at: '2026-07-20T15:08:30.996611+05:30'
+published_at: '2026-07-19T22:50:41Z'
 tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - python
-stars: 1933
+stars: 1934
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-04-11T17:18:54Z'
 pushed_at: '2026-06-23T07:20:13Z'
 resource_id: github:msoedov/agentic_security
-first_seen: '2026-07-20T03:44:53.368726+05:30'
-last_seen: '2026-07-20T03:44:53.368726+05:30'
-last_checked: '2026-07-20T03:44:53.368726+05:30'
+first_seen: '2026-07-20T15:08:30.996611+05:30'
+last_seen: '2026-07-20T15:08:30.996611+05:30'
+last_checked: '2026-07-20T15:08:30.996611+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Agentic LLM Vulnerability Scanner and AI red-teaming toolkit for evaluating LLM security, jailbreaks, and prompt injection risks.
-- **Features**: Supports LLM fuzzing, vulnerability scanning, guardrail testing, and aggregator frameworks for AI security assessments.
-- **Technical Stack**: Python-based, integrates with agent frameworks for automated LLM security evaluation and testing.
+- **Purpose**: Agentic LLM Vulnerability Scanner and AI red-teaming toolkit designed for evaluating LLM security, jailbreaks, and prompt injections.
+- **Features**: Supports LLM fuzzing, vulnerability scanning, guardrails testing, and prompt-testing frameworks with Python-based agentic architecture.
+- **Scope**: Aggregates LLM fuzzing tools, evaluates LLM vulnerabilities, and integrates agent-based security testing methodologies.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: msoedov
-- Stars: 1933
+- Stars: 1934
 - Forks: 269
 - Language: Python
 - Topics: agent-framework, agent-security, ai-red-team, llm-evaluation, llm-evaluation-framework, llm-fuzzer, llm-fuzzer-aggregator, llm-fuzzing, llm-guardrails, llm-jailbreaks, llm-scanner, llm-security, llm-vulnerabilities, prompt-testing
-- Last Updated: 2026-07-19T00:32:07Z
+- Last Updated: 2026-07-19T22:50:41Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-04-11T17:18:54Z

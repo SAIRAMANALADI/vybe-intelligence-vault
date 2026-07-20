@@ -1,13 +1,27 @@
 ---
-title: "am-space/own-planner"
-category: "Agent Framework"
-tech_stack: [".NET 10", "ASP.NET Core", "React 18", "TypeScript", "Material-UI", "SQLite", "Google Gemini API", "MCP (Model Context Protocol)", "Entity Framework Core"]
+title: am-space/own-planner
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- .NET 10
+- ASP.NET Core
+- React 18
+- TypeScript
+- Material-UI
+- SQLite
+- Google Gemini API
+- MCP (Model Context Protocol)
+- Entity Framework Core
 quality_score: 9
 rag_relevance: 7
-tags: ["AI planning assistant", "task management", "MCP integration", "multi-interface", "GDPR compliance"]
-source: "https://github.com/am-space/own-planner"
-discovered_at: "2026-07-12T17:03:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI planning assistant
+- task management
+- MCP integration
+- multi-interface
+- GDPR compliance
+source: https://github.com/am-space/own-planner
+discovered_at: '2026-07-12T17:03:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

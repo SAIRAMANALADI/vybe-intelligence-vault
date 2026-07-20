@@ -3,18 +3,18 @@ title: Permissions | Node.js v26.5.0 Documentation
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://nodejs.org/api/permissions.html
-published_at: '2026-07-20T01:15:26.624499+05:30'
-collected_at: '2026-07-20T01:15:26.624509+05:30'
+source_url: https://nodejs.org/api/permissions.html#permission-model
+published_at: '2026-07-20T15:13:25.054982+05:30'
+collected_at: '2026-07-20T15:13:25.054995+05:30'
 tags:
 - reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:permissions-node-js-v26-5-0-documentation
-first_seen: '2026-07-20T01:15:26.624509+05:30'
-last_seen: '2026-07-20T01:15:26.624509+05:30'
-last_checked: '2026-07-20T01:15:26.624509+05:30'
+first_seen: '2026-07-20T15:13:25.054995+05:30'
+last_seen: '2026-07-20T15:13:25.054995+05:30'
+last_checked: '2026-07-20T15:13:25.054995+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,11 @@ health_score: 100
 
 ## Summary
 
-- Node.js **Permission Model** (`--permission` flag) restricts access to system resources (FS, network, processes, etc.) by default, throwing `ERR_ACCESS_DENIED` when unauthorized access is attempted.
-- Runtime API exposes `process.permission.has(scope[, reference])` to check permissions and `process.permission.drop(scope[, reference])` to revoke them dynamically.
-- Additional CLI flags (`--allow-net`, `--allow-worker`, etc.) selectively enable restricted features (e.g., networking, worker threads) while maintaining granular control over resource access.
+- **Permission Model**: Introduced in Node.js v20.0.0, the model restricts access to system resources (e.g., file system, network, child processes) via the `--permission` CLI flag, defaulting to a "deny-all" stance unless explicitly allowed.
+
+- **Runtime API**: Exposes `process.permission.has(scope[, reference])` and `process.permission.drop(scope[, reference])` to programmatically check and revoke permissions at runtime for granular control.
+
+- **CLI Flags**: Requires explicit allow flags (e.g., `--allow-net`, `--allow-fs-read`) to enable specific permissions; unsupported operations throw `ERR_ACCESS_DENIED` with details (e.g., `permission: 'FileSystemRead'`).
 
 ## Why It Matters
 
@@ -34,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-20T01:15:26.624499+05:30
+- Published: 2026-07-20T15:13:25.054982+05:30
 
 ## Related Tags
 
@@ -44,4 +46,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://nodejs.org/api/permissions.html
+Original source: https://nodejs.org/api/permissions.html#permission-model

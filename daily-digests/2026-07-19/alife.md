@@ -1,13 +1,29 @@
 ---
-title: "BDFFZI/Alife"
-category: "Agent Framework"
-tech_stack: ["C#", ".NET 10", "Python 3.12", "Semantic Kernel", "Blazor", "Electron.NET", "Live2D", "WebView2", "DuckDB", "PyTorch", "CUDA"]
+title: BDFFZI/Alife
+category: daily-digests/2026-07-19
+tech_stack:
+- C#
+- .NET 10
+- Python 3.12
+- Semantic Kernel
+- Blazor
+- Electron.NET
+- Live2D
+- WebView2
+- DuckDB
+- PyTorch
+- CUDA
 quality_score: 9
 rag_relevance: 8
-tags: ["AI companion", "desktop agent", "LLM integration", "plugin system", "multi-modal interaction"]
-source: "https://github.com/BDFFZI/Alife"
-discovered_at: "2026-07-18T14:50:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI companion
+- desktop agent
+- LLM integration
+- plugin system
+- multi-modal interaction
+source: https://github.com/BDFFZI/Alife
+discovered_at: '2026-07-18T14:50:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

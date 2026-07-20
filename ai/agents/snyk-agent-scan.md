@@ -4,13 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/snyk/agent-scan
-collected_at: '2026-07-19T16:18:47.724760+05:30'
-published_at: '2026-07-17T20:32:30Z'
+collected_at: '2026-07-20T15:08:31.033757+05:30'
+published_at: '2026-07-20T09:03:28Z'
 tags:
 - agents
 - github-repo
 - python
-stars: 2790
+stars: 2792
 language: Python
 status: active
 license: Apache-2.0
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-04-07T14:31:26Z'
 pushed_at: '2026-07-17T11:40:11Z'
 resource_id: github:snyk/agent-scan
-first_seen: '2026-07-19T16:18:47.724760+05:30'
-last_seen: '2026-07-19T16:18:47.724760+05:30'
-last_checked: '2026-07-19T16:18:47.724760+05:30'
+first_seen: '2026-07-20T15:08:31.033757+05:30'
+last_seen: '2026-07-20T15:08:31.033757+05:30'
+last_checked: '2026-07-20T15:08:31.033757+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Security scanner designed to audit AI agents, MCP servers, and agent skills for vulnerabilities and misconfigurations.
-- **Key Features**: Integrates with Snyk’s vulnerability database to detect security flaws in Python-based AI agent ecosystems.
-- **Compatibility**: Supports Model Context Protocol (MCP) and agent frameworks, with last update on 2026-07-17.
+- **Purpose**: Security scanner designed to identify vulnerabilities in AI agents, MCP servers, and agent skills.
+- **Key Features**: Scans for security risks in AI-driven systems using Python, with support for Model Context Protocol (MCP).
+- **Repository Stats**: 2,792 stars, 250 forks, last updated July 20, 2026.
 
 ## Why It Matters
 
@@ -39,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: snyk
-- Stars: 2790
-- Forks: 249
+- Stars: 2792
+- Forks: 250
 - Language: Python
 - Topics: agent, ai, mcp, modelcontextprotocol, security
-- Last Updated: 2026-07-17T20:32:30Z
+- Last Updated: 2026-07-20T09:03:28Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-04-07T14:31:26Z

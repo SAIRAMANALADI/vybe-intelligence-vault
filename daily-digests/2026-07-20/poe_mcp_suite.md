@@ -1,13 +1,26 @@
 ---
-title: "charleslucas/poe_mcp_suite"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Path of Exile API", "Path of Building", "Lua", "Git Submodules", "JSON/YAML", "REST APIs"]
+title: charleslucas/poe_mcp_suite
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Path of Exile API
+- Path of Building
+- Lua
+- Git Submodules
+- JSON/YAML
+- REST APIs
 quality_score: 8
 rag_relevance: 7
-tags: ["Path of Exile", "MCP Server", "Build Simulation", "Trade Integration", "AI Agent Tooling"]
-source: "https://github.com/charleslucas/poe_mcp_suite"
-discovered_at: "2026-07-11T02:27:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Path of Exile
+- MCP Server
+- Build Simulation
+- Trade Integration
+- AI Agent Tooling
+source: https://github.com/charleslucas/poe_mcp_suite
+discovered_at: '2026-07-11T02:27:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

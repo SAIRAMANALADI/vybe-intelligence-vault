@@ -1,13 +1,22 @@
 ---
-title: "Srujan0798/Adaptoid-OS"
-category: "Orchestrator"
-tech_stack: ["Python", "Command-line Interface (CLI)", "Git", "Markdown"]
+title: Srujan0798/Adaptoid-OS
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Python
+- Command-line Interface (CLI)
+- Git
+- Markdown
 quality_score: 8
 rag_relevance: 7
-tags: ["agent orchestration", "AI project completion", "ship gate", "evidence-based workflow", "framework-agnostic"]
-source: "https://github.com/Srujan0798/Adaptoid-OS"
-discovered_at: "2026-07-18T08:09:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent orchestration
+- AI project completion
+- ship gate
+- evidence-based workflow
+- framework-agnostic
+source: https://github.com/Srujan0798/Adaptoid-OS
+discovered_at: '2026-07-18T08:09:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

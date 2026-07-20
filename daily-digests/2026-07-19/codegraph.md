@@ -1,13 +1,32 @@
 ---
-title: "lzehrung/codegraph"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "SQLite", "Mermaid", "DOT", "JavaScript", "Python", "Go", "Java", "C#", "Rust", "SQL"]
+title: lzehrung/codegraph
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- MCP (Model Context Protocol)
+- SQLite
+- Mermaid
+- DOT
+- JavaScript
+- Python
+- Go
+- Java
+- C#
+- Rust
+- SQL
 quality_score: 9
 rag_relevance: 10
-tags: ["code navigation", "dependency analysis", "repository mapping", "agent tooling", "impact analysis"]
-source: "https://github.com/lzehrung/codegraph"
-discovered_at: "2026-07-12T14:54:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code navigation
+- dependency analysis
+- repository mapping
+- agent tooling
+- impact analysis
+source: https://github.com/lzehrung/codegraph
+discovered_at: '2026-07-12T14:54:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

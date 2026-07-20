@@ -1,13 +1,27 @@
 ---
-title: "shuji-bonji/ifc-core-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP SDK", "@modelcontextprotocol/sdk", "Zod", "Vitest", "ESLint", "Prettier", "GitHub Actions"]
+title: shuji-bonji/ifc-core-mcp
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- MCP SDK
+- '@modelcontextprotocol/sdk'
+- Zod
+- Vitest
+- ESLint
+- Prettier
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["IFC specification", "MCP server", "entity lookup", "PropertySets", "inheritance hierarchy"]
-source: "https://github.com/shuji-bonji/ifc-core-mcp"
-discovered_at: "2026-07-13T21:55:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- IFC specification
+- MCP server
+- entity lookup
+- PropertySets
+- inheritance hierarchy
+source: https://github.com/shuji-bonji/ifc-core-mcp
+discovered_at: '2026-07-13T21:55:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

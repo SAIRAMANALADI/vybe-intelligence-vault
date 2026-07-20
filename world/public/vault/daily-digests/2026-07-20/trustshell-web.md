@@ -1,13 +1,23 @@
 ---
-title: "William2333ZZ/trustshell-web"
-category: "Tooling"
-tech_stack: ["TypeScript", "Next.js 14", "Python 3.8+", "React", "Node.js"]
+title: William2333ZZ/trustshell-web
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Next.js 14
+- Python 3.8+
+- React
+- Node.js
 quality_score: 8
 rag_relevance: 7
-tags: ["AI Agent Security", "Vulnerability Scanner", "Self-Hosted Security", "Compliance Baseline", "Zero-Dependency CLI"]
-source: "https://github.com/William2333ZZ/trustshell-web"
-discovered_at: "2026-07-18T02:12:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent Security
+- Vulnerability Scanner
+- Self-Hosted Security
+- Compliance Baseline
+- Zero-Dependency CLI
+source: https://github.com/William2333ZZ/trustshell-web
+discovered_at: '2026-07-18T02:12:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

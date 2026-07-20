@@ -1,13 +1,25 @@
 ---
-title: "EzzoHamdan/house-of-wisdom-mcp"
-category: "Orchestrator"
-tech_stack: ["Python 3.10+", "Model Context Protocol (MCP)", "OpenRouter", "Ollama", "OpenAI-compatible endpoints", "YAML (for configuration)", "uv/uvx (package manager)"]
+title: EzzoHamdan/house-of-wisdom-mcp
+category: daily-digests/2026-07-19
+tech_stack:
+- Python 3.10+
+- Model Context Protocol (MCP)
+- OpenRouter
+- Ollama
+- OpenAI-compatible endpoints
+- YAML (for configuration)
+- uv/uvx (package manager)
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-model consultation", "parallel querying", "model diversity", "MCP server", "context protocol"]
-source: "https://github.com/EzzoHamdan/house-of-wisdom-mcp"
-discovered_at: "2026-07-19T19:13:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-model consultation
+- parallel querying
+- model diversity
+- MCP server
+- context protocol
+source: https://github.com/EzzoHamdan/house-of-wisdom-mcp
+discovered_at: '2026-07-19T19:13:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

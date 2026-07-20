@@ -1,13 +1,23 @@
 ---
-title: "aethynio/aethyn-browser-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Playwright", "Chromium", "Model Context Protocol (MCP)", "Node.js"]
+title: aethynio/aethyn-browser-mcp
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Playwright
+- Chromium
+- Model Context Protocol (MCP)
+- Node.js
 quality_score: 9
 rag_relevance: 9
-tags: ["browser automation", "residential proxies", "AI agent tools", "geolocation control", "MCP server"]
-source: "https://github.com/aethynio/aethyn-browser-mcp"
-discovered_at: "2026-07-11T17:54:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- residential proxies
+- AI agent tools
+- geolocation control
+- MCP server
+source: https://github.com/aethynio/aethyn-browser-mcp
+discovered_at: '2026-07-11T17:54:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Tracer-Cloud/opensre
-collected_at: '2026-07-20T03:44:08.365038+05:30'
-published_at: '2026-07-19T22:13:58Z'
+collected_at: '2026-07-20T15:07:41.011138+05:30'
+published_at: '2026-07-20T09:37:39Z'
 tags:
 - agents
 - github-repo
@@ -13,17 +13,17 @@ tags:
 - rag
 - scripts
 - workflows
-stars: 8753
+stars: 8783
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2026-01-13T00:04:47Z'
-pushed_at: '2026-07-19T19:34:12Z'
+pushed_at: '2026-07-20T07:13:17Z'
 resource_id: github:tracer-cloud/opensre
-first_seen: '2026-07-20T03:44:08.365038+05:30'
-last_seen: '2026-07-20T03:44:08.365038+05:30'
-last_checked: '2026-07-20T03:44:08.365038+05:30'
+first_seen: '2026-07-20T15:07:41.011138+05:30'
+last_seen: '2026-07-20T15:07:41.011138+05:30'
+last_checked: '2026-07-20T15:07:41.011138+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **AI-Powered SRE Automation**: OpenSRE provides an open-source framework for building AI-driven Site Reliability Engineering (SRE) agents, integrating alerting, incident management, and root-cause analysis with observability tools like Datadog and Grafana.
+- **AI SRE Agent Framework**: Open-source Python toolkit enabling the creation of autonomous AI-driven Site Reliability Engineering (SRE) agents for observability, incident management, and root-cause analysis.
 
-- **Multi-Platform Remediation**: Supports automated remediation workflows via Slack and other platforms, enabling real-time incident response and dynamic root-cause identification for cloud-native environments.
+- **Integration Ecosystem**: Supports Datadog, Grafana, Slack, and other observability/alerting platforms for seamless incident detection, alerting, and remediation workflows.
 
-- **Python-Based Toolkit**: Built in Python, the toolkit leverages modern SRE practices, including alert correlation, observability integration, and AI-driven decision-making for scalable incident resolution.
+- **Remediation & Automation**: Provides modular components for automated root-cause analysis (RCA) and incident resolution, leveraging AI to reduce manual SRE intervention.
 
 ## Why It Matters
 
@@ -44,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Tracer-Cloud
-- Stars: 8753
-- Forks: 1210
+- Stars: 8783
+- Forks: 1214
 - Language: Python
 - Topics: ai-sre, alerting, datadog, grafana, incident-management, observability, remediation, root-cause-analysis, site-reliability-engineering, slack, sre
-- Last Updated: 2026-07-19T22:13:58Z
+- Last Updated: 2026-07-20T09:37:39Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-01-13T00:04:47Z
-- Pushed At: 2026-07-19T19:34:12Z
+- Pushed At: 2026-07-20T07:13:17Z
 
 ## Possible Use Cases
 

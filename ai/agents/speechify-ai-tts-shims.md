@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Speechify-AI/tts-shims
-collected_at: '2026-07-20T01:14:31.746163+05:30'
+collected_at: '2026-07-20T15:14:07.014157+05:30'
 published_at: '2026-07-13T18:28:02Z'
 tags:
 - agents
 - github-repo
 - go
 - openai
-- workflows
 stars: 1
 language: Go
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-07-03T11:20:06Z'
 pushed_at: '2026-07-13T18:27:45Z'
 resource_id: github:speechify-ai/tts-shims
-first_seen: '2026-07-20T01:14:31.746163+05:30'
-last_seen: '2026-07-20T01:14:31.746163+05:30'
-last_checked: '2026-07-20T01:14:31.746163+05:30'
+first_seen: '2026-07-20T15:14:07.014157+05:30'
+last_seen: '2026-07-20T15:14:07.014157+05:30'
+last_checked: '2026-07-20T15:14:07.014157+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Provider TTS Shim Layer**: Go-based proxy engine translating provider-specific TTS APIs (OpenAI, ElevenLabs, Cartesia, AWS Polly, etc.) into unified Speechify API calls, enabling voice-agent BYOC (Bring Your Own Codec) integration.
+- **Provider-Agnostic TTS Shim Layer**: Implements Go-based shims for 13 TTS providers (e.g., OpenAI, ElevenLabs, Cartesia) that proxy requests to the Speechify API, enabling unified voice-agent integration via a single binary per provider.
 
-- **Modular Architecture**: Single Go engine with provider-specific binaries, ensuring minimal overhead while maintaining compatibility across 13+ TTS providers via standardized interfaces.
+- **BYOC-Centric Architecture**: Designed for "Bring Your Own Codec" (BYOC) voice-agent systems, abstracting provider-specific TTS APIs into a consistent interface while maintaining provider-specific binaries.
 
-- **Voice-AI Optimization**: Designed for real-time voice-agent workflows, prioritizing low-latency proxying and provider-agnostic voice synthesis while abstracting underlying API complexities.
+- **Minimalist Implementation**: Single Go engine with zero external dependencies (1 star, 0 forks), optimized for lightweight deployment and real-time TTS proxying across supported providers.
 
 ## Why It Matters
 

@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aomediacodec/libavif
-collected_at: '2026-07-18T16:56:23.163175+05:30'
-published_at: '2026-07-18T04:18:43Z'
+collected_at: '2026-07-20T15:13:29.373032+05:30'
+published_at: '2026-07-20T07:33:28Z'
 tags:
 - c
 - github-repo
 - rag
-stars: 2136
+stars: 2138
 language: C
 status: active
 license: NOASSERTION
@@ -18,9 +18,9 @@ archived: false
 created_at: '2019-06-10T17:54:32Z'
 pushed_at: '2026-07-17T13:42:47Z'
 resource_id: github:aomediacodec/libavif
-first_seen: '2026-07-18T16:56:23.163175+05:30'
-last_seen: '2026-07-18T16:56:23.163175+05:30'
-last_checked: '2026-07-18T16:56:23.163175+05:30'
+first_seen: '2026-07-20T15:13:29.373032+05:30'
+last_seen: '2026-07-20T15:13:29.373032+05:30'
+last_checked: '2026-07-20T15:13:29.373032+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: C-based library for encoding and decoding AVIF (AV1 Image File Format) files, leveraging the AV1 codec for high-efficiency compression.
-- **Functionality**: Supports both lossy and lossless encoding/decoding, with compatibility for AV1's intra-frame coding and metadata handling (e.g., ICC profiles, EXIF).
-- **Integration**: Designed as a lightweight dependency for applications requiring AVIF support, with bindings available for other languages via its modular API.
+- **Purpose**: Library for encoding and decoding AV1 Image File Format (AVIF) files, leveraging the AV1 codec for high-efficiency compression.
+- **Implementation**: Written in C, providing low-level APIs for AVIF file manipulation, including support for AV1's intra-frame coding and metadata handling.
+- **Status**: Actively maintained (as of 2026-07-20), with ongoing updates for compatibility and performance improvements.
 
 ## Why It Matters
 
@@ -39,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: aomediacodec
-- Stars: 2136
+- Stars: 2138
 - Forks: 296
 - Language: C
 - Topics: None
-- Last Updated: 2026-07-18T04:18:43Z
+- Last Updated: 2026-07-20T07:33:28Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2019-06-10T17:54:32Z

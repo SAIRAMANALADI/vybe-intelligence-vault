@@ -1,13 +1,22 @@
 ---
-title: "Titor-Z/woman"
-category: "Tooling"
-tech_stack: ["Rust", "AI/ML", "CLI", "Terminal UI"]
+title: Titor-Z/woman
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Rust
+- AI/ML
+- CLI
+- Terminal UI
 quality_score: 4
 rag_relevance: 6
-tags: ["terminal", "document assistant", "AI-powered", "CLI tool", "Rust"]
-source: "https://github.com/Titor-Z/woman"
-discovered_at: "2026-07-12T11:58:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- terminal
+- document assistant
+- AI-powered
+- CLI tool
+- Rust
+source: https://github.com/Titor-Z/woman
+discovered_at: '2026-07-12T11:58:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

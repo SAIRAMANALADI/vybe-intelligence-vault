@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-language SDK Generation**: Stainless generates SDKs in TypeScript (npm), Python (PyPI), Go, Java (Maven), and Kotlin (Maven) for APIs like OpenAI, Modern Treasury, Anthropic, and others.
+- **Multi-language SDK Generation**: Stainless produces SDKs in TypeScript (npm), Python (PyPI), Go, Java (Maven), and Kotlin (Maven) for APIs like OpenAI, Modern Treasury, Anthropic, Cloudflare, and others.
 - **Automated SDK Maintenance**: Uses GitHub Actions for OpenAPI spec updates and a GitHub App to auto-generate Release PRs for SDK repositories.
-- **Integration Workflow**: Requires OpenAPI specs pushed to GitHub, with Stainless App installed to synchronize SDK updates across languages.
+- **Integration Workflow**: Requires OpenAPI specs pushed to GitHub; Stainless generates, maintains, and updates SDKs via automated CI/CD pipeline
 
 ## Use Cases
 

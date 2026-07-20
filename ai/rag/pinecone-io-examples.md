@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pinecone-io/examples
-collected_at: '2026-07-20T03:42:28.157113+05:30'
+collected_at: '2026-07-20T15:06:05.910154+05:30'
 published_at: '2026-07-16T04:02:32Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2021-03-09T19:42:10Z'
 pushed_at: '2026-07-11T20:48:20Z'
 resource_id: github:pinecone-io/examples
-first_seen: '2026-07-20T03:42:28.157113+05:30'
-last_seen: '2026-07-20T03:42:28.157113+05:30'
-last_checked: '2026-07-20T03:42:28.157113+05:30'
+first_seen: '2026-07-20T15:06:05.910154+05:30'
+last_seen: '2026-07-20T15:06:05.910154+05:30'
+last_checked: '2026-07-20T15:06:05.910154+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Hosts Jupyter Notebooks for hands-on experimentation with Pinecone vector databases, covering topics like AI, LLM, RAG, semantic search, and vector search.
-- **Technical Stack**: Primarily Python-based, utilizing Jupyter Notebooks for interactive execution and demonstration of vector database operations.
-- **Metadata**: 3,028 stars, 1,072 forks, last updated July 16, 2026; includes topics such as `ai`, `pinecone`, `rag`, and `vector-database`.
+- **Repository Overview**: Hosts Jupyter Notebooks for hands-on experimentation with Pinecone vector databases, covering topics like AI, LLMs, RAG, semantic search, and vector operations.
+- **Technical Stack**: Primarily Python-based, utilizing Jupyter Notebooks for interactive demonstrations and examples.
+- **Metadata**: 3,028 stars, 1,072 forks, last updated July 16, 2026, with topics including `ai`, `llm`, `pinecone`, `rag`, and `vector-search`.
 
 ## Why It Matters
 

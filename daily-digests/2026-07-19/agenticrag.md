@@ -1,13 +1,29 @@
 ---
-title: "hyx1249207016-netizen/AgenticRAG"
-category: "Agent Framework"
-tech_stack: ["Python", "Ollama", "LangGraph", "ChromaDB", "BGE embeddings", "BM25", "bge-reranker", "FastAPI", "Docker", "Pydantic", "LangChain"]
+title: hyx1249207016-netizen/AgenticRAG
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- Ollama
+- LangGraph
+- ChromaDB
+- BGE embeddings
+- BM25
+- bge-reranker
+- FastAPI
+- Docker
+- Pydantic
+- LangChain
 quality_score: 9
 rag_relevance: 10
-tags: ["Local-first RAG", "ReAct Agent", "Tiered Memory", "Dual Retrieval", "Ollama Integration"]
-source: "https://github.com/hyx1249207016-netizen/AgenticRAG"
-discovered_at: "2026-07-19T15:56:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Local-first RAG
+- ReAct Agent
+- Tiered Memory
+- Dual Retrieval
+- Ollama Integration
+source: https://github.com/hyx1249207016-netizen/AgenticRAG
+discovered_at: '2026-07-19T15:56:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

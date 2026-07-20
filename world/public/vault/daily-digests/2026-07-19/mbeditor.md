@@ -1,13 +1,23 @@
 ---
-title: "republican-tenorsaxophonist510/mbeditor"
-category: "Tooling"
-tech_stack: ["TypeScript", "Docker", "Markdown", "Web Technologies", "AI Integration"]
+title: republican-tenorsaxophonist510/mbeditor
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Docker
+- Markdown
+- Web Technologies
+- AI Integration
 quality_score: 6
 rag_relevance: 5
-tags: ["WeChat publishing", "AI-assisted writing", "Markdown conversion", "local editor", "content automation"]
-source: "https://github.com/republican-tenorsaxophonist510/mbeditor"
-discovered_at: "2026-07-11T11:03:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- WeChat publishing
+- AI-assisted writing
+- Markdown conversion
+- local editor
+- content automation
+source: https://github.com/republican-tenorsaxophonist510/mbeditor
+discovered_at: '2026-07-11T11:03:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

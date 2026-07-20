@@ -1,13 +1,26 @@
 ---
-title: "askac/standterm"
-category: "Tooling"
-tech_stack: ["Python", "xterm.js", "Flask", "WebCrypto", "pyserial", "WSL", "Tkinter", "Playwright"]
+title: askac/standterm
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Python
+- xterm.js
+- Flask
+- WebCrypto
+- pyserial
+- WSL
+- Tkinter
+- Playwright
 quality_score: 9
 rag_relevance: 8
-tags: ["terminal", "SSH", "agent automation", "UART", "browser-based"]
-source: "https://github.com/askac/standterm"
-discovered_at: "2026-07-12T11:58:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- terminal
+- SSH
+- agent automation
+- UART
+- browser-based
+source: https://github.com/askac/standterm
+discovered_at: '2026-07-12T11:58:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

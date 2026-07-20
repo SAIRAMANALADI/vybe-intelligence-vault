@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://policies.google.com/terms
-published_at: '2026-07-14T19:53:16.593122+05:30'
-collected_at: '2026-07-14T19:53:16.593138+05:30'
+published_at: '2026-07-20T15:11:18.005080+05:30'
+collected_at: '2026-07-20T15:11:18.005093+05:30'
 tags:
 - hackernews
 - paper
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:google-terms-of-service-privacy-terms-google
-first_seen: '2026-07-14T19:53:16.593138+05:30'
-last_seen: '2026-07-14T19:53:16.593138+05:30'
-last_checked: '2026-07-14T19:53:16.593138+05:30'
+first_seen: '2026-07-20T15:11:18.005093+05:30'
+last_seen: '2026-07-20T15:11:18.005093+05:30'
+last_checked: '2026-07-20T15:11:18.005093+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Service Provider & Legal Framework**: Google LLC (Delaware-registered, USA) provides services under U.S. law, with age requirements for minors and service-specific policies enforced via additional terms.
+- **Service Provider & Legal Framework**: Google LLC (Delaware-registered, US laws) provides services under updated Terms of Service (effective May 22, 2024), with future revisions planned for July 30, 2026, defining user-Google relationship, compliance obligations, and dispute resolution.
 
-- **Service Usage & Compliance**: Users must adhere to Google’s terms, service-specific rules (e.g., AI prohibitions), and privacy policies, while Google retains IP rights and reserves the right to modify/terminate services with advance notice (except in urgent cases).
+- **Content & AI Usage Policies**: Users retain IP rights over uploaded content but grant Google a license for service operation; prohibits reverse engineering, AI model training on Google-generated content, prompt injection, and fraudulent/deceptive use of generative AI outputs.
 
-- **Content & Conduct Restrictions**: Users retain IP rights to their content but grant Google a license for service operation; prohibited actions include abuse (e.g., malware, phishing), reverse engineering, automated scraping, and AI-generated content misuse.
+- **Abuse Prevention & Enforcement**: Strict rules against malware, phishing, fake accounts, automated scraping (violating `robots.txt`), and IP/privacy rights violations; Google reserves rights to terminate access, report abuse, and provide export tools (e.g., Google Takeout) for user content.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-14T19:53:16.593122+05:30
+- Published: 2026-07-20T15:11:18.005080+05:30
 
 ## Related Tags
 

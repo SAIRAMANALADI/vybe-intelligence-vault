@@ -1,13 +1,29 @@
 ---
-title: "moellere/WireStudio"
-category: "Tooling"
-tech_stack: ["Python", "ESPHome", "KiCad", "OpenSCAD", "FastAPI", "React", "Docker", "CSP (Constraint Satisfaction Problem) solver", "Freerouting (PCB autorouter)", "Model Context Protocol (MCP)", "ChirpStack"]
+title: moellere/WireStudio
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Python
+- ESPHome
+- KiCad
+- OpenSCAD
+- FastAPI
+- React
+- Docker
+- CSP (Constraint Satisfaction Problem) solver
+- Freerouting (PCB autorouter)
+- Model Context Protocol (MCP)
+- ChirpStack
 quality_score: 9
 rag_relevance: 7
-tags: ["ESPHome", "hardware design", "PCB generation", "LoRaWAN", "automation"]
-source: "https://github.com/moellere/WireStudio"
-discovered_at: "2026-07-18T15:55:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- ESPHome
+- hardware design
+- PCB generation
+- LoRaWAN
+- automation
+source: https://github.com/moellere/WireStudio
+discovered_at: '2026-07-18T15:55:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

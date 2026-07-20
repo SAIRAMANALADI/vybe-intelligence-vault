@@ -1,13 +1,22 @@
 ---
-title: "twilareckless401/agent-soul"
-category: "Tooling"
-tech_stack: ["Python", "Git", "Windows OS", "JSON"]
+title: twilareckless401/agent-soul
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Python
+- Git
+- Windows OS
+- JSON
 quality_score: 7
 rag_relevance: 8
-tags: ["memory management", "persistent AI agents", "Git integration", "local-first", "privacy-focused"]
-source: "https://github.com/twilareckless401/agent-soul"
-discovered_at: "2026-07-15T12:14:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory management
+- persistent AI agents
+- Git integration
+- local-first
+- privacy-focused
+source: https://github.com/twilareckless401/agent-soul
+discovered_at: '2026-07-15T12:14:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

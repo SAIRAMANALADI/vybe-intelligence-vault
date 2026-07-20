@@ -1,13 +1,27 @@
 ---
-title: "niyazmft/droid-ai-toolkit"
-category: "Tooling"
-tech_stack: ["Bash", "Termux", "Node.js", "npm/pnpm", "Python", "PM2", "PostgreSQL", "Shell Scripting", "TUI (gum/whiptail)"]
+title: niyazmft/droid-ai-toolkit
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Bash
+- Termux
+- Node.js
+- npm/pnpm
+- Python
+- PM2
+- PostgreSQL
+- Shell Scripting
+- TUI (gum/whiptail)
 quality_score: 9
 rag_relevance: 6
-tags: ["Android AI", "Termux automation", "Mobile AI tools", "AI workflows", "Cross-platform"]
-source: "https://github.com/niyazmft/droid-ai-toolkit"
-discovered_at: "2026-07-16T20:02:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Android AI
+- Termux automation
+- Mobile AI tools
+- AI workflows
+- Cross-platform
+source: https://github.com/niyazmft/droid-ai-toolkit
+discovered_at: '2026-07-16T20:02:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

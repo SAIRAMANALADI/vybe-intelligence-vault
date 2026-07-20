@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://nerdleveltech.com/guides/rag-hands-on-tutorial
-published_at: '2026-07-20T03:42:04.301029+05:30'
-collected_at: '2026-07-20T03:42:04.301045+05:30'
+published_at: '2026-07-20T15:05:42.404688+05:30'
+collected_at: '2026-07-20T15:05:42.404701+05:30'
 tags:
 - agents
 - benchmark
@@ -20,9 +20,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:build-a-rag-system-from-scratch-step-by-step-with
-first_seen: '2026-07-20T03:42:04.301045+05:30'
-last_seen: '2026-07-20T03:42:04.301045+05:30'
-last_checked: '2026-07-20T03:42:04.301045+05:30'
+first_seen: '2026-07-20T15:05:42.404701+05:30'
+last_seen: '2026-07-20T15:05:42.404701+05:30'
+last_checked: '2026-07-20T15:05:42.404701+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Retrieval Pipeline**: Implements BM25 keyword search + vector similarity (OpenAI `text-embedding-3-small`) in ChromaDB, using `k=10` candidates per query, followed by cross-encoder reranking with `BAAI/bge-reranker-base` (free, no API key required) to reorder results by relevance.
+- **Hybrid Search & Reranking**: Implements BM25 + vector search hybrid retrieval using `langchain`'s `BM25Retriever` and `ChromaDB` vector store, followed by cross-encoder reranking with `sentence-transformers` (`all-MiniLM-L6-v2`) to improve precision; BM25 retrieves 20 candidates, vector search retrieves 5, then reranking selects top 4 for generation.
 
-- **Reranking Optimization**: Cross-encoder model assigns relevance scores to hybrid search candidates, improving top-`k` retrieval precision by ~30% over standalone vector or BM25 search, as validated by RAGAS metrics (faithfulness, answer relevancy, context precision/recall).
+- **RAG Chain Enhancement**: Integrates hybrid retrieval into the RAG pipeline with a structured prompt enforcing grounded responses and citation requirements; uses `gpt-4o-mini` for generation with temperature=0 to minimize hallucination, and includes fallback logic for unanswerable queries.
 
-- **Performance Impact**: Hybrid + reranking adds ~1.2s latency per query (total ~4.3s) but reduces hallucinations by enforcing strict grounding to retrieved context, demonstrated by correct refusal to answer out-of-corpus queries (e.g., Word2Vec vs GloVe comparison).
+- **Performance & Evaluation**: Measures end-to-end latency (~3s per query) and validates retrieval quality via ChromaDB similarity scores (L2 distance) and manual inspection; emphasizes prompt engineering as critical to prevent hallucinations and ensure faithfulness to retrieved context.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T03:42:04.301029+05:30
+- Published: 2026-07-20T15:05:42.404688+05:30
 
 ## Related Tags
 

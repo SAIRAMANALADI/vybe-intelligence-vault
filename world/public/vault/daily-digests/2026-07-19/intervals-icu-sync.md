@@ -1,13 +1,25 @@
 ---
-title: "rbrands/intervals-icu-sync"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FastAPI", "JSON Schema", "GitHub Actions", "Jupyter Notebooks", "REST APIs"]
+title: rbrands/intervals-icu-sync
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FastAPI
+- JSON Schema
+- GitHub Actions
+- Jupyter Notebooks
+- REST APIs
 quality_score: 9
 rag_relevance: 8
-tags: ["training data synchronization", "AI coaching", "cycling analytics", "MCP server", "intervals.icu integration"]
-source: "https://github.com/rbrands/intervals-icu-sync"
-discovered_at: "2026-07-11T17:54:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- training data synchronization
+- AI coaching
+- cycling analytics
+- MCP server
+- intervals.icu integration
+source: https://github.com/rbrands/intervals-icu-sync
+discovered_at: '2026-07-11T17:54:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

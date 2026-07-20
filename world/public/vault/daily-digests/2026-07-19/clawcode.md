@@ -1,13 +1,28 @@
 ---
-title: "crisandrews/ClawCode"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "MCP (Model Context Protocol)", "Claude Code Plugin System", "WebSockets", "Cron Jobs", "TTS/STT (ElevenLabs, Whisper, macOS say)", "FastText (for language detection)", "QMD (for semantic memory)"]
+title: crisandrews/ClawCode
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- MCP (Model Context Protocol)
+- Claude Code Plugin System
+- WebSockets
+- Cron Jobs
+- TTS/STT (ElevenLabs, Whisper, macOS say)
+- FastText (for language detection)
+- QMD (for semantic memory)
 quality_score: 9
 rag_relevance: 8
-tags: ["persistent agents", "memory management", "multi-channel messaging", "Claude Code plugin", "context retention"]
-source: "https://github.com/crisandrews/ClawCode"
-discovered_at: "2026-07-11T07:52:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent agents
+- memory management
+- multi-channel messaging
+- Claude Code plugin
+- context retention
+source: https://github.com/crisandrews/ClawCode
+discovered_at: '2026-07-11T07:52:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

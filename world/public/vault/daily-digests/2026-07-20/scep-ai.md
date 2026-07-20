@@ -1,13 +1,23 @@
 ---
-title: "Mkar9182/SCEP-AI"
-category: "Tooling"
-tech_stack: ["Python", "AI/ML", "Windows Desktop App", "Entropy Calculation", "Local Processing"]
+title: Mkar9182/SCEP-AI
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python
+- AI/ML
+- Windows Desktop App
+- Entropy Calculation
+- Local Processing
 quality_score: 6
 rag_relevance: 4
-tags: ["password security", "entropy analysis", "local AI", "Windows utility", "privacy-focused"]
-source: "https://github.com/Mkar9182/SCEP-AI"
-discovered_at: "2026-07-15T14:49:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- password security
+- entropy analysis
+- local AI
+- Windows utility
+- privacy-focused
+source: https://github.com/Mkar9182/SCEP-AI
+discovered_at: '2026-07-15T14:49:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

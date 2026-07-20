@@ -1,13 +1,30 @@
 ---
-title: "gaixianggeng/codex-ipad-agent"
-category: "UI Component"
-tech_stack: ["SwiftUI", "Go", "Rust", "Tailscale", "Codex CLI", "Claude Code", "REST", "WebSocket", "JSON-RPC", "Git Worktrees", "Markdown", "Voice Transcription"]
+title: gaixianggeng/codex-ipad-agent
+category: daily-digests/2026-07-19
+tech_stack:
+- SwiftUI
+- Go
+- Rust
+- Tailscale
+- Codex CLI
+- Claude Code
+- REST
+- WebSocket
+- JSON-RPC
+- Git Worktrees
+- Markdown
+- Voice Transcription
 quality_score: 8
 rag_relevance: 7
-tags: ["mobile agent control", "local-first", "codex integration", "git workflows", "Tailscale"]
-source: "https://github.com/gaixianggeng/codex-ipad-agent"
-discovered_at: "2026-07-19T08:13:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- mobile agent control
+- local-first
+- codex integration
+- git workflows
+- Tailscale
+source: https://github.com/gaixianggeng/codex-ipad-agent
+discovered_at: '2026-07-19T08:13:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

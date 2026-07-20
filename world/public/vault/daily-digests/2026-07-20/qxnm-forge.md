@@ -1,13 +1,30 @@
 ---
-title: "qxcnm/qxnm-forge"
-category: "Agent Framework"
-tech_stack: ["Rust", ".NET", "SQLite", "SeaORM", "EF Core", "JSON-RPC", "OpenAI API", "Groq API", "Mistral API", "MiniMax API", "Google Generative AI", "OpenRouter"]
+title: qxcnm/qxnm-forge
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Rust
+- .NET
+- SQLite
+- SeaORM
+- EF Core
+- JSON-RPC
+- OpenAI API
+- Groq API
+- Mistral API
+- MiniMax API
+- Google Generative AI
+- OpenRouter
 quality_score: 8
 rag_relevance: 9
-tags: ["AI Agent", "Multi-language", "JSON-RPC", "Tool Execution", "Session Management"]
-source: "https://github.com/qxcnm/qxnm-forge"
-discovered_at: "2026-07-19T02:30:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent
+- Multi-language
+- JSON-RPC
+- Tool Execution
+- Session Management
+source: https://github.com/qxcnm/qxnm-forge
+discovered_at: '2026-07-19T02:30:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://nodejs.org/
-published_at: '2026-07-20T01:12:14.227398+05:30'
-collected_at: '2026-07-20T01:12:14.227411+05:30'
+published_at: '2026-07-20T15:16:53.494113+05:30'
+collected_at: '2026-07-20T15:16:53.494121+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:node-js-run-javascript-everywhere
-first_seen: '2026-07-20T01:12:14.227411+05:30'
-last_seen: '2026-07-20T01:12:14.227411+05:30'
-last_checked: '2026-07-20T01:12:14.227411+05:30'
+first_seen: '2026-07-20T15:16:53.494121+05:30'
+last_seen: '2026-07-20T15:16:53.494121+05:30'
+last_checked: '2026-07-20T15:16:53.494121+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Node.js** is a cross-platform JavaScript runtime enabling server-side execution, CLI tool development, and script creation via an event-driven, non-blocking I/O model.
-- **Core capabilities** include HTTP server creation, file handling (e.g., reading/hashing), stream pipelines, and multi-threading via worker threads.
-- **Example HTTP server** demonstrates minimal setup: `createServer()` listens on port 3000, responding with "Hello World!" upon requests.
+- **Node.js** is a cross-platform JavaScript runtime enabling server-side execution of JavaScript, facilitating creation of HTTP servers, CLI tools, and scripts via event-driven, non-blocking I/O model.
+
+- **Core Capabilities**: Includes native modules for HTTP server creation (`node:http`), file system operations, cryptographic hashing, stream processing, and worker threads for parallel execution.
+
+- **Execution**: Runs JavaScript files (e.g., `server.mjs`) using the `node` command, with ES modules supported via `.mjs` extension or `"type": "module"` in `package.json`.
 
 ## Why It Matters
 
@@ -32,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-20T01:12:14.227398+05:30
+- Published: 2026-07-20T15:16:53.494113+05:30
 
 ## Related Tags
 

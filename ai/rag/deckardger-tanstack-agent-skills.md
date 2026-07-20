@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-07-20T03:44:28.322691+05:30'
+collected_at: '2026-07-20T15:08:05.989737+05:30'
 published_at: '2026-07-19T01:32:42Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - rag
 - reddit
 - unknown
-- workflows
 stars: 196
 language: Unknown
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-07-20T03:44:28.322691+05:30'
-last_seen: '2026-07-20T03:44:28.322691+05:30'
-last_checked: '2026-07-20T03:44:28.322691+05:30'
+first_seen: '2026-07-20T15:08:05.989737+05:30'
+last_seen: '2026-07-20T15:08:05.989737+05:30'
+last_checked: '2026-07-20T15:08:05.989737+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized State Management**: Implements advanced caching and background refetching strategies in TanStack Query to minimize redundant API calls and ensure data consistency in AI-driven applications.
+- **Best Practices for TanStack Query**: Optimizes data fetching with stale-while-revalidate (SWR), automatic background refetching, and efficient caching strategies to minimize redundant API calls in AI-driven applications.
 
-- **Efficient Routing for AI Workflows**: Utilizes TanStack Router to dynamically handle complex navigation patterns and state synchronization, enabling seamless transitions between AI agent tasks and user interactions.
+- **TanStack Router Integration**: Leverages file-based routing and type-safe navigation for AI agents, ensuring dynamic route handling with minimal boilerplate while maintaining performance.
 
-- **Performance-Driven Startup**: Leverages TanStack Start for optimized initial load times and lazy-loaded dependencies, reducing latency in AI coding agent environments.
+- **TanStack Start Optimization**: Focuses on server-side rendering (SSR) and hydration techniques to reduce initial load times, enabling faster agent response in real-time applications.
 
 ## Why It Matters
 

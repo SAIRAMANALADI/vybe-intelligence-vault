@@ -1,13 +1,32 @@
 ---
-title: "rizwan3d/NanoAgent"
-category: "Agent Framework"
-tech_stack: ["C#", ".NET", "TypeScript", "Electron", "VS Code Extension API", "Visual Studio Extension API", "GitHub Actions", "GitLab CI", "Bitbucket Pipelines", "OpenAI API", "Anthropic API", "Ollama", "LM Studio", "Spectre.Console"]
+title: rizwan3d/NanoAgent
+category: daily-digests/2026-07-19
+tech_stack:
+- C#
+- .NET
+- TypeScript
+- Electron
+- VS Code Extension API
+- Visual Studio Extension API
+- GitHub Actions
+- GitLab CI
+- Bitbucket Pipelines
+- OpenAI API
+- Anthropic API
+- Ollama
+- LM Studio
+- Spectre.Console
 quality_score: 9
 rag_relevance: 8
-tags: ["AI coding agent", "local-first", "multi-surface", "CI automation", "IDE integration"]
-source: "https://github.com/rizwan3d/NanoAgent"
-discovered_at: "2026-07-17T22:47:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding agent
+- local-first
+- multi-surface
+- CI automation
+- IDE integration
+source: https://github.com/rizwan3d/NanoAgent
+discovered_at: '2026-07-17T22:47:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

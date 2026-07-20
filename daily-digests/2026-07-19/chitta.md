@@ -1,13 +1,27 @@
 ---
-title: "Nipurn123/chitta"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Bun", "SQLite", "ArangoDB", "Qdrant", "MCP (Model Context Protocol)", "LibSQL", "Hugging Face Transformers", "Javascript/Node.js"]
+title: Nipurn123/chitta
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Bun
+- SQLite
+- ArangoDB
+- Qdrant
+- MCP (Model Context Protocol)
+- LibSQL
+- Hugging Face Transformers
+- Javascript/Node.js
 quality_score: 9
 rag_relevance: 10
-tags: ["permission-aware memory", "knowledge graph", "MCP server", "multi-tenant ACL", "temporal reasoning"]
-source: "https://github.com/Nipurn123/chitta"
-discovered_at: "2026-07-12T17:03:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- permission-aware memory
+- knowledge graph
+- MCP server
+- multi-tenant ACL
+- temporal reasoning
+source: https://github.com/Nipurn123/chitta
+discovered_at: '2026-07-12T17:03:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

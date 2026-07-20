@@ -1,13 +1,25 @@
 ---
-title: "arturkorb3/cli-agent"
-category: "Agent Framework"
-tech_stack: ["Node.js", "JavaScript", "Anthropic API", "OpenAI API", "SSE (Server-Sent Events)", "JSONL", "TUI (Terminal User Interface)"]
+title: arturkorb3/cli-agent
+category: daily-digests/2026-07-19
+tech_stack:
+- Node.js
+- JavaScript
+- Anthropic API
+- OpenAI API
+- SSE (Server-Sent Events)
+- JSONL
+- TUI (Terminal User Interface)
 quality_score: 9
 rag_relevance: 8
-tags: ["CLI agent", "self-aware agent", "terminal automation", "workspace confinement", "approval system"]
-source: "https://github.com/arturkorb3/cli-agent"
-discovered_at: "2026-07-10T13:11:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CLI agent
+- self-aware agent
+- terminal automation
+- workspace confinement
+- approval system
+source: https://github.com/arturkorb3/cli-agent
+discovered_at: '2026-07-10T13:11:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

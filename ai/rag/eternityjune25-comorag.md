@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-20T03:43:28.274857+05:30'
+collected_at: '2026-07-20T15:07:05.934726+05:30'
 published_at: '2026-07-13T12:27:27Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-20T03:43:28.274857+05:30'
-last_seen: '2026-07-20T03:43:28.274857+05:30'
-last_checked: '2026-07-20T03:43:28.274857+05:30'
+first_seen: '2026-07-20T15:07:05.934726+05:30'
+last_seen: '2026-07-20T15:07:05.934726+05:30'
+last_checked: '2026-07-20T15:07:05.934726+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning by structuring memory hierarchically for contextual coherence.
+- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retention.
 
-- **Stateful Long Narrative Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual state across extended dialogues or narratives, enhancing reasoning consistency in multi-turn interactions.
+- **Stateful Reasoning Enhancement**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended dialogues or narratives, leveraging episodic and semantic memory layers.
 
-- **Python Implementation**: Provides an open-source Python-based implementation with modular components for memory organization, retrieval, and integration with LLM backends, optimized for AAAI 2026 poster presentation standards.
+- **AAAI 2026 Contribution**: Proposes a novel RAG variant optimized for long-form reasoning tasks, validated through empirical benchmarks and comparative analysis against traditional RAG systems.
 
 ## Why It Matters
 

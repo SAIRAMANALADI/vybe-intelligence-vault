@@ -1,13 +1,24 @@
 ---
-title: "DaizeDong/email-monitor"
-category: "Tooling"
-tech_stack: ["Python", "Gmail IMAP", "Discord API", "LLM (for classification)", "DPAPI (for secrets management)", "JSON (for configuration)"]
+title: DaizeDong/email-monitor
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- Gmail IMAP
+- Discord API
+- LLM (for classification)
+- DPAPI (for secrets management)
+- JSON (for configuration)
 quality_score: 8
 rag_relevance: 7
-tags: ["email automation", "inbox triage", "Gmail monitoring", "LLM classification", "local-first"]
-source: "https://github.com/DaizeDong/email-monitor"
-discovered_at: "2026-07-17T08:07:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- email automation
+- inbox triage
+- Gmail monitoring
+- LLM classification
+- local-first
+source: https://github.com/DaizeDong/email-monitor
+discovered_at: '2026-07-17T08:07:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

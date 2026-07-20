@@ -5,7 +5,7 @@ archive_category: ai-tools-products
 source_category: ai/models
 source_url: https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2
 resource_id: huggingface:blog/huggingface/one-year-since-the-deepseek-moment-blog-2
-local_vault_path: ai/models/architectural-choices-in-china-s-open-source-ai-ec.md
+local_vault_path: ai/models/huggingface-blog-huggingface-one-year-since-the-deepseek-moment-blog-2.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/huggingface/one-year-since-the-
 
 ## Local Vault File
 
-Path: [architectural-choices-in-china-s-open-source-ai-ec.md](../../ai/models/architectural-choices-in-china-s-open-source-ai-ec.md)
+Path: [huggingface-blog-huggingface-one-year-since-the-deepseek-moment-blog-2.md](../../ai/models/huggingface-blog-huggingface-one-year-since-the-deepseek-moment-blog-2.md)

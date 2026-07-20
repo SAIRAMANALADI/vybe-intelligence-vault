@@ -3,17 +3,17 @@ title: Medium
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://medium.com/creators
-published_at: '2026-07-20T03:49:17.315640+05:30'
-collected_at: '2026-07-20T03:49:17.315657+05:30'
+source_url: https://about.medium.com/
+published_at: '2026-07-20T15:14:12.235707+05:30'
+collected_at: '2026-07-20T15:14:12.235721+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:medium
-first_seen: '2026-07-20T03:49:17.315657+05:30'
-last_seen: '2026-07-20T03:49:17.315657+05:30'
-last_checked: '2026-07-20T03:49:17.315657+05:30'
+first_seen: '2026-07-20T15:14:12.235721+05:30'
+last_seen: '2026-07-20T15:14:12.235721+05:30'
+last_checked: '2026-07-20T15:14:12.235721+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Earnings Model**: Medium’s Partner Program compensates writers based on member engagement metrics, including read time (≥30s), claps, highlights, replies, new follows, and Boosted story interactions, with payouts scaling with sustained reader engagement.
+- **Mission & Model**: Medium is a content platform prioritizing depth, nuance, and thoughtful discourse over sensationalism, funded by a community of over 1M paying members rather than ads or data monetization.
 
-- **Quality Prioritization**: The program explicitly de-emphasizes clickbait, rewarding long-form, high-quality content that fosters meaningful reader interaction and community growth.
+- **User Base & Content**: Hosts 100M+ monthly active users (developers, writers, executives, etc.) publishing long-form content on personal experiences, expertise, and insights.
 
-- **Calculation Framework**: Earnings are derived from a weighted combination of total views, read duration, and reader actions, with additional bonuses for follower retention and Boosted content.
+- **Core Features**: Provides a minimalist, collaborative writing environment with built-in audience discovery, supporting both reading and publishing without requiring pre-existing followers.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T03:49:17.315640+05:30
+- Published: 2026-07-20T15:14:12.235707+05:30
 
 ## Related Tags
 
@@ -44,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://medium.com/creators
+Original source: https://about.medium.com/

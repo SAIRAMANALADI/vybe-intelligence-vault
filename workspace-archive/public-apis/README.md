@@ -8,21 +8,19 @@ Public developer APIs supply external context and utilities for LLM tools.
 
 ## Top Matched Resources
 
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app?source=post_page-----dba899ae0355---------------------------------------) (template - ESSENTIAL Tier)
 - [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
-- [FastAPI - FastAPI](https://fastapi.tiangolo.com/) (template - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
-- [azure-ai-docs/articles/search/index.yml at main · MicrosoftDocs/azure-ai-docs · GitHub](https://github.com/MicrosoftDocs/azure-ai-docs/blob/main/articles/search/index.yml) (framework - USEFUL Tier)
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app?source=) (template - USEFUL Tier)
-- [docs/content/index.md at main · github/docs · GitHub](https://github.com/github/docs/blob/main/content/index.md) (framework - USEFUL Tier)
+- [The Compass REST API](https://developer.atlassian.com/cloud/compass/rest/v1/intro/#about) (tutorial - USEFUL Tier)
+- [Tensorblue - YouTube](https://www.youtube.com/@tensorblue) (tutorial - USEFUL Tier)
+- [Overview (egeria 6.1-SNAPSHOT API)](https://odpi.github.io/egeria/index.html) (dataset - USEFUL Tier)
+- [Marquez Project | Marquez Project](https://marquezproject.github.io/marquez) (dataset - USEFUL Tier)
+- [Docker Hub | Docker Docs](https://docs.docker.com/docker-hub) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/public-apis/public-apis (Public APIs)
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app?source=post_page-----dba899ae0355---------------------------------------)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
-- [docs/content/index.md at main · github/docs · GitHub](https://github.com/github/docs/blob/main/content/index.md)
 
 ## Best Learning Resources
 
@@ -40,4 +38,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-07-18 17:05 IST*
+*Last updated: 2026-07-20 15:22 IST*

@@ -1,13 +1,31 @@
 ---
-title: "open-assistant-org/open-assistant"
-category: "Agent Framework"
-tech_stack: ["Python 3.11+", "FastAPI", "Docker", "SQLite", "Playwright", "APScheduler", "Node.js", "Microsoft Graph API", "Google APIs", "Notion API", "Nextcloud WebDAV", "Brave Search API", "whatsapp-web.js"]
+title: open-assistant-org/open-assistant
+category: daily-digests/2026-07-19
+tech_stack:
+- Python 3.11+
+- FastAPI
+- Docker
+- SQLite
+- Playwright
+- APScheduler
+- Node.js
+- Microsoft Graph API
+- Google APIs
+- Notion API
+- Nextcloud WebDAV
+- Brave Search API
+- whatsapp-web.js
 quality_score: 9
 rag_relevance: 6
-tags: ["multi-agent", "self-hosted", "productivity", "LLM tool calling", "automation"]
-source: "https://github.com/open-assistant-org/open-assistant"
-discovered_at: "2026-07-18T13:09:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent
+- self-hosted
+- productivity
+- LLM tool calling
+- automation
+source: https://github.com/open-assistant-org/open-assistant
+discovered_at: '2026-07-18T13:09:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -3,7 +3,7 @@ title: EverPass
 archive_category: frontend-ai-ui
 source_category: ai/resources
 source_url: https://help.upshow.tv/hc/en-us
-resource_id: blog:everpass
+resource_id: blog:everpass-203902cf
 local_vault_path: ai/resources/everpass.md
 quality_score: 70
 archive_score: 72

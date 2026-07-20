@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Polymarket/agents
-collected_at: '2026-07-20T03:45:23.440912+05:30'
-published_at: '2026-07-19T22:14:12Z'
+collected_at: '2026-07-20T15:08:56.067011+05:30'
+published_at: '2026-07-20T08:49:27Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 3743
+stars: 3745
 language: Python
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: true
 created_at: '2024-07-03T22:44:18Z'
 pushed_at: '2024-11-05T15:40:29Z'
 resource_id: github:polymarket/agents
-first_seen: '2026-07-20T03:45:23.440912+05:30'
-last_seen: '2026-07-20T03:45:23.440912+05:30'
-last_checked: '2026-07-20T03:45:23.440912+05:30'
+first_seen: '2026-07-20T15:08:56.067011+05:30'
+last_seen: '2026-07-20T15:08:56.067011+05:30'
+last_checked: '2026-07-20T15:08:56.067011+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Trading Framework**: Python-based repository enabling AI agents to execute trades autonomously on Polymarket, leveraging market-making and prediction strategies.
+- **Autonomous Trading Framework**: Python-based repository enabling AI agents to execute trades autonomously on Polymarket, leveraging market-making and predictive modeling strategies.
 
-- **Modular Architecture**: Designed for extensibility with configurable components for order execution, risk management, and strategy adaptation.
+- **Modular Architecture**: Designed with extensible components for strategy implementation, order execution, and real-time market data ingestion via Polymarket’s API.
 
-- **Real-Time Market Interaction**: Integrates with Polymarket’s API for live data streaming, order placement, and event-driven trade execution.
+- **Open-Source Toolkit**: Provides reusable libraries for agent-based trading, risk management, and liquidity provision, with active community contributions (3745 stars, 826 forks).
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Polymarket
-- Stars: 3743
-- Forks: 827
+- Stars: 3745
+- Forks: 826
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-19T22:14:12Z
+- Last Updated: 2026-07-20T08:49:27Z
 - License: MIT
 - Archived: Yes
 - Created At: 2024-07-03T22:44:18Z

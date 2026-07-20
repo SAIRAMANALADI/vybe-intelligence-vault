@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-20T03:43:33.282524+05:30'
+collected_at: '2026-07-20T15:07:10.938280+05:30'
 published_at: '2026-07-02T21:11:00Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-20T03:43:33.282524+05:30'
-last_seen: '2026-07-20T03:43:33.282524+05:30'
-last_checked: '2026-07-20T03:43:33.282524+05:30'
+first_seen: '2026-07-20T15:07:10.938280+05:30'
+last_seen: '2026-07-20T15:07:10.938280+05:30'
+last_checked: '2026-07-20T15:07:10.938280+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **UniversalRAG Framework**: Introduces a retrieval-augmented generation (RAG) system designed to handle diverse modalities (text, images, tables) and granularities (document, paragraph, sentence) in a unified architecture, leveraging modality-agnostic embeddings and fusion mechanisms.
+- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation across diverse modalities (e.g., text, images, tables) and granularities (e.g., documents, paragraphs, entities), leveraging a unified retrieval mechanism.
 
-- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval mechanism using a shared embedding space, enabling efficient retrieval of relevant information across heterogeneous data types without modality-specific encoders.
+- **ACL 2026 Oral Presentation**: The system is highlighted as an oral presentation at ACL 2026, indicating significant advancements in scalable, cross-modal retrieval for generative AI tasks.
 
-- **Adaptive Granularity Handling**: Dynamically adjusts retrieval granularity based on query complexity and corpus structure, optimizing performance via hierarchical indexing and multi-granularity fusion strategies.
+- **Python-Based Implementation**: The repository provides a Python-based implementation optimized for integrating heterogeneous data sources into LLM pipelines, with modular components for retrieval, fusion, and generation.
 
 ## Why It Matters
 

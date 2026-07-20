@@ -1,13 +1,31 @@
 ---
-title: "agenthill/vaultpilot-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Ledger Hardware Wallets", "WalletConnect", "USB HID", "Ethereum", "Solana", "Bitcoin", "Litecoin", "TRON", "Zod", "Docker", "pnpm"]
+title: agenthill/vaultpilot-mcp
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- Ledger Hardware Wallets
+- WalletConnect
+- USB HID
+- Ethereum
+- Solana
+- Bitcoin
+- Litecoin
+- TRON
+- Zod
+- Docker
+- pnpm
 quality_score: 9
 rag_relevance: 10
-tags: ["DeFi", "Hardware Security", "Multi-Chain", "AI Agents", "Transaction Signing"]
-source: "https://github.com/agenthill/vaultpilot-mcp"
-discovered_at: "2026-07-19T20:44:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- DeFi
+- Hardware Security
+- Multi-Chain
+- AI Agents
+- Transaction Signing
+source: https://github.com/agenthill/vaultpilot-mcp
+discovered_at: '2026-07-19T20:44:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

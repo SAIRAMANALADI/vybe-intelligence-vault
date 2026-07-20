@@ -1,13 +1,31 @@
 ---
-title: "parthjadhao01/chess"
-category: "Agent Framework"
-tech_stack: ["Next.js", "Express", "TypeScript", "PostgreSQL", "Redis", "WebSocket", "Model Context Protocol (MCP)", "OpenRouter API", "Exa API", "Prisma ORM", "Docker", "Turborepo", "pnpm"]
+title: parthjadhao01/chess
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Next.js
+- Express
+- TypeScript
+- PostgreSQL
+- Redis
+- WebSocket
+- Model Context Protocol (MCP)
+- OpenRouter API
+- Exa API
+- Prisma ORM
+- Docker
+- Turborepo
+- pnpm
 quality_score: 9
 rag_relevance: 7
-tags: ["chess", "multiplayer", "LLM agent", "policy engine", "MCP architecture"]
-source: "https://github.com/parthjadhao01/chess"
-discovered_at: "2026-07-14T10:07:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- chess
+- multiplayer
+- LLM agent
+- policy engine
+- MCP architecture
+source: https://github.com/parthjadhao01/chess
+discovered_at: '2026-07-14T10:07:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

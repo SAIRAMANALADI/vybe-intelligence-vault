@@ -1,13 +1,31 @@
 ---
-title: "jcdavis131/dottie"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "PyTorch", "ONNX", "WASM", "uv", "Docker", "Supabase", "Cloudflare Workers", "Hugging Face", "Jupyter", "GitHub Actions", "Mermaid.js"]
+title: jcdavis131/dottie
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python
+- FastAPI
+- PyTorch
+- ONNX
+- WASM
+- uv
+- Docker
+- Supabase
+- Cloudflare Workers
+- Hugging Face
+- Jupyter
+- GitHub Actions
+- Mermaid.js
 quality_score: 9
 rag_relevance: 10
-tags: ["MLOps", "Self-evolving agents", "LLM training", "Agent OS", "Closed-loop automation"]
-source: "https://github.com/jcdavis131/dottie"
-discovered_at: "2026-07-19T17:59:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MLOps
+- Self-evolving agents
+- LLM training
+- Agent OS
+- Closed-loop automation
+source: https://github.com/jcdavis131/dottie
+discovered_at: '2026-07-19T17:59:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

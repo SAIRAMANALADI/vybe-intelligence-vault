@@ -1,13 +1,23 @@
 ---
-title: "cyanheads/libofcongress-mcp-server"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "Model Context Protocol (MCP)", "Node.js", "Docker"]
+title: cyanheads/libofcongress-mcp-server
+category: daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Bun
+- Model Context Protocol (MCP)
+- Node.js
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["Library of Congress", "OCR", "MCP Server", "Digital Collections", "Newspapers"]
-source: "https://github.com/cyanheads/libofcongress-mcp-server"
-discovered_at: "2026-07-16T05:39:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Library of Congress
+- OCR
+- MCP Server
+- Digital Collections
+- Newspapers
+source: https://github.com/cyanheads/libofcongress-mcp-server
+discovered_at: '2026-07-16T05:39:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

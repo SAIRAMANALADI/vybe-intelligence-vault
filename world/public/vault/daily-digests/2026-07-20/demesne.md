@@ -1,13 +1,28 @@
 ---
-title: "jbeshir/demesne"
-category: "Orchestrator"
-tech_stack: ["Go", "Docker", "OpenSandbox", "MCP (Model Context Protocol)", "Playwright", "Chromium", "ffmpeg", "ImageMagick", "Claude Code", "Codex"]
+title: jbeshir/demesne
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Go
+- Docker
+- OpenSandbox
+- MCP (Model Context Protocol)
+- Playwright
+- Chromium
+- ffmpeg
+- ImageMagick
+- Claude Code
+- Codex
 quality_score: 9
 rag_relevance: 10
-tags: ["agent orchestration", "sandboxing", "containerized execution", "MCP server", "AI task delegation"]
-source: "https://github.com/jbeshir/demesne"
-discovered_at: "2026-07-18T20:44:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent orchestration
+- sandboxing
+- containerized execution
+- MCP server
+- AI task delegation
+source: https://github.com/jbeshir/demesne
+discovered_at: '2026-07-18T20:44:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

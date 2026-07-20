@@ -1,13 +1,22 @@
 ---
-title: "Boltdenbegin/Review-Agent-With-Memory-2026"
-category: "Tooling"
-tech_stack: ["Python", "Windows Desktop Application", "Git Integration", "AI/ML (Learning Capability)"]
+title: Boltdenbegin/Review-Agent-With-Memory-2026
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Python
+- Windows Desktop Application
+- Git Integration
+- AI/ML (Learning Capability)
 quality_score: 5
 rag_relevance: 4
-tags: ["code review", "AI agent", "Windows desktop", "team compliance", "automated validation"]
-source: "https://github.com/Boltdenbegin/Review-Agent-With-Memory-2026"
-discovered_at: "2026-07-18T09:23:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code review
+- AI agent
+- Windows desktop
+- team compliance
+- automated validation
+source: https://github.com/Boltdenbegin/Review-Agent-With-Memory-2026
+discovered_at: '2026-07-18T09:23:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

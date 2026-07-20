@@ -1,13 +1,28 @@
 ---
-title: "Smart75850/smart-agent"
-category: "Agent Framework"
-tech_stack: ["Python 3.12+", "LangGraph", "FastMCP", "Playwright", "Scrapling", "DeepSeek V4 API", "Go", "FastAPI", "WebSocket", "Docker"]
+title: Smart75850/smart-agent
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Python 3.12+
+- LangGraph
+- FastMCP
+- Playwright
+- Scrapling
+- DeepSeek V4 API
+- Go
+- FastAPI
+- WebSocket
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-platform scraping", "AI agent orchestration", "social media analysis", "trend detection", "MCP server"]
-source: "https://github.com/Smart75850/smart-agent"
-discovered_at: "2026-07-18T16:56:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-platform scraping
+- AI agent orchestration
+- social media analysis
+- trend detection
+- MCP server
+source: https://github.com/Smart75850/smart-agent
+discovered_at: '2026-07-18T16:56:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

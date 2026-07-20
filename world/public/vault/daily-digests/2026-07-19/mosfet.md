@@ -1,13 +1,24 @@
 ---
-title: "busycaesar/Mosfet"
-category: "Agent Framework"
-tech_stack: ["Python", "OpenAI SDK", "Anthropic SDK", "Ollama", "CLI", "Virtual Environments"]
+title: busycaesar/Mosfet
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Python
+- OpenAI SDK
+- Anthropic SDK
+- Ollama
+- CLI
+- Virtual Environments
 quality_score: 7
 rag_relevance: 8
-tags: ["LLM Agent", "Modular Skills", "Tool Integration", "Model-Agnostic", "Terminal Chat"]
-source: "https://github.com/busycaesar/Mosfet"
-discovered_at: "2026-07-19T11:56:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LLM Agent
+- Modular Skills
+- Tool Integration
+- Model-Agnostic
+- Terminal Chat
+source: https://github.com/busycaesar/Mosfet
+discovered_at: '2026-07-19T11:56:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
