@@ -1,13 +1,26 @@
 ---
-title: "Arsenyrud/antrophic_in_telegram"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Telegram Bot API", "Claude Code SDK", "grammY (Telegram bot framework)", "systemd", "Bash", "Git"]
+title: Arsenyrud/antrophic_in_telegram
+category: daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Node.js
+- Telegram Bot API
+- Claude Code SDK
+- grammY (Telegram bot framework)
+- systemd
+- Bash
+- Git
 quality_score: 9
 rag_relevance: 7
-tags: ["Claude Code", "self-hosted", "Telegram bot", "autonomous agents", "code execution"]
-source: "https://github.com/Arsenyrud/antrophic_in_telegram"
-discovered_at: "2026-07-16T20:02:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- self-hosted
+- Telegram bot
+- autonomous agents
+- code execution
+source: https://github.com/Arsenyrud/antrophic_in_telegram
+discovered_at: '2026-07-16T20:02:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

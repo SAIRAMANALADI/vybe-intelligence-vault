@@ -18,11 +18,11 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | `mcp-registry/` | 70 |
 | [Tools - Model Context Protocol](https://modelcontextprotocol.io/specification/latest/server/tools) | `mcp-registry/` | 70 |
 | [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) | `mcp-registry/` | 70 |
+| [Scite Status](https://status.scite.ai) | `mcp-registry/` | 70 |
 | [Zoom Privacy Statement | Zoom](https://zoom.us/privacy) | `mcp-registry/` | 70 |
 | [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) | `mcp-registry/` | 70 |
 | [Black Forest Labs · GitHub](https://github.com/black-forest-labs) | `mcp-registry/` | 70 |
 | [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) | `mcp-registry/` | 70 |
 | [Welcome to the Planetary Data System](https://pds.nasa.gov) | `mcp-registry/` | 70 |
-| [mukul975/cve-mcp-server](https://github.com/mukul975/cve-mcp-server) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

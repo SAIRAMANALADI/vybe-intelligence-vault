@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-07-20T20:06:23.429542+05:30'
+collected_at: '2026-07-20T22:17:06.939637+05:30'
 published_at: '2026-07-10T09:46:49Z'
 tags:
 - benchmark
-- dataset
 - github-repo
+- hackernews
 - python
 - rag
 stars: 399
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-07-20T20:06:23.429542+05:30'
-last_seen: '2026-07-20T20:06:23.429542+05:30'
-last_checked: '2026-07-20T20:06:23.429542+05:30'
+first_seen: '2026-07-20T22:17:06.939637+05:30'
+last_seen: '2026-07-20T22:17:06.939637+05:30'
+last_checked: '2026-07-20T22:17:06.939637+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: CRUD-RAG introduces a Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems in Large Language Models (LLMs), focusing on comprehensive assessment across multiple dimensions.
-- **Evaluation Framework**: The benchmark includes **Create**, **Read**, **Update**, and **Delete** (CRUD) operations to test RAG capabilities in dynamic knowledge scenarios, ensuring robustness in real-world applications.
-- **Dataset & Metrics**: Provides a curated Chinese dataset with standardized metrics for assessing retrieval accuracy, generation quality, and end-to-end performance in RAG pipelines.
+- **Benchmark Design**: CRUD-RAG provides a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems in Large Language Models (LLMs), covering diverse retrieval and generation scenarios.
+
+- **Evaluation Scope**: The benchmark assesses CRUD (Create, Read, Update, Delete) operations in RAG pipelines, emphasizing real-world Chinese language tasks and multi-turn interactions.
+
+- **Technical Implementation**: Open-source Python framework with standardized metrics for assessing retrieval accuracy, generation quality, and end-to-end RAG performance in Chinese LLMs.
 
 ## Why It Matters
 

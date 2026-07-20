@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Phala-Network/ai-agent-template-openai
-collected_at: '2026-07-20T20:07:18.402302+05:30'
+collected_at: '2026-07-20T22:18:02.078661+05:30'
 published_at: '2026-07-20T07:13:51Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - openai
 - rag
-- scripts
 - typescript
 stars: 219
 language: TypeScript
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-28T19:00:47Z'
 pushed_at: '2024-09-05T18:01:35Z'
 resource_id: github:phala-network/ai-agent-template-openai
-first_seen: '2026-07-20T20:07:18.402302+05:30'
-last_seen: '2026-07-20T20:07:18.402302+05:30'
-last_checked: '2026-07-20T20:07:18.402302+05:30'
+first_seen: '2026-07-20T22:18:02.078661+05:30'
+last_seen: '2026-07-20T22:18:02.078661+05:30'
+last_checked: '2026-07-20T22:18:02.078661+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Structure**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with the Phala Network, enabling on-chain AI inference and execution.
+- **Template Purpose**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with the Phala Network, enabling on-chain AI computations.
 
-- **Phala Network Integration**: Leverages Phala's confidential computing (TEE-based) infrastructure to ensure secure, private, and verifiable AI agent interactions on-chain.
+- **Key Components**: Includes pre-configured OpenAI API interactions, Phala Network's confidential computing framework, and TypeScript tooling for secure, decentralized AI agent deployment.
 
-- **OpenAI API Compatibility**: Designed to seamlessly connect with OpenAI's API endpoints, allowing AI agents to perform tasks like natural language processing, decision-making, and automation within smart contracts.
+- **Technical Stack**: Leverages TypeScript for contract logic, OpenAI's API for AI inference, and Phala's TEE (Trusted Execution Environment) for privacy-preserving computations.
 
 ## Why It Matters
 

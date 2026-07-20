@@ -13,9 +13,9 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (framework - ESSENTIAL Tier)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (mcp-server - ESSENTIAL Tier)
 - [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
-- [llmware-ai/llmware](https://github.com/llmware-ai/llmware) (framework - ESSENTIAL Tier)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (benchmark - ESSENTIAL Tier)
-- [cli/cli](https://github.com/cli/cli#installation) (workflow - ESSENTIAL Tier)
+- [LlamaIndex · GitHub](https://github.com/run-llama) (framework - ESSENTIAL Tier)
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - ESSENTIAL Tier)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (tutorial - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -25,7 +25,7 @@ https://github.com/n8n-io/n8n (n8n)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs)
 - [langgenius/dify](https://github.com/langgenius/dify)
-- [llmware-ai/llmware](https://github.com/llmware-ai/llmware)
+- [LlamaIndex · GitHub](https://github.com/run-llama)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-07-20 20:22 IST*
+*Last updated: 2026-07-20 22:33 IST*

@@ -1,13 +1,26 @@
 ---
-title: "kevinlin/cowork-z"
-category: "Tooling"
-tech_stack: ["TypeScript", "Tauri", "React", "Rust", "OpenCode", "Model Context Protocol (MCP)", "Node.js", "Electron-like desktop app (via Tauri)"]
+title: kevinlin/cowork-z
+category: daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Tauri
+- React
+- Rust
+- OpenCode
+- Model Context Protocol (MCP)
+- Node.js
+- Electron-like desktop app (via Tauri)
 quality_score: 9
 rag_relevance: 7
-tags: ["local-first", "privacy-focused", "AI automation", "multi-provider", "workspace management"]
-source: "https://github.com/kevinlin/cowork-z"
-discovered_at: "2026-07-13T23:53:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first
+- privacy-focused
+- AI automation
+- multi-provider
+- workspace management
+source: https://github.com/kevinlin/cowork-z
+discovered_at: '2026-07-13T23:53:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

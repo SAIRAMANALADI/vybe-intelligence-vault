@@ -4,25 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/elder-plinius/T3MP3ST
-collected_at: '2026-07-20T20:08:08.494188+05:30'
-published_at: '2026-07-20T14:23:50Z'
+collected_at: '2026-07-20T22:18:52.006225+05:30'
+published_at: '2026-07-20T16:16:05Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-- workflows
-stars: 5025
+stars: 5030
 language: TypeScript
 status: active
 license: AGPL-3.0
 archived: false
 created_at: '2026-07-02T17:53:55Z'
-pushed_at: '2026-07-17T05:42:08Z'
+pushed_at: '2026-07-20T15:54:30Z'
 resource_id: github:elder-plinius/t3mp3st
-first_seen: '2026-07-20T20:08:08.494188+05:30'
-last_seen: '2026-07-20T20:08:08.494188+05:30'
-last_checked: '2026-07-20T20:08:08.494188+05:30'
+first_seen: '2026-07-20T22:18:52.006225+05:30'
+last_seen: '2026-07-20T22:18:52.006225+05:30'
+last_checked: '2026-07-20T22:18:52.006225+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Offensive Security Framework**: Autonomous red teaming platform leveraging TypeScript for orchestrating multiple AI agents in simulated cyber attacks, enabling dynamic offensive security operations.
+- **Multi-Agent Offensive Security Framework**: T3MP3ST is an autonomous red teaming platform designed as a meta-harness for offensive security operations, leveraging multiple AI agents to simulate adversarial attacks and assess system vulnerabilities.
 
-- **Meta-Harness Architecture**: Modular system integrating agent-based workflows for autonomous penetration testing, vulnerability assessment, and adversarial simulation with extensible plugin support.
+- **TypeScript-Based Architecture**: The platform is implemented in TypeScript, enabling modular agent interactions, dynamic task orchestration, and real-time adaptive offensive strategies within a scalable, high-performance runtime environment.
 
-- **Real-Time Adaptive Operations**: Dynamic agent coordination with continuous learning for evolving attack vectors, optimized for offensive security research and automated threat emulation.
+- **Autonomous Red Teaming Capabilities**: Supports autonomous operation with self-directed agent collaboration, enabling continuous penetration testing, exploit simulation, and security assessment without manual intervention.
 
 ## Why It Matters
 
@@ -43,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: elder-plinius
-- Stars: 5025
-- Forks: 1038
+- Stars: 5030
+- Forks: 1039
 - Language: TypeScript
 - Topics: agents, ai, multi-agent, offensive-security, redteam
-- Last Updated: 2026-07-20T14:23:50Z
+- Last Updated: 2026-07-20T16:16:05Z
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2026-07-02T17:53:55Z
-- Pushed At: 2026-07-17T05:42:08Z
+- Pushed At: 2026-07-20T15:54:30Z
 
 ## Possible Use Cases
 

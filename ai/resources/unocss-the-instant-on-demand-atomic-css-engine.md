@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://unocss.dev
-published_at: '2026-07-19T14:14:18.130949+05:30'
-collected_at: '2026-07-19T14:14:18.130962+05:30'
+published_at: '2026-07-20T22:26:30.251004+05:30'
+collected_at: '2026-07-20T22:26:30.251018+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:unocss-the-instant-on-demand-atomic-css-engine
-first_seen: '2026-07-19T14:14:18.130962+05:30'
-last_seen: '2026-07-19T14:14:18.130962+05:30'
-last_checked: '2026-07-19T14:14:18.130962+05:30'
+first_seen: '2026-07-20T22:26:30.251018+05:30'
+last_seen: '2026-07-20T22:26:30.251018+05:30'
+last_checked: '2026-07-20T22:26:30.251018+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Preset-Based Architecture**: Core utilities are entirely absent; all functionalities are implemented via modular presets, enabling full customization without modifying core code.
-- **Extensibility Mechanism**: New features or modifications are introduced by creating or updating presets, ensuring system behavior is entirely configurable at runtime.
-- **Minimalist Initialization**: The "Getting Started" phase requires only preset selection/definition, as no default utilities or configurations exist in the core framework.
+- **No Core Utilities**: All functionalities are implemented as presets, with no built-in core utilities.
+- **Preset-Based Architecture**: System relies entirely on configurable presets for extensibility and customization.
+- **Minimalist Initialization**: "Getting Started" implies a lightweight setup process with no mandatory core dependencies.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-19T14:14:18.130949+05:30
+- Published: 2026-07-20T22:26:30.251004+05:30
 
 ## Related Tags
 

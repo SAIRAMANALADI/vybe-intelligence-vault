@@ -1,13 +1,26 @@
 ---
-title: "HammerMei/agent-chat-gateway"
-category: "Orchestrator"
-tech_stack: ["Python", "Docker", "Rocket.Chat API", "Mattermost API", "Claude Code", "OpenCode", "FastAPI", "CLI"]
+title: HammerMei/agent-chat-gateway
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- Docker
+- Rocket.Chat API
+- Mattermost API
+- Claude Code
+- OpenCode
+- FastAPI
+- CLI
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent integration", "team collaboration", "chatbot gateway", "multi-platform", "human oversight"]
-source: "https://github.com/HammerMei/agent-chat-gateway"
-discovered_at: "2026-07-15T21:58:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent integration
+- team collaboration
+- chatbot gateway
+- multi-platform
+- human oversight
+source: https://github.com/HammerMei/agent-chat-gateway
+discovered_at: '2026-07-15T21:58:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **License & Popularity**: Distributed under Apache 2.0 License; has 89,031 GitHub stars as of July 19, 2026.
-- **Performance & Features**: Go-based, optimized for speed; supports multilingual content, advanced templating, and fast asset pipelines (image processing, JS bundling, Sass, TailwindCSS).
-- **Development & Community**: Includes embedded web server for instant preview; backed by active community and frequent releases.
+- **License & Adoption**: Distributed under Apache 2.0 License; 89,031 GitHub stars (as of July 19, 2026) with active community support via Hugo forums.
+
+- **Performance & Flexibility**: Go-based static site generator optimized for speed, rendering large sites in seconds; supports multilingual content, advanced taxonomies, and flexible site types (docs, corporate, news, etc.).
+
+- **Asset Pipeline & Dev Tools**: Includes fast image/Sass/JS processing (e.g., tree-shaking, TailwindCSS), EXIF extrac
 
 ## Use Cases
 

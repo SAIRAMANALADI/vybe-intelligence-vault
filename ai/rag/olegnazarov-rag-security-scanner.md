@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/olegnazarov/rag-security-scanner
-collected_at: '2026-07-20T20:06:33.367355+05:30'
+collected_at: '2026-07-20T22:17:16.994815+05:30'
 published_at: '2026-07-02T13:04:23Z'
 tags:
 - github-repo
@@ -12,7 +12,7 @@ tags:
 - openai
 - python
 - rag
-- workflows
+- scripts
 stars: 71
 language: Python
 status: active
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-07-15T14:16:25Z'
 pushed_at: '2025-09-14T06:39:55Z'
 resource_id: github:olegnazarov/rag-security-scanner
-first_seen: '2026-07-20T20:06:33.367355+05:30'
-last_seen: '2026-07-20T20:06:33.367355+05:30'
-last_checked: '2026-07-20T20:06:33.367355+05:30'
+first_seen: '2026-07-20T22:17:16.994815+05:30'
+last_seen: '2026-07-20T22:17:16.994815+05:30'
+last_checked: '2026-07-20T22:17:16.994815+05:30'
 health_score: 100
 ---
 
@@ -31,17 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: A Python-based security scanner designed to detect critical vulnerabilities in RAG/LLM-powered applications (e.g., chatbots, virtual assistants) by simulating red-team attacks and testing for prompt injection, OWASP Top 10 LLM risks, and other AI-specific threats.
+- **Purpose**: Automated security scanner for RAG/LLM-based applications (e.g., chatbots, virtual assistants) to detect critical vulnerabilities like prompt injection, OWASP Top 10 risks, and red-team attack vectors.
 
-- **Key Features**:
-  - Automated security auditing for AI systems, including prompt-injection detection, data leakage checks, and adversarial input testing.
-  - Integration with OpenAI, ChatGPT, and other LLM frameworks for real-world vulnerability assessment.
-  - Supports OWASP LLM Security guidelines and automated penetration testing workflows.
+- **Features**: Supports security audits, penetration testing, and automated vulnerability scanning; integrates with OpenAI and other LLM frameworks; includes prompt injection detection and knowledge retrieval system analysis.
 
-- **Technical Stack**:
-  - Primary language: Python.
-  - Compatibility: Works with RAG (Retrieval-Augmented Generation) systems, LLM APIs, and AI-driven knowledge retrieval pipelines.
-  - Last updated: July 2, 2026 (commit `13:04:23Z`).
+- **Technical Stack**: Python-based tool with GitHub Actions for CI/CD; last updated July 2, 2026; 71 stars, 10 forks; covers topics like AI security, cybersecurity, and automated testing.
 
 ## Why It Matters
 

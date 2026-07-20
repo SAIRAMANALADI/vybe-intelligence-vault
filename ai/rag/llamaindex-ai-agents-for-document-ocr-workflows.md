@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/
-published_at: '2026-07-20T20:09:24.652498+05:30'
-collected_at: '2026-07-20T20:09:24.652513+05:30'
+published_at: '2026-07-20T22:20:12.600884+05:30'
+collected_at: '2026-07-20T22:20:12.600899+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
-first_seen: '2026-07-20T20:09:24.652513+05:30'
-last_seen: '2026-07-20T20:09:24.652513+05:30'
-last_checked: '2026-07-20T20:09:24.652513+05:30'
+first_seen: '2026-07-20T22:20:12.600899+05:30'
+last_seen: '2026-07-20T22:20:12.600899+05:30'
+last_checked: '2026-07-20T22:20:12.600899+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OCR Pipeline**: LlamaParse employs a Vision-Language Model (VLM)-powered agentic stack for layout-aware document parsing, combining specialized experts (e.g., text, tables, charts) with auto-correction loops for high-fidelity extraction from complex, multi-modal documents.
+- **Agentic OCR & Structured Extraction**: LlamaParse leverages Vision-Language Models (VLMs) for agentic OCR, enabling layout-aware document parsing, structured schema extraction, and automated error correction loops for complex documents (e.g., tables, charts, handwritten text).
 
-- **Structured Extraction & Schema Support**: Supports structured extraction of defined schemas from 50+ unstructured file types (PDFs, Office docs, images) with schema-based, LLM-driven agents, enabling zero-shot extraction without custom training.
+- **Enterprise-Grade Performance**: Benchmarks show superior accuracy in parsing, indexing, and retrieval across 50+ unstructured file types, with support for embedded images, multi-page layouts, and handwritten notes, optimized for RAG pipelines.
 
-- **Enterprise-Grade Features**: Offers 10K free credits/month (~1K pages), 99.9% uptime, HIPAA/GDPR/SOC2 compliance, flexible cloud/VPC deployment, and dedicated SLAs for production-grade document automation.
+- **Scalable Deployment Options**: Offers 10K free credits/month (~1K pages), 99.9% uptime, HIPAA/GDPR/SOC2 compliance, and flexible deployment (cloud or VPC) with dedicated SLAs for mission-critical AI workloads.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T20:09:24.652498+05:30
+- Published: 2026-07-20T22:20:12.600884+05:30
 
 ## Related Tags
 

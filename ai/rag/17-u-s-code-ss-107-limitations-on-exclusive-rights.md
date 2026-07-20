@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: http://www4.law.cornell.edu/uscode/17/107.html
-published_at: '2026-07-17T14:11:14.793909+05:30'
-collected_at: '2026-07-17T14:11:14.793919+05:30'
+published_at: '2026-07-20T22:26:23.874577+05:30'
+collected_at: '2026-07-20T22:26:23.874590+05:30'
 tags:
 - benchmark
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:17-u-s-code-ss-107-limitations-on-exclusive-rights
-first_seen: '2026-07-17T14:11:14.793919+05:30'
-last_seen: '2026-07-17T14:11:14.793919+05:30'
-last_checked: '2026-07-17T14:11:14.793919+05:30'
+first_seen: '2026-07-20T22:26:23.874590+05:30'
+last_seen: '2026-07-20T22:26:23.874590+05:30'
+last_checked: '2026-07-20T22:26:23.874590+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Fair Use Criteria**: U.S. Code § 107 establishes four non-exhaustive factors for fair use analysis: (1) purpose/character of use (commercial vs. nonprofit educational), (2) nature of copyrighted work, (3) amount/substantiality of portion used relative to whole work, and (4) effect on potential market/value of copyrighted work.
+- **Fair use doctrine** codified under 17 U.S.C. § 107 permits limited reproduction/copying of copyrighted works for purposes such as criticism, comment, news reporting, teaching, scholarship, or research without infringement, explicitly overriding §§ 106 and 106A.
 
-- **Unpublished Works**: Unpublished status does not preclude fair use if all four statutory factors are considered in case-specific evaluation.
+- **Four statutory factors** govern fair use analysis: (1) purpose/character of use (commercial vs. nonprofit educational), (2) nature of copyrighted work, (3) amount/substantiality of portion used relative to whole, and (4) effect on market value/potential market.
 
-- **Educational Exemption**: Classroom copying for nonprofit educational purposes is permitted under fair use, but no blanket exemption exists; guidelines (e.g., brevity, spontaneity) apply to printed materials per 1976 negotiated agreements.
+- **Unpublished works** are not categorically excluded from fair use; determination relies on equitable balancing of the four factors on a case-by-case basis, with no rigid statutory definition provided.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-17T14:11:14.793909+05:30
+- Published: 2026-07-20T22:26:23.874577+05:30
 
 ## Related Tags
 

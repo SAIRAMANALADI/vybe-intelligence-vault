@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [cli/cli](../ai/rag/cli-cli.md) ([Source URL](https://github.com/cli/cli))
+### 1. [Zilliz Cloud SLA - Zilliz](../ai/rag/zilliz-cloud-sla-zilliz.md) ([Source URL](https://zilliz.com/sla))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-20T20:16:23.504622+05:30
-- **Local Path**: `ai/rag/cli-cli.md`
+- **Collected At**: 2026-07-20T22:27:16.629408+05:30
+- **Local Path**: `ai/rag/zilliz-cloud-sla-zilliz.md`
 
-### 2. [API reference | Developers | GitBook Documentation](../ai/resources/api-reference-developers-gitbook-documentation.md) ([Source URL](https://gitbook.com/docs/developers/gitbook-api/api-reference))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-20T20:16:20.998869+05:30
-- **Local Path**: `ai/resources/api-reference-developers-gitbook-documentation.md`
-
-### 3. [GitBook · GitHub](../ai/agents/gitbook-github.md) ([Source URL](https://github.com/gitbookio))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-20T20:16:18.891612+05:30
-- **Local Path**: `ai/agents/gitbook-github.md`
-
-### 4. [Quickstart | GitBook Documentation](../ai/rag/quickstart-gitbook-documentation.md) ([Source URL](https://gitbook.com/docs/getting-started/quickstart))
+### 2. [GitHub Copilot CLI command reference - GitHub Docs](../ai/rag/github-copilot-cli-command-reference-github-docs.md) ([Source URL](https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-command-reference))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-20T20:16:18.419454+05:30
-- **Local Path**: `ai/rag/quickstart-gitbook-documentation.md`
-
-### 5. [Documentation/RelNotes/2.55.0.adoc · HEAD · git-scm / Git · GitLab](../ai/rag/documentation-relnotes-2-55-0-adoc-head-git-scm-gi.md) ([Source URL](https://gitlab.com/git-scm/git/-/blob/head/documentation/relnotes/2.55.0.adoc))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-20T20:16:13.885060+05:30
-- **Local Path**: `ai/rag/documentation-relnotes-2-55-0-adoc-head-git-scm-gi.md`
-
-### 6. [git/git](../ai/resources/git-git.md) ([Source URL](https://github.com/git/git))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-20T20:16:13.509073+05:30
-- **Local Path**: `ai/resources/git-git.md`
-
-### 7. [Amazon.com](../ai/resources/amazon-com.md) ([Source URL](https://amazon.com/pro-git-scott-chacon/dp/1484200772?ie=UTF8&camp=1789&creative=9325&creativeASIN=1430218339&linkCode=as2&tag=git-sfconservancy-20))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-20T20:16:13.433414+05:30
-- **Local Path**: `ai/resources/amazon-com.md`
-
-### 8. [mistralai/Voxtral-4B-TTS-2603 · Hugging Face](../ai/resources/huggingface-mistralai-voxtral-4b-tts-2603.md) ([Source URL](https://huggingface.co/mistralai/voxtral-4b-tts-2603))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-20T20:16:13.154663+05:30
-- **Local Path**: `ai/resources/huggingface-mistralai-voxtral-4b-tts-2603.md`
-
-### 9. [A safe and modern home for JavaScript technologies | OpenJS Foundation](../ai/resources/a-safe-and-modern-home-for-javascript-technologies.md) ([Source URL](https://openjsf.org))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-20T20:16:13.116384+05:30
-- **Local Path**: `ai/resources/a-safe-and-modern-home-for-javascript-technologies.md`
-
-### 10. [metavoiceio/metavoice-src](../ai/resources/metavoiceio-metavoice-src.md) ([Source URL](https://github.com/metavoiceio/metavoice-src))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-20T20:16:08.429385+05:30
-- **Local Path**: `ai/resources/metavoiceio-metavoice-src.md`
-
-### 11. [LlamaIndex - YouTube](../ai/rag/llamaindex-youtube.md) ([Source URL](https://youtube.com/@llamaindex))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-20T20:15:54.077294+05:30
-- **Local Path**: `ai/rag/llamaindex-youtube.md`
-
-### 12. [Contact us | ICO](../ai/resources/contact-us-ico.md) ([Source URL](https://ico.org.uk/global/contact-us))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-20T20:15:31.554933+05:30
-- **Local Path**: `ai/resources/contact-us-ico.md`
-
-### 13. [Talk to Sales - SpeechifyAI API](../ai/agents/talk-to-sales-speechifyai-api.md) ([Source URL](https://simbavoice.ai/contact))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-20T20:15:28.126798+05:30
-- **Local Path**: `ai/agents/talk-to-sales-speechifyai-api.md`
-
-### 14. [Learn Greenhouse](../ai/rag/learn-greenhouse.md) ([Source URL](https://learn.greenhouse.io))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-20T20:15:18.326576+05:30
-- **Local Path**: `ai/rag/learn-greenhouse.md`
-
-### 15. [incident-io - YouTube](../ai/resources/incident-io-youtube.md) ([Source URL](https://youtube.com/@incident-io))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-20T20:15:17.485323+05:30
-- **Local Path**: `ai/resources/incident-io-youtube.md`
-
-### 16. [Developer Resources | Greenhouse](../ai/resources/developer-resources-greenhouse.md) ([Source URL](https://developers.greenhouse.io))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-20T20:15:17.015952+05:30
-- **Local Path**: `ai/resources/developer-resources-greenhouse.md`
-
-### 17. [Improve your app's security | Security | Android Developers](../ai/rag/improve-your-app-s-security-security-android-devel.md) ([Source URL](https://developer.android.com/privacy-and-security/security-best-practices))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-20T20:15:15.555798+05:30
-- **Local Path**: `ai/rag/improve-your-app-s-security-security-android-devel.md`
-
-### 18. [Stainless · GitHub](../ai/resources/stainless-github.md) ([Source URL](https://github.com/stainless-api))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-20T20:15:14.626585+05:30
-- **Local Path**: `ai/resources/stainless-github.md`
-
-### 19. [Android Developers Blog](../ai/agents/android-developers-blog.md) ([Source URL](https://android-developers.googleblog.com))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-20T20:15:12.402142+05:30
-- **Local Path**: `ai/agents/android-developers-blog.md`
-
-### 20. [Google Play for business | Launch & monetize your apps | Google Play Console](../ai/rag/google-play-for-business-launch-monetize-your-apps.md) ([Source URL](https://play.google.com/console))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-20T20:15:12.366976+05:30
-- **Local Path**: `ai/rag/google-play-for-business-launch-monetize-your-apps.md`
-
-### 21. [Google for Developers | Build with Gemini](../ai/agents/google-for-developers-build-with-gemini.md) ([Source URL](https://developers.google.com))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-20T20:15:12.298620+05:30
-- **Local Path**: `ai/agents/google-for-developers-build-with-gemini.md`
-
-### 22. [Styles and CSS | Docs](../web-development/tailwind/styles-and-css-docs.md) ([Source URL](https://docs.astro.build/en/guides/styling))
-- **Category**: web-development/tailwind
-- **Collected At**: 2026-07-20T20:15:11.704442+05:30
-- **Local Path**: `web-development/tailwind/styles-and-css-docs.md`
-
-### 23. [Build fast. Run any code fearlessly. · Fly](../ai/rag/build-fast-run-any-code-fearlessly-fly.md) ([Source URL](https://fly.io))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-20T20:15:11.681907+05:30
-- **Local Path**: `ai/rag/build-fast-run-any-code-fearlessly-fly.md`
-
-### 24. [GitHub Copilot CLI command reference - GitHub Docs](../ai/rag/github-copilot-cli-command-reference-github-docs.md) ([Source URL](https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-command-reference))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-20T20:15:06.472380+05:30
+- **Collected At**: 2026-07-20T22:27:12.925065+05:30
 - **Local Path**: `ai/rag/github-copilot-cli-command-reference-github-docs.md`
 
-### 25. [microsoft/vscode](../ai/rag/microsoft-vscode.md) ([Source URL](https://github.com/microsoft/vscode))
+### 3. [Quickstart to Serving Cluster | Cloud | Zilliz Cloud Developer Hub](../ai/rag/quickstart-to-serving-cluster-cloud-zilliz-cloud-d.md) ([Source URL](https://zilliz.com/doc/quick_start))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-20T20:15:04.207410+05:30
-- **Local Path**: `ai/rag/microsoft-vscode.md`
+- **Collected At**: 2026-07-20T22:27:12.303688+05:30
+- **Local Path**: `ai/rag/quickstart-to-serving-cluster-cloud-zilliz-cloud-d.md`
 
-### 26. [Vercel · GitHub](../ai/agents/vercel-github.md) ([Source URL](https://github.com/vercel))
+### 4. [Extensions for Visual Studio family of products | Visual Studio Marketplace](../ai/rag/extensions-for-visual-studio-family-of-products-vi.md) ([Source URL](https://marketplace.visualstudio.com/vscode))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-20T22:27:11.373983+05:30
+- **Local Path**: `ai/rag/extensions-for-visual-studio-family-of-products-vi.md`
+
+### 5. [Releases · github/codeql-cli-binaries · GitHub](../ai/resources/github-codeql-cli-binaries.md) ([Source URL](https://github.com/github/codeql-cli-binaries))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-20T22:27:10.175944+05:30
+- **Local Path**: `ai/resources/github-codeql-cli-binaries.md`
+
+### 6. [npm Status](../ai/rag/npm-status.md) ([Source URL](https://status.npmjs.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-20T22:27:10.019029+05:30
+- **Local Path**: `ai/rag/npm-status.md`
+
+### 7. [npm/documentation](../ai/resources/npm-documentation.md) ([Source URL](https://github.com/npm/documentation))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-20T22:27:09.218545+05:30
+- **Local Path**: `ai/resources/npm-documentation.md`
+
+### 8. [Getting Started | Electron Forge](../ai/rag/getting-started-electron-forge.md) ([Source URL](https://electronforge.io))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-20T22:27:07.818739+05:30
+- **Local Path**: `ai/rag/getting-started-electron-forge.md`
+
+### 9. [CodeQL - Visual Studio Marketplace](../ai/resources/codeql-visual-studio-marketplace.md) ([Source URL](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-codeql))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-20T22:27:06.449115+05:30
+- **Local Path**: `ai/resources/codeql-visual-studio-marketplace.md`
+
+### 10. [natemoo-re/astro-icon](../ai/rag/natemoo-re-astro-icon.md) ([Source URL](https://github.com/natemoo-re/astro-icon))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-20T22:26:34.156805+05:30
+- **Local Path**: `ai/rag/natemoo-re-astro-icon.md`
+
+### 11. [GitHub Status](../ai/rag/github-status.md) ([Source URL](https://githubstatus.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-20T22:26:30.872162+05:30
+- **Local Path**: `ai/rag/github-status.md`
+
+### 12. [UnoCSS: The instant on-demand Atomic CSS engine](../ai/resources/unocss-the-instant-on-demand-atomic-css-engine.md) ([Source URL](https://unocss.dev))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-20T22:26:30.251018+05:30
+- **Local Path**: `ai/resources/unocss-the-instant-on-demand-atomic-css-engine.md`
+
+### 13. [pradyunsg/furo](../ai/resources/pradyunsg-furo.md) ([Source URL](https://github.com/pradyunsg/furo))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-20T22:26:29.114945+05:30
+- **Local Path**: `ai/resources/pradyunsg-furo.md`
+
+### 14. [Sphinx — Sphinx documentation](../ai/resources/sphinx-sphinx-documentation.md) ([Source URL](https://sphinx-doc.org))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-20T22:26:29.040980+05:30
+- **Local Path**: `ai/resources/sphinx-sphinx-documentation.md`
+
+### 15. [Configuring project metadata - Hatch](../ai/resources/configuring-project-metadata-hatch.md) ([Source URL](https://hatch.pypa.io/latest/config/metadata))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-20T22:26:28.798735+05:30
+- **Local Path**: `ai/resources/configuring-project-metadata-hatch.md`
+
+### 16. [Overview of Parse | Developer Documentation](../ai/resources/overview-of-parse-developer-documentation.md) ([Source URL](https://developers.llamaindex.ai/python/cloud/llamaparse))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-20T22:26:27.037850+05:30
+- **Local Path**: `ai/resources/overview-of-parse-developer-documentation.md`
+
+### 17. [Connected Papers | Find and explore academic papers](../ai/resources/connected-papers-find-and-explore-academic-papers.md) ([Source URL](https://connectedpapers.com/about))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-20T22:26:25.126963+05:30
+- **Local Path**: `ai/resources/connected-papers-find-and-explore-academic-papers.md`
+
+### 18. [17 U.S. Code § 107 - Limitations on exclusive rights: Fair use | U.S. Code | US Law | LII / Legal Information Institute](../ai/rag/17-u-s-code-ss-107-limitations-on-exclusive-rights.md) ([Source URL](http://www4.law.cornell.edu/uscode/17/107.html))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-20T22:26:23.874590+05:30
+- **Local Path**: `ai/rag/17-u-s-code-ss-107-limitations-on-exclusive-rights.md`
+
+### 19. [Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies | U.S. Copyrig](../ai/agents/exemption-to-prohibition-on-circumvention-of-copyr.md) ([Source URL](https://copyright.gov/1201/anticirc.html))
 - **Category**: ai/agents
-- **Collected At**: 2026-07-20T20:14:33.463799+05:30
-- **Local Path**: `ai/agents/vercel-github.md`
+- **Collected At**: 2026-07-20T22:26:20.707772+05:30
+- **Local Path**: `ai/agents/exemption-to-prohibition-on-circumvention-of-copyr.md`
 
-### 27. [v0 by Vercel - Build Full-Stack Web Apps with AI](../ai/resources/v0-by-vercel-build-full-stack-web-apps-with-ai.md) ([Source URL](https://v0.app))
+### 20. [DMCA | Electronic Frontier Foundation](../ai/resources/dmca-electronic-frontier-foundation.md) ([Source URL](https://eff.org/issues/dmca))
 - **Category**: ai/resources
-- **Collected At**: 2026-07-20T20:14:28.640436+05:30
-- **Local Path**: `ai/resources/v0-by-vercel-build-full-stack-web-apps-with-ai.md`
+- **Collected At**: 2026-07-20T22:26:20.478456+05:30
+- **Local Path**: `ai/resources/dmca-electronic-frontier-foundation.md`
 
-### 28. [Streamdown](../ai/resources/streamdown.md) ([Source URL](https://streamdown.ai))
+### 21. [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md) ([Source URL](http://www4.law.cornell.edu/uscode/17/512.html))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-20T22:26:18.909758+05:30
+- **Local Path**: `ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md`
+
+### 22. [Scite Status](../ai/resources/scite-status.md) ([Source URL](https://status.scite.ai))
 - **Category**: ai/resources
-- **Collected At**: 2026-07-20T20:14:28.439805+05:30
-- **Local Path**: `ai/resources/streamdown.md`
+- **Collected At**: 2026-07-20T22:26:14.466725+05:30
+- **Local Path**: `ai/resources/scite-status.md`
 
-### 29. [Hugging Face · GitHub](../ai/agents/hugging-face-github.md) ([Source URL](https://github.com/huggingface))
+### 23. [Scite – Research Solutions Help & Support Center](../ai/rag/scite-research-solutions-help-support-center.md) ([Source URL](https://help.researchsolutions.com/hc/en-us/categories/31947397460116-scite))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-20T22:26:13.958745+05:30
+- **Local Path**: `ai/rag/scite-research-solutions-help-support-center.md`
+
+### 24. [Better Stack - 30x cheaper than Datadog, Exceptional support](../ai/rag/better-stack-30x-cheaper-than-datadog-exceptional.md) ([Source URL](https://betterstack.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-20T22:26:10.447453+05:30
+- **Local Path**: `ai/rag/better-stack-30x-cheaper-than-datadog-exceptional.md`
+
+### 25. [Framer - YouTube](../ai/resources/framer-youtube.md) ([Source URL](https://youtube.com/@framer))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-20T22:26:07.237051+05:30
+- **Local Path**: `ai/resources/framer-youtube.md`
+
+### 26. [Webhook subscriptions | Better Stack Documentation](../ai/agents/webhook-subscriptions-better-stack-documentation.md) ([Source URL](https://betterstack.com/docs/uptime/subscribing-to-status-updates/subscribing-with-webhooks))
 - **Category**: ai/agents
-- **Collected At**: 2026-07-20T20:14:28.354153+05:30
-- **Local Path**: `ai/agents/hugging-face-github.md`
+- **Collected At**: 2026-07-20T22:26:05.568368+05:30
+- **Local Path**: `ai/agents/webhook-subscriptions-better-stack-documentation.md`
 
-### 30. [Open Source Friday | This Friday, invest a few hours contributing to the software you use and love.](../ai/rag/open-source-friday-this-friday-invest-a-few-hours.md) ([Source URL](https://opensourcefriday.com))
+### 27. [Sending messages using incoming webhooks | Slack Developer Docs](../ai/rag/sending-messages-using-incoming-webhooks-slack-dev.md) ([Source URL](https://docs.slack.dev/messaging/sending-messages-using-incoming-webhooks))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-20T20:14:28.098268+05:30
-- **Local Path**: `ai/rag/open-source-friday-this-friday-invest-a-few-hours.md`
+- **Collected At**: 2026-07-20T22:26:04.899937+05:30
+- **Local Path**: `ai/rag/sending-messages-using-incoming-webhooks-slack-dev.md`
 
-### 31. [Access & control activity in your account - Computer - Google Account Help](../ai/rag/access-control-activity-in-your-account-computer-g.md) ([Source URL](https://support.google.com/accounts?p=my_activity&hl=en_US))
+### 28. [iPhone - Apple](../ai/resources/iphone-apple.md) ([Source URL](https://apple.com/iphone))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-20T22:25:33.213600+05:30
+- **Local Path**: `ai/resources/iphone-apple.md`
+
+### 29. [Introduction to Colab Enterprise | Google Cloud Documentation](../ai/rag/introduction-to-colab-enterprise-google-cloud-docu.md) ([Source URL](https://cloud.google.com/colab/docs/introduction))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-20T20:14:26.823454+05:30
-- **Local Path**: `ai/rag/access-control-activity-in-your-account-computer-g.md`
+- **Collected At**: 2026-07-20T22:25:29.651973+05:30
+- **Local Path**: `ai/rag/introduction-to-colab-enterprise-google-cloud-docu.md`
 
-### 32. [Google Terms of Service – Privacy & Terms – Google](../ai/rag/google-terms-of-service-privacy-terms-google.md) ([Source URL](https://myaccount.google.com/termsofservice?hl=en-US))
+### 30. [Mac - Apple](../ai/rag/mac-apple.md) ([Source URL](https://apple.com/mac))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-20T20:14:24.572598+05:30
-- **Local Path**: `ai/rag/google-terms-of-service-privacy-terms-google.md`
+- **Collected At**: 2026-07-20T22:25:27.937007+05:30
+- **Local Path**: `ai/rag/mac-apple.md`
 
-### 33. [Privacy Policy – Privacy & Terms – Google](../ai/rag/privacy-policy-privacy-terms-google.md) ([Source URL](https://myaccount.google.com/privacypolicy?hl=en-US))
+### 31. [Hugging Face – The AI community building the future.](../ai/resources/hugging-face-the-ai-community-building-the-future.md) ([Source URL](https://huggingface.co))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-20T22:25:27.673306+05:30
+- **Local Path**: `ai/resources/hugging-face-the-ai-community-building-the-future.md`
+
+### 32. [U.S. Copyright Office | U.S. Copyright Office](../ai/resources/u-s-copyright-office-u-s-copyright-office.md) ([Source URL](https://copyright.gov))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-20T22:25:27.492599+05:30
+- **Local Path**: `ai/resources/u-s-copyright-office-u-s-copyright-office.md`
+
+### 33. [Colab | Google for Developers](../ai/rag/colab-google-for-developers.md) ([Source URL](https://developers.google.com/colab))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-20T20:14:24.452901+05:30
-- **Local Path**: `ai/rag/privacy-policy-privacy-terms-google.md`
+- **Collected At**: 2026-07-20T22:25:26.984762+05:30
+- **Local Path**: `ai/rag/colab-google-for-developers.md`
 
-### 34. [Chrome for Developers](../ai/agents/chrome-for-developers.md) ([Source URL](https://developer.chrome.com/home))
+### 34. [Google Colab](../ai/resources/google-colab.md) ([Source URL](https://colab.research.google.com/notebooks))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-20T22:25:25.987185+05:30
+- **Local Path**: `ai/resources/google-colab.md`
+
+### 35. [Google DeepMind · GitHub](../ai/rag/google-deepmind-github.md) ([Source URL](https://github.com/google-deepmind))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-20T22:25:25.494277+05:30
+- **Local Path**: `ai/rag/google-deepmind-github.md`
+
+### 36. [MedGemma: Our most capable open models for health AI development](../ai/rag/medgemma-our-most-capable-open-models-for-health-a.md) ([Source URL](https://research.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-20T22:25:24.840007+05:30
+- **Local Path**: `ai/rag/medgemma-our-most-capable-open-models-for-health-a.md`
+
+### 37. [Introducing EmbeddingGemma: The Best-in-Class Open Model for On-Device Embeddings - Google Developers Blog](../ai/rag/introducing-embeddinggemma-the-best-in-class-open.md) ([Source URL](https://developers.googleblog.com/en/introducing-embeddinggemma))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-20T22:25:24.504207+05:30
+- **Local Path**: `ai/rag/introducing-embeddinggemma-the-best-in-class-open.md`
+
+### 38. [android Git repositories - Git at Google](../ai/rag/android-git-repositories-git-at-google.md) ([Source URL](https://android.googlesource.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-20T22:25:24.412418+05:30
+- **Local Path**: `ai/rag/android-git-repositories-git-at-google.md`
+
+### 39. [AI and Cloud Computing Services | Google Cloud](../ai/rag/ai-and-cloud-computing-services-google-cloud.md) ([Source URL](https://cloud.google.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-20T22:25:23.124851+05:30
+- **Local Path**: `ai/rag/ai-and-cloud-computing-services-google-cloud.md`
+
+### 40. [Factory Images for Nexus and Pixel Devices | Google Play services | Google for Developers](../ai/resources/factory-images-for-nexus-and-pixel-devices-google.md) ([Source URL](https://developers.google.com/android/images))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-20T22:25:22.292093+05:30
+- **Local Path**: `ai/resources/factory-images-for-nexus-and-pixel-devices-google.md`
+
+### 41. [Solutions for App Development Challenges | Firebase](../ai/rag/solutions-for-app-development-challenges-firebase.md) ([Source URL](https://firebase.google.com/use-cases))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-20T22:25:22.043792+05:30
+- **Local Path**: `ai/rag/solutions-for-app-development-challenges-firebase.md`
+
+### 42. [superproject](../ai/resources/superproject.md) ([Source URL](https://cs.android.com/android/platform/superproject))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-20T22:25:22.036681+05:30
+- **Local Path**: `ai/resources/superproject.md`
+
+### 43. [Artificial Intelligence in Chrome | AI on Chrome | Chrome for Developers](../ai/agents/artificial-intelligence-in-chrome-ai-on-chrome-chr.md) ([Source URL](https://developer.chrome.com/docs/ai))
 - **Category**: ai/agents
-- **Collected At**: 2026-07-20T20:14:22.652190+05:30
-- **Local Path**: `ai/agents/chrome-for-developers.md`
+- **Collected At**: 2026-07-20T22:25:21.911684+05:30
+- **Local Path**: `ai/agents/artificial-intelligence-in-chrome-ai-on-chrome-chr.md`
 
-### 35. [Gemini Developer API | Gemma open models | Google AI for Developers](../ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md) ([Source URL](https://ai.google.dev))
+### 44. [Firebase Products](../ai/rag/firebase-products.md) ([Source URL](https://firebase.google.com/products-build))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-20T20:14:22.182109+05:30
-- **Local Path**: `ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md`
+- **Collected At**: 2026-07-20T22:25:21.827017+05:30
+- **Local Path**: `ai/rag/firebase-products.md`
 
-### 36. [Delete, allow, and manage cookies in Chrome - Computer - Google Chrome Help](../ai/rag/delete-allow-and-manage-cookies-in-chrome-computer.md) ([Source URL](https://support.google.com/chrome/answer/95647))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-20T20:14:21.745084+05:30
-- **Local Path**: `ai/rag/delete-allow-and-manage-cookies-in-chrome-computer.md`
-
-### 37. [Google Analytics Opt-out Browser Add-on Download Page](../ai/resources/google-analytics-opt-out-browser-add-on-download-p.md) ([Source URL](https://tools.google.com/dlpage/gaoptout))
+### 45. [Firebase Extensions](../ai/resources/firebase-extensions-2.md) ([Source URL](https://firebase.google.com/docs/extensions))
 - **Category**: ai/resources
-- **Collected At**: 2026-07-20T20:14:19.454424+05:30
-- **Local Path**: `ai/resources/google-analytics-opt-out-browser-add-on-download-p.md`
+- **Collected At**: 2026-07-20T22:25:21.539685+05:30
+- **Local Path**: `ai/resources/firebase-extensions-2.md`
 
-### 38. [Protect Privacy Online with Google - Google Safety Center](../ai/rag/protect-privacy-online-with-google-google-safety-c.md) ([Source URL](https://safety.google/security-privacy))
+### 46. [Gemini in Android Studio - Android Developers](../ai/rag/gemini-in-android-studio-android-developers.md) ([Source URL](https://developer.android.com/gemini-in-android))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-20T20:14:19.173352+05:30
-- **Local Path**: `ai/rag/protect-privacy-online-with-google-google-safety-c.md`
+- **Collected At**: 2026-07-20T22:25:21.020092+05:30
+- **Local Path**: `ai/rag/gemini-in-android-studio-android-developers.md`
 
-### 39. [Sign in to GitHub · GitHub](../ai/resources/gohugoio-hugodocs.md) ([Source URL](https://github.com/gohugoio/hugodocs))
+### 47. [Gemini API | Google AI for Developers](../ai/agents/gemini-api-google-ai-for-developers.md) ([Source URL](https://ai.google.dev/gemini-api))
+- **Category**: ai/agents
+- **Collected At**: 2026-07-20T22:25:20.796983+05:30
+- **Local Path**: `ai/agents/gemini-api-google-ai-for-developers.md`
+
+### 48. [FirebaseExtended/karas-coffee](../ai/resources/firebaseextended-karas-coffee.md) ([Source URL](https://github.com/firebaseextended/karas-coffee))
 - **Category**: ai/resources
-- **Collected At**: 2026-07-20T20:14:18.019632+05:30
+- **Collected At**: 2026-07-20T22:25:20.122780+05:30
+- **Local Path**: `ai/resources/firebaseextended-karas-coffee.md`
+
+### 49. [Data Center News, Press Releases & Company Updates | Equinix](../ai/rag/data-center-news-press-releases-company-updates-eq.md) ([Source URL](https://equinix.com/newsroom?_gl=1%2Agcn4lq%2A_gcl_au%2AMTc2ODAzMTQ0MC4xNzc4NjE2MzM1))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-20T22:25:16.172819+05:30
+- **Local Path**: `ai/rag/data-center-news-press-releases-company-updates-eq.md`
+
+### 50. [Sign in to GitHub · GitHub](../ai/resources/gohugoio-hugodocs.md) ([Source URL](https://github.com/gohugoio/hugodocs))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-20T22:25:15.110155+05:30
 - **Local Path**: `ai/resources/gohugoio-hugodocs.md`
 
-### 40. [Sign in on a device that's not yours - Computer - Google Account Help](../ai/rag/sign-in-on-a-device-that-s-not-yours-computer-goog.md) ([Source URL](https://support.google.com/accounts?p=signin_privatebrowsing&hl=en-US))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-20T20:14:16.841009+05:30
-- **Local Path**: `ai/rag/sign-in-on-a-device-that-s-not-yours-computer-goog.md`
-
-### 41. [How YouTube Works: Giving Everyone a Voice](../ai/resources/how-youtube-works-giving-everyone-a-voice.md) ([Source URL](https://youtube.com/howyoutubeworks))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-20T20:14:16.194724+05:30
-- **Local Path**: `ai/resources/how-youtube-works-giving-everyone-a-voice.md`
-
-### 42. [yuin/goldmark](../ai/resources/yuin-goldmark.md) ([Source URL](https://github.com/yuin/goldmark))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-20T20:14:13.102228+05:30
-- **Local Path**: `ai/resources/yuin-goldmark.md`
-
-### 43. [GitHub Flavored Markdown Spec](../ai/rag/github-flavored-markdown-spec.md) ([Source URL](https://github.github.com/gfm))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-20T20:14:13.030499+05:30
-- **Local Path**: `ai/rag/github-flavored-markdown-spec.md`
-
-### 44. [disintegration/imaging](../ai/rag/disintegration-imaging.md) ([Source URL](https://github.com/disintegration/imaging))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-20T20:14:12.956660+05:30
-- **Local Path**: `ai/rag/disintegration-imaging.md`
-
-### 45. [cwebp | WebP | Google for Developers](../ai/rag/cwebp-webp-google-for-developers.md) ([Source URL](https://developers.google.com/speed/webp/docs/cwebp))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-20T20:14:10.132564+05:30
-- **Local Path**: `ai/rag/cwebp-webp-google-for-developers.md`
-
-### 46. [GitHub CLI | Take GitHub to the command line](../ai/agents/github-cli-take-github-to-the-command-line.md) ([Source URL](https://cli.github.com))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-20T20:14:07.604524+05:30
-- **Local Path**: `ai/agents/github-cli-take-github-to-the-command-line.md`
-
-### 47. [Mona's Bug Bash](../ai/resources/mona-s-bug-bash.md) ([Source URL](https://bug-bash.github.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-20T20:14:05.468794+05:30
-- **Local Path**: `ai/resources/mona-s-bug-bash.md`
-
-### 48. [The knowledge layer for AI | GitBook](../ai/agents/the-knowledge-layer-for-ai-gitbook.md) ([Source URL](https://gitbook.com))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-20T20:13:55.054233+05:30
-- **Local Path**: `ai/agents/the-knowledge-layer-for-ai-gitbook.md`
-
-### 49. [Node.js — Run JavaScript Everywhere](../ai/resources/node-js-run-javascript-everywhere.md) ([Source URL](https://nodejs.org))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-20T20:13:54.186807+05:30
-- **Local Path**: `ai/resources/node-js-run-javascript-everywhere.md`
-
-### 50. [Git](../ai/resources/git.md) ([Source URL](https://git-scm.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-20T20:13:53.839942+05:30
-- **Local Path**: `ai/resources/git.md`
-
 ---
-*Index generated on 2026-07-20T20:21:11.807509+05:30*
+*Index generated on 2026-07-20T22:32:17.391650+05:30*

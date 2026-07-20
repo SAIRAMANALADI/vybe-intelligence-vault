@@ -14,13 +14,14 @@ tags:
 - hackernews
 - llm
 - threejs
-status: active
+status: inactive
 resource_id: huggingface:spaces/webml-community
 first_seen: '2026-07-20T15:04:11.592780+05:30'
 last_seen: '2026-07-20T20:03:44.842106+05:30'
 last_checked: '2026-07-20T20:03:44.842106+05:30'
 health_score: 100
 ---
+
 
 # 1-Bit LLM in the Browser
 

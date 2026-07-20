@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-07-20T20:06:23.449023+05:30'
+collected_at: '2026-07-20T22:17:06.935031+05:30'
 published_at: '2026-07-19T14:44:32Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - rag
 - unknown
 stars: 469
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-07-20T20:06:23.449023+05:30'
-last_seen: '2026-07-20T20:06:23.449023+05:30'
-last_checked: '2026-07-20T20:06:23.449023+05:30'
+first_seen: '2026-07-20T22:17:06.935031+05:30'
+last_seen: '2026-07-20T22:17:06.935031+05:30'
+last_checked: '2026-07-20T22:17:06.935031+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **EnterpriseRAG-Bench**: A dataset and benchmark designed for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary company documents, enabling domain-specific LLM performance assessment.
-- **Features**: Synthetic data generation, semantic search evaluation, and LLM-based QA testing across enterprise knowledge bases, with Python-based tooling for automated benchmarking.
-- **Scope**: Covers enterprise search, information retrieval, and generative AI evaluation, including multi-domain support and standardized metrics for RAG performance comparison.
+- **Dataset & Benchmark**: Provides a curated dataset and evaluation framework for Retrieval-Augmented Generation (RAG) systems tailored to company internal documents, enabling standardized assessment of performance in enterprise contexts.
+
+- **Synthetic Data Generation**: Implements automated synthetic data generation techniques to create diverse, realistic enterprise document-query pairs for robust RAG evaluation across domains like semantic search and QA.
+
+- **Evaluation Suite**: Includes Python-based tools for assessing RAG pipelines on metrics such as retrieval accuracy, answer correctness, and latency, supporting modular integration with LLMs and vector databases.
 
 ## Why It Matters
 

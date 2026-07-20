@@ -1,13 +1,29 @@
 ---
-title: "Knuckles-Team/container-manager-mcp"
-category: "Agent Framework"
-tech_stack: ["Python", "Docker", "Kubernetes", "Podman", "MCP (Model Context Protocol)", "A2A (Agent-to-Agent)", "OpenTelemetry", "Langfuse", "Pydantic", "SSH", "ThreadPoolExecutor"]
+title: Knuckles-Team/container-manager-mcp
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- Docker
+- Kubernetes
+- Podman
+- MCP (Model Context Protocol)
+- A2A (Agent-to-Agent)
+- OpenTelemetry
+- Langfuse
+- Pydantic
+- SSH
+- ThreadPoolExecutor
 quality_score: 9
 rag_relevance: 8
-tags: ["container management", "MCP server", "multi-host orchestration", "Kubernetes", "agent framework"]
-source: "https://github.com/Knuckles-Team/container-manager-mcp"
-discovered_at: "2026-07-10T13:12:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- container management
+- MCP server
+- multi-host orchestration
+- Kubernetes
+- agent framework
+source: https://github.com/Knuckles-Team/container-manager-mcp
+discovered_at: '2026-07-10T13:12:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

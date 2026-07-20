@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/duanyytop/agents-radar
-collected_at: '2026-07-20T20:06:58.457351+05:30'
+collected_at: '2026-07-20T22:17:41.985904+05:30'
 published_at: '2026-07-20T08:36:10Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2026-02-23T03:22:26Z'
 pushed_at: '2026-07-20T04:33:38Z'
 resource_id: github:duanyytop/agents-radar
-first_seen: '2026-07-20T20:06:58.457351+05:30'
-last_seen: '2026-07-20T20:06:58.457351+05:30'
-last_checked: '2026-07-20T20:06:58.457351+05:30'
+first_seen: '2026-07-20T22:17:41.985904+05:30'
+last_seen: '2026-07-20T22:17:41.985904+05:30'
+last_checked: '2026-07-20T22:17:41.985904+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Automated AI Ecosystem Aggregator**: Daily digest compiling AI-related updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions.
-- **Bilingual Reporting**: Generates reports in both Chinese and English, automated through scheduled GitHub Actions workflows.
-- **Technical Stack**: Built in TypeScript; last updated on 2026-07-20 with 910 stars and 162 forks.
+- **Automated AI Ecosystem Aggregator**: Daily digest of AI-related updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, etc.) via GitHub Actions.
+- **Bilingual Workflow**: Generates reports in both Chinese and English using TypeScript-based automation.
+- **Metadata**: 910 stars, 162 forks; last updated 2026-07-20T08:36:10Z.
 
 ## Why It Matters
 

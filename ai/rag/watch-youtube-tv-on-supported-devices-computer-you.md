@@ -3,9 +3,9 @@ title: Watch YouTube TV on supported devices - Computer - YouTube TV Help
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://support.google.com/youtubetv/answer/7129767?hl=en&ref_topic=7071745
-published_at: '2026-07-07T04:21:12.788944+05:30'
-collected_at: '2026-07-07T04:21:12.788951+05:30'
+source_url: https://support.google.com/youtubetv/answer/7129767
+published_at: '2026-07-20T22:22:11.018923+05:30'
+collected_at: '2026-07-20T22:22:11.018937+05:30'
 tags:
 - rag
 - reddit
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:watch-youtube-tv-on-supported-devices-computer-you
-first_seen: '2026-07-07T04:21:12.788951+05:30'
-last_seen: '2026-07-07T04:21:12.788951+05:30'
-last_checked: '2026-07-07T04:21:12.788951+05:30'
+first_seen: '2026-07-20T22:22:11.018937+05:30'
+last_seen: '2026-07-20T22:22:11.018937+05:30'
+last_checked: '2026-07-20T22:22:11.018937+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,16 @@ health_score: 100
 
 ## Summary
 
-- **Supported Platforms**: YouTube TV is compatible with computers (Chrome, Firefox, Safari), smart TVs (LG 2017+, Samsung 2017+, Roku TV, Vizio SmartCast, Hisense select models, Fire TV Edition), streaming devices (Apple TV 4th Gen+, Chromecast with Google TV, Fire TV Stick/4K/Cube, Google TV, TiVo Stream 4K, Xfinity Flex), game consoles (PlayStation 4/5, Xbox One/Series X|S), and XR devices (Android XR, Meta Quest 2+, Pico, Apple Vision Pro).
+- **Supported Platforms & Devices**: YouTube TV is compatible with computers (Chrome/Firefox/Safari), smart TVs (LG/Samsung/Roku/Vizio/etc.), streaming devices (Chromecast, Fire TV, Apple TV, Roku), game consoles (PlayStation, Xbox), and XR devices (Meta Quest, Apple Vision Pro).
 
-- **System Requirements & Troubleshooting**: Requires latest Chrome/Firefox/Safari for computers; HDCP errors on Roku require enabling "HDMI Ultra HD Color"; Apple TV issues (blank screen/flickering) resolved by setting video format to SDR or disabling "Match Dynamic Range"; local stations require GPS or manual location verification via mobile device.
+- **System Requirements & Troubleshooting**:
+  - **Computers**: Requires latest Chrome/Firefox/Safari; external displays may cause black screens.
+  - **Roku**: HDCP errors resolved via HDMI Ultra HD Color setting; choppy playback fixed by disabling HDR in Display Type settings.
+  - **Apple TV**: Blank screens/flickering mitigated by setting SDR format with Match Dynamic Range ON or disabling dynamic range matching.
 
-- **Multiview & Performance Notes**: Older devices (<2018) may have reduced multiview functionality; first-gen Chromecast may experience higher error rates and slower startup; devices with ≤512MB RAM may have limited features.
+- **Local Stations & Multiview**:
+  - **Local Stations**: GPS-deficient devices require mobile location verification via **Settings > Location > Update playback area**.
+  - **Multiview**: Older pre-2018 devices may have reduced multiview customization or picture quality.
 
 ## Why It Matters
 
@@ -37,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T04:21:12.788944+05:30
+- Published: 2026-07-20T22:22:11.018923+05:30
 
 ## Related Tags
 
@@ -48,4 +53,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://support.google.com/youtubetv/answer/7129767?hl=en&ref_topic=7071745
+Original source: https://support.google.com/youtubetv/answer/7129767

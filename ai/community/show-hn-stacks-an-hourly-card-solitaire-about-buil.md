@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:show-hn-stacks-an-hourly-card-solitaire-about-buil
 first_seen: '2026-07-20T20:03:44.423427+05:30'
 last_seen: '2026-07-20T20:03:44.423427+05:30'
 last_checked: '2026-07-20T20:03:44.423427+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Stacks – an hourly card solitaire about building four gardens
 

@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/airweave-ai/airweave
-collected_at: '2026-07-20T20:07:28.468159+05:30'
+collected_at: '2026-07-20T22:18:12.042021+05:30'
 published_at: '2026-07-20T12:50:07Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 stars: 6489
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-12-24T10:00:06Z'
 pushed_at: '2026-06-05T09:52:19Z'
 resource_id: github:airweave-ai/airweave
-first_seen: '2026-07-20T20:07:28.468159+05:30'
-last_seen: '2026-07-20T20:07:28.468159+05:30'
-last_checked: '2026-07-20T20:07:28.468159+05:30'
+first_seen: '2026-07-20T22:18:12.042021+05:30'
+last_seen: '2026-07-20T22:18:12.042021+05:30'
+last_checked: '2026-07-20T22:18:12.042021+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Context Retrieval Layer**: Open-source Python-based framework (`airweave-ai/airweave`) designed as a retrieval-augmented generation (RAG) layer for AI agents, enabling dynamic context integration from enterprise data sources.
-
-- **Enterprise Data Connectors**: Supports semantic search, API-based data connectors, and integration with structured/unstructured data (e.g., databases, documents) via modular plugins for real-time context retrieval.
-
-- **Agent Infrastructure SDK**: Provides a developer-friendly SDK for building AI agents with retrieval-augmented capabilities, featuring search APIs, semantic indexing, and scalable retrieval pipelines for LLM augmentation.
+- **Purpose**: Open-source context retrieval layer designed to enhance AI agents by providing structured, semantic search capabilities for enterprise data integration.
+- **Key Features**: Supports RAG (Retrieval-Augmented Generation), semantic search, and multiple data connectors via a Python-based SDK and API.
+- **Technical Stack**: Python-based, with enterprise-focused tools for API-driven context retrieval, search optimization, and agent infrastructure integration.
 
 ## Why It Matters
 

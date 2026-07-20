@@ -4,18 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://pandoc.org/
-published_at: '2026-07-19T21:50:53.303996+05:30'
-collected_at: '2026-07-19T21:50:53.304007+05:30'
+published_at: '2026-07-20T22:25:06.640044+05:30'
+collected_at: '2026-07-20T22:25:06.640054+05:30'
 tags:
 - hackernews
 - paper
 - rag
+- reddit
 - web-crawled
 status: active
 resource_id: blog:pandoc-index
-first_seen: '2026-07-19T21:50:53.304007+05:30'
-last_seen: '2026-07-19T21:50:53.304007+05:30'
-last_checked: '2026-07-19T21:50:53.304007+05:30'
+first_seen: '2026-07-20T22:25:06.640054+05:30'
+last_seen: '2026-07-20T22:25:06.640054+05:30'
+last_checked: '2026-07-20T22:25:06.640054+05:30'
 health_score: 100
 ---
 
@@ -23,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Universal document converter** supporting bidirectional conversion between 30+ markup, documentation, ebook, word processor, and presentation formats (e.g., Markdown ↔︎ LaTeX, EPUB ↔︎ FictionBook2, docx ↔︎ ODT, PowerPoint ↔︎ reveal.js).
+- **Universal document converter**: Pandoc supports bidirectional conversion between 40+ markup formats (e.g., Markdown, LaTeX, HTML, EPUB, Word DOCX) and unidirectional conversion to niche formats (e.g., ICML, Typst, Beamer), enabling seamless cross-format document processing.
 
-- **Advanced markup processing** with native support for LaTeX math, citations (BibTeX/BibLaTeX/CSL), metadata, tables, syntax-highlighted code blocks, and custom Lua-based readers/writers for extended formats.
+- **Advanced markup & citation handling**: Supports LaTeX math, syntax-highlighted code blocks, and automatic bibliography generation via CSL styles, with citations (e.g., `@doe99, pp. 33-35`) dynamically formatted across all output formats.
 
-- **Multi-format output pipeline** enabling PDF generation via LaTeX engines (pdflatex/xelatex) or direct HTML-to-PDF tools (wkhtmltopdf/WeasyPrint), alongside HTML5, EPUB, and XML-based formats with embedded citations and structured bibliographies.
+- **Extensible architecture**: Modular Haskell library with custom reader/writer support (Lua), template system, and filter-based customization; PDF output via multiple LaTeX engines or HTML-to-PDF tools (e.g., `wkhtmltopdf`, `weasyprint`).
 
 ## Why It Matters
 
@@ -37,13 +38,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-19T21:50:53.303996+05:30
+- Published: 2026-07-20T22:25:06.640044+05:30
 
 ## Related Tags
 
 - hackernews
 - paper
 - rag
+- reddit
 - web-crawled
 
 ## Source

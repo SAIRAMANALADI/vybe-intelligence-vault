@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- `copilot completion SHELL` generates shell scripts for tab completion in `bash`, `zsh`, or `fish`; sourcing these enables contextual command/option completion.
-- Interactive interface supports global shortcuts like `@ FILENAME` (include file context), `! COMMAND` (shell bypass), and `Ctrl+X`/`e` (external editor integration).
-- `copilot plugins list` enumerates plugins, MCP servers, skills, and LSPs in the workspace, with filtering via `--kind`/`--scope` and JSON output support.
+- `copilot completion SHELL` generates shell completion scripts for `bash`, `zsh`, or `fish` to enable tab completion for Copilot CLI subcommands and options.
+- Interactive interface supports global shortcuts like `@ FILENAME` (include file), `! COMMAND` (shell execution), `Ctrl+X`/`e` (external editor), and `Shift+Tab` (cycle modes).
+- `copilot plugins list` inspects plugins, MCP servers, skills, and LSPs in the workspace with filtering via `--kind` and `--scope` flags.
 
 ## Use Cases
 

@@ -1,13 +1,26 @@
 ---
-title: "wacht-platform/snippet-service"
-category: "Agent Framework"
-tech_stack: ["Rust", "Terminal UI (TUI)", "HTTP/WebSocket", "Cloudflare Tunnel", "TOML (configuration)", "msgpack (session persistence)", "OAuth (ChatGPT subscription)", "Docker (optional)"]
+title: wacht-platform/snippet-service
+category: daily-digests/2026-07-20
+tech_stack:
+- Rust
+- Terminal UI (TUI)
+- HTTP/WebSocket
+- Cloudflare Tunnel
+- TOML (configuration)
+- msgpack (session persistence)
+- OAuth (ChatGPT subscription)
+- Docker (optional)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI coding agent", "terminal-based", "remote control", "multi-model support", "durable sessions"]
-source: "https://github.com/wacht-platform/snippet-service"
-discovered_at: "2026-07-12T10:26:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding agent
+- terminal-based
+- remote control
+- multi-model support
+- durable sessions
+source: https://github.com/wacht-platform/snippet-service
+discovered_at: '2026-07-12T10:26:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

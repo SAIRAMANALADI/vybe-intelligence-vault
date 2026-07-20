@@ -4,19 +4,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai
-published_at: '2026-07-20T20:09:33.775441+05:30'
-collected_at: '2026-07-20T20:09:33.775456+05:30'
+published_at: '2026-07-20T22:20:17.420486+05:30'
+collected_at: '2026-07-20T22:20:17.420498+05:30'
 tags:
 - agents
 - anthropic
+- benchmark
 - rag
 - web-crawled
 - youtube
 status: active
 resource_id: blog:langchain-github
-first_seen: '2026-07-20T20:09:33.775456+05:30'
-last_seen: '2026-07-20T20:09:33.775456+05:30'
-last_checked: '2026-07-20T20:09:33.775456+05:30'
+first_seen: '2026-07-20T22:20:17.420498+05:30'
+last_seen: '2026-07-20T22:20:17.420498+05:30'
+last_checked: '2026-07-20T22:20:17.420498+05:30'
 health_score: 100
 ---
 
@@ -24,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications, while LangGraph/LangGraph.js enable building LLM agents as computational graphs with explicit state management.
+- **Core Libraries**: LangChain/LangChain.js provide reusable LLM application components and integrations; LangGraph/LangGraph.js enable building LLM agents as computational graphs; Deep Agents/Deep Agents.js support hierarchical agent planning, subagent delegation, and file system interactions.
 
-- **Agent Frameworks**: Deep Agents/Deep Agents.js support hierarchical agent planning, subagent delegation, and filesystem interactions for complex task execution, with commercial-grade monitoring via LangSmith.
+- **Commercial Platform**: LangSmith offers an enterprise-grade environment for developing, deploying, and monitoring production LLM applications with observability and evaluation tools.
 
-- **OSS Extensions & Protocols**: Includes MCP Adapters for tool compatibility, Agent Protocol for standardized agent APIs, and specialized agents like `dcode` (terminal-based coding) and OpenWiki (CLI-driven wiki generation).
+- **OSS Extensions**: Includes `dcode` (terminal-based coding agent), Open SWE (asynchronous coding agent), MCP Adapters (MCP tool compatibility), Agent Protocol (standardized agent APIs), and OpenWiki (CLI-based codebase/wiki generation).
 
 ## Why It Matters
 
@@ -38,12 +39,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T20:09:33.775441+05:30
+- Published: 2026-07-20T22:20:17.420486+05:30
 
 ## Related Tags
 
 - agents
 - anthropic
+- benchmark
 - rag
 - web-crawled
 - youtube

@@ -4,15 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-07-20T20:07:38.389336+05:30'
+collected_at: '2026-07-20T22:18:22.051187+05:30'
 published_at: '2026-07-20T07:34:57Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - openai
 - python
-- scripts
 - workflows
 stars: 931
 language: Python
@@ -22,9 +20,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-07-20T20:07:38.389336+05:30'
-last_seen: '2026-07-20T20:07:38.389336+05:30'
-last_checked: '2026-07-20T20:07:38.389336+05:30'
+first_seen: '2026-07-20T22:18:22.051187+05:30'
+last_seen: '2026-07-20T22:18:22.051187+05:30'
+last_checked: '2026-07-20T22:18:22.051187+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository provides structured methodologies to transition from "vibe coding" to agentic engineering using Codex CLI, emphasizing modular, reusable components and automated workflows for AI-driven development.
+- **Agentic Workflow Integration**: Repository provides structured methodologies for transitioning from *vibe coding* to *agentic engineering* using **Codex CLI**, emphasizing modular agentic workflows, hooks, and context engineering for AI-driven development.
 
-- **CLI-Centric Best Practices**: Focuses on Codex CLI commands, skills, and hooks to optimize AI agent interactions, including context engineering techniques for efficient prompt management and stateful agent orchestration.
+- **Codex CLI Best Practices**: Documents optimized **Codex CLI commands**, skills, and agentic patterns (e.g., `codex-cli-agents`, `codex-hooks`) to enhance productivity, reproducibility, and scalability in AI-assisted coding workflows.
 
-- **Open-Source Toolkit**: Offers Python-based templates and examples for Pakistani developers, covering agentic coding patterns, OpenAI API integrations, and CLI-driven automation for scalable AI engineering workflows.
+- **Open-Source Contribution & Localization**: Open-source project (Python-based) with active community contributions, targeting **Pakistani developers** and broader AI engineering practices, last updated July 2026.
 
 ## Why It Matters
 

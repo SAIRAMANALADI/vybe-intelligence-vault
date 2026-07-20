@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-20T20:06:48.417435+05:30'
+collected_at: '2026-07-20T22:17:31.999688+05:30'
 published_at: '2026-07-13T12:27:27Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-20T20:06:48.417435+05:30'
-last_seen: '2026-07-20T20:06:48.417435+05:30'
-last_checked: '2026-07-20T20:06:48.417435+05:30'
+first_seen: '2026-07-20T22:17:31.999688+05:30'
+last_seen: '2026-07-20T22:17:31.999688+05:30'
+last_checked: '2026-07-20T22:17:31.999688+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a **memory-organized RAG** system inspired by human cognition, enabling **stateful long narrative reasoning** via structured memory hierarchies for context retention.
-
-- **Stateful Reasoning**: Implements **dynamic memory updates** and **contextual retrieval** to maintain coherent reasoning across extended dialogues or narratives, leveraging **hierarchical memory indexing**.
-
-- **AAAI 2026 Contribution**: Proposes a novel **post-training framework** for LLMs, optimizing **memory-driven retrieval** and **reasoning consistency** in long-form tasks, validated via poster presentation.
+- **Cognitive Architecture**: Introduces *ComoRAG*, a Retrieval-Augmented Generation (RAG) framework inspired by human memory organization, enabling stateful reasoning over long narratives via structured memory modules.
+- **Memory Organization**: Implements hierarchical memory structures (e.g., episodic, semantic) to dynamically store, retrieve, and update contextual information, improving coherence in multi-turn reasoning tasks.
+- **Performance**: Achieves state-of-the-art results on long-form narrative benchmarks (AAAI 2026 evaluation), demonstrating superior reasoning consistency and reduced hallucination rates compared to traditional RAG systems.
 
 ## Why It Matters
 

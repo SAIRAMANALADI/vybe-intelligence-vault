@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-07-20T20:05:58.267377+05:30'
+collected_at: '2026-07-20T22:16:41.936461+05:30'
 published_at: '2026-07-17T22:50:34Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-07-20T20:05:58.267377+05:30'
-last_seen: '2026-07-20T20:05:58.267377+05:30'
-last_checked: '2026-07-20T20:05:58.267377+05:30'
+first_seen: '2026-07-20T22:16:41.936461+05:30'
+last_seen: '2026-07-20T22:16:41.936461+05:30'
+last_checked: '2026-07-20T22:16:41.936461+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,11 @@ health_score: 100
 
 ## Summary
 
-- Implements **Retrieval-Augmented Generation (RAG)** optimized for **Vietnamese language processing**, leveraging Vietnamese-specific embeddings and retrieval strategies.
-- Utilizes **Python** with frameworks like `LangChain`, `FAISS`, and `Vietnamese embedding models` (e.g., `vinai/phobert-base`) for efficient document retrieval and generation.
-- Demonstrates **best practices** in RAG pipeline design, including **chunking strategies**, **vector database indexing**, and **query optimization** tailored for Vietnamese text.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) best practices optimized for Vietnamese text processing using Python, leveraging vector databases and embedding models tailored for Vietnamese language semantics.
+
+- **Architecture**: Features a modular backend with components for document retrieval (e.g., FAISS or Chroma), embedding generation (e.g., `vinai/phobert-base`), and integration with LLM APIs (e.g., Hugging Face Transformers) for context-aware generation.
+
+- **Scalability**: Includes preprocessing pipelines for Vietnamese text (tokenization, normalization) and supports dynamic retrieval strategies (e.g., hybrid search combining dense and sparse retrieval) to enhance accuracy in low-resource language scenarios.
 
 ## Why It Matters
 

@@ -1,13 +1,26 @@
 ---
-title: "MuhammadMustafa18/WhatsAppLangraphAgent"
-category: "Agent Framework"
-tech_stack: ["Python", "LangGraph", "FastAPI", "OpenWA", "ngrok", "Docker", "TypedDict", "Uvicorn"]
+title: MuhammadMustafa18/WhatsAppLangraphAgent
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- LangGraph
+- FastAPI
+- OpenWA
+- ngrok
+- Docker
+- TypedDict
+- Uvicorn
 quality_score: 8
 rag_relevance: 7
-tags: ["LangGraph", "WhatsApp bot", "state management", "tutorial", "multi-agent"]
-source: "https://github.com/MuhammadMustafa18/WhatsAppLangraphAgent"
-discovered_at: "2026-07-19T16:57:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LangGraph
+- WhatsApp bot
+- state management
+- tutorial
+- multi-agent
+source: https://github.com/MuhammadMustafa18/WhatsAppLangraphAgent
+discovered_at: '2026-07-19T16:57:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act
-published_at: '2026-07-08T14:27:12.508700+05:30'
-collected_at: '2026-07-08T14:27:12.508712+05:30'
+published_at: '2026-07-20T22:23:46.834723+05:30'
+collected_at: '2026-07-20T22:23:46.834736+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:digital-millennium-copyright-act-wikipedia
-first_seen: '2026-07-08T14:27:12.508712+05:30'
-last_seen: '2026-07-08T14:27:12.508712+05:30'
-last_checked: '2026-07-08T14:27:12.508712+05:30'
+first_seen: '2026-07-20T22:23:46.834736+05:30'
+last_seen: '2026-07-20T22:23:46.834736+05:30'
+last_checked: '2026-07-20T22:23:46.834736+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Legal Framework**: U.S. copyright law (1998) implementing WIPO treaties, criminalizing circumvention of DRM and access controls, with penalties for copyright infringement on the internet.
+- **Legal Framework**: Enacted in 1998 (Pub. L. 105-304), the DMCA amends Title 17 of the U.S. Code to implement WIPO treaties, criminalizing circumvention of DRM and imposing penalties for copyright infringement on digital platforms.
 
-- **Liability Exemptions**: Introduces safe harbor provisions for ISPs and intermediaries (Title 17 U.S.C. § 512), shielding them from direct/indirect liability for user-generated infringing content.
+- **Safe Harbor Provisions**: Establishes §512 of U.S. Copyright Law, shielding ISPs and online service providers from liability for user-generated infringing content if they comply with takedown notices under the "notice-and-takedown" system.
 
-- **Amendments & Scope**: Modifies Title 17 U.S.C. to extend copyright reach, including §§ 1201–1205 (anti-circumvention) and § 1301–1332 (protection of vessel hull designs), while amending existing sections (e.g., 17 U.S.C. § 108 for library exemptions).
+- **Anti-Circumvention & Liability**: Prohibits production/distribution of tools/services designed to bypass access controls (17 U.S.C. §1201) and heightens penalties for willful copyright infringement, balancing copyright enforcement with intermediary protections.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T14:27:12.508700+05:30
+- Published: 2026-07-20T22:23:46.834723+05:30
 
 ## Related Tags
 

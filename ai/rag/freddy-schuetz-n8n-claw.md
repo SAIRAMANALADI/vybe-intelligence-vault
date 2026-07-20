@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-07-20T20:08:28.447363+05:30'
+collected_at: '2026-07-20T22:19:12.081678+05:30'
 published_at: '2026-07-19T16:45:01Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-07-17T20:06:51Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-07-20T20:08:28.447363+05:30'
-last_seen: '2026-07-20T20:08:28.447363+05:30'
-last_checked: '2026-07-20T20:08:28.447363+05:30'
+first_seen: '2026-07-20T22:19:12.081678+05:30'
+last_seen: '2026-07-20T22:19:12.081678+05:30'
+last_checked: '2026-07-20T22:19:12.081678+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging adaptive RAG-powered memory for dynamic context retention and retrieval.
+- **Autonomous AI Agent Framework**: OpenClaw-inspired system built entirely in n8n, featuring adaptive Retrieval-Augmented Generation (RAG) memory, MCP-based Skills integration, and Expert Agents with delegated sub-agents for hierarchical task execution.
 
-- **Core Features**: Supports Skills via MCP templates, Expert Agents with delegated sub-agents, proactive task management, and media understanding capabilities, all self-hosted via a single setup script.
+- **Proactive Task & Media Handling**: Supports proactive task management, media understanding, and self-hosted deployment via a single setup script, leveraging tools like Crawl4AI for scraping and SearXNG for search engine functionality.
 
-- **Integration & Deployment**: Combines tools like Crawl4AI for scraping, SearXNG for search, and Supabase for storage, with full compatibility for MCP and n8n workflows, updated as of July 19, 2026.
+- **Tech Stack & Integration**: Primarily shell-based, with dependencies on Supabase for storage, MCP for skill templates, and n8n for workflow orchestration, targeting AI agent frameworks and automation workflows.
 
 ## Why It Matters
 

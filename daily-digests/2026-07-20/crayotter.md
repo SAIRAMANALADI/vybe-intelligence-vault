@@ -1,13 +1,30 @@
 ---
-title: "idwts/Crayotter"
-category: "Agent Framework"
-tech_stack: ["Python", "LangGraph (StateGraph)", "FFmpeg", "yt-dlp", "Multimodal LLMs (e.g., Qwen-VL, Qwen-TTS)", "LangChain", "React", "Tailwind CSS", "DAG Scheduling", "TTS (Text-to-Speech)", "Audio Processing (Loudnorm, Ducking)", "Web UI (Workbench GUI)"]
+title: idwts/Crayotter
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- LangGraph (StateGraph)
+- FFmpeg
+- yt-dlp
+- Multimodal LLMs (e.g., Qwen-VL, Qwen-TTS)
+- LangChain
+- React
+- Tailwind CSS
+- DAG Scheduling
+- TTS (Text-to-Speech)
+- Audio Processing (Loudnorm, Ducking)
+- Web UI (Workbench GUI)
 quality_score: 9
 rag_relevance: 7
-tags: ["video editing", "multimodal agents", "autonomous workflow", "traceable AI", "text-to-video"]
-source: "https://github.com/idwts/Crayotter"
-discovered_at: "2026-07-20T15:10:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- video editing
+- multimodal agents
+- autonomous workflow
+- traceable AI
+- text-to-video
+source: https://github.com/idwts/Crayotter
+discovered_at: '2026-07-20T15:10:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

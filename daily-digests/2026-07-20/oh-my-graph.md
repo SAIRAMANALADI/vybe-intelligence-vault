@@ -1,13 +1,23 @@
 ---
-title: "h0n9/oh-my-graph"
-category: "Orchestrator"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "HTTP Server", "JSONL Storage", "Force-Directed Graph Visualization"]
+title: h0n9/oh-my-graph
+category: daily-digests/2026-07-20
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- HTTP Server
+- JSONL Storage
+- Force-Directed Graph Visualization
 quality_score: 9
 rag_relevance: 10
-tags: ["persistent context", "knowledge graph", "MCP server", "session continuity", "project understanding"]
-source: "https://github.com/h0n9/oh-my-graph"
-discovered_at: "2026-07-20T12:22:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- persistent context
+- knowledge graph
+- MCP server
+- session continuity
+- project understanding
+source: https://github.com/h0n9/oh-my-graph
+discovered_at: '2026-07-20T12:22:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

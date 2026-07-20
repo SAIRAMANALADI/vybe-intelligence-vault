@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/copilot/cli
-published_at: '2026-07-20T20:11:30.511951+05:30'
-collected_at: '2026-07-20T20:11:30.511967+05:30'
+published_at: '2026-07-20T22:22:20.444483+05:30'
+collected_at: '2026-07-20T22:22:20.444497+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-07-20T20:11:30.511967+05:30'
-last_seen: '2026-07-20T20:11:30.511967+05:30'
-last_checked: '2026-07-20T20:11:30.511967+05:30'
+first_seen: '2026-07-20T22:22:20.444497+05:30'
+last_seen: '2026-07-20T22:22:20.444497+05:30'
+last_checked: '2026-07-20T22:22:20.444497+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Workflows**: Copilot CLI supports `/fleet` for parallelized subagent execution across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching, enabling concurrent task processing and decision convergence.
+- **Multi-Agent Workflows**: GitHub Copilot CLI supports parallelized subagent execution via `/fleet`, enabling concurrent task processing across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching for comparative analysis.
 
-- **GitHub-Native Integration**: Built on GitHub’s native `/mcp` protocol, it interacts with issues, PRs, branches, and labels while enforcing org-specific policies (e.g., branch protections, required checks) via Copilot Business/Enterprise subscriptions.
+- **Native GitHub Integration**: Built on GitHub’s `/mcp` protocol, Copilot CLI interacts directly with issues, PRs, and branches, inheriting organization policies (branch protections, governance) and enabling seamless transitions from `/plan` to merged code.
 
-- **Terminal-to-IDE Continuity**: Enables `/plan` → CLI execution → VS Code refinement workflows, with `/delegate` for autonomous branch/PR creation and `/remote` for cross-device monitoring via GitHub.com or mobile.
+- **Session Persistence & Autopilot**: Maintains context across sessions via `/resume`, supports autopilot mode (Shift+Tab) for autonomous task execution, and allows customization through `/agent` and `/skills` definitions in `AGENTS.md` for consistent behavior.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-20T20:11:30.511951+05:30
+- Published: 2026-07-20T22:22:20.444483+05:30
 
 ## Related Tags
 

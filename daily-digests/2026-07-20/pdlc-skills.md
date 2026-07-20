@@ -1,13 +1,24 @@
 ---
-title: "kanfu-panda/pdlc-skills"
-category: "Tooling"
-tech_stack: ["Claude Code", "Shell", "Markdown", "JSON", "Git", "CI/CD"]
+title: kanfu-panda/pdlc-skills
+category: daily-digests/2026-07-20
+tech_stack:
+- Claude Code
+- Shell
+- Markdown
+- JSON
+- Git
+- CI/CD
 quality_score: 9
 rag_relevance: 8
-tags: ["AI workflow automation", "TDD enforcement", "PDLC standardization", "Claude Code plugin", "artifact persistence"]
-source: "https://github.com/kanfu-panda/pdlc-skills"
-discovered_at: "2026-07-18T05:24:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI workflow automation
+- TDD enforcement
+- PDLC standardization
+- Claude Code plugin
+- artifact persistence
+source: https://github.com/kanfu-panda/pdlc-skills
+discovered_at: '2026-07-18T05:24:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -3,7 +3,7 @@ title: GitHub Status
 archive_category: public-apis
 source_category: ai/rag
 source_url: https://githubstatus.com
-resource_id: blog:github-status
+resource_id: blog:github-status-15829426
 local_vault_path: ai/rag/github-status.md
 quality_score: 70
 archive_score: 72

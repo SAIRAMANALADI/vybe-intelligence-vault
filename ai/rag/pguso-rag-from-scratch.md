@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-07-20T20:05:23.253656+05:30'
+collected_at: '2026-07-20T22:16:06.854963+05:30'
 published_at: '2026-07-20T02:18:09Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - javascript
 - meta-ai
 - models
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-07-20T20:05:23.253656+05:30'
-last_seen: '2026-07-20T20:05:23.253656+05:30'
-last_checked: '2026-07-20T20:05:23.253656+05:30'
+first_seen: '2026-07-20T22:16:06.854963+05:30'
+last_seen: '2026-07-20T22:16:06.854963+05:30'
+last_checked: '2026-07-20T22:16:06.854963+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Provides a step-by-step, open-source tutorial in JavaScript for building a Retrieval-Augmented Generation (RAG) system from scratch using local LLMs (via `node-llama-cpp`), emphasizing transparency over black-box solutions.
-
-- **Core Technical Components**: Demonstrates end-to-end RAG pipeline development, including embeddings generation, vector search (likely with a library like `hnswlib` or `faiss`), retrieval mechanisms, and context-augmented LLM generation.
-
-- **Local-First & Agent-Oriented**: Focuses on local LLM execution (no cloud dependency) and integrates AI agent capabilities, targeting Node.js environments for modular, educational, and production-ready RAG applications.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline in JavaScript using `node-llama-cpp` for local LLMs, emphasizing transparency by avoiding proprietary APIs.
+- **Core Components**: Covers embeddings generation, vector search (likely via cosine similarity), retrieval augmentation, and context-augmented generation with step-by-step code.
+- **Educational Focus**: Provides a hands-on tutorial to dissect RAG mechanics, including agents, chatbot integration, and pipeline optimization for Node.js environments.
 
 ## Why It Matters
 

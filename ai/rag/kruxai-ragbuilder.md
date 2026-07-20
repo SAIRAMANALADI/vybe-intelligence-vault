@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KruxAI/ragbuilder
-collected_at: '2026-07-20T20:06:38.414185+05:30'
-published_at: '2026-07-19T01:29:12Z'
+collected_at: '2026-07-20T22:17:22.092647+05:30'
+published_at: '2026-07-20T15:01:58Z'
 tags:
 - benchmark
 - github-repo
 - python
 - rag
-- scripts
 - workflows
-stars: 1537
+stars: 1536
 language: Python
 status: active
 license: Apache-2.0
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-06-24T07:25:00Z'
 pushed_at: '2025-05-20T03:53:13Z'
 resource_id: github:kruxai/ragbuilder
-first_seen: '2026-07-20T20:06:38.414185+05:30'
-last_seen: '2026-07-20T20:06:38.414185+05:30'
-last_checked: '2026-07-20T20:06:38.414185+05:30'
+first_seen: '2026-07-20T22:17:22.092647+05:30'
+last_seen: '2026-07-20T22:17:22.092647+05:30'
+last_checked: '2026-07-20T22:17:22.092647+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Automation**: Provides a Python-based toolkit for automating the creation of production-ready Retrieval Augmented Generation (RAG) systems, optimizing data ingestion, retrieval, and generation workflows.
+- **RAG Optimization Toolkit**: Python-based framework (`KruxAI/ragbuilder`) designed to streamline the creation of production-grade Retrieval Augmented Generation (RAG) systems, emphasizing scalability and deployment readiness.
 
-- **Modular Architecture**: Supports customizable components (e.g., embedders, retrievers, LLMs) with pre-configured pipelines for rapid deployment, leveraging open-source libraries like LangChain and FAISS.
+- **Modular Architecture**: Implements configurable pipelines for data ingestion, chunking, embedding, retrieval, and generation, with built-in support for benchmarking and optimization of RAG components.
 
-- **Scalability & Monitoring**: Includes built-in tools for performance benchmarking, logging, and scaling RAG pipelines, ensuring efficiency for large-scale deployments.
+- **GenAI Integration**: Supports integration with leading LLM providers and vector databases (e.g., FAISS, Chroma), enabling fine-tuned retrieval and generation workflows for enterprise-grade applications.
 
 ## Why It Matters
 
@@ -44,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: KruxAI
-- Stars: 1537
+- Stars: 1536
 - Forks: 127
 - Language: Python
 - Topics: developer-tools, genai, rag
-- Last Updated: 2026-07-19T01:29:12Z
+- Last Updated: 2026-07-20T15:01:58Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-06-24T07:25:00Z

@@ -4,15 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aws-samples/amazon-bedrock-samples
-collected_at: '2026-07-20T20:05:53.325558+05:30'
+collected_at: '2026-07-20T22:16:37.010874+05:30'
 published_at: '2026-07-19T16:39:29Z'
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
-- models
 - rag
-- workflows
 stars: 1476
 language: Jupyter Notebook
 status: active
@@ -21,9 +18,9 @@ archived: false
 created_at: '2023-07-05T18:23:34Z'
 pushed_at: '2026-07-15T23:16:03Z'
 resource_id: github:aws-samples/amazon-bedrock-samples
-first_seen: '2026-07-20T20:05:53.325558+05:30'
-last_seen: '2026-07-20T20:05:53.325558+05:30'
-last_checked: '2026-07-20T20:05:53.325558+05:30'
+first_seen: '2026-07-20T22:16:37.010874+05:30'
+last_seen: '2026-07-20T22:16:37.010874+05:30'
+last_checked: '2026-07-20T22:16:37.010874+05:30'
 health_score: 100
 ---
 
@@ -31,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Content**: Provides Jupyter Notebook examples demonstrating Amazon Bedrock's foundational models, including Amazon Titan, for generative AI, embeddings, and retrieval-augmented generation (RAG) workflows.
+- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook-based examples for all available Amazon Bedrock foundational models, facilitating customer onboarding and usage.
 
-- **Integration Focus**: Includes examples leveraging LangChain for building knowledge bases and implementing RAG pipelines with Amazon Bedrock's APIs.
+- **Multi-Model & Use Case Support**: Includes implementations for Amazon Titan, embeddings, generative AI, knowledge bases, and RAG (Retrieval-Augmented Generation) with LangChain integration.
 
-- **Technical Scope**: Covers end-to-end use cases for Amazon Bedrock, emphasizing model deployment, fine-tuning, and integration with AWS services for AI/ML applications.
+- **AWS Service Integration**: Demonstrates practical applications leveraging Amazon Bedrock's capabilities within AWS ecosystems, updated as of July 19, 2026.
 
 ## Why It Matters
 

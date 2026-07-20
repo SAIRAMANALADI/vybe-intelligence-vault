@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial
-collected_at: '2026-07-20T20:05:28.232578+05:30'
+collected_at: '2026-07-20T22:16:11.916002+05:30'
 published_at: '2026-05-04T02:37:33Z'
 tags:
+- frontend_ui
 - github-repo
-- hackernews
 - meta-ai
 - models
 - rag
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-04-05T21:12:53Z'
 pushed_at: '2024-04-08T10:45:53Z'
 resource_id: github:rsrohan99/rag-stream-intermediate-events-tutorial
-first_seen: '2026-07-20T20:05:28.232578+05:30'
-last_seen: '2026-07-20T20:05:28.232578+05:30'
-last_checked: '2026-07-20T20:05:28.232578+05:30'
+first_seen: '2026-07-20T22:16:11.916002+05:30'
+last_seen: '2026-07-20T22:16:11.916002+05:30'
+last_checked: '2026-07-20T22:16:11.916002+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Intermediate Event Streaming**: Demonstrates how to stream intermediate LlamaIndex RAG events (e.g., node parsing, retrieval, synthesis) via Server-Sent Events (SSE) to the Vercel AI SDK for real-time client updates.
+- **Intermediate Event Streaming**: Demonstrates how to stream intermediate LlamaIndex RAG events (e.g., node parsing, retrieval) via Server-Sent Events (SSE) to the Vercel AI SDK for real-time client updates.
 
-- **Technical Integration**: Uses TypeScript to bridge LlamaIndex’s event system with Vercel AI SDK’s streaming interface, ensuring structured, incremental data flow without full response buffering.
+- **Vercel AI SDK Integration**: Shows server-side event emission (`response.stream`) and client-side consumption (`useCompletion`) to handle streaming responses in a Next.js/React application.
 
-- **Implementation Focus**: Provides a tutorial on configuring SSE endpoints, event serialization, and client-side handling to optimize latency and user experience in RAG pipelines.
+- **TypeScript Implementation**: Provides a TypeScript-based example with structured event payloads (e.g., `NodeStartEvent`, `RetrieveEvent`) for standardized intermediate RAG event handling.
 
 ## Why It Matters
 

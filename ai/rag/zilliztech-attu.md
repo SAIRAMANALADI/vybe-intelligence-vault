@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zilliztech/attu
-collected_at: '2026-07-20T15:11:06.204738+05:30'
+collected_at: '2026-07-20T22:22:25.376906+05:30'
 published_at: '2026-07-19T16:37:03Z'
 tags:
+- frontend_ui
 - github-repo
 - hackernews
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2021-12-09T09:15:33Z'
 pushed_at: '2026-06-11T06:23:28Z'
 resource_id: github:zilliztech/attu
-first_seen: '2026-07-20T15:11:06.204738+05:30'
-last_seen: '2026-07-20T15:11:06.204738+05:30'
-last_checked: '2026-07-20T15:11:06.204738+05:30'
+first_seen: '2026-07-20T22:22:25.376906+05:30'
+last_seen: '2026-07-20T22:22:25.376906+05:30'
+last_checked: '2026-07-20T22:22:25.376906+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Attu is a graphical user interface (GUI) designed to simplify interactions with Milvus, an open-source vector database, by providing a user-friendly alternative to command-line operations.
-- **Technical Stack**: Primarily implemented in Shell, with dependencies on Milvus APIs for backend integration and frontend rendering.
-- **Features**: Enables visualization and management of Milvus clusters, collections, and data operations (e.g., CRUD, indexing) through an intuitive web-based interface.
+- **Attu**: A web-based GUI designed for Milvus, a scalable vector database, providing an intuitive interface for database management, schema visualization, and query execution.
+- **Technical Stack**: Primarily implemented in Shell, with potential dependencies on Node.js, React, or other frontend frameworks for the GUI components.
+- **Repository Metrics**: 3,045 stars, 218 forks, last updated July 19, 2026, focusing on Milvus-specific features like vector data handling and cluster monitoring.
 
 ## Why It Matters
 

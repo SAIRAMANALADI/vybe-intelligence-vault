@@ -1,13 +1,28 @@
 ---
-title: "erinlkolp/recallnest"
-category: "Tooling"
-tech_stack: ["TypeScript", "LanceDB", "Bun", "Node.js", "Model Context Protocol (MCP)", "HTTP API", "Web UI (React-based)", "Knowledge Graph (PPR algorithm)", "BM25", "Hybrid Retrieval (vector + BM25 + recency + RIF dedup)"]
+title: erinlkolp/recallnest
+category: daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- LanceDB
+- Bun
+- Node.js
+- Model Context Protocol (MCP)
+- HTTP API
+- Web UI (React-based)
+- Knowledge Graph (PPR algorithm)
+- BM25
+- Hybrid Retrieval (vector + BM25 + recency + RIF dedup)
 quality_score: 9
 rag_relevance: 10
-tags: ["memory management", "context continuity", "hybrid retrieval", "knowledge graph", "agent integration"]
-source: "https://github.com/erinlkolp/recallnest"
-discovered_at: "2026-07-13T18:43:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory management
+- context continuity
+- hybrid retrieval
+- knowledge graph
+- agent integration
+source: https://github.com/erinlkolp/recallnest
+discovered_at: '2026-07-13T18:43:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

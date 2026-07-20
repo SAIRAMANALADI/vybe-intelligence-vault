@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-07-20T20:05:23.273322+05:30'
-published_at: '2026-07-13T09:54:01Z'
+collected_at: '2026-07-20T22:16:06.913426+05:30'
+published_at: '2026-07-20T15:07:29Z'
 tags:
 - agents
 - github-repo
@@ -15,7 +15,7 @@ tags:
 - openai
 - rag
 - workflows
-stars: 968
+stars: 969
 language: Jupyter Notebook
 status: active
 license: Apache-2.0
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-07-20T20:05:23.273322+05:30'
-last_seen: '2026-07-20T20:05:23.273322+05:30'
-last_checked: '2026-07-20T20:05:23.273322+05:30'
+first_seen: '2026-07-20T22:16:06.913426+05:30'
+last_seen: '2026-07-20T22:16:06.913426+05:30'
+last_checked: '2026-07-20T22:16:06.913426+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Examples**: Repository provides Jupyter Notebook-based tutorials for multimodal AI, Retrieval-Augmented Generation (RAG), and agent-based workflows using vector search and LLMs.
-- **Tooling Integration**: Demonstrates integration with frameworks like LangChain, LlamaIndex, and OpenAI APIs (including GPT-4 Vision) for embedding generation, fine-tuning, and multimodal applications.
-- **Vector Database Focus**: Uses LanceDB as the vector database backend, showcasing efficient storage, retrieval, and querying of embeddings for AI/ML pipelines.
+- **Multimodal AI & RAG Examples**: Repository provides Jupyter Notebook-based tutorials and examples for multimodal AI applications, including Retrieval-Augmented Generation (RAG) and agent-based systems, leveraging vector search and Large Language Models (LLMs).
+
+- **Tooling Integration**: Demonstrates integration with frameworks like LangChain, LlamaIndex, and OpenAI's GPT-4 Vision, showcasing fine-tuning, embedding generation, and multimodal data processing workflows.
+
+- **Vector Database Focus**: Utilizes LanceDB as the vector database backend, emphasizing efficient storage, retrieval, and querying of high-dimensional embeddings for AI-driven applications.
 
 ## Why It Matters
 
@@ -44,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: lancedb
-- Stars: 968
+- Stars: 969
 - Forks: 171
 - Language: Jupyter Notebook
 - Topics: agents, ai, deep-learning, embeddings, fine-tuning, gpt, gpt-4-vision, lancedb, langchain, llama-index, llms, machine-learning, multimodal, multimodal-ai, openai, rag, vector-database
-- Last Updated: 2026-07-13T09:54:01Z
+- Last Updated: 2026-07-20T15:07:29Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-06-25T06:10:35Z

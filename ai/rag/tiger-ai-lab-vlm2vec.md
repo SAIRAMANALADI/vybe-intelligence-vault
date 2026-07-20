@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIGER-AI-Lab/VLM2Vec
-collected_at: '2026-07-20T20:06:53.494197+05:30'
+collected_at: '2026-07-20T22:17:37.060594+05:30'
 published_at: '2026-07-19T21:47:59Z'
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 - youtube
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-10-07T15:14:52Z'
 pushed_at: '2026-06-24T06:17:09Z'
 resource_id: github:tiger-ai-lab/vlm2vec
-first_seen: '2026-07-20T20:06:53.494197+05:30'
-last_seen: '2026-07-20T20:06:53.494197+05:30'
-last_checked: '2026-07-20T20:06:53.494197+05:30'
+first_seen: '2026-07-20T22:17:37.060594+05:30'
+last_seen: '2026-07-20T22:17:37.060594+05:30'
+last_checked: '2026-07-20T22:17:37.060594+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **VLM2Vec Framework**: Implements three versions (ICLR 2025, TMLR 2026, COLM 2026) of a multimodal embedding model (`VLM2Vec`, `VLM2Vec-V2`, `MMEB-V3`) leveraging contrastive learning for representation learning across images, videos, and documents.
+- **VLM2Vec Framework**: Implements three versions (ICLR 2025, TMLR 2026, COLM 2026) of a **contrastive-learning-based multimodal embedding model** (MMEB) for tasks like image/video retrieval, visual document retrieval, and RAG applications.
 
-- **MMEB Benchmark Suite**: Provides a standardized evaluation framework (`MMEB`, `MMEB-V2`, `MMEB-V3`) for multimodal embedding tasks, including image retrieval, video retrieval, and visual document retrieval.
+- **Technical Scope**: Supports **multimodal representation learning** with Python, covering **image, video, and document embeddings** via contrastive pretraining and evaluation benchmarks (e.g., MMEB, MMEB-V2, MMEB-V3).
 
-- **Python Implementation**: Repository includes code for training, evaluation, and benchmarking, with support for Retrieval-Augmented Generation (RAG) and multimodal contrastive learning.
+- **Repository Features**: Includes **benchmarking tools**, **embedding extraction**, and **retrieval pipelines** optimized for **VLM (Vision-Language Model)** tasks, with last update on **2026-07-19**.
 
 ## Why It Matters
 

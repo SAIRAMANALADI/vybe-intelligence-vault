@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-07-20T20:05:43.220931+05:30'
+collected_at: '2026-07-20T22:16:26.953609+05:30'
 published_at: '2026-07-20T14:35:03Z'
 tags:
 - github-repo
+- models
 - python
 - rag
 stars: 1980
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-07-20T20:05:43.220931+05:30'
-last_seen: '2026-07-20T20:05:43.220931+05:30'
-last_checked: '2026-07-20T20:05:43.220931+05:30'
+first_seen: '2026-07-20T22:16:26.953609+05:30'
+last_seen: '2026-07-20T22:16:26.953609+05:30'
+last_checked: '2026-07-20T22:16:26.953609+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (SLMs) to reduce computational overhead while maintaining performance, as presented in ACL 2026.
-
-- **Architectural Efficiency**: Implements a lightweight retrieval mechanism paired with a distilled generation model, optimizing for low-latency inference and minimal resource consumption without sacrificing output quality.
-
-- **Open-Source Implementation**: Provides a Python-based, modular codebase (1980+ stars) with pre-trained models, enabling reproducibility and customization for downstream RAG applications.
+- **MiniRAG Framework**: Introduces a simplified RAG pipeline leveraging small, open-source language models (SLMs) to reduce computational overhead while maintaining competitive performance, targeting ACL 2026.
+- **Modular Architecture**: Implements a lightweight, plug-and-play design with decoupled retrieval and generation components, enabling efficient integration with SLMs (e.g., <1B parameters).
+- **Open-Source Optimization**: Provides pre-trained models and fine-tuning scripts in Python, emphasizing reproducibility and accessibility for low-resource RAG deployments.
 
 ## Why It Matters
 

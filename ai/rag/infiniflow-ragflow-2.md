@@ -6,25 +6,25 @@ source_name: GitHub Discovery
 source_url: https://github.com/infiniflow/ragflow?source=post_page
 resource_id: github:infiniflow/ragflow
 -----dba899ae0355---------------------------------------
-collected_at: '2026-07-20T20:09:28.505007+05:30'
-published_at: '2026-07-20T14:26:21Z'
+collected_at: '2026-07-20T22:20:12.109279+05:30'
+published_at: '2026-07-20T16:34:38Z'
 tags:
 - agents
 - github-repo
 - go
+- hackernews
 - rag
-- workflows
-stars: 85462
+stars: 85465
 language: Go
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2023-12-12T06:13:13Z'
-pushed_at: '2026-07-20T13:36:51Z'
+pushed_at: '2026-07-20T15:50:46Z'
 resource_id: github:infiniflow/ragflow
-first_seen: '2026-07-20T20:09:28.505007+05:30'
-last_seen: '2026-07-20T20:09:28.505007+05:30'
-last_checked: '2026-07-20T20:09:28.505007+05:30'
+first_seen: '2026-07-20T22:20:12.109279+05:30'
+last_seen: '2026-07-20T22:20:12.109279+05:30'
+last_checked: '2026-07-20T22:20:12.109279+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG-Agent Architecture**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with agentic workflows, enabling dynamic context engineering for LLMs by combining retrieval mechanisms with autonomous agent capabilities for superior contextual grounding.
-
-- **Multi-Stage Context Pipeline**: Implements a layered context management system (e.g., knowledge compilation, retrieval optimization, and agentic search) to dynamically refine and augment LLM inputs with structured, high-fidelity context from diverse sources.
-
-- **Scalable, Go-Based Implementation**: Built in Go for high-performance parallel processing, supporting distributed retrieval, real-time context updates, and extensible agent harnesses for enterprise-grade RAG deployments.
+- **RAGFlow**: An open-source Retrieval-Augmented Generation (RAG) engine combining advanced RAG with Agent capabilities to enhance LLM context layers.
+- **Key Features**: Supports agent-harness, agentic AI/search, context-engineering, knowledge-compilation, and LLM app integration.
+- **Technical Stack**: Implemented in Go, with active development (last updated July 2026) and 85,465+ GitHub stars.
 
 ## Why It Matters
 
@@ -45,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: infiniflow
-- Stars: 85462
-- Forks: 9988
+- Stars: 85465
+- Forks: 9990
 - Language: Go
 - Topics: agent-harness, agentic-ai, agentic-retrieval, agentic-search, ai, ai-agents, context-engine, context-engineering, context-management, harness-engineering, knowledge-compilation, llm-apps, rag, retrieval-augmented-generation
-- Last Updated: 2026-07-20T14:26:21Z
+- Last Updated: 2026-07-20T16:34:38Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-12-12T06:13:13Z
-- Pushed At: 2026-07-20T13:36:51Z
+- Pushed At: 2026-07-20T15:50:46Z
 
 ## Possible Use Cases
 

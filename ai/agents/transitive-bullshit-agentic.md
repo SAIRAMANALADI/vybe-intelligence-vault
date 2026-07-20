@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/transitive-bullshit/agentic
-collected_at: '2026-07-18T16:52:27.294403+05:30'
-published_at: '2026-07-16T15:55:53Z'
+collected_at: '2026-07-20T22:19:32.048984+05:30'
+published_at: '2026-07-19T20:12:24Z'
 tags:
 - agents
 - github-repo
 - openai
 - typescript
 - workflows
-stars: 18118
+stars: 18119
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -20,9 +20,9 @@ archived: true
 created_at: '2022-12-03T00:05:09Z'
 pushed_at: '2026-02-11T04:50:03Z'
 resource_id: github:transitive-bullshit/agentic
-first_seen: '2026-07-18T16:52:27.294403+05:30'
-last_seen: '2026-07-18T16:52:27.294403+05:30'
-last_checked: '2026-07-18T16:52:27.294403+05:30'
+first_seen: '2026-07-20T22:19:32.048984+05:30'
+last_seen: '2026-07-20T22:19:32.048984+05:30'
+last_checked: '2026-07-20T22:19:32.048984+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based MCP framework** enabling rapid conversion of APIs into paid Model Context Protocol (MCP) servers for AI agent interactions.
-- **Open-source repository** with 18.1k+ stars and 2.2k+ forks, focused on integrating LLMs (e.g., OpenAI) with agentic workflows.
-- **Last updated July 2026**, emphasizing real-time API-to-MCP translation for monetized AI agent ecosystems.
+- **TypeScript-based MCP Framework**: Open-source library (`transitive-bullshit/agentic`) enabling instant conversion of APIs into **Model Context Protocol (MCP)** servers for AI/LLM integration.
+- **Agentic Workflows**: Supports **multi-agent orchestration** with OpenAI-compatible tooling, facilitating dynamic AI agent interactions and tool-use in real-time.
+- **Production-Ready**: Actively maintained (last update: 2026-07-19) with **18.1k+ stars**, optimized for scalability and seamless integration with LLM ecosystems.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: transitive-bullshit
-- Stars: 18118
-- Forks: 2226
+- Stars: 18119
+- Forks: 2225
 - Language: TypeScript
 - Topics: agents, ai, llms, openai
-- Last Updated: 2026-07-16T15:55:53Z
+- Last Updated: 2026-07-19T20:12:24Z
 - License: NOASSERTION
 - Archived: Yes
 - Created At: 2022-12-03T00:05:09Z

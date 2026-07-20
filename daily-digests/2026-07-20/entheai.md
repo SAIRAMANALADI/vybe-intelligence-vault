@@ -1,13 +1,28 @@
 ---
-title: "peterlodri-sec/entheai"
-category: "Agent Framework"
-tech_stack: ["Rust", "SQLite", "Vector DB", "Git Worktrees", "Osaurus", "OpenCode Zen", "ratatui", "MCP (Model Context Protocol)", "Tailscale", "Honcho"]
+title: peterlodri-sec/entheai
+category: daily-digests/2026-07-20
+tech_stack:
+- Rust
+- SQLite
+- Vector DB
+- Git Worktrees
+- Osaurus
+- OpenCode Zen
+- ratatui
+- MCP (Model Context Protocol)
+- Tailscale
+- Honcho
 quality_score: 9
 rag_relevance: 8
-tags: ["coding agent", "parallel execution", "hybrid AI", "memory engine", "TUI"]
-source: "https://github.com/peterlodri-sec/entheai"
-discovered_at: "2026-07-19T10:26:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- coding agent
+- parallel execution
+- hybrid AI
+- memory engine
+- TUI
+source: https://github.com/peterlodri-sec/entheai
+discovered_at: '2026-07-19T10:26:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

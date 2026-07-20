@@ -1,13 +1,22 @@
 ---
-title: "gyujeongion/claude-life-os"
-category: "Tooling"
-tech_stack: ["Markdown", "Claude Code", "Python (for optional add-ons)", "Git"]
+title: gyujeongion/claude-life-os
+category: daily-digests/2026-07-20
+tech_stack:
+- Markdown
+- Claude Code
+- Python (for optional add-ons)
+- Git
 quality_score: 9
 rag_relevance: 7
-tags: ["personal agent", "life organization", "AI navigation", "context routing", "Claude Code"]
-source: "https://github.com/gyujeongion/claude-life-os"
-discovered_at: "2026-07-14T16:14:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personal agent
+- life organization
+- AI navigation
+- context routing
+- Claude Code
+source: https://github.com/gyujeongion/claude-life-os
+discovered_at: '2026-07-14T16:14:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

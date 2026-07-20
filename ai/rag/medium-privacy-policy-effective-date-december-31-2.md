@@ -5,19 +5,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://medium.zendesk.com/hc/en-us/articles/360052305234
-published_at: '2026-07-19T21:49:32.072277+05:30'
-collected_at: '2026-07-19T21:49:32.072290+05:30'
+published_at: '2026-07-20T22:22:31.801600+05:30'
+collected_at: '2026-07-20T22:22:31.801614+05:30'
 tags:
 - agents
 - hackernews
 - rag
+- reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:medium-privacy-policy-effective-date-december-31-2
-first_seen: '2026-07-19T21:49:32.072290+05:30'
-last_seen: '2026-07-19T21:49:32.072290+05:30'
-last_checked: '2026-07-19T21:49:32.072290+05:30'
+first_seen: '2026-07-20T22:22:31.801614+05:30'
+last_seen: '2026-07-20T22:22:31.801614+05:30'
+last_checked: '2026-07-20T22:22:31.801614+05:30'
 health_score: 100
 ---
 
@@ -25,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection & Usage**: Medium collects user interactions (e.g., page views, saves, follows) and device/browser metadata to personalize content, enforce paywall limits, and improve services; no ad-targeting data is collected. Logs include IP addresses, session activity, and optional "Save to Medium" metadata, with data processed in the U.S. and other jurisdictions where Medium operates.
+- **Data Collection & Usage**: Medium collects user interactions (e.g., page views, saves, highlights), IP addresses, device/browser metadata, and third-party account links (e.g., Twitter, Google) to personalize content, enforce paywall limits, and improve services. No user data is sold for advertising; tracking is limited to product functionality and abuse prevention.
 
-- **Third-Party Embeds & Disclosures**: Embedded content (e.g., YouTube, Twitter) transmits user data to third parties per their policies, not Medium’s. Medium may disclose user data only with consent, for legal compliance, or to prevent harm, with objections filed against improper requests. Public interactions (claps, highlights) are indexable by search engines.
+- **Third-Party Embeds & Logs**: Embedded content (YouTube, Twitter, etc.) transmits user data to third parties, governed by their policies. Medium logs server/event data (stored in the U.S. and other jurisdictions) and uses cookies for authentication, paywall functionality, and content personalization.
 
-- **GDPR & CCPA Compliance**: For EU users, legal bases for processing include contractual obligations and legitimate interests (e.g., paywall enforcement). Minimal logged-out data (IP, browser info) is collected. California users have rights to access, delete, or opt out of non-transactional emails, with billing data managed by third-party processors (Stripe, PayPal).
+- **EU/GDPR Compliance**: For EU users, Medium processes data under contractual obligations (e.g., Membership Terms) and legitimate interests (e.g., fraud prevention). Public interactions (claps, posts) are considered manifestly public; logged-out users’ data includes IP/browser info and reading history. Payment processors (Stripe, PayPal) handle billing data separately.
 
 ## Why It Matters
 
@@ -39,13 +40,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-19T21:49:32.072277+05:30
+- Published: 2026-07-20T22:22:31.801600+05:30
 
 ## Related Tags
 
 - agents
 - hackernews
 - rag
+- reddit
 - web-crawled
 - youtube
 

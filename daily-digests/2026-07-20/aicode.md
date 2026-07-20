@@ -1,13 +1,30 @@
 ---
-title: "jieapi/aicode"
-category: "Tooling"
-tech_stack: ["Kotlin", "Jetpack Compose", "Hilt (Dagger)", "Room", "Retrofit", "OkHttp", "Kotlin Coroutines/Flow", "Termux terminal-emulator", "PRoot", "Alpine Linux", "SSHJ", "Commons Net"]
+title: jieapi/aicode
+category: daily-digests/2026-07-20
+tech_stack:
+- Kotlin
+- Jetpack Compose
+- Hilt (Dagger)
+- Room
+- Retrofit
+- OkHttp
+- Kotlin Coroutines/Flow
+- Termux terminal-emulator
+- PRoot
+- Alpine Linux
+- SSHJ
+- Commons Net
 quality_score: 9
 rag_relevance: 7
-tags: ["Android AI tools", "AI Agent", "MCP protocol", "Terminal emulator", "Linux container"]
-source: "https://github.com/jieapi/aicode"
-discovered_at: "2026-07-19T16:57:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Android AI tools
+- AI Agent
+- MCP protocol
+- Terminal emulator
+- Linux container
+source: https://github.com/jieapi/aicode
+discovered_at: '2026-07-19T16:57:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

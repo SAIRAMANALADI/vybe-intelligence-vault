@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.txyz.ai/
-published_at: '2026-07-20T15:13:29.752741+05:30'
-collected_at: '2026-07-20T15:13:29.752750+05:30'
+published_at: '2026-07-20T22:23:26.787874+05:30'
+collected_at: '2026-07-20T22:23:26.787889+05:30'
 tags:
 - agents
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:txyz-integrate-all-paths-to-knowledge
-first_seen: '2026-07-20T15:13:29.752750+05:30'
-last_seen: '2026-07-20T15:13:29.752750+05:30'
-last_checked: '2026-07-20T15:13:29.752750+05:30'
+first_seen: '2026-07-20T22:23:26.787889+05:30'
+last_seen: '2026-07-20T22:23:26.787889+05:30'
+last_checked: '2026-07-20T22:23:26.787889+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **TXYZ AI Platform** offers modular products for **knowledge discovery (Searching), reading (Reading), writing (Writing), and API integration** for businesses, with tiered pricing (Free, Pro at $96/year, Ultra at $288/year) based on usage limits, model sophistication, and context window depth.
+- **TXYZ Platform**: Offers four core products—**Searching** (AI-driven knowledge discovery), **Reading** (AI-augmented document analysis), **Writing** (AI-assisted content generation), and **API** (enterprise-grade integration)—with tiered pricing (Free, Pro at $96/year, Ultra at $288/year) featuring escalating usage limits, context windows (up to 3x Pro’s in Ultra), and agentic workflows.
 
-- **Core Features**: Supports **private document uploads (up to 300 pages in Ultra tier)**, retrieval-augmented generation with **document citation tracking** to mitigate hallucinations, and **agentic workflows** for research optimization across academic, industry, and R&D applications.
+- **Privacy & Security**: Uploaded documents are **private by default**, with deletion triggering removal from the database; API access available for institutional/enterprise integration via `support@txyz.ai`.
 
-- **Privacy & Accessibility**: Uploaded documents remain **user-private** (deleted upon user request), API available for enterprise integration, and Discord community for real-time support and updates.
+- **Reliability Mechanisms**: Implements **retrieval-augmented generation (RAG)** to mitigate hallucinations, providing **document-location references** for answers; supports **500K+ researchers** across academic, industry R&D, and market research use cases.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T15:13:29.752741+05:30
+- Published: 2026-07-20T22:23:26.787874+05:30
 
 ## Related Tags
 

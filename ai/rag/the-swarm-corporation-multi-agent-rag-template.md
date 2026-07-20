@@ -4,17 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-07-20T20:09:13.624538+05:30'
+collected_at: '2026-07-20T22:19:57.200692+05:30'
 published_at: '2026-07-08T10:21:23Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- models
 - openai
 - python
 - rag
-- scripts
 stars: 59
 language: Python
 status: active
@@ -23,9 +21,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-07-20T20:09:13.624538+05:30'
-last_seen: '2026-07-20T20:09:13.624538+05:30'
-last_checked: '2026-07-20T20:09:13.624538+05:30'
+first_seen: '2026-07-20T22:19:57.200692+05:30'
+last_seen: '2026-07-20T22:19:57.200692+05:30'
+last_checked: '2026-07-20T22:19:57.200692+05:30'
 health_score: 100
 ---
 
@@ -33,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent RAG Framework**: Implements a collaborative system of AI agents using frameworks like CrewAI, AutoGen, and LangChain to process, analyze, and generate insights from documents via Retrieval-Augmented Generation (RAG).
+- **Multi-Agent RAG Framework**: Implements a collaborative system of AI agents (e.g., CrewAI, AutoGen) using Python to process, analyze, and generate insights from documents via Retrieval-Augmented Generation (RAG) pipelines.
 
-- **Integration of Vector Databases**: Supports multiple vector databases (ChromaDB, Pinecone, Weaviate) for document storage and retrieval, enabling efficient semantic search and context-aware responses.
+- **Integration Stack**: Supports multiple vector databases (ChromaDB, Pinecone, Weaviate), LLMs (GPT-3.5/4/5, Anthropic), and frameworks (LangChain) for modular document ingestion, retrieval, and agent coordination.
 
-- **Multi-Model & Multi-Tool Support**: Compatible with various LLMs (GPT-3.5, GPT-4, GPT-5, Anthropic) and tools (Discord, Swarms) for modular, scalable agent interactions and task automation.
+- **Deployment & Extensibility**: Includes Discord integration for real-time agent interaction and is designed for scalability, with last updates as of July 2026 (59 stars, 10 forks).
 
 ## Why It Matters
 

@@ -3,7 +3,7 @@ title: LlamaIndex · GitHub
 archive_category: evals-and-benchmarks
 source_category: ai/rag
 source_url: https://github.com/run-llama/
-resource_id: blog:llamaindex-github
+resource_id: blog:llamaindex-github-6871cb9a
 local_vault_path: ai/rag/llamaindex-github.md
 quality_score: 70
 archive_score: 77

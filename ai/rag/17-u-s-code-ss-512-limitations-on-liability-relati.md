@@ -4,9 +4,9 @@ title: 17 U.S. Code § 512 - Limitations on liability relating to material onlin
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.law.cornell.edu/uscode/text/17/512
-published_at: '2026-07-20T03:49:13.628235+05:30'
-collected_at: '2026-07-20T03:49:13.628252+05:30'
+source_url: http://www4.law.cornell.edu/uscode/17/512.html
+published_at: '2026-07-20T22:26:18.909743+05:30'
+collected_at: '2026-07-20T22:26:18.909758+05:30'
 tags:
 - agents
 - hackernews
@@ -14,9 +14,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:17-u-s-code-ss-512-limitations-on-liability-relati
-first_seen: '2026-07-20T03:49:13.628252+05:30'
-last_seen: '2026-07-20T03:49:13.628252+05:30'
-last_checked: '2026-07-20T03:49:13.628252+05:30'
+first_seen: '2026-07-20T22:26:18.909758+05:30'
+last_seen: '2026-07-20T22:26:18.909758+05:30'
+last_checked: '2026-07-20T22:26:18.909758+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Transitory Digital Network Communications (§512(a))**: Service providers are shielded from liability for copyright infringement when transmitting, routing, or providing connections for material through their systems/networks, provided the process is automatic, unmodified, and transient, with no user selection or retention beyond necessary transmission.
+- **Transitory Digital Network Communications (§512(a))**: Service providers are shielded from monetary and equitable liability for copyright infringement during automated transmission, routing, or transient storage of user-initiated material, provided no modification occurs, storage is temporary, and recipients are selected automatically.
 
-- **System Caching (§512(b))**: Providers are not liable for temporary storage of infringing material if caching is automatic, unmodified, and compliant with content owner’s refresh/update rules, with expeditious removal upon notification of infringement.
+- **System Caching (§512(b))**: Providers are not liable for temporary, automated caching of infringing material if they comply with refresh/update protocols, do not interfere with access controls, and expeditiously remove material upon notification of infringement or court order.
 
-- **User-Directed Content (§512(c))**: Providers are protected from liability for user-uploaded infringing content if they lack actual knowledge of infringement, do not financially benefit from it, and promptly remove or disable access to material upon receiving a compliant takedown notice.
+- **User-Generated Content (§512(c))**: Providers are exempt from liability for infringing material stored at user direction if they lack actual/constructive knowledge of infringement, do not financially benefit from it, and promptly act to remove or disable access upon receiving compliant takedown notices. Designated agents must be registered with the Copyright Office.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T03:49:13.628235+05:30
+- Published: 2026-07-20T22:26:18.909743+05:30
 
 ## Related Tags
 
@@ -49,4 +49,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.law.cornell.edu/uscode/text/17/512
+Original source: http://www4.law.cornell.edu/uscode/17/512.html

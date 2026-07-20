@@ -1,13 +1,30 @@
 ---
-title: "RedPlanetHQ/core"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Docker", "Node.js", "React", "PostgreSQL", "Redis", "Claude Code", "Claude API", "OpenAI API", "MCP (Model Context Protocol)", "WebSockets", "Natural Language Processing"]
+title: RedPlanetHQ/core
+category: daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Docker
+- Node.js
+- React
+- PostgreSQL
+- Redis
+- Claude Code
+- Claude API
+- OpenAI API
+- MCP (Model Context Protocol)
+- WebSockets
+- Natural Language Processing
 quality_score: 9
 rag_relevance: 8
-tags: ["AI OS", "Task Automation", "Self-hosted", "Multi-interface", "Context-aware"]
-source: "https://github.com/RedPlanetHQ/core"
-discovered_at: "2026-07-19T17:59:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI OS
+- Task Automation
+- Self-hosted
+- Multi-interface
+- Context-aware
+source: https://github.com/RedPlanetHQ/core
+discovered_at: '2026-07-19T17:59:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

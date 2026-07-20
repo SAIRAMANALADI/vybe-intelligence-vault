@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://tensorblue.com/blog/rag-retrieval-augmented-generation-implementation-guide-2025
-published_at: '2026-07-20T20:05:14.055315+05:30'
-collected_at: '2026-07-20T20:05:14.055330+05:30'
+published_at: '2026-07-20T22:15:54.598537+05:30'
+collected_at: '2026-07-20T22:15:54.598548+05:30'
 tags:
 - anthropic
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-retrieval-augmented-generation-guide-2025-impl
-first_seen: '2026-07-20T20:05:14.055330+05:30'
-last_seen: '2026-07-20T20:05:14.055330+05:30'
-last_checked: '2026-07-20T20:05:14.055330+05:30'
+first_seen: '2026-07-20T22:15:54.598548+05:30'
+last_seen: '2026-07-20T22:15:54.598548+05:30'
+last_checked: '2026-07-20T22:15:54.598548+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI `text-embedding-ada-002`, Sentence Transformers), and vector databases (Pinecone, Weaviate, FAISS) for dynamic knowledge retrieval before LLM generation.
+- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI text-embedding-ada-002, Sentence Transformers), and vector databases (Pinecone, Weaviate, FAISS) for dynamic knowledge retrieval and hallucination reduction (70%→95%+ accuracy).
 
-- **Advanced Techniques**: Implements hierarchical retrieval, query expansion (20-30% recall improvement), hybrid search (dense + sparse vectors), and re-ranking (15-25% precision gain) to optimize context relevance and reduce hallucinations.
+- **Advanced Techniques**: Implements hierarchical retrieval, query expansion (20-30% recall improvement), hybrid search (semantic + BM25), re-ranking (15-25% precision gain), and adaptive retrieval (Self-RAG) to optimize context relevance and response quality.
 
-- **Production Metrics**: Achieves 90-95% accuracy with <2s latency, $0.02-0.10/query cost, and 10-50x cost savings vs. fine-tuning; validated in case studies (e.g., 92% accuracy in legal Q&A, 78% automated resolution in customer support).
+- **Production Metrics**: Achieves sub-2s latency, $0.02-0.10/query cost, 90-95% accuracy in case studies (e.g., legal Q&A at 92% vs. 68% for GPT-4 alone), and 62% support cost reduction via automated resolution.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T20:05:14.055315+05:30
+- Published: 2026-07-20T22:15:54.598537+05:30
 
 ## Related Tags
 

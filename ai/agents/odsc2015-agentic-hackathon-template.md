@@ -4,11 +4,10 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/odsc2015/agentic-hackathon-template
-collected_at: '2026-07-20T20:08:43.492921+05:30'
+collected_at: '2026-07-20T22:19:27.037407+05:30'
 published_at: '2026-05-10T13:08:24Z'
 tags:
 - agents
-- benchmark
 - github-repo
 - unknown
 stars: 19
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-07-24T08:33:29Z'
 pushed_at: '2025-07-25T16:42:10Z'
 resource_id: github:odsc2015/agentic-hackathon-template
-first_seen: '2026-07-20T20:08:43.492921+05:30'
-last_seen: '2026-07-20T20:08:43.492921+05:30'
-last_checked: '2026-07-20T20:08:43.492921+05:30'
+first_seen: '2026-07-20T22:19:27.037407+05:30'
+last_seen: '2026-07-20T22:19:27.037407+05:30'
+last_checked: '2026-07-20T22:19:27.037407+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Standardized Starter Repository**: Provides a pre-configured folder structure, environment specifications, and documentation templates for Agentic AI App Hackathons to ensure consistency and reproducibility in submissions.
-
-- **Reproducible Environment**: Includes a spec file (e.g., `environment.yml` or `requirements.txt`) to ensure consistent dependency management and execution across different systems.
-
-- **Judging Optimization**: Predefined placeholders for documentation and submission artifacts to streamline the evaluation process for judges.
+- Provides a standardized folder structure and environment specification for Agentic AI App Hackathon submissions
+- Includes reproducible setup via environment spec and placeholder documentation for streamlined judging
+- Last updated May 10, 2026, with 19 stars and 192 forks
 
 ## Why It Matters
 

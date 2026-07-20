@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Layout-Aware OCR**: Parse performs optical character recognition (OCR) while preserving document layout, enabling accurate extraction of text, tables, and charts from PDFs and scans.
-- **Multi-Format Output**: Converts processed documents into clean markdown, plain text, or structured JSON for downstream LLM pipelines.
-- **Agentic Pipeline Integration**: Designed as an agentic parser, optimizing document understanding for large language model (LLM) workflows with contextual layout awareness.
+- **Layout-aware OCR**: Parse processes PDFs, scans, tables, and charts with OCR, preserving document structure and layout for accurate extraction.
+- **Multi-format output**: Converts parsed content into clean markdown, plain text, or structured JSON for downstream LLM pipelines.
+- **Agentic parsing**: Designed for autonomous, high-fidelity document parsing in LLM workflows, optimizing context extraction and downstream task performance.
 
 ## Use Cases
 

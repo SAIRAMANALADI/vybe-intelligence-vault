@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-07-20T20:06:03.332193+05:30'
+collected_at: '2026-07-20T22:16:46.922652+05:30'
 published_at: '2026-07-19T03:42:21Z'
 tags:
 - github-repo
 - hackernews
 - python
 - rag
+- workflows
 stars: 4374
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-07-20T20:06:03.332193+05:30'
-last_seen: '2026-07-20T20:06:03.332193+05:30'
-last_checked: '2026-07-20T20:06:03.332193+05:30'
+first_seen: '2026-07-20T22:16:46.922652+05:30'
+last_seen: '2026-07-20T22:16:46.922652+05:30'
+last_checked: '2026-07-20T22:16:46.922652+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Course Structure**: Provides hands-on lessons (12 sessions) and source code for building production-ready LLM and RAG systems using LLMOps best practices, covering end-to-end development, deployment, and scaling.
-- **Technical Stack**: Integrates Python-based tools (Bytewax, Pulumi, Qdrant) with cloud infrastructure (AWS), MLOps (Comet-ML, Qwak), and containerization (Docker) for scalable ML system design.
-- **Key Topics**: Focuses on LLMOps, RAG pipelines, infrastructure-as-code (IaC), generative AI, and ML system design, emphasizing practical implementation and real-world deployment strategies.
+- **Course Content**: Provides a structured, hands-on guide to building production-ready LLM and RAG systems using LLMOps best practices, including 12 hands-on lessons and source code.
+
+- **Technical Stack**: Utilizes Python-based tools (e.g., Bytewax, Qdrant, Pulumi) and integrates AWS, Docker, Comet-ML, Qwak, and Superlinked for MLOps, infrastructure-as-code, and generative AI workflows.
+
+- **Repository Metrics**: Maintained with 4,374 stars and 734 forks, last updated in July 2026, emphasizing scalability and modern ML engineering practices.
 
 ## Why It Matters
 

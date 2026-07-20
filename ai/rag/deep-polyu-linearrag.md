@@ -4,10 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-07-20T20:06:43.407079+05:30'
+collected_at: '2026-07-20T22:17:26.976287+05:30'
 published_at: '2026-07-13T02:17:29Z'
 tags:
-- benchmark
+- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-07-20T20:06:43.407079+05:30'
-last_seen: '2026-07-20T20:06:43.407079+05:30'
-last_checked: '2026-07-20T20:06:43.407079+05:30'
+first_seen: '2026-07-20T22:17:26.976287+05:30'
+last_seen: '2026-07-20T22:17:26.976287+05:30'
+last_checked: '2026-07-20T22:17:26.976287+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph RAG Architecture**: Proposes a linear-time graph-based retrieval method for RAG, replacing traditional hierarchical or dense retrieval with a linear-complexity graph traversal to optimize scalability on large-scale corpora.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval from large-scale corpora, optimizing both memory and computational efficiency compared to traditional graph-based RAG methods.
 
-- **Efficient Retrieval Mechanism**: Introduces a linear graph construction where nodes represent documents/chunks and edges encode semantic relationships, enabling constant-time retrieval per query while maintaining contextual relevance.
+- **ICLR 2026 Submission**: Proposes a linear-time graph traversal and retrieval mechanism, enabling scalable augmentation of LLMs with structured knowledge while maintaining low latency and high throughput for large datasets.
 
-- **Performance Benchmarks**: Demonstrates state-of-the-art results on ICLR 2026 benchmarks, achieving higher accuracy and lower latency compared to hierarchical RAG and dense retrieval baselines in large-scale evaluations.
+- **Python Implementation**: Provides an open-source Python library with modular components for graph construction, linear retrieval, and integration with LLMs, supporting extensibility for custom corpora and retrieval strategies.
 
 ## Why It Matters
 

@@ -1,13 +1,26 @@
 ---
-title: "nordicnode/kernava-mcp"
-category: "Tooling"
-tech_stack: ["Rust", "tree-sitter", "SQLite-WAL", "DashMap", "rmcp", "axum", "FTS5", "Louvain community detection"]
+title: nordicnode/kernava-mcp
+category: daily-digests/2026-07-20
+tech_stack:
+- Rust
+- tree-sitter
+- SQLite-WAL
+- DashMap
+- rmcp
+- axum
+- FTS5
+- Louvain community detection
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "call graph", "code analysis", "symbol extraction", "dead code detection"]
-source: "https://github.com/nordicnode/kernava-mcp"
-discovered_at: "2026-07-15T02:12:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- call graph
+- code analysis
+- symbol extraction
+- dead code detection
+source: https://github.com/nordicnode/kernava-mcp
+discovered_at: '2026-07-15T02:12:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

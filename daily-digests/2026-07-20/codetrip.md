@@ -1,13 +1,26 @@
 ---
-title: "mengshi02/codetrip"
-category: "Tooling"
-tech_stack: ["Go", "Tree-sitter", "Pebble (embedded storage)", "Bluge (full-text search)", "HNSW (vector search)", "Cypher Query Engine", "HTTP Embeddings (e.g., nomic-embed-text)", "MCP (Model Context Protocol)"]
+title: mengshi02/codetrip
+category: daily-digests/2026-07-20
+tech_stack:
+- Go
+- Tree-sitter
+- Pebble (embedded storage)
+- Bluge (full-text search)
+- HNSW (vector search)
+- Cypher Query Engine
+- HTTP Embeddings (e.g., nomic-embed-text)
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["code intelligence", "graph-based retrieval", "multi-language parsing", "semantic search", "dependency analysis"]
-source: "https://github.com/mengshi02/codetrip"
-discovered_at: "2026-07-20T12:22:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code intelligence
+- graph-based retrieval
+- multi-language parsing
+- semantic search
+- dependency analysis
+source: https://github.com/mengshi02/codetrip
+discovered_at: '2026-07-20T12:22:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

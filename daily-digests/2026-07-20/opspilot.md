@@ -1,13 +1,26 @@
 ---
-title: "Ciaran11221/opspilot"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Claude API", "React", "Tailwind CSS", "PyInstaller", "Pytest", "Ruff"]
+title: Ciaran11221/opspilot
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- FastAPI
+- Claude API
+- React
+- Tailwind CSS
+- PyInstaller
+- Pytest
+- Ruff
 quality_score: 9
 rag_relevance: 7
-tags: ["IT operations", "agentic workflow", "tool-use tracing", "CSV data processing", "SLA risk assessment"]
-source: "https://github.com/Ciaran11221/opspilot"
-discovered_at: "2026-07-18T17:56:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- IT operations
+- agentic workflow
+- tool-use tracing
+- CSV data processing
+- SLA risk assessment
+source: https://github.com/Ciaran11221/opspilot
+discovered_at: '2026-07-18T17:56:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

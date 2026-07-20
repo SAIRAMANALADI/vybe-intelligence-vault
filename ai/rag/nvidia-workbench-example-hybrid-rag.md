@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-07-20T20:05:48.292088+05:30'
+collected_at: '2026-07-20T22:16:32.023093+05:30'
 published_at: '2026-07-19T17:27:01Z'
 tags:
-- dataset
 - github-repo
 - python
 - rag
+- workflows
 stars: 369
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-07-20T20:05:48.292088+05:30'
-last_seen: '2026-07-20T20:05:48.292088+05:30'
-last_checked: '2026-07-20T20:05:48.292088+05:30'
+first_seen: '2026-07-20T22:16:32.023093+05:30'
+last_seen: '2026-07-20T22:16:32.023093+05:30'
+last_checked: '2026-07-20T22:16:32.023093+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document grounding in LLMs.
-- **NVIDIA AI Workbench Integration**: Provides a reference architecture leveraging NVIDIA's AI Workbench for scalable deployment of RAG systems with optimized GPU acceleration.
-- **Python-Based Framework**: Includes modular Python components for document preprocessing, retrieval (FAISS/BM25), and LLM inference (e.g., NVIDIA NeMo or vLLM) with example datasets.
+- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining vector and keyword-based retrieval for enhanced document search and generation in Python.
+
+- **NVIDIA AI Workbench Integration**: Example project structured for NVIDIA's AI Workbench, showcasing deployment-ready hybrid RAG workflows with modular components.
+
+- **Repository Metadata**: 369 stars, 1008 forks, last updated July 19, 2026; serves as a template for hybrid RAG applications leveraging NVIDIA's ecosystem.
 
 ## Why It Matters
 

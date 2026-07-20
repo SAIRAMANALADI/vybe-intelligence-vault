@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-07-20T20:06:03.291927+05:30'
+collected_at: '2026-07-20T22:16:46.949392+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
 - github-repo
 - java
 - rag
-- reddit
 - workflows
 stars: 35
 language: Java
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-07-20T20:06:03.291927+05:30'
-last_seen: '2026-07-20T20:06:03.291927+05:30'
-last_checked: '2026-07-20T20:06:03.291927+05:30'
+first_seen: '2026-07-20T22:16:46.949392+05:30'
+last_seen: '2026-07-20T22:16:46.949392+05:30'
+last_checked: '2026-07-20T22:16:46.949392+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of RAG with Knowledge Graph & Vector DB**: Demonstrates hybrid retrieval using knowledge graphs and vector databases (e.g., Chroma) for enhanced context-aware AI responses in Java-based Spring AI applications.
-
-- **Agentic Workflows & Function Call Integration**: Supports dynamic agent systems with tool/function calling capabilities, historical message management, and SSE (Server-Sent Events) streaming for real-time AI interactions.
-
-- **Multimodal AI Capabilities**: Includes image generation (via Stable Diffusion), image understanding (OCR/CLIP), and embedding pipelines using models like `bge-large-zh-v1.5` and `text-embedding-3-small`.
+- **Implements RAG with Knowledge Graph Integration**: Combines vector databases (Embedding) and knowledge graphs for enhanced retrieval-augmented generation (RAG) in an AI Q&A system.
+- **Supports SSE Streaming & Agent Workflows**: Enables real-time Server-Sent Events (SSE) streaming and agent-based interactions via FunctionCall for dynamic AI responses.
+- **Multi-Modal & Historical Context Handling**: Includes image generation/understanding, embedding-based retrieval, and historical message management for contextual AI responses.
 
 ## Why It Matters
 

@@ -1,17 +1,16 @@
 ---
 title: Overview of Parse | Developer Documentation
 archive_category: automation-workflows
-source_category: ai/rag
+source_category: ai/resources
 source_url: https://developers.llamaindex.ai/python/cloud/llamaparse/
-resource_id: blog:overview-of-parse-developer-documentation-731b52dc
-local_vault_path: ai/rag/overview-of-parse-developer-documentation.md
+resource_id: blog:overview-of-parse-developer-documentation
+local_vault_path: ai/resources/overview-of-parse-developer-documentation.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- rag
 - web-crawled
 - workflows
 selection_reason:
@@ -32,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Unified Platform**: Single SDK installation and API key grants access to multiple services (Parse, Extract, Classify, Split, Sheets, Index) via a unified interface.
-
-- **Multi-Service Integration**: Enables sequential or parallel execution of diverse data operations (e.g., parsing, classification, splitting) within a single workflow.
-
-- **API-Driven Execution**: First call initializes service-specific endpoints, returning structured outputs for downstream processing or storage.
+- **SDK Installation & API Key**: Install the SDK and obtain an API key for platform access.
+- **Single-Platform Operations**: Execute Parse, Extract, Classify, Split, Sheets, or Index operations via unified API calls.
+- **Unified Workflow**: Perform all operations (Parse, Extract, etc.) from a single integrated platform.
 
 ## Use Cases
 
@@ -50,4 +47,4 @@ Original source URL: https://developers.llamaindex.ai/python/cloud/llamaparse/
 
 ## Local Vault File
 
-Path: [overview-of-parse-developer-documentation.md](../../ai/rag/overview-of-parse-developer-documentation.md)
+Path: [overview-of-parse-developer-documentation.md](../../ai/resources/overview-of-parse-developer-documentation.md)

@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-07-20T20:06:48.359304+05:30'
+collected_at: '2026-07-20T22:17:31.927790+05:30'
 published_at: '2026-07-18T13:05:31Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - hackernews
-- paper
 - rag
-- scripts
 - unknown
 stars: 807
 language: Unknown
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-07-12T03:40:45Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-07-20T20:06:48.359304+05:30'
-last_seen: '2026-07-20T20:06:48.359304+05:30'
-last_checked: '2026-07-20T20:06:48.359304+05:30'
+first_seen: '2026-07-20T22:17:31.927790+05:30'
+last_seen: '2026-07-20T22:17:31.927790+05:30'
+last_checked: '2026-07-20T22:17:31.927790+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates cutting-edge tools, frameworks, and research papers on agentic deep research, focusing on autonomous reasoning agents, search agents, and advanced RAG (Retrieval-Augmented Generation) systems for ACL 2026.
-- **Technical Scope**: Covers large language models (LLMs), multi-agent collaboration, deep reasoning architectures, and adaptive knowledge fusion techniques for complex research tasks.
-- **Active Development**: Last updated July 2026, with 807 stars and 64 forks, indicating a rapidly evolving, community-driven collection of state-of-the-art methodologies in deep research automation.
+- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research, focusing on autonomous reasoning agents, advanced RAG (Retrieval-Augmented Generation), and multi-agent systems for complex knowledge synthesis.
+- **ACL 2026 KnowFM Integration**: Aligns with ACL 2026’s Knowledge Foundation Models (KnowFM) initiative, emphasizing LLM-driven deep research pipelines, hybrid search strategies, and reasoning optimization.
+- **Technical Scope**: Covers agentic AI frameworks, reasoning architectures, and evaluation benchmarks for deep research tasks, including dynamic query refinement, evidence synthesis, and multi-source validation.
 
 ## Why It Matters
 

@@ -3,7 +3,7 @@ title: hub-docs/docs/hub/spaces.md at main · huggingface/hub-docs · GitHub
 archive_category: automation-workflows
 source_category: ai/rag
 source_url: https://github.com/huggingface/hub-docs/blob/main/docs/hub/spaces.md
-resource_id: github:huggingface/hub-docs
+resource_id: github:huggingface/hub-docs-15f03b22
 local_vault_path: ai/rag/huggingface-hub-docs.md
 quality_score: 70
 archive_score: 77

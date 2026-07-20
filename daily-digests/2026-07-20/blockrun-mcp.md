@@ -1,13 +1,33 @@
 ---
-title: "BlockRunAI/blockrun-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "USDC micropayments", "Polymarket API", "Exa (neural search)", "DexScreener", "Pyth Network", "Tatum RPC Gateway", "ElevenLabs", "OpenAI GPT Image", "Sora 2", "Seedance", "Modal", "Twilio"]
+title: BlockRunAI/blockrun-mcp
+category: daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- USDC micropayments
+- Polymarket API
+- Exa (neural search)
+- DexScreener
+- Pyth Network
+- Tatum RPC Gateway
+- ElevenLabs
+- OpenAI GPT Image
+- Sora 2
+- Seedance
+- Modal
+- Twilio
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "real-time data", "AI agent tools", "USDC micropayments", "Polymarket trading"]
-source: "https://github.com/BlockRunAI/blockrun-mcp"
-discovered_at: "2026-07-11T05:39:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- real-time data
+- AI agent tools
+- USDC micropayments
+- Polymarket trading
+source: https://github.com/BlockRunAI/blockrun-mcp
+discovered_at: '2026-07-11T05:39:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

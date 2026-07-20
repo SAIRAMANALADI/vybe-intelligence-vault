@@ -4,17 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/SkillSpector
-collected_at: '2026-07-20T20:08:08.497849+05:30'
-published_at: '2026-07-20T14:06:55Z'
+collected_at: '2026-07-20T22:18:52.080954+05:30'
+published_at: '2026-07-20T14:56:27Z'
 tags:
 - agents
-- benchmark
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
-stars: 13465
+stars: 13466
 language: Python
 status: active
 license: Apache-2.0
@@ -22,9 +20,9 @@ archived: false
 created_at: '2026-03-21T00:28:43Z'
 pushed_at: '2026-07-14T23:13:01Z'
 resource_id: github:nvidia/skillspector
-first_seen: '2026-07-20T20:08:08.497849+05:30'
-last_seen: '2026-07-20T20:08:08.497849+05:30'
-last_checked: '2026-07-20T20:08:08.497849+05:30'
+first_seen: '2026-07-20T22:18:52.080954+05:30'
+last_seen: '2026-07-20T22:18:52.080954+05:30'
+last_checked: '2026-07-20T22:18:52.080954+05:30'
 health_score: 100
 ---
 
@@ -32,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Security scanner for AI agent skills, designed to detect vulnerabilities, malicious patterns, and security risks in AI workflows.
-- **Technical Stack**: Implemented in Python, leveraging static/dynamic analysis techniques for skill evaluation.
-- **Repository Stats**: 13,465 stars, 1,110 forks; last updated July 20, 2026.
+- **Static Analysis Tool**: SkillSpector performs static analysis on AI agent skills to detect vulnerabilities, malicious patterns, and security risks without executing the code.
+- **Python-Based**: Implemented in Python, leveraging libraries for AST parsing, pattern matching, and rule-based detection of security flaws.
+- **Rule-Driven Detection**: Uses predefined and customizable rules to identify issues such as privilege escalation, data exfiltration, and unsafe function calls in AI agent workflows.
 
 ## Why It Matters
 
@@ -43,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NVIDIA
-- Stars: 13465
+- Stars: 13466
 - Forks: 1110
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-20T14:06:55Z
+- Last Updated: 2026-07-20T14:56:27Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-03-21T00:28:43Z

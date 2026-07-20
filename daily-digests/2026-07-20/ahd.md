@@ -1,13 +1,27 @@
 ---
-title: "Ad-Astra-Computing/ahd"
-category: "Tooling"
-tech_stack: ["TypeScript", "Cloudflare Workers AI", "Playwright", "ESLint", "Stylelint", "MCP (Model Context Protocol)", "Node.js", "Chromium", "Vision Models (Claude Code, Anthropic API)"]
+title: Ad-Astra-Computing/ahd
+category: daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Cloudflare Workers AI
+- Playwright
+- ESLint
+- Stylelint
+- MCP (Model Context Protocol)
+- Node.js
+- Chromium
+- Vision Models (Claude Code, Anthropic API)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI design evaluation", "guardrails", "prompt optimization", "design taxonomy", "reproducible testing"]
-source: "https://github.com/Ad-Astra-Computing/ahd"
-discovered_at: "2026-07-20T09:59:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI design evaluation
+- guardrails
+- prompt optimization
+- design taxonomy
+- reproducible testing
+source: https://github.com/Ad-Astra-Computing/ahd
+discovered_at: '2026-07-20T09:59:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

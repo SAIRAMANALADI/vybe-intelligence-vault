@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/FudanDNN-NLP/RAG
-collected_at: '2026-07-20T20:06:03.307358+05:30'
+collected_at: '2026-07-20T22:16:46.962333+05:30'
 published_at: '2026-07-02T18:18:04Z'
 tags:
+- benchmark
 - dataset
 - github-repo
 - paper
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-06-29T13:07:50Z'
 pushed_at: '2024-12-21T07:32:41Z'
 resource_id: github:fudandnn-nlp/rag
-first_seen: '2026-07-20T20:06:03.307358+05:30'
-last_seen: '2026-07-20T20:06:03.307358+05:30'
-last_checked: '2026-07-20T20:06:03.307358+05:30'
+first_seen: '2026-07-20T22:16:46.962333+05:30'
+last_seen: '2026-07-20T22:16:46.962333+05:30'
+last_checked: '2026-07-20T22:16:46.962333+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- Implements retrieval-augmented generation (RAG) with best practices optimized for EMNLP 2024, focusing on retrieval and generation pipeline efficiency.
-- Provides Python-based modular components for document retrieval, query processing, and response generation with configurable hyperparameters.
-- Supports integration with common NLP datasets and retrieval backends (e.g., FAISS, BM25) for end-to-end RAG experimentation.
+- Implements retrieval-augmented generation (RAG) best practices as per EMNLP 2024, focusing on optimizing retrieval and generation pipelines for improved performance.
+- Provides a Python-based framework for experimentation with modular components for document retrieval, reranking, and response generation.
+- Includes benchmarking tools and configurations to evaluate RAG systems across standard datasets and metrics.
 
 ## Why It Matters
 
