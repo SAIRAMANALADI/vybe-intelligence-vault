@@ -74,6 +74,26 @@ function parseMarkdown(content) {
 }
 
 const IGNORED_DIR_NAMES = ['node_modules', '.git', '.venv', 'dist', 'build', 'cache', '.cache', 'temp', 'tmp','world','scripts'];
+const MAX_TOTAL_EDGES = Math.min(Math.max(Number(process.env.VAULT_MAX_TOTAL_EDGES || 50000), 100), 100000);
+const MAX_EDGES_PER_NODE = Math.min(Math.max(Number(process.env.VAULT_MAX_EDGES_PER_NODE || 24), 1), 100);
+const MAX_SIMILARITY_CANDIDATES = Math.min(Math.max(Number(process.env.VAULT_MAX_SIMILARITY_CANDIDATES || 2500), 10), 5000);
+const IGNORED_TOP_LEVEL_DIR_NAMES = new Set([
+  'node_modules',
+  'vault-core',
+  'scripts',
+  'temp_vault',
+  'temp_vault2',
+  'world',
+  'dist',
+  'build',
+  'cache',
+  '.cache',
+  'temp',
+  'tmp',
+  '_index',
+  'assets',
+  '.git'
+]);
 
 // Recurse directories safely tracking visited paths to prevent infinite junction/symlink loops
 function getMarkdownFiles(dir, fileList = [], visited = new Set()) {
@@ -248,12 +268,11 @@ const staticMockVector = Array.from({ length: 768 }, (_, i) => parseFloat(Math.s
 
 async function buildIndex() {
   // Dynamically scan all directories in the vault except for internal system/temporary folders
-  const IGNORED_TOP_LEVEL = ['node_modules', 'vault-core', 'scripts', 'temp_vault', 'temp_vault2', 'world', 'dist', 'build', 'cache', '.cache', 'temp', 'tmp', '_index', 'assets', '.git'];
   const foldersToScan = fs.readdirSync(VAULT_ROOT).filter(file => {
     const filePath = path.join(VAULT_ROOT, file);
     return fs.statSync(filePath).isDirectory() && 
            !file.startsWith('.') && 
-           !IGNORED_TOP_LEVEL.includes(file.toLowerCase());
+           !IGNORED_TOP_LEVEL_DIR_NAMES.has(file.toLowerCase());
   });
   console.log(`Discovered and scanning folders: ${foldersToScan.join(', ')}`);
   const nodes = [];
@@ -331,14 +350,54 @@ async function buildIndex() {
   
   // Set to track edge existence in O(1)
   const edgeKeys = new Set();
+  const edgeCountsByNode = new Map();
   
   // Helper to generate edge keys
   const getEdgeKey = (src, tgt) => {
     return src < tgt ? `${src}::${tgt}` : `${tgt}::${src}`;
   };
+
+  const addEdge = (source, target, type, weight) => {
+    if (!source || !target || source === target || edges.length >= MAX_TOTAL_EDGES) {
+      return false;
+    }
+
+    const sourceCount = edgeCountsByNode.get(source) || 0;
+    const targetCount = edgeCountsByNode.get(target) || 0;
+    if (sourceCount >= MAX_EDGES_PER_NODE || targetCount >= MAX_EDGES_PER_NODE) {
+      return false;
+    }
+
+    const edgeKey = getEdgeKey(source, target);
+    if (edgeKeys.has(edgeKey)) {
+      return false;
+    }
+
+    // Guard against Set capacity limits (RangeError: Set maximum size exceeded)
+    if (edgeKeys.size >= MAX_TOTAL_EDGES || edgeKeys.size >= 15000000) {
+      return false;
+    }
+
+    try {
+      edgeKeys.add(edgeKey);
+    } catch (err) {
+      return false;
+    }
+
+    edgeCountsByNode.set(source, sourceCount + 1);
+    edgeCountsByNode.set(target, targetCount + 1);
+    edges.push({
+      source,
+      target,
+      type,
+      weight: parseFloat(Math.min(weight, 0.98).toFixed(2))
+    });
+    return true;
+  };
   
   // 2. Resolve edges from direct markdown links
   for (const node of nodes) {
+    if (edges.length >= MAX_TOTAL_EDGES) break;
     const content = fileContentCache.get(node.path) || '';
     const filePath = path.join(VAULT_ROOT, node.path);
     const folderDir = path.dirname(filePath);
@@ -347,6 +406,7 @@ async function buildIndex() {
     let match;
     
     while ((match = linkRegex.exec(content)) !== null) {
+      if (edges.length >= MAX_TOTAL_EDGES) break;
       const linkUrl = match[2];
       
       if (linkUrl.startsWith('http://') || linkUrl.startsWith('https://') || linkUrl.startsWith('#')) {
@@ -359,16 +419,7 @@ async function buildIndex() {
         
         const targetNode = nodesByPathMap.get(resolvedRelPath.toLowerCase());
         if (targetNode && targetNode.path !== node.path) {
-          const edgeKey = getEdgeKey(node.path, targetNode.path);
-          if (!edgeKeys.has(edgeKey)) {
-            edgeKeys.add(edgeKey);
-            edges.push({
-              source: node.path,
-              target: targetNode.path,
-              type: 'references',
-              weight: 0.95
-            });
-          }
+          addEdge(node.path, targetNode.path, 'references', 0.95);
         }
       } catch (err) {
         // Ignore resolution errors
@@ -378,15 +429,32 @@ async function buildIndex() {
   
   // 3. Compute edges using cosine similarity and tag/tech stack overlaps
   const mainCategories = ['maps', 'skills', 'daily-digests', 'prompts', 'build-ideas', 'learning-paths', 'intelligence'];
-  for (let i = 0; i < nodes.length; i++) {
-    for (let j = i + 1; j < nodes.length; j++) {
-      const n1 = nodes[i];
-      const n2 = nodes[j];
-      
-      // Skip similarity check if either node is outside of the core structured categories to avoid O(N^2) lockups
-      if (!mainCategories.includes(n1.category) || !mainCategories.includes(n2.category)) {
-        continue;
+  const similarityCandidates = nodes
+    .filter(node => {
+      if (!mainCategories.includes(node.category)) return false;
+      if (node.category === 'daily-digests') {
+        return (node.tags && node.tags.length > 0) || (node.tech_stack && node.tech_stack.length > 0);
       }
+      return true;
+    })
+    .sort((a, b) => {
+      const scoreDiff = (b.quality_score || 0) - (a.quality_score || 0);
+      if (scoreDiff !== 0) return scoreDiff;
+      return String(a.path).localeCompare(String(b.path));
+    })
+    .slice(0, MAX_SIMILARITY_CANDIDATES);
+
+  if (nodes.length > similarityCandidates.length) {
+    console.log(
+      `Similarity edge pass capped at ${similarityCandidates.length}/${nodes.length} nodes ` +
+      `(MAX_SIMILARITY_CANDIDATES=${MAX_SIMILARITY_CANDIDATES}).`
+    );
+  }
+
+  for (let i = 0; i < similarityCandidates.length && edges.length < MAX_TOTAL_EDGES; i++) {
+    for (let j = i + 1; j < similarityCandidates.length && edges.length < MAX_TOTAL_EDGES; j++) {
+      const n1 = similarityCandidates[i];
+      const n2 = similarityCandidates[j];
       
       const v1 = embeddingsMap[n1.path];
       const v2 = embeddingsMap[n2.path];
@@ -406,31 +474,27 @@ async function buildIndex() {
       }
       
       // Strict Edge threshold check (sim > 0.85 or sharing significant tag/tech overlap) to prevent edge explosion
-      const isConnected = sim > 0.85 || sharedTags.length >= 3 || sharedTech.length >= 2;
+      const bothDailyDigests = n1.category === 'daily-digests' && n2.category === 'daily-digests';
+      const isConnected = bothDailyDigests
+        ? sharedTags.length >= 3 || sharedTech.length >= 2
+        : sim > 0.85 || sharedTags.length >= 3 || sharedTech.length >= 2;
       
       if (isConnected) {
-        const edgeKey = getEdgeKey(n1.path, n2.path);
-        if (!edgeKeys.has(edgeKey)) {
-          edgeKeys.add(edgeKey);
-          weight = Math.min(weight, 0.98);
-          
-          if (sharedTech.length >= 2) {
-            type = 'depends_on';
-          } else if (sim > 0.85) {
-            type = 'similar_to';
-          } else {
-            type = 'references';
-          }
-          
-          edges.push({
-            source: n1.path,
-            target: n2.path,
-            type,
-            weight: parseFloat(weight.toFixed(2))
-          });
+        if (sharedTech.length >= 2) {
+          type = 'depends_on';
+        } else if (sim > 0.85 && !bothDailyDigests) {
+          type = 'similar_to';
+        } else {
+          type = 'references';
         }
+
+        addEdge(n1.path, n2.path, type, weight);
       }
     }
+  }
+
+  if (edges.length >= MAX_TOTAL_EDGES) {
+    console.log(`Edge generation stopped at MAX_TOTAL_EDGES=${MAX_TOTAL_EDGES}.`);
   }
   
   // Build system health from previous or initial metrics
@@ -484,22 +548,17 @@ function copyMarkdownFiles() {
   }
   fs.mkdirSync(targetVaultDir, { recursive: true });
 
-  const IGNORED_TOP_LEVEL = ['node_modules', 'vault-core', 'scripts', 'temp_vault', 'temp_vault2', 'world', 'dist', 'build', 'cache', '.cache', 'temp', 'tmp', '_index', 'assets', '.git'];
-  const folders = fs.readdirSync(VAULT_ROOT).filter(file => {
-    const filePath = path.join(VAULT_ROOT, file);
-    return fs.statSync(filePath).isDirectory() && 
-           !file.startsWith('.') && 
-           !IGNORED_TOP_LEVEL.includes(file.toLowerCase());
-  });
-
+  const folders = ['maps', 'skills', 'daily-digests', 'prompts'];
   for (const folder of folders) {
     const srcDir = path.join(VAULT_ROOT, folder);
+    const destDir = path.join(targetVaultDir, folder);
     if (!fs.existsSync(srcDir)) continue;
 
+    fs.mkdirSync(destDir, { recursive: true });
     const files = getMarkdownFiles(srcDir);
     for (const file of files) {
-      const relPath = path.relative(VAULT_ROOT, file);
-      const destFile = path.join(targetVaultDir, relPath);
+      const relPath = path.relative(srcDir, file);
+      const destFile = path.join(destDir, relPath);
       fs.mkdirSync(path.dirname(destFile), { recursive: true });
       fs.copyFileSync(file, destFile);
     }

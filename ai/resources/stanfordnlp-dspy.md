@@ -4,23 +4,23 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/stanfordnlp/dspy
-collected_at: '2026-07-14T13:03:09.078964+05:30'
-published_at: '2026-07-14T05:48:54Z'
+collected_at: '2026-07-20T03:47:26.130396+05:30'
+published_at: '2026-07-19T21:11:25Z'
 tags:
 - github-repo
-- openai
+- models
 - python
-stars: 36109
+stars: 36229
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-01-09T21:01:51Z'
-pushed_at: '2026-07-14T03:33:02Z'
+pushed_at: '2026-07-16T19:12:53Z'
 resource_id: github:stanfordnlp/dspy
-first_seen: '2026-07-14T13:03:09.078964+05:30'
-last_seen: '2026-07-14T13:03:09.078964+05:30'
-last_checked: '2026-07-14T13:03:09.078964+05:30'
+first_seen: '2026-07-20T03:47:26.130396+05:30'
+last_seen: '2026-07-20T03:47:26.130396+05:30'
+last_checked: '2026-07-20T03:47:26.130396+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Programmatic LM Optimization**: DSPy introduces a framework for programmatically structuring language model (LM) interactions, replacing ad-hoc prompting with modular, trainable pipelines (e.g., `Signature`, `Module`, `Predictor`) that optimize LM behavior via gradient-free optimization (e.g., `BootstrapFewShot`, `MIPRO`).
+- **Programmatic LM Optimization**: DSPy introduces a framework that shifts from manual prompt engineering to programmatic optimization of language models, enabling systematic tuning of prompts and weights via declarative modules.
 
-- **Compiler-Based Abstraction**: The framework compiles high-level programmatic instructions into optimized LM calls, enabling automatic prompt generation, parameter tuning, and task decomposition while abstracting low-level details (e.g., `dspy.compile()` transforms `Predictor` instances into executable pipelines).
+- **Modular Pipeline Design**: The framework provides composable, declarative modules (e.g., `Predict`, `Retrieve`) that abstract LM interactions, allowing developers to define pipelines programmatically while DSPy handles optimization (e.g., via teleprompters).
 
-- **Modular & Extensible Design**: DSPy supports custom modules, teleprompters (optimizers), and LM integrations (e.g., HuggingFace, OpenAI) via a unified API, with built-in support for few-shot learning, chain-of-thought, and adaptive retrieval strategies.
+- **Automated Teleprompters**: Includes built-in optimization algorithms (e.g., BootstrapFewShot, MIPROv2) that automatically generate and refine prompts or weights, reducing reliance on manual trial-and-error and improving reproducibility.
 
 ## Why It Matters
 
@@ -41,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: stanfordnlp
-- Stars: 36109
-- Forks: 3095
+- Stars: 36229
+- Forks: 3111
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-14T05:48:54Z
+- Last Updated: 2026-07-19T21:11:25Z
 - License: MIT
 - Archived: No
 - Created At: 2023-01-09T21:01:51Z
-- Pushed At: 2026-07-14T03:33:02Z
+- Pushed At: 2026-07-16T19:12:53Z
 
 ## Possible Use Cases
 

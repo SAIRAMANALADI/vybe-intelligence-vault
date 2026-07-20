@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/promptflow-rag-project-template
-collected_at: '2026-07-18T16:49:17.142841+05:30'
+collected_at: '2026-07-20T03:42:18.168479+05:30'
 published_at: '2026-07-17T11:47:29Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-12-14T01:47:16Z'
 pushed_at: '2024-09-06T22:11:58Z'
 resource_id: github:microsoft/promptflow-rag-project-template
-first_seen: '2026-07-18T16:49:17.142841+05:30'
-last_seen: '2026-07-18T16:49:17.142841+05:30'
-last_checked: '2026-07-18T16:49:17.142841+05:30'
+first_seen: '2026-07-20T03:42:18.168479+05:30'
+last_seen: '2026-07-20T03:42:18.168479+05:30'
+last_checked: '2026-07-20T03:42:18.168479+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **End-to-end RAG implementation** leveraging Promptflow for development, evaluation, experimentation, and deployment, integrating search solutions (CosmosDB, PostgreSQL, Azure AI Search) for retrieval-augmented generation workflows.
+- **End-to-End RAG Pipeline**: Demonstrates Retrieval-Augmented Generation (RAG) workflows using **Promptflow**, integrating development, evaluation, experimentation, and deployment phases.
 
-- **Jupyter Notebook-based template** providing executable examples for RAG pipeline construction, including data ingestion, indexing, retrieval, and generation with built-in evaluation metrics.
+- **Multi-Search Backend Support**: Implements retrieval via **CosmosDB**, **PostgreSQL**, and **Azure AI Search**, showcasing heterogeneous data source integration for RAG systems.
 
-- **Multi-search backend support** demonstrating hybrid retrieval strategies across vector databases (CosmosDB, PostgreSQL) and semantic search (Azure AI Search) with Promptflow orchestration.
+- **Notebook-Based Implementation**: Provides a **Jupyter Notebook**-centric template for reproducible RAG experimentation, with modular components for prompt engineering, evaluation, and deployment.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/gohugoio/hugo/releases
-published_at: '2026-07-18T16:54:17.834049+05:30'
-collected_at: '2026-07-18T16:54:17.834056+05:30'
+published_at: '2026-07-20T03:47:32.240916+05:30'
+collected_at: '2026-07-20T03:47:32.240934+05:30'
 tags:
 - agents
 - frontend_ui
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: github:gohugoio/hugo
-first_seen: '2026-07-18T16:54:17.834056+05:30'
-last_seen: '2026-07-18T16:54:17.834056+05:30'
-last_checked: '2026-07-18T16:54:17.834056+05:30'
+first_seen: '2026-07-20T03:47:32.240934+05:30'
+last_seen: '2026-07-20T03:47:32.240934+05:30'
+last_checked: '2026-07-20T03:47:32.240934+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **New Features in v0.164.0**: Introduced dark/light mode pairs for Chroma highlighter styles, added template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), and enhanced markup with RST syntax highlighting and Pandoc citation support.
+- **Hugo v0.164.0** introduces Chroma highlighter dark/light mode pairs, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), and Pandoc citation support, along with sub-path layout support in `Page.Render`.
 
-- **Performance & Bug Fixes**: Addressed a performance regression introduced in v0.128.0, deprecated `resources.PostProcess` in favor of `templates.Defer`, and improved `hugio` performance via `hasBytesWriter` optimizations.
+- **Performance fix** for regression introduced in v0.128.0, improving build times for larger sites, and deprecation of `resources.PostProcess` in favor of `templates.Defer`.
 
-- **Template & Dependency Updates**: Added sub-path support in layouts for `.Render`, made template name lookup case-insensitive, and updated dependencies (e.g., `esbuild`, `Chroma`, Go toolchain).
+- **Dependency updates** include Go toolchain upgrades (x/tools v0.45.0→v0.47.0, x/net v0.55.0→v0.56.0) and Chroma v0.18.0 for syntax highlighting improvements.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-18T16:54:17.834049+05:30
+- Published: 2026-07-20T03:47:32.240916+05:30
 
 ## Related Tags
 

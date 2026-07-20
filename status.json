@@ -1,11 +1,11 @@
 {
-  "last_run": "2026-07-18T17:10:24.132438+05:30",
-  "trigger": "workflow_dispatch",
-  "resources_scanned": 1518,
-  "resources_added": 2,
-  "resources_updated": 126,
-  "resources_removed": 4,
-  "files_modified": 50333,
+  "last_run": "2026-07-20T04:03:19.413593+05:30",
+  "trigger": "schedule",
+  "resources_scanned": 997,
+  "resources_added": 963,
+  "resources_updated": 2,
+  "resources_removed": 0,
+  "files_modified": 3253,
   "commit_created": true,
   "push_successful": true
 }

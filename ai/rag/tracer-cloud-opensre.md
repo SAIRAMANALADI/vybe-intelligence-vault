@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Tracer-Cloud/opensre
-collected_at: '2026-07-18T16:51:02.238764+05:30'
-published_at: '2026-07-18T11:19:31Z'
+collected_at: '2026-07-20T03:44:08.365038+05:30'
+published_at: '2026-07-19T22:13:58Z'
 tags:
 - agents
 - github-repo
@@ -13,17 +13,17 @@ tags:
 - rag
 - scripts
 - workflows
-stars: 8677
+stars: 8753
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2026-01-13T00:04:47Z'
-pushed_at: '2026-07-18T11:14:06Z'
+pushed_at: '2026-07-19T19:34:12Z'
 resource_id: github:tracer-cloud/opensre
-first_seen: '2026-07-18T16:51:02.238764+05:30'
-last_seen: '2026-07-18T16:51:02.238764+05:30'
-last_checked: '2026-07-18T16:51:02.238764+05:30'
+first_seen: '2026-07-20T03:44:08.365038+05:30'
+last_seen: '2026-07-20T03:44:08.365038+05:30'
+last_checked: '2026-07-20T03:44:08.365038+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **AI-Powered SRE Toolkit**: Open-source framework (`opensre`) enabling autonomous Site Reliability Engineering (SRE) agents with AI-driven incident management, root-cause analysis (RCA), and remediation workflows.
-- **Multi-Platform Observability Integration**: Supports Datadog, Grafana, Slack, and other observability tools for alerting, incident response, and real-time collaboration in SRE workflows.
-- **Python-Based Automation**: Leverages Python for extensible agent development, with modules for alert correlation, automated remediation, and integration with monitoring/observability ecosystems.
+- **AI-Powered SRE Automation**: OpenSRE provides an open-source framework for building AI-driven Site Reliability Engineering (SRE) agents, integrating alerting, incident management, and root-cause analysis with observability tools like Datadog and Grafana.
+
+- **Multi-Platform Remediation**: Supports automated remediation workflows via Slack and other platforms, enabling real-time incident response and dynamic root-cause identification for cloud-native environments.
+
+- **Python-Based Toolkit**: Built in Python, the toolkit leverages modern SRE practices, including alert correlation, observability integration, and AI-driven decision-making for scalable incident resolution.
 
 ## Why It Matters
 
@@ -42,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Tracer-Cloud
-- Stars: 8677
-- Forks: 1192
+- Stars: 8753
+- Forks: 1210
 - Language: Python
 - Topics: ai-sre, alerting, datadog, grafana, incident-management, observability, remediation, root-cause-analysis, site-reliability-engineering, slack, sre
-- Last Updated: 2026-07-18T11:19:31Z
+- Last Updated: 2026-07-19T22:13:58Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-01-13T00:04:47Z
-- Pushed At: 2026-07-18T11:14:06Z
+- Pushed At: 2026-07-19T19:34:12Z
 
 ## Possible Use Cases
 

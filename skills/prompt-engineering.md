@@ -18,97 +18,102 @@ Well-engineered prompts reduce downstream parsing failures, control costs throug
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 336 resources matched in the intelligence vault.
+Active signals: 331 resources matched in the intelligence vault.
 Recently detected signals:
-- [Artificial Intelligence | web.dev](../ai/rag/artificial-intelligence-web-dev.md) (Source: Unknown Source) - Collected 2026-07-18
-- [Towards Better Understanding of Program-of-Thought Reasoning in Cross-Lingual and Multilingual Environments - ACL Anthol](../ai/rag/towards-better-understanding-of-program-of-thought.md) (Source: Unknown Source) - Collected 2026-07-18
-- [[2502.17956] Towards Better Understanding of Program-of-Thought Reasoning in Cross-Lingual and Multilingual Environments](../ai/resources/arxiv-2502-17956.md) (Source: Unknown Source) - Collected 2026-07-18
-- [LlamaIndex | AI Agents for Document OCR + Workflows](../ai/rag/llamaindex-ai-agents-for-document-ocr-workflows.md) (Source: Unknown Source) - Collected 2026-07-18
-- [langchain-ai/langgraph](../ai/rag/langchain-ai-langgraph.md) (Source: Unknown Source) - Collected 2026-07-18
+- [Tutorials | Haystack](../ai/rag/tutorials-haystack.md) (Source: Unknown Source) - Collected 2026-07-20
+- [[2205.13147] Matryoshka Representation Learning](../ai/resources/arxiv-2205-13147.md) (Source: Unknown Source) - Collected 2026-07-20
+- [DSPy](../ai/rag/dspy.md) (Source: Unknown Source) - Collected 2026-07-20
+- [Changelog - Docs by LangChain](../ai/rag/changelog-docs-by-langchain.md) (Source: Unknown Source) - Collected 2026-07-20
+- [Changelog | Firecrawl](../ai/rag/changelog-firecrawl.md) (Source: Unknown Source) - Collected 2026-07-20
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
 
 <!-- GENERATED:BEST_REPOS_START -->
-### 1. [langfuse/langfuse](../ai/rag/langfuse-langfuse.md) ([GitHub](https://github.com/langfuse/langfuse))
+### 1. [langchain-ai/rag-research-agent-template](../ai/rag/langchain-ai-rag-research-agent-template.md) ([GitHub](https://github.com/langchain-ai/rag-research-agent-template))
+- Stars: 0
+- Language: Unknown
+- Description: - **Purpose**: Template repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating structured AI research workflows.
+
+### 2. [langfuse/langfuse](../ai/rag/langfuse-langfuse.md) ([GitHub](https://github.com/langfuse/langfuse))
 - Stars: 0
 - Language: Unknown
 - Description: - **Open-source AI engineering platform** for LLM evaluation, observability, metrics, prompt management, and dataset handling, with a built-in playground for testing and debugging.
 
-### 2. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero.md) ([GitHub](https://github.com/didilili/ai-agents-from-zero))
+### 3. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero.md) ([GitHub](https://github.com/didilili/ai-agents-from-zero))
 - Stars: 0
 - Language: Unknown
-- Description: - **Comprehensive 2026 AI Agent Learning Path**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering; includes enterprise-grade deployment, fine-tuning, and project deplo...
+- Description: - **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, structured as a full learning path with hands-on projects and interview prep...
 
-### 3. [WenyuChiou/awesome-agentic-ai-zh](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) ([GitHub](https://github.com/wenyuchiou/awesome-agentic-ai-zh))
+### 4. [WenyuChiou/awesome-agentic-ai-zh](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) ([GitHub](https://github.com/wenyuchiou/awesome-agentic-ai-zh))
 - Stars: 0
 - Language: Unknown
-- Description: - **Comprehensive trilingual (/English/) learning roadmap** covering agentic AI, from foundational LLM concepts to advanced multi-agent systems, with **240+ curated resources** and practical examples.
+- Description: - **Trilingual Learning Roadmap**: Covers agentic AI from LLM fundamentals to multi-agent systems, with 240+ curated resources in Traditional Chinese, English, and Simplified Chinese, including han...
 
-### 4. [langchain-ai/langgraph](../ai/rag/langchain-ai-langgraph.md) ([GitHub](https://github.com/langchain-ai/langgraph))
+### 5. [microsoft/promptflow-rag-project-template](../ai/rag/microsoft-promptflow-rag-project-template.md) ([GitHub](https://github.com/microsoft/promptflow-rag-project-template))
 - Stars: 0
 - Language: Unknown
-- Description: - **Multi-agent orchestration framework**: LangGraph enables resilient agent-based systems with support for parallel/sequential workflows, state management, and inter-agent communication via a grap...
+- Description: - **End-to-End RAG Pipeline**: Demonstrates Retrieval-Augmented Generation (RAG) workflows using **Promptflow**, integrating development, evaluation, experimentation, and deployment phases.
 
-### 5. [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach.md) ([GitHub](https://github.com/panniantong/agent-reach))
+### 6. [vercel-labs/ai-sdk-preview-rag](../ai/rag/vercel-labs-ai-sdk-preview-rag.md) ([GitHub](https://github.com/vercel-labs/ai-sdk-preview-rag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Multi-Platform Web Scraper**: CLI tool (`Agent-Reach`) in Python that aggregates data from Twitter, Reddit, YouTube, GitHub, Bilibili, and XiaoHongShu without API fees, enabling AI agents to "s...
+- Description: - **RAG Implementation**: Template demonstrates retrieval-augmented generation (RAG) using Vercel's AI SDK, integrating document retrieval with LLM inference for contextual responses.
 
-### 6. [rosgluk (Rost Glukhov) · GitHub](../ai/agents/rosgluk-rost-glukhov-github.md) ([GitHub](https://github.com/rosgluk))
+### 7. [chaoql/rag-best-practices](../ai/rag/chaoql-rag-best-practices.md) ([GitHub](https://github.com/chaoql/rag-best-practices))
+- Stars: 0
+- Language: Unknown
+- Description: - **RAG Optimization Framework**: Repository provides structured best practices for Retrieval-Augmented Generation (RAG) using large language models (LLMs), focusing on retrieval quality, prompt en...
+
+### 8. [rosgluk (Rost Glukhov) · GitHub](../ai/agents/rosgluk-rost-glukhov-github.md) ([GitHub](https://github.com/rosgluk))
 - Stars: 0
 - Language: Unknown
 - Description: - **Profile Summary**: Technical Team Leader with expertise in C#, Golang, ReactJS, Flutter, Python, C++, SQL, Kubernetes, distributed/embedded systems, AI/ML, and LLMs; based in Melbourne, Australia.
 
-### 7. [Azure-Samples/chat-with-your-data-solution-accelerator](../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md) ([GitHub](https://github.com/azure-samples/chat-with-your-data-solution-accelerator))
+### 9. [Leonxlnx/agentic-ai-prompt-research](../ai/agents/leonxlnx-agentic-ai-prompt-research.md) ([GitHub](https://github.com/leonxlnx/agentic-ai-prompt-research))
 - Stars: 0
 - Language: Unknown
-- Description: - **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for vector retrieval and **Azure OpenAI** LLMs for chat/Q&A generation, following prod...
+- Description: - **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and agent coordination mechanisms for autonomous AI-driven coding workflows.
 
-### 8. [Leonxlnx/agentic-ai-prompt-research](../ai/agents/leonxlnx-agentic-ai-prompt-research.md) ([GitHub](https://github.com/leonxlnx/agentic-ai-prompt-research))
-- Stars: 0
-- Language: Unknown
-- Description: - **Agentic AI Coding Assistants**: Analyzes prompt patterns and coordination mechanisms for autonomous AI agents in coding tasks, focusing on system prompts and prompt engineering techniques.
-
-### 9. [junwoojeong100/azure-intelligent-app-labs](../ai/rag/junwoojeong100-azure-intelligent-app-labs.md) ([GitHub](https://github.com/junwoojeong100/azure-intelligent-app-labs))
+### 10. [junwoojeong100/azure-intelligent-app-labs](../ai/rag/junwoojeong100-azure-intelligent-app-labs.md) ([GitHub](https://github.com/junwoojeong100/azure-intelligent-app-labs))
 - Stars: 0
 - Language: Unknown
 - Description: Labs for Prompt Engineering, AutoGen, AI Agents, Vibe Coding, GitHub Copilot, AKS, RAG, and Azure AI Search.
 
-### 10. [Code-and-Sorts/awesome-copilot-agents](../ai/agents/code-and-sorts-awesome-copilot-agents.md) ([GitHub](https://github.com/code-and-sorts/awesome-copilot-agents))
+### 11. [pixegami/rag-tutorial-v2](../ai/rag/pixegami-rag-tutorial-v2.md) ([GitHub](https://github.com/pixegami/rag-tutorial-v2))
 - Stars: 0
 - Language: Unknown
-- Description: - **Curated Resource**: A GitHub repository (`Code-and-Sorts/awesome-copilot-agents`) containing structured GitHub Copilot instructions, prompts, skills, MCPs (Model Context Protocols), and agent m...
+- Description: - Implements **LangChain-based RAG pipeline** optimized for **local LLMs** (e.g., Llama, Mistral) with **quantized inference** for efficiency.
 
-### 11. [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](../ai/resources/lm-sys-fastchat.md) ([GitHub](https://github.com/lm-sys/fastchat))
+### 12. [vercel/ai](../ai/agents/vercel-ai.md) ([GitHub](https://github.com/vercel/ai))
+- Stars: 0
+- Language: Unknown
+- Description: - **AI SDK**: Open-source TypeScript library by Vercel for building AI-powered apps and agents, supporting models like OpenAI, Anthropic, and Gemini.
+
+### 13. [Code-and-Sorts/awesome-copilot-agents](../ai/agents/code-and-sorts-awesome-copilot-agents.md) ([GitHub](https://github.com/code-and-sorts/awesome-copilot-agents))
+- Stars: 0
+- Language: Unknown
+- Description: - **Curated Resource**: A GitHub repository (`Code-and-Sorts/awesome-copilot-agents`) compiling GitHub Copilot instructions, prompts, skills, MCPs, and agent markdown files to enhance AI agent inte...
+
+### 14. [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](../ai/resources/lm-sys-fastchat.md) ([GitHub](https://github.com/lm-sys/fastchat))
 - Stars: 0
 - Language: Unknown
 - Description: - **FastChat** is an open-source framework from `lm-sys` (4.8k forks, 39.5k stars) designed for evaluating LLM responses, with structured prompts for pairwise and single-judge evaluations across ge...
 
-### 12. [coleam00/pydantic-ai-github-agent](../ai/agents/coleam00-pydantic-ai-github-agent.md) ([GitHub](https://github.com/coleam00/pydantic-ai-github-agent))
+### 15. [github/awesome-copilot](../ai/agents/github-awesome-copilot.md) ([GitHub](https://github.com/github/awesome-copilot))
 - Stars: 0
 - Language: Unknown
-- Description: - **Purpose**: AI agent designed for GitHub repository analysis, built as part of a YouTube series on AI agent development.
-
-### 13. [opendataloader-project/opendataloader-pdf](../ai/rag/opendataloader-project-opendataloader-pdf.md) ([GitHub](https://github.com/opendataloader-project/opendataloader-pdf))
-- Stars: 0
-- Language: Unknown
-- Description: - **Java-based PDF Parser**: Open-source tool designed for AI-ready data extraction from PDFs, supporting accessibility compliance (PDF/UA, WCAG) via OCR and structured output formats (HTML, JSON, ...
-
-### 14. [github/awesome-copilot](../ai/agents/github-awesome-copilot.md) ([GitHub](https://github.com/github/awesome-copilot))
-- Stars: 0
-- Language: Unknown
-- Description: - **Repository Overview**: Curated collection of community-driven resources for GitHub Copilot, including instructions, agents, skills, and configurations to enhance productivity.
-
-### 15. [stanfordnlp/dspy](../ai/resources/stanfordnlp-dspy.md) ([GitHub](https://github.com/stanfordnlp/dspy))
-- Stars: 0
-- Language: Unknown
-- Description: - **Programmatic LM Optimization**: DSPy introduces a framework for programmatically structuring language model (LM) interactions, replacing ad-hoc prompting with modular, trainable pipelines (e.g....
+- Description: - **Curated Repository**: Hosts community-driven resources (instructions, agents, skills, configurations) to optimize GitHub Copilot usage, with 36.7K+ stars and 4.6K+ forks.
 
 ### 16. [jaypanchal18/production-ai-agents-and-llm-platform](../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform.md) ([GitHub](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform))
 - Stars: 0
 - Language: Unknown
 - Description: A advanced web app | api project: Production AI Agents and LLM Platform. The Production AI Agents and LLM Platform is designed to streamline the deployment and management of AI agents and large lan...
+
+### 17. [stanfordnlp/dspy](../ai/resources/stanfordnlp-dspy.md) ([GitHub](https://github.com/stanfordnlp/dspy))
+- Stars: 0
+- Language: Unknown
+- Description: - **Programmatic LM Optimization**: DSPy introduces a framework that shifts from manual prompt engineering to programmatic optimization of language models, enabling systematic tuning of prompts and...
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -130,4 +135,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-18T17:03:48.895171+05:30.442877+05:30.058410+05:30.599921+05:30.978407+05:30.741321+05:30.852913+05:30.727510+05:30.954461+05:30.856247+05:30.640771+05:30.674145+05:30.286656+05:30.198622+05:30.334265+05:30.606069+05:30.969440+05:30.888730+05:30.300450+05:30.432366+05:30.541189+05:30.363472+05:30.159452+05:30.335293+05:30.168152+05:30.369157+05:30.042780+05:30.172643+05:30.562942+05:30.900875+05:30.896989+05:30.203766+05:30.195583+05:30.685581+05:30.652618+05:30.785597+05:30.261200+05:30.269860+05:30.348616+05:30.707889+05:30.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-20T03:56:57.196830+05:30.695248+05:30.446523+05:30.671659+05:30.006993+05:30.397725+05:30.895171+05:30.442877+05:30.058410+05:30.599921+05:30.978407+05:30.741321+05:30.852913+05:30.727510+05:30.954461+05:30.856247+05:30.640771+05:30.674145+05:30.286656+05:30.198622+05:30.334265+05:30.606069+05:30.969440+05:30.888730+05:30.300450+05:30.432366+05:30.541189+05:30.363472+05:30.159452+05:30.335293+05:30.168152+05:30.369157+05:30.042780+05:30.172643+05:30.562942+05:30.900875+05:30.896989+05:30.203766+05:30.195583+05:30.685581+05:30.652618+05:30.785597+05:30.261200+05:30.269860+05:30.348616+05:30.707889+05:30.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.

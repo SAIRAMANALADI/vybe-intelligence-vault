@@ -4,24 +4,26 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/adongwanai/AgentGuide
-collected_at: '2026-07-18T16:53:02.271989+05:30'
-published_at: '2026-07-18T11:20:35Z'
+collected_at: '2026-07-20T03:46:03.415662+05:30'
+published_at: '2026-07-19T15:54:35Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - html
+- models
 - rag
-stars: 7109
+- workflows
+stars: 7125
 language: HTML
 status: active
 archived: false
 created_at: '2025-11-03T10:46:38Z'
 pushed_at: '2026-07-09T03:48:25Z'
 resource_id: github:adongwanai/agentguide
-first_seen: '2026-07-18T16:53:02.271989+05:30'
-last_seen: '2026-07-18T16:53:02.271989+05:30'
-last_checked: '2026-07-18T16:53:02.271989+05:30'
+first_seen: '2026-07-20T03:46:03.415662+05:30'
+last_seen: '2026-07-20T03:46:03.415662+05:30'
+last_checked: '2026-07-20T03:46:03.415662+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive AI Agent Development Guide**: Covers LangGraph implementation, advanced RAG techniques, and multi-agent systems with focus on SFT, GRPO, and algorithm engineering for LLM deployment.
+- **Comprehensive AI Agent Development Guide**: Covers LangGraph implementation, advanced RAG techniques, multi-agent systems, and GRPO/RLHF methodologies for AI agent training and deployment.
 
-- **Interview & Career Resources**: Provides curated interview questions, job-hunting strategies, and transition pathways for AI/ML roles, including algorithm engineer and LLM specialist tracks.
+- **Career Transition & Interview Resources**: Provides specialized content for transitioning into AI roles (e.g., algorithm engineer, LLM engineer) with curated interview question banks and job-hunting strategies.
 
-- **Technical Stack & Tools**: Integrates CrewAI, GraphRAG, LangChain, and data synthesis methodologies for building production-grade AI agents with reinforcement learning components.
+- **Technical Stack Integration**: Includes tutorials on LangChain, CrewAI, GraphRAG, and data synthesis techniques, with a focus on SFT (Supervised Fine-Tuning) and practical agentic RAG workflows.
 
 ## Why It Matters
 
@@ -42,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: adongwanai
-- Stars: 7109
-- Forks: 703
+- Stars: 7125
+- Forks: 709
 - Language: HTML
 - Topics: agenticrag, ai-agent, crewai, graphrag, grpo, interview, job-hunting, langchain, llm, multi-agent, rag, sft, tutorial
-- Last Updated: 2026-07-18T11:20:35Z
+- Last Updated: 2026-07-19T15:54:35Z
 - Archived: No
 - Created At: 2025-11-03T10:46:38Z
 - Pushed At: 2026-07-09T03:48:25Z

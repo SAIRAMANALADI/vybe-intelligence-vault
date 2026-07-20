@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-07-18T16:50:27.195410+05:30'
+collected_at: '2026-07-20T03:43:28.300879+05:30'
 published_at: '2026-07-13T02:17:29Z'
 tags:
-- benchmark
 - github-repo
+- models
 - python
 - rag
 stars: 524
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-07-18T16:50:27.195410+05:30'
-last_seen: '2026-07-18T16:50:27.195410+05:30'
-last_checked: '2026-07-18T16:50:27.195410+05:30'
+first_seen: '2026-07-20T03:43:28.300879+05:30'
+last_seen: '2026-07-20T03:43:28.300879+05:30'
+last_checked: '2026-07-20T03:43:28.300879+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- Introduces **LinearRAG**, a novel Graph Retrieval-Augmented Generation (GraphRAG) framework optimizing large-scale corpus retrieval via linear graph traversal, reducing computational overhead compared to traditional hierarchical GraphRAG methods.
+- **Linear Graph RAG Architecture**: Introduces a linear graph-based retrieval mechanism for RAG, optimizing large-scale corpus indexing and retrieval efficiency by leveraging linear graph structures to reduce computational overhead while maintaining retrieval accuracy.
 
-- Proposes a **linear-time graph traversal algorithm** leveraging adjacency matrix operations for efficient subgraph extraction, enabling scalable retrieval on corpora with millions of nodes/edges while maintaining retrieval quality.
+- **Scalability & Performance**: Demonstrates linear-time complexity for both indexing and retrieval phases, enabling efficient handling of large-scale corpora (e.g., millions of documents) with minimal latency, outperforming traditional graph-based RAG methods.
 
-- Demonstrates **state-of-the-art performance** on ICLR 2026 benchmarks, achieving higher accuracy and lower latency than existing GraphRAG baselines in tasks involving complex multi-hop reasoning over large document collections.
+- **Integration with LLMs**: Proposes a retrieval-augmented generation pipeline where linear graph retrieval dynamically augments LLM prompts, improving contextual relevance and factual accuracy in generated outputs without fine-tuning the LLM.
 
 ## Why It Matters
 

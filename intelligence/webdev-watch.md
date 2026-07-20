@@ -4,25 +4,25 @@ Frontend libraries, Three.js shaders, WebGPU concepts, chatbot interfaces, and i
 
 | Creative Resource | Category | Score |
 | :--- | :--- | :--- |
-| [itsfaqih/fama](https://github.com/itsfaqih/fama) | `frontend-ai-ui/` | 70 |
-| [frontendfyi/rebuilding-linear.app](https://github.com/frontendfyi/rebuilding-linear.app) | `frontend-ai-ui/` | 70 |
 | [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) | `frontend-ai-ui/` | 70 |
-| [SikandarJODD/svelte-animations](https://github.com/sikandarjodd/svelte-animations) | `frontend-ai-ui/` | 70 |
-| [realstoman/react-tailwindcss-portfolio](https://github.com/realstoman/react-tailwindcss-portfolio) | `frontend-ai-ui/` | 70 |
 | [kartikk-k/dashboard-ui](https://github.com/kartikk-k/dashboard-ui) | `frontend-ai-ui/` | 70 |
-| [K-H-Rayhan/nextjs-animated-slider](https://github.com/k-h-rayhan/nextjs-animated-slider) | `frontend-ai-ui/` | 70 |
-| [uixmat/onborda](https://github.com/uixmat/onborda) | `frontend-ai-ui/` | 70 |
-| [ChrisAbdo/MotionVariants](https://github.com/chrisabdo/motionvariants) | `frontend-ai-ui/` | 70 |
-| [Codefreyy/joy-personal-portfolio](https://github.com/codefreyy/joy-personal-portfolio) | `frontend-ai-ui/` | 70 |
-| [adrianhajdin/project_metaverse](https://github.com/adrianhajdin/project_metaverse) | `frontend-ai-ui/` | 70 |
-| [ShowravKormokar/capsule](https://github.com/showravkormokar/capsule) | `frontend-ai-ui/` | 70 |
 | [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next) | `frontend-ai-ui/` | 70 |
 | [Styles and CSS | Docs](https://docs.astro.build/en/guides/styling/#tailwind) | `frontend-ai-ui/` | 70 |
-| [web-platform-tests dashboard](https://wpt.fyi/results/css/css-text/line-breaking/line-breaking-atomic-023.html) | `frontend-ai-ui/` | 70 |
-| [RPKI Dashboard](https://dashboard.rpki.ripe.net) | `frontend-ai-ui/` | 70 |
-| [Scenario Compass Initiative | IIASA](https://scenariocompass.org) | `frontend-ai-ui/` | 70 |
 | [CORDIS | European Commission](https://cordis.europa.eu) | `frontend-ai-ui/` | 70 |
-| [Memberstack Dashboard](https://app.memberstack.com/signup) | `frontend-ai-ui/` | 70 |
-| [EverPass](https://help.upshow.tv/hc/en-us) | `frontend-ai-ui/` | 70 |
+| [Troubleshoot video removals - YouTube Help](https://support.google.com/youtube/answer/6395024) | `frontend-ai-ui/` | 70 |
+| [LMS Software for Learning Businesses | LearnWorlds](https://www.learnworlds.com/?utm_source=lwsites&utm_medium=hean tech&utm_content=lwfooter&utm_campaign=lwsites) | `frontend-ai-ui/` | 70 |
+| [Bruins Safe App | Bruins Safe Online](https://bso.ucla.edu/bruins-safe-app) | `frontend-ai-ui/` | 70 |
+| [GitHub - algolia/firestore-algolia-search at 6af4b6de9301f25718743af54105d37ebd0606f1 · GitHub](https://github.com/algolia/firestore-algolia-search/tree/6af4b6de9301f25718743af54105d37ebd0606f1) | `frontend-ai-ui/` | 70 |
+| [Getting started | CHI@Edge](https://chameleoncloud.gitbook.io/chi-edge/getting-started) | `frontend-ai-ui/` | 70 |
+| [doodlewind/beam](https://github.com/doodlewind/beam) | `webdev-3d-creative/` | 70 |
+| [google/tour-of-wgsl](https://github.com/google/tour-of-wgsl) | `webdev-3d-creative/` | 70 |
+| [rajveermalviya/go-webgpu](https://github.com/rajveermalviya/go-webgpu) | `webdev-3d-creative/` | 70 |
+| [webgpu/webgpufundamentals](https://github.com/webgpu/webgpufundamentals) | `webdev-3d-creative/` | 70 |
+| [Orillusion/orillusion](https://github.com/orillusion/orillusion) | `webdev-3d-creative/` | 70 |
+| [patriciogonzalezvivo/lygia](https://github.com/patriciogonzalezvivo/lygia) | `webdev-3d-creative/` | 70 |
+| [playcanvas/engine](https://github.com/playcanvas/engine) | `webdev-3d-creative/` | 70 |
+| [brendan-duncan/wgsl_reflect](https://github.com/brendan-duncan/wgsl_reflect) | `webdev-3d-creative/` | 70 |
+| [brendan-duncan/webgpu_inspector](https://github.com/brendan-duncan/webgpu_inspector) | `webdev-3d-creative/` | 70 |
+| [redcamel/RedGPU](https://github.com/redcamel/redgpu) | `webdev-3d-creative/` | 70 |
 
 More resources will appear as the harvester collects them.

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.github.com/gfm/
-published_at: '2026-07-07T23:08:46.416755+05:30'
-collected_at: '2026-07-07T23:08:46.416774+05:30'
+published_at: '2026-07-20T01:13:33.967149+05:30'
+collected_at: '2026-07-20T01:13:33.967164+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:github-flavored-markdown-spec
-first_seen: '2026-07-07T23:08:46.416774+05:30'
-last_seen: '2026-07-07T23:08:46.416774+05:30'
-last_checked: '2026-07-07T23:08:46.416774+05:30'
+first_seen: '2026-07-20T01:13:33.967164+05:30'
+last_seen: '2026-07-20T01:13:33.967164+05:30'
+last_checked: '2026-07-20T01:13:33.967164+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **GFM Syntax & Extensions**: GitHub Flavored Markdown (GFM) is a strict superset of CommonMark, adding extensions like tables, task lists, and strikethrough while enforcing stricter parsing rules for security and consistency.
+- **GFM Specification**: GitHub Flavored Markdown (GFM) is a strict superset of CommonMark, defining syntax/semantics for GitHub.com and GitHub Enterprise, with extensions for unsupported CommonMark features.
 
-- **Parsing Ambiguities Resolved**: The spec eliminates ambiguities in Markdown by defining strict rules for indentation, blank lines, list item wrapping, and precedence of inline/block structures (e.g., code spans vs. links).
+- **Parsing Ambiguities**: Resolves Markdown ambiguities (e.g., list indentation, blank lines before block quotes/headings) via formalized rules to ensure consistent cross-implementation behavior.
 
-- **Unicode & Whitespace Handling**: GFM treats all Unicode code points as valid characters, defines whitespace strictly (including Unicode `Zs` category and control characters), and normalizes line endings (`U+000A`, `U+000D`, or `U+000D U+000A`).
+- **Unicode & Line Handling**: Defines characters/lines as Unicode code points, with lines ending in `U+000A`, `U+000D`, or `U+000D U+000A`; whitespace includes `U+0020`, `U+0009`, and Unicode `Zs` category.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T23:08:46.416755+05:30
+- Published: 2026-07-20T01:13:33.967149+05:30
 
 ## Related Tags
 

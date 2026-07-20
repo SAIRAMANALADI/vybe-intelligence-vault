@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://android.googlesource.com
-published_at: '2026-07-18T16:57:24.255610+05:30'
-collected_at: '2026-07-18T16:57:24.255621+05:30'
+published_at: '2026-07-20T01:13:30.826235+05:30'
+collected_at: '2026-07-20T01:13:30.826248+05:30'
 tags:
 - benchmark
 - frontend_ui
@@ -19,12 +19,13 @@ tags:
 - scripts
 - threejs
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: blog:android-git-repositories-git-at-google
-first_seen: '2026-07-18T16:57:24.255621+05:30'
-last_seen: '2026-07-18T16:57:24.255621+05:30'
-last_checked: '2026-07-18T16:57:24.255621+05:30'
+first_seen: '2026-07-20T01:13:30.826248+05:30'
+last_seen: '2026-07-20T01:13:30.826248+05:30'
+last_checked: '2026-07-20T01:13:30.826248+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Android Git Repository Structure**: Hosted on `android.googlesource.com`, the repository contains device-specific configurations (e.g., `device/google/bluejay`, `device/google/coral`) and kernel branches (e.g., `device/google/bluejay-kernels/6.1`), with sepolicy and prebuilt components for security and compatibility.
+- **Centralized Git Repository Hosting**: Android's official Git repositories are hosted at `android.googlesource.com`, providing version-controlled access to hardware-specific device trees, kernels, and platform components for Android and related projects (e.g., Brillo, Fuchsia).
 
-- **Gerrit Code Review Integration**: Accessible via `android-review.googlesource.com`, the platform supports OAuth2-based authentication (`client_id=413937457453.apps.googleusercontent.com`) for secure code submissions and reviews.
+- **Device-Specific Branches & Kernels**: Repository structure includes per-device directories (e.g., `device/google/bluejay/`, `device/google/bluejay-kernel/`) with kernel branches for multiple versions (e.g., `6.1`, `5.10`), alongside SELinux policies (`-sepolicy`), enabling targeted hardware support and security enforcement.
 
-- **Targeted Device & Platform Support**: Includes specialized projects like `device/google/cuttlefish` (Android virtualization), `device/google/gs101` (SoC-specific), and `device/generic/arm64` (cross-platform builds), with bug tracking references (e.g., `Bug: 167236823`).
+- **Emulation & Testing Infrastructure**: Generic device trees (e.g., `device/generic/arm64/`, `device/generic/x86_64/`) and emulator-specific repos (e.g., `device/generic/qemu/`, `device/google/cuttlefish*`) facilitate cross-platform development, debugging, and CI/CD workflows for Android system integration.
 
 ## Why It Matters
 
@@ -46,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-18T16:57:24.255610+05:30
+- Published: 2026-07-20T01:13:30.826235+05:30
 
 ## Related Tags
 
@@ -62,6 +63,7 @@ General public resource representing technology updates, guides, or tutorials.
 - scripts
 - threejs
 - web-crawled
+- workflows
 - youtube
 
 ## Source

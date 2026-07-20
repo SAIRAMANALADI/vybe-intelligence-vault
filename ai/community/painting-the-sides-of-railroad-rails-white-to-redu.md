@@ -13,13 +13,14 @@ collected_at: '2026-07-18T16:48:02.233696+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:painting-the-sides-of-railroad-rails-white-to-redu
 first_seen: '2026-07-18T16:48:02.233696+05:30'
 last_seen: '2026-07-18T16:48:02.233696+05:30'
 last_checked: '2026-07-18T16:48:02.233696+05:30'
 health_score: 100
 ---
+
 
 # Painting the sides of railroad rails white to reduce derailment
 

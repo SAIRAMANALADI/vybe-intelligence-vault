@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://dagshub.com/
-published_at: '2026-07-18T01:11:31.764926+05:30'
-collected_at: '2026-07-18T01:11:31.764938+05:30'
+published_at: '2026-07-20T01:10:30.422400+05:30'
+collected_at: '2026-07-20T01:10:30.422410+05:30'
 tags:
 - dataset
 - rag
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:dagshub-everything-you-need-to-manage-multimodal-a
-first_seen: '2026-07-18T01:11:31.764938+05:30'
-last_seen: '2026-07-18T01:11:31.764938+05:30'
-last_checked: '2026-07-18T01:11:31.764938+05:30'
+first_seen: '2026-07-20T01:10:30.422410+05:30'
+last_seen: '2026-07-20T01:10:30.422410+05:30'
+last_checked: '2026-07-20T01:10:30.422410+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified AI Data & Model Management**: Platform supports curation/annotation of multimodal datasets (vision, audio, LLM), experiment tracking, and model versioning with lineage, integrating with ML frameworks and MLOps tools (e.g., MLflow) via open-source formats and secure cloud storage.
+- **Unified AI Data & Model Management**: Platform supports curation/annotation of multimodal datasets (vision, audio, LLM), experiment tracking (MLflow-compatible), and model versioning/deployment with lineage tracking across public/private repositories.
 
-- **Tiered Pricing & Scalability**: Free tier offers public/private repos with limited storage/experiments; Team ($99/user/month) adds multimodal auto-labeling, RBAC, and 1TB storage; Enterprise provides petabyte-scale data, VPC/air-gapped deployments, SSO/LDAP, and organizational controls.
+- **Scalable Tiered Plans**: Free tier offers 20GB storage & 100 experiment tracking; Team tier ($99/user/month) adds multimodal auto-labeling, 1TB storage, and RBAC; Enterprise supports petabyte-scale storage, VPC/air-gapped deployments, and SSO/LDAP integration.
 
-- **Enterprise-Grade Features**: Supports on-prem/air-gapped installations, OpenShift compatibility, SSO/LDAP/OIDC RBAC, and full organizational resource control with SLA-backed support for high-scale AI workloads.
+- **Enterprise-Grade Features**: On-prem/air-gapped installations, OpenShift compatibility, organizational resource control, and enterprise SLAs with priority support for high-scale AI workloads.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-18T01:11:31.764926+05:30
+- Published: 2026-07-20T01:10:30.422400+05:30
 
 ## Related Tags
 

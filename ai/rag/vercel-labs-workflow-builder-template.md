@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/workflow-builder-template
-collected_at: '2026-07-18T16:50:57.242521+05:30'
-published_at: '2026-07-18T05:44:48Z'
+collected_at: '2026-07-20T03:43:58.341404+05:30'
+published_at: '2026-07-18T11:57:12Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - scripts
 - typescript
 - workflows
-stars: 1166
+stars: 1167
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-11-03T17:14:16Z'
 pushed_at: '2026-01-13T08:27:13Z'
 resource_id: github:vercel-labs/workflow-builder-template
-first_seen: '2026-07-18T16:50:57.242521+05:30'
-last_seen: '2026-07-18T16:50:57.242521+05:30'
-last_checked: '2026-07-18T16:50:57.242521+05:30'
+first_seen: '2026-07-20T03:43:58.341404+05:30'
+last_seen: '2026-07-20T03:43:58.341404+05:30'
+last_checked: '2026-07-20T03:43:58.341404+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Visual AI workflow automation platform enabling drag-and-drop creation of agent-based workflows.
-- **Tech Stack**: Built with TypeScript, leveraging Vercel's ecosystem for deployment and scalability.
-- **Key Features**: Supports modular AI agents, customizable workflows, and real-time execution tracking.
+- **Platform Overview**: Visual AI workflow automation platform enabling drag-and-drop creation of multi-agent systems with TypeScript-based orchestration.
+- **Key Features**: Supports modular agent interactions, dynamic workflow generation, and real-time execution via Vercel’s infrastructure.
+- **Tech Stack**: Built with TypeScript, leveraging Vercel’s serverless architecture for scalable, low-latency AI agent deployments.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel-labs
-- Stars: 1166
-- Forks: 226
+- Stars: 1167
+- Forks: 228
 - Language: TypeScript
 - Topics: agents, ai, workflows
-- Last Updated: 2026-07-18T05:44:48Z
+- Last Updated: 2026-07-18T11:57:12Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-11-03T17:14:16Z

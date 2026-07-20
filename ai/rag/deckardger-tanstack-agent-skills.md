@@ -4,26 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-07-18T01:08:38.080459+05:30'
-published_at: '2026-07-16T09:31:14Z'
+collected_at: '2026-07-20T03:44:28.322691+05:30'
+published_at: '2026-07-19T01:32:42Z'
 tags:
 - agents
-- frontend_ui
 - github-repo
 - rag
 - reddit
 - unknown
 - workflows
-stars: 195
+stars: 196
 language: Unknown
 status: active
 archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-07-18T01:08:38.080459+05:30'
-last_seen: '2026-07-18T01:08:38.080459+05:30'
-last_checked: '2026-07-18T01:08:38.080459+05:30'
+first_seen: '2026-07-20T03:44:28.322691+05:30'
+last_seen: '2026-07-20T03:44:28.322691+05:30'
+last_checked: '2026-07-20T03:44:28.322691+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications, leveraging TanStack Query's reactivity and performance optimizations.
+- **Optimized State Management**: Implements advanced caching and background refetching strategies in TanStack Query to minimize redundant API calls and ensure data consistency in AI-driven applications.
 
-- **Router Best Practices for AI Agents**: Implements structured routing strategies using TanStack Router to handle dynamic, AI-generated navigation paths while maintaining type safety and performance.
+- **Efficient Routing for AI Workflows**: Utilizes TanStack Router to dynamically handle complex navigation patterns and state synchronization, enabling seamless transitions between AI agent tasks and user interactions.
 
-- **Start Framework Integration**: Provides guidelines for initializing and scaling AI agents with TanStack Start, focusing on modular architecture and state management for high-performance agent workflows.
+- **Performance-Driven Startup**: Leverages TanStack Start for optimized initial load times and lazy-loaded dependencies, reducing latency in AI coding agent environments.
 
 ## Why It Matters
 
@@ -44,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: DeckardGer
-- Stars: 195
+- Stars: 196
 - Forks: 18
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-16T09:31:14Z
+- Last Updated: 2026-07-19T01:32:42Z
 - Archived: No
 - Created At: 2026-01-16T07:31:33Z
 - Pushed At: 2026-04-03T05:02:53Z

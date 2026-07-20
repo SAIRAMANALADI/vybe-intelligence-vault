@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://platform.openai.com/docs/guides/embeddings
-published_at: '2026-07-18T16:54:20.307284+05:30'
-collected_at: '2026-07-18T16:54:20.307291+05:30'
+published_at: '2026-07-20T03:46:24.049691+05:30'
+collected_at: '2026-07-20T03:46:24.049710+05:30'
 tags:
 - benchmark
 - dataset
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:vector-embeddings-openai-api
-first_seen: '2026-07-18T16:54:20.307291+05:30'
-last_seen: '2026-07-18T16:54:20.307291+05:30'
-last_checked: '2026-07-18T16:54:20.307291+05:30'
+first_seen: '2026-07-20T03:46:24.049710+05:30'
+last_seen: '2026-07-20T03:46:24.049710+05:30'
+last_checked: '2026-07-20T03:46:24.049710+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Model Specifications**: `text-embedding-3-small` (1536D vectors, 62.5K pages/$) and `text-embedding-3-large` (3072D vectors, 9.6K pages/$, 64.6% MTEB score) support up to 8192 tokens, with dimensionality reduction via `dimensions` parameter (e.g., 256D for `text-embedding-3-large` retains performance vs. 1536D `ada-002`).
+- **New Embedding Models**: `text-embedding-3-small` (1536-dim, ~62.5k pages/USD, 62.3% MTEB) and `text-embedding-3-large` (3072-dim, ~9.6k pages/USD, 64.6% MTEB) offer lower cost, improved multilingual performance, and configurable output dimensions via the `dimensions` parameter.
 
-- **API Integration**: Embeddings are generated via `/v1/embeddings` endpoint, returning L2-normalized float vectors; cosine similarity is default for relatedness measurement; token-based pricing applies to input text.
+- **Embedding Mechanics**: Text embeddings are vector representations (floating-point lists) where cosine distance measures semantic relatedness; default dimensions are 1536/3072 but can be reduced (e.g., to 256) without significant performance loss using the `dimensions` API parameter.
 
-- **Use Cases**: Enables semantic search, clustering, classification, and anomaly detection; supports dynamic dimensionality reduction (e.g., 3072D → 1024D) for vector storage efficiency; demonstrated in code/text search, recommendations, and 2D visualization via t-SNE.
+- **Use Cases & Implementation**: Embeddings enable search, clustering, recommendations, anomaly detection, and classification; API usage is billed per token, and embeddings can be normalized/dimensionally reduced post-generation for efficiency in vector databases.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-18T16:54:20.307284+05:30
+- Published: 2026-07-20T03:46:24.049691+05:30
 
 ## Related Tags
 

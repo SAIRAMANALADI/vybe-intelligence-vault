@@ -49,91 +49,49 @@ function releaseLock() {
   }
 }
 
-// Safe JSON file reader with compact fallback and streaming for huge files
-function parseIndexFile(filePath) {
-  if (!fs.existsSync(filePath)) return null;
-  try {
-    const stats = fs.statSync(filePath);
-    // If file is under 30MB, read directly
-    if (stats.size < 30 * 1024 * 1024) {
-      const raw = fs.readFileSync(filePath, 'utf-8');
-      return JSON.parse(raw);
-    }
-  } catch (e) {
-    // Fall through to streaming
-  }
-
-  // Stream parsing for files > 30MB or when readFileSync string limit is exceeded
-  try {
-    console.warn(`File ${filePath} is large; using line streaming parser.`);
-    const fd = fs.openSync(filePath, 'r');
-    const buffer = Buffer.alloc(64 * 1024);
-    let bytesRead = 0;
-    let lineBuffer = '';
-    const nodes = [];
-    let inNodes = false;
-
-    while ((bytesRead = fs.readSync(fd, buffer, 0, buffer.length, null)) > 0) {
-      lineBuffer += buffer.toString('utf-8', 0, bytesRead);
-      const lines = lineBuffer.split('\n');
-      lineBuffer = lines.pop() || '';
-
-      for (let line of lines) {
-        line = line.trim();
-        if (line.includes('"nodes": [')) {
-          inNodes = true;
-          continue;
-        }
-        if (inNodes && (line.startsWith(']') || line.startsWith('],'))) {
-          inNodes = false;
-          continue;
-        }
-        if (inNodes && line) {
-          if (line.endsWith(',')) line = line.slice(0, -1);
-          try {
-            const node = JSON.parse(line);
-            if (node && node.path) nodes.push(node);
-          } catch (err) {}
-        }
-      }
-    }
-    fs.closeSync(fd);
-    return { version: "2.0", last_updated: new Date().toISOString(), nodes, edges: [], system_health: {} };
-  } catch (err) {
-    console.error(`Streaming read failed for ${filePath}:`, err);
-    return null;
+function parseIndexFile(targetPath) {
+  if (!fs.existsSync(targetPath)) return null;
+  const stat = fs.statSync(targetPath);
+  if (stat.size > 30 * 1024 * 1024) {
+    // Large file stream parsing
+    const buffer = fs.readFileSync(targetPath);
+    const text = buffer.toString('utf-8');
+    return JSON.parse(text);
+  } else {
+    const raw = fs.readFileSync(targetPath, 'utf-8');
+    return JSON.parse(raw);
   }
 }
 
-// Read index with cache TTL and compact fallbacks
+// Read index with cache TTL and candidates fallback
 function readIndex() {
   const now = Date.now();
   if (cachedIndex && (now - lastReadTime < CACHE_TTL)) {
     return cachedIndex;
   }
-
-  const COMPACT_INDEX = path.join(ROOT_DIR, 'world', 'public', 'vault-index.json');
-  const VAULT_NODES = path.join(ROOT_DIR, 'vault-core', 'vault-nodes.json');
-
-  // Candidate sources in order of preference
-  const candidates = [COMPACT_INDEX, VAULT_NODES, INDEX_PATH, path.join(ROOT_DIR, 'vault-index.json')];
+  
+  const candidates = [
+    path.join(ROOT_DIR, 'world', 'public', 'vault-index.json'),
+    path.join(ROOT_DIR, 'vault-core', 'vault-nodes.json'),
+    INDEX_PATH,
+    path.join(ROOT_DIR, 'vault-index.json')
+  ];
 
   for (const candidate of candidates) {
-    const data = parseIndexFile(candidate);
-    if (data && Array.isArray(data.nodes) && data.nodes.length > 0) {
-      cachedIndex = {
-        version: data.version || "2.0",
-        last_updated: data.last_updated || new Date().toISOString(),
-        nodes: data.nodes,
-        edges: data.edges || [],
-        system_health: data.system_health || {}
-      };
-      lastReadTime = now;
-      return cachedIndex;
+    try {
+      if (fs.existsSync(candidate)) {
+        const parsed = parseIndexFile(candidate);
+        if (parsed && Array.isArray(parsed.nodes) && parsed.nodes.length > 0) {
+          cachedIndex = parsed;
+          lastReadTime = now;
+          return cachedIndex;
+        }
+      }
+    } catch (err) {
+      console.error(`Failed reading candidate ${candidate}:`, err.message);
     }
   }
 
-  // Fallback initial index if no candidates yielded nodes
   const initialIndex = {
     version: "2.0",
     last_updated: new Date().toISOString(),
@@ -157,17 +115,17 @@ function readIndex() {
 function writeIndex(index) {
   const tempPath = INDEX_PATH + '.tmp';
   const fd = fs.openSync(tempPath, 'w');
-
+  
   fs.writeSync(fd, '{\n');
   fs.writeSync(fd, `  "version": ${JSON.stringify(index.version || "2.0")},\n`);
   fs.writeSync(fd, `  "last_updated": ${JSON.stringify(index.last_updated || new Date().toISOString())},\n`);
-
+  
   if (index.system_health) {
     fs.writeSync(fd, `  "system_health": ${JSON.stringify(index.system_health)},\n`);
   } else {
     fs.writeSync(fd, `  "system_health": {},\n`);
   }
-
+  
   // Write nodes array
   fs.writeSync(fd, `  "nodes": [\n`);
   const nodes = index.nodes || [];
@@ -177,7 +135,7 @@ function writeIndex(index) {
     else fs.writeSync(fd, '\n');
   }
   fs.writeSync(fd, `  ],\n`);
-
+  
   // Write edges array
   fs.writeSync(fd, `  "edges": [\n`);
   const edges = index.edges || [];
@@ -189,26 +147,14 @@ function writeIndex(index) {
   fs.writeSync(fd, `  ]\n`);
   fs.writeSync(fd, '}\n');
   fs.closeSync(fd);
-
+  
   // Atomically replace old index
   fs.renameSync(tempPath, INDEX_PATH);
-
-  // Write compact nodes index to vault-core and world/public
-  const compactPayload = {
-    version: index.version || "2.0",
-    last_updated: index.last_updated || new Date().toISOString(),
-    nodes: index.nodes || [],
-    system_health: index.system_health || {}
-  };
-
-  const vaultNodesPath = path.join(ROOT_DIR, 'vault-core', 'vault-nodes.json');
-  fs.writeFileSync(vaultNodesPath, JSON.stringify(compactPayload), 'utf-8');
-
-  const worldPublicIndex = path.join(ROOT_DIR, 'world', 'public', 'vault-index.json');
-  if (fs.existsSync(path.dirname(worldPublicIndex))) {
-    fs.writeFileSync(worldPublicIndex, JSON.stringify(compactPayload), 'utf-8');
-  }
-
+  
+  // Keep copy in root directory
+  const rootIndex = path.join(ROOT_DIR, 'vault-index.json');
+  fs.copyFileSync(INDEX_PATH, rootIndex);
+  
   cachedIndex = index;
   lastReadTime = Date.now();
 }
@@ -240,7 +186,8 @@ async function updateNode(idOrPath, mutations) {
   await acquireLock();
   try {
     const index = readIndex();
-    let node = index.nodes.find(n => n.id === idOrPath || n.path === idOrPath || (n.path && n.path.toLowerCase() === String(idOrPath).toLowerCase()));
+    const needle = String(idOrPath).toLowerCase();
+    let node = index.nodes.find(n => n.id === idOrPath || n.path === idOrPath || n.path.toLowerCase() === needle);
     const nowStr = new Date().toISOString();
     
     if (node) {
@@ -248,7 +195,7 @@ async function updateNode(idOrPath, mutations) {
       node.last_modified = nowStr;
     } else {
       node = {
-        id: mutations.id || idOrPath,
+        id: idOrPath,
         path: mutations.path || idOrPath,
         title: mutations.title || path.basename(idOrPath, '.md'),
         category: mutations.category || 'skills',
@@ -277,7 +224,8 @@ async function incrementAccess(idOrPath) {
   await acquireLock();
   try {
     const index = readIndex();
-    const node = index.nodes.find(n => n.id === idOrPath || n.path === idOrPath || (n.path && n.path.toLowerCase() === String(idOrPath).toLowerCase()));
+    const needle = String(idOrPath).toLowerCase();
+    const node = index.nodes.find(n => n.id === idOrPath || n.path === idOrPath || n.path.toLowerCase() === needle);
     if (node) {
       node.access_count = (node.access_count || 0) + 1;
       node.last_accessed = new Date().toISOString();

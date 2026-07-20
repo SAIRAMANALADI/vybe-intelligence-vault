@@ -15,10 +15,6 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: rebuild-vault-index
-  cancel-in-progress: true
-
 jobs:
   rebuild:
     name: Rebuild Graph Index

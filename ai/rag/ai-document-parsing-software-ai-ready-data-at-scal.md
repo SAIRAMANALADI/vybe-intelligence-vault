@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=org_card
-published_at: '2026-07-17T14:07:18.710787+05:30'
-collected_at: '2026-07-17T14:07:18.710798+05:30'
+published_at: '2026-07-19T19:31:30.573350+05:30'
+collected_at: '2026-07-19T19:31:30.573362+05:30'
 tags:
 - benchmark
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:ai-document-parsing-software-ai-ready-data-at-scal
-first_seen: '2026-07-17T14:07:18.710798+05:30'
-last_seen: '2026-07-17T14:07:18.710798+05:30'
-last_checked: '2026-07-17T14:07:18.710798+05:30'
+first_seen: '2026-07-19T19:31:30.573362+05:30'
+last_seen: '2026-07-19T19:31:30.573362+05:30'
+last_checked: '2026-07-19T19:31:30.573362+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Layout-Aware Parsing**: Processes 90+ formats (PDFs, tables, charts, handwriting, checkboxes, images) with layout-aware OCR, preserving complex structures (headers, footers, multi-column layouts) and extracting contextual data from non-textual elements.
+- **Multimodal & Layout-Aware Parsing**: Supports 90+ formats with advanced layout detection (headers, footers, split sections) and multimodal context extraction from charts, tables, images, handwriting, and checkboxes into clean Markdown.
 
-- **Scalable Multilingual Engine**: Supports 100+ languages with enterprise-grade concurrency, enabling processing of millions of pages via cloud or local deployment, optimized for cost/accuracy trade-offs via granular parsing modes.
+- **Scalable & Multilingual Processing**: Handles enterprise-grade workloads (1B+ documents processed) with granular parsing modes for cost/accuracy optimization, OCR-free multilingual support (100+ languages), and local/cloud deployment flexibility.
 
-- **Developer-First Integration**: Provides TypeScript/Python SDKs with live notebooks, live API examples, and workflow automation (Parse → Index → Act → Decide), validated by enterprise users for reliability in production-grade AI pipelines.
+- **Developer-Focused Integration**: Provides TypeScript/Python SDKs, live notebooks, and workflow automation (Parse → Index → Act → Decide) with enterprise features (high concurrency, dedicated support) and benchmarked reliability for complex content.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-17T14:07:18.710787+05:30
+- Published: 2026-07-19T19:31:30.573350+05:30
 
 ## Related Tags
 

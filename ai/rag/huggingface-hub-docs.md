@@ -4,19 +4,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/huggingface/hub-docs/blob/main/docs/hub/spaces.md
-published_at: '2026-07-17T14:08:21.304529+05:30'
-collected_at: '2026-07-17T14:08:21.304541+05:30'
+published_at: '2026-07-20T03:48:20.473409+05:30'
+collected_at: '2026-07-20T03:48:20.473423+05:30'
 tags:
 - creative_dev
 - rag
-- reddit
 - scripts
 - web-crawled
 status: active
 resource_id: github:huggingface/hub-docs
-first_seen: '2026-07-17T14:08:21.304541+05:30'
-last_seen: '2026-07-17T14:08:21.304541+05:30'
-last_checked: '2026-07-17T14:08:21.304541+05:30'
+first_seen: '2026-07-20T03:48:20.473423+05:30'
+last_seen: '2026-07-20T03:48:20.473423+05:30'
+last_checked: '2026-07-20T03:48:20.473423+05:30'
 health_score: 100
 ---
 
@@ -24,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting directly on user/organization profiles with support for Gradio SDK, Dockerfiles, and static JS/HTML apps, including GPU/accelerated hardware upgrades.
+- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting via integrated SDKs (Gradio, Docker, static HTML/JS) or custom Python/Docker configurations, with optional GPU acceleration for high-performance workloads.
 
-- **Integration & Customization**: Supports dependency management, OpenCV integration, GitHub Actions for CI/CD, and embedding Spaces; also allows custom Python/Docker configurations and ArXiv submissions.
+- **Multi-Format Support**: Supports Gradio for rapid Python-based UI development, arbitrary Dockerfiles for full-stack customization, and static Spaces for lightweight HTML/JS deployments.
 
-- **Performance & Scalability**: Offers GPU acceleration, disk/storage management, and dev mode for testing; includes reference docs, changelog, and community support via forum/Twitter.
+- **Advanced Features**: Includes GPU upgrades, dependency management, GitHub Actions integration for CI/CD, and disk/storage monitoring, with embedded documentation for setup, configuration, and embedding.
 
 ## Why It Matters
 
@@ -38,13 +37,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-17T14:08:21.304529+05:30
+- Published: 2026-07-20T03:48:20.473409+05:30
 
 ## Related Tags
 
 - creative_dev
 - rag
-- reddit
 - scripts
 - web-crawled
 

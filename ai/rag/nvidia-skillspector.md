@@ -4,15 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/SkillSpector
-collected_at: '2026-07-18T01:08:58.129444+05:30'
-published_at: '2026-07-17T19:27:47Z'
+collected_at: '2026-07-20T01:08:21.894684+05:30'
+published_at: '2026-07-19T17:58:29Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
 - rag
-stars: 13348
+- workflows
+stars: 13424
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-03-21T00:28:43Z'
 pushed_at: '2026-07-14T23:13:01Z'
 resource_id: github:nvidia/skillspector
-first_seen: '2026-07-18T01:08:58.129444+05:30'
-last_seen: '2026-07-18T01:08:58.129444+05:30'
-last_checked: '2026-07-18T01:08:58.129444+05:30'
+first_seen: '2026-07-20T01:08:21.894684+05:30'
+last_seen: '2026-07-20T01:08:21.894684+05:30'
+last_checked: '2026-07-20T01:08:21.894684+05:30'
 health_score: 100
 ---
 
@@ -31,8 +32,8 @@ health_score: 100
 ## Summary
 
 - **Static Analysis Tool**: SkillSpector performs static analysis on AI agent skills to detect vulnerabilities, malicious patterns, and security risks without executing the code.
-- **Python-Based**: The tool is implemented in Python, leveraging static analysis techniques to evaluate AI agent skills for potential security threats.
-- **NVIDIA Developed**: Developed by NVIDIA, the tool aims to enhance the security of AI agents by identifying and mitigating security risks in their skills.
+- **Python-Based**: Implemented in Python, leveraging AST (Abstract Syntax Tree) parsing and pattern-matching techniques to identify security flaws in AI agent workflows.
+- **Open-Source Security Scanner**: Released under an open-source license, enabling integration into CI/CD pipelines for proactive security assessment of AI agent skills.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NVIDIA
-- Stars: 13348
-- Forks: 1092
+- Stars: 13424
+- Forks: 1104
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-17T19:27:47Z
+- Last Updated: 2026-07-19T17:58:29Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-03-21T00:28:43Z

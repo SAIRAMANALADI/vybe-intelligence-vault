@@ -4,12 +4,12 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Medium/medium-policy
-collected_at: '2026-07-17T14:09:11.543876+05:30'
-published_at: '2026-07-03T15:10:32Z'
+collected_at: '2026-07-20T03:49:11.472423+05:30'
+published_at: '2026-07-18T12:46:40Z'
 tags:
 - github-repo
 - unknown
-stars: 274
+stars: 275
 language: Unknown
 status: active
 license: NOASSERTION
@@ -17,9 +17,9 @@ archived: false
 created_at: '2014-03-18T23:19:18Z'
 pushed_at: '2023-06-27T19:27:08Z'
 resource_id: github:medium/medium-policy
-first_seen: '2026-07-17T14:09:11.543876+05:30'
-last_seen: '2026-07-17T14:09:11.543876+05:30'
-last_checked: '2026-07-17T14:09:11.543876+05:30'
+first_seen: '2026-07-20T03:49:11.472423+05:30'
+last_seen: '2026-07-20T03:49:11.472423+05:30'
+last_checked: '2026-07-20T03:49:11.472423+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Contains Medium’s official policies and guidelines, though language/framework is unspecified.
-- **Metadata**: 274 stars, 59 forks, last updated on **2026-07-03T15:10:32Z**.
-- **Access**: Public repository at `https://github.com/Medium/medium-policy`.
+- **Repository Overview**: Medium's official policy repository, containing guidelines and legal frameworks for platform operations, content moderation, and user conduct.
+- **Metadata**: 275 stars, 59 forks, last updated on 2026-07-18T12:46:40Z.
+- **Access**: Publicly available at `https://github.com/Medium/medium-policy` with no specified primary language.
 
 ## Why It Matters
 
@@ -38,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Medium
-- Stars: 274
+- Stars: 275
 - Forks: 59
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-03T15:10:32Z
+- Last Updated: 2026-07-18T12:46:40Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2014-03-18T23:19:18Z

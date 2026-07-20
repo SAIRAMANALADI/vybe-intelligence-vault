@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-19T13:00:21.733341+05:30`
+Generated at: `2026-07-20T08:15:24.736216+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **The state of open source AI** - Score: `454` in category `ai/community` ([Link](https://stateofopensource.ai)) ([File](../ai/community/mozilla-the-state-of-open-source-ai.md))
 - **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **About GitHub · GitHub** - Score: `0` (0), Rank Change: `+2` ([File](../ai/resources/about-github-github.md))
-- **git/git** - Score: `0` (0), Rank Change: `+3` ([File](../ai/resources/git-git.md))
-- **git-scm / Git · GitLab** - Score: `0` (0), Rank Change: `+3` ([File](../ai/resources/git-scm-git-gitlab.md))
-- **Researching with GitHub Copilot CLI - GitHub Docs** - Score: `0` (0), Rank Change: `+3` ([File](../ai/agents/researching-with-github-copilot-cli-github-docs.md))
-- **microsoft/vscode** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/microsoft-vscode.md))
-- **GitHub Copilot CLI command reference - GitHub Docs** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/github-copilot-cli-command-reference-github-docs.md))
-- **Google Sustainability** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/google-sustainability.md))
-- **electron/electron** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/electron-electron.md))
-- **Google Accessibility Help** - Score: `0` (0), Rank Change: `+3` ([File](../ai/resources/google-accessibility-help.md))
-- **(Deprecated) Android Room with a View - Kotlin | Android Developers** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/deprecated-android-room-with-a-view-kotlin-android.md))
+- **run-llama/llama_index** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/run-llama-llama-index.md))
+- **run-llama/llama_deploy** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/run-llama-llama-deploy.md))
+- **run-llama/LlamaIndexTS** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/run-llama-llamaindexts.md))
+- **🧑‍🍳 Cookbook | Haystack** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/cookbook-haystack.md))
+- **Tutorials | Haystack** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/tutorials-haystack.md))
+- **[2504.20734] UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/2504-20734-universalrag-retrieval-augmented-genera.md))
+- **LangChain - YouTube** - Score: `0` (0), Rank Change: `+3` ([File](../ai/resources/langchain-youtube.md))
+- **TXYZ - Integrate all paths to knowledge** - Score: `0` (0), Rank Change: `+6` ([File](../ai/rag/txyz-integrate-all-paths-to-knowledge.md))
+- **CORE Recommender** - Score: `0` (0), Rank Change: `+6` ([File](../ai/rag/core-recommender.md))
+- **embeddings-benchmark/mteb** - Score: `0` (0), Rank Change: `+6` ([File](../ai/rag/embeddings-benchmark-mteb.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Automating Geometry-Intensive Compliance Checking in BIM: Graph-Based Semantic Reasoning Framework** - (Rank Change: `+1873`) ([File](../ai/agents/arxiv-2606-12065.md))
-- **MODF-SIR: A Multi-agent Omni-modal Distilled Framework for Social Intelligence Reasoning** - (Rank Change: `+1873`) ([File](../ai/agents/arxiv-2606-12018.md))
-- **The Art of Interrogation: Consistency Amplifies Factuality in Spatial Reasoning** - (Rank Change: `+1873`) ([File](../ai/research/arxiv-2606-11918.md))
-- **Embodied-BenchClaw: An Autonomous Multi-Agent System for Embodied Spatial Intelligence Benchmark Construction** - (Rank Change: `+1873`) ([File](../ai/agents/arxiv-2606-11909.md))
-- **AutoMine Solution for AV2 2026 Scenario Mining Challenge** - (Rank Change: `+1873`) ([File](../ai/agents/arxiv-2606-11874.md))
-- **StatefulDiscovery: Evidence-Calibrated Claim Formation in Open-Ended Scientific Discovery** - (Rank Change: `+1873`) ([File](../ai/agents/arxiv-2606-11851.md))
-- **Skill-Augmented AI Agents for Medical Research Analysis: An Exploratory Multi-Model Human Evaluation in an NSCLC Transcriptomic Biomarker Task** - (Rank Change: `+1873`) ([File](../ai/agents/arxiv-2606-11830.md))
-- **SVoT: State-aware Visualization-of-Thought for Spatial Reasoning via Reinforcement Learning** - (Rank Change: `+1873`) ([File](../ai/research/arxiv-2606-11770.md))
-- **Mind the Perspective: Let's Reason Recursively for Theory of Mind** - (Rank Change: `+1873`) ([File](../ai/agents/arxiv-2606-11724.md))
-- **Lung-R1: A Knowledge Graph-Guided LLM for Pulmonary Diagnostic Reasoning** - (Rank Change: `+1873`) ([File](../ai/research/arxiv-2606-11675.md))
+- **monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1** - (Rank Change: `+992`) ([File](../ai/rag/monday-service-langsmith-building-a-code-first-eva.md))
+- **SentenceTransformers Documentation — Sentence Transformers documentation** - (Rank Change: `+992`) ([File](../ai/rag/sentencetransformers-documentation-sentence-transf.md))
+- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+992`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
+- **Evaluate a simple LLM application - Ragas** - (Rank Change: `+992`) ([File](../ai/rag/evaluate-a-simple-llm-application-ragas.md))
+- **promptfoo/promptfoo-action** - (Rank Change: `+992`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
+- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+992`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
+- **RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug** - (Rank Change: `+992`) ([File](../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
+- **Understanding RAG from Scratch | martinuke0's Blog** - (Rank Change: `+992`) ([File](../ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md))
+- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+992`) ([File](../ai/rag/arxiv-2606-29031.md))
+- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+992`) ([File](../ai/research/arxiv-2606-26428.md))
 
 ## 🔄 Essential Tier Transitions
 

@@ -13,13 +13,14 @@ collected_at: '2026-07-18T16:48:02.618805+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:mozilla-the-state-of-open-source-ai
 first_seen: '2026-07-18T01:04:59.670398+05:30'
 last_seen: '2026-07-18T16:48:02.618805+05:30'
 last_checked: '2026-07-18T16:48:02.618805+05:30'
 health_score: 100
 ---
+
 
 # The state of open source AI
 

@@ -4,20 +4,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://pandoc.org/
-published_at: '2026-07-08T09:26:35.438540+05:30'
-collected_at: '2026-07-08T09:26:35.438547+05:30'
+published_at: '2026-07-19T21:50:53.303996+05:30'
+collected_at: '2026-07-19T21:50:53.304007+05:30'
 tags:
 - hackernews
 - paper
 - rag
-- reddit
-- scripts
 - web-crawled
 status: active
 resource_id: blog:pandoc-index
-first_seen: '2026-07-08T09:26:35.438547+05:30'
-last_seen: '2026-07-08T09:26:35.438547+05:30'
-last_checked: '2026-07-08T09:26:35.438547+05:30'
+first_seen: '2026-07-19T21:50:53.304007+05:30'
+last_seen: '2026-07-19T21:50:53.304007+05:30'
+last_checked: '2026-07-19T21:50:53.304007+05:30'
 health_score: 100
 ---
 
@@ -25,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Universal document converter**: Pandoc supports bidirectional conversion between **40+ markup, documentation, ebook, word processor, and presentation formats**, including Markdown, LaTeX, EPUB, docx, PowerPoint, and Jupyter notebooks, with extensible custom reader/writer support via Lua.
+- **Universal document converter** supporting bidirectional conversion between 30+ markup, documentation, ebook, word processor, and presentation formats (e.g., Markdown ↔︎ LaTeX, EPUB ↔︎ FictionBook2, docx ↔︎ ODT, PowerPoint ↔︎ reveal.js).
 
-- **Advanced markup & citation processing**: Enables **LaTeX math, metadata, tables, footnotes, and syntax-highlighted code blocks** in Markdown, with automatic bibliography generation using CSL styles from BibTeX/BibLaTeX/CSL JSON/YAML sources.
+- **Advanced markup processing** with native support for LaTeX math, citations (BibTeX/BibLaTeX/CSL), metadata, tables, syntax-highlighted code blocks, and custom Lua-based readers/writers for extended formats.
 
-- **Multi-format rendering & automation**: Generates **PDF via LaTeX engines or HTML tools**, supports **wiki markup, roff, XML (DocBook/JATS), and terminal ANSI output**, and provides **Haskell library/API + CLI** for programmatic integration and filter-based customization.
+- **Multi-format output pipeline** enabling PDF generation via LaTeX engines (pdflatex/xelatex) or direct HTML-to-PDF tools (wkhtmltopdf/WeasyPrint), alongside HTML5, EPUB, and XML-based formats with embedded citations and structured bibliographies.
 
 ## Why It Matters
 
@@ -39,15 +37,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T09:26:35.438540+05:30
+- Published: 2026-07-19T21:50:53.303996+05:30
 
 ## Related Tags
 
 - hackernews
 - paper
 - rag
-- reddit
-- scripts
 - web-crawled
 
 ## Source

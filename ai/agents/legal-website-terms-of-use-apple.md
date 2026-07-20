@@ -4,17 +4,18 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://www.apple.com/legal/internet-services/terms/site.html
-published_at: '2026-07-18T01:17:21.747690+05:30'
-collected_at: '2026-07-18T01:17:21.747703+05:30'
+published_at: '2026-07-20T01:15:34.184718+05:30'
+collected_at: '2026-07-20T01:15:34.184726+05:30'
 tags:
 - agents
 - hackernews
+- scripts
 - web-crawled
 status: active
 resource_id: blog:legal-website-terms-of-use-apple
-first_seen: '2026-07-18T01:17:21.747703+05:30'
-last_seen: '2026-07-18T01:17:21.747703+05:30'
-last_checked: '2026-07-18T01:17:21.747703+05:30'
+first_seen: '2026-07-20T01:15:34.184726+05:30'
+last_seen: '2026-07-20T01:15:34.184726+05:30'
+last_checked: '2026-07-20T01:15:34.184726+05:30'
 health_score: 100
 ---
 
@@ -22,9 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Ownership & Usage Rights**: Apple retains exclusive ownership of all Site content (text, graphics, code, UI/UX, trademarks, etc.), protected under IP laws; unauthorized reproduction, distribution, or deep-linking is prohibited without explicit written consent.
-- **Liability & Disclaimers**: Apple disclaims all warranties (express/implied), liability capped at $100 or prior 6-month subscription fees (whichever is higher), and reserves rights to suspend/modify the Site or terminate access for violations or maintenance.
-- **Account Security & Indemnity**: Users are solely responsible for account security (Apple ID/password); unauthorized access may result in liability for damages. Users must indemnify Apple for third-party claims arising from their use or violations of these Terms.
+- **Ownership & Usage Rights**: All content on Apple’s site (text, graphics, code, trademarks, etc.) is proprietary, protected by IP laws, and may not be reproduced, distributed, or used commercially without explicit written consent; personal, non-commercial use is permitted only under strict conditions (e.g., no modifications, no redistribution).
+
+- **Prohibited Activities**: Users are barred from automated scraping, deep-linking, reverse-engineering, unauthorized access attempts, or any activity that circumvents Apple’s site structure; violations may result in account termination or legal action.
+
+- **Liability & Indemnification**: Apple disclaims all warranties (express/implied), limits liability to the greater of paid fees or $100 (excluding hardware/software purchases), and requires users to indemnify Apple for third-party claims arising from their use of the site or its content.
 
 ## Why It Matters
 
@@ -34,12 +37,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-18T01:17:21.747690+05:30
+- Published: 2026-07-20T01:15:34.184718+05:30
 
 ## Related Tags
 
 - agents
 - hackernews
+- scripts
 - web-crawled
 
 ## Source

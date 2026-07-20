@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.google.com/youtube/terms/developer-policies
-published_at: '2026-07-17T14:11:20.703612+05:30'
-collected_at: '2026-07-17T14:11:20.703625+05:30'
+published_at: '2026-07-19T14:13:28.024266+05:30'
+collected_at: '2026-07-19T14:13:28.024280+05:30'
 tags:
 - agents
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:youtube-api-services-developer-policies-google-for
-first_seen: '2026-07-17T14:11:20.703625+05:30'
-last_seen: '2026-07-17T14:11:20.703625+05:30'
-last_checked: '2026-07-17T14:11:20.703625+05:30'
+first_seen: '2026-07-19T14:13:28.024280+05:30'
+last_seen: '2026-07-19T14:13:28.024280+05:30'
+last_checked: '2026-07-19T14:13:28.024280+05:30'
 health_score: 100
 ---
 
@@ -26,15 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Compliance & Enforcement**: YouTube API Services Policies enforce strict adherence to [Terms of Service](https://developers.google.com/youtube/terms/api-services-terms-of-service) and [Developer Policies](https://developers.google.com/youtube/terms/developer-policies), with YouTube reserving the right to modify policies and require immediate updates to API clients for critical changes.
+- **Policy Enforcement & Compliance**: YouTube API Services Policies define mandatory requirements for API clients, including absolute prohibitions (e.g., no unauthorized data storage, no misleading users) and best practices (e.g., transparency, user control). Violations may result in enforcement actions under the YouTube API Services Terms of Service.
 
-- **API Client Requirements**: All API clients must:
-  - Display YouTube’s Terms of Service and require users to agree to a privacy policy detailing data access, storage, sharing, and deletion practices.
-  - Use the latest API versions, support remote updates for non-web clients, and clearly indicate deprecated functionality to users.
+- **Software Development Principles**: API clients must adhere to five core principles: (1) build high-quality, feature-rich applications and maintain them; (2) ensure honesty and transparency in data handling and user interactions; (3) provide users with control over their data; (4) respect user privacy and avoid storing credentials; (5) comply with legal and ethical standards to prevent abuse.
 
-- **Software Development Principles**: API clients must:
-  - Be high-quality, stable, and feature-rich while respecting user privacy and control.
-  - Avoid deceptive practices, unauthorized data collection, or actions violating YouTube’s community guidelines (e.g., harassment, malware).
+- **Technical & Legal Requirements**: API clients must (A) display YouTube’s Terms of Service and maintain a privacy policy detailing data access, storage, and sharing practices; (B) use the latest API versions and update deprecated clients promptly; (C) comply with YouTube’s Required Minimum Functionality (RMF) for features like video uploads, including adhering to field limits (e.g., 100-character title cap).
 
 ## Why It Matters
 
@@ -44,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-17T14:11:20.703612+05:30
+- Published: 2026-07-19T14:13:28.024266+05:30
 
 ## Related Tags
 

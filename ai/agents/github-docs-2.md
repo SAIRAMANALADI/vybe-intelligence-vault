@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/github/docs/blob/main/content/index.md
-published_at: '2026-07-17T14:10:21.485870+05:30'
-collected_at: '2026-07-17T14:10:21.485880+05:30'
+published_at: '2026-07-19T14:14:14.631093+05:30'
+collected_at: '2026-07-19T14:14:14.631108+05:30'
 tags:
 - agents
 - hackernews
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: github:github/docs
-first_seen: '2026-07-17T14:10:21.485880+05:30'
-last_seen: '2026-07-17T14:10:21.485880+05:30'
-last_checked: '2026-07-17T14:10:21.485880+05:30'
+first_seen: '2026-07-19T14:14:14.631108+05:30'
+last_seen: '2026-07-19T14:14:14.631108+05:30'
+last_checked: '2026-07-19T14:14:14.631108+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- GitHub Help Documentation provides structured technical guides across **FPT, GHES, and GHEC** versions, covering core workflows (Git setup, SSH auth, repo management, PRs) and advanced features (GitHub Copilot CLI, Actions CI/CD, CodeQL security analysis).
+- **GitHub Documentation Structure**: Organized into 12 primary categories (e.g., *Get started*, *Collaborative coding*, *CI/CD and DevOps*) with nested subcategories for granular technical guidance (e.g., *copilot/how-tos*, *code-security/how-tos*).
 
-- Key documentation categories include **collaborative coding** (Codespaces, Discussions), **security & compliance** (supply chain security, secrets management), and **developer tools** (REST API, GraphQL, Webhooks, GitHub CLI).
+- **Version Support Matrix**: Documentation spans three deployment models: *GitHub Free (fpt)*, *GitHub Enterprise Server (ghes)*, and *GitHub Enterprise Cloud (ghec)*, with version-specific directives marked via `{% ifversion %}` logic.
 
-- Enterprise-focused resources detail **policy enforcement** (GitHub Policies syntax/constraints), **scaling workflows** (secure-at-scale guides), and **ecosystem integrations** (Electron, npm, CodeQL, Well-Architected frameworks).
+- **External Tooling Integration**: Includes dedicated documentation for external products (*Electron*, *CodeQL*, *npm*, *GitHub Well-Architected*) with external links flagged via `external: true` metadata.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-17T14:10:21.485870+05:30
+- Published: 2026-07-19T14:14:14.631093+05:30
 
 ## Related Tags
 

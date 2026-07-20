@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-07-18T16:50:07.153883+05:30'
+collected_at: '2026-07-20T03:43:08.278860+05:30'
 published_at: '2026-07-16T07:25:11Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
-- models
 - python
 - rag
 - reddit
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-07-18T16:50:07.153883+05:30'
-last_seen: '2026-07-18T16:50:07.153883+05:30'
-last_checked: '2026-07-18T16:50:07.153883+05:30'
+first_seen: '2026-07-20T03:43:08.278860+05:30'
+last_seen: '2026-07-20T03:43:08.278860+05:30'
+last_checked: '2026-07-20T03:43:08.278860+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Attack Methodology**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by poisoning the retrieval corpus, causing LLMs to generate adversarial or incorrect outputs while maintaining high relevance scores.
-
-- **Technical Implementation**: Leverages gradient-based optimization to craft poisoned documents that, when retrieved, manipulate the LLM's output toward attacker-specified targets without requiring direct access to model parameters or fine-tuning.
-
-- **Evaluation & Impact**: Demonstrates effectiveness across multiple RAG pipelines (e.g., dense retrieval, sparse retrieval) and LLMs, highlighting vulnerabilities in trustworthy AI systems and proposing mitigation strategies for robust RAG deployment.
+- **Novel Attack Framework**: Introduces *PoisonedRAG*, a first-of-its-kind attack targeting Retrieval-Augmented Generation (RAG) systems by corrupting the external knowledge base to manipulate LLM outputs, demonstrated on USENIX Security 2025.
+- **Technical Mechanism**: Exploits vulnerabilities in RAG pipelines by injecting adversarial documents into the retrieval corpus, causing LLMs to generate targeted misinformation or biased responses while maintaining stealth.
+- **Evaluation & Impact**: Validates attack efficacy across multiple RAG architectures, highlighting risks to trustworthy AI systems and proposing mitigation strategies for secure deployment.
 
 ## Why It Matters
 

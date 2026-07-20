@@ -4,14 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/slavakurilyak/awesome-ai-agents
-collected_at: '2026-07-18T16:51:27.207214+05:30'
-published_at: '2026-07-16T20:21:07Z'
+collected_at: '2026-07-20T03:44:33.325427+05:30'
+published_at: '2026-07-19T20:38:41Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - paper
 - python
-stars: 1833
+- workflows
+stars: 1836
 language: Python
 status: active
 license: MIT
@@ -19,9 +21,9 @@ archived: false
 created_at: '2024-01-15T12:48:42Z'
 pushed_at: '2025-09-09T22:33:26Z'
 resource_id: github:slavakurilyak/awesome-ai-agents
-first_seen: '2026-07-18T16:51:27.207214+05:30'
-last_seen: '2026-07-18T16:51:27.207214+05:30'
-last_checked: '2026-07-18T16:51:27.207214+05:30'
+first_seen: '2026-07-20T03:44:33.325427+05:30'
+last_seen: '2026-07-20T03:44:33.325427+05:30'
+last_checked: '2026-07-20T03:44:33.325427+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Repository**: GitHub repository `slavakurilyak/awesome-ai-agents` containing 300+ curated resources on agentic AI, last updated on **2026-07-16**.
-- **Metrics**: 1,833 stars, 466 forks, primarily implemented in **Python**.
-- **Focus**: Specialized in **agentic AI**, covering frameworks, tools, research papers, and applications for autonomous AI agents.
+- **Curated Collection**: A GitHub repository (`slavakurilyak/awesome-ai-agents`) hosting a structured, community-driven list of **300+ resources** focused on **agentic AI**, including frameworks, tools, research papers, and applications.
+- **Metrics**: Repository statistics indicate **1,836 stars** and **466 forks**, reflecting significant community engagement and adoption.
+- **Technical Stack**: Primarily **Python-based**, with resources spanning agent architectures, multi-agent systems, reinforcement learning, and autonomous workflows. Last updated **July 19, 2026**.
 
 ## Why It Matters
 
@@ -40,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: slavakurilyak
-- Stars: 1833
+- Stars: 1836
 - Forks: 466
 - Language: Python
 - Topics: agent, agentic, agents
-- Last Updated: 2026-07-16T20:21:07Z
+- Last Updated: 2026-07-19T20:38:41Z
 - License: MIT
 - Archived: No
 - Created At: 2024-01-15T12:48:42Z

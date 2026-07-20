@@ -7,9 +7,7 @@ const stateManager = require('../state-manager');
 const contextInjector = require('./context-injector');
 const decisionEngine = require('./decision-engine');
 
-const PORT = parseInt(process.env.ORCHESTRATOR_PORT, 10) || 3456;
-const MCP_PORT = parseInt(process.env.MCP_SERVER_PORT, 10) || 8000;
-const WEB_PORT = parseInt(process.env.WEB_PORT, 10) || 5173;
+const PORT = 3456;
 const ROOT_DIR = path.resolve(__dirname, '../..');
 const EVENTS_PATH = path.join(ROOT_DIR, 'vault-core', 'vault-events.log');
 
@@ -100,8 +98,8 @@ const server = http.createServer(async (req, res) => {
 
   // 1. GET /health
   if (pathname === '/health' && req.method === 'GET') {
-    const mcpServerUp = await checkPortReachable(MCP_PORT);
-    const webUp = await checkPortReachable(WEB_PORT);
+    const mcpServerUp = await checkPortReachable(3000);
+    const webUp = await checkPortReachable(5173);
     const index = stateManager.readIndex();
     
     sendJSON(200, {
@@ -135,22 +133,8 @@ const server = http.createServer(async (req, res) => {
   // 3. POST /orchestrate
   if (pathname === '/orchestrate' && req.method === 'POST') {
     let body = '';
-    let bodyTooLarge = false;
-    const MAX_BODY_BYTES = 1024 * 1024; // 1MB limit
-
-    req.on('data', chunk => {
-      body += chunk;
-      if (body.length > MAX_BODY_BYTES) {
-        bodyTooLarge = true;
-        req.destroy();
-      }
-    });
-
+    req.on('data', chunk => { body += chunk; });
     req.on('end', async () => {
-      if (bodyTooLarge) {
-        sendJSON(413, { error: 'Payload too large. Maximum request body is 1MB.' });
-        return;
-      }
       try {
         const data = JSON.parse(body);
         const action = data.action;

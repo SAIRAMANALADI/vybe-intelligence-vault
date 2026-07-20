@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-07-18T16:49:02.133678+05:30'
+collected_at: '2026-07-20T03:42:03.141388+05:30'
 published_at: '2026-07-13T09:54:01Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-07-18T16:49:02.133678+05:30'
-last_seen: '2026-07-18T16:49:02.133678+05:30'
-last_checked: '2026-07-18T16:49:02.133678+05:30'
+first_seen: '2026-07-20T03:42:03.141388+05:30'
+last_seen: '2026-07-20T03:42:03.141388+05:30'
+last_checked: '2026-07-20T03:42:03.141388+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook examples for integrating vector search with LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain) to build Retrieval-Augmented Generation (RAG) pipelines and multimodal AI systems.
-
-- **Vector Database Recipes**: Demonstrates practical use cases of LanceDB (a vector database) for efficient similarity search, embeddings management, and fine-tuning workflows in deep learning applications.
-
-- **Agent & Tool Integration**: Includes tutorials on deploying AI agents with vector search capabilities, leveraging OpenAI APIs, and optimizing multimodal workflows for production-grade systems.
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based recipes for integrating vector search with LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain) to enable multimodal retrieval-augmented generation (RAG) workflows.
+- **Vector Database Integration**: Demonstrates practical use of LanceDB as a vector database for efficient similarity search in AI pipelines, including embeddings generation and fine-tuning examples.
+- **Agentic & Tooling Workflows**: Includes tutorials for building AI agents with vector search capabilities, covering multimodal inputs, tool integration, and end-to-end deployment strategies.
 
 ## Why It Matters
 

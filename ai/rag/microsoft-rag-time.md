@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-07-18T16:48:52.135656+05:30'
+collected_at: '2026-07-20T03:41:53.145606+05:30'
 published_at: '2026-07-18T00:39:16Z'
 tags:
 - github-repo
@@ -13,6 +13,7 @@ tags:
 - models
 - openai
 - rag
+- reddit
 stars: 894
 language: Jupyter Notebook
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-07-18T16:48:52.135656+05:30'
-last_seen: '2026-07-18T16:48:52.135656+05:30'
-last_checked: '2026-07-18T16:48:52.135656+05:30'
+first_seen: '2026-07-20T03:41:53.145606+05:30'
+last_seen: '2026-07-20T03:41:53.145606+05:30'
+last_checked: '2026-07-20T03:41:53.145606+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Learning Path**: A structured 5-week curriculum covering RAG fundamentals, hybrid search (vector + keyword), quantization (binary/scalar), and multimodal retrieval techniques.
-- **Technologies**: Integrates Azure, OpenAI/GPT models, HNSW for vector search, and Matryoshka representation learning for efficient indexing.
-- **Tools & Practices**: Uses Jupyter Notebooks in VS Code, emphasizes responsible AI, and includes binary/scalar quantization for optimized retrieval performance.
+- **Comprehensive RAG Mastery**: 5-week structured learning path covering retrieval-augmented generation (RAG) fundamentals, hybrid search (HNSW + keyword), and advanced techniques like binary/scalar quantization and Matryoshka representation learning.
+
+- **Azure & OpenAI Integration**: Hands-on labs using Azure AI services, OpenAI models, and VS Code for deploying multimodal RAG pipelines with responsible AI guardrails.
+
+- **Optimized Indexing & Search**: Implements vector search (HNSW), scalar/binary quantization for efficiency, and hybrid retrieval combining keyword + semantic search for production-grade RAG systems.
 
 ## Why It Matters
 

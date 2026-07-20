@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-07-18T16:48:52.574354+05:30'
-collected_at: '2026-07-18T16:48:52.574361+05:30'
+published_at: '2026-07-20T03:41:53.505031+05:30'
+collected_at: '2026-07-20T03:41:53.505048+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-07-18T16:48:52.574361+05:30'
-last_seen: '2026-07-18T16:48:52.574361+05:30'
-last_checked: '2026-07-18T16:48:52.574361+05:30'
+first_seen: '2026-07-20T03:41:53.505048+05:30'
+last_seen: '2026-07-20T03:41:53.505048+05:30'
+last_checked: '2026-07-20T03:41:53.505048+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Pipeline**: Combines a retriever (vector/lexical), vector store/index, and LLM generator, optionally enhanced with rerankers, query rewriting, caching, and orchestration for improved precision and efficiency.
+- **RAG Architecture**: Combines a retriever (vector/lexical) with an LLM generator, enabling dynamic knowledge access without retraining; core components include embeddings, vector stores, rerankers, and orchestration layers for efficient retrieval and generation.
 
-- **Chunking & Embeddings**: Optimal chunking strategies (fixed-size, semantic, structure-aware) and embedding models (off-the-shelf vs. fine-tuned) directly impact retrieval quality; hybrid search (BM25 + vector) and ANN indexes (HNSW, IVF+PQ) enable scalable, high-precision retrieval.
+- **Advanced Retrieval Techniques**: Hybrid search (BM25 + vector), multi-stage reranking (cross-encoders on top-K candidates), and query rewriting (expansion, paraphrasing, multi-query fusion) improve precision and recall while reducing hallucinations.
 
-- **Advanced Techniques**: Multi-hop retrieval, iterative reasoning, and context distillation reduce hallucinations and improve factual grounding; cross-encoders and query rewriting enhance retrieval accuracy, while operational concerns like latency, cost, and evaluation metrics ensure production readiness.
+- **Context Optimization & Scalability**: Techniques like semantic chunking, context distillation, iterative multi-hop retrieval, and ANN-based vector search balance coherence and latency; operational concerns include cost control, monitoring, and retrieval-aware fine-tuning for domain adaptation.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-18T16:48:52.574354+05:30
+- Published: 2026-07-20T03:41:53.505031+05:30
 
 ## Related Tags
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-18T16:50:32.163779+05:30'
+collected_at: '2026-07-20T03:43:33.282524+05:30'
 published_at: '2026-07-02T21:11:00Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-18T16:50:32.163779+05:30'
-last_seen: '2026-07-18T16:50:32.163779+05:30'
-last_checked: '2026-07-18T16:50:32.163779+05:30'
+first_seen: '2026-07-20T03:43:33.282524+05:30'
+last_seen: '2026-07-20T03:43:33.282524+05:30'
+last_checked: '2026-07-20T03:43:33.282524+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence levels) using unified indexing and retrieval mechanisms.
+- **UniversalRAG Framework**: Introduces a retrieval-augmented generation (RAG) system designed to handle diverse modalities (text, images, tables) and granularities (document, paragraph, sentence) in a unified architecture, leveraging modality-agnostic embeddings and fusion mechanisms.
 
-- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval system leveraging modality-specific encoders (e.g., CLIP for images, BERT for text) and a shared embedding space to enable joint retrieval of heterogeneous data types.
+- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval mechanism using a shared embedding space, enabling efficient retrieval of relevant information across heterogeneous data types without modality-specific encoders.
 
-- **Adaptive Generation Pipeline**: Proposes a dynamic generation module that selects and fuses retrieved content based on modality and relevance, optimizing output coherence while handling modality-specific challenges (e.g., OCR errors, layout parsing).
+- **Adaptive Granularity Handling**: Dynamically adjusts retrieval granularity based on query complexity and corpus structure, optimizing performance via hierarchical indexing and multi-granularity fusion strategies.
 
 ## Why It Matters
 

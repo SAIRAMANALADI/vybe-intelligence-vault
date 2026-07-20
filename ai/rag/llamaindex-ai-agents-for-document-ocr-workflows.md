@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/
-published_at: '2026-07-18T16:53:07.756697+05:30'
-collected_at: '2026-07-18T16:53:07.756704+05:30'
+published_at: '2026-07-20T03:46:09.055148+05:30'
+collected_at: '2026-07-20T03:46:09.055167+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
-first_seen: '2026-07-18T16:53:07.756704+05:30'
-last_seen: '2026-07-18T16:53:07.756704+05:30'
-last_checked: '2026-07-18T16:53:07.756704+05:30'
+first_seen: '2026-07-20T03:46:09.055167+05:30'
+last_seen: '2026-07-20T03:46:09.055167+05:30'
+last_checked: '2026-07-20T03:46:09.055167+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OCR Pipeline**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, featuring task-specific experts (e.g., text, charts, tables), recursive auto-correction loops for error detection/fixing, and semantic understanding to convert complex layouts into LLM-ready structured outputs.
+- **Agentic OCR & Structured Extraction**: LlamaParse uses Vision-Language Models (VLM) for layout-aware document parsing, enabling structured extraction of schemas (e.g., tables, charts, handwritten text) with auto-correction loops for high accuracy in complex documents.
 
-- **Performance & Scalability**: Supports 50+ unstructured file types (PDFs, Office docs, images), with structured schema-based extraction, enterprise-grade chunking/embedding, and benchmarked superiority over proprietary VLM, commercial IDP, and open-source OCR solutions in parsing accuracy for tables, charts, and overall document complexity.
+- **Enterprise-Grade Performance**: Benchmarks show superior parsing, extraction, and retrieval across 50+ unstructured file types, with 99.9% uptime, SOC2/GDPR/HIPAA compliance, and scalable cloud/VPC deployment options for mission-critical workloads.
 
-- **Enterprise Deployment**: Offers 10K free credits/month (~1K pages), HIPAA/GDPR/SOC2-compliant security, 99.9% uptime SLAs, flexible cloud/VPC deployment, and open-source alternative (LiteParse) for local, token-free processing with bounding box outputs.
+- **Open-Source LiteParse**: Lightweight, local-first alternative (GitHub) for fast parsing of PDFs, Office docs, and images without cloud/LLM token dependencies, supporting bounding box outputs and major formats.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-18T16:53:07.756697+05:30
+- Published: 2026-07-20T03:46:09.055148+05:30
 
 ## Related Tags
 

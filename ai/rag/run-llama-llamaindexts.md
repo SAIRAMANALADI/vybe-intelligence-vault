@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/LlamaIndexTS
-collected_at: '2026-07-18T16:57:15.604019+05:30'
+collected_at: '2026-07-20T03:50:23.340344+05:30'
 published_at: '2026-07-14T13:27:29Z'
 tags:
 - agents
@@ -16,7 +16,6 @@ tags:
 - openai
 - rag
 - typescript
-- workflows
 stars: 3076
 language: TypeScript
 status: active
@@ -25,9 +24,9 @@ archived: true
 created_at: '2023-06-13T06:41:20Z'
 pushed_at: '2026-03-11T20:07:07Z'
 resource_id: github:run-llama/llamaindexts
-first_seen: '2026-07-18T16:57:15.604019+05:30'
-last_seen: '2026-07-18T16:57:15.604019+05:30'
-last_checked: '2026-07-18T16:57:15.604019+05:30'
+first_seen: '2026-07-20T03:50:23.340344+05:30'
+last_seen: '2026-07-20T03:50:23.340344+05:30'
+last_checked: '2026-07-20T03:50:23.340344+05:30'
 health_score: 100
 ---
 
@@ -35,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based LLM Data Framework**: LlamaIndexTS provides a server-side solution for LLM applications, enabling efficient data indexing and retrieval for TypeScript/JavaScript environments.
+- **TypeScript-based LLM Data Framework**: LlamaIndexTS provides a server-side solution for LLM applications, enabling efficient data indexing, retrieval, and integration with LLMs like Llama3, OpenAI, and Groq-AI.
 
-- **Modular Integration**: Supports multiple LLM providers (OpenAI, Groq, Claude AI) and frameworks (React, Node.js), with built-in tools for embeddings, agent workflows, and chatbot development.
+- **Modular Architecture**: Supports agents, chatbots, and embedding pipelines with React/Node.js compatibility, leveraging TypeScript for type safety and scalability in production environments.
 
-- **Active Development & Ecosystem**: Last updated July 2026, with 3,076 stars and 524 forks, indicating strong community adoption and continuous enhancements for production-grade LLM applications.
+- **Active Development & Ecosystem**: Last updated in July 2026, the repository (3,076 stars, 524 forks) integrates with tools like `create-llama` and frameworks such as Claude-AI, facilitating rapid prototyping and deployment of LLM-powered applications.
 
 ## Why It Matters
 

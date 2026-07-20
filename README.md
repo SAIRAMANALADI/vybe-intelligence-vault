@@ -9,9 +9,9 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-31%2C960-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-42%2C107-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
-[![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--19-374151?style=flat-square)](#)
+[![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--20-374151?style=flat-square)](#)
 
 [Overview](#-overview) · [How It Works](#-how-it-works) · [Architecture](#-architecture) · [Quick Start](#-quick-start) · [Vault Stats](#-vault-stats) · [Contributing](#-contributing)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **31,960 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **42,107 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -56,11 +56,7 @@ Every 3 hours:
        │   vault-index.json   ← semantic node/edge graph (cosine sim > 0.75)
        │         │
        │         ▼
-       │         ▼
-       │   vault-index.json   ← compact node/edge graph
-       │         │
-       │         ▼
-       │   React Explorer     ← Modern Web document explorer UI (world/)
+       │   React 3D Map       ← WebGL intelligence visualization (SWR polling)
        │
        └─▶ Orchestrator :3456 ← MCP gateway for agent context injection
 ```
@@ -79,21 +75,20 @@ Each resource is evaluated across 4 dimensions:
 ### Semantic Graph
 
 Embeddings via `nomic-embed-text` (Ollama). Two nodes are linked if:
-- Cosine similarity `> 0.75` -> `similar_to`
-- Shared tech stack -> `depends_on`  
-- Same category + shared tags -> `references`
+- Cosine similarity `> 0.75` → `similar_to`
+- Shared tech stack → `depends_on`  
+- Same category + shared tags → `references`
 
-Edge weight = `cosine_sim + (shared_tags * 0.08)`
+Edge weight = `cosine_sim + (shared_tags × 0.08)`
 
 ### MCP Gateway
 
-HTTP bridge on `:3456`. Send a vault file path -> receive a clean, LLM-formatted context block. Agents can pull any resource into their context window without reading the filesystem directly.
+HTTP bridge on `:3456`. Send a vault file path → receive a clean, LLM-formatted context block. Agents can pull any resource into their context window without reading the filesystem directly.
 
 ```bash
 # Example agent request
-curl -X POST http://localhost:3456/orchestrate \
-  -H "Content-Type: application/json" \
-  -d '{"action": "inject", "parameters": {"path": "skills/rag.md"}}'
+curl -X POST http://localhost:3456/inject \
+  -d '{"path": "ai/agents/tool-use-patterns.md"}'
 ```
 
 ---
@@ -102,14 +97,14 @@ curl -X POST http://localhost:3456/orchestrate \
 
 ```mermaid
 graph TD
-    A[Cron / Dispatch Trigger] -->|every 3h| B(evaluate_repo.py)
+    A[⏰ Cron / Dispatch Trigger] -->|every 3h| B(evaluate_repo.py)
     B -->|LLM score| C{Decision Engine}
     C -->|pass threshold| D[vault-core/]
-    C -->|reject| X[Discarded]
+    C -->|reject| X[❌ Discarded]
     D -->|git push| E(rebuild-index.yml)
-    E -->|build-index.js| F[world/public/vault-index.json]
-    F -->|fetch| G[React Document Explorer world/]
-    H[AI Agent] -->|MCP request| I[Orchestrator :3456]
+    E -->|nomic-embed-text| F[vault-index.json]
+    F -->|SWR poll| G[🌐 React 3D Map]
+    H[🤖 AI Agent] -->|MCP request| I[Orchestrator :3456]
     I -->|read + format| D
 
     style A fill:#1f2937,color:#e5e7eb
@@ -120,11 +115,11 @@ graph TD
 
 ### Key Design Decisions
 
-**Write-lock state management** — `state.lock` prevents collision writes when multiple pipeline jobs run concurrently. All mutations are append-only to `vault-events.log` (JSONL). In-memory reads use a 30s TTL. -> [`scripts/state-manager.js`](./scripts/state-manager.js)
+**Write-lock state management** — `state.lock` prevents collision writes when multiple pipeline jobs run concurrently. All mutations are append-only to `vault-events.log` (JSONL). In-memory reads use a 30s TTL. → [`scripts/state-manager.js`](./scripts/state-manager.js)
 
-**Hybrid inference** — Pipeline tries local Ollama first (zero cost, no rate limits). Falls back to cloud LLM if Ollama is unavailable. Scoring is deterministic via fixed seed. -> [`scripts/evaluate_repo.py`](./scripts/evaluate_repo.py)
+**Hybrid inference** — Pipeline tries local Ollama first (zero cost, no rate limits). Falls back to cloud LLM if Ollama is unavailable. Scoring is deterministic via fixed seed. → [`scripts/evaluate_repo.py`](./scripts/evaluate_repo.py)
 
-**Bot commits on heatmap** — Git identity configured so automated commits register on the contribution graph. Pipeline runs as `vybe-bot` with a PAT scoped to `repo` only. -> [`.github/workflows/harvester.yml`](./.github/workflows/harvester.yml)
+**Bot commits on heatmap** — Git identity configured so automated commits register on the contribution graph. Pipeline runs as `vybe-bot` with a PAT scoped to `repo` only. → [`.github/workflows/harvester.yml`](./.github/workflows/harvester.yml)
 
 ---
 
@@ -132,49 +127,37 @@ graph TD
 
 ### Prerequisites
 
-- [Ollama](https://ollama.com) installed and running (optional for local LLM scoring/embeddings)
-- Node.js 20+
-- Python 3.11+
+- [Ollama](https://ollama.com) installed and running
+- Node.js 18+
+- Python 3.10+
 
-### Setup Commands
+### Setup
 
-#### Windows (PowerShell / CMD)
-```powershell
-# Clone repository
-git clone https://github.com/sairaman436/vybe-intelligence-vault.git
-cd vybe-intelligence-vault
-
-# Install Python requirements
-pip install -r requirements.txt
-
-# Rebuild vault index
-npm run build:index
-
-# Install frontend dependencies & run dev server
-cd world
-npm ci
-npm run dev
-```
-
-#### Linux / macOS (Unix Shell)
 ```bash
-# Clone repository
+# Clone
 git clone https://github.com/sairaman436/vybe-intelligence-vault.git
 cd vybe-intelligence-vault
 
-# Install Python requirements
+# Pull required models
+ollama pull nomic-embed-text   # embeddings
+ollama pull qwen2.5:14b        # scoring
+
+# Install dependencies
+npm install
 pip install -r requirements.txt
 
-# Rebuild vault index
-npm run build:index
-
-# Install frontend dependencies & run dev server
-cd world
-npm ci
-npm run dev
+# Start everything (MCP server + orchestrator + web UI)
+bash scripts/vault-init.sh
 ```
 
-Open `http://localhost:5173` for the React document explorer interface.
+### Verify
+
+```bash
+# Check service health, ports, and event log
+bash scripts/vault-status.sh
+```
+
+Open `http://localhost:3000` for the 3D intelligence map.
 
 ### Configure Topics
 
@@ -204,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 10,847</p>
-        <p><b>Active:</b> 10,611 | <b>Inactive:</b> 236</p>
+        <p><b>Resources tracked:</b> 11,021</p>
+        <p><b>Active:</b> 10,776 | <b>Inactive:</b> 245</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,017</p>
+        <p><b>Archive Files:</b> 2,018</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 31,960 files</p>
-        <p><b>Last Update:</b> 2026-07-19 13:00 IST</p>
+        <p><b>Total Vault Size:</b> 42,107 files</p>
+        <p><b>Last Update:</b> 2026-07-20 08:15 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -227,16 +210,15 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[About GitHub · GitHub](ai/resources/about-github-github.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[git/git](ai/resources/git-git.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[git-scm / Git · GitLab](ai/resources/git-scm-git-gitlab.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[Researching with GitHub Copilot CLI - GitHub Docs](ai/agents/researching-with-github-copilot-cli-github-docs.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[microsoft/vscode](ai/rag/microsoft-vscode.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[run-llama/llama_index](ai/rag/run-llama-llama-index.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[run-llama/llama_deploy](ai/rag/run-llama-llama-deploy.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[run-llama/LlamaIndexTS](ai/rag/run-llama-llamaindexts.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[🧑‍🍳 Cookbook | Haystack](ai/rag/cookbook-haystack.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Tutorials | Haystack](ai/rag/tutorials-haystack.md)** • Rank: <kbd>+2</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[The state of open source AI](ai/community/mozilla-the-state-of-open-source-ai.md)** • Score: `454`
 - 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive

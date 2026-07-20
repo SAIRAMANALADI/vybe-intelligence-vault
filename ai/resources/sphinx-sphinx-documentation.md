@@ -4,17 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.sphinx-doc.org/
-published_at: '2026-07-18T16:58:22.085923+05:30'
-collected_at: '2026-07-18T16:58:22.085930+05:30'
+published_at: '2026-07-20T01:09:47.795195+05:30'
+collected_at: '2026-07-20T01:09:47.795206+05:30'
 tags:
 - hackernews
-- scripts
 - web-crawled
 status: active
 resource_id: blog:sphinx-sphinx-documentation
-first_seen: '2026-07-18T16:58:22.085930+05:30'
-last_seen: '2026-07-18T16:58:22.085930+05:30'
-last_checked: '2026-07-18T16:58:22.085930+05:30'
+first_seen: '2026-07-20T01:09:47.795206+05:30'
+last_seen: '2026-07-20T01:09:47.795206+05:30'
+last_checked: '2026-07-20T01:09:47.795206+05:30'
 health_score: 100
 ---
 
@@ -22,9 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Documentation Generation**: Sphinx supports reStructuredText and MyST Markdown for structured technical documentation, with cross-referencing, code highlighting, and multi-format output (HTML, LaTeX/PDF, ePub, Texinfo).
-- **Extensibility & Automation**: Offers robust extension mechanisms (built-in/third-party) for custom functionality, automatic API documentation via `autodoc`, and intersphinx for cross-project references.
-- **Internationalization & Theming**: Supports multi-language documentation (i18n) and provides extensive HTML theme customization (built-in/third-party) with API-driven extension development.
+- **Documentation Generation**: Sphinx supports authoring in reStructuredText or MyST Markdown to produce structured technical docs with tables, code blocks, math notations, and cross-references; outputs include HTML, LaTeX (PDF), ePub, and Texinfo via extensible builders.
+
+- **API & Extensibility**: Automatically generates API documentation from docstrings (Python, C++, etc.) using the `autodoc` extension; supports customization via built-in/third-party extensions for tasks like diagram generation, testing, and theme development.
+
+- **Cross-Project Integration**: Features `intersphinx` for cross-project references (sections, figures, code objects) and supports internationalization (i18n) for multilingual documentation, with active community-driven development and support.
 
 ## Why It Matters
 
@@ -34,12 +35,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-18T16:58:22.085923+05:30
+- Published: 2026-07-20T01:09:47.795195+05:30
 
 ## Related Tags
 
 - hackernews
-- scripts
 - web-crawled
 
 ## Source

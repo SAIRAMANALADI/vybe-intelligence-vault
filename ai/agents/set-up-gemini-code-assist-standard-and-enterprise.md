@@ -4,9 +4,9 @@ title: Set up Gemini Code Assist Standard and Enterprise | Gemini for Google Clo
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://cloud.google.com/gemini/docs/discover/set-up-gemini
-published_at: '2026-07-09T01:38:42.290498+05:30'
-collected_at: '2026-07-09T01:38:42.290516+05:30'
+source_url: https://developers.google.com/gemini-code-assist/docs/set-up-gemini-standard-enterprise
+published_at: '2026-07-19T19:40:15.128369+05:30'
+collected_at: '2026-07-19T19:40:15.128384+05:30'
 tags:
 - agents
 - producthunt
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:set-up-gemini-code-assist-standard-and-enterprise
-first_seen: '2026-07-09T01:38:42.290516+05:30'
-last_seen: '2026-07-09T01:38:42.290516+05:30'
-last_checked: '2026-07-09T01:38:42.290516+05:30'
+first_seen: '2026-07-19T19:40:15.128384+05:30'
+last_seen: '2026-07-19T19:40:15.128384+05:30'
+last_checked: '2026-07-19T19:40:15.128384+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,9 @@ health_score: 100
 
 ## Summary
 
-- **Gemini Code Assist Standard/Enterprise Setup**: Requires admin steps: purchasing a subscription, assigning licenses, enabling the `Gemini for Google Cloud API` in a Google Cloud project, and granting IAM roles (`Gemini for Google Cloud User` and `Service Usage Consumer`). Users then install IDE plugins (e.g., Gemini Code Assist) or configure CLI/authentication for access.
-
-- **License Management**: Automatic license assignment occurs if users meet conditions (project association, `cloudaicompanion.licenses.selfAssign` permission). Inactive licenses (30+ days) are reclaimed. Manual assignment is configurable via the **Admin for Gemini** page.
-
-- **Network/Firewall Configuration**: Users behind firewalls must allow outbound TCP traffic to Google Cloud APIs (`cloudaicompanion.googleapis.com`, `oauth2.googleapis.com`, etc.). VPC Service Controls require adding Gemini APIs to the service perimeter if configured. IP ranges can be dynamically managed via Google’s published lists or Private Service Connect.
+- **Gemini Code Assist Standard/Enterprise Setup**: Requires subscription purchase, user license assignment, enabling the `cloudaicompanion.googleapis.com` API in a Google Cloud project, and granting IAM roles (`roles/cloudaicompanion.user` or equivalent) for access.
+- **Firewall/API Traffic Configuration**: Users behind firewalls must allow outbound TCP traffic to Google Cloud APIs (`oauth2.googleapis.com`, `serviceusage.googleapis.com`, `cloudaicompanion.googleapis.com`, etc.) and manage IP ranges dynamically via Google’s published lists or Private Service Connect.
+- **VPC Service Controls & IAM Roles**: Organizations using VPC Service Controls must add the Gemini for Google Cloud API and Code Assist API to their perimeter; IAM roles must include `roles/cloudaicompanion.user` and `roles/serviceusage.serviceUsageConsumer` for users.
 
 ## Why It Matters
 
@@ -39,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-09T01:38:42.290498+05:30
+- Published: 2026-07-19T19:40:15.128369+05:30
 
 ## Related Tags
 
@@ -51,4 +49,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://cloud.google.com/gemini/docs/discover/set-up-gemini
+Original source: https://developers.google.com/gemini-code-assist/docs/set-up-gemini-standard-enterprise

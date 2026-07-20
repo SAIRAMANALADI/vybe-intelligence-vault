@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-07-18T16:50:27.177898+05:30'
-published_at: '2026-07-17T09:09:00Z'
+collected_at: '2026-07-20T03:43:28.303766+05:30'
+published_at: '2026-07-19T09:12:31Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - python
 - rag
-stars: 1221
+stars: 1222
 language: Python
 status: active
 license: NOASSERTION
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-07-18T16:50:27.177898+05:30'
-last_seen: '2026-07-18T16:50:27.177898+05:30'
-last_checked: '2026-07-18T16:50:27.177898+05:30'
+first_seen: '2026-07-20T03:43:28.303766+05:30'
+last_seen: '2026-07-20T03:43:28.303766+05:30'
+last_checked: '2026-07-20T03:43:28.303766+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified Agent Framework**: Introduces a vertically integrated agent system (Youtu-GraphRAG) for graph-based retrieval-augmented complex reasoning, leveraging graph structures to enhance LLM performance in multi-hop reasoning tasks.
+- **Vertically Unified Agents**: Introduces a hierarchical agent framework integrating multi-level reasoning (e.g., planning, retrieval, execution) for complex tasks, leveraging graph structures to enhance decision-making in retrieval-augmented generation (RAG).
 
-- **Graph-Centric RAG Architecture**: Implements a graph retrieval mechanism that dynamically constructs and queries knowledge graphs to augment LLM inputs, improving factual accuracy and contextual relevance in complex reasoning scenarios.
+- **Graph-Centric RAG**: Utilizes dynamic graph representations to optimize retrieval and reasoning, enabling agents to traverse and exploit relational data for improved contextual understanding and response accuracy.
 
-- **Optimized for ICLR 2026**: Designed for high scalability and efficiency, with Python-based implementation optimized for large-scale knowledge graphs and multi-agent collaboration in reasoning tasks.
+- **ICLR 2026 Contribution**: Proposes a novel architecture combining graph neural networks (GNNs) with large language models (LLMs) to address long-horizon reasoning challenges, validated through extensive benchmarks and ablation studies.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TencentCloudADP
-- Stars: 1221
+- Stars: 1222
 - Forks: 183
 - Language: Python
 - Topics: agent, graph, graphrag, llm, rag
-- Last Updated: 2026-07-17T09:09:00Z
+- Last Updated: 2026-07-19T09:12:31Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-01T02:52:13Z

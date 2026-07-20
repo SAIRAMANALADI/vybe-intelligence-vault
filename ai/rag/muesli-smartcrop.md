@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/muesli/smartcrop
-collected_at: '2026-07-17T14:09:59.088880+05:30'
+collected_at: '2026-07-19T14:14:09.184139+05:30'
 published_at: '2026-07-12T08:38:14Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2014-04-07T22:40:03Z'
 pushed_at: '2023-07-06T12:16:16Z'
 resource_id: github:muesli/smartcrop
-first_seen: '2026-07-17T14:09:59.088880+05:30'
-last_seen: '2026-07-17T14:09:59.088880+05:30'
-last_checked: '2026-07-17T14:09:59.088880+05:30'
+first_seen: '2026-07-19T14:14:09.184139+05:30'
+last_seen: '2026-07-19T14:14:09.184139+05:30'
+last_checked: '2026-07-19T14:14:09.184139+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Algorithm**: Implements a saliency-based image cropping algorithm in Go, analyzing visual features (edges, faces, entropy) to determine optimal crop regions.
-- **Features**: Supports arbitrary crop sizes and aspect ratios, with configurable scoring thresholds for prioritizing key image regions.
-- **Performance**: Optimized for speed with minimal dependencies, leveraging Go’s concurrency for efficient image processing.
+- **Algorithm**: Implements a saliency-based cropping algorithm that analyzes image entropy, edges, and face detection to determine optimal crop regions.
+- **Implementation**: Written in Go, leveraging OpenCV for image processing and feature extraction.
+- **Flexibility**: Supports arbitrary crop sizes and aspect ratios while preserving visually important content.
 
 ## Why It Matters
 

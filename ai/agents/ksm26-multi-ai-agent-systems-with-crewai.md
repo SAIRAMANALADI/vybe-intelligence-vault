@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ksm26/Multi-AI-Agent-Systems-with-crewAI
-collected_at: '2026-07-18T16:53:07.296864+05:30'
+collected_at: '2026-07-20T03:46:08.417979+05:30'
 published_at: '2026-07-06T11:12:29Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-05-27T13:55:05Z'
 pushed_at: '2024-06-11T14:01:02Z'
 resource_id: github:ksm26/multi-ai-agent-systems-with-crewai
-first_seen: '2026-07-18T16:53:07.296864+05:30'
-last_seen: '2026-07-18T16:53:07.296864+05:30'
-last_checked: '2026-07-18T16:53:07.296864+05:30'
+first_seen: '2026-07-20T03:46:08.417979+05:30'
+last_seen: '2026-07-20T03:46:08.417979+05:30'
+last_checked: '2026-07-20T03:46:08.417979+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Specialized AI Agent Teams**: Demonstrates how to design and organize AI agents into specialized teams using the open-source `crewAI` library to automate complex, multi-step business processes (e.g., financial analysis, customer support, event planning).
-
-- **Multi-Agent Workflow Optimization**: Focuses on role-playing, natural language prompting, and custom tools to enable AI agents to cooperate, handle errors, and optimize workflows for tasks like resume tailoring and technical writing.
-
-- **Technical Implementation**: Provides Jupyter Notebook-based examples for integrating AI memory, custom tools, and business process automation while addressing error handling and task automation in multi-agent systems.
+- **Multi-Agent System Framework**: Demonstrates specialized AI agent teams using the open-source `crewAI` library to automate complex, multi-step business processes (e.g., financial analysis, event planning, customer support).
+- **Technical Implementation**: Focuses on role-playing, natural language prompting, and custom tool integration for task automation, with error handling and AI memory management for workflow optimization.
+- **Jupyter Notebook-Based Learning**: Provides hands-on examples for designing AI agents, including resume tailoring and technical writing, with updates as of July 2026.
 
 ## Why It Matters
 

@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://fosstodon.org/@gohugoio
-published_at: '2026-07-17T14:09:54.412155+05:30'
-collected_at: '2026-07-17T14:09:54.412169+05:30'
+published_at: '2026-07-20T01:13:54.560824+05:30'
+collected_at: '2026-07-20T01:13:54.560833+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:gohugoio-gohugoio-fosstodon-org-fosstodon
-first_seen: '2026-07-17T14:09:54.412169+05:30'
-last_seen: '2026-07-17T14:09:54.412169+05:30'
-last_checked: '2026-07-17T14:09:54.412169+05:30'
+first_seen: '2026-07-20T01:13:54.560833+05:30'
+last_seen: '2026-07-20T01:13:54.560833+05:30'
+last_checked: '2026-07-20T01:13:54.560833+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **JavaScript Dependency**: Mastodon web app requires JavaScript to function; disable browser JS to see fallback message.
-- **Native App Alternative**: Users can bypass web limitations by installing platform-specific [Mastodon apps](https://joinmastodon.org/apps).
-- **Static Fallback**: Minimal static content (e.g., logo) loads when JS is disabled, but core functionality remains inaccessible.
+- Mastodon web app requires JavaScript for full functionality; progressive enhancement is used for core features.
+- Native apps are recommended for optimal performance and offline capabilities across platforms.
+- Mastodon is a decentralized microblogging platform adhering to the ActivityPub protocol.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-17T14:09:54.412155+05:30
+- Published: 2026-07-20T01:13:54.560824+05:30
 
 ## Related Tags
 

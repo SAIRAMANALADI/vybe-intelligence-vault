@@ -10,11 +10,11 @@ Streaming JSON rendering, message bubble styles, typing animations, layout state
 React, TailwindCSS, shadcn/ui, Vercel AI SDK.
 
 ## Recommended Resources from the Vault
-*   [itsfaqih/fama](https://github.com/itsfaqih/fama)
-*   [frontendfyi/rebuilding-linear.app](https://github.com/frontendfyi/rebuilding-linear.app)
 *   [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev)
-*   [SikandarJODD/svelte-animations](https://github.com/sikandarjodd/svelte-animations)
-*   [realstoman/react-tailwindcss-portfolio](https://github.com/realstoman/react-tailwindcss-portfolio)
+*   [kartikk-k/dashboard-ui](https://github.com/kartikk-k/dashboard-ui)
+*   [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next)
+*   [Styles and CSS | Docs](https://docs.astro.build/en/guides/styling/#tailwind)
+*   [CORDIS | European Commission](https://cordis.europa.eu)
 
 ## Project Ideas
 *   AI chat assistant with smooth message bubbles and streaming text rendering.

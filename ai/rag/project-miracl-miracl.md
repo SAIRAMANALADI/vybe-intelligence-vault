@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/project-miracl/miracl
-collected_at: '2026-07-14T13:05:26.720351+05:30'
+collected_at: '2026-07-20T03:49:25.954359+05:30'
 published_at: '2026-07-07T07:03:18Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - rag
 - unknown
 stars: 211
@@ -20,9 +21,9 @@ archived: false
 created_at: '2022-09-08T18:04:27Z'
 pushed_at: '2024-07-31T21:17:17Z'
 resource_id: github:project-miracl/miracl
-first_seen: '2026-07-14T13:05:26.720351+05:30'
-last_seen: '2026-07-14T13:05:26.720351+05:30'
-last_checked: '2026-07-14T13:05:26.720351+05:30'
+first_seen: '2026-07-20T03:49:25.954359+05:30'
+last_seen: '2026-07-20T03:49:25.954359+05:30'
+last_checked: '2026-07-20T03:49:25.954359+05:30'
 health_score: 100
 ---
 
@@ -31,10 +32,8 @@ health_score: 100
 ## Summary
 
 - **Dataset Overview**: MIRACL is a large-scale, multilingual dataset designed for Information Retrieval (IR), featuring human annotations across 18 diverse languages to ensure linguistic and cultural coverage.
-
-- **Benchmarking Focus**: The dataset serves as a benchmark for evaluating IR systems, enabling cross-lingual and multilingual performance comparisons with standardized human-annotated relevance judgments.
-
-- **Scope & Maintenance**: Last updated in July 2026, the dataset includes thorough annotations and is actively maintained as a reference for multilingual IR research, with a growing community (211 stars, 5 forks).
+- **Benchmark Structure**: The dataset serves as a benchmark for evaluating IR systems, enabling cross-lingual and multilingual performance comparisons with standardized evaluation protocols.
+- **Technical Specifications**: Includes thorough human-annotated relevance judgments, query-document pairs, and metadata, facilitating robust training and testing of multilingual IR models.
 
 ## Why It Matters
 

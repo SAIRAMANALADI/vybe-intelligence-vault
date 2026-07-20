@@ -4,21 +4,21 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/python/peps
-collected_at: '2026-07-17T14:10:31.130854+05:30'
-published_at: '2026-07-16T21:22:16Z'
+collected_at: '2026-07-20T01:14:26.769680+05:30'
+published_at: '2026-07-19T16:54:14Z'
 tags:
 - github-repo
 - restructuredtext
-stars: 4969
+stars: 4972
 language: reStructuredText
 status: active
 archived: false
 created_at: '2013-10-08T13:27:12Z'
-pushed_at: '2026-07-16T21:23:54Z'
+pushed_at: '2026-07-18T13:45:40Z'
 resource_id: github:python/peps
-first_seen: '2026-07-17T14:10:31.130854+05:30'
-last_seen: '2026-07-17T14:10:31.130854+05:30'
-last_checked: '2026-07-17T14:10:31.130854+05:30'
+first_seen: '2026-07-20T01:14:26.769680+05:30'
+last_seen: '2026-07-20T01:14:26.769680+05:30'
+last_checked: '2026-07-20T01:14:26.769680+05:30'
 health_score: 100
 ---
 
@@ -26,9 +26,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Centralized repository for Python Enhancement Proposals (PEPs), documenting proposed changes, enhancements, and standards for the Python language.
-- **Format**: All PEPs are written in reStructuredText (RST) and follow a standardized structure for consistency and readability.
-- **Maintenance**: Last updated on **2026-07-16**, with **4,969 stars** and **1,783 forks**, indicating active community engagement and contributions.
+- **PEP Repository**: Official Python Enhancement Proposals (PEPs) repository containing structured proposals for Python language and standard library changes.
+- **Format & Maintenance**: Written in reStructuredText, last updated July 19, 2026, serving as the canonical source for PEPs.
+- **Metadata**: 4,972 stars, 1,783 forks, hosted on GitHub under the Python organization.
 
 ## Why It Matters
 
@@ -37,14 +37,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: python
-- Stars: 4969
+- Stars: 4972
 - Forks: 1783
 - Language: reStructuredText
 - Topics: None
-- Last Updated: 2026-07-16T21:22:16Z
+- Last Updated: 2026-07-19T16:54:14Z
 - Archived: No
 - Created At: 2013-10-08T13:27:12Z
-- Pushed At: 2026-07-16T21:23:54Z
+- Pushed At: 2026-07-18T13:45:40Z
 
 ## Possible Use Cases
 

@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-07-18T16:49:42.094808+05:30'
+collected_at: '2026-07-20T03:42:48.138014+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
 - github-repo
 - java
 - rag
-- reddit
 - workflows
 stars: 35
 language: Java
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-07-18T16:49:42.094808+05:30'
-last_seen: '2026-07-18T16:49:42.094808+05:30'
-last_checked: '2026-07-18T16:49:42.094808+05:30'
+first_seen: '2026-07-20T03:42:48.138014+05:30'
+last_seen: '2026-07-20T03:42:48.138014+05:30'
+last_checked: '2026-07-20T03:42:48.138014+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of RAG with Knowledge Graph**: Demonstrates Retrieval-Augmented Generation (RAG) using a knowledge graph for structured data retrieval, integrating with Spring AI and Alibaba Cloud services.
+- **Implementation of AI Q&A System**: Demonstrates a Spring AI-based Q&A system leveraging **SSE (Server-Sent Events)** for real-time streaming responses, **Agent-based workflows** for dynamic task handling, and **Function Call** integration for extensible tool usage.
 
-- **Agent-Based Workflows with Function Calling**: Implements AI agent architectures supporting function calls, historical message management, and tool orchestration for dynamic task execution.
+- **Advanced RAG & Knowledge Graph Integration**: Features **Retrieval-Augmented Generation (RAG)** with **Embedding models** and **Vector Database** storage, complemented by a **Knowledge Graph** for structured semantic retrieval and enhanced context-aware responses.
 
-- **Multimodal AI Capabilities**: Supports image generation (e.g., via diffusion models), image understanding (OCR/visual QA), and embedding-based vector search using vector databases (e.g., Milvus, Weaviate).
+- **Multimodal & Historical Context Support**: Supports **image generation/understanding** via AI models, **historical message persistence** for conversational continuity, and **Alibaba Cloud AI services** integration for scalable deployment.
 
 ## Why It Matters
 

@@ -3,11 +3,6 @@ name: Deploy World to GitHub Pages
 on:
   push:
     branches: ["main"]
-    paths-ignore:
-      - "README.md"
-      - "SECURITY.md"
-      - "logs/**"
-      - "vault-core/vault-events.log"
   workflow_dispatch:
 
 permissions:
@@ -39,7 +34,7 @@ jobs:
         
       - name: Install dependencies
         working-directory: ./world
-        run: npm ci
+        run: npm install
         
       - name: Build website
         working-directory: ./world

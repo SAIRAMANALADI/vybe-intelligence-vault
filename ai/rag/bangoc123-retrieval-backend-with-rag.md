@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-07-18T16:49:37.115118+05:30'
+collected_at: '2026-07-20T03:42:38.142426+05:30'
 published_at: '2026-07-17T22:50:34Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -17,9 +18,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-07-18T16:49:37.115118+05:30'
-last_seen: '2026-07-18T16:49:37.115118+05:30'
-last_checked: '2026-07-18T16:49:37.115118+05:30'
+first_seen: '2026-07-20T03:42:38.142426+05:30'
+last_seen: '2026-07-20T03:42:38.142426+05:30'
+last_checked: '2026-07-20T03:42:38.142426+05:30'
 health_score: 100
 ---
 
@@ -27,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- Implements **Retrieval-Augmented Generation (RAG)** optimized for Vietnamese text processing using Python.
-- Demonstrates best practices for **vector database integration**, **embedding models**, and **query optimization** tailored to Vietnamese language semantics.
-- Provides a **modular backend architecture** with FastAPI, supporting **chunking strategies**, **retrieval pipelines**, and **LLM integration** for Vietnamese-focused applications.
+- **Vietnamese RAG Implementation**: Demonstrates best practices for building a Retrieval-Augmented Generation (RAG) system tailored for Vietnamese language processing, leveraging Python-based pipelines.
+
+- **Modular Architecture**: Features a structured backend with components for document retrieval, embedding generation (likely using Vietnamese-specific models), and LLM integration for contextual generation.
+
+- **Open-Source Toolkit**: Provides a reusable framework for Vietnamese RAG applications, including preprocessing, vector database integration (e.g., FAISS/Weaviate), and evaluation utilities.
 
 ## Why It Matters
 

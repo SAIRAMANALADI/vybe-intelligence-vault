@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.geeksforgeeks.org/artificial-intelligence/rag-system-with-langchain-and-langgraph/
-published_at: '2026-06-25T22:55:23.207473+05:30'
-collected_at: '2026-06-25T22:55:23.207480+05:30'
+published_at: '2026-07-20T03:42:03.763310+05:30'
+collected_at: '2026-07-20T03:42:03.763327+05:30'
 tags:
 - agents
 - dataset
@@ -20,9 +20,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:rag-system-with-langchain-and-langgraph-geeksforge
-first_seen: '2026-06-25T22:55:23.207480+05:30'
-last_seen: '2026-06-25T22:55:23.207480+05:30'
-last_checked: '2026-06-25T22:55:23.207480+05:30'
+first_seen: '2026-07-20T03:42:03.763327+05:30'
+last_seen: '2026-07-20T03:42:03.763327+05:30'
+last_checked: '2026-07-20T03:42:03.763327+05:30'
 health_score: 100
 ---
 
@@ -30,16 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG System Architecture**: Combines LangChain for document processing (chunking, embeddings) and LangGraph for workflow orchestration (state management, retrieval-generation pipeline) to enable context-aware responses from LLMs.
+- **RAG Pipeline Architecture**: Combines LangChain for document processing (chunking, embeddings) and LangGraph for workflow orchestration (retrieval, generation, refinement) to produce context-aware answers from vectorized document chunks.
 
-- **Key Components**:
-  - **LangChain**: Handles document loading, text splitting (e.g., `RecursiveCharacterTextSplitter`), vector embeddings (`OpenAIEmbeddings`), and similarity search (`InMemoryVectorStore`).
-  - **LangGraph**: Defines a stateful graph (`StateGraph`) with nodes for classification, retrieval, generation, and refinement, compiled into an executable pipeline.
+- **State Management & Execution**: Uses a `TypedDict`-based `State` to track `question`, `context` (retrieved docs), and `answer`, with LangGraph nodes (`retrieve`, `generate`, `classify`, `refine`) sequentially processing data for modular, maintainable AI workflows.
 
-- **Advantages**:
-  - **Factual Grounding**: Mitigates hallucinations by anchoring responses in retrieved document chunks.
-  - **Modularity**: Supports custom datasets (e.g., JSON, PDFs) and domain adaptation (e.g., healthcare, finance).
-  - **Efficiency**: Processes only relevant text chunks via vector similarity search, reducing token costs and latency.
+- **Vector Search & LLM Integration**: Employs `OpenAIEmbeddings` and `InMemoryVectorStore` for similarity search (top-5 chunks), while a custom prompt guides the `gpt-4.1` LLM (temperature=0.3) to generate grounded responses, reducing hallucinations via retrieved context.
 
 ## Why It Matters
 
@@ -49,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T22:55:23.207473+05:30
+- Published: 2026-07-20T03:42:03.763310+05:30
 
 ## Related Tags
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-07-18T16:49:02.102204+05:30'
+collected_at: '2026-07-20T03:42:03.157198+05:30'
 published_at: '2026-07-13T06:44:26Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-07-18T16:49:02.102204+05:30'
-last_seen: '2026-07-18T16:49:02.102204+05:30'
-last_checked: '2026-07-18T16:49:02.102204+05:30'
+first_seen: '2026-07-20T03:42:03.157198+05:30'
+last_seen: '2026-07-20T03:42:03.157198+05:30'
+last_checked: '2026-07-20T03:42:03.157198+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) from scratch using local LLMs (via `node-llama-cpp`) to eliminate black-box dependencies, focusing on embeddings, vector search, retrieval, and context-augmented generation.
+- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using JavaScript, emphasizing transparency with local LLMs (via `node-llama-cpp`) and no proprietary black boxes.
 
-- **JavaScript-Based Pipeline**: Implements a full RAG pipeline in JavaScript/Node.js, covering embedding generation, vector database operations, retrieval mechanisms, and LLM integration for context-aware responses.
+- **Core Components**: Covers embeddings generation, vector search (likely using cosine similarity or similar), retrieval mechanisms, and context-augmented generation to enhance LLM responses with retrieved data.
 
-- **Open-Source Tutorial**: Provides a hands-on, step-by-step guide for building RAG systems, emphasizing transparency and educational value for developers (1478 stars, 175 forks). Last updated July 2026.
+- **Practical Tutorial**: Provides a hands-on guide for building a RAG chatbot, including agents, Node.js integration, and a modular pipeline for educational purposes. Last updated July 2026.
 
 ## Why It Matters
 

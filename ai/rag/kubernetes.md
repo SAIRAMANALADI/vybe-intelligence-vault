@@ -3,9 +3,9 @@ title: Kubernetes
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://kubernetes.io
-published_at: '2026-06-22T15:49:32.213061+05:30'
-collected_at: '2026-06-22T15:49:32.213078+05:30'
+source_url: https://kubernetes.io/
+published_at: '2026-07-20T01:14:27.125311+05:30'
+collected_at: '2026-07-20T01:14:27.125321+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:kubernetes
-first_seen: '2026-06-22T15:49:32.213078+05:30'
-last_seen: '2026-06-22T15:49:32.213078+05:30'
-last_checked: '2026-06-22T15:49:32.213078+05:30'
+first_seen: '2026-07-20T01:14:27.125321+05:30'
+last_seen: '2026-07-20T01:14:27.125321+05:30'
+last_checked: '2026-07-20T01:14:27.125321+05:30'
 health_score: 100
 ---
 
@@ -23,15 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Container Orchestration**: Kubernetes automates deployment, scaling, and management of containerized applications by grouping containers into logical units for orchestration, leveraging 15+ years of Google's production workload experience.
+- **Container Orchestration**: Kubernetes automates deployment, scaling, and management of containerized applications by grouping containers into logical units (Pods) for simplified operations and discovery.
 
-- **Core Features**:
-  - **Automated Rollouts/Rollbacks**: Progressive updates with health monitoring and rollback on failure.
-  - **Service Discovery & Load Balancing**: Assigns Pods unique IPs/DNS names and balances traffic across them.
-  - **Self-Healing**: Restarts crashed containers, replaces failed Pods, and integrates with node autoscalers for fault tolerance.
-  - **Scaling**: Supports horizontal/vertical scaling (CPU-based or resource-usage-driven) and dual-stack IPv4/IPv6 Pod/Service addressing.
+- **Core Features**: Includes automated rollouts/rollbacks, service discovery/load balancing, storage orchestration, secret/config management, self-healing, horizontal/vertical scaling, and dual-stack networking (IPv4/IPv6).
 
-- **Extensibility & Storage**: Enables custom feature additions without upstream code changes; orchestrates persistent storage (local, cloud, or networked like NFS/iSCSI) and manages Secrets/configs without image rebuilds.
+- **Extensibility & Ecosystem**: Designed for extensibility via plugins without upstream changes, supports batch/CI workloads, and integrates with cloud/hybrid/on-prem infrastructure for seamless workload portability.
 
 ## Why It Matters
 
@@ -41,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T15:49:32.213061+05:30
+- Published: 2026-07-20T01:14:27.125311+05:30
 
 ## Related Tags
 
@@ -52,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://kubernetes.io
+Original source: https://kubernetes.io/

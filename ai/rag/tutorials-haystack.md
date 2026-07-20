@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials
-published_at: '2026-07-09T01:42:08.688542+05:30'
-collected_at: '2026-07-09T01:42:08.688557+05:30'
+published_at: '2026-07-20T03:50:14.435358+05:30'
+collected_at: '2026-07-20T03:50:14.435375+05:30'
 tags:
 - agents
 - benchmark
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:tutorials-haystack
-first_seen: '2026-07-09T01:42:08.688557+05:30'
-last_seen: '2026-07-09T01:42:08.688557+05:30'
-last_checked: '2026-07-09T01:42:08.688557+05:30'
+first_seen: '2026-07-20T03:50:14.435375+05:30'
+last_seen: '2026-07-20T03:50:14.435375+05:30'
+last_checked: '2026-07-20T03:50:14.435375+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Evaluation Framework**: Haystack provides a guided walkthrough for evaluating RAG pipelines using statistical and model-based metrics, enabling systematic performance assessment of generative QA systems.
+- **Evaluation Framework**: Haystack provides a guided walkthrough for evaluating RAG pipelines using statistical and model-based metrics, enabling systematic performance assessment of retrieval-augmented generation systems.
 
-- **Multimodal RAG Pipeline**: Tutorial demonstrates constructing a multimodal retrieval-augmented generation (RAG) system that integrates both image and text modalities for grounded question answering.
+- **Agentic Architectures**: Tutorials cover advanced agentic workflows including multi-agent systems, tool-calling agents with web search integration, and human-in-the-loop confirmation strategies for safer AI interactions.
 
-- **KV Cache Compression**: Haystack’s TurboQuant enables significant memory reduction for large LLMs via KV cache compression, facilitating deployment on consumer-grade GPUs.
+- **Multimodal & Hybrid Pipelines**: Haystack supports multimodal RAG (combining text and vision), hybrid retrieval (combining dense and keyword-based methods), and structured output generation with OpenAI models using Pydantic/JSON schema.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-09T01:42:08.688542+05:30
+- Published: 2026-07-20T03:50:14.435358+05:30
 
 ## Related Tags
 

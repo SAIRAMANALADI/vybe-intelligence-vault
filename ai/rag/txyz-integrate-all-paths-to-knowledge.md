@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://txyz.ai
-published_at: '2026-07-08T01:52:07.916683+05:30'
-collected_at: '2026-07-08T01:52:07.916698+05:30'
+published_at: '2026-07-20T03:49:52.612745+05:30'
+collected_at: '2026-07-20T03:49:52.612765+05:30'
 tags:
 - agents
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:txyz-integrate-all-paths-to-knowledge
-first_seen: '2026-07-08T01:52:07.916698+05:30'
-last_seen: '2026-07-08T01:52:07.916698+05:30'
-last_checked: '2026-07-08T01:52:07.916698+05:30'
+first_seen: '2026-07-20T03:49:52.612765+05:30'
+last_seen: '2026-07-20T03:49:52.612765+05:30'
+last_checked: '2026-07-20T03:49:52.612765+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **TXYZ AI Platform** offers modular products: **Searching** (knowledge discovery), **Reading** (AI-powered document analysis), **Writing** (agent-assisted content creation), and **API** (business integration) with tiered pricing (Free, Pro at $96/year, Ultra at $288/year).
+- **TXYZ AI Platform** provides modular tools for **knowledge discovery (Searching)**, **document interaction (Reading)**, **content generation (Writing)**, and **programmatic access (API)** with tiered pricing (Free, Pro at $96/year, Ultra at $288/year).
 
-- **Core Features**: Supports up to 300-page document analysis (Ultra tier), 3x longer context windows, private library management, and retrieval-augmented generation to mitigate hallucinations via document citation links.
+- **Core Features**: Supports **private document ingestion** (up to 300 pages in Ultra), **agentic workflows** with retrieval-augmented optimization, **3x extended context windows** for deeper analysis, and **document-level citation tracking** to mitigate hallucinations.
 
-- **Privacy & Access**: Uploaded documents remain private, deletable, and unshared; API access available for enterprise integration; Discord community and email support (`support@txyz.ai`) for user engagement.
+- **Privacy & Integration**: All user-uploaded content remains **private and deletable**, with **API access** available for enterprise/academic integration; community support via **Discord** and direct contact at **support@txyz.ai**.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T01:52:07.916683+05:30
+- Published: 2026-07-20T03:49:52.612745+05:30
 
 ## Related Tags
 

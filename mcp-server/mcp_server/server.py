@@ -94,18 +94,13 @@ def read_vault_resource(path: str) -> str:
         
     return content
 
-@mcp.resource("vault://vault-index.json", description="The compact search index cataloging all intelligence vault resources.")
-def get_vault_index() -> str:
-    """Returns the vault-index.json file contents."""
-    paths = [
-        VAULT_ROOT / "world" / "public" / "vault-index.json",
-        VAULT_ROOT / "vault-core" / "vault-nodes.json",
-        VAULT_ROOT / "vault-core" / "vault-index.json"
-    ]
-    for path in paths:
-        if path.exists():
-            return path.read_text(encoding="utf-8")
-    return "{\"nodes\": []}"
+@mcp.resource("vault://search-index.json", description="The master search index cataloging all intelligence vault resources.")
+def get_search_index() -> str:
+    """Returns the search-index.json file contents."""
+    path = VAULT_ROOT / "search-index.json"
+    if path.exists():
+        return path.read_text(encoding="utf-8")
+    return "[]"
 
 @mcp.resource("vault://CHANGELOG.md", description="The weekly change history of additions and upgrades in the vault.")
 def get_changelog() -> str:
@@ -202,29 +197,22 @@ def vault_search(query: str, category: Optional[str] = None, max_results: int = 
     """
     candidates = []
     
-    # Load from compact index
-    index_paths = [
-        VAULT_ROOT / "world" / "public" / "vault-index.json",
-        VAULT_ROOT / "vault-core" / "vault-nodes.json",
-        VAULT_ROOT / "vault-core" / "vault-index.json"
-    ]
-    for ip in index_paths:
-        if ip.exists():
-            try:
-                with open(ip, "r", encoding="utf-8") as f:
-                    data = json.load(f)
-                    nodes = data.get("nodes", []) if isinstance(data, dict) else (data if isinstance(data, list) else [])
-                    for item in nodes:
-                        candidates.append({
-                            "title": item.get("title", ""),
-                            "local_path": item.get("path") or item.get("local_path", ""),
-                            "summary": item.get("summary", ""),
-                            "tags": item.get("tags", []),
-                            "content": ""
-                        })
-                break
-            except Exception as e:
-                logger.error(f"Failed to load index from {ip}: {e}")
+    # Load from index
+    index_path = VAULT_ROOT / "search-index.json"
+    if index_path.exists():
+        try:
+            with open(index_path, "r", encoding="utf-8") as f:
+                index_data = json.load(f)
+                for item in index_data:
+                    candidates.append({
+                        "title": item.get("title", ""),
+                        "local_path": item.get("local_path", ""),
+                        "summary": item.get("summary", ""),
+                        "tags": item.get("tags", []),
+                        "content": ""
+                    })
+        except Exception as e:
+            logger.error(f"Failed to load search-index.json: {e}")
             
     # Load other folders
     candidates.extend(scan_directories_for_search())
@@ -331,26 +319,12 @@ def main():
     parser.add_argument("--transport", choices=["stdio", "sse"], default="stdio", help="Transport mechanism (stdio or sse)")
     parser.add_argument("--host", default="0.0.0.0", help="HTTP host for SSE")
     parser.add_argument("--port", type=int, default=8000, help="HTTP port for SSE")
-    parser.add_argument("--unsafe-local", action="store_true", help="Allow SSE mode without MCP_ACCESS_TOKEN requirement")
-    parser.add_argument("--smoke-test", action="store_true", help="Run self-test search and exit")
     args = parser.parse_args()
-
-    if args.smoke_test:
-        logger.info("Running MCP server smoke test...")
-        results = vault_search(query="RAG", max_results=2)
-        logger.info(f"Smoke test search results: {results[:200]}...")
-        print("mcp smoke test passed")
-        sys.exit(0)
     
     transport_mode = os.environ.get("MCP_TRANSPORT", args.transport)
     token = os.environ.get("MCP_ACCESS_TOKEN")
     
     if transport_mode == "sse":
-        allow_unsafe = args.unsafe_local or os.environ.get("ALLOW_UNAUTHENTICATED_SSE", "0").lower() in ("1", "true", "yes")
-        if not token and not allow_unsafe:
-            logger.error("Security Error: MCP_ACCESS_TOKEN environment variable is required for SSE transport mode. Use --unsafe-local or set ALLOW_UNAUTHENTICATED_SSE=1 to bypass for local testing.")
-            sys.exit(1)
-
         host = os.environ.get("MCP_HOST", args.host)
         port = int(os.environ.get("MCP_PORT", str(args.port)))
         
@@ -364,7 +338,7 @@ def main():
             logger.info("Enabling environment-based TokenAuthMiddleware validation...")
             starlette_app.add_middleware(TokenAuthMiddleware, token=token)
         else:
-            logger.warning("Running in --unsafe-local mode WITHOUT authentication.")
+            logger.warning("MCP_ACCESS_TOKEN is not set. SSE transport will run WITHOUT authentication!")
             
         import uvicorn
         import anyio

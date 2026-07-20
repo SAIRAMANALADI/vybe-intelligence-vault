@@ -3,9 +3,9 @@ title: DSPy
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://dspy.ai/
-published_at: '2026-07-08T01:50:44.682623+05:30'
-collected_at: '2026-07-08T01:50:44.682640+05:30'
+source_url: https://dspy-docs.vercel.app/
+published_at: '2026-07-20T03:48:36.169352+05:30'
+collected_at: '2026-07-20T03:48:36.169369+05:30'
 tags:
 - agents
 - benchmark
@@ -14,13 +14,12 @@ tags:
 - openai
 - rag
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:dspy
-first_seen: '2026-07-08T01:50:44.682640+05:30'
-last_seen: '2026-07-08T01:50:44.682640+05:30'
-last_checked: '2026-07-08T01:50:44.682640+05:30'
+first_seen: '2026-07-20T03:48:36.169369+05:30'
+last_seen: '2026-07-20T03:48:36.169369+05:30'
+last_checked: '2026-07-20T03:48:36.169369+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **ReActV2 Module**: Introduces an enhanced reasoning-and-acting loop for tool-integrated LLM execution, improving modularity and adaptability in agentic workflows.
-- **Improved LM/BaseLM**: Enhances the base language model interface with better abstraction, enabling more efficient model switching and optimization.
-- **Structured Signature Optimization**: GEPA optimizer compiles declarative task signatures against user-defined metrics, achieving significant performance gains (e.g., 62% → 89% F1) with cost-efficient fine-tuning.
+- **ReActV2 Module & LM/BaseLM Enhancements**: DSPy 3.3.0b1 introduces a new `ReActV2` module for improved reasoning and tool integration, alongside optimizations to the base `LM` and `BaseLM` classes for enhanced performance and modularity.
+
+- **Structured Task Definition via Signatures**: Tasks are defined using typed `Signature` classes (e.g., `InputField`, `OutputField`), enabling portable, maintainable, and optimizable programs without manual prompt engineering.
+
+- **Optimization & Composition Capabilities**: The framework supports automated optimization (e.g., `GEPA`) against metrics, multimodal task handling (e.g., `Image` fields), and modular composition of programs (e.g., `ChainOfThought`, `ReAct`) with reusable primitives.
 
 ## Why It Matters
 
@@ -40,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T01:50:44.682623+05:30
+- Published: 2026-07-20T03:48:36.169352+05:30
 
 ## Related Tags
 
@@ -51,9 +52,8 @@ General public resource representing technology updates, guides, or tutorials.
 - openai
 - rag
 - web-crawled
-- workflows
 - youtube
 
 ## Source
 
-Original source: https://dspy.ai/
+Original source: https://dspy-docs.vercel.app/

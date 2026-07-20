@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sierra-research/tau2-bench
-collected_at: '2026-07-18T16:51:37.267457+05:30'
-published_at: '2026-07-18T09:15:52Z'
+collected_at: '2026-07-20T03:44:38.378903+05:30'
+published_at: '2026-07-19T16:21:00Z'
 tags:
 - agents
 - benchmark
@@ -13,7 +13,7 @@ tags:
 - hackernews
 - python
 - workflows
-stars: 1603
+stars: 1612
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-06-09T23:46:17Z'
 pushed_at: '2026-07-18T00:10:38Z'
 resource_id: github:sierra-research/tau2-bench
-first_seen: '2026-07-18T16:51:37.267457+05:30'
-last_seen: '2026-07-18T16:51:37.267457+05:30'
-last_checked: '2026-07-18T16:51:37.267457+05:30'
+first_seen: '2026-07-20T03:44:38.378903+05:30'
+last_seen: '2026-07-20T03:44:38.378903+05:30'
+last_checked: '2026-07-20T03:44:38.378903+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions across real-world domains, focusing on conversational agents and LLM-based tool integration with a structured, multi-domain evaluation framework.
+- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions in real-world domains, focusing on conversational agents and LLM-based systems with tool-use capabilities.
 
-- **Technical Scope**: Implemented in Python, the benchmark includes standardized interfaces for tool-agent-user workflows, enabling reproducible testing of agent capabilities in dynamic, multi-turn interactions.
+- **Technical Scope**: Implemented in Python, the benchmark assesses multi-turn interactions, tool integration, and dynamic user-agent-tool coordination across diverse scenarios.
 
-- **Evaluation Metrics**: Measures performance via domain-specific success criteria, interaction efficiency, and robustness, providing quantifiable insights into agent adaptability and tool-use proficiency in practical scenarios.
+- **Evaluation Metrics**: Measures performance via task completion rates, interaction efficiency, and robustness in handling real-world tool-agent-user workflows.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: sierra-research
-- Stars: 1603
-- Forks: 410
+- Stars: 1612
+- Forks: 412
 - Language: Python
 - Topics: ai, benchmark, conversational-agents, language-model-agent, llm
-- Last Updated: 2026-07-18T09:15:52Z
+- Last Updated: 2026-07-19T16:21:00Z
 - License: MIT
 - Archived: No
 - Created At: 2025-06-09T23:46:17Z

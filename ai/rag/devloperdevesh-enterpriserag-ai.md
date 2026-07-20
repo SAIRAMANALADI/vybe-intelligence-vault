@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-07-18T16:50:12.134921+05:30'
-published_at: '2026-07-17T06:42:04Z'
+collected_at: '2026-07-20T03:43:13.273650+05:30'
+published_at: '2026-07-19T13:51:41Z'
 tags:
 - agents
 - github-repo
@@ -17,11 +17,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2026-01-02T09:29:28Z'
-pushed_at: '2026-07-17T06:41:55Z'
+pushed_at: '2026-07-19T13:56:19Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-07-18T16:50:12.134921+05:30'
-last_seen: '2026-07-18T16:50:12.134921+05:30'
-last_checked: '2026-07-18T16:50:12.134921+05:30'
+first_seen: '2026-07-20T03:43:13.273650+05:30'
+last_seen: '2026-07-20T03:43:13.273650+05:30'
+last_checked: '2026-07-20T03:43:13.273650+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using eBPF for runtime monitoring and enforcement within a Linux-native architecture.
+- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native eBPF (extended Berkeley Packet Filter) for real-time monitoring, filtering, and enforcement of policies at the kernel level.
 
-- **Enterprise-Grade RAG Pipeline**: Deploys a FastAPI-based backend with TypeScript, integrating LLM, vector databases, and GenAI for scalable Retrieval-Augmented Generation (RAG) in SaaS environments.
+- **Enterprise-Grade RAG Pipeline**: Deploys a Retrieval-Augmented Generation (RAG) system with FastAPI backend, TypeScript frontend, and vector database integration for scalable, secure, and auditable AI-driven decision-making in SaaS environments.
 
-- **Security & Governance Focus**: Enforces fine-grained access control, audit logging, and real-time policy enforcement for AI workloads, leveraging vector DBs for contextual security policies.
+- **Multi-Tenant Governance**: Enforces role-based access control (RBAC), data lineage tracking, and compliance logging via a modular architecture, ensuring secure multi-tenant isolation for AI workloads in production environments.
 
 ## Why It Matters
 
@@ -46,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 55
 - Language: TypeScript
 - Topics: backend, fastapi, genai, llm, rag, saas-ai, vector-db
-- Last Updated: 2026-07-17T06:42:04Z
+- Last Updated: 2026-07-19T13:51:41Z
 - License: MIT
 - Archived: No
 - Created At: 2026-01-02T09:29:28Z
-- Pushed At: 2026-07-17T06:41:55Z
+- Pushed At: 2026-07-19T13:56:19Z
 
 ## Possible Use Cases
 

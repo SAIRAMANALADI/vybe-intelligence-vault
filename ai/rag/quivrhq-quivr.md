@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-07-18T16:50:07.177703+05:30'
-published_at: '2026-07-18T05:55:12Z'
+collected_at: '2026-07-20T03:43:08.352181+05:30'
+published_at: '2026-07-19T21:01:10Z'
 tags:
 - frontend_ui
 - github-repo
@@ -14,7 +14,7 @@ tags:
 - openai
 - python
 - rag
-stars: 39220
+stars: 39225
 language: Python
 status: active
 license: NOASSERTION
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-07-18T16:50:07.177703+05:30'
-last_seen: '2026-07-18T16:50:07.177703+05:30'
-last_checked: '2026-07-18T16:50:07.177703+05:30'
+first_seen: '2026-07-20T03:43:08.352181+05:30'
+last_seen: '2026-07-20T03:43:08.352181+05:30'
+last_checked: '2026-07-20T03:43:08.352181+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr is a Python-based, opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization for LLMs (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss).
+- **Modular RAG Framework**: Quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities while offering customization for LLM (e.g., GPT4, Groq, Llama) and vector store (e.g., PGVector, Faiss) compatibility.
 
-- **Multi-Platform & File Support**: Enables integration with any file type, frontend (React/TypeScript), and backend (Dockerized), with API-driven architecture for flexible deployment across environments.
+- **Multi-Format & Multi-Store Support**: Supports integration with any file type, LLM provider, and vector database, enabling flexible deployment across diverse tech stacks (e.g., PostgreSQL, Docker, React/TypeScript frontend).
 
-- **Privacy & Security Focus**: Prioritizes data privacy and security, offering PostgreSQL-backed storage, customizable access controls, and support for local/private LLM deployments (e.g., Llama).
+- **Privacy & Security Focus**: Emphasizes data privacy and security, providing tools for controlled access and secure interactions, while offering APIs for easy embedding into existing products.
 
 ## Why It Matters
 
@@ -45,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: QuivrHQ
-- Stars: 39220
-- Forks: 3720
+- Stars: 39225
+- Forks: 3718
 - Language: Python
 - Topics: ai, api, chatbot, chatgpt, database, docker, framework, frontend, groq, html, javascript, llm, openai, postgresql, privacy, rag, react, security, typescript, vector
-- Last Updated: 2026-07-18T05:55:12Z
+- Last Updated: 2026-07-19T21:01:10Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-05-12T23:53:30Z

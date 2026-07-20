@@ -1,27 +1,13 @@
 ---
-title: douinc/agent-skills
-category: daily-digests/2026-07-19
-tech_stack:
-- JavaScript/TypeScript
-- CLI tools
-- Figma API
-- Iconify API
-- SVGL API
-- Laravel AI SDK
-- Langfuse
-- shadcn/ui
-- Next.js
+title: "douinc/agent-skills"
+category: "Tooling"
+tech_stack: ["JavaScript/TypeScript", "CLI tools", "Figma API", "Iconify API", "SVGL API", "Laravel AI SDK", "Langfuse", "shadcn/ui", "Next.js"]
 quality_score: 8
 rag_relevance: 7
-tags:
-- AI agent skills
-- modular tooling
-- Figma integration
-- UX writing
-- observability
-source: https://github.com/douinc/agent-skills
-discovered_at: '2026-07-13T06:15:42Z'
-evaluated_by: mistral-small-latest
+tags: ["AI agent skills", "modular tooling", "Figma integration", "UX writing", "observability"]
+source: "https://github.com/douinc/agent-skills"
+discovered_at: "2026-07-13T06:15:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

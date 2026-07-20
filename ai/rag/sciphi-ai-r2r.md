@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SciPhi-AI/R2R
-collected_at: '2026-07-18T16:50:22.233385+05:30'
-published_at: '2026-07-17T05:48:54Z'
+collected_at: '2026-07-20T03:43:23.333695+05:30'
+published_at: '2026-07-19T06:52:05Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-02-12T03:24:27Z'
 pushed_at: '2025-11-07T01:02:44Z'
 resource_id: github:sciphi-ai/r2r
-first_seen: '2026-07-18T16:50:22.233385+05:30'
-last_seen: '2026-07-18T16:50:22.233385+05:30'
-last_checked: '2026-07-18T16:50:22.233385+05:30'
+first_seen: '2026-07-20T03:43:23.333695+05:30'
+last_seen: '2026-07-20T03:43:23.333695+05:30'
+last_checked: '2026-07-20T03:43:23.333695+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG System**: Implements a production-ready, agentic Retrieval-Augmented Generation (RAG) framework with RESTful API support for dynamic, multi-step retrieval and generation workflows.
-
-- **Modular Python Architecture**: Built in Python with extensible components for document ingestion, vector search, and LLM integration, optimized for scalability and low-latency inference.
-
-- **Advanced Retrieval Capabilities**: Supports hybrid search (semantic + keyword), metadata filtering, and adaptive retrieval strategies, with real-time updates and versioned document tracking.
+- **Production-ready RAG system**: Open-source framework implementing **agentic Retrieval-Augmented Generation (RAG)** with a **RESTful API**, optimized for large-scale AI retrieval tasks.
+- **Technical stack**: Built in **Python**, supporting **question-answering**, **LLM integration**, and **retrieval systems** with modular components for extensibility.
+- **Performance & ecosystem**: **7,931+ stars**, **641 forks**, actively maintained (last update: **2026-07-19**), with topics covering **AI, RAG, and search** workflows.
 
 ## Why It Matters
 
@@ -47,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 641
 - Language: Python
 - Topics: artificial-intelligence, large-language-models, python, question-answering, rag, retrieval-augmented-generation, retrieval-systems, search
-- Last Updated: 2026-07-17T05:48:54Z
+- Last Updated: 2026-07-19T06:52:05Z
 - License: MIT
 - Archived: No
 - Created At: 2024-02-12T03:24:27Z

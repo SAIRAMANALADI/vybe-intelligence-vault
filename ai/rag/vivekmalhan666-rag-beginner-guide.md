@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/VivekMalhan666/rag-beginner-guide
-collected_at: '2026-07-13T09:39:58.801912+05:30'
+collected_at: '2026-07-20T03:46:28.420501+05:30'
 published_at: '2026-02-13T16:22:48Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2025-12-25T17:14:02Z'
 pushed_at: '2025-12-26T14:09:43Z'
 resource_id: github:vivekmalhan666/rag-beginner-guide
-first_seen: '2026-07-13T09:39:58.801912+05:30'
-last_seen: '2026-07-13T09:39:58.801912+05:30'
-last_checked: '2026-07-13T09:39:58.801912+05:30'
+first_seen: '2026-07-20T03:46:28.420501+05:30'
+last_seen: '2026-07-20T03:46:28.420501+05:30'
+last_checked: '2026-07-20T03:46:28.420501+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Step-by-step RAG implementation**: Provides a beginner-friendly guide to building a Retrieval-Augmented Generation (RAG) system from scratch in Python, avoiding abstracted solutions.
-- **Core components**: Covers essential RAG elements (e.g., document retrieval, embedding generation, and LLM integration) without relying on high-level libraries or frameworks.
-- **Practical focus**: Emphasizes hands-on coding with clear, executable examples, ensuring learners understand underlying mechanics rather than relying on "magic" abstractions.
+- **Step-by-step RAG implementation**: Python-based guide for building a Retrieval-Augmented Generation (RAG) system from scratch, focusing on beginner-friendly, non-abstracted code.
+- **Core components**: Covers document retrieval (vector embeddings, similarity search) and generation (LLM integration) without relying on high-level abstractions.
+- **Minimal dependencies**: Uses standard Python libraries (e.g., `sentence-transformers`, `faiss`) for embedding and retrieval, ensuring transparency and reproducibility.
 
 ## Why It Matters
 

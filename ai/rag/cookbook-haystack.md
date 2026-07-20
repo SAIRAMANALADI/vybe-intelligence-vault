@@ -4,15 +4,13 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/cookbook
-published_at: '2026-07-08T01:52:33.759543+05:30'
-collected_at: '2026-07-08T01:52:33.759560+05:30'
+published_at: '2026-07-20T03:50:19.481499+05:30'
+collected_at: '2026-07-20T03:50:19.481517+05:30'
 tags:
 - agents
-- anthropic
 - benchmark
 - hackernews
 - meta-ai
-- mistral
 - models
 - openai
 - rag
@@ -22,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:cookbook-haystack
-first_seen: '2026-07-08T01:52:33.759560+05:30'
-last_seen: '2026-07-08T01:52:33.759560+05:30'
-last_checked: '2026-07-08T01:52:33.759560+05:30'
+first_seen: '2026-07-20T03:50:19.481517+05:30'
+last_seen: '2026-07-20T03:50:19.481517+05:30'
+last_checked: '2026-07-20T03:50:19.481517+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Cookbook**: Repository of 71 technical recipes demonstrating Haystack's integration with model providers, vector databases, retrieval techniques, and advanced features like agents, multimodal RAG, and async pipelines.
+- **Haystack Cookbook**: Repository of 47 technical recipes demonstrating integration of model providers, vector databases, retrieval techniques, and custom tools in Haystack pipelines, covering topics like RAG, agents, multimodal processing, and evaluation.
 
-- **Key Recipes**: Includes agentic itinerary planning with OpenStreetMap, hybrid RAG with breakpoints, vLLM inference engine integration, and multimodal agent workflows with fastRAG.
+- **Key Recipes**: Includes advanced RAG pipelines (e.g., query decomposition, HyDE, hybrid retrieval), agentic workflows (e.g., browser agents, GitHub issue resolvers), and integrations with tools like vLLM, NVIDIA NIMs, and Azure AI Search.
 
-- **Advanced Topics**: Covers experimental features (e.g., Mem0 memory store), guardrails for safety moderation, metadata enrichment, and evaluations using tools like Arize Phoenix and DeepEval.
+- **Experimental & Observability**: Features experimental setups (e.g., Mem0 memory store, DSPy prompt optimization) and observability tools (e.g., Arize Phoenix for RAG evaluation and tracing).
 
 ## Why It Matters
 
@@ -46,16 +44,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T01:52:33.759543+05:30
+- Published: 2026-07-20T03:50:19.481499+05:30
 
 ## Related Tags
 
 - agents
-- anthropic
 - benchmark
 - hackernews
 - meta-ai
-- mistral
 - models
 - openai
 - rag

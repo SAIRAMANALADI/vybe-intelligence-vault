@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-07-18T16:51:52.273624+05:30'
-published_at: '2026-07-18T04:12:51Z'
+collected_at: '2026-07-20T03:44:53.399253+05:30'
+published_at: '2026-07-19T19:33:31Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - python
 - rag
 - scripts
@@ -20,11 +21,11 @@ status: active
 license: AGPL-3.0
 archived: false
 created_at: '2024-02-27T06:48:32Z'
-pushed_at: '2026-07-17T21:24:03Z'
+pushed_at: '2026-07-19T22:08:05Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-07-18T16:51:52.273624+05:30'
-last_seen: '2026-07-18T16:51:52.273624+05:30'
-last_checked: '2026-07-18T16:51:52.273624+05:30'
+first_seen: '2026-07-20T03:44:53.399253+05:30'
+last_seen: '2026-07-20T03:44:53.399253+05:30'
+last_checked: '2026-07-20T03:44:53.399253+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Architecture**: Python-based open-source security automation platform leveraging FastAPI, Temporal.io for workflow orchestration, and Next.js for the frontend, enabling event-driven, low-code security operations.
+- **Platform Architecture**: Python-based, event-driven security automation platform leveraging FastAPI for backend, Next.js for frontend, and Temporal.io for workflow orchestration, with OpenAPI/Pydantic for schema validation and API contracts.
 
-- **Core Components**: Integrates Pydantic for data validation, OpenAPI for API specification, and LLM-driven agents for autonomous security task execution and monitoring.
+- **Core Features**: Low-code workflow engine enabling security teams/AI agents to automate incident response, monitoring, and orchestration via modular Python actions, with LLM integration for dynamic decision-making.
 
-- **Deployment & Scalability**: Designed for teams and AI agents with modular workflows, supporting high scalability via temporal.io's temporal workflow engine and real-time event processing.
+- **Technical Stack**: Built on temporalio for durable execution, supports OpenAPI specs, and integrates Pydantic for data validation, emphasizing scalability, reliability, and extensibility for security operations.
 
 ## Why It Matters
 
@@ -46,14 +47,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: TracecatHQ
 - Stars: 3733
-- Forks: 391
+- Forks: 392
 - Language: Python
 - Topics: agents, automation, event-driven, fastapi, llm, low-code, monitoring, nextjs, openapi, orchestration, pydantic, security, temporalio, workflow-engine
-- Last Updated: 2026-07-18T04:12:51Z
+- Last Updated: 2026-07-19T19:33:31Z
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2024-02-27T06:48:32Z
-- Pushed At: 2026-07-17T21:24:03Z
+- Pushed At: 2026-07-19T22:08:05Z
 
 ## Possible Use Cases
 
