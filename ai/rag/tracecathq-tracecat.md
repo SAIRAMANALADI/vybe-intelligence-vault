@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-07-20T15:08:31.079652+05:30'
+collected_at: '2026-07-20T20:08:13.599265+05:30'
 published_at: '2026-07-20T05:36:26Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - python
 - rag
 - scripts
@@ -23,9 +22,9 @@ archived: false
 created_at: '2024-02-27T06:48:32Z'
 pushed_at: '2026-07-19T23:58:55Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-07-20T15:08:31.079652+05:30'
-last_seen: '2026-07-20T15:08:31.079652+05:30'
-last_checked: '2026-07-20T15:08:31.079652+05:30'
+first_seen: '2026-07-20T20:08:13.599265+05:30'
+last_seen: '2026-07-20T20:08:13.599265+05:30'
+last_checked: '2026-07-20T20:08:13.599265+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Python-based open-source security automation platform leveraging FastAPI, Pydantic, and Temporal.io for event-driven workflow orchestration, with a Next.js frontend and OpenAPI integration for low-code security automation.
+- **Platform Architecture**: Python-based open-source security automation platform leveraging FastAPI for backend services, Next.js for frontend, and Temporal.io for workflow orchestration with event-driven architecture.
 
-- **Key Features**: Supports LLM integration, AI agent collaboration, and real-time monitoring with a workflow engine designed for security operations and automation.
+- **Key Components**: Integrates Pydantic for data validation, OpenAPI for API documentation, and supports low-code workflows with LLM (Large Language Model) agents for security operations and monitoring.
 
-- **Technical Stack**: Built with FastAPI (backend), Next.js (frontend), Pydantic (data validation), and Temporal.io (workflow orchestration), optimized for low-code security automation and scalable event processing.
+- **Deployment & Scalability**: Designed for teams and AI agents with modular design, enabling scalable security automation via temporal workflows and real-time monitoring capabilities.
 
 ## Why It Matters
 

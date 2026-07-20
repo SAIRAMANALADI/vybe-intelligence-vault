@@ -1,13 +1,34 @@
 ---
-title: "vtnguyen04/KnowledgeForge"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "LangGraph", "LangChain", "LiteLLM", "mem0", "Qdrant/Chroma", "BM25", "LangSmith", "Langfuse", "Prometheus", "Docker", "JWT", "MongoDB", "Redis", "Docling"]
+title: vtnguyen04/KnowledgeForge
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- FastAPI
+- LangGraph
+- LangChain
+- LiteLLM
+- mem0
+- Qdrant/Chroma
+- BM25
+- LangSmith
+- Langfuse
+- Prometheus
+- Docker
+- JWT
+- MongoDB
+- Redis
+- Docling
 quality_score: 9
 rag_relevance: 10
-tags: ["Enterprise RAG", "Multi-Tenant", "Agentic Workflow", "Graph RAG", "Observability"]
-source: "https://github.com/vtnguyen04/KnowledgeForge"
-discovered_at: "2026-07-18T17:56:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Enterprise RAG
+- Multi-Tenant
+- Agentic Workflow
+- Graph RAG
+- Observability
+source: https://github.com/vtnguyen04/KnowledgeForge
+discovered_at: '2026-07-18T17:56:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

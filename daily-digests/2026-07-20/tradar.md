@@ -1,13 +1,29 @@
 ---
-title: "yongchoooon/tradar"
-category: "Tooling"
-tech_stack: ["Python", "DINOv2", "MetaCLIP2", "BM25", "PostgreSQL", "pgvector", "OpenSearch", "React", "AWS (ECS/Fargate, S3, CloudFront, ALB)", "WebSocket", "pytest"]
+title: yongchoooon/tradar
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- DINOv2
+- MetaCLIP2
+- BM25
+- PostgreSQL
+- pgvector
+- OpenSearch
+- React
+- AWS (ECS/Fargate, S3, CloudFront, ALB)
+- WebSocket
+- pytest
 quality_score: 8
 rag_relevance: 7
-tags: ["trademark clearance", "multimodal retrieval", "agent simulation", "conflict risk assessment", "interactive RAG"]
-source: "https://github.com/yongchoooon/tradar"
-discovered_at: "2026-07-15T02:12:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- trademark clearance
+- multimodal retrieval
+- agent simulation
+- conflict risk assessment
+- interactive RAG
+source: https://github.com/yongchoooon/tradar
+discovered_at: '2026-07-15T02:12:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

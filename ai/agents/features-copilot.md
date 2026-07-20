@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/copilot/cli
-published_at: '2026-07-20T15:12:25.183750+05:30'
-collected_at: '2026-07-20T15:12:25.183763+05:30'
+published_at: '2026-07-20T20:11:30.511951+05:30'
+collected_at: '2026-07-20T20:11:30.511967+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-07-20T15:12:25.183763+05:30'
-last_seen: '2026-07-20T15:12:25.183763+05:30'
-last_checked: '2026-07-20T15:12:25.183763+05:30'
+first_seen: '2026-07-20T20:11:30.511967+05:30'
+last_seen: '2026-07-20T20:11:30.511967+05:30'
+last_checked: '2026-07-20T20:11:30.511967+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent & Parallel Execution**: Copilot CLI enables `/fleet`-based parallelized subagents for concurrent task execution, with `/model` switching across providers (Anthropic, Google, OpenAI) and `/plan` to `/autopilot` workflows for autonomous task progression.
+- **Multi-Agent Workflows**: Copilot CLI supports `/fleet` for parallelized subagent execution across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching, enabling concurrent task processing and decision convergence.
 
-- **GitHub-Native MCP Integration**: Built on GitHub’s native Model Context Protocol (MCP), it natively interacts with issues, PRs, branches, and labels while inheriting organizational policies (branch protections, governance) and enabling `/remote` cross-device monitoring.
+- **GitHub-Native Integration**: Built on GitHub’s native `/mcp` protocol, it interacts with issues, PRs, branches, and labels while enforcing org-specific policies (e.g., branch protections, required checks) via Copilot Business/Enterprise subscriptions.
 
-- **Customizable & Extensible**: Supports `/agent` and `/skills` for defining custom instructions via `AGENTS.md`, MCP server integrations for tool extensions, and SDK-based app development (`npm install -g @github/copilot`), with session persistence and explicit approval for all file/command modifications.
+- **Terminal-to-IDE Continuity**: Enables `/plan` → CLI execution → VS Code refinement workflows, with `/delegate` for autonomous branch/PR creation and `/remote` for cross-device monitoring via GitHub.com or mobile.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-20T15:12:25.183750+05:30
+- Published: 2026-07-20T20:11:30.511951+05:30
 
 ## Related Tags
 

@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Phala-Network/ai-agent-template-openai
-collected_at: '2026-07-20T15:07:40.979589+05:30'
+collected_at: '2026-07-20T20:07:18.402302+05:30'
 published_at: '2026-07-20T07:13:51Z'
 tags:
 - agents
 - github-repo
 - openai
 - rag
+- scripts
 - typescript
 stars: 219
 language: TypeScript
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-03-28T19:00:47Z'
 pushed_at: '2024-09-05T18:01:35Z'
 resource_id: github:phala-network/ai-agent-template-openai
-first_seen: '2026-07-20T15:07:40.979589+05:30'
-last_seen: '2026-07-20T15:07:40.979589+05:30'
-last_checked: '2026-07-20T15:07:40.979589+05:30'
+first_seen: '2026-07-20T20:07:18.402302+05:30'
+last_seen: '2026-07-20T20:07:18.402302+05:30'
+last_checked: '2026-07-20T20:07:18.402302+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Structure**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with Phala Network, enabling on-chain AI agent interactions.
+- **Template Structure**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with the Phala Network, enabling on-chain AI inference and execution.
 
-- **Key Components**: Includes pre-configured modules for OpenAI API integration, secure contract deployment, and interoperability with Phala's confidential computing infrastructure.
+- **Phala Network Integration**: Leverages Phala's confidential computing (TEE-based) infrastructure to ensure secure, private, and verifiable AI agent interactions on-chain.
 
-- **Purpose**: Facilitates the development of AI agents that execute securely on Phala's decentralized cloud, leveraging OpenAI's models while maintaining data privacy.
+- **OpenAI API Compatibility**: Designed to seamlessly connect with OpenAI's API endpoints, allowing AI agents to perform tasks like natural language processing, decision-making, and automation within smart contracts.
 
 ## Why It Matters
 

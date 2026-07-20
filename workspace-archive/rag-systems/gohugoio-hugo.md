@@ -3,7 +3,7 @@ title: Releases · gohugoio/hugo · GitHub
 archive_category: rag-systems
 source_category: ai/rag
 source_url: https://github.com/gohugoio/hugo/releases
-resource_id: github:gohugoio/hugo
+resource_id: github:gohugoio/hugo-9fba8015
 local_vault_path: ai/rag/gohugoio-hugo.md
 quality_score: 70
 archive_score: 77

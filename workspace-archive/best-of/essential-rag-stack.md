@@ -8,14 +8,24 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
-### [Danielskry/Awesome-RAG](https://github.com/Danielskry/Awesome-RAG)
+### [pguso/rag-from-scratch](https://github.com/pguso/rag-from-scratch)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`danielskry-awesome-rag.md`](../../ai/rag/danielskry-awesome-rag.md)
+- **Score**: `89` | **Path**: [`pguso-rag-from-scratch.md`](../../ai/rag/pguso-rag-from-scratch.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`truefoundry-cognita.md`](../../ai/rag/truefoundry-cognita.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`kruxai-ragbuilder.md`](../../ai/rag/kruxai-ragbuilder.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [pguso/rag-from-scratch](https://github.com/pguso/rag-from-scratch)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`pguso-rag-from-scratch.md`](../../ai/rag/pguso-rag-from-scratch.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/)
@@ -43,30 +53,20 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`kyrolabs-awesome-agents.md`](../../ai/rag/kyrolabs-awesome-agents.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
-- **Category**: `ai/rag` | **Kind**: `API` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`yonatangross-orchestkit.md`](../../ai/rag/yonatangross-orchestkit.md)
+### [llmware-ai/llmware](https://github.com/llmware-ai/llmware)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`llmware-ai-llmware.md`](../../ai/rag/llmware-ai-llmware.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
+- **Category**: `ai/rag` | **Kind**: `WORKFLOW` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`ajac-zero-example-rag-app.md`](../../ai/rag/ajac-zero-example-rag-app.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
-- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`decodingai-magazine-llm-twin-course.md`](../../ai/rag/decodingai-magazine-llm-twin-course.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
+### [CodeQL documentation](https://codeql.github.com/docs)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`deepset-ai-haystack.md`](../../ai/rag/deepset-ai-haystack.md)
+- **Score**: `87` | **Path**: [`codeql-documentation.md`](../../ai/rag/codeql-documentation.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
-
-### [List of CommonMark Implementations · commonmark/commonmark-spec Wiki · GitHub](https://github.com/commonmark/commonmark-spec/wiki/List-of-CommonMark-Implementations)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`commonmark-commonmark-spec.md`](../../ai/rag/commonmark-commonmark-spec.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [cli/cli](https://github.com/cli/cli)
-- **Category**: `ai/rag` | **Kind**: `API` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`cli-cli.md`](../../ai/rag/cli-cli.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-20 15:22 IST*
+*Last updated: 2026-07-20 20:22 IST*

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.github.com/
-published_at: '2026-07-20T15:12:24.496168+05:30'
-collected_at: '2026-07-20T15:12:24.496177+05:30'
+published_at: '2026-07-20T20:09:34.855056+05:30'
+collected_at: '2026-07-20T20:09:34.855069+05:30'
 tags:
 - agents
 - scripts
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-docs
-first_seen: '2026-07-20T15:12:24.496177+05:30'
-last_seen: '2026-07-20T15:12:24.496177+05:30'
-last_checked: '2026-07-20T15:12:24.496177+05:30'
+first_seen: '2026-07-20T20:09:34.855069+05:30'
+last_seen: '2026-07-20T20:09:34.855069+05:30'
+last_checked: '2026-07-20T20:09:34.855069+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Core GitHub Services**: GitHub provides version control (Git), secure remote repositories, and collaboration tools (pull requests, discussions) with integrations for CI/CD (GitHub Actions), package management (GitHub Packages), and static hosting (GitHub Pages).
+- **GitHub Core Functionality**: GitHub integrates Git, a distributed version control system, with cloud-based collaboration tools for repository management, pull requests, and issue tracking.
 
-- **Security & Compliance**: Features include secret scanning, vulnerability detection (CodeQL), supply chain security (Dependabot), and enterprise-scale security policies with audit logging and role-based access control.
+- **CI/CD & Security**: Supports GitHub Actions for workflow automation, GitHub Packages for artifact management, and CodeQL for static analysis to detect vulnerabilities in code.
 
-- **Developer & Automation Tools**: Supports REST/GraphQL APIs, webhooks, GitHub CLI, and Copilot for AI-driven coding, alongside project management (GitHub Issues/Projects) and team/organizational workflows.
+- **Developer & Enterprise Tools**: Provides REST/GraphQL APIs, webhooks for event-driven automation, and enterprise-scale features like SSO, advanced security policies, and organization-level access controls.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-20T15:12:24.496168+05:30
+- Published: 2026-07-20T20:09:34.855056+05:30
 
 ## Related Tags
 

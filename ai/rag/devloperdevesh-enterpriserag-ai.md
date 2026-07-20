@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-07-20T15:06:50.971070+05:30'
+collected_at: '2026-07-20T20:06:33.370701+05:30'
 published_at: '2026-07-19T13:51:41Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-19T13:56:19Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-07-20T15:06:50.971070+05:30'
-last_seen: '2026-07-20T15:06:50.971070+05:30'
-last_checked: '2026-07-20T15:06:50.971070+05:30'
+first_seen: '2026-07-20T20:06:33.370701+05:30'
+last_seen: '2026-07-20T20:06:33.370701+05:30'
+last_checked: '2026-07-20T20:06:33.370701+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Leverages eBPF for low-level system monitoring and security enforcement in AI agent workloads, ensuring kernel-level governance and performance optimization.
-
-- **Enterprise-Grade RAG Pipeline**: Implements a Retrieval-Augmented Generation (RAG) framework with TypeScript backend, FastAPI for serving, and vector databases for scalable, secure LLM interactions.
-
-- **Security & Governance Mesh**: Provides a SaaS-ready AI governance layer with real-time policy enforcement, audit trails, and compliance controls for multi-tenant AI workloads.
+- **Linux-Native & eBPF-Powered**: Implements a security and governance mesh for AI agent workloads using Linux-native eBPF for runtime monitoring, enforcement, and low-overhead instrumentation.
+- **Enterprise-Grade RAG Pipeline**: Integrates FastAPI backend with TypeScript, vector databases, and GenAI/LLM components to deliver a scalable Retrieval-Augmented Generation (RAG) system optimized for SaaS AI deployments.
+- **Security & Governance Focus**: Enforces fine-grained access control, audit logging, and compliance policies across AI agent interactions while maintaining high performance via eBPF-based sandboxing and kernel-level security hooks.
 
 ## Why It Matters
 

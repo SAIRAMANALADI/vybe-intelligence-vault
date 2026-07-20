@@ -3,9 +3,9 @@ title: Privacy Policy – Privacy & Terms – Google
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://policies.google.com/privacy
-published_at: '2026-07-20T15:11:13.041643+05:30'
-collected_at: '2026-07-20T15:11:13.041657+05:30'
+source_url: https://myaccount.google.com/privacypolicy?hl=en-US
+published_at: '2026-07-20T20:14:24.452883+05:30'
+collected_at: '2026-07-20T20:14:24.452901+05:30'
 tags:
 - agents
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:privacy-policy-privacy-terms-google
-first_seen: '2026-07-20T15:11:13.041657+05:30'
-last_seen: '2026-07-20T15:11:13.041657+05:30'
-last_checked: '2026-07-20T15:11:13.041657+05:30'
+first_seen: '2026-07-20T20:14:24.452901+05:30'
+last_seen: '2026-07-20T20:14:24.452901+05:30'
+last_checked: '2026-07-20T20:14:24.452901+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Chrome) including account-linked info (emails, photos), device identifiers (IP, OS, unique IDs), and activity logs (searches, ads viewed, location data from GPS/Wi-Fi/cell towers), with retention tied to account settings and regulatory compliance.
+- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Chrome) including account-linked data (emails, docs) and non-account data (IP, device identifiers, browser activity) to personalize services and ads.
 
-- **Cross-Service Tracking**: Activity (e.g., browsing history, app usage) is synchronized via unique identifiers or signed-in accounts, enabling cross-service personalization (e.g., ad targeting, recommendations) even when users are not explicitly logged in.
+- **Location & Sensor Data**: Collects GPS, Wi-Fi/Bluetooth signals, and IP-derived location data, with storage duration dependent on user settings (e.g., Timeline, device-level controls).
 
-- **Third-Party & Public Data Integration**: Google supplements user data with publicly available sources (e.g., news articles) and trusted partner data (e.g., marketing, security partners) to enhance services, ads, and abuse prevention, using technologies like cookies, pixel tags, and browser storage.
+- **Activity Logging & Retention**: Tracks user interactions (searches, media, calls) and retains data in services like Web & App Activity; users can manage/delete via Google Account settings.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T15:11:13.041643+05:30
+- Published: 2026-07-20T20:14:24.452883+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://policies.google.com/privacy
+Original source: https://myaccount.google.com/privacypolicy?hl=en-US

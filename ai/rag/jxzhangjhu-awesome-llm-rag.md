@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-07-20T15:06:30.873552+05:30'
+collected_at: '2026-07-20T20:06:08.262006+05:30'
 published_at: '2026-07-12T12:42:50Z'
 tags:
 - github-repo
 - hackernews
+- paper
 - rag
 - unknown
 stars: 1339
@@ -18,9 +19,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-06-15T18:27:39Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-07-20T15:06:30.873552+05:30'
-last_seen: '2026-07-20T15:06:30.873552+05:30'
-last_checked: '2026-07-20T15:06:30.873552+05:30'
+first_seen: '2026-07-20T20:06:08.262006+05:30'
+last_seen: '2026-07-20T20:06:08.262006+05:30'
+last_checked: '2026-07-20T20:06:08.262006+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`jxzhangjhu/Awesome-LLM-RAG`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques for Large Language Models (LLMs), including embeddings, retrieval methods, and hybrid architectures.
-
-- **Technical Scope**: Focuses on **RAG-embeddings**, **retrieval-information**, and integration with LLMs to enhance factual accuracy, context-aware generation, and dynamic knowledge integration.
-
-- **Metadata**: 1,339 stars, 87 forks, last updated **2026-07-12**; covers topics like embeddings, LLM optimization, and retrieval mechanisms for improved generative performance.
+- **Curated RAG Resources**: Comprehensive collection of advanced retrieval-augmented generation (RAG) techniques, frameworks, and research papers for Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and integration strategies.
+- **Technical Focus**: Emphasizes retrieval-information optimization, RAG-embeddings, and scalable architectures for enhancing LLM performance via augmented knowledge retrieval.
+- **Updated Repository**: Last synchronized on 2026-07-12, with 1339 stars and 87 forks, indicating active community engagement in LLM-RAG advancements.
 
 ## Why It Matters
 

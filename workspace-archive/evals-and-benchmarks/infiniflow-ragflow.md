@@ -15,6 +15,7 @@ tags:
 - github-repo
 - go
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **RAGFlow**: Open-source Retrieval-Augmented Generation (RAG) engine integrating advanced RAG with Agent capabilities to enhance LLM context layers.
-- **Tech Stack**: Primarily implemented in Go, supporting features like context engineering, knowledge compilation, and agentic retrieval/search.
-- **Metrics**: 85,448+ GitHub stars, 9,985+ forks, last updated July 20, 2026. Focuses on LLM apps, context management, and harness engineering.
+- **Hybrid RAG-Agent Architecture**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with agentic workflows, enabling dynamic context engineering for LLMs by combining retrieval mechanisms with autonomous agent capabilities for superior contextual grounding.
+
+- **Multi-Stage Context Pipeline**: Implements a layered context management system (e.g., knowledge compilation, retrieval optimization, and agentic search) to dynamically refine and augment LLM inputs with structured, high
 
 ## Use Cases
 

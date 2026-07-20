@@ -1,13 +1,26 @@
 ---
-title: "hayashiii-ghub/hikizan"
-category: "Agent Framework"
-tech_stack: ["Shell", "Claude Code", "Codex", "Cursor", "OpenCode", "Git Hooks", "TypeScript", "Agent Skills Framework"]
+title: hayashiii-ghub/hikizan
+category: daily-digests/2026-07-20
+tech_stack:
+- Shell
+- Claude Code
+- Codex
+- Cursor
+- OpenCode
+- Git Hooks
+- TypeScript
+- Agent Skills Framework
 quality_score: 8
 rag_relevance: 7
-tags: ["AI agent workflows", "deterministic guardrails", "skill-based automation", "code review automation", "PR submission standardization"]
-source: "https://github.com/hayashiii-ghub/hikizan"
-discovered_at: "2026-07-20T06:16:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent workflows
+- deterministic guardrails
+- skill-based automation
+- code review automation
+- PR submission standardization
+source: https://github.com/hayashiii-ghub/hikizan
+discovered_at: '2026-07-20T06:16:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

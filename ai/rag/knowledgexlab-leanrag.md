@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-07-20T15:07:05.952262+05:30'
+collected_at: '2026-07-20T20:06:48.427537+05:30'
 published_at: '2026-07-19T04:58:04Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -17,9 +18,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-07-20T15:07:05.952262+05:30'
-last_seen: '2026-07-20T15:07:05.952262+05:30'
-last_checked: '2026-07-20T15:07:05.952262+05:30'
+first_seen: '2026-07-20T20:06:48.427537+05:30'
+last_seen: '2026-07-20T20:06:48.427537+05:30'
+last_checked: '2026-07-20T20:06:48.427537+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework (LeanRAG) that enhances retrieval by structuring data hierarchically and aggregating semantic relationships for improved contextual relevance in generation tasks.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., entity, relation, and subgraph-level) and semantic aggregation for improved context relevance.
 
-- **AAAI 2026 Framework**: Introduces a novel approach for knowledge-graph-driven generation, optimizing retrieval-augmented generation (RAG) with semantic aggregation to mitigate hallucinations and improve factual accuracy in downstream tasks.
+- **Efficiency Optimizations**: Uses lightweight graph pruning and dynamic indexing to reduce retrieval latency while maintaining accuracy, targeting AAAI 2026 benchmarks.
 
-- **Python Implementation**: Provides an open-source Python library for LeanRAG, supporting modular integration with knowledge graphs and hierarchical retrieval pipelines for scalable, efficient LLM augmentation.
+- **Python Implementation**: Provides modular components (e.g., graph constructors, retrievers, and aggregators) with PyTorch/TensorFlow compatibility for integration into LLM pipelines.
 
 ## Why It Matters
 

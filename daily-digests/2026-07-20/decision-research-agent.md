@@ -1,13 +1,28 @@
 ---
-title: "iTao-AI/decision-research-agent"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "LangChain", "DeepAgents", "LangGraph", "LangSmith", "SQLite", "React", "TypeScript", "Docker"]
+title: iTao-AI/decision-research-agent
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- FastAPI
+- LangChain
+- DeepAgents
+- LangGraph
+- LangSmith
+- SQLite
+- React
+- TypeScript
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["research agent", "decision-making", "evidence tracking", "durable workflows", "AI orchestration"]
-source: "https://github.com/iTao-AI/decision-research-agent"
-discovered_at: "2026-07-16T15:00:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- research agent
+- decision-making
+- evidence tracking
+- durable workflows
+- AI orchestration
+source: https://github.com/iTao-AI/decision-research-agent
+discovered_at: '2026-07-16T15:00:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

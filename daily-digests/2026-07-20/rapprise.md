@@ -1,13 +1,27 @@
 ---
-title: "jmagar/rapprise"
-category: "Tooling"
-tech_stack: ["Rust", "Model Context Protocol (MCP)", "Apprise API", "HTTP/JSON", "Docker", "GitHub Actions", "Sigstore", "SHA-256", "TOML"]
+title: jmagar/rapprise
+category: daily-digests/2026-07-20
+tech_stack:
+- Rust
+- Model Context Protocol (MCP)
+- Apprise API
+- HTTP/JSON
+- Docker
+- GitHub Actions
+- Sigstore
+- SHA-256
+- TOML
 quality_score: 9
 rag_relevance: 7
-tags: ["notification", "MCP server", "Rust", "Apprise integration", "AI workflows"]
-source: "https://github.com/jmagar/rapprise"
-discovered_at: "2026-07-19T23:56:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- notification
+- MCP server
+- Rust
+- Apprise integration
+- AI workflows
+source: https://github.com/jmagar/rapprise
+discovered_at: '2026-07-19T23:56:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

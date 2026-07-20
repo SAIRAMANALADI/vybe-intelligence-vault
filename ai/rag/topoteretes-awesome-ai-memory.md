@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/topoteretes/awesome-ai-memory
-collected_at: '2026-07-20T15:06:30.940645+05:30'
-published_at: '2026-07-20T08:37:18Z'
+collected_at: '2026-07-20T20:06:13.297254+05:30'
+published_at: '2026-07-20T12:15:57Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
 - rag
-- workflows
-stars: 819
+stars: 820
 language: Python
 status: active
 license: Apache-2.0
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-11-23T12:40:05Z'
 pushed_at: '2026-06-18T15:07:20Z'
 resource_id: github:topoteretes/awesome-ai-memory
-first_seen: '2026-07-20T15:06:30.940645+05:30'
-last_seen: '2026-07-20T15:06:30.940645+05:30'
-last_checked: '2026-07-20T15:06:30.940645+05:30'
+first_seen: '2026-07-20T20:06:13.297254+05:30'
+last_seen: '2026-07-20T20:06:13.297254+05:30'
+last_checked: '2026-07-20T20:06:13.297254+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated List**: Repository aggregates 819+ projects focused on AI memory systems, including agents, memory management, and RAG (Retrieval-Augmented Generation) implementations primarily in Python.
-- **Technical Scope**: Covers advanced topics such as long-term memory architectures, context retention, and dynamic memory optimization for AI/ML workflows.
-- **Active Maintenance**: Last updated July 2026, ensuring inclusion of recent advancements in AI memory techniques and tools.
+- **Curated list of AI memory projects**: Repository aggregates open-source and research projects focused on AI memory systems, including long-term memory, working memory, and memory-augmented architectures (e.g., Neural Turing Machines, Memory Networks).
+- **Python-centric ecosystem**: Majority of listed projects are implemented in Python, leveraging frameworks like PyTorch, TensorFlow, or LangChain for memory-augmented AI/ML pipelines.
+- **Topics span RAG to agentic memory**: Encompasses Retrieval-Augmented Generation (RAG), agent-based memory systems, and memory management techniques for LLMs and AI agents, with last update in July 2026.
 
 ## Why It Matters
 
@@ -42,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: topoteretes
-- Stars: 819
+- Stars: 820
 - Forks: 99
 - Language: Python
 - Topics: ai, ai-agents, ai-engineering, ai-memory, ai-ml, memory-management, rag
-- Last Updated: 2026-07-20T08:37:18Z
+- Last Updated: 2026-07-20T12:15:57Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-11-23T12:40:05Z

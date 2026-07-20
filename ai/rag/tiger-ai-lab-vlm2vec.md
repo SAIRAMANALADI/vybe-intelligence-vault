@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIGER-AI-Lab/VLM2Vec
-collected_at: '2026-07-20T15:07:10.960001+05:30'
+collected_at: '2026-07-20T20:06:53.494197+05:30'
 published_at: '2026-07-19T21:47:59Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - python
 - rag
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-10-07T15:14:52Z'
 pushed_at: '2026-06-24T06:17:09Z'
 resource_id: github:tiger-ai-lab/vlm2vec
-first_seen: '2026-07-20T15:07:10.960001+05:30'
-last_seen: '2026-07-20T15:07:10.960001+05:30'
-last_checked: '2026-07-20T15:07:10.960001+05:30'
+first_seen: '2026-07-20T20:06:53.494197+05:30'
+last_seen: '2026-07-20T20:06:53.494197+05:30'
+last_checked: '2026-07-20T20:06:53.494197+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Codebase for VLM2Vec series**: Hosts implementations for *VLM2Vec* (ICLR 2025), *VLM2Vec-V2* (TMLR 2026), and *MMEB-V3* (COLM 2026), focusing on multimodal embedding benchmarks (MMEB) and contrastive learning.
+- **VLM2Vec Framework**: Implements three versions (ICLR 2025, TMLR 2026, COLM 2026) of a multimodal embedding model (`VLM2Vec`, `VLM2Vec-V2`, `MMEB-V3`) leveraging contrastive learning for representation learning across images, videos, and documents.
 
-- **Key features**: Supports tasks like image/video/document retrieval, RAG, and representation learning; leverages Python with PyTorch-based contrastive learning frameworks.
+- **MMEB Benchmark Suite**: Provides a standardized evaluation framework (`MMEB`, `MMEB-V2`, `MMEB-V3`) for multimodal embedding tasks, including image retrieval, video retrieval, and visual document retrieval.
 
-- **Benchmark suite**: Provides standardized evaluation for multimodal embeddings across tasks (e.g., visual document retrieval) with updated datasets and metrics (last commit: 2026-07-19).
+- **Python Implementation**: Repository includes code for training, evaluation, and benchmarking, with support for Retrieval-Augmented Generation (RAG) and multimodal contrastive learning.
 
 ## Why It Matters
 

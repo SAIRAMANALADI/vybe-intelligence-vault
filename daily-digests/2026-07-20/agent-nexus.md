@@ -1,13 +1,26 @@
 ---
-title: "deepaksinghcs14/agent-nexus"
-category: "Orchestrator"
-tech_stack: ["Go", "PostgreSQL", "Next.js 14", "React Flow", "pgvector", "Docker", "OAuth 2.1", "SSE (Server-Sent Events)"]
+title: deepaksinghcs14/agent-nexus
+category: daily-digests/2026-07-20
+tech_stack:
+- Go
+- PostgreSQL
+- Next.js 14
+- React Flow
+- pgvector
+- Docker
+- OAuth 2.1
+- SSE (Server-Sent Events)
 quality_score: 9
 rag_relevance: 10
-tags: ["AI agent orchestration", "multi-agent workflows", "RAG (Retrieval-Augmented Generation)", "MCP server integration", "self-hosted"]
-source: "https://github.com/deepaksinghcs14/agent-nexus"
-discovered_at: "2026-07-11T05:39:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent orchestration
+- multi-agent workflows
+- RAG (Retrieval-Augmented Generation)
+- MCP server integration
+- self-hosted
+source: https://github.com/deepaksinghcs14/agent-nexus
+discovered_at: '2026-07-11T05:39:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

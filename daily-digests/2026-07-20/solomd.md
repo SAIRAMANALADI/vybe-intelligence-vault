@@ -1,13 +1,28 @@
 ---
-title: "zhitongblog/solomd"
-category: "UI Component"
-tech_stack: ["Tauri 2", "Vue 3", "CodeMirror 6", "Rust", "TypeScript", "libgit2", "YAML", "Mermaid", "KaTeX", "Ollama"]
+title: zhitongblog/solomd
+category: daily-digests/2026-07-20
+tech_stack:
+- Tauri 2
+- Vue 3
+- CodeMirror 6
+- Rust
+- TypeScript
+- libgit2
+- YAML
+- Mermaid
+- KaTeX
+- Ollama
 quality_score: 9
 rag_relevance: 10
-tags: ["markdown editor", "MCP server", "AI agent integration", "local-first", "knowledge graph"]
-source: "https://github.com/zhitongblog/solomd"
-discovered_at: "2026-07-17T10:46:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- markdown editor
+- MCP server
+- AI agent integration
+- local-first
+- knowledge graph
+source: https://github.com/zhitongblog/solomd
+discovered_at: '2026-07-17T10:46:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

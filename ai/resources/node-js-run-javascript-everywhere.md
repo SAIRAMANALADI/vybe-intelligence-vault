@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://nodejs.org/
-published_at: '2026-07-20T15:16:53.494113+05:30'
-collected_at: '2026-07-20T15:16:53.494121+05:30'
+published_at: '2026-07-20T20:13:54.186782+05:30'
+collected_at: '2026-07-20T20:13:54.186807+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:node-js-run-javascript-everywhere
-first_seen: '2026-07-20T15:16:53.494121+05:30'
-last_seen: '2026-07-20T15:16:53.494121+05:30'
-last_checked: '2026-07-20T15:16:53.494121+05:30'
+first_seen: '2026-07-20T20:13:54.186807+05:30'
+last_seen: '2026-07-20T20:13:54.186807+05:30'
+last_checked: '2026-07-20T20:13:54.186807+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Node.js** is a cross-platform JavaScript runtime enabling server-side execution of JavaScript, facilitating creation of HTTP servers, CLI tools, and scripts via event-driven, non-blocking I/O model.
-
-- **Core Capabilities**: Includes native modules for HTTP server creation (`node:http`), file system operations, cryptographic hashing, stream processing, and worker threads for parallel execution.
-
-- **Execution**: Runs JavaScript files (e.g., `server.mjs`) using the `node` command, with ES modules supported via `.mjs` extension or `"type": "module"` in `package.json`.
+- **Cross-platform JS runtime**: Node.js is an open-source, event-driven JavaScript runtime built on Chrome's V8 engine, enabling server-side execution of JS code across platforms.
+- **Core capabilities**: Supports HTTP server creation, file I/O operations (e.g., reading/hashing), stream pipelines, and multi-threading via worker threads for concurrent task execution.
+- **Modular architecture**: Uses ES modules (`import/export`) and provides a non-blocking I/O model with a rich standard library (e.g., `node:http`) for scalable network applications.
 
 ## Why It Matters
 
@@ -34,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-20T15:16:53.494113+05:30
+- Published: 2026-07-20T20:13:54.186782+05:30
 
 ## Related Tags
 

@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-20T15:07:10.938280+05:30'
+collected_at: '2026-07-20T20:06:53.438405+05:30'
 published_at: '2026-07-02T21:11:00Z'
 tags:
+- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 stars: 173
@@ -18,9 +20,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-20T15:07:10.938280+05:30'
-last_seen: '2026-07-20T15:07:10.938280+05:30'
-last_checked: '2026-07-20T15:07:10.938280+05:30'
+first_seen: '2026-07-20T20:06:53.438405+05:30'
+last_seen: '2026-07-20T20:06:53.438405+05:30'
+last_checked: '2026-07-20T20:06:53.438405+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation across diverse modalities (e.g., text, images, tables) and granularities (e.g., documents, paragraphs, entities), leveraging a unified retrieval mechanism.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence), leveraging unified embeddings and cross-modal retrieval mechanisms.
 
-- **ACL 2026 Oral Presentation**: The system is highlighted as an oral presentation at ACL 2026, indicating significant advancements in scalable, cross-modal retrieval for generative AI tasks.
+- **Modular Architecture**: Implements a plug-and-play system with modality-specific encoders, a shared retrieval index (e.g., FAISS or HNSW), and a modality-agnostic generator (e.g., LLM), allowing seamless integration of new modalities or granularities.
 
-- **Python-Based Implementation**: The repository provides a Python-based implementation optimized for integrating heterogeneous data sources into LLM pipelines, with modular components for retrieval, fusion, and generation.
+- **Benchmarking & Adaptability**: Evaluates performance on heterogeneous corpora (e.g., MIMIC-CXR for medical images, Wikipedia for text) and includes adaptive retrieval strategies to handle modality imbalance or sparse queries, optimizing for both accuracy and computational efficiency.
 
 ## Why It Matters
 

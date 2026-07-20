@@ -1,16 +1,19 @@
 ---
 title: arXiv + Replicate | Replicate
 archive_category: model-providers
-source_category: ai/resources
+source_category: ai/agents
 source_url: https://replicate.com/docs/arxiv/about
 resource_id: blog:arxiv-replicate-replicate
-local_vault_path: ai/resources/arxiv-replicate-replicate.md
+local_vault_path: ai/agents/arxiv-replicate-replicate.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- agents
+- anthropic
+- reddit
 - web-crawled
 - youtube
 selection_reason:
@@ -31,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **xai/grok-imagine-video**: Generates videos using xAI's proprietary Grok Imagine Video model, with 1.4M documented runs.
-- **alibaba/happyhorse-1.0**: Text-to-video and image-to-video model supporting 720p/1080p resolutions, 3-15s durations, and five aspect ratios (28.2K runs).
-- **google/nano-banana-2**: Fast image generation model with conversational editing, multi-image fusion, and character consistency (14.9M runs).
+- **Claude Opus 4.7**: Anthropic's latest model with enhanced agentic coding, improved vision capabilities, and superior multi-step reasoning, achieving 201K runs on Replicate.
+- **Seedream 5.0 Lite**: A lightweight image generation model featuring built-in reasoning, example-based editing, and specialized domain knowledge, with 3.1M runs on Replicate.
+- **p-Video-Avatar**: A high-speed, cost-efficient avatar/lipsync video synthesis model, optimized for performance and affordability, with 113K r
 
 ## Use Cases
 
@@ -47,4 +50,4 @@ Original source URL: https://replicate.com/docs/arxiv/about
 
 ## Local Vault File
 
-Path: [arxiv-replicate-replicate.md](../../ai/resources/arxiv-replicate-replicate.md)
+Path: [arxiv-replicate-replicate.md](../../ai/agents/arxiv-replicate-replicate.md)

@@ -4,25 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/adongwanai/AgentGuide
-collected_at: '2026-07-20T15:09:41.053188+05:30'
-published_at: '2026-07-20T09:25:40Z'
+collected_at: '2026-07-20T20:09:18.475752+05:30'
+published_at: '2026-07-20T13:51:55Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - html
 - rag
-- workflows
-stars: 7153
+stars: 7159
 language: HTML
 status: active
 archived: false
 created_at: '2025-11-03T10:46:38Z'
 pushed_at: '2026-07-09T03:48:25Z'
 resource_id: github:adongwanai/agentguide
-first_seen: '2026-07-20T15:09:41.053188+05:30'
-last_seen: '2026-07-20T15:09:41.053188+05:30'
-last_checked: '2026-07-20T15:09:41.053188+05:30'
+first_seen: '2026-07-20T20:09:18.475752+05:30'
+last_seen: '2026-07-20T20:09:18.475752+05:30'
+last_checked: '2026-07-20T20:09:18.475752+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive AI Agent Development Guide**: Covers LangGraph implementation, advanced RAG techniques, and multi-agent systems, with practical tutorials and real-world use cases.
+- **Resource Overview**: A comprehensive technical guide (`AgentGuide`) focused on AI agent development, covering LangGraph, advanced RAG, multi-agent systems, and reinforcement learning (GRPO) with practical tutorials and SFT techniques.
 
-- **Interview & Career Resources**: Includes a curated interview question database, job-hunting strategies, and transition guidance for algorithm engineers and AI roles.
+- **Key Topics**: Includes LangChain, CrewAI, GraphRAG, job-hunting frameworks, algorithm engineering interviews, and synthetic data generation for LLM training.
 
-- **Technical Stack & Methods**: Integrates CrewAI, GraphRAG, GRPO, SFT, and reinforcement learning, with a focus on data synthesis and practical agentic workflows.
+- **Repository Stats**: 7,159 stars, 712 forks; last updated July 20, 2026; primarily HTML-based documentation with technical depth in agentic systems and model optimization.
 
 ## Why It Matters
 
@@ -43,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: adongwanai
-- Stars: 7153
+- Stars: 7159
 - Forks: 712
 - Language: HTML
 - Topics: agenticrag, ai-agent, crewai, graphrag, grpo, interview, job-hunting, langchain, llm, multi-agent, rag, sft, tutorial
-- Last Updated: 2026-07-20T09:25:40Z
+- Last Updated: 2026-07-20T13:51:55Z
 - Archived: No
 - Created At: 2025-11-03T10:46:38Z
 - Pushed At: 2026-07-09T03:48:25Z

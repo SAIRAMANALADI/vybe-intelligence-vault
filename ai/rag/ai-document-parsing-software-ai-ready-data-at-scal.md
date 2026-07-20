@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=org_card
-published_at: '2026-07-19T19:31:30.573350+05:30'
-collected_at: '2026-07-19T19:31:30.573362+05:30'
+published_at: '2026-07-20T20:11:22.042088+05:30'
+collected_at: '2026-07-20T20:11:22.042099+05:30'
 tags:
 - benchmark
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:ai-document-parsing-software-ai-ready-data-at-scal
-first_seen: '2026-07-19T19:31:30.573362+05:30'
-last_seen: '2026-07-19T19:31:30.573362+05:30'
-last_checked: '2026-07-19T19:31:30.573362+05:30'
+first_seen: '2026-07-20T20:11:22.042099+05:30'
+last_seen: '2026-07-20T20:11:22.042099+05:30'
+last_checked: '2026-07-20T20:11:22.042099+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Layout-Aware Parsing**: Supports 90+ formats with advanced layout detection (headers, footers, split sections) and multimodal context extraction from charts, tables, images, handwriting, and checkboxes into clean Markdown.
+- **Multi-format parsing**: Supports 90+ document formats (PDFs, scans, invoices, healthcare forms, etc.) with layout-aware extraction of headers, footers, tables, charts, handwriting, and checkboxes into clean markdown.
 
-- **Scalable & Multilingual Processing**: Handles enterprise-grade workloads (1B+ documents processed) with granular parsing modes for cost/accuracy optimization, OCR-free multilingual support (100+ languages), and local/cloud deployment flexibility.
+- **Multimodal & multilingual**: Combines OCR, layout analysis, and multimodal understanding for charts/images, with out-of-the-box support for 100+ languages and enterprise-grade scalability (1B+ docs processed, 25M+ monthly downloads).
 
-- **Developer-Focused Integration**: Provides TypeScript/Python SDKs, live notebooks, and workflow automation (Parse → Index → Act → Decide) with enterprise features (high concurrency, dedicated support) and benchmarked reliability for complex content.
+- **Granular control & deployment**: Offers configurable parsing modes for cost/accuracy trade-offs, local/cloud deployment options, high concurrency, and dedicated enterprise support for workflow automation.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-19T19:31:30.573350+05:30
+- Published: 2026-07-20T20:11:22.042088+05:30
 
 ## Related Tags
 

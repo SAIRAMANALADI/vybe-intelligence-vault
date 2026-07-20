@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-07-20T15:07:05.944559+05:30'
+collected_at: '2026-07-20T20:06:43.407079+05:30'
 published_at: '2026-07-13T02:17:29Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-07-20T15:07:05.944559+05:30'
-last_seen: '2026-07-20T15:07:05.944559+05:30'
-last_checked: '2026-07-20T15:07:05.944559+05:30'
+first_seen: '2026-07-20T20:06:43.407079+05:30'
+last_seen: '2026-07-20T20:06:43.407079+05:30'
+last_checked: '2026-07-20T20:06:43.407079+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph RAG Architecture**: Introduces a linear graph-based retrieval mechanism for RAG, optimizing large-scale corpus indexing and retrieval efficiency by leveraging linear graph structures to reduce computational overhead while maintaining retrieval accuracy.
+- **Linear Graph RAG Architecture**: Proposes a linear-time graph-based retrieval method for RAG, replacing traditional hierarchical or dense retrieval with a linear-complexity graph traversal to optimize scalability on large-scale corpora.
 
-- **Scalability & Performance**: Demonstrates linear-time complexity for retrieval operations, enabling efficient handling of large-scale corpora (e.g., millions of documents) with minimal latency, outperforming traditional graph-based RAG methods in both speed and memory usage.
+- **Efficient Retrieval Mechanism**: Introduces a linear graph construction where nodes represent documents/chunks and edges encode semantic relationships, enabling constant-time retrieval per query while maintaining contextual relevance.
 
-- **Integration with LLMs**: Proposes a lightweight, plug-and-play framework for seamless integration with existing LLM pipelines, supporting dynamic graph updates and adaptive retrieval strategies to enhance generation quality without requiring model retraining.
+- **Performance Benchmarks**: Demonstrates state-of-the-art results on ICLR 2026 benchmarks, achieving higher accuracy and lower latency compared to hierarchical RAG and dense retrieval baselines in large-scale evaluations.
 
 ## Why It Matters
 

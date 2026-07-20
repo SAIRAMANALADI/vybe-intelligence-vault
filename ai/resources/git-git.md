@@ -4,23 +4,23 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/git/git
-collected_at: '2026-07-20T01:13:25.859627+05:30'
-published_at: '2026-07-19T18:20:25Z'
+collected_at: '2026-07-20T20:16:13.509073+05:30'
+published_at: '2026-07-20T14:42:22Z'
 tags:
 - c
 - github-repo
 - scripts
-stars: 62093
+stars: 62106
 language: C
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2008-07-23T14:21:26Z'
-pushed_at: '2026-07-19T18:17:30Z'
+pushed_at: '2026-07-20T04:41:08Z'
 resource_id: github:git/git
-first_seen: '2026-07-20T01:13:25.859627+05:30'
-last_seen: '2026-07-20T01:13:25.859627+05:30'
-last_checked: '2026-07-20T01:13:25.859627+05:30'
+first_seen: '2026-07-20T20:16:13.509073+05:30'
+last_seen: '2026-07-20T20:16:13.509073+05:30'
+last_checked: '2026-07-20T20:16:13.509073+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Mirror Repository**: Read-only Git mirror for the official Git source code, with contributions accepted via patches submitted to the mailing list using [GitGitGadget](https://gitgitgadget.github.io/).
-- **Contribution Process**: Follows `Documentation/SubmittingPatches` guidelines for submitting improvements, with no direct pull request merging.
-- **Metadata**: 62,093 stars, 28,149 forks; primarily written in C, with shell scripting support; last updated July 19, 2026.
+- **Publish-only Git mirror**: The repository serves as a read-only mirror of the official Git source code, with contributions accepted via patches submitted to the mailing list using the `Documentation/SubmittingPatches` process.
+
+- **Patch submission via GitGitGadget**: Contributors can convert pull requests into patches for mailing list review using [GitGitGadget](https://gitgitgadget.github.io/), bypassing direct repository merges.
+
+- **C-based codebase**: The project is implemented primarily in C, with auxiliary shell scripts, and is actively maintained under the topics `c`, `hacktoberfest`, and `shell`.
 
 ## Why It Matters
 
@@ -39,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: git
-- Stars: 62093
-- Forks: 28149
+- Stars: 62106
+- Forks: 28152
 - Language: C
 - Topics: c, hacktoberfest, shell
-- Last Updated: 2026-07-19T18:20:25Z
+- Last Updated: 2026-07-20T14:42:22Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2008-07-23T14:21:26Z
-- Pushed At: 2026-07-19T18:17:30Z
+- Pushed At: 2026-07-20T04:41:08Z
 
 ## Possible Use Cases
 

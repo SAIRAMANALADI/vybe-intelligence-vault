@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cloudflare/agentic-inbox
-collected_at: '2026-07-20T15:09:11.081262+05:30'
-published_at: '2026-07-20T08:30:30Z'
+collected_at: '2026-07-20T20:08:48.578048+05:30'
+published_at: '2026-07-20T14:21:14Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-stars: 6427
+stars: 6431
 language: TypeScript
 status: active
 license: Apache-2.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-04-10T00:26:27Z'
 pushed_at: '2026-04-23T21:04:17Z'
 resource_id: github:cloudflare/agentic-inbox
-first_seen: '2026-07-20T15:09:11.081262+05:30'
-last_seen: '2026-07-20T15:09:11.081262+05:30'
-last_checked: '2026-07-20T15:09:11.081262+05:30'
+first_seen: '2026-07-20T20:08:48.578048+05:30'
+last_seen: '2026-07-20T20:08:48.578048+05:30'
+last_checked: '2026-07-20T20:08:48.578048+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Self-hosted email client leveraging Cloudflare Workers for serverless execution, entirely written in TypeScript.
-
-- **AI Integration**: Incorporates an AI agent for email management, processing, and interaction directly within the Cloudflare ecosystem.
-
-- **Deployment**: Runs entirely on Cloudflare's infrastructure, enabling scalable, low-latency email handling without traditional backend servers.
+- **Architecture**: Self-hosted email client leveraging Cloudflare Workers for serverless execution, eliminating traditional backend infrastructure.
+- **AI Integration**: Incorporates an AI agent for email management, handling tasks like filtering, summarization, and automated responses.
+- **Tech Stack**: Built entirely in TypeScript, utilizing Cloudflare's edge network for low-latency, globally distributed email processing.
 
 ## Why It Matters
 
@@ -42,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: cloudflare
-- Stars: 6427
+- Stars: 6431
 - Forks: 808
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-07-20T08:30:30Z
+- Last Updated: 2026-07-20T14:21:14Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-04-10T00:26:27Z

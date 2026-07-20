@@ -4,13 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Prat011/awesome-llm-skills
-collected_at: '2026-07-20T15:08:15.982379+05:30'
+collected_at: '2026-07-20T20:07:53.419621+05:30'
 published_at: '2026-07-20T09:13:15Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - meta-ai
 - models
 - openai
@@ -23,9 +22,9 @@ archived: false
 created_at: '2025-10-22T06:15:37Z'
 pushed_at: '2026-07-14T09:53:56Z'
 resource_id: github:prat011/awesome-llm-skills
-first_seen: '2026-07-20T15:08:15.982379+05:30'
-last_seen: '2026-07-20T15:08:15.982379+05:30'
-last_checked: '2026-07-20T15:08:15.982379+05:30'
+first_seen: '2026-07-20T20:07:53.419621+05:30'
+last_seen: '2026-07-20T20:07:53.419621+05:30'
+last_checked: '2026-07-20T20:07:53.419621+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Repository containing a structured collection of LLM (Large Language Model) and AI Agent skills, tools, and resources for customizing AI workflows, compatible with platforms like Claude Code, Codex, and Gemini CLI.
+- **Curated Resource Hub**: A structured collection of tools, libraries, and frameworks for customizing LLM and AI Agent workflows, compatible with platforms like Claude Code, Codex, and Gemini CLI.
 
-- **Multi-Platform Support**: Designed to integrate with Anthropic's Claude Code, OpenAI's Codex CLI, Google's Gemini CLI, and custom AI agents, supporting models such as Llama, Qwen, and OpenCode.
+- **Multi-Platform Support**: Includes integrations for Anthropic, OpenAI, Google (Gemini), Llama, Qwen, and other LLM ecosystems, with CLI and agent-specific tooling.
 
-- **Technical Metadata**: Python-based repository with 1,403 stars, 238 forks, and last updated on July 20, 2026; categorized under topics like `anthropic`, `awesome-list`, `claude-skills`, and `llms`.
+- **Python-Based & Open-Source**: Repository is Python-centric, actively maintained (last updated July 2026), and designed for extensibility with 1.4K+ stars and 238 forks.
 
 ## Why It Matters
 

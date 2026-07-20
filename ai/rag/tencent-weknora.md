@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Tencent/WeKnora
-collected_at: '2026-07-20T15:06:00.884641+05:30'
-published_at: '2026-07-20T09:19:20Z'
+collected_at: '2026-07-20T20:05:43.307350+05:30'
+published_at: '2026-07-20T14:26:53Z'
 tags:
 - agents
 - benchmark
@@ -16,17 +16,18 @@ tags:
 - models
 - openai
 - rag
-stars: 18590
+- reddit
+stars: 18601
 language: Go
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2025-07-22T08:01:23Z'
-pushed_at: '2026-07-20T04:15:35Z'
+pushed_at: '2026-07-20T12:31:54Z'
 resource_id: github:tencent/weknora
-first_seen: '2026-07-20T15:06:00.884641+05:30'
-last_seen: '2026-07-20T15:06:00.884641+05:30'
-last_checked: '2026-07-20T15:06:00.884641+05:30'
+first_seen: '2026-07-20T20:05:43.307350+05:30'
+last_seen: '2026-07-20T20:05:43.307350+05:30'
+last_checked: '2026-07-20T20:05:43.307350+05:30'
 health_score: 100
 ---
 
@@ -34,11 +35,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal LLM Knowledge Platform**: Converts raw documents into a queryable RAG (Retrieval-Augmented Generation) system, an autonomous reasoning agent, and a self-maintaining Wiki, supporting multi-tenancy and multiple models (e.g., OpenAI, Ollama).
+- **Multi-functional LLM Platform**: Converts raw documents into a queryable RAG system, autonomous reasoning agent, and self-maintaining Wiki via Go-based modular architecture.
 
-- **Technical Stack**: Implemented in Go, featuring vector search, embeddings, semantic search, reranking, and multi-model LLM integration for enhanced question-answering and generative AI capabilities.
+- **Advanced Technical Stack**: Supports embeddings, vector/RAG, multi-model LLMs (Ollama/OpenAI), reranking, semantic search, and multi-tenancy with Go backend.
 
-- **Features**: Includes evaluation tools, chatbot interfaces, and supports both single-tenant and multi-tenant deployments, with last update on 2026-07-20.
+- **Evaluation & Deployment Tools**: Includes built-in evaluation frameworks, chatbot/QA pipelines, and supports multimodal knowledge base management with last update in 2026.
 
 ## Why It Matters
 
@@ -47,15 +48,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Tencent
-- Stars: 18590
-- Forks: 2585
+- Stars: 18601
+- Forks: 2589
 - Language: Go
 - Topics: agent, agentic, ai, chatbot, embeddings, evaluation, generative-ai, golang, knowledge-base, llm, multi-tenant, multimodel, ollama, openai, question-answering, rag, reranking, semantic-search, vector-search, wiki
-- Last Updated: 2026-07-20T09:19:20Z
+- Last Updated: 2026-07-20T14:26:53Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-07-22T08:01:23Z
-- Pushed At: 2026-07-20T04:15:35Z
+- Pushed At: 2026-07-20T12:31:54Z
 
 ## Possible Use Cases
 

@@ -1,13 +1,30 @@
 ---
-title: "aetna000/aetnamem"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "Ollama", "FastAPI", "SQLAlchemy", "Jinja2", "Pydantic", "Cryptography", "SHA-256", "HMAC", "CLI", "MCP (Model Context Protocol)"]
+title: aetna000/aetnamem
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- SQLite
+- Ollama
+- FastAPI
+- SQLAlchemy
+- Jinja2
+- Pydantic
+- Cryptography
+- SHA-256
+- HMAC
+- CLI
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 9
-tags: ["provenance-aware memory", "guarded actions", "audit chain", "local-first", "stateful agents"]
-source: "https://github.com/aetna000/aetnamem"
-discovered_at: "2026-07-15T16:21:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- provenance-aware memory
+- guarded actions
+- audit chain
+- local-first
+- stateful agents
+source: https://github.com/aetna000/aetnamem
+discovered_at: '2026-07-15T16:21:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

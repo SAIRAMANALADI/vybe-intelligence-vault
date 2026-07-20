@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-07-20T15:06:40.942634+05:30'
+collected_at: '2026-07-20T20:06:23.429542+05:30'
 published_at: '2026-07-10T09:46:49Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-07-20T15:06:40.942634+05:30'
-last_seen: '2026-07-20T15:06:40.942634+05:30'
-last_checked: '2026-07-20T15:06:40.942634+05:30'
+first_seen: '2026-07-20T20:06:23.429542+05:30'
+last_seen: '2026-07-20T20:06:23.429542+05:30'
+last_checked: '2026-07-20T20:06:23.429542+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: Introduces CRUD-RAG, a Chinese-language benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems for Large Language Models (LLMs) with a focus on **Create, Read, Update, Delete (CRUD)** operations.
-- **Evaluation Metrics**: Incorporates structured metrics to assess RAG performance in Chinese contexts, including retrieval accuracy, generation quality, and operational efficiency for dynamic knowledge updates.
-- **Dataset & Codebase**: Provides a Python-based open-source repository with curated datasets and evaluation scripts, enabling reproducible benchmarking of RAG models in Chinese language tasks.
+- **Benchmark Design**: CRUD-RAG introduces a Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems in Large Language Models (LLMs), focusing on comprehensive assessment across multiple dimensions.
+- **Evaluation Framework**: The benchmark includes **Create**, **Read**, **Update**, and **Delete** (CRUD) operations to test RAG capabilities in dynamic knowledge scenarios, ensuring robustness in real-world applications.
+- **Dataset & Metrics**: Provides a curated Chinese dataset with standardized metrics for assessing retrieval accuracy, generation quality, and end-to-end performance in RAG pipelines.
 
 ## Why It Matters
 

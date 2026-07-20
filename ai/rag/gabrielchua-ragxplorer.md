@@ -4,11 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-20T15:06:00.886375+05:30'
+collected_at: '2026-07-20T20:05:43.249700+05:30'
 published_at: '2026-07-14T09:11:11Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - hackernews
 - jupyter notebook
@@ -22,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-20T15:06:00.886375+05:30'
-last_seen: '2026-07-20T15:06:00.886375+05:30'
-last_checked: '2026-07-20T15:06:00.886375+05:30'
+first_seen: '2026-07-20T20:05:43.249700+05:30'
+last_seen: '2026-07-20T20:05:43.249700+05:30'
+last_checked: '2026-07-20T20:05:43.249700+05:30'
 health_score: 100
 ---
 
@@ -32,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source tool for interactive visualization and debugging of Retrieval-Augmented Generation (RAG) pipelines, enabling users to analyze and optimize LLM performance.
-- **Technical Stack**: Built with Python, Streamlit for the UI, and Jupyter Notebooks for interactive exploration; leverages LLM and RAG-specific libraries for data processing.
-- **Features**: Real-time visualization of retrieval, generation, and evaluation metrics; supports custom dataset integration and modular RAG pipeline inspection.
+- **Purpose**: Open-source visualization tool for Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM-based systems.
+- **Technical Stack**: Built with Python, Streamlit, and Jupyter Notebooks for dynamic, web-based visualization of RAG components.
+- **Features**: Supports real-time analysis of retrieval quality, prompt engineering, and model performance metrics via an intuitive UI.
 
 ## Why It Matters
 
@@ -44,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: gabrielchua
 - Stars: 1222
-- Forks: 114
+- Forks: 113
 - Language: Jupyter Notebook
 - Topics: interactive, llm, python, rag, streamlit, visualization
 - Last Updated: 2026-07-14T09:11:11Z

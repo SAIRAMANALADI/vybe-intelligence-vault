@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-20T15:07:05.934726+05:30'
+collected_at: '2026-07-20T20:06:48.417435+05:30'
 published_at: '2026-07-13T12:27:27Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-20T15:07:05.934726+05:30'
-last_seen: '2026-07-20T15:07:05.934726+05:30'
-last_checked: '2026-07-20T15:07:05.934726+05:30'
+first_seen: '2026-07-20T20:06:48.417435+05:30'
+last_seen: '2026-07-20T20:06:48.417435+05:30'
+last_checked: '2026-07-20T20:06:48.417435+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retention.
+- **Cognitive Architecture**: Introduces a **memory-organized RAG** system inspired by human cognition, enabling **stateful long narrative reasoning** via structured memory hierarchies for context retention.
 
-- **Stateful Reasoning Enhancement**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended dialogues or narratives, leveraging episodic and semantic memory layers.
+- **Stateful Reasoning**: Implements **dynamic memory updates** and **contextual retrieval** to maintain coherent reasoning across extended dialogues or narratives, leveraging **hierarchical memory indexing**.
 
-- **AAAI 2026 Contribution**: Proposes a novel RAG variant optimized for long-form reasoning tasks, validated through empirical benchmarks and comparative analysis against traditional RAG systems.
+- **AAAI 2026 Contribution**: Proposes a novel **post-training framework** for LLMs, optimizing **memory-driven retrieval** and **reasoning consistency** in long-form tasks, validated via poster presentation.
 
 ## Why It Matters
 

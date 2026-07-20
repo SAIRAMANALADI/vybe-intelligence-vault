@@ -1,13 +1,27 @@
 ---
-title: "06Yahya/ai-receptionist-demo"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "React 19", "Vite", "Cloudflare Workers", "Cloudflare D1", "Cloudflare Workers AI", "Vitest", "oxlint", "Wrangler"]
+title: 06Yahya/ai-receptionist-demo
+category: daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- React 19
+- Vite
+- Cloudflare Workers
+- Cloudflare D1
+- Cloudflare Workers AI
+- Vitest
+- oxlint
+- Wrangler
 quality_score: 9
 rag_relevance: 7
-tags: ["AI receptionist", "lead capture", "Cloudflare Workers", "deterministic extraction", "portfolio demo"]
-source: "https://github.com/06Yahya/ai-receptionist-demo"
-discovered_at: "2026-07-10T18:22:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI receptionist
+- lead capture
+- Cloudflare Workers
+- deterministic extraction
+- portfolio demo
+source: https://github.com/06Yahya/ai-receptionist-demo
+discovered_at: '2026-07-10T18:22:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -3,9 +3,9 @@ title: 'How YouTube Works: Giving Everyone a Voice'
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen
-published_at: '2026-06-24T22:57:51.722778+05:30'
-collected_at: '2026-06-24T22:57:51.722791+05:30'
+source_url: https://www.youtube.com/howyoutubeworks/
+published_at: '2026-07-20T20:14:16.194709+05:30'
+collected_at: '2026-07-20T20:14:16.194724+05:30'
 tags:
 - hackernews
 - producthunt
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:how-youtube-works-giving-everyone-a-voice
-first_seen: '2026-06-24T22:57:51.722791+05:30'
-last_seen: '2026-06-24T22:57:51.722791+05:30'
-last_checked: '2026-06-24T22:57:51.722791+05:30'
+first_seen: '2026-07-20T20:14:16.194724+05:30'
+last_seen: '2026-07-20T20:14:16.194724+05:30'
+last_checked: '2026-07-20T20:14:16.194724+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **AI Content Transparency**: YouTube enforces mandatory AI disclosure labels for generative AI content since 2024, enhancing viewer and creator transparency in AI-generated media.
-
-- **Likeness Detection Expansion**: Introduced advanced likeness detection tools for civic leaders and journalists to safeguard identities amid evolving AI-generated content risks.
-
-- **Digital Wellbeing Initiatives**: Committed $20M USD to global digital wellbeing programs, including a first-of-its-kind hub, to support teens' mental health and online safety.
+- **AI Content Labeling**: YouTube enforces mandatory disclosure and labeling of AI-generated or AI-altered content since 2024, enhancing transparency for viewers and creators.
+- **Likeness Detection Expansion**: New tools for civic leaders and journalists to detect unauthorized AI-generated impersonations, safeguarding identity integrity in AI-driven media.
+- **Digital Wellbeing Initiatives**: $20M funding allocated to develop a global digital wellbeing hub, focusing on teen mental health and online safety through structured educational and protective frameworks.
 
 ## Why It Matters
 
@@ -37,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T22:57:51.722778+05:30
+- Published: 2026-07-20T20:14:16.194709+05:30
 
 ## Related Tags
 
@@ -48,4 +46,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen
+Original source: https://www.youtube.com/howyoutubeworks/

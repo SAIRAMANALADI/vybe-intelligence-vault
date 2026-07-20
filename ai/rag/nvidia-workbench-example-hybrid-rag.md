@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-07-20T15:06:05.946734+05:30'
+collected_at: '2026-07-20T20:05:48.292088+05:30'
 published_at: '2026-07-19T17:27:01Z'
 tags:
+- dataset
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-07-20T15:06:05.946734+05:30'
-last_seen: '2026-07-20T15:06:05.946734+05:30'
-last_checked: '2026-07-20T15:06:05.946734+05:30'
+first_seen: '2026-07-20T20:05:48.292088+05:30'
+last_seen: '2026-07-20T20:05:48.292088+05:30'
+last_checked: '2026-07-20T20:05:48.292088+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining dense (vector-based) and sparse (keyword/BM25) retrieval methods for enhanced document search and generation.
-
-- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework for streamlined development, deployment, and experimentation of hybrid RAG models in Python.
-
-- **Modular Architecture**: Provides a structured example with reusable components for document ingestion, retrieval, and LLM-based generation, optimized for GPU acceleration.
+- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document grounding in LLMs.
+- **NVIDIA AI Workbench Integration**: Provides a reference architecture leveraging NVIDIA's AI Workbench for scalable deployment of RAG systems with optimized GPU acceleration.
+- **Python-Based Framework**: Includes modular Python components for document preprocessing, retrieval (FAISS/BM25), and LLM inference (e.g., NVIDIA NeMo or vLLM) with example datasets.
 
 ## Why It Matters
 

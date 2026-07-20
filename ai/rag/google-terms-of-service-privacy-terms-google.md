@@ -3,9 +3,9 @@ title: Google Terms of Service – Privacy & Terms – Google
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://policies.google.com/terms
-published_at: '2026-07-20T15:11:18.005080+05:30'
-collected_at: '2026-07-20T15:11:18.005093+05:30'
+source_url: https://myaccount.google.com/termsofservice?hl=en-US
+published_at: '2026-07-20T20:14:24.572582+05:30'
+collected_at: '2026-07-20T20:14:24.572598+05:30'
 tags:
 - hackernews
 - paper
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:google-terms-of-service-privacy-terms-google
-first_seen: '2026-07-20T15:11:18.005093+05:30'
-last_seen: '2026-07-20T15:11:18.005093+05:30'
-last_checked: '2026-07-20T15:11:18.005093+05:30'
+first_seen: '2026-07-20T20:14:24.572598+05:30'
+last_seen: '2026-07-20T20:14:24.572598+05:30'
+last_checked: '2026-07-20T20:14:24.572598+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Service Provider & Legal Framework**: Google LLC (Delaware-registered, US laws) provides services under updated Terms of Service (effective May 22, 2024), with future revisions planned for July 30, 2026, defining user-Google relationship, compliance obligations, and dispute resolution.
+- **Legal Entity & Jurisdiction**: Google LLC, a Delaware-registered entity operating under U.S. laws, provides services under these terms, with additional age requirements enforced via parental consent for minors.
 
-- **Content & AI Usage Policies**: Users retain IP rights over uploaded content but grant Google a license for service operation; prohibits reverse engineering, AI model training on Google-generated content, prompt injection, and fraudulent/deceptive use of generative AI outputs.
+- **Service Provision & Updates**: Google grants access to services (e.g., Search, Maps, Pixel) under compliance with these terms and service-specific policies, with AI/ML-driven improvements (e.g., spam detection, translations) requiring automatic software updates unless user-adjusted.
 
-- **Abuse Prevention & Enforcement**: Strict rules against malware, phishing, fake accounts, automated scraping (violating `robots.txt`), and IP/privacy rights violations; Google reserves rights to terminate access, report abuse, and provide export tools (e.g., Google Takeout) for user content.
+- **User Obligations & Restrictions**: Users must adhere to non-abuse clauses (e.g., no reverse engineering, prompt injection, or AI-generated content misuse), respect intellectual property/privacy rights, and comply with export controls, with enforcement via reporting mechanisms and potential service termination.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T15:11:18.005080+05:30
+- Published: 2026-07-20T20:14:24.572582+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://policies.google.com/terms
+Original source: https://myaccount.google.com/termsofservice?hl=en-US

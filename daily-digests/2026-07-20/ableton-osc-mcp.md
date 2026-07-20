@@ -1,13 +1,23 @@
 ---
-title: "nozomi-koborinai/ableton-osc-mcp"
-category: "Tooling"
-tech_stack: ["Go", "Genkit for Go", "OSC (Open Sound Control)", "AbletonOSC", "MCP (Model Context Protocol)"]
+title: nozomi-koborinai/ableton-osc-mcp
+category: daily-digests/2026-07-20
+tech_stack:
+- Go
+- Genkit for Go
+- OSC (Open Sound Control)
+- AbletonOSC
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Ableton Live", "OSC protocol", "AI music control", "music production"]
-source: "https://github.com/nozomi-koborinai/ableton-osc-mcp"
-discovered_at: "2026-07-11T02:27:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Ableton Live
+- OSC protocol
+- AI music control
+- music production
+source: https://github.com/nozomi-koborinai/ableton-osc-mcp
+discovered_at: '2026-07-11T02:27:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

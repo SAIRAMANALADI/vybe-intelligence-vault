@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama-cloud-py
-collected_at: '2026-07-20T15:12:30.196208+05:30'
+collected_at: '2026-07-20T20:11:25.567199+05:30'
 published_at: '2026-07-17T17:34:46Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-11-06T21:59:30Z'
 pushed_at: '2026-07-17T22:32:22Z'
 resource_id: github:run-llama/llama-cloud-py
-first_seen: '2026-07-20T15:12:30.196208+05:30'
-last_seen: '2026-07-20T15:12:30.196208+05:30'
-last_checked: '2026-07-20T15:12:30.196208+05:30'
+first_seen: '2026-07-20T20:11:25.567199+05:30'
+last_seen: '2026-07-20T20:11:25.567199+05:30'
+last_checked: '2026-07-20T20:11:25.567199+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Python SDK** for cloud-based OCR and document parsing, integrating with LlamaParse for advanced text extraction.
-- Supports **information extraction** and **parsing** of structured/unstructured documents via cloud API.
-- Enables **document-agent** workflows for automated processing, with recent updates (July 2026) and minimal adoption (52 stars, 13 forks).
+- Python SDK providing cloud-based OCR and document parsing via LlamaParse, enabling structured extraction from unstructured documents.
+- Supports integration with document agents for automated information extraction and parsing workflows.
+- Compatible with Python 3.x, last updated July 17, 2026, with 52 stars and 13 forks on GitHub.
 
 ## Why It Matters
 

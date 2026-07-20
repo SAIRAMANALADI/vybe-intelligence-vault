@@ -25,8 +25,8 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 - [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](https://github.com/lm-sys/FastChat/blob/main/fastchat/llm_judge/data/judge_prompts.jsonl)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
+- [Azure-Samples/azure-openai-rag-workshop-template](https://github.com/Azure-Samples/azure-openai-rag-workshop-template)
 - [junwoojeong100/azure-intelligent-app-labs](https://github.com/junwoojeong100/azure-intelligent-app-labs)
-- [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 
 ---
 
-*Last updated: 2026-07-20 15:22 IST*
+*Last updated: 2026-07-20 20:22 IST*

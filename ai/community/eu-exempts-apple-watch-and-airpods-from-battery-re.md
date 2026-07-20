@@ -13,13 +13,14 @@ collected_at: '2026-07-20T15:04:12.167171+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:eu-exempts-apple-watch-and-airpods-from-battery-re
 first_seen: '2026-07-20T15:04:12.167171+05:30'
 last_seen: '2026-07-20T15:04:12.167171+05:30'
 last_checked: '2026-07-20T15:04:12.167171+05:30'
 health_score: 100
 ---
+
 
 # EU Exempts Apple Watch and AirPods from Battery Removal Requirements
 

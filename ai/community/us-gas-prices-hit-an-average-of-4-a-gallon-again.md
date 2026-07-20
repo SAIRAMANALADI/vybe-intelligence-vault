@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:us-gas-prices-hit-an-average-of-4-a-gallon-again
 first_seen: '2026-07-20T15:04:11.978236+05:30'
 last_seen: '2026-07-20T15:04:11.978236+05:30'
 last_checked: '2026-07-20T15:04:11.978236+05:30'
 health_score: 100
 ---
+
 
 # US gas prices hit an average of $4 a gallon again
 

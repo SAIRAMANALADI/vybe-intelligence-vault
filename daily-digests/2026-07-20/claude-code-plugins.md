@@ -1,13 +1,24 @@
 ---
-title: "88plug/claude-code-plugins"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code", "Grok Build", "MCP (Model Context Protocol)", "GitHub Actions", "TOML"]
+title: 88plug/claude-code-plugins
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- Claude Code
+- Grok Build
+- MCP (Model Context Protocol)
+- GitHub Actions
+- TOML
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agent plugins", "MCP servers", "Claude Code", "Grok Build", "productivity tools"]
-source: "https://github.com/88plug/claude-code-plugins"
-discovered_at: "2026-07-19T10:26:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent plugins
+- MCP servers
+- Claude Code
+- Grok Build
+- productivity tools
+source: https://github.com/88plug/claude-code-plugins
+discovered_at: '2026-07-19T10:26:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

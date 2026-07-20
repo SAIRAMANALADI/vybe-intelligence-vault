@@ -11,8 +11,8 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- scripts
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository-level metrics** for GitHub Copilot are now generally available, enabling granular tracking of AI-assisted code generation and completion across repositories.
-- **Usage analytics** include detailed insights such as active users, completion rates, and feature adoption, accessible via GitHub’s enterprise management tools.
-- **Integration** with existing enterprise management workflows allows administrators to enforce policies, monitor compliance, and optimize Copilot deployment at sc
+- **GitHub Code Quality GA**: Introduces native code quality analysis with built-in linters, formatters, and security scanners, replacing third-party integrations.
+- **Unified Security Scanning**: Integrates SAST, DAST, and secret scanning directly into CI/CD pipelines via GitHub Actions.
+- **Automated Remediation**: Provides AI-driven fix suggestions and auto-remediation for detected issues, reducing manual intervention.
 
 ## Use Cases
 

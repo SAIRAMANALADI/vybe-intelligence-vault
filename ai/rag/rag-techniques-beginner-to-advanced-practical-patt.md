@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources/
-published_at: '2026-07-20T15:05:31.741851+05:30'
-collected_at: '2026-07-20T15:05:31.741863+05:30'
+published_at: '2026-07-20T20:05:14.011114+05:30'
+collected_at: '2026-07-20T20:05:14.011122+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-techniques-beginner-to-advanced-practical-patt
-first_seen: '2026-07-20T15:05:31.741863+05:30'
-last_seen: '2026-07-20T15:05:31.741863+05:30'
-last_checked: '2026-07-20T15:05:31.741863+05:30'
+first_seen: '2026-07-20T20:05:14.011122+05:30'
+last_seen: '2026-07-20T20:05:14.011122+05:30'
+last_checked: '2026-07-20T20:05:14.011122+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Minimal RAG Pipeline**: Combines dense embeddings (sentence-transformers), FAISS for vector search, and a seq2seq LLM (e.g., Flan-T5) for generation; supports optional sparse retrieval (BM25) for hybrid setups.
+- **Core RAG Architecture**: Combines a retriever (dense/sparse) with an LLM generator to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates via document indexing.
 
-- **Core RAG Components**: Retriever (dense/sparse), generator (LLM), embeddings (normalized vectors), chunking (400–1000 tokens with overlap), reranking (cross-encoders like monoT5), and hybrid retrieval (BM25 + vector search).
+- **Intermediate Enhancements**: Implements chunking with overlap, hybrid retrieval (BM25 + embeddings), reranking (cross-encoders), query expansion (HyDE/multi-query), and metadata filtering for precision/recall optimization.
 
-- **Advanced Techniques**: Multi-hop retrieval, GraphRAG (knowledge graphs), multi-vector retrievers, context compression, agentic RAG (tool integration), and safety mechanisms for grounded, citation-backed responses.
+- **Advanced Patterns**: Integrates multi-hop retrieval, GraphRAG (knowledge graphs), agentic tool use, context compression, and safety mechanisms to improve reasoning depth, structural grounding, and production-grade reliability.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T15:05:31.741851+05:30
+- Published: 2026-07-20T20:05:14.011114+05:30
 
 ## Related Tags
 

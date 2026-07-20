@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-07-20T15:05:30.951603+05:30'
+collected_at: '2026-07-20T20:05:13.276205+05:30'
 published_at: '2026-07-18T00:39:16Z'
 tags:
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - models
 - openai
 - rag
-- reddit
+- workflows
 stars: 894
 language: Jupyter Notebook
 status: active
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-07-20T15:05:30.951603+05:30'
-last_seen: '2026-07-20T15:05:30.951603+05:30'
-last_checked: '2026-07-20T15:05:30.951603+05:30'
+first_seen: '2026-07-20T20:05:13.276205+05:30'
+last_seen: '2026-07-20T20:05:13.276205+05:30'
+last_checked: '2026-07-20T20:05:13.276205+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Learning Path**: A structured 5-week curriculum covering RAG fundamentals, hybrid search (vector + keyword), quantization (binary/scalar), and advanced techniques like HNSW indexing and Matryoshka representation learning.
+- **5-week structured curriculum** covering advanced RAG techniques including hybrid search (vector + keyword), binary/scalar quantization, and HNSW indexing for efficient retrieval in Azure environments.
 
-- **Technical Stack**: Integrates Azure, OpenAI/GPT models, and VS Code; includes multimodal support, responsible AI practices, and optimization via vector/keyword search pipelines.
+- **Hands-on implementation** with Jupyter Notebooks, integrating OpenAI LLMs, Matryoshka representation learning, and responsible AI practices for multimodal RAG pipelines.
 
-- **Implementation Focus**: Jupyter Notebook-based labs with hands-on exercises on indexing, retrieval augmentation, and performance tuning for production-grade RAG systems.
+- **Optimized for production** with VS Code tooling, focusing on scalable retrieval architectures (e.g., scalar quantization for storage efficiency) and Azure-native deployment workflows.
 
 ## Why It Matters
 

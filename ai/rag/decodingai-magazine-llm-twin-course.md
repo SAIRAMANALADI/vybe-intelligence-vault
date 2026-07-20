@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-07-20T15:06:20.898910+05:30'
+collected_at: '2026-07-20T20:06:03.332193+05:30'
 published_at: '2026-07-19T03:42:21Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 stars: 4374
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-07-20T15:06:20.898910+05:30'
-last_seen: '2026-07-20T15:06:20.898910+05:30'
-last_checked: '2026-07-20T15:06:20.898910+05:30'
+first_seen: '2026-07-20T20:06:03.332193+05:30'
+last_seen: '2026-07-20T20:06:03.332193+05:30'
+last_checked: '2026-07-20T20:06:03.332193+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Course Structure**: Provides a hands-on, 12-lesson curriculum for building production-ready LLM and RAG systems, including source code and infrastructure-as-code (IaC) templates using Pulumi and Docker.
-
-- **Tech Stack**: Integrates AWS, Bytewax, Comet-ML, Qdrant, Qwak, and Superlinked for scalable LLM operations (LLMOps), with MLOps best practices for deployment and monitoring.
-
-- **Key Focus**: Covers end-to-end system design, ML system engineering, and infrastructure management for generative AI applications, emphasizing real-world production readiness.
+- **Course Structure**: Provides hands-on lessons (12 sessions) and source code for building production-ready LLM and RAG systems using LLMOps best practices, covering end-to-end development, deployment, and scaling.
+- **Technical Stack**: Integrates Python-based tools (Bytewax, Pulumi, Qdrant) with cloud infrastructure (AWS), MLOps (Comet-ML, Qwak), and containerization (Docker) for scalable ML system design.
+- **Key Topics**: Focuses on LLMOps, RAG pipelines, infrastructure-as-code (IaC), generative AI, and ML system design, emphasizing practical implementation and real-world deployment strategies.
 
 ## Why It Matters
 

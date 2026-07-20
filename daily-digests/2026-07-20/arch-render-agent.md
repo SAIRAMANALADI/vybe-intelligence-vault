@@ -1,13 +1,27 @@
 ---
-title: "isabelaclay47-debug/arch-render-agent"
-category: "Tooling"
-tech_stack: ["Python", "Playwright", "Chrome DevTools Protocol", "ChatGPT API", "Gemini API", "Ollama (local vision model)", "Swin2SR (local super-resolution)", "Flask (web interface)", "Pillow (image processing)"]
+title: isabelaclay47-debug/arch-render-agent
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- Playwright
+- Chrome DevTools Protocol
+- ChatGPT API
+- Gemini API
+- Ollama (local vision model)
+- Swin2SR (local super-resolution)
+- Flask (web interface)
+- Pillow (image processing)
 quality_score: 9
 rag_relevance: 6
-tags: ["architectural rendering", "AI-assisted design", "local processing", "ChatGPT integration", "image generation"]
-source: "https://github.com/isabelaclay47-debug/arch-render-agent"
-discovered_at: "2026-07-16T02:25:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- architectural rendering
+- AI-assisted design
+- local processing
+- ChatGPT integration
+- image generation
+source: https://github.com/isabelaclay47-debug/arch-render-agent
+discovered_at: '2026-07-16T02:25:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "mokhtarabadi/cognitive-lead-hq"
-category: "Orchestrator"
-tech_stack: ["Python", "FastMCP", "OpenCode", "Markdown", "Git", "MCP (Model Context Protocol)", "YAML", "Shell Scripting"]
+title: mokhtarabadi/cognitive-lead-hq
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- FastMCP
+- OpenCode
+- Markdown
+- Git
+- MCP (Model Context Protocol)
+- YAML
+- Shell Scripting
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent systems", "AI workflow automation", "MCP servers", "agent skills", "quality assurance"]
-source: "https://github.com/mokhtarabadi/cognitive-lead-hq"
-discovered_at: "2026-07-19T07:29:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- AI workflow automation
+- MCP servers
+- agent skills
+- quality assurance
+source: https://github.com/mokhtarabadi/cognitive-lead-hq
+discovered_at: '2026-07-19T07:29:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

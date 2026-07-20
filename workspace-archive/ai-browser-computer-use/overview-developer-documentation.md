@@ -12,6 +12,7 @@ resource_kind: tutorial
 importance: medium
 tags:
 - agents
+- hackernews
 - web-crawled
 selection_reason:
 - Valuable developer reference
@@ -29,8 +30,9 @@ selection_reason:
 
 ## Summary
 
-*   [Article content missing for summarization]
-*   [Please provide the full article
+- **No content provided for summarization.**
+- **Unable to generate technical bullet points without article/resource content.**
+- **Request additional information for accurate summarization.**
 
 ## Use Cases
 

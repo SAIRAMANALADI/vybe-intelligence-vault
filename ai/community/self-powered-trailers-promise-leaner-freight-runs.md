@@ -13,13 +13,14 @@ collected_at: '2026-07-20T15:04:11.675552+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:self-powered-trailers-promise-leaner-freight-runs
 first_seen: '2026-07-20T15:04:11.675552+05:30'
 last_seen: '2026-07-20T15:04:11.675552+05:30'
 last_checked: '2026-07-20T15:04:11.675552+05:30'
 health_score: 100
 ---
+
 
 # Self-Powered Trailers Promise Leaner Freight Runs
 

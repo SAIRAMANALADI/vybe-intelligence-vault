@@ -4,13 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-07-20T03:44:28.345125+05:30'
+collected_at: '2026-07-20T20:07:43.426746+05:30'
 published_at: '2026-07-18T18:48:03Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - scripts
 - shell
 - workflows
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-07-20T03:44:28.345125+05:30'
-last_seen: '2026-07-20T03:44:28.345125+05:30'
-last_checked: '2026-07-20T03:44:28.345125+05:30'
+first_seen: '2026-07-20T20:07:43.426746+05:30'
+last_seen: '2026-07-20T20:07:43.426746+05:30'
+last_checked: '2026-07-20T20:07:43.426746+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Hosts a structured wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-- **Technical Stack**: Primarily shell-based, with integration guidance for AI/agentic workflows (e.g., MCP, LLM tools) and Anthropic ecosystem compatibility.
-- **Metadata**: 64 stars, 13 forks, last updated July 18, 2026; focuses on developer tooling for AI-driven CLI automation and template-driven workflows.
+- **Setup & Configuration**: Provides structured guidelines for configuring Claude Code, including `CLAUDE.md` templates for project-specific instructions and optimal environment setup.
+
+- **Multi-Agent & Workflow Patterns**: Documents advanced patterns for multi-agent collaboration, CLI workflows, and MCP (Model Context Protocol) integration to enhance productivity and automation.
+
+- **Cost Optimization & Maintenance**: Includes strategies for cost-efficient usage of LLM-based tools, version control best practices, and continuous updates to align with Anthropic’s evolving APIs.
 
 ## Why It Matters
 

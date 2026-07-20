@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.speechify.ai/voice-agents/guides/welcome
-published_at: '2026-07-20T15:12:14.535286+05:30'
-collected_at: '2026-07-20T15:12:14.535298+05:30'
+published_at: '2026-07-20T20:12:11.972556+05:30'
+collected_at: '2026-07-20T20:12:11.972571+05:30'
 tags:
 - agents
 - benchmark
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:speechifyai-agents-real-time-voice-ai-overview-spe
-first_seen: '2026-07-20T15:12:14.535298+05:30'
-last_seen: '2026-07-20T15:12:14.535298+05:30'
-last_checked: '2026-07-20T15:12:14.535298+05:30'
+first_seen: '2026-07-20T20:12:11.972571+05:30'
+last_seen: '2026-07-20T20:12:11.972571+05:30'
+last_checked: '2026-07-20T20:12:11.972571+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Agent Framework**: SpeechifyAI Agents provides a reusable definition system combining prompt, voice, tools, and evaluation criteria, enabling real-time voice interactions via web or phone with low-latency processing (`POST /v1/agents/{id}/conversations`).
+- **Realtime Voice Pipeline**: Agents use a low-latency realtime pipeline (`POST /v1/agents/{id}/conversations`) to process speech input, agent response, and speech output, with audio, transcripts, and tool calls streamed over a session.
 
-- **Tool Integration & Evaluation**: Supports dynamic tool invocation (backend APIs, device execution, MCP servers) with built-ins like `end_call` and `transfer_to_number`, while persisting transcripts, tool traces, and post-call LLM-graded evaluations.
+- **Agent Definition & Tools**: Agents are reusable configurations (prompt, voice, tools, evaluation criteria) supporting tools like backend calls, device execution, MCP server connections, and built-ins (`end_call`, `transfer_to_number`).
 
-- **Deployment Flexibility**: Offers both API-driven integration (with version-pinned endpoints) and no-code console workflows for agent configuration, phone number attachment, and real-time preview testing.
+- **Post-Call Processing**: Conversations persist transcripts with timestamps/tool traces, and post-call evaluations include LLM-graded criteria and structured data extraction, with lifecycle events and results stored via API.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-20T15:12:14.535286+05:30
+- Published: 2026-07-20T20:12:11.972556+05:30
 
 ## Related Tags
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://changelog.langchain.com/
-published_at: '2026-07-20T15:13:13.360601+05:30'
-collected_at: '2026-07-20T15:13:13.360618+05:30'
+published_at: '2026-07-20T20:13:13.074795+05:30'
+collected_at: '2026-07-20T20:13:13.074815+05:30'
 tags:
 - agents
 - anthropic
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langsmith-cloud-changelog-docs-by-langchain
-first_seen: '2026-07-20T15:13:13.360618+05:30'
-last_seen: '2026-07-20T15:13:13.360618+05:30'
-last_checked: '2026-07-20T15:13:13.360618+05:30'
+first_seen: '2026-07-20T20:13:13.074815+05:30'
+last_seen: '2026-07-20T20:13:13.074815+05:30'
+last_checked: '2026-07-20T20:13:13.074815+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Datasets & Experiments**: Enhanced experiment comparison views with real-time dataset split chips, improved evaluator handling (PEP 604 union types, thread evaluators), and refined experiment statistics refresh. Legacy dataset comparison helpers deprecated in public OpenAPI spec.
-- **Tracing & Observability**: Enforced monthly trace limits, improved OpenTelemetry trace rendering (VS Code Copilot Chat, Vercel AI SDK), and added ABAC access-control messages. Bulk export compression defaults to zstd; duplicate run payloads now return clearer 409 errors.
-- **Engine & Prompts**: Engine project spend limits now visible in UI; Anthropic Bedrock IAM Trusted Entity fixes for Playground/evaluator calls; added Claude Sonnet 5/Fable 5/Opus 4.8 models. Self-hosted Playground/evaluator proxy support with SSRF validation.
+- **Datasets & Experiments**: Enhanced experiment comparison views with real-time dataset split chips, improved evaluator handling (PEP 604 union types, thread evaluators), and new bulk operations (multi-row split edits, CSV export limits). Legacy dataset comparison helpers deprecated in public OpenAPI spec.
+
+- **Tracing & Engine**: Enforced project/user trace limits, improved OpenTelemetry integration (Vercel AI SDK, VS Code Copilot Chat), and Engine issue management with MCP/SDK support. Redis client upgrades and Engine retry logic for transient errors.
+
+- **Prompts & Feedback**: Proxy-aware self-hosted Playground/evaluator calls, new Claude models in playground, and fixed feedback score edits. Engine now auto-adds Assertions evaluator for saved examples.
 
 ## Why It Matters
 
@@ -43,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T15:13:13.360601+05:30
+- Published: 2026-07-20T20:13:13.074795+05:30
 
 ## Related Tags
 

@@ -4,26 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/virattt/dexter
-collected_at: '2026-07-20T15:08:56.063107+05:30'
-published_at: '2026-07-20T09:09:33Z'
+collected_at: '2026-07-20T20:08:38.432086+05:30'
+published_at: '2026-07-20T14:20:18Z'
 tags:
 - agents
-- dataset
 - github-repo
 - rag
-- scripts
 - typescript
-- workflows
-stars: 27420
+stars: 27424
 language: TypeScript
 status: active
 archived: false
 created_at: '2025-10-14T21:02:00Z'
 pushed_at: '2026-07-17T19:23:31Z'
 resource_id: github:virattt/dexter
-first_seen: '2026-07-20T15:08:56.063107+05:30'
-last_seen: '2026-07-20T15:08:56.063107+05:30'
-last_checked: '2026-07-20T15:08:56.063107+05:30'
+first_seen: '2026-07-20T20:08:38.432086+05:30'
+last_seen: '2026-07-20T20:08:38.432086+05:30'
+last_checked: '2026-07-20T20:08:38.432086+05:30'
 health_score: 100
 ---
 
@@ -31,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Financial Research Agent**: Dexter is an autonomous TypeScript-based agent designed to perform deep financial research, leveraging AI-driven automation for data analysis and insights.
+- **Autonomous Financial Research Agent**: Dexter is a TypeScript-based autonomous agent designed for deep financial research, leveraging AI-driven data analysis and decision-making processes.
 
-- **Modular Architecture**: The repository likely employs a modular design in TypeScript, enabling extensibility for financial data processing, natural language understanding, and decision-making workflows.
+- **GitHub Metrics**: The repository has garnered 27,424 stars and 3,406 forks, indicating significant community engagement and adoption.
 
-- **Open-Source & Scalable**: With 27,420 stars and 3,406 forks, Dexter is a community-driven project optimized for scalability, adaptability, and integration with financial datasets and APIs.
+- **Recent Update**: The project was last updated on July 20, 2026, reflecting active maintenance and potential ongoing development.
 
 ## Why It Matters
 
@@ -44,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: virattt
-- Stars: 27420
+- Stars: 27424
 - Forks: 3406
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-07-20T09:09:33Z
+- Last Updated: 2026-07-20T14:20:18Z
 - Archived: No
 - Created At: 2025-10-14T21:02:00Z
 - Pushed At: 2026-07-17T19:23:31Z

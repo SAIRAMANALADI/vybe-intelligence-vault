@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-07-20T15:08:01.003370+05:30'
+collected_at: '2026-07-20T20:07:38.389336+05:30'
 published_at: '2026-07-20T07:34:57Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - hackernews
 - openai
 - python
+- scripts
 - workflows
 stars: 931
 language: Python
@@ -21,9 +22,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-07-20T15:08:01.003370+05:30'
-last_seen: '2026-07-20T15:08:01.003370+05:30'
-last_checked: '2026-07-20T15:08:01.003370+05:30'
+first_seen: '2026-07-20T20:07:38.389336+05:30'
+last_seen: '2026-07-20T20:07:38.389336+05:30'
+last_checked: '2026-07-20T20:07:38.389336+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository provides structured methodologies to transition from "vibe coding" to agentic engineering using Codex CLI, emphasizing context engineering and modular hooks for AI-driven development workflows.
+- **Agentic Workflow Integration**: Repository provides structured methodologies to transition from "vibe coding" to agentic engineering using Codex CLI, emphasizing modular, reusable components and automated workflows for AI-driven development.
 
-- **Codex CLI Best Practices**: Contains curated commands, skills, and hooks for OpenAI Codex, optimizing agentic coding efficiency with reusable patterns and context management techniques.
+- **CLI-Centric Best Practices**: Focuses on Codex CLI commands, skills, and hooks to optimize AI agent interactions, including context engineering techniques for efficient prompt management and stateful agent orchestration.
 
-- **Pakistani Developer Contributions**: Open-source project led by a Pakistani developer, offering localized best practices and CLI configurations tailored for agentic AI workflows in Python-based environments.
+- **Open-Source Toolkit**: Offers Python-based templates and examples for Pakistani developers, covering agentic coding patterns, OpenAI API integrations, and CLI-driven automation for scalable AI engineering workflows.
 
 ## Why It Matters
 

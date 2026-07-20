@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Low-level orchestration framework**: LangGraph is a minimalist runtime for building stateful, long-running agents with durable execution, streaming, and human-in-the-loop capabilities, designed for complex workflows.
+- **Low-level orchestration framework** for building stateful, long-running agents with durable execution, streaming, and human-in-the-loop capabilities, inspired by Pregel and Apache Beam.
 
-- **Core features**: Enables persistence (failure recovery), human-in-the-loop interruptions, multi-session memory, and deep debugging via LangSmith for production-grade agent systems.
+- **Core features** include persistence (failure recovery), human-in-the-loop (state inspection/modification), and comprehensive memory (short/long-term), with debugging via LangSmith for execution tracing and metrics.
 
-- **Ecosystem integration**: Works standalone or with LangChain components (e.g., Deep Agent
+- **Ecosystem integration** with LangChain (components/models/tools) and LangSmith (obser
 
 ## Use Cases
 

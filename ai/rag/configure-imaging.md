@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/imaging/#avif
-published_at: '2026-07-20T15:12:09.564353+05:30'
-collected_at: '2026-07-20T15:12:09.564361+05:30'
+published_at: '2026-07-20T20:12:18.945257+05:30'
+collected_at: '2026-07-20T20:12:18.945274+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:configure-imaging
-first_seen: '2026-07-20T15:12:09.564361+05:30'
-last_seen: '2026-07-20T15:12:09.564361+05:30'
-last_checked: '2026-07-20T15:12:09.564361+05:30'
+first_seen: '2026-07-20T20:12:18.945274+05:30'
+last_seen: '2026-07-20T20:12:18.945274+05:30'
+last_checked: '2026-07-20T20:12:18.945274+05:30'
 health_score: 100
 ---
 
@@ -23,18 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Imaging Settings**:
-  - Defaults: `anchor: smart`, `bgColor: #ffffff`, `resampleFilter: box`
-  - Deprecated global settings (`compression`, `hint`, `quality`) replaced by format-specific configs (AVIF, JPEG, WebP).
+- **Image Processing Configuration**: Default settings include `anchor: smart`, `resampleFilter: box`, and format-specific parameters for AVIF (`quality: 60`, `encoderSpeed: 10`), JPEG (`quality: 75`), and WebP (`quality: 75`, `method: 2`).
 
-- **Format-Specific Configurations**:
-  - **AVIF**: `compression: lossy`, `encoderSpeed: 1-10`, `hint: photo`, `quality: 1-100`
-  - **WebP**: `compression: lossy`, `method: 0-6`, `quality: 1-100`, `useSharpYuv: false`
-  - **JPEG**: `quality: 1-100` (default: 75).
+- **Exif Metadata Control**: Configurable via `excludeFields` (e.g., `GPS|Exif|Contrast`) and `includeFields` (empty by default), with sources limited to `exif` and `iptc` for performance optimization.
 
-- **Metadata & Exif Handling**:
-  - `meta.fields`: Glob-based filtering (e.g., `['! *{GPS,Exif,...}*']` to exclude fields)
-  - `meta.sources`: Supports `exif`, `iptc`, `xmp` (default: `['exif', 'iptc']`).
+- **Format-Specific Tuning**: AVIF supports `lossy`/`lossless` compression and `hint` presets (`photo`, `drawing`), while WebP offers `useSharpYuv` for RGB-to-YUV conversion and `method` levels (0-6) for compression effort.
 
 ## Why It Matters
 
@@ -44,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T15:12:09.564353+05:30
+- Published: 2026-07-20T20:12:18.945257+05:30
 
 ## Related Tags
 

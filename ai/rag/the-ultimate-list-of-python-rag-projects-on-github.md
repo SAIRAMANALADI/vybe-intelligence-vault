@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://dasroot.net/posts/2026/03/python-rag-projects-github/
-published_at: '2026-07-20T15:05:26.989791+05:30'
-collected_at: '2026-07-20T15:05:26.989802+05:30'
+published_at: '2026-07-20T20:05:09.761068+05:30'
+collected_at: '2026-07-20T20:05:09.761084+05:30'
 tags:
 - agents
 - benchmark
@@ -19,9 +19,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:the-ultimate-list-of-python-rag-projects-on-github
-first_seen: '2026-07-20T15:05:26.989802+05:30'
-last_seen: '2026-07-20T15:05:26.989802+05:30'
-last_checked: '2026-07-20T15:05:26.989802+05:30'
+first_seen: '2026-07-20T20:05:09.761084+05:30'
+last_seen: '2026-07-20T20:05:09.761084+05:30'
+last_checked: '2026-07-20T20:05:09.761084+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain v0.24.0** enables modular RAG pipelines with multi-agent workflows, supporting LLMs like Llama 3.1 70b instruct and reducing deployment overhead via components like `WebBaseLoader` and `VectorstoreIndexCreator`.
+- **LangChain v0.24.0**: Modular RAG orchestration with multi-agent workflows, enhanced prompt engineering, and compatibility with Llama 3.1 70b instruct; supports rapid RAG pipeline development via `WebBaseLoader` and `VectorstoreIndexCreator`.
 
-- **LlamaIndex v0.12.0** introduces semantic chunking and advanced filtering, improving retrieval accuracy by up to 30% for large-scale unstructured data, with optimized indexing for formats like PDFs and images via `DBConnectors` and `Unstructured.io`.
+- **LlamaIndex v0.12.0**: Optimized for large-scale unstructured data with semantic chunking and +30% retrieval accuracy; integrates `DBConnectors` for structured databases and `Unstructured.io` for multi-format document parsing (PDFs, images, CSV, Word).
 
-- **RAGFlow v0.24.0** supports multi-modal parsing, cross-language queries, and agent-based workflows with Python/JavaScript code execution, integrating models like Gemini 3 Pro and GPT-5 for enterprise-grade RAG with long-term context retention.
+- **RAGFlow v0.24.0**: Enterprise-grade RAG with multi-modal parsing, cross-language queries, and agentic workflows; includes built-in Python/JavaScript code executor and supports Gemini 3 Pro and GPT-5 models for high-fidelity, long-context applications.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T15:05:26.989791+05:30
+- Published: 2026-07-20T20:05:09.761068+05:30
 
 ## Related Tags
 
