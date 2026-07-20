@@ -1,28 +1,13 @@
 ---
-title: ejupi-djenis30/DjenisAiAgent
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- Gemini API
-- Windows UI Automation
-- Selenium
-- Docker
-- FastAPI
-- WebSockets
-- Chrome/Edge DevTools Protocol
-- Accessibility Tree
-- FFmpeg (for audio)
+title: "ejupi-djenis30/DjenisAiAgent"
+category: "Agent Framework"
+tech_stack: ["Python", "Gemini API", "Windows UI Automation", "Selenium", "Docker", "FastAPI", "WebSockets", "Chrome/Edge DevTools Protocol", "Accessibility Tree", "FFmpeg (for audio)"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- Windows automation
-- Permission-aware agents
-- Gemini integration
-- Safety-first orchestration
-- Interactive CLI
-source: https://github.com/ejupi-djenis30/DjenisAiAgent
-discovered_at: '2026-07-19T20:44:17Z'
-evaluated_by: mistral-small-latest
+tags: ["Windows automation", "Permission-aware agents", "Gemini integration", "Safety-first orchestration", "Interactive CLI"]
+source: "https://github.com/ejupi-djenis30/DjenisAiAgent"
+discovered_at: "2026-07-19T20:44:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

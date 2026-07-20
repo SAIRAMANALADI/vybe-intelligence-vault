@@ -1,29 +1,13 @@
 ---
-title: cafferychen777/ChatSpatial
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- Docker
-- Scanpy
-- scVelo
-- Cell2location
-- PyTorch
-- FastAPI
-- Hugging Face
-- SpaGCN
-- STAGATE
+title: "cafferychen777/ChatSpatial"
+category: "Orchestrator"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "Docker", "Scanpy", "scVelo", "Cell2location", "PyTorch", "FastAPI", "Hugging Face", "SpaGCN", "STAGATE"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- spatial transcriptomics
-- MCP server
-- natural language interface
-- reproducible analysis
-- biomedical AI
-source: https://github.com/cafferychen777/ChatSpatial
-discovered_at: '2026-07-16T02:26:05Z'
-evaluated_by: mistral-small-latest
+tags: ["spatial transcriptomics", "MCP server", "natural language interface", "reproducible analysis", "biomedical AI"]
+source: "https://github.com/cafferychen777/ChatSpatial"
+discovered_at: "2026-07-16T02:26:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

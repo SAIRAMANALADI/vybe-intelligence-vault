@@ -1,29 +1,13 @@
 ---
-title: systempromptio/systemprompt-template
-category: daily-digests/2026-07-20
-tech_stack:
-- Rust
-- PostgreSQL
-- ChaCha20-Poly1305
-- JWT
-- YAML
-- Docker
-- MCP
-- Claude Bridge
-- Anthropic SDK
-- OpenAI SDK
-- Gemini SDK
+title: "systempromptio/systemprompt-template"
+category: "Orchestrator"
+tech_stack: ["Rust", "PostgreSQL", "ChaCha20-Poly1305", "JWT", "YAML", "Docker", "MCP", "Claude Bridge", "Anthropic SDK", "OpenAI SDK", "Gemini SDK"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- AI governance
-- self-hosted
-- audit logging
-- secret detection
-- compliance
-source: https://github.com/systempromptio/systemprompt-template
-discovered_at: '2026-07-15T10:48:41Z'
-evaluated_by: mistral-small-latest
+tags: ["AI governance", "self-hosted", "audit logging", "secret detection", "compliance"]
+source: "https://github.com/systempromptio/systemprompt-template"
+discovered_at: "2026-07-15T10:48:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

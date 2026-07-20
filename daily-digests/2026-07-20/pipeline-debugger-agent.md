@@ -1,24 +1,13 @@
 ---
-title: kishlayprakhar/pipeline-debugger-agent
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- LangGraph
-- Groq (Llama 3.3 70B)
-- ChromaDB
-- LangSmith
-- ETL Pipelines
+title: "kishlayprakhar/pipeline-debugger-agent"
+category: "Agent Framework"
+tech_stack: ["Python", "LangGraph", "Groq (Llama 3.3 70B)", "ChromaDB", "LangSmith", "ETL Pipelines"]
 quality_score: 8
 rag_relevance: 9
-tags:
-- AI agent
-- ETL debugging
-- autonomous recovery
-- schema drift
-- tool use
-source: https://github.com/kishlayprakhar/pipeline-debugger-agent
-discovered_at: '2026-07-12T10:26:16Z'
-evaluated_by: mistral-small-latest
+tags: ["AI agent", "ETL debugging", "autonomous recovery", "schema drift", "tool use"]
+source: "https://github.com/kishlayprakhar/pipeline-debugger-agent"
+discovered_at: "2026-07-12T10:26:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

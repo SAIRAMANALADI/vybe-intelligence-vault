@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-91%2C282-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-46%2C867-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--20-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **91,282 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **46,867 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 12,329</p>
-        <p><b>Active:</b> 12,080 | <b>Inactive:</b> 249</p>
+        <p><b>Resources tracked:</b> 11,335</p>
+        <p><b>Active:</b> 11,086 | <b>Inactive:</b> 249</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 45,438</p>
+        <p><b>Archive Files:</b> 1,979</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 91,282 files</p>
-        <p><b>Last Update:</b> 2026-07-20 15:23 IST</p>
+        <p><b>Total Vault Size:</b> 46,867 files</p>
+        <p><b>Last Update:</b> 2026-07-20 15:30 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,11 +210,11 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Google Account Help](ai/rag/google-account-help.md)** • Rank: <kbd>+1478</kbd>
-- 🔼 **[npm/documentation](ai/resources/npm-documentation.md)** • Rank: <kbd>+1662</kbd>
-- 🔼 **[GitHub CLI | Take GitHub to the command line](ai/agents/github-cli-take-github-to-the-command-line.md)** • Rank: <kbd>+14</kbd>
-- 🔼 **[Git](ai/resources/git.md)** • Rank: <kbd>+1361</kbd>
-- 🔼 **[Node.js — Run JavaScript Everywhere](ai/resources/node-js-run-javascript-everywhere.md)** • Rank: <kbd>+1359</kbd>
+- 🔼 **[npm/documentation](ai/resources/npm-documentation.md)** • Rank: <kbd>+1663</kbd>
+- 🔼 **[GitHub CLI | Take GitHub to the command line](ai/agents/github-cli-take-github-to-the-command-line.md)** • Rank: <kbd>+15</kbd>
+- 🔼 **[Git](ai/resources/git.md)** • Rank: <kbd>+1362</kbd>
+- 🔼 **[Node.js — Run JavaScript Everywhere](ai/resources/node-js-run-javascript-everywhere.md)** • Rank: <kbd>+1360</kbd>
+- 🔼 **[Sign in on a device that's not yours - Computer - Google Account Help](ai/rag/sign-in-on-a-device-that-s-not-yours-computer-goog.md)** • Rank: <kbd>+2233</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.

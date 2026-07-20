@@ -1,30 +1,13 @@
 ---
-title: dragocz95/elowen
-category: daily-digests/2026-07-20
-tech_stack:
-- TypeScript
-- Node.js
-- Next.js
-- SQLite
-- tmux
-- systemd
-- Docker
-- React
-- Discord API
-- WhatsApp API
-- Git
-- MCP (Model Context Protocol)
+title: "dragocz95/elowen"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "Next.js", "SQLite", "tmux", "systemd", "Docker", "React", "Discord API", "WhatsApp API", "Git", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- self-hosted AI
-- multi-agent systems
-- workflow automation
-- persistent memory
-- multi-modal interaction
-source: https://github.com/dragocz95/elowen
-discovered_at: '2026-07-18T17:56:16Z'
-evaluated_by: mistral-small-latest
+tags: ["self-hosted AI", "multi-agent systems", "workflow automation", "persistent memory", "multi-modal interaction"]
+source: "https://github.com/dragocz95/elowen"
+discovered_at: "2026-07-18T17:56:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

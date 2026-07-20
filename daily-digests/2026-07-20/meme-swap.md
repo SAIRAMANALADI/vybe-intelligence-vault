@@ -1,30 +1,13 @@
 ---
-title: Tlahey/meme-swap
-category: daily-digests/2026-07-20
-tech_stack:
-- TypeScript
-- Next.js 14
-- Electron
-- FaceFusion
-- ONNX Runtime
-- CoreML
-- FFmpeg
-- Turborepo
-- pnpm
-- Model Context Protocol (MCP)
-- Python
-- React
+title: "Tlahey/meme-swap"
+category: "Tooling"
+tech_stack: ["TypeScript", "Next.js 14", "Electron", "FaceFusion", "ONNX Runtime", "CoreML", "FFmpeg", "Turborepo", "pnpm", "Model Context Protocol (MCP)", "Python", "React"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- face-swapping
-- local-ai
-- privacy-focused
-- GIF-processing
-- Apple-Silicon-optimized
-source: https://github.com/Tlahey/meme-swap
-discovered_at: '2026-07-14T10:08:00Z'
-evaluated_by: mistral-small-latest
+tags: ["face-swapping", "local-ai", "privacy-focused", "GIF-processing", "Apple-Silicon-optimized"]
+source: "https://github.com/Tlahey/meme-swap"
+discovered_at: "2026-07-14T10:08:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

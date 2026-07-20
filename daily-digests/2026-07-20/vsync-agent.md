@@ -1,27 +1,13 @@
 ---
-title: lapietrajp/vsync-agent
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- YAML
-- OpenAI API
-- Claude API
-- Google AI API
-- RESTful APIs
-- Terminal UI
-- AES-256 Encryption
-- Mermaid.js
+title: "lapietrajp/vsync-agent"
+category: "Orchestrator"
+tech_stack: ["Python", "YAML", "OpenAI API", "Claude API", "Google AI API", "RESTful APIs", "Terminal UI", "AES-256 Encryption", "Mermaid.js"]
 quality_score: 9
 rag_relevance: 9
-tags:
-- AI orchestration
-- multi-model routing
-- RAG pipeline
-- API aggregation
-- cost optimization
-source: https://github.com/lapietrajp/vsync-agent
-discovered_at: '2026-07-19T19:13:40Z'
-evaluated_by: mistral-small-latest
+tags: ["AI orchestration", "multi-model routing", "RAG pipeline", "API aggregation", "cost optimization"]
+source: "https://github.com/lapietrajp/vsync-agent"
+discovered_at: "2026-07-19T19:13:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

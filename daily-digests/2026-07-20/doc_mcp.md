@@ -1,24 +1,13 @@
 ---
-title: veep2012/doc_mcp
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- Playwright
-- SQLite
-- Model Context Protocol (MCP)
-- Docker/Podman
-- SQLite-Vec (for vector search)
+title: "veep2012/doc_mcp"
+category: "Orchestrator"
+tech_stack: ["Python", "Playwright", "SQLite", "Model Context Protocol (MCP)", "Docker/Podman", "SQLite-Vec (for vector search)"]
 quality_score: 8
 rag_relevance: 9
-tags:
-- documentation indexing
-- MCP server
-- vector search
-- authentication
-- crawling
-source: https://github.com/veep2012/doc_mcp
-discovered_at: '2026-07-16T18:05:50Z'
-evaluated_by: mistral-small-latest
+tags: ["documentation indexing", "MCP server", "vector search", "authentication", "crawling"]
+source: "https://github.com/veep2012/doc_mcp"
+discovered_at: "2026-07-16T18:05:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

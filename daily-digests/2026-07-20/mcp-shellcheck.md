@@ -1,23 +1,13 @@
 ---
-title: Ev3lynx727/mcp-shellcheck
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- ShellCheck
-- asyncio
-- pytest
+title: "Ev3lynx727/mcp-shellcheck"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "ShellCheck", "asyncio", "pytest"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- MCP server
-- shell script linting
-- ShellCheck integration
-- AI tooling
-- code analysis
-source: https://github.com/Ev3lynx727/mcp-shellcheck
-discovered_at: '2026-07-16T15:00:45Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP server", "shell script linting", "ShellCheck integration", "AI tooling", "code analysis"]
+source: "https://github.com/Ev3lynx727/mcp-shellcheck"
+discovered_at: "2026-07-16T15:00:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,24 +1,13 @@
 ---
-title: BuntStudio/seomonitor-mcp-server
-category: daily-digests/2026-07-20
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- HTTP/Streamable Transport
-- Rate Limiting
-- API Integration
+title: "BuntStudio/seomonitor-mcp-server"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "HTTP/Streamable Transport", "Rate Limiting", "API Integration"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- MCP Server
-- SEO Data
-- Rank Tracking
-- AI Visibility
-- Keyword Research
-source: https://github.com/BuntStudio/seomonitor-mcp-server
-discovered_at: '2026-07-16T08:10:11Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP Server", "SEO Data", "Rank Tracking", "AI Visibility", "Keyword Research"]
+source: "https://github.com/BuntStudio/seomonitor-mcp-server"
+discovered_at: "2026-07-16T08:10:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,24 +1,13 @@
 ---
-title: YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill
-category: daily-digests/2026-07-20
-tech_stack:
-- TypeScript
-- Node.js
-- GitHub Actions
-- JSON
-- OpenClaw
-- Claude Code
+title: "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "GitHub Actions", "JSON", "OpenClaw", "Claude Code"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- AI image prompts
-- prompt recommendation
-- Gemini Nano Banana Pro
-- semantic search
-- content remix
-source: https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill
-discovered_at: '2026-07-20T03:52:29Z'
-evaluated_by: mistral-small-latest
+tags: ["AI image prompts", "prompt recommendation", "Gemini Nano Banana Pro", "semantic search", "content remix"]
+source: "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
+discovered_at: "2026-07-20T03:52:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

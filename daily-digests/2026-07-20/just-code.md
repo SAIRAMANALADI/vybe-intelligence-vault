@@ -1,23 +1,13 @@
 ---
-title: malbruk/just-code
-category: daily-digests/2026-07-20
-tech_stack:
-- TypeScript
-- VS Code Extension API
-- Claude Agent SDK
-- Node.js
-- Anthropic API
+title: "malbruk/just-code"
+category: "Tooling"
+tech_stack: ["TypeScript", "VS Code Extension API", "Claude Agent SDK", "Node.js", "Anthropic API"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- VS Code extension
-- AI coding assistant
-- Agent SDK
-- Scope policy
-- Software development
-source: https://github.com/malbruk/just-code
-discovered_at: '2026-07-15T10:48:28Z'
-evaluated_by: mistral-small-latest
+tags: ["VS Code extension", "AI coding assistant", "Agent SDK", "Scope policy", "Software development"]
+source: "https://github.com/malbruk/just-code"
+discovered_at: "2026-07-15T10:48:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

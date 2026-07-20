@@ -1,22 +1,13 @@
 ---
-title: Hosein-Abdollahi/mcp-injection-guard
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- FastMCP
-- Taint tracking
+title: "Hosein-Abdollahi/mcp-injection-guard"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "FastMCP", "Taint tracking"]
 quality_score: 9
 rag_relevance: 9
-tags:
-- prompt injection
-- data provenance
-- MCP server
-- security
-- agent safety
-source: https://github.com/Hosein-Abdollahi/mcp-injection-guard
-discovered_at: '2026-07-16T02:26:01Z'
-evaluated_by: mistral-small-latest
+tags: ["prompt injection", "data provenance", "MCP server", "security", "agent safety"]
+source: "https://github.com/Hosein-Abdollahi/mcp-injection-guard"
+discovered_at: "2026-07-16T02:26:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,25 +1,13 @@
 ---
-title: prjct-app/cli
-category: daily-digests/2026-07-20
-tech_stack:
-- TypeScript
-- Node.js
-- Bun
-- SQLite
-- MCP (Model Context Protocol)
-- Git
-- Docker (implied for CI)
+title: "prjct-app/cli"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "Bun", "SQLite", "MCP (Model Context Protocol)", "Git", "Docker (implied for CI)"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- AI agent harness
-- RAG optimization
-- persistent memory
-- guardrails
-- multi-agent orchestration
-source: https://github.com/prjct-app/cli
-discovered_at: '2026-07-16T20:02:29Z'
-evaluated_by: mistral-small-latest
+tags: ["AI agent harness", "RAG optimization", "persistent memory", "guardrails", "multi-agent orchestration"]
+source: "https://github.com/prjct-app/cli"
+discovered_at: "2026-07-16T20:02:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

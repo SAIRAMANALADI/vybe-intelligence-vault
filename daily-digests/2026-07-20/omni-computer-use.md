@@ -1,27 +1,13 @@
 ---
-title: Jason26214/omni-computer-use
-category: daily-digests/2026-07-20
-tech_stack:
-- Python 3.11+
-- MCP (Model Context Protocol) SDK
-- FastMCP
-- MSS (screenshot library)
-- Pillow (image processing)
-- PyWin32 (Windows API bindings)
-- ctypes
-- uv (package manager)
-- Hatchling (build system)
+title: "Jason26214/omni-computer-use"
+category: "Tooling"
+tech_stack: ["Python 3.11+", "MCP (Model Context Protocol) SDK", "FastMCP", "MSS (screenshot library)", "Pillow (image processing)", "PyWin32 (Windows API bindings)", "ctypes", "uv (package manager)", "Hatchling (build system)"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- Windows automation
-- MCP server
-- desktop control
-- multi-monitor
-- RAG tooling
-source: https://github.com/Jason26214/omni-computer-use
-discovered_at: '2026-07-16T20:02:22Z'
-evaluated_by: mistral-small-latest
+tags: ["Windows automation", "MCP server", "desktop control", "multi-monitor", "RAG tooling"]
+source: "https://github.com/Jason26214/omni-computer-use"
+discovered_at: "2026-07-16T20:02:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

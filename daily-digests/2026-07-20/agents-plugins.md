@@ -1,26 +1,13 @@
 ---
-title: CitiesSkylinesModding/agents-plugins
-category: daily-digests/2026-07-20
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- Chrome DevTools Protocol (CDP)
-- Bun
-- mise
-- React
-- HTML/CSS/JS
+title: "CitiesSkylinesModding/agents-plugins"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Chrome DevTools Protocol (CDP)", "Bun", "mise", "React", "HTML/CSS/JS"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- UI automation
-- Gameface integration
-- MCP server
-- AI agent tools
-- Debugging
-source: https://github.com/CitiesSkylinesModding/agents-plugins
-discovered_at: '2026-07-14T18:02:07Z'
-evaluated_by: mistral-small-latest
+tags: ["UI automation", "Gameface integration", "MCP server", "AI agent tools", "Debugging"]
+source: "https://github.com/CitiesSkylinesModding/agents-plugins"
+discovered_at: "2026-07-14T18:02:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

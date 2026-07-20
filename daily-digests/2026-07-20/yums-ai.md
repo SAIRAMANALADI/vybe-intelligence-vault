@@ -1,24 +1,13 @@
 ---
-title: Jamil-Shirinov/yums-ai
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- OpenAI API
-- Gmail API
-- OAuth2
-- Markdown
-- CLI
+title: "Jamil-Shirinov/yums-ai"
+category: "Tooling"
+tech_stack: ["Python", "OpenAI API", "Gmail API", "OAuth2", "Markdown", "CLI"]
 quality_score: 8
 rag_relevance: 6
-tags:
-- email classification
-- Gmail automation
-- AI summarization
-- OAuth2 security
-- inbox management
-source: https://github.com/Jamil-Shirinov/yums-ai
-discovered_at: '2026-07-18T21:49:55Z'
-evaluated_by: mistral-small-latest
+tags: ["email classification", "Gmail automation", "AI summarization", "OAuth2 security", "inbox management"]
+source: "https://github.com/Jamil-Shirinov/yums-ai"
+discovered_at: "2026-07-18T21:49:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

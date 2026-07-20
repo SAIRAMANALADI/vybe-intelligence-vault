@@ -1,29 +1,13 @@
 ---
-title: ArtLjn/agriagent-os
-category: daily-digests/2026-07-20
-tech_stack:
-- FastAPI
-- React
-- TypeScript
-- Vite
-- React Native
-- LangGraph
-- LangChain
-- SQLAlchemy
-- Docker
-- MySQL
-- Qdrant
+title: "ArtLjn/agriagent-os"
+category: "Agent Framework"
+tech_stack: ["FastAPI", "React", "TypeScript", "Vite", "React Native", "LangGraph", "LangChain", "SQLAlchemy", "Docker", "MySQL", "Qdrant"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- AI Agent
-- Farm Management
-- Modular Design
-- Agent Orchestration
-- Prompt Engineering
-source: https://github.com/ArtLjn/agriagent-os
-discovered_at: '2026-07-16T08:10:07Z'
-evaluated_by: mistral-small-latest
+tags: ["AI Agent", "Farm Management", "Modular Design", "Agent Orchestration", "Prompt Engineering"]
+source: "https://github.com/ArtLjn/agriagent-os"
+discovered_at: "2026-07-16T08:10:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,24 +1,13 @@
 ---
-title: kawarimidoll/guard-and-guide
-category: daily-digests/2026-07-20
-tech_stack:
-- Rust
-- Nix
-- TOML
-- JSON
-- Claude Code
-- Gemini CLI
+title: "kawarimidoll/guard-and-guide"
+category: "Tooling"
+tech_stack: ["Rust", "Nix", "TOML", "JSON", "Claude Code", "Gemini CLI"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- AI agent security
-- sandboxing
-- rule-based enforcement
-- coding agent protection
-- safety middleware
-source: https://github.com/kawarimidoll/guard-and-guide
-discovered_at: '2026-07-20T06:16:49Z'
-evaluated_by: mistral-small-latest
+tags: ["AI agent security", "sandboxing", "rule-based enforcement", "coding agent protection", "safety middleware"]
+source: "https://github.com/kawarimidoll/guard-and-guide"
+discovered_at: "2026-07-20T06:16:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

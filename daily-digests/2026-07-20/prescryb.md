@@ -1,26 +1,13 @@
 ---
-title: konstruktoid/prescryb
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- SSH
-- OSV.dev
-- NVD API
-- Ansible
-- GitHub API
-- Jinja2
+title: "konstruktoid/prescryb"
+category: "Orchestrator"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "SSH", "OSV.dev", "NVD API", "Ansible", "GitHub API", "Jinja2"]
 quality_score: 8
 rag_relevance: 9
-tags:
-- CVE remediation
-- compliance mapping
-- Ansible playbook generation
-- MCP server
-- security orchestration
-source: https://github.com/konstruktoid/prescryb
-discovered_at: '2026-07-11T11:04:00Z'
-evaluated_by: mistral-small-latest
+tags: ["CVE remediation", "compliance mapping", "Ansible playbook generation", "MCP server", "security orchestration"]
+source: "https://github.com/konstruktoid/prescryb"
+discovered_at: "2026-07-11T11:04:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

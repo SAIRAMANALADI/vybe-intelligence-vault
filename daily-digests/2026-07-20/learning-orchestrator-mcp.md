@@ -1,23 +1,13 @@
 ---
-title: SEOSiri-Official/learning-orchestrator-mcp
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- Pytest
-- uv
-- GitHub Actions
+title: "SEOSiri-Official/learning-orchestrator-mcp"
+category: "Orchestrator"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "Pytest", "uv", "GitHub Actions"]
 quality_score: 8
 rag_relevance: 7
-tags:
-- curriculum learning
-- spaced repetition
-- MCP server
-- LMS integration
-- AI-driven education
-source: https://github.com/SEOSiri-Official/learning-orchestrator-mcp
-discovered_at: '2026-07-18T09:24:08Z'
-evaluated_by: mistral-small-latest
+tags: ["curriculum learning", "spaced repetition", "MCP server", "LMS integration", "AI-driven education"]
+source: "https://github.com/SEOSiri-Official/learning-orchestrator-mcp"
+discovered_at: "2026-07-18T09:24:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
