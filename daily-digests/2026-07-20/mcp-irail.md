@@ -1,22 +1,13 @@
 ---
-title: pipeworx-io/mcp-irail
-category: daily-digests/2026-07-20
-tech_stack:
-- TypeScript
-- MCP (Model Context Protocol)
-- REST API
-- Node.js
+title: "pipeworx-io/mcp-irail"
+category: "Tooling"
+tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "REST API", "Node.js"]
 quality_score: 7
 rag_relevance: 6
-tags:
-- MCP
-- Belgian Rail
-- Real-time Data
-- API Gateway
-- AI Agents
-source: https://github.com/pipeworx-io/mcp-irail
-discovered_at: '2026-07-19T19:13:42Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP", "Belgian Rail", "Real-time Data", "API Gateway", "AI Agents"]
+source: "https://github.com/pipeworx-io/mcp-irail"
+discovered_at: "2026-07-19T19:13:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

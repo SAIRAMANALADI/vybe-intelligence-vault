@@ -1,25 +1,13 @@
 ---
-title: veelenga/claude-mermaid
-category: daily-digests/2026-07-20
-tech_stack:
-- TypeScript
-- Node.js
-- Mermaid.js
-- MCP (Model Context Protocol)
-- Puppeteer
-- WebSocket
-- Express
+title: "veelenga/claude-mermaid"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Mermaid.js", "MCP (Model Context Protocol)", "Puppeteer", "WebSocket", "Express"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- Mermaid
-- MCP Server
-- Live Reload
-- Diagram Generation
-- Claude Code
-source: https://github.com/veelenga/claude-mermaid
-discovered_at: '2026-07-20T15:10:53Z'
-evaluated_by: mistral-small-latest
+tags: ["Mermaid", "MCP Server", "Live Reload", "Diagram Generation", "Claude Code"]
+source: "https://github.com/veelenga/claude-mermaid"
+discovered_at: "2026-07-20T15:10:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

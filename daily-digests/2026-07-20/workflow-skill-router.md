@@ -1,24 +1,13 @@
 ---
-title: eric861129/Workflow-skill-router
-category: daily-digests/2026-07-20
-tech_stack:
-- JavaScript
-- Python
-- Codex
-- Model Context Protocol (MCP)
-- Node.js
-- Mermaid (for diagrams)
+title: "eric861129/Workflow-skill-router"
+category: "Orchestrator"
+tech_stack: ["JavaScript", "Python", "Codex", "Model Context Protocol (MCP)", "Node.js", "Mermaid (for diagrams)"]
 quality_score: 9
 rag_relevance: 9
-tags:
-- Codex
-- Skill routing
-- Agent orchestration
-- Runtime-aware planning
-- Personal routing profiles
-source: https://github.com/eric861129/Workflow-skill-router
-discovered_at: '2026-07-20T15:10:46Z'
-evaluated_by: mistral-small-latest
+tags: ["Codex", "Skill routing", "Agent orchestration", "Runtime-aware planning", "Personal routing profiles"]
+source: "https://github.com/eric861129/Workflow-skill-router"
+discovered_at: "2026-07-20T15:10:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

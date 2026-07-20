@@ -1,23 +1,13 @@
 ---
-title: indigokarasu/ocas-architecture
-category: daily-digests/2026-07-20
-tech_stack:
-- Markdown
-- GitHub
-- OCAS Ecosystem
-- Agent Framework Design
-- Schema Standardization
+title: "indigokarasu/ocas-architecture"
+category: "Agent Framework"
+tech_stack: ["Markdown", "GitHub", "OCAS Ecosystem", "Agent Framework Design", "Schema Standardization"]
 quality_score: 8
 rag_relevance: 9
-tags:
-- agent framework
-- modular architecture
-- schema standardization
-- workflow planning
-- skill integration
-source: https://github.com/indigokarasu/ocas-architecture
-discovered_at: '2026-07-15T02:12:14Z'
-evaluated_by: mistral-small-latest
+tags: ["agent framework", "modular architecture", "schema standardization", "workflow planning", "skill integration"]
+source: "https://github.com/indigokarasu/ocas-architecture"
+discovered_at: "2026-07-15T02:12:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

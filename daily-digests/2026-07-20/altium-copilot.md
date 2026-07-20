@@ -1,24 +1,13 @@
 ---
-title: ee-in-a-box/altium-copilot
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- Altium Designer
-- Claude AI
-- MCP (Model Context Protocol)
-- SQLite
-- PowerShell
+title: "ee-in-a-box/altium-copilot"
+category: "Tooling"
+tech_stack: ["Python", "Altium Designer", "Claude AI", "MCP (Model Context Protocol)", "SQLite", "PowerShell"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- hardware design
-- schematic analysis
-- PCB inspection
-- AI integration
-- electronics engineering
-source: https://github.com/ee-in-a-box/altium-copilot
-discovered_at: '2026-07-20T06:17:00Z'
-evaluated_by: mistral-small-latest
+tags: ["hardware design", "schematic analysis", "PCB inspection", "AI integration", "electronics engineering"]
+source: "https://github.com/ee-in-a-box/altium-copilot"
+discovered_at: "2026-07-20T06:17:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,24 +1,13 @@
 ---
-title: jmagar/rtailscale
-category: daily-digests/2026-07-20
-tech_stack:
-- Rust
-- MCP (Model Context Protocol)
-- Tailscale REST API
-- HTTP
-- CLI
-- Docker
+title: "jmagar/rtailscale"
+category: "Tooling"
+tech_stack: ["Rust", "MCP (Model Context Protocol)", "Tailscale REST API", "HTTP", "CLI", "Docker"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- Tailscale
-- MCP server
-- tailnet management
-- device automation
-- Rust tooling
-source: https://github.com/jmagar/rtailscale
-discovered_at: '2026-07-19T23:56:03Z'
-evaluated_by: mistral-small-latest
+tags: ["Tailscale", "MCP server", "tailnet management", "device automation", "Rust tooling"]
+source: "https://github.com/jmagar/rtailscale"
+discovered_at: "2026-07-19T23:56:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

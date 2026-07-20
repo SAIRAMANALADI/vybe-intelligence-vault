@@ -1,24 +1,13 @@
 ---
-title: agentscore/python-sdk
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- HTTPX
-- Async/Await
-- REST API
-- PyPI
-- MIT License
+title: "agentscore/python-sdk"
+category: "Tooling"
+tech_stack: ["Python", "HTTPX", "Async/Await", "REST API", "PyPI", "MIT License"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- identity verification
-- KYC
-- sanctions screening
-- agentic commerce
-- compliance gating
-source: https://github.com/agentscore/python-sdk
-discovered_at: '2026-07-17T20:05:14Z'
-evaluated_by: mistral-small-latest
+tags: ["identity verification", "KYC", "sanctions screening", "agentic commerce", "compliance gating"]
+source: "https://github.com/agentscore/python-sdk"
+discovered_at: "2026-07-17T20:05:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

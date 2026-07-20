@@ -1,24 +1,13 @@
 ---
-title: virtualsms-io/windsurf-workflow-sms
-category: daily-digests/2026-07-20
-tech_stack:
-- MCP (Model Context Protocol)
-- Node.js
-- npm
-- Streamable HTTP
-- WebSocket
-- REST API
+title: "virtualsms-io/windsurf-workflow-sms"
+category: "Tooling"
+tech_stack: ["MCP (Model Context Protocol)", "Node.js", "npm", "Streamable HTTP", "WebSocket", "REST API"]
 quality_score: 8
 rag_relevance: 7
-tags:
-- SMS verification
-- MCP server integration
-- account verification
-- carrier-issued numbers
-- AI agent tools
-source: https://github.com/virtualsms-io/windsurf-workflow-sms
-discovered_at: '2026-07-19T07:29:59Z'
-evaluated_by: mistral-small-latest
+tags: ["SMS verification", "MCP server integration", "account verification", "carrier-issued numbers", "AI agent tools"]
+source: "https://github.com/virtualsms-io/windsurf-workflow-sms"
+discovered_at: "2026-07-19T07:29:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,25 +1,13 @@
 ---
-title: devcxl/opencode-cabbage
-category: daily-digests/2026-07-20
-tech_stack:
-- TypeScript
-- OpenCode
-- Node.js
-- Git
-- GitHub
-- DAG Task Management
-- Automated CI/CD
+title: "devcxl/opencode-cabbage"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "OpenCode", "Node.js", "Git", "GitHub", "DAG Task Management", "Automated CI/CD"]
 quality_score: 8
 rag_relevance: 7
-tags:
-- development lifecycle
-- automated orchestration
-- AI-driven workflow
-- parallel agents
-- full-stack automation
-source: https://github.com/devcxl/opencode-cabbage
-discovered_at: '2026-07-20T12:22:03Z'
-evaluated_by: mistral-small-latest
+tags: ["development lifecycle", "automated orchestration", "AI-driven workflow", "parallel agents", "full-stack automation"]
+source: "https://github.com/devcxl/opencode-cabbage"
+discovered_at: "2026-07-20T12:22:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

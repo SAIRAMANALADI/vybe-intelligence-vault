@@ -1,27 +1,13 @@
 ---
-title: townsendmerino/ken
-category: daily-digests/2026-07-20
-tech_stack:
-- Go
-- BM25
-- Model2Vec
-- RRF Fusion
-- MCP (Model Context Protocol)
-- SQLite
-- PostgreSQL
-- MySQL
-- MariaDB
+title: "townsendmerino/ken"
+category: "Tooling"
+tech_stack: ["Go", "BM25", "Model2Vec", "RRF Fusion", "MCP (Model Context Protocol)", "SQLite", "PostgreSQL", "MySQL", "MariaDB"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- code search
-- hybrid retrieval
-- MCP server
-- local embeddings
-- agent tooling
-source: https://github.com/townsendmerino/ken
-discovered_at: '2026-07-16T15:00:44Z'
-evaluated_by: mistral-small-latest
+tags: ["code search", "hybrid retrieval", "MCP server", "local embeddings", "agent tooling"]
+source: "https://github.com/townsendmerino/ken"
+discovered_at: "2026-07-16T15:00:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

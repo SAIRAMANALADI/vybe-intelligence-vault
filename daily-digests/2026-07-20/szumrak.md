@@ -1,28 +1,13 @@
 ---
-title: JanSzewczyk/szumrak
-category: daily-digests/2026-07-20
-tech_stack:
-- TypeScript
-- Node.js
-- Claude Agent SDK
-- Zod
-- T3 Env
-- Octokit
-- Docker
-- Vitest
-- Biome
-- GitHub Actions
+title: "JanSzewczyk/szumrak"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "Claude Agent SDK", "Zod", "T3 Env", "Octokit", "Docker", "Vitest", "Biome", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- autonomous agent
-- Claude integration
-- pull request automation
-- safety-hardened
-- CI/CD
-source: https://github.com/JanSzewczyk/szumrak
-discovered_at: '2026-07-14T21:56:22Z'
-evaluated_by: mistral-small-latest
+tags: ["autonomous agent", "Claude integration", "pull request automation", "safety-hardened", "CI/CD"]
+source: "https://github.com/JanSzewczyk/szumrak"
+discovered_at: "2026-07-14T21:56:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

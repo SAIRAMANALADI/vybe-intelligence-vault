@@ -1,24 +1,13 @@
 ---
-title: David-Wu1119/agentci-guard
-category: daily-digests/2026-07-20
-tech_stack:
-- TypeScript
-- Node.js
-- GitHub Actions
-- CLI
-- SARIF
-- YAML Parsing
+title: "David-Wu1119/agentci-guard"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "GitHub Actions", "CLI", "SARIF", "YAML Parsing"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- CI/CD security
-- AI agent safety
-- prompt injection
-- workflow scanning
-- GitHub Actions
-source: https://github.com/David-Wu1119/agentci-guard
-discovered_at: '2026-07-17T12:08:45Z'
-evaluated_by: mistral-small-latest
+tags: ["CI/CD security", "AI agent safety", "prompt injection", "workflow scanning", "GitHub Actions"]
+source: "https://github.com/David-Wu1119/agentci-guard"
+discovered_at: "2026-07-17T12:08:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

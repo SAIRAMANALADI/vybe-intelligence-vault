@@ -1,27 +1,13 @@
 ---
-title: MahmoudHassanMustafa/querybridge-mcp
-category: daily-digests/2026-07-20
-tech_stack:
-- TypeScript
-- Node.js
-- MySQL
-- Model Context Protocol (MCP)
-- Docker
-- SSH
-- SSL/TLS
-- JSON-RPC
-- Testcontainers
+title: "MahmoudHassanMustafa/querybridge-mcp"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MySQL", "Model Context Protocol (MCP)", "Docker", "SSH", "SSL/TLS", "JSON-RPC", "Testcontainers"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- MCP server
-- MySQL integration
-- Claude Code
-- database tools
-- secure database access
-source: https://github.com/MahmoudHassanMustafa/querybridge-mcp
-discovered_at: '2026-07-20T09:59:31Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP server", "MySQL integration", "Claude Code", "database tools", "secure database access"]
+source: "https://github.com/MahmoudHassanMustafa/querybridge-mcp"
+discovered_at: "2026-07-20T09:59:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

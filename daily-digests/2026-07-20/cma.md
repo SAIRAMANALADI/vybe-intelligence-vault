@@ -1,23 +1,13 @@
 ---
-title: Clarethium/cma
-category: daily-digests/2026-07-20
-tech_stack:
-- Bash
-- Python
-- JSON/JSONL
-- MCP (Model Context Protocol)
-- Shell scripting
+title: "Clarethium/cma"
+category: "Tooling"
+tech_stack: ["Bash", "Python", "JSON/JSONL", "MCP (Model Context Protocol)", "Shell scripting"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- failure tracking
-- practice loop
-- evidence-based
-- AI assistant integration
-- methodology-agnostic
-source: https://github.com/Clarethium/cma
-discovered_at: '2026-07-16T15:00:33Z'
-evaluated_by: mistral-small-latest
+tags: ["failure tracking", "practice loop", "evidence-based", "AI assistant integration", "methodology-agnostic"]
+source: "https://github.com/Clarethium/cma"
+discovered_at: "2026-07-16T15:00:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

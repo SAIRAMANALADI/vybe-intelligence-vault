@@ -1,23 +1,13 @@
 ---
-title: bcsongor/vc6ai
-category: daily-digests/2026-07-20
-tech_stack:
-- C
-- Visual C++ 6
-- libcurl
-- OpenRouter API
-- Windows XP/2003
+title: "bcsongor/vc6ai"
+category: "Agent Framework"
+tech_stack: ["C", "Visual C++ 6", "libcurl", "OpenRouter API", "Windows XP/2003"]
 quality_score: 6
 rag_relevance: 5
-tags:
-- legacy systems
-- minimalist AI
-- command execution
-- OpenRouter
-- Windows XP
-source: https://github.com/bcsongor/vc6ai
-discovered_at: '2026-07-11T13:14:22Z'
-evaluated_by: mistral-small-latest
+tags: ["legacy systems", "minimalist AI", "command execution", "OpenRouter", "Windows XP"]
+source: "https://github.com/bcsongor/vc6ai"
+discovered_at: "2026-07-11T13:14:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,13 @@
 ---
-title: shuxiachai/academic-commercialization-agent
-category: daily-digests/2026-07-20
-tech_stack:
-- CrewAI
-- Python
-- DeepSeek API
-- OpenAI API
-- Anthropic API
-- OpenAlex
-- Semantic Scholar
-- SerperDevTool
-- Crossref API
-- Pydantic
-- Gradio
-- Markdown
-- JSON
+title: "shuxiachai/academic-commercialization-agent"
+category: "Agent Framework"
+tech_stack: ["CrewAI", "Python", "DeepSeek API", "OpenAI API", "Anthropic API", "OpenAlex", "Semantic Scholar", "SerperDevTool", "Crossref API", "Pydantic", "Gradio", "Markdown", "JSON"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- multi-agent system
-- commercialization assessment
-- academic research
-- TRL scoring
-- patent landscape analysis
-source: https://github.com/shuxiachai/academic-commercialization-agent
-discovered_at: '2026-07-19T02:30:09Z'
-evaluated_by: mistral-small-latest
+tags: ["multi-agent system", "commercialization assessment", "academic research", "TRL scoring", "patent landscape analysis"]
+source: "https://github.com/shuxiachai/academic-commercialization-agent"
+discovered_at: "2026-07-19T02:30:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

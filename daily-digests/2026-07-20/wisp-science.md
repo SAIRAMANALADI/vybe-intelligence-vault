@@ -1,28 +1,13 @@
 ---
-title: xuzhougeng/wisp-science
-category: daily-digests/2026-07-20
-tech_stack:
-- Rust
-- Tauri v2
-- Leptos
-- SQLite
-- Python
-- R
-- Model Context Protocol (MCP)
-- WebView2
-- Trunk
-- uv (Python environment manager)
+title: "xuzhougeng/wisp-science"
+category: "Agent Framework"
+tech_stack: ["Rust", "Tauri v2", "Leptos", "SQLite", "Python", "R", "Model Context Protocol (MCP)", "WebView2", "Trunk", "uv (Python environment manager)"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- AI research workbench
-- local-first
-- scientific computing
-- MCP servers
-- cross-platform
-source: https://github.com/xuzhougeng/wisp-science
-discovered_at: '2026-07-16T23:58:16Z'
-evaluated_by: mistral-small-latest
+tags: ["AI research workbench", "local-first", "scientific computing", "MCP servers", "cross-platform"]
+source: "https://github.com/xuzhougeng/wisp-science"
+discovered_at: "2026-07-16T23:58:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,28 +1,13 @@
 ---
-title: aipoch/open-science
-category: daily-digests/2026-07-20
-tech_stack:
-- TypeScript
-- Electron
-- React
-- Python
-- Claude Code
-- OpenCode
-- Node.js
-- SQLite
-- REST APIs
-- WebSockets
+title: "aipoch/open-science"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Electron", "React", "Python", "Claude Code", "OpenCode", "Node.js", "SQLite", "REST APIs", "WebSockets"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- AI workbench
-- scientific discovery
-- agent-based workflow
-- local-first
-- model-agnostic
-source: https://github.com/aipoch/open-science
-discovered_at: '2026-07-20T09:59:27Z'
-evaluated_by: mistral-small-latest
+tags: ["AI workbench", "scientific discovery", "agent-based workflow", "local-first", "model-agnostic"]
+source: "https://github.com/aipoch/open-science"
+discovered_at: "2026-07-20T09:59:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

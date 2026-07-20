@@ -1,30 +1,13 @@
 ---
-title: Chewg8067/avatar-pipeline
-category: daily-digests/2026-07-20
-tech_stack:
-- Next.js 16
-- FastAPI
-- Three.js
-- React Three Fiber
-- React Three Drei
-- TypeScript
-- Python 3.14
-- Pydantic v2
-- Docker
-- Groq API
-- Llama-3.3
-- WebGL
+title: "Chewg8067/avatar-pipeline"
+category: "UI Component"
+tech_stack: ["Next.js 16", "FastAPI", "Three.js", "React Three Fiber", "React Three Drei", "TypeScript", "Python 3.14", "Pydantic v2", "Docker", "Groq API", "Llama-3.3", "WebGL"]
 quality_score: 7
 rag_relevance: 6
-tags:
-- 3D animation
-- natural language processing
-- WebGL
-- AI-driven UI
-- motion prototyping
-source: https://github.com/Chewg8067/avatar-pipeline
-discovered_at: '2026-07-13T22:55:12Z'
-evaluated_by: mistral-small-latest
+tags: ["3D animation", "natural language processing", "WebGL", "AI-driven UI", "motion prototyping"]
+source: "https://github.com/Chewg8067/avatar-pipeline"
+discovered_at: "2026-07-13T22:55:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

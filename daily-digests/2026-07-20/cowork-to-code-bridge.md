@@ -1,25 +1,13 @@
 ---
-title: abhinaykrupa/cowork-to-code-bridge
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- Claude Code
-- Claude Cowork
-- launchd
-- systemd
-- Homebrew
-- PyPI
+title: "abhinaykrupa/cowork-to-code-bridge"
+category: "Orchestrator"
+tech_stack: ["Python", "Claude Code", "Claude Cowork", "launchd", "systemd", "Homebrew", "PyPI"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- remote execution
-- Claude integration
-- local agent
-- task automation
-- secure bridge
-source: https://github.com/abhinaykrupa/cowork-to-code-bridge
-discovered_at: '2026-07-19T13:17:36Z'
-evaluated_by: mistral-small-latest
+tags: ["remote execution", "Claude integration", "local agent", "task automation", "secure bridge"]
+source: "https://github.com/abhinaykrupa/cowork-to-code-bridge"
+discovered_at: "2026-07-19T13:17:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

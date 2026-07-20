@@ -1,29 +1,13 @@
 ---
-title: Vironnimo/vbot
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- Node.js
-- FastAPI
-- WebSockets
-- SSE (Server-Sent Events)
-- Telegram Bot API
-- Discord API
-- SQLite
-- Pydantic
-- Vite
-- React
+title: "Vironnimo/vbot"
+category: "Agent Framework"
+tech_stack: ["Python", "Node.js", "FastAPI", "WebSockets", "SSE (Server-Sent Events)", "Telegram Bot API", "Discord API", "SQLite", "Pydantic", "Vite", "React"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- AI agent framework
-- multi-model support
-- persistent memory
-- self-hosted
-- extensible
-source: https://github.com/Vironnimo/vbot
-discovered_at: '2026-07-17T21:52:24Z'
-evaluated_by: mistral-small-latest
+tags: ["AI agent framework", "multi-model support", "persistent memory", "self-hosted", "extensible"]
+source: "https://github.com/Vironnimo/vbot"
+discovered_at: "2026-07-17T21:52:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

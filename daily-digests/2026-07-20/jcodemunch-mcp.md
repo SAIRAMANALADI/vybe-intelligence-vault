@@ -1,27 +1,13 @@
 ---
-title: jgravelle/jcodemunch-mcp
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- Tree-sitter
-- MCP (Model Context Protocol)
-- AST Parsing
-- BM25
-- Semantic Search
-- SQLite
-- FastAPI
-- CLI Tools
+title: "jgravelle/jcodemunch-mcp"
+category: "Tooling"
+tech_stack: ["Python", "Tree-sitter", "MCP (Model Context Protocol)", "AST Parsing", "BM25", "Semantic Search", "SQLite", "FastAPI", "CLI Tools"]
 quality_score: 10
 rag_relevance: 10
-tags:
-- code retrieval
-- token efficiency
-- AST parsing
-- MCP server
-- symbol indexing
-source: https://github.com/jgravelle/jcodemunch-mcp
-discovered_at: '2026-07-11T15:54:22Z'
-evaluated_by: mistral-small-latest
+tags: ["code retrieval", "token efficiency", "AST parsing", "MCP server", "symbol indexing"]
+source: "https://github.com/jgravelle/jcodemunch-mcp"
+discovered_at: "2026-07-11T15:54:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

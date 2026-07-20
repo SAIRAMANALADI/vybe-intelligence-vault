@@ -1,22 +1,13 @@
 ---
-title: haiqigeng/gtm-container-audit-cleanup
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- JavaScript (optional)
-- Google Tag Manager API
-- Excel (XLSX)
+title: "haiqigeng/gtm-container-audit-cleanup"
+category: "Tooling"
+tech_stack: ["Python", "JavaScript (optional)", "Google Tag Manager API", "Excel (XLSX)"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- GTM audit
-- container cleanup
-- web analytics
-- data validation
-- marketing operations
-source: https://github.com/haiqigeng/gtm-container-audit-cleanup
-discovered_at: '2026-07-19T23:55:36Z'
-evaluated_by: mistral-small-latest
+tags: ["GTM audit", "container cleanup", "web analytics", "data validation", "marketing operations"]
+source: "https://github.com/haiqigeng/gtm-container-audit-cleanup"
+discovered_at: "2026-07-19T23:55:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

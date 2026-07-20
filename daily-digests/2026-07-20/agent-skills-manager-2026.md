@@ -1,24 +1,13 @@
 ---
-title: SuperControlChaos/Agent-Skills-Manager-2026
-category: daily-digests/2026-07-20
-tech_stack:
-- Python
-- Windows Desktop Application
-- Claude Code
-- Cursor
-- Copilot
-- CLI
+title: "SuperControlChaos/Agent-Skills-Manager-2026"
+category: "Tooling"
+tech_stack: ["Python", "Windows Desktop Application", "Claude Code", "Cursor", "Copilot", "CLI"]
 quality_score: 7
 rag_relevance: 5
-tags:
-- AI agent skills
-- skill library
-- one-click install
-- Windows desktop
-- AI tooling
-source: https://github.com/SuperControlChaos/Agent-Skills-Manager-2026
-discovered_at: '2026-07-20T09:59:43Z'
-evaluated_by: mistral-small-latest
+tags: ["AI agent skills", "skill library", "one-click install", "Windows desktop", "AI tooling"]
+source: "https://github.com/SuperControlChaos/Agent-Skills-Manager-2026"
+discovered_at: "2026-07-20T09:59:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

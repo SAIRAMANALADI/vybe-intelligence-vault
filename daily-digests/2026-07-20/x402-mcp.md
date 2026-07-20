@@ -1,24 +1,13 @@
 ---
-title: x402node/x402-mcp
-category: daily-digests/2026-07-20
-tech_stack:
-- JavaScript
-- Node.js
-- MCP (Model Context Protocol)
-- USDC (Solana SPL & Base ERC-20)
-- EIP-3009 (Token Transfer)
-- x402 Protocol
+title: "x402node/x402-mcp"
+category: "Agent Framework"
+tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "USDC (Solana SPL & Base ERC-20)", "EIP-3009 (Token Transfer)", "x402 Protocol"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- MCP server
-- x402 protocol
-- USDC micropayments
-- AI agent tools
-- multi-chain
-source: https://github.com/x402node/x402-mcp
-discovered_at: '2026-07-18T20:44:01Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP server", "x402 protocol", "USDC micropayments", "AI agent tools", "multi-chain"]
+source: "https://github.com/x402node/x402-mcp"
+discovered_at: "2026-07-18T20:44:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

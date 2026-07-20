@@ -1,24 +1,13 @@
 ---
-title: Nhqvu2005/AntibridgeTelegram
-category: daily-digests/2026-07-20
-tech_stack:
-- JavaScript
-- Node.js
-- Telegram Bot API
-- Chrome DevTools Protocol (CDP)
-- WebSocket
-- npm
+title: "Nhqvu2005/AntibridgeTelegram"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Telegram Bot API", "Chrome DevTools Protocol (CDP)", "WebSocket", "npm"]
 quality_score: 8
 rag_relevance: 6
-tags:
-- remote control
-- AI agent management
-- Telegram integration
-- CDP automation
-- quota monitoring
-source: https://github.com/Nhqvu2005/AntibridgeTelegram
-discovered_at: '2026-07-20T09:59:28Z'
-evaluated_by: mistral-small-latest
+tags: ["remote control", "AI agent management", "Telegram integration", "CDP automation", "quota monitoring"]
+source: "https://github.com/Nhqvu2005/AntibridgeTelegram"
+discovered_at: "2026-07-20T09:59:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

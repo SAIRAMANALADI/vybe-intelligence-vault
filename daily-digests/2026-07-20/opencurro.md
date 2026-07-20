@@ -1,22 +1,13 @@
 ---
-title: opencurro-ai/OpenCurro
-category: daily-digests/2026-07-20
-tech_stack:
-- TypeScript
-- FastAPI
-- Vite
-- Python
+title: "opencurro-ai/OpenCurro"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "FastAPI", "Vite", "Python"]
 quality_score: 6
 rag_relevance: 7
-tags:
-- autonomous agents
-- task automation
-- AI agent framework
-- open-source
-- real-world tasks
-source: https://github.com/opencurro-ai/OpenCurro
-discovered_at: '2026-07-19T13:17:29Z'
-evaluated_by: mistral-small-latest
+tags: ["autonomous agents", "task automation", "AI agent framework", "open-source", "real-world tasks"]
+source: "https://github.com/opencurro-ai/OpenCurro"
+discovered_at: "2026-07-19T13:17:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
