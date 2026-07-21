@@ -1,27 +1,13 @@
 ---
-title: areesh-ali/AMKP
-category: daily-digests/2026-07-21
-tech_stack:
-- NestJS
-- PostgreSQL
-- pgvector
-- Redis
-- BullMQ
-- TypeScript
-- Docker
-- Node.js
-- MCP (Model Context Protocol)
+title: "areesh-ali/AMKP"
+category: "Orchestrator"
+tech_stack: ["NestJS", "PostgreSQL", "pgvector", "Redis", "BullMQ", "TypeScript", "Docker", "Node.js", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- multi-tenant
-- multimodal RAG
-- agentic retrieval
-- evidence management
-- policy enforcement
-source: https://github.com/areesh-ali/AMKP
-discovered_at: '2026-07-19T21:51:26Z'
-evaluated_by: mistral-small-latest
+tags: ["multi-tenant", "multimodal RAG", "agentic retrieval", "evidence management", "policy enforcement"]
+source: "https://github.com/areesh-ali/AMKP"
+discovered_at: "2026-07-19T21:51:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

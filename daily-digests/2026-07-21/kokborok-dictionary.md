@@ -1,26 +1,13 @@
 ---
-title: Balaji-Sri-Ram/Kokborok-Dictionary
-category: daily-digests/2026-07-21
-tech_stack:
-- React
-- TypeScript
-- Tailwind CSS
-- Python
-- pdfplumber
-- Google Gemini API
-- Web Speech API
-- Vite
+title: "Balaji-Sri-Ram/Kokborok-Dictionary"
+category: "Tooling"
+tech_stack: ["React", "TypeScript", "Tailwind CSS", "Python", "pdfplumber", "Google Gemini API", "Web Speech API", "Vite"]
 quality_score: 7
 rag_relevance: 5
-tags:
-- dictionary
-- NLP
-- translation
-- AI-powered
-- localization
-source: https://github.com/Balaji-Sri-Ram/Kokborok-Dictionary
-discovered_at: '2026-07-18T19:02:30Z'
-evaluated_by: mistral-small-latest
+tags: ["dictionary", "NLP", "translation", "AI-powered", "localization"]
+source: "https://github.com/Balaji-Sri-Ram/Kokborok-Dictionary"
+discovered_at: "2026-07-18T19:02:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

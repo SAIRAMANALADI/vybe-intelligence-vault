@@ -1,29 +1,13 @@
 ---
-title: tkbrannon/zakar
-category: daily-digests/2026-07-21
-tech_stack:
-- PostgreSQL
-- pgvector
-- JavaScript
-- Node.js
-- Express
-- MCP (Model Context Protocol)
-- BGE-M3 (embeddings)
-- Supabase
-- Docker
-- React (dashboard)
-- Full-text search
+title: "tkbrannon/zakar"
+category: "Vector DB"
+tech_stack: ["PostgreSQL", "pgvector", "JavaScript", "Node.js", "Express", "MCP (Model Context Protocol)", "BGE-M3 (embeddings)", "Supabase", "Docker", "React (dashboard)", "Full-text search"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- long-term memory
-- hybrid retrieval
-- MCP server
-- personal AI
-- memory platform
-source: https://github.com/tkbrannon/zakar
-discovered_at: '2026-07-20T18:00:54Z'
-evaluated_by: mistral-small-latest
+tags: ["long-term memory", "hybrid retrieval", "MCP server", "personal AI", "memory platform"]
+source: "https://github.com/tkbrannon/zakar"
+discovered_at: "2026-07-20T18:00:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

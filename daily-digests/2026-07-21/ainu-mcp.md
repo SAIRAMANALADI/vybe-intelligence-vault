@@ -1,27 +1,13 @@
 ---
-title: aynumosir/ainu-mcp
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Cloudflare Workers
-- Streamable-HTTP MCP
-- Turso (libSQL)
-- Python (ETL)
-- GitHub OAuth
-- Google Sheets API
-- FastAPI
-- SQL (FTS5 trigram)
+title: "aynumosir/ainu-mcp"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Cloudflare Workers", "Streamable-HTTP MCP", "Turso (libSQL)", "Python (ETL)", "GitHub OAuth", "Google Sheets API", "FastAPI", "SQL (FTS5 trigram)"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- Ainu language
-- MCP server
-- corpus search
-- glossary editor
-- multi-dictionary lookup
-source: https://github.com/aynumosir/ainu-mcp
-discovered_at: '2026-07-18T20:44:07Z'
-evaluated_by: mistral-small-latest
+tags: ["Ainu language", "MCP server", "corpus search", "glossary editor", "multi-dictionary lookup"]
+source: "https://github.com/aynumosir/ainu-mcp"
+discovered_at: "2026-07-18T20:44:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

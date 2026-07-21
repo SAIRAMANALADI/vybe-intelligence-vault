@@ -1,26 +1,13 @@
 ---
-title: chloeeekim/fridai
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- SQLite
-- FastEmbed
-- ONNX
-- MCP (Model Context Protocol)
-- Git
-- FTS5 (Full Text Search)
-- NumPy
+title: "chloeeekim/fridai"
+category: "Tooling"
+tech_stack: ["Python", "SQLite", "FastEmbed", "ONNX", "MCP (Model Context Protocol)", "Git", "FTS5 (Full Text Search)", "NumPy"]
 quality_score: 8
 rag_relevance: 9
-tags:
-- MCP server
-- local memory
-- code recall
-- agent integration
-- semantic search
-source: https://github.com/chloeeekim/fridai
-discovered_at: '2026-07-20T06:16:59Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP server", "local memory", "code recall", "agent integration", "semantic search"]
+source: "https://github.com/chloeeekim/fridai"
+discovered_at: "2026-07-20T06:16:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,26 +1,13 @@
 ---
-title: Immunogenic-prismspectroscope589/Blender_mcp
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- Blender
-- MCP (Model Context Protocol)
-- JSON-RPC 2.0
-- TCP/IP
-- Thread-safe execution
-- BVH assembly analysis
-- Semantic intent routing
+title: "Immunogenic-prismspectroscope589/Blender_mcp"
+category: "Orchestrator"
+tech_stack: ["Python", "Blender", "MCP (Model Context Protocol)", "JSON-RPC 2.0", "TCP/IP", "Thread-safe execution", "BVH assembly analysis", "Semantic intent routing"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- 3D automation
-- AI agent integration
-- Blender control
-- MCP server
-- Scene intelligence
-source: https://github.com/Immunogenic-prismspectroscope589/Blender_mcp
-discovered_at: '2026-07-14T12:10:33Z'
-evaluated_by: mistral-small-latest
+tags: ["3D automation", "AI agent integration", "Blender control", "MCP server", "Scene intelligence"]
+source: "https://github.com/Immunogenic-prismspectroscope589/Blender_mcp"
+discovered_at: "2026-07-14T12:10:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

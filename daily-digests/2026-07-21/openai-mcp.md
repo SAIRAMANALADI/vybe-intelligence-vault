@@ -1,22 +1,13 @@
 ---
-title: 1Aa1k/openai-mcp
-category: daily-digests/2026-07-21
-tech_stack:
-- JavaScript
-- Node.js
-- Model Context Protocol (MCP)
-- OpenAI API
+title: "1Aa1k/openai-mcp"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "OpenAI API"]
 quality_score: 7
 rag_relevance: 8
-tags:
-- MCP server
-- OpenAI proxy
-- model routing
-- AI tooling
-- chat-completion
-source: https://github.com/1Aa1k/openai-mcp
-discovered_at: '2026-07-16T16:25:44Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP server", "OpenAI proxy", "model routing", "AI tooling", "chat-completion"]
+source: "https://github.com/1Aa1k/openai-mcp"
+discovered_at: "2026-07-16T16:25:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

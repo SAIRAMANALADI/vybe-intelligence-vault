@@ -1,23 +1,13 @@
 ---
-title: omkar9854/token_optimizer
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- SQLite
-- AST parsing
-- BM25
-- Content-addressed storage
+title: "omkar9854/token_optimizer"
+category: "Tooling"
+tech_stack: ["Python", "SQLite", "AST parsing", "BM25", "Content-addressed storage"]
 quality_score: 9
 rag_relevance: 9
-tags:
-- context compression
-- token optimization
-- reversible compression
-- AI agents
-- air-gap ready
-source: https://github.com/omkar9854/token_optimizer
-discovered_at: '2026-07-19T22:50:45Z'
-evaluated_by: mistral-small-latest
+tags: ["context compression", "token optimization", "reversible compression", "AI agents", "air-gap ready"]
+source: "https://github.com/omkar9854/token_optimizer"
+discovered_at: "2026-07-19T22:50:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

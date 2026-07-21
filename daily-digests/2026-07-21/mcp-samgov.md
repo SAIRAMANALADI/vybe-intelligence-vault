@@ -1,22 +1,13 @@
 ---
-title: pipeworx-io/mcp-samgov
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Model Context Protocol (MCP)
-- REST API
-- JSON
+title: "pipeworx-io/mcp-samgov"
+category: "Tooling"
+tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "REST API", "JSON"]
 quality_score: 6
 rag_relevance: 7
-tags:
-- SAM.gov
-- federal contracts
-- procurement data
-- MCP server
-- AI agent integration
-source: https://github.com/pipeworx-io/mcp-samgov
-discovered_at: '2026-07-20T19:53:42Z'
-evaluated_by: mistral-small-latest
+tags: ["SAM.gov", "federal contracts", "procurement data", "MCP server", "AI agent integration"]
+source: "https://github.com/pipeworx-io/mcp-samgov"
+discovered_at: "2026-07-20T19:53:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

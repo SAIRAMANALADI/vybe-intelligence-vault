@@ -1,24 +1,13 @@
 ---
-title: sushiHex/vram-mcp
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- NVIDIA NVML
-- Ollama
-- MCP (Model Context Protocol)
-- JSONL for audit logging
-- uv for package management
+title: "sushiHex/vram-mcp"
+category: "Tooling"
+tech_stack: ["Python", "NVIDIA NVML", "Ollama", "MCP (Model Context Protocol)", "JSONL for audit logging", "uv for package management"]
 quality_score: 9
 rag_relevance: 9
-tags:
-- GPU resource management
-- multi-agent coordination
-- VRAM monitoring
-- MCP server
-- Ollama integration
-source: https://github.com/sushiHex/vram-mcp
-discovered_at: '2026-07-20T03:52:31Z'
-evaluated_by: mistral-small-latest
+tags: ["GPU resource management", "multi-agent coordination", "VRAM monitoring", "MCP server", "Ollama integration"]
+source: "https://github.com/sushiHex/vram-mcp"
+discovered_at: "2026-07-20T03:52:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

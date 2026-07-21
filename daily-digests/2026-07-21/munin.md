@@ -1,30 +1,13 @@
 ---
-title: getmunin/munin
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Node.js
-- NestJS
-- Next.js
-- PostgreSQL
-- pgvector
-- Drizzle
-- MCP (Model Context Protocol)
-- BetterAuth
-- OAuth 2.1
-- Turborepo
-- pnpm
+title: "getmunin/munin"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "NestJS", "Next.js", "PostgreSQL", "pgvector", "Drizzle", "MCP (Model Context Protocol)", "BetterAuth", "OAuth 2.1", "Turborepo", "pnpm"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- MCP
-- CRM
-- Agent Orchestration
-- Headless Platform
-- PostgreSQL
-source: https://github.com/getmunin/munin
-discovered_at: '2026-07-20T22:59:34Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP", "CRM", "Agent Orchestration", "Headless Platform", "PostgreSQL"]
+source: "https://github.com/getmunin/munin"
+discovered_at: "2026-07-20T22:59:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

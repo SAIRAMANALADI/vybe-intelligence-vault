@@ -1,26 +1,13 @@
 ---
-title: carrick-tools/carrick
-category: daily-digests/2026-07-21
-tech_stack:
-- Rust
-- TypeScript
-- SWC (JavaScript/TypeScript parser)
-- DynamoDB
-- S3
-- GitHub Actions
-- Model Context Protocol (MCP)
-- LLM (for intent generation)
+title: "carrick-tools/carrick"
+category: "Orchestrator"
+tech_stack: ["Rust", "TypeScript", "SWC (JavaScript/TypeScript parser)", "DynamoDB", "S3", "GitHub Actions", "Model Context Protocol (MCP)", "LLM (for intent generation)"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- TypeScript
-- MCP
-- cross-repo indexing
-- intent-aware
-- API contract validation
-source: https://github.com/carrick-tools/carrick
-discovered_at: '2026-07-15T08:06:08Z'
-evaluated_by: mistral-small-latest
+tags: ["TypeScript", "MCP", "cross-repo indexing", "intent-aware", "API contract validation"]
+source: "https://github.com/carrick-tools/carrick"
+discovered_at: "2026-07-15T08:06:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

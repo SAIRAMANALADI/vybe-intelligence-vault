@@ -1,24 +1,13 @@
 ---
-title: manehorizons/cadence
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Node.js
-- CLI
-- MCP (Model Context Protocol)
-- Git
-- Jest (testing framework)
+title: "manehorizons/cadence"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "Git", "Jest (testing framework)"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- AI agent verification
-- quality gates
-- acceptance criteria
-- CI/CD control
-- developer tooling
-source: https://github.com/manehorizons/cadence
-discovered_at: '2026-07-17T23:51:55Z'
-evaluated_by: mistral-small-latest
+tags: ["AI agent verification", "quality gates", "acceptance criteria", "CI/CD control", "developer tooling"]
+source: "https://github.com/manehorizons/cadence"
+discovered_at: "2026-07-17T23:51:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

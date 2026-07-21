@@ -1,32 +1,13 @@
 ---
-title: bryfar/Buildev
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- React 19
-- Electron
-- CanvasKit/Skia
-- Zustand
-- Bun
-- Node.js
-- Docker
-- MCP (Model Context Protocol)
-- Mermaid.js
-- Tailwind CSS
-- Git
-- OAuth
-- JWT
+title: "bryfar/Buildev"
+category: "UI Component"
+tech_stack: ["TypeScript", "React 19", "Electron", "CanvasKit/Skia", "Zustand", "Bun", "Node.js", "Docker", "MCP (Model Context Protocol)", "Mermaid.js", "Tailwind CSS", "Git", "OAuth", "JWT"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- design-to-code
-- AI-native
-- multi-framework export
-- collaborative design
-- MCP server
-source: https://github.com/bryfar/Buildev
-discovered_at: '2026-07-18T17:56:28Z'
-evaluated_by: mistral-small-latest
+tags: ["design-to-code", "AI-native", "multi-framework export", "collaborative design", "MCP server"]
+source: "https://github.com/bryfar/Buildev"
+discovered_at: "2026-07-18T17:56:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

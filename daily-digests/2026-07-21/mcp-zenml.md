@@ -1,24 +1,13 @@
 ---
-title: zenml-io/mcp-zenml
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- FastMCP
-- ZenML SDK
-- Docker
-- GitHub Actions
+title: "zenml-io/mcp-zenml"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "FastMCP", "ZenML SDK", "Docker", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- MLOps
-- LLMOps
-- MCP Server
-- Pipeline Management
-- Model Serving
-source: https://github.com/zenml-io/mcp-zenml
-discovered_at: '2026-07-15T08:06:02Z'
-evaluated_by: mistral-small-latest
+tags: ["MLOps", "LLMOps", "MCP Server", "Pipeline Management", "Model Serving"]
+source: "https://github.com/zenml-io/mcp-zenml"
+discovered_at: "2026-07-15T08:06:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

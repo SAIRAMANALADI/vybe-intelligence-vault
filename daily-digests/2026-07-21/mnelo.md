@@ -1,26 +1,13 @@
 ---
-title: chinesewebman/mnelo
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- SQLite
-- sqlite-vec
-- MCP (Model Context Protocol)
-- FastEmbed
-- BGE-small-zh-v1.5 (embedding model)
-- WAL-mode SQLite (concurrent reads)
-- i18n (English + 中文)
+title: "chinesewebman/mnelo"
+category: "Vector DB"
+tech_stack: ["Python", "SQLite", "sqlite-vec", "MCP (Model Context Protocol)", "FastEmbed", "BGE-small-zh-v1.5 (embedding model)", "WAL-mode SQLite (concurrent reads)", "i18n (English + \u4e2d\u6587)"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- knowledge graph
-- RRF fusion
-- local-first
-- MCP server
-- bilingual
-source: https://github.com/chinesewebman/mnelo
-discovered_at: '2026-07-18T14:50:34Z'
-evaluated_by: mistral-small-latest
+tags: ["knowledge graph", "RRF fusion", "local-first", "MCP server", "bilingual"]
+source: "https://github.com/chinesewebman/mnelo"
+discovered_at: "2026-07-18T14:50:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

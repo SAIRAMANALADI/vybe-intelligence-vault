@@ -1,24 +1,13 @@
 ---
-title: mcp-gtw/mcp-gtw
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- WebSocket
-- HTTP/Streamable
-- JavaScript
-- Docker
-- FastAPI
+title: "mcp-gtw/mcp-gtw"
+category: "Orchestrator"
+tech_stack: ["Python", "WebSocket", "HTTP/Streamable", "JavaScript", "Docker", "FastAPI"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- MCP Gateway
-- Model Context Protocol
-- WebSocket Orchestration
-- Provider SDK
-- Extensible Architecture
-source: https://github.com/mcp-gtw/mcp-gtw
-discovered_at: '2026-07-20T22:59:30Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP Gateway", "Model Context Protocol", "WebSocket Orchestration", "Provider SDK", "Extensible Architecture"]
+source: "https://github.com/mcp-gtw/mcp-gtw"
+discovered_at: "2026-07-20T22:59:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

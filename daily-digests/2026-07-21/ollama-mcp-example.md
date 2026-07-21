@@ -1,22 +1,13 @@
 ---
-title: kirillsaidov/ollama-mcp-example
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- Ollama
-- MCP (Model Context Protocol)
-- Server-Sent Events (SSE)
+title: "kirillsaidov/ollama-mcp-example"
+category: "Tooling"
+tech_stack: ["Python", "Ollama", "MCP (Model Context Protocol)", "Server-Sent Events (SSE)"]
 quality_score: 8
 rag_relevance: 7
-tags:
-- MCP
-- Ollama
-- function calling
-- AI tooling
-- model integration
-source: https://github.com/kirillsaidov/ollama-mcp-example
-discovered_at: '2026-07-10T10:52:47Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP", "Ollama", "function calling", "AI tooling", "model integration"]
+source: "https://github.com/kirillsaidov/ollama-mcp-example"
+discovered_at: "2026-07-10T10:52:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

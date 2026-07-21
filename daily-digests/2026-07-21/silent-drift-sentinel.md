@@ -1,33 +1,13 @@
 ---
-title: StephenSook/silent-drift-sentinel
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- LangGraph
-- FastAPI
-- NannyML
-- DataHub
-- Claude
-- LiteLLM
-- Next.js
-- Expo
-- PostgreSQL
-- Langfuse
-- LightGBM
-- NannyML
-- Great Expectations
-- dbt
+title: "StephenSook/silent-drift-sentinel"
+category: "Agent Framework"
+tech_stack: ["Python", "LangGraph", "FastAPI", "NannyML", "DataHub", "Claude", "LiteLLM", "Next.js", "Expo", "PostgreSQL", "Langfuse", "LightGBM", "NannyML", "Great Expectations", "dbt"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- ML drift detection
-- Data lineage traversal
-- Root cause analysis
-- Metadata write-back
-- On-call AI agent
-source: https://github.com/StephenSook/silent-drift-sentinel
-discovered_at: '2026-07-19T20:44:13Z'
-evaluated_by: mistral-small-latest
+tags: ["ML drift detection", "Data lineage traversal", "Root cause analysis", "Metadata write-back", "On-call AI agent"]
+source: "https://github.com/StephenSook/silent-drift-sentinel"
+discovered_at: "2026-07-19T20:44:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

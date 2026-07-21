@@ -1,24 +1,13 @@
 ---
-title: avarose57/ai-agent-wikipedia-n8n
-category: daily-digests/2026-07-21
-tech_stack:
-- n8n
-- LangChain
-- Ollama
-- Mistral
-- Wikipedia API
-- Python
+title: "avarose57/ai-agent-wikipedia-n8n"
+category: "Orchestrator"
+tech_stack: ["n8n", "LangChain", "Ollama", "Mistral", "Wikipedia API", "Python"]
 quality_score: 7
 rag_relevance: 7
-tags:
-- automation
-- wikipedia
-- ai-agent
-- workflow-orchestration
-- no-code
-source: https://github.com/avarose57/ai-agent-wikipedia-n8n
-discovered_at: '2026-07-17T02:52:00Z'
-evaluated_by: mistral-small-latest
+tags: ["automation", "wikipedia", "ai-agent", "workflow-orchestration", "no-code"]
+source: "https://github.com/avarose57/ai-agent-wikipedia-n8n"
+discovered_at: "2026-07-17T02:52:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

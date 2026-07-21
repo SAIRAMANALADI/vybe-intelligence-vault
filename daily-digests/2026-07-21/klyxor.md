@@ -1,24 +1,13 @@
 ---
-title: alnyx-dev/klyxor
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Node.js
-- React (TUI components)
-- OpenAI-compatible LLM API
-- Git
-- Markdown
+title: "alnyx-dev/klyxor"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "React (TUI components)", "OpenAI-compatible LLM API", "Git", "Markdown"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- AI coding agent
-- multi-provider LLM
-- terminal UI
-- subagent delegation
-- session persistence
-source: https://github.com/alnyx-dev/klyxor
-discovered_at: '2026-07-19T23:55:53Z'
-evaluated_by: mistral-small-latest
+tags: ["AI coding agent", "multi-provider LLM", "terminal UI", "subagent delegation", "session persistence"]
+source: "https://github.com/alnyx-dev/klyxor"
+discovered_at: "2026-07-19T23:55:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

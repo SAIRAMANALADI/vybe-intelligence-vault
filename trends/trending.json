@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T09:32:16.298480+05:30",
+  "generated_at": "2026-07-21T09:45:51.206892+05:30",
   "trending_resources": [
     {
       "id": "hackernews:who-s-afraid-of-chinese-models",
@@ -142,7 +142,7 @@
       "file_path": "ai/rag/client-libraries-and-cloud-apis-explained-google-c.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 7249,
+      "rank_change": 7262,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -155,7 +155,7 @@
       "file_path": "ai/rag/haystack-enterprise-starter.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 6169,
+      "rank_change": 6189,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -168,7 +168,7 @@
       "file_path": "ai/rag/pgvector-pgvector.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 4898,
+      "rank_change": 4930,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -181,20 +181,7 @@
       "file_path": "ai/rag/ai-vectors-supabase-docs.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 4837,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:control-your-online-safety-and-privacy-google-safe",
-      "title": "Control Your Online Safety and Privacy - Google Safety Center",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://safety.google?hl=en_US",
-      "file_path": "ai/resources/control-your-online-safety-and-privacy-google-safe.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 4540,
+      "rank_change": 4869,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -207,7 +194,7 @@
       "file_path": "ai/resources/deepset-github.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 4448,
+      "rank_change": 4474,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -220,7 +207,7 @@
       "file_path": "ai/rag/rag-application-tutorial-2025-build-production-rea.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 3360,
+      "rank_change": 3395,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,7 +233,7 @@
       "file_path": "ai/rag/github-features-github.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2612,
+      "rank_change": 2626,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -259,7 +246,20 @@
       "file_path": "ai/resources/security-checkup.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2548,
+      "rank_change": 2570,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:gohugoio/hugo-goldmark-extensions",
+      "title": "gohugoio/hugo-goldmark-extensions",
+      "category": "ai/resources",
+      "source_type": "github",
+      "url": "https://github.com/gohugoio/hugo-goldmark-extensions",
+      "file_path": "ai/resources/gohugoio-hugo-goldmark-extensions.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 2195,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -324,19 +324,6 @@
       "source_type": "web",
       "url": "https://github.com/betterstackhq",
       "file_path": "ai/rag/better-stack-github.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:openai-research-deployment",
-      "title": "OpenAI | Research & Deployment",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://openai.com",
-      "file_path": "ai/rag/openai-research-deployment.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -422,19 +409,6 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:welcome-to-unstructured-unstructured",
-      "title": "Welcome to Unstructured! - Unstructured",
-      "category": "ai/agents",
-      "source_type": "web",
-      "url": "https://docs.unstructured.io/welcome",
-      "file_path": "ai/agents/welcome-to-unstructured-unstructured.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
       "id": "blog:docker-weaviate-documentation",
       "title": "Docker | Weaviate Documentation",
       "category": "ai/rag",
@@ -454,6 +428,32 @@
       "source_type": "web",
       "url": "https://checklyhq.com",
       "file_path": "ai/rag/checkly-the-active-reliability-layer-for-developer.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:multimodal-deepfake-detection-and-watermarking-wit",
+      "title": "Multimodal Deepfake Detection and Watermarking with Secure Voice AI | Resemble AI",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://resemble.ai",
+      "file_path": "ai/rag/multimodal-deepfake-detection-and-watermarking-wit.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:your-account-is-disabled-google-account-help",
+      "title": "Your account is disabled - Google Account Help",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://support.google.com/accounts/answer/40695",
+      "file_path": "ai/rag/your-account-is-disabled-google-account-help.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,

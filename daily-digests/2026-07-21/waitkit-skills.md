@@ -1,26 +1,13 @@
 ---
-title: ubeyidah/waitkit-skills
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- React
-- npm
-- Vite
-- Next.js
-- Remix
-- Astro
-- CRA
+title: "ubeyidah/waitkit-skills"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "React", "npm", "Vite", "Next.js", "Remix", "Astro", "CRA"]
 quality_score: 6
 rag_relevance: 7
-tags:
-- waitlist
-- signup flows
-- AI agent skill
-- React hook
-- SDK integration
-source: https://github.com/ubeyidah/waitkit-skills
-discovered_at: '2026-07-19T13:17:24Z'
-evaluated_by: mistral-small-latest
+tags: ["waitlist", "signup flows", "AI agent skill", "React hook", "SDK integration"]
+source: "https://github.com/ubeyidah/waitkit-skills"
+discovered_at: "2026-07-19T13:17:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

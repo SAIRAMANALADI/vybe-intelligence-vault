@@ -1,25 +1,13 @@
 ---
-title: trackly-app/trackly-cli
-category: daily-digests/2026-07-21
-tech_stack:
-- JavaScript
-- Node.js
-- Model Context Protocol (MCP)
-- OAuth
-- REST API
-- CLI
-- TypeScript (implied by modern JS practices)
+title: "trackly-app/trackly-cli"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "OAuth", "REST API", "CLI", "TypeScript (implied by modern JS practices)"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- job tracking
-- MCP server
-- AI agent integration
-- CLI tool
-- application management
-source: https://github.com/trackly-app/trackly-cli
-discovered_at: '2026-07-20T09:59:24Z'
-evaluated_by: mistral-small-latest
+tags: ["job tracking", "MCP server", "AI agent integration", "CLI tool", "application management"]
+source: "https://github.com/trackly-app/trackly-cli"
+discovered_at: "2026-07-20T09:59:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

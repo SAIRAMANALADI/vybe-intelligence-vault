@@ -1,23 +1,13 @@
 ---
-title: vishal-bulbule/capci-mcp
-category: daily-digests/2026-07-21
-tech_stack:
-- MCP (Model Context Protocol)
-- Streamable HTTP
-- API Integration
-- Diagram Generation (Mermaid.js or similar)
-- Cloud Hosting (Remote Server)
+title: "vishal-bulbule/capci-mcp"
+category: "Tooling"
+tech_stack: ["MCP (Model Context Protocol)", "Streamable HTTP", "API Integration", "Diagram Generation (Mermaid.js or similar)", "Cloud Hosting (Remote Server)"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- MCP server
-- text-to-diagram
-- AI workflow integration
-- diagram automation
-- remote tooling
-source: https://github.com/vishal-bulbule/capci-mcp
-discovered_at: '2026-07-20T09:59:35Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP server", "text-to-diagram", "AI workflow integration", "diagram automation", "remote tooling"]
+source: "https://github.com/vishal-bulbule/capci-mcp"
+discovered_at: "2026-07-20T09:59:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
