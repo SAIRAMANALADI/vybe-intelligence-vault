@@ -1,13 +1,31 @@
 ---
-title: "kwhorne/e"
-category: "UI Component"
-tech_stack: ["Rust", "Tree-sitter", "Language Server Protocol (LSP)", "GPU acceleration", "PHP", "Laravel", "Vue", "Svelte", "Tailwind CSS", "Ollama", "Elyra", "Claude Code", "Codex"]
+title: kwhorne/e
+category: daily-digests/2026-07-21
+tech_stack:
+- Rust
+- Tree-sitter
+- Language Server Protocol (LSP)
+- GPU acceleration
+- PHP
+- Laravel
+- Vue
+- Svelte
+- Tailwind CSS
+- Ollama
+- Elyra
+- Claude Code
+- Codex
 quality_score: 9
 rag_relevance: 7
-tags: ["code editor", "AI integration", "Laravel support", "GPU acceleration", "developer tools"]
-source: "https://github.com/kwhorne/e"
-discovered_at: "2026-07-12T17:03:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code editor
+- AI integration
+- Laravel support
+- GPU acceleration
+- developer tools
+source: https://github.com/kwhorne/e
+discovered_at: '2026-07-12T17:03:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

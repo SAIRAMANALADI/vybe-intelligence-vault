@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://changelog.langchain.com/
-published_at: '2026-07-21T19:58:24.920621+05:30'
-collected_at: '2026-07-21T19:58:24.920635+05:30'
+published_at: '2026-07-21T22:18:33.337343+05:30'
+collected_at: '2026-07-21T22:18:33.337363+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langsmith-cloud-changelog-docs-by-langchain
-first_seen: '2026-07-21T19:58:24.920635+05:30'
-last_seen: '2026-07-21T19:58:24.920635+05:30'
-last_checked: '2026-07-21T19:58:24.920635+05:30'
+first_seen: '2026-07-21T22:18:33.337363+05:30'
+last_seen: '2026-07-21T22:18:33.337363+05:30'
+last_checked: '2026-07-21T22:18:33.337363+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Enhanced Experiment & Dataset Management**: Improved experiment comparison views with dynamic split chips, real-time split membership tracking, and bulk split assignment/removal; added `langsmith evaluator create-llm` for structured LLM-as-judge evaluators; fixed evaluator spend chart rendering and dataset export limits.
+- **Datasets & Experiments Enhancements**: Improved experiment comparison views with accurate truncation, dynamic split chips, and real-time split assignments; added `langsmith evaluator create-llm` for structured LLM-as-judge evaluators; enforced evaluator caps per workspace; fixed evaluator timeout handling and dataset example creation from source runs.
 
-- **Tracing & Observability Improvements**: Enforced monthly trace limits per project/user; added OpenTelemetry resource attribute support (`otel.resource.*`); improved public trace sharing, bulk export compression (zstd default), and Vercel AI SDK trace rendering; fixed OpenTelemetry child span buffering and LLM provider logo resolution.
+- **Tracing & Observability Updates**: Enforced monthly trace limits per project/user; improved public run sharing and OpenTelemetry trace rendering (e.g., Vercel AI SDK, VS Code Copilot Chat); added project UUID support in LangSmith MCP tools; preserved traces in multipart ingestion batches despite oversized inputs.
 
-- **Evaluator & Annotation Queue Updates**: Capped reusable evaluators per workspace; added THREAD support to annotation queues (`POST /annotation-queues/{id}/items`); increased code evaluator timeout limits; enforced dataset download permissions; improved error handling for duplicate runs and evaluator failures.
+- **API & UI Optimizations**: Added batch item limits (200) for annotation queues; improved evaluator spend chart readability; enforced dataset download permissions; optimized bulk export compression (zstd by default); fixed duplicate run conflict messages and non-primitive metadata display in run details.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T19:58:24.920621+05:30
+- Published: 2026-07-21T22:18:33.337343+05:30
 
 ## Related Tags
 

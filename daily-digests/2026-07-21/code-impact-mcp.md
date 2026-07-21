@@ -1,13 +1,24 @@
 ---
-title: "vk0dev/code-impact-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "ts-morph", "MCP (Model Context Protocol)", "Husky", "npm"]
+title: vk0dev/code-impact-mcp
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- ts-morph
+- MCP (Model Context Protocol)
+- Husky
+- npm
 quality_score: 9
 rag_relevance: 8
-tags: ["pre-commit", "dependency analysis", "blast radius", "AI code safety", "local-first"]
-source: "https://github.com/vk0dev/code-impact-mcp"
-discovered_at: "2026-07-14T02:13:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- pre-commit
+- dependency analysis
+- blast radius
+- AI code safety
+- local-first
+source: https://github.com/vk0dev/code-impact-mcp
+discovered_at: '2026-07-14T02:13:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

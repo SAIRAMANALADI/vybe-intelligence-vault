@@ -1,13 +1,27 @@
 ---
-title: "MarkBovee/nebu-skills"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "OpenCode", "GitHub Copilot", "Claude Code", "VS Code Agent Plugin", "Shell Scripting", "JSON", "YAML"]
+title: MarkBovee/nebu-skills
+category: daily-digests/2026-07-21
+tech_stack:
+- JavaScript
+- Node.js
+- OpenCode
+- GitHub Copilot
+- Claude Code
+- VS Code Agent Plugin
+- Shell Scripting
+- JSON
+- YAML
 quality_score: 9
 rag_relevance: 8
-tags: ["agent workflows", "skill routing", "multi-platform", "code review", "debugging"]
-source: "https://github.com/MarkBovee/nebu-skills"
-discovered_at: "2026-07-21T12:23:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent workflows
+- skill routing
+- multi-platform
+- code review
+- debugging
+source: https://github.com/MarkBovee/nebu-skills
+discovered_at: '2026-07-21T12:23:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -3,7 +3,7 @@ title: Google Cloud Blog | News, Features and Announcements
 archive_category: model-providers
 source_category: ai/rag
 source_url: https://cloud.google.com/blog/
-resource_id: blog:google-cloud-blog-news-features-and-announcements
+resource_id: blog:google-cloud-blog-news-features-and-announcements-111e6092
 local_vault_path: ai/rag/google-cloud-blog-news-features-and-announcements.md
 quality_score: 70
 archive_score: 74

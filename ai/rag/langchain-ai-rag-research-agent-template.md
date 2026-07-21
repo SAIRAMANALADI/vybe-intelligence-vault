@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-07-21T19:52:44.412612+05:30'
+collected_at: '2026-07-21T22:13:32.472987+05:30'
 published_at: '2026-07-20T04:47:41Z'
 tags:
 - agents
+- anthropic
 - github-repo
-- hackernews
 - openai
 - python
 - rag
@@ -22,9 +22,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-07-21T19:52:44.412612+05:30'
-last_seen: '2026-07-21T19:52:44.412612+05:30'
-last_checked: '2026-07-21T19:52:44.412612+05:30'
+first_seen: '2026-07-21T22:13:32.472987+05:30'
+last_seen: '2026-07-21T22:13:32.472987+05:30'
+last_checked: '2026-07-21T22:13:32.472987+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating structured experimentation with LLMs and document retrieval pipelines.
+- **Template Structure**: Provides a modular Python-based framework for building Retrieval-Augmented Generation (RAG) research agents, leveraging LangChain's ecosystem for LLM integration and document processing.
 
-- **Technical Stack**: Python-based, leveraging LangChain’s modular framework for integrating LLMs, vector stores (e.g., FAISS, Chroma), and retrieval strategies (e.g., similarity search, query rewriting).
+- **Key Components**: Includes pre-configured pipelines for document ingestion, embedding generation (e.g., using HuggingFace models), vector storage (e.g., FAISS or Chroma), and retrieval-augmented query execution with LLM backends (e.g., OpenAI, Anthropic).
 
-- **Key Components**: Includes pre-configured pipelines for document ingestion, embedding generation (e.g., OpenAI `text-embedding-3-small`), and agentic workflows with tools like `TavilySearchAPIWrapper` for dynamic research agent development.
+- **Customization Hooks**: Designed for extensibility with configurable parameters for chunking strategies, embedding dimensions, retrieval top-k, and agent workflows (e.g., multi-agent debate, iterative refinement).
 
 ## Why It Matters
 

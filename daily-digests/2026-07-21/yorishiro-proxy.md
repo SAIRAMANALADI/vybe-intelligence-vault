@@ -1,13 +1,30 @@
 ---
-title: "usk6666/yorishiro-proxy"
-category: "Tooling"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "React", "Vite", "Starlark", "TypeScript", "TLS", "gRPC", "WebSocket", "HTTP/1.1", "HTTP/2", "SOCKS5"]
+title: usk6666/yorishiro-proxy
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- React
+- Vite
+- Starlark
+- TypeScript
+- TLS
+- gRPC
+- WebSocket
+- HTTP/1.1
+- HTTP/2
+- SOCKS5
 quality_score: 9
 rag_relevance: 8
-tags: ["MITM Proxy", "AI Agent Tooling", "Traffic Interception", "MCP Server", "Multi-Protocol Support"]
-source: "https://github.com/usk6666/yorishiro-proxy"
-discovered_at: "2026-07-16T15:00:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MITM Proxy
+- AI Agent Tooling
+- Traffic Interception
+- MCP Server
+- Multi-Protocol Support
+source: https://github.com/usk6666/yorishiro-proxy
+discovered_at: '2026-07-16T15:00:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NousResearch/hermes-agent
-collected_at: '2026-07-21T19:55:39.474589+05:30'
-published_at: '2026-07-21T14:21:21Z'
+collected_at: '2026-07-21T22:16:27.582609+05:30'
+published_at: '2026-07-21T16:41:18Z'
 tags:
 - agents
 - anthropic
@@ -13,17 +13,17 @@ tags:
 - openai
 - python
 - workflows
-stars: 218194
+stars: 218260
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-07-22T22:22:28Z'
-pushed_at: '2026-07-21T14:20:59Z'
+pushed_at: '2026-07-21T16:13:45Z'
 resource_id: github:nousresearch/hermes-agent
-first_seen: '2026-07-21T19:55:39.474589+05:30'
-last_seen: '2026-07-21T19:55:39.474589+05:30'
-last_checked: '2026-07-21T19:55:39.474589+05:30'
+first_seen: '2026-07-21T22:16:27.582609+05:30'
+last_seen: '2026-07-21T22:16:27.582609+05:30'
+last_checked: '2026-07-21T22:16:27.582609+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Model Agent Framework**: Hermes-Agent is a Python-based AI agent framework supporting integration with Anthropic (Claude), OpenAI (ChatGPT), and other LLM providers, enabling cross-platform agentic workflows.
+- **Multi-Provider LLM Integration**: Supports Anthropic, OpenAI, and other LLM APIs (e.g., Claude, ChatGPT) for dynamic agentic workflows, enabling cross-model task delegation via standardized interfaces.
 
-- **Dynamic Skill Expansion**: Implements a modular architecture allowing agents to dynamically acquire new tools, APIs, and capabilities via `clawdbot` and `openclaw` plugins, enabling continuous learning and adaptation.
+- **Self-Improving Agent Framework**: Implements recursive self-refinement loops where the agent autonomously evaluates and enhances its own performance using tools like `claude-code` for code execution and debugging.
 
-- **Production-Ready Tooling**: Includes built-in support for code execution (`claude-code`), file system operations, and API interactions, optimized for deployment in agentic systems like `moltbot` and Nous Research's Hermes ecosystem.
+- **Modular Tooling & Extensibility**: Provides a plugin-based architecture (e.g., `clawdbot`, `moltbot`) for integrating custom tools, APIs, and workflows, with Python-first extensibility for rapid agent customization.
 
 ## Why It Matters
 
@@ -44,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NousResearch
-- Stars: 218194
-- Forks: 41224
+- Stars: 218260
+- Forks: 41253
 - Language: Python
 - Topics: ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw
-- Last Updated: 2026-07-21T14:21:21Z
+- Last Updated: 2026-07-21T16:41:18Z
 - License: MIT
 - Archived: No
 - Created At: 2025-07-22T22:22:28Z
-- Pushed At: 2026-07-21T14:20:59Z
+- Pushed At: 2026-07-21T16:13:45Z
 
 ## Possible Use Cases
 

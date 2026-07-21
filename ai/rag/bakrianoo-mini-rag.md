@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bakrianoo/mini-rag
-collected_at: '2026-07-21T19:53:59.385051+05:30'
+collected_at: '2026-07-21T22:14:47.422428+05:30'
 published_at: '2026-07-21T12:26:57Z'
 tags:
 - github-repo
+- openai
 - python
 - rag
+- workflows
 stars: 658
 language: Python
 status: active
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-02-27T13:39:48Z'
 pushed_at: '2025-08-15T05:41:12Z'
 resource_id: github:bakrianoo/mini-rag
-first_seen: '2026-07-21T19:53:59.385051+05:30'
-last_seen: '2026-07-21T19:53:59.385051+05:30'
-last_checked: '2026-07-21T19:53:59.385051+05:30'
+first_seen: '2026-07-21T22:14:47.422428+05:30'
+last_seen: '2026-07-21T22:14:47.422428+05:30'
+last_checked: '2026-07-21T22:14:47.422428+05:30'
 health_score: 100
 ---
 
@@ -28,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Provides a step-by-step guide to building a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker.
-- **Modular Architecture**: Implements a structured, modular design for document processing, vector storage (e.g., FAISS/Chroma), and LLM integration with FastAPI endpoints.
-- **Deployment & Scalability**: Includes Dockerized setup for containerized deployment, with emphasis on scalability, API design, and GenAI integration best practices.
+- **Educational RAG Pipeline**: Demonstrates a step-by-step implementation of a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker for modular deployment.
+- **GenAI Integration**: Incorporates generative AI models with a structured workflow for document retrieval, embedding generation (e.g., using Sentence Transformers), and LLM inference (e.g., via Hugging Face or OpenAI APIs).
+- **Scalable Architecture**: Implements CI/CD-ready practices with Docker Compose for orchestration, FastAPI for RESTful endpoints, and modular components (e.g., vector DB like Chroma or FAISS) for efficient retrieval.
 
 ## Why It Matters
 

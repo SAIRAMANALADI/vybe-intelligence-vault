@@ -3,16 +3,17 @@ title: Sign in to GitHub · GitHub
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/langchain-ai/docs/edit/main/src/langsmith/changelog.mdx
-published_at: '2026-07-21T03:50:21.693364+05:30'
-collected_at: '2026-07-21T03:50:21.693378+05:30'
+source_url: https://github.com/langchain-ai/docs/edit/main/src/langsmith/observability.mdx
+published_at: '2026-07-21T22:22:12.434983+05:30'
+collected_at: '2026-07-21T22:22:12.435000+05:30'
 tags:
+- hackernews
 - web-crawled
 status: active
 resource_id: github:langchain-ai/docs
-first_seen: '2026-07-21T03:50:21.693378+05:30'
-last_seen: '2026-07-21T03:50:21.693378+05:30'
-last_checked: '2026-07-21T03:50:21.693378+05:30'
+first_seen: '2026-07-21T22:22:12.435000+05:30'
+last_seen: '2026-07-21T22:22:12.435000+05:30'
+last_checked: '2026-07-21T22:22:12.435000+05:30'
 health_score: 100
 ---
 
@@ -20,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Authentication Error**: The page failed to load due to an unspecified error during the login process.
-- **Recovery Option**: Users can reset their password via the "Forgot password?" link if access is lost.
-- **Alternative Access**: GitHub supports passkey-based authentication for secure, passwordless sign-ins.
+- **Authentication Error**: The GitHub login page encountered a loading error, requiring a manual reload.
+- **Account Creation Link**: Provides a direct URL (`/signup`) for new user registration with a return path to the docs.
+- **Passkey Support**: Indicates optional sign-in via passkey authentication (modern FIDO2/WebAuthn alternative).
 
 ## Why It Matters
 
@@ -32,12 +33,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-21T03:50:21.693364+05:30
+- Published: 2026-07-21T22:22:12.434983+05:30
 
 ## Related Tags
 
+- hackernews
 - web-crawled
 
 ## Source
 
-Original source: https://github.com/langchain-ai/docs/edit/main/src/langsmith/changelog.mdx
+Original source: https://github.com/langchain-ai/docs/edit/main/src/langsmith/observability.mdx

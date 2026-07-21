@@ -1,13 +1,28 @@
 ---
-title: "warpdotdev/competitive-intelligence-agent-oss"
-category: "Agent Framework"
-tech_stack: ["Python", "Warp", "Google Workspace (Drive, Docs, Gmail, BigQuery)", "Metabase", "Grain", "Notion", "Slack", "GitHub CLI", "OAuth2", "REST APIs"]
+title: warpdotdev/competitive-intelligence-agent-oss
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Warp
+- Google Workspace (Drive, Docs, Gmail, BigQuery)
+- Metabase
+- Grain
+- Notion
+- Slack
+- GitHub CLI
+- OAuth2
+- REST APIs
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent", "competitive intelligence", "product management", "automation", "MCP integrations"]
-source: "https://github.com/warpdotdev/competitive-intelligence-agent-oss"
-discovered_at: "2026-07-20T19:53:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- competitive intelligence
+- product management
+- automation
+- MCP integrations
+source: https://github.com/warpdotdev/competitive-intelligence-agent-oss
+discovered_at: '2026-07-20T19:53:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

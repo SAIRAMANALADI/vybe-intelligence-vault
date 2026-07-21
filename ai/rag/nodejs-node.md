@@ -1,68 +1,51 @@
 ---
-title: nodejs/node
+title: Security Policy · nodejs/node · GitHub
 category: ai/rag
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/nodejs/node
-collected_at: '2026-07-21T20:02:58.090420+05:30'
-published_at: '2026-07-21T14:00:02Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/nodejs/node/security/policy
+published_at: '2026-07-21T22:22:07.805771+05:30'
+collected_at: '2026-07-21T22:22:07.805787+05:30'
 tags:
-- github-repo
-- javascript
+- hackernews
 - rag
-stars: 118338
-language: JavaScript
+- web-crawled
+- workflows
 status: active
-license: NOASSERTION
-archived: false
-created_at: '2014-11-26T19:57:11Z'
-pushed_at: '2026-07-21T14:02:52Z'
 resource_id: github:nodejs/node
-first_seen: '2026-07-21T20:02:58.090420+05:30'
-last_seen: '2026-07-21T20:02:58.090420+05:30'
-last_checked: '2026-07-21T20:02:58.090420+05:30'
+first_seen: '2026-07-21T22:22:07.805787+05:30'
+last_seen: '2026-07-21T22:22:07.805787+05:30'
+last_checked: '2026-07-21T22:22:07.805787+05:30'
 health_score: 100
 ---
 
-# nodejs/node
+# Security Policy · nodejs/node · GitHub
 
 ## Summary
 
-- **Runtime Environment**: Node.js is a server-side JavaScript runtime built on Chrome's V8 JavaScript engine, enabling asynchronous, event-driven I/O for scalable network applications.
-- **Cross-Platform Support**: Compatible with Linux, macOS, and Windows, leveraging platform-specific optimizations while maintaining a unified JavaScript API.
-- **MIT Licensed**: Open-source project under the MIT License, fostering community contributions and widespread adoption in enterprise and open-source ecosystems.
+- **Reporting & Escalation Process**: Security bugs in Node.js must be reported via [HackerOne](https://hackerone.com/nodejs) with acknowledgment within 5 days and detailed response within 10 days; escalation to `security@lists.openjsf.org` is permitted if no response is received within 6 business days or 14 days post-acknowledgment.
+
+- **Disclosure & Validation Workflow**: Security reports undergo validation across supported Node.js versions, with fixes prepared privately; CVEs are requested, and public disclosure occurs 72 hours post-CVE issuance (embargo may vary by severity), followed by advisory publication on the Node.js blog within 6 hours of mailing list notification.
+
+- **Vulnerability Scope & Criteria**: Valid vulnerabilities must exploit untrusted inputs (e.g., network data, file I/O) to compromise confidentiality/integrity/availability or cause DoS under documented API misuse; experimental features, V8 flags, and OS-level compromises are excluded from CVE issuance and bug bounties.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: nodejs
-- Stars: 118338
-- Forks: 36197
-- Language: JavaScript
-- Topics: javascript, js, linux, macos, mit, node, nodejs, runtime, windows
-- Last Updated: 2026-07-21T14:00:02Z
-- License: NOASSERTION
-- Archived: No
-- Created At: 2014-11-26T19:57:11Z
-- Pushed At: 2026-07-21T14:02:52Z
+- Source: Web Discovery
+- Category: ai/rag
+- Published: 2026-07-21T22:22:07.805771+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- hackernews
+- rag
+- web-crawled
+- workflows
 
 ## Source
 
-Original source: https://github.com/nodejs/node
+Original source: https://github.com/nodejs/node/security/policy

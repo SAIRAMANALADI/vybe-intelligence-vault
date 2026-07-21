@@ -11,11 +11,11 @@ Building a startup requires integrating landing pages, auth, Stripe, and AI tool
 - [Purchase & watch Primetime Channels on YouTube - Computer - YouTube Help](https://support.google.com/youtube/answer/12769543?sjid=5082629036510608231-NA) (tutorial - USEFUL Tier)
 - [Apple Watch - Apple](https://www.apple.com/watch/) (tutorial - USEFUL Tier)
 - [Quota Marketplace: Dynamic Pricing for Efficient Allocation of ML Training Resources](https://arxiv.org/abs/2607.09802) (framework - USEFUL Tier)
-- [Vite | Next Generation Frontend Tooling](https://vite.dev/?utm_source=pnpm&utm_medium=home_page) (framework - USEFUL Tier)
 - [A Control Theory of Predictability in Latent World Models](https://arxiv.org/abs/2607.10362) (framework - USEFUL Tier)
 - [An Agentic Interface for End-to-End Probabilistic Seismic Hazard and Risk Analysis](https://arxiv.org/abs/2607.16249) (framework - USEFUL Tier)
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (tutorial - USEFUL Tier)
 - [codebucks27/Apple-iphone-3d-landing-page-starter-Code](https://github.com/codebucks27/apple-iphone-3d-landing-page-starter-code) (template - USEFUL Tier)
+- [codebucks27/3D-Landing-page-for-Apple-iPhone](https://github.com/codebucks27/3d-landing-page-for-apple-iphone) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -42,4 +42,4 @@ https://github.com/shadcn-ui/taxonomy (Taxonomy App)
 
 ---
 
-*Last updated: 2026-07-21 20:09 IST*
+*Last updated: 2026-07-21 22:30 IST*

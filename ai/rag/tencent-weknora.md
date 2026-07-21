@@ -4,20 +4,19 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Tencent/WeKnora
-collected_at: '2026-07-21T19:52:59.368645+05:30'
-published_at: '2026-07-21T14:05:50Z'
+collected_at: '2026-07-21T22:13:47.633051+05:30'
+published_at: '2026-07-21T16:35:01Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - go
-- hackernews
 - meta-ai
 - models
 - openai
 - rag
 - workflows
-stars: 18672
+stars: 18677
 language: Go
 status: active
 license: NOASSERTION
@@ -25,9 +24,9 @@ archived: false
 created_at: '2025-07-22T08:01:23Z'
 pushed_at: '2026-07-21T12:29:02Z'
 resource_id: github:tencent/weknora
-first_seen: '2026-07-21T19:52:59.368645+05:30'
-last_seen: '2026-07-21T19:52:59.368645+05:30'
-last_checked: '2026-07-21T19:52:59.368645+05:30'
+first_seen: '2026-07-21T22:13:47.633051+05:30'
+last_seen: '2026-07-21T22:13:47.633051+05:30'
+last_checked: '2026-07-21T22:13:47.633051+05:30'
 health_score: 100
 ---
 
@@ -35,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal LLM Knowledge Platform**: Converts raw documents into a queryable RAG system, autonomous reasoning agent, and self-maintaining Wiki using Go-based architecture.
+- **Multi-Model RAG & Agentic Workflows**: Implements Retrieval-Augmented Generation (RAG) with support for vector search, reranking, and multi-model LLM integration (e.g., Ollama, OpenAI) to enable autonomous reasoning agents and self-maintaining knowledge bases.
 
-- **Advanced Technical Features**: Supports embeddings, vector search, reranking, semantic search, and multi-model integration (Ollama, OpenAI) with multi-tenant capabilities.
+- **Go-Based Scalable Architecture**: Built in Go for high-performance multi-tenant semantic search, embeddings generation, and evaluation pipelines, optimized for large-scale document processing and real-time query resolution.
 
-- **Evaluation & Deployment**: Includes built-in evaluation tools for generative AI, supports chatbot deployment, and enables autonomous agent workflows with knowledge base maintenance.
+- **Self-Sustaining Wiki System**: Automatically converts raw documents into a queryable Wiki with semantic search, multi-modal embeddings, and agentic maintenance, supporting dynamic updates and cross-referencing.
 
 ## Why It Matters
 
@@ -48,11 +47,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Tencent
-- Stars: 18672
-- Forks: 2603
+- Stars: 18677
+- Forks: 2602
 - Language: Go
 - Topics: agent, agentic, ai, chatbot, embeddings, evaluation, generative-ai, golang, knowledge-base, llm, multi-tenant, multimodel, ollama, openai, question-answering, rag, reranking, semantic-search, vector-search, wiki
-- Last Updated: 2026-07-21T14:05:50Z
+- Last Updated: 2026-07-21T16:35:01Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-07-22T08:01:23Z

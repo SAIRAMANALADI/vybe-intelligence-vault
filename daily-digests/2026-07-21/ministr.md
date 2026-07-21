@@ -1,13 +1,22 @@
 ---
-title: "OlsonSoftware/ministr"
-category: "Tooling"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "AST (Abstract Syntax Tree)", "C toolchain"]
+title: OlsonSoftware/ministr
+category: daily-digests/2026-07-21
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- AST (Abstract Syntax Tree)
+- C toolchain
 quality_score: 9
 rag_relevance: 8
-tags: ["code intelligence", "MCP server", "AST parsing", "local-first", "AI agents"]
-source: "https://github.com/OlsonSoftware/ministr"
-discovered_at: "2026-07-14T23:53:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code intelligence
+- MCP server
+- AST parsing
+- local-first
+- AI agents
+source: https://github.com/OlsonSoftware/ministr
+discovered_at: '2026-07-14T23:53:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

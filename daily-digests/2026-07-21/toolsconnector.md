@@ -1,13 +1,28 @@
 ---
-title: "sachinshelke/ToolsConnector"
-category: "Tooling"
-tech_stack: ["Python", "Pydantic V2", "HTTPX", "Starlette", "FastAPI", "MCP (Model Context Protocol)", "OpenAI Function Calling", "Anthropic Tool Use", "Gemini Function Declarations", "Async/Await"]
+title: sachinshelke/ToolsConnector
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Pydantic V2
+- HTTPX
+- Starlette
+- FastAPI
+- MCP (Model Context Protocol)
+- OpenAI Function Calling
+- Anthropic Tool Use
+- Gemini Function Declarations
+- Async/Await
 quality_score: 9
 rag_relevance: 10
-tags: ["API connectors", "AI agent integration", "MCP server", "multi-SaaS", "function calling"]
-source: "https://github.com/sachinshelke/ToolsConnector"
-discovered_at: "2026-07-20T06:16:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- API connectors
+- AI agent integration
+- MCP server
+- multi-SaaS
+- function calling
+source: https://github.com/sachinshelke/ToolsConnector
+discovered_at: '2026-07-20T06:16:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

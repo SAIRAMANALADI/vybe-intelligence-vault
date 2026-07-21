@@ -15,6 +15,7 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [How to Build an MCP Server with Gradio](https://huggingface.co/blog/gradio-mcp) | `mcp-registry/` | 70 |
 | [Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio](https://huggingface.co/blog/gradio-vton-mcp) | `mcp-registry/` | 70 |
 | [acuvity/minibridge](https://github.com/acuvity/minibridge) | `mcp-registry/` | 70 |
+| [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) | `mcp-registry/` | 70 |
 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | `mcp-registry/` | 70 |
 | [Tools - Model Context Protocol](https://modelcontextprotocol.io/specification/latest/server/tools) | `mcp-registry/` | 70 |
 | [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) | `mcp-registry/` | 70 |
@@ -23,6 +24,5 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [Black Forest Labs · GitHub](https://github.com/black-forest-labs) | `mcp-registry/` | 70 |
 | [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) | `mcp-registry/` | 70 |
 | [Welcome to the Planetary Data System](https://pds.nasa.gov) | `mcp-registry/` | 70 |
-| [mukul975/cve-mcp-server](https://github.com/mukul975/cve-mcp-server) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

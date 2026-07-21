@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-07-21T19:53:34.401270+05:30'
+collected_at: '2026-07-21T22:14:22.411130+05:30'
 published_at: '2026-07-15T09:29:13Z'
 tags:
 - github-repo
 - hackernews
-- paper
 - rag
 - unknown
 stars: 339
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-07-21T19:53:34.401270+05:30'
-last_seen: '2026-07-21T19:53:34.401270+05:30'
-last_checked: '2026-07-21T19:53:34.401270+05:30'
+first_seen: '2026-07-21T22:14:22.411130+05:30'
+last_seen: '2026-07-21T22:14:22.411130+05:30'
+last_checked: '2026-07-21T22:14:22.411130+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A structured compilation of advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)**, including methods, papers, and tools.
-- **Repository Stats**: Maintained with **339 stars** and **9 forks**, last updated on **July 15, 2026**, indicating active development.
-- **Focus Areas**: Covers **vision-language models (VLMs)**, **multimodal RAG**, and **cross-modal retrieval** techniques for enhancing generative AI in visual contexts.
+- **Curated Resource**: A GitHub repository compiling advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)**, including methods integrating vision-language models (VLMs) and multimodal RAG systems.
+
+- **Scope & Focus**: Encompasses cutting-edge approaches such as **cross-modal retrieval**, **vision-language pretraining**, and **multimodal RAG architectures** for tasks like image captioning, visual question answering (VQA), and scene understanding.
+
+- **Maintenance & Updates**: Last updated on **July 15, 2026**, with 339 stars and 9 forks, indicating active community engagement and evolving contributions in the field.
 
 ## Why It Matters
 

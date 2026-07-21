@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Polymarket/agents
-collected_at: '2026-07-21T19:55:54.484771+05:30'
+collected_at: '2026-07-21T22:16:42.644609+05:30'
 published_at: '2026-07-21T13:22:34Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: true
 created_at: '2024-07-03T22:44:18Z'
 pushed_at: '2024-11-05T15:40:29Z'
 resource_id: github:polymarket/agents
-first_seen: '2026-07-21T19:55:54.484771+05:30'
-last_seen: '2026-07-21T19:55:54.484771+05:30'
-last_checked: '2026-07-21T19:55:54.484771+05:30'
+first_seen: '2026-07-21T22:16:42.644609+05:30'
+last_seen: '2026-07-21T22:16:42.644609+05:30'
+last_checked: '2026-07-21T22:16:42.644609+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Trading Framework**: Python-based repository enabling AI agents to execute trades on Polymarket autonomously, leveraging market-making and predictive models.
+- **Autonomous Trading Framework**: Python-based repository enabling AI agents to execute trades autonomously on Polymarket, leveraging market-making and predictive modeling strategies.
 
-- **Modular Architecture**: Designed with extensible components for strategy implementation, order execution, and real-time market data processing.
+- **Modular Architecture**: Designed with extensible components for order execution, market data ingestion, and strategy optimization, facilitating custom agent development.
 
-- **Integration with Polymarket API**: Direct interaction with Polymarket’s prediction market platform via REST/WebSocket APIs for order placement and liquidity management.
+- **Real-Time Market Integration**: Interfaces with Polymarket’s API for live order book data, trade execution, and liquidity management, ensuring low-latency decision-making.
 
 ## Why It Matters
 

@@ -1,13 +1,27 @@
 ---
-title: "tropeai/trope-cua"
-category: "Tooling"
-tech_stack: ["C#", "Swift", ".NET", "MCP (Model Context Protocol)", "PowerShell", "Xcode Command Line Tools", "Accessibility APIs", "UI Automation (UIA)", "Microsoft Active Accessibility (MSAA)"]
+title: tropeai/trope-cua
+category: daily-digests/2026-07-21
+tech_stack:
+- C#
+- Swift
+- .NET
+- MCP (Model Context Protocol)
+- PowerShell
+- Xcode Command Line Tools
+- Accessibility APIs
+- UI Automation (UIA)
+- Microsoft Active Accessibility (MSAA)
 quality_score: 9
 rag_relevance: 8
-tags: ["desktop automation", "AI agent integration", "background computer use", "accessibility APIs", "MCP server"]
-source: "https://github.com/tropeai/trope-cua"
-discovered_at: "2026-07-21T04:15:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- desktop automation
+- AI agent integration
+- background computer use
+- accessibility APIs
+- MCP server
+source: https://github.com/tropeai/trope-cua
+discovered_at: '2026-07-21T04:15:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/JCodesMore/ai-website-cloner-template
-collected_at: '2026-07-21T16:52:29.366410+05:30'
-published_at: '2026-07-21T11:22:18Z'
+collected_at: '2026-07-21T22:15:17.480041+05:30'
+published_at: '2026-07-21T16:44:16Z'
 tags:
 - agents
 - anthropic
@@ -13,7 +13,8 @@ tags:
 - github-repo
 - scripts
 - typescript
-stars: 29314
+- workflows
+stars: 29393
 language: TypeScript
 status: active
 license: MIT
@@ -21,9 +22,9 @@ archived: false
 created_at: '2026-03-13T11:14:39Z'
 pushed_at: '2026-07-04T06:49:18Z'
 resource_id: github:jcodesmore/ai-website-cloner-template
-first_seen: '2026-07-21T16:52:29.366410+05:30'
-last_seen: '2026-07-21T16:52:29.366410+05:30'
-last_checked: '2026-07-21T16:52:29.366410+05:30'
+first_seen: '2026-07-21T22:15:17.480041+05:30'
+last_seen: '2026-07-21T22:15:17.480041+05:30'
+last_checked: '2026-07-21T22:15:17.480041+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Enables one-command website cloning via AI coding agents (e.g., Claude Code) using TypeScript, Next.js, and React.
-- **Key Features**: Automates reverse-engineering, web-scraping, and UI replication with shadcn/ui, TailwindCSS, and AI-driven code generation.
-- **Tech Stack**: TypeScript-based boilerplate with Next.js, React, and AI agent integration (Claude Code) for automation and developer tooling.
+- **AI-Powered Website Cloning**: Utilizes AI coding agents (e.g., Claude Code) to automate website cloning via a single command, eliminating manual reverse-engineering steps.
+- **Tech Stack**: Built with Next.js, React, TypeScript, TailwindCSS, and shadcn-ui for modern UI components and scalable architecture.
+- **Automated Workflow**: Integrates web-scraping and AI agents to parse, replicate, and deploy website structures, including dynamic content and styling.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: JCodesMore
-- Stars: 29314
-- Forks: 4199
+- Stars: 29393
+- Forks: 4203
 - Language: TypeScript
 - Topics: ai, ai-agents, ai-tools, automation, boilerplate, claude, claude-code, clone, developer-tools, nextjs, react, reverse-engineering, shadcn-ui, skills, tailwindcss, template, typescript, web-scraping, website-clone
-- Last Updated: 2026-07-21T11:22:18Z
+- Last Updated: 2026-07-21T16:44:16Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-13T11:14:39Z

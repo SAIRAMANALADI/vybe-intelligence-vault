@@ -1,13 +1,26 @@
 ---
-title: "mayankanup/commerce-ai-platform"
-category: "Agent Framework"
-tech_stack: ["Go", "Gin", "SQLite", "sqlite-vec", "Ollama", "OpenTelemetry", "Arize Phoenix", "React"]
+title: mayankanup/commerce-ai-platform
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- Gin
+- SQLite
+- sqlite-vec
+- Ollama
+- OpenTelemetry
+- Arize Phoenix
+- React
 quality_score: 7
 rag_relevance: 9
-tags: ["AI agents", "RAG", "e-commerce", "observability", "automated evaluations"]
-source: "https://github.com/mayankanup/commerce-ai-platform"
-discovered_at: "2026-07-21T04:14:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- RAG
+- e-commerce
+- observability
+- automated evaluations
+source: https://github.com/mayankanup/commerce-ai-platform
+discovered_at: '2026-07-21T04:14:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

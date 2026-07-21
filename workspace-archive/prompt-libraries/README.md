@@ -26,7 +26,7 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 - [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](https://github.com/lm-sys/FastChat/blob/main/fastchat/llm_judge/data/judge_prompts.jsonl)
 - [stanfordnlp/dsp](https://github.com/stanfordnlp/dsp)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
-- [ali-bahrainian/RAG_best_practices](https://github.com/ali-bahrainian/RAG_best_practices)
+- [analyticsworld1/RAG_Techniques2025-main](https://github.com/analyticsworld1/RAG_Techniques2025-main)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 
 ---
 
-*Last updated: 2026-07-21 20:09 IST*
+*Last updated: 2026-07-21 22:30 IST*

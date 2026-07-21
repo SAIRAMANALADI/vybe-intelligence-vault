@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Code-and-Sorts/awesome-copilot-agents
-collected_at: '2026-07-21T19:54:19.423185+05:30'
+collected_at: '2026-07-21T22:15:07.480024+05:30'
 published_at: '2026-07-20T22:59:31Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-19T17:37:01Z'
 pushed_at: '2026-04-29T06:42:59Z'
 resource_id: github:code-and-sorts/awesome-copilot-agents
-first_seen: '2026-07-21T19:54:19.423185+05:30'
-last_seen: '2026-07-21T19:54:19.423185+05:30'
-last_checked: '2026-07-21T19:54:19.423185+05:30'
+first_seen: '2026-07-21T22:15:07.480024+05:30'
+last_seen: '2026-07-21T22:15:07.480024+05:30'
+last_checked: '2026-07-21T22:15:07.480024+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`Code-and-Sorts/awesome-copilot-agents`) hosting a structured collection of GitHub Copilot custom instructions, prompts, skills, MCP (Model Context Protocol) configurations, and agent markdown files to optimize AI agent interactions.
-
-- **Technical Scope**: Focuses on enhancing GitHub Copilot's capabilities via prompt engineering, custom agent development, and VS Code Copilot Chat integration, with TypeScript-based implementations and modular MCP support.
-
-- **Community Metrics**: Maintains 553 stars and 93 forks as of the last update (2026-07-20), reflecting active community engagement in AI agent tooling and Copilot customization.
+- **Curated Resources**: Repository aggregates GitHub Copilot enhancement materials, including instructions, prompts, skills, MCPs, and agent markdown files, optimized for AI agent interactions.
+- **Technical Scope**: Focuses on custom agents, prompt engineering, and VS Code Copilot Chat integration, with TypeScript-based implementations and GitHub-specific tooling.
+- **Community Metrics**: Maintains 553 stars and 93 forks, last updated July 20, 2026, under the `Code-and-Sorts` organization.
 
 ## Why It Matters
 

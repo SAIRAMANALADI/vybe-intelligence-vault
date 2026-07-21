@@ -1,13 +1,26 @@
 ---
-title: "malkreide/swiss-statistics-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FastMCP", "Pydantic", "STAT-TAB PxWeb API", "uv", "Streamable HTTP", "CI/CD (GitHub Actions)"]
+title: malkreide/swiss-statistics-mcp
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FastMCP
+- Pydantic
+- STAT-TAB PxWeb API
+- uv
+- Streamable HTTP
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 9
-tags: ["Swiss public data", "MCP server", "STAT-TAB API", "open government data", "statistics"]
-source: "https://github.com/malkreide/swiss-statistics-mcp"
-discovered_at: "2026-07-21T15:03:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Swiss public data
+- MCP server
+- STAT-TAB API
+- open government data
+- statistics
+source: https://github.com/malkreide/swiss-statistics-mcp
+discovered_at: '2026-07-21T15:03:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

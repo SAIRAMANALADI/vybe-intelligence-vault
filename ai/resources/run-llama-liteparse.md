@@ -4,25 +4,25 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/liteparse
-collected_at: '2026-07-21T19:58:02.875956+05:30'
-published_at: '2026-07-21T13:57:27Z'
+collected_at: '2026-07-21T22:18:33.190725+05:30'
+published_at: '2026-07-21T16:11:04Z'
 tags:
 - github-repo
 - meta-ai
 - models
 - rust
 - workflows
-stars: 11721
+stars: 11720
 language: Rust
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2026-02-09T22:16:30Z'
-pushed_at: '2026-07-21T10:32:45Z'
+pushed_at: '2026-07-21T15:58:43Z'
 resource_id: github:run-llama/liteparse
-first_seen: '2026-07-21T19:58:02.875956+05:30'
-last_seen: '2026-07-21T19:58:02.875956+05:30'
-last_checked: '2026-07-21T19:58:02.875956+05:30'
+first_seen: '2026-07-21T22:18:33.190725+05:30'
+last_seen: '2026-07-21T22:18:33.190725+05:30'
+last_checked: '2026-07-21T22:18:33.190725+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Rust-based OCR & PDF Parser**: Optimized for high-speed document parsing with OCR capabilities, supporting PDF text extraction and recognition.
-- **Lightweight Architecture**: Designed for efficiency, balancing performance and resource usage for document processing tasks.
-- **Open-Source & Modular**: Extensible toolkit with community-driven development, enabling customization for specific document parsing workflows.
+- **Rust-based OCR & PDF Parser**: Implements high-performance document parsing with OCR (Optical Character Recognition) and PDF text extraction capabilities, optimized for speed and efficiency.
+
+- **Modular Architecture**: Designed for extensibility, supporting document preprocessing, layout analysis, and structured text extraction with minimal overhead.
+
+- **Open-Source & Scalable**: Released under an open-source license, enabling integration into larger document processing pipelines with support for batch processing and distributed workflows.
 
 ## Why It Matters
 
@@ -41,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: run-llama
-- Stars: 11721
+- Stars: 11720
 - Forks: 792
 - Language: Rust
 - Topics: document-ocr, document-processing, ocr, ocr-recognition, pdf, pdf-parser, text-extraction
-- Last Updated: 2026-07-21T13:57:27Z
+- Last Updated: 2026-07-21T16:11:04Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-02-09T22:16:30Z
-- Pushed At: 2026-07-21T10:32:45Z
+- Pushed At: 2026-07-21T15:58:43Z
 
 ## Possible Use Cases
 

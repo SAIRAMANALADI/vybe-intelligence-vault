@@ -1,13 +1,29 @@
 ---
-title: "t11z/kenny"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "FastMCP", "Rust", "SQLite", "Docker", "Claude Code", "PowerShell", "WebSockets", "Ed25519", "MkDocs"]
+title: t11z/kenny
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- FastAPI
+- FastMCP
+- Rust
+- SQLite
+- Docker
+- Claude Code
+- PowerShell
+- WebSockets
+- Ed25519
+- MkDocs
 quality_score: 9
 rag_relevance: 7
-tags: ["remote administration", "fleet monitoring", "Windows management", "MCP integration", "self-hosted"]
-source: "https://github.com/t11z/kenny"
-discovered_at: "2026-07-18T19:02:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- remote administration
+- fleet monitoring
+- Windows management
+- MCP integration
+- self-hosted
+source: https://github.com/t11z/kenny
+discovered_at: '2026-07-18T19:02:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

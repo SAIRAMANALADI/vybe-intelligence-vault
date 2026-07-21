@@ -1,13 +1,22 @@
 ---
-title: "Coding-Dev-Tools/json2sql"
-category: "Tooling"
-tech_stack: ["Python", "Typer (CLI)", "SQL", "JSON"]
+title: Coding-Dev-Tools/json2sql
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Typer (CLI)
+- SQL
+- JSON
 quality_score: 8
 rag_relevance: 7
-tags: ["JSON-to-SQL", "data transformation", "database seeding", "CLI tool", "SQL generation"]
-source: "https://github.com/Coding-Dev-Tools/json2sql"
-discovered_at: "2026-07-21T15:03:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- JSON-to-SQL
+- data transformation
+- database seeding
+- CLI tool
+- SQL generation
+source: https://github.com/Coding-Dev-Tools/json2sql
+discovered_at: '2026-07-21T15:03:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

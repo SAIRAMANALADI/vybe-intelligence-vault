@@ -2,13 +2,13 @@
 title: Android Mobile App Developer Tools - Android Developers
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://developer.android.com
+source_url: http://developer.android.com/index.html
 resource_id: blog:android-mobile-app-developer-tools-android-develop
 local_vault_path: ai/rag/android-mobile-app-developer-tools-android-develop.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -21,7 +21,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Android Mobile App Developer Tools - Android Developers
@@ -30,18 +30,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Android Bench 2026 Update**: Introduces an updated LLM benchmarking methodology for Android development, featuring new models and community contributions; leaderboard accessible at [developer.android.com/bench](https://developer.android.com/bench).
+- **Android Bench LLM Benchmarking**: Updated methodology and new models benchmarked for Android development assistance; contributions to the benchmark are open for public input ([Android Bench Leaderboard](https://developer.android.com/bench)).
 
-- **Android 17 & XR Platform**: Android 17 source code released on AOSP with Pixel rollout; Android XR expands engine support and resources for immersive app development.
+- **Android 17 Release**: Source code live on AOSP with rollout to supported Pixel devices; key updates include API 37 and top 5 changes developers must address for compatibility.
 
-- **Android Studio Quail 2026.1.2**: Latest SDK release with updated licen
+- **Android XR Platform Expansion**: New tools and resources for buildin
 
 ## Use Cases
 
@@ -51,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://developer.android.com
+Original source URL: http://developer.android.com/index.html
 
 ## Local Vault File
 

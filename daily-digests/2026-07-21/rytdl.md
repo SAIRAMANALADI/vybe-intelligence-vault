@@ -1,13 +1,30 @@
 ---
-title: "jmagar/rytdl"
-category: "Agent Framework"
-tech_stack: ["Rust", "yt-dlp", "ffmpeg", "MCP (Model Context Protocol)", "AcoustID", "MusicBrainz", "Plex API", "rclone", "SSH", "rsync", "JSONL", "npm"]
+title: jmagar/rytdl
+category: daily-digests/2026-07-21
+tech_stack:
+- Rust
+- yt-dlp
+- ffmpeg
+- MCP (Model Context Protocol)
+- AcoustID
+- MusicBrainz
+- Plex API
+- rclone
+- SSH
+- rsync
+- JSONL
+- npm
 quality_score: 9
 rag_relevance: 7
-tags: ["media-downloader", "MCP-server", "metadata-tagging", "Plex-integration", "Rust"]
-source: "https://github.com/jmagar/rytdl"
-discovered_at: "2026-07-19T23:56:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- media-downloader
+- MCP-server
+- metadata-tagging
+- Plex-integration
+- Rust
+source: https://github.com/jmagar/rytdl
+discovered_at: '2026-07-19T23:56:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

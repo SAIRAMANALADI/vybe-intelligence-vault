@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-07-21T19:53:49.389130+05:30'
+collected_at: '2026-07-21T22:14:37.427606+05:30'
 published_at: '2026-07-20T14:43:45Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-19T13:56:19Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-07-21T19:53:49.389130+05:30'
-last_seen: '2026-07-21T19:53:49.389130+05:30'
-last_checked: '2026-07-21T19:53:49.389130+05:30'
+first_seen: '2026-07-21T22:14:37.427606+05:30'
+last_seen: '2026-07-21T22:14:37.427606+05:30'
+last_checked: '2026-07-21T22:14:37.427606+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native eBPF for runtime monitoring, enforcement, and policy-based control of AI processes.
-
-- **Enterprise-Grade RAG Pipeline**: Features a FastAPI-backed Retrieval-Augmented Generation (RAG) system with TypeScript support, optimized for SaaS-scale deployments and vector database integration for contextual AI responses.
-
-- **Security & Governance Focus**: Designed for enterprise environments with built-in governance controls, ensuring compliance and security for GenAI/LLM workloads in production.
+- **Linux-Native & eBPF-Powered**: Implements a security and governance mesh for AI agent workloads using Linux-native eBPF for real-time monitoring, enforcement, and isolation of AI processes.
+- **Enterprise-Grade RAG Pipeline**: Integrates a FastAPI backend with TypeScript, vector databases, and GenAI/LLM models to enable scalable, secure Retrieval-Augmented Generation (RAG) for SaaS AI applications.
+- **Security & Compliance Focus**: Designed for governance with features like workload isolation, audit logging, and policy enforcement to meet enterprise security and compliance requirements.
 
 ## Why It Matters
 

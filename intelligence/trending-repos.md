@@ -14,7 +14,6 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) | `ai-coding-agents/` | 70 |
 | [GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub](https://github.com/resources/whitepapers/gartner-magic-quadrant-and-critical-capabilities-for-ai-code-assistants) | `ai-coding-agents/` | 70 |
 | [wxmb01/codex-app-autonomous-runs](https://github.com/wxmb01/codex-app-autonomous-runs) | `ai-coding-agents/` | 70 |
-| [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `ai-coding-agents/` | 70 |
 | [LangChain · GitHub](https://github.com/langchain-ai) | `ai-coding-agents/` | 70 |
 | [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings) | `ai-coding-agents/` | 70 |
 | [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) | `ai-coding-agents/` | 70 |
@@ -29,5 +28,6 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [Hugging Face · GitHub](https://github.com/huggingface) | `ai-coding-agents/` | 70 |
 | [Google Cloud Platform · GitHub](https://github.com/googlecloudPlatform/) | `ai-coding-agents/` | 70 |
 | [Deepakyati/CrewAI_2026](https://github.com/Deepakyati/CrewAI_2026) | `ai-coding-agents/` | 70 |
+| [humanlaya/OneMillion-Bench](https://github.com/humanlaya/OneMillion-Bench) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

@@ -1,13 +1,25 @@
 ---
-title: "eatusc/no-slop"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Vite", "Django REST Framework", "Python", "Model Context Protocol (MCP)", "Django"]
+title: eatusc/no-slop
+category: daily-digests/2026-07-21
+tech_stack:
+- JavaScript
+- Node.js
+- Vite
+- Django REST Framework
+- Python
+- Model Context Protocol (MCP)
+- Django
 quality_score: 9
 rag_relevance: 8
-tags: ["AI writing cleanup", "LLM text normalization", "deterministic rewriting", "local-first", "MCP integration"]
-source: "https://github.com/eatusc/no-slop"
-discovered_at: "2026-07-21T15:03:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI writing cleanup
+- LLM text normalization
+- deterministic rewriting
+- local-first
+- MCP integration
+source: https://github.com/eatusc/no-slop
+discovered_at: '2026-07-21T15:03:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "Amorem/comidoc-mcp"
-category: "Tooling"
-tech_stack: ["MCP (Model Context Protocol)", "HTTP/REST", "Udemy API Integration", "JSON", "Bearer Token Authentication"]
+title: Amorem/comidoc-mcp
+category: daily-digests/2026-07-21
+tech_stack:
+- MCP (Model Context Protocol)
+- HTTP/REST
+- Udemy API Integration
+- JSON
+- Bearer Token Authentication
 quality_score: 8
 rag_relevance: 7
-tags: ["Udemy coupons", "MCP server", "course data", "redemption tracking", "AI agents"]
-source: "https://github.com/Amorem/comidoc-mcp"
-discovered_at: "2026-07-19T10:27:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Udemy coupons
+- MCP server
+- course data
+- redemption tracking
+- AI agents
+source: https://github.com/Amorem/comidoc-mcp
+discovered_at: '2026-07-19T10:27:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

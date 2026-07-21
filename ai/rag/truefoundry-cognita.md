@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/truefoundry/cognita
-collected_at: '2026-07-21T19:56:44.542176+05:30'
+collected_at: '2026-07-21T22:17:37.608583+05:30'
 published_at: '2026-07-21T08:15:44Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: true
 created_at: '2023-07-26T13:08:54Z'
 pushed_at: '2026-03-13T15:04:36Z'
 resource_id: github:truefoundry/cognita
-first_seen: '2026-07-21T19:56:44.542176+05:30'
-last_seen: '2026-07-21T19:56:44.542176+05:30'
-last_checked: '2026-07-21T19:56:44.542176+05:30'
+first_seen: '2026-07-21T22:17:37.608583+05:30'
+last_seen: '2026-07-21T22:17:37.608583+05:30'
+last_checked: '2026-07-21T22:17:37.608583+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: Open-source Python framework for building production-grade Retrieval Augmented Generation (RAG) applications with modular components for customization and scalability.
+- **Modular RAG Framework**: Open-source Python-based framework for building production-grade Retrieval Augmented Generation (RAG) applications with modular components for seamless integration and customization.
 
-- **Multi-Language Support**: Core in Python with TypeScript integration, enabling cross-language development for RAG pipelines, agent systems, and LLM operations.
+- **Multi-Language Support**: Supports both Python and TypeScript, enabling cross-language flexibility for backend and frontend components in AI-driven applications.
 
-- **MLOps & Deployment Tools**: Includes LLM-Ops capabilities (fine-tuning, model deployment, and retrieval optimization) with TrueFoundry’s production-grade infrastructure for end-to-end AI application deployment.
+- **Production-Ready Features**: Includes MLOps and LLM-ops capabilities (e.g., model deployment, fine-tuning, and retrieval pipelines) for scalable, enterprise-grade AI application deployment.
 
 ## Why It Matters
 

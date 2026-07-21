@@ -1,13 +1,27 @@
 ---
-title: "Phoenix0531-sudo/Hokage_Vision_Agent"
-category: "Tooling"
-tech_stack: ["Python", "YOLO (Ultralytics)", "PySide6", "FastAPI", "Docker", "Docker Compose", "MkDocs", "GitHub Actions", "PyTest"]
+title: Phoenix0531-sudo/Hokage_Vision_Agent
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- YOLO (Ultralytics)
+- PySide6
+- FastAPI
+- Docker
+- Docker Compose
+- MkDocs
+- GitHub Actions
+- PyTest
 quality_score: 9
 rag_relevance: 6
-tags: ["computer vision", "agent framework", "YOLO", "dataset management", "model orchestration"]
-source: "https://github.com/Phoenix0531-sudo/Hokage_Vision_Agent"
-discovered_at: "2026-07-21T15:03:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- computer vision
+- agent framework
+- YOLO
+- dataset management
+- model orchestration
+source: https://github.com/Phoenix0531-sudo/Hokage_Vision_Agent
+discovered_at: '2026-07-21T15:03:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

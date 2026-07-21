@@ -1,13 +1,26 @@
 ---
-title: "GAVRS1/Browser_GPT_agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Playwright", "Ollama", "FastAPI", "Model Context Protocol (MCP)", "Accessibility Tree (a11y)", "Vision Models (for screenshots)", "Chrome DevTools Protocol (CDP)"]
+title: GAVRS1/Browser_GPT_agent
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Playwright
+- Ollama
+- FastAPI
+- Model Context Protocol (MCP)
+- Accessibility Tree (a11y)
+- Vision Models (for screenshots)
+- Chrome DevTools Protocol (CDP)
 quality_score: 9
 rag_relevance: 8
-tags: ["browser automation", "multi-step task execution", "local LLM integration", "web agent", "accessibility tree"]
-source: "https://github.com/GAVRS1/Browser_GPT_agent"
-discovered_at: "2026-07-14T12:10:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- multi-step task execution
+- local LLM integration
+- web agent
+- accessibility tree
+source: https://github.com/GAVRS1/Browser_GPT_agent
+discovered_at: '2026-07-14T12:10:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

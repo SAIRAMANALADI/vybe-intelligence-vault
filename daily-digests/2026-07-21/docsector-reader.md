@@ -1,13 +1,26 @@
 ---
-title: "docsector/docsector-reader"
-category: "UI Component"
-tech_stack: ["Vue 3", "Quasar v2", "Vite", "JavaScript", "Prism.js", "KaTeX", "Mermaid", "Node.js"]
+title: docsector/docsector-reader
+category: daily-digests/2026-07-21
+tech_stack:
+- Vue 3
+- Quasar v2
+- Vite
+- JavaScript
+- Prism.js
+- KaTeX
+- Mermaid
+- Node.js
 quality_score: 9
 rag_relevance: 10
-tags: ["documentation", "markdown", "AI-friendly", "UI framework", "static site generator"]
-source: "https://github.com/docsector/docsector-reader"
-discovered_at: "2026-07-16T20:02:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- documentation
+- markdown
+- AI-friendly
+- UI framework
+- static site generator
+source: https://github.com/docsector/docsector-reader
+discovered_at: '2026-07-16T20:02:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

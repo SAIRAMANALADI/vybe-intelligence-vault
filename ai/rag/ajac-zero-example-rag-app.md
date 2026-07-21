@@ -4,14 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ajac-zero/example-rag-app
-collected_at: '2026-07-21T19:53:14.446163+05:30'
+collected_at: '2026-07-21T22:14:02.414851+05:30'
 published_at: '2026-07-14T22:18:47Z'
 tags:
-- anthropic
 - github-repo
-- mistral
-- models
-- openai
 - rag
 - typescript
 stars: 159
@@ -22,9 +18,9 @@ archived: false
 created_at: '2025-02-18T16:15:24Z'
 pushed_at: '2026-01-15T20:18:12Z'
 resource_id: github:ajac-zero/example-rag-app
-first_seen: '2026-07-21T19:53:14.446163+05:30'
-last_seen: '2026-07-21T19:53:14.446163+05:30'
-last_checked: '2026-07-21T19:53:14.446163+05:30'
+first_seen: '2026-07-21T22:14:02.414851+05:30'
+last_seen: '2026-07-21T22:14:02.414851+05:30'
+last_checked: '2026-07-21T22:14:02.414851+05:30'
 health_score: 100
 ---
 
@@ -32,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Leverages LiteLLM to support 100+ LLM providers with unified API calls, enabling seamless switching between models (e.g., OpenAI, Anthropic, Mistral) via environment variables.
+- **Tech Stack**: TypeScript-based RAG application with full type-checking, 100% test coverage, and Dockerized deployment; integrates Langfuse for LLM observability and LiteLLM for 100+ provider support.
 
-- **Observability & Monitoring**: Embeds Langfuse for end-to-end LLM observability, tracking token usage, latency, and model performance metrics with full traceability in production environments.
+- **Observability & Scalability**: Implements Langfuse for real-time LLM monitoring and observability, enabling debugging and performance tracking across supported providers.
 
-- **Strict Type Safety & Testing**: Implements TypeScript with full type-checking (e.g., Zod schemas, tRPC) and achieves 100% test coverage, ensuring reliability and maintainability in a Dockerized deployment.
+- **Maintenance & Extensibility**: Actively maintained (last updated July 2026), supports modular provider integration, and includes comprehensive testing for reliability.
 
 ## Why It Matters
 

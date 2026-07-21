@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-07-21T19:53:29.340826+05:30'
+collected_at: '2026-07-21T22:14:17.456384+05:30'
 published_at: '2026-07-20T23:56:08Z'
 tags:
 - github-repo
 - hackernews
 - rag
 - unknown
+- workflows
 stars: 1338
 language: Unknown
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-06-15T18:27:39Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-07-21T19:53:29.340826+05:30'
-last_seen: '2026-07-21T19:53:29.340826+05:30'
-last_checked: '2026-07-21T19:53:29.340826+05:30'
+first_seen: '2026-07-21T22:14:17.456384+05:30'
+last_seen: '2026-07-21T22:14:17.456384+05:30'
+last_checked: '2026-07-21T22:14:17.456384+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated resource**: A GitHub repository (`jxzhangjhu/Awesome-LLM-RAG`) aggregating cutting-edge research, tools, and implementations in **Retrieval-Augmented Generation (RAG)** for Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and hybrid architectures.
-
-- **Technical scope**: Focuses on advanced RAG techniques, including **retrieval-information optimization**, **RAG-specific embeddings**, and integration strategies for enhancing LLM performance via external knowledge retrieval.
-
-- **Community metrics**: 1,338 stars, 87 forks, last updated July 20, 2026, with topics spanning **LLMs, embeddings, and retrieval-augmented generation** methodologies.
+- **Curated resource**: A GitHub repository (`jxzhangjhu/Awesome-LLM-RAG`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques for **Large Language Models (LLMs)**, including embeddings, retrieval methods, and hybrid architectures.
+- **Key topics covered**: Focuses on **RAG-embeddings**, **retrieval-information**, and **LLM integration**, with emphasis on improving factual accuracy and contextual relevance in generative tasks.
+- **Metadata**: 1,338 stars, 87 forks, last updated **July 20, 2026**; categorized under **embeddings**, **LLMs**, and **RAG** workflows.
 
 ## Why It Matters
 

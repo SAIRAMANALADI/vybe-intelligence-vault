@@ -1,13 +1,29 @@
 ---
-title: "Phoenix0531-sudo/BondLens"
-category: "Agent Framework"
-tech_stack: ["Python", "Flask", "AkShare", "Pandas", "NumPy", "OpenPyXL", "OpenAI SDK", "Pydantic", "Docker", "GitHub Actions", "Pytest"]
+title: Phoenix0531-sudo/BondLens
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Flask
+- AkShare
+- Pandas
+- NumPy
+- OpenPyXL
+- OpenAI SDK
+- Pydantic
+- Docker
+- GitHub Actions
+- Pytest
 quality_score: 9
 rag_relevance: 8
-tags: ["bond analysis", "explainable AI", "evidence-grounded", "LLM guardrails", "fixed-income"]
-source: "https://github.com/Phoenix0531-sudo/BondLens"
-discovered_at: "2026-07-21T15:03:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- bond analysis
+- explainable AI
+- evidence-grounded
+- LLM guardrails
+- fixed-income
+source: https://github.com/Phoenix0531-sudo/BondLens
+discovered_at: '2026-07-21T15:03:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

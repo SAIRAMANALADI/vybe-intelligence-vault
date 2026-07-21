@@ -1,13 +1,31 @@
 ---
-title: "isaacsight/kernel"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "llama.cpp", "Ollama", "LM Studio", "Jan", "Docker", "Supabase", "Resend API", "GitHub API", "PostgreSQL", "Terraform"]
+title: isaacsight/kernel
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- llama.cpp
+- Ollama
+- LM Studio
+- Jan
+- Docker
+- Supabase
+- Resend API
+- GitHub API
+- PostgreSQL
+- Terraform
 quality_score: 9
 rag_relevance: 10
-tags: ["multi-agent systems", "terminal AI", "modular architecture", "provenance engineering", "orchestration"]
-source: "https://github.com/isaacsight/kernel"
-discovered_at: "2026-07-12T21:47:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- terminal AI
+- modular architecture
+- provenance engineering
+- orchestration
+source: https://github.com/isaacsight/kernel
+discovered_at: '2026-07-12T21:47:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

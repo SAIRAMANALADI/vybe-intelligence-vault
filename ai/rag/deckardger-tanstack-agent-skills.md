@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-07-21T19:55:04.420516+05:30'
+collected_at: '2026-07-21T22:15:52.504304+05:30'
 published_at: '2026-07-20T22:57:51Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-07-21T19:55:04.420516+05:30'
-last_seen: '2026-07-21T19:55:04.420516+05:30'
-last_checked: '2026-07-21T19:55:04.420516+05:30'
+first_seen: '2026-07-21T22:15:52.504304+05:30'
+last_seen: '2026-07-21T22:15:52.504304+05:30'
+last_checked: '2026-07-21T22:15:52.504304+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **TanStack Query Best Practices**: Optimizes data fetching, caching, and synchronization for AI agents using declarative queries, automatic background updates, and efficient stale-while-revalidate strategies.
+- **Optimized Query Management**: Implements advanced caching strategies and stale-while-revalidate patterns in TanStack Query to minimize redundant API calls and improve AI agent response latency.
 
-- **TanStack Router Integration**: Implements type-safe routing with dynamic segments, nested layouts, and prefetching to enhance AI agent navigation performance and state management.
+- **Dynamic Route Handling**: Leverages TanStack Router's file-based routing and lazy loading to enable efficient, on-demand route resolution for AI-driven navigation and state synchronization.
 
-- **TanStack Start Optimization**: Leverages server-side rendering (SSR) and edge runtime support for AI agents, ensuring minimal bundle size and fast cold-start execution.
+- **Performance-Centric Startup**: Utilizes TanStack Start for optimized SSR/SSG hybrid rendering, reducing Time-to-First-Byte (TTFB) and enabling faster agent initialization in production environments.
 
 ## Why It Matters
 

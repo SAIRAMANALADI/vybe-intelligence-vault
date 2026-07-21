@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-07-21T19:52:39.362239+05:30'
+collected_at: '2026-07-21T22:13:27.411559+05:30'
 published_at: '2026-07-21T09:46:41Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - javascript
 - meta-ai
 - models
@@ -23,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-07-21T19:52:39.362239+05:30'
-last_seen: '2026-07-21T19:52:39.362239+05:30'
-last_checked: '2026-07-21T19:52:39.362239+05:30'
+first_seen: '2026-07-21T22:13:27.411559+05:30'
+last_seen: '2026-07-21T22:13:27.411559+05:30'
+last_checked: '2026-07-21T22:13:27.411559+05:30'
 health_score: 100
 ---
 
@@ -33,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using **JavaScript/Node.js**, leveraging `node-llama-cpp` for local LLM integration without proprietary APIs or "black boxes".
-- **Core Components**: Covers end-to-end technical workflow—**embeddings generation**, **vector search/indexing**, **retrieval augmentation**, and **context-augmented generation**—with a focus on educational transparency.
-- **Tooling & Extensibility**: Built for modularity, supporting **AI agents**, custom **RAG pipelines**, and **chatbot applications** while avoiding cloud dependencies for offline/local use.
+- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using local LLMs (via `node-llama-cpp`) to avoid black-box abstractions, focusing on embeddings, vector search, retrieval, and context-augmented generation.
+
+- **JavaScript-Based Pipeline**: Built entirely in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference and vector operations, emphasizing transparency in AI agent workflows.
+
+- **Open-Source Tutorial**: Provides a hands-on, step-by-step guide for developers to understand and implement RAG systems without proprietary dependencies, updated as of July 2026.
 
 ## Why It Matters
 

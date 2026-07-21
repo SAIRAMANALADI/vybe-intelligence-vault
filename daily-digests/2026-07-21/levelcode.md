@@ -1,13 +1,26 @@
 ---
-title: "levelcodeai/levelcode"
-category: "UI Component"
-tech_stack: ["JavaScript", "Code-OSS (VS Code's open-source core)", "Electron", "Node.js", "Python", "Ollama (for local models)", "Open VSX (extension marketplace)", "macOS native APIs"]
+title: levelcodeai/levelcode
+category: daily-digests/2026-07-21
+tech_stack:
+- JavaScript
+- Code-OSS (VS Code's open-source core)
+- Electron
+- Node.js
+- Python
+- Ollama (for local models)
+- Open VSX (extension marketplace)
+- macOS native APIs
 quality_score: 9
 rag_relevance: 7
-tags: ["AI-native editor", "code editor", "Notepad++ features", "multi-provider AI", "hackable"]
-source: "https://github.com/levelcodeai/levelcode"
-discovered_at: "2026-07-19T02:30:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-native editor
+- code editor
+- Notepad++ features
+- multi-provider AI
+- hackable
+source: https://github.com/levelcodeai/levelcode
+discovered_at: '2026-07-19T02:30:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

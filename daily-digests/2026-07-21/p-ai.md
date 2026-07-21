@@ -1,13 +1,28 @@
 ---
-title: "kawayiYokami/P-ai"
-category: "Agent Framework"
-tech_stack: ["Rust", "Tauri 2", "Vue 3", "TypeScript", "Vite", "DaisyUI", "Tailwind CSS", "Tokio", "SQLite", "Tantivy"]
+title: kawayiYokami/P-ai
+category: daily-digests/2026-07-21
+tech_stack:
+- Rust
+- Tauri 2
+- Vue 3
+- TypeScript
+- Vite
+- DaisyUI
+- Tailwind CSS
+- Tokio
+- SQLite
+- Tantivy
 quality_score: 9
 rag_relevance: 7
-tags: ["desktop AI", "agent delegation", "long-term memory", "MCP integration", "privacy-focused"]
-source: "https://github.com/kawayiYokami/P-ai"
-discovered_at: "2026-07-21T10:24:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- desktop AI
+- agent delegation
+- long-term memory
+- MCP integration
+- privacy-focused
+source: https://github.com/kawayiYokami/P-ai
+discovered_at: '2026-07-21T10:24:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

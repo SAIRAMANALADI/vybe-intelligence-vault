@@ -1,13 +1,26 @@
 ---
-title: "brycewang-stanford/stata-code"
-category: "Tooling"
-tech_stack: ["Python", "Stata", "pystata", "MCP (Model Context Protocol)", "Jupyter Kernel", "VS Code Extension", "TypeScript", "GitHub Actions"]
+title: brycewang-stanford/stata-code
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Stata
+- pystata
+- MCP (Model Context Protocol)
+- Jupyter Kernel
+- VS Code Extension
+- TypeScript
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-tags: ["Stata integration", "LLM agent bridge", "empirical research", "structured results", "cross-validation"]
-source: "https://github.com/brycewang-stanford/stata-code"
-discovered_at: "2026-07-20T18:01:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Stata integration
+- LLM agent bridge
+- empirical research
+- structured results
+- cross-validation
+source: https://github.com/brycewang-stanford/stata-code
+discovered_at: '2026-07-20T18:01:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

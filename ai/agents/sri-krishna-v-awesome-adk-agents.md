@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Sri-Krishna-V/awesome-adk-agents
-collected_at: '2026-07-21T19:54:59.514813+05:30'
+collected_at: '2026-07-21T22:15:47.487260+05:30'
 published_at: '2026-07-21T11:48:17Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - hackernews
 - python
 - scripts
+- workflows
 stars: 336
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-05-27T11:48:53Z'
 pushed_at: '2026-06-28T14:36:38Z'
 resource_id: github:sri-krishna-v/awesome-adk-agents
-first_seen: '2026-07-21T19:54:59.514813+05:30'
-last_seen: '2026-07-21T19:54:59.514813+05:30'
-last_checked: '2026-07-21T19:54:59.514813+05:30'
+first_seen: '2026-07-21T22:15:47.487260+05:30'
+last_seen: '2026-07-21T22:15:47.487260+05:30'
+last_checked: '2026-07-21T22:15:47.487260+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated ADK Resources**: Repository offering a structured collection of AI agents developed using Google's Agent Development Kit (ADK), including templates, best practices, and production-ready examples across domains like research, business, automation, and education.
-
-- **Multi-Platform Support**: Focuses on ADK-Python for Python-based implementations, while also covering ADK-Web for web-based agents, and includes samples for multi-agent systems and integration with Google's Gemini AI.
-
-- **High-Activity Open Source Project**: Maintained with 336 stars and 48 forks, last updated in July 2026, serving as a community-driven hub for ADK-based agent development and deployment.
+- **Curated ADK Resources**: Repository containing Google’s Agent Development Kit (ADK)-based AI agents, including templates, best practices, and production-ready examples for research, business, automation, and education.
+- **Multi-Topic Collection**: Includes ADK-Python, ADK-Web, multi-agent systems, and Google’s Gemini AI integrations, categorized under `awesome-list` standards.
+- **Technical Stack**: Primarily Python-based, last updated July 2026, with 336 stars and 48 forks, focusing on agentic AI and ADK-driven workflows.
 
 ## Why It Matters
 

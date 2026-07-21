@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - models
-status: active
+status: inactive
 resource_id: hackernews:chinas-open-weights-ai-strategy-is-winning
 first_seen: '2026-07-20T22:15:06.548146+05:30'
 last_seen: '2026-07-21T19:51:23.595130+05:30'
 last_checked: '2026-07-21T19:51:23.595130+05:30'
 health_score: 100
 ---
+
 
 # China’s open-weights AI strategy is winning
 

@@ -1,13 +1,22 @@
 ---
-title: "indigokarasu/fellow"
-category: "Orchestrator"
-tech_stack: ["Python", "OCAS Architecture", "Benchmarking", "Experiment Design"]
+title: indigokarasu/fellow
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- OCAS Architecture
+- Benchmarking
+- Experiment Design
 quality_score: 6
 rag_relevance: 7
-tags: ["experimentation engine", "skill validation", "OCAS loop", "benchmarking", "AI self-improvement"]
-source: "https://github.com/indigokarasu/fellow"
-discovered_at: "2026-07-21T04:14:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- experimentation engine
+- skill validation
+- OCAS loop
+- benchmarking
+- AI self-improvement
+source: https://github.com/indigokarasu/fellow
+discovered_at: '2026-07-21T04:14:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

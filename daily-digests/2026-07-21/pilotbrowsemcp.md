@@ -1,13 +1,26 @@
 ---
-title: "EndymionLee/PilotBrowseMCP"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Chrome Extension API", "MCP (Model Context Protocol)", "WebSocket", "JSON-RPC", "Readability", "Turndown"]
+title: EndymionLee/PilotBrowseMCP
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- Chrome Extension API
+- MCP (Model Context Protocol)
+- WebSocket
+- JSON-RPC
+- Readability
+- Turndown
 quality_score: 8
 rag_relevance: 9
-tags: ["browser automation", "MCP server", "AI agent tools", "workflow recording", "website interaction"]
-source: "https://github.com/EndymionLee/PilotBrowseMCP"
-discovered_at: "2026-07-21T04:15:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- MCP server
+- AI agent tools
+- workflow recording
+- website interaction
+source: https://github.com/EndymionLee/PilotBrowseMCP
+discovered_at: '2026-07-21T04:15:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

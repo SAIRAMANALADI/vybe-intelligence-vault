@@ -1,13 +1,28 @@
 ---
-title: "ArturSkowronski/minipainter"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "TypeScript", "Docker", "PostgreSQL", "CLI/TUI", "MCP (Model Context Protocol)", "HTTP Server", "JSON", "npm"]
+title: ArturSkowronski/minipainter
+category: daily-digests/2026-07-21
+tech_stack:
+- JavaScript
+- Node.js
+- TypeScript
+- Docker
+- PostgreSQL
+- CLI/TUI
+- MCP (Model Context Protocol)
+- HTTP Server
+- JSON
+- npm
 quality_score: 9
 rag_relevance: 8
-tags: ["paint registry", "inventory management", "AI paint suggestions", "MCP server", "local-first"]
-source: "https://github.com/ArturSkowronski/minipainter"
-discovered_at: "2026-07-17T10:46:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- paint registry
+- inventory management
+- AI paint suggestions
+- MCP server
+- local-first
+source: https://github.com/ArturSkowronski/minipainter
+discovered_at: '2026-07-17T10:46:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

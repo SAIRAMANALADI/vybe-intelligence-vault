@@ -1,13 +1,23 @@
 ---
-title: "JamesANZ/evm-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Ethereum JSON-RPC", "Model Context Protocol (MCP)", "Web3.js/Ethers.js"]
+title: JamesANZ/evm-mcp
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- Ethereum JSON-RPC
+- Model Context Protocol (MCP)
+- Web3.js/Ethers.js
 quality_score: 9
 rag_relevance: 8
-tags: ["EVM", "JSON-RPC", "MCP Server", "Blockchain Data", "Smart Contract Interaction"]
-source: "https://github.com/JamesANZ/evm-mcp"
-discovered_at: "2026-07-18T11:02:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- EVM
+- JSON-RPC
+- MCP Server
+- Blockchain Data
+- Smart Contract Interaction
+source: https://github.com/JamesANZ/evm-mcp
+discovered_at: '2026-07-18T11:02:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

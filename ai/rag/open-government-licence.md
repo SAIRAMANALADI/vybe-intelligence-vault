@@ -3,9 +3,9 @@ title: Open Government Licence
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-published_at: '2026-07-21T09:23:25.548455+05:30'
-collected_at: '2026-07-21T09:23:25.548463+05:30'
+source_url: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+published_at: '2026-07-21T22:23:16.169336+05:30'
+collected_at: '2026-07-21T22:23:16.169353+05:30'
 tags:
 - dataset
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:open-government-licence
-first_seen: '2026-07-21T09:23:25.548463+05:30'
-last_seen: '2026-07-21T09:23:25.548463+05:30'
-last_checked: '2026-07-21T09:23:25.548463+05:30'
+first_seen: '2026-07-21T22:23:16.169353+05:30'
+last_seen: '2026-07-21T22:23:16.169353+05:30'
+last_checked: '2026-07-21T22:23:16.169353+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Licence Scope**: Grants worldwide, royalty-free, perpetual, non-exclusive rights to use public sector information under specified conditions, including commercial exploitation and adaptation, while preserving fair dealing exceptions.
+- **Global, royalty-free license**: Grants worldwide, perpetual, non-exclusive rights to use, adapt, and commercially exploit public sector information under specified conditions, including attribution and compliance with Open Government Licence v3.0.
 
-- **Attribution Requirements**: Mandates source acknowledgment via specified attribution statements or a URI linking to them; failure to comply revokes granted rights automatically.
+- **Exclusions and restrictions**: Excludes personal data, unpublished/unreleased information, logos, military insignia, third-party rights, and identity documents; prohibits use implying official endorsement or warranty.
 
-- **Exclusions & Liabilities**: Excludes personal data, unpublished/unconsented information, logos, military insignia, third-party rights, and other IP rights; disclaims all warranties and liabilities, asserting information is provided 'as is'.
+- **Legal framework**: Governed by the jurisdiction of the Information Provider; compatible with Creative Commons Attribution 4.0 and Open Data Commons Attribution License; compliance with these satisfies OGL conditions.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T09:23:25.548455+05:30
+- Published: 2026-07-21T22:23:16.169336+05:30
 
 ## Related Tags
 
@@ -48,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+Original source: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

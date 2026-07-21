@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-07-21T19:55:44.467343+05:30'
+collected_at: '2026-07-21T22:16:32.588160+05:30'
 published_at: '2026-07-21T03:55:57Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
-- scripts
 - shell
 - workflows
 stars: 541
@@ -21,9 +19,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-07-17T20:06:51Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-07-21T19:55:44.467343+05:30'
-last_seen: '2026-07-21T19:55:44.467343+05:30'
-last_checked: '2026-07-21T19:55:44.467343+05:30'
+first_seen: '2026-07-21T22:16:32.588160+05:30'
+last_seen: '2026-07-21T22:16:32.588160+05:30'
+last_checked: '2026-07-21T22:16:32.588160+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging MCP templates for Skills, Expert Agents with sub-agent delegation, and adaptive RAG-powered memory for dynamic context retention.
+- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging **Adaptive RAG** for memory management and **Skills** via MCP templates for modular functionality.
 
-- **Capabilities**: Integrates media understanding, proactive task management, and self-hosted deployment via a single setup script; includes Supabase for persistent storage and SearXNG for search functionality.
+- **Features**: Supports **Expert Agents** with delegated sub-agents, **proactive task management**, and **media understanding**, with self-hosting enabled via a single setup script.
 
-- **Technical Stack**: Shell-based repository with dependencies on `crawl4ai` for scraping, MCP for skill templates, and n8n for workflow orchestration; designed for extensibility and modular agent interactions.
+- **Integration Stack**: Combines **Crawl4AI** (scraper), **SearXNG** (search engine), **Supabase** (database), and **MCP** (Model Context Protocol) for extensibility, all orchestrated within n8n.
 
 ## Why It Matters
 

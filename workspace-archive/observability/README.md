@@ -22,8 +22,8 @@ LLMOps observability tracks costs, latencies, tokens, and trace histories of act
 https://github.com/langfuse/langfuse (Langfuse)
 https://github.com/Arize-AI/phoenix (Arize Phoenix)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
-- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
 - [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape)
+- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
 - [NicholasGoh/fastapi-mcp-langgraph-template](https://github.com/NicholasGoh/fastapi-mcp-langgraph-template)
 - [gnikoloff/webgpu-raytracer](https://github.com/gnikoloff/webgpu-raytracer)
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse?utm_source=clickhouse&utm_medium=website&utm_campaign=website-nav)
@@ -44,4 +44,4 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 
 ---
 
-*Last updated: 2026-07-21 20:08 IST*
+*Last updated: 2026-07-21 22:30 IST*

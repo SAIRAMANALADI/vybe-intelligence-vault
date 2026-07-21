@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/langchain-rag-tutorial
-collected_at: '2026-07-21T19:52:34.351104+05:30'
+collected_at: '2026-07-21T22:13:22.431845+05:30'
 published_at: '2026-07-12T13:21:37Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2023-11-13T09:14:54Z'
 pushed_at: '2024-07-31T23:46:44Z'
 resource_id: github:pixegami/langchain-rag-tutorial
-first_seen: '2026-07-21T19:52:34.351104+05:30'
-last_seen: '2026-07-21T19:52:34.351104+05:30'
-last_checked: '2026-07-21T19:52:34.351104+05:30'
+first_seen: '2026-07-21T22:13:22.431845+05:30'
+last_seen: '2026-07-21T22:13:22.431845+05:30'
+last_checked: '2026-07-21T22:13:22.431845+05:30'
 health_score: 100
 ---
 
@@ -28,8 +28,10 @@ health_score: 100
 ## Summary
 
 - **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced responses.
-- **Python-Based**: Built entirely in Python, leveraging LangChain’s modular framework for LLM orchestration and vector storage (e.g., FAISS or Chroma) for document indexing.
-- **Tutorial Focus**: Provides a step-by-step guide for constructing a RAG system, including data loading, embedding generation, vector search, and prompt augmentation for LLMs.
+
+- **Python-Based**: Entirely written in Python, leveraging LangChain's modular framework for LLM orchestration, document loading, and vector storage (e.g., FAISS or Chroma).
+
+- **Tutorial Focus**: Provides step-by-step guidance on building a RAG system, including data ingestion, embedding generation, vector database setup, and query handling.
 
 ## Why It Matters
 
@@ -39,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: pixegami
 - Stars: 974
-- Forks: 520
+- Forks: 521
 - Language: Python
 - Topics: None
 - Last Updated: 2026-07-12T13:21:37Z

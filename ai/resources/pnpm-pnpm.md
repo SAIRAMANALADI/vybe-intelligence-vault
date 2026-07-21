@@ -4,23 +4,22 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pnpm/pnpm
-collected_at: '2026-07-14T13:07:28.261736+05:30'
-published_at: '2026-07-14T07:18:16Z'
+collected_at: '2026-07-21T22:22:07.424848+05:30'
+published_at: '2026-07-21T16:37:17Z'
 tags:
 - github-repo
 - rust
-- workflows
-stars: 35775
+stars: 35840
 language: Rust
 status: active
 license: MIT
 archived: false
 created_at: '2016-01-28T07:40:43Z'
-pushed_at: '2026-07-14T01:13:47Z'
+pushed_at: '2026-07-21T16:34:56Z'
 resource_id: github:pnpm/pnpm
-first_seen: '2026-07-14T13:07:28.261736+05:30'
-last_seen: '2026-07-14T13:07:28.261736+05:30'
-last_checked: '2026-07-14T13:07:28.261736+05:30'
+first_seen: '2026-07-21T22:22:07.424848+05:30'
+last_seen: '2026-07-21T22:22:07.424848+05:30'
+last_checked: '2026-07-21T22:22:07.424848+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Performance & Efficiency**: Implements a content-addressable store and hard links to minimize disk usage and installation time, reducing redundant downloads by sharing dependencies across projects.
+- **Efficient Dependency Management**: Uses a content-addressable store and hard links to minimize disk space usage and avoid redundant package installations, unlike npm/yarn.
 
-- **Strict Dependency Resolution**: Enforces strict dependency isolation via a non-flat `node_modules` structure, preventing hoisting and ensuring deterministic, reproducible builds.
+- **Strict Dependency Resolution**: Enforces strict dependency resolution via a non-flat `node_modules` structure, preventing version conflicts and ensuring deterministic builds.
 
-- **Compatibility Layer**: Supports npm/yarn workflows via `pnpm` CLI, maintaining compatibility with existing `package.json` and `node_modules` conventions while optimizing performance.
+- **Rust-Based Performance**: Implemented in Rust for high-speed execution, with parallel package fetching and installation, reducing build times compared to JavaScript-based package managers.
 
 ## Why It Matters
 
@@ -41,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pnpm
-- Stars: 35775
-- Forks: 1574
+- Stars: 35840
+- Forks: 1590
 - Language: Rust
 - Topics: dependency-manager, install, javascript, modules, node, nodejs, npm, package-manager
-- Last Updated: 2026-07-14T07:18:16Z
+- Last Updated: 2026-07-21T16:37:17Z
 - License: MIT
 - Archived: No
 - Created At: 2016-01-28T07:40:43Z
-- Pushed At: 2026-07-14T01:13:47Z
+- Pushed At: 2026-07-21T16:34:56Z
 
 ## Possible Use Cases
 

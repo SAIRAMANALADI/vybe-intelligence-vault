@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/airalab/autonomous_agent_template
-collected_at: '2026-07-21T09:18:17.785337+05:30'
+collected_at: '2026-07-21T22:16:32.602041+05:30'
 published_at: '2024-06-25T11:56:51Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- reddit
 stars: 1
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2018-09-26T13:56:23Z'
 pushed_at: '2019-12-02T22:03:37Z'
 resource_id: github:airalab/autonomous_agent_template
-first_seen: '2026-07-21T09:18:17.785337+05:30'
-last_seen: '2026-07-21T09:18:17.785337+05:30'
-last_checked: '2026-07-21T09:18:17.785337+05:30'
+first_seen: '2026-07-21T22:16:32.602041+05:30'
+last_seen: '2026-07-21T22:16:32.602041+05:30'
+last_checked: '2026-07-21T22:16:32.602041+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AIRA Agent Template**: Provides a lightweight Python framework for building autonomous agents, leveraging ROS (Robot Operating System) for modularity and robotics applications.
-- **ROS Integration**: Designed for seamless integration with ROS, enabling real-time sensor/actuator communication and standardized message passing (e.g., `std_msgs`, `geometry_msgs`).
-- **Minimalist Structure**: Example repository with 1 star and 5 forks, last updated June 2024, demonstrating core agent components (e.g., perception, decision-making, actuation) via a simplified, extensible template.
+- **Modular AIRA Agent Template**: Provides a Python-based framework for creating modular autonomous agents, leveraging ROS (Robot Operating System) for robotics applications.
+
+- **Key Features**: Designed for extensibility with predefined components for perception, decision-making, and actuation, enabling rapid prototyping of autonomous systems.
+
+- **Repository Metadata**: Minimalistic project with 1 star and 5 forks, last updated on **2024-06-25**, focusing on **autonomous-agents**, **robotics**, and **ROS** integration.
 
 ## Why It Matters
 

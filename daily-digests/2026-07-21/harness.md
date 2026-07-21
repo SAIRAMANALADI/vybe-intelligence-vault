@@ -1,13 +1,23 @@
 ---
-title: "jgoneit/harness"
-category: "Orchestrator"
-tech_stack: ["Python", "Codex CLI", "Make", "Git", "Shell Scripting"]
+title: jgoneit/harness
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Codex CLI
+- Make
+- Git
+- Shell Scripting
 quality_score: 7
 rag_relevance: 6
-tags: ["workflow automation", "approval gates", "AI coding safety", "agent orchestration", "code review"]
-source: "https://github.com/jgoneit/harness"
-discovered_at: "2026-07-12T10:26:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- workflow automation
+- approval gates
+- AI coding safety
+- agent orchestration
+- code review
+source: https://github.com/jgoneit/harness
+discovered_at: '2026-07-12T10:26:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

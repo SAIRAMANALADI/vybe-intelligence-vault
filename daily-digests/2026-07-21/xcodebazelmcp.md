@@ -1,13 +1,26 @@
 ---
-title: "DebugSwift/XcodeBazelMCP"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Bazel", "Model Context Protocol (MCP)", "Swift", "Xcode", "LLDB", "Python"]
+title: DebugSwift/XcodeBazelMCP
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- Bazel
+- Model Context Protocol (MCP)
+- Swift
+- Xcode
+- LLDB
+- Python
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Bazel integration", "Apple development", "iOS tooling", "debugging"]
-source: "https://github.com/DebugSwift/XcodeBazelMCP"
-discovered_at: "2026-07-19T02:30:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Bazel integration
+- Apple development
+- iOS tooling
+- debugging
+source: https://github.com/DebugSwift/XcodeBazelMCP
+discovered_at: '2026-07-19T02:30:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

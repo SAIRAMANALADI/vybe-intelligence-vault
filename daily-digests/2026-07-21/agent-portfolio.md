@@ -1,13 +1,24 @@
 ---
-title: "dafu110/agent-portfolio"
-category: "UI Component"
-tech_stack: ["HTML", "CSS", "JavaScript", "Python", "GitHub Actions", "Playwright"]
+title: dafu110/agent-portfolio
+category: daily-digests/2026-07-21
+tech_stack:
+- HTML
+- CSS
+- JavaScript
+- Python
+- GitHub Actions
+- Playwright
 quality_score: 7
 rag_relevance: 3
-tags: ["Portfolio", "AI Agent", "Case Study", "Static Website", "Evidence-Based"]
-source: "https://github.com/dafu110/agent-portfolio"
-discovered_at: "2026-07-21T04:14:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Portfolio
+- AI Agent
+- Case Study
+- Static Website
+- Evidence-Based
+source: https://github.com/dafu110/agent-portfolio
+discovered_at: '2026-07-21T04:14:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

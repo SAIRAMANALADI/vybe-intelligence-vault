@@ -13,13 +13,14 @@ collected_at: '2026-07-21T19:51:23.259381+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:a-koi-pond-mosaic-made-from-10-pounds-of-3d-printe
 first_seen: '2026-07-21T14:14:12.177347+05:30'
 last_seen: '2026-07-21T19:51:23.259381+05:30'
 last_checked: '2026-07-21T19:51:23.259381+05:30'
 health_score: 100
 ---
+
 
 # A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste
 

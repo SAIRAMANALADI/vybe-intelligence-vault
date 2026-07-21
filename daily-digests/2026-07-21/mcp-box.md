@@ -1,13 +1,26 @@
 ---
-title: "lowcache/mcp-box"
-category: "Tooling"
-tech_stack: ["Go", "Docker", "Nix", "OCI (Open Container Initiative)", "Linux Capabilities", "Bash", "Python", "Node.js"]
+title: lowcache/mcp-box
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- Docker
+- Nix
+- OCI (Open Container Initiative)
+- Linux Capabilities
+- Bash
+- Python
+- Node.js
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "sandboxing", "security", "containerization", "AI tooling"]
-source: "https://github.com/lowcache/mcp-box"
-discovered_at: "2026-07-13T02:34:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- sandboxing
+- security
+- containerization
+- AI tooling
+source: https://github.com/lowcache/mcp-box
+discovered_at: '2026-07-13T02:34:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

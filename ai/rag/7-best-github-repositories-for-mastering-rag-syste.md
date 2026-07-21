@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems/
-published_at: '2026-07-21T19:52:27.073185+05:30'
-collected_at: '2026-07-21T19:52:27.073198+05:30'
+published_at: '2026-07-21T22:13:14.208916+05:30'
+collected_at: '2026-07-21T22:13:14.208935+05:30'
 tags:
 - agents
 - anthropic
@@ -26,9 +26,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:7-best-github-repositories-for-mastering-rag-syste
-first_seen: '2026-07-21T19:52:27.073198+05:30'
-last_seen: '2026-07-21T19:52:27.073198+05:30'
-last_checked: '2026-07-21T19:52:27.073198+05:30'
+first_seen: '2026-07-21T22:13:14.208935+05:30'
+last_seen: '2026-07-21T22:13:14.208935+05:30'
+last_checked: '2026-07-21T22:13:14.208935+05:30'
 health_score: 100
 ---
 
@@ -36,11 +36,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain**: Open-source LLM toolkit (MIT license) with 70K+ GitHub stars, offering modular components (prompt templates, LLM wrappers, vector stores) for end-to-end RAG pipelines, supporting Python/JS/TS and integrations with providers like OpenAI, Hugging Face, and Azure.
+- **LangChain**: Open-source LLM toolkit (MIT license) with 70K+ GitHub stars, supporting Python, JavaScript, and TypeScript; provides modular components (prompt templates, LLM wrappers, vector stores) for end-to-end RAG pipelines, with integrations for OpenAI, Hugging Face, Azure, and agent workflows.
 
-- **RAG Architecture Core**: Hybrid retrieval-generation framework that mitigates LLM hallucinations by dynamically fetching external knowledge (documents/APIs) to augment context-aware responses, eliminating the need for frequent model retraining while addressing knowledge cutoff issues.
+- **RAG Architecture**: Retrieval-Augmented Generation integrates external knowledge sources to mitigate hallucinations and knowledge cut-offs, enabling context-aware, temporally relevant responses by combining document retrieval with LLM generation.
 
-- **Top RAG Repositories**: Curated GitHub repositories (LangChain, Haystack, LlamaIndex, RAGFlow, txtai, LLMWare, Cognita) providing tutorials, code, and frameworks for implementing, optimizing, and scaling RAG systems across domains like chatbots, enterprise automation, and compliance.
+- **Top RAG Repositories**: GitHub repositories like LangChain, Haystack, LlamaIndex, RAGFlow, txtai, LLMWare, and Cognita offer frameworks, tutorials, and tools for building, optimizing, and deploying RAG systems across domains such as chatbots, enterprise automation, and compliance.
 
 ## Why It Matters
 
@@ -50,7 +50,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T19:52:27.073185+05:30
+- Published: 2026-07-21T22:13:14.208916+05:30
 
 ## Related Tags
 

@@ -1,13 +1,27 @@
 ---
-title: "TAskMAster339/memos-engine"
-category: "Tooling"
-tech_stack: ["Python", "tree-sitter", "SQLite", "FastAPI", "FastMCP", "pydantic", "fastembed", "uv", "pytest"]
+title: TAskMAster339/memos-engine
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- tree-sitter
+- SQLite
+- FastAPI
+- FastMCP
+- pydantic
+- fastembed
+- uv
+- pytest
 quality_score: 8
 rag_relevance: 9
-tags: ["code indexing", "structural analysis", "AI agent tools", "symbol resolution", "call graph"]
-source: "https://github.com/TAskMAster339/memos-engine"
-discovered_at: "2026-07-21T15:03:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code indexing
+- structural analysis
+- AI agent tools
+- symbol resolution
+- call graph
+source: https://github.com/TAskMAster339/memos-engine
+discovered_at: '2026-07-21T15:03:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

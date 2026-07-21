@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:launch-hn-bloomy-yc-s26-ai-powered-mastery-learnin
 first_seen: '2026-07-20T22:15:07.434029+05:30'
 last_seen: '2026-07-21T19:51:23.716718+05:30'
 last_checked: '2026-07-21T19:51:23.716718+05:30'
 health_score: 100
 ---
+
 
 # Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12
 

@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SciPhi-AI/R2R
-collected_at: '2026-07-21T19:53:59.447042+05:30'
+collected_at: '2026-07-21T22:14:47.486576+05:30'
 published_at: '2026-07-21T13:54:48Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
 stars: 7937
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-02-12T03:24:27Z'
 pushed_at: '2025-11-07T01:02:44Z'
 resource_id: github:sciphi-ai/r2r
-first_seen: '2026-07-21T19:53:59.447042+05:30'
-last_seen: '2026-07-21T19:53:59.447042+05:30'
-last_checked: '2026-07-21T19:53:59.447042+05:30'
+first_seen: '2026-07-21T22:14:47.486576+05:30'
+last_seen: '2026-07-21T22:14:47.486576+05:30'
+last_checked: '2026-07-21T22:14:47.486576+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Framework**: Implements an advanced retrieval-augmented generation (RAG) system with agentic capabilities, enabling dynamic interaction between retrieval and generation components for enhanced question-answering performance.
+- **Agentic RAG System**: Implements an advanced retrieval-augmented generation (RAG) framework with agentic capabilities, enabling dynamic interaction between retrieval and generation components for enhanced AI responses.
 
-- **RESTful API Integration**: Provides a production-ready API for seamless integration with external systems, supporting scalable deployment and real-time inference for AI-driven retrieval tasks.
+- **RESTful API**: Provides a production-ready, scalable API for seamless integration and deployment of retrieval and QA functionalities in AI applications.
 
-- **Python-Based Architecture**: Built in Python with modular components for document ingestion, vector search, and LLM integration, optimized for large-scale retrieval systems and hybrid search workflows.
+- **Python-Based & Modular**: Built in Python with modular components for retrieval systems, supporting large language models (LLMs), question-answering, and search operations.
 
 ## Why It Matters
 

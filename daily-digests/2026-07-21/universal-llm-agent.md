@@ -1,13 +1,30 @@
 ---
-title: "Ghost-White-Guy/Universal-LLM-Agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Textual", "Rich", "Pyperclip", "Psutil", "Pillow", "SQLite", "Docker", "OpenAI-compatible APIs", "Telegram API", "Git", "HTTP"]
+title: Ghost-White-Guy/Universal-LLM-Agent
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Textual
+- Rich
+- Pyperclip
+- Psutil
+- Pillow
+- SQLite
+- Docker
+- OpenAI-compatible APIs
+- Telegram API
+- Git
+- HTTP
 quality_score: 8
 rag_relevance: 7
-tags: ["LLM agent", "tool calling", "TUI", "local-first", "automation"]
-source: "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
-discovered_at: "2026-07-20T06:16:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LLM agent
+- tool calling
+- TUI
+- local-first
+- automation
+source: https://github.com/Ghost-White-Guy/Universal-LLM-Agent
+discovered_at: '2026-07-20T06:16:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

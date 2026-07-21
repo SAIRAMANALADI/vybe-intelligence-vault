@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **AI Credit Pools for Cost Centers**: Introduced AI-specific credit pools in the billing UI, enabling granular cost allocation and tracking for AI services across different cost centers.
-- **Copilot Integration**: Enhanced Copilot functionality with new enterprise management tools for improved AI-assisted development workflows and resource optimization.
-- **+1 Feature**: Added a "+1" interaction mechanism to streamline user feedback and engagement within the billing and enterprise management i
+- **Gemini 3.6 Flash Integration**: GitHub Copilot now supports Google's Gemini 3.6 Flash model, enhancing real-time code generation and contextual assistance for developers.
+
+- **Performance Optimizations**: The update includes latency reductions and improved inference speed, enabling faster response times for complex coding tasks.
+
+- **GitHub Copilot CLI Enhancements**: New CLI features provide deeper integration with version control systems, streamlining workflows for repository management an
 
 ## Use Cases
 

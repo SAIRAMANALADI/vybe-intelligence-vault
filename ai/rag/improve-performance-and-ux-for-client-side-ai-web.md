@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://web.dev/articles/client-side-ai-performance
-published_at: '2026-07-18T16:57:26.704042+05:30'
-collected_at: '2026-07-18T16:57:26.704048+05:30'
+published_at: '2026-07-21T22:21:24.563637+05:30'
+collected_at: '2026-07-21T22:21:24.563654+05:30'
 tags:
 - agents
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:improve-performance-and-ux-for-client-side-ai-web
-first_seen: '2026-07-18T16:57:26.704048+05:30'
-last_seen: '2026-07-18T16:57:26.704048+05:30'
-last_checked: '2026-07-18T16:57:26.704048+05:30'
+first_seen: '2026-07-21T22:21:24.563654+05:30'
+last_seen: '2026-07-21T22:21:24.563654+05:30'
+last_checked: '2026-07-21T22:21:24.563654+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Client-side AI trade-offs**: Client-side AI offers low latency, reduced server costs, privacy, and offline access but introduces performance challenges due to model size and computational overhead; libraries like TensorFlow.js, Transformers.js, and MediaPipe GenAI enable cross-browser deployment.
+- **Model Selection & Optimization**: Prioritize task-specific, lightweight models (e.g., <5MB for general use, <10MB for mobile) using libraries like TensorFlow.js, Transformers.js, or MediaPipe GenAI; apply model shrinking techniques (e.g., quantization, pruning) to balance accuracy and size, avoiding LLMs (>1GB) unless absolutely necessary.
 
-- **Model optimization strategies**: Prioritize small, task-specific models (e.g., 315KB language detection vs. 1.3GB LLMs), leverage model shrinking techniques, and use WebGPU/WebNN for GPU acceleration; explicitly cache models via Cache API and chunk downloads to mitigate network interruptions.
+- **Performance Mitigation Strategies**: Offload model downloads (chunked via `fetch-in-chunks`) and inference tasks to Web Workers to avoid UI blocking; implement WebGPU fallback to Wasm, detect hardware constraints (e.g., `Navigator.hardwareConcurrency`, `deviceMemory`), and cache models explicitly using the Cache API to prevent redundant downloads.
 
-- **Runtime considerations**: Offload inference and model preparation to web workers to prevent UI jank, implement progress indicators and cancellable operations, and handle errors (e.g., GPU loss, resource contention) with `try/catch` and fallback mechanisms.
+- **User Experience & Error Handling**: Signal large downloads (>10MB) with mobile-specific warnings, display progress indicators, and ensure inference is cancellable; handle runtime errors (GPU/CPU) via `try/catch`, provide fallback UX for critical paths, and use animations to indicate processing delays during inference.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-18T16:57:26.704042+05:30
+- Published: 2026-07-21T22:21:24.563637+05:30
 
 ## Related Tags
 

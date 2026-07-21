@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.google.com/
-published_at: '2026-07-21T01:38:28.451223+05:30'
-collected_at: '2026-07-21T01:38:28.451242+05:30'
+published_at: '2026-07-21T22:20:13.767840+05:30'
+collected_at: '2026-07-21T22:20:13.767854+05:30'
 tags:
 - agents
 - hackernews
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:google-for-developers-build-with-gemini
-first_seen: '2026-07-21T01:38:28.451242+05:30'
-last_seen: '2026-07-21T01:38:28.451242+05:30'
-last_checked: '2026-07-21T01:38:28.451242+05:30'
+first_seen: '2026-07-21T22:20:13.767854+05:30'
+last_seen: '2026-07-21T22:20:13.767854+05:30'
+last_checked: '2026-07-21T22:20:13.767854+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Gemini API Integration**: Provides access to advanced reasoning and generative models for building AI-powered apps with native multimodal processing, long context windows, and real-time agentic workflows via a single API endpoint (`generativelanguage.googleapis.com/v1beta/models/gemini-3-5-flash:generateContent`).
-
-- **Agent-First Platforms**: Google Antigravity offers an agent-first development environment with autonomous agent orchestration, while Google AI Studio enables natural language-to-app generation for rapid prototyping and deployment.
-
-- **Scalable Deployment Tools**: Google Cloud Run automates infrastructure management for AI apps, scaling dynamically based on usage, and the Developer Program consolidates AI workspaces, codelabs, and project management in a centralized Builders Hub.
+- **Gemini API Integration**: Provides access to advanced reasoning and generative models for building AI-powered apps/agents with native multimodal support, long context windows, and real-time agentic workflows via REST, Python, JavaScript, Go, and Java SDKs.
+- **Agent-First Development Platforms**: Google Antigravity (desktop/CLI) and AI Studio enable autonomous agent operations, prompt-to-app generation, and scalable deployment on Google Cloud Run with infrastructure management handled automatically.
+- **Enterprise & Web AI Tools**: Gemini Enterprise Agent Platform supports scalable, governed agent deployment for enterprises, while Chrome’s AI features (WebMCP, DevTools AI assistance) facilitate web-based AI task execution and debugging.
 
 ## Why It Matters
 
@@ -38,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-21T01:38:28.451223+05:30
+- Published: 2026-07-21T22:20:13.767840+05:30
 
 ## Related Tags
 

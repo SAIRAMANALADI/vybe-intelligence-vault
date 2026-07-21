@@ -1,13 +1,24 @@
 ---
-title: "krillintel/krill"
-category: "Tooling"
-tech_stack: ["JavaScript", "Cloudflare Workers", "EVM (eth_* RPC)", "Vitest", "Vanilla JS (UI)", "Wrangler (Cloudflare CLI)"]
+title: krillintel/krill
+category: daily-digests/2026-07-21
+tech_stack:
+- JavaScript
+- Cloudflare Workers
+- EVM (eth_* RPC)
+- Vitest
+- Vanilla JS (UI)
+- Wrangler (Cloudflare CLI)
 quality_score: 8
 rag_relevance: 5
-tags: ["trading intelligence", "token launch analysis", "Robinhood Chain", "real-time data", "AI scoring"]
-source: "https://github.com/krillintel/krill"
-discovered_at: "2026-07-21T12:23:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- trading intelligence
+- token launch analysis
+- Robinhood Chain
+- real-time data
+- AI scoring
+source: https://github.com/krillintel/krill
+discovered_at: '2026-07-21T12:23:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

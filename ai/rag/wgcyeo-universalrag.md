@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-21T19:54:09.441400+05:30'
+collected_at: '2026-07-21T22:14:57.429073+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
 - github-repo
-- paper
 - python
 - rag
 stars: 174
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-21T19:54:09.441400+05:30'
-last_seen: '2026-07-21T19:54:09.441400+05:30'
-last_checked: '2026-07-21T19:54:09.441400+05:30'
+first_seen: '2026-07-21T22:14:57.429073+05:30'
+last_seen: '2026-07-21T22:14:57.429073+05:30'
+last_checked: '2026-07-21T22:14:57.429073+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: UniversalRAG extends traditional RAG by supporting retrieval-augmented generation across diverse modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, or token-level), enabling unified handling of heterogeneous corpora.
+- **Multimodal RAG Framework**: Introduces a retrieval-augmented generation (RAG) system capable of handling diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence) in a unified architecture.
 
-- **ACL 2026 Oral Paper**: The framework is presented as an oral paper at ACL 2026, emphasizing its novelty in addressing cross-modal and cross-granularity retrieval challenges for LLMs.
+- **ACL 2026 Oral Contribution**: Presents a novel approach for seamless integration of heterogeneous corpora into RAG pipelines, optimizing cross-modal retrieval and generation efficiency.
 
-- **Python Implementation**: The open-source repository provides a Python-based implementation with modular components for indexing, retrieval, and generation, optimized for scalability and integration with existing LLM pipelines.
+- **Python Implementation**: Provides an open-source Python-based toolkit with modular components for modality-specific encoders, retrievers, and fusion mechanisms to enable universal RAG across varied data types.
 
 ## Why It Matters
 

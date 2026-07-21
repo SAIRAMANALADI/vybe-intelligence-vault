@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gomate-community/awesome-papers-for-rag
-collected_at: '2026-07-21T19:53:34.446421+05:30'
+collected_at: '2026-07-21T22:14:22.439013+05:30'
 published_at: '2026-07-01T02:40:05Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-02-23T08:38:47Z'
 pushed_at: '2025-10-31T14:16:08Z'
 resource_id: github:gomate-community/awesome-papers-for-rag
-first_seen: '2026-07-21T19:53:34.446421+05:30'
-last_seen: '2026-07-21T19:53:34.446421+05:30'
-last_checked: '2026-07-21T19:53:34.446421+05:30'
+first_seen: '2026-07-21T22:14:22.439013+05:30'
+last_seen: '2026-07-21T22:14:22.439013+05:30'
+last_checked: '2026-07-21T22:14:22.439013+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG) architectures, evaluation methodologies, and optimization techniques.
-- **Python-Centric Tooling**: Provides Python-based implementations, libraries (e.g., `LangChain`, `Haystack`), and Jupyter notebooks for reproducing RAG experiments and benchmarking.
-- **Multi-Domain Coverage**: Includes papers on domain-specific RAG (e.g., biomedical, legal, code generation) and cross-domain generalization, with links to arXiv, ACL, and NeurIPS publications.
+- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG), covering advancements in hybrid retrieval-generation architectures, evaluation methodologies, and domain-specific applications (e.g., QA, summarization).
+- **Python-Centric Tooling**: Includes implementations (e.g., PyTorch/TensorFlow-based frameworks) and libraries (e.g., `LangChain`, `FAISS`, `HuggingFace`) for prototyping and benchmarking RAG systems, with emphasis on modularity and reproducibility.
+- **Community-Driven Maintenance**: Actively updated (last commit: 2026-07-01) with 136 stars and 12 forks, indicating collaborative contributions from researchers and practitioners focused on optimizing RAG pipelines for efficiency, scalability, and real-world deployment.
 
 ## Why It Matters
 

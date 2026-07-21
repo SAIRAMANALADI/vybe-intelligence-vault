@@ -8,25 +8,25 @@ Retrieval-Augmented Generation (RAG) grounds LLM completions in private document
 
 ## Top Matched Resources
 
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (framework - ESSENTIAL Tier)
-- [azure-search-dotnet-samples/quickstart-vector-search at main · Azure-Samples/azure-search-dotnet-samples · GitHub](https://github.com/Azure-Samples/azure-search-dotnet-samples/tree/main/quickstart-vector-search) (framework - ESSENTIAL Tier)
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (benchmark - ESSENTIAL Tier)
-- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (tutorial - ESSENTIAL Tier)
+- [truefoundry/cognita](https://github.com/truefoundry/cognita) (framework - ESSENTIAL Tier)
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (dataset - ESSENTIAL Tier)
+- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (benchmark - ESSENTIAL Tier)
 - [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) (mcp-server - ESSENTIAL Tier)
 - [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (benchmark - ESSENTIAL Tier)
 - [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
+- [mongodb · GitHub](https://github.com/mongodb) (tutorial - ESSENTIAL Tier)
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (api - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/run-llama/llama_index (LlamaIndex)
 https://github.com/langchain-ai/langchain (LangChain)
 https://github.com/microsoft/graphrag (GraphRAG)
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
-- [azure-search-dotnet-samples/quickstart-vector-search at main · Azure-Samples/azure-search-dotnet-samples · GitHub](https://github.com/Azure-Samples/azure-search-dotnet-samples/tree/main/quickstart-vector-search)
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
+- [truefoundry/cognita](https://github.com/truefoundry/cognita)
 - [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
 - [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops)
+- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
+- [langgenius/dify](https://github.com/langgenius/dify)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/microsoft/graphrag (GraphRAG)
 
 ---
 
-*Last updated: 2026-07-21 20:08 IST*
+*Last updated: 2026-07-21 22:30 IST*

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://vite.dev/?utm_source=pnpm&utm_medium=home_page
-published_at: '2026-07-14T13:07:23.245824+05:30'
-collected_at: '2026-07-14T13:07:23.245839+05:30'
+published_at: '2026-07-21T22:22:05.546247+05:30'
+collected_at: '2026-07-21T22:22:05.546264+05:30'
 tags:
 - hackernews
 - openai
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:vite-next-generation-frontend-tooling
-first_seen: '2026-07-14T13:07:23.245839+05:30'
-last_seen: '2026-07-14T13:07:23.245839+05:30'
-last_checked: '2026-07-14T13:07:23.245839+05:30'
+first_seen: '2026-07-21T22:22:05.546264+05:30'
+last_seen: '2026-07-21T22:22:05.546264+05:30'
+last_checked: '2026-07-21T22:22:05.546264+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Native ESM-based Dev Server**: Vite leverages native ES modules for on-demand file serving, eliminating bundling overhead during development and enabling near-instant server startup (~100ms) with dependency pre-bundling via esbuild.
+- **Native ESM-based Dev Server**: Vite leverages native ES modules for on-demand source file serving, eliminating bundling overhead during development and enabling near-instant server startup and HMR (Hot Module Replacement).
 
-- **Optimized Production Builds**: Uses Rollup/Rolldown for advanced tree-shaking, minification, and fine-grained chunking, achieving production-ready bundles with optimized performance.
+- **Optimized Production Builds**: Uses Rolldown (a Rust-based bundler) for advanced tree-shaking, built-in minification, and fine-grained chunking, resulting in highly optimized production bundles.
 
-- **Framework-Agnostic Plugin System**: Extends Rollup’s plugin interface with Vite-specific options, supporting TypeScript, JSX, CSS, Workers, WebAssembly, and SSR out-of-the-box while maintaining full type safety.
+- **Extensible Plugin System**: Built on Rollup’s plugin interface with Vite-specific enhancements, enabling seamless integration of TypeScript, JSX, CSS, Workers, WebAssembly, and SSR capabilities via a flexible plugin ecosystem.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-14T13:07:23.245824+05:30
+- Published: 2026-07-21T22:22:05.546247+05:30
 
 ## Related Tags
 

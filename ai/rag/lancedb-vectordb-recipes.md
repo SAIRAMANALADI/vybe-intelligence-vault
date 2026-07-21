@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-07-21T19:52:39.373985+05:30'
+collected_at: '2026-07-21T22:13:27.416034+05:30'
 published_at: '2026-07-20T15:07:29Z'
 tags:
 - agents
@@ -24,9 +24,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-07-21T19:52:39.373985+05:30'
-last_seen: '2026-07-21T19:52:39.373985+05:30'
-last_checked: '2026-07-21T19:52:39.373985+05:30'
+first_seen: '2026-07-21T22:13:27.416034+05:30'
+last_seen: '2026-07-21T22:13:27.416034+05:30'
+last_checked: '2026-07-21T22:13:27.416034+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Examples**: Repository provides Jupyter Notebooks demonstrating multimodal AI applications, Retrieval-Augmented Generation (RAG), and agent-based workflows using vector search and LLMs.
-
-- **Tooling Integration**: Includes tutorials leveraging LanceDB (vector database), LangChain, LlamaIndex, OpenAI APIs (including GPT-4 Vision), and fine-tuning techniques for embeddings and models.
-
-- **Technical Focus**: Covers deep learning, embeddings optimization, and end-to-end pipelines for deploying AI agents with vector databases, last updated July 2026.
+- **Multimodal AI & RAG Examples**: Repository provides Jupyter Notebook-based tutorials and examples for multimodal AI, Retrieval-Augmented Generation (RAG), and agent-based systems using vector search and Large Language Models (LLMs).
+- **Toolchain Integration**: Demonstrates workflows integrating LanceDB (vector database), LangChain, LlamaIndex, OpenAI (including GPT-4 Vision), and fine-tuning techniques for embeddings and LLMs.
+- **Technical Focus**: Covers deep learning, embeddings optimization, and multimodal AI pipelines, with last update as of July 20, 2026.
 
 ## Why It Matters
 
