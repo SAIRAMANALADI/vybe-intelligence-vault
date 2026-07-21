@@ -4,18 +4,19 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/FlowiseAI/Flowise
-collected_at: '2026-07-21T14:19:33.900127+05:30'
-published_at: '2026-07-21T08:48:59Z'
+collected_at: '2026-07-21T16:53:34.479783+05:30'
+published_at: '2026-07-21T09:57:24Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
 - openai
 - rag
+- reddit
 - scripts
 - typescript
 - workflows
-stars: 54783
+stars: 54786
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -23,9 +24,9 @@ archived: false
 created_at: '2023-03-31T12:23:09Z'
 pushed_at: '2026-07-17T09:12:26Z'
 resource_id: github:flowiseai/flowise
-first_seen: '2026-07-21T14:19:33.900127+05:30'
-last_seen: '2026-07-21T14:19:33.900127+05:30'
-last_checked: '2026-07-21T14:19:33.900127+05:30'
+first_seen: '2026-07-21T16:53:34.479783+05:30'
+last_seen: '2026-07-21T16:53:34.479783+05:30'
+last_checked: '2026-07-21T16:53:34.479783+05:30'
 health_score: 100
 ---
 
@@ -33,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Visual AI Agent Builder**: Open-source, low/no-code platform in TypeScript/React for constructing AI agents and workflows, leveraging LangChain and large language models (LLMs) like OpenAI.
+- **Visual AI Agent Builder**: Open-source, low/no-code platform (TypeScript/React) enabling drag-and-drop creation of AI agents and workflows for tasks like RAG, chatbots, and multi-agent systems.
 
-- **Multi-Agent & RAG Support**: Enables agentic workflows, multi-agent systems, and Retrieval-Augmented Generation (RAG) pipelines with modular, drag-and-drop interface for rapid prototyping.
+- **LangChain Integration**: Leverages LangChain for modular agentic workflows, supporting OpenAI and other LLM providers with customizable chains, tools, and memory.
 
-- **Extensible Architecture**: Integrates with JavaScript/TypeScript ecosystems, supports custom components, and offers deployment flexibility via Docker or cloud services.
+- **Deployment & Scalability**: Self-hostable via Docker/Node.js, with support for workflow automation, multi-agent orchestration, and integration with vector databases for RAG pipelines.
 
 ## Why It Matters
 
@@ -46,11 +47,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: FlowiseAI
-- Stars: 54783
+- Stars: 54786
 - Forks: 24744
 - Language: TypeScript
 - Topics: agentic-ai, agentic-workflow, agents, artificial-intelligence, chatbot, chatgpt, javascript, langchain, large-language-models, low-code, multiagent-systems, no-code, openai, rag, react, typescript, workflow-automation
-- Last Updated: 2026-07-21T08:48:59Z
+- Last Updated: 2026-07-21T09:57:24Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-03-31T12:23:09Z

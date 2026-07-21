@@ -4,13 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vonzosten/awesome-LangGraph
-collected_at: '2026-07-21T14:20:08.859260+05:30'
+collected_at: '2026-07-21T16:54:09.449333+05:30'
 published_at: '2026-07-21T03:44:31Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - javascript
+- scripts
+- workflows
 stars: 1912
 language: JavaScript
 status: active
@@ -19,9 +21,9 @@ archived: false
 created_at: '2024-11-02T15:54:00Z'
 pushed_at: '2026-07-10T12:16:13Z'
 resource_id: github:vonzosten/awesome-langgraph
-first_seen: '2026-07-21T14:20:08.859260+05:30'
-last_seen: '2026-07-21T14:20:08.859260+05:30'
-last_checked: '2026-07-21T14:20:08.859260+05:30'
+first_seen: '2026-07-21T16:54:09.449333+05:30'
+last_seen: '2026-07-21T16:54:09.449333+05:30'
+last_checked: '2026-07-21T16:54:09.449333+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Ecosystem Index**: Curated collection of LangChain and LangGraph resources, including concepts, projects, tools, templates, and guides for building LLM and multi-agent applications.
-
-- **Technical Breadth**: Covers the full stack of LangGraph/LangChain development, from foundational concepts to advanced implementations, with a focus on JavaScript-based tooling.
-
-- **Active Maintenance**: Last updated in July 2026, ensuring inclusion of recent developments and maintaining relevance in the rapidly evolving LLM/agent development landscape.
+- **Comprehensive Ecosystem Index**: Curated collection of resources for LangChain and LangGraph, covering concepts, projects, tools, templates, and guides tailored for LLM and multi-agent applications.
+- **Technical Breadth**: Focuses on JavaScript-based implementations, integrating topics such as AI agents, LLM orchestration, and workflow automation within the LangGraph framework.
+- **Actively Maintained**: Last updated in July 2026, ensuring relevance with ongoing contributions (1,912 stars, 241 forks) to the open-source community.
 
 ## Why It Matters
 

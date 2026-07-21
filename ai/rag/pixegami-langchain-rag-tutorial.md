@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/langchain-rag-tutorial
-collected_at: '2026-07-21T14:16:33.696960+05:30'
+collected_at: '2026-07-21T16:50:34.282025+05:30'
 published_at: '2026-07-12T13:21:37Z'
 tags:
 - github-repo
 - openai
 - python
 - rag
+- workflows
 stars: 974
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2023-11-13T09:14:54Z'
 pushed_at: '2024-07-31T23:46:44Z'
 resource_id: github:pixegami/langchain-rag-tutorial
-first_seen: '2026-07-21T14:16:33.696960+05:30'
-last_seen: '2026-07-21T14:16:33.696960+05:30'
-last_checked: '2026-07-21T14:16:33.696960+05:30'
+first_seen: '2026-07-21T16:50:34.282025+05:30'
+last_seen: '2026-07-21T16:50:34.282025+05:30'
+last_checked: '2026-07-21T16:50:34.282025+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Demonstrates a basic **LangChain-based Retrieval-Augmented Generation (RAG)** pipeline for document Q&A using Python.
-- **Key Components**: Implements **vector embeddings (e.g., FAISS or ChromaDB)** for document retrieval and **LLM integration (e.g., OpenAI, HuggingFace)** for generation.
-- **Structure**: Includes **document loading (e.g., PyPDF, TextLoader)**, **chunking (RecursiveCharacterTextSplitter)**, and **retrieval-augmented prompting** for contextual responses.
+- **LangChain RAG Implementation**: Demonstrates a Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced responses.
+- **Python-Based Architecture**: Utilizes Python for modular components, including document loaders, embeddings (e.g., HuggingFace), vector stores (e.g., Chroma), and LLM integration (e.g., OpenAI/GPT).
+- **End-to-End Workflow**: Covers ingestion, chunking, embedding, retrieval, and generation, with example notebooks for local testing and deployment.
 
 ## Why It Matters
 

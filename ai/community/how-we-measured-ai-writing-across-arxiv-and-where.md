@@ -13,13 +13,14 @@ collected_at: '2026-07-21T14:14:13.359159+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:how-we-measured-ai-writing-across-arxiv-and-where
 first_seen: '2026-07-21T01:26:41.693351+05:30'
 last_seen: '2026-07-21T14:14:13.359159+05:30'
 last_checked: '2026-07-21T14:14:13.359159+05:30'
 health_score: 100
 ---
+
 
 # How we measured AI writing across arXiv, and where the measurement breaks
 

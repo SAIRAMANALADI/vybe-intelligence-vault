@@ -1,13 +1,30 @@
 ---
-title: "umzcio/BearCode"
-category: "Agent Framework"
-tech_stack: ["Electron", "React 19", "TypeScript", "LangChain.js", "LangGraph.js", "deepagents", "Monaco Editor", "Playwright", "better-sqlite3", "macOS Seatbelt", "Zustand", "Vitest"]
+title: umzcio/BearCode
+category: daily-digests/2026-07-21
+tech_stack:
+- Electron
+- React 19
+- TypeScript
+- LangChain.js
+- LangGraph.js
+- deepagents
+- Monaco Editor
+- Playwright
+- better-sqlite3
+- macOS Seatbelt
+- Zustand
+- Vitest
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agent manager", "self-hosted", "sandboxed execution", "file-based configuration", "multi-provider support"]
-source: "https://github.com/umzcio/BearCode"
-discovered_at: "2026-07-14T02:13:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent manager
+- self-hosted
+- sandboxed execution
+- file-based configuration
+- multi-provider support
+source: https://github.com/umzcio/BearCode
+discovered_at: '2026-07-14T02:13:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "jyswee/secretcarousel"
-category: "Tooling"
-tech_stack: ["Node.js", "TypeScript", "AES-256-GCM", "MCP (Model Context Protocol)", "Stripe (for payments)", "REST APIs", "CLI", "Zero-Knowledge Encryption"]
+title: jyswee/secretcarousel
+category: daily-digests/2026-07-21
+tech_stack:
+- Node.js
+- TypeScript
+- AES-256-GCM
+- MCP (Model Context Protocol)
+- Stripe (for payments)
+- REST APIs
+- CLI
+- Zero-Knowledge Encryption
 quality_score: 8
 rag_relevance: 9
-tags: ["secret management", "agent security", "zero-knowledge", "credential handoff", "audit logging"]
-source: "https://github.com/jyswee/secretcarousel"
-discovered_at: "2026-07-20T09:59:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- secret management
+- agent security
+- zero-knowledge
+- credential handoff
+- audit logging
+source: https://github.com/jyswee/secretcarousel
+discovered_at: '2026-07-20T09:59:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

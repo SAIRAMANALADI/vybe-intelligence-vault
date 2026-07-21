@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **AI Credit Pools for Cost Centers**: Introduced AI-specific credit pools in the billing UI, enabling granular cost tracking and allocation for AI services across different organizational cost centers.
-- **Enhanced Copilot Integration**: Expanded Copilot features with improved enterprise management tools, including advanced policy enforcement and usage analytics for AI-driven workflows.
-- **Enterprise Management Tools**: Added new enterprise-grade controls for AI resource governance, including
+- **AI Credit Pools for Cost Centers**: Introduced AI-specific credit pools in the billing UI, enabling granular cost allocation and tracking for AI services across different cost centers.
+- **Copilot Integration**: Enhanced Copilot functionality with new enterprise management tools for improved AI-assisted development workflows and resource optimization.
+- **+1 Feature**: Added a "+1" interaction mechanism to streamline user feedback and engagement within the billing and enterprise management i
 
 ## Use Cases
 

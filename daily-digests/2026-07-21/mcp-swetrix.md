@@ -1,13 +1,26 @@
 ---
-title: "kieksme/mcp-swetrix"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Docker", "MCP (Model Context Protocol)", "HTTP/Streamable Transport", "GitHub Actions (CI)", "npm", "Swetrix API"]
+title: kieksme/mcp-swetrix
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- Docker
+- MCP (Model Context Protocol)
+- HTTP/Streamable Transport
+- GitHub Actions (CI)
+- npm
+- Swetrix API
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP servers", "analytics integration", "Swetrix", "AI tooling", "event tracking"]
-source: "https://github.com/kieksme/mcp-swetrix"
-discovered_at: "2026-07-21T07:32:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP servers
+- analytics integration
+- Swetrix
+- AI tooling
+- event tracking
+source: https://github.com/kieksme/mcp-swetrix
+discovered_at: '2026-07-21T07:32:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

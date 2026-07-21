@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-07-21T14:17:33.753349+05:30'
+collected_at: '2026-07-21T16:51:34.357810+05:30'
 published_at: '2026-07-19T17:15:41Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-07-21T14:17:33.753349+05:30'
-last_seen: '2026-07-21T14:17:33.753349+05:30'
-last_checked: '2026-07-21T14:17:33.753349+05:30'
+first_seen: '2026-07-21T16:51:34.357810+05:30'
+last_seen: '2026-07-21T16:51:34.357810+05:30'
+last_checked: '2026-07-21T16:51:34.357810+05:30'
 health_score: 100
 ---
 
@@ -29,8 +29,7 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive benchmarking framework for Retrieval-Augmented Generation (RAG) systems.
-*
+*   `facebookresearch/CRAG` provides a comprehensive benchmark for Retrieval Augmented Generation (R
 
 ## Why It Matters
 

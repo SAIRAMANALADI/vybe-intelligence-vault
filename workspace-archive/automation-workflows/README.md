@@ -8,24 +8,24 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 
 ## Top Matched Resources
 
-- [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
-- [Stainless · GitHub](https://github.com/stainless-api) (framework - ESSENTIAL Tier)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (framework - ESSENTIAL Tier)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (mcp-server - ESSENTIAL Tier)
 - [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
-- [llmware-ai/llmware](https://github.com/llmware-ai/llmware) (framework - ESSENTIAL Tier)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page-----dba899ae0355---------------------------------------) (framework - ESSENTIAL Tier)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (tutorial - ESSENTIAL Tier)
+- [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production) (framework - ESSENTIAL Tier)
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (framework - ESSENTIAL Tier)
+- [cli/cli](https://github.com/cli/cli#installation) (workflow - ESSENTIAL Tier)
 - [explosion/spaCy](https://github.com/explosion/spaCy) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/n8n-io/n8n (n8n)
-- [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
-- [Stainless · GitHub](https://github.com/stainless-api)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs)
 - [langgenius/dify](https://github.com/langgenius/dify)
-- [llmware-ai/llmware](https://github.com/llmware-ai/llmware)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
+- [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production)
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-07-21 14:33 IST*
+*Last updated: 2026-07-21 17:08 IST*

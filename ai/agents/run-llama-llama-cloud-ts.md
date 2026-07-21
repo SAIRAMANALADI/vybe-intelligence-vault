@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama-cloud-ts
-collected_at: '2026-07-20T22:22:15.613830+05:30'
+collected_at: '2026-07-21T16:56:28.892549+05:30'
 published_at: '2026-07-17T17:34:45Z'
 tags:
 - agents
@@ -19,11 +19,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2025-11-06T21:59:46Z'
-pushed_at: '2026-07-17T22:36:35Z'
+pushed_at: '2026-07-20T22:48:49Z'
 resource_id: github:run-llama/llama-cloud-ts
-first_seen: '2026-07-20T22:22:15.613830+05:30'
-last_seen: '2026-07-20T22:22:15.613830+05:30'
-last_checked: '2026-07-20T22:22:15.613830+05:30'
+first_seen: '2026-07-21T16:56:28.892549+05:30'
+last_seen: '2026-07-21T16:56:28.892549+05:30'
+last_checked: '2026-07-21T16:56:28.892549+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript SDK for LlamaParse**: Provides cloud-based OCR and document parsing capabilities, enabling structured extraction of text and metadata from documents via LlamaParse's API.
+- **TypeScript SDK for LlamaParse**: Provides a cloud-based OCR and document parsing interface optimized for TypeScript, enabling structured extraction from unstructured documents via LlamaParse.
 
-- **Document Processing & Information Extraction**: Supports advanced parsing workflows for unstructured documents, facilitating information extraction and integration with document agents.
+- **Document Processing & Information Extraction**: Supports advanced parsing workflows, including OCR, layout analysis, and metadata extraction for document agents and information retrieval tasks.
 
-- **Integration with Llama Cloud**: Designed for seamless interaction with LlamaParse's cloud services, optimized for TypeScript-based document processing pipelines.
+- **Integration with Llama Ecosystem**: Designed for seamless interaction with Llama agents, facilitating document processing in AI-driven workflows.
 
 ## Why It Matters
 
@@ -52,7 +52,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2025-11-06T21:59:46Z
-- Pushed At: 2026-07-17T22:36:35Z
+- Pushed At: 2026-07-20T22:48:49Z
 
 ## Possible Use Cases
 

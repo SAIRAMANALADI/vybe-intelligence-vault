@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
-published_at: '2026-07-21T09:15:03.876725+05:30'
-collected_at: '2026-07-21T09:15:03.876735+05:30'
+published_at: '2026-07-21T16:50:31.003442+05:30'
+collected_at: '2026-07-21T16:50:31.003454+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-07-21T09:15:03.876735+05:30'
-last_seen: '2026-07-21T09:15:03.876735+05:30'
-last_checked: '2026-07-21T09:15:03.876735+05:30'
+first_seen: '2026-07-21T16:50:31.003454+05:30'
+last_seen: '2026-07-21T16:50:31.003454+05:30'
+last_checked: '2026-07-21T16:50:31.003454+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings) and generation (LLMs) for context-aware responses; key components include chunking strategies, embedding models (e.g., `text-embedding-3-large`), and vector databases (e.g., Supabase).
+- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like query expansion/rewriting), and retrieval using hybrid search (dense + sparse vectors) with Supabase as the vector database backend.
 
-- **Production Optimizations**: Implements hybrid search (dense + sparse retrieval), query rewriting, caching (e.g., Redis), and load balancing across multiple LLM endpoints; benchmarks latency reduction via Supabase vector search and Cloudflare Workers deployment.
+- **Production Optimization**: Implements caching strategies, load balancing across multiple LLM instances, and deployment via Cloudflare Workers; includes token usage optimization and latency reduction through advanced retrieval (e.g., hybrid search) and embedding fine-tuning.
 
-- **Monitoring & Cost Control**: Integrates Sentry for observability, tracks token usage metrics, and enforces security via privacy-preserving techniques (e.g., differential privacy) to mitigate hallucinations and optimize cloud costs.
+- **Monitoring & Scalability**: Integrates Sentry for observability, tracks performance metrics (e.g., RAG pipeline latency breakdown), and addresses common issues (e.g., poor retrieval quality, hallucinations) via structured testing (unit/integration) and multi-modal RAG support.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T09:15:03.876725+05:30
+- Published: 2026-07-21T16:50:31.003442+05:30
 
 ## Related Tags
 

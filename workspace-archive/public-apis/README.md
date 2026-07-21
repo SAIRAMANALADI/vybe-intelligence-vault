@@ -11,7 +11,7 @@ Public developer APIs supply external context and utilities for LLM tools.
 - [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
-- [stackitcloud/rag-template](https://github.com/stackitcloud/rag-template) (template - USEFUL Tier)
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) (framework - USEFUL Tier)
 - [The Compass REST API](https://developer.atlassian.com/cloud/compass/rest/v1/intro/#about) (tutorial - USEFUL Tier)
 - [Overview (egeria 6.1-SNAPSHOT API)](https://odpi.github.io/egeria/index.html) (dataset - USEFUL Tier)
 - [Marquez Project | Marquez Project](https://marquezproject.github.io/marquez) (dataset - USEFUL Tier)
@@ -21,7 +21,7 @@ Public developer APIs supply external context and utilities for LLM tools.
 
 https://github.com/public-apis/public-apis (Public APIs)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
-- [stackitcloud/rag-template](https://github.com/stackitcloud/rag-template)
+- [chroma-core/chroma](https://github.com/chroma-core/chroma)
 
 ## Best Learning Resources
 
@@ -39,4 +39,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-07-21 14:33 IST*
+*Last updated: 2026-07-21 17:08 IST*

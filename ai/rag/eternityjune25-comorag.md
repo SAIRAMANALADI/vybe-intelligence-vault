@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-21T14:18:03.751473+05:30'
+collected_at: '2026-07-21T16:52:04.346725+05:30'
 published_at: '2026-07-13T12:27:27Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-21T14:18:03.751473+05:30'
-last_seen: '2026-07-21T14:18:03.751473+05:30'
-last_checked: '2026-07-21T14:18:03.751473+05:30'
+first_seen: '2026-07-21T16:52:04.346725+05:30'
+last_seen: '2026-07-21T16:52:04.346725+05:30'
+last_checked: '2026-07-21T16:52:04.346725+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Memory Organization**: Introduces a novel Retrieval-Augmented Generation (RAG) framework (`ComoRAG`) that mimics human-like memory structures for **stateful long narrative reasoning**, enabling dynamic context retention and retrieval.
+- **Cognitive Memory Architecture**: Introduces a memory-organized RAG framework inspired by human cognitive memory systems, enabling stateful long narrative reasoning with structured memory retrieval and integration.
 
-- **AAAI 2026 Poster**: Presented as a cutting-edge contribution to the AAAI 2026 conference, emphasizing **memory-driven reasoning** over traditional RAG methods for improved coherence in extended dialogues or narratives.
+- **Stateful Reasoning Mechanism**: Implements dynamic memory updates and hierarchical reasoning to maintain contextual coherence across extended dialogues or narratives, leveraging episodic and semantic memory modules.
 
-- **Python Implementation**: Open-source codebase (`ComoRAG`) in Python, designed for modularity and integration with LLM pipelines, with recent updates (July 2026) refining memory organization and retrieval mechanisms.
+- **AAAI 2026 Poster Contribution**: Presents a novel approach to Retrieval-Augmented Generation (RAG) with enhanced memory organization, validated through experiments on long-form reasoning tasks.
 
 ## Why It Matters
 

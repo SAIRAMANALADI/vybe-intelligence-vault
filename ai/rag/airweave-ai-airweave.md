@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/airweave-ai/airweave
-collected_at: '2026-07-21T14:18:38.862361+05:30'
-published_at: '2026-07-21T02:27:22Z'
+collected_at: '2026-07-21T16:52:39.411751+05:30'
+published_at: '2026-07-21T10:25:17Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
-- workflows
-stars: 6490
+stars: 6491
 language: Python
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-12-24T10:00:06Z'
 pushed_at: '2026-06-05T09:52:19Z'
 resource_id: github:airweave-ai/airweave
-first_seen: '2026-07-21T14:18:38.862361+05:30'
-last_seen: '2026-07-21T14:18:38.862361+05:30'
-last_checked: '2026-07-21T14:18:38.862361+05:30'
+first_seen: '2026-07-21T16:52:39.411751+05:30'
+last_seen: '2026-07-21T16:52:39.411751+05:30'
+last_checked: '2026-07-21T16:52:39.411751+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Open-source context retrieval layer**: Provides a Python-based SDK for AI agents to fetch and integrate contextual data from enterprise sources via semantic search and retrieval-augmented generation (RAG).
-- **Enterprise data connectors**: Supports integration with structured/unstructured data sources (APIs, databases, documents) for real-time context augmentation in agent workflows.
-- **Search & retrieval API**: Offers a scalable, low-latency search API with semantic indexing to enhance LLM responses with up-to-date, relevant context.
+- **Purpose**: Open-source context retrieval layer designed to augment AI agents with dynamic, real-time data access via semantic search and retrieval-augmented generation (RAG).
+
+- **Key Features**: Supports enterprise data integration via connectors, semantic search APIs, and a Python-based SDK for seamless LLM augmentation and context-aware agent operations.
+
+- **Technical Stack**: Python-based implementation with modular architecture for extensible data connectors, search optimization, and scalable retrieval infrastructure.
 
 ## Why It Matters
 
@@ -41,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: airweave-ai
-- Stars: 6490
+- Stars: 6491
 - Forks: 815
 - Language: Python
 - Topics: agent-infrastructure, ai, ai-agents, ai-infrastructure, api, context-retrieval, data-connectors, developer-tools, enterprise-data, information-retrieval, integration, llm, open-source, rag, retrieval, retrieval-augmented-generation, sdk, search, search-api, semantic-search
-- Last Updated: 2026-07-21T02:27:22Z
+- Last Updated: 2026-07-21T10:25:17Z
 - License: MIT
 - Archived: No
 - Created At: 2024-12-24T10:00:06Z

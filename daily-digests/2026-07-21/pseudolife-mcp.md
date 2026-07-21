@@ -1,13 +1,27 @@
 ---
-title: "Pseudogiant-xr/Pseudolife-MCP"
-category: "Orchestrator"
-tech_stack: ["Python", "Docker", "PostgreSQL", "ChromaDB", "llama.cpp", "Claude Code", "Model Context Protocol (MCP)", "NetworkX", "FastAPI"]
+title: Pseudogiant-xr/Pseudolife-MCP
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Docker
+- PostgreSQL
+- ChromaDB
+- llama.cpp
+- Claude Code
+- Model Context Protocol (MCP)
+- NetworkX
+- FastAPI
 quality_score: 9
 rag_relevance: 10
-tags: ["long-term memory", "MCP server", "knowledge graph", "RAG", "Claude integration"]
-source: "https://github.com/Pseudogiant-xr/Pseudolife-MCP"
-discovered_at: "2026-07-16T05:39:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- long-term memory
+- MCP server
+- knowledge graph
+- RAG
+- Claude integration
+source: https://github.com/Pseudogiant-xr/Pseudolife-MCP
+discovered_at: '2026-07-16T05:39:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

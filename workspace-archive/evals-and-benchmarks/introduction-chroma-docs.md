@@ -2,7 +2,7 @@
 title: Introduction - Chroma Docs
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://docs.trychroma.com/docs/overview/introduction
+source_url: https://docs.trychroma.com/
 resource_id: blog:introduction-chroma-docs
 local_vault_path: ai/rag/introduction-chroma-docs.md
 quality_score: 70
@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal & Hybrid Retrieval**: Supports dense, sparse, and hybrid vector search with metadata filtering, enabling retrieval across text, images, audio, and other modalities while combining multiple search strategies.
+- **Multi-modal & hybrid retrieval**: Supports dense, sparse, and hybrid vector search across text, images, audio, and other modalities with metadata filtering and full-text/regex search capabilities.
 
-- **Flexible Embedding Integration**: Compatible with any embedding model (e.g., OpenAI, Cohere, Hugging Face) and offers full-text/regex search without embeddings.
+- **Flexible embedding integration**: Compatible with any embedding model (e.g., OpenAI, Cohere, Hugging Face) and provides built-in document storage with metadata.
 
-- **Open-Source & Scalable Deployment**: Licensed under Apache 2.0, deployable locally, self-hosted, or via C
+- **Scalable deployment options**: Open-source (Apache 2.0) with self-hosting, local, or managed Chroma Cloud solutions for zero-ops
 
 ## Use Cases
 
@@ -47,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.trychroma.com/docs/overview/introduction
+Original source URL: https://docs.trychroma.com/
 
 ## Local Vault File
 

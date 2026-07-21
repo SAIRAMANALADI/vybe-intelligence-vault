@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pinecone-io/examples
-collected_at: '2026-07-21T14:17:03.775971+05:30'
+collected_at: '2026-07-21T16:51:04.300699+05:30'
 published_at: '2026-07-16T04:02:32Z'
 tags:
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
-- workflows
 stars: 3028
 language: Jupyter Notebook
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2021-03-09T19:42:10Z'
 pushed_at: '2026-07-11T20:48:20Z'
 resource_id: github:pinecone-io/examples
-first_seen: '2026-07-21T14:17:03.775971+05:30'
-last_seen: '2026-07-21T14:17:03.775971+05:30'
-last_checked: '2026-07-21T14:17:03.775971+05:30'
+first_seen: '2026-07-21T16:51:04.300699+05:30'
+last_seen: '2026-07-21T16:51:04.300699+05:30'
+last_checked: '2026-07-21T16:51:04.300699+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Hosts Jupyter Notebooks demonstrating Pinecone vector database applications, including RAG, semantic search, and vector search workflows.
-- **Technical Stack**: Primarily Python-based, leveraging Jupyter Notebooks for interactive examples; integrates with LLMs and vector search pipelines.
-- **Metadata**: 3,028 stars, 1,072 forks; last updated July 16, 2026; covers AI, vector databases, and Pinecone-specific implementations.
+- **Repository Overview**: Provides Jupyter Notebooks for hands-on interaction with Pinecone vector databases, covering topics like AI, RAG, semantic search, and vector search.
+- **Technical Stack**: Implemented in Python with Jupyter Notebooks, leveraging Pinecone’s vector database for scalable similarity search and retrieval.
+- **Metadata**: 3,028 stars, 1,073 forks; last updated July 16, 2026; includes resources for LLM integration and vector-based applications.
 
 ## Why It Matters
 
@@ -42,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: pinecone-io
 - Stars: 3028
-- Forks: 1072
+- Forks: 1073
 - Language: Jupyter Notebook
 - Topics: ai, jupyter-notebook, llm, pinecone, python, rag, semantic-search, vector-database, vector-search
 - Last Updated: 2026-07-16T04:02:32Z

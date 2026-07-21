@@ -3,16 +3,17 @@ title: cli/cli
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/cli/cli
-collected_at: '2026-07-21T03:52:33.514453+05:30'
-published_at: '2026-07-20T21:55:44Z'
+source_url: https://github.com/cli/cli#installation
+collected_at: '2026-07-21T16:58:25.190912+05:30'
+published_at: '2026-07-21T10:00:24Z'
 tags:
 - github-repo
 - go
 - hackernews
 - rag
 - scripts
-stars: 45336
+- workflows
+stars: 45343
 language: Go
 status: active
 license: MIT
@@ -20,9 +21,9 @@ archived: false
 created_at: '2019-10-03T15:24:53Z'
 pushed_at: '2026-07-20T20:09:28Z'
 resource_id: github:cli/cli
-first_seen: '2026-07-21T03:52:33.514453+05:30'
-last_seen: '2026-07-21T03:52:33.514453+05:30'
-last_checked: '2026-07-21T03:52:33.514453+05:30'
+first_seen: '2026-07-21T16:58:25.190912+05:30'
+last_seen: '2026-07-21T16:58:25.190912+05:30'
+last_checked: '2026-07-21T16:58:25.190912+05:30'
 health_score: 100
 ---
 
@@ -31,8 +32,8 @@ health_score: 100
 ## Summary
 
 - **Purpose**: Official GitHub CLI tool for interacting with GitHub repositories, issues, PRs, and APIs directly from the command line.
-- **Technical Stack**: Built in Go, leveraging GitHub's GraphQL API v4 for efficient data fetching and mutations.
-- **Features**: Supports Git operations, GitHub API interactions, and automation via CLI commands (e.g., `gh repo clone`, `gh issue list`).
+- **Technical Stack**: Built in Go, leveraging GitHub’s GraphQL API v4 for efficient data fetching and mutation operations.
+- **Features**: Supports Git operations, GitHub API interactions, and workflow automation with a focus on developer productivity.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: cli
-- Stars: 45336
-- Forks: 8722
+- Stars: 45343
+- Forks: 8731
 - Language: Go
 - Topics: cli, git, github-api-v4, golang
-- Last Updated: 2026-07-20T21:55:44Z
+- Last Updated: 2026-07-21T10:00:24Z
 - License: MIT
 - Archived: No
 - Created At: 2019-10-03T15:24:53Z
@@ -67,4 +68,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/cli/cli
+Original source: https://github.com/cli/cli#installation

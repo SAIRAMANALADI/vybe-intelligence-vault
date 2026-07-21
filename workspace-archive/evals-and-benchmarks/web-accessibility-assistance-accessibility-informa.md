@@ -2,7 +2,7 @@
 title: Web Accessibility Assistance – Accessibility Information
 archive_category: evals-and-benchmarks
 source_category: ai/resources
-source_url: https://accessibility.cornell.edu/information-technology/web-accessibility/web-accessibility-assistance
+source_url: https://accessibility.cornell.edu/information-technology/web-accessibility/web-accessibility-assistance/
 resource_id: blog:web-accessibility-assistance-accessibility-informa
 local_vault_path: ai/resources/web-accessibility-assistance-accessibility-informa.md
 quality_score: 70
@@ -14,6 +14,7 @@ tags:
 - benchmark
 - hackernews
 - web-crawled
+- youtube
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Web Accessibility Requests**: Cornell provides multiple ticket-based request forms for web accessibility support, including general information, evaluation, and remediation, with varying login requirements.
-- **Automated Tools**: Services like SiteImprove and Equidox are available for automated accessibility checks, requiring login credentials for submission.
-- **General IT Support**: Non-accessibility-related IT issues should be directed to the [General Support](https://tdx.cornell.edu/TDCl
+- **Cornell provides multiple web accessibility support channels**, including general information requests, evaluations, and remediation via dedicated TDX forms (some require login).
+- **Specialized tools like SiteImprove and Equidox** are available for automated accessibility scanning and PDF remediation, accessible through Cornell’s TDX portal (login required).
+- **General IT support requests** unrelated to web accessibility should be submitted via the separate [General Support](https://tdx.co
 
 ## Use Cases
 
@@ -44,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://accessibility.cornell.edu/information-technology/web-accessibility/web-accessibility-assistance
+Original source URL: https://accessibility.cornell.edu/information-technology/web-accessibility/web-accessibility-assistance/
 
 ## Local Vault File
 

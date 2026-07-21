@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-21T14:18:03.776795+05:30'
+collected_at: '2026-07-21T16:52:04.341262+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
 - benchmark
 - github-repo
-- models
 - python
 - rag
 stars: 174
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-21T14:18:03.776795+05:30'
-last_seen: '2026-07-21T14:18:03.776795+05:30'
-last_checked: '2026-07-21T14:18:03.776795+05:30'
+first_seen: '2026-07-21T16:52:04.341262+05:30'
+last_seen: '2026-07-21T16:52:04.341262+05:30'
+last_checked: '2026-07-21T16:52:04.341262+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal RAG Framework**: Introduces a unified retrieval-augmented generation (RAG) system capable of handling diverse modalities (text, images, tables, etc.) and granularities (document-level to fine-grained) via a single architecture.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling Retrieval-Augmented Generation (RAG) over diverse data modalities (text, images, tables) and granularities (documents, paragraphs, entities), leveraging unified embeddings and retrieval mechanisms.
 
-- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval mechanism using modality-specific encoders and a shared latent space, enabling efficient retrieval across heterogeneous corpora without modality-specific fine-tuning.
+- **ACL 2026 Oral Contribution**: Presents an advanced RAG system designed for heterogeneous corpora, optimizing cross-modal retrieval and generation with a novel architecture integrating modality-specific encoders and a shared retrieval index.
 
-- **ACL 2026 Oral Contribution**: Proposes a novel training pipeline combining contrastive learning for alignment and instruction-tuning for generalization, achieving state-of-the-art performance in multi-modal RAG benchmarks.
+- **Open-Source Implementation**: Provides a Python-based toolkit with modular components for customization, supporting end-to-end RAG pipelines, evaluation benchmarks, and integration with large language models (LLMs) for multimodal generation.
 
 ## Why It Matters
 

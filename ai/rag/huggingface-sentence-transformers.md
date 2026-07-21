@@ -4,24 +4,26 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/huggingface/sentence-transformers
-collected_at: '2026-07-10T13:24:29.394783+05:30'
-published_at: '2026-07-10T05:25:31Z'
+collected_at: '2026-07-21T16:56:13.788471+05:30'
+published_at: '2026-07-21T10:39:08Z'
 tags:
+- benchmark
 - github-repo
 - models
 - python
 - rag
-stars: 18899
+- workflows
+stars: 18928
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2019-07-24T10:53:51Z'
-pushed_at: '2026-07-09T13:39:16Z'
+pushed_at: '2026-07-21T08:20:44Z'
 resource_id: github:huggingface/sentence-transformers
-first_seen: '2026-07-10T13:24:29.394783+05:30'
-last_seen: '2026-07-10T13:24:29.394783+05:30'
-last_checked: '2026-07-10T13:24:29.394783+05:30'
+first_seen: '2026-07-21T16:56:13.788471+05:30'
+last_seen: '2026-07-21T16:56:13.788471+05:30'
+last_checked: '2026-07-21T16:56:13.788471+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework**: Python-based library for generating state-of-the-art sentence embeddings, supporting tasks like retrieval and reranking via transformer models.
-- **Key Features**: Optimized for semantic similarity, cross-encoder reranking, and scalable retrieval with pre-trained models (e.g., `all-MiniLM-L6-v2`).
-- **Integration**: Compatible with Hugging Face Transformers, enabling fine-tuning and deployment for downstream NLP applications.
+- **Framework for Sentence Embeddings**: Provides state-of-the-art models for generating dense vector representations of sentences/paragraphs using PyTorch, optimized for semantic similarity tasks.
+- **Modular Pipeline**: Supports retrieval (via FAISS/Annoy) and reranking (cross-encoder) workflows with pre-trained models (e.g., `all-MiniLM-L6-v2`, `multi-qa-mpnet-base-dot-v1`).
+- **API & Integration**: Offers Python API for inference, fine-tuning, and evaluation, with Hugging Face Hub compatibility for model sharing and deployment.
 
 ## Why It Matters
 
@@ -40,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: huggingface
-- Stars: 18899
-- Forks: 2826
+- Stars: 18928
+- Forks: 2833
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-10T05:25:31Z
+- Last Updated: 2026-07-21T10:39:08Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2019-07-24T10:53:51Z
-- Pushed At: 2026-07-09T13:39:16Z
+- Pushed At: 2026-07-21T08:20:44Z
 
 ## Possible Use Cases
 

@@ -1,13 +1,21 @@
 ---
-title: "eventide-project/agent-norms-testing"
-category: "Tooling"
-tech_stack: ["Shell", "Testing Framework", "Agent Systems"]
+title: eventide-project/agent-norms-testing
+category: daily-digests/2026-07-21
+tech_stack:
+- Shell
+- Testing Framework
+- Agent Systems
 quality_score: 7
 rag_relevance: 6
-tags: ["test automation", "agent norms", "controls-based testing", "test conventions", "testing framework"]
-source: "https://github.com/eventide-project/agent-norms-testing"
-discovered_at: "2026-07-18T15:55:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- test automation
+- agent norms
+- controls-based testing
+- test conventions
+- testing framework
+source: https://github.com/eventide-project/agent-norms-testing
+discovered_at: '2026-07-18T15:55:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

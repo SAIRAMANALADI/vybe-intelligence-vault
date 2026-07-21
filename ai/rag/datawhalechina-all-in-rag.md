@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-07-21T14:16:18.777403+05:30'
-published_at: '2026-07-21T08:39:27Z'
+collected_at: '2026-07-21T16:50:14.254516+05:30'
+published_at: '2026-07-21T11:00:05Z'
 tags:
 - github-repo
 - hackernews
@@ -13,16 +13,17 @@ tags:
 - models
 - python
 - rag
-stars: 9672
+- workflows
+stars: 9681
 language: Python
 status: active
 archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-07-20T19:00:56Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-07-21T14:16:18.777403+05:30'
-last_seen: '2026-07-21T14:16:18.777403+05:30'
-last_checked: '2026-07-21T14:16:18.777403+05:30'
+first_seen: '2026-07-21T16:50:14.254516+05:30'
+last_seen: '2026-07-21T16:50:14.254516+05:30'
+last_checked: '2026-07-21T16:50:14.254516+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Guide**: Provides a full-stack technical guide for developing large model applications with Retrieval-Augmented Generation (RAG), covering theoretical foundations to practical implementations.
+- **Comprehensive RAG Guide**: A full-stack technical resource for developing RAG (Retrieval-Augmented Generation) applications with large language models (LLMs), covering embedding, retrieval, and generation workflows.
 
-- **Toolchain Integration**: Demonstrates integration with multiple frameworks and tools, including LangChain, LlamaIndex, Milvus (vector DB), Neo4j (graph DB), and multimodal models like Kimi-K2 and DeepSeek.
+- **Multi-Tool Integration**: Supports frameworks like LangChain, LlamaIndex, and databases such as Milvus (vector) and Neo4j (graph), with multimodal capabilities and compatibility with models like DeepSeek and Kimi-K2.
 
-- **Python-Centric Implementation**: Focuses on Python-based RAG pipelines, with code examples and best practices for embedding models, retrieval strategies, and LLM fine-tuning.
+- **Python-Based Implementation**: Open-source repository (9.6k+ stars) providing code examples, tutorials, and deployment strategies for production-grade RAG systems, last updated July 2026.
 
 ## Why It Matters
 
@@ -43,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 9672
-- Forks: 4832
+- Stars: 9681
+- Forks: 4835
 - Language: Python
 - Topics: ai, deepseek, embedding, kimi-k2, langchain, llama-index, llm, milvus, multimodal, neo4j, python, rag
-- Last Updated: 2026-07-21T08:39:27Z
+- Last Updated: 2026-07-21T11:00:05Z
 - Archived: No
 - Created At: 2025-06-05T08:12:35Z
 - Pushed At: 2026-07-20T19:00:56Z

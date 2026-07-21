@@ -4,12 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-21T14:16:58.667500+05:30'
+collected_at: '2026-07-21T16:50:59.294780+05:30'
 published_at: '2026-07-14T09:11:11Z'
 tags:
-- dataset
 - github-repo
-- hackernews
 - jupyter notebook
 - models
 - rag
@@ -21,9 +19,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-21T14:16:58.667500+05:30'
-last_seen: '2026-07-21T14:16:58.667500+05:30'
-last_checked: '2026-07-21T14:16:58.667500+05:30'
+first_seen: '2026-07-21T16:50:59.294780+05:30'
+last_seen: '2026-07-21T16:50:59.294780+05:30'
+last_checked: '2026-07-21T16:50:59.294780+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source visualization tool for Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM outputs and retrieval mechanisms.
-- **Technical Stack**: Built with Python, Streamlit for UI, and Jupyter Notebook for analysis; integrates with RAG frameworks for dynamic data processing.
-- **Features**: Real-time visualization of retrieval quality, LLM response analysis, and pipeline debugging; supports custom dataset integration and modular component inspection.
+- **Interactive RAG Visualization Tool**: Open-source Python-based Jupyter Notebook application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processes.
+
+- **Streamlit Integration**: Leverages Streamlit for a user-friendly web interface, allowing dynamic visualization of RAG components (e.g., retrieval steps, context relevance, and model outputs) with real-time updates.
+
+- **Modular Design**: Supports customization for different RAG architectures (e.g., vector stores, embeddings, or hybrid retrieval) and includes tools for debugging, performance analysis, and prompt engineering.
 
 ## Why It Matters
 

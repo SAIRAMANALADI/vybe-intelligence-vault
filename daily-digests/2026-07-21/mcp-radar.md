@@ -1,13 +1,23 @@
 ---
-title: "numbpill3d/mcp-radar"
-category: "Tooling"
-tech_stack: ["GitHub Pages", "GitHub Actions", "Python", "HTML", "JSON"]
+title: numbpill3d/mcp-radar
+category: daily-digests/2026-07-21
+tech_stack:
+- GitHub Pages
+- GitHub Actions
+- Python
+- HTML
+- JSON
 quality_score: 7
 rag_relevance: 6
-tags: ["MCP servers", "directory", "auto-updating", "GitHub Actions", "JSON API"]
-source: "https://github.com/numbpill3d/mcp-radar"
-discovered_at: "2026-07-18T19:02:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP servers
+- directory
+- auto-updating
+- GitHub Actions
+- JSON API
+source: https://github.com/numbpill3d/mcp-radar
+discovered_at: '2026-07-18T19:02:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

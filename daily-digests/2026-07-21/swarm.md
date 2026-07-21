@@ -1,13 +1,28 @@
 ---
-title: "swarm-ai-research/swarm"
-category: "Orchestrator"
-tech_stack: ["Python", "PyTorch", "Jupyter Notebooks", "Pandas", "Matplotlib", "NumPy", "FastAPI", "SQLite", "Docker", "LLM APIs (Anthropic, OpenAI, Ollama, etc.)"]
+title: swarm-ai-research/swarm
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- PyTorch
+- Jupyter Notebooks
+- Pandas
+- Matplotlib
+- NumPy
+- FastAPI
+- SQLite
+- Docker
+- LLM APIs (Anthropic, OpenAI, Ollama, etc.)
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent systems", "AI safety", "emergent risks", "governance frameworks", "systemic evaluation"]
-source: "https://github.com/swarm-ai-research/swarm"
-discovered_at: "2026-07-18T19:02:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent systems
+- AI safety
+- emergent risks
+- governance frameworks
+- systemic evaluation
+source: https://github.com/swarm-ai-research/swarm
+discovered_at: '2026-07-18T19:02:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

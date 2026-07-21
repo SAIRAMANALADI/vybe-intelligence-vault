@@ -1,13 +1,22 @@
 ---
-title: "rolecraft-sh/rolecraft-action"
-category: "Tooling"
-tech_stack: ["GitHub Actions", "JavaScript", "Node.js", "YAML"]
+title: rolecraft-sh/rolecraft-action
+category: daily-digests/2026-07-21
+tech_stack:
+- GitHub Actions
+- JavaScript
+- Node.js
+- YAML
 quality_score: 8
 rag_relevance: 7
-tags: ["CI/CD", "GitHub Action", "AI Agent", "Skill Verification", "Automation"]
-source: "https://github.com/rolecraft-sh/rolecraft-action"
-discovered_at: "2026-07-21T07:32:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CI/CD
+- GitHub Action
+- AI Agent
+- Skill Verification
+- Automation
+source: https://github.com/rolecraft-sh/rolecraft-action
+discovered_at: '2026-07-21T07:32:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

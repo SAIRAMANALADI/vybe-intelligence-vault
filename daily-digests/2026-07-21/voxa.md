@@ -1,13 +1,26 @@
 ---
-title: "voxa-code/voxa"
-category: "Orchestrator"
-tech_stack: ["Python", "TypeScript", "Node.js", "tmux", "Tailscale", "Cloudflare Tunnel", "React", "FastAPI"]
+title: voxa-code/voxa
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- TypeScript
+- Node.js
+- tmux
+- Tailscale
+- Cloudflare Tunnel
+- React
+- FastAPI
 quality_score: 8
 rag_relevance: 6
-tags: ["AI agent orchestration", "cross-device interaction", "self-hosting", "phone call delivery", "multi-agent support"]
-source: "https://github.com/voxa-code/voxa"
-discovered_at: "2026-07-19T11:57:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent orchestration
+- cross-device interaction
+- self-hosting
+- phone call delivery
+- multi-agent support
+source: https://github.com/voxa-code/voxa
+discovered_at: '2026-07-19T11:57:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

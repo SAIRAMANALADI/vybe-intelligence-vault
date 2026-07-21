@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzhao062/pyod
-collected_at: '2026-07-20T03:44:43.345631+05:30'
-published_at: '2026-07-19T17:30:16Z'
+collected_at: '2026-07-21T16:53:14.406665+05:30'
+published_at: '2026-07-21T08:21:09Z'
 tags:
 - agents
 - benchmark
@@ -13,17 +13,17 @@ tags:
 - python
 - rag
 - workflows
-stars: 9920
+stars: 9921
 language: Python
 status: active
 license: BSD-2-Clause
 archived: false
 created_at: '2017-10-03T20:29:04Z'
-pushed_at: '2026-06-17T02:43:09Z'
+pushed_at: '2026-07-20T04:15:07Z'
 resource_id: github:yzhao062/pyod
-first_seen: '2026-07-20T03:44:43.345631+05:30'
-last_seen: '2026-07-20T03:44:43.345631+05:30'
-last_checked: '2026-07-20T03:44:43.345631+05:30'
+first_seen: '2026-07-21T16:53:14.406665+05:30'
+last_seen: '2026-07-21T16:53:14.406665+05:30'
+last_checked: '2026-07-21T16:53:14.406665+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal Anomaly Detection**: PyOD supports 60+ anomaly detection algorithms across tabular, time series, graph, text, image, and audio data, enabling unified detection in diverse data modalities.
+- **Comprehensive Anomaly Detection Library**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, with benchmark-backed ADEngine orchestration for unified evaluation and deployment.
 
-- **ADEngine & Agentic Workflow**: Features a benchmark-backed orchestration engine (ADEngine) and agentic workflows for AI agents, facilitating automated, adaptive anomaly detection pipelines.
+- **Agentic Workflow Integration**: Enables AI agents to autonomously execute anomaly detection tasks via an agentic workflow, leveraging foundation models for adaptive, multimodal analysis.
 
-- **Foundation for Fraud & OOD Detection**: Provides specialized tools for fraud detection, out-of-distribution (OOD) detection, and novelty detection, leveraging deep learning and unsupervised/ensemble methods.
+- **Multimodal & Scalable**: Implements outlier ensembles, novelty detection, and OOD (out-of-distribution) detection, with active development in deep learning and fraud detection applications.
 
 ## Why It Matters
 
@@ -44,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: yzhao062
-- Stars: 9920
-- Forks: 1482
+- Stars: 9921
+- Forks: 1481
 - Language: Python
 - Topics: agentic-ai, anomaly-detection, data-mining, data-science, deep-learning, foundation-models, fraud-detection, graph-anomaly-detection, image-anomaly-detection, machine-learning, multimodal, nlp-anomaly-detection, novelty-detection, out-of-distribution-detection, outlier-detection, outlier-ensembles, time-series, time-series-anomaly-detection, unsupervised-learning
-- Last Updated: 2026-07-19T17:30:16Z
+- Last Updated: 2026-07-21T08:21:09Z
 - License: BSD-2-Clause
 - Archived: No
 - Created At: 2017-10-03T20:29:04Z
-- Pushed At: 2026-06-17T02:43:09Z
+- Pushed At: 2026-07-20T04:15:07Z
 
 ## Possible Use Cases
 

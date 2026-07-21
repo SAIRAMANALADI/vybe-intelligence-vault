@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-07-21T14:19:23.829821+05:30'
+collected_at: '2026-07-21T16:53:24.404116+05:30'
 published_at: '2026-07-20T02:42:56Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - unknown
-- workflows
 stars: 2485
 language: Unknown
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-07-21T14:19:23.829821+05:30'
-last_seen: '2026-07-21T14:19:23.829821+05:30'
-last_checked: '2026-07-21T14:19:23.829821+05:30'
+first_seen: '2026-07-21T16:53:24.404116+05:30'
+last_seen: '2026-07-21T16:53:24.404116+05:30'
+last_checked: '2026-07-21T16:53:24.404116+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and agent coordination mechanisms for autonomous AI coding assistants, emphasizing multi-agent collaboration and task decomposition strategies.
+- **Agentic AI Coding Assistants**: Analyzes prompt patterns and coordination mechanisms in autonomous AI coding systems, focusing on multi-agent architectures for complex task decomposition and execution.
 
-- **Security Classification Framework**: Proposes a security classification system for agentic AI interactions, addressing vulnerabilities in prompt injection, data exfiltration, and unintended code execution within AI-driven development workflows.
+- **Security Classification Framework**: Proposes a structured methodology for classifying security risks in agentic AI systems, including prompt injection, data leakage, and adversarial manipulation vectors.
 
-- **System Prompts & CLAUDE Integration**: Investigates optimized system prompts for CLAUDE-based agents, including dynamic prompt adaptation, role-based agent specialization, and real-time context-aware prompt reconstruction for enhanced coding assistance.
+- **System Prompt Reconstruction**: Documents techniques for reverse-engineering and optimizing system prompts to enhance agent autonomy, reliability, and alignment with developer intent.
 
 ## Why It Matters
 

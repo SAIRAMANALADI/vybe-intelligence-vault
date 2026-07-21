@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel/ai
-collected_at: '2026-07-21T09:17:12.731604+05:30'
-published_at: '2026-07-21T03:44:23Z'
+collected_at: '2026-07-21T16:52:39.414167+05:30'
+published_at: '2026-07-21T11:16:28Z'
 tags:
 - agents
 - anthropic
@@ -13,17 +13,18 @@ tags:
 - github-repo
 - openai
 - typescript
-stars: 25686
+- workflows
+stars: 25695
 language: TypeScript
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2023-05-23T15:04:08Z'
-pushed_at: '2026-07-21T00:24:19Z'
+pushed_at: '2026-07-21T11:22:31Z'
 resource_id: github:vercel/ai
-first_seen: '2026-07-21T09:17:12.731604+05:30'
-last_seen: '2026-07-21T09:17:12.731604+05:30'
-last_checked: '2026-07-21T09:17:12.731604+05:30'
+first_seen: '2026-07-21T16:52:39.414167+05:30'
+last_seen: '2026-07-21T16:52:39.414167+05:30'
+last_checked: '2026-07-21T16:52:39.414167+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-*   TypeScript-first SDK for developing AI-powered applications and agents.
-*   Offers first-class integration with React, Next.js, Svelte, and Vue frameworks.
-*   Supports major LLM providers including OpenAI, Anthropic, and Gemini, facilitating Generative UI implementations.
+- **AI SDK**: Open-source TypeScript library by Vercel for building AI-powered apps and agents, supporting LLMs (OpenAI, Anthropic, Gemini), React, Next.js, Svelte, and Vue.
+- **Key Features**: Provides tools for generative UI, structured outputs, and agent workflows with TypeScript-first APIs.
+- **Integration**: Optimized for Vercel deployments, enabling real-time generative AI applications with minimal boilerplate.
 
 ## Why It Matters
 
@@ -42,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel
-- Stars: 25686
-- Forks: 4817
+- Stars: 25695
+- Forks: 4823
 - Language: TypeScript
 - Topics: anthropic, artificial-intelligence, gemini, generative-ai, generative-ui, javascript, language-model, llm, nextjs, openai, react, svelte, typescript, vercel, vue
-- Last Updated: 2026-07-21T03:44:23Z
+- Last Updated: 2026-07-21T11:16:28Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-05-23T15:04:08Z
-- Pushed At: 2026-07-21T00:24:19Z
+- Pushed At: 2026-07-21T11:22:31Z
 
 ## Possible Use Cases
 

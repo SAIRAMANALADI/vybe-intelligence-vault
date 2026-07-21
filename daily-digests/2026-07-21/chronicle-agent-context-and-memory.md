@@ -1,13 +1,22 @@
 ---
-title: "indigokarasu/chronicle-agent-context-and-memory"
-category: "Agent Framework"
-tech_stack: ["Python", "Event Sourcing", "Memory Systems", "Context Engine"]
+title: indigokarasu/chronicle-agent-context-and-memory
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Event Sourcing
+- Memory Systems
+- Context Engine
 quality_score: 7
 rag_relevance: 8
-tags: ["event-sourcing", "memory-management", "agent-context", "provenance-tracking", "Hermes-Agent"]
-source: "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
-discovered_at: "2026-07-21T04:14:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- event-sourcing
+- memory-management
+- agent-context
+- provenance-tracking
+- Hermes-Agent
+source: https://github.com/indigokarasu/chronicle-agent-context-and-memory
+discovered_at: '2026-07-21T04:14:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

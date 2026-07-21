@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-07-21T14:18:58.829700+05:30'
+collected_at: '2026-07-21T16:52:59.412372+05:30'
 published_at: '2026-07-21T01:14:17Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-07-21T14:18:58.829700+05:30'
-last_seen: '2026-07-21T14:18:58.829700+05:30'
-last_checked: '2026-07-21T14:18:58.829700+05:30'
+first_seen: '2026-07-21T16:52:59.412372+05:30'
+last_seen: '2026-07-21T16:52:59.412372+05:30'
+last_checked: '2026-07-21T16:52:59.412372+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding standards for AI agents, covering multiple programming languages and frameworks (e.g., Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, Spring Boot).
+- **Comprehensive Coding Standards Repository**: Curates best practices and standards for AI agents across multiple programming languages and frameworks (TypeScript, Kotlin, Go, Java/Spring Boot, Dart/Flutter, PHP/Laravel, JavaScript/React, Angular, NestJS, Next.js, etc.).
 
-- **Key Features**: Provides structured guidelines for AI agents to adhere to framework-specific and language-specific best practices, including cursor rules for IDEs and standardized coding conventions.
+- **Agent-Oriented Development Focus**: Provides structured guidelines (e.g., Cursor Rules) to optimize AI agent performance and adherence to language/framework-specific conventions.
 
-- **Scope & Maintenance**: Encompasses 19+ topics (e.g., agentic-ai, React Native, iOS) with active updates (last commit: 2026-07-21) and a growing community (531 stars, 153 forks).
+- **Multi-Platform Support**: Covers mobile (Android/iOS), web (React, Angular, Next.js), and backend (Laravel, NestJS, Spring Boot) ecosystems with versioned updates (last commit: 2026-07-21).
 
 ## Why It Matters
 

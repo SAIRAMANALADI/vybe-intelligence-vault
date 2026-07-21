@@ -4,24 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/snyk/agent-scan
-collected_at: '2026-07-21T01:30:35.126980+05:30'
-published_at: '2026-07-20T18:08:10Z'
+collected_at: '2026-07-21T16:53:29.463856+05:30'
+published_at: '2026-07-21T09:49:02Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
-stars: 2795
+stars: 2798
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2025-04-07T14:31:26Z'
-pushed_at: '2026-07-20T18:22:26Z'
+pushed_at: '2026-07-21T07:52:54Z'
 resource_id: github:snyk/agent-scan
-first_seen: '2026-07-21T01:30:35.126980+05:30'
-last_seen: '2026-07-21T01:30:35.126980+05:30'
-last_checked: '2026-07-21T01:30:35.126980+05:30'
+first_seen: '2026-07-21T16:53:29.463856+05:30'
+last_seen: '2026-07-21T16:53:29.463856+05:30'
+last_checked: '2026-07-21T16:53:29.463856+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Security scanner designed to identify vulnerabilities in AI agents, MCP servers, and agent skills.
-- **Key Features**: Scans for security risks in AI-driven systems using Model Context Protocol (MCP) and agent-based architectures.
-- **Technical Stack**: Implemented in Python, with active development and updates as of July 2026.
+- **Purpose**: Security scanner designed to audit AI agents, MCP servers, and agent skills for vulnerabilities.
+- **Key Features**: Supports Model Context Protocol (MCP) and integrates with Python-based agent ecosystems.
+- **Technical Stack**: Python-based, last updated July 21, 2026, with 2,798 stars and 250 forks.
 
 ## Why It Matters
 
@@ -40,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: snyk
-- Stars: 2795
+- Stars: 2798
 - Forks: 250
 - Language: Python
 - Topics: agent, ai, mcp, modelcontextprotocol, security
-- Last Updated: 2026-07-20T18:08:10Z
+- Last Updated: 2026-07-21T09:49:02Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-04-07T14:31:26Z
-- Pushed At: 2026-07-20T18:22:26Z
+- Pushed At: 2026-07-21T07:52:54Z
 
 ## Possible Use Cases
 

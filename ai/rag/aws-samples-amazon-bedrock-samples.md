@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aws-samples/amazon-bedrock-samples
-collected_at: '2026-07-21T14:17:08.800982+05:30'
+collected_at: '2026-07-21T16:51:09.369605+05:30'
 published_at: '2026-07-21T05:28:55Z'
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
 - models
 - rag
@@ -20,9 +21,9 @@ archived: false
 created_at: '2023-07-05T18:23:34Z'
 pushed_at: '2026-07-15T23:16:03Z'
 resource_id: github:aws-samples/amazon-bedrock-samples
-first_seen: '2026-07-21T14:17:08.800982+05:30'
-last_seen: '2026-07-21T14:17:08.800982+05:30'
-last_checked: '2026-07-21T14:17:08.800982+05:30'
+first_seen: '2026-07-21T16:51:09.369605+05:30'
+last_seen: '2026-07-21T16:51:09.369605+05:30'
+last_checked: '2026-07-21T16:51:09.369605+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Amazon Bedrock Examples**: Repository provides hands-on examples for all available Amazon Bedrock foundational models, enabling quick customer adoption and experimentation with generative AI capabilities.
-
-- **Multi-Model & Tool Integration**: Includes demonstrations for Amazon Titan models, embeddings, LangChain integration, and Retrieval-Augmented Generation (RAG) workflows, covering key generative AI use cases.
-
-- **Jupyter Notebook-Based Learning**: All examples are structured as executable Jupyter Notebooks, facilitating interactive exploration and practical implementation of Amazon Bedrock services.
+- **Repository Overview**: Provides starter examples for Amazon Bedrock, covering all available foundational models (e.g., Amazon Titan) with practical implementations in Jupyter Notebooks.
+- **Key Features**: Demonstrates core Bedrock capabilities including embeddings generation, Retrieval-Augmented Generation (RAG), and integration with LangChain for AI workflows.
+- **Technical Scope**: Includes examples for knowledge base management, model fine-tuning, and deployment patterns for generative AI applications using AWS services.
 
 ## Why It Matters
 

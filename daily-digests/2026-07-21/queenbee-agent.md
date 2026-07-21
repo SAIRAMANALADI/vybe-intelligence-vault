@@ -1,13 +1,26 @@
 ---
-title: "nezdali/queenbee-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Telegram Bot API", "OpenAI-compatible LLM APIs", "APScheduler", "FastAPI", "Azure Key Vault", "Regex", "Asyncio"]
+title: nezdali/queenbee-agent
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Telegram Bot API
+- OpenAI-compatible LLM APIs
+- APScheduler
+- FastAPI
+- Azure Key Vault
+- Regex
+- Asyncio
 quality_score: 9
 rag_relevance: 8
-tags: ["LLM agent", "dynamic tool generation", "Telegram bot", "runtime security", "RBAC"]
-source: "https://github.com/nezdali/queenbee-agent"
-discovered_at: "2026-07-20T12:22:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- LLM agent
+- dynamic tool generation
+- Telegram bot
+- runtime security
+- RBAC
+source: https://github.com/nezdali/queenbee-agent
+discovered_at: '2026-07-20T12:22:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

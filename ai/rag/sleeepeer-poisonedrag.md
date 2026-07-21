@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-07-21T14:17:43.711290+05:30'
+collected_at: '2026-07-21T16:51:44.363701+05:30'
 published_at: '2026-07-20T05:29:57Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-07-21T14:17:43.711290+05:30'
-last_seen: '2026-07-21T14:17:43.711290+05:30'
-last_checked: '2026-07-21T14:17:43.711290+05:30'
+first_seen: '2026-07-21T16:51:44.363701+05:30'
+last_seen: '2026-07-21T16:51:44.363701+05:30'
+last_checked: '2026-07-21T16:51:44.363701+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems, where adversaries manipulate retrieved documents to mislead LLM outputs without direct model access.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, causing LLMs to generate adversarial outputs while maintaining high retrieval relevance.
 
-- **Technical Mechanism**: Exploits embedding-space perturbations and document retrieval poisoning to ensure malicious context is prioritized, leading to controlled hallucinations or misinformation in generated responses.
+- **Technical Mechanism**: Leverages *trigger-based poisoning* where adversarial documents are crafted to include subtle perturbations (e.g., synonym substitution, syntactic obfuscation) that evade detection but alter downstream generation behavior, exploiting RAG’s reliance on retrieved context.
 
-- **Evaluation & Impact**: Validated on multiple RAG pipelines (e.g., vector DBs, LLMs) with empirical results showing high attack success rates (~90% in some cases) while remaining stealthy against existing defenses.
+- **Evaluation & Impact**: Demonstrates effectiveness on multiple RAG pipelines (e.g., dense retrieval + LLMs) with minimal poisoning rates (~1-5%), highlighting vulnerabilities in trustworthy AI systems and proposing mitigation strategies like adversarial training and retrieval filtering.
 
 ## Why It Matters
 

@@ -12,7 +12,6 @@ resource_kind: tutorial
 importance: medium
 tags:
 - hackernews
-- models
 - rag
 - web-crawled
 selection_reason:
@@ -33,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Model Overview**: Inkling is a large language model (LLM) developed by Thinking Machines, optimized for high-performance inference and fine-tuning tasks.
-
-- **Key Features**: Supports advanced natural language processing (NLP) capabilities, including context-aware text generation, summarization, and structured reasoning with minimal hallucination.
-
-- **Technical Specifications**: Designed for scalability, leveraging efficient transformer architectures and optimized for deployment on modern G
+- **Model Overview**: Inkling is a large language model (LLM) developed by Thinking Machines, optimized for high-performance reasoning and contextual understanding.
+- **Technical Specifications**: The model leverages advanced transformer architectures with fine-tuned attention mechanisms and a context window of up to 32K tokens.
+- **Applications**: Designed for enterprise-grade tasks including document analysis, code generation, and complex query resolution with improved accuracy and efficiency.
 
 ## Use Cases
 

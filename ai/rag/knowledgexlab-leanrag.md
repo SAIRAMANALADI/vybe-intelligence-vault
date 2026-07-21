@@ -4,23 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-07-21T14:18:03.778431+05:30'
-published_at: '2026-07-19T04:58:04Z'
+collected_at: '2026-07-21T16:52:04.363212+05:30'
+published_at: '2026-07-21T11:06:01Z'
 tags:
-- benchmark
 - github-repo
+- hackernews
 - python
 - rag
-stars: 253
+stars: 254
 language: Python
 status: active
 archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-07-21T14:18:03.778431+05:30'
-last_seen: '2026-07-21T14:18:03.778431+05:30'
-last_checked: '2026-07-21T14:18:03.778431+05:30'
+first_seen: '2026-07-21T16:52:04.363212+05:30'
+last_seen: '2026-07-21T16:52:04.363212+05:30'
+last_checked: '2026-07-21T16:52:04.363212+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework (LeanRAG) that leverages semantic aggregation and multi-level retrieval (hierarchical graph traversal) to enhance contextual relevance in generation tasks.
-
-- **Efficiency Optimizations**: Designed for low-latency, high-precision retrieval by pruning irrelevant subgraphs and dynamically weighting edges based on semantic similarity, reducing computational overhead in AAAI 2026 benchmark evaluations.
-
-- **Python Implementation**: Open-source framework (MIT License) with modular components for graph construction, retrieval, and generation, supporting integration with LLMs via optimized APIs and dependency-light dependencies (e.g., PyTorch, DGL).
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (node, subgraph, global) and semantic aggregation for improved context relevance.
+- **Efficiency Optimizations**: Uses lightweight graph traversal and pruning techniques to reduce computational overhead while maintaining retrieval accuracy.
+- **Python Implementation**: Provides modular components for knowledge graph integration, retrieval augmentation, and generation, with AAAI 2026 submission alignment.
 
 ## Why It Matters
 
@@ -41,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: KnowledgeXLab
-- Stars: 253
+- Stars: 254
 - Forks: 28
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-19T04:58:04Z
+- Last Updated: 2026-07-21T11:06:01Z
 - Archived: No
 - Created At: 2025-05-19T09:31:30Z
 - Pushed At: 2026-07-07T06:10:59Z

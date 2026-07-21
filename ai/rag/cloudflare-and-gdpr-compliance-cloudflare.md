@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.cloudflare.com/gdpr/
-published_at: '2026-06-25T23:02:08.507842+05:30'
-collected_at: '2026-06-25T23:02:08.507854+05:30'
+published_at: '2026-07-21T16:57:53.063195+05:30'
+collected_at: '2026-07-21T16:57:53.063205+05:30'
 tags:
 - hackernews
 - paper
@@ -15,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:gdpr-faqs-cloudflare
-first_seen: '2026-06-25T23:02:08.507854+05:30'
-last_seen: '2026-06-25T23:02:08.507854+05:30'
-last_checked: '2026-06-25T23:02:08.507854+05:30'
+first_seen: '2026-07-21T16:57:53.063205+05:30'
+last_seen: '2026-07-21T16:57:53.063205+05:30'
+last_checked: '2026-07-21T16:57:53.063205+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Processing & Compliance**: Cloudflare processes limited personal data (e.g., IP addresses) as metadata for Core Application Layer Services, stored in U.S./EU data centers; customers retain full responsibility for their data compliance under GDPR.
+- **Data Processing & Compliance**: Cloudflare processes limited personal data (primarily IP addresses) as metadata for Core Application Layer Services, with logs retained temporarily in U.S./EU data centers; customers retain full control over transmitted data, and Cloudflare does not store or monetize customer content.
 
-- **Security & Certifications**: Implements ISO 27001/27701/27018, SOC 2 Type II, PCI DSS Level 1, EU Cloud Code of Conduct, and C5 2020 standards; uses encryption (e.g., SSL, DNS-over-HTTPS/TLS) and supplementary measures for transfers under GDPR Art. 44.
+- **Security & Certifications**: Implements ISO 27001/27701/27018, SOC 2 Type II, PCI DSS Level 1, EU Cloud Code of Conduct, and Germany’s C5 2020; enforces encryption (e.g., DNS-over-HTTPS/TLS), secure configurations, and access controls per Annex 2 of their DPA.
 
-- **Legal Safeguards**: Certified under EU-U.S. Data Privacy Framework (DPF), Swiss-U.S. DPF, and UK Extension; commits to challenging conflicting U.S. legal requests (e.g., via EO 14086 redress mechanisms) and publishes transparency reports on government requests.
+- **GDPR Transfer Mechanisms**: Relies on EU Standard Contractual Clauses (SCCs) and certifications under EU-U.S./Swiss-U.S./UK-U.S. Data Privacy Frameworks; commits to EO14086 safeguards (proportionality, redress mechanisms) and challenges conflicting U.S. legal requests per GDPR obligations.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T23:02:08.507842+05:30
+- Published: 2026-07-21T16:57:53.063195+05:30
 
 ## Related Tags
 

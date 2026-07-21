@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-07-21T14:17:58.795777+05:30'
+collected_at: '2026-07-21T16:51:59.370561+05:30'
 published_at: '2026-07-11T01:00:06Z'
 tags:
-- benchmark
 - github-repo
 - jupyter notebook
 - meta-ai
@@ -23,9 +22,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-07-21T14:17:58.795777+05:30'
-last_seen: '2026-07-21T14:17:58.795777+05:30'
-last_checked: '2026-07-21T14:17:58.795777+05:30'
+first_seen: '2026-07-21T16:51:59.370561+05:30'
+last_seen: '2026-07-21T16:51:59.370561+05:30'
+last_checked: '2026-07-21T16:51:59.370561+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating components like vector databases, LLM inference, and fine-tuning pipelines.
-
-- **Multi-Model Support**: Provides examples leveraging Llama2, OpenAI, and Anyscale endpoints, with notebooks showcasing hybrid retrieval strategies (e.g., dense + sparse embeddings) and dynamic prompt engineering.
-
-- **Scalability & Optimization**: Focuses on Ray’s actor model for horizontal scaling, includes benchmarks for latency/throughput trade-offs, and outlines CI/CD practices for deploying LLM services with fine-tuned models.
+- **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with integration examples for Llama2, OpenAI, and Anyscale models.
+- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs and optimizing inference performance via Ray’s distributed compute framework.
+- **Deployment & Scalability**: Provides end-to-end guides for deploying RAG-based applications in production, leveraging Ray’s serving capabilities for scalable LLM inference.
 
 ## Why It Matters
 

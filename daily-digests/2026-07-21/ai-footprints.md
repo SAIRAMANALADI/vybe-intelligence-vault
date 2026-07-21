@@ -1,13 +1,23 @@
 ---
-title: "Piccolo123/ai-footprints"
-category: "Tooling"
-tech_stack: ["Python", "Web (H5/PC)", "AI/ML (\u5185\u5bb9\u7406\u89e3\u4e0e\u5206\u7c7b)", "API (Agent \u63a5\u5165)", "\u52a0\u5bc6\u5b58\u50a8"]
+title: Piccolo123/ai-footprints
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Web (H5/PC)
+- AI/ML (内容理解与分类)
+- API (Agent 接入)
+- 加密存储
 quality_score: 7
 rag_relevance: 6
-tags: ["\u77e5\u8bc6\u7ba1\u7406", "AI \u5206\u7c7b", "\u6536\u85cf\u5939", "\u8de8\u5e73\u53f0", "Agent API"]
-source: "https://github.com/Piccolo123/ai-footprints"
-discovered_at: "2026-07-20T06:16:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- 知识管理
+- AI 分类
+- 收藏夹
+- 跨平台
+- Agent API
+source: https://github.com/Piccolo123/ai-footprints
+discovered_at: '2026-07-20T06:16:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

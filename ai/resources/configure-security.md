@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/security/
-published_at: '2026-07-21T14:23:11.138883+05:30'
-collected_at: '2026-07-21T14:23:11.138898+05:30'
+published_at: '2026-07-21T16:57:20.111322+05:30'
+collected_at: '2026-07-21T16:57:20.111331+05:30'
 tags:
 - frontend_ui
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-security
-first_seen: '2026-07-21T14:23:11.138898+05:30'
-last_seen: '2026-07-21T14:23:11.138898+05:30'
-last_checked: '2026-07-21T14:23:11.138898+05:30'
+first_seen: '2026-07-21T16:57:20.111331+05:30'
+last_seen: '2026-07-21T16:57:20.111331+05:30'
+last_checked: '2026-07-21T16:57:20.111331+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Default Security Policy**: Hugo enforces a restrictive default security policy via allowlists, blocking `os/exec`, remote communication, and other high-risk operations unless explicitly permitted; builds fail with detailed errors if unallowed features are accessed.
+- **Default Deny Policy**: Hugo enforces a restrictive default security policy via allowlists, blocking `os/exec`, remote communication, and other sensitive operations unless explicitly permitted (e.g., `^(dart-)?sass(-embedded)?$`, `^go$`, `^git$`).
 
-- **Configuration Structure**: Security settings are defined under `security` in `hugo.yaml`/`config.toml`/`config.json`, including `allowContent` (media type restrictions), `exec.allow` (permitted binaries), `http` (URL/method restrictions), and `node.permissions` (Node.js tool sandboxing).
+- **Granular Permissions**: Security settings include regex-based allowlists for executable commands (`exec.allow`), environment variables (`exec.osEnv`, `funcs.getenv`), HTTP methods/URLs (`http.methods`, `http.urls`), and Node.js tool permissions (`node.permissions.*`).
 
-- **Negation & Overrides**: Allowlists support negation (`!`) for deny rules (precedence over allows), and environment variables (e.g., `HUGO_SECURITY_HTTP_URLS=none`) can override configurations dynamically.
+- **Negation & Overrides**: Deny rules (prefixed with `!`) take precedence; empty allowlists reject all access. Environment variables (e.g., `HUGO_SECURITY_HTTP_URLS=none`) can override configurations dynamically.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-21T14:23:11.138883+05:30
+- Published: 2026-07-21T16:57:20.111322+05:30
 
 ## Related Tags
 

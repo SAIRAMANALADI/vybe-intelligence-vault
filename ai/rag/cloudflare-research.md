@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://research.cloudflare.com/
-published_at: '2026-07-07T15:39:19.019381+05:30'
-collected_at: '2026-07-07T15:39:19.019394+05:30'
+published_at: '2026-07-21T16:56:19.324450+05:30'
+collected_at: '2026-07-21T16:56:19.324461+05:30'
 tags:
 - hackernews
 - models
@@ -15,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:cloudflare-research
-first_seen: '2026-07-07T15:39:19.019394+05:30'
-last_seen: '2026-07-07T15:39:19.019394+05:30'
-last_checked: '2026-07-07T15:39:19.019394+05:30'
+first_seen: '2026-07-21T16:56:19.324461+05:30'
+last_seen: '2026-07-21T16:56:19.324461+05:30'
+last_checked: '2026-07-21T16:56:19.324461+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Unweight Compression**: Lossless MLP weight tensor compression system achieving 1.44x compression on BF16 weights with GPU-native decompression for NVIDIA Hopper GPUs (H100/H200) during LLM inference.
+- **Unweight**: Lossless compression system for LLM weight tensors achieving 1.44x compression on BF16 MLP weights with GPU-native decompression for inference on NVIDIA Hopper GPUs (H100, H200).
 
-- **Research Focus Areas**: Cloudflare Research targets five core domains: privacy-enhancing technologies, cryptographic/security advancements, next-gen network protocols, distributed system resilience, and open internet measurement/verification.
+- **RFC 9935**: Standardizes algorithm identifiers for Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM) in X.509 Public Key Infrastructure.
 
-- **RFC 9935 Standardization**: Contributed to IETF RFC 9935, defining algorithm identifiers for Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM) in X.509 Public Key Infrastructure.
+- **Research Focus Areas**: Cloudflare's research spans privacy-enhancing technologies, cryptographic/security methods, next-gen network protocols, distributed systems resilience, and internet measurement/transparency.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-07T15:39:19.019381+05:30
+- Published: 2026-07-21T16:56:19.324450+05:30
 
 ## Related Tags
 

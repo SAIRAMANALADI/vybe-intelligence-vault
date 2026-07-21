@@ -12,10 +12,10 @@ AI coding agents represent the next leap in software engineering, moving from co
 - [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
 - [AI Coding Agents in Social Science: Methodologically Diverse, Empirically Consistent, Interpretively Vulnerable](https://arxiv.org/abs/2606.11456) (prompt - ESSENTIAL Tier)
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) (mcp-server - ESSENTIAL Tier)
-- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (framework - ESSENTIAL Tier)
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (api - ESSENTIAL Tier)
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (product - ESSENTIAL Tier)
 - [Agentic IDEs and CLIs - Pinecone Docs](https://docs.pinecone.io/guides/get-started/ai-coding-tools) (mcp-server - ESSENTIAL Tier)
+- [RuBench: A Repository-Level Agentic Coding Benchmark with Natively Authored Russian Task Specifications](https://arxiv.org/abs/2607.06411) (benchmark - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -25,8 +25,8 @@ https://github.com/features/claude-code (Claude Code)
 https://github.com/All-Hands-AI/OpenHands (OpenHands)
 - [OpenAI · GitHub](https://github.com/openai)
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)
-- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
+- [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/All-Hands-AI/OpenHands (OpenHands)
 
 ---
 
-*Last updated: 2026-07-21 14:32 IST*
+*Last updated: 2026-07-21 17:07 IST*

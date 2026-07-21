@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-07-21T14:20:28.950638+05:30'
+collected_at: '2026-07-21T16:54:29.656388+05:30'
 published_at: '2026-07-08T10:21:23Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-07-21T14:20:28.950638+05:30'
-last_seen: '2026-07-21T14:20:28.950638+05:30'
-last_checked: '2026-07-21T14:20:28.950638+05:30'
+first_seen: '2026-07-21T16:54:29.656388+05:30'
+last_seen: '2026-07-21T16:54:29.656388+05:30'
+last_checked: '2026-07-21T16:54:29.656388+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Architecture**: Implements a collaborative framework using AI agents (e.g., CrewAI, AutoGen) to parallelize document processing, analysis, and insight generation via Retrieval-Augmented Generation (RAG) pipelines.
-
-- **Integration Stack**: Supports vector databases (ChromaDB, Pinecone, Weaviate) for embeddings, LLM APIs (OpenAI GPT-3.5/4/5, Anthropic), and orchestration tools (LangChain) for dynamic agent workflows.
-
-- **Deployment & Extensibility**: Includes Discord bot integration for real-time interaction, modular agent roles (e.g., retrieval, summarization, Q&A), and templates for scaling multi-agent systems.
+- **Multi-Agent RAG Architecture**: Implements a collaborative framework using CrewAI, AutoGen, and LangChain to orchestrate multiple AI agents (e.g., retrieval, analysis, synthesis) for document processing and insight generation.
+- **Integration Stack**: Supports vector databases (ChromaDB, Weaviate, Pinecone) and LLM APIs (OpenAI GPT-3.5/4/5, Anthropic) for retrieval-augmented generation (RAG) with Discord bot integration for real-time interaction.
+- **Template Features**: Modular Python-based template (last updated July 2026) enabling customizable agent roles, workflows, and tooling for scalable multi-agent document analysis pipelines.
 
 ## Why It Matters
 

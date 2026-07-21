@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-07-21T14:16:38.756151+05:30'
+collected_at: '2026-07-21T16:50:39.275732+05:30'
 published_at: '2026-07-20T15:07:29Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-07-21T14:16:38.756151+05:30'
-last_seen: '2026-07-21T14:16:38.756151+05:30'
-last_checked: '2026-07-21T14:16:38.756151+05:30'
+first_seen: '2026-07-21T16:50:39.275732+05:30'
+last_seen: '2026-07-21T16:50:39.275732+05:30'
+last_checked: '2026-07-21T16:50:39.275732+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based tutorials for integrating vector search (LanceDB) with LLMs (e.g., GPT-4-Vision, LangChain, LlamaIndex) to build Retrieval-Augmented Generation (RAG) pipelines and multimodal AI systems.
+- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook examples for multimodal AI tasks, Retrieval-Augmented Generation (RAG), and agent-based workflows using vector search and LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain).
 
-- **End-to-End Agent Frameworks**: Demonstrates agent-based workflows leveraging vector embeddings for dynamic task execution, fine-tuning, and multimodal data processing (text, vision).
+- **Vector Database Integration**: Demonstrates practical use of LanceDB (vector database) for efficient storage, retrieval, and fine-tuning of embeddings in AI pipelines.
 
-- **Open-Source Tooling Integration**: Focuses on practical implementations using open-source tools (e.g., OpenAI APIs, LanceDB for vector storage) with examples covering embeddings, fine-tuning, and deployment strategies for AI agents.
+- **Tooling & Libraries**: Includes recipes for OpenAI APIs, deep learning frameworks, and agent orchestration tools (e.g., LangChain, LlamaIndex) to build scalable AI systems.
 
 ## Why It Matters
 

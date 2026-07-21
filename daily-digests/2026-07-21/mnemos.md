@@ -1,13 +1,25 @@
 ---
-title: "arhuman/mnemos"
-category: "Orchestrator"
-tech_stack: ["Go", "SQLite", "FTS5 (Full-Text Search)", "MCP (Model Context Protocol)", "BM25 (Search algorithm)", "CGO-free", "Markdown"]
+title: arhuman/mnemos
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- SQLite
+- FTS5 (Full-Text Search)
+- MCP (Model Context Protocol)
+- BM25 (Search algorithm)
+- CGO-free
+- Markdown
 quality_score: 9
 rag_relevance: 10
-tags: ["local memory", "source citations", "MCP server", "project documentation", "agent memory"]
-source: "https://github.com/arhuman/mnemos"
-discovered_at: "2026-07-21T07:32:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local memory
+- source citations
+- MCP server
+- project documentation
+- agent memory
+source: https://github.com/arhuman/mnemos
+discovered_at: '2026-07-21T07:32:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

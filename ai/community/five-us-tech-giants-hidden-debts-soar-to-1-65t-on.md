@@ -13,13 +13,14 @@ collected_at: '2026-07-21T14:14:12.113637+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:five-us-tech-giants-hidden-debts-soar-to-1-65t-on
 first_seen: '2026-07-21T14:14:12.113637+05:30'
 last_seen: '2026-07-21T14:14:12.113637+05:30'
 last_checked: '2026-07-21T14:14:12.113637+05:30'
 health_score: 100
 ---
+
 
 # Five US tech giants' hidden debts soar to $1.65T on opaque AI funding
 

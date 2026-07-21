@@ -1,13 +1,24 @@
 ---
-title: "gulmezeren2-byte/ihalent"
-category: "Tooling"
-tech_stack: ["Python", "JSONL", "CLI", "MCP (Model Context Protocol)", "Docker", "GitHub Actions"]
+title: gulmezeren2-byte/ihalent
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- JSONL
+- CLI
+- MCP (Model Context Protocol)
+- Docker
+- GitHub Actions
 quality_score: 8
 rag_relevance: 7
-tags: ["procurement intelligence", "Turkish tenders", "EKAP data", "discount analysis", "firm history"]
-source: "https://github.com/gulmezeren2-byte/ihalent"
-discovered_at: "2026-07-17T16:14:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- procurement intelligence
+- Turkish tenders
+- EKAP data
+- discount analysis
+- firm history
+source: https://github.com/gulmezeren2-byte/ihalent
+discovered_at: '2026-07-17T16:14:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

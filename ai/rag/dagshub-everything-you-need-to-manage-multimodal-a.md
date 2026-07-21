@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://dagshub.com/
-published_at: '2026-07-21T14:21:25.268075+05:30'
-collected_at: '2026-07-21T14:21:25.268093+05:30'
+published_at: '2026-07-21T16:55:29.021935+05:30'
+collected_at: '2026-07-21T16:55:29.021946+05:30'
 tags:
 - dataset
 - rag
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:dagshub-everything-you-need-to-manage-multimodal-a
-first_seen: '2026-07-21T14:21:25.268093+05:30'
-last_seen: '2026-07-21T14:21:25.268093+05:30'
-last_checked: '2026-07-21T14:21:25.268093+05:30'
+first_seen: '2026-07-21T16:55:29.021946+05:30'
+last_seen: '2026-07-21T16:55:29.021946+05:30'
+last_checked: '2026-07-21T16:55:29.021946+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,14 @@ health_score: 100
 
 ## Summary
 
-- **Unified AI Data & Model Management**: Platform supports curation/annotation of multimodal datasets (vision, audio, LLM), experiment tracking (MLflow-compatible), and model registry with versioning, lineage, and CI/CD/CT integration.
+- **Unified AI Data & Model Management**: Platform supports multimodal dataset curation/annotation, experiment tracking (MLflow-compatible), and model versioning/deployment with lineage tracking across vision, audio, and LLM data.
 
-- **Tiered Pricing & Scalability**: Free tier offers 20GB storage, public repos, and limited private tracking; Team tier ($99/user/month) adds private repos, multimodal auto-labeling, RBAC, and 1TB storage; Enterprise supports petabyte-scale data, VPC/air-gapped deployments, and SSO/LDAP/OIDC.
+- **Tiered Pricing & Scalability**:
+  - **Individual**: Free tier with public repos, 20GB storage, and limited private experiment tracking.
+  - **Team**: $99/user/month with private repos, multimodal auto-labeling, 1TB storage, and RBAC.
+  - **Enterprise**: Custom pricing for petabyte-scale data, on-premise/VPC deployments, SSO/LDAP, and OpenShift compatibility.
 
-- **Enterprise-Grade Features**: On-premise/air-gapped installations, OpenShift compatibility, organizational resource control, and enterprise SLAs with priority support for high-scale AI workloads.
+- **Enterprise-Grade Features**: Includes CI/CD/CT integration, interactive pipelines, petabyte-scale storage, model deployment to clusters, and organizational resource control with enterprise SLAs.
 
 ## Why It Matters
 
@@ -39,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T14:21:25.268075+05:30
+- Published: 2026-07-21T16:55:29.021935+05:30
 
 ## Related Tags
 

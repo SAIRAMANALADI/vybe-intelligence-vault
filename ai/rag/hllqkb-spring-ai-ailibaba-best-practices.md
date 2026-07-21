@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-07-21T14:17:18.760962+05:30'
+collected_at: '2026-07-21T16:51:19.314259+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - java
 - rag
 - workflows
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-07-21T14:17:18.760962+05:30'
-last_seen: '2026-07-21T14:17:18.760962+05:30'
-last_checked: '2026-07-21T14:17:18.760962+05:30'
+first_seen: '2026-07-21T16:51:19.314259+05:30'
+last_seen: '2026-07-21T16:51:19.314259+05:30'
+last_checked: '2026-07-21T16:51:19.314259+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements a Spring-based AI Q&A system with **Server-Sent Events (SSE)**, **Agent-based workflows**, **Knowledge Graph RAG**, **Function Calling**, **message history**, **image generation/understanding**, and **Embedding/Vector Database** integration for retrieval-augmented generation.
+- **Implements SSE streaming, Agent-based workflows, and RAG with knowledge graph integration** for AI Q&A systems in Java, leveraging Spring AI and Alibaba Cloud services.
 
-- **Technologies**: Leverages **Java/Spring AI**, **Alibaba Cloud AI services**, and **vector databases** (e.g., Milvus/Weaviate) for semantic search, with **RAG pipelines** for dynamic knowledge retrieval and response generation.
+- **Supports multimodal capabilities** including image generation (via FunctionCall), image understanding, and embedding-based vector search using vector databases.
 
-- **Features**: Supports **multi-modal processing** (text/images), **persistent conversation context**, and **custom function calls**, optimized for real-time AI agent interactions and structured knowledge extraction.
+- **Features historical message management, embedding models, and RAG pipelines** with modular components for extensibility in enterprise-grade AI applications.
 
 ## Why It Matters
 

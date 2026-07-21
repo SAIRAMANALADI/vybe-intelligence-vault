@@ -1,13 +1,23 @@
 ---
-title: "ShipToday/forge-plugin-claude"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "MCP Server", "Claude Code Plugin", "Workflow Automation", "Session State Management"]
+title: ShipToday/forge-plugin-claude
+category: daily-digests/2026-07-21
+tech_stack:
+- JavaScript
+- MCP Server
+- Claude Code Plugin
+- Workflow Automation
+- Session State Management
 quality_score: 8
 rag_relevance: 7
-tags: ["PDLC automation", "Claude Code integration", "workflow orchestration", "AI-driven development", "session state management"]
-source: "https://github.com/ShipToday/forge-plugin-claude"
-discovered_at: "2026-07-18T08:09:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- PDLC automation
+- Claude Code integration
+- workflow orchestration
+- AI-driven development
+- session state management
+source: https://github.com/ShipToday/forge-plugin-claude
+discovered_at: '2026-07-18T08:09:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

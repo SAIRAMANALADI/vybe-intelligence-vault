@@ -4,26 +4,28 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NousResearch/hermes-agent
-collected_at: '2026-07-21T09:18:12.800267+05:30'
-published_at: '2026-07-21T03:46:31Z'
+collected_at: '2026-07-21T16:53:39.477007+05:30'
+published_at: '2026-07-21T11:21:46Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- mistral
+- models
 - openai
 - python
 - workflows
-stars: 217881
+stars: 218115
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-07-22T22:22:28Z'
-pushed_at: '2026-07-21T03:44:24Z'
+pushed_at: '2026-07-21T10:34:28Z'
 resource_id: github:nousresearch/hermes-agent
-first_seen: '2026-07-21T09:18:12.800267+05:30'
-last_seen: '2026-07-21T09:18:12.800267+05:30'
-last_checked: '2026-07-21T09:18:12.800267+05:30'
+first_seen: '2026-07-21T16:53:39.477007+05:30'
+last_seen: '2026-07-21T16:53:39.477007+05:30'
+last_checked: '2026-07-21T16:53:39.477007+05:30'
 health_score: 100
 ---
 
@@ -31,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Agent Framework**: Open-source Python-based system (`NousResearch/hermes-agent`) designed for extensibility, supporting multiple LLM providers (Anthropic, OpenAI, etc.) and agentic workflows (e.g., `claude-code`, `codex` integration).
+- **Modular AI Agent Framework**: Open-source Python-based system designed for extensibility, supporting integration with multiple LLMs (OpenAI, Anthropic, Mistral) and tools (Claude Code, Codex, Moltbot) via a plugin architecture.
 
-- **Dynamic Tool Integration**: Implements a plugin architecture for real-time tool/skill expansion, enabling adaptive behavior via community-driven repositories (e.g., `clawdbot`, `moltbot`).
+- **Dynamic Agent Growth**: Implements self-improving mechanisms (e.g., memory, tool-use optimization) to adapt capabilities over time through iterative feedback loops and user interactions.
 
-- **Scalable Multi-Agent Orchestration**: Enables hierarchical agent collaboration with state management, memory persistence, and tool-use optimization for complex task decomposition.
+- **Multi-Model & Multi-Tool Compatibility**: Facilitates seamless switching between providers (e.g., OpenAI, Anthropic) and tools (e.g., `claude-code`, `codex`) with standardized interfaces for rapid deployment in agentic workflows.
 
 ## Why It Matters
 
@@ -44,15 +46,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NousResearch
-- Stars: 217881
-- Forks: 41125
+- Stars: 218115
+- Forks: 41202
 - Language: Python
 - Topics: ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw
-- Last Updated: 2026-07-21T03:46:31Z
+- Last Updated: 2026-07-21T11:21:46Z
 - License: MIT
 - Archived: No
 - Created At: 2025-07-22T22:22:28Z
-- Pushed At: 2026-07-21T03:44:24Z
+- Pushed At: 2026-07-21T10:34:28Z
 
 ## Possible Use Cases
 

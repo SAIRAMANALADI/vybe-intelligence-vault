@@ -1,13 +1,26 @@
 ---
-title: "nkhippo/Vault-Framework"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Cloudflare Workers", "GitHub API", "Claude Skills", "MCP (Model Context Protocol)", "Node.js", "Markdown", "Obsidian"]
+title: nkhippo/Vault-Framework
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Cloudflare Workers
+- GitHub API
+- Claude Skills
+- MCP (Model Context Protocol)
+- Node.js
+- Markdown
+- Obsidian
 quality_score: 9
 rag_relevance: 9
-tags: ["knowledge management", "Claude integration", "GitHub automation", "conversation persistence", "AI orchestration"]
-source: "https://github.com/nkhippo/Vault-Framework"
-discovered_at: "2026-07-18T09:24:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- knowledge management
+- Claude integration
+- GitHub automation
+- conversation persistence
+- AI orchestration
+source: https://github.com/nkhippo/Vault-Framework
+discovered_at: '2026-07-18T09:24:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

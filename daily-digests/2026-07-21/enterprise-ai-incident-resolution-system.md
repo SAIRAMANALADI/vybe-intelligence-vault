@@ -1,13 +1,27 @@
 ---
-title: "dasu07988/Enterprise-AI-Incident-Resolution-System"
-category: "Orchestrator"
-tech_stack: ["Google Gemini", "Pinecone", "n8n", "Docker", "AWS EC2", "JavaScript", "Python", "REST API", "Trello"]
+title: dasu07988/Enterprise-AI-Incident-Resolution-System
+category: daily-digests/2026-07-21
+tech_stack:
+- Google Gemini
+- Pinecone
+- n8n
+- Docker
+- AWS EC2
+- JavaScript
+- Python
+- REST API
+- Trello
 quality_score: 9
 rag_relevance: 9
-tags: ["multi-agent AI", "incident management", "RAG", "workflow automation", "enterprise IT"]
-source: "https://github.com/dasu07988/Enterprise-AI-Incident-Resolution-System"
-discovered_at: "2026-07-17T18:05:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent AI
+- incident management
+- RAG
+- workflow automation
+- enterprise IT
+source: https://github.com/dasu07988/Enterprise-AI-Incident-Resolution-System
+discovered_at: '2026-07-17T18:05:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

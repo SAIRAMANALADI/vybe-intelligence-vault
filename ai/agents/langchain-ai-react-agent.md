@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/react-agent
-collected_at: '2026-07-21T03:48:07.692663+05:30'
+collected_at: '2026-07-21T16:53:59.516648+05:30'
 published_at: '2026-07-16T19:57:17Z'
 tags:
 - agents
@@ -18,11 +18,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2024-08-21T19:57:32Z'
-pushed_at: '2026-06-26T08:21:52Z'
+pushed_at: '2026-07-21T11:00:44Z'
 resource_id: github:langchain-ai/react-agent
-first_seen: '2026-07-21T03:48:07.692663+05:30'
-last_seen: '2026-07-21T03:48:07.692663+05:30'
-last_checked: '2026-07-21T03:48:07.692663+05:30'
+first_seen: '2026-07-21T16:53:59.516648+05:30'
+last_seen: '2026-07-21T16:53:59.516648+05:30'
+last_checked: '2026-07-21T16:53:59.516648+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a LangGraph-based implementation of a ReAct (Reasoning and Acting) agent in Python, enabling iterative reasoning and action execution workflows.
+- **Template Purpose**: Provides a LangGraph-based implementation of a ReAct (Reasoning and Acting) agent in Python, facilitating iterative decision-making and tool interaction.
 
-- **Core Components**: Utilizes LangGraph for stateful, multi-actor workflows, with a focus on modularity and extensibility for agent-based systems.
+- **Key Components**: Utilizes LangGraph for state management and workflow orchestration, with modular components for reasoning, tool invocation, and environment interaction.
 
-- **Update Status**: Last modified on **2026-07-16**, with 798 stars and 696 forks, indicating active community engagement.
+- **Repository Status**: Actively maintained (last updated July 2026), with 798 stars and 696 forks, indicating strong community adoption and engagement.
 
 ## Why It Matters
 
@@ -51,7 +51,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2024-08-21T19:57:32Z
-- Pushed At: 2026-06-26T08:21:52Z
+- Pushed At: 2026-07-21T11:00:44Z
 
 ## Possible Use Cases
 

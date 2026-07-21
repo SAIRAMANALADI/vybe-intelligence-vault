@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act
-published_at: '2026-07-21T01:33:30.827232+05:30'
-collected_at: '2026-07-21T01:33:30.827255+05:30'
+published_at: '2026-07-21T16:57:10.057830+05:30'
+collected_at: '2026-07-21T16:57:10.057844+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:digital-millennium-copyright-act-wikipedia
-first_seen: '2026-07-21T01:33:30.827255+05:30'
-last_seen: '2026-07-21T01:33:30.827255+05:30'
-last_checked: '2026-07-21T01:33:30.827255+05:30'
+first_seen: '2026-07-21T16:57:10.057844+05:30'
+last_seen: '2026-07-21T16:57:10.057844+05:30'
+last_checked: '2026-07-21T16:57:10.057844+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Anti-Circumvention Provisions (17 U.S.C. § 1201)**: Criminalizes the production, distribution, or use of tools/services designed to bypass DRM or access controls on copyrighted works, regardless of actual infringement.
+- **Legal Framework**: Enacted in 1998 (Pub. L. 105-304), the DMCA amends Title 17 of the U.S. Code to implement WIPO treaties, criminalizing circumvention of DRM and access controls, regardless of infringement status.
 
-- **Safe Harbor Provisions (17 U.S.C. § 512)**: Limits liability of online service providers (OSPs) for user-generated copyright infringement if they comply with notice-and-takedown procedures and meet other statutory requirements.
+- **Liability Shield**: Introduces safe harbor provisions (17 U.S.C. § 512) limiting liability for online service providers (OSPs) for user-generated infringing content, conditional on compliance with takedown procedures.
 
-- **Copyright Infringement Penalties**: Increases statutory damages and criminal penalties for willful copyright infringement, particularly on digital networks, while amending Title 17 to extend copyright reach.
+- **Penalties & Enforcement**: Heightens penalties for copyright infringement online, mandates notice-and-takedown mechanisms, and establishes legal remedies for anti-circumvention violations.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T01:33:30.827232+05:30
+- Published: 2026-07-21T16:57:10.057830+05:30
 
 ## Related Tags
 

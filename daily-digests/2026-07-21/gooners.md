@@ -1,13 +1,27 @@
 ---
-title: "go-faster/gooners"
-category: "Agent Framework"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "Docker", "Grafana Foundation SDK", "PromQL", "SSH/SFTP", "Alertmanager", "OAuth", "TLS"]
+title: go-faster/gooners
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- Docker
+- Grafana Foundation SDK
+- PromQL
+- SSH/SFTP
+- Alertmanager
+- OAuth
+- TLS
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP servers", "AI agent tools", "monitoring", "automation", "Go"]
-source: "https://github.com/go-faster/gooners"
-discovered_at: "2026-07-14T10:08:04Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP servers
+- AI agent tools
+- monitoring
+- automation
+- Go
+source: https://github.com/go-faster/gooners
+discovered_at: '2026-07-14T10:08:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

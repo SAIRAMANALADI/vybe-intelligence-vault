@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-07-21T14:18:53.776309+05:30'
+collected_at: '2026-07-21T16:52:54.379299+05:30'
 published_at: '2026-07-21T01:34:00Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-07-21T14:18:53.776309+05:30'
-last_seen: '2026-07-21T14:18:53.776309+05:30'
-last_checked: '2026-07-21T14:18:53.776309+05:30'
+first_seen: '2026-07-21T16:52:54.379299+05:30'
+last_seen: '2026-07-21T16:52:54.379299+05:30'
+last_checked: '2026-07-21T16:52:54.379299+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and automated workflows for AI-driven development.
+- **Agentic Workflow Integration**: Demonstrates transition from "vibe coding" to structured agentic engineering using Codex CLI, emphasizing modular hooks, context engineering, and CLI-driven automation for scalable AI workflows.
 
-- **Codex CLI Skills & Commands**: Provides curated best practices for Codex CLI, including custom commands, agentic skills, and CLI-based automation for OpenAI Codex, optimizing AI-assisted coding pipelines.
+- **CLI-Centric Skills & Commands**: Provides a curated set of Codex CLI commands, skills, and best practices for efficient agentic coding, including context management, multi-agent orchestration, and hook-based extensibility.
 
-- **Context & Hooks Architecture**: Implements a *context-engineering* framework with reusable hooks for dynamic task execution, enabling scalable agentic workflows in Python-based AI agent systems.
+- **Open-Source Contribution Framework**: Repository serves as a Pakistan-based open-source template for AI agent development, offering reusable patterns for OpenAI Codex integration, skill development, and CLI-based agentic engineering workflows.
 
 ## Why It Matters
 

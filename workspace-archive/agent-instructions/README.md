@@ -9,7 +9,7 @@ Structured repository instruction files (CLAUDE.md, Cursor rules) are critical f
 ## Top Matched Resources
 
 - [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices) (template - USEFUL Tier)
-- [GitHub Copilot CLI · GitHub](https://github.com/features/copilot/cli) (tutorial - USEFUL Tier)
+- [GitHub Copilot CLI · GitHub](https://github.com/features/copilot/cli) (mcp-server - USEFUL Tier)
 - [HoangNguyen0403/agent-skills-standard](https://github.com/HoangNguyen0403/agent-skills-standard) (framework - USEFUL Tier)
 - [Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?](https://arxiv.org/abs/2602.11988) (framework - USEFUL Tier)
 - [Introduction | WordPress Playground](https://wordpress.github.io/wordpress-playground) (tutorial - USEFUL Tier)
@@ -41,4 +41,4 @@ https://github.com/awesome-cursor-rules (Awesome Cursor Rules)
 
 ---
 
-*Last updated: 2026-07-21 14:32 IST*
+*Last updated: 2026-07-21 17:07 IST*

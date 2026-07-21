@@ -4,24 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/modelscope/evalscope
-collected_at: '2026-07-21T14:17:38.724706+05:30'
-published_at: '2026-07-21T08:27:35Z'
+collected_at: '2026-07-21T16:51:39.331494+05:30'
+published_at: '2026-07-21T10:43:57Z'
 tags:
 - benchmark
 - github-repo
 - python
 - rag
-stars: 3114
+- workflows
+stars: 3115
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2023-12-07T06:10:49Z'
-pushed_at: '2026-07-21T04:43:34Z'
+pushed_at: '2026-07-21T10:38:05Z'
 resource_id: github:modelscope/evalscope
-first_seen: '2026-07-21T14:17:38.724706+05:30'
-last_seen: '2026-07-21T14:17:38.724706+05:30'
-last_checked: '2026-07-21T14:17:38.724706+05:30'
+first_seen: '2026-07-21T16:51:39.331494+05:30'
+last_seen: '2026-07-21T16:51:39.331494+05:30'
+last_checked: '2026-07-21T16:51:39.331494+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Purpose**: `evalscope` is a Python-based framework designed for streamlined and customizable evaluation of large models (LLMs, VLMs, AIGC) with performance benchmarking capabilities.
-- **Key Features**: Supports evaluation and benchmarking across LLMs, VLMs, and RAG systems with modular and customizable configurations.
-- **Repository Metrics**: 3,114 stars, 428 forks, last updated on 2026-07-21.
+- **Framework Purpose**: Streamlined and customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with support for RAG workflows.
+- **Key Features**: Efficient performance benchmarking with modular design for extensibility and reproducibility in model evaluation.
+- **Repository Stats**: 3,115 stars, 428 forks, last updated July 21, 2026.
 
 ## Why It Matters
 
@@ -40,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: modelscope
-- Stars: 3114
+- Stars: 3115
 - Forks: 428
 - Language: Python
 - Topics: evaluation, llm, performance, rag, vlm
-- Last Updated: 2026-07-21T08:27:35Z
+- Last Updated: 2026-07-21T10:43:57Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-12-07T06:10:49Z
-- Pushed At: 2026-07-21T04:43:34Z
+- Pushed At: 2026-07-21T10:38:05Z
 
 ## Possible Use Cases
 

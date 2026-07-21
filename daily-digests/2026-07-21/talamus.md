@@ -1,13 +1,27 @@
 ---
-title: "ampres-ai/talamus"
-category: "Tooling"
-tech_stack: ["Python", "Markdown", "SQLite", "FastAPI", "React", "Model Context Protocol (MCP)", "LLM Integration (Claude, Codex, Ollama, etc.)", "Git", "Docker"]
+title: ampres-ai/talamus
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Markdown
+- SQLite
+- FastAPI
+- React
+- Model Context Protocol (MCP)
+- LLM Integration (Claude, Codex, Ollama, etc.)
+- Git
+- Docker
 quality_score: 9
 rag_relevance: 10
-tags: ["local-first memory", "agent persistence", "bitemporal knowledge", "citation-based RAG", "provenance tracking"]
-source: "https://github.com/ampres-ai/talamus"
-discovered_at: "2026-07-21T10:24:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first memory
+- agent persistence
+- bitemporal knowledge
+- citation-based RAG
+- provenance tracking
+source: https://github.com/ampres-ai/talamus
+discovered_at: '2026-07-21T10:24:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

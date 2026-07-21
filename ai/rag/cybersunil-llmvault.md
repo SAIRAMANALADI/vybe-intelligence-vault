@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/CyberSunil/LLMVault
-collected_at: '2026-07-21T14:17:43.729933+05:30'
-published_at: '2026-07-21T08:15:12Z'
+collected_at: '2026-07-21T16:51:44.385704+05:30'
+published_at: '2026-07-21T10:30:07Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
 - rag
-stars: 219
+stars: 220
 language: Python
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-07-15T08:18:22Z'
 pushed_at: '2026-07-18T18:23:05Z'
 resource_id: github:cybersunil/llmvault
-first_seen: '2026-07-21T14:17:43.729933+05:30'
-last_seen: '2026-07-21T14:17:43.729933+05:30'
-last_checked: '2026-07-21T14:17:43.729933+05:30'
+first_seen: '2026-07-21T16:51:44.385704+05:30'
+last_seen: '2026-07-21T16:51:44.385704+05:30'
+last_checked: '2026-07-21T16:51:44.385704+05:30'
 health_score: 100
 ---
 
@@ -31,8 +31,8 @@ health_score: 100
 ## Summary
 
 - **Purpose**: Intentionally vulnerable OWASP LLM Top 10 training platform for AI security, prompt injection, RAG security, agent security, and GenAI penetration testing.
-- **Features**: Includes CTF challenges, Docker support, and covers OWASP LLM Top 10 vulnerabilities with hands-on labs.
-- **Technical Stack**: Python-based, designed for red-team exercises and LLM security testing.
+- **Features**: Includes CTF challenges, Docker deployment, and modules for LLM security testing, prompt injection, and red-team exercises.
+- **Technical Stack**: Python-based, with Docker support for isolated lab environments, last updated on 2026-07-21.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: CyberSunil
-- Stars: 219
-- Forks: 53
+- Stars: 220
+- Forks: 54
 - Language: Python
 - Topics: agent-security, ai-security, ai-security-tool, artificial-intelligence, ctf, docker, genai, large-language-models, llm, llm-security, llm-security-testing, owasp, owasp-llm-top-10, penetration-testing, prompt-injection, prompt-injection-llm-security, python, rag, red-team, vulnerable-lab
-- Last Updated: 2026-07-21T08:15:12Z
+- Last Updated: 2026-07-21T10:30:07Z
 - License: MIT
 - Archived: No
 - Created At: 2026-07-15T08:18:22Z

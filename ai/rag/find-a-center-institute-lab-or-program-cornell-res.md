@@ -1,11 +1,11 @@
 ---
-title: Find a Center, Institute, Lab or Program - Cornell Research & Innovation
+title: Centers Archive - Cornell Research & Innovation
 category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://research.cornell.edu/find-a-center
-published_at: '2026-06-22T15:31:06.466777+05:30'
-collected_at: '2026-06-22T15:31:06.466791+05:30'
+published_at: '2026-07-21T17:01:16.356626+05:30'
+collected_at: '2026-07-21T17:01:16.356637+05:30'
 tags:
 - benchmark
 - hackernews
@@ -13,22 +13,22 @@ tags:
 - reddit
 - web-crawled
 status: active
-resource_id: blog:find-a-center-institute-lab-or-program-cornell-res
-first_seen: '2026-06-22T15:31:06.466791+05:30'
-last_seen: '2026-06-22T15:31:06.466791+05:30'
-last_checked: '2026-06-22T15:31:06.466791+05:30'
+resource_id: blog:centers-archive-cornell-research-innovation
+first_seen: '2026-07-21T17:01:16.356637+05:30'
+last_seen: '2026-07-21T17:01:16.356637+05:30'
+last_checked: '2026-07-21T17:01:16.356637+05:30'
 health_score: 100
 ---
 
-# Find a Center, Institute, Lab or Program - Cornell Research & Innovation
+# Centers Archive - Cornell Research & Innovation
 
 ## Summary
 
-- **Core Facilities**: Cornell hosts 15+ core research facilities (e.g., CNF, CHESS, CCMR) providing advanced instrumentation (nanofabrication, synchrotron radiation, materials characterization) and specialized services (NMR, MRI, mass spectrometry) across Ithaca and NYC (Weill Cornell).
+- **Center for Enervating NeuroImmune Disease**: Multi-institutional research hub focused on elucidating the biological underpinnings of ME/CFS to develop targeted treatments, integrating immunology, neuroscience, and systems biology.
 
-- **Centers of Excellence**: 50+ interdisciplinary centers (e.g., PARADIM for interface materials, CROPPS for plant systems, CTECH for transportation/environment) and institutes (e.g., Cornell Atkinson for sustainability, Cornell Ithaca for global health) focus on niche domains like energy, genomics, and social sciences.
+- **Cornell High Energy Synchrotron Source (CHESS)**: National user facility providing high-intensity X-ray synchrotron radiation for advanced materials, biological, and physical sciences research, supported by NSF, AFRL, NIH, and NY State.
 
-- **Programs & Labs**: Dedicated labs (e.g., Cornell Reproductive Sciences Center, Cornell Food Venture Center) and programs (e.g., Cornell Statistical Consulting Unit, Cornell Center for Data Science) support translational research, clinical trials, and data-driven initiatives across veterinary medicine, agriculture, and human health.
+- **Artificial Intelligence Materials Institute (AI-MI)**: NSF-funded center merging AI and materials science to accelerate discovery of sustainable energy, electronics, and environmental materials via data-driven, AI-optimized experimental and computational approaches.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T15:31:06.466777+05:30
+- Published: 2026-07-21T17:01:16.356626+05:30
 
 ## Related Tags
 

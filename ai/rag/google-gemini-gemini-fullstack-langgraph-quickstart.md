@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart
-collected_at: '2026-07-20T22:19:42.120314+05:30'
-published_at: '2026-07-20T12:27:59Z'
+collected_at: '2026-07-21T16:54:14.521576+05:30'
+published_at: '2026-07-21T06:13:25Z'
 tags:
 - agents
 - github-repo
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-05-22T11:59:02Z'
 pushed_at: '2026-06-14T05:25:52Z'
 resource_id: github:google-gemini/gemini-fullstack-langgraph-quickstart
-first_seen: '2026-07-20T22:19:42.120314+05:30'
-last_seen: '2026-07-20T22:19:42.120314+05:30'
-last_checked: '2026-07-20T22:19:42.120314+05:30'
+first_seen: '2026-07-21T16:54:14.521576+05:30'
+last_seen: '2026-07-21T16:54:14.521576+05:30'
+last_checked: '2026-07-21T16:54:14.521576+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Demonstrates building full-stack agents using Google's **Gemini 2.5** model integrated with **LangGraph** for workflow orchestration.
-- **Technical Stack**: Implemented in **Jupyter Notebooks**, leveraging the **Gemini API** for LLM interactions and **LangGraph** for stateful, multi-agent systems.
-- **Key Features**: Provides a starter template for deploying **full-stack agents** with modular components for rapid prototyping and scalability.
+- **Purpose**: Demonstrates building fullstack agents using **Gemini 2.5** and **LangGraph**, integrating frontend/backend workflows.
+- **Technical Stack**: Implemented in **Jupyter Notebooks**, leveraging the **Gemini API** for agent orchestration and LangGraph for stateful graph-based agent interactions.
+- **Key Features**: Includes starter templates for agent development, state management, and multi-agent collaboration patterns.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 3080
 - Language: Jupyter Notebook
 - Topics: gemini, gemini-api
-- Last Updated: 2026-07-20T12:27:59Z
+- Last Updated: 2026-07-21T06:13:25Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-05-22T11:59:02Z

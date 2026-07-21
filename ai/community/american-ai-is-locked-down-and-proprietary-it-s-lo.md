@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing
 hn_url: https://news.ycombinator.com/item?id=48979269
-score: 1095
+score: 1122
 author: benwerd
-comments_count: 833
+comments_count: 851
 published_at: '2026-07-20T19:51:47+05:30'
-collected_at: '2026-07-21T14:14:12.807762+05:30'
+collected_at: '2026-07-21T16:49:29.269196+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:chinas-open-weights-ai-strategy-is-winning
 first_seen: '2026-07-20T22:15:06.548146+05:30'
-last_seen: '2026-07-21T14:14:12.807762+05:30'
-last_checked: '2026-07-21T14:14:12.807762+05:30'
+last_seen: '2026-07-21T16:49:29.269196+05:30'
+last_checked: '2026-07-21T16:49:29.269196+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by benwerd. Score: 1095, Comments: 833.
+Hacker News story by benwerd. Score: 1122, Comments: 851.
 Original Link: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: benwerd
-- Score: 1095 Upvotes
-- Comments: 833 Discussions
+- Score: 1122 Upvotes
+- Comments: 851 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48979269
 - Original Article: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing
 

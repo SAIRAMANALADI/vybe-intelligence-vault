@@ -1,13 +1,25 @@
 ---
-title: "chriswu727/sibyl"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "LLM providers (DeepSeek, OpenAI, Anthropic, Gemini, GLM)", "Web scraping (Jina Reader, browser automation)", "Search engines (DuckDuckGo, Google News, Reddit, Wikipedia)", "Ranking (lexical, FlashRank, LLM-based)", "PDF/Markdown generation"]
+title: chriswu727/sibyl
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- LLM providers (DeepSeek, OpenAI, Anthropic, Gemini, GLM)
+- Web scraping (Jina Reader, browser automation)
+- Search engines (DuckDuckGo, Google News, Reddit, Wikipedia)
+- Ranking (lexical, FlashRank, LLM-based)
+- PDF/Markdown generation
 quality_score: 9
 rag_relevance: 10
-tags: ["keyless retrieval", "web research", "evidence-based reasoning", "MCP server", "multi-LLM support"]
-source: "https://github.com/chriswu727/sibyl"
-discovered_at: "2026-07-14T23:53:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- keyless retrieval
+- web research
+- evidence-based reasoning
+- MCP server
+- multi-LLM support
+source: https://github.com/chriswu727/sibyl
+discovered_at: '2026-07-14T23:53:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

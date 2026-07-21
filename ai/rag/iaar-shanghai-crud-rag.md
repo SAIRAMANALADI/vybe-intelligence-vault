@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-07-21T14:17:38.770104+05:30'
+collected_at: '2026-07-21T16:51:39.323265+05:30'
 published_at: '2026-07-10T09:46:49Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-07-21T14:17:38.770104+05:30'
-last_seen: '2026-07-21T14:17:38.770104+05:30'
-last_checked: '2026-07-21T14:17:38.770104+05:30'
+first_seen: '2026-07-21T16:51:39.323265+05:30'
+last_seen: '2026-07-21T16:51:39.323265+05:30'
+last_checked: '2026-07-21T16:51:39.323265+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: CRUD-RAG introduces a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on comprehensive metrics for large language models (LLMs) across retrieval, augmentation, and generation stages.
-
-- **Evaluation Scope**: The benchmark assesses LLMs on Chinese-language tasks, including cross-domain retrieval, context-aware generation, and dynamic knowledge integration, with standardized datasets and evaluation protocols.
-
-- **Open-Source Framework**: Implemented in Python, CRUD-RAG provides modular tools for benchmarking, including retrieval modules, evaluation scripts, and baseline model comparisons, facilitating reproducibility and extensibility.
+- **Benchmark Suite**: Introduces CRUD-RAG, a Chinese-language benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems for Large Language Models (LLMs) across **Create, Read, Update, Delete (CRUD)** operations.
+- **Evaluation Framework**: Provides a standardized testbed with curated datasets, metrics, and protocols to assess RAG performance in Chinese, focusing on retrieval quality, generation accuracy, and end-to-end task completion.
+- **Open-Source Toolkit**: Released under Python, the repository includes code, datasets, and documentation to facilitate reproducibility, benchmarking, and further research in multilingual RAG systems.
 
 ## Why It Matters
 

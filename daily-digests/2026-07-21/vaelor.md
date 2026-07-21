@@ -1,13 +1,28 @@
 ---
-title: "anatolykoptev/vaelor"
-category: "Orchestrator"
-tech_stack: ["Go", "Tree-sitter", "Apache AGE", "PostgreSQL", "pgvector", "Docker", "MCP (Model Context Protocol)", "Prometheus", "Jaeger", "LLM APIs"]
+title: anatolykoptev/vaelor
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- Tree-sitter
+- Apache AGE
+- PostgreSQL
+- pgvector
+- Docker
+- MCP (Model Context Protocol)
+- Prometheus
+- Jaeger
+- LLM APIs
 quality_score: 9
 rag_relevance: 10
-tags: ["code analysis", "call graph", "semantic search", "AI agent memory", "self-hosted"]
-source: "https://github.com/anatolykoptev/vaelor"
-discovered_at: "2026-07-19T02:30:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- code analysis
+- call graph
+- semantic search
+- AI agent memory
+- self-hosted
+source: https://github.com/anatolykoptev/vaelor
+discovered_at: '2026-07-19T02:30:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

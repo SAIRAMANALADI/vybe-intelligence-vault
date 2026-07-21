@@ -23,9 +23,9 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 - [IAAR-Shanghai/CRUD_RAG](https://github.com/IAAR-Shanghai/CRUD_RAG)
 - [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench)
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)
-- [run-llama/ParseBench](https://github.com/run-llama/ParseBench)
-- [RUC-NLPIR/FlashRAG](https://github.com/RUC-NLPIR/FlashRAG?source=post_page-----dba899ae0355---------------------------------------)
-- [liangdabiao/easy_investment_Agent_crewai](https://github.com/liangdabiao/easy_investment_Agent_crewai)
+- [RUC-NLPIR/FlashRAG](https://github.com/RUC-NLPIR/FlashRAG)
+- [naver/bergen](https://github.com/naver/bergen)
+- [blog/train-sentence-transformers.md at main · huggingface/blog · GitHub](https://github.com/huggingface/blog/blob/main/train-sentence-transformers.md)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-07-21 14:33 IST*
+*Last updated: 2026-07-21 17:08 IST*

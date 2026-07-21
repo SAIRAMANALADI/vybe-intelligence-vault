@@ -1,13 +1,26 @@
 ---
-title: "jean2ai/jean2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "Electron", "SQLite", "WebSocket", "REST APIs", "MCP (Model Context Protocol)", "AI SDK v6"]
+title: jean2ai/jean2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Bun
+- Electron
+- SQLite
+- WebSocket
+- REST APIs
+- MCP (Model Context Protocol)
+- AI SDK v6
 quality_score: 9
 rag_relevance: 8
-tags: ["agent framework", "modular AI", "self-hosted", "workflow automation", "memory management"]
-source: "https://github.com/jean2ai/jean2"
-discovered_at: "2026-07-16T20:02:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent framework
+- modular AI
+- self-hosted
+- workflow automation
+- memory management
+source: https://github.com/jean2ai/jean2
+discovered_at: '2026-07-16T20:02:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

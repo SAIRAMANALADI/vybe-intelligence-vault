@@ -1,13 +1,24 @@
 ---
-title: "SylphxAI/filesystem-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Zod", "Docker", "Rust (optional native transport)", "Bun (for development/testing)"]
+title: SylphxAI/filesystem-mcp
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Zod
+- Docker
+- Rust (optional native transport)
+- Bun (for development/testing)
 quality_score: 9
 rag_relevance: 8
-tags: ["filesystem", "MCP", "batch operations", "agent tools", "token optimization"]
-source: "https://github.com/SylphxAI/filesystem-mcp"
-discovered_at: "2026-07-19T02:30:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- filesystem
+- MCP
+- batch operations
+- agent tools
+- token optimization
+source: https://github.com/SylphxAI/filesystem-mcp
+discovered_at: '2026-07-19T02:30:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

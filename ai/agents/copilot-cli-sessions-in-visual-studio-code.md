@@ -4,18 +4,18 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://code.visualstudio.com/docs/copilot/agents/background-agents
-published_at: '2026-07-21T14:24:24.091522+05:30'
-collected_at: '2026-07-21T14:24:24.091538+05:30'
+published_at: '2026-07-21T16:58:21.345773+05:30'
+collected_at: '2026-07-21T16:58:21.345781+05:30'
 tags:
 - agents
 - openai
+- scripts
 - web-crawled
-- workflows
 status: active
 resource_id: blog:copilot-cli-sessions-in-visual-studio-code
-first_seen: '2026-07-21T14:24:24.091538+05:30'
-last_seen: '2026-07-21T14:24:24.091538+05:30'
-last_checked: '2026-07-21T14:24:24.091538+05:30'
+first_seen: '2026-07-21T16:58:21.345781+05:30'
+last_seen: '2026-07-21T16:58:21.345781+05:30'
+last_checked: '2026-07-21T16:58:21.345781+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Copilot CLI Sessions**: Background agent sessions in VS Code run autonomously via Copilot CLI, managed through the Chat view, with support for parallel execution; sessions use Git worktrees (isolated) or direct folder modifications (non-isolated).
+- **Copilot CLI Sessions**: Background agent sessions in VS Code run autonomously via GitHub Copilot CLI, managed through the Chat view; support parallel execution, worktree/folder isolation modes, and slash commands (`/research`, `/yolo`, etc.) for task automation.
 
-- **Isolation Modes**: Worktree isolation creates a separate Git worktree for agent changes (auto-approved), while Folder isolation applies changes directly to the workspace with configurable permission levels (Default/Bypass/Autopilot).
+- **Isolation Modes**: Worktree mode creates a separate Git worktree for agent changes (auto-approved), while Folder mode applies changes directly to the workspace; permissions vary (Bypass Approvals enforced in Worktree, configurable in Folder).
 
-- **Permissions & Workflow**: Copilot CLI integrates with VS Code’s Copilot SDK for session control; slash commands (`/research`, `/yolo`) and reusable prompts enhance agent interaction, with authentication tied to GitHub Enterprise/Copilot contexts.
+- **Permissions & Integration**: Copilot CLI sessions inherit GitHub authentication context; permission levels (Default/Bypass/Autopilot) depend on isolation mode; VS Code integrates via Copilot SDK for session lifecycle management.
 
 ## Why It Matters
 
@@ -37,14 +37,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-21T14:24:24.091522+05:30
+- Published: 2026-07-21T16:58:21.345773+05:30
 
 ## Related Tags
 
 - agents
 - openai
+- scripts
 - web-crawled
-- workflows
 
 ## Source
 

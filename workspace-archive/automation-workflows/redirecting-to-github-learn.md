@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- GitHub Learn provides interactive, hands-on tutorials for mastering Git and GitHub workflows, including version control, branching, and pull requests.
-- Courses are structured as "Skills" with step-by-step guides, quizzes, and real-world projects to reinforce learning.
-- Supports integration with GitHub repositories for practical, in-repo skill application and immediate feedback.
+- GitHub Learn provides structured, hands-on tutorials for mastering Git and GitHub workflows.
+- Covers core concepts like repositories, branching, pull requests, and CI/CD integration.
+- Offers interactive exercises and real-world project-based learning paths.
 
 ## Use Cases
 

@@ -1,55 +1,71 @@
 ---
-title: Releases · weaviate/weaviate · GitHub
+title: weaviate/weaviate
 category: ai/rag
-source_type: web
-source_name: Web Discovery
-source_url: https://github.com/weaviate/weaviate/releases/
-published_at: '2026-07-21T14:27:27.504363+05:30'
-collected_at: '2026-07-21T14:27:27.504382+05:30'
+source_type: github
+source_name: GitHub Discovery
+source_url: https://github.com/weaviate/weaviate
+collected_at: '2026-07-21T16:57:26.874823+05:30'
+published_at: '2026-07-21T10:49:28Z'
 tags:
-- frontend_ui
+- github-repo
+- go
 - hackernews
 - rag
-- reddit
-- web-crawled
-- youtube
+stars: 16628
+language: Go
 status: active
+license: BSD-3-Clause
+archived: false
+created_at: '2016-03-30T15:03:17Z'
+pushed_at: '2026-07-21T11:18:33Z'
 resource_id: github:weaviate/weaviate
-first_seen: '2026-07-21T14:27:27.504382+05:30'
-last_seen: '2026-07-21T14:27:27.504382+05:30'
-last_checked: '2026-07-21T14:27:27.504382+05:30'
+first_seen: '2026-07-21T16:57:26.874823+05:30'
+last_seen: '2026-07-21T16:57:26.874823+05:30'
+last_checked: '2026-07-21T16:57:26.874823+05:30'
 health_score: 100
 ---
 
-# Releases · weaviate/weaviate · GitHub
+# weaviate/weaviate
 
 ## Summary
 
-- **LSM Store Optimizations**: v1.38.6 introduces inverted compaction improvements, reusable decode buffers, and arena-append primitives in `lsmkv` for enhanced performance and reduced memory overhead.
+- **Hybrid Vector & Object Storage**: Weaviate integrates structured data storage with high-dimensional vector embeddings, enabling combined vector similarity search and traditional filtering in a single system.
 
-- **RAFT & Cluster Stability Fixes**: Addresses ABBA deadlocks in replication, RAFT FSM wedging, and cluster communication issues, including self-healing node joins and retry logic for cluster formation.
+- **Cloud-Native Scalability**: Built in Go with gRPC, it supports fault-tolerant, distributed deployments leveraging HNSW (Hierarchical Navigable Small World) for approximate nearest neighbor (ANN) search, optimized for large-scale ML and semantic search workloads.
 
-- **Hybrid Search & BM25 Enhancements**: Implements Hybrid Diversity & MMR for hybrid search, along with BM25 correctness fixes and search endpoint optimizations (e.g., `POST /v1/search/{collection}/near-text`).
+- **Multi-Modal & Generative Search**: Supports hybrid search (vector + BM25), generative feedback loops, and multi-modal retrieval (text, images), with native integrations for recommender systems, neural search, and generative AI pipelines.
 
 ## Why It Matters
 
-General public resource representing technology updates, guides, or tutorials.
+Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
 
-## Details
+## Repository Details
 
-- Source: Web Discovery
-- Category: ai/rag
-- Published: 2026-07-21T14:27:27.504363+05:30
+- Owner: weaviate
+- Stars: 16628
+- Forks: 1353
+- Language: Go
+- Topics: approximate-nearest-neighbor-search, generative-search, grpc, hnsw, hybrid-search, image-search, information-retrieval, mlops, nearest-neighbor-search, neural-search, recommender-system, search-engine, semantic-search, semantic-search-engine, similarity-search, vector-database, vector-search, vector-search-engine, vectors, weaviate
+- Last Updated: 2026-07-21T10:49:28Z
+- License: BSD-3-Clause
+- Archived: No
+- Created At: 2016-03-30T15:03:17Z
+- Pushed At: 2026-07-21T11:18:33Z
 
-## Related Tags
+## Possible Use Cases
 
-- frontend_ui
-- hackernews
-- rag
-- reddit
-- web-crawled
-- youtube
+- Learn implementation patterns
+- Extract reusable components
+- Study architecture
+- Build similar project
+- Add to skill file references
+
+## Related Skills
+
+- Frontend Development
+- JavaScript
+- HTML/CSS
 
 ## Source
 
-Original source: https://github.com/weaviate/weaviate/releases/
+Original source: https://github.com/weaviate/weaviate

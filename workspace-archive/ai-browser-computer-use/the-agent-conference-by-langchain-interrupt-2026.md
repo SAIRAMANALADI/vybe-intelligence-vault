@@ -8,7 +8,7 @@ local_vault_path: ai/agents/the-agent-conference-by-langchain-interrupt-2026.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -16,7 +16,7 @@ tags:
 - web-crawled
 - youtube
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # The Agent Conference by LangChain | Interrupt 2026
@@ -25,15 +25,15 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Event Overview**: Interrupt by LangChain is a technical conference scheduled for **September 24, 2026 (NYC)** and **October 13, 2026 (London)**, focusing on AI agent development and deployment.
-- **Target Audience**: Targets engineers, builders, and teams actively working on AI agent architectures, frameworks, and real-world implementations.
-- **Key Features**: Includes practitioner-led sessions, networking events, and ticketed access via [interrupt.langchain.com](https://interrupt.langchain
+- **Event Details**: Two in-person conferences (NYC: Sep 24, 2026; London: Oct 13, 2026) hosted by LangChain, focusing on AI agent development and deployment.
+- **Target Audience**: Engineers, builders, and teams actively developing and deploying AI agents, with networking and technical sessions.
+- **Registration**: Tickets available via [interrupt.langchain.com/get-tickets](https://interrupt.langchain.com/get-tickets), with community engagement via LinkedIn, X (Twitter), and YouTube.
 
 ## Use Cases
 

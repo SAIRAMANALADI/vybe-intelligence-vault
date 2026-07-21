@@ -13,6 +13,7 @@ importance: medium
 tags:
 - frontend_ui
 - web-crawled
+- youtube
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -31,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- Astro supports **scoped styles** (default) via `class` attributes, preventing CSS leakage while preserving specificity; global styles require explicit opt-out via `is:global` directive.
-- **CSS cascading order** prioritizes: `<link>` tags (lowest) → imported stylesheets → scoped styles (highest), with later imports overriding earlier ones at equal specificity.
-- **Tailwind integration** is supported via Vite plugin (`@tailwindcss/vite`) for v4+ or `@astrojs/tailwind` for legacy v3, with global
+- Astro supports **scoped styles** (default) via `<style>` tags, compiling to unique selectors (e.g., `h1[data-astro-cid-xxx]`) to prevent leakage, while **global styles** can be enabled with `is:global` or by omitting scoping.
+
+- **CSS cascading order** prioritizes: `<link>` tags (lowest) → imported stylesheets → scoped styles (highest), with same-specificity conflicts resolved by last-imported rule.
+
+- **Tailwind integration** requires either the `@astrojs/tailwind` integration (v3) or the `@t
 
 ## Use Cases
 

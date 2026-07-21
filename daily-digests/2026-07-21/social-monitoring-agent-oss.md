@@ -1,13 +1,28 @@
 ---
-title: "warpdotdev/social-monitoring-agent-oss"
-category: "Agent Framework"
-tech_stack: ["Python", "Node.js", "Slack API", "X (Twitter) API", "GitHub CLI", "Typefully", "Octolens", "Peec", "Google Workspace", "Warp/Oz"]
+title: warpdotdev/social-monitoring-agent-oss
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Node.js
+- Slack API
+- X (Twitter) API
+- GitHub CLI
+- Typefully
+- Octolens
+- Peec
+- Google Workspace
+- Warp/Oz
 quality_score: 8
 rag_relevance: 7
-tags: ["community management", "developer relations", "social monitoring", "agent skills", "automation"]
-source: "https://github.com/warpdotdev/social-monitoring-agent-oss"
-discovered_at: "2026-07-20T19:53:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- community management
+- developer relations
+- social monitoring
+- agent skills
+- automation
+source: https://github.com/warpdotdev/social-monitoring-agent-oss
+discovered_at: '2026-07-20T19:53:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
