@@ -1,13 +1,26 @@
 ---
-title: "DeepBiology/deepbiology-lab"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Streamable HTTP", "Alibaba Cloud", "Qwen CLI", "Gemini CLI", "Antigravity (AGY) CLI", "Codex CLI"]
+title: DeepBiology/deepbiology-lab
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Streamable HTTP
+- Alibaba Cloud
+- Qwen CLI
+- Gemini CLI
+- Antigravity (AGY) CLI
+- Codex CLI
 quality_score: 8
 rag_relevance: 7
-tags: ["genomics", "AI agents", "MCP server", "workflow automation", "bioinformatics"]
-source: "https://github.com/DeepBiology/deepbiology-lab"
-discovered_at: "2026-07-19T15:56:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- genomics
+- AI agents
+- MCP server
+- workflow automation
+- bioinformatics
+source: https://github.com/DeepBiology/deepbiology-lab
+discovered_at: '2026-07-19T15:56:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

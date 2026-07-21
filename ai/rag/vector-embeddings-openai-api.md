@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://platform.openai.com/docs/guides/embeddings
-published_at: '2026-07-20T03:46:24.049691+05:30'
-collected_at: '2026-07-20T03:46:24.049710+05:30'
+published_at: '2026-07-21T22:17:46.570074+05:30'
+collected_at: '2026-07-21T22:17:46.570093+05:30'
 tags:
 - benchmark
 - dataset
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:vector-embeddings-openai-api
-first_seen: '2026-07-20T03:46:24.049710+05:30'
-last_seen: '2026-07-20T03:46:24.049710+05:30'
-last_checked: '2026-07-20T03:46:24.049710+05:30'
+first_seen: '2026-07-21T22:17:46.570093+05:30'
+last_seen: '2026-07-21T22:17:46.570093+05:30'
+last_checked: '2026-07-21T22:17:46.570093+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **New Embedding Models**: `text-embedding-3-small` (1536-dim, ~62.5k pages/USD, 62.3% MTEB) and `text-embedding-3-large` (3072-dim, ~9.6k pages/USD, 64.6% MTEB) offer lower cost, improved multilingual performance, and configurable output dimensions via the `dimensions` parameter.
+- **Model Specifications**: `text-embedding-3-small` (1536-dim, ~62.5k pages/USD) and `text-embedding-3-large` (3072-dim, ~9.6k pages/USD) offer reduced costs and improved multilingual performance; both support dynamic dimensionality reduction via the `dimensions` parameter (e.g., `text-embedding-3-large` can be truncated to 256-dim while outperforming `text-embedding-ada-002` at 1536-dim).
 
-- **Embedding Mechanics**: Text embeddings are vector representations (floating-point lists) where cosine distance measures semantic relatedness; default dimensions are 1536/3072 but can be reduced (e.g., to 256) without significant performance loss using the `dimensions` API parameter.
+- **Embedding Mechanics**: Embeddings are L2-normalized vectors representing text relatedness; cosine similarity between query and document embeddings enables retrieval tasks (e.g., search, clustering, recommendations), with performance benchmarked at 62.3% (`small`) and 64.6% (`large`) on MTEB.
 
-- **Use Cases & Implementation**: Embeddings enable search, clustering, recommendations, anomaly detection, and classification; API usage is billed per token, and embeddings can be normalized/dimensionally reduced post-generation for efficiency in vector databases.
+- **API Integration**: Embeddings are generated via OpenAI’s API (e.g., `POST /v1/embeddings`) with token-based pricing; optional `dimensions` parameter allows post-generation truncation (e.g., 256-dim) for efficiency, while normalization ensures compatibility with downstream tasks like ML feature encoding or vector database storage.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T03:46:24.049691+05:30
+- Published: 2026-07-21T22:17:46.570074+05:30
 
 ## Related Tags
 

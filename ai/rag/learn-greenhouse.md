@@ -3,9 +3,9 @@ title: Learn Greenhouse
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://learn.greenhouse.io
-published_at: '2026-06-23T10:03:57.285840+05:30'
-collected_at: '2026-06-23T10:03:57.285854+05:30'
+source_url: https://learn.greenhouse.io/
+published_at: '2026-07-20T20:15:18.326557+05:30'
+collected_at: '2026-07-20T20:15:18.326576+05:30'
 tags:
 - benchmark
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:learn-greenhouse
-first_seen: '2026-06-23T10:03:57.285854+05:30'
-last_seen: '2026-06-23T10:03:57.285854+05:30'
-last_checked: '2026-06-23T10:03:57.285854+05:30'
+first_seen: '2026-07-20T20:15:18.326576+05:30'
+last_seen: '2026-07-20T20:15:18.326576+05:30'
+last_checked: '2026-07-20T20:15:18.326576+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **AI-Powered Hiring Tools**: Greenhouse integrates AI-driven features to automate sourcing, optimize hiring workflows, and deliver data-driven insights while maintaining compliance and user control.
+- **AI-Powered Hiring Tools**: Greenhouse integrates AI-driven features for sourcing optimization, workflow automation, and data-driven decision-making while ensuring compliance and user control.
 
-- **Structured Training Programs**: Offers role-specific, instructor-led/live training (e.g., interview scorecards, report navigation) and on-demand courses (e.g., "Structured Hiring," "Navigate Greenhouse") to enhance hiring and technical skills.
+- **Structured Training Programs**: Offers role-specific, live instructor-led sessions (e.g., hiring managers, recruiters) and on-demand courses covering structured hiring, report navigation, and interview scorecard design.
 
-- **MyGreenhouse Suite**: Provides modular tools (e.g., Quick Apply, Job Alerts, Talent Matching, CLEAR identity verification) to streamline candidate engagement, application review, and hiring process transparency.
+- **Advanced Recruiting Features**: Includes AI-driven tools like Talent Matching, Fraud Detection, and MyGreenhouse modules (Quick Apply, Job Alerts, Application Status) to enhance candidate experience and hiring efficiency.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T10:03:57.285840+05:30
+- Published: 2026-07-20T20:15:18.326557+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://learn.greenhouse.io
+Original source: https://learn.greenhouse.io/

@@ -1,13 +1,25 @@
 ---
-title: "driveate/wheel-size-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FastAPI", "HTTP Transport", "uv (package manager)", "Ruff (linting)", "Pytest (testing)"]
+title: driveate/wheel-size-mcp
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FastAPI
+- HTTP Transport
+- uv (package manager)
+- Ruff (linting)
+- Pytest (testing)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "vehicle fitment", "wheel compatibility", "tire sizing", "automotive data"]
-source: "https://github.com/driveate/wheel-size-mcp"
-discovered_at: "2026-07-19T16:58:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- vehicle fitment
+- wheel compatibility
+- tire sizing
+- automotive data
+source: https://github.com/driveate/wheel-size-mcp
+discovered_at: '2026-07-19T16:58:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

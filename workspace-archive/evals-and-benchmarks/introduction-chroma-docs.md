@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal & Hybrid Retrieval**: Supports dense, sparse, and hybrid vector search with metadata filtering, enabling retrieval across text, images, audio, and other modalities while combining multiple search strategies.
+- **Unified Data Infrastructure**: Chroma provides an open-source platform for storing embeddings with metadata, supporting dense, sparse, and hybrid vector search, as well as full-text and regex search across multi-modal data (text, images, audio).
 
-- **Flexible Embedding Integration**: Compatible with any embedding model (e.g., OpenAI, Cohere, Hugging Face) and offers full-text/regex search without embeddings.
+- **Flexible Integration**: Supports any embedding model (e.g., OpenAI, Cohere, Hugging Face) and enables metadata filtering, multi-modal retrieval, and AST-aware chunking for code search.
 
-- **Open-Source & Scalable Deployment**: Licensed under Apache 2.0, deployable locally, self-hosted, or via C
+- **Deployment Options**: Available as self-hosted, open-so
 
 ## Use Cases
 

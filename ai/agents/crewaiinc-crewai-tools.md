@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/crewAIInc/crewAI-tools
-collected_at: '2026-07-20T03:45:58.445255+05:30'
+collected_at: '2026-07-21T22:17:22.598324+05:30'
 published_at: '2026-07-18T04:31:27Z'
 tags:
 - agents
 - github-repo
 - python
 - scripts
-- workflows
 stars: 1460
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: true
 created_at: '2024-01-11T17:29:13Z'
 pushed_at: '2025-10-23T18:08:34Z'
 resource_id: github:crewaiinc/crewai-tools
-first_seen: '2026-07-20T03:45:58.445255+05:30'
-last_seen: '2026-07-20T03:45:58.445255+05:30'
-last_checked: '2026-07-20T03:45:58.445255+05:30'
+first_seen: '2026-07-21T22:17:22.598324+05:30'
+last_seen: '2026-07-21T22:17:22.598324+05:30'
+last_checked: '2026-07-21T22:17:22.598324+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Extends CrewAI agent capabilities via modular Python tools, enabling enhanced functionality for AI-driven workflows.
-- **Key Features**: Provides pre-built tools for tasks like web scraping, API interactions, and data processing to augment agent autonomy.
-- **Integration**: Designed for seamless compatibility with CrewAI agents, supporting dynamic tool invocation and custom tool development.
+- **Purpose**: Extends CrewAI agent capabilities via modular Python tools for enhanced AI agent functionality.
+- **Key Features**: Includes pre-built tools for web scraping, API interactions, data processing, and agent orchestration.
+- **Integration**: Designed for seamless compatibility with CrewAI agents, supporting dynamic tool loading and execution.
 
 ## Why It Matters
 

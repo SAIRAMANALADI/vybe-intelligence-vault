@@ -4,23 +4,23 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/googleapis/googleapis
-collected_at: '2026-07-20T01:16:09.254953+05:30'
-published_at: '2026-07-19T13:06:44Z'
+collected_at: '2026-07-21T09:25:47.164679+05:30'
+published_at: '2026-07-20T23:34:54Z'
 tags:
 - github-repo
 - hackernews
 - starlark
-stars: 8654
+stars: 8656
 language: Starlark
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2015-03-25T19:47:34Z'
-pushed_at: '2026-07-18T05:56:54Z'
+pushed_at: '2026-07-20T23:34:35Z'
 resource_id: github:googleapis/googleapis
-first_seen: '2026-07-20T01:16:09.254953+05:30'
-last_seen: '2026-07-20T01:16:09.254953+05:30'
-last_checked: '2026-07-20T01:16:09.254953+05:30'
+first_seen: '2026-07-21T09:25:47.164679+05:30'
+last_seen: '2026-07-21T09:25:47.164679+05:30'
+last_checked: '2026-07-21T09:25:47.164679+05:30'
 health_score: 100
 ---
 
@@ -29,8 +29,8 @@ health_score: 100
 ## Summary
 
 - **Repository Purpose**: Hosts public interface definitions for Google APIs, primarily defined using Protocol Buffers (protobufs).
-- **Technical Stack**: Implemented in Starlark (a Python-like language for the Bazel build system) for build and dependency management.
-- **Metadata**: 8,654 stars, 2,604 forks, last updated on 2026-07-19.
+- **Technical Stack**: Implemented in Starlark (a Python-like language for Bazel build systems), ensuring reproducible builds and dependency management.
+- **Metadata**: 8,656 stars, 2,604 forks; last updated on 2026-07-20T23:34:54Z.
 
 ## Why It Matters
 
@@ -39,15 +39,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: googleapis
-- Stars: 8654
+- Stars: 8656
 - Forks: 2604
 - Language: Starlark
 - Topics: protocol-buffers
-- Last Updated: 2026-07-19T13:06:44Z
+- Last Updated: 2026-07-20T23:34:54Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2015-03-25T19:47:34Z
-- Pushed At: 2026-07-18T05:56:54Z
+- Pushed At: 2026-07-20T23:34:35Z
 
 ## Possible Use Cases
 

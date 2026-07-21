@@ -4,13 +4,12 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pradyunsg/furo
-collected_at: '2026-07-20T01:14:26.722657+05:30'
-published_at: '2026-07-18T01:43:20Z'
+collected_at: '2026-07-20T22:26:29.114945+05:30'
+published_at: '2026-07-20T14:03:25Z'
 tags:
 - github-repo
-- hackernews
 - sass
-stars: 3541
+stars: 3543
 language: Sass
 status: active
 license: MIT
@@ -18,9 +17,9 @@ archived: false
 created_at: '2020-09-01T21:08:17Z'
 pushed_at: '2026-07-13T21:32:54Z'
 resource_id: github:pradyunsg/furo
-first_seen: '2026-07-20T01:14:26.722657+05:30'
-last_seen: '2026-07-20T01:14:26.722657+05:30'
-last_checked: '2026-07-20T01:14:26.722657+05:30'
+first_seen: '2026-07-20T22:26:29.114945+05:30'
+last_seen: '2026-07-20T22:26:29.114945+05:30'
+last_checked: '2026-07-20T22:26:29.114945+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Furo is a minimalist, customizable Sphinx documentation theme designed for clean, three-column layout with Sass-based styling.
-- **Key Features**: Supports extensive customization, integrates seamlessly with Sphinx, and emphasizes readability and modern design.
-- **Technical Stack**: Built with Sass for styling, optimized for Sphinx documentation generation, and actively maintained (last updated July 2026).
+- **Furo**: A minimal, three-column Sphinx documentation theme optimized for cleanliness and customizability, written in Sass.
+- **Features**: Supports extensive theming, responsive design, and integrates seamlessly with Sphinx for structured documentation.
+- **Metadata**: 3,543 stars, 382 forks, last updated July 20, 2026.
 
 ## Why It Matters
 
@@ -39,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pradyunsg
-- Stars: 3541
+- Stars: 3543
 - Forks: 382
 - Language: Sass
 - Topics: clean, customizable, documentation, furo, minimal, sphinx, sphinx-doc, sphinx-theme, theme, three-column
-- Last Updated: 2026-07-18T01:43:20Z
+- Last Updated: 2026-07-20T14:03:25Z
 - License: MIT
 - Archived: No
 - Created At: 2020-09-01T21:08:17Z

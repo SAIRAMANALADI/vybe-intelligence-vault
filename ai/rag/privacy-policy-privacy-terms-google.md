@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://policies.google.com/privacy
-published_at: '2026-07-18T16:54:23.326627+05:30'
-collected_at: '2026-07-18T16:54:23.326635+05:30'
+published_at: '2026-07-21T22:19:27.326096+05:30'
+collected_at: '2026-07-21T22:19:27.326114+05:30'
 tags:
 - agents
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:privacy-policy-privacy-terms-google
-first_seen: '2026-07-18T16:54:23.326635+05:30'
-last_seen: '2026-07-18T16:54:23.326635+05:30'
-last_checked: '2026-07-18T16:54:23.326635+05:30'
+first_seen: '2026-07-21T22:19:27.326114+05:30'
+last_seen: '2026-07-21T22:19:27.326114+05:30'
+last_checked: '2026-07-21T22:19:27.326114+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: Google aggregates data from signed-in and unsigned users, including account details (e.g., name, email, payment info), device identifiers (IP, unique tokens, OS/browser specs), activity logs (searches, YouTube interactions, location history), and third-party sources (public records, partner APIs) to personalize services and ads.
+- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Chrome) including account-linked (personal info, activity) and non-account-linked (device/browser identifiers, IP, sensor data) information, with retention tied to user settings and regulatory compliance.
 
-- **Cross-Service Tracking**: Activity across Google services (e.g., Search, Maps, YouTube) is linked via account sync (Chrome, Web & App Activity) or device-level identifiers, enabling persistent tracking even without an active session, with retention policies varying by service and user settings.
+- **Technical Mechanisms**: Uses unique identifiers (cookies, pixel tags, local storage), cross-service sync (e.g., Chrome browsing history), and telemetry (crash reports, system activity) to enable personalization, security, and cross-device functionality.
 
-- **Location & Sensor Data**: GPS, Wi-Fi/Bluetooth signals, and IP geolocation are collected dynamically to power location-based features (e.g., Maps, ads), with storage duration contingent on device/account settings (e.g., Timeline, Location History).
+- **Third-Party & Public Data**: Collects location data (GPS, Wi-Fi, IP), integrates with partners for ads/research, and indexes publicly available information (e.g., news articles) while adhering to data transfer frameworks (e.g., GDPR, DPF).
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-18T16:54:23.326627+05:30
+- Published: 2026-07-21T22:19:27.326096+05:30
 
 ## Related Tags
 

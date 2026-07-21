@@ -1,13 +1,26 @@
 ---
-title: "rohithkandula19/Ronin"
-category: "Agent Framework"
-tech_stack: ["Python", "LLM Providers (Claude, Gemini, Cerebras, Groq, Ollama, OpenAI, etc.)", "MCP (Model Context Protocol)", "Git", "Terminal UI (custom TUI framework)", "Shell commands", "Markdown rendering", "Docker (for MCP servers)"]
+title: rohithkandula19/Ronin
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Python
+- LLM Providers (Claude, Gemini, Cerebras, Groq, Ollama, OpenAI, etc.)
+- MCP (Model Context Protocol)
+- Git
+- Terminal UI (custom TUI framework)
+- Shell commands
+- Markdown rendering
+- Docker (for MCP servers)
 quality_score: 9
 rag_relevance: 9
-tags: ["AI coding agent", "provider-agnostic", "terminal-native", "multi-model consensus", "safety-gated"]
-source: "https://github.com/rohithkandula19/Ronin"
-discovered_at: "2026-07-13T16:31:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding agent
+- provider-agnostic
+- terminal-native
+- multi-model consensus
+- safety-gated
+source: https://github.com/rohithkandula19/Ronin
+discovered_at: '2026-07-13T16:31:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.framerstatus.com/
-published_at: '2026-07-19T14:12:29.913980+05:30'
-collected_at: '2026-07-19T14:12:29.913995+05:30'
+published_at: '2026-07-20T22:23:26.994711+05:30'
+collected_at: '2026-07-20T22:23:26.994724+05:30'
 tags:
 - web-crawled
 - workflows
 status: active
 resource_id: blog:framer-status
-first_seen: '2026-07-19T14:12:29.913995+05:30'
-last_seen: '2026-07-19T14:12:29.913995+05:30'
-last_checked: '2026-07-19T14:12:29.913995+05:30'
+first_seen: '2026-07-20T22:23:26.994724+05:30'
+last_seen: '2026-07-20T22:23:26.994724+05:30'
+last_checked: '2026-07-20T22:23:26.994724+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Framer Status Overview (Last 30 Days):** All core services (App, Editor, Hosting, Sites, Website, Community) show 100% uptime except API, which has 99.943% uptime with a single 23-minute downtime incident on June 21, 2026.
+- **Uptime Metrics**: Framer's core services (App, Editor, Hosting, Sites, Website, Community) maintained near-perfect uptime (100% for most components, 99.943% for API) over the reported period, with only minor disruptions in usage data collection (7.5h degradation) and a brief API outage (23m).
 
-- **Historical Incident Impact:** A multi-day degradation in usage data collection occurred from June 20–23, 2026, with cumulative downtime of ~46 hours across three distinct incidents, affecting analytics functionality.
+- **Incident Tracking**: Real-time status updates and historical incident data are available via [Framer Status](https://www.framerstatus.com/), including RSS/JSON feeds, webhooks, and Slack integrations for automated notifications.
 
-- **Monitoring & Notifications:** Framer provides real-time status updates via RSS/JSON feeds, email, Slack webhooks, and direct incident tracking, enabling proactive incident response for subscribed components (App, Editor, API, Hosting, Sites).
+- **Service Components**: Framer's infrastructure is segmented into distinct operational domains (App, Editor, API, Hosting, Sites, Website, Community), each with independent uptime tracking and incident reporting.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-19T14:12:29.913980+05:30
+- Published: 2026-07-20T22:23:26.994711+05:30
 
 ## Related Tags
 

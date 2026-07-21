@@ -13,13 +13,14 @@ collected_at: '2026-07-20T03:40:59.342014+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-advice-made-people-3x-less-accurate-but-2x-conf
 first_seen: '2026-07-20T03:40:59.342014+05:30'
 last_seen: '2026-07-20T03:40:59.342014+05:30'
 last_checked: '2026-07-20T03:40:59.342014+05:30'
 health_score: 100
 ---
+
 
 # AI advice made people 3x less accurate but 2x confident, researchers found
 

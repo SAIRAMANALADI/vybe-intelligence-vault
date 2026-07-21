@@ -1,13 +1,25 @@
 ---
-title: "bang9/ai-tools"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bash", "Git", "AES-256-GCM", "TUI/Dashboard", "tmux", "Claude Code Plugin System"]
+title: bang9/ai-tools
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Bash
+- Git
+- AES-256-GCM
+- TUI/Dashboard
+- tmux
+- Claude Code Plugin System
 quality_score: 8
 rag_relevance: 6
-tags: ["Claude Code", "AI workflows", "CLI tools", "session management", "productivity"]
-source: "https://github.com/bang9/ai-tools"
-discovered_at: "2026-07-11T05:39:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- AI workflows
+- CLI tools
+- session management
+- productivity
+source: https://github.com/bang9/ai-tools
+discovered_at: '2026-07-11T05:39:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

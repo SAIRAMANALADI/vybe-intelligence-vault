@@ -1,13 +1,29 @@
 ---
-title: "avanloo01/Powerpoint-Agent"
-category: "Tooling"
-tech_stack: ["React 19", "TypeScript", "Python 3.12", "AWS Lambda", "Terraform", "GitHub Actions", "Qwen 3.7 Plus", "DashScope SDK", "S3", "CloudFront", "API Gateway"]
+title: avanloo01/Powerpoint-Agent
+category: daily-digests/2026-07-19
+tech_stack:
+- React 19
+- TypeScript
+- Python 3.12
+- AWS Lambda
+- Terraform
+- GitHub Actions
+- Qwen 3.7 Plus
+- DashScope SDK
+- S3
+- CloudFront
+- API Gateway
 quality_score: 5
 rag_relevance: 3
-tags: ["presentation generation", "AI automation", "Qwen", "AWS serverless", "document creation"]
-source: "https://github.com/avanloo01/Powerpoint-Agent"
-discovered_at: "2026-07-17T16:14:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- presentation generation
+- AI automation
+- Qwen
+- AWS serverless
+- document creation
+source: https://github.com/avanloo01/Powerpoint-Agent
+discovered_at: '2026-07-17T16:14:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

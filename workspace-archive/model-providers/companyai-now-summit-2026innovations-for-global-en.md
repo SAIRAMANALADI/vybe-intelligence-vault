@@ -5,7 +5,7 @@ archive_category: model-providers
 source_category: ai/companies/mistral
 source_url: https://mistral.ai/news/ai-now-summit-2026
 resource_id: blog:companyai-now-summit-2026innovations-for-global-en
-local_vault_path: ai/companies/mistral/ai-now-summit-2026.md
+local_vault_path: ai/companies/mistral/companyai-now-summit-2026innovations-for-global-en.md
 quality_score: 70
 archive_score: 82
 archive_tier: useful
@@ -48,4 +48,4 @@ Original source URL: https://mistral.ai/news/ai-now-summit-2026
 
 ## Local Vault File
 
-Path: [ai-now-summit-2026.md](../../ai/companies/mistral/ai-now-summit-2026.md)
+Path: [companyai-now-summit-2026innovations-for-global-en.md](../../ai/companies/mistral/companyai-now-summit-2026innovations-for-global-en.md)

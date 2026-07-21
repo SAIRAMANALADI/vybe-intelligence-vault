@@ -1,13 +1,23 @@
 ---
-title: "ananay-nag/mcp-decorators"
-category: "Tooling"
-tech_stack: ["TypeScript", "Decorators", "Model Context Protocol (MCP)", "Zod", "Node.js"]
+title: ananay-nag/mcp-decorators
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Decorators
+- Model Context Protocol (MCP)
+- Zod
+- Node.js
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "decorators", "TypeScript", "server-client", "automation"]
-source: "https://github.com/ananay-nag/mcp-decorators"
-discovered_at: "2026-07-12T17:03:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- decorators
+- TypeScript
+- server-client
+- automation
+source: https://github.com/ananay-nag/mcp-decorators
+discovered_at: '2026-07-12T17:03:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

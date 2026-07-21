@@ -1,13 +1,25 @@
 ---
-title: "jmagar/runifi"
-category: "Tooling"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "UniFi Network API", "HTTP", "CLI", "Docker", "npm"]
+title: jmagar/runifi
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- UniFi Network API
+- HTTP
+- CLI
+- Docker
+- npm
 quality_score: 9
 rag_relevance: 8
-tags: ["UniFi integration", "MCP server", "Rust CLI", "network monitoring", "API gateway"]
-source: "https://github.com/jmagar/runifi"
-discovered_at: "2026-07-19T23:56:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- UniFi integration
+- MCP server
+- Rust CLI
+- network monitoring
+- API gateway
+source: https://github.com/jmagar/runifi
+discovered_at: '2026-07-19T23:56:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

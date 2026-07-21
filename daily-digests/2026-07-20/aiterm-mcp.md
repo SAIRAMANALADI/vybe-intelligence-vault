@@ -1,13 +1,25 @@
 ---
-title: "kitepon-rgb/aiterm-mcp"
-category: "Orchestrator"
-tech_stack: ["Node.js", "TypeScript", "MCP (Model Context Protocol)", "Tmux", "PTY (Pseudo Terminal)", "NPM", "CI/CD (GitHub Actions)"]
+title: kitepon-rgb/aiterm-mcp
+category: daily-digests/2026-07-20
+tech_stack:
+- Node.js
+- TypeScript
+- MCP (Model Context Protocol)
+- Tmux
+- PTY (Pseudo Terminal)
+- NPM
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP server", "AI orchestration", "terminal automation", "agent delegation", "tmux integration"]
-source: "https://github.com/kitepon-rgb/aiterm-mcp"
-discovered_at: "2026-07-11T05:39:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- AI orchestration
+- terminal automation
+- agent delegation
+- tmux integration
+source: https://github.com/kitepon-rgb/aiterm-mcp
+discovered_at: '2026-07-11T05:39:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "pipeworx-io/mcp-alpaca"
-category: "Tooling"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "Alpaca Market Data API", "REST"]
+title: pipeworx-io/mcp-alpaca
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- Alpaca Market Data API
+- REST
 quality_score: 6
 rag_relevance: 7
-tags: ["stock market data", "MCP gateway", "real-time data", "Alpaca API", "AI agents"]
-source: "https://github.com/pipeworx-io/mcp-alpaca"
-discovered_at: "2026-07-19T19:13:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- stock market data
+- MCP gateway
+- real-time data
+- Alpaca API
+- AI agents
+source: https://github.com/pipeworx-io/mcp-alpaca
+discovered_at: '2026-07-19T19:13:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

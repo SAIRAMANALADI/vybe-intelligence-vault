@@ -12,7 +12,6 @@ resource_kind: tutorial
 importance: medium
 tags:
 - rag
-- reddit
 - web-crawled
 - youtube
 selection_reason:
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **xAI Grok-Imagine-Video**: Video generation model leveraging xAI's Grok architecture, with 1.3M community runs on Replicate.
-- **p-video-avatar**: Real-time avatar/lipsync synthesis model optimized for speed and cost efficiency, achieving 111.1K runs.
-- **Flux-2-Max**: High-fidelity image synthesis model from Black Forest Labs, with 3.7M runs and superior output quality.
+- **Nano-Banana-2**: Google's lightweight diffusion-based image generation model enabling real-time conversational editing, multi-image fusion, and character consistency with 15M+ public runs.
+- **Grok-Imagine-Video**: xAI's autoregressive video generation model leveraging transformer architecture for high-quality video synthesis, achieving 1.4M+ public runs.
+- **Flux-2-Max**: Black Forest Labs' high-fidelity latent diffusion model optimized for photorealistic image generation, surpassing prior
 
 ## Use Cases
 

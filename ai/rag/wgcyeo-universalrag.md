@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-20T03:43:33.282524+05:30'
-published_at: '2026-07-02T21:11:00Z'
+collected_at: '2026-07-21T22:14:57.429073+05:30'
+published_at: '2026-07-21T05:58:28Z'
 tags:
 - github-repo
 - python
 - rag
-stars: 173
+stars: 174
 language: Python
 status: active
 license: Apache-2.0
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-20T03:43:33.282524+05:30'
-last_seen: '2026-07-20T03:43:33.282524+05:30'
-last_checked: '2026-07-20T03:43:33.282524+05:30'
+first_seen: '2026-07-21T22:14:57.429073+05:30'
+last_seen: '2026-07-21T22:14:57.429073+05:30'
+last_checked: '2026-07-21T22:14:57.429073+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **UniversalRAG Framework**: Introduces a retrieval-augmented generation (RAG) system designed to handle diverse modalities (text, images, tables) and granularities (document, paragraph, sentence) in a unified architecture, leveraging modality-agnostic embeddings and fusion mechanisms.
+- **Multimodal RAG Framework**: Introduces a retrieval-augmented generation (RAG) system capable of handling diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence) in a unified architecture.
 
-- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval mechanism using a shared embedding space, enabling efficient retrieval of relevant information across heterogeneous data types without modality-specific encoders.
+- **ACL 2026 Oral Contribution**: Presents a novel approach for seamless integration of heterogeneous corpora into RAG pipelines, optimizing cross-modal retrieval and generation efficiency.
 
-- **Adaptive Granularity Handling**: Dynamically adjusts retrieval granularity based on query complexity and corpus structure, optimizing performance via hierarchical indexing and multi-granularity fusion strategies.
+- **Python Implementation**: Provides an open-source Python-based toolkit with modular components for modality-specific encoders, retrievers, and fusion mechanisms to enable universal RAG across varied data types.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: wgcyeo
-- Stars: 173
+- Stars: 174
 - Forks: 14
 - Language: Python
 - Topics: ai, llm, multimodal, rag
-- Last Updated: 2026-07-02T21:11:00Z
+- Last Updated: 2026-07-21T05:58:28Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-04-30T02:55:32Z

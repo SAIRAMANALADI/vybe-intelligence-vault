@@ -1,13 +1,24 @@
 ---
-title: "nshkrdotcom/amp_sdk"
-category: "Agent Framework"
-tech_stack: ["Elixir", "OTP", "JSON Streaming", "CLI Integration", "MCP Server", "Type Specifications"]
+title: nshkrdotcom/amp_sdk
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Elixir
+- OTP
+- JSON Streaming
+- CLI Integration
+- MCP Server
+- Type Specifications
 quality_score: 9
 rag_relevance: 8
-tags: ["Elixir SDK", "Amp CLI", "Agentic Coding", "Streaming JSON", "Thread Management"]
-source: "https://github.com/nshkrdotcom/amp_sdk"
-discovered_at: "2026-07-14T05:28:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Elixir SDK
+- Amp CLI
+- Agentic Coding
+- Streaming JSON
+- Thread Management
+source: https://github.com/nshkrdotcom/amp_sdk
+discovered_at: '2026-07-14T05:28:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "KyaniteHQ/linctl"
-category: "Tooling"
-tech_stack: ["Go", "Linear API", "OAuth 2.0", "CLI", "GraphQL", "TOML"]
+title: KyaniteHQ/linctl
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Go
+- Linear API
+- OAuth 2.0
+- CLI
+- GraphQL
+- TOML
 quality_score: 9
 rag_relevance: 7
-tags: ["Linear integration", "guarded writes", "OAuth security", "CLI tool", "agent-friendly"]
-source: "https://github.com/KyaniteHQ/linctl"
-discovered_at: "2026-07-13T10:24:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Linear integration
+- guarded writes
+- OAuth security
+- CLI tool
+- agent-friendly
+source: https://github.com/KyaniteHQ/linctl
+discovered_at: '2026-07-13T10:24:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

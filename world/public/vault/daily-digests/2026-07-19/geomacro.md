@@ -1,13 +1,28 @@
 ---
-title: "blocknine0/geomacro"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Solidity", "Supabase", "Groq (LLM)", "NewsAPI", "GitHub Actions", "Arc Blockchain", "Sign-In with Ethereum (SIWE)", "React", "Foundry (for testing)"]
+title: blocknine0/geomacro
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Solidity
+- Supabase
+- Groq (LLM)
+- NewsAPI
+- GitHub Actions
+- Arc Blockchain
+- Sign-In with Ethereum (SIWE)
+- React
+- Foundry (for testing)
 quality_score: 9
 rag_relevance: 8
-tags: ["prediction markets", "geopolitical risk", "autonomous agents", "on-chain settlement", "LLM-driven automation"]
-source: "https://github.com/blocknine0/geomacro"
-discovered_at: "2026-07-18T14:50:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- prediction markets
+- geopolitical risk
+- autonomous agents
+- on-chain settlement
+- LLM-driven automation
+source: https://github.com/blocknine0/geomacro
+discovered_at: '2026-07-18T14:50:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

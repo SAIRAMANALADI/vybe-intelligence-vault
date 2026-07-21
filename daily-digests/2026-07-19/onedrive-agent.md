@@ -1,13 +1,26 @@
 ---
-title: "nadeemmarshman/onedrive-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Anthropic API", "SendGrid", "JSON Schema", "State Machine", "Agile/Scrum", "RAID Log", "Unit/Integration Testing"]
+title: nadeemmarshman/onedrive-agent
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- Anthropic API
+- SendGrid
+- JSON Schema
+- State Machine
+- Agile/Scrum
+- RAID Log
+- Unit/Integration Testing
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agent", "OneDrive cleanup", "human-in-the-loop", "BA/PM discipline", "LLM tool calling"]
-source: "https://github.com/nadeemmarshman/onedrive-agent"
-discovered_at: "2026-07-19T21:51:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- OneDrive cleanup
+- human-in-the-loop
+- BA/PM discipline
+- LLM tool calling
+source: https://github.com/nadeemmarshman/onedrive-agent
+discovered_at: '2026-07-19T21:51:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

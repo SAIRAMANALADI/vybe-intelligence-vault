@@ -1,13 +1,24 @@
 ---
-title: "riktar/memledger"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "LLM (e.g., Qwen, OpenAI-compatible models)", "Ollama (for local model inference)", "CLI tools", "YAML (for configuration)"]
+title: riktar/memledger
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python
+- SQLite
+- LLM (e.g., Qwen, OpenAI-compatible models)
+- Ollama (for local model inference)
+- CLI tools
+- YAML (for configuration)
 quality_score: 9
 rag_relevance: 8
-tags: ["memory management", "auditable AI", "provenance tracking", "agent frameworks", "SQLite ledger"]
-source: "https://github.com/riktar/memledger"
-discovered_at: "2026-07-10T13:11:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory management
+- auditable AI
+- provenance tracking
+- agent frameworks
+- SQLite ledger
+source: https://github.com/riktar/memledger
+discovered_at: '2026-07-10T13:11:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

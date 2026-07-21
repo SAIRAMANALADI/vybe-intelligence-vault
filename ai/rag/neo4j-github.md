@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/neo4j
-published_at: '2026-07-09T09:50:48.220077+05:30'
-collected_at: '2026-07-09T09:50:48.220093+05:30'
+published_at: '2026-07-21T22:17:48.079147+05:30'
+collected_at: '2026-07-21T22:17:48.079165+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:neo4j-github
-first_seen: '2026-07-09T09:50:48.220093+05:30'
-last_seen: '2026-07-09T09:50:48.220093+05:30'
-last_checked: '2026-07-09T09:50:48.220093+05:30'
+first_seen: '2026-07-21T22:17:48.079165+05:30'
+last_seen: '2026-07-21T22:17:48.079165+05:30'
+last_checked: '2026-07-21T22:17:48.079165+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Neo4j** is a graph database management system with core Java-based implementations, including the primary `neo4j` repository (16.9k stars) and libraries like the **Graph Data Science (GDS) library** (803 stars) for graph algorithms.
+- **Neo4j Core Project**: Open-source graph database implemented in Java, supporting ACID transactions, Cypher query language, and native graph storage engine; primary repository (`neo4j/neo4j`) has 16.9k stars and 2.7k forks.
 
-- **Multi-language driver support** is provided via official Bolt protocol drivers for Java, JavaScript, Python, and Scala, enabling cross-platform graph database interactions.
+- **Multi-Language Driver Ecosystem**: Provides official Bolt protocol drivers for Java, JavaScript, Python, and other languages (e.g., `neo4j-java-driver`, `neo4j-python-driver`) enabling programmatic interaction with Neo4j instances.
 
-- **Additional tools** include the Neo4j Spark Connector (Scala, 321 stars) for Apache Spark integration, a **GraphRAG Python** library (1.2k stars) for retrieval-augmented generation, and TypeScript-based **Cypher language support** for query parsing.
+- **Graph Data Science & Integration Libraries**: Includes `graph-data-science` (Java-based graph algorithms library) and `neo4j-spark-connector` (Scala-based bidirectional Spark integration) for large-scale graph analytics and distributed processing.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-09T09:50:48.220077+05:30
+- Published: 2026-07-21T22:17:48.079147+05:30
 
 ## Related Tags
 

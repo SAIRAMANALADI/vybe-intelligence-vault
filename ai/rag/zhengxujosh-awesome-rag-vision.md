@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-07-20T03:42:58.187052+05:30'
+collected_at: '2026-07-21T22:14:22.411130+05:30'
 published_at: '2026-07-15T09:29:13Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-07-20T03:42:58.187052+05:30'
-last_seen: '2026-07-20T03:42:58.187052+05:30'
-last_checked: '2026-07-20T03:42:58.187052+05:30'
+first_seen: '2026-07-21T22:14:22.411130+05:30'
+last_seen: '2026-07-21T22:14:22.411130+05:30'
+last_checked: '2026-07-21T22:14:22.411130+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Repository aggregates state-of-the-art RAG techniques specifically tailored for Computer Vision applications, including multimodal retrieval and generation frameworks.
-- **Metadata**: 339 stars, 9 forks, last updated July 15, 2026; language unspecified but focuses on vision-language integration.
-- **Scope**: Encompasses advanced methods like cross-modal retrieval, visual grounding, and vision-language pretraining for enhanced generative tasks.
+- **Curated Resource**: A GitHub repository compiling advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)**, including methods integrating vision-language models (VLMs) and multimodal RAG systems.
+
+- **Scope & Focus**: Encompasses cutting-edge approaches such as **cross-modal retrieval**, **vision-language pretraining**, and **multimodal RAG architectures** for tasks like image captioning, visual question answering (VQA), and scene understanding.
+
+- **Maintenance & Updates**: Last updated on **July 15, 2026**, with 339 stars and 9 forks, indicating active community engagement and evolving contributions in the field.
 
 ## Why It Matters
 

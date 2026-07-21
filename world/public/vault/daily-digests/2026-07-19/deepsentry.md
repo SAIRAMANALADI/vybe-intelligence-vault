@@ -1,13 +1,28 @@
 ---
-title: "asaotomo/DeepSentry"
-category: "Tooling"
-tech_stack: ["Go", "LLM (Large Language Model) Integration", "SSH/Telnet/FTP Protocols", "YAML Configuration", "Markdown Report Generation", "Fleet Multi-Target Management", "AI Decision Engine", "Shell Command Execution", "File System Operations", "Network Scanning Tools"]
+title: asaotomo/DeepSentry
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Go
+- LLM (Large Language Model) Integration
+- SSH/Telnet/FTP Protocols
+- YAML Configuration
+- Markdown Report Generation
+- Fleet Multi-Target Management
+- AI Decision Engine
+- Shell Command Execution
+- File System Operations
+- Network Scanning Tools
 quality_score: 9
 rag_relevance: 7
-tags: ["AI Security Agent", "Automated Auditing", "Incident Response", "Multi-Target Management", "Natural Language Processing"]
-source: "https://github.com/asaotomo/DeepSentry"
-discovered_at: "2026-07-15T14:48:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Security Agent
+- Automated Auditing
+- Incident Response
+- Multi-Target Management
+- Natural Language Processing
+source: https://github.com/asaotomo/DeepSentry
+discovered_at: '2026-07-15T14:48:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

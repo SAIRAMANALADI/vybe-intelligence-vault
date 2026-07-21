@@ -1,13 +1,23 @@
 ---
-title: "Tamang4607/rustyhand"
-category: "Agent Framework"
-tech_stack: ["Rust", "LLM APIs", "MCP Server", "A2A Protocol", "Web Dashboard"]
+title: Tamang4607/rustyhand
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Rust
+- LLM APIs
+- MCP Server
+- A2A Protocol
+- Web Dashboard
 quality_score: 7
 rag_relevance: 6
-tags: ["AI agents", "autonomous agents", "multi-channel bots", "self-hosted", "Rust"]
-source: "https://github.com/Tamang4607/rustyhand"
-discovered_at: "2026-07-10T20:22:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- autonomous agents
+- multi-channel bots
+- self-hosted
+- Rust
+source: https://github.com/Tamang4607/rustyhand
+discovered_at: '2026-07-10T20:22:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

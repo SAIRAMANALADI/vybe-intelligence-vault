@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/github/codeql
-collected_at: '2026-07-08T14:27:25.843826+05:30'
-published_at: '2026-07-08T01:58:02Z'
+collected_at: '2026-07-20T20:12:07.617049+05:30'
+published_at: '2026-07-20T14:35:44Z'
 tags:
 - codeql
 - github-repo
 - rag
 - workflows
-stars: 9803
+stars: 9848
 language: CodeQL
 status: active
 license: MIT
 archived: false
 created_at: '2018-07-31T16:35:51Z'
-pushed_at: '2026-07-08T08:55:04Z'
+pushed_at: '2026-07-20T13:08:56Z'
 resource_id: github:github/codeql
-first_seen: '2026-07-08T14:27:25.843826+05:30'
-last_seen: '2026-07-08T14:27:25.843826+05:30'
-last_checked: '2026-07-08T14:27:25.843826+05:30'
+first_seen: '2026-07-20T20:12:07.617049+05:30'
+last_seen: '2026-07-20T20:12:07.617049+05:30'
+last_checked: '2026-07-20T20:12:07.617049+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **CodeQL Framework**: A semantic code analysis engine enabling security researchers to write custom queries (in QL) for vulnerability detection across multiple languages (e.g., C/C++, Java, Python, JavaScript) by leveraging abstract syntax trees (ASTs) and control/data flow analysis.
+- **CodeQL Framework**: A semantic code analysis engine enabling security researchers to write custom queries for vulnerability detection across multiple programming languages using declarative QL (Query Language).
 
-- **GitHub Integration**: Powers GitHub Advanced Security’s code scanning, providing automated vulnerability detection directly in repositories, and supports GitHub Codespaces for cloud-based analysis workflows.
+- **GitHub Integration**: Powers GitHub Advanced Security’s code scanning, providing automated security analysis directly within GitHub repositories and supporting CodeSpaces workflows.
 
-- **Open-Source Queries & Libraries**: Hosts a curated collection of community-driven and GitHub-maintained QL queries for common security flaws (e.g., SQLi, XSS, buffer overflows), with regular updates via the GitHub Security Lab.
+- **Extensible Query Library**: Includes a comprehensive set of built-in security queries (e.g., for CWE, OWASP) and allows community-driven contributions to expand vulnerability coverage.
 
 ## Why It Matters
 
@@ -42,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: github
-- Stars: 9803
-- Forks: 2013
+- Stars: 9848
+- Forks: 2024
 - Language: CodeQL
 - Topics: codeql, github-advanced-security, github-security-lab, semmle-ql, works-with-codespaces
-- Last Updated: 2026-07-08T01:58:02Z
+- Last Updated: 2026-07-20T14:35:44Z
 - License: MIT
 - Archived: No
 - Created At: 2018-07-31T16:35:51Z
-- Pushed At: 2026-07-08T08:55:04Z
+- Pushed At: 2026-07-20T13:08:56Z
 
 ## Possible Use Cases
 

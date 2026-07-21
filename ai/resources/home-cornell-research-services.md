@@ -3,20 +3,19 @@ title: Home | Cornell Research Services
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://researchservices.cornell.edu
-published_at: '2026-06-22T15:22:57.426733+05:30'
-collected_at: '2026-06-22T15:22:57.426753+05:30'
+source_url: https://researchservices.cornell.edu/
+published_at: '2026-07-21T17:01:15.688900+05:30'
+collected_at: '2026-07-21T17:01:15.688913+05:30'
 tags:
 - hackernews
 - paper
 - reddit
 - web-crawled
-- workflows
 status: active
 resource_id: blog:home-cornell-research-services
-first_seen: '2026-06-22T15:22:57.426753+05:30'
-last_seen: '2026-06-22T15:22:57.426753+05:30'
-last_checked: '2026-06-22T15:22:57.426753+05:30'
+first_seen: '2026-07-21T17:01:15.688913+05:30'
+last_seen: '2026-07-21T17:01:15.688913+05:30'
+last_checked: '2026-07-21T17:01:15.688913+05:30'
 health_score: 100
 ---
 
@@ -24,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Compliance & Safety Frameworks**: Cornell Research Services provides structured compliance tools for human/animal research (IRB/IACUC via RASS), export controls, conflict-of-interest (COI) reporting, and biosafety (IBC), alongside research security protocols for foreign collaborations.
+- **Compliance & Safety Frameworks**: Cornell Research Services provides centralized systems for regulatory compliance, including RASS (COI, IACUC, IBC, IRB, VetCare), export controls, and research security protocols for human/animal subjects, biohazards, and financial management.
 
-- **Proposal-to-Closeout Workflow**: End-to-end project lifecycle management includes proposal development (budgets, subawards, funding discovery), award finalization, financial tracking (WebFin2/RA Dashboard), modifications, and closeout procedures with audit-ready financials.
+- **Project Lifecycle Management**: Tools span proposal development (budgets, subawards, foreign collaboration disclosures), project execution (financial tracking via WebFin2/RA Dashboard, staffing, subaward management), and closeout (financial reconciliation, early termination).
 
-- **Specialized Research Infrastructure**: Access to institutional identifiers (DUNS/UEI), regulated material protocols (r/sNA, radiation), live animal management (Cayuse), and secure data services (Cornell Data Services), plus metrics dashboards for performance tracking.
+- **Data & Reporting Infrastructure**: Core systems include institutional profiles (DUNS/UEI), PI Dashboards, Research Financials, and metrics dashboards, alongside specialized tools like Cayuse Animal Management and IRB applications for live-subject research compliance.
 
 ## Why It Matters
 
@@ -38,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T15:22:57.426733+05:30
+- Published: 2026-07-21T17:01:15.688900+05:30
 
 ## Related Tags
 
@@ -46,8 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 - paper
 - reddit
 - web-crawled
-- workflows
 
 ## Source
 
-Original source: https://researchservices.cornell.edu
+Original source: https://researchservices.cornell.edu/

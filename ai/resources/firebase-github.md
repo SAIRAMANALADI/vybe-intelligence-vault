@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/firebase/
-published_at: '2026-07-18T16:55:37.327061+05:30'
-collected_at: '2026-07-18T16:55:37.327069+05:30'
+published_at: '2026-07-21T22:24:11.224658+05:30'
+collected_at: '2026-07-21T22:24:11.224676+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:firebase-github
-first_seen: '2026-07-18T16:55:37.327069+05:30'
-last_seen: '2026-07-18T16:55:37.327069+05:30'
-last_checked: '2026-07-18T16:55:37.327069+05:30'
+first_seen: '2026-07-21T22:24:11.224676+05:30'
+last_seen: '2026-07-21T22:24:11.224676+05:30'
+last_checked: '2026-07-21T22:24:11.224676+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- Firebase provides official SDKs and quickstart samples for Android (Kotlin), iOS (Swift), Web (TypeScript), Unity (C#), and C++ to integrate Firebase services into applications.
+- Firebase provides official SDKs for Android (Kotlin/Java), iOS (Swift/Obj-C), Web (TypeScript/JavaScript), Unity (C#), and C++ with open-source repositories under Apache-2.0 license.
 
-- The `firebase-ios-sdk` repository hosts the Firebase SDK for Apple platforms, containing 6.6k+ stars and 307 open issues, with support for Cloud Functions, Authentication, Firestore, and Realtime Database.
+- Key repositories include `firebase-android-sdk` (Java), `firebase-ios-sdk` (C++), `firebase-tools` (TypeScript CLI), and `flutterfire` (Dart plugins) with high community engagement (e.g., 12.2k stars for `functions-samples`).
 
-- Firebase maintains multiple sample repositories (e.g., `functions-samples`, `snippets-web`) demonstrating Cloud Functions use cases, testing methodologies, and platform-specific code snippets under the Apache-2.0 license.
+- Firebase maintains quickstart samples (`quickstart-android`, `quickstart-ios`, etc.) and UI libraries (`FirebaseUI-Android`) to demonstrate integration and accelerate development across platforms.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-18T16:55:37.327061+05:30
+- Published: 2026-07-21T22:24:11.224658+05:30
 
 ## Related Tags
 

@@ -1,13 +1,26 @@
 ---
-title: "rogue-shadowdancer/codex-hyperv-clean-room-plugin"
-category: "Tooling"
-tech_stack: ["PowerShell 5.1", "MCP (Model Context Protocol)", "JSON-RPC", "JSON Schema (Draft 2020-12)", "GPL-3.0", "Python (for validation only)", "Windows Hyper-V", "DPAPI"]
+title: rogue-shadowdancer/codex-hyperv-clean-room-plugin
+category: daily-digests/2026-07-20
+tech_stack:
+- PowerShell 5.1
+- MCP (Model Context Protocol)
+- JSON-RPC
+- JSON Schema (Draft 2020-12)
+- GPL-3.0
+- Python (for validation only)
+- Windows Hyper-V
+- DPAPI
 quality_score: 8
 rag_relevance: 7
-tags: ["Hyper-V", "sandboxed testing", "MCP plugin", "Windows automation", "evidence generation"]
-source: "https://github.com/rogue-shadowdancer/codex-hyperv-clean-room-plugin"
-discovered_at: "2026-07-15T08:06:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Hyper-V
+- sandboxed testing
+- MCP plugin
+- Windows automation
+- evidence generation
+source: https://github.com/rogue-shadowdancer/codex-hyperv-clean-room-plugin
+discovered_at: '2026-07-15T08:06:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

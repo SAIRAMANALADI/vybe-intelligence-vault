@@ -1,13 +1,28 @@
 ---
-title: "itcv-GmbH/cpp-mcp-sdk"
-category: "Tooling"
-tech_stack: ["C++17", "CMake", "Boost.Asio", "Boost.Beast", "Boost.Process", "jsoncons", "OpenSSL", "Catch2", "vcpkg", "RAII"]
+title: itcv-GmbH/cpp-mcp-sdk
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- C++17
+- CMake
+- Boost.Asio
+- Boost.Beast
+- Boost.Process
+- jsoncons
+- OpenSSL
+- Catch2
+- vcpkg
+- RAII
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "C++ SDK", "Model Context Protocol", "OAuth 2.1", "Streamable HTTP"]
-source: "https://github.com/itcv-GmbH/cpp-mcp-sdk"
-discovered_at: "2026-07-17T16:14:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- C++ SDK
+- Model Context Protocol
+- OAuth 2.1
+- Streamable HTTP
+source: https://github.com/itcv-GmbH/cpp-mcp-sdk
+discovered_at: '2026-07-17T16:14:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

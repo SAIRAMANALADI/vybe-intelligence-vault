@@ -1,13 +1,23 @@
 ---
-title: "Rumblingb/mcp-config-generator"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Stripe API", "JSON", "CLI"]
+title: Rumblingb/mcp-config-generator
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Stripe API
+- JSON
+- CLI
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "configuration", "agent-tools", "server-management", "AI-integration"]
-source: "https://github.com/Rumblingb/mcp-config-generator"
-discovered_at: "2026-07-13T06:15:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- configuration
+- agent-tools
+- server-management
+- AI-integration
+source: https://github.com/Rumblingb/mcp-config-generator
+discovered_at: '2026-07-13T06:15:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "duyet/duyet-mcp-server"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Hono.js", "Cloudflare Workers", "Cloudflare D1", "Drizzle ORM", "Jest", "Biome", "Model Context Protocol (MCP)"]
+title: duyet/duyet-mcp-server
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Hono.js
+- Cloudflare Workers
+- Cloudflare D1
+- Drizzle ORM
+- Jest
+- Biome
+- Model Context Protocol (MCP)
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP server", "AI assistant integration", "Cloudflare Workers", "Model Context Protocol", "Data retrieval"]
-source: "https://github.com/duyet/duyet-mcp-server"
-discovered_at: "2026-07-19T08:13:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- AI assistant integration
+- Cloudflare Workers
+- Model Context Protocol
+- Data retrieval
+source: https://github.com/duyet/duyet-mcp-server
+discovered_at: '2026-07-19T08:13:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -4,17 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://drive.google.com/drive/folders/1cc_Wdd8k7J5wUONBMvtfIZH_BaYvonym
-published_at: '2026-07-08T16:55:56.115181+05:30'
-collected_at: '2026-07-08T16:55:56.115191+05:30'
+published_at: '2026-07-21T14:27:30.314777+05:30'
+collected_at: '2026-07-21T14:27:30.314794+05:30'
 tags:
-- hackernews
 - reddit
 - web-crawled
 status: active
 resource_id: blog:2026-company-logos-external-google-drive
-first_seen: '2026-07-08T16:55:56.115191+05:30'
-last_seen: '2026-07-08T16:55:56.115191+05:30'
-last_checked: '2026-07-08T16:55:56.115191+05:30'
+first_seen: '2026-07-21T14:27:30.314794+05:30'
+last_seen: '2026-07-21T14:27:30.314794+05:30'
+last_checked: '2026-07-21T14:27:30.314794+05:30'
 health_score: 100
 ---
 
@@ -22,11 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Google Drive UI Elements**: The provided content is a Google Drive folder interface displaying assets related to LangChain and LangSmith, including logos, lockups, and framework assets dated between March 1–8.
-
-- **Technical Constraints**: The page requires JavaScript and a supported browser for full functionality; unsupported browsers trigger an upgrade prompt.
-
-- **Folder Contents**: Contains downloadable assets categorized under "Founder Photos," "LangChain and LangSmith Logos," "LangChain Community logo," "LangSmith Platform Product Lockups," and "Open Source Framework Logos."
+- **Drive Asset Repository**: Contains brand assets (logos, lockups) for LangChain, LangSmith, and open-source frameworks, last modified between March 1–8.
+- **Sorting & Access**: Files can be sorted by name, date modified, or type; requires Google account authentication for download.
+- **Browser Compatibility Warning**: Unsupported browser detected; upgrade required for full functionality.
 
 ## Why It Matters
 
@@ -36,11 +33,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-08T16:55:56.115181+05:30
+- Published: 2026-07-21T14:27:30.314777+05:30
 
 ## Related Tags
 
-- hackernews
 - reddit
 - web-crawled
 

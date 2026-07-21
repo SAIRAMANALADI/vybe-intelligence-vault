@@ -1,13 +1,30 @@
 ---
-title: "kevinpbuckley/VibeUE"
-category: "Tooling"
-tech_stack: ["Unreal Engine 5.8+", "Model Context Protocol (MCP)", "C++", "Python", "MCP Server", "ToolsetRegistry", "AgentSkill", "Performance Profiling", "Niagara", "MetaSound", "UMG", "Blueprints"]
+title: kevinpbuckley/VibeUE
+category: daily-digests/2026-07-20
+tech_stack:
+- Unreal Engine 5.8+
+- Model Context Protocol (MCP)
+- C++
+- Python
+- MCP Server
+- ToolsetRegistry
+- AgentSkill
+- Performance Profiling
+- Niagara
+- MetaSound
+- UMG
+- Blueprints
 quality_score: 9
 rag_relevance: 7
-tags: ["Unreal Engine", "AI Tooling", "MCP Expansion", "Performance Profiling", "Game Development"]
-source: "https://github.com/kevinpbuckley/VibeUE"
-discovered_at: "2026-07-15T02:12:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Unreal Engine
+- AI Tooling
+- MCP Expansion
+- Performance Profiling
+- Game Development
+source: https://github.com/kevinpbuckley/VibeUE
+discovered_at: '2026-07-15T02:12:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

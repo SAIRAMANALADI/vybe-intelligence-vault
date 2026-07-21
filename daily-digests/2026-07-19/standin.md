@@ -1,13 +1,32 @@
 ---
-title: "komaa-com/standin"
-category: "Orchestrator"
-tech_stack: ["Microsoft Teams", "WebSockets", "PCM Audio (16 kHz)", "HMAC Authentication", "Avatar Rendering", "Real-time Speech-to-Speech", "Streaming STT/TTS", "OpenClaw", "Hermes", "ElevenLabs", "LiveKit", "OpenAI Realtime", "Deepgram", "Cartesia"]
+title: komaa-com/standin
+category: daily-digests/2026-07-19
+tech_stack:
+- Microsoft Teams
+- WebSockets
+- PCM Audio (16 kHz)
+- HMAC Authentication
+- Avatar Rendering
+- Real-time Speech-to-Speech
+- Streaming STT/TTS
+- OpenClaw
+- Hermes
+- ElevenLabs
+- LiveKit
+- OpenAI Realtime
+- Deepgram
+- Cartesia
 quality_score: 8
 rag_relevance: 9
-tags: ["Microsoft Teams integration", "AI agent orchestration", "real-time dialogue", "avatar rendering", "multi-backend support"]
-source: "https://github.com/komaa-com/standin"
-discovered_at: "2026-07-19T08:13:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Microsoft Teams integration
+- AI agent orchestration
+- real-time dialogue
+- avatar rendering
+- multi-backend support
+source: https://github.com/komaa-com/standin
+discovered_at: '2026-07-19T08:13:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

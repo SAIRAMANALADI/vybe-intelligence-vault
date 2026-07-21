@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/github/codeql-cli-binaries/releases
-published_at: '2026-07-18T16:55:32.688769+05:30'
-collected_at: '2026-07-18T16:55:32.688776+05:30'
+published_at: '2026-07-21T01:36:16.795469+05:30'
+collected_at: '2026-07-21T01:36:16.795492+05:30'
 tags:
 - frontend_ui
 - web-crawled
 status: active
 resource_id: github:github/codeql-cli-binaries
-first_seen: '2026-07-18T16:55:32.688776+05:30'
-last_seen: '2026-07-18T16:55:32.688776+05:30'
-last_checked: '2026-07-18T16:55:32.688776+05:30'
+first_seen: '2026-07-21T01:36:16.795492+05:30'
+last_seen: '2026-07-21T01:36:16.795492+05:30'
+last_checked: '2026-07-21T01:36:16.795492+05:30'
 health_score: 100
 ---
 
@@ -21,14 +21,14 @@ health_score: 100
 
 ## Summary
 
-- **CodeQL CLI Binaries Repository**: Official GitHub repository (`github/codeql-cli-binaries`) providing pre-built binaries for the CodeQL CLI tool, including platform-specific (`codeql-PLATFORM.zip`) and multi-platform (`codeql.zip`) distributions.
+- **Repository**: Official GitHub repository for CodeQL CLI binaries (`github/codeql-cli-binaries`), providing pre-built binaries for CodeQL analysis tooling.
 
-- **Key Release Features**:
-  - **v2.26.1**: No user-facing changes (internal maintenance).
-  - **v2.26.0**: Optimized Git repository interactions by caching `git` tool availability checks.
-  - **v2.25.6**: Enhanced Git SHA-256 repository support and updated Eclipse Temurin OpenJDK to version 21.0.11.
+- **Key Releases**:
+  - **v2.26.1** (2026-07-15): No user-facing changes; compatible with `github/codeql@codeql-cli/v2.26.1`.
+  - **v2.26.0** (2026-07-08): Performance improvement by caching `git` tool availability checks.
+  - **v2.25.6** (2026-06-04): Enables CodeQL to interact with SHA-256 Git repositories; updates Eclipse Temurin OpenJDK to 21.0.11.
 
-- **Compatibility & Distribution**: Each release is compatible with specific CodeQL language packs (e.g., `github/codeql@codeql-cli/v2.26.1`) and provides signed, immutable releases with GPG verification for security.
+- **Distribution**: Provides platform-specific (`codeql-PLATFORM.zip`) and multi-platform (`codeql.zip`) binaries, with signed releases for integrity verification.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-18T16:55:32.688769+05:30
+- Published: 2026-07-21T01:36:16.795469+05:30
 
 ## Related Tags
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act
-published_at: '2026-07-08T14:27:12.508700+05:30'
-collected_at: '2026-07-08T14:27:12.508712+05:30'
+published_at: '2026-07-21T16:57:10.057830+05:30'
+collected_at: '2026-07-21T16:57:10.057844+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:digital-millennium-copyright-act-wikipedia
-first_seen: '2026-07-08T14:27:12.508712+05:30'
-last_seen: '2026-07-08T14:27:12.508712+05:30'
-last_checked: '2026-07-08T14:27:12.508712+05:30'
+first_seen: '2026-07-21T16:57:10.057844+05:30'
+last_seen: '2026-07-21T16:57:10.057844+05:30'
+last_checked: '2026-07-21T16:57:10.057844+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Legal Framework**: U.S. copyright law (1998) implementing WIPO treaties, criminalizing circumvention of DRM and access controls, with penalties for copyright infringement on the internet.
+- **Legal Framework**: Enacted in 1998 (Pub. L. 105-304), the DMCA amends Title 17 of the U.S. Code to implement WIPO treaties, criminalizing circumvention of DRM and access controls, regardless of infringement status.
 
-- **Liability Exemptions**: Introduces safe harbor provisions for ISPs and intermediaries (Title 17 U.S.C. § 512), shielding them from direct/indirect liability for user-generated infringing content.
+- **Liability Shield**: Introduces safe harbor provisions (17 U.S.C. § 512) limiting liability for online service providers (OSPs) for user-generated infringing content, conditional on compliance with takedown procedures.
 
-- **Amendments & Scope**: Modifies Title 17 U.S.C. to extend copyright reach, including §§ 1201–1205 (anti-circumvention) and § 1301–1332 (protection of vessel hull designs), while amending existing sections (e.g., 17 U.S.C. § 108 for library exemptions).
+- **Penalties & Enforcement**: Heightens penalties for copyright infringement online, mandates notice-and-takedown mechanisms, and establishes legal remedies for anti-circumvention violations.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T14:27:12.508700+05:30
+- Published: 2026-07-21T16:57:10.057830+05:30
 
 ## Related Tags
 

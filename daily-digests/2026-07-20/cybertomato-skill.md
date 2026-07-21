@@ -1,13 +1,21 @@
 ---
-title: "TomatoCodeBase/cybertomato-skill"
-category: "Tooling"
-tech_stack: ["Python", "AI Skills Framework", "ZCode"]
+title: TomatoCodeBase/cybertomato-skill
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- AI Skills Framework
+- ZCode
 quality_score: 3
 rag_relevance: 4
-tags: ["AI skills", "automation", "skill management", "ZCode", "open-source"]
-source: "https://github.com/TomatoCodeBase/cybertomato-skill"
-discovered_at: "2026-07-19T02:29:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI skills
+- automation
+- skill management
+- ZCode
+- open-source
+source: https://github.com/TomatoCodeBase/cybertomato-skill
+discovered_at: '2026-07-19T02:29:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

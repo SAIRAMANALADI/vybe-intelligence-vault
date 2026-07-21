@@ -1,13 +1,23 @@
 ---
-title: "callbk/finlight-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "OAuth 2.0", "HTTP/Streaming"]
+title: callbk/finlight-mcp
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- OAuth 2.0
+- HTTP/Streaming
 quality_score: 8
 rag_relevance: 9
-tags: ["financial news", "MCP server", "sentiment analysis", "entity tagging", "real-time data"]
-source: "https://github.com/callbk/finlight-mcp"
-discovered_at: "2026-07-13T21:55:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- financial news
+- MCP server
+- sentiment analysis
+- entity tagging
+- real-time data
+source: https://github.com/callbk/finlight-mcp
+discovered_at: '2026-07-13T21:55:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "KYCgrayson/APPAI"
-category: "SaaS Template"
-tech_stack: ["Next.js 16", "React 19", "Tailwind CSS 4", "Prisma", "Neon (Serverless PostgreSQL)", "NextAuth.js", "next-intl", "TypeScript"]
+title: KYCgrayson/APPAI
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Next.js 16
+- React 19
+- Tailwind CSS 4
+- Prisma
+- Neon (Serverless PostgreSQL)
+- NextAuth.js
+- next-intl
+- TypeScript
 quality_score: 9
 rag_relevance: 7
-tags: ["landing page generator", "AI automation", "hosting platform", "privacy policy generator", "terms of service generator"]
-source: "https://github.com/KYCgrayson/APPAI"
-discovered_at: "2026-07-11T02:27:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- landing page generator
+- AI automation
+- hosting platform
+- privacy policy generator
+- terms of service generator
+source: https://github.com/KYCgrayson/APPAI
+discovered_at: '2026-07-11T02:27:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

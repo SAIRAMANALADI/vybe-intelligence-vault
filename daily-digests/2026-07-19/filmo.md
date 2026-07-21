@@ -1,13 +1,31 @@
 ---
-title: "denniswanglabs/filmo"
-category: "Tooling"
-tech_stack: ["Nous Hermes", "NVIDIA Nemotron", "NVIDIA NemoClaw", "Stripe", "Next.js", "Remotion", "ElevenLabs", "ffmpeg", "Playwright", "PostgreSQL", "Hetzner VM", "Railway", "OpenRouter"]
+title: denniswanglabs/filmo
+category: daily-digests/2026-07-19
+tech_stack:
+- Nous Hermes
+- NVIDIA Nemotron
+- NVIDIA NemoClaw
+- Stripe
+- Next.js
+- Remotion
+- ElevenLabs
+- ffmpeg
+- Playwright
+- PostgreSQL
+- Hetzner VM
+- Railway
+- OpenRouter
 quality_score: 9
 rag_relevance: 7
-tags: ["AI video generation", "agentic automation", "product launch", "conversion optimization", "Stripe integration"]
-source: "https://github.com/denniswanglabs/filmo"
-discovered_at: "2026-07-17T05:41:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI video generation
+- agentic automation
+- product launch
+- conversion optimization
+- Stripe integration
+source: https://github.com/denniswanglabs/filmo
+discovered_at: '2026-07-17T05:41:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

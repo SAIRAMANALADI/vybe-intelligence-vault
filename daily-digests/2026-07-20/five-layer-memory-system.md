@@ -1,13 +1,24 @@
 ---
-title: "juventini10/Five-layer-memory-system"
-category: "Orchestrator"
-tech_stack: ["Python", "Markdown", "HTML", "Shell Scripting", "AI Agent Frameworks (WorkBuddy, Trae, QClaw)", "File System Watchers (fswatch, FileSystemWatcher)"]
+title: juventini10/Five-layer-memory-system
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- Markdown
+- HTML
+- Shell Scripting
+- AI Agent Frameworks (WorkBuddy, Trae, QClaw)
+- File System Watchers (fswatch, FileSystemWatcher)
 quality_score: 8
 rag_relevance: 7
-tags: ["memory system", "AI personalization", "structured data", "user profiling", "agent orchestration"]
-source: "https://github.com/juventini10/Five-layer-memory-system"
-discovered_at: "2026-07-19T20:44:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory system
+- AI personalization
+- structured data
+- user profiling
+- agent orchestration
+source: https://github.com/juventini10/Five-layer-memory-system
+discovered_at: '2026-07-19T20:44:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

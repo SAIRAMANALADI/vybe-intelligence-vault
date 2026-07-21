@@ -31,8 +31,8 @@ selection_reason:
 ## Summary
 
 - **Operational Status**: All systems (scite.ai, MCP, API) are fully operational with no reported issues.
-- **Monitoring**: Real-time status tracking available via [status.scite.ai](https://status.scite.ai/history).
-- **Contact**: Support via [customersupport@researchsolutions.com](mailto:customersupport@researchsolutions.com) for issues or updates.
+- **Monitoring**: Continuous system status tracking via [status.scite.ai](https://status.scite.ai/history).
+- **Contact/Support**: Issues can be reported to `customersupport@researchsolutions.com`; updates available via subscription.
 
 ## Use Cases
 

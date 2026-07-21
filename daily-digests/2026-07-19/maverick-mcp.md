@@ -1,13 +1,28 @@
 ---
-title: "wshobson/maverick-mcp"
-category: "Agent Framework"
-tech_stack: ["Python", "FastMCP", "TA-Lib", "Redis", "SQLAlchemy", "Tiingo API", "VectorBT", "uv", "PostgreSQL", "SQLite"]
+title: wshobson/maverick-mcp
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- FastMCP
+- TA-Lib
+- Redis
+- SQLAlchemy
+- Tiingo API
+- VectorBT
+- uv
+- PostgreSQL
+- SQLite
 quality_score: 9
 rag_relevance: 7
-tags: ["financial analysis", "MCP server", "stock screening", "portfolio optimization", "Claude Desktop integration"]
-source: "https://github.com/wshobson/maverick-mcp"
-discovered_at: "2026-07-19T13:17:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- financial analysis
+- MCP server
+- stock screening
+- portfolio optimization
+- Claude Desktop integration
+source: https://github.com/wshobson/maverick-mcp
+discovered_at: '2026-07-19T13:17:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

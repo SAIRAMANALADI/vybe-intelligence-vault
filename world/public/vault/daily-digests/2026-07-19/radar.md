@@ -1,13 +1,26 @@
 ---
-title: "skyhook-io/radar"
-category: "UI Component"
-tech_stack: ["Go", "Kubernetes API", "React", "TypeScript", "Helm", "MCP (Model Context Protocol)", "SSE (Server-Sent Events)", "SQLite"]
+title: skyhook-io/radar
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Go
+- Kubernetes API
+- React
+- TypeScript
+- Helm
+- MCP (Model Context Protocol)
+- SSE (Server-Sent Events)
+- SQLite
 quality_score: 9
 rag_relevance: 8
-tags: ["Kubernetes", "UI", "MCP", "Helm", "Real-time Monitoring"]
-source: "https://github.com/skyhook-io/radar"
-discovered_at: "2026-07-12T21:47:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Kubernetes
+- UI
+- MCP
+- Helm
+- Real-time Monitoring
+source: https://github.com/skyhook-io/radar
+discovered_at: '2026-07-12T21:47:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "MarvinRey7879/patternfetch-client"
-category: "Tooling"
-tech_stack: ["JavaScript", "TypeScript", "REST API", "MCP (Model Context Protocol)", "Stripe (billing)", "Binance API (crypto data)", "Yahoo Finance API (stocks/ETFs)", "Node.js"]
+title: MarvinRey7879/patternfetch-client
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- JavaScript
+- TypeScript
+- REST API
+- MCP (Model Context Protocol)
+- Stripe (billing)
+- Binance API (crypto data)
+- Yahoo Finance API (stocks/ETFs)
+- Node.js
 quality_score: 9
 rag_relevance: 10
-tags: ["market data", "AI agents", "pattern detection", "token optimization", "financial analysis"]
-source: "https://github.com/MarvinRey7879/patternfetch-client"
-discovered_at: "2026-07-18T14:50:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- market data
+- AI agents
+- pattern detection
+- token optimization
+- financial analysis
+source: https://github.com/MarvinRey7879/patternfetch-client
+discovered_at: '2026-07-18T14:50:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

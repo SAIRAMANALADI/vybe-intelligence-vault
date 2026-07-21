@@ -1,13 +1,32 @@
 ---
-title: "averatec0773/beatos"
-category: "Tooling"
-tech_stack: ["TypeScript", "React", "Electron", "Python", "SQLite", "Essentia", "librosa", "MCP (Model Context Protocol)", "Claude Code", "ChatGPT", "DeepSeek", "WebGL", "FFmpeg", "Playwright"]
+title: averatec0773/beatos
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- React
+- Electron
+- Python
+- SQLite
+- Essentia
+- librosa
+- MCP (Model Context Protocol)
+- Claude Code
+- ChatGPT
+- DeepSeek
+- WebGL
+- FFmpeg
+- Playwright
 quality_score: 9
 rag_relevance: 7
-tags: ["beat management", "AI-assisted tagging", "local-first", "audio metadata", "publishing automation"]
-source: "https://github.com/averatec0773/beatos"
-discovered_at: "2026-07-12T23:52:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- beat management
+- AI-assisted tagging
+- local-first
+- audio metadata
+- publishing automation
+source: https://github.com/averatec0773/beatos
+discovered_at: '2026-07-12T23:52:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

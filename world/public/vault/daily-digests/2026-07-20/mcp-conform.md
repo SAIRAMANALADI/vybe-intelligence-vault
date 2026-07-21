@@ -1,13 +1,23 @@
 ---
-title: "SuperMarioYL/mcp-conform"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Zero-Touch OAuth", "CLI"]
+title: SuperMarioYL/mcp-conform
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Zero-Touch OAuth
+- CLI
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "conformance", "validation", "OAuth", "cross-client"]
-source: "https://github.com/SuperMarioYL/mcp-conform"
-discovered_at: "2026-07-17T08:07:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- conformance
+- validation
+- OAuth
+- cross-client
+source: https://github.com/SuperMarioYL/mcp-conform
+discovered_at: '2026-07-17T08:07:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

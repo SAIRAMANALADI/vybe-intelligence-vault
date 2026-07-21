@@ -1,13 +1,30 @@
 ---
-title: "erangross27/intellicare-platform"
-category: "Orchestrator"
-tech_stack: ["Claude Opus 4.8", "Node.js", "React", "MongoDB", "Express", "ElevenLabs", "Socket.IO", "Anthropic API", "DICOM Parser", "OpenFDA", "RxNorm", "DailyMed"]
+title: erangross27/intellicare-platform
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Claude Opus 4.8
+- Node.js
+- React
+- MongoDB
+- Express
+- ElevenLabs
+- Socket.IO
+- Anthropic API
+- DICOM Parser
+- OpenFDA
+- RxNorm
+- DailyMed
 quality_score: 9
 rag_relevance: 7
-tags: ["clinical AI", "patient management", "healthcare automation", "multi-tenant", "HIPAA compliant"]
-source: "https://github.com/erangross27/intellicare-platform"
-discovered_at: "2026-07-11T17:54:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- clinical AI
+- patient management
+- healthcare automation
+- multi-tenant
+- HIPAA compliant
+source: https://github.com/erangross27/intellicare-platform
+discovered_at: '2026-07-11T17:54:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

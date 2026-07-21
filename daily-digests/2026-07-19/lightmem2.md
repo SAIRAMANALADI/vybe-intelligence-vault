@@ -1,13 +1,26 @@
 ---
-title: "zjunlp/LightMem2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Python", "Node.js", "pnpm", "MCP (Model Context Protocol)", "OpenClaw", "Codex CLI", "Claude Code"]
+title: zjunlp/LightMem2
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Python
+- Node.js
+- pnpm
+- MCP (Model Context Protocol)
+- OpenClaw
+- Codex CLI
+- Claude Code
 quality_score: 9
 rag_relevance: 8
-tags: ["memory management", "context optimization", "long-running agents", "cost reduction", "LLM tooling"]
-source: "https://github.com/zjunlp/LightMem2"
-discovered_at: "2026-07-18T15:55:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory management
+- context optimization
+- long-running agents
+- cost reduction
+- LLM tooling
+source: https://github.com/zjunlp/LightMem2
+discovered_at: '2026-07-18T15:55:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

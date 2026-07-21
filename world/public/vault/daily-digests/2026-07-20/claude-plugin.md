@@ -1,13 +1,23 @@
 ---
-title: "pobo-builder/claude-plugin"
-category: "Tooling"
-tech_stack: ["Claude Code", "MCP (Model Context Protocol)", "OAuth", "HTTP API", "E-commerce platforms (Shopify, WooCommerce, PrestaShop, etc.)"]
+title: pobo-builder/claude-plugin
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Claude Code
+- MCP (Model Context Protocol)
+- OAuth
+- HTTP API
+- E-commerce platforms (Shopify, WooCommerce, PrestaShop, etc.)
 quality_score: 7
 rag_relevance: 6
-tags: ["Claude Code", "e-commerce automation", "AI styling", "product labeling", "MCP plugin"]
-source: "https://github.com/pobo-builder/claude-plugin"
-discovered_at: "2026-07-16T18:05:52Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Claude Code
+- e-commerce automation
+- AI styling
+- product labeling
+- MCP plugin
+source: https://github.com/pobo-builder/claude-plugin
+discovered_at: '2026-07-16T18:05:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

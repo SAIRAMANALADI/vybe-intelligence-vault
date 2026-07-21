@@ -1,13 +1,24 @@
 ---
-title: "Ceki-me/issues-ceki-skill"
-category: "Tooling"
-tech_stack: ["Shell", "JavaScript/TypeScript", "CLI", "Node.js", "@ceki/sdk", "jq"]
+title: Ceki-me/issues-ceki-skill
+category: daily-digests/2026-07-20
+tech_stack:
+- Shell
+- JavaScript/TypeScript
+- CLI
+- Node.js
+- '@ceki/sdk'
+- jq
 quality_score: 7
 rag_relevance: 6
-tags: ["task management", "contract events", "AI agent workflows", "CLI integration", "lifecycle tracking"]
-source: "https://github.com/Ceki-me/issues-ceki-skill"
-discovered_at: "2026-07-19T17:58:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- task management
+- contract events
+- AI agent workflows
+- CLI integration
+- lifecycle tracking
+source: https://github.com/Ceki-me/issues-ceki-skill
+discovered_at: '2026-07-19T17:58:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

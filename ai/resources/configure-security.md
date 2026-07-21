@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/security/
-published_at: '2026-07-20T03:49:27.367235+05:30'
-collected_at: '2026-07-20T03:49:27.367252+05:30'
+published_at: '2026-07-21T22:19:34.860281+05:30'
+collected_at: '2026-07-21T22:19:34.860298+05:30'
 tags:
 - frontend_ui
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-security
-first_seen: '2026-07-20T03:49:27.367252+05:30'
-last_seen: '2026-07-20T03:49:27.367252+05:30'
-last_checked: '2026-07-20T03:49:27.367252+05:30'
+first_seen: '2026-07-21T22:19:34.860298+05:30'
+last_seen: '2026-07-21T22:19:34.860298+05:30'
+last_checked: '2026-07-21T22:19:34.860298+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Default Security Policy**: Hugo enforces a restrictive security policy by default, blocking `os/exec`, remote communication, and other sensitive operations unless explicitly allowed via allowlists, with detailed failure messages for disallowed actions.
+- **Security Policy**: Hugo enforces a default-deny security policy via allowlists for `os/exec`, remote communication, and environment access, failing builds if restricted operations are attempted without explicit permission.
 
-- **Configurable Allowlists**: Security settings are configured via regex-based allowlists for content types (`allowContent`), executables (`exec.allow`), environment variables (`exec.osEnv`, `funcs.getenv`), HTTP methods/URLs (`http.methods`, `http.urls`), and Node.js permissions (`node.permissions`), with negation rules (`!`) overriding allow rules.
+- **Configuration Structure**: Security settings are defined via regex-based allowlists for content types (`allowContent`), executables (`exec.allow`), OS env vars (`exec.osEnv`/`funcs.getenv`), HTTP methods/URLs (`http.methods`/`urls`), and Node.js permissions (`node.permissions.*`).
 
-- **Environment Overrides**: Security policies can be dynamically adjusted via environment variables (e.g., `HUGO_SECURITY_HTTP_URLS=none` to block all remote URLs) or disabled entirely by setting allowlists to `none`.
+- **Negation & Overrides**: Deny rules (prefixed with `!`) take precedence; allowlists can be negated entirely (e.g., `urls = ['.*', '! ^https?://evil\.example\.com']`), and security settings can be overridden via `HUGO_SECURITY_*` environment variables.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-20T03:49:27.367235+05:30
+- Published: 2026-07-21T22:19:34.860281+05:30
 
 ## Related Tags
 

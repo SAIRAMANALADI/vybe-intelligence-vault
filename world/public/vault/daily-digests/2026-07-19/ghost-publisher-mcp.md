@@ -1,13 +1,23 @@
 ---
-title: "BoraGkc/ghost-publisher-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Ghost Admin API", "REST API"]
+title: BoraGkc/ghost-publisher-mcp
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Ghost Admin API
+- REST API
 quality_score: 8
 rag_relevance: 7
-tags: ["Ghost CMS", "MCP server", "content publishing", "AI workflow", "static site generation"]
-source: "https://github.com/BoraGkc/ghost-publisher-mcp"
-discovered_at: "2026-07-19T21:51:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Ghost CMS
+- MCP server
+- content publishing
+- AI workflow
+- static site generation
+source: https://github.com/BoraGkc/ghost-publisher-mcp
+discovered_at: '2026-07-19T21:51:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

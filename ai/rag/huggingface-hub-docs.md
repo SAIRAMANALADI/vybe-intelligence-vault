@@ -4,18 +4,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/huggingface/hub-docs/blob/main/docs/hub/spaces.md
-published_at: '2026-07-20T03:48:20.473409+05:30'
-collected_at: '2026-07-20T03:48:20.473423+05:30'
+published_at: '2026-07-21T19:59:22.521880+05:30'
+collected_at: '2026-07-21T19:59:22.521893+05:30'
 tags:
 - creative_dev
 - rag
+- reddit
 - scripts
 - web-crawled
+- workflows
 status: active
 resource_id: github:huggingface/hub-docs
-first_seen: '2026-07-20T03:48:20.473423+05:30'
-last_seen: '2026-07-20T03:48:20.473423+05:30'
-last_checked: '2026-07-20T03:48:20.473423+05:30'
+first_seen: '2026-07-21T19:59:22.521893+05:30'
+last_seen: '2026-07-21T19:59:22.521893+05:30'
+last_checked: '2026-07-21T19:59:22.521893+05:30'
 health_score: 100
 ---
 
@@ -23,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting via integrated SDKs (Gradio, Docker, static HTML/JS) or custom Python/Docker configurations, with optional GPU acceleration for high-performance workloads.
+- **Hosting & Integration**: Hugging Face Spaces enables deployment of ML demo apps directly on user/organization profiles via Gradio SDK (Python), Dockerfiles, or static JS/HTML, supporting GPU/accelerated hardware upgrades.
 
-- **Multi-Format Support**: Supports Gradio for rapid Python-based UI development, arbitrary Dockerfiles for full-stack customization, and static Spaces for lightweight HTML/JS deployments.
+- **Customization & Workflows**: Supports dependency management, GitHub Actions integration, and advanced configurations (e.g., OpenCV, storage limits), with options for embedding Spaces or adding them to academic platforms like ArXiv.
 
-- **Advanced Features**: Includes GPU upgrades, dependency management, GitHub Actions integration for CI/CD, and disk/storage monitoring, with embedded documentation for setup, configuration, and embedding.
+- **Multi-Format SDKs**: Provides specialized SDKs for Gradio (rapid prototyping), Docker (full flexibility), static HTML/JS (frontend-only), and custom Python (extended functionality), with detailed documentation and changelog for version tracking.
 
 ## Why It Matters
 
@@ -37,14 +39,16 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T03:48:20.473409+05:30
+- Published: 2026-07-21T19:59:22.521880+05:30
 
 ## Related Tags
 
 - creative_dev
 - rag
+- reddit
 - scripts
 - web-crawled
+- workflows
 
 ## Source
 

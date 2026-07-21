@@ -1,13 +1,23 @@
 ---
-title: "anatolykoptev/go-enriche"
-category: "Tooling"
-tech_stack: ["Go", "HTTP Fetching", "Structured Data Parsing", "Regex Extraction", "Schema.org"]
+title: anatolykoptev/go-enriche
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Go
+- HTTP Fetching
+- Structured Data Parsing
+- Regex Extraction
+- Schema.org
 quality_score: 8
 rag_relevance: 9
-tags: ["web scraping", "content enrichment", "structured data", "schema.org", "text extraction"]
-source: "https://github.com/anatolykoptev/go-enriche"
-discovered_at: "2026-07-18T14:50:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web scraping
+- content enrichment
+- structured data
+- schema.org
+- text extraction
+source: https://github.com/anatolykoptev/go-enriche
+discovered_at: '2026-07-18T14:50:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

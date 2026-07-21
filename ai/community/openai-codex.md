@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: github:openai/codex
 first_seen: '2026-07-19T16:15:05.801504+05:30'
 last_seen: '2026-07-20T03:40:58.611156+05:30'
 last_checked: '2026-07-20T03:40:58.611156+05:30'
 health_score: 100
 ---
+
 
 # OpenAI reduces Codex Model Context Size from 372k to 272k
 

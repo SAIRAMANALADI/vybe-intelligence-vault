@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/promptflow-rag-project-template
-collected_at: '2026-07-20T03:42:18.168479+05:30'
-published_at: '2026-07-17T11:47:29Z'
+collected_at: '2026-07-21T22:13:42.487167+05:30'
+published_at: '2026-07-21T11:30:26Z'
 tags:
 - benchmark
 - github-repo
 - jupyter notebook
 - rag
 - workflows
-stars: 59
+stars: 60
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-12-14T01:47:16Z'
 pushed_at: '2024-09-06T22:11:58Z'
 resource_id: github:microsoft/promptflow-rag-project-template
-first_seen: '2026-07-20T03:42:18.168479+05:30'
-last_seen: '2026-07-20T03:42:18.168479+05:30'
-last_checked: '2026-07-20T03:42:18.168479+05:30'
+first_seen: '2026-07-21T22:13:42.487167+05:30'
+last_seen: '2026-07-21T22:13:42.487167+05:30'
+last_checked: '2026-07-21T22:13:42.487167+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **End-to-End RAG Pipeline**: Demonstrates Retrieval-Augmented Generation (RAG) workflows using **Promptflow**, integrating development, evaluation, experimentation, and deployment phases.
-
-- **Multi-Search Backend Support**: Implements retrieval via **CosmosDB**, **PostgreSQL**, and **Azure AI Search**, showcasing heterogeneous data source integration for RAG systems.
-
-- **Notebook-Based Implementation**: Provides a **Jupyter Notebook**-centric template for reproducible RAG experimentation, with modular components for prompt engineering, evaluation, and deployment.
+- **End-to-End RAG Pipeline**: Demonstrates Retrieval-Augmented Generation (RAG) workflow including development, evaluation, experimentation, and deployment using **Promptflow**.
+- **Multi-Search Backend Integration**: Supports **CosmosDB, PostgreSQL, and Azure AI Search** as vector databases for retrieval.
+- **Jupyter Notebook-Based**: Provides a structured template in Jupyter Notebook format for reproducibility and experimentation.
 
 ## Why It Matters
 
@@ -43,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: microsoft
-- Stars: 59
+- Stars: 60
 - Forks: 11
 - Language: Jupyter Notebook
 - Topics: None
-- Last Updated: 2026-07-17T11:47:29Z
+- Last Updated: 2026-07-21T11:30:26Z
 - License: MIT
 - Archived: No
 - Created At: 2023-12-14T01:47:16Z

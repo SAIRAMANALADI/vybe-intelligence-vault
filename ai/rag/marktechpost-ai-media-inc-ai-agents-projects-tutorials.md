@@ -4,26 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
-collected_at: '2026-07-20T03:43:48.345937+05:30'
-published_at: '2026-07-19T22:02:05Z'
+collected_at: '2026-07-21T22:15:12.529552+05:30'
+published_at: '2026-07-21T16:20:49Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
-- scripts
 - workflows
-stars: 2803
+stars: 2811
 language: Jupyter Notebook
 status: active
 archived: false
 created_at: '2025-05-15T09:00:54Z'
-pushed_at: '2026-07-19T17:09:18Z'
+pushed_at: '2026-07-20T17:49:29Z'
 resource_id: github:marktechpost-ai-media-inc/ai-agents-projects-tutorials
-first_seen: '2026-07-20T03:43:48.345937+05:30'
-last_seen: '2026-07-20T03:43:48.345937+05:30'
-last_checked: '2026-07-20T03:43:48.345937+05:30'
+first_seen: '2026-07-21T22:15:12.529552+05:30'
+last_seen: '2026-07-21T22:15:12.529552+05:30'
+last_checked: '2026-07-21T22:15:12.529552+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent architectures**: Repository focuses on systems integrating multiple AI agents with specialized skills (e.g., planning, reasoning loops) for complex workflows, emphasizing agentic AI development frameworks and modular agent interactions.
-
-- **Memory & reasoning integration**: Tutorials demonstrate techniques for equipping agents with persistent memory and recursive reasoning loops, enabling adaptive decision-making and context-aware task execution in agentic RAG (Retrieval-Augmented Generation) workflows.
-
-- **Practical implementations**: Provides Jupyter Notebook-based projects showcasing agentic coding, workflow automation, and framework-specific implementations (e.g., agentic engineering tools) for real-world AI agent deployment.
+- Repository focuses on **multi-agent systems**, **memory management**, **planning**, and **reasoning loops** in AI agent development.
+- Contains **Jupyter Notebooks** covering **agentic AI frameworks**, **RAG (Retrieval-Augmented Generation)**, and **agentic workflows**.
+- Last updated **July 21, 2026**; 2,811 stars, 613 forks; topics include **agentic coding**, **AI agent engineering**, and **agent skills**.
 
 ## Why It Matters
 
@@ -44,14 +40,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: MARKTECHPOST-AI-MEDIA-INC
-- Stars: 2803
-- Forks: 612
+- Stars: 2811
+- Forks: 613
 - Language: Jupyter Notebook
 - Topics: agent-skills, agentic-ai, agentic-ai-development, agentic-coding, agentic-engineering, agentic-framework, agentic-rag, agentic-workflow, ai, aiagent, aiagents
-- Last Updated: 2026-07-19T22:02:05Z
+- Last Updated: 2026-07-21T16:20:49Z
 - Archived: No
 - Created At: 2025-05-15T09:00:54Z
-- Pushed At: 2026-07-19T17:09:18Z
+- Pushed At: 2026-07-20T17:49:29Z
 
 ## Possible Use Cases
 

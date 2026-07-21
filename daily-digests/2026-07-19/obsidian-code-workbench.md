@@ -1,13 +1,25 @@
 ---
-title: "vitaly-andr/obsidian-code-workbench"
-category: "Tooling"
-tech_stack: ["TypeScript", "Obsidian Plugin API", "Claude Code CLI", "Tree-sitter", "Language Servers (LSP)", "Git", "Node.js"]
+title: vitaly-andr/obsidian-code-workbench
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Obsidian Plugin API
+- Claude Code CLI
+- Tree-sitter
+- Language Servers (LSP)
+- Git
+- Node.js
 quality_score: 9
 rag_relevance: 7
-tags: ["Obsidian", "AI-assisted editing", "Code editor", "Git integration", "Claude integration"]
-source: "https://github.com/vitaly-andr/obsidian-code-workbench"
-discovered_at: "2026-07-18T09:24:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Obsidian
+- AI-assisted editing
+- Code editor
+- Git integration
+- Claude integration
+source: https://github.com/vitaly-andr/obsidian-code-workbench
+discovered_at: '2026-07-18T09:24:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

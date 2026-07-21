@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.cloudflare.com/careers/jobs/?department=Technology+Research
-published_at: '2026-07-07T15:40:33.570686+05:30'
-collected_at: '2026-07-07T15:40:33.570696+05:30'
+published_at: '2026-07-21T16:57:57.883064+05:30'
+collected_at: '2026-07-21T16:57:57.883078+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:careers-at-cloudflare-a-open-positions-cloudflare
-first_seen: '2026-07-07T15:40:33.570696+05:30'
-last_seen: '2026-07-07T15:40:33.570696+05:30'
-last_checked: '2026-07-07T15:40:33.570696+05:30'
+first_seen: '2026-07-21T16:57:57.883078+05:30'
+last_seen: '2026-07-21T16:57:57.883078+05:30'
+last_checked: '2026-07-21T16:57:57.883078+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Work Model Evolution**: Cloudflare is transitioning from a globally distributed in-office model to a more distributed hybrid work model, emphasizing equitable and inclusive workplace practices.
+- **Cloudflare's Evolution**: Transitioning from a globally distributed in-office model to a more distributed hybrid model, emphasizing equitable and inclusive workplace practices.
 
-- **Mission-Driven Culture**: The company prioritizes hiring curious, mission-minded individuals committed to addressing the Internet's most complex challenges.
+- **Mission-Driven Culture**: Focuses on hiring curious, mission-minded individuals committed to addressing the Internet's most challenging problems.
 
-- **Open Roles Focus**: Cloudflare actively recruits talent to contribute to its goal of building a better Internet, with multiple positions currently available.
+- **Career Opportunities**: Offers roles aimed at building a better Internet, with a commitment to employee growth and support.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-07T15:40:33.570686+05:30
+- Published: 2026-07-21T16:57:57.883064+05:30
 
 ## Related Tags
 

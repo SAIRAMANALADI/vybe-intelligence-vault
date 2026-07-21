@@ -1,13 +1,24 @@
 ---
-title: "FutronPrime/orion-os"
-category: "Agent Framework"
-tech_stack: ["Shell", "Markdown", "Prompt Engineering", "Agent Orchestration", "RAG (Retrieval-Augmented Generation)", "System Prompting"]
+title: FutronPrime/orion-os
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Shell
+- Markdown
+- Prompt Engineering
+- Agent Orchestration
+- RAG (Retrieval-Augmented Generation)
+- System Prompting
 quality_score: 8
 rag_relevance: 9
-tags: ["AI agent", "model-agnostic", "anti-hallucination", "research-forcing", "LLM discipline"]
-source: "https://github.com/FutronPrime/orion-os"
-discovered_at: "2026-07-17T20:05:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- model-agnostic
+- anti-hallucination
+- research-forcing
+- LLM discipline
+source: https://github.com/FutronPrime/orion-os
+discovered_at: '2026-07-17T20:05:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

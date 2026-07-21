@@ -1,13 +1,25 @@
 ---
-title: "dougborg/katana-openapi-client"
-category: "Tooling"
-tech_stack: ["Python", "TypeScript", "OpenAPI 3.1.0", "Pydantic", "FastMCP", "uv", "Node.js"]
+title: dougborg/katana-openapi-client
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Python
+- TypeScript
+- OpenAPI 3.1.0
+- Pydantic
+- FastMCP
+- uv
+- Node.js
 quality_score: 9
 rag_relevance: 8
-tags: ["ERP integration", "API client", "MCP server", "resilience", "type safety"]
-source: "https://github.com/dougborg/katana-openapi-client"
-discovered_at: "2026-07-16T20:02:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- ERP integration
+- API client
+- MCP server
+- resilience
+- type safety
+source: https://github.com/dougborg/katana-openapi-client
+discovered_at: '2026-07-16T20:02:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

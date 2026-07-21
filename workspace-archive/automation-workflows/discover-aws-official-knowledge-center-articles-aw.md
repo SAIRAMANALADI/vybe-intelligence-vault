@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: tutorial
 importance: high
 tags:
-- agents
 - frontend_ui
 - hackernews
 - rag
@@ -38,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **S3 Replication Issues**: Troubleshoot why Amazon S3 objects fail to replicate between general-purpose buckets in the same or different AWS Regions, including misconfigured replication rules or missing IAM permissions.
+- **S3 Replication Failures**: Amazon S3 object replication may fail due to misconfigured IAM roles, incorrect bucket policies, or missing replication configuration on the source or destination bucket.
 
-- **EC2 Connection Failures**: Resolve SSH or Session Manager connection errors to Amazon EC2 instances, including misconfigured security groups, key pairs, or SSM agent issues.
+- **EC2 Connection Issues**: SSH/RDP connection failures to EC2 instances often stem from security group misconfigurations, missing or incorrect key pairs, or disabled SSH/RDP services on the instance.
 
-- **AWS WAF Rate-Based Rule Misconfiguration**: Debug why AWS WAF rate-based rules (including cust
+- **WAF Rate-Based Rule Misconfiguration**: AWS WAF rate-based rules may not block traffic if
 
 ## Use Cases
 

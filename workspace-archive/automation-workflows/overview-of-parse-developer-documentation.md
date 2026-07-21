@@ -1,17 +1,16 @@
 ---
 title: Overview of Parse | Developer Documentation
 archive_category: automation-workflows
-source_category: ai/rag
-source_url: https://developers.llamaindex.ai/python/cloud/llamaparse/
+source_category: ai/resources
+source_url: https://docs.cloud.llamaindex.ai/llamaparse
 resource_id: blog:overview-of-parse-developer-documentation
-local_vault_path: ai/rag/overview-of-parse-developer-documentation.md
+local_vault_path: ai/resources/overview-of-parse-developer-documentation.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- rag
 - web-crawled
 - workflows
 selection_reason:
@@ -32,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Unified Platform**: Single SDK installation and API key grants access to multiple services (Parse, Extract, Classify, Split, Sheets, Index) via a unified interface.
-
-- **Multi-Service Integration**: Enables sequential or parallel execution of diverse data operations (e.g., parsing, classification, splitting) within a single workflow.
-
-- **API-Driven Execution**: First call initializes service-specific endpoints, returning structured outputs for downstream processing or storage.
+- **SDK Installation & API Key**: Single-platform integration requires installing the SDK and obtaining an API key for unified access to Parse, Extract, Classify, Split, Sheets, and Index services.
+- **Unified API Calls**: Execute initial API requests across multiple services (Parse, Extract, Classify, Split, Sheets, Index) via a single endpoint using the provided SDK and credentials.
+- **Platform Consolidation**: Streamlined workflow eliminates multi-service dependencies by enabling initial cal
 
 ## Use Cases
 
@@ -46,8 +43,8 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://developers.llamaindex.ai/python/cloud/llamaparse/
+Original source URL: https://docs.cloud.llamaindex.ai/llamaparse
 
 ## Local Vault File
 
-Path: [overview-of-parse-developer-documentation.md](../../ai/rag/overview-of-parse-developer-documentation.md)
+Path: [overview-of-parse-developer-documentation.md](../../ai/resources/overview-of-parse-developer-documentation.md)

@@ -17,7 +17,7 @@ Update cycle: Refreshed every 3 hours.
 | 2026-06-04 | [danielt69/awesome-agent-observability](https://github.com/danielt69/awesome-agent-observability) | `ai-coding-agents/` | 70 |
 | 2026-06-03 | [antins-labs/SearchOS](https://github.com/antins-labs/SearchOS) | `ai-coding-agents/` | 70 |
 | 2026-05-31 | [PentesterFlow/agent](https://github.com/PentesterFlow/agent) | `ai-coding-agents/` | 70 |
-| 2026-05-18 | [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) | `rag-systems/` | 70 |
+| 2026-05-18 | [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) | `ai-coding-agents/` | 70 |
 | 2026-05-15 | [wxmb01/codex-app-autonomous-runs](https://github.com/wxmb01/codex-app-autonomous-runs) | `ai-coding-agents/` | 70 |
 | 2026-05-09 | [akihirookuda95/openai-agents-sdk-tutorial](https://github.com/akihirookuda95/openai-agents-sdk-tutorial) | `ai-coding-agents/` | 70 |
 | 2026-05-04 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `mcp-registry/` | 70 |

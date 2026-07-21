@@ -1,13 +1,23 @@
 ---
-title: "mtbun/storeshots-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "PNG rendering libraries", "Unicode typography support"]
+title: mtbun/storeshots-mcp
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- PNG rendering libraries
+- Unicode typography support
 quality_score: 9
 rag_relevance: 7
-tags: ["screenshot generation", "mobile app marketing", "MCP server", "App Store optimization", "automated design"]
-source: "https://github.com/mtbun/storeshots-mcp"
-discovered_at: "2026-07-19T22:50:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- screenshot generation
+- mobile app marketing
+- MCP server
+- App Store optimization
+- automated design
+source: https://github.com/mtbun/storeshots-mcp
+discovered_at: '2026-07-19T22:50:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

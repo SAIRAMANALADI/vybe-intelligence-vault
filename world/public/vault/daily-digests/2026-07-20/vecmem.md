@@ -1,13 +1,28 @@
 ---
-title: "Lemuelendoscopic797/vecmem"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "HuggingFace Transformers", "ONNX Runtime", "MCP SDK", "remark (Markdown parser)", "commander (CLI framework)", "zod (validation)", "vitest + fast-check (testing)"]
+title: Lemuelendoscopic797/vecmem
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- HuggingFace Transformers
+- ONNX Runtime
+- MCP SDK
+- remark (Markdown parser)
+- commander (CLI framework)
+- zod (validation)
+- vitest + fast-check (testing)
 quality_score: 9
 rag_relevance: 8
-tags: ["semantic search", "local embeddings", "markdown indexing", "MCP server", "offline AI tools"]
-source: "https://github.com/Lemuelendoscopic797/vecmem"
-discovered_at: "2026-07-18T02:12:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- semantic search
+- local embeddings
+- markdown indexing
+- MCP server
+- offline AI tools
+source: https://github.com/Lemuelendoscopic797/vecmem
+discovered_at: '2026-07-18T02:12:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

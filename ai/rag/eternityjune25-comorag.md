@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-20T03:43:28.274857+05:30'
+collected_at: '2026-07-21T22:14:52.441481+05:30'
 published_at: '2026-07-13T12:27:27Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-20T03:43:28.274857+05:30'
-last_seen: '2026-07-20T03:43:28.274857+05:30'
-last_checked: '2026-07-20T03:43:28.274857+05:30'
+first_seen: '2026-07-21T22:14:52.441481+05:30'
+last_seen: '2026-07-21T22:14:52.441481+05:30'
+last_checked: '2026-07-21T22:14:52.441481+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning by structuring memory hierarchically for contextual coherence.
+- **Cognitive-Inspired Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognition, enabling stateful long narrative reasoning by structuring memory hierarchically for improved contextual retention.
 
-- **Stateful Long Narrative Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual state across extended dialogues or narratives, enhancing reasoning consistency in multi-turn interactions.
+- **Stateful Long Narrative Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain coherence in extended dialogues or narratives, addressing limitations of traditional RAG systems in tracking long-term dependencies.
 
-- **Python Implementation**: Provides an open-source Python-based implementation with modular components for memory organization, retrieval, and integration with LLM backends, optimized for AAAI 2026 poster presentation standards.
+- **Python-Based Implementation**: Provides an open-source Python repository with modular components for memory organization, retrieval, and integration with LLMs, optimized for AAAI 2026 poster presentation standards.
 
 ## Why It Matters
 

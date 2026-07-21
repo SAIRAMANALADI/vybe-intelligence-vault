@@ -1,13 +1,23 @@
 ---
-title: "Ignazfeudatory487/aetherdev"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Electron", "Local LLM (e.g., Ollama)", "Windows Desktop", "Node.js"]
+title: Ignazfeudatory487/aetherdev
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Electron
+- Local LLM (e.g., Ollama)
+- Windows Desktop
+- Node.js
 quality_score: 7
 rag_relevance: 8
-tags: ["local AI", "code generation", "Windows desktop app", "self-hosted", "privacy-focused"]
-source: "https://github.com/Ignazfeudatory487/aetherdev"
-discovered_at: "2026-07-13T22:55:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local AI
+- code generation
+- Windows desktop app
+- self-hosted
+- privacy-focused
+source: https://github.com/Ignazfeudatory487/aetherdev
+discovered_at: '2026-07-13T22:55:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "golproductions/exnos"
-category: "Tooling"
-tech_stack: ["JavaScript", "MCP (Model Context Protocol)", "WebSocket", "Chrome Extension API", "Node.js"]
+title: golproductions/exnos
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- JavaScript
+- MCP (Model Context Protocol)
+- WebSocket
+- Chrome Extension API
+- Node.js
 quality_score: 9
 rag_relevance: 8
-tags: ["browser automation", "AI agent verification", "MCP server", "Chrome extension", "real-time state"]
-source: "https://github.com/golproductions/exnos"
-discovered_at: "2026-07-11T13:14:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- AI agent verification
+- MCP server
+- Chrome extension
+- real-time state
+source: https://github.com/golproductions/exnos
+discovered_at: '2026-07-11T13:14:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -8,7 +8,6 @@ Aesthetic, responsive AI chat interfaces and bento grids enhance user engagement
 
 ## Top Matched Resources
 
-- [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) (template - ESSENTIAL Tier)
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) (template - USEFUL Tier)
 - [salimi-my/shadcn-ui-sidebar](https://github.com/salimi-my/shadcn-ui-sidebar) (template - USEFUL Tier)
@@ -16,17 +15,18 @@ Aesthetic, responsive AI chat interfaces and bento grids enhance user engagement
 - [dan5py/react-vite-shadcn-ui](https://github.com/dan5py/react-vite-shadcn-ui) (template - USEFUL Tier)
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) (template - USEFUL Tier)
 - [magicuidesign/portfolio](https://github.com/magicuidesign/portfolio) (template - USEFUL Tier)
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/shadcn-ui/ui (shadcn/ui)
 https://github.com/tailwindlabs/tailwindcss (Tailwind CSS)
-- [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte)
 - [salimi-my/shadcn-ui-sidebar](https://github.com/salimi-my/shadcn-ui-sidebar)
 - [shadcn-ui/next-template](https://github.com/shadcn-ui/next-template)
 - [dan5py/react-vite-shadcn-ui](https://github.com/dan5py/react-vite-shadcn-ui)
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui)
+- [magicuidesign/portfolio](https://github.com/magicuidesign/portfolio)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/tailwindlabs/tailwindcss (Tailwind CSS)
 
 ---
 
-*Last updated: 2026-07-18 17:05 IST*
+*Last updated: 2026-07-21 22:30 IST*

@@ -4,19 +4,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://vercel.com
-published_at: '2026-07-18T01:14:09.140999+05:30'
-collected_at: '2026-07-18T01:14:09.141011+05:30'
+published_at: '2026-07-21T20:03:27.768085+05:30'
+collected_at: '2026-07-21T20:03:27.768098+05:30'
 tags:
 - agents
 - rag
-- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:agentic-infrastructure-vercel
-first_seen: '2026-07-18T01:14:09.141011+05:30'
-last_seen: '2026-07-18T01:14:09.141011+05:30'
-last_checked: '2026-07-18T01:14:09.141011+05:30'
+first_seen: '2026-07-21T20:03:27.768098+05:30'
+last_seen: '2026-07-21T20:03:27.768098+05:30'
+last_checked: '2026-07-21T20:03:27.768098+05:30'
 health_score: 100
 ---
 
@@ -24,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Deployment & Automation**: Vercel’s infrastructure enables coding agents to autonomously deploy apps and agents using APIs, CLI, MCP, and Skills, with sandboxed VMs, durable backends, and error-handling via automated PRs.
+- **Agentic Infrastructure**: Vercel provides a deployment platform for AI agents and applications, enabling autonomous error investigation, planning fixes, and PR creation via agentic workflows, with support for sandboxed VMs and durable backends.
 
-- **Scalable AI Infrastructure**: Supports high-traffic workloads (e.g., Notion, Zapier) with features like global delivery, serverless functions, AI model gateways, and fluid compute for zero-to-millions scaling.
+- **Multi-Model & Multi-Language Support**: Enables agents to deploy in their native languages using Vercel’s API, CLI, MCP, and Skills, with AI Model Gateway facilitating access to hundreds of models.
 
-- **Multi-Tenant Platform Hosting**: Provides tenant isolation, domain management, custom SSL, and preview URLs for hosting platforms (e.g., Mintlify) serving 20K+ companies.
+- **Scalable Hosting Features**: Offers global delivery, serverless functions, tenant isolation, and custom SSL certificates, supporting platforms like Notion, Zapier, and Mintlify with zero-to-millions scalability.
 
 ## Why It Matters
 
@@ -38,13 +37,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-18T01:14:09.140999+05:30
+- Published: 2026-07-21T20:03:27.768085+05:30
 
 ## Related Tags
 
 - agents
 - rag
-- scripts
 - web-crawled
 - workflows
 

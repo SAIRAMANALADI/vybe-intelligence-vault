@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://srihash.org/
-published_at: '2026-07-10T04:24:18.560088+05:30'
-collected_at: '2026-07-10T04:24:18.560097+05:30'
+published_at: '2026-07-21T20:03:15.292988+05:30'
+collected_at: '2026-07-21T20:03:15.293000+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:sri-hash-generator
-first_seen: '2026-07-10T04:24:18.560097+05:30'
-last_seen: '2026-07-10T04:24:18.560097+05:30'
-last_checked: '2026-07-10T04:24:18.560097+05:30'
+first_seen: '2026-07-21T20:03:15.293000+05:30'
+last_seen: '2026-07-21T20:03:15.293000+05:30'
+last_checked: '2026-07-21T20:03:15.293000+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Subresource Integrity (SRI) is a W3C specification enabling verification that third-party hosted resources remain unaltered by comparing cryptographic hashes (SHA-256, SHA-384, SHA-512) against expected values.
-- **HTTPS Limitation**: While TLS secures data in transit, SRI ensures resource integrity post-delivery by detecting server-side tampering via hash validation.
-- **Implementation Requirement**: The `crossorigin="anonymous"` attribute is mandatory for cross-origin requests to enforce SRI checks; omitting it triggers "fail-open" behavior, bypassing integrity validation.
+- **Subresource Integrity (SRI)** is a W3C specification enabling verification of third-party resource integrity via cryptographic hashes (SHA-256/384/512) to detect tampering, complementing TLS by ensuring resource content remains unchanged post-deployment.
+
+- **Integrity Hash Generation** can be performed via tools like [srihash.org](https://srihash.org) or CLI (e.g., `openssl dgst -sha384 -binary FILE.js | openssl base64 -A`), with the `crossorigin="anonymous"` attribute required for cross-origin requests to enforce SRI validation (otherwise, browsers fail-open).
+
+- **Browser Support & Enforcement**: SRI requires explicit `crossorigin` attributes for cross-origin resources; unsupported browsers fail-open, while supported ones (check [caniuse](https://caniuse.com/#feat=subresource-integrity)) enforce integrity checks.
 
 ## Why It Matters
 
@@ -33,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-10T04:24:18.560088+05:30
+- Published: 2026-07-21T20:03:15.292988+05:30
 
 ## Related Tags
 

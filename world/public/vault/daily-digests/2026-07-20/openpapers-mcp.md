@@ -1,13 +1,28 @@
 ---
-title: "Kaago/openpapers-mcp"
-category: "Agent Framework"
-tech_stack: ["Python", "FastMCP", "httpx", "Pydantic", "OpenAlex API", "CrossRef API", "Unpaywall API", "uv (package manager)", "ruff (linting)", "mypy (type checking)"]
+title: Kaago/openpapers-mcp
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python
+- FastMCP
+- httpx
+- Pydantic
+- OpenAlex API
+- CrossRef API
+- Unpaywall API
+- uv (package manager)
+- ruff (linting)
+- mypy (type checking)
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP server", "scientific literature", "Open Access PDFs", "local-first", "privacy-focused"]
-source: "https://github.com/Kaago/openpapers-mcp"
-discovered_at: "2026-07-19T13:17:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- scientific literature
+- Open Access PDFs
+- local-first
+- privacy-focused
+source: https://github.com/Kaago/openpapers-mcp
+discovered_at: '2026-07-19T13:17:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

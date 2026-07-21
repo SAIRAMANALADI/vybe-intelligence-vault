@@ -1,13 +1,23 @@
 ---
-title: "thought2code/mcp-annotated-java-sdk"
-category: "Tooling"
-tech_stack: ["Java 17+", "MCP (Model Context Protocol)", "Maven/Gradle", "YAML Configuration", "Annotation Processing"]
+title: thought2code/mcp-annotated-java-sdk
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Java 17+
+- MCP (Model Context Protocol)
+- Maven/Gradle
+- YAML Configuration
+- Annotation Processing
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "Java SDK", "Annotation-driven", "Lightweight", "Model Context Protocol"]
-source: "https://github.com/thought2code/mcp-annotated-java-sdk"
-discovered_at: "2026-07-10T16:24:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- Java SDK
+- Annotation-driven
+- Lightweight
+- Model Context Protocol
+source: https://github.com/thought2code/mcp-annotated-java-sdk
+discovered_at: '2026-07-10T16:24:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

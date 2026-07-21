@@ -1,13 +1,25 @@
 ---
-title: "RudrenduPaul/WorkloadTruth"
-category: "Tooling"
-tech_stack: ["Python", "PyPI", "NVML (NVIDIA Management Library)", "Click (CLI framework)", "MCP (Model Context Protocol)", "JSON", "GitHub Actions (CI/CD)"]
+title: RudrenduPaul/WorkloadTruth
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- PyPI
+- NVML (NVIDIA Management Library)
+- Click (CLI framework)
+- MCP (Model Context Protocol)
+- JSON
+- GitHub Actions (CI/CD)
 quality_score: 9
 rag_relevance: 8
-tags: ["GPU workload classification", "telemetry-based monitoring", "AI workload governance", "MCP server", "audit logging"]
-source: "https://github.com/RudrenduPaul/WorkloadTruth"
-discovered_at: "2026-07-20T02:44:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- GPU workload classification
+- telemetry-based monitoring
+- AI workload governance
+- MCP server
+- audit logging
+source: https://github.com/RudrenduPaul/WorkloadTruth
+discovered_at: '2026-07-20T02:44:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

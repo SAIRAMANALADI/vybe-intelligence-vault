@@ -1,13 +1,21 @@
 ---
-title: "lubianiec/handle-with-adhd"
-category: "Tooling"
-tech_stack: ["Claude Code", "HTML", "JavaScript"]
+title: lubianiec/handle-with-adhd
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Claude Code
+- HTML
+- JavaScript
 quality_score: 8
 rag_relevance: 7
-tags: ["ADHD support", "AI behavior control", "cognitive load reduction", "Claude Code skill", "transparent AI"]
-source: "https://github.com/lubianiec/handle-with-adhd"
-discovered_at: "2026-07-15T21:59:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- ADHD support
+- AI behavior control
+- cognitive load reduction
+- Claude Code skill
+- transparent AI
+source: https://github.com/lubianiec/handle-with-adhd
+discovered_at: '2026-07-15T21:59:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

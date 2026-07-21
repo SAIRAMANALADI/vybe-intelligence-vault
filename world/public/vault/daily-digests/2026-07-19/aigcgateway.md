@@ -1,13 +1,27 @@
 ---
-title: "tripplemay/aigcgateway"
-category: "Orchestrator"
-tech_stack: ["Next.js", "TypeScript", "PostgreSQL", "Prisma", "Redis", "shadcn/ui", "@modelcontextprotocol/sdk", "Node.js", "MCP (Model Context Protocol)"]
+title: tripplemay/aigcgateway
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Next.js
+- TypeScript
+- PostgreSQL
+- Prisma
+- Redis
+- shadcn/ui
+- '@modelcontextprotocol/sdk'
+- Node.js
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Gateway", "Multi-Provider", "Prompt Engineering", "MCP Server", "Billing System"]
-source: "https://github.com/tripplemay/aigcgateway"
-discovered_at: "2026-07-12T08:15:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Gateway
+- Multi-Provider
+- Prompt Engineering
+- MCP Server
+- Billing System
+source: https://github.com/tripplemay/aigcgateway
+discovered_at: '2026-07-12T08:15:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

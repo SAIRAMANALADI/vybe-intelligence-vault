@@ -1,13 +1,22 @@
 ---
-title: "addiplus/vercel-deployment-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Vercel API"]
+title: addiplus/vercel-deployment-mcp
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Vercel API
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "Vercel integration", "deployment monitoring", "stdio protocol", "stateless design"]
-source: "https://github.com/addiplus/vercel-deployment-mcp"
-discovered_at: "2026-07-10T23:08:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Vercel integration
+- deployment monitoring
+- stdio protocol
+- stateless design
+source: https://github.com/addiplus/vercel-deployment-mcp
+discovered_at: '2026-07-10T23:08:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

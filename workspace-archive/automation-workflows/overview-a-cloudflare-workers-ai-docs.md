@@ -3,7 +3,7 @@ title: Overview Â· Cloudflare Workers AI docs
 archive_category: automation-workflows
 source_category: ai/resources
 source_url: https://developers.cloudflare.com/workers-ai
-resource_id: blog:overview-a-cloudflare-workers-ai-docs
+resource_id: blog:overview-a-cloudflare-workers-ai-docs-19aa3a14
 local_vault_path: ai/resources/overview-a-cloudflare-workers-ai-docs.md
 quality_score: 70
 archive_score: 72

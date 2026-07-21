@@ -1,13 +1,30 @@
 ---
-title: "dokotela021/intellirecon-console"
-category: "Agent Framework"
-tech_stack: ["React", "TypeScript", "Vite", "Tailwind CSS", "Node.js", "Python", "Go", "xterm.js", "Anthropic SDK", "Model Context Protocol (MCP)", "SQLite", "WebSockets"]
+title: dokotela021/intellirecon-console
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Node.js
+- Python
+- Go
+- xterm.js
+- Anthropic SDK
+- Model Context Protocol (MCP)
+- SQLite
+- WebSockets
 quality_score: 8
 rag_relevance: 7
-tags: ["AI-driven security", "MCP integration", "browser terminal", "autonomous pentesting", "knowledge base"]
-source: "https://github.com/dokotela021/intellirecon-console"
-discovered_at: "2026-07-15T10:48:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-driven security
+- MCP integration
+- browser terminal
+- autonomous pentesting
+- knowledge base
+source: https://github.com/dokotela021/intellirecon-console
+discovered_at: '2026-07-15T10:48:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

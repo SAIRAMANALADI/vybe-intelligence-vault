@@ -13,13 +13,14 @@ collected_at: '2026-07-20T03:40:59.735977+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:moonshot-ai-suspends-new-subscriptions-due-to-kimi
 first_seen: '2026-07-20T01:04:25.480171+05:30'
 last_seen: '2026-07-20T03:40:59.735977+05:30'
 last_checked: '2026-07-20T03:40:59.735977+05:30'
 health_score: 100
 ---
+
 
 # Moonshot AI suspends new subscriptions due to Kimi K3 demand
 

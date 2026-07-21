@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/dannyblaker/rag-tutorial
-collected_at: '2026-07-20T03:41:53.109772+05:30'
+collected_at: '2026-07-21T22:13:17.195831+05:30'
 published_at: '2026-07-08T03:21:18Z'
 tags:
 - github-repo
 - hackernews
+- models
 - python
 - rag
 - reddit
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-01-03T09:47:50Z'
 pushed_at: '2026-01-03T09:50:45Z'
 resource_id: github:dannyblaker/rag-tutorial
-first_seen: '2026-07-20T03:41:53.109772+05:30'
-last_seen: '2026-07-20T03:41:53.109772+05:30'
-last_checked: '2026-07-20T03:41:53.109772+05:30'
+first_seen: '2026-07-21T22:13:17.195831+05:30'
+last_seen: '2026-07-21T22:13:17.195831+05:30'
+last_checked: '2026-07-21T22:13:17.195831+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG development, from embeddings and vector databases to LLM integration and production deployment, with executable code examples and reusable utilities.
-
-- **Technical Focus**: Covers core RAG components (embedding models, vector DBs like Chroma/FAISS, LLM APIs) and advanced techniques (re-ranking, query expansion, hybrid retrieval) with hands-on demos.
-
-- **Python Implementation**: Provides a Python-based codebase with modular utilities, optimized for extensibility and scalability in production-grade RAG systems.
+- **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG development, from embeddings and vector databases to LLM integration and advanced techniques, with reusable Python utilities and hands-on demos.
+- **Technical Scope**: Focuses on practical implementation of Retrieval-Augmented Generation (RAG), including vector search, LLM fine-tuning, and production-ready system design.
+- **Resources**: Provides working code examples, modular utilities, and updated as of July 2026, hosted on GitHub with Python as the primary language.
 
 ## Why It Matters
 

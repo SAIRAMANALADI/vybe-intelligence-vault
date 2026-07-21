@@ -3,7 +3,7 @@ title: iPhone - Apple
 archive_category: ai-tools-products
 source_category: ai/resources
 source_url: https://www.apple.com/iphone
-resource_id: blog:iphone-apple
+resource_id: blog:iphone-apple-d3c5098c
 local_vault_path: ai/resources/iphone-apple.md
 quality_score: 70
 archive_score: 72

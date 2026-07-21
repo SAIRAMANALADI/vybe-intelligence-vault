@@ -1,13 +1,25 @@
 ---
-title: "openpodhq/openpod"
-category: "Tooling"
-tech_stack: ["Python", "Whisper (ASR)", "MCP (Model Context Protocol)", "SQLite (FTS + embeddings)", "FFmpeg", "RSS/YouTube ingestion", "CLI"]
+title: openpodhq/openpod
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python
+- Whisper (ASR)
+- MCP (Model Context Protocol)
+- SQLite (FTS + embeddings)
+- FFmpeg
+- RSS/YouTube ingestion
+- CLI
 quality_score: 9
 rag_relevance: 8
-tags: ["local-first", "RAG preprocessing", "timestamped citations", "agent toolkit", "offline transcription"]
-source: "https://github.com/openpodhq/openpod"
-discovered_at: "2026-07-18T14:50:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first
+- RAG preprocessing
+- timestamped citations
+- agent toolkit
+- offline transcription
+source: https://github.com/openpodhq/openpod
+discovered_at: '2026-07-18T14:50:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

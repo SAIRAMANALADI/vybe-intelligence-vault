@@ -1,13 +1,25 @@
 ---
-title: "amitkumardubey/praana"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun Runtime", "SQLite", "Transformers.js", "Node.js", "Terminal UI (pi-tui)", "TOML (for configuration)"]
+title: amitkumardubey/praana
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Bun Runtime
+- SQLite
+- Transformers.js
+- Node.js
+- Terminal UI (pi-tui)
+- TOML (for configuration)
 quality_score: 9
 rag_relevance: 8
-tags: ["context management", "coding agent", "memory system", "prompt engineering", "local-first"]
-source: "https://github.com/amitkumardubey/praana"
-discovered_at: "2026-07-12T17:03:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- context management
+- coding agent
+- memory system
+- prompt engineering
+- local-first
+source: https://github.com/amitkumardubey/praana
+discovered_at: '2026-07-12T17:03:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

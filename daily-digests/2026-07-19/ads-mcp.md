@@ -1,13 +1,25 @@
 ---
-title: "amekala/ads-mcp"
-category: "Orchestrator"
-tech_stack: ["Model Context Protocol (MCP)", "OAuth 2.1 with PKCE", "Streamable HTTP", "Python", "REST API", "Jupyter Notebook", "GitHub Actions"]
+title: amekala/ads-mcp
+category: daily-digests/2026-07-19
+tech_stack:
+- Model Context Protocol (MCP)
+- OAuth 2.1 with PKCE
+- Streamable HTTP
+- Python
+- REST API
+- Jupyter Notebook
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["Advertising Automation", "MCP Server", "Cross-Platform Campaigns", "Performance Marketing", "AI Orchestration"]
-source: "https://github.com/amekala/ads-mcp"
-discovered_at: "2026-07-16T18:05:44Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Advertising Automation
+- MCP Server
+- Cross-Platform Campaigns
+- Performance Marketing
+- AI Orchestration
+source: https://github.com/amekala/ads-mcp
+discovered_at: '2026-07-16T18:05:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

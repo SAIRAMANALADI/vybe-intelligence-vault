@@ -1,13 +1,24 @@
 ---
-title: "inckie/WikiKnowledge"
-category: "Orchestrator"
-tech_stack: ["Python", "Markdown", "Git", "SQLite", "MongoDB (planned)", "MCP (planned)"]
+title: inckie/WikiKnowledge
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- Markdown
+- Git
+- SQLite
+- MongoDB (planned)
+- MCP (planned)
 quality_score: 6
 rag_relevance: 8
-tags: ["knowledge graph", "hierarchical knowledge", "fractal structure", "AI navigation", "structured learning"]
-source: "https://github.com/inckie/WikiKnowledge"
-discovered_at: "2026-07-11T22:45:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- knowledge graph
+- hierarchical knowledge
+- fractal structure
+- AI navigation
+- structured learning
+source: https://github.com/inckie/WikiKnowledge
+discovered_at: '2026-07-11T22:45:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

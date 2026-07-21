@@ -4,25 +4,25 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/liteparse
-collected_at: '2026-07-20T03:47:26.130628+05:30'
-published_at: '2026-07-19T22:15:29Z'
+collected_at: '2026-07-21T22:18:33.190725+05:30'
+published_at: '2026-07-21T16:11:04Z'
 tags:
 - github-repo
 - meta-ai
 - models
 - rust
 - workflows
-stars: 11674
+stars: 11720
 language: Rust
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2026-02-09T22:16:30Z'
-pushed_at: '2026-07-19T22:15:25Z'
+pushed_at: '2026-07-21T15:58:43Z'
 resource_id: github:run-llama/liteparse
-first_seen: '2026-07-20T03:47:26.130628+05:30'
-last_seen: '2026-07-20T03:47:26.130628+05:30'
-last_checked: '2026-07-20T03:47:26.130628+05:30'
+first_seen: '2026-07-21T22:18:33.190725+05:30'
+last_seen: '2026-07-21T22:18:33.190725+05:30'
+last_checked: '2026-07-21T22:18:33.190725+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **High-performance document parsing**: Implements a Rust-based, open-source parser optimized for speed and efficiency in processing PDFs and other documents via OCR and text extraction.
+- **Rust-based OCR & PDF Parser**: Implements high-performance document parsing with OCR (Optical Character Recognition) and PDF text extraction capabilities, optimized for speed and efficiency.
 
-- **Modular OCR pipeline**: Supports document-OCR and recognition workflows with configurable components for layout analysis, text detection, and extraction.
+- **Modular Architecture**: Designed for extensibility, supporting document preprocessing, layout analysis, and structured text extraction with minimal overhead.
 
-- **Lightweight and extensible**: Designed for minimal overhead while enabling integration with downstream NLP or document processing systems.
+- **Open-Source & Scalable**: Released under an open-source license, enabling integration into larger document processing pipelines with support for batch processing and distributed workflows.
 
 ## Why It Matters
 
@@ -43,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: run-llama
-- Stars: 11674
-- Forks: 789
+- Stars: 11720
+- Forks: 792
 - Language: Rust
 - Topics: document-ocr, document-processing, ocr, ocr-recognition, pdf, pdf-parser, text-extraction
-- Last Updated: 2026-07-19T22:15:29Z
+- Last Updated: 2026-07-21T16:11:04Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-02-09T22:16:30Z
-- Pushed At: 2026-07-19T22:15:25Z
+- Pushed At: 2026-07-21T15:58:43Z
 
 ## Possible Use Cases
 

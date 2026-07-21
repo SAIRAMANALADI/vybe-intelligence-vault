@@ -4,23 +4,24 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gradio-app/gradio
-collected_at: '2026-07-19T19:33:30.921985+05:30'
-published_at: '2026-07-19T12:49:14Z'
+collected_at: '2026-07-21T20:00:21.252920+05:30'
+published_at: '2026-07-21T10:44:17Z'
 tags:
 - github-repo
+- hackernews
 - python
-- workflows
-stars: 43164
+- scripts
+stars: 43171
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2018-12-19T08:24:04Z'
-pushed_at: '2026-07-18T16:24:09Z'
+pushed_at: '2026-07-21T13:55:32Z'
 resource_id: github:gradio-app/gradio
-first_seen: '2026-07-19T19:33:30.921985+05:30'
-last_seen: '2026-07-19T19:33:30.921985+05:30'
-last_checked: '2026-07-19T19:33:30.921985+05:30'
+first_seen: '2026-07-21T20:00:21.252920+05:30'
+last_seen: '2026-07-21T20:00:21.252920+05:30'
+last_checked: '2026-07-21T20:00:21.252920+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,17 @@ health_score: 100
 
 ## Summary
 
-- **Gradio**: Open-source Python library enabling rapid development and deployment of interactive ML/web apps with minimal code, supporting UI components, data visualization, and model integration.
+- **Purpose**: Gradio is an open-source Python library designed for rapidly building and deploying interactive machine learning (ML) and data science applications with minimal code.
 
-- **Key Features**: Real-time interactivity via web interfaces, built-in support for deep learning frameworks (e.g., PyTorch, TensorFlow), and seamless sharing/deployment of apps via Gradio’s cloud or local servers.
+- **Key Features**:
+  - Supports **real-time UI generation** from Python functions (e.g., ML models, data processing).
+  - Provides **pre-built components** (sliders, plots, inputs) and **customizable layouts** for intuitive interfaces.
+  - Enables **one-click sharing** via Gradio links or integration with Hugging Face Spaces.
 
-- **Ecosystem**: Integrates with Python notebooks, data science tools (e.g., Pandas, Matplotlib), and supports custom UI components, catering to data analysis, model deployment, and collaborative workflows.
+- **Technical Stack**:
+  - Core written in **Python** with support for **TensorFlow, PyTorch, and NumPy**.
+  - Uses **FastAPI** under the hood for backend server operations.
+  - Compatible with **Jupyter notebooks** and standalone Python scripts.
 
 ## Why It Matters
 
@@ -41,15 +48,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: gradio-app
-- Stars: 43164
-- Forks: 3556
+- Stars: 43171
+- Forks: 3558
 - Language: Python
 - Topics: data-analysis, data-science, data-visualization, deep-learning, deploy, gradio, gradio-interface, interface, machine-learning, models, python, python-notebook, ui, ui-components
-- Last Updated: 2026-07-19T12:49:14Z
+- Last Updated: 2026-07-21T10:44:17Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2018-12-19T08:24:04Z
-- Pushed At: 2026-07-18T16:24:09Z
+- Pushed At: 2026-07-21T13:55:32Z
 
 ## Possible Use Cases
 

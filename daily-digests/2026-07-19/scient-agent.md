@@ -1,13 +1,29 @@
 ---
-title: "ScientFactory/scient-agent"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "React", "Electron", "Bash", "npm", "Homebrew", "Scoop", "Chocolatey", "Nix", "Pacman"]
+title: ScientFactory/scient-agent
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- Electron
+- Bash
+- npm
+- Homebrew
+- Scoop
+- Chocolatey
+- Nix
+- Pacman
 quality_score: 8
 rag_relevance: 7
-tags: ["AI coding agent", "multi-agent system", "development assistant", "open-source", "terminal UI"]
-source: "https://github.com/ScientFactory/scient-agent"
-discovered_at: "2026-07-18T09:23:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding agent
+- multi-agent system
+- development assistant
+- open-source
+- terminal UI
+source: https://github.com/ScientFactory/scient-agent
+discovered_at: '2026-07-18T09:23:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

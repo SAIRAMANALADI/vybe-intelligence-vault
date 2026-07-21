@@ -1,13 +1,24 @@
 ---
-title: "rithunkp/downtime-arbiter"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "NitroStack SDK", "Model Context Protocol (MCP)", "Zod", "Next.js", "Groq"]
+title: rithunkp/downtime-arbiter
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- NitroStack SDK
+- Model Context Protocol (MCP)
+- Zod
+- Next.js
+- Groq
 quality_score: 9
 rag_relevance: 7
-tags: ["multi-agent negotiation", "industrial downtime", "deterministic arbitration", "MCP server", "risk modeling"]
-source: "https://github.com/rithunkp/downtime-arbiter"
-discovered_at: "2026-07-19T05:51:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent negotiation
+- industrial downtime
+- deterministic arbitration
+- MCP server
+- risk modeling
+source: https://github.com/rithunkp/downtime-arbiter
+discovered_at: '2026-07-19T05:51:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

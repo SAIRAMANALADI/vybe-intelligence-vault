@@ -4,18 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://youtube.com/c/dagshub
-published_at: '2026-07-19T14:11:15.141825+05:30'
-collected_at: '2026-07-19T14:11:15.141836+05:30'
+published_at: '2026-07-21T16:56:20.586165+05:30'
+collected_at: '2026-07-21T16:56:20.586178+05:30'
 tags:
-- hackernews
 - rag
 - web-crawled
 - youtube
 status: active
 resource_id: blog:dagshub-youtube
-first_seen: '2026-07-19T14:11:15.141836+05:30'
-last_seen: '2026-07-19T14:11:15.141836+05:30'
-last_checked: '2026-07-19T14:11:15.141836+05:30'
+first_seen: '2026-07-21T16:56:20.586178+05:30'
+last_seen: '2026-07-21T16:56:20.586178+05:30'
+last_checked: '2026-07-21T16:56:20.586178+05:30'
 health_score: 100
 ---
 
@@ -23,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, streaming, monetization (via Ads/YouTube Premium), and creator tools (YouTube Creators).
+- **YouTube's Core Infrastructure**: YouTube operates on a globally distributed system leveraging Google's infrastructure, including the Borg cluster management system, to handle petabytes of video data, ensuring low-latency streaming and high availability.
 
-- **Technical Infrastructure**: Leverages Google’s cloud infrastructure (via [Developers API](https://developers.google.com/youtube)) for scalable video processing, recommendation algorithms (How YouTube Works), and real-time analytics.
+- **Advertising & Monetization**: YouTube's ad platform integrates with Google Ads, utilizing machine learning models for real-time bidding, ad targeting, and dynamic ad insertion, with revenue sharing mechanisms for creators via the YouTube Partner Program.
 
-- **Policy & Compliance**: Enforces [Terms of Service](https://youtube.com/t/terms), [Privacy Policy](https://youtube.com/t/privacy), and [Content Safety Policies](https://www.youtube.com/about/policies/) with automated detection systems and user reporting mechanisms.
+- **API & Developer Ecosystem**: YouTube provides a comprehensive RESTful API (v3) for content management, analytics, and live streaming, supporting OAuth 2.0 authentication, quota systems, and integration with Google Cloud services for scalable application development.
 
 ## Why It Matters
 
@@ -37,11 +36,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-19T14:11:15.141825+05:30
+- Published: 2026-07-21T16:56:20.586165+05:30
 
 ## Related Tags
 
-- hackernews
 - rag
 - web-crawled
 - youtube

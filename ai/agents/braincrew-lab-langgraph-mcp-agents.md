@@ -4,23 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/braincrew-lab/langgraph-mcp-agents
-collected_at: '2026-07-20T03:45:48.436019+05:30'
-published_at: '2026-07-14T11:33:44Z'
+collected_at: '2026-07-21T22:17:12.618450+05:30'
+published_at: '2026-07-20T09:03:29Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
 - python
-stars: 712
+stars: 713
 language: Python
 status: active
 archived: false
 created_at: '2025-03-30T14:25:58Z'
 pushed_at: '2025-04-14T11:00:22Z'
 resource_id: github:braincrew-lab/langgraph-mcp-agents
-first_seen: '2026-07-20T03:45:48.436019+05:30'
-last_seen: '2026-07-20T03:45:48.436019+05:30'
-last_checked: '2026-07-20T03:45:48.436019+05:30'
+first_seen: '2026-07-21T22:17:12.618450+05:30'
+last_seen: '2026-07-21T22:17:12.618450+05:30'
+last_checked: '2026-07-21T22:17:12.618450+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements a LangGraph-based ReAct agent with Model Context Protocol (MCP) integration for dynamic AI agent orchestration and tool execution.
-- **Features**: Streamlit web interface enables real-time configuration, deployment, and interaction with agents that interface with external data sources/APIs via MCP tools.
-- **Tech Stack**: Python-based, last updated July 14, 2026, with 712 stars and 229 forks.
+- **LangGraph + ReAct Agent**: Implements a LangGraph-based ReAct (Reasoning and Acting) agent architecture with Model Context Protocol (MCP) integration for dynamic tool usage and reasoning loops.
+
+- **Streamlit Web Interface**: Provides a Streamlit-based UI for real-time configuration, deployment, and interaction with AI agents, enabling dynamic setup of MCP tools and data source integrations.
+
+- **MCP Tool Integration**: Supports dynamic access to external APIs and data sources via MCP tools, allowing agents to execute actions and retrieve contextually relevant information during execution.
 
 ## Why It Matters
 
@@ -39,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: braincrew-lab
-- Stars: 712
+- Stars: 713
 - Forks: 229
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-14T11:33:44Z
+- Last Updated: 2026-07-20T09:03:29Z
 - Archived: No
 - Created At: 2025-03-30T14:25:58Z
 - Pushed At: 2025-04-14T11:00:22Z

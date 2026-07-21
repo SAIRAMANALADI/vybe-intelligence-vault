@@ -1,13 +1,31 @@
 ---
-title: "tezra-io/fermix"
-category: "Agent Framework"
-tech_stack: ["Elixir", "Erlang/OTP", "BEAM VM", "Phoenix", "Zig", "Burrito", "OpenAPI", "Telegram Bot API", "Slack API", "Discord API", "Signal CLI", "Ollama", "Cosign"]
+title: tezra-io/fermix
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Elixir
+- Erlang/OTP
+- BEAM VM
+- Phoenix
+- Zig
+- Burrito
+- OpenAPI
+- Telegram Bot API
+- Slack API
+- Discord API
+- Signal CLI
+- Ollama
+- Cosign
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent", "self-hosted", "Elixir", "local AI", "OTP"]
-source: "https://github.com/tezra-io/fermix"
-discovered_at: "2026-07-19T19:13:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent
+- self-hosted
+- Elixir
+- local AI
+- OTP
+source: https://github.com/tezra-io/fermix
+discovered_at: '2026-07-19T19:13:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

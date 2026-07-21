@@ -4,16 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.sphinx-doc.org/
-published_at: '2026-07-20T01:09:47.795195+05:30'
-collected_at: '2026-07-20T01:09:47.795206+05:30'
+published_at: '2026-07-21T20:01:24.867313+05:30'
+collected_at: '2026-07-21T20:01:24.867325+05:30'
 tags:
 - hackernews
+- scripts
 - web-crawled
 status: active
 resource_id: blog:sphinx-sphinx-documentation
-first_seen: '2026-07-20T01:09:47.795206+05:30'
-last_seen: '2026-07-20T01:09:47.795206+05:30'
-last_checked: '2026-07-20T01:09:47.795206+05:30'
+first_seen: '2026-07-21T20:01:24.867325+05:30'
+last_seen: '2026-07-21T20:01:24.867325+05:30'
+last_checked: '2026-07-21T20:01:24.867325+05:30'
 health_score: 100
 ---
 
@@ -21,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Documentation Generation**: Sphinx supports authoring in reStructuredText or MyST Markdown to produce structured technical docs with tables, code blocks, math notations, and cross-references; outputs include HTML, LaTeX (PDF), ePub, and Texinfo via extensible builders.
+- **Documentation Generation**: Sphinx supports authoring in reStructuredText or MyST Markdown, enabling structured technical documentation with tables, code blocks, math notations, and cross-references across projects via Intersphinx.
 
-- **API & Extensibility**: Automatically generates API documentation from docstrings (Python, C++, etc.) using the `autodoc` extension; supports customization via built-in/third-party extensions for tasks like diagram generation, testing, and theme development.
+- **Multi-Format Output & Extensibility**: Generates documentation in HTML, LaTeX (PDF), ePub, Texinfo, etc., with extensive theme support (built-in/third-party) and robust extension mechanisms for custom functionality (e.g., API docs, diagrams).
 
-- **Cross-Project Integration**: Features `intersphinx` for cross-project references (sections, figures, code objects) and supports internationalization (i18n) for multilingual documentation, with active community-driven development and support.
+- **Automation & Internationalization**: Automatically generates API documentation from docstrings (Python/C++), supports internationalization (i18n) for multilingual docs, and integrates with tools like Python, Linux Kernel, and Jupyter.
 
 ## Why It Matters
 
@@ -35,11 +36,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-20T01:09:47.795195+05:30
+- Published: 2026-07-21T20:01:24.867313+05:30
 
 ## Related Tags
 
 - hackernews
+- scripts
 - web-crawled
 
 ## Source

@@ -5,7 +5,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms
 resource_id: huggingface:blog/nxp/bringing-robotics-ai-to-embedded-platforms
-local_vault_path: ai/models/bringing-robotics-ai-to-embedded-platforms-dataset.md
+local_vault_path: ai/models/huggingface-blog-nxp-bringing-robotics-ai-to-embedded-platforms.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/nxp/bringing-robotics-ai-to-emb
 
 ## Local Vault File
 
-Path: [bringing-robotics-ai-to-embedded-platforms-dataset.md](../../ai/models/bringing-robotics-ai-to-embedded-platforms-dataset.md)
+Path: [huggingface-blog-nxp-bringing-robotics-ai-to-embedded-platforms.md](../../ai/models/huggingface-blog-nxp-bringing-robotics-ai-to-embedded-platforms.md)

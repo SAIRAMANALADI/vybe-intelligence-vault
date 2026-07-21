@@ -1,13 +1,25 @@
 ---
-title: "FailproofAI/failproofai"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "NPM", "SQLite", "YAML", "JavaScript", "Bun"]
+title: FailproofAI/failproofai
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Node.js
+- NPM
+- SQLite
+- YAML
+- JavaScript
+- Bun
 quality_score: 9
 rag_relevance: 8
-tags: ["runtime safety", "agent monitoring", "policy enforcement", "local execution", "CI/CD integration"]
-source: "https://github.com/FailproofAI/failproofai"
-discovered_at: "2026-07-15T18:06:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- runtime safety
+- agent monitoring
+- policy enforcement
+- local execution
+- CI/CD integration
+source: https://github.com/FailproofAI/failproofai
+discovered_at: '2026-07-15T18:06:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

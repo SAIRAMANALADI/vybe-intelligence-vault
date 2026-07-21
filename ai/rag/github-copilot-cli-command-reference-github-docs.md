@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-command-reference
-published_at: '2026-07-20T01:15:22.089193+05:30'
-collected_at: '2026-07-20T01:15:22.089204+05:30'
+published_at: '2026-07-21T20:03:23.999473+05:30'
+collected_at: '2026-07-21T20:03:23.999489+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:github-copilot-cli-command-reference-github-docs
-first_seen: '2026-07-20T01:15:22.089204+05:30'
-last_seen: '2026-07-20T01:15:22.089204+05:30'
-last_checked: '2026-07-20T01:15:22.089204+05:30'
+first_seen: '2026-07-21T20:03:23.999489+05:30'
+last_seen: '2026-07-21T20:03:23.999489+05:30'
+last_checked: '2026-07-21T20:03:23.999489+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Core CLI Commands**: `copilot` (interactive UI), `copilot completion SHELL` (shell tab completion), `copilot login` (OAuth auth with `--host` support), `copilot plugins list/enable/disable/remove` (plugin management), `copilot skill` (skill management), `copilot version/update` (version control).
+- **Core CLI Commands**: Primary commands include `copilot` (interactive UI), `copilot login` (OAuth/auth via `--host`), `copilot plugins list` (inspect plugins/MCP/skills with `--kind`/`--scope` filters), and `copilot completion SHELL` (generate shell tab-completion scripts for `bash`/`zsh`/`fish`).
 
-- **Authentication & Environment**: Supports OAuth tokens (CLI app or `gh` app), fine-grained PATs (with "Copilot Requests" permission), and environment variables (`COPILOT_GITHUB_TOKEN`, `GH_TOKEN`, `GITHUB_TOKEN`). Tokens stored in system credential store or `~/.copilot/` (fallback).
+- **Authentication & Token Handling**: Supports OAuth device flow (`copilot login`), environment variables (`COPILOT_GITHUB_TOKEN`, `GH_TOKEN`), and fine-grained PATs (v2) with "Copilot Requests" permission; classic PATs (`ghp_`) are unsupported.
 
-- **Interactive UI Shortcuts**: Global: `Esc` (cancel), `Ctrl+C` (clear), `Ctrl+X` (slash commands), `Shift+Enter` (newline). Timeline: `Ctrl+F` (search), `Ctrl+T` (toggle reasoning). Session picker: `↑/↓` (navigate), `d` (delete), `Tab` (switch tabs).
+- **Interactive UI Shortcuts**: Global shortcuts include `@ FILENAME` (file context), `! COMMAND` (shell bypass), `$` (interactive shell handoff), `Ctrl+X` + `/` (slash commands mid-prompt), and `Ctrl+F`/`Ctrl+O`/`Ctrl+E` (timeline search/expansion).
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T01:15:22.089193+05:30
+- Published: 2026-07-21T20:03:23.999473+05:30
 
 ## Related Tags
 

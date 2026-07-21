@@ -1,13 +1,28 @@
 ---
-title: "detroxryo/earnsignal"
-category: "Tooling"
-tech_stack: ["Cloudflare Workers", "Cloudflare D1", "Cloudflare Cron Triggers", "Cloudflare Workers AI", "Hono", "TypeScript", "Solana x402", "Superteam Agent API", "GitHub Search", "CDP Bazaar"]
+title: detroxryo/earnsignal
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Cloudflare Workers
+- Cloudflare D1
+- Cloudflare Cron Triggers
+- Cloudflare Workers AI
+- Hono
+- TypeScript
+- Solana x402
+- Superteam Agent API
+- GitHub Search
+- CDP Bazaar
 quality_score: 9
 rag_relevance: 7
-tags: ["Web3 automation", "opportunity discovery", "deterministic scoring", "TxLINE", "evidence-first"]
-source: "https://github.com/detroxryo/earnsignal"
-discovered_at: "2026-07-19T11:56:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Web3 automation
+- opportunity discovery
+- deterministic scoring
+- TxLINE
+- evidence-first
+source: https://github.com/detroxryo/earnsignal
+discovered_at: '2026-07-19T11:56:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

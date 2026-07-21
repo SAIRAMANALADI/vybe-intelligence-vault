@@ -1,13 +1,22 @@
 ---
-title: "drafael/coding-harness"
-category: "Tooling"
-tech_stack: ["Python", "Agent Skills", "CLI Tools", "Terminal Agents"]
+title: drafael/coding-harness
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Python
+- Agent Skills
+- CLI Tools
+- Terminal Agents
 quality_score: 7
 rag_relevance: 6
-tags: ["AI coding agents", "agent skills", "development workflows", "modular tools", "code automation"]
-source: "https://github.com/drafael/coding-harness"
-discovered_at: "2026-07-18T21:49:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding agents
+- agent skills
+- development workflows
+- modular tools
+- code automation
+source: https://github.com/drafael/coding-harness
+discovered_at: '2026-07-18T21:49:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

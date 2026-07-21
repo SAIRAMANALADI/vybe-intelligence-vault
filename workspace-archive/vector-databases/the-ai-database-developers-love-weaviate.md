@@ -2,15 +2,16 @@
 title: The AI database developers love | Weaviate
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://weaviate.io
+source_url: https://weaviate.io/
 resource_id: blog:the-ai-database-developers-love-weaviate
 local_vault_path: ai/rag/the-ai-database-developers-love-weaviate.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: dataset
 importance: medium
 tags:
+- dataset
 - rag
 - web-crawled
 selection_reason:
@@ -24,16 +25,16 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: tutorial
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Scalability & Uptime Assurance**: Weaviate's vector database ensures seamless scalability and high uptime, eliminating concerns about performance degradation during system scaling.
-- **Operational Efficiency**: Achieved 200+ hours saved on database maintenance, significantly reducing operational overhead.
-- **Production-Scale Deployment**: Successfully manages 9B vectors in production, demonstrating robust handling of large-scale vector data.
+- **Scalability & Uptime**: Weaviate's vector database ensures seamless scalability and high availability, eliminating concerns about performance bottlenecks during system scaling.
+- **Operational Efficiency**: Achieved 200+ hours saved on database maintenance, enhancing productivity and reducing operational overhead.
+- **Large-Scale Deployment**: Successfully manages 9B vectors in production, demonstrating robust handling of massive datasets.
 
 ## Use Cases
 
@@ -43,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://weaviate.io
+Original source URL: https://weaviate.io/
 
 ## Local Vault File
 

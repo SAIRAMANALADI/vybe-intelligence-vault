@@ -1,13 +1,25 @@
 ---
-title: "C0D3C/listene"
-category: "Agent Framework"
-tech_stack: ["NestJS", "TypeScript", "PostgreSQL", "Android", "Jetpack Compose", "Kotlin", "MiMo / OpenAI-compatible LLM"]
+title: C0D3C/listene
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- NestJS
+- TypeScript
+- PostgreSQL
+- Android
+- Jetpack Compose
+- Kotlin
+- MiMo / OpenAI-compatible LLM
 quality_score: 7
 rag_relevance: 5
-tags: ["AI learning agent", "English education", "NestJS backend", "Android client", "LLM integration"]
-source: "https://github.com/C0D3C/listene"
-discovered_at: "2026-07-19T13:17:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI learning agent
+- English education
+- NestJS backend
+- Android client
+- LLM integration
+source: https://github.com/C0D3C/listene
+discovered_at: '2026-07-19T13:17:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

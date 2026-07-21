@@ -1,13 +1,31 @@
 ---
-title: "Rheosoph/flow-like"
-category: "Orchestrator"
-tech_stack: ["Rust", "TypeScript", "WebAssembly", "React", "Tauri", "Bun", "Python", "SQL", "Vector DB", "LLM", "Embeddings", "OIDC/JWT", "WebAssembly (WASM)"]
+title: Rheosoph/flow-like
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Rust
+- TypeScript
+- WebAssembly
+- React
+- Tauri
+- Bun
+- Python
+- SQL
+- Vector DB
+- LLM
+- Embeddings
+- OIDC/JWT
+- WebAssembly (WASM)
 quality_score: 9
 rag_relevance: 8
-tags: ["workflow automation", "local-first", "AI orchestration", "data pipeline", "offline-capable"]
-source: "https://github.com/Rheosoph/flow-like"
-discovered_at: "2026-07-10T13:12:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- workflow automation
+- local-first
+- AI orchestration
+- data pipeline
+- offline-capable
+source: https://github.com/Rheosoph/flow-like
+discovered_at: '2026-07-10T13:12:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,24 @@
 ---
-title: "marmikshah/atelier"
-category: "Tooling"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "Docker", "JSON", "GIF/APNG", "Texture Atlases"]
+title: marmikshah/atelier
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- Docker
+- JSON
+- GIF/APNG
+- Texture Atlases
 quality_score: 9
 rag_relevance: 7
-tags: ["pixel art", "AI agents", "game development", "MCP integration", "deterministic"]
-source: "https://github.com/marmikshah/atelier"
-discovered_at: "2026-07-16T02:26:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- pixel art
+- AI agents
+- game development
+- MCP integration
+- deterministic
+source: https://github.com/marmikshah/atelier
+discovered_at: '2026-07-16T02:26:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

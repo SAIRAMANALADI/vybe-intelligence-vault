@@ -1,13 +1,31 @@
 ---
-title: "opswarden-git/opswarden"
-category: "Orchestrator"
-tech_stack: ["Rust", "Axum", "Tokio", "PostgreSQL", "Next.js", "TypeScript", "Tailwind CSS", "Tauri", "Docker", "GitHub Actions", "WebSockets", "JWT", "AES-GCM"]
+title: opswarden-git/opswarden
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Rust
+- Axum
+- Tokio
+- PostgreSQL
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Tauri
+- Docker
+- GitHub Actions
+- WebSockets
+- JWT
+- AES-GCM
 quality_score: 9
 rag_relevance: 7
-tags: ["Incident Management", "Real-time Collaboration", "Automation Engine", "Hexagonal Architecture", "Release Coordination"]
-source: "https://github.com/opswarden-git/opswarden"
-discovered_at: "2026-07-19T07:29:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Incident Management
+- Real-time Collaboration
+- Automation Engine
+- Hexagonal Architecture
+- Release Coordination
+source: https://github.com/opswarden-git/opswarden
+discovered_at: '2026-07-19T07:29:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/react-agent
-collected_at: '2026-07-19T21:46:56.432522+05:30'
+collected_at: '2026-07-21T22:16:47.589253+05:30'
 published_at: '2026-07-16T19:57:17Z'
 tags:
 - agents
@@ -18,11 +18,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2024-08-21T19:57:32Z'
-pushed_at: '2026-06-26T08:21:52Z'
+pushed_at: '2026-07-21T11:00:44Z'
 resource_id: github:langchain-ai/react-agent
-first_seen: '2026-07-19T21:46:56.432522+05:30'
-last_seen: '2026-07-19T21:46:56.432522+05:30'
-last_checked: '2026-07-19T21:46:56.432522+05:30'
+first_seen: '2026-07-21T22:16:47.589253+05:30'
+last_seen: '2026-07-21T22:16:47.589253+05:30'
+last_checked: '2026-07-21T22:16:47.589253+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Overview**: Provides a LangGraph-based implementation of a ReAct (Reasoning and Acting) agent in Python, designed for modular and observable agent workflows.
-
-- **Core Components**: Utilizes LangGraph's stateful graph architecture to orchestrate reasoning (via LLM calls) and tool-based actions in a loop, enabling dynamic decision-making.
-
-- **Usage & Extensibility**: Serves as a starter template for building custom agents, with clear separation of concerns (e.g., tools, prompts, graph logic) and support for rapid iteration.
+- **LangGraph-based ReAct Agent Template**: Provides a Python implementation of a ReAct (Reasoning and Acting) agent using LangGraph, enabling iterative reasoning and tool-use workflows.
+- **Modular Architecture**: Designed for extensibility with predefined components for state management, tool integration, and agent orchestration.
+- **Latest Update (2026-07-16)**: Repository actively maintained with recent updates, supporting LangGraph v0.0.61+ and Python 3.10+.
 
 ## Why It Matters
 
@@ -44,14 +42,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: langchain-ai
 - Stars: 798
-- Forks: 696
+- Forks: 697
 - Language: Python
 - Topics: langgraph, langgraph-python, langgraph-template
 - Last Updated: 2026-07-16T19:57:17Z
 - License: MIT
 - Archived: No
 - Created At: 2024-08-21T19:57:32Z
-- Pushed At: 2026-06-26T08:21:52Z
+- Pushed At: 2026-07-21T11:00:44Z
 
 ## Possible Use Cases
 

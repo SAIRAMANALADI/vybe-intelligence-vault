@@ -1,13 +1,26 @@
 ---
-title: "DaizeDong/small-cap-deepdive"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code", "EDGAR Tools", "SEC Filings", "XBRL", "LLM (for classification)", "WebSearch (for disconfirmation)", "JSON/Config Management"]
+title: DaizeDong/small-cap-deepdive
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python
+- Claude Code
+- EDGAR Tools
+- SEC Filings
+- XBRL
+- LLM (for classification)
+- WebSearch (for disconfirmation)
+- JSON/Config Management
 quality_score: 9
 rag_relevance: 7
-tags: ["SEC filings analysis", "small-cap investing", "mechanical due diligence", "landmine elimination", "forced disconfirmation"]
-source: "https://github.com/DaizeDong/small-cap-deepdive"
-discovered_at: "2026-07-17T08:07:14Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- SEC filings analysis
+- small-cap investing
+- mechanical due diligence
+- landmine elimination
+- forced disconfirmation
+source: https://github.com/DaizeDong/small-cap-deepdive
+discovered_at: '2026-07-17T08:07:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "KyaniteLabs/kinocut"
-category: "Tooling"
-tech_stack: ["Python", "FFmpeg", "Model Context Protocol (MCP)", "Whisper (for speech-to-text)", "PyTorch (for AI features)", "Hyperframes", "CLI", "JSON/YAML (for workflow specs)"]
+title: KyaniteLabs/kinocut
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python
+- FFmpeg
+- Model Context Protocol (MCP)
+- Whisper (for speech-to-text)
+- PyTorch (for AI features)
+- Hyperframes
+- CLI
+- JSON/YAML (for workflow specs)
 quality_score: 9
 rag_relevance: 9
-tags: ["video editing", "AI agents", "FFmpeg abstraction", "workflow automation", "media provenance"]
-source: "https://github.com/KyaniteLabs/kinocut"
-discovered_at: "2026-07-10T18:22:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- video editing
+- AI agents
+- FFmpeg abstraction
+- workflow automation
+- media provenance
+source: https://github.com/KyaniteLabs/kinocut
+discovered_at: '2026-07-10T18:22:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

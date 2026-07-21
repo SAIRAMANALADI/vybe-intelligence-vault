@@ -3,7 +3,7 @@ title: Godot Docs – 4.7 branch — Godot Engine (stable) documentation in Engl
 archive_category: webdev-3d-creative
 source_category: ai/rag
 source_url: https://docs.godotengine.org/en/
-resource_id: blog:godot-docs-4-7-branch-godot-engine-stable-document
+resource_id: blog:godot-docs-4-7-branch-godot-engine-stable-document-1b0237bd
 local_vault_path: ai/rag/godot-docs-4-7-branch-godot-engine-stable-document.md
 quality_score: 70
 archive_score: 72

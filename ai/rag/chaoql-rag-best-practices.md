@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-07-20T03:42:43.153747+05:30'
+collected_at: '2026-07-21T22:14:07.400923+05:30'
 published_at: '2026-07-05T01:00:39Z'
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 stars: 95
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-07-20T03:42:43.153747+05:30'
-last_seen: '2026-07-20T03:42:43.153747+05:30'
-last_checked: '2026-07-20T03:42:43.153747+05:30'
+first_seen: '2026-07-21T22:14:07.400923+05:30'
+last_seen: '2026-07-21T22:14:07.400923+05:30'
+last_checked: '2026-07-21T22:14:07.400923+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Optimization Framework**: Repository provides structured best practices for Retrieval-Augmented Generation (RAG) using large language models (LLMs), focusing on retrieval quality, prompt engineering, and generation tuning in Python.
-
-- **Modular Implementation**: Includes reusable components for document preprocessing, vector storage (e.g., FAISS/Chroma), retrieval strategies (dense/sparse), and hybrid query handling to enhance LLM context relevance.
-
-- **Evaluation & Benchmarking**: Integrates metrics (e.g., Hit Rate, MRR, Faithfulness) and tools for systematic RAG pipeline evaluation, with examples for optimizing trade-offs between latency and accuracy.
+- **RAG Implementation Guide**: Repository provides technical best practices for integrating large language models (LLMs) with retrieval-augmented generation (RAG) pipelines in Python.
+- **Optimization Techniques**: Focuses on retrieval strategies, chunking methods, and prompt engineering to enhance LLM performance in knowledge-intensive tasks.
+- **Evaluation Metrics**: Includes methodologies for assessing RAG system efficiency, accuracy, and latency in production environments.
 
 ## Why It Matters
 

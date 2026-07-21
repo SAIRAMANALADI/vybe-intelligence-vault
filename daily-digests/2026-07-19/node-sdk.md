@@ -1,13 +1,25 @@
 ---
-title: "agentscore/node-sdk"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "REST API", "EVM", "Solana", "JWT", "SIWE"]
+title: agentscore/node-sdk
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- REST API
+- EVM
+- Solana
+- JWT
+- SIWE
 quality_score: 9
 rag_relevance: 8
-tags: ["KYC", "Identity Verification", "Agent Gating", "Sanctions Screening", "Wallet Resolution"]
-source: "https://github.com/agentscore/node-sdk"
-discovered_at: "2026-07-17T20:05:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- KYC
+- Identity Verification
+- Agent Gating
+- Sanctions Screening
+- Wallet Resolution
+source: https://github.com/agentscore/node-sdk
+discovered_at: '2026-07-17T20:05:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

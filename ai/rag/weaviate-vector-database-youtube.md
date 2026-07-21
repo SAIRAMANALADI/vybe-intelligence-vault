@@ -4,19 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://youtube.com/@Weaviate
-published_at: '2026-07-13T09:41:04.407445+05:30'
-collected_at: '2026-07-13T09:41:04.407457+05:30'
+published_at: '2026-07-21T14:27:18.576278+05:30'
+collected_at: '2026-07-21T14:27:18.576298+05:30'
 tags:
+- dataset
 - hackernews
 - rag
-- reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:weaviate-vector-database-youtube
-first_seen: '2026-07-13T09:41:04.407457+05:30'
-last_seen: '2026-07-13T09:41:04.407457+05:30'
-last_checked: '2026-07-13T09:41:04.407457+05:30'
+first_seen: '2026-07-21T14:27:18.576298+05:30'
+last_seen: '2026-07-21T14:27:18.576298+05:30'
+last_checked: '2026-07-21T14:27:18.576298+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, streaming, monetization (via YouTube Partners/Advertisers), and creator tools (YouTube Studio, YouTube Music, YouTube Kids).
+- YouTube operates under Google LLC, with core infrastructure documented in the [How YouTube Works](https://www.youtube.com/howyoutubeworks) technical overview, detailing content delivery, recommendation systems, and ad-serving architectures.
 
-- **Technical Infrastructure**: Utilizes Google’s CDN and AI-driven recommendation algorithms (e.g., deep neural networks) to optimize video delivery, personalization, and content discovery across global users (~2.7B monthly active users).
+- The [YouTube Developers](https://developers.google.com/youtube) portal provides APIs (e.g., Data, Analytics, Live Streaming) for programmatic access to video metadata, uploads, and real-time interactions, supporting OAuth 2.0 and quota-based rate limiting.
 
-- **Policy & Compliance**: Enforces [Content ID](https://www.youtube.com/howyoutubeworks/content-id/) for copyright management, adheres to [GDPR/CCPA](https://youtube.com/t/privacy) for data privacy, and provides [APIs](https://developers.google.com/youtube) for third-party integrations (e.g., analytics, live streaming).
+- YouTube leverages a **vector-based recommendation system** (likely using embeddings) to optimize content discovery, as inferred from its integration with **Weaviate** (a vector database) for semantic search and similarity matching in large-scale video datasets.
 
 ## Why It Matters
 
@@ -38,13 +38,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-13T09:41:04.407445+05:30
+- Published: 2026-07-21T14:27:18.576278+05:30
 
 ## Related Tags
 
+- dataset
 - hackernews
 - rag
-- reddit
 - web-crawled
 - youtube
 

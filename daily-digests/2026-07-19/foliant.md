@@ -1,13 +1,26 @@
 ---
-title: "magnetron01123/foliant"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "SQLite", "Uvicorn", "OCR (Tesseract)", "PDF processing", "TOML", "pytest"]
+title: magnetron01123/foliant
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- FastMCP
+- SQLite
+- Uvicorn
+- OCR (Tesseract)
+- PDF processing
+- TOML
+- pytest
 quality_score: 7
 rag_relevance: 6
-tags: ["D&D 5e", "MCP server", "rule reference", "self-hosted", "German localization"]
-source: "https://github.com/magnetron01123/foliant"
-discovered_at: "2026-07-18T09:24:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- D&D 5e
+- MCP server
+- rule reference
+- self-hosted
+- German localization
+source: https://github.com/magnetron01123/foliant
+discovered_at: '2026-07-18T09:24:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

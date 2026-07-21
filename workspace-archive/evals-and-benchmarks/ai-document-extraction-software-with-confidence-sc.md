@@ -2,7 +2,7 @@
 title: AI Document Extraction Software with confidence scores and citations | Extract
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://www.llamaindex.ai/llamaextract?utm_source=github&utm_medium=org_card
+source_url: https://www.llamaindex.ai/llamaextract
 resource_id: blog:ai-document-extraction-software-with-confidence-sc
 local_vault_path: ai/rag/ai-document-extraction-software-with-confidence-sc.md
 quality_score: 70
@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Field-level confidence scoring**: Quantifies extraction certainty per field with granular confidence metrics for precise data validation.
-- **Layout + context-aware parsing**: Uses reasoning-based models to optimize extraction accuracy for complex document structures (e.g., nested tables, spatial layouts).
-- **Iterative schema development**: Supports custom schema definition or auto-detection of fields, enabling dynamic adaptation to diverse document types (e.g., contracts, invoices, call tr
+- **Field-level confidence scoring**: Quantifies extraction certainty per column with granular confidence metrics for precise data validation.
+
+- **Layout + context-aware parsing**: Uses reasoning-based extraction for superior accuracy, handling nested tables, spatial layouts, and image extraction in complex documents.
+
+- **Iterative schema development**: Supports custom schema definition or auto-detection of fields, enabling flexible extraction workflows optimized for cost-accuracy tradeoffs.
 
 ## Use Cases
 
@@ -49,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.llamaindex.ai/llamaextract?utm_source=github&utm_medium=org_card
+Original source URL: https://www.llamaindex.ai/llamaextract
 
 ## Local Vault File
 

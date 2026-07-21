@@ -1,13 +1,23 @@
 ---
-title: "zhoy0409-debug/scholarflow-skills"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "YAML", "Agent Frameworks", "Markdown", "Shell Scripting"]
+title: zhoy0409-debug/scholarflow-skills
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- JavaScript
+- YAML
+- Agent Frameworks
+- Markdown
+- Shell Scripting
 quality_score: 8
 rag_relevance: 9
-tags: ["research automation", "agent skills", "academic workflows", "RAG optimization", "scientific writing"]
-source: "https://github.com/zhoy0409-debug/scholarflow-skills"
-discovered_at: "2026-07-14T10:07:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- research automation
+- agent skills
+- academic workflows
+- RAG optimization
+- scientific writing
+source: https://github.com/zhoy0409-debug/scholarflow-skills
+discovered_at: '2026-07-14T10:07:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

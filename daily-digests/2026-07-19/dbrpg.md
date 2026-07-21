@@ -1,13 +1,23 @@
 ---
-title: "BattermanZ/DBRPG"
-category: "Tooling"
-tech_stack: ["Python", "Git", "Telegram API", "Markdown", "Git Hooks"]
+title: BattermanZ/DBRPG
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- Git
+- Telegram API
+- Markdown
+- Git Hooks
 quality_score: 8
 rag_relevance: 6
-tags: ["AI Game Master", "Text-based RPG", "French RPG", "Dragon Ball-inspired", "Git-driven narrative"]
-source: "https://github.com/BattermanZ/DBRPG"
-discovered_at: "2026-07-18T13:09:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Game Master
+- Text-based RPG
+- French RPG
+- Dragon Ball-inspired
+- Git-driven narrative
+source: https://github.com/BattermanZ/DBRPG
+discovered_at: '2026-07-18T13:09:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

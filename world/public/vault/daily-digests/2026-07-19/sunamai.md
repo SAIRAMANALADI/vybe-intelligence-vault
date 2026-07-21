@@ -1,13 +1,28 @@
 ---
-title: "CJackHwang/SunamAI"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Vite", "WebContainer", "React", "Node.js", "IndexedDB", "Playwright", "ESLint", "TypeScript", "PWA"]
+title: CJackHwang/SunamAI
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Vite
+- WebContainer
+- React
+- Node.js
+- IndexedDB
+- Playwright
+- ESLint
+- TypeScript
+- PWA
 quality_score: 9
 rag_relevance: 8
-tags: ["AI programming assistant", "browser-based IDE", "agent framework", "WebContainer", "multi-session isolation"]
-source: "https://github.com/CJackHwang/SunamAI"
-discovered_at: "2026-07-19T20:44:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI programming assistant
+- browser-based IDE
+- agent framework
+- WebContainer
+- multi-session isolation
+source: https://github.com/CJackHwang/SunamAI
+discovered_at: '2026-07-19T20:44:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

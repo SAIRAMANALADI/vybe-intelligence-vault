@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/openai/tiktoken
-collected_at: '2026-07-14T19:53:05.190195+05:30'
-published_at: '2026-07-14T12:55:11Z'
+collected_at: '2026-07-21T09:21:09.810580+05:30'
+published_at: '2026-07-21T03:09:48Z'
 tags:
 - github-repo
 - openai
 - python
 - rag
-stars: 18746
+stars: 18784
 language: Python
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2022-12-01T23:22:11Z'
 pushed_at: '2026-05-24T08:43:54Z'
 resource_id: github:openai/tiktoken
-first_seen: '2026-07-14T19:53:05.190195+05:30'
-last_seen: '2026-07-14T19:53:05.190195+05:30'
-last_checked: '2026-07-14T19:53:05.190195+05:30'
+first_seen: '2026-07-21T09:21:09.810580+05:30'
+last_seen: '2026-07-21T09:21:09.810580+05:30'
+last_checked: '2026-07-21T09:21:09.810580+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **BPE Tokenizer**: Implements Byte Pair Encoding (BPE) algorithm for efficient tokenization, optimized for OpenAI's models.
-- **Performance**: Designed for speed, leveraging C extensions and Rust for high-throughput token processing.
-- **Compatibility**: Supports OpenAI's model-specific tokenizers (e.g., `cl100k_base`, `p50k_base`, `r50k_base`) with pre-defined vocabularies.
+- **BPE Tokenizer**: Implements Byte Pair Encoding (BPE) for efficient tokenization, optimized for OpenAI's models.
+- **Performance**: Designed for speed, leveraging Rust core (`rust-tokenizers`) with Python bindings for high-throughput token processing.
+- **Compatibility**: Supports OpenAI's tokenization schemes (e.g., `cl100k_base`, `p50k_base`, `r50k_base`) with pre-trained vocabularies.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: openai
-- Stars: 18746
-- Forks: 1543
+- Stars: 18784
+- Forks: 1554
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-14T12:55:11Z
+- Last Updated: 2026-07-21T03:09:48Z
 - License: MIT
 - Archived: No
 - Created At: 2022-12-01T23:22:11Z

@@ -1,13 +1,24 @@
 ---
-title: "Ceki-me/realbrowser-skill"
-category: "Tooling"
-tech_stack: ["Python", "Chrome Browser", "CLI", "SDK", "USDC (Cryptocurrency)", "ClawHub"]
+title: Ceki-me/realbrowser-skill
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- Chrome Browser
+- CLI
+- SDK
+- USDC (Cryptocurrency)
+- ClawHub
 quality_score: 8
 rag_relevance: 9
-tags: ["browser automation", "anti-bot bypass", "real user sessions", "marketplace", "AI agent tools"]
-source: "https://github.com/Ceki-me/realbrowser-skill"
-discovered_at: "2026-07-19T17:59:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- anti-bot bypass
+- real user sessions
+- marketplace
+- AI agent tools
+source: https://github.com/Ceki-me/realbrowser-skill
+discovered_at: '2026-07-19T17:59:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

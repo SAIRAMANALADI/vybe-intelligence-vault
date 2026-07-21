@@ -1,13 +1,26 @@
 ---
-title: "slopweaver/slopweaver"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Yarn 4", "CLI frameworks", "GitHub API", "Claude Code integration", "Embedding models (on-device)", "Security scanning (leak detection)"]
+title: slopweaver/slopweaver
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- Yarn 4
+- CLI frameworks
+- GitHub API
+- Claude Code integration
+- Embedding models (on-device)
+- Security scanning (leak detection)
 quality_score: 7
 rag_relevance: 8
-tags: ["local-first", "GitHub context", "zero-config", "privacy-focused", "MCP server"]
-source: "https://github.com/slopweaver/slopweaver"
-discovered_at: "2026-07-11T14:52:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first
+- GitHub context
+- zero-config
+- privacy-focused
+- MCP server
+source: https://github.com/slopweaver/slopweaver
+discovered_at: '2026-07-11T14:52:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

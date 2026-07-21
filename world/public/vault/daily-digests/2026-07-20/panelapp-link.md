@@ -1,13 +1,26 @@
 ---
-title: "berntpopp/panelapp-link"
-category: "Tooling"
-tech_stack: ["Python 3.12+", "FastAPI", "MCP (Model Context Protocol)", "Streamable HTTP", "REST API", "In-memory TTL caching", "Docker", "CI/CD (GitHub Actions)"]
+title: berntpopp/panelapp-link
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python 3.12+
+- FastAPI
+- MCP (Model Context Protocol)
+- Streamable HTTP
+- REST API
+- In-memory TTL caching
+- Docker
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "gene panels", "PanelApp", "multi-region aggregation", "clinical data"]
-source: "https://github.com/berntpopp/panelapp-link"
-discovered_at: "2026-07-19T17:59:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- gene panels
+- PanelApp
+- multi-region aggregation
+- clinical data
+source: https://github.com/berntpopp/panelapp-link
+discovered_at: '2026-07-19T17:59:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

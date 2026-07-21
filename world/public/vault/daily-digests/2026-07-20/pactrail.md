@@ -1,13 +1,25 @@
 ---
-title: "AKMessi/pactrail"
-category: "Agent Framework"
-tech_stack: ["Rust", "SQLite", "BLAKE3", "OpenAI Chat Completions API", "Git", "JSON Schema", "LLM Providers (Ollama, OpenAI, llama.cpp, vLLM, etc.)"]
+title: AKMessi/pactrail
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Rust
+- SQLite
+- BLAKE3
+- OpenAI Chat Completions API
+- Git
+- JSON Schema
+- LLM Providers (Ollama, OpenAI, llama.cpp, vLLM, etc.)
 quality_score: 9
 rag_relevance: 8
-tags: ["coding agent", "verification-native", "tamper-evident", "durable traces", "model-agnostic"]
-source: "https://github.com/AKMessi/pactrail"
-discovered_at: "2026-07-18T09:23:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- coding agent
+- verification-native
+- tamper-evident
+- durable traces
+- model-agnostic
+source: https://github.com/AKMessi/pactrail
+discovered_at: '2026-07-18T09:23:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

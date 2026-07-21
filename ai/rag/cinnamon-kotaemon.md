@@ -4,13 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-07-20T03:42:18.175002+05:30'
-published_at: '2026-07-19T19:34:32Z'
+collected_at: '2026-07-21T22:13:42.449251+05:30'
+published_at: '2026-07-21T10:30:36Z'
 tags:
 - github-repo
+- meta-ai
+- mistral
+- models
 - python
 - rag
-stars: 25568
+stars: 25572
 language: Python
 status: active
 license: Apache-2.0
@@ -18,9 +21,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-07-14T16:53:59Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-07-20T03:42:18.175002+05:30'
-last_seen: '2026-07-20T03:42:18.175002+05:30'
-last_checked: '2026-07-20T03:42:18.175002+05:30'
+first_seen: '2026-07-21T22:13:42.449251+05:30'
+last_seen: '2026-07-21T22:13:42.449251+05:30'
+last_checked: '2026-07-21T22:13:42.449251+05:30'
 health_score: 100
 ---
 
@@ -28,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational interactions with LLMs, leveraging vector embeddings and retrieval mechanisms for context-aware responses.
-
-- **Modular Python Framework**: Built in Python with extensible components for document ingestion, embedding generation (e.g., via Sentence Transformers), and LLM integration (e.g., Hugging Face models).
-
-- **Open-Source Deployment**: Supports local or cloud deployment with Docker, providing pre-configured pipelines for document processing (PDFs, text files) and chatbot interfaces via FastAPI/Gradio.
+- **RAG Architecture**: Implements Retrieval-Augmented Generation (RAG) for document-based chat, combining document retrieval with LLM inference for grounded responses.
+- **Modular Pipeline**: Features a configurable pipeline with components for document ingestion, chunking, vector storage (FAISS/Chroma), retrieval, and LLM interaction.
+- **Extensible Framework**: Supports custom document loaders, embeddings (e.g., Sentence-BERT), and LLMs (e.g., Llama, Mistral) via a Python-based SDK with REST API endpoints.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Cinnamon
-- Stars: 25568
-- Forks: 2133
+- Stars: 25572
+- Forks: 2134
 - Language: Python
 - Topics: chatbot, llms, open-source, rag
-- Last Updated: 2026-07-19T19:34:32Z
+- Last Updated: 2026-07-21T10:30:36Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-03-25T08:16:42Z

@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/functions/crypto/hash/
-published_at: '2026-07-20T03:49:06.659971+05:30'
-collected_at: '2026-07-20T03:49:06.659988+05:30'
+published_at: '2026-07-21T22:19:34.880067+05:30'
+collected_at: '2026-07-21T22:19:34.880081+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:crypto-hash
-first_seen: '2026-07-20T03:49:06.659988+05:30'
-last_seen: '2026-07-20T03:49:06.659988+05:30'
-last_checked: '2026-07-20T03:49:06.659988+05:30'
+first_seen: '2026-07-21T22:19:34.880081+05:30'
+last_seen: '2026-07-21T22:19:34.880081+05:30'
+last_checked: '2026-07-21T22:19:34.880081+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Hashing Functionality**: The `crypto.Hash` function in Hugo supports multiple cryptographic hash algorithms (`md5`, `sha1`, `sha256` (default), `sha384`, `sha512`) to generate checksums encoded as hexadecimal strings from input data.
-
-- **Default Algorithm**: If no algorithm is specified, `crypto.Hash` defaults to `sha256` for hashing the provided input string.
-
-- **SRI Hash Construction**: The function can be combined with `encoding.HexDecode` and `encoding.Base64Encode` to generate Subresource Integrity (SRI) hashes, e.g., `{{ $integrity := printf "%s-%s" $algo ("Hello world" | crypto.Hash $algo | encoding.HexDecode | encoding.Base64Encode) }}`.
+- **Functionality**: Hashes input using specified algorithm (`md5`, `sha1`, `sha256` (default), `sha384`, or `sha512`) and returns hex-encoded checksum.
+- **Syntax**: `crypto.Hash [ALGORITHM] INPUT` or piped input (`"Hello world" | crypto.Hash "sha256"`).
+- **SRI Integration**: Supports Subresource Integrity (SRI) via `crypto.Hash` combined with `encoding.HexDecode` and `encoding.Base64Encode` for constructing SRI hashes.
 
 ## Why It Matters
 
@@ -35,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-20T03:49:06.659971+05:30
+- Published: 2026-07-21T22:19:34.880067+05:30
 
 ## Related Tags
 

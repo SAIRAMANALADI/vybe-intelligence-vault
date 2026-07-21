@@ -1,13 +1,24 @@
 ---
-title: "dkedar7/streamlit-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Streamlit", "MCP (Model Context Protocol)", "CLI", "HTTP/SSE", "uvx (for package execution)"]
+title: dkedar7/streamlit-mcp
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python
+- Streamlit
+- MCP (Model Context Protocol)
+- CLI
+- HTTP/SSE
+- uvx (for package execution)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP", "Streamlit", "Agent Integration", "UI Automation", "RAG Tooling"]
-source: "https://github.com/dkedar7/streamlit-mcp"
-discovered_at: "2026-07-19T02:30:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- Streamlit
+- Agent Integration
+- UI Automation
+- RAG Tooling
+source: https://github.com/dkedar7/streamlit-mcp
+discovered_at: '2026-07-19T02:30:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

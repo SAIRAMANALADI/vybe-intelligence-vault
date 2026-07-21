@@ -1,13 +1,22 @@
 ---
-title: "pipeworx-io/mcp-doffin"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "REST API", "JSON"]
+title: pipeworx-io/mcp-doffin
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- REST API
+- JSON
 quality_score: 6
 rag_relevance: 7
-tags: ["MCP", "procurement data", "Norway", "BYOK", "gateway"]
-source: "https://github.com/pipeworx-io/mcp-doffin"
-discovered_at: "2026-07-19T20:44:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- procurement data
+- Norway
+- BYOK
+- gateway
+source: https://github.com/pipeworx-io/mcp-doffin
+discovered_at: '2026-07-19T20:44:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

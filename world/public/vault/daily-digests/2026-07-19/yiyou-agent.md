@@ -1,13 +1,25 @@
 ---
-title: "heathjuice/yiyou-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Functional Programming", "Immutable State Management", "CLI", "WebSocket", "HTTP", "Black (Code Style)"]
+title: heathjuice/yiyou-agent
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Python
+- Functional Programming
+- Immutable State Management
+- CLI
+- WebSocket
+- HTTP
+- Black (Code Style)
 quality_score: 7
 rag_relevance: 8
-tags: ["AI Agent", "Functional Architecture", "Order Management", "Task Automation", "Immutable State"]
-source: "https://github.com/heathjuice/yiyou-agent"
-discovered_at: "2026-07-12T11:58:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent
+- Functional Architecture
+- Order Management
+- Task Automation
+- Immutable State
+source: https://github.com/heathjuice/yiyou-agent
+discovered_at: '2026-07-12T11:58:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

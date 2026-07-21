@@ -4,10 +4,11 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://pypi.org/project/llama-index/
-published_at: '2026-07-18T01:12:26.544497+05:30'
-collected_at: '2026-07-18T01:12:26.544510+05:30'
+published_at: '2026-07-21T16:56:29.629738+05:30'
+collected_at: '2026-07-21T16:56:29.629750+05:30'
 tags:
 - agents
+- dataset
 - hackernews
 - meta-ai
 - models
@@ -20,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llama-index-pypi
-first_seen: '2026-07-18T01:12:26.544510+05:30'
-last_seen: '2026-07-18T01:12:26.544510+05:30'
-last_checked: '2026-07-18T01:12:26.544510+05:30'
+first_seen: '2026-07-21T16:56:29.629750+05:30'
+last_seen: '2026-07-21T16:56:29.629750+05:30'
+last_checked: '2026-07-21T16:56:29.629750+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Purpose**: LlamaIndex v0.14.23 is an open-source Python framework designed as an interface between LLMs and structured/unstructured data, enabling agentic applications with core components for parsing, indexing, and retrieval-augmented generation (RAG).
+- **Framework Purpose**: LlamaIndex v0.14.23 is an open-source Python framework designed to bridge LLMs with custom datasets, enabling agentic applications via retrieval-augmented generation (RAG) and structured data workflows.
 
-- **Installation & Structure**: Available via `pip install llama-index` (starter package) or `llama-index-core` (modular core), supporting 300+ integrations via LlamaHub for custom LLM/embedding/vector store providers, with Python 3.10+ compatibility and MIT license.
+- **Installation & Modularity**: Available as `llama-index` (starter package) or `llama-index-core` (modular core with 300+ LlamaHub integrations for LLMs, embeddings, and vector stores), supporting Python 3.10+ and MIT-licensed.
 
-- **Enterprise Features**: Includes LlamaParse (OCR/document parsing), LlamaExtract (structured extraction), and LlamaCloud (ingest/index/RAG pipelines), deployable as standalone or integrated with the framework.
+- **LlamaParse Integration**: Standalone enterprise-grade document agent platform (OCR, parsing, extraction, indexing) with APIs for structured data workflows, deployable standalone or alongside LlamaIndex core.
 
 ## Why It Matters
 
@@ -44,11 +45,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-18T01:12:26.544497+05:30
+- Published: 2026-07-21T16:56:29.629738+05:30
 
 ## Related Tags
 
 - agents
+- dataset
 - hackernews
 - meta-ai
 - models

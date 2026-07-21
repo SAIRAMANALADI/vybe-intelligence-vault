@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/hello-agents
-collected_at: '2026-07-20T03:41:58.193676+05:30'
-published_at: '2026-07-19T20:43:05Z'
+collected_at: '2026-07-21T22:13:22.476569+05:30'
+published_at: '2026-07-21T16:41:24Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
-stars: 67189
+stars: 67707
 language: Python
 status: active
 license: NOASSERTION
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-09-07T09:50:24Z'
 pushed_at: '2026-07-17T09:29:46Z'
 resource_id: github:datawhalechina/hello-agents
-first_seen: '2026-07-20T03:41:58.193676+05:30'
-last_seen: '2026-07-20T03:41:58.193676+05:30'
-last_checked: '2026-07-20T03:41:58.193676+05:30'
+first_seen: '2026-07-21T22:13:22.476569+05:30'
+last_seen: '2026-07-21T22:13:22.476569+05:30'
+last_checked: '2026-07-21T22:13:22.476569+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent System Framework**: Tutorial repository providing a structured Python-based implementation for building multi-agent systems, integrating LLM-driven decision-making with modular agent components.
+- **Educational Repository**: Provides a comprehensive tutorial in Chinese titled *"从零开始构建智能体"* (Building Agents from Scratch), covering foundational principles and practical implementations of AI agents.
 
-- **RAG & LLM Integration**: Demonstrates retrieval-augmented generation (RAG) pipelines for dynamic knowledge retrieval and LLM-based reasoning, emphasizing practical agent-environment interaction.
+- **Technical Focus**: Covers key AI agent components including **LLM integration**, **RAG (Retrieval-Augmented Generation)**, and agent architecture, with hands-on Python-based examples.
 
-- **Hands-On Tutorial**: Step-by-step guide covering agent architecture, tool integration, and deployment strategies, with code examples for real-world applications.
+- **High Engagement**: Maintains strong community interest with **67,707 stars**, **8,412 forks**, and recent updates (as of July 21, 2026), indicating active development and adoption.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 67189
-- Forks: 8345
+- Stars: 67707
+- Forks: 8412
 - Language: Python
 - Topics: agent, llm, rag, tutorial
-- Last Updated: 2026-07-19T20:43:05Z
+- Last Updated: 2026-07-21T16:41:24Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-07T09:50:24Z

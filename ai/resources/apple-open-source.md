@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://opensource.apple.com
-published_at: '2026-06-24T23:04:55.225253+05:30'
-collected_at: '2026-06-24T23:04:55.225261+05:30'
+published_at: '2026-07-21T01:39:05.206510+05:30'
+collected_at: '2026-07-21T01:39:05.206528+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:apple-open-source
-first_seen: '2026-06-24T23:04:55.225261+05:30'
-last_seen: '2026-06-24T23:04:55.225261+05:30'
-last_checked: '2026-06-24T23:04:55.225261+05:30'
+first_seen: '2026-07-21T01:39:05.206528+05:30'
+last_seen: '2026-07-21T01:39:05.206528+05:30'
+last_checked: '2026-07-21T01:39:05.206528+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Modern Language Design**: Swift is a statically-typed, compiled language emphasizing safety, performance, and contemporary software engineering patterns (e.g., optionals, generics, and memory safety via ARC).
+- **Language Design**: Swift is a statically-typed, compiled language developed by Apple, emphasizing safety, performance, and modern software engineering principles.
 
-- **Multi-Paradigm Support**: Combines imperative, object-oriented (OOP), and functional programming features, with C++ interoperability for low-level system integration.
+- **Core Features**: Incorporates advanced features like optionals, type inference, memory safety via ARC, and protocol-oriented programming for robust and expressive code.
 
-- **Toolchain & Ecosystem**: Includes LLVM-based compiler (`swiftc`), interactive REPL, package manager (`swift-package-manager`), and cross-platform support (Linux, Windows, macOS).
+- **Ecosystem Integration**: Designed for seamless interoperability with Objective-C and Cocoa/Cocoa Touch frameworks, with official support for Linux and Windows platforms.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T23:04:55.225253+05:30
+- Published: 2026-07-21T01:39:05.206510+05:30
 
 ## Related Tags
 

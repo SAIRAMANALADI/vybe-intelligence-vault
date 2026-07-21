@@ -1,13 +1,26 @@
 ---
-title: "infimium-ai/infimium-agent"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Ollama", "ChromaDB", "SQLite", "Tree-sitter", "Brave Search API"]
+title: infimium-ai/infimium-agent
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Ollama
+- ChromaDB
+- SQLite
+- Tree-sitter
+- Brave Search API
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP server", "semantic search", "dependency graph", "local RAG", "code indexing"]
-source: "https://github.com/infimium-ai/infimium-agent"
-discovered_at: "2026-07-16T23:58:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- semantic search
+- dependency graph
+- local RAG
+- code indexing
+source: https://github.com/infimium-ai/infimium-agent
+discovered_at: '2026-07-16T23:58:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,26 @@
 ---
-title: "lonexreb/cite-guard"
-category: "Tooling"
-tech_stack: ["Python", "OpenAlex API", "Retraction Watch dataset", "Crossref API", "MCP (Model Context Protocol) server", "FastAPI (for web checker)", "pytest (testing)", "uv (dependency management)"]
+title: lonexreb/cite-guard
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Python
+- OpenAlex API
+- Retraction Watch dataset
+- Crossref API
+- MCP (Model Context Protocol) server
+- FastAPI (for web checker)
+- pytest (testing)
+- uv (dependency management)
 quality_score: 8
 rag_relevance: 7
-tags: ["academic integrity", "retraction monitoring", "citation validation", "MCP server", "open science"]
-source: "https://github.com/lonexreb/cite-guard"
-discovered_at: "2026-07-16T02:26:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- academic integrity
+- retraction monitoring
+- citation validation
+- MCP server
+- open science
+source: https://github.com/lonexreb/cite-guard
+discovered_at: '2026-07-16T02:26:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

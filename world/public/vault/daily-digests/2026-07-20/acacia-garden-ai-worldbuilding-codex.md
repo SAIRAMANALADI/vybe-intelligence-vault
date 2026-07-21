@@ -1,13 +1,24 @@
 ---
-title: "brandonmarkgaia-hub/Acacia-Garden-AI-Worldbuilding-Codex"
-category: "Orchestrator"
-tech_stack: ["Markdown", "HTML", "GitHub Pages", "Model Context Protocol (MCP)", "JSON", "Custom symbolic logic frameworks"]
+title: brandonmarkgaia-hub/Acacia-Garden-AI-Worldbuilding-Codex
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Markdown
+- HTML
+- GitHub Pages
+- Model Context Protocol (MCP)
+- JSON
+- Custom symbolic logic frameworks
 quality_score: 8
 rag_relevance: 9
-tags: ["worldbuilding", "symbolic architecture", "AI hallucination prevention", "deterministic knowledge", "sovereign knowledge systems"]
-source: "https://github.com/brandonmarkgaia-hub/Acacia-Garden-AI-Worldbuilding-Codex"
-discovered_at: "2026-07-19T19:13:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- worldbuilding
+- symbolic architecture
+- AI hallucination prevention
+- deterministic knowledge
+- sovereign knowledge systems
+source: https://github.com/brandonmarkgaia-hub/Acacia-Garden-AI-Worldbuilding-Codex
+discovered_at: '2026-07-19T19:13:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

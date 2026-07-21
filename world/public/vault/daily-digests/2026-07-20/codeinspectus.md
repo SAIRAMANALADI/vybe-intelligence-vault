@@ -1,13 +1,26 @@
 ---
-title: "Synvoya/codeinspectus"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Opengrep (SAST)", "Gitleaks (Secrets Detection)", "Trivy (SCA, IaC, Secrets, SBOM)", "SHA256 Verification", "Cosign (Binary Signing)"]
+title: Synvoya/codeinspectus
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Opengrep (SAST)
+- Gitleaks (Secrets Detection)
+- Trivy (SCA, IaC, Secrets, SBOM)
+- SHA256 Verification
+- Cosign (Binary Signing)
 quality_score: 9
 rag_relevance: 9
-tags: ["security-scanner", "local-first", "MCP-server", "AI-code-safety", "compliance-checking"]
-source: "https://github.com/Synvoya/codeinspectus"
-discovered_at: "2026-07-19T11:57:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- security-scanner
+- local-first
+- MCP-server
+- AI-code-safety
+- compliance-checking
+source: https://github.com/Synvoya/codeinspectus
+discovered_at: '2026-07-19T11:57:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

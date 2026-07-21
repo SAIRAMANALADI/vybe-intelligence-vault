@@ -12,7 +12,6 @@ resource_kind: tutorial
 importance: medium
 tags:
 - frontend_ui
-- hackernews
 - producthunt
 - rag
 - threejs
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Project Fugu API Showcase**: Collection of apps demonstrating Chrome's experimental APIs (e.g., Async Clipboard, File System Access, WebUSB) from [Project Fugu](https://developer.chrome.com/docs/capabilities).
-- **Submission & Categorization**: Apps can be submitted via [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScNd1rClbmFWh6FcMmjUNrwg9RLz8Jk4BkHz_-EOpmkVd_-9g/viewform) and organized into technical categories (e.g., Storage, Hardware APIs).
-- **Key APIs Demonstrated**: Includes
+- **Project Fugu API Showcase**: A curated collection of web applications demonstrating APIs developed under Project Fugu, enabling advanced web capabilities (e.g., file system access, Bluetooth, NFC).
+- **Key Enabled APIs**: Includes 40+ experimental APIs such as Async Clipboard, WebHID, WebGPU, File System Access, and Web Transport for enhanced PWA functionality.
+- **Submission & Resources**: Developers can submit apps via a Google Form; detailed documentation and API references are available
 
 ## Use Cases
 

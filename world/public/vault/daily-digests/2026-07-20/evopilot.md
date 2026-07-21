@@ -1,13 +1,28 @@
 ---
-title: "yeliang-wang/EvoPilot"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "PostgreSQL", "Docker", "Jenkins", "GitHub", "GitLab", "LLM APIs", "RBAC", "CI/CD Pipelines"]
+title: yeliang-wang/EvoPilot
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Node.js
+- PostgreSQL
+- Docker
+- Jenkins
+- GitHub
+- GitLab
+- LLM APIs
+- RBAC
+- CI/CD Pipelines
 quality_score: 9
 rag_relevance: 9
-tags: ["AI-agent governance", "release automation", "evidence-driven", "multi-tenancy", "CI/CD integration"]
-source: "https://github.com/yeliang-wang/EvoPilot"
-discovered_at: "2026-07-18T23:52:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-agent governance
+- release automation
+- evidence-driven
+- multi-tenancy
+- CI/CD integration
+source: https://github.com/yeliang-wang/EvoPilot
+discovered_at: '2026-07-18T23:52:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

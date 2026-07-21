@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/orgs/firecrawl/repositories?q=sort%3Astars
-published_at: '2026-07-20T03:48:30.739015+05:30'
-collected_at: '2026-07-20T03:48:30.739030+05:30'
+published_at: '2026-07-21T16:56:29.858010+05:30'
+collected_at: '2026-07-21T16:56:29.858021+05:30'
 tags:
 - agents
 - anthropic
@@ -20,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: github:orgs/firecrawl
-first_seen: '2026-07-20T03:48:30.739030+05:30'
-last_seen: '2026-07-20T03:48:30.739030+05:30'
-last_checked: '2026-07-20T03:48:30.739030+05:30'
+first_seen: '2026-07-21T16:56:29.858021+05:30'
+last_seen: '2026-07-21T16:56:29.858021+05:30'
+last_checked: '2026-07-21T16:56:29.858021+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Firecrawl** (`firecrawl/firecrawl`): TypeScript-based web scraping/crawling API with 153k stars, supporting HTML-to-markdown conversion, structured data extraction, and AI-powered interaction at scale (AGPL-3.0).
+- **Firecrawl**: A TypeScript-based API framework enabling scalable web search, scraping, and interaction via RESTful endpoints, supporting HTML-to-Markdown conversion, structured data extraction, and AI-driven content processing under AGPL-3.0.
 
-- **PDF Inspector** (`firecrawl/pdf-inspector`): Rust-based high-performance PDF toolkit for text extraction, classification (scanned vs. text-based), and OCR routing, with Node.js/Python bindings (MIT License, 1.6k stars).
+- **Firecrawl MCP Server**: JavaScript-based Model Context Protocol (MCP) server integrating web crawling, scraping, and batch processing capabilities into LLM clients (e.g., Cursor, Claude) for real-time data ingestion and search API integration.
 
-- **Firecrawl MCP Server** (`firecrawl/firecrawl-mcp-server`): JavaScript-based Model Context Protocol (MCP) server enabling LLM clients (e.g., Cursor, Claude) to integrate Firecrawl’s web scraping/search capabilities via standardized interfaces (MIT License, 7k stars).
+- **PDF Inspector**: Rust-based high-performance library for PDF classification (scanned vs. text-based), intelligent text extraction, and OCR routing, with Node.js/Python bindings under MIT License.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T03:48:30.739015+05:30
+- Published: 2026-07-21T16:56:29.858010+05:30
 
 ## Related Tags
 

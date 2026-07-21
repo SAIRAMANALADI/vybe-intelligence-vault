@@ -1,13 +1,22 @@
 ---
-title: "XmeetXeditzz/opencode-ralph-rlm"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Recursive Language Models", "Agentic AI", "File-First Workflow"]
+title: XmeetXeditzz/opencode-ralph-rlm
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Recursive Language Models
+- Agentic AI
+- File-First Workflow
 quality_score: 6
 rag_relevance: 7
-tags: ["AI coding assistant", "iterative development", "recursive agents", "file-first workflow", "self-correcting"]
-source: "https://github.com/XmeetXeditzz/opencode-ralph-rlm"
-discovered_at: "2026-07-17T02:52:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding assistant
+- iterative development
+- recursive agents
+- file-first workflow
+- self-correcting
+source: https://github.com/XmeetXeditzz/opencode-ralph-rlm
+discovered_at: '2026-07-17T02:52:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

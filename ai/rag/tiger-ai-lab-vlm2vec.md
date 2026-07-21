@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIGER-AI-Lab/VLM2Vec
-collected_at: '2026-07-20T03:43:38.299533+05:30'
+collected_at: '2026-07-21T22:14:57.512715+05:30'
 published_at: '2026-07-19T21:47:59Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-10-07T15:14:52Z'
 pushed_at: '2026-06-24T06:17:09Z'
 resource_id: github:tiger-ai-lab/vlm2vec
-first_seen: '2026-07-20T03:43:38.299533+05:30'
-last_seen: '2026-07-20T03:43:38.299533+05:30'
-last_checked: '2026-07-20T03:43:38.299533+05:30'
+first_seen: '2026-07-21T22:14:57.512715+05:30'
+last_seen: '2026-07-21T22:14:57.512715+05:30'
+last_checked: '2026-07-21T22:14:57.512715+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **VLM2Vec Framework**: Implements three versions (ICLR 2025, TMLR 2026, COLM 2026) of a multimodal embedding model leveraging contrastive learning for tasks like image, video, and visual document retrieval, as well as multimodal representation learning.
+- **VLM2Vec Framework**: Implements contrastive learning-based multimodal embedding models (VLM2Vec, VLM2Vec-V2, MMEB-V3) for tasks like image/video/document retrieval, RAG, and representation learning, with benchmarks evaluated across ICLR 2025, TMLR 2026, and COLM 2026.
 
-- **MMEB Benchmark Suite**: Provides a standardized evaluation framework (MMEB, MMEB-V2, MMEB-V3) for assessing multimodal embedding models across diverse retrieval and RAG (Retrieval-Augmented Generation) tasks.
+- **Multimodal Embedding Benchmark (MMEB)**: Provides a standardized evaluation suite for multimodal embeddings, covering modalities such as images, videos, and documents, with support for contrastive learning and retrieval tasks.
 
-- **Python Implementation**: Open-source repository with 667 stars and 62 forks, featuring modular code for training, evaluation, and benchmarking of VLM2Vec models in multimodal applications.
+- **Python Implementation**: Repository includes open-source Python code for training, evaluating, and benchmarking VLM2Vec models, with dependencies optimized for multimodal representation learning and retrieval tasks.
 
 ## Why It Matters
 

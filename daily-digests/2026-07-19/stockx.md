@@ -1,13 +1,28 @@
 ---
-title: "sudhanva-bh/Stockx"
-category: "Agent Framework"
-tech_stack: ["Gilhari ORM", "ORMCP (MCP Server)", "LangGraph", "LangChain", "FastAPI", "Flutter", "Python", "Java", "Microsoft SQL Server", "Docker"]
+title: sudhanva-bh/Stockx
+category: daily-digests/2026-07-19
+tech_stack:
+- Gilhari ORM
+- ORMCP (MCP Server)
+- LangGraph
+- LangChain
+- FastAPI
+- Flutter
+- Python
+- Java
+- Microsoft SQL Server
+- Docker
 quality_score: 8
 rag_relevance: 9
-tags: ["Agentic AI", "Database Integration", "MCP Tools", "Generative UI", "Supply Chain"]
-source: "https://github.com/sudhanva-bh/Stockx"
-discovered_at: "2026-07-17T10:46:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Agentic AI
+- Database Integration
+- MCP Tools
+- Generative UI
+- Supply Chain
+source: https://github.com/sudhanva-bh/Stockx
+discovered_at: '2026-07-17T10:46:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

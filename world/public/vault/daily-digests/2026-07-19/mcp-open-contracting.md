@@ -1,13 +1,22 @@
 ---
-title: "pipeworx-io/mcp-open-contracting"
-category: "Tooling"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "REST API", "JSON"]
+title: pipeworx-io/mcp-open-contracting
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- REST API
+- JSON
 quality_score: 6
 rag_relevance: 8
-tags: ["MCP", "public procurement", "government tenders", "data gateway", "AI agents"]
-source: "https://github.com/pipeworx-io/mcp-open-contracting"
-discovered_at: "2026-07-19T20:44:31Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- public procurement
+- government tenders
+- data gateway
+- AI agents
+source: https://github.com/pipeworx-io/mcp-open-contracting
+discovered_at: '2026-07-19T20:44:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

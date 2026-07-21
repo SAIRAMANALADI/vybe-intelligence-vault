@@ -1,13 +1,23 @@
 ---
-title: "Grinv/steam-games-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Steam Web API", "npm"]
+title: Grinv/steam-games-mcp
+category: daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Steam Web API
+- npm
 quality_score: 9
 rag_relevance: 7
-tags: ["Steam API", "MCP server", "game discovery", "player data", "AI tooling"]
-source: "https://github.com/Grinv/steam-games-mcp"
-discovered_at: "2026-07-17T21:52:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Steam API
+- MCP server
+- game discovery
+- player data
+- AI tooling
+source: https://github.com/Grinv/steam-games-mcp
+discovered_at: '2026-07-17T21:52:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

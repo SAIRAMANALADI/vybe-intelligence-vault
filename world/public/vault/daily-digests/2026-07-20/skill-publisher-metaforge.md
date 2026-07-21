@@ -1,13 +1,26 @@
 ---
-title: "brunoalfabl07-dot/skill-publisher-metaforge"
-category: "Tooling"
-tech_stack: ["Python", "YAML", "JSON", "CLI", "Regex", "Semantic Versioning", "Markdown", "Docker"]
+title: brunoalfabl07-dot/skill-publisher-metaforge
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python
+- YAML
+- JSON
+- CLI
+- Regex
+- Semantic Versioning
+- Markdown
+- Docker
 quality_score: 8
 rag_relevance: 7
-tags: ["AI skill management", "multi-framework publishing", "secret scrubbing", "versioned releases", "cross-platform deployment"]
-source: "https://github.com/brunoalfabl07-dot/skill-publisher-metaforge"
-discovered_at: "2026-07-10T23:08:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI skill management
+- multi-framework publishing
+- secret scrubbing
+- versioned releases
+- cross-platform deployment
+source: https://github.com/brunoalfabl07-dot/skill-publisher-metaforge
+discovered_at: '2026-07-10T23:08:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

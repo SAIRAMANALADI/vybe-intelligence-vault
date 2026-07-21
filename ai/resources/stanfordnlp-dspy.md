@@ -4,23 +4,23 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/stanfordnlp/dspy
-collected_at: '2026-07-20T03:47:26.130396+05:30'
-published_at: '2026-07-19T21:11:25Z'
+collected_at: '2026-07-21T09:20:23.503145+05:30'
+published_at: '2026-07-21T03:37:19Z'
 tags:
 - github-repo
-- models
+- hackernews
 - python
-stars: 36229
+stars: 36267
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-01-09T21:01:51Z'
-pushed_at: '2026-07-16T19:12:53Z'
+pushed_at: '2026-07-20T15:18:05Z'
 resource_id: github:stanfordnlp/dspy
-first_seen: '2026-07-20T03:47:26.130396+05:30'
-last_seen: '2026-07-20T03:47:26.130396+05:30'
-last_checked: '2026-07-20T03:47:26.130396+05:30'
+first_seen: '2026-07-21T09:20:23.503145+05:30'
+last_seen: '2026-07-21T09:20:23.503145+05:30'
+last_checked: '2026-07-21T09:20:23.503145+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Programmatic LM Optimization**: DSPy introduces a framework that shifts from manual prompt engineering to programmatic optimization of language models, enabling systematic tuning of prompts and weights via declarative modules.
+- **Programmatic LM Optimization**: DSPy introduces a framework for programmatically composing and optimizing language model (LM) pipelines, replacing ad-hoc prompting with structured, declarative modules (e.g., `Predict`, `Retrieve`) and automatic parameter tuning via teleprompters.
 
-- **Modular Pipeline Design**: The framework provides composable, declarative modules (e.g., `Predict`, `Retrieve`) that abstract LM interactions, allowing developers to define pipelines programmatically while DSPy handles optimization (e.g., via teleprompters).
+- **Modular Abstractions**: The library provides high-level abstractions (e.g., `Signature`, `Module`) to define LM interactions (e.g., QA, summarization) as reusable components, decoupling logic from model-specific details while enabling cross-model compatibility.
 
-- **Automated Teleprompters**: Includes built-in optimization algorithms (e.g., BootstrapFewShot, MIPROv2) that automatically generate and refine prompts or weights, reducing reliance on manual trial-and-error and improving reproducibility.
+- **Optimization via Teleprompters**: DSPy employs teleprompters (e.g., `BootstrapFewShot`, `MIPROv2`) to automatically optimize prompts, demonstrations, and LM parameters through gradient-free techniques, improving performance without manual tuning.
 
 ## Why It Matters
 
@@ -41,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: stanfordnlp
-- Stars: 36229
-- Forks: 3111
+- Stars: 36267
+- Forks: 3117
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-19T21:11:25Z
+- Last Updated: 2026-07-21T03:37:19Z
 - License: MIT
 - Archived: No
 - Created At: 2023-01-09T21:01:51Z
-- Pushed At: 2026-07-16T19:12:53Z
+- Pushed At: 2026-07-20T15:18:05Z
 
 ## Possible Use Cases
 

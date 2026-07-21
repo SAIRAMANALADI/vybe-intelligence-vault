@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://speechify.com/terms
-published_at: '2026-07-14T13:07:31.021653+05:30'
-collected_at: '2026-07-14T13:07:31.021669+05:30'
+published_at: '2026-07-21T09:25:30.778591+05:30'
+collected_at: '2026-07-21T09:25:30.778600+05:30'
 tags:
 - agents
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:terms-conditions-speechify
-first_seen: '2026-07-14T13:07:31.021669+05:30'
-last_seen: '2026-07-14T13:07:31.021669+05:30'
-last_checked: '2026-07-14T13:07:31.021669+05:30'
+first_seen: '2026-07-21T09:25:30.778600+05:30'
+last_seen: '2026-07-21T09:25:30.778600+05:30'
+last_checked: '2026-07-21T09:25:30.778600+05:30'
 health_score: 100
 ---
 
@@ -26,9 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Mandatory Arbitration & Class Action Waiver**: Terms enforce pre-dispute arbitration and class action waivers, restricting dispute resolution to individual arbitration, with updates retroactively binding past unreported disputes.
-- **Subscription Model & Auto-Renewal**: Paid subscriptions auto-renew monthly/annually unless canceled 30+ days pre-termination; free trials convert to paid plans post-expiry, with no pro-rated refunds for unused days.
-- **Data & Account Compliance**: Users must maintain accurate account/payment data, with Speechify authorized to charge renewal fees; minors require parental consent, and all users indemnify Speechify for breaches.
+- **Mandatory Arbitration & Class Action Waiver**: All disputes with Speechify must undergo binding arbitration (per FAA §§ 1-16), with class action waivers enforced under *AT&T Mobility LLC v. Concepcion* (2011); pre-dispute provisions apply retroactively to unresolved claims.
+
+- **Subscription Auto-Renewal & Billing**: Paid subscriptions auto-renew monthly/annually unless canceled ≥30 days prior via account settings (consumer) or written notice (enterprise); third-party payment processors (Apple/Google) enforce non-refundable terms under their respective policies.
+
+- **User Eligibility & Liability**: Users must be ≥18 (or minors with guardian consent); account security is user’s sole responsibility; breaches may trigger indemnification clauses per §1.1.
 
 ## Why It Matters
 
@@ -38,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-14T13:07:31.021653+05:30
+- Published: 2026-07-21T09:25:30.778591+05:30
 
 ## Related Tags
 

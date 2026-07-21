@@ -1,13 +1,26 @@
 ---
-title: "modelstudioai/openwork"
-category: "UI Component"
-tech_stack: ["TypeScript", "Electron", "React", "Qwen Code", "ModelStudio CLI", "MCP (Model Context Protocol)", "GitHub API", "Alibaba Cloud ModelStudio"]
+title: modelstudioai/openwork
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Electron
+- React
+- Qwen Code
+- ModelStudio CLI
+- MCP (Model Context Protocol)
+- GitHub API
+- Alibaba Cloud ModelStudio
 quality_score: 8
 rag_relevance: 7
-tags: ["AI agents", "desktop workspace", "local-first", "multi-session management", "code execution"]
-source: "https://github.com/modelstudioai/openwork"
-discovered_at: "2026-07-19T16:57:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- desktop workspace
+- local-first
+- multi-session management
+- code execution
+source: https://github.com/modelstudioai/openwork
+discovered_at: '2026-07-19T16:57:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

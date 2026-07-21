@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-07-20T03:43:03.337747+05:30'
+collected_at: '2026-07-21T22:14:27.452804+05:30'
 published_at: '2026-07-10T09:46:49Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-07-20T03:43:03.337747+05:30'
-last_seen: '2026-07-20T03:43:03.337747+05:30'
-last_checked: '2026-07-20T03:43:03.337747+05:30'
+first_seen: '2026-07-21T22:14:27.452804+05:30'
+last_seen: '2026-07-21T22:14:27.452804+05:30'
+last_checked: '2026-07-21T22:14:27.452804+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: CRUD-RAG provides a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on Large Language Models (LLMs) with metrics for retrieval and generation performance.
+- **Benchmark Design**: Introduces a Chinese-focused benchmark (CRUD-RAG) for evaluating Retrieval-Augmented Generation (RAG) systems in Large Language Models (LLMs), emphasizing comprehensive assessment across diverse retrieval and generation tasks.
 
-- **Evaluation Scope**: Includes diverse tasks such as knowledge-intensive QA, multi-hop reasoning, and long-form generation, with standardized datasets and evaluation protocols tailored for Chinese language processing.
+- **Evaluation Framework**: Implements structured metrics for assessing RAG performance, including retrieval accuracy, response relevance, and contextual coherence, with standardized datasets and evaluation protocols tailored for Chinese language processing.
 
-- **Open-Source Toolkit**: Implements a Python-based repository with modular components for retrieval, indexing, and generation, enabling reproducible benchmarking and extensibility for new RAG methodologies.
+- **Open-Source Toolkit**: Provides a Python-based repository with tools for benchmarking, including dataset preprocessing, retrieval model integration, and evaluation scripts, facilitating reproducibility and community contributions.
 
 ## Why It Matters
 

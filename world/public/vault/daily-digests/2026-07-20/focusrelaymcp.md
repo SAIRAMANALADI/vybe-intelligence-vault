@@ -1,13 +1,24 @@
 ---
-title: "deverman/FocusRelayMCP"
-category: "Tooling"
-tech_stack: ["Swift", "Omni Automation", "MCP (Model Context Protocol)", "Homebrew", "CLI", "OmniFocus API"]
+title: deverman/FocusRelayMCP
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Swift
+- Omni Automation
+- MCP (Model Context Protocol)
+- Homebrew
+- CLI
+- OmniFocus API
 quality_score: 9
 rag_relevance: 8
-tags: ["OmniFocus", "MCP Server", "Task Automation", "AI Integration", "Swift"]
-source: "https://github.com/deverman/FocusRelayMCP"
-discovered_at: "2026-07-19T15:56:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- OmniFocus
+- MCP Server
+- Task Automation
+- AI Integration
+- Swift
+source: https://github.com/deverman/FocusRelayMCP
+discovered_at: '2026-07-19T15:56:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

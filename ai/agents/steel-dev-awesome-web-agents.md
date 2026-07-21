@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/steel-dev/awesome-web-agents
-collected_at: '2026-07-20T03:44:33.402622+05:30'
-published_at: '2026-07-19T12:17:48Z'
+collected_at: '2026-07-21T22:15:57.649988+05:30'
+published_at: '2026-07-20T18:42:14Z'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-03-06T05:23:47Z'
 pushed_at: '2026-07-10T13:10:53Z'
 resource_id: github:steel-dev/awesome-web-agents
-first_seen: '2026-07-20T03:44:33.402622+05:30'
-last_seen: '2026-07-20T03:44:33.402622+05:30'
-last_checked: '2026-07-20T03:44:33.402622+05:30'
+first_seen: '2026-07-21T22:15:57.649988+05:30'
+last_seen: '2026-07-21T22:15:57.649988+05:30'
+last_checked: '2026-07-21T22:15:57.649988+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`steel-dev/awesome-web-agents`) listing tools, frameworks, and resources for developing AI web agents, covering automation, LLMs, and benchmarking.
-- **Technical Scope**: Focuses on Python-based solutions, browser automation, and LLM integration/benchmarking for AI agent development.
-- **Community Metrics**: 1,514 stars, 200 forks, last updated July 19, 2026.
+- **Curated Resource**: A GitHub repository listing tools, frameworks, and resources for developing AI web agents, covering browser automation, LLM integration, and benchmarking.
+- **Technical Scope**: Focuses on Python-based solutions, including LLMs, agent frameworks, and evaluation tools for web automation tasks.
+- **Metadata**: 1,514 stars, 200 forks, last updated July 20, 2026.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 200
 - Language: Python
 - Topics: ai, ai-agents, awesome, awesome-list, browser-automation, llms, llms-benchmarking
-- Last Updated: 2026-07-19T12:17:48Z
+- Last Updated: 2026-07-20T18:42:14Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-03-06T05:23:47Z

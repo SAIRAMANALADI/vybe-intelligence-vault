@@ -1,13 +1,25 @@
 ---
-title: "dejuknow/md-redline"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "React", "Vite", "MCP (Model Context Protocol)", "HTML/CSS", "DOMPurify"]
+title: dejuknow/md-redline
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- Vite
+- MCP (Model Context Protocol)
+- HTML/CSS
+- DOMPurify
 quality_score: 9
 rag_relevance: 8
-tags: ["markdown review", "AI agent collaboration", "inline comments", "MCP server", "specification tooling"]
-source: "https://github.com/dejuknow/md-redline"
-discovered_at: "2026-07-18T21:50:02Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- markdown review
+- AI agent collaboration
+- inline comments
+- MCP server
+- specification tooling
+source: https://github.com/dejuknow/md-redline
+discovered_at: '2026-07-18T21:50:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

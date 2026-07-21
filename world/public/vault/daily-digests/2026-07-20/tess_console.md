@@ -1,13 +1,36 @@
 ---
-title: "ememndon/tess_console"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Next.js", "PostgreSQL", "Drizzle ORM", "Tailwind CSS", "shadcn/ui", "Anthropic SDK (Claude)", "OpenAI/DeepSeek/Gemini/Qwen", "Docker", "Caddy", "imapflow", "Sharp", "Fabric.js", "Remotion", "Playwright", "ffmpeg", "GFPGAN", "rembg"]
+title: ememndon/tess_console
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Next.js
+- PostgreSQL
+- Drizzle ORM
+- Tailwind CSS
+- shadcn/ui
+- Anthropic SDK (Claude)
+- OpenAI/DeepSeek/Gemini/Qwen
+- Docker
+- Caddy
+- imapflow
+- Sharp
+- Fabric.js
+- Remotion
+- Playwright
+- ffmpeg
+- GFPGAN
+- rembg
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent", "self-hosted", "RBAC", "LLM integration", "autonomous operations"]
-source: "https://github.com/ememndon/tess_console"
-discovered_at: "2026-07-15T20:08:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- self-hosted
+- RBAC
+- LLM integration
+- autonomous operations
+source: https://github.com/ememndon/tess_console
+discovered_at: '2026-07-15T20:08:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

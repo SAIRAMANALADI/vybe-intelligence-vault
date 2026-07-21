@@ -1,13 +1,26 @@
 ---
-title: "tathagat22/plumb-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Figma Plugin API", "MCP (Model Context Protocol)", "REST API (secondary path)", "WebSocket", "Design Token Processing", "Computer Vision (for verification)"]
+title: tathagat22/plumb-mcp
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Node.js
+- Figma Plugin API
+- MCP (Model Context Protocol)
+- REST API (secondary path)
+- WebSocket
+- Design Token Processing
+- Computer Vision (for verification)
 quality_score: 9
 rag_relevance: 8
-tags: ["Figma integration", "AI design generation", "Verification loop", "MCP server", "Design-to-code"]
-source: "https://github.com/tathagat22/plumb-mcp"
-discovered_at: "2026-07-19T15:56:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Figma integration
+- AI design generation
+- Verification loop
+- MCP server
+- Design-to-code
+source: https://github.com/tathagat22/plumb-mcp
+discovered_at: '2026-07-19T15:56:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

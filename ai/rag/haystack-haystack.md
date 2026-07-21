@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/
-published_at: '2026-07-20T03:46:08.836530+05:30'
-collected_at: '2026-07-20T03:46:08.836548+05:30'
+published_at: '2026-07-21T19:56:44.825726+05:30'
+collected_at: '2026-07-21T19:56:44.825735+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:haystack-haystack
-first_seen: '2026-07-20T03:46:08.836548+05:30'
-last_seen: '2026-07-20T03:46:08.836548+05:30'
-last_checked: '2026-07-20T03:46:08.836548+05:30'
+first_seen: '2026-07-21T19:56:44.825735+05:30'
+last_seen: '2026-07-21T19:56:44.825735+05:30'
+last_checked: '2026-07-21T19:56:44.825735+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Orchestration**: Haystack provides a transparent, modular framework for building production-ready AI agents, RAG pipelines, and multimodal applications with full visibility into retrieval, reasoning, memory, and tool integration.
+- **Modular AI Orchestration**: Haystack provides a transparent, modular framework for building production-ready AI agents, RAG pipelines, and context-engineered systems with full visibility into retrieval, reasoning, memory, and tool integration.
 
-- **Vendor-Neutral Integration**: Supports seamless integration with major LLMs (OpenAI, Anthropic, Mistral) and vector databases (Weaviate, Pinecone, Elasticsearch) via an open architecture, avoiding vendor lock-in.
+- **Vendor-Neutral Integration**: Supports seamless integration with major AI/LLM providers (OpenAI, Anthropic, Mistral, etc.) and vector databases (Weaviate, Pinecone, Elasticsearch) without vendor lock-in, enabling flexible, composable workflows.
 
-- **Enterprise-Grade Scalability**: Offers cloud-agnostic, Kubernetes-ready pipelines with built-in reliability, observability, and deployment guides, enabling rapid scaling from prototype to production.
+- **Enterprise-Grade Scalability**: Designed for Kubernetes-ready, cloud-agnostic deployment with built-in observability, logging, and monitoring, supporting high-reliability workloads from prototype to production.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T03:46:08.836530+05:30
+- Published: 2026-07-21T19:56:44.825726+05:30
 
 ## Related Tags
 

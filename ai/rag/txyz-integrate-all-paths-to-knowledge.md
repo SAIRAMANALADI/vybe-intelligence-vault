@@ -3,9 +3,9 @@ title: TXYZ - Integrate all paths to knowledge
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://txyz.ai
-published_at: '2026-07-20T03:49:52.612745+05:30'
-collected_at: '2026-07-20T03:49:52.612765+05:30'
+source_url: https://www.txyz.ai/
+published_at: '2026-07-20T22:23:26.787874+05:30'
+collected_at: '2026-07-20T22:23:26.787889+05:30'
 tags:
 - agents
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:txyz-integrate-all-paths-to-knowledge
-first_seen: '2026-07-20T03:49:52.612765+05:30'
-last_seen: '2026-07-20T03:49:52.612765+05:30'
-last_checked: '2026-07-20T03:49:52.612765+05:30'
+first_seen: '2026-07-20T22:23:26.787889+05:30'
+last_seen: '2026-07-20T22:23:26.787889+05:30'
+last_checked: '2026-07-20T22:23:26.787889+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **TXYZ AI Platform** provides modular tools for **knowledge discovery (Searching)**, **document interaction (Reading)**, **content generation (Writing)**, and **programmatic access (API)** with tiered pricing (Free, Pro at $96/year, Ultra at $288/year).
+- **TXYZ Platform**: Offers four core products—**Searching** (AI-driven knowledge discovery), **Reading** (AI-augmented document analysis), **Writing** (AI-assisted content generation), and **API** (enterprise-grade integration)—with tiered pricing (Free, Pro at $96/year, Ultra at $288/year) featuring escalating usage limits, context windows (up to 3x Pro’s in Ultra), and agentic workflows.
 
-- **Core Features**: Supports **private document ingestion** (up to 300 pages in Ultra), **agentic workflows** with retrieval-augmented optimization, **3x extended context windows** for deeper analysis, and **document-level citation tracking** to mitigate hallucinations.
+- **Privacy & Security**: Uploaded documents are **private by default**, with deletion triggering removal from the database; API access available for institutional/enterprise integration via `support@txyz.ai`.
 
-- **Privacy & Integration**: All user-uploaded content remains **private and deletable**, with **API access** available for enterprise/academic integration; community support via **Discord** and direct contact at **support@txyz.ai**.
+- **Reliability Mechanisms**: Implements **retrieval-augmented generation (RAG)** to mitigate hallucinations, providing **document-location references** for answers; supports **500K+ researchers** across academic, industry R&D, and market research use cases.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T03:49:52.612745+05:30
+- Published: 2026-07-20T22:23:26.787874+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://txyz.ai
+Original source: https://www.txyz.ai/

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://weaviate.io/developers/weaviate
-published_at: '2026-07-09T21:10:41.045350+05:30'
-collected_at: '2026-07-09T21:10:41.045362+05:30'
+published_at: '2026-07-21T01:32:01.546439+05:30'
+collected_at: '2026-07-21T01:32:01.546462+05:30'
 tags:
 - agents
 - benchmark
@@ -16,9 +16,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:weaviate-database-weaviate-documentation
-first_seen: '2026-07-09T21:10:41.045362+05:30'
-last_seen: '2026-07-09T21:10:41.045362+05:30'
-last_checked: '2026-07-09T21:10:41.045362+05:30'
+first_seen: '2026-07-21T01:32:01.546462+05:30'
+last_seen: '2026-07-21T01:32:01.546462+05:30'
+last_checked: '2026-07-21T01:32:01.546462+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Open-source vector database**: Weaviate is an open-source vector database that stores both data objects and their vector embeddings, enabling semantic search and hybrid search capabilities by comparing vector similarity rather than keyword matching.
+- **Open-source vector database**: Weaviate stores both data objects and their vector embeddings, enabling semantic search, hybrid search, and retrieval-augmented generation (RAG) workflows by comparing vector similarities rather than relying on keyword matching.
 
-- **Core capabilities**: Supports semantic and hybrid search, retrieval-augmented generation (RAG), and agent-driven workflows, leveraging vector embeddings for context-aware AI applications and intelligent decision-making.
+- **Multi-deployment options**: Supports evaluation, development, and production deployments via Weaviate Cloud (managed), Docker (local), Kubernetes (scalable), and Embedded Weaviate (Python/JS/TS integration) with optional high availability and zero-downtime updates.
 
-- **Deployment options**: Available as Weaviate Cloud (fully managed), Docker (local evaluation), Kubernetes (scalable production), and Embedded Weaviate (quick Python/JS evaluation), with optional high-availability and zero-downtime updates.
+- **AI-native ecosystem**: Includes tools like Query Agent for agentic search, Weaviate Embeddings for managed inference, and integrations with external model providers, facilitating AI-powered applications and workflows.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-09T21:10:41.045350+05:30
+- Published: 2026-07-21T01:32:01.546439+05:30
 
 ## Related Tags
 

@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources/
-published_at: '2026-07-13T09:35:29.176867+05:30'
-collected_at: '2026-07-13T09:35:29.176882+05:30'
+published_at: '2026-07-21T19:52:30.064175+05:30'
+collected_at: '2026-07-21T19:52:30.064187+05:30'
 tags:
 - agents
 - anthropic
@@ -20,12 +20,11 @@ tags:
 - rag
 - reddit
 - web-crawled
-- workflows
 status: active
 resource_id: blog:rag-techniques-beginner-to-advanced-practical-patt
-first_seen: '2026-07-13T09:35:29.176882+05:30'
-last_seen: '2026-07-13T09:35:29.176882+05:30'
-last_checked: '2026-07-13T09:35:29.176882+05:30'
+first_seen: '2026-07-21T19:52:30.064187+05:30'
+last_seen: '2026-07-21T19:52:30.064187+05:30'
+last_checked: '2026-07-21T19:52:30.064187+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Combines a retriever (dense embeddings + vector search or sparse BM25/TF-IDF) with an LLM generator to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates.
+- **Core RAG Architecture**: Combines a retriever (dense embeddings + vector search or sparse BM25/TF-IDF) with a generator (LLM) to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates via document indexing.
 
-- **Core Components**: Dense retrieval leverages embeddings (e.g., `sentence-transformers`, `bge`) with vector stores (FAISS, Chroma, Milvus), while sparse retrieval uses lexical methods (BM25). Reranking (e.g., `monoT5`, `bge-reranker`) refines retrieval precision before LLM generation.
+- **Intermediate Optimization Techniques**: Implements chunking with overlap, hybrid retrieval (dense + sparse), reranking (cross-encoders like monoT5), query expansion (HyDE, multi-query), metadata filtering, and prompt templating to enhance precision, recall, and contextual relevance.
 
-- **Advanced Techniques**: Multi-hop retrieval decomposes complex queries, GraphRAG integrates knowledge graphs, hybrid retrieval combines sparse/dense methods, and agentic RAG enables tool use for dynamic workflows. Context optimization (e.g., compression) and safety grounding further enhance reliability.
+- **Advanced RAG Patterns**: Introduces multi-hop retrieval, GraphRAG (knowledge graph integration), multi-vector/learned retrievers, context compression, agentic RAG (tool integration), and safety mechanisms to improve reasoning depth, structural grounding, and production-grade reliability.
 
 ## Why It Matters
 
@@ -47,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-13T09:35:29.176867+05:30
+- Published: 2026-07-21T19:52:30.064175+05:30
 
 ## Related Tags
 
@@ -63,7 +62,6 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - reddit
 - web-crawled
-- workflows
 
 ## Source
 

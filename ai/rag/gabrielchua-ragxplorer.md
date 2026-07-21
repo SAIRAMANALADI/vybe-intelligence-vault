@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-20T03:42:23.159335+05:30'
+collected_at: '2026-07-21T22:13:47.422774+05:30'
 published_at: '2026-07-14T09:11:11Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-20T03:42:23.159335+05:30'
-last_seen: '2026-07-20T03:42:23.159335+05:30'
-last_checked: '2026-07-20T03:42:23.159335+05:30'
+first_seen: '2026-07-21T22:13:47.422774+05:30'
+last_seen: '2026-07-21T22:13:47.422774+05:30'
+last_checked: '2026-07-21T22:13:47.422774+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing and analyzing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processes.
-
-- **Streamlit-Powered UI**: Integrates Streamlit for a web-based, user-friendly interface to dynamically visualize RAG components (e.g., retrieval mechanisms, context integration, and model outputs) with real-time updates.
-
-- **Technical Stack**: Built in Python, leveraging Jupyter Notebooks for computation and Streamlit for frontend rendering, with support for custom RAG pipeline analysis and visualization of multi-modal data flows.
+- **Purpose**: Open-source tool for interactive visualization of Retrieval-Augmented Generation (RAG) pipelines, enabling debugging and analysis of LLM-based systems.
+- **Technical Stack**: Built with Python, Streamlit (for UI), and Jupyter Notebooks; leverages visualization libraries for dynamic RAG pipeline exploration.
+- **Features**: Real-time interaction with RAG components (retrievers, LLMs), query-response analysis, and performance metrics visualization.
 
 ## Why It Matters
 
@@ -44,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: gabrielchua
 - Stars: 1222
-- Forks: 114
+- Forks: 113
 - Language: Jupyter Notebook
 - Topics: interactive, llm, python, rag, streamlit, visualization
 - Last Updated: 2026-07-14T09:11:11Z

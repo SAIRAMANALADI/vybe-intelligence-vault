@@ -1,13 +1,26 @@
 ---
-title: "gabrimatic/copilot-goal-system"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "GitHub Copilot CLI", "VS Code Copilot Chat", "MCP (Model Context Protocol)", "Bash", "JSON", "GitHub Actions"]
+title: gabrimatic/copilot-goal-system
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- JavaScript
+- Node.js
+- GitHub Copilot CLI
+- VS Code Copilot Chat
+- MCP (Model Context Protocol)
+- Bash
+- JSON
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["goal management", "persistent state", "proof-based completion", "Copilot integration", "lifecycle hooks"]
-source: "https://github.com/gabrimatic/copilot-goal-system"
-discovered_at: "2026-07-14T21:56:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- goal management
+- persistent state
+- proof-based completion
+- Copilot integration
+- lifecycle hooks
+source: https://github.com/gabrimatic/copilot-goal-system
+discovered_at: '2026-07-14T21:56:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

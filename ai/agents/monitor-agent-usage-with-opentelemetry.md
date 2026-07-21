@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://code.visualstudio.com/docs/agents/guides/monitoring-agents#_enable-otel-monitoring
-published_at: '2026-07-19T14:14:13.197709+05:30'
-collected_at: '2026-07-19T14:14:13.197723+05:30'
+published_at: '2026-07-21T09:24:08.598296+05:30'
+collected_at: '2026-07-21T09:24:08.598305+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:monitor-agent-usage-with-opentelemetry
-first_seen: '2026-07-19T14:14:13.197723+05:30'
-last_seen: '2026-07-19T14:14:13.197723+05:30'
-last_checked: '2026-07-19T14:14:13.197723+05:30'
+first_seen: '2026-07-21T09:24:08.598305+05:30'
+last_seen: '2026-07-21T09:24:08.598305+05:30'
+last_checked: '2026-07-21T09:24:08.598305+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **OpenTelemetry Monitoring**: Copilot Chat in VS Code exports traces, metrics, and events via OpenTelemetry (OTel), adhering to [OTel GenAI Semantic Conventions](https://github.com/open-telemetry/semantic-conventions/blob/main/docs/gen-ai/) for compatibility with any OTel-compatible backend.
+- **OpenTelemetry Monitoring**: Copilot Chat exports traces, metrics, and events via OpenTelemetry (OTel) for agent interactions, LLM calls, tool executions, and token usage, adhering to [OTel GenAI Semantic Conventions](https://github.com/open-telemetry/semantic-conventions/blob/main/docs/gen-ai/).
 
-- **Signal Hierarchy & Attributes**: Agent interactions generate hierarchical spans (e.g., `invoke_agent`, `chat`, `execute_tool`) with standardized attributes under `gen_ai.*`, `github.copilot.*`, and legacy `copilot_chat.*` namespaces, capturing LLM calls, tool executions, token usage, and error types.
+- **Signal Hierarchy**: Agent interactions generate a hierarchical span tree (`invoke_agent` → `chat` → `execute_tool`), capturing full execution flow, LLM round-trips, tool invocations, and subagent propagation with trace context.
 
-- **Trace Propagation & Context**: Subagent invocations propagate trace context, creating connected trace trees across async boundaries, with attributes like `gen_ai.usage.input_tokens`, `gen_ai.usage.output_tokens`, and GitHub-specific metadata (e.g., `github.copilot.git.repository`).
+- **Attribute Namespaces**: OTel signals use three namespaces (`gen_ai.*`, `github.copilot.*`, `copilot_chat.*`), with `github.copilot.*` preferred for new dashboards and legacy keys (`copilot_chat.*`) retained for backward compatibility.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-19T14:14:13.197709+05:30
+- Published: 2026-07-21T09:24:08.598296+05:30
 
 ## Related Tags
 

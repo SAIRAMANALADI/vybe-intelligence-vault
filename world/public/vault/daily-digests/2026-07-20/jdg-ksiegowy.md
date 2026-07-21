@@ -1,13 +1,29 @@
 ---
-title: "dithiothreitol/jdg-ksiegowy"
-category: "Agent Framework"
-tech_stack: ["Python 3.12+", "OpenClaw (Agent Framework)", "Ollama (LLM)", "Pixtral 12B (OCR)", "Claude Haiku 4.5 (OCR fallback)", "SQLite", "LibreOffice (PDF generation)", "Pydantic (config)", "REST APIs (KSeF, MF Gateway)", "AES-256-CBC + RSA-OAEP (encryption)", "Docker (optional)"]
+title: dithiothreitol/jdg-ksiegowy
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python 3.12+
+- OpenClaw (Agent Framework)
+- Ollama (LLM)
+- Pixtral 12B (OCR)
+- Claude Haiku 4.5 (OCR fallback)
+- SQLite
+- LibreOffice (PDF generation)
+- Pydantic (config)
+- REST APIs (KSeF, MF Gateway)
+- AES-256-CBC + RSA-OAEP (encryption)
+- Docker (optional)
 quality_score: 9
 rag_relevance: 8
-tags: ["Polish accounting", "AI agent", "tax automation", "KSeF compliance", "self-hosted"]
-source: "https://github.com/dithiothreitol/jdg-ksiegowy"
-discovered_at: "2026-07-19T21:51:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Polish accounting
+- AI agent
+- tax automation
+- KSeF compliance
+- self-hosted
+source: https://github.com/dithiothreitol/jdg-ksiegowy
+discovered_at: '2026-07-19T21:51:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

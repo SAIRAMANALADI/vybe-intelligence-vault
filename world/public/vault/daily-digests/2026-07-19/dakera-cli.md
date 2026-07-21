@@ -1,13 +1,26 @@
 ---
-title: "Dakera-AI/dakera-cli"
-category: "Tooling"
-tech_stack: ["Rust", "CLI", "Docker", "TOML", "HTTP/REST", "BM25", "Vector Search", "Knowledge Graphs"]
+title: Dakera-AI/dakera-cli
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Rust
+- CLI
+- Docker
+- TOML
+- HTTP/REST
+- BM25
+- Vector Search
+- Knowledge Graphs
 quality_score: 9
 rag_relevance: 8
-tags: ["CLI", "memory management", "RAG", "self-hosted", "agent memory"]
-source: "https://github.com/Dakera-AI/dakera-cli"
-discovered_at: "2026-07-16T18:05:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CLI
+- memory management
+- RAG
+- self-hosted
+- agent memory
+source: https://github.com/Dakera-AI/dakera-cli
+discovered_at: '2026-07-16T18:05:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

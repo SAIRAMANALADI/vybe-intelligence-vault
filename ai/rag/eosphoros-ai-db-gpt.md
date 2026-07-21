@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/eosphoros-ai/DB-GPT
-collected_at: '2026-07-20T03:43:13.299700+05:30'
-published_at: '2026-07-19T15:12:53Z'
+collected_at: '2026-07-21T22:13:52.450788+05:30'
+published_at: '2026-07-21T15:52:09Z'
 tags:
 - agents
 - github-repo
@@ -13,17 +13,18 @@ tags:
 - openai
 - python
 - rag
-stars: 19503
+- workflows
+stars: 19530
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-04-13T14:52:43Z'
-pushed_at: '2026-07-16T11:51:08Z'
+pushed_at: '2026-07-21T11:15:46Z'
 resource_id: github:eosphoros-ai/db-gpt
-first_seen: '2026-07-20T03:43:13.299700+05:30'
-last_seen: '2026-07-20T03:43:13.299700+05:30'
-last_checked: '2026-07-20T03:43:13.299700+05:30'
+first_seen: '2026-07-21T22:13:52.450788+05:30'
+last_seen: '2026-07-21T22:13:52.450788+05:30'
+last_checked: '2026-07-21T22:13:52.450788+05:30'
 health_score: 100
 ---
 
@@ -31,8 +32,9 @@ health_score: 100
 
 ## Summary
 
-*   Python-based open-source agentic AI assistant integrating diverse LLMs (e.g., GPT-4, DeepSeek, Vicuna) for data interaction.
-*
+- **Multi-agent framework** for autonomous database interaction, integrating LLMs (e.g., DeepSeek, GPT-4, Vicuna) with RAG for private, secure data processing.
+- **Hybrid architecture** combining agentic workflows with vectorized retrieval for next-gen AI-data products, optimized for BGI (Big Data + AI) applications.
+- **Open-source Python implementation** with modular design for extensibility, supporting hacktoberfest contributions and security-focused data handling.
 
 ## Why It Matters
 
@@ -41,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: eosphoros-ai
-- Stars: 19503
-- Forks: 2831
+- Stars: 19530
+- Forks: 2836
 - Language: Python
 - Topics: agents, bgi, database, deepseek, gpt, gpt-4, hacktoberfest, llm, private, rag, security, vicuna
-- Last Updated: 2026-07-19T15:12:53Z
+- Last Updated: 2026-07-21T15:52:09Z
 - License: MIT
 - Archived: No
 - Created At: 2023-04-13T14:52:43Z
-- Pushed At: 2026-07-16T11:51:08Z
+- Pushed At: 2026-07-21T11:15:46Z
 
 ## Possible Use Cases
 

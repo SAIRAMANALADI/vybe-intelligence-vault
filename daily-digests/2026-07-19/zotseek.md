@@ -1,13 +1,25 @@
 ---
-title: "introfini/ZotSeek"
-category: "Tooling"
-tech_stack: ["TypeScript", "Transformers.js", "Zotero Plugin API", "SQLite", "Hugging Face Models", "MCP (Model Context Protocol)", "Node.js"]
+title: introfini/ZotSeek
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Transformers.js
+- Zotero Plugin API
+- SQLite
+- Hugging Face Models
+- MCP (Model Context Protocol)
+- Node.js
 quality_score: 9
 rag_relevance: 9
-tags: ["semantic search", "local AI", "Zotero integration", "MCP server", "privacy-focused"]
-source: "https://github.com/introfini/ZotSeek"
-discovered_at: "2026-07-17T18:05:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- semantic search
+- local AI
+- Zotero integration
+- MCP server
+- privacy-focused
+source: https://github.com/introfini/ZotSeek
+discovered_at: '2026-07-17T18:05:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

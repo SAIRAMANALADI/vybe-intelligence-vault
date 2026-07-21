@@ -1,13 +1,27 @@
 ---
-title: "Theoddalex/imprest"
-category: "Tooling"
-tech_stack: ["Python", "Ethereum", "USDC", "MCP (Model Context Protocol)", "SQLite", "Pydantic", "Web3.py", "FastAPI", "Docker"]
+title: Theoddalex/imprest
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- Ethereum
+- USDC
+- MCP (Model Context Protocol)
+- SQLite
+- Pydantic
+- Web3.py
+- FastAPI
+- Docker
 quality_score: 8
 rag_relevance: 9
-tags: ["spend control", "AI agent security", "non-custodial payments", "audit trails", "Ethereum wallets"]
-source: "https://github.com/Theoddalex/imprest"
-discovered_at: "2026-07-19T20:44:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- spend control
+- AI agent security
+- non-custodial payments
+- audit trails
+- Ethereum wallets
+source: https://github.com/Theoddalex/imprest
+discovered_at: '2026-07-19T20:44:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

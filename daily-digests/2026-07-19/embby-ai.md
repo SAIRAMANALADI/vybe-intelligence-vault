@@ -1,13 +1,26 @@
 ---
-title: "azmaldev/Embby-AI"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Mastra", "Groq", "Node.js", "FastEmbed", "LibSQL", "Open-Meteo API", "DuckDuckGo"]
+title: azmaldev/Embby-AI
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Mastra
+- Groq
+- Node.js
+- FastEmbed
+- LibSQL
+- Open-Meteo API
+- DuckDuckGo
 quality_score: 9
 rag_relevance: 8
-tags: ["self-improving agent", "real-time web access", "file operations", "skill learning", "memory system"]
-source: "https://github.com/azmaldev/Embby-AI"
-discovered_at: "2026-07-12T17:03:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-improving agent
+- real-time web access
+- file operations
+- skill learning
+- memory system
+source: https://github.com/azmaldev/Embby-AI
+discovered_at: '2026-07-12T17:03:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

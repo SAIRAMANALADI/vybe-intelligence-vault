@@ -1,13 +1,23 @@
 ---
-title: "Open-pogonip977/CommandNest"
-category: "Tooling"
-tech_stack: ["Swift", "OpenRouter API", "Model Context Protocol", "Windows API", "SwiftUI (inferred)"]
+title: Open-pogonip977/CommandNest
+category: daily-digests/2026-07-19
+tech_stack:
+- Swift
+- OpenRouter API
+- Model Context Protocol
+- Windows API
+- SwiftUI (inferred)
 quality_score: 7
 rag_relevance: 6
-tags: ["desktop assistant", "AI integration", "local file access", "streaming responses", "cross-platform"]
-source: "https://github.com/Open-pogonip977/CommandNest"
-discovered_at: "2026-07-11T16:55:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- desktop assistant
+- AI integration
+- local file access
+- streaming responses
+- cross-platform
+source: https://github.com/Open-pogonip977/CommandNest
+discovered_at: '2026-07-11T16:55:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

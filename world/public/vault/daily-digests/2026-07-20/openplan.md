@@ -1,13 +1,28 @@
 ---
-title: "vncsleal/openplan"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "FastMCP", "SQLite", "Drizzle ORM", "Zod", "Vitest", "Biome", "Node.js", "GitHub Actions"]
+title: vncsleal/openplan
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- FastMCP
+- SQLite
+- Drizzle ORM
+- Zod
+- Vitest
+- Biome
+- Node.js
+- GitHub Actions
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP server", "project planning", "cost tracking", "AI agent orchestration", "local-first"]
-source: "https://github.com/vncsleal/openplan"
-discovered_at: "2026-07-17T21:52:23Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- project planning
+- cost tracking
+- AI agent orchestration
+- local-first
+source: https://github.com/vncsleal/openplan
+discovered_at: '2026-07-17T21:52:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

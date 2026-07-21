@@ -1,13 +1,26 @@
 ---
-title: "BrandNewJimZhang/otori"
-category: "Tooling"
-tech_stack: ["Tauri 2", "Rust", "React 19", "TypeScript", "SQLite", "Vite", "lofty", "rusqlite"]
+title: BrandNewJimZhang/otori
+category: daily-digests/2026-07-19
+tech_stack:
+- Tauri 2
+- Rust
+- React 19
+- TypeScript
+- SQLite
+- Vite
+- lofty
+- rusqlite
 quality_score: 8
 rag_relevance: 6
-tags: ["music library management", "AI agent integration", "provenance tracking", "dual-mode UI", "local file organization"]
-source: "https://github.com/BrandNewJimZhang/otori"
-discovered_at: "2026-07-14T16:13:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- music library management
+- AI agent integration
+- provenance tracking
+- dual-mode UI
+- local file organization
+source: https://github.com/BrandNewJimZhang/otori
+discovered_at: '2026-07-14T16:13:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

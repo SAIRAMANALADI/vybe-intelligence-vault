@@ -1,13 +1,29 @@
 ---
-title: "RoyZhao1991/LingShu"
-category: "Orchestrator"
-tech_stack: ["Swift", "Swift 6", "macOS", "OpenAI API", "Anthropic API", "DeepSeek API", "MiniMax M3 API", "Computer Use (Accessibility/Screen Recording)", "Keychain (for secrets management)", "Mermaid (for diagrams)", "Homebrew (for distribution)"]
+title: RoyZhao1991/LingShu
+category: daily-digests/2026-07-19
+tech_stack:
+- Swift
+- Swift 6
+- macOS
+- OpenAI API
+- Anthropic API
+- DeepSeek API
+- MiniMax M3 API
+- Computer Use (Accessibility/Screen Recording)
+- Keychain (for secrets management)
+- Mermaid (for diagrams)
+- Homebrew (for distribution)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent", "macOS native", "deliverable generation", "model orchestration", "task verification"]
-source: "https://github.com/RoyZhao1991/LingShu"
-discovered_at: "2026-07-17T20:05:24Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- macOS native
+- deliverable generation
+- model orchestration
+- task verification
+source: https://github.com/RoyZhao1991/LingShu
+discovered_at: '2026-07-17T20:05:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

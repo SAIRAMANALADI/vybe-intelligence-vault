@@ -1,13 +1,27 @@
 ---
-title: "RNT56/ThinClaw"
-category: "Orchestrator"
-tech_stack: ["Rust", "WASM", "MCP (Model Context Protocol)", "ComfyUI", "SQLite", "TLS/SSL", "CLI", "TUI", "Web Gateway"]
+title: RNT56/ThinClaw
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Rust
+- WASM
+- MCP (Model Context Protocol)
+- ComfyUI
+- SQLite
+- TLS/SSL
+- CLI
+- TUI
+- Web Gateway
 quality_score: 8
 rag_relevance: 9
-tags: ["self-hosted AI", "durable memory", "agent orchestrator", "privacy-first", "multi-surface access"]
-source: "https://github.com/RNT56/ThinClaw"
-discovered_at: "2026-07-11T02:27:35Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-hosted AI
+- durable memory
+- agent orchestrator
+- privacy-first
+- multi-surface access
+source: https://github.com/RNT56/ThinClaw
+discovered_at: '2026-07-11T02:27:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

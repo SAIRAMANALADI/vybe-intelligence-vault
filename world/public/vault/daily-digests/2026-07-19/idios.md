@@ -1,13 +1,24 @@
 ---
-title: "honeytones/idios"
-category: "Orchestrator"
-tech_stack: ["Beam blockchain", "MimbleWimble protocol", "Solidity-like smart contracts", "Python", "IPFS", "MCP server"]
+title: honeytones/idios
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Beam blockchain
+- MimbleWimble protocol
+- Solidity-like smart contracts
+- Python
+- IPFS
+- MCP server
 quality_score: 9
 rag_relevance: 8
-tags: ["private escrow", "AI compute settlement", "dispute resolution", "worker collateral", "Beam blockchain"]
-source: "https://github.com/honeytones/idios"
-discovered_at: "2026-07-19T11:57:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- private escrow
+- AI compute settlement
+- dispute resolution
+- worker collateral
+- Beam blockchain
+source: https://github.com/honeytones/idios
+discovered_at: '2026-07-19T11:57:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

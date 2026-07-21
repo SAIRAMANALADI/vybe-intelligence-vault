@@ -1,13 +1,24 @@
 ---
-title: "mosesman831/PolyGnosis"
-category: "Orchestrator"
-tech_stack: ["Python", "Hermes Agent Framework", "LLM APIs (e.g., OpenAI, Anthropic, etc.)", "ThreadPoolExecutor", "YAML", "Mermaid.js (for diagrams)"]
+title: mosesman831/PolyGnosis
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- Hermes Agent Framework
+- LLM APIs (e.g., OpenAI, Anthropic, etc.)
+- ThreadPoolExecutor
+- YAML
+- Mermaid.js (for diagrams)
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-model consensus", "adversarial critique", "formal scoring", "enterprise AI", "Hermes Agent"]
-source: "https://github.com/mosesman831/PolyGnosis"
-discovered_at: "2026-07-16T05:39:09Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-model consensus
+- adversarial critique
+- formal scoring
+- enterprise AI
+- Hermes Agent
+source: https://github.com/mosesman831/PolyGnosis
+discovered_at: '2026-07-16T05:39:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

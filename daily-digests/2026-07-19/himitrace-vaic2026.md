@@ -1,13 +1,29 @@
 ---
-title: "hieuluongxuan/himitrace-vaic2026"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "LSTM/GRU", "Lyapunov ISS", "Polygon Blockchain", "Docker", "Bun", "MCP (Model Context Protocol)", "Meta Llama 3.1", "SQLite", "Nginx"]
+title: hieuluongxuan/himitrace-vaic2026
+category: daily-digests/2026-07-19
+tech_stack:
+- Python
+- FastAPI
+- LSTM/GRU
+- Lyapunov ISS
+- Polygon Blockchain
+- Docker
+- Bun
+- MCP (Model Context Protocol)
+- Meta Llama 3.1
+- SQLite
+- Nginx
 quality_score: 8
 rag_relevance: 9
-tags: ["SCADA", "AI-driven optimization", "wastewater treatment", "energy efficiency", "Web3 compliance"]
-source: "https://github.com/hieuluongxuan/himitrace-vaic2026"
-discovered_at: "2026-07-19T02:30:18Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- SCADA
+- AI-driven optimization
+- wastewater treatment
+- energy efficiency
+- Web3 compliance
+source: https://github.com/hieuluongxuan/himitrace-vaic2026
+discovered_at: '2026-07-19T02:30:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,30 @@
 ---
-title: "loocor/mcpmate"
-category: "Orchestrator"
-tech_stack: ["Rust", "Tauri", "React", "Vite", "SQLite", "redb", "tokio", "rmcp", "Node.js", "Bun", "OAuth 2.0", "PKCE"]
+title: loocor/mcpmate
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- Rust
+- Tauri
+- React
+- Vite
+- SQLite
+- redb
+- tokio
+- rmcp
+- Node.js
+- Bun
+- OAuth 2.0
+- PKCE
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP management", "AI client integration", "proxy server", "tool governance", "cross-platform"]
-source: "https://github.com/loocor/mcpmate"
-discovered_at: "2026-07-18T15:55:22Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP management
+- AI client integration
+- proxy server
+- tool governance
+- cross-platform
+source: https://github.com/loocor/mcpmate
+discovered_at: '2026-07-18T15:55:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

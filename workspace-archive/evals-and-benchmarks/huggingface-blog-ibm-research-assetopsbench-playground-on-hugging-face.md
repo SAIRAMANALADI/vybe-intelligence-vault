@@ -5,7 +5,7 @@ archive_category: evals-and-benchmarks
 source_category: ai/agents
 source_url: https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face
 resource_id: huggingface:blog/ibm-research/assetopsbench-playground-on-hugging-face
-local_vault_path: ai/agents/assetopsbench-bridging-the-gap-between-ai-agent-be.md
+local_vault_path: ai/agents/huggingface-blog-ibm-research-assetopsbench-playground-on-hugging-face.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
@@ -46,4 +46,4 @@ Original source URL: https://huggingface.co/blog/ibm-research/assetopsbench-play
 
 ## Local Vault File
 
-Path: [assetopsbench-bridging-the-gap-between-ai-agent-be.md](../../ai/agents/assetopsbench-bridging-the-gap-between-ai-agent-be.md)
+Path: [huggingface-blog-ibm-research-assetopsbench-playground-on-hugging-face.md](../../ai/agents/huggingface-blog-ibm-research-assetopsbench-playground-on-hugging-face.md)

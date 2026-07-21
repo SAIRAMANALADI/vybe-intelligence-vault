@@ -1,13 +1,31 @@
 ---
-title: "BENZEMA216/awesome-weread"
-category: "Tooling"
-tech_stack: ["JavaScript", "Python", "Rust", "TypeScript", "Node.js", "CLI", "SDK", "MCP", "REST API", "Cloudflare Workers", "Obsidian", "Notion", "Markdown"]
+title: BENZEMA216/awesome-weread
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- JavaScript
+- Python
+- Rust
+- TypeScript
+- Node.js
+- CLI
+- SDK
+- MCP
+- REST API
+- Cloudflare Workers
+- Obsidian
+- Notion
+- Markdown
 quality_score: 8
 rag_relevance: 7
-tags: ["WeChat Reading", "Agent Skill", "Book Management", "Annotations", "API Integration"]
-source: "https://github.com/BENZEMA216/awesome-weread"
-discovered_at: "2026-07-19T19:13:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- WeChat Reading
+- Agent Skill
+- Book Management
+- Annotations
+- API Integration
+source: https://github.com/BENZEMA216/awesome-weread
+discovered_at: '2026-07-19T19:13:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,30 @@
 ---
-title: "giljoai/GiljoAI_MCP"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Vue 3", "Node.js", "PostgreSQL", "SQLAlchemy", "Alembic", "Vuetify", "Vite", "JWT", "Model Context Protocol (MCP)", "WebSocket"]
+title: giljoai/GiljoAI_MCP
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python
+- FastAPI
+- Vue 3
+- Node.js
+- PostgreSQL
+- SQLAlchemy
+- Alembic
+- Vuetify
+- Vite
+- JWT
+- Model Context Protocol (MCP)
+- WebSocket
 quality_score: 9
 rag_relevance: 8
-tags: ["context engineering", "multi-agent coordination", "MCP server", "product definition", "self-hosted"]
-source: "https://github.com/giljoai/GiljoAI_MCP"
-discovered_at: "2026-07-17T22:48:00Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- context engineering
+- multi-agent coordination
+- MCP server
+- product definition
+- self-hosted
+source: https://github.com/giljoai/GiljoAI_MCP
+discovered_at: '2026-07-17T22:48:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

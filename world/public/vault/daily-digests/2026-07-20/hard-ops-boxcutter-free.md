@@ -1,13 +1,23 @@
 ---
-title: "vegetablematterdegreeprogram9688/Hard-Ops-BoxCutter-Free"
-category: "Tooling"
-tech_stack: ["Blender", "Python", "3D Modeling", "Boolean Operations", "Add-on Development"]
+title: vegetablematterdegreeprogram9688/Hard-Ops-BoxCutter-Free
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Blender
+- Python
+- 3D Modeling
+- Boolean Operations
+- Add-on Development
 quality_score: 7
 rag_relevance: 3
-tags: ["3D modeling", "Blender add-on", "hard-surface design", "boolean operations", "non-destructive workflow"]
-source: "https://github.com/vegetablematterdegreeprogram9688/Hard-Ops-BoxCutter-Free"
-discovered_at: "2026-07-11T16:55:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- 3D modeling
+- Blender add-on
+- hard-surface design
+- boolean operations
+- non-destructive workflow
+source: https://github.com/vegetablematterdegreeprogram9688/Hard-Ops-BoxCutter-Free
+discovered_at: '2026-07-11T16:55:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "lost-rob0t/zara"
-category: "Tooling"
-tech_stack: ["NixOS", "Python", "Whisper", "CLI", "Natural Language Processing"]
+title: lost-rob0t/zara
+category: world/public/vault/daily-digests/2026-07-19
+tech_stack:
+- NixOS
+- Python
+- Whisper
+- CLI
+- Natural Language Processing
 quality_score: 4
 rag_relevance: 3
-tags: ["voice-assistant", "NixOS", "Whisper", "CLI", "NLP"]
-source: "https://github.com/lost-rob0t/zara"
-discovered_at: "2026-07-19T02:29:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- voice-assistant
+- NixOS
+- Whisper
+- CLI
+- NLP
+source: https://github.com/lost-rob0t/zara
+discovered_at: '2026-07-19T02:29:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

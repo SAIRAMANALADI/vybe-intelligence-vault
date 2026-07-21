@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/daveshap/OpenAI_Agent_Swarm
-collected_at: '2026-07-20T03:45:18.372490+05:30'
+collected_at: '2026-07-21T22:16:42.538985+05:30'
 published_at: '2026-07-18T23:09:04Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 stars: 3101
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: true
 created_at: '2023-11-07T23:12:05Z'
 pushed_at: '2024-02-16T17:12:05Z'
 resource_id: github:daveshap/openai_agent_swarm
-first_seen: '2026-07-20T03:45:18.372490+05:30'
-last_seen: '2026-07-20T03:45:18.372490+05:30'
-last_checked: '2026-07-20T03:45:18.372490+05:30'
+first_seen: '2026-07-21T22:16:42.538985+05:30'
+last_seen: '2026-07-21T22:16:42.538985+05:30'
+last_checked: '2026-07-21T22:16:42.538985+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Hierarchical Autonomous Agent Swarm (HAAS)**: Python-based framework enabling multi-agent collaboration with hierarchical task delegation and autonomous decision-making.
-
-- **Resistance is Futile**: Implements swarm intelligence principles for distributed problem-solving, leveraging OpenAI's API for agent coordination and task execution.
-
-- **Scalability & Modularity**: Designed for extensibility, supporting dynamic agent roles, inter-agent communication, and parallelized workflows (last updated: 2026-07-18).
+- **Hierarchical Autonomous Agent Swarm (HAAS)**: Implements a multi-agent system with hierarchical task delegation and autonomous coordination, leveraging Python for dynamic agent interactions.
+- **Resistance is Futile!**: Emphasizes scalability and efficiency in agent-based architectures, enabling parallelized task execution and adaptive problem-solving.
+- **Open-Source Python Framework**: Provides a modular structure for deploying swarm intelligence, with 3.1K+ stars and 391 forks, last updated July 2026.
 
 ## Why It Matters
 

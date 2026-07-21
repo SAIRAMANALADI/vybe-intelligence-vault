@@ -1,13 +1,24 @@
 ---
-title: "devcxl/mattpocock-skills-zh"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Shell", "Markdown", "GitHub Actions", "Claude Code", "AI Agent Frameworks"]
+title: devcxl/mattpocock-skills-zh
+category: daily-digests/2026-07-19
+tech_stack:
+- TypeScript
+- Shell
+- Markdown
+- GitHub Actions
+- Claude Code
+- AI Agent Frameworks
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent skills", "software engineering", "codebase alignment", "debugging automation", "tdd"]
-source: "https://github.com/devcxl/mattpocock-skills-zh"
-discovered_at: "2026-07-14T20:09:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent skills
+- software engineering
+- codebase alignment
+- debugging automation
+- tdd
+source: https://github.com/devcxl/mattpocock-skills-zh
+discovered_at: '2026-07-14T20:09:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

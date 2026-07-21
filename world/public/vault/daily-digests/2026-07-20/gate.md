@@ -1,13 +1,23 @@
 ---
-title: "arthurlacoste/gate"
-category: "Tooling"
-tech_stack: ["Python", "OAuth", "MCP (Model Context Protocol)", "Shell Commands", "File Sharing"]
+title: arthurlacoste/gate
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python
+- OAuth
+- MCP (Model Context Protocol)
+- Shell Commands
+- File Sharing
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP Gateway", "Local AI Tools", "OAuth Proxy", "Agent Skills", "File Sharing"]
-source: "https://github.com/arthurlacoste/gate"
-discovered_at: "2026-07-17T10:46:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Gateway
+- Local AI Tools
+- OAuth Proxy
+- Agent Skills
+- File Sharing
+source: https://github.com/arthurlacoste/gate
+discovered_at: '2026-07-17T10:46:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

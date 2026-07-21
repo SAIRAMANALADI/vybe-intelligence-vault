@@ -1,13 +1,31 @@
 ---
-title: "kaue34381210-star/hrx-code"
-category: "Agent Framework"
-tech_stack: ["Python", "ReAct Agent Framework", "Gemini API", "OpenAI API", "DeepSeek API", "Groq API", "Claude API", "Ollama", "Local LLM (llamafile)", "Git", "Shell", "NVD API (CVE Lookup)", "Mermaid (Diagrams)"]
+title: kaue34381210-star/hrx-code
+category: world/public/vault/daily-digests/2026-07-20
+tech_stack:
+- Python
+- ReAct Agent Framework
+- Gemini API
+- OpenAI API
+- DeepSeek API
+- Groq API
+- Claude API
+- Ollama
+- Local LLM (llamafile)
+- Git
+- Shell
+- NVD API (CVE Lookup)
+- Mermaid (Diagrams)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI Agent", "Code Automation", "Risk Control", "Terminal Tool", "Multi-Model Support"]
-source: "https://github.com/kaue34381210-star/hrx-code"
-discovered_at: "2026-07-16T16:25:29Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI Agent
+- Code Automation
+- Risk Control
+- Terminal Tool
+- Multi-Model Support
+source: https://github.com/kaue34381210-star/hrx-code
+discovered_at: '2026-07-16T16:25:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
