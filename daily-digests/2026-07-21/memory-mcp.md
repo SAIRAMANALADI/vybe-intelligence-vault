@@ -1,22 +1,13 @@
 ---
-title: M-Ashrey/memory-mcp
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- JSON
-- Standard Library
+title: "M-Ashrey/memory-mcp"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "JSON", "Standard Library"]
 quality_score: 8
 rag_relevance: 9
-tags:
-- persistent memory
-- MCP
-- filesystem storage
-- agent context
-- keyword search
-source: https://github.com/M-Ashrey/memory-mcp
-discovered_at: '2026-07-21T00:03:30Z'
-evaluated_by: mistral-small-latest
+tags: ["persistent memory", "MCP", "filesystem storage", "agent context", "keyword search"]
+source: "https://github.com/M-Ashrey/memory-mcp"
+discovered_at: "2026-07-21T00:03:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

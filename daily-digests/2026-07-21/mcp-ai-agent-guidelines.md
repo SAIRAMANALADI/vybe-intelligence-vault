@@ -1,27 +1,13 @@
 ---
-title: Anselmoo/mcp-ai-agent-guidelines
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Node.js
-- ESM
-- MCP (Model Context Protocol)
-- xstate
-- graphology
-- Docker
-- npm
-- CI/CD (GitHub Actions)
+title: "Anselmoo/mcp-ai-agent-guidelines"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "ESM", "MCP (Model Context Protocol)", "xstate", "graphology", "Docker", "npm", "CI/CD (GitHub Actions)"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- MCP server
-- AI agent tools
-- code hygiene
-- prompt engineering
-- multi-agent orchestration
-source: https://github.com/Anselmoo/mcp-ai-agent-guidelines
-discovered_at: '2026-07-21T10:24:30Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP server", "AI agent tools", "code hygiene", "prompt engineering", "multi-agent orchestration"]
+source: "https://github.com/Anselmoo/mcp-ai-agent-guidelines"
+discovered_at: "2026-07-21T10:24:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

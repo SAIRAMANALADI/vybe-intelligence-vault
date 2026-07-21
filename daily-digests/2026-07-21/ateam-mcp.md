@@ -1,24 +1,13 @@
 ---
-title: ariekogan/ateam-mcp
-category: daily-digests/2026-07-21
-tech_stack:
-- JavaScript
-- Node.js
-- MCP (Model Context Protocol)
-- HTTP/HTTPS
-- REST APIs
-- ADAS Platform
+title: "ariekogan/ateam-mcp"
+category: "Orchestrator"
+tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "HTTP/HTTPS", "REST APIs", "ADAS Platform"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- multi-agent systems
-- MCP server
-- AI orchestration
-- deployment automation
-- ADAS platform
-source: https://github.com/ariekogan/ateam-mcp
-discovered_at: '2026-07-20T22:59:37Z'
-evaluated_by: mistral-small-latest
+tags: ["multi-agent systems", "MCP server", "AI orchestration", "deployment automation", "ADAS platform"]
+source: "https://github.com/ariekogan/ateam-mcp"
+discovered_at: "2026-07-20T22:59:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

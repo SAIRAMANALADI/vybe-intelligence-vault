@@ -1,28 +1,13 @@
 ---
-title: LaplaceYoung/director-x
-category: daily-digests/2026-07-21
-tech_stack:
-- JavaScript
-- Node.js 22+
-- Codex Plugin System
-- MCP Runtime
-- FFmpeg
-- Electron
-- MOSS-TTS
-- Whisper
-- Remotion
-- HyperFrames
+title: "LaplaceYoung/director-x"
+category: "Orchestrator"
+tech_stack: ["JavaScript", "Node.js 22+", "Codex Plugin System", "MCP Runtime", "FFmpeg", "Electron", "MOSS-TTS", "Whisper", "Remotion", "HyperFrames"]
 quality_score: 8
 rag_relevance: 7
-tags:
-- AI video production
-- agentic workflows
-- media orchestration
-- Codex plugin
-- persistent production state
-source: https://github.com/LaplaceYoung/director-x
-discovered_at: '2026-07-21T04:15:06Z'
-evaluated_by: mistral-small-latest
+tags: ["AI video production", "agentic workflows", "media orchestration", "Codex plugin", "persistent production state"]
+source: "https://github.com/LaplaceYoung/director-x"
+discovered_at: "2026-07-21T04:15:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

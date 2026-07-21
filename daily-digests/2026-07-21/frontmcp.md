@@ -1,28 +1,13 @@
 ---
-title: agentfront/frontmcp
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Node.js
-- Decorators
-- Dependency Injection (DI)
-- Zod
-- JWT
-- OAuth
-- SSE
-- HTTP
-- React
+title: "agentfront/frontmcp"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "Decorators", "Dependency Injection (DI)", "Zod", "JWT", "OAuth", "SSE", "HTTP", "React"]
 quality_score: 9
 rag_relevance: 9
-tags:
-- MCP
-- TypeScript
-- Agent Framework
-- Server Development
-- AI Tooling
-source: https://github.com/agentfront/frontmcp
-discovered_at: '2026-07-18T23:52:41Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP", "TypeScript", "Agent Framework", "Server Development", "AI Tooling"]
+source: "https://github.com/agentfront/frontmcp"
+discovered_at: "2026-07-18T23:52:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

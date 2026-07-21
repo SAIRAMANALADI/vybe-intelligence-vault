@@ -1,24 +1,13 @@
 ---
-title: ooples/token-optimizer-mcp
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- SQLite
-- Brotli
-- tiktoken
-- Model Context Protocol (MCP)
-- Node.js
+title: "ooples/token-optimizer-mcp"
+category: "Tooling"
+tech_stack: ["TypeScript", "SQLite", "Brotli", "tiktoken", "Model Context Protocol (MCP)", "Node.js"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- token optimization
-- context window reduction
-- caching
-- compression
-- MCP server
-source: https://github.com/ooples/token-optimizer-mcp
-discovered_at: '2026-07-20T03:52:36Z'
-evaluated_by: mistral-small-latest
+tags: ["token optimization", "context window reduction", "caching", "compression", "MCP server"]
+source: "https://github.com/ooples/token-optimizer-mcp"
+discovered_at: "2026-07-20T03:52:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

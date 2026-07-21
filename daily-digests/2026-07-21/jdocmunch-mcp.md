@@ -1,24 +1,13 @@
 ---
-title: jgravelle/jdocmunch-mcp
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- Markdown/MDX/HTML/RST/AsciiDoc parsers
-- GitHub API
-- SHA-256 hashing
-- JSON indexing
+title: "jgravelle/jdocmunch-mcp"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "Markdown/MDX/HTML/RST/AsciiDoc parsers", "GitHub API", "SHA-256 hashing", "JSON indexing"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- documentation retrieval
-- token efficiency
-- MCP server
-- section indexing
-- context optimization
-source: https://github.com/jgravelle/jdocmunch-mcp
-discovered_at: '2026-07-18T15:55:19Z'
-evaluated_by: mistral-small-latest
+tags: ["documentation retrieval", "token efficiency", "MCP server", "section indexing", "context optimization"]
+source: "https://github.com/jgravelle/jdocmunch-mcp"
+discovered_at: "2026-07-18T15:55:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

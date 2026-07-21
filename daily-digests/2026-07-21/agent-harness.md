@@ -1,22 +1,13 @@
 ---
-title: vmy41/agent-harness
-category: daily-digests/2026-07-21
-tech_stack:
-- Go
-- Windows CLI
-- OpenRouter API
-- Anthropic API
+title: "vmy41/agent-harness"
+category: "Tooling"
+tech_stack: ["Go", "Windows CLI", "OpenRouter API", "Anthropic API"]
 quality_score: 6
 rag_relevance: 7
-tags:
-- agent testing
-- coding agents
-- local development
-- AI workflows
-- model interaction
-source: https://github.com/vmy41/agent-harness
-discovered_at: '2026-07-13T22:55:23Z'
-evaluated_by: mistral-small-latest
+tags: ["agent testing", "coding agents", "local development", "AI workflows", "model interaction"]
+source: "https://github.com/vmy41/agent-harness"
+discovered_at: "2026-07-13T22:55:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

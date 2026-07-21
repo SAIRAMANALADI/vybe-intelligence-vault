@@ -1,29 +1,13 @@
 ---
-title: conanxin/ebook-translation-toolkit
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- PDF text-layer detection
-- OCR fallback
-- Structured JSON
-- EPUB 3
-- HTML rendering
-- Markdown
-- Obsidian sync
-- QA automation
-- CLI tools
-- Mermaid diagrams
+title: "conanxin/ebook-translation-toolkit"
+category: "Tooling"
+tech_stack: ["Python", "PDF text-layer detection", "OCR fallback", "Structured JSON", "EPUB 3", "HTML rendering", "Markdown", "Obsidian sync", "QA automation", "CLI tools", "Mermaid diagrams"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- ebook translation
-- PDF processing
-- structured data
-- terminology management
-- EPUB generation
-source: https://github.com/conanxin/ebook-translation-toolkit
-discovered_at: '2026-07-21T00:03:23Z'
-evaluated_by: mistral-small-latest
+tags: ["ebook translation", "PDF processing", "structured data", "terminology management", "EPUB generation"]
+source: "https://github.com/conanxin/ebook-translation-toolkit"
+discovered_at: "2026-07-21T00:03:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

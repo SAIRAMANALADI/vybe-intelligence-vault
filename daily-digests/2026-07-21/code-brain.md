@@ -1,26 +1,13 @@
 ---
-title: ezBuilder/code-brain
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- BM25/FTS5
-- MCP (Model Context Protocol)
-- Git Hooks
-- CLI
-- JSON-RPC
-- AST (Abstract Syntax Tree)
-- Shell Scripting
+title: "ezBuilder/code-brain"
+category: "Orchestrator"
+tech_stack: ["Python", "BM25/FTS5", "MCP (Model Context Protocol)", "Git Hooks", "CLI", "JSON-RPC", "AST (Abstract Syntax Tree)", "Shell Scripting"]
 quality_score: 9
 rag_relevance: 9
-tags:
-- AI coding agents
-- repo-local memory
-- BM25 search
-- MCP tools
-- guardrails
-source: https://github.com/ezBuilder/code-brain
-discovered_at: '2026-07-21T12:23:50Z'
-evaluated_by: mistral-small-latest
+tags: ["AI coding agents", "repo-local memory", "BM25 search", "MCP tools", "guardrails"]
+source: "https://github.com/ezBuilder/code-brain"
+discovered_at: "2026-07-21T12:23:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

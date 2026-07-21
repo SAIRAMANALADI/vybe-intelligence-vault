@@ -1,26 +1,13 @@
 ---
-title: RudrenduPaul/TruthRoute
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Node.js
-- FastEmbed
-- OpenAI API
-- Anthropic API
-- Gemini API
-- MCP (Model Context Protocol)
-- CLI
+title: "RudrenduPaul/TruthRoute"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "FastEmbed", "OpenAI API", "Anthropic API", "Gemini API", "MCP (Model Context Protocol)", "CLI"]
 quality_score: 9
 rag_relevance: 9
-tags:
-- LLM comparison
-- divergence scoring
-- model evaluation
-- MCP server
-- CLI tool
-source: https://github.com/RudrenduPaul/TruthRoute
-discovered_at: '2026-07-20T03:37:44Z'
-evaluated_by: mistral-small-latest
+tags: ["LLM comparison", "divergence scoring", "model evaluation", "MCP server", "CLI tool"]
+source: "https://github.com/RudrenduPaul/TruthRoute"
+discovered_at: "2026-07-20T03:37:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,13 @@
 ---
-title: SonAIengine/graph-tool-call
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- BM25
-- Graph Traversal
-- Embedding (optional)
-- MCP
-- OpenAPI
-- LangChain
-- NetworkX
-- PyYAML
-- NumPy
-- RapidFuzz
+title: "SonAIengine/graph-tool-call"
+category: "Tooling"
+tech_stack: ["Python", "BM25", "Graph Traversal", "Embedding (optional)", "MCP", "OpenAPI", "LangChain", "NetworkX", "PyYAML", "NumPy", "RapidFuzz"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- tool retrieval
-- graph-based workflows
-- token optimization
-- multi-step planning
-- MCP integration
-source: https://github.com/SonAIengine/graph-tool-call
-discovered_at: '2026-07-19T02:30:15Z'
-evaluated_by: mistral-small-latest
+tags: ["tool retrieval", "graph-based workflows", "token optimization", "multi-step planning", "MCP integration"]
+source: "https://github.com/SonAIengine/graph-tool-call"
+discovered_at: "2026-07-19T02:30:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

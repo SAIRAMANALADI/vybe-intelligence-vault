@@ -1,28 +1,13 @@
 ---
-title: SheldonZhuang/StockSentinel
-category: daily-digests/2026-07-21
-tech_stack:
-- Node.js
-- Express
-- Vue 3
-- SQLite (WASM)
-- FRED API
-- OpenRouter
-- Resend
-- Vitest
-- MCP Server
-- REST API
+title: "SheldonZhuang/StockSentinel"
+category: "Tooling"
+tech_stack: ["Node.js", "Express", "Vue 3", "SQLite (WASM)", "FRED API", "OpenRouter", "Resend", "Vitest", "MCP Server", "REST API"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- stock market signals
-- AI-driven investing
-- macro policy analysis
-- MCP integration
-- open API
-source: https://github.com/SheldonZhuang/StockSentinel
-discovered_at: '2026-07-21T04:15:05Z'
-evaluated_by: mistral-small-latest
+tags: ["stock market signals", "AI-driven investing", "macro policy analysis", "MCP integration", "open API"]
+source: "https://github.com/SheldonZhuang/StockSentinel"
+discovered_at: "2026-07-21T04:15:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

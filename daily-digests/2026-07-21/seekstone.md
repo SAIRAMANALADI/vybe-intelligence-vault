@@ -1,24 +1,13 @@
 ---
-title: shaqmughal/seekstone
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Chokidar (file watcher)
-- SQLite (for indexing)
-- npm (package manager)
+title: "shaqmughal/seekstone"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Chokidar (file watcher)", "SQLite (for indexing)", "npm (package manager)"]
 quality_score: 9
 rag_relevance: 9
-tags:
-- Obsidian integration
-- MCP server
-- fast search
-- context window optimization
-- metadata queries
-source: https://github.com/shaqmughal/seekstone
-discovered_at: '2026-07-20T03:37:48Z'
-evaluated_by: mistral-small-latest
+tags: ["Obsidian integration", "MCP server", "fast search", "context window optimization", "metadata queries"]
+source: "https://github.com/shaqmughal/seekstone"
+discovered_at: "2026-07-20T03:37:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

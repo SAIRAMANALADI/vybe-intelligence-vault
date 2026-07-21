@@ -1,26 +1,13 @@
 ---
-title: Mayank-glitch-cpu/JobSync-Service
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- SQLite
-- Airtable API
-- Claude Desktop/Code/Cursor
-- Fastify (legacy backend)
-- React (legacy frontend)
+title: "Mayank-glitch-cpu/JobSync-Service"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "SQLite", "Airtable API", "Claude Desktop/Code/Cursor", "Fastify (legacy backend)", "React (legacy frontend)"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- job aggregation
-- MCP integration
-- Airtable sync
-- agentic workflow
-- LLM automation
-source: https://github.com/Mayank-glitch-cpu/JobSync-Service
-discovered_at: '2026-07-20T18:01:00Z'
-evaluated_by: mistral-small-latest
+tags: ["job aggregation", "MCP integration", "Airtable sync", "agentic workflow", "LLM automation"]
+source: "https://github.com/Mayank-glitch-cpu/JobSync-Service"
+discovered_at: "2026-07-20T18:01:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,25 +1,13 @@
 ---
-title: lucaszengool/Terse
-category: daily-digests/2026-07-21
-tech_stack:
-- Rust
-- Tauri
-- Swift
-- JavaScript
-- TypeScript
-- SQLite
-- MCP (Model Context Protocol)
+title: "lucaszengool/Terse"
+category: "Tooling"
+tech_stack: ["Rust", "Tauri", "Swift", "JavaScript", "TypeScript", "SQLite", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- AI agent monitoring
-- prompt optimization
-- cost reduction
-- MCP management
-- on-device processing
-source: https://github.com/lucaszengool/Terse
-discovered_at: '2026-07-21T10:24:40Z'
-evaluated_by: mistral-small-latest
+tags: ["AI agent monitoring", "prompt optimization", "cost reduction", "MCP management", "on-device processing"]
+source: "https://github.com/lucaszengool/Terse"
+discovered_at: "2026-07-21T10:24:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

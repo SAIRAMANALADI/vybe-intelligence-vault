@@ -1,26 +1,13 @@
 ---
-title: SatGate-io/satgate
-category: daily-digests/2026-07-21
-tech_stack:
-- Go
-- Python
-- JavaScript/TypeScript
-- MCP (Model Context Protocol)
-- Macaroons (capability tokens)
-- Lightning Network (L402/x402)
-- Docker
-- Kubernetes
+title: "SatGate-io/satgate"
+category: "Orchestrator"
+tech_stack: ["Go", "Python", "JavaScript/TypeScript", "MCP (Model Context Protocol)", "Macaroons (capability tokens)", "Lightning Network (L402/x402)", "Docker", "Kubernetes"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- economic governance
-- agent security
-- budget enforcement
-- MCP proxy
-- paid-rail governance
-source: https://github.com/SatGate-io/satgate
-discovered_at: '2026-07-18T23:52:45Z'
-evaluated_by: mistral-small-latest
+tags: ["economic governance", "agent security", "budget enforcement", "MCP proxy", "paid-rail governance"]
+source: "https://github.com/SatGate-io/satgate"
+discovered_at: "2026-07-18T23:52:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

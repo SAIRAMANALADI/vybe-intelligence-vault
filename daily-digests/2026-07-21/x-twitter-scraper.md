@@ -1,27 +1,13 @@
 ---
-title: Xquik-dev/x-twitter-scraper
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- JavaScript
-- REST API
-- MCP (Model Context Protocol)
-- Webhooks
-- OAuth 2.1
-- SDKs (TypeScript, Python, Go, Ruby, Java, Kotlin, C#, PHP)
-- OpenAPI
-- Node.js
+title: "Xquik-dev/x-twitter-scraper"
+category: "Tooling"
+tech_stack: ["TypeScript", "JavaScript", "REST API", "MCP (Model Context Protocol)", "Webhooks", "OAuth 2.1", "SDKs (TypeScript, Python, Go, Ruby, Java, Kotlin, C#, PHP)", "OpenAPI", "Node.js"]
 quality_score: 9
 rag_relevance: 9
-tags:
-- Twitter scraper
-- X API alternative
-- MCP tool
-- AI agent integration
-- Data extraction
-source: https://github.com/Xquik-dev/x-twitter-scraper
-discovered_at: '2026-07-20T22:59:27Z'
-evaluated_by: mistral-small-latest
+tags: ["Twitter scraper", "X API alternative", "MCP tool", "AI agent integration", "Data extraction"]
+source: "https://github.com/Xquik-dev/x-twitter-scraper"
+discovered_at: "2026-07-20T22:59:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

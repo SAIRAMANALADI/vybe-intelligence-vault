@@ -1,22 +1,13 @@
 ---
-title: sungurerdim/dev-skills
-category: daily-digests/2026-07-21
-tech_stack:
-- PowerShell
-- Markdown
-- Git/GitHub
-- Shell Scripting
+title: "sungurerdim/dev-skills"
+category: "Tooling"
+tech_stack: ["PowerShell", "Markdown", "Git/GitHub", "Shell Scripting"]
 quality_score: 8
 rag_relevance: 7
-tags:
-- AI development
-- quality gates
-- error mitigation
-- software lifecycle
-- automated workflows
-source: https://github.com/sungurerdim/dev-skills
-discovered_at: '2026-07-11T11:03:32Z'
-evaluated_by: mistral-small-latest
+tags: ["AI development", "quality gates", "error mitigation", "software lifecycle", "automated workflows"]
+source: "https://github.com/sungurerdim/dev-skills"
+discovered_at: "2026-07-11T11:03:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,27 +1,13 @@
 ---
-title: shno-labs/mem-forge
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- React
-- TypeScript
-- Docker
-- SQLite
-- Chroma (Vector DB)
-- MCP (Model Context Protocol)
-- Ruff (Code Linting)
-- WeasyPrint (PDF Processing)
+title: "shno-labs/mem-forge"
+category: "Orchestrator"
+tech_stack: ["Python", "React", "TypeScript", "Docker", "SQLite", "Chroma (Vector DB)", "MCP (Model Context Protocol)", "Ruff (Code Linting)", "WeasyPrint (PDF Processing)"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- Agent Memory
-- Provenance Tracking
-- Team Context
-- Self-Evolving
-- AI Orchestration
-source: https://github.com/shno-labs/mem-forge
-discovered_at: '2026-07-12T11:58:31Z'
-evaluated_by: mistral-small-latest
+tags: ["Agent Memory", "Provenance Tracking", "Team Context", "Self-Evolving", "AI Orchestration"]
+source: "https://github.com/shno-labs/mem-forge"
+discovered_at: "2026-07-12T11:58:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

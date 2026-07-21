@@ -1,25 +1,13 @@
 ---
-title: DaizeDong/auto-support
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- Claude Code
-- Discord API
-- DLP (Data Loss Prevention)
-- Git
-- DPAPI (for secrets management)
-- WSL2/devcontainer (for sandboxing)
+title: "DaizeDong/auto-support"
+category: "Tooling"
+tech_stack: ["Python", "Claude Code", "Discord API", "DLP (Data Loss Prevention)", "Git", "DPAPI (for secrets management)", "WSL2/devcontainer (for sandboxing)"]
 quality_score: 8
 rag_relevance: 7
-tags:
-- Discord bot
-- leak prevention
-- public docs retrieval
-- fail-closed security
-- founder escalation
-source: https://github.com/DaizeDong/auto-support
-discovered_at: '2026-07-17T08:07:29Z'
-evaluated_by: mistral-small-latest
+tags: ["Discord bot", "leak prevention", "public docs retrieval", "fail-closed security", "founder escalation"]
+source: "https://github.com/DaizeDong/auto-support"
+discovered_at: "2026-07-17T08:07:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

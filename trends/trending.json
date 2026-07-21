@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T20:09:53.465091+05:30",
+  "generated_at": "2026-07-21T20:34:24.973455+05:30",
   "trending_resources": [
     {
       "id": "hackernews:qwen-image-3-0-rich-content-authentic-details-deep",
@@ -155,7 +155,7 @@
       "file_path": "ai/resources/mongodb-courses-and-trainings-mongodb-university.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 8732,
+      "rank_change": 8748,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -168,7 +168,7 @@
       "file_path": "ai/resources/open-hugo-sponsorship-slot.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 8315,
+      "rank_change": 8326,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -194,7 +194,7 @@
       "file_path": "ai/rag/fast-open-source-olap-dbms-clickhouse.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 7043,
+      "rank_change": 7047,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -207,7 +207,7 @@
       "file_path": "ai/rag/crazyaiml-superml-datatruth.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 6996,
+      "rank_change": 7026,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -220,7 +220,7 @@
       "file_path": "ai/rag/azure-azure-search-vector-samples.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 5726,
+      "rank_change": 5742,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -233,7 +233,7 @@
       "file_path": "ai/rag/html-standard.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 4927,
+      "rank_change": 4928,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,7 +246,7 @@
       "file_path": "ai/rag/tomasonjo-langchain-neo4j.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 4864,
+      "rank_change": 4890,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -318,32 +318,6 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:npm-status",
-      "title": "npm Status",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://status.npmjs.com",
-      "file_path": "ai/rag/npm-status.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:orgs/langfuse",
-      "title": "langfuse Ideas · Discussions · GitHub",
-      "category": "ai/agents",
-      "source_type": "web",
-      "url": "https://github.com/orgs/langfuse",
-      "file_path": "ai/agents/orgs-langfuse.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
       "id": "arxiv:2312.15503",
       "title": "[2312.15503] Llama2Vec: Unsupervised Adaptation of Large Language Models for Dense Retrieval",
       "category": "ai/rag",
@@ -383,58 +357,6 @@
       "tier": "tier-3"
     },
     {
-      "id": "huggingface:spaces/xenova",
-      "title": "Cross Encoder Web - a Hugging Face Space by Xenova",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://huggingface.co/spaces/xenova",
-      "file_path": "ai/resources/huggingface-spaces-xenova.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:mixedbread-ai-skills-agent-skills",
-      "title": "mixedbread-ai/skills — Agent skills",
-      "category": "ai/agents",
-      "source_type": "web",
-      "url": "https://skills.sh/mixedbread-ai/skills",
-      "file_path": "ai/agents/mixedbread-ai-skills-agent-skills.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:sign-in-mixedbread",
-      "title": "Sign In | Mixedbread",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://platform.mixedbread.com",
-      "file_path": "ai/resources/sign-in-mixedbread.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:allow-javascript-in-your-browser-google-adsense-he",
-      "title": "Allow JavaScript in your browser - Google AdSense Help",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://support.google.com/adsense/answer/12654?hl=en",
-      "file_path": "ai/resources/allow-javascript-in-your-browser-google-adsense-he.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
       "id": "arxiv:1603.09320",
       "title": "[1603.09320] Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs",
       "category": "ai/rag",
@@ -448,12 +370,90 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:codeql-documentation",
-      "title": "CodeQL documentation",
+      "id": "blog:chroma-youtube",
+      "title": "Chroma - YouTube",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://youtube.com/@trychroma",
+      "file_path": "ai/resources/chroma-youtube.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:ukplab/sentence-transformers",
+      "title": "sentence-transformers/examples/cross_encoder/training/ms_marco at main · huggingface/sentence-transformers · GitHub",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://github.com/ukplab/sentence-transformers",
+      "file_path": "ai/resources/ukplab-sentence-transformers.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:microsoft/msmarco-passage-ranking",
+      "title": "microsoft/MSMARCO-Passage-Ranking",
+      "category": "ai/resources",
+      "source_type": "github",
+      "url": "https://github.com/microsoft/msmarco-passage-ranking",
+      "file_path": "ai/resources/microsoft-msmarco-passage-ranking.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:boost-your-search-with-the-crispy-mixedbread-reran",
+      "title": "Boost Your Search With The Crispy Mixedbread Rerank Models",
       "category": "ai/rag",
       "source_type": "web",
-      "url": "https://codeql.github.com/docs",
-      "file_path": "ai/rag/codeql-documentation.md",
+      "url": "https://mixedbread.ai/blog/mxbai-rerank-v1",
+      "file_path": "ai/rag/boost-your-search-with-the-crispy-mixedbread-reran.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:retrieve-re-rank-sentence-transformers-documentati",
+      "title": "Retrieve & Re-Rank — Sentence Transformers documentation",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://sbert.net/examples/applications/retrieve_rerank/readme.html",
+      "file_path": "ai/rag/retrieve-re-rank-sentence-transformers-documentati.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:xenova/transformers.js",
+      "title": "xenova/transformers.js",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/xenova/transformers.js",
+      "file_path": "ai/rag/xenova-transformers-js.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:overview-mixedbread",
+      "title": "Overview - Mixedbread",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://mixedbread.ai/docs",
+      "file_path": "ai/rag/overview-mixedbread.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,

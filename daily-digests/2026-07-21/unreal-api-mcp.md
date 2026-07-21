@@ -1,24 +1,13 @@
 ---
-title: Codeturion/unreal-api-mcp
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- SQLite
-- FTS5 (Full-Text Search)
-- CI/CD (GitHub Actions)
-- Unreal Engine C++ Parser
+title: "Codeturion/unreal-api-mcp"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "SQLite", "FTS5 (Full-Text Search)", "CI/CD (GitHub Actions)", "Unreal Engine C++ Parser"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- Unreal Engine
-- API Documentation
-- MCP Server
-- C++ Development
-- Agent Tooling
-source: https://github.com/Codeturion/unreal-api-mcp
-discovered_at: '2026-07-19T19:13:33Z'
-evaluated_by: mistral-small-latest
+tags: ["Unreal Engine", "API Documentation", "MCP Server", "C++ Development", "Agent Tooling"]
+source: "https://github.com/Codeturion/unreal-api-mcp"
+discovered_at: "2026-07-19T19:13:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

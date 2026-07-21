@@ -1,19 +1,13 @@
 ---
-title: miaaaaaou/meow
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
+title: "miaaaaaou/meow"
+category: "Tooling"
+tech_stack: ["Python"]
 quality_score: 1
 rag_relevance: 1
-tags:
-- placeholder
-- unmaintained
-- undocumented
-- experimental
-- abandoned
-source: https://github.com/miaaaaaou/meow
-discovered_at: '2026-07-15T16:20:56Z'
-evaluated_by: mistral-small-latest
+tags: ["placeholder", "unmaintained", "undocumented", "experimental", "abandoned"]
+source: "https://github.com/miaaaaaou/meow"
+discovered_at: "2026-07-15T16:20:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

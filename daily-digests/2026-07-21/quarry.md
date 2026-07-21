@@ -1,27 +1,13 @@
 ---
-title: punt-labs/quarry
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- ONNX Runtime
-- LanceDB
-- Claude Code
-- MCP (Model Context Protocol)
-- WebSocket
-- CUDA (for GPU acceleration)
-- OCR (for scanned PDFs)
-- Git (for capture shadow repos)
+title: "punt-labs/quarry"
+category: "Vector DB"
+tech_stack: ["Python", "ONNX Runtime", "LanceDB", "Claude Code", "MCP (Model Context Protocol)", "WebSocket", "CUDA (for GPU acceleration)", "OCR (for scanned PDFs)", "Git (for capture shadow repos)"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- local semantic search
-- privacy-focused
-- AI agent integration
-- document indexing
-- embedding
-source: https://github.com/punt-labs/quarry
-discovered_at: '2026-07-14T05:29:16Z'
-evaluated_by: mistral-small-latest
+tags: ["local semantic search", "privacy-focused", "AI agent integration", "document indexing", "embedding"]
+source: "https://github.com/punt-labs/quarry"
+discovered_at: "2026-07-14T05:29:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

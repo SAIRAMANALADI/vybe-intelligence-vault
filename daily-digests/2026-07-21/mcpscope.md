@@ -1,26 +1,13 @@
 ---
-title: ffleurey/mcpscope
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Node.js
-- SQLite
-- Electron
-- MCP (Model Context Protocol)
-- React
-- Express
-- Zod
+title: "ffleurey/mcpscope"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "SQLite", "Electron", "MCP (Model Context Protocol)", "React", "Express", "Zod"]
 quality_score: 9
 rag_relevance: 9
-tags:
-- MCP development
-- LLM benchmarking
-- local-first
-- agent collaboration
-- model evaluation
-source: https://github.com/ffleurey/mcpscope
-discovered_at: '2026-07-18T08:09:29Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP development", "LLM benchmarking", "local-first", "agent collaboration", "model evaluation"]
+source: "https://github.com/ffleurey/mcpscope"
+discovered_at: "2026-07-18T08:09:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

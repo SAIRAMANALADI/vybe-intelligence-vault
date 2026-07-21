@@ -1,25 +1,13 @@
 ---
-title: scopweb/mcp-filesystem-go-ultra
-category: daily-digests/2026-07-21
-tech_stack:
-- Go
-- Model Context Protocol (MCP)
-- BigCache
-- go-cache
-- JSON Lines
-- SSE (Server-Sent Events)
-- WSL/Windows interoperability
+title: "scopweb/mcp-filesystem-go-ultra"
+category: "Tooling"
+tech_stack: ["Go", "Model Context Protocol (MCP)", "BigCache", "go-cache", "JSON Lines", "SSE (Server-Sent Events)", "WSL/Windows interoperability"]
 quality_score: 9
 rag_relevance: 9
-tags:
-- MCP server
-- filesystem operations
-- atomic batch processing
-- risk assessment
-- observability
-source: https://github.com/scopweb/mcp-filesystem-go-ultra
-discovered_at: '2026-07-15T10:48:43Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP server", "filesystem operations", "atomic batch processing", "risk assessment", "observability"]
+source: "https://github.com/scopweb/mcp-filesystem-go-ultra"
+discovered_at: "2026-07-15T10:48:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

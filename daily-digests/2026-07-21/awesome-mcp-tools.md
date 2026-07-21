@@ -1,23 +1,13 @@
 ---
-title: Christian-Sidak/awesome-mcp-tools
-category: daily-digests/2026-07-21
-tech_stack:
-- Markdown
-- GitHub
-- Python
-- TypeScript
-- Go
+title: "Christian-Sidak/awesome-mcp-tools"
+category: "Tooling"
+tech_stack: ["Markdown", "GitHub", "Python", "TypeScript", "Go"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- MCP
-- Model Context Protocol
-- AI tools
-- SDKs
-- server implementations
-source: https://github.com/Christian-Sidak/awesome-mcp-tools
-discovered_at: '2026-07-18T23:52:47Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP", "Model Context Protocol", "AI tools", "SDKs", "server implementations"]
+source: "https://github.com/Christian-Sidak/awesome-mcp-tools"
+discovered_at: "2026-07-18T23:52:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

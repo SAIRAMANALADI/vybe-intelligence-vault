@@ -1,23 +1,13 @@
 ---
-title: runcycles/cycles-mcp-server
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- REST API
-- npm
+title: "runcycles/cycles-mcp-server"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "REST API", "npm"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- budget enforcement
-- MCP server
-- cost control
-- AI agent governance
-- multi-tenant
-source: https://github.com/runcycles/cycles-mcp-server
-discovered_at: '2026-07-21T12:23:58Z'
-evaluated_by: mistral-small-latest
+tags: ["budget enforcement", "MCP server", "cost control", "AI agent governance", "multi-tenant"]
+source: "https://github.com/runcycles/cycles-mcp-server"
+discovered_at: "2026-07-21T12:23:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

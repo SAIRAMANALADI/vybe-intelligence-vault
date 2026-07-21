@@ -1,29 +1,13 @@
 ---
-title: octarq-org/octarq
-category: daily-digests/2026-07-21
-tech_stack:
-- Go
-- React
-- SQLite
-- PostgreSQL
-- Cloudflare API
-- SMTP
-- MaxMind GeoIP
-- Model Context Protocol (MCP)
-- Docker
-- TypeScript
-- pnpm
+title: "octarq-org/octarq"
+category: "Tooling"
+tech_stack: ["Go", "React", "SQLite", "PostgreSQL", "Cloudflare API", "SMTP", "MaxMind GeoIP", "Model Context Protocol (MCP)", "Docker", "TypeScript", "pnpm"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- self-hosted
-- link-shortener
-- email-routing
-- DNS-management
-- AI-integration
-source: https://github.com/octarq-org/octarq
-discovered_at: '2026-07-20T12:22:16Z'
-evaluated_by: mistral-small-latest
+tags: ["self-hosted", "link-shortener", "email-routing", "DNS-management", "AI-integration"]
+source: "https://github.com/octarq-org/octarq"
+discovered_at: "2026-07-20T12:22:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

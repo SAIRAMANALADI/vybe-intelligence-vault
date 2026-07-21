@@ -1,26 +1,13 @@
 ---
-title: virtualsms-io/claude-skill-sms-verification
-category: daily-digests/2026-07-21
-tech_stack:
-- MCP (Model Context Protocol)
-- Node.js
-- npm
-- WebSocket
-- API Integration
-- SMS Verification
-- Proxy Services
-- Cloud Browser Sessions
+title: "virtualsms-io/claude-skill-sms-verification"
+category: "Tooling"
+tech_stack: ["MCP (Model Context Protocol)", "Node.js", "npm", "WebSocket", "API Integration", "SMS Verification", "Proxy Services", "Cloud Browser Sessions"]
 quality_score: 8
 rag_relevance: 7
-tags:
-- SMS verification
-- AI agent tools
-- MCP server
-- account verification
-- proxy services
-source: https://github.com/virtualsms-io/claude-skill-sms-verification
-discovered_at: '2026-07-19T07:29:57Z'
-evaluated_by: mistral-small-latest
+tags: ["SMS verification", "AI agent tools", "MCP server", "account verification", "proxy services"]
+source: "https://github.com/virtualsms-io/claude-skill-sms-verification"
+discovered_at: "2026-07-19T07:29:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

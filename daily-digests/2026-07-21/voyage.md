@@ -1,22 +1,13 @@
 ---
-title: indigokarasu/voyage
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- OCAS (Open Capability Architecture System)
-- Web Browsing
-- API Integrations
+title: "indigokarasu/voyage"
+category: "Tooling"
+tech_stack: ["Python", "OCAS (Open Capability Architecture System)", "Web Browsing", "API Integrations"]
 quality_score: 6
 rag_relevance: 3
-tags:
-- travel planning
-- itinerary construction
-- automation
-- logistics
-- reservation management
-source: https://github.com/indigokarasu/voyage
-discovered_at: '2026-07-21T04:14:55Z'
-evaluated_by: mistral-small-latest
+tags: ["travel planning", "itinerary construction", "automation", "logistics", "reservation management"]
+source: "https://github.com/indigokarasu/voyage"
+discovered_at: "2026-07-21T04:14:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
