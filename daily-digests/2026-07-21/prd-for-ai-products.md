@@ -1,22 +1,13 @@
 ---
-title: WYY-gogogo/prd-for-ai-products
-category: daily-digests/2026-07-21
-tech_stack:
-- Markdown
-- Prompt Engineering
-- AI Product Methodology
-- Structured Documentation
+title: "WYY-gogogo/prd-for-ai-products"
+category: "Tooling"
+tech_stack: ["Markdown", "Prompt Engineering", "AI Product Methodology", "Structured Documentation"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- PRD Generation
-- AI Product Development
-- Prompt Engineering
-- Product Documentation
-- AI Methodology
-source: https://github.com/WYY-gogogo/prd-for-ai-products
-discovered_at: '2026-07-11T18:59:48Z'
-evaluated_by: mistral-small-latest
+tags: ["PRD Generation", "AI Product Development", "Prompt Engineering", "Product Documentation", "AI Methodology"]
+source: "https://github.com/WYY-gogogo/prd-for-ai-products"
+discovered_at: "2026-07-11T18:59:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

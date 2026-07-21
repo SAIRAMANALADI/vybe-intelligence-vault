@@ -1,23 +1,13 @@
 ---
-title: goldbarth/chartula
-category: daily-digests/2026-07-21
-tech_stack:
-- C#
-- .NET
-- CLI
-- YAML
-- LLM (for rephrasing)
+title: "goldbarth/chartula"
+category: "Tooling"
+tech_stack: ["C#", ".NET", "CLI", "YAML", "LLM (for rephrasing)"]
 quality_score: 7
 rag_relevance: 6
-tags:
-- changelog
-- release notes
-- documentation
-- automation
-- CI/CD
-source: https://github.com/goldbarth/chartula
-discovered_at: '2026-07-16T15:00:32Z'
-evaluated_by: mistral-small-latest
+tags: ["changelog", "release notes", "documentation", "automation", "CI/CD"]
+source: "https://github.com/goldbarth/chartula"
+discovered_at: "2026-07-16T15:00:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

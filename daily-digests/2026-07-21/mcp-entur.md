@@ -1,22 +1,13 @@
 ---
-title: pipeworx-io/mcp-entur
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Model Context Protocol (MCP)
-- REST API
-- JSON
+title: "pipeworx-io/mcp-entur"
+category: "Tooling"
+tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "REST API", "JSON"]
 quality_score: 6
 rag_relevance: 8
-tags:
-- public transport
-- real-time data
-- MCP server
-- Norway
-- Entur
-source: https://github.com/pipeworx-io/mcp-entur
-discovered_at: '2026-07-19T19:13:42Z'
-evaluated_by: mistral-small-latest
+tags: ["public transport", "real-time data", "MCP server", "Norway", "Entur"]
+source: "https://github.com/pipeworx-io/mcp-entur"
+discovered_at: "2026-07-19T19:13:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

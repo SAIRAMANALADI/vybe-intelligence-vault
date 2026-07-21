@@ -1,21 +1,13 @@
 ---
-title: dodycode/eng-docs
-category: daily-digests/2026-07-21
-tech_stack:
-- Markdown
-- Mermaid Diagrams
-- AI Agent Integration
+title: "dodycode/eng-docs"
+category: "Tooling"
+tech_stack: ["Markdown", "Mermaid Diagrams", "AI Agent Integration"]
 quality_score: 7
 rag_relevance: 8
-tags:
-- documentation
-- templates
-- AI agents
-- engineering standards
-- ADR
-source: https://github.com/dodycode/eng-docs
-discovered_at: '2026-07-11T05:39:07Z'
-evaluated_by: mistral-small-latest
+tags: ["documentation", "templates", "AI agents", "engineering standards", "ADR"]
+source: "https://github.com/dodycode/eng-docs"
+discovered_at: "2026-07-11T05:39:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

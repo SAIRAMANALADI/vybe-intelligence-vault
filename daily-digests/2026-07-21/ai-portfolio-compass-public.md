@@ -1,30 +1,13 @@
 ---
-title: Elian-dan/AI-Portfolio-Compass-public
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- FastAPI
-- React
-- Vite
-- SQLite
-- Futu OpenD
-- Alpaca
-- Polygon
-- Alpha Vantage
-- DeepSeek
-- TypeScript
-- Pydantic
+title: "Elian-dan/AI-Portfolio-Compass-public"
+category: "Tooling"
+tech_stack: ["Python", "FastAPI", "React", "Vite", "SQLite", "Futu OpenD", "Alpaca", "Polygon", "Alpha Vantage", "DeepSeek", "TypeScript", "Pydantic"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- portfolio management
-- multi-account aggregation
-- AI copilot
-- investment analysis
-- local-first
-source: https://github.com/Elian-dan/AI-Portfolio-Compass-public
-discovered_at: '2026-07-14T12:10:18Z'
-evaluated_by: mistral-small-latest
+tags: ["portfolio management", "multi-account aggregation", "AI copilot", "investment analysis", "local-first"]
+source: "https://github.com/Elian-dan/AI-Portfolio-Compass-public"
+discovered_at: "2026-07-14T12:10:18Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,26 +1,13 @@
 ---
-title: AliceLJY/etwin-bot
-category: daily-digests/2026-07-21
-tech_stack:
-- JavaScript
-- Node.js
-- Telegram Bot API
-- Claude Agent SDK
-- Codex SDK
-- Bun
-- Grammy (Telegram bot framework)
-- Launchd (macOS service manager)
+title: "AliceLJY/etwin-bot"
+category: "Agent Framework"
+tech_stack: ["JavaScript", "Node.js", "Telegram Bot API", "Claude Agent SDK", "Codex SDK", "Bun", "Grammy (Telegram bot framework)", "Launchd (macOS service manager)"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- proactive AI companion
-- Telegram bot
-- model-led cadence
-- Claude/Codex backend
-- personalization
-source: https://github.com/AliceLJY/etwin-bot
-discovered_at: '2026-07-21T15:03:37Z'
-evaluated_by: mistral-small-latest
+tags: ["proactive AI companion", "Telegram bot", "model-led cadence", "Claude/Codex backend", "personalization"]
+source: "https://github.com/AliceLJY/etwin-bot"
+discovered_at: "2026-07-21T15:03:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

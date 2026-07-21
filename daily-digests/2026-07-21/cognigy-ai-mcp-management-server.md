@@ -1,24 +1,13 @@
 ---
-title: TsvetanG2/cognigy-ai-mcp-management-server
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Zod
-- REST API
-- OpenAPI
+title: "TsvetanG2/cognigy-ai-mcp-management-server"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Zod", "REST API", "OpenAPI"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- MCP server
-- Cognigy.AI
-- conversational AI
-- agent management
-- NLU automation
-source: https://github.com/TsvetanG2/cognigy-ai-mcp-management-server
-discovered_at: '2026-07-21T07:32:20Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP server", "Cognigy.AI", "conversational AI", "agent management", "NLU automation"]
+source: "https://github.com/TsvetanG2/cognigy-ai-mcp-management-server"
+discovered_at: "2026-07-21T07:32:20Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

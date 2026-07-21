@@ -1,23 +1,13 @@
 ---
-title: craaft/skill
-category: daily-digests/2026-07-21
-tech_stack:
-- Claude Code
-- API Integration
-- OpenAPI
-- Bearer Authentication
-- Python SDK
+title: "craaft/skill"
+category: "Tooling"
+tech_stack: ["Claude Code", "API Integration", "OpenAPI", "Bearer Authentication", "Python SDK"]
 quality_score: 8
 rag_relevance: 7
-tags:
-- Claude Code
-- Kanban API
-- API Integration
-- LLM Tooling
-- Automation
-source: https://github.com/craaft/skill
-discovered_at: '2026-07-19T07:29:35Z'
-evaluated_by: mistral-small-latest
+tags: ["Claude Code", "Kanban API", "API Integration", "LLM Tooling", "Automation"]
+source: "https://github.com/craaft/skill"
+discovered_at: "2026-07-19T07:29:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,27 +1,13 @@
 ---
-title: jmagar/rarcane
-category: daily-digests/2026-07-21
-tech_stack:
-- Rust
-- MCP (Model Context Protocol)
-- Docker
-- HTTP
-- CLI
-- Arcane API
-- OAuth
-- TOML
-- JSON Schema
+title: "jmagar/rarcane"
+category: "Orchestrator"
+tech_stack: ["Rust", "MCP (Model Context Protocol)", "Docker", "HTTP", "CLI", "Arcane API", "OAuth", "TOML", "JSON Schema"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- MCP server
-- Docker management
-- Arcane integration
-- container orchestration
-- RAG tooling
-source: https://github.com/jmagar/rarcane
-discovered_at: '2026-07-20T02:45:00Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP server", "Docker management", "Arcane integration", "container orchestration", "RAG tooling"]
+source: "https://github.com/jmagar/rarcane"
+discovered_at: "2026-07-20T02:45:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,26 +1,13 @@
 ---
-title: jmagar/rgotify
-category: daily-digests/2026-07-21
-tech_stack:
-- Rust
-- MCP (Model Context Protocol)
-- HTTP
-- CLI
-- npm
-- Docker
-- TOML
-- JSON
+title: "jmagar/rgotify"
+category: "Tooling"
+tech_stack: ["Rust", "MCP (Model Context Protocol)", "HTTP", "CLI", "npm", "Docker", "TOML", "JSON"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- MCP server
-- push notifications
-- Gotify integration
-- Rust CLI
-- agent tooling
-source: https://github.com/jmagar/rgotify
-discovered_at: '2026-07-19T23:56:10Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP server", "push notifications", "Gotify integration", "Rust CLI", "agent tooling"]
+source: "https://github.com/jmagar/rgotify"
+discovered_at: "2026-07-19T23:56:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

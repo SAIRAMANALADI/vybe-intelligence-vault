@@ -1,27 +1,13 @@
 ---
-title: pipefy/ai-toolkit
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- GraphQL
-- uv (package manager)
-- Typer (CLI framework)
-- FastMCP
-- Pydantic
-- OAuth 2.0
-- Markdown (for agent skills)
+title: "pipefy/ai-toolkit"
+category: "Orchestrator"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "GraphQL", "uv (package manager)", "Typer (CLI framework)", "FastMCP", "Pydantic", "OAuth 2.0", "Markdown (for agent skills)"]
 quality_score: 9
 rag_relevance: 9
-tags:
-- MCP server
-- AI agent integration
-- GraphQL SDK
-- CLI automation
-- Pipefy platform
-source: https://github.com/pipefy/ai-toolkit
-discovered_at: '2026-07-21T15:03:50Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP server", "AI agent integration", "GraphQL SDK", "CLI automation", "Pipefy platform"]
+source: "https://github.com/pipefy/ai-toolkit"
+discovered_at: "2026-07-21T15:03:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

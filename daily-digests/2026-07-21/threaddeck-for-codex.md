@@ -1,25 +1,13 @@
 ---
-title: y5862000/threaddeck-for-codex
-category: daily-digests/2026-07-21
-tech_stack:
-- Swift
-- Stream Deck SDK
-- macOS Accessibility API
-- Elgato Stream Deck Neo
-- Codex Desktop
-- SVG Rendering
-- Localization (English/Korean)
+title: "y5862000/threaddeck-for-codex"
+category: "Tooling"
+tech_stack: ["Swift", "Stream Deck SDK", "macOS Accessibility API", "Elgato Stream Deck Neo", "Codex Desktop", "SVG Rendering", "Localization (English/Korean)"]
 quality_score: 9
 rag_relevance: 6
-tags:
-- Stream Deck
-- Codex integration
-- Hardware control
-- Voice dictation
-- macOS automation
-source: https://github.com/y5862000/threaddeck-for-codex
-discovered_at: '2026-07-20T18:00:43Z'
-evaluated_by: mistral-small-latest
+tags: ["Stream Deck", "Codex integration", "Hardware control", "Voice dictation", "macOS automation"]
+source: "https://github.com/y5862000/threaddeck-for-codex"
+discovered_at: "2026-07-20T18:00:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

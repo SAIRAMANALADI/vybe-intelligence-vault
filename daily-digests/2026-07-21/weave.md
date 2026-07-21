@@ -1,23 +1,13 @@
 ---
-title: indigokarasu/weave
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- Graph Database
-- Provenance Tracking
-- OAuth
-- Google Contacts API
+title: "indigokarasu/weave"
+category: "Tooling"
+tech_stack: ["Python", "Graph Database", "Provenance Tracking", "OAuth", "Google Contacts API"]
 quality_score: 7
 rag_relevance: 6
-tags:
-- social graph
-- provenance
-- contacts management
-- private data
-- graph traversal
-source: https://github.com/indigokarasu/weave
-discovered_at: '2026-07-21T04:14:54Z'
-evaluated_by: mistral-small-latest
+tags: ["social graph", "provenance", "contacts management", "private data", "graph traversal"]
+source: "https://github.com/indigokarasu/weave"
+discovered_at: "2026-07-21T04:14:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

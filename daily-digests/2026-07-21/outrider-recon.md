@@ -1,30 +1,13 @@
 ---
-title: Ap6pack/outrider-recon
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- Claude Code
-- MCP (Model Context Protocol)
-- YAML
-- JSON
-- Bash
-- Terraform
-- Ansible
-- Recon-ng
-- SpiderFoot
-- EPSS
-- HackerOne Hacktivity
+title: "Ap6pack/outrider-recon"
+category: "Orchestrator"
+tech_stack: ["Python", "Claude Code", "MCP (Model Context Protocol)", "YAML", "JSON", "Bash", "Terraform", "Ansible", "Recon-ng", "SpiderFoot", "EPSS", "HackerOne Hacktivity"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- reconnaissance
-- attack surface management
-- bug bounty
-- security automation
-- OSINT
-source: https://github.com/Ap6pack/outrider-recon
-discovered_at: '2026-07-13T06:15:43Z'
-evaluated_by: mistral-small-latest
+tags: ["reconnaissance", "attack surface management", "bug bounty", "security automation", "OSINT"]
+source: "https://github.com/Ap6pack/outrider-recon"
+discovered_at: "2026-07-13T06:15:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

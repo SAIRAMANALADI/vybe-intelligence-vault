@@ -1,29 +1,13 @@
 ---
-title: annumishr/memex-hypertext-bridge
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- Node.js
-- SQLite
-- Neo4j
-- GraphQL
-- Docker
-- OpenAI API
-- Anthropic API
-- Mermaid.js
-- Markdown
-- YAML
+title: "annumishr/memex-hypertext-bridge"
+category: "Tooling"
+tech_stack: ["Python", "Node.js", "SQLite", "Neo4j", "GraphQL", "Docker", "OpenAI API", "Anthropic API", "Mermaid.js", "Markdown", "YAML"]
 quality_score: 9
 rag_relevance: 9
-tags:
-- knowledge management
-- LLM memory retention
-- persistent wiki
-- knowledge graph
-- AI conversation persistence
-source: https://github.com/annumishr/memex-hypertext-bridge
-discovered_at: '2026-07-21T04:15:11Z'
-evaluated_by: mistral-small-latest
+tags: ["knowledge management", "LLM memory retention", "persistent wiki", "knowledge graph", "AI conversation persistence"]
+source: "https://github.com/annumishr/memex-hypertext-bridge"
+discovered_at: "2026-07-21T04:15:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

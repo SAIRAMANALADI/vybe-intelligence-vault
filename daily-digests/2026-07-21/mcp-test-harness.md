@@ -1,27 +1,13 @@
 ---
-title: vaquarkhan/mcp-test-harness
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- pytest
-- Docker
-- GitHub Actions
-- OCI (Open Container Initiative)
-- JUnit
-- SARIF
-- HTML/JSON reporting
-- FastMCP
+title: "vaquarkhan/mcp-test-harness"
+category: "Tooling"
+tech_stack: ["Python", "pytest", "Docker", "GitHub Actions", "OCI (Open Container Initiative)", "JUnit", "SARIF", "HTML/JSON reporting", "FastMCP"]
 quality_score: 10
 rag_relevance: 9
-tags:
-- MCP testing
-- AI agent validation
-- CI/CD automation
-- protocol conformance
-- deterministic testing
-source: https://github.com/vaquarkhan/mcp-test-harness
-discovered_at: '2026-07-21T07:32:14Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP testing", "AI agent validation", "CI/CD automation", "protocol conformance", "deterministic testing"]
+source: "https://github.com/vaquarkhan/mcp-test-harness"
+discovered_at: "2026-07-21T07:32:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

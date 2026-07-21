@@ -1,27 +1,13 @@
 ---
-title: amun-ai/hypha-navigator
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Chrome Extension (MV3)
-- Hypha RPC
-- WebSocket
-- Service Worker
-- Offscreen Document
-- React
-- Node.js
-- Webpack
+title: "amun-ai/hypha-navigator"
+category: "Tooling"
+tech_stack: ["TypeScript", "Chrome Extension (MV3)", "Hypha RPC", "WebSocket", "Service Worker", "Offscreen Document", "React", "Node.js", "Webpack"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- browser automation
-- AI agent integration
-- Chrome extension
-- DOM manipulation
-- Hypha RPC
-source: https://github.com/amun-ai/hypha-navigator
-discovered_at: '2026-07-15T12:14:13Z'
-evaluated_by: mistral-small-latest
+tags: ["browser automation", "AI agent integration", "Chrome extension", "DOM manipulation", "Hypha RPC"]
+source: "https://github.com/amun-ai/hypha-navigator"
+discovered_at: "2026-07-15T12:14:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

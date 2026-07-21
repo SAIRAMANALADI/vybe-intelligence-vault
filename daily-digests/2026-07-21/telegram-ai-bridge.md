@@ -1,28 +1,13 @@
 ---
-title: AliceLJY/telegram-ai-bridge
-category: daily-digests/2026-07-21
-tech_stack:
-- JavaScript
-- Bun Runtime
-- Telegram Bot API
-- Claude Code SDK
-- Codex SDK
-- Gemini CLI
-- SQLite
-- Redis
-- HTTP/JSON Envelope Protocol (A2A-TG)
-- Docker
+title: "AliceLJY/telegram-ai-bridge"
+category: "Orchestrator"
+tech_stack: ["JavaScript", "Bun Runtime", "Telegram Bot API", "Claude Code SDK", "Codex SDK", "Gemini CLI", "SQLite", "Redis", "HTTP/JSON Envelope Protocol (A2A-TG)", "Docker"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- multi-agent collaboration
-- telegram integration
-- loop suppression
-- shared memory
-- self-hosted
-source: https://github.com/AliceLJY/telegram-ai-bridge
-discovered_at: '2026-07-21T15:03:35Z'
-evaluated_by: mistral-small-latest
+tags: ["multi-agent collaboration", "telegram integration", "loop suppression", "shared memory", "self-hosted"]
+source: "https://github.com/AliceLJY/telegram-ai-bridge"
+discovered_at: "2026-07-21T15:03:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

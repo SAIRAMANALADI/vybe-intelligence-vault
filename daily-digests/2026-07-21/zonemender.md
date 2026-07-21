@@ -1,23 +1,13 @@
 ---
-title: pain2hustle/zonemender
-category: daily-digests/2026-07-21
-tech_stack:
-- JavaScript
-- Node.js
-- Cloudflare API
-- Model Context Protocol (MCP)
-- Cloudflare Workers
+title: "pain2hustle/zonemender"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Cloudflare API", "Model Context Protocol (MCP)", "Cloudflare Workers"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- Cloudflare
-- DNS management
-- DMARC
-- BIMI
-- Email routing
-source: https://github.com/pain2hustle/zonemender
-discovered_at: '2026-07-21T10:24:32Z'
-evaluated_by: mistral-small-latest
+tags: ["Cloudflare", "DNS management", "DMARC", "BIMI", "Email routing"]
+source: "https://github.com/pain2hustle/zonemender"
+discovered_at: "2026-07-21T10:24:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,13 @@
 ---
-title: nickvd7/vaultrun
-category: daily-digests/2026-07-21
-tech_stack:
-- Go
-- Docker
-- PostgreSQL
-- Redis
-- Gin (Go web framework)
-- Next.js
-- Python
-- Model Context Protocol (MCP)
-- OAuth/OIDC
-- SAML 2.0
-- SQLite
-- MongoDB
-- AWS SDK
+title: "nickvd7/vaultrun"
+category: "Orchestrator"
+tech_stack: ["Go", "Docker", "PostgreSQL", "Redis", "Gin (Go web framework)", "Next.js", "Python", "Model Context Protocol (MCP)", "OAuth/OIDC", "SAML 2.0", "SQLite", "MongoDB", "AWS SDK"]
 quality_score: 9
 rag_relevance: 9
-tags:
-- secure sandboxing
-- self-hosted AI runtime
-- Docker orchestration
-- MCP server
-- audit logging
-source: https://github.com/nickvd7/vaultrun
-discovered_at: '2026-07-15T18:06:24Z'
-evaluated_by: mistral-small-latest
+tags: ["secure sandboxing", "self-hosted AI runtime", "Docker orchestration", "MCP server", "audit logging"]
+source: "https://github.com/nickvd7/vaultrun"
+discovered_at: "2026-07-15T18:06:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

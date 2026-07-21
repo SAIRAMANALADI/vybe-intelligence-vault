@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-98%2C397-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-50%2C472-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--21-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **98,397 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **50,472 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 13,255</p>
-        <p><b>Active:</b> 12,988 | <b>Inactive:</b> 267</p>
+        <p><b>Resources tracked:</b> 12,247</p>
+        <p><b>Active:</b> 11,980 | <b>Inactive:</b> 267</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 49,002</p>
+        <p><b>Archive Files:</b> 2,043</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 98,397 files</p>
-        <p><b>Last Update:</b> 2026-07-21 22:31 IST</p>
+        <p><b>Total Vault Size:</b> 50,472 files</p>
+        <p><b>Last Update:</b> 2026-07-21 22:47 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -212,18 +212,18 @@ score_threshold: 0.65
 
 - 🔼 **[Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](ai/community/qwen-image-3-0-rich-content-authentic-details-deep.md)** • <kbd>+119 pts</kbd> • Rank: <kbd>+1</kbd>
 - 🔼 **[Who's afraid of Chinese models?](ai/community/who-s-afraid-of-chinese-models.md)** • <kbd>+82 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Develop for Android | Android Developers](ai/resources/develop-for-android-android-developers.md)** • Rank: <kbd>+1425</kbd>
-- 🔼 **[gitiles - Git at Google](ai/resources/gitiles-git-at-google.md)** • Rank: <kbd>+2799</kbd>
-- 🔼 **[Firebase · GitHub](ai/resources/firebase-github.md)** • Rank: <kbd>+2224</kbd>
+- 🔼 **[Develop for Android | Android Developers](ai/resources/develop-for-android-android-developers.md)** • Rank: <kbd>+1426</kbd>
+- 🔼 **[gitiles - Git at Google](ai/resources/gitiles-git-at-google.md)** • Rank: <kbd>+2801</kbd>
+- 🔼 **[Firebase · GitHub](ai/resources/firebase-github.md)** • Rank: <kbd>+2226</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
 - 🆕 **[Apple Fixes Hide My Email Vulnerability After 404 Media Coverage](ai/community/apple-fixes-hide-my-email-vulnerability-after-404.md)** • Score: `19`
 - 🆕 **[Latest News from Google Research Blog - Google Research](ai/rag/latest-news-from-google-research-blog-google-resea.md)** • Score: `0`
-- 🆕 **[Google Cloud Blog | News, Features and Announcements](ai/rag/google-cloud-blog-news-features-and-announcements.md)** • Score: `0`
 - 🆕 **[Kotlin and Android | Android Developers](ai/rag/kotlin-and-android-android-developers.md)** • Score: `0`
-- 🆕 **[News | Android Developers](ai/resources/news-android-developers.md)** • Score: `0`
+- 🆕 **[MongoDB: The World’s Leading Modern Data Platform | MongoDB](ai/rag/mongodb-the-worlds-leading-modern-data-platform-mo.md)** • Score: `0`
+- 🆕 **[modular/modular](ai/rag/modular-modular.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.

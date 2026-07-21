@@ -1,24 +1,13 @@
 ---
-title: mihirrchauhan/Laravel-RAG-Assistant
-category: daily-digests/2026-07-21
-tech_stack:
-- PHP
-- Laravel
-- Livewire
-- MySQL/PostgreSQL
-- LLM APIs
-- Redis
+title: "mihirrchauhan/Laravel-RAG-Assistant"
+category: "Agent Framework"
+tech_stack: ["PHP", "Laravel", "Livewire", "MySQL/PostgreSQL", "LLM APIs", "Redis"]
 quality_score: 7
 rag_relevance: 8
-tags:
-- RAG
-- AI Assistant
-- Livewire
-- Document Retrieval
-- Laravel
-source: https://github.com/mihirrchauhan/Laravel-RAG-Assistant
-discovered_at: '2026-07-11T15:54:08Z'
-evaluated_by: mistral-small-latest
+tags: ["RAG", "AI Assistant", "Livewire", "Document Retrieval", "Laravel"]
+source: "https://github.com/mihirrchauhan/Laravel-RAG-Assistant"
+discovered_at: "2026-07-11T15:54:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

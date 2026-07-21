@@ -1,24 +1,13 @@
 ---
-title: zse4321/decision-anchor-sdk
-category: daily-digests/2026-07-21
-tech_stack:
-- JavaScript
-- Node.js
-- HTTP 402 (Payment Protocol)
-- MCP (Model Context Protocol)
-- OpenAPI
-- Base Network (for USDC payments)
+title: "zse4321/decision-anchor-sdk"
+category: "Orchestrator"
+tech_stack: ["JavaScript", "Node.js", "HTTP 402 (Payment Protocol)", "MCP (Model Context Protocol)", "OpenAPI", "Base Network (for USDC payments)"]
 quality_score: 8
 rag_relevance: 9
-tags:
-- accountability
-- agent-decisions
-- external-attestation
-- metadata-anchoring
-- AI-orchestration
-source: https://github.com/zse4321/decision-anchor-sdk
-discovered_at: '2026-07-12T15:58:08Z'
-evaluated_by: mistral-small-latest
+tags: ["accountability", "agent-decisions", "external-attestation", "metadata-anchoring", "AI-orchestration"]
+source: "https://github.com/zse4321/decision-anchor-sdk"
+discovered_at: "2026-07-12T15:58:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

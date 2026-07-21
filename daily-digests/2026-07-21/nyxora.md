@@ -1,27 +1,13 @@
 ---
-title: nyxoraAI/Nyxora
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Node.js
-- React
-- Python
-- FastAPI
-- LangChain
-- Viem
-- SQLite
-- Model Context Protocol (MCP)
+title: "nyxoraAI/Nyxora"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "React", "Python", "FastAPI", "LangChain", "Viem", "SQLite", "Model Context Protocol (MCP)"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- Web3 automation
-- zero-trust AI
-- DeFi agent
-- MCP integration
-- cryptographic security
-source: https://github.com/nyxoraAI/Nyxora
-discovered_at: '2026-07-15T02:12:17Z'
-evaluated_by: mistral-small-latest
+tags: ["Web3 automation", "zero-trust AI", "DeFi agent", "MCP integration", "cryptographic security"]
+source: "https://github.com/nyxoraAI/Nyxora"
+discovered_at: "2026-07-15T02:12:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

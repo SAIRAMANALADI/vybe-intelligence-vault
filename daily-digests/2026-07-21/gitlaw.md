@@ -1,33 +1,13 @@
 ---
-title: mikelninh/gitlaw
-category: daily-digests/2026-07-21
-tech_stack:
-- React
-- TypeScript
-- FastAPI
-- BM25
-- FAISS
-- OpenAI embeddings
-- Pydantic
-- JSON Schema
-- Zod
-- Redis
-- Vercel
-- Fly.io
-- AWS ECS/Fargate
-- Terraform
-- MCP (Model Context Protocol)
+title: "mikelninh/gitlaw"
+category: "Agent Framework"
+tech_stack: ["React", "TypeScript", "FastAPI", "BM25", "FAISS", "OpenAI embeddings", "Pydantic", "JSON Schema", "Zod", "Redis", "Vercel", "Fly.io", "AWS ECS/Fargate", "Terraform", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- legal AI
-- retrieval-augmented generation
-- citation verification
-- German law
-- MCP tools
-source: https://github.com/mikelninh/gitlaw
-discovered_at: '2026-07-21T12:23:50Z'
-evaluated_by: mistral-small-latest
+tags: ["legal AI", "retrieval-augmented generation", "citation verification", "German law", "MCP tools"]
+source: "https://github.com/mikelninh/gitlaw"
+discovered_at: "2026-07-21T12:23:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

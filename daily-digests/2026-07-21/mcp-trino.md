@@ -1,24 +1,13 @@
 ---
-title: txn2/mcp-trino
-category: daily-digests/2026-07-21
-tech_stack:
-- Go
-- Model Context Protocol (MCP)
-- Trino
-- Docker
-- SLSA (Supply-chain Levels for Software Artifacts)
-- GitHub Actions
+title: "txn2/mcp-trino"
+category: "Orchestrator"
+tech_stack: ["Go", "Model Context Protocol (MCP)", "Trino", "Docker", "SLSA (Supply-chain Levels for Software Artifacts)", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 9
-tags:
-- MCP server
-- Trino integration
-- AI data access
-- semantic layer
-- multi-cluster connectivity
-source: https://github.com/txn2/mcp-trino
-discovered_at: '2026-07-20T06:16:56Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP server", "Trino integration", "AI data access", "semantic layer", "multi-cluster connectivity"]
+source: "https://github.com/txn2/mcp-trino"
+discovered_at: "2026-07-20T06:16:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

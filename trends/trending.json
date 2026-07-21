@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T22:31:27.749683+05:30",
+  "generated_at": "2026-07-21T22:47:25.627901+05:30",
   "trending_resources": [
     {
       "id": "hackernews:qwen-image-3-0-rich-content-authentic-details-deep",
@@ -36,7 +36,7 @@
       "file_path": "ai/resources/develop-for-android-android-developers.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1425,
+      "rank_change": 1426,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -49,7 +49,7 @@
       "file_path": "ai/resources/gitiles-git-at-google.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2799,
+      "rank_change": 2801,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -62,7 +62,7 @@
       "file_path": "ai/resources/firebase-github.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2224,
+      "rank_change": 2226,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -75,7 +75,7 @@
       "file_path": "ai/rag/stream-firestore-to-bigquery-firebase-extensions-h.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2823,
+      "rank_change": 2825,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -88,7 +88,20 @@
       "file_path": "ai/resources/analyze-issues-from-firebase-crashlytics-and-andro.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2223,
+      "rank_change": 2225,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:mdn/content",
+      "title": "content/files/en-us/web/security/defenses/subresource_integrity/index.md at main · mdn/content · GitHub",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://github.com/mdn/content",
+      "file_path": "ai/resources/mdn-content.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -101,20 +114,7 @@
       "file_path": "ai/rag/open-government-licence.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2237,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:discover-aws-official-knowledge-center-articles-aw",
-      "title": "Discover AWS Official Knowledge Center Articles | AWS re:Post",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://repost.aws/knowledge-center?nc1=f_dr",
-      "file_path": "ai/rag/discover-aws-official-knowledge-center-articles-aw.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1447,
+      "rank_change": 2241,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -127,25 +127,12 @@
       "file_path": "ai/rag/android-jetpack-dev-resources-android-developers.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1407,
+      "rank_change": 1412,
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "fastest_rising_tools": [
-    {
-      "id": "blog:fast-disk-space-efficient-package-manager-pnpm",
-      "title": "Fast, disk space efficient package manager | pnpm",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://pnpm.io",
-      "file_path": "ai/rag/fast-disk-space-efficient-package-manager-pnpm.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 9085,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
     {
       "id": "github:cloudflare/mcp",
       "title": "cloudflare/mcp",
@@ -155,7 +142,7 @@
       "file_path": "ai/resources/cloudflare-mcp.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 7018,
+      "rank_change": 7047,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -168,7 +155,7 @@
       "file_path": "ai/resources/langchain-support-portal.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 4926,
+      "rank_change": 4945,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -181,7 +168,7 @@
       "file_path": "ai/rag/vite-next-generation-frontend-tooling.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 3483,
+      "rank_change": 3491,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -194,7 +181,7 @@
       "file_path": "ai/resources/pnpm-pnpm.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 3480,
+      "rank_change": 3488,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -207,7 +194,7 @@
       "file_path": "ai/resources/ethics-and-ai-web-dev.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 3444,
+      "rank_change": 3458,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -220,7 +207,7 @@
       "file_path": "ai/rag/what-is-artificial-intelligence-web-dev.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2981,
+      "rank_change": 2994,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -233,7 +220,7 @@
       "file_path": "ai/rag/improve-performance-and-ux-for-client-side-ai-web.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2947,
+      "rank_change": 2961,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,7 +233,7 @@
       "file_path": "ai/agents/mojo.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2911,
+      "rank_change": 2925,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -259,7 +246,20 @@
       "file_path": "ai/rag/functional-programming-wikipedia.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2909,
+      "rank_change": 2923,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:overview-knative",
+      "title": "Overview - Knative",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://knative.dev/docs",
+      "file_path": "ai/rag/overview-knative.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 2851,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -292,38 +292,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:google-cloud-blog-news-features-and-announcements",
-      "title": "Google Cloud Blog | News, Features and Announcements",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://cloud.google.com/blog",
-      "file_path": "ai/rag/google-cloud-blog-news-features-and-announcements.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
       "id": "blog:kotlin-and-android-android-developers",
       "title": "Kotlin and Android | Android Developers",
       "category": "ai/rag",
       "source_type": "web",
       "url": "https://developer.android.com/kotlin",
       "file_path": "ai/rag/kotlin-and-android-android-developers.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:news-android-developers",
-      "title": "News | Android Developers",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://developer.android.com/news",
-      "file_path": "ai/resources/news-android-developers.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -383,32 +357,6 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:chrome-for-developers",
-      "title": "Chrome for Developers",
-      "category": "ai/agents",
-      "source_type": "web",
-      "url": "https://developer.chrome.com",
-      "file_path": "ai/agents/chrome-for-developers.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:tensorflow-js-machine-learning-for-javascript-deve",
-      "title": "TensorFlow.js | Machine Learning for JavaScript Developers",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://tensorflow.org/js",
-      "file_path": "ai/rag/tensorflow-js-machine-learning-for-javascript-deve.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
       "id": "huggingface:docs/transformers.js",
       "title": "Transformers.js · Hugging Face",
       "category": "ai/rag",
@@ -454,6 +402,58 @@
       "source_type": "web",
       "url": "https://gsuite.google.com/learning-center",
       "file_path": "ai/rag/google-workspace-learning-center.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:android-bench/android-bench",
+      "title": "android-bench/android-bench",
+      "category": "ai/resources",
+      "source_type": "github",
+      "url": "https://github.com/android-bench/android-bench",
+      "file_path": "ai/resources/android-bench-android-bench.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:langsmith-global-gcp-us-status",
+      "title": "LangSmith Global / GCP US Status",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://status.smith.langchain.com",
+      "file_path": "ai/resources/langsmith-global-gcp-us-status.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:medium",
+      "title": "Medium",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://medium.com/googleplaydev/how-to-scale-the-happiness-of-your-users-3e46ef72029f",
+      "file_path": "ai/rag/medium-2.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:google-play-developer-apis-other-play-guides-andro",
+      "title": "Google Play Developer APIs | Other Play guides | Android Developers",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://developer.android.com/google/play/developer-api",
+      "file_path": "ai/resources/google-play-developer-apis-other-play-guides-andro.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,

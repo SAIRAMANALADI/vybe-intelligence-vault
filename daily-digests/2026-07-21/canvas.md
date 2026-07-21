@@ -1,28 +1,13 @@
 ---
-title: Ye-Zayne/canvas
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- React
-- Vite
-- tldraw
-- shadcn/ui
-- Node.js
-- Express
-- WebSocket
-- MCP Server
-- pnpm
+title: "Ye-Zayne/canvas"
+category: "UI Component"
+tech_stack: ["TypeScript", "React", "Vite", "tldraw", "shadcn/ui", "Node.js", "Express", "WebSocket", "MCP Server", "pnpm"]
 quality_score: 8
 rag_relevance: 8
-tags:
-- AI canvas
-- MCP integration
-- visual collaboration
-- agent interaction
-- tldraw
-source: https://github.com/Ye-Zayne/canvas
-discovered_at: '2026-07-20T02:44:53Z'
-evaluated_by: mistral-small-latest
+tags: ["AI canvas", "MCP integration", "visual collaboration", "agent interaction", "tldraw"]
+source: "https://github.com/Ye-Zayne/canvas"
+discovered_at: "2026-07-20T02:44:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

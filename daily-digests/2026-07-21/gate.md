@@ -1,24 +1,13 @@
 ---
-title: spelcc/gate
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- OAuth
-- MCP (Model Context Protocol)
-- Shell Command Execution
-- File Sharing
-- Reverse Proxy
+title: "spelcc/gate"
+category: "Orchestrator"
+tech_stack: ["Python", "OAuth", "MCP (Model Context Protocol)", "Shell Command Execution", "File Sharing", "Reverse Proxy"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- MCP Gateway
-- Local AI Tools
-- ChatGPT Integration
-- OAuth Security
-- Agent Skills
-source: https://github.com/spelcc/gate
-discovered_at: '2026-07-21T12:23:52Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP Gateway", "Local AI Tools", "ChatGPT Integration", "OAuth Security", "Agent Skills"]
+source: "https://github.com/spelcc/gate"
+discovered_at: "2026-07-21T12:23:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

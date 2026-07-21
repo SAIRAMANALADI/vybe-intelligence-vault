@@ -1,23 +1,13 @@
 ---
-title: avotsai/avots-mcp
-category: daily-digests/2026-07-21
-tech_stack:
-- JavaScript
-- Model Context Protocol (MCP)
-- Streamable HTTP
-- Node.js
-- REST API
+title: "avotsai/avots-mcp"
+category: "Tooling"
+tech_stack: ["JavaScript", "Model Context Protocol (MCP)", "Streamable HTTP", "Node.js", "REST API"]
 quality_score: 8
 rag_relevance: 7
-tags:
-- MCP server
-- multi-modal AI
-- media generation
-- AI integration
-- unified API
-source: https://github.com/avotsai/avots-mcp
-discovered_at: '2026-07-21T12:24:00Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP server", "multi-modal AI", "media generation", "AI integration", "unified API"]
+source: "https://github.com/avotsai/avots-mcp"
+discovered_at: "2026-07-21T12:24:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

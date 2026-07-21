@@ -1,26 +1,13 @@
 ---
-title: asciimoo/hister
-category: daily-digests/2026-07-21
-tech_stack:
-- Go
-- JavaScript
-- TypeScript
-- npm
-- C (CGO dependencies)
-- Vite
-- MCP (Model Context Protocol)
-- SQLite (assumed for indexing)
+title: "asciimoo/hister"
+category: "Tooling"
+tech_stack: ["Go", "JavaScript", "TypeScript", "npm", "C (CGO dependencies)", "Vite", "MCP (Model Context Protocol)", "SQLite (assumed for indexing)"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- search engine
-- privacy-focused
-- self-hosted
-- semantic search
-- MCP integration
-source: https://github.com/asciimoo/hister
-discovered_at: '2026-07-18T09:24:08Z'
-evaluated_by: mistral-small-latest
+tags: ["search engine", "privacy-focused", "self-hosted", "semantic search", "MCP integration"]
+source: "https://github.com/asciimoo/hister"
+discovered_at: "2026-07-18T09:24:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

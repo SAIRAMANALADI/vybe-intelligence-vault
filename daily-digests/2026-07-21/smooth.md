@@ -1,26 +1,13 @@
 ---
-title: SmooAI/smooth
-category: daily-digests/2026-07-21
-tech_stack:
-- Rust
-- CLI
-- HTTP/WebSocket
-- Dolt (pearl store)
-- LiteLLM (gateway)
-- TUI (ratatui)
-- OpenAI-compatible API
-- Stripe (billing)
+title: "SmooAI/smooth"
+category: "Orchestrator"
+tech_stack: ["Rust", "CLI", "HTTP/WebSocket", "Dolt (pearl store)", "LiteLLM (gateway)", "TUI (ratatui)", "OpenAI-compatible API", "Stripe (billing)"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- AI agent orchestration
-- CLI tool
-- model routing
-- adversarial surveillance
-- infrastructure management
-source: https://github.com/SmooAI/smooth
-discovered_at: '2026-07-12T17:03:49Z'
-evaluated_by: mistral-small-latest
+tags: ["AI agent orchestration", "CLI tool", "model routing", "adversarial surveillance", "infrastructure management"]
+source: "https://github.com/SmooAI/smooth"
+discovered_at: "2026-07-12T17:03:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

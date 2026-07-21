@@ -1,23 +1,13 @@
 ---
-title: BY571/knoten
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- Markdown
-- Git
-- PyYAML
-- MCP (Model Context Protocol)
+title: "BY571/knoten"
+category: "Orchestrator"
+tech_stack: ["Python", "Markdown", "Git", "PyYAML", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- research-graph
-- reproducibility
-- experiment-tracking
-- knowledge-management
-- agent-integration
-source: https://github.com/BY571/knoten
-discovered_at: '2026-07-13T16:31:33Z'
-evaluated_by: mistral-small-latest
+tags: ["research-graph", "reproducibility", "experiment-tracking", "knowledge-management", "agent-integration"]
+source: "https://github.com/BY571/knoten"
+discovered_at: "2026-07-13T16:31:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,13 @@
 ---
-title: tensorcircuit/tensorcircuit-ng
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- JAX
-- TensorFlow
-- PyTorch
-- Tensor Networks
-- Automatic Differentiation
-- Just-In-Time Compilation (JIT)
-- GPU Acceleration
-- Qiskit
-- Stim
-- SymPy
+title: "tensorcircuit/tensorcircuit-ng"
+category: "Tooling"
+tech_stack: ["Python", "JAX", "TensorFlow", "PyTorch", "Tensor Networks", "Automatic Differentiation", "Just-In-Time Compilation (JIT)", "GPU Acceleration", "Qiskit", "Stim", "SymPy"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- quantum computing
-- tensor networks
-- AI-native
-- variational algorithms
-- high-performance simulation
-source: https://github.com/tensorcircuit/tensorcircuit-ng
-discovered_at: '2026-07-21T15:03:32Z'
-evaluated_by: mistral-small-latest
+tags: ["quantum computing", "tensor networks", "AI-native", "variational algorithms", "high-performance simulation"]
+source: "https://github.com/tensorcircuit/tensorcircuit-ng"
+discovered_at: "2026-07-21T15:03:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
