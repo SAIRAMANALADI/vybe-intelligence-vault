@@ -3,9 +3,9 @@ title: Medium
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://medium.com/policy/f03bf92035c9
-published_at: '2026-07-21T03:53:17.423379+05:30'
-collected_at: '2026-07-21T03:53:17.423391+05:30'
+source_url: https://policy.medium.com/medium-privacy-policy-f03bf92035c9
+published_at: '2026-07-21T09:20:30.201254+05:30'
+collected_at: '2026-07-21T09:20:30.201262+05:30'
 tags:
 - agents
 - hackernews
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:medium
-first_seen: '2026-07-21T03:53:17.423391+05:30'
-last_seen: '2026-07-21T03:53:17.423391+05:30'
-last_checked: '2026-07-21T03:53:17.423391+05:30'
+first_seen: '2026-07-21T09:20:30.201262+05:30'
+last_seen: '2026-07-21T09:20:30.201262+05:30'
+last_checked: '2026-07-21T09:20:30.201262+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection & Sources**: Medium collects user-provided data (e.g., name, email, posts) and automatically gathers activity, transactional, device, and usage data (IP, browser, OS, cookies, web beacons) via tracking technologies. Third-party sources (social networks, analytics providers) and derived inferences (e.g., location, reading preferences) are also utilized.
+- **Data Collection & Sources**: Medium collects personal data directly (e.g., account creation, content submission) and automatically (e.g., device identifiers, IP addresses, reading history) via cookies, web beacons, and third-party integrations (e.g., social logins, analytics providers). Payment data is processed via third-party processors.
 
-- **Data Sharing & Legal Compliance**: Personal data is shared with vendors (analytics, fraud prevention), other users (visible profile/content activity), and under legal obligations (e.g., law enforcement requests, mergers). Embedded third-party content (e.g., YouTube) transmits interaction data to external hosts, governed by their policies.
+- **Data Processing & Sharing**: Information is used for service improvement, personalization, and legal compliance. Shared with vendors (e.g., hosting, analytics), affiliates, and under legal obligations (e.g., law enforcement requests). Third-party embeds (e.g., YouTube) transmit user interaction data to external hosts.
 
-- **User Controls & Transfers**: Users can access, correct, or delete account data; opt out of communications; or disable cookies/browser tracking. Data is transferred/stored globally (e.g., AWS data centers), with steps taken to ensure adequate protection despite jurisdictional differences.
+- **User Control & Transfers**: Users can access, correct, or delete account data. Cookie preferences and communication opt-outs are configurable. Data is transferred/stored globally (e.g., AWS data centers), with safeguards for cross-border compliance.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T03:53:17.423379+05:30
+- Published: 2026-07-21T09:20:30.201254+05:30
 
 ## Related Tags
 
@@ -50,4 +50,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://medium.com/policy/f03bf92035c9
+Original source: https://policy.medium.com/medium-privacy-policy-f03bf92035c9

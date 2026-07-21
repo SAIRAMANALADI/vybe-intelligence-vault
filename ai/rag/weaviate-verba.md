@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/weaviate/Verba/tree/main?tab=readme-ov-file#-getting-started-with-verba
-published_at: '2026-07-21T03:51:14.221489+05:30'
-collected_at: '2026-07-21T03:51:14.221502+05:30'
+published_at: '2026-07-21T09:22:27.863961+05:30'
+collected_at: '2026-07-21T09:22:27.863969+05:30'
 tags:
 - agents
 - anthropic
@@ -24,9 +24,9 @@ tags:
 - youtube
 status: active
 resource_id: github:weaviate/verba
-first_seen: '2026-07-21T03:51:14.221502+05:30'
-last_seen: '2026-07-21T03:51:14.221502+05:30'
-last_checked: '2026-07-21T03:51:14.221502+05:30'
+first_seen: '2026-07-21T09:22:27.863969+05:30'
+last_seen: '2026-07-21T09:22:27.863969+05:30'
+last_checked: '2026-07-21T09:22:27.863969+05:30'
 health_score: 100
 ---
 
@@ -34,9 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Discontinued Project**: Verba (Golden RAGtriever) is no longer in active development; its repository has been archived with no future updates, bug fixes, or security patches.
-- **Multi-Provider RAG Framework**: Supports local (Ollama, HuggingFace) and cloud-based (OpenAI, Anthropic, Cohere, Groq, Novita AI) LLMs/embeddings with hybrid search, filtering, and customizable metadata.
-- **Deployment Options**: Available via `pip install`, source build, or Docker; requires Python ≥3.10.0 (<3.13.0) and supports `.env` configuration for API keys (e.g., Weaviate, OpenAI, Cohere).
+- **Discontinued Project**: Verba (Golden RAGtriever) is no longer actively developed; its repository has been archived, with no future updates, bug fixes, or security patches planned. The code remains available as-is for reference or forking.
+
+- **RAG Framework Integration**: Supports end-to-end Retrieval-Augmented Generation (RAG) with multi-modal data ingestion (PDFs, CSVs, DOCX, audio via AssemblyAI) and hybrid search (semantic + keyword), leveraging Weaviate’s vector database and multiple LLM/embedding providers (Ollama, HuggingFace, Cohere, OpenAI, Groq, Novita AI, Upstage).
+
+- **Deployment Flexibility**: Offers three deployment methods (pip, source build, Docker) with configurable `.env` variables for API keys (e.g., Weaviate, Anthropic, OpenAI) and chunking strategies (token, sentence, semantic, recursive, HTML/Markdown/code/JSON).
 
 ## Why It Matters
 
@@ -46,7 +48,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T03:51:14.221489+05:30
+- Published: 2026-07-21T09:22:27.863961+05:30
 
 ## Related Tags
 

@@ -4,14 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-07-21T03:44:42.496863+05:30'
+collected_at: '2026-07-21T09:15:07.648629+05:30'
 published_at: '2026-07-15T08:50:02Z'
 tags:
 - benchmark
 - github-repo
-- meta-ai
-- mistral
-- models
 - python
 - rag
 stars: 962
@@ -21,9 +18,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-07-21T03:44:42.496863+05:30'
-last_seen: '2026-07-21T03:44:42.496863+05:30'
-last_checked: '2026-07-21T03:44:42.496863+05:30'
+first_seen: '2026-07-21T09:15:07.648629+05:30'
+last_seen: '2026-07-21T09:15:07.648629+05:30'
+last_checked: '2026-07-21T09:15:07.648629+05:30'
 health_score: 100
 ---
 
@@ -31,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates a RAG pipeline leveraging local language models (e.g., Llama, Mistral) via Ollama or LM Studio for offline inference.
-- **Dynamic Database Updates**: Implements a retriever system (e.g., FAISS, Chroma) with automated document ingestion and vector embeddings for real-time knowledge base refreshes.
-- **Testing & Evaluation Framework**: Includes automated RAGAS metrics (faithfulness, context precision/recall) and unit tests to validate retrieval quality and LLM response accuracy.
+- **Local LLM Integration**: Demonstrates deployment of Retrieval-Augmented Generation (RAG) pipelines using local language models (LLMs) via Langchain, eliminating dependency on cloud-based APIs.
+- **Dynamic Database Updates**: Implements mechanisms for real-time or periodic updates to the vector database (e.g., Chroma, FAISS) to ensure retrieval relevance with evolving data.
+- **Testing Framework**: Includes automated evaluation pipelines for RAG components (retriever, generator) using metrics like answer correctness, context relevance, and latency benchmarks.
 
 ## Why It Matters
 

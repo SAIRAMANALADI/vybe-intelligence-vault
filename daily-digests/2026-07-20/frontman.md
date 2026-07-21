@@ -1,13 +1,31 @@
 ---
-title: "frontman-ai/frontman"
-category: "Agent Framework"
-tech_stack: ["ReScript", "Elixir/Phoenix", "TypeScript", "Next.js", "Astro", "Vite", "React", "Vue", "Svelte", "Model Context Protocol (MCP)", "OpenAI API", "Anthropic API", "OpenRouter"]
+title: frontman-ai/frontman
+category: daily-digests/2026-07-20
+tech_stack:
+- ReScript
+- Elixir/Phoenix
+- TypeScript
+- Next.js
+- Astro
+- Vite
+- React
+- Vue
+- Svelte
+- Model Context Protocol (MCP)
+- OpenAI API
+- Anthropic API
+- OpenRouter
 quality_score: 9
 rag_relevance: 8
-tags: ["AI coding agent", "frontend editing", "in-browser development", "hot reload", "collaborative UI tool"]
-source: "https://github.com/frontman-ai/frontman"
-discovered_at: "2026-07-20T18:00:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI coding agent
+- frontend editing
+- in-browser development
+- hot reload
+- collaborative UI tool
+source: https://github.com/frontman-ai/frontman
+discovered_at: '2026-07-20T18:00:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

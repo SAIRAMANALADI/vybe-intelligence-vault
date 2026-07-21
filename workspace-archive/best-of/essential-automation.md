@@ -33,12 +33,12 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [LlamaIndex · GitHub](https://github.com/run-llama)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`llamaindex-github.md`](../../ai/rag/llamaindex-github.md)
+### [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template)
+- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`scotthavird-crewai-template.md`](../../ai/rag/scotthavird-crewai-template.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page-----dba899ae0355---------------------------------------)
+### [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`deepset-ai-haystack.md`](../../ai/rag/deepset-ai-haystack.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
@@ -48,24 +48,24 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`explosion-spacy.md`](../../ai/rag/explosion-spacy.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`bakrianoo-mini-rag.md`](../../ai/rag/bakrianoo-mini-rag.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`kruxai-ragbuilder.md`](../../ai/rag/kruxai-ragbuilder.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`denis2054-context-engineering-for-multi-agent-systems.md`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit)
-- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`joshuac215-agent-service-toolkit.md`](../../ai/agents/joshuac215-agent-service-toolkit.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [Google Cloud Platform · GitHub](https://github.com/googlecloudPlatform/)
-- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`google-cloud-platform-github.md`](../../ai/agents/google-cloud-platform-github.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
+### [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`alexpeclub-ai-coding-starter-kit.md`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md)
+- **Score**: `87` | **Path**: [`sri-krishna-v-awesome-adk-agents.md`](../../ai/agents/sri-krishna-v-awesome-adk-agents.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-21 04:01 IST*
+*Last updated: 2026-07-21 09:31 IST*

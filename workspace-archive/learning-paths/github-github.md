@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- GitHub has been self-hosted on GitHub since **October 19, 2007**, with **2.5M+ commits**, **1M+ issues**, and **650k+ PRs** across **4,357 repositories** from **50+ countries**.
-- GitHub's core infrastructure relies on open-source tech (**Ruby on Rails, Go, React, Kafka**) and its team contributes heavily to **VS Code, Ruby on Rails, and Homebrew**.
-- GitHub maintains and open-sources its own tools (**GitHub CLI, Desktop, Git LFS, Primer**) and documentation, with a **public roadmap** for tran
+- GitHub has been self-hosted on its platform since **October 19, 2007**, with over **2.5M commits**, **1M issues**, and **650K PRs** across **4,357 repos** from **50+ countries**.
+- GitHub’s core infrastructure relies on open-source tech stacks including **Ruby on Rails, Go, React, and Kafka**, while its team contributes most to **VS Code, Ruby on Rails, and Homebrew**.
+- GitHub maintains and open-sources key tools like **GitHub CLI, Desktop, Git LFS, and Primer**, and its public **roadmap** an
 
 ## Use Cases
 

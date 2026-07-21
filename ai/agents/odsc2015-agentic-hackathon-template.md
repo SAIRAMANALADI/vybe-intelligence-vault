@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/odsc2015/agentic-hackathon-template
-collected_at: '2026-07-21T03:48:07.669986+05:30'
+collected_at: '2026-07-21T09:18:32.769169+05:30'
 published_at: '2026-05-10T13:08:24Z'
 tags:
 - agents
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-07-24T08:33:29Z'
 pushed_at: '2025-07-25T16:42:10Z'
 resource_id: github:odsc2015/agentic-hackathon-template
-first_seen: '2026-07-21T03:48:07.669986+05:30'
-last_seen: '2026-07-21T03:48:07.669986+05:30'
-last_checked: '2026-07-21T03:48:07.669986+05:30'
+first_seen: '2026-07-21T09:18:32.769169+05:30'
+last_seen: '2026-07-21T09:18:32.769169+05:30'
+last_checked: '2026-07-21T09:18:32.769169+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Standardized Starter Repository**: Provides a pre-configured folder structure and environment specifications for the Agentic AI App Hackathon, facilitating reproducible submissions.
-- **Documentation Placeholders**: Includes templates for documentation to streamline the judging and submission process for participating teams.
-- **Metadata**: Last updated in 2026, with 19 stars and 192 forks, though the primary programming language is unspecified.
+- **Standardized Structure**: Provides a pre-defined folder hierarchy and environment specifications (`environment.yml`/`requirements.txt`) for consistent hackathon submissions.
+
+- **Documentation Placeholders**: Includes template files (e.g., `README.md`, `CONTRIBUTING.md`) to guide teams in documenting their Agentic AI solutions.
+
+- **Reproducibility Focus**: Ensures environment consistency via pinned dependencies and version control, enabling reliable judging and deployment.
 
 ## Why It Matters
 

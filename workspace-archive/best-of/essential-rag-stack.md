@@ -8,9 +8,19 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
-### [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
-- **Category**: `ai/rag` | **Kind**: `PRODUCT` | **Tier**: `ESSENTIAL`
-- **Score**: `91` | **Path**: [`ajac-zero-example-rag-app.md`](../../ai/rag/ajac-zero-example-rag-app.md)
+### [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `91` | **Path**: [`graphrag-bench-graphrag-benchmark.md`](../../ai/rag/graphrag-bench-graphrag-benchmark.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/)
+- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `ESSENTIAL`
+- **Score**: `90` | **Path**: [`rag-application-tutorial-2025-build-production-rea.md`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
+### [bangoc123/retrieval-backend-with-rag](https://github.com/bangoc123/retrieval-backend-with-rag)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`bangoc123-retrieval-backend-with-rag.md`](../../ai/rag/bangoc123-retrieval-backend-with-rag.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
@@ -18,20 +28,20 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`bakrianoo-mini-rag.md`](../../ai/rag/bakrianoo-mini-rag.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
+### [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`kruxai-ragbuilder.md`](../../ai/rag/kruxai-ragbuilder.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
 - **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`dannyblaker-rag-tutorial.md`](../../ai/rag/dannyblaker-rag-tutorial.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`graphrag-bench-graphrag-benchmark.md`](../../ai/rag/graphrag-bench-graphrag-benchmark.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/)
-- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `ESSENTIAL`
-- **Score**: `88` | **Path**: [`rag-application-tutorial-2025-build-production-rea.md`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
+### [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`bakrianoo-mini-rag.md`](../../ai/rag/bakrianoo-mini-rag.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset](https://arxiv.org/abs/2407.18245)
 - **Category**: `ai/research` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
@@ -53,19 +63,9 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`graphrag-bench-graphrag-benchmark.md`](../../ai/rag/graphrag-bench-graphrag-benchmark.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
-- **Category**: `ai/rag` | **Kind**: `PRODUCT` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`ajac-zero-example-rag-app.md`](../../ai/rag/ajac-zero-example-rag-app.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
-- **Category**: `ai/rag` | **Kind**: `API` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`yonatangross-orchestkit.md`](../../ai/rag/yonatangross-orchestkit.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [LlamaIndex · GitHub](https://github.com/run-llama)
+### [Danielskry/Awesome-RAG](https://github.com/Danielskry/Awesome-RAG)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`llamaindex-github.md`](../../ai/rag/llamaindex-github.md)
+- **Score**: `87` | **Path**: [`danielskry-awesome-rag.md`](../../ai/rag/danielskry-awesome-rag.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-21 04:01 IST*
+*Last updated: 2026-07-21 09:31 IST*

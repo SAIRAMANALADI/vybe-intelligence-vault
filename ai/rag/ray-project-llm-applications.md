@@ -4,12 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-07-21T03:46:07.571345+05:30'
+collected_at: '2026-07-21T09:16:32.710300+05:30'
 published_at: '2026-07-11T01:00:06Z'
 tags:
-- benchmark
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -24,9 +22,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-07-21T03:46:07.571345+05:30'
-last_seen: '2026-07-21T03:46:07.571345+05:30'
-last_checked: '2026-07-21T03:46:07.571345+05:30'
+first_seen: '2026-07-21T09:16:32.710300+05:30'
+last_seen: '2026-07-21T09:16:32.710300+05:30'
+last_checked: '2026-07-21T09:16:32.710300+05:30'
 health_score: 100
 ---
 
@@ -34,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2 and OpenAI models with optimized fine-tuning techniques.
-- **Scalable Serving Architecture**: Leverages Ray’s distributed computing to deploy LLM applications with horizontal scalability, supporting high-throughput inference and low-latency serving for production environments.
-- **End-to-End Tooling**: Provides Jupyter Notebook-based guides for fine-tuning, evaluation, and deployment, with pre-configured pipelines for Anyscale and Ray Serve integration.
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2 and OpenAI models with optimized retrieval mechanisms.
+- **Fine-Tuning & Serving**: Provides Jupyter Notebook-based guides for fine-tuning LLMs (e.g., Llama2) and deploying them via Ray Serve for scalable inference.
+- **Multi-Model & Tooling Support**: Includes examples leveraging Anyscale endpoints, OpenAI APIs, and Ray’s ecosystem for end-to-end LLM application development.
 
 ## Why It Matters
 

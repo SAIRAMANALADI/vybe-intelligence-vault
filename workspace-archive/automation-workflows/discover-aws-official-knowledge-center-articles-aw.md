@@ -2,7 +2,7 @@
 title: Discover AWS Official Knowledge Center Articles | AWS re:Post
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://repost.aws/knowledge-center/?nc1=f_dr
+source_url: https://repost.aws/knowledge-center?nc1=f_dr
 resource_id: blog:discover-aws-official-knowledge-center-articles-aw
 local_vault_path: ai/rag/discover-aws-official-knowledge-center-articles-aw.md
 quality_score: 70
@@ -38,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **S3 Replication Issues**: S3 object replication fails due to misconfigured IAM roles, incorrect bucket policies, or missing replication configuration; verify destination bucket permissions and replication rules.
+- **S3 Replication Failures**: Amazon S3 object replication may fail due to misconfigured replication rules, missing IAM permissions, or disabled versioning on source/destination buckets.
 
-- **EC2 Connection Failures**: SSH/RDP connection errors stem from security group misconfigurations, missing key pairs, or disabled SSM Agent; validate network ACLs and instance status.
+- **EC2 Connection Issues**: SSH/RDP failures to EC2 instances often stem from incorrect security group rules, missing key pairs, or disabled SSM Agent for Session Manager access.
 
-- **WAF Rate-Based Rule Misconfiguration**: AWS WAF rate-based rules fail to block traffic when a
+- **WAF Rate-Based Rule Misconfiguration**: AWS WAF rate-based rules may not block traffic if thresholds are misaligned with actua
 
 ## Use Cases
 
@@ -52,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://repost.aws/knowledge-center/?nc1=f_dr
+Original source URL: https://repost.aws/knowledge-center?nc1=f_dr
 
 ## Local Vault File
 

@@ -4,23 +4,22 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/skills
-collected_at: '2026-07-18T01:14:11.542976+05:30'
-published_at: '2026-07-17T19:44:03Z'
+collected_at: '2026-07-21T09:24:04.113650+05:30'
+published_at: '2026-07-21T03:42:32Z'
 tags:
 - agents
 - github-repo
 - typescript
-- workflows
-stars: 26421
+stars: 26724
 language: TypeScript
 status: active
 archived: false
 created_at: '2026-01-14T21:31:18Z'
 pushed_at: '2026-07-16T17:53:59Z'
 resource_id: github:vercel-labs/skills
-first_seen: '2026-07-18T01:14:11.542976+05:30'
-last_seen: '2026-07-18T01:14:11.542976+05:30'
-last_checked: '2026-07-18T01:14:11.542976+05:30'
+first_seen: '2026-07-21T09:24:04.113650+05:30'
+last_seen: '2026-07-21T09:24:04.113650+05:30'
+last_checked: '2026-07-21T09:24:04.113650+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Open-source agent skills framework** written in TypeScript, enabling programmatic interaction with AI agents via `npx skills`.
-- **Modular architecture** allowing extensible skill definitions and dynamic skill discovery for agentic workflows.
-- **Last updated July 2026**, indicating active maintenance with potential support for modern AI agent protocols and integrations.
+- **Purpose**: Open-source agent skills toolkit enabling rapid deployment of AI agents with modular, reusable skills via `npx skills` CLI.
+- **Tech Stack**: Built in TypeScript, optimized for Vercel deployments with serverless functions and edge runtime support.
+- **Key Features**: Provides pre-built agent skills (e.g., web search, code execution) with extensible architecture for custom skill integration.
 
 ## Why It Matters
 
@@ -39,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel-labs
-- Stars: 26421
-- Forks: 2215
+- Stars: 26724
+- Forks: 2249
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-07-17T19:44:03Z
+- Last Updated: 2026-07-21T03:42:32Z
 - Archived: No
 - Created At: 2026-01-14T21:31:18Z
 - Pushed At: 2026-07-16T17:53:59Z

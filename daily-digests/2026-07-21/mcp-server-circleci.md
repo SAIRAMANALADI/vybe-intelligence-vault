@@ -1,13 +1,23 @@
 ---
-title: "CircleCI-Public/mcp-server-circleci"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Docker", "CircleCI API"]
+title: CircleCI-Public/mcp-server-circleci
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Docker
+- CircleCI API
 quality_score: 8
 rag_relevance: 7
-tags: ["CI/CD", "MCP Server", "CircleCI", "AI Integration", "DevOps"]
-source: "https://github.com/CircleCI-Public/mcp-server-circleci"
-discovered_at: "2026-07-10T22:00:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CI/CD
+- MCP Server
+- CircleCI
+- AI Integration
+- DevOps
+source: https://github.com/CircleCI-Public/mcp-server-circleci
+discovered_at: '2026-07-10T22:00:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

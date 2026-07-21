@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [Search Firestore with Algolia | Firebase Extensions Hub](../ai/rag/search-firestore-with-algolia-firebase-extensions.md) ([Source URL](https://extensions.dev/extensions/algolia/firestore-algolia-search))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T03:58:42.651834+05:30
-- **Local Path**: `ai/rag/search-firestore-with-algolia-firebase-extensions.md`
-
-### 2. [Run Payments with Stripe | Firebase Extensions Hub](../ai/rag/run-payments-with-stripe-firebase-extensions-hub.md) ([Source URL](https://extensions.dev/extensions/stripe/firestore-stripe-payments))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T03:58:37.624651+05:30
-- **Local Path**: `ai/rag/run-payments-with-stripe-firebase-extensions-hub.md`
-
-### 3. [Sign in - Google Accounts](../ai/resources/sign-in-google-accounts.md) ([Source URL](https://security.google.com/settings/security/permissions))
+### 1. [electron/fiddle](../ai/resources/electron-fiddle.md) ([Source URL](https://github.com/electron/fiddle))
 - **Category**: ai/resources
-- **Collected At**: 2026-07-21T03:57:55.632453+05:30
-- **Local Path**: `ai/resources/sign-in-google-accounts.md`
+- **Collected At**: 2026-07-21T09:26:17.067599+05:30
+- **Local Path**: `ai/resources/electron-fiddle.md`
 
-### 4. [android Git repositories - Git at Google](../ai/rag/android-git-repositories-git-at-google.md) ([Source URL](https://android.googlesource.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T03:57:52.533502+05:30
-- **Local Path**: `ai/rag/android-git-repositories-git-at-google.md`
-
-### 5. [Android Open Source Project](../ai/resources/android-open-source-project.md) ([Source URL](https://source.android.com))
+### 2. [LinkedIn](../ai/resources/linkedin.md) ([Source URL](https://lnkd.in/eqzzk4nw?trk=organization_guest_main-feed-card-text))
 - **Category**: ai/resources
-- **Collected At**: 2026-07-21T03:57:44.947385+05:30
+- **Collected At**: 2026-07-21T09:26:13.209356+05:30
+- **Local Path**: `ai/resources/linkedin.md`
+
+### 3. [Privacy Help Center - Policies Help](../ai/rag/privacy-help-center-policies-help.md) ([Source URL](https://support.google.com/policies/answer/9581826?hl=en_US))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-21T09:26:12.971108+05:30
+- **Local Path**: `ai/rag/privacy-help-center-policies-help.md`
+
+### 4. [Getting Started | Electron Forge](../ai/rag/getting-started-electron-forge.md) ([Source URL](https://electronforge.io))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-21T09:26:12.777524+05:30
+- **Local Path**: `ai/rag/getting-started-electron-forge.md`
+
+### 5. [electron/electron](../ai/rag/electron-electron.md) ([Source URL](https://github.com/electron/electron))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-21T09:26:11.995972+05:30
+- **Local Path**: `ai/rag/electron-electron.md`
+
+### 6. [AWS Site Terms](../ai/rag/aws-site-terms.md) ([Source URL](https://aws.amazon.com/terms?nc1=f_pr))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-21T09:26:10.759820+05:30
+- **Local Path**: `ai/rag/aws-site-terms.md`
+
+### 7. [Gemini Apps Privacy Hub - Gemini Apps Help](../ai/rag/gemini-apps-privacy-hub-gemini-apps-help.md) ([Source URL](https://support.google.com/gemini/answer/13594961?hl=en_US))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-21T09:26:07.959066+05:30
+- **Local Path**: `ai/rag/gemini-apps-privacy-hub-gemini-apps-help.md`
+
+### 8. [About Google: Our products, technology and company information - About Google](../ai/rag/about-google-our-products-technology-and-company-i.md) ([Source URL](https://about.google))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-21T09:26:07.440567+05:30
+- **Local Path**: `ai/rag/about-google-our-products-technology-and-company-i.md`
+
+### 9. [Control Your Online Safety and Privacy - Google Safety Center](../ai/resources/control-your-online-safety-and-privacy-google-safe.md) ([Source URL](https://safety.google?hl=en_US))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-21T09:26:07.295735+05:30
+- **Local Path**: `ai/resources/control-your-online-safety-and-privacy-google-safe.md`
+
+### 10. [Android Developers - YouTube](../ai/resources/android-developers-youtube.md) ([Source URL](https://youtube.com/user/androiddevelopers))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-21T09:26:05.093269+05:30
+- **Local Path**: `ai/resources/android-developers-youtube.md`
+
+### 11. [googleapis/googleapis](../ai/resources/googleapis-googleapis.md) ([Source URL](https://github.com/googleapis/googleapis))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-21T09:25:47.164679+05:30
+- **Local Path**: `ai/resources/googleapis-googleapis.md`
+
+### 12. [Protocol Buffers Documentation](../ai/resources/protocol-buffers-documentation.md) ([Source URL](https://developers.google.com/protocol-buffers))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-21T09:25:45.092127+05:30
+- **Local Path**: `ai/resources/protocol-buffers-documentation.md`
+
+### 13. [gRPC](../ai/rag/grpc.md) ([Source URL](http://grpc.io))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-21T09:25:42.633037+05:30
+- **Local Path**: `ai/rag/grpc.md`
+
+### 14. [Firebase · GitHub](../ai/resources/firebase-github.md) ([Source URL](https://github.com/firebase))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-21T09:25:42.550321+05:30
+- **Local Path**: `ai/resources/firebase-github.md`
+
+### 15. [Analyze issues from Firebase Crashlytics and Android Vitals with App Quality Insights | Android Studio | Android Develop](../ai/resources/analyze-issues-from-firebase-crashlytics-and-andro.md) ([Source URL](https://developer.android.com/studio/debug/app-quality-insights))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-21T09:25:41.041481+05:30
+- **Local Path**: `ai/resources/analyze-issues-from-firebase-crashlytics-and-andro.md`
+
+### 16. [Android Open Source Project](../ai/resources/android-open-source-project.md) ([Source URL](https://source.android.com))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-21T09:25:41.033329+05:30
 - **Local Path**: `ai/resources/android-open-source-project.md`
 
-### 6. [Develop for Android | Android Developers](../ai/resources/develop-for-android-android-developers.md) ([Source URL](https://developer.android.com/docs))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T03:57:42.341334+05:30
-- **Local Path**: `ai/resources/develop-for-android-android-developers.md`
-
-### 7. [Firebase | Google's Mobile and Web App Development Platform](../ai/rag/firebase-google-s-mobile-and-web-app-development-p.md) ([Source URL](http://firebase.google.com))
+### 17. [The Firebase Blog](../ai/rag/the-firebase-blog.md) ([Source URL](https://firebase.blog))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-21T03:57:02.563236+05:30
-- **Local Path**: `ai/rag/firebase-google-s-mobile-and-web-app-development-p.md`
+- **Collected At**: 2026-07-21T09:25:40.429067+05:30
+- **Local Path**: `ai/rag/the-firebase-blog.md`
 
-### 8. [Gemini Developer API | Gemma open models | Google AI for Developers](../ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md) ([Source URL](http://ai.google.dev))
+### 18. [Built-in AI | AI on Chrome | Chrome for Developers](../ai/rag/built-in-ai-ai-on-chrome-chrome-for-developers.md) ([Source URL](https://developer.chrome.com/docs/ai/built-in))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-21T03:57:02.476326+05:30
-- **Local Path**: `ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md`
+- **Collected At**: 2026-07-21T09:25:38.738636+05:30
+- **Local Path**: `ai/rag/built-in-ai-ai-on-chrome-chrome-for-developers.md`
 
-### 9. [Factory Images for Nexus and Pixel Devices | Google Play services | Google for Developers](../ai/resources/factory-images-for-nexus-and-pixel-devices-google.md) ([Source URL](http://developers.google.com/android/images))
+### 19. [Google Colab](../ai/resources/google-colab.md) ([Source URL](https://colab.sandbox.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb))
 - **Category**: ai/resources
-- **Collected At**: 2026-07-21T03:55:30.400134+05:30
-- **Local Path**: `ai/resources/factory-images-for-nexus-and-pixel-devices-google.md`
+- **Collected At**: 2026-07-21T09:25:38.634386+05:30
+- **Local Path**: `ai/resources/google-colab.md`
 
-### 10. [Harvard Business Publishing](../ai/resources/harvard-business-publishing.md) ([Source URL](https://hbphelp.zendesk.com/hc/en-us))
+### 20. [Sign in to GitHub · GitHub](../ai/resources/gohugoio-hugodocs.md) ([Source URL](https://github.com/gohugoio/hugodocs))
 - **Category**: ai/resources
-- **Collected At**: 2026-07-21T03:55:14.582489+05:30
-- **Local Path**: `ai/resources/harvard-business-publishing.md`
-
-### 11. [accounts?p=signin_privatebrowsing&hl=en-US](../ai/resources/accounts-p-signin-privatebrowsing-hl-en-us.md) ([Source URL](https://support.google.com/accounts?p=signin_privatebrowsing&hl=en-US))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T03:54:28.385389+05:30
-- **Local Path**: `ai/resources/accounts-p-signin-privatebrowsing-hl-en-us.md`
-
-### 12. [Configure imaging](../ai/rag/configure-imaging.md) ([Source URL](https://gohugo.io/configuration/imaging))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T03:54:17.266525+05:30
-- **Local Path**: `ai/rag/configure-imaging.md`
-
-### 13. [encoding.HexEncode](../ai/resources/encoding-hexencode.md) ([Source URL](https://gohugo.io/functions/encoding/hexencode))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T03:54:17.094247+05:30
-- **Local Path**: `ai/resources/encoding-hexencode.md`
-
-### 14. [Ad Settings](../ai/resources/ad-settings.md) ([Source URL](https://myadcenter.google.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T03:54:08.469719+05:30
-- **Local Path**: `ai/resources/ad-settings.md`
-
-### 15. [Publications – Google Research](../ai/rag/publications-google-research.md) ([Source URL](https://research.google/pubs?category=responsible-ai))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T03:54:07.882797+05:30
-- **Local Path**: `ai/rag/publications-google-research.md`
-
-### 16. [Security Verification](../ai/resources/security-verification.md) ([Source URL](https://discussions.apple.com/community/applications-services/safari))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T03:54:04.894587+05:30
-- **Local Path**: `ai/resources/security-verification.md`
-
-### 17. [âApple Support App - App Store](../ai/rag/aapple-support-app-app-store.md) ([Source URL](https://apps.apple.com/us/app/apple-support/id1130498044?pt=2003&ct=support.safari&mt=8&l=en))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T03:54:04.882402+05:30
-- **Local Path**: `ai/rag/aapple-support-app-app-store.md`
-
-### 18. [Protect Privacy Online with Google - Google Safety Center](../ai/rag/protect-privacy-online-with-google-google-safety-c.md) ([Source URL](https://safety.google/security-privacy))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T03:54:04.700694+05:30
-- **Local Path**: `ai/rag/protect-privacy-online-with-google-google-safety-c.md`
-
-### 19. [Legal - Software License Agreements - Apple](../ai/resources/legal-software-license-agreements-apple.md) ([Source URL](https://apple.com/legal/sla))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T03:54:04.616970+05:30
-- **Local Path**: `ai/resources/legal-software-license-agreements-apple.md`
-
-### 20. [Learn More About Google's Secure and Protected Accounts - Google](../ai/resources/learn-more-about-google-s-secure-and-protected-acc.md) ([Source URL](https://myaccount.google.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T03:54:04.457258+05:30
-- **Local Path**: `ai/resources/learn-more-about-google-s-secure-and-protected-acc.md`
-
-### 21. [Cookies Policies | Linux Foundation](../ai/rag/cookies-policies-linux-foundation.md) ([Source URL](https://linuxfoundation.org/cookies))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T03:53:41.398948+05:30
-- **Local Path**: `ai/rag/cookies-policies-linux-foundation.md`
-
-### 22. [npm/documentation](../ai/resources/npm-documentation.md) ([Source URL](https://github.com/npm/documentation))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T03:53:31.970135+05:30
-- **Local Path**: `ai/resources/npm-documentation.md`
-
-### 23. [npm Status](../ai/rag/npm-status.md) ([Source URL](https://status.npmjs.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T03:53:30.971477+05:30
-- **Local Path**: `ai/rag/npm-status.md`
-
-### 24. [Releases · langfuse/langfuse · GitHub](../ai/rag/langfuse-langfuse.md) ([Source URL](https://github.com/langfuse/langfuse))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T03:53:27.908975+05:30
-- **Local Path**: `ai/rag/langfuse-langfuse.md`
-
-### 25. [Fourthwall | The best way for creators to open shops, offer memberships, and engage supporters](../ai/rag/fourthwall-the-best-way-for-creators-to-open-shops.md) ([Source URL](https://fourthwall.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T03:53:26.637137+05:30
-- **Local Path**: `ai/rag/fourthwall-the-best-way-for-creators-to-open-shops.md`
-
-### 26. [Get an app for Mastodon - Mastodon](../ai/resources/get-an-app-for-mastodon-mastodon.md) ([Source URL](https://joinmastodon.org/apps))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T03:53:24.945753+05:30
-- **Local Path**: `ai/resources/get-an-app-for-mastodon-mastodon.md`
-
-### 27. [github/gov-takedowns](../ai/resources/github-gov-takedowns.md) ([Source URL](https://github.com/github/gov-takedowns))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T03:53:21.942280+05:30
-- **Local Path**: `ai/resources/github-gov-takedowns.md`
-
-### 28. [Speechify · GitHub](../ai/agents/speechify-github.md) ([Source URL](https://github.com/speechifyinc))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-21T03:53:16.091299+05:30
-- **Local Path**: `ai/agents/speechify-github.md`
-
-### 29. [SpeechifyInc/ai-api-examples](../ai/resources/speechifyinc-ai-api-examples.md) ([Source URL](https://github.com/speechifyinc/ai-api-examples))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T03:53:15.741377+05:30
-- **Local Path**: `ai/resources/speechifyinc-ai-api-examples.md`
-
-### 30. [Speechify-AI/tts-shims](../ai/agents/speechify-ai-tts-shims.md) ([Source URL](https://github.com/speechify-ai/tts-shims))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-21T03:53:15.698614+05:30
-- **Local Path**: `ai/agents/speechify-ai-tts-shims.md`
-
-### 31. [Android Developers Blog](../ai/agents/android-developers-blog.md) ([Source URL](https://android-developers.googleblog.com))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-21T03:53:14.522205+05:30
-- **Local Path**: `ai/agents/android-developers-blog.md`
-
-### 32. [Chrome for Developers](../ai/agents/chrome-for-developers.md) ([Source URL](https://developer.chrome.com/home))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-21T03:53:14.336525+05:30
-- **Local Path**: `ai/agents/chrome-for-developers.md`
-
-### 33. [Terms & Conditions | Speechify](../ai/rag/terms-conditions-speechify.md) ([Source URL](https://speechify.com/terms))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T03:53:13.635155+05:30
-- **Local Path**: `ai/rag/terms-conditions-speechify.md`
-
-### 34. [Text to Speech Leaderboard - Top AI Speech Models](../ai/agents/text-to-speech-leaderboard-top-ai-speech-models.md) ([Source URL](https://artificialanalysis.ai/text-to-speech/leaderboard/selected-voice?top-models=true))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-21T03:53:13.472511+05:30
-- **Local Path**: `ai/agents/text-to-speech-leaderboard-top-ai-speech-models.md`
-
-### 35. [deepset-ai/haystack-cookbook](../ai/rag/deepset-ai-haystack-cookbook.md) ([Source URL](https://github.com/deepset-ai/haystack-cookbook))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T03:53:10.718024+05:30
-- **Local Path**: `ai/rag/deepset-ai-haystack-cookbook.md`
-
-### 36. [Creating a Happier Workplace Is Possible — and Worth It](../ai/resources/creating-a-happier-workplace-is-possible-and-worth.md) ([Source URL](https://hbr.org/2023/10/creating-a-happier-workplace-is-possible-and-worth-it))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T03:53:10.191825+05:30
-- **Local Path**: `ai/resources/creating-a-happier-workplace-is-possible-and-worth.md`
-
-### 37. [JAMS: Mediation, Arbitration and ADR Services](../ai/resources/jams-mediation-arbitration-and-adr-services.md) ([Source URL](https://jamsadr.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T03:53:10.013495+05:30
-- **Local Path**: `ai/resources/jams-mediation-arbitration-and-adr-services.md`
-
-### 38. [Culture Is A Company’s Single Most Powerful Advantage. Here’s Why](../ai/rag/culture-is-a-companys-single-most-powerful-advanta.md) ([Source URL](https://forbes.com/sites/benjaminlaker/2021/04/23/culture-is-a-companys-single-most-powerful-advantage-heres-why))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T03:53:09.973269+05:30
-- **Local Path**: `ai/rag/culture-is-a-companys-single-most-powerful-advanta.md`
-
-### 39. [What's Haystack Enterprise Platform? | Haystack Enterprise Platform Documentation](../ai/rag/what-s-haystack-enterprise-platform-haystack-enter.md) ([Source URL](https://docs.cloud.deepset.ai/docs/getting-started?__hstc=17958374.34708e2a09562f4972500c174140941c.1781253286645.1781253286645.1781267739228.2&__hssc=17958374.1.1781267739228&__hsfp=3cf80f0816efe74df689359050c87c57))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T03:53:08.727096+05:30
-- **Local Path**: `ai/rag/what-s-haystack-enterprise-platform-haystack-enter.md`
-
-### 40. [deepset-ai/haystack-experimental](../ai/resources/deepset-ai-haystack-experimental.md) ([Source URL](https://github.com/deepset-ai/haystack-experimental))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T03:53:05.742411+05:30
-- **Local Path**: `ai/resources/deepset-ai-haystack-experimental.md`
-
-### 41. [deepset, makers of Haystack - YouTube](../ai/resources/deepset-makers-of-haystack-youtube.md) ([Source URL](https://youtube.com/channel/uc5dfn9m310oyt-cbeegfvzw))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T03:52:43.345573+05:30
-- **Local Path**: `ai/resources/deepset-makers-of-haystack-youtube.md`
-
-### 42. [cli/cli](../ai/rag/cli-cli.md) ([Source URL](https://github.com/cli/cli))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T03:52:33.514453+05:30
-- **Local Path**: `ai/rag/cli-cli.md`
-
-### 43. [LangChain: Observe, Evaluate, and Deploy Reliable AI Agents](../ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md) ([Source URL](https://langchain.com))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-21T03:52:29.835779+05:30
-- **Local Path**: `ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md`
-
-### 44. [The Agent Conference by LangChain | Interrupt 2026](../ai/agents/the-agent-conference-by-langchain-interrupt-2026.md) ([Source URL](https://interrupt.langchain.com))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-21T03:52:29.754669+05:30
-- **Local Path**: `ai/agents/the-agent-conference-by-langchain-interrupt-2026.md`
-
-### 45. [The AI database developers love | Weaviate](../ai/rag/the-ai-database-developers-love-weaviate.md) ([Source URL](https://weaviate.io))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T03:52:28.297301+05:30
-- **Local Path**: `ai/rag/the-ai-database-developers-love-weaviate.md`
-
-### 46. [Sign in to GitHub · GitHub](../ai/resources/gohugoio-hugodocs.md) ([Source URL](https://github.com/gohugoio/hugodocs))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T03:52:23.531926+05:30
+- **Collected At**: 2026-07-21T09:25:37.202637+05:30
 - **Local Path**: `ai/resources/gohugoio-hugodocs.md`
 
-### 47. [Google Account Help](../ai/rag/google-account-help.md) ([Source URL](https://support.google.com/accounts))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T03:52:14.094871+05:30
-- **Local Path**: `ai/rag/google-account-help.md`
-
-### 48. [Control your ad experience - My Ad Center Help](../ai/rag/control-your-ad-experience-my-ad-center-help.md) ([Source URL](https://support.google.com/accounts/answer/1634057))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T03:52:14.013937+05:30
-- **Local Path**: `ai/rag/control-your-ad-experience-my-ad-center-help.md`
-
-### 49. [AI Principles â Google AI](../ai/rag/ai-principles-a-google-ai.md) ([Source URL](https://ai.google/responsibility/responsible-ai-practices))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T03:52:10.751938+05:30
-- **Local Path**: `ai/rag/ai-principles-a-google-ai.md`
-
-### 50. [Client Challenge](../ai/resources/client-challenge-2.md) ([Source URL](https://support.mozilla.org))
+### 21. [Introduction | Electron](../ai/resources/introduction-electron.md) ([Source URL](https://electronjs.org/docs/latest))
 - **Category**: ai/resources
-- **Collected At**: 2026-07-21T03:52:09.308189+05:30
-- **Local Path**: `ai/resources/client-challenge-2.md`
+- **Collected At**: 2026-07-21T09:25:34.632318+05:30
+- **Local Path**: `ai/resources/introduction-electron.md`
+
+### 22. [CodeQL documentation](../ai/rag/codeql-documentation.md) ([Source URL](https://codeql.github.com/docs))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-21T09:25:34.537087+05:30
+- **Local Path**: `ai/rag/codeql-documentation.md`
+
+### 23. [npm Docs](../ai/resources/npm-docs.md) ([Source URL](https://docs.npmjs.com))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-21T09:25:34.437379+05:30
+- **Local Path**: `ai/resources/npm-docs.md`
+
+### 24. [gohugoio/hugo-goldmark-extensions](../ai/resources/gohugoio-hugo-goldmark-extensions.md) ([Source URL](https://github.com/gohugoio/hugo-goldmark-extensions))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-21T09:25:32.236532+05:30
+- **Local Path**: `ai/resources/gohugoio-hugo-goldmark-extensions.md`
+
+### 25. [Terms & Conditions | Speechify](../ai/rag/terms-conditions-speechify.md) ([Source URL](https://speechify.com/terms))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-21T09:25:30.778600+05:30
+- **Local Path**: `ai/rag/terms-conditions-speechify.md`
+
+### 26. [Text to Speech Leaderboard - Top AI Speech Models](../ai/agents/text-to-speech-leaderboard-top-ai-speech-models.md) ([Source URL](https://artificialanalysis.ai/text-to-speech/leaderboard/selected-voice?top-models=true))
+- **Category**: ai/agents
+- **Collected At**: 2026-07-21T09:25:30.403619+05:30
+- **Local Path**: `ai/agents/text-to-speech-leaderboard-top-ai-speech-models.md`
+
+### 27. [Better Stack · GitHub](../ai/rag/better-stack-github.md) ([Source URL](https://github.com/betterstackhq))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-21T09:25:27.435889+05:30
+- **Local Path**: `ai/rag/better-stack-github.md`
+
+### 28. [OpenAI | Research & Deployment](../ai/rag/openai-research-deployment.md) ([Source URL](https://openai.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-21T09:25:05.753421+05:30
+- **Local Path**: `ai/rag/openai-research-deployment.md`
+
+### 29. [A Docker Tutorial for Beginners](../ai/rag/a-docker-tutorial-for-beginners.md) ([Source URL](https://docker-curriculum.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-21T09:24:33.226502+05:30
+- **Local Path**: `ai/rag/a-docker-tutorial-for-beginners.md`
+
+### 30. [stanfordnlp/dsp](../ai/resources/stanfordnlp-dsp.md) ([Source URL](https://github.com/stanfordnlp/dsp))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-21T09:24:31.998977+05:30
+- **Local Path**: `ai/resources/stanfordnlp-dsp.md`
+
+### 31. [supabase-community/nextjs-subscription-payments](../ai/resources/supabase-community-nextjs-subscription-payments.md) ([Source URL](https://github.com/supabase-community/nextjs-subscription-payments))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-21T09:24:31.928219+05:30
+- **Local Path**: `ai/resources/supabase-community-nextjs-subscription-payments.md`
+
+### 32. [supabase-community/vercel-ai-chatbot](../ai/rag/supabase-community-vercel-ai-chatbot.md) ([Source URL](https://github.com/supabase-community/vercel-ai-chatbot))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-21T09:24:31.924310+05:30
+- **Local Path**: `ai/rag/supabase-community-vercel-ai-chatbot.md`
+
+### 33. [[2212.14024] Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP](../ai/rag/2212-14024-demonstrate-search-predict-composing-re.md) ([Source URL](https://doi.org/10.48550/arxiv.2212.14024))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-21T09:24:29.333210+05:30
+- **Local Path**: `ai/rag/2212-14024-demonstrate-search-predict-composing-re.md`
+
+### 34. [supabase/supabase](../ai/rag/supabase-supabase.md) ([Source URL](https://github.com/supabase/supabase))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-21T09:24:26.850767+05:30
+- **Local Path**: `ai/rag/supabase-supabase.md`
+
+### 35. [Welcome to Unstructured! - Unstructured](../ai/agents/welcome-to-unstructured-unstructured.md) ([Source URL](https://docs.unstructured.io/welcome))
+- **Category**: ai/agents
+- **Collected At**: 2026-07-21T09:24:24.978442+05:30
+- **Local Path**: `ai/agents/welcome-to-unstructured-unstructured.md`
+
+### 36. [Docker | Weaviate Documentation](../ai/rag/docker-weaviate-documentation.md) ([Source URL](https://weaviate.io/developers/weaviate/installation/docker-compose))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-21T09:24:23.044871+05:30
+- **Local Path**: `ai/rag/docker-weaviate-documentation.md`
+
+### 37. [Checkly — The active reliability layer for developers & agents](../ai/rag/checkly-the-active-reliability-layer-for-developer.md) ([Source URL](https://checklyhq.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-21T09:24:21.207178+05:30
+- **Local Path**: `ai/rag/checkly-the-active-reliability-layer-for-developer.md`
+
+### 38. [Multimodal Deepfake Detection and Watermarking with Secure Voice AI | Resemble AI](../ai/rag/multimodal-deepfake-detection-and-watermarking-wit.md) ([Source URL](https://resemble.ai))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-21T09:24:20.845108+05:30
+- **Local Path**: `ai/rag/multimodal-deepfake-detection-and-watermarking-wit.md`
+
+### 39. [Introducing TXYZ: The AI Platform Revolutionizing PDF Reading and Writing for Academic - The Globe and Mail](../ai/rag/introducing-txyz-the-ai-platform-revolutionizing-p.md) ([Source URL](https://theglobeandmail.com/investing/markets/markets-news/globe-pr-wire/29295226/introducing-txyz-the-ai-platform-revolutionizing-pdf-reading-and-writing-for-academic))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-21T09:24:20.398784+05:30
+- **Local Path**: `ai/rag/introducing-txyz-the-ai-platform-revolutionizing-p.md`
+
+### 40. [Framer: AI website builder for professional sites](../ai/agents/framer-ai-website-builder-for-professional-sites.md) ([Source URL](https://framer.com))
+- **Category**: ai/agents
+- **Collected At**: 2026-07-21T09:24:19.325839+05:30
+- **Local Path**: `ai/agents/framer-ai-website-builder-for-professional-sites.md`
+
+### 41. [TXYZ: How AI Tools Help Students in Academic Research](../ai/resources/txyz-how-ai-tools-help-students-in-academic-resear.md) ([Source URL](https://digitaljournal.com/pr/news/prodigy-press-wire/txyz-ai-tools-help-students-1159862609.html))
+- **Category**: ai/resources
+- **Collected At**: 2026-07-21T09:24:19.181760+05:30
+- **Local Path**: `ai/resources/txyz-how-ai-tools-help-students-in-academic-resear.md`
+
+### 42. [YouTube | Google for Developers](../ai/rag/youtube-google-for-developers.md) ([Source URL](https://developers.google.com/youtube))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-21T09:24:14.104657+05:30
+- **Local Path**: `ai/rag/youtube-google-for-developers.md`
+
+### 43. [The Exclusive Home of NFL Sunday Ticket - YouTube & YouTube TV](../ai/rag/the-exclusive-home-of-nfl-sunday-ticket-youtube-yo.md) ([Source URL](https://tv.youtube.com/learn/nflsundayticket))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-21T09:24:14.080732+05:30
+- **Local Path**: `ai/rag/the-exclusive-home-of-nfl-sunday-ticket-youtube-yo.md`
+
+### 44. [LangChain Blog](../ai/rag/langchain-blog.md) ([Source URL](https://blog.langchain.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-21T09:24:12.111287+05:30
+- **Local Path**: `ai/rag/langchain-blog.md`
+
+### 45. [docs/content/copilot/concepts/agents/copilot-cli/research.md at main · github/docs · GitHub](../ai/agents/github-docs-2.md) ([Source URL](https://github.com/github/docs))
+- **Category**: ai/agents
+- **Collected At**: 2026-07-21T09:24:09.432966+05:30
+- **Local Path**: `ai/agents/github-docs-2.md`
+
+### 46. [semantic-conventions-genai/docs/gen-ai at main · open-telemetry/semantic-conventions-genai · GitHub](../ai/rag/open-telemetry-semantic-conventions-genai.md) ([Source URL](https://github.com/open-telemetry/semantic-conventions-genai))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-21T09:24:09.359976+05:30
+- **Local Path**: `ai/rag/open-telemetry-semantic-conventions-genai.md`
+
+### 47. [OpenTelemetry](../ai/agents/opentelemetry.md) ([Source URL](https://opentelemetry.io))
+- **Category**: ai/agents
+- **Collected At**: 2026-07-21T09:24:08.729971+05:30
+- **Local Path**: `ai/agents/opentelemetry.md`
+
+### 48. [Monitor agent usage with OpenTelemetry](../ai/agents/monitor-agent-usage-with-opentelemetry.md) ([Source URL](https://code.visualstudio.com/docs/agents/guides/monitoring-agents))
+- **Category**: ai/agents
+- **Collected At**: 2026-07-21T09:24:08.598305+05:30
+- **Local Path**: `ai/agents/monitor-agent-usage-with-opentelemetry.md`
+
+### 49. [Agentic Infrastructure - Vercel](../ai/rag/agentic-infrastructure.md) ([Source URL](https://vercel.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-07-21T09:24:04.213641+05:30
+- **Local Path**: `ai/rag/agentic-infrastructure.md`
+
+### 50. [vercel-labs/skills](../ai/agents/vercel-labs-skills.md) ([Source URL](https://github.com/vercel-labs/skills))
+- **Category**: ai/agents
+- **Collected At**: 2026-07-21T09:24:04.113650+05:30
+- **Local Path**: `ai/agents/vercel-labs-skills.md`
 
 ---
-*Index generated on 2026-07-21T04:00:38.863690+05:30*
+*Index generated on 2026-07-21T09:30:50.414798+05:30*

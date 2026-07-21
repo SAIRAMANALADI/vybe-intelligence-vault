@@ -1,13 +1,33 @@
 ---
-title: "PugarHuda/amanah-casper"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Rust", "Casper Blockchain", "Ed25519 Cryptography", "Schnorr NIZK (Zero-Knowledge Proofs)", "Pedersen Commitments", "Blake2b Hashing", "IPFS", "WebAssembly (WASM)", "React", "Next.js", "Vercel", "MCP Servers", "CEP-18/CEP-3009 Tokens", "WebSockets/SSE"]
+title: PugarHuda/amanah-casper
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Rust
+- Casper Blockchain
+- Ed25519 Cryptography
+- Schnorr NIZK (Zero-Knowledge Proofs)
+- Pedersen Commitments
+- Blake2b Hashing
+- IPFS
+- WebAssembly (WASM)
+- React
+- Next.js
+- Vercel
+- MCP Servers
+- CEP-18/CEP-3009 Tokens
+- WebSockets/SSE
 quality_score: 9
 rag_relevance: 10
-tags: ["autonomous agents", "RWA treasury", "on-chain compliance", "zero-knowledge proofs", "auditor quorum"]
-source: "https://github.com/PugarHuda/amanah-casper"
-discovered_at: "2026-07-20T06:16:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agents
+- RWA treasury
+- on-chain compliance
+- zero-knowledge proofs
+- auditor quorum
+source: https://github.com/PugarHuda/amanah-casper
+discovered_at: '2026-07-20T06:16:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

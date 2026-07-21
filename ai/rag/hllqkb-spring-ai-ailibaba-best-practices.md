@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-07-21T03:45:27.526558+05:30'
+collected_at: '2026-07-21T09:15:52.630083+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-07-21T03:45:27.526558+05:30'
-last_seen: '2026-07-21T03:45:27.526558+05:30'
-last_checked: '2026-07-21T03:45:27.526558+05:30'
+first_seen: '2026-07-21T09:15:52.630083+05:30'
+last_seen: '2026-07-21T09:15:52.630083+05:30'
+last_checked: '2026-07-21T09:15:52.630083+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Java-based repository demonstrating AI question-answering systems with **SSE streaming**, **Agent-based workflows**, **knowledge graph RAG**, **Function Calling**, **message history**, **image generation/understanding**, **Embedding**, **Vector Database**, and **RAG** integration.
+- **Tech Stack**: Java-based implementation of AI Q&A system integrating SSE streaming, Agent-based workflows, RAG with knowledge graphs, Function Calling, historical message management, and multimodal capabilities (image generation/understanding).
 
-- **Architecture**: Integrates **Alibaba Cloud AI services** with **Spring AI**, leveraging **vector databases** for retrieval-augmented generation (RAG) and **function calls** for dynamic agent interactions.
+- **Core Components**: Embedding generation, vector database integration (RAG), and advanced retrieval pipelines with support for structured knowledge graph queries and dynamic agent interactions.
 
-- **Features**: Supports **real-time streaming responses**, **multi-modal processing** (text/images), **historical context retention**, and **embedding-based retrieval** for enhanced AI-driven workflows.
+- **Features**: Real-time data streaming via SSE, multimodal processing (text/images), and function call mechanisms for extended AI agent functionality.
 
 ## Why It Matters
 

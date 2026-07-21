@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mayooear/ai-pdf-chatbot-langchain
-collected_at: '2026-07-21T03:48:27.701091+05:30'
+collected_at: '2026-07-21T09:18:52.756105+05:30'
 published_at: '2026-07-20T16:15:31Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: true
 created_at: '2023-03-17T01:23:26Z'
 pushed_at: '2026-03-27T16:04:05Z'
 resource_id: github:mayooear/ai-pdf-chatbot-langchain
-first_seen: '2026-07-21T03:48:27.701091+05:30'
-last_seen: '2026-07-21T03:48:27.701091+05:30'
-last_checked: '2026-07-21T03:48:27.701091+05:30'
+first_seen: '2026-07-21T09:18:52.756105+05:30'
+last_seen: '2026-07-21T09:18:52.756105+05:30'
+last_checked: '2026-07-21T09:18:52.756105+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements a LangChain & LangGraph-based agent for conversational PDF interaction, leveraging TypeScript and Next.js for frontend/backend integration.
-- **Core Features**: Supports OpenAI models for natural language processing, enabling dynamic Q&A over PDF content with structured agent workflows.
-- **Data Pipeline**: Processes PDFs via LangChain’s document loaders, embeddings (e.g., OpenAI `text-embedding-3-small`), and vector stores (e.g., Chroma) for retrieval-augmented generation.
+- **Tech Stack**: TypeScript-based AI PDF chatbot leveraging LangChain for LLM orchestration, LangGraph for agent workflows, and Next.js for frontend; integrates OpenAI models for NLP tasks.
+
+- **Core Functionality**: Enables conversational querying over PDF documents via a RAG (Retrieval-Augmented Generation) pipeline, extracting and processing text chunks for contextual responses.
+
+- **Architecture**: Modular agent-based design with LangGraph for state management, supporting dynamic tool invocation (e.g., document parsing, vector search) and multi-step reasoning.
 
 ## Why It Matters
 
@@ -45,7 +47,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: mayooear
 - Stars: 16582
-- Forks: 3227
+- Forks: 3228
 - Language: TypeScript
 - Topics: agents, ai, chatbot, langchain, langgraph, nextjs, openai, pdf, typescript
 - Last Updated: 2026-07-20T16:15:31Z

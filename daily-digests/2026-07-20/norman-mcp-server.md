@@ -1,13 +1,25 @@
 ---
-title: "norman-finance/norman-mcp-server"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "OAuth 2.1", "Model Context Protocol (MCP)", "Streamable HTTP", "SQL (implicit)", "React (frontend, inferred from Norman platform)"]
+title: norman-finance/norman-mcp-server
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- FastAPI
+- OAuth 2.1
+- Model Context Protocol (MCP)
+- Streamable HTTP
+- SQL (implicit)
+- React (frontend, inferred from Norman platform)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "financial automation", "AI accounting", "tax filing", "German business tools"]
-source: "https://github.com/norman-finance/norman-mcp-server"
-discovered_at: "2026-07-20T19:53:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- financial automation
+- AI accounting
+- tax filing
+- German business tools
+source: https://github.com/norman-finance/norman-mcp-server
+discovered_at: '2026-07-20T19:53:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

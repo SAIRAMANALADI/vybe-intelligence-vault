@@ -3,7 +3,7 @@ title: supabase/examples/ai at master · supabase/supabase · GitHub
 archive_category: automation-workflows
 source_category: ai/rag
 source_url: https://github.com/supabase/supabase/tree/master/examples/ai
-resource_id: github:supabase/supabase
+resource_id: github:supabase/supabase-12a3480f
 local_vault_path: ai/rag/supabase-supabase.md
 quality_score: 70
 archive_score: 77

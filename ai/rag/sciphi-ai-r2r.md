@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SciPhi-AI/R2R
-collected_at: '2026-07-21T03:46:07.573952+05:30'
-published_at: '2026-07-20T17:28:46Z'
+collected_at: '2026-07-21T09:16:32.708442+05:30'
+published_at: '2026-07-20T23:38:02Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
-- workflows
-stars: 7932
+stars: 7933
 language: Python
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-02-12T03:24:27Z'
 pushed_at: '2025-11-07T01:02:44Z'
 resource_id: github:sciphi-ai/r2r
-first_seen: '2026-07-21T03:46:07.573952+05:30'
-last_seen: '2026-07-21T03:46:07.573952+05:30'
-last_checked: '2026-07-21T03:46:07.573952+05:30'
+first_seen: '2026-07-21T09:16:32.708442+05:30'
+last_seen: '2026-07-21T09:16:32.708442+05:30'
+last_checked: '2026-07-21T09:16:32.708442+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG System**: Implements an agentic Retrieval-Augmented Generation (RAG) framework with RESTful API endpoints for production-grade AI retrieval tasks.
-- **Python-Based Architecture**: Built in Python with modular components for document ingestion, vector search, and LLM integration.
-- **Scalable Retrieval Pipeline**: Supports large-scale question-answering and retrieval workflows with optimized indexing and hybrid search capabilities.
+- **Production-ready RAG system**: Implements Agentic Retrieval-Augmented Generation (RAG) with a RESTful API for scalable AI retrieval tasks.
+- **Technical stack**: Python-based, optimized for large language models (LLMs), question-answering, and retrieval systems.
+- **Repository metrics**: 7,933 stars, 641 forks, last updated July 20, 2026.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: SciPhi-AI
-- Stars: 7932
+- Stars: 7933
 - Forks: 641
 - Language: Python
 - Topics: artificial-intelligence, large-language-models, python, question-answering, rag, retrieval-augmented-generation, retrieval-systems, search
-- Last Updated: 2026-07-20T17:28:46Z
+- Last Updated: 2026-07-20T23:38:02Z
 - License: MIT
 - Archived: No
 - Created At: 2024-02-12T03:24:27Z

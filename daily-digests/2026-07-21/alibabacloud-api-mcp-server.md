@@ -1,13 +1,25 @@
 ---
-title: "aliyun/alibabacloud-api-mcp-server"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "OAuth 2.0", "Server-Sent Events (SSE)", "Streamable HTTP", "Terraform", "HCL"]
+title: aliyun/alibabacloud-api-mcp-server
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- OAuth 2.0
+- Server-Sent Events (SSE)
+- Streamable HTTP
+- Terraform
+- HCL
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP", "Alibaba Cloud", "OpenAPI", "AI Integration", "Infrastructure Automation"]
-source: "https://github.com/aliyun/alibabacloud-api-mcp-server"
-discovered_at: "2026-07-16T02:25:54Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- Alibaba Cloud
+- OpenAPI
+- AI Integration
+- Infrastructure Automation
+source: https://github.com/aliyun/alibabacloud-api-mcp-server
+discovered_at: '2026-07-16T02:25:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

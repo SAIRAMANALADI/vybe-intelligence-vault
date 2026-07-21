@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
-published_at: '2026-07-10T13:18:53.410870+05:30'
-collected_at: '2026-07-10T13:18:53.410887+05:30'
+published_at: '2026-07-21T09:15:03.876725+05:30'
+collected_at: '2026-07-21T09:15:03.876735+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-07-10T13:18:53.410887+05:30'
-last_seen: '2026-07-10T13:18:53.410887+05:30'
-last_checked: '2026-07-10T13:18:53.410887+05:30'
+first_seen: '2026-07-21T09:15:03.876735+05:30'
+last_seen: '2026-07-21T09:15:03.876735+05:30'
+last_checked: '2026-07-21T09:15:03.876735+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Core components include document chunking, embedding generation (e.g., via LangChain), vector storage (e.g., Supabase), and retrieval-augmented generation with LLM integration for contextual response synthesis.
+- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings) and generation (LLMs) for context-aware responses; key components include chunking strategies, embedding models (e.g., `text-embedding-3-large`), and vector databases (e.g., Supabase).
 
-- **Production Optimization**: Key strategies involve hybrid search (dense + sparse retrieval), query expansion/rewriting, embedding optimization, caching, and load balancing across multiple models for latency and cost efficiency.
+- **Production Optimizations**: Implements hybrid search (dense + sparse retrieval), query rewriting, caching (e.g., Redis), and load balancing across multiple LLM endpoints; benchmarks latency reduction via Supabase vector search and Cloudflare Workers deployment.
 
-- **Monitoring & Scaling**: Implementation requires observability (e.g., Sentry integration), performance benchmarking, multi-modal RAG support (images/PDFs), and deployment via edge platforms (Cloudflare Workers) for scalability.
+- **Monitoring & Cost Control**: Integrates Sentry for observability, tracks token usage metrics, and enforces security via privacy-preserving techniques (e.g., differential privacy) to mitigate hallucinations and optimize cloud costs.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-10T13:18:53.410870+05:30
+- Published: 2026-07-21T09:15:03.876725+05:30
 
 ## Related Tags
 

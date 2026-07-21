@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://speechify.com/terms
-published_at: '2026-07-21T03:53:13.635143+05:30'
-collected_at: '2026-07-21T03:53:13.635155+05:30'
+published_at: '2026-07-21T09:25:30.778591+05:30'
+collected_at: '2026-07-21T09:25:30.778600+05:30'
 tags:
 - agents
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:terms-conditions-speechify
-first_seen: '2026-07-21T03:53:13.635155+05:30'
-last_seen: '2026-07-21T03:53:13.635155+05:30'
-last_checked: '2026-07-21T03:53:13.635155+05:30'
+first_seen: '2026-07-21T09:25:30.778600+05:30'
+last_seen: '2026-07-21T09:25:30.778600+05:30'
+last_checked: '2026-07-21T09:25:30.778600+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Mandatory Arbitration & Class Action Waiver**: All disputes with Speechify must undergo binding arbitration (per FAA) with a class action waiver, precluding litigation or participation in class-wide claims, regardless of dispute type or prior notice.
+- **Mandatory Arbitration & Class Action Waiver**: All disputes with Speechify must undergo binding arbitration (per FAA §§ 1-16), with class action waivers enforced under *AT&T Mobility LLC v. Concepcion* (2011); pre-dispute provisions apply retroactively to unresolved claims.
 
-- **Subscription Renewal & Billing**: Paid subscriptions auto-renew monthly/annually unless canceled via account settings (consumer) or 30-day written notice (enterprise), with charges processed by Speechify or third-party payment partners (e.g., Apple/Google), and no pro-rated refunds for unused terms.
+- **Subscription Auto-Renewal & Billing**: Paid subscriptions auto-renew monthly/annually unless canceled ≥30 days prior via account settings (consumer) or written notice (enterprise); third-party payment processors (Apple/Google) enforce non-refundable terms under their respective policies.
 
-- **User Eligibility & Compliance**: Users must be ≥18 (or legal age in jurisdiction) or minors with parental consent; account security (passwords, User Information) is user-responsible, with Speechify reserving rights to modify services, terms, or trial features unilaterally.
+- **User Eligibility & Liability**: Users must be ≥18 (or minors with guardian consent); account security is user’s sole responsibility; breaches may trigger indemnification clauses per §1.1.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T03:53:13.635143+05:30
+- Published: 2026-07-21T09:25:30.778591+05:30
 
 ## Related Tags
 

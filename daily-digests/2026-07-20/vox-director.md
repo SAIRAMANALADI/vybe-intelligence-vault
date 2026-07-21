@@ -1,13 +1,24 @@
 ---
-title: "craftsmaneuropeansanicle437/vox-director"
-category: "Tooling"
-tech_stack: ["Python", "FFmpeg", "Text-to-Speech (TTS)", "Language Models (LLM)", "Cloud Integration", "Windows Desktop Application"]
+title: craftsmaneuropeansanicle437/vox-director
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- FFmpeg
+- Text-to-Speech (TTS)
+- Language Models (LLM)
+- Cloud Integration
+- Windows Desktop Application
 quality_score: 6
 rag_relevance: 5
-tags: ["video-generation", "AI-automation", "explainer-video", "paper-collage", "text-to-video"]
-source: "https://github.com/craftsmaneuropeansanicle437/vox-director"
-discovered_at: "2026-07-13T06:15:55Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- video-generation
+- AI-automation
+- explainer-video
+- paper-collage
+- text-to-video
+source: https://github.com/craftsmaneuropeansanicle437/vox-director
+discovered_at: '2026-07-13T06:15:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

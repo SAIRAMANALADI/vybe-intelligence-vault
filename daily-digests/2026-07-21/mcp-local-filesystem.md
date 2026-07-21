@@ -1,13 +1,22 @@
 ---
-title: "Lanier-Developments/mcp-local-filesystem"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP) SDK", "Jest (for testing)"]
+title: Lanier-Developments/mcp-local-filesystem
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP) SDK
+- Jest (for testing)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "filesystem access", "Claude Desktop", "stdio transport", "security-first"]
-source: "https://github.com/Lanier-Developments/mcp-local-filesystem"
-discovered_at: "2026-07-14T18:01:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- filesystem access
+- Claude Desktop
+- stdio transport
+- security-first
+source: https://github.com/Lanier-Developments/mcp-local-filesystem
+discovered_at: '2026-07-14T18:01:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,29 @@
 ---
-title: "thorsten/phpMyFAQ"
-category: "UI Component"
-tech_stack: ["PHP 8.4+", "MySQL/MariaDB/PostgreSQL/SQLite/MSSQL", "Elasticsearch/OpenSearch", "Twig (templating)", "REST API", "Docker", "Redis", "TypeScript", "PHPUnit", "Vitest", "Playwright"]
+title: thorsten/phpMyFAQ
+category: daily-digests/2026-07-21
+tech_stack:
+- PHP 8.4+
+- MySQL/MariaDB/PostgreSQL/SQLite/MSSQL
+- Elasticsearch/OpenSearch
+- Twig (templating)
+- REST API
+- Docker
+- Redis
+- TypeScript
+- PHPUnit
+- Vitest
+- Playwright
 quality_score: 9
 rag_relevance: 7
-tags: ["FAQ platform", "knowledge base", "search engine", "multi-language", "REST API"]
-source: "https://github.com/thorsten/phpMyFAQ"
-discovered_at: "2026-07-20T12:22:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- FAQ platform
+- knowledge base
+- search engine
+- multi-language
+- REST API
+source: https://github.com/thorsten/phpMyFAQ
+discovered_at: '2026-07-20T12:22:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

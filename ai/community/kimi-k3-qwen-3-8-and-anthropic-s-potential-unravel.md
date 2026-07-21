@@ -13,13 +13,14 @@ collected_at: '2026-07-21T03:43:49.144103+05:30'
 tags:
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:kimi-k3-qwen-3-8-and-anthropic-s-potential-unravel
 first_seen: '2026-07-20T22:15:07.617465+05:30'
 last_seen: '2026-07-21T03:43:49.144103+05:30'
 last_checked: '2026-07-21T03:43:49.144103+05:30'
 health_score: 100
 ---
+
 
 # Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling
 

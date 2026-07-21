@@ -3,9 +3,9 @@ title: Gemini Apps Privacy Hub - Gemini Apps Help
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://support.google.com/gemini/answer/13594961#privacy_notice
-published_at: '2026-07-18T16:55:25.773990+05:30'
-collected_at: '2026-07-18T16:55:25.774000+05:30'
+source_url: https://support.google.com/gemini/answer/13594961?hl=en_US#privacy_notice
+published_at: '2026-07-21T09:26:07.959057+05:30'
+collected_at: '2026-07-21T09:26:07.959066+05:30'
 tags:
 - agents
 - deepmind
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:gemini-apps-privacy-hub-gemini-apps-help
-first_seen: '2026-07-18T16:55:25.774000+05:30'
-last_seen: '2026-07-18T16:55:25.774000+05:30'
-last_checked: '2026-07-18T16:55:25.774000+05:30'
+first_seen: '2026-07-21T09:26:07.959066+05:30'
+last_seen: '2026-07-21T09:26:07.959066+05:30'
+last_checked: '2026-07-21T09:26:07.959066+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: Collects user-provided inputs (prompts, files, audio/video transcripts) and generated outputs (text, code, images, citations) from Gemini Apps, including interactions via Gemini Live, Gems, Skills, and Connected Apps (third-party integrations).
+- **Data Collection Scope**: Collects user-provided inputs (prompts, files, transcripts) and system-generated outputs (text, code, images, model reasoning steps), alongside device/browser metadata (permissions, interaction logs, location data), and third-party app data via Connected Apps (e.g., Google Assistant, Chrome, smart home devices).
 
-- **Processing & Retention**: Data used for service provision, improvement, personalization, and AI model training; retention varies by activity type (e.g., temporary chats deleted if "Keep Activity" off, extended for model refinement).
+- **Processing Purposes**: Data is used for service provisioning, performance optimization, personalization, and model improvement, including human review (for quality control) and integration with Google services (e.g., Search, YouTube history) for contextual grounding.
 
-- **Cross-Service Integration**: Leverages Google services (e.g., Search, Assistant) and Connected Apps for contextual responses; location/data permissions (e.g., precise location, device identifiers) are dynamically accessed and logged for functionality and personalization.
+- **Retention & Control**: Temporary chats (with "Keep Activity" off) are retained briefly; users can export/delete data, toggle audio/video improvement settings, and manage Connected Apps permissions. EU/UK users retain opt-out rights for processing under GDPR/UK GDPR.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-18T16:55:25.773990+05:30
+- Published: 2026-07-21T09:26:07.959057+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://support.google.com/gemini/answer/13594961#privacy_notice
+Original source: https://support.google.com/gemini/answer/13594961?hl=en_US#privacy_notice

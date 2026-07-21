@@ -1,13 +1,24 @@
 ---
-title: "88plug/drift-detector"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code", "Model Context Protocol (MCP)", "SQLite", "ExtraTree Classifier (eval-only)", "Bash"]
+title: 88plug/drift-detector
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Claude Code
+- Model Context Protocol (MCP)
+- SQLite
+- ExtraTree Classifier (eval-only)
+- Bash
 quality_score: 9
 rag_relevance: 8
-tags: ["drift detection", "LLM guardrails", "instruction compliance", "Claude Code plugin", "deterministic scoring"]
-source: "https://github.com/88plug/drift-detector"
-discovered_at: "2026-07-19T08:13:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- drift detection
+- LLM guardrails
+- instruction compliance
+- Claude Code plugin
+- deterministic scoring
+source: https://github.com/88plug/drift-detector
+discovered_at: '2026-07-19T08:13:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

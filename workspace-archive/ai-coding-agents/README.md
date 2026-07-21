@@ -9,13 +9,13 @@ AI coding agents represent the next leap in software engineering, moving from co
 ## Top Matched Resources
 
 - [Detecting AI Coding Agents in Open Source: A Validated Multi-Method Census of 180 Million Repositories](https://arxiv.org/abs/2606.24429) (framework - ESSENTIAL Tier)
+- [greensock/gsap-skills](https://github.com/greensock/gsap-skills) (tool - ESSENTIAL Tier)
+- [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
 - [AI Coding Agents in Social Science: Methodologically Diverse, Empirically Consistent, Interpretively Vulnerable](https://arxiv.org/abs/2606.11456) (prompt - ESSENTIAL Tier)
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) (mcp-server - ESSENTIAL Tier)
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (api - ESSENTIAL Tier)
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (product - ESSENTIAL Tier)
 - [Agentic IDEs and CLIs - Pinecone Docs](https://docs.pinecone.io/guides/get-started/ai-coding-tools) (mcp-server - ESSENTIAL Tier)
-- [RuBench: A Repository-Level Agentic Coding Benchmark with Natively Authored Russian Task Specifications](https://arxiv.org/abs/2607.06411) (benchmark - ESSENTIAL Tier)
-- [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,10 +23,10 @@ https://github.com/features/copilot (GitHub Copilot)
 https://github.com/addy-dcl/cline (Cline)
 https://github.com/features/claude-code (Claude Code)
 https://github.com/All-Hands-AI/OpenHands (OpenHands)
+- [greensock/gsap-skills](https://github.com/greensock/gsap-skills)
+- [OpenAI · GitHub](https://github.com/openai)
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
-- [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex)
-- [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/All-Hands-AI/OpenHands (OpenHands)
 
 ---
 
-*Last updated: 2026-07-21 04:01 IST*
+*Last updated: 2026-07-21 09:31 IST*

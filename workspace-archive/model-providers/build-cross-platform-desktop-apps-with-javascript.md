@@ -38,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid Runtime**: Electron integrates Chromium for rendering and Node.js for backend APIs, enabling cross-platform desktop apps with JavaScript/TypeScript.
+- **Runtime Architecture**: Electron integrates Chromium for rendering and Node.js for native APIs, enabling cross-platform desktop app development with JavaScript/TypeScript.
 
-- **Security & Stability**: Releases align with Chromium updates for immediate security patches and a stable rendering target with modern web features.
+- **Security & Maintenance**: Releases align with Chromium updates for timely security patches; supports native add-ons via Node.js bindings and npm packages for extensibility.
 
-- **Extensible Ecosystem**: Supports npm packages, native add-ons, and tooling like Electron Forge for building, packaging, and distributing apps across macOS, Windows, and Linux.
+- **Distribution & Tooling**: Provides platform-specific installers (`.msi`, `.dmg`, `.rpm`), auto-updater modules, and app store integration (Ma
 
 ## Use Cases
 

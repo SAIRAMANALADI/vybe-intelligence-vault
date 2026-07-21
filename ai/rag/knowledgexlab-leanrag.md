@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-07-21T03:46:12.596103+05:30'
+collected_at: '2026-07-21T09:16:37.737366+05:30'
 published_at: '2026-07-19T04:58:04Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -17,9 +18,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-07-21T03:46:12.596103+05:30'
-last_seen: '2026-07-21T03:46:12.596103+05:30'
-last_checked: '2026-07-21T03:46:12.596103+05:30'
+first_seen: '2026-07-21T09:16:37.737366+05:30'
+last_seen: '2026-07-21T09:16:37.737366+05:30'
+last_checked: '2026-07-21T09:16:37.737366+05:30'
 health_score: 100
 ---
 
@@ -27,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (entity → subgraph → full graph) and semantic aggregation for context-aware generation (AAAI 2026).
-- **Efficiency Optimizations**: Python-based implementation with lightweight graph traversal (e.g., pruning, caching) to reduce latency while maintaining retrieval granularity.
-- **Modular Architecture**: Designed for extensibility with pluggable components for graph construction, retrieval strategies, and LLM integration.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., entity → subgraph → full graph) and semantic aggregation to enhance context relevance and reduce noise.
+
+- **Efficiency Optimizations**: Leverages lightweight graph traversal (e.g., pruning, caching) and modular retrieval pipelines to minimize computational overhead while maintaining high retrieval accuracy.
+
+- **AAAI 2026 Benchmarking**: Evaluates performance on knowledge-intensive tasks (e.g., QA, reasoning) with reported gains in precision/recall over traditional dense retrieval methods.
 
 ## Why It Matters
 

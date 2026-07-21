@@ -9,7 +9,7 @@ Structured repository instruction files (CLAUDE.md, Cursor rules) are critical f
 ## Top Matched Resources
 
 - [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices) (template - USEFUL Tier)
-- [HoangNguyen0403/agent-skills-standard](https://github.com/HoangNguyen0403/agent-skills-standard) (framework - USEFUL Tier)
+- [GitHub Copilot CLI · GitHub](https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026) (mcp-server - USEFUL Tier)
 - [Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?](https://arxiv.org/abs/2602.11988) (framework - USEFUL Tier)
 - [Introduction | WordPress Playground](https://wordpress.github.io/wordpress-playground) (tutorial - USEFUL Tier)
 - [Next.js 16.2: AI Improvements](https://nextjs.org/blog/next-16-2-ai) (tutorial - USEFUL Tier)
@@ -20,7 +20,7 @@ Structured repository instruction files (CLAUDE.md, Cursor rules) are critical f
 https://github.com/cursor-rules (Cursor Rules Community)
 https://github.com/awesome-cursor-rules (Awesome Cursor Rules)
 - [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices)
-- [HoangNguyen0403/agent-skills-standard](https://github.com/HoangNguyen0403/agent-skills-standard)
+- [GitHub Copilot CLI · GitHub](https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026)
 
 ## Best Learning Resources
 
@@ -38,4 +38,4 @@ https://github.com/awesome-cursor-rules (Awesome Cursor Rules)
 
 ---
 
-*Last updated: 2026-07-21 04:01 IST*
+*Last updated: 2026-07-21 09:31 IST*

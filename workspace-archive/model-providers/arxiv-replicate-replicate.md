@@ -1,17 +1,18 @@
 ---
 title: arXiv + Replicate | Replicate
 archive_category: model-providers
-source_category: ai/resources
+source_category: ai/agents
 source_url: https://replicate.com/docs/arxiv/about
 resource_id: blog:arxiv-replicate-replicate
-local_vault_path: ai/resources/arxiv-replicate-replicate.md
+local_vault_path: ai/agents/arxiv-replicate-replicate.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- openai
+- agents
+- anthropic
 - web-crawled
 - youtube
 selection_reason:
@@ -24,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -32,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Google's nano-banana-2**: Fast image generation with conversational editing, multi-image fusion, and character consistency, achieving 14.9M runs on Replicate.
-
-- **xAI's Grok Imagine Video**: Video generation model from xAI, with 1.4M runs on Replicate.
-
-- **OpenAI's gpt-image-2**: State-of-the-art text-to-image model with strong instruction following, sharp text rendering, and detailed editing, achieving 15.3M runs on Replicate.
+- **Claude Opus 4.7**: Anthropic's latest model with enhanced agentic coding, improved vision capabilities, and superior multi-step reasoning, achieving 201.8K runs on Replicate.
+- **Krea-2-Medium**: A foundation image model from Krea, optimized for expressive illustration, anime, and painterly styles, with 17.5K runs and consistent performance across artistic directions.
+- **Seedance 2.0**: ByteDance's multimodal video generation model featuring native audio, multimodal reference inputs, and in
 
 ## Use Cases
 
@@ -50,4 +49,4 @@ Original source URL: https://replicate.com/docs/arxiv/about
 
 ## Local Vault File
 
-Path: [arxiv-replicate-replicate.md](../../ai/resources/arxiv-replicate-replicate.md)
+Path: [arxiv-replicate-replicate.md](../../ai/agents/arxiv-replicate-replicate.md)

@@ -13,11 +13,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`alexpeclub-ai-coding-starter-kit.md`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`wassim249-fastapi-langgraph-agent-production-ready-template.md`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [Staircase AI](https://education.gainsight.com/page/staircase-ai)
 - **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`staircase-ai.md`](../../ai/rag/staircase-ai.md)
@@ -68,6 +63,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `81` | **Path**: [`shadcn-ui-next-template.md`](../../web-development/shadcn-ui/shadcn-ui-next-template.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [dan5py/react-vite-shadcn-ui](https://github.com/dan5py/react-vite-shadcn-ui)
+- **Category**: `web-development/shadcn-ui` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
+- **Score**: `81` | **Path**: [`dan5py-react-vite-shadcn-ui.md`](../../web-development/shadcn-ui/dan5py-react-vite-shadcn-ui.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 
 ## Recommended Learning Path
 
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-21 04:01 IST*
+*Last updated: 2026-07-21 09:31 IST*

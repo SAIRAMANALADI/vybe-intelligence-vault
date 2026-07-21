@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-07-21T03:45:27.531264+05:30'
+collected_at: '2026-07-21T09:15:52.675144+05:30'
 published_at: '2026-07-19T03:42:21Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
+- scripts
 stars: 4374
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-07-21T03:45:27.531264+05:30'
-last_seen: '2026-07-21T03:45:27.531264+05:30'
-last_checked: '2026-07-21T03:45:27.531264+05:30'
+first_seen: '2026-07-21T09:15:52.675144+05:30'
+last_seen: '2026-07-21T09:15:52.675144+05:30'
+last_checked: '2026-07-21T09:15:52.675144+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Course Structure**: End-to-end guide for building production-ready LLM & RAG systems using LLMOps best practices, including 12 hands-on lessons and full source code.
-- **Technical Stack**: Python-based implementation leveraging AWS, Pulumi (IaC), Bytewax (streaming), Qdrant (vector DB), Comet-ML (experiment tracking), and Qwak (MLOps platform).
-- **Deployment & Scalability**: Docker containerization, infrastructure-as-code (Pulumi), and integration with generative AI tools for scalable, production-grade LLM/RAG systems.
+- **End-to-end LLM & RAG system**: Course provides hands-on guidance to build production-ready LLM and Retrieval-Augmented Generation (RAG) systems using LLMOps best practices, including source code and 12 structured lessons.
+
+- **Tech stack integration**: Covers AWS, Docker, Pulumi (infrastructure-as-code), Qdrant (vector DB), Comet-ML (experiment tracking), Bytewax (stream processing), and Qwak (MLOps platform) for scalable deployment.
+
+- **ML system design focus**: Emphasizes ML system design, MLOps, and generative AI deployment, with lessons on infrastructure automation, monitoring, and optimization for LLM-based applications.
 
 ## Why It Matters
 

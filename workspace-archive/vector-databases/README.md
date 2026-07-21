@@ -8,9 +8,9 @@ Vector databases provide sub-millisecond similarity search across millions of em
 
 ## Top Matched Resources
 
-- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app) (product - ESSENTIAL Tier)
-- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (tutorial - ESSENTIAL Tier)
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
+- [Danielskry/Awesome-RAG](https://github.com/Danielskry/Awesome-RAG) (framework - ESSENTIAL Tier)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (benchmark - ESSENTIAL Tier)
 - [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (tutorial - ESSENTIAL Tier)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (framework - ESSENTIAL Tier)
 - [Haystack | Haystack](https://haystack.deepset.ai/) (framework - ESSENTIAL Tier)
@@ -22,9 +22,9 @@ Vector databases provide sub-millisecond similarity search across millions of em
 https://github.com/chroma-core/chroma (Chroma)
 https://github.com/qdrant/qdrant (Qdrant)
 https://github.com/lancedb/lancedb (LanceDB)
-- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
-- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
+- [Danielskry/Awesome-RAG](https://github.com/Danielskry/Awesome-RAG)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
 - [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
 
@@ -44,4 +44,4 @@ https://github.com/lancedb/lancedb (LanceDB)
 
 ---
 
-*Last updated: 2026-07-21 04:01 IST*
+*Last updated: 2026-07-21 09:31 IST*

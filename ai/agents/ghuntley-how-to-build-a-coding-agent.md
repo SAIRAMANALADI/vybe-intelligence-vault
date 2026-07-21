@@ -4,25 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ghuntley/how-to-build-a-coding-agent
-collected_at: '2026-07-21T03:46:32.580155+05:30'
-published_at: '2026-07-20T03:06:06Z'
+collected_at: '2026-07-21T09:16:57.711844+05:30'
+published_at: '2026-07-21T01:15:55Z'
 tags:
 - agents
 - github-repo
 - go
-- hackernews
-- scripts
 - workflows
-stars: 5752
+stars: 5753
 language: Go
 status: active
 archived: false
 created_at: '2025-07-24T03:56:29Z'
 pushed_at: '2026-07-17T20:02:32Z'
 resource_id: github:ghuntley/how-to-build-a-coding-agent
-first_seen: '2026-07-21T03:46:32.580155+05:30'
-last_seen: '2026-07-21T03:46:32.580155+05:30'
-last_checked: '2026-07-21T03:46:32.580155+05:30'
+first_seen: '2026-07-21T09:16:57.711844+05:30'
+last_seen: '2026-07-21T09:16:57.711844+05:30'
+last_checked: '2026-07-21T09:16:57.711844+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Workshop Overview**: Provides a step-by-step guide to constructing a coding agent similar to Roo Code, Cline, Amp, Cursor, Windsurf, or OpenCode, using Go as the primary language.
+- **Go-based Workshop**: Provides a structured tutorial for building a coding agent (similar to Cursor, Cline, or Amp) using Go, covering AI integration and agent architecture.
 
-- **Technical Scope**: Covers AI-driven agent development, focusing on automation, code interaction, and integration with modern IDEs or development workflows.
+- **Key Features**: Focuses on real-time code assistance, multi-tool integration (e.g., LLM APIs), and agentic workflows for automated coding tasks.
 
-- **Repository Details**: Last updated July 2026, with 5,752 stars and 647 forks, indicating active community engagement and relevance in AI-assisted coding tool development.
+- **Modern Tooling**: Aligns with contemporary AI coding tools (e.g., OpenCode, Windsurf) while emphasizing extensibility and modular design.
 
 ## Why It Matters
 
@@ -43,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ghuntley
-- Stars: 5752
+- Stars: 5753
 - Forks: 647
 - Language: Go
 - Topics: agent, ai, cursor, tutorial, workshop
-- Last Updated: 2026-07-20T03:06:06Z
+- Last Updated: 2026-07-21T01:15:55Z
 - Archived: No
 - Created At: 2025-07-24T03:56:29Z
 - Pushed At: 2026-07-17T20:02:32Z

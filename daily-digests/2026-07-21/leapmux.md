@@ -1,13 +1,37 @@
 ---
-title: "leapmux/leapmux"
-category: "Orchestrator"
-tech_stack: ["Go", "SolidJS", "Tauri", "TypeScript", "Rust", "Protocol Buffers", "ConnectRPC", "gRPC", "Noise Protocol Framework", "SQLite", "PostgreSQL", "MySQL", "CockroachDB", "TiDB", "Docker", "Bun", "Node.js", "Task", "buf CLI"]
+title: leapmux/leapmux
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- SolidJS
+- Tauri
+- TypeScript
+- Rust
+- Protocol Buffers
+- ConnectRPC
+- gRPC
+- Noise Protocol Framework
+- SQLite
+- PostgreSQL
+- MySQL
+- CockroachDB
+- TiDB
+- Docker
+- Bun
+- Node.js
+- Task
+- buf CLI
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent", "workspace manager", "git worktrees", "terminal multiplexing", "coding agents"]
-source: "https://github.com/leapmux/leapmux"
-discovered_at: "2026-07-19T15:56:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent
+- workspace manager
+- git worktrees
+- terminal multiplexing
+- coding agents
+source: https://github.com/leapmux/leapmux
+discovered_at: '2026-07-19T15:56:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/greensock/gsap-skills
-collected_at: '2026-07-21T03:47:02.650266+05:30'
-published_at: '2026-07-20T22:15:57Z'
+collected_at: '2026-07-21T09:17:27.756395+05:30'
+published_at: '2026-07-21T03:34:30Z'
 tags:
 - agents
 - animation
 - github-repo
 - hackernews
 - unknown
-stars: 12028
+stars: 12049
 language: Unknown
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-03-04T17:22:35Z'
 pushed_at: '2026-04-21T23:47:09Z'
 resource_id: github:greensock/gsap-skills
-first_seen: '2026-07-21T03:47:02.650266+05:30'
-last_seen: '2026-07-21T03:47:02.650266+05:30'
-last_checked: '2026-07-21T03:47:02.650266+05:30'
+first_seen: '2026-07-21T09:17:27.756395+05:30'
+last_seen: '2026-07-21T09:17:27.756395+05:30'
+last_checked: '2026-07-21T09:17:27.756395+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **GSAP AI Skills Repository**: Provides structured AI training for GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration.
-- **Technical Scope**: Enables AI coding agents to generate optimized GSAP animations with correct syntax and performance considerations.
-- **Last Updated**: July 20, 2026 (latest commit timestamp).
+- **GSAP AI Skills Repository**: Official AI training materials for GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration for AI coding agents.
+
+- **Repository Metrics**: 12,049 stars, 708 forks, last updated July 21, 2026.
+
+- **Technical Scope**: Focuses on teaching AI agents to correctly implement GSAP animations, including advanced techniques and optimization strategies.
 
 ## Why It Matters
 
@@ -41,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: greensock
-- Stars: 12028
-- Forks: 707
+- Stars: 12049
+- Forks: 708
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-20T22:15:57Z
+- Last Updated: 2026-07-21T03:34:30Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-04T17:22:35Z

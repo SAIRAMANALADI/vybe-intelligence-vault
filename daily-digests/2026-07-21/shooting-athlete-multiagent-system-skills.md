@@ -1,13 +1,24 @@
 ---
-title: "shuhaolin63-hash/shooting-athlete-multiagent-system-Skills"
-category: "Agent Framework"
-tech_stack: ["Python", "Multi-Agent Systems", "AgentSkills Protocol", "PubMed API", "Claude Code", "GitHub Actions"]
+title: shuhaolin63-hash/shooting-athlete-multiagent-system-Skills
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Multi-Agent Systems
+- AgentSkills Protocol
+- PubMed API
+- Claude Code
+- GitHub Actions
 quality_score: 8
 rag_relevance: 7
-tags: ["multi-agent", "sports AI", "training optimization", "PubMed integration", "quantitative assessment"]
-source: "https://github.com/shuhaolin63-hash/shooting-athlete-multiagent-system-Skills"
-discovered_at: "2026-07-20T21:10:51Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent
+- sports AI
+- training optimization
+- PubMed integration
+- quantitative assessment
+source: https://github.com/shuhaolin63-hash/shooting-athlete-multiagent-system-Skills
+discovered_at: '2026-07-20T21:10:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

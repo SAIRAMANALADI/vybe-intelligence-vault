@@ -1,13 +1,28 @@
 ---
-title: "AppThreat/chennai"
-category: "Agent Framework"
-tech_stack: ["Rust", "Scala", "Java", "JavaScript/TypeScript", "Python", "Go", ".NET", "LLVM", "Docker", "LLM APIs (Anthropic, OpenAI-compatible)"]
+title: AppThreat/chennai
+category: daily-digests/2026-07-21
+tech_stack:
+- Rust
+- Scala
+- Java
+- JavaScript/TypeScript
+- Python
+- Go
+- .NET
+- LLVM
+- Docker
+- LLM APIs (Anthropic, OpenAI-compatible)
 quality_score: 9
 rag_relevance: 10
-tags: ["static analysis", "AI agent", "terminal UI", "data-flow tracing", "security review"]
-source: "https://github.com/AppThreat/chennai"
-discovered_at: "2026-07-13T13:22:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- static analysis
+- AI agent
+- terminal UI
+- data-flow tracing
+- security review
+source: https://github.com/AppThreat/chennai
+discovered_at: '2026-07-13T13:22:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

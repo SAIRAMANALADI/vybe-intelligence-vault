@@ -1,13 +1,29 @@
 ---
-title: "Gunakarthik1/hireagent"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "React", "Playwright", "LaTeX", "Ollama", "NVIDIA DeepSeek", "NVIDIA Llama-3.2-Vision", "SQLite", "Chrome Extension", "Telegram Bot"]
+title: Gunakarthik1/hireagent
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- FastAPI
+- React
+- Playwright
+- LaTeX
+- Ollama
+- NVIDIA DeepSeek
+- NVIDIA Llama-3.2-Vision
+- SQLite
+- Chrome Extension
+- Telegram Bot
 quality_score: 9
 rag_relevance: 7
-tags: ["Job Automation", "ATS Integration", "Resume Tailoring", "Vision-Based Form Filling", "Multi-LLM Routing"]
-source: "https://github.com/Gunakarthik1/hireagent"
-discovered_at: "2026-07-20T22:59:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Job Automation
+- ATS Integration
+- Resume Tailoring
+- Vision-Based Form Filling
+- Multi-LLM Routing
+source: https://github.com/Gunakarthik1/hireagent
+discovered_at: '2026-07-20T22:59:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

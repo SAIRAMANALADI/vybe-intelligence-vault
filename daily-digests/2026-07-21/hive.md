@@ -1,13 +1,30 @@
 ---
-title: "warlordofmars/hive"
-category: "Agent Framework"
-tech_stack: ["Python", "FastMCP", "FastAPI", "React", "Vite", "Node.js", "AWS Lambda", "DynamoDB", "AWS CDK", "OAuth 2.1", "CloudFront", "GitHub Actions"]
+title: warlordofmars/hive
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- FastMCP
+- FastAPI
+- React
+- Vite
+- Node.js
+- AWS Lambda
+- DynamoDB
+- AWS CDK
+- OAuth 2.1
+- CloudFront
+- GitHub Actions
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP server", "persistent memory", "AI agents", "OAuth integration", "serverless"]
-source: "https://github.com/warlordofmars/hive"
-discovered_at: "2026-07-19T02:30:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- persistent memory
+- AI agents
+- OAuth integration
+- serverless
+source: https://github.com/warlordofmars/hive
+discovered_at: '2026-07-19T02:30:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

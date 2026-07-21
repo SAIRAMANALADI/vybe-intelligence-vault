@@ -1,13 +1,26 @@
 ---
-title: "truss-agent/truss-harness"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "React", "Next.js", "npm", "VS Code Extension API", "Electron", "GitHub Actions"]
+title: truss-agent/truss-harness
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- Next.js
+- npm
+- VS Code Extension API
+- Electron
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["coding agents", "local-first", "model runtime", "CLI", "VS Code integration"]
-source: "https://github.com/truss-agent/truss-harness"
-discovered_at: "2026-07-20T02:44:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- coding agents
+- local-first
+- model runtime
+- CLI
+- VS Code integration
+source: https://github.com/truss-agent/truss-harness
+discovered_at: '2026-07-20T02:44:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://supabase.com/docs/guides/ai
-published_at: '2026-07-08T09:22:19.893638+05:30'
-collected_at: '2026-07-08T09:22:19.893651+05:30'
+published_at: '2026-07-21T09:19:24.642156+05:30'
+collected_at: '2026-07-21T09:19:24.642164+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -15,12 +15,11 @@ tags:
 - rag
 - reddit
 - web-crawled
-- workflows
 status: active
 resource_id: blog:ai-vectors-supabase-docs
-first_seen: '2026-07-08T09:22:19.893651+05:30'
-last_seen: '2026-07-08T09:22:19.893651+05:30'
-last_checked: '2026-07-08T09:22:19.893651+05:30'
+first_seen: '2026-07-21T09:19:24.642164+05:30'
+last_seen: '2026-07-21T09:19:24.642164+05:30'
+last_checked: '2026-07-21T09:19:24.642164+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Vector Database Integration**: Supabase leverages **Postgres with pgvector** for native vector storage, indexing, and querying, enabling scalable AI applications without external dependencies.
-
-- **Multi-Modal AI Workflows**: Supports **semantic, keyword, and hybrid search** with integrations for **OpenAI, Hugging Face, LangChain, and LlamaIndex**, facilitating unstructured data processing (text, images) via Edge Functions and client libraries.
-
-- **Production-Ready Examples**: Provides **GitHub templates** for **headless vector search, image retrieval (CLIP), chatbot plugins, and GDPR-compliant AI chatbots**, demonstrated in case studies like **Berri AI and Firecrawl**.
+- **Postgres + pgvector Integration**: Supabase provides an open-source vector database solution using Postgres with the `pgvector` extension, enabling storage, indexing, and querying of vector embeddings at scale via client libraries.
+- **Multi-Model Embedding Support**: Supports unstructured embeddings via a Python client, open-source model-based embedding generation in Edge Functions, and integrations with AI providers (OpenAI, Hugging Face, LangChain, etc.).
+- **Hybrid Search Capabilities**: Enables semantic, keyword, and hybrid search implementations, with example templates for vector search, image search (OpenAI CLIP), and ChatGPT plugin development.
 
 ## Why It Matters
 
@@ -42,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T09:22:19.893638+05:30
+- Published: 2026-07-21T09:19:24.642156+05:30
 
 ## Related Tags
 
@@ -54,7 +51,6 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - reddit
 - web-crawled
-- workflows
 
 ## Source
 

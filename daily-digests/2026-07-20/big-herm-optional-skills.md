@@ -1,13 +1,23 @@
 ---
-title: "khaoticdev62/big-herm-optional-skills"
-category: "Agent Framework"
-tech_stack: ["TeX", "Python", "Hermes Agent", "GitHub Actions", "Markdown"]
+title: khaoticdev62/big-herm-optional-skills
+category: daily-digests/2026-07-20
+tech_stack:
+- TeX
+- Python
+- Hermes Agent
+- GitHub Actions
+- Markdown
 quality_score: 7
 rag_relevance: 6
-tags: ["optional skills", "skill packs", "BIG HERM", "agent framework", "modular extensions"]
-source: "https://github.com/khaoticdev62/big-herm-optional-skills"
-discovered_at: "2026-07-20T21:10:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- optional skills
+- skill packs
+- BIG HERM
+- agent framework
+- modular extensions
+source: https://github.com/khaoticdev62/big-herm-optional-skills
+discovered_at: '2026-07-20T21:10:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

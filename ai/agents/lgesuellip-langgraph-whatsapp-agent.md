@@ -4,11 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lgesuellip/langgraph-whatsapp-agent
-collected_at: '2026-07-21T01:31:20.210946+05:30'
+collected_at: '2026-07-21T09:18:47.792672+05:30'
 published_at: '2026-07-16T08:38:56Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - workflows
 stars: 236
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-04-11T15:05:10Z'
 pushed_at: '2025-06-10T19:14:06Z'
 resource_id: github:lgesuellip/langgraph-whatsapp-agent
-first_seen: '2026-07-21T01:31:20.210946+05:30'
-last_seen: '2026-07-21T01:31:20.210946+05:30'
-last_checked: '2026-07-21T01:31:20.210946+05:30'
+first_seen: '2026-07-21T09:18:47.792672+05:30'
+last_seen: '2026-07-21T09:18:47.792672+05:30'
+last_checked: '2026-07-21T09:18:47.792672+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Template for WhatsApp AI Agents**: Provides a Python-based framework using LangGraph and Twilio to deploy AI agents capable of interacting via WhatsApp, processing text and images, and executing graph-based workflows.
+- **Integration Framework**: Template for deploying AI agents on WhatsApp using **LangGraph** (graph-based workflows) and **Twilio** (WhatsApp API integration), enabling message/image processing and custom agent invocation.
 
-- **Integration with MCP & LangGraph Platform**: Supports Model Context Protocol (MCP) integration and deployment on the LangGraph Platform for scalable, graph-based agent orchestration.
+- **Multi-Component System**: Supports **MCP (Model Context Protocol)** integration for enhanced agent capabilities and runs on the **LangGraph Platform**, facilitating scalable, graph-structured agent interactions.
 
-- **Repository Metadata**: 236 stars, 96 forks, last updated July 16, 2026; designed for extensibility with custom agent logic and WhatsApp API interactions.
+- **Technical Stack**: Pure **Python**-based implementation with real-time updates (last commit: 2026-07-16), optimized for WhatsApp agent deployment via Twilio’s cloud infrastructure.
 
 ## Why It Matters
 

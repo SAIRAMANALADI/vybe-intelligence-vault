@@ -1,13 +1,22 @@
 ---
-title: "overheatingholy955/Palworld-Nuclear-Hack"
-category: "Tooling"
-tech_stack: ["Python", "Memory Injection", "Windows API", "Game Modding"]
+title: overheatingholy955/Palworld-Nuclear-Hack
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- Memory Injection
+- Windows API
+- Game Modding
 quality_score: 5
 rag_relevance: 1
-tags: ["game modding", "memory manipulation", "Palworld", "Windows tools", "cheat engine"]
-source: "https://github.com/overheatingholy955/Palworld-Nuclear-Hack"
-discovered_at: "2026-07-19T07:29:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- game modding
+- memory manipulation
+- Palworld
+- Windows tools
+- cheat engine
+source: https://github.com/overheatingholy955/Palworld-Nuclear-Hack
+discovered_at: '2026-07-19T07:29:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

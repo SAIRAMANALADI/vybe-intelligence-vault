@@ -4,15 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ritik-prog/n8n-automation-templates-5000
-collected_at: '2026-07-21T03:44:57.517617+05:30'
-published_at: '2026-07-19T17:24:52Z'
+collected_at: '2026-07-21T09:15:22.626543+05:30'
+published_at: '2026-07-20T23:38:12Z'
 tags:
 - github-repo
+- hackernews
 - rag
 - scripts
 - unknown
 - workflows
-stars: 441
+stars: 442
 language: Unknown
 status: active
 license: MIT
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-08-05T16:00:00Z'
 pushed_at: '2026-07-10T11:27:53Z'
 resource_id: github:ritik-prog/n8n-automation-templates-5000
-first_seen: '2026-07-21T03:44:57.517617+05:30'
-last_seen: '2026-07-21T03:44:57.517617+05:30'
-last_checked: '2026-07-21T03:44:57.517617+05:30'
+first_seen: '2026-07-21T09:15:22.626543+05:30'
+last_seen: '2026-07-21T09:15:22.626543+05:30'
+last_checked: '2026-07-21T09:15:22.626543+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: `ritik-prog/n8n-automation-templates-5000` hosts **5000+ production-ready n8n workflow templates** covering AI, CRM, finance, e-commerce, marketing, and RAG automation.
-- **Metadata**: 441 stars, 169 forks, last updated **2026-07-19T17:24:52Z**; language and topics unspecified.
-- **Access**: Free and open-source repository with templates designed for real-world automation use cases.
+- **Repository**: `ritik-prog/n8n-automation-templates-5000` contains **5,000+ production-ready n8n workflow templates** for AI, CRM, finance, e-commerce, marketing, and RAG automation.
+- **Metadata**: 442 stars, 169 forks, last updated **2026-07-20T23:38:12Z**, open-source and free.
+- **Technical Scope**: Covers **real-world automation** with no explicit primary language specified (likely JavaScript/TypeScript-based n8n workflows).
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ritik-prog
-- Stars: 441
+- Stars: 442
 - Forks: 169
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-19T17:24:52Z
+- Last Updated: 2026-07-20T23:38:12Z
 - License: MIT
 - Archived: No
 - Created At: 2025-08-05T16:00:00Z

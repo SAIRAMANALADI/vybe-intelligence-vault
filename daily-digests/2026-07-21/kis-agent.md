@@ -1,13 +1,27 @@
 ---
-title: "unohee/kis-agent"
-category: "Tooling"
-tech_stack: ["Python", "aiohttp", "WebSocket", "asyncio", "Typing (TypedDict)", "CLI (Click)", "REST API", "Rate Limiting", "Caching"]
+title: unohee/kis-agent
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- aiohttp
+- WebSocket
+- asyncio
+- Typing (TypedDict)
+- CLI (Click)
+- REST API
+- Rate Limiting
+- Caching
 quality_score: 9
 rag_relevance: 7
-tags: ["Korean stock API", "LLM agent integration", "real-time data", "WebSocket streaming", "type-safe SDK"]
-source: "https://github.com/unohee/kis-agent"
-discovered_at: "2026-07-16T15:00:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Korean stock API
+- LLM agent integration
+- real-time data
+- WebSocket streaming
+- type-safe SDK
+source: https://github.com/unohee/kis-agent
+discovered_at: '2026-07-16T15:00:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

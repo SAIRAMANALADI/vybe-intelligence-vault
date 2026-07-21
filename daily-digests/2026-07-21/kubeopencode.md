@@ -1,13 +1,24 @@
 ---
-title: "kubeopencode/kubeopencode"
-category: "Orchestrator"
-tech_stack: ["Go", "Kubernetes", "Helm", "OpenCode", "YAML", "CLI"]
+title: kubeopencode/kubeopencode
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- Kubernetes
+- Helm
+- OpenCode
+- YAML
+- CLI
 quality_score: 9
 rag_relevance: 7
-tags: ["Kubernetes", "AI Agents", "Orchestration", "Enterprise", "Governance"]
-source: "https://github.com/kubeopencode/kubeopencode"
-discovered_at: "2026-07-19T07:29:28Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Kubernetes
+- AI Agents
+- Orchestration
+- Enterprise
+- Governance
+source: https://github.com/kubeopencode/kubeopencode
+discovered_at: '2026-07-19T07:29:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

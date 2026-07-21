@@ -1,13 +1,25 @@
 ---
-title: "alexjiaguo/dify-mcp"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "CLI", "JSON-RPC", "REST API", "Cookie-based Authentication"]
+title: alexjiaguo/dify-mcp
+category: daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- CLI
+- JSON-RPC
+- REST API
+- Cookie-based Authentication
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Dify integration", "AI agent automation", "workflow builder", "CLI tooling"]
-source: "https://github.com/alexjiaguo/dify-mcp"
-discovered_at: "2026-07-19T17:58:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Dify integration
+- AI agent automation
+- workflow builder
+- CLI tooling
+source: https://github.com/alexjiaguo/dify-mcp
+discovered_at: '2026-07-19T17:58:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

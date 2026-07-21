@@ -23,6 +23,16 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `90` | **Path**: [`arxiv-2606-24429.md`](../../ai/agents/arxiv-2606-24429.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [greensock/gsap-skills](https://github.com/greensock/gsap-skills)
+- **Category**: `ai/agents` | **Kind**: `TOOL` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`greensock-gsap-skills.md`](../../ai/agents/greensock-gsap-skills.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [OpenAI · GitHub](https://github.com/openai)
+- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`openai-github.md`](../../ai/agents/openai-github.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [github/github-mcp-server](https://github.com/github/github-mcp-server)
 - **Category**: `ai/resources` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`github-github-mcp-server.md`](../../ai/resources/github-github-mcp-server.md)
@@ -58,16 +68,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
-- **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`sylphxai-pdf-reader-mcp.md`](../../ai/rag/sylphxai-pdf-reader-mcp.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`denis2054-context-engineering-for-multi-agent-systems.md`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 
 ## Recommended Learning Path
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-21 04:01 IST*
+*Last updated: 2026-07-21 09:31 IST*

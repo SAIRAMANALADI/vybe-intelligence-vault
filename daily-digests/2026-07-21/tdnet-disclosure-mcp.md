@@ -1,13 +1,23 @@
 ---
-title: "ajtgjmdjp/tdnet-disclosure-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "CLI", "PyPI", "GitHub Actions"]
+title: ajtgjmdjp/tdnet-disclosure-mcp
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- CLI
+- PyPI
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-tags: ["financial data", "MCP server", "Tokyo Stock Exchange", "timely disclosures", "stock market"]
-source: "https://github.com/ajtgjmdjp/tdnet-disclosure-mcp"
-discovered_at: "2026-07-18T08:09:25Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- financial data
+- MCP server
+- Tokyo Stock Exchange
+- timely disclosures
+- stock market
+source: https://github.com/ajtgjmdjp/tdnet-disclosure-mcp
+discovered_at: '2026-07-18T08:09:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

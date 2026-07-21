@@ -3,9 +3,9 @@ title: Privacy Policy – Privacy & Terms – Google
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://policies.google.com/privacy
-published_at: '2026-07-21T03:50:05.890440+05:30'
-collected_at: '2026-07-21T03:50:05.890452+05:30'
+source_url: https://myaccount.google.com/privacypolicy?hl=en-US
+published_at: '2026-07-21T09:23:26.338453+05:30'
+collected_at: '2026-07-21T09:23:26.338462+05:30'
 tags:
 - agents
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:privacy-policy-privacy-terms-google
-first_seen: '2026-07-21T03:50:05.890452+05:30'
-last_seen: '2026-07-21T03:50:05.890452+05:30'
-last_checked: '2026-07-21T03:50:05.890452+05:30'
+first_seen: '2026-07-21T09:23:26.338462+05:30'
+last_seen: '2026-07-21T09:23:26.338462+05:30'
+last_checked: '2026-07-21T09:23:26.338462+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Chrome) including **personal info** (name, email), **device identifiers** (IP, unique IDs), **activity logs** (searches, watch history), and **location data** (GPS, Wi-Fi access points), with storage tied to account settings or anonymized identifiers when signed out.
+- **Data Collection Scope**: Google aggregates data from signed-in accounts (e.g., emails, location, device identifiers) and non-signed-in users (e.g., unique browser/device IDs, IP addresses, activity logs) to personalize services like ads, search results, and recommendations.
 
-- **Cross-Service Tracking**: Activity (e.g., searches, purchases) and location data are synchronized across services via **Web & App Activity** and **Timeline**, enabling personalized ads/results while allowing user control via **Privacy Checkup** or granular settings (e.g., disabling location history).
+- **Technical Mechanisms**: Uses unique identifiers (browser/app/device-level), sensor data (GPS, Wi-Fi, Bluetooth), and cross-service tracking (e.g., Chrome sync, Web & App Activity) to maintain user context and enable features like Timeline or location-based services.
 
-- **Third-Party & Public Data Integration**: Google supplements user data with **publicly accessible sources** (e.g., news articles) and **partner-provided data** (e.g., marketing partners) for ads/research, while employing **cookies, pixel tags, and local storage** for persistent tracking and cross-site functionality.
+- **Retention & Compliance**: Data retention varies by service/account settings; Google retains information for operational purposes (e.g., crash reports, updates) and complies with regulatory frameworks (e.g., GDPR, CCPA) for data export/deletion requests.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T03:50:05.890440+05:30
+- Published: 2026-07-21T09:23:26.338453+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://policies.google.com/privacy
+Original source: https://myaccount.google.com/privacypolicy?hl=en-US

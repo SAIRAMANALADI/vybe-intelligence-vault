@@ -1,13 +1,22 @@
 ---
-title: "Tidy-personality510/pass-run"
-category: "Tooling"
-tech_stack: ["Shell", "Windows Command Line", "Environment Variables", "Password Store (`pass`/`passage`)"]
+title: Tidy-personality510/pass-run
+category: daily-digests/2026-07-20
+tech_stack:
+- Shell
+- Windows Command Line
+- Environment Variables
+- Password Store (`pass`/`passage`)
 quality_score: 6
 rag_relevance: 5
-tags: ["secret management", "environment injection", "Windows tooling", "password store integration", "runtime credentials"]
-source: "https://github.com/Tidy-personality510/pass-run"
-discovered_at: "2026-07-14T12:10:27Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- secret management
+- environment injection
+- Windows tooling
+- password store integration
+- runtime credentials
+source: https://github.com/Tidy-personality510/pass-run
+discovered_at: '2026-07-14T12:10:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

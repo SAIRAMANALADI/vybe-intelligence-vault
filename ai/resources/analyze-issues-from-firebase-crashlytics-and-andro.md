@@ -5,17 +5,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.android.com/studio/debug/app-quality-insights
-published_at: '2026-07-20T01:13:26.805323+05:30'
-collected_at: '2026-07-20T01:13:26.805334+05:30'
+published_at: '2026-07-21T09:25:41.041474+05:30'
+collected_at: '2026-07-21T09:25:41.041481+05:30'
 tags:
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: blog:analyze-issues-from-firebase-crashlytics-and-andro
-first_seen: '2026-07-20T01:13:26.805334+05:30'
-last_seen: '2026-07-20T01:13:26.805334+05:30'
-last_checked: '2026-07-20T01:13:26.805334+05:30'
+first_seen: '2026-07-21T09:25:41.041481+05:30'
+last_seen: '2026-07-21T09:25:41.041481+05:30'
+last_checked: '2026-07-21T09:25:41.041481+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Integration & Compatibility**: App Quality Insights (AQI) in Android Studio aggregates crash data from Firebase Crashlytics and Android Vitals, requiring Android Studio **Otter** (or newer) or versions within the last 10 months; older versions lack support.
+- **App Quality Insights (AQI) Integration**: Android Studio's AQI tool window consolidates Firebase Crashlytics and Google Play's Android Vitals data, enabling in-IDE crash analysis with stack trace visualization, code navigation, and summary statistics (e.g., device/OS breakdowns), while supporting offline mode with cached data.
 
-- **Key Features**: AQI highlights crash-related code lines, provides stack traces with direct navigation to source, and offers filtering by severity, device, version, and time; supports notes, diff viewing, and offline cached analysis with limited functionality.
+- **Crashlytics Data Analysis Workflow**: AQI allows filtering crashes by severity (fatal/non-fatal/ANRs), app version, device, and time; provides variant-based grouping for root-cause analysis; and supports attaching notes (visible in Firebase Console) with direct links to Firebase dashboards.
 
-- **Setup & Discrepancies**: Requires Firebase/Crashlytics SDK integration via Firebase Assistant; Android Vitals and Crashlytics may report differing crash/user counts due to timing and opt-out variations, with AQI enabling bidirectional code-to-stack trace debugging.
+- **Version Control & Compatibility**: AQI requires Firebase Crashlytics SDK integration (or Firebase BoM) and git for version control; supports debug builds via `vcsInfo` Gradle configuration, while highlighting crash-related code lines with gutter icons and event frequency pop-ups for targeted debugging.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-20T01:13:26.805323+05:30
+- Published: 2026-07-21T09:25:41.041474+05:30
 
 ## Related Tags
 

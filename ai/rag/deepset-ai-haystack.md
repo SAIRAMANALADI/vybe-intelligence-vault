@@ -3,11 +3,9 @@ title: deepset-ai/haystack
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/deepset-ai/haystack?source=post_page
-resource_id: github:deepset-ai/haystack
------dba899ae0355---------------------------------------
-collected_at: '2026-07-21T03:48:52.775533+05:30'
-published_at: '2026-07-20T20:22:35Z'
+source_url: https://github.com/deepset-ai/haystack
+collected_at: '2026-07-21T09:19:22.839290+05:30'
+published_at: '2026-07-21T02:56:43Z'
 tags:
 - agents
 - github-repo
@@ -16,7 +14,7 @@ tags:
 - python
 - rag
 - workflows
-stars: 25958
+stars: 25960
 language: Python
 status: active
 license: Apache-2.0
@@ -24,9 +22,9 @@ archived: false
 created_at: '2019-11-14T09:05:28Z'
 pushed_at: '2026-07-20T16:37:18Z'
 resource_id: github:deepset-ai/haystack
-first_seen: '2026-07-21T03:48:52.775533+05:30'
-last_seen: '2026-07-21T03:48:52.775533+05:30'
-last_checked: '2026-07-21T03:48:52.775533+05:30'
+first_seen: '2026-07-21T09:19:22.839290+05:30'
+last_seen: '2026-07-21T09:19:22.839290+05:30'
+last_checked: '2026-07-21T09:19:22.839290+05:30'
 health_score: 100
 ---
 
@@ -34,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Orchestration Framework**: Haystack enables building production-ready LLM applications via modular pipelines and agent workflows, with explicit control over retrieval, routing, memory, and generation components.
+- **Modular AI Orchestration**: Python-based framework enabling explicit control over retrieval, routing, memory, and generation for building production-ready LLM applications with modular pipelines and agent workflows.
 
-- **Multi-Use Case Support**: Designed for scalable agents, RAG, multimodal applications, semantic search, and conversational systems, leveraging Python, PyTorch, and transformer architectures.
+- **Context-Engineered Applications**: Supports scalable agents, RAG, multimodal systems, semantic search, and conversational AI through optimized retrieval-augmented generation (RAG) and transformer-based architectures.
 
-- **High-Scale Production Focus**: Optimized for scalable deployments with explicit control over core LLM application components, supporting integrations with models like GPT-4 and Gemini.
+- **Production & Scalability Focus**: Designed for high-performance deployments with PyTorch integration, optimized for NLP tasks like summarization, QA, and information retrieval in enterprise-grade environments.
 
 ## Why It Matters
 
@@ -47,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: deepset-ai
-- Stars: 25958
-- Forks: 2940
+- Stars: 25960
+- Forks: 2941
 - Language: Python
 - Topics: agent, agents, ai, gemini, generative-ai, gpt-4, information-retrieval, large-language-models, llm, machine-learning, nlp, orchestration, python, pytorch, question-answering, rag, retrieval-augmented-generation, semantic-search, summarization, transformers
-- Last Updated: 2026-07-20T20:22:35Z
+- Last Updated: 2026-07-21T02:56:43Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2019-11-14T09:05:28Z
@@ -73,4 +71,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/deepset-ai/haystack?source=post_page-----dba899ae0355---------------------------------------
+Original source: https://github.com/deepset-ai/haystack

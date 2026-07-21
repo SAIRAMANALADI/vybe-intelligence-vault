@@ -3,8 +3,8 @@ title: gohugoio/hugo-goldmark-extensions
 category: ai/resources
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/gohugoio/hugo-goldmark-extensions?tab=readme-ov-file#extras-extension
-collected_at: '2026-07-17T14:09:37.774005+05:30'
+source_url: https://github.com/gohugoio/hugo-goldmark-extensions?tab=readme-ov-file
+collected_at: '2026-07-21T09:25:32.236532+05:30'
 published_at: '2026-06-12T02:26:18Z'
 tags:
 - github-repo
@@ -15,11 +15,11 @@ status: active
 license: Apache-2.0
 archived: false
 created_at: '2024-01-10T19:32:08Z'
-pushed_at: '2026-05-19T20:47:39Z'
+pushed_at: '2026-07-20T09:37:10Z'
 resource_id: github:gohugoio/hugo-goldmark-extensions
-first_seen: '2026-07-17T14:09:37.774005+05:30'
-last_seen: '2026-07-17T14:09:37.774005+05:30'
-last_checked: '2026-07-17T14:09:37.774005+05:30'
+first_seen: '2026-07-21T09:25:32.236532+05:30'
+last_seen: '2026-07-21T09:25:32.236532+05:30'
+last_checked: '2026-07-21T09:25:32.236532+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Extends [Goldmark](https://github.com/yuin/goldmark), a Go-based Markdown parser, with community-driven Hugo-specific enhancements.
-- **Key Components**: Includes the `Extras` extension for additional Markdown syntax (e.g., smart quotes, footnotes, subscripts).
-- **Compatibility**: Designed to integrate seamlessly with Hugo’s rendering pipeline via Goldmark’s extension system.
+- **Purpose**: Extends Goldmark, a Markdown parser for Go, with community-driven enhancements for Hugo.
+- **Components**: Includes custom extensions (e.g., syntax, rendering) tailored for Hugo's static site generation.
+- **Status**: Last updated June 2026; minimal activity (34 stars, 8 forks).
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-01-10T19:32:08Z
-- Pushed At: 2026-05-19T20:47:39Z
+- Pushed At: 2026-07-20T09:37:10Z
 
 ## Possible Use Cases
 
@@ -64,4 +64,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/gohugoio/hugo-goldmark-extensions?tab=readme-ov-file#extras-extension
+Original source: https://github.com/gohugoio/hugo-goldmark-extensions?tab=readme-ov-file

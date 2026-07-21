@@ -1,13 +1,24 @@
 ---
-title: "PhoenixNest/AGENT-GLOBAL-BASE"
-category: "Orchestrator"
-tech_stack: ["Markdown", "Python", "Agent Systems Engineering (ASE)", "Retrieval-Augmented Generation (RAG)", "Multi-Agent Systems", "Unity 6.3 LTS"]
+title: PhoenixNest/AGENT-GLOBAL-BASE
+category: daily-digests/2026-07-20
+tech_stack:
+- Markdown
+- Python
+- Agent Systems Engineering (ASE)
+- Retrieval-Augmented Generation (RAG)
+- Multi-Agent Systems
+- Unity 6.3 LTS
 quality_score: 8
 rag_relevance: 9
-tags: ["agent governance", "LLM engineering", "multi-agent systems", "document-driven architecture", "RAG framework"]
-source: "https://github.com/PhoenixNest/AGENT-GLOBAL-BASE"
-discovered_at: "2026-07-16T15:00:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent governance
+- LLM engineering
+- multi-agent systems
+- document-driven architecture
+- RAG framework
+source: https://github.com/PhoenixNest/AGENT-GLOBAL-BASE
+discovered_at: '2026-07-16T15:00:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,25 @@
 ---
-title: "Rajskij/oura-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Docker", "Oura API v2", "MCP (Model Context Protocol)", "REST", "OAuth 2.0"]
+title: Rajskij/oura-mcp
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- Docker
+- Oura API v2
+- MCP (Model Context Protocol)
+- REST
+- OAuth 2.0
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Oura Ring integration", "health data", "AI chat integration", "conversational AI"]
-source: "https://github.com/Rajskij/oura-mcp"
-discovered_at: "2026-07-13T16:31:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Oura Ring integration
+- health data
+- AI chat integration
+- conversational AI
+source: https://github.com/Rajskij/oura-mcp
+discovered_at: '2026-07-13T16:31:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

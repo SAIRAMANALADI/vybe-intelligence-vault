@@ -3,9 +3,9 @@ title: Google Terms of Service – Privacy & Terms – Google
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://policies.google.com/terms
-published_at: '2026-07-21T03:50:10.877469+05:30'
-collected_at: '2026-07-21T03:50:10.877486+05:30'
+source_url: https://myaccount.google.com/termsofservice?hl=en-US
+published_at: '2026-07-21T09:23:21.238653+05:30'
+collected_at: '2026-07-21T09:23:21.238661+05:30'
 tags:
 - hackernews
 - paper
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:google-terms-of-service-privacy-terms-google
-first_seen: '2026-07-21T03:50:10.877486+05:30'
-last_seen: '2026-07-21T03:50:10.877486+05:30'
-last_checked: '2026-07-21T03:50:10.877486+05:30'
+first_seen: '2026-07-21T09:23:21.238661+05:30'
+last_seen: '2026-07-21T09:23:21.238661+05:30'
+last_checked: '2026-07-21T09:23:21.238661+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Service Provider & Legal Framework**: Google LLC (Delaware-registered) operates services under U.S. law, with contractual obligations defined in the Terms of Service (effective May 22, 2024), including compliance with export controls, sanctions, and human trafficking regulations.
+- **Legal & Operational Framework**: Google LLC (Mountain View, CA) operates under U.S. and Delaware state laws, with services governed by [Terms of Service](https://myaccount.google.com/terms?hl=en-US) and [Privacy Policy](https://myaccount.google.com/privacy?hl=en-US), including age requirements and service-specific policies (e.g., AI usage restrictions).
 
-- **Content & Intellectual Property Rights**: Users retain ownership of uploaded content, but grant Google a license for service operation; reverse engineering, automated extraction (e.g., via `robots.txt` violations), or AI model training on Google-generated content is explicitly prohibited.
+- **Service Provision & Modifications**: Google provides integrated services (Search, Maps, Pixel devices) with AI-driven improvements (e.g., spam detection, translations), subject to automatic updates and potential feature changes, with user content exportable via [Google Takeout](https://takeout.google.com/settings/takeout?hl=en_US) under applicable laws.
 
-- **Prohibited Activities & Enforcement**: Terms ban abuse (e.g., malware, phishing, fake accounts), adversarial prompting/jailbreaking (unless part of Google’s bug programs), and generative AI misuse; violations may trigger account termination, legal action, or reporting mechanisms via Google’s abuse tools.
+- **User Obligations & Restrictions**: Users must comply with anti-abuse clauses (e.g., no reverse engineering, prompt injection, or AI model training from Google services), respect intellectual property/privacy rights, and adhere to [Generative AI Prohibited Use Policy](https://myaccount.google.com/terms/generative-ai/use-policy?hl=en-US), with violations reportable via Google’s abuse mechanisms.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T03:50:10.877469+05:30
+- Published: 2026-07-21T09:23:21.238653+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://policies.google.com/terms
+Original source: https://myaccount.google.com/termsofservice?hl=en-US

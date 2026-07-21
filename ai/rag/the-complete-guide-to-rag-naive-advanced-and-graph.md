@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
-published_at: '2026-07-20T22:15:56.155031+05:30'
-collected_at: '2026-07-20T22:15:56.155041+05:30'
+published_at: '2026-07-21T09:15:04.105808+05:30'
+collected_at: '2026-07-21T09:15:04.105818+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-07-20T22:15:56.155041+05:30'
-last_seen: '2026-07-20T22:15:56.155041+05:30'
-last_checked: '2026-07-20T22:15:56.155041+05:30'
+first_seen: '2026-07-21T09:15:04.105818+05:30'
+last_seen: '2026-07-21T09:15:04.105818+05:30'
+last_checked: '2026-07-21T09:15:04.105818+05:30'
 health_score: 100
 ---
 
@@ -39,11 +39,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG (Retrieval-Augmented Generation)** integrates external knowledge retrieval with LLM generation to address limitations in freshness, private knowledge, and hallucination, evolving from Naive RAG (basic retrieval) to Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph-based multi-hop reasoning).
+- **RAG (Retrieval-Augmented Generation)** integrates retrieval, augmentation, and generation to enhance LLM responses by dynamically pulling external knowledge, addressing issues like hallucination, freshness, and private data limitations.
 
-- **Core RAG architectures** include Naive RAG (vector search + LLM), Advanced RAG (semantic chunking, hybrid retrieval, reranking, query rewriting), Modular RAG (routing, looping, tool integration), and Graph RAG (entity-relation graph traversal for relational reasoning).
+- **Evolution of RAG**: From *Naive RAG* (basic vector search) to *Advanced RAG* (hybrid retrieval, reranking, query expansion) and *Graph RAG* (entity-relation graphs for multi-hop reasoning), with modular/agentic variants enabling dynamic routing and tool integration.
 
-- **Operational considerations** involve evaluation metrics (e.g., retrieval accuracy, answer correctness), production checklists (e.g., environment setup, caching, permissions), and alternatives like LLM Wiki (self-maintaining knowledge systems) to mitigate RAG’s limitations in scalability and maintenance.
+- **Key Components & Trade-offs**: Core techniques include BM25 (sparse retrieval), dense embeddings (e.g., BAAI/bge-m3), cross-encoders (reranking), and graph databases (e.g., Neo4j), with operational trade-offs in latency, scalability, and schema design.
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T22:15:56.155031+05:30
+- Published: 2026-07-21T09:15:04.105808+05:30
 
 ## Related Tags
 

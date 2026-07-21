@@ -13,8 +13,8 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (tutorial - USEFUL Tier)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (framework - USEFUL Tier)
+- [GitHub · GitHub](https://github.com/github) (tutorial - USEFUL Tier)
 - [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) (prompt - USEFUL Tier)
-- [BrandPeng/Langchain1.0-Langgraph1.0-Learning](https://github.com/BrandPeng/Langchain1.0-Langgraph1.0-Learning) (workflow - USEFUL Tier)
 - [Resources - Linux Foundation - Education](https://training.linuxfoundation.org/resources) (dataset - USEFUL Tier)
 
 ## Best GitHub Repositories
@@ -22,8 +22,8 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 - [github/roadmap](https://github.com/github/roadmap)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
+- [GitHub · GitHub](https://github.com/github)
 - [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
-- [BrandPeng/Langchain1.0-Langgraph1.0-Learning](https://github.com/BrandPeng/Langchain1.0-Langgraph1.0-Learning)
 
 ## Best Learning Resources
 
@@ -39,4 +39,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-07-21 04:01 IST*
+*Last updated: 2026-07-21 09:31 IST*

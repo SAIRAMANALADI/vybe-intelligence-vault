@@ -1,13 +1,26 @@
 ---
-title: "aklid01/manhua"
-category: "Tooling"
-tech_stack: ["Python", "OCR (PaddleOCR)", "Computer Vision (Ultralytics YOLOv8)", "LLM Backends (Ollama, MCP)", "FastMCP", "Hugging Face Hub", "Pillow (PIL)", "NumPy"]
+title: aklid01/manhua
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- OCR (PaddleOCR)
+- Computer Vision (Ultralytics YOLOv8)
+- LLM Backends (Ollama, MCP)
+- FastMCP
+- Hugging Face Hub
+- Pillow (PIL)
+- NumPy
 quality_score: 8
 rag_relevance: 6
-tags: ["document processing", "OCR", "translation pipeline", "comic processing", "local AI"]
-source: "https://github.com/aklid01/manhua"
-discovered_at: "2026-07-17T14:43:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- document processing
+- OCR
+- translation pipeline
+- comic processing
+- local AI
+source: https://github.com/aklid01/manhua
+discovered_at: '2026-07-17T14:43:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

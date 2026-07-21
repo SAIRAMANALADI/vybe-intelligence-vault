@@ -1,13 +1,23 @@
 ---
-title: "harindukavishka/agentify"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "OpenAPI", "MCP (Model Context Protocol)", "Command Line Interface", "Windows Desktop Application"]
+title: harindukavishka/agentify
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- OpenAPI
+- MCP (Model Context Protocol)
+- Command Line Interface
+- Windows Desktop Application
 quality_score: 7
 rag_relevance: 8
-tags: ["OpenAPI conversion", "AI agent generation", "MCP server", "automation", "documentation generation"]
-source: "https://github.com/harindukavishka/agentify"
-discovered_at: "2026-07-12T13:36:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- OpenAPI conversion
+- AI agent generation
+- MCP server
+- automation
+- documentation generation
+source: https://github.com/harindukavishka/agentify
+discovered_at: '2026-07-12T13:36:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

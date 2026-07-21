@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/gohugoio/hugo/releases/tag/v0.164.0
-published_at: '2026-07-21T03:50:11.870930+05:30'
-collected_at: '2026-07-21T03:50:11.870944+05:30'
+published_at: '2026-07-21T09:21:29.983036+05:30'
+collected_at: '2026-07-21T09:21:29.983044+05:30'
 tags:
 - frontend_ui
 - reddit
 - web-crawled
 status: active
 resource_id: github:gohugoio/hugo
-first_seen: '2026-07-21T03:50:11.870944+05:30'
-last_seen: '2026-07-21T03:50:11.870944+05:30'
-last_checked: '2026-07-21T03:50:11.870944+05:30'
+first_seen: '2026-07-21T09:21:29.983044+05:30'
+last_seen: '2026-07-21T09:21:29.983044+05:30'
+last_checked: '2026-07-21T09:21:29.983044+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Syntax Highlighting & Encoding**: Introduced dark/light mode pairs in Chroma highlighter styles and added new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`) for hex encoding/decoding and cryptographic hashing.
+- **Syntax Highlighting Enhancements**: Introduced dark/light mode pairs in Chroma highlighter styles via new flags in `hugo gen chromastyles` command; added `markup.rst.syntaxHighlight` configuration option and new template functions: `encoding.HexEncode`, `encoding.HexDecode`, and `crypto.Hash`.
 
-- **Markup & Template Enhancements**: Added `markup.rst.syntaxHighlight` configuration option, Pandoc citation support, and improved `.Render` template function to support sub-paths in layouts, alongside deprecating `resources.PostProcess` in favor of `templates.Defer`.
+- **Performance & Template Improvements**: Fixed performance regression introduced in v0.128.0; deprecated `resources.PostProcess` in favor of `templates.Defer`; added support for sub-paths in layouts passed to `Page.Render` and made template name lookup case-insensitive.
 
-- **Performance & Dependency Updates**: Fixed a performance regression introduced in v0.128.0, optimized `hugio.hasBytesWriter`, and updated dependencies including Chroma, Go tools, and image libraries.
+- **New Features & Dependencies**: Added Pandoc citation support; upgraded dependencies including Chroma (v0.164.0) with dark/light mode support, `github.com/evanw/esbuild` (v0.28.1), and multiple Go module updates (e.g., `golang.org/x/tools` v0.47.0).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-21T03:50:11.870930+05:30
+- Published: 2026-07-21T09:21:29.983036+05:30
 
 ## Related Tags
 

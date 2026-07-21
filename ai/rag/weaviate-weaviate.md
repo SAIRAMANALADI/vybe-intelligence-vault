@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/weaviate/weaviate
-collected_at: '2026-07-21T03:51:13.561630+05:30'
+collected_at: '2026-07-21T09:22:27.831978+05:30'
 published_at: '2026-07-20T22:21:09Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2016-03-30T15:03:17Z'
 pushed_at: '2026-07-20T21:36:03Z'
 resource_id: github:weaviate/weaviate
-first_seen: '2026-07-21T03:51:13.561630+05:30'
-last_seen: '2026-07-21T03:51:13.561630+05:30'
-last_checked: '2026-07-21T03:51:13.561630+05:30'
+first_seen: '2026-07-21T09:22:27.831978+05:30'
+last_seen: '2026-07-21T09:22:27.831978+05:30'
+last_checked: '2026-07-21T09:22:27.831978+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Vector & Structured Data Storage**: Weaviate combines object storage with vector embeddings, enabling both vector similarity search and structured filtering in a single system, optimized for cloud-native scalability and fault tolerance.
+- **Hybrid Vector & Structured Data Storage**: Weaviate is an open-source, cloud-native vector database written in Go that natively stores both objects (structured data) and their corresponding high-dimensional vectors, enabling seamless integration of vector similarity search with traditional filtering (e.g., boolean, numeric, or geo-spatial queries).
 
-- **Advanced Search Capabilities**: Supports approximate nearest neighbor (ANN) search via HNSW, hybrid search (vector + BM25), and generative search (RAG), with gRPC-based APIs for low-latency retrieval.
+- **Scalable Approximate Nearest Neighbor (ANN) Search**: Implements **HNSW** (Hierarchical Navigable Small World) indexing for efficient approximate nearest neighbor search, supporting **gRPC** for low-latency, high-throughput vector operations, and optimized for **hybrid search** (combining semantic + keyword-based retrieval).
 
-- **MLOps & Semantic Search Integration**: Designed for neural search pipelines, recommender systems, and semantic search engines, with built-in support for image search and multimodal embeddings.
+- **MLOps & Generative Search Integration**: Supports **semantic search**, **recommender systems**, and **generative search** (e.g., RAG pipelines) with built-in modules for **image search**, **neural search**, and **hybrid retrieval**, while ensuring fault tolerance and scalability via cloud-native architecture.
 
 ## Why It Matters
 

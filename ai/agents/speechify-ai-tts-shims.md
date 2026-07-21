@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Speechify-AI/tts-shims
-collected_at: '2026-07-21T03:53:15.698614+05:30'
+collected_at: '2026-07-21T09:21:24.774994+05:30'
 published_at: '2026-07-13T18:28:02Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-07-03T11:20:06Z'
 pushed_at: '2026-07-13T18:27:45Z'
 resource_id: github:speechify-ai/tts-shims
-first_seen: '2026-07-21T03:53:15.698614+05:30'
-last_seen: '2026-07-21T03:53:15.698614+05:30'
-last_checked: '2026-07-21T03:53:15.698614+05:30'
+first_seen: '2026-07-21T09:21:24.774994+05:30'
+last_seen: '2026-07-21T09:21:24.774994+05:30'
+last_checked: '2026-07-21T09:21:24.774994+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Provider-Agnostic TTS Shim Layer**: Go-based proxy engine that translates provider-specific TTS requests (OpenAI, ElevenLabs, Cartesia, AWS Polly, etc.) into unified Speechify API calls, enabling BYOC (Bring Your Own Codec) voice-agent integration.
-
-- **Modular Binary Architecture**: Single Go engine with per-provider binaries, ensuring minimal overhead while maintaining provider-specific compatibility and reducing maintenance complexity.
-
-- **Multi-Provider Support**: Supports 13 TTS providers (including Google, Deepgram, and Hume) with last update timestamp of July 13, 2026, ensuring up-to-date provider integration for voice-agent deployments.
+- **Provider-compatible TTS shims**: Go-based proxy layer enabling seamless integration with multiple TTS providers (OpenAI, ElevenLabs, Cartesia, AWS Polly, etc.) via a single Speechify API backend.
+- **Modular architecture**: One shared Go engine with individual binaries per provider, designed for voice-agent Bring Your Own Code (BYOC) deployments.
+- **Minimalist repository**: Single-starred, zero-fork project with last update timestamped 2026-07-13, focused on lightweight TTS shimming for voice-AI applications.
 
 ## Why It Matters
 

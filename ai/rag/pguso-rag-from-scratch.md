@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-07-21T03:44:47.502599+05:30'
+collected_at: '2026-07-21T09:15:12.668701+05:30'
 published_at: '2026-07-20T02:18:09Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - javascript
 - meta-ai
 - models
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-07-21T03:44:47.502599+05:30'
-last_seen: '2026-07-21T03:44:47.502599+05:30'
-last_checked: '2026-07-21T03:44:47.502599+05:30'
+first_seen: '2026-07-21T09:15:12.668701+05:30'
+last_seen: '2026-07-21T09:15:12.668701+05:30'
+last_checked: '2026-07-21T09:15:12.668701+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using local LLMs (via `node-llama-cpp`), avoiding black-box abstractions to emphasize embeddings, vector search, retrieval, and context-augmented generation.
+- **Educational RAG Implementation**: Provides a step-by-step JavaScript-based tutorial for building Retrieval-Augmented Generation (RAG) systems from scratch using local LLMs (via `node-llama-cpp`), emphasizing transparency over black-box solutions.
 
-- **JavaScript-Based Pipeline**: Built entirely in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference, with a focus on modularity for embeddings, retrieval, and generation components.
+- **Core Technical Components**: Covers embeddings generation, vector search (likely using cosine similarity or similar), retrieval mechanisms, and context-augmented generation, all implemented without proprietary abstractions.
 
-- **Open-Source Tutorial**: Provides a hands-on, step-by-step guide for implementing RAG systems, targeting developers interested in understanding the underlying mechanics of agents, chatbots, and retrieval pipelines.
+- **Node.js-Centric Design**: Leverages Node.js and `node-llama-cpp` for local LLM inference, targeting developers familiar with JavaScript/TypeScript for hands-on RAG pipeline construction.
 
 ## Why It Matters
 

@@ -1,13 +1,24 @@
 ---
-title: "yasdelayu/agent-x-cc"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "CLI", "Subprocess Management", "HTTP Clients", "Environment Variables"]
+title: yasdelayu/agent-x-cc
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- Subprocess Management
+- HTTP Clients
+- Environment Variables
 quality_score: 8
 rag_relevance: 7
-tags: ["multi-agent", "agent abstraction", "vendor lock-in", "coding agents", "CLI integration"]
-source: "https://github.com/yasdelayu/agent-x-cc"
-discovered_at: "2026-07-18T08:09:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- multi-agent
+- agent abstraction
+- vendor lock-in
+- coding agents
+- CLI integration
+source: https://github.com/yasdelayu/agent-x-cc
+discovered_at: '2026-07-18T08:09:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

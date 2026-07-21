@@ -1,13 +1,25 @@
 ---
-title: "inflowpayai/inflow-cli"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "pnpm", "Turborepo", "MCP (Model Context Protocol)", "x402", "MPP (Machine Payments Protocol)"]
+title: inflowpayai/inflow-cli
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- pnpm
+- Turborepo
+- MCP (Model Context Protocol)
+- x402
+- MPP (Machine Payments Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["payments", "agentic", "CLI", "MCP server", "x402 protocol"]
-source: "https://github.com/inflowpayai/inflow-cli"
-discovered_at: "2026-07-20T03:52:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- payments
+- agentic
+- CLI
+- MCP server
+- x402 protocol
+source: https://github.com/inflowpayai/inflow-cli
+discovered_at: '2026-07-20T03:52:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,28 @@
 ---
-title: "bekirdag/tnl-intelligence"
-category: "Tooling"
-tech_stack: ["TypeScript", "Python", "Node.js", "Docker", "MCP (Model Context Protocol)", "REST API", "CLI", "OAuth", "Webhooks", "OpenAPI"]
+title: bekirdag/tnl-intelligence
+category: daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Python
+- Node.js
+- Docker
+- MCP (Model Context Protocol)
+- REST API
+- CLI
+- OAuth
+- Webhooks
+- OpenAPI
 quality_score: 9
 rag_relevance: 8
-tags: ["event intelligence", "AI agents", "quantitative research", "MCP server", "structured data"]
-source: "https://github.com/bekirdag/tnl-intelligence"
-discovered_at: "2026-07-20T18:00:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- event intelligence
+- AI agents
+- quantitative research
+- MCP server
+- structured data
+source: https://github.com/bekirdag/tnl-intelligence
+discovered_at: '2026-07-20T18:00:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

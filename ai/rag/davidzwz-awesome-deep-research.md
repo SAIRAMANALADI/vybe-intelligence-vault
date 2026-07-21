@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-07-21T03:46:12.550439+05:30'
+collected_at: '2026-07-21T09:16:37.687405+05:30'
 published_at: '2026-07-18T13:05:31Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - hackernews
+- paper
 - rag
 - unknown
 stars: 807
@@ -20,9 +22,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-07-12T03:40:45Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-07-21T03:46:12.550439+05:30'
-last_seen: '2026-07-21T03:46:12.550439+05:30'
-last_checked: '2026-07-21T03:46:12.550439+05:30'
+first_seen: '2026-07-21T09:16:37.687405+05:30'
+last_seen: '2026-07-21T09:16:37.687405+05:30'
+last_checked: '2026-07-21T09:16:37.687405+05:30'
 health_score: 100
 ---
 
@@ -30,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research, focusing on LLM-driven reasoning agents, agentic RAG, and search agents, with emphasis on ACL 2026 KnowFM contributions.
-
-- **Technical Scope**: Encompasses multi-agent systems, advanced retrieval-augmented generation (RAG), and reasoning architectures for autonomous deep research tasks.
-
-- **Dynamic Repository**: Actively maintained (last updated July 2026) with 807 stars and 64 forks, serving as a community-driven reference for deep research methodologies in AI.
+- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research, including papers, tools, and frameworks for autonomous reasoning agents (e.g., LLM-based systems with RAG and search capabilities).
+- **ACL 2026 KnowFM Focus**: Highlights contributions from the *Knowledge Foundation Models (KnowFM)* track at ACL 2026, emphasizing multi-agent collaboration, reasoning, and long-form knowledge synthesis.
+- **Technical Breadth**: Covers topics like *agentic RAG*, *deep research agents*, and *reasoning architectures*, with links to implementations, benchmarks, and evaluation methodologies for autonomous knowledge discovery.
 
 ## Why It Matters
 

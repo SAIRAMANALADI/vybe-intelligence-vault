@@ -3,9 +3,9 @@ title: Firebase | Google's Mobile and Web App Development Platform
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: http://firebase.google.com
-published_at: '2026-07-21T03:57:02.563222+05:30'
-collected_at: '2026-07-21T03:57:02.563236+05:30'
+source_url: https://firebase.google.com
+published_at: '2026-07-21T09:23:18.199368+05:30'
+collected_at: '2026-07-21T09:23:18.199376+05:30'
 tags:
 - agents
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:firebase-google-s-mobile-and-web-app-development-p
-first_seen: '2026-07-21T03:57:02.563236+05:30'
-last_seen: '2026-07-21T03:57:02.563236+05:30'
-last_checked: '2026-07-21T03:57:02.563236+05:30'
+first_seen: '2026-07-21T09:23:18.199376+05:30'
+last_seen: '2026-07-21T09:23:18.199376+05:30'
+last_checked: '2026-07-21T09:23:18.199376+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified Backend Services**: Firebase provides a suite of managed backend services (e.g., Firestore, Realtime Database, Authentication, Cloud Functions) for scalable app development, with cross-platform SDKs for iOS, Android, Web, Flutter, Unity, and C++.
+- **Cross-platform SDKs**: Firebase provides unified SDKs for iOS, Android, Web, Flutter, Unity, and C++, enabling seamless app development across multiple platforms with shared backend infrastructure.
 
-- **AI & Generative Integration**: Supports AI-powered features via Firebase AI Logic, Agent Skills, and integrations with Google’s Gemini, enabling intelligent app experiences (e.g., onboarding personalization, dynamic content generation).
+- **AI/ML Integration**: Firebase AI Logic and Agent Skills enable generative AI capabilities (e.g., Gemini integration), while pre-built extensions (e.g., Algolia search, Stripe payments) automate complex workflows for AI-driven apps.
 
-- **Monitoring & Extensibility**: Includes production-grade tools (Crashlytics, Performance Monitoring, Remote Config) and pre-built Extensions (e.g., Stripe payments, Algolia search) to automate workflows and optimize app performance.
+- **Backend Services**: Offers managed infrastructure including Firestore (NoSQL), Realtime Database, Authentication, Cloud Functions, Hosting, and Crashlytics, with tools like Remote Config for dynamic app optimization and A/B testing.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T03:57:02.563222+05:30
+- Published: 2026-07-21T09:23:18.199368+05:30
 
 ## Related Tags
 
@@ -54,4 +54,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: http://firebase.google.com
+Original source: https://firebase.google.com

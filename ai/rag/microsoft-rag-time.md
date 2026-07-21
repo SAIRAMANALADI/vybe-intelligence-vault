@@ -4,16 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-07-20T20:05:13.276205+05:30'
+collected_at: '2026-07-21T09:15:02.667744+05:30'
 published_at: '2026-07-18T00:39:16Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
 - models
 - openai
 - rag
-- workflows
+- reddit
 stars: 894
 language: Jupyter Notebook
 status: active
@@ -22,9 +23,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-07-20T20:05:13.276205+05:30'
-last_seen: '2026-07-20T20:05:13.276205+05:30'
-last_checked: '2026-07-20T20:05:13.276205+05:30'
+first_seen: '2026-07-21T09:15:02.667744+05:30'
+last_seen: '2026-07-21T09:15:02.667744+05:30'
+last_checked: '2026-07-21T09:15:02.667744+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **5-week structured curriculum** covering advanced RAG techniques including hybrid search (vector + keyword), binary/scalar quantization, and HNSW indexing for efficient retrieval in Azure environments.
-
-- **Hands-on implementation** with Jupyter Notebooks, integrating OpenAI LLMs, Matryoshka representation learning, and responsible AI practices for multimodal RAG pipelines.
-
-- **Optimized for production** with VS Code tooling, focusing on scalable retrieval architectures (e.g., scalar quantization for storage efficiency) and Azure-native deployment workflows.
+- **5-week structured curriculum** covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like **binary/scalar quantization**, **Matryoshka representation learning**, and **HNSW indexing** for efficient retrieval.
+- **Hands-on implementation** using **Jupyter Notebooks**, **Azure OpenAI**, and **Visual Studio Code**, with modules on **responsible AI**, **multimodal RAG**, and **LLM integration**.
+- **Optimized search pipelines** demonstrated, including **scalar/binary quantization** for storage efficiency and **HNSW** for low-latency vector search, with benchmarks for performance.
 
 ## Why It Matters
 

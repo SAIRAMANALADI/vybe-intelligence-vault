@@ -1,13 +1,24 @@
 ---
-title: "tai42ai/tai-dynamic-postgres-mcp"
-category: "Tooling"
-tech_stack: ["Python", "PostgreSQL", "FastMCP", "Pydantic", "pgvector", "Docker"]
+title: tai42ai/tai-dynamic-postgres-mcp
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- PostgreSQL
+- FastMCP
+- Pydantic
+- pgvector
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["PostgreSQL", "MCP", "Agent Tools", "Database Access", "CRUD"]
-source: "https://github.com/tai42ai/tai-dynamic-postgres-mcp"
-discovered_at: "2026-07-20T12:22:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- PostgreSQL
+- MCP
+- Agent Tools
+- Database Access
+- CRUD
+source: https://github.com/tai42ai/tai-dynamic-postgres-mcp
+discovered_at: '2026-07-20T12:22:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

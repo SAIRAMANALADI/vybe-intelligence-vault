@@ -1,13 +1,23 @@
 ---
-title: "swoiow/python-pro-guide"
-category: "Tooling"
-tech_stack: ["Python", "PyInstaller", "GitHub Actions", "CI/CD", "MCP (Model Context Protocol)"]
+title: swoiow/python-pro-guide
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- PyInstaller
+- GitHub Actions
+- CI/CD
+- MCP (Model Context Protocol)
 quality_score: 7
 rag_relevance: 8
-tags: ["AI-native development", "build orchestration", "agentic systems", "CI/CD automation", "Python best practices"]
-source: "https://github.com/swoiow/python-pro-guide"
-discovered_at: "2026-07-20T03:37:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI-native development
+- build orchestration
+- agentic systems
+- CI/CD automation
+- Python best practices
+source: https://github.com/swoiow/python-pro-guide
+discovered_at: '2026-07-20T03:37:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -2,7 +2,7 @@
 title: Android Mobile App Developer Tools - Android Developers
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: http://developer.android.com/index.html
+source_url: https://developer.android.com
 resource_id: blog:android-mobile-app-developer-tools-android-develop
 local_vault_path: ai/rag/android-mobile-app-developer-tools-android-develop.md
 quality_score: 70
@@ -37,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Android Bench 2026 Update**: Introduces updated LLM benchmarking methodology for Android development, includes new models, and invites community contributions to the benchmark via [Android Bench Leaderboard](https://developer.android.com/bench).
-
-- **Android 17 (API 37) Release**: Source code live on AOSP, rolling out to Pixel devices; highlights top 5 updates developers must adopt for compatibility and new features.
-
-- **Android Studio Quail 2026.1.2**: Latest SDK release with updated licen
+- **Android Bench 2026 Update**: Introduces an updated LLM benchmarking methodology for Android development, including new models and community contributions; leaderboard available at [developer.android.com/bench](https://developer.android.com/bench).
+- **Android 17 & XR Platform**: Android 17 (API 37) source code released on AOSP with Pixel rollout; Android XR expands engine support and resources for immersive app development.
+- **Android Studio Quail 2026.1.2**: Latest SDK release governed by
 
 ## Use Cases
 
@@ -51,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: http://developer.android.com/index.html
+Original source URL: https://developer.android.com
 
 ## Local Vault File
 

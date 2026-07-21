@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-07-21T03:46:07.619856+05:30'
+collected_at: '2026-07-21T09:16:32.721192+05:30'
 published_at: '2026-07-13T02:17:29Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-07-21T03:46:07.619856+05:30'
-last_seen: '2026-07-21T03:46:07.619856+05:30'
-last_checked: '2026-07-21T03:46:07.619856+05:30'
+first_seen: '2026-07-21T09:16:32.721192+05:30'
+last_seen: '2026-07-21T09:16:32.721192+05:30'
+last_checked: '2026-07-21T09:16:32.721192+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Proposes a novel RAG framework that linearizes graph structures into sequences for efficient retrieval and augmentation in large-scale corpora, optimizing LLM performance by leveraging linear graph traversal.
+- Introduces **LinearRAG**, a novel graph-based RAG framework for large-scale corpora, optimizing retrieval efficiency via linear graph traversal instead of traditional hierarchical or dense retrieval methods.
 
-- **Scalability & Efficiency**: Introduces a linear-time graph traversal mechanism to handle large-scale corpora, reducing computational overhead while maintaining retrieval accuracy compared to traditional graph-based RAG methods.
+- Leverages **linear graph structures** to enable scalable, sublinear-time retrieval, reducing computational overhead while maintaining retrieval quality for LLMs.
 
-- **Implementation**: Provides an open-source Python implementation with modular components for graph linearization, retrieval, and integration with LLMs, supporting extensibility for custom graph structures and retrieval strategies.
+- Demonstrates **state-of-the-art performance** on ICLR 2026 benchmarks, outperforming traditional RAG baselines in both accuracy and latency for document-grounded generation tasks.
 
 ## Why It Matters
 

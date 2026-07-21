@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-07-21T03:45:02.559136+05:30'
-published_at: '2026-07-20T15:44:49Z'
+collected_at: '2026-07-21T09:15:27.671443+05:30'
+published_at: '2026-07-21T03:04:16Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 25571
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-07-14T16:53:59Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-07-21T03:45:02.559136+05:30'
-last_seen: '2026-07-21T03:45:02.559136+05:30'
-last_checked: '2026-07-21T03:45:02.559136+05:30'
+first_seen: '2026-07-21T09:15:27.671443+05:30'
+last_seen: '2026-07-21T09:15:27.671443+05:30'
+last_checked: '2026-07-21T09:15:27.671443+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational interactions, leveraging LLMs for contextual query responses.
-
-- **Modular Python Framework**: Built with Python, offering extensible components for document ingestion, retrieval, and LLM integration, optimized for scalability and customization.
-
-- **Open-Source Deployment**: Provides a fully open-source solution with active community contributions, supporting self-hosted or cloud-based document processing workflows.
+*   Implements a Retrieval-Augmented Generation (RAG) architecture for document-based conversational AI.
+*   Developed in Python, providing a chatbot interface for interactive querying of documents.
+*   Leverages Large Language Models (LLMs) to enable semantic understanding and response generation from user-provided textual data.
 
 ## Why It Matters
 
@@ -46,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 2133
 - Language: Python
 - Topics: chatbot, llms, open-source, rag
-- Last Updated: 2026-07-20T15:44:49Z
+- Last Updated: 2026-07-21T03:04:16Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-03-25T08:16:42Z

@@ -1,13 +1,27 @@
 ---
-title: "notsointresting/mnemex"
-category: "Orchestrator"
-tech_stack: ["Python", "SQLite", "FTS5 (BM25)", "FastMCP", "MCP (Model Context Protocol)", "OpenAI Responses API (optional)", "sqlite-vec (optional)", "Ruff", "Pytest"]
+title: notsointresting/mnemex
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- SQLite
+- FTS5 (BM25)
+- FastMCP
+- MCP (Model Context Protocol)
+- OpenAI Responses API (optional)
+- sqlite-vec (optional)
+- Ruff
+- Pytest
 quality_score: 9
 rag_relevance: 8
-tags: ["anchored memory", "decision tracking", "code symbol indexing", "deterministic constraints", "MCP server"]
-source: "https://github.com/notsointresting/mnemex"
-discovered_at: "2026-07-19T05:51:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- anchored memory
+- decision tracking
+- code symbol indexing
+- deterministic constraints
+- MCP server
+source: https://github.com/notsointresting/mnemex
+discovered_at: '2026-07-19T05:51:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

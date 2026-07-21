@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-07-21T03:45:52.548468+05:30'
+collected_at: '2026-07-21T09:16:17.701008+05:30'
 published_at: '2026-07-20T15:03:06Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - python
 - rag
 - scripts
-- workflows
 stars: 255
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-07-20T15:01:31Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-07-21T03:45:52.548468+05:30'
-last_seen: '2026-07-21T03:45:52.548468+05:30'
-last_checked: '2026-07-21T03:45:52.548468+05:30'
+first_seen: '2026-07-21T09:16:17.701008+05:30'
+last_seen: '2026-07-21T09:16:17.701008+05:30'
+last_checked: '2026-07-21T09:16:17.701008+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous SOC agent leveraging OpenSearch/Elasticsearch for real-time data monitoring, with modular design for extensibility in cybersecurity workflows.
+- **Modular SOC Agent**: Python-based autonomous agent for Security Operations Centers (SOCs), integrating OpenSearch/Elasticsearch data monitoring with Retrieval-Augmented Generation (RAG) for behavioral memory and real-time anomaly validation using LLMs.
 
-- **RAG-Powered Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to construct and query contextual behavioral memory for anomaly validation, enhancing threat detection accuracy.
+- **Skill-Based Architecture**: Implements modular, skill-based components for threat detection, hunting, and SOC automation, leveraging LLM-driven reasoning to enhance anomaly validation and contextual decision-making.
 
-- **LLM-Driven Anomaly Validation**: Uses Large Language Models (LLMs) to dynamically assess and validate real-time anomalies, integrating AI agents for autonomous threat hunting and SOC automation.
+- **RAG-Enhanced Memory**: Builds dynamic, RAG-based behavioral memory from monitored data streams, enabling contextual threat analysis and adaptive response generation for autonomous SOC operations.
 
 ## Why It Matters
 

@@ -1,13 +1,24 @@
 ---
-title: "furkanyesildag/llm-uav-pilot-assistant"
-category: "Orchestrator"
-tech_stack: ["Python 3.10+", "LLM (DeepSeek, Hermes 3, Ollama)", "Flask (web UI)", "JSONL/CSV logging", "Pytest (optional for unit tests)", "Ollama (local inference)"]
+title: furkanyesildag/llm-uav-pilot-assistant
+category: daily-digests/2026-07-21
+tech_stack:
+- Python 3.10+
+- LLM (DeepSeek, Hermes 3, Ollama)
+- Flask (web UI)
+- JSONL/CSV logging
+- Pytest (optional for unit tests)
+- Ollama (local inference)
 quality_score: 9
 rag_relevance: 7
-tags: ["UAV control", "LLM safety layer", "natural language to action", "deterministic fallback", "zero-dependency core"]
-source: "https://github.com/furkanyesildag/llm-uav-pilot-assistant"
-discovered_at: "2026-07-20T15:10:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- UAV control
+- LLM safety layer
+- natural language to action
+- deterministic fallback
+- zero-dependency core
+source: https://github.com/furkanyesildag/llm-uav-pilot-assistant
+discovered_at: '2026-07-20T15:10:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

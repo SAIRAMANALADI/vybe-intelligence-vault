@@ -1,13 +1,28 @@
 ---
-title: "microsoft/entrabot"
-category: "Agent Framework"
-tech_stack: ["Python", "Microsoft Entra ID", "Microsoft Graph API", "FastMCP", "Microsoft Agent 365", "Azure Blob Storage", "TPM/Keychain/Secret Service (OS keystores)", "MSAL", "Pytest", "Ruff"]
+title: microsoft/entrabot
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Microsoft Entra ID
+- Microsoft Graph API
+- FastMCP
+- Microsoft Agent 365
+- Azure Blob Storage
+- TPM/Keychain/Secret Service (OS keystores)
+- MSAL
+- Pytest
+- Ruff
 quality_score: 9
 rag_relevance: 10
-tags: ["Microsoft 365", "Agent Identity", "MCP Server", "Entra ID", "Autonomous Authentication"]
-source: "https://github.com/microsoft/entrabot"
-discovered_at: "2026-07-12T19:02:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Microsoft 365
+- Agent Identity
+- MCP Server
+- Entra ID
+- Autonomous Authentication
+source: https://github.com/microsoft/entrabot
+discovered_at: '2026-07-12T19:02:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

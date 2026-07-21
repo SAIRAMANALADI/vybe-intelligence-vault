@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sickn33/agentic-awesome-skills
-collected_at: '2026-07-20T20:08:48.458480+05:30'
-published_at: '2026-07-20T14:30:22Z'
+collected_at: '2026-07-21T09:18:37.797374+05:30'
+published_at: '2026-07-21T02:42:49Z'
 tags:
 - agents
 - anthropic
@@ -13,17 +13,17 @@ tags:
 - python
 - scripts
 - workflows
-stars: 43629
+stars: 43650
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2026-01-14T17:48:09Z'
-pushed_at: '2026-07-20T09:07:42Z'
+pushed_at: '2026-07-20T20:09:49Z'
 resource_id: github:sickn33/agentic-awesome-skills
-first_seen: '2026-07-20T20:08:48.458480+05:30'
-last_seen: '2026-07-20T20:08:48.458480+05:30'
-last_checked: '2026-07-20T20:08:48.458480+05:30'
+first_seen: '2026-07-21T09:18:37.797374+05:30'
+last_seen: '2026-07-21T09:18:37.797374+05:30'
+last_checked: '2026-07-21T09:18:37.797374+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Agent-First Control Plane**: AAS Core provides local discovery, selection, validation, and planning for AI agents using 1,969+ agentic skills, featuring CLI, local MCP, catalog, plugins, and Workbench.
-- **Multi-Tool Integration**: Supports agentic workflows across tools like Claude Code, Cursor, Gemini CLI, and Codex CLI, enabling AI-driven development and automation.
-- **Python-Based Skill Library**: Repository hosts a curated collection of AI agent skills (`agent-skills`, `antigravity-skills`, etc.) with 43,629 stars and 6,462 forks, last updated July 2026.
+- **Agent-First Control Plane**: Local MCP-based system enabling autonomous agent discovery, selection, validation, and planning across 1,969+ agentic skills via CLI, Workbench, and plugins.
+- **Multi-Tool Integration**: Supports AI coding workflows (Claude Code, Cursor, Codex-CLI), MCP, and agent frameworks (Gemini-CLI, Kiro) with a structured skill catalog for extensibility.
+- **Python-Based Architecture**: Core implementation in Python with Antigravity-themed skill libraries, last updated July 2026, emphasizing developer tooling and AI-driven automation.
 
 ## Why It Matters
 
@@ -42,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: sickn33
-- Stars: 43629
-- Forks: 6462
+- Stars: 43650
+- Forks: 6463
 - Language: Python
 - Topics: agent-skills, agentic-skills, ai-agent-skills, ai-agents, ai-coding, ai-workflows, antigravity, antigravity-skills, claude-code, claude-code-skills, codex-cli, codex-skills, cursor, cursor-skills, developer-tools, gemini-cli, gemini-skills, kiro, mcp, skill-library
-- Last Updated: 2026-07-20T14:30:22Z
+- Last Updated: 2026-07-21T02:42:49Z
 - License: MIT
 - Archived: No
 - Created At: 2026-01-14T17:48:09Z
-- Pushed At: 2026-07-20T09:07:42Z
+- Pushed At: 2026-07-20T20:09:49Z
 
 ## Possible Use Cases
 

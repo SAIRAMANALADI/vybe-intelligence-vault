@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-07-21T03:44:27.526270+05:30'
+collected_at: '2026-07-21T09:14:52.600448+05:30'
 published_at: '2026-07-20T20:54:26Z'
 tags:
 - benchmark
 - dataset
 - github-repo
 - hackernews
-- models
 - python
 - rag
 stars: 260
@@ -22,9 +21,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-07-21T03:44:27.526270+05:30'
-last_seen: '2026-07-21T03:44:27.526270+05:30'
-last_checked: '2026-07-21T03:44:27.526270+05:30'
+first_seen: '2026-07-21T09:14:52.600448+05:30'
+last_seen: '2026-07-21T09:14:52.600448+05:30'
+last_checked: '2026-07-21T09:14:52.600448+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and categorizing hallucinations in generated outputs.
-
-- **Technical Composition**: Contains annotated hallucination data (e.g., factual inaccuracies, unsupported claims) across diverse domains, structured for fine-tuning and benchmarking RAG systems against hallucination risks.
-
-- **Implementation**: Provides Python-based tools for dataset access, preprocessing, and integration with RAG pipelines, enabling reproducible hallucination detection and mitigation research.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and mitigating factual inaccuracies.
+- **Technical Scope**: Provides a Python-based framework for generating, annotating, and benchmarking hallucinations in RAG systems, enabling systematic analysis of model reliability.
+- **Repository Details**: Hosted on GitHub with 260 stars and 34 forks, last updated on July 20, 2026, focusing on open-source contributions to trustworthy AI research.
 
 ## Why It Matters
 
@@ -46,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: ParticleMedia
 - Stars: 260
-- Forks: 32
+- Forks: 34
 - Language: Python
 - Topics: None
 - Last Updated: 2026-07-20T20:54:26Z

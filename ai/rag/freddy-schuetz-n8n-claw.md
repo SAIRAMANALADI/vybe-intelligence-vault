@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-07-21T03:47:52.643116+05:30'
+collected_at: '2026-07-21T09:18:17.751683+05:30'
 published_at: '2026-07-19T16:45:01Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
+- scripts
 - shell
 - workflows
 stars: 542
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-07-17T20:06:51Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-07-21T03:47:52.643116+05:30'
-last_seen: '2026-07-21T03:47:52.643116+05:30'
-last_checked: '2026-07-21T03:47:52.643116+05:30'
+first_seen: '2026-07-21T09:18:17.751683+05:30'
+last_seen: '2026-07-21T09:18:17.751683+05:30'
+last_checked: '2026-07-21T09:18:17.751683+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging adaptive Retrieval-Augmented Generation (RAG) for dynamic memory management and self-hosted deployment via a single setup script.
-
-- **Core Features**: Supports Skills via Model Context Protocol (MCP) templates, Expert Agents with hierarchical sub-agent delegation, proactive task orchestration, and media understanding capabilities, integrating tools like Crawl4AI, SearXNG, and Supabase.
-
-- **Technical Stack**: Shell-based repository with dependencies on n8n, MCP, Supabase, SearXNG, and Crawl4AI, optimized for modular AI agent development and scalable autonomous workflows.
+- **Architecture**: OpenClaw-inspired autonomous AI agent implemented entirely in `n8n`, leveraging adaptive RAG-powered memory, MCP templates for Skills, and Expert Agents with delegated sub-agents for hierarchical task execution.
+- **Capabilities**: Supports proactive task management, media understanding, and self-hosted deployment via a single setup script; integrates with `Crawl4AI` for scraping and `SearXNG` for search engine functionality.
+- **Infrastructure**: Built with `Supabase` for backend storage, utilizes `Model Context Protocol (MCP)` for skill templates, and is optimized for modular AI agent frameworks with shell-based automation.
 
 ## Why It Matters
 

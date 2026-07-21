@@ -1,13 +1,23 @@
 ---
-title: "ribbons-digital/pi-advisor"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Pi Framework", "AI Model Integration", "TUI Configuration"]
+title: ribbons-digital/pi-advisor
+category: daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Node.js
+- Pi Framework
+- AI Model Integration
+- TUI Configuration
 quality_score: 8
 rag_relevance: 7
-tags: ["secondary review", "agent oversight", "code quality", "safety checks", "Pi integration"]
-source: "https://github.com/ribbons-digital/pi-advisor"
-discovered_at: "2026-07-19T08:13:32Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- secondary review
+- agent oversight
+- code quality
+- safety checks
+- Pi integration
+source: https://github.com/ribbons-digital/pi-advisor
+discovered_at: '2026-07-19T08:13:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

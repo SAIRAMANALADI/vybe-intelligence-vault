@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-07-21T03:45:47.579578+05:30'
+collected_at: '2026-07-21T09:16:12.729873+05:30'
 published_at: '2026-07-19T14:44:32Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - rag
 - unknown
 stars: 469
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-07-21T03:45:47.579578+05:30'
-last_seen: '2026-07-21T03:45:47.579578+05:30'
-last_checked: '2026-07-21T03:45:47.579578+05:30'
+first_seen: '2026-07-21T09:16:12.729873+05:30'
+last_seen: '2026-07-21T09:16:12.729873+05:30'
+last_checked: '2026-07-21T09:16:12.729873+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary company documents, enabling standardized assessment of enterprise RAG performance.
+- **Purpose**: Provides a benchmarking framework and synthetic dataset for evaluating Retrieval-Augmented Generation (RAG) systems on enterprise internal documents, focusing on real-world applicability.
 
-- **Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based question-answering metrics tailored for internal knowledge bases.
+- **Key Features**: Includes tools for semantic search, question-answering, and LLM evaluation, with support for Python-based synthetic data generation and enterprise-specific use cases.
 
-- **Technical Scope**: Supports Python-based RAG evaluation pipelines, covering retrieval quality, generative AI accuracy, and enterprise-specific search challenges.
+- **Metrics & Scope**: Enables assessment of RAG pipelines across retrieval quality, generative performance, and enterprise-specific evaluation criteria (e.g., knowledge base integration, internal document relevance).
 
 ## Why It Matters
 

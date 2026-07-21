@@ -3,7 +3,7 @@ title: Welcome to My Activity
 archive_category: frontend-ai-ui
 source_category: ai/resources
 source_url: https://myactivity.google.com/?utm_source=pp
-resource_id: blog:welcome-to-my-activity
+resource_id: blog:welcome-to-my-activity-f23263ff
 local_vault_path: ai/resources/welcome-to-my-activity.md
 quality_score: 70
 archive_score: 72

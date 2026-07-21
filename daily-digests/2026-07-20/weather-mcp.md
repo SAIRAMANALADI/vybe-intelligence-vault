@@ -1,13 +1,25 @@
 ---
-title: "weather-mcp/weather-mcp"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "NOAA API", "Open-Meteo API", "GitHub Actions", "Vitest"]
+title: weather-mcp/weather-mcp
+category: daily-digests/2026-07-20
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- NOAA API
+- Open-Meteo API
+- GitHub Actions
+- Vitest
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "weather data", "real-time API", "AI assistant integration", "open-source"]
-source: "https://github.com/weather-mcp/weather-mcp"
-discovered_at: "2026-07-17T18:05:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- weather data
+- real-time API
+- AI assistant integration
+- open-source
+source: https://github.com/weather-mcp/weather-mcp
+discovered_at: '2026-07-17T18:05:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

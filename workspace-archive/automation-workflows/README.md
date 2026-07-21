@@ -13,8 +13,8 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (framework - ESSENTIAL Tier)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (mcp-server - ESSENTIAL Tier)
 - [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
-- [LlamaIndex · GitHub](https://github.com/run-llama) (framework - ESSENTIAL Tier)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page-----dba899ae0355---------------------------------------) (framework - ESSENTIAL Tier)
+- [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (template - ESSENTIAL Tier)
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (framework - ESSENTIAL Tier)
 - [explosion/spaCy](https://github.com/explosion/spaCy) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
@@ -25,7 +25,7 @@ https://github.com/n8n-io/n8n (n8n)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs)
 - [langgenius/dify](https://github.com/langgenius/dify)
-- [LlamaIndex · GitHub](https://github.com/run-llama)
+- [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-07-21 04:01 IST*
+*Last updated: 2026-07-21 09:31 IST*

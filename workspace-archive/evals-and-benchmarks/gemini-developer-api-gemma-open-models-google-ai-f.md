@@ -3,7 +3,7 @@ title: Gemini Developer API | Gemma open models | Google AI for Developers
 archive_category: evals-and-benchmarks
 source_category: ai/rag
 source_url: http://ai.google.dev/
-resource_id: blog:gemini-developer-api-gemma-open-models-google-ai-f
+resource_id: blog:gemini-developer-api-gemma-open-models-google-ai-f-83690972
 local_vault_path: ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md
 quality_score: 70
 archive_score: 74

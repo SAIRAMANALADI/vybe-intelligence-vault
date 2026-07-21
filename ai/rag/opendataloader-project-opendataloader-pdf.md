@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/opendataloader-project/opendataloader-pdf
-collected_at: '2026-07-21T03:45:02.539146+05:30'
-published_at: '2026-07-20T22:14:33Z'
+collected_at: '2026-07-21T09:15:27.646596+05:30'
+published_at: '2026-07-21T03:43:18Z'
 tags:
 - github-repo
 - java
 - rag
-stars: 27529
+- workflows
+stars: 27553
 language: Java
 status: active
 license: Apache-2.0
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-05-13T05:48:02Z'
 pushed_at: '2026-07-20T21:33:56Z'
 resource_id: github:opendataloader-project/opendataloader-pdf
-first_seen: '2026-07-21T03:45:02.539146+05:30'
-last_seen: '2026-07-21T03:45:02.539146+05:30'
-last_checked: '2026-07-21T03:45:02.539146+05:30'
+first_seen: '2026-07-21T09:15:27.646596+05:30'
+last_seen: '2026-07-21T09:15:27.646596+05:30'
+last_checked: '2026-07-21T09:15:27.646596+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Java-based PDF parser** designed for AI-ready data extraction, supporting accessibility compliance (PDF/UA, WCAG) and automated tagging for screen readers.
-- **Multi-format output** including HTML, JSON, Markdown, and bounding-box annotations, with OCR support for scanned PDFs and structured table extraction.
-- **Integrates with RAG pipelines** via modular architecture, enabling document parsing for AI applications while preserving semantic structure and metadata.
+*   Java-based PDF parser designed for automated accessibility (a11y, EAA) and PDF/UA compliance, generating AI-ready structured data.
+*   Performs comprehensive document parsing, including OCR recognition, bounding box extraction, and table identification.
+*   Outputs extracted PDF content into HTML, JSON, and Markdown formats, optimized for RAG systems and data extraction workflows.
 
 ## Why It Matters
 
@@ -39,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: opendataloader-project
-- Stars: 27529
-- Forks: 2644
+- Stars: 27553
+- Forks: 2645
 - Language: Java
 - Topics: a11y, accessibility, ai, bounding-box, document-parsing, eaa, html, json, markdown, ocr, ocr-recognition, pdf, pdf-accessibility, pdf-converter, pdf-extraction, pdf-parser, pdf-ua, rag, tables, tagged-pdf
-- Last Updated: 2026-07-20T22:14:33Z
+- Last Updated: 2026-07-21T03:43:18Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-05-13T05:48:02Z

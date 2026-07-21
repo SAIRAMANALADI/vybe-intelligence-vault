@@ -4,15 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-07-21T03:45:12.563473+05:30'
+collected_at: '2026-07-21T09:15:37.681713+05:30'
 published_at: '2026-07-19T17:27:01Z'
 tags:
-- benchmark
 - github-repo
-- models
 - python
 - rag
-- workflows
 stars: 369
 language: Python
 status: active
@@ -21,9 +18,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-07-21T03:45:12.563473+05:30'
-last_seen: '2026-07-21T03:45:12.563473+05:30'
-last_checked: '2026-07-21T03:45:12.563473+05:30'
+first_seen: '2026-07-21T09:15:37.681713+05:30'
+last_seen: '2026-07-21T09:15:37.681713+05:30'
+last_checked: '2026-07-21T09:15:37.681713+05:30'
 health_score: 100
 ---
 
@@ -31,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector) and sparse (keyword/BM25) retrieval methods for enhanced document grounding in LLMs.
+- **Hybrid RAG Implementation**: Demonstrates a Retrieval-Augmented Generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document search and generation in Python.
 
-- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework for streamlined deployment, fine-tuning, and evaluation of RAG models with GPU acceleration.
+- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework to streamline deployment and experimentation of hybrid RAG models, optimizing for GPU acceleration and scalability.
 
-- **Python-Based Example**: Provides a reference implementation in Python, showcasing modular components (retriever, generator, evaluator) for customizable RAG workflows.
+- **Modular Architecture**: Provides a structured example with configurable components (e.g., retrievers, LLMs) and pre-built pipelines, enabling customization for domain-specific RAG applications.
 
 ## Why It Matters
 

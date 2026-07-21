@@ -6,6 +6,7 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | :--- | :--- | :--- |
 | [pmndrs/triplex](https://github.com/pmndrs/triplex) | `ai-coding-agents/` | 70 |
 | [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) | `ai-coding-agents/` | 70 |
+| [firecrawl repositories · GitHub](https://github.com/orgs/firecrawl/repositories?q=sort%3Astars) | `ai-coding-agents/` | 70 |
 | [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) | `ai-coding-agents/` | 70 |
 | [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) | `ai-coding-agents/` | 70 |
 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | `ai-coding-agents/` | 70 |
@@ -14,7 +15,6 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub](https://github.com/resources/whitepapers/gartner-magic-quadrant-and-critical-capabilities-for-ai-code-assistants) | `ai-coding-agents/` | 70 |
 | [wxmb01/codex-app-autonomous-runs](https://github.com/wxmb01/codex-app-autonomous-runs) | `ai-coding-agents/` | 70 |
 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `ai-coding-agents/` | 70 |
-| [LangChain · GitHub](https://github.com/langchain-ai) | `ai-coding-agents/` | 70 |
 | [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings) | `ai-coding-agents/` | 70 |
 | [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) | `ai-coding-agents/` | 70 |
 | [atticus98/codex-turbo](https://github.com/atticus98/codex-turbo) | `ai-coding-agents/` | 70 |

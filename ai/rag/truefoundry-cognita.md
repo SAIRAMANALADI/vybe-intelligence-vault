@@ -6,7 +6,7 @@ source_name: GitHub Discovery
 source_url: https://github.com/truefoundry/cognita?source=post_page
 resource_id: github:truefoundry/cognita
 -----dba899ae0355---------------------------------------
-collected_at: '2026-07-21T03:48:52.733868+05:30'
+collected_at: '2026-07-21T09:19:17.838598+05:30'
 published_at: '2026-07-20T05:35:17Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: true
 created_at: '2023-07-26T13:08:54Z'
 pushed_at: '2026-03-13T15:04:36Z'
 resource_id: github:truefoundry/cognita
-first_seen: '2026-07-21T03:48:52.733868+05:30'
-last_seen: '2026-07-21T03:48:52.733868+05:30'
-last_checked: '2026-07-21T03:48:52.733868+05:30'
+first_seen: '2026-07-21T09:19:17.838598+05:30'
+last_seen: '2026-07-21T09:19:17.838598+05:30'
+last_checked: '2026-07-21T09:19:17.838598+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: Cognita is a Python-based open-source framework designed for building production-ready Retrieval-Augmented Generation (RAG) applications with modular components, enabling customization and scalability.
+- **Modular RAG Framework**: Open-source Python-based framework for building production-ready Retrieval-Augmented Generation (RAG) applications with modular components for seamless integration and scalability.
 
-- **Multi-Language Support**: Supports both Python and TypeScript, facilitating integration across different tech stacks for frontend and backend development.
+- **Multi-Language Support**: Supports both Python and TypeScript, enabling cross-language compatibility for diverse application development and deployment scenarios.
 
-- **MLOps & Deployment Features**: Includes tools for fine-tuning, model deployment, and LLM operations (LLMOps), streamlining the lifecycle of generative AI applications in production environments.
+- **MLOps & LLMOps Integration**: Incorporates MLOps and LLMOps best practices for model deployment, fine-tuning, and operationalization, ensuring robust lifecycle management of AI applications.
 
 ## Why It Matters
 

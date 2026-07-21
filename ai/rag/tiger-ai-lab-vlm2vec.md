@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIGER-AI-Lab/VLM2Vec
-collected_at: '2026-07-21T03:46:17.596099+05:30'
+collected_at: '2026-07-21T09:16:42.733573+05:30'
 published_at: '2026-07-19T21:47:59Z'
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 - youtube
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-10-07T15:14:52Z'
 pushed_at: '2026-06-24T06:17:09Z'
 resource_id: github:tiger-ai-lab/vlm2vec
-first_seen: '2026-07-21T03:46:17.596099+05:30'
-last_seen: '2026-07-21T03:46:17.596099+05:30'
-last_checked: '2026-07-21T03:46:17.596099+05:30'
+first_seen: '2026-07-21T09:16:42.733573+05:30'
+last_seen: '2026-07-21T09:16:42.733573+05:30'
+last_checked: '2026-07-21T09:16:42.733573+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal Benchmarking Suite**: Repository hosts VLM2Vec (ICLR 2025), VLM2Vec-V2 (TMLR 2026), and MMEB-V3 (COLM 2026), providing standardized evaluations for multimodal embedding models across tasks like image/video/document retrieval and RAG.
+- **Repository Overview**: Hosts code for three research works: *VLM2Vec/MMEB* (ICLR 2025), *VLM2Vec-V2/MMEB-V2* (TMLR 2026), and *MMEB-V3* (COLM 2026), focusing on multimodal embedding benchmarks (MMEB) and contrastive learning for vision-language models (VLMs).
 
-- **Contrastive Learning Framework**: Implements contrastive learning for training Vision-Language Models (VLMs) to generate high-quality embeddings, optimized for multimodal retrieval and representation learning.
+- **Technical Scope**: Implements benchmarks and models for multimodal representation learning, including image retrieval, video retrieval, and visual document retrieval, leveraging contrastive learning and embedding techniques.
 
-- **Python-Based Toolkit**: Includes benchmarking tools, evaluation scripts, and pre-trained models for multimodal embedding benchmarks (MMEB), supporting tasks like visual document retrieval and multimodal RAG.
+- **Implementation Details**: Python-based codebase with support for RAG (Retrieval-Augmented Generation) and multimodal tasks, last updated July 2026, with 667 stars and 62 forks.
 
 ## Why It Matters
 

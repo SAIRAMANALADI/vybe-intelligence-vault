@@ -1,13 +1,24 @@
 ---
-title: "sgaunet/postgresql-mcp"
-category: "Tooling"
-tech_stack: ["Go", "PostgreSQL", "Model Context Protocol (MCP)", "pgx/v5", "Docker", "Testcontainers"]
+title: sgaunet/postgresql-mcp
+category: daily-digests/2026-07-20
+tech_stack:
+- Go
+- PostgreSQL
+- Model Context Protocol (MCP)
+- pgx/v5
+- Docker
+- Testcontainers
 quality_score: 9
 rag_relevance: 8
-tags: ["PostgreSQL", "MCP Server", "Database Integration", "AI Tooling", "Read-Only Queries"]
-source: "https://github.com/sgaunet/postgresql-mcp"
-discovered_at: "2026-07-14T20:09:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- PostgreSQL
+- MCP Server
+- Database Integration
+- AI Tooling
+- Read-Only Queries
+source: https://github.com/sgaunet/postgresql-mcp
+discovered_at: '2026-07-14T20:09:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

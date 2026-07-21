@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-49%2C460-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-94%2C142-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--21-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **49,460 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **94,142 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 11,414</p>
-        <p><b>Active:</b> 11,155 | <b>Inactive:</b> 259</p>
+        <p><b>Resources tracked:</b> 12,440</p>
+        <p><b>Active:</b> 12,179 | <b>Inactive:</b> 261</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,014</p>
+        <p><b>Archive Files:</b> 45,691</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 49,460 files</p>
-        <p><b>Last Update:</b> 2026-07-21 05:33 IST</p>
+        <p><b>Total Vault Size:</b> 94,142 files</p>
+        <p><b>Last Update:</b> 2026-07-21 09:32 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,22 +210,26 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Run Payments with Stripe | Firebase Extensions Hub](ai/rag/run-payments-with-stripe-firebase-extensions-hub.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Sign in - Google Accounts](ai/resources/sign-in-google-accounts.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[android Git repositories - Git at Google](ai/rag/android-git-repositories-git-at-google.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Android Open Source Project](ai/resources/android-open-source-project.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Develop for Android | Android Developers](ai/resources/develop-for-android-android-developers.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Who's afraid of Chinese models?](ai/community/who-s-afraid-of-chinese-models.md)** • <kbd>+332 pts</kbd> • Rank: <kbd>+4</kbd>
+- 🔼 **[My two year old taught me constraint solving](ai/community/my-two-year-old-taught-me-constraint-solving.md)** • <kbd>+42 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[How we measured AI writing across arXiv, and where the measurement breaks](ai/community/how-we-measured-ai-writing-across-arxiv-and-where.md)** • <kbd>+22 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12](ai/community/launch-hn-bloomy-yc-s26-ai-powered-mastery-learnin.md)** • <kbd>+19 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[electron/fiddle](ai/resources/electron-fiddle.md)** • Rank: <kbd>+1393</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[China’s open-weights AI strategy is winning](ai/community/american-ai-is-locked-down-and-proprietary-it-s-lo.md)** • Score: `825`
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[China’s open-weights AI strategy is winning](ai/community/american-ai-is-locked-down-and-proprietary-it-s-lo.md)** • Score: `1003`
+- 🆕 **[Android Developers - YouTube](ai/resources/android-developers-youtube.md)** • Score: `0`
+- 🆕 **[The Firebase Blog](ai/rag/the-firebase-blog.md)** • Score: `0`
+- 🆕 **[Built-in AI | AI on Chrome | Chrome for Developers](ai/rag/built-in-ai-ai-on-chrome-chrome-for-developers.md)** • Score: `0`
+- 🆕 **[Better Stack · GitHub](ai/rag/better-stack-github.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Airport Simulator](ai/community/airport-simulator.md)**
+- 💤 **[Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling](ai/community/kimi-k3-qwen-3-8-and-anthropic-s-potential-unravel.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

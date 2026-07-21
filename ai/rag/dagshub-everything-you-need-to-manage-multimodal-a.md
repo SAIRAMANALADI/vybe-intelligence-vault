@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://dagshub.com/
-published_at: '2026-07-21T01:37:17.100561+05:30'
-collected_at: '2026-07-21T01:37:17.100583+05:30'
+published_at: '2026-07-21T09:21:17.270578+05:30'
+collected_at: '2026-07-21T09:21:17.270586+05:30'
 tags:
 - dataset
 - rag
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:dagshub-everything-you-need-to-manage-multimodal-a
-first_seen: '2026-07-21T01:37:17.100583+05:30'
-last_seen: '2026-07-21T01:37:17.100583+05:30'
-last_checked: '2026-07-21T01:37:17.100583+05:30'
+first_seen: '2026-07-21T09:21:17.270586+05:30'
+last_seen: '2026-07-21T09:21:17.270586+05:30'
+last_checked: '2026-07-21T09:21:17.270586+05:30'
 health_score: 100
 ---
 
@@ -25,14 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified AI Data & Model Management**: Platform supports curation/annotation of multimodal datasets (vision, audio, LLM), experiment tracking (MLflow-compatible), and model versioning/deployment with lineage tracking across public/private repositories.
+- **Unified AI Data & Model Management**: Platform supports curation, annotation, and versioning of multimodal datasets (vision, audio, LLM) with lineage tracking, CI/CD/CT integration, and interactive pipelines for AI workflows.
 
-- **Scalable Plans & Features**:
-  - **Individual**: Free tier with 20GB storage, 100 private experiments, and basic collaboration.
-  - **Team**: $99/user/month with 1TB storage, multimodal auto-labeling, RBAC, and priority support.
-  - **Enterprise**: Custom pricing for petabyte-scale data, VPC/air-gapped deployments, SSO/LDAP, and organizational resource control.
+- **Scalable Experiment Tracking & Model Registry**: Enables tracking of unlimited experiments (public repos) with MLflow compatibility, model versioning, deployment, and lineage from data to production, with tiered storage (20GB–1TB) and RBAC controls.
 
-- **Enterprise-Grade Capabilities**: Supports on-prem/cloud deployments, OpenShift compatibility, full model lineage, and integrates with existing ML stacks (cloud storage, MLOps tools) while offering SSO, RBAC, and enterprise SLAs.
+- **Enterprise-Grade Deployment & Security**: Supports petabyte-scale data, on-premise/VPC/air-gapped installations, SSO/LDAP/OIDC, and OpenShift compatibility, with custom enterprise SLA and priority support.
 
 ## Why It Matters
 
@@ -42,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T01:37:17.100561+05:30
+- Published: 2026-07-21T09:21:17.270578+05:30
 
 ## Related Tags
 

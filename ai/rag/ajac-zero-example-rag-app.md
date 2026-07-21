@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ajac-zero/example-rag-app
-collected_at: '2026-07-21T03:45:22.537877+05:30'
+collected_at: '2026-07-21T09:15:47.689629+05:30'
 published_at: '2026-07-14T22:18:47Z'
 tags:
-- anthropic
 - github-repo
-- openai
+- hackernews
 - rag
 - typescript
 stars: 159
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-02-18T16:15:24Z'
 pushed_at: '2026-01-15T20:18:12Z'
 resource_id: github:ajac-zero/example-rag-app
-first_seen: '2026-07-21T03:45:22.537877+05:30'
-last_seen: '2026-07-21T03:45:22.537877+05:30'
-last_checked: '2026-07-21T03:45:22.537877+05:30'
+first_seen: '2026-07-21T09:15:47.689629+05:30'
+last_seen: '2026-07-21T09:15:47.689629+05:30'
+last_checked: '2026-07-21T09:15:47.689629+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Observability & Multi-Provider Support**: Integrates Langfuse for LLM observability and LiteLLM for seamless switching across 100+ LLM providers (e.g., OpenAI, Anthropic, Cohere).
-- **Strict Type Safety & Testing**: Full TypeScript type-checking with 100% test coverage, ensuring robust, production-ready RAG implementation.
-- **Containerized & Scalable**: Dockerized deployment with modular architecture, enabling easy scaling and integration with vector databases (e.g., Pinecone, Weaviate).
+- **RAG Application**: Open-source Retrieval-Augmented Generation (RAG) app with Langfuse for LLM observability, supporting 100+ LLM providers via LiteLLM.
+- **Technical Stack**: Dockerized, TypeScript-based, with full type-checking (TypeScript) and 100% test coverage.
+- **Metadata**: 159 stars, 24 forks, last updated July 14, 2026; categorized under AI, LLM, and RAG.
 
 ## Why It Matters
 

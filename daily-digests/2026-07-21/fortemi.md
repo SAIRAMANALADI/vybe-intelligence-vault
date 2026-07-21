@@ -1,13 +1,35 @@
 ---
-title: "Fortemi/fortemi"
-category: "Vector DB"
-tech_stack: ["Rust", "PostgreSQL", "pgvector", "PostGIS", "Docker", "Node.js", "MCP (Model Context Protocol)", "Whisper", "pyannote", "OpenAI", "Ollama", "llama.cpp", "BM25", "SKOS", "TUS", "WebSockets", "SSE"]
+title: Fortemi/fortemi
+category: daily-digests/2026-07-21
+tech_stack:
+- Rust
+- PostgreSQL
+- pgvector
+- PostGIS
+- Docker
+- Node.js
+- MCP (Model Context Protocol)
+- Whisper
+- pyannote
+- OpenAI
+- Ollama
+- llama.cpp
+- BM25
+- SKOS
+- TUS
+- WebSockets
+- SSE
 quality_score: 9
 rag_relevance: 10
-tags: ["RAG", "knowledge-graph", "multimodal-ingestion", "hybrid-search", "agent-memory"]
-source: "https://github.com/Fortemi/fortemi"
-discovered_at: "2026-07-16T15:00:37Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- RAG
+- knowledge-graph
+- multimodal-ingestion
+- hybrid-search
+- agent-memory
+source: https://github.com/Fortemi/fortemi
+discovered_at: '2026-07-16T15:00:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

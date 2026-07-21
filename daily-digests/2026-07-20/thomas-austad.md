@@ -1,13 +1,28 @@
 ---
-title: "Thomas-Austad/Thomas-Austad"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "PostgreSQL", "Docker", "Alembic", "OpenAI API", "MCP (Model Context Protocol)", "ChatGPT", "DOCX", "JSONL"]
+title: Thomas-Austad/Thomas-Austad
+category: daily-digests/2026-07-20
+tech_stack:
+- Python
+- FastAPI
+- PostgreSQL
+- Docker
+- Alembic
+- OpenAI API
+- MCP (Model Context Protocol)
+- ChatGPT
+- DOCX
+- JSONL
 quality_score: 8
 rag_relevance: 7
-tags: ["career platform", "job matching", "AI agent", "MCP integration", "resume automation"]
-source: "https://github.com/Thomas-Austad/Thomas-Austad"
-discovered_at: "2026-07-10T18:22:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- career platform
+- job matching
+- AI agent
+- MCP integration
+- resume automation
+source: https://github.com/Thomas-Austad/Thomas-Austad
+discovered_at: '2026-07-10T18:22:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
