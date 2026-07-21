@@ -24,7 +24,7 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 - [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench)
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)
 - [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
-- [RUC-NLPIR/FlashRAG](https://github.com/RUC-NLPIR/FlashRAG?source=post_page-----dba899ae0355---------------------------------------)
+- [RUC-NLPIR/FlashRAG](https://github.com/RUC-NLPIR/FlashRAG?source=post_page)
 - [yzhao062/pyod](https://github.com/yzhao062/pyod)
 
 ## Best Learning Resources
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-07-21 22:30 IST*
+*Last updated: 2026-07-22 01:39 IST*

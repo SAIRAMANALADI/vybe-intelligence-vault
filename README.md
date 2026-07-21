@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-50%2C472-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-98%2C296-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--22-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **50,472 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **98,296 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 12,247</p>
-        <p><b>Active:</b> 11,980 | <b>Inactive:</b> 267</p>
+        <p><b>Resources tracked:</b> 13,218</p>
+        <p><b>Active:</b> 12,949 | <b>Inactive:</b> 269</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,043</p>
+        <p><b>Archive Files:</b> 48,917</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 50,472 files</p>
-        <p><b>Last Update:</b> 2026-07-22 00:54 IST</p>
+        <p><b>Total Vault Size:</b> 98,296 files</p>
+        <p><b>Last Update:</b> 2026-07-22 01:40 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,26 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Develop for Android | Android Developers](ai/resources/develop-for-android-android-developers.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Kotlin and Android | Android Developers](ai/rag/kotlin-and-android-android-developers.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[gitiles - Git at Google](ai/resources/gitiles-git-at-google.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[Firebase · GitHub](ai/resources/firebase-github.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[Stream Firestore to BigQuery | Firebase Extensions Hub](ai/rag/stream-firestore-to-bigquery-firebase-extensions-h.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](ai/community/qwen-image-3-0-rich-content-authentic-details-deep.md)** • <kbd>+57 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[docker/compose-for-agents](ai/agents/docker-compose-for-agents.md)** • Rank: <kbd>+1545</kbd>
+- 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+379</kbd>
+- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+374</kbd>
+- 🔼 **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** • Rank: <kbd>+372</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[AI makes programming differently difficult](ai/community/ai-makes-programming-differently-difficult.md)** • Score: `87`
+- 🆕 **[Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](ai/community/jack-dorsey-launches-buzz-to-combine-team-chat-ai.md)** • Score: `82`
+- 🆕 **[Firefox Containers Preview](ai/community/firefox-containers-preview.md)** • Score: `77`
+- 🆕 **[Meta's AI models are powering the first wave of Genesis Mission projects](ai/community/meta-s-ai-models-are-powering-the-first-wave-of-ge.md)** • Score: `63`
+- 🆕 **[I built a page that tells you what AI model your laptop can run](ai/community/i-built-a-page-that-tells-you-what-ai-model-your-l.md)** • Score: `12`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Who's afraid of Chinese models?](ai/community/who-s-afraid-of-chinese-models.md)**
+- 💤 **[Apple Fixes Hide My Email Vulnerability After 404 Media Coverage](ai/community/apple-fixes-hide-my-email-vulnerability-after-404.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

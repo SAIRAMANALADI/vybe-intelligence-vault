@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [Latest News from Google Research Blog - Google Research](../ai/rag/latest-news-from-google-research-blog-google-resea.md) ([Source URL](https://research.google/blog))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T22:24:17.891974+05:30
-- **Local Path**: `ai/rag/latest-news-from-google-research-blog-google-resea.md`
-
-### 2. [Google Cloud Blog | News, Features and Announcements](../ai/rag/google-cloud-blog-news-features-and-announcements.md) ([Source URL](https://cloud.google.com/blog))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T22:24:16.120195+05:30
-- **Local Path**: `ai/rag/google-cloud-blog-news-features-and-announcements.md`
-
-### 3. [Develop for Android | Android Developers](../ai/resources/develop-for-android-android-developers.md) ([Source URL](https://developer.android.com/docs))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T22:24:16.078166+05:30
-- **Local Path**: `ai/resources/develop-for-android-android-developers.md`
-
-### 4. [Kotlin and Android | Android Developers](../ai/rag/kotlin-and-android-android-developers.md) ([Source URL](https://developer.android.com/kotlin))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T22:24:15.894371+05:30
-- **Local Path**: `ai/rag/kotlin-and-android-android-developers.md`
-
-### 5. [News | Android Developers](../ai/resources/news-android-developers.md) ([Source URL](https://developer.android.com/news))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T22:24:15.442604+05:30
-- **Local Path**: `ai/resources/news-android-developers.md`
-
-### 6. [gitiles - Git at Google](../ai/resources/gitiles-git-at-google.md) ([Source URL](https://gerrit.googlesource.com/gitiles))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T22:24:15.109679+05:30
-- **Local Path**: `ai/resources/gitiles-git-at-google.md`
-
-### 7. [Firebase · GitHub](../ai/resources/firebase-github.md) ([Source URL](https://github.com/firebase))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T22:24:11.224676+05:30
-- **Local Path**: `ai/resources/firebase-github.md`
-
-### 8. [Stream Firestore to BigQuery | Firebase Extensions Hub](../ai/rag/stream-firestore-to-bigquery-firebase-extensions-h.md) ([Source URL](https://extensions.dev/extensions/firebase/firestore-bigquery-export))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T22:24:10.946952+05:30
-- **Local Path**: `ai/rag/stream-firestore-to-bigquery-firebase-extensions-h.md`
-
-### 9. [Analyze issues from Firebase Crashlytics and Android Vitals with App Quality Insights | Android Studio | Android Develop](../ai/resources/analyze-issues-from-firebase-crashlytics-and-andro.md) ([Source URL](https://developer.android.com/studio/debug/app-quality-insights))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T22:24:10.481738+05:30
-- **Local Path**: `ai/resources/analyze-issues-from-firebase-crashlytics-and-andro.md`
-
-### 10. [MongoDB: The World’s Leading Modern Data Platform | MongoDB](../ai/rag/mongodb-the-worlds-leading-modern-data-platform-mo.md) ([Source URL](http://mongodb.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T22:24:06.020726+05:30
-- **Local Path**: `ai/rag/mongodb-the-worlds-leading-modern-data-platform-mo.md`
-
-### 11. [modular/modular](../ai/rag/modular-modular.md) ([Source URL](https://github.com/modular/modular))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T22:24:05.847136+05:30
-- **Local Path**: `ai/rag/modular-modular.md`
-
-### 12. [Index of /jucs_10_7/total_functional_programming](../ai/resources/index-of-jucs-10-7-total-functional-programming.md) ([Source URL](http://jucs.org/jucs_10_7/total_functional_programming))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T22:23:44.356097+05:30
-- **Local Path**: `ai/resources/index-of-jucs-10-7-total-functional-programming.md`
-
-### 13. [CHARMING PYTHON #19 (W-50039) -- Even More Functional Programming in Python --](../ai/resources/charming-python-19-w-50039-even-more-functional-pr.md) ([Source URL](http://gnosis.cx/publish/programming/charming_python_19.html))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T22:23:42.961310+05:30
-- **Local Path**: `ai/resources/charming-python-19-w-50039-even-more-functional-pr.md`
-
-### 14. [Chrome for Developers](../ai/agents/chrome-for-developers.md) ([Source URL](https://developer.chrome.com))
+### 1. [docker/compose-for-agents](../ai/agents/docker-compose-for-agents.md) ([Source URL](https://github.com/docker/compose-for-agents))
 - **Category**: ai/agents
-- **Collected At**: 2026-07-21T22:23:34.883589+05:30
-- **Local Path**: `ai/agents/chrome-for-developers.md`
+- **Collected At**: 2026-07-22T01:24:35.507630+05:30
+- **Local Path**: `ai/agents/docker-compose-for-agents.md`
 
-### 15. [TensorFlow.js | Machine Learning for JavaScript Developers](../ai/rag/tensorflow-js-machine-learning-for-javascript-deve.md) ([Source URL](https://tensorflow.org/js))
+### 2. [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) ([Source URL](https://github.com/datawhalechina/all-in-rag))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-21T22:23:32.151468+05:30
-- **Local Path**: `ai/rag/tensorflow-js-machine-learning-for-javascript-deve.md`
+- **Collected At**: 2026-07-22T01:22:10.385492+05:30
+- **Local Path**: `ai/rag/datawhalechina-all-in-rag.md`
 
-### 16. [Transformers.js · Hugging Face](../ai/rag/huggingface-docs-transformers-js.md) ([Source URL](https://huggingface.co/docs/transformers.js))
+### 3. [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md) ([Source URL](https://github.com/particlemedia/ragtruth))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-21T22:23:31.631668+05:30
-- **Local Path**: `ai/rag/huggingface-docs-transformers-js.md`
+- **Collected At**: 2026-07-22T01:22:10.346969+05:30
+- **Local Path**: `ai/rag/particlemedia-ragtruth.md`
 
-### 17. [Getting started | Gemini API | Google AI for Developers](../ai/rag/getting-started-gemini-api-google-ai-for-developer.md) ([Source URL](https://ai.google.dev/tutorials/web_quickstart))
+### 4. [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md) ([Source URL](https://github.com/datawhalechina/llm-universe))
 - **Category**: ai/rag
-- **Collected At**: 2026-07-21T22:23:31.063396+05:30
-- **Local Path**: `ai/rag/getting-started-gemini-api-google-ai-for-developer.md`
+- **Collected At**: 2026-07-22T01:22:05.350068+05:30
+- **Local Path**: `ai/rag/datawhalechina-llm-universe.md`
 
-### 18. [2018 Transparency Report - The GitHub Blog](../ai/resources/2018-transparency-report-the-github-blog.md) ([Source URL](https://github.blog/2019-01-23-2018-transparency-report))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T22:23:28.692103+05:30
-- **Local Path**: `ai/resources/2018-transparency-report-the-github-blog.md`
+### 5. [Search & information retrieval](../ai/companies/search-information-retrieval.md) ([Source URL](https://microsoft.com/en-us/research/research-area/search-information-retrieval))
+- **Category**: ai/companies
+- **Collected At**: 2026-07-22T01:21:28.916997+05:30
+- **Local Path**: `ai/companies/search-information-retrieval.md`
 
-### 19. [content/files/en-us/web/security/defenses/subresource_integrity/index.md at main · mdn/content · GitHub](../ai/resources/mdn-content.md) ([Source URL](https://github.com/mdn/content))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T22:23:23.039149+05:30
-- **Local Path**: `ai/resources/mdn-content.md`
+### 6. [Human language technologies](../ai/companies/human-language-technologies.md) ([Source URL](https://microsoft.com/en-us/research/research-area/human-language-technologies))
+- **Category**: ai/companies
+- **Collected At**: 2026-07-22T01:21:28.916976+05:30
+- **Local Path**: `ai/companies/human-language-technologies.md`
 
-### 20. [Open Government Licence](../ai/rag/open-government-licence.md) ([Source URL](https://nationalarchives.gov.uk/doc/open-government-licence/version/3))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T22:23:16.169353+05:30
-- **Local Path**: `ai/rag/open-government-licence.md`
+### 7. [Human-computer interaction](../ai/companies/human-computer-interaction.md) ([Source URL](https://microsoft.com/en-us/research/research-area/human-computer-interaction))
+- **Category**: ai/companies
+- **Collected At**: 2026-07-22T01:21:28.916954+05:30
+- **Local Path**: `ai/companies/human-computer-interaction.md`
 
-### 21. [Discover AWS Official Knowledge Center Articles | AWS re:Post](../ai/rag/discover-aws-official-knowledge-center-articles-aw.md) ([Source URL](https://repost.aws/knowledge-center?nc1=f_dr))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T22:23:15.619852+05:30
-- **Local Path**: `ai/rag/discover-aws-official-knowledge-center-articles-aw.md`
+### 8. [Graphics & multimedia](../ai/companies/graphics-multimedia.md) ([Source URL](https://microsoft.com/en-us/research/research-area/graphics-and-multimedia))
+- **Category**: ai/companies
+- **Collected At**: 2026-07-22T01:21:28.916932+05:30
+- **Local Path**: `ai/companies/graphics-multimedia.md`
 
-### 22. [Android Jetpack Dev Resources - Android Developers](../ai/rag/android-jetpack-dev-resources-android-developers.md) ([Source URL](https://developer.android.com/jetpack))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T22:23:15.226855+05:30
-- **Local Path**: `ai/rag/android-jetpack-dev-resources-android-developers.md`
+### 9. [Computer vision](../ai/companies/computer-vision.md) ([Source URL](https://microsoft.com/en-us/research/research-area/computer-vision))
+- **Category**: ai/companies
+- **Collected At**: 2026-07-22T01:21:28.916908+05:30
+- **Local Path**: `ai/companies/computer-vision.md`
 
-### 23. [Google Workspace Learning Center](../ai/rag/google-workspace-learning-center.md) ([Source URL](https://gsuite.google.com/learning-center))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T22:23:14.684568+05:30
-- **Local Path**: `ai/rag/google-workspace-learning-center.md`
+### 10. [Audio & acoustics](../ai/companies/audio-acoustics.md) ([Source URL](https://microsoft.com/en-us/research/research-area/audio-acoustics))
+- **Category**: ai/companies
+- **Collected At**: 2026-07-22T01:21:28.916886+05:30
+- **Local Path**: `ai/companies/audio-acoustics.md`
 
-### 24. [Overview - Knative](../ai/rag/overview-knative.md) ([Source URL](https://knative.dev/docs))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T22:23:13.378324+05:30
-- **Local Path**: `ai/rag/overview-knative.md`
+### 11. [Artificial intelligence](../ai/companies/artificial-intelligence.md) ([Source URL](https://microsoft.com/en-us/research/focus-area/ai-and-microsoft-research))
+- **Category**: ai/companies
+- **Collected At**: 2026-07-22T01:21:28.916863+05:30
+- **Local Path**: `ai/companies/artificial-intelligence.md`
 
-### 25. [android-bench/android-bench](../ai/resources/android-bench-android-bench.md) ([Source URL](https://github.com/android-bench/android-bench))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T22:23:12.490774+05:30
-- **Local Path**: `ai/resources/android-bench-android-bench.md`
+### 12. [Microsoft Research blog](../ai/companies/microsoft-research-blog.md) ([Source URL](https://microsoft.com/en-us/research/blog))
+- **Category**: ai/companies
+- **Collected At**: 2026-07-22T01:21:28.916838+05:30
+- **Local Path**: `ai/companies/microsoft-research-blog.md`
 
-### 26. [LangSmith Global / GCP US Status](../ai/resources/langsmith-global-gcp-us-status.md) ([Source URL](https://status.smith.langchain.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T22:23:10.815749+05:30
-- **Local Path**: `ai/resources/langsmith-global-gcp-us-status.md`
+### 13. [Code & data](../ai/companies/code-data.md) ([Source URL](https://microsoft.com/en-us/research/tools))
+- **Category**: ai/companies
+- **Collected At**: 2026-07-22T01:21:28.916809+05:30
+- **Local Path**: `ai/companies/code-data.md`
 
-### 27. [Google Play Developer APIs | Other Play guides | Android Developers](../ai/resources/google-play-developer-apis-other-play-guides-andro.md) ([Source URL](https://developer.android.com/google/play/developer-api))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T22:23:09.759586+05:30
-- **Local Path**: `ai/resources/google-play-developer-apis-other-play-guides-andro.md`
+### 14. [Publications](../ai/companies/publications.md) ([Source URL](https://microsoft.com/en-us/research/publications))
+- **Category**: ai/companies
+- **Collected At**: 2026-07-22T01:21:28.916748+05:30
+- **Local Path**: `ai/companies/publications.md`
 
-### 28. [Sign in - Google Accounts](../ai/resources/sign-in-google-accounts.md) ([Source URL](https://issuetracker.google.com/issues/new?component=186600&template=874803))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T22:22:49.698840+05:30
-- **Local Path**: `ai/resources/sign-in-google-accounts.md`
+### 15. [ProductIntroducing Search ToolkitProduction search pipelines, anywhere.May 28, 2026By Mistral](../ai/companies/mistral/productintroducing-search-toolkitproduction-search.md) ([Source URL](https://mistral.ai/news/search-toolkit))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-07-22T01:21:28.267655+05:30
+- **Local Path**: `ai/companies/mistral/productintroducing-search-toolkitproduction-search.md`
 
-### 29. [Streamlined Arbitration Rules & Procedures | JAMS Mediation, Arbitration, ADR Services](../ai/rag/streamlined-arbitration-rules-procedures-jams-medi.md) ([Source URL](https://jamsadr.com/rules-streamlined-arbitration))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T22:22:24.623918+05:30
-- **Local Path**: `ai/rag/streamlined-arbitration-rules-procedures-jams-medi.md`
+### 16. [CompanyAI Now Summit 2026Innovations for global enterprises solving the world’s hardest problems. May 28, 2026By Mistral](../ai/companies/mistral/companyai-now-summit-2026innovations-for-global-en.md) ([Source URL](https://mistral.ai/news/ai-now-summit-2026))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-07-22T01:21:28.267597+05:30
+- **Local Path**: `ai/companies/mistral/companyai-now-summit-2026innovations-for-global-en.md`
 
-### 30. [Hugging Face · GitHub](../ai/agents/hugging-face-github.md) ([Source URL](https://github.com/huggingface))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-21T22:22:22.882800+05:30
-- **Local Path**: `ai/agents/hugging-face-github.md`
+### 17. [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI](../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md) ([Source URL](https://mistral.ai/news/more-control-over-connectors))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-07-22T01:21:28.267529+05:30
+- **Local Path**: `ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md`
 
-### 31. [Allow JavaScript in your browser - Google AdSense Help](../ai/resources/allow-javascript-in-your-browser-google-adsense-he.md) ([Source URL](https://support.google.com/adsense/answer/12654?hl=en))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T22:22:22.065419+05:30
-- **Local Path**: `ai/resources/allow-javascript-in-your-browser-google-adsense-he.md`
+### 18. [Leanstral 1.5: Proof Abundance for All](../ai/companies/mistral/leanstral-1-5-proof-abundance-for-all.md) ([Source URL](https://mistral.ai/news/leanstral-1-5))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-07-22T01:21:28.266909+05:30
+- **Local Path**: `ai/companies/mistral/leanstral-1-5-proof-abundance-for-all.md`
 
-### 32. [Medium Members Can Listen To Any Medium Story With The Speechify Play Button | Speechify](../ai/rag/medium-members-can-listen-to-any-medium-story-with.md) ([Source URL](https://speechify.com/medium))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T22:22:17.951522+05:30
-- **Local Path**: `ai/rag/medium-members-can-listen-to-any-medium-story-with.md`
+### 19. [Introducing Robostral Navigate](../ai/companies/mistral/introducing-robostral-navigate.md) ([Source URL](https://mistral.ai/news/robostral-navigate))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-07-22T01:21:28.266881+05:30
+- **Local Path**: `ai/companies/mistral/introducing-robostral-navigate.md`
 
-### 33. [Stainless · GitHub](../ai/resources/stainless-github.md) ([Source URL](https://github.com/stainless-api))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T22:22:17.735172+05:30
-- **Local Path**: `ai/resources/stainless-github.md`
+### 20. [Your Prompts and Skills need a system of record.](../ai/companies/mistral/your-prompts-and-skills-need-a-system-of-record.md) ([Source URL](https://mistral.ai/news/manage-prompts-and-skills-in-studio))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-07-22T01:21:28.266852+05:30
+- **Local Path**: `ai/companies/mistral/your-prompts-and-skills-need-a-system-of-record.md`
 
-### 34. [Styles and CSS | Docs](../web-development/tailwind/styles-and-css-docs.md) ([Source URL](https://docs.astro.build/en/guides/styling))
-- **Category**: web-development/tailwind
-- **Collected At**: 2026-07-21T22:22:14.234771+05:30
-- **Local Path**: `web-development/tailwind/styles-and-css-docs.md`
+### 21. [Voxtral TTS](../ai/companies/mistral/voxtral-tts.md) ([Source URL](https://mistral.ai/news/voxtral-tts))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-07-22T01:21:28.266791+05:30
+- **Local Path**: `ai/companies/mistral/voxtral-tts.md`
 
-### 35. [Integrations | Astro](../ai/resources/integrations-astro.md) ([Source URL](https://astro.build/integrations))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T22:22:14.226113+05:30
-- **Local Path**: `ai/resources/integrations-astro.md`
+### 22. [Mistral Small 4](../ai/companies/mistral/mistral-small-4.md) ([Source URL](https://mistral.ai/news/mistral-small-4))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-07-22T01:21:28.266761+05:30
+- **Local Path**: `ai/companies/mistral/mistral-small-4.md`
 
-### 36. [electron/fiddle](../ai/resources/electron-fiddle.md) ([Source URL](https://github.com/electron/fiddle))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T22:22:12.437046+05:30
-- **Local Path**: `ai/resources/electron-fiddle.md`
+### 23. [Mistral Medium 3.5](../ai/companies/mistral/mistral-medium-3-5.md) ([Source URL](https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-07-22T01:21:28.266726+05:30
+- **Local Path**: `ai/companies/mistral/mistral-medium-3-5.md`
 
-### 37. [Sign in to GitHub · GitHub](../ai/resources/langchain-ai-docs.md) ([Source URL](https://github.com/langchain-ai/docs))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T22:22:12.435000+05:30
-- **Local Path**: `ai/resources/langchain-ai-docs.md`
+### 24. [Mistral OCR 4](../ai/companies/mistral/mistral-ocr-4.md) ([Source URL](https://mistral.ai/news/ocr-4))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-07-22T01:21:28.266664+05:30
+- **Local Path**: `ai/companies/mistral/mistral-ocr-4.md`
 
-### 38. [AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex](../ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md) ([Source URL](https://llamaindex.ai/llamaparse))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T22:22:11.513414+05:30
-- **Local Path**: `ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md`
+### 25. [Learn more](../ai/companies/deepmind/learn-more.md) ([Source URL](https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber))
+- **Category**: ai/companies/deepmind
+- **Collected At**: 2026-07-22T01:21:27.947948+05:30
+- **Local Path**: `ai/companies/deepmind/learn-more.md`
 
-### 39. [Max Agency: A Podcast on Building Agents - YouTube](../ai/agents/max-agency-a-podcast-on-building-agents-youtube.md) ([Source URL](https://youtube.com/playlist?list=PLfaIDFEXuae3UwB1QGEjsRAr8BzCQss7s))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-21T22:22:10.359443+05:30
-- **Local Path**: `ai/agents/max-agency-a-podcast-on-building-agents-youtube.md`
+### 26. [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md) ([Source URL](https://deepmind.google/blog))
+- **Category**: ai/companies/deepmind
+- **Collected At**: 2026-07-22T01:21:27.947697+05:30
+- **Local Path**: `ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md`
 
-### 40. [LangChain Events · Events Calendar](../ai/agents/langchain-events-events-calendar.md) ([Source URL](https://luma.com/langchain?k=c))
-- **Category**: ai/agents
-- **Collected At**: 2026-07-21T22:22:10.148599+05:30
-- **Local Path**: `ai/agents/langchain-events-events-calendar.md`
+### 27. [AlphaEvolveDesign advanced algorithms for math and applications in computing](../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md) ([Source URL](https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms))
+- **Category**: ai/companies/deepmind
+- **Collected At**: 2026-07-22T01:21:27.947654+05:30
+- **Local Path**: `ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md`
 
-### 41. [Security Policy · nodejs/node · GitHub](../ai/rag/nodejs-node.md) ([Source URL](https://github.com/nodejs/node))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T22:22:07.805787+05:30
-- **Local Path**: `ai/rag/nodejs-node.md`
+### 28. [AlphaEarthMap our planet in unprecedented detail](../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md) ([Source URL](https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail))
+- **Category**: ai/companies/deepmind
+- **Collected At**: 2026-07-22T01:21:27.947624+05:30
+- **Local Path**: `ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md`
 
-### 42. [pnpm/pnpm](../ai/resources/pnpm-pnpm.md) ([Source URL](https://github.com/pnpm/pnpm))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T22:22:07.424848+05:30
-- **Local Path**: `ai/resources/pnpm-pnpm.md`
+### 29. [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md) ([Source URL](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds))
+- **Category**: ai/companies/deepmind
+- **Collected At**: 2026-07-22T01:21:27.947515+05:30
+- **Local Path**: `ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md`
 
-### 43. [Vite | Next Generation Frontend Tooling](../ai/rag/vite-next-generation-frontend-tooling.md) ([Source URL](https://vite.dev))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T22:22:05.546264+05:30
-- **Local Path**: `ai/rag/vite-next-generation-frontend-tooling.md`
+### 30. [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md) ([Source URL](https://anthropic.com/news/announcing-our-updated-responsible-scaling-policy))
+- **Category**: ai/companies/anthropic
+- **Collected At**: 2026-07-22T01:21:27.580841+05:30
+- **Local Path**: `ai/companies/anthropic/responsible-scaling-policy.md`
 
-### 44. [pnpm - Open Collective](../ai/rag/pnpm-open-collective.md) ([Source URL](https://opencollective.com/pnpm))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T22:22:05.233087+05:30
-- **Local Path**: `ai/rag/pnpm-open-collective.md`
+### 31. [Jul 2, 2026AnnouncementsMore details on Fable 5’s cyber safeguards and our jailbreak framework](../ai/companies/anthropic/jul-2-2026announcementsmore-details-on-fable-5s-cy.md) ([Source URL](https://anthropic.com/news/fable-safeguards-jailbreak-framework))
+- **Category**: ai/companies/anthropic
+- **Collected At**: 2026-07-22T01:21:27.580650+05:30
+- **Local Path**: `ai/companies/anthropic/jul-2-2026announcementsmore-details-on-fable-5s-cy.md`
 
-### 45. [Documentation/RelNotes/2.55.0.adoc · HEAD · git-scm / Git · GitLab](../ai/rag/documentation-relnotes-2-55-0-adoc-head-git-scm-gi.md) ([Source URL](https://gitlab.com/git-scm/git/-/blob/head/documentation/relnotes/2.55.0.adoc))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T22:22:02.931559+05:30
-- **Local Path**: `ai/rag/documentation-relnotes-2-55-0-adoc-head-git-scm-gi.md`
+### 32. [Jul 6, 2026Case StudyGovernment of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems](../ai/companies/anthropic/jul-6-2026case-studygovernment-of-alberta-uses-cla.md) ([Source URL](https://anthropic.com/news/alberta-government-claude-cybersecurity))
+- **Category**: ai/companies/anthropic
+- **Collected At**: 2026-07-22T01:21:27.580626+05:30
+- **Local Path**: `ai/companies/anthropic/jul-6-2026case-studygovernment-of-alberta-uses-cla.md`
 
-### 46. [git/git](../ai/resources/git-git.md) ([Source URL](https://github.com/git/git))
-- **Category**: ai/resources
-- **Collected At**: 2026-07-21T22:22:02.382605+05:30
-- **Local Path**: `ai/resources/git-git.md`
+### 33. [Jul 9, 2026AnnouncementsIntroducing a way to reflect on how you use Claude](../ai/companies/anthropic/jul-9-2026announcementsintroducing-a-way-to-reflec.md) ([Source URL](https://anthropic.com/news/reflect-with-claude))
+- **Category**: ai/companies/anthropic
+- **Collected At**: 2026-07-22T01:21:27.580603+05:30
+- **Local Path**: `ai/companies/anthropic/jul-9-2026announcementsintroducing-a-way-to-reflec.md`
 
-### 47. [Gemini in Android Studio - Android Developers](../ai/rag/gemini-in-android-studio-android-developers.md) ([Source URL](https://developer.android.com/gemini-in-android))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T22:21:51.748254+05:30
-- **Local Path**: `ai/rag/gemini-in-android-studio-android-developers.md`
+### 34. [Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust](../ai/companies/anthropic/jul-9-2026announcementsben-bernanke-appointed-to-a.md) ([Source URL](https://anthropic.com/news/ben-bernanke))
+- **Category**: ai/companies/anthropic
+- **Collected At**: 2026-07-22T01:21:27.580565+05:30
+- **Local Path**: `ai/companies/anthropic/jul-9-2026announcementsben-bernanke-appointed-to-a.md`
 
-### 48. [Android Developers Blog: I/O 2026: What's new in Google Play](../ai/rag/android-developers-blog-i-o-2026-what-s-new-in-goo.md) ([Source URL](https://goo.gle/play-io26))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T22:21:51.108630+05:30
-- **Local Path**: `ai/rag/android-developers-blog-i-o-2026-what-s-new-in-goo.md`
+### 35. [Jul 9, 2026Case StudyUST is bringing Claude to physical AI](../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md) ([Source URL](https://anthropic.com/news/ust-claude))
+- **Category**: ai/companies/anthropic
+- **Collected At**: 2026-07-22T01:21:27.580531+05:30
+- **Local Path**: `ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md`
 
-### 49. [Google AI Studio news from Google I/O 2026](../ai/rag/google-ai-studio-news-from-google-i-o-2026.md) ([Source URL](https://blog.google/innovation-and-ai/technology/developers-tools/google-ai-studio-io-2026))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T22:21:51.028261+05:30
-- **Local Path**: `ai/rag/google-ai-studio-news-from-google-i-o-2026.md`
+### 36. [Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research](../ai/companies/anthropic/jul-14-2026announcementsanthropic-commits-10-milli.md) ([Source URL](https://anthropic.com/news/canadian-ai-research))
+- **Category**: ai/companies/anthropic
+- **Collected At**: 2026-07-22T01:21:27.580509+05:30
+- **Local Path**: `ai/companies/anthropic/jul-14-2026announcementsanthropic-commits-10-milli.md`
 
-### 50. [android Git repositories - Git at Google](../ai/rag/android-git-repositories-git-at-google.md) ([Source URL](https://android.googlesource.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-07-21T22:21:35.597577+05:30
-- **Local Path**: `ai/rag/android-git-repositories-git-at-google.md`
+### 37. [Jul 14, 2026ProductIntroducing Claude for Teachers](../ai/companies/anthropic/jul-14-2026productintroducing-claude-for-teachers.md) ([Source URL](https://anthropic.com/news/claude-for-teachers))
+- **Category**: ai/companies/anthropic
+- **Collected At**: 2026-07-22T01:21:27.580486+05:30
+- **Local Path**: `ai/companies/anthropic/jul-14-2026productintroducing-claude-for-teachers.md`
+
+### 38. [Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants](../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md) ([Source URL](https://anthropic.com/news/rare-disease-research-grants))
+- **Category**: ai/companies/anthropic
+- **Collected At**: 2026-07-22T01:21:27.580458+05:30
+- **Local Path**: `ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md`
+
+### 39. [ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.](../ai/companies/anthropic/productjun-30-2026introducing-claude-sonnet-5sonne.md) ([Source URL](https://anthropic.com/news/claude-sonnet-5))
+- **Category**: ai/companies/anthropic
+- **Collected At**: 2026-07-22T01:21:27.580385+05:30
+- **Local Path**: `ai/companies/anthropic/productjun-30-2026introducing-claude-sonnet-5sonne.md`
+
+### 40. [Firefox Containers Preview](../ai/community/firefox-containers-preview.md) ([Source URL](https://blog.mozilla.org/en/firefox/firefox-containers-preview))
+- **Category**: ai/community
+- **Collected At**: 2026-07-22T01:21:24.831681+05:30
+- **Local Path**: `ai/community/firefox-containers-preview.md`
+
+### 41. [I built a page that tells you what AI model your laptop can run](../ai/community/i-built-a-page-that-tells-you-what-ai-model-your-l.md) ([Source URL](https://localsotabenchmark.engineersf.dev))
+- **Category**: ai/community
+- **Collected At**: 2026-07-22T01:21:24.623773+05:30
+- **Local Path**: `ai/community/i-built-a-page-that-tells-you-what-ai-model-your-l.md`
+
+### 42. [AI Agent – TRMNL](../ai/community/ai-agent-trmnl.md) ([Source URL](https://help.trmnl.com/en/articles/14130438-ai-agent))
+- **Category**: ai/community
+- **Collected At**: 2026-07-22T01:21:23.850786+05:30
+- **Local Path**: `ai/community/ai-agent-trmnl.md`
+
+### 43. [Meta's AI models are powering the first wave of Genesis Mission projects](../ai/community/meta-s-ai-models-are-powering-the-first-wave-of-ge.md) ([Source URL](https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino?_fb_noscript=1))
+- **Category**: ai/community
+- **Collected At**: 2026-07-22T01:21:22.920774+05:30
+- **Local Path**: `ai/community/meta-s-ai-models-are-powering-the-first-wave-of-ge.md`
+
+### 44. [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](../ai/community/qwen-image-3-0-rich-content-authentic-details-deep.md) ([Source URL](https://qwen.ai/blog?id=qwen-image-3.0))
+- **Category**: ai/community
+- **Collected At**: 2026-07-22T01:21:21.960989+05:30
+- **Local Path**: `ai/community/qwen-image-3-0-rich-content-authentic-details-deep.md`
+
+### 45. [AI makes programming differently difficult](../ai/community/ai-makes-programming-differently-difficult.md) ([Source URL](https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult))
+- **Category**: ai/community
+- **Collected At**: 2026-07-22T01:21:21.710651+05:30
+- **Local Path**: `ai/community/ai-makes-programming-differently-difficult.md`
+
+### 46. [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md) ([Source URL](https://nextjs.org/blog/next-5))
+- **Category**: web-development/nextjs
+- **Collected At**: 2026-07-22T01:21:21.448185+05:30
+- **Local Path**: `web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md`
+
+### 47. [Next.js 5.1: Faster Page Resolution, Environment Config & More](../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md) ([Source URL](https://nextjs.org/blog/next-5-1))
+- **Category**: web-development/nextjs
+- **Collected At**: 2026-07-22T01:21:21.448171+05:30
+- **Local Path**: `web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md`
+
+### 48. [Next.js 6 and Nextjs.org](../web-development/nextjs/next-js-6-and-nextjs-org.md) ([Source URL](https://nextjs.org/blog/next-6))
+- **Category**: web-development/nextjs
+- **Collected At**: 2026-07-22T01:21:21.448157+05:30
+- **Local Path**: `web-development/nextjs/next-js-6-and-nextjs-org.md`
+
+### 49. [Next.js 6.1](../web-development/nextjs/next-js-6-1.md) ([Source URL](https://nextjs.org/blog/next-6-1))
+- **Category**: web-development/nextjs
+- **Collected At**: 2026-07-22T01:21:21.448142+05:30
+- **Local Path**: `web-development/nextjs/next-js-6-1.md`
+
+### 50. [Next.js 7](../web-development/nextjs/next-js-7.md) ([Source URL](https://nextjs.org/blog/next-7))
+- **Category**: web-development/nextjs
+- **Collected At**: 2026-07-22T01:21:21.448127+05:30
+- **Local Path**: `web-development/nextjs/next-js-7.md`
 
 ---
-*Index generated on 2026-07-21T22:29:23.636466+05:30*
+*Index generated on 2026-07-22T01:38:22.032103+05:30*
