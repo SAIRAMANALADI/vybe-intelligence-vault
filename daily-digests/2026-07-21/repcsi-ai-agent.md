@@ -1,17 +1,13 @@
 ---
-title: zsomborturcsanyi7-lang/repcsi-ai-agent
-category: daily-digests/2026-07-21
+title: "zsomborturcsanyi7-lang/repcsi-ai-agent"
+category: "Agent Framework"
 tech_stack: []
 quality_score: 1
 rag_relevance: 1
-tags:
-- empty-repo
-- abandoned-project
-- ai-agent
-- placeholder
-source: https://github.com/zsomborturcsanyi7-lang/repcsi-ai-agent
-discovered_at: '2026-07-21T10:24:35Z'
-evaluated_by: mistral-small-latest
+tags: ["empty-repo", "abandoned-project", "ai-agent", "placeholder"]
+source: "https://github.com/zsomborturcsanyi7-lang/repcsi-ai-agent"
+discovered_at: "2026-07-21T10:24:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

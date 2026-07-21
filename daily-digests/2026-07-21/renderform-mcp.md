@@ -1,22 +1,13 @@
 ---
-title: RenderForm/renderform-mcp
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- RenderForm API
+title: "RenderForm/renderform-mcp"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "RenderForm API"]
 quality_score: 7
 rag_relevance: 8
-tags:
-- MCP server
-- RenderForm
-- image generation
-- PDF conversion
-- automation
-source: https://github.com/RenderForm/renderform-mcp
-discovered_at: '2026-07-16T23:58:19Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP server", "RenderForm", "image generation", "PDF conversion", "automation"]
+source: "https://github.com/RenderForm/renderform-mcp"
+discovered_at: "2026-07-16T23:58:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

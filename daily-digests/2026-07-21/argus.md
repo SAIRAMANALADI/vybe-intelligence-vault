@@ -1,25 +1,13 @@
 ---
-title: Gomtanga/argus
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- Agent Skills Framework
-- Firecrawl CLI
-- JSON/YAML
-- Markdown
-- Node.js (for Firecrawl)
-- Unittest
+title: "Gomtanga/argus"
+category: "Agent Framework"
+tech_stack: ["Python", "Agent Skills Framework", "Firecrawl CLI", "JSON/YAML", "Markdown", "Node.js (for Firecrawl)", "Unittest"]
 quality_score: 9
 rag_relevance: 9
-tags:
-- evidence-audited
-- deep web research
-- claim verification
-- adaptive workflow
-- source transparency
-source: https://github.com/Gomtanga/argus
-discovered_at: '2026-07-18T13:09:47Z'
-evaluated_by: mistral-small-latest
+tags: ["evidence-audited", "deep web research", "claim verification", "adaptive workflow", "source transparency"]
+source: "https://github.com/Gomtanga/argus"
+discovered_at: "2026-07-18T13:09:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

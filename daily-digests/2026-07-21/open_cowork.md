@@ -1,27 +1,13 @@
 ---
-title: noshitcoding/Open_Cowork
-category: daily-digests/2026-07-21
-tech_stack:
-- Tauri
-- React
-- TypeScript
-- Rust
-- Node.js
-- Ollama
-- MCP (Model Context Protocol)
-- WebView2
-- GitHub Actions
+title: "noshitcoding/Open_Cowork"
+category: "Agent Framework"
+tech_stack: ["Tauri", "React", "TypeScript", "Rust", "Node.js", "Ollama", "MCP (Model Context Protocol)", "WebView2", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- local-first
-- AI workspace
-- MCP integration
-- desktop automation
-- Windows application
-source: https://github.com/noshitcoding/Open_Cowork
-discovered_at: '2026-07-16T16:25:33Z'
-evaluated_by: mistral-small-latest
+tags: ["local-first", "AI workspace", "MCP integration", "desktop automation", "Windows application"]
+source: "https://github.com/noshitcoding/Open_Cowork"
+discovered_at: "2026-07-16T16:25:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

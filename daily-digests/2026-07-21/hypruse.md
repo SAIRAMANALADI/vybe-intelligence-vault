@@ -1,28 +1,13 @@
 ---
-title: IlyasKhallouki/hypruse
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- Wayland
-- Hyprland
-- grim
-- wtype
-- uv
-- XKB
-- zwlr_virtual_pointer_v1
-- zwp_virtual_keyboard_v1
+title: "IlyasKhallouki/hypruse"
+category: "Agent Framework"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "Wayland", "Hyprland", "grim", "wtype", "uv", "XKB", "zwlr_virtual_pointer_v1", "zwp_virtual_keyboard_v1"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- MCP server
-- Wayland automation
-- Hyprland integration
-- AI desktop control
-- input automation
-source: https://github.com/IlyasKhallouki/hypruse
-discovered_at: '2026-07-16T16:25:48Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP server", "Wayland automation", "Hyprland integration", "AI desktop control", "input automation"]
+source: "https://github.com/IlyasKhallouki/hypruse"
+discovered_at: "2026-07-16T16:25:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,13 @@
 ---
-title: MusadiqUrRahman/whaagent
-category: daily-digests/2026-07-21
-tech_stack:
-- Go
-- Python
-- FastAPI
-- LangGraph
-- LangChain
-- whatsmeow
-- SQLite
-- Docker
-- MCP (Model Context Protocol)
-- OpenAI
-- Anthropic
-- Google Gemini
-- Ollama
+title: "MusadiqUrRahman/whaagent"
+category: "Agent Framework"
+tech_stack: ["Go", "Python", "FastAPI", "LangGraph", "LangChain", "whatsmeow", "SQLite", "Docker", "MCP (Model Context Protocol)", "OpenAI", "Anthropic", "Google Gemini", "Ollama"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- multi-tenant
-- WhatsApp integration
-- LangGraph
-- MCP tools
-- LLM orchestration
-source: https://github.com/MusadiqUrRahman/whaagent
-discovered_at: '2026-07-21T00:03:24Z'
-evaluated_by: mistral-small-latest
+tags: ["multi-tenant", "WhatsApp integration", "LangGraph", "MCP tools", "LLM orchestration"]
+source: "https://github.com/MusadiqUrRahman/whaagent"
+discovered_at: "2026-07-21T00:03:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

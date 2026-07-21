@@ -1,24 +1,13 @@
 ---
-title: FoundryNet/forge-mcp
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- FastMCP
-- HTTPX
-- Streamable HTTP
-- Bearer Authentication
-- Railway (deployment)
+title: "FoundryNet/forge-mcp"
+category: "Agent Framework"
+tech_stack: ["Python", "FastMCP", "HTTPX", "Streamable HTTP", "Bearer Authentication", "Railway (deployment)"]
 quality_score: 8
 rag_relevance: 7
-tags:
-- Industrial IoT
-- MCP Server
-- Telemetry Normalization
-- Automation
-- Tamper-Evident Records
-source: https://github.com/FoundryNet/forge-mcp
-discovered_at: '2026-07-19T07:29:42Z'
-evaluated_by: mistral-small-latest
+tags: ["Industrial IoT", "MCP Server", "Telemetry Normalization", "Automation", "Tamper-Evident Records"]
+source: "https://github.com/FoundryNet/forge-mcp"
+discovered_at: "2026-07-19T07:29:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

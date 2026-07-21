@@ -1,11 +1,9 @@
 {
-  "last_run": "2026-07-21T17:13:08.182333+05:30",
-  "trigger": "schedule",
-  "resources_scanned": 2001,
-  "resources_added": 965,
+  "last_run": "2026-07-21T17:54:33.379361+05:30",
+  "trigger": "manual",
+  "resources_scanned": 12209,
+  "resources_added": 15,
   "resources_updated": 10,
   "resources_removed": 2,
-  "files_modified": 3599,
-  "commit_created": true,
-  "push_successful": true
+  "status": "success"
 }

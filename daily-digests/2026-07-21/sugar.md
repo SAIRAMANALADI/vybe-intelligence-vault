@@ -1,24 +1,13 @@
 ---
-title: roboticforce/sugar
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- SQLite
-- sentence-transformers
-- sqlite-vec
-- MCP (Model Context Protocol)
-- CLI-based AI agents (Claude Code, OpenCode, Goose, Aider)
+title: "roboticforce/sugar"
+category: "Tooling"
+tech_stack: ["Python", "SQLite", "sentence-transformers", "sqlite-vec", "MCP (Model Context Protocol)", "CLI-based AI agents (Claude Code, OpenCode, Goose, Aider)"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- persistent memory
-- AI agent context
-- local-first
-- semantic search
-- autonomous task execution
-source: https://github.com/roboticforce/sugar
-discovered_at: '2026-07-18T21:49:57Z'
-evaluated_by: mistral-small-latest
+tags: ["persistent memory", "AI agent context", "local-first", "semantic search", "autonomous task execution"]
+source: "https://github.com/roboticforce/sugar"
+discovered_at: "2026-07-18T21:49:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

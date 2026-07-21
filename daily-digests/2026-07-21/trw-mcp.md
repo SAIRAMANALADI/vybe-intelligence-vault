@@ -1,24 +1,13 @@
 ---
-title: wallter/trw-mcp
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- SQLite
-- Vector Embeddings
-- YAML
-- Git
+title: "wallter/trw-mcp"
+category: "Orchestrator"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "SQLite", "Vector Embeddings", "YAML", "Git"]
 quality_score: 8
 rag_relevance: 9
-tags:
-- persistent memory
-- AI coding agents
-- spec-driven development
-- MCP server
-- knowledge compounding
-source: https://github.com/wallter/trw-mcp
-discovered_at: '2026-07-18T20:44:10Z'
-evaluated_by: mistral-small-latest
+tags: ["persistent memory", "AI coding agents", "spec-driven development", "MCP server", "knowledge compounding"]
+source: "https://github.com/wallter/trw-mcp"
+discovered_at: "2026-07-18T20:44:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,25 +1,13 @@
 ---
-title: 503496348-ops/artipen
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- Markdown
-- CLI
-- AI Content Detection
-- Image Generation
-- Natural Language Processing
-- Shell Scripting
+title: "503496348-ops/artipen"
+category: "Tooling"
+tech_stack: ["Python", "Markdown", "CLI", "AI Content Detection", "Image Generation", "Natural Language Processing", "Shell Scripting"]
 quality_score: 8
 rag_relevance: 7
-tags:
-- content formatting
-- multi-platform publishing
-- AI content authenticity
-- automated layout
-- content generation
-source: https://github.com/503496348-ops/artipen
-discovered_at: '2026-07-11T02:27:30Z'
-evaluated_by: mistral-small-latest
+tags: ["content formatting", "multi-platform publishing", "AI content authenticity", "automated layout", "content generation"]
+source: "https://github.com/503496348-ops/artipen"
+discovered_at: "2026-07-11T02:27:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

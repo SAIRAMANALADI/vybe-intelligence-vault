@@ -1,30 +1,13 @@
 ---
-title: AnkTechsol/Satya_AI
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- Streamlit
-- SQLite
-- Markdown
-- Git
-- Pandas
-- BeautifulSoup
-- Markdownify
-- Requests
-- GitPython
-- OTLP
-- LangSmith
+title: "AnkTechsol/Satya_AI"
+category: "Orchestrator"
+tech_stack: ["Python", "Streamlit", "SQLite", "Markdown", "Git", "Pandas", "BeautifulSoup", "Markdownify", "Requests", "GitPython", "OTLP", "LangSmith"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- AI agent monitoring
-- task tracking
-- knowledge base
-- real-time dashboard
-- audit logging
-source: https://github.com/AnkTechsol/Satya_AI
-discovered_at: '2026-07-20T03:37:32Z'
-evaluated_by: mistral-small-latest
+tags: ["AI agent monitoring", "task tracking", "knowledge base", "real-time dashboard", "audit logging"]
+source: "https://github.com/AnkTechsol/Satya_AI"
+discovered_at: "2026-07-20T03:37:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

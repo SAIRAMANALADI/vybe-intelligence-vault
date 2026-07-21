@@ -1,29 +1,13 @@
 ---
-title: alibaizhanov/mengram
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- JavaScript/TypeScript
-- REST API
-- Claude Code
-- LangChain
-- CrewAI
-- MCP Server
-- Docker
-- Cohere Embeddings
-- PostgreSQL
-- pgvector
+title: "alibaizhanov/mengram"
+category: "Tooling"
+tech_stack: ["Python", "JavaScript/TypeScript", "REST API", "Claude Code", "LangChain", "CrewAI", "MCP Server", "Docker", "Cohere Embeddings", "PostgreSQL", "pgvector"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- AI memory
-- procedural learning
-- multilingual RAG
-- agent integration
-- workflow evolution
-source: https://github.com/alibaizhanov/mengram
-discovered_at: '2026-07-20T12:22:23Z'
-evaluated_by: mistral-small-latest
+tags: ["AI memory", "procedural learning", "multilingual RAG", "agent integration", "workflow evolution"]
+source: "https://github.com/alibaizhanov/mengram"
+discovered_at: "2026-07-20T12:22:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

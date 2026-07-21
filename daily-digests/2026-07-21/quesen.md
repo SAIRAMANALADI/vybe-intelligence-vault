@@ -1,24 +1,13 @@
 ---
-title: Shxnque/quesen
-category: daily-digests/2026-07-21
-tech_stack:
-- MCP (Model Context Protocol)
-- REST API
-- OpenAPI 3.1
-- Python
-- JavaScript/TypeScript
-- Agent Frameworks (LangChain, CrewAI, AutoGen)
+title: "Shxnque/quesen"
+category: "Orchestrator"
+tech_stack: ["MCP (Model Context Protocol)", "REST API", "OpenAPI 3.1", "Python", "JavaScript/TypeScript", "Agent Frameworks (LangChain, CrewAI, AutoGen)"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- deterministic risk evaluation
-- agent-to-agent communication
-- MCP server
-- financial risk filtering
-- autonomous agents
-source: https://github.com/Shxnque/quesen
-discovered_at: '2026-07-18T20:44:10Z'
-evaluated_by: mistral-small-latest
+tags: ["deterministic risk evaluation", "agent-to-agent communication", "MCP server", "financial risk filtering", "autonomous agents"]
+source: "https://github.com/Shxnque/quesen"
+discovered_at: "2026-07-18T20:44:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

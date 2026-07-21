@@ -1,25 +1,13 @@
 ---
-title: hope1026/weppy-roblox-mcp
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Node.js
-- Roblox Open Cloud API
-- MCP (Model Context Protocol)
-- React
-- Electron
-- VS Code Extension API
+title: "hope1026/weppy-roblox-mcp"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Roblox Open Cloud API", "MCP (Model Context Protocol)", "React", "Electron", "VS Code Extension API"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- Roblox
-- MCP Server
-- AI Game Development
-- Automated Scripting
-- Multi-Place Sync
-source: https://github.com/hope1026/weppy-roblox-mcp
-discovered_at: '2026-07-13T23:53:41Z'
-evaluated_by: mistral-small-latest
+tags: ["Roblox", "MCP Server", "AI Game Development", "Automated Scripting", "Multi-Place Sync"]
+source: "https://github.com/hope1026/weppy-roblox-mcp"
+discovered_at: "2026-07-13T23:53:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

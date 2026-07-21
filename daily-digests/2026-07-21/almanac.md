@@ -1,29 +1,13 @@
 ---
-title: ManeeshJupalle/Almanac
-category: daily-digests/2026-07-21
-tech_stack:
-- Rust
-- Tauri
-- React
-- Vite
-- SQLite
-- ONNX Runtime
-- Candle (Rust ML framework)
-- Qwen2.5-0.5B-Instruct (GGUF)
-- all-MiniLM-L6-v2 (ONNX)
-- DPAPI (Windows token encryption)
-- OAuth
+title: "ManeeshJupalle/Almanac"
+category: "Agent Framework"
+tech_stack: ["Rust", "Tauri", "React", "Vite", "SQLite", "ONNX Runtime", "Candle (Rust ML framework)", "Qwen2.5-0.5B-Instruct (GGUF)", "all-MiniLM-L6-v2 (ONNX)", "DPAPI (Windows token encryption)", "OAuth"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- local-first
-- grounded RAG
-- privacy-preserving
-- desktop agent
-- on-device AI
-source: https://github.com/ManeeshJupalle/Almanac
-discovered_at: '2026-07-11T17:54:47Z'
-evaluated_by: mistral-small-latest
+tags: ["local-first", "grounded RAG", "privacy-preserving", "desktop agent", "on-device AI"]
+source: "https://github.com/ManeeshJupalle/Almanac"
+discovered_at: "2026-07-11T17:54:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,26 +1,13 @@
 ---
-title: yoda-digital/mycelium
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Bun runtime
-- libsodium (XSalsa20-Poly1305, Ed25519)
-- WebSocket
-- Model Context Protocol (MCP)
-- Zod
-- Ed25519
-- Curve25519
+title: "yoda-digital/mycelium"
+category: "Tooling"
+tech_stack: ["TypeScript", "Bun runtime", "libsodium (XSalsa20-Poly1305, Ed25519)", "WebSocket", "Model Context Protocol (MCP)", "Zod", "Ed25519", "Curve25519"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- end-to-end encryption
-- zero-trust messaging
-- perfect forward secrecy
-- Claude Code integration
-- secure relay
-source: https://github.com/yoda-digital/mycelium
-discovered_at: '2026-07-18T09:24:01Z'
-evaluated_by: mistral-small-latest
+tags: ["end-to-end encryption", "zero-trust messaging", "perfect forward secrecy", "Claude Code integration", "secure relay"]
+source: "https://github.com/yoda-digital/mycelium"
+discovered_at: "2026-07-18T09:24:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

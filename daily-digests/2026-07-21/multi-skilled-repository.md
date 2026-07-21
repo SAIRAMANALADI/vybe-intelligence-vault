@@ -1,23 +1,13 @@
 ---
-title: High-cla/multi-skilled-repository
-category: daily-digests/2026-07-21
-tech_stack:
-- Markdown
-- CLI Tools
-- Windows Batch Scripting
-- PowerShell
-- AI Agent Workflows
+title: "High-cla/multi-skilled-repository"
+category: "Tooling"
+tech_stack: ["Markdown", "CLI Tools", "Windows Batch Scripting", "PowerShell", "AI Agent Workflows"]
 quality_score: 7
 rag_relevance: 7
-tags:
-- AI agent skills
-- CLI-first
-- scripting pitfalls
-- Windows batch
-- PowerShell
-source: https://github.com/High-cla/multi-skilled-repository
-discovered_at: '2026-07-16T08:09:56Z'
-evaluated_by: mistral-small-latest
+tags: ["AI agent skills", "CLI-first", "scripting pitfalls", "Windows batch", "PowerShell"]
+source: "https://github.com/High-cla/multi-skilled-repository"
+discovered_at: "2026-07-16T08:09:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

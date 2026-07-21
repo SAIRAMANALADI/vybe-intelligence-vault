@@ -1,26 +1,13 @@
 ---
-title: Max17190/open-max
-category: daily-digests/2026-07-21
-tech_stack:
-- Rust
-- Terminal UI (TUI)
-- MLX (Apple Silicon)
-- Ollama
-- LM Studio
-- vLLM
-- llama.cpp
-- Hugging Face
+title: "Max17190/open-max"
+category: "Agent Framework"
+tech_stack: ["Rust", "Terminal UI (TUI)", "MLX (Apple Silicon)", "Ollama", "LM Studio", "vLLM", "llama.cpp", "Hugging Face"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- agent harness
-- local AI
-- terminal interface
-- Rust
-- extensible
-source: https://github.com/Max17190/open-max
-discovered_at: '2026-07-16T16:25:36Z'
-evaluated_by: mistral-small-latest
+tags: ["agent harness", "local AI", "terminal interface", "Rust", "extensible"]
+source: "https://github.com/Max17190/open-max"
+discovered_at: "2026-07-16T16:25:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

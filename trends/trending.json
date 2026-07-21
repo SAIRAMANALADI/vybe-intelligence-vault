@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T17:09:03.656199+05:30",
+  "generated_at": "2026-07-21T17:54:33.379361+05:30",
   "trending_resources": [
     {
       "id": "hackernews:who-s-afraid-of-chinese-models",
@@ -88,7 +88,7 @@
       "file_path": "ai/rag/cornell-data-services.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 9029,
+      "rank_change": 9032,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -101,7 +101,7 @@
       "file_path": "ai/rag/techarohq-anubis.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2196,
+      "rank_change": 2199,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -114,7 +114,7 @@
       "file_path": "ai/resources/making-sure-you-re-not-a-bot.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2202,
+      "rank_change": 2205,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -127,7 +127,7 @@
       "file_path": "ai/resources/welcome-lab-of-atomic-of-solid-state-physics-lassp.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 8984,
+      "rank_change": 8988,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -142,7 +142,7 @@
       "file_path": "ai/resources/home-cornell-research-services.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 9042,
+      "rank_change": 9046,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -155,7 +155,7 @@
       "file_path": "ai/rag/cornell-data-services.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 9029,
+      "rank_change": 9032,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -181,20 +181,7 @@
       "file_path": "ai/resources/welcome-lab-of-atomic-of-solid-state-physics-lassp.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 8984,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:supabase-docs",
-      "title": "Supabase Docs",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://supabase.com/docs",
-      "file_path": "ai/rag/supabase-docs.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 7254,
+      "rank_change": 8988,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -207,7 +194,7 @@
       "file_path": "ai/rag/cloudflare-and-gdpr-compliance-cloudflare.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 7039,
+      "rank_change": 7052,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -220,7 +207,7 @@
       "file_path": "ai/rag/chroma-core-chroma.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 7003,
+      "rank_change": 7025,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -233,7 +220,7 @@
       "file_path": "ai/resources/careers-at-cloudflare-a-open-positions-cloudflare.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 5787,
+      "rank_change": 5800,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,7 +233,7 @@
       "file_path": "ai/rag/cloudflare-research.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 5750,
+      "rank_change": 5772,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -259,7 +246,20 @@
       "file_path": "ai/resources/cloudflare-cloudflare-docs.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 4870,
+      "rank_change": 4891,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:huggingface/sentence-transformers",
+      "title": "huggingface/sentence-transformers",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/huggingface/sentence-transformers",
+      "file_path": "ai/rag/huggingface-sentence-transformers.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 4459,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -298,32 +298,6 @@
       "source_type": "web",
       "url": "https://technion.ac.il",
       "file_path": "ai/resources/htknyvn-mkvn-tknvlvgy-lyshrl.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:cis-main-division-of-computing-and-information-sys",
-      "title": "CIS - main - Division of Computing and Information Systems",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://cis.technion.ac.il/en",
-      "file_path": "ai/rag/cis-main-division-of-computing-and-information-sys.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:home-htknyvn-mkvn-tknvlvgy-lyshrl",
-      "title": "Home - הטכניון-מכון טכנולוגי לישראל",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://technion.ac.il/en/home-2",
-      "file_path": "ai/resources/home-htknyvn-mkvn-tknvlvgy-lyshrl.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -370,19 +344,6 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:web-accessibility-assistance-accessibility-informa",
-      "title": "Web Accessibility Assistance – Accessibility Information",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://accessibility.cornell.edu/information-technology/web-accessibility/web-accessibility-assistance",
-      "file_path": "ai/resources/web-accessibility-assistance-accessibility-informa.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
       "id": "blog:guide-to-using-rass-pi-dashboard-documentation-tra",
       "title": "Guide to Using RASS & PI Dashboard | Documentation & Training",
       "category": "ai/resources",
@@ -422,19 +383,6 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:cornell-tech-joan-and-irwin-jacobs-technion-cornel",
-      "title": "Cornell Tech - Joan and Irwin Jacobs Technion-Cornell Institute",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://tech.cornell.edu/jacobs-technion-cornell-institute/overview",
-      "file_path": "ai/rag/cornell-tech-joan-and-irwin-jacobs-technion-cornel.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
       "id": "blog:nsf-expeditions-in-computing-computational-sustain",
       "title": "NSF Expeditions in Computing: Computational Sustainability",
       "category": "ai/rag",
@@ -454,6 +402,58 @@
       "source_type": "web",
       "url": "https://research.cornell.edu/find-a-center",
       "file_path": "ai/rag/find-a-center-institute-lab-or-program-cornell-res.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:section-1201-study-u-s-copyright-office",
+      "title": "Section 1201 Study | U.S. Copyright Office",
+      "category": "ai/agents",
+      "source_type": "web",
+      "url": "https://copyright.gov/policy/1201",
+      "file_path": "ai/agents/section-1201-study-u-s-copyright-office.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:security/advanced-security",
+      "title": "GitHub Code Security · GitHub",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://github.com/security/advanced-security",
+      "file_path": "ai/rag/security-advanced-security.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:github-security-lab-securing-open-source-software",
+      "title": "GitHub Security Lab | Securing open source software, together.",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://securitylab.github.com",
+      "file_path": "ai/resources/github-security-lab-securing-open-source-software.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:cloudflare-careers-cloudflare",
+      "title": "Cloudflare Careers | Cloudflare",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://cloudflare.com/careers",
+      "file_path": "ai/rag/cloudflare-careers-cloudflare.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,

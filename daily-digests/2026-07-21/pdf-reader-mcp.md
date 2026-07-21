@@ -1,25 +1,13 @@
 ---
-title: shuji-bonji/pdf-reader-mcp
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- MCP TypeScript SDK
-- pdfjs-dist
-- pdf-lib
-- Vitest
-- Biome
-- Zod
+title: "shuji-bonji/pdf-reader-mcp"
+category: "Tooling"
+tech_stack: ["TypeScript", "MCP TypeScript SDK", "pdfjs-dist", "pdf-lib", "Vitest", "Biome", "Zod"]
 quality_score: 9
 rag_relevance: 9
-tags:
-- PDF analysis
-- MCP server
-- structured data extraction
-- document inspection
-- RAG preprocessing
-source: https://github.com/shuji-bonji/pdf-reader-mcp
-discovered_at: '2026-07-19T21:51:26Z'
-evaluated_by: mistral-small-latest
+tags: ["PDF analysis", "MCP server", "structured data extraction", "document inspection", "RAG preprocessing"]
+source: "https://github.com/shuji-bonji/pdf-reader-mcp"
+discovered_at: "2026-07-19T21:51:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

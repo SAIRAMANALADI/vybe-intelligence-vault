@@ -1,34 +1,13 @@
 ---
-title: daniel3303/Equibles
-category: daily-digests/2026-07-21
-tech_stack:
-- C#
-- .NET 10.0
-- PostgreSQL
-- ParadeDB
-- pgvector
-- pg_search
-- Docker
-- MCP (Model Context Protocol)
-- Yahoo Finance API
-- SEC EDGAR API
-- FINRA API
-- FRED API
-- CFTC API
-- CBOE API
-- USAspending.gov API
-- FDA.gov API
+title: "daniel3303/Equibles"
+category: "Tooling"
+tech_stack: ["C#", ".NET 10.0", "PostgreSQL", "ParadeDB", "pgvector", "pg_search", "Docker", "MCP (Model Context Protocol)", "Yahoo Finance API", "SEC EDGAR API", "FINRA API", "FRED API", "CFTC API", "CBOE API", "USAspending.gov API", "FDA.gov API"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- financial data
-- MCP server
-- SEC filings
-- self-hosted
-- AI agent integration
-source: https://github.com/daniel3303/Equibles
-discovered_at: '2026-07-18T17:56:25Z'
-evaluated_by: mistral-small-latest
+tags: ["financial data", "MCP server", "SEC filings", "self-hosted", "AI agent integration"]
+source: "https://github.com/daniel3303/Equibles"
+discovered_at: "2026-07-18T17:56:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

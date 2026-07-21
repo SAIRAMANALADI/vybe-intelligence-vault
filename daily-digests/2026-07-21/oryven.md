@@ -1,25 +1,13 @@
 ---
-title: 1tsRajOwO/oryven
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- FastAPI
-- React
-- Electron
-- Ollama
-- SQLite
-- Playwright
+title: "1tsRajOwO/oryven"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "React", "Electron", "Ollama", "SQLite", "Playwright"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- local AI
-- on-device agent
-- Ollama integration
-- computer control
-- privacy-focused
-source: https://github.com/1tsRajOwO/oryven
-discovered_at: '2026-07-18T23:52:34Z'
-evaluated_by: mistral-small-latest
+tags: ["local AI", "on-device agent", "Ollama integration", "computer control", "privacy-focused"]
+source: "https://github.com/1tsRajOwO/oryven"
+discovered_at: "2026-07-18T23:52:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

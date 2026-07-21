@@ -1,28 +1,13 @@
 ---
-title: raphaelmansuy/edgecrab
-category: daily-digests/2026-07-21
-tech_stack:
-- Rust
-- ReAct Tool Loop
-- TUI (ratatui)
-- LLM Providers (16 built-in)
-- Messaging Gateways (17 platforms)
-- MCP Server Integration
-- Python SDK
-- Node.js SDK
-- Docker
-- OpenAI-compatible Proxy
+title: "raphaelmansuy/edgecrab"
+category: "Agent Framework"
+tech_stack: ["Rust", "ReAct Tool Loop", "TUI (ratatui)", "LLM Providers (16 built-in)", "Messaging Gateways (17 platforms)", "MCP Server Integration", "Python SDK", "Node.js SDK", "Docker", "OpenAI-compatible Proxy"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- autonomous agent
-- Rust-native
-- persistent memory
-- multi-platform
-- TUI
-source: https://github.com/raphaelmansuy/edgecrab
-discovered_at: '2026-07-20T09:59:28Z'
-evaluated_by: mistral-small-latest
+tags: ["autonomous agent", "Rust-native", "persistent memory", "multi-platform", "TUI"]
+source: "https://github.com/raphaelmansuy/edgecrab"
+discovered_at: "2026-07-20T09:59:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

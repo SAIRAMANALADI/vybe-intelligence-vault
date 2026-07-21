@@ -1,19 +1,13 @@
 ---
-title: MayureshBhamare/Aegis
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
+title: "MayureshBhamare/Aegis"
+category: "Agent Framework"
+tech_stack: ["Python"]
 quality_score: 4
 rag_relevance: 5
-tags:
-- AI companion
-- developer tools
-- cybersecurity
-- Python prototype
-- automation
-source: https://github.com/MayureshBhamare/Aegis
-discovered_at: '2026-07-18T17:56:18Z'
-evaluated_by: mistral-small-latest
+tags: ["AI companion", "developer tools", "cybersecurity", "Python prototype", "automation"]
+source: "https://github.com/MayureshBhamare/Aegis"
+discovered_at: "2026-07-18T17:56:18Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

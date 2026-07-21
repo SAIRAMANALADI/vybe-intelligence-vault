@@ -1,23 +1,13 @@
 ---
-title: indigokarasu/sift
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- MCP
-- SearXNG
-- Jina AI
-- Scrapling
+title: "indigokarasu/sift"
+category: "Orchestrator"
+tech_stack: ["Python", "MCP", "SearXNG", "Jina AI", "Scrapling"]
 quality_score: 7
 rag_relevance: 9
-tags:
-- research synthesis
-- source reliability
-- web retrieval
-- RAG optimization
-- information verification
-source: https://github.com/indigokarasu/sift
-discovered_at: '2026-07-21T04:14:50Z'
-evaluated_by: mistral-small-latest
+tags: ["research synthesis", "source reliability", "web retrieval", "RAG optimization", "information verification"]
+source: "https://github.com/indigokarasu/sift"
+discovered_at: "2026-07-21T04:14:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,23 +1,13 @@
 ---
-title: OraclePersonal/Oracle-memory
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- MCP (Model Context Protocol)
-- BM25
-- Vector Search
-- Node.js
+title: "OraclePersonal/Oracle-memory"
+category: "Tooling"
+tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "BM25", "Vector Search", "Node.js"]
 quality_score: 8
 rag_relevance: 9
-tags:
-- memory persistence
-- hybrid search
-- agent tooling
-- file-backed storage
-- MCP server
-source: https://github.com/OraclePersonal/Oracle-memory
-discovered_at: '2026-07-20T02:44:59Z'
-evaluated_by: mistral-small-latest
+tags: ["memory persistence", "hybrid search", "agent tooling", "file-backed storage", "MCP server"]
+source: "https://github.com/OraclePersonal/Oracle-memory"
+discovered_at: "2026-07-20T02:44:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

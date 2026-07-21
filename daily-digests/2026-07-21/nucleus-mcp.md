@@ -1,25 +1,13 @@
 ---
-title: eidetic-works/nucleus-mcp
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- SQLite
-- JSON
-- Markdown
-- CLI
-- Telemetry (anonymous, opt-in)
+title: "eidetic-works/nucleus-mcp"
+category: "Orchestrator"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "SQLite", "JSON", "Markdown", "CLI", "Telemetry (anonymous, opt-in)"]
 quality_score: 9
 rag_relevance: 9
-tags:
-- persistent memory
-- AI governance
-- execution verification
-- MCP server
-- compliance tracking
-source: https://github.com/eidetic-works/nucleus-mcp
-discovered_at: '2026-07-21T04:15:10Z'
-evaluated_by: mistral-small-latest
+tags: ["persistent memory", "AI governance", "execution verification", "MCP server", "compliance tracking"]
+source: "https://github.com/eidetic-works/nucleus-mcp"
+discovered_at: "2026-07-21T04:15:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

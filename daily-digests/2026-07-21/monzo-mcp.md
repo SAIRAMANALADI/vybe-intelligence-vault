@@ -1,25 +1,13 @@
 ---
-title: partymola/monzo-mcp
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- OAuth 2.0
-- SQLite
-- Monzo API
-- uv (package manager)
-- FastAPI (implicit via MCP)
+title: "partymola/monzo-mcp"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "OAuth 2.0", "SQLite", "Monzo API", "uv (package manager)", "FastAPI (implicit via MCP)"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- banking API
-- OAuth
-- transaction caching
-- spending analysis
-- MCP server
-source: https://github.com/partymola/monzo-mcp
-discovered_at: '2026-07-11T23:54:03Z'
-evaluated_by: mistral-small-latest
+tags: ["banking API", "OAuth", "transaction caching", "spending analysis", "MCP server"]
+source: "https://github.com/partymola/monzo-mcp"
+discovered_at: "2026-07-11T23:54:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

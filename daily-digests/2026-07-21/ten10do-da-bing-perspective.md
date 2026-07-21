@@ -1,22 +1,13 @@
 ---
-title: ten10do/ten10do-da-bing-perspective
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- Codex Skill
-- Natural Language Processing
-- Knowledge Distillation
+title: "ten10do/ten10do-da-bing-perspective"
+category: "Tooling"
+tech_stack: ["Python", "Codex Skill", "Natural Language Processing", "Knowledge Distillation"]
 quality_score: 3
 rag_relevance: 5
-tags:
-- thinking framework
-- cognitive patterns
-- knowledge distillation
-- public materials
-- expressive style
-source: https://github.com/ten10do/ten10do-da-bing-perspective
-discovered_at: '2026-07-13T10:24:09Z'
-evaluated_by: mistral-small-latest
+tags: ["thinking framework", "cognitive patterns", "knowledge distillation", "public materials", "expressive style"]
+source: "https://github.com/ten10do/ten10do-da-bing-perspective"
+discovered_at: "2026-07-13T10:24:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

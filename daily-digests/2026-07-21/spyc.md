@@ -1,24 +1,13 @@
 ---
-title: Tripstack-Corp/spyc
-category: daily-digests/2026-07-21
-tech_stack:
-- Rust
-- MCP (Model Context Protocol)
-- Terminal UI
-- Git
-- Lua (for scripting)
-- TOML (for configuration)
+title: "Tripstack-Corp/spyc"
+category: "Tooling"
+tech_stack: ["Rust", "MCP (Model Context Protocol)", "Terminal UI", "Git", "Lua (for scripting)", "TOML (for configuration)"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- file commander
-- MCP integration
-- AI agent collaboration
-- terminal UI
-- keyboard-driven
-source: https://github.com/Tripstack-Corp/spyc
-discovered_at: '2026-07-17T20:05:20Z'
-evaluated_by: mistral-small-latest
+tags: ["file commander", "MCP integration", "AI agent collaboration", "terminal UI", "keyboard-driven"]
+source: "https://github.com/Tripstack-Corp/spyc"
+discovered_at: "2026-07-17T20:05:20Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

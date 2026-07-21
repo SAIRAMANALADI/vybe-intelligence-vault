@@ -1,25 +1,13 @@
 ---
-title: LongNgn204/local-coding-agent
-category: daily-digests/2026-07-21
-tech_stack:
-- JavaScript
-- Node.js
-- MCP (Model Context Protocol)
-- Express.js
-- Git
-- Windows/macOS/Linux
-- Mermaid.js (for diagrams)
+title: "LongNgn204/local-coding-agent"
+category: "Orchestrator"
+tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "Express.js", "Git", "Windows/macOS/Linux", "Mermaid.js (for diagrams)"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- MCP server
-- local development
-- AI agent tools
-- workspace management
-- dashboard monitoring
-source: https://github.com/LongNgn204/local-coding-agent
-discovered_at: '2026-07-15T05:29:55Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP server", "local development", "AI agent tools", "workspace management", "dashboard monitoring"]
+source: "https://github.com/LongNgn204/local-coding-agent"
+discovered_at: "2026-07-15T05:29:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

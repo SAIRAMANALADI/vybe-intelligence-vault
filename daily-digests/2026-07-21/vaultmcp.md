@@ -1,26 +1,13 @@
 ---
-title: Axiler-Lab/vaultmcp
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Node.js
-- Docker
-- PostgreSQL
-- Redis
-- GitHub OAuth
-- AES-256-GCM (encryption)
-- MCP (Model Context Protocol)
+title: "Axiler-Lab/vaultmcp"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Docker", "PostgreSQL", "Redis", "GitHub OAuth", "AES-256-GCM (encryption)", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- secret management
-- MCP gateway
-- credential vault
-- AI IDE integration
-- encryption
-source: https://github.com/Axiler-Lab/vaultmcp
-discovered_at: '2026-07-20T03:37:47Z'
-evaluated_by: mistral-small-latest
+tags: ["secret management", "MCP gateway", "credential vault", "AI IDE integration", "encryption"]
+source: "https://github.com/Axiler-Lab/vaultmcp"
+discovered_at: "2026-07-20T03:37:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
