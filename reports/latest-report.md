@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-22T04:00:34.819063+05:30`
+Generated at: `2026-07-22T04:30:43.602599+05:30`
 
 ## Executive Summary
 
@@ -10,7 +10,7 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 - **OpenAI and Hugging Face address security incident during model evaluation** - Score: `384` in category `ai/community` ([Link](https://openai.com/index/hugging-face-model-evaluation-security-incident)) ([File](../ai/community/openai-and-hugging-face-address-security-incident.md))
 - **Show HN: Browser Tools SDK – an optimal browser harness for agents** - Score: `4` in category `ai/community` ([Link](https://libretto.sh/browser-tools)) ([File](../ai/community/show-hn-browser-tools-sdk-an-optimal-browser-harne.md))
-- **The State of Simulation for Physical AI: An Overview** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai)) ([File](../ai/models/huggingface-blog-nvidia-state-of-simulation-for-physical-ai.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
@@ -22,21 +22,21 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/datawhalechina-all-in-rag.md))
 - **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+1303` ([File](../ai/rag/raganwald-raganwald-github-com.md))
 - **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/human-language-technologies.md))
+- **Latest News from Google Research Blog - Google Research** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/latest-news-from-google-research-blog-google-resea.md))
+- **Develop for Android | Android Developers** - Score: `0` (0), Rank Change: `+965` ([File](../ai/resources/develop-for-android-android-developers.md))
 
 ## 🚀 Fastest Rising Tools
 
+- **Medium** - (Rank Change: `+12915`) ([File](../ai/rag/medium-2.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+12829`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
 - **raganwald/raganwald.github.com** - (Rank Change: `+1303`) ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - (Rank Change: `+67`) ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
-- **Sunsetting Create React App** - (Rank Change: `+67`) ([File](../ai/rag/sunsetting-create-react-app.md))
-- **Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack** - (Rank Change: `+21`) ([File](../ai/research/arxiv-2606-14409.md))
-- **ParticleMedia/RAGTruth** - (Rank Change: `+3`) ([File](../ai/rag/particlemedia-ragtruth.md))
-- **AI Agent – TRMNL** - (Rank Change: `+2`) ([File](../ai/community/ai-agent-trmnl.md))
-- **Grabette: an open system to record robot-manipulation data** - (Rank Change: `+2`) ([File](../ai/models/huggingface-blog-grabette.md))
-- **Meta's AI models are powering the first wave of Genesis Mission projects** - (Rank Change: `+1`) ([File](../ai/community/meta-s-ai-models-are-powering-the-first-wave-of-ge.md))
-- **datawhalechina/all-in-rag** - (Rank Change: `+1`) ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **datawhalechina/llm-universe** - (Rank Change: `+1`) ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1** - (Rank Change: `+967`) ([File](../ai/rag/monday-service-langsmith-building-a-code-first-eva.md))
+- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+967`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
+- **promptfoo/promptfoo-action** - (Rank Change: `+967`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
+- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+967`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
+- **Understanding RAG from Scratch | martinuke0's Blog** - (Rank Change: `+967`) ([File](../ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md))
+- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+967`) ([File](../ai/rag/arxiv-2606-29031.md))
+- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+967`) ([File](../ai/research/arxiv-2606-26428.md))
 
 ## 🔄 Essential Tier Transitions
 
