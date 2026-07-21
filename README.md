@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-47%2C086-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-49%2C460-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--21-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **47,086 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **49,460 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -197,8 +197,8 @@ score_threshold: 0.65
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 47,086 files</p>
-        <p><b>Last Update:</b> 2026-07-21 04:30 IST</p>
+        <p><b>Total Vault Size:</b> 49,460 files</p>
+        <p><b>Last Update:</b> 2026-07-21 05:33 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,26 +210,22 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Airport Simulator](ai/community/airport-simulator.md)** • <kbd>+93 pts</kbd>
-- 🔼 **[Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling](ai/community/kimi-k3-qwen-3-8-and-anthropic-s-potential-unravel.md)** • <kbd>+54 pts</kbd>
-- 🔼 **[How we measured AI writing across arXiv, and where the measurement breaks](ai/community/how-we-measured-ai-writing-across-arxiv-and-where.md)** • <kbd>+24 pts</kbd>
-- 🔼 **[Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12](ai/community/launch-hn-bloomy-yc-s26-ai-powered-mastery-learnin.md)** • <kbd>+13 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Run Payments with Stripe | Firebase Extensions Hub](ai/rag/run-payments-with-stripe-firebase-extensions-hub.md)** • Rank: <kbd>+1947</kbd>
+- 🔼 **[Run Payments with Stripe | Firebase Extensions Hub](ai/rag/run-payments-with-stripe-firebase-extensions-hub.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Sign in - Google Accounts](ai/resources/sign-in-google-accounts.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[android Git repositories - Git at Google](ai/rag/android-git-repositories-git-at-google.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Android Open Source Project](ai/resources/android-open-source-project.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Develop for Android | Android Developers](ai/resources/develop-for-android-android-developers.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
 - 🆕 **[China’s open-weights AI strategy is winning](ai/community/american-ai-is-locked-down-and-proprietary-it-s-lo.md)** • Score: `825`
-- 🆕 **[Who's Afraid of Chinese Models?](ai/community/who-s-afraid-of-chinese-models.md)** • Score: `37`
-- 🆕 **[My two year old taught me constraint solving](ai/community/my-two-year-old-taught-me-constraint-solving.md)** • Score: `5`
-- 🆕 **[android Git repositories - Git at Google](ai/rag/android-git-repositories-git-at-google.md)** • Score: `0`
-- 🆕 **[accounts?p=signin_privatebrowsing&hl=en-US](ai/resources/accounts-p-signin-privatebrowsing-hl-en-us.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Controlling Reasoning Effort in LLMs](ai/community/controlling-reasoning-effort-in-llms.md)**
-- 💤 **[An Empirical Study: AI Agent Rules Need Context and Layered Enforcement](ai/community/an-empirical-study-ai-agent-rules-need-context-and.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
