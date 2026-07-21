@@ -62,7 +62,9 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install jsonschema
+          pip install jsonschema crawl4ai
+          # crawl4ai needs Playwright browsers on first install
+          python -m crawl4ai.install_browsers || playwright install chromium --with-deps || true
           if [ -f engine/requirements.txt ]; then pip install -r engine/requirements.txt; fi
 
       - name: Generate Correlation ID
@@ -226,3 +228,13 @@ jobs:
             evaluation-*.json
             discovery-batch.json
           key: harvester-eval-${{ github.run_id }}-${{ github.run_attempt }}
+
+  # Explicitly trigger the rebuild after new digests are pushed.
+  # This fires regardless of [skip ci] on the commit because it is a workflow_call,
+  # not a push event — which is the root cause of why the index was never rebuilt.
+  rebuild-index:
+    name: Trigger Index Rebuild
+    needs: harvest
+    if: needs.harvest.result == 'success'
+    uses: ./.github/workflows/rebuild-index.yml
+    secrets: inherit

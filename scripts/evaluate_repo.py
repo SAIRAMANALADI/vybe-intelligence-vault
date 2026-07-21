@@ -352,6 +352,27 @@ def evaluate_single_repo(repo, token, force_cloud_llm, force, correlation_id):
     
     readme = fetch_raw_readme(owner, repo_name, token=token)
     
+    # ── Crawl4ai enrichment ──────────────────────────────────────────────────
+    # Attempt to crawl the project's homepage (from meta.homepage_url) to get
+    # richer content than the GitHub README alone. Falls back gracefully to ""
+    # if crawl4ai is not installed or the domain is skip-listed.
+    crawled_content = ""
+    homepage_url = meta.get("homepage") or meta.get("homepage_url") or ""
+    if homepage_url and homepage_url.startswith("http"):
+        try:
+            # Dynamic import so evaluate_repo.py still works without crawl4ai
+            scripts_dir = str(Path(__file__).resolve().parent)
+            if scripts_dir not in sys.path:
+                sys.path.insert(0, scripts_dir)
+            from crawler import crawl_url  # type: ignore
+            log(f"Crawling project homepage: {homepage_url}")
+            crawled_content = crawl_url(homepage_url)
+            if crawled_content:
+                log(f"Crawled {len(crawled_content)} chars from {homepage_url}")
+        except Exception as crawl_err:
+            log(f"Crawl step skipped: {crawl_err}")
+    # ────────────────────────────────────────────────────────────────────────
+    
     # Releases
     releases_url = f"https://api.github.com/repos/{owner}/{repo_name}/releases?per_page=3"
     releases_data = []
@@ -405,7 +426,11 @@ def evaluate_single_repo(repo, token, force_cloud_llm, force, correlation_id):
         f"README: {truncated_readme}\n"
         f"Metadata: stars={stars}, language={language}, last_updated={updated_at}, topics={description}\n"
         f"Releases:\n{json.dumps(releases_data, indent=2)}\n\n"
-        "Return strictly valid JSON with the fields: summary, tech_stack, category, quality_score, rag_relevance, tags, key_features, deployment_complexity, why_it_matters."
+        + (
+            f"Homepage Content (crawled):\n{crawled_content[:4000]}\n\n"
+            if crawled_content else ""
+        )
+        + "Return strictly valid JSON with the fields: summary, tech_stack, category, quality_score, rag_relevance, tags, key_features, deployment_complexity, why_it_matters."
     )
     
     # Query with retry/validation
@@ -569,12 +594,18 @@ def generate_mode(args):
             
             md_content = f"""---
 title: "{repo}"
+content_type: "repo"
+engine: "v2"
 category: "{eval_info['category']}"
 tech_stack: {json.dumps(eval_info['tech_stack'])}
 quality_score: {quality}
 rag_relevance: {rag_relevance}
+deployment_complexity: "{eval_info.get('deployment_complexity', 'Medium')}"
 tags: {json.dumps(eval_info['tags'])}
 source: "https://github.com/{repo}"
+stars: {data.get('stars', 0)}
+language: "{data.get('language', 'Unknown')}"
+last_updated: "{data.get('last_updated', '')}"
 discovered_at: "{data['collected_at']}"
 evaluated_by: "{data['model_used']}"
 ---

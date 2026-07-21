@@ -1,6 +1,10 @@
 name: Rebuild Vault Index
 
 on:
+  # Triggered explicitly by harvester.yml after new digests are committed
+  # This bypasses the [skip ci] block that was preventing auto-rebuilds
+  workflow_call:
+  # Also fires on direct pushes to these paths (e.g. manual edits, PRs)
   push:
     branches:
       - main
@@ -9,7 +13,8 @@ on:
       - "skills/**"
       - "daily-digests/**"
       - "prompts/**"
-      - "scripts/**"
+      - "scripts/build-index.js"
+      - "scripts/state-manager.js"
   workflow_dispatch:
 
 permissions:
@@ -23,6 +28,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          # Use VAULT_GITHUB_TOKEN to allow the resulting push to trigger
+          # downstream workflows (GITHUB_TOKEN pushes are silently blocked)
+          token: ${{ secrets.VAULT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
       - name: Setup Node.js
@@ -30,22 +38,21 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Rebuild & Push Index
+      - name: Pull latest before building
+        run: git pull --rebase origin main
+
+      - name: Rebuild Vault Graph Index
+        run: node scripts/build-index.js
+
+      - name: Commit & Push Index
         run: |
           git config --global user.name "${{ secrets.COMMIT_AUTHOR_NAME || 'sairaman436' }}"
           git config --global user.email "${{ secrets.COMMIT_AUTHOR_EMAIL || '24bq1a05p6@vvit.net' }}"
-          
-          # Pull latest remote changes first to prevent conflicts
-          git pull --rebase origin main
-          
-          # Build the index on top of the latest pulled state
-          node scripts/build-index.js
-          
-          # Stage, commit and push changes if any
           if [ -n "$(git status --porcelain)" ]; then
-            git add world/public/vault-index.json
-            git commit -m "chore: auto-rebuild graph index [skip ci]"
+            git add vault-core/vault-index.json world/public/vault-index.json || true
+            git commit -m "chore(index): auto-rebuild graph index [skip ci]"
             git push origin main
+            echo "Index rebuilt and pushed."
           else
-            echo "Index unchanged."
+            echo "Index unchanged — no push needed."
           fi

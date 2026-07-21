@@ -1,11 +1,49 @@
 version: "2.0"
+
+# --- Discovery ---
 topics:
   - "ai-agent"
   - "mcp-server"
   - "rag-stack"
+  - "llm-ops"
+  - "vector-database"
+  - "retrieval-augmented-generation"
+
+# --- Cost Controls ---
 daily_budget: 2.00
+
+# --- LLM Routing ---
+# LLM_PROVIDER env var controls which provider is used: "mistral" | "openai" | "ollama"
+# If the selected provider key is missing, the system auto-falls-back to local Ollama.
 cloud_llm:
-  model: "gpt-4o-mini"
+  provider: "mistral"           # matches LLM_PROVIDER=mistral in harvester.yml
+  model: "mistral-small-latest" # was incorrectly set to gpt-4o-mini before
+  openai_model: "gpt-4o-mini"   # used when LLM_PROVIDER=openai
+
 local_llm:
   model: "qwen2.5:14b"
   endpoint: "http://localhost:11434"
+  embed_model: "nomic-embed-text"
+
+# --- Crawler (crawl4ai) ---
+crawler:
+  enabled: true
+  headless: true
+  max_content_chars: 8000      # truncation limit for crawled body fed to LLM
+  request_timeout: 30          # seconds per crawl attempt
+  # Domains to skip crawling (docs, PDFs, auth-walled sites)
+  skip_domains:
+    - "arxiv.org"
+    - "twitter.com"
+    - "x.com"
+    - "linkedin.com"
+    - "reddit.com"
+    - "youtube.com"
+
+# --- Output Schema ---
+# All harvested files (both engines) emit these frontmatter fields
+# content_type: "repo" | "paper" | "blog" | "tool" | "dataset"
+# engine: "v2" | "core"
+output:
+  quality_threshold: 5         # files below this score go to PR review
+  digest_dir: "daily-digests"

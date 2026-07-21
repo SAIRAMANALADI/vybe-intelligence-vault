@@ -264,8 +264,6 @@ async function getEmbedding(text, relPath) {
   return vector;
 }
 
-const staticMockVector = Array.from({ length: 768 }, (_, i) => parseFloat(Math.sin(i).toFixed(6)));
-
 async function buildIndex() {
   // Dynamically scan all directories in the vault except for internal system/temporary folders
   const foldersToScan = fs.readdirSync(VAULT_ROOT).filter(file => {
@@ -297,39 +295,37 @@ async function buildIndex() {
     for (const filePath of files) {
       const relPath = path.relative(VAULT_ROOT, filePath).replace(/\\/g, '/');
       try {
-        let title, tags, tech_stack, quality_score;
-        const isMarkdown = filePath.toLowerCase().endsWith('.md');
-        const isArchiveOrAI = folder === 'workspace-archive' || folder === 'ai' || !isMarkdown;
-        
-        if (isArchiveOrAI) {
-          title = path.basename(relPath, '.md').replace(/^["']|["']$/g, '');
-          tags = [];
-          tech_stack = [];
-          quality_score = 0;
-          embeddingsMap[relPath] = staticMockVector;
-        } else {
-          const content = fs.readFileSync(filePath, 'utf-8');
-          fileContentCache.set(relPath, content);
-          const parsed = parseMarkdown(content);
-          title = (parsed.title || path.basename(relPath, '.md')).replace(/^["']|["']$/g, '');
-          tags = Array.isArray(parsed.metadata.tags) ? parsed.metadata.tags : (parsed.metadata.tags ? [String(parsed.metadata.tags)] : []);
-          tech_stack = Array.isArray(parsed.metadata.tech_stack) ? parsed.metadata.tech_stack : (parsed.metadata.tech_stack ? [String(parsed.metadata.tech_stack)] : []);
-          quality_score = parsed.metadata.quality_score || 0;
-          
-          const embedding = await getEmbedding(parsed.body, relPath);
-          embeddingsMap[relPath] = embedding;
-        }
+        // All folders get the same treatment — parse frontmatter and compute real embeddings.
+        // Previously ai/ and workspace-archive/ were silently assigned a static mock vector,
+        // which meant they never appeared in similarity edges. Fixed.
+        const content = fs.readFileSync(filePath, 'utf-8');
+        fileContentCache.set(relPath, content);
+        const parsed = parseMarkdown(content);
+        const title = (parsed.title || path.basename(relPath, '.md')).replace(/^["']|["']$/g, '');
+        const tags = Array.isArray(parsed.metadata.tags) ? parsed.metadata.tags : (parsed.metadata.tags ? [String(parsed.metadata.tags)] : []);
+        const tech_stack = Array.isArray(parsed.metadata.tech_stack) ? parsed.metadata.tech_stack : (parsed.metadata.tech_stack ? [String(parsed.metadata.tech_stack)] : []);
+        const quality_score = parsed.metadata.quality_score || parsed.metadata.health_score || 0;
+        const content_type = parsed.metadata.content_type || 'unknown';
+        const engine = parsed.metadata.engine || (folder === 'daily-digests' ? 'v2' : 'core');
+
+        const embedding = await getEmbedding(parsed.body || parsed.title || path.basename(relPath, '.md'), relPath);
+        embeddingsMap[relPath] = embedding;
+
+        {
+        let title_block = title, tags_block = tags, tech_stack_block = tech_stack, quality_score_block = quality_score;
         
         const oldNode = oldNodesMap.get(relPath);
         
         const node = {
           id: oldNode?.id || getDeterministicUuid(relPath),
           path: relPath,
-          title: title,
+          title: title_block,
           category: folder,
-          tags: tags,
-          tech_stack: tech_stack,
-          quality_score: quality_score,
+          content_type: content_type,
+          engine: engine,
+          tags: tags_block,
+          tech_stack: tech_stack_block,
+          quality_score: quality_score_block,
           rag_relevance: 0,
           embedding_vector_id: `vec_${relPath.replace(/[^a-zA-Z0-9]/g, '_')}`,
           last_modified: new Date().toISOString(),
@@ -338,6 +334,7 @@ async function buildIndex() {
         };
         
         nodes.push(node);
+        } // end block
       } catch (err) {
         console.error(`Error processing ${relPath}:`, err);
       }
@@ -428,7 +425,7 @@ async function buildIndex() {
   }
   
   // 3. Compute edges using cosine similarity and tag/tech stack overlaps
-  const mainCategories = ['maps', 'skills', 'daily-digests', 'prompts', 'build-ideas', 'learning-paths', 'intelligence'];
+  const mainCategories = ['maps', 'skills', 'daily-digests', 'prompts', 'build-ideas', 'learning-paths', 'intelligence', 'ai', 'workspace-archive'];
   const similarityCandidates = nodes
     .filter(node => {
       if (!mainCategories.includes(node.category)) return false;

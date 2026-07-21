@@ -48,7 +48,7 @@ echo "✓ Orchestrator on PID $ORCH_PID (port 3456, logs: /tmp/vault-orchestrato
 
 # 6. Start Web Interface
 echo "[6/6] Starting Intelligence Map..."
-cd $VAULT_PATH/intelligence-map
+cd $VAULT_PATH/world
 npm install --silent 2>/dev/null || true
 npm run dev &>/tmp/vault-web.log &
 WEB_PID=$!
