@@ -1,11 +1,17 @@
 ---
 title: "n24q02m/better-telegram-mcp"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["Python", "Telegram Bot API", "Telethon (MTProto)", "MCP (Model Context Protocol)", "Docker", "FastAPI", "Pydantic", "Semantic Release"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["Telegram integration", "AI agent tools", "MCP server", "multi-user OAuth", "media handling"]
 source: "https://github.com/n24q02m/better-telegram-mcp"
+stars: 9
+language: "Python"
+last_updated: "2026-07-10T13:07:27Z"
 discovered_at: "2026-07-10T13:11:14Z"
 evaluated_by: "mistral-small-latest"
 ---

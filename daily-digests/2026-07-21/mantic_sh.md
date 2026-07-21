@@ -1,11 +1,17 @@
 ---
 title: "marcoaapfortes/Mantic.sh"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["TypeScript", "Tree-sitter", "transformers.js", "Node.js", "MCP (Model Context Protocol)", "Git"]
 quality_score: 9
 rag_relevance: 10
+deployment_complexity: "Medium"
 tags: ["code search", "semantic search", "AI agents", "context-aware", "MCP server"]
 source: "https://github.com/marcoaapfortes/Mantic.sh"
+stars: 553
+language: "TypeScript"
+last_updated: "2026-07-13T22:52:28Z"
 discovered_at: "2026-07-13T22:55:23Z"
 evaluated_by: "mistral-small-latest"
 ---

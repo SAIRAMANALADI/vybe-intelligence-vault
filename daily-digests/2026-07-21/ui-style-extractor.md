@@ -1,11 +1,17 @@
 ---
 title: "Melisa6532/ui-style-extractor"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Windows Desktop App", "Electron", "JavaScript/TypeScript", "Markdown", "HTML/CSS Parsing"]
 quality_score: 6
 rag_relevance: 7
+deployment_complexity: "Low"
 tags: ["design extraction", "style guide", "UI validation", "Markdown generation", "AI consistency"]
 source: "https://github.com/Melisa6532/ui-style-extractor"
+stars: 0
+language: "None"
+last_updated: "2026-07-12T21:47:22Z"
 discovered_at: "2026-07-12T21:47:39Z"
 evaluated_by: "mistral-small-latest"
 ---

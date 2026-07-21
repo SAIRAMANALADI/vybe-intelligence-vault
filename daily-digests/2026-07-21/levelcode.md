@@ -1,11 +1,17 @@
 ---
 title: "levelcodeai/levelcode"
+content_type: "repo"
+engine: "v2"
 category: "UI Component"
 tech_stack: ["JavaScript", "Code-OSS (VS Code's open-source core)", "Electron", "Node.js", "Python", "Ollama (for local models)", "Open VSX (extension marketplace)", "macOS native APIs"]
 quality_score: 9
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["AI-native editor", "code editor", "Notepad++ features", "multi-provider AI", "hackable"]
 source: "https://github.com/levelcodeai/levelcode"
+stars: 2
+language: "JavaScript"
+last_updated: "2026-07-19T02:25:54Z"
 discovered_at: "2026-07-19T02:30:02Z"
 evaluated_by: "mistral-small-latest"
 ---

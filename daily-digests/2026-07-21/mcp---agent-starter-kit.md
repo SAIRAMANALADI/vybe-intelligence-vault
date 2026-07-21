@@ -1,11 +1,17 @@
 ---
 title: "fub05/MCP---Agent-Starter-Kit"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["Python", "FastAPI", "OpenAI", "MCP", "Multi-Agent Systems"]
 quality_score: 6
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["multi-agent", "chatbot", "FastAPI", "OpenAI", "MCP"]
 source: "https://github.com/fub05/MCP---Agent-Starter-Kit"
+stars: 6
+language: "Python"
+last_updated: "2026-07-10T13:08:34Z"
 discovered_at: "2026-07-10T13:11:11Z"
 evaluated_by: "mistral-small-latest"
 ---

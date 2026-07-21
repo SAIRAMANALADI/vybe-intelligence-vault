@@ -1,11 +1,17 @@
 ---
 title: "peterlodri-sec/entheai"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["Rust", "SQLite", "Vector DB", "Git Worktrees", "Osaurus", "OpenCode Zen", "ratatui", "MCP (Model Context Protocol)", "Tailscale", "Honcho"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["coding agent", "parallel execution", "hybrid AI", "memory engine", "TUI"]
 source: "https://github.com/peterlodri-sec/entheai"
+stars: 1
+language: "Rust"
+last_updated: "2026-07-19T10:26:37Z"
 discovered_at: "2026-07-19T10:26:47Z"
 evaluated_by: "mistral-small-latest"
 ---

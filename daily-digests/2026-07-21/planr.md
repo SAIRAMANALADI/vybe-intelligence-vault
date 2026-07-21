@@ -1,11 +1,17 @@
 ---
 title: "instructa/planr"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["Rust", "SQLite", "Markdown", "CLI", "MCP (Model Context Protocol)", "TypeScript", "Node.js"]
 quality_score: 9
 rag_relevance: 9
+deployment_complexity: "Medium"
 tags: ["task orchestration", "agent coordination", "dependency graph", "evidence-based verification", "local-first"]
 source: "https://github.com/instructa/planr"
+stars: 43
+language: "Rust"
+last_updated: "2026-07-18T07:44:51Z"
 discovered_at: "2026-07-18T07:47:11Z"
 evaluated_by: "mistral-small-latest"
 ---

@@ -1,11 +1,17 @@
 ---
 title: "Ye-Zayne/canvas"
+content_type: "repo"
+engine: "v2"
 category: "UI Component"
 tech_stack: ["TypeScript", "React", "Vite", "tldraw", "shadcn/ui", "Node.js", "Express", "WebSocket", "MCP Server", "pnpm"]
 quality_score: 8
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["AI canvas", "MCP integration", "visual collaboration", "agent interaction", "tldraw"]
 source: "https://github.com/Ye-Zayne/canvas"
+stars: 0
+language: "TypeScript"
+last_updated: "2026-07-20T02:34:57Z"
 discovered_at: "2026-07-20T02:44:53Z"
 evaluated_by: "mistral-small-latest"
 ---

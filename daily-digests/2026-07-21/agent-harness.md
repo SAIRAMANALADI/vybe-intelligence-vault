@@ -1,11 +1,17 @@
 ---
 title: "vmy41/agent-harness"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Go", "Windows CLI", "OpenRouter API", "Anthropic API"]
 quality_score: 6
 rag_relevance: 7
+deployment_complexity: "Low"
 tags: ["agent testing", "coding agents", "local development", "AI workflows", "model interaction"]
 source: "https://github.com/vmy41/agent-harness"
+stars: 1
+language: "None"
+last_updated: "2026-07-13T22:52:11Z"
 discovered_at: "2026-07-13T22:55:23Z"
 evaluated_by: "mistral-small-latest"
 ---

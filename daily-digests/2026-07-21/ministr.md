@@ -1,11 +1,17 @@
 ---
 title: "OlsonSoftware/ministr"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Rust", "MCP (Model Context Protocol)", "AST (Abstract Syntax Tree)", "C toolchain"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["code intelligence", "MCP server", "AST parsing", "local-first", "AI agents"]
 source: "https://github.com/OlsonSoftware/ministr"
+stars: 3
+language: "Rust"
+last_updated: "2026-07-14T23:46:59Z"
 discovered_at: "2026-07-14T23:53:35Z"
 evaluated_by: "mistral-small-latest"
 ---

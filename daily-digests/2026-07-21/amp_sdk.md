@@ -1,11 +1,17 @@
 ---
 title: "nshkrdotcom/amp_sdk"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["Elixir", "OTP", "JSON Streaming", "CLI Integration", "MCP Server", "Type Specifications"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["Elixir SDK", "Amp CLI", "Agentic Coding", "Streaming JSON", "Thread Management"]
 source: "https://github.com/nshkrdotcom/amp_sdk"
+stars: 1
+language: "Elixir"
+last_updated: "2026-07-14T05:18:43Z"
 discovered_at: "2026-07-14T05:28:55Z"
 evaluated_by: "mistral-small-latest"
 ---

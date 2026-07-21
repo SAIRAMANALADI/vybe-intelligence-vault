@@ -1,11 +1,17 @@
 ---
 title: "sudo-haggis/noteIT_core"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Markdown", "YAML", "Claude Code", "Git", "Obsidian", "Go (external tools)"]
 quality_score: 7
 rag_relevance: 6
+deployment_complexity: "Medium"
 tags: ["note-taking", "PARA method", "LLM-driven workflows", "plain text", "Claude Code"]
 source: "https://github.com/sudo-haggis/noteIT_core"
+stars: 0
+language: "None"
+last_updated: "2026-07-14T10:02:07Z"
 discovered_at: "2026-07-14T10:07:54Z"
 evaluated_by: "mistral-small-latest"
 ---

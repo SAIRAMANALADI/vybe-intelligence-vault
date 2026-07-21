@@ -1,11 +1,17 @@
 ---
 title: "lemahq/lema-mcp"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["Go", "Node.js", "MCP (Model Context Protocol)", "TypeScript", "Docker"]
 quality_score: 9
 rag_relevance: 10
+deployment_complexity: "Medium"
 tags: ["decision tracking", "MCP server", "RAG augmentation", "project rationale", "alternative analysis"]
 source: "https://github.com/lemahq/lema-mcp"
+stars: 1
+language: "Go"
+last_updated: "2026-07-21T17:08:03Z"
 discovered_at: "2026-07-21T17:16:52Z"
 evaluated_by: "mistral-small-latest"
 ---

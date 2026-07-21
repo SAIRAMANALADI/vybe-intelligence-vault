@@ -1,11 +1,17 @@
 ---
 title: "agentscore/python-sdk"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "HTTPX", "Async/Await", "REST API", "PyPI", "MIT License"]
 quality_score: 9
 rag_relevance: 7
+deployment_complexity: "Low"
 tags: ["identity verification", "KYC", "sanctions screening", "agentic commerce", "compliance gating"]
 source: "https://github.com/agentscore/python-sdk"
+stars: 1
+language: "Python"
+last_updated: "2026-07-17T20:04:01Z"
 discovered_at: "2026-07-17T20:05:14Z"
 evaluated_by: "mistral-small-latest"
 ---

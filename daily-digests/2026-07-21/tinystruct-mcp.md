@@ -1,11 +1,17 @@
 ---
 title: "tinystruct/tinystruct-mcp"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Java", "Maven", "Model Context Protocol (MCP)", "Git", "GitHub API"]
 quality_score: 8
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["MCP server", "Java tooling", "Git integration", "File system management", "AI agent tools"]
 source: "https://github.com/tinystruct/tinystruct-mcp"
+stars: 9
+language: "Java"
+last_updated: "2026-07-11T07:37:49Z"
 discovered_at: "2026-07-11T07:52:45Z"
 evaluated_by: "mistral-small-latest"
 ---

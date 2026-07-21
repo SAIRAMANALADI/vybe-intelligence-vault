@@ -1,11 +1,17 @@
 ---
 title: "srkwr/hikeshi"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["Python 3.12", "Google ADK 2.x", "Gemini 3.x", "Cloud Run", "Elasticsearch 8.19", "FastAPI", "OSV.dev", "BM25-lite", "SSE (Server-Sent Events)"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["incident response", "multi-agent systems", "human-in-the-loop", "autonomous remediation", "SRE tooling"]
 source: "https://github.com/srkwr/hikeshi"
+stars: 0
+language: "Python"
+last_updated: "2026-07-11T13:12:12Z"
 discovered_at: "2026-07-11T13:14:16Z"
 evaluated_by: "mistral-small-latest"
 ---

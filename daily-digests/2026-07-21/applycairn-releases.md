@@ -1,11 +1,17 @@
 ---
 title: "scumunna/applycairn-releases"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["JavaScript", "MCP (Model Context Protocol)", "Local-first architecture", "SHA-256 checksums", "GitHub Actions (for releases)"]
 quality_score: 8
 rag_relevance: 6
+deployment_complexity: "Low"
 tags: ["career memory", "job search", "evidence tracking", "local-first", "AI assistant"]
 source: "https://github.com/scumunna/applycairn-releases"
+stars: 0
+language: "JavaScript"
+last_updated: "2026-07-15T21:54:29Z"
 discovered_at: "2026-07-15T21:59:06Z"
 evaluated_by: "mistral-small-latest"
 ---

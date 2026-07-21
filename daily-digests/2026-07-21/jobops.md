@@ -1,11 +1,17 @@
 ---
 title: "mohith-das/jobops"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["TypeScript", "Node.js", "SQLite", "Playwright", "Model Context Protocol (MCP)", "Gemini API", "DeepSeek API", "PostgreSQL (optional, for legacy pipeline)", "n8n (optional, for legacy pipeline)", "LaTeX", "PDF generation"]
 quality_score: 8
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["job search automation", "MCP server", "resume generation", "ATS optimization", "career tools"]
 source: "https://github.com/mohith-das/jobops"
+stars: 1
+language: "TypeScript"
+last_updated: "2026-07-10T21:54:53Z"
 discovered_at: "2026-07-10T22:00:31Z"
 evaluated_by: "mistral-small-latest"
 ---

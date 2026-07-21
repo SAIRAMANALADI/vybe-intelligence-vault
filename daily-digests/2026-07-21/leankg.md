@@ -1,11 +1,17 @@
 ---
 title: "FreePeak/LeanKG"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["Rust", "SQLite", "RocksDB", "CozoDB", "MCP (Model Context Protocol)", "Tree-sitter", "WebGL", "Docker", "HTTP/REST API", "Embeddings (HNSW, ONNX Runtime)"]
 quality_score: 9
 rag_relevance: 10
+deployment_complexity: "Medium"
 tags: ["knowledge graph", "MCP server", "code indexing", "AI context", "dependency graph"]
 source: "https://github.com/FreePeak/LeanKG"
+stars: 205
+language: "Rust"
+last_updated: "2026-07-15T10:46:47Z"
 discovered_at: "2026-07-15T10:48:37Z"
 evaluated_by: "mistral-small-latest"
 ---

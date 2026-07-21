@@ -1,11 +1,17 @@
 ---
 title: "modelcontextprotocol/csharp-sdk"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["C#", ".NET", "NuGet", "ASP.NET Core", "HTTP/SSE", "Dependency Injection"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["MCP", "C# SDK", "Model Context Protocol", "LLM Integration", "Agent Framework"]
 source: "https://github.com/modelcontextprotocol/csharp-sdk"
+stars: 4388
+language: "C#"
+last_updated: "2026-07-14T22:54:08Z"
 discovered_at: "2026-07-14T22:56:05Z"
 evaluated_by: "mistral-small-latest"
 ---

@@ -1,11 +1,17 @@
 ---
 title: "osaljehani/homelab-cmdb"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "SQLite", "Ansible", "Docker", "Kubernetes", "Trivy", "HTMX", "Cytoscape.js", "FastAPI", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["CMDB", "Homelab", "Vulnerability Tracking", "Topology Visualization", "LLM Integration"]
 source: "https://github.com/osaljehani/homelab-cmdb"
+stars: 0
+language: "Python"
+last_updated: "2026-07-11T16:51:53Z"
 discovered_at: "2026-07-11T16:56:00Z"
 evaluated_by: "mistral-small-latest"
 ---

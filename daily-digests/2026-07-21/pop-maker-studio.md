@@ -1,11 +1,17 @@
 ---
 title: "verticalrectangle/pop-maker-studio"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["C++", "OpenGL", "Dear ImGui", "ONNX Runtime", "FFTW3", "libav", "FFmpeg", "Whisper.cpp", "MDX-Net", "u2net", "VITS", "PyTorch (ONNX export)", "Model Context Protocol (MCP)", "GLSL", "Linux", "VAAPI", "CUDA", "VideoToolbox"]
 quality_score: 9
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["music video editor", "local ML processing", "GPU effects", "lyric video generation", "AI-powered editing"]
 source: "https://github.com/verticalrectangle/pop-maker-studio"
+stars: 3
+language: "C++"
+last_updated: "2026-07-12T10:22:50Z"
 discovered_at: "2026-07-12T10:26:29Z"
 evaluated_by: "mistral-small-latest"
 ---

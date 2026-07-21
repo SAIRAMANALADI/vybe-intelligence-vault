@@ -1,11 +1,17 @@
 ---
 title: "SunMe1977/HermesClawZero-ConfigSidecar"
+content_type: "repo"
+engine: "v2"
 category: "Vector DB"
 tech_stack: ["Python", "PostgreSQL", "pgvector", "FastAPI", "Docker", "Ollama", "MCP (Model Context Protocol)", "JavaScript/HTML/CSS (Dashboard)", "nomic-embed-text (Embeddings)"]
 quality_score: 9
 rag_relevance: 10
+deployment_complexity: "Medium"
 tags: ["memory persistence", "vector database", "agent sidecar", "semantic search", "MCP server"]
 source: "https://github.com/SunMe1977/HermesClawZero-ConfigSidecar"
+stars: 0
+language: "Python"
+last_updated: "2026-07-11T17:54:28Z"
 discovered_at: "2026-07-11T17:54:38Z"
 evaluated_by: "mistral-small-latest"
 ---

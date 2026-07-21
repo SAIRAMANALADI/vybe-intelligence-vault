@@ -1,11 +1,17 @@
 ---
 title: "mage0535/hermes-memory-installer"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "PostgreSQL", "gbrain", "Hindsight", "Shell Scripting", "Markdown", "Embedding Models", "Prometheus", "Grafana"]
 quality_score: 9
 rag_relevance: 9
+deployment_complexity: "Medium"
 tags: ["memory sidecar", "long-term recall", "agent integration", "knowledge management", "observability"]
 source: "https://github.com/mage0535/hermes-memory-installer"
+stars: 186
+language: "Python"
+last_updated: "2026-07-12T13:30:08Z"
 discovered_at: "2026-07-12T13:36:00Z"
 evaluated_by: "mistral-small-latest"
 ---

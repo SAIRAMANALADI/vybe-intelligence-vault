@@ -1,11 +1,17 @@
 ---
 title: "Dragkob/MCPhantom"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "FastAPI", "MCP (Model Context Protocol)", "JavaScript", "HTML/CSS", "NDJSON"]
 quality_score: 8
 rag_relevance: 6
+deployment_complexity: "Medium"
 tags: ["MCP security", "vulnerability scanning", "web dashboard", "penetration testing", "automated reconnaissance"]
 source: "https://github.com/Dragkob/MCPhantom"
+stars: 3
+language: "None"
+last_updated: "2026-07-14T20:08:07Z"
 discovered_at: "2026-07-14T20:09:30Z"
 evaluated_by: "mistral-small-latest"
 ---

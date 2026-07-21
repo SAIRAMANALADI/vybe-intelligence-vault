@@ -1,11 +1,17 @@
 ---
 title: "aikdna/kdna-skills"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "CLI tools", "npm"]
 quality_score: 8
 rag_relevance: 9
+deployment_complexity: "Medium"
 tags: ["judgment assets", "AI agent integration", "MCP server", "knowledge injection", "domain-specific rules"]
 source: "https://github.com/aikdna/kdna-skills"
+stars: 3
+language: "JavaScript"
+last_updated: "2026-07-18T14:47:17Z"
 discovered_at: "2026-07-18T14:50:36Z"
 evaluated_by: "mistral-small-latest"
 ---

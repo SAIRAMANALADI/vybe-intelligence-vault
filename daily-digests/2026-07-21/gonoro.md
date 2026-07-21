@@ -1,11 +1,17 @@
 ---
 title: "Gonorolabs/Gonoro"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["Python", "JavaScript", "Supabase", "Solana (chain)", "HTML/CSS", "Docker", "GitHub Actions", "LLM APIs"]
 quality_score: 8
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["autonomous agent", "append-only ledger", "self-rewriting code", "transparency", "AI evolution"]
 source: "https://github.com/Gonorolabs/Gonoro"
+stars: 1
+language: "JavaScript"
+last_updated: "2026-07-20T17:54:44Z"
 discovered_at: "2026-07-20T18:00:46Z"
 evaluated_by: "mistral-small-latest"
 ---

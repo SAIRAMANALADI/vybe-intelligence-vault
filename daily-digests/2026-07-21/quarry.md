@@ -1,11 +1,17 @@
 ---
 title: "punt-labs/quarry"
+content_type: "repo"
+engine: "v2"
 category: "Vector DB"
 tech_stack: ["Python", "ONNX Runtime", "LanceDB", "Claude Code", "MCP (Model Context Protocol)", "WebSocket", "CUDA (for GPU acceleration)", "OCR (for scanned PDFs)", "Git (for capture shadow repos)"]
 quality_score: 9
 rag_relevance: 10
+deployment_complexity: "Medium"
 tags: ["local semantic search", "privacy-focused", "AI agent integration", "document indexing", "embedding"]
 source: "https://github.com/punt-labs/quarry"
+stars: 2
+language: "Python"
+last_updated: "2026-07-14T05:10:25Z"
 discovered_at: "2026-07-14T05:29:16Z"
 evaluated_by: "mistral-small-latest"
 ---

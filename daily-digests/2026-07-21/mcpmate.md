@@ -1,11 +1,17 @@
 ---
 title: "loocor/mcpmate"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["Rust", "Tauri", "React", "Vite", "SQLite", "redb", "tokio", "rmcp", "Node.js", "Bun", "OAuth 2.0", "PKCE"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["MCP management", "AI client integration", "proxy server", "tool governance", "cross-platform"]
 source: "https://github.com/loocor/mcpmate"
+stars: 31
+language: "Rust"
+last_updated: "2026-07-18T15:51:36Z"
 discovered_at: "2026-07-18T15:55:22Z"
 evaluated_by: "mistral-small-latest"
 ---

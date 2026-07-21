@@ -1,11 +1,17 @@
 ---
 title: "askac/standterm"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "xterm.js", "Flask", "WebCrypto", "pyserial", "WSL", "Tkinter", "Playwright"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["terminal", "SSH", "agent automation", "UART", "browser-based"]
 source: "https://github.com/askac/standterm"
+stars: 1
+language: "Python"
+last_updated: "2026-07-12T11:52:37Z"
 discovered_at: "2026-07-12T11:58:15Z"
 evaluated_by: "mistral-small-latest"
 ---

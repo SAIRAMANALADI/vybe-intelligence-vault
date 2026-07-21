@@ -1,11 +1,17 @@
 ---
 title: "Leon2332/Grok-Launcher"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Flatpak", "Shell Scripting", "Python (for Nautilus integration)", "Terminal Emulators (GNOME Terminal, Konsole, etc.)"]
 quality_score: 8
 rag_relevance: 6
+deployment_complexity: "Medium"
 tags: ["desktop launcher", "Flatpak", "Grok integration", "terminal automation", "Linux GUI"]
 source: "https://github.com/Leon2332/Grok-Launcher"
+stars: 1
+language: "Shell"
+last_updated: "2026-07-16T21:59:44Z"
 discovered_at: "2026-07-16T22:02:39Z"
 evaluated_by: "mistral-small-latest"
 ---

@@ -1,11 +1,17 @@
 ---
 title: "yamadashy/pdfvision"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["TypeScript", "Node.js", "PDF.js", "OCR (Tesseract)", "CLI", "PNG rendering", "Unicode normalization"]
 quality_score: 9
 rag_relevance: 10
+deployment_complexity: "Low"
 tags: ["PDF extraction", "AI agent tools", "OCR", "layout analysis", "multimodal"]
 source: "https://github.com/yamadashy/pdfvision"
+stars: 9
+language: "TypeScript"
+last_updated: "2026-07-10T13:06:21Z"
 discovered_at: "2026-07-10T13:10:52Z"
 evaluated_by: "mistral-small-latest"
 ---

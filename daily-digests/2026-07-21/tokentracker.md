@@ -1,11 +1,17 @@
 ---
 title: "mm7894215/TokenTracker"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["JavaScript", "Node.js", "SQLite", "Electron", "React", "TypeScript", "LiteLLM", "Homebrew", "SQLite CLI"]
 quality_score: 9
 rag_relevance: 7
+deployment_complexity: "Low"
 tags: ["token tracking", "AI cost analysis", "local-first", "CLI tool", "dashboard"]
 source: "https://github.com/mm7894215/TokenTracker"
+stars: 971
+language: "JavaScript"
+last_updated: "2026-07-10T23:00:21Z"
 discovered_at: "2026-07-10T23:08:26Z"
 evaluated_by: "mistral-small-latest"
 ---

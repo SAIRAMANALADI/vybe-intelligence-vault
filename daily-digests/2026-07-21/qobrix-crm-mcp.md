@@ -1,11 +1,17 @@
 ---
 title: "sharpsir-group/qobrix-crm-mcp"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Zod", "RESO Data Dictionary 2.0", "Redis", "Jest"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["MCP server", "real estate CRM", "RESO DD 2.0", "read-only API", "AI agent integration"]
 source: "https://github.com/sharpsir-group/qobrix-crm-mcp"
+stars: 3
+language: "TypeScript"
+last_updated: "2026-07-10T16:20:18Z"
 discovered_at: "2026-07-10T16:24:24Z"
 evaluated_by: "mistral-small-latest"
 ---

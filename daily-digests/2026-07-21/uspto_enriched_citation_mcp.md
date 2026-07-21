@@ -1,11 +1,17 @@
 ---
 title: "john-walkoe/uspto_enriched_citation_mcp"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "FastMCP", "USPTO API", "Lucene Query Syntax", "YAML", "Windows DPAPI", "uv (Python package manager)"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["USPTO", "patent citations", "MCP server", "AI-extracted data", "token optimization"]
 source: "https://github.com/john-walkoe/uspto_enriched_citation_mcp"
+stars: 6
+language: "Python"
+last_updated: "2026-07-19T05:50:09Z"
 discovered_at: "2026-07-19T05:51:11Z"
 evaluated_by: "mistral-small-latest"
 ---

@@ -1,11 +1,17 @@
 ---
 title: "albidev/bdh-hermes-bridge"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["Python", "Hermes Agent", "BDH Graph Harness", "HTTP API", "YAML configuration"]
 quality_score: 8
 rag_relevance: 9
+deployment_complexity: "Medium"
 tags: ["knowledge graph", "bidirectional bridge", "Hermes Agent", "BDH Graph Harness", "real-time learning"]
 source: "https://github.com/albidev/bdh-hermes-bridge"
+stars: 0
+language: "Python"
+last_updated: "2026-07-11T07:51:38Z"
 discovered_at: "2026-07-11T07:52:18Z"
 evaluated_by: "mistral-small-latest"
 ---

@@ -1,11 +1,17 @@
 ---
 title: "contexa-security/contexa"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["Java", "Spring Boot", "PostgreSQL", "Redis", "Kafka", "Ollama", "LLM (Large Language Models)", "RAG (Retrieval-Augmented Generation)", "Docker"]
 quality_score: 8
 rag_relevance: 9
+deployment_complexity: "Medium"
 tags: ["Zero Trust", "Runtime Security", "Post-Authentication", "AI-Native", "Spring Boot"]
 source: "https://github.com/contexa-security/contexa"
+stars: 4
+language: "Java"
+last_updated: "2026-07-11T09:27:04Z"
 discovered_at: "2026-07-11T09:27:19Z"
 evaluated_by: "mistral-small-latest"
 ---

@@ -1,11 +1,17 @@
 ---
 title: "navig-me/local-marketing"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["JavaScript", "Node.js", "SQLite", "SMTP", "Claude Code", "LLM CLI Agents", "YAML/JSON Configuration", "Bash Scripting"]
 quality_score: 8
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["local-first", "agent-agnostic", "outreach automation", "human-approved sends", "SMTP integration"]
 source: "https://github.com/navig-me/local-marketing"
+stars: 0
+language: "JavaScript"
+last_updated: "2026-07-15T05:20:20Z"
 discovered_at: "2026-07-15T05:29:51Z"
 evaluated_by: "mistral-small-latest"
 ---

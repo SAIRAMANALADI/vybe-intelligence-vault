@@ -1,11 +1,17 @@
 ---
 title: "MahmoudHassanMustafa/querybridge-mcp"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["TypeScript", "Node.js", "MySQL", "Model Context Protocol (MCP)", "Docker", "SSH", "SSL/TLS", "JSON-RPC", "Testcontainers"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["MCP server", "MySQL integration", "Claude Code", "database tools", "secure database access"]
 source: "https://github.com/MahmoudHassanMustafa/querybridge-mcp"
+stars: 1
+language: "TypeScript"
+last_updated: "2026-07-20T09:58:45Z"
 discovered_at: "2026-07-20T09:59:31Z"
 evaluated_by: "mistral-small-latest"
 ---

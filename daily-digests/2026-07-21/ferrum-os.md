@@ -1,11 +1,17 @@
 ---
 title: "VyomKulshrestha/Ferrum-OS"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["Rust", "x86_64 Assembly", "smoltcp", "Ext2 Filesystem", "VirtIO-GPU", "QEMU", "JSON-RPC 2.0", "TF-IDF Vector Store", "ELF Loader", "PCI/ACPI Drivers"]
 quality_score: 8
 rag_relevance: 7
+deployment_complexity: "High"
 tags: ["bare-metal OS", "AI agent control", "hardware access", "ReAct orchestrator", "multi-user desktop"]
 source: "https://github.com/VyomKulshrestha/Ferrum-OS"
+stars: 0
+language: "Rust"
+last_updated: "2026-07-16T10:55:50Z"
 discovered_at: "2026-07-16T10:58:02Z"
 evaluated_by: "mistral-small-latest"
 ---

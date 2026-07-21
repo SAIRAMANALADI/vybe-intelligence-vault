@@ -1,11 +1,17 @@
 ---
 title: "openSUSE/mcp-bugzilla"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "Model Context Protocol (MCP)", "Bugzilla REST API", "FastAPI"]
 quality_score: 8
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["Bugzilla", "MCP Server", "Issue Tracking", "AI Integration", "Bug Management"]
 source: "https://github.com/openSUSE/mcp-bugzilla"
+stars: 13
+language: "Python"
+last_updated: "2026-07-16T08:01:35Z"
 discovered_at: "2026-07-16T08:10:18Z"
 evaluated_by: "mistral-small-latest"
 ---

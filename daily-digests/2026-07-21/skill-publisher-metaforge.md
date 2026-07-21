@@ -1,11 +1,17 @@
 ---
 title: "brunoalfabl07-dot/skill-publisher-metaforge"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "YAML", "JSON", "CLI", "Regex", "Semantic Versioning", "Markdown", "Docker"]
 quality_score: 8
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["AI skill management", "multi-framework publishing", "secret scrubbing", "versioned releases", "cross-platform deployment"]
 source: "https://github.com/brunoalfabl07-dot/skill-publisher-metaforge"
+stars: 0
+language: "HTML"
+last_updated: "2026-07-10T23:04:32Z"
 discovered_at: "2026-07-10T23:08:17Z"
 evaluated_by: "mistral-small-latest"
 ---

@@ -1,11 +1,17 @@
 ---
 title: "craaft/skill"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Claude Code", "API Integration", "OpenAPI", "Bearer Authentication", "Python SDK"]
 quality_score: 8
 rag_relevance: 7
+deployment_complexity: "Low"
 tags: ["Claude Code", "Kanban API", "API Integration", "LLM Tooling", "Automation"]
 source: "https://github.com/craaft/skill"
+stars: 1
+language: "None"
+last_updated: "2026-07-19T07:19:28Z"
 discovered_at: "2026-07-19T07:29:35Z"
 evaluated_by: "mistral-small-latest"
 ---

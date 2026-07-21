@@ -1,11 +1,17 @@
 ---
 title: "actinon-com/brass-monkey"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["TypeScript", "Gemini CLI", "Model Context Protocol (MCP)", "Odoo API", "Node.js", "Secure Keychain (OS-level)"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["Odoo integration", "AI agent tools", "ERP navigation", "MCP bridge", "audit logging"]
 source: "https://github.com/actinon-com/brass-monkey"
+stars: 2
+language: "TypeScript"
+last_updated: "2026-07-14T05:19:35Z"
 discovered_at: "2026-07-14T05:28:55Z"
 evaluated_by: "mistral-small-latest"
 ---

@@ -1,11 +1,17 @@
 ---
 title: "tools-for-agents/lens"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Node.js", "SQLite (FTS5)", "BM25 ranking", "MCP (Model Context Protocol)", "HTML/CSS (Web Explorer)", "JavaScript/TypeScript"]
 quality_score: 9
 rag_relevance: 10
+deployment_complexity: "Low"
 tags: ["code retrieval", "token efficiency", "MCP server", "symbol outline", "incremental indexing"]
 source: "https://github.com/tools-for-agents/lens"
+stars: 0
+language: "HTML"
+last_updated: "2026-07-12T10:10:22Z"
 discovered_at: "2026-07-12T10:26:46Z"
 evaluated_by: "mistral-small-latest"
 ---

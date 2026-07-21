@@ -1,11 +1,17 @@
 ---
 title: "MayureshBhamare/Aegis"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["Python"]
 quality_score: 4
 rag_relevance: 5
+deployment_complexity: "Low"
 tags: ["AI companion", "developer tools", "cybersecurity", "Python prototype", "automation"]
 source: "https://github.com/MayureshBhamare/Aegis"
+stars: 1
+language: "Python"
+last_updated: "2026-07-18T17:51:12Z"
 discovered_at: "2026-07-18T17:56:18Z"
 evaluated_by: "mistral-small-latest"
 ---

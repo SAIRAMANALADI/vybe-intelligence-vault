@@ -1,11 +1,17 @@
 ---
 title: "thumbrise/autosolve"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["Go", "Ollama", "GitHub API", "SQLite", "OpenTelemetry (OTEL)", "YAML"]
 quality_score: 9
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["AI automation", "GitHub integration", "self-hosted", "issue resolution", "LLM dispatch"]
 source: "https://github.com/thumbrise/autosolve"
+stars: 3
+language: "Go"
+last_updated: "2026-07-16T19:54:28Z"
 discovered_at: "2026-07-16T20:02:27Z"
 evaluated_by: "mistral-small-latest"
 ---

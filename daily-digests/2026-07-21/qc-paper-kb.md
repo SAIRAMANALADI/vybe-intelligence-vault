@@ -1,11 +1,17 @@
 ---
 title: "marianahu1342/QC-Paper-KB"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "Windows Desktop App", "Semantic Search", "LLM Integration"]
 quality_score: 6
 rag_relevance: 7
+deployment_complexity: "Low"
 tags: ["quantum computing", "literature review", "paper discovery", "semantic search", "research tool"]
 source: "https://github.com/marianahu1342/QC-Paper-KB"
+stars: 0
+language: "Python"
+last_updated: "2026-07-12T21:47:31Z"
 discovered_at: "2026-07-12T21:47:39Z"
 evaluated_by: "mistral-small-latest"
 ---

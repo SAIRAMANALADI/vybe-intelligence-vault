@@ -1,11 +1,17 @@
 ---
 title: "veelenga/claude-mermaid"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["TypeScript", "Node.js", "Mermaid.js", "MCP (Model Context Protocol)", "Puppeteer", "WebSocket", "Express"]
 quality_score: 9
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["Mermaid", "MCP Server", "Live Reload", "Diagram Generation", "Claude Code"]
 source: "https://github.com/veelenga/claude-mermaid"
+stars: 192
+language: "TypeScript"
+last_updated: "2026-07-20T15:04:25Z"
 discovered_at: "2026-07-20T15:10:53Z"
 evaluated_by: "mistral-small-latest"
 ---

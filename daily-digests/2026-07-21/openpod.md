@@ -1,11 +1,17 @@
 ---
 title: "openpodhq/openpod"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "Whisper (ASR)", "MCP (Model Context Protocol)", "SQLite (FTS + embeddings)", "FFmpeg", "RSS/YouTube ingestion", "CLI"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["local-first", "RAG preprocessing", "timestamped citations", "agent toolkit", "offline transcription"]
 source: "https://github.com/openpodhq/openpod"
+stars: 1
+language: "Python"
+last_updated: "2026-07-18T14:43:52Z"
 discovered_at: "2026-07-18T14:50:45Z"
 evaluated_by: "mistral-small-latest"
 ---

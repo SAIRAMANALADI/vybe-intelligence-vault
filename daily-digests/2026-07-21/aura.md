@@ -1,11 +1,17 @@
 ---
 title: "IzzoSol/Aura"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["JavaScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "BM25 (for tool selection)", "JSON Schema (for validation)"]
 quality_score: 9
 rag_relevance: 9
+deployment_complexity: "Low"
 tags: ["context optimization", "token reduction", "deterministic pre-processing", "MCP server", "agent efficiency"]
 source: "https://github.com/IzzoSol/Aura"
+stars: 0
+language: "JavaScript"
+last_updated: "2026-07-19T19:07:14Z"
 discovered_at: "2026-07-19T19:13:36Z"
 evaluated_by: "mistral-small-latest"
 ---

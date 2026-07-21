@@ -1,11 +1,17 @@
 ---
 title: "netresearch/agent-rules-skill"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Shell", "Markdown", "JSON", "YAML", "Shell Scripting", "CI/CD"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Low"
 tags: ["AI documentation", "agents.md", "AI agent guidance", "project scaffolding", "multi-language support"]
 source: "https://github.com/netresearch/agent-rules-skill"
+stars: 59
+language: "Shell"
+last_updated: "2026-07-10T13:05:17Z"
 discovered_at: "2026-07-10T13:10:55Z"
 evaluated_by: "mistral-small-latest"
 ---

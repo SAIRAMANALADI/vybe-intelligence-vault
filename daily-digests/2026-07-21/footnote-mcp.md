@@ -1,11 +1,17 @@
 ---
 title: "KazKozDev/footnote-mcp"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "MCP (Model Context Protocol)", "Playwright", "Tavily API", "Brave API", "Google Custom Search JSON API", "DuckDuckGo", "Bing", "Pandas", "PyTesseract", "Ollama", "Docker"]
 quality_score: 9
 rag_relevance: 10
+deployment_complexity: "Medium"
 tags: ["claim verification", "web research", "MCP server", "source grounding", "structured data extraction"]
 source: "https://github.com/KazKozDev/footnote-mcp"
+stars: 1
+language: "Python"
+last_updated: "2026-07-11T17:45:56Z"
 discovered_at: "2026-07-11T17:54:55Z"
 evaluated_by: "mistral-small-latest"
 ---

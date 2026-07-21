@@ -1,11 +1,17 @@
 ---
 title: "rex/mcp-rancher"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["Python 3.12+", "FastMCP", "Pydantic v2", "httpx", "Pyright (strict typing)", "uv (dependency management)", "Model Context Protocol (MCP)"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["Kubernetes", "Rancher", "MCP server", "Infrastructure automation", "Audit logging"]
 source: "https://github.com/rex/mcp-rancher"
+stars: 0
+language: "Python"
+last_updated: "2026-07-21T10:22:43Z"
 discovered_at: "2026-07-21T10:24:43Z"
 evaluated_by: "mistral-small-latest"
 ---

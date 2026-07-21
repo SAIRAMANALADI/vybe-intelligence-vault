@@ -1,11 +1,17 @@
 ---
 title: "devcxl/browser-agent"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["TypeScript", "React 18", "TailwindCSS", "WXT", "Vite", "Vitest", "Playwright", "ESLint", "Prettier"]
 quality_score: 9
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["browser automation", "AI agent", "extension framework", "natural language control", "cross-browser"]
 source: "https://github.com/devcxl/browser-agent"
+stars: 0
+language: "TypeScript"
+last_updated: "2026-07-18T20:42:56Z"
 discovered_at: "2026-07-18T20:43:58Z"
 evaluated_by: "mistral-small-latest"
 ---

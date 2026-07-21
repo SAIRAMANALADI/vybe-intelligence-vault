@@ -1,11 +1,17 @@
 ---
 title: "leapmux/leapmux"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["Go", "SolidJS", "Tauri", "TypeScript", "Rust", "Protocol Buffers", "ConnectRPC", "gRPC", "Noise Protocol Framework", "SQLite", "PostgreSQL", "MySQL", "CockroachDB", "TiDB", "Docker", "Bun", "Node.js", "Task", "buf CLI"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["multi-agent", "workspace manager", "git worktrees", "terminal multiplexing", "coding agents"]
 source: "https://github.com/leapmux/leapmux"
+stars: 61
+language: "TypeScript"
+last_updated: "2026-07-19T15:51:01Z"
 discovered_at: "2026-07-19T15:56:40Z"
 evaluated_by: "mistral-small-latest"
 ---

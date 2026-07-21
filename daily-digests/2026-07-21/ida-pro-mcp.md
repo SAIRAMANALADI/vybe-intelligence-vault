@@ -1,11 +1,17 @@
 ---
 title: "mrexodia/ida-pro-mcp"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "IDA Pro", "MCP (Model Context Protocol)", "FastMCP", "uv (package manager)", "IDALib"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["reverse engineering", "MCP server", "IDA Pro integration", "AI-assisted analysis", "binary analysis"]
 source: "https://github.com/mrexodia/ida-pro-mcp"
+stars: 10486
+language: "Python"
+last_updated: "2026-07-19T22:43:29Z"
 discovered_at: "2026-07-19T22:50:40Z"
 evaluated_by: "mistral-small-latest"
 ---

@@ -1,11 +1,17 @@
 ---
 title: "leor2707/Financial-Research-Agent-2026"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "Windows Desktop App", "Financial APIs", "Natural Language Processing"]
 quality_score: 6
 rag_relevance: 5
+deployment_complexity: "Low"
 tags: ["financial research", "desktop agent", "stock analysis", "investment automation", "Windows tool"]
 source: "https://github.com/leor2707/Financial-Research-Agent-2026"
+stars: 0
+language: "Python"
+last_updated: "2026-07-19T07:16:01Z"
 discovered_at: "2026-07-19T07:29:42Z"
 evaluated_by: "mistral-small-latest"
 ---

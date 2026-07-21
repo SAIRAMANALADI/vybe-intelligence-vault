@@ -1,11 +1,17 @@
 ---
 title: "caiowilson/MCP-memento"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["Go", "MCP (Model Context Protocol)", "JSON-RPC", "Git", "Filesystem Watcher", "VS Code Extension"]
 quality_score: 9
 rag_relevance: 9
+deployment_complexity: "Medium"
 tags: ["MCP server", "code indexing", "memory persistence", "semantic search", "AI agent memory"]
 source: "https://github.com/caiowilson/MCP-memento"
+stars: 11
+language: "Go"
+last_updated: "2026-07-10T21:59:35Z"
 discovered_at: "2026-07-10T22:00:24Z"
 evaluated_by: "mistral-small-latest"
 ---

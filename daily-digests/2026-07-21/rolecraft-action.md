@@ -1,11 +1,17 @@
 ---
 title: "rolecraft-sh/rolecraft-action"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["GitHub Actions", "JavaScript", "Node.js", "YAML"]
 quality_score: 8
 rag_relevance: 7
+deployment_complexity: "Low"
 tags: ["CI/CD", "GitHub Action", "AI Agent", "Skill Verification", "Automation"]
 source: "https://github.com/rolecraft-sh/rolecraft-action"
+stars: 1
+language: "JavaScript"
+last_updated: "2026-07-21T07:31:13Z"
 discovered_at: "2026-07-21T07:32:00Z"
 evaluated_by: "mistral-small-latest"
 ---

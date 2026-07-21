@@ -1,11 +1,17 @@
 ---
 title: "shkyyy18/llm-video-mcp"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "MCP (Model Context Protocol)", "ffmpeg", "faster-whisper", "Silero VAD", "yt-dlp", "pytest", "ruff"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["MCP server", "video analysis", "token budget", "transcription", "scene detection"]
 source: "https://github.com/shkyyy18/llm-video-mcp"
+stars: 0
+language: "Python"
+last_updated: "2026-07-20T12:16:00Z"
 discovered_at: "2026-07-20T12:22:19Z"
 evaluated_by: "mistral-small-latest"
 ---

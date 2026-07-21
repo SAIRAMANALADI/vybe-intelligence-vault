@@ -1,11 +1,17 @@
 ---
 title: "manehorizons/cadence"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["TypeScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "Git", "Jest (testing framework)"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["AI agent verification", "quality gates", "acceptance criteria", "CI/CD control", "developer tooling"]
 source: "https://github.com/manehorizons/cadence"
+stars: 2
+language: "TypeScript"
+last_updated: "2026-07-17T23:51:09Z"
 discovered_at: "2026-07-17T23:51:55Z"
 evaluated_by: "mistral-small-latest"
 ---

@@ -1,11 +1,17 @@
 ---
 title: "ahmedtawfeeq1/loredex"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["TypeScript", "Node.js", "Markdown", "Obsidian", "Model Context Protocol (MCP)", "Git", "LLM (Claude Code, Cursor, Codex)"]
 quality_score: 9
 rag_relevance: 9
+deployment_complexity: "Medium"
 tags: ["multi-agent collaboration", "knowledge management", "cross-repo context", "MCP integration", "Obsidian plugin"]
 source: "https://github.com/ahmedtawfeeq1/loredex"
+stars: 2
+language: "TypeScript"
+last_updated: "2026-07-12T10:19:54Z"
 discovered_at: "2026-07-12T10:26:35Z"
 evaluated_by: "mistral-small-latest"
 ---

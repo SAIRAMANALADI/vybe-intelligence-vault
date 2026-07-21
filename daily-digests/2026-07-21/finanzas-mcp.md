@@ -1,11 +1,17 @@
 ---
 title: "MITDEVPRO/finanzas-mcp"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "FastMCP", "Model Context Protocol (MCP)", "uv (package manager)", "pytest"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Low"
 tags: ["financial calculators", "MCP server", "Spanish-first", "valuation models", "Chilean tax tools"]
 source: "https://github.com/MITDEVPRO/finanzas-mcp"
+stars: 0
+language: "Python"
+last_updated: "2026-07-19T16:42:34Z"
 discovered_at: "2026-07-19T16:58:02Z"
 evaluated_by: "mistral-small-latest"
 ---

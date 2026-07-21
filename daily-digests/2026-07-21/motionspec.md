@@ -1,11 +1,17 @@
 ---
 title: "MasterPlayspots/motionspec"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["JavaScript", "TypeScript", "Node.js", "GSAP", "WAAPI", "CSS", "Zod", "MCP (Model Context Protocol)", "Cloudflare Workers", "Playwright"]
 quality_score: 10
 rag_relevance: 9
+deployment_complexity: "Medium"
 tags: ["UI Animation", "Accessibility", "WCAG Compliance", "Deterministic Compilation", "AI-Generated Web Apps"]
 source: "https://github.com/MasterPlayspots/motionspec"
+stars: 0
+language: "JavaScript"
+last_updated: "2026-07-14T16:08:21Z"
 discovered_at: "2026-07-14T16:14:18Z"
 evaluated_by: "mistral-small-latest"
 ---

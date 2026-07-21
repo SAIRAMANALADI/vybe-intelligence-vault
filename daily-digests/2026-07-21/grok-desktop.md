@@ -1,11 +1,17 @@
 ---
 title: "xiaokaige1130-maker/grok-desktop"
+content_type: "repo"
+engine: "v2"
 category: "UI Component"
 tech_stack: ["Electron", "JavaScript", "TypeScript", "React", "Node.js", "Grok CLI", "ACP (Agent Communication Protocol)", "Linux (Debian/Ubuntu)", "Windows (x64)"]
 quality_score: 9
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["Desktop Agent UI", "Multi-session Management", "Grok CLI Integration", "Cross-platform", "Permission Control"]
 source: "https://github.com/xiaokaige1130-maker/grok-desktop"
+stars: 3
+language: "JavaScript"
+last_updated: "2026-07-19T23:45:42Z"
 discovered_at: "2026-07-19T23:55:35Z"
 evaluated_by: "mistral-small-latest"
 ---

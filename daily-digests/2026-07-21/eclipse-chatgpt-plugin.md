@@ -1,11 +1,17 @@
 ---
 title: "gradusnikov/eclipse-chatgpt-plugin"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["Java", "Eclipse IDE", "Eclipse JDT", "MCP (Model Context Protocol)", "HTTP Server", "JUnit", "Maven", "EGit"]
 quality_score: 8
 rag_relevance: 9
+deployment_complexity: "Medium"
 tags: ["MCP Server", "Eclipse Plugin", "AI Agent Integration", "Java Development", "Code Editing"]
 source: "https://github.com/gradusnikov/eclipse-chatgpt-plugin"
+stars: 159
+language: "Java"
+last_updated: "2026-07-14T12:05:44Z"
 discovered_at: "2026-07-14T12:10:30Z"
 evaluated_by: "mistral-small-latest"
 ---

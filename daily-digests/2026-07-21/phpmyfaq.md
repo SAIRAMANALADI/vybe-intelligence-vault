@@ -1,11 +1,17 @@
 ---
 title: "thorsten/phpMyFAQ"
+content_type: "repo"
+engine: "v2"
 category: "UI Component"
 tech_stack: ["PHP 8.4+", "MySQL/MariaDB/PostgreSQL/SQLite/MSSQL", "Elasticsearch/OpenSearch", "Twig (templating)", "REST API", "Docker", "Redis", "TypeScript", "PHPUnit", "Vitest", "Playwright"]
 quality_score: 9
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["FAQ platform", "knowledge base", "search engine", "multi-language", "REST API"]
 source: "https://github.com/thorsten/phpMyFAQ"
+stars: 617
+language: "PHP"
+last_updated: "2026-07-20T12:15:55Z"
 discovered_at: "2026-07-20T12:22:20Z"
 evaluated_by: "mistral-small-latest"
 ---

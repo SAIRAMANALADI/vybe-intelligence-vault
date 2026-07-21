@@ -1,11 +1,17 @@
 ---
 title: "devcxl/mattpocock-skills-zh"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["TypeScript", "Shell", "Markdown", "GitHub Actions", "Claude Code", "AI Agent Frameworks"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["AI agent skills", "software engineering", "codebase alignment", "debugging automation", "tdd"]
 source: "https://github.com/devcxl/mattpocock-skills-zh"
+stars: 42
+language: "Shell"
+last_updated: "2026-07-14T20:01:01Z"
 discovered_at: "2026-07-14T20:09:27Z"
 evaluated_by: "mistral-small-latest"
 ---

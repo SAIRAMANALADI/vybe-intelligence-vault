@@ -1,11 +1,17 @@
 ---
 title: "ronload/bazi-flex-mcp"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["TypeScript", "Bun", "Model Context Protocol (MCP)", "shunshi-bazi-core", "Biome"]
 quality_score: 8
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["Bazi", "Four Pillars", "MCP Server", "Partial Birth Time", "Chinese Metaphysics"]
 source: "https://github.com/ronload/bazi-flex-mcp"
+stars: 0
+language: "TypeScript"
+last_updated: "2026-07-21T07:24:19Z"
 discovered_at: "2026-07-21T07:32:18Z"
 evaluated_by: "mistral-small-latest"
 ---

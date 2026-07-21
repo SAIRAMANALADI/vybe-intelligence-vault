@@ -1,11 +1,17 @@
 ---
 title: "lla7wel/Customer-Service-Agent"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["TypeScript", "Next.js 16", "PostgreSQL", "Kysely", "Docker", "Caddy", "Gemini API", "Meta Graph API", "Libyan Arabic NLP"]
 quality_score: 9
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["customer service automation", "Libyan Arabic NLP", "product image recognition", "self-hosted AI", "real-time catalog integration"]
 source: "https://github.com/lla7wel/Customer-Service-Agent"
+stars: 0
+language: "TypeScript"
+last_updated: "2026-07-14T20:07:32Z"
 discovered_at: "2026-07-14T20:09:27Z"
 evaluated_by: "mistral-small-latest"
 ---

@@ -1,11 +1,17 @@
 ---
 title: "sequelafairness341/multiautoresearch"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "Windows GUI", "Local Storage", "AI API Integration"]
 quality_score: 7
 rag_relevance: 6
+deployment_complexity: "Low"
 tags: ["AI research", "multi-agent workflows", "local execution", "experiment management", "Windows app"]
 source: "https://github.com/sequelafairness341/multiautoresearch"
+stars: 1
+language: "Python"
+last_updated: "2026-07-10T20:20:27Z"
 discovered_at: "2026-07-10T20:21:59Z"
 evaluated_by: "mistral-small-latest"
 ---

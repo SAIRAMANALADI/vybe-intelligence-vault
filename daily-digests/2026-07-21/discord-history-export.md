@@ -1,11 +1,17 @@
 ---
 title: "DaizeDong/discord-history-export"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "DiscordChatExporter", "Playwright MCP", "Claude Code", "HTML", "JSON"]
 quality_score: 8
 rag_relevance: 6
+deployment_complexity: "Medium"
 tags: ["Discord", "Data Export", "Automation", "HTML Archive", "JSON Dataset"]
 source: "https://github.com/DaizeDong/discord-history-export"
+stars: 0
+language: "Python"
+last_updated: "2026-07-17T08:01:34Z"
 discovered_at: "2026-07-17T08:07:27Z"
 evaluated_by: "mistral-small-latest"
 ---

@@ -1,11 +1,17 @@
 ---
 title: "TomatoCodeBase/cybertomato-skill"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "AI Skills Framework", "ZCode"]
 quality_score: 3
 rag_relevance: 4
+deployment_complexity: "Medium"
 tags: ["AI skills", "automation", "skill management", "ZCode", "open-source"]
 source: "https://github.com/TomatoCodeBase/cybertomato-skill"
+stars: 0
+language: "None"
+last_updated: "2026-07-19T02:29:38Z"
 discovered_at: "2026-07-19T02:29:58Z"
 evaluated_by: "mistral-small-latest"
 ---

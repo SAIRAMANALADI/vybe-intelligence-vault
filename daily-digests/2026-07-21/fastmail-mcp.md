@@ -1,11 +1,17 @@
 ---
 title: "MadLlama25/fastmail-mcp"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "JMAP API", "CalDAV", "WebDAV", "REST"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["MCP server", "Fastmail integration", "email automation", "contact management", "calendar tools"]
 source: "https://github.com/MadLlama25/fastmail-mcp"
+stars: 124
+language: "TypeScript"
+last_updated: "2026-07-19T17:57:09Z"
 discovered_at: "2026-07-19T17:59:09Z"
 evaluated_by: "mistral-small-latest"
 ---

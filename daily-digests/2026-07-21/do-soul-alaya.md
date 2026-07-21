@@ -1,11 +1,17 @@
 ---
 title: "tdwhere123/Do-SOUL-Alaya"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["TypeScript", "SQLite", "Node.js", "MCP (Model Context Protocol)", "pnpm", "ONNX Runtime", "Benchmarking Frameworks"]
 quality_score: 8
 rag_relevance: 9
+deployment_complexity: "Medium"
 tags: ["memory management", "CLI agents", "evidence-gated", "local-first", "auditability"]
 source: "https://github.com/tdwhere123/Do-SOUL-Alaya"
+stars: 2
+language: "TypeScript"
+last_updated: "2026-07-11T14:47:59Z"
 discovered_at: "2026-07-11T14:52:02Z"
 evaluated_by: "mistral-small-latest"
 ---

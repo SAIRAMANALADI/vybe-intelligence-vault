@@ -1,11 +1,17 @@
 ---
 title: "RobertoReale/real-estate-search"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "SQLite", "Telegram API", "Email (IMAP)", "Node.js", "OpenStreetMap", "Flask (assumed backend)", "Vite/React (assumed frontend)"]
 quality_score: 8
 rag_relevance: 4
+deployment_complexity: "Medium"
 tags: ["real estate", "data aggregation", "local analytics", "deduplication", "privacy-focused"]
 source: "https://github.com/RobertoReale/real-estate-search"
+stars: 0
+language: "Python"
+last_updated: "2026-07-11T14:46:35Z"
 discovered_at: "2026-07-11T14:51:55Z"
 evaluated_by: "mistral-small-latest"
 ---

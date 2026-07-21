@@ -1,11 +1,17 @@
 ---
 title: "letoribo/mcp-graphql-enhanced"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["TypeScript", "GraphQL", "Model Context Protocol (MCP)", "Node.js", "HTTP/JSON-RPC", "Zod"]
 quality_score: 9
 rag_relevance: 9
+deployment_complexity: "Medium"
 tags: ["GraphQL", "MCP", "LLM", "introspection", "federated gateway"]
 source: "https://github.com/letoribo/mcp-graphql-enhanced"
+stars: 2
+language: "TypeScript"
+last_updated: "2026-07-19T20:33:51Z"
 discovered_at: "2026-07-19T20:44:30Z"
 evaluated_by: "mistral-small-latest"
 ---

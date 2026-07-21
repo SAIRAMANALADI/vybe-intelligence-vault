@@ -1,11 +1,17 @@
 ---
 title: "sehoon787/my-codex"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["Python", "Shell", "TOML", "OpenAI Codex CLI", "MCP (Model Context Protocol)", "Git", "NPM"]
 quality_score: 9
 rag_relevance: 9
+deployment_complexity: "Medium"
 tags: ["agent orchestration", "meta-orchestrator", "codex cli", "multi-agent systems", "autonomous task routing"]
 source: "https://github.com/sehoon787/my-codex"
+stars: 21
+language: "Shell"
+last_updated: "2026-07-15T01:56:49Z"
 discovered_at: "2026-07-15T02:12:30Z"
 evaluated_by: "mistral-small-latest"
 ---

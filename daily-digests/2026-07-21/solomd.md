@@ -1,11 +1,17 @@
 ---
 title: "zhitongblog/solomd"
+content_type: "repo"
+engine: "v2"
 category: "UI Component"
 tech_stack: ["Tauri 2", "Vue 3", "CodeMirror 6", "Rust", "TypeScript", "libgit2", "YAML", "Mermaid", "KaTeX", "Ollama"]
 quality_score: 9
 rag_relevance: 10
+deployment_complexity: "Low"
 tags: ["markdown editor", "MCP server", "AI agent integration", "local-first", "knowledge graph"]
 source: "https://github.com/zhitongblog/solomd"
+stars: 442
+language: "TypeScript"
+last_updated: "2026-07-17T10:45:55Z"
 discovered_at: "2026-07-17T10:46:31Z"
 evaluated_by: "mistral-small-latest"
 ---

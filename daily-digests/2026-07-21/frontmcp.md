@@ -1,11 +1,17 @@
 ---
 title: "agentfront/frontmcp"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["TypeScript", "Node.js", "Decorators", "Dependency Injection (DI)", "Zod", "JWT", "OAuth", "SSE", "HTTP", "React"]
 quality_score: 9
 rag_relevance: 9
+deployment_complexity: "Medium"
 tags: ["MCP", "TypeScript", "Agent Framework", "Server Development", "AI Tooling"]
 source: "https://github.com/agentfront/frontmcp"
+stars: 147
+language: "TypeScript"
+last_updated: "2026-07-18T23:51:59Z"
 discovered_at: "2026-07-18T23:52:41Z"
 evaluated_by: "mistral-small-latest"
 ---

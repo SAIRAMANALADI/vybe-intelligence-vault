@@ -1,11 +1,17 @@
 ---
 title: "beycom/onetool-mcp"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["Python", "MCP (Model Context Protocol)", "FastMCP", "SQLite", "HTTP", "CLI", "Docker", "YAML"]
 quality_score: 9
 rag_relevance: 10
+deployment_complexity: "Medium"
 tags: ["MCP server", "token optimization", "context management", "tool consolidation", "AI agent integration"]
 source: "https://github.com/beycom/onetool-mcp"
+stars: 22
+language: "Python"
+last_updated: "2026-07-12T02:12:52Z"
 discovered_at: "2026-07-12T02:33:05Z"
 evaluated_by: "mistral-small-latest"
 ---

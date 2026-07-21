@@ -1,11 +1,17 @@
 ---
 title: "timescale/mcp-boilerplate-node"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "ESLint", "OpenTelemetry", "Bun"]
 quality_score: 9
 rag_relevance: 7
+deployment_complexity: "Low"
 tags: ["MCP", "Node.js", "boilerplate", "security", "server"]
 source: "https://github.com/timescale/mcp-boilerplate-node"
+stars: 7
+language: "TypeScript"
+last_updated: "2026-07-10T16:20:20Z"
 discovered_at: "2026-07-10T16:24:24Z"
 evaluated_by: "mistral-small-latest"
 ---

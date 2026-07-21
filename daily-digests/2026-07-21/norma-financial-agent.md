@@ -1,11 +1,17 @@
 ---
 title: "ljh15039080965-prog/norma-financial-agent"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["Python", "Claude Code", "OpenClaw", "OpenAI Codex", "Rust", "LSTM/Transformer", "Knowledge Graphs", "Sequential Decision Trees", "VaR/CVaR", "Mean-Variance Optimization"]
 quality_score: 8
 rag_relevance: 9
+deployment_complexity: "Medium"
 tags: ["Financial AI", "Quantitative Trading", "Knowledge Fusion", "Multi-Agent Debate", "A-Share Market"]
 source: "https://github.com/ljh15039080965-prog/norma-financial-agent"
+stars: 0
+language: "None"
+last_updated: "2026-07-15T16:10:56Z"
 discovered_at: "2026-07-15T16:21:03Z"
 evaluated_by: "mistral-small-latest"
 ---

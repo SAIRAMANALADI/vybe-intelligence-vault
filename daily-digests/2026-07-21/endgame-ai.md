@@ -1,11 +1,17 @@
 ---
 title: "wgabrys88/endgame-ai"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["Python", "LLM (Local Models)", "GitHub API", "Browser Automation", "Terminal/Editor Automation", "Git", "JSON Configuration"]
 quality_score: 7
 rag_relevance: 8
+deployment_complexity: "High"
 tags: ["autonomous agent", "desktop automation", "self-evolving", "LLM-driven", "local execution"]
 source: "https://github.com/wgabrys88/endgame-ai"
+stars: 1
+language: "Python"
+last_updated: "2026-07-11T15:50:00Z"
 discovered_at: "2026-07-11T15:54:14Z"
 evaluated_by: "mistral-small-latest"
 ---

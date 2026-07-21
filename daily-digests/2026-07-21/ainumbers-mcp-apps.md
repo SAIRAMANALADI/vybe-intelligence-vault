@@ -1,11 +1,17 @@
 ---
 title: "PostOakLabs/ainumbers-mcp-apps"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["JavaScript", "Cloudflare Workers", "Node.js", "Model Context Protocol (MCP)", "HTML/CSS", "GitHub Actions"]
 quality_score: 8
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["MCP server", "deterministic tools", "fintech", "zero PII", "Cloudflare Workers"]
 source: "https://github.com/PostOakLabs/ainumbers-mcp-apps"
+stars: 1
+language: "JavaScript"
+last_updated: "2026-07-12T20:36:12Z"
 discovered_at: "2026-07-12T20:42:53Z"
 evaluated_by: "mistral-small-latest"
 ---

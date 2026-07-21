@@ -1,11 +1,17 @@
 ---
 title: "n33x0n/actio-marketing-panel"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python 3.12", "uv", "SQLite", "MCP (stdio)", "Chainlit", "Plotly", "Google Ads API v22", "GA4 Data API", "GSC API", "Anthropic Claude (via OpenRouter)", "Pushover", "Gmail SMTP", "SQLite WAL mode", "systemd/launchd"]
 quality_score: 9
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["marketing automation", "LLM reporting", "data synchronization", "Google Ads integration", "SQLite"]
 source: "https://github.com/n33x0n/actio-marketing-panel"
+stars: 0
+language: "Python"
+last_updated: "2026-07-10T18:17:36Z"
 discovered_at: "2026-07-10T18:22:51Z"
 evaluated_by: "mistral-small-latest"
 ---

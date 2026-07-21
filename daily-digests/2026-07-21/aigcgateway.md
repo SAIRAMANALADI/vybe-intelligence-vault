@@ -1,11 +1,17 @@
 ---
 title: "tripplemay/aigcgateway"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["Next.js", "TypeScript", "PostgreSQL", "Prisma", "Redis", "shadcn/ui", "@modelcontextprotocol/sdk", "Node.js", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["AI Gateway", "Multi-Provider", "Prompt Engineering", "MCP Server", "Billing System"]
 source: "https://github.com/tripplemay/aigcgateway"
+stars: 2
+language: "TypeScript"
+last_updated: "2026-07-12T08:15:04Z"
 discovered_at: "2026-07-12T08:15:35Z"
 evaluated_by: "mistral-small-latest"
 ---

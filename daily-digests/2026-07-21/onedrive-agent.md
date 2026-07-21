@@ -1,11 +1,17 @@
 ---
 title: "nadeemmarshman/onedrive-agent"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["Python", "Anthropic API", "SendGrid", "JSON Schema", "State Machine", "Agile/Scrum", "RAID Log", "Unit/Integration Testing"]
 quality_score: 9
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["AI agent", "OneDrive cleanup", "human-in-the-loop", "BA/PM discipline", "LLM tool calling"]
 source: "https://github.com/nadeemmarshman/onedrive-agent"
+stars: 0
+language: "Python"
+last_updated: "2026-07-19T21:50:42Z"
 discovered_at: "2026-07-19T21:51:19Z"
 evaluated_by: "mistral-small-latest"
 ---

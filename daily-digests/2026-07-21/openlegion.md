@@ -1,11 +1,17 @@
 ---
 title: "openlegion-ai/openlegion"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["Python", "Docker", "LiteLLM", "SQLite", "FastAPI", "Telegram Bot API", "Discord API", "Slack API", "WhatsApp Business API", "Camoufox", "KasmVNC", "PolyForm Perimeter License"]
 quality_score: 9
 rag_relevance: 9
+deployment_complexity: "Medium"
 tags: ["multi-agent systems", "security-first", "self-hosted", "cost control", "container isolation"]
 source: "https://github.com/openlegion-ai/openlegion"
+stars: 105
+language: "Python"
+last_updated: "2026-07-10T18:18:30Z"
 discovered_at: "2026-07-10T18:22:31Z"
 evaluated_by: "mistral-small-latest"
 ---

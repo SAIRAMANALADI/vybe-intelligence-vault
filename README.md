@@ -11,7 +11,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
 [![Resources](https://img.shields.io/badge/Resources%20Indexed-50%2C472-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
-[![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--21-374151?style=flat-square)](#)
+[![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--22-374151?style=flat-square)](#)
 
 [Overview](#-overview) · [How It Works](#-how-it-works) · [Architecture](#-architecture) · [Quick Start](#-quick-start) · [Vault Stats](#-vault-stats) · [Contributing](#-contributing)
 
@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 50,472 files</p>
-        <p><b>Last Update:</b> 2026-07-21 22:47 IST</p>
+        <p><b>Last Update:</b> 2026-07-22 00:54 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,27 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](ai/community/qwen-image-3-0-rich-content-authentic-details-deep.md)** • <kbd>+119 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Who's afraid of Chinese models?](ai/community/who-s-afraid-of-chinese-models.md)** • <kbd>+82 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Develop for Android | Android Developers](ai/resources/develop-for-android-android-developers.md)** • Rank: <kbd>+1426</kbd>
-- 🔼 **[gitiles - Git at Google](ai/resources/gitiles-git-at-google.md)** • Rank: <kbd>+2801</kbd>
-- 🔼 **[Firebase · GitHub](ai/resources/firebase-github.md)** • Rank: <kbd>+2226</kbd>
+- 🔼 **[Develop for Android | Android Developers](ai/resources/develop-for-android-android-developers.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Kotlin and Android | Android Developers](ai/rag/kotlin-and-android-android-developers.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[gitiles - Git at Google](ai/resources/gitiles-git-at-google.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Firebase · GitHub](ai/resources/firebase-github.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Stream Firestore to BigQuery | Firebase Extensions Hub](ai/rag/stream-firestore-to-bigquery-firebase-extensions-h.md)** • Rank: <kbd>+2</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Apple Fixes Hide My Email Vulnerability After 404 Media Coverage](ai/community/apple-fixes-hide-my-email-vulnerability-after-404.md)** • Score: `19`
-- 🆕 **[Latest News from Google Research Blog - Google Research](ai/rag/latest-news-from-google-research-blog-google-resea.md)** • Score: `0`
-- 🆕 **[Kotlin and Android | Android Developers](ai/rag/kotlin-and-android-android-developers.md)** • Score: `0`
-- 🆕 **[MongoDB: The World’s Leading Modern Data Platform | MongoDB](ai/rag/mongodb-the-worlds-leading-modern-data-platform-mo.md)** • Score: `0`
-- 🆕 **[modular/modular](ai/rag/modular-modular.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[China’s open-weights AI strategy is winning](ai/community/american-ai-is-locked-down-and-proprietary-it-s-lo.md)**
-- 💤 **[Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12](ai/community/launch-hn-bloomy-yc-s26-ai-powered-mastery-learnin.md)**
-- 💤 **[A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste](ai/community/a-koi-pond-mosaic-made-from-10-pounds-of-3d-printe.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

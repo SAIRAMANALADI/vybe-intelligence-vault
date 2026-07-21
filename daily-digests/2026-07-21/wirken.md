@@ -1,11 +1,17 @@
 ---
 title: "gebruder/wirken"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["Rust", "Ed25519", "Cap'n Proto", "XChaCha20-Poly1305", "Docker", "gVisor", "Wasm", "OpenTelemetry", "Datadog", "Splunk", "Microsoft Sentinel", "Mermaid (for diagrams)"]
 quality_score: 9
 rag_relevance: 9
+deployment_complexity: "Medium"
 tags: ["agent orchestration", "multi-channel messaging", "security isolation", "audit logging", "MCP integration"]
 source: "https://github.com/gebruder/wirken"
+stars: 158
+language: "Rust"
+last_updated: "2026-07-18T20:43:20Z"
 discovered_at: "2026-07-18T20:43:58Z"
 evaluated_by: "mistral-small-latest"
 ---

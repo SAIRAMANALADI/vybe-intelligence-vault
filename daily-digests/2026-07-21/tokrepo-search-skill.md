@@ -1,11 +1,17 @@
 ---
 title: "Norrysubtle368/tokrepo-search-skill"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Windows", "Python", "AI Agents", "GitHub Integration", "ZIP Distribution"]
 quality_score: 6
 rag_relevance: 7
+deployment_complexity: "Low"
 tags: ["AI agents", "prompt search", "TokRepo integration", "Windows tooling", "skill management"]
 source: "https://github.com/Norrysubtle368/tokrepo-search-skill"
+stars: 0
+language: "None"
+last_updated: "2026-07-10T20:21:07Z"
 discovered_at: "2026-07-10T20:22:20Z"
 evaluated_by: "mistral-small-latest"
 ---

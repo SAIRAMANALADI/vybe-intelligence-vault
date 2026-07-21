@@ -1,11 +1,17 @@
 ---
 title: "othmaratzmueller-bit/mcp-context-toolkit"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["Python", "MCP (Model Context Protocol)", "Pydantic", "PyYAML", "Markdown", "Git", "Cytoscape.js"]
 quality_score: 9
 rag_relevance: 9
+deployment_complexity: "Medium"
 tags: ["MCP server", "context injection", "frecency ranking", "markdown stores", "deterministic retrieval"]
 source: "https://github.com/othmaratzmueller-bit/mcp-context-toolkit"
+stars: 0
+language: "Python"
+last_updated: "2026-07-19T07:23:02Z"
 discovered_at: "2026-07-19T07:29:45Z"
 evaluated_by: "mistral-small-latest"
 ---

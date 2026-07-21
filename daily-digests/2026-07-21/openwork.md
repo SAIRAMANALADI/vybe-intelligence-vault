@@ -1,11 +1,17 @@
 ---
 title: "modelstudioai/openwork"
+content_type: "repo"
+engine: "v2"
 category: "UI Component"
 tech_stack: ["TypeScript", "Electron", "React", "Qwen Code", "ModelStudio CLI", "MCP (Model Context Protocol)", "GitHub API", "Alibaba Cloud ModelStudio"]
 quality_score: 8
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["AI agents", "desktop workspace", "local-first", "multi-session management", "code execution"]
 source: "https://github.com/modelstudioai/openwork"
+stars: 12
+language: "TypeScript"
+last_updated: "2026-07-19T16:57:39Z"
 discovered_at: "2026-07-19T16:57:43Z"
 evaluated_by: "mistral-small-latest"
 ---

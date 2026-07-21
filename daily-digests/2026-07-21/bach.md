@@ -1,11 +1,17 @@
 ---
 title: "ellmos-ai/bach"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["Python", "SQLite", "MCP (Model Context Protocol)", "Claude Code", "FastAPI", "Telegram Bot API", "Node.js (for MCP servers)", "Jinja2", "Pydantic", "SQLAlchemy"]
 quality_score: 9
 rag_relevance: 10
+deployment_complexity: "High"
 tags: ["LLM Operating System", "Multi-Agent Orchestration", "Structured Memory", "MCP Integration", "Autonomous Agents"]
 source: "https://github.com/ellmos-ai/bach"
+stars: 7
+language: "Python"
+last_updated: "2026-07-11T02:08:37Z"
 discovered_at: "2026-07-11T02:27:58Z"
 evaluated_by: "mistral-small-latest"
 ---

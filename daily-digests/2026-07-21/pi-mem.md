@@ -1,11 +1,17 @@
 ---
 title: "jo-inc/pi-mem"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["TypeScript", "Node.js", "Markdown", "Git (for auto-commit)", "LLM (for context grouping and search)"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Low"
 tags: ["agent memory", "persistent storage", "daily logging", "semantic search", "AI tooling"]
 source: "https://github.com/jo-inc/pi-mem"
+stars: 68
+language: "TypeScript"
+last_updated: "2026-07-21T17:16:09Z"
 discovered_at: "2026-07-21T17:16:31Z"
 evaluated_by: "mistral-small-latest"
 ---

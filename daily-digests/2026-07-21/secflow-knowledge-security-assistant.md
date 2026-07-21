@@ -1,11 +1,17 @@
 ---
 title: "FuNianTongXue/secflow-knowledge-security-assistant"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["SwiftUI", "FastAPI", "LangGraph", "Python", "Semgrep", "Tree-sitter", "PostgreSQL", "DeepSeek", "OpenAI", "Ollama", "vLLM"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["macOS native AI agent", "vulnerability intelligence", "knowledge graph", "code auditing", "security reporting"]
 source: "https://github.com/FuNianTongXue/secflow-knowledge-security-assistant"
+stars: 6
+language: "Python"
+last_updated: "2026-07-21T12:21:21Z"
 discovered_at: "2026-07-21T12:23:40Z"
 evaluated_by: "mistral-small-latest"
 ---

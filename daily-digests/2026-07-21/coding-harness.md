@@ -1,11 +1,17 @@
 ---
 title: "drafael/coding-harness"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "Agent Skills", "CLI Tools", "Terminal Agents"]
 quality_score: 7
 rag_relevance: 6
+deployment_complexity: "Low"
 tags: ["AI coding agents", "agent skills", "development workflows", "modular tools", "code automation"]
 source: "https://github.com/drafael/coding-harness"
+stars: 0
+language: "Python"
+last_updated: "2026-07-18T21:44:36Z"
 discovered_at: "2026-07-18T21:49:54Z"
 evaluated_by: "mistral-small-latest"
 ---

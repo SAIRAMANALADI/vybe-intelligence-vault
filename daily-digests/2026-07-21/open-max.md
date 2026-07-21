@@ -1,11 +1,17 @@
 ---
 title: "Max17190/open-max"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["Rust", "Terminal UI (TUI)", "MLX (Apple Silicon)", "Ollama", "LM Studio", "vLLM", "llama.cpp", "Hugging Face"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["agent harness", "local AI", "terminal interface", "Rust", "extensible"]
 source: "https://github.com/Max17190/open-max"
+stars: 1
+language: "Rust"
+last_updated: "2026-07-16T16:25:22Z"
 discovered_at: "2026-07-16T16:25:36Z"
 evaluated_by: "mistral-small-latest"
 ---

@@ -1,11 +1,17 @@
 ---
 title: "agentscore/node-sdk"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["TypeScript", "Node.js", "REST API", "EVM", "Solana", "JWT", "SIWE"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Low"
 tags: ["KYC", "Identity Verification", "Agent Gating", "Sanctions Screening", "Wallet Resolution"]
 source: "https://github.com/agentscore/node-sdk"
+stars: 0
+language: "TypeScript"
+last_updated: "2026-07-17T20:02:32Z"
 discovered_at: "2026-07-17T20:05:18Z"
 evaluated_by: "mistral-small-latest"
 ---

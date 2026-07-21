@@ -1,11 +1,17 @@
 ---
 title: "Fortemi/fortemi"
+content_type: "repo"
+engine: "v2"
 category: "Vector DB"
 tech_stack: ["Rust", "PostgreSQL", "pgvector", "PostGIS", "Docker", "Node.js", "MCP (Model Context Protocol)", "Whisper", "pyannote", "OpenAI", "Ollama", "llama.cpp", "BM25", "SKOS", "TUS", "WebSockets", "SSE"]
 quality_score: 9
 rag_relevance: 10
+deployment_complexity: "Medium"
 tags: ["RAG", "knowledge-graph", "multimodal-ingestion", "hybrid-search", "agent-memory"]
 source: "https://github.com/Fortemi/fortemi"
+stars: 24
+language: "Rust"
+last_updated: "2026-07-16T14:57:27Z"
 discovered_at: "2026-07-16T15:00:37Z"
 evaluated_by: "mistral-small-latest"
 ---

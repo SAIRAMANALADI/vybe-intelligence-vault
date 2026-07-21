@@ -1,11 +1,17 @@
 ---
 title: "High-cla/multi-skilled-repository"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Markdown", "CLI Tools", "Windows Batch Scripting", "PowerShell", "AI Agent Workflows"]
 quality_score: 7
 rag_relevance: 7
+deployment_complexity: "Low"
 tags: ["AI agent skills", "CLI-first", "scripting pitfalls", "Windows batch", "PowerShell"]
 source: "https://github.com/High-cla/multi-skilled-repository"
+stars: 0
+language: "None"
+last_updated: "2026-07-16T08:09:45Z"
 discovered_at: "2026-07-16T08:09:56Z"
 evaluated_by: "mistral-small-latest"
 ---

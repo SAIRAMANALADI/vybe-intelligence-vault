@@ -1,11 +1,17 @@
 ---
 title: "Iamnanisyam/voice-agent"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "Vobiz (SIP telephony)", "LiveKit Cloud", "Sarvam AI (STT/TTS)", "OpenRouter (Grok LLM)", "Silero VAD", "GStreamer"]
 quality_score: 8
 rag_relevance: 7
+deployment_complexity: "High"
 tags: ["voice-agent", "anonymous-calling", "SIP-telephony", "real-time-transcription", "privacy-focused"]
 source: "https://github.com/Iamnanisyam/voice-agent"
+stars: 0
+language: "Python"
+last_updated: "2026-07-19T10:21:22Z"
 discovered_at: "2026-07-19T10:26:50Z"
 evaluated_by: "mistral-small-latest"
 ---

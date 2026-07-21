@@ -1,11 +1,17 @@
 ---
 title: "konstruktoid/prescryb"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["Python", "MCP (Model Context Protocol)", "SSH", "OSV.dev", "NVD API", "Ansible", "GitHub API", "Jinja2"]
 quality_score: 8
 rag_relevance: 9
+deployment_complexity: "Medium"
 tags: ["CVE remediation", "compliance mapping", "Ansible playbook generation", "MCP server", "security orchestration"]
 source: "https://github.com/konstruktoid/prescryb"
+stars: 1
+language: "Python"
+last_updated: "2026-07-11T11:01:20Z"
 discovered_at: "2026-07-11T11:04:00Z"
 evaluated_by: "mistral-small-latest"
 ---

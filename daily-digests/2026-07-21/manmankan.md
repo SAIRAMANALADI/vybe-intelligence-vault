@@ -1,11 +1,17 @@
 ---
 title: "piklen/manmankan"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "CLI", "JSON API", "MCP (Model Context Protocol)", "AKShare", "TuShare", "XDG Base Directory Specification", "AGPL-3.0"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["A-share", "local-first", "stock analysis", "data aggregation", "AI-readable API"]
 source: "https://github.com/piklen/manmankan"
+stars: 4
+language: "Python"
+last_updated: "2026-07-10T13:09:44Z"
 discovered_at: "2026-07-10T13:10:49Z"
 evaluated_by: "mistral-small-latest"
 ---

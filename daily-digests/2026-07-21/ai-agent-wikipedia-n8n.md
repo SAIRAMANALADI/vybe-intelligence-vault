@@ -1,11 +1,17 @@
 ---
 title: "avarose57/ai-agent-wikipedia-n8n"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["n8n", "LangChain", "Ollama", "Mistral", "Wikipedia API", "Python"]
 quality_score: 7
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["automation", "wikipedia", "ai-agent", "workflow-orchestration", "no-code"]
 source: "https://github.com/avarose57/ai-agent-wikipedia-n8n"
+stars: 1
+language: "None"
+last_updated: "2026-07-17T02:49:53Z"
 discovered_at: "2026-07-17T02:52:00Z"
 evaluated_by: "mistral-small-latest"
 ---

@@ -1,11 +1,17 @@
 ---
 title: "famclaw/honeybadger"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Go", "GitHub Actions", "Docker", "gitleaks", "OSV.dev API", "Cosign", "JSON-RPC", "NDJSON"]
 quality_score: 9
 rag_relevance: 10
+deployment_complexity: "Medium"
 tags: ["security scanning", "MCP server validation", "AI runtime protection", "static analysis", "prompt injection detection"]
 source: "https://github.com/famclaw/honeybadger"
+stars: 3
+language: "Go"
+last_updated: "2026-07-13T16:29:25Z"
 discovered_at: "2026-07-13T16:31:26Z"
 evaluated_by: "mistral-small-latest"
 ---

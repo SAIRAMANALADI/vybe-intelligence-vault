@@ -1,11 +1,17 @@
 ---
 title: "aryamthecodebreaker/FixMap"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Git", "npm/pnpm/Yarn/Bun", "Next.js", "React"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["context routing", "coding agents", "git diff analysis", "risk assessment", "local execution"]
 source: "https://github.com/aryamthecodebreaker/FixMap"
+stars: 1
+language: "TypeScript"
+last_updated: "2026-07-13T16:25:56Z"
 discovered_at: "2026-07-13T16:31:36Z"
 evaluated_by: "mistral-small-latest"
 ---

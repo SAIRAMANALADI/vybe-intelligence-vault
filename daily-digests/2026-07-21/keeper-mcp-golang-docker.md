@@ -1,11 +1,17 @@
 ---
 title: "Keeper-Security/keeper-mcp-golang-docker"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Go", "Docker", "Model Context Protocol (MCP)", "Keeper Secrets Manager (KSM)", "CLI"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["MCP Server", "Secret Management", "AI Integration", "Keeper Security", "Secure Access"]
 source: "https://github.com/Keeper-Security/keeper-mcp-golang-docker"
+stars: 10
+language: "Go"
+last_updated: "2026-07-16T14:56:28Z"
 discovered_at: "2026-07-16T15:00:37Z"
 evaluated_by: "mistral-small-latest"
 ---

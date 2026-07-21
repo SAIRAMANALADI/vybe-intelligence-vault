@@ -1,11 +1,17 @@
 ---
 title: "VenomD846/HoloCore"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["Python", "Markdown", "CLI", "MCP (Model Context Protocol)", "SQLite", "Obsidian (optional)", "Git"]
 quality_score: 9
 rag_relevance: 9
+deployment_complexity: "Medium"
 tags: ["context management", "local AI", "knowledge graph", "memory system", "token optimization"]
 source: "https://github.com/VenomD846/HoloCore"
+stars: 2
+language: "Python"
+last_updated: "2026-07-14T10:04:52Z"
 discovered_at: "2026-07-14T10:07:50Z"
 evaluated_by: "mistral-small-latest"
 ---

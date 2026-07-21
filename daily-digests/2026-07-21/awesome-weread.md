@@ -1,11 +1,17 @@
 ---
 title: "BENZEMA216/awesome-weread"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["JavaScript", "Python", "Rust", "TypeScript", "Node.js", "CLI", "SDK", "MCP", "REST API", "Cloudflare Workers", "Obsidian", "Notion", "Markdown"]
 quality_score: 8
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["WeChat Reading", "Agent Skill", "Book Management", "Annotations", "API Integration"]
 source: "https://github.com/BENZEMA216/awesome-weread"
+stars: 46
+language: "JavaScript"
+last_updated: "2026-07-19T19:12:44Z"
 discovered_at: "2026-07-19T19:13:29Z"
 evaluated_by: "mistral-small-latest"
 ---

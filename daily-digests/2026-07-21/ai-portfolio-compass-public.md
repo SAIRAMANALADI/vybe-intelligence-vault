@@ -1,11 +1,17 @@
 ---
 title: "Elian-dan/AI-Portfolio-Compass-public"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "FastAPI", "React", "Vite", "SQLite", "Futu OpenD", "Alpaca", "Polygon", "Alpha Vantage", "DeepSeek", "TypeScript", "Pydantic"]
 quality_score: 9
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["portfolio management", "multi-account aggregation", "AI copilot", "investment analysis", "local-first"]
 source: "https://github.com/Elian-dan/AI-Portfolio-Compass-public"
+stars: 4
+language: "Python"
+last_updated: "2026-07-14T12:10:01Z"
 discovered_at: "2026-07-14T12:10:18Z"
 evaluated_by: "mistral-small-latest"
 ---

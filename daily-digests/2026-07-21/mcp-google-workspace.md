@@ -1,11 +1,17 @@
 ---
 title: "guinacio/mcp-google-workspace"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["Python 3.12+", "FastMCP", "Google APIs Client Library", "OAuth 2.0", "Fernet encryption", "Node.js 18+", "TypeScript", "MCP (Model Context Protocol)", "Redis", "Streamable HTTP", "JWT", "uv package manager"]
 quality_score: 9
 rag_relevance: 9
+deployment_complexity: "High"
 tags: ["Google Workspace", "MCP Server", "Multi-tool Integration", "OAuth Automation", "Production-Ready"]
 source: "https://github.com/guinacio/mcp-google-workspace"
+stars: 0
+language: "HTML"
+last_updated: "2026-07-17T22:41:36Z"
 discovered_at: "2026-07-17T22:47:59Z"
 evaluated_by: "mistral-small-latest"
 ---

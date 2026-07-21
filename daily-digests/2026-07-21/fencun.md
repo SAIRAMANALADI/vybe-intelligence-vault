@@ -1,11 +1,17 @@
 ---
 title: "MrBaoboer/FenCun"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["Next.js 16", "React 19", "TypeScript 5", "Tailwind CSS v4", "DeepSeek (LLM)", "Zustand 5", "MiniSearch 7", "And\u98ce\u5929\u6c14 API", "Zod", "Vercel"]
 quality_score: 9
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["perfume recommendation", "context-aware agent", "real-time decision engine", "rule-based scoring", "LLM integration"]
 source: "https://github.com/MrBaoboer/FenCun"
+stars: 2
+language: "TypeScript"
+last_updated: "2026-07-20T15:07:12Z"
 discovered_at: "2026-07-20T15:10:42Z"
 evaluated_by: "mistral-small-latest"
 ---

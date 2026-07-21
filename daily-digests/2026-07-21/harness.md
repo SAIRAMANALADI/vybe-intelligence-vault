@@ -1,11 +1,17 @@
 ---
 title: "jgoneit/harness"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["Python", "Codex CLI", "Make", "Git", "Shell Scripting"]
 quality_score: 7
 rag_relevance: 6
+deployment_complexity: "Medium"
 tags: ["workflow automation", "approval gates", "AI coding safety", "agent orchestration", "code review"]
 source: "https://github.com/jgoneit/harness"
+stars: 0
+language: "Python"
+last_updated: "2026-07-12T10:20:30Z"
 discovered_at: "2026-07-12T10:26:24Z"
 evaluated_by: "mistral-small-latest"
 ---

@@ -1,11 +1,17 @@
 ---
 title: "kirillsaidov/ollama-mcp-example"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "Ollama", "MCP (Model Context Protocol)", "Server-Sent Events (SSE)"]
 quality_score: 8
 rag_relevance: 7
+deployment_complexity: "Low"
 tags: ["MCP", "Ollama", "function calling", "AI tooling", "model integration"]
 source: "https://github.com/kirillsaidov/ollama-mcp-example"
+stars: 20
+language: "Python"
+last_updated: "2026-07-10T10:43:59Z"
 discovered_at: "2026-07-10T10:52:47Z"
 evaluated_by: "mistral-small-latest"
 ---

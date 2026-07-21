@@ -1,11 +1,17 @@
 ---
 title: "haiyunsky/hpsilab-quant-finance-mcp"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "Model Context Protocol (MCP)", "REST API", "PyPI", "FastAPI (implied)", "Quantitative Finance Libraries", "AI/ML Models (LSTM, Gradient Boosting, Quantum VQC)"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["quantitative finance", "options analytics", "AI prediction", "Monte Carlo simulation", "MCP server"]
 source: "https://github.com/haiyunsky/hpsilab-quant-finance-mcp"
+stars: 1
+language: "Python"
+last_updated: "2026-07-21T07:31:34Z"
 discovered_at: "2026-07-21T07:32:00Z"
 evaluated_by: "mistral-small-latest"
 ---

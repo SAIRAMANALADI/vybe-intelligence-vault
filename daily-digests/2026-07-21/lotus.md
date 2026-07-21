@@ -1,11 +1,17 @@
 ---
 title: "bigduu/Lotus"
+content_type: "repo"
+engine: "v2"
 category: "UI Component"
 tech_stack: ["React", "Vite", "TypeScript", "Ant Design", "Jotai", "Zustand", "Dexie (IndexedDB)", "Mermaid", "recharts", "i18next", "react-markdown", "SSE (Server-Sent Events)", "JSPDF", "Playwright", "ESLint", "Prettier"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["AI agent interface", "real-time streaming", "SSE visualization", "React UI", "agent transparency"]
 source: "https://github.com/bigduu/Lotus"
+stars: 2
+language: "TypeScript"
+last_updated: "2026-07-16T08:06:45Z"
 discovered_at: "2026-07-16T08:10:00Z"
 evaluated_by: "mistral-small-latest"
 ---

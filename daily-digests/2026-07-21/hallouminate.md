@@ -1,11 +1,17 @@
 ---
 title: "paulnsorensen/hallouminate"
+content_type: "repo"
+engine: "v2"
 category: "Vector DB"
 tech_stack: ["Rust", "LanceDB", "FastEmbed", "MCP (Model Context Protocol)", "Unix Domain Sockets", "TOML (config)", "ONNX Runtime"]
 quality_score: 9
 rag_relevance: 10
+deployment_complexity: "Medium"
 tags: ["markdown indexing", "LLM knowledge base", "semantic search", "agent integration", "per-repo wiki"]
 source: "https://github.com/paulnsorensen/hallouminate"
+stars: 0
+language: "Rust"
+last_updated: "2026-07-20T03:50:02Z"
 discovered_at: "2026-07-20T03:52:30Z"
 evaluated_by: "mistral-small-latest"
 ---

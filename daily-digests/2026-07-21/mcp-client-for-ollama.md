@@ -1,11 +1,17 @@
 ---
 title: "jonigl/mcp-client-for-ollama"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "Ollama", "Model Context Protocol (MCP)", "Typer", "Rich", "FZF", "AsyncIO", "Pydantic"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Low"
 tags: ["MCP client", "Ollama integration", "local LLMs", "agent mode", "tool execution"]
 source: "https://github.com/jonigl/mcp-client-for-ollama"
+stars: 782
+language: "Python"
+last_updated: "2026-07-21T14:57:49Z"
 discovered_at: "2026-07-21T15:03:52Z"
 evaluated_by: "mistral-small-latest"
 ---

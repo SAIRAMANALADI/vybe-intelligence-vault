@@ -1,11 +1,17 @@
 ---
 title: "AI-Shell-Team/aish"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Rust", "PTY (Pseudo Terminal)", "LLM API Integration (OpenAI-compatible)", "SQLite", "YAML Configuration", "Systemd", "SSE (Server-Sent Events)", "Tokio (async runtime)"]
 quality_score: 9
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["AI Shell", "Terminal Automation", "Security Control", "Plugin System", "PTY Integration"]
 source: "https://github.com/AI-Shell-Team/aish"
+stars: 509
+language: "Rust"
+last_updated: "2026-07-20T06:11:59Z"
 discovered_at: "2026-07-20T06:16:49Z"
 evaluated_by: "mistral-small-latest"
 ---

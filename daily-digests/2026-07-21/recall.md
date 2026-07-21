@@ -1,11 +1,17 @@
 ---
 title: "tools-for-agents/recall"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Node.js", "SQLite", "FTS5 (Full-Text Search)", "HTTP APIs", "MCP (Model Context Protocol)", "JavaScript/TypeScript"]
 quality_score: 9
 rag_relevance: 10
+deployment_complexity: "Medium"
 tags: ["federated search", "context retrieval", "agent memory", "token budgeting", "unified briefing"]
 source: "https://github.com/tools-for-agents/recall"
+stars: 0
+language: "HTML"
+last_updated: "2026-07-12T10:10:38Z"
 discovered_at: "2026-07-12T10:26:42Z"
 evaluated_by: "mistral-small-latest"
 ---

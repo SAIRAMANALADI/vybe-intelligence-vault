@@ -1,11 +1,17 @@
 ---
 title: "erinlkolp/recallnest"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["TypeScript", "LanceDB", "Bun", "Node.js", "Model Context Protocol (MCP)", "HTTP API", "Web UI (React-based)", "Knowledge Graph (PPR algorithm)", "BM25", "Hybrid Retrieval (vector + BM25 + recency + RIF dedup)"]
 quality_score: 9
 rag_relevance: 10
+deployment_complexity: "Medium"
 tags: ["memory management", "context continuity", "hybrid retrieval", "knowledge graph", "agent integration"]
 source: "https://github.com/erinlkolp/recallnest"
+stars: 0
+language: "TypeScript"
+last_updated: "2026-07-13T18:43:16Z"
 discovered_at: "2026-07-13T18:43:24Z"
 evaluated_by: "mistral-small-latest"
 ---

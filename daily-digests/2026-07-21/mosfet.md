@@ -1,11 +1,17 @@
 ---
 title: "busycaesar/Mosfet"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["Python", "OpenAI SDK", "Anthropic SDK", "Ollama", "CLI", "Virtual Environments"]
 quality_score: 7
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["LLM Agent", "Modular Skills", "Tool Integration", "Model-Agnostic", "Terminal Chat"]
 source: "https://github.com/busycaesar/Mosfet"
+stars: 0
+language: "Python"
+last_updated: "2026-07-19T11:52:58Z"
 discovered_at: "2026-07-19T11:56:59Z"
 evaluated_by: "mistral-small-latest"
 ---

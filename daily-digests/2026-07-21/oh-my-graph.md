@@ -1,11 +1,17 @@
 ---
 title: "h0n9/oh-my-graph"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["Go", "Model Context Protocol (MCP)", "HTTP Server", "JSONL Storage", "Force-Directed Graph Visualization"]
 quality_score: 9
 rag_relevance: 10
+deployment_complexity: "Medium"
 tags: ["persistent context", "knowledge graph", "MCP server", "session continuity", "project understanding"]
 source: "https://github.com/h0n9/oh-my-graph"
+stars: 0
+language: "Go"
+last_updated: "2026-07-20T12:12:02Z"
 discovered_at: "2026-07-20T12:22:20Z"
 evaluated_by: "mistral-small-latest"
 ---

@@ -1,11 +1,17 @@
 ---
 title: "KyaniteLabs/kinocut"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "FFmpeg", "Model Context Protocol (MCP)", "Whisper (for speech-to-text)", "PyTorch (for AI features)", "Hyperframes", "CLI", "JSON/YAML (for workflow specs)"]
 quality_score: 9
 rag_relevance: 9
+deployment_complexity: "Medium"
 tags: ["video editing", "AI agents", "FFmpeg abstraction", "workflow automation", "media provenance"]
 source: "https://github.com/KyaniteLabs/kinocut"
+stars: 72
+language: "Python"
+last_updated: "2026-07-10T18:14:09Z"
 discovered_at: "2026-07-10T18:22:54Z"
 evaluated_by: "mistral-small-latest"
 ---

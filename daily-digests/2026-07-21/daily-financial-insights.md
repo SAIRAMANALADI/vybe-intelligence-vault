@@ -1,11 +1,17 @@
 ---
 title: "linshanova-ops/daily-financial-insights"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["TypeScript", "Next.js", "Cursor Agent Framework", "GitHub Pages", "Markdown", "JSON"]
 quality_score: 7
 rag_relevance: 6
+deployment_complexity: "Medium"
 tags: ["financial research", "automated briefings", "Cursor Agent", "news aggregation", "macro analysis"]
 source: "https://github.com/linshanova-ops/daily-financial-insights"
+stars: 0
+language: "TypeScript"
+last_updated: "2026-07-14T12:09:40Z"
 discovered_at: "2026-07-14T12:10:18Z"
 evaluated_by: "mistral-small-latest"
 ---

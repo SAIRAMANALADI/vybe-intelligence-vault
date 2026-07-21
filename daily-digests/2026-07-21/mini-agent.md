@@ -1,11 +1,17 @@
 ---
 title: "alicexl/mini-agent"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["Python", "LLM API", "Anthropic SDK", "BigModel API", "ReAct framework", "Agent architecture"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["AI Agent", "ReAct", "Multi-Agent Systems", "Memory Management", "Tool Integration"]
 source: "https://github.com/alicexl/mini-agent"
+stars: 0
+language: "Python"
+last_updated: "2026-07-19T08:11:53Z"
 discovered_at: "2026-07-19T08:13:32Z"
 evaluated_by: "mistral-small-latest"
 ---

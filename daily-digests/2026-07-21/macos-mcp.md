@@ -1,11 +1,17 @@
 ---
 title: "CursorTouch/MacOS-MCP"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "Model Context Protocol (MCP)", "Accessibility API", "AppleScript", "uv (package manager)", "launchd (for service management)"]
 quality_score: 9
 rag_relevance: 9
+deployment_complexity: "Medium"
 tags: ["macOS automation", "UI interaction", "MCP server", "AI agent integration", "system control"]
 source: "https://github.com/CursorTouch/MacOS-MCP"
+stars: 115
+language: "Python"
+last_updated: "2026-07-15T16:19:44Z"
 discovered_at: "2026-07-15T16:21:11Z"
 evaluated_by: "mistral-small-latest"
 ---

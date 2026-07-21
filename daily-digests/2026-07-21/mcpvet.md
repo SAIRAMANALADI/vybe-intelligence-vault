@@ -1,11 +1,17 @@
 ---
 title: "12122J/mcpvet"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "Sandboxing", "Static Analysis"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["MCP security", "server vetting", "honeytoken", "sandboxing", "AI agent safety"]
 source: "https://github.com/12122J/mcpvet"
+stars: 0
+language: "JavaScript"
+last_updated: "2026-07-14T17:56:18Z"
 discovered_at: "2026-07-14T18:02:03Z"
 evaluated_by: "mistral-small-latest"
 ---

@@ -1,11 +1,17 @@
 ---
 title: "lanchuske/local-mcp-releases"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "JXA (JavaScript for Automation)", "AppleScript", "LevelDB", "Electron", "React", "macOS Frameworks (EventKit, CNContactStore)"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Low"
 tags: ["MCP server", "macOS integration", "local AI tools", "RAG augmentation", "multi-app automation"]
 source: "https://github.com/lanchuske/local-mcp-releases"
+stars: 30
+language: "JavaScript"
+last_updated: "2026-07-11T23:49:03Z"
 discovered_at: "2026-07-11T23:53:59Z"
 evaluated_by: "mistral-small-latest"
 ---

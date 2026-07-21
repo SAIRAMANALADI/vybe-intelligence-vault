@@ -1,11 +1,17 @@
 ---
 title: "kgpp34/KumaBox"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Go", "KVM", "Cloud Hypervisor", "OCI (Open Container Initiative)", "CNI (Container Network Interface)", "Linux", "qemu-img", "vsock"]
 quality_score: 8
 rag_relevance: 7
+deployment_complexity: "High"
 tags: ["microVM", "sandboxing", "isolation", "KVM", "automation"]
 source: "https://github.com/kgpp34/KumaBox"
+stars: 0
+language: "Go"
+last_updated: "2026-07-20T02:43:15Z"
 discovered_at: "2026-07-20T02:44:50Z"
 evaluated_by: "mistral-small-latest"
 ---

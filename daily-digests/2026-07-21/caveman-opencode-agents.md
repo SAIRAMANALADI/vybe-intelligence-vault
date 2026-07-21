@@ -1,11 +1,17 @@
 ---
 title: "WitnessVisuals/Caveman-Opencode-Agents"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["OpenCode", "Prompt Engineering", "Token Optimization"]
 quality_score: 5
 rag_relevance: 7
+deployment_complexity: "Low"
 tags: ["token optimization", "prompt compression", "opencode", "agent templates", "cost reduction"]
 source: "https://github.com/WitnessVisuals/Caveman-Opencode-Agents"
+stars: 0
+language: "None"
+last_updated: "2026-07-19T19:02:06Z"
 discovered_at: "2026-07-19T19:13:26Z"
 evaluated_by: "mistral-small-latest"
 ---

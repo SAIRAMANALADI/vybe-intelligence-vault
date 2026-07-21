@@ -1,11 +1,17 @@
 ---
 title: "open-assistant-org/open-assistant"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["Python 3.11+", "FastAPI", "Docker", "SQLite", "Playwright", "APScheduler", "Node.js", "Microsoft Graph API", "Google APIs", "Notion API", "Nextcloud WebDAV", "Brave Search API", "whatsapp-web.js"]
 quality_score: 9
 rag_relevance: 6
+deployment_complexity: "Medium"
 tags: ["multi-agent", "self-hosted", "productivity", "LLM tool calling", "automation"]
 source: "https://github.com/open-assistant-org/open-assistant"
+stars: 6
+language: "Python"
+last_updated: "2026-07-18T13:09:20Z"
 discovered_at: "2026-07-18T13:09:48Z"
 evaluated_by: "mistral-small-latest"
 ---

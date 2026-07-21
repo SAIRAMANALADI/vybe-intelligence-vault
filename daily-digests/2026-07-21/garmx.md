@@ -1,11 +1,17 @@
 ---
 title: "intelligexhq/garmx"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["Go", "OpenTelemetry", "MCP (Model Context Protocol)", "Grafana", "Prometheus"]
 quality_score: 8
 rag_relevance: 9
+deployment_complexity: "Medium"
 tags: ["MCP", "observability", "audit", "OpenTelemetry", "AI agents"]
 source: "https://github.com/intelligexhq/garmx"
+stars: 0
+language: "Go"
+last_updated: "2026-07-10T20:18:15Z"
 discovered_at: "2026-07-10T20:22:33Z"
 evaluated_by: "mistral-small-latest"
 ---

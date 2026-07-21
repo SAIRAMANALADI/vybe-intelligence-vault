@@ -1,11 +1,17 @@
 ---
 title: "bartolli/codanna"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Rust", "MCP Protocol", "Tantivy (search engine)", "FastEmbed (embedding model)", "Claude", "Google Gemini", "OpenAI Codex"]
 quality_score: 9
 rag_relevance: 9
+deployment_complexity: "Medium"
 tags: ["code intelligence", "semantic search", "MCP server", "dependency analysis", "AI coding assistant"]
 source: "https://github.com/bartolli/codanna"
+stars: 708
+language: "Rust"
+last_updated: "2026-07-19T13:04:24Z"
 discovered_at: "2026-07-19T13:17:42Z"
 evaluated_by: "mistral-small-latest"
 ---

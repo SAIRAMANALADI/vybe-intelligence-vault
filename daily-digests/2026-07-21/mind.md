@@ -1,11 +1,17 @@
 ---
 title: "Da7-Tech/mind"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "JSON", "Markdown", "Shell", "Deterministic Builds", "Weighted Graphs", "BM25", "Spreading Activation", "Protocol Buffers (via MCP)"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Low"
 tags: ["memory", "deterministic", "offline", "agent-memory", "knowledge-graph"]
 source: "https://github.com/Da7-Tech/mind"
+stars: 42
+language: "Python"
+last_updated: "2026-07-18T20:33:52Z"
 discovered_at: "2026-07-18T20:44:10Z"
 evaluated_by: "mistral-small-latest"
 ---

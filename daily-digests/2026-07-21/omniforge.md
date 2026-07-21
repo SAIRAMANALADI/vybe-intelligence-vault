@@ -1,11 +1,17 @@
 ---
 title: "nexiouscaliver/OmniForge"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["Python", "Claude Code", "GitLab API", "MCP (Model Context Protocol)", "Git Worktrees", "uv (Python package runner)", "glab CLI"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["AI-powered review", "multi-agent system", "GitLab automation", "merge request lifecycle", "Claude Code plugin"]
 source: "https://github.com/nexiouscaliver/OmniForge"
+stars: 3
+language: "Python"
+last_updated: "2026-07-11T21:42:00Z"
 discovered_at: "2026-07-11T21:47:07Z"
 evaluated_by: "mistral-small-latest"
 ---

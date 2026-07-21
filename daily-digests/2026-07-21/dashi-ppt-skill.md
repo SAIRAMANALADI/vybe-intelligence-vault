@@ -1,11 +1,17 @@
 ---
 title: "chuspeeism/dashi-ppt-skill"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["JavaScript", "Node.js", "HTML/CSS", "PPTX Export Engine", "AI Agent Integration", "Chrome/Chromium for Export"]
 quality_score: 9
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["PPT Generation", "AI Agent Skill", "Interactive Presentations", "Document to PPTX", "Visual Themes"]
 source: "https://github.com/chuspeeism/dashi-ppt-skill"
+stars: 2739
+language: "JavaScript"
+last_updated: "2026-07-14T05:25:02Z"
 discovered_at: "2026-07-14T05:29:05Z"
 evaluated_by: "mistral-small-latest"
 ---

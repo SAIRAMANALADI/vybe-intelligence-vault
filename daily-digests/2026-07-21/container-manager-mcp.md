@@ -1,11 +1,17 @@
 ---
 title: "Knuckles-Team/container-manager-mcp"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["Python", "Docker", "Kubernetes", "Podman", "MCP (Model Context Protocol)", "A2A (Agent-to-Agent)", "OpenTelemetry", "Langfuse", "Pydantic", "SSH", "ThreadPoolExecutor"]
 quality_score: 9
 rag_relevance: 8
+deployment_complexity: "Medium"
 tags: ["container management", "MCP server", "multi-host orchestration", "Kubernetes", "agent framework"]
 source: "https://github.com/Knuckles-Team/container-manager-mcp"
+stars: 4
+language: "Python"
+last_updated: "2026-07-10T13:07:46Z"
 discovered_at: "2026-07-10T13:12:06Z"
 evaluated_by: "mistral-small-latest"
 ---

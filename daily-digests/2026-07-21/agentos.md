@@ -1,11 +1,17 @@
 ---
 title: "SapienXai/AgentOS"
+content_type: "repo"
+engine: "v2"
 category: "Orchestrator"
 tech_stack: ["Next.js", "React", "TypeScript", "pnpm", "OpenClaw", "Node.js", "WebSocket", "RPC"]
 quality_score: 9
 rag_relevance: 9
+deployment_complexity: "Medium"
 tags: ["agent orchestration", "control plane", "AI workspace", "multi-agent systems", "human oversight"]
 source: "https://github.com/SapienXai/AgentOS"
+stars: 71
+language: "TypeScript"
+last_updated: "2026-07-10T21:57:39Z"
 discovered_at: "2026-07-10T22:00:19Z"
 evaluated_by: "mistral-small-latest"
 ---

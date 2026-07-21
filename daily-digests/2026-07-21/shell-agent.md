@@ -1,11 +1,17 @@
 ---
 title: "stepchowfun/shell-agent"
+content_type: "repo"
+engine: "v2"
 category: "Agent Framework"
 tech_stack: ["Rust", "OpenAI API", "Shell Scripting", "Command-Line Interface"]
 quality_score: 8
 rag_relevance: 7
+deployment_complexity: "Low"
 tags: ["AI agent", "shell automation", "command execution", "OpenAI integration", "Rust-based"]
 source: "https://github.com/stepchowfun/shell-agent"
+stars: 1
+language: "Rust"
+last_updated: "2026-07-18T18:56:32Z"
 discovered_at: "2026-07-18T19:02:32Z"
 evaluated_by: "mistral-small-latest"
 ---

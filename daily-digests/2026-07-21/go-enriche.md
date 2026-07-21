@@ -1,11 +1,17 @@
 ---
 title: "anatolykoptev/go-enriche"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Go", "HTTP Fetching", "Structured Data Parsing", "Regex Extraction", "Schema.org"]
 quality_score: 8
 rag_relevance: 9
+deployment_complexity: "Medium"
 tags: ["web scraping", "content enrichment", "structured data", "schema.org", "text extraction"]
 source: "https://github.com/anatolykoptev/go-enriche"
+stars: 0
+language: "Go"
+last_updated: "2026-07-18T14:47:14Z"
 discovered_at: "2026-07-18T14:50:42Z"
 evaluated_by: "mistral-small-latest"
 ---

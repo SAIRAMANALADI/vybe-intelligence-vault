@@ -1,11 +1,17 @@
 ---
 title: "warpdotdev/fraud-detection-agent-oss"
+content_type: "repo"
+engine: "v2"
 category: "Tooling"
 tech_stack: ["Python", "SQL", "Metabase", "BigQuery", "Slack API", "Oz CLI", "Warp Agent Platform"]
 quality_score: 8
 rag_relevance: 7
+deployment_complexity: "Medium"
 tags: ["fraud detection", "SQL-based analysis", "automated reporting", "agent skills", "data warehouse integration"]
 source: "https://github.com/warpdotdev/fraud-detection-agent-oss"
+stars: 0
+language: "Python"
+last_updated: "2026-07-20T19:49:56Z"
 discovered_at: "2026-07-20T19:53:32Z"
 evaluated_by: "mistral-small-latest"
 ---
