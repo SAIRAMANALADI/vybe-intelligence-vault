@@ -1,13 +1,24 @@
 ---
-title: "Dxms1959/razor-cli-agent"
-category: "Agent Framework"
-tech_stack: ["Go", "OpenAI API", "Anthropic Claude API", "TOML", "ANSI Escape Sequences", "Mermaid Diagram"]
+title: Dxms1959/razor-cli-agent
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- OpenAI API
+- Anthropic Claude API
+- TOML
+- ANSI Escape Sequences
+- Mermaid Diagram
 quality_score: 8
 rag_relevance: 7
-tags: ["CLI", "code generation", "LLM integration", "terminal agent", "Go"]
-source: "https://github.com/Dxms1959/razor-cli-agent"
-discovered_at: "2026-07-16T12:22:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- CLI
+- code generation
+- LLM integration
+- terminal agent
+- Go
+source: https://github.com/Dxms1959/razor-cli-agent
+discovered_at: '2026-07-16T12:22:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

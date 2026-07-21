@@ -4,17 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/openai/mle-bench
-collected_at: '2026-07-21T09:17:47.740108+05:30'
-published_at: '2026-07-20T18:14:25Z'
+collected_at: '2026-07-21T14:19:13.855989+05:30'
+published_at: '2026-07-21T07:53:27Z'
 tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - openai
 - python
 - workflows
-stars: 1644
+stars: 1647
 language: Python
 status: active
 license: NOASSERTION
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-10-08T17:07:40Z'
 pushed_at: '2026-04-24T17:33:44Z'
 resource_id: github:openai/mle-bench
-first_seen: '2026-07-21T09:17:47.740108+05:30'
-last_seen: '2026-07-21T09:17:47.740108+05:30'
-last_checked: '2026-07-21T09:17:47.740108+05:30'
+first_seen: '2026-07-21T14:19:13.855989+05:30'
+last_seen: '2026-07-21T14:19:13.855989+05:30'
+last_checked: '2026-07-21T14:19:13.855989+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Scope**: MLE-bench evaluates AI agents' proficiency in end-to-end machine learning engineering tasks, including data preprocessing, model training, hyperparameter optimization, and deployment.
-- **Technical Implementation**: Implemented in Python, it provides a standardized framework for assessing agents' ability to handle real-world ML workflows with measurable metrics.
-- **Evaluation Metrics**: Tracks performance across key ML engineering dimensions (e.g., accuracy, efficiency, reproducibility) to quantify agent capabilities in practical scenarios.
+- **MLE-bench**: A benchmarking framework evaluating AI agents' proficiency in machine learning engineering tasks.
+- **Metrics**: Focuses on end-to-end ML workflows (e.g., data preprocessing, model training, hyperparameter tuning, deployment).
+- **Tech Stack**: Implemented in Python, designed for extensibility and integration with existing ML toolchains.
 
 ## Why It Matters
 
@@ -43,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: openai
-- Stars: 1644
+- Stars: 1647
 - Forks: 256
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-20T18:14:25Z
+- Last Updated: 2026-07-21T07:53:27Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-10-08T17:07:40Z

@@ -1,13 +1,28 @@
 ---
-title: "supernovae-st/nika-agents"
-category: "Agent Framework"
-tech_stack: ["Python", "Rust", "MCP (Model Context Protocol)", "GitHub Actions", "skills.sh", "VS Code", "Claude Code", "Hermes", "AGPL-3.0", "MIT"]
+title: supernovae-st/nika-agents
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Rust
+- MCP (Model Context Protocol)
+- GitHub Actions
+- skills.sh
+- VS Code
+- Claude Code
+- Hermes
+- AGPL-3.0
+- MIT
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent delegation", "workflow automation", "MCP oracle", "plugin marketplace", "task verification"]
-source: "https://github.com/supernovae-st/nika-agents"
-discovered_at: "2026-07-10T18:22:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent delegation
+- workflow automation
+- MCP oracle
+- plugin marketplace
+- task verification
+source: https://github.com/supernovae-st/nika-agents
+discovered_at: '2026-07-10T18:22:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

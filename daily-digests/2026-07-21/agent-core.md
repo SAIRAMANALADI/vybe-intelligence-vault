@@ -1,13 +1,25 @@
 ---
-title: "jiayan-xu/agent-core"
-category: "Agent Framework"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "HTTP", "Tauri", "LLM Integration", "Session Management", "Audit Logging"]
+title: jiayan-xu/agent-core
+category: daily-digests/2026-07-21
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- HTTP
+- Tauri
+- LLM Integration
+- Session Management
+- Audit Logging
 quality_score: 9
 rag_relevance: 9
-tags: ["enterprise agents", "security-first", "MCP-native", "role-based skills", "fail-safe degradation"]
-source: "https://github.com/jiayan-xu/agent-core"
-discovered_at: "2026-07-19T14:54:13Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- enterprise agents
+- security-first
+- MCP-native
+- role-based skills
+- fail-safe degradation
+source: https://github.com/jiayan-xu/agent-core
+discovered_at: '2026-07-19T14:54:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

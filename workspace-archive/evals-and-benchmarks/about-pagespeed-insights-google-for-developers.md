@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **PageSpeed Insights (PSI)** evaluates web page performance using both real-world (CrUX) and lab (Lighthouse) data, providing optimization recommendations for mobile and desktop.
-- **Core Web Vitals** (LCP, CLS, INP) and additional metrics (FCP, TTFB) are assessed via CrUX, with performance categorized as Good/Needs Improvement/Poor based on predefined thresholds.
-- **Lab diagnostics** via Lighthouse simulate controlled environments (mid-tier mobile/desktop) to score Performance, Accessibility
+- **PageSpeed Insights (PSI)** evaluates web page performance using both real-world (CrUX dataset) and lab (Lighthouse) data, providing optimization recommendations for mobile and desktop.
+- **Core Web Vitals** (LCP, CLS, INP) and additional metrics (FCP, TTFB) are assessed with thresholds categorizing performance as Good, Needs Improvement, or Poor, using the 75th percentile for field data.
+- **Lab diagnostics** via Lighthouse score Performance, Accessibility, Best Practices, and SEO, with real
 
 ## Use Cases
 

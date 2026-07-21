@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-07-21T09:15:27.671443+05:30'
-published_at: '2026-07-21T03:04:16Z'
+collected_at: '2026-07-21T14:16:53.735891+05:30'
+published_at: '2026-07-21T04:48:15Z'
 tags:
 - github-repo
 - python
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-07-14T16:53:59Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-07-21T09:15:27.671443+05:30'
-last_seen: '2026-07-21T09:15:27.671443+05:30'
-last_checked: '2026-07-21T09:15:27.671443+05:30'
+first_seen: '2026-07-21T14:16:53.735891+05:30'
+last_seen: '2026-07-21T14:16:53.735891+05:30'
+last_checked: '2026-07-21T14:16:53.735891+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-*   Implements a Retrieval-Augmented Generation (RAG) architecture for document-based conversational AI.
-*   Developed in Python, providing a chatbot interface for interactive querying of documents.
-*   Leverages Large Language Models (LLMs) to enable semantic understanding and response generation from user-provided textual data.
+- **RAG Architecture**: Implements Retrieval-Augmented Generation (RAG) for document-based chatbots, combining document retrieval with LLM-based response generation.
+- **Modular Design**: Python-based, open-source framework with extensible components for document ingestion, embedding, retrieval, and multi-modal interaction.
+- **Performance & Scalability**: Optimized for handling large document sets with efficient retrieval mechanisms and support for multi-modal inputs (text, images, tables).
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 2133
 - Language: Python
 - Topics: chatbot, llms, open-source, rag
-- Last Updated: 2026-07-21T03:04:16Z
+- Last Updated: 2026-07-21T04:48:15Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-03-25T08:16:42Z

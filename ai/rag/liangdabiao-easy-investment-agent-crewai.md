@@ -4,13 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/liangdabiao/easy_investment_Agent_crewai
-collected_at: '2026-07-21T09:19:07.823724+05:30'
+collected_at: '2026-07-21T14:20:33.879948+05:30'
 published_at: '2026-07-17T06:08:52Z'
 tags:
 - agents
+- benchmark
+- dataset
 - github-repo
 - python
 - rag
+- workflows
 stars: 463
 language: Python
 status: active
@@ -18,9 +21,9 @@ archived: false
 created_at: '2025-09-26T11:16:52Z'
 pushed_at: '2026-05-07T01:07:08Z'
 resource_id: github:liangdabiao/easy_investment_agent_crewai
-first_seen: '2026-07-21T09:19:07.823724+05:30'
-last_seen: '2026-07-21T09:19:07.823724+05:30'
-last_checked: '2026-07-21T09:19:07.823724+05:30'
+first_seen: '2026-07-21T14:20:33.879948+05:30'
+last_seen: '2026-07-21T14:20:33.879948+05:30'
+last_checked: '2026-07-21T14:20:33.879948+05:30'
 health_score: 100
 ---
 
@@ -28,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent System**: Implements 4 specialized AI agents collaborating for A-share investment analysis, leveraging CrewAI framework for orchestration.
-- **Data Integration**: Utilizes AKShare for real-time A-share data (quotes, financials, fund flows, sentiment) with China-specific optimizations.
-- **Decision Support**: Generates investment recommendations via automated multi-agent analysis of structured financial data and market metrics.
+- **Multi-Agent A-Shares Analysis Framework**: Implements 4 specialized AI agents (data retrieval, financial analysis, sentiment evaluation, decision synthesis) leveraging AKShare for real-time A-share market data (quotes, financials, fund flows, sentiment metrics).
+- **Chinese Market Optimization**: Tailored analysis for A-share characteristics (e.g., liquidity constraints, regulatory impacts) with localized financial metrics and market-specific heuristics.
+- **Automated Investment Pipeline**: Integrates data ingestion → multi-agent collaboration → synthesized recommendations, with CrewAI orchestrating agent workflows and AKShare providing structured financial datasets.
 
 ## Why It Matters
 

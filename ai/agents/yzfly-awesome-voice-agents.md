@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzfly/awesome-voice-agents
-collected_at: '2026-07-21T09:17:32.701260+05:30'
+collected_at: '2026-07-21T14:18:58.789037+05:30'
 published_at: '2026-07-15T07:58:38Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-11-03T02:20:30Z'
 pushed_at: '2026-07-03T22:06:38Z'
 resource_id: github:yzfly/awesome-voice-agents
-first_seen: '2026-07-21T09:17:32.701260+05:30'
-last_seen: '2026-07-21T09:17:32.701260+05:30'
-last_checked: '2026-07-21T09:17:32.701260+05:30'
+first_seen: '2026-07-21T14:18:58.789037+05:30'
+last_seen: '2026-07-21T14:18:58.789037+05:30'
+last_checked: '2026-07-21T14:18:58.789037+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`yzfly/awesome-voice-agents`) aggregating frameworks, tools, and best practices for voice AI agents, covering speech-to-text (STT), text-to-speech (TTS), voice activity detection (VAD), voice cloning, conversion, recognition, and synthesis.
-- **Technical Scope**: Encompasses real-time chat, voice assistant, and agentic systems, with topics including `agents`, `realtime-chat`, `stt`, `tts`, `vad`, `voice-activity-detection`, `voice-agents`, `voice-assistant`, `voice-cloning`, `voice-conversion`, `voice-recognition`, and `voice-synthesis`.
-- **Metadata**: Last updated on **2026-07-15**, with **36 stars** and **19 forks**, hosted under an unspecified primary language.
+- **Curated resources**: Repository aggregates frameworks, tools, and best practices for voice AI agents, covering speech-to-text (STT), text-to-speech (TTS), voice activity detection (VAD), voice cloning, conversion, recognition, and synthesis.
+- **Technical scope**: Includes real-time chat systems, voice assistants, and multi-modal agent architectures with a focus on low-latency processing and multi-modal integration.
+- **Maintenance**: Last updated July 2026, indicating active curation but potential need for verification of current tool viability.
 
 ## Why It Matters
 

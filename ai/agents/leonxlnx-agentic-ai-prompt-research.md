@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-07-21T09:17:57.756993+05:30'
+collected_at: '2026-07-21T14:19:23.829821+05:30'
 published_at: '2026-07-20T02:42:56Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-07-21T09:17:57.756993+05:30'
-last_seen: '2026-07-21T09:17:57.756993+05:30'
-last_checked: '2026-07-21T09:17:57.756993+05:30'
+first_seen: '2026-07-21T14:19:23.829821+05:30'
+last_seen: '2026-07-21T14:19:23.829821+05:30'
+last_checked: '2026-07-21T14:19:23.829821+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and coordination mechanisms for autonomous AI coding agents, emphasizing multi-agent collaboration and task decomposition.
-- **Security Classification**: Implements security frameworks to classify and mitigate risks in agentic AI systems, including prompt injection, data leakage, and unauthorized tool access.
-- **System Prompts & Tools**: Analyzes system prompts for Claude and other agentic models, optimizing for reliability, context retention, and tool integration in AI-driven development workflows.
+- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and agent coordination mechanisms for autonomous AI coding assistants, emphasizing multi-agent collaboration and task decomposition strategies.
+
+- **Security Classification Framework**: Proposes a security classification system for agentic AI interactions, addressing vulnerabilities in prompt injection, data exfiltration, and unintended code execution within AI-driven development workflows.
+
+- **System Prompts & CLAUDE Integration**: Investigates optimized system prompts for CLAUDE-based agents, including dynamic prompt adaptation, role-based agent specialization, and real-time context-aware prompt reconstruction for enhanced coding assistance.
 
 ## Why It Matters
 

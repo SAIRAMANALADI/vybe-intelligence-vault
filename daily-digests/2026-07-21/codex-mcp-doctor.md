@@ -1,13 +1,24 @@
 ---
-title: "luogangan7-lgtm/codex-mcp-doctor"
-category: "Tooling"
-tech_stack: ["Python 3.11+", "TOML", "JSON-RPC", "HTTP/SSE", "Subprocess", "Socket"]
+title: luogangan7-lgtm/codex-mcp-doctor
+category: daily-digests/2026-07-21
+tech_stack:
+- Python 3.11+
+- TOML
+- JSON-RPC
+- HTTP/SSE
+- Subprocess
+- Socket
 quality_score: 10
 rag_relevance: 9
-tags: ["MCP diagnostics", "zero-dependency", "security validation", "schema validation", "Codex integration"]
-source: "https://github.com/luogangan7-lgtm/codex-mcp-doctor"
-discovered_at: "2026-07-18T19:02:42Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP diagnostics
+- zero-dependency
+- security validation
+- schema validation
+- Codex integration
+source: https://github.com/luogangan7-lgtm/codex-mcp-doctor
+discovered_at: '2026-07-18T19:02:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

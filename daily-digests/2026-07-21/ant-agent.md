@@ -1,13 +1,26 @@
 ---
-title: "0xSaurabhx/Ant-Agent"
-category: "Agent Framework"
-tech_stack: ["Python", "Rich", "Prompt Toolkit", "Trafilatura", "Ollama", "Local LLM APIs", "JSON", "Unittest"]
+title: 0xSaurabhx/Ant-Agent
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Rich
+- Prompt Toolkit
+- Trafilatura
+- Ollama
+- Local LLM APIs
+- JSON
+- Unittest
 quality_score: 8
 rag_relevance: 7
-tags: ["local AI", "CLI assistant", "offline-first", "developer tools", "persistent memory"]
-source: "https://github.com/0xSaurabhx/Ant-Agent"
-discovered_at: "2026-07-15T12:14:10Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local AI
+- CLI assistant
+- offline-first
+- developer tools
+- persistent memory
+source: https://github.com/0xSaurabhx/Ant-Agent
+discovered_at: '2026-07-15T12:14:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

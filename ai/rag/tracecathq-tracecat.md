@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-07-21T09:18:02.820632+05:30'
+collected_at: '2026-07-21T14:19:28.872883+05:30'
 published_at: '2026-07-20T22:37:45Z'
 tags:
 - agents
@@ -21,11 +21,11 @@ status: active
 license: AGPL-3.0
 archived: false
 created_at: '2024-02-27T06:48:32Z'
-pushed_at: '2026-07-21T03:37:13Z'
+pushed_at: '2026-07-21T04:19:41Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-07-21T09:18:02.820632+05:30'
-last_seen: '2026-07-21T09:18:02.820632+05:30'
-last_checked: '2026-07-21T09:18:02.820632+05:30'
+first_seen: '2026-07-21T14:19:28.872883+05:30'
+last_seen: '2026-07-21T14:19:28.872883+05:30'
+last_checked: '2026-07-21T14:19:28.872883+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Architecture**: Tracecat is an open-source, event-driven security automation platform built with Python (FastAPI backend) and Next.js (frontend), leveraging Temporal.io for workflow orchestration and Pydantic for data validation.
+- **Platform Overview**: Open-source security automation platform enabling teams and AI agents to orchestrate workflows via an event-driven architecture, leveraging FastAPI (backend), Next.js (frontend), and Temporal.io (workflow engine).
 
-- **Key Features**: Supports low-code automation, LLM integration, and OpenAPI-based API design, enabling security teams and AI agents to define, monitor, and execute security workflows with minimal manual intervention.
+- **Technical Stack**: Built in Python with Pydantic for data validation, OpenAPI for API specification, and integrates LLMs for AI-driven automation; supports low-code workflow design and real-time monitoring.
 
-- **Technical Stack**: Combines security-focused tools (e.g., monitoring, event-driven triggers) with modern frameworks (FastAPI, Next.js, Temporal.io) for scalable, agent-ready automation in Python.
+- **Deployment & Scalability**: Designed for scalability with containerized workflows, supports OpenAPI-driven integrations, and includes security-focused features for event-driven security operations.
 
 ## Why It Matters
 
@@ -54,7 +54,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2024-02-27T06:48:32Z
-- Pushed At: 2026-07-21T03:37:13Z
+- Pushed At: 2026-07-21T04:19:41Z
 
 ## Possible Use Cases
 

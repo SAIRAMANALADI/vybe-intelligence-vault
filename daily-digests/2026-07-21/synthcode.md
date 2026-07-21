@@ -1,13 +1,23 @@
 ---
-title: "Beige-superior870/synthcode"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Windows", "AI Model Integration", "Electron (implied by Windows app)", "Node.js (implied by TypeScript setup)"]
+title: Beige-superior870/synthcode
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Windows
+- AI Model Integration
+- Electron (implied by Windows app)
+- Node.js (implied by TypeScript setup)
 quality_score: 6
 rag_relevance: 7
-tags: ["coding assistant", "agent-based workflow", "Windows application", "model-agnostic", "local development"]
-source: "https://github.com/Beige-superior870/synthcode"
-discovered_at: "2026-07-13T22:55:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- coding assistant
+- agent-based workflow
+- Windows application
+- model-agnostic
+- local development
+source: https://github.com/Beige-superior870/synthcode
+discovered_at: '2026-07-13T22:55:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

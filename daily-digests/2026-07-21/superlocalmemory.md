@@ -1,13 +1,28 @@
 ---
-title: "qualixar/superlocalmemory"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "sqlite-vec", "CozoDB", "LanceDB", "MCP (Model Context Protocol)", "CLI", "JavaScript", "TypeScript", "AGPL-3.0 License"]
+title: qualixar/superlocalmemory
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- SQLite
+- sqlite-vec
+- CozoDB
+- LanceDB
+- MCP (Model Context Protocol)
+- CLI
+- JavaScript
+- TypeScript
+- AGPL-3.0 License
 quality_score: 9
 rag_relevance: 9
-tags: ["local-first memory", "agent context", "retrieval augmentation", "MCP integration", "privacy-focused"]
-source: "https://github.com/qualixar/superlocalmemory"
-discovered_at: "2026-07-16T15:00:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- local-first memory
+- agent context
+- retrieval augmentation
+- MCP integration
+- privacy-focused
+source: https://github.com/qualixar/superlocalmemory
+discovered_at: '2026-07-16T15:00:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

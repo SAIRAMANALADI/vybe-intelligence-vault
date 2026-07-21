@@ -1,13 +1,26 @@
 ---
-title: "Gonorolabs/Gonoro"
-category: "Agent Framework"
-tech_stack: ["Python", "JavaScript", "Supabase", "Solana (chain)", "HTML/CSS", "Docker", "GitHub Actions", "LLM APIs"]
+title: Gonorolabs/Gonoro
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- JavaScript
+- Supabase
+- Solana (chain)
+- HTML/CSS
+- Docker
+- GitHub Actions
+- LLM APIs
 quality_score: 8
 rag_relevance: 7
-tags: ["autonomous agent", "append-only ledger", "self-rewriting code", "transparency", "AI evolution"]
-source: "https://github.com/Gonorolabs/Gonoro"
-discovered_at: "2026-07-20T18:00:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agent
+- append-only ledger
+- self-rewriting code
+- transparency
+- AI evolution
+source: https://github.com/Gonorolabs/Gonoro
+discovered_at: '2026-07-20T18:00:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

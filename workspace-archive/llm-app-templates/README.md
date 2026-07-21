@@ -24,9 +24,9 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
 - [agentuniverse-ai/agentUniverse](https://github.com/agentuniverse-ai/agentUniverse)
-- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template)
-- [aiwaves-cn/agents](https://github.com/aiwaves-cn/agents)
+- [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents)
 - [Azure-Samples/azure-openai-rag-workshop-template](https://github.com/Azure-Samples/azure-openai-rag-workshop-template)
+- [supabase-community/vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 
 ---
 
-*Last updated: 2026-07-21 09:31 IST*
+*Last updated: 2026-07-21 14:33 IST*

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://android.googlesource.com
-published_at: '2026-07-21T03:57:52.533486+05:30'
-collected_at: '2026-07-21T03:57:52.533502+05:30'
+published_at: '2026-07-21T14:26:20.789636+05:30'
+collected_at: '2026-07-21T14:26:20.789656+05:30'
 tags:
 - benchmark
 - frontend_ui
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:android-git-repositories-git-at-google
-first_seen: '2026-07-21T03:57:52.533502+05:30'
-last_seen: '2026-07-21T03:57:52.533502+05:30'
-last_checked: '2026-07-21T03:57:52.533502+05:30'
+first_seen: '2026-07-21T14:26:20.789656+05:30'
+last_seen: '2026-07-21T14:26:20.789656+05:30'
+last_checked: '2026-07-21T14:26:20.789656+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Official Android Git Repository**: Hosted at `android.googlesource.com`, providing version-controlled access to Android OS components, device-specific configurations, kernels, and hardware abstraction layers (HALs) for various devices (e.g., `device/google/bluejay`, `device/google/taimen`).
+- **Android Git Repository Structure**: Hosts a hierarchical Git repository structure under `android.googlesource.com`, containing device-specific configurations (e.g., `device/google/bluejay`), kernel sources (e.g., `device/google/bluejay-kernel`), and security policies (e.g., `device/google/bluejay-sepolicy`) for various hardware platforms.
 
-- **Multi-Architecture & Kernel Support**: Contains device-specific repositories for multiple architectures (ARM64, x86, MIPS) and kernel versions (e.g., `5.10`, `6.1`), including device-specific SELinux policies (`sepolicy`) and prebuilt kernel binaries (e.g., `device/google/akita-kernels/6.1`).
+- **Device-Specific Branches & Kernels**: Many device directories include kernel branches for different Linux versions (e.g., `device/google/bluejay-kernels/5.10`, `6.1`) and SELinux policy configurations, indicating support for multi-version kernel integration and security hardening.
 
-- **Hardware-Specific & Accessory Integration**: Includes repositories for hardware-specific implementations (e.g., `device/asus/flo`, `device/google/cuttlefish` for emulator support) and accessory frameworks (e.g., `device/google/accessory/arduino`, `device/google/accessory/demokit`).
+- **Accessory & Emulation Support**: Includes repositories for hardware accessories (e.g., `device/google/accessory/arduino`) and emulator targets (e.g., `device/generic/mini-emulator-arm64`), demonstrating support for both physical device development and virtualized testing environments.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T03:57:52.533486+05:30
+- Published: 2026-07-21T14:26:20.789636+05:30
 
 ## Related Tags
 

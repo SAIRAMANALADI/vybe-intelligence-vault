@@ -3,17 +3,16 @@ title: truefoundry/cognita
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/truefoundry/cognita?source=post_page
-resource_id: github:truefoundry/cognita
------dba899ae0355---------------------------------------
-collected_at: '2026-07-21T09:19:17.838598+05:30'
-published_at: '2026-07-20T05:35:17Z'
+source_url: https://github.com/truefoundry/cognita
+collected_at: '2026-07-21T14:20:48.931989+05:30'
+published_at: '2026-07-21T08:15:44Z'
 tags:
 - agents
 - github-repo
 - models
 - python
 - rag
+- workflows
 stars: 4412
 language: Python
 status: active
@@ -22,9 +21,9 @@ archived: true
 created_at: '2023-07-26T13:08:54Z'
 pushed_at: '2026-03-13T15:04:36Z'
 resource_id: github:truefoundry/cognita
-first_seen: '2026-07-21T09:19:17.838598+05:30'
-last_seen: '2026-07-21T09:19:17.838598+05:30'
-last_checked: '2026-07-21T09:19:17.838598+05:30'
+first_seen: '2026-07-21T14:20:48.931989+05:30'
+last_seen: '2026-07-21T14:20:48.931989+05:30'
+last_checked: '2026-07-21T14:20:48.931989+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: Open-source Python-based framework for building production-ready Retrieval-Augmented Generation (RAG) applications with modular components for seamless integration and scalability.
+- **Modular RAG Framework**: Cognita is an open-source Python-based framework designed for building production-grade Retrieval Augmented Generation (RAG) applications with modular components for seamless integration and scalability.
 
-- **Multi-Language Support**: Supports both Python and TypeScript, enabling cross-language compatibility for diverse application development and deployment scenarios.
+- **Production-Ready Features**: Supports LLM Ops, model deployment, and fine-tuning workflows, with TypeScript compatibility for frontend integration, ensuring end-to-end AI application development.
 
-- **MLOps & LLMOps Integration**: Incorporates MLOps and LLMOps best practices for model deployment, fine-tuning, and operationalization, ensuring robust lifecycle management of AI applications.
+- **TrueFoundry Ecosystem**: Part of TrueFoundry’s AI/ML toolkit, offering MLOps capabilities, agent-based architectures, and deep-learning optimizations for enterprise-grade generative AI deployments.
 
 ## Why It Matters
 
@@ -49,7 +48,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 391
 - Language: Python
 - Topics: agent, ai, application, data, deep-learning, fine-tuning, framework, generative-ai, llm, llm-ops, llmops, machine-learning, mlops, model-deployment, python, rag, retrieval-augmented-generation, typescript
-- Last Updated: 2026-07-20T05:35:17Z
+- Last Updated: 2026-07-21T08:15:44Z
 - License: Apache-2.0
 - Archived: Yes
 - Created At: 2023-07-26T13:08:54Z
@@ -71,4 +70,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/truefoundry/cognita?source=post_page-----dba899ae0355---------------------------------------
+Original source: https://github.com/truefoundry/cognita

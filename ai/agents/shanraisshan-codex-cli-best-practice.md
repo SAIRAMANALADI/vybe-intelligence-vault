@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-07-21T09:17:27.724576+05:30'
+collected_at: '2026-07-21T14:18:53.776309+05:30'
 published_at: '2026-07-21T01:34:00Z'
 tags:
 - agents
 - github-repo
 - openai
 - python
+- scripts
 - workflows
 stars: 932
 language: Python
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-07-21T09:17:27.724576+05:30'
-last_seen: '2026-07-21T09:17:27.724576+05:30'
-last_checked: '2026-07-21T09:17:27.724576+05:30'
+first_seen: '2026-07-21T14:18:53.776309+05:30'
+last_seen: '2026-07-21T14:18:53.776309+05:30'
+last_checked: '2026-07-21T14:18:53.776309+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository provides structured methodologies to transition from "vibe coding" to agentic engineering using Codex CLI, emphasizing modular workflows, hooks, and context engineering for AI-driven development.
+- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and automated workflows for AI-driven development.
 
-- **Codex CLI Skills & Commands**: Documents optimized Codex CLI commands, custom skills, and best practices for agentic coding, including context management, multi-agent orchestration, and skill chaining.
+- **Codex CLI Skills & Commands**: Provides curated best practices for Codex CLI, including custom commands, agentic skills, and CLI-based automation for OpenAI Codex, optimizing AI-assisted coding pipelines.
 
-- **Open-Source Contributions & Localization**: Open-source Python-based project with Pakistani developer focus, offering localized examples, hooks for extensibility, and community-driven improvements for AI agent workflows.
+- **Context & Hooks Architecture**: Implements a *context-engineering* framework with reusable hooks for dynamic task execution, enabling scalable agentic workflows in Python-based AI agent systems.
 
 ## Why It Matters
 

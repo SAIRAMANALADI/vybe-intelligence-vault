@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PierreGode/Ragnar
-collected_at: '2026-07-21T09:16:17.638369+05:30'
-published_at: '2026-07-21T01:54:17Z'
+collected_at: '2026-07-21T14:17:43.718266+05:30'
+published_at: '2026-07-21T07:18:54Z'
 tags:
 - github-repo
 - hackernews
@@ -18,11 +18,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2025-11-01T03:12:25Z'
-pushed_at: '2026-07-21T01:54:13Z'
+pushed_at: '2026-07-21T07:18:41Z'
 resource_id: github:pierregode/ragnar
-first_seen: '2026-07-21T09:16:17.638369+05:30'
-last_seen: '2026-07-21T09:16:17.638369+05:30'
-last_checked: '2026-07-21T09:16:17.638369+05:30'
+first_seen: '2026-07-21T14:17:43.718266+05:30'
+last_seen: '2026-07-21T14:17:43.718266+05:30'
+last_checked: '2026-07-21T14:17:43.718266+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Ragnar is an offensive security tool designed for Raspberry Pi with a 2.13-inch e-Paper HAT, enabling network scanning, target discovery, open port identification, exposed service detection, and vulnerability assessment.
-
-- **Features**: Automates reconnaissance by scanning networks for active targets, enumerating open ports/services, and identifying potential vulnerabilities in exposed systems.
-
-- **Technical Details**: Written in Python, last updated on 2026-07-21, with 762 stars and 63 forks on GitHub.
+- **Purpose**: Ragnar is an offensive security tool designed for Raspberry Pi, integrating a 2.13-inch e-Paper HAT for network scanning and vulnerability assessment.
+- **Functionality**: Discovers network targets, enumerates open ports, identifies exposed services, and detects vulnerabilities in scanned environments.
+- **Technical Stack**: Implemented in Python, last updated on **2026-07-21**, with 762 stars and 63 forks on GitHub.
 
 ## Why It Matters
 
@@ -47,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 63
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-21T01:54:17Z
+- Last Updated: 2026-07-21T07:18:54Z
 - License: MIT
 - Archived: No
 - Created At: 2025-11-01T03:12:25Z
-- Pushed At: 2026-07-21T01:54:13Z
+- Pushed At: 2026-07-21T07:18:41Z
 
 ## Possible Use Cases
 

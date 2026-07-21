@@ -6,7 +6,7 @@ source_name: GitHub Discovery
 source_url: https://github.com/RUC-NLPIR/FlashRAG?source=post_page
 resource_id: github:ruc-nlpir/flashrag
 -----dba899ae0355---------------------------------------
-collected_at: '2026-07-21T09:19:17.825107+05:30'
+collected_at: '2026-07-21T14:20:43.905910+05:30'
 published_at: '2026-07-20T07:46:10Z'
 tags:
 - benchmark
@@ -23,9 +23,9 @@ archived: false
 created_at: '2024-03-14T01:40:33Z'
 pushed_at: '2026-07-19T10:20:30Z'
 resource_id: github:ruc-nlpir/flashrag
-first_seen: '2026-07-21T09:19:17.825107+05:30'
-last_seen: '2026-07-21T09:19:17.825107+05:30'
-last_checked: '2026-07-21T09:19:17.825107+05:30'
+first_seen: '2026-07-21T14:20:43.905910+05:30'
+last_seen: '2026-07-21T14:20:43.905910+05:30'
+last_checked: '2026-07-21T14:20:43.905910+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit optimized for fast and scalable Retrieval-Augmented Generation (RAG) research, leveraging efficient algorithms and data structures to accelerate experiments.
+- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit designed for high-performance Retrieval-Augmented Generation (RAG) research, optimized for speed and scalability in large language model (LLM) applications.
 
-- **Benchmark & Dataset Support**: Includes built-in benchmarks and datasets for evaluating RAG systems, enabling standardized performance comparisons across models and retrieval strategies.
+- **Benchmark & Dataset Support**: The repository includes built-in support for standardized RAG benchmarks and datasets, enabling reproducible evaluation and comparison of retrieval and generation components.
 
-- **Modular & Extensible**: Designed with modularity in mind, allowing researchers to easily integrate custom retrieval methods, LLMs, or evaluation metrics for rapid prototyping and experimentation.
+- **Modular Architecture**: FlashRAG provides a modular framework for integrating custom retrieval methods, indexing strategies, and LLM backends, facilitating rapid prototyping and experimentation.
 
 ## Why It Matters
 

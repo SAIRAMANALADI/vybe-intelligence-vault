@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-07-21T09:15:52.641793+05:30'
+collected_at: '2026-07-21T14:17:18.721243+05:30'
 published_at: '2026-07-21T01:55:51Z'
 tags:
 - github-repo
 - hackernews
 - python
 - rag
-- workflows
 stars: 165
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-07-20T08:22:31Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-07-21T09:15:52.641793+05:30'
-last_seen: '2026-07-21T09:15:52.641793+05:30'
-last_checked: '2026-07-21T09:15:52.641793+05:30'
+first_seen: '2026-07-21T14:17:18.721243+05:30'
+last_seen: '2026-07-21T14:17:18.721243+05:30'
+last_checked: '2026-07-21T14:17:18.721243+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Production-Grade RAG Resources**: Repository aggregates battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems, covering AI engineering, embeddings, LLMs, and MLOps.
+- **Curated Production-Grade RAG Resources**: Repository aggregates battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems, including embeddings, vector databases, and MLOps pipelines.
 
-- **Technical Stack**: Focuses on Python-based implementations with integrations for LangChain, vector databases, and LLM frameworks, emphasizing production deployment, scalability, and retrieval optimization.
+- **Multi-Faceted Technical Stack**: Covers Python-based implementations integrating LangChain, LLMs, generative AI, and vector databases, with emphasis on production deployment, scalability, and operational excellence (LLMOps).
 
-- **Community & Maintenance**: Actively maintained (last updated July 2026) with 165 stars and 42 forks, serving as a community-driven reference for RAG production workflows, including LLMOps and generative AI pipelines.
+- **Continuously Updated Knowledge Base**: Last updated July 21, 2026, with 165 stars and 42 forks, serving as a dynamic reference for AI engineering teams deploying RAG systems in production environments.
 
 ## Why It Matters
 

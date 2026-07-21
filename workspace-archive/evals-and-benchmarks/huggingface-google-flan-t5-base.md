@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Dataset Overview**: GSM8K is a benchmark dataset comprising 8.5K high-quality linguistically diverse grade school math word problems, designed to evaluate multi-step mathematical reasoning in language models.
+- **Dataset Overview**: GSM8K is a benchmark dataset comprising 8.5K high-quality linguistically diverse grade school math word problems, designed to evaluate and advance mathematical reasoning in language models.
 
-- **Evaluation Metric**: Performance is measured by exact match accuracy, requiring correct final answers derived through valid multi-step reasoning paths.
+- **Evaluation Metrics**: Performance is measured by exact match accuracy, requiring models to generate correct step-by-step solutions to achieve a pass.
 
-- **Usage Context**: Primarily used to assess and compare the mathematical reasoning capabilities of large language models, with
+- **Scale & Usage**: Contains 17.6K total examples (split into train/test sets), with 890K tokens and 1.46K unique problems, widel
 
 ## Use Cases
 

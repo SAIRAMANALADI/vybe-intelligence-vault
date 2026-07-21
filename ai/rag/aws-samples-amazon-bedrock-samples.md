@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aws-samples/amazon-bedrock-samples
-collected_at: '2026-07-21T09:15:42.764911+05:30'
-published_at: '2026-07-19T16:39:29Z'
+collected_at: '2026-07-21T14:17:08.800982+05:30'
+published_at: '2026-07-21T05:28:55Z'
 tags:
 - github-repo
 - jupyter notebook
 - models
 - rag
 - workflows
-stars: 1476
+stars: 1477
 language: Jupyter Notebook
 status: active
 license: MIT-0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-07-05T18:23:34Z'
 pushed_at: '2026-07-15T23:16:03Z'
 resource_id: github:aws-samples/amazon-bedrock-samples
-first_seen: '2026-07-21T09:15:42.764911+05:30'
-last_seen: '2026-07-21T09:15:42.764911+05:30'
-last_checked: '2026-07-21T09:15:42.764911+05:30'
+first_seen: '2026-07-21T14:17:08.800982+05:30'
+last_seen: '2026-07-21T14:17:08.800982+05:30'
+last_checked: '2026-07-21T14:17:08.800982+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook-based examples for all available Amazon Bedrock foundational models, covering use cases like text generation, embeddings, and retrieval-augmented generation (RAG).
+- **Comprehensive Amazon Bedrock Examples**: Repository provides hands-on examples for all available Amazon Bedrock foundational models, enabling quick customer adoption and experimentation with generative AI capabilities.
 
-- **Multi-Model & Multi-Tool Integration**: Includes examples for Amazon Titan models, LangChain integration, and knowledge base management, demonstrating cross-model compatibility and AWS-native tooling.
+- **Multi-Model & Tool Integration**: Includes demonstrations for Amazon Titan models, embeddings, LangChain integration, and Retrieval-Augmented Generation (RAG) workflows, covering key generative AI use cases.
 
-- **AWS Generative AI Showcase**: Focuses on practical implementations of generative AI workflows, including embedding generation, RAG pipelines, and model fine-tuning with Amazon Bedrock's native capabilities.
+- **Jupyter Notebook-Based Learning**: All examples are structured as executable Jupyter Notebooks, facilitating interactive exploration and practical implementation of Amazon Bedrock services.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: aws-samples
-- Stars: 1476
+- Stars: 1477
 - Forks: 703
 - Language: Jupyter Notebook
 - Topics: amazon-bedrock, amazon-titan, bedrock, embeddings, generative-ai, knowledge-base, langchain, rag
-- Last Updated: 2026-07-19T16:39:29Z
+- Last Updated: 2026-07-21T05:28:55Z
 - License: MIT-0
 - Archived: No
 - Created At: 2023-07-05T18:23:34Z

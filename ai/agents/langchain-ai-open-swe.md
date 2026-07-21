@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-07-21T09:17:12.807225+05:30'
-published_at: '2026-07-21T02:43:25Z'
+collected_at: '2026-07-21T14:18:38.814373+05:30'
+published_at: '2026-07-21T08:29:38Z'
 tags:
 - agents
 - anthropic
@@ -13,7 +13,7 @@ tags:
 - openai
 - python
 - workflows
-stars: 10370
+stars: 10373
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-05-21T21:44:24Z'
 pushed_at: '2026-07-21T00:24:58Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-07-21T09:17:12.807225+05:30'
-last_seen: '2026-07-21T09:17:12.807225+05:30'
-last_checked: '2026-07-21T09:17:12.807225+05:30'
+first_seen: '2026-07-21T14:18:38.814373+05:30'
+last_seen: '2026-07-21T14:18:38.814373+05:30'
+last_checked: '2026-07-21T14:18:38.814373+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Open-SWE is an open-source autonomous coding agent designed for asynchronous execution, enabling parallel task processing and efficient code generation/review workflows.
+- **Asynchronous Coding Agent**: Open-SWE is an open-source framework designed for asynchronous, autonomous coding tasks using LLMs (e.g., OpenAI, Anthropic) with support for tools like `claudecode`.
 
-- **Multi-LLM Integration**: Supports both OpenAI and Anthropic (ClaudeCode) LLMs, allowing dynamic switching between providers for optimized performance in code synthesis, debugging, and agentic workflows.
+- **Agent-Based Architecture**: Implements a multi-agent system for software engineering workflows, enabling parallel task execution, tool integration, and dynamic decision-making in Python.
 
-- **Scalable Agent Framework**: Built on Python with modular architecture, facilitating extensibility for custom tooling, multi-agent collaboration, and integration with CI/CD pipelines for automated software engineering tasks.
+- **Scalable & Extensible**: Supports custom agent configurations, tool integrations, and async I/O for high-throughput coding operations, with active community contributions (10.3k+ stars, 1.1k+ forks).
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 10370
-- Forks: 1177
+- Stars: 10373
+- Forks: 1178
 - Language: Python
 - Topics: agent, agents, ai, anthropic, claudecode, llm, llms, openai
-- Last Updated: 2026-07-21T02:43:25Z
+- Last Updated: 2026-07-21T08:29:38Z
 - License: MIT
 - Archived: No
 - Created At: 2025-05-21T21:44:24Z

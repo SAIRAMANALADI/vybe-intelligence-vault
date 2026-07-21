@@ -4,16 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sickn33/agentic-awesome-skills
-collected_at: '2026-07-21T09:18:37.797374+05:30'
-published_at: '2026-07-21T02:42:49Z'
+collected_at: '2026-07-21T14:20:03.849282+05:30'
+published_at: '2026-07-21T08:46:14Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - python
-- scripts
 - workflows
-stars: 43650
+stars: 43658
 language: Python
 status: active
 license: MIT
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-01-14T17:48:09Z'
 pushed_at: '2026-07-20T20:09:49Z'
 resource_id: github:sickn33/agentic-awesome-skills
-first_seen: '2026-07-21T09:18:37.797374+05:30'
-last_seen: '2026-07-21T09:18:37.797374+05:30'
-last_checked: '2026-07-21T09:18:37.797374+05:30'
+first_seen: '2026-07-21T14:20:03.849282+05:30'
+last_seen: '2026-07-21T14:20:03.849282+05:30'
+last_checked: '2026-07-21T14:20:03.849282+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Agent-First Control Plane**: Local MCP-based system enabling autonomous agent discovery, selection, validation, and planning across 1,969+ agentic skills via CLI, Workbench, and plugins.
-- **Multi-Tool Integration**: Supports AI coding workflows (Claude Code, Cursor, Codex-CLI), MCP, and agent frameworks (Gemini-CLI, Kiro) with a structured skill catalog for extensibility.
-- **Python-Based Architecture**: Core implementation in Python with Antigravity-themed skill libraries, last updated July 2026, emphasizing developer tooling and AI-driven automation.
+- **Core Features**: Local agent-first control plane with 1,969+ agentic skills for catalog discovery, agent-owned selection, stack validation, and planning.
+- **Components**: Includes CLI, local MCP, catalog, plugins, and Workbench for AI-driven workflows.
+- **Integration**: Supports AI agents (e.g., Claude Code, Cursor, Gemini CLI) and developer tools via Python-based plugins.
 
 ## Why It Matters
 
@@ -42,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: sickn33
-- Stars: 43650
-- Forks: 6463
+- Stars: 43658
+- Forks: 6462
 - Language: Python
 - Topics: agent-skills, agentic-skills, ai-agent-skills, ai-agents, ai-coding, ai-workflows, antigravity, antigravity-skills, claude-code, claude-code-skills, codex-cli, codex-skills, cursor, cursor-skills, developer-tools, gemini-cli, gemini-skills, kiro, mcp, skill-library
-- Last Updated: 2026-07-21T02:42:49Z
+- Last Updated: 2026-07-21T08:46:14Z
 - License: MIT
 - Archived: No
 - Created At: 2026-01-14T17:48:09Z

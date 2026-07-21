@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-07-21T09:15:12.668701+05:30'
+collected_at: '2026-07-21T14:16:38.663244+05:30'
 published_at: '2026-07-20T02:18:09Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - javascript
 - meta-ai
 - models
 - rag
+- workflows
 stars: 1477
 language: JavaScript
 status: active
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-07-21T09:15:12.668701+05:30'
-last_seen: '2026-07-21T09:15:12.668701+05:30'
-last_checked: '2026-07-21T09:15:12.668701+05:30'
+first_seen: '2026-07-21T14:16:38.663244+05:30'
+last_seen: '2026-07-21T14:16:38.663244+05:30'
+last_checked: '2026-07-21T14:16:38.663244+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Provides a step-by-step JavaScript-based tutorial for building Retrieval-Augmented Generation (RAG) systems from scratch using local LLMs (via `node-llama-cpp`), emphasizing transparency over black-box solutions.
-
-- **Core Technical Components**: Covers embeddings generation, vector search (likely using cosine similarity or similar), retrieval mechanisms, and context-augmented generation, all implemented without proprietary abstractions.
-
-- **Node.js-Centric Design**: Leverages Node.js and `node-llama-cpp` for local LLM inference, targeting developers familiar with JavaScript/TypeScript for hands-on RAG pipeline construction.
+- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using local LLMs (via `node-llama-cpp`) to avoid black-box abstractions, focusing on embeddings, vector search, retrieval, and context-augmented generation.
+- **JavaScript-Based Pipeline**: Built entirely in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference, enabling end-to-end RAG workflows without external dependencies.
+- **Modular & Tutorial-Oriented**: Designed as a hands-on educational resource for understanding RAG components (e.g., embedding generation, vector DBs, retrieval logic) and integrating them into AI agents or chatbots.
 
 ## Why It Matters
 

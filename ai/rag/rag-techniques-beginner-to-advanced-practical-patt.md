@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources/
-published_at: '2026-07-21T03:44:37.956208+05:30'
-collected_at: '2026-07-21T03:44:37.956223+05:30'
+published_at: '2026-07-21T14:16:29.295021+05:30'
+collected_at: '2026-07-21T14:16:29.295037+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-techniques-beginner-to-advanced-practical-patt
-first_seen: '2026-07-21T03:44:37.956223+05:30'
-last_seen: '2026-07-21T03:44:37.956223+05:30'
-last_checked: '2026-07-21T03:44:37.956223+05:30'
+first_seen: '2026-07-21T14:16:29.295037+05:30'
+last_seen: '2026-07-21T14:16:29.295037+05:30'
+last_checked: '2026-07-21T14:16:29.295037+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Architecture**: Combines a retriever (dense embeddings + vector search or sparse BM25) with an LLM generator to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates.
+- **Minimal RAG Pipeline**: Uses `sentence-transformers` (e.g., `all-MiniLM-L6-v2`) for embeddings, FAISS for vector search, and `transformers` (e.g., Flan-T5) for generation; documents are chunked and indexed with normalized embeddings for cosine similarity via `IndexFlatIP`.
 
-- **Minimal Pipeline Implementation**: Uses `sentence-transformers` for embeddings, FAISS for vector search, and Flan-T5 for generation; documents are chunked, embedded, indexed, and retrieved via semantic similarity for LLM prompting.
+- **Intermediate Techniques**: Implements hybrid retrieval (sparse BM25 + dense embeddings), metadata filtering, reranking (e.g., `monoT5`/`bge-reranker`), query expansion (HyDE/multi-query), and context optimization (chunking with overlap, prompt templating with citations).
 
-- **Intermediate Enhancements**: Techniques like hybrid retrieval (sparse + dense), reranking (e.g., monoT5), query expansion (HyDE/multi-query), metadata filtering, and prompt templating improve precision, recall, and citation fidelity in production RAG systems.
+- **Advanced Techniques**: Enables multi-hop retrieval, GraphRAG (knowledge graphs), multi-vector/learned retrievers, agentic RAG (tool integration), and context compression; includes production considerations for latency/cost optimization and safety/grounding guarantees.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T03:44:37.956208+05:30
+- Published: 2026-07-21T14:16:29.295021+05:30
 
 ## Related Tags
 

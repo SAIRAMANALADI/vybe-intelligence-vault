@@ -4,14 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/affaan-m/agentshield
-collected_at: '2026-07-21T09:16:42.676086+05:30'
-published_at: '2026-07-20T18:42:40Z'
+collected_at: '2026-07-21T14:18:08.745235+05:30'
+published_at: '2026-07-21T05:09:10Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- scripts
 - typescript
-stars: 1000
+stars: 1001
 language: TypeScript
 status: active
 license: MIT
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-02-11T06:31:44Z'
 pushed_at: '2026-06-23T07:19:42Z'
 resource_id: github:affaan-m/agentshield
-first_seen: '2026-07-21T09:16:42.676086+05:30'
-last_seen: '2026-07-21T09:16:42.676086+05:30'
-last_checked: '2026-07-21T09:16:42.676086+05:30'
+first_seen: '2026-07-21T14:18:08.745235+05:30'
+last_seen: '2026-07-21T14:18:08.745235+05:30'
+last_checked: '2026-07-21T14:18:08.745235+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: AI agent security scanner designed to detect vulnerabilities in agent configurations, MCP servers, and tool permissions.
-- **Features**: Available as CLI, GitHub Action, ECC plugin, and GitHub App integration.
-- **Compatibility**: Supports TypeScript, with topics including AI agents, Anthropic, Claude Code, MCP, and security.
+- **Multi-format security scanner** for AI agents, supporting CLI, GitHub Actions, ECC plugin, and GitHub App integration to detect vulnerabilities in agent configurations, MCP servers, and tool permissions.
+
+- **TypeScript-based implementation** targeting Anthropic's Claude Code/Opus and MCP (Model Context Protocol) environments, optimized for security auditing in AI agent ecosystems.
+
+- **Actively maintained** (last updated July 2026) with 1K+ stars and 218 forks, focused on AI agent security hardening for hackathon and production deployments.
 
 ## Why It Matters
 
@@ -40,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: affaan-m
-- Stars: 1000
-- Forks: 217
+- Stars: 1001
+- Forks: 218
 - Language: TypeScript
 - Topics: ai-agent, anthropic, claude-code, hackathon, mcp, opus, security
-- Last Updated: 2026-07-20T18:42:40Z
+- Last Updated: 2026-07-21T05:09:10Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-11T06:31:44Z

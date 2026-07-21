@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://forms.gle/7GmvvjW6juLP6ith7
-published_at: '2026-07-21T03:48:58.276162+05:30'
-collected_at: '2026-07-21T03:48:58.276169+05:30'
+published_at: '2026-07-21T14:20:52.646172+05:30'
+collected_at: '2026-07-21T14:20:52.646188+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:feedback
-first_seen: '2026-07-21T03:48:58.276169+05:30'
-last_seen: '2026-07-21T03:48:58.276169+05:30'
-last_checked: '2026-07-21T03:48:58.276169+05:30'
+first_seen: '2026-07-21T14:20:52.646188+05:30'
+last_seen: '2026-07-21T14:20:52.646188+05:30'
+last_checked: '2026-07-21T14:20:52.646188+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,9 @@ health_score: 100
 
 ## Summary
 
-```markdown
-- **Form Submission**: Google Forms interface for submitting feedback, requiring email input and optional feedback text.
-- **Authentication**: Google sign-in integration for saving progress, with disclaimer that content is not created/endorsed by Google.
-- **Security Notice**: Explicit warning against submitting passwords via Google Forms, with abuse reporting and privacy policy links.
-```
+- **Form Submission**: Requires Google Account sign-in to save progress; fields marked with `*` are mandatory, including email.
+- **Security Notice**: Explicitly warns against submitting passwords via the form; content is not created or endorsed by Google.
+- **Reporting & Access**: Provides options to report abuse or suspicious forms; JavaScript must be enabled for form functionality.
 
 ## Why It Matters
 
@@ -34,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-21T03:48:58.276162+05:30
+- Published: 2026-07-21T14:20:52.646172+05:30
 
 ## Related Tags
 

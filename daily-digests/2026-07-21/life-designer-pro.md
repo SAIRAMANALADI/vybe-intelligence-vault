@@ -1,13 +1,24 @@
 ---
-title: "wei-wei-hu/life-designer-pro"
-category: "Agent Framework"
-tech_stack: ["Markdown", "YAML", "Python", "Claude Code", "OpenAI Codex", "Agentic AI"]
+title: wei-wei-hu/life-designer-pro
+category: daily-digests/2026-07-21
+tech_stack:
+- Markdown
+- YAML
+- Python
+- Claude Code
+- OpenAI Codex
+- Agentic AI
 quality_score: 9
 rag_relevance: 6
-tags: ["life design", "AI coaching", "personal growth", "structured planning", "iterative prototyping"]
-source: "https://github.com/wei-wei-hu/life-designer-pro"
-discovered_at: "2026-07-12T02:32:50Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- life design
+- AI coaching
+- personal growth
+- structured planning
+- iterative prototyping
+source: https://github.com/wei-wei-hu/life-designer-pro
+discovered_at: '2026-07-12T02:32:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-07-21T09:15:12.696377+05:30'
+collected_at: '2026-07-21T14:16:38.756151+05:30'
 published_at: '2026-07-20T15:07:29Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-07-21T09:15:12.696377+05:30'
-last_seen: '2026-07-21T09:15:12.696377+05:30'
-last_checked: '2026-07-21T09:15:12.696377+05:30'
+first_seen: '2026-07-21T14:16:38.756151+05:30'
+last_seen: '2026-07-21T14:16:38.756151+05:30'
+last_checked: '2026-07-21T14:16:38.756151+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples and tutorials for integrating vector search with LLMs (e.g., GPT-4-Vision, LangChain, LlamaIndex) for multimodal AI, retrieval-augmented generation (RAG), and agent-based workflows.
-- **Vector Database Integration**: Demonstrates practical use cases leveraging LanceDB as a vector database for efficient similarity search, embeddings storage, and retrieval in AI pipelines.
-- **Fine-Tuning & Optimization**: Includes resources for fine-tuning models, optimizing embeddings, and deploying multimodal systems with tools like OpenAI APIs and deep-learning frameworks.
+- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based tutorials for integrating vector search (LanceDB) with LLMs (e.g., GPT-4-Vision, LangChain, LlamaIndex) to build Retrieval-Augmented Generation (RAG) pipelines and multimodal AI systems.
+
+- **End-to-End Agent Frameworks**: Demonstrates agent-based workflows leveraging vector embeddings for dynamic task execution, fine-tuning, and multimodal data processing (text, vision).
+
+- **Open-Source Tooling Integration**: Focuses on practical implementations using open-source tools (e.g., OpenAI APIs, LanceDB for vector storage) with examples covering embeddings, fine-tuning, and deployment strategies for AI agents.
 
 ## Why It Matters
 

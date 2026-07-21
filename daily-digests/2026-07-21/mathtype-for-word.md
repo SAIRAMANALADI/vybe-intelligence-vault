@@ -1,13 +1,24 @@
 ---
-title: "felimet/mathtype-for-word"
-category: "Tooling"
-tech_stack: ["PowerShell 7", "Python", "Microsoft Office COM Automation", "MathType 7", "MCP (Model Context Protocol)", "AI Agent Integration (Codex, Claude, ChatGPT)"]
+title: felimet/mathtype-for-word
+category: daily-digests/2026-07-21
+tech_stack:
+- PowerShell 7
+- Python
+- Microsoft Office COM Automation
+- MathType 7
+- MCP (Model Context Protocol)
+- AI Agent Integration (Codex, Claude, ChatGPT)
 quality_score: 8
 rag_relevance: 7
-tags: ["MathType", "Microsoft Office Automation", "AI Agent Integration", "Equation Editing", "MCP Server"]
-source: "https://github.com/felimet/mathtype-for-word"
-discovered_at: "2026-07-20T15:10:57Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MathType
+- Microsoft Office Automation
+- AI Agent Integration
+- Equation Editing
+- MCP Server
+source: https://github.com/felimet/mathtype-for-word
+discovered_at: '2026-07-20T15:10:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

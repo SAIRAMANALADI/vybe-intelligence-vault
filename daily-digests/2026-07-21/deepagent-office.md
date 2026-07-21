@@ -1,13 +1,22 @@
 ---
-title: "deepagent-ltd/deepagent-office"
-category: "Tooling"
-tech_stack: ["Python", "Natural Language Processing (NLP)", "Office Automation (PowerPoint, Word, Excel)", "AGPL-3.0 License"]
+title: deepagent-ltd/deepagent-office
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Natural Language Processing (NLP)
+- Office Automation (PowerPoint, Word, Excel)
+- AGPL-3.0 License
 quality_score: 5
 rag_relevance: 6
-tags: ["office automation", "document generation", "conversational AI", "multi-format support", "open-source"]
-source: "https://github.com/deepagent-ltd/deepagent-office"
-discovered_at: "2026-07-12T15:58:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- office automation
+- document generation
+- conversational AI
+- multi-format support
+- open-source
+source: https://github.com/deepagent-ltd/deepagent-office
+discovered_at: '2026-07-12T15:58:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

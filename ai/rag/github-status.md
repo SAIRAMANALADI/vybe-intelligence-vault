@@ -3,9 +3,9 @@ title: GitHub Status
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://githubstatus.com
-published_at: '2026-07-21T09:23:28.113584+05:30'
-collected_at: '2026-07-21T09:23:28.113593+05:30'
+source_url: https://www.githubstatus.com
+published_at: '2026-07-21T14:27:12.825306+05:30'
+collected_at: '2026-07-21T14:27:12.825324+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-status
-first_seen: '2026-07-21T09:23:28.113593+05:30'
-last_seen: '2026-07-21T09:23:28.113593+05:30'
-last_checked: '2026-07-21T09:23:28.113593+05:30'
+first_seen: '2026-07-21T14:27:12.825324+05:30'
+last_seen: '2026-07-21T14:27:12.825324+05:30'
+last_checked: '2026-07-21T14:27:12.825324+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Status Page** provides real-time operational metrics and incident tracking for GitHub services, including uptime percentages (e.g., 99.99% for Git Operations) and historical performance data via [githubstatus.com](https://githubstatus.com).
+- **GitHub Status Page** provides real-time operational status, incident reports, and historical uptime metrics (e.g., 99.99% for Git Operations over 90 days) for core services (Actions, API, Copilot, etc.) via [githubstatus.com](https://www.githubstatus.com).
 
-- **Incident Resolution Workflow**: GitHub documents resolved incidents (e.g., [GitHub Actions outage](https://githubstatus.com/incidents/8vfyvq16hzh9)) with root cause analyses, timelines, and mitigation steps, ensuring transparency in service recovery.
+- **Incident Management** includes automated notifications (email, SMS, Slack, webhooks) for incident creation/updates/resolution, with root cause analyses (e.g., upstream provider errors for GPT 5.3 Codex) and mitigation steps documented.
 
-- **Multi-Channel Notifications**: Users can subscribe to incident updates via email, SMS (global phone codes supported), Slack, or webhooks, with compliance to privacy policies (e.g., reCAPTCHA, Atlassian/GitHub terms).
+- **Regional Status Endpoints** (au.githubstatus.com, eu.githubstatus.com, jp.githubstatus.com, us.githubstatus.com) and historical data feeds (Atom/RSS) enable cross-region monitoring and programmatic access to GitHub Enterprise Cloud status.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T09:23:28.113584+05:30
+- Published: 2026-07-21T14:27:12.825306+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://githubstatus.com
+Original source: https://www.githubstatus.com

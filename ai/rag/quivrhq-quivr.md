@@ -4,18 +4,18 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-07-21T09:16:17.734671+05:30'
-published_at: '2026-07-20T22:09:54Z'
+collected_at: '2026-07-21T14:17:43.768249+05:30'
+published_at: '2026-07-21T08:34:23Z'
 tags:
 - frontend_ui
 - github-repo
-- hackernews
 - meta-ai
 - models
 - openai
 - python
 - rag
-stars: 39229
+- workflows
+stars: 39230
 language: Python
 status: active
 license: NOASSERTION
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-07-21T09:16:17.734671+05:30'
-last_seen: '2026-07-21T09:16:17.734671+05:30'
-last_checked: '2026-07-21T09:16:17.734671+05:30'
+first_seen: '2026-07-21T14:17:43.768249+05:30'
+last_seen: '2026-07-21T14:17:43.768249+05:30'
+last_checked: '2026-07-21T14:17:43.768249+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization for product-specific needs without deep RAG expertise.
+- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework enabling seamless GenAI integration into applications, abstracting RAG complexities for developers to focus on product development.
 
-- **Multi-Backend Compatibility**: Supports any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), enabling flexible deployment across diverse infrastructures while accommodating various file types and integration methods.
+- **Multi-Backend Compatibility**: Supports any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), with customizable file ingestion and API-driven workflows for flexible deployment.
 
-- **Full-Stack Toolkit**: Provides a Python-based backend with Docker support, a React/TypeScript frontend, and APIs for secure, privacy-focused chatbot applications, leveraging modern web technologies (HTML, JavaScript) for extensibility.
+- **Tech Stack & Deployment**: Built in Python with React/TypeScript frontend, Dockerized for scalability, and supports PostgreSQL, security, and privacy features for enterprise-grade GenAI applications.
 
 ## Why It Matters
 
@@ -46,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: QuivrHQ
-- Stars: 39229
-- Forks: 3717
+- Stars: 39230
+- Forks: 3718
 - Language: Python
 - Topics: ai, api, chatbot, chatgpt, database, docker, framework, frontend, groq, html, javascript, llm, openai, postgresql, privacy, rag, react, security, typescript, vector
-- Last Updated: 2026-07-20T22:09:54Z
+- Last Updated: 2026-07-21T08:34:23Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-05-12T23:53:30Z

@@ -4,12 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-21T09:16:37.681184+05:30'
+collected_at: '2026-07-21T14:18:03.751473+05:30'
 published_at: '2026-07-13T12:27:27Z'
 tags:
-- benchmark
 - github-repo
-- hackernews
 - python
 - rag
 stars: 342
@@ -20,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-21T09:16:37.681184+05:30'
-last_seen: '2026-07-21T09:16:37.681184+05:30'
-last_checked: '2026-07-21T09:16:37.681184+05:30'
+first_seen: '2026-07-21T14:18:03.751473+05:30'
+last_seen: '2026-07-21T14:18:03.751473+05:30'
+last_checked: '2026-07-21T14:18:03.751473+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture Integration**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies (e.g., episodic, semantic, and procedural memory layers).
+- **Cognitive Memory Organization**: Introduces a novel Retrieval-Augmented Generation (RAG) framework (`ComoRAG`) that mimics human-like memory structures for **stateful long narrative reasoning**, enabling dynamic context retention and retrieval.
 
-- **Stateful Reasoning Mechanism**: Implements dynamic memory retrieval and update policies to maintain contextual coherence across extended dialogues or narratives, leveraging attention mechanisms and memory consolidation techniques.
+- **AAAI 2026 Poster**: Presented as a cutting-edge contribution to the AAAI 2026 conference, emphasizing **memory-driven reasoning** over traditional RAG methods for improved coherence in extended dialogues or narratives.
 
-- **Performance Benchmarks**: Demonstrates superior accuracy and efficiency in long-form reasoning tasks (e.g., multi-turn QA, storytelling) compared to traditional RAG systems, with ablation studies validating the cognitive memory organization's impact.
+- **Python Implementation**: Open-source codebase (`ComoRAG`) in Python, designed for modularity and integration with LLM pipelines, with recent updates (July 2026) refining memory organization and retrieval mechanisms.
 
 ## Why It Matters
 

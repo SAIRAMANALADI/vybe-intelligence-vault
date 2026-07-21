@@ -1,13 +1,25 @@
 ---
-title: "rabiuhamza11/maganu-agent"
-category: "Agent Framework"
-tech_stack: ["Node.js", "Express.js", "Claude AI (Anthropic)", "Twilio API", "JavaScript", "REST API", "Cron Scheduler"]
+title: rabiuhamza11/maganu-agent
+category: daily-digests/2026-07-21
+tech_stack:
+- Node.js
+- Express.js
+- Claude AI (Anthropic)
+- Twilio API
+- JavaScript
+- REST API
+- Cron Scheduler
 quality_score: 8
 rag_relevance: 7
-tags: ["AI agent", "WhatsApp integration", "Claude AI", "automation", "REST API"]
-source: "https://github.com/rabiuhamza11/maganu-agent"
-discovered_at: "2026-07-12T02:32:46Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent
+- WhatsApp integration
+- Claude AI
+- automation
+- REST API
+source: https://github.com/rabiuhamza11/maganu-agent
+discovered_at: '2026-07-12T02:32:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

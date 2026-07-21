@@ -1,13 +1,25 @@
 ---
-title: "cgallic/wpguard-mcp"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "WP-CLI", "WordPress", "SSH", "REST API", "Docker"]
+title: cgallic/wpguard-mcp
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- FastMCP
+- WP-CLI
+- WordPress
+- SSH
+- REST API
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["WordPress automation", "MCP server", "guarded execution", "AI safety", "dry-run previews"]
-source: "https://github.com/cgallic/wpguard-mcp"
-discovered_at: "2026-07-20T22:59:34Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- WordPress automation
+- MCP server
+- guarded execution
+- AI safety
+- dry-run previews
+source: https://github.com/cgallic/wpguard-mcp
+discovered_at: '2026-07-20T22:59:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

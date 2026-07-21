@@ -4,18 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://www.youtube.com/playlist?list=PLfaIDFEXuae3UwB1QGEjsRAr8BzCQss7s
-published_at: '2026-07-17T14:10:13.905206+05:30'
-collected_at: '2026-07-17T14:10:13.905218+05:30'
+published_at: '2026-07-21T14:27:29.472121+05:30'
+collected_at: '2026-07-21T14:27:29.472136+05:30'
 tags:
 - agents
-- scripts
 - web-crawled
 - youtube
 status: active
 resource_id: blog:max-agency-a-podcast-on-building-agents-youtube
-first_seen: '2026-07-17T14:10:13.905218+05:30'
-last_seen: '2026-07-17T14:10:13.905218+05:30'
-last_checked: '2026-07-17T14:10:13.905218+05:30'
+first_seen: '2026-07-21T14:27:29.472136+05:30'
+last_seen: '2026-07-21T14:27:29.472136+05:30'
+last_checked: '2026-07-21T14:27:29.472136+05:30'
 health_score: 100
 ---
 
@@ -23,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, enabling users to upload, share, and view videos with monetization options for creators via ads and subscriptions.
+- YouTube provides a centralized platform for creators, developers, and advertisers with dedicated resources such as [YouTube Creators](https://www.youtube.com/creators/), [Google Developers](https://developers.google.com/youtube), and [YouTube Ads](https://www.youtube.com/ads/) for content monetization, API integration, and ad campaigns respectively.
 
-- **Developer & API Access**: Provides [YouTube Data API](https://developers.google.com/youtube) for programmatic access to video metadata, uploads, and analytics, supporting third-party integrations and automation.
+- YouTube enforces strict [copyright](https://www.youtube.com/about/copyright/), [policy & safety](https://www.youtube.com/about/policies/), and [privacy](https://www.youtube.com/t/privacy) guidelines, alongside [terms of service](https://www.youtube.com/t/terms) to regulate user-generated content and platform usage.
 
-- **Policy & Compliance**: Enforces [Terms of Service](https://www.youtube.com/t/terms), [Privacy Policy](https://www.youtube.com/t/privacy), and [Content Policies](https://www.youtube.com/about/policies/) to regulate copyright, safety, and community standards.
+- The [How YouTube Works](https://www.youtube.com/howyoutubeworks) resource outlines core infrastructure, recommendation algorithms, and monetization mechanics, while [Test New Features](https://www.youtube.com/new) allows users to preview upcoming functionalities.
 
 ## Why It Matters
 
@@ -37,12 +36,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-17T14:10:13.905206+05:30
+- Published: 2026-07-21T14:27:29.472121+05:30
 
 ## Related Tags
 
 - agents
-- scripts
 - web-crawled
 - youtube
 

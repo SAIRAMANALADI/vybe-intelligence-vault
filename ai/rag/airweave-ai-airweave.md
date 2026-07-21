@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/airweave-ai/airweave
-collected_at: '2026-07-21T09:17:17.786371+05:30'
+collected_at: '2026-07-21T14:18:38.862361+05:30'
 published_at: '2026-07-21T02:27:22Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-12-24T10:00:06Z'
 pushed_at: '2026-06-05T09:52:19Z'
 resource_id: github:airweave-ai/airweave
-first_seen: '2026-07-21T09:17:17.786371+05:30'
-last_seen: '2026-07-21T09:17:17.786371+05:30'
-last_checked: '2026-07-21T09:17:17.786371+05:30'
+first_seen: '2026-07-21T14:18:38.862361+05:30'
+last_seen: '2026-07-21T14:18:38.862361+05:30'
+last_checked: '2026-07-21T14:18:38.862361+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source context retrieval layer designed to enhance AI agents by providing structured, real-time data access from enterprise sources (e.g., databases, APIs) for RAG workflows.
-- **Key Features**: Supports semantic search, vector embeddings, and dynamic data connectors (SQL, NoSQL, REST APIs) with a Python-based SDK for seamless integration into LLM pipelines.
-- **Architecture**: Implements a modular, API-driven retrieval system with enterprise-grade scalability, enabling low-latency context augmentation for AI agents.
+- **Open-source context retrieval layer**: Provides a Python-based SDK for AI agents to fetch and integrate contextual data from enterprise sources via semantic search and retrieval-augmented generation (RAG).
+- **Enterprise data connectors**: Supports integration with structured/unstructured data sources (APIs, databases, documents) for real-time context augmentation in agent workflows.
+- **Search & retrieval API**: Offers a scalable, low-latency search API with semantic indexing to enhance LLM responses with up-to-date, relevant context.
 
 ## Why It Matters
 

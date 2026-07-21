@@ -1,13 +1,33 @@
 ---
-title: "inquisoai/inquiso"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "React", "WXT (Web Extension Toolkit)", "Vite", "AI SDK", "DashScope (Qwen models)", "OpenAI API", "Anthropic API", "Google AI API", "Manifest V3", "Content Security Policy (CSP)", "OAuth (PKCE)", "i18n", "a11y", "pnpm"]
+title: inquisoai/inquiso
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- React
+- WXT (Web Extension Toolkit)
+- Vite
+- AI SDK
+- DashScope (Qwen models)
+- OpenAI API
+- Anthropic API
+- Google AI API
+- Manifest V3
+- Content Security Policy (CSP)
+- OAuth (PKCE)
+- i18n
+- a11y
+- pnpm
 quality_score: 9
 rag_relevance: 8
-tags: ["browser extension", "agent automation", "local-first AI", "memory agent", "bring-your-own-model"]
-source: "https://github.com/inquisoai/inquiso"
-discovered_at: "2026-07-20T10:00:01Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser extension
+- agent automation
+- local-first AI
+- memory agent
+- bring-your-own-model
+source: https://github.com/inquisoai/inquiso
+discovered_at: '2026-07-20T10:00:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

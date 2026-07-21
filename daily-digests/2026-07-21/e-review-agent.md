@@ -1,13 +1,30 @@
 ---
-title: "dafenqirunrunrun/e-review-agent"
-category: "Orchestrator"
-tech_stack: ["Java", "Spring Boot", "Vue 2", "Element UI", "Vant", "FastAPI", "Python", "MySQL", "Maven", "MyBatis", "Pydantic", "pytest"]
+title: dafenqirunrunrun/e-review-agent
+category: daily-digests/2026-07-21
+tech_stack:
+- Java
+- Spring Boot
+- Vue 2
+- Element UI
+- Vant
+- FastAPI
+- Python
+- MySQL
+- Maven
+- MyBatis
+- Pydantic
+- pytest
 quality_score: 8
 rag_relevance: 7
-tags: ["review governance", "AI analysis", "risk workflow", "e-commerce", "auditable operations"]
-source: "https://github.com/dafenqirunrunrun/e-review-agent"
-discovered_at: "2026-07-18T19:02:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- review governance
+- AI analysis
+- risk workflow
+- e-commerce
+- auditable operations
+source: https://github.com/dafenqirunrunrun/e-review-agent
+discovered_at: '2026-07-18T19:02:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

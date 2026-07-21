@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/workflow-builder-template
-collected_at: '2026-07-21T03:46:37.603062+05:30'
-published_at: '2026-07-20T15:29:37Z'
+collected_at: '2026-07-21T14:18:28.814148+05:30'
+published_at: '2026-07-21T01:07:36Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - scripts
 - typescript
 - workflows
-stars: 1169
+stars: 1170
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-11-03T17:14:16Z'
 pushed_at: '2026-01-13T08:27:13Z'
 resource_id: github:vercel-labs/workflow-builder-template
-first_seen: '2026-07-21T03:46:37.603062+05:30'
-last_seen: '2026-07-21T03:46:37.603062+05:30'
-last_checked: '2026-07-21T03:46:37.603062+05:30'
+first_seen: '2026-07-21T14:18:28.814148+05:30'
+last_seen: '2026-07-21T14:18:28.814148+05:30'
+last_checked: '2026-07-21T14:18:28.814148+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Visual AI Workflow Automation**: Open-source template enabling drag-and-drop creation of AI-driven workflows with TypeScript-based agent orchestration.
+- **Visual AI Workflow Automation**: Open-source template for building AI-driven workflow automation platforms with a visual interface, leveraging TypeScript for frontend/backend integration.
 
-- **Vercel Integration**: Optimized for Vercel deployments, leveraging serverless functions and edge runtime for scalable AI agent execution.
+- **Agent-Based Architecture**: Supports modular AI agent orchestration, enabling dynamic task execution and multi-step workflow composition via declarative configurations.
 
-- **Modular Architecture**: Pre-built components for common AI tasks (e.g., LLM inference, API calls) with extensible agent templates and state management.
+- **Vercel-Optimized Deployment**: Pre-configured for Vercel deployments with TypeScript support, CI/CD pipelines, and scalability for high-performance AI workflow automation.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel-labs
-- Stars: 1169
+- Stars: 1170
 - Forks: 228
 - Language: TypeScript
 - Topics: agents, ai, workflows
-- Last Updated: 2026-07-20T15:29:37Z
+- Last Updated: 2026-07-21T01:07:36Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-11-03T17:14:16Z

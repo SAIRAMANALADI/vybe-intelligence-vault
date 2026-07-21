@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-07-21T09:15:52.630083+05:30'
+collected_at: '2026-07-21T14:17:18.760962+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - java
 - rag
 - workflows
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-07-21T09:15:52.630083+05:30'
-last_seen: '2026-07-21T09:15:52.630083+05:30'
-last_checked: '2026-07-21T09:15:52.630083+05:30'
+first_seen: '2026-07-21T14:17:18.760962+05:30'
+last_seen: '2026-07-21T14:17:18.760962+05:30'
+last_checked: '2026-07-21T14:17:18.760962+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: Java-based implementation of AI Q&A system integrating SSE streaming, Agent-based workflows, RAG with knowledge graphs, Function Calling, historical message management, and multimodal capabilities (image generation/understanding).
+- **Architecture**: Implements a Spring-based AI Q&A system with **Server-Sent Events (SSE)**, **Agent-based workflows**, **Knowledge Graph RAG**, **Function Calling**, **message history**, **image generation/understanding**, and **Embedding/Vector Database** integration for retrieval-augmented generation.
 
-- **Core Components**: Embedding generation, vector database integration (RAG), and advanced retrieval pipelines with support for structured knowledge graph queries and dynamic agent interactions.
+- **Technologies**: Leverages **Java/Spring AI**, **Alibaba Cloud AI services**, and **vector databases** (e.g., Milvus/Weaviate) for semantic search, with **RAG pipelines** for dynamic knowledge retrieval and response generation.
 
-- **Features**: Real-time data streaming via SSE, multimodal processing (text/images), and function call mechanisms for extended AI agent functionality.
+- **Features**: Supports **multi-modal processing** (text/images), **persistent conversation context**, and **custom function calls**, optimized for real-time AI agent interactions and structured knowledge extraction.
 
 ## Why It Matters
 

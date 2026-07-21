@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-07-21T09:15:47.621841+05:30'
+collected_at: '2026-07-21T14:17:13.711194+05:30'
 published_at: '2026-07-17T22:50:34Z'
 tags:
 - benchmark
 - github-repo
+- models
 - python
 - rag
 stars: 265
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-07-21T09:15:47.621841+05:30'
-last_seen: '2026-07-21T09:15:47.621841+05:30'
-last_checked: '2026-07-21T09:15:47.621841+05:30'
+first_seen: '2026-07-21T14:17:13.711194+05:30'
+last_seen: '2026-07-21T14:17:13.711194+05:30'
+last_checked: '2026-07-21T14:17:13.711194+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Provides a production-ready Vietnamese Retrieval-Augmented Generation (RAG) backend with optimized pipelines for Vietnamese text processing, including embedding and retrieval components.
+- **Vietnamese RAG Implementation**: Demonstrates best practices for Vietnamese language Retrieval-Augmented Generation (RAG) using Python, focusing on efficient document retrieval and context-aware generation.
 
-- **Modular Architecture**: Implements a scalable microservice-based design with FastAPI for serving embeddings, retrieval, and generation, supporting integration with Vietnamese-specific NLP models (e.g., PhoBERT, viT5).
+- **Modular Architecture**: Features a structured backend with components for embedding generation (e.g., `sentence-transformers`), vector storage (e.g., `FAISS` or `ChromaDB`), and retrieval pipelines optimized for Vietnamese text.
 
-- **Benchmarking & Optimization**: Includes evaluation scripts for Vietnamese RAG tasks, with pre-configured metrics (e.g., retrieval precision, generation coherence) and optimizations for low-resource Vietnamese language scenarios.
+- **Evaluation & Optimization**: Includes benchmarking tools for Vietnamese RAG performance, with scripts for fine-tuning embeddings, query reformulation, and latency/accuracy trade-off analysis.
 
 ## Why It Matters
 

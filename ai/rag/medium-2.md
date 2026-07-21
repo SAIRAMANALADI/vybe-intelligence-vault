@@ -3,20 +3,18 @@ title: Medium
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://policy.medium.com/medium-privacy-policy-f03bf92035c9
-published_at: '2026-07-21T09:20:30.201254+05:30'
-collected_at: '2026-07-21T09:20:30.201262+05:30'
+source_url: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f
+published_at: '2026-07-21T14:25:55.897805+05:30'
+collected_at: '2026-07-21T14:25:55.897822+05:30'
 tags:
 - agents
-- hackernews
 - rag
 - web-crawled
-- youtube
 status: active
 resource_id: blog:medium
-first_seen: '2026-07-21T09:20:30.201262+05:30'
-last_seen: '2026-07-21T09:20:30.201262+05:30'
-last_checked: '2026-07-21T09:20:30.201262+05:30'
+first_seen: '2026-07-21T14:25:55.897822+05:30'
+last_seen: '2026-07-21T14:25:55.897822+05:30'
+last_checked: '2026-07-21T14:25:55.897822+05:30'
 health_score: 100
 ---
 
@@ -24,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection & Sources**: Medium collects personal data directly (e.g., account creation, content submission) and automatically (e.g., device identifiers, IP addresses, reading history) via cookies, web beacons, and third-party integrations (e.g., social logins, analytics providers). Payment data is processed via third-party processors.
+- **License Grant**: Users retain ownership of submitted content but grant Medium a **non-exclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all Services, including derivative works (e.g., previews, curated lists) with attribution, limited to Medium’s platform.
 
-- **Data Processing & Sharing**: Information is used for service improvement, personalization, and legal compliance. Shared with vendors (e.g., hosting, analytics), affiliates, and under legal obligations (e.g., law enforcement requests). Third-party embeds (e.g., YouTube) transmit user interaction data to external hosts.
+- **Dispute Resolution**: Mandatory **binding arbitration** under JAMS Rules replaces litigation, waiving class actions/representative claims; disputes are resolved individually in San Francisco (or user’s county if a consumer), governed by the **Federal Arbitration Act (9 U.S.C. § 1 et seq.)**.
 
-- **User Control & Transfers**: Users can access, correct, or delete account data. Cookie preferences and communication opt-outs are configurable. Data is transferred/stored globally (e.g., AWS data centers), with safeguards for cross-border compliance.
+- **Liability & Indemnification**: Medium disclaims warranties (e.g., accuracy, fitness) and caps liability at **$50 USD or fees paid** (except for gross negligence/fraud); users **indemnify Medium** for claims arising from their content/violations of laws/IP rights.
 
 ## Why It Matters
 
@@ -38,16 +36,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T09:20:30.201254+05:30
+- Published: 2026-07-21T14:25:55.897805+05:30
 
 ## Related Tags
 
 - agents
-- hackernews
 - rag
 - web-crawled
-- youtube
 
 ## Source
 
-Original source: https://policy.medium.com/medium-privacy-policy-f03bf92035c9
+Original source: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f

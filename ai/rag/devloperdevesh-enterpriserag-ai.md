@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-07-21T09:16:22.662252+05:30'
+collected_at: '2026-07-21T14:17:48.758248+05:30'
 published_at: '2026-07-20T14:43:45Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-19T13:56:19Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-07-21T09:16:22.662252+05:30'
-last_seen: '2026-07-21T09:16:22.662252+05:30'
-last_checked: '2026-07-21T09:16:22.662252+05:30'
+first_seen: '2026-07-21T14:17:48.758248+05:30'
+last_seen: '2026-07-21T14:17:48.758248+05:30'
+last_checked: '2026-07-21T14:17:48.758248+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native eBPF (Extended Berkeley Packet Filter) for low-overhead runtime monitoring, enforcement, and policy compliance.
-
-- **Enterprise-Grade RAG Architecture**: Combines FastAPI backend with TypeScript for a scalable Retrieval-Augmented Generation (RAG) system, integrating vector databases for efficient semantic search and GenAI workloads.
-
-- **SaaS-AI Governance Features**: Provides enterprise-grade security, auditability, and multi-tenant isolation for AI agent deployments, optimized for cloud-native and on-premises environments.
+- **Linux-Native & eBPF Integration**: Leverages eBPF for low-overhead runtime security monitoring and governance in AI agent workloads, ensuring kernel-level visibility and enforcement.
+- **Enterprise-Grade RAG Pipeline**: Implements a FastAPI-backed Retrieval-Augmented Generation (RAG) system with TypeScript for backend operations, optimized for SaaS-scale AI deployments.
+- **Vector Database & GenAI Focus**: Integrates a vector database for efficient semantic search and LLM interactions, targeting governance, security, and performance in production environments.
 
 ## Why It Matters
 

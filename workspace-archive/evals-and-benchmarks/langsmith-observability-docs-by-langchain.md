@@ -6,7 +6,7 @@ source_url: https://docs.langchain.com/langsmith/home
 resource_id: blog:langsmith-observability-docs-by-langchain
 local_vault_path: ai/rag/langsmith-observability-docs-by-langchain.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -29,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -37,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **LangSmith Observability** provides end-to-end visibility into LLM applications, enabling trace-level debugging, performance monitoring, and production-wide metrics across frameworks like OpenAI, Anthropic, and CrewAI.
-
-- **Core features** include automated failure detection via **Engine**, customizable dashboards, alerting, and feedback collection through inline annotations or queues.
-
-- **Deployment options** span cloud, hybrid, or self-hosted setups, with tracing enabled via environment va
+- **LangSmith Observability** provides end-to-end visibility into LLM applications, enabling trace-level debugging, production performance monitoring, and automated failure detection via LangSmith Engine.
+- Supports integrations with frameworks/providers (e.g., OpenAI, Anthropic, CrewAI) and offers cloud/hybrid/self-hosted deployment options with observability, evaluation, and prompt engineering features.
+- Key workflows include: tracing setup via SDK/API keys, RAG application instrumentation, p
 
 ## Use Cases
 

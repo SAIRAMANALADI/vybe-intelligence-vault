@@ -1,13 +1,27 @@
 ---
-title: "paulasilvatech/specky"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "GitHub Copilot", "Claude Code", "Cursor", "OpenCode", "YAML", "Markdown"]
+title: paulasilvatech/specky
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- GitHub Copilot
+- Claude Code
+- Cursor
+- OpenCode
+- YAML
+- Markdown
 quality_score: 9
 rag_relevance: 8
-tags: ["spec-driven development", "agentic AI", "MCP tools", "deterministic pipeline", "AI IDE integration"]
-source: "https://github.com/paulasilvatech/specky"
-discovered_at: "2026-07-14T16:13:58Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- spec-driven development
+- agentic AI
+- MCP tools
+- deterministic pipeline
+- AI IDE integration
+source: https://github.com/paulasilvatech/specky
+discovered_at: '2026-07-14T16:13:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

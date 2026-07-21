@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.resemble.ai/resources/top-open-source-github-repositories-for-creating-your-own-rag
-published_at: '2026-07-21T09:19:24.184006+05:30'
-collected_at: '2026-07-21T09:19:24.184015+05:30'
+published_at: '2026-07-21T14:20:54.611385+05:30'
+collected_at: '2026-07-21T14:20:54.611401+05:30'
 tags:
 - agents
 - benchmark
@@ -20,9 +20,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:top-open-source-github-repositories-for-creating-y
-first_seen: '2026-07-21T09:19:24.184015+05:30'
-last_seen: '2026-07-21T09:19:24.184015+05:30'
-last_checked: '2026-07-21T09:19:24.184015+05:30'
+first_seen: '2026-07-21T14:20:54.611401+05:30'
+last_seen: '2026-07-21T14:20:54.611401+05:30'
+last_checked: '2026-07-21T14:20:54.611401+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Resemble AI** provides a suite of **multimodal deepfake detection and verification tools**, including **Resemble Detect** for real-time deepfake monitoring in calls, **Resemble Watermarker** for media authentication, and **Resemble Identity** for biometric verification.
+- **Resemble AI** provides multimodal deepfake detection and protection tools, including **Resemble Detect** for real-time deepfake monitoring in calls, **Resemble Identity** for biometric verification, and **Resemble Watermarker** for embedding forensic watermarks in media.
 
-- **Open-source RAG frameworks** highlighted include **Cognita** (Truefoundry) for modular RAG deployment, **Verba** (Weaviate) for document-based Q&A with HuggingFace integration, and **LlamaIndex** for structured data indexing and retrieval pipelines.
+- **Top open-source RAG repositories** highlighted include **Cognita** (Truefoundry) for modular RAG deployment, **Verba** (Weaviate) for user-friendly RAG applications with HuggingFace integration, and **LlamaIndex** for structured data indexing and retrieval pipelines.
 
-- **Key selection criteria for RAG repositories** involve **popularity (stars/forks), active maintenance (commits/issues), feature completeness (chunking/embedding), license compatibility, scalability (vector DB support), and code quality (tests/documentation)**.
+- **Selection criteria** for RAG repositories emphasize **popularity metrics** (stars, forks), **feature completeness** (chunking, embedding, LLM integration), **license compliance**, **scalability**, and **code quality** (documentation, testing, dependencies).
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T09:19:24.184006+05:30
+- Published: 2026-07-21T14:20:54.611385+05:30
 
 ## Related Tags
 

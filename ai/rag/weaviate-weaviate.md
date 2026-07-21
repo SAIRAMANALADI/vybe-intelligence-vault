@@ -1,71 +1,55 @@
 ---
-title: weaviate/weaviate
+title: Releases · weaviate/weaviate · GitHub
 category: ai/rag
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/weaviate/weaviate
-collected_at: '2026-07-21T09:22:27.831978+05:30'
-published_at: '2026-07-20T22:21:09Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/weaviate/weaviate/releases/
+published_at: '2026-07-21T14:27:27.504363+05:30'
+collected_at: '2026-07-21T14:27:27.504382+05:30'
 tags:
-- github-repo
-- go
+- frontend_ui
 - hackernews
 - rag
-stars: 16625
-language: Go
+- reddit
+- web-crawled
+- youtube
 status: active
-license: BSD-3-Clause
-archived: false
-created_at: '2016-03-30T15:03:17Z'
-pushed_at: '2026-07-20T21:36:03Z'
 resource_id: github:weaviate/weaviate
-first_seen: '2026-07-21T09:22:27.831978+05:30'
-last_seen: '2026-07-21T09:22:27.831978+05:30'
-last_checked: '2026-07-21T09:22:27.831978+05:30'
+first_seen: '2026-07-21T14:27:27.504382+05:30'
+last_seen: '2026-07-21T14:27:27.504382+05:30'
+last_checked: '2026-07-21T14:27:27.504382+05:30'
 health_score: 100
 ---
 
-# weaviate/weaviate
+# Releases · weaviate/weaviate · GitHub
 
 ## Summary
 
-- **Hybrid Vector & Structured Data Storage**: Weaviate is an open-source, cloud-native vector database written in Go that natively stores both objects (structured data) and their corresponding high-dimensional vectors, enabling seamless integration of vector similarity search with traditional filtering (e.g., boolean, numeric, or geo-spatial queries).
+- **LSM Store Optimizations**: v1.38.6 introduces inverted compaction improvements, reusable decode buffers, and arena-append primitives in `lsmkv` for enhanced performance and reduced memory overhead.
 
-- **Scalable Approximate Nearest Neighbor (ANN) Search**: Implements **HNSW** (Hierarchical Navigable Small World) indexing for efficient approximate nearest neighbor search, supporting **gRPC** for low-latency, high-throughput vector operations, and optimized for **hybrid search** (combining semantic + keyword-based retrieval).
+- **RAFT & Cluster Stability Fixes**: Addresses ABBA deadlocks in replication, RAFT FSM wedging, and cluster communication issues, including self-healing node joins and retry logic for cluster formation.
 
-- **MLOps & Generative Search Integration**: Supports **semantic search**, **recommender systems**, and **generative search** (e.g., RAG pipelines) with built-in modules for **image search**, **neural search**, and **hybrid retrieval**, while ensuring fault tolerance and scalability via cloud-native architecture.
+- **Hybrid Search & BM25 Enhancements**: Implements Hybrid Diversity & MMR for hybrid search, along with BM25 correctness fixes and search endpoint optimizations (e.g., `POST /v1/search/{collection}/near-text`).
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: weaviate
-- Stars: 16625
-- Forks: 1353
-- Language: Go
-- Topics: approximate-nearest-neighbor-search, generative-search, grpc, hnsw, hybrid-search, image-search, information-retrieval, mlops, nearest-neighbor-search, neural-search, recommender-system, search-engine, semantic-search, semantic-search-engine, similarity-search, vector-database, vector-search, vector-search-engine, vectors, weaviate
-- Last Updated: 2026-07-20T22:21:09Z
-- License: BSD-3-Clause
-- Archived: No
-- Created At: 2016-03-30T15:03:17Z
-- Pushed At: 2026-07-20T21:36:03Z
+- Source: Web Discovery
+- Category: ai/rag
+- Published: 2026-07-21T14:27:27.504363+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- frontend_ui
+- hackernews
+- rag
+- reddit
+- web-crawled
+- youtube
 
 ## Source
 
-Original source: https://github.com/weaviate/weaviate
+Original source: https://github.com/weaviate/weaviate/releases/

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-07-21T09:18:17.751683+05:30'
-published_at: '2026-07-19T16:45:01Z'
+collected_at: '2026-07-21T14:19:43.832384+05:30'
+published_at: '2026-07-21T03:55:57Z'
 tags:
 - agents
 - github-repo
@@ -13,16 +13,16 @@ tags:
 - scripts
 - shell
 - workflows
-stars: 542
+stars: 541
 language: Shell
 status: active
 archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-07-17T20:06:51Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-07-21T09:18:17.751683+05:30'
-last_seen: '2026-07-21T09:18:17.751683+05:30'
-last_checked: '2026-07-21T09:18:17.751683+05:30'
+first_seen: '2026-07-21T14:19:43.832384+05:30'
+last_seen: '2026-07-21T14:19:43.832384+05:30'
+last_checked: '2026-07-21T14:19:43.832384+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent implemented entirely in `n8n`, leveraging adaptive RAG-powered memory, MCP templates for Skills, and Expert Agents with delegated sub-agents for hierarchical task execution.
-- **Capabilities**: Supports proactive task management, media understanding, and self-hosted deployment via a single setup script; integrates with `Crawl4AI` for scraping and `SearXNG` for search engine functionality.
-- **Infrastructure**: Built with `Supabase` for backend storage, utilizes `Model Context Protocol (MCP)` for skill templates, and is optimized for modular AI agent frameworks with shell-based automation.
+- **Architecture**: OpenClaw-inspired autonomous AI agent framework built entirely in n8n, leveraging adaptive RAG-powered memory, MCP templates for Skills, and Expert Agents with delegated sub-agents for proactive task management.
+
+- **Capabilities**: Integrates media understanding, self-hosted deployment via a single setup script, and supports crawling/scraping via `crawl4ai` and `searxng-engine` for search functionality.
+
+- **Tech Stack**: Primarily Shell-based, with dependencies on Supabase for storage, Model Context Protocol (MCP) for skills, and n8n for orchestration; categorized under AI agent frameworks and tools like `crawl4ai-scraper`.
 
 ## Why It Matters
 
@@ -41,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: freddy-schuetz
-- Stars: 542
+- Stars: 541
 - Forks: 103
 - Language: Shell
 - Topics: agent, ai, ai-agent, ai-agent-framework, ai-agents, ai-agents-framework, crawl4ai, crawl4ai-scraper, framework, mcp, modelcontextprotocol, n8n, openclaw, searxng, searxng-engine, skills, supabase
-- Last Updated: 2026-07-19T16:45:01Z
+- Last Updated: 2026-07-21T03:55:57Z
 - Archived: No
 - Created At: 2026-02-28T18:13:35Z
 - Pushed At: 2026-07-17T20:06:51Z

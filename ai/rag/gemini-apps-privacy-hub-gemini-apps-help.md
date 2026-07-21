@@ -3,9 +3,9 @@ title: Gemini Apps Privacy Hub - Gemini Apps Help
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://support.google.com/gemini/answer/13594961?hl=en_US#privacy_notice
-published_at: '2026-07-21T09:26:07.959057+05:30'
-collected_at: '2026-07-21T09:26:07.959066+05:30'
+source_url: https://support.google.com/gemini/answer/13594961#privacy_notice
+published_at: '2026-07-21T14:23:19.035923+05:30'
+collected_at: '2026-07-21T14:23:19.035940+05:30'
 tags:
 - agents
 - deepmind
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:gemini-apps-privacy-hub-gemini-apps-help
-first_seen: '2026-07-21T09:26:07.959066+05:30'
-last_seen: '2026-07-21T09:26:07.959066+05:30'
-last_checked: '2026-07-21T09:26:07.959066+05:30'
+first_seen: '2026-07-21T14:23:19.035940+05:30'
+last_seen: '2026-07-21T14:23:19.035940+05:30'
+last_checked: '2026-07-21T14:23:19.035940+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: Collects user-provided inputs (prompts, files, transcripts) and system-generated outputs (text, code, images, model reasoning steps), alongside device/browser metadata (permissions, interaction logs, location data), and third-party app data via Connected Apps (e.g., Google Assistant, Chrome, smart home devices).
+- **Data Collection Scope**: Collects explicit user inputs (prompts, files, audio/video transcripts, feedback) and passive metadata (device identifiers, browser/OS settings, interaction logs, location data, subscription info) to power Gemini’s generative AI models and service improvements.
 
-- **Processing Purposes**: Data is used for service provisioning, performance optimization, personalization, and model improvement, including human review (for quality control) and integration with Google services (e.g., Search, YouTube history) for contextual grounding.
+- **Cross-Service Integration**: Leverages other Google services (e.g., Search, YouTube, Assistant) and third-party Connected Apps for contextual responses, with data processed under respective policies; user data may be imported/exported between services for personalization.
 
-- **Retention & Control**: Temporary chats (with "Keep Activity" off) are retained briefly; users can export/delete data, toggle audio/video improvement settings, and manage Connected Apps permissions. EU/UK users retain opt-out rights for processing under GDPR/UK GDPR.
+- **Human Review & Retention**: Human reviewers (including contractors) may access interactions for quality control; data retention varies by activity type (e.g., temporary chats retained for 7 days if "Keep Activity" is off, extended for model training unless opted out).
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T09:26:07.959057+05:30
+- Published: 2026-07-21T14:23:19.035923+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://support.google.com/gemini/answer/13594961?hl=en_US#privacy_notice
+Original source: https://support.google.com/gemini/answer/13594961#privacy_notice

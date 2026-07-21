@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Android Bench 2026 Update**: Introduces an updated LLM benchmarking methodology for Android development, including new models and community contributions; leaderboard available at [developer.android.com/bench](https://developer.android.com/bench).
-- **Android 17 & XR Platform**: Android 17 (API 37) source code released on AOSP with Pixel rollout; Android XR expands engine support and resources for immersive app development.
-- **Android Studio Quail 2026.1.2**: Latest SDK release governed by
+- **Android Bench 2026 Update**: Introduces an updated LLM benchmarking methodology for Android development, featuring new models and community contributions; leaderboard accessible at [developer.android.com/bench](https://developer.android.com/bench).
+
+- **Android 17 & XR Platform**: Android 17 source code released on AOSP with Pixel rollout; Android XR expands engine support and resources for immersive app development.
+
+- **Android Studio Quail 2026.1.2**: Latest SDK release with updated licen
 
 ## Use Cases
 

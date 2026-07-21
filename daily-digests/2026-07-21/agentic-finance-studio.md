@@ -1,13 +1,25 @@
 ---
-title: "agenticfinance-dev/agentic-finance-studio"
-category: "Tooling"
-tech_stack: ["Python", "Asyncio", "python-telegram-bot", "SoSoValue API", "CoinGecko API", "Binance API", "JustRunMy.app"]
+title: agenticfinance-dev/agentic-finance-studio
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Asyncio
+- python-telegram-bot
+- SoSoValue API
+- CoinGecko API
+- Binance API
+- JustRunMy.app
 quality_score: 8
 rag_relevance: 7
-tags: ["crypto trading", "institutional sentiment", "Telegram bot", "risk management", "technical analysis"]
-source: "https://github.com/agenticfinance-dev/agentic-finance-studio"
-discovered_at: "2026-07-15T10:48:33Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- crypto trading
+- institutional sentiment
+- Telegram bot
+- risk management
+- technical analysis
+source: https://github.com/agenticfinance-dev/agentic-finance-studio
+discovered_at: '2026-07-15T10:48:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

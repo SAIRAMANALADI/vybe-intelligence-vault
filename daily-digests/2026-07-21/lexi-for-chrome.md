@@ -1,13 +1,24 @@
 ---
-title: "lexi-sg/lexi-for-chrome"
-category: "Tooling"
-tech_stack: ["JavaScript (ES Modules)", "Chrome Extensions API", "Chrome DevTools Protocol (CDP)", "HTML/CSS", "Vanilla ES Modules (no bundler)", "Playwright (for e2e testing)"]
+title: lexi-sg/lexi-for-chrome
+category: daily-digests/2026-07-21
+tech_stack:
+- JavaScript (ES Modules)
+- Chrome Extensions API
+- Chrome DevTools Protocol (CDP)
+- HTML/CSS
+- Vanilla ES Modules (no bundler)
+- Playwright (for e2e testing)
 quality_score: 8
 rag_relevance: 7
-tags: ["Chrome extension", "Legal AI assistant", "Document analysis", "Agent mode", "Side panel integration"]
-source: "https://github.com/lexi-sg/lexi-for-chrome"
-discovered_at: "2026-07-18T07:47:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Chrome extension
+- Legal AI assistant
+- Document analysis
+- Agent mode
+- Side panel integration
+source: https://github.com/lexi-sg/lexi-for-chrome
+discovered_at: '2026-07-18T07:47:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

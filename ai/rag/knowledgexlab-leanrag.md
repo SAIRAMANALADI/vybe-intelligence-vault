@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-07-21T09:16:37.737366+05:30'
+collected_at: '2026-07-21T14:18:03.778431+05:30'
 published_at: '2026-07-19T04:58:04Z'
 tags:
 - benchmark
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-07-21T09:16:37.737366+05:30'
-last_seen: '2026-07-21T09:16:37.737366+05:30'
-last_checked: '2026-07-21T09:16:37.737366+05:30'
+first_seen: '2026-07-21T14:18:03.778431+05:30'
+last_seen: '2026-07-21T14:18:03.778431+05:30'
+last_checked: '2026-07-21T14:18:03.778431+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., entity → subgraph → full graph) and semantic aggregation to enhance context relevance and reduce noise.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework (LeanRAG) that leverages semantic aggregation and multi-level retrieval (hierarchical graph traversal) to enhance contextual relevance in generation tasks.
 
-- **Efficiency Optimizations**: Leverages lightweight graph traversal (e.g., pruning, caching) and modular retrieval pipelines to minimize computational overhead while maintaining high retrieval accuracy.
+- **Efficiency Optimizations**: Designed for low-latency, high-precision retrieval by pruning irrelevant subgraphs and dynamically weighting edges based on semantic similarity, reducing computational overhead in AAAI 2026 benchmark evaluations.
 
-- **AAAI 2026 Benchmarking**: Evaluates performance on knowledge-intensive tasks (e.g., QA, reasoning) with reported gains in precision/recall over traditional dense retrieval methods.
+- **Python Implementation**: Open-source framework (MIT License) with modular components for graph construction, retrieval, and generation, supporting integration with LLMs via optimized APIs and dependency-light dependencies (e.g., PyTorch, DGL).
 
 ## Why It Matters
 

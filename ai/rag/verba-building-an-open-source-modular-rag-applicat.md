@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://weaviate.io/blog/verba-open-source-rag-app
-published_at: '2026-07-21T09:21:16.967285+05:30'
-collected_at: '2026-07-21T09:21:16.967293+05:30'
+published_at: '2026-07-21T14:22:11.143336+05:30'
+collected_at: '2026-07-21T14:22:11.143351+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:verba-building-an-open-source-modular-rag-applicat
-first_seen: '2026-07-21T09:21:16.967293+05:30'
-last_seen: '2026-07-21T09:21:16.967293+05:30'
-last_checked: '2026-07-21T09:21:16.967293+05:30'
+first_seen: '2026-07-21T14:22:11.143351+05:30'
+last_seen: '2026-07-21T14:22:11.143351+05:30'
+last_checked: '2026-07-21T14:22:11.143351+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Pipeline**: Verba implements a modular architecture with five key components—`ReaderManager` (data ingestion), `ChunkerManager` (document splitting), `EmbeddingManager` (vectorization via Weaviate), `RetrieveManager` (context retrieval), and `GenerationManager` (LLM-based answer synthesis)—each customizable for different use cases.
+- **Modular RAG Pipeline Architecture**: Verba decomposes RAG into five modular components—`ReaderManager` (data ingestion), `ChunkerManager` (document splitting), `EmbeddingManager` (vectorization via Weaviate), `RetrieveManager` (context retrieval), and `GenerationManager` (LLM-based response synthesis)—each customizable and independently replaceable.
 
-- **Source-Aware UI**: The application provides transparent source attribution by highlighting retrieved text chunks and linking them to original documents, enabling users to verify answer credibility and trace responses to specific data segments.
+- **Unified Data Ingestion & Chunking**: Supports heterogeneous data formats (PDFs, text, Excel) via extensible `Reader` components and employs overlapping chunking strategies to optimize token efficiency and retrieval precision, reducing LLM context overload.
 
-- **CRUD Data Management**: Verba includes a web interface for document ingestion, deletion, and status monitoring, supporting full lifecycle data control (Create, Read, Update, Delete) while maintaining sensible defaults for non-technical users.
+- **Transparent Source Attribution & CRUD UI**: Implements in-UI source chunk highlighting, document-level provenance tracking, and full CRUD operations (upload/delete/modify) with status monitoring, ensuring verifiable, up-to-date responses and user control over data.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T09:21:16.967285+05:30
+- Published: 2026-07-21T14:22:11.143336+05:30
 
 ## Related Tags
 

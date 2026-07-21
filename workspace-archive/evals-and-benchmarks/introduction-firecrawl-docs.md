@@ -8,7 +8,7 @@ local_vault_path: ai/rag/introduction-firecrawl-docs.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -26,24 +26,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Core Functionality**:
-  - **Scrape**: Extracts webpage content in markdown or JSON format.
-  - **Crawl**: Recursively crawls entire websites, extracting content and metadata.
-  - **Map**: Generates a complete URL list of a target website.
+- **Core Capabilities**: Provides web scraping (markdown/JSON), crawling (full-site extraction), mapping (URL listing), and search (web-wide content retrieval) with structured data extraction via natural language prompts.
 
-- **Agentic Capabilities**:
-  - **Extract**: Uses NLP to extract structured data from webpages.
-  - **Search**: Enables web-wide searches with full-page content retrieval.
-  - **Base URL**: All API requests use `https://api.firecrawl.dev`.
+- **Authentication & Base URL**: Requires `Authorization: Bearer fc-<API_KEY>` header; all requests use base URL `https://api.firecrawl.dev`.
 
-- **Error Handl
+- **Error Handling**: Uses HTTP status codes (2xx success, 4xx client errors, 5xx server errors) with specific error codes (e.g., `SCR
 
 ## Use Cases
 

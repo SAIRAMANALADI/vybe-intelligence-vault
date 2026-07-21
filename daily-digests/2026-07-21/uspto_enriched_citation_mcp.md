@@ -1,13 +1,25 @@
 ---
-title: "john-walkoe/uspto_enriched_citation_mcp"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "USPTO API", "Lucene Query Syntax", "YAML", "Windows DPAPI", "uv (Python package manager)"]
+title: john-walkoe/uspto_enriched_citation_mcp
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- FastMCP
+- USPTO API
+- Lucene Query Syntax
+- YAML
+- Windows DPAPI
+- uv (Python package manager)
 quality_score: 9
 rag_relevance: 8
-tags: ["USPTO", "patent citations", "MCP server", "AI-extracted data", "token optimization"]
-source: "https://github.com/john-walkoe/uspto_enriched_citation_mcp"
-discovered_at: "2026-07-19T05:51:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- USPTO
+- patent citations
+- MCP server
+- AI-extracted data
+- token optimization
+source: https://github.com/john-walkoe/uspto_enriched_citation_mcp
+discovered_at: '2026-07-19T05:51:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

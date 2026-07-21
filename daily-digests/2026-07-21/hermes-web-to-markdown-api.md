@@ -1,13 +1,24 @@
 ---
-title: "MirzaAliAkbar/hermes-web-to-markdown-api"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "uvicorn", "trafilatura", "Ethereum (ERC-20 USDT)", "Cloudflare Tunnel"]
+title: MirzaAliAkbar/hermes-web-to-markdown-api
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- FastAPI
+- uvicorn
+- trafilatura
+- Ethereum (ERC-20 USDT)
+- Cloudflare Tunnel
 quality_score: 7
 rag_relevance: 8
-tags: ["web scraping", "markdown conversion", "API", "self-hosted", "blockchain payments"]
-source: "https://github.com/MirzaAliAkbar/hermes-web-to-markdown-api"
-discovered_at: "2026-07-20T12:22:06Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web scraping
+- markdown conversion
+- API
+- self-hosted
+- blockchain payments
+source: https://github.com/MirzaAliAkbar/hermes-web-to-markdown-api
+discovered_at: '2026-07-20T12:22:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

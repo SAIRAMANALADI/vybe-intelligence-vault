@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://changelog.langchain.com/
-published_at: '2026-07-21T03:49:25.414839+05:30'
-collected_at: '2026-07-21T03:49:25.414856+05:30'
+published_at: '2026-07-21T14:21:23.641207+05:30'
+collected_at: '2026-07-21T14:21:23.641227+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langsmith-cloud-changelog-docs-by-langchain
-first_seen: '2026-07-21T03:49:25.414856+05:30'
-last_seen: '2026-07-21T03:49:25.414856+05:30'
-last_checked: '2026-07-21T03:49:25.414856+05:30'
+first_seen: '2026-07-21T14:21:23.641227+05:30'
+last_seen: '2026-07-21T14:21:23.641227+05:30'
+last_checked: '2026-07-21T14:21:23.641227+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Experiments & Evaluators**: Enhanced experiment comparison views with real-time dataset split chips, improved evaluator configurations (e.g., PEP 604 union types, thread evaluator previews), and reliable run tree expansion for repetition runs; added `langsmith evaluator create-llm` for structured LLM-as-judge evaluators and enforced evaluator caps per workspace to prevent resource growth.
+- **Enhanced Experiment & Dataset Management**: Improved layout and interaction for model/prompt/tool chips in Experiments table, reliable run tree expansion for repetition runs, and new `langsmith evaluator create-llm` CLI command for structured LLM-as-judge evaluator creation. Added reorderable "Splits (latest)" column in experiment comparison views and interactive split chips for dynamic reassignment.
 
-- **Tracing & Performance**: Implemented monthly trace limits per project/user, improved batch ingestion logging (run_verb list format), enforced duplicate run conflict clarity (409 responses), and optimized large dataset exports with zstandard compression; added OpenTelemetry resource attribute support and fixed nested span buffering for out-of-order arrivals.
+- **Tracing & Evaluation Improvements**: Enforced monthly trace limits per project/user, added OpenTelemetry resource attribute support (`otel.resource.*`), and improved error handling for duplicate run payloads (409 Conflict with detailed messages). Native OpenTelemetry child spans are now buffered and correctly nested, and Vercel AI SDK traces render properly in Messages view.
 
-- **UI/UX & API Enhancements**: Added interactive split chips in experiment tables, improved evaluator spend chart readability, enabled bulk annotation queue additions (RUN/THREAD items), and fixed public dataset share resolution for SmithDB-only deployments; deprecated legacy dataset comparison helpers in favor of `POST /v2/datasets//experiment-runs` and added SSO/OAuth session cookie support for self-hosted experiment views.
+- **Performance & Security Optimizations**: Capped reusable evaluators per workspace to prevent resource exhaustion, enforced new `download datasets` permission, and improved bulk export compression (default: zstd). Added ABAC-based access-control messages for denied trace loads and fixed metadata rendering for non-primitive values in run details.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T03:49:25.414839+05:30
+- Published: 2026-07-21T14:21:23.641207+05:30
 
 ## Related Tags
 

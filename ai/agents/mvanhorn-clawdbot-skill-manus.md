@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mvanhorn/clawdbot-skill-manus
-collected_at: '2026-07-21T03:47:52.653728+05:30'
+collected_at: '2026-07-21T14:19:43.836423+05:30'
 published_at: '2026-07-18T16:50:27Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-22T01:48:25Z'
 pushed_at: '2026-03-16T05:09:31Z'
 resource_id: github:mvanhorn/clawdbot-skill-manus
-first_seen: '2026-07-21T03:47:52.653728+05:30'
-last_seen: '2026-07-21T03:47:52.653728+05:30'
-last_checked: '2026-07-21T03:47:52.653728+05:30'
+first_seen: '2026-07-21T14:19:43.836423+05:30'
+last_seen: '2026-07-21T14:19:43.836423+05:30'
+last_checked: '2026-07-21T14:19:43.836423+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **OpenClaw Skill for Manus AI**: Enables delegation of complex tasks (web research, report generation, code building, data scraping) via task templates, monitoring, and cost tracking.
-- **Shell-Based Implementation**: Repository written in Shell, integrating with Manus AI for autonomous task execution and OpenClaw framework.
-- **Automation & Monitoring**: Supports AI-agent workflows, web browsing, and data scraping with built-in cost tracking and last updated on 2026-07-18.
+- **Task Delegation Framework**: Provides an OpenClaw-compatible skill (`clawdbot-skill-manus`) to delegate complex tasks (web research, report generation, code building, data scraping) to Manus AI via task templates and structured monitoring.
+
+- **Autonomous Execution & Tracking**: Implements cost tracking, progress monitoring, and autonomous task execution using Shell scripts, enabling seamless integration with Manus AI's capabilities (web browsing, automation).
+
+- **OpenClaw Integration**: Designed as a modular skill for ClawHub, supporting AI-agent workflows with predefined templates for research, scraping, and report generation while maintaining compatibility with Manus AI's API.
 
 ## Why It Matters
 

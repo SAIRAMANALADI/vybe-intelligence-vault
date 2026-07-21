@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Ais1on/CTI-RAG
-collected_at: '2026-07-21T09:16:22.666415+05:30'
+collected_at: '2026-07-21T14:17:48.728399+05:30'
 published_at: '2026-07-14T15:19:03Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
-- workflows
 stars: 299
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-04-11T14:46:53Z'
 pushed_at: '2026-05-12T07:19:10Z'
 resource_id: github:ais1on/cti-rag
-first_seen: '2026-07-21T09:16:22.666415+05:30'
-last_seen: '2026-07-21T09:16:22.666415+05:30'
-last_checked: '2026-07-21T09:16:22.666415+05:30'
+first_seen: '2026-07-21T14:17:48.728399+05:30'
+last_seen: '2026-07-21T14:17:48.728399+05:30'
+last_checked: '2026-07-21T14:17:48.728399+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework**: CTI-RAG integrates **Retrieval-Augmented Generation (RAG)** with **knowledge graph** and **causal reasoning** for Cyber Threat Intelligence (CTI) analysis.
-- **Core Features**: Enables security analysts to query structured CTI data with **semantic retrieval** and **context-aware reasoning** for threat detection.
-- **Implementation**: Python-based framework with **graph-based knowledge representation** and **LLM augmentation** for enhanced threat intelligence workflows.
+- **Framework Integration**: CTI-RAG combines Retrieval-Augmented Generation (RAG) with knowledge graph and causal reasoning for Cyber Threat Intelligence (CTI) analysis.
+
+- **Python-Based Architecture**: The tool is implemented in Python, leveraging modern NLP and graph-based techniques for threat intelligence processing.
+
+- **Enhanced Analyst Tool**: Provides security analysts with an intelligent system for threat intelligence analysis, improving decision-making through contextual reasoning.
 
 ## Why It Matters
 

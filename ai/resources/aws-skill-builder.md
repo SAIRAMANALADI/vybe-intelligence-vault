@@ -3,16 +3,17 @@ title: AWS Skill Builder
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://skillbuilder.aws
-published_at: '2026-07-21T01:37:24.480337+05:30'
-collected_at: '2026-07-21T01:37:24.480355+05:30'
+source_url: https://skillbuilder.aws/
+published_at: '2026-07-21T14:22:30.444403+05:30'
+collected_at: '2026-07-21T14:22:30.444417+05:30'
 tags:
+- hackernews
 - web-crawled
 status: active
 resource_id: blog:aws-skill-builder
-first_seen: '2026-07-21T01:37:24.480355+05:30'
-last_seen: '2026-07-21T01:37:24.480355+05:30'
-last_checked: '2026-07-21T01:37:24.480355+05:30'
+first_seen: '2026-07-21T14:22:30.444417+05:30'
+last_seen: '2026-07-21T14:22:30.444417+05:30'
+last_checked: '2026-07-21T14:22:30.444417+05:30'
 health_score: 100
 ---
 
@@ -20,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **JavaScript Dependency**: The application mandates JavaScript execution for full functionality.
-- **Browser Configuration**: Users must enable JavaScript in browser settings to proceed.
-- **Critical Requirement**: Without JavaScript, the application will not operate as intended.
+- **JavaScript Dependency**: Application functionality is contingent upon JavaScript being enabled in the browser.
+- **Browser Configuration**: Users must modify browser settings to allow JavaScript execution for proper operation.
+- **Technical Limitation**: Core application features are inaccessible without JavaScript support.
 
 ## Why It Matters
 
@@ -32,12 +33,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-21T01:37:24.480337+05:30
+- Published: 2026-07-21T14:22:30.444403+05:30
 
 ## Related Tags
 
+- hackernews
 - web-crawled
 
 ## Source
 
-Original source: https://skillbuilder.aws
+Original source: https://skillbuilder.aws/

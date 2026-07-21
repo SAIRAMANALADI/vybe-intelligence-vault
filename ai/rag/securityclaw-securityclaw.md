@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-07-21T09:16:17.701008+05:30'
+collected_at: '2026-07-21T14:17:43.778341+05:30'
 published_at: '2026-07-20T15:03:06Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-07-20T15:01:31Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-07-21T09:16:17.701008+05:30'
-last_seen: '2026-07-21T09:16:17.701008+05:30'
-last_checked: '2026-07-21T09:16:17.701008+05:30'
+first_seen: '2026-07-21T14:17:43.778341+05:30'
+last_seen: '2026-07-21T14:17:43.778341+05:30'
+last_checked: '2026-07-21T14:17:43.778341+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous agent for Security Operations Centers (SOCs), integrating OpenSearch/Elasticsearch data monitoring with Retrieval-Augmented Generation (RAG) for behavioral memory and real-time anomaly validation using LLMs.
+- **Modular SOC Agent**: Python-based autonomous agent with skill-based architecture for real-time monitoring of OpenSearch/Elasticsearch logs, integrating threat detection and hunting capabilities.
 
-- **Skill-Based Architecture**: Implements modular, skill-based components for threat detection, hunting, and SOC automation, leveraging LLM-driven reasoning to enhance anomaly validation and contextual decision-making.
+- **RAG-Enhanced Behavioral Memory**: Uses Retrieval-Augmented Generation (RAG) to build contextual memory from historical security data, enabling LLM-driven anomaly validation and adaptive threat analysis.
 
-- **RAG-Enhanced Memory**: Builds dynamic, RAG-based behavioral memory from monitored data streams, enabling contextual threat analysis and adaptive response generation for autonomous SOC operations.
+- **LLM-Powered Anomaly Validation**: Leverages large language models (LLMs) to cross-validate detected anomalies in real-time, improving detection accuracy and reducing false positives in SOC operations.
 
 ## Why It Matters
 

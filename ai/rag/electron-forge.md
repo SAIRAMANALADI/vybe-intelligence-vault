@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/electron/forge
-collected_at: '2026-07-20T15:14:29.936110+05:30'
-published_at: '2026-07-18T12:48:13Z'
+collected_at: '2026-07-21T14:24:25.184967+05:30'
+published_at: '2026-07-20T19:52:58Z'
 tags:
 - github-repo
-- hackernews
 - rag
 - typescript
 - workflows
@@ -18,11 +17,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2016-10-05T14:51:53Z'
-pushed_at: '2026-07-16T16:01:09Z'
+pushed_at: '2026-07-21T01:27:36Z'
 resource_id: github:electron/forge
-first_seen: '2026-07-20T15:14:29.936110+05:30'
-last_seen: '2026-07-20T15:14:29.936110+05:30'
-last_checked: '2026-07-20T15:14:29.936110+05:30'
+first_seen: '2026-07-21T14:24:25.184967+05:30'
+last_seen: '2026-07-21T14:24:25.184967+05:30'
+last_checked: '2026-07-21T14:24:25.184967+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Electron Forge is a comprehensive toolkit for building, packaging, and publishing Electron applications, supporting cross-platform development (Windows, macos, Linux).
-- **Key Features**: Integrates TypeScript, Webpack, and JavaScript; automates build/publish workflows; includes templates and plugin system for extensibility.
-- **Technical Stack**: Primarily TypeScript-based, leveraging Node.js for cross-platform Electron application packaging and distribution.
+- **Purpose**: Electron Forge is a comprehensive toolkit for Electron application development, enabling build, packaging, and publishing workflows across Windows, macOS, and Linux.
+- **Key Features**: Supports TypeScript, Webpack integration, and cross-platform packaging with built-in publishing capabilities (e.g., to GitHub Releases or npm).
+- **Architecture**: Written in TypeScript, leverages modular plugins for extensibility (e.g., custom loaders, bundlers, and platform-specific optimizations).
 
 ## Why It Matters
 
@@ -45,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 627
 - Language: TypeScript
 - Topics: build, electron, hacktoberfest, javascript, linux, macos, package, typescript, webpack, windows
-- Last Updated: 2026-07-18T12:48:13Z
+- Last Updated: 2026-07-20T19:52:58Z
 - License: MIT
 - Archived: No
 - Created At: 2016-10-05T14:51:53Z
-- Pushed At: 2026-07-16T16:01:09Z
+- Pushed At: 2026-07-21T01:27:36Z
 
 ## Possible Use Cases
 

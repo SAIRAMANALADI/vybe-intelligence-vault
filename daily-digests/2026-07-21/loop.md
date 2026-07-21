@@ -1,13 +1,29 @@
 ---
-title: "radutopala/loop"
-category: "Orchestrator"
-tech_stack: ["Go", "Electron", "Docker", "SQLite", "Ollama", "Claude Code", "Slack API", "Discord API", "MCP (Model Context Protocol)", "seccomp", "CDP (Chrome DevTools Protocol)"]
+title: radutopala/loop
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- Electron
+- Docker
+- SQLite
+- Ollama
+- Claude Code
+- Slack API
+- Discord API
+- MCP (Model Context Protocol)
+- seccomp
+- CDP (Chrome DevTools Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agents", "workflow automation", "multi-platform", "containerized", "MCP integration"]
-source: "https://github.com/radutopala/loop"
-discovered_at: "2026-07-13T16:31:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agents
+- workflow automation
+- multi-platform
+- containerized
+- MCP integration
+source: https://github.com/radutopala/loop
+discovered_at: '2026-07-13T16:31:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

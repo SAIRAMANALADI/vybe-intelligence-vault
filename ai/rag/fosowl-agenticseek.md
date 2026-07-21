@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Fosowl/agenticSeek
-collected_at: '2026-07-21T09:16:47.702439+05:30'
-published_at: '2026-07-21T02:58:04Z'
+collected_at: '2026-07-21T14:18:13.777864+05:30'
+published_at: '2026-07-21T07:31:40Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 26647
+stars: 26653
 language: Python
 status: active
 license: GPL-3.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-02-19T18:03:06Z'
 pushed_at: '2026-07-12T11:50:42Z'
 resource_id: github:fosowl/agenticseek
-first_seen: '2026-07-21T09:16:47.702439+05:30'
-last_seen: '2026-07-21T09:16:47.702439+05:30'
-last_checked: '2026-07-21T09:16:47.702439+05:30'
+first_seen: '2026-07-21T14:18:13.777864+05:30'
+last_seen: '2026-07-21T14:18:13.777864+05:30'
+last_checked: '2026-07-21T14:18:13.777864+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Local-first autonomous agent**: Implements a fully local, API-free autonomous AI agent (agenticSeek) using Python, leveraging DeepSeek-R1 for reasoning, browsing, and coding tasks with minimal hardware requirements (solely electricity cost).
+- **Local-first autonomous agent framework** leveraging Python for fully offline operation, eliminating API dependencies and cloud costs while relying solely on local compute (electricity cost only).
 
-- **Cost-efficient architecture**: Eliminates cloud/API dependencies and associated expenses (e.g., $200/month bills) by running entirely offline, targeting resource-constrained environments while maintaining LLM-agent capabilities.
+- **Multi-modal capabilities** integrating deepseek-r1 LLM for reasoning, web browsing, code execution, and voice assistant functionality within a single autonomous agent architecture.
 
-- **Successor project**: Superseded by **3Toks** (https://github.com/Fosowl/3toks), an optimized successor with enhanced performance, also fully local and API-free.
+- **Successor project 3Toks** (https://github.com/Fosowl/3toks) extends functionality while maintaining the same local-first, zero-API philosophy for scalable autonomous AI agents.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Fosowl
-- Stars: 26647
-- Forks: 2987
+- Stars: 26653
+- Forks: 2986
 - Language: Python
 - Topics: agentic-ai, agents, ai, autonomous-agents, deepseek-r1, llm, llm-agents, voice-assistant
-- Last Updated: 2026-07-21T02:58:04Z
+- Last Updated: 2026-07-21T07:31:40Z
 - License: GPL-3.0
 - Archived: No
 - Created At: 2025-02-19T18:03:06Z

@@ -4,14 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-07-21T09:16:37.687405+05:30'
+collected_at: '2026-07-21T14:18:08.792178+05:30'
 published_at: '2026-07-18T13:05:31Z'
 tags:
 - agents
-- benchmark
 - github-repo
-- hackernews
-- paper
 - rag
 - unknown
 stars: 807
@@ -22,9 +19,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-07-12T03:40:45Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-07-21T09:16:37.687405+05:30'
-last_seen: '2026-07-21T09:16:37.687405+05:30'
-last_checked: '2026-07-21T09:16:37.687405+05:30'
+first_seen: '2026-07-21T14:18:08.792178+05:30'
+last_seen: '2026-07-21T14:18:08.792178+05:30'
+last_checked: '2026-07-21T14:18:08.792178+05:30'
 health_score: 100
 ---
 
@@ -32,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research, including papers, tools, and frameworks for autonomous reasoning agents (e.g., LLM-based systems with RAG and search capabilities).
-- **ACL 2026 KnowFM Focus**: Highlights contributions from the *Knowledge Foundation Models (KnowFM)* track at ACL 2026, emphasizing multi-agent collaboration, reasoning, and long-form knowledge synthesis.
-- **Technical Breadth**: Covers topics like *agentic RAG*, *deep research agents*, and *reasoning architectures*, with links to implementations, benchmarks, and evaluation methodologies for autonomous knowledge discovery.
+- **Curated resource list** for agentic deep research, focusing on advanced AI systems integrating reasoning, retrieval, and multi-agent collaboration for complex knowledge synthesis.
+
+- **Covers key topics**: agentic RAG, deep research agents, LLM reasoning frameworks, and search-agent architectures, with emphasis on ACL 2026 KnowFM contributions.
+
+- **Repository stats**: 807 stars, 64 forks, last updated July 18, 2026, serving as a dynamic hub for cutting-edge research in autonomous knowledge discovery.
 
 ## Why It Matters
 

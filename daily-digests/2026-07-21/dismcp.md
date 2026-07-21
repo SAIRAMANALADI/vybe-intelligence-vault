@@ -1,13 +1,23 @@
 ---
-title: "semanavasco/dismcp"
-category: "Tooling"
-tech_stack: ["Rust", "Serenity", "rmcp", "Model Context Protocol (MCP)", "Discord API"]
+title: semanavasco/dismcp
+category: daily-digests/2026-07-21
+tech_stack:
+- Rust
+- Serenity
+- rmcp
+- Model Context Protocol (MCP)
+- Discord API
 quality_score: 8
 rag_relevance: 9
-tags: ["Discord", "MCP Server", "AI Integration", "Rust", "Bot Framework"]
-source: "https://github.com/semanavasco/dismcp"
-discovered_at: "2026-07-20T22:59:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Discord
+- MCP Server
+- AI Integration
+- Rust
+- Bot Framework
+source: https://github.com/semanavasco/dismcp
+discovered_at: '2026-07-20T22:59:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

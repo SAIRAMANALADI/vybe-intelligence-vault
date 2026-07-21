@@ -1,13 +1,25 @@
 ---
-title: "ieepirzy/miragen-mcp"
-category: "Orchestrator"
-tech_stack: ["Python", "Docker", "Model Context Protocol (MCP)", "FastAPI", "OAuth2", "YAML", "AST Parsing"]
+title: ieepirzy/miragen-mcp
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Docker
+- Model Context Protocol (MCP)
+- FastAPI
+- OAuth2
+- YAML
+- AST Parsing
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP server", "agent orchestration", "Docker management", "autonomous agents", "AI tooling"]
-source: "https://github.com/ieepirzy/miragen-mcp"
-discovered_at: "2026-07-19T02:30:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- agent orchestration
+- Docker management
+- autonomous agents
+- AI tooling
+source: https://github.com/ieepirzy/miragen-mcp
+discovered_at: '2026-07-19T02:30:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,23 @@
 ---
-title: "MissiaL/travel-search-ru"
-category: "Agent Framework"
-tech_stack: ["Python 3.8+", "MCP (Model Context Protocol)", "Streamable HTTP", "CLI", "JSON/SSE"]
+title: MissiaL/travel-search-ru
+category: daily-digests/2026-07-21
+tech_stack:
+- Python 3.8+
+- MCP (Model Context Protocol)
+- Streamable HTTP
+- CLI
+- JSON/SSE
 quality_score: 9
 rag_relevance: 8
-tags: ["travel search", "MCP server", "AI agent skill", "Russian travel data", "real-time booking"]
-source: "https://github.com/MissiaL/travel-search-ru"
-discovered_at: "2026-07-15T18:06:05Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- travel search
+- MCP server
+- AI agent skill
+- Russian travel data
+- real-time booking
+source: https://github.com/MissiaL/travel-search-ru
+discovered_at: '2026-07-15T18:06:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

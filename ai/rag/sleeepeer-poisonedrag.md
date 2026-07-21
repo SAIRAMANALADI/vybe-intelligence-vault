@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-07-21T09:16:17.651944+05:30'
+collected_at: '2026-07-21T14:17:43.711290+05:30'
 published_at: '2026-07-20T05:29:57Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
-- meta-ai
-- models
 - python
 - rag
 - reddit
@@ -23,9 +21,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-07-21T09:16:17.651944+05:30'
-last_seen: '2026-07-21T09:16:17.651944+05:30'
-last_checked: '2026-07-21T09:16:17.651944+05:30'
+first_seen: '2026-07-21T14:17:43.711290+05:30'
+last_seen: '2026-07-21T14:17:43.711290+05:30'
+last_checked: '2026-07-21T14:17:43.711290+05:30'
 health_score: 100
 ---
 
@@ -33,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Attack Methodology**: Introduces *PoisonedRAG*, a novel knowledge corruption attack targeting Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, causing LLMs to generate incorrect or harmful outputs while maintaining high semantic similarity to benign queries.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems, where adversaries manipulate retrieved documents to mislead LLM outputs without direct model access.
 
-- **Technical Implementation**: Leverages adversarial document poisoning via subtle perturbations (e.g., synonym substitution, paraphrasing) to evade detection while ensuring retrieved documents rank highly, exploiting RAG’s reliance on semantic similarity for retrieval.
+- **Technical Mechanism**: Exploits embedding-space perturbations and document retrieval poisoning to ensure malicious context is prioritized, leading to controlled hallucinations or misinformation in generated responses.
 
-- **Evaluation & Impact**: Demonstrates effectiveness on multiple LLMs (e.g., Llama2, Vicuna) and RAG frameworks (e.g., LangChain), showing up to **90% attack success rate** with minimal perturbation budgets, highlighting critical vulnerabilities in trustworthy AI pipelines.
+- **Evaluation & Impact**: Validated on multiple RAG pipelines (e.g., vector DBs, LLMs) with empirical results showing high attack success rates (~90% in some cases) while remaining stealthy against existing defenses.
 
 ## Why It Matters
 

@@ -1,13 +1,25 @@
 ---
-title: "ImYourBoyRoy/pyenv-native"
-category: "Tooling"
-tech_stack: ["Rust", "Python", "CLI", "GUI", "MCP (Model Context Protocol)", "Shell Scripting", "Cross-Platform"]
+title: ImYourBoyRoy/pyenv-native
+category: daily-digests/2026-07-21
+tech_stack:
+- Rust
+- Python
+- CLI
+- GUI
+- MCP (Model Context Protocol)
+- Shell Scripting
+- Cross-Platform
 quality_score: 8
 rag_relevance: 7
-tags: ["Python version manager", "cross-platform", "native Rust", "virtual environments", "AI agent integration"]
-source: "https://github.com/ImYourBoyRoy/pyenv-native"
-discovered_at: "2026-07-19T14:54:20Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Python version manager
+- cross-platform
+- native Rust
+- virtual environments
+- AI agent integration
+source: https://github.com/ImYourBoyRoy/pyenv-native
+discovered_at: '2026-07-19T14:54:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

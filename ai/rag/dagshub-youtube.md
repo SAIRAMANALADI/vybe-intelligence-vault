@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://youtube.com/c/dagshub
-published_at: '2026-07-19T14:11:15.141825+05:30'
-collected_at: '2026-07-19T14:11:15.141836+05:30'
+published_at: '2026-07-21T14:22:24.218667+05:30'
+collected_at: '2026-07-21T14:22:24.218686+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:dagshub-youtube
-first_seen: '2026-07-19T14:11:15.141836+05:30'
-last_seen: '2026-07-19T14:11:15.141836+05:30'
-last_checked: '2026-07-19T14:11:15.141836+05:30'
+first_seen: '2026-07-21T14:22:24.218686+05:30'
+last_seen: '2026-07-21T14:22:24.218686+05:30'
+last_checked: '2026-07-21T14:22:24.218686+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, streaming, monetization (via Ads/YouTube Premium), and creator tools (YouTube Creators).
+- **Platform Overview**: YouTube operates as a subsidiary of Google LLC, serving as a global video-sharing platform with integrated advertising, creator monetization, and developer APIs (e.g., YouTube Data API v3, YouTube Live Streaming API).
 
-- **Technical Infrastructure**: Leverages Google’s cloud infrastructure (via [Developers API](https://developers.google.com/youtube)) for scalable video processing, recommendation algorithms (How YouTube Works), and real-time analytics.
+- **Technical Infrastructure**: Utilizes a distributed microservices architecture for content delivery, leveraging Google’s infrastructure (e.g., CDN, Bigtable, Spanner) to handle petabytes of video data, real-time transcoding (VP9/HEVC), and adaptive bitrate streaming (DASH/HLS).
 
-- **Policy & Compliance**: Enforces [Terms of Service](https://youtube.com/t/terms), [Privacy Policy](https://youtube.com/t/privacy), and [Content Safety Policies](https://www.youtube.com/about/policies/) with automated detection systems and user reporting mechanisms.
+- **Policy & Compliance**: Enforces automated content moderation via machine learning (e.g., Content ID, deep neural networks) and human review teams, adhering to regional regulations (e.g., GDPR, DMCA) with granular privacy controls (e.g., COPPA compliance, ad personalization opt-outs).
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-19T14:11:15.141825+05:30
+- Published: 2026-07-21T14:22:24.218667+05:30
 
 ## Related Tags
 

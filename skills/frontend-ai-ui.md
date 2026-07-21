@@ -18,13 +18,13 @@ Generative UI (like Vercel AI SDK) enables applications to dynamically render Re
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 7 resources matched in the intelligence vault.
+Active signals: 8 resources matched in the intelligence vault.
 Recently detected signals:
+- [LangSmith Cloud changelog - Docs by LangChain](../ai/rag/langsmith-cloud-changelog-docs-by-langchain.md) (Source: Unknown Source) - Collected 2026-07-21
+- [rsrohan99/rag-stream-intermediate-events-tutorial](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md) (Source: Unknown Source) - Collected 2026-07-21
 - [supabase-community/vercel-ai-chatbot](../ai/rag/supabase-community-vercel-ai-chatbot.md) (Source: Unknown Source) - Collected 2026-07-21
 - [vercel/ai](../ai/agents/vercel-ai.md) (Source: Unknown Source) - Collected 2026-07-21
-- [rsrohan99/rag-stream-intermediate-events-tutorial](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md) (Source: Unknown Source) - Collected 2026-07-21
 - [Langfuse](../ai/rag/langfuse.md) (Source: Unknown Source) - Collected 2026-07-21
-- [run-llama/chat-ui](../ai/rag/run-llama-chat-ui.md) (Source: Unknown Source) - Collected 2026-07-14
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -33,7 +33,7 @@ Recently detected signals:
 ### 1. [rsrohan99/rag-stream-intermediate-events-tutorial](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md) ([GitHub](https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial))
 - Stars: 0
 - Language: Unknown
-- Description: - **Intermediate LlamaIndex Events Streaming**: Demonstrates how to stream intermediate events from LlamaIndex during RAG (Retrieval-Augmented Generation) to the Vercel AI SDK using Server-Sent Eve...
+- Description: - **Intermediate Events Streaming**: Demonstrates streaming intermediate LlamaIndex RAG events to Vercel AI SDK using Server-Sent Events (SSE) for real-time processing.
 
 ### 2. [supabase-community/vercel-ai-chatbot](../ai/rag/supabase-community-vercel-ai-chatbot.md) ([GitHub](https://github.com/supabase-community/vercel-ai-chatbot))
 - Stars: 0
@@ -75,4 +75,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-21T09:30:09.678895+05:30.922942+05:30.079827+05:30.073513+05:30.651708+05:30.795448+05:30.715620+05:30.170352+05:30.919673+05:30.152333+05:30.478048+05:30.871612+05:30.369557+05:30.865321+05:30.550584+05:30.021380+05:30.455576+05:30.248579+05:30.290487+05:30.199049+05:30.403348+05:30.278821+05:30.055026+05:30.118030+05:30.682305+05:30.589701+05:30.761107+05:30.971744+05:30.401296+05:30.259812+05:30.664660+05:30.823287+05:30.855501+05:30.718697+05:30.650990+05:30.662181+05:30.412687+05:30.559839+05:30.229074+05:30.357938+05:30.727915+05:30.069958+05:30.066077+05:30.414434+05:30.363515+05:30.877755+05:30.810615+05:30.949333+05:30.426358+05:30.439688+05:30.506295+05:30.846557+05:30.365788+05:30.674019+05:30.493055+05:30.842993+05:30.484872+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-21T14:31:37.143330+05:30.678895+05:30.922942+05:30.079827+05:30.073513+05:30.651708+05:30.795448+05:30.715620+05:30.170352+05:30.919673+05:30.152333+05:30.478048+05:30.871612+05:30.369557+05:30.865321+05:30.550584+05:30.021380+05:30.455576+05:30.248579+05:30.290487+05:30.199049+05:30.403348+05:30.278821+05:30.055026+05:30.118030+05:30.682305+05:30.589701+05:30.761107+05:30.971744+05:30.401296+05:30.259812+05:30.664660+05:30.823287+05:30.855501+05:30.718697+05:30.650990+05:30.662181+05:30.412687+05:30.559839+05:30.229074+05:30.357938+05:30.727915+05:30.069958+05:30.066077+05:30.414434+05:30.363515+05:30.877755+05:30.810615+05:30.949333+05:30.426358+05:30.439688+05:30.506295+05:30.846557+05:30.365788+05:30.674019+05:30.493055+05:30.842993+05:30.484872+05:30.
