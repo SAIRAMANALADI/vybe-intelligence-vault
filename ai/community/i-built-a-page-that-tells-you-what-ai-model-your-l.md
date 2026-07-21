@@ -14,13 +14,14 @@ tags:
 - ai
 - benchmark
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:i-built-a-page-that-tells-you-what-ai-model-your-l
 first_seen: '2026-07-22T01:21:24.623773+05:30'
 last_seen: '2026-07-22T01:21:24.623773+05:30'
 last_checked: '2026-07-22T01:21:24.623773+05:30'
 health_score: 100
 ---
+
 
 # I built a page that tells you what AI model your laptop can run
 

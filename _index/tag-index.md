@@ -2109,6 +2109,7 @@ Resources organized by keyword tags.
   - [Shift & Drift: A Zero-Shot Benchmark for Generalizable and Robust Autonomous Driving Motion Planning](../ai/rag/arxiv-2607-07844.md)
   - [ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](../ai/agents/arxiv-2606-31693.md)
   - [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](../ai/agents/arxiv-2605-22142.md)
+  - [Show HN: Browser Tools SDK – an optimal browser harness for agents](../ai/community/show-hn-browser-tools-sdk-an-optimal-browser-harne.md)
   - [Shutdownable Agents through POST-Agency](../ai/agents/arxiv-2505-20203.md)
   - [Siamese Neural Network for Label-Efficient Critical Phenomena Prediction in 3D Percolation Models](../ai/agents/arxiv-2507-14159.md)
   - [Signed Compression Progress on a Sealed Audit is Goodhart-Resistant](../ai/agents/arxiv-2606-11417.md)
@@ -2950,11 +2951,9 @@ Resources organized by keyword tags.
 ## ai
 
   - [AI Agent – TRMNL](../ai/community/ai-agent-trmnl.md)
-  - [AI makes programming differently difficult](../ai/community/ai-makes-programming-differently-difficult.md)
-  - [Firefox Containers Preview](../ai/community/firefox-containers-preview.md)
-  - [I built a page that tells you what AI model your laptop can run](../ai/community/i-built-a-page-that-tells-you-what-ai-model-your-l.md)
   - [Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](../ai/community/jack-dorsey-launches-buzz-to-combine-team-chat-ai.md)
   - [Meta's AI models are powering the first wave of Genesis Mission projects](../ai/community/meta-s-ai-models-are-powering-the-first-wave-of-ge.md)
+  - [OpenAI and Hugging Face address security incident during model evaluation](../ai/community/openai-and-hugging-face-address-security-incident.md)
   - [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](../ai/community/qwen-image-3-0-rich-content-authentic-details-deep.md)
 
 ## animation
@@ -5175,7 +5174,6 @@ Resources organized by keyword tags.
   - [HyperSafe: Inference-Time Safety Recovery for Fine-Tuned Language Models](../ai/rag/arxiv-2607-11475.md)
   - [HyperShadow: A Benchmark for Detecting 3D Projections of Higher-Dimensional Spatial Objects](../ai/research/arxiv-2607-14419.md)
   - [Hypergraph Neural Stochastic Diffusion: An SDE Framework for Uncertainty Estimation](../ai/research/arxiv-2607-07330.md)
-  - [I built a page that tells you what AI model your laptop can run](../ai/community/i-built-a-page-that-tells-you-what-ai-model-your-l.md)
   - [IAAR-Shanghai/CRUD_RAG](../ai/rag/iaar-shanghai-crud-rag.md)
   - [IB-Flow: Information Bottleneck-Guided CFG Distillation for Few-Step Text-to-Image Generation](../ai/research/arxiv-2607-09133.md)
   - [IBAD: Interpretable Behavioral Anomaly Detection on Human Mobility Data](../ai/research/arxiv-2606-16023.md)
@@ -5886,6 +5884,7 @@ Resources organized by keyword tags.
   - [Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents](../ai/agents/arxiv-2604-00137.md)
   - [Open-Set Source Tracing as Compositional Factors via Structured Prototypes](../ai/research/arxiv-2607-03134.md)
   - [Open-Weather Robust 3D Detection via Dual-Critic Diffusion Alignment](../ai/agents/arxiv-2607-01983.md)
+  - [OpenAI and Hugging Face address security incident during model evaluation](../ai/community/openai-and-hugging-face-address-security-incident.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [OpenAnt: LLM-Powered Vulnerability Discovery Through Code Decomposition, Adversarial Verification, and Dynamic Testing](../ai/research/arxiv-2606-19149.md)
   - [OpenClaw-Skill: Collective Skill Tree Search for Agentic Large Language Models](../ai/rag/arxiv-2606-16774.md)
@@ -5987,7 +5986,6 @@ Resources organized by keyword tags.
   - [Parametric Memory Decoding for Zero-Shot Routing in LoRA-Based External Parametric Memory](../ai/research/arxiv-2607-04118.md)
   - [Parametric and Generative Forecasts of EPEX Day\char45 Ahead Energy Market Curves](../ai/rag/arxiv-2601-20226.md)
   - [Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches](../ai/research/arxiv-2312-08230.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [PatchOptic for Shared-State LLM Workflows with Projected Views and Verified Structured Updates](../ai/rag/arxiv-2607-05483.md)
   - [Patcher: Post-Hoc Patching of Backdoored Large Language Models](../ai/research/arxiv-2606-02995.md)
   - [Patients With Personality: Realistic Patient Simulation through Controlled Diversity and Selective Disclosure](../ai/research/arxiv-2606-17441.md)
@@ -11408,7 +11406,6 @@ Resources organized by keyword tags.
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
-  - [AI makes programming differently difficult](../ai/community/ai-makes-programming-differently-difficult.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
   - [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](../ai/research/arxiv-2506-16898.md)
   - [AI, Machine Learning, and Data-Driven Decisions | Cornell Duffield Engineering](../ai/agents/ai-machine-learning-and-data-driven-decisions-corn.md)
@@ -11962,7 +11959,6 @@ Resources organized by keyword tags.
   - [Firebase Data Processing and Security Terms](../ai/rag/firebase-data-processing-and-security-terms.md)
   - [Firebase Products](../ai/rag/firebase-products.md)
   - [Firecrawl - YouTube](../ai/resources/firecrawl-youtube.md)
-  - [Firefox Containers Preview](../ai/community/firefox-containers-preview.md)
   - [Firestore | Google Cloud](../ai/rag/firestore-google-cloud.md)
   - [First Citizens Bank Responsible Disclosure](../ai/resources/first-citizens-bank-responsible-disclosure.md)
   - [First Proof Second Batch](../ai/research/arxiv-2606-18119.md)
@@ -12196,7 +12192,6 @@ Resources organized by keyword tags.
   - [Human-in-the-Loop User Feedback Affects Perceived Accuracy and Trust, but Task Subjectivity Matters](../ai/research/arxiv-2607-17548.md)
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
-  - [I built a page that tells you what AI model your laptop can run](../ai/community/i-built-a-page-that-tells-you-what-ai-model-your-l.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IBAN-Prüfer: Validierung der internationalen Kontonummer](../ai/resources/iban-prufer-validierung-der-internationalen-konton.md)
@@ -12530,6 +12525,7 @@ Resources organized by keyword tags.
   - [Open Government Licence](../ai/rag/open-government-licence.md)
   - [Open Source Security Foundation – Linux Foundation Projects](../ai/resources/open-source-security-foundation-linux-foundation-p.md)
   - [Open Subscription Platforms](../ai/rag/open-subscription-platforms.md)
+  - [OpenAI and Hugging Face address security incident during model evaluation](../ai/community/openai-and-hugging-face-address-security-incident.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [OpenAnt: LLM-Powered Vulnerability Discovery Through Code Decomposition, Adversarial Verification, and Dynamic Testing](../ai/research/arxiv-2606-19149.md)
   - [OpenEM: Large-scale multi-structural 3D datasets for electromagnetic methods](../ai/research/arxiv-2510-21859.md)
@@ -12854,6 +12850,7 @@ Resources organized by keyword tags.
   - [Seven Security Challenges in Cross-domain Multi-agent LLM Systems](../ai/agents/arxiv-2505-23847.md)
   - [Sexualised synthetic personas encode and amplify gendered power asymmetries through voice](../ai/research/arxiv-2606-21366.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: Browser Tools SDK – an optimal browser harness for agents](../ai/community/show-hn-browser-tools-sdk-an-optimal-browser-harne.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Sign in to GitHub · GitHub](../ai/resources/langchain-ai-docs.md)
@@ -13321,7 +13318,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -16932,6 +16928,7 @@ Resources organized by keyword tags.
   - [Not All Skills Help: Measuring and Repairing Agent Knowledge](../ai/agents/arxiv-2606-15390.md)
   - [NousResearch/hermes-agent](../ai/agents/nousresearch-hermes-agent.md)
   - [Nvidia is latest investor to back AV startup Nuro in $203M funding round | TechCrunch](../ai/rag/nvidia-is-latest-investor-to-back-av-startup-nuro.md)
+  - [OpenAI and Hugging Face address security incident during model evaluation](../ai/community/openai-and-hugging-face-address-security-incident.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [Optimizing Databricks LLM Pipelines with DSPy | Databricks Blog](../ai/rag/optimizing-databricks-llm-pipelines-with-dspy-data.md)
   - [PEC-Home: Interpretation of Progressively Elliptical Commands in Smart Homes](../ai/research/arxiv-2606-18636.md)
@@ -30690,4 +30687,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-22T01:38:21.882606+05:30*
+*Index generated on 2026-07-22T03:59:18.177464+05:30*

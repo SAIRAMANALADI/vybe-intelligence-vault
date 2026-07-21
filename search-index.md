@@ -16086,7 +16086,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://supabase.com/docs/guides/ai>
 
 * **[AI Agent – TRMNL](ai/community/ai-agent-trmnl.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by joeyespo. Score: 11, Comments: 7. Original Link: https://help.trmnl.com/en/articles/14130438-ai-agent
+  * Summary: Hacker News story by joeyespo. Score: 32, Comments: 18. Original Link: https://help.trmnl.com/en/articles/14130438-ai-agent
   * Tags: `agents`, `ai`, `hackernews`
   * Source URL: <https://help.trmnl.com/en/articles/14130438-ai-agent>
 
@@ -16109,11 +16109,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Program Scope**: Supports ~160 Postdoctoral Fellows and 20 Faculty Fellows annually across nine global universities to integrate AI into STEM research, addressing uneven adoption and accelerating scientific breakthroughs. - **Research Focus**: Ta
   * Tags: `hackernews`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.schmidtsciences.org/schmidt-ai-in-science-postdocs>
-
-* **[AI makes programming differently difficult](ai/community/ai-makes-programming-differently-difficult.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by tchalla. Score: 87, Comments: 52. Original Link: https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult>
 
 * **[AI-Assisted Computational Reproducibility on the FABRIC Testbed](ai/research/arxiv-2606-25879.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.25879v1 Announce Type: cross Abstract: Computational reproducibility remains difficult despite being central to scientific research. In this paper, we show how the international FABRIC testbed, combined with large language model (LLM) codi
@@ -17055,11 +17050,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `producthunt`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://blog.mozilla.org/en/category/firefox/?utm_source=www.firefox.com&utm_medium=referral&utm_campaign=nav&utm_content=resources>
 
-* **[Firefox Containers Preview](ai/community/firefox-containers-preview.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by twapi. Score: 77, Comments: 35. Original Link: https://blog.mozilla.org/en/firefox/firefox-containers-preview/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://blog.mozilla.org/en/firefox/firefox-containers-preview>
-
 * **[Firestore | Google Cloud](ai/rag/firestore-google-cloud.md)** (`dataset` | `useful` tier)
   * Summary: - **MongoDB Compatibility & Wire Protocol Support**: Firestore provides MongoDB wire-compatible API, enabling seamless migration of existing MongoDB applications with full driver and ecosystem integration, including support for BSON/JSON document str
   * Tags: `agents`, `creative_dev`, `dataset`, `hackernews`, `meta-ai`, `models`, `paper`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
@@ -17495,11 +17485,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `github-repo`, `openai`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/hwchase17/langchain>
 
-* **[I built a page that tells you what AI model your laptop can run](ai/community/i-built-a-page-that-tells-you-what-ai-model-your-l.md)** (`benchmark` | `useful` tier)
-  * Summary: Hacker News story by kumarski. Score: 12, Comments: 11. Original Link: https://localsotabenchmark.engineersf.dev/
-  * Tags: `ai`, `benchmark`, `hackernews`
-  * Source URL: <https://localsotabenchmark.engineersf.dev>
-
 * **[IBM/mt-rag-benchmark](ai/rag/ibm-mt-rag-benchmark.md)** (`benchmark` | `useful` tier)
   * Summary: - **Purpose**: Multi-Turn Retrieval-Augmented Generation (RAG) benchmark designed to evaluate conversational RAG systems across multiple interaction turns. - **Technical Stack**: Implemented in Python, leveraging modular components for retrieval, gen
   * Tags: `benchmark`, `github-repo`, `hackernews`, `python`, `rag`, `workflows`
@@ -17626,7 +17611,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://ipython.readthedocs.io/en/stable>
 
 * **[Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](ai/community/jack-dorsey-launches-buzz-to-combine-team-chat-ai.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by ryanmerket. Score: 82, Comments: 81. Original Link: https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git
+  * Summary: Hacker News story by ryanmerket. Score: 175, Comments: 163. Original Link: https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git
   * Tags: `agents`, `ai`, `hackernews`, `producthunt`
   * Source URL: <https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git>
 
@@ -17981,7 +17966,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.08257>
 
 * **[Meta's AI models are powering the first wave of Genesis Mission projects](ai/community/meta-s-ai-models-are-powering-the-first-wave-of-ge.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by surprisetalk. Score: 63, Comments: 45. Original Link: https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1
+  * Summary: Hacker News story by surprisetalk. Score: 84, Comments: 56. Original Link: https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1
   * Tags: `ai`, `hackernews`
   * Source URL: <https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino?_fb_noscript=1>
 
@@ -18144,6 +18129,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **OpenSSF Technical Initiatives**: Projects like **GUAC** (Graphical Understanding of Artifact Composition) provide directed insights into software supply chain security, while **SLSA** (Supply-chain Levels for Software Artifacts) enforces artifact
   * Tags: `hackernews`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://openssf.org/?hsLang=en>
+
+* **[OpenAI and Hugging Face address security incident during model evaluation](ai/community/openai-and-hugging-face-address-security-incident.md)** (`benchmark` | `useful` tier)
+  * Summary: Hacker News story by mfiguiere. Score: 384, Comments: 246. Original Link: https://openai.com/index/hugging-face-model-evaluation-security-incident/
+  * Tags: `ai`, `benchmark`, `hackernews`, `openai`
+  * Source URL: <https://openai.com/index/hugging-face-model-evaluation-security-incident>
 
 * **[opendataloader-project/opendataloader-pdf](ai/rag/opendataloader-project-opendataloader-pdf.md)** (`workflow` | `useful` tier)
   * Summary: - **Java-based PDF parser** designed for AI-ready data extraction, supporting accessibility compliance (e.g., PDF/UA) and automated tagging for structured content. - **Multi-format output** with support for HTML, JSON, Markdown, and bounding box anno
@@ -18416,7 +18406,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://sbert.net/docs/quickstart.html>
 
 * **[Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](ai/community/qwen-image-3-0-rich-content-authentic-details-deep.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by ilreb. Score: 497, Comments: 204. Original Link: https://qwen.ai/blog?id=qwen-image-3.0
+  * Summary: Hacker News story by ilreb. Score: 521, Comments: 207. Original Link: https://qwen.ai/blog?id=qwen-image-3.0
   * Tags: `ai`, `hackernews`
   * Source URL: <https://qwen.ai/blog?id=qwen-image-3.0>
 
@@ -18679,6 +18669,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Modern Sphinx Theme**: Shibuya is a responsive, visually appealing theme for Sphinx documentation, supporting Jupyter extensions like `nbsphinx` for enhanced AI/ML documentation workflows. - **Multi-Mode Customization**: Features light/dark mode
   * Tags: `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://shibuya.lepture.com>
+
+* **[Show HN: Browser Tools SDK – an optimal browser harness for agents](ai/community/show-hn-browser-tools-sdk-an-optimal-browser-harne.md)** (`framework` | `useful` tier)
+  * Summary: Hacker News story by tanishqkanc. Score: 4, Comments: 0. Original Link: https://libretto.sh/browser-tools
+  * Tags: `agents`, `hackernews`
+  * Source URL: <https://libretto.sh/browser-tools>
 
 * **[Signature filtering: a lightweight enhancement for statistical watermark detection in large language models](ai/research/arxiv-2606-18430.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18430v1 Announce Type: new Abstract: Statistical watermarks help organizations attribute large language model (LLM) outputs, yet existing detectors often struggle when watermark signals are weak, texts are repetitive, or watermarks are edi
@@ -81382,10 +81377,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Introducing ConTextual: How well can your Multimodal model jointly reason over text and image in text-rich scenes?
   * Source URL: <https://huggingface.co/blog/leaderboard-contextual>
 
-* **[Introducing Cosmos 3 Edge](ai/models/huggingface-blog-nvidia-cosmos3edge.md)** (`tutorial` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Introducing Cosmos 3 Edge
-  * Source URL: <https://huggingface.co/blog/nvidia/cosmos3edge>
-
 * **[Introducing Daggr: Chain apps programmatically, inspect visually](ai/models/huggingface-blog-daggr.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing Daggr: Chain apps programmatically, inspect visually
   * Source URL: <https://huggingface.co/blog/daggr>
@@ -90582,7 +90573,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5104, Downloads: 241315604)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5105, Downloads: 241315604)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -93057,6 +93048,10 @@ All resources are linked to their local vault paths and preserve original source
 * **[The State of Computer Vision at Hugging Face 🤗](ai/models/huggingface-blog-cv-state.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: The State of Computer Vision at Hugging Face 🤗
   * Source URL: <https://huggingface.co/blog/cv_state>
+
+* **[The State of Simulation for Physical AI: An Overview](ai/models/huggingface-blog-nvidia-state-of-simulation-for-physical-ai.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: The State of Simulation for Physical AI: An Overview
+  * Source URL: <https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai>
 
 * **[The Steering Budget: Examples beat Knobs](ai/research/arxiv-2607-14246.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.14246v1 Announce Type: cross Abstract: Generative models are steered with knobs -- prompts, guidance scales, property tags. Turn one as hard as you like and, past a point, it stops moving the property you care about. We find that ceiling i
@@ -102125,9 +102120,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2512.01317>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tutorial` | `useful` tier)
-  * Summary: * Provides a full-stack RAG implementation guide, detailing practical application development with LLMs. * Leverages a diverse technical stack including LangChain/LlamaIndex for orchestration, Milvus for vector storage, Neo4j for graph data, and Pyth
-  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
+  * Summary: * Provides a comprehensive, practical guide for RAG application development, leveraging LangChain and LlamaIndex for LLM orchestration. * Demonstrates integration with vector databases (Milvus) for efficient embedding-based retrieval and graph databa
+  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -102135,8 +102130,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
-  * Summary: * Comprehensive tutorial for novice developers on large language model (LLM) application development. * Emphasizes practical implementation of Retrieval-Augmented Generation (RAG) architectures utilizing the LangChain framework. * Content is structur
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`benchmark` | `useful` tier)
+  * Summary: * Provides foundational instruction in large language model (LLM) application development. * Emphasizes practical implementation leveraging LangChain and Retrieval Augmented Generation (RAG) methodologies. * Content is structured and delivered throug
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -107076,8 +107071,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2604.20711>
 
 * **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * Introduces RAGTruth, a specialized corpus designed for the systematic evaluation and
-  * Tags: `benchmark`, `github-repo`, `python`, `rag`
+  * Summary: * RAGTruth: A specialized corpus for identifying and analyzing hallucinations in Retrieval-Augmented Language Models (RAGs). *
+  * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 
 * **[Passkeys for Developers](ai/rag/passkeys-for-developers.md)** (`tutorial` | `useful` tier)
@@ -107791,7 +107786,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://superml.org/tutorials/rag-beginner>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: - **Jekyll-based static site generator**: Repository contains the source for `raganwald.com`, built using Jekyll (a Ruby-based static site generator). - **Minimal metadata and structure**: No explicit topics or extended description; primarily HTML-ba
+  * Summary: * Jekyll source repository for `raganwald.com`. *
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 

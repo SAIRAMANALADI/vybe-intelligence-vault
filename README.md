@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-50%2C476-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-98%2C300-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--22-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **50,476 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **98,300 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 12,253</p>
-        <p><b>Active:</b> 11,984 | <b>Inactive:</b> 269</p>
+        <p><b>Resources tracked:</b> 13,220</p>
+        <p><b>Active:</b> 12,948 | <b>Inactive:</b> 272</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,040</p>
+        <p><b>Archive Files:</b> 48,919</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 50,476 files</p>
-        <p><b>Last Update:</b> 2026-07-22 02:43 IST</p>
+        <p><b>Total Vault Size:</b> 98,300 files</p>
+        <p><b>Last Update:</b> 2026-07-22 04:00 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,25 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Latest News from Google Research Blog - Google Research](ai/rag/latest-news-from-google-research-blog-google-resea.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[Develop for Android | Android Developers](ai/resources/develop-for-android-android-developers.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[Kotlin and Android | Android Developers](ai/rag/kotlin-and-android-android-developers.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[gitiles - Git at Google](ai/resources/gitiles-git-at-google.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[Firebase · GitHub](ai/resources/firebase-github.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](ai/community/jack-dorsey-launches-buzz-to-combine-team-chat-ai.md)** • <kbd>+93 pts</kbd>
+- 🔼 **[Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](ai/community/qwen-image-3-0-rich-content-authentic-details-deep.md)** • <kbd>+24 pts</kbd>
+- 🔼 **[Meta's AI models are powering the first wave of Genesis Mission projects](ai/community/meta-s-ai-models-are-powering-the-first-wave-of-ge.md)** • <kbd>+21 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[AI Agent – TRMNL](ai/community/ai-agent-trmnl.md)** • <kbd>+21 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+3</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[OpenAI and Hugging Face address security incident during model evaluation](ai/community/openai-and-hugging-face-address-security-incident.md)** • Score: `384`
+- 🆕 **[Show HN: Browser Tools SDK – an optimal browser harness for agents](ai/community/show-hn-browser-tools-sdk-an-optimal-browser-harne.md)** • Score: `4`
+- 🆕 **[The State of Simulation for Physical AI: An Overview](ai/models/huggingface-blog-nvidia-state-of-simulation-for-physical-ai.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[AI makes programming differently difficult](ai/community/ai-makes-programming-differently-difficult.md)**
+- 💤 **[Firefox Containers Preview](ai/community/firefox-containers-preview.md)**
+- 💤 **[I built a page that tells you what AI model your laptop can run](ai/community/i-built-a-page-that-tells-you-what-ai-model-your-l.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

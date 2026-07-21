@@ -9731,12 +9731,11 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [AI Agent – TRMNL](../ai/community/ai-agent-trmnl.md)
-  - [AI makes programming differently difficult](../ai/community/ai-makes-programming-differently-difficult.md)
-  - [Firefox Containers Preview](../ai/community/firefox-containers-preview.md)
-  - [I built a page that tells you what AI model your laptop can run](../ai/community/i-built-a-page-that-tells-you-what-ai-model-your-l.md)
   - [Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](../ai/community/jack-dorsey-launches-buzz-to-combine-team-chat-ai.md)
   - [Meta's AI models are powering the first wave of Genesis Mission projects](../ai/community/meta-s-ai-models-are-powering-the-first-wave-of-ge.md)
+  - [OpenAI and Hugging Face address security incident during model evaluation](../ai/community/openai-and-hugging-face-address-security-incident.md)
   - [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](../ai/community/qwen-image-3-0-rich-content-authentic-details-deep.md)
+  - [Show HN: Browser Tools SDK – an optimal browser harness for agents](../ai/community/show-hn-browser-tools-sdk-an-optimal-browser-harne.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -10122,7 +10121,6 @@ Resources organized by publisher feed and query sources.
   - [Introducing BERTopic Integration with the Hugging Face Hub](../ai/models/huggingface-blog-bertopic.md)
   - [Introducing Community Tools on HuggingChat](../ai/models/huggingface-blog-community-tools.md)
   - [Introducing ConTextual: How well can your Multimodal model jointly reason over text and image in text-rich scenes?](../ai/models/huggingface-blog-leaderboard-contextual.md)
-  - [Introducing Cosmos 3 Edge](../ai/models/huggingface-blog-nvidia-cosmos3edge.md)
   - [Introducing DOI: the Digital Object Identifier to Datasets and Models](../ai/models/huggingface-blog-introducing-doi.md)
   - [Introducing Daggr: Chain apps programmatically, inspect visually](../ai/models/huggingface-blog-daggr.md)
   - [Introducing Decision Transformers on Hugging Face 🤗](../ai/models/huggingface-blog-decision-transformers.md)
@@ -10446,6 +10444,7 @@ Resources organized by publisher feed and query sources.
   - [The Partnership: Amazon SageMaker and Hugging Face](../ai/models/huggingface-blog-the-partnership-amazon-sagemaker-and-hugging-face.md)
   - [The Reformer - Pushing the limits of language modeling](../ai/models/huggingface-blog-reformer.md)
   - [The State of Computer Vision at Hugging Face 🤗](../ai/models/huggingface-blog-cv-state.md)
+  - [The State of Simulation for Physical AI: An Overview](../ai/models/huggingface-blog-nvidia-state-of-simulation-for-physical-ai.md)
   - [The Technology Behind BLOOM Training](../ai/models/huggingface-blog-bloom-megatron-deepspeed.md)
   - [The Transformers Library: standardizing model definitions](../ai/models/huggingface-blog-transformers-model-definition.md)
   - [Three Mighty Alerts Supporting Hugging Face’s Production Infrastructure](../ai/models/huggingface-blog-infrastructure-alerting.md)
@@ -12994,4 +12993,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-22T01:38:22.022073+05:30*
+*Index generated on 2026-07-22T03:59:18.259004+05:30*
