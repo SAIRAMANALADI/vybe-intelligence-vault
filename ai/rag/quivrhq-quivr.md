@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-07-21T16:51:44.401800+05:30'
+collected_at: '2026-07-21T19:53:44.375895+05:30'
 published_at: '2026-07-21T08:34:23Z'
 tags:
 - frontend_ui
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-07-21T16:51:44.401800+05:30'
-last_seen: '2026-07-21T16:51:44.401800+05:30'
-last_checked: '2026-07-21T16:51:44.401800+05:30'
+first_seen: '2026-07-21T19:53:44.375895+05:30'
+last_seen: '2026-07-21T19:53:44.375895+05:30'
+last_checked: '2026-07-21T19:53:44.375895+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-LLM & Vector Store Agnostic RAG Framework**: Supports integration with any LLM (e.g., GPT4, Groq, Llama) and vector databases (e.g., PGVector, Faiss), enabling flexible GenAI deployment in existing applications.
+- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization for product-specific needs without deep RAG expertise.
 
-- **Opinionated yet Customizable**: Provides an opinionated RAG (Retrieval-Augmented Generation) pipeline for rapid GenAI integration while allowing deep customization for product-specific requirements.
+- **Multi-Backend Compatibility**: Supports any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), enabling flexible deployment across diverse infrastructures while handling arbitrary file types.
 
-- **Full-Stack Deployment Ready**: Offers Dockerized deployment with Python backend, React frontend, and support for multiple file types, ensuring end-to-end GenAI integration with privacy and security considerations.
+- **Full-Stack Integration**: Provides a Python-based backend with Docker support, a React/TypeScript frontend, and APIs for OpenAI/Groq integration, emphasizing privacy, security, and extensibility for scalable AI-driven applications.
 
 ## Why It Matters
 

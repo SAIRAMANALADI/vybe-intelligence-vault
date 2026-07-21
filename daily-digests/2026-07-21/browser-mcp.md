@@ -1,13 +1,25 @@
 ---
-title: "Agent360dk/browser-mcp"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "TypeScript", "Chrome Extensions (Manifest V3)", "Model Context Protocol (MCP)", "WebSocket", "Node.js", "npm"]
+title: Agent360dk/browser-mcp
+category: daily-digests/2026-07-21
+tech_stack:
+- JavaScript
+- TypeScript
+- Chrome Extensions (Manifest V3)
+- Model Context Protocol (MCP)
+- WebSocket
+- Node.js
+- npm
 quality_score: 9
 rag_relevance: 8
-tags: ["browser automation", "CAPTCHA solving", "multi-session", "human-in-the-loop", "MCP client"]
-source: "https://github.com/Agent360dk/browser-mcp"
-discovered_at: "2026-07-21T10:24:36Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- browser automation
+- CAPTCHA solving
+- multi-session
+- human-in-the-loop
+- MCP client
+source: https://github.com/Agent360dk/browser-mcp
+discovered_at: '2026-07-21T10:24:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

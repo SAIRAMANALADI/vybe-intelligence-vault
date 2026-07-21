@@ -1,13 +1,25 @@
 ---
-title: "yanchuaner/yczx_code_lab"
-category: "Tooling"
-tech_stack: ["Python", "Git", "VS Code", "uv (Python package manager)", "Ruff (linter)", "Markdown", "Mermaid.js (diagrams)"]
+title: yanchuaner/yczx_code_lab
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Git
+- VS Code
+- uv (Python package manager)
+- Ruff (linter)
+- Markdown
+- Mermaid.js (diagrams)
 quality_score: 7
 rag_relevance: 5
-tags: ["collaborative learning", "agent development", "Git workflow", "Pull Request practices", "sandbox environment"]
-source: "https://github.com/yanchuaner/yczx_code_lab"
-discovered_at: "2026-07-18T09:23:40Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- collaborative learning
+- agent development
+- Git workflow
+- Pull Request practices
+- sandbox environment
+source: https://github.com/yanchuaner/yczx_code_lab
+discovered_at: '2026-07-18T09:23:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-07-21T16:51:49.297452+05:30'
+collected_at: '2026-07-21T19:53:49.389130+05:30'
 published_at: '2026-07-20T14:43:45Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-19T13:56:19Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-07-21T16:51:49.297452+05:30'
-last_seen: '2026-07-21T16:51:49.297452+05:30'
-last_checked: '2026-07-21T16:51:49.297452+05:30'
+first_seen: '2026-07-21T19:53:49.389130+05:30'
+last_seen: '2026-07-21T19:53:49.389130+05:30'
+last_checked: '2026-07-21T19:53:49.389130+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native eBPF for low-overhead runtime monitoring and enforcement of policies.
+- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native eBPF for runtime monitoring, enforcement, and policy-based control of AI processes.
 
-- **Enterprise-Grade RAG Pipeline**: Combines FastAPI backend with TypeScript, vector databases, and GenAI/LLM integration for scalable, secure retrieval-augmented generation (RAG) in production environments.
+- **Enterprise-Grade RAG Pipeline**: Features a FastAPI-backed Retrieval-Augmented Generation (RAG) system with TypeScript support, optimized for SaaS-scale deployments and vector database integration for contextual AI responses.
 
-- **SaaS-AI Governance Features**: Provides structured governance controls for AI workloads, including access management, audit logging, and compliance enforcement via a modular, extensible architecture.
+- **Security & Governance Focus**: Designed for enterprise environments with built-in governance controls, ensuring compliance and security for GenAI/LLM workloads in production.
 
 ## Why It Matters
 

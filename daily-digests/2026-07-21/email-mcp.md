@@ -1,13 +1,34 @@
 ---
-title: "sandraschi/email-mcp"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "React", "SMTP/IMAP", "SendGrid", "Mailgun", "Resend", "MailHog", "Slack", "Discord", "Tauri", "Rust", "Node.js", "uv", "Ruff", "Biome"]
+title: sandraschi/email-mcp
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- FastMCP
+- React
+- SMTP/IMAP
+- SendGrid
+- Mailgun
+- Resend
+- MailHog
+- Slack
+- Discord
+- Tauri
+- Rust
+- Node.js
+- uv
+- Ruff
+- Biome
 quality_score: 9
 rag_relevance: 7
-tags: ["email", "MCP", "AI integration", "transactional APIs", "web dashboard"]
-source: "https://github.com/sandraschi/email-mcp"
-discovered_at: "2026-07-14T23:53:41Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- email
+- MCP
+- AI integration
+- transactional APIs
+- web dashboard
+source: https://github.com/sandraschi/email-mcp
+discovered_at: '2026-07-14T23:53:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

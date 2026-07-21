@@ -1,13 +1,24 @@
 ---
-title: "ScrapeUnblocker/scrapeunblocker-mcp-remote"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Vercel Serverless Functions", "Auth0 (OAuth 2.1)", "AWS SDK (SigV4)", "HTTP/REST"]
+title: ScrapeUnblocker/scrapeunblocker-mcp-remote
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Vercel Serverless Functions
+- Auth0 (OAuth 2.1)
+- AWS SDK (SigV4)
+- HTTP/REST
 quality_score: 8
 rag_relevance: 7
-tags: ["web scraping", "MCP server", "anti-bot bypass", "Vercel deployment", "OAuth integration"]
-source: "https://github.com/ScrapeUnblocker/scrapeunblocker-mcp-remote"
-discovered_at: "2026-07-17T20:05:26Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web scraping
+- MCP server
+- anti-bot bypass
+- Vercel deployment
+- OAuth integration
+source: https://github.com/ScrapeUnblocker/scrapeunblocker-mcp-remote
+discovered_at: '2026-07-17T20:05:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

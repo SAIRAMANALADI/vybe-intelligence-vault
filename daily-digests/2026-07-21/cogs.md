@@ -1,13 +1,24 @@
 ---
-title: "nenb/cogs"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Helm", "KVM", "Linux", "Pi SDK"]
+title: nenb/cogs
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- Helm
+- KVM
+- Linux
+- Pi SDK
 quality_score: 5
 rag_relevance: 6
-tags: ["personal assistant", "VM isolation", "security", "feasibility study", "deterministic setup"]
-source: "https://github.com/nenb/cogs"
-discovered_at: "2026-07-13T10:24:12Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- personal assistant
+- VM isolation
+- security
+- feasibility study
+- deterministic setup
+source: https://github.com/nenb/cogs
+discovered_at: '2026-07-13T10:24:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

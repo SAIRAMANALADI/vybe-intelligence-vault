@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzhao062/pyod
-collected_at: '2026-07-21T16:53:14.406665+05:30'
+collected_at: '2026-07-21T19:55:14.482421+05:30'
 published_at: '2026-07-21T08:21:09Z'
 tags:
 - agents
 - benchmark
+- dataset
 - github-repo
 - python
 - rag
@@ -21,9 +22,9 @@ archived: false
 created_at: '2017-10-03T20:29:04Z'
 pushed_at: '2026-07-20T04:15:07Z'
 resource_id: github:yzhao062/pyod
-first_seen: '2026-07-21T16:53:14.406665+05:30'
-last_seen: '2026-07-21T16:53:14.406665+05:30'
-last_checked: '2026-07-21T16:53:14.406665+05:30'
+first_seen: '2026-07-21T19:55:14.482421+05:30'
+last_seen: '2026-07-21T19:55:14.482421+05:30'
+last_checked: '2026-07-21T19:55:14.482421+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Anomaly Detection Library**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, with benchmark-backed ADEngine orchestration for unified evaluation and deployment.
+- **Multimodal Anomaly Detection**: PyOD supports 60+ detectors for tabular, time-series, graph, text, image, and audio data, enabling cross-domain anomaly detection with unified APIs.
 
-- **Agentic Workflow Integration**: Enables AI agents to autonomously execute anomaly detection tasks via an agentic workflow, leveraging foundation models for adaptive, multimodal analysis.
+- **Agentic & Benchmark-Driven Workflow**: Features ADEngine for automated detector orchestration and agentic AI workflows for adaptive anomaly detection in dynamic environments.
 
-- **Multimodal & Scalable**: Implements outlier ensembles, novelty detection, and OOD (out-of-distribution) detection, with active development in deep learning and fraud detection applications.
+- **Foundation-Model Integration**: Leverages deep learning and foundation models for advanced tasks like fraud detection, OOD (out-of-distribution) detection, and novelty detection across multimodal datasets.
 
 ## Why It Matters
 

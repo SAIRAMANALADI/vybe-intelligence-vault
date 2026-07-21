@@ -1,13 +1,28 @@
 ---
-title: "pedropaulovc/meshprobe"
-category: "Tooling"
-tech_stack: ["Python 3.12+", "Blender 5.2 LTS", "Pydantic", "Playwright CLI", "Playwright MCP", "Bubblewrap (Linux sandboxing)", "AppContainer (Windows sandboxing)", "GLB/glTF/OBJ/STL", "Eevee/Cycles render engines", "EXR (depth/normal output)"]
+title: pedropaulovc/meshprobe
+category: daily-digests/2026-07-21
+tech_stack:
+- Python 3.12+
+- Blender 5.2 LTS
+- Pydantic
+- Playwright CLI
+- Playwright MCP
+- Bubblewrap (Linux sandboxing)
+- AppContainer (Windows sandboxing)
+- GLB/glTF/OBJ/STL
+- Eevee/Cycles render engines
+- EXR (depth/normal output)
 quality_score: 9
 rag_relevance: 8
-tags: ["3D model inspection", "Blender automation", "AI agent tooling", "3D rendering", "CAD visualization"]
-source: "https://github.com/pedropaulovc/meshprobe"
-discovered_at: "2026-07-17T23:51:59Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- 3D model inspection
+- Blender automation
+- AI agent tooling
+- 3D rendering
+- CAD visualization
+source: https://github.com/pedropaulovc/meshprobe
+discovered_at: '2026-07-17T23:51:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

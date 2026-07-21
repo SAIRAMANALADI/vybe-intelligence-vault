@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.jamsadr.com/rules-streamlined-arbitration/
-published_at: '2026-07-21T16:56:07.393368+05:30'
-collected_at: '2026-07-21T16:56:07.393380+05:30'
+published_at: '2026-07-21T20:01:19.945443+05:30'
+collected_at: '2026-07-21T20:01:19.945456+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:streamlined-arbitration-rules-procedures-jams-medi
-first_seen: '2026-07-21T16:56:07.393380+05:30'
-last_seen: '2026-07-21T16:56:07.393380+05:30'
-last_checked: '2026-07-21T16:56:07.393380+05:30'
+first_seen: '2026-07-21T20:01:19.945456+05:30'
+last_seen: '2026-07-21T20:01:19.945456+05:30'
+last_checked: '2026-07-21T20:01:19.945456+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Scope & Applicability**: JAMS Streamlined Arbitration Rules apply to disputes administered by JAMS where parties agree to use them or claims ≤$250K (excluding fees/interest). Rules are binding unless superseded by law, with JAMS NAC or General Counsel overseeing administration.
+- **Scope & Applicability**: JAMS Streamlined Arbitration Rules apply to disputes where parties agree to JAMS administration or claims ≤$250K (excl. interest/fees), with JAMS NAC or designees overseeing administration; electronic filing/service (e-filing/e-service) is permitted via JAMS Electronic Filing System.
 
-- **Commencement & Electronic Procedures**: Arbitration commences via JAMS-issued Commencement Letter upon meeting criteria (e.g., executed agreement, court order). Mandatory e-filing/service via JAMS Electronic Filing System is enforceable, with technical errors subject to *nunc pro tunc* relief for good cause.
+- **Commencement & Service**: Arbitration commences upon JAMS issuing a Commencement Letter after meeting criteria (e.g., executed agreement, court order); service/electronic filing deadlines adhere to strict timelines, with extensions for holidays and technical errors addressed via nunc pro tunc filings.
 
-- **Consolidation & Administrative Authority**: JAMS may consolidate arbitrations if overlapping claims/parties exist, considering case links and progress. JAMS can suspend/terminate proceedings for unpaid fees, toll time limits, and order cost allocation to non-paying parties.
+- **Consolidation & Administrative Authority**: JAMS may consolidate arbitrations for overlapping parties/cases or multiple filings by a party, considering case links/progress; administrative conferences determine procedural matters, and non-payment of fees may suspend/terminate proceedings, with costs allocated by the arbitrator.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T16:56:07.393368+05:30
+- Published: 2026-07-21T20:01:19.945443+05:30
 
 ## Related Tags
 

@@ -1,13 +1,27 @@
 ---
-title: "palmerye/agent-course-coach"
-category: "Tooling"
-tech_stack: ["Claude Code", "JavaScript", "Node.js", "LangChain", "Superpowers (AI skill development framework)", "MCP (Model Context Protocol)", "RAG (Retrieval-Augmented Generation)", "TDD (Test-Driven Development)", "Git"]
+title: palmerye/agent-course-coach
+category: daily-digests/2026-07-21
+tech_stack:
+- Claude Code
+- JavaScript
+- Node.js
+- LangChain
+- Superpowers (AI skill development framework)
+- MCP (Model Context Protocol)
+- RAG (Retrieval-Augmented Generation)
+- TDD (Test-Driven Development)
+- Git
 quality_score: 9
 rag_relevance: 7
-tags: ["AI learning assistant", "structured note generation", "active recall", "agent development", "learning methodology"]
-source: "https://github.com/palmerye/agent-course-coach"
-discovered_at: "2026-07-21T07:32:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI learning assistant
+- structured note generation
+- active recall
+- agent development
+- learning methodology
+source: https://github.com/palmerye/agent-course-coach
+discovered_at: '2026-07-21T07:32:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

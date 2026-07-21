@@ -1,13 +1,22 @@
 ---
-title: "bhakthan/tokn-dist"
-category: "Tooling"
-tech_stack: ["Static Binary", "Offline Licensing", "Self-Update Mechanism", "CLI Tool"]
+title: bhakthan/tokn-dist
+category: daily-digests/2026-07-21
+tech_stack:
+- Static Binary
+- Offline Licensing
+- Self-Update Mechanism
+- CLI Tool
 quality_score: 7
 rag_relevance: 6
-tags: ["agentic coding", "offline licensing", "self-updating binary", "regulated domains", "CLI tool"]
-source: "https://github.com/bhakthan/tokn-dist"
-discovered_at: "2026-07-18T15:55:15Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agentic coding
+- offline licensing
+- self-updating binary
+- regulated domains
+- CLI tool
+source: https://github.com/bhakthan/tokn-dist
+discovered_at: '2026-07-18T15:55:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

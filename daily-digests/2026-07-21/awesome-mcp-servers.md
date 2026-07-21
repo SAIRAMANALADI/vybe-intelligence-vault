@@ -1,13 +1,24 @@
 ---
-title: "TensorBlock/awesome-mcp-servers"
-category: "Tooling"
-tech_stack: ["Markdown", "TypeScript", "GitHub Actions", "Railway (for hosting)", "JSON", "REST API"]
+title: TensorBlock/awesome-mcp-servers
+category: daily-digests/2026-07-21
+tech_stack:
+- Markdown
+- TypeScript
+- GitHub Actions
+- Railway (for hosting)
+- JSON
+- REST API
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP", "Model Context Protocol", "Agent Integration", "Server Registry", "Developer Tools"]
-source: "https://github.com/TensorBlock/awesome-mcp-servers"
-discovered_at: "2026-07-20T03:37:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP
+- Model Context Protocol
+- Agent Integration
+- Server Registry
+- Developer Tools
+source: https://github.com/TensorBlock/awesome-mcp-servers
+discovered_at: '2026-07-20T03:37:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

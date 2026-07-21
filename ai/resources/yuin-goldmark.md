@@ -4,12 +4,12 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yuin/goldmark/
-collected_at: '2026-07-20T22:25:10.098960+05:30'
-published_at: '2026-07-18T22:33:02Z'
+collected_at: '2026-07-21T20:00:35.112191+05:30'
+published_at: '2026-07-21T06:11:06Z'
 tags:
 - github-repo
 - go
-stars: 4908
+stars: 4907
 language: Go
 status: active
 license: MIT
@@ -17,9 +17,9 @@ archived: false
 created_at: '2019-04-26T11:24:21Z'
 pushed_at: '2026-07-12T07:48:51Z'
 resource_id: github:yuin/goldmark
-first_seen: '2026-07-20T22:25:10.098960+05:30'
-last_seen: '2026-07-20T22:25:10.098960+05:30'
-last_checked: '2026-07-20T22:25:10.098960+05:30'
+first_seen: '2026-07-21T20:00:35.112191+05:30'
+last_seen: '2026-07-21T20:00:35.112191+05:30'
+last_checked: '2026-07-21T20:00:35.112191+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Goldmark is a **CommonMark-compliant** Markdown parser written in **Go**, designed for extensibility and clean architecture.
-- **Features**: Supports **standard CommonMark** syntax while allowing custom extensions for enhanced functionality.
-- **Status**: Actively maintained with the latest update on **2026-07-18**, featuring **4,908 stars** and **296 forks** on GitHub.
+- **Goldmark** is a **CommonMark-compliant** Markdown parser implemented in **Go**, ensuring strict adherence to the CommonMark specification.
+- The parser is designed for **extensibility** with a modular architecture, allowing customization of rendering, parsing, and syntax extensions.
+- Features **efficient parsing** and **well-structured codebase**, optimized for performance and maintainability in Go applications.
 
 ## Why It Matters
 
@@ -38,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: yuin
-- Stars: 4908
+- Stars: 4907
 - Forks: 296
 - Language: Go
 - Topics: commonmark, go, golang, markdown
-- Last Updated: 2026-07-18T22:33:02Z
+- Last Updated: 2026-07-21T06:11:06Z
 - License: MIT
 - Archived: No
 - Created At: 2019-04-26T11:24:21Z

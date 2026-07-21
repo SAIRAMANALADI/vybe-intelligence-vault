@@ -1,13 +1,26 @@
 ---
-title: "haraldwegner/jawata-mcp"
-category: "Tooling"
-tech_stack: ["Java 21", "Eclipse JDT", "Eclipse LTK", "MCP (Model Context Protocol)", "Maven", "Gradle", "OSGi", "H2 Database"]
+title: haraldwegner/jawata-mcp
+category: daily-digests/2026-07-21
+tech_stack:
+- Java 21
+- Eclipse JDT
+- Eclipse LTK
+- MCP (Model Context Protocol)
+- Maven
+- Gradle
+- OSGi
+- H2 Database
 quality_score: 9
 rag_relevance: 10
-tags: ["Java refactoring", "compiler-accurate", "behavior-preserving", "MCP server", "AI agent tooling"]
-source: "https://github.com/haraldwegner/jawata-mcp"
-discovered_at: "2026-07-18T22:46:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Java refactoring
+- compiler-accurate
+- behavior-preserving
+- MCP server
+- AI agent tooling
+source: https://github.com/haraldwegner/jawata-mcp
+discovered_at: '2026-07-18T22:46:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

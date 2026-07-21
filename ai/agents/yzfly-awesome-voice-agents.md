@@ -4,11 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzfly/awesome-voice-agents
-collected_at: '2026-07-21T16:52:59.408137+05:30'
+collected_at: '2026-07-21T19:54:59.443204+05:30'
 published_at: '2026-07-15T07:58:38Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - unknown
 stars: 36
 language: Unknown
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-11-03T02:20:30Z'
 pushed_at: '2026-07-03T22:06:38Z'
 resource_id: github:yzfly/awesome-voice-agents
-first_seen: '2026-07-21T16:52:59.408137+05:30'
-last_seen: '2026-07-21T16:52:59.408137+05:30'
-last_checked: '2026-07-21T16:52:59.408137+05:30'
+first_seen: '2026-07-21T19:54:59.443204+05:30'
+last_seen: '2026-07-21T19:54:59.443204+05:30'
+last_checked: '2026-07-21T19:54:59.443204+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated collection** of voice AI agent frameworks, tools, and best practices for real-time chat, STT, TTS, VAD, voice cloning, conversion, recognition, synthesis, and assistants.
-- **Topics covered** include voice activity detection (VAD), voice conversion, voice recognition, and voice synthesis, with a focus on agent-based systems.
-- **Last updated** on 2026-07-15, with 36 stars and 19 forks, hosted on GitHub under the `yzfly/awesome-voice-agents` repository.
+- **Curated Collection**: Repository (`yzfly/awesome-voice-agents`) providing a structured list of frameworks, tools, and resources for **voice AI agents**, covering **speech-to-text (STT)**, **text-to-speech (TTS)**, **voice activity detection (VAD)**, **voice cloning**, **conversion**, **recognition**, and **synthesis**.
+- **Technical Scope**: Includes **real-time chat** integration, **voice assistant** development, and **multi-modal agent** architectures with focus on **low-latency processing** and **high-fidelity audio pipelines**.
+- **Maintenance**: Last updated **July 15, 2026**, with **36 stars** and **19 forks**, indicating active curation but limited community adoption.
 
 ## Why It Matters
 

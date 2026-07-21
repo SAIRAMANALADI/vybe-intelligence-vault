@@ -1,13 +1,25 @@
 ---
-title: "rainaajay/setu"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Ed25519 cryptography", "Fly.io (deployment)", "MCP (Model Context Protocol) server", "HTTP networking", "BFT (Byzantine Fault Tolerance) protocols"]
+title: rainaajay/setu
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- Ed25519 cryptography
+- Fly.io (deployment)
+- MCP (Model Context Protocol) server
+- HTTP networking
+- BFT (Byzantine Fault Tolerance) protocols
 quality_score: 8
 rag_relevance: 9
-tags: ["Byzantine fault tolerance", "instant settlement", "fee-less payments", "agent payments", "post-blockchain"]
-source: "https://github.com/rainaajay/setu"
-discovered_at: "2026-07-19T15:56:45Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Byzantine fault tolerance
+- instant settlement
+- fee-less payments
+- agent payments
+- post-blockchain
+source: https://github.com/rainaajay/setu
+discovered_at: '2026-07-19T15:56:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

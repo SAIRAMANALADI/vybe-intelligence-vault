@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://tv.youtube.com/learn/nflsundayticket
-published_at: '2026-07-21T09:24:14.080722+05:30'
-collected_at: '2026-07-21T09:24:14.080732+05:30'
+published_at: '2026-07-21T20:01:52.813696+05:30'
+collected_at: '2026-07-21T20:01:52.813711+05:30'
 tags:
 - agents
 - models
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-exclusive-home-of-nfl-sunday-ticket-youtube-yo
-first_seen: '2026-07-21T09:24:14.080732+05:30'
-last_seen: '2026-07-21T09:24:14.080732+05:30'
-last_checked: '2026-07-21T09:24:14.080732+05:30'
+first_seen: '2026-07-21T20:01:52.813711+05:30'
+last_seen: '2026-07-21T20:01:52.813711+05:30'
+last_checked: '2026-07-21T20:01:52.813711+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Pricing & Plans**: New users pay **$240/yr ($20/mo)** for NFL Sunday Ticket on YouTube TV or standalone; returning users pay **$378/yr ($31.50/mo)**. Requires active YouTube TV plan for bundled option, with first payment non-refundable and no contract.
+- **Pricing & Plans**: NFL Sunday Ticket offers new users **$20/month for 12 months ($240/year)** via YouTube TV or standalone YouTube; returning users pay **$31.50/month ($378/year)**. Bundled with YouTube TV, first 3 months cost **$67.99/month**, then **$82.99/month**.
 
-- **Coverage & Features**: Provides **all out-of-market Sunday NFL games** (32 teams, AFC/NFC), multiview (4 games simultaneously), fantasy view, and NFL RedZone (optional add-on). Excludes digital-only games and commercial use.
+- **Coverage & Features**: Includes **all out-of-market Sunday NFL games** (32 teams, AFC/NFC), **multiview (4 games simultaneously)**, **NFL RedZone**, and **unlimited cloud DVR**. Requires **high-speed internet (7+ Mbps recommended)** and supports **cross-device streaming** (no satellite dish or contract).
 
-- **Access & Requirements**: Available via **YouTube TV or standalone YouTube Primetime Channels**; requires **3+ Mbps (7+ Mbps recommended)** internet. Supported on devices via YouTube/YouTube TV apps (no satellite dish or cable needed).
+- **Access & Restrictions**: **No cable/satellite required**—available via YouTube TV or standalone YouTube. **Excludes digital-only games, commercial use, and refunds**. Active YouTube TV plan required for bundled access. **Device/content restrictions apply**.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T09:24:14.080722+05:30
+- Published: 2026-07-21T20:01:52.813696+05:30
 
 ## Related Tags
 

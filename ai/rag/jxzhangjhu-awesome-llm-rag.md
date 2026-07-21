@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-07-21T16:51:24.297902+05:30'
+collected_at: '2026-07-21T19:53:29.340826+05:30'
 published_at: '2026-07-20T23:56:08Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-06-15T18:27:39Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-07-21T16:51:24.297902+05:30'
-last_seen: '2026-07-21T16:51:24.297902+05:30'
-last_checked: '2026-07-21T16:51:24.297902+05:30'
+first_seen: '2026-07-21T19:53:29.340826+05:30'
+last_seen: '2026-07-21T19:53:29.340826+05:30'
+last_checked: '2026-07-21T19:53:29.340826+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`jxzhangjhu/Awesome-LLM-RAG`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques for **Large Language Models (LLMs)**, including embeddings, retrieval mechanisms, and hybrid architectures.
+- **Curated resource**: A GitHub repository (`jxzhangjhu/Awesome-LLM-RAG`) aggregating cutting-edge research, tools, and implementations in **Retrieval-Augmented Generation (RAG)** for Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and hybrid architectures.
 
-- **Technical Scope**: Focuses on **RAG-embeddings**, **information retrieval**, and **LLM integration**, covering cutting-edge methods for enhancing generative models with external knowledge sources.
+- **Technical scope**: Focuses on advanced RAG techniques, including **retrieval-information optimization**, **RAG-specific embeddings**, and integration strategies for enhancing LLM performance via external knowledge retrieval.
 
-- **Metadata**: Last updated **July 20, 2026**; 1,338 stars, 87 forks; categorized under **embeddings**, **LLMs**, **RAG**, and related topics.
+- **Community metrics**: 1,338 stars, 87 forks, last updated July 20, 2026, with topics spanning **LLMs, embeddings, and retrieval-augmented generation** methodologies.
 
 ## Why It Matters
 

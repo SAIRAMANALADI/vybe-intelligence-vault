@@ -1,13 +1,24 @@
 ---
-title: "BaiqingL/latchshot-mcp"
-category: "Tooling"
-tech_stack: ["Model Context Protocol (MCP)", "Streamable HTTP", "Chromium", "Fly.io", "GitHub Actions", "JSON-RPC"]
+title: BaiqingL/latchshot-mcp
+category: daily-digests/2026-07-21
+tech_stack:
+- Model Context Protocol (MCP)
+- Streamable HTTP
+- Chromium
+- Fly.io
+- GitHub Actions
+- JSON-RPC
 quality_score: 8
 rag_relevance: 7
-tags: ["web capture", "MCP server", "screenshots", "PDF generation", "remote rendering"]
-source: "https://github.com/BaiqingL/latchshot-mcp"
-discovered_at: "2026-07-21T10:24:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web capture
+- MCP server
+- screenshots
+- PDF generation
+- remote rendering
+source: https://github.com/BaiqingL/latchshot-mcp
+discovered_at: '2026-07-21T10:24:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

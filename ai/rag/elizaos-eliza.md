@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/elizaOS/eliza
-collected_at: '2026-07-21T16:50:54.344817+05:30'
+collected_at: '2026-07-21T19:52:54.604496+05:30'
 published_at: '2026-07-21T10:26:25Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-07-09T07:55:40Z'
 pushed_at: '2026-07-21T10:26:15Z'
 resource_id: github:elizaos/eliza
-first_seen: '2026-07-21T16:50:54.344817+05:30'
-last_seen: '2026-07-21T16:50:54.344817+05:30'
-last_checked: '2026-07-21T16:50:54.344817+05:30'
+first_seen: '2026-07-21T19:52:54.604496+05:30'
+last_seen: '2026-07-21T19:52:54.604496+05:30'
+last_checked: '2026-07-21T19:52:54.604496+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OS Framework**: Open-source TypeScript-based system (`elizaOS/eliza`) enabling autonomous AI agents with plugin architecture for extensibility (RAG, crypto, Discord/Slack/Telegram integrations).
-- **Swarm Intelligence**: Supports multi-agent orchestration (`swarm` topic) for distributed task execution and collaborative workflows.
-- **Multi-Platform Integration**: Provides SDKs for Discord, Slack, Telegram, and crypto-native interactions, with last update (July 2026) indicating active development.
+- **Agentic OS Framework**: Open-source TypeScript-based system enabling autonomous AI agents with plugin extensibility, RAG integration, and multi-platform support (Discord, Slack, Telegram).
+- **Swarm & Crypto Integration**: Supports decentralized agent swarms and cryptographic interactions via built-in modules for Web3 and blockchain operations.
+- **Real-Time Orchestration**: Dynamically manages agent workflows, state, and inter-agent communication with last update as of July 21, 2026.
 
 ## Why It Matters
 

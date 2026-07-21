@@ -14,7 +14,7 @@ Langfuse, Ollama, llama.cpp, vLLM, Phoenix.
 *   [Fetch Cuts ML Processing Latency by 50% Using Amazon SageMaker & Hugging Face](https://huggingface.co/blog/fetch-case-study)
 *   [Assisted Generation: a new direction toward low-latency text generation](https://huggingface.co/blog/assisted-generation)
 *   [Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs](https://huggingface.co/blog/infinity-cpu-performance)
-*   [General SDK Configuration | OpenTelemetry](https://opentelemetry.io/docs/languages/sdk-configuration/general)
+*   [Cross Encoder Web - a Hugging Face Space by Xenova](https://huggingface.co/spaces/Xenova/cross-encoder-web)
 
 ## Project Ideas
 *   Self-hosted Ollama server with custom evaluators verifying response quality.

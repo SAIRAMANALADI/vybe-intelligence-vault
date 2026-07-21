@@ -1,13 +1,23 @@
 ---
-title: "themkn/clockify-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Clockify API", "npm"]
+title: themkn/clockify-mcp
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Clockify API
+- npm
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "time tracking", "Clockify integration", "Claude Code", "automation"]
-source: "https://github.com/themkn/clockify-mcp"
-discovered_at: "2026-07-21T12:23:49Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- time tracking
+- Clockify integration
+- Claude Code
+- automation
+source: https://github.com/themkn/clockify-mcp
+discovered_at: '2026-07-21T12:23:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

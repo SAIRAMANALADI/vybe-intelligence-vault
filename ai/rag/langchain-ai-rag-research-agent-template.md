@@ -4,11 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-07-21T16:50:44.416012+05:30'
+collected_at: '2026-07-21T19:52:44.412612+05:30'
 published_at: '2026-07-20T04:47:41Z'
 tags:
 - agents
 - github-repo
+- hackernews
+- openai
 - python
 - rag
 - workflows
@@ -20,9 +22,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-07-21T16:50:44.416012+05:30'
-last_seen: '2026-07-21T16:50:44.416012+05:30'
-last_checked: '2026-07-21T16:50:44.416012+05:30'
+first_seen: '2026-07-21T19:52:44.412612+05:30'
+last_seen: '2026-07-21T19:52:44.412612+05:30'
+last_checked: '2026-07-21T19:52:44.412612+05:30'
 health_score: 100
 ---
 
@@ -30,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating document retrieval and synthesis workflows.
+- **Purpose**: Template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating structured experimentation with LLMs and document retrieval pipelines.
 
-- **Structure**: Implements modular Python components for indexing, retrieval, and agent-based query processing, leveraging LangChain’s framework for LLM integration.
+- **Technical Stack**: Python-based, leveraging LangChain’s modular framework for integrating LLMs, vector stores (e.g., FAISS, Chroma), and retrieval strategies (e.g., similarity search, query rewriting).
 
-- **Updates**: Last modified on **2026-07-20**, indicating active maintenance or recent contributions to the template.
+- **Key Components**: Includes pre-configured pipelines for document ingestion, embedding generation (e.g., OpenAI `text-embedding-3-small`), and agentic workflows with tools like `TavilySearchAPIWrapper` for dynamic research agent development.
 
 ## Why It Matters
 

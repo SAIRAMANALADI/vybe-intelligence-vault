@@ -3,9 +3,9 @@ title: GitHub Status
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.githubstatus.com/
-published_at: '2026-07-21T16:56:48.268984+05:30'
-collected_at: '2026-07-21T16:56:48.268998+05:30'
+source_url: https://www.githubstatus.com
+published_at: '2026-07-21T20:01:07.331097+05:30'
+collected_at: '2026-07-21T20:01:07.331107+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-status
-first_seen: '2026-07-21T16:56:48.268998+05:30'
-last_seen: '2026-07-21T16:56:48.268998+05:30'
-last_checked: '2026-07-21T16:56:48.268998+05:30'
+first_seen: '2026-07-21T20:01:07.331107+05:30'
+last_seen: '2026-07-21T20:01:07.331107+05:30'
+last_checked: '2026-07-21T20:01:07.331107+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **SSH Deploy Key Failures**: Intermittent SSH authentication failures affecting connections using deploy keys, under active investigation by GitHub engineering (Jul 21, 2026).
+- **GitHub Status Page** provides real-time operational status for GitHub services (e.g., Git Operations, API Requests, Actions) with 90-day uptime metrics, incident tracking, and regional status pages (AU/EU/JP/US).
 
-- **Service Degradation**: Ongoing performance issues impacting multiple GitHub services, including Copilot AI Model Providers and GitHub Actions (resolved Jul 20, 2026).
+- **Recent Incidents**: SSH deploy key failures (July 21, 2026) due to a code change rollback, GPT 5.3 Codex disruptions (July 20, 2026) from upstream provider errors, and GitHub Actions degradation (July 19–20, 2026) impacting workflows and APIs.
 
-- **Regional Uptime Tracking**: GitHub Enterprise Cloud status monitored across regions (AU/EU/JP/US) with historical uptime metrics (e.g., 99.99% for Git Operations over 90 days).
+- **Notification Channels**: Supports email, SMS (global), Slack, and webhook integrations for incident updates, with privacy compliance via reCAPTCHA and Atlassian/GitHub policies.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T16:56:48.268984+05:30
+- Published: 2026-07-21T20:01:07.331097+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.githubstatus.com/
+Original source: https://www.githubstatus.com

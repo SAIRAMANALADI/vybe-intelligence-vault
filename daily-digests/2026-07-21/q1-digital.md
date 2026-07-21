@@ -1,13 +1,27 @@
 ---
-title: "kreftamarcio/q1-digital"
-category: "UI Component"
-tech_stack: ["Next.js 15", "React 19", "TypeScript", "Tailwind CSS", "PostgreSQL", "Supabase", "Groq/Claude LLM", "Vercel", "Zod"]
+title: kreftamarcio/q1-digital
+category: daily-digests/2026-07-21
+tech_stack:
+- Next.js 15
+- React 19
+- TypeScript
+- Tailwind CSS
+- PostgreSQL
+- Supabase
+- Groq/Claude LLM
+- Vercel
+- Zod
 quality_score: 8
 rag_relevance: 6
-tags: ["AI agent integration", "Next.js landing page", "glassmorphism UI", "serverless architecture", "lead conversion"]
-source: "https://github.com/kreftamarcio/q1-digital"
-discovered_at: "2026-07-18T05:24:07Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent integration
+- Next.js landing page
+- glassmorphism UI
+- serverless architecture
+- lead conversion
+source: https://github.com/kreftamarcio/q1-digital
+discovered_at: '2026-07-18T05:24:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

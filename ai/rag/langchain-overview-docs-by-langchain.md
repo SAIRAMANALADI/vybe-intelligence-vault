@@ -3,9 +3,9 @@ title: LangChain overview - Docs by LangChain
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://python.langchain.com
-published_at: '2026-07-21T16:54:53.296445+05:30'
-collected_at: '2026-07-21T16:54:53.296457+05:30'
+source_url: https://python.langchain.com/docs/concepts/text_splitters/
+published_at: '2026-07-21T19:57:01.377778+05:30'
+collected_at: '2026-07-21T19:57:01.377791+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langchain-overview-docs-by-langchain
-first_seen: '2026-07-21T16:54:53.296457+05:30'
-last_seen: '2026-07-21T16:54:53.296457+05:30'
-last_checked: '2026-07-21T16:54:53.296457+05:30'
+first_seen: '2026-07-21T19:57:01.377791+05:30'
+last_seen: '2026-07-21T19:57:01.377791+05:30'
+last_checked: '2026-07-21T19:57:01.377791+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular Agent Harness**: LangChain's `create_agent` provides a minimal, configurable harness combining model, tools, prompt, and middleware, enabling custom agent composition for specific use cases with support for multiple LLM providers (OpenAI, Anthropic, Google, etc.).
+- **Agent Composition**: `create_agent` in LangChain provides a minimal, configurable harness combining a model (e.g., OpenAI, Anthropic, Google) with tools, prompts, and middleware, enabling custom agent construction via modular primitives.
 
-- **Multi-Framework Architecture**: Agents are built on LangGraph, inheriting durable execution, human-in-the-loop support, and persistence, while LangSmith offers observability for tracing, debugging, and evaluating agent behavior across frameworks.
+- **Multi-Provider Abstraction**: Standardized interface for chat models, embeddings, and tools across providers (OpenAI, Azure, AWS Bedrock, HuggingFace, etc.), allowing seamless model switching with minimal code changes.
 
-- **Standardized Interface & Incremental Capabilities**: Provides a unified model interface for chat/embeddings across providers, allowing seamless switching, and supports incremental harness customization via middleware (guardrails, retries, routing) without over-engineering.
+- **Observability & Debugging**: LangSmith integrates with LangChain/LangGraph agents for tracing, debugging, and evaluating agent behavior, including tool calls, state transitions, and latency metrics.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T16:54:53.296445+05:30
+- Published: 2026-07-21T19:57:01.377778+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://python.langchain.com
+Original source: https://python.langchain.com/docs/concepts/text_splitters/

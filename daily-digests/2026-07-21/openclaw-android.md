@@ -1,13 +1,26 @@
 ---
-title: "8crsk/openclaw-android"
-category: "Agent Framework"
-tech_stack: ["Kotlin", "Android SDK", "Node.js (embedded as libnode.so)", "LLM APIs (NVIDIA, OpenAI, Anthropic, Google Gemini)", "AccessibilityService", "WebSocket RPC", "Android Keystore", "Composio (for MCP tool integrations)"]
+title: 8crsk/openclaw-android
+category: daily-digests/2026-07-21
+tech_stack:
+- Kotlin
+- Android SDK
+- Node.js (embedded as libnode.so)
+- LLM APIs (NVIDIA, OpenAI, Anthropic, Google Gemini)
+- AccessibilityService
+- WebSocket RPC
+- Android Keystore
+- Composio (for MCP tool integrations)
 quality_score: 9
 rag_relevance: 7
-tags: ["on-device AI", "Android automation", "accessibility service", "agentic workflows", "privacy-focused"]
-source: "https://github.com/8crsk/openclaw-android"
-discovered_at: "2026-07-21T12:23:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- on-device AI
+- Android automation
+- accessibility service
+- agentic workflows
+- privacy-focused
+source: https://github.com/8crsk/openclaw-android
+discovered_at: '2026-07-21T12:23:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,22 @@
 ---
-title: "danya120o3/processhacker-mcp"
-category: "Tooling"
-tech_stack: ["C++", "Windows API", "AI Debugging", "Process Hacking"]
+title: danya120o3/processhacker-mcp
+category: daily-digests/2026-07-21
+tech_stack:
+- C++
+- Windows API
+- AI Debugging
+- Process Hacking
 quality_score: 6
 rag_relevance: 4
-tags: ["Windows process analysis", "AI debugging", "reverse engineering", "malware analysis", "system monitoring"]
-source: "https://github.com/danya120o3/processhacker-mcp"
-discovered_at: "2026-07-12T23:52:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Windows process analysis
+- AI debugging
+- reverse engineering
+- malware analysis
+- system monitoring
+source: https://github.com/danya120o3/processhacker-mcp
+discovered_at: '2026-07-12T23:52:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

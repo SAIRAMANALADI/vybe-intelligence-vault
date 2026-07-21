@@ -1,13 +1,28 @@
 ---
-title: "yunhaoli24/codex-gateway"
-category: "UI Component"
-tech_stack: ["Nuxt.js", "Vue.js", "TypeScript", "Tailwind CSS", "Playwright", "Docker", "SQLite", "SSH", "WebSocket", "Pinia"]
+title: yunhaoli24/codex-gateway
+category: daily-digests/2026-07-21
+tech_stack:
+- Nuxt.js
+- Vue.js
+- TypeScript
+- Tailwind CSS
+- Playwright
+- Docker
+- SQLite
+- SSH
+- WebSocket
+- Pinia
 quality_score: 9
 rag_relevance: 7
-tags: ["Codex", "SSH Gateway", "Web UI", "Agent Management", "Remote Sessions"]
-source: "https://github.com/yunhaoli24/codex-gateway"
-discovered_at: "2026-07-10T13:10:56Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- Codex
+- SSH Gateway
+- Web UI
+- Agent Management
+- Remote Sessions
+source: https://github.com/yunhaoli24/codex-gateway
+discovered_at: '2026-07-10T13:10:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

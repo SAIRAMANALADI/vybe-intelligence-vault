@@ -1,13 +1,26 @@
 ---
-title: "fightheyyy/barena"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "CLI/TUI", "XiaobaOS", "OpenClaw", "Hermes", "SkillsBench", "Mermaid.js"]
+title: fightheyyy/barena
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- CLI/TUI
+- XiaobaOS
+- OpenClaw
+- Hermes
+- SkillsBench
+- Mermaid.js
 quality_score: 8
 rag_relevance: 9
-tags: ["agent evaluation", "release gating", "behavioral testing", "AI harness evolution", "regression prevention"]
-source: "https://github.com/fightheyyy/barena"
-discovered_at: "2026-07-21T10:24:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- agent evaluation
+- release gating
+- behavioral testing
+- AI harness evolution
+- regression prevention
+source: https://github.com/fightheyyy/barena
+discovered_at: '2026-07-21T10:24:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

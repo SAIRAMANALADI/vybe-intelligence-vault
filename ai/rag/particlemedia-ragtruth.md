@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-07-21T16:50:19.312021+05:30'
+collected_at: '2026-07-21T19:52:19.372727+05:30'
 published_at: '2026-07-20T20:54:26Z'
 tags:
 - benchmark
 - dataset
 - github-repo
 - hackernews
-- models
 - python
 - rag
 stars: 260
@@ -22,9 +21,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-07-21T16:50:19.312021+05:30'
-last_seen: '2026-07-21T16:50:19.312021+05:30'
-last_checked: '2026-07-21T16:50:19.312021+05:30'
+first_seen: '2026-07-21T19:52:19.372727+05:30'
+last_seen: '2026-07-21T19:52:19.372727+05:30'
+last_checked: '2026-07-21T19:52:19.372727+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the reliability of Retrieval-Augmented Generation (RAG) systems by identifying and quantifying hallucinations in LLM outputs.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and quantifying hallucinations in generated outputs.
 
-- **Technical Composition**: Contains annotated hallucination data (e.g., counterfactual, irrelevant, or unsupported claims) generated via synthetic augmentation and real-world RAG pipeline interactions, with Python-based preprocessing scripts.
+- **Technical Composition**: Contains structured hallucination annotations (e.g., factual inconsistencies, unsupported claims) paired with retrieval contexts, enabling fine-grained analysis of RAG model failures in real-world scenarios.
 
-- **Evaluation Framework**: Provides benchmarks and metrics (e.g., hallucination rate, precision/recall) to assess trustworthiness, alongside tools for fine-tuning RAG models to mitigate false or misleading responses.
+- **Implementation**: Provides a Python-based framework for dataset generation, evaluation metrics, and baseline model training/testing, with tools for automated hallucination detection and mitigation strategies.
 
 ## Why It Matters
 

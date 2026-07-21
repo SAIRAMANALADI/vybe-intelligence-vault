@@ -1,19 +1,18 @@
 ---
 title: All-in-one incident management platform | incident.io
 archive_category: frontend-ai-ui
-source_category: ai/rag
+source_category: ai/resources
 source_url: https://incident.io?utm_source=medium&utm_medium=status-pages
 resource_id: blog:all-in-one-incident-management-platform-incident-i
-local_vault_path: ai/rag/all-in-one-incident-management-platform-incident-i.md
+local_vault_path: ai/resources/all-in-one-incident-management-platform-incident-i.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- rag
+- hackernews
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -32,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **AI-powered alert noise reduction**: Filters and prioritizes critical alerts to minimize false positives and unnecessary pages, optimizing incident response workflows.
+- **AI-Powered Alert Reduction**: Utilizes machine learning to filter and prioritize alerts, minimizing unnecessary pages and reducing on-call noise for faster incident resolution.
 
-- **Automated scheduling & escalation**: Dynamically assigns on-call duties with smart rotation, ensuring optimal coverage while accounting for team availability and workload.
+- **Automated Scheduling & Escalation**: Implements dynamic, AI-driven rotation schedules with intelligent escalation policies to ensure the right responders are engaged based on incident severity and team availability.
 
-- **Real-time incident trends & analytics**: Provides actionable insights via mobile and web dashboards, tracking response times, incident frequency, a
+- **Real-Time On-Call Analytics**: Provides trend analysis and performance metrics via a mobile a
 
 ## Use Cases
 
@@ -50,4 +49,4 @@ Original source URL: https://incident.io?utm_source=medium&utm_medium=status-pag
 
 ## Local Vault File
 
-Path: [all-in-one-incident-management-platform-incident-i.md](../../ai/rag/all-in-one-incident-management-platform-incident-i.md)
+Path: [all-in-one-incident-management-platform-incident-i.md](../../ai/resources/all-in-one-incident-management-platform-incident-i.md)

@@ -4,15 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-07-21T16:50:39.290665+05:30'
+collected_at: '2026-07-21T19:52:39.362239+05:30'
 published_at: '2026-07-21T09:46:41Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - javascript
 - meta-ai
 - models
 - rag
+- workflows
 stars: 1478
 language: JavaScript
 status: active
@@ -21,9 +23,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-07-21T16:50:39.290665+05:30'
-last_seen: '2026-07-21T16:50:39.290665+05:30'
-last_checked: '2026-07-21T16:50:39.290665+05:30'
+first_seen: '2026-07-21T19:52:39.362239+05:30'
+last_seen: '2026-07-21T19:52:39.362239+05:30'
+last_checked: '2026-07-21T19:52:39.362239+05:30'
 health_score: 100
 ---
 
@@ -31,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline in JavaScript using `node-llama-cpp` for local LLM integration, avoiding proprietary APIs or black-box systems.
-- **Core Components**: Covers embeddings generation, vector search (likely via cosine similarity or FAISS), retrieval mechanisms, and context-augmented generation with hands-on code examples.
-- **Educational Focus**: Provides a step-by-step tutorial to deconstruct RAG, emphasizing transparency in embeddings, retrieval logic, and prompt augmentation for Node.js environments.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using **JavaScript/Node.js**, leveraging `node-llama-cpp` for local LLM integration without proprietary APIs or "black boxes".
+- **Core Components**: Covers end-to-end technical workflow—**embeddings generation**, **vector search/indexing**, **retrieval augmentation**, and **context-augmented generation**—with a focus on educational transparency.
+- **Tooling & Extensibility**: Built for modularity, supporting **AI agents**, custom **RAG pipelines**, and **chatbot applications** while avoiding cloud dependencies for offline/local use.
 
 ## Why It Matters
 

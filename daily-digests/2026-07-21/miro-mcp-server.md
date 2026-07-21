@@ -1,13 +1,25 @@
 ---
-title: "olgasafonova/miro-mcp-server"
-category: "Tooling"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "Docker", "Homebrew", "GitHub Actions", "Mermaid.js", "SQLite"]
+title: olgasafonova/miro-mcp-server
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- Docker
+- Homebrew
+- GitHub Actions
+- Mermaid.js
+- SQLite
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Miro integration", "AI automation", "whiteboard control", "workshop orchestration"]
-source: "https://github.com/olgasafonova/miro-mcp-server"
-discovered_at: "2026-07-21T10:24:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- Miro integration
+- AI automation
+- whiteboard control
+- workshop orchestration
+source: https://github.com/olgasafonova/miro-mcp-server
+discovered_at: '2026-07-21T10:24:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

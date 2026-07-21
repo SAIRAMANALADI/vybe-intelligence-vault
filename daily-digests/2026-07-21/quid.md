@@ -1,13 +1,30 @@
 ---
-title: "gossipgirlonchain/quid"
-category: "Agent Framework"
-tech_stack: ["Odra (Rust)", "Casper blockchain", "TypeScript", "React", "Plaid SDK", "casper-js-sdk", "Supabase", "Vercel", "Tailwind CSS", "Stripe Billing", "Ramp Network", "CEP-18 (dUSDC)"]
+title: gossipgirlonchain/quid
+category: daily-digests/2026-07-21
+tech_stack:
+- Odra (Rust)
+- Casper blockchain
+- TypeScript
+- React
+- Plaid SDK
+- casper-js-sdk
+- Supabase
+- Vercel
+- Tailwind CSS
+- Stripe Billing
+- Ramp Network
+- CEP-18 (dUSDC)
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous agent", "on-chain lending", "Casper blockchain", "stablecoin advances", "reputation system"]
-source: "https://github.com/gossipgirlonchain/quid"
-discovered_at: "2026-07-21T12:23:43Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- autonomous agent
+- on-chain lending
+- Casper blockchain
+- stablecoin advances
+- reputation system
+source: https://github.com/gossipgirlonchain/quid
+discovered_at: '2026-07-21T12:23:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

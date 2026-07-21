@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-07-21T16:51:09.340095+05:30'
+collected_at: '2026-07-21T19:53:09.389616+05:30'
 published_at: '2026-07-16T10:59:46Z'
 tags:
+- frontend_ui
 - github-repo
+- models
 - python
 - rag
-- workflows
 stars: 158
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-07-21T16:51:09.340095+05:30'
-last_seen: '2026-07-21T16:51:09.340095+05:30'
-last_checked: '2026-07-21T16:51:09.340095+05:30'
+first_seen: '2026-07-21T19:53:09.389616+05:30'
+last_seen: '2026-07-21T19:53:09.389616+05:30'
+last_checked: '2026-07-21T19:53:09.389616+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Search Integration**: Demonstrates combining vector similarity search with traditional keyword-based retrieval in a LangChain-powered RAG pipeline for enhanced document retrieval accuracy.
+- **Hybrid Search Implementation**: Demonstrates combining vector similarity search with traditional keyword-based retrieval in a LangChain-based RAG pipeline for enhanced document retrieval accuracy.
 
-- **Streamlit UI**: Provides a web interface built with Streamlit to interactively query and visualize RAG-based responses using a vector store backend.
+- **Streamlit Integration**: Uses Streamlit for a reactive UI to interact with the RAG system, enabling dynamic query input and result visualization.
 
-- **LangChain Workflow**: Implements a retrieval-augmented generation workflow with hybrid search, leveraging LangChain's modular components for document processing and LLM integration.
+- **Vectorstore Utilization**: Leverages a vector database (e.g., FAISS or Chroma) for efficient storage and retrieval of embeddings, supporting hybrid search with configurable weights for semantic and lexical matching.
 
 ## Why It Matters
 

@@ -1,18 +1,19 @@
 ---
 title: arXiv + Replicate | Replicate
 archive_category: model-providers
-source_category: ai/resources
+source_category: ai/rag
 source_url: https://replicate.com/docs/arxiv/about
 resource_id: blog:arxiv-replicate-replicate
-local_vault_path: ai/resources/arxiv-replicate-replicate.md
+local_vault_path: ai/rag/arxiv-replicate-replicate.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- openai
+- rag
 - web-crawled
+- youtube
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -31,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **FLUX.2-Max**: Highest-fidelity image generation model from Black Forest Labs, with 3.7M runs on Replicate, optimized for photorealistic outputs.
-- **Krea-2-Medium**: Foundation image model tuned for expressive illustration, anime, and painterly styles, achieving 17.6K runs with fast, consistent artistic performance.
-- **GPT-Image-2**: OpenAI’s state-of-the-art text-to-image model (15.4M runs) excelling in instruction following, text rendering, and image editing capabilities.
+- **Nano-Banana-2**: Google's lightweight diffusion-based image generation model enabling real-time conversational editing, multi-image fusion, and character consistency with 15M+ public runs.
+- **Grok-Imagine-Video**: xAI's autoregressive video generation model leveraging transformer architecture for high-quality video synthesis, achieving 1.4M+ public runs.
+- **Flux-2-Max**: Black Forest Labs' high-fidelity latent diffusion model optimized for photorealistic image generation, surpassing prior
 
 ## Use Cases
 
@@ -47,4 +48,4 @@ Original source URL: https://replicate.com/docs/arxiv/about
 
 ## Local Vault File
 
-Path: [arxiv-replicate-replicate.md](../../ai/resources/arxiv-replicate-replicate.md)
+Path: [arxiv-replicate-replicate.md](../../ai/rag/arxiv-replicate-replicate.md)

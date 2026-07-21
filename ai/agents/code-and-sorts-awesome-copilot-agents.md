@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Code-and-Sorts/awesome-copilot-agents
-collected_at: '2026-07-21T16:52:14.361076+05:30'
+collected_at: '2026-07-21T19:54:19.423185+05:30'
 published_at: '2026-07-20T22:59:31Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - typescript
-- workflows
 stars: 553
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-19T17:37:01Z'
 pushed_at: '2026-04-29T06:42:59Z'
 resource_id: github:code-and-sorts/awesome-copilot-agents
-first_seen: '2026-07-21T16:52:14.361076+05:30'
-last_seen: '2026-07-21T16:52:14.361076+05:30'
-last_checked: '2026-07-21T16:52:14.361076+05:30'
+first_seen: '2026-07-21T19:54:19.423185+05:30'
+last_seen: '2026-07-21T19:54:19.423185+05:30'
+last_checked: '2026-07-21T19:54:19.423185+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: Repository providing a structured collection of GitHub Copilot custom instructions, prompts, skills, MCP (Model Context Protocol) configurations, and agent markdown files to optimize AI agent interactions.
-- **Technical Scope**: Focuses on enhancing GitHub Copilot's capabilities via TypeScript-based agent skills, prompt engineering, and VS Code Copilot Chat integrations for advanced AI-driven workflows.
-- **Metadata**: 553 stars, 93 forks, last updated July 20, 2026, covering topics like AI agents, prompt engineering, and custom Copilot configurations.
+- **Curated Resource**: A GitHub repository (`Code-and-Sorts/awesome-copilot-agents`) hosting a structured collection of GitHub Copilot custom instructions, prompts, skills, MCP (Model Context Protocol) configurations, and agent markdown files to optimize AI agent interactions.
+
+- **Technical Scope**: Focuses on enhancing GitHub Copilot's capabilities via prompt engineering, custom agent development, and VS Code Copilot Chat integration, with TypeScript-based implementations and modular MCP support.
+
+- **Community Metrics**: Maintains 553 stars and 93 forks as of the last update (2026-07-20), reflecting active community engagement in AI agent tooling and Copilot customization.
 
 ## Why It Matters
 

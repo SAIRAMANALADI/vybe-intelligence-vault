@@ -1,13 +1,24 @@
 ---
-title: "dorukardahan/nole"
-category: "Orchestrator"
-tech_stack: ["Go", "Python (optional for Scrapling)", "MCP (Model Context Protocol)", "Bash/Shell Scripting", "JSON/YAML Configuration", "HTTP/HTTPS Protocols"]
+title: dorukardahan/nole
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- Python (optional for Scrapling)
+- MCP (Model Context Protocol)
+- Bash/Shell Scripting
+- JSON/YAML Configuration
+- HTTP/HTTPS Protocols
 quality_score: 9
 rag_relevance: 10
-tags: ["web search", "BYOK", "agent integration", "routing layer", "content extraction"]
-source: "https://github.com/dorukardahan/nole"
-discovered_at: "2026-07-20T02:45:03Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- web search
+- BYOK
+- agent integration
+- routing layer
+- content extraction
+source: https://github.com/dorukardahan/nole
+discovered_at: '2026-07-20T02:45:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

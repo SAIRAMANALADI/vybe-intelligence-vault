@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/deepset-ai/haystack-cookbook/
-collected_at: '2026-07-21T03:53:10.718024+05:30'
-published_at: '2026-07-20T11:27:35Z'
+collected_at: '2026-07-21T19:59:37.173130+05:30'
+published_at: '2026-07-21T12:39:19Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 - workflows
@@ -18,11 +17,11 @@ language: Jupyter Notebook
 status: active
 archived: false
 created_at: '2024-01-02T12:11:38Z'
-pushed_at: '2026-07-20T21:10:12Z'
+pushed_at: '2026-07-21T12:36:46Z'
 resource_id: github:deepset-ai/haystack-cookbook
-first_seen: '2026-07-21T03:53:10.718024+05:30'
-last_seen: '2026-07-21T03:53:10.718024+05:30'
-last_checked: '2026-07-21T03:53:10.718024+05:30'
+first_seen: '2026-07-21T19:59:37.173130+05:30'
+last_seen: '2026-07-21T19:59:37.173130+05:30'
+last_checked: '2026-07-21T19:59:37.173130+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Collection of Jupyter Notebooks demonstrating practical implementations of Haystack, an open-source framework for building search and question-answering systems with LLMs.
-- **Content Focus**: Showcases agentic AI workflows, RAG (Retrieval-Augmented Generation) applications, and GenAI use cases using Haystack's Python API.
-- **Technical Stack**: Primarily Python-based, leveraging Jupyter Notebooks for interactive examples in AI-driven search and agentic systems.
+- **Purpose**: Repository of Jupyter Notebooks demonstrating practical implementations of Haystack, a framework for building search and question-answering systems.
+- **Content**: Includes examples for agentic AI, generative AI use cases, and retrieval-augmented generation (RAG) pipelines using Haystack's Python library.
+- **Metadata**: 546 stars, 127 forks, last updated July 21, 2026; covers topics like AI agents, GenAI applications, and Python-based RAG workflows.
 
 ## Why It Matters
 
@@ -42,13 +41,13 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: deepset-ai
 - Stars: 546
-- Forks: 126
+- Forks: 127
 - Language: Jupyter Notebook
 - Topics: agentic, agentic-ai, agents, ai, ai-tools, genai, genai-usecases, haystack-ai, python, rag
-- Last Updated: 2026-07-20T11:27:35Z
+- Last Updated: 2026-07-21T12:39:19Z
 - Archived: No
 - Created At: 2024-01-02T12:11:38Z
-- Pushed At: 2026-07-20T21:10:12Z
+- Pushed At: 2026-07-21T12:36:46Z
 
 ## Possible Use Cases
 

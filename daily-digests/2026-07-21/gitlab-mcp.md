@@ -1,13 +1,23 @@
 ---
-title: "sgaunet/gitlab-mcp"
-category: "Agent Framework"
-tech_stack: ["Go", "GitLab API", "Model Context Protocol (MCP)", "Docker", "Claude Code"]
+title: sgaunet/gitlab-mcp
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- GitLab API
+- Model Context Protocol (MCP)
+- Docker
+- Claude Code
 quality_score: 9
 rag_relevance: 7
-tags: ["GitLab", "MCP", "Claude Code", "CI/CD", "Issue Management"]
-source: "https://github.com/sgaunet/gitlab-mcp"
-discovered_at: "2026-07-14T20:09:38Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- GitLab
+- MCP
+- Claude Code
+- CI/CD
+- Issue Management
+source: https://github.com/sgaunet/gitlab-mcp
+discovered_at: '2026-07-14T20:09:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

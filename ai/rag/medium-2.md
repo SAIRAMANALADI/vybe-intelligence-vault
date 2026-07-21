@@ -3,18 +3,20 @@ title: Medium
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://about.medium.com/
-published_at: '2026-07-21T16:56:04.470162+05:30'
-collected_at: '2026-07-21T16:56:04.470176+05:30'
+source_url: https://policy.medium.com/medium-privacy-policy-f03bf92035c9
+published_at: '2026-07-21T20:01:04.935884+05:30'
+collected_at: '2026-07-21T20:01:04.935897+05:30'
 tags:
+- agents
 - hackernews
 - rag
 - web-crawled
+- youtube
 status: active
 resource_id: blog:medium
-first_seen: '2026-07-21T16:56:04.470176+05:30'
-last_seen: '2026-07-21T16:56:04.470176+05:30'
-last_checked: '2026-07-21T16:56:04.470176+05:30'
+first_seen: '2026-07-21T20:01:04.935897+05:30'
+last_seen: '2026-07-21T20:01:04.935897+05:30'
+last_checked: '2026-07-21T20:01:04.935897+05:30'
 health_score: 100
 ---
 
@@ -22,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Purpose**: Medium is a content publishing platform designed to prioritize depth, nuance, and thoughtful discourse over sensationalism, leveraging a subscription-based model (1M+ members) to avoid ad-driven or data-selling monetization strategies.
+- **Data Collection & Sources**: Medium collects user-provided data (e.g., name, email, posts, payment info via third-party processors) and automatically gathers activity, device, and usage data (IP addresses, cookies, device identifiers) for service improvement, analytics, and personalization.
 
-- **User Demographics & Content Scope**: Hosts over 100M monthly active users (developers, designers, executives, etc.) who publish long-form articles, personal essays, and technical insights, fostering a collaborative space for knowledge-sharing without requiring pre-existing audiences.
+- **Data Sharing & Legal Compliance**: Personal data is shared with service providers (e.g., analytics, fraud prevention), third-party embeds (e.g., YouTube videos), and under legal obligations (e.g., law enforcement requests), including cross-border transfers to the U.S. and other jurisdictions with varying data protection standards.
 
-- **Technical Infrastructure**: Utilizes a sitemap.xml for SEO and content discovery, with a clean, minimalist UX optimized for readability and engagement, while backend systems support seamless publishing and subscription management.
+- **User Control & Rights**: Users can access, correct, or delete account data, opt out of communications, and manage cookie preferences, though some data retention may persist for legal or business purposes. California residents have additional rights under CCPA.
 
 ## Why It Matters
 
@@ -36,14 +38,16 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T16:56:04.470162+05:30
+- Published: 2026-07-21T20:01:04.935884+05:30
 
 ## Related Tags
 
+- agents
 - hackernews
 - rag
 - web-crawled
+- youtube
 
 ## Source
 
-Original source: https://about.medium.com/
+Original source: https://policy.medium.com/medium-privacy-policy-f03bf92035c9

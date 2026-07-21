@@ -1,13 +1,21 @@
 ---
-title: "eugenelabonarsky/votura-mcp"
-category: "Tooling"
-tech_stack: ["Model Context Protocol (MCP)", "REST API", "JSON"]
+title: eugenelabonarsky/votura-mcp
+category: daily-digests/2026-07-21
+tech_stack:
+- Model Context Protocol (MCP)
+- REST API
+- JSON
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP Server", "Audio Tours", "Points of Interest", "Travel AI", "Geospatial Search"]
-source: "https://github.com/eugenelabonarsky/votura-mcp"
-discovered_at: "2026-07-21T10:24:47Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP Server
+- Audio Tours
+- Points of Interest
+- Travel AI
+- Geospatial Search
+source: https://github.com/eugenelabonarsky/votura-mcp
+discovered_at: '2026-07-21T10:24:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

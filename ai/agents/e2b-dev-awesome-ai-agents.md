@@ -4,16 +4,18 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/e2b-dev/awesome-ai-agents
-collected_at: '2026-07-21T16:53:04.498488+05:30'
-published_at: '2026-07-21T11:16:36Z'
+collected_at: '2026-07-21T19:55:04.761026+05:30'
+published_at: '2026-07-21T14:19:52Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - models
 - openai
 - scripts
 - unknown
-stars: 28974
+- workflows
+stars: 28979
 language: Unknown
 status: active
 license: NOASSERTION
@@ -21,9 +23,9 @@ archived: false
 created_at: '2023-06-19T00:20:06Z'
 pushed_at: '2026-07-09T17:41:48Z'
 resource_id: github:e2b-dev/awesome-ai-agents
-first_seen: '2026-07-21T16:53:04.498488+05:30'
-last_seen: '2026-07-21T16:53:04.498488+05:30'
-last_checked: '2026-07-21T16:53:04.498488+05:30'
+first_seen: '2026-07-21T19:55:04.761026+05:30'
+last_seen: '2026-07-21T19:55:04.761026+05:30'
+last_checked: '2026-07-21T19:55:04.761026+05:30'
 health_score: 100
 ---
 
@@ -31,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Repository hosting a comprehensive, community-driven list of AI autonomous agents, frameworks, and tools (e.g., AutoGPT, BabyAGI, GPT-Engineer) for research and development in artificial intelligence.
-- **Multi-Topic Scope**: Covers Python-based implementations, OpenAI integrations (GPT-4), and tools like Copilot, emphasizing autonomous agent architectures and AI-driven automation.
-- **High Activity**: Maintained with frequent updates (last commit: 2026-07-21), reflecting active community engagement with 28,974 stars and 3,208 forks.
+- **Curated List of AI Autonomous Agents**: Repository aggregating cutting-edge autonomous AI agents, including projects like AutoGPT, BabyAGI, GPT-Engineer, and Copilot, with focus on Python-based implementations and OpenAI/GPT-4 integrations.
+
+- **High Community Engagement**: Maintains 28,979+ stars and 3,210+ forks, indicating strong industry adoption and collaborative development in the autonomous AI agent ecosystem.
+
+- **Technical Breadth**: Covers diverse agent architectures (e.g., task automation, code generation, decision-making) with topics spanning artificial intelligence, autonomous systems, and tooling for AI-driven workflows.
 
 ## Why It Matters
 
@@ -42,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: e2b-dev
-- Stars: 28974
-- Forks: 3208
+- Stars: 28979
+- Forks: 3210
 - Language: Unknown
 - Topics: agent, ai, artificial-intelligence, autogpt, autonomous-agents, awesome, babyagi, copilot, gpt, gpt-4, gpt-engineer, openai, python
-- Last Updated: 2026-07-21T11:16:36Z
+- Last Updated: 2026-07-21T14:19:52Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-06-19T00:20:06Z

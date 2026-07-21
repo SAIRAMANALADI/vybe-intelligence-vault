@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- hackernews
 - rag
 - reddit
 - scripts
@@ -35,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Actions Security Enhancements**: Nicole Choi's work focuses on improving security in GitHub Actions, including vulnerability detection and mitigation strategies for CI/CD pipelines.
-- **Open Source Contributions**: Active contributor to GitHub's open-source initiatives, particularly in tooling and automation for developer workflows.
-- **Community Engagement**: Regularly publishes technical content and engages with the developer community to promote secure coding practices and best pra
+- **GitHub Actions Workflow Optimization**: Nicole Choi contributes to GitHub's documentation and best practices for optimizing CI/CD workflows using GitHub Actions, focusing on performance tuning and cost reduction.
+
+- **Security and Compliance in CI/CD**: Advocates for integrating security scanning (e.g., SAST, DAST) and compliance checks (e.g., OWASP, SOC2) into GitHub Actions pipelines to enforce secure software delivery.
+
+- **Open-Source Community Engagement**: Actively participates in GitH
 
 ## Use Cases
 

@@ -1,13 +1,24 @@
 ---
-title: "CursorTouch/MacOS-MCP"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Accessibility API", "AppleScript", "uv (package manager)", "launchd (for service management)"]
+title: CursorTouch/MacOS-MCP
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Accessibility API
+- AppleScript
+- uv (package manager)
+- launchd (for service management)
 quality_score: 9
 rag_relevance: 9
-tags: ["macOS automation", "UI interaction", "MCP server", "AI agent integration", "system control"]
-source: "https://github.com/CursorTouch/MacOS-MCP"
-discovered_at: "2026-07-15T16:21:11Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- macOS automation
+- UI interaction
+- MCP server
+- AI agent integration
+- system control
+source: https://github.com/CursorTouch/MacOS-MCP
+discovered_at: '2026-07-15T16:21:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://vercel.com
-published_at: '2026-07-21T09:24:04.213633+05:30'
-collected_at: '2026-07-21T09:24:04.213641+05:30'
+published_at: '2026-07-21T20:03:27.768085+05:30'
+collected_at: '2026-07-21T20:03:27.768098+05:30'
 tags:
 - agents
 - rag
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:agentic-infrastructure-vercel
-first_seen: '2026-07-21T09:24:04.213641+05:30'
-last_seen: '2026-07-21T09:24:04.213641+05:30'
-last_checked: '2026-07-21T09:24:04.213641+05:30'
+first_seen: '2026-07-21T20:03:27.768098+05:30'
+last_seen: '2026-07-21T20:03:27.768098+05:30'
+last_checked: '2026-07-21T20:03:27.768098+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Deployment Infrastructure**: Enables autonomous deployment of apps and agents via Vercel's API, CLI, MCP, and Skills, with sandboxed VMs, durable backends, and error resolution via automated PRs.
+- **Agentic Infrastructure**: Vercel provides a deployment platform for AI agents and applications, enabling autonomous error investigation, planning fixes, and PR creation via agentic workflows, with support for sandboxed VMs and durable backends.
 
-- **Multi-Model Compute & Orchestration**: Supports durable orchestration, sandboxed environments, AI model gateway, and fluid compute for scalable agentic workflows (e.g., Notion handling millions of agent conversations).
+- **Multi-Model & Multi-Language Support**: Enables agents to deploy in their native languages using Vercel’s API, CLI, MCP, and Skills, with AI Model Gateway facilitating access to hundreds of models.
 
-- **Enterprise-Grade Hosting Features**: Provides tenant isolation, domain management, custom SSL, global delivery, WAF, and preview URLs for hosting platforms (e.g., Zapier, Mintlify) with zero-to-millions scalability.
+- **Scalable Hosting Features**: Offers global delivery, serverless functions, tenant isolation, and custom SSL certificates, supporting platforms like Notion, Zapier, and Mintlify with zero-to-millions scalability.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T09:24:04.213633+05:30
+- Published: 2026-07-21T20:03:27.768085+05:30
 
 ## Related Tags
 

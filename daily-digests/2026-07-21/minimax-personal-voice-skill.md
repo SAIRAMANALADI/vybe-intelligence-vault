@@ -1,13 +1,22 @@
 ---
-title: "chojemmy/minimax-personal-voice-skill"
-category: "Tooling"
-tech_stack: ["Python", "MiniMax API", "FFmpeg (for audio preprocessing)", "Shell scripting"]
+title: chojemmy/minimax-personal-voice-skill
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- MiniMax API
+- FFmpeg (for audio preprocessing)
+- Shell scripting
 quality_score: 8
 rag_relevance: 6
-tags: ["voice cloning", "TTS", "AI agent integration", "audio generation", "personalization"]
-source: "https://github.com/chojemmy/minimax-personal-voice-skill"
-discovered_at: "2026-07-21T07:32:08Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- voice cloning
+- TTS
+- AI agent integration
+- audio generation
+- personalization
+source: https://github.com/chojemmy/minimax-personal-voice-skill
+discovered_at: '2026-07-21T07:32:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

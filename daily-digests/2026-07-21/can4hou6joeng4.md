@@ -1,13 +1,24 @@
 ---
-title: "can4hou6joeng4/can4hou6joeng4"
-category: "Tooling"
-tech_stack: ["GitHub Profile README", "Swift", "SwiftUI", "Next.js", "Cloudflare Workers", "Python"]
+title: can4hou6joeng4/can4hou6joeng4
+category: daily-digests/2026-07-21
+tech_stack:
+- GitHub Profile README
+- Swift
+- SwiftUI
+- Next.js
+- Cloudflare Workers
+- Python
 quality_score: 5
 rag_relevance: 4
-tags: ["AI agent development", "developer tools", "portfolio showcase", "automation", "local-first"]
-source: "https://github.com/can4hou6joeng4/can4hou6joeng4"
-discovered_at: "2026-07-18T13:09:53Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- AI agent development
+- developer tools
+- portfolio showcase
+- automation
+- local-first
+source: https://github.com/can4hou6joeng4/can4hou6joeng4
+discovered_at: '2026-07-18T13:09:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

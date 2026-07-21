@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-50%2C372-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-98%2C276-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--21-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **50,372 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **98,276 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 12,209</p>
-        <p><b>Active:</b> 11,946 | <b>Inactive:</b> 263</p>
+        <p><b>Resources tracked:</b> 13,227</p>
+        <p><b>Active:</b> 12,963 | <b>Inactive:</b> 264</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,025</p>
+        <p><b>Archive Files:</b> 48,932</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 50,372 files</p>
-        <p><b>Last Update:</b> 2026-07-21 17:54 IST</p>
+        <p><b>Total Vault Size:</b> 98,276 files</p>
+        <p><b>Last Update:</b> 2026-07-21 20:09 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,26 +210,25 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Who's afraid of Chinese models?](ai/community/who-s-afraid-of-chinese-models.md)** • <kbd>+86 pts</kbd>
-- 🔼 **[China’s open-weights AI strategy is winning](ai/community/american-ai-is-locked-down-and-proprietary-it-s-lo.md)** • <kbd>+27 pts</kbd>
-- 🔼 **[My two year old taught me constraint solving](ai/community/my-two-year-old-taught-me-constraint-solving.md)** • <kbd>+12 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste](ai/community/a-koi-pond-mosaic-made-from-10-pounds-of-3d-printe.md)** • <kbd>+6 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12](ai/community/launch-hn-bloomy-yc-s26-ai-powered-mastery-learnin.md)** • <kbd>+4 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](ai/community/qwen-image-3-0-rich-content-authentic-details-deep.md)** • <kbd>+176 pts</kbd>
+- 🔼 **[Who's afraid of Chinese models?](ai/community/who-s-afraid-of-chinese-models.md)** • <kbd>+110 pts</kbd>
+- 🔼 **[China’s open-weights AI strategy is winning](ai/community/american-ai-is-locked-down-and-proprietary-it-s-lo.md)** • <kbd>+46 pts</kbd>
+- 🔼 **[A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste](ai/community/a-koi-pond-mosaic-made-from-10-pounds-of-3d-printe.md)** • <kbd>+15 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12](ai/community/launch-hn-bloomy-yc-s26-ai-powered-mastery-learnin.md)** • <kbd>+4 pts</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](ai/community/qwen-image-3-0-rich-content-authentic-details-deep.md)** • Score: `145`
-- 🆕 **[Technion Live Hebrew Edition - Registration Form](ai/resources/technion-live-hebrew-edition-registration-form.md)** • Score: `0`
-- 🆕 **[הטכניון - מכון טכנולוגי לישראל](ai/resources/htknyvn-mkvn-tknvlvgy-lyshrl.md)** • Score: `0`
-- 🆕 **[Soundwaves settle debate about elusive quantum particle | Cornell Chronicle](ai/rag/soundwaves-settle-debate-about-elusive-quantum-par.md)** • Score: `0`
-- 🆕 **[Home - Cornell Research & Innovation](ai/resources/home-cornell-research-innovation.md)** • Score: `0`
+- 🆕 **[The Linux Kernel documentation — The Linux Kernel documentation](ai/resources/the-linux-kernel-documentation-the-linux-kernel-do.md)** • Score: `0`
+- 🆕 **[mixedbread-ai/skills](ai/rag/mixedbread-ai-skills.md)** • Score: `0`
+- 🆕 **[dblp: computer science bibliography](ai/resources/dblp-computer-science-bibliography.md)** • Score: `0`
+- 🆕 **[GitHub Copilot CLI command reference - GitHub Docs](ai/rag/github-copilot-cli-command-reference-github-docs.md)** • Score: `0`
+- 🆕 **[npm Status](ai/rag/npm-status.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Five US tech giants' hidden debts soar to $1.65T on opaque AI funding](ai/community/five-us-tech-giants-hidden-debts-soar-to-1-65t-on.md)**
-- 💤 **[How we measured AI writing across arXiv, and where the measurement breaks](ai/community/how-we-measured-ai-writing-across-arxiv-and-where.md)**
+- 💤 **[My two year old taught me constraint solving](ai/community/my-two-year-old-taught-me-constraint-solving.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

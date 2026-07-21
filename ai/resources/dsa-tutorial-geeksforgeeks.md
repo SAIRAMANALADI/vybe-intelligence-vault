@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/
-published_at: '2026-07-20T15:11:25.056313+05:30'
-collected_at: '2026-07-20T15:11:25.056326+05:30'
+published_at: '2026-07-21T19:58:27.375461+05:30'
+collected_at: '2026-07-21T19:58:27.375475+05:30'
 tags:
 - benchmark
 - hackernews
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:dsa-tutorial-geeksforgeeks
-first_seen: '2026-07-20T15:11:25.056326+05:30'
-last_seen: '2026-07-20T15:11:25.056326+05:30'
-last_checked: '2026-07-20T15:11:25.056326+05:30'
+first_seen: '2026-07-21T19:58:27.375475+05:30'
+last_seen: '2026-07-21T19:58:27.375475+05:30'
+last_checked: '2026-07-21T19:58:27.375475+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Core Concepts**: DSA (Data Structures and Algorithms) underpins software systems (GPS, search engines, AI, databases) and is critical for interviews at top tech firms (Google, Microsoft, Amazon, etc.), enhancing problem-solving and programming skills.
-- **Curriculum Structure**: Covers fundamentals (programming, complexity analysis), math/pattern/recursion (e.g., Tower of Hanoi, GCD), arrays/strings (e.g., Kadane’s algorithm, matrix traversal), searching (binary search variants, peak finding), and sorting (wave form, merge intervals).
-- **Advanced Topics**: Includes 2D array operations (spiral traversal, Toeplitz matrix), hard problems (lexicographic rank, text justification), and search techniques (search on answer, two-sorted arrays median).
+- **Core Concepts**: DSA (Data Structures & Algorithms) underpins software systems (e.g., GPS, AI chatbots, databases) and is critical for tech interviews at top firms (Google, Microsoft, etc.), enhancing problem-solving skills.
+- **Curriculum Structure**: Step-by-step progression from fundamentals (programming, complexity analysis) to advanced topics (recursion, arrays, strings, searching, sorting) with categorized difficulty (easy/medium/hard) and practical applications (e.g., Kadane’s algorithm, binary search variants).
+- **Specialized Techniques**: Covers niche algorithms (e.g., Josephus problem, Tower of Hanoi) and matrix operations (spiral traversal, Toeplitz checks), alongside optimization problems (e.g., book allocation, Koko eating bananas) using binary search and search-on-answer paradigms.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-20T15:11:25.056313+05:30
+- Published: 2026-07-21T19:58:27.375461+05:30
 
 ## Related Tags
 

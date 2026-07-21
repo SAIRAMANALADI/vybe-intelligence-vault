@@ -1,49 +1,68 @@
 ---
-title: node/SECURITY.md at main · nodejs/node · GitHub
+title: nodejs/node
 category: ai/rag
-source_type: web
-source_name: Web Discovery
-source_url: https://github.com/nodejs/node/blob/main/SECURITY.md
-published_at: '2026-07-21T01:37:11.341186+05:30'
-collected_at: '2026-07-21T01:37:11.341207+05:30'
+source_type: github
+source_name: GitHub Discovery
+source_url: https://github.com/nodejs/node
+collected_at: '2026-07-21T20:02:58.090420+05:30'
+published_at: '2026-07-21T14:00:02Z'
 tags:
-- hackernews
+- github-repo
+- javascript
 - rag
-- web-crawled
+stars: 118338
+language: JavaScript
 status: active
+license: NOASSERTION
+archived: false
+created_at: '2014-11-26T19:57:11Z'
+pushed_at: '2026-07-21T14:02:52Z'
 resource_id: github:nodejs/node
-first_seen: '2026-07-21T01:37:11.341207+05:30'
-last_seen: '2026-07-21T01:37:11.341207+05:30'
-last_checked: '2026-07-21T01:37:11.341207+05:30'
+first_seen: '2026-07-21T20:02:58.090420+05:30'
+last_seen: '2026-07-21T20:02:58.090420+05:30'
+last_checked: '2026-07-21T20:02:58.090420+05:30'
 health_score: 100
 ---
 
-# node/SECURITY.md at main · nodejs/node · GitHub
+# nodejs/node
 
 ## Summary
 
-- Security bugs in Node.js must be reported via [HackerOne](https://hackerone.com/nodejs) with initial acknowledgment within 5 days and detailed response within 10 days; escalation to `security@lists.openjsf.org` is possible if no response is received within 6 business days or 14 days post-acknowledgment.
-
-- Vulnerabilities are validated across all supported Node.js versions, with fixes prepared privately before embargoed disclosure (typically 72 hours post-CVE issuance), followed by public repository commits and Node.js blog advisories within 6 hours of mailing list notification.
-
-- Node.js threat model excludes vulnerabilities requiring compromise of trusted elements (e.g., OS) or affecting experimental platforms/features behind compile-time flags/V8 flags; valid vulnerabilities must enable disclosure/loss of data integrity or runtime unavailability via untrusted inputs.
+- **Runtime Environment**: Node.js is a server-side JavaScript runtime built on Chrome's V8 JavaScript engine, enabling asynchronous, event-driven I/O for scalable network applications.
+- **Cross-Platform Support**: Compatible with Linux, macOS, and Windows, leveraging platform-specific optimizations while maintaining a unified JavaScript API.
+- **MIT Licensed**: Open-source project under the MIT License, fostering community contributions and widespread adoption in enterprise and open-source ecosystems.
 
 ## Why It Matters
 
-General public resource representing technology updates, guides, or tutorials.
+Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
 
-## Details
+## Repository Details
 
-- Source: Web Discovery
-- Category: ai/rag
-- Published: 2026-07-21T01:37:11.341186+05:30
+- Owner: nodejs
+- Stars: 118338
+- Forks: 36197
+- Language: JavaScript
+- Topics: javascript, js, linux, macos, mit, node, nodejs, runtime, windows
+- Last Updated: 2026-07-21T14:00:02Z
+- License: NOASSERTION
+- Archived: No
+- Created At: 2014-11-26T19:57:11Z
+- Pushed At: 2026-07-21T14:02:52Z
 
-## Related Tags
+## Possible Use Cases
 
-- hackernews
-- rag
-- web-crawled
+- Learn implementation patterns
+- Extract reusable components
+- Study architecture
+- Build similar project
+- Add to skill file references
+
+## Related Skills
+
+- Frontend Development
+- JavaScript
+- HTML/CSS
 
 ## Source
 
-Original source: https://github.com/nodejs/node/blob/main/SECURITY.md
+Original source: https://github.com/nodejs/node

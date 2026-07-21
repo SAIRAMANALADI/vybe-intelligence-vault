@@ -1,13 +1,22 @@
 ---
-title: "indigokarasu/sands"
-category: "Tooling"
-tech_stack: ["Python", "Google Calendar API", "Google Places API", "Natural Language Processing"]
+title: indigokarasu/sands
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Google Calendar API
+- Google Places API
+- Natural Language Processing
 quality_score: 7
 rag_relevance: 6
-tags: ["calendar management", "natural language processing", "time computation", "multi-calendar sync", "privacy scoping"]
-source: "https://github.com/indigokarasu/sands"
-discovered_at: "2026-07-21T04:14:48Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- calendar management
+- natural language processing
+- time computation
+- multi-calendar sync
+- privacy scoping
+source: https://github.com/indigokarasu/sands
+discovered_at: '2026-07-21T04:14:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

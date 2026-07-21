@@ -1,13 +1,26 @@
 ---
-title: "Rorogogogo/nomoreide"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js (\u226520)", "Model Context Protocol (MCP)", "React", "Docker", "Git", "SQL", "GitHub API"]
+title: Rorogogogo/nomoreide
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js (≥20)
+- Model Context Protocol (MCP)
+- React
+- Docker
+- Git
+- SQL
+- GitHub API
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP server", "AI agent integration", "process manager", "Git workflow", "terminal workbench"]
-source: "https://github.com/Rorogogogo/nomoreide"
-discovered_at: "2026-07-19T22:50:39Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP server
+- AI agent integration
+- process manager
+- Git workflow
+- terminal workbench
+source: https://github.com/Rorogogogo/nomoreide
+discovered_at: '2026-07-19T22:50:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,29 @@
 ---
-title: "Zhangwei930/MgTerminal"
-category: "Tooling"
-tech_stack: ["Electron", "React", "TypeScript", "xterm.js", "Node.js", "Vite", "Tailwind CSS", "ssh2", "ssh2-sftp-client", "node-pty", "Lucide React"]
+title: Zhangwei930/MgTerminal
+category: daily-digests/2026-07-21
+tech_stack:
+- Electron
+- React
+- TypeScript
+- xterm.js
+- Node.js
+- Vite
+- Tailwind CSS
+- ssh2
+- ssh2-sftp-client
+- node-pty
+- Lucide React
 quality_score: 9
 rag_relevance: 7
-tags: ["SSH Client", "Terminal Manager", "AI Agent", "SFTP Browser", "DevOps Tool"]
-source: "https://github.com/Zhangwei930/MgTerminal"
-discovered_at: "2026-07-19T13:17:21Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- SSH Client
+- Terminal Manager
+- AI Agent
+- SFTP Browser
+- DevOps Tool
+source: https://github.com/Zhangwei930/MgTerminal
+discovered_at: '2026-07-19T13:17:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

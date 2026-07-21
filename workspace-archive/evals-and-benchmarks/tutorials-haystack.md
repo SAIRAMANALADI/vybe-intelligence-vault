@@ -8,7 +8,7 @@ local_vault_path: ai/rag/tutorials-haystack.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -21,7 +21,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Tutorials | Haystack
@@ -30,18 +30,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Evaluation Guide**: Provides a comprehensive walkthrough for evaluating Haystack pipelines, covering statistical and model-based metrics for RAG systems.
-
-- **Multimodal RAG Pipeline**: Demonstrates building a vision+text RAG pipeline using Haystack to answer queries grounded in both image and text data.
-
-- **KV Cache Compression**: Introduces TurboQuant quantization to significantly reduce memory usage for running large LLMs on consumer GPUs via Haystack integration.
+- **Evaluation Framework**: Haystack provides a guided walkthrough for implementing evaluation metrics to assess RAG pipeline performance using statistical and model-based methods.
+- **Multimodal RAG Pipeline**: Tutorial demonstrates building a multimodal RAG system combining vision and text for question answering grounded in both modalities.
+- **KV Cache Compression**: Haystack supports TurboQuant KV cache compression to enable running large LLMs on consumer GPUs with significant memory reducti
 
 ## Use Cases
 

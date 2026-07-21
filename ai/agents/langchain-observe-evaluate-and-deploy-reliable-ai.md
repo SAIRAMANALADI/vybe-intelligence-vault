@@ -4,17 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://www.langchain.com/
-published_at: '2026-07-21T16:54:40.146636+05:30'
-collected_at: '2026-07-21T16:54:40.146651+05:30'
+published_at: '2026-07-21T19:56:44.793517+05:30'
+collected_at: '2026-07-21T19:56:44.793528+05:30'
 tags:
 - agents
 - benchmark
 - web-crawled
 status: active
 resource_id: blog:langchain-observe-evaluate-and-deploy-reliable-ai
-first_seen: '2026-07-21T16:54:40.146651+05:30'
-last_seen: '2026-07-21T16:54:40.146651+05:30'
-last_checked: '2026-07-21T16:54:40.146651+05:30'
+first_seen: '2026-07-21T19:56:44.793528+05:30'
+last_seen: '2026-07-21T19:56:44.793528+05:30'
+last_checked: '2026-07-21T19:56:44.793528+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-framework observability**: LangSmith provides native tracing for popular agent frameworks (e.g., LangChain, LangGraph) and OpenTelemetry, with SDKs in Python, TypeScript, Go, and Java; supports message threading for multi-turn interactions and AI-driven analytics for trace pattern detection.
+- **Framework-agnostic observability**: LangSmith provides native tracing for popular agent frameworks (e.g., LangChain, LangGraph, DeepAgents) and OpenTelemetry, with SDKs in Python, TypeScript, Go, and Java; supports message threading for multi-turn interactions and AI-driven analytics for trace pattern detection.
 
-- **Automated evaluation & deployment**: Captures production traces for reusable LLM-as-judge/multi-turn evals, integrates human feedback, and deploys agents via a fault-tolerant server with durable checkpointing, async human-in-the-loop support, and native A2A/MCP protocol compatibility.
+- **Automated evaluation & deployment**: LangSmith Engine clusters production failures into prioritized issues, diagnoses root causes, and proposes fixes; supports reusable LLM-as-judge and multi-turn evals with human feedback calibration, while the agent server enables fault-tolerant, scalable deployment with durable checkpointing, human-in-the-loop interactions, and native A2A/MCP protocol support.
 
-- **Enterprise agent orchestration**: Fleet enables no-code agent creation with BYOM support, MCP integrations, and LangSmith-native tracing; used by Fortune 10 enterprises (e.g., Klarna, ServiceNow) to reduce resolution times by 80% and automate 5,500+ daily tasks.
+- **Enterprise-grade agent orchestration**: LangSmith Fleet enables autonomous task execution across enterprise tools via plain-language prompts, with BYOM (Bring Your Own Model) support, MCP server extensibility, and integrated LangSmith tracing; used by Fortune 10 enterprises (e.g., Klarna, ServiceNow) to reduce resolution times by 80% and automate 5,500+ orders/day.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-21T16:54:40.146636+05:30
+- Published: 2026-07-21T19:56:44.793517+05:30
 
 ## Related Tags
 

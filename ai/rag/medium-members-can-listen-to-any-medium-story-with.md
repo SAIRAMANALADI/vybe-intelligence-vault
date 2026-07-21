@@ -5,17 +5,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://speechify.com/medium
-published_at: '2026-07-21T14:21:29.881851+05:30'
-collected_at: '2026-07-21T14:21:29.881866+05:30'
+published_at: '2026-07-21T20:01:07.010517+05:30'
+collected_at: '2026-07-21T20:01:07.010528+05:30'
 tags:
 - producthunt
 - rag
 - web-crawled
 status: active
 resource_id: blog:medium-members-can-listen-to-any-medium-story-with
-first_seen: '2026-07-21T14:21:29.881866+05:30'
-last_seen: '2026-07-21T14:21:29.881866+05:30'
-last_checked: '2026-07-21T14:21:29.881866+05:30'
+first_seen: '2026-07-21T20:01:07.010528+05:30'
+last_seen: '2026-07-21T20:01:07.010528+05:30'
+last_checked: '2026-07-21T20:01:07.010528+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Integration & Accessibility**: Medium's "Listen" feature, powered by Speechify, enables Medium members to convert any article into audio with synchronized text highlighting, enhancing accessibility for users with dyslexia, visual impairments, or time constraints (e.g., commuting, exercising).
+- **Integration & Accessibility**: Medium’s partnership with Speechify enables all Medium members to convert text-to-speech (TTS) for any article via the "Listen" button, with highlighted text synchronization and variable narrator selection (0.5x–4.5x playback speed).
 
-- **Performance & Customization**: Users can adjust playback speed (0.5x–4.5x) and select from multiple narrators, with reports of up to 3x higher content consumption and improved retention when combining listening with reading.
+- **Productivity & Multitasking**: Users report consuming up to **3x more content** via audio, leveraging TTS for hands-free consumption during commutes, workouts, or chores, while writers use it for proofreading drafts to detect awkward phrasing.
 
-- **Proofreading & Productivity**: Writers leverage the feature to proofread drafts by detecting awkward phrasing, while speed listening serves as a productivity tool for rapidly processing bookmarked articles.
+- **Inclusivity & Performance**: Speechify’s TTS lowers barriers for users with dyslexia or visual impairments, offering real-time text highlighting and adjustable speeds (up to 4.5x) to optimize comprehension and efficiency.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T14:21:29.881851+05:30
+- Published: 2026-07-21T20:01:07.010517+05:30
 
 ## Related Tags
 

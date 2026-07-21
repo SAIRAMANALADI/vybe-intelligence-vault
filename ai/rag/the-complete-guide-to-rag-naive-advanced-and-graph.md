@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
-published_at: '2026-07-21T09:15:04.105808+05:30'
-collected_at: '2026-07-21T09:15:04.105818+05:30'
+published_at: '2026-07-21T19:52:30.793682+05:30'
+collected_at: '2026-07-21T19:52:30.793693+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-07-21T09:15:04.105818+05:30'
-last_seen: '2026-07-21T09:15:04.105818+05:30'
-last_checked: '2026-07-21T09:15:04.105818+05:30'
+first_seen: '2026-07-21T19:52:30.793693+05:30'
+last_seen: '2026-07-21T19:52:30.793693+05:30'
+last_checked: '2026-07-21T19:52:30.793693+05:30'
 health_score: 100
 ---
 
@@ -39,11 +39,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG (Retrieval-Augmented Generation)** integrates retrieval, augmentation, and generation to enhance LLM responses by dynamically pulling external knowledge, addressing issues like hallucination, freshness, and private data limitations.
+- **RAG Evolution**: Naive RAG (basic vector search + LLM generation) evolved into Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph traversal for multi-hop reasoning), addressing limitations in accuracy, freshness, and hallucination mitigation.
 
-- **Evolution of RAG**: From *Naive RAG* (basic vector search) to *Advanced RAG* (hybrid retrieval, reranking, query expansion) and *Graph RAG* (entity-relation graphs for multi-hop reasoning), with modular/agentic variants enabling dynamic routing and tool integration.
+- **Core RAG Components**: Retrieval (vector/keyword search), Augmentation (context injection), and Generation (LLM reasoning), with modular frameworks enabling dynamic routing, tool integration, and self-evaluation for adaptive performance.
 
-- **Key Components & Trade-offs**: Core techniques include BM25 (sparse retrieval), dense embeddings (e.g., BAAI/bge-m3), cross-encoders (reranking), and graph databases (e.g., Neo4j), with operational trade-offs in latency, scalability, and schema design.
+- **Operational Trade-offs**: RAG reduces hallucinations and enables fresh/private knowledge integration but introduces complexity in evaluation, graph construction (Graph RAG), and pipeline optimization (e.g., hybrid retrieval, reranking, and citation enforcement).
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T09:15:04.105808+05:30
+- Published: 2026-07-21T19:52:30.793682+05:30
 
 ## Related Tags
 

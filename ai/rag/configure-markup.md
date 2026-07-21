@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/markup/#syntaxhighlight
-published_at: '2026-07-21T16:57:14.870954+05:30'
-collected_at: '2026-07-21T16:57:14.870964+05:30'
+published_at: '2026-07-21T19:59:36.532969+05:30'
+collected_at: '2026-07-21T19:59:36.532983+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-markup
-first_seen: '2026-07-21T16:57:14.870964+05:30'
-last_seen: '2026-07-21T16:57:14.870964+05:30'
-last_checked: '2026-07-21T16:57:14.870964+05:30'
+first_seen: '2026-07-21T19:59:36.532983+05:30'
+last_seen: '2026-07-21T19:59:36.532983+05:30'
+last_checked: '2026-07-21T19:59:36.532983+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- Hugo defaults to **Goldmark** for Markdown rendering, with support for alternative renderers (`asciidocext`, `org`, `pandoc`, `rst`) requiring external tooling and security policy updates.
+- **Default Markdown Handler**: Hugo defaults to Goldmark for Markdown rendering (`.md`, `.mdown`, `.markdown`), with alternatives (`asciidocext`, `org`, `pandoc`, `rst`) configurable via `defaultMarkdownHandler` in project settings; Goldmark is recommended for its CommonMark/GFM compliance and performance.
 
-- Goldmark’s default configuration includes **CommonMark/GFM compliance**, with optional extensions (e.g., `footnote`, `typographer`, `strikethrough`) and **Extras** for subscript/superscript, requiring disabling conflicting extensions (e.g., `strikethrough` for subscript).
+- **Goldmark Configuration**: Goldmark’s markup processor supports extensions (e.g., `footnote`, `strikethrough`, `table`, `typographer`) and extras (e.g., `subscript`, `superscript`) via nested YAML/TOML/JSON settings, with defaults optimized for GFM compatibility.
 
-- Key Goldmark settings include `duplicateResourceFiles` (multilingual resource handling), `parser.wrapStandAloneImageWithinParagraph` (image wrapping behavior), and `parser.autoHeadingID` (auto-generated heading IDs).
+- **Key Goldmark Settings**: Critical parameters include `duplicateResourceFiles` (for multilingual projects), `parser.wrapStandAloneImageWithinParagraph` (controls `<p>` wrapping for standalone images), and `parser.autoHeadingID` (auto-generates heading IDs); conflicts (e.g., `strikethrough` vs. `extras.subscript`) require explicit resolution.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T16:57:14.870954+05:30
+- Published: 2026-07-21T19:59:36.532969+05:30
 
 ## Related Tags
 

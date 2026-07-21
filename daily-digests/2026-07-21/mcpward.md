@@ -1,13 +1,26 @@
 ---
-title: "TsvetanG2/mcpward"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "YAML", "JSON Schema", "SARIF", "JUnit", "CI/CD", "Static Analysis"]
+title: TsvetanG2/mcpward
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- YAML
+- JSON Schema
+- SARIF
+- JUnit
+- CI/CD
+- Static Analysis
 quality_score: 8
 rag_relevance: 9
-tags: ["MCP security", "schema validation", "drift detection", "tool poisoning", "protocol compliance"]
-source: "https://github.com/TsvetanG2/mcpward"
-discovered_at: "2026-07-21T07:32:17Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- MCP security
+- schema validation
+- drift detection
+- tool poisoning
+- protocol compliance
+source: https://github.com/TsvetanG2/mcpward
+discovered_at: '2026-07-21T07:32:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

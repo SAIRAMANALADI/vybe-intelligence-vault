@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mvanhorn/clawdbot-skill-manus
-collected_at: '2026-07-21T14:19:43.836423+05:30'
+collected_at: '2026-07-21T19:55:49.531965+05:30'
 published_at: '2026-07-18T16:50:27Z'
 tags:
 - agents
 - github-repo
 - scripts
 - shell
-- workflows
 stars: 27
 language: Shell
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2026-01-22T01:48:25Z'
 pushed_at: '2026-03-16T05:09:31Z'
 resource_id: github:mvanhorn/clawdbot-skill-manus
-first_seen: '2026-07-21T14:19:43.836423+05:30'
-last_seen: '2026-07-21T14:19:43.836423+05:30'
-last_checked: '2026-07-21T14:19:43.836423+05:30'
+first_seen: '2026-07-21T19:55:49.531965+05:30'
+last_seen: '2026-07-21T19:55:49.531965+05:30'
+last_checked: '2026-07-21T19:55:49.531965+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Task Delegation Framework**: Provides an OpenClaw-compatible skill (`clawdbot-skill-manus`) to delegate complex tasks (web research, report generation, code building, data scraping) to Manus AI via task templates and structured monitoring.
+- **Task Delegation Framework**: Implements an OpenClaw skill to delegate complex tasks (e.g., web research, report generation, code building, data scraping) to Manus AI via structured task templates and monitoring.
 
-- **Autonomous Execution & Tracking**: Implements cost tracking, progress monitoring, and autonomous task execution using Shell scripts, enabling seamless integration with Manus AI's capabilities (web browsing, automation).
+- **Autonomous Execution**: Uses Shell-based automation to enable AI-driven web browsing, data scraping, and report generation with built-in cost tracking and progress monitoring.
 
-- **OpenClaw Integration**: Designed as a modular skill for ClawHub, supporting AI-agent workflows with predefined templates for research, scraping, and report generation while maintaining compatibility with Manus AI's API.
+- **Integration & Extensibility**: Designed as a modular OpenClaw skill, supporting ClawHub ecosystems with configurable task pipelines for AI-agent orchestration.
 
 ## Why It Matters
 

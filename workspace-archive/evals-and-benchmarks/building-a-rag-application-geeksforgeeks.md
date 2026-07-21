@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines a *retriever* (FAISS-based similarity search) and a *generator* (FLAN-T5) to fetch relevant documents and produce context-aware responses from a knowledge base.
+- **RAG Architecture**: Combines a *retriever* (FAISS-indexed embeddings for document search) and a *generator* (FLAN-T5 model) to produce context-aware responses from a knowledge base.
 
-- **Pipeline Implementation**: Uses `sentence-transformers` for embeddings, FAISS for efficient retrieval, and Hugging Face’s FLAN-T5 for text generation, with a cosine similarity threshold (`0.3`) to filter irrelevant documents.
+- **Pipeline Implementation**: Uses `sentence-transformers` for embeddings, FAISS for similarity search, and Hugging Face's `transformers` for text generation, with a threshold-based retrieval mechanism to filter irrelevant documents.
 
-- **Challenges**: High computational cost for large-scale retrieval/genera
+- **Challenges & Trade-offs**: Faces computational overhead, ambiguity handli
 
 ## Use Cases
 

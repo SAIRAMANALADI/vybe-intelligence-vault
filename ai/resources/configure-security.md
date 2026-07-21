@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/security/
-published_at: '2026-07-21T16:57:20.111322+05:30'
-collected_at: '2026-07-21T16:57:20.111331+05:30'
+published_at: '2026-07-21T19:59:41.384459+05:30'
+collected_at: '2026-07-21T19:59:41.384470+05:30'
 tags:
 - frontend_ui
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-security
-first_seen: '2026-07-21T16:57:20.111331+05:30'
-last_seen: '2026-07-21T16:57:20.111331+05:30'
-last_checked: '2026-07-21T16:57:20.111331+05:30'
+first_seen: '2026-07-21T19:59:41.384470+05:30'
+last_seen: '2026-07-21T19:59:41.384470+05:30'
+last_checked: '2026-07-21T19:59:41.384470+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Default Deny Policy**: Hugo enforces a restrictive default security policy via allowlists, blocking `os/exec`, remote communication, and other sensitive operations unless explicitly permitted (e.g., `^(dart-)?sass(-embedded)?$`, `^go$`, `^git$`).
+- **Security Policy**: Hugo enforces a default-deny security policy via allowlists for `os/exec`, remote communication, and environment access, failing builds on unauthorized operations with detailed error messages.
 
-- **Granular Permissions**: Security settings include regex-based allowlists for executable commands (`exec.allow`), environment variables (`exec.osEnv`, `funcs.getenv`), HTTP methods/URLs (`http.methods`, `http.urls`), and Node.js tool permissions (`node.permissions.*`).
+- **Configuration Structure**: Security settings are defined via regex-based allowlists for content types (`allowContent`), executables (`exec.allow`), OS env vars (`exec.osEnv`/`funcs.getenv`), HTTP methods/URLs (`http.methods`/`urls`), and Node.js permissions (`node.permissions`).
 
-- **Negation & Overrides**: Deny rules (prefixed with `!`) take precedence; empty allowlists reject all access. Environment variables (e.g., `HUGO_SECURITY_HTTP_URLS=none`) can override configurations dynamically.
+- **Negation & Overrides**: Allowlists support negation (`!`) for deny rules, environment variable overrides (e.g., `HUGO_SECURITY_HTTP_URLS=none`), and implicit allow-all behavior when composed solely of deny rules.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-21T16:57:20.111322+05:30
+- Published: 2026-07-21T19:59:41.384459+05:30
 
 ## Related Tags
 

@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-07-21T16:51:14.347654+05:30'
+collected_at: '2026-07-21T19:53:14.349407+05:30'
 published_at: '2026-07-17T22:50:34Z'
 tags:
+- benchmark
+- dataset
 - github-repo
 - python
 - rag
-- workflows
 stars: 265
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-07-21T16:51:14.347654+05:30'
-last_seen: '2026-07-21T16:51:14.347654+05:30'
-last_checked: '2026-07-21T16:51:14.347654+05:30'
+first_seen: '2026-07-21T19:53:14.349407+05:30'
+last_seen: '2026-07-21T19:53:14.349407+05:30'
+last_checked: '2026-07-21T19:53:14.349407+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Repository demonstrates Retrieval-Augmented Generation (RAG) best practices specifically optimized for Vietnamese language processing, including text preprocessing, embedding, and retrieval strategies.
+- **Vietnamese RAG Implementation**: Repository demonstrates best practices for Retrieval-Augmented Generation (RAG) tailored for Vietnamese language processing, leveraging Python-based pipelines.
 
-- **Python-Based Pipeline**: Utilizes Python for end-to-end RAG workflow, integrating libraries like `sentence-transformers`, `FAISS` (Facebook AI Similarity Search), and `FastAPI` for efficient document retrieval and generation.
+- **Modular Architecture**: Features a structured backend with components for document retrieval, embedding generation (likely using multilingual models), and LLM integration optimized for Vietnamese context.
 
-- **Modular Architecture**: Implements a modular design with components for document ingestion, vector storage, retrieval, and response generation, enabling scalability and customization for Vietnamese-specific NLP tasks.
+- **Evaluation & Optimization**: Includes scripts for benchmarking retrieval performance (e.g., FAISS/vector DB tuning) and response generation quality, with Vietnamese-specific datasets or metrics.
 
 ## Why It Matters
 

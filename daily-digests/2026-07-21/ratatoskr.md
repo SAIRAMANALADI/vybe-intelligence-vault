@@ -1,13 +1,42 @@
 ---
-title: "po4yka/ratatoskr"
-category: "Orchestrator"
-tech_stack: ["Python", "Telegram Bot API", "PostgreSQL", "Redis", "Qdrant (Vector DB)", "Docker", "FastAPI", "LangGraph", "OpenRouter", "OpenAI", "Anthropic", "Ollama", "React", "TypeScript", "Prometheus", "Grafana", "LangChain", "yt-dlp", "Firecrawl", "Crawl4AI", "Defuddle", "CloakBrowser", "Microsoft Webwright", "ElevenLabs"]
+title: po4yka/ratatoskr
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Telegram Bot API
+- PostgreSQL
+- Redis
+- Qdrant (Vector DB)
+- Docker
+- FastAPI
+- LangGraph
+- OpenRouter
+- OpenAI
+- Anthropic
+- Ollama
+- React
+- TypeScript
+- Prometheus
+- Grafana
+- LangChain
+- yt-dlp
+- Firecrawl
+- Crawl4AI
+- Defuddle
+- CloakBrowser
+- Microsoft Webwright
+- ElevenLabs
 quality_score: 9
 rag_relevance: 8
-tags: ["self-hosted", "content aggregation", "LLM summarization", "semantic search", "Telegram bot"]
-source: "https://github.com/po4yka/ratatoskr"
-discovered_at: "2026-07-16T15:00:30Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- self-hosted
+- content aggregation
+- LLM summarization
+- semantic search
+- Telegram bot
+source: https://github.com/po4yka/ratatoskr
+discovered_at: '2026-07-16T15:00:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

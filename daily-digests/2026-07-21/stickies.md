@@ -1,13 +1,24 @@
 ---
-title: "dumbspacecookie/stickies"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "SQLite", "Model Context Protocol (MCP)", "TypeScript (implied by Node.js ecosystem)", "Git"]
+title: dumbspacecookie/stickies
+category: daily-digests/2026-07-21
+tech_stack:
+- JavaScript
+- Node.js
+- SQLite
+- Model Context Protocol (MCP)
+- TypeScript (implied by Node.js ecosystem)
+- Git
 quality_score: 9
 rag_relevance: 7
-tags: ["note-taking", "persistent-memory", "Claude-Code-plugin", "local-first", "project-management"]
-source: "https://github.com/dumbspacecookie/stickies"
-discovered_at: "2026-07-17T02:52:16Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- note-taking
+- persistent-memory
+- Claude-Code-plugin
+- local-first
+- project-management
+source: https://github.com/dumbspacecookie/stickies
+discovered_at: '2026-07-17T02:52:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

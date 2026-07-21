@@ -1,13 +1,25 @@
 ---
-title: "zzhang82/Agent-Memory-Bridge"
-category: "Orchestrator"
-tech_stack: ["Python", "SQLite", "WAL (Write-Ahead Logging)", "FTS5 (Full Text Search)", "Model Context Protocol (MCP)", "CLI", "Docker"]
+title: zzhang82/Agent-Memory-Bridge
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- SQLite
+- WAL (Write-Ahead Logging)
+- FTS5 (Full Text Search)
+- Model Context Protocol (MCP)
+- CLI
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["memory_management", "multi_agent_coordination", "MCP_server", "SQLite_authority", "governed_context"]
-source: "https://github.com/zzhang82/Agent-Memory-Bridge"
-discovered_at: "2026-07-18T15:55:19Z"
-evaluated_by: "mistral-small-latest"
+tags:
+- memory_management
+- multi_agent_coordination
+- MCP_server
+- SQLite_authority
+- governed_context
+source: https://github.com/zzhang82/Agent-Memory-Bridge
+discovered_at: '2026-07-18T15:55:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

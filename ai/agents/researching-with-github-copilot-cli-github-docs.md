@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.github.com/en/copilot/concepts/agents/copilot-cli/research
-published_at: '2026-07-21T14:26:24.685432+05:30'
-collected_at: '2026-07-21T14:26:24.685448+05:30'
+published_at: '2026-07-21T20:03:27.520423+05:30'
+collected_at: '2026-07-21T20:03:27.520436+05:30'
 tags:
 - agents
 - frontend_ui
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:researching-with-github-copilot-cli-github-docs
-first_seen: '2026-07-21T14:26:24.685448+05:30'
-last_seen: '2026-07-21T14:26:24.685448+05:30'
-last_checked: '2026-07-21T14:26:24.685448+05:30'
+first_seen: '2026-07-21T20:03:27.520436+05:30'
+last_seen: '2026-07-21T20:03:27.520436+05:30'
+last_checked: '2026-07-21T20:03:27.520436+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous research agent**: The `/research` command in GitHub Copilot CLI activates a specialized agent that autonomously gathers and synthesizes in-depth technical information from local codebases, GitHub repositories (public/private), and the web, producing a comprehensive Markdown report with citations and a CLI summary.
+- **Autonomous research agent**: The `/research` command in GitHub Copilot CLI deploys a specialized agent that autonomously gathers and synthesizes in-depth technical information from local codebases, GitHub repositories (public/private), and the web, producing a comprehensive Markdown report with citations and a CLI summary.
 
-- **Adaptive report generation**: The agent classifies query types (process, conceptual, or technical deep-dive) and tailors responses accordingly, including architecture diagrams, code snippets, and trade-off analyses, while documenting assumptions in a "Confidence Assessment" section.
+- **Adaptive output generation**: The agent classifies query types (process/how-to, conceptual, or technical deep-dive) and adapts responses accordingly, generating architecture diagrams, code snippets, step-by-step guides, or comparative analyses with trade-offs, all optimized for thoroughness over speed.
 
-- **Session-specific output management**: Research reports are stored in a session-specific directory (`~/.copilot/session-state/SESSION-ID/research/`) and can be shared via GitHub gists or saved as Markdown files, but are not retained across new CLI sessions.
+- **Persistent, shareable artifacts**: Research reports are stored as session-specific Markdown files (accessible via `Ctrl+Y` or saved to disk/gists), enabling permanent documentation and collaboration, though reports are tied to individual CLI sessions and require explicit sharing commands (`/share gist research` or `/share file research`).
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-21T14:26:24.685432+05:30
+- Published: 2026-07-21T20:03:27.520423+05:30
 
 ## Related Tags
 
