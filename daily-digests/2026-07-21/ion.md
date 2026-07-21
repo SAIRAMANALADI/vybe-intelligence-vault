@@ -1,26 +1,13 @@
 ---
-title: dsswift/ion
-category: daily-digests/2026-07-21
-tech_stack:
-- Go
-- JSON-RPC
-- SSE
-- HTTP
-- MCP
-- Sandboxing
-- CLI
-- Daemon Architecture
+title: "dsswift/ion"
+category: "Orchestrator"
+tech_stack: ["Go", "JSON-RPC", "SSE", "HTTP", "MCP", "Sandboxing", "CLI", "Daemon Architecture"]
 quality_score: 9
 rag_relevance: 10
-tags:
-- headless runtime
-- multi-provider LLM
-- agent orchestration
-- extension hooks
-- static binary
-source: https://github.com/dsswift/ion
-discovered_at: '2026-07-20T15:10:41Z'
-evaluated_by: mistral-small-latest
+tags: ["headless runtime", "multi-provider LLM", "agent orchestration", "extension hooks", "static binary"]
+source: "https://github.com/dsswift/ion"
+discovered_at: "2026-07-20T15:10:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

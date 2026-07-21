@@ -1,23 +1,13 @@
 ---
-title: Mariskak2332/claude-voice
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Node.js
-- Speech-to-Text (STT)
-- Text-to-Speech (TTS)
-- Claude API
+title: "Mariskak2332/claude-voice"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Speech-to-Text (STT)", "Text-to-Speech (TTS)", "Claude API"]
 quality_score: 6
 rag_relevance: 5
-tags:
-- voice-assistant
-- real-time interaction
-- terminal integration
-- Claude AI
-- audio processing
-source: https://github.com/Mariskak2332/claude-voice
-discovered_at: '2026-07-14T10:08:01Z'
-evaluated_by: mistral-small-latest
+tags: ["voice-assistant", "real-time interaction", "terminal integration", "Claude AI", "audio processing"]
+source: "https://github.com/Mariskak2332/claude-voice"
+discovered_at: "2026-07-14T10:08:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

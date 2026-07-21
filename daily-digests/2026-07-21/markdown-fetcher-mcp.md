@@ -1,25 +1,13 @@
 ---
-title: sofiipirees/markdown-fetcher-mcp
-category: daily-digests/2026-07-21
-tech_stack:
-- Node.js
-- Turndown.js
-- TypeScript
-- Express.js
-- Mermaid.js
-- REST API
-- MCP (Model Context Protocol)
+title: "sofiipirees/markdown-fetcher-mcp"
+category: "Tooling"
+tech_stack: ["Node.js", "Turndown.js", "TypeScript", "Express.js", "Mermaid.js", "REST API", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- HTML-to-Markdown
-- MCP Server
-- Web Scraping
-- Content Extraction
-- AI Data Pipeline
-source: https://github.com/sofiipirees/markdown-fetcher-mcp
-discovered_at: '2026-07-21T04:15:13Z'
-evaluated_by: mistral-small-latest
+tags: ["HTML-to-Markdown", "MCP Server", "Web Scraping", "Content Extraction", "AI Data Pipeline"]
+source: "https://github.com/sofiipirees/markdown-fetcher-mcp"
+discovered_at: "2026-07-21T04:15:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

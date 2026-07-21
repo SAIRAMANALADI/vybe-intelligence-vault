@@ -1,27 +1,13 @@
 ---
-title: indigokarasu/taste
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- Gmail API
-- Google Calendar API
-- Google Maps API
-- Spotify API
-- Spotipy
-- OAuth 2.0
-- JSON
-- YAML
+title: "indigokarasu/taste"
+category: "Agent Framework"
+tech_stack: ["Python", "Gmail API", "Google Calendar API", "Google Maps API", "Spotify API", "Spotipy", "OAuth 2.0", "JSON", "YAML"]
 quality_score: 7
 rag_relevance: 8
-tags:
-- recommendation engine
-- consumption signals
-- personalization
-- behavioral modeling
-- data enrichment
-source: https://github.com/indigokarasu/taste
-discovered_at: '2026-07-21T04:14:52Z'
-evaluated_by: mistral-small-latest
+tags: ["recommendation engine", "consumption signals", "personalization", "behavioral modeling", "data enrichment"]
+source: "https://github.com/indigokarasu/taste"
+discovered_at: "2026-07-21T04:14:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

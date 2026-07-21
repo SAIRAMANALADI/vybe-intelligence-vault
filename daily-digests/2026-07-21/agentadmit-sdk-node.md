@@ -1,26 +1,13 @@
 ---
-title: PhoenixCo-Founder/agentadmit-sdk-node
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Node.js
-- Express
-- Next.js
-- YAML
-- REST APIs
-- WebAuthn
-- MCP (Model Context Protocol)
+title: "PhoenixCo-Founder/agentadmit-sdk-node"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Express", "Next.js", "YAML", "REST APIs", "WebAuthn", "MCP (Model Context Protocol)"]
 quality_score: 8
 rag_relevance: 9
-tags:
-- AI agent authorization
-- scope-based access control
-- token validation
-- Express middleware
-- Next.js integration
-source: https://github.com/PhoenixCo-Founder/agentadmit-sdk-node
-discovered_at: '2026-07-13T23:53:46Z'
-evaluated_by: mistral-small-latest
+tags: ["AI agent authorization", "scope-based access control", "token validation", "Express middleware", "Next.js integration"]
+source: "https://github.com/PhoenixCo-Founder/agentadmit-sdk-node"
+discovered_at: "2026-07-13T23:53:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

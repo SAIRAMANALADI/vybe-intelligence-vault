@@ -1,26 +1,13 @@
 ---
-title: nklisch/krometrail
-category: daily-digests/2026-07-21
-tech_stack:
-- Rust
-- MCP (Model Context Protocol)
-- Chrome DevTools Protocol (CDP)
-- CDP Adapter
-- Temporal Visual Evidence
-- Electron (debug-enabled renderer processes)
-- Bun (development tooling)
-- GitHub Actions (CI/CD)
+title: "nklisch/krometrail"
+category: "Orchestrator"
+tech_stack: ["Rust", "MCP (Model Context Protocol)", "Chrome DevTools Protocol (CDP)", "CDP Adapter", "Temporal Visual Evidence", "Electron (debug-enabled renderer processes)", "Bun (development tooling)", "GitHub Actions (CI/CD)"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- browser automation
-- temporal evidence
-- MCP server
-- debugging tools
-- AI agent runtime
-source: https://github.com/nklisch/krometrail
-discovered_at: '2026-07-16T15:00:48Z'
-evaluated_by: mistral-small-latest
+tags: ["browser automation", "temporal evidence", "MCP server", "debugging tools", "AI agent runtime"]
+source: "https://github.com/nklisch/krometrail"
+discovered_at: "2026-07-16T15:00:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

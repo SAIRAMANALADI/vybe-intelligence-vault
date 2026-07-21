@@ -1,26 +1,13 @@
 ---
-title: 1tsRajOwO/lumen
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- FastAPI
-- React
-- Electron
-- Ollama
-- SQLite
-- Playwright
-- TypeScript
+title: "1tsRajOwO/lumen"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "React", "Electron", "Ollama", "SQLite", "Playwright", "TypeScript"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- local AI
-- on-device agent
-- privacy-focused
-- computer control
-- Ollama integration
-source: https://github.com/1tsRajOwO/lumen
-discovered_at: '2026-07-18T22:46:46Z'
-evaluated_by: mistral-small-latest
+tags: ["local AI", "on-device agent", "privacy-focused", "computer control", "Ollama integration"]
+source: "https://github.com/1tsRajOwO/lumen"
+discovered_at: "2026-07-18T22:46:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

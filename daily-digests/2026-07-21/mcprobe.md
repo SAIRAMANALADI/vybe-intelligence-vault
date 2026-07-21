@@ -1,22 +1,13 @@
 ---
-title: tamish560/mcprobe
-category: daily-digests/2026-07-21
-tech_stack:
-- Go
-- MCP (Model Context Protocol)
-- JSON-RPC
-- CLI
+title: "tamish560/mcprobe"
+category: "Tooling"
+tech_stack: ["Go", "MCP (Model Context Protocol)", "JSON-RPC", "CLI"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- MCP security
-- prompt injection detection
-- tool shadowing
-- drift detection
-- MCP introspection
-source: https://github.com/tamish560/mcprobe
-discovered_at: '2026-07-15T08:06:03Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP security", "prompt injection detection", "tool shadowing", "drift detection", "MCP introspection"]
+source: "https://github.com/tamish560/mcprobe"
+discovered_at: "2026-07-15T08:06:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,23 +1,13 @@
 ---
-title: indigokarasu/spot
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- Browser Automation
-- OCAS (Open Context Automation System)
-- REST APIs
-- Voyage Integration
+title: "indigokarasu/spot"
+category: "Tooling"
+tech_stack: ["Python", "Browser Automation", "OCAS (Open Context Automation System)", "REST APIs", "Voyage Integration"]
 quality_score: 8
 rag_relevance: 7
-tags:
-- reservation automation
-- multi-platform booking
-- browser automation
-- travel context
-- restaurant booking
-source: https://github.com/indigokarasu/spot
-discovered_at: '2026-07-21T04:14:40Z'
-evaluated_by: mistral-small-latest
+tags: ["reservation automation", "multi-platform booking", "browser automation", "travel context", "restaurant booking"]
+source: "https://github.com/indigokarasu/spot"
+discovered_at: "2026-07-21T04:14:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

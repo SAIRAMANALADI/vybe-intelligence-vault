@@ -1,22 +1,13 @@
 ---
-title: indigokarasu/mentor
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- Task Graphs
-- Orchestration
-- Self-Improvement Engine
+title: "indigokarasu/mentor"
+category: "Orchestrator"
+tech_stack: ["Python", "Task Graphs", "Orchestration", "Self-Improvement Engine"]
 quality_score: 6
 rag_relevance: 8
-tags:
-- multi-skill orchestration
-- goal decomposition
-- self-improvement
-- failure repair
-- task supervision
-source: https://github.com/indigokarasu/mentor
-discovered_at: '2026-07-21T04:14:57Z'
-evaluated_by: mistral-small-latest
+tags: ["multi-skill orchestration", "goal decomposition", "self-improvement", "failure repair", "task supervision"]
+source: "https://github.com/indigokarasu/mentor"
+discovered_at: "2026-07-21T04:14:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

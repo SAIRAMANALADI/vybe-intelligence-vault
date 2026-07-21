@@ -1,22 +1,13 @@
 ---
-title: indigokarasu/imagine
-category: daily-digests/2026-07-21
-tech_stack:
-- Shell
-- Markdown
-- AI Image Generation
-- Art Direction Methodology
+title: "indigokarasu/imagine"
+category: "Tooling"
+tech_stack: ["Shell", "Markdown", "AI Image Generation", "Art Direction Methodology"]
 quality_score: 7
 rag_relevance: 6
-tags:
-- text-to-image
-- art direction
-- style transfer
-- AI creativity
-- image generation
-source: https://github.com/indigokarasu/imagine
-discovered_at: '2026-07-21T04:14:43Z'
-evaluated_by: mistral-small-latest
+tags: ["text-to-image", "art direction", "style transfer", "AI creativity", "image generation"]
+source: "https://github.com/indigokarasu/imagine"
+discovered_at: "2026-07-21T04:14:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

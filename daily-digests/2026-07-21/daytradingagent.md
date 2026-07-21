@@ -1,25 +1,13 @@
 ---
-title: xhqing/DayTradingAgent
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- Claude Code
-- Futu OpenD API
-- Tiger Brokers SDK
-- GLM-5.2 (LLM)
-- AutoMemory
-- Shell Scripting
+title: "xhqing/DayTradingAgent"
+category: "Tooling"
+tech_stack: ["Python", "Claude Code", "Futu OpenD API", "Tiger Brokers SDK", "GLM-5.2 (LLM)", "AutoMemory", "Shell Scripting"]
 quality_score: 8
 rag_relevance: 6
-tags:
-- trading agent
-- signal generation
-- AI-driven analysis
-- market monitoring
-- disciplined execution
-source: https://github.com/xhqing/DayTradingAgent
-discovered_at: '2026-07-18T09:23:47Z'
-evaluated_by: mistral-small-latest
+tags: ["trading agent", "signal generation", "AI-driven analysis", "market monitoring", "disciplined execution"]
+source: "https://github.com/xhqing/DayTradingAgent"
+discovered_at: "2026-07-18T09:23:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

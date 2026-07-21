@@ -1,27 +1,13 @@
 ---
-title: RECTOR-LABS/palinurus
-category: daily-digests/2026-07-21
-tech_stack:
-- Rust
-- WASM32-WASIP2
-- Solana SDK
-- WIT (WebAssembly Interface Type)
-- ZeroClaw
-- PDA (Program Derived Addresses)
-- Borsh
-- SHA-2
-- Curve25519-Dalek
+title: "RECTOR-LABS/palinurus"
+category: "Tooling"
+tech_stack: ["Rust", "WASM32-WASIP2", "Solana SDK", "WIT (WebAssembly Interface Type)", "ZeroClaw", "PDA (Program Derived Addresses)", "Borsh", "SHA-2", "Curve25519-Dalek"]
 quality_score: 7
 rag_relevance: 8
-tags:
-- DePIN
-- Solana
-- WASM plugins
-- Edge attestation
-- Custody management
-source: https://github.com/RECTOR-LABS/palinurus
-discovered_at: '2026-07-19T02:30:02Z'
-evaluated_by: mistral-small-latest
+tags: ["DePIN", "Solana", "WASM plugins", "Edge attestation", "Custody management"]
+source: "https://github.com/RECTOR-LABS/palinurus"
+discovered_at: "2026-07-19T02:30:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

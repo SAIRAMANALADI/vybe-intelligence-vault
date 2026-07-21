@@ -1,22 +1,13 @@
 ---
-title: kh801301/cli-in-wechat
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Windows Desktop App
-- iLink Bot API
-- Command-Line AI Tools
+title: "kh801301/cli-in-wechat"
+category: "Tooling"
+tech_stack: ["TypeScript", "Windows Desktop App", "iLink Bot API", "Command-Line AI Tools"]
 quality_score: 6
 rag_relevance: 4
-tags:
-- WeChat integration
-- AI tool orchestration
-- Windows desktop app
-- CLI automation
-- Bot API
-source: https://github.com/kh801301/cli-in-wechat
-discovered_at: '2026-07-17T18:05:06Z'
-evaluated_by: mistral-small-latest
+tags: ["WeChat integration", "AI tool orchestration", "Windows desktop app", "CLI automation", "Bot API"]
+source: "https://github.com/kh801301/cli-in-wechat"
+discovered_at: "2026-07-17T18:05:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

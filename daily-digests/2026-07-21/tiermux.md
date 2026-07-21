@@ -1,24 +1,13 @@
 ---
-title: mainulBUBT/TierMux
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- VS Code Extension API
-- Node.js
-- REST APIs
-- Machine Learning (Routing & Classification)
-- MCP (Model Context Protocol)
+title: "mainulBUBT/TierMux"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "VS Code Extension API", "Node.js", "REST APIs", "Machine Learning (Routing & Classification)", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- AI coding assistant
-- multi-provider routing
-- VS Code extension
-- failover automation
-- codebase learning
-source: https://github.com/mainulBUBT/TierMux
-discovered_at: '2026-07-12T05:56:14Z'
-evaluated_by: mistral-small-latest
+tags: ["AI coding assistant", "multi-provider routing", "VS Code extension", "failover automation", "codebase learning"]
+source: "https://github.com/mainulBUBT/TierMux"
+discovered_at: "2026-07-12T05:56:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

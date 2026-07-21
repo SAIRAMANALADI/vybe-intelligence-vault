@@ -1,29 +1,13 @@
 ---
-title: nuroctane/nur-cli
-category: daily-digests/2026-07-21
-tech_stack:
-- Rust
-- Node.js
-- Bun
-- Python (uv)
-- Cargo
-- Git
-- Ripgrep
-- FFmpeg
-- TUI (Gold)
-- OpenAPI
-- MCP
+title: "nuroctane/nur-cli"
+category: "Agent Framework"
+tech_stack: ["Rust", "Node.js", "Bun", "Python (uv)", "Cargo", "Git", "Ripgrep", "FFmpeg", "TUI (Gold)", "OpenAPI", "MCP"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- coding agent
-- multi-provider
-- token efficiency
-- TUI
-- vision capabilities
-source: https://github.com/nuroctane/nur-cli
-discovered_at: '2026-07-18T05:24:11Z'
-evaluated_by: mistral-small-latest
+tags: ["coding agent", "multi-provider", "token efficiency", "TUI", "vision capabilities"]
+source: "https://github.com/nuroctane/nur-cli"
+discovered_at: "2026-07-18T05:24:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

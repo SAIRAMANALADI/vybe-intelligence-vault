@@ -1,26 +1,13 @@
 ---
-title: shanevcantwell/llauncher
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- llama.cpp
-- MCP (Model Context Protocol)
-- Streamlit
-- Typer
-- FastAPI
-- psutil
-- Rich
+title: "shanevcantwell/llauncher"
+category: "Orchestrator"
+tech_stack: ["Python", "llama.cpp", "MCP (Model Context Protocol)", "Streamlit", "Typer", "FastAPI", "psutil", "Rich"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- MCP
-- llama.cpp
-- model management
-- multi-surface
-- orchestration
-source: https://github.com/shanevcantwell/llauncher
-discovered_at: '2026-07-16T18:05:56Z'
-evaluated_by: mistral-small-latest
+tags: ["MCP", "llama.cpp", "model management", "multi-surface", "orchestration"]
+source: "https://github.com/shanevcantwell/llauncher"
+discovered_at: "2026-07-16T18:05:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

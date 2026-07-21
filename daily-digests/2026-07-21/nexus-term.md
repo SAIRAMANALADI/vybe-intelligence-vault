@@ -1,29 +1,13 @@
 ---
-title: SelahattinSert/nexus-term
-category: daily-digests/2026-07-21
-tech_stack:
-- React
-- Node.js
-- Express
-- WebSocket
-- xterm.js
-- TailwindCSS
-- Framer Motion
-- Zustand
-- Whisper (STT)
-- Monaco Editor
-- Git Integration
+title: "SelahattinSert/nexus-term"
+category: "Tooling"
+tech_stack: ["React", "Node.js", "Express", "WebSocket", "xterm.js", "TailwindCSS", "Framer Motion", "Zustand", "Whisper (STT)", "Monaco Editor", "Git Integration"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- terminal emulator
-- AI agent
-- autonomous shell
-- voice interaction
-- developer productivity
-source: https://github.com/SelahattinSert/nexus-term
-discovered_at: '2026-07-20T22:59:30Z'
-evaluated_by: mistral-small-latest
+tags: ["terminal emulator", "AI agent", "autonomous shell", "voice interaction", "developer productivity"]
+source: "https://github.com/SelahattinSert/nexus-term"
+discovered_at: "2026-07-20T22:59:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

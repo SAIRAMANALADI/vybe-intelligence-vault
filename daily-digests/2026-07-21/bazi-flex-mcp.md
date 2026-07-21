@@ -1,23 +1,13 @@
 ---
-title: ronload/bazi-flex-mcp
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Bun
-- Model Context Protocol (MCP)
-- shunshi-bazi-core
-- Biome
+title: "ronload/bazi-flex-mcp"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Bun", "Model Context Protocol (MCP)", "shunshi-bazi-core", "Biome"]
 quality_score: 8
 rag_relevance: 7
-tags:
-- Bazi
-- Four Pillars
-- MCP Server
-- Partial Birth Time
-- Chinese Metaphysics
-source: https://github.com/ronload/bazi-flex-mcp
-discovered_at: '2026-07-21T07:32:18Z'
-evaluated_by: mistral-small-latest
+tags: ["Bazi", "Four Pillars", "MCP Server", "Partial Birth Time", "Chinese Metaphysics"]
+source: "https://github.com/ronload/bazi-flex-mcp"
+discovered_at: "2026-07-21T07:32:18Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

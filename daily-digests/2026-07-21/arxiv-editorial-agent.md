@@ -1,26 +1,13 @@
 ---
-title: laurentvv/arxiv-editorial-agent
-category: daily-digests/2026-07-21
-tech_stack:
-- Python
-- llama.cpp
-- PyMuPDF
-- uv
-- CUDA
-- GGUF models
-- FastAPI (llama-server)
-- Git
+title: "laurentvv/arxiv-editorial-agent"
+category: "Agent Framework"
+tech_stack: ["Python", "llama.cpp", "PyMuPDF", "uv", "CUDA", "GGUF models", "FastAPI (llama-server)", "Git"]
 quality_score: 8
 rag_relevance: 7
-tags:
-- local LLM
-- arXiv automation
-- Twitter thread generation
-- PDF processing
-- GPU inference
-source: https://github.com/laurentvv/arxiv-editorial-agent
-discovered_at: '2026-07-20T12:22:06Z'
-evaluated_by: mistral-small-latest
+tags: ["local LLM", "arXiv automation", "Twitter thread generation", "PDF processing", "GPU inference"]
+source: "https://github.com/laurentvv/arxiv-editorial-agent"
+discovered_at: "2026-07-20T12:22:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

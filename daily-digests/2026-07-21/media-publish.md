@@ -1,24 +1,13 @@
 ---
-title: dongsheng123132/media-publish
-category: daily-digests/2026-07-21
-tech_stack:
-- HTML
-- JavaScript
-- Node.js
-- CLI
-- JSON
-- Text-to-Image APIs
+title: "dongsheng123132/media-publish"
+category: "Tooling"
+tech_stack: ["HTML", "JavaScript", "Node.js", "CLI", "JSON", "Text-to-Image APIs"]
 quality_score: 8
 rag_relevance: 6
-tags:
-- multi-platform publishing
-- content distribution
-- automated image generation
-- launch board
-- copy optimization
-source: https://github.com/dongsheng123132/media-publish
-discovered_at: '2026-07-20T18:00:50Z'
-evaluated_by: mistral-small-latest
+tags: ["multi-platform publishing", "content distribution", "automated image generation", "launch board", "copy optimization"]
+source: "https://github.com/dongsheng123132/media-publish"
+discovered_at: "2026-07-20T18:00:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

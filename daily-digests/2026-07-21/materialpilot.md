@@ -1,26 +1,13 @@
 ---
-title: SS-360/materialpilot
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Node.js
-- Godot Engine
-- GDScript
-- Material Maker
-- MCP (Model Context Protocol)
-- WebSocket
-- JSON-RPC
+title: "SS-360/materialpilot"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Godot Engine", "GDScript", "Material Maker", "MCP (Model Context Protocol)", "WebSocket", "JSON-RPC"]
 quality_score: 9
 rag_relevance: 8
-tags:
-- procedural materials
-- MCP bridge
-- Material Maker
-- graph editing
-- local-first
-source: https://github.com/SS-360/materialpilot
-discovered_at: '2026-07-21T00:03:30Z'
-evaluated_by: mistral-small-latest
+tags: ["procedural materials", "MCP bridge", "Material Maker", "graph editing", "local-first"]
+source: "https://github.com/SS-360/materialpilot"
+discovered_at: "2026-07-21T00:03:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

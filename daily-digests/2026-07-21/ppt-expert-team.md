@@ -1,24 +1,13 @@
 ---
-title: ThunderOne18/ppt-expert-team
-category: daily-digests/2026-07-21
-tech_stack:
-- Claude/Codex
-- HTML/CSS
-- JavaScript
-- Node.js
-- GPT Image (for background generation)
-- MIT-licensed fonts
+title: "ThunderOne18/ppt-expert-team"
+category: "Tooling"
+tech_stack: ["Claude/Codex", "HTML/CSS", "JavaScript", "Node.js", "GPT Image (for background generation)", "MIT-licensed fonts"]
 quality_score: 8
 rag_relevance: 6
-tags:
-- PPT generation
-- AI workflow
-- presentation tools
-- Claude skill
-- editable HTML
-source: https://github.com/ThunderOne18/ppt-expert-team
-discovered_at: '2026-07-11T07:52:21Z'
-evaluated_by: mistral-small-latest
+tags: ["PPT generation", "AI workflow", "presentation tools", "Claude skill", "editable HTML"]
+source: "https://github.com/ThunderOne18/ppt-expert-team"
+discovered_at: "2026-07-11T07:52:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

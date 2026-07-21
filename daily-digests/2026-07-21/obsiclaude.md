@@ -1,23 +1,13 @@
 ---
-title: gustigainly930/OBSICLAUDE
-category: daily-digests/2026-07-21
-tech_stack:
-- TypeScript
-- Obsidian Plugin API
-- Claude AI
-- JavaScript
-- Node.js
+title: "gustigainly930/OBSICLAUDE"
+category: "UI Component"
+tech_stack: ["TypeScript", "Obsidian Plugin API", "Claude AI", "JavaScript", "Node.js"]
 quality_score: 7
 rag_relevance: 6
-tags:
-- Obsidian
-- AI Plugin
-- Knowledge Management
-- Note-Taking
-- Claude AI
-source: https://github.com/gustigainly930/OBSICLAUDE
-discovered_at: '2026-07-15T14:49:04Z'
-evaluated_by: mistral-small-latest
+tags: ["Obsidian", "AI Plugin", "Knowledge Management", "Note-Taking", "Claude AI"]
+source: "https://github.com/gustigainly930/OBSICLAUDE"
+discovered_at: "2026-07-15T14:49:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

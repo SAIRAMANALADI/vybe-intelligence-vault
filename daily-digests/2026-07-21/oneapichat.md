@@ -1,29 +1,13 @@
 ---
-title: chickenyoutoo-beautiful/oneapichat
-category: daily-digests/2026-07-21
-tech_stack:
-- PHP 8.3
-- Python 3.11+
-- FastAPI
-- Node.js
-- Nginx
-- SQLite
-- Playwright
-- Tailwind CSS
-- Vanilla JS
-- MCP (Model Context Protocol)
-- Docker (optional)
+title: "chickenyoutoo-beautiful/oneapichat"
+category: "Agent Framework"
+tech_stack: ["PHP 8.3", "Python 3.11+", "FastAPI", "Node.js", "Nginx", "SQLite", "Playwright", "Tailwind CSS", "Vanilla JS", "MCP (Model Context Protocol)", "Docker (optional)"]
 quality_score: 8
 rag_relevance: 7
-tags:
-- self-hosted
-- multi-model
-- MCP tools
-- agent orchestration
-- automation
-source: https://github.com/chickenyoutoo-beautiful/oneapichat
-discovered_at: '2026-07-19T13:17:33Z'
-evaluated_by: mistral-small-latest
+tags: ["self-hosted", "multi-model", "MCP tools", "agent orchestration", "automation"]
+source: "https://github.com/chickenyoutoo-beautiful/oneapichat"
+discovered_at: "2026-07-19T13:17:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

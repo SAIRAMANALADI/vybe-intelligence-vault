@@ -1,38 +1,13 @@
 ---
-title: sandraschi/games-dash
-category: daily-digests/2026-07-21
-tech_stack:
-- React 19
-- Vite 7
-- TypeScript 5.9
-- FastAPI
-- FastMCP 3.2
-- Three.js
-- Cannon.js
-- Tauri 2.0
-- Docker
-- Python 3.13
-- uv
-- WebSocket
-- Firebase
-- Playwright
-- OpenSpiel 1.6
-- Stockfish 16
-- KataGo
-- Edax 4.6
-- MoHex
-- GNU Backgammon
+title: "sandraschi/games-dash"
+category: "Tooling"
+tech_stack: ["React 19", "Vite 7", "TypeScript 5.9", "FastAPI", "FastMCP 3.2", "Three.js", "Cannon.js", "Tauri 2.0", "Docker", "Python 3.13", "uv", "WebSocket", "Firebase", "Playwright", "OpenSpiel 1.6", "Stockfish 16", "KataGo", "Edax 4.6", "MoHex", "GNU Backgammon"]
 quality_score: 9
 rag_relevance: 7
-tags:
-- game AI
-- multi-engine
-- agent tools
-- local-first
-- MCP server
-source: https://github.com/sandraschi/games-dash
-discovered_at: '2026-07-14T23:53:39Z'
-evaluated_by: mistral-small-latest
+tags: ["game AI", "multi-engine", "agent tools", "local-first", "MCP server"]
+source: "https://github.com/sandraschi/games-dash"
+discovered_at: "2026-07-14T23:53:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

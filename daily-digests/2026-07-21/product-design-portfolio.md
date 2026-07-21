@@ -1,26 +1,13 @@
 ---
-title: stasdodesign/product-design-portfolio
-category: daily-digests/2026-07-21
-tech_stack:
-- HTML
-- React
-- Next.js
-- Web Audio API
-- Web MIDI
-- Google Gemini
-- Vercel
-- UI/UX Design
+title: "stasdodesign/product-design-portfolio"
+category: "UI Component"
+tech_stack: ["HTML", "React", "Next.js", "Web Audio API", "Web MIDI", "Google Gemini", "Vercel", "UI/UX Design"]
 quality_score: 6
 rag_relevance: 4
-tags:
-- product design
-- AI interfaces
-- enterprise UX
-- spatial UI
-- design systems
-source: https://github.com/stasdodesign/product-design-portfolio
-discovered_at: '2026-07-11T21:47:04Z'
-evaluated_by: mistral-small-latest
+tags: ["product design", "AI interfaces", "enterprise UX", "spatial UI", "design systems"]
+source: "https://github.com/stasdodesign/product-design-portfolio"
+discovered_at: "2026-07-11T21:47:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

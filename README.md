@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-98%2C118-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-50%2C327-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--21-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **98,118 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **50,327 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 13,197</p>
-        <p><b>Active:</b> 12,936 | <b>Inactive:</b> 261</p>
+        <p><b>Resources tracked:</b> 12,192</p>
+        <p><b>Active:</b> 11,931 | <b>Inactive:</b> 261</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 48,845</p>
+        <p><b>Archive Files:</b> 2,016</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 98,118 files</p>
-        <p><b>Last Update:</b> 2026-07-21 14:34 IST</p>
+        <p><b>Total Vault Size:</b> 50,327 files</p>
+        <p><b>Last Update:</b> 2026-07-21 15:55 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,20 +210,17 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Who's afraid of Chinese models?](ai/community/who-s-afraid-of-chinese-models.md)** • <kbd>+235 pts</kbd>
-- 🔼 **[China’s open-weights AI strategy is winning](ai/community/american-ai-is-locked-down-and-proprietary-it-s-lo.md)** • <kbd>+92 pts</kbd>
-- 🔼 **[My two year old taught me constraint solving](ai/community/my-two-year-old-taught-me-constraint-solving.md)** • <kbd>+24 pts</kbd>
-- 🔼 **[How we measured AI writing across arXiv, and where the measurement breaks](ai/community/how-we-measured-ai-writing-across-arxiv-and-where.md)** • <kbd>+21 pts</kbd>
-- 🔼 **[Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12](ai/community/launch-hn-bloomy-yc-s26-ai-powered-mastery-learnin.md)** • <kbd>+19 pts</kbd>
+- 🔼 **[Releases · weaviate/weaviate · GitHub](ai/rag/weaviate-weaviate.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Configure markup](ai/rag/configure-markup.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Weaviate vector database - YouTube](ai/rag/weaviate-vector-database-youtube.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Submit a copyright counter notification - Computer - YouTube Help](ai/rag/submit-a-copyright-counter-notification-computer-y.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[webm/libwebp - Git at Google](ai/resources/webm-libwebp-git-at-google.md)** • Rank: <kbd>+2</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Five US tech giants' hidden debts soar to $1.65T on opaque AI funding](ai/community/five-us-tech-giants-hidden-debts-soar-to-1-65t-on.md)** • Score: `259`
-- 🆕 **[A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste](ai/community/a-koi-pond-mosaic-made-from-10-pounds-of-3d-printe.md)** • Score: `32`
-- 🆕 **[sentence-transformers/multi-qa-MiniLM-L6-cos-v1 · Hugging Face](ai/rag/huggingface-sentence-transformers-multi-qa-minilm-l6-cos-v1.md)** • Score: `0`
-- 🆕 **[Submit a copyright counter notification - Computer - YouTube Help](ai/rag/submit-a-copyright-counter-notification-computer-y.md)** • Score: `0`
-- 🆕 **[Research \ Anthropic](ai/agents/research-anthropic.md)** • Score: `0`
+- 🆕 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
