@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-22T22:34:29.338927+05:30`
+Generated at: `2026-07-22T22:52:08.615207+05:30`
 
 ## Executive Summary
 
@@ -15,33 +15,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **A Zipper Patent Sat in a Garage for 40 Years. Now It's Real** - Score: `28` in category `ai/community` ([Link](https://yankodesign.com/2026/05/31/a-zipper-patent-sat-in-a-garage-for-40-years-now-its-real)) ([File](../ai/community/a-zipper-patent-sat-in-a-garage-for-40-years-now-i.md))
 - **Which streaming service was that on again** - Score: `9` in category `ai/community` ([Link](https://timwehrle.de/blog/which-streaming-service-was-that-on-again)) ([File](../ai/community/which-streaming-service-was-that-on-again.md))
 - **Launch HN: Unlayer (YC W22) – Add email and document builders to your app** - Score: `8` in category `ai/community` ([Link](https://unlayer.com)) ([File](../ai/community/launch-hn-unlayer-yc-w22-add-email-and-document-bu.md))
-- **pedrolucazx/job-search** - Score: `0` in category `daily-digests/2026-07-17` ([File](../world/public/vault/daily-digests/2026-07-17/job-search.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
 - **OpenAI and Hugging Face address security incident during model evaluation** - Score: `1481` (+91), Rank Change: `0` ([File](../ai/community/openai-and-hugging-face-address-security-incident.md))
 - **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/particlemedia-ragtruth.md))
-- **ryanmarten/OpenThoughts-1k-sample** - Score: `0` (0), Rank Change: `+7` ([File](../ai/models/huggingface-datasets-ryanmarten.md))
-- **hallucinations-leaderboard/results** - Score: `0` (0), Rank Change: `+7` ([File](../ai/models/huggingface-datasets-hallucinations-leaderboard.md))
-- **allenai/c4** - Score: `0` (0), Rank Change: `+7` ([File](../ai/models/huggingface-datasets-allenai.md))
-- **hf-doc-build/doc-build-dev** - Score: `0` (0), Rank Change: `+7` ([File](../ai/models/huggingface-datasets-hf-doc-build.md))
-- **ksolovev/FineNews** - Score: `0` (0), Rank Change: `+7` ([File](../ai/models/huggingface-datasets-ksolovev.md))
-- **KakologArchives/KakologArchives** - Score: `0` (0), Rank Change: `+7` ([File](../ai/models/huggingface-datasets-kakologarchives.md))
-- **huggingface/documentation-images** - Score: `0` (0), Rank Change: `+7` ([File](../ai/models/huggingface-datasets-huggingface.md))
-- **Benjy/typed_digital_signatures** - Score: `0` (0), Rank Change: `+7` ([File](../ai/models/huggingface-datasets-benjy.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+962` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **ARUNAGIRINATHAN-K/awesome-ai-agents-2026** - Score: `0` (0), Rank Change: `+962` ([File](../ai/agents/arunagirinathan-k-awesome-ai-agents-2026.md))
+- **IBM/mt-rag-benchmark** - Score: `0` (0), Rank Change: `+962` ([File](../ai/rag/ibm-mt-rag-benchmark.md))
+- **gomate-community/awesome-papers-for-rag** - Score: `0` (0), Rank Change: `+962` ([File](../ai/rag/gomate-community-awesome-papers-for-rag.md))
+- **Azure-Samples/chat-with-your-data-solution-accelerator** - Score: `0` (0), Rank Change: `+962` ([File](../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md))
+- **FudanDNN-NLP/RAG** - Score: `0` (0), Rank Change: `+962` ([File](../ai/rag/fudandnn-nlp-rag.md))
+- **ajac-zero/example-rag-app** - Score: `0` (0), Rank Change: `+962` ([File](../ai/rag/ajac-zero-example-rag-app.md))
+- **Azure-Samples/azure-openai-rag-workshop-template** - Score: `0` (0), Rank Change: `+962` ([File](../ai/rag/azure-samples-azure-openai-rag-workshop-template.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **infiniflow/ragflow** - (Rank Change: `+11844`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **Medium** - (Rank Change: `+12896`) ([File](../ai/rag/medium-2.md))
 - **ParticleMedia/RAGTruth** - (Rank Change: `+965`) ([File](../ai/rag/particlemedia-ragtruth.md))
-- **ryanmarten/OpenThoughts-1k-sample** - (Rank Change: `+7`) ([File](../ai/models/huggingface-datasets-ryanmarten.md))
-- **hallucinations-leaderboard/results** - (Rank Change: `+7`) ([File](../ai/models/huggingface-datasets-hallucinations-leaderboard.md))
-- **allenai/c4** - (Rank Change: `+7`) ([File](../ai/models/huggingface-datasets-allenai.md))
-- **hf-doc-build/doc-build-dev** - (Rank Change: `+7`) ([File](../ai/models/huggingface-datasets-hf-doc-build.md))
-- **ksolovev/FineNews** - (Rank Change: `+7`) ([File](../ai/models/huggingface-datasets-ksolovev.md))
-- **KakologArchives/KakologArchives** - (Rank Change: `+7`) ([File](../ai/models/huggingface-datasets-kakologarchives.md))
-- **huggingface/documentation-images** - (Rank Change: `+7`) ([File](../ai/models/huggingface-datasets-huggingface.md))
-- **Benjy/typed_digital_signatures** - (Rank Change: `+7`) ([File](../ai/models/huggingface-datasets-benjy.md))
+- **monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1** - (Rank Change: `+963`) ([File](../ai/rag/monday-service-langsmith-building-a-code-first-eva.md))
+- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+963`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
+- **promptfoo/promptfoo-action** - (Rank Change: `+963`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
+- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+963`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
+- **Understanding RAG from Scratch | martinuke0's Blog** - (Rank Change: `+963`) ([File](../ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md))
+- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+963`) ([File](../ai/rag/arxiv-2606-29031.md))
+- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+963`) ([File](../ai/research/arxiv-2606-26428.md))
+- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+963`) ([File](../ai/research/arxiv-2606-21887.md))
 
 ## 🔄 Essential Tier Transitions
 
