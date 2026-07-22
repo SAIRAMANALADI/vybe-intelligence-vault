@@ -9730,12 +9730,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI Agent – TRMNL](../ai/community/ai-agent-trmnl.md)
+  - [How an AI Anime Is Created](../ai/community/how-an-ai-anime-is-created.md)
   - [Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](../ai/community/jack-dorsey-launches-buzz-to-combine-team-chat-ai.md)
-  - [Meta's AI models are powering the first wave of Genesis Mission projects](../ai/community/meta-s-ai-models-are-powering-the-first-wave-of-ge.md)
+  - [Judge approves $1.5B Anthropic settlement for pirated books used to train Claude](../ai/community/judge-approves-1-5b-anthropic-settlement-for-pirat.md)
   - [OpenAI and Hugging Face address security incident during model evaluation](../ai/community/openai-and-hugging-face-address-security-incident.md)
-  - [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](../ai/community/qwen-image-3-0-rich-content-authentic-details-deep.md)
-  - [Show HN: Browser Tools SDK – an optimal browser harness for agents](../ai/community/show-hn-browser-tools-sdk-an-optimal-browser-harne.md)
+  - [Recreating the math behind the first stealth aircraft](../ai/community/recreating-the-math-behind-the-first-stealth-aircr.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -12993,4 +12992,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-22T03:59:18.259004+05:30*
+*Index generated on 2026-07-22T09:31:56.868213+05:30*

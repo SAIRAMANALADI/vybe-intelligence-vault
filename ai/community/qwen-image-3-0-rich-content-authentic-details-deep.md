@@ -13,13 +13,14 @@ collected_at: '2026-07-22T03:42:37.124834+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:qwen-image-3-0-rich-content-authentic-details-deep
 first_seen: '2026-07-21T16:49:27.186489+05:30'
 last_seen: '2026-07-22T03:42:37.124834+05:30'
 last_checked: '2026-07-22T03:42:37.124834+05:30'
 health_score: 100
 ---
+
 
 # Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge
 

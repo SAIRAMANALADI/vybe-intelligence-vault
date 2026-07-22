@@ -524,4 +524,4 @@ This index groups curated resources by target developer skills.
 - [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (Tier: `essential` | [`Local File`](../../ai/rag/scotthavird-crewai-template.md))
 
 ---
-*Last updated: 2026-07-22 04:00 IST*
+*Last updated: 2026-07-22 09:33 IST*

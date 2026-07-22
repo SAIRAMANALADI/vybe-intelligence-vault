@@ -20,11 +20,11 @@ It provides rapid API development speed, automatic OpenAPI documentation, asynch
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 229 resources matched in the intelligence vault.
 Recently detected signals:
-- [SPIN: Decentralized Swarm Control via Tensorized Policy Coordination](../ai/rag/arxiv-2606-07557.md) (Source: Unknown Source) - Collected 2026-07-22
-- [Sobek: Streaming Equivariant Tensor Product Convolutions](../ai/research/arxiv-2607-18074.md) (Source: Unknown Source) - Collected 2026-07-22
 - [GHR-VLM: Making Zero-Shot Transit Video Analytics Realizable with Grounded Hybrid Reasoning](../ai/rag/arxiv-2607-13569.md) (Source: Unknown Source) - Collected 2026-07-22
 - [CAM: A Causality-based Analysis Framework for Multi-Agent Code Generation Systems](../ai/agents/arxiv-2602-02138.md) (Source: Unknown Source) - Collected 2026-07-22
 - [Natural Language Access to Domain-Specific Metadata: A Reusable Framework for LLM Query Generation](../ai/agents/arxiv-2607-18029.md) (Source: Unknown Source) - Collected 2026-07-22
+- [CLOSER-Bench: Evaluating Budgeted Cross-Stage Design Closure for Hardware Agents](../ai/rag/arxiv-2607-16632.md) (Source: Unknown Source) - Collected 2026-07-22
+- [Agentic ERP: Multi-Agent Large Language Model Architecture for Autonomous Enterprise Resource Planning](../ai/agents/arxiv-2607-17331.md) (Source: Unknown Source) - Collected 2026-07-22
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -300,4 +300,4 @@ Useful for roles such as: Full Stack Engineer, General Software Developer.
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-22T03:58:44.023798+05:30.057841+05:30.646784+05:30.624068+05:30.799577+05:30.664978+05:30.078478+05:30.420977+05:30.547698+05:30.531429+05:30.108240+05:30.255424+05:30.201316+05:30.614950+05:30.362155+05:30.601824+05:30.915572+05:30.316791+05:30.818733+05:30.260429+05:30.012496+05:30.407442+05:30.909714+05:30.722908+05:30.700951+05:30.640274+05:30.816789+05:30.678741+05:30.439495+05:30.536126+05:30.054340+05:30.961322+05:30.162935+05:30.316905+05:30.746906+05:30.604273+05:30.011835+05:30.187457+05:30.153218+05:30.049858+05:30.161651+05:30.974568+05:30.638178+05:30.745367+05:30.412597+05:30.537921+05:30.886696+05:30.234825+05:30.231199+05:30.586852+05:30.528114+05:30.056055+05:30.971532+05:30.116346+05:30.593635+05:30.613397+05:30.665609+05:30.987729+05:30.505777+05:30.824934+05:30.632015+05:30.978685+05:30.193594+05:30.968527+05:30.145967+05:30.636606+05:30.745557+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-22T09:31:02.023619+05:30.023798+05:30.057841+05:30.646784+05:30.624068+05:30.799577+05:30.664978+05:30.078478+05:30.420977+05:30.547698+05:30.531429+05:30.108240+05:30.255424+05:30.201316+05:30.614950+05:30.362155+05:30.601824+05:30.915572+05:30.316791+05:30.818733+05:30.260429+05:30.012496+05:30.407442+05:30.909714+05:30.722908+05:30.700951+05:30.640274+05:30.816789+05:30.678741+05:30.439495+05:30.536126+05:30.054340+05:30.961322+05:30.162935+05:30.316905+05:30.746906+05:30.604273+05:30.011835+05:30.187457+05:30.153218+05:30.049858+05:30.161651+05:30.974568+05:30.638178+05:30.745367+05:30.412597+05:30.537921+05:30.886696+05:30.234825+05:30.231199+05:30.586852+05:30.528114+05:30.056055+05:30.971532+05:30.116346+05:30.593635+05:30.613397+05:30.665609+05:30.987729+05:30.505777+05:30.824934+05:30.632015+05:30.978685+05:30.193594+05:30.968527+05:30.145967+05:30.636606+05:30.745557+05:30.

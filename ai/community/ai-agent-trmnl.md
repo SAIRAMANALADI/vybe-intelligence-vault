@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-agent-trmnl
 first_seen: '2026-07-22T01:21:23.850786+05:30'
 last_seen: '2026-07-22T03:42:38.629687+05:30'
 last_checked: '2026-07-22T03:42:38.629687+05:30'
 health_score: 100
 ---
+
 
 # AI Agent – TRMNL
 

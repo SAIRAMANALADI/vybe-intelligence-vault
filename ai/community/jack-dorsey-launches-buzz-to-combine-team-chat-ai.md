@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git
 hn_url: https://news.ycombinator.com/item?id=48995213
-score: 175
+score: 264
 author: ryanmerket
-comments_count: 163
+comments_count: 228
 published_at: '2026-07-21T22:44:06+05:30'
-collected_at: '2026-07-22T03:42:36.438564+05:30'
+collected_at: '2026-07-22T09:15:03.751312+05:30'
 tags:
 - agents
 - ai
@@ -18,8 +18,8 @@ tags:
 status: active
 resource_id: hackernews:jack-dorsey-launches-buzz-to-combine-team-chat-ai
 first_seen: '2026-07-22T01:21:21.313511+05:30'
-last_seen: '2026-07-22T03:42:36.438564+05:30'
-last_checked: '2026-07-22T03:42:36.438564+05:30'
+last_seen: '2026-07-22T09:15:03.751312+05:30'
+last_checked: '2026-07-22T09:15:03.751312+05:30'
 health_score: 100
 ---
 
@@ -27,7 +27,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by ryanmerket. Score: 175, Comments: 163.
+Hacker News story by ryanmerket. Score: 264, Comments: 228.
 Original Link: https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git
 
 ## Why It Matters
@@ -37,8 +37,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: ryanmerket
-- Score: 175 Upvotes
-- Comments: 163 Discussions
+- Score: 264 Upvotes
+- Comments: 228 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48995213
 - Original Article: https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git
 

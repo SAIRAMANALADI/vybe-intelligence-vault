@@ -19,13 +19,13 @@ AI agents represent the transition from passive text generation to active, goal-
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 2357 resources matched in the intelligence vault.
+Active signals: 2356 resources matched in the intelligence vault.
 Recently detected signals:
-- [AI Agent – TRMNL](../ai/community/ai-agent-trmnl.md) (Source: Unknown Source) - Collected 2026-07-22
 - [Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](../ai/community/jack-dorsey-launches-buzz-to-combine-team-chat-ai.md) (Source: Unknown Source) - Collected 2026-07-22
-- [Building Next.js for an agentic future](../ai/agents/building-next-js-for-an-agentic-future.md) (Source: Unknown Source) - Collected 2026-07-22
-- [Next.js 16.2: AI Improvements](../ai/agents/next-js-16-2-ai-improvements.md) (Source: Unknown Source) - Collected 2026-07-22
-- [Next.js 16.3: AI Improvements](../ai/agents/next-js-16-3-ai-improvements.md) (Source: Unknown Source) - Collected 2026-07-22
+- [Coercion and Deception in AI-to-AI Management: An Agentic Benchmark of Unprompted Escalation](../ai/agents/arxiv-2607-15434.md) (Source: Unknown Source) - Collected 2026-07-22
+- [Harnessing LLMs for Reliable Academic Supervision: A Comparative Study](../ai/agents/arxiv-2607-14707.md) (Source: Unknown Source) - Collected 2026-07-22
+- [How Agents Ask for Permission: User Permissions for AI Agents, from Interfaces to Enforcement](../ai/agents/arxiv-2607-13718.md) (Source: Unknown Source) - Collected 2026-07-22
+- [Boogu-Image-0.1: Boosting Open Agentic Multimodal Generation via Understanding under a Minimal Budget](../ai/agents/arxiv-2607-13125.md) (Source: Unknown Source) - Collected 2026-07-22
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -301,4 +301,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-22T03:58:43.037633+05:30.582118+05:30.130674+05:30.465456+05:30.435485+05:30.193452+05:30.955670+05:30.028864+05:30.219364+05:30.246109+05:30.808195+05:30.971840+05:30.835174+05:30.366310+05:30.118104+05:30.336855+05:30.686234+05:30.067346+05:30.577287+05:30.144563+05:30.714592+05:30.314389+05:30.637845+05:30.380885+05:30.546486+05:30.391871+05:30.649315+05:30.554674+05:30.354708+05:30.360708+05:30.005714+05:30.919156+05:30.030888+05:30.345874+05:30.707482+05:30.628117+05:30.034303+05:30.156000+05:30.319449+05:30.110089+05:30.782260+05:30.106382+05:30.999625+05:30.236595+05:30.913096+05:30.042557+05:30.450675+05:30.783290+05:30.782425+05:30.083616+05:30.077525+05:30.531231+05:30.539572+05:30.671032+05:30.145013+05:30.149869+05:30.236624+05:30.608028+05:30.124735+05:30.420008+05:30.259612+05:30.621412+05:30.398950+05:30.766203+05:30.229664+05:30.167707+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-22T09:31:00.537173+05:30.037633+05:30.582118+05:30.130674+05:30.465456+05:30.435485+05:30.193452+05:30.955670+05:30.028864+05:30.219364+05:30.246109+05:30.808195+05:30.971840+05:30.835174+05:30.366310+05:30.118104+05:30.336855+05:30.686234+05:30.067346+05:30.577287+05:30.144563+05:30.714592+05:30.314389+05:30.637845+05:30.380885+05:30.546486+05:30.391871+05:30.649315+05:30.554674+05:30.354708+05:30.360708+05:30.005714+05:30.919156+05:30.030888+05:30.345874+05:30.707482+05:30.628117+05:30.034303+05:30.156000+05:30.319449+05:30.110089+05:30.782260+05:30.106382+05:30.999625+05:30.236595+05:30.913096+05:30.042557+05:30.450675+05:30.783290+05:30.782425+05:30.083616+05:30.077525+05:30.531231+05:30.539572+05:30.671032+05:30.145013+05:30.149869+05:30.236624+05:30.608028+05:30.124735+05:30.420008+05:30.259612+05:30.621412+05:30.398950+05:30.766203+05:30.229664+05:30.167707+05:30.

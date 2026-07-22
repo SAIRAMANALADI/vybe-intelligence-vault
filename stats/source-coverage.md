@@ -4,30 +4,36 @@ Distribution of original signal ingestion sources across processed URLs:
 
 | Source Domain | Resource Count |
 | :--- | ---: |
-| arxiv | 8956 |
+| arxiv | 8957 |
+| huggingface | 870 |
 | github | 831 |
+| nextjs.org | 69 |
 | semanticscholar.org | 60 |
 | youtube | 31 |
 | support.google.com | 30 |
-| react.dev | 21 |
+| react.dev | 23 |
 | developers.google.com | 18 |
 | apple.com | 18 |
 | cloud.google.com | 15 |
-| huggingface | 13 |
 | developer.chrome.com | 13 |
+| anthropic.com | 12 |
 | web.dev | 12 |
+| microsoft.com | 11 |
 | gohugo.io | 11 |
 | doi.org | 11 |
 | support.apple.com | 11 |
 | atlassian.com | 11 |
+| mistral.ai | 10 |
 | nist.gov | 10 |
 | developer.android.com | 9 |
 | geeksforgeeks.org | 9 |
 | firebase.google.com | 9 |
 | docs.unity3d.com | 9 |
-| medium.com | 8 |
+| openai.com | 8 |
 | apps.apple.com | 8 |
+| medium.com | 8 |
 | learn.microsoft.com | 8 |
+| deepmind.google | 7 |
 | play.google.com | 7 |
 | docs.langchain.com | 7 |
 | help.medium.com | 7 |
@@ -51,7 +57,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | deepset.ai | 5 |
 | hub.docker.com | 5 |
 | datatracker.ietf.org | 5 |
-| openai.com | 4 |
 | speechify.com | 4 |
 | blog.google | 4 |
 | policies.google.com | 4 |
@@ -130,8 +135,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | tubitak.gov.tr | 3 |
 | torproject.org | 3 |
 | images.cnrs.fr | 3 |
-| nextjs.org | 3 |
-| ai.meta.com | 2 |
 | extensions.dev | 2 |
 | github.blog | 2 |
 | issuetracker.google.com | 2 |
@@ -154,8 +157,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | www4.law.cornell.edu | 2 |
 | discord.com | 2 |
 | resemble.ai | 2 |
-| anthropic.com | 2 |
-| deepmind.google | 2 |
 | android-developers.googleblog.com | 2 |
 | docs.firecrawl.dev | 2 |
 | opentelemetry.io | 2 |
@@ -250,10 +251,10 @@ Distribution of original signal ingestion sources across processed URLs:
 | unistra.fr | 2 |
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
-| qwen.ai | 1 |
 | runtimewire.com | 1 |
-| help.trmnl.com | 1 |
-| libretto.sh | 1 |
+| apnews.com | 1 |
+| pramit.gg | 1 |
+| aventos.dev | 1 |
 | gerrit.googlesource.com | 1 |
 | jucs.org | 1 |
 | gnosis.cx | 1 |
@@ -378,6 +379,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | globalcbpr.org | 1 |
 | issues.webmproject.org | 1 |
 | docs.zilliz.com | 1 |
+| ai.meta.com | 1 |
 | ollama.ai | 1 |
 | geeksforgeeksapp.page.link | 1 |
 | learnbybuilding.ai | 1 |
@@ -851,7 +853,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | dotnet.microsoft.com | 1 |
 | status.nixtla.io | 1 |
 | fhir.org | 1 |
-| microsoft.com | 1 |
 | campus.datacamp.com | 1 |
 | community.fhir.org | 1 |
 | learncodethehardway.com | 1 |

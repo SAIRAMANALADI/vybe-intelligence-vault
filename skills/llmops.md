@@ -21,11 +21,11 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 721 resources matched in the intelligence vault.
 Recently detected signals:
-- [Metadata-Free Meta-Reweighted Direct Preference Optimization under Noisy Preference Labels](../ai/research/arxiv-2607-09796.md) (Source: Unknown Source) - Collected 2026-07-22
-- [Tensor-Train Joint Modeling for Few-Step Discrete Diffusion](../ai/research/arxiv-2607-03788.md) (Source: Unknown Source) - Collected 2026-07-22
-- [How Many Iterations to Jailbreak? Dynamic Budget Allocation for Multi-Turn LLM Evaluation](../ai/rag/arxiv-2605-06605.md) (Source: Unknown Source) - Collected 2026-07-22
-- [Routing by Reaching: Composition of Pre-trained GFlowNets for Multi-Objective Generation](../ai/research/arxiv-2602-21565.md) (Source: Unknown Source) - Collected 2026-07-22
-- [NIRVANA: Structured Pruning Reimagined for Large Language Model Compression](../ai/research/arxiv-2509-14230.md) (Source: Unknown Source) - Collected 2026-07-22
+- [VideoSEMA: a scalable and efficient Mamba-like attention for video understanding](../ai/rag/arxiv-2607-14711.md) (Source: Unknown Source) - Collected 2026-07-22
+- [Semantic Anchoring for Robotic Action Representations](../ai/research/arxiv-2607-13597.md) (Source: Unknown Source) - Collected 2026-07-22
+- [Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack](../ai/research/arxiv-2606-14409.md) (Source: Unknown Source) - Collected 2026-07-22
+- [BiWM: Advancing Open-Source Interactive Video World Models with Bidirectional Autoregression](../ai/research/arxiv-2606-10135.md) (Source: Unknown Source) - Collected 2026-07-22
+- [Phantom Transitions in Language Model Fine-Tuning: A Density-Matrix Analysis](../ai/rag/arxiv-2606-07559.md) (Source: Unknown Source) - Collected 2026-07-22
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -226,4 +226,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-22T03:58:43.417501+05:30.152166+05:30.721703+05:30.915382+05:30.966615+05:30.764113+05:30.385557+05:30.567332+05:30.735695+05:30.745434+05:30.313265+05:30.467864+05:30.366258+05:30.850219+05:30.600182+05:30.827864+05:30.160807+05:30.551753+05:30.048264+05:30.580228+05:30.218675+05:30.737117+05:30.133154+05:30.907114+05:30.995114+05:30.879918+05:30.100207+05:30.992961+05:30.772346+05:30.817559+05:30.413937+05:30.324484+05:30.472404+05:30.722344+05:30.088271+05:30.008202+05:30.416368+05:30.558129+05:30.641788+05:30.475206+05:30.316516+05:30.443954+05:30.251607+05:30.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-22T09:31:01.111348+05:30.417501+05:30.152166+05:30.721703+05:30.915382+05:30.966615+05:30.764113+05:30.385557+05:30.567332+05:30.735695+05:30.745434+05:30.313265+05:30.467864+05:30.366258+05:30.850219+05:30.600182+05:30.827864+05:30.160807+05:30.551753+05:30.048264+05:30.580228+05:30.218675+05:30.737117+05:30.133154+05:30.907114+05:30.995114+05:30.879918+05:30.100207+05:30.992961+05:30.772346+05:30.817559+05:30.413937+05:30.324484+05:30.472404+05:30.722344+05:30.088271+05:30.008202+05:30.416368+05:30.558129+05:30.641788+05:30.475206+05:30.316516+05:30.443954+05:30.251607+05:30.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.

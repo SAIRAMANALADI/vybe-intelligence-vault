@@ -102,7 +102,6 @@ Resources organized by keyword tags.
   - [AGAPI-Agents: An Open-Access Agentic AI Platform for Accelerated Materials Design on AtomGPT.org](../ai/agents/arxiv-2512-11935.md)
   - [AGL-1: The Enterprise AI Governance Layer as a Control Plane for Trusted Enterprise Intelligence](../ai/rag/arxiv-2607-03516.md)
   - [AGORA: Can Deliberation and Governance Gates Absorb Participation Bias in Transit Planning?](../ai/rag/arxiv-2606-13696.md)
-  - [AI Agent – TRMNL](../ai/community/ai-agent-trmnl.md)
   - [AI Agents Are Here. What Now?](../ai/agents/huggingface-blog-ethics-soc-7.md)
   - [AI Agents Do Not Fail Alone:The Context Fails First](../ai/rag/arxiv-2607-14275.md)
   - [AI Chatbot Suicide Risk Detection and Response: Human Validation Study of the Open-Source VERA-MH Safety Evaluation](../ai/agents/arxiv-2602-05088.md)
@@ -2109,7 +2108,6 @@ Resources organized by keyword tags.
   - [Shift & Drift: A Zero-Shot Benchmark for Generalizable and Robust Autonomous Driving Motion Planning](../ai/rag/arxiv-2607-07844.md)
   - [ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](../ai/agents/arxiv-2606-31693.md)
   - [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](../ai/agents/arxiv-2605-22142.md)
-  - [Show HN: Browser Tools SDK – an optimal browser harness for agents](../ai/community/show-hn-browser-tools-sdk-an-optimal-browser-harne.md)
   - [Shutdownable Agents through POST-Agency](../ai/agents/arxiv-2505-20203.md)
   - [Siamese Neural Network for Label-Efficient Critical Phenomena Prediction in 3D Percolation Models](../ai/agents/arxiv-2507-14159.md)
   - [Signed Compression Progress on a Sealed Audit is Goodhart-Resistant](../ai/agents/arxiv-2606-11417.md)
@@ -2950,11 +2948,11 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI Agent – TRMNL](../ai/community/ai-agent-trmnl.md)
+  - [How an AI Anime Is Created](../ai/community/how-an-ai-anime-is-created.md)
   - [Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](../ai/community/jack-dorsey-launches-buzz-to-combine-team-chat-ai.md)
-  - [Meta's AI models are powering the first wave of Genesis Mission projects](../ai/community/meta-s-ai-models-are-powering-the-first-wave-of-ge.md)
+  - [Judge approves $1.5B Anthropic settlement for pirated books used to train Claude](../ai/community/judge-approves-1-5b-anthropic-settlement-for-pirat.md)
   - [OpenAI and Hugging Face address security incident during model evaluation](../ai/community/openai-and-hugging-face-address-security-incident.md)
-  - [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](../ai/community/qwen-image-3-0-rich-content-authentic-details-deep.md)
+  - [Recreating the math behind the first stealth aircraft](../ai/community/recreating-the-math-behind-the-first-stealth-aircr.md)
 
 ## animation
 
@@ -3149,6 +3147,7 @@ Resources organized by keyword tags.
   - [Iterating Toward Better Search: A Two-Agent Simulation Framework for Evaluating Agentic Search Architectures in E-Commerce](../ai/agents/arxiv-2606-12924.md)
   - [JCodesMore/ai-website-cloner-template](../ai/agents/jcodesmore-ai-website-cloner-template.md)
   - [JavaVulBench: A Java Vulnerability Benchmark with Realistic Splits, a Unified Multi-Backend Harness, and a Leakage-Aware Evaluation Mode](../ai/research/arxiv-2607-02825.md)
+  - [Judge approves $1.5B Anthropic settlement for pirated books used to train Claude](../ai/community/judge-approves-1-5b-anthropic-settlement-for-pirat.md)
   - [Judge-dependent safety gains and model-specific helpfulness costs of evidence-sufficiency prompting in clinical LLMs](../ai/research/arxiv-2607-18086.md)
   - [Judging the Judges: A Systematic Evaluation of Bias Mitigation Strategies in LLM-as-a-Judge Pipelines](../ai/research/arxiv-2604-23178.md)
   - [Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research](../ai/companies/anthropic/jul-14-2026announcementsanthropic-commits-10-milli.md)
@@ -11387,7 +11386,6 @@ Resources organized by keyword tags.
   - [AGDN: Learning to Solve Traveling Salesman Problem with Anisotropic Graph Diffusion Network](../ai/research/arxiv-2606-19185.md)
   - [AI & Vectors | Supabase Docs](../ai/rag/ai-vectors-supabase-docs.md)
   - [AI Adoption Across a Multinational Workforce: Sociotechnical Conditions for GenAI Acceptance in Human Resources](../ai/research/arxiv-2606-17887.md)
-  - [AI Agent – TRMNL](../ai/community/ai-agent-trmnl.md)
   - [AI Fiction in the Wild](../ai/research/arxiv-2606-22748.md)
   - [AI Model Catalog | Microsoft Foundry Models](../ai/agents/ai-model-catalog-microsoft-foundry-models.md)
   - [AI Outperforms Law Professors in Stanford Law Study - SLS News and Announcements - Stanford Law School](../ai/rag/ai-outperforms-law-professors-in-stanford-law-stud.md)
@@ -12176,6 +12174,7 @@ Resources organized by keyword tags.
   - [How Podium optimized agent behavior and reduced engineering intervention by 90% with LangSmith](../ai/agents/how-podium-optimized-agent-behavior-and-reduced-en.md)
   - [How We Handle Ads, Funding, and Data Security - Google - About Google](../ai/resources/how-we-handle-ads-funding-and-data-security-google.md)
   - [How YouTube Works: Giving Everyone a Voice](../ai/resources/how-youtube-works-giving-everyone-a-voice.md)
+  - [How an AI Anime Is Created](../ai/community/how-an-ai-anime-is-created.md)
   - [How building an HTML-first site doubled our users overnight](../ai/rag/how-building-an-html-first-site-doubled-our-users.md)
   - [How do we ensure our IoT products process information lawfully? | ICO](../ai/rag/how-do-we-ensure-our-iot-products-process-informat.md)
   - [How to DP-fy Your Data: A Practical Guide to Generating Synthetic Data With Differential Privacy](../ai/research/arxiv-2512-03238.md)
@@ -12271,6 +12270,7 @@ Resources organized by keyword tags.
   - [Joint Development Foundation](../ai/resources/joint-development-foundation.md)
   - [Joint distribution of upstream runoff governs downstream river-discharge prediction uncertainty in distributed ML models](../ai/rag/arxiv-2607-03217.md)
   - [JuZhou 1.0 Technical Report: The First Edge-Native Text-to-Image Foundation Model Trained Entirely on China-Developed AI Accelerators](../ai/rag/arxiv-2606-28421.md)
+  - [Judge approves $1.5B Anthropic settlement for pirated books used to train Claude](../ai/community/judge-approves-1-5b-anthropic-settlement-for-pirat.md)
   - [JupOtter: Cell-Level Bug Detection in Jupyter Notebooks](../ai/research/arxiv-2606-23877.md)
   - [JupyterHub · GitHub](../ai/resources/jupyterhub-github.md)
   - [JupyterHub — JupyterHub documentation](../ai/resources/jupyterhub-jupyterhub-documentation.md)
@@ -12425,7 +12425,6 @@ Resources organized by keyword tags.
   - [Medium Terms of Service - Effective date March 7, 2016 through August 31, 2020 – Medium Help Center](../ai/rag/medium-terms-of-service-effective-date-march-7-201.md)
   - [Medium/medium-policy](../ai/resources/medium-medium-policy.md)
   - [Membership Terms of Service – Medium Help Center](../ai/rag/membership-terms-of-service-medium-help-center.md)
-  - [Meta's AI models are powering the first wave of Genesis Mission projects](../ai/community/meta-s-ai-models-are-powering-the-first-wave-of-ge.md)
   - [Meta-classification of one-class classification models using ranking correlation and nearest neighbor](../ai/research/arxiv-2606-17858.md)
   - [MetaConfigurator: AI-Assisted RDF Authoring from JSON Data](../ai/agents/arxiv-2606-07094.md)
   - [Metacognition in LLMs: Foundations, Progress, and Opportunities](../ai/research/arxiv-2607-11881.md)
@@ -12676,7 +12675,6 @@ Resources organized by keyword tags.
   - [Quickstart to Serving Cluster | BYOC | Zilliz Cloud Developer Hub](../ai/rag/quickstart-to-serving-cluster-byoc-zilliz-cloud-de.md)
   - [Quickstart | GitBook Documentation](../ai/rag/quickstart-gitbook-documentation.md)
   - [Quickstart — Sentence Transformers documentation](../ai/rag/quickstart-sentence-transformers-documentation.md)
-  - [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](../ai/community/qwen-image-3-0-rich-content-authentic-details-deep.md)
   - [Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models](../ai/research/arxiv-2606-17846.md)
   - [QwenLM/Qwen3](../ai/resources/qwenlm-qwen3.md)
   - [R Markdown: The Definitive Guide](../ai/rag/r-markdown-the-definitive-guide.md)
@@ -12715,6 +12713,7 @@ Resources organized by keyword tags.
   - [Real-Time Hard Negative Sampling via LLM-based Clustering for Large-Scale Two-Tower Retrieval](../ai/rag/arxiv-2607-00448.md)
   - [Recent activity - Stack Overflow for Agents](../ai/agents/recent-activity-stack-overflow-for-agents.md)
   - [Reconstructing Template-Memorized Images from Natural Prompts](../ai/rag/arxiv-2507-07947.md)
+  - [Recreating the math behind the first stealth aircraft](../ai/community/recreating-the-math-behind-the-first-stealth-aircr.md)
   - [Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous Research Loops](../ai/agents/arxiv-2607-07663.md)
   - [Redirecting](../ai/resources/redirecting.md)
   - [Redirecting to Unicode Resources page](../ai/resources/redirecting-to-unicode-resources-page.md)
@@ -12850,7 +12849,6 @@ Resources organized by keyword tags.
   - [Seven Security Challenges in Cross-domain Multi-agent LLM Systems](../ai/agents/arxiv-2505-23847.md)
   - [Sexualised synthetic personas encode and amplify gendered power asymmetries through voice](../ai/research/arxiv-2606-21366.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Browser Tools SDK – an optimal browser harness for agents](../ai/community/show-hn-browser-tools-sdk-an-optimal-browser-harne.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Sign in to GitHub · GitHub](../ai/resources/langchain-ai-docs.md)
@@ -30687,4 +30685,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-22T03:59:18.177464+05:30*
+*Index generated on 2026-07-22T09:31:56.728178+05:30*

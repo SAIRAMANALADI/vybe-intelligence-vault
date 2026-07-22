@@ -13,13 +13,14 @@ collected_at: '2026-07-22T03:42:37.245583+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:meta-s-ai-models-are-powering-the-first-wave-of-ge
 first_seen: '2026-07-22T01:21:22.920774+05:30'
 last_seen: '2026-07-22T03:42:37.245583+05:30'
 last_checked: '2026-07-22T03:42:37.245583+05:30'
 health_score: 100
 ---
+
 
 # Meta's AI models are powering the first wave of Genesis Mission projects
 

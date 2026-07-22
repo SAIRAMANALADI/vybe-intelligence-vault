@@ -20,11 +20,11 @@ Running models locally eliminates API costs, guarantees complete data privacy, a
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 268 resources matched in the intelligence vault.
 Recently detected signals:
-- [Mixed-Timescale Differential Coding for Downlink Model Broadcast in Wireless Federated Learning](../ai/research/arxiv-2607-13119.md) (Source: Unknown Source) - Collected 2026-07-22
-- [LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget](../ai/agents/arxiv-2607-14952.md) (Source: Unknown Source) - Collected 2026-07-22
-- [Online-Score-Aided Federated Learning for Resource-Constrained Wireless Clients with Continual Data Arrival](../ai/rag/arxiv-2408-05886.md) (Source: Unknown Source) - Collected 2026-07-22
-- [AutoEncoder-Compressed Parallel Split Learning for Pre-trained Model Fine-Tuning](../ai/research/arxiv-2607-17913.md) (Source: Unknown Source) - Collected 2026-07-22
-- [FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications](../ai/agents/arxiv-2607-18171.md) (Source: Unknown Source) - Collected 2026-07-22
+- [Jetson-PI: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference](../ai/rag/arxiv-2607-12659.md) (Source: Unknown Source) - Collected 2026-07-22
+- [Evolution Strategy-Based Calibration for Low-Bit Quantization of Speech Models](../ai/research/arxiv-2603-08173.md) (Source: Unknown Source) - Collected 2026-07-22
+- [Heteroskedastic Signals in Budgeted LLM Verification: Structural Heterogeneity Limits Optimization Gains](../ai/research/arxiv-2606-15841.md) (Source: Unknown Source) - Collected 2026-07-22
+- [Natural Language Access to Domain-Specific Metadata: A Reusable Framework for LLM Query Generation](../ai/agents/arxiv-2607-18029.md) (Source: Unknown Source) - Collected 2026-07-22
+- [SAGA: Synthetic Agentic Graph Architecture for Temporal Benchmark Generation](../ai/rag/arxiv-2607-17288.md) (Source: Unknown Source) - Collected 2026-07-22
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -155,4 +155,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-22T03:58:44.236548+05:30.377713+05:30.973637+05:30.876239+05:30.091963+05:30.983238+05:30.319410+05:30.725011+05:30.829416+05:30.810784+05:30.385296+05:30.533110+05:30.496799+05:30.883476+05:30.630342+05:30.872853+05:30.179992+05:30.585961+05:30.090787+05:30.500607+05:30.289964+05:30.638312+05:30.180930+05:30.010139+05:30.946691+05:30.907244+05:30.063635+05:30.919364+05:30.670335+05:30.788692+05:30.277544+05:30.183659+05:30.405161+05:30.524351+05:30.952742+05:30.808471+05:30.221631+05:30.405691+05:30.329167+05:30.249300+05:30.450823+05:30.174840+05:30.771312+05:30.853749+05:30.520837+05:30.643653+05:30.981025+05:30.333498+05:30.326328+05:30.690199+05:30.625588+05:30.160508+05:30.066218+05:30.214083+05:30.692289+05:30.716163+05:30.758491+05:30.072306+05:30.587361+05:30.912845+05:30.713486+05:30.057085+05:30.279498+05:30.095745+05:30.229013+05:30.726067+05:30.881805+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-22T09:31:02.344134+05:30.236548+05:30.377713+05:30.973637+05:30.876239+05:30.091963+05:30.983238+05:30.319410+05:30.725011+05:30.829416+05:30.810784+05:30.385296+05:30.533110+05:30.496799+05:30.883476+05:30.630342+05:30.872853+05:30.179992+05:30.585961+05:30.090787+05:30.500607+05:30.289964+05:30.638312+05:30.180930+05:30.010139+05:30.946691+05:30.907244+05:30.063635+05:30.919364+05:30.670335+05:30.788692+05:30.277544+05:30.183659+05:30.405161+05:30.524351+05:30.952742+05:30.808471+05:30.221631+05:30.405691+05:30.329167+05:30.249300+05:30.450823+05:30.174840+05:30.771312+05:30.853749+05:30.520837+05:30.643653+05:30.981025+05:30.333498+05:30.326328+05:30.690199+05:30.625588+05:30.160508+05:30.066218+05:30.214083+05:30.692289+05:30.716163+05:30.758491+05:30.072306+05:30.587361+05:30.912845+05:30.713486+05:30.057085+05:30.279498+05:30.095745+05:30.229013+05:30.726067+05:30.881805+05:30.
