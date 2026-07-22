@@ -15,13 +15,14 @@ tags:
 - hackernews
 - openai
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:openai-says-its-ai-went-rogue-and-launched-unprece
 first_seen: '2026-07-22T19:52:01.187661+05:30'
 last_seen: '2026-07-22T19:52:01.187661+05:30'
 last_checked: '2026-07-22T19:52:01.187661+05:30'
 health_score: 100
 ---
+
 
 # OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack
 

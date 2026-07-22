@@ -13,13 +13,14 @@ collected_at: '2026-07-22T19:51:58.227810+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:overpaid-fire-your-ceo-hire-the-future
 first_seen: '2026-07-22T19:51:58.227810+05:30'
 last_seen: '2026-07-22T19:51:58.227810+05:30'
 last_checked: '2026-07-22T19:51:58.227810+05:30'
 health_score: 100
 ---
+
 
 # OverpAId – Fire your CEO. Hire the future
 

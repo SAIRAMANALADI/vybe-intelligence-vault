@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:judge-approves-1-5b-anthropic-settlement-for-pirat
 first_seen: '2026-07-22T09:15:03.548761+05:30'
 last_seen: '2026-07-22T19:51:59.977062+05:30'
 last_checked: '2026-07-22T19:51:59.977062+05:30'
 health_score: 100
 ---
+
 
 # Judge approves $1.5B Anthropic settlement for pirated books used to train Claude
 

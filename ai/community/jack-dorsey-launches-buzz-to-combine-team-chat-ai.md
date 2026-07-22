@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:jack-dorsey-launches-buzz-to-combine-team-chat-ai
 first_seen: '2026-07-22T01:21:21.313511+05:30'
 last_seen: '2026-07-22T19:52:00.807268+05:30'
 last_checked: '2026-07-22T19:52:00.807268+05:30'
 health_score: 100
 ---
+
 
 # Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting
 
