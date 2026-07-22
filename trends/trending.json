@@ -1,107 +1,16 @@
 {
-  "generated_at": "2026-07-22T04:30:43.602599+05:30",
+  "generated_at": "2026-07-22T05:31:36.499686+05:30",
   "trending_resources": [
     {
-      "id": "hackernews:jack-dorsey-launches-buzz-to-combine-team-chat-ai",
-      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-      "file_path": "ai/community/jack-dorsey-launches-buzz-to-combine-team-chat-ai.md",
-      "score": 175,
-      "score_change": 93,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:qwen-image-3-0-rich-content-authentic-details-deep",
-      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "file_path": "ai/community/qwen-image-3-0-rich-content-authentic-details-deep.md",
-      "score": 521,
-      "score_change": 24,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:meta-s-ai-models-are-powering-the-first-wave-of-ge",
-      "title": "Meta's AI models are powering the first wave of Genesis Mission projects",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino?_fb_noscript=1",
-      "file_path": "ai/community/meta-s-ai-models-are-powering-the-first-wave-of-ge.md",
-      "score": 84,
-      "score_change": 21,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:ai-agent-trmnl",
-      "title": "AI Agent – TRMNL",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://help.trmnl.com/en/articles/14130438-ai-agent",
-      "file_path": "ai/community/ai-agent-trmnl.md",
-      "score": 32,
-      "score_change": 21,
-      "rank_change": 2,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:particlemedia/ragtruth",
-      "title": "ParticleMedia/RAGTruth",
-      "category": "ai/rag",
+      "id": "github:docker/compose-for-agents",
+      "title": "docker/compose-for-agents",
+      "category": "ai/agents",
       "source_type": "github",
-      "url": "https://github.com/particlemedia/ragtruth",
-      "file_path": "ai/rag/particlemedia-ragtruth.md",
+      "url": "https://github.com/docker/compose-for-agents",
+      "file_path": "ai/agents/docker-compose-for-agents.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 3,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:datawhalechina/all-in-rag",
-      "title": "datawhalechina/all-in-rag",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/all-in-rag",
-      "file_path": "ai/rag/datawhalechina-all-in-rag.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:raganwald/raganwald.github.com",
-      "title": "raganwald/raganwald.github.com",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/raganwald/raganwald.github.com",
-      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1303,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:datawhalechina/llm-universe",
-      "title": "datawhalechina/llm-universe",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/llm-universe",
-      "file_path": "ai/rag/datawhalechina-llm-universe.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
+      "rank_change": 965,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -130,6 +39,97 @@
       "rank_change": 965,
       "new_resource": false,
       "tier": "tier-3"
+    },
+    {
+      "id": "blog:kotlin-and-android-android-developers",
+      "title": "Kotlin and Android | Android Developers",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://developer.android.com/kotlin",
+      "file_path": "ai/rag/kotlin-and-android-android-developers.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 965,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:gitiles-git-at-google",
+      "title": "gitiles - Git at Google",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://gerrit.googlesource.com/gitiles",
+      "file_path": "ai/resources/gitiles-git-at-google.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 965,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:firebase-github",
+      "title": "Firebase · GitHub",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://github.com/firebase",
+      "file_path": "ai/resources/firebase-github.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 965,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:stream-firestore-to-bigquery-firebase-extensions-h",
+      "title": "Stream Firestore to BigQuery | Firebase Extensions Hub",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://extensions.dev/extensions/firebase/firestore-bigquery-export",
+      "file_path": "ai/rag/stream-firestore-to-bigquery-firebase-extensions-h.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 965,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:analyze-issues-from-firebase-crashlytics-and-andro",
+      "title": "Analyze issues from Firebase Crashlytics and Android Vitals with App Quality Insights | Android Studio | Android Develop",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://developer.android.com/studio/debug/app-quality-insights",
+      "file_path": "ai/resources/analyze-issues-from-firebase-crashlytics-and-andro.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 965,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:mongodb-the-worlds-leading-modern-data-platform-mo",
+      "title": "MongoDB: The World’s Leading Modern Data Platform | MongoDB",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "http://mongodb.com",
+      "file_path": "ai/rag/mongodb-the-worlds-leading-modern-data-platform-mo.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 965,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:modular/modular",
+      "title": "modular/modular",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/modular/modular",
+      "file_path": "ai/rag/modular-modular.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 965,
+      "new_resource": false,
+      "tier": "tier-3"
     }
   ],
   "fastest_rising_tools": [
@@ -142,7 +142,7 @@
       "file_path": "ai/rag/medium-2.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 12915,
+      "rank_change": 12914,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -155,20 +155,7 @@
       "file_path": "ai/rag/ruc-nlpir-flashrag-2.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 12829,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:raganwald/raganwald.github.com",
-      "title": "raganwald/raganwald.github.com",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/raganwald/raganwald.github.com",
-      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1303,
+      "rank_change": 12828,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -181,7 +168,7 @@
       "file_path": "ai/rag/monday-service-langsmith-building-a-code-first-eva.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 967,
+      "rank_change": 966,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -194,7 +181,7 @@
       "file_path": "ai/rag/medium-terms-of-service-by-medium-medium-policy.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 967,
+      "rank_change": 966,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -207,7 +194,7 @@
       "file_path": "ai/rag/promptfoo-promptfoo-action.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 967,
+      "rank_change": 966,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -220,7 +207,7 @@
       "file_path": "ai/rag/alucek-graphrag-breakdown.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 967,
+      "rank_change": 966,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -233,7 +220,7 @@
       "file_path": "ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 967,
+      "rank_change": 966,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,7 +233,7 @@
       "file_path": "ai/rag/arxiv-2606-29031.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 967,
+      "rank_change": 966,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -259,38 +246,25 @@
       "file_path": "ai/research/arxiv-2606-26428.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 967,
+      "rank_change": 966,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.21887",
+      "title": "Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.21887",
+      "file_path": "ai/research/arxiv-2606-21887.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 966,
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "new_discoveries": [
-    {
-      "id": "hackernews:openai-and-hugging-face-address-security-incident",
-      "title": "OpenAI and Hugging Face address security incident during model evaluation",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "file_path": "ai/community/openai-and-hugging-face-address-security-incident.md",
-      "score": 384,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:show-hn-browser-tools-sdk-an-optimal-browser-harne",
-      "title": "Show HN: Browser Tools SDK – an optimal browser harness for agents",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://libretto.sh/browser-tools",
-      "file_path": "ai/community/show-hn-browser-tools-sdk-an-optimal-browser-harne.md",
-      "score": 4,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
     {
       "id": "blog:langchain-ai-langgraph",
       "title": "langchain-ai/langgraph",
@@ -305,32 +279,7 @@
       "tier": "tier-3"
     }
   ],
-  "recently_inactive_resources": [
-    {
-      "id": "hackernews:ai-makes-programming-differently-difficult",
-      "title": "AI makes programming differently difficult",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult",
-      "file_path": "ai/community/ai-makes-programming-differently-difficult.md"
-    },
-    {
-      "id": "hackernews:firefox-containers-preview",
-      "title": "Firefox Containers Preview",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview",
-      "file_path": "ai/community/firefox-containers-preview.md"
-    },
-    {
-      "id": "hackernews:i-built-a-page-that-tells-you-what-ai-model-your-l",
-      "title": "I built a page that tells you what AI model your laptop can run",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://localsotabenchmark.engineersf.dev",
-      "file_path": "ai/community/i-built-a-page-that-tells-you-what-ai-model-your-l.md"
-    }
-  ],
+  "recently_inactive_resources": [],
   "entered_essential": [],
   "left_essential": []
 }
