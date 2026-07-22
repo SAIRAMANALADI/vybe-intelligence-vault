@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T11:24:45.627256+05:30",
-  "last_updated": "2026-07-22 11:24 IST",
+  "generated_at": "2026-07-22T14:01:24.328868+05:30",
+  "last_updated": "2026-07-22 14:01 IST",
   "total_resources": 12258,
   "active_resources": 11982,
   "inactive_resources": 276,
@@ -17,7 +17,7 @@
   "examples_count": 8,
   "search_index_entries": 29573,
   "latest_resource_date": "2026-07-22T09:15:50.059667+05:30",
-  "latest_update_time": "2026-07-22T11:24:45.627315+05:30",
+  "latest_update_time": "2026-07-22T14:01:24.328927+05:30",
   "top_categories": [
     {
       "name": "ai/research",
