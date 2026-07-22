@@ -1,29 +1,16 @@
 {
-  "generated_at": "2026-07-22T22:52:08.615207+05:30",
+  "generated_at": "2026-07-23T00:50:03.083155+05:30",
   "trending_resources": [
     {
-      "id": "hackernews:openai-and-hugging-face-address-security-incident",
-      "title": "OpenAI and Hugging Face address security incident during model evaluation",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "file_path": "ai/community/openai-and-hugging-face-address-security-incident.md",
-      "score": 1481,
-      "score_change": 91,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:particlemedia/ragtruth",
-      "title": "ParticleMedia/RAGTruth",
+      "id": "github:datawhalechina/llm-universe",
+      "title": "datawhalechina/llm-universe",
       "category": "ai/rag",
       "source_type": "github",
-      "url": "https://github.com/particlemedia/ragtruth",
-      "file_path": "ai/rag/particlemedia-ragtruth.md",
+      "url": "https://github.com/datawhalechina/llm-universe",
+      "file_path": "ai/rag/datawhalechina-llm-universe.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 965,
+      "rank_change": 964,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -36,7 +23,7 @@
       "file_path": "ai/rag/sylphai-inc-githubchat.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 962,
+      "rank_change": 964,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -49,7 +36,7 @@
       "file_path": "ai/agents/arunagirinathan-k-awesome-ai-agents-2026.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 962,
+      "rank_change": 964,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -62,7 +49,7 @@
       "file_path": "ai/rag/ibm-mt-rag-benchmark.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 962,
+      "rank_change": 964,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -75,7 +62,7 @@
       "file_path": "ai/rag/gomate-community-awesome-papers-for-rag.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 962,
+      "rank_change": 964,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -88,7 +75,7 @@
       "file_path": "ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 962,
+      "rank_change": 964,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -101,7 +88,7 @@
       "file_path": "ai/rag/fudandnn-nlp-rag.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 962,
+      "rank_change": 964,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -114,7 +101,7 @@
       "file_path": "ai/rag/ajac-zero-example-rag-app.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 962,
+      "rank_change": 964,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -127,7 +114,20 @@
       "file_path": "ai/rag/azure-samples-azure-openai-rag-workshop-template.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 962,
+      "rank_change": 964,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:community-dreams-foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-template-repository",
+      "title": "Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/community-dreams-foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-template-repository",
+      "file_path": "ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 964,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -142,20 +142,20 @@
       "file_path": "ai/rag/medium-2.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 12896,
+      "rank_change": 12898,
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "github:particlemedia/ragtruth",
-      "title": "ParticleMedia/RAGTruth",
+      "id": "github:ruc-nlpir/flashrag",
+      "title": "RUC-NLPIR/FlashRAG",
       "category": "ai/rag",
       "source_type": "github",
-      "url": "https://github.com/particlemedia/ragtruth",
-      "file_path": "ai/rag/particlemedia-ragtruth.md",
+      "url": "https://github.com/ruc-nlpir/flashrag",
+      "file_path": "ai/rag/ruc-nlpir-flashrag-2.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 965,
+      "rank_change": 12812,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -168,7 +168,7 @@
       "file_path": "ai/rag/monday-service-langsmith-building-a-code-first-eva.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 963,
+      "rank_change": 965,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -181,7 +181,7 @@
       "file_path": "ai/rag/medium-terms-of-service-by-medium-medium-policy.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 963,
+      "rank_change": 965,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -194,7 +194,7 @@
       "file_path": "ai/rag/promptfoo-promptfoo-action.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 963,
+      "rank_change": 965,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -207,7 +207,7 @@
       "file_path": "ai/rag/alucek-graphrag-breakdown.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 963,
+      "rank_change": 965,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -220,7 +220,7 @@
       "file_path": "ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 963,
+      "rank_change": 965,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -233,7 +233,7 @@
       "file_path": "ai/rag/arxiv-2606-29031.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 963,
+      "rank_change": 965,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,7 +246,7 @@
       "file_path": "ai/research/arxiv-2606-26428.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 963,
+      "rank_change": 965,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -259,103 +259,12 @@
       "file_path": "ai/research/arxiv-2606-21887.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 963,
+      "rank_change": 965,
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "new_discoveries": [
-    {
-      "id": "hackernews:passkeys-were-invented-by-engineers-with-zero-unde",
-      "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://twitter.com/nikitabier/status/2079787406300266743",
-      "file_path": "ai/community/passkeys-were-invented-by-engineers-with-zero-unde.md",
-      "score": 135,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:most-americans-say-not-in-my-backyard-to-ai-data-c",
-      "title": "Most Americans say \"not in my backyard\" to AI data centers",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://redfin.com/news/ai-data-centers-opposition-education-benefit",
-      "file_path": "ai/community/most-americans-say-not-in-my-backyard-to-ai-data-c.md",
-      "score": 47,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:openai-presence",
-      "title": "OpenAI Presence",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://openai.com/index/introducing-openai-presence",
-      "file_path": "ai/community/openai-presence.md",
-      "score": 40,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:airbus-full-scale-foldable-wing-extensions",
-      "title": "Airbus Full Scale Foldable Wing Extensions",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow",
-      "file_path": "ai/community/airbus-full-scale-foldable-wing-extensions.md",
-      "score": 29,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:a-zipper-patent-sat-in-a-garage-for-40-years-now-i",
-      "title": "A Zipper Patent Sat in a Garage for 40 Years. Now It's Real",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://yankodesign.com/2026/05/31/a-zipper-patent-sat-in-a-garage-for-40-years-now-its-real",
-      "file_path": "ai/community/a-zipper-patent-sat-in-a-garage-for-40-years-now-i.md",
-      "score": 28,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:which-streaming-service-was-that-on-again",
-      "title": "Which streaming service was that on again",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://timwehrle.de/blog/which-streaming-service-was-that-on-again",
-      "file_path": "ai/community/which-streaming-service-was-that-on-again.md",
-      "score": 9,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:launch-hn-unlayer-yc-w22-add-email-and-document-bu",
-      "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://unlayer.com",
-      "file_path": "ai/community/launch-hn-unlayer-yc-w22-add-email-and-document-bu.md",
-      "score": 8,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
     {
       "id": "blog:langchain-ai-langgraph",
       "title": "langchain-ai/langgraph",
@@ -370,48 +279,7 @@
       "tier": "tier-3"
     }
   ],
-  "recently_inactive_resources": [
-    {
-      "id": "hackernews:overpaid-fire-your-ceo-hire-the-future",
-      "title": "OverpAId – Fire your CEO. Hire the future",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://overpaid.lol",
-      "file_path": "ai/community/overpaid-fire-your-ceo-hire-the-future.md"
-    },
-    {
-      "id": "hackernews:judge-approves-1-5b-anthropic-settlement-for-pirat",
-      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-      "file_path": "ai/community/judge-approves-1-5b-anthropic-settlement-for-pirat.md"
-    },
-    {
-      "id": "hackernews:jack-dorsey-launches-buzz-to-combine-team-chat-ai",
-      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-      "file_path": "ai/community/jack-dorsey-launches-buzz-to-combine-team-chat-ai.md"
-    },
-    {
-      "id": "hackernews:businesses-with-ugly-ai-menu-redesigns",
-      "title": "Businesses with ugly AI menu redesigns",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns",
-      "file_path": "ai/community/businesses-with-ugly-ai-menu-redesigns.md"
-    },
-    {
-      "id": "hackernews:openai-says-its-ai-went-rogue-and-launched-unprece",
-      "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://bbc.com/news/articles/c3ek3gvdnj3o",
-      "file_path": "ai/community/openai-says-its-ai-went-rogue-and-launched-unprece.md"
-    }
-  ],
+  "recently_inactive_resources": [],
   "entered_essential": [],
   "left_essential": []
 }

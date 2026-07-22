@@ -11,7 +11,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
 [![Resources](https://img.shields.io/badge/Resources%20Indexed-53%2C435-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
-[![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--22-374151?style=flat-square)](#)
+[![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--23-374151?style=flat-square)](#)
 
 [Overview](#-overview) · [How It Works](#-how-it-works) · [Architecture](#-architecture) · [Quick Start](#-quick-start) · [Vault Stats](#-vault-stats) · [Contributing](#-contributing)
 
@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 53,435 files</p>
-        <p><b>Last Update:</b> 2026-07-22 22:52 IST</p>
+        <p><b>Last Update:</b> 2026-07-23 00:50 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,29 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[OpenAI and Hugging Face address security incident during model evaluation](ai/community/openai-and-hugging-face-address-security-incident.md)** • <kbd>+91 pts</kbd>
-- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+962</kbd>
-- 🔼 **[ARUNAGIRINATHAN-K/awesome-ai-agents-2026](ai/agents/arunagirinathan-k-awesome-ai-agents-2026.md)** • Rank: <kbd>+962</kbd>
-- 🔼 **[IBM/mt-rag-benchmark](ai/rag/ibm-mt-rag-benchmark.md)** • Rank: <kbd>+962</kbd>
+- 🔼 **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** • Rank: <kbd>+964</kbd>
+- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+964</kbd>
+- 🔼 **[ARUNAGIRINATHAN-K/awesome-ai-agents-2026](ai/agents/arunagirinathan-k-awesome-ai-agents-2026.md)** • Rank: <kbd>+964</kbd>
+- 🔼 **[IBM/mt-rag-benchmark](ai/rag/ibm-mt-rag-benchmark.md)** • Rank: <kbd>+964</kbd>
+- 🔼 **[gomate-community/awesome-papers-for-rag](ai/rag/gomate-community-awesome-papers-for-rag.md)** • Rank: <kbd>+964</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Passkeys were invented by engineers with zero understanding of consumer brain](ai/community/passkeys-were-invented-by-engineers-with-zero-unde.md)** • Score: `135`
-- 🆕 **[Most Americans say "not in my backyard" to AI data centers](ai/community/most-americans-say-not-in-my-backyard-to-ai-data-c.md)** • Score: `47`
-- 🆕 **[OpenAI Presence](ai/community/openai-presence.md)** • Score: `40`
-- 🆕 **[Airbus Full Scale Foldable Wing Extensions](ai/community/airbus-full-scale-foldable-wing-extensions.md)** • Score: `29`
-- 🆕 **[A Zipper Patent Sat in a Garage for 40 Years. Now It's Real](ai/community/a-zipper-patent-sat-in-a-garage-for-40-years-now-i.md)** • Score: `28`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[OverpAId – Fire your CEO. Hire the future](ai/community/overpaid-fire-your-ceo-hire-the-future.md)**
-- 💤 **[Judge approves $1.5B Anthropic settlement for pirated books used to train Claude](ai/community/judge-approves-1-5b-anthropic-settlement-for-pirat.md)**
-- 💤 **[Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](ai/community/jack-dorsey-launches-buzz-to-combine-team-chat-ai.md)**
-- 💤 **[Businesses with ugly AI menu redesigns](ai/community/businesses-with-ugly-ai-menu-redesigns.md)**
-- 💤 **[OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack](ai/community/openai-says-its-ai-went-rogue-and-launched-unprece.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
