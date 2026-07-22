@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:show-hn-a-new-kind-of-fps-aim-trainer
 first_seen: '2026-07-22T14:14:35.410346+05:30'
 last_seen: '2026-07-22T16:50:05.558387+05:30'
 last_checked: '2026-07-22T16:50:05.558387+05:30'
 health_score: 100
 ---
+
 
 # Show HN: A new kind of FPS aim trainer
 

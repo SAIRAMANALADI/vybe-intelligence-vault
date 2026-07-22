@@ -3,7 +3,7 @@ title: Learn more
 archive_category: model-providers
 source_category: ai/companies/deepmind
 source_url: https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber
-resource_id: blog:learn-more-9d20899e
+resource_id: blog:learn-more
 local_vault_path: ai/companies/deepmind/learn-more.md
 quality_score: 70
 archive_score: 82

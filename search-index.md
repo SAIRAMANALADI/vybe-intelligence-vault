@@ -15357,6 +15357,16 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `web-crawled`
   * Source URL: <https://issuetracker.google.com/issues/new?component=186600&template=874803>
 
+* **[Sign in to GitHub · GitHub](ai/resources/langchain-ai-docs.md)** (`reference` | `reference` tier)
+  * Summary: - **Authentication Error**: The GitHub login page encountered a loading error, requiring a manual reload. - **Account Creation Link**: Provides a direct URL (`/signup`) for new user registration with a return path to the docs. - **Passkey Support**:
+  * Tags: `hackernews`, `web-crawled`
+  * Source URL: <https://github.com/langchain-ai/docs/edit/main/src/langsmith/observability.mdx>
+
+* **[Sign in to GitHub · GitHub](ai/resources/gohugoio-hugodocs.md)** (`reference` | `reference` tier)
+  * Summary: - **Authentication Error**: The page failed to load due to an unspecified error during the sign-in process. - **Recovery Option**: Users can reset their password via the provided [password reset link](https://github.com/password_reset). - **New Accou
+  * Tags: `web-crawled`
+  * Source URL: <https://github.com/gohugoio/hugoDocs/edit/master/content/en/configuration/security.md>
+
 * **[Sign in to GitHub · GitHub](ai/resources/firecrawl-firecrawl-docs.md)** (`reference` | `reference` tier)
   * Summary: - GitHub authentication failed due to a page loading error, requiring a manual reload. - New users can create an account via the provided signup link. - Passkey-based authentication is available as an alternative login method.
   * Tags: `web-crawled`
@@ -15371,16 +15381,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - GitHub authentication error encountered during page load, requiring reload. - New users can create an account via the provided signup link. - Passkey-based sign-in option available as an alternative authentication method.
   * Tags: `web-crawled`
   * Source URL: <https://github.com/cloudflare/workers-sdk/issues/new/choose>
-
-* **[Sign in to GitHub · GitHub](ai/resources/gohugoio-hugodocs.md)** (`reference` | `reference` tier)
-  * Summary: - **Authentication Error**: The page failed to load due to an unspecified error during the sign-in process. - **Recovery Option**: Users can reset their password via the provided [password reset link](https://github.com/password_reset). - **New Accou
-  * Tags: `web-crawled`
-  * Source URL: <https://github.com/gohugoio/hugoDocs/edit/master/content/en/configuration/security.md>
-
-* **[Sign in to GitHub · GitHub](ai/resources/langchain-ai-docs.md)** (`reference` | `reference` tier)
-  * Summary: - **Authentication Error**: The GitHub login page encountered a loading error, requiring a manual reload. - **Account Creation Link**: Provides a direct URL (`/signup`) for new user registration with a return path to the docs. - **Passkey Support**:
-  * Tags: `hackernews`, `web-crawled`
-  * Source URL: <https://github.com/langchain-ai/docs/edit/main/src/langsmith/observability.mdx>
 
 * **[Sign in to MED SSO (SU, SHC, LPCH)](ai/resources/sign-in-to-med-sso-su-shc-lpch.md)** (`reference` | `reference` tier)
   * Summary: - **Single Sign-On (SSO) Integration**: MED SSO provides unified authentication across Stanford University (SU), Stanford Health Care (SHC), and Stanford Children's Health (LPCH) via SAML-based identity federation (`cap.stanford.edu/auth/realms/med-a
@@ -16921,6 +16921,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `producthunt`, `rag`, `threejs`, `web-crawled`, `workflows`
   * Source URL: <https://developer.chrome.com/docs/ai/built-in>
 
+* **[Businesses with ugly AI menu redesigns](ai/community/businesses-with-ugly-ai-menu-redesigns.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by speckx. Score: 87, Comments: 52. Original Link: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns>
+
 * **[C2PA | Verifying Media Content Sources](ai/resources/c2pa-verifying-media-content-sources.md)** (`tutorial` | `useful` tier)
   * Summary: - **Open Standard**: C2PA provides an open technical standard for establishing origin and edit history of digital content via **Content Credentials**, ensuring compliance with evolving digital ecosystem requirements. - **Nutrition-Label Analogy**: Co
   * Tags: `hackernews`, `openai`, `producthunt`, `web-crawled`, `workflows`
@@ -17075,11 +17080,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.12273v2 Announce Type: replace-cross Abstract: As Code Large Language Models (LLMs) become central to modern software engineering, their inherent stochasticity poses significant real-world risks, where even minor errors can lead to severe
   * Tags: `hackernews`, `rag`, `scripts`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.12273>
-
-* **[Codeberg: ToU extension to prohibit LLM-extrusions](ai/community/codeberg-tou-extension-to-prohibit-llm-extrusions.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by robin_reala. Score: 28, Comments: 27. Original Link: https://codeberg.org/Codeberg/org/pulls/1253
-  * Tags: `hackernews`, `llm`
-  * Source URL: <https://codeberg.org/codeberg/org/pulls/1253>
 
 * **[CodeJeNN: A simple C++ neural network generator for physics applications](ai/research/arxiv-2607-02746.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.02746v1 Announce Type: cross Abstract: Machine learning has shown speedups for numerical methods in physics applications, but integrating Python-based libraries into high-performance C++ solvers creates performance bottlenecks. We present
@@ -18127,7 +18127,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://ipython.readthedocs.io/en/stable>
 
 * **[Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](ai/community/jack-dorsey-launches-buzz-to-combine-team-chat-ai.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by ryanmerket. Score: 326, Comments: 279. Original Link: https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git
+  * Summary: Hacker News story by ryanmerket. Score: 349, Comments: 309. Original Link: https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git
   * Tags: `agents`, `ai`, `hackernews`, `producthunt`
   * Source URL: <https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git>
 
@@ -18162,7 +18162,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://community.atlassian.com/t5/JIRA-Software/ct-p/jira-software>
 
 * **[Judge approves $1.5B Anthropic settlement for pirated books used to train Claude](ai/community/judge-approves-1-5b-anthropic-settlement-for-pirat.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by BeetleB. Score: 390, Comments: 348. Original Link: https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63
+  * Summary: Hacker News story by BeetleB. Score: 473, Comments: 438. Original Link: https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63
   * Tags: `ai`, `anthropic`, `hackernews`
   * Source URL: <https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63>
 
@@ -18662,9 +18662,14 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://openssf.org/?hsLang=en>
 
 * **[OpenAI and Hugging Face address security incident during model evaluation](ai/community/openai-and-hugging-face-address-security-incident.md)** (`benchmark` | `useful` tier)
-  * Summary: Hacker News story by mfiguiere. Score: 1225, Comments: 849. Original Link: https://openai.com/index/hugging-face-model-evaluation-security-incident/
+  * Summary: Hacker News story by mfiguiere. Score: 1390, Comments: 935. Original Link: https://openai.com/index/hugging-face-model-evaluation-security-incident/
   * Tags: `ai`, `benchmark`, `hackernews`, `openai`
   * Source URL: <https://openai.com/index/hugging-face-model-evaluation-security-incident>
+
+* **[OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack](ai/community/openai-says-its-ai-went-rogue-and-launched-unprece.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by vinni2. Score: 69, Comments: 75. Original Link: https://www.bbc.com/news/articles/c3ek3gvdnj3o
+  * Tags: `ai`, `hackernews`, `openai`, `producthunt`
+  * Source URL: <https://bbc.com/news/articles/c3ek3gvdnj3o>
 
 * **[opendataloader-project/opendataloader-pdf](ai/rag/opendataloader-project-opendataloader-pdf.md)** (`workflow` | `useful` tier)
   * Summary: - **Java-based PDF parser** designed for AI-ready data extraction, supporting accessibility compliance (e.g., PDF/UA) and automated tagging for structured content. - **Multi-format output** with support for HTML, JSON, Markdown, and bounding box anno
@@ -18700,6 +18705,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2512.18454v3 Announce Type: replace Abstract: Predictive machine learning models generally excel on in-distribution data, but their performance degrades on out-of-distribution (OOD) inputs. Reliable deployment therefore requires robust OOD dete
   * Tags: `dataset`, `workflows`
   * Source URL: <https://arxiv.org/abs/2512.18454>
+
+* **[OverpAId – Fire your CEO. Hire the future](ai/community/overpaid-fire-your-ceo-hire-the-future.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by ignaloidas. Score: 482, Comments: 219. Original Link: https://overpaid.lol
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://overpaid.lol>
 
 * **[Overview - FHIR v5.0.0](ai/rag/overview-fhir-v5-0-0.md)** (`tutorial` | `useful` tier)
   * Summary: - **FHIR R5 Specification**: Fast Healthcare Interoperability Resources (FHIR) Release 5 (v5.0.0) is an HL7 standard for structured healthcare data exchange, building on prior HL7 standards (V2, V3, CDA) with a modular, resource-based architecture. -
@@ -19195,11 +19205,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Modern Sphinx Theme**: Shibuya is a responsive, visually appealing theme for Sphinx documentation, supporting Jupyter extensions like `nbsphinx` for enhanced AI/ML documentation workflows. - **Multi-Mode Customization**: Features light/dark mode
   * Tags: `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://shibuya.lepture.com>
-
-* **[Show HN: A new kind of FPS aim trainer](ai/community/show-hn-a-new-kind-of-fps-aim-trainer.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by pmazumder. Score: 56, Comments: 30. Original Link: https://openaim.pramit.gg/
-  * Tags: `ai`, `hackernews`, `openai`
-  * Source URL: <https://openaim.pramit.gg>
 
 * **[Signature filtering: a lightweight enhancement for statistical watermark detection in large language models](ai/research/arxiv-2606-18430.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18430v1 Announce Type: new Abstract: Statistical watermarks help organizations attribute large language model (LLM) outputs, yet existing detectors often struggle when watermark signals are weak, texts are repetitive, or watermarks are edi
@@ -85877,7 +85882,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2511.12810>
 
 * **[mteb/leaderboard](ai/models/huggingface-spaces-mteb.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7580, Downloads: 0)
+  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7581, Downloads: 0)
   * Tags: `hf-space`, `huggingface`, `leaderboard`
   * Source URL: <https://huggingface.co/spaces/mteb>
 
@@ -89629,7 +89634,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17846>
 
 * **[Qwen/Qwen3-0.6B](ai/models/huggingface-qwen-qwen3-0-6b.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1434, Downloads: 25843960)
+  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1435, Downloads: 25843960)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/qwen/qwen3-0.6b>
 
@@ -101238,20 +101243,20 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `frontend_ui`, `producthunt`, `rag`, `reddit`, `web-crawled`, `youtube`
   * Source URL: <https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/#0>
 
-* **[- YouTube](ai/rag/youtube-pbcra-zart4.md)** (`framework` | `useful` tier)
-  * Summary: - **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, enabling users to upload, share, and view videos, with additional features for creators, advertisers, and developers. - **Technical Infrastructure**: Utilizes Google’s
+* **[- YouTube](ai/rag/youtube-2swdr3z0wo.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, enabling users to upload, share, and view videos, with additional services for creators, advertisers, and developers. - **Technical Infrastructure**: Leverages Google’s
   * Tags: `hackernews`, `rag`, `web-crawled`, `youtube`
-  * Source URL: <https://www.youtube.com/watch?v=PbcRa_zArT4>
+  * Source URL: <https://youtu.be/-2sWDr3Z0Wo>
 
 * **[- YouTube](ai/rag/youtube-gnjgt-ib-e.md)** (`framework` | `useful` tier)
   * Summary: - **Platform Infrastructure**: YouTube operates as a subsidiary of Google LLC, leveraging Google's infrastructure for scalability, content delivery networks (CDNs), and distributed storage systems to handle petabytes of video data globally. - **Monet
   * Tags: `rag`, `web-crawled`, `youtube`
   * Source URL: <https://youtu.be/gNJgt_IB--E>
 
-* **[- YouTube](ai/rag/youtube-2swdr3z0wo.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, enabling users to upload, share, and view videos, with additional services for creators, advertisers, and developers. - **Technical Infrastructure**: Leverages Google’s
+* **[- YouTube](ai/rag/youtube-pbcra-zart4.md)** (`framework` | `useful` tier)
+  * Summary: - **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, enabling users to upload, share, and view videos, with additional features for creators, advertisers, and developers. - **Technical Infrastructure**: Utilizes Google’s
   * Tags: `hackernews`, `rag`, `web-crawled`, `youtube`
-  * Source URL: <https://youtu.be/-2sWDr3Z0Wo>
+  * Source URL: <https://www.youtube.com/watch?v=PbcRa_zArT4>
 
 * **[17 U.S. Code § 107 - Limitations on exclusive rights: Fair use | U.S. Code | US Law | LII / Legal Information Institute](ai/rag/17-u-s-code-ss-107-limitations-on-exclusive-rights.md)** (`benchmark` | `useful` tier)
   * Summary: - **Fair Use Criteria**: U.S. Code § 107 codifies fair use, permitting reproduction/copying of copyrighted works for purposes like criticism, teaching, scholarship, or research, **without infringement**, provided four statutory factors are evaluated:
@@ -103873,8 +103878,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2512.01317>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
-  * Summary: * Provides a full-stack, practical guide to Retrieval-Augmented Generation (RAG) for large language model (LLM) application development. * Integrates key frameworks (LangChain, LlamaIndex), vector databases (Milvus), graph databases (Neo4j), and dive
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tutorial` | `useful` tier)
+  * Summary: * Comprehensive RAG implementation guide leveraging `langchain` and `llama-index`
   * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -103883,8 +103888,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`benchmark` | `useful` tier)
-  * Summary: * Provides foundational tutorials for Large Language Model (LLM) application development. * Focuses on practical implementation utilizing LangChain and Retrieval-Augmented Generation (RAG
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
+  * Summary: * Provides foundational tutorials for large language model (LLM) application development. * Leverages LangChain as a primary framework for practical implementation. * Focuses on Retrieval-Augmented Generation (RAG) architectures, primarily demonstrat
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -109704,7 +109709,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://superml.org/tutorials/rag-beginner>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll static site generator source for `raganwald.com`. *
+  * Summary: * Jekyll static site generator source for `raganwald.com`, hosted on GitHub Pages
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 

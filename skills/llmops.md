@@ -111,45 +111,45 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Purpose**: Framework for evaluating Large Language Models (LLMs), implementing guardrails, and ensuring LLM security within production workflows.
 
-### 17. [pathwaycom/llm-app](../ai/rag/pathwaycom-llm-app.md) ([GitHub](https://github.com/pathwaycom/llm-app))
+### 17. [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md) ([GitHub](https://github.com/dannyblaker/rag-tutorial))
 - Stars: 0
 - Language: Unknown
-- Description: - **Cloud-native RAG & AI pipelines**: Provides Docker-ready templates for Retrieval-Augmented Generation (RAG), AI pipelines, and enterprise search, supporting real-time synchronization with data ...
+- Description: - **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG development, from embeddings and vector databases to LLM integration and advanced techniques, with reusable Python utili...
 
 ### 18. [AI-Application-and-Integration-Lab/MegaRAG](../ai/rag/ai-application-and-integration-lab-megarag.md) ([GitHub](https://github.com/ai-application-and-integration-lab/megarag))
 - Stars: 0
 - Language: Unknown
 - Description: - **Multimodal Graph-based RAG Framework**: Introduces MegaRAG, a novel Retrieval-Augmented Generation (RAG) system leveraging multimodal data (text, images, graphs) structured as a unified graph f...
 
-### 19. [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md) ([GitHub](https://github.com/dannyblaker/rag-tutorial))
+### 19. [pathwaycom/llm-app](../ai/rag/pathwaycom-llm-app.md) ([GitHub](https://github.com/pathwaycom/llm-app))
 - Stars: 0
 - Language: Unknown
-- Description: - **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG development, from embeddings and vector databases to LLM integration and advanced techniques, with reusable Python utili...
+- Description: - **Cloud-native RAG & AI pipelines**: Provides Docker-ready templates for Retrieval-Augmented Generation (RAG), AI pipelines, and enterprise search, supporting real-time synchronization with data ...
 
-### 20. [Yigtwxx/awesome-rag-production](../ai/rag/yigtwxx-awesome-rag-production.md) ([GitHub](https://github.com/yigtwxx/awesome-rag-production))
-- Stars: 0
-- Language: Unknown
-- Description: - **Curated Resources**: Repository provides a vetted collection of production-grade tools, frameworks, and best practices for building scalable Retrieval-Augmented Generation (RAG) systems, emphas...
-
-### 21. [langwatch/langwatch](../ai/agents/langwatch-langwatch.md) ([GitHub](https://github.com/langwatch/langwatch))
+### 20. [langwatch/langwatch](../ai/agents/langwatch-langwatch.md) ([GitHub](https://github.com/langwatch/langwatch))
 - Stars: 0
 - Language: Unknown
 - Description: The platform for LLM evaluations and AI agent testing
+
+### 21. [Yigtwxx/awesome-rag-production](../ai/rag/yigtwxx-awesome-rag-production.md) ([GitHub](https://github.com/yigtwxx/awesome-rag-production))
+- Stars: 0
+- Language: Unknown
+- Description: - **Curated Resources**: Repository provides a vetted collection of production-grade tools, frameworks, and best practices for building scalable Retrieval-Augmented Generation (RAG) systems, emphas...
 
 ### 22. [tensorchord/awesome-llmops](../ai/resources/tensorchord-awesome-llmops.md) ([GitHub](https://github.com/tensorchord/awesome-llmops))
 - Stars: 0
 - Language: Unknown
 - Description: An awesome & curated list of best LLMOps tools for developers
 
-### 23. [Marker-Inc-Korea/AutoRAG](../ai/rag/marker-inc-korea-autorag.md) ([GitHub](https://github.com/marker-inc-korea/autorag))
-- Stars: 0
-- Language: Unknown
-- Description: - **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using machine learning techniques, reducing manual tuning an...
-
-### 24. [bclavie/RAGatouille](../ai/rag/bclavie-ragatouille.md) ([GitHub](https://github.com/bclavie/ragatouille))
+### 23. [bclavie/RAGatouille](../ai/rag/bclavie-ragatouille.md) ([GitHub](https://github.com/bclavie/ragatouille))
 - Stars: 0
 - Language: Unknown
 - Description: - **ColBERT Integration**: Provides a modular Python framework for integrating ColBERT, a late-interaction retrieval model, into RAG pipelines with minimal setup overhead.
+
+### 24. [Marker-Inc-Korea/AutoRAG](../ai/rag/marker-inc-korea-autorag.md) ([GitHub](https://github.com/marker-inc-korea/autorag))
+- Stars: 0
+- Language: Unknown
+- Description: - **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using machine learning techniques, reducing manual tuning an...
 
 ### 25. [decodingai-magazine/llm-twin-course](../ai/rag/decodingai-magazine-llm-twin-course.md) ([GitHub](https://github.com/decodingai-magazine/llm-twin-course))
 - Stars: 0
@@ -161,25 +161,25 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **RAGAS**: A Python library for evaluating Retrieval-Augmented Generation (RAG) and LLM applications with 14927+ GitHub stars, last updated July 2026.
 
-### 27. [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md) ([GitHub](https://github.com/curiousily/ai-bootcamp))
-- Stars: 0
-- Language: Unknown
-- Description: Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, Ollama, LLMs, RAGs, LangChain, LangGraph, Fine-tuning, DSPy & AI Agents (CrewAI), (Using ChatGPT, gpt-oss, Claude, Qwen, Gemma, L...
-
-### 28. [blog/train-sentence-transformers.md at main · huggingface/blog · GitHub](../ai/rag/huggingface-blog.md) ([GitHub](https://github.com/huggingface/blog))
+### 27. [blog/train-sentence-transformers.md at main · huggingface/blog · GitHub](../ai/rag/huggingface-blog.md) ([GitHub](https://github.com/huggingface/blog))
 - Stars: 0
 - Language: Unknown
 - Description: - **Sentence Transformers** is a Python library for training/fine-tuning embedding models for tasks like semantic search, retrieval, and textual similarity, supporting both pre-trained model adapta...
 
-### 29. [Hugging Face · GitHub](../ai/agents/hugging-face-github.md) ([GitHub](https://github.com/huggingface))
+### 28. [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md) ([GitHub](https://github.com/curiousily/ai-bootcamp))
 - Stars: 0
 - Language: Unknown
-- Description: - **Core Libraries**: Hugging Face provides foundational AI/ML libraries like `transformers` (SOTA models for text/vision/audio/multimodal tasks), `diffusers` (diffusion models for generative tasks...
+- Description: Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, Ollama, LLMs, RAGs, LangChain, LangGraph, Fine-tuning, DSPy & AI Agents (CrewAI), (Using ChatGPT, gpt-oss, Claude, Qwen, Gemma, L...
 
-### 30. [dyronrh/awesome-agentops-landscape](../ai/agents/dyronrh-awesome-agentops-landscape.md) ([GitHub](https://github.com/dyronrh/awesome-agentops-landscape))
+### 29. [dyronrh/awesome-agentops-landscape](../ai/agents/dyronrh-awesome-agentops-landscape.md) ([GitHub](https://github.com/dyronrh/awesome-agentops-landscape))
 - Stars: 0
 - Language: Unknown
 - Description: A curated list of the best AgentOps tools for 2026 — observability, tracing, evaluation, cost monitoring, and guardrails for LLM agents. Covering open-source and SaaS tools with feature benchmarks ...
+
+### 30. [Hugging Face · GitHub](../ai/agents/hugging-face-github.md) ([GitHub](https://github.com/huggingface))
+- Stars: 0
+- Language: Unknown
+- Description: - **Core Libraries**: Hugging Face provides foundational AI/ML libraries like `transformers` (SOTA models for text/vision/audio/multimodal tasks), `diffusers` (diffusion models for generative tasks...
 
 ### 31. [openai/openai-cookbook](../ai/resources/openai-openai-cookbook.md) ([GitHub](https://github.com/openai/openai-cookbook))
 - Stars: 0
@@ -191,15 +191,15 @@ Recently detected signals:
 - Language: Unknown
 - Description: AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + La...
 
-### 33. [huggingface/transformers](../ai/resources/huggingface-transformers.md) ([GitHub](https://github.com/huggingface/transformers))
-- Stars: 0
-- Language: Unknown
-- Description: - **Framework Scope**: Provides a unified Python-based framework (PyTorch) for defining, training, and deploying state-of-the-art ML models across modalities (text, vision, audio, multimodal) with ...
-
-### 34. [dorianbrown/rank_bm25](../ai/resources/dorianbrown-rank-bm25.md) ([GitHub](https://github.com/dorianbrown/rank_bm25))
+### 33. [dorianbrown/rank_bm25](../ai/resources/dorianbrown-rank-bm25.md) ([GitHub](https://github.com/dorianbrown/rank_bm25))
 - Stars: 0
 - Language: Unknown
 - Description: - Implements **BM25** and **BM25+** ranking algorithms in Python for information retrieval tasks.
+
+### 34. [huggingface/transformers](../ai/resources/huggingface-transformers.md) ([GitHub](https://github.com/huggingface/transformers))
+- Stars: 0
+- Language: Unknown
+- Description: - **Framework Scope**: Provides a unified Python-based framework (PyTorch) for defining, training, and deploying state-of-the-art ML models across modalities (text, vision, audio, multimodal) with ...
 
 ### 35. [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets.md) ([GitHub](https://github.com/glgh/awesome-llm-human-preference-datasets))
 - Stars: 0
@@ -226,4 +226,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-22T17:06:10.230418+05:30.444668+05:30.111348+05:30.417501+05:30.152166+05:30.721703+05:30.915382+05:30.966615+05:30.764113+05:30.385557+05:30.567332+05:30.735695+05:30.745434+05:30.313265+05:30.467864+05:30.366258+05:30.850219+05:30.600182+05:30.827864+05:30.160807+05:30.551753+05:30.048264+05:30.580228+05:30.218675+05:30.737117+05:30.133154+05:30.907114+05:30.995114+05:30.879918+05:30.100207+05:30.992961+05:30.772346+05:30.817559+05:30.413937+05:30.324484+05:30.472404+05:30.722344+05:30.088271+05:30.008202+05:30.416368+05:30.558129+05:30.641788+05:30.475206+05:30.316516+05:30.443954+05:30.251607+05:30.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-22T20:08:02.684701+05:30.230418+05:30.444668+05:30.111348+05:30.417501+05:30.152166+05:30.721703+05:30.915382+05:30.966615+05:30.764113+05:30.385557+05:30.567332+05:30.735695+05:30.745434+05:30.313265+05:30.467864+05:30.366258+05:30.850219+05:30.600182+05:30.827864+05:30.160807+05:30.551753+05:30.048264+05:30.580228+05:30.218675+05:30.737117+05:30.133154+05:30.907114+05:30.995114+05:30.879918+05:30.100207+05:30.992961+05:30.772346+05:30.817559+05:30.413937+05:30.324484+05:30.472404+05:30.722344+05:30.088271+05:30.008202+05:30.416368+05:30.558129+05:30.641788+05:30.475206+05:30.316516+05:30.443954+05:30.251607+05:30.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.
