@@ -18,13 +18,13 @@ It saves hours of repetitive development tasks, guarantees operational consisten
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 2798 resources matched in the intelligence vault.
+Active signals: 2797 resources matched in the intelligence vault.
 Recently detected signals:
-- [ARUNAGIRINATHAN-K/awesome-ai-agents-2026](../ai/agents/arunagirinathan-k-awesome-ai-agents-2026.md) (Source: Unknown Source) - Collected 2026-07-22
-- [IBM/mt-rag-benchmark](../ai/rag/ibm-mt-rag-benchmark.md) (Source: Unknown Source) - Collected 2026-07-22
-- [gomate-community/awesome-papers-for-rag](../ai/rag/gomate-community-awesome-papers-for-rag.md) (Source: Unknown Source) - Collected 2026-07-22
-- [Azure-Samples/chat-with-your-data-solution-accelerator](../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md) (Source: Unknown Source) - Collected 2026-07-22
-- [FudanDNN-NLP/RAG](../ai/rag/fudandnn-nlp-rag.md) (Source: Unknown Source) - Collected 2026-07-22
+- [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) (Source: Unknown Source) - Collected 2026-07-22
+- [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md) (Source: Unknown Source) - Collected 2026-07-22
+- [SylphAI-Inc/GithubChat](../ai/rag/sylphai-inc-githubchat.md) (Source: Unknown Source) - Collected 2026-07-22
+- [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md) (Source: Unknown Source) - Collected 2026-07-22
+- [Next.js 9](../web-development/nextjs/next-js-9.md) (Source: Unknown Source) - Collected 2026-07-22
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -300,4 +300,4 @@ Useful for roles such as: DevOps Engineer, Site Reliability Engineer, Workflow A
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-22T14:31:27.147649+05:30.853445+05:30.911620+05:30.889091+05:30.475459+05:30.492773+05:30.645584+05:30.498605+05:30.950912+05:30.261123+05:30.399264+05:30.385077+05:30.961325+05:30.107504+05:30.047795+05:30.474321+05:30.222734+05:30.459200+05:30.777067+05:30.175813+05:30.675802+05:30.134817+05:30.866435+05:30.285446+05:30.765315+05:30.572043+05:30.571051+05:30.501384+05:30.686054+05:30.552683+05:30.319049+05:30.405533+05:30.937907+05:30.846054+05:30.037645+05:30.210046+05:30.639535+05:30.495645+05:30.903562+05:30.073236+05:30.062240+05:30.947706+05:30.013522+05:30.875606+05:30.567508+05:30.687177+05:30.355273+05:30.481745+05:30.837280+05:30.183844+05:30.179391+05:30.532735+05:30.477001+05:30.000572+05:30.921794+05:30.064247+05:30.541110+05:30.559052+05:30.616814+05:30.943958+05:30.463577+05:30.779450+05:30.588992+05:30.937697+05:30.142229+05:30.913410+05:30.103213+05:30.590016+05:30.675711+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-22T17:06:10.938054+05:30.147649+05:30.853445+05:30.911620+05:30.889091+05:30.475459+05:30.492773+05:30.645584+05:30.498605+05:30.950912+05:30.261123+05:30.399264+05:30.385077+05:30.961325+05:30.107504+05:30.047795+05:30.474321+05:30.222734+05:30.459200+05:30.777067+05:30.175813+05:30.675802+05:30.134817+05:30.866435+05:30.285446+05:30.765315+05:30.572043+05:30.571051+05:30.501384+05:30.686054+05:30.552683+05:30.319049+05:30.405533+05:30.937907+05:30.846054+05:30.037645+05:30.210046+05:30.639535+05:30.495645+05:30.903562+05:30.073236+05:30.062240+05:30.947706+05:30.013522+05:30.875606+05:30.567508+05:30.687177+05:30.355273+05:30.481745+05:30.837280+05:30.183844+05:30.179391+05:30.532735+05:30.477001+05:30.000572+05:30.921794+05:30.064247+05:30.541110+05:30.559052+05:30.616814+05:30.943958+05:30.463577+05:30.779450+05:30.588992+05:30.937697+05:30.142229+05:30.913410+05:30.103213+05:30.590016+05:30.675711+05:30.

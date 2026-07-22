@@ -115,10 +115,10 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Engineering](https://openai.com/news/engineering) (Tier: `useful` | [`Local File`](../../ai/companies/openai/engineering.md))
 - [Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research](https://anthropic.com/news/canadian-ai-research) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-14-2026announcementsanthropic-commits-10-milli.md))
 - [Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants](https://anthropic.com/news/rare-disease-research-grants) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md))
+- [Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](https://anthropic.com/news/donation-public-first-action) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md))
 - [Jul 9, 2026Case StudyUST is bringing Claude to physical AI](https://anthropic.com/news/ust-claude) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md))
 - [Jul 6, 2026Case StudyGovernment of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems](https://anthropic.com/news/alberta-government-claude-cybersecurity) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-6-2026case-studygovernment-of-alberta-uses-cla.md))
 - [Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust](https://anthropic.com/news/ben-bernanke) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-9-2026announcementsben-bernanke-appointed-to-a.md))
-- [Responsible Scaling Policy](https://anthropic.com/news/announcing-our-updated-responsible-scaling-policy) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/responsible-scaling-policy.md))
 - [Jul 9, 2026AnnouncementsIntroducing a way to reflect on how you use Claude](https://anthropic.com/news/reflect-with-claude) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-9-2026announcementsintroducing-a-way-to-reflec.md))
 
 ## TEMPLATE
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) (Tier: `useful` | [`Local File`](../../ai/agents/ed1s0nz-cyberstrikeai.md))
 
 ---
-*Last updated: 2026-07-22 14:33 IST*
+*Last updated: 2026-07-22 17:08 IST*

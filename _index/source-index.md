@@ -9373,6 +9373,7 @@ Resources organized by publisher feed and query sources.
   - [Jul 14, 2026ProductIntroducing Claude for Teachers](../ai/companies/anthropic/jul-14-2026productintroducing-claude-for-teachers.md)
   - [Jul 2, 2026AnnouncementsMore details on Fable 5’s cyber safeguards and our jailbreak framework](../ai/companies/anthropic/jul-2-2026announcementsmore-details-on-fable-5s-cy.md)
   - [Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants](../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md)
+  - [Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md)
   - [Jul 6, 2026Case StudyGovernment of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems](../ai/companies/anthropic/jul-6-2026case-studygovernment-of-alberta-uses-cla.md)
   - [Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust](../ai/companies/anthropic/jul-9-2026announcementsben-bernanke-appointed-to-a.md)
   - [Jul 9, 2026AnnouncementsIntroducing a way to reflect on how you use Claude](../ai/companies/anthropic/jul-9-2026announcementsintroducing-a-way-to-reflec.md)
@@ -9387,7 +9388,6 @@ Resources organized by publisher feed and query sources.
   - [ProductIntroducing Search ToolkitProduction search pipelines, anywhere.May 28, 2026By Mistral](../ai/companies/mistral/productintroducing-search-toolkitproduction-search.md)
   - [ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.](../ai/companies/anthropic/productjun-30-2026introducing-claude-sonnet-5sonne.md)
   - [Publications](../ai/companies/publications.md)
-  - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
   - [Voxtral TTS](../ai/companies/mistral/voxtral-tts.md)
@@ -10145,6 +10145,7 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [Codeberg: ToU extension to prohibit LLM-extrusions](../ai/community/codeberg-tou-extension-to-prohibit-llm-extrusions.md)
   - [Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](../ai/community/jack-dorsey-launches-buzz-to-combine-team-chat-ai.md)
   - [Judge approves $1.5B Anthropic settlement for pirated books used to train Claude](../ai/community/judge-approves-1-5b-anthropic-settlement-for-pirat.md)
   - [OpenAI and Hugging Face address security incident during model evaluation](../ai/community/openai-and-hugging-face-address-security-incident.md)
@@ -11194,7 +11195,6 @@ Resources organized by publisher feed and query sources.
   - [1.5.4 Ownership and Use of Stanford Trademarks and Images | Administrative Guide](../ai/resources/1-5-4-ownership-and-use-of-stanford-trademarks-and.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
   - [100 Years of Stanford Engineering](../ai/rag/100-years-of-stanford-engineering.md)
-  - [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md)
   - [15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Blog](../ai/agents/15-updates-from-google-i-o-2026-powering-the-agent.md)
   - [17 U.S. Code § 107 - Limitations on exclusive rights: Fair use | U.S. Code | US Law | LII / Legal Information Institute](../ai/rag/17-u-s-code-ss-107-limitations-on-exclusive-rights.md)
   - [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md)
@@ -13035,7 +13035,6 @@ Resources organized by publisher feed and query sources.
   - [Unity Issue Tracker](../ai/rag/unity-issue-tracker.md)
   - [Unity: Develop, Deploy, and Grow | The World's Leading Game Engine](../ai/rag/unity-develop-deploy-and-grow-the-world-s-leading.md)
   - [Universal AI is “a pathway to AI fluency that’s accessible and approachable to anyone, anywhere” | MIT News | Massachuse](../ai/rag/universal-ai-is-a-pathway-to-ai-fluency-thats-acce.md)
-  - [UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](../ai/rag/universalrag-retrieval-augmented-generation-over-c.md)
   - [University Audit Office](../ai/resources/university-audit-office.md)
   - [University Corporation for Atmospheric Research | University Corporation for Atmospheric Research](../ai/resources/university-corporation-for-atmospheric-research-un.md)
   - [University of California | Office of The President](../ai/resources/university-of-california-office-of-the-president.md)
@@ -13406,4 +13405,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-22T14:32:30.293671+05:30*
+*Index generated on 2026-07-22T17:07:04.501861+05:30*

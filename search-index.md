@@ -16416,11 +16416,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `anthropic`, `benchmark`, `hackernews`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://dspy.ai/api/optimizers/GEPA/overview>
 
-* **[15 Best Open-Source RAG Frameworks in 2026](ai/rag/15-best-open-source-rag-frameworks-in-2026.md)** (`framework` | `useful` tier)
-  * Summary: * RAG remains a critical technique in 2026 for augmenting LLM
-  * Tags: `agents`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
-  * Source URL: <https://www.firecrawl.dev/blog/best-open-source-rag-frameworks>
-
 * **[7 Best GitHub Repositories For Mastering RAG Systems](ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)** (`template` | `useful` tier)
   * Summary: - **LangChain**: Open-source LLM toolkit (MIT license) with 70K+ GitHub stars, supporting Python, JavaScript, and TypeScript; provides modular components (prompt templates, LLM wrappers, vector stores) for end-to-end RAG pipelines, with integrations
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `producthunt`, `rag`, `reddit`, `scripts`, `threejs`, `web-crawled`, `workflows`
@@ -17080,6 +17075,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.12273v2 Announce Type: replace-cross Abstract: As Code Large Language Models (LLMs) become central to modern software engineering, their inherent stochasticity poses significant real-world risks, where even minor errors can lead to severe
   * Tags: `hackernews`, `rag`, `scripts`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.12273>
+
+* **[Codeberg: ToU extension to prohibit LLM-extrusions](ai/community/codeberg-tou-extension-to-prohibit-llm-extrusions.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by robin_reala. Score: 28, Comments: 27. Original Link: https://codeberg.org/Codeberg/org/pulls/1253
+  * Tags: `hackernews`, `llm`
+  * Source URL: <https://codeberg.org/codeberg/org/pulls/1253>
 
 * **[CodeJeNN: A simple C++ neural network generator for physics applications](ai/research/arxiv-2607-02746.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.02746v1 Announce Type: cross Abstract: Machine learning has shown speedups for numerical methods in physics applications, but integrating Python-based libraries into high-performance C++ solvers creates performance bottlenecks. We present
@@ -18127,7 +18127,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://ipython.readthedocs.io/en/stable>
 
 * **[Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](ai/community/jack-dorsey-launches-buzz-to-combine-team-chat-ai.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by ryanmerket. Score: 313, Comments: 267. Original Link: https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git
+  * Summary: Hacker News story by ryanmerket. Score: 326, Comments: 279. Original Link: https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git
   * Tags: `agents`, `ai`, `hackernews`, `producthunt`
   * Source URL: <https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git>
 
@@ -18162,7 +18162,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://community.atlassian.com/t5/JIRA-Software/ct-p/jira-software>
 
 * **[Judge approves $1.5B Anthropic settlement for pirated books used to train Claude](ai/community/judge-approves-1-5b-anthropic-settlement-for-pirat.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by BeetleB. Score: 335, Comments: 252. Original Link: https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63
+  * Summary: Hacker News story by BeetleB. Score: 390, Comments: 348. Original Link: https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63
   * Tags: `ai`, `anthropic`, `hackernews`
   * Source URL: <https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63>
 
@@ -18662,7 +18662,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://openssf.org/?hsLang=en>
 
 * **[OpenAI and Hugging Face address security incident during model evaluation](ai/community/openai-and-hugging-face-address-security-incident.md)** (`benchmark` | `useful` tier)
-  * Summary: Hacker News story by mfiguiere. Score: 1099, Comments: 746. Original Link: https://openai.com/index/hugging-face-model-evaluation-security-incident/
+  * Summary: Hacker News story by mfiguiere. Score: 1225, Comments: 849. Original Link: https://openai.com/index/hugging-face-model-evaluation-security-incident/
   * Tags: `ai`, `benchmark`, `hackernews`, `openai`
   * Source URL: <https://openai.com/index/hugging-face-model-evaluation-security-incident>
 
@@ -19197,7 +19197,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://shibuya.lepture.com>
 
 * **[Show HN: A new kind of FPS aim trainer](ai/community/show-hn-a-new-kind-of-fps-aim-trainer.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by pmazumder. Score: 33, Comments: 18. Original Link: https://openaim.pramit.gg/
+  * Summary: Hacker News story by pmazumder. Score: 56, Comments: 30. Original Link: https://openaim.pramit.gg/
   * Tags: `ai`, `hackernews`, `openai`
   * Source URL: <https://openaim.pramit.gg>
 
@@ -85877,7 +85877,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2511.12810>
 
 * **[mteb/leaderboard](ai/models/huggingface-spaces-mteb.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7579, Downloads: 0)
+  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7580, Downloads: 0)
   * Tags: `hf-space`, `huggingface`, `leaderboard`
   * Source URL: <https://huggingface.co/spaces/mteb>
 
@@ -99468,6 +99468,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
   * Source URL: <https://anthropic.com/news/rare-disease-research-grants>
 
+* **[Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://anthropic.com/news/donation-public-first-action>
+
 * **[Jul 6, 2026Case StudyGovernment of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems](ai/companies/anthropic/jul-6-2026case-studygovernment-of-alberta-uses-cla.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: Jul 6, 2026Case StudyGovernment of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
@@ -99572,11 +99577,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Recent update from Microsoft Research Blog Blog: Publications
   * Tags: `blog-post`, `microsoft-research-blog`
   * Source URL: <https://microsoft.com/en-us/research/publications>
-
-* **[Responsible Scaling Policy](ai/companies/anthropic/responsible-scaling-policy.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: Responsible Scaling Policy
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/announcing-our-updated-responsible-scaling-policy>
 
 * **[Search & information retrieval](ai/companies/search-information-retrieval.md)** (`benchmark` | `useful` tier)
   * Summary: Recent update from Microsoft Research Blog Blog: Search & information retrieval
@@ -102494,7 +102494,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/GenAIOps-project-template>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3247, Downloads: 35541030)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3249, Downloads: 35541030)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
@@ -103873,9 +103873,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2512.01317>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: * Comprehensive guide to RAG for LLM application development, covering full-stack implementation strategies. * Explores diverse RAG architectures leveraging LangChain, LlamaIndex, Milvus, and Neo4j for vector and graph-based retrieval. * Demonstrates
-  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
+  * Summary: * Provides a full-stack, practical guide to Retrieval-Augmented Generation (RAG) for large language model (LLM) application development. * Integrates key frameworks (LangChain, LlamaIndex), vector databases (Milvus), graph databases (Neo4j), and dive
+  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -103883,8 +103883,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
-  * Summary: * Beginner-focused tutorial for large language model (LLM) application development. * Emphasizes practical implementation using the LangChain framework and Retrieval-Augmented Generation (RAG) architecture. * Content delivered through Jupyter Noteboo
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`benchmark` | `useful` tier)
+  * Summary: * Provides foundational tutorials for Large Language Model (LLM) application development. * Focuses on practical implementation utilizing LangChain and Retrieval-Augmented Generation (RAG
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -108969,8 +108969,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2604.20711>
 
 * **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * Introduces RAGTruth, a specialized corpus designed for the systematic identification and quantification
-  * Tags: `github-repo`, `python`, `rag`
+  * Summary: * Introduces RAGTruth, a specialized corpus designed for the identification and analysis of hallucinations in Retrieval-Augmented Language Models (RALMs). * Aims to facilitate the development of more trustworthy RALMs by providing a benchmark for eva
+  * Tags: `benchmark`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 
 * **[Passkeys for Developers](ai/rag/passkeys-for-developers.md)** (`tutorial` | `useful` tier)
@@ -110784,7 +110784,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.00558>
 
 * **[sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1328, Downloads: 51014730)
+  * Summary: Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1329, Downloads: 51014730)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2>
 
@@ -111444,7 +111444,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.16617>
 
 * **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`benchmark` | `useful` tier)
-  * Summary: * Implements a practical Retrieval-Augmented Generation (RAG) system. * Facilitates direct ingestion and indexing of GitHub repository content. * Provides a conversational interface for querying downloaded repository data.
+  * Summary: * Implements a practical Retrieval-Augmented Generation (RAG) system. * Enables conversational querying of downloaded GitHub repository content. * Developed in Python.
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/SylphAI-Inc/GithubChat>
 
@@ -112397,11 +112397,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2602.14761v2 Announce Type: replace Abstract: Current meta-learning methods are constrained to narrow task distributions with fixed feature and label spaces, limiting applicability. Moreover, the current meta-learning literature uses key terms
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2602.14761>
-
-* **[UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](ai/rag/universalrag-retrieval-augmented-generation-over-c.md)** (`framework` | `useful` tier)
-  * Summary: * UniversalRAG introduces an any-to-any RAG framework for integrating knowledge from heterogeneous, multi-modal, and multi-granularity sources, extending beyond single-modality or text-only RAG limitations. * It employs *modality-aware routing* to dy
-  * Tags: `benchmark`, `rag`, `web-crawled`, `youtube`
-  * Source URL: <https://universalrag.github.io/>
 
 * **[Unlocking LLM Code Correction with Iterative Feedback Loops](ai/rag/arxiv-2606-17514.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.17514v1 Announce Type: cross Abstract: Large Language Models have shown remarkable capabilities in code generation. However, most existing evaluations focus only on single-attempt accuracy and overlook the iterative refinement process that
