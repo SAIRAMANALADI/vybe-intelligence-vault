@@ -40,25 +40,25 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **AI SDK Overview**: Open-source TypeScript library by Vercel for building AI-powered applications and agents, supporting models like Anthropic, Gemini, and OpenAI.
 
-### 3. [onyx-dot-app/onyx](../ai/rag/onyx-dot-app-onyx.md) ([GitHub](https://github.com/onyx-dot-app/onyx))
+### 3. [supabase-community/vercel-ai-chatbot](../ai/rag/supabase-community-vercel-ai-chatbot.md) ([GitHub](https://github.com/supabase-community/vercel-ai-chatbot))
 - Stars: 0
 - Language: Unknown
-- Description: - **Multi-LLM Compatibility**: Open-source AI platform (`onyx`) enabling seamless interaction with diverse LLMs via a unified chat interface, supporting advanced features like RAG and vector search...
+- Description: - **Integration**: Combines Next.js, Vercel AI SDK, and Supabase for a full-stack AI chatbot with real-time capabilities via Supabase Realtime.
 
 ### 4. [rsrohan99/rag-stream-intermediate-events-tutorial](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md) ([GitHub](https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial))
 - Stars: 0
 - Language: Unknown
 - Description: *   Demonstrates streaming intermediate LlamaIndex events via Server-Sent Events (SSE).
 
-### 5. [supabase-community/vercel-ai-chatbot](../ai/rag/supabase-community-vercel-ai-chatbot.md) ([GitHub](https://github.com/supabase-community/vercel-ai-chatbot))
-- Stars: 0
-- Language: Unknown
-- Description: - **Integration**: Combines Next.js, Vercel AI SDK, and Supabase for a full-stack AI chatbot with real-time capabilities via Supabase Realtime.
-
-### 6. [SylphAI-Inc/GithubChat](../ai/rag/sylphai-inc-githubchat.md) ([GitHub](https://github.com/sylphai-inc/githubchat))
+### 5. [SylphAI-Inc/GithubChat](../ai/rag/sylphai-inc-githubchat.md) ([GitHub](https://github.com/sylphai-inc/githubchat))
 - Stars: 0
 - Language: Unknown
 - Description: *   Implements a Retrieval-Augmented Generation (RAG) system for contextual querying.
+
+### 6. [onyx-dot-app/onyx](../ai/rag/onyx-dot-app-onyx.md) ([GitHub](https://github.com/onyx-dot-app/onyx))
+- Stars: 0
+- Language: Unknown
+- Description: - **Multi-LLM Compatibility**: Open-source AI platform (`onyx`) enabling seamless interaction with diverse LLMs via a unified chat interface, supporting advanced features like RAG and vector search...
 
 ### 7. [run-llama/chat-ui](../ai/rag/run-llama-chat-ui.md) ([GitHub](https://github.com/run-llama/chat-ui))
 - Stars: 0
@@ -90,4 +90,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-23T01:29:50.981203+05:30.821601+05:30.047255+05:30.596430+05:30.805100+05:30.492826+05:30.673352+05:30.530611+05:30.108550+05:30.211801+05:30.315725+05:30.143330+05:30.678895+05:30.922942+05:30.079827+05:30.073513+05:30.651708+05:30.795448+05:30.715620+05:30.170352+05:30.919673+05:30.152333+05:30.478048+05:30.871612+05:30.369557+05:30.865321+05:30.550584+05:30.021380+05:30.455576+05:30.248579+05:30.290487+05:30.199049+05:30.403348+05:30.278821+05:30.055026+05:30.118030+05:30.682305+05:30.589701+05:30.761107+05:30.971744+05:30.401296+05:30.259812+05:30.664660+05:30.823287+05:30.855501+05:30.718697+05:30.650990+05:30.662181+05:30.412687+05:30.559839+05:30.229074+05:30.357938+05:30.727915+05:30.069958+05:30.066077+05:30.414434+05:30.363515+05:30.877755+05:30.810615+05:30.949333+05:30.426358+05:30.439688+05:30.506295+05:30.846557+05:30.365788+05:30.674019+05:30.493055+05:30.842993+05:30.484872+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-23T04:03:16.055390+05:30.981203+05:30.821601+05:30.047255+05:30.596430+05:30.805100+05:30.492826+05:30.673352+05:30.530611+05:30.108550+05:30.211801+05:30.315725+05:30.143330+05:30.678895+05:30.922942+05:30.079827+05:30.073513+05:30.651708+05:30.795448+05:30.715620+05:30.170352+05:30.919673+05:30.152333+05:30.478048+05:30.871612+05:30.369557+05:30.865321+05:30.550584+05:30.021380+05:30.455576+05:30.248579+05:30.290487+05:30.199049+05:30.403348+05:30.278821+05:30.055026+05:30.118030+05:30.682305+05:30.589701+05:30.761107+05:30.971744+05:30.401296+05:30.259812+05:30.664660+05:30.823287+05:30.855501+05:30.718697+05:30.650990+05:30.662181+05:30.412687+05:30.559839+05:30.229074+05:30.357938+05:30.727915+05:30.069958+05:30.066077+05:30.414434+05:30.363515+05:30.877755+05:30.810615+05:30.949333+05:30.426358+05:30.439688+05:30.506295+05:30.846557+05:30.365788+05:30.674019+05:30.493055+05:30.842993+05:30.484872+05:30.

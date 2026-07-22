@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://unlayer.com
 hn_url: https://news.ycombinator.com/item?id=49008901
-score: 28
+score: 38
 author: adeelraza
-comments_count: 21
+comments_count: 22
 published_at: '2026-07-22T21:32:03+05:30'
-collected_at: '2026-07-23T01:13:52.498189+05:30'
+collected_at: '2026-07-23T03:47:14.740177+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:launch-hn-unlayer-yc-w22-add-email-and-document-bu
 first_seen: '2026-07-22T22:15:01.097159+05:30'
-last_seen: '2026-07-23T01:13:52.498189+05:30'
-last_checked: '2026-07-23T01:13:52.498189+05:30'
+last_seen: '2026-07-23T03:47:14.740177+05:30'
+last_checked: '2026-07-23T03:47:14.740177+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by adeelraza. Score: 28, Comments: 21.
+Hacker News story by adeelraza. Score: 38, Comments: 22.
 Original Link: https://unlayer.com
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: adeelraza
-- Score: 28 Upvotes
-- Comments: 21 Discussions
+- Score: 38 Upvotes
+- Comments: 22 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49008901
 - Original Article: https://unlayer.com
 

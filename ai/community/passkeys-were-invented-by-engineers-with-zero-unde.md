@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:passkeys-were-invented-by-engineers-with-zero-unde
 first_seen: '2026-07-22T22:15:01.529554+05:30'
 last_seen: '2026-07-23T01:13:53.336112+05:30'
 last_checked: '2026-07-23T01:13:53.336112+05:30'
 health_score: 100
 ---
+
 
 # Passkeys were invented by engineers with zero understanding of consumer brain
 

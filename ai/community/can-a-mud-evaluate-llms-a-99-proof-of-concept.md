@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://cruciblebench.ai
 hn_url: https://news.ycombinator.com/item?id=49008538
-score: 61
+score: 86
 author: Davisb135
-comments_count: 31
+comments_count: 50
 published_at: '2026-07-22T21:09:01+05:30'
-collected_at: '2026-07-23T01:13:52.212537+05:30'
+collected_at: '2026-07-23T03:47:15.354156+05:30'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: hackernews:can-a-mud-evaluate-llms-a-99-proof-of-concept
 first_seen: '2026-07-23T01:13:52.212537+05:30'
-last_seen: '2026-07-23T01:13:52.212537+05:30'
-last_checked: '2026-07-23T01:13:52.212537+05:30'
+last_seen: '2026-07-23T03:47:15.354156+05:30'
+last_checked: '2026-07-23T03:47:15.354156+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by Davisb135. Score: 61, Comments: 31.
+Hacker News story by Davisb135. Score: 86, Comments: 50.
 Original Link: https://cruciblebench.ai/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: Davisb135
-- Score: 61 Upvotes
-- Comments: 31 Discussions
+- Score: 86 Upvotes
+- Comments: 50 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49008538
 - Original Article: https://cruciblebench.ai
 

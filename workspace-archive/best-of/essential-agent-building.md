@@ -33,19 +33,14 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`github-github-mcp-server.md`](../../ai/resources/github-github-mcp-server.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [Black Forest Labs · GitHub](https://github.com/black-forest-labs)
-- **Category**: `ai/resources` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`black-forest-labs-github.md`](../../ai/resources/black-forest-labs-github.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
 - **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`model-context-protocol-github.md`](../../ai/resources/model-context-protocol-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp)
+### [Black Forest Labs · GitHub](https://github.com/black-forest-labs)
 - **Category**: `ai/resources` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`jlbadano-ig-mcp.md`](../../ai/resources/jlbadano-ig-mcp.md)
+- **Score**: `89` | **Path**: [`black-forest-labs-github.md`](../../ai/resources/black-forest-labs-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
@@ -53,19 +48,24 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`modelcontextprotocol-typescript-sdk.md`](../../ai/resources/modelcontextprotocol-typescript-sdk.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [golf-mcp/golf](https://github.com/golf-mcp/golf)
-- **Category**: `ai/agents` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`golf-mcp-golf.md`](../../ai/agents/golf-mcp-golf.md)
+### [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp)
+- **Category**: `ai/resources` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`jlbadano-ig-mcp.md`](../../ai/resources/jlbadano-ig-mcp.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server)
-- **Category**: `ai/agents` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`sonarsource-sonarqube-mcp-server.md`](../../ai/agents/sonarsource-sonarqube-mcp-server.md)
+### [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops)
+- **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`wagneragent-awesome-mcp-servers-devops.md`](../../ai/rag/wagneragent-awesome-mcp-servers-devops.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`mergisi-awesome-openclaw-agents.md`](../../ai/agents/mergisi-awesome-openclaw-agents.md)
+### [langgenius/dify](https://github.com/langgenius/dify)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
+- **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`sylphxai-pdf-reader-mcp.md`](../../ai/rag/sylphxai-pdf-reader-mcp.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-23 01:32 IST*
+*Last updated: 2026-07-23 04:05 IST*
