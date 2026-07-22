@@ -13,13 +13,14 @@ collected_at: '2026-07-22T22:15:02.388199+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:most-americans-say-not-in-my-backyard-to-ai-data-c
 first_seen: '2026-07-22T22:15:02.388199+05:30'
 last_seen: '2026-07-22T22:15:02.388199+05:30'
 last_checked: '2026-07-22T22:15:02.388199+05:30'
 health_score: 100
 ---
+
 
 # Most Americans say "not in my backyard" to AI data centers
 

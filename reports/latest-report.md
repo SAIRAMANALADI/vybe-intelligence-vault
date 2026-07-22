@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-23T00:50:03.083155+05:30`
+Generated at: `2026-07-23T01:33:17.057652+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,37 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **Are AI Labs Pelicanmaxxing?** - Score: `118` in category `ai/community` ([Link](https://dylancastillo.co/posts/pelicanmaxxing.html)) ([File](../ai/community/are-ai-labs-pelicanmaxxing.md))
+- **Can a MUD evaluate LLMs? A $99 proof of concept** - Score: `61` in category `ai/community` ([Link](https://cruciblebench.ai)) ([File](../ai/community/can-a-mud-evaluate-llms-a-99-proof-of-concept.md))
+- **Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index** - Score: `0` in category `ai/companies/anthropic` ([Link](https://anthropic.com/news/anthropic-economic-index-connector)) ([File](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md))
+- **Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund** - Score: `0` in category `ai/companies/anthropic` ([Link](https://anthropic.com/news/economic-futures-research-fund-agenda)) ([File](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md))
+- **xiaohuiwang-ai/xiaohuiwang-ai.github.io** - Score: `0` in category `daily-digests/2026-06-26` ([File](../world/public/vault/daily-digests/2026-06-26/xiaohuiwang-ai_github_io.md))
 
 ## Top Trending Resources
 
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+964` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+964` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **ARUNAGIRINATHAN-K/awesome-ai-agents-2026** - Score: `0` (0), Rank Change: `+964` ([File](../ai/agents/arunagirinathan-k-awesome-ai-agents-2026.md))
-- **IBM/mt-rag-benchmark** - Score: `0` (0), Rank Change: `+964` ([File](../ai/rag/ibm-mt-rag-benchmark.md))
-- **gomate-community/awesome-papers-for-rag** - Score: `0` (0), Rank Change: `+964` ([File](../ai/rag/gomate-community-awesome-papers-for-rag.md))
-- **Azure-Samples/chat-with-your-data-solution-accelerator** - Score: `0` (0), Rank Change: `+964` ([File](../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md))
-- **FudanDNN-NLP/RAG** - Score: `0` (0), Rank Change: `+964` ([File](../ai/rag/fudandnn-nlp-rag.md))
-- **ajac-zero/example-rag-app** - Score: `0` (0), Rank Change: `+964` ([File](../ai/rag/ajac-zero-example-rag-app.md))
-- **Azure-Samples/azure-openai-rag-workshop-template** - Score: `0` (0), Rank Change: `+964` ([File](../ai/rag/azure-samples-azure-openai-rag-workshop-template.md))
-- **Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository** - Score: `0` (0), Rank Change: `+964` ([File](../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md))
+- **Passkeys were invented by engineers with zero understanding of consumer brain** - Score: `318` (+183), Rank Change: `+1` ([File](../ai/community/passkeys-were-invented-by-engineers-with-zero-unde.md))
+- **Launch HN: Unlayer (YC W22) – Add email and document builders to your app** - Score: `28` (+20), Rank Change: `+4` ([File](../ai/community/launch-hn-unlayer-yc-w22-add-email-and-document-bu.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+971` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+971` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+982` ([File](../ai/rag/malonge-ragoo.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **Search & information retrieval** - Score: `0` (0), Rank Change: `+3` ([File](../ai/companies/search-information-retrieval.md))
+- **Human language technologies** - Score: `0` (0), Rank Change: `+3` ([File](../ai/companies/human-language-technologies.md))
+- **Human-computer interaction** - Score: `0` (0), Rank Change: `+3` ([File](../ai/companies/human-computer-interaction.md))
+- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+3` ([File](../ai/companies/graphics-multimedia.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Medium** - (Rank Change: `+12898`) ([File](../ai/rag/medium-2.md))
-- **RUC-NLPIR/FlashRAG** - (Rank Change: `+12812`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
-- **monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1** - (Rank Change: `+965`) ([File](../ai/rag/monday-service-langsmith-building-a-code-first-eva.md))
-- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+965`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
-- **promptfoo/promptfoo-action** - (Rank Change: `+965`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
-- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+965`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
-- **Understanding RAG from Scratch | martinuke0's Blog** - (Rank Change: `+965`) ([File](../ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md))
-- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+965`) ([File](../ai/rag/arxiv-2606-29031.md))
-- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+965`) ([File](../ai/research/arxiv-2606-26428.md))
-- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+965`) ([File](../ai/research/arxiv-2606-21887.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+11853`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **malonge/RaGOO** - (Rank Change: `+982`) ([File](../ai/rag/malonge-ragoo.md))
+- **datawhalechina/llm-universe** - (Rank Change: `+971`) ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **SylphAI-Inc/GithubChat** - (Rank Change: `+971`) ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **Applied AI** - (Rank Change: `+841`) ([File](../ai/companies/openai/applied-ai.md))
+- **AI Adoption** - (Rank Change: `+841`) ([File](../ai/companies/openai/ai-adoption.md))
+- **Global Affairs** - (Rank Change: `+841`) ([File](../ai/companies/openai/global-affairs.md))
+- **Engineering** - (Rank Change: `+841`) ([File](../ai/companies/openai/engineering.md))
+- **Wan-AI/Wan2.2-Animate** - (Rank Change: `+23`) ([File](../ai/models/huggingface-spaces-wan-ai.md))
+- **AP123/IllusionDiffusion** - (Rank Change: `+23`) ([File](../ai/models/huggingface-spaces-ap123.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +49,9 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **OpenAI and Hugging Face address security incident during model evaluation** (Category: `ai/community`) ([File](../ai/community/openai-and-hugging-face-address-security-incident.md))
+- **Most Americans say "not in my backyard" to AI data centers** (Category: `ai/community`) ([File](../ai/community/most-americans-say-not-in-my-backyard-to-ai-data-c.md))
+- **OpenAI Presence** (Category: `ai/community`) ([File](../ai/community/openai-presence.md))
+- **Airbus Full Scale Foldable Wing Extensions** (Category: `ai/community`) ([File](../ai/community/airbus-full-scale-foldable-wing-extensions.md))
+- **A Zipper Patent Sat in a Garage for 40 Years. Now It's Real** (Category: `ai/community`) ([File](../ai/community/a-zipper-patent-sat-in-a-garage-for-40-years-now-i.md))
+- **Which streaming service was that on again** (Category: `ai/community`) ([File](../ai/community/which-streaming-service-was-that-on-again.md))

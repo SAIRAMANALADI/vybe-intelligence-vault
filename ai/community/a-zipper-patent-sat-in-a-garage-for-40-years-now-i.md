@@ -13,13 +13,14 @@ collected_at: '2026-07-22T22:15:02.479490+05:30'
 tags:
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:a-zipper-patent-sat-in-a-garage-for-40-years-now-i
 first_seen: '2026-07-22T22:15:02.479490+05:30'
 last_seen: '2026-07-22T22:15:02.479490+05:30'
 last_checked: '2026-07-22T22:15:02.479490+05:30'
 health_score: 100
 ---
+
 
 # A Zipper Patent Sat in a Garage for 40 Years. Now It's Real
 

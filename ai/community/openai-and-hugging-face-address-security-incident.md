@@ -15,13 +15,14 @@ tags:
 - benchmark
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-and-hugging-face-address-security-incident
 first_seen: '2026-07-22T03:42:35.590494+05:30'
 last_seen: '2026-07-22T22:15:03.038899+05:30'
 last_checked: '2026-07-22T22:15:03.038899+05:30'
 health_score: 100
 ---
+
 
 # OpenAI and Hugging Face address security incident during model evaluation
 

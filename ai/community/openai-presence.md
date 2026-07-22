@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-presence
 first_seen: '2026-07-22T22:15:02.937000+05:30'
 last_seen: '2026-07-22T22:15:02.937000+05:30'
 last_checked: '2026-07-22T22:15:02.937000+05:30'
 health_score: 100
 ---
+
 
 # OpenAI Presence
 

@@ -18,9 +18,19 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`staircase-ai.md`](../../ai/rag/staircase-ai.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
+### [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344)
+- **Category**: `ai/agents` | **Kind**: `PROMPT` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2606-12344.md`](../../ai/agents/arxiv-2606-12344.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
 ### [Future Confidence Distillation in Large Language Models](https://arxiv.org/abs/2607.07626)
 - **Category**: `ai/research` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`arxiv-2607-07626.md`](../../ai/research/arxiv-2607-07626.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2606-24937.md`](../../ai/rag/arxiv-2606-24937.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai)
@@ -33,39 +43,29 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`arxiv-2607-09322.md`](../../ai/rag/arxiv-2607-09322.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`arxiv-2606-24937.md`](../../ai/rag/arxiv-2606-24937.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`genkit-open-source-ai-framework-by-google-in-javas.md`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344)
-- **Category**: `ai/agents` | **Kind**: `PROMPT` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`arxiv-2606-12344.md`](../../ai/agents/arxiv-2606-12344.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
-
-### [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte)
-- **Category**: `web-development/shadcn-ui` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `81` | **Path**: [`huntabyte-shadcn-svelte.md`](../../web-development/shadcn-ui/huntabyte-shadcn-svelte.md)
+### [reliverse/relivator](https://github.com/reliverse/relivator)
+- **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
+- **Score**: `81` | **Path**: [`reliverse-relivator.md`](../../web-development/nextjs/reliverse-relivator.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [salimi-my/shadcn-ui-sidebar](https://github.com/salimi-my/shadcn-ui-sidebar)
-- **Category**: `web-development/shadcn-ui` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `81` | **Path**: [`salimi-my-shadcn-ui-sidebar.md`](../../web-development/shadcn-ui/salimi-my-shadcn-ui-sidebar.md)
+### [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace)
+- **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
+- **Score**: `81` | **Path**: [`shadcnspace-shadcnspace.md`](../../web-development/nextjs/shadcnspace-shadcnspace.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [shadcn-ui/next-template](https://github.com/shadcn-ui/next-template)
-- **Category**: `web-development/shadcn-ui` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `81` | **Path**: [`shadcn-ui-next-template.md`](../../web-development/shadcn-ui/shadcn-ui-next-template.md)
+### [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine)
+- **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
+- **Score**: `81` | **Path**: [`asbhogal-fyrre-magazine.md`](../../web-development/nextjs/asbhogal-fyrre-magazine.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [dan5py/react-vite-shadcn-ui](https://github.com/dan5py/react-vite-shadcn-ui)
-- **Category**: `web-development/shadcn-ui` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `81` | **Path**: [`dan5py-react-vite-shadcn-ui.md`](../../web-development/shadcn-ui/dan5py-react-vite-shadcn-ui.md)
+### [enesien/venefish](https://github.com/enesien/venefish)
+- **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
+- **Score**: `81` | **Path**: [`enesien-venefish.md`](../../web-development/nextjs/enesien-venefish.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-22 22:33 IST*
+*Last updated: 2026-07-23 01:32 IST*
