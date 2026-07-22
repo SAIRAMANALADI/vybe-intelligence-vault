@@ -18,13 +18,13 @@ Vector databases form the retrieval core of semantic search, recommendation engi
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 3908 resources matched in the intelligence vault.
+Active signals: 4031 resources matched in the intelligence vault.
 Recently detected signals:
-- [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) (Source: Unknown Source) - Collected 2026-07-22
-- [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md) (Source: Unknown Source) - Collected 2026-07-22
-- [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) (Source: Unknown Source) - Collected 2026-07-22
-- [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md) (Source: Unknown Source) - Collected 2026-07-22
-- [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md) (Source: Unknown Source) - Collected 2026-07-22
+- [IBM/mt-rag-benchmark](../ai/rag/ibm-mt-rag-benchmark.md) (Source: Unknown Source) - Collected 2026-07-22
+- [gomate-community/awesome-papers-for-rag](../ai/rag/gomate-community-awesome-papers-for-rag.md) (Source: Unknown Source) - Collected 2026-07-22
+- [Azure-Samples/chat-with-your-data-solution-accelerator](../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md) (Source: Unknown Source) - Collected 2026-07-22
+- [FudanDNN-NLP/RAG](../ai/rag/fudandnn-nlp-rag.md) (Source: Unknown Source) - Collected 2026-07-22
+- [ajac-zero/example-rag-app](../ai/rag/ajac-zero-example-rag-app.md) (Source: Unknown Source) - Collected 2026-07-22
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -300,4 +300,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-22T09:31:02.184858+05:30.131240+05:30.218933+05:30.811006+05:30.750395+05:30.947155+05:30.824850+05:30.199752+05:30.573405+05:30.690444+05:30.673189+05:30.247973+05:30.396194+05:30.350706+05:30.750880+05:30.497366+05:30.739696+05:30.049327+05:30.453182+05:30.955672+05:30.381750+05:30.152165+05:30.523267+05:30.046937+05:30.866948+05:30.825272+05:30.774730+05:30.941168+05:30.800397+05:30.557628+05:30.663660+05:30.167504+05:30.073294+05:30.284923+05:30.421976+05:30.850561+05:30.707620+05:30.119298+05:30.297484+05:30.242465+05:30.151650+05:30.314862+05:30.076400+05:30.703175+05:30.798681+05:30.466126+05:30.589982+05:30.933382+05:30.283410+05:30.277409+05:30.638018+05:30.577059+05:30.107484+05:30.018009+05:30.164497+05:30.642075+05:30.664174+05:30.711551+05:30.029393+05:30.546069+05:30.868173+05:30.672332+05:30.017610+05:30.235319+05:30.032490+05:30.187241+05:30.681147+05:30.814935+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-22T14:31:27.460808+05:30.184858+05:30.131240+05:30.218933+05:30.811006+05:30.750395+05:30.947155+05:30.824850+05:30.199752+05:30.573405+05:30.690444+05:30.673189+05:30.247973+05:30.396194+05:30.350706+05:30.750880+05:30.497366+05:30.739696+05:30.049327+05:30.453182+05:30.955672+05:30.381750+05:30.152165+05:30.523267+05:30.046937+05:30.866948+05:30.825272+05:30.774730+05:30.941168+05:30.800397+05:30.557628+05:30.663660+05:30.167504+05:30.073294+05:30.284923+05:30.421976+05:30.850561+05:30.707620+05:30.119298+05:30.297484+05:30.242465+05:30.151650+05:30.314862+05:30.076400+05:30.703175+05:30.798681+05:30.466126+05:30.589982+05:30.933382+05:30.283410+05:30.277409+05:30.638018+05:30.577059+05:30.107484+05:30.018009+05:30.164497+05:30.642075+05:30.664174+05:30.711551+05:30.029393+05:30.546069+05:30.868173+05:30.672332+05:30.017610+05:30.235319+05:30.032490+05:30.187241+05:30.681147+05:30.814935+05:30.

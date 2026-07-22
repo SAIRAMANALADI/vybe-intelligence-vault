@@ -320,10 +320,10 @@ This index groups curated resources by target developer skills.
 - [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (Tier: `useful` | [`Local File`](../../ai/rag/generative-ai-build-ai-powered-apps-with-speed-sec.md))
 - [Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms](https://arxiv.org/abs/2605.30169) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2605-30169.md))
 - [Protein Design with Agent Rosetta: A Case Study for Specialized Scientific Agents](https://arxiv.org/abs/2603.15952) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2603-15952.md))
+- [Agentic Calibration of Grey-Box Simulation Models: An LLM-Driven Alternative](https://arxiv.org/abs/2607.18308) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-18308.md))
 - [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) (Tier: `useful` | [`Local File`](../../ai/agents/leonxlnx-agentic-ai-prompt-research.md))
 - [explosion/spacy-llm](https://github.com/explosion/spacy-llm) (Tier: `useful` | [`Local File`](../../ai/resources/explosion-spacy-llm.md))
 - [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](https://github.com/lm-sys/FastChat/blob/main/fastchat/llm_judge/data/judge_prompts.jsonl) (Tier: `useful` | [`Local File`](../../ai/resources/lm-sys-fastchat.md))
-- [stanfordnlp/dsp](https://github.com/stanfordnlp/dsp) (Tier: `useful` | [`Local File`](../../ai/resources/stanfordnlp-dsp.md))
 
 ## REST API Integration
 
@@ -452,10 +452,10 @@ This index groups curated resources by target developer skills.
 - [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (Tier: `useful` | [`Local File`](../../ai/rag/generative-ai-build-ai-powered-apps-with-speed-sec.md))
 - [Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms](https://arxiv.org/abs/2605.30169) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2605-30169.md))
 - [Protein Design with Agent Rosetta: A Case Study for Specialized Scientific Agents](https://arxiv.org/abs/2603.15952) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2603-15952.md))
+- [Agentic Calibration of Grey-Box Simulation Models: An LLM-Driven Alternative](https://arxiv.org/abs/2607.18308) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-18308.md))
 - [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) (Tier: `useful` | [`Local File`](../../ai/agents/leonxlnx-agentic-ai-prompt-research.md))
 - [explosion/spacy-llm](https://github.com/explosion/spacy-llm) (Tier: `useful` | [`Local File`](../../ai/resources/explosion-spacy-llm.md))
 - [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](https://github.com/lm-sys/FastChat/blob/main/fastchat/llm_judge/data/judge_prompts.jsonl) (Tier: `useful` | [`Local File`](../../ai/resources/lm-sys-fastchat.md))
-- [stanfordnlp/dsp](https://github.com/stanfordnlp/dsp) (Tier: `useful` | [`Local File`](../../ai/resources/stanfordnlp-dsp.md))
 
 ## TailwindCSS
 
@@ -524,4 +524,4 @@ This index groups curated resources by target developer skills.
 - [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (Tier: `essential` | [`Local File`](../../ai/rag/scotthavird-crewai-template.md))
 
 ---
-*Last updated: 2026-07-22 09:33 IST*
+*Last updated: 2026-07-22 14:33 IST*

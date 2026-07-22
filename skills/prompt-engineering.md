@@ -18,13 +18,13 @@ Well-engineered prompts reduce downstream parsing failures, control costs throug
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 367 resources matched in the intelligence vault.
+Active signals: 383 resources matched in the intelligence vault.
 Recently detected signals:
-- [Coercion and Deception in AI-to-AI Management: An Agentic Benchmark of Unprompted Escalation](../ai/agents/arxiv-2607-15434.md) (Source: Unknown Source) - Collected 2026-07-22
-- [DCSCR: A Class-Specific Collaborative Representation based Network for Image Set Classification](../ai/research/arxiv-2508-12745.md) (Source: Unknown Source) - Collected 2026-07-22
-- [Visual Access Boundaries in Vision-Language Model Reasoning](../ai/research/arxiv-2607-12815.md) (Source: Unknown Source) - Collected 2026-07-22
-- [RoboPIN: Grounded Embodied Reasoning via Pinned Chain-of-Thought](../ai/rag/arxiv-2606-15753.md) (Source: Unknown Source) - Collected 2026-07-22
-- [Natural Language Access to Domain-Specific Metadata: A Reusable Framework for LLM Query Generation](../ai/agents/arxiv-2607-18029.md) (Source: Unknown Source) - Collected 2026-07-22
+- [LinguistAgent Technical Report: A Reflective Multi-Model Platform for Automated Linguistic Annotation](../ai/rag/arxiv-2602-05493.md) (Source: Unknown Source) - Collected 2026-07-22
+- [They'll Verify. They Just Won't Act. How Authority Framing and Laundered Code Turn a Trusted Agentic CI/CD Pipeline Into an Attack Surface](../ai/agents/arxiv-2607-19267.md) (Source: Unknown Source) - Collected 2026-07-22
+- [Prompt Design at Scale: How Format, Instruction Count, and Context Length Shape Instruction Adherence and Hallucination in Large Language Models](../ai/research/arxiv-2607-19257.md) (Source: Unknown Source) - Collected 2026-07-22
+- [Beyond Score Prediction: LLM-Based Essay Scoring and Feedback Generation via Reinforcement Learning with Rubric Rewards](../ai/research/arxiv-2607-19219.md) (Source: Unknown Source) - Collected 2026-07-22
+- [DAIS: Dependency-Aware Intermediate QA Supervision for Complex Reasoning](../ai/rag/arxiv-2607-19088.md) (Source: Unknown Source) - Collected 2026-07-22
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -140,4 +140,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-22T09:31:00.926998+05:30.294234+05:30.970094+05:30.533943+05:30.771466+05:30.797579+05:30.579488+05:30.244825+05:30.395678+05:30.571425+05:30.587288+05:30.146322+05:30.309609+05:30.196830+05:30.695248+05:30.446523+05:30.671659+05:30.006993+05:30.397725+05:30.895171+05:30.442877+05:30.058410+05:30.599921+05:30.978407+05:30.741321+05:30.852913+05:30.727510+05:30.954461+05:30.856247+05:30.640771+05:30.674145+05:30.286656+05:30.198622+05:30.334265+05:30.606069+05:30.969440+05:30.888730+05:30.300450+05:30.432366+05:30.541189+05:30.363472+05:30.159452+05:30.335293+05:30.168152+05:30.369157+05:30.042780+05:30.172643+05:30.562942+05:30.900875+05:30.896989+05:30.203766+05:30.195583+05:30.685581+05:30.652618+05:30.785597+05:30.261200+05:30.269860+05:30.348616+05:30.707889+05:30.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-22T14:31:26.271288+05:30.926998+05:30.294234+05:30.970094+05:30.533943+05:30.771466+05:30.797579+05:30.579488+05:30.244825+05:30.395678+05:30.571425+05:30.587288+05:30.146322+05:30.309609+05:30.196830+05:30.695248+05:30.446523+05:30.671659+05:30.006993+05:30.397725+05:30.895171+05:30.442877+05:30.058410+05:30.599921+05:30.978407+05:30.741321+05:30.852913+05:30.727510+05:30.954461+05:30.856247+05:30.640771+05:30.674145+05:30.286656+05:30.198622+05:30.334265+05:30.606069+05:30.969440+05:30.888730+05:30.300450+05:30.432366+05:30.541189+05:30.363472+05:30.159452+05:30.335293+05:30.168152+05:30.369157+05:30.042780+05:30.172643+05:30.562942+05:30.900875+05:30.896989+05:30.203766+05:30.195583+05:30.685581+05:30.652618+05:30.785597+05:30.261200+05:30.269860+05:30.348616+05:30.707889+05:30.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.

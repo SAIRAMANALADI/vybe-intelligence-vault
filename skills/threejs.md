@@ -21,11 +21,11 @@ It enables immersive, interactive 3D visualizations, interactive landing pages, 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 167 resources matched in the intelligence vault.
 Recently detected signals:
-- [Nonlinear Bandit](../ai/research/arxiv-2607-07304.md) (Source: Unknown Source) - Collected 2026-07-22
-- [Neural Global Optimization via Iterative Refinement from Noisy Samples](../ai/research/arxiv-2604-03614.md) (Source: Unknown Source) - Collected 2026-07-22
-- [Feature-Guided Diffusion for Non-Differentiable Inverse Rendering](../ai/research/arxiv-2607-17411.md) (Source: Unknown Source) - Collected 2026-07-22
 - [Transformers.js v3: WebGPU Support, New Models & Tasks, and More…](../ai/models/huggingface-blog-transformersjs-v3.md) (Source: Unknown Source) - Collected 2026-07-22
+- [Neural Global Optimization via Iterative Refinement from Noisy Samples](../ai/research/arxiv-2604-03614.md) (Source: Unknown Source) - Collected 2026-07-22
 - [Transformers.js · Hugging Face](../ai/rag/huggingface-docs-transformers-js.md) (Source: Unknown Source) - Collected 2026-07-21
+- [Android Jetpack Dev Resources - Android Developers](../ai/rag/android-jetpack-dev-resources-android-developers.md) (Source: Unknown Source) - Collected 2026-07-21
+- [android Git repositories - Git at Google](../ai/rag/android-git-repositories-git-at-google.md) (Source: Unknown Source) - Collected 2026-07-21
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -301,4 +301,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-22T09:31:01.658356+05:30.782353+05:30.694840+05:30.276499+05:30.341176+05:30.467296+05:30.305298+05:30.802707+05:30.078205+05:30.224376+05:30.215072+05:30.792014+05:30.937933+05:30.868056+05:30.308719+05:30.057414+05:30.292827+05:30.614564+05:30.010333+05:30.509097+05:30.989034+05:30.695017+05:30.142008+05:30.596802+05:30.397305+05:30.418279+05:30.336615+05:30.531423+05:30.402489+05:30.174734+05:30.249005+05:30.797781+05:30.704801+05:30.887436+05:30.078371+05:30.508738+05:30.365787+05:30.771759+05:30.936820+05:30.947602+05:30.821685+05:30.801186+05:30.765440+05:30.484934+05:30.618762+05:30.287167+05:30.414877+05:30.777948+05:30.122469+05:30.119037+05:30.468914+05:30.415146+05:30.934005+05:30.861220+05:30.001644+05:30.478803+05:30.494249+05:30.556817+05:30.891404+05:30.410092+05:30.722170+05:30.536294+05:30.885217+05:30.833116+05:30.048946+05:30.533801+05:30.607031+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-22T14:31:26.962458+05:30.658356+05:30.782353+05:30.694840+05:30.276499+05:30.341176+05:30.467296+05:30.305298+05:30.802707+05:30.078205+05:30.224376+05:30.215072+05:30.792014+05:30.937933+05:30.868056+05:30.308719+05:30.057414+05:30.292827+05:30.614564+05:30.010333+05:30.509097+05:30.989034+05:30.695017+05:30.142008+05:30.596802+05:30.397305+05:30.418279+05:30.336615+05:30.531423+05:30.402489+05:30.174734+05:30.249005+05:30.797781+05:30.704801+05:30.887436+05:30.078371+05:30.508738+05:30.365787+05:30.771759+05:30.936820+05:30.947602+05:30.821685+05:30.801186+05:30.765440+05:30.484934+05:30.618762+05:30.287167+05:30.414877+05:30.777948+05:30.122469+05:30.119037+05:30.468914+05:30.415146+05:30.934005+05:30.861220+05:30.001644+05:30.478803+05:30.494249+05:30.556817+05:30.891404+05:30.410092+05:30.722170+05:30.536294+05:30.885217+05:30.833116+05:30.048946+05:30.533801+05:30.607031+05:30.
