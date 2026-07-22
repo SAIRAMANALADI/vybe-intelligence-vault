@@ -4,24 +4,18 @@ Below is the file distribution across the vault categories.
 
 | Folder | Files |
 | :--- | ---: |
-| `ai/agents/` | 1971 |
+| `Agent Framework/` | 1 |
+| `ai/agents/` | 1915 |
 | `ai/community/` | 4 |
-| `ai/companies/` | 10 |
-| `ai/companies/anthropic/` | 10 |
-| `ai/companies/deepmind/` | 5 |
-| `ai/companies/mistral/` | 10 |
-| `ai/companies/openai/` | 4 |
-| `ai/models/` | 781 |
-| `ai/rag/` | 4022 |
+| `ai/rag/` | 3996 |
 | `ai/releases/` | 1 |
-| `ai/research/` | 5097 |
+| `ai/research/` | 5098 |
 | `ai/resources/` | 1221 |
 | `ai/trending/` | 5 |
-| `daily-digests/2026-06-26/` | 1 |
-| `web-development/` | 40 |
+| `web-development/` | 39 |
 | `web-development/framer-motion/` | 3 |
 | `web-development/gsap/` | 3 |
-| `web-development/nextjs/` | 71 |
+| `web-development/nextjs/` | 9 |
 | `web-development/react-three-fiber/` | 22 |
 | `web-development/shadcn-ui/` | 26 |
 | `web-development/tailwind/` | 2 |
