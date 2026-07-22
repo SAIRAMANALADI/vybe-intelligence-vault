@@ -1,71 +1,55 @@
 ---
-title: hencter/Nova
-content_type: repo
-engine: v2
-category: daily-digests/2026-07-22
-tech_stack:
-- Obsidian
-- OpenCode / Crush
-- Git
-- Markdown
-- Zettelkasten
-- OKF v0.1
-- JavaScript/Node.js
-- Multi-agent Systems
+title: "joelaniol/nova"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["C#", "Windows App SDK", "Microsoft Edge WebView2 Runtime", "MCP (Model Context Protocol)", "Chromium", "Local Storage (LCJ, ALP, PKS, OK)", "PowerShell"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- knowledge management
-- self-bootstrapping
-- AI agents
-- personal vault
-- automated maintenance
-source: https://github.com/hencter/Nova
+deployment_complexity: "Medium"
+tags: ["autonomous agents", "browser automation", "MCP server", "local AI runtime", "Windows desktop"]
+source: "https://github.com/joelaniol/nova"
 stars: 0
-language: None
-last_updated: '2026-07-13T02:31:56Z'
-discovered_at: '2026-07-13T02:34:14Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-21T12:19:03Z"
+discovered_at: "2026-07-21T12:23:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Nova is a self-bootstrapping personal knowledge vault maintained by AI agents. It automates knowledge ingestion, cross-linking, health checks, and Git commits, allowing users to focus on conversational interaction while the system evolves autonomously.
+Nova Cognitive Browser is an autonomous AI-agent framework that provides a full Chromium desktop browser as the runtime environment for AI models. It enables fully scheduled, unattended agent execution with persistent local memory, deep web exploration, and browser-enforced safety, all running locally on Windows.
 
 ## Key Features
-- AI-driven knowledge ingestion and cross-linking with minimal user input
-- Automated Git commits and version control integration
-- Multi-agent collaboration for maintenance and evolution
-- Personalized identity and customization via structured prompts
-- Supports both human navigation (Obsidian) and AI consumption (Markdown)
+- Fully autonomous agent scheduling with persistent local memory and task execution
+- Real Chromium desktop browser runtime with tabs, sessions, and identity management
+- Deep autonomous web exploration and surface state discovery without URLs
+- Open MCP server exposing 200+ browser and knowledge tools for external clients
+- Multi-model support (Claude, Codex, Gemini) with seamless provider switching
 
 ## Why It Matters for RAG Builders
-Nova provides a fully automated, self-sustaining knowledge management system that reduces manual effort for RAG builders while ensuring high-quality, cross-linked content generation and maintenance.
+Nova provides a production-grade, browser-based runtime for autonomous AI agents with persistent memory and deep web exploration, enabling RAG builders to deploy agents that operate in real-world browsing environments with robust safety and integration capabilities.
 
 ## Tech Stack Deep Dive
-### Obsidian
-Automated review identified **Obsidian** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### C#
+Automated review identified **C#** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OpenCode / Crush
-Automated review identified **OpenCode / Crush** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Windows App SDK
+Automated review identified **Windows App SDK** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Git
-Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Microsoft Edge WebView2 Runtime
+Automated review identified **Microsoft Edge WebView2 Runtime** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Markdown
-Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Zettelkasten
-Automated review identified **Zettelkasten** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Chromium
+Automated review identified **Chromium** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OKF v0.1
-Automated review identified **OKF v0.1** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Local Storage (LCJ, ALP, PKS, OK)
+Automated review identified **Local Storage (LCJ, ALP, PKS, OK)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### JavaScript/Node.js
-Automated review identified **JavaScript/Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Multi-agent Systems
-Automated review identified **Multi-agent Systems** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### PowerShell
+Automated review identified **PowerShell** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
