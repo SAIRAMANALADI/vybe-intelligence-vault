@@ -13,13 +13,14 @@ collected_at: '2026-07-23T14:15:19.648780+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:petals-run-llms-at-home-bittorrent-style
 first_seen: '2026-07-23T09:14:06.580555+05:30'
 last_seen: '2026-07-23T14:15:19.648780+05:30'
 last_checked: '2026-07-23T14:15:19.648780+05:30'
 health_score: 100
 ---
+
 
 # Petals: Run LLMs at home, BitTorrent-style
 
