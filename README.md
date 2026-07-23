@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 55,969 files</p>
-        <p><b>Last Update:</b> 2026-07-23 09:50 IST</p>
+        <p><b>Last Update:</b> 2026-07-23 13:07 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,24 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Quality non-fiction books are the antithesis of AI slop](ai/community/quality-non-fiction-books-are-the-antithesis-of-ai.md)** • <kbd>+177 pts</kbd> • Rank: <kbd>+4</kbd>
-- 🔼 **[So Reddit has decided that plain HTML is unsafe](ai/community/so-reddit-has-decided-that-plain-html-is-unsafe.md)** • <kbd>+156 pts</kbd>
-- 🔼 **[Are AI Labs Pelicanmaxxing?](ai/community/are-ai-labs-pelicanmaxxing.md)** • <kbd>+121 pts</kbd>
-- 🔼 **[Fairphone 6 wide camera experimental Linux support](ai/community/fairphone-6-wide-camera-experimental-linux-support.md)** • <kbd>+60 pts</kbd> • Rank: <kbd>+4</kbd>
-- 🔼 **[Businesses with ugly AI menu redesigns](ai/community/businesses-with-ugly-ai-menu-redesigns.md)** • <kbd>+55 pts</kbd>
+- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+964</kbd>
+- 🔼 **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** • Rank: <kbd>+964</kbd>
+- 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+964</kbd>
+- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+964</kbd>
+- 🔼 **[ARUNAGIRINATHAN-K/awesome-ai-agents-2026](ai/agents/arunagirinathan-k-awesome-ai-agents-2026.md)** • Rank: <kbd>+964</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Petals: Run LLMs at home, BitTorrent-style](ai/community/petals-run-llms-at-home-bittorrent-style.md)** • Score: `66`
 - 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Can a MUD evaluate LLMs? A $99 proof of concept](ai/community/can-a-mud-evaluate-llms-a-99-proof-of-concept.md)**
-- 💤 **[Nvidia DGX Spark as a daily driver](ai/community/nvidia-dgx-spark-as-a-daily-driver.md)**
-- 💤 **[Which streaming service was that on again?](ai/community/which-streaming-service-was-that-on-again.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
