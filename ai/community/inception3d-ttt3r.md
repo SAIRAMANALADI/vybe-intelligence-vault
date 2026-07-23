@@ -13,13 +13,14 @@ collected_at: '2026-07-23T20:00:46.565741+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:inception3d/ttt3r
 first_seen: '2026-07-23T20:00:46.565741+05:30'
 last_seen: '2026-07-23T20:00:46.565741+05:30'
 last_checked: '2026-07-23T20:00:46.565741+05:30'
 health_score: 100
 ---
+
 
 # Test-time training 3D reconstruction
 

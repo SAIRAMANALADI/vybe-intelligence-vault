@@ -13,13 +13,14 @@ collected_at: '2026-07-23T20:00:46.772722+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:protecting-our-floss-commons-from-llms
 first_seen: '2026-07-23T14:15:19.450856+05:30'
 last_seen: '2026-07-23T20:00:46.772722+05:30'
 last_checked: '2026-07-23T20:00:46.772722+05:30'
 health_score: 100
 ---
+
 
 # Protecting our FLOSS commons from LLMs
 

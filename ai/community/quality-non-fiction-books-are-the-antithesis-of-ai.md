@@ -13,13 +13,14 @@ collected_at: '2026-07-23T20:00:46.084038+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:quality-non-fiction-books-are-the-antithesis-of-ai
 first_seen: '2026-07-23T03:47:13.677302+05:30'
 last_seen: '2026-07-23T20:00:46.084038+05:30'
 last_checked: '2026-07-23T20:00:46.084038+05:30'
 health_score: 100
 ---
+
 
 # Quality non-fiction books are the antithesis of AI slop
 

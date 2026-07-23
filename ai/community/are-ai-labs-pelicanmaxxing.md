@@ -13,13 +13,14 @@ collected_at: '2026-07-23T20:00:46.496644+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:are-ai-labs-pelicanmaxxing
 first_seen: '2026-07-23T01:13:51.780925+05:30'
 last_seen: '2026-07-23T20:00:46.496644+05:30'
 last_checked: '2026-07-23T20:00:46.496644+05:30'
 health_score: 100
 ---
+
 
 # Are AI labs pelicanmaxxing?
 

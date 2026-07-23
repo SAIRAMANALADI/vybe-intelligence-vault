@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:alphabet-s-cash-burn-raises-alarm-for-big-tech-as
 first_seen: '2026-07-23T20:00:45.629588+05:30'
 last_seen: '2026-07-23T20:00:45.629588+05:30'
 last_checked: '2026-07-23T20:00:45.629588+05:30'
 health_score: 100
 ---
+
 
 # Alphabet's cash burn raises alarm for Big Tech as AI spending climbs
 

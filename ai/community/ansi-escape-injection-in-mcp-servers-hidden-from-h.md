@@ -13,13 +13,14 @@ collected_at: '2026-07-23T20:00:46.707129+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ansi-escape-injection-in-mcp-servers-hidden-from-h
 first_seen: '2026-07-23T14:15:18.230034+05:30'
 last_seen: '2026-07-23T20:00:46.707129+05:30'
 last_checked: '2026-07-23T20:00:46.707129+05:30'
 health_score: 100
 ---
+
 
 # ANSI escape injection in MCP servers: Hidden from humans, visible to AI
 

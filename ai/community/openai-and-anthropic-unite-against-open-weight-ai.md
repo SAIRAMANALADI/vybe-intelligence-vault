@@ -15,13 +15,14 @@ tags:
 - anthropic
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-and-anthropic-unite-against-open-weight-ai
 first_seen: '2026-07-23T20:00:46.344807+05:30'
 last_seen: '2026-07-23T20:00:46.344807+05:30'
 last_checked: '2026-07-23T20:00:46.344807+05:30'
 health_score: 100
 ---
+
 
 # OpenAI and Anthropic unite against open-weight AI risks to their bottom line
 
