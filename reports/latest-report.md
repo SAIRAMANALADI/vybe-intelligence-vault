@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-24T04:04:57.563965+05:30`
+Generated at: `2026-07-24T04:31:00.987274+05:30`
 
 ## Executive Summary
 
@@ -11,7 +11,7 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **Startup founders urge U.S. government not to shut off Chinese open weight AI** - Score: `615` in category `ai/community` ([Link](https://politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)) ([File](../ai/community/startup-founders-urge-trump-not-to-shut-off-chines.md))
 - **OpenAI’s accidental attack against Hugging Face is science fiction that happened** - Score: `330` in category `ai/community` ([Link](https://simonwillison.net/2026/jul/22/openai-cyberattack)) ([File](../ai/community/openais-accidental-attack-against-hugging-face-is.md))
 - **Escape Analysis in Go: Stack vs. Heap Allocations Explained** - Score: `22` in category `ai/community` ([Link](https://blog.jetbrains.com/go/2026/07/20/escape-analysis)) ([File](../ai/community/escape-analysis-in-go-stack-vs-heap-allocations-ex.md))
-- **pedrolucazx/job-search** - Score: `0` in category `daily-digests/2026-07-17` ([File](../world/public/vault/daily-digests/2026-07-17/job-search.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
@@ -28,16 +28,16 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## 🚀 Fastest Rising Tools
 
-- **infiniflow/ragflow** - (Rank Change: `+11833`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **Medium** - (Rank Change: `+12886`) ([File](../ai/rag/medium-2.md))
+- **infiniflow/ragflow** - (Rank Change: `+12797`) ([File](../ai/rag/infiniflow-ragflow-2.md))
 - **czl9707/build-your-own-openclaw** - (Rank Change: `+2248`) ([File](../ai/agents/czl9707-build-your-own-openclaw.md))
 - **codebasics/ai-agents** - (Rank Change: `+1993`) ([File](../ai/agents/codebasics-ai-agents.md))
-- **Wan-AI/Wan2.2-Animate** - (Rank Change: `+4`) ([File](../ai/models/huggingface-spaces-wan-ai.md))
-- **AP123/IllusionDiffusion** - (Rank Change: `+4`) ([File](../ai/models/huggingface-spaces-ap123.md))
-- **dalle-mini/dalle-mini** - (Rank Change: `+4`) ([File](../ai/models/huggingface-spaces-dalle-mini.md))
-- **mteb/leaderboard** - (Rank Change: `+4`) ([File](../ai/models/huggingface-spaces-mteb.md))
-- **black-forest-labs/FLUX.1-dev** - (Rank Change: `+4`) ([File](../ai/models/huggingface-spaces-black-forest-labs.md))
-- **Kwai-Kolors/Kolors-Virtual-Try-On** - (Rank Change: `+4`) ([File](../ai/models/huggingface-spaces-kwai-kolors.md))
-- **jbilcke-hf/ai-comic-factory** - (Rank Change: `+4`) ([File](../ai/models/huggingface-spaces-jbilcke-hf.md))
+- **monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1** - (Rank Change: `+966`) ([File](../ai/rag/monday-service-langsmith-building-a-code-first-eva.md))
+- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+966`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
+- **promptfoo/promptfoo-action** - (Rank Change: `+966`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
+- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+966`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
+- **Understanding RAG from Scratch | martinuke0's Blog** - (Rank Change: `+966`) ([File](../ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md))
+- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+966`) ([File](../ai/rag/arxiv-2606-29031.md))
 
 ## 🔄 Essential Tier Transitions
 
