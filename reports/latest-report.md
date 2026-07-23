@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-23T22:35:37.384812+05:30`
+Generated at: `2026-07-23T22:56:39.560726+05:30`
 
 ## Executive Summary
 
@@ -14,7 +14,7 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency** - Score: `29` in category `ai/community` ([Link](https://rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development)) ([File](../ai/community/hybrid-electric-aicraft-engine-targeting-30-fuel-e.md))
 - **Learn WebGPU for C++** - Score: `18` in category `web-development/community` ([Link](https://eliemichel.github.io/learnwebgpu)) ([File](../web-development/community/learn-webgpu-for-c.md))
 - **You can now run same OCI images as containers or Firecracker microVMs** - Score: `9` in category `ai/community` ([Link](https://github.com/pullrun/pullrun)) ([File](../ai/community/pullrun-pullrun.md))
-- **pedrolucazx/job-search** - Score: `0` in category `daily-digests/2026-07-17` ([File](../world/public/vault/daily-digests/2026-07-17/job-search.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
@@ -23,24 +23,24 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+970` ([File](../ai/rag/particlemedia-ragtruth.md))
 - **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/raganwald-raganwald-github-com.md))
 - **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+967` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/human-language-technologies.md))
-- **Human-computer interaction** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/human-computer-interaction.md))
-- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/graphics-multimedia.md))
-- **Computer vision** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/computer-vision.md))
+- **mergisi/awesome-openclaw-agents** - Score: `0` (0), Rank Change: `+967` ([File](../ai/agents/mergisi-awesome-openclaw-agents.md))
+- **MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials** - Score: `0` (0), Rank Change: `+967` ([File](../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md))
+- **microsoft/agentsleague** - Score: `0` (0), Rank Change: `+967` ([File](../ai/agents/microsoft-agentsleague.md))
+- **wgcyeo/UniversalRAG** - Score: `0` (0), Rank Change: `+967` ([File](../ai/rag/wgcyeo-universalrag.md))
+- **bakrianoo/mini-rag** - Score: `0` (0), Rank Change: `+967` ([File](../ai/rag/bakrianoo-mini-rag.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **infiniflow/ragflow** - (Rank Change: `+11838`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **Medium** - (Rank Change: `+12891`) ([File](../ai/rag/medium-2.md))
+- **infiniflow/ragflow** - (Rank Change: `+12802`) ([File](../ai/rag/infiniflow-ragflow-2.md))
 - **ParticleMedia/RAGTruth** - (Rank Change: `+970`) ([File](../ai/rag/particlemedia-ragtruth.md))
-- **datawhalechina/all-in-rag** - (Rank Change: `+967`) ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **google-t5/t5-small** - (Rank Change: `+834`) ([File](../ai/models/huggingface-google-t5-t5-small.md))
-- **Qwen/Qwen3-0.6B** - (Rank Change: `+834`) ([File](../ai/models/huggingface-qwen-qwen3-0-6b.md))
-- **sentence-transformers/all-mpnet-base-v2** - (Rank Change: `+834`) ([File](../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md))
-- **BAAI/bge-m3** - (Rank Change: `+834`) ([File](../ai/rag/huggingface-baai-bge-m3.md))
-- **sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2** - (Rank Change: `+834`) ([File](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md))
-- **google/electra-base-discriminator** - (Rank Change: `+834`) ([File](../ai/models/huggingface-google-electra-base-discriminator.md))
-- **BAAI/bge-small-en-v1.5** - (Rank Change: `+834`) ([File](../ai/rag/huggingface-baai-bge-small-en-v1-5.md))
+- **coree/awesome-rag** - (Rank Change: `+968`) ([File](../ai/rag/coree-awesome-rag.md))
+- **zhengxuJosh/Awesome-RAG-Vision** - (Rank Change: `+968`) ([File](../ai/rag/zhengxujosh-awesome-rag-vision.md))
+- **Azure-Samples/chat-with-your-data-solution-accelerator** - (Rank Change: `+968`) ([File](../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md))
+- **ajac-zero/example-rag-app** - (Rank Change: `+968`) ([File](../ai/rag/ajac-zero-example-rag-app.md))
+- **vndee/local-assistant-examples** - (Rank Change: `+968`) ([File](../ai/rag/vndee-local-assistant-examples.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - (Rank Change: `+968`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - (Rank Change: `+968`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
 
 ## 🔄 Essential Tier Transitions
 
