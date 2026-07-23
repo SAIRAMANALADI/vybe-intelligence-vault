@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-56%2C367-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-107%2C515-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--24-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **56,367 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **107,515 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 13,087</p>
-        <p><b>Active:</b> 12,781 | <b>Inactive:</b> 306</p>
+        <p><b>Resources tracked:</b> 14,053</p>
+        <p><b>Active:</b> 13,746 | <b>Inactive:</b> 307</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,047</p>
+        <p><b>Archive Files:</b> 52,251</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 56,367 files</p>
-        <p><b>Last Update:</b> 2026-07-24 02:38 IST</p>
+        <p><b>Total Vault Size:</b> 107,515 files</p>
+        <p><b>Last Update:</b> 2026-07-24 04:04 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,22 +210,25 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[mergisi/awesome-openclaw-agents](ai/agents/mergisi-awesome-openclaw-agents.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[microsoft/agentsleague](ai/agents/microsoft-agentsleague.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[Writing by hand is good for your brain](ai/community/writing-by-hand-is-good-for-your-brain.md)** • <kbd>+196 pts</kbd>
+- 🔼 **[AI Companies Are Trying to Hide a Staggering Amount of Debt](ai/community/ai-companies-are-trying-to-hide-a-staggering-amoun.md)** • <kbd>+95 pts</kbd>
+- 🔼 **[The arguments against open source AI are bad](ai/community/the-arguments-against-open-source-ai-are-bad.md)** • <kbd>+66 pts</kbd>
+- 🔼 **[DARPA, U.S. Air Force fly AI-controlled F-16](ai/community/darpa-u-s-air-force-fly-ai-controlled-f-16.md)** • <kbd>+53 pts</kbd>
+- 🔼 **[Show HN: Palmier Pro – Open-source macOS video editor built for AI](ai/trending/palmier-io-palmier-pro.md)** • <kbd>+44 pts</kbd> • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Startup founders urge U.S. government not to shut off Chinese open weight AI](ai/community/startup-founders-urge-trump-not-to-shut-off-chines.md)** • Score: `487`
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Startup founders urge U.S. government not to shut off Chinese open weight AI](ai/community/startup-founders-urge-trump-not-to-shut-off-chines.md)** • Score: `615`
+- 🆕 **[OpenAI’s accidental attack against Hugging Face is science fiction that happened](ai/community/openais-accidental-attack-against-hugging-face-is.md)** • Score: `330`
+- 🆕 **[Escape Analysis in Go: Stack vs. Heap Allocations Explained](ai/community/escape-analysis-in-go-stack-vs-heap-allocations-ex.md)** • Score: `22`
+- 🆕 **[pedrolucazx/job-search](world/public/vault/daily-digests/2026-07-17/job-search.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Why Software Factories Fail (or: harness engineering is not enough)](ai/community/humanlayer-advanced-context-engineering-for-coding-agents.md)**
+- 💤 **[From Evaluation to Guardrails: What We Brought to ACM FAccT 2026](ai/community/from-evaluation-to-guardrails-what-we-brought-to-a.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

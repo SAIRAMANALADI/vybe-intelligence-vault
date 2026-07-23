@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16
 hn_url: https://news.ycombinator.com/item?id=49021597
-score: 87
+score: 140
 author: r2sk5t
-comments_count: 80
+comments_count: 156
 published_at: '2026-07-23T19:21:36+05:30'
-collected_at: '2026-07-24T01:16:13.182168+05:30'
+collected_at: '2026-07-24T03:45:24.352173+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:darpa-u-s-air-force-fly-ai-controlled-f-16
 first_seen: '2026-07-24T01:16:13.182168+05:30'
-last_seen: '2026-07-24T01:16:13.182168+05:30'
-last_checked: '2026-07-24T01:16:13.182168+05:30'
+last_seen: '2026-07-24T03:45:24.352173+05:30'
+last_checked: '2026-07-24T03:45:24.352173+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by r2sk5t. Score: 87, Comments: 80.
+Hacker News story by r2sk5t. Score: 140, Comments: 156.
 Original Link: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: r2sk5t
-- Score: 87 Upvotes
-- Comments: 80 Discussions
+- Score: 140 Upvotes
+- Comments: 156 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49021597
 - Original Article: https://darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16
 

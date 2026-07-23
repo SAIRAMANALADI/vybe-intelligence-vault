@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/llm-universe
-collected_at: '2026-07-24T01:17:01.274193+05:30'
+collected_at: '2026-07-24T03:46:10.171400+05:30'
 published_at: '2026-07-23T13:07:37Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2023-10-29T16:01:22Z'
 pushed_at: '2026-02-24T14:33:21Z'
 resource_id: github:datawhalechina/llm-universe
-first_seen: '2026-07-24T01:17:01.274193+05:30'
-last_seen: '2026-07-24T01:17:01.274193+05:30'
-last_checked: '2026-07-24T01:17:01.274193+05:30'
+first_seen: '2026-07-24T03:46:10.171400+05:30'
+last_seen: '2026-07-24T03:46:10.171400+05:30'
+last_checked: '2026-07-24T03:46:10.171400+05:30'
 health_score: 100
 ---
 
@@ -27,8 +27,8 @@ health_score: 100
 
 ## Summary
 
-*   LLM application development curriculum delivered via Jupyter Notebooks.
-*   Emphas
+*   Provides a structured curriculum for large language model (LLM) application development.
+*
 
 ## Why It Matters
 

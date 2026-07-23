@@ -14,13 +14,14 @@ tags:
 - ai
 - benchmark
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:from-evaluation-to-guardrails-what-we-brought-to-a
 first_seen: '2026-07-24T01:16:13.864879+05:30'
 last_seen: '2026-07-24T01:16:13.864879+05:30'
 last_checked: '2026-07-24T01:16:13.864879+05:30'
 health_score: 100
 ---
+
 
 # From Evaluation to Guardrails: What We Brought to ACM FAccT 2026
 

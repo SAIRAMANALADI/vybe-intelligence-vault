@@ -12,10 +12,10 @@ Public developer APIs supply external context and utilities for LLM tools.
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) (framework - USEFUL Tier)
-- [register](https://clients.iban.com/register) (tutorial - USEFUL Tier)
-- [LangChain - YouTube](https://www.youtube.com/@LangChain) (tutorial - USEFUL Tier)
-- [Marquez Project | Marquez Project](https://marquezproject.github.io/marquez) (dataset - USEFUL Tier)
 - [The Compass REST API](https://developer.atlassian.com/cloud/compass/rest/v1/intro/#about) (tutorial - USEFUL Tier)
+- [Overview (egeria 6.1-SNAPSHOT API)](https://odpi.github.io/egeria/index.html) (dataset - USEFUL Tier)
+- [Marquez Project | Marquez Project](https://marquezproject.github.io/marquez) (dataset - USEFUL Tier)
+- [Docker Hub | Docker Docs](https://docs.docker.com/docker-hub) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -39,4 +39,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-07-24 01:34 IST*
+*Last updated: 2026-07-24 04:03 IST*

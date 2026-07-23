@@ -2338,7 +2338,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/structured-codeagent>
 
 * **[codebasics/ai-agents](ai/agents/codebasics-ai-agents.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Repository Overview**: GitHub repository `codebasics/ai-agents` provides tutorials focused on AI agents, implemented in Python. - **Metadata**: 57 stars, 82 forks, last updated on 2026-05-19. - **Access**: Available at [https://github.com/codebas
+  * Summary: * Provides Python-based tutorials for AI agent development. * Repository `codebasics/
   * Tags: `agents`, `github-repo`, `python`
   * Source URL: <https://github.com/codebasics/ai-agents>
 
@@ -2731,9 +2731,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`
   * Source URL: <https://arxiv.org/abs/2606.04460>
 
-* **[czl9707/build-your-own-openclaw](ai/agents/czl9707-build-your-own-openclaw.md)** (`framework` | `useful` tier)
-  * Summary: - **Repository Overview**: GitHub repository providing a step-by-step tutorial to construct an AI agent from scratch using Python, with a focus on modular design and extensibility. - **Technical Stack**: Primarily utilizes Python, with potential inte
-  * Tags: `agents`, `github-repo`, `hackernews`, `python`
+* **[czl9707/build-your-own-openclaw](ai/agents/czl9707-build-your-own-openclaw.md)** (`tutorial` | `useful` tier)
+  * Summary: * Provides a structured, step-by-step methodology for AI agent construction. * Implements agent logic primarily in Python, emphasizing Large Language Model (LLM) integration. * Serves as a practical tutorial for developing custom AI agents from found
+  * Tags: `agents`, `github-repo`, `python`
   * Source URL: <https://github.com/czl9707/build-your-own-openclaw>
 
 * **[D3VL: Understanding Driving Scenes from 3D Time Series Data and Video with Language Models](ai/agents/arxiv-2607-19528.md)** (`framework` | `useful` tier)
@@ -15662,16 +15662,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `web-crawled`
   * Source URL: <https://issuetracker.google.com/issues/new?component=186600&template=874803>
 
-* **[Sign in to GitHub · GitHub](ai/resources/langchain-ai-docs.md)** (`reference` | `reference` tier)
-  * Summary: - **Authentication Error**: The GitHub login page encountered a loading error, requiring a manual reload. - **Account Creation Link**: Provides a direct URL (`/signup`) for new user registration with a return path to the docs. - **Passkey Support**:
-  * Tags: `hackernews`, `web-crawled`
-  * Source URL: <https://github.com/langchain-ai/docs/edit/main/src/langsmith/observability.mdx>
-
-* **[Sign in to GitHub · GitHub](ai/resources/gohugoio-hugodocs.md)** (`reference` | `reference` tier)
-  * Summary: - **Authentication Error**: The page failed to load due to an unspecified error during the sign-in process. - **Recovery Option**: Users can reset their password via the provided [password reset link](https://github.com/password_reset). - **New Accou
-  * Tags: `web-crawled`
-  * Source URL: <https://github.com/gohugoio/hugoDocs/edit/master/content/en/configuration/security.md>
-
 * **[Sign in to GitHub · GitHub](ai/resources/firecrawl-firecrawl-docs.md)** (`reference` | `reference` tier)
   * Summary: - GitHub authentication failed due to a page loading error, requiring a manual reload. - New users can create an account via the provided signup link. - Passkey-based authentication is available as an alternative login method.
   * Tags: `web-crawled`
@@ -15686,6 +15676,16 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - GitHub authentication error encountered during page load, requiring reload. - New users can create an account via the provided signup link. - Passkey-based sign-in option available as an alternative authentication method.
   * Tags: `web-crawled`
   * Source URL: <https://github.com/cloudflare/workers-sdk/issues/new/choose>
+
+* **[Sign in to GitHub · GitHub](ai/resources/gohugoio-hugodocs.md)** (`reference` | `reference` tier)
+  * Summary: - **Authentication Error**: The page failed to load due to an unspecified error during the sign-in process. - **Recovery Option**: Users can reset their password via the provided [password reset link](https://github.com/password_reset). - **New Accou
+  * Tags: `web-crawled`
+  * Source URL: <https://github.com/gohugoio/hugoDocs/edit/master/content/en/configuration/security.md>
+
+* **[Sign in to GitHub · GitHub](ai/resources/langchain-ai-docs.md)** (`reference` | `reference` tier)
+  * Summary: - **Authentication Error**: The GitHub login page encountered a loading error, requiring a manual reload. - **Account Creation Link**: Provides a direct URL (`/signup`) for new user registration with a return path to the docs. - **Passkey Support**:
+  * Tags: `hackernews`, `web-crawled`
+  * Source URL: <https://github.com/langchain-ai/docs/edit/main/src/langsmith/observability.mdx>
 
 * **[Sign in to MED SSO (SU, SHC, LPCH)](ai/resources/sign-in-to-med-sso-su-shc-lpch.md)** (`reference` | `reference` tier)
   * Summary: - **Single Sign-On (SSO) Integration**: MED SSO provides unified authentication across Stanford University (SU), Stanford Health Care (SHC), and Stanford Children's Health (LPCH) via SAML-based identity federation (`cap.stanford.edu/auth/realms/med-a
@@ -16912,7 +16912,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://docs.cloud.google.com/docs/ai-ml>
 
 * **[AI Companies Are Trying to Hide a Staggering Amount of Debt](ai/community/ai-companies-are-trying-to-hide-a-staggering-amoun.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by technewssss. Score: 447, Comments: 215. Original Link: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet
+  * Summary: Hacker News story by technewssss. Score: 542, Comments: 255. Original Link: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet
   * Tags: `ai`, `hackernews`
   * Source URL: <https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet>
 
@@ -17512,7 +17512,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/customer-stories>
 
 * **[DARPA, U.S. Air Force fly AI-controlled F-16](ai/community/darpa-u-s-air-force-fly-ai-controlled-f-16.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by r2sk5t. Score: 87, Comments: 80. Original Link: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16
+  * Summary: Hacker News story by r2sk5t. Score: 140, Comments: 156. Original Link: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16
   * Tags: `ai`, `hackernews`
   * Source URL: <https://darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16>
 
@@ -17746,6 +17746,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`, `hackernews`, `rag`, `web-crawled`, `workflows`
   * Source URL: <https://esbuild.github.io/api/#sources-content>
 
+* **[Escape Analysis in Go: Stack vs. Heap Allocations Explained](ai/community/escape-analysis-in-go-stack-vs-heap-allocations-ex.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by ingve. Score: 22, Comments: 4. Original Link: https://blog.jetbrains.com/go/2026/07/20/escape-analysis/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://blog.jetbrains.com/go/2026/07/20/escape-analysis>
+
 * **[Esri Developer](ai/rag/esri-developer.md)** (`tutorial` | `useful` tier)
   * Summary: - **Legacy API Key Deprecation**: Legacy API keys will be revoked on June 24th; developers must migrate to updated authentication methods via [Migrate API keys](https://developers.arcgis.com/documentation/security-and-authentication/api-key-authentic
   * Tags: `hackernews`, `rag`, `reddit`, `threejs`, `web-crawled`, `workflows`, `youtube`
@@ -17940,11 +17945,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2601.21570v2 Announce Type: replace Abstract: The field of Embodied AI is witnessing a rapid evolution toward general-purpose robotic systems, fueled by high-fidelity simulation and large-scale data collection. However, this scaling capability
   * Tags: `agents`, `benchmark`, `rag`, `scripts`, `workflows`
   * Source URL: <https://arxiv.org/abs/2601.21570>
-
-* **[From Evaluation to Guardrails: What We Brought to ACM FAccT 2026](ai/community/from-evaluation-to-guardrails-what-we-brought-to-a.md)** (`benchmark` | `useful` tier)
-  * Summary: Hacker News story by royapakzad. Score: 6, Comments: 0. Original Link: https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/
-  * Tags: `ai`, `benchmark`, `hackernews`
-  * Source URL: <https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026>
 
 * **[From Paper to Program: Knowledge Externalization and Bottleneck Diagnosis in AI-Assisted Quantum Many-Body Programming](ai/rag/arxiv-2604-04089.md)** (`prompt` | `useful` tier)
   * Summary: arXiv:2604.04089v5 Announce Type: replace-cross Abstract: Large language models can write scientific code, but direct paper-to-program translation remains fragile when correctness depends on tacit conventions rather than explicit equations. We frame
@@ -18332,7 +18332,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/hwchase17/langchain>
 
 * **[Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency](ai/community/hybrid-electric-aicraft-engine-targeting-30-fuel-e.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by r2sk5t. Score: 70, Comments: 48. Original Link: https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development
+  * Summary: Hacker News story by r2sk5t. Score: 79, Comments: 72. Original Link: https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development
   * Tags: `ai`, `hackernews`, `reddit`
   * Source URL: <https://rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development>
 
@@ -18622,7 +18622,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://platform.openai.com/docs/guides/latency-optimization>
 
 * **[Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents](ai/community/launch-hn-screenpipe-yc-s26-record-how-you-work-an.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by louis030195. Score: 31, Comments: 34. Original Link: None
+  * Summary: Hacker News story by louis030195. Score: 46, Comments: 47. Original Link: None
   * Tags: `agents`, `hackernews`, `producthunt`
   * Source URL: <https://news.ycombinator.com/item?id=49024620>
 
@@ -19005,6 +19005,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **OpenSSF Technical Initiatives**: Projects like **GUAC** (Graphical Understanding of Artifact Composition) provide directed insights into software supply chain security, while **SLSA** (Supply-chain Levels for Software Artifacts) enforces artifact
   * Tags: `hackernews`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://openssf.org/?hsLang=en>
+
+* **[OpenAI’s accidental attack against Hugging Face is science fiction that happened](ai/community/openais-accidental-attack-against-hugging-face-is.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by abhisek. Score: 330, Comments: 274. Original Link: https://simonwillison.net/2026/Jul/22/openai-cyberattack/
+  * Tags: `ai`, `hackernews`, `openai`
+  * Source URL: <https://simonwillison.net/2026/jul/22/openai-cyberattack>
 
 * **[opendataloader-project/opendataloader-pdf](ai/rag/opendataloader-project-opendataloader-pdf.md)** (`workflow` | `useful` tier)
   * Summary: - **Java-based PDF parser** designed for AI-ready data extraction, supporting accessibility compliance (e.g., PDF/UA) and automated tagging for structured content. - **Multi-format output** with support for HTML, JSON, Markdown, and bounding box anno
@@ -19537,12 +19542,12 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://shibuya.lepture.com>
 
 * **[Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents](ai/community/onecli-onecli.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Jonathanfishner. Score: 47, Comments: 19. Original Link: https://github.com/onecli/onecli
+  * Summary: Hacker News story by Jonathanfishner. Score: 65, Comments: 25. Original Link: https://github.com/onecli/onecli
   * Tags: `agents`, `ai`, `hackernews`
   * Source URL: <https://github.com/onecli/onecli>
 
 * **[Show HN: Palmier Pro – Open-source macOS video editor built for AI](ai/trending/palmier-io-palmier-pro.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by harrisontin. Score: 55, Comments: 13. Original Link: https://github.com/palmier-io/palmier-pro
+  * Summary: Hacker News story by harrisontin. Score: 99, Comments: 16. Original Link: https://github.com/palmier-io/palmier-pro
   * Tags: `ai`, `hackernews`, `youtube`
   * Source URL: <https://github.com/palmier-io/palmier-pro>
 
@@ -19751,7 +19756,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2512.02080>
 
 * **[The arguments against open source AI are bad](ai/community/the-arguments-against-open-source-ai-are-bad.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by jjfoooo4. Score: 92, Comments: 62. Original Link: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/
+  * Summary: Hacker News story by jjfoooo4. Score: 158, Comments: 112. Original Link: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://tombedor.dev/arguments-against-open-source-ai-are-very-bad>
 
@@ -20135,11 +20140,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`, `hackernews`, `paper`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://blog.beezwax.net/why-fast-growing-teams-outgrow-spreadsheets>
 
-* **[Why Software Factories Fail (or: harness engineering is not enough)](ai/community/humanlayer-advanced-context-engineering-for-coding-agents.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by dhorthy. Score: 97, Comments: 75. Original Link: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md
-  * Tags: `agents`, `ai`, `hackernews`, `reddit`
-  * Source URL: <https://github.com/humanlayer/advanced-context-engineering-for-coding-agents>
-
 * **[Wikimedia Commons](ai/rag/wikimedia-commons.md)** (`tutorial` | `useful` tier)
   * Summary: - **Wikimedia Commons** is a free media repository hosting **143,411,315** files (images, videos, sounds, 3D models) under open licenses, enabling public contribution and reuse via structured data and API endpoints (e.g., `featuredfeed` for syndicati
   * Tags: `hackernews`, `rag`, `web-crawled`, `workflows`, `youtube`
@@ -20156,7 +20156,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.08740>
 
 * **[Writing by hand is good for your brain](ai/community/writing-by-hand-is-good-for-your-brain.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by dwwoelfel. Score: 634, Comments: 314. Original Link: https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your
+  * Summary: Hacker News story by dwwoelfel. Score: 830, Comments: 419. Original Link: https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your
   * Tags: `ai`, `hackernews`
   * Source URL: <https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your>
 
@@ -83771,7 +83771,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02825>
 
 * **[jbilcke-hf/ai-comic-factory](ai/models/huggingface-spaces-jbilcke-hf.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11186, Downloads: 0)
+  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11185, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/jbilcke-hf>
 
@@ -84132,7 +84132,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.05061>
 
 * **[Kwai-Kolors/Kolors-Virtual-Try-On](ai/models/huggingface-spaces-kwai-kolors.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: Kwai-Kolors/Kolors-Virtual-Try-On (Likes: 10137, Downloads: 0)
+  * Summary: Trending Hugging Face space: Kwai-Kolors/Kolors-Virtual-Try-On (Likes: 10139, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/kwai-kolors>
 
@@ -102621,7 +102621,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://authorservices.springernature.com>
 
 * **[Startup founders urge U.S. government not to shut off Chinese open weight AI](ai/community/startup-founders-urge-trump-not-to-shut-off-chines.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by theanonymousone. Score: 487, Comments: 472. Original Link: https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992
+  * Summary: Hacker News story by theanonymousone. Score: 615, Comments: 584. Original Link: https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992
   * Tags: `ai`, `hackernews`
   * Source URL: <https://politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992>
 
@@ -102726,20 +102726,20 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `frontend_ui`, `producthunt`, `rag`, `reddit`, `web-crawled`, `youtube`
   * Source URL: <https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/#0>
 
-* **[- YouTube](ai/rag/youtube-2swdr3z0wo.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, enabling users to upload, share, and view videos, with additional services for creators, advertisers, and developers. - **Technical Infrastructure**: Leverages Google’s
+* **[- YouTube](ai/rag/youtube-pbcra-zart4.md)** (`framework` | `useful` tier)
+  * Summary: - **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, enabling users to upload, share, and view videos, with additional features for creators, advertisers, and developers. - **Technical Infrastructure**: Utilizes Google’s
   * Tags: `hackernews`, `rag`, `web-crawled`, `youtube`
-  * Source URL: <https://youtu.be/-2sWDr3Z0Wo>
+  * Source URL: <https://www.youtube.com/watch?v=PbcRa_zArT4>
 
 * **[- YouTube](ai/rag/youtube-gnjgt-ib-e.md)** (`framework` | `useful` tier)
   * Summary: - **Platform Infrastructure**: YouTube operates as a subsidiary of Google LLC, leveraging Google's infrastructure for scalability, content delivery networks (CDNs), and distributed storage systems to handle petabytes of video data globally. - **Monet
   * Tags: `rag`, `web-crawled`, `youtube`
   * Source URL: <https://youtu.be/gNJgt_IB--E>
 
-* **[- YouTube](ai/rag/youtube-pbcra-zart4.md)** (`framework` | `useful` tier)
-  * Summary: - **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, enabling users to upload, share, and view videos, with additional features for creators, advertisers, and developers. - **Technical Infrastructure**: Utilizes Google’s
+* **[- YouTube](ai/rag/youtube-2swdr3z0wo.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, enabling users to upload, share, and view videos, with additional services for creators, advertisers, and developers. - **Technical Infrastructure**: Leverages Google’s
   * Tags: `hackernews`, `rag`, `web-crawled`, `youtube`
-  * Source URL: <https://www.youtube.com/watch?v=PbcRa_zArT4>
+  * Source URL: <https://youtu.be/-2sWDr3Z0Wo>
 
 * **[17 U.S. Code § 107 - Limitations on exclusive rights: Fair use | U.S. Code | US Law | LII / Legal Information Institute](ai/rag/17-u-s-code-ss-107-limitations-on-exclusive-rights.md)** (`benchmark` | `useful` tier)
   * Summary: - **Fair Use Criteria**: U.S. Code § 107 codifies fair use, permitting reproduction/copying of copyrighted works for purposes like criticism, teaching, scholarship, or research, **without infringement**, provided four statutory factors are evaluated:
@@ -105452,8 +105452,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2512.01317>
 
 * **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tutorial` | `useful` tier)
-  * Summary: * Comprehensive RAG technical guide covering full-stack implementation strategies. * Leverages `
-  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
+  * Summary: * Comprehensive guide to full-stack RAG for LLM application development, emphasizing practical implementation
+  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -105462,7 +105462,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
 * **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tool` | `useful` tier)
-  * Summary: * LLM application development curriculum delivered via Jupyter Notebooks. * Emphas
+  * Summary: * Provides a structured curriculum for large language model (LLM) application development. *
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -115593,7 +115593,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.15525>
 
 * **[Learn WebGPU for C++](web-development/community/learn-webgpu-for-c.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by ibobev. Score: 49, Comments: 9. Original Link: https://eliemichel.github.io/LearnWebGPU/
+  * Summary: Hacker News story by ibobev. Score: 70, Comments: 10. Original Link: https://eliemichel.github.io/LearnWebGPU/
   * Tags: `hackernews`, `threejs`, `webgpu`
   * Source URL: <https://eliemichel.github.io/learnwebgpu>
 
