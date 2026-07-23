@@ -13,13 +13,14 @@ collected_at: '2026-07-23T22:16:10.469974+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:pullrun/pullrun
 first_seen: '2026-07-23T22:16:10.469974+05:30'
 last_seen: '2026-07-23T22:16:10.469974+05:30'
 last_checked: '2026-07-23T22:16:10.469974+05:30'
 health_score: 100
 ---
+
 
 # You can now run same OCI images as containers or Firecracker microVMs
 

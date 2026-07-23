@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-24T00:49:46.225749+05:30`
+Generated at: `2026-07-24T01:35:10.562188+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,39 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **Why Software Factories Fail (or: harness engineering is not enough)** - Score: `97` in category `ai/community` ([Link](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents)) ([File](../ai/community/humanlayer-advanced-context-engineering-for-coding-agents.md))
+- **The arguments against open source AI are bad** - Score: `92` in category `ai/community` ([Link](https://tombedor.dev/arguments-against-open-source-ai-are-very-bad)) ([File](../ai/community/the-arguments-against-open-source-ai-are-bad.md))
+- **DARPA, U.S. Air Force fly AI-controlled F-16** - Score: `87` in category `ai/community` ([Link](https://darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16)) ([File](../ai/community/darpa-u-s-air-force-fly-ai-controlled-f-16.md))
+- **Show HN: Palmier Pro – Open-source macOS video editor built for AI** - Score: `55` in category `ai/community` ([Link](https://github.com/palmier-io/palmier-pro)) ([File](../ai/trending/palmier-io-palmier-pro.md))
+- **Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents** - Score: `47` in category `ai/community` ([Link](https://github.com/onecli/onecli)) ([File](../ai/community/onecli-onecli.md))
+- **Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents** - Score: `31` in category `ai/community` ([Link](https://news.ycombinator.com/item?id=49024620)) ([File](../ai/community/launch-hn-screenpipe-yc-s26-record-how-you-work-an.md))
+- **From Evaluation to Guardrails: What We Brought to ACM FAccT 2026** - Score: `6` in category `ai/community` ([Link](https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026)) ([File](../ai/community/from-evaluation-to-guardrails-what-we-brought-to-a.md))
+- **xiaohuiwang-ai/xiaohuiwang-ai.github.io** - Score: `0` in category `daily-digests/2026-06-26` ([File](../world/public/vault/daily-digests/2026-06-26/xiaohuiwang-ai_github_io.md))
 
 ## Top Trending Resources
 
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **mergisi/awesome-openclaw-agents** - Score: `0` (0), Rank Change: `+965` ([File](../ai/agents/mergisi-awesome-openclaw-agents.md))
-- **MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md))
-- **microsoft/agentsleague** - Score: `0` (0), Rank Change: `+965` ([File](../ai/agents/microsoft-agentsleague.md))
-- **wgcyeo/UniversalRAG** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/wgcyeo-universalrag.md))
-- **bakrianoo/mini-rag** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/bakrianoo-mini-rag.md))
-- **sleeepeer/PoisonedRAG** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/sleeepeer-poisonedrag.md))
-- **IBM/mt-rag-benchmark** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/ibm-mt-rag-benchmark.md))
-- **IAAR-Shanghai/CRUD_RAG** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/iaar-shanghai-crud-rag.md))
-- **coree/awesome-rag** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/coree-awesome-rag.md))
+- **Writing by hand is good for your brain** - Score: `634` (+358), Rank Change: `+1` ([File](../ai/community/writing-by-hand-is-good-for-your-brain.md))
+- **Startup founders urge U.S. government not to shut off Chinese open weight AI** - Score: `487` (+262), Rank Change: `+1` ([File](../ai/community/startup-founders-urge-trump-not-to-shut-off-chines.md))
+- **AI Companies Are Trying to Hide a Staggering Amount of Debt** - Score: `447` (+144), Rank Change: `-2` ([File](../ai/community/ai-companies-are-trying-to-hide-a-staggering-amoun.md))
+- **Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency** - Score: `70` (+41), Rank Change: `-2` ([File](../ai/community/hybrid-electric-aicraft-engine-targeting-30-fuel-e.md))
+- **Learn WebGPU for C++** - Score: `49` (+31), Rank Change: `-3` ([File](../web-development/community/learn-webgpu-for-c.md))
+- **cline/cline** - Score: `0` (0), Rank Change: `+2172` ([File](../ai/agents/cline-cline.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+962` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **Applied AI** - Score: `0` (0), Rank Change: `+24` ([File](../ai/companies/openai/applied-ai.md))
+- **AI Adoption** - Score: `0` (0), Rank Change: `+24` ([File](../ai/companies/openai/ai-adoption.md))
+- **Global Affairs** - Score: `0` (0), Rank Change: `+24` ([File](../ai/companies/openai/global-affairs.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Medium** - (Rank Change: `+12889`) ([File](../ai/rag/medium-2.md))
-- **monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1** - (Rank Change: `+966`) ([File](../ai/rag/monday-service-langsmith-building-a-code-first-eva.md))
-- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+966`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
-- **promptfoo/promptfoo-action** - (Rank Change: `+966`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
-- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+966`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
-- **Understanding RAG from Scratch | martinuke0's Blog** - (Rank Change: `+966`) ([File](../ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md))
-- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+966`) ([File](../ai/rag/arxiv-2606-29031.md))
-- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+966`) ([File](../ai/research/arxiv-2606-26428.md))
-- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+966`) ([File](../ai/research/arxiv-2606-21887.md))
-- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+966`) ([File](../ai/rag/arxiv-2606-09677.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+12747`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **cline/cline** - (Rank Change: `+2172`) ([File](../ai/agents/cline-cline.md))
+- **SylphAI-Inc/GithubChat** - (Rank Change: `+962`) ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **Applied AI** - (Rank Change: `+24`) ([File](../ai/companies/openai/applied-ai.md))
+- **AI Adoption** - (Rank Change: `+24`) ([File](../ai/companies/openai/ai-adoption.md))
+- **Global Affairs** - (Rank Change: `+24`) ([File](../ai/companies/openai/global-affairs.md))
+- **Engineering** - (Rank Change: `+24`) ([File](../ai/companies/openai/engineering.md))
+- **Writing by hand is good for your brain** - (Rank Change: `+1`) ([File](../ai/community/writing-by-hand-is-good-for-your-brain.md))
+- **Startup founders urge U.S. government not to shut off Chinese open weight AI** - (Rank Change: `+1`) ([File](../ai/community/startup-founders-urge-trump-not-to-shut-off-chines.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +51,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **OpenAI’s accidental attack against Hugging Face is science fiction that happened** (Category: `ai/community`) ([File](../ai/community/openais-accidental-attack-against-hugging-face-is.md))
+- **You can now run same OCI images as containers or Firecracker microVMs** (Category: `ai/community`) ([File](../ai/community/pullrun-pullrun.md))

@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-07-23T22:16:49.939108+05:30'
+collected_at: '2026-07-24T01:16:56.165547+05:30'
 published_at: '2026-07-23T16:39:57Z'
 tags:
 - github-repo
+- hackernews
 - meta-ai
 - models
 - python
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-07-20T19:00:56Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-07-23T22:16:49.939108+05:30'
-last_seen: '2026-07-23T22:16:49.939108+05:30'
-last_checked: '2026-07-23T22:16:49.939108+05:30'
+first_seen: '2026-07-24T01:16:56.165547+05:30'
+last_seen: '2026-07-24T01:16:56.165547+05:30'
+last_checked: '2026-07-24T01:16:56.165547+05:30'
 health_score: 100
 ---
 
@@ -29,7 +30,8 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive guide to Retrieval-Augmented Generation (RAG) system development, emphasizing full-
+*   Comprehensive RAG technical guide covering full-stack implementation strategies.
+*   Leverages `
 
 ## Why It Matters
 
@@ -39,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: datawhalechina
 - Stars: 9746
-- Forks: 4867
+- Forks: 4868
 - Language: Python
 - Topics: ai, deepseek, embedding, kimi-k2, langchain, llama-index, llm, milvus, multimodal, neo4j, python, rag
 - Last Updated: 2026-07-23T16:39:57Z

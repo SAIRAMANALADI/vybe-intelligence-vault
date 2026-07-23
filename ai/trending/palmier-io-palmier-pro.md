@@ -1,46 +1,52 @@
 ---
-title: palmier-io/palmier-pro
+title: 'Show HN: Palmier Pro – Open-source macOS video editor built for AI'
 category: ai/trending
-source_type: github_trending
-source_name: GitHub Trending AI
+source_type: hackernews
+source_name: Hacker News AI
 source_url: https://github.com/palmier-io/palmier-pro
-published_at: '2026-06-24T10:06:14.483077+05:30'
-collected_at: '2026-06-24T10:06:14.483079+05:30'
+hn_url: https://news.ycombinator.com/item?id=49022911
+score: 55
+author: harrisontin
+comments_count: 13
+published_at: '2026-07-23T20:41:37+05:30'
+collected_at: '2026-07-24T01:16:12.856791+05:30'
 tags:
-- github-trending
-- swift
+- ai
+- hackernews
 - youtube
-status: inactive
+status: active
 resource_id: github:palmier-io/palmier-pro
 first_seen: '2026-06-21T20:19:14.644527+05:30'
-last_seen: '2026-06-24T10:06:14.483079+05:30'
-last_checked: '2026-06-24T10:06:14.483079+05:30'
+last_seen: '2026-07-24T01:16:12.856791+05:30'
+last_checked: '2026-07-24T01:16:12.856791+05:30'
 health_score: 100
 ---
 
-
-# palmier-io/palmier-pro
+# Show HN: Palmier Pro – Open-source macOS video editor built for AI
 
 ## Summary
 
-macOS video editor built for AI
+Hacker News story by harrisontin. Score: 55, Comments: 13.
+Original Link: https://github.com/palmier-io/palmier-pro
 
 ## Why It Matters
 
-General public resource representing technology updates, guides, or tutorials.
+This is a trending discussion or resource collected from the Hacker News community. It highlights community sentiment, product launches, or technical writeups.
 
-## Details
+## Discussion Details
 
-- Source: GitHub Trending AI
-- Category: ai/trending
-- Published: 2026-06-24T10:06:14.483077+05:30
+- Author: harrisontin
+- Score: 55 Upvotes
+- Comments: 13 Discussions
+- Hacker News Link: https://news.ycombinator.com/item?id=49022911
+- Original Article: https://github.com/palmier-io/palmier-pro
+
+## Implementation Notes
+
+Review community comments to extract technical caveats, alternative recommendations, or project launch workflows.
 
 ## Related Tags
 
-- github-trending
-- swift
+- ai
+- hackernews
 - youtube
-
-## Source
-
-Original source: https://github.com/palmier-io/palmier-pro

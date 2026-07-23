@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News Web Development
 source_url: https://eliemichel.github.io/learnwebgpu
 hn_url: https://news.ycombinator.com/item?id=49022663
-score: 18
+score: 49
 author: ibobev
-comments_count: 4
+comments_count: 9
 published_at: '2026-07-23T20:25:32+05:30'
-collected_at: '2026-07-23T22:16:08.538978+05:30'
+collected_at: '2026-07-24T01:16:13.299869+05:30'
 tags:
 - hackernews
 - threejs
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:learn-webgpu-for-c
 first_seen: '2026-07-23T22:16:08.538978+05:30'
-last_seen: '2026-07-23T22:16:08.538978+05:30'
-last_checked: '2026-07-23T22:16:08.538978+05:30'
+last_seen: '2026-07-24T01:16:13.299869+05:30'
+last_checked: '2026-07-24T01:16:13.299869+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by ibobev. Score: 18, Comments: 4.
+Hacker News story by ibobev. Score: 49, Comments: 9.
 Original Link: https://eliemichel.github.io/LearnWebGPU/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: ibobev
-- Score: 18 Upvotes
-- Comments: 4 Discussions
+- Score: 49 Upvotes
+- Comments: 9 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49022663
 - Original Article: https://eliemichel.github.io/learnwebgpu
 
