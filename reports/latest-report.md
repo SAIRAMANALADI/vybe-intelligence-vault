@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-23T17:09:47.766122+05:30`
+Generated at: `2026-07-23T17:59:47.131348+05:30`
 
 ## Executive Summary
 
@@ -8,7 +8,7 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **xiaohuiwang-ai/xiaohuiwang-ai.github.io** - Score: `0` in category `daily-digests/2026-06-26` ([File](../world/public/vault/daily-digests/2026-06-26/xiaohuiwang-ai_github_io.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
@@ -25,16 +25,16 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## 🚀 Fastest Rising Tools
 
-- **Applied AI** - (Rank Change: `+417`) ([File](../ai/companies/openai/applied-ai.md))
-- **AI Adoption** - (Rank Change: `+417`) ([File](../ai/companies/openai/ai-adoption.md))
-- **Global Affairs** - (Rank Change: `+417`) ([File](../ai/companies/openai/global-affairs.md))
-- **Engineering** - (Rank Change: `+417`) ([File](../ai/companies/openai/engineering.md))
-- **How to train a new language model from scratch using Transformers and Tokenizers** - (Rank Change: `+397`) ([File](../ai/models/huggingface-blog-how-to-train.md))
-- **How to generate text: using different decoding methods for language generation with Transformers** - (Rank Change: `+397`) ([File](../ai/models/huggingface-blog-how-to-generate.md))
-- **The Reformer - Pushing the limits of language modeling** - (Rank Change: `+397`) ([File](../ai/models/huggingface-blog-reformer.md))
-- **Block Sparse Matrices for Smaller and Faster Language Models** - (Rank Change: `+397`) ([File](../ai/models/huggingface-blog-pytorch-block-sparse.md))
-- **Transformer-based Encoder-Decoder Models** - (Rank Change: `+397`) ([File](../ai/models/huggingface-blog-encoder-decoder.md))
-- **Hyperparameter Search with Transformers and Ray Tune** - (Rank Change: `+397`) ([File](../ai/models/huggingface-blog-ray-tune.md))
+- **Medium** - (Rank Change: `+12889`) ([File](../ai/rag/medium-2.md))
+- **monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1** - (Rank Change: `+968`) ([File](../ai/rag/monday-service-langsmith-building-a-code-first-eva.md))
+- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+968`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
+- **promptfoo/promptfoo-action** - (Rank Change: `+968`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
+- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+968`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
+- **Understanding RAG from Scratch | martinuke0's Blog** - (Rank Change: `+968`) ([File](../ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md))
+- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+968`) ([File](../ai/rag/arxiv-2606-29031.md))
+- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+968`) ([File](../ai/research/arxiv-2606-26428.md))
+- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+968`) ([File](../ai/research/arxiv-2606-21887.md))
+- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+968`) ([File](../ai/rag/arxiv-2606-09677.md))
 
 ## 🔄 Essential Tier Transitions
 
