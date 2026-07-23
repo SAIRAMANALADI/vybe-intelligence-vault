@@ -11,7 +11,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
 [![Resources](https://img.shields.io/badge/Resources%20Indexed-56%2C360-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
-[![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--23-374151?style=flat-square)](#)
+[![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--24-374151?style=flat-square)](#)
 
 [Overview](#-overview) · [How It Works](#-how-it-works) · [Architecture](#-architecture) · [Quick Start](#-quick-start) · [Vault Stats](#-vault-stats) · [Contributing](#-contributing)
 
@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 56,360 files</p>
-        <p><b>Last Update:</b> 2026-07-23 22:56 IST</p>
+        <p><b>Last Update:</b> 2026-07-24 00:49 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,29 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[AI Companies Are Trying to Hide a Staggering Amount of Debt](ai/community/ai-companies-are-trying-to-hide-a-staggering-amoun.md)** • <kbd>+223 pts</kbd> • Rank: <kbd>+6</kbd>
-- 🔼 **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** • Rank: <kbd>+4</kbd>
-- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+970</kbd>
-- 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+967</kbd>
+- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[mergisi/awesome-openclaw-agents](ai/agents/mergisi-awesome-openclaw-agents.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[microsoft/agentsleague](ai/agents/microsoft-agentsleague.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[wgcyeo/UniversalRAG](ai/rag/wgcyeo-universalrag.md)** • Rank: <kbd>+965</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Writing by hand is good for your brain](ai/community/writing-by-hand-is-good-for-your-brain.md)** • Score: `276`
-- 🆕 **[Startup founders urge Trump not to shut off Chinese open weight AI](ai/community/startup-founders-urge-trump-not-to-shut-off-chines.md)** • Score: `225`
-- 🆕 **[OpenAI’s accidental attack against Hugging Face is science fiction that happened](ai/community/openais-accidental-attack-against-hugging-face-is.md)** • Score: `193`
-- 🆕 **[Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency](ai/community/hybrid-electric-aicraft-engine-targeting-30-fuel-e.md)** • Score: `29`
-- 🆕 **[Learn WebGPU for C++](web-development/community/learn-webgpu-for-c.md)** • Score: `18`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Are AI labs pelicanmaxxing?](ai/community/are-ai-labs-pelicanmaxxing.md)**
-- 💤 **[Quality non-fiction books are the antithesis of AI slop](ai/community/quality-non-fiction-books-are-the-antithesis-of-ai.md)**
-- 💤 **[Businesses with ugly AI menu redesigns](ai/community/businesses-with-ugly-ai-menu-redesigns.md)**
-- 💤 **[OpenAI and Anthropic unite against open-weight AI risks to their bottom line](ai/community/openai-and-anthropic-unite-against-open-weight-ai.md)**
-- 💤 **[Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](ai/community/alphabet-s-cash-burn-raises-alarm-for-big-tech-as.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
