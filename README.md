@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-56%2C350-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-107%2C498-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--23-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **56,350 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **107,498 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 13,071</p>
-        <p><b>Active:</b> 12,776 | <b>Inactive:</b> 295</p>
+        <p><b>Resources tracked:</b> 14,040</p>
+        <p><b>Active:</b> 13,743 | <b>Inactive:</b> 297</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,047</p>
+        <p><b>Archive Files:</b> 52,248</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 56,350 files</p>
-        <p><b>Last Update:</b> 2026-07-23 17:59 IST</p>
+        <p><b>Total Vault Size:</b> 107,498 files</p>
+        <p><b>Last Update:</b> 2026-07-23 20:20 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,25 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Protecting our FLOSS commons from LLMs](ai/community/protecting-our-floss-commons-from-llms.md)** • <kbd>+56 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[So Reddit has decided that plain HTML is unsafe](ai/community/so-reddit-has-decided-that-plain-html-is-unsafe.md)** • <kbd>+54 pts</kbd>
-- 🔼 **[Are AI labs pelicanmaxxing?](ai/community/are-ai-labs-pelicanmaxxing.md)** • <kbd>+50 pts</kbd>
-- 🔼 **[Quality non-fiction books are the antithesis of AI slop](ai/community/quality-non-fiction-books-are-the-antithesis-of-ai.md)** • <kbd>+46 pts</kbd>
-- 🔼 **[Businesses with ugly AI menu redesigns](ai/community/businesses-with-ugly-ai-menu-redesigns.md)** • <kbd>+38 pts</kbd>
+- 🔼 **[Quality non-fiction books are the antithesis of AI slop](ai/community/quality-non-fiction-books-are-the-antithesis-of-ai.md)** • <kbd>+57 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Are AI labs pelicanmaxxing?](ai/community/are-ai-labs-pelicanmaxxing.md)** • <kbd>+54 pts</kbd>
+- 🔼 **[Protecting our FLOSS commons from LLMs](ai/community/protecting-our-floss-commons-from-llms.md)** • <kbd>+54 pts</kbd>
+- 🔼 **[Businesses with ugly AI menu redesigns](ai/community/businesses-with-ugly-ai-menu-redesigns.md)** • <kbd>+30 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[ANSI escape injection in MCP servers: Hidden from humans, visible to AI](ai/community/ansi-escape-injection-in-mcp-servers-hidden-from-h.md)** • <kbd>+16 pts</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[OpenAI and Anthropic unite against open-weight AI risks to their bottom line](ai/community/openai-and-anthropic-unite-against-open-weight-ai.md)** • Score: `188`
+- 🆕 **[Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](ai/community/alphabet-s-cash-burn-raises-alarm-for-big-tech-as.md)** • Score: `142`
+- 🆕 **[AI Companies Are Trying to Hide a Staggering Amount of Debt](ai/community/ai-companies-are-trying-to-hide-a-staggering-amoun.md)** • Score: `80`
+- 🆕 **[Test-time training 3D reconstruction](ai/community/inception3d-ttt3r.md)** • Score: `19`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Petals: Run LLMs at home, BitTorrent-style](ai/community/petals-run-llms-at-home-bittorrent-style.md)**
+- 💤 **[So Reddit has decided that plain HTML is unsafe](ai/community/so-reddit-has-decided-that-plain-html-is-unsafe.md)**
+- 💤 **[Fairphone 6 wide camera experimental Linux support](ai/community/fairphone-6-wide-camera-experimental-linux-support.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

@@ -10523,13 +10523,15 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [AI Companies Are Trying to Hide a Staggering Amount of Debt](../ai/community/ai-companies-are-trying-to-hide-a-staggering-amoun.md)
   - [ANSI escape injection in MCP servers: Hidden from humans, visible to AI](../ai/community/ansi-escape-injection-in-mcp-servers-hidden-from-h.md)
+  - [Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](../ai/community/alphabet-s-cash-burn-raises-alarm-for-big-tech-as.md)
   - [Are AI labs pelicanmaxxing?](../ai/community/are-ai-labs-pelicanmaxxing.md)
   - [Businesses with ugly AI menu redesigns](../ai/community/businesses-with-ugly-ai-menu-redesigns.md)
-  - [Fairphone 6 wide camera experimental Linux support](../ai/community/fairphone-6-wide-camera-experimental-linux-support.md)
+  - [OpenAI and Anthropic unite against open-weight AI risks to their bottom line](../ai/community/openai-and-anthropic-unite-against-open-weight-ai.md)
   - [Protecting our FLOSS commons from LLMs](../ai/community/protecting-our-floss-commons-from-llms.md)
   - [Quality non-fiction books are the antithesis of AI slop](../ai/community/quality-non-fiction-books-are-the-antithesis-of-ai.md)
-  - [So Reddit has decided that plain HTML is unsafe](../ai/community/so-reddit-has-decided-that-plain-html-is-unsafe.md)
+  - [Test-time training 3D reconstruction](../ai/community/inception3d-ttt3r.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -13786,4 +13788,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-23T17:07:39.178883+05:30*
+*Index generated on 2026-07-23T20:17:59.863574+05:30*

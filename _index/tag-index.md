@@ -3130,12 +3130,14 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [AI Companies Are Trying to Hide a Staggering Amount of Debt](../ai/community/ai-companies-are-trying-to-hide-a-staggering-amoun.md)
   - [ANSI escape injection in MCP servers: Hidden from humans, visible to AI](../ai/community/ansi-escape-injection-in-mcp-servers-hidden-from-h.md)
+  - [Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](../ai/community/alphabet-s-cash-burn-raises-alarm-for-big-tech-as.md)
   - [Are AI labs pelicanmaxxing?](../ai/community/are-ai-labs-pelicanmaxxing.md)
   - [Businesses with ugly AI menu redesigns](../ai/community/businesses-with-ugly-ai-menu-redesigns.md)
-  - [Fairphone 6 wide camera experimental Linux support](../ai/community/fairphone-6-wide-camera-experimental-linux-support.md)
+  - [OpenAI and Anthropic unite against open-weight AI risks to their bottom line](../ai/community/openai-and-anthropic-unite-against-open-weight-ai.md)
   - [Quality non-fiction books are the antithesis of AI slop](../ai/community/quality-non-fiction-books-are-the-antithesis-of-ai.md)
-  - [So Reddit has decided that plain HTML is unsafe](../ai/community/so-reddit-has-decided-that-plain-html-is-unsafe.md)
+  - [Test-time training 3D reconstruction](../ai/community/inception3d-ttt3r.md)
 
 ## animation
 
@@ -3395,6 +3397,7 @@ Resources organized by keyword tags.
   - [OR Else: A Differentiable Trust Region for Policy Optimization](../ai/research/arxiv-2607-18163.md)
   - [OmniOPD: Logit-Free On-Policy Distillation via Speculative Verification](../ai/research/arxiv-2606-01476.md)
   - [OmniaBench: Benchmarking General AI Agents Across Diverse Scenarios](../ai/agents/arxiv-2607-14989.md)
+  - [OpenAI and Anthropic unite against open-weight AI risks to their bottom line](../ai/community/openai-and-anthropic-unite-against-open-weight-ai.md)
   - [Operational Reframing and Approval-Framed Delegation in Multi-Agent LLM Safety](../ai/agents/arxiv-2607-07097.md)
   - [Overview - Mixedbread](../ai/rag/overview-mixedbread.md)
   - [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach.md)
@@ -12109,6 +12112,7 @@ Resources organized by keyword tags.
   - [AGDN: Learning to Solve Traveling Salesman Problem with Anisotropic Graph Diffusion Network](../ai/research/arxiv-2606-19185.md)
   - [AI & Vectors | Supabase Docs](../ai/rag/ai-vectors-supabase-docs.md)
   - [AI Adoption Across a Multinational Workforce: Sociotechnical Conditions for GenAI Acceptance in Human Resources](../ai/research/arxiv-2606-17887.md)
+  - [AI Companies Are Trying to Hide a Staggering Amount of Debt](../ai/community/ai-companies-are-trying-to-hide-a-staggering-amoun.md)
   - [AI Fiction in the Wild](../ai/research/arxiv-2606-22748.md)
   - [AI Model Catalog | Microsoft Foundry Models](../ai/agents/ai-model-catalog-microsoft-foundry-models.md)
   - [AI Outperforms Law Professors in Stanford Law Study - SLS News and Announcements - Stanford Law School](../ai/rag/ai-outperforms-law-professors-in-stanford-law-stud.md)
@@ -12205,6 +12209,7 @@ Resources organized by keyword tags.
   - [All Sites - Stack Exchange](../ai/rag/all-sites-stack-exchange.md)
   - [All-in-one Recruiting Software for Ambitious Teams | Ashby](../ai/resources/all-in-one-recruiting-software-for-ambitious-teams.md)
   - [Allure of Craquelure: A Variational-Generative Approach to Crack Detection in Paintings](../ai/research/arxiv-2602-09730.md)
+  - [Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](../ai/community/alphabet-s-cash-burn-raises-alarm-for-big-tech-as.md)
   - [Alternative pathways to the 1.5 °C target reduce the need for negative emission technologies | Nature Climate Change](../ai/rag/alternative-pathways-to-the-1-5-degc-target-reduce.md)
   - [Amazon.com](../ai/resources/amazon-com.md)
   - [An Adaptive Differentially Private Federated Learning Framework](../ai/research/arxiv-2602-06838.md)
@@ -12681,7 +12686,6 @@ Resources organized by keyword tags.
   - [FHIR Community - closed - discussion moved to chat.fhir.org](../ai/resources/fhir-community-closed-discussion-moved-to-chat-fhi.md)
   - [FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization](../ai/rag/arxiv-2607-20382.md)
   - [Fail-Aware and Explainable Test Oracle Prediction](../ai/research/arxiv-2607-11342.md)
-  - [Fairphone 6 wide camera experimental Linux support](../ai/community/fairphone-6-wide-camera-experimental-linux-support.md)
   - [Faithful Autoformalization of Natural Language Assertions](../ai/rag/arxiv-2607-13303.md)
   - [Falco](../ai/rag/falco.md)
   - [Family-Aware Residual Architecture for Predicting Quantum Circuit Simulation Performance](../ai/research/arxiv-2606-11620.md)
@@ -13291,6 +13295,7 @@ Resources organized by keyword tags.
   - [Open Government Licence](../ai/rag/open-government-licence.md)
   - [Open Source Security Foundation – Linux Foundation Projects](../ai/resources/open-source-security-foundation-linux-foundation-p.md)
   - [Open Subscription Platforms](../ai/rag/open-subscription-platforms.md)
+  - [OpenAI and Anthropic unite against open-weight AI risks to their bottom line](../ai/community/openai-and-anthropic-unite-against-open-weight-ai.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [OpenAnt: LLM-Powered Vulnerability Discovery Through Code Decomposition, Adversarial Verification, and Dynamic Testing](../ai/research/arxiv-2606-19149.md)
   - [OpenEM: Large-scale multi-structural 3D datasets for electromagnetic methods](../ai/research/arxiv-2510-21859.md)
@@ -13651,7 +13656,6 @@ Resources organized by keyword tags.
   - [Snowflake Status](../ai/rag/snowflake-status.md)
   - [Snowflake for Developers](../ai/rag/snowflake-for-developers.md)
   - [Snyk VulnBench JS 1.0: Can LLMs Find the Same Bugs Twice?](../ai/agents/arxiv-2606-15762.md)
-  - [So Reddit has decided that plain HTML is unsafe](../ai/community/so-reddit-has-decided-that-plain-html-is-unsafe.md)
   - [SoK: AI Secure Code Generation: Progress, Pitfalls, and Paths Forward](../ai/agents/arxiv-2606-25195.md)
   - [SoK: AI-Augmented Binary Reversing](../ai/rag/arxiv-2606-17398.md)
   - [SoK: Systematizing LLM Prompt Security: Taxonomies, Datasets, and Unified Evaluation of Attacks and Defenses](../ai/rag/arxiv-2510-15476.md)
@@ -13767,6 +13771,7 @@ Resources organized by keyword tags.
   - [Terms of Use | OpenAI](../ai/agents/terms-of-use-openai.md)
   - [Test Case Prioritization for DNNs via Neural Collapse Instability](../ai/rag/arxiv-2607-20046.md)
   - [Test-Time Adaptation for EEG Foundation Models: A Systematic Study under Real-World Distribution Shifts](../ai/research/arxiv-2604-16926.md)
+  - [Test-time training 3D reconstruction](../ai/community/inception3d-ttt3r.md)
   - [Testing For Distribution Shifts with Conditional Conformal Test Martingales](../ai/research/arxiv-2602-13848.md)
   - [Texas AI](../ai/rag/texas-ai.md)
   - [Text and Data Mining | For Researchers | Springer Nature](../ai/rag/text-and-data-mining-for-researchers-springer-natu.md)
@@ -17905,6 +17910,7 @@ Resources organized by keyword tags.
   - [Not All Skills Help: Measuring and Repairing Agent Knowledge](../ai/agents/arxiv-2606-15390.md)
   - [NousResearch/hermes-agent](../ai/agents/nousresearch-hermes-agent.md)
   - [Nvidia is latest investor to back AV startup Nuro in $203M funding round | TechCrunch](../ai/rag/nvidia-is-latest-investor-to-back-av-startup-nuro.md)
+  - [OpenAI and Anthropic unite against open-weight AI risks to their bottom line](../ai/community/openai-and-anthropic-unite-against-open-weight-ai.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [Optimizing Databricks LLM Pipelines with DSPy | Databricks Blog](../ai/rag/optimizing-databricks-llm-pipelines-with-dspy-data.md)
   - [PEC-Home: Interpretation of Progressively Elliptical Commands in Smart Homes](../ai/research/arxiv-2606-18636.md)
@@ -25210,6 +25216,7 @@ Resources organized by keyword tags.
   - [All Sites - Stack Exchange](../ai/rag/all-sites-stack-exchange.md)
   - [AlphaEarthMap our planet in unprecedented detail](../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md)
   - [AlphaEvolveDesign advanced algorithms for math and applications in computing](../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md)
+  - [Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](../ai/community/alphabet-s-cash-burn-raises-alarm-for-big-tech-as.md)
   - [Amazon.com](../ai/resources/amazon-com.md)
   - [An Auditable Policy-Simulation Framework for Student Dropout in Intervention-Free Data](../ai/research/arxiv-2604-08874.md)
   - [An architectural capacity ceiling, not a barren plateau: why a fixed-encoding variational quantum circuit cannot fit the Lorenz-63 attractor](../ai/research/arxiv-2604-23743.md)
@@ -25972,7 +25979,6 @@ Resources organized by keyword tags.
   - [Snap documentation](../ai/rag/snap-documentation.md)
   - [Snowflake Documentation](../ai/rag/snowflake-documentation.md)
   - [Snowflake Status](../ai/rag/snowflake-status.md)
-  - [So Reddit has decided that plain HTML is unsafe](../ai/community/so-reddit-has-decided-that-plain-html-is-unsafe.md)
   - [Solana Price Today | SOL Live Price, Chart & Market Cap | OKX United States](../ai/rag/solana-price-today-sol-live-price-chart-market-cap.md)
   - [SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets](../ai/agents/arxiv-2607-08681.md)
   - [Sovereign, Open Source Retrieval-Augmented Generation](../ai/rag/sovereign-open-source-retrieval-augmented-generati.md)
@@ -32153,4 +32159,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-23T17:07:39.027509+05:30*
+*Index generated on 2026-07-23T20:17:59.701487+05:30*

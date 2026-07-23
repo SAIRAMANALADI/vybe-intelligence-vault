@@ -16911,6 +16911,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `hackernews`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://docs.cloud.google.com/docs/ai-ml>
 
+* **[AI Companies Are Trying to Hide a Staggering Amount of Debt](ai/community/ai-companies-are-trying-to-hide-a-staggering-amoun.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by technewssss. Score: 80, Comments: 32. Original Link: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet>
+
 * **[AI for Research | Scite](ai/rag/scite-ai-for-research.md)** (`dataset` | `useful` tier)
   * Summary: - **Database & Coverage**: Aggregates 280M+ full-text scholarly articles (journals, preprints, books, patents, datasets) via direct publisher agreements (e.g., Wiley, SAGE) and open-access sources, enabling full-text search beyond abstracts. - **Smar
   * Tags: `anthropic`, `dataset`, `hackernews`, `openai`, `paper`, `rag`, `web-crawled`, `workflows`, `youtube`
@@ -16971,6 +16976,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`, `hackernews`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://codeberg.org/allauth/django-allauth>
 
+* **[Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](ai/community/alphabet-s-cash-burn-raises-alarm-for-big-tech-as.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by 1vuio0pswjnm7. Score: 142, Comments: 123. Original Link: https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/
+  * Tags: `ai`, `hackernews`, `reddit`
+  * Source URL: <https://reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23>
+
 * **[AME: A Multi-Type Contributor Attribution Framework in Generative AI Markets](ai/research/arxiv-2606-16075.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.16075v1 Announce Type: new Abstract: Generative AI enables value creation through multi-stage collaboration among heterogeneous contributors, including training data, base models, fine-tuning behaviors, and prompts. However, how to fairly
   * Tags: `models`, `paper`, `workflows`
@@ -17002,7 +17012,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2603.07053>
 
 * **[ANSI escape injection in MCP servers: Hidden from humans, visible to AI](ai/community/ansi-escape-injection-in-mcp-servers-hidden-from-h.md)** (`mcp-server` | `useful` tier)
-  * Summary: Hacker News story by xgpyc2qp. Score: 25, Comments: 9. Original Link: https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/
+  * Summary: Hacker News story by xgpyc2qp. Score: 41, Comments: 20. Original Link: https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast>
 
@@ -17032,7 +17042,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2602.14643>
 
 * **[Are AI labs pelicanmaxxing?](ai/community/are-ai-labs-pelicanmaxxing.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by dcastm. Score: 564, Comments: 217. Original Link: https://dylancastillo.co/posts/pelicanmaxxing.html
+  * Summary: Hacker News story by dcastm. Score: 618, Comments: 236. Original Link: https://dylancastillo.co/posts/pelicanmaxxing.html
   * Tags: `ai`, `hackernews`
   * Source URL: <https://dylancastillo.co/posts/pelicanmaxxing.html>
 
@@ -17237,7 +17247,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://developer.chrome.com/docs/ai/built-in>
 
 * **[Businesses with ugly AI menu redesigns](ai/community/businesses-with-ugly-ai-menu-redesigns.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by speckx. Score: 314, Comments: 217. Original Link: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/
+  * Summary: Hacker News story by speckx. Score: 344, Comments: 265. Original Link: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns>
 
@@ -17815,11 +17825,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Efficient similarity search**: FAISS implements optimized algorithms for approximate nearest neighbor search in high-dimensional spaces, leveraging techniques like IVF (Inverted File Index), PQ (Product Quantization), and HNSW (Hierarchical Navig
   * Tags: `c++`, `github-repo`, `hackernews`, `models`, `rag`, `workflows`
   * Source URL: <https://github.com/facebookresearch/faiss>
-
-* **[Fairphone 6 wide camera experimental Linux support](ai/community/fairphone-6-wide-camera-experimental-linux-support.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by helonaut. Score: 127, Comments: 39. Original Link: https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux>
 
 * **[False Confidence: Automated Labels Confound Fairness Audits in Cervical Spine Segmentation](ai/research/arxiv-2607-07852.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.07852v1 Announce Type: cross Abstract: Automated segmentation of cervical-spine MRI is increasingly used in clinical workflows, yet no fairness audit exists for this anatomy. We show that auditing these segmentation tasks is complicated by
@@ -19001,6 +19006,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://openssf.org/?hsLang=en>
 
+* **[OpenAI and Anthropic unite against open-weight AI risks to their bottom line](ai/community/openai-and-anthropic-unite-against-open-weight-ai.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by yogthos. Score: 188, Comments: 193. Original Link: https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china
+  * Tags: `ai`, `anthropic`, `hackernews`, `openai`
+  * Source URL: <https://axios.com/2026/07/22/openai-anthropic-open-models-trump-china>
+
 * **[opendataloader-project/opendataloader-pdf](ai/rag/opendataloader-project-opendataloader-pdf.md)** (`workflow` | `useful` tier)
   * Summary: - **Java-based PDF parser** designed for AI-ready data extraction, supporting accessibility compliance (e.g., PDF/UA) and automated tagging for structured content. - **Multi-format output** with support for HTML, JSON, Markdown, and bounding box anno
   * Tags: `github-repo`, `java`, `rag`, `workflows`
@@ -19212,7 +19222,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.16234>
 
 * **[Protecting our FLOSS commons from LLMs](ai/community/protecting-our-floss-commons-from-llms.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by acmnrs. Score: 85, Comments: 24. Original Link: https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html
+  * Summary: Hacker News story by acmnrs. Score: 139, Comments: 84. Original Link: https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html
   * Tags: `hackernews`, `llm`
   * Source URL: <https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html>
 
@@ -19257,7 +19267,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2508.20134>
 
 * **[Quality non-fiction books are the antithesis of AI slop](ai/community/quality-non-fiction-books-are-the-antithesis-of-ai.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by benbreen. Score: 384, Comments: 145. Original Link: https://resobscura.substack.com/p/quality-non-fiction-books-are-the
+  * Summary: Hacker News story by benbreen. Score: 441, Comments: 216. Original Link: https://resobscura.substack.com/p/quality-non-fiction-books-are-the
   * Tags: `ai`, `hackernews`
   * Source URL: <https://resobscura.substack.com/p/quality-non-fiction-books-are-the>
 
@@ -19581,11 +19591,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `hackernews`, `producthunt`, `rag`, `reddit`, `threejs`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://status.snowflake.com>
 
-* **[So Reddit has decided that plain HTML is unsafe](ai/community/so-reddit-has-decided-that-plain-html-is-unsafe.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by montroser. Score: 494, Comments: 492. Original Link: https://www.cole-k.com/2026/07/21/reddit/
-  * Tags: `ai`, `hackernews`, `reddit`
-  * Source URL: <https://cole-k.com/2026/07/21/reddit>
-
 * **[Solutions for App Development Challenges | Firebase](ai/rag/solutions-for-app-development-challenges-firebase.md)** (`tutorial` | `useful` tier)
   * Summary: - **Backend Development**: Firebase provides serverless backend solutions (Firestore, Realtime Database, Authentication, Cloud Storage) with local emulation support, enabling scalable app development without server management. **App Check** enforces
   * Tags: `producthunt`, `rag`, `web-crawled`, `workflows`, `youtube`
@@ -19739,6 +19744,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Multi-Model RAG & Agentic Workflows**: Implements Retrieval-Augmented Generation (RAG) with support for vector search, reranking, and multi-model LLM integration (e.g., Ollama, OpenAI) to enable autonomous reasoning agents and self-maintaining kn
   * Tags: `agents`, `benchmark`, `github-repo`, `go`, `meta-ai`, `models`, `openai`, `rag`, `workflows`
   * Source URL: <https://github.com/Tencent/WeKnora>
+
+* **[Test-time training 3D reconstruction](ai/community/inception3d-ttt3r.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by soupspaces. Score: 19, Comments: 1. Original Link: https://github.com/Inception3D/TTT3R
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://github.com/inception3d/ttt3r>
 
 * **[TextResNet: Decoupling and Routing Optimization Signals in Compound AI Systems via Deep Residual Tuning](ai/rag/arxiv-2602-08306.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.08306v2 Announce Type: replace Abstract: Textual Gradient-style optimizers (TextGrad) enable gradient-like feedback propagation through compound AI systems. However, they do not work well for deep chains. The root cause of this limitation
@@ -100464,11 +100474,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `hackernews`, `paper`
   * Source URL: <https://arxiv.org/abs/2505.13518>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
-  * Summary: * Provides a tutorial series on large language model (LLM) application development. * Emphasizes practical implementation using the LangChain framework and Retrieval Augmented Generation (RAG) architecture. * Educational content is structured and del
-  * Tags: `github-repo`, `jupyter notebook`, `rag`
-  * Source URL: <https://github.com/datawhalechina/llm-universe>
-
 * **[Design Methodology and Performance Trade-offs Management for Distributed and Compound AI Systems](ai/research/arxiv-2606-14350.md)** (`tutorial` | `useful` tier)
   * Summary: arXiv:2606.14350v1 Announce Type: cross Abstract: Artificial Intelligence (AI) systems must typically satisfy service-level objectives including accuracy, latency, and cost. The prevailing model-centric approaches select a monolithic model at design
   * Tags: `hackernews`, `workflows`
@@ -103997,7 +104002,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/GenAIOps-project-template>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3251, Downloads: 35583655)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3252, Downloads: 35583655)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
@@ -105440,6 +105445,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Educational Repository**: Provides a comprehensive tutorial in Chinese titled *"从零开始构建智能体"* (Building Agents from Scratch), covering foundational principles and practical implementations of AI agents. - **Technical Focus**: Covers key AI agent co
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
+
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`benchmark` | `useful` tier)
+  * Summary: * Provides foundational tutorials for large language model (LLM) application development. * Leverages LangChain for practical LLM application construction. * Implements Retrieval-Augmented Generation (RAG) patterns, presented in Jupyter Notebooks.
+  * Tags: `github-repo`, `jupyter notebook`, `rag`
+  * Source URL: <https://github.com/datawhalechina/llm-universe>
 
 * **[datawhalechina/wow-rag](ai/rag/datawhalechina-wow-rag.md)** (`framework` | `useful` tier)
   * Summary: - **Framework Design**: Implements a cross-platform RAG (Retrieval-Augmented Generation) framework with modular components for document ingestion, retrieval, and generation, optimized for Jupyter Notebook environments. - **Tutorial Integration**: Pro
@@ -111472,7 +111482,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://superml.org/tutorials/rag-beginner>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll-based static site source for `raganwald.com`. *
+  * Summary: * Jekyll-based static site source for `raganwald.com`, hosted via GitHub
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
@@ -113252,7 +113262,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.16617>
 
 * **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`benchmark` | `useful` tier)
-  * Summary: * Python-based Retrieval-Augmented Generation (RAG) system. * En
+  * Summary: * Implements a Retrieval-Augmented Generation (RAG) system for repository interaction. * Enables conversational querying and analysis of GitHub repository content. * Developed in Python for practical deployment.
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/SylphAI-Inc/GithubChat>
 

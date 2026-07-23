@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:so-reddit-has-decided-that-plain-html-is-unsafe
 first_seen: '2026-07-23T03:47:15.272445+05:30'
 last_seen: '2026-07-23T16:50:45.769785+05:30'
 last_checked: '2026-07-23T16:50:45.769785+05:30'
 health_score: 100
 ---
+
 
 # So Reddit has decided that plain HTML is unsafe
 

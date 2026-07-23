@@ -21,11 +21,11 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 778 resources matched in the intelligence vault.
 Recently detected signals:
-- [Trusting What You Cannot See: Auditable Fine-Tuning and Inference for Proprietary AI](../ai/research/arxiv-2603-07466.md) (Source: Unknown Source) - Collected 2026-07-23
-- [Spectral DPPs via NEPv: A Scalable Continuous Relaxation of Determinantal MAP for Diversity-Aware Data Selection](../ai/rag/arxiv-2606-19411.md) (Source: Unknown Source) - Collected 2026-07-23
-- [OC-Distill: Ontology-aware Contrastive Learning with Cross-Modal Distillation for ICU Risk Prediction](../ai/rag/arxiv-2604-16878.md) (Source: Unknown Source) - Collected 2026-07-23
-- [The Geometry of Learning to Avoid Interventions](../ai/agents/arxiv-2602-03825.md) (Source: Unknown Source) - Collected 2026-07-23
-- [SwiftRepertoire: Few-Shot Immune-Signature Synthesis via Dynamic Kernel Codes](../ai/research/arxiv-2602-01051.md) (Source: Unknown Source) - Collected 2026-07-23
+- [Accelerating PyTorch distributed fine-tuning with Intel technologies](../ai/models/huggingface-blog-accelerating-pytorch.md) (Source: Unknown Source) - Collected 2026-07-23
+- [Using LoRA for Efficient Stable Diffusion Fine-Tuning](../ai/models/huggingface-blog-lora.md) (Source: Unknown Source) - Collected 2026-07-23
+- [Parameter-Efficient Fine-Tuning using 🤗 PEFT](../ai/models/huggingface-blog-peft.md) (Source: Unknown Source) - Collected 2026-07-23
+- [Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU](../ai/models/huggingface-blog-trl-peft.md) (Source: Unknown Source) - Collected 2026-07-23
+- [Fine-tuning Stable Diffusion models on Intel CPUs](../ai/models/huggingface-blog-stable-diffusion-finetuning-intel.md) (Source: Unknown Source) - Collected 2026-07-23
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -226,4 +226,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-23T17:06:43.295240+05:30.440210+05:30.976494+05:30.702173+05:30.617479+05:30.465113+05:30.684701+05:30.230418+05:30.444668+05:30.111348+05:30.417501+05:30.152166+05:30.721703+05:30.915382+05:30.966615+05:30.764113+05:30.385557+05:30.567332+05:30.735695+05:30.745434+05:30.313265+05:30.467864+05:30.366258+05:30.850219+05:30.600182+05:30.827864+05:30.160807+05:30.551753+05:30.048264+05:30.580228+05:30.218675+05:30.737117+05:30.133154+05:30.907114+05:30.995114+05:30.879918+05:30.100207+05:30.992961+05:30.772346+05:30.817559+05:30.413937+05:30.324484+05:30.472404+05:30.722344+05:30.088271+05:30.008202+05:30.416368+05:30.558129+05:30.641788+05:30.475206+05:30.316516+05:30.443954+05:30.251607+05:30.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-23T20:16:54.701957+05:30.295240+05:30.440210+05:30.976494+05:30.702173+05:30.617479+05:30.465113+05:30.684701+05:30.230418+05:30.444668+05:30.111348+05:30.417501+05:30.152166+05:30.721703+05:30.915382+05:30.966615+05:30.764113+05:30.385557+05:30.567332+05:30.735695+05:30.745434+05:30.313265+05:30.467864+05:30.366258+05:30.850219+05:30.600182+05:30.827864+05:30.160807+05:30.551753+05:30.048264+05:30.580228+05:30.218675+05:30.737117+05:30.133154+05:30.907114+05:30.995114+05:30.879918+05:30.100207+05:30.992961+05:30.772346+05:30.817559+05:30.413937+05:30.324484+05:30.472404+05:30.722344+05:30.088271+05:30.008202+05:30.416368+05:30.558129+05:30.641788+05:30.475206+05:30.316516+05:30.443954+05:30.251607+05:30.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.
