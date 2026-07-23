@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux
 hn_url: https://news.ycombinator.com/item?id=49012777
-score: 20
+score: 80
 author: helonaut
-comments_count: 0
+comments_count: 9
 published_at: '2026-07-23T01:46:01+05:30'
-collected_at: '2026-07-23T03:47:14.937276+05:30'
+collected_at: '2026-07-23T09:14:07.304757+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:fairphone-6-wide-camera-experimental-linux-support
 first_seen: '2026-07-23T03:47:14.937276+05:30'
-last_seen: '2026-07-23T03:47:14.937276+05:30'
-last_checked: '2026-07-23T03:47:14.937276+05:30'
+last_seen: '2026-07-23T09:14:07.304757+05:30'
+last_checked: '2026-07-23T09:14:07.304757+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by helonaut. Score: 20, Comments: 0.
+Hacker News story by helonaut. Score: 80, Comments: 9.
 Original Link: https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: helonaut
-- Score: 20 Upvotes
-- Comments: 0 Discussions
+- Score: 80 Upvotes
+- Comments: 9 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49012777
 - Original Article: https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux
 

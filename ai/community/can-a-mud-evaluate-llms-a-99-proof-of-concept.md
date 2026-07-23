@@ -13,13 +13,14 @@ collected_at: '2026-07-23T03:47:15.354156+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:can-a-mud-evaluate-llms-a-99-proof-of-concept
 first_seen: '2026-07-23T01:13:52.212537+05:30'
 last_seen: '2026-07-23T03:47:15.354156+05:30'
 last_checked: '2026-07-23T03:47:15.354156+05:30'
 health_score: 100
 ---
+
 
 # Can a MUD evaluate LLMs? A $99 proof of concept
 

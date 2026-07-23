@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:nvidia-dgx-spark-as-a-daily-driver
 first_seen: '2026-07-23T03:47:14.836240+05:30'
 last_seen: '2026-07-23T03:47:14.836240+05:30'
 last_checked: '2026-07-23T03:47:14.836240+05:30'
 health_score: 100
 ---
+
 
 # Nvidia DGX Spark as a daily driver
 
