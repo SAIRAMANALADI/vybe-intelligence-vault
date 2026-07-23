@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-23T20:20:26.980198+05:30`
+Generated at: `2026-07-23T20:44:01.832193+05:30`
 
 ## Executive Summary
 
@@ -12,6 +12,7 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **Alphabet's cash burn raises alarm for Big Tech as AI spending climbs** - Score: `142` in category `ai/community` ([Link](https://reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23)) ([File](../ai/community/alphabet-s-cash-burn-raises-alarm-for-big-tech-as.md))
 - **AI Companies Are Trying to Hide a Staggering Amount of Debt** - Score: `80` in category `ai/community` ([Link](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)) ([File](../ai/community/ai-companies-are-trying-to-hide-a-staggering-amoun.md))
 - **Test-time training 3D reconstruction** - Score: `19` in category `ai/community` ([Link](https://github.com/inception3d/ttt3r)) ([File](../ai/community/inception3d-ttt3r.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
@@ -21,23 +22,23 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **Businesses with ugly AI menu redesigns** - Score: `344` (+30), Rank Change: `+1` ([File](../ai/community/businesses-with-ugly-ai-menu-redesigns.md))
 - **ANSI escape injection in MCP servers: Hidden from humans, visible to AI** - Score: `41` (+16), Rank Change: `-1` ([File](../ai/community/ansi-escape-injection-in-mcp-servers-hidden-from-h.md))
 - **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+983` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **Jul 9, 2026AnnouncementsIntroducing a way to reflect on how you use Claude** - Score: `0` (0), Rank Change: `+65` ([File](../ai/companies/anthropic/jul-9-2026announcementsintroducing-a-way-to-reflec.md))
-- **Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust** - Score: `0` (0), Rank Change: `+65` ([File](../ai/companies/anthropic/jul-9-2026announcementsben-bernanke-appointed-to-a.md))
-- **Jul 9, 2026Case StudyUST is bringing Claude to physical AI** - Score: `0` (0), Rank Change: `+65` ([File](../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md))
-- **Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research** - Score: `0` (0), Rank Change: `+65` ([File](../ai/companies/anthropic/jul-14-2026announcementsanthropic-commits-10-milli.md))
+- **mergisi/awesome-openclaw-agents** - Score: `0` (0), Rank Change: `+962` ([File](../ai/agents/mergisi-awesome-openclaw-agents.md))
+- **MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials** - Score: `0` (0), Rank Change: `+962` ([File](../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md))
+- **microsoft/agentsleague** - Score: `0` (0), Rank Change: `+962` ([File](../ai/agents/microsoft-agentsleague.md))
+- **wgcyeo/UniversalRAG** - Score: `0` (0), Rank Change: `+962` ([File](../ai/rag/wgcyeo-universalrag.md))
 
 ## 🚀 Fastest Rising Tools
 
+- **Medium** - (Rank Change: `+12887`) ([File](../ai/rag/medium-2.md))
+- **infiniflow/ragflow** - (Rank Change: `+12798`) ([File](../ai/rag/infiniflow-ragflow-2.md))
 - **SylphAI-Inc/GithubChat** - (Rank Change: `+983`) ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **Jul 9, 2026AnnouncementsIntroducing a way to reflect on how you use Claude** - (Rank Change: `+65`) ([File](../ai/companies/anthropic/jul-9-2026announcementsintroducing-a-way-to-reflec.md))
-- **Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust** - (Rank Change: `+65`) ([File](../ai/companies/anthropic/jul-9-2026announcementsben-bernanke-appointed-to-a.md))
-- **Jul 9, 2026Case StudyUST is bringing Claude to physical AI** - (Rank Change: `+65`) ([File](../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md))
-- **Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research** - (Rank Change: `+65`) ([File](../ai/companies/anthropic/jul-14-2026announcementsanthropic-commits-10-milli.md))
-- **Jul 14, 2026ProductIntroducing Claude for Teachers** - (Rank Change: `+65`) ([File](../ai/companies/anthropic/jul-14-2026productintroducing-claude-for-teachers.md))
-- **Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants** - (Rank Change: `+65`) ([File](../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md))
-- **Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action** - (Rank Change: `+65`) ([File](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md))
-- **Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index** - (Rank Change: `+65`) ([File](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md))
-- **Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund** - (Rank Change: `+65`) ([File](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md))
+- **malonge/RaGOO** - (Rank Change: `+964`) ([File](../ai/rag/malonge-ragoo.md))
+- **Test-Input Generation for Tensor Programs: What Actually Finds Kernel Bugs** - (Rank Change: `+964`) ([File](../ai/research/arxiv-2606-27396.md))
+- **Don't Fool Me Twice: Adapting to Adversity in the Wild with Experience-Driven Reasoning** - (Rank Change: `+964`) ([File](../ai/rag/arxiv-2605-31119.md))
+- **SGMD: Score Gradient Matching Distillation for Few-Step Video Diffusion Distillation** - (Rank Change: `+964`) ([File](../ai/research/arxiv-2605-30116.md))
+- **Stability of Low-Rank Implicit Regularization in Perturbed Deep Matrix Factorization** - (Rank Change: `+964`) ([File](../ai/research/arxiv-2605-28613.md))
+- **Q-PhotoNAS: Hybrid Quantum Neural Architecture Search Framework on Photonic Devices** - (Rank Change: `+964`) ([File](../ai/research/arxiv-2605-22097.md))
+- **TWINGS: Thin Plate Splines Warp-aligned Initialization for Sparse-View Gaussian Splatting** - (Rank Change: `+964`) ([File](../ai/research/arxiv-2605-22069.md))
 
 ## 🔄 Essential Tier Transitions
 
