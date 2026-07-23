@@ -1,31 +1,31 @@
 ---
-title: Are AI Labs Pelicanmaxxing?
+title: Are AI labs pelicanmaxxing?
 category: ai/community
 source_type: hackernews
 source_name: Hacker News AI
 source_url: https://dylancastillo.co/posts/pelicanmaxxing.html
 hn_url: https://news.ycombinator.com/item?id=49010129
-score: 417
+score: 514
 author: dcastm
-comments_count: 161
+comments_count: 198
 published_at: '2026-07-22T22:47:54+05:30'
-collected_at: '2026-07-23T09:14:06.057780+05:30'
+collected_at: '2026-07-23T14:15:18.416118+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:are-ai-labs-pelicanmaxxing
 first_seen: '2026-07-23T01:13:51.780925+05:30'
-last_seen: '2026-07-23T09:14:06.057780+05:30'
-last_checked: '2026-07-23T09:14:06.057780+05:30'
+last_seen: '2026-07-23T14:15:18.416118+05:30'
+last_checked: '2026-07-23T14:15:18.416118+05:30'
 health_score: 100
 ---
 
-# Are AI Labs Pelicanmaxxing?
+# Are AI labs pelicanmaxxing?
 
 ## Summary
 
-Hacker News story by dcastm. Score: 417, Comments: 161.
+Hacker News story by dcastm. Score: 514, Comments: 198.
 Original Link: https://dylancastillo.co/posts/pelicanmaxxing.html
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: dcastm
-- Score: 417 Upvotes
-- Comments: 161 Discussions
+- Score: 514 Upvotes
+- Comments: 198 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49010129
 - Original Article: https://dylancastillo.co/posts/pelicanmaxxing.html
 

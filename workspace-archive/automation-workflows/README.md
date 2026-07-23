@@ -9,23 +9,23 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 ## Top Matched Resources
 
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
-- [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (mcp-server - ESSENTIAL Tier)
-- [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (framework - ESSENTIAL Tier)
 - [github/roadmap](https://github.com/github/roadmap) (tutorial - ESSENTIAL Tier)
-- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
-- [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
-- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
+- [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (framework - ESSENTIAL Tier)
+- [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (mcp-server - ESSENTIAL Tier)
+- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (benchmark - ESSENTIAL Tier)
+- [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
+- [LlamaIndex · GitHub](https://github.com/run-llama/) (framework - ESSENTIAL Tier)
+- [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/n8n-io/n8n (n8n)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
-- [Black Forest Labs · GitHub](https://github.com/black-forest-labs)
-- [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
 - [github/roadmap](https://github.com/github/roadmap)
-- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
-- [OpenAI · GitHub](https://github.com/openai)
+- [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
+- [Black Forest Labs · GitHub](https://github.com/black-forest-labs)
+- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
+- [langgenius/dify](https://github.com/langgenius/dify)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-07-23 09:32 IST*
+*Last updated: 2026-07-23 14:34 IST*

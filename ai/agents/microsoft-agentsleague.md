@@ -4,15 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/agentsleague
-collected_at: '2026-07-21T22:15:02.503169+05:30'
+collected_at: '2026-07-23T14:18:55.742823+05:30'
 published_at: '2026-06-30T16:54:25Z'
 tags:
 - agents
-- benchmark
 - github-repo
-- leaderboard
 - unknown
-- workflows
 stars: 285
 language: Unknown
 status: active
@@ -21,9 +18,9 @@ archived: false
 created_at: '2025-12-15T11:55:32Z'
 pushed_at: '2026-04-06T09:34:39Z'
 resource_id: github:microsoft/agentsleague
-first_seen: '2026-07-21T22:15:02.503169+05:30'
-last_seen: '2026-07-21T22:15:02.503169+05:30'
-last_checked: '2026-07-21T22:15:02.503169+05:30'
+first_seen: '2026-07-23T14:18:55.742823+05:30'
+last_seen: '2026-07-23T14:18:55.742823+05:30'
+last_checked: '2026-07-23T14:18:55.742823+05:30'
 health_score: 100
 ---
 
@@ -31,9 +28,7 @@ health_score: 100
 
 ## Summary
 
-- **E-sports-inspired AI challenge platform** facilitating live AI Battles with competitive, asynchronous community challenges.
-- **GitHub-integrated submissions** enabling version-controlled, transparent, and collaborative agent development workflows.
-- **Dynamic leaderboards and real-time metrics** tracking agent performance, fostering rapid iteration and benchmarking.
+*   Competitive developer challenge centered on agentic AI, featuring an e-sports-style live battle
 
 ## Why It Matters
 
@@ -43,7 +38,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: microsoft
 - Stars: 285
-- Forks: 90
+- Forks: 91
 - Language: Unknown
 - Topics: None
 - Last Updated: 2026-06-30T16:54:25Z

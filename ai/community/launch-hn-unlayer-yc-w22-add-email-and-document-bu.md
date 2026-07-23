@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:launch-hn-unlayer-yc-w22-add-email-and-document-bu
 first_seen: '2026-07-22T22:15:01.097159+05:30'
 last_seen: '2026-07-23T09:14:08.096343+05:30'
 last_checked: '2026-07-23T09:14:08.096343+05:30'
 health_score: 100
 ---
+
 
 # Launch HN: Unlayer (YC W22) – Add email and document builders to your app
 

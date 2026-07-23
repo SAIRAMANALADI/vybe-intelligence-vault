@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ajac-zero/example-rag-app
-collected_at: '2026-07-22T14:17:03.407921+05:30'
+collected_at: '2026-07-23T14:17:50.686785+05:30'
 published_at: '2026-07-14T22:18:47Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-02-18T16:15:24Z'
 pushed_at: '2026-01-15T20:18:12Z'
 resource_id: github:ajac-zero/example-rag-app
-first_seen: '2026-07-22T14:17:03.407921+05:30'
-last_seen: '2026-07-22T14:17:03.407921+05:30'
-last_checked: '2026-07-22T14:17:03.407921+05:30'
+first_seen: '2026-07-23T14:17:50.686785+05:30'
+last_seen: '2026-07-23T14:17:50.686785+05:30'
+last_checked: '2026-07-23T14:17:50.686785+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-*   Implements an open-source Retrieval-Augmented Generation (RAG) application leveraging TypeScript.
-*   Integrates Langfuse for LLM observability and LiteLLM for abstracting over 100+ LLM providers.
-*   Ensures robust development via Dockerization, full type-checking, and 100% test coverage.
+*   Open-source RAG application featuring integrated LLM observability via Langfuse.
+*   Achieves broad LLM provider compatibility (100+ providers) through LiteLLM integration.
+*   Dockerized for deployment, implements full TypeScript type-checking, and maintains 100% test coverage.
 
 ## Why It Matters
 
