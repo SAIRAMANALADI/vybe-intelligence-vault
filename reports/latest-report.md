@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-23T09:33:13.099044+05:30`
+Generated at: `2026-07-23T09:50:11.379858+05:30`
 
 ## Executive Summary
 
@@ -9,7 +9,7 @@ This report summarizes the major shifts, new entries, and delta movements across
 ## ✨ New Discoveries
 
 - **Petals: Run LLMs at home, BitTorrent-style** - Score: `66` in category `ai/community` ([Link](https://petals.dev)) ([File](../ai/community/petals-run-llms-at-home-bittorrent-style.md))
-- **xiaohuiwang-ai/xiaohuiwang-ai.github.io** - Score: `0` in category `daily-digests/2026-06-26` ([File](../world/public/vault/daily-digests/2026-06-26/xiaohuiwang-ai_github_io.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
@@ -21,21 +21,21 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **Launch HN: Unlayer (YC W22) – Add email and document builders to your app** - Score: `47` (+9), Rank Change: `-1` ([File](../ai/community/launch-hn-unlayer-yc-w22-add-email-and-document-bu.md))
 - **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+982` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
 - **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+970` ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+3` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+3` ([File](../ai/companies/human-language-technologies.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+964` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **ARUNAGIRINATHAN-K/awesome-ai-agents-2026** - Score: `0` (0), Rank Change: `+965` ([File](../ai/agents/arunagirinathan-k-awesome-ai-agents-2026.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **RUC-NLPIR/FlashRAG** - (Rank Change: `+11851`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **Medium** - (Rank Change: `+12900`) ([File](../ai/rag/medium-2.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+12814`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
 - **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - (Rank Change: `+982`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
 - **raganwald/raganwald.github.com** - (Rank Change: `+970`) ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **Wan-AI/Wan2.2-Animate** - (Rank Change: `+13`) ([File](../ai/models/huggingface-spaces-wan-ai.md))
-- **AP123/IllusionDiffusion** - (Rank Change: `+13`) ([File](../ai/models/huggingface-spaces-ap123.md))
-- **dalle-mini/dalle-mini** - (Rank Change: `+13`) ([File](../ai/models/huggingface-spaces-dalle-mini.md))
-- **mteb/leaderboard** - (Rank Change: `+13`) ([File](../ai/models/huggingface-spaces-mteb.md))
-- **black-forest-labs/FLUX.1-dev** - (Rank Change: `+13`) ([File](../ai/models/huggingface-spaces-black-forest-labs.md))
-- **Kwai-Kolors/Kolors-Virtual-Try-On** - (Rank Change: `+13`) ([File](../ai/models/huggingface-spaces-kwai-kolors.md))
-- **jbilcke-hf/ai-comic-factory** - (Rank Change: `+13`) ([File](../ai/models/huggingface-spaces-jbilcke-hf.md))
+- **monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1** - (Rank Change: `+967`) ([File](../ai/rag/monday-service-langsmith-building-a-code-first-eva.md))
+- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+967`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
+- **promptfoo/promptfoo-action** - (Rank Change: `+967`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
+- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+967`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
+- **Understanding RAG from Scratch | martinuke0's Blog** - (Rank Change: `+967`) ([File](../ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md))
+- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+967`) ([File](../ai/rag/arxiv-2606-29031.md))
 
 ## 🔄 Essential Tier Transitions
 
