@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [A New Perspective on Precision and Recall for Generative Models](https://arxiv.org/abs/2511.02414) (Category: `project-ideas` | [`Local File`](../../ai/research/arxiv-2511-02414.md))
 
 ---
-*Last updated: 2026-07-24 04:03 IST*
+*Last updated: 2026-07-24 09:30 IST*

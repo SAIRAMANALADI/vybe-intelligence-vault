@@ -16912,7 +16912,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://docs.cloud.google.com/docs/ai-ml>
 
 * **[AI Companies Are Trying to Hide a Staggering Amount of Debt](ai/community/ai-companies-are-trying-to-hide-a-staggering-amoun.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by technewssss. Score: 542, Comments: 255. Original Link: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet
+  * Summary: Hacker News story by technewssss. Score: 625, Comments: 314. Original Link: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet
   * Tags: `ai`, `hackernews`
   * Source URL: <https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet>
 
@@ -17512,7 +17512,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/customer-stories>
 
 * **[DARPA, U.S. Air Force fly AI-controlled F-16](ai/community/darpa-u-s-air-force-fly-ai-controlled-f-16.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by r2sk5t. Score: 140, Comments: 156. Original Link: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16
+  * Summary: Hacker News story by r2sk5t. Score: 196, Comments: 219. Original Link: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16
   * Tags: `ai`, `hackernews`
   * Source URL: <https://darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16>
 
@@ -17745,11 +17745,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **API Access & CLI Syntax**: Esbuild provides APIs in CLI, JavaScript, and Go with identical concepts; CLI flags use `--foo` (boolean), `--foo=bar` (single value), or `--foo:bar` (multi-value), while shell interpretation risks can be avoided via JS
   * Tags: `frontend_ui`, `hackernews`, `rag`, `web-crawled`, `workflows`
   * Source URL: <https://esbuild.github.io/api/#sources-content>
-
-* **[Escape Analysis in Go: Stack vs. Heap Allocations Explained](ai/community/escape-analysis-in-go-stack-vs-heap-allocations-ex.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by ingve. Score: 22, Comments: 4. Original Link: https://blog.jetbrains.com/go/2026/07/20/escape-analysis/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://blog.jetbrains.com/go/2026/07/20/escape-analysis>
 
 * **[Esri Developer](ai/rag/esri-developer.md)** (`tutorial` | `useful` tier)
   * Summary: - **Legacy API Key Deprecation**: Legacy API keys will be revoked on June 24th; developers must migrate to updated authentication methods via [Migrate API keys](https://developers.arcgis.com/documentation/security-and-authentication/api-key-authentic
@@ -18331,11 +18326,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `github-repo`, `openai`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/hwchase17/langchain>
 
-* **[Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency](ai/community/hybrid-electric-aicraft-engine-targeting-30-fuel-e.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by r2sk5t. Score: 79, Comments: 72. Original Link: https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development
-  * Tags: `ai`, `hackernews`, `reddit`
-  * Source URL: <https://rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development>
-
 * **[ICA Lens: Interpreting Language Models Without Training Another Dictionary](ai/research/arxiv-2606-11722.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.11722v1 Announce Type: new Abstract: Finding interpretable directions in language-model representations is critical for understanding and controlling model behavior. Sparse autoencoders (SAEs) have become the standard tool for this purpose
   * Tags: `models`, `workflows`
@@ -18622,7 +18612,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://platform.openai.com/docs/guides/latency-optimization>
 
 * **[Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents](ai/community/launch-hn-screenpipe-yc-s26-record-how-you-work-an.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by louis030195. Score: 46, Comments: 47. Original Link: None
+  * Summary: Hacker News story by louis030195. Score: 62, Comments: 50. Original Link: None
   * Tags: `agents`, `hackernews`, `producthunt`
   * Source URL: <https://news.ycombinator.com/item?id=49024620>
 
@@ -19007,7 +18997,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://openssf.org/?hsLang=en>
 
 * **[OpenAI’s accidental attack against Hugging Face is science fiction that happened](ai/community/openais-accidental-attack-against-hugging-face-is.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by abhisek. Score: 330, Comments: 274. Original Link: https://simonwillison.net/2026/Jul/22/openai-cyberattack/
+  * Summary: Hacker News story by abhisek. Score: 413, Comments: 344. Original Link: https://simonwillison.net/2026/Jul/22/openai-cyberattack/
   * Tags: `ai`, `hackernews`, `openai`
   * Source URL: <https://simonwillison.net/2026/jul/22/openai-cyberattack>
 
@@ -19542,12 +19532,12 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://shibuya.lepture.com>
 
 * **[Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents](ai/community/onecli-onecli.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Jonathanfishner. Score: 65, Comments: 25. Original Link: https://github.com/onecli/onecli
+  * Summary: Hacker News story by Jonathanfishner. Score: 82, Comments: 29. Original Link: https://github.com/onecli/onecli
   * Tags: `agents`, `ai`, `hackernews`
   * Source URL: <https://github.com/onecli/onecli>
 
 * **[Show HN: Palmier Pro – Open-source macOS video editor built for AI](ai/trending/palmier-io-palmier-pro.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by harrisontin. Score: 99, Comments: 16. Original Link: https://github.com/palmier-io/palmier-pro
+  * Summary: Hacker News story by harrisontin. Score: 130, Comments: 20. Original Link: https://github.com/palmier-io/palmier-pro
   * Tags: `ai`, `hackernews`, `youtube`
   * Source URL: <https://github.com/palmier-io/palmier-pro>
 
@@ -19756,7 +19746,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2512.02080>
 
 * **[The arguments against open source AI are bad](ai/community/the-arguments-against-open-source-ai-are-bad.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by jjfoooo4. Score: 158, Comments: 112. Original Link: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/
+  * Summary: Hacker News story by jjfoooo4. Score: 221, Comments: 154. Original Link: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://tombedor.dev/arguments-against-open-source-ai-are-very-bad>
 
@@ -20140,6 +20130,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`, `hackernews`, `paper`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://blog.beezwax.net/why-fast-growing-teams-outgrow-spreadsheets>
 
+* **[Why Software Factories Fail (or: harness engineering is not enough)](ai/community/humanlayer-advanced-context-engineering-for-coding-agents.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by dhorthy. Score: 213, Comments: 161. Original Link: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md
+  * Tags: `agents`, `ai`, `hackernews`, `reddit`
+  * Source URL: <https://github.com/humanlayer/advanced-context-engineering-for-coding-agents>
+
 * **[Wikimedia Commons](ai/rag/wikimedia-commons.md)** (`tutorial` | `useful` tier)
   * Summary: - **Wikimedia Commons** is a free media repository hosting **143,411,315** files (images, videos, sounds, 3D models) under open licenses, enabling public contribution and reuse via structured data and API endpoints (e.g., `featuredfeed` for syndicati
   * Tags: `hackernews`, `rag`, `web-crawled`, `workflows`, `youtube`
@@ -20156,7 +20151,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.08740>
 
 * **[Writing by hand is good for your brain](ai/community/writing-by-hand-is-good-for-your-brain.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by dwwoelfel. Score: 830, Comments: 419. Original Link: https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your
+  * Summary: Hacker News story by dwwoelfel. Score: 1042, Comments: 500. Original Link: https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your
   * Tags: `ai`, `hackernews`
   * Source URL: <https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your>
 
@@ -83771,7 +83766,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02825>
 
 * **[jbilcke-hf/ai-comic-factory](ai/models/huggingface-spaces-jbilcke-hf.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11185, Downloads: 0)
+  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11186, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/jbilcke-hf>
 
@@ -86857,7 +86852,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2511.12810>
 
 * **[mteb/leaderboard](ai/models/huggingface-spaces-mteb.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7584, Downloads: 0)
+  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7585, Downloads: 0)
   * Tags: `hf-space`, `huggingface`, `leaderboard`
   * Source URL: <https://huggingface.co/spaces/mteb>
 
@@ -88360,7 +88355,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.06625>
 
 * **[open-llm-leaderboard/open_llm_leaderboard](ai/models/huggingface-spaces-open-llm-leaderboard.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: open-llm-leaderboard/open_llm_leaderboard (Likes: 14055, Downloads: 0)
+  * Summary: Trending Hugging Face space: open-llm-leaderboard/open_llm_leaderboard (Likes: 14056, Downloads: 0)
   * Tags: `hf-space`, `huggingface`, `leaderboard`
   * Source URL: <https://huggingface.co/spaces/open-llm-leaderboard>
 
@@ -88943,11 +88938,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2312.08230v2 Announce Type: replace-cross Abstract: Detecting partial extrinsic symmetry in 3D geometry is a fundamental yet persistent challenge in computer vision and graphics, critical for tasks ranging from shape completion to procedural ge
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2312.08230>
-
-* **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * Introduces RAGTruth, a specialized corpus for quantifying and analyzing hallucination phenomena in Retrieval-Augmented Language Models (RAGs). * Provides a benchmark dataset to facilitate the development of trustworthy RAG systems by evaluating the
-  * Tags: `benchmark`, `dataset`, `github-repo`, `python`, `rag`
-  * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 
 * **[PASs-MoE: Mitigating Misaligned Co-drift among Router and Experts via Pathway Activation Subspaces for Continual Learning](ai/research/arxiv-2601-13020.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2601.13020v2 Announce Type: replace-cross Abstract: Continual instruction tuning (CIT) requires multimodal large language models (MLLMs) to adapt to a stream of tasks without forgetting prior capabilities. A common strategy is to isolate update
@@ -102621,7 +102611,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://authorservices.springernature.com>
 
 * **[Startup founders urge U.S. government not to shut off Chinese open weight AI](ai/community/startup-founders-urge-trump-not-to-shut-off-chines.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by theanonymousone. Score: 615, Comments: 584. Original Link: https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992
+  * Summary: Hacker News story by theanonymousone. Score: 775, Comments: 685. Original Link: https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992
   * Tags: `ai`, `hackernews`
   * Source URL: <https://politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992>
 
@@ -105451,9 +105441,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2512.01317>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tutorial` | `useful` tier)
-  * Summary: * Comprehensive guide to full-stack RAG for LLM application development, emphasizing practical implementation
-  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
+  * Summary: * Comprehensive RAG application development guide utilizing frameworks like LangChain and LlamaIndex for orchestration. * Emphasizes advanced knowledge retrieval architectures, integrating vector databases (e.g., Milvus) and graph databases (e.g., Ne
+  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -105461,9 +105451,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tool` | `useful` tier)
-  * Summary: * Provides a structured curriculum for large language model (LLM) application development. *
-  * Tags: `github-repo`, `jupyter notebook`, `rag`
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
+  * Summary: * Comprehensive tutorial on large language model (LLM) application development. * Focuses on practical implementation using the LangChain framework and Retrieval-Augmented Generation (RAG) techniques. * Content delivered via interactive Jupyter Noteb
+  * Tags: `github-repo`, `hackernews`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
 * **[datawhalechina/wow-rag](ai/rag/datawhalechina-wow-rag.md)** (`framework` | `useful` tier)
@@ -110736,6 +110726,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2604.20711>
 
+* **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
+  * Summary: * Introduces RAGTruth, a specialized corpus for identifying and analyzing hallucinations in Retrieval-Augmented Language Models (RAGs). * Aims to enhance the trustworthiness and factual accuracy of RAG systems by providing a dedicated hallucination b
+  * Tags: `benchmark`, `github-repo`, `python`, `rag`
+  * Source URL: <https://github.com/ParticleMedia/RAGTruth>
+
 * **[Passkeys for Developers](ai/rag/passkeys-for-developers.md)** (`tutorial` | `useful` tier)
   * Summary: - **Phishing-resistant authentication**: Passkeys leverage public-key cryptography where servers store only the public key, eliminating password reuse risks and mitigating phishing attacks via domain-specific binding. - **Multi-device, biometric supp
   * Tags: `hackernews`, `rag`, `web-crawled`, `youtube`
@@ -111492,7 +111487,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://superml.org/tutorials/rag-beginner>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll-based static site source. * Primary implementation language: HTML. * Repository naming convention (`.github.com`) indicates GitHub Pages deployment.
+  * Summary: * Jekyll-based static site source for `raganwald.com`. * Primary repository language identified as HTML. * Last updated `2026-07-08T15:07:53Z`.
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
@@ -115593,7 +115588,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.15525>
 
 * **[Learn WebGPU for C++](web-development/community/learn-webgpu-for-c.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by ibobev. Score: 70, Comments: 10. Original Link: https://eliemichel.github.io/LearnWebGPU/
+  * Summary: Hacker News story by ibobev. Score: 91, Comments: 12. Original Link: https://eliemichel.github.io/LearnWebGPU/
   * Tags: `hackernews`, `threejs`, `webgpu`
   * Source URL: <https://eliemichel.github.io/learnwebgpu>
 

@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your
 hn_url: https://news.ycombinator.com/item?id=49022152
-score: 830
+score: 1042
 author: dwwoelfel
-comments_count: 419
+comments_count: 500
 published_at: '2026-07-23T19:54:43+05:30'
-collected_at: '2026-07-24T03:45:22.992465+05:30'
+collected_at: '2026-07-24T09:12:42.547062+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:writing-by-hand-is-good-for-your-brain
 first_seen: '2026-07-23T22:16:07.184764+05:30'
-last_seen: '2026-07-24T03:45:22.992465+05:30'
-last_checked: '2026-07-24T03:45:22.992465+05:30'
+last_seen: '2026-07-24T09:12:42.547062+05:30'
+last_checked: '2026-07-24T09:12:42.547062+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by dwwoelfel. Score: 830, Comments: 419.
+Hacker News story by dwwoelfel. Score: 1042, Comments: 500.
 Original Link: https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: dwwoelfel
-- Score: 830 Upvotes
-- Comments: 419 Discussions
+- Score: 1042 Upvotes
+- Comments: 500 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49022152
 - Original Article: https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your
 

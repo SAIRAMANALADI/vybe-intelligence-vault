@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:hybrid-electric-aicraft-engine-targeting-30-fuel-e
 first_seen: '2026-07-23T22:16:08.319654+05:30'
 last_seen: '2026-07-24T03:45:25.715332+05:30'
 last_checked: '2026-07-24T03:45:25.715332+05:30'
 health_score: 100
 ---
+
 
 # Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency
 

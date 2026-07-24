@@ -6,9 +6,9 @@
     "ai-browser-computer-use": 2412,
     "ai-coding-agents": 2154,
     "ai-tools-products": 97,
-    "automation-workflows": 1182,
-    "datasets": 7360,
-    "evals-and-benchmarks": 10071,
+    "automation-workflows": 1181,
+    "datasets": 7359,
+    "evals-and-benchmarks": 10073,
     "frontend-ai-ui": 173,
     "guardrails-security": 5454,
     "inference-local-llm": 1037,
@@ -26,5 +26,5 @@
     "vector-databases": 4149,
     "webdev-3d-creative": 119
   },
-  "last_updated": "2026-07-24T04:03:57.869943+05:30"
+  "last_updated": "2026-07-24T09:30:26.840455+05:30"
 }

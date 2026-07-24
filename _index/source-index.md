@@ -10525,8 +10525,6 @@ Resources organized by publisher feed and query sources.
 
   - [AI Companies Are Trying to Hide a Staggering Amount of Debt](../ai/community/ai-companies-are-trying-to-hide-a-staggering-amoun.md)
   - [DARPA, U.S. Air Force fly AI-controlled F-16](../ai/community/darpa-u-s-air-force-fly-ai-controlled-f-16.md)
-  - [Escape Analysis in Go: Stack vs. Heap Allocations Explained](../ai/community/escape-analysis-in-go-stack-vs-heap-allocations-ex.md)
-  - [Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency](../ai/community/hybrid-electric-aicraft-engine-targeting-30-fuel-e.md)
   - [Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents](../ai/community/launch-hn-screenpipe-yc-s26-record-how-you-work-an.md)
   - [Learn WebGPU for C++](../web-development/community/learn-webgpu-for-c.md)
   - [OpenAI’s accidental attack against Hugging Face is science fiction that happened](../ai/community/openais-accidental-attack-against-hugging-face-is.md)
@@ -10534,6 +10532,7 @@ Resources organized by publisher feed and query sources.
   - [Show HN: Palmier Pro – Open-source macOS video editor built for AI](../ai/trending/palmier-io-palmier-pro.md)
   - [Startup founders urge U.S. government not to shut off Chinese open weight AI](../ai/community/startup-founders-urge-trump-not-to-shut-off-chines.md)
   - [The arguments against open source AI are bad](../ai/community/the-arguments-against-open-source-ai-are-bad.md)
+  - [Why Software Factories Fail (or: harness engineering is not enough)](../ai/community/humanlayer-advanced-context-engineering-for-coding-agents.md)
   - [Writing by hand is good for your brain](../ai/community/writing-by-hand-is-good-for-your-brain.md)
 
 ## Unknown Source (type: huggingface)
@@ -13791,4 +13790,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-24T04:02:33.347373+05:30*
+*Index generated on 2026-07-24T09:29:28.202423+05:30*

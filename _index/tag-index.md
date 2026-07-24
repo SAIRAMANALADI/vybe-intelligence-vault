@@ -2797,6 +2797,7 @@ Resources organized by keyword tags.
   - [Why Git Is the Memory Solution for the Agentic Development Lifecycle](../ai/agents/arxiv-2607-14390.md)
   - [Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It](../ai/agents/arxiv-2606-26027.md)
   - [Why Sampling Is Not Choosing: Intentionality, Agency, and Moral Responsibility in Large Language Models](../ai/agents/arxiv-2606-13441.md)
+  - [Why Software Factories Fail (or: harness engineering is not enough)](../ai/community/humanlayer-advanced-context-engineering-for-coding-agents.md)
   - [Will AI Agents Free Us From Meaningless Work? A Human-Centered Analysis](../ai/agents/arxiv-2606-12430.md)
   - [Will the Agent Recuse, and Will It Stop? Measuring LLM-Agent Compliance with In-Band Governance Signals at the Access Door and Mid-Flight](../ai/agents/arxiv-2606-06460.md)
   - [WinDOM: Self-Family Distillation for Small-Model GUI Grounding](../ai/agents/arxiv-2606-25964.md)
@@ -3133,13 +3134,12 @@ Resources organized by keyword tags.
 
   - [AI Companies Are Trying to Hide a Staggering Amount of Debt](../ai/community/ai-companies-are-trying-to-hide-a-staggering-amoun.md)
   - [DARPA, U.S. Air Force fly AI-controlled F-16](../ai/community/darpa-u-s-air-force-fly-ai-controlled-f-16.md)
-  - [Escape Analysis in Go: Stack vs. Heap Allocations Explained](../ai/community/escape-analysis-in-go-stack-vs-heap-allocations-ex.md)
-  - [Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency](../ai/community/hybrid-electric-aicraft-engine-targeting-30-fuel-e.md)
   - [OpenAI’s accidental attack against Hugging Face is science fiction that happened](../ai/community/openais-accidental-attack-against-hugging-face-is.md)
   - [Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents](../ai/community/onecli-onecli.md)
   - [Show HN: Palmier Pro – Open-source macOS video editor built for AI](../ai/trending/palmier-io-palmier-pro.md)
   - [Startup founders urge U.S. government not to shut off Chinese open weight AI](../ai/community/startup-founders-urge-trump-not-to-shut-off-chines.md)
   - [The arguments against open source AI are bad](../ai/community/the-arguments-against-open-source-ai-are-bad.md)
+  - [Why Software Factories Fail (or: harness engineering is not enough)](../ai/community/humanlayer-advanced-context-engineering-for-coding-agents.md)
   - [Writing by hand is good for your brain](../ai/community/writing-by-hand-is-good-for-your-brain.md)
 
 ## animation
@@ -9871,7 +9871,6 @@ Resources organized by keyword tags.
   - [Parameter-Efficient Adapter Tuning for Tabular-Image Multimodal Learning](../ai/research/arxiv-2606-11682.md)
   - [Parameter-Efficient Vision-Language Adaptation with Continuous Metadata Conditioning for Animal Re-Identification](../ai/research/arxiv-2607-09443.md)
   - [ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](../ai/research/arxiv-2606-04468.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pathways of Visual Information Flow in Vision-Language Models](../ai/research/arxiv-2607-03358.md)
   - [Pattern-Aware Graph Neural Networks for Handling Missing Data](../ai/rag/arxiv-2607-08915.md)
   - [Pediatric Bone Age Prediction Using Deep Learning](../ai/research/arxiv-2607-16936.md)
@@ -12654,7 +12653,6 @@ Resources organized by keyword tags.
   - [Equivariant Flow Matching for Symmetry-Breaking Bifurcation Problems](../ai/rag/arxiv-2509-03340.md)
   - [Erased but Not Forgotten: How Backdoors Compromise Concept Erasure](../ai/research/arxiv-2504-21072.md)
   - [Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](../ai/resources/eric-and-wendy-schmidt-ai-in-science-postdoctoral.md)
-  - [Escape Analysis in Go: Stack vs. Heap Allocations Explained](../ai/community/escape-analysis-in-go-stack-vs-heap-allocations-ex.md)
   - [Esri Developer](../ai/rag/esri-developer.md)
   - [Eta Given Delta: Defining LLM Tool Efficiency With Marginal Tool Utility](../ai/agents/arxiv-2607-14108.md)
   - [Ethics and AI | web.dev](../ai/resources/ethics-and-ai-web-dev.md)
@@ -12952,7 +12950,6 @@ Resources organized by keyword tags.
   - [Human-in-the-Loop Atlas-Based 3D Asset Segmentation for Interactive Content Workflows](../ai/research/arxiv-2606-17824.md)
   - [Human-in-the-Loop User Feedback Affects Perceived Accuracy and Trust, but Task Subjectivity Matters](../ai/research/arxiv-2607-17548.md)
   - [HyGRL: Adaptive Hybrid Graph Reasoning for Multi-Entity Questions](../ai/rag/arxiv-2607-19398.md)
-  - [Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency](../ai/community/hybrid-electric-aicraft-engine-targeting-30-fuel-e.md)
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
@@ -14032,6 +14029,7 @@ Resources organized by keyword tags.
   - [Who Pays the Price? Stakeholder-Centric Prompt Injection Benchmarking for Real-world Web Agents](../ai/agents/arxiv-2606-13385.md)
   - [Why Fast-Growing Teams Outgrow Spreadsheets | beezwax blog](../ai/rag/why-fast-growing-teams-outgrow-spreadsheets-beezwa.md)
   - [Why Git Is the Memory Solution for the Agentic Development Lifecycle](../ai/agents/arxiv-2607-14390.md)
+  - [Why Software Factories Fail (or: harness engineering is not enough)](../ai/community/humanlayer-advanced-context-engineering-for-coding-agents.md)
   - [Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda](../ai/research/arxiv-2607-05412.md)
   - [WiFi-Based People Counting Using Beam-Steerable Antennas: A Test-bed Study](../ai/research/arxiv-2606-23710.md)
   - [Wikidata](../ai/rag/wikidata.md)
@@ -14126,7 +14124,9 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
+  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -25612,7 +25612,6 @@ Resources organized by keyword tags.
   - [How we optimized Dash's relevance judge with DSPy - Dropbox](../ai/rag/how-we-optimized-dash-s-relevance-judge-with-dspy.md)
   - [How web bloat impacts users with slow connections](../ai/rag/how-web-bloat-impacts-users-with-slow-connections.md)
   - [Hugging Face · GitHub](../ai/agents/hugging-face-github.md)
-  - [Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency](../ai/community/hybrid-electric-aicraft-engine-targeting-30-fuel-e.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IPGP DATA CENTER](../ai/resources/ipgp-data-center.md)
   - [IPGP/EPOS Volcano Activity Reports Web Service | IPGP Data Center Web Services](../ai/resources/ipgp-epos-volcano-activity-reports-web-service-ipg.md)
@@ -26184,6 +26183,7 @@ Resources organized by keyword tags.
   - [Who Gets Missed in the Tail? Thresholded Subgroup Underdiagnosis in Long-Tailed Chest X-ray Classification](../ai/research/arxiv-2607-07717.md)
   - [Why Fast-Growing Teams Outgrow Spreadsheets | beezwax blog](../ai/rag/why-fast-growing-teams-outgrow-spreadsheets-beezwa.md)
   - [Why Low-Precision Transformer Training Fails: An Analysis on Flash Attention](../ai/research/arxiv-2510-04212.md)
+  - [Why Software Factories Fail (or: harness engineering is not enough)](../ai/community/humanlayer-advanced-context-engineering-for-coding-agents.md)
   - [WordPress Developer Resources | Developer.WordPress.org](../ai/resources/wordpress-developer-resources-developer-wordpress.md)
   - [WordPress.tv – WordPress-related videos curated and moderated by the WordPress.org community](../ai/resources/wordpress-tv-wordpress-related-videos-curated-and.md)
   - [Workflow SDK - Make any TypeScript Function Durable](../ai/rag/workflow-sdk-make-any-typescript-function-durable.md)
@@ -32171,4 +32171,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-24T04:02:33.198935+05:30*
+*Index generated on 2026-07-24T09:29:28.084207+05:30*
