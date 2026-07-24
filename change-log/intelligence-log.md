@@ -2,7 +2,7 @@
 
 This file tracks all chronological shifts, score changes, tier promotions, and deactivations.
 
-### Run: 2026-07-24T05:35:23.759436+05:30
+### Run: 2026-07-24T08:55:39.186753+05:30
 - **[New Discovery]** `langchain-ai/langgraph` registered with score `0` in `Agent Framework`
 - **[Rank Rise]** `cline/cline`: Rank rose by +965
 - **[Rank Rise]** `SylphAI-Inc/GithubChat`: Rank rose by +965
@@ -12769,33 +12769,21 @@ This file tracks all chronological shifts, score changes, tier promotions, and d
 - **[Rank Drop]** `Medium Privacy Policy | by Medium | Medium Policy`: Rank dropped by -7413
 - **[Rank Drop]** `stanford-oval/storm`: Rank dropped by -10597
 
-### Run: 2026-07-24T04:31:00.987274+05:30
-- **[New Discovery]** `Startup founders urge U.S. government not to shut off Chinese open weight AI` registered with score `615` in `ai/community`
-- **[New Discovery]** `OpenAI’s accidental attack against Hugging Face is science fiction that happened` registered with score `330` in `ai/community`
-- **[New Discovery]** `Escape Analysis in Go: Stack vs. Heap Allocations Explained` registered with score `22` in `ai/community`
+### Run: 2026-07-24T05:35:23.759436+05:30
 - **[New Discovery]** `langchain-ai/langgraph` registered with score `0` in `Agent Framework`
-- **[Score Increase]** `Writing by hand is good for your brain`: 634 -> 830 (+196)
-- **[Score Increase]** `AI Companies Are Trying to Hide a Staggering Amount of Debt`: 447 -> 542 (+95)
-- **[Score Increase]** `The arguments against open source AI are bad`: 92 -> 158 (+66)
-- **[Score Increase]** `DARPA, U.S. Air Force fly AI-controlled F-16`: 87 -> 140 (+53)
-- **[Score Increase]** `Show HN: Palmier Pro – Open-source macOS video editor built for AI`: 55 -> 99 (+44)
-- **[Score Increase]** `Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency`: 70 -> 79 (+9)
-- **[Score Increase]** `Learn WebGPU for C++`: 49 -> 70 (+21)
-- **[Score Increase]** `Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents`: 47 -> 65 (+18)
-- **[Score Increase]** `Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents`: 31 -> 46 (+15)
-- **[Rank Rise]** `Show HN: Palmier Pro – Open-source macOS video editor built for AI`: Rank rose by +1
-- **[Rank Rise]** `codebasics/ai-agents`: Rank rose by +1993
-- **[Rank Rise]** `czl9707/build-your-own-openclaw`: Rank rose by +2248
-- **[Rank Rise]** `ParticleMedia/RAGTruth`: Rank rose by +963
-- **[Rank Rise]** `raganwald/raganwald.github.com`: Rank rose by +963
-- **[Rank Rise]** `mergisi/awesome-openclaw-agents`: Rank rose by +963
-- **[Rank Rise]** `MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials`: Rank rose by +963
-- **[Rank Rise]** `microsoft/agentsleague`: Rank rose by +963
-- **[Rank Rise]** `wgcyeo/UniversalRAG`: Rank rose by +963
-- **[Rank Rise]** `bakrianoo/mini-rag`: Rank rose by +963
-- **[Rank Rise]** `sleeepeer/PoisonedRAG`: Rank rose by +963
-- **[Rank Rise]** `IBM/mt-rag-benchmark`: Rank rose by +963
-- **[Rank Rise]** `IAAR-Shanghai/CRUD_RAG`: Rank rose by +963
+- **[Rank Rise]** `cline/cline`: Rank rose by +965
+- **[Rank Rise]** `SylphAI-Inc/GithubChat`: Rank rose by +965
+- **[Rank Rise]** `ParticleMedia/RAGTruth`: Rank rose by +965
+- **[Rank Rise]** `raganwald/raganwald.github.com`: Rank rose by +965
+- **[Rank Rise]** `mergisi/awesome-openclaw-agents`: Rank rose by +965
+- **[Rank Rise]** `MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials`: Rank rose by +965
+- **[Rank Rise]** `microsoft/agentsleague`: Rank rose by +965
+- **[Rank Rise]** `wgcyeo/UniversalRAG`: Rank rose by +965
+- **[Rank Rise]** `bakrianoo/mini-rag`: Rank rose by +965
+- **[Rank Rise]** `sleeepeer/PoisonedRAG`: Rank rose by +965
+- **[Rank Rise]** `IBM/mt-rag-benchmark`: Rank rose by +965
+- **[Rank Rise]** `IAAR-Shanghai/CRUD_RAG`: Rank rose by +965
+- **[Rank Rise]** `RUC-NLPIR/FlashRAG`: Rank rose by +13715
 - **[Rank Rise]** `coree/awesome-rag`: Rank rose by +964
 - **[Rank Rise]** `zhengxuJosh/Awesome-RAG-Vision`: Rank rose by +964
 - **[Rank Rise]** `Azure-Samples/chat-with-your-data-solution-accelerator`: Rank rose by +964
@@ -13626,7 +13614,7 @@ This file tracks all chronological shifts, score changes, tier promotions, and d
 - **[Rank Rise]** `Overview - Knative`: Rank rose by +964
 - **[Rank Rise]** `android-bench/android-bench`: Rank rose by +964
 - **[Rank Rise]** `LangSmith Global / GCP US Status`: Rank rose by +964
-- **[Rank Rise]** `Medium`: Rank rose by +12886
+- **[Rank Rise]** `Medium`: Rank rose by +12885
 - **[Rank Rise]** `Google Play Developer APIs | Other Play guides | Android Developers`: Rank rose by +963
 - **[Rank Rise]** `Sign in - Google Accounts`: Rank rose by +963
 - **[Rank Rise]** `Streamlined Arbitration Rules & Procedures | JAMS Mediation, Arbitration, ADR Services`: Rank rose by +963
@@ -13714,357 +13702,356 @@ This file tracks all chronological shifts, score changes, tier promotions, and d
 - **[Rank Rise]** `run-llama/llama_index`: Rank rose by +963
 - **[Rank Rise]** `pinecone-io/canopy`: Rank rose by +963
 - **[Rank Rise]** `deepset-ai/haystack`: Rank rose by +963
-- **[Rank Rise]** `infiniflow/ragflow`: Rank rose by +12797
-- **[Rank Rise]** `alexfazio/crewAI-quickstart`: Rank rose by +962
-- **[Rank Rise]** `adongwanai/AgentGuide`: Rank rose by +962
-- **[Rank Rise]** `tonykipkemboi/trip_planner_agent`: Rank rose by +962
-- **[Rank Rise]** `hectorpine/multiple-model-crew`: Rank rose by +962
-- **[Rank Rise]** `crewAIInc/crewAI-tools`: Rank rose by +962
-- **[Rank Rise]** `crewAIInc/crewAI`: Rank rose by +962
-- **[Rank Rise]** `liangdabiao/easy_investment_Agent_crewai`: Rank rose by +962
-- **[Rank Rise]** `The-Swarm-Corporation/Multi-Agent-RAG-Template`: Rank rose by +962
-- **[Rank Rise]** `The-Swarm-Corporation/Multi-Agent-Template-App`: Rank rose by +962
-- **[Rank Rise]** `scotthavird/crewai-template`: Rank rose by +962
-- **[Rank Rise]** `pingwu/crewai-similar-framework-finder-template`: Rank rose by +962
-- **[Rank Rise]** `muhammad-uzair-yasin/CrewAi_starter_template`: Rank rose by +962
-- **[Rank Rise]** `datarobot-community/datarobot-agent-templates`: Rank rose by +962
-- **[Rank Rise]** `braincrew-lab/langgraph-mcp-agents`: Rank rose by +962
-- **[Rank Rise]** `BrandPeng/Langchain1.0-Langgraph1.0-Learning`: Rank rose by +962
-- **[Rank Rise]** `masumi-network/crewai-masumi-quickstart-template`: Rank rose by +962
-- **[Rank Rise]** `vin67/crewai_docker`: Rank rose by +962
-- **[Rank Rise]** `langchain-ai/langgraphjs`: Rank rose by +962
-- **[Rank Rise]** `google-gemini/gemini-fullstack-langgraph-quickstart`: Rank rose by +962
-- **[Rank Rise]** `JoshuaC215/agent-service-toolkit`: Rank rose by +962
-- **[Rank Rise]** `mayooear/ai-pdf-chatbot-langchain`: Rank rose by +962
-- **[Rank Rise]** `langchain-ai/langgraph`: Rank rose by +962
-- **[Rank Rise]** `langchain-ai/data-enrichment`: Rank rose by +962
-- **[Rank Rise]** `lgesuellip/langgraph-whatsapp-agent`: Rank rose by +962
-- **[Rank Rise]** `langchain-ai/new-langgraphjs-project`: Rank rose by +962
-- **[Rank Rise]** `TauricResearch/TradingAgents`: Rank rose by +962
-- **[Rank Rise]** `vonzosten/awesome-LangGraph`: Rank rose by +962
-- **[Rank Rise]** `esxr/langgraph-mcp`: Rank rose by +962
-- **[Rank Rise]** `langchain-ai/langchain`: Rank rose by +962
-- **[Rank Rise]** `cloudflare/agentic-inbox`: Rank rose by +962
-- **[Rank Rise]** `transitive-bullshit/agentic`: Rank rose by +962
-- **[Rank Rise]** `sickn33/agentic-awesome-skills`: Rank rose by +962
-- **[Rank Rise]** `The-Pocket/PocketFlow-Template-Python`: Rank rose by +962
-- **[Rank Rise]** `langchain-ai/react-agent`: Rank rose by +962
-- **[Rank Rise]** `aiwaves-cn/agents`: Rank rose by +962
-- **[Rank Rise]** `odsc2015/agentic-hackathon-template`: Rank rose by +962
-- **[Rank Rise]** `Polymarket/agents`: Rank rose by +962
-- **[Rank Rise]** `virattt/dexter`: Rank rose by +962
-- **[Rank Rise]** `daveshap/OpenAI_Agent_Swarm`: Rank rose by +962
-- **[Rank Rise]** `SamuelSchmidgall/AgentLaboratory`: Rank rose by +962
-- **[Rank Rise]** `secret-mars/loop-starter-kit`: Rank rose by +962
-- **[Rank Rise]** `wxmb01/codex-app-autonomous-runs`: Rank rose by +962
-- **[Rank Rise]** `cmAIdx/headless-claude-automation-template`: Rank rose by +962
-- **[Rank Rise]** `airalab/autonomous_agent_template`: Rank rose by +962
-- **[Rank Rise]** `Senpi-ai/senpi-skills`: Rank rose by +962
-- **[Rank Rise]** `freddy-schuetz/n8n-claw`: Rank rose by +962
-- **[Rank Rise]** `gptme/gptme-agent-template`: Rank rose by +962
-- **[Rank Rise]** `daimon111/daimon-template`: Rank rose by +962
-- **[Rank Rise]** `earendil-works/pi`: Rank rose by +962
-- **[Rank Rise]** `NousResearch/hermes-agent`: Rank rose by +962
-- **[Rank Rise]** `PentesterFlow/agent`: Rank rose by +962
-- **[Rank Rise]** `addyosmani/agent-skills`: Rank rose by +962
-- **[Rank Rise]** `reworkd/AgentGPT`: Rank rose by +962
-- **[Rank Rise]** `FlowiseAI/Flowise`: Rank rose by +962
-- **[Rank Rise]** `microsoft/ai-agents-for-beginners`: Rank rose by +962
-- **[Rank Rise]** `NVISOsecurity/cyber-security-llm-agents`: Rank rose by +962
-- **[Rank Rise]** `Leonxlnx/agentic-ai-prompt-research`: Rank rose by +962
-- **[Rank Rise]** `0xSteph/pentest-ai-agents`: Rank rose by +962
-- **[Rank Rise]** `NVIDIA/SkillSpector`: Rank rose by +962
-- **[Rank Rise]** `elder-plinius/T3MP3ST`: Rank rose by +962
-- **[Rank Rise]** `msoedov/agentic_security`: Rank rose by +962
-- **[Rank Rise]** `0x4m4/hexstrike-ai`: Rank rose by +962
-- **[Rank Rise]** `TheAgentCompany/TheAgentCompany`: Rank rose by +962
-- **[Rank Rise]** `facebookresearch/MLGym`: Rank rose by +962
-- **[Rank Rise]** `AgentOps-AI/agentops`: Rank rose by +962
-- **[Rank Rise]** `sierra-research/tau2-bench`: Rank rose by +962
-- **[Rank Rise]** `run-llama/ParseBench`: Rank rose by +962
-- **[Rank Rise]** `rohitg00/agentmemory`: Rank rose by +962
-- **[Rank Rise]** `steel-dev/awesome-web-agents`: Rank rose by +962
-- **[Rank Rise]** `awesome-opencode/awesome-opencode`: Rank rose by +962
-- **[Rank Rise]** `EvanThomasLuke/Awesome-AI-Hacking-Agents`: Rank rose by +962
-- **[Rank Rise]** `caramaschiHG/awesome-ai-agents-2026`: Rank rose by +962
-- **[Rank Rise]** `Prat011/awesome-llm-skills`: Rank rose by +962
-- **[Rank Rise]** `e2b-dev/awesome-ai-agents`: Rank rose by +962
-- **[Rank Rise]** `slavakurilyak/awesome-ai-agents`: Rank rose by +962
-- **[Rank Rise]** `DeckardGer/tanstack-agent-skills`: Rank rose by +962
-- **[Rank Rise]** `MuhammadUsmanGM/claude-code-best-practices`: Rank rose by +962
-- **[Rank Rise]** `yzfly/awesome-voice-agents`: Rank rose by +962
-- **[Rank Rise]** `HoangNguyen0403/agent-skills-standard`: Rank rose by +962
-- **[Rank Rise]** `shanraisshan/codex-cli-best-practice`: Rank rose by +962
-- **[Rank Rise]** `Sri-Krishna-V/awesome-adk-agents`: Rank rose by +962
-- **[Rank Rise]** `greensock/gsap-skills`: Rank rose by +962
-- **[Rank Rise]** `AvdLee/SwiftUI-Agent-Skill`: Rank rose by +962
-- **[Rank Rise]** `shanraisshan/claude-code-best-practice`: Rank rose by +962
-- **[Rank Rise]** `kylestratis/ai_agents_mcp_examples`: Rank rose by +962
-- **[Rank Rise]** `viktoriasemaan/multi-agent`: Rank rose by +962
-- **[Rank Rise]** `WenyuChiou/awesome-agentic-ai-zh`: Rank rose by +962
-- **[Rank Rise]** `huangjia2019/ai-agents`: Rank rose by +962
-- **[Rank Rise]** `TEN-framework/ten-framework`: Rank rose by +962
-- **[Rank Rise]** `airweave-ai/airweave`: Rank rose by +962
-- **[Rank Rise]** `coleam00/ottomator-agents`: Rank rose by +962
-- **[Rank Rise]** `continuedev/continue`: Rank rose by +962
-- **[Rank Rise]** `vercel-labs/workflow-builder-template`: Rank rose by +962
-- **[Rank Rise]** `vercel-labs/coding-agent-template`: Rank rose by +962
-- **[Rank Rise]** `wassim249/fastapi-langgraph-agent-production-ready-template`: Rank rose by +962
-- **[Rank Rise]** `vercel-labs/open-agents`: Rank rose by +962
-- **[Rank Rise]** `JCodesMore/ai-website-cloner-template`: Rank rose by +963
-- **[Rank Rise]** `daveebbelaar/ai-cookbook`: Rank rose by +963
-- **[Rank Rise]** `ghuntley/how-to-build-a-coding-agent`: Rank rose by +963
-- **[Rank Rise]** `didilili/ai-agents-from-zero`: Rank rose by +963
-- **[Rank Rise]** `idosal/git-mcp`: Rank rose by +963
-- **[Rank Rise]** `Code-and-Sorts/awesome-copilot-agents`: Rank rose by +963
-- **[Rank Rise]** `NirDiamant/GenAI_Agents`: Rank rose by +963
-- **[Rank Rise]** `hoodini/ai-agents-skills`: Rank rose by +963
-- **[Rank Rise]** `affaan-m/agentshield`: Rank rose by +963
-- **[Rank Rise]** `duanyytop/agents-radar`: Rank rose by +963
-- **[Rank Rise]** `Fosowl/agenticSeek`: Rank rose by +963
-- **[Rank Rise]** `TIGER-AI-Lab/VLM2Vec`: Rank rose by +963
-- **[Rank Rise]** `github/awesome-copilot`: Rank rose by +963
-- **[Rank Rise]** `VoltAgent/awesome-ai-agent-papers`: Rank rose by +963
-- **[Rank Rise]** `DavidZWZ/Awesome-Deep-Research`: Rank rose by +963
-- **[Rank Rise]** `XMUDeepLIT/MemGraphRAG`: Rank rose by +963
-- **[Rank Rise]** `KnowledgeXLab/LeanRAG`: Rank rose by +963
-- **[Rank Rise]** `TencentCloudADP/youtu-graphrag`: Rank rose by +963
-- **[Rank Rise]** `DEEP-PolyU/LinearRAG`: Rank rose by +963
-- **[Rank Rise]** `EternityJune25/ComoRAG`: Rank rose by +963
-- **[Rank Rise]** `HKUDS/VideoRAG`: Rank rose by +963
-- **[Rank Rise]** `SciPhi-AI/R2R`: Rank rose by +963
-- **[Rank Rise]** `ray-project/llm-applications`: Rank rose by +963
-- **[Rank Rise]** `apecloud/ApeRAG`: Rank rose by +963
-- **[Rank Rise]** `KruxAI/ragbuilder`: Rank rose by +963
-- **[Rank Rise]** `NirDiamant/agents-towards-production`: Rank rose by +963
-- **[Rank Rise]** `techwithtim/ProductionGradeRAGPythonApp`: Rank rose by +963
-- **[Rank Rise]** `towardsai/ragbook-notebooks`: Rank rose by +963
-- **[Rank Rise]** `jamwithai/production-agentic-rag-course`: Rank rose by +963
-- **[Rank Rise]** `raga-ai-hub/raga-llm-hub`: Rank rose by +963
-- **[Rank Rise]** `olegnazarov/rag-security-scanner`: Rank rose by +963
-- **[Rank Rise]** `CyberSunil/LLMVault`: Rank rose by +963
-- **[Rank Rise]** `devloperdevesh/EnterpriseRAG-AI`: Rank rose by +963
-- **[Rank Rise]** `Ais1on/CTI-RAG`: Rank rose by +963
-- **[Rank Rise]** `IntelLabs/fastRAG`: Rank rose by +963
-- **[Rank Rise]** `SecurityClaw/SecurityClaw`: Rank rose by +963
-- **[Rank Rise]** `PierreGode/Ragnar`: Rank rose by +963
-- **[Rank Rise]** `QuivrHQ/quivr`: Rank rose by +963
-- **[Rank Rise]** `modelscope/evalscope`: Rank rose by +963
-- **[Rank Rise]** `naver/bergen`: Rank rose by +963
-- **[Rank Rise]** `onyx-dot-app/EnterpriseRAG-Bench`: Rank rose by +963
-- **[Rank Rise]** `facebookresearch/CRAG`: Rank rose by +963
-- **[Rank Rise]** `GraphRAG-Bench/GraphRAG-Benchmark`: Rank rose by +963
-- **[Rank Rise]** `topoteretes/awesome-ai-memory`: Rank rose by +963
-- **[Rank Rise]** `felladrin/awesome-ai-web-search`: Rank rose by +963
-- **[Rank Rise]** `jxzhangjhu/Awesome-LLM-RAG`: Rank rose by +963
-- **[Rank Rise]** `alvinreal/awesome-opensource-ai`: Rank rose by +963
-- **[Rank Rise]** `DEEP-PolyU/Awesome-GraphRAG`: Rank rose by +963
-- **[Rank Rise]** `Azure/agent-innovator-lab`: Rank rose by +963
-- **[Rank Rise]** `hllqkb/Spring-AI-Ailibaba-Best-Practices`: Rank rose by +963
-- **[Rank Rise]** `Danielskry/Awesome-RAG`: Rank rose by +963
-- **[Rank Rise]** `decodingai-magazine/llm-twin-course`: Rank rose by +963
-- **[Rank Rise]** `ali-bahrainian/RAG_best_practices`: Rank rose by +963
-- **[Rank Rise]** `Yigtwxx/awesome-rag-production`: Rank rose by +963
-- **[Rank Rise]** `chaoql/rag-best-practices`: Rank rose by +963
-- **[Rank Rise]** `aws-samples/amazon-bedrock-samples`: Rank rose by +963
-- **[Rank Rise]** `PacktPublishing/LLM-Engineers-Handbook`: Rank rose by +963
-- **[Rank Rise]** `bangoc123/retrieval-backend-with-rag`: Rank rose by +963
-- **[Rank Rise]** `nicknochnack/Llama2RAG`: Rank rose by +963
-- **[Rank Rise]** `Azure-Samples/aisearch-openai-rag-audio`: Rank rose by +963
-- **[Rank Rise]** `streamlit/example-app-langchain-rag`: Rank rose by +963
-- **[Rank Rise]** `alfredodeza/azure-rag`: Rank rose by +963
-- **[Rank Rise]** `eosphoros-ai/DB-GPT`: Rank rose by +963
-- **[Rank Rise]** `pinecone-io/examples`: Rank rose by +963
-- **[Rank Rise]** `NVIDIA/workbench-example-hybrid-rag`: Rank rose by +963
-- **[Rank Rise]** `NVIDIA/workbench-example-agentic-rag`: Rank rose by +963
-- **[Rank Rise]** `onyx-dot-app/onyx`: Rank rose by +963
-- **[Rank Rise]** `Tencent/WeKnora`: Rank rose by +963
-- **[Rank Rise]** `opendataloader-project/opendataloader-pdf`: Rank rose by +963
-- **[Rank Rise]** `gabrielchua/RAGxplorer`: Rank rose by +963
-- **[Rank Rise]** `HKUDS/MiniRAG`: Rank rose by +963
-- **[Rank Rise]** `ConardLi/garden-skills`: Rank rose by +963
-- **[Rank Rise]** `microsoft/promptflow-rag-project-template`: Rank rose by +963
-- **[Rank Rise]** `Cinnamon/kotaemon`: Rank rose by +963
-- **[Rank Rise]** `pathwaycom/llm-app`: Rank rose by +963
-- **[Rank Rise]** `elizaOS/eliza`: Rank rose by +963
-- **[Rank Rise]** `stackitcloud/rag-template`: Rank rose by +963
-- **[Rank Rise]** `Azure/GenAIOps-project-template`: Rank rose by +963
-- **[Rank Rise]** `vercel-labs/ai-sdk-preview-rag`: Rank rose by +963
-- **[Rank Rise]** `ritik-prog/n8n-automation-templates-5000`: Rank rose by +963
-- **[Rank Rise]** `langchain-ai/rag-research-agent-template`: Rank rose by +963
-- **[Rank Rise]** `vstorm-co/full-stack-ai-agent-template`: Rank rose by +963
-- **[Rank Rise]** `enescingoz/awesome-n8n-templates`: Rank rose by +963
-- **[Rank Rise]** `techwithtim/Langflow-RAG-Tutorial`: Rank rose by +963
-- **[Rank Rise]** `rsrohan99/rag-stream-intermediate-events-tutorial`: Rank rose by +963
-- **[Rank Rise]** `lancedb/vectordb-recipes`: Rank rose by +963
-- **[Rank Rise]** `pguso/rag-from-scratch`: Rank rose by +963
-- **[Rank Rise]** `krishnaik06/RAG-Tutorials`: Rank rose by +963
-- **[Rank Rise]** `pixegami/rag-tutorial-v2`: Rank rose by +963
-- **[Rank Rise]** `datawhalechina/hello-agents`: Rank rose by +963
-- **[Rank Rise]** `NirDiamant/RAG_Techniques`: Rank rose by +963
-- **[Rank Rise]** `pixegami/langchain-rag-tutorial`: Rank rose by +963
-- **[Rank Rise]** `patchy631/ai-engineering-hub`: Rank rose by +963
-- **[Rank Rise]** `The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte`: Rank rose by +963
-- **[Rank Rise]** `RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug`: Rank rose by +963
-- **[Rank Rise]** `Complete RAG Tutorial 2025: Build AI Apps with Retrieval Augmented Generation - YouTube`: Rank rose by +963
-- **[Rank Rise]** `Using a knowledge graph to implement a RAG application`: Rank rose by +963
-- **[Rank Rise]** `RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog`: Rank rose by +963
-- **[Rank Rise]** `Unlocking the power of unstructured data with RAG - The GitHub Blog`: Rank rose by +963
-- **[Rank Rise]** `dannyblaker/rag-tutorial`: Rank rose by +963
-- **[Rank Rise]** `Andrew-Jang/RAGHub`: Rank rose by +963
-- **[Rank Rise]** `analyticsworld1/RAG_Techniques2025-main`: Rank rose by +963
-- **[Rank Rise]** `7 Best GitHub Repositories For Mastering RAG Systems`: Rank rose by +963
-- **[Rank Rise]** `The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all`: Rank rose by +963
-- **[Rank Rise]** `The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar`: Rank rose by +963
-- **[Rank Rise]** `FlagOpen/FlagEmbedding`: Rank rose by +963
-- **[Rank Rise]** `The Linux Kernel documentation — The Linux Kernel documentation`: Rank rose by +963
-- **[Rank Rise]** `sphinx-doc/sphinx`: Rank rose by +963
-- **[Rank Rise]** `3.14.6 Documentation`: Rank rose by +963
-- **[Rank Rise]** `Medium/medium-policy`: Rank rose by +963
-- **[Rank Rise]** `mixedbread-ai/skills`: Rank rose by +963
-- **[Rank Rise]** `Agentic Infrastructure - Vercel`: Rank rose by +963
-- **[Rank Rise]** `Researching with GitHub Copilot CLI - GitHub Docs`: Rank rose by +963
-- **[Rank Rise]** `dblp: computer science bibliography`: Rank rose by +963
-- **[Rank Rise]** `Workplace Conflict Resolution & Organizational Development | JAMS Pathways`: Rank rose by +963
-- **[Rank Rise]** `GitHub Copilot CLI command reference - GitHub Docs`: Rank rose by +963
-- **[Rank Rise]** `Web preferences - Opera Help`: Rank rose by +963
-- **[Rank Rise]** `Client Challenge`: Rank rose by +963
-- **[Rank Rise]** `Frederik Braun: A CDN that can not XSS you: Using Subresource Integrity`: Rank rose by +963
-- **[Rank Rise]** `SRI Hash Generator`: Rank rose by +963
-- **[Rank Rise]** `SpeechifyAI - Voice AI Research Lab`: Rank rose by +963
-- **[Rank Rise]** `SpeechifyAI Agents: Real-Time Voice AI Overview | SpeechifyAI API`: Rank rose by +963
-- **[Rank Rise]** `Deed - Attribution 4.0 International - Creative Commons`: Rank rose by +963
-- **[Rank Rise]** `HTML Standard`: Rank rose by +963
-- **[Rank Rise]** `CommonMark Spec`: Rank rose by +963
-- **[Rank Rise]** `Fast Open-Source OLAP DBMS | ClickHouse`: Rank rose by +963
-- **[Rank Rise]** `The Exclusive Home of NFL Sunday Ticket - YouTube & YouTube TV`: Rank rose by +963
-- **[Rank Rise]** `[2312.15503] Llama2Vec: Unsupervised Adaptation of Large Language Models for Dense Retrieval`: Rank rose by +963
-- **[Rank Rise]** `sentence-transformers/examples/sentence_transformer/applications/retrieve_rerank/in_document_search_crossencoder.py at m`: Rank rose by +963
-- **[Rank Rise]** `castorini/pyserini`: Rank rose by +963
-- **[Rank Rise]** `Sphinx — Sphinx documentation`: Rank rose by +963
-- **[Rank Rise]** `SOC for Service Organizations Engagements – Overview | Resources | AICPA & CIMA`: Rank rose by +963
-- **[Rank Rise]** `cli/cli`: Rank rose by +963
-- **[Rank Rise]** `Copilot CLI sessions in Visual Studio Code`: Rank rose by +963
-- **[Rank Rise]** `[1603.09320] Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs`: Rank rose by +963
-- **[Rank Rise]** `Permissions | Node.js v26.5.0 Documentation`: Rank rose by +963
-- **[Rank Rise]** `Open Hugo Sponsorship Slot`: Rank rose by +963
-- **[Rank Rise]** `GitHub Flavored Markdown Spec`: Rank rose by +963
-- **[Rank Rise]** `gradio-app/gradio`: Rank rose by +963
-- **[Rank Rise]** `Langfuse`: Rank rose by +963
-- **[Rank Rise]** `Chroma - YouTube`: Rank rose by +963
-- **[Rank Rise]** `sentence-transformers/examples/cross_encoder/training/ms_marco at main · huggingface/sentence-transformers · GitHub`: Rank rose by +963
-- **[Rank Rise]** `microsoft/MSMARCO-Passage-Ranking`: Rank rose by +963
-- **[Rank Rise]** `Boost Your Search With The Crispy Mixedbread Rerank Models`: Rank rose by +963
-- **[Rank Rise]** `Retrieve & Re-Rank — Sentence Transformers documentation`: Rank rose by +963
-- **[Rank Rise]** `xenova/transformers.js`: Rank rose by +963
-- **[Rank Rise]** `Azure/azure-search-vector-samples`: Rank rose by +963
-- **[Rank Rise]** `Overview - Mixedbread`: Rank rose by +963
-- **[Rank Rise]** `GitHub Security · GitHub`: Rank rose by +963
-- **[Rank Rise]** `GitHub Copilot CLI · GitHub`: Rank rose by +963
-- **[Rank Rise]** `MongoDB Vector Search | MongoDB`: Rank rose by +963
-- **[Rank Rise]** `GitHub CLI | Take GitHub to the command line`: Rank rose by +963
-- **[Rank Rise]** `Story’s detailed stats page – Medium Help Center`: Rank rose by +963
-- **[Rank Rise]** `GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub`: Rank rose by +963
-- **[Rank Rise]** `deepset-ai/haystack-cookbook`: Rank rose by +963
-- **[Rank Rise]** `run-llama/llama-cloud-ts`: Rank rose by +963
-- **[Rank Rise]** `hub-docs/docs/hub/spaces.md at main · huggingface/hub-docs · GitHub`: Rank rose by +963
-- **[Rank Rise]** `Gradio`: Rank rose by +963
-- **[Rank Rise]** `What's Haystack Enterprise Platform? | Haystack Enterprise Platform Documentation`: Rank rose by +963
-- **[Rank Rise]** `DevOps Tutorial - GeeksforGeeks`: Rank rose by +963
-- **[Rank Rise]** `Machine Learning Tutorial - GeeksforGeeks`: Rank rose by +963
-- **[Rank Rise]** `Enterprise - Chroma`: Rank rose by +963
-- **[Rank Rise]** `DSA Tutorial - GeeksforGeeks`: Rank rose by +963
-- **[Rank Rise]** `chroma-core/chroma`: Rank rose by +963
-- **[Rank Rise]** `Chroma - open-source search infrastructure for AI`: Rank rose by +963
-- **[Rank Rise]** `VivekMalhan666/Toasts-library`: Rank rose by +963
-- **[Rank Rise]** `🧑‍🍳 Cookbook | Haystack`: Rank rose by +963
-- **[Rank Rise]** `Spaces · Hugging Face`: Rank rose by +963
-- **[Rank Rise]** `tomasonjo/langchain-neo4j`: Rank rose by +963
-- **[Rank Rise]** `crazyaiml/attribute-knowledge-rag`: Rank rose by +963
-- **[Rank Rise]** `Job-a-Thon`: Rank rose by +963
-- **[Rank Rise]** `Pretrained Models — Sentence Transformers documentation`: Rank rose by +963
-- **[Rank Rise]** `VivekMalhan666/rag-beginner-guide`: Rank rose by +963
-- **[Rank Rise]** `crazyaiml/Superml.DataTruth`: Rank rose by +963
-- **[Rank Rise]** `Vivek Malhan — Full Cycle Developer`: Rank rose by +963
-- **[Rank Rise]** `facebookresearch/faiss`: Rank rose by +963
-- **[Rank Rise]** `Introduction to Haystack | Haystack Documentation`: Rank rose by +964
-- **[Rank Rise]** `Haystack | Haystack`: Rank rose by +964
-- **[Rank Rise]** `pathwaycom/pathway`: Rank rose by +964
-- **[Rank Rise]** `crewAIInc/awesome-crewai`: Rank rose by +964
-- **[Rank Rise]** `LangChain-OpenTutorial/LangChain-OpenTutorial`: Rank rose by +964
-- **[Rank Rise]** `NicholasGoh/fastapi-mcp-langgraph-template`: Rank rose by +964
-- **[Rank Rise]** `coleam00/agentic-chat-application-template`: Rank rose by +964
-- **[Rank Rise]** `agent0ai/agent-zero`: Rank rose by +964
-- **[Rank Rise]** `mvanhorn/clawdbot-skill-manus`: Rank rose by +964
-- **[Rank Rise]** `h1papc11/healthcare-ai-agent-vault`: Rank rose by +964
-- **[Rank Rise]** `TracecatHQ/tracecat`: Rank rose by +964
-- **[Rank Rise]** `openai/mle-bench`: Rank rose by +964
-- **[Rank Rise]** `Doorman11991/smallcode`: Rank rose by +964
-- **[Rank Rise]** `yzhao062/pyod`: Rank rose by +964
-- **[Rank Rise]** `kyrolabs/awesome-agents`: Rank rose by +964
-- **[Rank Rise]** `ashishpatel26/500-AI-Agents-Projects`: Rank rose by +964
-- **[Rank Rise]** `langchain-ai/open-swe`: Rank rose by +964
-- **[Rank Rise]** `vercel/ai`: Rank rose by +964
-- **[Rank Rise]** `Phala-Network/ai-agent-template-openai`: Rank rose by +964
-- **[Rank Rise]** `pguso/ai-agents-from-scratch`: Rank rose by +964
-- **[Rank Rise]** `coleam00/pydantic-ai-github-agent`: Rank rose by +964
-- **[Rank Rise]** `RAG System with LangChain and LangGraph - GeeksforGeeks`: Rank rose by +964
-- **[Rank Rise]** `RAG with Deep Agents - Docs by LangChain`: Rank rose by +964
-- **[Rank Rise]** `Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech`: Rank rose by +964
-- **[Rank Rise]** `RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org`: Rank rose by +964
-- **[Rank Rise]** `RAG Techniques, Beginner to Advanced: Practical Patterns, Code, and Resources | martinuke0's Blog`: Rank rose by +964
-- **[Rank Rise]** `RAG (Retrieval Augmented Generation) Guide 2025: Implementation, Vector Databases & Best Practices`: Rank rose by +964
-- **[Rank Rise]** `Technion Live Hebrew Edition - Registration Form`: Rank rose by +964
-- **[Rank Rise]** `הטכניון - מכון טכנולוגי לישראל`: Rank rose by +964
-- **[Rank Rise]** `Web Accessibility Assistance – Cornell University Library`: Rank rose by +964
-- **[Rank Rise]** `Soundwaves settle debate about elusive quantum particle | Cornell Chronicle`: Rank rose by +964
-- **[Rank Rise]** `Home - Cornell Research & Innovation`: Rank rose by +964
-- **[Rank Rise]** `Research | Cornell University`: Rank rose by +964
-- **[Rank Rise]** `Cornell Data Services`: Rank rose by +964
-- **[Rank Rise]** `Guide to Using RASS & PI Dashboard | Documentation & Training`: Rank rose by +964
-- **[Rank Rise]** `TecharoHQ/anubis`: Rank rose by +964
-- **[Rank Rise]** `CompSust-2023: 2023 NeurIPS Workshop on Computational Sustainability: Pitfalls and Promises from Theory to Deployment`: Rank rose by +964
-- **[Rank Rise]** `CompSustNet: Home`: Rank rose by +964
-- **[Rank Rise]** `NSF Expeditions in Computing: Computational Sustainability`: Rank rose by +964
-- **[Rank Rise]** `Welcome | Lab of Atomic of Solid State Physics (LASSP)`: Rank rose by +964
-- **[Rank Rise]** `Centers Archive - Cornell Research & Innovation`: Rank rose by +964
-- **[Rank Rise]** `Home | Cornell Research Services`: Rank rose by +964
-- **[Rank Rise]** `17 U.S. Code § 107 - Limitations on exclusive rights: Fair use | U.S. Code | US Law | LII / Legal Information Institute`: Rank rose by +964
-- **[Rank Rise]** `17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information`: Rank rose by +964
-- **[Rank Rise]** `Unintended Consequences: Twelve Years under the DMCA | Electronic Frontier Foundation`: Rank rose by +964
-- **[Rank Rise]** `Section 1201 Study | U.S. Copyright Office`: Rank rose by +964
-- **[Rank Rise]** `GitHub Code Security · GitHub`: Rank rose by +964
-- **[Rank Rise]** `GitHub Security Lab | Securing open source software, together.`: Rank rose by +964
-- **[Rank Rise]** `Cloudflare Careers | Cloudflare`: Rank rose by +964
-- **[Rank Rise]** `Careers at Cloudflare â Open Positions | Cloudflare`: Rank rose by +964
-- **[Rank Rise]** `GDPR FAQs | Cloudflare`: Rank rose by +964
-- **[Rank Rise]** `weaviate/weaviate`: Rank rose by +964
-- **[Rank Rise]** `Delta Channels: How We’re Evolving our Runtime for Long-Running Agents`: Rank rose by +964
-- **[Rank Rise]** `Project Jupyter Documentation — Jupyter Documentation 4.1.1 alpha documentation`: Rank rose by +964
-- **[Rank Rise]** `Render`: Rank rose by +964
-- **[Rank Rise]** `How does GitHub compare to other DevOps tools? · GitHub`: Rank rose by +964
-- **[Rank Rise]** `Digital Millennium Copyright Act - Wikipedia`: Rank rose by +964
-- **[Rank Rise]** `firecrawl repositories · GitHub`: Rank rose by +964
-- **[Rank Rise]** `llama-index · PyPI`: Rank rose by +964
-- **[Rank Rise]** `run-llama/LlamaIndexTS`: Rank rose by +964
-- **[Rank Rise]** `deepset · GitHub`: Rank rose by +964
-- **[Rank Rise]** `DagsHub`: Rank rose by +964
-- **[Rank Rise]** `DagsHub - YouTube`: Rank rose by +964
-- **[Rank Rise]** `Cloudflare Research`: Rank rose by +964
-- **[Rank Rise]** `gothinkster/realworld`: Rank rose by +964
-- **[Rank Rise]** `Getting Started - Chroma Docs`: Rank rose by +964
-- **[Rank Rise]** `Verba: Building an Open Source, Modular RAG Application | Weaviate`: Rank rose by +964
-- **[Rank Rise]** `pgvector/pgvector`: Rank rose by +964
-- **[Rank Rise]** `AI & Vectors | Supabase Docs`: Rank rose by +964
-- **[Rank Rise]** `Top Open Source Github Repositories for creating your own RAG | Resemble AI`: Rank rose by +964
-- **[Rank Rise]** `neuml/txtai`: Rank rose by +964
-- **[Rank Rise]** `Upsonic/Tiger`: Rank rose by +964
-- **[Rank Rise]** `strnad/CrewAI-Studio`: Rank rose by +964
-- **[Rank Rise]** `langchain-ai/retrieval-agent-template`: Rank rose by +964
-- **[Rank Rise]** `plusai-solutions/ai-scrum-master-template`: Rank rose by +964
-- **[Rank Rise]** `snyk/agent-scan`: Rank rose by +964
-- **[Rank Rise]** `Kotlin/Kotlin-AI-Examples`: Rank rose by +964
-- **[Rank Rise]** `AlexPEClub/ai-coding-starter-kit`: Rank rose by +964
+- **[Rank Rise]** `alexfazio/crewAI-quickstart`: Rank rose by +964
+- **[Rank Rise]** `adongwanai/AgentGuide`: Rank rose by +964
+- **[Rank Rise]** `tonykipkemboi/trip_planner_agent`: Rank rose by +964
+- **[Rank Rise]** `hectorpine/multiple-model-crew`: Rank rose by +964
+- **[Rank Rise]** `crewAIInc/crewAI-tools`: Rank rose by +964
+- **[Rank Rise]** `crewAIInc/crewAI`: Rank rose by +964
+- **[Rank Rise]** `liangdabiao/easy_investment_Agent_crewai`: Rank rose by +964
+- **[Rank Rise]** `The-Swarm-Corporation/Multi-Agent-RAG-Template`: Rank rose by +964
+- **[Rank Rise]** `The-Swarm-Corporation/Multi-Agent-Template-App`: Rank rose by +964
+- **[Rank Rise]** `scotthavird/crewai-template`: Rank rose by +964
+- **[Rank Rise]** `pingwu/crewai-similar-framework-finder-template`: Rank rose by +964
+- **[Rank Rise]** `muhammad-uzair-yasin/CrewAi_starter_template`: Rank rose by +964
+- **[Rank Rise]** `datarobot-community/datarobot-agent-templates`: Rank rose by +964
+- **[Rank Rise]** `braincrew-lab/langgraph-mcp-agents`: Rank rose by +964
+- **[Rank Rise]** `BrandPeng/Langchain1.0-Langgraph1.0-Learning`: Rank rose by +964
+- **[Rank Rise]** `masumi-network/crewai-masumi-quickstart-template`: Rank rose by +964
+- **[Rank Rise]** `vin67/crewai_docker`: Rank rose by +964
+- **[Rank Rise]** `langchain-ai/langgraphjs`: Rank rose by +964
+- **[Rank Rise]** `google-gemini/gemini-fullstack-langgraph-quickstart`: Rank rose by +964
+- **[Rank Rise]** `JoshuaC215/agent-service-toolkit`: Rank rose by +964
+- **[Rank Rise]** `mayooear/ai-pdf-chatbot-langchain`: Rank rose by +964
+- **[Rank Rise]** `langchain-ai/langgraph`: Rank rose by +964
+- **[Rank Rise]** `langchain-ai/data-enrichment`: Rank rose by +964
+- **[Rank Rise]** `lgesuellip/langgraph-whatsapp-agent`: Rank rose by +964
+- **[Rank Rise]** `langchain-ai/new-langgraphjs-project`: Rank rose by +964
+- **[Rank Rise]** `TauricResearch/TradingAgents`: Rank rose by +964
+- **[Rank Rise]** `vonzosten/awesome-LangGraph`: Rank rose by +964
+- **[Rank Rise]** `esxr/langgraph-mcp`: Rank rose by +964
+- **[Rank Rise]** `langchain-ai/langchain`: Rank rose by +964
+- **[Rank Rise]** `cloudflare/agentic-inbox`: Rank rose by +964
+- **[Rank Rise]** `transitive-bullshit/agentic`: Rank rose by +964
+- **[Rank Rise]** `sickn33/agentic-awesome-skills`: Rank rose by +964
+- **[Rank Rise]** `The-Pocket/PocketFlow-Template-Python`: Rank rose by +964
+- **[Rank Rise]** `langchain-ai/react-agent`: Rank rose by +964
+- **[Rank Rise]** `aiwaves-cn/agents`: Rank rose by +964
+- **[Rank Rise]** `odsc2015/agentic-hackathon-template`: Rank rose by +964
+- **[Rank Rise]** `Polymarket/agents`: Rank rose by +964
+- **[Rank Rise]** `virattt/dexter`: Rank rose by +964
+- **[Rank Rise]** `daveshap/OpenAI_Agent_Swarm`: Rank rose by +964
+- **[Rank Rise]** `SamuelSchmidgall/AgentLaboratory`: Rank rose by +964
+- **[Rank Rise]** `secret-mars/loop-starter-kit`: Rank rose by +964
+- **[Rank Rise]** `wxmb01/codex-app-autonomous-runs`: Rank rose by +964
+- **[Rank Rise]** `cmAIdx/headless-claude-automation-template`: Rank rose by +964
+- **[Rank Rise]** `airalab/autonomous_agent_template`: Rank rose by +964
+- **[Rank Rise]** `Senpi-ai/senpi-skills`: Rank rose by +964
+- **[Rank Rise]** `freddy-schuetz/n8n-claw`: Rank rose by +964
+- **[Rank Rise]** `gptme/gptme-agent-template`: Rank rose by +964
+- **[Rank Rise]** `daimon111/daimon-template`: Rank rose by +964
+- **[Rank Rise]** `earendil-works/pi`: Rank rose by +964
+- **[Rank Rise]** `NousResearch/hermes-agent`: Rank rose by +964
+- **[Rank Rise]** `PentesterFlow/agent`: Rank rose by +964
+- **[Rank Rise]** `addyosmani/agent-skills`: Rank rose by +964
+- **[Rank Rise]** `reworkd/AgentGPT`: Rank rose by +964
+- **[Rank Rise]** `FlowiseAI/Flowise`: Rank rose by +964
+- **[Rank Rise]** `microsoft/ai-agents-for-beginners`: Rank rose by +964
+- **[Rank Rise]** `NVISOsecurity/cyber-security-llm-agents`: Rank rose by +964
+- **[Rank Rise]** `Leonxlnx/agentic-ai-prompt-research`: Rank rose by +964
+- **[Rank Rise]** `0xSteph/pentest-ai-agents`: Rank rose by +964
+- **[Rank Rise]** `NVIDIA/SkillSpector`: Rank rose by +964
+- **[Rank Rise]** `elder-plinius/T3MP3ST`: Rank rose by +964
+- **[Rank Rise]** `msoedov/agentic_security`: Rank rose by +964
+- **[Rank Rise]** `0x4m4/hexstrike-ai`: Rank rose by +964
+- **[Rank Rise]** `TheAgentCompany/TheAgentCompany`: Rank rose by +964
+- **[Rank Rise]** `facebookresearch/MLGym`: Rank rose by +964
+- **[Rank Rise]** `AgentOps-AI/agentops`: Rank rose by +964
+- **[Rank Rise]** `sierra-research/tau2-bench`: Rank rose by +964
+- **[Rank Rise]** `run-llama/ParseBench`: Rank rose by +964
+- **[Rank Rise]** `rohitg00/agentmemory`: Rank rose by +964
+- **[Rank Rise]** `steel-dev/awesome-web-agents`: Rank rose by +964
+- **[Rank Rise]** `awesome-opencode/awesome-opencode`: Rank rose by +964
+- **[Rank Rise]** `EvanThomasLuke/Awesome-AI-Hacking-Agents`: Rank rose by +964
+- **[Rank Rise]** `caramaschiHG/awesome-ai-agents-2026`: Rank rose by +964
+- **[Rank Rise]** `Prat011/awesome-llm-skills`: Rank rose by +964
+- **[Rank Rise]** `e2b-dev/awesome-ai-agents`: Rank rose by +964
+- **[Rank Rise]** `slavakurilyak/awesome-ai-agents`: Rank rose by +964
+- **[Rank Rise]** `DeckardGer/tanstack-agent-skills`: Rank rose by +964
+- **[Rank Rise]** `MuhammadUsmanGM/claude-code-best-practices`: Rank rose by +964
+- **[Rank Rise]** `yzfly/awesome-voice-agents`: Rank rose by +964
+- **[Rank Rise]** `HoangNguyen0403/agent-skills-standard`: Rank rose by +964
+- **[Rank Rise]** `shanraisshan/codex-cli-best-practice`: Rank rose by +964
+- **[Rank Rise]** `Sri-Krishna-V/awesome-adk-agents`: Rank rose by +964
+- **[Rank Rise]** `greensock/gsap-skills`: Rank rose by +964
+- **[Rank Rise]** `AvdLee/SwiftUI-Agent-Skill`: Rank rose by +964
+- **[Rank Rise]** `shanraisshan/claude-code-best-practice`: Rank rose by +964
+- **[Rank Rise]** `kylestratis/ai_agents_mcp_examples`: Rank rose by +964
+- **[Rank Rise]** `viktoriasemaan/multi-agent`: Rank rose by +964
+- **[Rank Rise]** `WenyuChiou/awesome-agentic-ai-zh`: Rank rose by +964
+- **[Rank Rise]** `huangjia2019/ai-agents`: Rank rose by +964
+- **[Rank Rise]** `TEN-framework/ten-framework`: Rank rose by +964
+- **[Rank Rise]** `airweave-ai/airweave`: Rank rose by +964
+- **[Rank Rise]** `coleam00/ottomator-agents`: Rank rose by +964
+- **[Rank Rise]** `continuedev/continue`: Rank rose by +964
+- **[Rank Rise]** `vercel-labs/workflow-builder-template`: Rank rose by +964
+- **[Rank Rise]** `vercel-labs/coding-agent-template`: Rank rose by +964
+- **[Rank Rise]** `wassim249/fastapi-langgraph-agent-production-ready-template`: Rank rose by +964
+- **[Rank Rise]** `vercel-labs/open-agents`: Rank rose by +964
+- **[Rank Rise]** `JCodesMore/ai-website-cloner-template`: Rank rose by +964
+- **[Rank Rise]** `daveebbelaar/ai-cookbook`: Rank rose by +964
+- **[Rank Rise]** `ghuntley/how-to-build-a-coding-agent`: Rank rose by +964
+- **[Rank Rise]** `didilili/ai-agents-from-zero`: Rank rose by +964
+- **[Rank Rise]** `idosal/git-mcp`: Rank rose by +964
+- **[Rank Rise]** `Code-and-Sorts/awesome-copilot-agents`: Rank rose by +964
+- **[Rank Rise]** `NirDiamant/GenAI_Agents`: Rank rose by +964
+- **[Rank Rise]** `hoodini/ai-agents-skills`: Rank rose by +964
+- **[Rank Rise]** `affaan-m/agentshield`: Rank rose by +964
+- **[Rank Rise]** `duanyytop/agents-radar`: Rank rose by +964
+- **[Rank Rise]** `Fosowl/agenticSeek`: Rank rose by +964
+- **[Rank Rise]** `TIGER-AI-Lab/VLM2Vec`: Rank rose by +964
+- **[Rank Rise]** `github/awesome-copilot`: Rank rose by +964
+- **[Rank Rise]** `VoltAgent/awesome-ai-agent-papers`: Rank rose by +964
+- **[Rank Rise]** `DavidZWZ/Awesome-Deep-Research`: Rank rose by +964
+- **[Rank Rise]** `XMUDeepLIT/MemGraphRAG`: Rank rose by +964
+- **[Rank Rise]** `KnowledgeXLab/LeanRAG`: Rank rose by +964
+- **[Rank Rise]** `TencentCloudADP/youtu-graphrag`: Rank rose by +964
+- **[Rank Rise]** `DEEP-PolyU/LinearRAG`: Rank rose by +964
+- **[Rank Rise]** `EternityJune25/ComoRAG`: Rank rose by +964
+- **[Rank Rise]** `HKUDS/VideoRAG`: Rank rose by +964
+- **[Rank Rise]** `SciPhi-AI/R2R`: Rank rose by +964
+- **[Rank Rise]** `ray-project/llm-applications`: Rank rose by +964
+- **[Rank Rise]** `apecloud/ApeRAG`: Rank rose by +964
+- **[Rank Rise]** `KruxAI/ragbuilder`: Rank rose by +964
+- **[Rank Rise]** `NirDiamant/agents-towards-production`: Rank rose by +964
+- **[Rank Rise]** `techwithtim/ProductionGradeRAGPythonApp`: Rank rose by +964
+- **[Rank Rise]** `towardsai/ragbook-notebooks`: Rank rose by +964
+- **[Rank Rise]** `jamwithai/production-agentic-rag-course`: Rank rose by +964
+- **[Rank Rise]** `raga-ai-hub/raga-llm-hub`: Rank rose by +964
+- **[Rank Rise]** `olegnazarov/rag-security-scanner`: Rank rose by +964
+- **[Rank Rise]** `CyberSunil/LLMVault`: Rank rose by +964
+- **[Rank Rise]** `devloperdevesh/EnterpriseRAG-AI`: Rank rose by +964
+- **[Rank Rise]** `Ais1on/CTI-RAG`: Rank rose by +964
+- **[Rank Rise]** `IntelLabs/fastRAG`: Rank rose by +964
+- **[Rank Rise]** `SecurityClaw/SecurityClaw`: Rank rose by +964
+- **[Rank Rise]** `PierreGode/Ragnar`: Rank rose by +964
+- **[Rank Rise]** `QuivrHQ/quivr`: Rank rose by +964
+- **[Rank Rise]** `modelscope/evalscope`: Rank rose by +964
+- **[Rank Rise]** `naver/bergen`: Rank rose by +964
+- **[Rank Rise]** `onyx-dot-app/EnterpriseRAG-Bench`: Rank rose by +964
+- **[Rank Rise]** `facebookresearch/CRAG`: Rank rose by +964
+- **[Rank Rise]** `GraphRAG-Bench/GraphRAG-Benchmark`: Rank rose by +964
+- **[Rank Rise]** `topoteretes/awesome-ai-memory`: Rank rose by +964
+- **[Rank Rise]** `felladrin/awesome-ai-web-search`: Rank rose by +964
+- **[Rank Rise]** `jxzhangjhu/Awesome-LLM-RAG`: Rank rose by +964
+- **[Rank Rise]** `alvinreal/awesome-opensource-ai`: Rank rose by +964
+- **[Rank Rise]** `DEEP-PolyU/Awesome-GraphRAG`: Rank rose by +964
+- **[Rank Rise]** `Azure/agent-innovator-lab`: Rank rose by +964
+- **[Rank Rise]** `hllqkb/Spring-AI-Ailibaba-Best-Practices`: Rank rose by +964
+- **[Rank Rise]** `Danielskry/Awesome-RAG`: Rank rose by +964
+- **[Rank Rise]** `decodingai-magazine/llm-twin-course`: Rank rose by +964
+- **[Rank Rise]** `ali-bahrainian/RAG_best_practices`: Rank rose by +964
+- **[Rank Rise]** `Yigtwxx/awesome-rag-production`: Rank rose by +964
+- **[Rank Rise]** `chaoql/rag-best-practices`: Rank rose by +964
+- **[Rank Rise]** `aws-samples/amazon-bedrock-samples`: Rank rose by +964
+- **[Rank Rise]** `PacktPublishing/LLM-Engineers-Handbook`: Rank rose by +964
+- **[Rank Rise]** `bangoc123/retrieval-backend-with-rag`: Rank rose by +964
+- **[Rank Rise]** `nicknochnack/Llama2RAG`: Rank rose by +964
+- **[Rank Rise]** `Azure-Samples/aisearch-openai-rag-audio`: Rank rose by +964
+- **[Rank Rise]** `streamlit/example-app-langchain-rag`: Rank rose by +964
+- **[Rank Rise]** `alfredodeza/azure-rag`: Rank rose by +964
+- **[Rank Rise]** `eosphoros-ai/DB-GPT`: Rank rose by +964
+- **[Rank Rise]** `pinecone-io/examples`: Rank rose by +964
+- **[Rank Rise]** `NVIDIA/workbench-example-hybrid-rag`: Rank rose by +964
+- **[Rank Rise]** `NVIDIA/workbench-example-agentic-rag`: Rank rose by +964
+- **[Rank Rise]** `onyx-dot-app/onyx`: Rank rose by +964
+- **[Rank Rise]** `Tencent/WeKnora`: Rank rose by +964
+- **[Rank Rise]** `opendataloader-project/opendataloader-pdf`: Rank rose by +964
+- **[Rank Rise]** `gabrielchua/RAGxplorer`: Rank rose by +964
+- **[Rank Rise]** `HKUDS/MiniRAG`: Rank rose by +964
+- **[Rank Rise]** `ConardLi/garden-skills`: Rank rose by +964
+- **[Rank Rise]** `microsoft/promptflow-rag-project-template`: Rank rose by +964
+- **[Rank Rise]** `Cinnamon/kotaemon`: Rank rose by +964
+- **[Rank Rise]** `pathwaycom/llm-app`: Rank rose by +964
+- **[Rank Rise]** `elizaOS/eliza`: Rank rose by +964
+- **[Rank Rise]** `stackitcloud/rag-template`: Rank rose by +964
+- **[Rank Rise]** `Azure/GenAIOps-project-template`: Rank rose by +964
+- **[Rank Rise]** `vercel-labs/ai-sdk-preview-rag`: Rank rose by +964
+- **[Rank Rise]** `ritik-prog/n8n-automation-templates-5000`: Rank rose by +964
+- **[Rank Rise]** `langchain-ai/rag-research-agent-template`: Rank rose by +964
+- **[Rank Rise]** `vstorm-co/full-stack-ai-agent-template`: Rank rose by +964
+- **[Rank Rise]** `enescingoz/awesome-n8n-templates`: Rank rose by +964
+- **[Rank Rise]** `techwithtim/Langflow-RAG-Tutorial`: Rank rose by +964
+- **[Rank Rise]** `rsrohan99/rag-stream-intermediate-events-tutorial`: Rank rose by +964
+- **[Rank Rise]** `lancedb/vectordb-recipes`: Rank rose by +964
+- **[Rank Rise]** `pguso/rag-from-scratch`: Rank rose by +964
+- **[Rank Rise]** `krishnaik06/RAG-Tutorials`: Rank rose by +964
+- **[Rank Rise]** `pixegami/rag-tutorial-v2`: Rank rose by +964
+- **[Rank Rise]** `datawhalechina/hello-agents`: Rank rose by +964
+- **[Rank Rise]** `NirDiamant/RAG_Techniques`: Rank rose by +964
+- **[Rank Rise]** `pixegami/langchain-rag-tutorial`: Rank rose by +964
+- **[Rank Rise]** `patchy631/ai-engineering-hub`: Rank rose by +964
+- **[Rank Rise]** `The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte`: Rank rose by +964
+- **[Rank Rise]** `RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug`: Rank rose by +964
+- **[Rank Rise]** `Complete RAG Tutorial 2025: Build AI Apps with Retrieval Augmented Generation - YouTube`: Rank rose by +964
+- **[Rank Rise]** `Using a knowledge graph to implement a RAG application`: Rank rose by +964
+- **[Rank Rise]** `RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog`: Rank rose by +964
+- **[Rank Rise]** `Unlocking the power of unstructured data with RAG - The GitHub Blog`: Rank rose by +964
+- **[Rank Rise]** `dannyblaker/rag-tutorial`: Rank rose by +964
+- **[Rank Rise]** `Andrew-Jang/RAGHub`: Rank rose by +964
+- **[Rank Rise]** `analyticsworld1/RAG_Techniques2025-main`: Rank rose by +964
+- **[Rank Rise]** `7 Best GitHub Repositories For Mastering RAG Systems`: Rank rose by +964
+- **[Rank Rise]** `The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all`: Rank rose by +964
+- **[Rank Rise]** `The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar`: Rank rose by +964
+- **[Rank Rise]** `FlagOpen/FlagEmbedding`: Rank rose by +964
+- **[Rank Rise]** `The Linux Kernel documentation — The Linux Kernel documentation`: Rank rose by +964
+- **[Rank Rise]** `sphinx-doc/sphinx`: Rank rose by +964
+- **[Rank Rise]** `3.14.6 Documentation`: Rank rose by +964
+- **[Rank Rise]** `Medium/medium-policy`: Rank rose by +964
+- **[Rank Rise]** `mixedbread-ai/skills`: Rank rose by +964
+- **[Rank Rise]** `Agentic Infrastructure - Vercel`: Rank rose by +964
+- **[Rank Rise]** `Researching with GitHub Copilot CLI - GitHub Docs`: Rank rose by +964
+- **[Rank Rise]** `dblp: computer science bibliography`: Rank rose by +964
+- **[Rank Rise]** `Workplace Conflict Resolution & Organizational Development | JAMS Pathways`: Rank rose by +964
+- **[Rank Rise]** `GitHub Copilot CLI command reference - GitHub Docs`: Rank rose by +964
+- **[Rank Rise]** `Web preferences - Opera Help`: Rank rose by +964
+- **[Rank Rise]** `Client Challenge`: Rank rose by +964
+- **[Rank Rise]** `Frederik Braun: A CDN that can not XSS you: Using Subresource Integrity`: Rank rose by +964
+- **[Rank Rise]** `SRI Hash Generator`: Rank rose by +964
+- **[Rank Rise]** `SpeechifyAI - Voice AI Research Lab`: Rank rose by +964
+- **[Rank Rise]** `SpeechifyAI Agents: Real-Time Voice AI Overview | SpeechifyAI API`: Rank rose by +964
+- **[Rank Rise]** `Deed - Attribution 4.0 International - Creative Commons`: Rank rose by +964
+- **[Rank Rise]** `HTML Standard`: Rank rose by +964
+- **[Rank Rise]** `CommonMark Spec`: Rank rose by +964
+- **[Rank Rise]** `Fast Open-Source OLAP DBMS | ClickHouse`: Rank rose by +964
+- **[Rank Rise]** `The Exclusive Home of NFL Sunday Ticket - YouTube & YouTube TV`: Rank rose by +964
+- **[Rank Rise]** `[2312.15503] Llama2Vec: Unsupervised Adaptation of Large Language Models for Dense Retrieval`: Rank rose by +964
+- **[Rank Rise]** `sentence-transformers/examples/sentence_transformer/applications/retrieve_rerank/in_document_search_crossencoder.py at m`: Rank rose by +964
+- **[Rank Rise]** `castorini/pyserini`: Rank rose by +964
+- **[Rank Rise]** `Sphinx — Sphinx documentation`: Rank rose by +964
+- **[Rank Rise]** `SOC for Service Organizations Engagements – Overview | Resources | AICPA & CIMA`: Rank rose by +964
+- **[Rank Rise]** `cli/cli`: Rank rose by +964
+- **[Rank Rise]** `Copilot CLI sessions in Visual Studio Code`: Rank rose by +964
+- **[Rank Rise]** `[1603.09320] Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs`: Rank rose by +964
+- **[Rank Rise]** `Permissions | Node.js v26.5.0 Documentation`: Rank rose by +964
+- **[Rank Rise]** `Open Hugo Sponsorship Slot`: Rank rose by +964
+- **[Rank Rise]** `GitHub Flavored Markdown Spec`: Rank rose by +964
+- **[Rank Rise]** `gradio-app/gradio`: Rank rose by +964
+- **[Rank Rise]** `Langfuse`: Rank rose by +964
+- **[Rank Rise]** `Chroma - YouTube`: Rank rose by +964
+- **[Rank Rise]** `sentence-transformers/examples/cross_encoder/training/ms_marco at main · huggingface/sentence-transformers · GitHub`: Rank rose by +964
+- **[Rank Rise]** `microsoft/MSMARCO-Passage-Ranking`: Rank rose by +964
+- **[Rank Rise]** `Boost Your Search With The Crispy Mixedbread Rerank Models`: Rank rose by +964
+- **[Rank Rise]** `Retrieve & Re-Rank — Sentence Transformers documentation`: Rank rose by +964
+- **[Rank Rise]** `xenova/transformers.js`: Rank rose by +964
+- **[Rank Rise]** `Azure/azure-search-vector-samples`: Rank rose by +964
+- **[Rank Rise]** `Overview - Mixedbread`: Rank rose by +964
+- **[Rank Rise]** `GitHub Security · GitHub`: Rank rose by +964
+- **[Rank Rise]** `GitHub Copilot CLI · GitHub`: Rank rose by +964
+- **[Rank Rise]** `MongoDB Vector Search | MongoDB`: Rank rose by +964
+- **[Rank Rise]** `GitHub CLI | Take GitHub to the command line`: Rank rose by +964
+- **[Rank Rise]** `Story’s detailed stats page – Medium Help Center`: Rank rose by +964
+- **[Rank Rise]** `GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub`: Rank rose by +964
+- **[Rank Rise]** `deepset-ai/haystack-cookbook`: Rank rose by +964
+- **[Rank Rise]** `run-llama/llama-cloud-ts`: Rank rose by +964
+- **[Rank Rise]** `hub-docs/docs/hub/spaces.md at main · huggingface/hub-docs · GitHub`: Rank rose by +964
+- **[Rank Rise]** `Gradio`: Rank rose by +964
+- **[Rank Rise]** `What's Haystack Enterprise Platform? | Haystack Enterprise Platform Documentation`: Rank rose by +964
+- **[Rank Rise]** `DevOps Tutorial - GeeksforGeeks`: Rank rose by +964
+- **[Rank Rise]** `Machine Learning Tutorial - GeeksforGeeks`: Rank rose by +964
+- **[Rank Rise]** `Enterprise - Chroma`: Rank rose by +964
+- **[Rank Rise]** `DSA Tutorial - GeeksforGeeks`: Rank rose by +964
+- **[Rank Rise]** `chroma-core/chroma`: Rank rose by +964
+- **[Rank Rise]** `Chroma - open-source search infrastructure for AI`: Rank rose by +964
+- **[Rank Rise]** `VivekMalhan666/Toasts-library`: Rank rose by +964
+- **[Rank Rise]** `🧑‍🍳 Cookbook | Haystack`: Rank rose by +964
+- **[Rank Rise]** `Spaces · Hugging Face`: Rank rose by +964
+- **[Rank Rise]** `tomasonjo/langchain-neo4j`: Rank rose by +964
+- **[Rank Rise]** `crazyaiml/attribute-knowledge-rag`: Rank rose by +964
+- **[Rank Rise]** `Job-a-Thon`: Rank rose by +964
+- **[Rank Rise]** `Pretrained Models — Sentence Transformers documentation`: Rank rose by +964
+- **[Rank Rise]** `VivekMalhan666/rag-beginner-guide`: Rank rose by +964
+- **[Rank Rise]** `crazyaiml/Superml.DataTruth`: Rank rose by +964
+- **[Rank Rise]** `Vivek Malhan — Full Cycle Developer`: Rank rose by +964
+- **[Rank Rise]** `facebookresearch/faiss`: Rank rose by +964
+- **[Rank Rise]** `Introduction to Haystack | Haystack Documentation`: Rank rose by +965
+- **[Rank Rise]** `Haystack | Haystack`: Rank rose by +965
+- **[Rank Rise]** `pathwaycom/pathway`: Rank rose by +965
+- **[Rank Rise]** `crewAIInc/awesome-crewai`: Rank rose by +965
+- **[Rank Rise]** `LangChain-OpenTutorial/LangChain-OpenTutorial`: Rank rose by +965
+- **[Rank Rise]** `NicholasGoh/fastapi-mcp-langgraph-template`: Rank rose by +965
+- **[Rank Rise]** `coleam00/agentic-chat-application-template`: Rank rose by +965
+- **[Rank Rise]** `agent0ai/agent-zero`: Rank rose by +965
+- **[Rank Rise]** `mvanhorn/clawdbot-skill-manus`: Rank rose by +965
+- **[Rank Rise]** `h1papc11/healthcare-ai-agent-vault`: Rank rose by +965
+- **[Rank Rise]** `TracecatHQ/tracecat`: Rank rose by +965
+- **[Rank Rise]** `openai/mle-bench`: Rank rose by +965
+- **[Rank Rise]** `Doorman11991/smallcode`: Rank rose by +965
+- **[Rank Rise]** `yzhao062/pyod`: Rank rose by +965
+- **[Rank Rise]** `kyrolabs/awesome-agents`: Rank rose by +965
+- **[Rank Rise]** `ashishpatel26/500-AI-Agents-Projects`: Rank rose by +965
+- **[Rank Rise]** `langchain-ai/open-swe`: Rank rose by +965
+- **[Rank Rise]** `vercel/ai`: Rank rose by +965
+- **[Rank Rise]** `Phala-Network/ai-agent-template-openai`: Rank rose by +965
+- **[Rank Rise]** `pguso/ai-agents-from-scratch`: Rank rose by +965
+- **[Rank Rise]** `coleam00/pydantic-ai-github-agent`: Rank rose by +965
+- **[Rank Rise]** `RAG System with LangChain and LangGraph - GeeksforGeeks`: Rank rose by +965
+- **[Rank Rise]** `RAG with Deep Agents - Docs by LangChain`: Rank rose by +965
+- **[Rank Rise]** `Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech`: Rank rose by +965
+- **[Rank Rise]** `RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org`: Rank rose by +965
+- **[Rank Rise]** `RAG Techniques, Beginner to Advanced: Practical Patterns, Code, and Resources | martinuke0's Blog`: Rank rose by +965
+- **[Rank Rise]** `RAG (Retrieval Augmented Generation) Guide 2025: Implementation, Vector Databases & Best Practices`: Rank rose by +965
+- **[Rank Rise]** `Technion Live Hebrew Edition - Registration Form`: Rank rose by +965
+- **[Rank Rise]** `הטכניון - מכון טכנולוגי לישראל`: Rank rose by +965
+- **[Rank Rise]** `Web Accessibility Assistance – Cornell University Library`: Rank rose by +965
+- **[Rank Rise]** `Soundwaves settle debate about elusive quantum particle | Cornell Chronicle`: Rank rose by +965
+- **[Rank Rise]** `Home - Cornell Research & Innovation`: Rank rose by +965
+- **[Rank Rise]** `Research | Cornell University`: Rank rose by +965
+- **[Rank Rise]** `Cornell Data Services`: Rank rose by +965
+- **[Rank Rise]** `Guide to Using RASS & PI Dashboard | Documentation & Training`: Rank rose by +965
+- **[Rank Rise]** `TecharoHQ/anubis`: Rank rose by +965
+- **[Rank Rise]** `CompSust-2023: 2023 NeurIPS Workshop on Computational Sustainability: Pitfalls and Promises from Theory to Deployment`: Rank rose by +965
+- **[Rank Rise]** `CompSustNet: Home`: Rank rose by +965
+- **[Rank Rise]** `NSF Expeditions in Computing: Computational Sustainability`: Rank rose by +965
+- **[Rank Rise]** `Welcome | Lab of Atomic of Solid State Physics (LASSP)`: Rank rose by +965
+- **[Rank Rise]** `Centers Archive - Cornell Research & Innovation`: Rank rose by +965
+- **[Rank Rise]** `Home | Cornell Research Services`: Rank rose by +965
+- **[Rank Rise]** `17 U.S. Code § 107 - Limitations on exclusive rights: Fair use | U.S. Code | US Law | LII / Legal Information Institute`: Rank rose by +965
+- **[Rank Rise]** `17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information`: Rank rose by +965
+- **[Rank Rise]** `Unintended Consequences: Twelve Years under the DMCA | Electronic Frontier Foundation`: Rank rose by +965
+- **[Rank Rise]** `Section 1201 Study | U.S. Copyright Office`: Rank rose by +965
+- **[Rank Rise]** `GitHub Code Security · GitHub`: Rank rose by +965
+- **[Rank Rise]** `GitHub Security Lab | Securing open source software, together.`: Rank rose by +965
+- **[Rank Rise]** `Cloudflare Careers | Cloudflare`: Rank rose by +965
+- **[Rank Rise]** `Careers at Cloudflare â Open Positions | Cloudflare`: Rank rose by +965
+- **[Rank Rise]** `GDPR FAQs | Cloudflare`: Rank rose by +965
+- **[Rank Rise]** `weaviate/weaviate`: Rank rose by +965
+- **[Rank Rise]** `Delta Channels: How We’re Evolving our Runtime for Long-Running Agents`: Rank rose by +965
+- **[Rank Rise]** `Project Jupyter Documentation — Jupyter Documentation 4.1.1 alpha documentation`: Rank rose by +965
+- **[Rank Rise]** `Render`: Rank rose by +965
+- **[Rank Rise]** `How does GitHub compare to other DevOps tools? · GitHub`: Rank rose by +965
+- **[Rank Rise]** `Digital Millennium Copyright Act - Wikipedia`: Rank rose by +965
+- **[Rank Rise]** `firecrawl repositories · GitHub`: Rank rose by +965
+- **[Rank Rise]** `llama-index · PyPI`: Rank rose by +965
+- **[Rank Rise]** `run-llama/LlamaIndexTS`: Rank rose by +965
+- **[Rank Rise]** `deepset · GitHub`: Rank rose by +965
+- **[Rank Rise]** `DagsHub`: Rank rose by +965
+- **[Rank Rise]** `DagsHub - YouTube`: Rank rose by +965
+- **[Rank Rise]** `Cloudflare Research`: Rank rose by +965
+- **[Rank Rise]** `gothinkster/realworld`: Rank rose by +965
+- **[Rank Rise]** `Getting Started - Chroma Docs`: Rank rose by +965
+- **[Rank Rise]** `Verba: Building an Open Source, Modular RAG Application | Weaviate`: Rank rose by +965
+- **[Rank Rise]** `pgvector/pgvector`: Rank rose by +965
+- **[Rank Rise]** `AI & Vectors | Supabase Docs`: Rank rose by +965
+- **[Rank Rise]** `Top Open Source Github Repositories for creating your own RAG | Resemble AI`: Rank rose by +965
+- **[Rank Rise]** `neuml/txtai`: Rank rose by +965
+- **[Rank Rise]** `Upsonic/Tiger`: Rank rose by +965
+- **[Rank Rise]** `strnad/CrewAI-Studio`: Rank rose by +965
+- **[Rank Rise]** `langchain-ai/retrieval-agent-template`: Rank rose by +965
+- **[Rank Rise]** `plusai-solutions/ai-scrum-master-template`: Rank rose by +965
+- **[Rank Rise]** `snyk/agent-scan`: Rank rose by +965
+- **[Rank Rise]** `Kotlin/Kotlin-AI-Examples`: Rank rose by +965
+- **[Rank Rise]** `AlexPEClub/ai-coding-starter-kit`: Rank rose by +965
 - **[Rank Rise]** `Top 7 GitHub Repos to Master Retrieval-Augmented Generation`: Rank rose by +965
 - **[Rank Rise]** `2026 Company Logos (External) - Google Drive`: Rank rose by +965
 - **[Rank Rise]** `Weaviate vector database - YouTube`: Rank rose by +965
@@ -17769,5 +17756,18 @@ This file tracks all chronological shifts, score changes, tier promotions, and d
 - **[Rank Rise]** `Does Demand Response Increase Vulnerability to Cyber Attacks by Adversarial Data Modifications?`: Rank rose by +966
 - **[Rank Rise]** `When Certificates Fail: A Unified Safety Framework for Embedded Neural Interface Models`: Rank rose by +966
 - **[Rank Rise]** `STST-JEPA: Shallow-Target Spatio-Temporal Joint Embedding Prediction Architecture For EEG Self-Supervised Learning`: Rank rose by +966
+- **[Rank Rise]** `Reward Valuation in Vision Language Models: Causal Mechanisms Underlying Anhedonia`: Rank rose by +966
+- **[Rank Rise]** `Fingerprint, Not Blueprint: How Positional Schemes Set the Default Spectral Algebra of Attention`: Rank rose by +966
+- **[Rank Rise]** `A Quiet Failure in Calibrated Virtual Screening: Marginal Conformal Prediction Under-Covers the Minority Class, and a Class-Conditional Fix Recovers It`: Rank rose by +966
+- **[Rank Rise]** `JuZhou 1.0 Technical Report: The First Edge-Native Text-to-Image Foundation Model Trained Entirely on China-Developed AI Accelerators`: Rank rose by +966
+- **[Rank Rise]** `MetaConfigurator: AI-Assisted RDF Authoring from JSON Data`: Rank rose by +966
+- **[Rank Rise]** `Trust, but Don't Verify: Epistemic Blind Spots in LLM Source Evaluation`: Rank rose by +966
+- **[Rank Rise]** `Trading Human Curation for Synthetic Augmentation in RLVR`: Rank rose by +966
+- **[Rank Rise]** `Informing AI Policy Assessment using Large-Scale Simulation of Interventions`: Rank rose by +966
+- **[Rank Rise]** `Cast a Wider Net: Coordinated Pass@K Policy Optimization for Code Reasoning`: Rank rose by +966
+- **[Rank Rise]** `Structured Belief State and the First Precision-Aware Benchmark for LLM Memory Retrieval`: Rank rose by +966
+- **[Rank Rise]** `Optimal FALQON for Quantum Approximate Optimization via Layer-wise Parameter Tuning`: Rank rose by +966
+- **[Rank Rise]** `From Beats to Breaches:How Offensive AI Infers Sensitive User Information from Playlists`: Rank rose by +966
+- **[Rank Rise]** `Health System Scale Semantic Search Across Unstructured Clinical Notes`: Rank rose by +966
 
 ... (older logs truncated to save space) ...
