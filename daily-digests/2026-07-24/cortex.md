@@ -1,55 +1,55 @@
 ---
-title: "supernavyl/cortex"
+title: "tools-for-agents/cortex"
 content_type: "repo"
 engine: "v2"
 category: "Tooling"
-tech_stack: ["Rust", "Cargo", "Unix sockets", "SQLite", "MCP (Model Context Protocol)", "systemd", "musl libc"]
+tech_stack: ["Node.js", "SQLite (FTS5 for full-text search)", "Markdown", "YAML", "HTML/CSS/JavaScript (for web view)", "SSE (Server-Sent Events)", "MCP (Model Context Protocol)"]
 quality_score: 9
-rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["code verification", "sandboxing", "Rust development", "AI safety", "pre-apply gating"]
-source: "https://github.com/supernavyl/cortex"
+rag_relevance: 9
+deployment_complexity: "Low"
+tags: ["knowledge-graph", "Obsidian-compatible", "markdown-vault", "agent-memory", "wikilinks"]
+source: "https://github.com/tools-for-agents/cortex"
 stars: 0
-language: "Rust"
-last_updated: "2026-07-10T18:19:20Z"
-discovered_at: "2026-07-10T18:22:47Z"
+language: "HTML"
+last_updated: "2026-07-12T10:11:02Z"
+discovered_at: "2026-07-12T10:26:44Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Cortex is a Rust-specific pre-apply verification daemon that gates AI-generated code edits by running `cargo check` in a sandbox before allowing changes to touch the filesystem. It ensures only compilable diffs are applied, reducing hallucinations in coding AI workflows.
+Cortex is a local, Obsidian-compatible knowledge base system designed for AI agents to store, organize, and retrieve interconnected markdown notes. It enables durable memory by distilling agent learnings into a wikilinked graph of notes, which can be edited and explored in Obsidian or via a built-in web interface.
 
 ## Key Features
-- Pre-apply compilation gate using `cargo check` in a sandboxed environment
-- Automatic retry loop (up to 6 rounds) for failed edits with compiler feedback
-- MCP server integration for seamless use with AI coding agents (Claude Code, Cursor)
-- Atomic, fsync-backed writes to ensure data integrity
-- Strict Rust-only scope with clear architectural decision records (ADRs) for future expansion
+- Durable, wikilinked markdown knowledge base with Obsidian compatibility
+- Full-text search (FTS5) and graph-based navigation (backlinks, hubs, orphans)
+- CLI and web interface for real-time interaction and visualization
+- MCP server integration for AI agents to read/write notes dynamically
+- Live graph updates, health monitoring, and automated note suggestions
 
 ## Why It Matters for RAG Builders
-Cortex prevents AI-generated code hallucinations from corrupting Rust projects by verifying edits compile before they touch disk, making it essential for reliable AI-assisted Rust development.
+Cortex provides a persistent, structured memory system for AI agents that reduces redundant token usage by storing distilled knowledge in an editable, graph-based markdown vault compatible with Obsidian.
 
 ## Tech Stack Deep Dive
-### Rust
-Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Cargo
-Automated review identified **Cargo** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### SQLite (FTS5 for full-text search)
+Automated review identified **SQLite (FTS5 for full-text search)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Unix sockets
-Automated review identified **Unix sockets** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Markdown
+Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### SQLite
-Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### YAML
+Automated review identified **YAML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### HTML/CSS/JavaScript (for web view)
+Automated review identified **HTML/CSS/JavaScript (for web view)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### SSE (Server-Sent Events)
+Automated review identified **SSE (Server-Sent Events)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### MCP (Model Context Protocol)
 Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### systemd
-Automated review identified **systemd** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### musl libc
-Automated review identified **musl libc** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
