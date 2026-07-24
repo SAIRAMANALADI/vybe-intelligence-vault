@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-24T04:31:00.987274+05:30`
+Generated at: `2026-07-24T05:35:23.759436+05:30`
 
 ## Executive Summary
 
@@ -8,36 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Startup founders urge U.S. government not to shut off Chinese open weight AI** - Score: `615` in category `ai/community` ([Link](https://politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)) ([File](../ai/community/startup-founders-urge-trump-not-to-shut-off-chines.md))
-- **OpenAI’s accidental attack against Hugging Face is science fiction that happened** - Score: `330` in category `ai/community` ([Link](https://simonwillison.net/2026/jul/22/openai-cyberattack)) ([File](../ai/community/openais-accidental-attack-against-hugging-face-is.md))
-- **Escape Analysis in Go: Stack vs. Heap Allocations Explained** - Score: `22` in category `ai/community` ([Link](https://blog.jetbrains.com/go/2026/07/20/escape-analysis)) ([File](../ai/community/escape-analysis-in-go-stack-vs-heap-allocations-ex.md))
 - **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Writing by hand is good for your brain** - Score: `830` (+196), Rank Change: `0` ([File](../ai/community/writing-by-hand-is-good-for-your-brain.md))
-- **AI Companies Are Trying to Hide a Staggering Amount of Debt** - Score: `542` (+95), Rank Change: `0` ([File](../ai/community/ai-companies-are-trying-to-hide-a-staggering-amoun.md))
-- **The arguments against open source AI are bad** - Score: `158` (+66), Rank Change: `0` ([File](../ai/community/the-arguments-against-open-source-ai-are-bad.md))
-- **DARPA, U.S. Air Force fly AI-controlled F-16** - Score: `140` (+53), Rank Change: `0` ([File](../ai/community/darpa-u-s-air-force-fly-ai-controlled-f-16.md))
-- **Show HN: Palmier Pro – Open-source macOS video editor built for AI** - Score: `99` (+44), Rank Change: `+1` ([File](../ai/trending/palmier-io-palmier-pro.md))
-- **Learn WebGPU for C++** - Score: `70` (+21), Rank Change: `0` ([File](../web-development/community/learn-webgpu-for-c.md))
-- **Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents** - Score: `65` (+18), Rank Change: `0` ([File](../ai/community/onecli-onecli.md))
-- **Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents** - Score: `46` (+15), Rank Change: `0` ([File](../ai/community/launch-hn-screenpipe-yc-s26-record-how-you-work-an.md))
-- **Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency** - Score: `79` (+9), Rank Change: `-1` ([File](../ai/community/hybrid-electric-aicraft-engine-targeting-30-fuel-e.md))
-- **codebasics/ai-agents** - Score: `0` (0), Rank Change: `+1993` ([File](../ai/agents/codebasics-ai-agents.md))
+- **cline/cline** - Score: `0` (0), Rank Change: `+965` ([File](../ai/agents/cline-cline.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **mergisi/awesome-openclaw-agents** - Score: `0` (0), Rank Change: `+965` ([File](../ai/agents/mergisi-awesome-openclaw-agents.md))
+- **MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md))
+- **microsoft/agentsleague** - Score: `0` (0), Rank Change: `+965` ([File](../ai/agents/microsoft-agentsleague.md))
+- **wgcyeo/UniversalRAG** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/wgcyeo-universalrag.md))
+- **bakrianoo/mini-rag** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/bakrianoo-mini-rag.md))
+- **sleeepeer/PoisonedRAG** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/sleeepeer-poisonedrag.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Medium** - (Rank Change: `+12886`) ([File](../ai/rag/medium-2.md))
-- **infiniflow/ragflow** - (Rank Change: `+12797`) ([File](../ai/rag/infiniflow-ragflow-2.md))
-- **czl9707/build-your-own-openclaw** - (Rank Change: `+2248`) ([File](../ai/agents/czl9707-build-your-own-openclaw.md))
-- **codebasics/ai-agents** - (Rank Change: `+1993`) ([File](../ai/agents/codebasics-ai-agents.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+13715`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **Medium** - (Rank Change: `+12885`) ([File](../ai/rag/medium-2.md))
 - **monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1** - (Rank Change: `+966`) ([File](../ai/rag/monday-service-langsmith-building-a-code-first-eva.md))
 - **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+966`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
 - **promptfoo/promptfoo-action** - (Rank Change: `+966`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
 - **ALucek/GraphRAG-Breakdown** - (Rank Change: `+966`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
 - **Understanding RAG from Scratch | martinuke0's Blog** - (Rank Change: `+966`) ([File](../ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md))
 - **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+966`) ([File](../ai/rag/arxiv-2606-29031.md))
+- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+966`) ([File](../ai/research/arxiv-2606-26428.md))
+- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+966`) ([File](../ai/research/arxiv-2606-21887.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -48,5 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Why Software Factories Fail (or: harness engineering is not enough)** (Category: `ai/community`) ([File](../ai/community/humanlayer-advanced-context-engineering-for-coding-agents.md))
-- **From Evaluation to Guardrails: What We Brought to ACM FAccT 2026** (Category: `ai/community`) ([File](../ai/community/from-evaluation-to-guardrails-what-we-brought-to-a.md))
+No recently active resources transitioned to inactive.
+
