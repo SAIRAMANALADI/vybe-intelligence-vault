@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T17:16:41.696517+05:30",
+  "generated_at": "2026-07-24T19:16:29.412796+05:30",
   "trending_resources": [
     {
       "id": "github:codebasics/ai-agents",
@@ -134,19 +134,6 @@
   ],
   "fastest_rising_tools": [
     {
-      "id": "github:ruc-nlpir/flashrag",
-      "title": "RUC-NLPIR/FlashRAG",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/ruc-nlpir/flashrag",
-      "file_path": "ai/rag/ruc-nlpir-flashrag-2.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 13715,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
       "id": "blog:medium",
       "title": "Medium",
       "category": "ai/rag",
@@ -155,7 +142,7 @@
       "file_path": "ai/rag/medium-2.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 12885,
+      "rank_change": 12886,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -257,6 +244,19 @@
       "source_type": "arxiv",
       "url": "https://arxiv.org/abs/2606.21887",
       "file_path": "ai/research/arxiv-2606-21887.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 966,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.09677",
+      "title": "MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation",
+      "category": "ai/rag",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.09677",
+      "file_path": "ai/rag/arxiv-2606-09677.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 966,

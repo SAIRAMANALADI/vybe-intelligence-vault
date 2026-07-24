@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-24T17:16:41.696517+05:30`
+Generated at: `2026-07-24T19:16:29.412796+05:30`
 
 ## Executive Summary
 
@@ -25,8 +25,7 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## 🚀 Fastest Rising Tools
 
-- **RUC-NLPIR/FlashRAG** - (Rank Change: `+13715`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
-- **Medium** - (Rank Change: `+12885`) ([File](../ai/rag/medium-2.md))
+- **Medium** - (Rank Change: `+12886`) ([File](../ai/rag/medium-2.md))
 - **monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1** - (Rank Change: `+966`) ([File](../ai/rag/monday-service-langsmith-building-a-code-first-eva.md))
 - **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+966`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
 - **promptfoo/promptfoo-action** - (Rank Change: `+966`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
@@ -35,6 +34,7 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+966`) ([File](../ai/rag/arxiv-2606-29031.md))
 - **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+966`) ([File](../ai/research/arxiv-2606-26428.md))
 - **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+966`) ([File](../ai/research/arxiv-2606-21887.md))
+- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+966`) ([File](../ai/rag/arxiv-2606-09677.md))
 
 ## 🔄 Essential Tier Transitions
 
