@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 61,425 files</p>
-        <p><b>Last Update:</b> 2026-07-25 22:30 IST</p>
+        <p><b>Last Update:</b> 2026-07-25 23:34 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,23 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Firefox Containers Preview](ai/community/firefox-containers-preview.md)** • <kbd>+36 pts</kbd>
-- 🔼 **[Show HN: I simulated closing the Strait of Hormuz on real oil trade data](ai/community/show-hn-i-simulated-closing-the-strait-of-hormuz-o.md)** • <kbd>+21 pts</kbd>
-- 🔼 **[UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](ai/community/uk-aisi-caisi-preliminary-assessment-of-kimi-k3-s.md)** • <kbd>+16 pts</kbd>
-- 🔼 **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+966</kbd>
+- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+955</kbd>
+- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+955</kbd>
+- 🔼 **[strnad/CrewAI-Studio](ai/agents/strnad-crewai-studio.md)** • Rank: <kbd>+955</kbd>
+- 🔼 **[freddy-schuetz/n8n-claw](ai/rag/freddy-schuetz-n8n-claw.md)** • Rank: <kbd>+955</kbd>
+- 🔼 **[WenyuChiou/awesome-agentic-ai-zh](ai/rag/wenyuchiou-awesome-agentic-ai-zh.md)** • Rank: <kbd>+955</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits](ai/community/brazilian-farmers-tokenized-dairy-cows-to-get-loan.md)** • Score: `5`
 - 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[PartialString – A finite-difference time-domain physical modelling synthesiser](ai/community/partialstring-a-finite-difference-time-domain-phys.md)**
-- 💤 **[Corporate America Has Suddenly Decided to Stop Blowing Money on AI](ai/community/corporate-america-has-suddenly-decided-to-stop-blo.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
