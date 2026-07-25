@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openais-accidental-attack-against-hugging-face-is
 first_seen: '2026-07-23T22:16:10.230712+05:30'
 last_seen: '2026-07-24T09:12:44.002151+05:30'
 last_checked: '2026-07-24T09:12:44.002151+05:30'
 health_score: 100
 ---
+
 
 # OpenAI’s accidental attack against Hugging Face is science fiction that happened
 

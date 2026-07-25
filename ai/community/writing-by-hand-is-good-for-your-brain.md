@@ -13,13 +13,14 @@ collected_at: '2026-07-24T09:12:42.547062+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:writing-by-hand-is-good-for-your-brain
 first_seen: '2026-07-23T22:16:07.184764+05:30'
 last_seen: '2026-07-24T09:12:42.547062+05:30'
 last_checked: '2026-07-24T09:12:42.547062+05:30'
 health_score: 100
 ---
+
 
 # Writing by hand is good for your brain
 

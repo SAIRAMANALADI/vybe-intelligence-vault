@@ -13,13 +13,14 @@ collected_at: '2026-07-24T09:12:43.942551+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-arguments-against-open-source-ai-are-bad
 first_seen: '2026-07-24T01:16:13.071224+05:30'
 last_seen: '2026-07-24T09:12:43.942551+05:30'
 last_checked: '2026-07-24T09:12:43.942551+05:30'
 health_score: 100
 ---
+
 
 # The arguments against open source AI are bad
 

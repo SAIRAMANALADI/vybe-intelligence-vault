@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-07-21T22:16:32.588160+05:30'
-published_at: '2026-07-21T03:55:57Z'
+collected_at: '2026-07-25T13:58:11.781157+05:30'
+published_at: '2026-07-22T14:06:10Z'
 tags:
 - agents
 - github-repo
@@ -17,11 +17,11 @@ language: Shell
 status: active
 archived: false
 created_at: '2026-02-28T18:13:35Z'
-pushed_at: '2026-07-17T20:06:51Z'
+pushed_at: '2026-07-22T14:02:47Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-07-21T22:16:32.588160+05:30'
-last_seen: '2026-07-21T22:16:32.588160+05:30'
-last_checked: '2026-07-21T22:16:32.588160+05:30'
+first_seen: '2026-07-25T13:58:11.781157+05:30'
+last_seen: '2026-07-25T13:58:11.781157+05:30'
+last_checked: '2026-07-25T13:58:11.781157+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging **Adaptive RAG** for memory management and **Skills** via MCP templates for modular functionality.
-
-- **Features**: Supports **Expert Agents** with delegated sub-agents, **proactive task management**, and **media understanding**, with self-hosting enabled via a single setup script.
-
-- **Integration Stack**: Combines **Crawl4AI** (scraper), **SearXNG** (search engine), **Supabase** (database), and **MCP** (Model Context Protocol) for extensibility, all orchestrated within n8n.
+*   n8n-based autonomous AI agent leveraging adaptive RAG for memory and MCP templates for skill definition.
+*   Implements hierarchical expert agents with delegated sub-agents, proactive task management, and media understanding capabilities.
+*   Self-hostable via a single setup script, integrating with SearXNG for search and Supabase for data persistence.
 
 ## Why It Matters
 
@@ -46,10 +44,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 103
 - Language: Shell
 - Topics: agent, ai, ai-agent, ai-agent-framework, ai-agents, ai-agents-framework, crawl4ai, crawl4ai-scraper, framework, mcp, modelcontextprotocol, n8n, openclaw, searxng, searxng-engine, skills, supabase
-- Last Updated: 2026-07-21T03:55:57Z
+- Last Updated: 2026-07-22T14:06:10Z
 - Archived: No
 - Created At: 2026-02-28T18:13:35Z
-- Pushed At: 2026-07-17T20:06:51Z
+- Pushed At: 2026-07-22T14:02:47Z
 
 ## Possible Use Cases
 

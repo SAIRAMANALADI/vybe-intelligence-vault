@@ -13,13 +13,14 @@ collected_at: '2026-07-24T09:12:42.937206+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:startup-founders-urge-u-s-government-not-to-shut-o
 first_seen: '2026-07-23T22:16:07.906982+05:30'
 last_seen: '2026-07-24T09:12:42.937206+05:30'
 last_checked: '2026-07-24T09:12:42.937206+05:30'
 health_score: 100
 ---
+
 
 # Startup founders urge U.S. government not to shut off Chinese open weight AI
 

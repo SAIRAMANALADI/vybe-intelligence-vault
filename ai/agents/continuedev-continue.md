@@ -4,24 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/continuedev/continue
-collected_at: '2026-07-21T22:15:27.505319+05:30'
-published_at: '2026-07-21T16:15:11Z'
+collected_at: '2026-07-25T13:57:06.780614+05:30'
+published_at: '2026-07-25T05:41:29Z'
 tags:
 - agents
 - github-repo
 - typescript
-- workflows
-stars: 35011
+stars: 35102
 language: TypeScript
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2023-05-24T03:39:39Z'
-pushed_at: '2026-07-21T08:03:28Z'
+pushed_at: '2026-07-25T03:35:39Z'
 resource_id: github:continuedev/continue
-first_seen: '2026-07-21T22:15:27.505319+05:30'
-last_seen: '2026-07-21T22:15:27.505319+05:30'
-last_checked: '2026-07-21T22:15:27.505319+05:30'
+first_seen: '2026-07-25T13:57:06.780614+05:30'
+last_seen: '2026-07-25T13:57:06.780614+05:30'
+last_checked: '2026-07-25T13:57:06.780614+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,8 @@ health_score: 100
 
 ## Summary
 
-- **Open-source AI coding agent**: Continue is a TypeScript-based autonomous coding assistant designed to automate software development tasks via an agentic workflow.
-- **Multi-modal integration**: Supports CLI, IDE plugins, and AI model interactions (e.g., LLMs) for real-time code generation, debugging, and refactoring.
-- **Extensible architecture**: Modular design allows custom tool integration, context-aware prompts, and seamless collaboration with existing development environments.
+*   TypeScript-implemented open-source AI coding agent.
+*   Functions as
 
 ## Why It Matters
 
@@ -40,15 +38,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: continuedev
-- Stars: 35011
-- Forks: 5088
+- Stars: 35102
+- Forks: 5105
 - Language: TypeScript
 - Topics: agent, ai, cli, developer-tools, open-source
-- Last Updated: 2026-07-21T16:15:11Z
+- Last Updated: 2026-07-25T05:41:29Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-05-24T03:39:39Z
-- Pushed At: 2026-07-21T08:03:28Z
+- Pushed At: 2026-07-25T03:35:39Z
 
 ## Possible Use Cases
 

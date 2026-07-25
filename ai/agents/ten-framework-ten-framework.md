@@ -4,24 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TEN-framework/ten-framework
-collected_at: '2026-07-21T22:15:32.590076+05:30'
-published_at: '2026-07-21T15:56:16Z'
+collected_at: '2026-07-25T13:57:11.771173+05:30'
+published_at: '2026-07-24T21:54:44Z'
 tags:
 - agents
 - github-repo
 - python
 - youtube
-stars: 10935
+stars: 10965
 language: Python
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2024-06-19T14:26:15Z'
-pushed_at: '2026-07-21T11:51:21Z'
+pushed_at: '2026-07-24T13:40:05Z'
 resource_id: github:ten-framework/ten-framework
-first_seen: '2026-07-21T22:15:32.590076+05:30'
-last_seen: '2026-07-21T22:15:32.590076+05:30'
-last_checked: '2026-07-21T22:15:32.590076+05:30'
+first_seen: '2026-07-25T13:57:11.771173+05:30'
+last_seen: '2026-07-25T13:57:11.771173+05:30'
+last_checked: '2026-07-25T13:57:11.771173+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal real-time framework**: Python-based open-source system enabling conversational voice AI agents with real-time audio/video processing and multi-modal input/output capabilities.
-
-- **Modular architecture**: Designed for extensibility with pluggable components for speech recognition, synthesis, NLP, and agent orchestration.
-
-- **Scalable deployment**: Supports distributed execution with optimized pipelines for low-latency conversational AI applications.
+*   Python-based open-source framework for real-time conversational voice AI agents.
+*   Enables multi-modal interactions, integrating voice and video processing capabilities.
+*   Provides a foundational architecture for developing advanced AI-driven conversational systems.
 
 ## Why It Matters
 
@@ -42,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TEN-framework
-- Stars: 10935
-- Forks: 1326
+- Stars: 10965
+- Forks: 1333
 - Language: Python
 - Topics: ai, multi-modal, real-time, video, voice
-- Last Updated: 2026-07-21T15:56:16Z
+- Last Updated: 2026-07-24T21:54:44Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-06-19T14:26:15Z
-- Pushed At: 2026-07-21T11:51:21Z
+- Pushed At: 2026-07-24T13:40:05Z
 
 ## Possible Use Cases
 

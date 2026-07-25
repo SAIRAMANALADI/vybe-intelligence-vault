@@ -13,13 +13,14 @@ collected_at: '2026-07-24T09:12:43.505585+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:darpa-u-s-air-force-fly-ai-controlled-f-16
 first_seen: '2026-07-24T01:16:13.182168+05:30'
 last_seen: '2026-07-24T09:12:43.505585+05:30'
 last_checked: '2026-07-24T09:12:43.505585+05:30'
 health_score: 100
 ---
+
 
 # DARPA, U.S. Air Force fly AI-controlled F-16
 

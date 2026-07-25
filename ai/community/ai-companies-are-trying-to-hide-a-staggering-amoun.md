@@ -13,13 +13,14 @@ collected_at: '2026-07-24T09:12:44.372273+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-companies-are-trying-to-hide-a-staggering-amoun
 first_seen: '2026-07-23T20:00:45.448759+05:30'
 last_seen: '2026-07-24T09:12:44.372273+05:30'
 last_checked: '2026-07-24T09:12:44.372273+05:30'
 health_score: 100
 ---
+
 
 # AI Companies Are Trying to Hide a Staggering Amount of Debt
 

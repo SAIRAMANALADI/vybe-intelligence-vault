@@ -14,13 +14,14 @@ tags:
 - hackernews
 - threejs
 - webgpu
-status: active
+status: inactive
 resource_id: hackernews:learn-webgpu-for-c
 first_seen: '2026-07-23T22:16:08.538978+05:30'
 last_seen: '2026-07-24T09:12:44.266806+05:30'
 last_checked: '2026-07-24T09:12:44.266806+05:30'
 health_score: 100
 ---
+
 
 # Learn WebGPU for C++
 

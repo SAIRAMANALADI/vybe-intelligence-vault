@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:onecli/onecli
 first_seen: '2026-07-24T01:16:13.571841+05:30'
 last_seen: '2026-07-24T09:12:44.123062+05:30'
 last_checked: '2026-07-24T09:12:44.123062+05:30'
 health_score: 100
 ---
+
 
 # Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents
 

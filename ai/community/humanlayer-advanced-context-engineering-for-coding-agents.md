@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: github:humanlayer/advanced-context-engineering-for-coding-agents
 first_seen: '2026-07-24T01:16:13.665121+05:30'
 last_seen: '2026-07-24T09:12:43.072679+05:30'
 last_checked: '2026-07-24T09:12:43.072679+05:30'
 health_score: 100
 ---
+
 
 # Why Software Factories Fail (or: harness engineering is not enough)
 

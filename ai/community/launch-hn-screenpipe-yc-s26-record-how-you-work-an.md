@@ -14,13 +14,14 @@ tags:
 - agents
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:launch-hn-screenpipe-yc-s26-record-how-you-work-an
 first_seen: '2026-07-24T01:16:12.732037+05:30'
 last_seen: '2026-07-24T09:12:43.696216+05:30'
 last_checked: '2026-07-24T09:12:43.696216+05:30'
 health_score: 100
 ---
+
 
 # Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents
 

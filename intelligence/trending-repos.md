@@ -6,28 +6,28 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | :--- | :--- | :--- |
 | [pmndrs/triplex](https://github.com/pmndrs/triplex) | `ai-coding-agents/` | 70 |
 | [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) | `ai-coding-agents/` | 70 |
-| [firecrawl repositories · GitHub](https://github.com/orgs/firecrawl/repositories?q=sort%3Astars) | `ai-coding-agents/` | 70 |
-| [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) | `ai-coding-agents/` | 70 |
-| [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) | `ai-coding-agents/` | 70 |
-| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | `ai-coding-agents/` | 70 |
-| [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) | `ai-coding-agents/` | 70 |
-| [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) | `ai-coding-agents/` | 70 |
-| [GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub](https://github.com/resources/whitepapers/gartner-magic-quadrant-and-critical-capabilities-for-ai-code-assistants) | `ai-coding-agents/` | 70 |
-| [wxmb01/codex-app-autonomous-runs](https://github.com/wxmb01/codex-app-autonomous-runs) | `ai-coding-agents/` | 70 |
-| [LangChain · GitHub](https://github.com/langchain-ai) | `ai-coding-agents/` | 70 |
-| [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings) | `ai-coding-agents/` | 70 |
-| [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) | `ai-coding-agents/` | 70 |
-| [atticus98/codex-turbo](https://github.com/atticus98/codex-turbo) | `ai-coding-agents/` | 70 |
-| [study8677/antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) | `ai-coding-agents/` | 70 |
-| [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) | `ai-coding-agents/` | 70 |
-| [NVIDIA-AI-Blueprints/aiq](https://github.com/NVIDIA-AI-Blueprints/aiq) | `ai-coding-agents/` | 70 |
-| [viktoriasemaan/multi-agent](https://github.com/viktoriasemaan/multi-agent) | `ai-coding-agents/` | 70 |
+| [golf-mcp/golf](https://github.com/golf-mcp/golf) | `ai-coding-agents/` | 70 |
 | [HKUDS/OpenPhone](https://github.com/HKUDS/OpenPhone) | `ai-coding-agents/` | 70 |
-| [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) | `ai-coding-agents/` | 70 |
-| [riolaf05/blog-writer-crewai](https://github.com/riolaf05/blog-writer-crewai) | `ai-coding-agents/` | 70 |
-| [Hugging Face · GitHub](https://github.com/huggingface) | `ai-coding-agents/` | 70 |
-| [Google Cloud Platform · GitHub](https://github.com/googlecloudPlatform/) | `ai-coding-agents/` | 70 |
-| [Deepakyati/CrewAI_2026](https://github.com/Deepakyati/CrewAI_2026) | `ai-coding-agents/` | 70 |
-| [humanlaya/OneMillion-Bench](https://github.com/humanlaya/OneMillion-Bench) | `ai-coding-agents/` | 70 |
+| [trycua/cua](https://github.com/trycua/cua) | `ai-coding-agents/` | 70 |
+| [HeadyZhang/agent-audit](https://github.com/HeadyZhang/agent-audit) | `ai-coding-agents/` | 70 |
+| [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | `ai-coding-agents/` | 70 |
+| [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) | `ai-coding-agents/` | 70 |
+| [dorisoy/FFmpeg.AutoGen.Toolkit](https://github.com/dorisoy/FFmpeg.AutoGen.Toolkit) | `ai-coding-agents/` | 70 |
+| [danielt69/awesome-agent-observability](https://github.com/danielt69/awesome-agent-observability) | `ai-coding-agents/` | 70 |
+| [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) | `ai-coding-agents/` | 70 |
+| [HeJiguang/codescan](https://github.com/HeJiguang/codescan) | `ai-coding-agents/` | 70 |
+| [greensock/gsap-skills](https://github.com/greensock/gsap-skills) | `ai-coding-agents/` | 70 |
+| [sierra-research/tau2-bench](https://github.com/sierra-research/tau2-bench) | `ai-coding-agents/` | 70 |
+| [Resources to help you build, secure, and scale with GitHub · GitHub](https://resources.github.com/) | `ai-coding-agents/` | 70 |
+| [GitHub CLI | Take GitHub to the command line](https://cli.github.com) | `ai-coding-agents/` | 70 |
+| [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) | `ai-coding-agents/` | 70 |
+| [cisco-ai-defense/defenseclaw](https://github.com/cisco-ai-defense/defenseclaw) | `ai-coding-agents/` | 70 |
+| [abuzarmahmood/blech_github_bot](https://github.com/abuzarmahmood/blech_github_bot) | `ai-coding-agents/` | 70 |
+| [Vercel · GitHub](https://github.com/vercel) | `ai-coding-agents/` | 70 |
+| [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) | `ai-coding-agents/` | 70 |
+| [iuyup/AgentFlow](https://github.com/iuyup/AgentFlow) | `ai-coding-agents/` | 70 |
+| [Flux159/mcp-chat](https://github.com/flux159/mcp-chat) | `ai-coding-agents/` | 70 |
+| [BrandPeng/Langchain1.0-Langgraph1.0-Learning](https://github.com/BrandPeng/Langchain1.0-Langgraph1.0-Learning) | `ai-coding-agents/` | 70 |
+| [seehiong/seehiong.github.io](https://github.com/seehiong/seehiong.github.io) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.
