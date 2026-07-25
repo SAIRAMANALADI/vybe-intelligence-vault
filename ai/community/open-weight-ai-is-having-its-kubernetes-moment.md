@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment
 hn_url: https://news.ycombinator.com/item?id=49048034
-score: 174
+score: 268
 author: tknaup
-comments_count: 121
+comments_count: 210
 published_at: '2026-07-25T20:19:49+05:30'
-collected_at: '2026-07-26T01:04:41.310460+05:30'
+collected_at: '2026-07-26T03:40:24.840443+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:open-weight-ai-is-having-its-kubernetes-moment
 first_seen: '2026-07-26T01:04:41.310460+05:30'
-last_seen: '2026-07-26T01:04:41.310460+05:30'
-last_checked: '2026-07-26T01:04:41.310460+05:30'
+last_seen: '2026-07-26T03:40:24.840443+05:30'
+last_checked: '2026-07-26T03:40:24.840443+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by tknaup. Score: 174, Comments: 121.
+Hacker News story by tknaup. Score: 268, Comments: 210.
 Original Link: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: tknaup
-- Score: 174 Upvotes
-- Comments: 121 Discussions
+- Score: 268 Upvotes
+- Comments: 210 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49048034
 - Original Article: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment
 

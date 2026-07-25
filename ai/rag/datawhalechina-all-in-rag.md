@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-07-26T01:05:16.114257+05:30'
+collected_at: '2026-07-26T03:41:04.355390+05:30'
 published_at: '2026-07-25T15:51:15Z'
 tags:
 - github-repo
-- hackernews
 - meta-ai
 - models
 - python
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-07-20T19:00:56Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-07-26T01:05:16.114257+05:30'
-last_seen: '2026-07-26T01:05:16.114257+05:30'
-last_checked: '2026-07-26T01:05:16.114257+05:30'
+first_seen: '2026-07-26T03:41:04.355390+05:30'
+last_seen: '2026-07-26T03:41:04.355390+05:30'
+last_checked: '2026-07-26T03:41:04.355390+05:30'
 health_score: 100
 ---
 
@@ -30,7 +29,7 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive RAG implementation guide spanning foundational techniques to advanced applications, including multimodal paradigms
+*   Comprehensive guide for full-stack RAG system development, emphasizing practical application with large language
 
 ## Why It Matters
 

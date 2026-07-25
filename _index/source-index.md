@@ -10523,9 +10523,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [A 77-year-old Republican man is staging a solo protest against Flock cameras](../ai/community/a-77-year-old-republican-man-is-staging-a-solo-pro.md)
+  - [GM Backs Sodium Ion Batteries for U.S. Grid Storage](../ai/community/gm-backs-sodium-ion-batteries-for-u-s-grid-storage.md)
   - [Open-weight AI is having its Kubernetes moment](../ai/community/open-weight-ai-is-having-its-kubernetes-moment.md)
   - [Show HN: Brolly, a plain-text weather forecast site](../ai/community/show-hn-brolly-a-plain-text-weather-forecast-site.md)
-  - [Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)](../ai/community/teardown-the-bmw-harman-idc23h-infotainment-unit-b.md)
+  - [Show HN: Yorishiro – a macOS terminal where AI agents live](../ai/community/sktkkoo-yorishiro.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -13782,4 +13784,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-26T01:21:34.791479+05:30*
+*Index generated on 2026-07-26T03:57:27.903659+05:30*

@@ -2257,6 +2257,7 @@ Resources organized by keyword tags.
   - [Shift & Drift: A Zero-Shot Benchmark for Generalizable and Robust Autonomous Driving Motion Planning](../ai/rag/arxiv-2607-07844.md)
   - [ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](../ai/agents/arxiv-2606-31693.md)
   - [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](../ai/agents/arxiv-2605-22142.md)
+  - [Show HN: Yorishiro – a macOS terminal where AI agents live](../ai/community/sktkkoo-yorishiro.md)
   - [Shutdownable Agents through POST-Agency](../ai/agents/arxiv-2505-20203.md)
   - [Siamese Neural Network for Label-Efficient Critical Phenomena Prediction in 3D Percolation Models](../ai/agents/arxiv-2507-14159.md)
   - [Signed Compression Progress on a Sealed Audit is Goodhart-Resistant](../ai/agents/arxiv-2606-11417.md)
@@ -3130,9 +3131,10 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [A 77-year-old Republican man is staging a solo protest against Flock cameras](../ai/community/a-77-year-old-republican-man-is-staging-a-solo-pro.md)
   - [Open-weight AI is having its Kubernetes moment](../ai/community/open-weight-ai-is-having-its-kubernetes-moment.md)
   - [Show HN: Brolly, a plain-text weather forecast site](../ai/community/show-hn-brolly-a-plain-text-weather-forecast-site.md)
-  - [Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)](../ai/community/teardown-the-bmw-harman-idc23h-infotainment-unit-b.md)
+  - [Show HN: Yorishiro – a macOS terminal where AI agents live](../ai/community/sktkkoo-yorishiro.md)
 
 ## animation
 
@@ -12049,6 +12051,7 @@ Resources organized by keyword tags.
   - [40th General Assembly of the European Seismological Commission - ESC 2026](../ai/resources/40th-general-assembly-of-the-european-seismologica.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
   - [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)
+  - [A 77-year-old Republican man is staging a solo protest against Flock cameras](../ai/community/a-77-year-old-republican-man-is-staging-a-solo-pro.md)
   - [A CEFR-Inspired Classification Framework with Fuzzy C-Means To Automate Assessment of Programming Skills in Scratch](../ai/research/arxiv-2604-00730.md)
   - [A Comparative Analysis of Machine Learning Models for Long and Short-Term Forecasting of the Egyptian Stock Market: A Focus on EGX30](../ai/research/arxiv-2607-14391.md)
   - [A Complete Symmetry Classification of Shallow ReLU Networks](../ai/research/arxiv-2604-14037.md)
@@ -12740,6 +12743,7 @@ Resources organized by keyword tags.
   - [GEAR | Google Developer Program | Google for Developers](../ai/agents/gear-google-developer-program-google-for-developer.md)
   - [GEO Week News | Lidar, AEC, 3D Technology & Geospatial Insights](../ai/rag/geo-week-news-lidar-aec-3d-technology-geospatial-i.md)
   - [GES-TSP: Graph Edge Sparsification for TSP](../ai/research/arxiv-2607-09708.md)
+  - [GM Backs Sodium Ion Batteries for U.S. Grid Storage](../ai/community/gm-backs-sodium-ion-batteries-for-u-s-grid-storage.md)
   - [GMD - Development and technical paper](../ai/rag/gmd-development-and-technical-paper.md)
   - [GMD - Submission](../ai/rag/gmd-submission.md)
   - [GMD - The need for carbon-emissions-driven climate projections in CMIP7](../ai/rag/gmd-the-need-for-carbon-emissions-driven-climate-p.md)
@@ -13625,6 +13629,7 @@ Resources organized by keyword tags.
   - [Sexualised synthetic personas encode and amplify gendered power asymmetries through voice](../ai/research/arxiv-2606-21366.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
   - [Show HN: Brolly, a plain-text weather forecast site](../ai/community/show-hn-brolly-a-plain-text-weather-forecast-site.md)
+  - [Show HN: Yorishiro – a macOS terminal where AI agents live](../ai/community/sktkkoo-yorishiro.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Sign in to GitHub · GitHub](../ai/resources/langchain-ai-docs.md)
@@ -13736,7 +13741,6 @@ Resources organized by keyword tags.
   - [Teaching AI to speak our design language - Inside Atlassian](../ai/rag/teaching-ai-to-speak-our-design-language-inside-at.md)
   - [Teaching OPT to Paraphrase through Soft Prompt Tuning | by AI Singapore | AI Singapore TechBytes | Medium](../ai/rag/teaching-opt-to-paraphrase-through-soft-prompt-tun.md)
   - [Teaming Up with AI: Coordination and Cooperation](../ai/agents/arxiv-2607-03181.md)
-  - [Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)](../ai/community/teardown-the-bmw-harman-idc23h-infotainment-unit-b.md)
   - [Tech Blog – Diff](../ai/resources/tech-blog-diff.md)
   - [Tech Portal | Home](../ai/resources/tech-portal-home.md)
   - [Tech Resources & Support](../ai/resources/tech-resources-support.md)
@@ -14106,7 +14110,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -22358,6 +22361,7 @@ Resources organized by keyword tags.
   - [GILT: An LLM-Free, Tuning-Free Graph Foundational Model for In-Context Learning](../ai/rag/arxiv-2510-04567.md)
   - [GLACIER: A Multimodal Student-Teacher Foundation Model for Molecular Property Prediction](../ai/rag/arxiv-2606-11382.md)
   - [GLM-5 Serving Parameter Tuning for OpenClaw: Single-Deployment MaaS Inference Optimization for Long-Context Agent Workloads](../ai/rag/arxiv-2607-02518.md)
+  - [GM Backs Sodium Ion Batteries for U.S. Grid Storage](../ai/community/gm-backs-sodium-ion-batteries-for-u-s-grid-storage.md)
   - [GMD - Development and technical paper](../ai/rag/gmd-development-and-technical-paper.md)
   - [GMD - Submission](../ai/rag/gmd-submission.md)
   - [GMD - The need for carbon-emissions-driven climate projections in CMIP7](../ai/rag/gmd-the-need-for-carbon-emissions-driven-climate-p.md)
@@ -32138,4 +32142,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-26T01:21:34.638580+05:30*
+*Index generated on 2026-07-26T03:57:27.753317+05:30*

@@ -16731,6 +16731,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch>
 
+* **[A 77-year-old Republican man is staging a solo protest against Flock cameras](ai/community/a-77-year-old-republican-man-is-staging-a-solo-pro.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by UmYeahNo. Score: 42, Comments: 20. Original Link: https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras>
+
 * **[A Clinician-Centered Pipeline for Annotation and Evaluation in Ultrasound AI Studies](ai/research/arxiv-2606-19174.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.19174v1 Announce Type: cross Abstract: Clinician-centered evaluation is critical for validating medical AI systems, especially in ultrasound imaging where quantitative metrics do not always capture clinical usability. Existing medical imag
   * Tags: `benchmark`, `dataset`, `workflows`
@@ -18121,6 +18126,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `workflows`
   * Source URL: <https://arxiv.org/abs/2604.20822>
 
+* **[GM Backs Sodium Ion Batteries for U.S. Grid Storage](ai/community/gm-backs-sodium-ion-batteries-for-u-s-grid-storage.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by rbanffy. Score: 15, Comments: 0. Original Link: https://spectrum.ieee.org/sodium-ion-battery-peak-energy
+  * Tags: `hackernews`, `rag`
+  * Source URL: <https://spectrum.ieee.org/sodium-ion-battery-peak-energy>
+
 * **[GMD - Development and technical paper](ai/rag/gmd-development-and-technical-paper.md)** (`dataset` | `useful` tier)
   * Summary: - **Second-order conservative remapping in spherical coordinates**: Identified a previously unaddressed flaw in the centroid formulation derivation of a pioneer method, which could theoretically impact remapping accuracy but has negligible practical
   * Tags: `anthropic`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `models`, `paper`, `rag`, `web-crawled`, `workflows`, `youtube`
@@ -18977,7 +18987,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://openssf.org/?hsLang=en>
 
 * **[Open-weight AI is having its Kubernetes moment](ai/community/open-weight-ai-is-having-its-kubernetes-moment.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by tknaup. Score: 174, Comments: 121. Original Link: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/
+  * Summary: Hacker News story by tknaup. Score: 268, Comments: 210. Original Link: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment>
 
@@ -19512,9 +19522,14 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://shibuya.lepture.com>
 
 * **[Show HN: Brolly, a plain-text weather forecast site](ai/community/show-hn-brolly-a-plain-text-weather-forecast-site.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by jsax. Score: 8, Comments: 0. Original Link: https://brolly.sh/forecast/RWFP2qW8
+  * Summary: Hacker News story by jsax. Score: 79, Comments: 26. Original Link: https://brolly.sh/forecast/RWFP2qW8
   * Tags: `ai`, `hackernews`
   * Source URL: <https://brolly.sh/forecast/rwfp2qw8>
+
+* **[Show HN: Yorishiro – a macOS terminal where AI agents live](ai/community/sktkkoo-yorishiro.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by hakumei. Score: 18, Comments: 2. Original Link: https://github.com/sktkkoo/Yorishiro
+  * Tags: `agents`, `ai`, `hackernews`
+  * Source URL: <https://github.com/sktkkoo/yorishiro>
 
 * **[Signature filtering: a lightweight enhancement for statistical watermark detection in large language models](ai/research/arxiv-2606-18430.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18430v1 Announce Type: new Abstract: Statistical watermarks help organizations attribute large language model (LLM) outputs, yet existing detectors often struggle when watermark signals are weak, texts are repetitive, or watermarks are edi
@@ -19694,11 +19709,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Real-time transaction monitoring engine** leveraging rules-based typology detection with configurable thresholds, combining current event data and historical participant behavior for fraud and AML typology identification. - **Low-code integration
   * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.tazama.org>
-
-* **[Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)](ai/community/teardown-the-bmw-harman-idc23h-infotainment-unit-b.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by JojoFatsani. Score: 17, Comments: 16. Original Link: https://www.hakstuff.net/blog/teardown-the-bmw-idc23h-infotainment-unit
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://hakstuff.net/blog/teardown-the-bmw-idc23h-infotainment-unit>
 
 * **[techwithtim/Langflow-RAG-Tutorial](ai/rag/techwithtim-langflow-rag-tutorial.md)** (`benchmark` | `useful` tier)
   * Summary: - **Repository Overview**: Langflow-RAG-Tutorial by techwithtim is a GitHub repository with 97 stars and 25 forks, last updated on **2026-07-03**. - **Technical Focus**: The repository is centered on **Retrieval-Augmented Generation (RAG)** workflows
@@ -90716,7 +90726,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17846>
 
 * **[Qwen/Qwen3-0.6B](ai/models/huggingface-qwen-qwen3-0-6b.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1449, Downloads: 28950114)
+  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1450, Downloads: 28950114)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/qwen/qwen3-0.6b>
 
@@ -105407,8 +105417,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2512.01317>
 
 * **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tutorial` | `useful` tier)
-  * Summary: * Comprehensive RAG implementation guide spanning foundational techniques to advanced applications, including multimodal paradigms
-  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
+  * Summary: * Comprehensive guide for full-stack RAG system development, emphasizing practical application with large language
+  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -105416,8 +105426,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`benchmark` | `useful` tier)
-  * Summary: * Comprehensive LLM application development tutorial designed for novice developers. * Emphasizes practical implementation using LangChain and Retrieval-Augmented Generation (RAG) architectures. * Content delivered via Jupyter Notebooks, facilitating
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tool` | `useful` tier)
+  * Summary: * Focuses on practical LLM application development. * Leverages LangChain for orchestration
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -111452,7 +111462,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://superml.org/tutorials/rag-beginner>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * GitHub repository `raganwald/raganwald.github.com` functions as
+  * Summary: * Jekyll-based static site source for `raganwald.com`. * Primary codebase is HTML, indicative of generated content. * Repository `raganwald/raganwald.github.com` follows the GitHub Pages naming convention for direct site
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
@@ -112557,7 +112567,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.00558>
 
 * **[sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1331, Downloads: 51431362)
+  * Summary: Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1332, Downloads: 51431362)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2>
 
@@ -113232,7 +113242,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.16617>
 
 * **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`benchmark` | `useful` tier)
-  * Summary: * Implements a Retrieval-Augmented Generation (RAG) system for querying GitHub repository content. * Developed in Python, enabling practical deployment for codebase interaction. * Facilitates conversational analysis and information retrieval from sou
+  * Summary: * Implements a Retrieval-Augmented Generation (RAG) system for GitHub repository content. * Facilitates downloading and interactive natural language querying of specified repositories. * Developed primarily in Python.
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/SylphAI-Inc/GithubChat>
 
