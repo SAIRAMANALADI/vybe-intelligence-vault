@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-112%2C556-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-61%2C424-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--25-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **112,556 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **61,424 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 14,060</p>
-        <p><b>Active:</b> 13,739 | <b>Inactive:</b> 321</p>
+        <p><b>Resources tracked:</b> 13,095</p>
+        <p><b>Active:</b> 12,774 | <b>Inactive:</b> 321</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 52,236</p>
+        <p><b>Archive Files:</b> 2,047</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 112,556 files</p>
-        <p><b>Last Update:</b> 2026-07-25 19:51 IST</p>
+        <p><b>Total Vault Size:</b> 61,424 files</p>
+        <p><b>Last Update:</b> 2026-07-25 20:37 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,23 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Firefox Containers Preview](ai/community/firefox-containers-preview.md)** • <kbd>+46 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Show HN: I simulated closing the Strait of Hormuz on real oil trade data](ai/community/show-hn-i-simulated-closing-the-strait-of-hormuz-o.md)** • <kbd>+25 pts</kbd> • Rank: <kbd>+3</kbd>
-- 🔼 **[UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](ai/community/uk-aisi-caisi-preliminary-assessment-of-kimi-k3-s.md)** • <kbd>+19 pts</kbd> • Rank: <kbd>+3</kbd>
-- 🔼 **[PartialString – A finite-difference time-domain physical modelling synthesiser](ai/community/partialstring-a-finite-difference-time-domain-phys.md)** • <kbd>+12 pts</kbd> • Rank: <kbd>+3</kbd>
-- 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+982</kbd>
+- 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[strnad/CrewAI-Studio](ai/agents/strnad-crewai-studio.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[freddy-schuetz/n8n-claw](ai/rag/freddy-schuetz-n8n-claw.md)** • Rank: <kbd>+965</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Corporate America Has Suddenly Decided to Stop Blowing Money on AI](ai/community/corporate-america-has-suddenly-decided-to-stop-blo.md)** • Score: `7`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Nvidia, Microsoft, Meta warn against overregulating open-weight models](ai/community/nvidia-microsoft-meta-warn-against-overregulating.md)**
-- 💤 **[Half-Life 2 running natively on HaikuOS](ai/community/half-life-2-running-natively-on-haikuos.md)**
-- 💤 **[IRGC claims it destroyed Amazon's Bahrain data center](ai/community/irgc-claims-it-destroyed-amazon-s-bahrain-data-cen.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
