@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: allenai/c4 (Likes: 620, Downloads: 1736426)
+Trending Hugging Face dataset: allenai/c4 (Likes: 620, Downloads: 1699702)
 
 ## Use Cases
 

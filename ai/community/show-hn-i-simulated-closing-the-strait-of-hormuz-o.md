@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://globaloilnetwork.staffinganalytics.io
 hn_url: https://news.ycombinator.com/item?id=49020545
-score: 168
+score: 188
 author: eliotho
-comments_count: 82
+comments_count: 87
 published_at: '2026-07-23T18:01:21+05:30'
-collected_at: '2026-07-25T13:54:07.321612+05:30'
+collected_at: '2026-07-25T16:14:33.043677+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:show-hn-i-simulated-closing-the-strait-of-hormuz-o
 first_seen: '2026-07-25T13:54:07.321612+05:30'
-last_seen: '2026-07-25T13:54:07.321612+05:30'
-last_checked: '2026-07-25T13:54:07.321612+05:30'
+last_seen: '2026-07-25T16:14:33.043677+05:30'
+last_checked: '2026-07-25T16:14:33.043677+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by eliotho. Score: 168, Comments: 82.
+Hacker News story by eliotho. Score: 188, Comments: 87.
 Original Link: https://globaloilnetwork.staffinganalytics.io/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: eliotho
-- Score: 168 Upvotes
-- Comments: 82 Discussions
+- Score: 188 Upvotes
+- Comments: 87 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49020545
 - Original Article: https://globaloilnetwork.staffinganalytics.io
 

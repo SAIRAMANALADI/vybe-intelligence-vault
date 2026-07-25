@@ -13786,4 +13786,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-25T14:10:58.239881+05:30*
+*Index generated on 2026-07-25T16:31:49.709646+05:30*
