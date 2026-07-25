@@ -20,9 +20,9 @@ Well-engineered prompts reduce downstream parsing failures, control costs throug
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 395 resources matched in the intelligence vault.
 Recently detected signals:
-- [Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API](../ai/models/huggingface-blog-few-shot-learning-gpt-neo-and-inference-api.md) (Source: Unknown Source) - Collected 2026-07-25
-- [SetFit: Efficient Few-Shot Learning Without Prompts](../ai/models/huggingface-blog-setfit.md) (Source: Unknown Source) - Collected 2026-07-25
-- [SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit](../ai/models/huggingface-blog-setfit-absa.md) (Source: Unknown Source) - Collected 2026-07-25
+- [Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API](../ai/models/huggingface-blog-few-shot-learning-gpt-neo-and-inference-api.md) (Source: Unknown Source) - Collected 2026-07-26
+- [SetFit: Efficient Few-Shot Learning Without Prompts](../ai/models/huggingface-blog-setfit.md) (Source: Unknown Source) - Collected 2026-07-26
+- [SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit](../ai/models/huggingface-blog-setfit-absa.md) (Source: Unknown Source) - Collected 2026-07-26
 - [WenyuChiou/awesome-agentic-ai-zh](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) (Source: Unknown Source) - Collected 2026-07-25
 - [Guardrails as Scapegoats: Auditing Unfaithful Safety Refusals in Tool-Augmented LLM Agents](../ai/agents/arxiv-2607-19449.md) (Source: Unknown Source) - Collected 2026-07-24
 <!-- GENERATED:CURRENT_SIGNAL_END -->
@@ -90,35 +90,35 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **RAG Implementation Guide**: Repository provides technical best practices for integrating large language models (LLMs) with retrieval-augmented generation (RAG) pipelines in Python.
 
-### 13. [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](../ai/resources/lm-sys-fastchat.md) ([GitHub](https://github.com/lm-sys/fastchat))
-- Stars: 0
-- Language: Unknown
-- Description: - **FastChat** is an open-source framework from `lm-sys` (4.8k forks, 39.5k stars) designed for evaluating LLM responses, with structured prompts for pairwise and single-judge evaluations across ge...
-
-### 14. [run-llama/llama-cloud-ts](../ai/agents/run-llama-llama-cloud-ts.md) ([GitHub](https://github.com/run-llama/llama-cloud-ts))
+### 13. [run-llama/llama-cloud-ts](../ai/agents/run-llama-llama-cloud-ts.md) ([GitHub](https://github.com/run-llama/llama-cloud-ts))
 - Stars: 0
 - Language: Unknown
 - Description: - **TypeScript SDK for LlamaParse**: Provides cloud-based OCR and document parsing capabilities via the `llamaparse` API, enabling structured extraction from unstructured documents.
 
-### 15. [github/awesome-copilot](../ai/agents/github-awesome-copilot.md) ([GitHub](https://github.com/github/awesome-copilot))
+### 14. [github/awesome-copilot](../ai/agents/github-awesome-copilot.md) ([GitHub](https://github.com/github/awesome-copilot))
 - Stars: 0
 - Language: Unknown
 - Description: - **Curated Resource Hub**: Aggregates community-driven guides, agents, skills, and configurations to optimize GitHub Copilot usage, spanning prompt engineering, custom agents, and AI-driven workfl...
 
-### 16. [jaypanchal18/production-ai-agents-and-llm-platform](../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform.md) ([GitHub](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform))
+### 15. [jaypanchal18/production-ai-agents-and-llm-platform](../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform.md) ([GitHub](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform))
 - Stars: 0
 - Language: Unknown
 - Description: A advanced web app | api project: Production AI Agents and LLM Platform. The Production AI Agents and LLM Platform is designed to streamline the deployment and management of AI agents and large lan...
 
-### 17. [explosion/spacy-llm](../ai/resources/explosion-spacy-llm.md) ([GitHub](https://github.com/explosion/spacy-llm))
+### 16. [explosion/spacy-llm](../ai/resources/explosion-spacy-llm.md) ([GitHub](https://github.com/explosion/spacy-llm))
 - Stars: 0
 - Language: Unknown
 - Description: - **Integration Framework**: Provides a structured pipeline for integrating large language models (LLMs) like GPT-3/4, Llama, Cohere, and others into spaCy NLP workflows via modular components (e.g...
 
-### 18. [stanfordnlp/dsp](../ai/resources/stanfordnlp-dsp.md) ([GitHub](https://github.com/stanfordnlp/dsp))
+### 17. [stanfordnlp/dsp](../ai/resources/stanfordnlp-dsp.md) ([GitHub](https://github.com/stanfordnlp/dsp))
 - Stars: 0
 - Language: Unknown
 - Description: *   Provides a programmatic framework for composing and optimizing language model (LM) pipelines, shifting from direct prompt engineering to structured LM programming.
+
+### 18. [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](../ai/resources/lm-sys-fastchat.md) ([GitHub](https://github.com/lm-sys/fastchat))
+- Stars: 0
+- Language: Unknown
+- Description: - **FastChat** is an open-source framework from `lm-sys` (4.8k forks, 39.5k stars) designed for evaluating LLM responses, with structured prompts for pairwise and single-judge evaluations across ge...
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -140,4 +140,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-25T21:59:47.839194+05:30.785791+05:30.431282+05:30.900403+05:30.321102+05:30.741735+05:30.830398+05:30.420902+05:30.520185+05:30.099407+05:30.241381+05:30.787705+05:30.531596+05:30.441738+05:30.293456+05:30.509769+05:30.054209+05:30.271288+05:30.926998+05:30.294234+05:30.970094+05:30.533943+05:30.771466+05:30.797579+05:30.579488+05:30.244825+05:30.395678+05:30.571425+05:30.587288+05:30.146322+05:30.309609+05:30.196830+05:30.695248+05:30.446523+05:30.671659+05:30.006993+05:30.397725+05:30.895171+05:30.442877+05:30.058410+05:30.599921+05:30.978407+05:30.741321+05:30.852913+05:30.727510+05:30.954461+05:30.856247+05:30.640771+05:30.674145+05:30.286656+05:30.198622+05:30.334265+05:30.606069+05:30.969440+05:30.888730+05:30.300450+05:30.432366+05:30.541189+05:30.363472+05:30.159452+05:30.335293+05:30.168152+05:30.369157+05:30.042780+05:30.172643+05:30.562942+05:30.900875+05:30.896989+05:30.203766+05:30.195583+05:30.685581+05:30.652618+05:30.785597+05:30.261200+05:30.269860+05:30.348616+05:30.707889+05:30.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-26T01:20:37.053521+05:30.839194+05:30.785791+05:30.431282+05:30.900403+05:30.321102+05:30.741735+05:30.830398+05:30.420902+05:30.520185+05:30.099407+05:30.241381+05:30.787705+05:30.531596+05:30.441738+05:30.293456+05:30.509769+05:30.054209+05:30.271288+05:30.926998+05:30.294234+05:30.970094+05:30.533943+05:30.771466+05:30.797579+05:30.579488+05:30.244825+05:30.395678+05:30.571425+05:30.587288+05:30.146322+05:30.309609+05:30.196830+05:30.695248+05:30.446523+05:30.671659+05:30.006993+05:30.397725+05:30.895171+05:30.442877+05:30.058410+05:30.599921+05:30.978407+05:30.741321+05:30.852913+05:30.727510+05:30.954461+05:30.856247+05:30.640771+05:30.674145+05:30.286656+05:30.198622+05:30.334265+05:30.606069+05:30.969440+05:30.888730+05:30.300450+05:30.432366+05:30.541189+05:30.363472+05:30.159452+05:30.335293+05:30.168152+05:30.369157+05:30.042780+05:30.172643+05:30.562942+05:30.900875+05:30.896989+05:30.203766+05:30.195583+05:30.685581+05:30.652618+05:30.785597+05:30.261200+05:30.269860+05:30.348616+05:30.707889+05:30.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.

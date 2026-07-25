@@ -20,11 +20,11 @@ Running models locally eliminates API costs, guarantees complete data privacy, a
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 277 resources matched in the intelligence vault.
 Recently detected signals:
-- [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](../ai/models/huggingface-blog-4bit-transformers-bitsandbytes.md) (Source: Unknown Source) - Collected 2026-07-25
-- [Stable Diffusion XL on Mac with Advanced Core ML Quantization](../ai/models/huggingface-blog-stable-diffusion-xl-coreml.md) (Source: Unknown Source) - Collected 2026-07-25
-- [Overview of natively supported quantization schemes in 🤗 Transformers](../ai/models/huggingface-blog-overview-quantization-transformers.md) (Source: Unknown Source) - Collected 2026-07-25
-- [Quanto: a PyTorch quantization backend for Optimum](../ai/models/huggingface-blog-quanto-introduction.md) (Source: Unknown Source) - Collected 2026-07-25
-- [Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval](../ai/models/huggingface-blog-embedding-quantization.md) (Source: Unknown Source) - Collected 2026-07-25
+- [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](../ai/models/huggingface-blog-4bit-transformers-bitsandbytes.md) (Source: Unknown Source) - Collected 2026-07-26
+- [Stable Diffusion XL on Mac with Advanced Core ML Quantization](../ai/models/huggingface-blog-stable-diffusion-xl-coreml.md) (Source: Unknown Source) - Collected 2026-07-26
+- [Overview of natively supported quantization schemes in 🤗 Transformers](../ai/models/huggingface-blog-overview-quantization-transformers.md) (Source: Unknown Source) - Collected 2026-07-26
+- [Quanto: a PyTorch quantization backend for Optimum](../ai/models/huggingface-blog-quanto-introduction.md) (Source: Unknown Source) - Collected 2026-07-26
+- [Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval](../ai/models/huggingface-blog-embedding-quantization.md) (Source: Unknown Source) - Collected 2026-07-26
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -50,50 +50,50 @@ Recently detected signals:
 - Language: Unknown
 - Description: *   Python-based repository demonstrating local Retrieval-Augmented Generation (RAG) implementations for document Q&A.
 
-### 5. [ollama/ollama-python](../ai/resources/ollama-ollama-python.md) ([GitHub](https://github.com/ollama/ollama-python))
-- Stars: 0
-- Language: Unknown
-- Description: - Python client library for interacting with Ollama's local LLM service via REST API
-
-### 6. [llmware-ai/llmware](../ai/rag/llmware-ai-llmware.md) ([GitHub](https://github.com/llmware-ai/llmware))
+### 5. [llmware-ai/llmware](../ai/rag/llmware-ai-llmware.md) ([GitHub](https://github.com/llmware-ai/llmware))
 - Stars: 0
 - Language: Unknown
 - Description: - **Unified RAG Framework**: Provides an integrated Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines using small, specialized models optimized...
 
-### 7. [Tencent/WeKnora](../ai/rag/tencent-weknora.md) ([GitHub](https://github.com/tencent/weknora))
+### 6. [Tencent/WeKnora](../ai/rag/tencent-weknora.md) ([GitHub](https://github.com/tencent/weknora))
 - Stars: 0
 - Language: Unknown
 - Description: - **Multi-Model RAG & Agentic Workflows**: Implements Retrieval-Augmented Generation (RAG) with support for vector search, reranking, and multi-model LLM integration (e.g., Ollama, OpenAI) to enabl...
 
-### 8. [stackitcloud/rag-template](../ai/rag/stackitcloud-rag-template.md) ([GitHub](https://github.com/stackitcloud/rag-template))
+### 7. [stackitcloud/rag-template](../ai/rag/stackitcloud-rag-template.md) ([GitHub](https://github.com/stackitcloud/rag-template))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Provides a template for deploying AI chatbots and document management systems using **Retrieval-Augmented Generation (RAG)** with **vector search** and **FastAPI** for backend services.
 
-### 9. [Fosowl/agenticSeek](../ai/rag/fosowl-agenticseek.md) ([GitHub](https://github.com/fosowl/agenticseek))
+### 8. [Fosowl/agenticSeek](../ai/rag/fosowl-agenticseek.md) ([GitHub](https://github.com/fosowl/agenticseek))
 - Stars: 0
 - Language: Unknown
 - Description: - **Local LLM Agent Framework**: Fully local implementation of Manus AI using Python, enabling autonomous agents capable of reasoning, web browsing, and coding without external APIs or cloud depend...
 
-### 10. [ragas/docs/getstarted/evals.md at main · vibrantlabsai/ragas · GitHub](../ai/rag/vibrantlabsai-ragas.md) ([GitHub](https://github.com/vibrantlabsai/ragas))
+### 9. [ragas/docs/getstarted/evals.md at main · vibrantlabsai/ragas · GitHub](../ai/rag/vibrantlabsai-ragas.md) ([GitHub](https://github.com/vibrantlabsai/ragas))
 - Stars: 0
 - Language: Unknown
 - Description: - **Quickstart Setup**: The `ragas quickstart rag_eval` command generates a modular project with `evals.py` (evaluation workflow), `rag.py` (RAG/LLM application), and structured directories (`evals...
 
-### 11. [microsoft/rag-time](../ai/rag/microsoft-rag-time.md) ([GitHub](https://github.com/microsoft/rag-time))
+### 10. [microsoft/rag-time](../ai/rag/microsoft-rag-time.md) ([GitHub](https://github.com/microsoft/rag-time))
 - Stars: 0
 - Language: Unknown
 - Description: - **5-week structured curriculum** covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like **binary/scalar quantization**, **Matryoshka representation learning**, ...
 
-### 12. [AgentOps-AI/agentops](../ai/agents/agentops-ai-agentops.md) ([GitHub](https://github.com/agentops-ai/agentops))
+### 11. [AgentOps-AI/agentops](../ai/agents/agentops-ai-agentops.md) ([GitHub](https://github.com/agentops-ai/agentops))
 - Stars: 0
 - Language: Unknown
 - Description: *   Python SDK providing comprehensive AI agent observability, encompassing LLM cost tracking, performance benchmarking, and real-time monitoring.
 
-### 13. [rosgluk (Rost Glukhov) · GitHub](../ai/agents/rosgluk-rost-glukhov-github.md) ([GitHub](https://github.com/rosgluk))
+### 12. [rosgluk (Rost Glukhov) · GitHub](../ai/agents/rosgluk-rost-glukhov-github.md) ([GitHub](https://github.com/rosgluk))
 - Stars: 0
 - Language: Unknown
 - Description: - **Profile Summary**: Technical Team Leader with expertise in C#, Golang, ReactJS, Flutter, Python, C++, SQL, Kubernetes, distributed/embedded systems, AI/ML, and LLMs; based in Melbourne, Australia.
+
+### 13. [ollama/ollama-python](../ai/resources/ollama-ollama-python.md) ([GitHub](https://github.com/ollama/ollama-python))
+- Stars: 0
+- Language: Unknown
+- Description: - Python client library for interacting with Ollama's local LLM service via REST API
 
 ### 14. [pixegami/rag-tutorial-v2](../ai/rag/pixegami-rag-tutorial-v2.md) ([GitHub](https://github.com/pixegami/rag-tutorial-v2))
 - Stars: 0
@@ -155,4 +155,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-25T21:59:49.349026+05:30.183787+05:30.941348+05:30.401502+05:30.485745+05:30.118929+05:30.198289+05:30.778257+05:30.915176+05:30.601451+05:30.759713+05:30.239707+05:30.844355+05:30.794260+05:30.619581+05:30.854016+05:30.401384+05:30.612066+05:30.344134+05:30.236548+05:30.377713+05:30.973637+05:30.876239+05:30.091963+05:30.983238+05:30.319410+05:30.725011+05:30.829416+05:30.810784+05:30.385296+05:30.533110+05:30.496799+05:30.883476+05:30.630342+05:30.872853+05:30.179992+05:30.585961+05:30.090787+05:30.500607+05:30.289964+05:30.638312+05:30.180930+05:30.010139+05:30.946691+05:30.907244+05:30.063635+05:30.919364+05:30.670335+05:30.788692+05:30.277544+05:30.183659+05:30.405161+05:30.524351+05:30.952742+05:30.808471+05:30.221631+05:30.405691+05:30.329167+05:30.249300+05:30.450823+05:30.174840+05:30.771312+05:30.853749+05:30.520837+05:30.643653+05:30.981025+05:30.333498+05:30.326328+05:30.690199+05:30.625588+05:30.160508+05:30.066218+05:30.214083+05:30.692289+05:30.716163+05:30.758491+05:30.072306+05:30.587361+05:30.912845+05:30.713486+05:30.057085+05:30.279498+05:30.095745+05:30.229013+05:30.726067+05:30.881805+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-26T01:20:38.568024+05:30.349026+05:30.183787+05:30.941348+05:30.401502+05:30.485745+05:30.118929+05:30.198289+05:30.778257+05:30.915176+05:30.601451+05:30.759713+05:30.239707+05:30.844355+05:30.794260+05:30.619581+05:30.854016+05:30.401384+05:30.612066+05:30.344134+05:30.236548+05:30.377713+05:30.973637+05:30.876239+05:30.091963+05:30.983238+05:30.319410+05:30.725011+05:30.829416+05:30.810784+05:30.385296+05:30.533110+05:30.496799+05:30.883476+05:30.630342+05:30.872853+05:30.179992+05:30.585961+05:30.090787+05:30.500607+05:30.289964+05:30.638312+05:30.180930+05:30.010139+05:30.946691+05:30.907244+05:30.063635+05:30.919364+05:30.670335+05:30.788692+05:30.277544+05:30.183659+05:30.405161+05:30.524351+05:30.952742+05:30.808471+05:30.221631+05:30.405691+05:30.329167+05:30.249300+05:30.450823+05:30.174840+05:30.771312+05:30.853749+05:30.520837+05:30.643653+05:30.981025+05:30.333498+05:30.326328+05:30.690199+05:30.625588+05:30.160508+05:30.066218+05:30.214083+05:30.692289+05:30.716163+05:30.758491+05:30.072306+05:30.587361+05:30.912845+05:30.713486+05:30.057085+05:30.279498+05:30.095745+05:30.229013+05:30.726067+05:30.881805+05:30.

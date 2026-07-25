@@ -20,11 +20,11 @@ It saves hours of repetitive development tasks, guarantees operational consisten
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 2837 resources matched in the intelligence vault.
 Recently detected signals:
-- [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md) (Source: Unknown Source) - Collected 2026-07-25
-- [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md) (Source: Unknown Source) - Collected 2026-07-25
-- [malonge/RaGOO](../ai/rag/malonge-ragoo.md) (Source: Unknown Source) - Collected 2026-07-25
-- [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) (Source: Unknown Source) - Collected 2026-07-25
-- [Next.js 9](../web-development/nextjs/next-js-9.md) (Source: Unknown Source) - Collected 2026-07-25
+- [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md) (Source: Unknown Source) - Collected 2026-07-26
+- [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md) (Source: Unknown Source) - Collected 2026-07-26
+- [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md) (Source: Unknown Source) - Collected 2026-07-26
+- [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) (Source: Unknown Source) - Collected 2026-07-26
+- [Next.js 9](../web-development/nextjs/next-js-9.md) (Source: Unknown Source) - Collected 2026-07-26
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -225,60 +225,60 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Autonomous Development Framework**: Converts a GitHub repository into an AI-driven Scrum team using GitHub Actions and Claude to orchestrate AI agents for issue management and development.
 
-### 40. [trpc-group/trpc-agent-go](../ai/rag/trpc-group-trpc-agent-go.md) ([GitHub](https://github.com/trpc-group/trpc-agent-go))
-- Stars: 0
-- Language: Unknown
-- Description: A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability.
-
-### 41. [GitHub Copilot CLI command reference - GitHub Docs](../ai/rag/github-copilot-cli-command-reference-github-docs.md) ([GitHub](https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-command-reference))
+### 40. [GitHub Copilot CLI command reference - GitHub Docs](../ai/rag/github-copilot-cli-command-reference-github-docs.md) ([GitHub](https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-command-reference))
 - Stars: 0
 - Language: Unknown
 - Description: - **Core CLI Commands**: Primary commands include `copilot` (interactive UI), `copilot login` (OAuth/auth via `--host`), `copilot plugins list` (inspect plugins/MCP/skills with `--kind`/`--scope` f...
 
-### 42. [idosal/git-mcp](../ai/agents/idosal-git-mcp.md) ([GitHub](https://github.com/idosal/git-mcp))
+### 41. [idosal/git-mcp](../ai/agents/idosal-git-mcp.md) ([GitHub](https://github.com/idosal/git-mcp))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: GitMCP is an open-source, remote MCP server designed to mitigate code hallucinations by enabling LLMs to interact directly with GitHub repositories via a standardized protocol.
 
-### 43. [How does GitHub compare to other DevOps tools? · GitHub](../ai/rag/how-does-github-compare-to-other-devops-tools-gith.md) ([GitHub](https://resources.github.com/devops/tools/compare))
+### 42. [How does GitHub compare to other DevOps tools? · GitHub](../ai/rag/how-does-github-compare-to-other-devops-tools-gith.md) ([GitHub](https://resources.github.com/devops/tools/compare))
 - Stars: 0
 - Language: Unknown
 - Description: - **GitHub Actions** provides a fully managed CI/CD platform with tens of thousands of pre-built workflows in the GitHub Marketplace, enabling rapid pipeline setup (YAML-based) with no server maint...
 
-### 44. [vercel-labs/agent-browser](../ai/rag/vercel-labs-agent-browser.md) ([GitHub](https://github.com/vercel-labs/agent-browser))
+### 43. [vercel-labs/agent-browser](../ai/rag/vercel-labs-agent-browser.md) ([GitHub](https://github.com/vercel-labs/agent-browser))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: CLI tool for AI agents to automate browser interactions, enabling programmatic control of web pages and actions.
 
-### 45. [GitHub Enterprise · The AI-powered developer platform for the agent-ready enterprise · GitHub](../ai/rag/github-enterprise-the-ai-powered-developer-platfor.md) ([GitHub](https://github.com/enterprise))
+### 44. [GitHub Enterprise · The AI-powered developer platform for the agent-ready enterprise · GitHub](../ai/rag/github-enterprise-the-ai-powered-developer-platfor.md) ([GitHub](https://github.com/enterprise))
 - Stars: 0
 - Language: Unknown
 - Description: - **Integrated Security & Governance**: GitHub Enterprise provides native security scanning (CodeQL, secret detection) and policy enforcement via GitHub Advanced Security, with centralized governan...
 
-### 46. [prometheus-eval/BiGGen-Bench at main · prometheus-eval/prometheus-eval · GitHub](../ai/rag/prometheus-eval-prometheus-eval.md) ([GitHub](https://github.com/prometheus-eval/prometheus-eval))
+### 45. [prometheus-eval/BiGGen-Bench at main · prometheus-eval/prometheus-eval · GitHub](../ai/rag/prometheus-eval-prometheus-eval.md) ([GitHub](https://github.com/prometheus-eval/prometheus-eval))
 - Stars: 0
 - Language: Unknown
 - Description: - **Benchmark Scope**: BiGGen-Bench evaluates LLMs across **9 capabilities** with **77 tasks** and **765 unique instances**, using a **1-5 scoring rubric** tailored to task-specific criteria for nu...
 
-### 47. [0xSteph/pentest-ai-agents](../ai/agents/0xsteph-pentest-ai-agents.md) ([GitHub](https://github.com/0xsteph/pentest-ai-agents))
+### 46. [0xSteph/pentest-ai-agents](../ai/agents/0xsteph-pentest-ai-agents.md) ([GitHub](https://github.com/0xsteph/pentest-ai-agents))
 - Stars: 0
 - Language: Unknown
 - Description: - **AI-Driven Penetration Testing Framework**: Automates offensive security workflows using specialized AI subagents for tasks like penetration testing planning, reconnaissance analysis, exploit re...
 
-### 48. [PentesterFlow/agent](../ai/agents/pentesterflow-agent.md) ([GitHub](https://github.com/pentesterflow/agent))
+### 47. [PentesterFlow/agent](../ai/agents/pentesterflow-agent.md) ([GitHub](https://github.com/pentesterflow/agent))
 - Stars: 0
 - Language: Unknown
 - Description: - **TypeScript-based AI agent framework** for offensive security operations, enabling autonomous penetration testing and security auditing via terminal-based interactions.
 
-### 49. [GoogleCloudPlatform/agent-starter-pack](../ai/agents/googlecloudplatform-agent-starter-pack.md) ([GitHub](https://github.com/googlecloudplatform/agent-starter-pack))
+### 48. [GoogleCloudPlatform/agent-starter-pack](../ai/agents/googlecloudplatform-agent-starter-pack.md) ([GitHub](https://github.com/googlecloudplatform/agent-starter-pack))
 - Stars: 0
 - Language: Unknown
 - Description: - **Production-ready AI agent templates** for Google Cloud, pre-integrated with CI/CD pipelines, evaluation frameworks, and observability tools to accelerate deployment.
 
-### 50. [esxr/langgraph-mcp](../ai/rag/esxr-langgraph-mcp.md) ([GitHub](https://github.com/esxr/langgraph-mcp))
+### 49. [esxr/langgraph-mcp](../ai/rag/esxr-langgraph-mcp.md) ([GitHub](https://github.com/esxr/langgraph-mcp))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Provides a LangGraph-based template for integrating Model Context Protocol (MCP) in Python applications.
+
+### 50. [google-gemini/gemini-fullstack-langgraph-quickstart](../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md) ([GitHub](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart))
+- Stars: 0
+- Language: Unknown
+- Description: - **Integration Framework**: Demonstrates building full-stack agents using **Gemini 2.5** and **LangGraph**, combining frontend/backend components for agentic workflows.
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -300,4 +300,4 @@ Useful for roles such as: DevOps Engineer, Site Reliability Engineer, Workflow A
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-25T21:59:48.825857+05:30.700576+05:30.418602+05:30.880802+05:30.079689+05:30.639836+05:30.728817+05:30.313243+05:30.430918+05:30.079612+05:30.234423+05:30.736922+05:30.390703+05:30.327705+05:30.160338+05:30.390159+05:30.938054+05:30.147649+05:30.853445+05:30.911620+05:30.889091+05:30.475459+05:30.492773+05:30.645584+05:30.498605+05:30.950912+05:30.261123+05:30.399264+05:30.385077+05:30.961325+05:30.107504+05:30.047795+05:30.474321+05:30.222734+05:30.459200+05:30.777067+05:30.175813+05:30.675802+05:30.134817+05:30.866435+05:30.285446+05:30.765315+05:30.572043+05:30.571051+05:30.501384+05:30.686054+05:30.552683+05:30.319049+05:30.405533+05:30.937907+05:30.846054+05:30.037645+05:30.210046+05:30.639535+05:30.495645+05:30.903562+05:30.073236+05:30.062240+05:30.947706+05:30.013522+05:30.875606+05:30.567508+05:30.687177+05:30.355273+05:30.481745+05:30.837280+05:30.183844+05:30.179391+05:30.532735+05:30.477001+05:30.000572+05:30.921794+05:30.064247+05:30.541110+05:30.559052+05:30.616814+05:30.943958+05:30.463577+05:30.779450+05:30.588992+05:30.937697+05:30.142229+05:30.913410+05:30.103213+05:30.590016+05:30.675711+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-26T01:20:38.042243+05:30.825857+05:30.700576+05:30.418602+05:30.880802+05:30.079689+05:30.639836+05:30.728817+05:30.313243+05:30.430918+05:30.079612+05:30.234423+05:30.736922+05:30.390703+05:30.327705+05:30.160338+05:30.390159+05:30.938054+05:30.147649+05:30.853445+05:30.911620+05:30.889091+05:30.475459+05:30.492773+05:30.645584+05:30.498605+05:30.950912+05:30.261123+05:30.399264+05:30.385077+05:30.961325+05:30.107504+05:30.047795+05:30.474321+05:30.222734+05:30.459200+05:30.777067+05:30.175813+05:30.675802+05:30.134817+05:30.866435+05:30.285446+05:30.765315+05:30.572043+05:30.571051+05:30.501384+05:30.686054+05:30.552683+05:30.319049+05:30.405533+05:30.937907+05:30.846054+05:30.037645+05:30.210046+05:30.639535+05:30.495645+05:30.903562+05:30.073236+05:30.062240+05:30.947706+05:30.013522+05:30.875606+05:30.567508+05:30.687177+05:30.355273+05:30.481745+05:30.837280+05:30.183844+05:30.179391+05:30.532735+05:30.477001+05:30.000572+05:30.921794+05:30.064247+05:30.541110+05:30.559052+05:30.616814+05:30.943958+05:30.463577+05:30.779450+05:30.588992+05:30.937697+05:30.142229+05:30.913410+05:30.103213+05:30.590016+05:30.675711+05:30.

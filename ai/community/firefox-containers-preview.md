@@ -13,13 +13,14 @@ collected_at: '2026-07-25T21:43:42.660859+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:firefox-containers-preview
 first_seen: '2026-07-22T01:21:24.831681+05:30'
 last_seen: '2026-07-25T21:43:42.660859+05:30'
 last_checked: '2026-07-25T21:43:42.660859+05:30'
 health_score: 100
 ---
+
 
 # Firefox Containers Preview
 

@@ -17191,11 +17191,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://bogaziciteknopark.com/en>
 
-* **[Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits](ai/community/brazilian-farmers-tokenized-dairy-cows-to-get-loan.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by paulpauper. Score: 5, Comments: 0. Original Link: https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits>
-
 * **[Bridging the Information Gap: Semantic Densification and Hindsight Distillation for Cold-Start Prediction](ai/research/arxiv-2607-17070.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.17070v1 Announce Type: new Abstract: New-user cold-start is a critical bottleneck for e-commerce platforms: predicting user lifetime value (LTV) and conversion rate (CVR) for users with sparse interaction history. Two prior directions -- L
   * Tags: `dataset`, `workflows`
@@ -17865,11 +17860,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Firefox Settings Redesign**: Introduces a streamlined UI for privacy controls, layout customization, language selection, contrast adjustments, and search engine configuration, enhancing user configurability. - **Built-in VPN & AI Features**: Fire
   * Tags: `producthunt`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://blog.mozilla.org/en/category/firefox/?utm_source=www.firefox.com&utm_medium=referral&utm_campaign=nav&utm_content=resources>
-
-* **[Firefox Containers Preview](ai/community/firefox-containers-preview.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by twapi. Score: 437, Comments: 120. Original Link: https://blog.mozilla.org/en/firefox/firefox-containers-preview/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://blog.mozilla.org/en/firefox/firefox-containers-preview>
 
 * **[Firestore | Google Cloud](ai/rag/firestore-google-cloud.md)** (`dataset` | `useful` tier)
   * Summary: - **MongoDB Compatibility & Wire Protocol Support**: Firestore provides MongoDB wire-compatible API, enabling seamless migration of existing MongoDB applications with full driver and ecosystem integration, including support for BSON/JSON document str
@@ -18986,6 +18976,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://openssf.org/?hsLang=en>
 
+* **[Open-weight AI is having its Kubernetes moment](ai/community/open-weight-ai-is-having-its-kubernetes-moment.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by tknaup. Score: 174, Comments: 121. Original Link: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment>
+
 * **[opendataloader-project/opendataloader-pdf](ai/rag/opendataloader-project-opendataloader-pdf.md)** (`workflow` | `useful` tier)
   * Summary: - **Java-based PDF parser** designed for AI-ready data extraction, supporting accessibility compliance (e.g., PDF/UA) and automated tagging for structured content. - **Multi-format output** with support for HTML, JSON, Markdown, and bounding box anno
   * Tags: `github-repo`, `java`, `rag`, `workflows`
@@ -19516,10 +19511,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://shibuya.lepture.com>
 
-* **[Show HN: I simulated closing the Strait of Hormuz on real oil trade data](ai/community/show-hn-i-simulated-closing-the-strait-of-hormuz-o.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by eliotho. Score: 234, Comments: 112. Original Link: https://globaloilnetwork.staffinganalytics.io/
+* **[Show HN: Brolly, a plain-text weather forecast site](ai/community/show-hn-brolly-a-plain-text-weather-forecast-site.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by jsax. Score: 8, Comments: 0. Original Link: https://brolly.sh/forecast/RWFP2qW8
   * Tags: `ai`, `hackernews`
-  * Source URL: <https://globaloilnetwork.staffinganalytics.io>
+  * Source URL: <https://brolly.sh/forecast/rwfp2qw8>
 
 * **[Signature filtering: a lightweight enhancement for statistical watermark detection in large language models](ai/research/arxiv-2606-18430.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18430v1 Announce Type: new Abstract: Statistical watermarks help organizations attribute large language model (LLM) outputs, yet existing detectors often struggle when watermark signals are weak, texts are repetitive, or watermarks are edi
@@ -19699,6 +19694,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Real-time transaction monitoring engine** leveraging rules-based typology detection with configurable thresholds, combining current event data and historical participant behavior for fraud and AML typology identification. - **Low-code integration
   * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.tazama.org>
+
+* **[Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)](ai/community/teardown-the-bmw-harman-idc23h-infotainment-unit-b.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by JojoFatsani. Score: 17, Comments: 16. Original Link: https://www.hakstuff.net/blog/teardown-the-bmw-idc23h-infotainment-unit
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://hakstuff.net/blog/teardown-the-bmw-idc23h-infotainment-unit>
 
 * **[techwithtim/Langflow-RAG-Tutorial](ai/rag/techwithtim-langflow-rag-tutorial.md)** (`benchmark` | `useful` tier)
   * Summary: - **Repository Overview**: Langflow-RAG-Tutorial by techwithtim is a GitHub repository with 97 stars and 25 forks, last updated on **2026-07-03**. - **Technical Focus**: The repository is centered on **Retrieval-Augmented Generation (RAG)** workflows
@@ -19929,11 +19929,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.06306v1 Announce Type: cross Abstract: Large language models (LLMs) have demonstrated growing competence in web page generation. However, existing text-driven approaches rely on complex prompts that impose substantial demands on users and
   * Tags: `benchmark`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.06306>
-
-* **[UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](ai/community/uk-aisi-caisi-preliminary-assessment-of-kimi-k3-s.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by walrus01. Score: 105, Comments: 31. Original Link: https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities>
 
 * **[Uncertainty Quantification for AI-Driven Crash Simulation Surrogates: A Comparative Study of Monte Carlo Dropout and Deep Ensemble on Open-Source Bumper Beam Benchmark](ai/research/arxiv-2607-18294.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.18294v1 Announce Type: new Abstract: Machine learning surrogate models are increasingly being explored in engineering product development to augment simulation-driven design, offering near-instantaneous predictions that complement computat
@@ -83736,7 +83731,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02825>
 
 * **[jbilcke-hf/ai-comic-factory](ai/models/huggingface-spaces-jbilcke-hf.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11187, Downloads: 0)
+  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11188, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/jbilcke-hf>
 
@@ -100872,6 +100867,46 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `blog-post`, `mistral`, `mistral-ai-news`, `models`
   * Source URL: <https://mistral.ai/news/robostral-navigate>
 
+* **[Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research](ai/companies/anthropic/jul-14-2026announcementsanthropic-commits-10-milli.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://anthropic.com/news/canadian-ai-research>
+
+* **[Jul 14, 2026ProductIntroducing Claude for Teachers](ai/companies/anthropic/jul-14-2026productintroducing-claude-for-teachers.md)** (`product` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Jul 14, 2026ProductIntroducing Claude for Teachers
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://anthropic.com/news/claude-for-teachers>
+
+* **[Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants](ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://anthropic.com/news/rare-disease-research-grants>
+
+* **[Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://anthropic.com/news/donation-public-first-action>
+
+* **[Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://anthropic.com/news/economic-futures-research-fund-agenda>
+
+* **[Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)** (`product` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://anthropic.com/news/anthropic-economic-index-connector>
+
+* **[Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust](ai/companies/anthropic/jul-9-2026announcementsben-bernanke-appointed-to-a.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://anthropic.com/news/ben-bernanke>
+
+* **[Jul 9, 2026Case StudyUST is bringing Claude to physical AI](ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Jul 9, 2026Case StudyUST is bringing Claude to physical AI
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://anthropic.com/news/ust-claude>
+
 * **[Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers](ai/resources/landmark-german-ruling-declares-google-s-ai-overvi.md)** (`tutorial` | `useful` tier)
   * Summary: - **German court ruling (Munich Regional Court) establishes Google's direct liability for false claims in AI-generated search overviews**, classifying them as Google's own content rather than third-party search results, thus rejecting traditional sea
   * Tags: `anthropic`, `openai`, `reddit`, `web-crawled`
@@ -100947,10 +100982,20 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `blog-post`, `mistral`, `mistral-ai-news`, `models`
   * Source URL: <https://mistral.ai/news/search-toolkit>
 
+* **[ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.](ai/companies/anthropic/productjun-30-2026introducing-claude-sonnet-5sonne.md)** (`product` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.
+  * Tags: `agents`, `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://anthropic.com/news/claude-sonnet-5>
+
 * **[Publications](ai/companies/publications.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Microsoft Research Blog Blog: Publications
   * Tags: `blog-post`, `microsoft-research-blog`
   * Source URL: <https://microsoft.com/en-us/research/publications>
+
+* **[Responsible Scaling Policy](ai/companies/anthropic/responsible-scaling-policy.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Responsible Scaling Policy
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://anthropic.com/news/announcing-our-updated-responsible-scaling-policy>
 
 * **[Search & information retrieval](ai/companies/search-information-retrieval.md)** (`benchmark` | `useful` tier)
   * Summary: Recent update from Microsoft Research Blog Blog: Search & information retrieval
@@ -105361,8 +105406,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2512.01317>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: * Comprehensive guide to Retrieval-Augmented Generation (RAG) technology, covering full-stack development. * Leverages `langchain`, `llama-index` for RAG orchestration, integrating vector databases like `milvus` and graph databases like `neo4j`. * Ex
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tutorial` | `useful` tier)
+  * Summary: * Comprehensive RAG implementation guide spanning foundational techniques to advanced applications, including multimodal paradigms
   * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -105371,8 +105416,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tutorial` | `useful` tier)
-  * Summary: * Provides a foundational tutorial for Large Language Model (LLM) application development.
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`benchmark` | `useful` tier)
+  * Summary: * Comprehensive LLM application development tutorial designed for novice developers. * Emphasizes practical implementation using LangChain and Retrieval-Augmented Generation (RAG) architectures. * Content delivered via Jupyter Notebooks, facilitating
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -110647,8 +110692,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2604.20711>
 
 * **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * Provides RAGTruth, a dedicated hallucination corpus for RAG systems. *
-  * Tags: `github-repo`, `python`, `rag`
+  * Summary: * Introduces RAGTruth, a specialized corpus designed for the detection and quantification of hallucinations. * Aids in the development and rigorous evaluation of Retrieval-Augmented Language Models (RAGs). * Facilitates the creation of trustworthy RA
+  * Tags: `benchmark`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 
 * **[Passkeys for Developers](ai/rag/passkeys-for-developers.md)** (`tutorial` | `useful` tier)
@@ -111407,7 +111452,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://superml.org/tutorials/rag-beginner>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * GitHub Pages repository (`raganwald.github.com`) serving as the Jekyll source for
+  * Summary: * GitHub repository `raganwald/raganwald.github.com` functions as
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 

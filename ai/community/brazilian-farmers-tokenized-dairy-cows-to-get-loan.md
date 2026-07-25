@@ -13,13 +13,14 @@ collected_at: '2026-07-25T21:43:43.172960+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:brazilian-farmers-tokenized-dairy-cows-to-get-loan
 first_seen: '2026-07-25T21:43:43.172960+05:30'
 last_seen: '2026-07-25T21:43:43.172960+05:30'
 last_checked: '2026-07-25T21:43:43.172960+05:30'
 health_score: 100
 ---
+
 
 # Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits
 
