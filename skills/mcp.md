@@ -60,45 +60,45 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Purpose**: Official MCP server for Firecrawl, enabling web scraping, search, and content extraction for LLM clients like Cursor and Claude via the Model Context Protocol (MCP).
 
-### 7. [Jpisnice/shadcn-ui-mcp-server](../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md) ([GitHub](https://github.com/jpisnice/shadcn-ui-mcp-server))
-- Stars: 0
-- Language: Unknown
-- Description: A mcp server to allow LLMS gain context about shadcn ui component structure,usage and installation,compaitable with react,svelte 5,vue & React Native
-
-### 8. [study8677/antigravity-workspace-template](../ai/rag/study8677-antigravity-workspace-template.md) ([GitHub](https://github.com/study8677/antigravity-workspace-template))
+### 7. [study8677/antigravity-workspace-template](../ai/rag/study8677-antigravity-workspace-template.md) ([GitHub](https://github.com/study8677/antigravity-workspace-template))
 - Stars: 0
 - Language: Unknown
 - Description: - **Multi-agent knowledge engine**: Enables grounded Q&A with file paths and line numbers for AI IDEs (Claude Code, Cursor, Codex CLI), leveraging RAG and knowledge graphs for codebase-specific res...
 
-### 9. [cloudflare/mcp-server-cloudflare](../ai/resources/cloudflare-mcp-server-cloudflare.md) ([GitHub](https://github.com/cloudflare/mcp-server-cloudflare))
+### 8. [cloudflare/mcp-server-cloudflare](../ai/resources/cloudflare-mcp-server-cloudflare.md) ([GitHub](https://github.com/cloudflare/mcp-server-cloudflare))
 - Stars: 0
 - Language: Unknown
 - Description: - **TypeScript-based MCP server** for integrating Cloudflare services (e.g., Workers, KV, R2) with Model Context Protocol (MCP) clients.
 
-### 10. [esxr/langgraph-mcp](../ai/rag/esxr-langgraph-mcp.md) ([GitHub](https://github.com/esxr/langgraph-mcp))
+### 9. [esxr/langgraph-mcp](../ai/rag/esxr-langgraph-mcp.md) ([GitHub](https://github.com/esxr/langgraph-mcp))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Provides a LangGraph-based template for integrating Model Context Protocol (MCP) in Python applications.
 
-### 11. [activepieces/activepieces](../ai/rag/activepieces-activepieces.md) ([GitHub](https://github.com/activepieces/activepieces))
+### 10. [activepieces/activepieces](../ai/rag/activepieces-activepieces.md) ([GitHub](https://github.com/activepieces/activepieces))
 - Stars: 0
 - Language: Unknown
 - Description: - **MCP Integration & AI Automation**: Open-source TypeScript framework (~400 MCP servers) enabling AI agents with Model Context Protocol (MCP) support for workflow automation and tool orchestratio...
 
-### 12. [kylestratis/ai_agents_mcp_examples](../ai/agents/kylestratis-ai-agents-mcp-examples.md) ([GitHub](https://github.com/kylestratis/ai_agents_mcp_examples))
+### 11. [kylestratis/ai_agents_mcp_examples](../ai/agents/kylestratis-ai-agents-mcp-examples.md) ([GitHub](https://github.com/kylestratis/ai_agents_mcp_examples))
 - Stars: 0
 - Language: Unknown
 - Description: - **Repository Overview**: A Python-based GitHub repository (`kylestratis/ai_agents_mcp_examples`) with 55 stars and 25 forks, last updated on **2026-05-17**.
 
-### 13. [langgenius/dify](../ai/rag/langgenius-dify.md) ([GitHub](https://github.com/langgenius/dify))
+### 12. [langgenius/dify](../ai/rag/langgenius-dify.md) ([GitHub](https://github.com/langgenius/dify))
 - Stars: 0
 - Language: Unknown
 - Description: - **Agentic Workflow Platform**: Open-source, production-ready framework (TypeScript/Python) for building, deploying, and orchestrating AI agents with low-code/no-code capabilities, supporting LLM ...
 
-### 14. [QwenLM/Qwen-Agent](../ai/rag/qwenlm-qwen-agent.md) ([GitHub](https://github.com/qwenlm/qwen-agent))
+### 13. [QwenLM/Qwen-Agent](../ai/rag/qwenlm-qwen-agent.md) ([GitHub](https://github.com/qwenlm/qwen-agent))
 - Stars: 0
 - Language: Unknown
 - Description: - **Framework Overview**: Qwen-Agent is a Python-based agent framework built on Qwen>=3.0, supporting advanced features like Function Calling, MCP (Model Context Protocol), Code Interpreter, RAG (R...
+
+### 14. [Jpisnice/shadcn-ui-mcp-server](../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md) ([GitHub](https://github.com/jpisnice/shadcn-ui-mcp-server))
+- Stars: 0
+- Language: Unknown
+- Description: A mcp server to allow LLMS gain context about shadcn ui component structure,usage and installation,compaitable with react,svelte 5,vue & React Native
 
 ### 15. [firecrawl repositories · GitHub](../ai/rag/orgs-firecrawl.md) ([GitHub](https://github.com/orgs/firecrawl))
 - Stars: 0
@@ -300,4 +300,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-25T19:48:15.641481+05:30.271878+05:30.744636+05:30.200648+05:30.599459+05:30.687328+05:30.279088+05:30.374013+05:30.941914+05:30.083177+05:30.636450+05:30.395333+05:30.301110+05:30.155893+05:30.369910+05:30.914308+05:30.132211+05:30.780524+05:30.194117+05:30.824975+05:30.383436+05:30.656603+05:30.662221+05:30.432201+05:30.134071+05:30.257666+05:30.440781+05:30.460485+05:30.017833+05:30.184280+05:30.062716+05:30.572749+05:30.324421+05:30.547724+05:30.887063+05:30.275029+05:30.775939+05:30.332516+05:30.930901+05:30.491377+05:30.854012+05:30.609440+05:30.739784+05:30.601758+05:30.840139+05:30.746993+05:30.536104+05:30.557542+05:30.185287+05:30.096374+05:30.222971+05:30.512173+05:30.874345+05:30.793998+05:30.207109+05:30.331521+05:30.460601+05:30.272302+05:30.020679+05:30.249300+05:30.106261+05:30.319081+05:30.993907+05:30.122388+05:30.520244+05:30.857034+05:30.854349+05:30.158097+05:30.151960+05:30.613998+05:30.612259+05:30.743764+05:30.219495+05:30.226409+05:30.308267+05:30.671842+05:30.192408+05:30.489920+05:30.324090+05:30.681655+05:30.831238+05:30.300012+05:30.282249+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-25T21:59:47.681970+05:30.641481+05:30.271878+05:30.744636+05:30.200648+05:30.599459+05:30.687328+05:30.279088+05:30.374013+05:30.941914+05:30.083177+05:30.636450+05:30.395333+05:30.301110+05:30.155893+05:30.369910+05:30.914308+05:30.132211+05:30.780524+05:30.194117+05:30.824975+05:30.383436+05:30.656603+05:30.662221+05:30.432201+05:30.134071+05:30.257666+05:30.440781+05:30.460485+05:30.017833+05:30.184280+05:30.062716+05:30.572749+05:30.324421+05:30.547724+05:30.887063+05:30.275029+05:30.775939+05:30.332516+05:30.930901+05:30.491377+05:30.854012+05:30.609440+05:30.739784+05:30.601758+05:30.840139+05:30.746993+05:30.536104+05:30.557542+05:30.185287+05:30.096374+05:30.222971+05:30.512173+05:30.874345+05:30.793998+05:30.207109+05:30.331521+05:30.460601+05:30.272302+05:30.020679+05:30.249300+05:30.106261+05:30.319081+05:30.993907+05:30.122388+05:30.520244+05:30.857034+05:30.854349+05:30.158097+05:30.151960+05:30.613998+05:30.612259+05:30.743764+05:30.219495+05:30.226409+05:30.308267+05:30.671842+05:30.192408+05:30.489920+05:30.324090+05:30.681655+05:30.831238+05:30.300012+05:30.282249+05:30.

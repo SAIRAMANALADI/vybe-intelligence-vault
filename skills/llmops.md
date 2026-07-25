@@ -66,35 +66,35 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Modular RAG Framework**: Open-source Python-based framework for building production-grade Retrieval Augmented Generation (RAG) applications with modular components for seamless integration and ...
 
-### 8. [raga-ai-hub/RagaAI-Catalyst](../ai/rag/raga-ai-hub-ragaai-catalyst.md) ([GitHub](https://github.com/raga-ai-hub/ragaai-catalyst))
-- Stars: 0
-- Language: Unknown
-- Description: Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced a...
-
-### 9. [run-llama/llama_index](../ai/rag/run-llama-llama-index.md) ([GitHub](https://github.com/run-llama/llama_index))
+### 8. [run-llama/llama_index](../ai/rag/run-llama-llama-index.md) ([GitHub](https://github.com/run-llama/llama_index))
 - Stars: 0
 - Language: Unknown
 - Description: - **Framework Overview**: LlamaIndex is a Python-based framework designed for building document agents and OCR (Optical Character Recognition) systems, enabling integration with LLMs (Large Languag...
 
-### 10. [PacktPublishing/LLM-Engineers-Handbook](../ai/rag/packtpublishing-llm-engineers-handbook.md) ([GitHub](https://github.com/packtpublishing/llm-engineers-handbook))
+### 9. [PacktPublishing/LLM-Engineers-Handbook](../ai/rag/packtpublishing-llm-engineers-handbook.md) ([GitHub](https://github.com/packtpublishing/llm-engineers-handbook))
 - Stars: 0
 - Language: Unknown
 - Description: - **Comprehensive LLM Guide**: Covers fundamentals to deployment of advanced LLM and RAG applications on AWS, integrating LLMOps best practices for scalable, production-grade systems.
 
-### 11. [ray-project/llm-applications](../ai/rag/ray-project-llm-applications.md) ([GitHub](https://github.com/ray-project/llm-applications))
+### 10. [ray-project/llm-applications](../ai/rag/ray-project-llm-applications.md) ([GitHub](https://github.com/ray-project/llm-applications))
 - Stars: 0
 - Language: Unknown
 - Description: - **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with examples leveraging Llama2 and OpenAI models.
 
-### 12. [ajac-zero/example-rag-app](../ai/rag/ajac-zero-example-rag-app.md) ([GitHub](https://github.com/ajac-zero/example-rag-app))
+### 11. [ajac-zero/example-rag-app](../ai/rag/ajac-zero-example-rag-app.md) ([GitHub](https://github.com/ajac-zero/example-rag-app))
 - Stars: 0
 - Language: Unknown
 - Description: *   Open-source RAG application featuring integrated LLM observability via Langfuse.
 
-### 13. [zai-org/Open-AutoGLM](../ai/rag/zai-org-open-autoglm.md) ([GitHub](https://github.com/zai-org/open-autoglm))
+### 12. [zai-org/Open-AutoGLM](../ai/rag/zai-org-open-autoglm.md) ([GitHub](https://github.com/zai-org/open-autoglm))
 - Stars: 0
 - Language: Unknown
 - Description: - **Open-AutoGLM Framework**: A Python-based open-source framework designed to enable autonomous phone agent capabilities, facilitating AI-driven interactions with mobile devices.
+
+### 13. [raga-ai-hub/RagaAI-Catalyst](../ai/rag/raga-ai-hub-ragaai-catalyst.md) ([GitHub](https://github.com/raga-ai-hub/ragaai-catalyst))
+- Stars: 0
+- Language: Unknown
+- Description: Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced a...
 
 ### 14. [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) ([GitHub](https://github.com/oxbshw/llm-agents-ecosystem-handbook))
 - Stars: 0
@@ -226,4 +226,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-25T19:48:15.968714+05:30.629281+05:30.095697+05:30.472432+05:30.920693+05:30.010068+05:30.598886+05:30.701957+05:30.295240+05:30.440210+05:30.976494+05:30.702173+05:30.617479+05:30.465113+05:30.684701+05:30.230418+05:30.444668+05:30.111348+05:30.417501+05:30.152166+05:30.721703+05:30.915382+05:30.966615+05:30.764113+05:30.385557+05:30.567332+05:30.735695+05:30.745434+05:30.313265+05:30.467864+05:30.366258+05:30.850219+05:30.600182+05:30.827864+05:30.160807+05:30.551753+05:30.048264+05:30.580228+05:30.218675+05:30.737117+05:30.133154+05:30.907114+05:30.995114+05:30.879918+05:30.100207+05:30.992961+05:30.772346+05:30.817559+05:30.413937+05:30.324484+05:30.472404+05:30.722344+05:30.088271+05:30.008202+05:30.416368+05:30.558129+05:30.641788+05:30.475206+05:30.316516+05:30.443954+05:30.251607+05:30.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-25T21:59:48.037358+05:30.968714+05:30.629281+05:30.095697+05:30.472432+05:30.920693+05:30.010068+05:30.598886+05:30.701957+05:30.295240+05:30.440210+05:30.976494+05:30.702173+05:30.617479+05:30.465113+05:30.684701+05:30.230418+05:30.444668+05:30.111348+05:30.417501+05:30.152166+05:30.721703+05:30.915382+05:30.966615+05:30.764113+05:30.385557+05:30.567332+05:30.735695+05:30.745434+05:30.313265+05:30.467864+05:30.366258+05:30.850219+05:30.600182+05:30.827864+05:30.160807+05:30.551753+05:30.048264+05:30.580228+05:30.218675+05:30.737117+05:30.133154+05:30.907114+05:30.995114+05:30.879918+05:30.100207+05:30.992961+05:30.772346+05:30.817559+05:30.413937+05:30.324484+05:30.472404+05:30.722344+05:30.088271+05:30.008202+05:30.416368+05:30.558129+05:30.641788+05:30.475206+05:30.316516+05:30.443954+05:30.251607+05:30.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.

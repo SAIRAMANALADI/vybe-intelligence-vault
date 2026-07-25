@@ -1935,7 +1935,6 @@ Resources organized by keyword tags.
   - [ProbeLogits: Kernel-Level LLM Inference Primitives for AI-Native Operating Systems](../ai/agents/arxiv-2604-11943.md)
   - [Probing Dec-POMDP Reasoning in Cooperative MARL](../ai/agents/arxiv-2602-20804.md)
   - [Process Reward Informed Tree Rollout for Effective Multi-Turn RL](../ai/agents/arxiv-2607-15610.md)
-  - [ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.](../ai/companies/anthropic/productjun-30-2026introducing-claude-sonnet-5sonne.md)
   - [ProfiLLM: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch](../ai/agents/arxiv-2606-18803.md)
   - [Profile-Graph Memory for LLM Agents: Implicit Cross-Entity Traversal through Narrative Profiles](../ai/rag/arxiv-2607-19359.md)
   - [Program-Synthesis-Driven Autodesign of Universal Unitary Operators](../ai/agents/arxiv-2607-10295.md)
@@ -3130,9 +3129,8 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Corporate America Has Suddenly Decided to Stop Blowing Money on AI](../ai/community/corporate-america-has-suddenly-decided-to-stop-blo.md)
+  - [Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits](../ai/community/brazilian-farmers-tokenized-dairy-cows-to-get-loan.md)
   - [Firefox Containers Preview](../ai/community/firefox-containers-preview.md)
-  - [PartialString – A finite-difference time-domain physical modelling synthesiser](../ai/community/partialstring-a-finite-difference-time-domain-phys.md)
   - [Show HN: I simulated closing the Strait of Hormuz on real oil trade data](../ai/community/show-hn-i-simulated-closing-the-strait-of-hormuz-o.md)
   - [UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](../ai/community/uk-aisi-caisi-preliminary-assessment-of-kimi-k3-s.md)
 
@@ -3336,14 +3334,6 @@ Resources organized by keyword tags.
   - [JavaVulBench: A Java Vulnerability Benchmark with Realistic Splits, a Unified Multi-Backend Harness, and a Leakage-Aware Evaluation Mode](../ai/research/arxiv-2607-02825.md)
   - [Judge-dependent safety gains and model-specific helpfulness costs of evidence-sufficiency prompting in clinical LLMs](../ai/research/arxiv-2607-18086.md)
   - [Judging the Judges: A Systematic Evaluation of Bias Mitigation Strategies in LLM-as-a-Judge Pipelines](../ai/research/arxiv-2604-23178.md)
-  - [Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research](../ai/companies/anthropic/jul-14-2026announcementsanthropic-commits-10-milli.md)
-  - [Jul 14, 2026ProductIntroducing Claude for Teachers](../ai/companies/anthropic/jul-14-2026productintroducing-claude-for-teachers.md)
-  - [Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants](../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md)
-  - [Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md)
-  - [Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md)
-  - [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)
-  - [Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust](../ai/companies/anthropic/jul-9-2026announcementsben-bernanke-appointed-to-a.md)
-  - [Jul 9, 2026Case StudyUST is bringing Claude to physical AI](../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md)
   - [Jupyter AI](../ai/rag/jupyter-ai.md)
   - [Just A Rather Very Intelligent Spoken Agent](../ai/agents/arxiv-2607-16610.md)
   - [LLM Powered Autonomous Agents | Lil'Log](../ai/rag/llm-powered-autonomous-agents-lil-log.md)
@@ -3403,7 +3393,6 @@ Resources organized by keyword tags.
   - [Prefill Awareness in Large Language Models](../ai/agents/arxiv-2606-12747.md)
   - [Privacy Policy | Posit Software, PBC](../ai/rag/privacy-policy-posit-software-pbc.md)
   - [Privacy policy | Magnific](../ai/rag/privacy-policy-magnific.md)
-  - [ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.](../ai/companies/anthropic/productjun-30-2026introducing-claude-sonnet-5sonne.md)
   - [PrologMCP: A Standardized Prolog Tool Interface for LLM Agents](../ai/agents/arxiv-2606-14935.md)
   - [PromptMN: Pseudo Prompting Language](../ai/rag/arxiv-2606-17164.md)
   - [QEDBENCH: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs](../ai/rag/arxiv-2602-20629.md)
@@ -3425,7 +3414,6 @@ Resources organized by keyword tags.
   - [ResearchClawBench: A Benchmark for End-to-End Autonomous Scientific Research](../ai/rag/arxiv-2606-07591.md)
   - [ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog](../ai/agents/arxiv-2607-04438.md)
   - [Resources - Linux Foundation - Education](../ai/rag/resources-linux-foundation-education.md)
-  - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
   - [Robust Reasoning Benchmark](../ai/rag/arxiv-2604-08571.md)
   - [RuBench: A Repository-Level Agentic Coding Benchmark with Natively Authored Russian Task Specifications](../ai/agents/arxiv-2607-06411.md)
   - [Ruby: Unmasking Unsafe Rust in Stripped Binaries via Machine Learning](../ai/research/arxiv-2211-00111.md)
@@ -3548,19 +3536,6 @@ Resources organized by keyword tags.
   - [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit.md)
   - [zilliztech/deep-searcher](../ai/rag/zilliztech-deep-searcher.md)
   - [zilliztech/milvus-skill](../ai/rag/zilliztech-milvus-skill.md)
-
-## anthropic-news
-
-  - [Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research](../ai/companies/anthropic/jul-14-2026announcementsanthropic-commits-10-milli.md)
-  - [Jul 14, 2026ProductIntroducing Claude for Teachers](../ai/companies/anthropic/jul-14-2026productintroducing-claude-for-teachers.md)
-  - [Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants](../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md)
-  - [Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md)
-  - [Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md)
-  - [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)
-  - [Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust](../ai/companies/anthropic/jul-9-2026announcementsben-bernanke-appointed-to-a.md)
-  - [Jul 9, 2026Case StudyUST is bringing Claude to physical AI](../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md)
-  - [ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.](../ai/companies/anthropic/productjun-30-2026introducing-claude-sonnet-5sonne.md)
-  - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
 
 ## astro
 
@@ -7983,14 +7958,6 @@ Resources organized by keyword tags.
   - [Human language technologies](../ai/companies/human-language-technologies.md)
   - [Human-computer interaction](../ai/companies/human-computer-interaction.md)
   - [Introducing Robostral Navigate](../ai/companies/mistral/introducing-robostral-navigate.md)
-  - [Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research](../ai/companies/anthropic/jul-14-2026announcementsanthropic-commits-10-milli.md)
-  - [Jul 14, 2026ProductIntroducing Claude for Teachers](../ai/companies/anthropic/jul-14-2026productintroducing-claude-for-teachers.md)
-  - [Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants](../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md)
-  - [Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md)
-  - [Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md)
-  - [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)
-  - [Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust](../ai/companies/anthropic/jul-9-2026announcementsben-bernanke-appointed-to-a.md)
-  - [Jul 9, 2026Case StudyUST is bringing Claude to physical AI](../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md)
   - [Leanstral 1.5: Proof Abundance for All](../ai/companies/mistral/leanstral-1-5-proof-abundance-for-all.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
   - [Microsoft Research blog](../ai/companies/microsoft-research-blog.md)
@@ -7999,9 +7966,7 @@ Resources organized by keyword tags.
   - [Mistral Small 4](../ai/companies/mistral/mistral-small-4.md)
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
   - [ProductIntroducing Search ToolkitProduction search pipelines, anywhere.May 28, 2026By Mistral](../ai/companies/mistral/productintroducing-search-toolkitproduction-search.md)
-  - [ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.](../ai/companies/anthropic/productjun-30-2026introducing-claude-sonnet-5sonne.md)
   - [Publications](../ai/companies/publications.md)
-  - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
   - [Voxtral TTS](../ai/companies/mistral/voxtral-tts.md)
@@ -12331,6 +12296,7 @@ Resources organized by keyword tags.
   - [Boğaziçi Üniversitesi - Harita](../ai/resources/bogazici-universitesi-harita.md)
   - [BrainAgent: A Large Language Model-Driven Multi-Agent Framework for Autonomous Brain Signal Understanding](../ai/agents/arxiv-2606-25400.md)
   - [BrandPeng/Langchain1.0-Langgraph1.0-Learning](../ai/agents/brandpeng-langchain1-0-langgraph1-0-learning.md)
+  - [Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits](../ai/community/brazilian-farmers-tokenized-dairy-cows-to-get-loan.md)
   - [Breaking Data Symmetry is Needed For Generalization in Feature Learning Kernels](../ai/rag/arxiv-2604-00316.md)
   - [Breaking Shortcut Learning for Cross-Trial EEG-Guided Target Speech Extraction via Two-Stage Training](../ai/rag/arxiv-2606-24164.md)
   - [Breaking Structural Isolation: Scalable Graph Clustering via Community-Aware Sampling and Structural Entropy](../ai/rag/arxiv-2607-05469.md)
@@ -12486,7 +12452,6 @@ Resources organized by keyword tags.
   - [Cornell University](../ai/rag/cornell-university.md)
   - [Cornell University | Search Pages](../ai/resources/cornell-university-search-pages.md)
   - [Cornell University's Online Web and Video Conferencing Service - Zoom](../ai/resources/cornell-university-s-online-web-and-video-conferen.md)
-  - [Corporate America Has Suddenly Decided to Stop Blowing Money on AI](../ai/community/corporate-america-has-suddenly-decided-to-stop-blo.md)
   - [Corpus Augmentation for Sign Language Translation via LLM-Guided Video Stitching](../ai/research/arxiv-2606-11925.md)
   - [Cortecs: CoRTecS](../ai/resources/cortecs-cortecs.md)
   - [Cosmos 3: Omnimodal World Models for Physical AI](../ai/agents/arxiv-2606-02800.md)
@@ -13332,7 +13297,6 @@ Resources organized by keyword tags.
   - [Parallel Test-Time Scaling with Multi-Sequence Verifiers](../ai/research/arxiv-2603-03417.md)
   - [Parameter-Efficient Continual Fine-Tuning: A Survey](../ai/research/arxiv-2504-13822.md)
   - [Partial Contracts Suffice: Sound, LLM-Inferred Regression Verification](../ai/research/arxiv-2607-10291.md)
-  - [PartialString – A finite-difference time-domain physical modelling synthesiser](../ai/community/partialstring-a-finite-difference-time-domain-phys.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
   - [Passkeys for Developers](../ai/rag/passkeys-for-developers.md)
   - [Pattern-Aware Graph Neural Networks for Handling Missing Data](../ai/rag/arxiv-2607-08915.md)
@@ -32141,4 +32105,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-25T19:49:20.671236+05:30*
+*Index generated on 2026-07-25T22:00:44.884592+05:30*

@@ -9747,14 +9747,6 @@ Resources organized by publisher feed and query sources.
   - [Human language technologies](../ai/companies/human-language-technologies.md)
   - [Human-computer interaction](../ai/companies/human-computer-interaction.md)
   - [Introducing Robostral Navigate](../ai/companies/mistral/introducing-robostral-navigate.md)
-  - [Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research](../ai/companies/anthropic/jul-14-2026announcementsanthropic-commits-10-milli.md)
-  - [Jul 14, 2026ProductIntroducing Claude for Teachers](../ai/companies/anthropic/jul-14-2026productintroducing-claude-for-teachers.md)
-  - [Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants](../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md)
-  - [Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md)
-  - [Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md)
-  - [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)
-  - [Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust](../ai/companies/anthropic/jul-9-2026announcementsben-bernanke-appointed-to-a.md)
-  - [Jul 9, 2026Case StudyUST is bringing Claude to physical AI](../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md)
   - [Leanstral 1.5: Proof Abundance for All](../ai/companies/mistral/leanstral-1-5-proof-abundance-for-all.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
   - [Microsoft Research blog](../ai/companies/microsoft-research-blog.md)
@@ -9763,9 +9755,7 @@ Resources organized by publisher feed and query sources.
   - [Mistral Small 4](../ai/companies/mistral/mistral-small-4.md)
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
   - [ProductIntroducing Search ToolkitProduction search pipelines, anywhere.May 28, 2026By Mistral](../ai/companies/mistral/productintroducing-search-toolkitproduction-search.md)
-  - [ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.](../ai/companies/anthropic/productjun-30-2026introducing-claude-sonnet-5sonne.md)
   - [Publications](../ai/companies/publications.md)
-  - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
   - [Voxtral TTS](../ai/companies/mistral/voxtral-tts.md)
@@ -10523,9 +10513,8 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Corporate America Has Suddenly Decided to Stop Blowing Money on AI](../ai/community/corporate-america-has-suddenly-decided-to-stop-blo.md)
+  - [Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits](../ai/community/brazilian-farmers-tokenized-dairy-cows-to-get-loan.md)
   - [Firefox Containers Preview](../ai/community/firefox-containers-preview.md)
-  - [PartialString – A finite-difference time-domain physical modelling synthesiser](../ai/community/partialstring-a-finite-difference-time-domain-phys.md)
   - [Show HN: I simulated closing the Strait of Hormuz on real oil trade data](../ai/community/show-hn-i-simulated-closing-the-strait-of-hormuz-o.md)
   - [UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](../ai/community/uk-aisi-caisi-preliminary-assessment-of-kimi-k3-s.md)
 
@@ -13784,4 +13773,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-25T19:49:20.814812+05:30*
+*Index generated on 2026-07-25T22:00:45.039682+05:30*

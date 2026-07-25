@@ -17191,6 +17191,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://bogaziciteknopark.com/en>
 
+* **[Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits](ai/community/brazilian-farmers-tokenized-dairy-cows-to-get-loan.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by paulpauper. Score: 5, Comments: 0. Original Link: https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits>
+
 * **[Bridging the Information Gap: Semantic Densification and Hindsight Distillation for Cold-Start Prediction](ai/research/arxiv-2607-17070.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.17070v1 Announce Type: new Abstract: New-user cold-start is a critical bottleneck for e-commerce platforms: predicting user lifetime value (LTV) and conversion rate (CVR) for users with sparse interaction history. Two prior directions -- L
   * Tags: `dataset`, `workflows`
@@ -17475,11 +17480,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Code Reusability & Preservation**: Cornell’s *checklist for reusable code* emphasizes documentation, portability, and version control; archiving citable code requires a `CITATION.cff` file and DOI assignment via Zenodo or similar repositories. -
   * Tags: `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://data.research.cornell.edu/>
-
-* **[Corporate America Has Suddenly Decided to Stop Blowing Money on AI](ai/community/corporate-america-has-suddenly-decided-to-stop-blo.md)** (`dataset` | `useful` tier)
-  * Summary: Hacker News story by 1vuio0pswjnm7. Score: 7, Comments: 2. Original Link: https://www.wsj.com/business/china-us-ai-model-costs-53a12e96
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://wsj.com/business/china-us-ai-model-costs-53a12e96>
 
 * **[Create an op | TensorFlow Core](ai/resources/create-an-op-tensorflow-core.md)** (`template` | `useful` tier)
   * Summary: - **Custom Op Development Workflow**: Create C++ custom ops for TensorFlow by first attempting Python composition, then implementing a C++ kernel (`OpKernel`) with thread-safe `Compute` method; register op interface via `REGISTER_OP` and kernel via `
@@ -17867,7 +17867,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://blog.mozilla.org/en/category/firefox/?utm_source=www.firefox.com&utm_medium=referral&utm_campaign=nav&utm_content=resources>
 
 * **[Firefox Containers Preview](ai/community/firefox-containers-preview.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by twapi. Score: 401, Comments: 115. Original Link: https://blog.mozilla.org/en/firefox/firefox-containers-preview/
+  * Summary: Hacker News story by twapi. Score: 437, Comments: 120. Original Link: https://blog.mozilla.org/en/firefox/firefox-containers-preview/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://blog.mozilla.org/en/firefox/firefox-containers-preview>
 
@@ -19051,11 +19051,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://hackage.haskell.org/package/pandoc>
 
-* **[PartialString – A finite-difference time-domain physical modelling synthesiser](ai/community/partialstring-a-finite-difference-time-domain-phys.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by shmeano. Score: 35, Comments: 5. Original Link: https://differentinstruments.com/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://differentinstruments.com>
-
 * **[PatchOptic for Shared-State LLM Workflows with Projected Views and Verified Structured Updates](ai/rag/arxiv-2607-05483.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.05483v1 Announce Type: new Abstract: Agentic workflows often operate over shared, structured state. Because LLM context windows are limited, each model invocation is typically shown only the state fragment needed for the current workflow s
   * Tags: `agents`, `benchmark`, `rag`, `workflows`
@@ -19522,7 +19517,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://shibuya.lepture.com>
 
 * **[Show HN: I simulated closing the Strait of Hormuz on real oil trade data](ai/community/show-hn-i-simulated-closing-the-strait-of-hormuz-o.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by eliotho. Score: 213, Comments: 103. Original Link: https://globaloilnetwork.staffinganalytics.io/
+  * Summary: Hacker News story by eliotho. Score: 234, Comments: 112. Original Link: https://globaloilnetwork.staffinganalytics.io/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://globaloilnetwork.staffinganalytics.io>
 
@@ -19936,7 +19931,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.06306>
 
 * **[UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](ai/community/uk-aisi-caisi-preliminary-assessment-of-kimi-k3-s.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by walrus01. Score: 89, Comments: 26. Original Link: https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities
+  * Summary: Hacker News story by walrus01. Score: 105, Comments: 31. Original Link: https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities
   * Tags: `ai`, `hackernews`
   * Source URL: <https://nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities>
 
@@ -86827,7 +86822,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2511.12810>
 
 * **[mteb/leaderboard](ai/models/huggingface-spaces-mteb.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7588, Downloads: 0)
+  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7589, Downloads: 0)
   * Tags: `hf-space`, `huggingface`, `leaderboard`
   * Source URL: <https://huggingface.co/spaces/mteb>
 
@@ -93164,7 +93159,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5123, Downloads: 253735958)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5124, Downloads: 253735958)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -100877,46 +100872,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `blog-post`, `mistral`, `mistral-ai-news`, `models`
   * Source URL: <https://mistral.ai/news/robostral-navigate>
 
-* **[Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research](ai/companies/anthropic/jul-14-2026announcementsanthropic-commits-10-milli.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/canadian-ai-research>
-
-* **[Jul 14, 2026ProductIntroducing Claude for Teachers](ai/companies/anthropic/jul-14-2026productintroducing-claude-for-teachers.md)** (`product` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: Jul 14, 2026ProductIntroducing Claude for Teachers
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/claude-for-teachers>
-
-* **[Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants](ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/rare-disease-research-grants>
-
-* **[Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/donation-public-first-action>
-
-* **[Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/economic-futures-research-fund-agenda>
-
-* **[Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)** (`product` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/anthropic-economic-index-connector>
-
-* **[Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust](ai/companies/anthropic/jul-9-2026announcementsben-bernanke-appointed-to-a.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/ben-bernanke>
-
-* **[Jul 9, 2026Case StudyUST is bringing Claude to physical AI](ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: Jul 9, 2026Case StudyUST is bringing Claude to physical AI
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/ust-claude>
-
 * **[Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers](ai/resources/landmark-german-ruling-declares-google-s-ai-overvi.md)** (`tutorial` | `useful` tier)
   * Summary: - **German court ruling (Munich Regional Court) establishes Google's direct liability for false claims in AI-generated search overviews**, classifying them as Google's own content rather than third-party search results, thus rejecting traditional sea
   * Tags: `anthropic`, `openai`, `reddit`, `web-crawled`
@@ -100992,20 +100947,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `blog-post`, `mistral`, `mistral-ai-news`, `models`
   * Source URL: <https://mistral.ai/news/search-toolkit>
 
-* **[ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.](ai/companies/anthropic/productjun-30-2026introducing-claude-sonnet-5sonne.md)** (`product` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.
-  * Tags: `agents`, `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/claude-sonnet-5>
-
 * **[Publications](ai/companies/publications.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Microsoft Research Blog Blog: Publications
   * Tags: `blog-post`, `microsoft-research-blog`
   * Source URL: <https://microsoft.com/en-us/research/publications>
-
-* **[Responsible Scaling Policy](ai/companies/anthropic/responsible-scaling-policy.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: Responsible Scaling Policy
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/announcing-our-updated-responsible-scaling-policy>
 
 * **[Search & information retrieval](ai/companies/search-information-retrieval.md)** (`benchmark` | `useful` tier)
   * Summary: Recent update from Microsoft Research Blog Blog: Search & information retrieval
@@ -105416,8 +105361,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2512.01317>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
-  * Summary: * Comprehensive guide for full-stack RAG-based LLM application development, emphasizing practical implementation. * Utilizes Python-centric frameworks like LangChain and LlamaIndex for orchestration, integrating vector databases (Milvus) and graph da
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
+  * Summary: * Comprehensive guide to Retrieval-Augmented Generation (RAG) technology, covering full-stack development. * Leverages `langchain`, `llama-index` for RAG orchestration, integrating vector databases like `milvus` and graph databases like `neo4j`. * Ex
   * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -105426,8 +105371,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`benchmark` | `useful` tier)
-  * Summary: * Provides foundational instruction for large language model (LLM) application development. * Emphasizes practical implementation using LangChain and Retrieval-Augmented Generation (RAG) architectures. * Delivered as interactive, executable Jupyter N
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tutorial` | `useful` tier)
+  * Summary: * Provides a foundational tutorial for Large Language Model (LLM) application development.
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -109271,7 +109216,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.11288>
 
 * **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** (`tool` | `useful` tier)
-  * Summary: * Python-based bioinformatics tool for genome assembly and scaffolding. * Functionality focused on ordering and orienting contigs into scaffolds. * Project is deprecated; users are directed to its successor, RagTag.
+  * Summary: * Python-based bioinformatics tool for *de novo* genome assembly scaffolding. * Functionally superseded by the RagTag project (github.com/malonge/RagTag). * Repository is deprecated and no longer actively supported.
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/malonge/RaGOO>
 
@@ -111462,7 +111407,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://superml.org/tutorials/rag-beginner>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll source repository for `raganwald.com`, leveraging static site generation.
+  * Summary: * GitHub Pages repository (`raganwald.github.com`) serving as the Jekyll source for
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 

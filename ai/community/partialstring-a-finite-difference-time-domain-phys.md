@@ -13,13 +13,14 @@ collected_at: '2026-07-25T19:32:16.619148+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:partialstring-a-finite-difference-time-domain-phys
 first_seen: '2026-07-25T13:54:07.392673+05:30'
 last_seen: '2026-07-25T19:32:16.619148+05:30'
 last_checked: '2026-07-25T19:32:16.619148+05:30'
 health_score: 100
 ---
+
 
 # PartialString – A finite-difference time-domain physical modelling synthesiser
 

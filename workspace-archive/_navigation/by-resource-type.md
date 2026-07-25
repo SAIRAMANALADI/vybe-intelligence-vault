@@ -83,13 +83,13 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Tier: `essential` | [`Local File`](../../ai/rag/girijesh-ai-ai-interview-codex.md))
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Tier: `essential` | [`Local File`](../../ai/rag/girijesh-ai-ai-interview-codex.md))
 - [CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention](https://arxiv.org/abs/2606.27229) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-27229.md))
-- [ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.](https://anthropic.com/news/claude-sonnet-5) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/productjun-30-2026introducing-claude-sonnet-5sonne.md))
-- [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](https://anthropic.com/news/anthropic-economic-index-connector) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md))
-- [Jul 14, 2026ProductIntroducing Claude for Teachers](https://anthropic.com/news/claude-for-teachers) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-14-2026productintroducing-claude-for-teachers.md))
 - [CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention](https://arxiv.org/abs/2606.27229) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-27229.md))
 - [A Glimpse into Long-term Physical Coexistence with Intelligent Robots](https://arxiv.org/abs/2607.11377) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-11377.md))
 - [A Glimpse into Long-term Physical Coexistence with Intelligent Robots](https://arxiv.org/abs/2607.11377) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-11377.md))
 - [CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention](https://arxiv.org/abs/2606.27229) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-27229.md))
+- [A Glimpse into Long-term Physical Coexistence with Intelligent Robots](https://arxiv.org/abs/2607.11377) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-11377.md))
+- [milvus-io/milvus-lite](https://github.com/milvus-io/milvus-lite?tab=readme-ov-file#migrating-data-from-milvus-lite) (Tier: `useful` | [`Local File`](../../ai/rag/milvus-io-milvus-lite.md))
+- [nixopus/nixopus](https://github.com/nixopus/nixopus) (Tier: `useful` | [`Local File`](../../ai/agents/nixopus-nixopus.md))
 
 ## PROMPT
 
@@ -113,13 +113,13 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Global Affairs](https://openai.com/news/global-affairs) (Tier: `useful` | [`Local File`](../../ai/companies/openai/global-affairs.md))
 - [Applied AI](https://openai.com/news/applied-ai) (Tier: `useful` | [`Local File`](../../ai/companies/openai/applied-ai.md))
 - [Engineering](https://openai.com/news/engineering) (Tier: `useful` | [`Local File`](../../ai/companies/openai/engineering.md))
-- [Responsible Scaling Policy](https://anthropic.com/news/announcing-our-updated-responsible-scaling-policy) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/responsible-scaling-policy.md))
-- [Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust](https://anthropic.com/news/ben-bernanke) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-9-2026announcementsben-bernanke-appointed-to-a.md))
-- [Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants](https://anthropic.com/news/rare-disease-research-grants) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md))
-- [Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](https://anthropic.com/news/donation-public-first-action) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md))
-- [Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research](https://anthropic.com/news/canadian-ai-research) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-14-2026announcementsanthropic-commits-10-milli.md))
-- [Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](https://anthropic.com/news/economic-futures-research-fund-agenda) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md))
-- [Jul 9, 2026Case StudyUST is bringing Claude to physical AI](https://anthropic.com/news/ust-claude) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md))
+- [CompanyAI Now Summit 2026Innovations for global enterprises solving the world’s hardest problems. May 28, 2026By Mistral](https://mistral.ai/news/ai-now-summit-2026) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/companyai-now-summit-2026innovations-for-global-en.md))
+- [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI](https://mistral.ai/news/more-control-over-connectors) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md))
+- [Mistral OCR 4](https://mistral.ai/news/ocr-4) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/mistral-ocr-4.md))
+- [Introducing Robostral Navigate](https://mistral.ai/news/robostral-navigate) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/introducing-robostral-navigate.md))
+- [Mistral Medium 3.5](https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/mistral-medium-3-5.md))
+- [Voxtral TTS](https://mistral.ai/news/voxtral-tts) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/voxtral-tts.md))
+- [Leanstral 1.5: Proof Abundance for All](https://mistral.ai/news/leanstral-1-5) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/leanstral-1-5-proof-abundance-for-all.md))
 
 ## TEMPLATE
 
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) (Tier: `useful` | [`Local File`](../../ai/agents/ed1s0nz-cyberstrikeai.md))
 
 ---
-*Last updated: 2026-07-25 19:50 IST*
+*Last updated: 2026-07-25 22:02 IST*
