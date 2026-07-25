@@ -4,7 +4,7 @@
 | -------------------- | ----: |
 | Active resources     | 12780 |
 | Inactive resources   |   308 |
-| Markdown files       | 58892 |
+| Markdown files       | 61416 |
 | Archive files        |  2047 |
 | Archive categories   |    26 |
 | Skill files          |    19 |
@@ -16,7 +16,7 @@
 | Examples             |     8 |
 | Search index entries | 30371 |
 
-Last Generated: 2026-07-25 03:51 IST
+Last Generated: 2026-07-25 05:39 IST
 
 ## Top Categories
 - **Ai/Research**: 5316 files
