@@ -10523,10 +10523,8 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [Corporate America Has Suddenly Decided to Stop Blowing Money on AI](../ai/community/corporate-america-has-suddenly-decided-to-stop-blo.md)
   - [Firefox Containers Preview](../ai/community/firefox-containers-preview.md)
-  - [Half-Life 2 running natively on HaikuOS](../ai/community/half-life-2-running-natively-on-haikuos.md)
-  - [IRGC claims it destroyed Amazon's Bahrain data center](../ai/community/irgc-claims-it-destroyed-amazon-s-bahrain-data-cen.md)
-  - [Nvidia, Microsoft, Meta warn against overregulating open-weight models](../ai/community/nvidia-microsoft-meta-warn-against-overregulating.md)
   - [PartialString – A finite-difference time-domain physical modelling synthesiser](../ai/community/partialstring-a-finite-difference-time-domain-phys.md)
   - [Show HN: I simulated closing the Strait of Hormuz on real oil trade data](../ai/community/show-hn-i-simulated-closing-the-strait-of-hormuz-o.md)
   - [UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](../ai/community/uk-aisi-caisi-preliminary-assessment-of-kimi-k3-s.md)
@@ -13786,4 +13784,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-25T16:31:49.709646+05:30*
+*Index generated on 2026-07-25T19:49:20.814812+05:30*

@@ -17476,6 +17476,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://data.research.cornell.edu/>
 
+* **[Corporate America Has Suddenly Decided to Stop Blowing Money on AI](ai/community/corporate-america-has-suddenly-decided-to-stop-blo.md)** (`dataset` | `useful` tier)
+  * Summary: Hacker News story by 1vuio0pswjnm7. Score: 7, Comments: 2. Original Link: https://www.wsj.com/business/china-us-ai-model-costs-53a12e96
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://wsj.com/business/china-us-ai-model-costs-53a12e96>
+
 * **[Create an op | TensorFlow Core](ai/resources/create-an-op-tensorflow-core.md)** (`template` | `useful` tier)
   * Summary: - **Custom Op Development Workflow**: Create C++ custom ops for TensorFlow by first attempting Python composition, then implementing a C++ kernel (`OpKernel`) with thread-safe `Compute` method; register op interface via `REGISTER_OP` and kernel via `
   * Tags: `producthunt`, `reddit`, `web-crawled`, `workflows`
@@ -17862,7 +17867,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://blog.mozilla.org/en/category/firefox/?utm_source=www.firefox.com&utm_medium=referral&utm_campaign=nav&utm_content=resources>
 
 * **[Firefox Containers Preview](ai/community/firefox-containers-preview.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by twapi. Score: 355, Comments: 99. Original Link: https://blog.mozilla.org/en/firefox/firefox-containers-preview/
+  * Summary: Hacker News story by twapi. Score: 401, Comments: 115. Original Link: https://blog.mozilla.org/en/firefox/firefox-containers-preview/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://blog.mozilla.org/en/firefox/firefox-containers-preview>
 
@@ -18211,11 +18216,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `workflows`
   * Source URL: <https://arxiv.org/abs/2603.05171>
 
-* **[Half-Life 2 running natively on HaikuOS](ai/community/half-life-2-running-natively-on-haikuos.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by m0do1. Score: 307, Comments: 57. Original Link: https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18>
-
 * **[HalluJudge: A Reference-Free Hallucination Detection for Context Misalignment in Code Review Automation](ai/rag/arxiv-2601-19072.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2601.19072v3 Announce Type: replace-cross Abstract: Large Language models (LLMs) have shown strong capabilities in code review automation, such as review comment generation, yet they suffer from hallucinations -- where the generated review comm
   * Tags: `benchmark`, `rag`, `scripts`, `workflows`
@@ -18445,11 +18445,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Interactive Python Shell & Jupyter Kernel**: Provides an enhanced interactive Python shell with comprehensive object introspection, persistent input history, and caching of output results, alongside a Jupyter kernel enabling Python code execution
   * Tags: `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://ipython.readthedocs.io/en/stable>
-
-* **[IRGC claims it destroyed Amazon's Bahrain data center](ai/community/irgc-claims-it-destroyed-amazon-s-bahrain-data-cen.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by thisislife2. Score: 300, Comments: 360. Original Link: https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/
-  * Tags: `ai`, `hackernews`, `reddit`
-  * Source URL: <https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center>
 
 * **[Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking](ai/rag/arxiv-2602-24009.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.24009v4 Announce Type: replace-cross Abstract: Jailbreak techniques for large language models (LLMs) evolve faster than benchmarks, making robustness estimates stale and difficult to compare across papers due to drift in datasets, harnesse
@@ -18956,11 +18951,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`, `web-crawled`, `workflows`
   * Source URL: <https://numfocus.org>
 
-* **[Nvidia, Microsoft, Meta warn against overregulating open-weight models](ai/community/nvidia-microsoft-meta-warn-against-overregulating.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by louiereederson. Score: 614, Comments: 271. Original Link: https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html>
-
 * **[NVIDIA/workbench-example-agentic-rag](ai/rag/nvidia-workbench-example-agentic-rag.md)** (`framework` | `useful` tier)
   * Summary: - **Agentic RAG Implementation**: Demonstrates an agentic RAG system using NVIDIA AI Workbench, integrating retrieval and generative components for dynamic, multi-step reasoning. - **Jupyter Notebook-Based**: Entire workflow encapsulated in Jupyter N
   * Tags: `agents`, `github-repo`, `jupyter notebook`, `rag`, `workflows`
@@ -19062,7 +19052,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://hackage.haskell.org/package/pandoc>
 
 * **[PartialString – A finite-difference time-domain physical modelling synthesiser](ai/community/partialstring-a-finite-difference-time-domain-phys.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by shmeano. Score: 23, Comments: 4. Original Link: https://differentinstruments.com/
+  * Summary: Hacker News story by shmeano. Score: 35, Comments: 5. Original Link: https://differentinstruments.com/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://differentinstruments.com>
 
@@ -19532,7 +19522,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://shibuya.lepture.com>
 
 * **[Show HN: I simulated closing the Strait of Hormuz on real oil trade data](ai/community/show-hn-i-simulated-closing-the-strait-of-hormuz-o.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by eliotho. Score: 188, Comments: 87. Original Link: https://globaloilnetwork.staffinganalytics.io/
+  * Summary: Hacker News story by eliotho. Score: 213, Comments: 103. Original Link: https://globaloilnetwork.staffinganalytics.io/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://globaloilnetwork.staffinganalytics.io>
 
@@ -19946,7 +19936,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.06306>
 
 * **[UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](ai/community/uk-aisi-caisi-preliminary-assessment-of-kimi-k3-s.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by walrus01. Score: 70, Comments: 17. Original Link: https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities
+  * Summary: Hacker News story by walrus01. Score: 89, Comments: 26. Original Link: https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities
   * Tags: `ai`, `hackernews`
   * Source URL: <https://nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities>
 
@@ -75713,7 +75703,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2501.19401>
 
 * **[dalle-mini/dalle-mini](ai/models/huggingface-spaces-dalle-mini.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: dalle-mini/dalle-mini (Likes: 5709, Downloads: 0)
+  * Summary: Trending Hugging Face space: dalle-mini/dalle-mini (Likes: 5708, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/dalle-mini>
 
@@ -90736,7 +90726,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17846>
 
 * **[Qwen/Qwen3-0.6B](ai/models/huggingface-qwen-qwen3-0-6b.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1448, Downloads: 28950114)
+  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1449, Downloads: 28950114)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/qwen/qwen3-0.6b>
 
@@ -93174,7 +93164,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5122, Downloads: 253735958)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5123, Downloads: 253735958)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -105436,8 +105426,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
-  * Summary: * LLM application development tutorial leveraging the LangChain framework. * Focuses on Retrieval
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`benchmark` | `useful` tier)
+  * Summary: * Provides foundational instruction for large language model (LLM) application development. * Emphasizes practical implementation using LangChain and Retrieval-Augmented Generation (RAG) architectures. * Delivered as interactive, executable Jupyter N
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -109280,8 +109270,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `producthunt`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.11288>
 
-* **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** (`workflow` | `useful` tier)
-  * Summary: * Deprecated Python-based bioinformatics tool for genome assembly and scaffolding. * Superseded by RagTag, indicating a successor project for improved genome ordering and orientation. * Specialized in contig/scaffold placement within large-scale geno
+* **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** (`tool` | `useful` tier)
+  * Summary: * Python-based bioinformatics tool for genome assembly and scaffolding. * Functionality focused on ordering and orienting contigs into scaffolds. * Project is deprecated; users are directed to its successor, RagTag.
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/malonge/RaGOO>
 
@@ -111472,7 +111462,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://superml.org/tutorials/rag-beginner>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll-based static site source for `raganwald.com`, primarily composed of HTML. * Demonstrates moderate community engagement with 30 stars and 60 forks. * Last updated on 2026-07-08T15:07:53Z, indicating a future timestamp.
+  * Summary: * Jekyll source repository for `raganwald.com`, leveraging static site generation.
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 

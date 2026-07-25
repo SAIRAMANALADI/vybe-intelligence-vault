@@ -13,13 +13,14 @@ collected_at: '2026-07-25T16:14:33.677137+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:half-life-2-running-natively-on-haikuos
 first_seen: '2026-07-25T13:54:07.976809+05:30'
 last_seen: '2026-07-25T16:14:33.677137+05:30'
 last_checked: '2026-07-25T16:14:33.677137+05:30'
 health_score: 100
 ---
+
 
 # Half-Life 2 running natively on HaikuOS
 

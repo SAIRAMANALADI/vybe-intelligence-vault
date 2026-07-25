@@ -3130,10 +3130,8 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [Corporate America Has Suddenly Decided to Stop Blowing Money on AI](../ai/community/corporate-america-has-suddenly-decided-to-stop-blo.md)
   - [Firefox Containers Preview](../ai/community/firefox-containers-preview.md)
-  - [Half-Life 2 running natively on HaikuOS](../ai/community/half-life-2-running-natively-on-haikuos.md)
-  - [IRGC claims it destroyed Amazon's Bahrain data center](../ai/community/irgc-claims-it-destroyed-amazon-s-bahrain-data-cen.md)
-  - [Nvidia, Microsoft, Meta warn against overregulating open-weight models](../ai/community/nvidia-microsoft-meta-warn-against-overregulating.md)
   - [PartialString – A finite-difference time-domain physical modelling synthesiser](../ai/community/partialstring-a-finite-difference-time-domain-phys.md)
   - [Show HN: I simulated closing the Strait of Hormuz on real oil trade data](../ai/community/show-hn-i-simulated-closing-the-strait-of-hormuz-o.md)
   - [UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](../ai/community/uk-aisi-caisi-preliminary-assessment-of-kimi-k3-s.md)
@@ -12488,6 +12486,7 @@ Resources organized by keyword tags.
   - [Cornell University](../ai/rag/cornell-university.md)
   - [Cornell University | Search Pages](../ai/resources/cornell-university-search-pages.md)
   - [Cornell University's Online Web and Video Conferencing Service - Zoom](../ai/resources/cornell-university-s-online-web-and-video-conferen.md)
+  - [Corporate America Has Suddenly Decided to Stop Blowing Money on AI](../ai/community/corporate-america-has-suddenly-decided-to-stop-blo.md)
   - [Corpus Augmentation for Sign Language Translation via LLM-Guided Video Stitching](../ai/research/arxiv-2606-11925.md)
   - [Cortecs: CoRTecS](../ai/resources/cortecs-cortecs.md)
   - [Cosmos 3: Omnimodal World Models for Physical AI](../ai/agents/arxiv-2606-02800.md)
@@ -12864,7 +12863,6 @@ Resources organized by keyword tags.
   - [HTTP Archive: Tech Report](../ai/resources/http-archive-tech-report.md)
   - [HTTP authentication - HTTP | MDN](../ai/agents/http-authentication-http-mdn.md)
   - [Hackster.io - The community dedicated to learning hardware.](../ai/resources/hackster-io-the-community-dedicated-to-learning-ha.md)
-  - [Half-Life 2 running natively on HaikuOS](../ai/community/half-life-2-running-natively-on-haikuos.md)
   - [HandFlow: Fully Generative 4D Hand Recovery with Flow Matching](../ai/research/arxiv-2607-11221.md)
   - [Handle - AT Protocol](../ai/resources/handle-at-protocol.md)
   - [Handling Feature Heterogeneity with Learnable Graph Patches](../ai/rag/arxiv-2606-17667.md)
@@ -12955,7 +12953,6 @@ Resources organized by keyword tags.
   - [IMPACTeen: Intentions, Manipulation, Persuasion, Annotations, and Consequences in Teen Communication Dataset](../ai/research/arxiv-2606-16910.md)
   - [IOAH3: Importance-Driven Adaptive Spatial Partitioning](../ai/rag/arxiv-2606-18280.md)
   - [IPv6 Fundamentals Training Course - RIPE NCC](../ai/resources/ipv6-fundamentals-training-course-ripe-ncc.md)
-  - [IRGC claims it destroyed Amazon's Bahrain data center](../ai/community/irgc-claims-it-destroyed-amazon-s-bahrain-data-cen.md)
   - [Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses](../ai/agents/arxiv-2607-07775.md)
   - [If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents](../ai/research/if-llm-is-the-wizard-then-code-is-the-wand-a-surve.md)
   - [Imagine Intel: Creative Purpose at the Dawn of AI - Mozilla Foundation](../ai/resources/imagine-intel-creative-purpose-at-the-dawn-of-ai-m.md)
@@ -13268,7 +13265,6 @@ Resources organized by keyword tags.
   - [NouveauVoice: Generating Novel Pseudo Speakers for Voice Anonymization](../ai/rag/arxiv-2607-03985.md)
   - [Nuro—Autonomy for all. All roads, all rides. | Nuro](../ai/rag/nuro-autonomy-for-all-all-roads-all-rides-nuro.md)
   - [Nvidia is latest investor to back AV startup Nuro in $203M funding round | TechCrunch](../ai/rag/nvidia-is-latest-investor-to-back-av-startup-nuro.md)
-  - [Nvidia, Microsoft, Meta warn against overregulating open-weight models](../ai/community/nvidia-microsoft-meta-warn-against-overregulating.md)
   - [OECC2026](../ai/rag/oecc2026.md)
   - [OSTIF Has Completed A Security Audit of wasmCloud! – OSTIF.org](../ai/resources/ostif-has-completed-a-security-audit-of-wasmcloud.md)
   - [OSVE: One Step Video Editing with One Step Diffusion Models](../ai/research/arxiv-2607-19895.md)
@@ -25600,7 +25596,6 @@ Resources organized by keyword tags.
   - [IPGP DATA CENTER](../ai/resources/ipgp-data-center.md)
   - [IPGP/EPOS Volcano Activity Reports Web Service | IPGP Data Center Web Services](../ai/resources/ipgp-epos-volcano-activity-reports-web-service-ipg.md)
   - [IPv6 Fundamentals Training Course - RIPE NCC](../ai/resources/ipv6-fundamentals-training-course-ripe-ncc.md)
-  - [IRGC claims it destroyed Amazon's Bahrain data center](../ai/community/irgc-claims-it-destroyed-amazon-s-bahrain-data-cen.md)
   - [ISGI - International Service of Geomagnetic Indices](../ai/resources/isgi-international-service-of-geomagnetic-indices.md)
   - [ITGPT: A Transformer Based Architecture for the Generation of Dance Dance Revolution and In the Groove Charts](../ai/research/arxiv-2607-14148.md)
   - [Identity Guide](../ai/resources/identity-guide.md)
@@ -32146,4 +32141,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-25T16:31:49.556929+05:30*
+*Index generated on 2026-07-25T19:49:20.671236+05:30*

@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:irgc-claims-it-destroyed-amazon-s-bahrain-data-cen
 first_seen: '2026-07-25T13:54:08.044557+05:30'
 last_seen: '2026-07-25T16:14:33.790509+05:30'
 last_checked: '2026-07-25T16:14:33.790509+05:30'
 health_score: 100
 ---
+
 
 # IRGC claims it destroyed Amazon's Bahrain data center
 
