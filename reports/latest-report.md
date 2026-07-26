@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-26T22:05:11.204843+05:30`
+Generated at: `2026-07-26T22:35:22.632723+05:30`
 
 ## Executive Summary
 
@@ -10,6 +10,7 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 - **Park by Robot at London Gatwick Airport** - Score: `79` in category `ai/community` ([Link](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics)) ([File](../ai/community/park-by-robot-at-london-gatwick-airport.md))
 - **The New AI Superpowers: Focus and Followthrough** - Score: `23` in category `ai/community` ([Link](https://rickmanelius.com/p/the-new-ai-superpowers-focus-and)) ([File](../ai/community/the-new-ai-superpowers-focus-and-followthrough.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
@@ -21,21 +22,21 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/datawhalechina-llm-universe.md))
 - **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+983` ([File](../ai/rag/sylphai-inc-githubchat.md))
 - **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+967` ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - Score: `0` (0), Rank Change: `+65` ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
-- **Sunsetting Create React App** - Score: `0` (0), Rank Change: `+65` ([File](../ai/rag/sunsetting-create-react-app.md))
+- **JCodesMore/ai-website-cloner-template** - Score: `0` (0), Rank Change: `+964` ([File](../ai/agents/jcodesmore-ai-website-cloner-template.md))
+- **WenyuChiou/awesome-agentic-ai-zh** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md))
 
 ## 🚀 Fastest Rising Tools
 
+- **Medium** - (Rank Change: `+12874`) ([File](../ai/rag/medium-2.md))
+- **infiniflow/ragflow** - (Rank Change: `+12785`) ([File](../ai/rag/infiniflow-ragflow-2.md))
 - **SylphAI-Inc/GithubChat** - (Rank Change: `+983`) ([File](../ai/rag/sylphai-inc-githubchat.md))
 - **raganwald/raganwald.github.com** - (Rank Change: `+967`) ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - (Rank Change: `+65`) ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
-- **Sunsetting Create React App** - (Rank Change: `+65`) ([File](../ai/rag/sunsetting-create-react-app.md))
-- **How to train a new language model from scratch using Transformers and Tokenizers** - (Rank Change: `+23`) ([File](../ai/models/huggingface-blog-how-to-train.md))
-- **How to generate text: using different decoding methods for language generation with Transformers** - (Rank Change: `+23`) ([File](../ai/models/huggingface-blog-how-to-generate.md))
-- **The Reformer - Pushing the limits of language modeling** - (Rank Change: `+23`) ([File](../ai/models/huggingface-blog-reformer.md))
-- **Block Sparse Matrices for Smaller and Faster Language Models** - (Rank Change: `+23`) ([File](../ai/models/huggingface-blog-pytorch-block-sparse.md))
-- **Transformer-based Encoder-Decoder Models** - (Rank Change: `+23`) ([File](../ai/models/huggingface-blog-encoder-decoder.md))
-- **Hyperparameter Search with Transformers and Ray Tune** - (Rank Change: `+23`) ([File](../ai/models/huggingface-blog-ray-tune.md))
+- **coree/awesome-rag** - (Rank Change: `+967`) ([File](../ai/rag/coree-awesome-rag.md))
+- **vndee/local-assistant-examples** - (Rank Change: `+967`) ([File](../ai/rag/vndee-local-assistant-examples.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - (Rank Change: `+967`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
+- **Test-Input Generation for Tensor Programs: What Actually Finds Kernel Bugs** - (Rank Change: `+967`) ([File](../ai/research/arxiv-2606-27396.md))
+- **Don't Fool Me Twice: Adapting to Adversity in the Wild with Experience-Driven Reasoning** - (Rank Change: `+967`) ([File](../ai/rag/arxiv-2605-31119.md))
+- **SGMD: Score Gradient Matching Distillation for Few-Step Video Diffusion Distillation** - (Rank Change: `+967`) ([File](../ai/research/arxiv-2605-30116.md))
 
 ## 🔄 Essential Tier Transitions
 
