@@ -2,7 +2,7 @@
 
 This file tracks all chronological shifts, score changes, tier promotions, and deactivations.
 
-### Run: 2026-07-26T05:35:24.698525+05:30
+### Run: 2026-07-26T09:13:05.225010+05:30
 - **[New Discovery]** `langchain-ai/langgraph` registered with score `0` in `Agent Framework`
 - **[Rank Rise]** `ParticleMedia/RAGTruth`: Rank rose by +965
 - **[Rank Rise]** `malonge/RaGOO`: Rank rose by +965
@@ -12769,7 +12769,7 @@ This file tracks all chronological shifts, score changes, tier promotions, and d
 - **[Rank Drop]** `RUC-NLPIR/FlashRAG`: Rank dropped by -11772
 - **[Rank Drop]** `stanford-oval/storm`: Rank dropped by -10595
 
-### Run: 2026-07-26T04:30:23.161399+05:30
+### Run: 2026-07-26T05:35:24.698525+05:30
 - **[New Discovery]** `langchain-ai/langgraph` registered with score `0` in `Agent Framework`
 - **[Rank Rise]** `ParticleMedia/RAGTruth`: Rank rose by +965
 - **[Rank Rise]** `malonge/RaGOO`: Rank rose by +965
