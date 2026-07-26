@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-26T14:29:00.824639+05:30`
+Generated at: `2026-07-26T14:47:24.623997+05:30`
 
 ## Executive Summary
 
@@ -12,7 +12,7 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?** - Score: `21` in category `ai/community` ([Link](https://historicmysteries.com/unexplained-mysteries/agatha-christie-disappearance/23136)) ([File](../ai/community/agatha-christie-s-disappearance-amnesia-suicide-or.md))
 - **GrapheneOS protections against data extraction from locked devices** - Score: `20` in category `ai/community` ([Link](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)) ([File](../ai/community/grapheneos-protections-against-data-extraction-fro.md))
 - **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` in category `ai/rag` ([Link](https://github.com/ragnarokoffline/ragnarokoffline.github.io)) ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
-- **k9cli/video-vec2wav2-tokenizer** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/datasets/k9cli)) ([File](../ai/models/huggingface-datasets-k9cli.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
@@ -29,6 +29,8 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## 🚀 Fastest Rising Tools
 
+- **Medium** - (Rank Change: `+12871`) ([File](../ai/rag/medium-2.md))
+- **infiniflow/ragflow** - (Rank Change: `+12782`) ([File](../ai/rag/infiniflow-ragflow-2.md))
 - **7 Best GitHub Repositories For Mastering RAG Systems** - (Rank Change: `+2087`) ([File](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md))
 - **streamlit/example-app-langchain-rag** - (Rank Change: `+2046`) ([File](../ai/rag/streamlit-example-app-langchain-rag.md))
 - **DEEP-PolyU/LinearRAG** - (Rank Change: `+2010`) ([File](../ai/rag/deep-polyu-linearrag.md))
@@ -37,8 +39,6 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **Azure-Samples/chat-with-your-data-solution-accelerator** - (Rank Change: `+988`) ([File](../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md))
 - **ajac-zero/example-rag-app** - (Rank Change: `+987`) ([File](../ai/rag/ajac-zero-example-rag-app.md))
 - **microsoft/agentsleague** - (Rank Change: `+983`) ([File](../ai/agents/microsoft-agentsleague.md))
-- **bakrianoo/mini-rag** - (Rank Change: `+983`) ([File](../ai/rag/bakrianoo-mini-rag.md))
-- **TEN-framework/ten-framework** - (Rank Change: `+972`) ([File](../ai/agents/ten-framework-ten-framework.md))
 
 ## 🔄 Essential Tier Transitions
 

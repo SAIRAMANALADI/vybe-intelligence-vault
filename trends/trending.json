@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T14:29:00.824639+05:30",
+  "generated_at": "2026-07-26T14:47:24.623997+05:30",
   "trending_resources": [
     {
       "id": "github:slvdev/esp32-ai",
@@ -134,6 +134,32 @@
   ],
   "fastest_rising_tools": [
     {
+      "id": "blog:medium",
+      "title": "Medium",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://medium.com/googleplaydev/how-to-scale-the-happiness-of-your-users-3e46ef72029f",
+      "file_path": "ai/rag/medium-2.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 12871,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:infiniflow/ragflow",
+      "title": "infiniflow/ragflow",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/infiniflow/ragflow",
+      "file_path": "ai/rag/infiniflow-ragflow-2.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 12782,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
       "id": "blog:7-best-github-repositories-for-mastering-rag-syste",
       "title": "7 Best GitHub Repositories For Mastering RAG Systems",
       "category": "ai/rag",
@@ -236,32 +262,6 @@
       "rank_change": 983,
       "new_resource": false,
       "tier": "tier-3"
-    },
-    {
-      "id": "github:bakrianoo/mini-rag",
-      "title": "bakrianoo/mini-rag",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/bakrianoo/mini-rag",
-      "file_path": "ai/rag/bakrianoo-mini-rag.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 983,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:ten-framework/ten-framework",
-      "title": "TEN-framework/ten-framework",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/ten-framework/ten-framework",
-      "file_path": "ai/agents/ten-framework-ten-framework.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 972,
-      "new_resource": false,
-      "tier": "tier-3"
     }
   ],
   "new_discoveries": [
@@ -318,12 +318,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "huggingface:datasets/k9cli",
-      "title": "k9cli/video-vec2wav2-tokenizer",
-      "category": "ai/models",
-      "source_type": "huggingface_dataset",
-      "url": "https://huggingface.co/datasets/k9cli",
-      "file_path": "ai/models/huggingface-datasets-k9cli.md",
+      "id": "blog:langchain-ai-langgraph",
+      "title": "langchain-ai/langgraph",
+      "category": "Agent Framework",
+      "source_type": "",
+      "url": "",
+      "file_path": "docs/sample-digest.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
