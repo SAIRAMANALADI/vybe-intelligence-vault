@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ajac-zero/example-rag-app
-collected_at: '2026-07-23T14:17:50.686785+05:30'
-published_at: '2026-07-14T22:18:47Z'
+collected_at: '2026-07-26T14:11:36.858678+05:30'
+published_at: '2026-07-25T21:07:25Z'
 tags:
 - github-repo
 - rag
 - typescript
-stars: 159
+stars: 162
 language: TypeScript
 status: active
 license: MIT
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-02-18T16:15:24Z'
 pushed_at: '2026-01-15T20:18:12Z'
 resource_id: github:ajac-zero/example-rag-app
-first_seen: '2026-07-23T14:17:50.686785+05:30'
-last_seen: '2026-07-23T14:17:50.686785+05:30'
-last_checked: '2026-07-23T14:17:50.686785+05:30'
+first_seen: '2026-07-26T14:11:36.858678+05:30'
+last_seen: '2026-07-26T14:11:36.858678+05:30'
+last_checked: '2026-07-26T14:11:36.858678+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-*   Open-source RAG application featuring integrated LLM observability via Langfuse.
-*   Achieves broad LLM provider compatibility (100+ providers) through LiteLLM integration.
-*   Dockerized for deployment, implements full TypeScript type-checking, and maintains 100% test coverage.
+*   Implements a RAG architecture with integrated LLM observability via Langfuse.
+*   Utilizes LiteLLM for multi-provider LLM abstraction, supporting 100+ model endpoints.
+*   Ensures robust development with Dockerization, full TypeScript type-checking, and 100% test coverage.
 
 ## Why It Matters
 
@@ -39,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ajac-zero
-- Stars: 159
+- Stars: 162
 - Forks: 24
 - Language: TypeScript
 - Topics: ai, llm, rag
-- Last Updated: 2026-07-14T22:18:47Z
+- Last Updated: 2026-07-25T21:07:25Z
 - License: MIT
 - Archived: No
 - Created At: 2025-02-18T16:15:24Z

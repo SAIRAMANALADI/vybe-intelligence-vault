@@ -4,10 +4,11 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/agentsleague
-collected_at: '2026-07-23T14:18:55.742823+05:30'
+collected_at: '2026-07-26T14:12:42.019094+05:30'
 published_at: '2026-06-30T16:54:25Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - unknown
 stars: 285
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-12-15T11:55:32Z'
 pushed_at: '2026-04-06T09:34:39Z'
 resource_id: github:microsoft/agentsleague
-first_seen: '2026-07-23T14:18:55.742823+05:30'
-last_seen: '2026-07-23T14:18:55.742823+05:30'
-last_checked: '2026-07-23T14:18:55.742823+05:30'
+first_seen: '2026-07-26T14:12:42.019094+05:30'
+last_seen: '2026-07-26T14:12:42.019094+05:30'
+last_checked: '2026-07-26T14:12:42.019094+05:30'
 health_score: 100
 ---
 
@@ -28,7 +29,7 @@ health_score: 100
 
 ## Summary
 
-*   Competitive developer challenge centered on agentic AI, featuring an e-sports-style live battle
+*   E-sports-inspired competitive platform for agentic AI evaluation and ranking.
 
 ## Why It Matters
 

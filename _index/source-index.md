@@ -10361,6 +10361,7 @@ Resources organized by publisher feed and query sources.
   - [raga-ai-hub/RagaAI-Catalyst](../ai/rag/raga-ai-hub-ragaai-catalyst.md)
   - [raga-ai-hub/raga-llm-hub](../ai/rag/raga-ai-hub-raga-llm-hub.md)
   - [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md)
+  - [ragnarokoffline/ragnarokoffline.github.io](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)
   - [rajveermalviya/go-webgpu](../web-development/webgpu/rajveermalviya-go-webgpu.md)
   - [ray-project/llm-applications](../ai/rag/ray-project-llm-applications.md)
   - [razzant/ouroboros](../ai/agents/razzant-ouroboros.md)
@@ -10523,15 +10524,17 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?](../ai/community/agatha-christie-s-disappearance-amnesia-suicide-or.md)
   - [Clinical failure rates over the decades: yikes](../ai/community/clinical-failure-rates-over-the-decades-yikes.md)
   - [Cloudflare's new AI traffic options for customers](../ai/community/cloudflare-s-new-ai-traffic-options-for-customers.md)
   - [DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](../ai/community/demo-zexuan-liang-wenfeng-investor-meeting-2026-7-22.md)
   - [GM Backs Sodium Ion Batteries for U.S. Grid Storage](../ai/community/gm-backs-sodium-ion-batteries-for-u-s-grid-storage.md)
+  - [GrapheneOS protections against data extraction from locked devices](../ai/community/grapheneos-protections-against-data-extraction-fro.md)
   - [LLM Usage in Debian: Three Proposals](../ai/community/llm-usage-in-debian-three-proposals.md)
-  - [Open-weight AI is having its Kubernetes moment](../ai/community/open-weight-ai-is-having-its-kubernetes-moment.md)
   - [Rethinking Legal Education in the AI Era](../ai/community/rethinking-legal-education-in-the-ai-era.md)
   - [Running a 28.9M parameter LLM on an $8 microcontroller](../ai/community/slvdev-esp32-ai.md)
   - [Show HN: Brolly, a plain-text weather forecast site](../ai/community/show-hn-brolly-a-plain-text-weather-forecast-site.md)
+  - [What is happening to jobs? Separating AI hype from reality](../ai/community/what-is-happening-to-jobs-separating-ai-hype-from.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -11372,9 +11375,9 @@ Resources organized by publisher feed and query sources.
   - [allenai/c4](../ai/models/huggingface-datasets-allenai.md)
   - [anisoleai/fineweb-tokenized](../ai/models/huggingface-datasets-anisoleai.md)
   - [codeparrot/github-code](../ai/models/huggingface-datasets-codeparrot.md)
-  - [hallucinations-leaderboard/results](../ai/models/huggingface-datasets-hallucinations-leaderboard.md)
   - [hf-doc-build/doc-build-dev](../ai/models/huggingface-datasets-hf-doc-build.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
+  - [k9cli/video-vec2wav2-tokenizer](../ai/models/huggingface-datasets-k9cli.md)
   - [ksolovev/FineNews](../ai/models/huggingface-datasets-ksolovev.md)
   - [ryanmarten/OpenThoughts-1k-sample](../ai/models/huggingface-datasets-ryanmarten.md)
 
@@ -13788,4 +13791,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-26T09:41:19.910944+05:30*
+*Index generated on 2026-07-26T14:26:53.143270+05:30*

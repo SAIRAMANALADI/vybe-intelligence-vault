@@ -13,13 +13,14 @@ collected_at: '2026-07-26T09:24:42.486837+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:open-weight-ai-is-having-its-kubernetes-moment
 first_seen: '2026-07-26T01:04:41.310460+05:30'
 last_seen: '2026-07-26T09:24:42.486837+05:30'
 last_checked: '2026-07-26T09:24:42.486837+05:30'
 health_score: 100
 ---
+
 
 # Open-weight AI is having its Kubernetes moment
 

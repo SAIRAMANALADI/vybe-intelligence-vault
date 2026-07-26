@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/FudanDNN-NLP/RAG
-collected_at: '2026-07-22T14:17:08.394764+05:30'
-published_at: '2026-07-22T07:22:38Z'
+collected_at: '2026-07-26T14:11:41.925921+05:30'
+published_at: '2026-07-26T08:08:37Z'
 tags:
+- benchmark
 - github-repo
 - paper
 - python
 - rag
-stars: 347
+stars: 348
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-06-29T13:07:50Z'
 pushed_at: '2024-12-21T07:32:41Z'
 resource_id: github:fudandnn-nlp/rag
-first_seen: '2026-07-22T14:17:08.394764+05:30'
-last_seen: '2026-07-22T14:17:08.394764+05:30'
-last_checked: '2026-07-22T14:17:08.394764+05:30'
+first_seen: '2026-07-26T14:11:41.925921+05:30'
+last_seen: '2026-07-26T14:11:41.925921+05:30'
+last_checked: '2026-07-26T14:11:41.925921+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Implements the EMNLP 2024 paper "Searching for Best Practices in Retrieval-Augmented Generation".
-*   Provides a Python-based framework for evaluating and optimizing RAG system configurations.
-*   Focuses on empirical methodologies for identifying effective RAG strategies.
+*   Python implementation of the EMNLP 2024 paper: "Searching for Best Practices in Retrieval-Augmented Generation".
+*   Provides a codebase for empirical evaluation and optimization of Retrieval-Augmented Generation (RAG) configurations.
+*   Focuses on identifying effective strategies and architectural patterns within RAG systems.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: FudanDNN-NLP
-- Stars: 347
+- Stars: 348
 - Forks: 21
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-22T07:22:38Z
+- Last Updated: 2026-07-26T08:08:37Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-06-29T13:07:50Z
