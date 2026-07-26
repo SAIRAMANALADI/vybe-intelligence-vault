@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 63,969 files</p>
-        <p><b>Last Update:</b> 2026-07-26 22:35 IST</p>
+        <p><b>Last Update:</b> 2026-07-26 23:40 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,25 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[GrapheneOS protections against data extraction from locked devices](ai/community/grapheneos-protections-against-data-extraction-fro.md)** • <kbd>+69 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[What is happening to jobs? Separating AI hype from reality](ai/community/what-is-happening-to-jobs-separating-ai-hype-from.md)** • <kbd>+42 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[Running a 28.9M parameter LLM on an $8 microcontroller](ai/community/slvdev-esp32-ai.md)** • <kbd>+24 pts</kbd>
-- 🔼 **[DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](ai/community/demo-zexuan-liang-wenfeng-investor-meeting-2026-7-22.md)** • <kbd>+17 pts</kbd>
-- 🔼 **[Cloudflare's new AI traffic options for customers](ai/community/cloudflare-s-new-ai-traffic-options-for-customers.md)** • <kbd>+16 pts</kbd>
+- 🔼 **[JCodesMore/ai-website-cloner-template](ai/agents/jcodesmore-ai-website-cloner-template.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[WenyuChiou/awesome-agentic-ai-zh](ai/rag/wenyuchiou-awesome-agentic-ai-zh.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[TEN-framework/ten-framework](ai/agents/ten-framework-ten-framework.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[microsoft/agentsleague](ai/agents/microsoft-agentsleague.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[DEEP-PolyU/LinearRAG](ai/rag/deep-polyu-linearrag.md)** • Rank: <kbd>+965</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Park by Robot at London Gatwick Airport](ai/community/park-by-robot-at-london-gatwick-airport.md)** • Score: `79`
-- 🆕 **[The New AI Superpowers: Focus and Followthrough](ai/community/the-new-ai-superpowers-focus-and-followthrough.md)** • Score: `23`
 - 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[LLM Usage in Debian: Three Proposals](ai/community/llm-usage-in-debian-three-proposals.md)**
-- 💤 **[Clinical failure rates over the decades: yikes](ai/community/clinical-failure-rates-over-the-decades-yikes.md)**
-- 💤 **[Rethinking Legal Education in the AI Era](ai/community/rethinking-legal-education-in-the-ai-era.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
