@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-115%2C109-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-63%2C973-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--27-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **115,109 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **63,973 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 14,081</p>
-        <p><b>Active:</b> 13,740 | <b>Inactive:</b> 341</p>
+        <p><b>Resources tracked:</b> 13,116</p>
+        <p><b>Active:</b> 12,775 | <b>Inactive:</b> 341</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 52,241</p>
+        <p><b>Archive Files:</b> 2,048</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 115,109 files</p>
-        <p><b>Last Update:</b> 2026-07-27 01:24 IST</p>
+        <p><b>Total Vault Size:</b> 63,973 files</p>
+        <p><b>Last Update:</b> 2026-07-27 01:44 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,17 +210,19 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[London Gatwick has launched a robotic airport parking service](ai/community/park-by-robot-at-london-gatwick-airport.md)** • <kbd>+142 pts</kbd> • Rank: <kbd>+4</kbd>
 - 🔼 **[GrapheneOS protections against data extraction from locked devices](ai/community/grapheneos-protections-against-data-extraction-fro.md)** • <kbd>+57 pts</kbd>
 - 🔼 **[The New AI Superpowers: Focus and Followthrough](ai/community/the-new-ai-superpowers-focus-and-followthrough.md)** • <kbd>+47 pts</kbd> • Rank: <kbd>+4</kbd>
 - 🔼 **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** • Rank: <kbd>+987</kbd>
 - 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+3</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
+- 🆕 **[London Gatwick has launched a robotic airport parking service](ai/community/park-by-robot-at-london-gatwick-airport.md)** • Score: `221`
 - 🆕 **[Terence Tao: Mathematics in the Age of AI [pdf]](ai/community/terence-tao-mathematics-in-the-age-of-ai-pdf.md)** • Score: `66`
 - 🆕 **[Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter](ai/community/hertz-ai-hartos.md)** • Score: `6`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
