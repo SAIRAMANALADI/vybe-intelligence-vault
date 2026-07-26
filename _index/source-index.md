@@ -10525,9 +10525,9 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [GrapheneOS protections against data extraction from locked devices](../ai/community/grapheneos-protections-against-data-extraction-fro.md)
+  - [It's not empowering to hand off the details](../ai/community/it-s-not-empowering-to-hand-off-the-details.md)
   - [London Gatwick has launched a robotic airport parking service](../ai/community/park-by-robot-at-london-gatwick-airport.md)
-  - [Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter](../ai/community/hertz-ai-hartos.md)
-  - [Terence Tao: Mathematics in the Age of AI [pdf]](../ai/community/terence-tao-mathematics-in-the-age-of-ai-pdf.md)
+  - [Multiway Turing Machines (2021 pre-ai)](../ai/community/multiway-turing-machines-2021-pre-ai.md)
   - [The New AI Superpowers: Focus and Followthrough](../ai/community/the-new-ai-superpowers-focus-and-followthrough.md)
 
 ## Unknown Source (type: huggingface)
@@ -13785,4 +13785,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-27T01:21:57.184190+05:30*
+*Index generated on 2026-07-27T03:59:46.488317+05:30*

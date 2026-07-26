@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://rickmanelius.com/p/the-new-ai-superpowers-focus-and
 hn_url: https://news.ycombinator.com/item?id=49057877
-score: 70
+score: 103
 author: mooreds
-comments_count: 24
+comments_count: 34
 published_at: '2026-07-26T18:43:03+05:30'
-collected_at: '2026-07-27T01:04:54.184347+05:30'
+collected_at: '2026-07-27T03:42:56.172259+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:the-new-ai-superpowers-focus-and-followthrough
 first_seen: '2026-07-26T21:45:33.246317+05:30'
-last_seen: '2026-07-27T01:04:54.184347+05:30'
-last_checked: '2026-07-27T01:04:54.184347+05:30'
+last_seen: '2026-07-27T03:42:56.172259+05:30'
+last_checked: '2026-07-27T03:42:56.172259+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by mooreds. Score: 70, Comments: 24.
+Hacker News story by mooreds. Score: 103, Comments: 34.
 Original Link: https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: mooreds
-- Score: 70 Upvotes
-- Comments: 24 Discussions
+- Score: 103 Upvotes
+- Comments: 34 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49057877
 - Original Article: https://rickmanelius.com/p/the-new-ai-superpowers-focus-and
 

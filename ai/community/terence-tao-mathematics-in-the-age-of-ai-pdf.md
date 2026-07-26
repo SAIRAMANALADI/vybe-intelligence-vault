@@ -13,13 +13,14 @@ collected_at: '2026-07-27T01:04:55.061486+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:terence-tao-mathematics-in-the-age-of-ai-pdf
 first_seen: '2026-07-27T01:04:55.061486+05:30'
 last_seen: '2026-07-27T01:04:55.061486+05:30'
 last_checked: '2026-07-27T01:04:55.061486+05:30'
 health_score: 100
 ---
+
 
 # Terence Tao: Mathematics in the Age of AI [pdf]
 

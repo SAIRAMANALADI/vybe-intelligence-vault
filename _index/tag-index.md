@@ -3131,9 +3131,9 @@ Resources organized by keyword tags.
 ## ai
 
   - [GrapheneOS protections against data extraction from locked devices](../ai/community/grapheneos-protections-against-data-extraction-fro.md)
+  - [It's not empowering to hand off the details](../ai/community/it-s-not-empowering-to-hand-off-the-details.md)
   - [London Gatwick has launched a robotic airport parking service](../ai/community/park-by-robot-at-london-gatwick-airport.md)
-  - [Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter](../ai/community/hertz-ai-hartos.md)
-  - [Terence Tao: Mathematics in the Age of AI [pdf]](../ai/community/terence-tao-mathematics-in-the-age-of-ai-pdf.md)
+  - [Multiway Turing Machines (2021 pre-ai)](../ai/community/multiway-turing-machines-2021-pre-ai.md)
   - [The New AI Superpowers: Focus and Followthrough](../ai/community/the-new-ai-superpowers-focus-and-followthrough.md)
 
 ## animation
@@ -13014,6 +13014,7 @@ Resources organized by keyword tags.
   - [Inverse Reinforcement Learning for Interpretable Keystroke Biomarkers in Parkinson's Disease](../ai/research/arxiv-2606-25270.md)
   - [Investigation of Polycystic Ovary Syndrome (PCOS) Diagnosis Using Machine Learning Approaches](../ai/research/arxiv-2607-16941.md)
   - [Is My Vision-Language Data in Your AI? Membership Inference Test (MINT) Demo 2](../ai/research/arxiv-2606-14748.md)
+  - [It's not empowering to hand off the details](../ai/community/it-s-not-empowering-to-hand-off-the-details.md)
   - [JAMS: Mediation, Arbitration and ADR Services](../ai/resources/jams-mediation-arbitration-and-adr-services.md)
   - [JDK Release Notes](../ai/resources/jdk-release-notes.md)
   - [JSON Web Tokens - jwt.io](../ai/agents/json-web-tokens-jwt-io.md)
@@ -13224,6 +13225,7 @@ Resources organized by keyword tags.
   - [Multi-modal cross-domain mixed fusion model with dual disentanglement for fault diagnosis under unseen working conditions](../ai/research/arxiv-2512-24679.md)
   - [Multimodal Deepfake Detection and Watermarking with Secure Voice AI | Resemble AI](../ai/rag/multimodal-deepfake-detection-and-watermarking-wit.md)
   - [Multimodal Molecular Representation Learning with Graph Neural Networks, Deep & Cross Networks, and SMILES Embeddings](../ai/rag/arxiv-2607-05736.md)
+  - [Multiway Turing Machines (2021 pre-ai)](../ai/community/multiway-turing-machines-2021-pre-ai.md)
   - [Mémo pour Télétravail](../ai/rag/memo-pour-teletravail.md)
   - [NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision - NASA Science](../ai/resources/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic.md)
   - [NEST: Nascent Encoded Steganographic Thoughts](../ai/agents/arxiv-2602-14095.md)
@@ -13631,7 +13633,6 @@ Resources organized by keyword tags.
   - [Seven Security Challenges in Cross-domain Multi-agent LLM Systems](../ai/agents/arxiv-2505-23847.md)
   - [Sexualised synthetic personas encode and amplify gendered power asymmetries through voice](../ai/research/arxiv-2606-21366.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter](../ai/community/hertz-ai-hartos.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Sign in to GitHub · GitHub](../ai/resources/langchain-ai-docs.md)
@@ -13760,7 +13761,6 @@ Resources organized by keyword tags.
   - [TensorFlow](../ai/agents/tensorflow.md)
   - [TensorFlow.js API](../ai/rag/tensorflow-js-api.md)
   - [Tensorblue | LinkedIn](../ai/agents/tensorblue-linkedin.md)
-  - [Terence Tao: Mathematics in the Age of AI [pdf]](../ai/community/terence-tao-mathematics-in-the-age-of-ai-pdf.md)
   - [Terminal Dimension Reduction for Time Series with Applications](../ai/rag/arxiv-2607-09490.md)
   - [Terms & Conditions | Speechify](../ai/rag/terms-conditions-speechify.md)
   - [Terms of Service](../ai/rag/terms-of-service.md)
@@ -14114,6 +14114,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -32147,4 +32148,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-27T01:21:57.039075+05:30*
+*Index generated on 2026-07-27T03:59:46.332675+05:30*

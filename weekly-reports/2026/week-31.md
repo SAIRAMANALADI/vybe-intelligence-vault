@@ -24,13 +24,13 @@ This week had strong activity around frontend tools.
 | ai/models | 782 |
 | web-development/nextjs | 62 |
 | ai/agents | 55 |
-| ai/rag | 29 |
+| ai/rag | 31 |
 | web-development | 25 |
 | ai/companies/anthropic | 10 |
 | ai/companies/mistral | 10 |
 | ai/companies | 10 |
-| ai/community | 5 |
 | ai/companies/deepmind | 5 |
+| ai/community | 5 |
 | ai/companies/openai | 4 |
 
 ## Most Common Tags
@@ -39,27 +39,27 @@ This week had strong activity around frontend tools.
 |---|---:|
 | frontend_ui | 93 |
 | models | 72 |
-| agents | 59 |
+| agents | 60 |
 | dataset | 46 |
 | blog-post | 39 |
+| rag | 31 |
 | leaderboard | 31 |
-| rag | 29 |
 | huggingface | 29 |
-| benchmark | 26 |
+| benchmark | 27 |
 | meta-ai | 21 |
 | youtube | 14 |
 | anthropic | 14 |
 | mistral | 13 |
-| hackernews | 11 |
+| hackernews | 12 |
 | hf-model | 10 |
 
 ## Weekly Community Updates
 
-1. [GrapheneOS protections against data extraction from locked devices](../../ai/community/grapheneos-protections-against-data-extraction-fro.md) ([Source](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)) (HN Score: 316) - `ai/community`
-2. [London Gatwick has launched a robotic airport parking service](../../ai/community/park-by-robot-at-london-gatwick-airport.md) ([Source](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics)) (HN Score: 221) - `ai/community`
-3. [The New AI Superpowers: Focus and Followthrough](../../ai/community/the-new-ai-superpowers-focus-and-followthrough.md) ([Source](https://rickmanelius.com/p/the-new-ai-superpowers-focus-and)) (HN Score: 70) - `ai/community`
-4. [Terence Tao: Mathematics in the Age of AI [pdf]](../../ai/community/terence-tao-mathematics-in-the-age-of-ai-pdf.md) ([Source](https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf)) (HN Score: 66) - `ai/community`
-5. [Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter](../../ai/community/hertz-ai-hartos.md) ([Source](https://github.com/hertz-ai/hartos)) (HN Score: 6) - `ai/community`
+1. [GrapheneOS protections against data extraction from locked devices](../../ai/community/grapheneos-protections-against-data-extraction-fro.md) ([Source](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)) (HN Score: 347) - `ai/community`
+2. [London Gatwick has launched a robotic airport parking service](../../ai/community/park-by-robot-at-london-gatwick-airport.md) ([Source](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics)) (HN Score: 257) - `ai/community`
+3. [It's not empowering to hand off the details](../../ai/community/it-s-not-empowering-to-hand-off-the-details.md) ([Source](https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details)) (HN Score: 115) - `ai/community`
+4. [The New AI Superpowers: Focus and Followthrough](../../ai/community/the-new-ai-superpowers-focus-and-followthrough.md) ([Source](https://rickmanelius.com/p/the-new-ai-superpowers-focus-and)) (HN Score: 103) - `ai/community`
+5. [Multiway Turing Machines (2021 pre-ai)](../../ai/community/multiway-turing-machines-2021-pre-ai.md) ([Source](https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines)) (HN Score: 12) - `ai/community`
 6. [sentence-transformers/all-MiniLM-L6-v2](../../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-minilm-l6-v2)) - `ai/rag`
 7. [google-bert/bert-base-uncased](../../ai/models/huggingface-google-bert-bert-base-uncased.md) ([Source](https://huggingface.co/google-bert/bert-base-uncased)) - `ai/models`
 8. [cross-encoder/ms-marco-MiniLM-L6-v2](../../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md) ([Source](https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2)) - `ai/rag`
@@ -70,25 +70,25 @@ This week had strong activity around frontend tools.
 13. [sentence-transformers/all-mpnet-base-v2](../../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)) - `ai/rag`
 14. [Qwen/Qwen3-0.6B](../../ai/models/huggingface-qwen-qwen3-0-6b.md) ([Source](https://huggingface.co/qwen/qwen3-0.6b)) - `ai/models`
 15. [google-t5/t5-small](../../ai/models/huggingface-google-t5-t5-small.md) ([Source](https://huggingface.co/google-t5/t5-small)) - `ai/models`
-16. [anisoleai/fineweb-tokenized](../../ai/models/huggingface-datasets-anisoleai.md) ([Source](https://huggingface.co/datasets/anisoleai)) - `ai/models`
-17. [codeparrot/github-code](../../ai/models/huggingface-datasets-codeparrot.md) ([Source](https://huggingface.co/datasets/codeparrot)) - `ai/models`
-18. [Benjy/typed_digital_signatures](../../ai/models/huggingface-datasets-benjy.md) ([Source](https://huggingface.co/datasets/benjy)) - `ai/models`
-19. [huggingface/documentation-images](../../ai/models/huggingface-datasets-huggingface.md) ([Source](https://huggingface.co/datasets/huggingface)) - `ai/models`
-20. [hf-doc-build/doc-build-dev](../../ai/models/huggingface-datasets-hf-doc-build.md) ([Source](https://huggingface.co/datasets/hf-doc-build)) - `ai/models`
-21. [KakologArchives/KakologArchives](../../ai/models/huggingface-datasets-kakologarchives.md) ([Source](https://huggingface.co/datasets/kakologarchives)) - `ai/models`
-22. [allenai/c4](../../ai/models/huggingface-datasets-allenai.md) ([Source](https://huggingface.co/datasets/allenai)) - `ai/models`
-23. [ryanmarten/OpenThoughts-1k-sample](../../ai/models/huggingface-datasets-ryanmarten.md) ([Source](https://huggingface.co/datasets/ryanmarten)) - `ai/models`
-24. [k9cli/video-vec2wav2-tokenizer](../../ai/models/huggingface-datasets-k9cli.md) ([Source](https://huggingface.co/datasets/k9cli)) - `ai/models`
-25. [ksolovev/FineNews](../../ai/models/huggingface-datasets-ksolovev.md) ([Source](https://huggingface.co/datasets/ksolovev)) - `ai/models`
-26. [enzostvs/deepsite](../../ai/models/huggingface-spaces-enzostvs.md) ([Source](https://huggingface.co/spaces/enzostvs)) - `ai/models`
-27. [open-llm-leaderboard/open_llm_leaderboard](../../ai/models/huggingface-spaces-open-llm-leaderboard.md) ([Source](https://huggingface.co/spaces/open-llm-leaderboard)) - `ai/models`
-28. [jbilcke-hf/ai-comic-factory](../../ai/models/huggingface-spaces-jbilcke-hf.md) ([Source](https://huggingface.co/spaces/jbilcke-hf)) - `ai/models`
-29. [Kwai-Kolors/Kolors-Virtual-Try-On](../../ai/models/huggingface-spaces-kwai-kolors.md) ([Source](https://huggingface.co/spaces/kwai-kolors)) - `ai/models`
-30. [black-forest-labs/FLUX.1-dev](../../ai/models/huggingface-spaces-black-forest-labs.md) ([Source](https://huggingface.co/spaces/black-forest-labs)) - `ai/models`
-31. [mteb/leaderboard](../../ai/models/huggingface-spaces-mteb.md) ([Source](https://huggingface.co/spaces/mteb)) - `ai/models`
-32. [dalle-mini/dalle-mini](../../ai/models/huggingface-spaces-dalle-mini.md) ([Source](https://huggingface.co/spaces/dalle-mini)) - `ai/models`
-33. [AP123/IllusionDiffusion](../../ai/models/huggingface-spaces-ap123.md) ([Source](https://huggingface.co/spaces/ap123)) - `ai/models`
-34. [Wan-AI/Wan2.2-Animate](../../ai/models/huggingface-spaces-wan-ai.md) ([Source](https://huggingface.co/spaces/wan-ai)) - `ai/models`
+16. [enzostvs/deepsite](../../ai/models/huggingface-spaces-enzostvs.md) ([Source](https://huggingface.co/spaces/enzostvs)) - `ai/models`
+17. [open-llm-leaderboard/open_llm_leaderboard](../../ai/models/huggingface-spaces-open-llm-leaderboard.md) ([Source](https://huggingface.co/spaces/open-llm-leaderboard)) - `ai/models`
+18. [jbilcke-hf/ai-comic-factory](../../ai/models/huggingface-spaces-jbilcke-hf.md) ([Source](https://huggingface.co/spaces/jbilcke-hf)) - `ai/models`
+19. [Kwai-Kolors/Kolors-Virtual-Try-On](../../ai/models/huggingface-spaces-kwai-kolors.md) ([Source](https://huggingface.co/spaces/kwai-kolors)) - `ai/models`
+20. [black-forest-labs/FLUX.1-dev](../../ai/models/huggingface-spaces-black-forest-labs.md) ([Source](https://huggingface.co/spaces/black-forest-labs)) - `ai/models`
+21. [mteb/leaderboard](../../ai/models/huggingface-spaces-mteb.md) ([Source](https://huggingface.co/spaces/mteb)) - `ai/models`
+22. [dalle-mini/dalle-mini](../../ai/models/huggingface-spaces-dalle-mini.md) ([Source](https://huggingface.co/spaces/dalle-mini)) - `ai/models`
+23. [AP123/IllusionDiffusion](../../ai/models/huggingface-spaces-ap123.md) ([Source](https://huggingface.co/spaces/ap123)) - `ai/models`
+24. [Wan-AI/Wan2.2-Animate](../../ai/models/huggingface-spaces-wan-ai.md) ([Source](https://huggingface.co/spaces/wan-ai)) - `ai/models`
+25. [anisoleai/fineweb-tokenized](../../ai/models/huggingface-datasets-anisoleai.md) ([Source](https://huggingface.co/datasets/anisoleai)) - `ai/models`
+26. [codeparrot/github-code](../../ai/models/huggingface-datasets-codeparrot.md) ([Source](https://huggingface.co/datasets/codeparrot)) - `ai/models`
+27. [Benjy/typed_digital_signatures](../../ai/models/huggingface-datasets-benjy.md) ([Source](https://huggingface.co/datasets/benjy)) - `ai/models`
+28. [huggingface/documentation-images](../../ai/models/huggingface-datasets-huggingface.md) ([Source](https://huggingface.co/datasets/huggingface)) - `ai/models`
+29. [hf-doc-build/doc-build-dev](../../ai/models/huggingface-datasets-hf-doc-build.md) ([Source](https://huggingface.co/datasets/hf-doc-build)) - `ai/models`
+30. [KakologArchives/KakologArchives](../../ai/models/huggingface-datasets-kakologarchives.md) ([Source](https://huggingface.co/datasets/kakologarchives)) - `ai/models`
+31. [allenai/c4](../../ai/models/huggingface-datasets-allenai.md) ([Source](https://huggingface.co/datasets/allenai)) - `ai/models`
+32. [ryanmarten/OpenThoughts-1k-sample](../../ai/models/huggingface-datasets-ryanmarten.md) ([Source](https://huggingface.co/datasets/ryanmarten)) - `ai/models`
+33. [k9cli/video-vec2wav2-tokenizer](../../ai/models/huggingface-datasets-k9cli.md) ([Source](https://huggingface.co/datasets/k9cli)) - `ai/models`
+34. [ksolovev/FineNews](../../ai/models/huggingface-datasets-ksolovev.md) ([Source](https://huggingface.co/datasets/ksolovev)) - `ai/models`
 35. [July 2026 Security Release](../../web-development/nextjs/july-2026-security-release.md) ([Source](https://nextjs.org/blog/july-2026-security-release)) - `web-development/nextjs`
 36. [Next.js Security Release and Our Next Patch Release](../../web-development/nextjs/next-js-security-release-and-our-next-patch-releas.md) ([Source](https://nextjs.org/blog/next-security-release-program)) - `web-development/nextjs`
 37. [Turbopack: What's New in Next.js 16.3](../../web-development/nextjs/turbopack-what-s-new-in-next-js-16-3.md) ([Source](https://nextjs.org/blog/next-16-3-turbopack)) - `web-development/nextjs`
@@ -1063,19 +1063,21 @@ No updates collected under this section this week.
 
 ## Weekly Product Launches
 
-1. [raganwald/raganwald.github.com](../../ai/rag/raganwald-raganwald-github-com.md) ([Source](https://github.com/raganwald/raganwald.github.com)) (Stars: 0, Language: Unknown) - `ai/rag`
-2. [malonge/RaGOO](../../ai/rag/malonge-ragoo.md) ([Source](https://github.com/malonge/ragoo)) (Stars: 0, Language: Unknown) - `ai/rag`
-3. [datawhalechina/all-in-rag](../../ai/rag/datawhalechina-all-in-rag.md) ([Source](https://github.com/datawhalechina/all-in-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+1. [malonge/RaGOO](../../ai/rag/malonge-ragoo.md) ([Source](https://github.com/malonge/ragoo)) (Stars: 0, Language: Unknown) - `ai/rag`
+2. [raganwald/raganwald.github.com](../../ai/rag/raganwald-raganwald-github-com.md) ([Source](https://github.com/raganwald/raganwald.github.com)) (Stars: 0, Language: Unknown) - `ai/rag`
+3. [vercel-labs/workflow-builder-template](../../ai/rag/vercel-labs-workflow-builder-template.md) ([Source](https://github.com/vercel-labs/workflow-builder-template)) (Stars: 0, Language: Unknown) - `ai/rag`
+4. [datawhalechina/all-in-rag](../../ai/rag/datawhalechina-all-in-rag.md) ([Source](https://github.com/datawhalechina/all-in-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+5. [ParticleMedia/RAGTruth](../../ai/rag/particlemedia-ragtruth.md) ([Source](https://github.com/particlemedia/ragtruth)) (Stars: 0, Language: Unknown) - `ai/rag`
 
 ## Most Updated Skills
 
 - [AI Agents](../../skills/ai-agents.md) (55 updates)
-- [RAG](../../skills/rag.md) (30 updates)
-- [Vector Databases](../../skills/vector-databases.md) (29 updates)
+- [RAG](../../skills/rag.md) (32 updates)
+- [Vector Databases](../../skills/vector-databases.md) (31 updates)
 - [LLMOps](../../skills/llmops.md) (19 updates)
 - [Local LLMs & Inference](../../skills/local-llm.md) (17 updates)
-- [AI Coding Agents](../../skills/ai-coding-agents.md) (14 updates)
-- [Workflow Automation](../../skills/automation.md) (13 updates)
+- [AI Coding Agents](../../skills/ai-coding-agents.md) (16 updates)
+- [Workflow Automation](../../skills/automation.md) (15 updates)
 - [FastAPI](../../skills/fastapi.md) (7 updates)
 - [Model Context Protocol (MCP)](../../skills/mcp.md) (5 updates)
 - [Prompt Engineering](../../skills/prompt-engineering.md) (3 updates)
@@ -1087,4 +1089,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-07-27T01:21:36.094079+05:30
+2026-07-27T03:59:27.805453+05:30
