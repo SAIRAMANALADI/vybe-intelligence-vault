@@ -3130,7 +3130,6 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?](../ai/community/agatha-christie-s-disappearance-amnesia-suicide-or.md)
   - [Clinical failure rates over the decades: yikes](../ai/community/clinical-failure-rates-over-the-decades-yikes.md)
   - [Cloudflare's new AI traffic options for customers](../ai/community/cloudflare-s-new-ai-traffic-options-for-customers.md)
   - [DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](../ai/community/demo-zexuan-liang-wenfeng-investor-meeting-2026-7-22.md)
@@ -12195,7 +12194,6 @@ Resources organized by keyword tags.
   - [Advanced Topic Modeling Techniques for Categorizing Software Vulnerabilities](../ai/rag/arxiv-2607-03887.md)
   - [Advancing AI safely and responsibly â Google AI](../ai/rag/advancing-ai-safely-and-responsibly-a-google-ai.md)
   - [Adversarial LassoNet: Robust Feature Selection via Stability-Driven Sparse Learning](../ai/research/arxiv-2607-03839.md)
-  - [Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?](../ai/community/agatha-christie-s-disappearance-amnesia-suicide-or.md)
   - [Age appropriate design | ICO](../ai/resources/age-appropriate-design-ico.md)
   - [Agent trajectories as programs: fingerprinting and programming coding-agent behavior](../ai/agents/arxiv-2606-16988.md)
   - [Agent-Based Modeling of Low-Emission Fertilizer Adoption for Dairy Farm Decarbonisation using Empirical Farm Data](../ai/agents/arxiv-2605-03648.md)
@@ -30058,7 +30056,6 @@ Resources organized by keyword tags.
   - [InvDesMobility: a reliability-gated first-principles feedback framework for closed-loop materials discovery](../ai/agents/arxiv-2606-16133.md)
   - [Is "Knowing It's Malicious Enough?" Evaluating LLMs for Fine-Grained Malware Behavior Auditing](../ai/agents/arxiv-2509-14335.md)
   - [Is Agentic Code Review Helpful? Mining Developers' Feedback to CodeRabbit Reviews in the Wild](../ai/agents/arxiv-2607-03316.md)
-  - [JCodesMore/ai-website-cloner-template](../ai/agents/jcodesmore-ai-website-cloner-template.md)
   - [JEEVHITAA -- An HCAI Ecosystem to Support Collective Care](../ai/rag/arxiv-2512-06364.md)
   - [Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking](../ai/rag/arxiv-2602-24009.md)
   - [Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE](../ai/rag/arxiv-2607-07740.md)
@@ -32163,4 +32160,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-26T14:26:52.994342+05:30*
+*Index generated on 2026-07-26T16:42:06.293874+05:30*

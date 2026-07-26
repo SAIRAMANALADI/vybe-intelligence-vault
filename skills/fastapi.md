@@ -20,11 +20,11 @@ It provides rapid API development speed, automatic OpenAPI documentation, asynch
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 236 resources matched in the intelligence vault.
 Recently detected signals:
-- [bakrianoo/mini-rag](../ai/rag/bakrianoo-mini-rag.md) (Source: Unknown Source) - Collected 2026-07-26
 - [Quanto: a PyTorch quantization backend for Optimum](../ai/models/huggingface-blog-quanto-introduction.md) (Source: Unknown Source) - Collected 2026-07-26
 - [Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference](../ai/models/huggingface-blog-tgi-multi-backend.md) (Source: Unknown Source) - Collected 2026-07-26
 - [Exploring Quantization Backends in Diffusers](../ai/models/huggingface-blog-diffusers-quantization.md) (Source: Unknown Source) - Collected 2026-07-26
 - [Transformers backend integration in SGLang](../ai/models/huggingface-blog-transformers-backend-sglang.md) (Source: Unknown Source) - Collected 2026-07-26
+- [Any Custom Frontend with Gradio's Backend](../ai/models/huggingface-blog-introducing-gradio-server.md) (Source: Unknown Source) - Collected 2026-07-26
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -165,15 +165,15 @@ Recently detected signals:
 - Language: Unknown
 - Description: The Complete AI Development Toolkit for Claude Code — 103 skills, 36 agents, 172 hooks. Production-ready patterns for full-stack development.
 
-### 28. [electron/electron](../ai/rag/electron-electron.md) ([GitHub](https://github.com/electron/electron))
-- Stars: 0
-- Language: Unknown
-- Description: - **Cross-platform desktop app framework** leveraging Chromium for rendering, Node.js for backend integration, and V8 for JavaScript execution, enabling native-like applications using HTML/CSS/JS.
-
-### 29. [bakrianoo/mini-rag](../ai/rag/bakrianoo-mini-rag.md) ([GitHub](https://github.com/bakrianoo/mini-rag))
+### 28. [bakrianoo/mini-rag](../ai/rag/bakrianoo-mini-rag.md) ([GitHub](https://github.com/bakrianoo/mini-rag))
 - Stars: 0
 - Language: Unknown
 - Description: *   Educational project demonstrating production-ready RAG application development.
+
+### 29. [electron/electron](../ai/rag/electron-electron.md) ([GitHub](https://github.com/electron/electron))
+- Stars: 0
+- Language: Unknown
+- Description: - **Cross-platform desktop app framework** leveraging Chromium for rendering, Node.js for backend integration, and V8 for JavaScript execution, enabling native-like applications using HTML/CSS/JS.
 
 ### 30. [onyx-dot-app/onyx](../ai/rag/onyx-dot-app-onyx.md) ([GitHub](https://github.com/onyx-dot-app/onyx))
 - Stars: 0
@@ -295,4 +295,4 @@ Useful for roles such as: Full Stack Engineer, General Software Developer.
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-26T14:25:58.235136+05:30.627298+05:30.871174+05:30.223926+05:30.006587+05:30.867644+05:30.599041+05:30.060511+05:30.218202+05:30.803846+05:30.892109+05:30.469655+05:30.598769+05:30.259238+05:30.415849+05:30.909972+05:30.547397+05:30.488526+05:30.318173+05:30.550517+05:30.100484+05:30.307721+05:30.023619+05:30.023798+05:30.057841+05:30.646784+05:30.624068+05:30.799577+05:30.664978+05:30.078478+05:30.420977+05:30.547698+05:30.531429+05:30.108240+05:30.255424+05:30.201316+05:30.614950+05:30.362155+05:30.601824+05:30.915572+05:30.316791+05:30.818733+05:30.260429+05:30.012496+05:30.407442+05:30.909714+05:30.722908+05:30.700951+05:30.640274+05:30.816789+05:30.678741+05:30.439495+05:30.536126+05:30.054340+05:30.961322+05:30.162935+05:30.316905+05:30.746906+05:30.604273+05:30.011835+05:30.187457+05:30.153218+05:30.049858+05:30.161651+05:30.974568+05:30.638178+05:30.745367+05:30.412597+05:30.537921+05:30.886696+05:30.234825+05:30.231199+05:30.586852+05:30.528114+05:30.056055+05:30.971532+05:30.116346+05:30.593635+05:30.613397+05:30.665609+05:30.987729+05:30.505777+05:30.824934+05:30.632015+05:30.978685+05:30.193594+05:30.968527+05:30.145967+05:30.636606+05:30.745557+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-26T16:41:01.656776+05:30.235136+05:30.627298+05:30.871174+05:30.223926+05:30.006587+05:30.867644+05:30.599041+05:30.060511+05:30.218202+05:30.803846+05:30.892109+05:30.469655+05:30.598769+05:30.259238+05:30.415849+05:30.909972+05:30.547397+05:30.488526+05:30.318173+05:30.550517+05:30.100484+05:30.307721+05:30.023619+05:30.023798+05:30.057841+05:30.646784+05:30.624068+05:30.799577+05:30.664978+05:30.078478+05:30.420977+05:30.547698+05:30.531429+05:30.108240+05:30.255424+05:30.201316+05:30.614950+05:30.362155+05:30.601824+05:30.915572+05:30.316791+05:30.818733+05:30.260429+05:30.012496+05:30.407442+05:30.909714+05:30.722908+05:30.700951+05:30.640274+05:30.816789+05:30.678741+05:30.439495+05:30.536126+05:30.054340+05:30.961322+05:30.162935+05:30.316905+05:30.746906+05:30.604273+05:30.011835+05:30.187457+05:30.153218+05:30.049858+05:30.161651+05:30.974568+05:30.638178+05:30.745367+05:30.412597+05:30.537921+05:30.886696+05:30.234825+05:30.231199+05:30.586852+05:30.528114+05:30.056055+05:30.971532+05:30.116346+05:30.593635+05:30.613397+05:30.665609+05:30.987729+05:30.505777+05:30.824934+05:30.632015+05:30.978685+05:30.193594+05:30.968527+05:30.145967+05:30.636606+05:30.745557+05:30.

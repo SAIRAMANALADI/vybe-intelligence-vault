@@ -16851,11 +16851,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `dataset`, `hackernews`, `producthunt`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.databricks.com/blog/accelerate-ai-development-databricks-discover-govern-and-build-mcp-and-agent-bricks>
 
-* **[Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?](ai/community/agatha-christie-s-disappearance-amnesia-suicide-or.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by thunderbong. Score: 21, Comments: 9. Original Link: https://www.historicmysteries.com/unexplained-mysteries/agatha-christie-disappearance/23136/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://historicmysteries.com/unexplained-mysteries/agatha-christie-disappearance/23136>
-
 * **[Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting](ai/rag/arxiv-2607-07858.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.07858v1 Announce Type: cross Abstract: Artificial intelligence (AI) is beginning to reshape actuarial practice, particularly in domains that require reasoning over unstructured documents, heterogeneous data sources, and regulated decision
   * Tags: `agents`, `benchmark`, `paper`, `rag`, `scripts`, `workflows`
@@ -17342,7 +17337,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <http://docs.pinecone.io/integrations/claude-code>
 
 * **[Clinical failure rates over the decades: yikes](ai/community/clinical-failure-rates-over-the-decades-yikes.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by EA-3167. Score: 99, Comments: 72. Original Link: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes
+  * Summary: Hacker News story by EA-3167. Score: 106, Comments: 85. Original Link: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes
   * Tags: `ai`, `hackernews`
   * Source URL: <https://science.org/content/blog-post/clinical-failure-rates-over-decades-yikes>
 
@@ -17372,7 +17367,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.cloudflarestatus.com>
 
 * **[Cloudflare's new AI traffic options for customers](ai/community/cloudflare-s-new-ai-traffic-options-for-customers.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by alphabetatango. Score: 111, Comments: 75. Original Link: https://blog.cloudflare.com/content-independence-day-ai-options/
+  * Summary: Hacker News story by alphabetatango. Score: 128, Comments: 102. Original Link: https://blog.cloudflare.com/content-independence-day-ai-options/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://blog.cloudflare.com/content-independence-day-ai-options>
 
@@ -17567,7 +17562,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://docs.langchain.com/oss/python/deepagents>
 
 * **[DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](ai/community/demo-zexuan-liang-wenfeng-investor-meeting-2026-7-22.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by oliculipolicula. Score: 137, Comments: 96. Original Link: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%9
+  * Summary: Hacker News story by oliculipolicula. Score: 161, Comments: 111. Original Link: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%
   * Tags: `ai`, `hackernews`, `reddit`
   * Source URL: <https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22>
 
@@ -18142,7 +18137,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2604.20822>
 
 * **[GM Backs Sodium Ion Batteries for U.S. Grid Storage](ai/community/gm-backs-sodium-ion-batteries-for-u-s-grid-storage.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by rbanffy. Score: 173, Comments: 73. Original Link: https://spectrum.ieee.org/sodium-ion-battery-peak-energy
+  * Summary: Hacker News story by rbanffy. Score: 180, Comments: 79. Original Link: https://spectrum.ieee.org/sodium-ion-battery-peak-energy
   * Tags: `hackernews`, `rag`
   * Source URL: <https://spectrum.ieee.org/sodium-ion-battery-peak-energy>
 
@@ -18212,7 +18207,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.19362>
 
 * **[GrapheneOS protections against data extraction from locked devices](ai/community/grapheneos-protections-against-data-extraction-fro.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Cider9986. Score: 20, Comments: 3. Original Link: https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices
+  * Summary: Hacker News story by Cider9986. Score: 92, Comments: 44. Original Link: https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices
   * Tags: `ai`, `hackernews`
   * Source URL: <https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices>
 
@@ -18717,7 +18712,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://lilianweng.github.io/posts/2023-06-23-agent/#case-studies>
 
 * **[LLM Usage in Debian: Three Proposals](ai/community/llm-usage-in-debian-three-proposals.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by zdw. Score: 143, Comments: 122. Original Link: https://www.debian.org/vote/2026/vote_002
+  * Summary: Hacker News story by zdw. Score: 165, Comments: 147. Original Link: https://www.debian.org/vote/2026/vote_002
   * Tags: `hackernews`, `llm`
   * Source URL: <https://debian.org/vote/2026/vote_002>
 
@@ -19387,7 +19382,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://research.google/resources/#open-source-3>
 
 * **[Rethinking Legal Education in the AI Era](ai/community/rethinking-legal-education-in-the-ai-era.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by jjwiseman. Score: 71, Comments: 31. Original Link: https://www.law.uchicago.edu/news/ai-strategy-statement
+  * Summary: Hacker News story by jjwiseman. Score: 78, Comments: 45. Original Link: https://www.law.uchicago.edu/news/ai-strategy-statement
   * Tags: `ai`, `hackernews`
   * Source URL: <https://law.uchicago.edu/news/ai-strategy-statement>
 
@@ -19457,7 +19452,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/run-llama/LlamaIndexTS>
 
 * **[Running a 28.9M parameter LLM on an $8 microcontroller](ai/community/slvdev-esp32-ai.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by boveyking. Score: 174, Comments: 37. Original Link: https://github.com/slvDev/esp32-ai
+  * Summary: Hacker News story by boveyking. Score: 198, Comments: 47. Original Link: https://github.com/slvDev/esp32-ai
   * Tags: `hackernews`, `llm`
   * Source URL: <https://github.com/slvdev/esp32-ai>
 
@@ -19552,7 +19547,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://shibuya.lepture.com>
 
 * **[Show HN: Brolly, a plain-text weather forecast site](ai/community/show-hn-brolly-a-plain-text-weather-forecast-site.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by jsax. Score: 183, Comments: 57. Original Link: https://brolly.sh/forecast/RWFP2qW8
+  * Summary: Hacker News story by jsax. Score: 197, Comments: 70. Original Link: https://brolly.sh/forecast/RWFP2qW8
   * Tags: `ai`, `hackernews`
   * Source URL: <https://brolly.sh/forecast/rwfp2qw8>
 
@@ -20111,7 +20106,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.docker.com/resources/what-container>
 
 * **[What is happening to jobs? Separating AI hype from reality](ai/community/what-is-happening-to-jobs-separating-ai-hype-from.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by pod_krad. Score: 83, Comments: 86. Original Link: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality
+  * Summary: Hacker News story by pod_krad. Score: 101, Comments: 117. Original Link: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality
   * Tags: `ai`, `hackernews`
   * Source URL: <https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality>
 
@@ -71705,7 +71700,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.14613>
 
 * **[anisoleai/fineweb-tokenized](ai/models/huggingface-datasets-anisoleai.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: anisoleai/fineweb-tokenized (Likes: 21, Downloads: 8547903)
+  * Summary: Trending Hugging Face dataset: anisoleai/fineweb-tokenized (Likes: 21, Downloads: 8542380)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/anisoleai>
 
@@ -74437,7 +74432,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/codegemma>
 
 * **[codeparrot/github-code](ai/models/huggingface-datasets-codeparrot.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: codeparrot/github-code (Likes: 411, Downloads: 5601917)
+  * Summary: Trending Hugging Face dataset: codeparrot/github-code (Likes: 412, Downloads: 5601917)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/codeparrot>
 
@@ -75733,7 +75728,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2501.19401>
 
 * **[dalle-mini/dalle-mini](ai/models/huggingface-spaces-dalle-mini.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: dalle-mini/dalle-mini (Likes: 5708, Downloads: 0)
+  * Summary: Trending Hugging Face space: dalle-mini/dalle-mini (Likes: 5709, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/dalle-mini>
 
@@ -83910,7 +83905,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02680>
 
 * **[k9cli/video-vec2wav2-tokenizer](ai/models/huggingface-datasets-k9cli.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: k9cli/video-vec2wav2-tokenizer (Likes: 13, Downloads: 1484050)
+  * Summary: Trending Hugging Face dataset: k9cli/video-vec2wav2-tokenizer (Likes: 13, Downloads: 1523633)
   * Tags: `dataset`, `hf-dataset`, `huggingface`, `youtube`
   * Source URL: <https://huggingface.co/datasets/k9cli>
 
@@ -84110,7 +84105,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/KruxAI/ragbuilder>
 
 * **[ksolovev/FineNews](ai/models/huggingface-datasets-ksolovev.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: ksolovev/FineNews (Likes: 26, Downloads: 1597125)
+  * Summary: Trending Hugging Face dataset: ksolovev/FineNews (Likes: 26, Downloads: 1484076)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/ksolovev>
 
@@ -86862,7 +86857,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2511.12810>
 
 * **[mteb/leaderboard](ai/models/huggingface-spaces-mteb.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7589, Downloads: 0)
+  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7590, Downloads: 0)
   * Tags: `hf-space`, `huggingface`, `leaderboard`
   * Source URL: <https://huggingface.co/spaces/mteb>
 
@@ -92320,7 +92315,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.24894>
 
 * **[ryanmarten/OpenThoughts-1k-sample](ai/models/huggingface-datasets-ryanmarten.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: ryanmarten/OpenThoughts-1k-sample (Likes: 43, Downloads: 1567905)
+  * Summary: Trending Hugging Face dataset: ryanmarten/OpenThoughts-1k-sample (Likes: 43, Downloads: 1568202)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/ryanmarten>
 
@@ -99779,8 +99774,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://nextjs.org/blog/create-next-app>
 
 * **[JCodesMore/ai-website-cloner-template](ai/agents/jcodesmore-ai-website-cloner-template.md)** (`template` | `useful` tier)
-  * Summary: - **AI-Powered Website Cloning**: Utilizes AI coding agents (e.g., Claude Code) to automate website cloning via a single command, eliminating manual reverse-engineering steps. - **Tech Stack**: Built with Next.js, React, TypeScript, TailwindCSS, and
-  * Tags: `agents`, `anthropic`, `frontend_ui`, `github-repo`, `scripts`, `typescript`, `workflows`
+  * Summary: * Automates website cloning via AI coding agents (e.g., Claude) to reverse-engineer and generate functional codebases from target URLs. * Utilizes a modern web development stack boilerplate including TypeScript, Next.js, React, Tailwind CSS, and Shad
+  * Tags: `agents`, `anthropic`, `frontend_ui`, `github-repo`, `scripts`, `typescript`
   * Source URL: <https://github.com/JCodesMore/ai-website-cloner-template>
 
 * **[jln13x/ui.jln.dev](web-development/shadcn-ui/jln13x-ui-jln-dev.md)** (`template` | `useful` tier)
@@ -104022,7 +104017,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/GenAIOps-project-template>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3265, Downloads: 35352623)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3266, Downloads: 35352623)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
@@ -105457,7 +105452,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2512.01317>
 
 * **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
-  * Summary: * Comprehensive full-stack guide to Retrieval-Augmented Generation (RAG) for large model application development. * Leverages prominent RAG frameworks (LangChain, LlamaIndex) with vector databases (Milvus) and graph databases (Neo4j) for retrieval. *
+  * Summary: * Comprehensive RAG guide detailing LLM application development, leveraging frameworks like LangChain and LlamaIndex for orchestration. * Explores advanced RAG architectures incorporating vector databases (Milvus) and graph databases (Neo4j) for enha
   * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -105467,7 +105462,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
 * **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tutorial` | `useful` tier)
-  * Summary: * Provides practical tutorials for large language model (LLM) application development.
+  * Summary: * LLM application development tutorial leveraging LangChain and RAG architectures. * Practical
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -111497,7 +111492,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://superml.org/tutorials/rag-beginner>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll source repository for `raganwald.com`, leveraging static site generation
+  * Summary: * Jekyll-based static site source for `raganwald.com`. * Primarily HTML codebase, indicating front-end content generation. * Exhibits 60 forks and 30 stars, with a last update timestamp of `2026-07-08T15:07:5
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 

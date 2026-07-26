@@ -13,13 +13,14 @@ collected_at: '2026-07-26T14:10:02.334731+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:agatha-christie-s-disappearance-amnesia-suicide-or
 first_seen: '2026-07-26T14:10:02.334731+05:30'
 last_seen: '2026-07-26T14:10:02.334731+05:30'
 last_checked: '2026-07-26T14:10:02.334731+05:30'
 health_score: 100
 ---
+
 
 # Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?
 

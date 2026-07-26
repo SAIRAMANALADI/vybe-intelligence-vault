@@ -10524,7 +10524,6 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?](../ai/community/agatha-christie-s-disappearance-amnesia-suicide-or.md)
   - [Clinical failure rates over the decades: yikes](../ai/community/clinical-failure-rates-over-the-decades-yikes.md)
   - [Cloudflare's new AI traffic options for customers](../ai/community/cloudflare-s-new-ai-traffic-options-for-customers.md)
   - [DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](../ai/community/demo-zexuan-liang-wenfeng-investor-meeting-2026-7-22.md)
@@ -13791,4 +13790,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-26T14:26:53.143270+05:30*
+*Index generated on 2026-07-26T16:42:06.445939+05:30*

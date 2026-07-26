@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices
 hn_url: https://news.ycombinator.com/item?id=49055169
-score: 20
+score: 92
 author: Cider9986
-comments_count: 3
+comments_count: 44
 published_at: '2026-07-26T11:27:22+05:30'
-collected_at: '2026-07-26T14:10:00.370351+05:30'
+collected_at: '2026-07-26T16:24:55.538934+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:grapheneos-protections-against-data-extraction-fro
 first_seen: '2026-07-26T14:10:00.370351+05:30'
-last_seen: '2026-07-26T14:10:00.370351+05:30'
-last_checked: '2026-07-26T14:10:00.370351+05:30'
+last_seen: '2026-07-26T16:24:55.538934+05:30'
+last_checked: '2026-07-26T16:24:55.538934+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by Cider9986. Score: 20, Comments: 3.
+Hacker News story by Cider9986. Score: 92, Comments: 44.
 Original Link: https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: Cider9986
-- Score: 20 Upvotes
-- Comments: 3 Discussions
+- Score: 92 Upvotes
+- Comments: 44 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49055169
 - Original Article: https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices
 
