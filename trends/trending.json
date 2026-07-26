@@ -1,68 +1,29 @@
 {
-  "generated_at": "2026-07-27T01:44:15.015543+05:30",
+  "generated_at": "2026-07-27T03:34:51.996232+05:30",
   "trending_resources": [
     {
-      "id": "hackernews:grapheneos-protections-against-data-extraction-fro",
-      "title": "GrapheneOS protections against data extraction from locked devices",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-      "file_path": "ai/community/grapheneos-protections-against-data-extraction-fro.md",
-      "score": 316,
-      "score_change": 57,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:the-new-ai-superpowers-focus-and-followthrough",
-      "title": "The New AI Superpowers: Focus and Followthrough",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-      "file_path": "ai/community/the-new-ai-superpowers-focus-and-followthrough.md",
-      "score": 70,
-      "score_change": 47,
-      "rank_change": 4,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:malonge/ragoo",
-      "title": "malonge/RaGOO",
+      "id": "github:datawhalechina/llm-universe",
+      "title": "datawhalechina/llm-universe",
       "category": "ai/rag",
       "source_type": "github",
-      "url": "https://github.com/malonge/ragoo",
-      "file_path": "ai/rag/malonge-ragoo.md",
+      "url": "https://github.com/datawhalechina/llm-universe",
+      "file_path": "ai/rag/datawhalechina-llm-universe.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 987,
+      "rank_change": 965,
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "github:raganwald/raganwald.github.com",
-      "title": "raganwald/raganwald.github.com",
+      "id": "github:sylphai-inc/githubchat",
+      "title": "SylphAI-Inc/GithubChat",
       "category": "ai/rag",
       "source_type": "github",
-      "url": "https://github.com/raganwald/raganwald.github.com",
-      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
+      "url": "https://github.com/sylphai-inc/githubchat",
+      "file_path": "ai/rag/sylphai-inc-githubchat.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 3,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:datawhalechina/all-in-rag",
-      "title": "datawhalechina/all-in-rag",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/all-in-rag",
-      "file_path": "ai/rag/datawhalechina-all-in-rag.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 3,
+      "rank_change": 965,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -75,7 +36,7 @@
       "file_path": "ai/agents/jcodesmore-ai-website-cloner-template.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 966,
+      "rank_change": 965,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -88,7 +49,7 @@
       "file_path": "ai/rag/wenyuchiou-awesome-agentic-ai-zh.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 966,
+      "rank_change": 965,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -101,7 +62,7 @@
       "file_path": "ai/agents/ten-framework-ten-framework.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 966,
+      "rank_change": 965,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -114,7 +75,7 @@
       "file_path": "ai/agents/microsoft-agentsleague.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 966,
+      "rank_change": 965,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -127,7 +88,46 @@
       "file_path": "ai/rag/deep-polyu-linearrag.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 966,
+      "rank_change": 965,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:bakrianoo/mini-rag",
+      "title": "bakrianoo/mini-rag",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/bakrianoo/mini-rag",
+      "file_path": "ai/rag/bakrianoo-mini-rag.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 965,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:zhengxujosh/awesome-rag-vision",
+      "title": "zhengxuJosh/Awesome-RAG-Vision",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/zhengxujosh/awesome-rag-vision",
+      "file_path": "ai/rag/zhengxujosh-awesome-rag-vision.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 965,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:azure-samples/chat-with-your-data-solution-accelerator",
+      "title": "Azure-Samples/chat-with-your-data-solution-accelerator",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/azure-samples/chat-with-your-data-solution-accelerator",
+      "file_path": "ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 965,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -142,7 +142,7 @@
       "file_path": "ai/rag/medium-2.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 12875,
+      "rank_change": 12873,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -155,20 +155,7 @@
       "file_path": "ai/rag/infiniflow-ragflow-2.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 12786,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:malonge/ragoo",
-      "title": "malonge/RaGOO",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/malonge/ragoo",
-      "file_path": "ai/rag/malonge-ragoo.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 987,
+      "rank_change": 12784,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -181,7 +168,7 @@
       "file_path": "ai/rag/coree-awesome-rag.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 968,
+      "rank_change": 966,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -194,7 +181,7 @@
       "file_path": "ai/rag/vndee-local-assistant-examples.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 968,
+      "rank_change": 966,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -207,7 +194,7 @@
       "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 968,
+      "rank_change": 966,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -220,7 +207,7 @@
       "file_path": "ai/research/arxiv-2606-27396.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 968,
+      "rank_change": 966,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -233,7 +220,7 @@
       "file_path": "ai/rag/arxiv-2605-31119.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 968,
+      "rank_change": 966,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,7 +233,7 @@
       "file_path": "ai/research/arxiv-2605-30116.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 968,
+      "rank_change": 966,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -259,7 +246,20 @@
       "file_path": "ai/research/arxiv-2605-28613.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 968,
+      "rank_change": 966,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2605.22097",
+      "title": "Q-PhotoNAS: Hybrid Quantum Neural Architecture Search Framework on Photonic Devices",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2605.22097",
+      "file_path": "ai/research/arxiv-2605-22097.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 966,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -279,32 +279,6 @@
       "tier": "tier-3"
     },
     {
-      "id": "hackernews:terence-tao-mathematics-in-the-age-of-ai-pdf",
-      "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
-      "file_path": "ai/community/terence-tao-mathematics-in-the-age-of-ai-pdf.md",
-      "score": 66,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:hertz-ai/hartos",
-      "title": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://github.com/hertz-ai/hartos",
-      "file_path": "ai/community/hertz-ai-hartos.md",
-      "score": 6,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
       "id": "blog:langchain-ai-langgraph",
       "title": "langchain-ai/langgraph",
       "category": "Agent Framework",
@@ -318,40 +292,7 @@
       "tier": "tier-3"
     }
   ],
-  "recently_inactive_resources": [
-    {
-      "id": "github:slvdev/esp32-ai",
-      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://github.com/slvdev/esp32-ai",
-      "file_path": "ai/community/slvdev-esp32-ai.md"
-    },
-    {
-      "id": "github:demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22",
-      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22",
-      "file_path": "ai/community/demo-zexuan-liang-wenfeng-investor-meeting-2026-7-22.md"
-    },
-    {
-      "id": "hackernews:what-is-happening-to-jobs-separating-ai-hype-from",
-      "title": "What is happening to jobs? Separating AI hype from reality",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-      "file_path": "ai/community/what-is-happening-to-jobs-separating-ai-hype-from.md"
-    },
-    {
-      "id": "hackernews:cloudflare-s-new-ai-traffic-options-for-customers",
-      "title": "Cloudflare's new AI traffic options for customers",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
-      "file_path": "ai/community/cloudflare-s-new-ai-traffic-options-for-customers.md"
-    }
-  ],
+  "recently_inactive_resources": [],
   "entered_essential": [],
   "left_essential": []
 }

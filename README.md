@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 63,973 files</p>
-        <p><b>Last Update:</b> 2026-07-27 01:44 IST</p>
+        <p><b>Last Update:</b> 2026-07-27 03:34 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,27 +210,22 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[GrapheneOS protections against data extraction from locked devices](ai/community/grapheneos-protections-against-data-extraction-fro.md)** • <kbd>+57 pts</kbd>
-- 🔼 **[The New AI Superpowers: Focus and Followthrough](ai/community/the-new-ai-superpowers-focus-and-followthrough.md)** • <kbd>+47 pts</kbd> • Rank: <kbd>+4</kbd>
-- 🔼 **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** • Rank: <kbd>+987</kbd>
-- 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[JCodesMore/ai-website-cloner-template](ai/agents/jcodesmore-ai-website-cloner-template.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[WenyuChiou/awesome-agentic-ai-zh](ai/rag/wenyuchiou-awesome-agentic-ai-zh.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[TEN-framework/ten-framework](ai/agents/ten-framework-ten-framework.md)** • Rank: <kbd>+965</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
 - 🆕 **[London Gatwick has launched a robotic airport parking service](ai/community/park-by-robot-at-london-gatwick-airport.md)** • Score: `221`
-- 🆕 **[Terence Tao: Mathematics in the Age of AI [pdf]](ai/community/terence-tao-mathematics-in-the-age-of-ai-pdf.md)** • Score: `66`
-- 🆕 **[Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter](ai/community/hertz-ai-hartos.md)** • Score: `6`
 - 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Running a 28.9M parameter LLM on an $8 microcontroller](ai/community/slvdev-esp32-ai.md)**
-- 💤 **[DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](ai/community/demo-zexuan-liang-wenfeng-investor-meeting-2026-7-22.md)**
-- 💤 **[What is happening to jobs? Separating AI hype from reality](ai/community/what-is-happening-to-jobs-separating-ai-hype-from.md)**
-- 💤 **[Cloudflare's new AI traffic options for customers](ai/community/cloudflare-s-new-ai-traffic-options-for-customers.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
