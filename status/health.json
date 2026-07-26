@@ -1,9 +1,9 @@
 {
-  "last_successful_run": "2026-07-26T09:42:59.903803+05:30",
+  "last_successful_run": "2026-07-26T12:11:32.929840+05:30",
   "archive_status": "healthy",
   "validation_status": "unhealthy",
   "broken_links_count": 0,
-  "resources_scanned": 14073,
-  "resources_added": 6,
+  "resources_scanned": 13108,
+  "resources_added": 1,
   "resources_updated": 10
 }
