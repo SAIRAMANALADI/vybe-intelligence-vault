@@ -9,9 +9,9 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-63%2C969-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-115%2C109-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
-[![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--26-374151?style=flat-square)](#)
+[![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--27-374151?style=flat-square)](#)
 
 [Overview](#-overview) · [How It Works](#-how-it-works) · [Architecture](#-architecture) · [Quick Start](#-quick-start) · [Vault Stats](#-vault-stats) · [Contributing](#-contributing)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **63,969 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **115,109 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 13,114</p>
-        <p><b>Active:</b> 12,777 | <b>Inactive:</b> 337</p>
+        <p><b>Resources tracked:</b> 14,081</p>
+        <p><b>Active:</b> 13,740 | <b>Inactive:</b> 341</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,048</p>
+        <p><b>Archive Files:</b> 52,241</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 63,969 files</p>
-        <p><b>Last Update:</b> 2026-07-26 23:40 IST</p>
+        <p><b>Total Vault Size:</b> 115,109 files</p>
+        <p><b>Last Update:</b> 2026-07-27 01:24 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,25 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[JCodesMore/ai-website-cloner-template](ai/agents/jcodesmore-ai-website-cloner-template.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[WenyuChiou/awesome-agentic-ai-zh](ai/rag/wenyuchiou-awesome-agentic-ai-zh.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[TEN-framework/ten-framework](ai/agents/ten-framework-ten-framework.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[microsoft/agentsleague](ai/agents/microsoft-agentsleague.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[DEEP-PolyU/LinearRAG](ai/rag/deep-polyu-linearrag.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[London Gatwick has launched a robotic airport parking service](ai/community/park-by-robot-at-london-gatwick-airport.md)** • <kbd>+142 pts</kbd> • Rank: <kbd>+4</kbd>
+- 🔼 **[GrapheneOS protections against data extraction from locked devices](ai/community/grapheneos-protections-against-data-extraction-fro.md)** • <kbd>+57 pts</kbd>
+- 🔼 **[The New AI Superpowers: Focus and Followthrough](ai/community/the-new-ai-superpowers-focus-and-followthrough.md)** • <kbd>+47 pts</kbd> • Rank: <kbd>+4</kbd>
+- 🔼 **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** • Rank: <kbd>+987</kbd>
+- 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+3</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Terence Tao: Mathematics in the Age of AI [pdf]](ai/community/terence-tao-mathematics-in-the-age-of-ai-pdf.md)** • Score: `66`
+- 🆕 **[Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter](ai/community/hertz-ai-hartos.md)** • Score: `6`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Running a 28.9M parameter LLM on an $8 microcontroller](ai/community/slvdev-esp32-ai.md)**
+- 💤 **[DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](ai/community/demo-zexuan-liang-wenfeng-investor-meeting-2026-7-22.md)**
+- 💤 **[What is happening to jobs? Separating AI hype from reality](ai/community/what-is-happening-to-jobs-separating-ai-hype-from.md)**
+- 💤 **[Cloudflare's new AI traffic options for customers](ai/community/cloudflare-s-new-ai-traffic-options-for-customers.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

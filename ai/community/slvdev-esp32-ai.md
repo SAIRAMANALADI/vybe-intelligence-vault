@@ -13,13 +13,14 @@ collected_at: '2026-07-26T21:45:35.834829+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: github:slvdev/esp32-ai
 first_seen: '2026-07-26T09:24:42.064584+05:30'
 last_seen: '2026-07-26T21:45:35.834829+05:30'
 last_checked: '2026-07-26T21:45:35.834829+05:30'
 health_score: 100
 ---
+
 
 # Running a 28.9M parameter LLM on an $8 microcontroller
 

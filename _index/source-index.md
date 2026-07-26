@@ -10524,13 +10524,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Cloudflare's new AI traffic options for customers](../ai/community/cloudflare-s-new-ai-traffic-options-for-customers.md)
-  - [DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](../ai/community/demo-zexuan-liang-wenfeng-investor-meeting-2026-7-22.md)
   - [GrapheneOS protections against data extraction from locked devices](../ai/community/grapheneos-protections-against-data-extraction-fro.md)
-  - [Park by Robot at London Gatwick Airport](../ai/community/park-by-robot-at-london-gatwick-airport.md)
-  - [Running a 28.9M parameter LLM on an $8 microcontroller](../ai/community/slvdev-esp32-ai.md)
+  - [London Gatwick has launched a robotic airport parking service](../ai/community/park-by-robot-at-london-gatwick-airport.md)
+  - [Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter](../ai/community/hertz-ai-hartos.md)
+  - [Terence Tao: Mathematics in the Age of AI [pdf]](../ai/community/terence-tao-mathematics-in-the-age-of-ai-pdf.md)
   - [The New AI Superpowers: Focus and Followthrough](../ai/community/the-new-ai-superpowers-focus-and-followthrough.md)
-  - [What is happening to jobs? Separating AI hype from reality](../ai/community/what-is-happening-to-jobs-separating-ai-hype-from.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -13787,4 +13785,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-26T22:02:43.701776+05:30*
+*Index generated on 2026-07-27T01:21:57.184190+05:30*

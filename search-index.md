@@ -11832,6 +11832,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/shivayapandey/product-doc-crewai>
 
+* **[Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter](ai/community/hertz-ai-hartos.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by hevolveai. Score: 6, Comments: 1. Original Link: https://github.com/hertz-ai/HARTOS
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://github.com/hertz-ai/hartos>
+
 * **[Stainless - Stainless Docs Platform](ai/rag/stainless-stainless-docs-platform.md)** (`framework` | `useful` tier)
   * Summary: - **Dynamic API Documentation Sync**: REST API, SDK, and narrative docs automatically stay in sync with the actual API, eliminating manual updates and ensuring consistency across all documentation layers. - **AI-Optimized Hybrid Search & Integration*
   * Tags: `agents`, `frontend_ui`, `rag`, `web-crawled`
@@ -17361,11 +17366,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `frontend_ui`, `hackernews`, `producthunt`, `rag`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://www.cloudflarestatus.com>
 
-* **[Cloudflare's new AI traffic options for customers](ai/community/cloudflare-s-new-ai-traffic-options-for-customers.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by alphabetatango. Score: 163, Comments: 133. Original Link: https://blog.cloudflare.com/content-independence-day-ai-options/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://blog.cloudflare.com/content-independence-day-ai-options>
-
 * **[CMIP-Forge: An Agentic System that Retrieves, Computes, and Self-Reviews Climate Science](ai/rag/arxiv-2606-17076.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2606.17076v1 Announce Type: cross Abstract: The Coupled Model Intercomparison Project Phase 6 (CMIP6) has generated thousands of peer-reviewed publications documenting model configurations, evaluation procedures, emergent constraints, and proje
   * Tags: `agents`, `benchmark`, `rag`, `workflows`
@@ -17555,11 +17555,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Execution Environment**: Supports tools (custom functions, APIs, MCP servers), virtual filesystem (pluggable backends: in-memory, disk, LangGraph store), filesystem permissions (declarative access control), and sandboxed code execution (shell/JS
   * Tags: `agents`, `anthropic`, `meta-ai`, `models`, `openai`, `rag`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://docs.langchain.com/oss/python/deepagents>
-
-* **[DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](ai/community/demo-zexuan-liang-wenfeng-investor-meeting-2026-7-22.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by oliculipolicula. Score: 213, Comments: 173. Original Link: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%
-  * Tags: `ai`, `hackernews`, `reddit`
-  * Source URL: <https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22>
 
 * **[deepset-ai/haystack-cookbook](ai/rag/deepset-ai-haystack-cookbook.md)** (`framework` | `useful` tier)
   * Summary: - **Purpose**: Repository of Jupyter Notebooks demonstrating practical implementations of Haystack, a framework for building search and question-answering systems. - **Content**: Includes examples for agentic AI, generative AI use cases, and retrieva
@@ -18197,7 +18192,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.19362>
 
 * **[GrapheneOS protections against data extraction from locked devices](ai/community/grapheneos-protections-against-data-extraction-fro.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Cider9986. Score: 259, Comments: 130. Original Link: https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices
+  * Summary: Hacker News story by Cider9986. Score: 316, Comments: 195. Original Link: https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices
   * Tags: `ai`, `hackernews`
   * Source URL: <https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices>
 
@@ -18716,6 +18711,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.04579>
 
+* **[London Gatwick has launched a robotic airport parking service](ai/community/park-by-robot-at-london-gatwick-airport.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by agotterer. Score: 221, Comments: 169. Original Link: https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/
+  * Tags: `ai`, `hackernews`, `producthunt`
+  * Source URL: <https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics>
+
 * **[Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading](ai/rag/arxiv-2607-08964.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2607.08964v2 Announce Type: replace Abstract: AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple problems that finish within minutes and are evalua
   * Tags: `agents`, `benchmark`, `rag`, `workflows`
@@ -19055,11 +19055,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Multi-format conversion**: Pandoc is a Haskell library supporting bidirectional conversion between 30+ markup formats (Markdown variants, LaTeX, HTML, EPUB, Docx, Jupyter notebooks, etc.) with extensible readers/writers via Lua scripting. - **Mat
   * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://hackage.haskell.org/package/pandoc>
-
-* **[Park by Robot at London Gatwick Airport](ai/community/park-by-robot-at-london-gatwick-airport.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by agotterer. Score: 79, Comments: 36. Original Link: https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics>
 
 * **[PatchOptic for Shared-State LLM Workflows with Projected Views and Verified Structured Updates](ai/rag/arxiv-2607-05483.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.05483v1 Announce Type: new Abstract: Agentic workflows often operate over shared, structured state. Because LLM context windows are limited, each model invocation is typically shown only the state fragment needed for the current workflow s
@@ -19436,11 +19431,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `frontend_ui`, `github-repo`, `meta-ai`, `models`, `openai`, `rag`, `typescript`, `workflows`
   * Source URL: <https://github.com/run-llama/LlamaIndexTS>
 
-* **[Running a 28.9M parameter LLM on an $8 microcontroller](ai/community/slvdev-esp32-ai.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by boveyking. Score: 256, Comments: 65. Original Link: https://github.com/slvDev/esp32-ai
-  * Tags: `hackernews`, `llm`
-  * Source URL: <https://github.com/slvdev/esp32-ai>
-
 * **[RVM: Ruby Version Manager - RVM Ruby Version Manager - Documentation](ai/rag/rvm-ruby-version-manager-rvm-ruby-version-manager.md)** (`benchmark` | `useful` tier)
   * Summary: - **Multi-Ruby Environment Management**: RVM enables installation, management, and switching between multiple Ruby interpreters and gemsets, facilitating isolated environments for different projects or Ruby versions (MRI, JRuby, Rubinius, etc.). - **
   * Tags: `benchmark`, `hackernews`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
@@ -19725,6 +19715,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `github-repo`, `go`, `meta-ai`, `models`, `openai`, `rag`, `workflows`
   * Source URL: <https://github.com/Tencent/WeKnora>
 
+* **[Terence Tao: Mathematics in the Age of AI [pdf]](ai/community/terence-tao-mathematics-in-the-age-of-ai-pdf.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by Anon84. Score: 66, Comments: 29. Original Link: https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf>
+
 * **[TextResNet: Decoupling and Routing Optimization Signals in Compound AI Systems via Deep Residual Tuning](ai/rag/arxiv-2602-08306.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.08306v2 Announce Type: replace Abstract: Textual Gradient-style optimizers (TextGrad) enable gradient-like feedback propagation through compound AI systems. However, they do not work well for deep chains. The root cause of this limitation
   * Tags: `agents`, `rag`, `workflows`
@@ -19761,7 +19756,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://docs.kernel.org/>
 
 * **[The New AI Superpowers: Focus and Followthrough](ai/community/the-new-ai-superpowers-focus-and-followthrough.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by mooreds. Score: 23, Comments: 6. Original Link: https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and
+  * Summary: Hacker News story by mooreds. Score: 70, Comments: 24. Original Link: https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and
   * Tags: `ai`, `hackernews`
   * Source URL: <https://rickmanelius.com/p/the-new-ai-superpowers-focus-and>
 
@@ -20089,11 +20084,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Container Definition & Isolation**: Docker containers package applications with all dependencies (code, runtime, libraries, settings) into lightweight, isolated units that run uniformly across environments by sharing the host OS kernel via Docker
   * Tags: `hackernews`, `producthunt`, `rag`, `web-crawled`, `workflows`
   * Source URL: <https://www.docker.com/resources/what-container>
-
-* **[What is happening to jobs? Separating AI hype from reality](ai/community/what-is-happening-to-jobs-separating-ai-hype-from.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by pod_krad. Score: 186, Comments: 256. Original Link: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality>
 
 * **[When Are Scoring Rules Proper? Bridging Theory and Practice in Survival Model Evaluation](ai/rag/arxiv-2212-05260.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2212.05260v4 Announce Type: replace-cross Abstract: Proper scoring rules encourage probabilistic predictions that match the true underlying distribution and are central to model evaluation, with increasing relevance in automated workflows such
@@ -71243,7 +71233,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.09235>
 
 * **[allenai/c4](ai/models/huggingface-datasets-allenai.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: allenai/c4 (Likes: 620, Downloads: 1667691)
+  * Summary: Trending Hugging Face dataset: allenai/c4 (Likes: 621, Downloads: 1667691)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/allenai>
 
@@ -105431,8 +105421,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2512.01317>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: * Provides a full-stack, practical guide to Retrieval-Augmented Generation (RAG
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
+  * Summary: * Comprehensive, full-stack guide for Retrieval Augmented Generation (RAG) system development, emphasizing practical application. * Explores diverse RAG architectural components including vector databases (Milvus), graph databases (Neo4j), embedding
   * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -109281,7 +109271,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.11288>
 
 * **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** (`tool` | `useful` tier)
-  * Summary: * Python-based bioinformatics tool for *de novo* genome assembly and scaffolding. *
+  * Summary: * Python-based bioinformatics tool for *de novo* genome assembly and scaffolding.
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/malonge/RaGOO>
 
@@ -111472,7 +111462,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://superml.org/tutorials/rag-beginner>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll source repository for `raganwald.com`. * Primary language identified
+  * Summary: * GitHub Pages repository (`raganwald.github.com`) serving as the Jekyll
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 

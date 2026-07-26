@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: github:demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22
 first_seen: '2026-07-26T09:24:42.343195+05:30'
 last_seen: '2026-07-26T21:45:34.310765+05:30'
 last_checked: '2026-07-26T21:45:34.310765+05:30'
 health_score: 100
 ---
+
 
 # DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]
 

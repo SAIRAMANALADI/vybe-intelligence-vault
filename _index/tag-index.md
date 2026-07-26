@@ -3130,12 +3130,11 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Cloudflare's new AI traffic options for customers](../ai/community/cloudflare-s-new-ai-traffic-options-for-customers.md)
-  - [DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](../ai/community/demo-zexuan-liang-wenfeng-investor-meeting-2026-7-22.md)
   - [GrapheneOS protections against data extraction from locked devices](../ai/community/grapheneos-protections-against-data-extraction-fro.md)
-  - [Park by Robot at London Gatwick Airport](../ai/community/park-by-robot-at-london-gatwick-airport.md)
+  - [London Gatwick has launched a robotic airport parking service](../ai/community/park-by-robot-at-london-gatwick-airport.md)
+  - [Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter](../ai/community/hertz-ai-hartos.md)
+  - [Terence Tao: Mathematics in the Age of AI [pdf]](../ai/community/terence-tao-mathematics-in-the-age-of-ai-pdf.md)
   - [The New AI Superpowers: Focus and Followthrough](../ai/community/the-new-ai-superpowers-focus-and-followthrough.md)
-  - [What is happening to jobs? Separating AI hype from reality](../ai/community/what-is-happening-to-jobs-separating-ai-hype-from.md)
 
 ## animation
 
@@ -12429,7 +12428,6 @@ Resources organized by keyword tags.
   - [Cloudflare Research](../ai/rag/cloudflare-research.md)
   - [Cloudflare Status](../ai/rag/cloudflare-status.md)
   - [Cloudflare's Privacy Policy | Cloudflare](../ai/rag/cloudflare-s-privacy-policy-cloudflare.md)
-  - [Cloudflare's new AI traffic options for customers](../ai/community/cloudflare-s-new-ai-traffic-options-for-customers.md)
   - [Co-occurring associated retained concepts in Diffusion Unlearning](../ai/rag/arxiv-2606-24192.md)
   - [CoGen3D: An Agentic Human-AI Co-Design Pipeline for 3D Asset Generation for Virtual Reality](../ai/agents/arxiv-2607-03731.md)
   - [CoVar: Confidence-Variance-Guided Pseudo-Label Selection for Semi-Supervised Learning](../ai/research/arxiv-2601-11670.md)
@@ -12540,7 +12538,6 @@ Resources organized by keyword tags.
   - [Deep Learning Approaches for 3D Medical Scene Completion: From Geometric Modeling to Generative Paradigms](../ai/agents/arxiv-2606-24180.md)
   - [Deep Research | Firecrawl](../ai/agents/deep-research-firecrawl.md)
   - [DeepJEB++: Foundation Model-Driven Large-Scale 3D Engineering Dataset via 2D Latent Space Augmentation](../ai/research/arxiv-2606-12994.md)
-  - [DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](../ai/community/demo-zexuan-liang-wenfeng-investor-meeting-2026-7-22.md)
   - [Defense Technical Information Center](../ai/resources/defense-technical-information-center.md)
   - [Define American | Home](../ai/rag/define-american-home.md)
   - [Definitional alignment before capability alignment: a Design-Science framework for adjudicating claims about AGI](../ai/research/arxiv-2606-12713.md)
@@ -13139,6 +13136,7 @@ Resources organized by keyword tags.
   - [Log In - Apache Software Foundation](../ai/resources/log-in-apache-software-foundation.md)
   - [Log In - Stack Apps](../ai/resources/log-in-stack-apps.md)
   - [Logic, Optimization, and Artificial Intelligence](../ai/research/arxiv-2607-15532.md)
+  - [London Gatwick has launched a robotic airport parking service](../ai/community/park-by-robot-at-london-gatwick-airport.md)
   - [Longhorn Alert | Security and Emergency Management](../ai/resources/longhorn-alert-security-and-emergency-management.md)
   - [Lost in Transmission: An Information-Theoretic Account of Unsupervised Software Traceability](../ai/rag/arxiv-2412-04704.md)
   - [Low-Cost Neuromorphic Fall Detection Using Synthetic Event Data and Hybrid SNNs](../ai/rag/arxiv-2606-18732.md)
@@ -13338,7 +13336,6 @@ Resources organized by keyword tags.
   - [Panorama: Fast-Track Nearest Neighbors](../ai/rag/arxiv-2510-00566.md)
   - [Parallel Test-Time Scaling with Multi-Sequence Verifiers](../ai/research/arxiv-2603-03417.md)
   - [Parameter-Efficient Continual Fine-Tuning: A Survey](../ai/research/arxiv-2504-13822.md)
-  - [Park by Robot at London Gatwick Airport](../ai/community/park-by-robot-at-london-gatwick-airport.md)
   - [Partial Contracts Suffice: Sound, LLM-Inferred Regression Verification](../ai/research/arxiv-2607-10291.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
   - [Passkeys for Developers](../ai/rag/passkeys-for-developers.md)
@@ -13555,7 +13552,6 @@ Resources organized by keyword tags.
   - [Routing | Docusaurus](../ai/rag/routing-docusaurus.md)
   - [RuBench: A Repository-Level Agentic Coding Benchmark with Natively Authored Russian Task Specifications](../ai/agents/arxiv-2607-06411.md)
   - [Run Payments with Stripe | Firebase Extensions Hub](../ai/rag/run-payments-with-stripe-firebase-extensions-hub.md)
-  - [Running a 28.9M parameter LLM on an $8 microcontroller](../ai/community/slvdev-esp32-ai.md)
   - [Running hardware-aware neural architecture search on embedded devices under 512MB of RAM](../ai/research/arxiv-2606-14824.md)
   - [Russia-Ukraine Disinformation Tracking Center - NewsGuard](../ai/rag/russia-ukraine-disinformation-tracking-center-news.md)
   - [Russian Propaganda Infects AI Chatbots - CEPA](../ai/rag/russian-propaganda-infects-ai-chatbots-cepa.md)
@@ -13635,6 +13631,7 @@ Resources organized by keyword tags.
   - [Seven Security Challenges in Cross-domain Multi-agent LLM Systems](../ai/agents/arxiv-2505-23847.md)
   - [Sexualised synthetic personas encode and amplify gendered power asymmetries through voice](../ai/research/arxiv-2606-21366.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter](../ai/community/hertz-ai-hartos.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Sign in to GitHub · GitHub](../ai/resources/langchain-ai-docs.md)
@@ -13763,6 +13760,7 @@ Resources organized by keyword tags.
   - [TensorFlow](../ai/agents/tensorflow.md)
   - [TensorFlow.js API](../ai/rag/tensorflow-js-api.md)
   - [Tensorblue | LinkedIn](../ai/agents/tensorblue-linkedin.md)
+  - [Terence Tao: Mathematics in the Age of AI [pdf]](../ai/community/terence-tao-mathematics-in-the-age-of-ai-pdf.md)
   - [Terminal Dimension Reduction for Time Series with Applications](../ai/rag/arxiv-2607-09490.md)
   - [Terms & Conditions | Speechify](../ai/rag/terms-conditions-speechify.md)
   - [Terms of Service](../ai/rag/terms-of-service.md)
@@ -14014,7 +14012,6 @@ Resources organized by keyword tags.
   - [What does AUTHORIZED_FETCH actually do? | Sunny Garden Hub](../ai/rag/what-does-authorized-fetch-actually-do-sunny-garde.md)
   - [What is a Container? | Docker](../ai/rag/what-is-a-container-docker.md)
   - [What is artificial intelligence? | web.dev](../ai/rag/what-is-artificial-intelligence-web-dev.md)
-  - [What is happening to jobs? Separating AI hype from reality](../ai/community/what-is-happening-to-jobs-separating-ai-hype-from.md)
   - [What's in a Smoothness Constant? Tighter Rates for Local SGD with Bounded Second-order Heterogeneity](../ai/rag/arxiv-2607-14731.md)
   - [What's new in Aspire 13.1 | Aspire](../ai/agents/what-s-new-in-aspire-13-1-aspire.md)
   - [When AI Takes the Couch: Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models](../ai/research/arxiv-2512-04124.md)
@@ -14660,10 +14657,6 @@ Resources organized by keyword tags.
   - [open-llm-leaderboard/open_llm_leaderboard](../ai/models/huggingface-spaces-open-llm-leaderboard.md)
   - [prometheus-eval/BiGGen-Bench at main · prometheus-eval/prometheus-eval · GitHub](../ai/rag/prometheus-eval-prometheus-eval.md)
   - [prometheus-eval/BiGGen-Bench · Datasets at Hugging Face](../ai/rag/huggingface-datasets-prometheus-eval.md)
-
-## llm
-
-  - [Running a 28.9M parameter LLM on an $8 microcontroller](../ai/community/slvdev-esp32-ai.md)
 
 ## mdx
 
@@ -20508,6 +20501,7 @@ Resources organized by keyword tags.
   - [Let's Encrypt](../ai/resources/let-s-encrypt.md)
   - [List of services & service-specific additional terms – Privacy & Terms – Google](../ai/rag/list-of-services-service-specific-additional-terms.md)
   - [List of supported Java and Python packages for the Assured Open Source Software free tier | Google Cloud Documentation](../ai/rag/list-of-supported-java-and-python-packages-for-the.md)
+  - [London Gatwick has launched a robotic airport parking service](../ai/community/park-by-robot-at-london-gatwick-airport.md)
   - [MDN Web Docs](../ai/resources/mdn-web-docs.md)
   - [MIT Open Learning brings Online Learning to MIT and the world](../ai/resources/mit-open-learning-brings-online-learning-to-mit-an.md)
   - [Machine Learning and Deep Learning for Exoplanet Detection and Atmospheric Characterization with JWST and the Upcoming Ariel Mission](../ai/research/arxiv-2606-23766.md)
@@ -25391,7 +25385,6 @@ Resources organized by keyword tags.
   - [Decision-Aware Memory Cards: Counterfactual-Inspired Context Selection and Compression for Tool-Using LLM Agents](../ai/agents/arxiv-2606-08151.md)
   - [DeckardGer/tanstack-agent-skills](../ai/rag/deckardger-tanstack-agent-skills.md)
   - [Decodable but Not Detectable: A Leakage Fingerprint for Near-OOD Benchmarks](../ai/research/arxiv-2607-19393.md)
-  - [DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](../ai/community/demo-zexuan-liang-wenfeng-investor-meeting-2026-7-22.md)
   - [Define American | Home](../ai/rag/define-american-home.md)
   - [Delete your activity - Computer - Google Account Help](../ai/rag/delete-your-activity-computer-google-account-help.md)
   - [Delete, allow, and manage cookies in Chrome - Computer - Google Chrome Help](../ai/rag/delete-allow-and-manage-cookies-in-chrome-computer.md)
@@ -32154,4 +32147,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-26T22:02:43.546734+05:30*
+*Index generated on 2026-07-27T01:21:57.039075+05:30*
