@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-63%2C956-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-115%2C101-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--26-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **63,956 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **115,101 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 13,102</p>
-        <p><b>Active:</b> 12,774 | <b>Inactive:</b> 328</p>
+        <p><b>Resources tracked:</b> 14,073</p>
+        <p><b>Active:</b> 13,743 | <b>Inactive:</b> 330</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,047</p>
+        <p><b>Archive Files:</b> 52,243</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 63,956 files</p>
-        <p><b>Last Update:</b> 2026-07-26 09:13 IST</p>
+        <p><b>Total Vault Size:</b> 115,101 files</p>
+        <p><b>Last Update:</b> 2026-07-26 09:42 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,26 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
+- 🔼 **[GM Backs Sodium Ion Batteries for U.S. Grid Storage](ai/community/gm-backs-sodium-ion-batteries-for-u-s-grid-storage.md)** • <kbd>+134 pts</kbd> • Rank: <kbd>+3</kbd>
+- 🔼 **[Open-weight AI is having its Kubernetes moment](ai/community/open-weight-ai-is-having-its-kubernetes-moment.md)** • <kbd>+66 pts</kbd>
+- 🔼 **[Show HN: Brolly, a plain-text weather forecast site](ai/community/show-hn-brolly-a-plain-text-weather-forecast-site.md)** • <kbd>+64 pts</kbd>
 - 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[strnad/CrewAI-Studio](ai/agents/strnad-crewai-studio.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[freddy-schuetz/n8n-claw](ai/rag/freddy-schuetz-n8n-claw.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[WenyuChiou/awesome-agentic-ai-zh](ai/rag/wenyuchiou-awesome-agentic-ai-zh.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[React Canaries: Enabling Incremental Feature Rollout Outside Meta](web-development/react-canaries-enabling-incremental-feature-rollou.md)** • Rank: <kbd>+6</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Running a 28.9M parameter LLM on an $8 microcontroller](ai/community/slvdev-esp32-ai.md)** • Score: `106`
+- 🆕 **[DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](ai/community/demo-zexuan-liang-wenfeng-investor-meeting-2026-7-22.md)** • Score: `105`
+- 🆕 **[LLM Usage in Debian: Three Proposals](ai/community/llm-usage-in-debian-three-proposals.md)** • Score: `103`
+- 🆕 **[Clinical failure rates over the decades: yikes](ai/community/clinical-failure-rates-over-the-decades-yikes.md)** • Score: `68`
+- 🆕 **[Cloudflare's new AI traffic options for customers](ai/community/cloudflare-s-new-ai-traffic-options-for-customers.md)** • Score: `61`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[A 77-year-old Republican man is staging a solo protest against Flock cameras](ai/community/a-77-year-old-republican-man-is-staging-a-solo-pro.md)**
+- 💤 **[Show HN: Yorishiro – a macOS terminal where AI agents live](ai/community/sktkkoo-yorishiro.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

@@ -1,5 +1,5 @@
 ---
-title: 'mtRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented
+title: 'MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented
   Generation Systems'
 category: ai/research
 source_type: research
@@ -17,11 +17,11 @@ authors:
 - Danish Contractor
 - Marina Danilevsky
 year: 2025
-citation_count: 55
+citation_count: 66
 code_url: None
 stars: N/A
 published_at: '2025-01-01T00:00:00Z'
-collected_at: '2026-07-20T01:04:24.600049+05:30'
+collected_at: '2026-07-26T09:24:40.194623+05:30'
 tags:
 - augmented
 - benchmark
@@ -34,12 +34,12 @@ tags:
 status: active
 resource_id: blog:mtrag-a-multi-turn-conversational-benchmark-for-ev
 first_seen: '2026-07-20T01:04:24.600049+05:30'
-last_seen: '2026-07-20T01:04:24.600049+05:30'
-last_checked: '2026-07-20T01:04:24.600049+05:30'
+last_seen: '2026-07-26T09:24:40.194623+05:30'
+last_checked: '2026-07-26T09:24:40.194623+05:30'
 health_score: 100
 ---
 
-# mtRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems
+# MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems
 
 ## Summary
 
@@ -53,7 +53,7 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 - Authors: Yannis Katsis, Sara Rosenthal, Kshitij P. Fadnis, Chulaka Gunasekara, Young-Suk Lee, Lucian Popa, Vraj Shah, Huaiyu Zhu, Danish Contractor, Marina Danilevsky
 - Publication Year: 2025
-- Citation Count: 55
+- Citation Count: 66
 - Paper Link: https://semanticscholar.org/paper/bb7047071062aea5d846005ff6dcd7782d29103e
 - Code Link: None
 - Code Stars: N/A

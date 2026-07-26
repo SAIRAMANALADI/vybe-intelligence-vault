@@ -16731,11 +16731,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch>
 
-* **[A 77-year-old Republican man is staging a solo protest against Flock cameras](ai/community/a-77-year-old-republican-man-is-staging-a-solo-pro.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by UmYeahNo. Score: 42, Comments: 20. Original Link: https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras>
-
 * **[A Clinician-Centered Pipeline for Annotation and Evaluation in Ultrasound AI Studies](ai/research/arxiv-2606-19174.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.19174v1 Announce Type: cross Abstract: Clinician-centered evaluation is critical for validating medical AI systems, especially in ultrasound imaging where quantitative metrics do not always capture clinical usability. Existing medical imag
   * Tags: `benchmark`, `dataset`, `workflows`
@@ -17341,6 +17336,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `rag`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <http://docs.pinecone.io/integrations/claude-code>
 
+* **[Clinical failure rates over the decades: yikes](ai/community/clinical-failure-rates-over-the-decades-yikes.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by EA-3167. Score: 68, Comments: 35. Original Link: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://science.org/content/blog-post/clinical-failure-rates-over-decades-yikes>
+
 * **[Closed-loop discovery of out-of-distribution processing protocols by evolutionary search and uncertainty-aware learning](ai/research/arxiv-2606-13859.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.13859v1 Announce Type: cross Abstract: Many materials and chemical systems exhibit history-dependent responses, where functional outcomes are governed not only by final-state variables but by the time-dependent sequence of fields, temperat
   * Tags: `workflows`
@@ -17365,6 +17365,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Scheduled Maintenance in ARN (Stockholm)**: Cloudflare is performing scheduled maintenance in the ARN (Stockholm) datacenter on 2026-06-24 between 00:00 and 05:00 UTC, potentially causing increased latency and traffic failover for affected users.
   * Tags: `dataset`, `frontend_ui`, `hackernews`, `producthunt`, `rag`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://www.cloudflarestatus.com>
+
+* **[Cloudflare's new AI traffic options for customers](ai/community/cloudflare-s-new-ai-traffic-options-for-customers.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by alphabetatango. Score: 61, Comments: 39. Original Link: https://blog.cloudflare.com/content-independence-day-ai-options/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://blog.cloudflare.com/content-independence-day-ai-options>
 
 * **[CMIP-Forge: An Agentic System that Retrieves, Computes, and Self-Reviews Climate Science](ai/rag/arxiv-2606-17076.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2606.17076v1 Announce Type: cross Abstract: The Coupled Model Intercomparison Project Phase 6 (CMIP6) has generated thousands of peer-reviewed publications documenting model configurations, evaluation procedures, emergent constraints, and proje
@@ -17555,6 +17560,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Execution Environment**: Supports tools (custom functions, APIs, MCP servers), virtual filesystem (pluggable backends: in-memory, disk, LangGraph store), filesystem permissions (declarative access control), and sandboxed code execution (shell/JS
   * Tags: `agents`, `anthropic`, `meta-ai`, `models`, `openai`, `rag`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://docs.langchain.com/oss/python/deepagents>
+
+* **[DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](ai/community/demo-zexuan-liang-wenfeng-investor-meeting-2026-7-22.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by oliculipolicula. Score: 105, Comments: 66. Original Link: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%9
+  * Tags: `ai`, `hackernews`, `reddit`
+  * Source URL: <https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22>
 
 * **[deepset-ai/haystack-cookbook](ai/rag/deepset-ai-haystack-cookbook.md)** (`framework` | `useful` tier)
   * Summary: - **Purpose**: Repository of Jupyter Notebooks demonstrating practical implementations of Haystack, a framework for building search and question-answering systems. - **Content**: Includes examples for agentic AI, generative AI use cases, and retrieva
@@ -18127,7 +18137,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2604.20822>
 
 * **[GM Backs Sodium Ion Batteries for U.S. Grid Storage](ai/community/gm-backs-sodium-ion-batteries-for-u-s-grid-storage.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by rbanffy. Score: 15, Comments: 0. Original Link: https://spectrum.ieee.org/sodium-ion-battery-peak-energy
+  * Summary: Hacker News story by rbanffy. Score: 149, Comments: 58. Original Link: https://spectrum.ieee.org/sodium-ion-battery-peak-energy
   * Tags: `hackernews`, `rag`
   * Source URL: <https://spectrum.ieee.org/sodium-ion-battery-peak-energy>
 
@@ -18696,6 +18706,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://lilianweng.github.io/posts/2023-06-23-agent/#case-studies>
 
+* **[LLM Usage in Debian: Three Proposals](ai/community/llm-usage-in-debian-three-proposals.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by zdw. Score: 103, Comments: 95. Original Link: https://www.debian.org/vote/2026/vote_002
+  * Tags: `hackernews`, `llm`
+  * Source URL: <https://debian.org/vote/2026/vote_002>
+
 * **[LLM-as-Judge in Education: A Curriculum-Grounded Marking Pipeline](ai/research/arxiv-2606-17507.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.17507v1 Announce Type: new Abstract: Generative AI and large language models (LLMs) are increasingly applied to question generation and automated assessment. However, deploying LLMs in preparation for high-stakes exams requires more than p
   * Tags: `benchmark`, `paper`, `workflows`
@@ -18987,7 +19002,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://openssf.org/?hsLang=en>
 
 * **[Open-weight AI is having its Kubernetes moment](ai/community/open-weight-ai-is-having-its-kubernetes-moment.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by tknaup. Score: 268, Comments: 210. Original Link: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/
+  * Summary: Hacker News story by tknaup. Score: 334, Comments: 265. Original Link: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment>
 
@@ -19366,6 +19381,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `deepmind`, `models`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://research.google/resources/#open-source-3>
 
+* **[Rethinking Legal Education in the AI Era](ai/community/rethinking-legal-education-in-the-ai-era.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by jjwiseman. Score: 23, Comments: 1. Original Link: https://www.law.uchicago.edu/news/ai-strategy-statement
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://law.uchicago.edu/news/ai-strategy-statement>
+
 * **[Retrieval-Augmented Generation (RAG) Tutorial: Architecture, Implementation, and Production Guide - Rost Glukhov | Perso](ai/rag/retrieval-augmented-generation-rag-tutorial-archit.md)** (`framework` | `useful` tier)
   * Summary: - **RAG Pipeline Architecture**: Combines retrieval (vector/hybrid search, metadata filtering) and generation (LLM prompt augmentation) with optional reranking, query rewriting, and web search integration for dynamic knowledge augmentation. - **Inges
   * Tags: `benchmark`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`
@@ -19430,6 +19450,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **TypeScript-based LLM Data Framework**: LlamaIndexTS provides a server-side solution for LLM applications, enabling structured data integration, indexing, and retrieval for TypeScript/JavaScript environments. - **Core Features**: Supports embeddin
   * Tags: `agents`, `anthropic`, `frontend_ui`, `github-repo`, `meta-ai`, `models`, `openai`, `rag`, `typescript`, `workflows`
   * Source URL: <https://github.com/run-llama/LlamaIndexTS>
+
+* **[Running a 28.9M parameter LLM on an $8 microcontroller](ai/community/slvdev-esp32-ai.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by boveyking. Score: 106, Comments: 22. Original Link: https://github.com/slvDev/esp32-ai
+  * Tags: `hackernews`, `llm`
+  * Source URL: <https://github.com/slvdev/esp32-ai>
 
 * **[RVM: Ruby Version Manager - RVM Ruby Version Manager - Documentation](ai/rag/rvm-ruby-version-manager-rvm-ruby-version-manager.md)** (`benchmark` | `useful` tier)
   * Summary: - **Multi-Ruby Environment Management**: RVM enables installation, management, and switching between multiple Ruby interpreters and gemsets, facilitating isolated environments for different projects or Ruby versions (MRI, JRuby, Rubinius, etc.). - **
@@ -19522,14 +19547,9 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://shibuya.lepture.com>
 
 * **[Show HN: Brolly, a plain-text weather forecast site](ai/community/show-hn-brolly-a-plain-text-weather-forecast-site.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by jsax. Score: 79, Comments: 26. Original Link: https://brolly.sh/forecast/RWFP2qW8
+  * Summary: Hacker News story by jsax. Score: 143, Comments: 45. Original Link: https://brolly.sh/forecast/RWFP2qW8
   * Tags: `ai`, `hackernews`
   * Source URL: <https://brolly.sh/forecast/rwfp2qw8>
-
-* **[Show HN: Yorishiro – a macOS terminal where AI agents live](ai/community/sktkkoo-yorishiro.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by hakumei. Score: 18, Comments: 2. Original Link: https://github.com/sktkkoo/Yorishiro
-  * Tags: `agents`, `ai`, `hackernews`
-  * Source URL: <https://github.com/sktkkoo/yorishiro>
 
 * **[Signature filtering: a lightweight enhancement for statistical watermark detection in large language models](ai/research/arxiv-2606-18430.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18430v1 Announce Type: new Abstract: Statistical watermarks help organizations attribute large language model (LLM) outputs, yet existing detectors often struggle when watermark signals are weak, texts are repetitive, or watermarks are edi
@@ -86836,7 +86856,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://huggingface.co/blog/mteb>
 
-* **[mtRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems](ai/research/mtrag-a-multi-turn-conversational-benchmark-for-ev.md)** (`framework` | `useful` tier)
+* **[MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems](ai/research/mtrag-a-multi-turn-conversational-benchmark-for-ev.md)** (`framework` | `useful` tier)
   * Summary: Retrieval-augmented generation (RAG) has recently become a very popular task for Large Language Models (LLMs). Evaluating them on multi-turn RAG conversations, where the system is asked to generate a response to a question in the context of a precedi
   * Tags: `augmented`, `benchmark`, `generation`, `paper`, `rag`, `retrieval`, `scripts`, `semantic-scholar`
   * Source URL: <https://semanticscholar.org/paper/bb7047071062aea5d846005ff6dcd7782d29103e>
@@ -88913,6 +88933,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2312.08230v2 Announce Type: replace-cross Abstract: Detecting partial extrinsic symmetry in 3D geometry is a fundamental yet persistent challenge in computer vision and graphics, critical for tasks ranging from shape completion to procedural ge
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2312.08230>
+
+* **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
+  * Summary: * Introduces RAGTruth, a specialized corpus for identifying and quantifying hallucinations in Retrieval-Augmented Generation (RAG) models. * Provides a benchmark dataset to develop and evaluate the trustworthiness and factual consistency of RAG syste
+  * Tags: `benchmark`, `dataset`, `github-repo`, `models`, `python`, `rag`
+  * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 
 * **[PASs-MoE: Mitigating Misaligned Co-drift among Router and Experts via Pathway Activation Subspaces for Continual Learning](ai/research/arxiv-2601-13020.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2601.13020v2 Announce Type: replace-cross Abstract: Continual instruction tuning (CIT) requires multimodal large language models (MLLMs) to adapt to a stream of tasks without forgetting prior capabilities. A common strategy is to isolate update
@@ -103982,7 +104007,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/GenAIOps-project-template>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3263, Downloads: 35328895)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3265, Downloads: 35328895)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
@@ -105416,8 +105441,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2512.01317>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tutorial` | `useful` tier)
-  * Summary: * Comprehensive guide for full-stack RAG system development, emphasizing practical application with large language
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
+  * Summary: * Offers a full-stack, practical guide to Retrieval-Augmented Generation (
   * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -105427,7 +105452,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
 * **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tool` | `useful` tier)
-  * Summary: * Focuses on practical LLM application development. * Leverages LangChain for orchestration
+  * Summary: * Provides a structured curriculum for large language model (LLM) application development.
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -110701,11 +110726,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2604.20711>
 
-* **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * Introduces RAGTruth, a specialized corpus designed for the detection and quantification of hallucinations. * Aids in the development and rigorous evaluation of Retrieval-Augmented Language Models (RAGs). * Facilitates the creation of trustworthy RA
-  * Tags: `benchmark`, `github-repo`, `python`, `rag`
-  * Source URL: <https://github.com/ParticleMedia/RAGTruth>
-
 * **[Passkeys for Developers](ai/rag/passkeys-for-developers.md)** (`tutorial` | `useful` tier)
   * Summary: - **Phishing-resistant authentication**: Passkeys leverage public-key cryptography where servers store only the public key, eliminating password reuse risks and mitigating phishing attacks via domain-specific binding. - **Multi-device, biometric supp
   * Tags: `hackernews`, `rag`, `web-crawled`, `youtube`
@@ -111462,7 +111482,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://superml.org/tutorials/rag-beginner>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll-based static site source for `raganwald.com`. * Primary codebase is HTML, indicative of generated content. * Repository `raganwald/raganwald.github.com` follows the GitHub Pages naming convention for direct site
+  * Summary: * Jekyll-based static site source for `raganwald.com`,
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 

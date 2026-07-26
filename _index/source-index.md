@@ -10523,11 +10523,15 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [A 77-year-old Republican man is staging a solo protest against Flock cameras](../ai/community/a-77-year-old-republican-man-is-staging-a-solo-pro.md)
+  - [Clinical failure rates over the decades: yikes](../ai/community/clinical-failure-rates-over-the-decades-yikes.md)
+  - [Cloudflare's new AI traffic options for customers](../ai/community/cloudflare-s-new-ai-traffic-options-for-customers.md)
+  - [DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](../ai/community/demo-zexuan-liang-wenfeng-investor-meeting-2026-7-22.md)
   - [GM Backs Sodium Ion Batteries for U.S. Grid Storage](../ai/community/gm-backs-sodium-ion-batteries-for-u-s-grid-storage.md)
+  - [LLM Usage in Debian: Three Proposals](../ai/community/llm-usage-in-debian-three-proposals.md)
   - [Open-weight AI is having its Kubernetes moment](../ai/community/open-weight-ai-is-having-its-kubernetes-moment.md)
+  - [Rethinking Legal Education in the AI Era](../ai/community/rethinking-legal-education-in-the-ai-era.md)
+  - [Running a 28.9M parameter LLM on an $8 microcontroller](../ai/community/slvdev-esp32-ai.md)
   - [Show HN: Brolly, a plain-text weather forecast site](../ai/community/show-hn-brolly-a-plain-text-weather-forecast-site.md)
-  - [Show HN: Yorishiro – a macOS terminal where AI agents live](../ai/community/sktkkoo-yorishiro.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -11433,6 +11437,7 @@ Resources organized by publisher feed and query sources.
   - [LightRAG: Simple and Fast Retrieval-Augmented Generation](../ai/research/lightrag-simple-and-fast-retrieval-augmented-gener.md)
   - [MLR-Copilot: Autonomous Machine Learning Research based on Large Language Models Agents](../ai/research/mlr-copilot-autonomous-machine-learning-research-b.md)
   - [MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models](../ai/research/mme-a-comprehensive-evaluation-benchmark-for-multi.md)
+  - [MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems](../ai/research/mtrag-a-multi-turn-conversational-benchmark-for-ev.md)
   - [MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot](../ai/research/medrag-enhancing-retrieval-augmented-generation-wi.md)
   - [MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop Queries](../ai/research/multihop-rag-benchmarking-retrieval-augmented-gene.md)
   - [New frontiers in artificial intelligence for biodiversity research and conservation with multimodal language models](../ai/research/new-frontiers-in-artificial-intelligence-for-biodi.md)
@@ -11460,7 +11465,6 @@ Resources organized by publisher feed and query sources.
   - [Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models](../ai/research/vision-r1-incentivizing-reasoning-capability-in-mu.md)
   - [Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models](../ai/research/visual-sketchpad-sketching-as-a-visual-chain-of-th.md)
   - [Visuospatial Perspective Taking in Multimodal Language Models](../ai/research/visuospatial-perspective-taking-in-multimodal-lang.md)
-  - [mtRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems](../ai/research/mtrag-a-multi-turn-conversational-benchmark-for-ev.md)
 
 ## Unknown Source (type: rss)
 
@@ -13784,4 +13788,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-26T03:57:27.903659+05:30*
+*Index generated on 2026-07-26T09:41:19.910944+05:30*

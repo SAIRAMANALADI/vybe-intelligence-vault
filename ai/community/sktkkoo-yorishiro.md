@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:sktkkoo/yorishiro
 first_seen: '2026-07-26T03:40:25.618441+05:30'
 last_seen: '2026-07-26T03:40:25.618441+05:30'
 last_checked: '2026-07-26T03:40:25.618441+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Yorishiro – a macOS terminal where AI agents live
 

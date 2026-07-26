@@ -2257,7 +2257,6 @@ Resources organized by keyword tags.
   - [Shift & Drift: A Zero-Shot Benchmark for Generalizable and Robust Autonomous Driving Motion Planning](../ai/rag/arxiv-2607-07844.md)
   - [ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](../ai/agents/arxiv-2606-31693.md)
   - [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](../ai/agents/arxiv-2605-22142.md)
-  - [Show HN: Yorishiro – a macOS terminal where AI agents live](../ai/community/sktkkoo-yorishiro.md)
   - [Shutdownable Agents through POST-Agency](../ai/agents/arxiv-2505-20203.md)
   - [Siamese Neural Network for Label-Efficient Critical Phenomena Prediction in 3D Percolation Models](../ai/agents/arxiv-2507-14159.md)
   - [Signed Compression Progress on a Sealed Audit is Goodhart-Resistant](../ai/agents/arxiv-2606-11417.md)
@@ -3131,10 +3130,12 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [A 77-year-old Republican man is staging a solo protest against Flock cameras](../ai/community/a-77-year-old-republican-man-is-staging-a-solo-pro.md)
+  - [Clinical failure rates over the decades: yikes](../ai/community/clinical-failure-rates-over-the-decades-yikes.md)
+  - [Cloudflare's new AI traffic options for customers](../ai/community/cloudflare-s-new-ai-traffic-options-for-customers.md)
+  - [DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](../ai/community/demo-zexuan-liang-wenfeng-investor-meeting-2026-7-22.md)
   - [Open-weight AI is having its Kubernetes moment](../ai/community/open-weight-ai-is-having-its-kubernetes-moment.md)
+  - [Rethinking Legal Education in the AI Era](../ai/community/rethinking-legal-education-in-the-ai-era.md)
   - [Show HN: Brolly, a plain-text weather forecast site](../ai/community/show-hn-brolly-a-plain-text-weather-forecast-site.md)
-  - [Show HN: Yorishiro – a macOS terminal where AI agents live](../ai/community/sktkkoo-yorishiro.md)
 
 ## animation
 
@@ -3576,6 +3577,7 @@ Resources organized by keyword tags.
   - [HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation](../ai/research/hypergraphrag-retrieval-augmented-generation-via-h.md)
   - [Improving large language model applications in biomedicine with retrieval-augmented generation: a systematic review, meta-analysis, and clinical development guidelines](../ai/research/improving-large-language-model-applications-in-bio.md)
   - [LightRAG: Simple and Fast Retrieval-Augmented Generation](../ai/research/lightrag-simple-and-fast-retrieval-augmented-gener.md)
+  - [MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems](../ai/research/mtrag-a-multi-turn-conversational-benchmark-for-ev.md)
   - [MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot](../ai/research/medrag-enhancing-retrieval-augmented-generation-wi.md)
   - [MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop Queries](../ai/research/multihop-rag-benchmarking-retrieval-augmented-gene.md)
   - [PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models](../ai/research/poisonedrag-knowledge-corruption-attacks-to-retrie.md)
@@ -3587,7 +3589,6 @@ Resources organized by keyword tags.
   - [VDocRAG: Retrieval-Augmented Generation over Visually-Rich Documents](../ai/research/vdocrag-retrieval-augmented-generation-over-visual.md)
   - [ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents](../ai/research/vidorag-visual-document-retrieval-augmented-genera.md)
   - [VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos](../ai/research/videorag-retrieval-augmented-generation-with-extre.md)
-  - [mtRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems](../ai/research/mtrag-a-multi-turn-conversational-benchmark-for-ev.md)
 
 ## benchmark
 
@@ -5941,6 +5942,7 @@ Resources organized by keyword tags.
   - [MSRNet: A Multi-Scale Recursive Network for Camouflaged Object Detection](../ai/rag/arxiv-2511-12810.md)
   - [MTEB-BR: A Text Embedding Benchmark for Brazilian Portuguese](../ai/rag/arxiv-2607-04581.md)
   - [MTEB: Massive Text Embedding Benchmark](../ai/models/huggingface-blog-mteb.md)
+  - [MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems](../ai/research/mtrag-a-multi-turn-conversational-benchmark-for-ev.md)
   - [MUGEN: Evaluating and Improving Multi-audio Understanding of Large Audio-Language Models](../ai/research/arxiv-2603-09714.md)
   - [MUNI: Multimodal Unified Latent Diffusion for Coherent Any-to-Any Generation](../ai/rag/arxiv-2606-16408.md)
   - [MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation](../ai/agents/arxiv-2605-27366.md)
@@ -7912,7 +7914,6 @@ Resources organized by keyword tags.
   - [mozilla-ai/any-agent](../ai/agents/mozilla-ai-any-agent.md)
   - [msPCA: An R Package for Sparse PCA with Multiple Components](../ai/research/arxiv-2607-05229.md)
   - [msoedov/agentic_security](../ai/agents/msoedov-agentic-security.md)
-  - [mtRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems](../ai/research/mtrag-a-multi-turn-conversational-benchmark-for-ev.md)
   - [naver/bergen](../ai/rag/naver-bergen.md)
   - [nottelabs/open-operator-evals](../ai/agents/nottelabs-open-operator-evals.md)
   - [nvidia / llama-3.2-nv-embedqa-1b-v2](../ai/rag/nvidia-llama-3-2-nv-embedqa-1b-v2.md)
@@ -9864,6 +9865,7 @@ Resources organized by keyword tags.
   - [Parameter-Efficient Adapter Tuning for Tabular-Image Multimodal Learning](../ai/research/arxiv-2606-11682.md)
   - [Parameter-Efficient Vision-Language Adaptation with Continuous Metadata Conditioning for Animal Re-Identification](../ai/research/arxiv-2607-09443.md)
   - [ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](../ai/research/arxiv-2606-04468.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pathways of Visual Information Flow in Vision-Language Models](../ai/research/arxiv-2607-03358.md)
   - [Pattern-Aware Graph Neural Networks for Handling Missing Data](../ai/rag/arxiv-2607-08915.md)
   - [Pediatric Bone Age Prediction Using Deep Learning](../ai/research/arxiv-2607-16936.md)
@@ -11361,6 +11363,7 @@ Resources organized by keyword tags.
   - [HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation](../ai/research/hypergraphrag-retrieval-augmented-generation-via-h.md)
   - [Improving large language model applications in biomedicine with retrieval-augmented generation: a systematic review, meta-analysis, and clinical development guidelines](../ai/research/improving-large-language-model-applications-in-bio.md)
   - [LightRAG: Simple and Fast Retrieval-Augmented Generation](../ai/research/lightrag-simple-and-fast-retrieval-augmented-gener.md)
+  - [MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems](../ai/research/mtrag-a-multi-turn-conversational-benchmark-for-ev.md)
   - [MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot](../ai/research/medrag-enhancing-retrieval-augmented-generation-wi.md)
   - [MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop Queries](../ai/research/multihop-rag-benchmarking-retrieval-augmented-gene.md)
   - [PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models](../ai/research/poisonedrag-knowledge-corruption-attacks-to-retrie.md)
@@ -11372,7 +11375,6 @@ Resources organized by keyword tags.
   - [VDocRAG: Retrieval-Augmented Generation over Visually-Rich Documents](../ai/research/vdocrag-retrieval-augmented-generation-over-visual.md)
   - [ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents](../ai/research/vidorag-visual-document-retrieval-augmented-genera.md)
   - [VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos](../ai/research/videorag-retrieval-augmented-generation-with-extre.md)
-  - [mtRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems](../ai/research/mtrag-a-multi-turn-conversational-benchmark-for-ev.md)
 
 ## github-release
 
@@ -12051,7 +12053,6 @@ Resources organized by keyword tags.
   - [40th General Assembly of the European Seismological Commission - ESC 2026](../ai/resources/40th-general-assembly-of-the-european-seismologica.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
   - [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)
-  - [A 77-year-old Republican man is staging a solo protest against Flock cameras](../ai/community/a-77-year-old-republican-man-is-staging-a-solo-pro.md)
   - [A CEFR-Inspired Classification Framework with Fuzzy C-Means To Automate Assessment of Programming Skills in Scratch](../ai/research/arxiv-2604-00730.md)
   - [A Comparative Analysis of Machine Learning Models for Long and Short-Term Forecasting of the Egyptian Stock Market: A Focus on EGX30](../ai/research/arxiv-2607-14391.md)
   - [A Complete Symmetry Classification of Shallow ReLU Networks](../ai/research/arxiv-2604-14037.md)
@@ -12415,6 +12416,7 @@ Resources organized by keyword tags.
   - [Chunking Strategies for LLM Applications | Pinecone](../ai/rag/chunking-strategies-for-llm-applications-pinecone.md)
   - [Classifier Chain-based Pathological Test Recommendation](../ai/research/arxiv-2607-08299.md)
   - [Claude Code for VS Code - Visual Studio Marketplace](../ai/agents/claude-code-for-vs-code-visual-studio-marketplace.md)
+  - [Clinical failure rates over the decades: yikes](../ai/community/clinical-failure-rates-over-the-decades-yikes.md)
   - [Closing the AI Trust Gap: The Case for Independent Certification for Trustworthy AI](../ai/research/arxiv-2607-15992.md)
   - [Cloud Data Processing Addendum | Google Cloud](../ai/rag/cloud-data-processing-addendum-google-cloud.md)
   - [Cloud Native Computing Foundation](../ai/rag/cloud-native-computing-foundation.md)
@@ -12425,6 +12427,7 @@ Resources organized by keyword tags.
   - [Cloudflare Research](../ai/rag/cloudflare-research.md)
   - [Cloudflare Status](../ai/rag/cloudflare-status.md)
   - [Cloudflare's Privacy Policy | Cloudflare](../ai/rag/cloudflare-s-privacy-policy-cloudflare.md)
+  - [Cloudflare's new AI traffic options for customers](../ai/community/cloudflare-s-new-ai-traffic-options-for-customers.md)
   - [Co-occurring associated retained concepts in Diffusion Unlearning](../ai/rag/arxiv-2606-24192.md)
   - [CoGen3D: An Agentic Human-AI Co-Design Pipeline for 3D Asset Generation for Virtual Reality](../ai/agents/arxiv-2607-03731.md)
   - [CoVar: Confidence-Variance-Guided Pseudo-Label Selection for Semi-Supervised Learning](../ai/research/arxiv-2601-11670.md)
@@ -12535,6 +12538,7 @@ Resources organized by keyword tags.
   - [Deep Learning Approaches for 3D Medical Scene Completion: From Geometric Modeling to Generative Paradigms](../ai/agents/arxiv-2606-24180.md)
   - [Deep Research | Firecrawl](../ai/agents/deep-research-firecrawl.md)
   - [DeepJEB++: Foundation Model-Driven Large-Scale 3D Engineering Dataset via 2D Latent Space Augmentation](../ai/research/arxiv-2606-12994.md)
+  - [DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](../ai/community/demo-zexuan-liang-wenfeng-investor-meeting-2026-7-22.md)
   - [Defense Technical Information Center](../ai/resources/defense-technical-information-center.md)
   - [Define American | Home](../ai/rag/define-american-home.md)
   - [Definitional alignment before capability alignment: a Design-Science framework for adjudicating claims about AGI](../ai/research/arxiv-2606-12713.md)
@@ -13054,6 +13058,7 @@ Resources organized by keyword tags.
   - [LFM: Leveraging Foundation Models for Source-Free Universal Domain Adaptation](../ai/rag/arxiv-2607-17653.md)
   - [LLM Evolution as an Industry-Scale Ecosystem: A Lifecycle Perspective on Continual Learning](../ai/research/arxiv-2606-24901.md)
   - [LLM Powered Autonomous Agents | Lil'Log](../ai/rag/llm-powered-autonomous-agents-lil-log.md)
+  - [LLM Usage in Debian: Three Proposals](../ai/community/llm-usage-in-debian-three-proposals.md)
   - [LLM for EDA in Front-End Design: Challenges and Opportunities](../ai/rag/arxiv-2607-09616.md)
   - [LLM-Based Test Oracles: Source-of-Authority Taxonomy -- A Systematic Literature Review](../ai/research/arxiv-2607-05031.md)
   - [LLM-Driven Neural Network Generation with Same-Family Architecture Guidance: Disentangling Transfer and Adaptation](../ai/research/arxiv-2607-05704.md)
@@ -13523,6 +13528,7 @@ Resources organized by keyword tags.
   - [Rethinking Depth Pruning for Vision Transformers: A Heterogeneity-Aware Perspective](../ai/research/arxiv-2607-03784.md)
   - [Rethinking Groups in Critic-Free RLVR](../ai/agents/arxiv-2606-17250.md)
   - [Rethinking Indic AI from a Lens of Cultural Heritage Preservation](../ai/research/arxiv-2607-06544.md)
+  - [Rethinking Legal Education in the AI Era](../ai/community/rethinking-legal-education-in-the-ai-era.md)
   - [Retrieval is Enough: Training-Free Interpretability with a Tool-Using Agent](../ai/rag/arxiv-2607-16448.md)
   - [Retrieval of Scientific and Technological Resources for Experts and Scholars](../ai/research/arxiv-2204-06142.md)
   - [Retrieval-Augmented Generation (RAG) - DSPy](../ai/rag/retrieval-augmented-generation-rag-dspy.md)
@@ -13549,6 +13555,7 @@ Resources organized by keyword tags.
   - [Routing | Docusaurus](../ai/rag/routing-docusaurus.md)
   - [RuBench: A Repository-Level Agentic Coding Benchmark with Natively Authored Russian Task Specifications](../ai/agents/arxiv-2607-06411.md)
   - [Run Payments with Stripe | Firebase Extensions Hub](../ai/rag/run-payments-with-stripe-firebase-extensions-hub.md)
+  - [Running a 28.9M parameter LLM on an $8 microcontroller](../ai/community/slvdev-esp32-ai.md)
   - [Running hardware-aware neural architecture search on embedded devices under 512MB of RAM](../ai/research/arxiv-2606-14824.md)
   - [Russia-Ukraine Disinformation Tracking Center - NewsGuard](../ai/rag/russia-ukraine-disinformation-tracking-center-news.md)
   - [Russian Propaganda Infects AI Chatbots - CEPA](../ai/rag/russian-propaganda-infects-ai-chatbots-cepa.md)
@@ -13629,7 +13636,6 @@ Resources organized by keyword tags.
   - [Sexualised synthetic personas encode and amplify gendered power asymmetries through voice](../ai/research/arxiv-2606-21366.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
   - [Show HN: Brolly, a plain-text weather forecast site](../ai/community/show-hn-brolly-a-plain-text-weather-forecast-site.md)
-  - [Show HN: Yorishiro – a macOS terminal where AI agents live](../ai/community/sktkkoo-yorishiro.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Sign in to GitHub · GitHub](../ai/resources/langchain-ai-docs.md)
@@ -14653,6 +14659,11 @@ Resources organized by keyword tags.
   - [open-llm-leaderboard/open_llm_leaderboard](../ai/models/huggingface-spaces-open-llm-leaderboard.md)
   - [prometheus-eval/BiGGen-Bench at main · prometheus-eval/prometheus-eval · GitHub](../ai/rag/prometheus-eval-prometheus-eval.md)
   - [prometheus-eval/BiGGen-Bench · Datasets at Hugging Face](../ai/rag/huggingface-datasets-prometheus-eval.md)
+
+## llm
+
+  - [LLM Usage in Debian: Three Proposals](../ai/community/llm-usage-in-debian-three-proposals.md)
+  - [Running a 28.9M parameter LLM on an $8 microcontroller](../ai/community/slvdev-esp32-ai.md)
 
 ## mdx
 
@@ -16698,6 +16709,7 @@ Resources organized by keyword tags.
   - [Parametric Memory Decoding for Zero-Shot Routing in LoRA-Based External Parametric Memory](../ai/research/arxiv-2607-04118.md)
   - [Parthenon Law: A Self-Evolving Legal-Agent Framework](../ai/agents/arxiv-2606-04602.md)
   - [Partial Fusion of Neural Networks: Efficient Tradeoffs Between Ensembles and Weight Aggregation](../ai/research/arxiv-2605-22350.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pass@K Policy Optimization: Solving Harder Reinforcement Learning Problems](../ai/research/arxiv-2505-15201.md)
   - [Patcher: Post-Hoc Patching of Backdoored Large Language Models](../ai/research/arxiv-2606-02995.md)
   - [PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](../ai/agents/arxiv-2607-19261.md)
@@ -19281,6 +19293,7 @@ Resources organized by keyword tags.
   - [MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models](../ai/research/mme-a-comprehensive-evaluation-benchmark-for-multi.md)
   - [MMGraphRAG: Bridging Vision and Language with Interpretable Multimodal Knowledge Graphs](../ai/rag/arxiv-2507-20804.md)
   - [MPSelectTune: Prompt-type Selection for Fine-tuning improves Concept Unlearning in LLMs](../ai/rag/arxiv-2607-03932.md)
+  - [MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems](../ai/research/mtrag-a-multi-turn-conversational-benchmark-for-ev.md)
   - [MUFFLe: Efficient Model Update Compression via Generalized Deduplication for Federated Learning](../ai/research/arxiv-2606-14354.md)
   - [MVMGNN;Multi-View Masked Graph Neural Network for Alzheimer's Disease Diagnosis using Structural MRI](../ai/research/arxiv-2607-09788.md)
   - [Machine Learning Glossary | Google for Developers](../ai/rag/machine-learning-glossary-google-for-developers.md)
@@ -20275,7 +20288,6 @@ Resources organized by keyword tags.
   - [lttemplates - Templates in ltx-talk - TeX - LaTeX Stack Exchange](../ai/agents/lttemplates-templates-in-ltx-talk-tex-latex-stack.md)
   - [martiansideofthemoon/rankgen](../ai/resources/martiansideofthemoon-rankgen.md)
   - [modelDNA: Calibrated Lineage Verification and Merge Decomposition from Sampled Weight Fingerprints](../ai/research/arxiv-2607-10617.md)
-  - [mtRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems](../ai/research/mtrag-a-multi-turn-conversational-benchmark-for-ev.md)
   - [nvidia / nvidia-nemotron-nano-9b-v2](../ai/rag/nvidia-nvidia-nemotron-nano-9b-v2.md)
   - [onejune2018/Awesome-LLM-Eval](../ai/rag/onejune2018-awesome-llm-eval.md)
   - [p-PSO: A Penalized Particle Swarm Optimization Technique for Finding D-Optimal Designs with Mixed Factors in Generalized Linear Models](../ai/research/arxiv-2606-15962.md)
@@ -23103,6 +23115,7 @@ Resources organized by keyword tags.
   - [MPSelectTune: Prompt-type Selection for Fine-tuning improves Concept Unlearning in LLMs](../ai/rag/arxiv-2607-03932.md)
   - [MSRNet: A Multi-Scale Recursive Network for Camouflaged Object Detection](../ai/rag/arxiv-2511-12810.md)
   - [MTEB-BR: A Text Embedding Benchmark for Brazilian Portuguese](../ai/rag/arxiv-2607-04581.md)
+  - [MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems](../ai/research/mtrag-a-multi-turn-conversational-benchmark-for-ev.md)
   - [MUNI: Multimodal Unified Latent Diffusion for Coherent Any-to-Any Generation](../ai/rag/arxiv-2606-16408.md)
   - [MVEB: Massive Video Embedding Benchmark](../ai/rag/arxiv-2606-14958.md)
   - [MXSens: Sensitivity-Aware Mixed-Precision Quantization for Efficient LLM Inference](../ai/rag/arxiv-2607-17733.md)
@@ -24986,7 +24999,6 @@ Resources organized by keyword tags.
   - [modular/modular](../ai/rag/modular-modular.md)
   - [monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1](../ai/rag/monday-service-langsmith-building-a-code-first-eva.md)
   - [mongodb · GitHub](../ai/rag/mongodb-github.md)
-  - [mtRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems](../ai/research/mtrag-a-multi-turn-conversational-benchmark-for-ev.md)
   - [muesli/smartcrop](../ai/rag/muesli-smartcrop.md)
   - [nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding](../ai/rag/arxiv-2606-12146.md)
   - [natemoo-re/astro-icon](../ai/rag/natemoo-re-astro-icon.md)
@@ -25380,6 +25392,7 @@ Resources organized by keyword tags.
   - [Decision-Aware Memory Cards: Counterfactual-Inspired Context Selection and Compression for Tool-Using LLM Agents](../ai/agents/arxiv-2606-08151.md)
   - [DeckardGer/tanstack-agent-skills](../ai/rag/deckardger-tanstack-agent-skills.md)
   - [Decodable but Not Detectable: A Leakage Fingerprint for Near-OOD Benchmarks](../ai/research/arxiv-2607-19393.md)
+  - [DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](../ai/community/demo-zexuan-liang-wenfeng-investor-meeting-2026-7-22.md)
   - [Define American | Home](../ai/rag/define-american-home.md)
   - [Delete your activity - Computer - Google Account Help](../ai/rag/delete-your-activity-computer-google-account-help.md)
   - [Delete, allow, and manage cookies in Chrome - Computer - Google Chrome Help](../ai/rag/delete-allow-and-manage-cookies-in-chrome-computer.md)
@@ -26346,6 +26359,7 @@ Resources organized by keyword tags.
   - [HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation](../ai/research/hypergraphrag-retrieval-augmented-generation-via-h.md)
   - [Improving large language model applications in biomedicine with retrieval-augmented generation: a systematic review, meta-analysis, and clinical development guidelines](../ai/research/improving-large-language-model-applications-in-bio.md)
   - [LightRAG: Simple and Fast Retrieval-Augmented Generation](../ai/research/lightrag-simple-and-fast-retrieval-augmented-gener.md)
+  - [MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems](../ai/research/mtrag-a-multi-turn-conversational-benchmark-for-ev.md)
   - [MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot](../ai/research/medrag-enhancing-retrieval-augmented-generation-wi.md)
   - [MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop Queries](../ai/research/multihop-rag-benchmarking-retrieval-augmented-gene.md)
   - [PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models](../ai/research/poisonedrag-knowledge-corruption-attacks-to-retrie.md)
@@ -26357,7 +26371,6 @@ Resources organized by keyword tags.
   - [VDocRAG: Retrieval-Augmented Generation over Visually-Rich Documents](../ai/research/vdocrag-retrieval-augmented-generation-over-visual.md)
   - [ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents](../ai/research/vidorag-visual-document-retrieval-augmented-genera.md)
   - [VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos](../ai/research/videorag-retrieval-augmented-generation-with-extre.md)
-  - [mtRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems](../ai/research/mtrag-a-multi-turn-conversational-benchmark-for-ev.md)
 
 ## rust
 
@@ -26597,6 +26610,7 @@ Resources organized by keyword tags.
   - [Lmod: A New Environment Module System — Lmod 9.2.4 documentation](../ai/resources/lmod-a-new-environment-module-system-lmod-9-2-4-do.md)
   - [Log In - Stack Apps](../ai/resources/log-in-stack-apps.md)
   - [MINIF2F-DAFNY: LLM-Guided Mathematical Theorem Proving via Auto-Active Verification](../ai/research/arxiv-2512-10187.md)
+  - [MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems](../ai/research/mtrag-a-multi-turn-conversational-benchmark-for-ev.md)
   - [Machine Learning Glossary | Google for Developers](../ai/rag/machine-learning-glossary-google-for-developers.md)
   - [Make WordPress.tv – WordPress.tv team, moderating videos and improving the site](../ai/rag/make-wordpress-tv-wordpress-tv-team-moderating-vid.md)
   - [Making sure you're not a bot!](../ai/resources/making-sure-you-re-not-a-bot.md)
@@ -26810,7 +26824,6 @@ Resources organized by keyword tags.
   - [mergisi/awesome-openclaw-agents](../ai/agents/mergisi-awesome-openclaw-agents.md)
   - [mixedbread-ai/skills](../ai/rag/mixedbread-ai-skills.md)
   - [msitarzewski/agency-agents](../ai/agents/msitarzewski-agency-agents.md)
-  - [mtRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems](../ai/research/mtrag-a-multi-turn-conversational-benchmark-for-ev.md)
   - [mvanhorn/clawdbot-skill-manus](../ai/agents/mvanhorn-clawdbot-skill-manus.md)
   - [nickscamara/open-deep-research](../ai/rag/nickscamara-open-deep-research.md)
   - [nottelabs/open-operator-evals](../ai/agents/nottelabs-open-operator-evals.md)
@@ -26881,6 +26894,7 @@ Resources organized by keyword tags.
   - [LightRAG: Simple and Fast Retrieval-Augmented Generation](../ai/research/lightrag-simple-and-fast-retrieval-augmented-gener.md)
   - [MLR-Copilot: Autonomous Machine Learning Research based on Large Language Models Agents](../ai/research/mlr-copilot-autonomous-machine-learning-research-b.md)
   - [MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models](../ai/research/mme-a-comprehensive-evaluation-benchmark-for-multi.md)
+  - [MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems](../ai/research/mtrag-a-multi-turn-conversational-benchmark-for-ev.md)
   - [MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot](../ai/research/medrag-enhancing-retrieval-augmented-generation-wi.md)
   - [MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop Queries](../ai/research/multihop-rag-benchmarking-retrieval-augmented-gene.md)
   - [Neural network (machine learning) - Wikipedia](../ai/rag/neural-network-machine-learning-wikipedia.md)
@@ -26945,7 +26959,6 @@ Resources organized by keyword tags.
   - [[2512.05411] A Systematic Framework for Enterprise Knowledge Retrieval: Leveraging LLM-Generated Metadata to Enhance RAG](../ai/rag/arxiv-2512-05411.md)
   - [[2605.13880] PREPING: Building Agent Memory without Tasks](../ai/rag/arxiv-2605-13880.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
-  - [mtRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems](../ai/research/mtrag-a-multi-turn-conversational-benchmark-for-ev.md)
 
 ## shell
 
@@ -32142,4 +32155,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-26T03:57:27.753317+05:30*
+*Index generated on 2026-07-26T09:41:19.793961+05:30*
