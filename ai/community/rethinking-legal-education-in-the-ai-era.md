@@ -13,13 +13,14 @@ collected_at: '2026-07-26T19:26:08.542794+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:rethinking-legal-education-in-the-ai-era
 first_seen: '2026-07-26T09:24:41.646096+05:30'
 last_seen: '2026-07-26T19:26:08.542794+05:30'
 last_checked: '2026-07-26T19:26:08.542794+05:30'
 health_score: 100
 ---
+
 
 # Rethinking Legal Education in the AI Era
 

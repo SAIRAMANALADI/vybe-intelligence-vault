@@ -17336,11 +17336,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `rag`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <http://docs.pinecone.io/integrations/claude-code>
 
-* **[Clinical failure rates over the decades: yikes](ai/community/clinical-failure-rates-over-the-decades-yikes.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by EA-3167. Score: 115, Comments: 103. Original Link: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://science.org/content/blog-post/clinical-failure-rates-over-decades-yikes>
-
 * **[Closed-loop discovery of out-of-distribution processing protocols by evolutionary search and uncertainty-aware learning](ai/research/arxiv-2606-13859.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.13859v1 Announce Type: cross Abstract: Many materials and chemical systems exhibit history-dependent responses, where functional outcomes are governed not only by final-state variables but by the time-dependent sequence of fields, temperat
   * Tags: `workflows`
@@ -17367,7 +17362,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.cloudflarestatus.com>
 
 * **[Cloudflare's new AI traffic options for customers](ai/community/cloudflare-s-new-ai-traffic-options-for-customers.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by alphabetatango. Score: 147, Comments: 127. Original Link: https://blog.cloudflare.com/content-independence-day-ai-options/
+  * Summary: Hacker News story by alphabetatango. Score: 163, Comments: 133. Original Link: https://blog.cloudflare.com/content-independence-day-ai-options/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://blog.cloudflare.com/content-independence-day-ai-options>
 
@@ -17562,7 +17557,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://docs.langchain.com/oss/python/deepagents>
 
 * **[DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](ai/community/demo-zexuan-liang-wenfeng-investor-meeting-2026-7-22.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by oliculipolicula. Score: 196, Comments: 152. Original Link: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%
+  * Summary: Hacker News story by oliculipolicula. Score: 213, Comments: 173. Original Link: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%
   * Tags: `ai`, `hackernews`, `reddit`
   * Source URL: <https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22>
 
@@ -18202,7 +18197,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.19362>
 
 * **[GrapheneOS protections against data extraction from locked devices](ai/community/grapheneos-protections-against-data-extraction-fro.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Cider9986. Score: 190, Comments: 110. Original Link: https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices
+  * Summary: Hacker News story by Cider9986. Score: 259, Comments: 130. Original Link: https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices
   * Tags: `ai`, `hackernews`
   * Source URL: <https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices>
 
@@ -18706,11 +18701,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://lilianweng.github.io/posts/2023-06-23-agent/#case-studies>
 
-* **[LLM Usage in Debian: Three Proposals](ai/community/llm-usage-in-debian-three-proposals.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by zdw. Score: 186, Comments: 161. Original Link: https://www.debian.org/vote/2026/vote_002
-  * Tags: `hackernews`, `llm`
-  * Source URL: <https://debian.org/vote/2026/vote_002>
-
 * **[LLM-as-Judge in Education: A Curriculum-Grounded Marking Pipeline](ai/research/arxiv-2606-17507.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.17507v1 Announce Type: new Abstract: Generative AI and large language models (LLMs) are increasingly applied to question generation and automated assessment. However, deploying LLMs in preparation for high-stakes exams requires more than p
   * Tags: `benchmark`, `paper`, `workflows`
@@ -19066,6 +19056,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://hackage.haskell.org/package/pandoc>
 
+* **[Park by Robot at London Gatwick Airport](ai/community/park-by-robot-at-london-gatwick-airport.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by agotterer. Score: 79, Comments: 36. Original Link: https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics>
+
 * **[PatchOptic for Shared-State LLM Workflows with Projected Views and Verified Structured Updates](ai/rag/arxiv-2607-05483.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.05483v1 Announce Type: new Abstract: Agentic workflows often operate over shared, structured state. Because LLM context windows are limited, each model invocation is typically shown only the state fragment needed for the current workflow s
   * Tags: `agents`, `benchmark`, `rag`, `workflows`
@@ -19376,11 +19371,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `deepmind`, `models`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://research.google/resources/#open-source-3>
 
-* **[Rethinking Legal Education in the AI Era](ai/community/rethinking-legal-education-in-the-ai-era.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by jjwiseman. Score: 106, Comments: 58. Original Link: https://www.law.uchicago.edu/news/ai-strategy-statement
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://law.uchicago.edu/news/ai-strategy-statement>
-
 * **[Retrieval-Augmented Generation (RAG) Tutorial: Architecture, Implementation, and Production Guide - Rost Glukhov | Perso](ai/rag/retrieval-augmented-generation-rag-tutorial-archit.md)** (`framework` | `useful` tier)
   * Summary: - **RAG Pipeline Architecture**: Combines retrieval (vector/hybrid search, metadata filtering) and generation (LLM prompt augmentation) with optional reranking, query rewriting, and web search integration for dynamic knowledge augmentation. - **Inges
   * Tags: `benchmark`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`
@@ -19447,7 +19437,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/run-llama/LlamaIndexTS>
 
 * **[Running a 28.9M parameter LLM on an $8 microcontroller](ai/community/slvdev-esp32-ai.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by boveyking. Score: 232, Comments: 57. Original Link: https://github.com/slvDev/esp32-ai
+  * Summary: Hacker News story by boveyking. Score: 256, Comments: 65. Original Link: https://github.com/slvDev/esp32-ai
   * Tags: `hackernews`, `llm`
   * Source URL: <https://github.com/slvdev/esp32-ai>
 
@@ -19769,6 +19759,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Core Kernel Documentation Structure**: Organized into development processes, internal APIs (Core, Driver, Subsystems, Locking), user-oriented guides (Admin, Build, Userspace), firmware/devicetree specs, and architecture-specific docs (x86, ARM, R
   * Tags: `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://docs.kernel.org/>
+
+* **[The New AI Superpowers: Focus and Followthrough](ai/community/the-new-ai-superpowers-focus-and-followthrough.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by mooreds. Score: 23, Comments: 6. Original Link: https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://rickmanelius.com/p/the-new-ai-superpowers-focus-and>
 
 * **[The Remarkable Effectiveness of Providing AI Agents with Natural Language Tools: A Replication Study Validating NLT Performance Across 14 Models](ai/rag/arxiv-2607-03953.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.03953v1 Announce Type: cross Abstract: This study independently replicates and extends the Natural Language Tools (NLT) framework of Johnson et al.~(2025), which questions the use of structured tool calling in large language model (LLM) ag
@@ -20096,7 +20091,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.docker.com/resources/what-container>
 
 * **[What is happening to jobs? Separating AI hype from reality](ai/community/what-is-happening-to-jobs-separating-ai-hype-from.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by pod_krad. Score: 144, Comments: 199. Original Link: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality
+  * Summary: Hacker News story by pod_krad. Score: 186, Comments: 256. Original Link: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality
   * Tags: `ai`, `hackernews`
   * Source URL: <https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality>
 
@@ -75513,7 +75508,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.18254>
 
 * **[cross-encoder/ms-marco-MiniLM-L6-v2](ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: cross-encoder/ms-marco-MiniLM-L6-v2 (Likes: 290, Downloads: 87520957)
+  * Summary: Trending Hugging Face model: cross-encoder/ms-marco-MiniLM-L6-v2 (Likes: 291, Downloads: 87520957)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`, `reddit`
   * Source URL: <https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2>
 
@@ -93184,7 +93179,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5125, Downloads: 253380060)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5126, Downloads: 253380060)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -100253,11 +100248,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`
   * Source URL: <https://nextjs.org/blog/styling-next-with-styled-jsx>
 
-* **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`benchmark` | `useful` tier)
-  * Summary: * Python-based Retrieval-Augmented Generation (RAG) system. * Enables conversational querying of downloaded GitHub repository content. * Provides practical interaction with codebase documentation and structure via chat interface.
-  * Tags: `github-repo`, `python`, `rag`
-  * Source URL: <https://github.com/SylphAI-Inc/GithubChat>
-
 * **[Talking to Your Data: Exploring Embodied Conversation as an Interface for Personal Health Reflection](ai/agents/arxiv-2606-17767.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.17767v1 Announce Type: cross Abstract: Personal health data from wearables are typically presented through dashboards of charts and summary statistics, requiring users to actively interpret patterns and implications. We explore an alternat
   * Tags: `agents`, `benchmark`, `dataset`, `models`, `paper`
@@ -104007,7 +103997,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/GenAIOps-project-template>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3267, Downloads: 35352623)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3269, Downloads: 35352623)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
@@ -105442,7 +105432,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2512.01317>
 
 * **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: * Comprehensive full-stack guide to Retrieval-Augmented Generation (RAG)
+  * Summary: * Provides a full-stack, practical guide to Retrieval-Augmented Generation (RAG
   * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -105451,8 +105441,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`benchmark` | `useful` tier)
-  * Summary: * Provides an LLM application development tutorial. * Focuses on LangChain and Retrieval
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
+  * Summary: * LLM application development curriculum targeting novice practitioners. * Focuses on LangChain framework integration and RAG system implementation. * Content delivered through executable Jupyter Notebooks.
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -111482,7 +111472,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://superml.org/tutorials/rag-beginner>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll-based static site source for `raganwald.com`. * Primarily HTML codebase, indicating front-end content generation. * Exhibits 60 forks and 30 stars, with a last update timestamp of `2026-07-08T15:07:5
+  * Summary: * Jekyll source repository for `raganwald.com`. * Primary language identified
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
@@ -113265,6 +113255,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.16617v1 Announce Type: cross Abstract: Sycophancy in LLMs is documented across 70+ papers, but expert agreement on construct boundaries remains low (ICC=.184; Ye et al., 2026). The construct fragments because behavioral classification depe
   * Tags: `benchmark`, `models`, `openai`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.16617>
+
+* **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`benchmark` | `useful` tier)
+  * Summary: * A Retrieval-Augmented Generation (RAG) system designed for conversational interaction with GitHub repository content. * Enables local download and subsequent RAG-based querying of specified GitHub repositories. * Implemented using Python.
+  * Tags: `github-repo`, `python`, `rag`
+  * Source URL: <https://github.com/SylphAI-Inc/GithubChat>
 
 * **[SylphxAI/pdf-reader-mcp](ai/rag/sylphxai-pdf-reader-mcp.md)** (`mcp-server` | `essential` tier)
   * Summary: 📄 Production-ready MCP server for PDF processing - 5-10x faster with parallel processing and 94%+ test coverage

@@ -3130,11 +3130,11 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Clinical failure rates over the decades: yikes](../ai/community/clinical-failure-rates-over-the-decades-yikes.md)
   - [Cloudflare's new AI traffic options for customers](../ai/community/cloudflare-s-new-ai-traffic-options-for-customers.md)
   - [DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](../ai/community/demo-zexuan-liang-wenfeng-investor-meeting-2026-7-22.md)
   - [GrapheneOS protections against data extraction from locked devices](../ai/community/grapheneos-protections-against-data-extraction-fro.md)
-  - [Rethinking Legal Education in the AI Era](../ai/community/rethinking-legal-education-in-the-ai-era.md)
+  - [Park by Robot at London Gatwick Airport](../ai/community/park-by-robot-at-london-gatwick-airport.md)
+  - [The New AI Superpowers: Focus and Followthrough](../ai/community/the-new-ai-superpowers-focus-and-followthrough.md)
   - [What is happening to jobs? Separating AI hype from reality](../ai/community/what-is-happening-to-jobs-separating-ai-hype-from.md)
 
 ## animation
@@ -12419,7 +12419,6 @@ Resources organized by keyword tags.
   - [Chunking Strategies for LLM Applications | Pinecone](../ai/rag/chunking-strategies-for-llm-applications-pinecone.md)
   - [Classifier Chain-based Pathological Test Recommendation](../ai/research/arxiv-2607-08299.md)
   - [Claude Code for VS Code - Visual Studio Marketplace](../ai/agents/claude-code-for-vs-code-visual-studio-marketplace.md)
-  - [Clinical failure rates over the decades: yikes](../ai/community/clinical-failure-rates-over-the-decades-yikes.md)
   - [Closing the AI Trust Gap: The Case for Independent Certification for Trustworthy AI](../ai/research/arxiv-2607-15992.md)
   - [Cloud Data Processing Addendum | Google Cloud](../ai/rag/cloud-data-processing-addendum-google-cloud.md)
   - [Cloud Native Computing Foundation](../ai/rag/cloud-native-computing-foundation.md)
@@ -13061,7 +13060,6 @@ Resources organized by keyword tags.
   - [LFM: Leveraging Foundation Models for Source-Free Universal Domain Adaptation](../ai/rag/arxiv-2607-17653.md)
   - [LLM Evolution as an Industry-Scale Ecosystem: A Lifecycle Perspective on Continual Learning](../ai/research/arxiv-2606-24901.md)
   - [LLM Powered Autonomous Agents | Lil'Log](../ai/rag/llm-powered-autonomous-agents-lil-log.md)
-  - [LLM Usage in Debian: Three Proposals](../ai/community/llm-usage-in-debian-three-proposals.md)
   - [LLM for EDA in Front-End Design: Challenges and Opportunities](../ai/rag/arxiv-2607-09616.md)
   - [LLM-Based Test Oracles: Source-of-Authority Taxonomy -- A Systematic Literature Review](../ai/research/arxiv-2607-05031.md)
   - [LLM-Driven Neural Network Generation with Same-Family Architecture Guidance: Disentangling Transfer and Adaptation](../ai/research/arxiv-2607-05704.md)
@@ -13340,6 +13338,7 @@ Resources organized by keyword tags.
   - [Panorama: Fast-Track Nearest Neighbors](../ai/rag/arxiv-2510-00566.md)
   - [Parallel Test-Time Scaling with Multi-Sequence Verifiers](../ai/research/arxiv-2603-03417.md)
   - [Parameter-Efficient Continual Fine-Tuning: A Survey](../ai/research/arxiv-2504-13822.md)
+  - [Park by Robot at London Gatwick Airport](../ai/community/park-by-robot-at-london-gatwick-airport.md)
   - [Partial Contracts Suffice: Sound, LLM-Inferred Regression Verification](../ai/research/arxiv-2607-10291.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
   - [Passkeys for Developers](../ai/rag/passkeys-for-developers.md)
@@ -13530,7 +13529,6 @@ Resources organized by keyword tags.
   - [Rethinking Depth Pruning for Vision Transformers: A Heterogeneity-Aware Perspective](../ai/research/arxiv-2607-03784.md)
   - [Rethinking Groups in Critic-Free RLVR](../ai/agents/arxiv-2606-17250.md)
   - [Rethinking Indic AI from a Lens of Cultural Heritage Preservation](../ai/research/arxiv-2607-06544.md)
-  - [Rethinking Legal Education in the AI Era](../ai/community/rethinking-legal-education-in-the-ai-era.md)
   - [Retrieval is Enough: Training-Free Interpretability with a Tool-Using Agent](../ai/rag/arxiv-2607-16448.md)
   - [Retrieval of Scientific and Technological Resources for Experts and Scholars](../ai/research/arxiv-2204-06142.md)
   - [Retrieval-Augmented Generation (RAG) - DSPy](../ai/rag/retrieval-augmented-generation-rag-dspy.md)
@@ -13806,6 +13804,7 @@ Resources organized by keyword tags.
   - [The Integrator Advantage: Controlled Agentic AI for Small and Medium-Sized Companies](../ai/agents/arxiv-2606-16649.md)
   - [The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology](../ai/rag/arxiv-2607-06531.md)
   - [The Method of Gaps: Exact Expressions for the Generalization Error of Supervised Learning Algorithms](../ai/research/arxiv-2411-12030.md)
+  - [The New AI Superpowers: Focus and Followthrough](../ai/community/the-new-ai-superpowers-focus-and-followthrough.md)
   - [The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students](../ai/agents/arxiv-2607-11292.md)
   - [The Power of Light: Improving Synthetic-to-Real Domain Adaptation through Physically-Based Indirect Illumination](../ai/research/arxiv-2606-22574.md)
   - [The Remarkable Effectiveness of Providing AI Agents with Natural Language Tools: A Replication Study Validating NLT Performance Across 14 Models](../ai/rag/arxiv-2607-03953.md)
@@ -14664,7 +14663,6 @@ Resources organized by keyword tags.
 
 ## llm
 
-  - [LLM Usage in Debian: Three Proposals](../ai/community/llm-usage-in-debian-three-proposals.md)
   - [Running a 28.9M parameter LLM on an $8 microcontroller](../ai/community/slvdev-esp32-ai.md)
 
 ## mdx
@@ -32156,4 +32154,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-26T19:43:16.520736+05:30*
+*Index generated on 2026-07-26T22:02:43.546734+05:30*

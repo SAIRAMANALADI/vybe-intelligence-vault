@@ -13,13 +13,14 @@ collected_at: '2026-07-26T19:26:09.480114+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:clinical-failure-rates-over-the-decades-yikes
 first_seen: '2026-07-26T09:24:40.935149+05:30'
 last_seen: '2026-07-26T19:26:09.480114+05:30'
 last_checked: '2026-07-26T19:26:09.480114+05:30'
 health_score: 100
 ---
+
 
 # Clinical failure rates over the decades: yikes
 
