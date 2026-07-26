@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/slvdev/esp32-ai
 hn_url: https://news.ycombinator.com/item?id=49050512
-score: 198
+score: 232
 author: boveyking
-comments_count: 47
+comments_count: 57
 published_at: '2026-07-26T00:29:50+05:30'
-collected_at: '2026-07-26T16:24:57.282591+05:30'
+collected_at: '2026-07-26T19:26:08.655800+05:30'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: github:slvdev/esp32-ai
 first_seen: '2026-07-26T09:24:42.064584+05:30'
-last_seen: '2026-07-26T16:24:57.282591+05:30'
-last_checked: '2026-07-26T16:24:57.282591+05:30'
+last_seen: '2026-07-26T19:26:08.655800+05:30'
+last_checked: '2026-07-26T19:26:08.655800+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by boveyking. Score: 198, Comments: 47.
+Hacker News story by boveyking. Score: 232, Comments: 57.
 Original Link: https://github.com/slvDev/esp32-ai
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: boveyking
-- Score: 198 Upvotes
-- Comments: 47 Discussions
+- Score: 232 Upvotes
+- Comments: 57 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49050512
 - Original Article: https://github.com/slvdev/esp32-ai
 

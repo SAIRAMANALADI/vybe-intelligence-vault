@@ -17337,7 +17337,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <http://docs.pinecone.io/integrations/claude-code>
 
 * **[Clinical failure rates over the decades: yikes](ai/community/clinical-failure-rates-over-the-decades-yikes.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by EA-3167. Score: 106, Comments: 85. Original Link: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes
+  * Summary: Hacker News story by EA-3167. Score: 115, Comments: 103. Original Link: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes
   * Tags: `ai`, `hackernews`
   * Source URL: <https://science.org/content/blog-post/clinical-failure-rates-over-decades-yikes>
 
@@ -17367,7 +17367,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.cloudflarestatus.com>
 
 * **[Cloudflare's new AI traffic options for customers](ai/community/cloudflare-s-new-ai-traffic-options-for-customers.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by alphabetatango. Score: 128, Comments: 102. Original Link: https://blog.cloudflare.com/content-independence-day-ai-options/
+  * Summary: Hacker News story by alphabetatango. Score: 147, Comments: 127. Original Link: https://blog.cloudflare.com/content-independence-day-ai-options/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://blog.cloudflare.com/content-independence-day-ai-options>
 
@@ -17562,7 +17562,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://docs.langchain.com/oss/python/deepagents>
 
 * **[DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](ai/community/demo-zexuan-liang-wenfeng-investor-meeting-2026-7-22.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by oliculipolicula. Score: 161, Comments: 111. Original Link: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%
+  * Summary: Hacker News story by oliculipolicula. Score: 196, Comments: 152. Original Link: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%
   * Tags: `ai`, `hackernews`, `reddit`
   * Source URL: <https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22>
 
@@ -18136,11 +18136,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `workflows`
   * Source URL: <https://arxiv.org/abs/2604.20822>
 
-* **[GM Backs Sodium Ion Batteries for U.S. Grid Storage](ai/community/gm-backs-sodium-ion-batteries-for-u-s-grid-storage.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by rbanffy. Score: 180, Comments: 79. Original Link: https://spectrum.ieee.org/sodium-ion-battery-peak-energy
-  * Tags: `hackernews`, `rag`
-  * Source URL: <https://spectrum.ieee.org/sodium-ion-battery-peak-energy>
-
 * **[GMD - Development and technical paper](ai/rag/gmd-development-and-technical-paper.md)** (`dataset` | `useful` tier)
   * Summary: - **Second-order conservative remapping in spherical coordinates**: Identified a previously unaddressed flaw in the centroid formulation derivation of a pioneer method, which could theoretically impact remapping accuracy but has negligible practical
   * Tags: `anthropic`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `models`, `paper`, `rag`, `web-crawled`, `workflows`, `youtube`
@@ -18207,7 +18202,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.19362>
 
 * **[GrapheneOS protections against data extraction from locked devices](ai/community/grapheneos-protections-against-data-extraction-fro.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Cider9986. Score: 92, Comments: 44. Original Link: https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices
+  * Summary: Hacker News story by Cider9986. Score: 190, Comments: 110. Original Link: https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices
   * Tags: `ai`, `hackernews`
   * Source URL: <https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices>
 
@@ -18712,7 +18707,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://lilianweng.github.io/posts/2023-06-23-agent/#case-studies>
 
 * **[LLM Usage in Debian: Three Proposals](ai/community/llm-usage-in-debian-three-proposals.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by zdw. Score: 165, Comments: 147. Original Link: https://www.debian.org/vote/2026/vote_002
+  * Summary: Hacker News story by zdw. Score: 186, Comments: 161. Original Link: https://www.debian.org/vote/2026/vote_002
   * Tags: `hackernews`, `llm`
   * Source URL: <https://debian.org/vote/2026/vote_002>
 
@@ -19382,7 +19377,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://research.google/resources/#open-source-3>
 
 * **[Rethinking Legal Education in the AI Era](ai/community/rethinking-legal-education-in-the-ai-era.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by jjwiseman. Score: 78, Comments: 45. Original Link: https://www.law.uchicago.edu/news/ai-strategy-statement
+  * Summary: Hacker News story by jjwiseman. Score: 106, Comments: 58. Original Link: https://www.law.uchicago.edu/news/ai-strategy-statement
   * Tags: `ai`, `hackernews`
   * Source URL: <https://law.uchicago.edu/news/ai-strategy-statement>
 
@@ -19452,7 +19447,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/run-llama/LlamaIndexTS>
 
 * **[Running a 28.9M parameter LLM on an $8 microcontroller](ai/community/slvdev-esp32-ai.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by boveyking. Score: 198, Comments: 47. Original Link: https://github.com/slvDev/esp32-ai
+  * Summary: Hacker News story by boveyking. Score: 232, Comments: 57. Original Link: https://github.com/slvDev/esp32-ai
   * Tags: `hackernews`, `llm`
   * Source URL: <https://github.com/slvdev/esp32-ai>
 
@@ -19545,11 +19540,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Modern Sphinx Theme**: Shibuya is a responsive, visually appealing theme for Sphinx documentation, supporting Jupyter extensions like `nbsphinx` for enhanced AI/ML documentation workflows. - **Multi-Mode Customization**: Features light/dark mode
   * Tags: `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://shibuya.lepture.com>
-
-* **[Show HN: Brolly, a plain-text weather forecast site](ai/community/show-hn-brolly-a-plain-text-weather-forecast-site.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by jsax. Score: 197, Comments: 70. Original Link: https://brolly.sh/forecast/RWFP2qW8
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://brolly.sh/forecast/rwfp2qw8>
 
 * **[Signature filtering: a lightweight enhancement for statistical watermark detection in large language models](ai/research/arxiv-2606-18430.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18430v1 Announce Type: new Abstract: Statistical watermarks help organizations attribute large language model (LLM) outputs, yet existing detectors often struggle when watermark signals are weak, texts are repetitive, or watermarks are edi
@@ -20106,7 +20096,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.docker.com/resources/what-container>
 
 * **[What is happening to jobs? Separating AI hype from reality](ai/community/what-is-happening-to-jobs-separating-ai-hype-from.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by pod_krad. Score: 101, Comments: 117. Original Link: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality
+  * Summary: Hacker News story by pod_krad. Score: 144, Comments: 199. Original Link: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality
   * Tags: `ai`, `hackernews`
   * Source URL: <https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality>
 
@@ -90756,7 +90746,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17846>
 
 * **[Qwen/Qwen3-0.6B](ai/models/huggingface-qwen-qwen3-0-6b.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1450, Downloads: 28514419)
+  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1451, Downloads: 28514419)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/qwen/qwen3-0.6b>
 
@@ -104017,7 +104007,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/GenAIOps-project-template>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3266, Downloads: 35352623)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3267, Downloads: 35352623)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
@@ -105451,8 +105441,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2512.01317>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
-  * Summary: * Comprehensive RAG guide detailing LLM application development, leveraging frameworks like LangChain and LlamaIndex for orchestration. * Explores advanced RAG architectures incorporating vector databases (Milvus) and graph databases (Neo4j) for enha
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
+  * Summary: * Comprehensive full-stack guide to Retrieval-Augmented Generation (RAG)
   * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -105461,8 +105451,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tutorial` | `useful` tier)
-  * Summary: * LLM application development tutorial leveraging LangChain and RAG architectures. * Practical
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`benchmark` | `useful` tier)
+  * Summary: * Provides an LLM application development tutorial. * Focuses on LangChain and Retrieval
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 

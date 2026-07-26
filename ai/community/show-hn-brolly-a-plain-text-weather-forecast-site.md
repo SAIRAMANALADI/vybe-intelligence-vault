@@ -13,13 +13,14 @@ collected_at: '2026-07-26T16:24:59.582251+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-brolly-a-plain-text-weather-forecast-site
 first_seen: '2026-07-26T01:04:42.908157+05:30'
 last_seen: '2026-07-26T16:24:59.582251+05:30'
 last_checked: '2026-07-26T16:24:59.582251+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Brolly, a plain-text weather forecast site
 

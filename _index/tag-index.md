@@ -3135,7 +3135,6 @@ Resources organized by keyword tags.
   - [DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](../ai/community/demo-zexuan-liang-wenfeng-investor-meeting-2026-7-22.md)
   - [GrapheneOS protections against data extraction from locked devices](../ai/community/grapheneos-protections-against-data-extraction-fro.md)
   - [Rethinking Legal Education in the AI Era](../ai/community/rethinking-legal-education-in-the-ai-era.md)
-  - [Show HN: Brolly, a plain-text weather forecast site](../ai/community/show-hn-brolly-a-plain-text-weather-forecast-site.md)
   - [What is happening to jobs? Separating AI hype from reality](../ai/community/what-is-happening-to-jobs-separating-ai-hype-from.md)
 
 ## animation
@@ -12751,7 +12750,6 @@ Resources organized by keyword tags.
   - [GEAR | Google Developer Program | Google for Developers](../ai/agents/gear-google-developer-program-google-for-developer.md)
   - [GEO Week News | Lidar, AEC, 3D Technology & Geospatial Insights](../ai/rag/geo-week-news-lidar-aec-3d-technology-geospatial-i.md)
   - [GES-TSP: Graph Edge Sparsification for TSP](../ai/research/arxiv-2607-09708.md)
-  - [GM Backs Sodium Ion Batteries for U.S. Grid Storage](../ai/community/gm-backs-sodium-ion-batteries-for-u-s-grid-storage.md)
   - [GMD - Development and technical paper](../ai/rag/gmd-development-and-technical-paper.md)
   - [GMD - Submission](../ai/rag/gmd-submission.md)
   - [GMD - The need for carbon-emissions-driven climate projections in CMIP7](../ai/rag/gmd-the-need-for-carbon-emissions-driven-climate-p.md)
@@ -13639,7 +13637,6 @@ Resources organized by keyword tags.
   - [Seven Security Challenges in Cross-domain Multi-agent LLM Systems](../ai/agents/arxiv-2505-23847.md)
   - [Sexualised synthetic personas encode and amplify gendered power asymmetries through voice](../ai/research/arxiv-2606-21366.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Brolly, a plain-text weather forecast site](../ai/community/show-hn-brolly-a-plain-text-weather-forecast-site.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Sign in to GitHub · GitHub](../ai/resources/langchain-ai-docs.md)
@@ -22377,7 +22374,6 @@ Resources organized by keyword tags.
   - [GILT: An LLM-Free, Tuning-Free Graph Foundational Model for In-Context Learning](../ai/rag/arxiv-2510-04567.md)
   - [GLACIER: A Multimodal Student-Teacher Foundation Model for Molecular Property Prediction](../ai/rag/arxiv-2606-11382.md)
   - [GLM-5 Serving Parameter Tuning for OpenClaw: Single-Deployment MaaS Inference Optimization for Long-Context Agent Workloads](../ai/rag/arxiv-2607-02518.md)
-  - [GM Backs Sodium Ion Batteries for U.S. Grid Storage](../ai/community/gm-backs-sodium-ion-batteries-for-u-s-grid-storage.md)
   - [GMD - Development and technical paper](../ai/rag/gmd-development-and-technical-paper.md)
   - [GMD - Submission](../ai/rag/gmd-submission.md)
   - [GMD - The need for carbon-emissions-driven climate projections in CMIP7](../ai/rag/gmd-the-need-for-carbon-emissions-driven-climate-p.md)
@@ -32160,4 +32156,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-26T16:42:06.293874+05:30*
+*Index generated on 2026-07-26T19:43:16.520736+05:30*

@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-26T18:53:03.346384+05:30`
+Generated at: `2026-07-26T19:45:41.225573+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,34 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+No new discoveries tracked in this run.
+
 
 ## Top Trending Resources
 
-- **WenyuChiou/awesome-agentic-ai-zh** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md))
-- **TEN-framework/ten-framework** - Score: `0` (0), Rank Change: `+965` ([File](../ai/agents/ten-framework-ten-framework.md))
-- **microsoft/agentsleague** - Score: `0` (0), Rank Change: `+965` ([File](../ai/agents/microsoft-agentsleague.md))
-- **DEEP-PolyU/LinearRAG** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/deep-polyu-linearrag.md))
-- **bakrianoo/mini-rag** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/bakrianoo-mini-rag.md))
-- **zhengxuJosh/Awesome-RAG-Vision** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/zhengxujosh-awesome-rag-vision.md))
-- **Azure-Samples/chat-with-your-data-solution-accelerator** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md))
-- **FudanDNN-NLP/RAG** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/fudandnn-nlp-rag.md))
-- **ajac-zero/example-rag-app** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/ajac-zero-example-rag-app.md))
-- **streamlit/example-app-langchain-rag** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/streamlit-example-app-langchain-rag.md))
+- **GrapheneOS protections against data extraction from locked devices** - Score: `190` (+98), Rank Change: `+6` ([File](../ai/community/grapheneos-protections-against-data-extraction-fro.md))
+- **What is happening to jobs? Separating AI hype from reality** - Score: `144` (+43), Rank Change: `+2` ([File](../ai/community/what-is-happening-to-jobs-separating-ai-hype-from.md))
+- **DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]** - Score: `196` (+35), Rank Change: `+3` ([File](../ai/community/demo-zexuan-liang-wenfeng-investor-meeting-2026-7-22.md))
+- **Running a 28.9M parameter LLM on an $8 microcontroller** - Score: `232` (+34), Rank Change: `0` ([File](../ai/community/slvdev-esp32-ai.md))
+- **Rethinking Legal Education in the AI Era** - Score: `106` (+28), Rank Change: `+2` ([File](../ai/community/rethinking-legal-education-in-the-ai-era.md))
+- **LLM Usage in Debian: Three Proposals** - Score: `186` (+21), Rank Change: `0` ([File](../ai/community/llm-usage-in-debian-three-proposals.md))
+- **Cloudflare's new AI traffic options for customers** - Score: `147` (+19), Rank Change: `+1` ([File](../ai/community/cloudflare-s-new-ai-traffic-options-for-customers.md))
+- **Clinical failure rates over the decades: yikes** - Score: `115` (+9), Rank Change: `0` ([File](../ai/community/clinical-failure-rates-over-the-decades-yikes.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+5` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/datawhalechina-llm-universe.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Medium** - (Rank Change: `+12873`) ([File](../ai/rag/medium-2.md))
-- **infiniflow/ragflow** - (Rank Change: `+12784`) ([File](../ai/rag/infiniflow-ragflow-2.md))
-- **coree/awesome-rag** - (Rank Change: `+966`) ([File](../ai/rag/coree-awesome-rag.md))
-- **vndee/local-assistant-examples** - (Rank Change: `+966`) ([File](../ai/rag/vndee-local-assistant-examples.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - (Rank Change: `+966`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
-- **Test-Input Generation for Tensor Programs: What Actually Finds Kernel Bugs** - (Rank Change: `+966`) ([File](../ai/research/arxiv-2606-27396.md))
-- **Don't Fool Me Twice: Adapting to Adversity in the Wild with Experience-Driven Reasoning** - (Rank Change: `+966`) ([File](../ai/rag/arxiv-2605-31119.md))
-- **SGMD: Score Gradient Matching Distillation for Few-Step Video Diffusion Distillation** - (Rank Change: `+966`) ([File](../ai/research/arxiv-2605-30116.md))
-- **Stability of Low-Rank Implicit Regularization in Perturbed Deep Matrix Factorization** - (Rank Change: `+966`) ([File](../ai/research/arxiv-2605-28613.md))
-- **Q-PhotoNAS: Hybrid Quantum Neural Architecture Search Framework on Photonic Devices** - (Rank Change: `+966`) ([File](../ai/research/arxiv-2605-22097.md))
+- **Wan-AI/Wan2.2-Animate** - (Rank Change: `+833`) ([File](../ai/models/huggingface-spaces-wan-ai.md))
+- **AP123/IllusionDiffusion** - (Rank Change: `+833`) ([File](../ai/models/huggingface-spaces-ap123.md))
+- **dalle-mini/dalle-mini** - (Rank Change: `+833`) ([File](../ai/models/huggingface-spaces-dalle-mini.md))
+- **mteb/leaderboard** - (Rank Change: `+833`) ([File](../ai/models/huggingface-spaces-mteb.md))
+- **black-forest-labs/FLUX.1-dev** - (Rank Change: `+833`) ([File](../ai/models/huggingface-spaces-black-forest-labs.md))
+- **Kwai-Kolors/Kolors-Virtual-Try-On** - (Rank Change: `+833`) ([File](../ai/models/huggingface-spaces-kwai-kolors.md))
+- **jbilcke-hf/ai-comic-factory** - (Rank Change: `+833`) ([File](../ai/models/huggingface-spaces-jbilcke-hf.md))
+- **open-llm-leaderboard/open_llm_leaderboard** - (Rank Change: `+833`) ([File](../ai/models/huggingface-spaces-open-llm-leaderboard.md))
+- **enzostvs/deepsite** - (Rank Change: `+833`) ([File](../ai/models/huggingface-spaces-enzostvs.md))
+- **ksolovev/FineNews** - (Rank Change: `+833`) ([File](../ai/models/huggingface-datasets-ksolovev.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +46,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Show HN: Brolly, a plain-text weather forecast site** (Category: `ai/community`) ([File](../ai/community/show-hn-brolly-a-plain-text-weather-forecast-site.md))
+- **GM Backs Sodium Ion Batteries for U.S. Grid Storage** (Category: `ai/community`) ([File](../ai/community/gm-backs-sodium-ion-batteries-for-u-s-grid-storage.md))
