@@ -17049,12 +17049,12 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://docs.cloud.google.com/docs/ai-ml>
 
 * **[AI companies are shredding rare books](ai/community/ai-companies-are-shredding-rare-books.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by anon373839. Score: 454, Comments: 246. Original Link: https://xcancel.com/HedgieMarkets/status/2081534588485296565
+  * Summary: Hacker News story by anon373839. Score: 631, Comments: 376. Original Link: https://twitter.com/HedgieMarkets/status/2081534588485296565
   * Tags: `ai`, `hackernews`
-  * Source URL: <https://xcancel.com/hedgiemarkets/status/2081534588485296565>
+  * Source URL: <https://twitter.com/hedgiemarkets/status/2081534588485296565>
 
 * **[AI companies spend record sums on Washington lobbying](ai/community/ai-companies-spend-record-sums-on-washington-lobby.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by 1vuio0pswjnm7. Score: 18, Comments: 6. Original Link: https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db
+  * Summary: Hacker News story by 1vuio0pswjnm7. Score: 143, Comments: 62. Original Link: https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db
   * Tags: `ai`, `hackernews`
   * Source URL: <https://ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db>
 
@@ -17917,6 +17917,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Customized GitHub Services**: Offers tailored consulting, workshops, and training (e.g., GitHub Actions, Admin, API, Copilot) to optimize CI/CD, security, and workflows for enterprise-scale adoption across GitHub Enterprise Cloud/Server. - **Adva
   * Tags: `agents`, `hackernews`, `rag`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://services.github.com>
+
+* **[Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](ai/community/exploiting-volvo-eicher-s-fleet-platform-to-gain-c.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by EatonZ. Score: 3, Comments: 0. Original Link: https://eaton-works.com/2026/07/27/my-eicher-hack/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://eaton-works.com/2026/07/27/my-eicher-hack>
 
 * **[explosion/spaCy](ai/rag/explosion-spacy.md)** (`framework` | `essential` tier)
   * Summary: - **Industrial NLP Framework**: spaCy is a high-performance Python library optimized for large-scale NLP tasks, leveraging Cython for efficient C-level bindings and memory management. - **Modular NLP Pipeline**: Implements a streamlined, end-to-end N
@@ -18993,6 +18998,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.18252>
 
+* **[Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition](ai/community/minecraft-java-raises-recommended-memory-to-16gb-a.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by haunter. Score: 44, Comments: 38. Original Link: https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition
+  * Tags: `ai`, `hackernews`, `youtube`
+  * Source URL: <https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition>
+
 * **[Minimal Oversight: Uncertainty-Aware Governance for Delegated AI Systems](ai/research/arxiv-2606-15563.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.15563v1 Announce Type: new Abstract: AI systems increasingly delegate decisions to specialized models, evaluators, tools, and supervisory controllers. The central AI problem is no longer only model accuracy, but uncertainty-aware governanc
   * Tags: `workflows`, `youtube`
@@ -19004,7 +19014,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.10126>
 
 * **[Modern email can be built from borrowed parts](ai/community/modern-email-can-be-built-from-borrowed-parts.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by andros. Score: 74, Comments: 33. Original Link: https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/
+  * Summary: Hacker News story by andros. Score: 105, Comments: 42. Original Link: https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts>
 
@@ -19107,6 +19117,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **NumFOCUS** sponsors 50+ open-source scientific computing projects, including **pandas**, **Jupyter**, **Matplotlib**, **Dask**, and **scikit-learn**, enabling large-scale data analysis, visualization, and machine learning workflows. - **Key indus
   * Tags: `rag`, `web-crawled`, `workflows`
   * Source URL: <https://numfocus.org>
+
+* **[Nvidia's $750B in Deals Reignite Circular AI Fears](ai/community/nvidia-s-750b-in-deals-reignite-circular-ai-fears.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by petethomas. Score: 41, Comments: 16. Original Link: https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing>
 
 * **[NVIDIA/workbench-example-agentic-rag](ai/rag/nvidia-workbench-example-agentic-rag.md)** (`framework` | `useful` tier)
   * Summary: - **Agentic RAG Implementation**: Demonstrates an agentic RAG system using NVIDIA AI Workbench, integrating retrieval and generative components for dynamic, multi-step reasoning. - **Jupyter Notebook-Based**: Entire workflow encapsulated in Jupyter N
@@ -19484,7 +19499,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack>
 
 * **[Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](web-development/community/removing-react-js-from-the-codebase-and-adapting-h.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Ralfp. Score: 95, Comments: 53. Original Link: https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/
+  * Summary: Hacker News story by Ralfp. Score: 146, Comments: 88. Original Link: https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/
   * Tags: `frontend_ui`, `hackernews`, `react`
   * Source URL: <https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267>
 
@@ -20133,7 +20148,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Upsonic/Tiger>
 
 * **[US citizen charged after GrapheneOS phone wipes during airport search](ai/community/us-citizen-charged-after-grapheneos-phone-wipes-du.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by eecc. Score: 1056, Comments: 811. Original Link: https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html
+  * Summary: Hacker News story by eecc. Score: 1162, Comments: 869. Original Link: https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html
   * Tags: `ai`, `hackernews`
   * Source URL: <https://techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html>
 
@@ -93869,7 +93884,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5127, Downloads: 253094980)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5128, Downloads: 253094980)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -101710,10 +101725,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
   * Source URL: <https://anthropic.com/news/anthropic-economic-index-connector>
 
-* **[Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust](ai/companies/anthropic/jul-9-2026announcementsben-bernanke-appointed-to-a.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust
+* **[Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients](ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/ben-bernanke>
+  * Source URL: <https://anthropic.com/news/cognizant-anthropic>
 
 * **[Jul 9, 2026Case StudyUST is bringing Claude to physical AI](ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: Jul 9, 2026Case StudyUST is bringing Claude to physical AI
@@ -106267,9 +106282,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2512.01317>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
-  * Summary: * Comprehensive RAG implementation guide covering architecture, data ingestion, retrieval, and generation strategies. * Utilizes prominent RAG frameworks (LangChain, LlamaIndex), vector/graph databases (Milvus, Neo4j), and diverse LLMs (DeepSeek, Kim
-  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`, `reddit`
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tutorial` | `useful` tier)
+  * Summary: * Comprehensive RAG guide for LLM application development, encompassing full-stack implementation strategies. * Utilizes LangChain/LlamaIndex for orchestration, Milvus/Neo4j for vector/graph database integration, and supports DeepSeek/Kimi-K2 LLMs. *
+  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`, `reddit`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -106277,8 +106292,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tool` | `useful` tier)
-  * Summary: * Focuses on practical LLM application development, targeting foundational understanding for novice developers. *
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
+  * Summary: * LLM application development curriculum. * Focuses on LangChain framework
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -112418,7 +112433,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://superml.org/tutorials/rag-beginner>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll source repository for `raganwald.com`, indicating a static site generation architecture. * Predominantly HTML content, reflecting the output format of the Jekyll build process. * Hosted on GitHub, implying potential integration with GitHub P
+  * Summary: * Jekyll static site generator source for `raganwald.com`. * Hosted via GitHub Pages, indicated by the `raganwald.github.com` repository naming convention. * Primary codebase language is HTML, reflecting
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
@@ -114233,7 +114248,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.16617>
 
 * **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`benchmark` | `useful` tier)
-  * Summary: * Implements a Retrieval-Augmented Generation (RAG) system for conversational interaction with GitHub repository content. * Facilitates local ingestion of GitHub repository data to enable natural language querying. * Developed in Python.
+  * Summary: * Implements a Retrieval-Augmented Generation (RAG) system for GitHub repository content. * Facilitates conversational querying and interaction with downloaded repository data. * Developed primarily in Python.
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/SylphAI-Inc/GithubChat>
 

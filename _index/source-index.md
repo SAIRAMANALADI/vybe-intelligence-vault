@@ -9961,7 +9961,7 @@ Resources organized by publisher feed and query sources.
   - [Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md)
   - [Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md)
   - [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)
-  - [Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust](../ai/companies/anthropic/jul-9-2026announcementsben-bernanke-appointed-to-a.md)
+  - [Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md)
   - [Jul 9, 2026Case StudyUST is bringing Claude to physical AI](../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md)
   - [Leanstral 1.5: Proof Abundance for All](../ai/companies/mistral/leanstral-1-5-proof-abundance-for-all.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
@@ -10734,7 +10734,10 @@ Resources organized by publisher feed and query sources.
 
   - [AI companies are shredding rare books](../ai/community/ai-companies-are-shredding-rare-books.md)
   - [AI companies spend record sums on Washington lobbying](../ai/community/ai-companies-spend-record-sums-on-washington-lobby.md)
+  - [Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](../ai/community/exploiting-volvo-eicher-s-fleet-platform-to-gain-c.md)
+  - [Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition](../ai/community/minecraft-java-raises-recommended-memory-to-16gb-a.md)
   - [Modern email can be built from borrowed parts](../ai/community/modern-email-can-be-built-from-borrowed-parts.md)
+  - [Nvidia's $750B in Deals Reignite Circular AI Fears](../ai/community/nvidia-s-750b-in-deals-reignite-circular-ai-fears.md)
   - [Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](../web-development/community/removing-react-js-from-the-codebase-and-adapting-h.md)
   - [US citizen charged after GrapheneOS phone wipes during airport search](../ai/community/us-citizen-charged-after-grapheneos-phone-wipes-du.md)
 
@@ -13993,4 +13996,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-27T21:00:32.137956+05:30*
+*Index generated on 2026-07-27T22:55:20.328858+05:30*

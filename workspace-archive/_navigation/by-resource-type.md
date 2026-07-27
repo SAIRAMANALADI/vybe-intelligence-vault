@@ -114,9 +114,9 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Applied AI](https://openai.com/news/applied-ai) (Tier: `useful` | [`Local File`](../../ai/companies/openai/applied-ai.md))
 - [Engineering](https://openai.com/news/engineering) (Tier: `useful` | [`Local File`](../../ai/companies/openai/engineering.md))
 - [Responsible Scaling Policy](https://anthropic.com/news/announcing-our-updated-responsible-scaling-policy) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/responsible-scaling-policy.md))
-- [Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust](https://anthropic.com/news/ben-bernanke) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-9-2026announcementsben-bernanke-appointed-to-a.md))
 - [Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants](https://anthropic.com/news/rare-disease-research-grants) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md))
 - [Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](https://anthropic.com/news/donation-public-first-action) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md))
+- [Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients](https://anthropic.com/news/cognizant-anthropic) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md))
 - [Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research](https://anthropic.com/news/canadian-ai-research) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-14-2026announcementsanthropic-commits-10-milli.md))
 - [Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](https://anthropic.com/news/economic-futures-research-fund-agenda) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md))
 - [Jul 9, 2026Case StudyUST is bringing Claude to physical AI](https://anthropic.com/news/ust-claude) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md))
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) (Tier: `useful` | [`Local File`](../../ai/agents/ed1s0nz-cyberstrikeai.md))
 
 ---
-*Last updated: 2026-07-27 21:01 IST*
+*Last updated: 2026-07-27 22:56 IST*

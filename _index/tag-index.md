@@ -3157,7 +3157,10 @@ Resources organized by keyword tags.
 
   - [AI companies are shredding rare books](../ai/community/ai-companies-are-shredding-rare-books.md)
   - [AI companies spend record sums on Washington lobbying](../ai/community/ai-companies-spend-record-sums-on-washington-lobby.md)
+  - [Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](../ai/community/exploiting-volvo-eicher-s-fleet-platform-to-gain-c.md)
+  - [Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition](../ai/community/minecraft-java-raises-recommended-memory-to-16gb-a.md)
   - [Modern email can be built from borrowed parts](../ai/community/modern-email-can-be-built-from-borrowed-parts.md)
+  - [Nvidia's $750B in Deals Reignite Circular AI Fears](../ai/community/nvidia-s-750b-in-deals-reignite-circular-ai-fears.md)
   - [US citizen charged after GrapheneOS phone wipes during airport search](../ai/community/us-citizen-charged-after-grapheneos-phone-wipes-du.md)
 
 ## animation
@@ -3366,7 +3369,7 @@ Resources organized by keyword tags.
   - [Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md)
   - [Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md)
   - [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)
-  - [Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust](../ai/companies/anthropic/jul-9-2026announcementsben-bernanke-appointed-to-a.md)
+  - [Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md)
   - [Jul 9, 2026Case StudyUST is bringing Claude to physical AI](../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md)
   - [Jupyter AI](../ai/rag/jupyter-ai.md)
   - [Just A Rather Very Intelligent Spoken Agent](../ai/agents/arxiv-2607-16610.md)
@@ -3581,7 +3584,7 @@ Resources organized by keyword tags.
   - [Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md)
   - [Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md)
   - [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)
-  - [Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust](../ai/companies/anthropic/jul-9-2026announcementsben-bernanke-appointed-to-a.md)
+  - [Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md)
   - [Jul 9, 2026Case StudyUST is bringing Claude to physical AI](../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md)
   - [ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.](../ai/companies/anthropic/productjun-30-2026introducing-claude-sonnet-5sonne.md)
   - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
@@ -8100,7 +8103,7 @@ Resources organized by keyword tags.
   - [Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md)
   - [Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md)
   - [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)
-  - [Jul 9, 2026AnnouncementsBen Bernanke appointed to Anthropic’s Long-Term Benefit Trust](../ai/companies/anthropic/jul-9-2026announcementsben-bernanke-appointed-to-a.md)
+  - [Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md)
   - [Jul 9, 2026Case StudyUST is bringing Claude to physical AI](../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md)
   - [Leanstral 1.5: Proof Abundance for All](../ai/companies/mistral/leanstral-1-5-proof-abundance-for-all.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
@@ -12848,6 +12851,7 @@ Resources organized by keyword tags.
   - [Explainable embeddings with Distance Explainer](../ai/rag/arxiv-2505-15516.md)
   - [Explaining Process Control Optimisation Recommendations via GradientSHAP and Implicit Differentiation](../ai/rag/arxiv-2607-14970.md)
   - [Exploiting Search in Symbolic Numeric Planning with Patterns](../ai/research/arxiv-2606-16329.md)
+  - [Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](../ai/community/exploiting-volvo-eicher-s-fleet-platform-to-gain-c.md)
   - [Explore | alphaXiv](../ai/rag/explore-alphaxiv.md)
   - [Exploring Context-aware and LLM-driven Locomotion for Immersive Virtual Reality](../ai/research/arxiv-2504-17331.md)
   - [Exploring the relationship between human-centric AI and firm idiosyncratic risks](../ai/research/arxiv-2606-24224.md)
@@ -13377,6 +13381,7 @@ Resources organized by keyword tags.
   - [Microsoft Graph | Support](../ai/resources/microsoft-graph-support.md)
   - [Microsoft for Developers Blog - Microsoft for Developers](../ai/rag/microsoft-for-developers-blog-microsoft-for-develo.md)
   - [MimicIK: Real-Time Generative Inverse Kinematics from Teleoperation with FK Consistency](../ai/research/arxiv-2606-15148.md)
+  - [Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition](../ai/community/minecraft-java-raises-recommended-memory-to-16gb-a.md)
   - [Minimum Norm Interpolation via the Local Theory of Banach Spaces: The Role of $2$-Uniform Convexity](../ai/research/arxiv-2603-28956.md)
   - [Mitigating Errors in LLM-Generated Web API Invocations via Retrieval-Augmented Generation and Constrained Decoding](../ai/rag/arxiv-2607-05936.md)
   - [Mixing-Free and Signal-Optimal Learning of Gaussian Graphical Models from Glauber Dynamics](../ai/research/arxiv-2607-18559.md)
@@ -13450,6 +13455,7 @@ Resources organized by keyword tags.
   - [NouveauVoice: Generating Novel Pseudo Speakers for Voice Anonymization](../ai/rag/arxiv-2607-03985.md)
   - [Nuro—Autonomy for all. All roads, all rides. | Nuro](../ai/rag/nuro-autonomy-for-all-all-roads-all-rides-nuro.md)
   - [Nvidia is latest investor to back AV startup Nuro in $203M funding round | TechCrunch](../ai/rag/nvidia-is-latest-investor-to-back-av-startup-nuro.md)
+  - [Nvidia's $750B in Deals Reignite Circular AI Fears](../ai/community/nvidia-s-750b-in-deals-reignite-circular-ai-fears.md)
   - [OECC2026](../ai/rag/oecc2026.md)
   - [OSTIF Has Completed A Security Audit of wasmCloud! – OSTIF.org](../ai/resources/ostif-has-completed-a-security-audit-of-wasmcloud.md)
   - [OSVE: One Step Video Editing with One Step Diffusion Models](../ai/research/arxiv-2607-19895.md)
@@ -14299,6 +14305,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -31839,6 +31846,7 @@ Resources organized by keyword tags.
   - [Memory-Augmented Multimodal Large Language Models for Small Object Understanding in Streaming Aerial Videos](../ai/research/arxiv-2607-19857.md)
   - [Microsoft Graph | Support](../ai/resources/microsoft-graph-support.md)
   - [Microsoft for Developers Blog - Microsoft for Developers](../ai/rag/microsoft-for-developers-blog-microsoft-for-develo.md)
+  - [Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition](../ai/community/minecraft-java-raises-recommended-memory-to-16gb-a.md)
   - [Miniconda - Anaconda](../ai/resources/miniconda-anaconda.md)
   - [Minimal Oversight: Uncertainty-Aware Governance for Delegated AI Systems](../ai/research/arxiv-2606-15563.md)
   - [Missing-by-Design: Certifiable Modality Deletion for Revocable Multimodal Sentiment Analysis](../ai/rag/arxiv-2602-16144.md)
@@ -32493,4 +32501,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-27T21:00:31.983470+05:30*
+*Index generated on 2026-07-27T22:55:20.173092+05:30*
