@@ -22,7 +22,7 @@ This week had strong activity around frontend tools.
 | Category | Count |
 |---|---:|
 | ai/models | 782 |
-| ai/research | 150 |
+| ai/research | 169 |
 | ai/rag | 104 |
 | ai/agents | 78 |
 | web-development/nextjs | 62 |
@@ -30,8 +30,8 @@ This week had strong activity around frontend tools.
 | ai/companies/anthropic | 10 |
 | ai/companies/mistral | 10 |
 | ai/companies | 10 |
+| ai/community | 8 |
 | ai/companies/deepmind | 5 |
-| ai/community | 5 |
 | ai/companies/openai | 4 |
 | web-development/community | 1 |
 
@@ -39,151 +39,154 @@ This week had strong activity around frontend tools.
 
 | Tag | Count |
 |---|---:|
-| benchmark | 120 |
-| models | 116 |
-| rag | 104 |
-| dataset | 104 |
+| benchmark | 130 |
+| rag | 122 |
+| models | 121 |
+| dataset | 112 |
+| agents | 98 |
 | frontend_ui | 97 |
-| agents | 94 |
-| paper | 39 |
+| paper | 58 |
+| hackernews | 43 |
 | blog-post | 39 |
-| hackernews | 35 |
 | leaderboard | 33 |
 | huggingface | 29 |
-| meta-ai | 26 |
-| youtube | 25 |
+| meta-ai | 27 |
+| youtube | 26 |
 | github-repo | 21 |
-| anthropic | 16 |
+| augmented | 19 |
 
 ## Weekly Community Updates
 
-1. [Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](../../web-development/community/removing-react-js-from-the-codebase-and-adapting-h.md) ([Source](https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267)) (HN Score: 182) - `web-development/community`
-2. [MAI-Cyber-1-Flash inside MDASH](../../ai/community/mai-cyber-1-flash-inside-mdash.md) ([Source](https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash)) (HN Score: 177) - `ai/community`
-3. [Modern email can be built from borrowed parts](../../ai/community/modern-email-can-be-built-from-borrowed-parts.md) ([Source](https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts)) (HN Score: 142) - `ai/community`
-4. [Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](../../ai/community/exploiting-volvo-eicher-s-fleet-platform-to-gain-c.md) ([Source](https://eaton-works.com/2026/07/27/my-eicher-hack)) (HN Score: 66) - `ai/community`
-5. [Show HN: FeyNoBg – Automatic background removal model and training library](../../ai/community/show-hn-feynobg-automatic-background-removal-model.md) ([Source](https://usefeyn.com/blog/feynobg)) (HN Score: 44) - `ai/community`
-6. [Self-contained highly-portable Python distributions](../../ai/community/self-contained-highly-portable-python-distribution.md) ([Source](https://gregoryszorc.com/docs/python-build-standalone/main)) (HN Score: 29) - `ai/community`
-7. [sentence-transformers/all-MiniLM-L6-v2](../../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-minilm-l6-v2)) - `ai/rag`
-8. [google-bert/bert-base-uncased](../../ai/models/huggingface-google-bert-bert-base-uncased.md) ([Source](https://huggingface.co/google-bert/bert-base-uncased)) - `ai/models`
-9. [cross-encoder/ms-marco-MiniLM-L6-v2](../../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md) ([Source](https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2)) - `ai/rag`
-10. [BAAI/bge-small-en-v1.5](../../ai/rag/huggingface-baai-bge-small-en-v1-5.md) ([Source](https://huggingface.co/baai/bge-small-en-v1.5)) - `ai/rag`
-11. [google/electra-base-discriminator](../../ai/models/huggingface-google-electra-base-discriminator.md) ([Source](https://huggingface.co/google/electra-base-discriminator)) - `ai/models`
-12. [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) ([Source](https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2)) - `ai/rag`
-13. [BAAI/bge-m3](../../ai/rag/huggingface-baai-bge-m3.md) ([Source](https://huggingface.co/baai/bge-m3)) - `ai/rag`
-14. [sentence-transformers/all-mpnet-base-v2](../../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)) - `ai/rag`
-15. [Qwen/Qwen3-0.6B](../../ai/models/huggingface-qwen-qwen3-0-6b.md) ([Source](https://huggingface.co/qwen/qwen3-0.6b)) - `ai/models`
-16. [google-t5/t5-small](../../ai/models/huggingface-google-t5-t5-small.md) ([Source](https://huggingface.co/google-t5/t5-small)) - `ai/models`
-17. [anisoleai/fineweb-tokenized](../../ai/models/huggingface-datasets-anisoleai.md) ([Source](https://huggingface.co/datasets/anisoleai)) - `ai/models`
-18. [codeparrot/github-code](../../ai/models/huggingface-datasets-codeparrot.md) ([Source](https://huggingface.co/datasets/codeparrot)) - `ai/models`
-19. [Benjy/typed_digital_signatures](../../ai/models/huggingface-datasets-benjy.md) ([Source](https://huggingface.co/datasets/benjy)) - `ai/models`
-20. [huggingface/documentation-images](../../ai/models/huggingface-datasets-huggingface.md) ([Source](https://huggingface.co/datasets/huggingface)) - `ai/models`
-21. [hf-doc-build/doc-build-dev](../../ai/models/huggingface-datasets-hf-doc-build.md) ([Source](https://huggingface.co/datasets/hf-doc-build)) - `ai/models`
-22. [allenai/c4](../../ai/models/huggingface-datasets-allenai.md) ([Source](https://huggingface.co/datasets/allenai)) - `ai/models`
-23. [k9cli/video-vec2wav2-tokenizer](../../ai/models/huggingface-datasets-k9cli.md) ([Source](https://huggingface.co/datasets/k9cli)) - `ai/models`
-24. [ryanmarten/OpenThoughts-1k-sample](../../ai/models/huggingface-datasets-ryanmarten.md) ([Source](https://huggingface.co/datasets/ryanmarten)) - `ai/models`
-25. [KakologArchives/KakologArchives](../../ai/models/huggingface-datasets-kakologarchives.md) ([Source](https://huggingface.co/datasets/kakologarchives)) - `ai/models`
-26. [ayuo/hd_tmp](../../ai/models/huggingface-datasets-ayuo.md) ([Source](https://huggingface.co/datasets/ayuo)) - `ai/models`
-27. [July 2026 Security Release](../../web-development/nextjs/july-2026-security-release.md) ([Source](https://nextjs.org/blog/july-2026-security-release)) - `web-development/nextjs`
-28. [Next.js Security Release and Our Next Patch Release](../../web-development/nextjs/next-js-security-release-and-our-next-patch-releas.md) ([Source](https://nextjs.org/blog/next-security-release-program)) - `web-development/nextjs`
-29. [Turbopack: What's New in Next.js 16.3](../../web-development/nextjs/turbopack-what-s-new-in-next-js-16-3.md) ([Source](https://nextjs.org/blog/next-16-3-turbopack)) - `web-development/nextjs`
-30. [Next.js 16.3: AI Improvements](../../ai/agents/next-js-16-3-ai-improvements.md) ([Source](https://nextjs.org/blog/next-16-3-ai-improvements)) - `ai/agents`
-31. [Next.js 16.3: Instant Navigations](../../web-development/nextjs/next-js-16-3-instant-navigations.md) ([Source](https://nextjs.org/blog/next-16-3-instant-navigations)) - `web-development/nextjs`
-32. [Next.js Across Platforms: Adapters, OpenNext, and Our Commitments](../../web-development/nextjs/next-js-across-platforms-adapters-opennext-and-our.md) ([Source](https://nextjs.org/blog/nextjs-across-platforms)) - `web-development/nextjs`
-33. [Next.js 16.2: AI Improvements](../../ai/agents/next-js-16-2-ai-improvements.md) ([Source](https://nextjs.org/blog/next-16-2-ai)) - `ai/agents`
-34. [Turbopack: What's New in Next.js 16.2](../../web-development/nextjs/turbopack-what-s-new-in-next-js-16-2.md) ([Source](https://nextjs.org/blog/next-16-2-turbopack)) - `web-development/nextjs`
-35. [Next.js 16.2](../../web-development/nextjs/next-js-16-2.md) ([Source](https://nextjs.org/blog/next-16-2)) - `web-development/nextjs`
-36. [Building Next.js for an agentic future](../../ai/agents/building-next-js-for-an-agentic-future.md) ([Source](https://nextjs.org/blog/agentic-future)) - `ai/agents`
-37. [Inside Turbopack: Building Faster by Building Less](../../web-development/nextjs/inside-turbopack-building-faster-by-building-less.md) ([Source](https://nextjs.org/blog/turbopack-incremental-computation)) - `web-development/nextjs`
-38. [Next.js 16.1](../../web-development/nextjs/next-js-16-1.md) ([Source](https://nextjs.org/blog/next-16-1)) - `web-development/nextjs`
-39. [Next.js Security Update: December 11, 2025](../../web-development/nextjs/next-js-security-update-december-11-2025.md) ([Source](https://nextjs.org/blog/security-update-2025-12-11)) - `web-development/nextjs`
-40. [Security Advisory: CVE-2025-66478](../../web-development/security-advisory-cve-2025-66478.md) ([Source](https://nextjs.org/blog/cve-2025-66478)) - `web-development`
-41. [Next.js 16](../../web-development/nextjs/next-js-16.md) ([Source](https://nextjs.org/blog/next-16)) - `web-development/nextjs`
-42. [Next.js 16 (beta)](../../web-development/nextjs/next-js-16-beta.md) ([Source](https://nextjs.org/blog/next-16-beta)) - `web-development/nextjs`
-43. [Next.js 15.5](../../web-development/nextjs/next-js-15-5.md) ([Source](https://nextjs.org/blog/next-15-5)) - `web-development/nextjs`
-44. [Next.js 15.4](../../web-development/nextjs/next-js-15-4.md) ([Source](https://nextjs.org/blog/next-15-4)) - `web-development/nextjs`
-45. [Next.js 15.3](../../web-development/nextjs/next-js-15-3.md) ([Source](https://nextjs.org/blog/next-15-3)) - `web-development/nextjs`
-46. [Building APIs with Next.js](../../web-development/nextjs/building-apis-with-next-js.md) ([Source](https://nextjs.org/blog/building-apis-with-nextjs)) - `web-development/nextjs`
-47. [Next.js 15.2](../../web-development/nextjs/next-js-15-2.md) ([Source](https://nextjs.org/blog/next-15-2)) - `web-development/nextjs`
-48. [Composable Caching with Next.js](../../web-development/nextjs/composable-caching-with-next-js.md) ([Source](https://nextjs.org/blog/composable-caching)) - `web-development/nextjs`
-49. [Next.js 15.1](../../web-development/nextjs/next-js-15-1.md) ([Source](https://nextjs.org/blog/next-15-1)) - `web-development/nextjs`
-50. [Our Journey with Caching](../../web-development/nextjs/our-journey-with-caching.md) ([Source](https://nextjs.org/blog/our-journey-with-caching)) - `web-development/nextjs`
-51. [Next.js 15](../../web-development/nextjs/next-js-15.md) ([Source](https://nextjs.org/blog/next-15)) - `web-development/nextjs`
-52. [Turbopack Dev is Now Stable](../../web-development/turbopack-dev-is-now-stable.md) ([Source](https://nextjs.org/blog/turbopack-for-development-stable)) - `web-development`
-53. [Next.js 15 RC 2](../../web-development/nextjs/next-js-15-rc-2.md) ([Source](https://nextjs.org/blog/next-15-rc2)) - `web-development/nextjs`
-54. [Next.js 15 RC](../../web-development/nextjs/next-js-15-rc.md) ([Source](https://nextjs.org/blog/next-15-rc)) - `web-development/nextjs`
-55. [Next.js 14.2](../../web-development/nextjs/next-js-14-2.md) ([Source](https://nextjs.org/blog/next-14-2)) - `web-development/nextjs`
-56. [Next.js 14.1](../../web-development/nextjs/next-js-14-1.md) ([Source](https://nextjs.org/blog/next-14-1)) - `web-development/nextjs`
-57. [Next.js 14](../../web-development/nextjs/next-js-14.md) ([Source](https://nextjs.org/blog/next-14)) - `web-development/nextjs`
-58. [How to Think About Security in Next.js](../../web-development/nextjs/how-to-think-about-security-in-next-js.md) ([Source](https://nextjs.org/blog/security-nextjs-server-components-actions)) - `web-development/nextjs`
-59. [Next.js 13.5](../../web-development/nextjs/next-js-13-5.md) ([Source](https://nextjs.org/blog/next-13-5)) - `web-development/nextjs`
-60. [Next.js App Router Update](../../web-development/nextjs/next-js-app-router-update.md) ([Source](https://nextjs.org/blog/june-2023-update)) - `web-development/nextjs`
-61. [Next.js 13.4](../../web-development/nextjs/next-js-13-4.md) ([Source](https://nextjs.org/blog/next-13-4)) - `web-development/nextjs`
-62. [Next.js 13.3](../../web-development/nextjs/next-js-13-3.md) ([Source](https://nextjs.org/blog/next-13-3)) - `web-development/nextjs`
-63. [Next.js 13.2](../../web-development/nextjs/next-js-13-2.md) ([Source](https://nextjs.org/blog/next-13-2)) - `web-development/nextjs`
-64. [Next.js 13.1](../../web-development/nextjs/next-js-13-1.md) ([Source](https://nextjs.org/blog/next-13-1)) - `web-development/nextjs`
-65. [Next.js 13](../../web-development/nextjs/next-js-13.md) ([Source](https://nextjs.org/blog/next-13)) - `web-development/nextjs`
-66. [Next.js 12.3](../../web-development/nextjs/next-js-12-3.md) ([Source](https://nextjs.org/blog/next-12-3)) - `web-development/nextjs`
-67. [Next.js 12.2](../../web-development/nextjs/next-js-12-2.md) ([Source](https://nextjs.org/blog/next-12-2)) - `web-development/nextjs`
-68. [Layouts RFC](../../web-development/layouts-rfc.md) ([Source](https://nextjs.org/blog/layouts-rfc)) - `web-development`
-69. [Next.js 12.1](../../web-development/nextjs/next-js-12-1.md) ([Source](https://nextjs.org/blog/next-12-1)) - `web-development/nextjs`
-70. [Next.js 12](../../web-development/nextjs/next-js-12.md) ([Source](https://nextjs.org/blog/next-12)) - `web-development/nextjs`
-71. [Next.js 11.1](../../web-development/nextjs/next-js-11-1.md) ([Source](https://nextjs.org/blog/next-11-1)) - `web-development/nextjs`
-72. [Next.js 11](../../web-development/nextjs/next-js-11.md) ([Source](https://nextjs.org/blog/next-11)) - `web-development/nextjs`
-73. [Next.js 10.2](../../web-development/nextjs/next-js-10-2.md) ([Source](https://nextjs.org/blog/next-10-2)) - `web-development/nextjs`
-74. [Next.js 10.1](../../web-development/nextjs/next-js-10-1.md) ([Source](https://nextjs.org/blog/next-10-1)) - `web-development/nextjs`
-75. [Incrementally Adopting Next.js](../../web-development/nextjs/incrementally-adopting-next-js.md) ([Source](https://nextjs.org/blog/incremental-adoption)) - `web-development/nextjs`
-76. [Next.js 10](../../web-development/nextjs/next-js-10.md) ([Source](https://nextjs.org/blog/next-10)) - `web-development/nextjs`
-77. [Next.js 9.5](../../web-development/nextjs/next-js-9-5.md) ([Source](https://nextjs.org/blog/next-9-5)) - `web-development/nextjs`
-78. [Next.js 9.4](../../web-development/nextjs/next-js-9-4.md) ([Source](https://nextjs.org/blog/next-9-4)) - `web-development/nextjs`
-79. [Next.js 9.3](../../web-development/nextjs/next-js-9-3.md) ([Source](https://nextjs.org/blog/next-9-3)) - `web-development/nextjs`
-80. [Next.js 9.2](../../web-development/nextjs/next-js-9-2.md) ([Source](https://nextjs.org/blog/next-9-2)) - `web-development/nextjs`
-81. [Next.js 9.1.7](../../web-development/nextjs/next-js-9-1-7.md) ([Source](https://nextjs.org/blog/next-9-1-7)) - `web-development/nextjs`
-82. [Introducing Create Next App](../../web-development/nextjs/introducing-create-next-app.md) ([Source](https://nextjs.org/blog/create-next-app)) - `web-development/nextjs`
-83. [Next.js 9.1](../../ai/rag/next-js-9-1.md) ([Source](https://nextjs.org/blog/next-9-1)) - `ai/rag`
-84. [Next.js 9.0.7](../../web-development/nextjs/next-js-9-0-7.md) ([Source](https://nextjs.org/blog/next-9-0-7)) - `web-development/nextjs`
-85. [Next.js 9](../../web-development/nextjs/next-js-9.md) ([Source](https://nextjs.org/blog/next-9)) - `web-development/nextjs`
-86. [Next.js 8.1](../../web-development/nextjs/next-js-8-1.md) ([Source](https://nextjs.org/blog/next-8-1)) - `web-development/nextjs`
-87. [Next.js 8.0.4](../../web-development/nextjs/next-js-8-0-4.md) ([Source](https://nextjs.org/blog/next-8-0-4)) - `web-development/nextjs`
-88. [Styling Next.js with Styled JSX](../../web-development/nextjs/styling-next-js-with-styled-jsx.md) ([Source](https://nextjs.org/blog/styling-next-with-styled-jsx)) - `web-development/nextjs`
-89. [Next.js 8 Webpack Memory Improvements](../../web-development/nextjs/next-js-8-webpack-memory-improvements.md) ([Source](https://nextjs.org/blog/webpack-memory)) - `web-development/nextjs`
-90. [Next.js 8](../../web-development/nextjs/next-js-8.md) ([Source](https://nextjs.org/blog/next-8)) - `web-development/nextjs`
-91. [Next.js 7](../../web-development/nextjs/next-js-7.md) ([Source](https://nextjs.org/blog/next-7)) - `web-development/nextjs`
-92. [Next.js 6.1](../../web-development/nextjs/next-js-6-1.md) ([Source](https://nextjs.org/blog/next-6-1)) - `web-development/nextjs`
-93. [Next.js 6 and Nextjs.org](../../web-development/nextjs/next-js-6-and-nextjs-org.md) ([Source](https://nextjs.org/blog/next-6)) - `web-development/nextjs`
-94. [Next.js 5.1: Faster Page Resolution, Environment Config & More](../../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md) ([Source](https://nextjs.org/blog/next-5-1)) - `web-development/nextjs`
-95. [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](../../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md) ([Source](https://nextjs.org/blog/next-5)) - `web-development/nextjs`
-96. [enzostvs/deepsite](../../ai/models/huggingface-spaces-enzostvs.md) ([Source](https://huggingface.co/spaces/enzostvs)) - `ai/models`
-97. [open-llm-leaderboard/open_llm_leaderboard](../../ai/models/huggingface-spaces-open-llm-leaderboard.md) ([Source](https://huggingface.co/spaces/open-llm-leaderboard)) - `ai/models`
-98. [jbilcke-hf/ai-comic-factory](../../ai/models/huggingface-spaces-jbilcke-hf.md) ([Source](https://huggingface.co/spaces/jbilcke-hf)) - `ai/models`
-99. [Kwai-Kolors/Kolors-Virtual-Try-On](../../ai/models/huggingface-spaces-kwai-kolors.md) ([Source](https://huggingface.co/spaces/kwai-kolors)) - `ai/models`
-100. [black-forest-labs/FLUX.1-dev](../../ai/models/huggingface-spaces-black-forest-labs.md) ([Source](https://huggingface.co/spaces/black-forest-labs)) - `ai/models`
-101. [mteb/leaderboard](../../ai/models/huggingface-spaces-mteb.md) ([Source](https://huggingface.co/spaces/mteb)) - `ai/models`
-102. [dalle-mini/dalle-mini](../../ai/models/huggingface-spaces-dalle-mini.md) ([Source](https://huggingface.co/spaces/dalle-mini)) - `ai/models`
-103. [AP123/IllusionDiffusion](../../ai/models/huggingface-spaces-ap123.md) ([Source](https://huggingface.co/spaces/ap123)) - `ai/models`
-104. [Wan-AI/Wan2.2-Animate](../../ai/models/huggingface-spaces-wan-ai.md) ([Source](https://huggingface.co/spaces/wan-ai)) - `ai/models`
-105. [The React Foundation: A New Home for React Hosted by the Linux Foundation](../../web-development/the-react-foundation-a-new-home-for-react-hosted-b.md) ([Source](https://react.dev/blog/2026/02/24/the-react-foundation)) - `web-development`
-106. [Denial of Service and Source Code Exposure in React Server Components](../../web-development/denial-of-service-and-source-code-exposure-in-reac.md) ([Source](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)) - `web-development`
-107. [Critical Security Vulnerability in React Server Components](../../web-development/critical-security-vulnerability-in-react-server-co.md) ([Source](https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components)) - `web-development`
-108. [React Conf 2025 Recap](../../web-development/react-conf-2025-recap.md) ([Source](https://react.dev/blog/2025/10/16/react-conf-2025-recap)) - `web-development`
-109. [React Compiler v1.0](../../web-development/react-compiler-v1-0.md) ([Source](https://react.dev/blog/2025/10/07/react-compiler-1)) - `web-development`
-110. [Introducing the React Foundation](../../web-development/introducing-the-react-foundation.md) ([Source](https://react.dev/blog/2025/10/07/introducing-the-react-foundation)) - `web-development`
-111. [React 19.2](../../web-development/react-19-2.md) ([Source](https://react.dev/blog/2025/10/01/react-19-2)) - `web-development`
-112. [React Labs: View Transitions, Activity, and more](../../web-development/react-labs-view-transitions-activity-and-more.md) ([Source](https://react.dev/blog/2025/04/23/react-labs-view-transitions-activity-and-more)) - `web-development`
-113. [Sunsetting Create React App](../../ai/rag/sunsetting-create-react-app.md) ([Source](https://react.dev/blog/2025/02/14/sunsetting-create-react-app)) - `ai/rag`
-114. [React v19](../../web-development/react-v19.md) ([Source](https://react.dev/blog/2024/12/05/react-19)) - `web-development`
-115. [React Compiler Beta Release](../../web-development/react-compiler-beta-release.md) ([Source](https://react.dev/blog/2024/10/21/react-compiler-beta-release)) - `web-development`
-116. [React Conf 2024 Recap](../../web-development/react-conf-2024-recap.md) ([Source](https://react.dev/blog/2024/05/22/react-conf-2024-recap)) - `web-development`
-117. [React 19 Upgrade Guide](../../web-development/react-19-upgrade-guide.md) ([Source](https://react.dev/blog/2024/04/25/react-19-upgrade-guide)) - `web-development`
-118. [React Labs: What We've Been Working On – February 2024](../../web-development/react-labs-what-we-ve-been-working-on-february-202.md) ([Source](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)) - `web-development`
-119. [React Canaries: Enabling Incremental Feature Rollout Outside Meta](../../web-development/react-canaries-enabling-incremental-feature-rollou.md) ([Source](https://react.dev/blog/2023/05/03/react-canaries)) - `web-development`
-120. [React Labs: What We've Been Working On – March 2023](../../web-development/react-labs-what-we-ve-been-working-on-march-2023.md) ([Source](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023)) - `web-development`
-121. [Introducing react.dev](../../web-development/introducing-react-dev.md) ([Source](https://react.dev/blog/2023/03/16/introducing-react-dev)) - `web-development`
-122. [React Labs: What We've Been Working On – June 2022](../../web-development/react-labs-what-we-ve-been-working-on-june-2022.md) ([Source](https://react.dev/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022)) - `web-development`
-123. [React v18.0](../../web-development/react-v18-0.md) ([Source](https://react.dev/blog/2022/03/29/react-v18)) - `web-development`
-124. [How to Upgrade to React 18](../../web-development/how-to-upgrade-to-react-18.md) ([Source](https://react.dev/blog/2022/03/08/react-18-upgrade-guide)) - `web-development`
-125. [React Conf 2021 Recap](../../web-development/react-conf-2021-recap.md) ([Source](https://react.dev/blog/2021/12/17/react-conf-2021-recap)) - `web-development`
-126. [The Plan for React 18](../../web-development/the-plan-for-react-18.md) ([Source](https://react.dev/blog/2021/06/08/the-plan-for-react-18)) - `web-development`
-127. [Introducing Zero-Bundle-Size React Server Components](../../web-development/introducing-zero-bundle-size-react-server-componen.md) ([Source](https://react.dev/blog/2020/12/21/data-fetching-with-react-server-components)) - `web-development`
+1. [MAI-Cyber-1-Flash inside MDASH](../../ai/community/mai-cyber-1-flash-inside-mdash.md) ([Source](https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash)) (HN Score: 200) - `ai/community`
+2. [Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](../../web-development/community/removing-react-js-from-the-codebase-and-adapting-h.md) ([Source](https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267)) (HN Score: 199) - `web-development/community`
+3. [Modern email can be built from borrowed parts](../../ai/community/modern-email-can-be-built-from-borrowed-parts.md) ([Source](https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts)) (HN Score: 162) - `ai/community`
+4. [Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](../../ai/community/exploiting-volvo-eicher-s-fleet-platform-to-gain-c.md) ([Source](https://eaton-works.com/2026/07/27/my-eicher-hack)) (HN Score: 113) - `ai/community`
+5. [Self-contained highly-portable Python distributions](../../ai/community/self-contained-highly-portable-python-distribution.md) ([Source](https://gregoryszorc.com/docs/python-build-standalone/main)) (HN Score: 80) - `ai/community`
+6. [Show HN: FeyNoBg – Automatic background removal model and training library](../../ai/community/show-hn-feynobg-automatic-background-removal-model.md) ([Source](https://usefeyn.com/blog/feynobg)) (HN Score: 73) - `ai/community`
+7. [My current strategy is to not read any of the code written by my agents](../../ai/community/my-current-strategy-is-to-not-read-any-of-the-code.md) ([Source](https://twitter.com/unclebobmartin/status/2080257779395154409?s=20)) (HN Score: 41) - `ai/community`
+8. [Securing Services with Rootless Containers](../../ai/community/securing-services-with-rootless-containers.md) ([Source](https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers)) (HN Score: 21) - `ai/community`
+9. [Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware](../../ai/community/bitcoin-trail-google-cookies-and-uber-eats-orders.md) ([Source](https://theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)) (HN Score: 10) - `ai/community`
+10. [sentence-transformers/all-MiniLM-L6-v2](../../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-minilm-l6-v2)) - `ai/rag`
+11. [google-bert/bert-base-uncased](../../ai/models/huggingface-google-bert-bert-base-uncased.md) ([Source](https://huggingface.co/google-bert/bert-base-uncased)) - `ai/models`
+12. [cross-encoder/ms-marco-MiniLM-L6-v2](../../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md) ([Source](https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2)) - `ai/rag`
+13. [BAAI/bge-small-en-v1.5](../../ai/rag/huggingface-baai-bge-small-en-v1-5.md) ([Source](https://huggingface.co/baai/bge-small-en-v1.5)) - `ai/rag`
+14. [google/electra-base-discriminator](../../ai/models/huggingface-google-electra-base-discriminator.md) ([Source](https://huggingface.co/google/electra-base-discriminator)) - `ai/models`
+15. [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) ([Source](https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2)) - `ai/rag`
+16. [BAAI/bge-m3](../../ai/rag/huggingface-baai-bge-m3.md) ([Source](https://huggingface.co/baai/bge-m3)) - `ai/rag`
+17. [sentence-transformers/all-mpnet-base-v2](../../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)) - `ai/rag`
+18. [Qwen/Qwen3-0.6B](../../ai/models/huggingface-qwen-qwen3-0-6b.md) ([Source](https://huggingface.co/qwen/qwen3-0.6b)) - `ai/models`
+19. [google-t5/t5-small](../../ai/models/huggingface-google-t5-t5-small.md) ([Source](https://huggingface.co/google-t5/t5-small)) - `ai/models`
+20. [anisoleai/fineweb-tokenized](../../ai/models/huggingface-datasets-anisoleai.md) ([Source](https://huggingface.co/datasets/anisoleai)) - `ai/models`
+21. [codeparrot/github-code](../../ai/models/huggingface-datasets-codeparrot.md) ([Source](https://huggingface.co/datasets/codeparrot)) - `ai/models`
+22. [Benjy/typed_digital_signatures](../../ai/models/huggingface-datasets-benjy.md) ([Source](https://huggingface.co/datasets/benjy)) - `ai/models`
+23. [huggingface/documentation-images](../../ai/models/huggingface-datasets-huggingface.md) ([Source](https://huggingface.co/datasets/huggingface)) - `ai/models`
+24. [hf-doc-build/doc-build-dev](../../ai/models/huggingface-datasets-hf-doc-build.md) ([Source](https://huggingface.co/datasets/hf-doc-build)) - `ai/models`
+25. [allenai/c4](../../ai/models/huggingface-datasets-allenai.md) ([Source](https://huggingface.co/datasets/allenai)) - `ai/models`
+26. [k9cli/video-vec2wav2-tokenizer](../../ai/models/huggingface-datasets-k9cli.md) ([Source](https://huggingface.co/datasets/k9cli)) - `ai/models`
+27. [ryanmarten/OpenThoughts-1k-sample](../../ai/models/huggingface-datasets-ryanmarten.md) ([Source](https://huggingface.co/datasets/ryanmarten)) - `ai/models`
+28. [KakologArchives/KakologArchives](../../ai/models/huggingface-datasets-kakologarchives.md) ([Source](https://huggingface.co/datasets/kakologarchives)) - `ai/models`
+29. [ayuo/hd_tmp](../../ai/models/huggingface-datasets-ayuo.md) ([Source](https://huggingface.co/datasets/ayuo)) - `ai/models`
+30. [enzostvs/deepsite](../../ai/models/huggingface-spaces-enzostvs.md) ([Source](https://huggingface.co/spaces/enzostvs)) - `ai/models`
+31. [open-llm-leaderboard/open_llm_leaderboard](../../ai/models/huggingface-spaces-open-llm-leaderboard.md) ([Source](https://huggingface.co/spaces/open-llm-leaderboard)) - `ai/models`
+32. [jbilcke-hf/ai-comic-factory](../../ai/models/huggingface-spaces-jbilcke-hf.md) ([Source](https://huggingface.co/spaces/jbilcke-hf)) - `ai/models`
+33. [Kwai-Kolors/Kolors-Virtual-Try-On](../../ai/models/huggingface-spaces-kwai-kolors.md) ([Source](https://huggingface.co/spaces/kwai-kolors)) - `ai/models`
+34. [black-forest-labs/FLUX.1-dev](../../ai/models/huggingface-spaces-black-forest-labs.md) ([Source](https://huggingface.co/spaces/black-forest-labs)) - `ai/models`
+35. [mteb/leaderboard](../../ai/models/huggingface-spaces-mteb.md) ([Source](https://huggingface.co/spaces/mteb)) - `ai/models`
+36. [dalle-mini/dalle-mini](../../ai/models/huggingface-spaces-dalle-mini.md) ([Source](https://huggingface.co/spaces/dalle-mini)) - `ai/models`
+37. [AP123/IllusionDiffusion](../../ai/models/huggingface-spaces-ap123.md) ([Source](https://huggingface.co/spaces/ap123)) - `ai/models`
+38. [Wan-AI/Wan2.2-Animate](../../ai/models/huggingface-spaces-wan-ai.md) ([Source](https://huggingface.co/spaces/wan-ai)) - `ai/models`
+39. [July 2026 Security Release](../../web-development/nextjs/july-2026-security-release.md) ([Source](https://nextjs.org/blog/july-2026-security-release)) - `web-development/nextjs`
+40. [Next.js Security Release and Our Next Patch Release](../../web-development/nextjs/next-js-security-release-and-our-next-patch-releas.md) ([Source](https://nextjs.org/blog/next-security-release-program)) - `web-development/nextjs`
+41. [Turbopack: What's New in Next.js 16.3](../../web-development/nextjs/turbopack-what-s-new-in-next-js-16-3.md) ([Source](https://nextjs.org/blog/next-16-3-turbopack)) - `web-development/nextjs`
+42. [Next.js 16.3: AI Improvements](../../ai/agents/next-js-16-3-ai-improvements.md) ([Source](https://nextjs.org/blog/next-16-3-ai-improvements)) - `ai/agents`
+43. [Next.js 16.3: Instant Navigations](../../web-development/nextjs/next-js-16-3-instant-navigations.md) ([Source](https://nextjs.org/blog/next-16-3-instant-navigations)) - `web-development/nextjs`
+44. [Next.js Across Platforms: Adapters, OpenNext, and Our Commitments](../../web-development/nextjs/next-js-across-platforms-adapters-opennext-and-our.md) ([Source](https://nextjs.org/blog/nextjs-across-platforms)) - `web-development/nextjs`
+45. [Next.js 16.2: AI Improvements](../../ai/agents/next-js-16-2-ai-improvements.md) ([Source](https://nextjs.org/blog/next-16-2-ai)) - `ai/agents`
+46. [Turbopack: What's New in Next.js 16.2](../../web-development/nextjs/turbopack-what-s-new-in-next-js-16-2.md) ([Source](https://nextjs.org/blog/next-16-2-turbopack)) - `web-development/nextjs`
+47. [Next.js 16.2](../../web-development/nextjs/next-js-16-2.md) ([Source](https://nextjs.org/blog/next-16-2)) - `web-development/nextjs`
+48. [Building Next.js for an agentic future](../../ai/agents/building-next-js-for-an-agentic-future.md) ([Source](https://nextjs.org/blog/agentic-future)) - `ai/agents`
+49. [Inside Turbopack: Building Faster by Building Less](../../web-development/nextjs/inside-turbopack-building-faster-by-building-less.md) ([Source](https://nextjs.org/blog/turbopack-incremental-computation)) - `web-development/nextjs`
+50. [Next.js 16.1](../../web-development/nextjs/next-js-16-1.md) ([Source](https://nextjs.org/blog/next-16-1)) - `web-development/nextjs`
+51. [Next.js Security Update: December 11, 2025](../../web-development/nextjs/next-js-security-update-december-11-2025.md) ([Source](https://nextjs.org/blog/security-update-2025-12-11)) - `web-development/nextjs`
+52. [Security Advisory: CVE-2025-66478](../../web-development/security-advisory-cve-2025-66478.md) ([Source](https://nextjs.org/blog/cve-2025-66478)) - `web-development`
+53. [Next.js 16](../../web-development/nextjs/next-js-16.md) ([Source](https://nextjs.org/blog/next-16)) - `web-development/nextjs`
+54. [Next.js 16 (beta)](../../web-development/nextjs/next-js-16-beta.md) ([Source](https://nextjs.org/blog/next-16-beta)) - `web-development/nextjs`
+55. [Next.js 15.5](../../web-development/nextjs/next-js-15-5.md) ([Source](https://nextjs.org/blog/next-15-5)) - `web-development/nextjs`
+56. [Next.js 15.4](../../web-development/nextjs/next-js-15-4.md) ([Source](https://nextjs.org/blog/next-15-4)) - `web-development/nextjs`
+57. [Next.js 15.3](../../web-development/nextjs/next-js-15-3.md) ([Source](https://nextjs.org/blog/next-15-3)) - `web-development/nextjs`
+58. [Building APIs with Next.js](../../web-development/nextjs/building-apis-with-next-js.md) ([Source](https://nextjs.org/blog/building-apis-with-nextjs)) - `web-development/nextjs`
+59. [Next.js 15.2](../../web-development/nextjs/next-js-15-2.md) ([Source](https://nextjs.org/blog/next-15-2)) - `web-development/nextjs`
+60. [Composable Caching with Next.js](../../web-development/nextjs/composable-caching-with-next-js.md) ([Source](https://nextjs.org/blog/composable-caching)) - `web-development/nextjs`
+61. [Next.js 15.1](../../web-development/nextjs/next-js-15-1.md) ([Source](https://nextjs.org/blog/next-15-1)) - `web-development/nextjs`
+62. [Our Journey with Caching](../../web-development/nextjs/our-journey-with-caching.md) ([Source](https://nextjs.org/blog/our-journey-with-caching)) - `web-development/nextjs`
+63. [Next.js 15](../../web-development/nextjs/next-js-15.md) ([Source](https://nextjs.org/blog/next-15)) - `web-development/nextjs`
+64. [Turbopack Dev is Now Stable](../../web-development/turbopack-dev-is-now-stable.md) ([Source](https://nextjs.org/blog/turbopack-for-development-stable)) - `web-development`
+65. [Next.js 15 RC 2](../../web-development/nextjs/next-js-15-rc-2.md) ([Source](https://nextjs.org/blog/next-15-rc2)) - `web-development/nextjs`
+66. [Next.js 15 RC](../../web-development/nextjs/next-js-15-rc.md) ([Source](https://nextjs.org/blog/next-15-rc)) - `web-development/nextjs`
+67. [Next.js 14.2](../../web-development/nextjs/next-js-14-2.md) ([Source](https://nextjs.org/blog/next-14-2)) - `web-development/nextjs`
+68. [Next.js 14.1](../../web-development/nextjs/next-js-14-1.md) ([Source](https://nextjs.org/blog/next-14-1)) - `web-development/nextjs`
+69. [Next.js 14](../../web-development/nextjs/next-js-14.md) ([Source](https://nextjs.org/blog/next-14)) - `web-development/nextjs`
+70. [How to Think About Security in Next.js](../../web-development/nextjs/how-to-think-about-security-in-next-js.md) ([Source](https://nextjs.org/blog/security-nextjs-server-components-actions)) - `web-development/nextjs`
+71. [Next.js 13.5](../../web-development/nextjs/next-js-13-5.md) ([Source](https://nextjs.org/blog/next-13-5)) - `web-development/nextjs`
+72. [Next.js App Router Update](../../web-development/nextjs/next-js-app-router-update.md) ([Source](https://nextjs.org/blog/june-2023-update)) - `web-development/nextjs`
+73. [Next.js 13.4](../../web-development/nextjs/next-js-13-4.md) ([Source](https://nextjs.org/blog/next-13-4)) - `web-development/nextjs`
+74. [Next.js 13.3](../../web-development/nextjs/next-js-13-3.md) ([Source](https://nextjs.org/blog/next-13-3)) - `web-development/nextjs`
+75. [Next.js 13.2](../../web-development/nextjs/next-js-13-2.md) ([Source](https://nextjs.org/blog/next-13-2)) - `web-development/nextjs`
+76. [Next.js 13.1](../../web-development/nextjs/next-js-13-1.md) ([Source](https://nextjs.org/blog/next-13-1)) - `web-development/nextjs`
+77. [Next.js 13](../../web-development/nextjs/next-js-13.md) ([Source](https://nextjs.org/blog/next-13)) - `web-development/nextjs`
+78. [Next.js 12.3](../../web-development/nextjs/next-js-12-3.md) ([Source](https://nextjs.org/blog/next-12-3)) - `web-development/nextjs`
+79. [Next.js 12.2](../../web-development/nextjs/next-js-12-2.md) ([Source](https://nextjs.org/blog/next-12-2)) - `web-development/nextjs`
+80. [Layouts RFC](../../web-development/layouts-rfc.md) ([Source](https://nextjs.org/blog/layouts-rfc)) - `web-development`
+81. [Next.js 12.1](../../web-development/nextjs/next-js-12-1.md) ([Source](https://nextjs.org/blog/next-12-1)) - `web-development/nextjs`
+82. [Next.js 12](../../web-development/nextjs/next-js-12.md) ([Source](https://nextjs.org/blog/next-12)) - `web-development/nextjs`
+83. [Next.js 11.1](../../web-development/nextjs/next-js-11-1.md) ([Source](https://nextjs.org/blog/next-11-1)) - `web-development/nextjs`
+84. [Next.js 11](../../web-development/nextjs/next-js-11.md) ([Source](https://nextjs.org/blog/next-11)) - `web-development/nextjs`
+85. [Next.js 10.2](../../web-development/nextjs/next-js-10-2.md) ([Source](https://nextjs.org/blog/next-10-2)) - `web-development/nextjs`
+86. [Next.js 10.1](../../web-development/nextjs/next-js-10-1.md) ([Source](https://nextjs.org/blog/next-10-1)) - `web-development/nextjs`
+87. [Incrementally Adopting Next.js](../../web-development/nextjs/incrementally-adopting-next-js.md) ([Source](https://nextjs.org/blog/incremental-adoption)) - `web-development/nextjs`
+88. [Next.js 10](../../web-development/nextjs/next-js-10.md) ([Source](https://nextjs.org/blog/next-10)) - `web-development/nextjs`
+89. [Next.js 9.5](../../web-development/nextjs/next-js-9-5.md) ([Source](https://nextjs.org/blog/next-9-5)) - `web-development/nextjs`
+90. [Next.js 9.4](../../web-development/nextjs/next-js-9-4.md) ([Source](https://nextjs.org/blog/next-9-4)) - `web-development/nextjs`
+91. [Next.js 9.3](../../web-development/nextjs/next-js-9-3.md) ([Source](https://nextjs.org/blog/next-9-3)) - `web-development/nextjs`
+92. [Next.js 9.2](../../web-development/nextjs/next-js-9-2.md) ([Source](https://nextjs.org/blog/next-9-2)) - `web-development/nextjs`
+93. [Next.js 9.1.7](../../web-development/nextjs/next-js-9-1-7.md) ([Source](https://nextjs.org/blog/next-9-1-7)) - `web-development/nextjs`
+94. [Introducing Create Next App](../../web-development/nextjs/introducing-create-next-app.md) ([Source](https://nextjs.org/blog/create-next-app)) - `web-development/nextjs`
+95. [Next.js 9.1](../../ai/rag/next-js-9-1.md) ([Source](https://nextjs.org/blog/next-9-1)) - `ai/rag`
+96. [Next.js 9.0.7](../../web-development/nextjs/next-js-9-0-7.md) ([Source](https://nextjs.org/blog/next-9-0-7)) - `web-development/nextjs`
+97. [Next.js 9](../../web-development/nextjs/next-js-9.md) ([Source](https://nextjs.org/blog/next-9)) - `web-development/nextjs`
+98. [Next.js 8.1](../../web-development/nextjs/next-js-8-1.md) ([Source](https://nextjs.org/blog/next-8-1)) - `web-development/nextjs`
+99. [Next.js 8.0.4](../../web-development/nextjs/next-js-8-0-4.md) ([Source](https://nextjs.org/blog/next-8-0-4)) - `web-development/nextjs`
+100. [Styling Next.js with Styled JSX](../../web-development/nextjs/styling-next-js-with-styled-jsx.md) ([Source](https://nextjs.org/blog/styling-next-with-styled-jsx)) - `web-development/nextjs`
+101. [Next.js 8 Webpack Memory Improvements](../../web-development/nextjs/next-js-8-webpack-memory-improvements.md) ([Source](https://nextjs.org/blog/webpack-memory)) - `web-development/nextjs`
+102. [Next.js 8](../../web-development/nextjs/next-js-8.md) ([Source](https://nextjs.org/blog/next-8)) - `web-development/nextjs`
+103. [Next.js 7](../../web-development/nextjs/next-js-7.md) ([Source](https://nextjs.org/blog/next-7)) - `web-development/nextjs`
+104. [Next.js 6.1](../../web-development/nextjs/next-js-6-1.md) ([Source](https://nextjs.org/blog/next-6-1)) - `web-development/nextjs`
+105. [Next.js 6 and Nextjs.org](../../web-development/nextjs/next-js-6-and-nextjs-org.md) ([Source](https://nextjs.org/blog/next-6)) - `web-development/nextjs`
+106. [Next.js 5.1: Faster Page Resolution, Environment Config & More](../../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md) ([Source](https://nextjs.org/blog/next-5-1)) - `web-development/nextjs`
+107. [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](../../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md) ([Source](https://nextjs.org/blog/next-5)) - `web-development/nextjs`
+108. [The React Foundation: A New Home for React Hosted by the Linux Foundation](../../web-development/the-react-foundation-a-new-home-for-react-hosted-b.md) ([Source](https://react.dev/blog/2026/02/24/the-react-foundation)) - `web-development`
+109. [Denial of Service and Source Code Exposure in React Server Components](../../web-development/denial-of-service-and-source-code-exposure-in-reac.md) ([Source](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)) - `web-development`
+110. [Critical Security Vulnerability in React Server Components](../../web-development/critical-security-vulnerability-in-react-server-co.md) ([Source](https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components)) - `web-development`
+111. [React Conf 2025 Recap](../../web-development/react-conf-2025-recap.md) ([Source](https://react.dev/blog/2025/10/16/react-conf-2025-recap)) - `web-development`
+112. [React Compiler v1.0](../../web-development/react-compiler-v1-0.md) ([Source](https://react.dev/blog/2025/10/07/react-compiler-1)) - `web-development`
+113. [Introducing the React Foundation](../../web-development/introducing-the-react-foundation.md) ([Source](https://react.dev/blog/2025/10/07/introducing-the-react-foundation)) - `web-development`
+114. [React 19.2](../../web-development/react-19-2.md) ([Source](https://react.dev/blog/2025/10/01/react-19-2)) - `web-development`
+115. [React Labs: View Transitions, Activity, and more](../../web-development/react-labs-view-transitions-activity-and-more.md) ([Source](https://react.dev/blog/2025/04/23/react-labs-view-transitions-activity-and-more)) - `web-development`
+116. [Sunsetting Create React App](../../ai/rag/sunsetting-create-react-app.md) ([Source](https://react.dev/blog/2025/02/14/sunsetting-create-react-app)) - `ai/rag`
+117. [React v19](../../web-development/react-v19.md) ([Source](https://react.dev/blog/2024/12/05/react-19)) - `web-development`
+118. [React Compiler Beta Release](../../web-development/react-compiler-beta-release.md) ([Source](https://react.dev/blog/2024/10/21/react-compiler-beta-release)) - `web-development`
+119. [React Conf 2024 Recap](../../web-development/react-conf-2024-recap.md) ([Source](https://react.dev/blog/2024/05/22/react-conf-2024-recap)) - `web-development`
+120. [React 19 Upgrade Guide](../../web-development/react-19-upgrade-guide.md) ([Source](https://react.dev/blog/2024/04/25/react-19-upgrade-guide)) - `web-development`
+121. [React Labs: What We've Been Working On – February 2024](../../web-development/react-labs-what-we-ve-been-working-on-february-202.md) ([Source](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)) - `web-development`
+122. [React Canaries: Enabling Incremental Feature Rollout Outside Meta](../../web-development/react-canaries-enabling-incremental-feature-rollou.md) ([Source](https://react.dev/blog/2023/05/03/react-canaries)) - `web-development`
+123. [React Labs: What We've Been Working On – March 2023](../../web-development/react-labs-what-we-ve-been-working-on-march-2023.md) ([Source](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023)) - `web-development`
+124. [Introducing react.dev](../../web-development/introducing-react-dev.md) ([Source](https://react.dev/blog/2023/03/16/introducing-react-dev)) - `web-development`
+125. [React Labs: What We've Been Working On – June 2022](../../web-development/react-labs-what-we-ve-been-working-on-june-2022.md) ([Source](https://react.dev/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022)) - `web-development`
+126. [React v18.0](../../web-development/react-v18-0.md) ([Source](https://react.dev/blog/2022/03/29/react-v18)) - `web-development`
+127. [How to Upgrade to React 18](../../web-development/how-to-upgrade-to-react-18.md) ([Source](https://react.dev/blog/2022/03/08/react-18-upgrade-guide)) - `web-development`
+128. [React Conf 2021 Recap](../../web-development/react-conf-2021-recap.md) ([Source](https://react.dev/blog/2021/12/17/react-conf-2021-recap)) - `web-development`
+129. [The Plan for React 18](../../web-development/the-plan-for-react-18.md) ([Source](https://react.dev/blog/2021/06/08/the-plan-for-react-18)) - `web-development`
+130. [Introducing Zero-Bundle-Size React Server Components](../../web-development/introducing-zero-bundle-size-react-server-componen.md) ([Source](https://react.dev/blog/2020/12/21/data-fetching-with-react-server-components)) - `web-development`
 
 ## Weekly Research Insights
 
@@ -417,6 +420,25 @@ This week had strong activity around frontend tools.
 228. [Multi-Mask Diffusion Language Models for Few-Step Generation](../../ai/research/arxiv-2607-19686.md) ([Source](https://arxiv.org/abs/2607.19686)) - `ai/research`
 229. [DFAH-Bench: Benchmarking Observable Agent Instability in Financial Decision-Making](../../ai/agents/arxiv-2607-20491.md) ([Source](https://arxiv.org/abs/2607.20491)) - `ai/agents`
 230. [The Geometry of Personality: Activation Steering with Jungian Cognitive Functions](../../ai/research/arxiv-2607-20803.md) ([Source](https://arxiv.org/abs/2607.20803)) - `ai/research`
+231. [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](../../ai/research/retrieval-augmented-generation-for-knowledge-inten.md) ([Source](https://semanticscholar.org/paper/659bf9ce7175e1ec266ff54359e2bd76e0b7ff31)) - `ai/research`
+232. [Retrieval-Augmented Generation for Large Language Models: A Survey](../../ai/research/retrieval-augmented-generation-for-large-language.md) ([Source](https://semanticscholar.org/paper/46f9f7b8f88f72e12cbdb21e3311f995eb6e65c5)) - `ai/research`
+233. [RAGAs: Automated Evaluation of Retrieval Augmented Generation](../../ai/research/ragas-automated-evaluation-of-retrieval-augmented.md) ([Source](https://semanticscholar.org/paper/f5e9e5bbe22f0263be1f1ce88c66978a2b927772)) - `ai/research`
+234. [Benchmarking Retrieval-Augmented Generation for Medicine](../../ai/research/benchmarking-retrieval-augmented-generation-for-me.md) ([Source](https://semanticscholar.org/paper/b798cf6af813638fab09a8af6ad0f3df6c241485)) - `ai/research`
+235. [LightRAG: Simple and Fast Retrieval-Augmented Generation](../../ai/research/lightrag-simple-and-fast-retrieval-augmented-gener.md) ([Source](https://semanticscholar.org/paper/1ea143c34b9bc359780f79ba4d68dee68bcc1129)) - `ai/research`
+236. [PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models](../../ai/research/poisonedrag-knowledge-corruption-attacks-to-retrie.md) ([Source](https://semanticscholar.org/paper/f4e06256ab07727ff4e0465deea83fcf45012354)) - `ai/research`
+237. [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](../../ai/research/agentic-retrieval-augmented-generation-a-survey-on.md) ([Source](https://semanticscholar.org/paper/ba7952e7c4fb891c36980ca19f94251257da6eb7)) - `ai/research`
+238. [G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](../../ai/research/g-retriever-retrieval-augmented-generation-for-tex.md) ([Source](https://semanticscholar.org/paper/a41d4a3b005c8ec4f821e6ee96672d930ca9596c)) - `ai/research`
+239. [MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop Queries](../../ai/research/multihop-rag-benchmarking-retrieval-augmented-gene.md) ([Source](https://semanticscholar.org/paper/4e71624e90960cb003e311a0fe3b8be4c2863239)) - `ai/research`
+240. [MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot](../../ai/research/medrag-enhancing-retrieval-augmented-generation-wi.md) ([Source](https://semanticscholar.org/paper/da83852315c884c73dc527a4b7bc1209fbb037c3)) - `ai/research`
+241. [MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems](../../ai/research/mtrag-a-multi-turn-conversational-benchmark-for-ev.md) ([Source](https://semanticscholar.org/paper/bb7047071062aea5d846005ff6dcd7782d29103e)) - `ai/research`
+242. [Retrieval-Augmented Generation for AI-Generated Content: A Survey](../../ai/research/retrieval-augmented-generation-for-ai-generated-co.md) ([Source](https://semanticscholar.org/paper/ab15463babf98fffc6f683fe2026de0725b5e1a9)) - `ai/research`
+243. [Improving large language model applications in biomedicine with retrieval-augmented generation: a systematic review, meta-analysis, and clinical development guidelines](../../ai/research/improving-large-language-model-applications-in-bio.md) ([Source](https://semanticscholar.org/paper/83939671534dc3d374c9bc4e3e03b5ec2c7ba301)) - `ai/research`
+244. [VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos](../../ai/research/videorag-retrieval-augmented-generation-with-extre.md) ([Source](https://semanticscholar.org/paper/4b8588b56d5f0ffab3f19f7e90a9416f247b6f05)) - `ai/research`
+245. [ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents](../../ai/research/vidorag-visual-document-retrieval-augmented-genera.md) ([Source](https://semanticscholar.org/paper/afa3685b3a2bd6986346330c9dc990b64407e4ca)) - `ai/research`
+246. [HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation](../../ai/research/hypergraphrag-retrieval-augmented-generation-via-h.md) ([Source](https://semanticscholar.org/paper/f9aae0a851d4c58eebad0f48d4324f1bdb7232d4)) - `ai/research`
+247. [VDocRAG: Retrieval-Augmented Generation over Visually-Rich Documents](../../ai/research/vdocrag-retrieval-augmented-generation-over-visual.md) ([Source](https://semanticscholar.org/paper/92c437def1133aafbd7bd98fe9185cb84aa5b10d)) - `ai/research`
+248. [The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG)](../../ai/research/the-good-and-the-bad-exploring-privacy-issues-in-r.md) ([Source](https://semanticscholar.org/paper/ea89b058ce619ed16d4de633126b02a8179457c8)) - `ai/research`
+249. [Active Retrieval Augmented Generation](../../ai/research/active-retrieval-augmented-generation.md) ([Source](https://semanticscholar.org/paper/88884b8806262a4095036041e3567d450dba39f7)) - `ai/research`
 
 ## Weekly Company Updates
 
@@ -1254,15 +1276,15 @@ This week had strong activity around frontend tools.
 832. [AI Adoption](../../ai/companies/openai/ai-adoption.md) ([Source](https://openai.com/news/ai-adoption)) - `ai/companies/openai`
 833. [Applied AI](../../ai/companies/openai/applied-ai.md) ([Source](https://openai.com/news/applied-ai)) - `ai/companies/openai`
 834. [ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.](../../ai/companies/anthropic/productjun-30-2026introducing-claude-sonnet-5sonne.md) ([Source](https://anthropic.com/news/claude-sonnet-5)) - `ai/companies/anthropic`
-835. [Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients](../../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md) ([Source](https://anthropic.com/news/cognizant-anthropic)) - `ai/companies/anthropic`
-836. [Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](../../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md) ([Source](https://anthropic.com/news/economic-futures-research-fund-agenda)) - `ai/companies/anthropic`
-837. [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md) ([Source](https://anthropic.com/news/anthropic-economic-index-connector)) - `ai/companies/anthropic`
-838. [Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](../../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md) ([Source](https://anthropic.com/news/donation-public-first-action)) - `ai/companies/anthropic`
-839. [Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants](../../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md) ([Source](https://anthropic.com/news/rare-disease-research-grants)) - `ai/companies/anthropic`
-840. [Jul 14, 2026ProductIntroducing Claude for Teachers](../../ai/companies/anthropic/jul-14-2026productintroducing-claude-for-teachers.md) ([Source](https://anthropic.com/news/claude-for-teachers)) - `ai/companies/anthropic`
-841. [Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research](../../ai/companies/anthropic/jul-14-2026announcementsanthropic-commits-10-milli.md) ([Source](https://anthropic.com/news/canadian-ai-research)) - `ai/companies/anthropic`
-842. [Jul 9, 2026Case StudyUST is bringing Claude to physical AI](../../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md) ([Source](https://anthropic.com/news/ust-claude)) - `ai/companies/anthropic`
-843. [Responsible Scaling Policy](../../ai/companies/anthropic/responsible-scaling-policy.md) ([Source](https://anthropic.com/news/announcing-our-updated-responsible-scaling-policy)) - `ai/companies/anthropic`
+835. [Jul 27, 2026AnnouncementsOur position on open-weights models](../../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md) ([Source](https://anthropic.com/news/position-open-weights-models)) - `ai/companies/anthropic`
+836. [Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients](../../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md) ([Source](https://anthropic.com/news/cognizant-anthropic)) - `ai/companies/anthropic`
+837. [Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](../../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md) ([Source](https://anthropic.com/news/economic-futures-research-fund-agenda)) - `ai/companies/anthropic`
+838. [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md) ([Source](https://anthropic.com/news/anthropic-economic-index-connector)) - `ai/companies/anthropic`
+839. [Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](../../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md) ([Source](https://anthropic.com/news/donation-public-first-action)) - `ai/companies/anthropic`
+840. [Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants](../../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md) ([Source](https://anthropic.com/news/rare-disease-research-grants)) - `ai/companies/anthropic`
+841. [Jul 14, 2026ProductIntroducing Claude for Teachers](../../ai/companies/anthropic/jul-14-2026productintroducing-claude-for-teachers.md) ([Source](https://anthropic.com/news/claude-for-teachers)) - `ai/companies/anthropic`
+842. [Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research](../../ai/companies/anthropic/jul-14-2026announcementsanthropic-commits-10-milli.md) ([Source](https://anthropic.com/news/canadian-ai-research)) - `ai/companies/anthropic`
+843. [Jul 9, 2026Case StudyUST is bringing Claude to physical AI](../../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md) ([Source](https://anthropic.com/news/ust-claude)) - `ai/companies/anthropic`
 844. [SIMA 2An agent that plays, reasons, and learns with you](../../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md) ([Source](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds)) - `ai/companies/deepmind`
 845. [AlphaEarthMap our planet in unprecedented detail](../../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md) ([Source](https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail)) - `ai/companies/deepmind`
 846. [AlphaEvolveDesign advanced algorithms for math and applications in computing](../../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md) ([Source](https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms)) - `ai/companies/deepmind`
@@ -1300,34 +1322,34 @@ No updates collected under this section this week.
 3. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
 4. [NirDiamant/agents-towards-production](../../ai/rag/nirdiamant-agents-towards-production.md) ([Source](https://github.com/nirdiamant/agents-towards-production)) (Stars: 0, Language: Unknown) - `ai/rag`
 5. [bakrianoo/mini-rag](../../ai/rag/bakrianoo-mini-rag.md) ([Source](https://github.com/bakrianoo/mini-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-6. [pguso/rag-from-scratch](../../ai/rag/pguso-rag-from-scratch.md) ([Source](https://github.com/pguso/rag-from-scratch)) (Stars: 0, Language: Unknown) - `ai/rag`
-7. [Azure-Samples/chat-with-your-data-solution-accelerator](../../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md) ([Source](https://github.com/azure-samples/chat-with-your-data-solution-accelerator)) (Stars: 0, Language: Unknown) - `ai/rag`
-8. [EternityJune25/ComoRAG](../../ai/rag/eternityjune25-comorag.md) ([Source](https://github.com/eternityjune25/comorag)) (Stars: 0, Language: Unknown) - `ai/rag`
-9. [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
-10. [vercel-labs/workflow-builder-template](../../ai/rag/vercel-labs-workflow-builder-template.md) ([Source](https://github.com/vercel-labs/workflow-builder-template)) (Stars: 0, Language: Unknown) - `ai/rag`
-11. [DEEP-PolyU/LinearRAG](../../ai/rag/deep-polyu-linearrag.md) ([Source](https://github.com/deep-polyu/linearrag)) (Stars: 0, Language: Unknown) - `ai/rag`
-12. [WenyuChiou/awesome-agentic-ai-zh](../../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) ([Source](https://github.com/wenyuchiou/awesome-agentic-ai-zh)) (Stars: 0, Language: Unknown) - `ai/rag`
-13. [alvinreal/awesome-opensource-ai](../../ai/rag/alvinreal-awesome-opensource-ai.md) ([Source](https://github.com/alvinreal/awesome-opensource-ai)) (Stars: 0, Language: Unknown) - `ai/rag`
-14. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
-15. [raganwald/raganwald.github.com](../../ai/rag/raganwald-raganwald-github-com.md) ([Source](https://github.com/raganwald/raganwald.github.com)) (Stars: 0, Language: Unknown) - `ai/rag`
-16. [malonge/RaGOO](../../ai/rag/malonge-ragoo.md) ([Source](https://github.com/malonge/ragoo)) (Stars: 0, Language: Unknown) - `ai/rag`
-17. [ragnarokoffline/ragnarokoffline.github.io](../../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md) ([Source](https://github.com/ragnarokoffline/ragnarokoffline.github.io)) (Stars: 0, Language: Unknown) - `ai/rag`
-18. [datawhalechina/llm-universe](../../ai/rag/datawhalechina-llm-universe.md) ([Source](https://github.com/datawhalechina/llm-universe)) (Stars: 0, Language: Unknown) - `ai/rag`
-19. [datawhalechina/all-in-rag](../../ai/rag/datawhalechina-all-in-rag.md) ([Source](https://github.com/datawhalechina/all-in-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-20. [SylphAI-Inc/GithubChat](../../ai/rag/sylphai-inc-githubchat.md) ([Source](https://github.com/sylphai-inc/githubchat)) (Stars: 0, Language: Unknown) - `ai/rag`
+6. [malonge/RaGOO](../../ai/rag/malonge-ragoo.md) ([Source](https://github.com/malonge/ragoo)) (Stars: 0, Language: Unknown) - `ai/rag`
+7. [pguso/rag-from-scratch](../../ai/rag/pguso-rag-from-scratch.md) ([Source](https://github.com/pguso/rag-from-scratch)) (Stars: 0, Language: Unknown) - `ai/rag`
+8. [Azure-Samples/chat-with-your-data-solution-accelerator](../../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md) ([Source](https://github.com/azure-samples/chat-with-your-data-solution-accelerator)) (Stars: 0, Language: Unknown) - `ai/rag`
+9. [ragnarokoffline/ragnarokoffline.github.io](../../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md) ([Source](https://github.com/ragnarokoffline/ragnarokoffline.github.io)) (Stars: 0, Language: Unknown) - `ai/rag`
+10. [EternityJune25/ComoRAG](../../ai/rag/eternityjune25-comorag.md) ([Source](https://github.com/eternityjune25/comorag)) (Stars: 0, Language: Unknown) - `ai/rag`
+11. [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
+12. [vercel-labs/workflow-builder-template](../../ai/rag/vercel-labs-workflow-builder-template.md) ([Source](https://github.com/vercel-labs/workflow-builder-template)) (Stars: 0, Language: Unknown) - `ai/rag`
+13. [DEEP-PolyU/LinearRAG](../../ai/rag/deep-polyu-linearrag.md) ([Source](https://github.com/deep-polyu/linearrag)) (Stars: 0, Language: Unknown) - `ai/rag`
+14. [WenyuChiou/awesome-agentic-ai-zh](../../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) ([Source](https://github.com/wenyuchiou/awesome-agentic-ai-zh)) (Stars: 0, Language: Unknown) - `ai/rag`
+15. [alvinreal/awesome-opensource-ai](../../ai/rag/alvinreal-awesome-opensource-ai.md) ([Source](https://github.com/alvinreal/awesome-opensource-ai)) (Stars: 0, Language: Unknown) - `ai/rag`
+16. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
+17. [SylphAI-Inc/GithubChat](../../ai/rag/sylphai-inc-githubchat.md) ([Source](https://github.com/sylphai-inc/githubchat)) (Stars: 0, Language: Unknown) - `ai/rag`
+18. [raganwald/raganwald.github.com](../../ai/rag/raganwald-raganwald-github-com.md) ([Source](https://github.com/raganwald/raganwald.github.com)) (Stars: 0, Language: Unknown) - `ai/rag`
+19. [datawhalechina/llm-universe](../../ai/rag/datawhalechina-llm-universe.md) ([Source](https://github.com/datawhalechina/llm-universe)) (Stars: 0, Language: Unknown) - `ai/rag`
+20. [datawhalechina/all-in-rag](../../ai/rag/datawhalechina-all-in-rag.md) ([Source](https://github.com/datawhalechina/all-in-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
 21. [ParticleMedia/RAGTruth](../../ai/rag/particlemedia-ragtruth.md) ([Source](https://github.com/particlemedia/ragtruth)) (Stars: 0, Language: Unknown) - `ai/rag`
 
 ## Most Updated Skills
 
-- [RAG](../../skills/rag.md) (105 updates)
+- [RAG](../../skills/rag.md) (124 updates)
 - [Vector Databases](../../skills/vector-databases.md) (104 updates)
-- [AI Agents](../../skills/ai-agents.md) (83 updates)
-- [AI Coding Agents](../../skills/ai-coding-agents.md) (57 updates)
-- [Workflow Automation](../../skills/automation.md) (40 updates)
-- [LLMOps](../../skills/llmops.md) (27 updates)
+- [AI Agents](../../skills/ai-agents.md) (85 updates)
+- [AI Coding Agents](../../skills/ai-coding-agents.md) (61 updates)
+- [Workflow Automation](../../skills/automation.md) (43 updates)
+- [LLMOps](../../skills/llmops.md) (28 updates)
 - [Local LLMs & Inference](../../skills/local-llm.md) (23 updates)
 - [FastAPI](../../skills/fastapi.md) (11 updates)
-- [Prompt Engineering](../../skills/prompt-engineering.md) (8 updates)
+- [Prompt Engineering](../../skills/prompt-engineering.md) (9 updates)
 - [Model Context Protocol (MCP)](../../skills/mcp.md) (6 updates)
 
 ## Recommended Projects To Build
@@ -1337,4 +1359,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-07-28T01:42:03.523025+05:30
+2026-07-28T04:05:28.651655+05:30

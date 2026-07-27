@@ -9962,6 +9962,7 @@ Resources organized by publisher feed and query sources.
   - [Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md)
   - [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)
   - [Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md)
+  - [Jul 27, 2026AnnouncementsOur position on open-weights models](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md)
   - [Jul 9, 2026Case StudyUST is bringing Claude to physical AI](../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md)
   - [Leanstral 1.5: Proof Abundance for All](../ai/companies/mistral/leanstral-1-5-proof-abundance-for-all.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
@@ -9973,7 +9974,6 @@ Resources organized by publisher feed and query sources.
   - [ProductIntroducing Search ToolkitProduction search pipelines, anywhere.May 28, 2026By Mistral](../ai/companies/mistral/productintroducing-search-toolkitproduction-search.md)
   - [ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.](../ai/companies/anthropic/productjun-30-2026introducing-claude-sonnet-5sonne.md)
   - [Publications](../ai/companies/publications.md)
-  - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
   - [Voxtral TTS](../ai/companies/mistral/voxtral-tts.md)
@@ -10732,10 +10732,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware](../ai/community/bitcoin-trail-google-cookies-and-uber-eats-orders.md)
   - [Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](../ai/community/exploiting-volvo-eicher-s-fleet-platform-to-gain-c.md)
   - [MAI-Cyber-1-Flash inside MDASH](../ai/community/mai-cyber-1-flash-inside-mdash.md)
   - [Modern email can be built from borrowed parts](../ai/community/modern-email-can-be-built-from-borrowed-parts.md)
+  - [My current strategy is to not read any of the code written by my agents](../ai/community/my-current-strategy-is-to-not-read-any-of-the-code.md)
   - [Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](../web-development/community/removing-react-js-from-the-codebase-and-adapting-h.md)
+  - [Securing Services with Rootless Containers](../ai/community/securing-services-with-rootless-containers.md)
   - [Self-contained highly-portable Python distributions](../ai/community/self-contained-highly-portable-python-distribution.md)
   - [Show HN: FeyNoBg – Automatic background removal model and training library](../ai/community/show-hn-feynobg-automatic-background-removal-model.md)
 
@@ -13994,4 +13997,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-28T01:42:24.812172+05:30*
+*Index generated on 2026-07-28T04:05:50.138224+05:30*

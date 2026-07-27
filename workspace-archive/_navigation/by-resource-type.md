@@ -113,7 +113,7 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Global Affairs](https://openai.com/news/global-affairs) (Tier: `useful` | [`Local File`](../../ai/companies/openai/global-affairs.md))
 - [Applied AI](https://openai.com/news/applied-ai) (Tier: `useful` | [`Local File`](../../ai/companies/openai/applied-ai.md))
 - [Engineering](https://openai.com/news/engineering) (Tier: `useful` | [`Local File`](../../ai/companies/openai/engineering.md))
-- [Responsible Scaling Policy](https://anthropic.com/news/announcing-our-updated-responsible-scaling-policy) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/responsible-scaling-policy.md))
+- [Jul 27, 2026AnnouncementsOur position on open-weights models](https://anthropic.com/news/position-open-weights-models) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md))
 - [Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants](https://anthropic.com/news/rare-disease-research-grants) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md))
 - [Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](https://anthropic.com/news/donation-public-first-action) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md))
 - [Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients](https://anthropic.com/news/cognizant-anthropic) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md))
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) (Tier: `useful` | [`Local File`](../../ai/agents/ed1s0nz-cyberstrikeai.md))
 
 ---
-*Last updated: 2026-07-28 01:43 IST*
+*Last updated: 2026-07-28 04:07 IST*

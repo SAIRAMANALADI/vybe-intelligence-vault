@@ -17308,6 +17308,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `hackernews`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://bitbucket.org>
 
+* **[Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware](ai/community/bitcoin-trail-google-cookies-and-uber-eats-orders.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by rzk. Score: 10, Comments: 3. Original Link: https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://theverge.com/games/967174/steam-game-malware-cryptostealer-arrest>
+
 * **[Black Forest Labs · GitHub](ai/resources/black-forest-labs-github.md)** (`mcp-server` | `essential` tier)
   * Summary: - **FLUX Model Ecosystem**: Black Forest Labs maintains official inference repositories for FLUX models (e.g., `flux`, `flux2`) under Apache-2.0 license, with Python-based implementations and high community adoption (e.g., `flux` repo has 25.7k+ star
   * Tags: `scripts`, `web-crawled`, `workflows`
@@ -17909,7 +17914,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://services.github.com>
 
 * **[Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](ai/community/exploiting-volvo-eicher-s-fleet-platform-to-gain-c.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by EatonZ. Score: 66, Comments: 13. Original Link: https://eaton-works.com/2026/07/27/my-eicher-hack/
+  * Summary: Hacker News story by EatonZ. Score: 113, Comments: 34. Original Link: https://eaton-works.com/2026/07/27/my-eicher-hack/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://eaton-works.com/2026/07/27/my-eicher-hack>
 
@@ -18889,7 +18894,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.14373>
 
 * **[MAI-Cyber-1-Flash inside MDASH](ai/community/mai-cyber-1-flash-inside-mdash.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by migmartri. Score: 177, Comments: 90. Original Link: https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/
+  * Summary: Hacker News story by migmartri. Score: 200, Comments: 107. Original Link: https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash>
 
@@ -19004,7 +19009,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.10126>
 
 * **[Modern email can be built from borrowed parts](ai/community/modern-email-can-be-built-from-borrowed-parts.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by andros. Score: 142, Comments: 65. Original Link: https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/
+  * Summary: Hacker News story by andros. Score: 162, Comments: 91. Original Link: https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts>
 
@@ -19037,6 +19042,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.12429v1 Announce Type: cross Abstract: Muse Spark is the latest large language model developed by Meta. In this report, we first present evaluations for catastrophic risk domains under Meta's Advanced AI Scaling Framework, along with the e
   * Tags: `benchmark`, `meta-ai`, `producthunt`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.12429>
+
+* **[My current strategy is to not read any of the code written by my agents](ai/community/my-current-strategy-is-to-not-read-any-of-the-code.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by SantiDev. Score: 41, Comments: 33. Original Link: https://twitter.com/unclebobmartin/status/2080257779395154409?s=20
+  * Tags: `agents`, `hackernews`
+  * Source URL: <https://twitter.com/unclebobmartin/status/2080257779395154409?s=20>
 
 * **[MyoInteract: A Framework for Fast Prototyping of Biomechanical HCI Tasks using Reinforcement Learning](ai/research/arxiv-2602-15245.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.15245v2 Announce Type: replace-cross Abstract: Reinforcement learning (RL)-based biomechanical simulations have the potential to revolutionise HCI research and interaction design, but currently lack usability and interpretability. Using th
@@ -19484,7 +19494,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack>
 
 * **[Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](web-development/community/removing-react-js-from-the-codebase-and-adapting-h.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Ralfp. Score: 182, Comments: 126. Original Link: https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/
+  * Summary: Hacker News story by Ralfp. Score: 199, Comments: 147. Original Link: https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/
   * Tags: `frontend_ui`, `hackernews`, `react`
   * Source URL: <https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267>
 
@@ -19628,6 +19638,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `paper`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.16003>
 
+* **[Securing Services with Rootless Containers](ai/community/securing-services-with-rootless-containers.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by speckx. Score: 21, Comments: 8. Original Link: https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers>
+
 * **[Security model](ai/rag/security-model.md)** (`template` | `useful` tier)
   * Summary: - **Trust Model**: Hugo distinguishes between trusted (templates, assets) and untrusted (content, content adapters) sources, with exceptions for inline shortcodes; the `hugo server` is trusted but restricted to local development. - **Runtime Security
   * Tags: `rag`, `reddit`, `web-crawled`, `workflows`
@@ -19649,7 +19664,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html>
 
 * **[Self-contained highly-portable Python distributions](ai/community/self-contained-highly-portable-python-distribution.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by jcbhmr. Score: 29, Comments: 2. Original Link: https://gregoryszorc.com/docs/python-build-standalone/main/
+  * Summary: Hacker News story by jcbhmr. Score: 80, Comments: 18. Original Link: https://gregoryszorc.com/docs/python-build-standalone/main/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://gregoryszorc.com/docs/python-build-standalone/main>
 
@@ -19679,7 +19694,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://shibuya.lepture.com>
 
 * **[Show HN: FeyNoBg – Automatic background removal model and training library](ai/community/show-hn-feynobg-automatic-background-removal-model.md)** (`framework` | `useful` tier)
-  * Summary: Hacker News story by snyy. Score: 44, Comments: 12. Original Link: https://usefeyn.com/blog/feynobg/
+  * Summary: Hacker News story by snyy. Score: 73, Comments: 21. Original Link: https://usefeyn.com/blog/feynobg/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://usefeyn.com/blog/feynobg>
 
@@ -89513,11 +89528,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2312.08230>
 
-* **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * RAGTruth is a specialized hallucination corpus designed for evaluating and mitigating factual inconsistencies in RAG outputs. * The repository provides resources for developing trustworthy Retrieval-Augmented Language Models (RAGs). * It serves as
-  * Tags: `benchmark`, `dataset`, `github-repo`, `python`, `rag`
-  * Source URL: <https://github.com/ParticleMedia/RAGTruth>
-
 * **[PASs-MoE: Mitigating Misaligned Co-drift among Router and Experts via Pathway Activation Subspaces for Continual Learning](ai/research/arxiv-2601-13020.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2601.13020v2 Announce Type: replace-cross Abstract: Continual instruction tuning (CIT) requires multimodal large language models (MLLMs) to adapt to a stream of tasks without forgetting prior capabilities. A common strategy is to isolate update
   * Tags: `benchmark`, `models`
@@ -93879,7 +93889,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5128, Downloads: 253094980)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5130, Downloads: 253094980)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -101725,6 +101735,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
   * Source URL: <https://anthropic.com/news/cognizant-anthropic>
 
+* **[Jul 27, 2026AnnouncementsOur position on open-weights models](ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Jul 27, 2026AnnouncementsOur position on open-weights models
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`, `models`
+  * Source URL: <https://anthropic.com/news/position-open-weights-models>
+
 * **[Jul 9, 2026Case StudyUST is bringing Claude to physical AI](ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: Jul 9, 2026Case StudyUST is bringing Claude to physical AI
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
@@ -101814,11 +101829,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Recent update from Microsoft Research Blog Blog: Publications
   * Tags: `blog-post`, `microsoft-research-blog`
   * Source URL: <https://microsoft.com/en-us/research/publications>
-
-* **[Responsible Scaling Policy](ai/companies/anthropic/responsible-scaling-policy.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: Responsible Scaling Policy
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/announcing-our-updated-responsible-scaling-policy>
 
 * **[Search & information retrieval](ai/companies/search-information-retrieval.md)** (`benchmark` | `useful` tier)
   * Summary: Recent update from Microsoft Research Blog Blog: Search & information retrieval
@@ -106277,9 +106287,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2512.01317>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: * Comprehensive RAG development guide leveraging `langchain` and `llama-index` for orchestration and system construction. * Integrates vector databases like `Milvus` and graph databases such as `Neo4j` for advanced knowledge retrieval and management.
-  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
+  * Summary: * Provides a full-stack guide to Retrieval Augmented Generation (RAG) technology, encompassing implementation and advanced strategies. * Covers diverse RAG components, including multimodal data processing, various embedding techniques, and integratio
+  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`, `reddit`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -106287,8 +106297,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tutorial` | `useful` tier)
-  * Summary: * Comprehensive tutorial on large language model (LLM) application development. *
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`benchmark` | `useful` tier)
+  * Summary: * Provides practical LLM application development guidance, specifically leveraging LangChain and Retrieval-Augmented Generation
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -111642,6 +111652,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2604.20711>
 
+* **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
+  * Summary: * Introduces RAGTruth, a specialized corpus for identifying and analyzing hallucinations in RAG systems. * Aims to facilitate the development of trustworthy Retrieval-Augmented Language Models. * Supports research into RAG factual consistency and rel
+  * Tags: `github-repo`, `python`, `rag`
+  * Source URL: <https://github.com/ParticleMedia/RAGTruth>
+
 * **[Passkeys for Developers](ai/rag/passkeys-for-developers.md)** (`tutorial` | `useful` tier)
   * Summary: - **Phishing-resistant authentication**: Passkeys leverage public-key cryptography where servers store only the public key, eliminating password reuse risks and mitigating phishing attacks via domain-specific binding. - **Multi-device, biometric supp
   * Tags: `hackernews`, `rag`, `web-crawled`, `youtube`
@@ -112423,7 +112438,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://superml.org/tutorials/rag-beginner>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll-based static site source for `raganwald.com`.
+  * Summary: * Jekyll-powered static site source for `raganwald.com`.
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 

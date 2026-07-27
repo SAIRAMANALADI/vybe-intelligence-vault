@@ -1704,6 +1704,7 @@ Resources organized by keyword tags.
   - [Multimodality as Supervision: Self-Supervised Specialization to the Test Environment via Multimodality](../ai/rag/arxiv-2607-14721.md)
   - [Multiplayer Interactive World Models with Representation Autoencoders](../ai/agents/arxiv-2607-05352.md)
   - [My Chemical Harness: Evolutionary Molecular Design over Synthetic Pathways with Large Language Model Agents](../ai/agents/arxiv-2606-11256.md)
+  - [My current strategy is to not read any of the code written by my agents](../ai/community/my-current-strategy-is-to-not-read-any-of-the-code.md)
   - [MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents](../ai/agents/arxiv-2606-16748.md)
   - [NAVI-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model for Autonomous Earth Observation](../ai/agents/arxiv-2606-18271.md)
   - [NEMO: Execution-Aware Optimization Modeling via Autonomous Coding Agents](../ai/agents/arxiv-2601-21372.md)
@@ -3155,9 +3156,11 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware](../ai/community/bitcoin-trail-google-cookies-and-uber-eats-orders.md)
   - [Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](../ai/community/exploiting-volvo-eicher-s-fleet-platform-to-gain-c.md)
   - [MAI-Cyber-1-Flash inside MDASH](../ai/community/mai-cyber-1-flash-inside-mdash.md)
   - [Modern email can be built from borrowed parts](../ai/community/modern-email-can-be-built-from-borrowed-parts.md)
+  - [Securing Services with Rootless Containers](../ai/community/securing-services-with-rootless-containers.md)
   - [Self-contained highly-portable Python distributions](../ai/community/self-contained-highly-portable-python-distribution.md)
   - [Show HN: FeyNoBg – Automatic background removal model and training library](../ai/community/show-hn-feynobg-automatic-background-removal-model.md)
 
@@ -3368,6 +3371,7 @@ Resources organized by keyword tags.
   - [Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md)
   - [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)
   - [Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md)
+  - [Jul 27, 2026AnnouncementsOur position on open-weights models](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md)
   - [Jul 9, 2026Case StudyUST is bringing Claude to physical AI](../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md)
   - [Jupyter AI](../ai/rag/jupyter-ai.md)
   - [Just A Rather Very Intelligent Spoken Agent](../ai/agents/arxiv-2607-16610.md)
@@ -3450,7 +3454,6 @@ Resources organized by keyword tags.
   - [ResearchClawBench: A Benchmark for End-to-End Autonomous Scientific Research](../ai/rag/arxiv-2606-07591.md)
   - [ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog](../ai/agents/arxiv-2607-04438.md)
   - [Resources - Linux Foundation - Education](../ai/rag/resources-linux-foundation-education.md)
-  - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
   - [Robust Reasoning Benchmark](../ai/rag/arxiv-2604-08571.md)
   - [RuBench: A Repository-Level Agentic Coding Benchmark with Natively Authored Russian Task Specifications](../ai/agents/arxiv-2607-06411.md)
   - [Ruby: Unmasking Unsafe Rust in Stripped Binaries via Machine Learning](../ai/research/arxiv-2211-00111.md)
@@ -3583,9 +3586,9 @@ Resources organized by keyword tags.
   - [Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md)
   - [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)
   - [Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md)
+  - [Jul 27, 2026AnnouncementsOur position on open-weights models](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md)
   - [Jul 9, 2026Case StudyUST is bringing Claude to physical AI](../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md)
   - [ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.](../ai/companies/anthropic/productjun-30-2026introducing-claude-sonnet-5sonne.md)
-  - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
 
 ## astro
 
@@ -6457,7 +6460,6 @@ Resources organized by keyword tags.
   - [Parametric and Generative Forecasts of EPEX Day\char45 Ahead Energy Market Curves](../ai/rag/arxiv-2601-20226.md)
   - [Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches](../ai/research/arxiv-2312-08230.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [PatchOptic for Shared-State LLM Workflows with Projected Views and Verified Structured Updates](../ai/rag/arxiv-2607-05483.md)
   - [Patcher: Post-Hoc Patching of Backdoored Large Language Models](../ai/research/arxiv-2606-02995.md)
   - [PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](../ai/agents/arxiv-2607-19261.md)
@@ -8102,6 +8104,7 @@ Resources organized by keyword tags.
   - [Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md)
   - [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)
   - [Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md)
+  - [Jul 27, 2026AnnouncementsOur position on open-weights models](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md)
   - [Jul 9, 2026Case StudyUST is bringing Claude to physical AI](../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md)
   - [Leanstral 1.5: Proof Abundance for All](../ai/companies/mistral/leanstral-1-5-proof-abundance-for-all.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
@@ -8113,7 +8116,6 @@ Resources organized by keyword tags.
   - [ProductIntroducing Search ToolkitProduction search pipelines, anywhere.May 28, 2026By Mistral](../ai/companies/mistral/productintroducing-search-toolkitproduction-search.md)
   - [ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.](../ai/companies/anthropic/productjun-30-2026introducing-claude-sonnet-5sonne.md)
   - [Publications](../ai/companies/publications.md)
-  - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
   - [Voxtral TTS](../ai/companies/mistral/voxtral-tts.md)
@@ -10014,7 +10016,6 @@ Resources organized by keyword tags.
   - [Parameter-Efficient Vision-Language Adaptation with Continuous Metadata Conditioning for Animal Re-Identification](../ai/research/arxiv-2607-09443.md)
   - [Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification](../ai/research/arxiv-2604-26675.md)
   - [ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](../ai/research/arxiv-2606-04468.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pathways of Visual Information Flow in Vision-Language Models](../ai/research/arxiv-2607-03358.md)
   - [Pattern-Aware Graph Neural Networks for Handling Missing Data](../ai/rag/arxiv-2607-08915.md)
   - [Pediatric Bone Age Prediction Using Deep Learning](../ai/research/arxiv-2607-16936.md)
@@ -12493,6 +12494,7 @@ Resources organized by keyword tags.
   - [BioSecBench-Surveillance: A Verifiable Benchmark for AI Agents in Pathogen Genomic Surveillance](../ai/agents/arxiv-2607-19262.md)
   - [Bitbucket Home Page](../ai/rag/bitbucket-home-page.md)
   - [Bitbucket | Git solution for teams using Jira](../ai/rag/bitbucket-git-solution-for-teams-using-jira.md)
+  - [Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware](../ai/community/bitcoin-trail-google-cookies-and-uber-eats-orders.md)
   - [Bitwise Systolic Array Architecture for Runtime-Reconfigurable Multi-precision Quantized Multiplication on Hardware Accelerators](../ai/research/arxiv-2602-23334.md)
   - [Blacklight – The Markup](../ai/resources/blacklight-the-markup.md)
   - [Blockchain and Smart Contract Development Courses - Cyfrin Updraft](../ai/resources/blockchain-and-smart-contract-development-courses.md)
@@ -13407,6 +13409,7 @@ Resources organized by keyword tags.
   - [Multi-modal cross-domain mixed fusion model with dual disentanglement for fault diagnosis under unseen working conditions](../ai/research/arxiv-2512-24679.md)
   - [Multimodal Deepfake Detection and Watermarking with Secure Voice AI | Resemble AI](../ai/rag/multimodal-deepfake-detection-and-watermarking-wit.md)
   - [Multimodal Molecular Representation Learning with Graph Neural Networks, Deep & Cross Networks, and SMILES Embeddings](../ai/rag/arxiv-2607-05736.md)
+  - [My current strategy is to not read any of the code written by my agents](../ai/community/my-current-strategy-is-to-not-read-any-of-the-code.md)
   - [Mémo pour Télétravail](../ai/rag/memo-pour-teletravail.md)
   - [NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision - NASA Science](../ai/resources/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic.md)
   - [NEST: Nascent Encoded Steganographic Thoughts](../ai/agents/arxiv-2602-14095.md)
@@ -13789,6 +13792,7 @@ Resources organized by keyword tags.
   - [Section 1201 - 2010 | U.S. Copyright Office](../ai/agents/section-1201-2010-u-s-copyright-office.md)
   - [Section 1201 Study | U.S. Copyright Office](../ai/agents/section-1201-study-u-s-copyright-office.md)
   - [Secure-by-Disguise: A Systematic Evaluation of Image Disguising for Confidential Medical Image Modeling](../ai/research/arxiv-2607-08867.md)
+  - [Securing Services with Rootless Containers](../ai/community/securing-services-with-rootless-containers.md)
   - [Securing the Future of IoMT in the Post-Quantum Era: An Edge-Native Federated Learning Approach](../ai/research/arxiv-2606-14515.md)
   - [Securing the Web](../ai/rag/securing-the-web.md)
   - [Security Content Automation Protocol | CSRC](../ai/rag/security-content-automation-protocol-csrc.md)
@@ -16482,6 +16486,7 @@ Resources organized by keyword tags.
   - [JourneyFormer: Encoding Airbnb Guest Journey with Sequence Modeling](../ai/rag/arxiv-2606-19108.md)
   - [JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models](../ai/research/arxiv-2607-16074.md)
   - [Judging the Judges: A Systematic Evaluation of Bias Mitigation Strategies in LLM-as-a-Judge Pipelines](../ai/research/arxiv-2604-23178.md)
+  - [Jul 27, 2026AnnouncementsOur position on open-weights models](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md)
   - [JupOtter: Cell-Level Bug Detection in Jupyter Notebooks](../ai/research/arxiv-2606-23877.md)
   - [Jupyter AI](../ai/rag/jupyter-ai.md)
   - [Just Keep Prompting: Evaluating Repetitive Socratic Prompting in VLMs](../ai/research/arxiv-2607-14099.md)
@@ -26574,6 +26579,7 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [dart compile](../ai/rag/dart-compile.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents · PyPI](../ai/agents/deepagents-pypi.md)
@@ -32495,4 +32501,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-28T01:42:24.662962+05:30*
+*Index generated on 2026-07-28T04:05:49.981820+05:30*

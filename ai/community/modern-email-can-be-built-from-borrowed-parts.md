@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts
 hn_url: https://news.ycombinator.com/item?id=49066639
-score: 142
+score: 162
 author: andros
-comments_count: 65
+comments_count: 91
 published_at: '2026-07-27T13:57:21+05:30'
-collected_at: '2026-07-28T01:25:21.378163+05:30'
+collected_at: '2026-07-28T03:48:37.649998+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:modern-email-can-be-built-from-borrowed-parts
 first_seen: '2026-07-27T20:43:30.435556+05:30'
-last_seen: '2026-07-28T01:25:21.378163+05:30'
-last_checked: '2026-07-28T01:25:21.378163+05:30'
+last_seen: '2026-07-28T03:48:37.649998+05:30'
+last_checked: '2026-07-28T03:48:37.649998+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by andros. Score: 142, Comments: 65.
+Hacker News story by andros. Score: 162, Comments: 91.
 Original Link: https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: andros
-- Score: 142 Upvotes
-- Comments: 65 Discussions
+- Score: 162 Upvotes
+- Comments: 91 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49066639
 - Original Article: https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts
 

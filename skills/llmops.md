@@ -19,13 +19,13 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 786 resources matched in the intelligence vault.
+Active signals: 787 resources matched in the intelligence vault.
 Recently detected signals:
-- [Layer-wise LoRA fine-tuning: a similarity metric approach](../ai/rag/arxiv-2602-05988.md) (Source: Unknown Source) - Collected 2026-07-28
-- [FBLayout: Optimizing Memory Layout for Efficient LLM Finetuning on Mobile GPUs](../ai/rag/arxiv-2607-21624.md) (Source: Unknown Source) - Collected 2026-07-28
-- [Procedural Knowledge Is Not Low-Rank: Why LoRA Fails to Internalize Multi-Step Procedures](../ai/rag/arxiv-2607-21612.md) (Source: Unknown Source) - Collected 2026-07-28
-- [\k{appa}-LoRA: Condition Numbers Reveal Which LoRA Matrices Worth Updating](../ai/rag/arxiv-2607-22489.md) (Source: Unknown Source) - Collected 2026-07-28
-- [IFCLoRA: Topology-Aware Rank Allocation for Parameter-Efficient Fine-Tuning](../ai/research/arxiv-2607-22251.md) (Source: Unknown Source) - Collected 2026-07-28
+- [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](../ai/research/retrieval-augmented-generation-for-knowledge-inten.md) (Source: Unknown Source) - Collected 2026-07-28
+- [Accelerating PyTorch distributed fine-tuning with Intel technologies](../ai/models/huggingface-blog-accelerating-pytorch.md) (Source: Unknown Source) - Collected 2026-07-28
+- [Using LoRA for Efficient Stable Diffusion Fine-Tuning](../ai/models/huggingface-blog-lora.md) (Source: Unknown Source) - Collected 2026-07-28
+- [Parameter-Efficient Fine-Tuning using 🤗 PEFT](../ai/models/huggingface-blog-peft.md) (Source: Unknown Source) - Collected 2026-07-28
+- [Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU](../ai/models/huggingface-blog-trl-peft.md) (Source: Unknown Source) - Collected 2026-07-28
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -226,4 +226,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-28T01:41:20.310041+05:30.639517+05:30.536761+05:30.188078+05:30.529905+05:30.965633+05:30.152342+05:30.626666+05:30.108517+05:30.753151+05:30.271887+05:30.872075+05:30.966688+05:30.250978+05:30.037358+05:30.968714+05:30.629281+05:30.095697+05:30.472432+05:30.920693+05:30.010068+05:30.598886+05:30.701957+05:30.295240+05:30.440210+05:30.976494+05:30.702173+05:30.617479+05:30.465113+05:30.684701+05:30.230418+05:30.444668+05:30.111348+05:30.417501+05:30.152166+05:30.721703+05:30.915382+05:30.966615+05:30.764113+05:30.385557+05:30.567332+05:30.735695+05:30.745434+05:30.313265+05:30.467864+05:30.366258+05:30.850219+05:30.600182+05:30.827864+05:30.160807+05:30.551753+05:30.048264+05:30.580228+05:30.218675+05:30.737117+05:30.133154+05:30.907114+05:30.995114+05:30.879918+05:30.100207+05:30.992961+05:30.772346+05:30.817559+05:30.413937+05:30.324484+05:30.472404+05:30.722344+05:30.088271+05:30.008202+05:30.416368+05:30.558129+05:30.641788+05:30.475206+05:30.316516+05:30.443954+05:30.251607+05:30.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-28T04:04:44.839955+05:30.310041+05:30.639517+05:30.536761+05:30.188078+05:30.529905+05:30.965633+05:30.152342+05:30.626666+05:30.108517+05:30.753151+05:30.271887+05:30.872075+05:30.966688+05:30.250978+05:30.037358+05:30.968714+05:30.629281+05:30.095697+05:30.472432+05:30.920693+05:30.010068+05:30.598886+05:30.701957+05:30.295240+05:30.440210+05:30.976494+05:30.702173+05:30.617479+05:30.465113+05:30.684701+05:30.230418+05:30.444668+05:30.111348+05:30.417501+05:30.152166+05:30.721703+05:30.915382+05:30.966615+05:30.764113+05:30.385557+05:30.567332+05:30.735695+05:30.745434+05:30.313265+05:30.467864+05:30.366258+05:30.850219+05:30.600182+05:30.827864+05:30.160807+05:30.551753+05:30.048264+05:30.580228+05:30.218675+05:30.737117+05:30.133154+05:30.907114+05:30.995114+05:30.879918+05:30.100207+05:30.992961+05:30.772346+05:30.817559+05:30.413937+05:30.324484+05:30.472404+05:30.722344+05:30.088271+05:30.008202+05:30.416368+05:30.558129+05:30.641788+05:30.475206+05:30.316516+05:30.443954+05:30.251607+05:30.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.

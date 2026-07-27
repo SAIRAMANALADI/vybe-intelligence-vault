@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/llm-universe
-collected_at: '2026-07-28T01:25:56.726360+05:30'
+collected_at: '2026-07-28T03:49:20.685944+05:30'
 published_at: '2026-07-27T15:46:10Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2023-10-29T16:01:22Z'
 pushed_at: '2026-02-24T14:33:21Z'
 resource_id: github:datawhalechina/llm-universe
-first_seen: '2026-07-28T01:25:56.726360+05:30'
-last_seen: '2026-07-28T01:25:56.726360+05:30'
-last_checked: '2026-07-28T01:25:56.726360+05:30'
+first_seen: '2026-07-28T03:49:20.685944+05:30'
+last_seen: '2026-07-28T03:49:20.685944+05:30'
+last_checked: '2026-07-28T03:49:20.685944+05:30'
 health_score: 100
 ---
 
@@ -27,8 +27,7 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive tutorial on large language model (LLM) application development.
-*
+*   Provides practical LLM application development guidance, specifically leveraging LangChain and Retrieval-Augmented Generation
 
 ## Why It Matters
 

@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-28T03:43:18.978587+05:30`
+Generated at: `2026-07-28T04:08:17.323892+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,36 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **My current strategy is to not read any of the code written by my agents** - Score: `41` in category `ai/community` ([Link](https://twitter.com/unclebobmartin/status/2080257779395154409?s=20)) ([File](../ai/community/my-current-strategy-is-to-not-read-any-of-the-code.md))
+- **Securing Services with Rootless Containers** - Score: `21` in category `ai/community` ([Link](https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers)) ([File](../ai/community/securing-services-with-rootless-containers.md))
+- **Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware** - Score: `10` in category `ai/community` ([Link](https://theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)) ([File](../ai/community/bitcoin-trail-google-cookies-and-uber-eats-orders.md))
+- **Jul 27, 2026AnnouncementsOur position on open-weights models** - Score: `0` in category `ai/companies/anthropic` ([Link](https://anthropic.com/news/position-open-weights-models)) ([File](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md))
 
 ## Top Trending Resources
 
-- **e2b-dev/awesome-ai-agents** - Score: `0` (0), Rank Change: `+965` ([File](../ai/agents/e2b-dev-awesome-ai-agents.md))
-- **WenyuChiou/awesome-agentic-ai-zh** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md))
-- **czl9707/build-your-own-openclaw** - Score: `0` (0), Rank Change: `+965` ([File](../ai/agents/czl9707-build-your-own-openclaw.md))
-- **DEEP-PolyU/LinearRAG** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/deep-polyu-linearrag.md))
-- **EternityJune25/ComoRAG** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/eternityjune25-comorag.md))
-- **bakrianoo/mini-rag** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/bakrianoo-mini-rag.md))
-- **NirDiamant/agents-towards-production** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/nirdiamant-agents-towards-production.md))
-- **alvinreal/awesome-opensource-ai** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/alvinreal-awesome-opensource-ai.md))
-- **Azure-Samples/chat-with-your-data-solution-accelerator** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md))
-- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/pguso-rag-from-scratch.md))
+- **Self-contained highly-portable Python distributions** - Score: `80` (+51), Rank Change: `+1` ([File](../ai/community/self-contained-highly-portable-python-distribution.md))
+- **Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles** - Score: `113` (+47), Rank Change: `0` ([File](../ai/community/exploiting-volvo-eicher-s-fleet-platform-to-gain-c.md))
+- **Show HN: FeyNoBg – Automatic background removal model and training library** - Score: `73` (+29), Rank Change: `-1` ([File](../ai/community/show-hn-feynobg-automatic-background-removal-model.md))
+- **MAI-Cyber-1-Flash inside MDASH** - Score: `200` (+23), Rank Change: `+1` ([File](../ai/community/mai-cyber-1-flash-inside-mdash.md))
+- **Modern email can be built from borrowed parts** - Score: `162` (+20), Rank Change: `0` ([File](../ai/community/modern-email-can-be-built-from-borrowed-parts.md))
+- **Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)** - Score: `199` (+17), Rank Change: `-1` ([File](../web-development/community/removing-react-js-from-the-codebase-and-adapting-h.md))
+- **Jul 9, 2026Case StudyUST is bringing Claude to physical AI** - Score: `0` (0), Rank Change: `+76` ([File](../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md))
+- **Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research** - Score: `0` (0), Rank Change: `+76` ([File](../ai/companies/anthropic/jul-14-2026announcementsanthropic-commits-10-milli.md))
+- **Jul 14, 2026ProductIntroducing Claude for Teachers** - Score: `0` (0), Rank Change: `+76` ([File](../ai/companies/anthropic/jul-14-2026productintroducing-claude-for-teachers.md))
+- **Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants** - Score: `0` (0), Rank Change: `+76` ([File](../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **infiniflow/ragflow** - (Rank Change: `+12780`) ([File](../ai/rag/infiniflow-ragflow-2.md))
-- **monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1** - (Rank Change: `+967`) ([File](../ai/rag/monday-service-langsmith-building-a-code-first-eva.md))
-- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+967`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
-- **promptfoo/promptfoo-action** - (Rank Change: `+967`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
-- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+967`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
-- **Understanding RAG from Scratch | martinuke0's Blog** - (Rank Change: `+967`) ([File](../ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md))
-- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+967`) ([File](../ai/rag/arxiv-2606-29031.md))
-- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+967`) ([File](../ai/research/arxiv-2606-26428.md))
-- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+967`) ([File](../ai/research/arxiv-2606-21887.md))
-- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+967`) ([File](../ai/rag/arxiv-2606-09677.md))
+- **Applied AI** - (Rank Change: `+839`) ([File](../ai/companies/openai/applied-ai.md))
+- **AI Adoption** - (Rank Change: `+839`) ([File](../ai/companies/openai/ai-adoption.md))
+- **Global Affairs** - (Rank Change: `+839`) ([File](../ai/companies/openai/global-affairs.md))
+- **Engineering** - (Rank Change: `+839`) ([File](../ai/companies/openai/engineering.md))
+- **Jul 9, 2026Case StudyUST is bringing Claude to physical AI** - (Rank Change: `+76`) ([File](../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md))
+- **Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research** - (Rank Change: `+76`) ([File](../ai/companies/anthropic/jul-14-2026announcementsanthropic-commits-10-milli.md))
+- **Jul 14, 2026ProductIntroducing Claude for Teachers** - (Rank Change: `+76`) ([File](../ai/companies/anthropic/jul-14-2026productintroducing-claude-for-teachers.md))
+- **Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants** - (Rank Change: `+76`) ([File](../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md))
+- **Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action** - (Rank Change: `+76`) ([File](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md))
+- **Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index** - (Rank Change: `+76`) ([File](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md))
 
 ## 🔄 Essential Tier Transitions
 
