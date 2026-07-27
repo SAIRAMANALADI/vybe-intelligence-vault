@@ -13,13 +13,14 @@ collected_at: '2026-07-27T03:42:55.360021+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:multiway-turing-machines-2021-pre-ai
 first_seen: '2026-07-27T03:42:55.360021+05:30'
 last_seen: '2026-07-27T03:42:55.360021+05:30'
 last_checked: '2026-07-27T03:42:55.360021+05:30'
 health_score: 100
 ---
+
 
 # Multiway Turing Machines (2021 pre-ai)
 

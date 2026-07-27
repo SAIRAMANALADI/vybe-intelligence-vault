@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:london-gatwick-has-launched-a-robotic-airport-park
 first_seen: '2026-07-26T21:45:31.174978+05:30'
 last_seen: '2026-07-27T03:42:57.006713+05:30'
 last_checked: '2026-07-27T03:42:57.006713+05:30'
 health_score: 100
 ---
+
 
 # London Gatwick has launched a robotic airport parking service
 

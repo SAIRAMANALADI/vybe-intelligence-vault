@@ -13,13 +13,14 @@ collected_at: '2026-07-27T03:42:56.694490+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:grapheneos-protections-against-data-extraction-fro
 first_seen: '2026-07-26T14:10:00.370351+05:30'
 last_seen: '2026-07-27T03:42:56.694490+05:30'
 last_checked: '2026-07-27T03:42:56.694490+05:30'
 health_score: 100
 ---
+
 
 # GrapheneOS protections against data extraction from locked devices
 
