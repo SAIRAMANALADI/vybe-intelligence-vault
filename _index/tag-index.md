@@ -14,7 +14,6 @@ Resources organized by keyword tags.
   - [0xSteph/pentest-ai-agents](../ai/agents/0xsteph-pentest-ai-agents.md)
   - [1-Click RCE To Steal Your OpenClaw Data and Keys (CVE-2026-25253) | depthfirst](../ai/rag/1-click-rce-to-steal-your-openclaw-data-and-keys-c.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
-  - [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md)
   - [15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Blog](../ai/agents/15-updates-from-google-i-o-2026-powering-the-agent.md)
   - [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md)
   - [2.5-D Decomposition for LLM-Based Spatial Construction](../ai/agents/arxiv-2605-07066.md)
@@ -3156,7 +3155,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [The New AI Superpowers: Focus and Followthrough](../ai/community/the-new-ai-superpowers-focus-and-followthrough.md)
+  - [AI companies are shredding rare books](../ai/community/ai-companies-are-shredding-rare-books.md)
+  - [AI companies spend record sums on Washington lobbying](../ai/community/ai-companies-spend-record-sums-on-washington-lobby.md)
+  - [Modern email can be built from borrowed parts](../ai/community/modern-email-can-be-built-from-borrowed-parts.md)
   - [US citizen charged after GrapheneOS phone wipes during airport search](../ai/community/us-citizen-charged-after-grapheneos-phone-wipes-du.md)
 
 ## animation
@@ -3622,7 +3623,6 @@ Resources organized by keyword tags.
   - [(MPO)$^2$: Multivariate Polynomial Optimization based on Matrix Product Operators](../ai/rag/arxiv-2607-15916.md)
   - [1. GEPA Overview - DSPy](../ai/rag/1-gepa-overview-dspy.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
-  - [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md)
   - [17 U.S. Code § 107 - Limitations on exclusive rights: Fair use | U.S. Code | US Law | LII / Legal Information Institute](../ai/rag/17-u-s-code-ss-107-limitations-on-exclusive-rights.md)
   - [2.5-D Decomposition for LLM-Based Spatial Construction](../ai/agents/arxiv-2605-07066.md)
   - [3D-DefectBench: A Controlled Factorial Study of Vision-Language Model Evaluation Pipelines for Fine-Grained 3D Generation Defects](../ai/research/arxiv-2607-10826.md)
@@ -6456,6 +6456,7 @@ Resources organized by keyword tags.
   - [Parametric and Generative Forecasts of EPEX Day\char45 Ahead Energy Market Curves](../ai/rag/arxiv-2601-20226.md)
   - [Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches](../ai/research/arxiv-2312-08230.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [PatchOptic for Shared-State LLM Workflows with Projected Views and Verified Structured Updates](../ai/rag/arxiv-2607-05483.md)
   - [Patcher: Post-Hoc Patching of Backdoored Large Language Models](../ai/research/arxiv-2606-02995.md)
   - [PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](../ai/agents/arxiv-2607-19261.md)
@@ -8269,7 +8270,6 @@ Resources organized by keyword tags.
   - [$\mathtt{Q^2SAR}$: overcoming classical bottlenecks in drug discovery via quantum multiple kernel learning](../ai/rag/arxiv-2607-11701.md)
   - [(Human) Attention Is (Still) All You Need: Human oversight makes AI-assisted social science reliable](../ai/agents/arxiv-2606-12848.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
-  - [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md)
   - [3D Motion Perception of Binocular Vision Target with PID-CNN](../ai/research/arxiv-2511-20332.md)
   - [4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception](../ai/agents/arxiv-2607-09629.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
@@ -10980,7 +10980,6 @@ Resources organized by keyword tags.
   - [#1 Real-Time AI Voice SDK | Krisp](../ai/agents/1-real-time-ai-voice-sdk-krisp.md)
   - [(Deprecated) Android Room with a View - Kotlin | Android Developers](../ai/rag/deprecated-android-room-with-a-view-kotlin-android.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
-  - [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md)
   - [2025 Stack Overflow Developer Survey](../ai/rag/2025-stack-overflow-developer-survey.md)
   - [A Deep Learning-based surrogate model for Severe Accidents in nuclear reactors using ASTEC](../ai/research/arxiv-2607-04450.md)
   - [A Multi-Agent Framework for Zero-Dimensional Reduced-Order Model Planning](../ai/rag/arxiv-2607-10994.md)
@@ -11304,6 +11303,7 @@ Resources organized by keyword tags.
   - [Reliable mechanistic operator recovery with biologically-informed neural networks: principles for architecture and optimisation design](../ai/research/arxiv-2607-07425.md)
   - [Remember, Don't Re-read: Stateful ReAct Agents for Token-Efficient Autonomous Experimentation](../ai/agents/arxiv-2606-14945.md)
   - [Remix - A Web Framework for Building Anything](../ai/agents/remix-a-web-framework-for-building-anything.md)
+  - [Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](../web-development/community/removing-react-js-from-the-codebase-and-adapting-h.md)
   - [Replit – Build apps and sites with AI - Replit](../ai/rag/replit-build-apps-and-sites-with-ai-replit.md)
   - [Research | Cornell University](../ai/rag/research-cornell-university.md)
   - [Researching with GitHub Copilot CLI - GitHub Docs](../ai/agents/researching-with-github-copilot-cli-github-docs.md)
@@ -12211,7 +12211,6 @@ Resources organized by keyword tags.
   - [1. GEPA Overview - DSPy](../ai/rag/1-gepa-overview-dspy.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
   - [100 Years of Stanford Engineering](../ai/rag/100-years-of-stanford-engineering.md)
-  - [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md)
   - [15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Blog](../ai/agents/15-updates-from-google-i-o-2026-powering-the-agent.md)
   - [17 U.S. Code § 107 - Limitations on exclusive rights: Fair use | U.S. Code | US Law | LII / Legal Information Institute](../ai/rag/17-u-s-code-ss-107-limitations-on-exclusive-rights.md)
   - [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md)
@@ -12295,6 +12294,8 @@ Resources organized by keyword tags.
   - [AI Watermarking 101: Tools and Techniques](../ai/models/huggingface-blog-watermarking.md)
   - [AI and Cloud Computing Services | Google Cloud](../ai/rag/ai-and-cloud-computing-services-google-cloud.md)
   - [AI and ML | Google Cloud Documentation](../ai/rag/ai-and-ml-google-cloud-documentation.md)
+  - [AI companies are shredding rare books](../ai/community/ai-companies-are-shredding-rare-books.md)
+  - [AI companies spend record sums on Washington lobbying](../ai/community/ai-companies-spend-record-sums-on-washington-lobby.md)
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
@@ -13387,6 +13388,7 @@ Resources organized by keyword tags.
   - [Models Can Model, But Can't Bind: Structured Grounding in Text-to-Optimization](../ai/research/arxiv-2605-21751.md)
   - [Modern Infrastructure Monitoring â Turnkey Platform | Bleemeo](../ai/rag/modern-infrastructure-monitoring-a-turnkey-platfor.md)
   - [Modern analog computing for solving differential and matrix equations](../ai/rag/arxiv-2606-13179.md)
+  - [Modern email can be built from borrowed parts](../ai/community/modern-email-can-be-built-from-borrowed-parts.md)
   - [Modular RAG: Transforming RAG Systems into LEGO-like Reconfigurable Frameworks](../ai/rag/modular-rag-transforming-rag-systems-into-lego-lik.md)
   - [MongoDB Vector Search | MongoDB](../ai/rag/mongodb-vector-search-mongodb.md)
   - [MongoDB: The World’s Leading Modern Data Platform | MongoDB](../ai/rag/mongodb-the-worlds-leading-modern-data-platform-mo.md)
@@ -13691,6 +13693,7 @@ Resources organized by keyword tags.
   - [Remote Awareness of Seafloor Images Collected by AUVs over Low-Bandwidth Communication Links](../ai/rag/arxiv-2607-18013.md)
   - [Remote Development - Visual Studio Marketplace](../ai/rag/remote-development-visual-studio-marketplace.md)
   - [Remote sensing data imputation using deep learning for multispectral imagery](../ai/research/arxiv-2605-24003.md)
+  - [Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](../web-development/community/removing-react-js-from-the-codebase-and-adapting-h.md)
   - [RepTran: Search-Based Repair of Transformer Models](../ai/rag/arxiv-2607-11193.md)
   - [Replication in Visual Diffusion Models: A Survey and Outlook](../ai/research/arxiv-2408-00001.md)
   - [Replit – Build apps and sites with AI - Replit](../ai/rag/replit-build-apps-and-sites-with-ai-replit.md)
@@ -13981,7 +13984,6 @@ Resources organized by keyword tags.
   - [The Integrator Advantage: Controlled Agentic AI for Small and Medium-Sized Companies](../ai/agents/arxiv-2606-16649.md)
   - [The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology](../ai/rag/arxiv-2607-06531.md)
   - [The Method of Gaps: Exact Expressions for the Generalization Error of Supervised Learning Algorithms](../ai/research/arxiv-2411-12030.md)
-  - [The New AI Superpowers: Focus and Followthrough](../ai/community/the-new-ai-superpowers-focus-and-followthrough.md)
   - [The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students](../ai/agents/arxiv-2607-11292.md)
   - [The Power of Light: Improving Synthetic-to-Real Domain Adaptation through Physically-Based Indirect Illumination](../ai/research/arxiv-2606-22574.md)
   - [The Remarkable Effectiveness of Providing AI Agents with Natural Language Tools: A Replication Study Validating NLT Performance Across 14 Models](../ai/rag/arxiv-2607-03953.md)
@@ -14851,7 +14853,6 @@ Resources organized by keyword tags.
 ## meta-ai
 
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
-  - [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md)
   - [2025 Stack Overflow Developer Survey](../ai/rag/2025-stack-overflow-developer-survey.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
   - [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)
@@ -15397,7 +15398,6 @@ Resources organized by keyword tags.
   - [(LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware](../ai/models/huggingface-blog-flux-qlora.md)
   - [1. GEPA Overview - DSPy](../ai/rag/1-gepa-overview-dspy.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
-  - [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md)
   - [15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Blog](../ai/agents/15-updates-from-google-i-o-2026-powering-the-agent.md)
   - [17 U.S. Code § 107 - Limitations on exclusive rights: Fair use | U.S. Code | US Law | LII / Legal Information Institute](../ai/rag/17-u-s-code-ss-107-limitations-on-exclusive-rights.md)
   - [2.5-D Decomposition for LLM-Based Spatial Construction](../ai/agents/arxiv-2605-07066.md)
@@ -16921,6 +16921,7 @@ Resources organized by keyword tags.
   - [Parametric Memory Decoding for Zero-Shot Routing in LoRA-Based External Parametric Memory](../ai/research/arxiv-2607-04118.md)
   - [Parthenon Law: A Self-Evolving Legal-Agent Framework](../ai/agents/arxiv-2606-04602.md)
   - [Partial Fusion of Neural Networks: Efficient Tradeoffs Between Ensembles and Weight Aggregation](../ai/research/arxiv-2605-22350.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pass@K Policy Optimization: Solving Harder Reinforcement Learning Problems](../ai/research/arxiv-2505-15201.md)
   - [Patcher: Post-Hoc Patching of Backdoored Large Language Models](../ai/research/arxiv-2606-02995.md)
   - [PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](../ai/agents/arxiv-2607-19261.md)
@@ -17915,7 +17916,6 @@ Resources organized by keyword tags.
   - ["Not in My Backyard": LLMs Uncover Online and Offline Social Biases Against Homelessness](../ai/research/arxiv-2508-13187.md)
   - [1. GEPA Overview - DSPy](../ai/rag/1-gepa-overview-dspy.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
-  - [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md)
   - [2.5-D Decomposition for LLM-Based Spatial Construction](../ai/agents/arxiv-2605-07066.md)
   - [2025 Stack Overflow Developer Survey](../ai/rag/2025-stack-overflow-developer-survey.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
@@ -21242,7 +21242,6 @@ Resources organized by keyword tags.
   - [1. GEPA Overview - DSPy](../ai/rag/1-gepa-overview-dspy.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
   - [100 Years of Stanford Engineering](../ai/rag/100-years-of-stanford-engineering.md)
-  - [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md)
   - [17 U.S. Code § 107 - Limitations on exclusive rights: Fair use | U.S. Code | US Law | LII / Legal Information Institute](../ai/rag/17-u-s-code-ss-107-limitations-on-exclusive-rights.md)
   - [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md)
   - [2.3 to 2.4 | Dovecot CE](../ai/rag/2-3-to-2-4-dovecot-ce.md)
@@ -25460,6 +25459,10 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
+## react
+
+  - [Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](../web-development/community/removing-react-js-from-the-codebase-and-adapting-h.md)
+
 ## reddit
 
   - ["I understand your perspective": LLM Persuasion through the Lens of Communicative Action Theory](../ai/rag/arxiv-2606-08076.md)
@@ -25471,7 +25474,6 @@ Resources organized by keyword tags.
   - [- Ernest](../ai/resources/ernest.md)
   - [1. GEPA Overview - DSPy](../ai/rag/1-gepa-overview-dspy.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
-  - [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md)
   - [15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Blog](../ai/agents/15-updates-from-google-i-o-2026-powering-the-agent.md)
   - [2.3 to 2.4 | Dovecot CE](../ai/rag/2-3-to-2-4-dovecot-ce.md)
   - [2018 Transparency Report - The GitHub Blog](../ai/resources/2018-transparency-report-the-github-blog.md)
@@ -26569,6 +26571,7 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [dart compile](../ai/rag/dart-compile.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents · PyPI](../ai/agents/deepagents-pypi.md)
@@ -26711,7 +26714,6 @@ Resources organized by keyword tags.
   - [0x4m4/hexstrike-ai](../ai/agents/0x4m4-hexstrike-ai.md)
   - [0xSteph/pentest-ai-agents](../ai/agents/0xsteph-pentest-ai-agents.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
-  - [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md)
   - [15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Blog](../ai/agents/15-updates-from-google-i-o-2026-powering-the-agent.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
   - [A Docker Tutorial for Beginners](../ai/rag/a-docker-tutorial-for-beginners.md)
@@ -27649,7 +27651,6 @@ Resources organized by keyword tags.
   - [1.5.4 Ownership and Use of Stanford Trademarks and Images | Administrative Guide](../ai/resources/1-5-4-ownership-and-use-of-stanford-trademarks-and.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
   - [100 Years of Stanford Engineering](../ai/rag/100-years-of-stanford-engineering.md)
-  - [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md)
   - [15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Blog](../ai/agents/15-updates-from-google-i-o-2026-powering-the-agent.md)
   - [17 U.S. Code § 107 - Limitations on exclusive rights: Fair use | U.S. Code | US Law | LII / Legal Information Institute](../ai/rag/17-u-s-code-ss-107-limitations-on-exclusive-rights.md)
   - [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md)
@@ -29862,7 +29863,6 @@ Resources organized by keyword tags.
   - [0xSteph/pentest-ai-agents](../ai/agents/0xsteph-pentest-ai-agents.md)
   - [1. GEPA Overview - DSPy](../ai/rag/1-gepa-overview-dspy.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
-  - [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md)
   - [15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Blog](../ai/agents/15-updates-from-google-i-o-2026-powering-the-agent.md)
   - [2025 Stack Overflow Developer Survey](../ai/rag/2025-stack-overflow-developer-survey.md)
   - [24*I:cset_awesome*](../ai/agents/24-i-cset-awesome.md)
@@ -31028,7 +31028,6 @@ Resources organized by keyword tags.
   - [- YouTube](../ai/rag/youtube-gnjgt-ib-e.md)
   - [- YouTube](../ai/rag/youtube-pbcra-zart4.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
-  - [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md)
   - [15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Blog](../ai/agents/15-updates-from-google-i-o-2026-powering-the-agent.md)
   - [2025 Stack Overflow Developer Survey](../ai/rag/2025-stack-overflow-developer-survey.md)
   - [3D Masked Autoencoders are Robust Learners of Volumetric and Multimodal Cellular Representations for Microscopy](../ai/rag/arxiv-2606-23964.md)
@@ -32494,4 +32493,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-27T15:56:16.110804+05:30*
+*Index generated on 2026-07-27T21:00:31.983470+05:30*

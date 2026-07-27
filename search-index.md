@@ -16858,11 +16858,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `anthropic`, `benchmark`, `hackernews`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://dspy.ai/api/optimizers/GEPA/overview>
 
-* **[15 Best Open-Source RAG Frameworks in 2026](ai/rag/15-best-open-source-rag-frameworks-in-2026.md)** (`framework` | `useful` tier)
-  * Summary: * RAG remains a critical technique in 2026 for enhancing LLM capabilities,
-  * Tags: `agents`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
-  * Source URL: <https://www.firecrawl.dev/blog/best-open-source-rag-frameworks>
-
 * **[7 Best GitHub Repositories For Mastering RAG Systems](ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)** (`framework` | `useful` tier)
   * Summary: * Retrieval-Augmented Generation (RAG) systems enhance Large Language Models (LLMs) by integrating external, context-specific data retrieval to mitigate knowledge cut-off and hallucination, improving response accuracy and temporal relevance. * RAG fr
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `producthunt`, `rag`, `reddit`, `scripts`, `threejs`, `web-crawled`, `workflows`
@@ -17052,6 +17047,16 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Gemini Enterprise Agent Platform**: Unified platform for building, deploying, and managing AI models/agents, including tools like Model Garden, Agent Development Kit (ADK), and Agent Runtime for scalable production deployment. - **ML Workflow Too
   * Tags: `agents`, `hackernews`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://docs.cloud.google.com/docs/ai-ml>
+
+* **[AI companies are shredding rare books](ai/community/ai-companies-are-shredding-rare-books.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by anon373839. Score: 454, Comments: 246. Original Link: https://xcancel.com/HedgieMarkets/status/2081534588485296565
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://xcancel.com/hedgiemarkets/status/2081534588485296565>
+
+* **[AI companies spend record sums on Washington lobbying](ai/community/ai-companies-spend-record-sums-on-washington-lobby.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by 1vuio0pswjnm7. Score: 18, Comments: 6. Original Link: https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db>
 
 * **[AI for Research | Scite](ai/rag/scite-ai-for-research.md)** (`dataset` | `useful` tier)
   * Summary: - **Database & Coverage**: Aggregates 280M+ full-text scholarly articles (journals, preprints, books, patents, datasets) via direct publisher agreements (e.g., Wiley, SAGE) and open-access sources, enabling full-text search beyond abstracts. - **Smar
@@ -18948,11 +18953,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.16337>
 
-* **[Medium](ai/rag/medium-2.md)** (`framework` | `useful` tier)
-  * Summary: * RAG framework evolution emphasizes specialized pre-retrieval processing (e.g
-  * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `web-crawled`, `workflows`, `youtube`
-  * Source URL: <https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91>
-
 * **[MedPCFM: Improving Medical Point Cloud Completion by Integrating Point Transformers and Flow Matching](ai/research/arxiv-2606-24433.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24433v1 Announce Type: cross Abstract: Medical point cloud completion is important for anatomical reconstruction and downstream clinical workflows, yet generative modeling in this setting remains insufficiently studied. We investigate comp
   * Tags: `dataset`, `workflows`
@@ -19002,6 +19002,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.10126v1 Announce Type: cross Abstract: Containerization has become increasingly essential in the machine learning (ML) domain, providing reproducibility, portability, and environment consistency. While prior studies have analyzed Dockerfil
   * Tags: `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.10126>
+
+* **[Modern email can be built from borrowed parts](ai/community/modern-email-can-be-built-from-borrowed-parts.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by andros. Score: 74, Comments: 33. Original Link: https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts>
 
 * **[Modernize your database with the consolidation and retirement of Azure Database Migration tools - Microsoft SQL Server B](ai/rag/modernize-your-database-with-the-consolidation-and.md)** (`tutorial` | `useful` tier)
   * Summary: - **Consolidation of Azure Database Migration Tools**: Microsoft is consolidating its Azure Database Migration Service (DMS) and Azure SQL Migration extension for Azure Data Studio into a unified, streamlined migration experience, reducing tool fragm
@@ -19478,6 +19483,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack>
 
+* **[Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](web-development/community/removing-react-js-from-the-codebase-and-adapting-h.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by Ralfp. Score: 95, Comments: 53. Original Link: https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/
+  * Tags: `frontend_ui`, `hackernews`, `react`
+  * Source URL: <https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267>
+
 * **[Render-FM: Feedforward Model for Real-time Photorealistic Volumetric Rendering](ai/research/arxiv-2505-17338.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2505.17338v3 Announce Type: replace-cross Abstract: Photorealistic volumetric rendering of CT scans greatly benefits clinical workflows, yet neural approaches such as Neural Radiance Fields (NeRF) and 3D Gaussian Splatting (3DGS) require prohib
   * Tags: `models`, `workflows`
@@ -19892,11 +19902,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://docs.kernel.org/>
 
-* **[The New AI Superpowers: Focus and Followthrough](ai/community/the-new-ai-superpowers-focus-and-followthrough.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by mooreds. Score: 201, Comments: 67. Original Link: https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://rickmanelius.com/p/the-new-ai-superpowers-focus-and>
-
 * **[The Remarkable Effectiveness of Providing AI Agents with Natural Language Tools: A Replication Study Validating NLT Performance Across 14 Models](ai/rag/arxiv-2607-03953.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.03953v1 Announce Type: cross Abstract: This study independently replicates and extends the Natural Language Tools (NLT) framework of Johnson et al.~(2025), which questions the use of structured tool calling in large language model (LLM) ag
   * Tags: `agents`, `hackernews`, `rag`, `workflows`
@@ -20128,7 +20133,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Upsonic/Tiger>
 
 * **[US citizen charged after GrapheneOS phone wipes during airport search](ai/community/us-citizen-charged-after-grapheneos-phone-wipes-du.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by eecc. Score: 773, Comments: 559. Original Link: https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html
+  * Summary: Hacker News story by eecc. Score: 1056, Comments: 811. Original Link: https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html
   * Tags: `ai`, `hackernews`
   * Source URL: <https://techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html>
 
@@ -84575,7 +84580,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.05061>
 
 * **[Kwai-Kolors/Kolors-Virtual-Try-On](ai/models/huggingface-spaces-kwai-kolors.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: Kwai-Kolors/Kolors-Virtual-Try-On (Likes: 10142, Downloads: 0)
+  * Summary: Trending Hugging Face space: Kwai-Kolors/Kolors-Virtual-Try-On (Likes: 10143, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/kwai-kolors>
 
@@ -104813,7 +104818,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/GenAIOps-project-template>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3274, Downloads: 35453220)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3275, Downloads: 35453220)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
@@ -106263,8 +106268,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2512.01317>
 
 * **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
-  * Summary: * Comprehensive guide to Retrieval-Augmented Generation (RAG) for large language model (LLM) application development, covering full-stack implementation. * Utilizes key frameworks like LangChain and LlamaIndex, integrating vector databases (Milvus) a
-  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
+  * Summary: * Comprehensive RAG implementation guide covering architecture, data ingestion, retrieval, and generation strategies. * Utilizes prominent RAG frameworks (LangChain, LlamaIndex), vector/graph databases (Milvus, Neo4j), and diverse LLMs (DeepSeek, Kim
+  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`, `reddit`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -111628,8 +111633,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2604.20711>
 
 * **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * Introduces RAGTruth, a specialized hallucination corpus for evaluating and improving Retrieval-
-  * Tags: `github-repo`, `python`, `rag`
+  * Summary: * Introduces RAGTruth, a specialized corpus designed for the identification and mitigation of hallucinations in Retrieval-Augmented Language Models (RAGs). * Facilitates the development of trustworthy RAG systems by providing a benchmark for evaluati
+  * Tags: `benchmark`, `github-repo`, `models`, `python`, `rag`
   * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 
 * **[Passkeys for Developers](ai/rag/passkeys-for-developers.md)** (`tutorial` | `useful` tier)
@@ -112413,7 +112418,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://superml.org/tutorials/rag-beginner>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll-based static site source for `raganwald.com`. * Primary content rendered in HTML. * Repository metrics: 30 stars, 60 forks; last updated 2026-07-08T15:07:53Z.
+  * Summary: * Jekyll source repository for `raganwald.com`, indicating a static site generation architecture. * Predominantly HTML content, reflecting the output format of the Jekyll build process. * Hosted on GitHub, implying potential integration with GitHub P
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 

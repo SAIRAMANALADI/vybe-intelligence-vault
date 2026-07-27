@@ -21,11 +21,11 @@ AI agents represent the transition from passive text generation to active, goal-
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 2533 resources matched in the intelligence vault.
 Recently detected signals:
-- [e2b-dev/awesome-ai-agents](../ai/agents/e2b-dev-awesome-ai-agents.md) (Source: Unknown Source) - Collected 2026-07-27
-- [WenyuChiou/awesome-agentic-ai-zh](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) (Source: Unknown Source) - Collected 2026-07-27
-- [czl9707/build-your-own-openclaw](../ai/agents/czl9707-build-your-own-openclaw.md) (Source: Unknown Source) - Collected 2026-07-27
-- [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md) (Source: Unknown Source) - Collected 2026-07-27
 - [Building Next.js for an agentic future](../ai/agents/building-next-js-for-an-agentic-future.md) (Source: Unknown Source) - Collected 2026-07-27
+- [Next.js 16.2: AI Improvements](../ai/agents/next-js-16-2-ai-improvements.md) (Source: Unknown Source) - Collected 2026-07-27
+- [Next.js 16.3: AI Improvements](../ai/agents/next-js-16-3-ai-improvements.md) (Source: Unknown Source) - Collected 2026-07-27
+- [Introducing Snowball Fight , our first ML-Agents environment](../ai/agents/huggingface-blog-snowball-fight.md) (Source: Unknown Source) - Collected 2026-07-27
+- [What Makes a Dialog Agent Useful?](../ai/agents/huggingface-blog-dialog-agents.md) (Source: Unknown Source) - Collected 2026-07-27
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -151,15 +151,15 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Agent-First Control Plane**: AAS Core provides a local-first architecture for agentic systems, enabling catalog discovery, agent-owned skill selection, stack validation, and planning with suppo...
 
-### 25. [jim-schwoebel/awesome_ai_agents](../ai/rag/jim-schwoebel-awesome-ai-agents.md) ([GitHub](https://github.com/jim-schwoebel/awesome_ai_agents))
-- Stars: 0
-- Language: Unknown
-- Description: - **Comprehensive Resource Hub**: Curated collection of 1,500+ tools, frameworks, and resources focused on AI agents, covering agent-based modeling, multi-agent systems, agentic workflows, and CLI ...
-
-### 26. [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md) ([GitHub](https://github.com/nirdiamant/agents-towards-production))
+### 25. [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md) ([GitHub](https://github.com/nirdiamant/agents-towards-production))
 - Stars: 0
 - Language: Unknown
 - Description: *   Offers end-to-end, code-first tutorials for building and deploying production-grade GenAI agents, from prototyping to enterprise-scale.
+
+### 26. [jim-schwoebel/awesome_ai_agents](../ai/rag/jim-schwoebel-awesome-ai-agents.md) ([GitHub](https://github.com/jim-schwoebel/awesome_ai_agents))
+- Stars: 0
+- Language: Unknown
+- Description: - **Comprehensive Resource Hub**: Curated collection of 1,500+ tools, frameworks, and resources focused on AI agents, covering agent-based modeling, multi-agent systems, agentic workflows, and CLI ...
 
 ### 27. [muhammad-uzair-yasin/CrewAi_starter_template](../ai/agents/muhammad-uzair-yasin-crewai-starter-template.md) ([GitHub](https://github.com/muhammad-uzair-yasin/crewai_starter_template))
 - Stars: 0
@@ -301,4 +301,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-27T15:55:19.571180+05:30.968153+05:30.349753+05:30.593913+05:30.053579+05:30.546756+05:30.179395+05:30.664302+05:30.398113+05:30.398835+05:30.637475+05:30.425064+05:30.405301+05:30.015168+05:30.490354+05:30.001973+05:30.362547+05:30.457431+05:30.044321+05:30.133141+05:30.672940+05:30.821454+05:30.388358+05:30.170332+05:30.067216+05:30.927352+05:30.137404+05:30.685701+05:30.902370+05:30.537173+05:30.037633+05:30.582118+05:30.130674+05:30.465456+05:30.435485+05:30.193452+05:30.955670+05:30.028864+05:30.219364+05:30.246109+05:30.808195+05:30.971840+05:30.835174+05:30.366310+05:30.118104+05:30.336855+05:30.686234+05:30.067346+05:30.577287+05:30.144563+05:30.714592+05:30.314389+05:30.637845+05:30.380885+05:30.546486+05:30.391871+05:30.649315+05:30.554674+05:30.354708+05:30.360708+05:30.005714+05:30.919156+05:30.030888+05:30.345874+05:30.707482+05:30.628117+05:30.034303+05:30.156000+05:30.319449+05:30.110089+05:30.782260+05:30.106382+05:30.999625+05:30.236595+05:30.913096+05:30.042557+05:30.450675+05:30.783290+05:30.782425+05:30.083616+05:30.077525+05:30.531231+05:30.539572+05:30.671032+05:30.145013+05:30.149869+05:30.236624+05:30.608028+05:30.124735+05:30.420008+05:30.259612+05:30.621412+05:30.398950+05:30.766203+05:30.229664+05:30.167707+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-27T20:59:26.958778+05:30.571180+05:30.968153+05:30.349753+05:30.593913+05:30.053579+05:30.546756+05:30.179395+05:30.664302+05:30.398113+05:30.398835+05:30.637475+05:30.425064+05:30.405301+05:30.015168+05:30.490354+05:30.001973+05:30.362547+05:30.457431+05:30.044321+05:30.133141+05:30.672940+05:30.821454+05:30.388358+05:30.170332+05:30.067216+05:30.927352+05:30.137404+05:30.685701+05:30.902370+05:30.537173+05:30.037633+05:30.582118+05:30.130674+05:30.465456+05:30.435485+05:30.193452+05:30.955670+05:30.028864+05:30.219364+05:30.246109+05:30.808195+05:30.971840+05:30.835174+05:30.366310+05:30.118104+05:30.336855+05:30.686234+05:30.067346+05:30.577287+05:30.144563+05:30.714592+05:30.314389+05:30.637845+05:30.380885+05:30.546486+05:30.391871+05:30.649315+05:30.554674+05:30.354708+05:30.360708+05:30.005714+05:30.919156+05:30.030888+05:30.345874+05:30.707482+05:30.628117+05:30.034303+05:30.156000+05:30.319449+05:30.110089+05:30.782260+05:30.106382+05:30.999625+05:30.236595+05:30.913096+05:30.042557+05:30.450675+05:30.783290+05:30.782425+05:30.083616+05:30.077525+05:30.531231+05:30.539572+05:30.671032+05:30.145013+05:30.149869+05:30.236624+05:30.608028+05:30.124735+05:30.420008+05:30.259612+05:30.621412+05:30.398950+05:30.766203+05:30.229664+05:30.167707+05:30.

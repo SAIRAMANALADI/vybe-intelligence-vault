@@ -13,13 +13,14 @@ collected_at: '2026-07-27T15:39:24.274349+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-new-ai-superpowers-focus-and-followthrough
 first_seen: '2026-07-26T21:45:33.246317+05:30'
 last_seen: '2026-07-27T15:39:24.274349+05:30'
 last_checked: '2026-07-27T15:39:24.274349+05:30'
 health_score: 100
 ---
+
 
 # The New AI Superpowers: Focus and Followthrough
 

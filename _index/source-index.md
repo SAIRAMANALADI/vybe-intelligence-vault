@@ -10732,7 +10732,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [The New AI Superpowers: Focus and Followthrough](../ai/community/the-new-ai-superpowers-focus-and-followthrough.md)
+  - [AI companies are shredding rare books](../ai/community/ai-companies-are-shredding-rare-books.md)
+  - [AI companies spend record sums on Washington lobbying](../ai/community/ai-companies-spend-record-sums-on-washington-lobby.md)
+  - [Modern email can be built from borrowed parts](../ai/community/modern-email-can-be-built-from-borrowed-parts.md)
+  - [Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](../web-development/community/removing-react-js-from-the-codebase-and-adapting-h.md)
   - [US citizen charged after GrapheneOS phone wipes during airport search](../ai/community/us-citizen-charged-after-grapheneos-phone-wipes-du.md)
 
 ## Unknown Source (type: huggingface)
@@ -11780,7 +11783,6 @@ Resources organized by publisher feed and query sources.
   - [1.5.4 Ownership and Use of Stanford Trademarks and Images | Administrative Guide](../ai/resources/1-5-4-ownership-and-use-of-stanford-trademarks-and.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
   - [100 Years of Stanford Engineering](../ai/rag/100-years-of-stanford-engineering.md)
-  - [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md)
   - [15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Blog](../ai/agents/15-updates-from-google-i-o-2026-powering-the-agent.md)
   - [17 U.S. Code § 107 - Limitations on exclusive rights: Fair use | U.S. Code | US Law | LII / Legal Information Institute](../ai/rag/17-u-s-code-ss-107-limitations-on-exclusive-rights.md)
   - [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md)
@@ -13991,4 +13993,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-27T15:56:16.262500+05:30*
+*Index generated on 2026-07-27T21:00:32.137956+05:30*
