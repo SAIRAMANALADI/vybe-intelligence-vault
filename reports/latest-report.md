@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-27T22:57:48.327369+05:30`
+Generated at: `2026-07-28T00:00:00.079230+05:30`
 
 ## Executive Summary
 
@@ -8,36 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition** - Score: `44` in category `ai/community` ([Link](https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition)) ([File](../ai/community/minecraft-java-raises-recommended-memory-to-16gb-a.md))
-- **Nvidia's $750B in Deals Reignite Circular AI Fears** - Score: `41` in category `ai/community` ([Link](https://bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing)) ([File](../ai/community/nvidia-s-750b-in-deals-reignite-circular-ai-fears.md))
-- **Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles** - Score: `3` in category `ai/community` ([Link](https://eaton-works.com/2026/07/27/my-eicher-hack)) ([File](../ai/community/exploiting-volvo-eicher-s-fleet-platform-to-gain-c.md))
-- **Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients** - Score: `0` in category `ai/companies/anthropic` ([Link](https://anthropic.com/news/cognizant-anthropic)) ([File](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **AI companies are shredding rare books** - Score: `631` (+177), Rank Change: `0` ([File](../ai/community/ai-companies-are-shredding-rare-books.md))
-- **AI companies spend record sums on Washington lobbying** - Score: `143` (+125), Rank Change: `+1` ([File](../ai/community/ai-companies-spend-record-sums-on-washington-lobby.md))
-- **US citizen charged after GrapheneOS phone wipes during airport search** - Score: `1162` (+106), Rank Change: `0` ([File](../ai/community/us-citizen-charged-after-grapheneos-phone-wipes-du.md))
-- **Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)** - Score: `146` (+51), Rank Change: `0` ([File](../web-development/community/removing-react-js-from-the-codebase-and-adapting-h.md))
-- **Modern email can be built from borrowed parts** - Score: `105` (+31), Rank Change: `-1` ([File](../ai/community/modern-email-can-be-built-from-borrowed-parts.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+980` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+977` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **Wan-AI/Wan2.2-Animate** - Score: `0` (0), Rank Change: `+825` ([File](../ai/models/huggingface-spaces-wan-ai.md))
-- **AP123/IllusionDiffusion** - Score: `0` (0), Rank Change: `+825` ([File](../ai/models/huggingface-spaces-ap123.md))
-- **dalle-mini/dalle-mini** - Score: `0` (0), Rank Change: `+825` ([File](../ai/models/huggingface-spaces-dalle-mini.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **e2b-dev/awesome-ai-agents** - Score: `0` (0), Rank Change: `+965` ([File](../ai/agents/e2b-dev-awesome-ai-agents.md))
+- **WenyuChiou/awesome-agentic-ai-zh** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md))
+- **czl9707/build-your-own-openclaw** - Score: `0` (0), Rank Change: `+965` ([File](../ai/agents/czl9707-build-your-own-openclaw.md))
+- **DEEP-PolyU/LinearRAG** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/deep-polyu-linearrag.md))
+- **EternityJune25/ComoRAG** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/eternityjune25-comorag.md))
+- **bakrianoo/mini-rag** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/bakrianoo-mini-rag.md))
+- **NirDiamant/agents-towards-production** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/nirdiamant-agents-towards-production.md))
+- **alvinreal/awesome-opensource-ai** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/alvinreal-awesome-opensource-ai.md))
+- **Azure-Samples/chat-with-your-data-solution-accelerator** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **datawhalechina/llm-universe** - (Rank Change: `+980`) ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **SylphAI-Inc/GithubChat** - (Rank Change: `+977`) ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **Wan-AI/Wan2.2-Animate** - (Rank Change: `+825`) ([File](../ai/models/huggingface-spaces-wan-ai.md))
-- **AP123/IllusionDiffusion** - (Rank Change: `+825`) ([File](../ai/models/huggingface-spaces-ap123.md))
-- **dalle-mini/dalle-mini** - (Rank Change: `+825`) ([File](../ai/models/huggingface-spaces-dalle-mini.md))
-- **mteb/leaderboard** - (Rank Change: `+825`) ([File](../ai/models/huggingface-spaces-mteb.md))
-- **black-forest-labs/FLUX.1-dev** - (Rank Change: `+825`) ([File](../ai/models/huggingface-spaces-black-forest-labs.md))
-- **Kwai-Kolors/Kolors-Virtual-Try-On** - (Rank Change: `+825`) ([File](../ai/models/huggingface-spaces-kwai-kolors.md))
-- **jbilcke-hf/ai-comic-factory** - (Rank Change: `+825`) ([File](../ai/models/huggingface-spaces-jbilcke-hf.md))
-- **open-llm-leaderboard/open_llm_leaderboard** - (Rank Change: `+825`) ([File](../ai/models/huggingface-spaces-open-llm-leaderboard.md))
+- **infiniflow/ragflow** - (Rank Change: `+12780`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1** - (Rank Change: `+967`) ([File](../ai/rag/monday-service-langsmith-building-a-code-first-eva.md))
+- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+967`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
+- **promptfoo/promptfoo-action** - (Rank Change: `+967`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
+- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+967`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
+- **Understanding RAG from Scratch | martinuke0's Blog** - (Rank Change: `+967`) ([File](../ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md))
+- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+967`) ([File](../ai/rag/arxiv-2606-29031.md))
+- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+967`) ([File](../ai/research/arxiv-2606-26428.md))
+- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+967`) ([File](../ai/research/arxiv-2606-21887.md))
+- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+967`) ([File](../ai/rag/arxiv-2606-09677.md))
 
 ## 🔄 Essential Tier Transitions
 
