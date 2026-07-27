@@ -13,13 +13,14 @@ collected_at: '2026-07-27T22:38:19.036755+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:us-citizen-charged-after-grapheneos-phone-wipes-du
 first_seen: '2026-07-27T09:31:50.326195+05:30'
 last_seen: '2026-07-27T22:38:19.036755+05:30'
 last_checked: '2026-07-27T22:38:19.036755+05:30'
 health_score: 100
 ---
+
 
 # US citizen charged after GrapheneOS phone wipes during airport search
 

@@ -6,11 +6,11 @@ source_type: hackernews
 source_name: Hacker News Web Development
 source_url: https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267
 hn_url: https://news.ycombinator.com/item?id=49067301
-score: 146
+score: 182
 author: Ralfp
-comments_count: 88
+comments_count: 126
 published_at: '2026-07-27T15:28:50+05:30'
-collected_at: '2026-07-27T22:38:16.735433+05:30'
+collected_at: '2026-07-28T01:25:19.844729+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -18,8 +18,8 @@ tags:
 status: active
 resource_id: hackernews:removing-react-js-from-the-codebase-and-adapting-h
 first_seen: '2026-07-27T20:43:29.177005+05:30'
-last_seen: '2026-07-27T22:38:16.735433+05:30'
-last_checked: '2026-07-27T22:38:16.735433+05:30'
+last_seen: '2026-07-28T01:25:19.844729+05:30'
+last_checked: '2026-07-28T01:25:19.844729+05:30'
 health_score: 100
 ---
 
@@ -27,7 +27,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by Ralfp. Score: 146, Comments: 88.
+Hacker News story by Ralfp. Score: 182, Comments: 126.
 Original Link: https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/
 
 ## Why It Matters
@@ -37,8 +37,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: Ralfp
-- Score: 146 Upvotes
-- Comments: 88 Discussions
+- Score: 182 Upvotes
+- Comments: 126 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49067301
 - Original Article: https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267
 

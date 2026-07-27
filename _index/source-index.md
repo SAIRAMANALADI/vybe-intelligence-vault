@@ -10732,14 +10732,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI companies are shredding rare books](../ai/community/ai-companies-are-shredding-rare-books.md)
-  - [AI companies spend record sums on Washington lobbying](../ai/community/ai-companies-spend-record-sums-on-washington-lobby.md)
   - [Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](../ai/community/exploiting-volvo-eicher-s-fleet-platform-to-gain-c.md)
-  - [Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition](../ai/community/minecraft-java-raises-recommended-memory-to-16gb-a.md)
+  - [MAI-Cyber-1-Flash inside MDASH](../ai/community/mai-cyber-1-flash-inside-mdash.md)
   - [Modern email can be built from borrowed parts](../ai/community/modern-email-can-be-built-from-borrowed-parts.md)
-  - [Nvidia's $750B in Deals Reignite Circular AI Fears](../ai/community/nvidia-s-750b-in-deals-reignite-circular-ai-fears.md)
   - [Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](../web-development/community/removing-react-js-from-the-codebase-and-adapting-h.md)
-  - [US citizen charged after GrapheneOS phone wipes during airport search](../ai/community/us-citizen-charged-after-grapheneos-phone-wipes-du.md)
+  - [Self-contained highly-portable Python distributions](../ai/community/self-contained-highly-portable-python-distribution.md)
+  - [Show HN: FeyNoBg – Automatic background removal model and training library](../ai/community/show-hn-feynobg-automatic-background-removal-model.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -13996,4 +13994,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-27T22:55:20.328858+05:30*
+*Index generated on 2026-07-28T01:42:24.812172+05:30*

@@ -13,13 +13,14 @@ collected_at: '2026-07-27T22:38:18.001541+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:nvidia-s-750b-in-deals-reignite-circular-ai-fears
 first_seen: '2026-07-27T22:38:18.001541+05:30'
 last_seen: '2026-07-27T22:38:18.001541+05:30'
 last_checked: '2026-07-27T22:38:18.001541+05:30'
 health_score: 100
 ---
+
 
 # Nvidia's $750B in Deals Reignite Circular AI Fears
 

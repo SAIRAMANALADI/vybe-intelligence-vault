@@ -13,13 +13,14 @@ collected_at: '2026-07-27T22:38:17.003279+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-companies-spend-record-sums-on-washington-lobby
 first_seen: '2026-07-27T20:43:30.712881+05:30'
 last_seen: '2026-07-27T22:38:17.003279+05:30'
 last_checked: '2026-07-27T22:38:17.003279+05:30'
 health_score: 100
 ---
+
 
 # AI companies spend record sums on Washington lobbying
 

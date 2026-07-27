@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - youtube
-status: active
+status: inactive
 resource_id: hackernews:minecraft-java-raises-recommended-memory-to-16gb-a
 first_seen: '2026-07-27T22:38:17.647412+05:30'
 last_seen: '2026-07-27T22:38:17.647412+05:30'
 last_checked: '2026-07-27T22:38:17.647412+05:30'
 health_score: 100
 ---
+
 
 # Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition
 

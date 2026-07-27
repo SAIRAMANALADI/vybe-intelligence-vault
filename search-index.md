@@ -17048,16 +17048,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `hackernews`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://docs.cloud.google.com/docs/ai-ml>
 
-* **[AI companies are shredding rare books](ai/community/ai-companies-are-shredding-rare-books.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by anon373839. Score: 631, Comments: 376. Original Link: https://twitter.com/HedgieMarkets/status/2081534588485296565
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://twitter.com/hedgiemarkets/status/2081534588485296565>
-
-* **[AI companies spend record sums on Washington lobbying](ai/community/ai-companies-spend-record-sums-on-washington-lobby.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by 1vuio0pswjnm7. Score: 143, Comments: 62. Original Link: https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db>
-
 * **[AI for Research | Scite](ai/rag/scite-ai-for-research.md)** (`dataset` | `useful` tier)
   * Summary: - **Database & Coverage**: Aggregates 280M+ full-text scholarly articles (journals, preprints, books, patents, datasets) via direct publisher agreements (e.g., Wiley, SAGE) and open-access sources, enabling full-text search beyond abstracts. - **Smar
   * Tags: `anthropic`, `dataset`, `hackernews`, `openai`, `paper`, `rag`, `web-crawled`, `workflows`, `youtube`
@@ -17919,7 +17909,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://services.github.com>
 
 * **[Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](ai/community/exploiting-volvo-eicher-s-fleet-platform-to-gain-c.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by EatonZ. Score: 3, Comments: 0. Original Link: https://eaton-works.com/2026/07/27/my-eicher-hack/
+  * Summary: Hacker News story by EatonZ. Score: 66, Comments: 13. Original Link: https://eaton-works.com/2026/07/27/my-eicher-hack/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://eaton-works.com/2026/07/27/my-eicher-hack>
 
@@ -18898,6 +18888,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `workflows`
   * Source URL: <https://arxiv.org/abs/2606.14373>
 
+* **[MAI-Cyber-1-Flash inside MDASH](ai/community/mai-cyber-1-flash-inside-mdash.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by migmartri. Score: 177, Comments: 90. Original Link: https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash>
+
 * **[Main Page - Meta-Wiki](ai/resources/main-page-meta-wiki.md)** (`framework` | `useful` tier)
   * Summary: - **Meta-Wiki** serves as the central coordination hub for Wikimedia Foundation projects, including documentation, planning, and analysis, with specialized sub-projects like Wikimedia Outreach originating from it. - **Key operational tools** include
   * Tags: `hackernews`, `reddit`, `web-crawled`, `workflows`, `youtube`
@@ -18998,11 +18993,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.18252>
 
-* **[Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition](ai/community/minecraft-java-raises-recommended-memory-to-16gb-a.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by haunter. Score: 44, Comments: 38. Original Link: https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition
-  * Tags: `ai`, `hackernews`, `youtube`
-  * Source URL: <https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition>
-
 * **[Minimal Oversight: Uncertainty-Aware Governance for Delegated AI Systems](ai/research/arxiv-2606-15563.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.15563v1 Announce Type: new Abstract: AI systems increasingly delegate decisions to specialized models, evaluators, tools, and supervisory controllers. The central AI problem is no longer only model accuracy, but uncertainty-aware governanc
   * Tags: `workflows`, `youtube`
@@ -19014,7 +19004,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.10126>
 
 * **[Modern email can be built from borrowed parts](ai/community/modern-email-can-be-built-from-borrowed-parts.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by andros. Score: 105, Comments: 42. Original Link: https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/
+  * Summary: Hacker News story by andros. Score: 142, Comments: 65. Original Link: https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts>
 
@@ -19117,11 +19107,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **NumFOCUS** sponsors 50+ open-source scientific computing projects, including **pandas**, **Jupyter**, **Matplotlib**, **Dask**, and **scikit-learn**, enabling large-scale data analysis, visualization, and machine learning workflows. - **Key indus
   * Tags: `rag`, `web-crawled`, `workflows`
   * Source URL: <https://numfocus.org>
-
-* **[Nvidia's $750B in Deals Reignite Circular AI Fears](ai/community/nvidia-s-750b-in-deals-reignite-circular-ai-fears.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by petethomas. Score: 41, Comments: 16. Original Link: https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing>
 
 * **[NVIDIA/workbench-example-agentic-rag](ai/rag/nvidia-workbench-example-agentic-rag.md)** (`framework` | `useful` tier)
   * Summary: - **Agentic RAG Implementation**: Demonstrates an agentic RAG system using NVIDIA AI Workbench, integrating retrieval and generative components for dynamic, multi-step reasoning. - **Jupyter Notebook-Based**: Entire workflow encapsulated in Jupyter N
@@ -19499,7 +19484,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack>
 
 * **[Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](web-development/community/removing-react-js-from-the-codebase-and-adapting-h.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Ralfp. Score: 146, Comments: 88. Original Link: https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/
+  * Summary: Hacker News story by Ralfp. Score: 182, Comments: 126. Original Link: https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/
   * Tags: `frontend_ui`, `hackernews`, `react`
   * Source URL: <https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267>
 
@@ -19663,6 +19648,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`, `hackernews`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html>
 
+* **[Self-contained highly-portable Python distributions](ai/community/self-contained-highly-portable-python-distribution.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by jcbhmr. Score: 29, Comments: 2. Original Link: https://gregoryszorc.com/docs/python-build-standalone/main/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://gregoryszorc.com/docs/python-build-standalone/main>
+
 * **[Semantic Segmentation-Driven Image-Level Diagnosis of Liver Cancers in Hematoxylin and Eosin Histopathology Images](ai/research/arxiv-2607-03253.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.03253v1 Announce Type: cross Abstract: As hematoxylin & eosin (H&amp;E) staining constitutes the primary entry point in routine diagnostic workflows, computer-aided diagnosis from whole-slide H&amp;E images is of particular clinical releva
   * Tags: `dataset`, `workflows`
@@ -19687,6 +19677,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Modern Sphinx Theme**: Shibuya is a responsive, visually appealing theme for Sphinx documentation, supporting Jupyter extensions like `nbsphinx` for enhanced AI/ML documentation workflows. - **Multi-Mode Customization**: Features light/dark mode
   * Tags: `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://shibuya.lepture.com>
+
+* **[Show HN: FeyNoBg – Automatic background removal model and training library](ai/community/show-hn-feynobg-automatic-background-removal-model.md)** (`framework` | `useful` tier)
+  * Summary: Hacker News story by snyy. Score: 44, Comments: 12. Original Link: https://usefeyn.com/blog/feynobg/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://usefeyn.com/blog/feynobg>
 
 * **[Signature filtering: a lightweight enhancement for statistical watermark detection in large language models](ai/research/arxiv-2606-18430.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18430v1 Announce Type: new Abstract: Statistical watermarks help organizations attribute large language model (LLM) outputs, yet existing detectors often struggle when watermark signals are weak, texts are repetitive, or watermarks are edi
@@ -20146,11 +20141,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Multi-Agent Orchestration**: Enables integration and coordination of AI agents via LangChain, Autogen, and CrewAI, facilitating complex workflows through function-calling and tool usage. - **Neuralink-Inspired Interface**: Provides a high-level a
   * Tags: `agents`, `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/Upsonic/Tiger>
-
-* **[US citizen charged after GrapheneOS phone wipes during airport search](ai/community/us-citizen-charged-after-grapheneos-phone-wipes-du.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by eecc. Score: 1162, Comments: 869. Original Link: https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html>
 
 * **[Use Google Play Family Library - Google Play Help](ai/rag/use-google-play-family-library-google-play-help.md)** (`framework` | `useful` tier)
   * Summary: - **Eligibility & Requirements**: Family Library supports sharing apps, games, movies, TV shows, and e-books/audiobooks among up to 5 members in supported countries. The family manager (18+, valid payment method, not part of another group) must set u
@@ -84234,7 +84224,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02825>
 
 * **[jbilcke-hf/ai-comic-factory](ai/models/huggingface-spaces-jbilcke-hf.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11189, Downloads: 0)
+  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11190, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/jbilcke-hf>
 
@@ -89522,6 +89512,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2312.08230v2 Announce Type: replace-cross Abstract: Detecting partial extrinsic symmetry in 3D geometry is a fundamental yet persistent challenge in computer vision and graphics, critical for tasks ranging from shape completion to procedural ge
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2312.08230>
+
+* **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
+  * Summary: * RAGTruth is a specialized hallucination corpus designed for evaluating and mitigating factual inconsistencies in RAG outputs. * The repository provides resources for developing trustworthy Retrieval-Augmented Language Models (RAGs). * It serves as
+  * Tags: `benchmark`, `dataset`, `github-repo`, `python`, `rag`
+  * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 
 * **[PASs-MoE: Mitigating Misaligned Co-drift among Router and Experts via Pathway Activation Subspaces for Continual Learning](ai/research/arxiv-2601-13020.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2601.13020v2 Announce Type: replace-cross Abstract: Continual instruction tuning (CIT) requires multimodal large language models (MLLMs) to adapt to a stream of tasks without forgetting prior capabilities. A common strategy is to isolate update
@@ -104833,12 +104828,12 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/GenAIOps-project-template>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3275, Downloads: 35453220)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3277, Downloads: 35453220)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
 * **[BAAI/bge-small-en-v1.5](ai/rag/huggingface-baai-bge-small-en-v1-5.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-small-en-v1.5 (Likes: 518, Downloads: 68390818)
+  * Summary: Trending Hugging Face model: BAAI/bge-small-en-v1.5 (Likes: 519, Downloads: 68390818)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-small-en-v1.5>
 
@@ -106282,9 +106277,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2512.01317>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tutorial` | `useful` tier)
-  * Summary: * Comprehensive RAG guide for LLM application development, encompassing full-stack implementation strategies. * Utilizes LangChain/LlamaIndex for orchestration, Milvus/Neo4j for vector/graph database integration, and supports DeepSeek/Kimi-K2 LLMs. *
-  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`, `reddit`
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
+  * Summary: * Comprehensive RAG development guide leveraging `langchain` and `llama-index` for orchestration and system construction. * Integrates vector databases like `Milvus` and graph databases such as `Neo4j` for advanced knowledge retrieval and management.
+  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -106292,8 +106287,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
-  * Summary: * LLM application development curriculum. * Focuses on LangChain framework
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tutorial` | `useful` tier)
+  * Summary: * Comprehensive tutorial on large language model (LLM) application development. *
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -110202,7 +110197,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.11288>
 
 * **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** (`tool` | `useful` tier)
-  * Summary: * RaGOO is a deprecated Python-based bioinformatics tool for genome assembly and scaffolding
+  * Summary: * Python-based bioinformatics tool for *de novo* genome assembly and scaffolding.
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/malonge/RaGOO>
 
@@ -111647,11 +111642,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2604.20711>
 
-* **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * Introduces RAGTruth, a specialized corpus designed for the identification and mitigation of hallucinations in Retrieval-Augmented Language Models (RAGs). * Facilitates the development of trustworthy RAG systems by providing a benchmark for evaluati
-  * Tags: `benchmark`, `github-repo`, `models`, `python`, `rag`
-  * Source URL: <https://github.com/ParticleMedia/RAGTruth>
-
 * **[Passkeys for Developers](ai/rag/passkeys-for-developers.md)** (`tutorial` | `useful` tier)
   * Summary: - **Phishing-resistant authentication**: Passkeys leverage public-key cryptography where servers store only the public key, eliminating password reuse risks and mitigating phishing attacks via domain-specific binding. - **Multi-device, biometric supp
   * Tags: `hackernews`, `rag`, `web-crawled`, `youtube`
@@ -112433,12 +112423,12 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://superml.org/tutorials/rag-beginner>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll static site generator source for `raganwald.com`. * Hosted via GitHub Pages, indicated by the `raganwald.github.com` repository naming convention. * Primary codebase language is HTML, reflecting
+  * Summary: * Jekyll-based static site source for `raganwald.com`.
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
 * **[ragnarokoffline/ragnarokoffline.github.io](ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)** (`tool` | `useful` tier)
-  * Summary: * Provides a Ragnarok Online "Pre-Renewal Pack," implying a specific game client
+  * Summary: * Provides a Pre-Renewal Ragnarok Online client/server distribution pack. * Targets
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/ragnarokoffline/ragnarokoffline.github.io>
 
@@ -114247,8 +114237,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `models`, `openai`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.16617>
 
-* **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`benchmark` | `useful` tier)
-  * Summary: * Implements a Retrieval-Augmented Generation (RAG) system for GitHub repository content. * Facilitates conversational querying and interaction with downloaded repository data. * Developed primarily in Python.
+* **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`tool` | `useful` tier)
+  * Summary: * RAG-based system enabling conversational interaction with downloaded GitHub repository content. * Facilitates local ingestion and querying of repository data for project comprehension. * Implemented in Python.
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/SylphAI-Inc/GithubChat>
 

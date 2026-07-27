@@ -3155,13 +3155,11 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI companies are shredding rare books](../ai/community/ai-companies-are-shredding-rare-books.md)
-  - [AI companies spend record sums on Washington lobbying](../ai/community/ai-companies-spend-record-sums-on-washington-lobby.md)
   - [Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](../ai/community/exploiting-volvo-eicher-s-fleet-platform-to-gain-c.md)
-  - [Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition](../ai/community/minecraft-java-raises-recommended-memory-to-16gb-a.md)
+  - [MAI-Cyber-1-Flash inside MDASH](../ai/community/mai-cyber-1-flash-inside-mdash.md)
   - [Modern email can be built from borrowed parts](../ai/community/modern-email-can-be-built-from-borrowed-parts.md)
-  - [Nvidia's $750B in Deals Reignite Circular AI Fears](../ai/community/nvidia-s-750b-in-deals-reignite-circular-ai-fears.md)
-  - [US citizen charged after GrapheneOS phone wipes during airport search](../ai/community/us-citizen-charged-after-grapheneos-phone-wipes-du.md)
+  - [Self-contained highly-portable Python distributions](../ai/community/self-contained-highly-portable-python-distribution.md)
+  - [Show HN: FeyNoBg – Automatic background removal model and training library](../ai/community/show-hn-feynobg-automatic-background-removal-model.md)
 
 ## animation
 
@@ -10016,6 +10014,7 @@ Resources organized by keyword tags.
   - [Parameter-Efficient Vision-Language Adaptation with Continuous Metadata Conditioning for Animal Re-Identification](../ai/research/arxiv-2607-09443.md)
   - [Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification](../ai/research/arxiv-2604-26675.md)
   - [ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](../ai/research/arxiv-2606-04468.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pathways of Visual Information Flow in Vision-Language Models](../ai/research/arxiv-2607-03358.md)
   - [Pattern-Aware Graph Neural Networks for Handling Missing Data](../ai/rag/arxiv-2607-08915.md)
   - [Pediatric Bone Age Prediction Using Deep Learning](../ai/research/arxiv-2607-16936.md)
@@ -12297,8 +12296,6 @@ Resources organized by keyword tags.
   - [AI Watermarking 101: Tools and Techniques](../ai/models/huggingface-blog-watermarking.md)
   - [AI and Cloud Computing Services | Google Cloud](../ai/rag/ai-and-cloud-computing-services-google-cloud.md)
   - [AI and ML | Google Cloud Documentation](../ai/rag/ai-and-ml-google-cloud-documentation.md)
-  - [AI companies are shredding rare books](../ai/community/ai-companies-are-shredding-rare-books.md)
-  - [AI companies spend record sums on Washington lobbying](../ai/community/ai-companies-spend-record-sums-on-washington-lobby.md)
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
@@ -13331,6 +13328,7 @@ Resources organized by keyword tags.
   - [Lyapunov-Based Sample Complexity Analysis for Weakly-Coupled MDPs](../ai/rag/arxiv-2606-14095.md)
   - [L’océan, un monde à découvrir | CNRS Le journal](../ai/rag/locean-un-monde-a-decouvrir-cnrs-le-journal.md)
   - [M+Adam: Low-Precision Training via Additive-Multiplicative Optimization](../ai/research/arxiv-2607-10611.md)
+  - [MAI-Cyber-1-Flash inside MDASH](../ai/community/mai-cyber-1-flash-inside-mdash.md)
   - [MARC records and custom Excel title lists | Librarian Portal | Springer Nature](../ai/resources/marc-records-and-custom-excel-title-lists-libraria.md)
   - [MAnchors: Memorization-Based Acceleration of Anchors via Rule Reuse and Transformation](../ai/rag/arxiv-2502-11068.md)
   - [MESA | Mathematics, Engineering, Science, Achievement](../ai/rag/mesa-mathematics-engineering-science-achievement.md)
@@ -13381,7 +13379,6 @@ Resources organized by keyword tags.
   - [Microsoft Graph | Support](../ai/resources/microsoft-graph-support.md)
   - [Microsoft for Developers Blog - Microsoft for Developers](../ai/rag/microsoft-for-developers-blog-microsoft-for-develo.md)
   - [MimicIK: Real-Time Generative Inverse Kinematics from Teleoperation with FK Consistency](../ai/research/arxiv-2606-15148.md)
-  - [Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition](../ai/community/minecraft-java-raises-recommended-memory-to-16gb-a.md)
   - [Minimum Norm Interpolation via the Local Theory of Banach Spaces: The Role of $2$-Uniform Convexity](../ai/research/arxiv-2603-28956.md)
   - [Mitigating Errors in LLM-Generated Web API Invocations via Retrieval-Augmented Generation and Constrained Decoding](../ai/rag/arxiv-2607-05936.md)
   - [Mixing-Free and Signal-Optimal Learning of Gaussian Graphical Models from Glauber Dynamics](../ai/research/arxiv-2607-18559.md)
@@ -13455,7 +13452,6 @@ Resources organized by keyword tags.
   - [NouveauVoice: Generating Novel Pseudo Speakers for Voice Anonymization](../ai/rag/arxiv-2607-03985.md)
   - [Nuro—Autonomy for all. All roads, all rides. | Nuro](../ai/rag/nuro-autonomy-for-all-all-roads-all-rides-nuro.md)
   - [Nvidia is latest investor to back AV startup Nuro in $203M funding round | TechCrunch](../ai/rag/nvidia-is-latest-investor-to-back-av-startup-nuro.md)
-  - [Nvidia's $750B in Deals Reignite Circular AI Fears](../ai/community/nvidia-s-750b-in-deals-reignite-circular-ai-fears.md)
   - [OECC2026](../ai/rag/oecc2026.md)
   - [OSTIF Has Completed A Security Audit of wasmCloud! – OSTIF.org](../ai/resources/ostif-has-completed-a-security-audit-of-wasmcloud.md)
   - [OSVE: One Step Video Editing with One Step Diffusion Models](../ai/research/arxiv-2607-19895.md)
@@ -13810,6 +13806,7 @@ Resources organized by keyword tags.
   - [Self-Supervised Goal-Reaching Results in Multi-Agent Cooperation and Exploration](../ai/agents/arxiv-2509-10656.md)
   - [Self-Supervised Learning of Iterative Solvers for Constrained Optimization](../ai/research/arxiv-2409-08066.md)
   - [Self-attention-based non-linear basis transformations for compact latent space modelling of dynamic optical fibre transmission matrices](../ai/research/arxiv-2406-07775.md)
+  - [Self-contained highly-portable Python distributions](../ai/community/self-contained-highly-portable-python-distribution.md)
   - [Semantic Reasoning in Medicine: The Role of Knowledge Graphs Across Five Key Domains](../ai/rag/arxiv-2606-15155.md)
   - [Semi-Supervised Speech Confidence Detection using Pseudo-Labelling and Whisper Embeddings](../ai/rag/arxiv-2606-16505.md)
   - [SendGrid](../ai/resources/sendgrid.md)
@@ -13821,6 +13818,7 @@ Resources organized by keyword tags.
   - [Seven Security Challenges in Cross-domain Multi-agent LLM Systems](../ai/agents/arxiv-2505-23847.md)
   - [Sexualised synthetic personas encode and amplify gendered power asymmetries through voice](../ai/research/arxiv-2606-21366.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: FeyNoBg – Automatic background removal model and training library](../ai/community/show-hn-feynobg-automatic-background-removal-model.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Sign in to GitHub · GitHub](../ai/resources/langchain-ai-docs.md)
@@ -14092,7 +14090,6 @@ Resources organized by keyword tags.
   - [UCLA – RFI](../ai/resources/ucla-rfi.md)
   - [URL Pattern Standard](../ai/rag/url-pattern-standard.md)
   - [URL Standard](../ai/rag/url-standard.md)
-  - [US citizen charged after GrapheneOS phone wipes during airport search](../ai/community/us-citizen-charged-after-grapheneos-phone-wipes-du.md)
   - [UT Austin Computer Science](../ai/rag/ut-austin-computer-science.md)
   - [UTS #18: Unicode Regular Expressions](../ai/rag/uts-18-unicode-regular-expressions.md)
   - [UZAY - Uzay Teknolojileri Araştırma Enstitüsü — TÜBİTAK UZAY](../ai/resources/uzay-uzay-teknolojileri-arastirma-enstitusu-tubita.md)
@@ -16928,7 +16925,6 @@ Resources organized by keyword tags.
   - [Parametric Memory Decoding for Zero-Shot Routing in LoRA-Based External Parametric Memory](../ai/research/arxiv-2607-04118.md)
   - [Parthenon Law: A Self-Evolving Legal-Agent Framework](../ai/agents/arxiv-2606-04602.md)
   - [Partial Fusion of Neural Networks: Efficient Tradeoffs Between Ensembles and Weight Aggregation](../ai/research/arxiv-2605-22350.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pass@K Policy Optimization: Solving Harder Reinforcement Learning Problems](../ai/research/arxiv-2505-15201.md)
   - [Patcher: Post-Hoc Patching of Backdoored Large Language Models](../ai/research/arxiv-2606-02995.md)
   - [PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](../ai/agents/arxiv-2607-19261.md)
@@ -26578,7 +26574,6 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [dart compile](../ai/rag/dart-compile.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents · PyPI](../ai/agents/deepagents-pypi.md)
@@ -31846,7 +31841,6 @@ Resources organized by keyword tags.
   - [Memory-Augmented Multimodal Large Language Models for Small Object Understanding in Streaming Aerial Videos](../ai/research/arxiv-2607-19857.md)
   - [Microsoft Graph | Support](../ai/resources/microsoft-graph-support.md)
   - [Microsoft for Developers Blog - Microsoft for Developers](../ai/rag/microsoft-for-developers-blog-microsoft-for-develo.md)
-  - [Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition](../ai/community/minecraft-java-raises-recommended-memory-to-16gb-a.md)
   - [Miniconda - Anaconda](../ai/resources/miniconda-anaconda.md)
   - [Minimal Oversight: Uncertainty-Aware Governance for Delegated AI Systems](../ai/research/arxiv-2606-15563.md)
   - [Missing-by-Design: Certifiable Modality Deletion for Revocable Multimodal Sentiment Analysis](../ai/rag/arxiv-2602-16144.md)
@@ -32501,4 +32495,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-27T22:55:20.173092+05:30*
+*Index generated on 2026-07-28T01:42:24.662962+05:30*
