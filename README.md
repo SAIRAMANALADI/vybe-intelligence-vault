@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-118%2C690-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-66%2C712-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--27-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **118,690 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **66,712 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 14,296</p>
-        <p><b>Active:</b> 13,948 | <b>Inactive:</b> 348</p>
+        <p><b>Resources tracked:</b> 13,331</p>
+        <p><b>Active:</b> 12,983 | <b>Inactive:</b> 348</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 53,084</p>
+        <p><b>Archive Files:</b> 2,049</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 118,690 files</p>
-        <p><b>Last Update:</b> 2026-07-27 21:02 IST</p>
+        <p><b>Total Vault Size:</b> 66,712 files</p>
+        <p><b>Last Update:</b> 2026-07-27 21:52 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -214,7 +214,7 @@ score_threshold: 0.65
 - 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+13</kbd>
 - 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+14</kbd>
 - 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+10</kbd>
-- 🔼 **[Search & information retrieval](ai/companies/search-information-retrieval.md)** • Rank: <kbd>+15</kbd>
+- 🔼 **[The Geometry of Personality: Activation Steering with Jungian Cognitive Functions](ai/research/arxiv-2607-20803.md)** • Rank: <kbd>+964</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
@@ -223,6 +223,7 @@ score_threshold: 0.65
 - 🆕 **[Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](web-development/community/removing-react-js-from-the-codebase-and-adapting-h.md)** • Score: `95`
 - 🆕 **[Modern email can be built from borrowed parts](ai/community/modern-email-can-be-built-from-borrowed-parts.md)** • Score: `74`
 - 🆕 **[AI companies spend record sums on Washington lobbying](ai/community/ai-companies-spend-record-sums-on-washington-lobby.md)** • Score: `18`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
