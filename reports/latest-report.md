@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-27T15:58:25.849859+05:30`
+Generated at: `2026-07-27T16:18:10.725600+05:30`
 
 ## Executive Summary
 
@@ -8,35 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **15 Best Open-Source RAG Frameworks in 2026** - Score: `0` in category `ai/rag` ([Link](https://firecrawl.dev/blog/best-open-source-rag-frameworks)) ([File](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md))
-- **ayuo/hd_tmp** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/datasets/ayuo)) ([File](../ai/models/huggingface-datasets-ayuo.md))
-- **NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/nvidia/cosmos-h-dreams)) ([File](../ai/models/huggingface-blog-nvidia-cosmos-h-dreams.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **US citizen charged after GrapheneOS phone wipes during airport search** - Score: `773` (+422), Rank Change: `0` ([File](../ai/community/us-citizen-charged-after-grapheneos-phone-wipes-du.md))
-- **The New AI Superpowers: Focus and Followthrough** - Score: `201` (+33), Rank Change: `0` ([File](../ai/community/the-new-ai-superpowers-focus-and-followthrough.md))
-- **e2b-dev/awesome-ai-agents** - Score: `0` (0), Rank Change: `+2194` ([File](../ai/agents/e2b-dev-awesome-ai-agents.md))
-- **WenyuChiou/awesome-agentic-ai-zh** - Score: `0` (0), Rank Change: `+1180` ([File](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md))
-- **czl9707/build-your-own-openclaw** - Score: `0` (0), Rank Change: `+1201` ([File](../ai/agents/czl9707-build-your-own-openclaw.md))
-- **DEEP-PolyU/LinearRAG** - Score: `0` (0), Rank Change: `+1181` ([File](../ai/rag/deep-polyu-linearrag.md))
-- **EternityJune25/ComoRAG** - Score: `0` (0), Rank Change: `+2223` ([File](../ai/rag/eternityjune25-comorag.md))
-- **bakrianoo/mini-rag** - Score: `0` (0), Rank Change: `+1180` ([File](../ai/rag/bakrianoo-mini-rag.md))
-- **NirDiamant/agents-towards-production** - Score: `0` (0), Rank Change: `+2227` ([File](../ai/rag/nirdiamant-agents-towards-production.md))
-- **alvinreal/awesome-opensource-ai** - Score: `0` (0), Rank Change: `+2247` ([File](../ai/rag/alvinreal-awesome-opensource-ai.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/malonge-ragoo.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **The Geometry of Personality: Activation Steering with Jungian Cognitive Functions** - Score: `0` (0), Rank Change: `+967` ([File](../ai/research/arxiv-2607-20803.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Medium** - (Rank Change: `+13930`) ([File](../ai/rag/medium-2.md))
-- **pguso/rag-from-scratch** - (Rank Change: `+2284`) ([File](../ai/rag/pguso-rag-from-scratch.md))
-- **alvinreal/awesome-opensource-ai** - (Rank Change: `+2247`) ([File](../ai/rag/alvinreal-awesome-opensource-ai.md))
-- **NirDiamant/agents-towards-production** - (Rank Change: `+2227`) ([File](../ai/rag/nirdiamant-agents-towards-production.md))
-- **EternityJune25/ComoRAG** - (Rank Change: `+2223`) ([File](../ai/rag/eternityjune25-comorag.md))
-- **e2b-dev/awesome-ai-agents** - (Rank Change: `+2194`) ([File](../ai/agents/e2b-dev-awesome-ai-agents.md))
-- **czl9707/build-your-own-openclaw** - (Rank Change: `+1201`) ([File](../ai/agents/czl9707-build-your-own-openclaw.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - (Rank Change: `+1201`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
-- **DEEP-PolyU/LinearRAG** - (Rank Change: `+1181`) ([File](../ai/rag/deep-polyu-linearrag.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - (Rank Change: `+1181`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **infiniflow/ragflow** - (Rank Change: `+12781`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1** - (Rank Change: `+969`) ([File](../ai/rag/monday-service-langsmith-building-a-code-first-eva.md))
+- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+969`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
+- **promptfoo/promptfoo-action** - (Rank Change: `+969`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
+- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+969`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
+- **Understanding RAG from Scratch | martinuke0's Blog** - (Rank Change: `+969`) ([File](../ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md))
+- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+969`) ([File](../ai/rag/arxiv-2606-29031.md))
+- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+969`) ([File](../ai/research/arxiv-2606-26428.md))
+- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+969`) ([File](../ai/research/arxiv-2606-21887.md))
+- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+969`) ([File](../ai/rag/arxiv-2606-09677.md))
 
 ## 🔄 Essential Tier Transitions
 
