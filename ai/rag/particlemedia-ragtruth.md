@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-07-27T03:43:34.326532+05:30'
+collected_at: '2026-07-27T15:40:03.708379+05:30'
 published_at: '2026-07-20T20:54:26Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-07-27T03:43:34.326532+05:30'
-last_seen: '2026-07-27T03:43:34.326532+05:30'
-last_checked: '2026-07-27T03:43:34.326532+05:30'
+first_seen: '2026-07-27T15:40:03.708379+05:30'
+last_seen: '2026-07-27T15:40:03.708379+05:30'
+last_checked: '2026-07-27T15:40:03.708379+05:30'
 health_score: 100
 ---
 
@@ -29,7 +28,7 @@ health_score: 100
 
 ## Summary
 
-*   Introduces RAGTruth, a specialized corpus for benchmarking and mitigating hallucination in
+*   Introduces RAGTruth, a specialized hallucination corpus for evaluating and improving Retrieval-
 
 ## Why It Matters
 

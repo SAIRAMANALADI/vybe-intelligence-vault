@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-66%2C708-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-118%2C695-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--27-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **66,708 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **118,695 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 13,327</p>
-        <p><b>Active:</b> 12,980 | <b>Inactive:</b> 347</p>
+        <p><b>Resources tracked:</b> 14,293</p>
+        <p><b>Active:</b> 13,946 | <b>Inactive:</b> 347</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,048</p>
+        <p><b>Archive Files:</b> 53,091</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 66,708 files</p>
-        <p><b>Last Update:</b> 2026-07-27 12:05 IST</p>
+        <p><b>Total Vault Size:</b> 118,695 files</p>
+        <p><b>Last Update:</b> 2026-07-27 15:58 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,16 +210,18 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[The Geometry of Personality: Activation Steering with Jungian Cognitive Functions](ai/research/arxiv-2607-20803.md)** • Rank: <kbd>+103</kbd>
-- 🔼 **[DFAH-Bench: Benchmarking Observable Agent Instability in Financial Decision-Making](ai/agents/arxiv-2607-20491.md)** • Rank: <kbd>+103</kbd>
-- 🔼 **[Do Transformers Actually Help Intrusion Detection? A Temporal Sequence Evaluation on CIC-IDS2017](ai/research/arxiv-2606-11098.md)** • Rank: <kbd>+103</kbd>
-- 🔼 **[Approximation and learning of anisotropic and mixed smooth functions by deep ReLU neural networks](ai/research/arxiv-2605-31152.md)** • Rank: <kbd>+103</kbd>
-- 🔼 **[Conformal Anomaly Detection in Python: Moving Beyond Heuristic Thresholds with nonconform](ai/research/arxiv-2605-13642.md)** • Rank: <kbd>+103</kbd>
+- 🔼 **[US citizen charged after GrapheneOS phone wipes during airport search](ai/community/us-citizen-charged-after-grapheneos-phone-wipes-du.md)** • <kbd>+422 pts</kbd>
+- 🔼 **[The New AI Superpowers: Focus and Followthrough](ai/community/the-new-ai-superpowers-focus-and-followthrough.md)** • <kbd>+33 pts</kbd>
+- 🔼 **[e2b-dev/awesome-ai-agents](ai/agents/e2b-dev-awesome-ai-agents.md)** • Rank: <kbd>+2194</kbd>
+- 🔼 **[WenyuChiou/awesome-agentic-ai-zh](ai/rag/wenyuchiou-awesome-agentic-ai-zh.md)** • Rank: <kbd>+1180</kbd>
+- 🔼 **[czl9707/build-your-own-openclaw](ai/agents/czl9707-build-your-own-openclaw.md)** • Rank: <kbd>+1201</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[15 Best Open-Source RAG Frameworks in 2026](ai/rag/15-best-open-source-rag-frameworks-in-2026.md)** • Score: `0`
+- 🆕 **[ayuo/hd_tmp](ai/models/huggingface-datasets-ayuo.md)** • Score: `0`
+- 🆕 **[NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](ai/models/huggingface-blog-nvidia-cosmos-h-dreams.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.

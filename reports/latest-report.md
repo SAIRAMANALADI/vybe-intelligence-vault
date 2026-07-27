@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-27T12:05:13.893248+05:30`
+Generated at: `2026-07-27T15:58:25.849859+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,35 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **15 Best Open-Source RAG Frameworks in 2026** - Score: `0` in category `ai/rag` ([Link](https://firecrawl.dev/blog/best-open-source-rag-frameworks)) ([File](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md))
+- **ayuo/hd_tmp** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/datasets/ayuo)) ([File](../ai/models/huggingface-datasets-ayuo.md))
+- **NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/nvidia/cosmos-h-dreams)) ([File](../ai/models/huggingface-blog-nvidia-cosmos-h-dreams.md))
 
 ## Top Trending Resources
 
-- **The Geometry of Personality: Activation Steering with Jungian Cognitive Functions** - Score: `0` (0), Rank Change: `+103` ([File](../ai/research/arxiv-2607-20803.md))
-- **DFAH-Bench: Benchmarking Observable Agent Instability in Financial Decision-Making** - Score: `0` (0), Rank Change: `+103` ([File](../ai/agents/arxiv-2607-20491.md))
-- **Do Transformers Actually Help Intrusion Detection? A Temporal Sequence Evaluation on CIC-IDS2017** - Score: `0` (0), Rank Change: `+103` ([File](../ai/research/arxiv-2606-11098.md))
-- **Approximation and learning of anisotropic and mixed smooth functions by deep ReLU neural networks** - Score: `0` (0), Rank Change: `+103` ([File](../ai/research/arxiv-2605-31152.md))
-- **Conformal Anomaly Detection in Python: Moving Beyond Heuristic Thresholds with nonconform** - Score: `0` (0), Rank Change: `+103` ([File](../ai/research/arxiv-2605-13642.md))
-- **Scalable Gaussian process inference via neural feature maps** - Score: `0` (0), Rank Change: `+103` ([File](../ai/rag/arxiv-2605-10285.md))
-- **SURE-RAG: Sufficiency and Uncertainty-Aware Evidence Verification for Selective Retrieval-Augmented Generation** - Score: `0` (0), Rank Change: `+103` ([File](../ai/rag/arxiv-2605-03534.md))
-- **Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs** - Score: `0` (0), Rank Change: `+103` ([File](../ai/research/arxiv-2604-27618.md))
-- **Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification** - Score: `0` (0), Rank Change: `+103` ([File](../ai/research/arxiv-2604-26675.md))
-- **Minimum Norm Interpolation via the Local Theory of Banach Spaces: The Role of $2$-Uniform Convexity** - Score: `0` (0), Rank Change: `+103` ([File](../ai/research/arxiv-2603-28956.md))
+- **US citizen charged after GrapheneOS phone wipes during airport search** - Score: `773` (+422), Rank Change: `0` ([File](../ai/community/us-citizen-charged-after-grapheneos-phone-wipes-du.md))
+- **The New AI Superpowers: Focus and Followthrough** - Score: `201` (+33), Rank Change: `0` ([File](../ai/community/the-new-ai-superpowers-focus-and-followthrough.md))
+- **e2b-dev/awesome-ai-agents** - Score: `0` (0), Rank Change: `+2194` ([File](../ai/agents/e2b-dev-awesome-ai-agents.md))
+- **WenyuChiou/awesome-agentic-ai-zh** - Score: `0` (0), Rank Change: `+1180` ([File](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md))
+- **czl9707/build-your-own-openclaw** - Score: `0` (0), Rank Change: `+1201` ([File](../ai/agents/czl9707-build-your-own-openclaw.md))
+- **DEEP-PolyU/LinearRAG** - Score: `0` (0), Rank Change: `+1181` ([File](../ai/rag/deep-polyu-linearrag.md))
+- **EternityJune25/ComoRAG** - Score: `0` (0), Rank Change: `+2223` ([File](../ai/rag/eternityjune25-comorag.md))
+- **bakrianoo/mini-rag** - Score: `0` (0), Rank Change: `+1180` ([File](../ai/rag/bakrianoo-mini-rag.md))
+- **NirDiamant/agents-towards-production** - Score: `0` (0), Rank Change: `+2227` ([File](../ai/rag/nirdiamant-agents-towards-production.md))
+- **alvinreal/awesome-opensource-ai** - Score: `0` (0), Rank Change: `+2247` ([File](../ai/rag/alvinreal-awesome-opensource-ai.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Medium** - (Rank Change: `+12872`) ([File](../ai/rag/medium-2.md))
-- **infiniflow/ragflow** - (Rank Change: `+12783`) ([File](../ai/rag/infiniflow-ragflow-2.md))
-- **coree/awesome-rag** - (Rank Change: `+966`) ([File](../ai/rag/coree-awesome-rag.md))
-- **vndee/local-assistant-examples** - (Rank Change: `+966`) ([File](../ai/rag/vndee-local-assistant-examples.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - (Rank Change: `+966`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
-- **Test-Input Generation for Tensor Programs: What Actually Finds Kernel Bugs** - (Rank Change: `+966`) ([File](../ai/research/arxiv-2606-27396.md))
-- **Don't Fool Me Twice: Adapting to Adversity in the Wild with Experience-Driven Reasoning** - (Rank Change: `+966`) ([File](../ai/rag/arxiv-2605-31119.md))
-- **SGMD: Score Gradient Matching Distillation for Few-Step Video Diffusion Distillation** - (Rank Change: `+966`) ([File](../ai/research/arxiv-2605-30116.md))
-- **Stability of Low-Rank Implicit Regularization in Perturbed Deep Matrix Factorization** - (Rank Change: `+966`) ([File](../ai/research/arxiv-2605-28613.md))
-- **Q-PhotoNAS: Hybrid Quantum Neural Architecture Search Framework on Photonic Devices** - (Rank Change: `+966`) ([File](../ai/research/arxiv-2605-22097.md))
+- **Medium** - (Rank Change: `+13930`) ([File](../ai/rag/medium-2.md))
+- **pguso/rag-from-scratch** - (Rank Change: `+2284`) ([File](../ai/rag/pguso-rag-from-scratch.md))
+- **alvinreal/awesome-opensource-ai** - (Rank Change: `+2247`) ([File](../ai/rag/alvinreal-awesome-opensource-ai.md))
+- **NirDiamant/agents-towards-production** - (Rank Change: `+2227`) ([File](../ai/rag/nirdiamant-agents-towards-production.md))
+- **EternityJune25/ComoRAG** - (Rank Change: `+2223`) ([File](../ai/rag/eternityjune25-comorag.md))
+- **e2b-dev/awesome-ai-agents** - (Rank Change: `+2194`) ([File](../ai/agents/e2b-dev-awesome-ai-agents.md))
+- **czl9707/build-your-own-openclaw** - (Rank Change: `+1201`) ([File](../ai/agents/czl9707-build-your-own-openclaw.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - (Rank Change: `+1201`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
+- **DEEP-PolyU/LinearRAG** - (Rank Change: `+1181`) ([File](../ai/rag/deep-polyu-linearrag.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - (Rank Change: `+1181`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
 
 ## 🔄 Essential Tier Transitions
 

@@ -27,12 +27,12 @@ This index groups resources by direct developer use-cases and design goals.
 
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) (Category: `rag-systems` | [`Local File`](../../ai/rag/truefoundry-cognita.md))
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (Category: `rag-systems` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `rag-systems` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 - [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Category: `rag-systems` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
 - [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Category: `vector-databases` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
 - [LlamaIndex · GitHub](https://github.com/run-llama/) (Category: `rag-systems` | [`Local File`](../../ai/rag/llamaindex-github.md))
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (Category: `rag-systems` | [`Local File`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
 - [mongodb · GitHub](https://github.com/mongodb) (Category: `rag-systems` | [`Local File`](../../ai/rag/mongodb-github.md))
-- [Neo4j · GitHub](https://github.com/neo4j) (Category: `rag-systems` | [`Local File`](../../ai/rag/neo4j-github.md))
 
 ## Model Selection, Inference & Cost Profiling
 
@@ -50,11 +50,11 @@ This index groups resources by direct developer use-cases and design goals.
 - [OpenAI · GitHub](https://github.com/openai) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/openai-github.md))
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [Google Cloud Platform · GitHub](https://github.com/googlecloudPlatform/) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/google-cloud-platform-github.md))
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 - [langgenius/dify](https://github.com/langgenius/dify) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/langgenius-dify.md))
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/truefoundry-cognita.md))
 - [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
 - [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/jamwithai-production-agentic-rag-course.md))
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
 
 ## Script Automations & External API Integration
 
@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [Modeling Complex Behaviors: Multi-Personality Composition and Dynamic Switching in Vision-Language Models](https://arxiv.org/abs/2606.11074) (Category: `project-ideas` | [`Local File`](../../ai/research/arxiv-2606-11074.md))
 
 ---
-*Last updated: 2026-07-27 09:50 IST*
+*Last updated: 2026-07-27 15:57 IST*

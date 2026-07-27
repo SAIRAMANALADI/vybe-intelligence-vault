@@ -11256,6 +11256,7 @@ Resources organized by publisher feed and query sources.
   - [My Journey to a serverless transformers pipeline on Google Cloud](../ai/models/huggingface-blog-how-to-deploy-a-pipeline-to-google-clouds.md)
   - [NPHardEval Leaderboard: Unveiling the Reasoning Abilities of Large Language Models through Complexity Classes and Dynamic Updates](../ai/models/huggingface-blog-leaderboard-nphardeval.md)
   - [NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI](../ai/models/huggingface-blog-nvidia-nvidia-cosmos-reason-2-brings-advanced-reasoning.md)
+  - [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](../ai/models/huggingface-blog-nvidia-cosmos-h-dreams.md)
   - [NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset](../ai/models/huggingface-blog-nvidia-multilingual-reasoning-v1.md)
   - [NVIDIA brings agents to life with DGX Spark and Reachy Mini](../ai/agents/huggingface-blog-nvidia-reachy-mini.md)
   - [NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets](../ai/models/huggingface-blog-nvidia-physical-ai.md)
@@ -11443,7 +11444,6 @@ Resources organized by publisher feed and query sources.
   - [The Partnership: Amazon SageMaker and Hugging Face](../ai/models/huggingface-blog-the-partnership-amazon-sagemaker-and-hugging-face.md)
   - [The Reformer - Pushing the limits of language modeling](../ai/models/huggingface-blog-reformer.md)
   - [The State of Computer Vision at Hugging Face 🤗](../ai/models/huggingface-blog-cv-state.md)
-  - [The State of Simulation for Physical AI: An Overview](../ai/models/huggingface-blog-nvidia-state-of-simulation-for-physical-ai.md)
   - [The Technology Behind BLOOM Training](../ai/models/huggingface-blog-bloom-megatron-deepspeed.md)
   - [The Transformers Library: standardizing model definitions](../ai/models/huggingface-blog-transformers-model-definition.md)
   - [Three Mighty Alerts Supporting Hugging Face’s Production Infrastructure](../ai/models/huggingface-blog-infrastructure-alerting.md)
@@ -11573,11 +11573,11 @@ Resources organized by publisher feed and query sources.
   - [KakologArchives/KakologArchives](../ai/models/huggingface-datasets-kakologarchives.md)
   - [allenai/c4](../ai/models/huggingface-datasets-allenai.md)
   - [anisoleai/fineweb-tokenized](../ai/models/huggingface-datasets-anisoleai.md)
+  - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
   - [codeparrot/github-code](../ai/models/huggingface-datasets-codeparrot.md)
   - [hf-doc-build/doc-build-dev](../ai/models/huggingface-datasets-hf-doc-build.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [k9cli/video-vec2wav2-tokenizer](../ai/models/huggingface-datasets-k9cli.md)
-  - [ksolovev/FineNews](../ai/models/huggingface-datasets-ksolovev.md)
   - [ryanmarten/OpenThoughts-1k-sample](../ai/models/huggingface-datasets-ryanmarten.md)
 
 ## Unknown Source (type: huggingface_model)
@@ -11780,6 +11780,7 @@ Resources organized by publisher feed and query sources.
   - [1.5.4 Ownership and Use of Stanford Trademarks and Images | Administrative Guide](../ai/resources/1-5-4-ownership-and-use-of-stanford-trademarks-and.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
   - [100 Years of Stanford Engineering](../ai/rag/100-years-of-stanford-engineering.md)
+  - [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md)
   - [15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Blog](../ai/agents/15-updates-from-google-i-o-2026-powering-the-agent.md)
   - [17 U.S. Code § 107 - Limitations on exclusive rights: Fair use | U.S. Code | US Law | LII / Legal Information Institute](../ai/rag/17-u-s-code-ss-107-limitations-on-exclusive-rights.md)
   - [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md)
@@ -12923,7 +12924,7 @@ Resources organized by publisher feed and query sources.
   - [MedGemma: Our most capable open models for health AI development](../ai/rag/medgemma-our-most-capable-open-models-for-health-a.md)
   - [Media Types](../ai/rag/media-types.md)
   - [MediaWiki](../ai/resources/mediawiki.md)
-  - [Medium](../ai/rag/medium-2.md)
+  - [Medium](../ai/rag/medium.md)
   - [Medium - Apps on Google Play](../ai/rag/medium-apps-on-google-play.md)
   - [Medium Help Center](../ai/rag/medium-help-center.md)
   - [Medium Members Can Listen To Any Medium Story With The Speechify Play Button | Speechify](../ai/rag/medium-members-can-listen-to-any-medium-story-with.md)
@@ -13990,4 +13991,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-27T09:49:01.663426+05:30*
+*Index generated on 2026-07-27T15:56:16.262500+05:30*

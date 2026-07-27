@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/raganwald/raganwald.github.com
-collected_at: '2026-07-27T09:32:48.418622+05:30'
+collected_at: '2026-07-27T15:40:03.664625+05:30'
 published_at: '2026-07-08T15:07:53Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2012-02-19T03:15:00Z'
 pushed_at: '2026-07-08T15:06:30Z'
 resource_id: github:raganwald/raganwald.github.com
-first_seen: '2026-07-27T09:32:48.418622+05:30'
-last_seen: '2026-07-27T09:32:48.418622+05:30'
-last_checked: '2026-07-27T09:32:48.418622+05:30'
+first_seen: '2026-07-27T15:40:03.664625+05:30'
+last_seen: '2026-07-27T15:40:03.664625+05:30'
+last_checked: '2026-07-27T15:40:03.664625+05:30'
 health_score: 100
 ---
 
@@ -29,7 +29,7 @@ health_score: 100
 
 *   Jekyll-based static site source for `raganwald.com`.
 *   Primary content rendered in HTML.
-*   Last updated `2026-07-08T15:07:53Z`.
+*   Repository metrics: 30 stars, 60 forks; last updated 2026-07-08T15:07:53Z.
 
 ## Why It Matters
 
