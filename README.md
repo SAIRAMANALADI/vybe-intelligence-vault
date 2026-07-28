@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 70,071 files</p>
-        <p><b>Last Update:</b> 2026-07-28 17:32 IST</p>
+        <p><b>Last Update:</b> 2026-07-28 19:43 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,23 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Kimi K3 Now Available via Telnyx Inference API](ai/community/kimi-k3-now-available-via-telnyx-inference-api.md)** • <kbd>+15 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[Securing Services with Rootless Containers](ai/community/securing-services-with-rootless-containers.md)** • <kbd>+8 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[Self-contained highly-portable Python distributions](ai/community/self-contained-highly-portable-python-distribution.md)** • <kbd>+6 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+22</kbd>
-- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+18</kbd>
+- 🔼 **[activepieces/activepieces](ai/rag/activepieces-activepieces.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[ARUNAGIRINATHAN-K/awesome-ai-agents-2026](ai/agents/arunagirinathan-k-awesome-ai-agents-2026.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[XMUDeepLIT/MemGraphRAG](ai/rag/xmudeeplit-memgraphrag.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[jamwithai/production-agentic-rag-course](ai/rag/jamwithai-production-agentic-rag-course.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[IBM/mt-rag-benchmark](ai/rag/ibm-mt-rag-benchmark.md)** • Rank: <kbd>+965</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Google's Beyond Zero: Enterprise Security for the AI Era](ai/community/google-s-beyond-zero-enterprise-security-for-the-a.md)** • Score: `16`
 - 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Netflix employee fired for sharing personal details in retreat trust exercise](ai/community/netflix-employee-fired-for-sharing-personal-detail.md)**
-- 💤 **[Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](ai/community/exploiting-volvo-eicher-s-fleet-platform-to-gain-c.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
