@@ -15,13 +15,14 @@ tags:
 - frontend_ui
 - hackernews
 - react
-status: active
+status: inactive
 resource_id: hackernews:removing-react-js-from-the-codebase-and-adapting-h
 first_seen: '2026-07-27T20:43:29.177005+05:30'
 last_seen: '2026-07-28T03:48:36.003267+05:30'
 last_checked: '2026-07-28T03:48:36.003267+05:30'
 health_score: 100
 ---
+
 
 # Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)
 

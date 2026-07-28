@@ -1704,7 +1704,6 @@ Resources organized by keyword tags.
   - [Multimodality as Supervision: Self-Supervised Specialization to the Test Environment via Multimodality](../ai/rag/arxiv-2607-14721.md)
   - [Multiplayer Interactive World Models with Representation Autoencoders](../ai/agents/arxiv-2607-05352.md)
   - [My Chemical Harness: Evolutionary Molecular Design over Synthetic Pathways with Large Language Model Agents](../ai/agents/arxiv-2606-11256.md)
-  - [My current strategy is to not read any of the code written by my agents](../ai/community/my-current-strategy-is-to-not-read-any-of-the-code.md)
   - [MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents](../ai/agents/arxiv-2606-16748.md)
   - [NAVI-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model for Autonomous Earth Observation](../ai/agents/arxiv-2606-18271.md)
   - [NEMO: Execution-Aware Optimization Modeling via Autonomous Coding Agents](../ai/agents/arxiv-2601-21372.md)
@@ -3156,13 +3155,11 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware](../ai/community/bitcoin-trail-google-cookies-and-uber-eats-orders.md)
   - [Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](../ai/community/exploiting-volvo-eicher-s-fleet-platform-to-gain-c.md)
-  - [MAI-Cyber-1-Flash inside MDASH](../ai/community/mai-cyber-1-flash-inside-mdash.md)
-  - [Modern email can be built from borrowed parts](../ai/community/modern-email-can-be-built-from-borrowed-parts.md)
+  - [Netflix employee fired for sharing personal details in retreat trust exercise](../ai/community/netflix-employee-fired-for-sharing-personal-detail.md)
   - [Securing Services with Rootless Containers](../ai/community/securing-services-with-rootless-containers.md)
   - [Self-contained highly-portable Python distributions](../ai/community/self-contained-highly-portable-python-distribution.md)
-  - [Show HN: FeyNoBg – Automatic background removal model and training library](../ai/community/show-hn-feynobg-automatic-background-removal-model.md)
+  - [The Burau representation of the braid group is faithful for n = 4](../ai/community/arxiv-2607-05283.md)
 
 ## animation
 
@@ -6460,6 +6457,7 @@ Resources organized by keyword tags.
   - [Parametric and Generative Forecasts of EPEX Day\char45 Ahead Energy Market Curves](../ai/rag/arxiv-2601-20226.md)
   - [Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches](../ai/research/arxiv-2312-08230.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [PatchOptic for Shared-State LLM Workflows with Projected Views and Verified Structured Updates](../ai/rag/arxiv-2607-05483.md)
   - [Patcher: Post-Hoc Patching of Backdoored Large Language Models](../ai/research/arxiv-2606-02995.md)
   - [PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](../ai/agents/arxiv-2607-19261.md)
@@ -10016,6 +10014,7 @@ Resources organized by keyword tags.
   - [Parameter-Efficient Vision-Language Adaptation with Continuous Metadata Conditioning for Animal Re-Identification](../ai/research/arxiv-2607-09443.md)
   - [Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification](../ai/research/arxiv-2604-26675.md)
   - [ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](../ai/research/arxiv-2606-04468.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pathways of Visual Information Flow in Vision-Language Models](../ai/research/arxiv-2607-03358.md)
   - [Pattern-Aware Graph Neural Networks for Handling Missing Data](../ai/rag/arxiv-2607-08915.md)
   - [Pediatric Bone Age Prediction Using Deep Learning](../ai/research/arxiv-2607-16936.md)
@@ -11306,7 +11305,6 @@ Resources organized by keyword tags.
   - [Reliable mechanistic operator recovery with biologically-informed neural networks: principles for architecture and optimisation design](../ai/research/arxiv-2607-07425.md)
   - [Remember, Don't Re-read: Stateful ReAct Agents for Token-Efficient Autonomous Experimentation](../ai/agents/arxiv-2606-14945.md)
   - [Remix - A Web Framework for Building Anything](../ai/agents/remix-a-web-framework-for-building-anything.md)
-  - [Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](../web-development/community/removing-react-js-from-the-codebase-and-adapting-h.md)
   - [Replit – Build apps and sites with AI - Replit](../ai/rag/replit-build-apps-and-sites-with-ai-replit.md)
   - [Research | Cornell University](../ai/rag/research-cornell-university.md)
   - [Researching with GitHub Copilot CLI - GitHub Docs](../ai/agents/researching-with-github-copilot-cli-github-docs.md)
@@ -12494,7 +12492,6 @@ Resources organized by keyword tags.
   - [BioSecBench-Surveillance: A Verifiable Benchmark for AI Agents in Pathogen Genomic Surveillance](../ai/agents/arxiv-2607-19262.md)
   - [Bitbucket Home Page](../ai/rag/bitbucket-home-page.md)
   - [Bitbucket | Git solution for teams using Jira](../ai/rag/bitbucket-git-solution-for-teams-using-jira.md)
-  - [Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware](../ai/community/bitcoin-trail-google-cookies-and-uber-eats-orders.md)
   - [Bitwise Systolic Array Architecture for Runtime-Reconfigurable Multi-precision Quantized Multiplication on Hardware Accelerators](../ai/research/arxiv-2602-23334.md)
   - [Blacklight – The Markup](../ai/resources/blacklight-the-markup.md)
   - [Blockchain and Smart Contract Development Courses - Cyfrin Updraft](../ai/resources/blockchain-and-smart-contract-development-courses.md)
@@ -13330,7 +13327,6 @@ Resources organized by keyword tags.
   - [Lyapunov-Based Sample Complexity Analysis for Weakly-Coupled MDPs](../ai/rag/arxiv-2606-14095.md)
   - [L’océan, un monde à découvrir | CNRS Le journal](../ai/rag/locean-un-monde-a-decouvrir-cnrs-le-journal.md)
   - [M+Adam: Low-Precision Training via Additive-Multiplicative Optimization](../ai/research/arxiv-2607-10611.md)
-  - [MAI-Cyber-1-Flash inside MDASH](../ai/community/mai-cyber-1-flash-inside-mdash.md)
   - [MARC records and custom Excel title lists | Librarian Portal | Springer Nature](../ai/resources/marc-records-and-custom-excel-title-lists-libraria.md)
   - [MAnchors: Memorization-Based Acceleration of Anchors via Rule Reuse and Transformation](../ai/rag/arxiv-2502-11068.md)
   - [MESA | Mathematics, Engineering, Science, Achievement](../ai/rag/mesa-mathematics-engineering-science-achievement.md)
@@ -13392,7 +13388,6 @@ Resources organized by keyword tags.
   - [Models Can Model, But Can't Bind: Structured Grounding in Text-to-Optimization](../ai/research/arxiv-2605-21751.md)
   - [Modern Infrastructure Monitoring â Turnkey Platform | Bleemeo](../ai/rag/modern-infrastructure-monitoring-a-turnkey-platfor.md)
   - [Modern analog computing for solving differential and matrix equations](../ai/rag/arxiv-2606-13179.md)
-  - [Modern email can be built from borrowed parts](../ai/community/modern-email-can-be-built-from-borrowed-parts.md)
   - [Modular RAG: Transforming RAG Systems into LEGO-like Reconfigurable Frameworks](../ai/rag/modular-rag-transforming-rag-systems-into-lego-lik.md)
   - [MongoDB Vector Search | MongoDB](../ai/rag/mongodb-vector-search-mongodb.md)
   - [MongoDB: The World’s Leading Modern Data Platform | MongoDB](../ai/rag/mongodb-the-worlds-leading-modern-data-platform-mo.md)
@@ -13409,7 +13404,6 @@ Resources organized by keyword tags.
   - [Multi-modal cross-domain mixed fusion model with dual disentanglement for fault diagnosis under unseen working conditions](../ai/research/arxiv-2512-24679.md)
   - [Multimodal Deepfake Detection and Watermarking with Secure Voice AI | Resemble AI](../ai/rag/multimodal-deepfake-detection-and-watermarking-wit.md)
   - [Multimodal Molecular Representation Learning with Graph Neural Networks, Deep & Cross Networks, and SMILES Embeddings](../ai/rag/arxiv-2607-05736.md)
-  - [My current strategy is to not read any of the code written by my agents](../ai/community/my-current-strategy-is-to-not-read-any-of-the-code.md)
   - [Mémo pour Télétravail](../ai/rag/memo-pour-teletravail.md)
   - [NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision - NASA Science](../ai/resources/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic.md)
   - [NEST: Nascent Encoded Steganographic Thoughts](../ai/agents/arxiv-2602-14095.md)
@@ -13432,6 +13426,7 @@ Resources organized by keyword tags.
   - [Navigating Distribution Shifts in Medical Image Analysis: A Survey](../ai/research/arxiv-2411-05824.md)
   - [Nemotron 3 Ultra: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning](../ai/agents/arxiv-2606-15007.md)
   - [Neo4j Graph Intelligence Platform](../ai/rag/neo4j-graph-intelligence-platform.md)
+  - [Netflix employee fired for sharing personal details in retreat trust exercise](../ai/community/netflix-employee-fired-for-sharing-personal-detail.md)
   - [Neural Architectures for Amortized Bayesian Inference: Statistical Foundations and Empirical Assessments](../ai/research/arxiv-2601-07944.md)
   - [Neural Network-Based Parametric Model Reduction for Predicting Turbulent Flow for Different Vehicle Geometries](../ai/research/arxiv-2606-24265.md)
   - [Neural Phase Correlation](../ai/research/arxiv-2606-18496.md)
@@ -13698,7 +13693,6 @@ Resources organized by keyword tags.
   - [Remote Awareness of Seafloor Images Collected by AUVs over Low-Bandwidth Communication Links](../ai/rag/arxiv-2607-18013.md)
   - [Remote Development - Visual Studio Marketplace](../ai/rag/remote-development-visual-studio-marketplace.md)
   - [Remote sensing data imputation using deep learning for multispectral imagery](../ai/research/arxiv-2605-24003.md)
-  - [Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](../web-development/community/removing-react-js-from-the-codebase-and-adapting-h.md)
   - [RepTran: Search-Based Repair of Transformer Models](../ai/rag/arxiv-2607-11193.md)
   - [Replication in Visual Diffusion Models: A Survey and Outlook](../ai/research/arxiv-2408-00001.md)
   - [Replit – Build apps and sites with AI - Replit](../ai/rag/replit-build-apps-and-sites-with-ai-replit.md)
@@ -13822,7 +13816,6 @@ Resources organized by keyword tags.
   - [Seven Security Challenges in Cross-domain Multi-agent LLM Systems](../ai/agents/arxiv-2505-23847.md)
   - [Sexualised synthetic personas encode and amplify gendered power asymmetries through voice](../ai/research/arxiv-2606-21366.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: FeyNoBg – Automatic background removal model and training library](../ai/community/show-hn-feynobg-automatic-background-removal-model.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Sign in to GitHub · GitHub](../ai/resources/langchain-ai-docs.md)
@@ -13965,6 +13958,7 @@ Resources organized by keyword tags.
   - [The AI Legal Specialist: A Juridically Autonomous Professional Profile for AI Governance](../ai/rag/arxiv-2606-12415.md)
   - [The Accountability Paradox: How Platform API Restrictions Undermine AI Transparency Mandates](../ai/research/arxiv-2505-11577.md)
   - [The Aura in the Machine: Genealogy and the Status of the Work of Art in the Generative Era](../ai/agents/arxiv-2607-17940.md)
+  - [The Burau representation of the braid group is faithful for n = 4](../ai/community/arxiv-2607-05283.md)
   - [The Calibration Channel Determines the Bayes-Error Proxy: An Exact Law for Temperature-Induced Distortion](../ai/rag/arxiv-2607-18162.md)
   - [The Challenges of Balancing AI Compliance and Technological Innovations in Critical Sectors: A Systematic Literature Review](../ai/rag/arxiv-2606-12423.md)
   - [The Clinician's Veto: Navigating Trust, Liability, and Uncertainty in Autonomous AI Prescribing](../ai/rag/arxiv-2606-25108.md)
@@ -25467,10 +25461,6 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
-## react
-
-  - [Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](../web-development/community/removing-react-js-from-the-codebase-and-adapting-h.md)
-
 ## reddit
 
   - ["I understand your perspective": LLM Persuasion through the Lens of Communicative Action Theory](../ai/rag/arxiv-2606-08076.md)
@@ -26579,7 +26569,6 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [dart compile](../ai/rag/dart-compile.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents · PyPI](../ai/agents/deepagents-pypi.md)
@@ -27398,6 +27387,7 @@ Resources organized by keyword tags.
   - [TWINGS: Thin Plate Splines Warp-aligned Initialization for Sparse-View Gaussian Splatting](../ai/research/arxiv-2605-22069.md)
   - [TXYZ - Integrate all paths to knowledge](../ai/rag/txyz-integrate-all-paths-to-knowledge.md)
   - [TensorFlow.js API](../ai/rag/tensorflow-js-api.md)
+  - [The Burau representation of the braid group is faithful for n = 4](../ai/community/arxiv-2607-05283.md)
   - [TiagoCavalcante/r3f-native-orbitcontrols](../web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols.md)
   - [Top free game assets - itch.io](../ai/rag/top-free-game-assets-itch-io.md)
   - [Top game assets tagged Fonts - itch.io](../ai/resources/top-game-assets-tagged-fonts-itch-io.md)
@@ -32501,4 +32491,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-28T04:05:49.981820+05:30*
+*Index generated on 2026-07-28T09:21:53.964620+05:30*

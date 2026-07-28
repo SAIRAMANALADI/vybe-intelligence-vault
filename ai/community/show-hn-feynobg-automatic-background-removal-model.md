@@ -13,13 +13,14 @@ collected_at: '2026-07-28T03:48:35.308007+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-feynobg-automatic-background-removal-model
 first_seen: '2026-07-28T01:25:19.688952+05:30'
 last_seen: '2026-07-28T03:48:35.308007+05:30'
 last_checked: '2026-07-28T03:48:35.308007+05:30'
 health_score: 100
 ---
+
 
 # Show HN: FeyNoBg – Automatic background removal model and training library
 

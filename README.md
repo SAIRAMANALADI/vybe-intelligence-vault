@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-69%2C248-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-121%2C230-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--28-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **69,248 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **121,230 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 13,340</p>
-        <p><b>Active:</b> 12,987 | <b>Inactive:</b> 353</p>
+        <p><b>Resources tracked:</b> 14,307</p>
+        <p><b>Active:</b> 13,948 | <b>Inactive:</b> 359</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,051</p>
+        <p><b>Archive Files:</b> 53,088</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 69,248 files</p>
-        <p><b>Last Update:</b> 2026-07-28 05:37 IST</p>
+        <p><b>Total Vault Size:</b> 121,230 files</p>
+        <p><b>Last Update:</b> 2026-07-28 09:24 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,26 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[ragnarokoffline/ragnarokoffline.github.io](ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[e2b-dev/awesome-ai-agents](ai/agents/e2b-dev-awesome-ai-agents.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[WenyuChiou/awesome-agentic-ai-zh](ai/rag/wenyuchiou-awesome-agentic-ai-zh.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[Securing Services with Rootless Containers](ai/community/securing-services-with-rootless-containers.md)** • <kbd>+53 pts</kbd> • Rank: <kbd>+4</kbd>
+- 🔼 **[Self-contained highly-portable Python distributions](ai/community/self-contained-highly-portable-python-distribution.md)** • <kbd>+43 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](ai/community/exploiting-volvo-eicher-s-fleet-platform-to-gain-c.md)** • <kbd>+27 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+4</kbd>
+- 🔼 **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** • Rank: <kbd>+974</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Netflix employee fired for sharing personal details in retreat trust exercise](ai/community/netflix-employee-fired-for-sharing-personal-detail.md)** • Score: `196`
+- 🆕 **[The Burau representation of the braid group is faithful for n = 4](ai/community/arxiv-2607-05283.md)** • Score: `26`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[MAI-Cyber-1-Flash inside MDASH](ai/community/mai-cyber-1-flash-inside-mdash.md)**
+- 💤 **[Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](web-development/community/removing-react-js-from-the-codebase-and-adapting-h.md)**
+- 💤 **[Modern email can be built from borrowed parts](ai/community/modern-email-can-be-built-from-borrowed-parts.md)**
+- 💤 **[Show HN: FeyNoBg – Automatic background removal model and training library](ai/community/show-hn-feynobg-automatic-background-removal-model.md)**
+- 💤 **[My current strategy is to not read any of the code written by my agents](ai/community/my-current-strategy-is-to-not-read-any-of-the-code.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

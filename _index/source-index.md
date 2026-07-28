@@ -10732,15 +10732,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware](../ai/community/bitcoin-trail-google-cookies-and-uber-eats-orders.md)
   - [Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](../ai/community/exploiting-volvo-eicher-s-fleet-platform-to-gain-c.md)
-  - [MAI-Cyber-1-Flash inside MDASH](../ai/community/mai-cyber-1-flash-inside-mdash.md)
-  - [Modern email can be built from borrowed parts](../ai/community/modern-email-can-be-built-from-borrowed-parts.md)
-  - [My current strategy is to not read any of the code written by my agents](../ai/community/my-current-strategy-is-to-not-read-any-of-the-code.md)
-  - [Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](../web-development/community/removing-react-js-from-the-codebase-and-adapting-h.md)
+  - [Netflix employee fired for sharing personal details in retreat trust exercise](../ai/community/netflix-employee-fired-for-sharing-personal-detail.md)
   - [Securing Services with Rootless Containers](../ai/community/securing-services-with-rootless-containers.md)
   - [Self-contained highly-portable Python distributions](../ai/community/self-contained-highly-portable-python-distribution.md)
-  - [Show HN: FeyNoBg – Automatic background removal model and training library](../ai/community/show-hn-feynobg-automatic-background-removal-model.md)
+  - [The Burau representation of the braid group is faithful for n = 4](../ai/community/arxiv-2607-05283.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -13997,4 +13993,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-28T04:05:50.138224+05:30*
+*Index generated on 2026-07-28T09:21:54.117132+05:30*

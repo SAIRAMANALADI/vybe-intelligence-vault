@@ -13,13 +13,14 @@ collected_at: '2026-07-28T03:48:36.634151+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:my-current-strategy-is-to-not-read-any-of-the-code
 first_seen: '2026-07-28T03:48:36.634151+05:30'
 last_seen: '2026-07-28T03:48:36.634151+05:30'
 last_checked: '2026-07-28T03:48:36.634151+05:30'
 health_score: 100
 ---
+
 
 # My current strategy is to not read any of the code written by my agents
 

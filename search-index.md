@@ -17308,11 +17308,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `hackernews`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://bitbucket.org>
 
-* **[Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware](ai/community/bitcoin-trail-google-cookies-and-uber-eats-orders.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by rzk. Score: 10, Comments: 3. Original Link: https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://theverge.com/games/967174/steam-game-malware-cryptostealer-arrest>
-
 * **[Black Forest Labs · GitHub](ai/resources/black-forest-labs-github.md)** (`mcp-server` | `essential` tier)
   * Summary: - **FLUX Model Ecosystem**: Black Forest Labs maintains official inference repositories for FLUX models (e.g., `flux`, `flux2`) under Apache-2.0 license, with Python-based implementations and high community adoption (e.g., `flux` repo has 25.7k+ star
   * Tags: `scripts`, `web-crawled`, `workflows`
@@ -17914,7 +17909,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://services.github.com>
 
 * **[Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](ai/community/exploiting-volvo-eicher-s-fleet-platform-to-gain-c.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by EatonZ. Score: 113, Comments: 34. Original Link: https://eaton-works.com/2026/07/27/my-eicher-hack/
+  * Summary: Hacker News story by EatonZ. Score: 140, Comments: 46. Original Link: https://eaton-works.com/2026/07/27/my-eicher-hack/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://eaton-works.com/2026/07/27/my-eicher-hack>
 
@@ -18893,11 +18888,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `workflows`
   * Source URL: <https://arxiv.org/abs/2606.14373>
 
-* **[MAI-Cyber-1-Flash inside MDASH](ai/community/mai-cyber-1-flash-inside-mdash.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by migmartri. Score: 200, Comments: 107. Original Link: https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash>
-
 * **[Main Page - Meta-Wiki](ai/resources/main-page-meta-wiki.md)** (`framework` | `useful` tier)
   * Summary: - **Meta-Wiki** serves as the central coordination hub for Wikimedia Foundation projects, including documentation, planning, and analysis, with specialized sub-projects like Wikimedia Outreach originating from it. - **Key operational tools** include
   * Tags: `hackernews`, `reddit`, `web-crawled`, `workflows`, `youtube`
@@ -19008,11 +18998,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.10126>
 
-* **[Modern email can be built from borrowed parts](ai/community/modern-email-can-be-built-from-borrowed-parts.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by andros. Score: 162, Comments: 91. Original Link: https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts>
-
 * **[Modernize your database with the consolidation and retirement of Azure Database Migration tools - Microsoft SQL Server B](ai/rag/modernize-your-database-with-the-consolidation-and.md)** (`tutorial` | `useful` tier)
   * Summary: - **Consolidation of Azure Database Migration Tools**: Microsoft is consolidating its Azure Database Migration Service (DMS) and Azure SQL Migration extension for Azure Data Studio into a unified, streamlined migration experience, reducing tool fragm
   * Tags: `rag`, `reddit`, `web-crawled`, `workflows`
@@ -19043,11 +19028,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `meta-ai`, `producthunt`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.12429>
 
-* **[My current strategy is to not read any of the code written by my agents](ai/community/my-current-strategy-is-to-not-read-any-of-the-code.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by SantiDev. Score: 41, Comments: 33. Original Link: https://twitter.com/unclebobmartin/status/2080257779395154409?s=20
-  * Tags: `agents`, `hackernews`
-  * Source URL: <https://twitter.com/unclebobmartin/status/2080257779395154409?s=20>
-
 * **[MyoInteract: A Framework for Fast Prototyping of Biomechanical HCI Tasks using Reinforcement Learning](ai/research/arxiv-2602-15245.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.15245v2 Announce Type: replace-cross Abstract: Reinforcement learning (RL)-based biomechanical simulations have the potential to revolutionise HCI research and interaction design, but currently lack usability and interpretability. Using th
   * Tags: `workflows`
@@ -19072,6 +19052,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Purpose**: `bergen` is a benchmarking library designed to evaluate Retrieval-Augmented Generation (RAG) systems, focusing on retrieval and generation performance metrics. - **Features**: Supports augmentation, generation, and evaluation of LLMs w
   * Tags: `benchmark`, `github-repo`, `jupyter notebook`, `rag`, `reddit`, `workflows`
   * Source URL: <https://github.com/naver/bergen>
+
+* **[Netflix employee fired for sharing personal details in retreat trust exercise](ai/community/netflix-employee-fired-for-sharing-personal-detail.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by softwaredoug. Score: 196, Comments: 136. Original Link: https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit>
 
 * **[neuml/txtai](ai/rag/neuml-txtai.md)** (`framework` | `useful` tier)
   * Summary: - **Framework Capabilities**: Integrates semantic search, LLM orchestration, and language model workflows into a unified Python-based AI framework, supporting agents, RAG, and vector search with sentence embeddings and transformers. - **Core Componen
@@ -19493,11 +19478,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack>
 
-* **[Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](web-development/community/removing-react-js-from-the-codebase-and-adapting-h.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Ralfp. Score: 199, Comments: 147. Original Link: https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/
-  * Tags: `frontend_ui`, `hackernews`, `react`
-  * Source URL: <https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267>
-
 * **[Render-FM: Feedforward Model for Real-time Photorealistic Volumetric Rendering](ai/research/arxiv-2505-17338.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2505.17338v3 Announce Type: replace-cross Abstract: Photorealistic volumetric rendering of CT scans greatly benefits clinical workflows, yet neural approaches such as Neural Radiance Fields (NeRF) and 3D Gaussian Splatting (3DGS) require prohib
   * Tags: `models`, `workflows`
@@ -19639,7 +19619,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.16003>
 
 * **[Securing Services with Rootless Containers](ai/community/securing-services-with-rootless-containers.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by speckx. Score: 21, Comments: 8. Original Link: https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/
+  * Summary: Hacker News story by speckx. Score: 74, Comments: 24. Original Link: https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers>
 
@@ -19664,7 +19644,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html>
 
 * **[Self-contained highly-portable Python distributions](ai/community/self-contained-highly-portable-python-distribution.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by jcbhmr. Score: 80, Comments: 18. Original Link: https://gregoryszorc.com/docs/python-build-standalone/main/
+  * Summary: Hacker News story by jcbhmr. Score: 123, Comments: 27. Original Link: https://gregoryszorc.com/docs/python-build-standalone/main/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://gregoryszorc.com/docs/python-build-standalone/main>
 
@@ -19692,11 +19672,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Modern Sphinx Theme**: Shibuya is a responsive, visually appealing theme for Sphinx documentation, supporting Jupyter extensions like `nbsphinx` for enhanced AI/ML documentation workflows. - **Multi-Mode Customization**: Features light/dark mode
   * Tags: `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://shibuya.lepture.com>
-
-* **[Show HN: FeyNoBg – Automatic background removal model and training library](ai/community/show-hn-feynobg-automatic-background-removal-model.md)** (`framework` | `useful` tier)
-  * Summary: Hacker News story by snyy. Score: 73, Comments: 21. Original Link: https://usefeyn.com/blog/feynobg/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://usefeyn.com/blog/feynobg>
 
 * **[Signature filtering: a lightweight enhancement for statistical watermark detection in large language models](ai/research/arxiv-2606-18430.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18430v1 Announce Type: new Abstract: Statistical watermarks help organizations attribute large language model (LLM) outputs, yet existing detectors often struggle when watermark signals are weak, texts are repetitive, or watermarks are edi
@@ -73454,7 +73429,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.25743>
 
 * **[black-forest-labs/FLUX.1-dev](ai/models/huggingface-spaces-black-forest-labs.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: black-forest-labs/FLUX.1-dev (Likes: 9493, Downloads: 0)
+  * Summary: Trending Hugging Face space: black-forest-labs/FLUX.1-dev (Likes: 9492, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/black-forest-labs>
 
@@ -88920,7 +88895,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.06625>
 
 * **[open-llm-leaderboard/open_llm_leaderboard](ai/models/huggingface-spaces-open-llm-leaderboard.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: open-llm-leaderboard/open_llm_leaderboard (Likes: 14059, Downloads: 0)
+  * Summary: Trending Hugging Face space: open-llm-leaderboard/open_llm_leaderboard (Likes: 14060, Downloads: 0)
   * Tags: `hf-space`, `huggingface`, `leaderboard`
   * Source URL: <https://huggingface.co/spaces/open-llm-leaderboard>
 
@@ -89527,6 +89502,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2312.08230v2 Announce Type: replace-cross Abstract: Detecting partial extrinsic symmetry in 3D geometry is a fundamental yet persistent challenge in computer vision and graphics, critical for tasks ranging from shape completion to procedural ge
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2312.08230>
+
+* **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
+  * Summary: * Introduces RAGTruth, a specialized corpus designed to benchmark and mitigate hallucination in Retrieval-Augmented Generation (RAG) models. * Provides a dataset for evaluating the trustworthiness of RAG systems by quantifying their propensity for ge
+  * Tags: `benchmark`, `dataset`, `github-repo`, `python`, `rag`
+  * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 
 * **[PASs-MoE: Mitigating Misaligned Co-drift among Router and Experts via Pathway Activation Subspaces for Continual Learning](ai/research/arxiv-2601-13020.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2601.13020v2 Announce Type: replace-cross Abstract: Continual instruction tuning (CIT) requires multimodal large language models (MLLMs) to adapt to a stream of tasks without forgetting prior capabilities. A common strategy is to isolate update
@@ -104838,7 +104818,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/GenAIOps-project-template>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3277, Downloads: 35453220)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3278, Downloads: 35453220)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
@@ -106288,8 +106268,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2512.01317>
 
 * **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
-  * Summary: * Provides a full-stack guide to Retrieval Augmented Generation (RAG) technology, encompassing implementation and advanced strategies. * Covers diverse RAG components, including multimodal data processing, various embedding techniques, and integratio
-  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`, `reddit`
+  * Summary: * Comprehensive full-stack guide for Retrieval-Augmented Generation (RAG) technology, emphasizing practical large language model (LLM) application development. * Covers integration of prominent RAG frameworks (LangChain, LlamaIndex) with vector datab
+  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -110207,7 +110187,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.11288>
 
 * **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** (`tool` | `useful` tier)
-  * Summary: * Python-based bioinformatics tool for *de novo* genome assembly and scaffolding.
+  * Summary: * Python-based bioinformatics tool for *de novo* genome assembly and scaffolding. *
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/malonge/RaGOO>
 
@@ -111651,11 +111631,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2604.20711v3 Announce Type: replace Abstract: AI-assisted consultation can speed large-scale public engagement, but concise summaries may reflect some submissions more closely than others. This paper introduces participatory provenance, a frame
   * Tags: `benchmark`, `hackernews`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2604.20711>
-
-* **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * Introduces RAGTruth, a specialized corpus for identifying and analyzing hallucinations in RAG systems. * Aims to facilitate the development of trustworthy Retrieval-Augmented Language Models. * Supports research into RAG factual consistency and rel
-  * Tags: `github-repo`, `python`, `rag`
-  * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 
 * **[Passkeys for Developers](ai/rag/passkeys-for-developers.md)** (`tutorial` | `useful` tier)
   * Summary: - **Phishing-resistant authentication**: Passkeys leverage public-key cryptography where servers store only the public key, eliminating password reuse risks and mitigating phishing attacks via domain-specific binding. - **Multi-device, biometric supp
@@ -116812,6 +116787,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **TensorFlow.js v4.22.0** is the latest stable release, supporting browser and Node.js environments with APIs for tensor operations, model training/inference, and GPU acceleration via WebGL. - **Core tensor operations** include creation (`tf.tensor
   * Tags: `agents`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `models`, `paper`, `rag`, `reddit`, `threejs`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://js.tensorflow.org/api/latest>
+
+* **[The Burau representation of the braid group is faithful for n = 4](ai/community/arxiv-2607-05283.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by wglb. Score: 26, Comments: 9. Original Link: https://arxiv.org/abs/2607.05283
+  * Tags: `ai`, `hackernews`, `threejs`
+  * Source URL: <https://arxiv.org/abs/2607.05283>
 
 * **[TiagoCavalcante/r3f-native-orbitcontrols](web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols.md)** (`tool` | `useful` tier)
   * Summary: OrbitControls for React Three Fiber in React Native
