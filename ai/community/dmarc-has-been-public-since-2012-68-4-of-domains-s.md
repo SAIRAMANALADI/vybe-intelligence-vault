@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:dmarc-has-been-public-since-2012-68-4-of-domains-s
 first_seen: '2026-07-28T20:06:15.209542+05:30'
 last_seen: '2026-07-29T01:23:17.154343+05:30'
 last_checked: '2026-07-29T01:23:17.154343+05:30'
 health_score: 100
 ---
+
 
 # DMARC has been public since 2012 but most company domains still don't enforce it
 

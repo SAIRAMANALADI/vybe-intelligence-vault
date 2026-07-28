@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-70%2C086-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-125%2C521-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--29-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **70,086 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **125,521 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 14,174</p>
-        <p><b>Active:</b> 13,800 | <b>Inactive:</b> 374</p>
+        <p><b>Resources tracked:</b> 15,143</p>
+        <p><b>Active:</b> 14,767 | <b>Inactive:</b> 376</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,054</p>
+        <p><b>Archive Files:</b> 56,542</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 70,086 files</p>
-        <p><b>Last Update:</b> 2026-07-29 03:39 IST</p>
+        <p><b>Total Vault Size:</b> 125,521 files</p>
+        <p><b>Last Update:</b> 2026-07-29 04:07 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,22 +210,23 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+966</kbd>
-- 🔼 **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** • Rank: <kbd>+966</kbd>
-- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+966</kbd>
-- 🔼 **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** • Rank: <kbd>+966</kbd>
-- 🔼 **[activepieces/activepieces](ai/rag/activepieces-activepieces.md)** • Rank: <kbd>+966</kbd>
+- 🔼 **[Una GPS smart watch – Repairable, USB-C charging, developer-friendly](ai/community/una-gps-smart-watch-repairable-usb-c-charging-deve.md)** • <kbd>+50 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[Harmony Explained: Progress Towards a Scientific Theory of Music (2012)](ai/community/arxiv-1202-4212.md)** • <kbd>+15 pts</kbd>
+- 🔼 **[e2b-dev/awesome-ai-agents](ai/agents/e2b-dev-awesome-ai-agents.md)** • Rank: <kbd>+1806</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** • Rank: <kbd>+984</kbd>
+- 🔼 **[ragnarokoffline/ragnarokoffline.github.io](ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)** • Rank: <kbd>+984</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[DMARC has been public since 2012 but most company domains still don't enforce it](ai/community/dmarc-has-been-public-since-2012-68-4-of-domains-s.md)** • Score: `151`
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[OpenAI just open-sourced Codex Security](ai/community/openai-codex-security.md)** • Score: `168`
+- 🆕 **[Anthropic publishes a practical key-recovery attack on HAWK-256](ai/community/anthropics-cryptography-research-demo.md)** • Score: `15`
+- 🆕 **[Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](ai/agents/huggingface-blog-agent-intrusion-technical-timeline.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Now Is the Time to Give LLMs Access to the ACM Digital Library](ai/community/now-is-the-time-to-give-llms-access-to-the-acm-dig.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

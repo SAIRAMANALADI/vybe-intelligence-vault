@@ -13,13 +13,14 @@ collected_at: '2026-07-29T01:23:16.421564+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:now-is-the-time-to-give-llms-access-to-the-acm-dig
 first_seen: '2026-07-29T01:23:16.421564+05:30'
 last_seen: '2026-07-29T01:23:16.421564+05:30'
 last_checked: '2026-07-29T01:23:16.421564+05:30'
 health_score: 100
 ---
+
 
 # Now Is the Time to Give LLMs Access to the ACM Digital Library
 

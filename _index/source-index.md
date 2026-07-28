@@ -11551,9 +11551,9 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [DMARC has been public since 2012 but most company domains still don't enforce it](../ai/community/dmarc-has-been-public-since-2012-68-4-of-domains-s.md)
+  - [Anthropic publishes a practical key-recovery attack on HAWK-256](../ai/community/anthropics-cryptography-research-demo.md)
   - [Harmony Explained: Progress Towards a Scientific Theory of Music (2012)](../ai/community/arxiv-1202-4212.md)
-  - [Now Is the Time to Give LLMs Access to the ACM Digital Library](../ai/community/now-is-the-time-to-give-llms-access-to-the-acm-dig.md)
+  - [OpenAI just open-sourced Codex Security](../ai/community/openai-codex-security.md)
   - [Una GPS smart watch – Repairable, USB-C charging, developer-friendly](../ai/community/una-gps-smart-watch-repairable-usb-c-charging-deve.md)
 
 ## Unknown Source (type: huggingface)
@@ -11625,6 +11625,7 @@ Resources organized by publisher feed and query sources.
   - [An Introduction to Q-Learning Part 1](../ai/models/huggingface-blog-deep-rl-q-part1.md)
   - [An Introduction to Q-Learning Part 2/2](../ai/models/huggingface-blog-deep-rl-q-part2.md)
   - [An overview of inference solutions on Hugging Face](../ai/models/huggingface-blog-inference-update.md)
+  - [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](../ai/agents/huggingface-blog-agent-intrusion-technical-timeline.md)
   - [Announcing Evaluation on the Hub](../ai/models/huggingface-blog-eval-on-the-hub.md)
   - [Announcing NeurIPS 2025 E2LM Competition: Early Training Evaluation of Language Models](../ai/models/huggingface-blog-tiiuae-e2lm-competition.md)
   - [Announcing New Dataset Search Features](../ai/models/huggingface-blog-datasets-filters.md)
@@ -14811,4 +14812,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-29T01:40:30.621713+05:30*
+*Index generated on 2026-07-29T04:04:59.982777+05:30*

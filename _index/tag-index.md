@@ -347,6 +347,7 @@ Resources organized by keyword tags.
   - [An RRAM-based Hardware Implementation of a Radial Basis Function Neuron for Edge Classifiers](../ai/rag/arxiv-2606-14739.md)
   - [An offline approach to fNIRS-guided reinforcement learning for robot behavior](../ai/agents/arxiv-2607-14393.md)
   - [Anaconda Legal | Anaconda](../ai/agents/anaconda-legal-anaconda.md)
+  - [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](../ai/agents/huggingface-blog-agent-intrusion-technical-timeline.md)
   - [AnchorVLA: Bridging Discrete Decisions and Continuous Trajectories for Vision-Language-Action Planning](../ai/agents/arxiv-2607-03182.md)
   - [Android Developers Blog](../ai/agents/android-developers-blog.md)
   - [AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery](../ai/rag/arxiv-2607-15367.md)
@@ -3320,8 +3321,8 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [DMARC has been public since 2012 but most company domains still don't enforce it](../ai/community/dmarc-has-been-public-since-2012-68-4-of-domains-s.md)
   - [Harmony Explained: Progress Towards a Scientific Theory of Music (2012)](../ai/community/arxiv-1202-4212.md)
+  - [OpenAI just open-sourced Codex Security](../ai/community/openai-codex-security.md)
   - [Una GPS smart watch – Repairable, USB-C charging, developer-friendly](../ai/community/una-gps-smart-watch-repairable-usb-c-charging-deve.md)
 
 ## animation
@@ -3385,6 +3386,7 @@ Resources organized by keyword tags.
   - [AlloBench: Measuring Online Tool Allocation Capability in LLM Agents](../ai/agents/arxiv-2607-23332.md)
   - [An Exam for Active Observers](../ai/rag/arxiv-2607-16165.md)
   - [An Experimental Design Approach to Evaluating Agentic AI's Autonomous Model Discovery](../ai/agents/arxiv-2607-06413.md)
+  - [Anthropic publishes a practical key-recovery attack on HAWK-256](../ai/community/anthropics-cryptography-research-demo.md)
   - [AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection](../ai/agents/arxiv-2604-11950.md)
   - [Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](../ai/rag/arxiv-2605-23243.md)
   - [Arize-ai/phoenix](../ai/rag/arize-ai-phoenix.md)
@@ -6905,6 +6907,7 @@ Resources organized by keyword tags.
   - [ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits](../ai/research/arxiv-2607-23225.md)
   - [Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches](../ai/research/arxiv-2312-08230.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [PatchOptic for Shared-State LLM Workflows with Projected Views and Verified Structured Updates](../ai/rag/arxiv-2607-05483.md)
   - [Patcher: Post-Hoc Patching of Backdoored Large Language Models](../ai/research/arxiv-2606-02995.md)
   - [PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](../ai/agents/arxiv-2607-19261.md)
@@ -10710,6 +10713,7 @@ Resources organized by keyword tags.
   - [Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification](../ai/research/arxiv-2604-26675.md)
   - [ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits](../ai/research/arxiv-2607-23225.md)
   - [ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](../ai/research/arxiv-2606-04468.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pathways of Visual Information Flow in Vision-Language Models](../ai/research/arxiv-2607-03358.md)
   - [Patient-Agnostic Synthetic Pretraining for Efficient Patient-Specific Intraoperative 2D/3D Registration](../ai/research/arxiv-2607-23343.md)
   - [Pattern-Aware Graph Neural Networks for Handling Missing Data](../ai/rag/arxiv-2607-08915.md)
@@ -13171,11 +13175,13 @@ Resources organized by keyword tags.
   - [Analysis of Public Schools Educational Performance Based on Causal Models and Hierarchical Clustering](../ai/rag/arxiv-2607-14124.md)
   - [Analytic Bijections for Smooth and Interpretable Normalizing Flows](../ai/research/arxiv-2601-10774.md)
   - [Anamnesis: An Open-Source Platform for Large-Scale Backstory-Conditioned Survey Simulation](../ai/research/arxiv-2607-10628.md)
+  - [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](../ai/agents/huggingface-blog-agent-intrusion-technical-timeline.md)
   - [Andrew-Jang/RAGHub](../ai/rag/andrew-jang-raghub.md)
   - [Android Apps on Google Play](../ai/rag/android-apps-on-google-play.md)
   - [Android Developers](../ai/rag/android-developers.md)
   - [Android Developers Blog](../ai/agents/android-developers-blog.md)
   - [Android Developers Blog: A New Foundation for AI on Android](../ai/resources/android-developers-blog-a-new-foundation-for-ai-on.md)
+  - [Anthropic publishes a practical key-recovery attack on HAWK-256](../ai/community/anthropics-cryptography-research-demo.md)
   - [Apache Infrastructure Website](../ai/agents/apache-infrastructure-website.md)
   - [Apache SpamAssassin: Welcome](../ai/agents/apache-spamassassin-welcome.md)
   - [App Privacy Details - App Store - Apple Developer](../ai/resources/app-privacy-details-app-store-apple-developer.md)
@@ -13462,7 +13468,6 @@ Resources organized by keyword tags.
   - [Cybersecurity & Privacy Stakeholder Engagement | NIST](../ai/rag/cybersecurity-privacy-stakeholder-engagement-nist.md)
   - [CycliST: A Video Language Model Benchmark for Reasoning on Cyclical State Transitions](../ai/research/arxiv-2512-01095.md)
   - [DF3DV-1K: A Large-Scale Dataset and Benchmark for Distractor-Free Novel View Synthesis](../ai/rag/arxiv-2604-13416.md)
-  - [DMARC has been public since 2012 but most company domains still don't enforce it](../ai/community/dmarc-has-been-public-since-2012-68-4-of-domains-s.md)
   - [DMCA | Electronic Frontier Foundation](../ai/resources/dmca-electronic-frontier-foundation.md)
   - [DOE Explains...Superconductivity | Department of Energy](../ai/resources/doe-explains-superconductivity-department-of-energ.md)
   - [DOE Office of Science Research News Update](../ai/rag/doe-office-of-science-research-news-update.md)
@@ -14257,7 +14262,6 @@ Resources organized by keyword tags.
   - [Nondiscrimination Policy | Stanford University Bulletin](../ai/resources/nondiscrimination-policy-stanford-university-bulle.md)
   - [Nonparametric Control Koopman Operators](../ai/research/arxiv-2405-07312.md)
   - [NouveauVoice: Generating Novel Pseudo Speakers for Voice Anonymization](../ai/rag/arxiv-2607-03985.md)
-  - [Now Is the Time to Give LLMs Access to the ACM Digital Library](../ai/community/now-is-the-time-to-give-llms-access-to-the-acm-dig.md)
   - [Nuro—Autonomy for all. All roads, all rides. | Nuro](../ai/rag/nuro-autonomy-for-all-all-roads-all-rides-nuro.md)
   - [Nvidia is latest investor to back AV startup Nuro in $203M funding round | TechCrunch](../ai/rag/nvidia-is-latest-investor-to-back-av-startup-nuro.md)
   - [OECC2026](../ai/rag/oecc2026.md)
@@ -14287,6 +14291,7 @@ Resources organized by keyword tags.
   - [Open Government Licence](../ai/rag/open-government-licence.md)
   - [Open Source Security Foundation – Linux Foundation Projects](../ai/resources/open-source-security-foundation-linux-foundation-p.md)
   - [Open Subscription Platforms](../ai/rag/open-subscription-platforms.md)
+  - [OpenAI just open-sourced Codex Security](../ai/community/openai-codex-security.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [OpenAnt: LLM-Powered Vulnerability Discovery Through Code Decomposition, Adversarial Verification, and Dynamic Testing](../ai/research/arxiv-2606-19149.md)
   - [OpenEM: Large-scale multi-structural 3D datasets for electromagnetic methods](../ai/research/arxiv-2510-21859.md)
@@ -15680,10 +15685,6 @@ Resources organized by keyword tags.
   - [open-llm-leaderboard/open_llm_leaderboard](../ai/models/huggingface-spaces-open-llm-leaderboard.md)
   - [prometheus-eval/BiGGen-Bench at main · prometheus-eval/prometheus-eval · GitHub](../ai/rag/prometheus-eval-prometheus-eval.md)
   - [prometheus-eval/BiGGen-Bench · Datasets at Hugging Face](../ai/rag/huggingface-datasets-prometheus-eval.md)
-
-## llm
-
-  - [Now Is the Time to Give LLMs Access to the ACM Digital Library](../ai/community/now-is-the-time-to-give-llms-access-to-the-acm-dig.md)
 
 ## mdx
 
@@ -19176,6 +19177,7 @@ Resources organized by keyword tags.
   - [Not All Skills Help: Measuring and Repairing Agent Knowledge](../ai/agents/arxiv-2606-15390.md)
   - [NousResearch/hermes-agent](../ai/agents/nousresearch-hermes-agent.md)
   - [Nvidia is latest investor to back AV startup Nuro in $203M funding round | TechCrunch](../ai/rag/nvidia-is-latest-investor-to-back-av-startup-nuro.md)
+  - [OpenAI just open-sourced Codex Security](../ai/community/openai-codex-security.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](../ai/rag/arxiv-2509-02594.md)
   - [Optimizing Databricks LLM Pipelines with DSPy | Databricks Blog](../ai/rag/optimizing-databricks-llm-pipelines-with-dspy-data.md)
@@ -23362,7 +23364,6 @@ Resources organized by keyword tags.
   - [DICE: Entropy-Regularized Equilibrium Selection for Stable Multi-Agent LLM Coordination](../ai/rag/arxiv-2606-08068.md)
   - [DIPHINE: Diffusion-based $\Phi$-ID Neural Estimator](../ai/rag/arxiv-2606-18997.md)
   - [DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?](../ai/rag/arxiv-2606-12402.md)
-  - [DMARC has been public since 2012 but most company domains still don't enforce it](../ai/community/dmarc-has-been-public-since-2012-68-4-of-domains-s.md)
   - [DMFNet: Dual-Backbone Multiscale Fusion Network for Urban Scene Classification](../ai/rag/arxiv-2607-16338.md)
   - [DNF Command Reference — DNF @DNF_VERSION@-1 documentation](../ai/rag/dnf-command-reference-dnf-dnf-version-1-documentat.md)
   - [DOE Office of Science Research News Update](../ai/rag/doe-office-of-science-research-news-update.md)
@@ -28100,6 +28101,7 @@ Resources organized by keyword tags.
   - [prometheus-eval/BiGGen-Bench at main · prometheus-eval/prometheus-eval · GitHub](../ai/rag/prometheus-eval-prometheus-eval.md)
   - [prompten-2026bahar/PE-2026-CrewAI](../ai/agents/prompten-2026bahar-pe-2026-crewai.md)
   - [questcollector/autogen-kubernetes](../ai/agents/questcollector-autogen-kubernetes.md)
+  - [ragnarokoffline/ragnarokoffline.github.io](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)
   - [real analysis - Hölder continuity of scaling paths - Mathematics Stack Exchange](../ai/rag/real-analysis-holder-continuity-of-scaling-paths-m.md)
   - [register](../ai/resources/register.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
@@ -34072,4 +34074,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-29T01:40:30.458732+05:30*
+*Index generated on 2026-07-29T04:04:59.818887+05:30*

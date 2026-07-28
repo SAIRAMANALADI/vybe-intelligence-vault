@@ -14,8 +14,8 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
 - [Resources to help you build, secure, and scale with GitHub · GitHub](https://resources.github.com/) (framework - USEFUL Tier)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (framework - USEFUL Tier)
+- [datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe) (framework - USEFUL Tier)
 - [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) (prompt - USEFUL Tier)
-- [Resources - Linux Foundation - Education](https://training.linuxfoundation.org/resources) (dataset - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,6 +23,7 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 - [github/roadmap](https://github.com/github/roadmap)
 - [Resources to help you build, secure, and scale with GitHub · GitHub](https://resources.github.com/)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
+- [datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe)
 - [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
 
 ## Best Learning Resources
@@ -39,4 +40,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-07-29 01:41 IST*
+*Last updated: 2026-07-29 04:06 IST*
