@@ -11555,13 +11555,9 @@ Resources organized by publisher feed and query sources.
   - [Dolmenwood: Fantasy RPG built around the acclaimed Old-School Essentials rules](../ai/community/dolmenwood-fantasy-rpg-built-around-the-acclaimed.md)
   - [Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)](../ai/community/fast-remediation-is-the-new-trust-model-jfrog-and.md)
   - [Google's Beyond Zero: Enterprise Security for the AI Era](../ai/community/google-s-beyond-zero-enterprise-security-for-the-a.md)
-  - [Kimi K3 Now Available via Telnyx Inference API](../ai/community/kimi-k3-now-available-via-telnyx-inference-api.md)
+  - [Harmony Explained: Progress Towards a Scientific Theory of Music (2012)](../ai/community/arxiv-1202-4212.md)
   - [Mondragon Corporation – a federation of co-operatives](../ai/community/mondragon-corporation-a-federation-of-co-operative.md)
-  - [Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History](../ai/community/over-150k-flights-airlines-just-flew-the-busiest-d.md)
-  - [Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs](../ai/community/ctrlb-hq-ctrlb-decompose.md)
   - [Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](../ai/community/schildep-verified-3d-mesh-intersection.md)
-  - [Show HN: Segue – Save context in one AI, load it in another by a short handle](../ai/community/show-hn-segue-save-context-in-one-ai-load-it-in-an.md)
-  - [What AI developers could learn from Charles Bukowski?](../ai/community/what-ai-developers-could-learn-from-charles-bukows.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -12028,6 +12024,7 @@ Resources organized by publisher feed and query sources.
   - [Kimina-Prover-RL](../ai/models/huggingface-blog-ai-mo-kimina-prover-rl.md)
   - [Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models](../ai/models/huggingface-blog-ai-mo-kimina-prover.md)
   - [LAVE: Zero-shot VQA Evaluation on Docmatix with LLMs - Do We Still Need Fine-Tuning?](../ai/models/huggingface-blog-zero-shot-vqa-docmatix.md)
+  - [LFM2.5-Encoders for Fast Long-Context Inference on CPU](../ai/models/huggingface-blog-liquidai-lfm2-5-encoders.md)
   - [LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!](../ai/models/huggingface-blog-llm-inference-on-edge.md)
   - [Large Language Models: A New Moore's Law?](../ai/models/huggingface-blog-large-language-models.md)
   - [Large-scale Near-deduplication Behind BigCode](../ai/models/huggingface-blog-dedup.md)
@@ -12264,6 +12261,7 @@ Resources organized by publisher feed and query sources.
   - [The N Implementation Details of RLHF with PPO](../ai/models/huggingface-blog-the-n-implementation-details-of-rlhf-with-ppo.md)
   - [The NLP Course is becoming the LLM Course](../ai/models/huggingface-blog-llm-course.md)
   - [The New and Fresh analytics in Inference Endpoints](../ai/models/huggingface-blog-endpoint-analytics.md)
+  - [The OlmoEarth Platform: Geospatial inference at planetary scale](../ai/models/huggingface-blog-allenai-olmoearth-infrastructure.md)
   - [The Open Arabic LLM Leaderboard 2](../ai/models/huggingface-blog-leaderboard-arabic-v2.md)
   - [The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator](../ai/models/huggingface-blog-nvidia-nemotron-3-nano-evaluation-recipe.md)
   - [The Open Medical-LLM Leaderboard: Benchmarking Large Language Models in Healthcare](../ai/models/huggingface-blog-leaderboard-medicalllm.md)
@@ -12362,7 +12360,6 @@ Resources organized by publisher feed and query sources.
   - [Welcome, Gradio 5](../ai/models/huggingface-blog-gradio-5.md)
   - [Welcoming Llama Guard 4 on Hugging Face Hub](../ai/models/huggingface-blog-llama-guard-4.md)
   - [What Makes a Dialog Agent Useful?](../ai/agents/huggingface-blog-dialog-agents.md)
-  - [What building Shippy taught us about building agents](../ai/agents/huggingface-blog-allenai-shippy-tech-blog.md)
   - [What's going on with the Open LLM Leaderboard?](../ai/models/huggingface-blog-open-llm-leaderboard-mmlu.md)
   - [What's new in Diffusers? 🎨](../ai/models/huggingface-blog-diffusers-2nd-month.md)
   - [Why Specialization Is Inevitable](../ai/models/huggingface-blog-dharma-ai-why-specialization-is-inevitable.md)
@@ -14817,4 +14814,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-28T20:23:13.409935+05:30*
+*Index generated on 2026-07-28T22:38:35.617273+05:30*

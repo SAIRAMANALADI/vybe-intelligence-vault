@@ -13,13 +13,14 @@ collected_at: '2026-07-28T20:06:15.011030+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: github:ctrlb-hq/ctrlb-decompose
 first_seen: '2026-07-28T20:06:15.011030+05:30'
 last_seen: '2026-07-28T20:06:15.011030+05:30'
 last_checked: '2026-07-28T20:06:15.011030+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs
 

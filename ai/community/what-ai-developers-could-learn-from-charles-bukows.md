@@ -13,13 +13,14 @@ collected_at: '2026-07-28T20:06:15.689063+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:what-ai-developers-could-learn-from-charles-bukows
 first_seen: '2026-07-28T20:06:15.689063+05:30'
 last_seen: '2026-07-28T20:06:15.689063+05:30'
 last_checked: '2026-07-28T20:06:15.689063+05:30'
 health_score: 100
 ---
+
 
 # What AI developers could learn from Charles Bukowski?
 

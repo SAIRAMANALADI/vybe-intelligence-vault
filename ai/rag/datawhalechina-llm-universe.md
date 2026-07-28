@@ -4,22 +4,22 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/llm-universe
-collected_at: '2026-07-28T16:59:35.425606+05:30'
-published_at: '2026-07-28T09:09:30Z'
+collected_at: '2026-07-28T22:22:06.635685+05:30'
+published_at: '2026-07-28T16:44:41Z'
 tags:
 - github-repo
 - jupyter notebook
 - rag
-stars: 13657
+stars: 13660
 language: Jupyter Notebook
 status: active
 archived: false
 created_at: '2023-10-29T16:01:22Z'
-pushed_at: '2026-02-24T14:33:21Z'
+pushed_at: '2026-07-28T13:47:59Z'
 resource_id: github:datawhalechina/llm-universe
-first_seen: '2026-07-28T16:59:35.425606+05:30'
-last_seen: '2026-07-28T16:59:35.425606+05:30'
-last_checked: '2026-07-28T16:59:35.425606+05:30'
+first_seen: '2026-07-28T22:22:06.635685+05:30'
+last_seen: '2026-07-28T22:22:06.635685+05:30'
+last_checked: '2026-07-28T22:22:06.635685+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive tutorial on LLM application development, primarily leveraging the LangChain framework.
-*   Covers the implementation of Retrieval-Augmented Generation (RAG) architectures.
-*   Educational content is delivered through Jupyter Notebooks.
+*   Offers a foundational tutorial for Large Language Model (LLM) application development, targeting novice developers.
+*   Emphasizes practical implementation of LangChain and Retrieval-Augmented Generation (RAG) architectures.
+*   Content is delivered through Jupyter Notebooks, enabling interactive code execution and learning.
 
 ## Why It Matters
 
@@ -38,14 +38,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 13657
+- Stars: 13660
 - Forks: 1386
 - Language: Jupyter Notebook
 - Topics: langchain, rag
-- Last Updated: 2026-07-28T09:09:30Z
+- Last Updated: 2026-07-28T16:44:41Z
 - Archived: No
 - Created At: 2023-10-29T16:01:22Z
-- Pushed At: 2026-02-24T14:33:21Z
+- Pushed At: 2026-07-28T13:47:59Z
 
 ## Possible Use Cases
 

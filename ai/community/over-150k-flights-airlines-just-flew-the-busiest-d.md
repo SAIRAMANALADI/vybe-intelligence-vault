@@ -13,13 +13,14 @@ collected_at: '2026-07-28T20:06:16.279042+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:over-150k-flights-airlines-just-flew-the-busiest-d
 first_seen: '2026-07-28T20:06:16.279042+05:30'
 last_seen: '2026-07-28T20:06:16.279042+05:30'
 last_checked: '2026-07-28T20:06:16.279042+05:30'
 health_score: 100
 ---
+
 
 # Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History
 

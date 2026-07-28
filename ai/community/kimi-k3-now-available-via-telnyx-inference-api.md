@@ -13,13 +13,14 @@ collected_at: '2026-07-28T20:06:17.565453+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:kimi-k3-now-available-via-telnyx-inference-api
 first_seen: '2026-07-28T14:21:14.112846+05:30'
 last_seen: '2026-07-28T20:06:17.565453+05:30'
 last_checked: '2026-07-28T20:06:17.565453+05:30'
 health_score: 100
 ---
+
 
 # Kimi K3 Now Available via Telnyx Inference API
 

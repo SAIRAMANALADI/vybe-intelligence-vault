@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) (Tier: `useful` | [`Local File`](../../ai/resources/cyproxio-mcp-for-security.md))
 
 ---
-*Last updated: 2026-07-28 20:24 IST*
+*Last updated: 2026-07-28 22:40 IST*

@@ -2931,7 +2931,6 @@ Resources organized by keyword tags.
   - [What Models Express, Suppress, and Resist: Auditing Open-Weight LLMs with Persona Vectors](../ai/agents/arxiv-2607-13162.md)
   - [What Must Generalist Agents Remember?](../ai/agents/arxiv-2606-18746.md)
   - [What are Diffusion Models? | IBM](../ai/rag/what-are-diffusion-models-ibm.md)
-  - [What building Shippy taught us about building agents](../ai/agents/huggingface-blog-allenai-shippy-tech-blog.md)
   - [What is PeerTube? | JoinPeerTube](../ai/rag/what-is-peertube-joinpeertube.md)
   - [What is the Model Context Protocol (MCP)? - Model Context Protocol](../ai/agents/what-is-the-model-context-protocol-mcp-model-conte.md)
   - [What to Keep, What to Forget: A Rate--Distortion View of Memory Compaction in LLMs and Agents](../ai/agents/arxiv-2607-08032.md)
@@ -3325,11 +3324,8 @@ Resources organized by keyword tags.
   - [Dolmenwood: Fantasy RPG built around the acclaimed Old-School Essentials rules](../ai/community/dolmenwood-fantasy-rpg-built-around-the-acclaimed.md)
   - [Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)](../ai/community/fast-remediation-is-the-new-trust-model-jfrog-and.md)
   - [Google's Beyond Zero: Enterprise Security for the AI Era](../ai/community/google-s-beyond-zero-enterprise-security-for-the-a.md)
-  - [Kimi K3 Now Available via Telnyx Inference API](../ai/community/kimi-k3-now-available-via-telnyx-inference-api.md)
-  - [Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History](../ai/community/over-150k-flights-airlines-just-flew-the-busiest-d.md)
+  - [Harmony Explained: Progress Towards a Scientific Theory of Music (2012)](../ai/community/arxiv-1202-4212.md)
   - [Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](../ai/community/schildep-verified-3d-mesh-intersection.md)
-  - [Show HN: Segue – Save context in one AI, load it in another by a short handle](../ai/community/show-hn-segue-save-context-in-one-ai-load-it-in-an.md)
-  - [What AI developers could learn from Charles Bukowski?](../ai/community/what-ai-developers-could-learn-from-charles-bukows.md)
 
 ## animation
 
@@ -13848,6 +13844,7 @@ Resources organized by keyword tags.
   - [HandFlow: Fully Generative 4D Hand Recovery with Flow Matching](../ai/research/arxiv-2607-11221.md)
   - [Handle - AT Protocol](../ai/resources/handle-at-protocol.md)
   - [Handling Feature Heterogeneity with Learnable Graph Patches](../ai/rag/arxiv-2606-17667.md)
+  - [Harmony Explained: Progress Towards a Scientific Theory of Music (2012)](../ai/community/arxiv-1202-4212.md)
   - [Harrison.Rad 1.5 Technical Report: A radiology foundation model that can draft reports from images, priors and clinical context](../ai/research/arxiv-2607-05880.md)
   - [Harvard Digital Accessibility Policy revised, expanded — Harvard Gazette](../ai/resources/harvard-digital-accessibility-policy-revised-expan.md)
   - [Harvard University Digital Accessibility Policy | Digital Accessibility​ Services](../ai/rag/harvard-university-digital-accessibility-policy-di.md)
@@ -14020,7 +14017,6 @@ Resources organized by keyword tags.
   - [KDFlow: A User-Friendly and Efficient Knowledge Distillation Framework for Large Language Models](../ai/research/arxiv-2603-01875.md)
   - [KOERI | DEPARTMENT OF GEOPHYSICS](../ai/resources/koeri-department-of-geophysics.md)
   - [Keras: Deep Learning for humans](../ai/rag/keras-deep-learning-for-humans.md)
-  - [Kimi K3 Now Available via Telnyx Inference API](../ai/community/kimi-k3-now-available-via-telnyx-inference-api.md)
   - [Knowledge Futures and Crossref: Exploring High-Volume DOI Management](../ai/resources/knowledge-futures-and-crossref-exploring-high-volu.md)
   - [Knowledge Graph and Accurate Portrait Construction of Scientific and Technological Academic Conferences](../ai/rag/arxiv-2204-04888.md)
   - [Knowledge Graphs Meet Graph Neural Networks: A Comprehensive Survey](../ai/research/arxiv-2607-09666.md)
@@ -14321,7 +14317,6 @@ Resources organized by keyword tags.
   - [Orion-Real-Time Validation Infrastructure | Commercial UAV Expo](../ai/resources/orion-real-time-validation-infrastructure-commerci.md)
   - [Our Opportunities - University of California-Los Angeles Scholarship Application](../ai/resources/our-opportunities-university-of-california-los-ang.md)
   - [Output Type Before Quality: A Standards-Derived XAI Admissibility Rubric for Autonomous-Driving Safety](../ai/agents/arxiv-2606-05461.md)
-  - [Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History](../ai/community/over-150k-flights-airlines-just-flew-the-busiest-d.md)
   - [Overview (egeria 6.1-SNAPSHOT API)](../ai/resources/overview-egeria-6-1-snapshot-api.md)
   - [Overview - FHIR v5.0.0](../ai/rag/overview-fhir-v5-0-0.md)
   - [Overview - Knative](../ai/rag/overview-knative.md)
@@ -14651,9 +14646,7 @@ Resources organized by keyword tags.
   - [Seven Security Challenges in Cross-domain Multi-agent LLM Systems](../ai/agents/arxiv-2505-23847.md)
   - [Sexualised synthetic personas encode and amplify gendered power asymmetries through voice](../ai/research/arxiv-2606-21366.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs](../ai/community/ctrlb-hq-ctrlb-decompose.md)
   - [Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](../ai/community/schildep-verified-3d-mesh-intersection.md)
-  - [Show HN: Segue – Save context in one AI, load it in another by a short handle](../ai/community/show-hn-segue-save-context-in-one-ai-load-it-in-an.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Sign in to GitHub · GitHub](../ai/resources/langchain-ai-docs.md)
@@ -15037,7 +15030,6 @@ Resources organized by keyword tags.
   - [Welcome | University Privacy](../ai/resources/welcome-university-privacy.md)
   - [Welcome, GraphAware](../ai/agents/welcome-graphaware.md)
   - [Werkzeug · PyPI](../ai/agents/werkzeug-pypi.md)
-  - [What AI developers could learn from Charles Bukowski?](../ai/community/what-ai-developers-could-learn-from-charles-bukows.md)
   - [What Do AI Agents Actually Change? An Empirical Taxonomy of Mutation Patterns in Performance-Improving Pull Requests](../ai/agents/arxiv-2607-05666.md)
   - [What Do They See? Interpreting Complex Road Scenarios Through the Eyes of Vision-Language-Action Models for Safe and Trustworthy Autonomous Vehicle Learning](../ai/agents/arxiv-2607-16938.md)
   - [What Does It Mean to Break a Distillation Defense?](../ai/research/arxiv-2606-25059.md)
@@ -15694,10 +15686,6 @@ Resources organized by keyword tags.
   - [open-llm-leaderboard/open_llm_leaderboard](../ai/models/huggingface-spaces-open-llm-leaderboard.md)
   - [prometheus-eval/BiGGen-Bench at main · prometheus-eval/prometheus-eval · GitHub](../ai/rag/prometheus-eval-prometheus-eval.md)
   - [prometheus-eval/BiGGen-Bench · Datasets at Hugging Face](../ai/rag/huggingface-datasets-prometheus-eval.md)
-
-## llm
-
-  - [Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs](../ai/community/ctrlb-hq-ctrlb-decompose.md)
 
 ## mdx
 
@@ -34088,4 +34076,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-28T20:23:13.237604+05:30*
+*Index generated on 2026-07-28T22:38:35.454088+05:30*
