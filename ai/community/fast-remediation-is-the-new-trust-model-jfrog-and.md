@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:fast-remediation-is-the-new-trust-model-jfrog-and
 first_seen: '2026-07-28T20:06:15.796778+05:30'
 last_seen: '2026-07-28T22:21:27.537608+05:30'
 last_checked: '2026-07-28T22:21:27.537608+05:30'
 health_score: 100
 ---
+
 
 # Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)
 

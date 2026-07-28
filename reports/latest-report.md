@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-28T23:49:53.072847+05:30`
+Generated at: `2026-07-29T01:43:01.739547+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,34 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **Now Is the Time to Give LLMs Access to the ACM Digital Library** - Score: `71` in category `ai/community` ([Link](https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library)) ([File](../ai/community/now-is-the-time-to-give-llms-access-to-the-acm-dig.md))
+- **Una GPS smart watch – Repairable, USB-C charging, developer-friendly** - Score: `60` in category `ai/community` ([Link](https://unawatch.com)) ([File](../ai/community/una-gps-smart-watch-repairable-usb-c-charging-deve.md))
 
 ## Top Trending Resources
 
-- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+966` ([File](../ai/rag/particlemedia-ragtruth.md))
-- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+966` ([File](../ai/rag/malonge-ragoo.md))
-- **activepieces/activepieces** - Score: `0` (0), Rank Change: `+966` ([File](../ai/rag/activepieces-activepieces.md))
-- **ARUNAGIRINATHAN-K/awesome-ai-agents-2026** - Score: `0` (0), Rank Change: `+966` ([File](../ai/agents/arunagirinathan-k-awesome-ai-agents-2026.md))
-- **XMUDeepLIT/MemGraphRAG** - Score: `0` (0), Rank Change: `+966` ([File](../ai/rag/xmudeeplit-memgraphrag.md))
-- **jamwithai/production-agentic-rag-course** - Score: `0` (0), Rank Change: `+966` ([File](../ai/rag/jamwithai-production-agentic-rag-course.md))
-- **IBM/mt-rag-benchmark** - Score: `0` (0), Rank Change: `+966` ([File](../ai/rag/ibm-mt-rag-benchmark.md))
-- **gomate-community/awesome-papers-for-rag** - Score: `0` (0), Rank Change: `+966` ([File](../ai/rag/gomate-community-awesome-papers-for-rag.md))
-- **Azure-Samples/chat-with-your-data-solution-accelerator** - Score: `0` (0), Rank Change: `+967` ([File](../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md))
-- **hllqkb/Spring-AI-Ailibaba-Best-Practices** - Score: `0` (0), Rank Change: `+967` ([File](../ai/rag/hllqkb-spring-ai-ailibaba-best-practices.md))
+- **DMARC has been public since 2012 but most company domains still don't enforce it** - Score: `151` (+46), Rank Change: `+1` ([File](../ai/community/dmarc-has-been-public-since-2012-68-4-of-domains-s.md))
+- **Harmony Explained: Progress Towards a Scientific Theory of Music (2012)** - Score: `68` (+29), Rank Change: `+4` ([File](../ai/community/arxiv-1202-4212.md))
+- **langchain-ai/new-langgraphjs-project** - Score: `0` (0), Rank Change: `+2978` ([File](../ai/agents/langchain-ai-new-langgraphjs-project.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+4` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **Search & information retrieval** - Score: `0` (0), Rank Change: `+4` ([File](../ai/companies/search-information-retrieval.md))
+- **Human language technologies** - Score: `0` (0), Rank Change: `+4` ([File](../ai/companies/human-language-technologies.md))
+- **Human-computer interaction** - Score: `0` (0), Rank Change: `+4` ([File](../ai/companies/human-computer-interaction.md))
+- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+4` ([File](../ai/companies/graphics-multimedia.md))
+- **Computer vision** - Score: `0` (0), Rank Change: `+4` ([File](../ai/companies/computer-vision.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **infiniflow/ragflow** - (Rank Change: `+12776`) ([File](../ai/rag/infiniflow-ragflow-2.md))
-- **monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1** - (Rank Change: `+968`) ([File](../ai/rag/monday-service-langsmith-building-a-code-first-eva.md))
-- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+968`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
-- **promptfoo/promptfoo-action** - (Rank Change: `+968`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
-- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+968`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
-- **Understanding RAG from Scratch | martinuke0's Blog** - (Rank Change: `+968`) ([File](../ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md))
-- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+968`) ([File](../ai/rag/arxiv-2606-29031.md))
-- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+968`) ([File](../ai/research/arxiv-2606-26428.md))
-- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+968`) ([File](../ai/research/arxiv-2606-21887.md))
-- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+968`) ([File](../ai/rag/arxiv-2606-09677.md))
+- **langchain-ai/new-langgraphjs-project** - (Rank Change: `+2978`) ([File](../ai/agents/langchain-ai-new-langgraphjs-project.md))
+- **google-t5/t5-small** - (Rank Change: `+24`) ([File](../ai/models/huggingface-google-t5-t5-small.md))
+- **sentence-transformers/all-mpnet-base-v2** - (Rank Change: `+24`) ([File](../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md))
+- **Qwen/Qwen3-0.6B** - (Rank Change: `+24`) ([File](../ai/models/huggingface-qwen-qwen3-0-6b.md))
+- **BAAI/bge-m3** - (Rank Change: `+24`) ([File](../ai/rag/huggingface-baai-bge-m3.md))
+- **sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2** - (Rank Change: `+24`) ([File](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md))
+- **google/electra-base-discriminator** - (Rank Change: `+24`) ([File](../ai/models/huggingface-google-electra-base-discriminator.md))
+- **BAAI/bge-small-en-v1.5** - (Rank Change: `+24`) ([File](../ai/rag/huggingface-baai-bge-small-en-v1-5.md))
+- **cross-encoder/ms-marco-MiniLM-L6-v2** - (Rank Change: `+24`) ([File](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md))
+- **google-bert/bert-base-uncased** - (Rank Change: `+24`) ([File](../ai/models/huggingface-google-bert-bert-base-uncased.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +46,8 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Mondragon Corporation – a federation of co-operatives** (Category: `ai/community`) ([File](../ai/community/mondragon-corporation-a-federation-of-co-operative.md))
+- **Google's Beyond Zero: Enterprise Security for the AI Era** (Category: `ai/community`) ([File](../ai/community/google-s-beyond-zero-enterprise-security-for-the-a.md))
+- **Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code** (Category: `ai/community`) ([File](../ai/community/schildep-verified-3d-mesh-intersection.md))
+- **Dolmenwood: Fantasy RPG built around the acclaimed Old-School Essentials rules** (Category: `ai/community`) ([File](../ai/community/dolmenwood-fantasy-rpg-built-around-the-acclaimed.md))
+- **Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)** (Category: `ai/community`) ([File](../ai/community/fast-remediation-is-the-new-trust-model-jfrog-and.md))

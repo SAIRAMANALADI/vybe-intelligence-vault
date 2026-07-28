@@ -14,13 +14,14 @@ collected_at: '2026-07-28T22:21:26.288785+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:schildep/verified-3d-mesh-intersection
 first_seen: '2026-07-28T20:06:14.659101+05:30'
 last_seen: '2026-07-28T22:21:26.288785+05:30'
 last_checked: '2026-07-28T22:21:26.288785+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code
 

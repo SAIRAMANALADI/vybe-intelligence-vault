@@ -3320,12 +3320,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It](../ai/community/dmarc-has-been-public-since-2012-68-4-of-domains-s.md)
-  - [Dolmenwood: Fantasy RPG built around the acclaimed Old-School Essentials rules](../ai/community/dolmenwood-fantasy-rpg-built-around-the-acclaimed.md)
-  - [Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)](../ai/community/fast-remediation-is-the-new-trust-model-jfrog-and.md)
-  - [Google's Beyond Zero: Enterprise Security for the AI Era](../ai/community/google-s-beyond-zero-enterprise-security-for-the-a.md)
+  - [DMARC has been public since 2012 but most company domains still don't enforce it](../ai/community/dmarc-has-been-public-since-2012-68-4-of-domains-s.md)
   - [Harmony Explained: Progress Towards a Scientific Theory of Music (2012)](../ai/community/arxiv-1202-4212.md)
-  - [Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](../ai/community/schildep-verified-3d-mesh-intersection.md)
+  - [Una GPS smart watch – Repairable, USB-C charging, developer-friendly](../ai/community/una-gps-smart-watch-repairable-usb-c-charging-deve.md)
 
 ## animation
 
@@ -13465,7 +13462,7 @@ Resources organized by keyword tags.
   - [Cybersecurity & Privacy Stakeholder Engagement | NIST](../ai/rag/cybersecurity-privacy-stakeholder-engagement-nist.md)
   - [CycliST: A Video Language Model Benchmark for Reasoning on Cyclical State Transitions](../ai/research/arxiv-2512-01095.md)
   - [DF3DV-1K: A Large-Scale Dataset and Benchmark for Distractor-Free Novel View Synthesis](../ai/rag/arxiv-2604-13416.md)
-  - [DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It](../ai/community/dmarc-has-been-public-since-2012-68-4-of-domains-s.md)
+  - [DMARC has been public since 2012 but most company domains still don't enforce it](../ai/community/dmarc-has-been-public-since-2012-68-4-of-domains-s.md)
   - [DMCA | Electronic Frontier Foundation](../ai/resources/dmca-electronic-frontier-foundation.md)
   - [DOE Explains...Superconductivity | Department of Energy](../ai/resources/doe-explains-superconductivity-department-of-energ.md)
   - [DOE Office of Science Research News Update](../ai/rag/doe-office-of-science-research-news-update.md)
@@ -13546,7 +13543,6 @@ Resources organized by keyword tags.
   - [Docker | Weaviate Documentation](../ai/rag/docker-weaviate-documentation.md)
   - [Docs: API Reference, Tutorials, and Integration | Twilio](../ai/rag/docs-api-reference-tutorials-and-integration-twili.md)
   - [Documentation Overview - TACC HPC Documentation](../ai/rag/documentation-overview-tacc-hpc-documentation.md)
-  - [Dolmenwood: Fantasy RPG built around the acclaimed Old-School Essentials rules](../ai/community/dolmenwood-fantasy-rpg-built-around-the-acclaimed.md)
   - [Domain-Validity-Gated Metamorphic Testing of Scientific ML Surrogates](../ai/research/arxiv-2606-17529.md)
   - [Données & Design par LINC](../ai/resources/donnees-design-par-linc.md)
   - [Dons des particuliers, legs - Fondation CNRS](../ai/resources/dons-des-particuliers-legs-fondation-cnrs.md)
@@ -13652,7 +13648,6 @@ Resources organized by keyword tags.
   - [Farm-LightSeek: An Edge-centric Multimodal Agricultural IoT Data Analytics Framework with Lightweight LLMs](../ai/research/arxiv-2506-03168.md)
   - [Fast Open-Source OLAP DBMS | ClickHouse](../ai/rag/fast-open-source-olap-dbms-clickhouse.md)
   - [Fast Rates for Semi-Supervised Learning via Data-Augmentation Graph Regularization](../ai/research/arxiv-2607-07513.md)
-  - [Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)](../ai/community/fast-remediation-is-the-new-trust-model-jfrog-and.md)
   - [Fast and Scalable Caputo Fractional Gradient Descent via Perturbation-Preserving Memory Compression](../ai/research/arxiv-2607-15505.md)
   - [Fast determinantal sampling on general spaces and diffusion geometry](../ai/rag/arxiv-2607-06644.md)
   - [FastAPI - FastAPI](../ai/rag/fastapi-fastapi.md)
@@ -13801,7 +13796,6 @@ Resources organized by keyword tags.
   - [Google Workspace Learning Center](../ai/rag/google-workspace-learning-center.md)
   - [Google for Developers | Build with Gemini](../ai/agents/google-for-developers-build-with-gemini.md)
   - [Google variants - a Gemmaverse Collection](../ai/resources/huggingface-collections-gemmaverse.md)
-  - [Google's Beyond Zero: Enterprise Security for the AI Era](../ai/community/google-s-beyond-zero-enterprise-security-for-the-a.md)
   - [Google's products and services - About Google](../ai/rag/google-s-products-and-services-about-google.md)
   - [Governed Individuation: Cryptographically Decoupling an Agent's Learning from Its Authority](../ai/agents/arxiv-2607-04613.md)
   - [Governing Generative AI Across Financial Institutions: A Framework for Generative AI Risk Control](../ai/agents/arxiv-2607-04103.md)
@@ -14202,7 +14196,6 @@ Resources organized by keyword tags.
   - [Modern Infrastructure Monitoring â Turnkey Platform | Bleemeo](../ai/rag/modern-infrastructure-monitoring-a-turnkey-platfor.md)
   - [Modern analog computing for solving differential and matrix equations](../ai/rag/arxiv-2606-13179.md)
   - [Modular RAG: Transforming RAG Systems into LEGO-like Reconfigurable Frameworks](../ai/rag/modular-rag-transforming-rag-systems-into-lego-lik.md)
-  - [Mondragon Corporation – a federation of co-operatives](../ai/community/mondragon-corporation-a-federation-of-co-operative.md)
   - [MongoDB Vector Search | MongoDB](../ai/rag/mongodb-vector-search-mongodb.md)
   - [MongoDB: The World’s Leading Modern Data Platform | MongoDB](../ai/rag/mongodb-the-worlds-leading-modern-data-platform-mo.md)
   - [Monsoonal imprint on late Quaternary landscapes of the Rub’ al Khali Desert | Communications Earth & Environment](../ai/rag/monsoonal-imprint-on-late-quaternary-landscapes-of.md)
@@ -14264,6 +14257,7 @@ Resources organized by keyword tags.
   - [Nondiscrimination Policy | Stanford University Bulletin](../ai/resources/nondiscrimination-policy-stanford-university-bulle.md)
   - [Nonparametric Control Koopman Operators](../ai/research/arxiv-2405-07312.md)
   - [NouveauVoice: Generating Novel Pseudo Speakers for Voice Anonymization](../ai/rag/arxiv-2607-03985.md)
+  - [Now Is the Time to Give LLMs Access to the ACM Digital Library](../ai/community/now-is-the-time-to-give-llms-access-to-the-acm-dig.md)
   - [Nuro—Autonomy for all. All roads, all rides. | Nuro](../ai/rag/nuro-autonomy-for-all-all-roads-all-rides-nuro.md)
   - [Nvidia is latest investor to back AV startup Nuro in $203M funding round | TechCrunch](../ai/rag/nvidia-is-latest-investor-to-back-av-startup-nuro.md)
   - [OECC2026](../ai/rag/oecc2026.md)
@@ -14646,7 +14640,6 @@ Resources organized by keyword tags.
   - [Seven Security Challenges in Cross-domain Multi-agent LLM Systems](../ai/agents/arxiv-2505-23847.md)
   - [Sexualised synthetic personas encode and amplify gendered power asymmetries through voice](../ai/research/arxiv-2606-21366.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](../ai/community/schildep-verified-3d-mesh-intersection.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Sign in to GitHub · GitHub](../ai/resources/langchain-ai-docs.md)
@@ -14931,6 +14924,7 @@ Resources organized by keyword tags.
   - [UZAY - Uzay Teknolojileri Araştırma Enstitüsü — TÜBİTAK UZAY](../ai/resources/uzay-uzay-teknolojileri-arastirma-enstitusu-tubita.md)
   - [Ubuntu on WSL documentation](../ai/rag/ubuntu-on-wsl-documentation.md)
   - [Ulusal Destek Programları | TÜBİTAK | Türkiye Bilimsel ve Teknolojik Araştırma Kurumu](../ai/resources/ulusal-destek-programlari-tubitak-turkiye-bilimsel.md)
+  - [Una GPS smart watch – Repairable, USB-C charging, developer-friendly](../ai/community/una-gps-smart-watch-repairable-usb-c-charging-deve.md)
   - [Unassigned Agents in Compilation-based Multi-agent Path Finding](../ai/agents/arxiv-2606-15797.md)
   - [Unbiased Open World Regularization for Fair Self-Supervised Learning](../ai/research/arxiv-2607-22149.md)
   - [Unboxing Diffusion Models for the Arts: Interactive Model Bending and Practice-Based Explainability](../ai/research/arxiv-2607-22428.md)
@@ -15686,6 +15680,10 @@ Resources organized by keyword tags.
   - [open-llm-leaderboard/open_llm_leaderboard](../ai/models/huggingface-spaces-open-llm-leaderboard.md)
   - [prometheus-eval/BiGGen-Bench at main · prometheus-eval/prometheus-eval · GitHub](../ai/rag/prometheus-eval-prometheus-eval.md)
   - [prometheus-eval/BiGGen-Bench · Datasets at Hugging Face](../ai/rag/huggingface-datasets-prometheus-eval.md)
+
+## llm
+
+  - [Now Is the Time to Give LLMs Access to the ACM Digital Library](../ai/community/now-is-the-time-to-give-llms-access-to-the-acm-dig.md)
 
 ## mdx
 
@@ -19072,7 +19070,6 @@ Resources organized by keyword tags.
   - [FIFA World Cup 2026 as a Contamination-Free Benchmark for LLM Forecasting Agents: Four Models, a Bookmaker, and 104 Matches](../ai/agents/arxiv-2607-17765.md)
   - [Failures and Successes to Learn a Core Conceptual Distinction from the Statistics of Language](../ai/research/arxiv-2607-04523.md)
   - [Faithful by Design: Evaluating and Improving LLM-Generated Clinical Trial Summaries for Multi-Stakeholder Audiences](../ai/research/arxiv-2607-09932.md)
-  - [Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)](../ai/community/fast-remediation-is-the-new-trust-model-jfrog-and.md)
   - [Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build](../ai/research/arxiv-2605-21629.md)
   - [Fern: Docs, SDKs, and CLIs for your API](../ai/rag/fern-docs-sdks-and-clis-for-your-api.md)
   - [FinRAG-12B: A Production-Validated Recipe for Grounded Question Answering in Banking](../ai/rag/arxiv-2605-05482.md)
@@ -23365,7 +23362,7 @@ Resources organized by keyword tags.
   - [DICE: Entropy-Regularized Equilibrium Selection for Stable Multi-Agent LLM Coordination](../ai/rag/arxiv-2606-08068.md)
   - [DIPHINE: Diffusion-based $\Phi$-ID Neural Estimator](../ai/rag/arxiv-2606-18997.md)
   - [DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?](../ai/rag/arxiv-2606-12402.md)
-  - [DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It](../ai/community/dmarc-has-been-public-since-2012-68-4-of-domains-s.md)
+  - [DMARC has been public since 2012 but most company domains still don't enforce it](../ai/community/dmarc-has-been-public-since-2012-68-4-of-domains-s.md)
   - [DMFNet: Dual-Backbone Multiscale Fusion Network for Urban Scene Classification](../ai/rag/arxiv-2607-16338.md)
   - [DNF Command Reference — DNF @DNF_VERSION@-1 documentation](../ai/rag/dnf-command-reference-dnf-dnf-version-1-documentat.md)
   - [DOE Office of Science Research News Update](../ai/rag/doe-office-of-science-research-news-update.md)
@@ -24906,7 +24903,6 @@ Resources organized by keyword tags.
   - [Momentum Based Reward Design for Low Emission Traffic Signal Control](../ai/rag/arxiv-2605-29693.md)
   - [Momentum LMS Theory beyond Stationarity: Stability, Tracking, and Regret](../ai/rag/arxiv-2602-11995.md)
   - [Momentum-Guided Semantic Forecasting (MoFore) for Self-Supervised Video Representation Learning](../ai/rag/arxiv-2606-14765.md)
-  - [Mondragon Corporation – a federation of co-operatives](../ai/community/mondragon-corporation-a-federation-of-co-operative.md)
   - [MongoDB Vector Search | MongoDB](../ai/rag/mongodb-vector-search-mongodb.md)
   - [MongoDB: The World’s Leading Modern Data Platform | MongoDB](../ai/rag/mongodb-the-worlds-leading-modern-data-platform-mo.md)
   - [Monitor your web application with the Reporting API | Capabilities | Chrome for Developers](../ai/rag/monitor-your-web-application-with-the-reporting-ap.md)
@@ -34076,4 +34072,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-28T22:38:35.454088+05:30*
+*Index generated on 2026-07-29T01:40:30.458732+05:30*

@@ -13,13 +13,14 @@ collected_at: '2026-07-28T22:21:27.911871+05:30'
 tags:
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:mondragon-corporation-a-federation-of-co-operative
 first_seen: '2026-07-28T20:06:16.158530+05:30'
 last_seen: '2026-07-28T22:21:27.911871+05:30'
 last_checked: '2026-07-28T22:21:27.911871+05:30'
 health_score: 100
 ---
+
 
 # Mondragon Corporation – a federation of co-operatives
 

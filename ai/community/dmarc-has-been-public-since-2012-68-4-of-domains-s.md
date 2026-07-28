@@ -1,15 +1,16 @@
 ---
-title: DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It
+title: DMARC has been public since 2012 but most company domains still don't enforce
+  it
 category: ai/community
 source_type: hackernews
 source_name: Hacker News AI
 source_url: https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026
 hn_url: https://news.ycombinator.com/item?id=49081783
-score: 105
+score: 151
 author: adulion
-comments_count: 76
+comments_count: 94
 published_at: '2026-07-28T15:50:50+05:30'
-collected_at: '2026-07-28T22:21:26.143527+05:30'
+collected_at: '2026-07-29T01:23:17.154343+05:30'
 tags:
 - ai
 - hackernews
@@ -17,16 +18,16 @@ tags:
 status: active
 resource_id: hackernews:dmarc-has-been-public-since-2012-68-4-of-domains-s
 first_seen: '2026-07-28T20:06:15.209542+05:30'
-last_seen: '2026-07-28T22:21:26.143527+05:30'
-last_checked: '2026-07-28T22:21:26.143527+05:30'
+last_seen: '2026-07-29T01:23:17.154343+05:30'
+last_checked: '2026-07-29T01:23:17.154343+05:30'
 health_score: 100
 ---
 
-# DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It
+# DMARC has been public since 2012 but most company domains still don't enforce it
 
 ## Summary
 
-Hacker News story by adulion. Score: 105, Comments: 76.
+Hacker News story by adulion. Score: 151, Comments: 94.
 Original Link: https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026
 
 ## Why It Matters
@@ -36,8 +37,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: adulion
-- Score: 105 Upvotes
-- Comments: 76 Discussions
+- Score: 151 Upvotes
+- Comments: 94 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49081783
 - Original Article: https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026
 

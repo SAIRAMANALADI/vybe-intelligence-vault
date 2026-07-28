@@ -13,13 +13,14 @@ collected_at: '2026-07-28T22:21:26.603925+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:google-s-beyond-zero-enterprise-security-for-the-a
 first_seen: '2026-07-28T16:58:47.784232+05:30'
 last_seen: '2026-07-28T22:21:26.603925+05:30'
 last_checked: '2026-07-28T22:21:26.603925+05:30'
 health_score: 100
 ---
+
 
 # Google's Beyond Zero: Enterprise Security for the AI Era
 

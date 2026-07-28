@@ -11551,13 +11551,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It](../ai/community/dmarc-has-been-public-since-2012-68-4-of-domains-s.md)
-  - [Dolmenwood: Fantasy RPG built around the acclaimed Old-School Essentials rules](../ai/community/dolmenwood-fantasy-rpg-built-around-the-acclaimed.md)
-  - [Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)](../ai/community/fast-remediation-is-the-new-trust-model-jfrog-and.md)
-  - [Google's Beyond Zero: Enterprise Security for the AI Era](../ai/community/google-s-beyond-zero-enterprise-security-for-the-a.md)
+  - [DMARC has been public since 2012 but most company domains still don't enforce it](../ai/community/dmarc-has-been-public-since-2012-68-4-of-domains-s.md)
   - [Harmony Explained: Progress Towards a Scientific Theory of Music (2012)](../ai/community/arxiv-1202-4212.md)
-  - [Mondragon Corporation – a federation of co-operatives](../ai/community/mondragon-corporation-a-federation-of-co-operative.md)
-  - [Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](../ai/community/schildep-verified-3d-mesh-intersection.md)
+  - [Now Is the Time to Give LLMs Access to the ACM Digital Library](../ai/community/now-is-the-time-to-give-llms-access-to-the-acm-dig.md)
+  - [Una GPS smart watch – Repairable, USB-C charging, developer-friendly](../ai/community/una-gps-smart-watch-repairable-usb-c-charging-deve.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -14814,4 +14811,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-28T22:38:35.617273+05:30*
+*Index generated on 2026-07-29T01:40:30.621713+05:30*

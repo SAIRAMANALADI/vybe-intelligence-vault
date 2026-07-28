@@ -6154,8 +6154,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `dataset`, `github-repo`, `hackernews`, `jupyter notebook`, `workflows`
   * Source URL: <https://github.com/langchain-ai/data-enrichment>
 
-* **[langchain-ai/new-langgraphjs-project](ai/agents/langchain-ai-new-langgraphjs-project.md)** (`template` | `useful` tier)
-  * Summary: - **Project Template**: Empty starter repository for LangGraph.js, a JavaScript/TypeScript framework for building stateful, multi-actor workflows with LangChain integration. - **Metadata**: 73 stars, 88 forks, TypeScript-based, last updated July 15,
+* **[langchain-ai/new-langgraphjs-project](ai/agents/langchain-ai-new-langgraphjs-project.md)** (`template` | `essential` tier)
+  * Summary: * TypeScript-based foundational template for `langgraph.js` project initialization. * Provides an empty structural starting point for developing stateful agentic workflows using `langgraph`. * Maintained by `langchain-ai`, indicating official support
   * Tags: `agents`, `github-repo`, `typescript`, `workflows`
   * Source URL: <https://github.com/langchain-ai/new-langgraphjs-project>
 
@@ -18495,8 +18495,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://diataxis.fr>
 
-* **[DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It](ai/community/dmarc-has-been-public-since-2012-68-4-of-domains-s.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by adulion. Score: 105, Comments: 76. Original Link: https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026
+* **[DMARC has been public since 2012 but most company domains still don't enforce it](ai/community/dmarc-has-been-public-since-2012-68-4-of-domains-s.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by adulion. Score: 151, Comments: 94. Original Link: https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026
   * Tags: `ai`, `hackernews`, `rag`
   * Source URL: <https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026>
 
@@ -18524,11 +18524,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **TACC Account Management**: Requires Multi-Factor Authentication (MFA) setup via authentication apps or SMS; deactivated accounts must be reactivated via the TACC Accounts Portal; login issues often stem from improper SSH configuration or VSCode i
   * Tags: `frontend_ui`, `hackernews`, `paper`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://docs.tacc.utexas.edu>
-
-* **[Dolmenwood: Fantasy RPG built around the acclaimed Old-School Essentials rules](ai/community/dolmenwood-fantasy-rpg-built-around-the-acclaimed.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by doener. Score: 49, Comments: 14. Original Link: https://necroticgnome.com/collections/dolmenwood
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://necroticgnome.com/collections/dolmenwood>
 
 * **[DrawingVQA: A Real-World Benchmark for Multi-Depth Visual-Textual Reasoning on Construction Drawings](ai/research/arxiv-2607-15418.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.15418v1 Announce Type: new Abstract: We introduce DrawingVQA, the first benchmark designed to evaluate multimodal large language models (MLLMs) on real-world construction drawings -- a core media in architecture, civil, and many other engi
@@ -18704,11 +18699,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Petabyte-scale OLAP engine**: ClickHouse delivers millisecond query performance on petabyte-scale datasets via columnar storage, vectorized execution, and optimized compression, enabling real-time analytics for AI agentic systems. - **Multi-modal
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `hackernews`, `models`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://clickhouse.com>
-
-* **[Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)](ai/community/fast-remediation-is-the-new-trust-model-jfrog-and.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by 882542F3884314B. Score: 48, Comments: 31. Original Link: https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/
-  * Tags: `ai`, `hackernews`, `openai`
-  * Source URL: <https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings>
 
 * **[FastAPI - FastAPI](ai/rag/fastapi-fastapi.md)** (`template` | `useful` tier)
   * Summary: - **Performance & Standards**: Built on Starlette (web) and Pydantic (data validation), FastAPI achieves high performance comparable to NodeJS/Go while fully supporting OpenAPI and JSON Schema standards for API design. - **Type-Driven Development**:
@@ -19080,11 +19070,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `paper`, `rag`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://gsuite.google.com/learning-center/?utm_source=hc-docseditors&utm_medium=referral&utm_campaign=lc-hc&utm_content=sidepromo>
 
-* **[Google's Beyond Zero: Enterprise Security for the AI Era](ai/community/google-s-beyond-zero-enterprise-security-for-the-a.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by jordigg. Score: 103, Comments: 57. Original Link: https://spawn-queue.acm.org/doi/10.1145/3819083
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://spawn-queue.acm.org/doi/10.1145/3819083>
-
 * **[google-gemini/gemini-fullstack-langgraph-quickstart](ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md)** (`template` | `useful` tier)
   * Summary: - **Integration Framework**: Demonstrates building full-stack agents using **Gemini 2.5** and **LangGraph**, combining frontend/backend components for agentic workflows. - **Technical Stack**: Implemented in **Jupyter Notebooks**, leveraging the **Ge
   * Tags: `agents`, `github-repo`, `hackernews`, `jupyter notebook`, `rag`, `workflows`
@@ -19136,7 +19121,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2601.19072>
 
 * **[Harmony Explained: Progress Towards a Scientific Theory of Music (2012)](ai/community/arxiv-1202-4212.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by surprisetalk. Score: 39, Comments: 25. Original Link: https://arxiv.org/abs/1202.4212
+  * Summary: Hacker News story by surprisetalk. Score: 68, Comments: 50. Original Link: https://arxiv.org/abs/1202.4212
   * Tags: `ai`, `hackernews`
   * Source URL: <https://arxiv.org/abs/1202.4212>
 
@@ -19795,11 +19780,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `frontend_ui`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://blog.langchain.com/customers-monday/>
 
-* **[Mondragon Corporation – a federation of co-operatives](ai/community/mondragon-corporation-a-federation-of-co-operative.md)** (`dataset` | `useful` tier)
-  * Summary: Hacker News story by brnt. Score: 150, Comments: 26. Original Link: https://en.wikipedia.org/wiki/Mondragon_Corporation
-  * Tags: `hackernews`, `rag`
-  * Source URL: <https://en.wikipedia.org/wiki/mondragon_corporation>
-
 * **[MongoDB Vector Search | MongoDB](ai/rag/mongodb-vector-search-mongodb.md)** (`benchmark` | `useful` tier)
   * Summary: - **GA Availability**: MongoDB Vector Search and Gasearch are now generally available in both Enterprise Advanced and Community Edition, enabling hybrid search workflows combining lexical and vector search in a single pipeline. - **Automated Embeddin
   * Tags: `agents`, `benchmark`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`, `workflows`
@@ -19874,6 +19854,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **AB 540 Exemption**: Nonimmigrant aliens who attended a California high school (or equivalent) for three years and graduated may qualify for NRST exemption by submitting the UCLA AB 540 NRST Exemption Request and official California education tran
   * Tags: `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://registrar.ucla.edu/fees-residence/residence-requirements/nonresident-supplemental-tuition-exemptions>
+
+* **[Now Is the Time to Give LLMs Access to the ACM Digital Library](ai/community/now-is-the-time-to-give-llms-access-to-the-acm-dig.md)** (`framework` | `useful` tier)
+  * Summary: Hacker News story by rbanffy. Score: 71, Comments: 27. Original Link: https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/
+  * Tags: `hackernews`, `llm`
+  * Source URL: <https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library>
 
 * **[NPU acceleration with LiteRT | Google AI Edge | Google for Developers](ai/rag/npu-acceleration-with-litert-google-ai-edge-google.md)** (`benchmark` | `useful` tier)
   * Summary: - **LiteRT NPU Abstraction**: Provides a unified interface for Neural Processing Unit (NPU) acceleration across multiple vendors (Google Tensor, Qualcomm AI Engine Direct, MediaTek NeuroPilot, Intel OpenVino, Samsung Exynos AI LiteCore) without requi
@@ -20495,11 +20480,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://shibuya.lepture.com>
 
-* **[Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](ai/community/schildep-verified-3d-mesh-intersection.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by permute. Score: 83, Comments: 35. Original Link: https://github.com/schildep/verified-3d-mesh-intersection
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://github.com/schildep/verified-3d-mesh-intersection>
-
 * **[Signature filtering: a lightweight enhancement for statistical watermark detection in large language models](ai/research/arxiv-2606-18430.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18430v1 Announce Type: new Abstract: Statistical watermarks help organizations attribute large language model (LLM) outputs, yet existing detectors often struggle when watermark signals are weak, texts are repetitive, or watermarks are edi
   * Tags: `benchmark`, `meta-ai`, `models`, `workflows`
@@ -20933,6 +20913,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.06306v1 Announce Type: cross Abstract: Large language models (LLMs) have demonstrated growing competence in web page generation. However, existing text-driven approaches rely on complex prompts that impose substantial demands on users and
   * Tags: `benchmark`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.06306>
+
+* **[Una GPS smart watch – Repairable, USB-C charging, developer-friendly](ai/community/una-gps-smart-watch-repairable-usb-c-charging-deve.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by pimterry. Score: 60, Comments: 54. Original Link: https://unawatch.com/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://unawatch.com>
 
 * **[Unboxing Diffusion Models for the Arts: Interactive Model Bending and Practice-Based Explainability](ai/research/arxiv-2607-22428.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.22428v1 Announce Type: cross Abstract: Explainable AI (XAI) in creative practice can be less about technocentric explanation and more about enabling artists to inspect modify and debug models as part of making Yet largescale texttoimage di
@@ -77368,7 +77353,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2501.19401>
 
 * **[dalle-mini/dalle-mini](ai/models/huggingface-spaces-dalle-mini.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: dalle-mini/dalle-mini (Likes: 5708, Downloads: 0)
+  * Summary: Trending Hugging Face space: dalle-mini/dalle-mini (Likes: 5709, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/dalle-mini>
 
@@ -109628,8 +109613,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: * Comprehensive full-stack guide for Retrieval-Augmented Generation (RAG) system development
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tutorial` | `useful` tier)
+  * Summary: * Provides a full-stack RAG implementation guide, integrating orchestrators such as LangChain
   * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -116169,7 +116154,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://superml.org/tutorials/rag-beginner>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll-based static site source for `raganwald.com`.
+  * Summary: * Jekyll source repository for `raganwald.com`, indicative of a GitHub Pages static site. * Primary codebase language is HTML, characteristic of static site generator output. * Last updated 20
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
