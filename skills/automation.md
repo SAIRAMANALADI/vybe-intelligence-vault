@@ -18,13 +18,13 @@ It saves hours of repetitive development tasks, guarantees operational consisten
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 2846 resources matched in the intelligence vault.
+Active signals: 2956 resources matched in the intelligence vault.
 Recently detected signals:
-- [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) (Source: Unknown Source) - Collected 2026-07-28
-- [malonge/RaGOO](../ai/rag/malonge-ragoo.md) (Source: Unknown Source) - Collected 2026-07-28
-- [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md) (Source: Unknown Source) - Collected 2026-07-28
-- [Next.js 9](../web-development/nextjs/next-js-9.md) (Source: Unknown Source) - Collected 2026-07-28
-- [Next.js 9.1.7](../web-development/nextjs/next-js-9-1-7.md) (Source: Unknown Source) - Collected 2026-07-28
+- [activepieces/activepieces](../ai/rag/activepieces-activepieces.md) (Source: Unknown Source) - Collected 2026-07-28
+- [ARUNAGIRINATHAN-K/awesome-ai-agents-2026](../ai/agents/arunagirinathan-k-awesome-ai-agents-2026.md) (Source: Unknown Source) - Collected 2026-07-28
+- [XMUDeepLIT/MemGraphRAG](../ai/rag/xmudeeplit-memgraphrag.md) (Source: Unknown Source) - Collected 2026-07-28
+- [jamwithai/production-agentic-rag-course](../ai/rag/jamwithai-production-agentic-rag-course.md) (Source: Unknown Source) - Collected 2026-07-28
+- [IBM/mt-rag-benchmark](../ai/rag/ibm-mt-rag-benchmark.md) (Source: Unknown Source) - Collected 2026-07-28
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -45,30 +45,30 @@ Recently detected signals:
 - Language: Unknown
 - Description: *   TypeScript-based template for visual AI workflow automation platforms.
 
-### 4. [activepieces/activepieces](../ai/rag/activepieces-activepieces.md) ([GitHub](https://github.com/activepieces/activepieces))
-- Stars: 0
-- Language: Unknown
-- Description: - **MCP Integration & AI Automation**: Open-source TypeScript framework (~400 MCP servers) enabling AI agents with Model Context Protocol (MCP) support for workflow automation and tool orchestratio...
-
-### 5. [cmAIdx/headless-claude-automation-template](../ai/agents/cmaidx-headless-claude-automation-template.md) ([GitHub](https://github.com/cmaidx/headless-claude-automation-template))
+### 4. [cmAIdx/headless-claude-automation-template](../ai/agents/cmaidx-headless-claude-automation-template.md) ([GitHub](https://github.com/cmaidx/headless-claude-automation-template))
 - Stars: 0
 - Language: Unknown
 - Description: - **Template Purpose**: Enables autonomous software delivery via headless Claude AI agents, converting requirements documents into reviewed pull requests.
 
-### 6. [freddy-schuetz/n8n-claw](../ai/rag/freddy-schuetz-n8n-claw.md) ([GitHub](https://github.com/freddy-schuetz/n8n-claw))
+### 5. [freddy-schuetz/n8n-claw](../ai/rag/freddy-schuetz-n8n-claw.md) ([GitHub](https://github.com/freddy-schuetz/n8n-claw))
 - Stars: 0
 - Language: Unknown
 - Description: *   n8n-based autonomous AI agent leveraging adaptive RAG for memory and MCP templates for skill definition.
 
-### 7. [langgenius/dify](../ai/rag/langgenius-dify.md) ([GitHub](https://github.com/langgenius/dify))
+### 6. [langgenius/dify](../ai/rag/langgenius-dify.md) ([GitHub](https://github.com/langgenius/dify))
 - Stars: 0
 - Language: Unknown
 - Description: - **Agentic Workflow Platform**: Open-source, production-ready framework (TypeScript/Python) for building, deploying, and orchestrating AI agents with low-code/no-code capabilities, supporting LLM ...
 
-### 8. [FlowiseAI/Flowise](../ai/rag/flowiseai-flowise.md) ([GitHub](https://github.com/flowiseai/flowise))
+### 7. [FlowiseAI/Flowise](../ai/rag/flowiseai-flowise.md) ([GitHub](https://github.com/flowiseai/flowise))
 - Stars: 0
 - Language: Unknown
 - Description: - **Visual AI Agent Builder**: Open-source, low/no-code platform in TypeScript for constructing AI agents and workflows, leveraging React for UI and LangChain for orchestration.
+
+### 8. [activepieces/activepieces](../ai/rag/activepieces-activepieces.md) ([GitHub](https://github.com/activepieces/activepieces))
+- Stars: 0
+- Language: Unknown
+- Description: *   Orchestrates AI agents and automates complex AI workflows, leveraging a no-
 
 ### 9. [wxmb01/codex-app-autonomous-runs](../ai/rag/wxmb01-codex-app-autonomous-runs.md) ([GitHub](https://github.com/wxmb01/codex-app-autonomous-runs))
 - Stars: 0
@@ -300,4 +300,4 @@ Useful for roles such as: DevOps Engineer, Site Reliability Engineer, Workflow A
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-28T09:20:49.987525+05:30.580473+05:30.049055+05:30.370871+05:30.281615+05:30.982372+05:30.263224+05:30.758347+05:30.875780+05:30.367374+05:30.831820+05:30.488093+05:30.054779+05:30.486208+05:30.703982+05:30.042243+05:30.825857+05:30.700576+05:30.418602+05:30.880802+05:30.079689+05:30.639836+05:30.728817+05:30.313243+05:30.430918+05:30.079612+05:30.234423+05:30.736922+05:30.390703+05:30.327705+05:30.160338+05:30.390159+05:30.938054+05:30.147649+05:30.853445+05:30.911620+05:30.889091+05:30.475459+05:30.492773+05:30.645584+05:30.498605+05:30.950912+05:30.261123+05:30.399264+05:30.385077+05:30.961325+05:30.107504+05:30.047795+05:30.474321+05:30.222734+05:30.459200+05:30.777067+05:30.175813+05:30.675802+05:30.134817+05:30.866435+05:30.285446+05:30.765315+05:30.572043+05:30.571051+05:30.501384+05:30.686054+05:30.552683+05:30.319049+05:30.405533+05:30.937907+05:30.846054+05:30.037645+05:30.210046+05:30.639535+05:30.495645+05:30.903562+05:30.073236+05:30.062240+05:30.947706+05:30.013522+05:30.875606+05:30.567508+05:30.687177+05:30.355273+05:30.481745+05:30.837280+05:30.183844+05:30.179391+05:30.532735+05:30.477001+05:30.000572+05:30.921794+05:30.064247+05:30.541110+05:30.559052+05:30.616814+05:30.943958+05:30.463577+05:30.779450+05:30.588992+05:30.937697+05:30.142229+05:30.913410+05:30.103213+05:30.590016+05:30.675711+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-28T14:42:46.220932+05:30.987525+05:30.580473+05:30.049055+05:30.370871+05:30.281615+05:30.982372+05:30.263224+05:30.758347+05:30.875780+05:30.367374+05:30.831820+05:30.488093+05:30.054779+05:30.486208+05:30.703982+05:30.042243+05:30.825857+05:30.700576+05:30.418602+05:30.880802+05:30.079689+05:30.639836+05:30.728817+05:30.313243+05:30.430918+05:30.079612+05:30.234423+05:30.736922+05:30.390703+05:30.327705+05:30.160338+05:30.390159+05:30.938054+05:30.147649+05:30.853445+05:30.911620+05:30.889091+05:30.475459+05:30.492773+05:30.645584+05:30.498605+05:30.950912+05:30.261123+05:30.399264+05:30.385077+05:30.961325+05:30.107504+05:30.047795+05:30.474321+05:30.222734+05:30.459200+05:30.777067+05:30.175813+05:30.675802+05:30.134817+05:30.866435+05:30.285446+05:30.765315+05:30.572043+05:30.571051+05:30.501384+05:30.686054+05:30.552683+05:30.319049+05:30.405533+05:30.937907+05:30.846054+05:30.037645+05:30.210046+05:30.639535+05:30.495645+05:30.903562+05:30.073236+05:30.062240+05:30.947706+05:30.013522+05:30.875606+05:30.567508+05:30.687177+05:30.355273+05:30.481745+05:30.837280+05:30.183844+05:30.179391+05:30.532735+05:30.477001+05:30.000572+05:30.921794+05:30.064247+05:30.541110+05:30.559052+05:30.616814+05:30.943958+05:30.463577+05:30.779450+05:30.588992+05:30.937697+05:30.142229+05:30.913410+05:30.103213+05:30.590016+05:30.675711+05:30.

@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IBM/mt-rag-benchmark
-collected_at: '2026-07-23T14:18:15.940152+05:30'
-published_at: '2026-07-16T03:38:47Z'
+collected_at: '2026-07-28T14:28:56.647749+05:30'
+published_at: '2026-07-26T05:15:17Z'
 tags:
 - benchmark
 - github-repo
 - python
 - rag
-stars: 148
+stars: 149
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-12-17T19:26:10Z'
 pushed_at: '2026-07-14T01:32:02Z'
 resource_id: github:ibm/mt-rag-benchmark
-first_seen: '2026-07-23T14:18:15.940152+05:30'
-last_seen: '2026-07-23T14:18:15.940152+05:30'
-last_checked: '2026-07-23T14:18:15.940152+05:30'
+first_seen: '2026-07-28T14:28:56.647749+05:30'
+last_seen: '2026-07-28T14:28:56.647749+05:30'
+last_checked: '2026-07-28T14:28:56.647749+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,7 @@ health_score: 100
 
 ## Summary
 
-*   Provides a benchmarking framework specifically for Multi-Turn Retrieval Augmented Generation (RAG) systems.
-*   Developed by IBM, indicating a focus on enterprise-grade RAG evaluation.
-*   Implemented in Python, facilitating integration and use within ML/NLP development pipelines.
+*   Evaluates Multi-Turn Retrieval-Augmented Generation (RAG) system performance.
 
 ## Why It Matters
 
@@ -40,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: IBM
-- Stars: 148
+- Stars: 149
 - Forks: 30
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-16T03:38:47Z
+- Last Updated: 2026-07-26T05:15:17Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-12-17T19:26:10Z

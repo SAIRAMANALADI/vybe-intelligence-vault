@@ -15,7 +15,7 @@ Rigorous evaluations protect against regressions in model behavior, prompt drift
 - [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) (framework - ESSENTIAL Tier)
 - [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (benchmark - ESSENTIAL Tier)
-- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (benchmark - ESSENTIAL Tier)
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -44,4 +44,4 @@ https://github.com/explodinggradients/ragas (Ragas)
 
 ---
 
-*Last updated: 2026-07-28 09:22 IST*
+*Last updated: 2026-07-28 14:43 IST*

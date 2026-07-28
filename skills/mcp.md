@@ -18,13 +18,13 @@ MCP provides a unified way for LLMs to securely interact with file systems, data
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 110 resources matched in the intelligence vault.
+Active signals: 113 resources matched in the intelligence vault.
 Recently detected signals:
-- [How to Build an MCP Server with Gradio](../ai/models/huggingface-blog-gradio-mcp.md) (Source: Unknown Source) - Collected 2026-07-28
-- [Upskill your LLMs With Gradio MCP Servers](../ai/models/huggingface-blog-gradio-mcp-servers.md) (Source: Unknown Source) - Collected 2026-07-28
-- [Building the Hugging Face MCP Server](../ai/models/huggingface-blog-building-hf-mcp.md) (Source: Unknown Source) - Collected 2026-07-28
-- [Five Big Improvements to Gradio MCP Servers](../ai/models/huggingface-blog-gradio-mcp-updates.md) (Source: Unknown Source) - Collected 2026-07-28
-- [Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio](../ai/models/huggingface-blog-gradio-vton-mcp.md) (Source: Unknown Source) - Collected 2026-07-28
+- [activepieces/activepieces](../ai/rag/activepieces-activepieces.md) (Source: Unknown Source) - Collected 2026-07-28
+- [ProvenanceGuard: Source-Aware Factuality Verification for MCP-Based LLM Agents](../ai/rag/arxiv-2606-18037.md) (Source: Unknown Source) - Collected 2026-07-28
+- [A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility](../ai/rag/arxiv-2607-24663.md) (Source: Unknown Source) - Collected 2026-07-28
+- [Making Mathematical Knowledge Explainable, Accessible and Interoperable Through Large Language Model Integration](../ai/rag/arxiv-2607-24512.md) (Source: Unknown Source) - Collected 2026-07-28
+- [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](../ai/rag/arxiv-2606-24937.md) (Source: Unknown Source) - Collected 2026-07-28
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -75,55 +75,55 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Purpose**: Provides a LangGraph-based template for integrating Model Context Protocol (MCP) in Python applications.
 
-### 10. [activepieces/activepieces](../ai/rag/activepieces-activepieces.md) ([GitHub](https://github.com/activepieces/activepieces))
-- Stars: 0
-- Language: Unknown
-- Description: - **MCP Integration & AI Automation**: Open-source TypeScript framework (~400 MCP servers) enabling AI agents with Model Context Protocol (MCP) support for workflow automation and tool orchestratio...
-
-### 11. [kylestratis/ai_agents_mcp_examples](../ai/agents/kylestratis-ai-agents-mcp-examples.md) ([GitHub](https://github.com/kylestratis/ai_agents_mcp_examples))
+### 10. [kylestratis/ai_agents_mcp_examples](../ai/agents/kylestratis-ai-agents-mcp-examples.md) ([GitHub](https://github.com/kylestratis/ai_agents_mcp_examples))
 - Stars: 0
 - Language: Unknown
 - Description: - **Repository Overview**: A Python-based GitHub repository (`kylestratis/ai_agents_mcp_examples`) with 55 stars and 25 forks, last updated on **2026-05-17**.
 
-### 12. [langgenius/dify](../ai/rag/langgenius-dify.md) ([GitHub](https://github.com/langgenius/dify))
+### 11. [langgenius/dify](../ai/rag/langgenius-dify.md) ([GitHub](https://github.com/langgenius/dify))
 - Stars: 0
 - Language: Unknown
 - Description: - **Agentic Workflow Platform**: Open-source, production-ready framework (TypeScript/Python) for building, deploying, and orchestrating AI agents with low-code/no-code capabilities, supporting LLM ...
 
-### 13. [QwenLM/Qwen-Agent](../ai/rag/qwenlm-qwen-agent.md) ([GitHub](https://github.com/qwenlm/qwen-agent))
+### 12. [QwenLM/Qwen-Agent](../ai/rag/qwenlm-qwen-agent.md) ([GitHub](https://github.com/qwenlm/qwen-agent))
 - Stars: 0
 - Language: Unknown
 - Description: - **Framework Overview**: Qwen-Agent is a Python-based agent framework built on Qwen>=3.0, supporting advanced features like Function Calling, MCP (Model Context Protocol), Code Interpreter, RAG (R...
 
-### 14. [WenyuChiou/awesome-agentic-ai-zh](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) ([GitHub](https://github.com/wenyuchiou/awesome-agentic-ai-zh))
+### 13. [WenyuChiou/awesome-agentic-ai-zh](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) ([GitHub](https://github.com/wenyuchiou/awesome-agentic-ai-zh))
 - Stars: 0
 - Language: Unknown
 - Description: *   Comprehensive trilingual (/EN/) learning roadmap for agentic AI, spanning foundational LLM concepts to advanced multi-agent system architectures.
 
-### 15. [Jpisnice/shadcn-ui-mcp-server](../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md) ([GitHub](https://github.com/jpisnice/shadcn-ui-mcp-server))
+### 14. [Jpisnice/shadcn-ui-mcp-server](../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md) ([GitHub](https://github.com/jpisnice/shadcn-ui-mcp-server))
 - Stars: 0
 - Language: Unknown
 - Description: A mcp server to allow LLMS gain context about shadcn ui component structure,usage and installation,compaitable with react,svelte 5,vue & React Native
 
-### 16. [firecrawl repositories · GitHub](../ai/rag/orgs-firecrawl.md) ([GitHub](https://github.com/orgs/firecrawl))
+### 15. [firecrawl repositories · GitHub](../ai/rag/orgs-firecrawl.md) ([GitHub](https://github.com/orgs/firecrawl))
 - Stars: 0
 - Language: Unknown
 - Description: - **Firecrawl**: A TypeScript-based API framework enabling scalable web search, scraping, and interaction via RESTful endpoints, supporting HTML-to-Markdown conversion, structured data extraction, ...
 
-### 17. [github/github-mcp-server](../ai/resources/github-github-mcp-server.md) ([GitHub](https://github.com/github/github-mcp-server))
+### 16. [github/github-mcp-server](../ai/resources/github-github-mcp-server.md) ([GitHub](https://github.com/github/github-mcp-server))
 - Stars: 0
 - Language: Unknown
 - Description: GitHub's official MCP Server
 
-### 18. [apecloud/ApeRAG](../ai/rag/apecloud-aperag.md) ([GitHub](https://github.com/apecloud/aperag))
+### 17. [apecloud/ApeRAG](../ai/rag/apecloud-aperag.md) ([GitHub](https://github.com/apecloud/aperag))
 - Stars: 0
 - Language: Unknown
 - Description: - **Multi-modal indexing**: Supports integration of diverse data types (text, images, etc.) into a unified graph-based representation for enhanced retrieval and reasoning.
 
-### 19. [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) ([GitHub](https://github.com/patchy631/ai-engineering-hub))
+### 18. [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) ([GitHub](https://github.com/patchy631/ai-engineering-hub))
 - Stars: 0
 - Language: Unknown
 - Description: - **Content Focus**: Repository provides advanced tutorials on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) systems, and real-world AI agent applications, emphasizing practica...
+
+### 19. [activepieces/activepieces](../ai/rag/activepieces-activepieces.md) ([GitHub](https://github.com/activepieces/activepieces))
+- Stars: 0
+- Language: Unknown
+- Description: *   Orchestrates AI agents and automates complex AI workflows, leveraging a no-
 
 ### 20. [mukul975/cve-mcp-server](../ai/resources/mukul975-cve-mcp-server.md) ([GitHub](https://github.com/mukul975/cve-mcp-server))
 - Stars: 0
@@ -300,4 +300,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-28T09:20:48.921792+05:30.508734+05:30.980872+05:30.311420+05:30.202782+05:30.830683+05:30.201613+05:30.609968+05:30.828320+05:30.297002+05:30.783842+05:30.423144+05:30.918586+05:30.596961+05:30.638802+05:30.896144+05:30.681970+05:30.641481+05:30.271878+05:30.744636+05:30.200648+05:30.599459+05:30.687328+05:30.279088+05:30.374013+05:30.941914+05:30.083177+05:30.636450+05:30.395333+05:30.301110+05:30.155893+05:30.369910+05:30.914308+05:30.132211+05:30.780524+05:30.194117+05:30.824975+05:30.383436+05:30.656603+05:30.662221+05:30.432201+05:30.134071+05:30.257666+05:30.440781+05:30.460485+05:30.017833+05:30.184280+05:30.062716+05:30.572749+05:30.324421+05:30.547724+05:30.887063+05:30.275029+05:30.775939+05:30.332516+05:30.930901+05:30.491377+05:30.854012+05:30.609440+05:30.739784+05:30.601758+05:30.840139+05:30.746993+05:30.536104+05:30.557542+05:30.185287+05:30.096374+05:30.222971+05:30.512173+05:30.874345+05:30.793998+05:30.207109+05:30.331521+05:30.460601+05:30.272302+05:30.020679+05:30.249300+05:30.106261+05:30.319081+05:30.993907+05:30.122388+05:30.520244+05:30.857034+05:30.854349+05:30.158097+05:30.151960+05:30.613998+05:30.612259+05:30.743764+05:30.219495+05:30.226409+05:30.308267+05:30.671842+05:30.192408+05:30.489920+05:30.324090+05:30.681655+05:30.831238+05:30.300012+05:30.282249+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-28T14:42:45.409625+05:30.921792+05:30.508734+05:30.980872+05:30.311420+05:30.202782+05:30.830683+05:30.201613+05:30.609968+05:30.828320+05:30.297002+05:30.783842+05:30.423144+05:30.918586+05:30.596961+05:30.638802+05:30.896144+05:30.681970+05:30.641481+05:30.271878+05:30.744636+05:30.200648+05:30.599459+05:30.687328+05:30.279088+05:30.374013+05:30.941914+05:30.083177+05:30.636450+05:30.395333+05:30.301110+05:30.155893+05:30.369910+05:30.914308+05:30.132211+05:30.780524+05:30.194117+05:30.824975+05:30.383436+05:30.656603+05:30.662221+05:30.432201+05:30.134071+05:30.257666+05:30.440781+05:30.460485+05:30.017833+05:30.184280+05:30.062716+05:30.572749+05:30.324421+05:30.547724+05:30.887063+05:30.275029+05:30.775939+05:30.332516+05:30.930901+05:30.491377+05:30.854012+05:30.609440+05:30.739784+05:30.601758+05:30.840139+05:30.746993+05:30.536104+05:30.557542+05:30.185287+05:30.096374+05:30.222971+05:30.512173+05:30.874345+05:30.793998+05:30.207109+05:30.331521+05:30.460601+05:30.272302+05:30.020679+05:30.249300+05:30.106261+05:30.319081+05:30.993907+05:30.122388+05:30.520244+05:30.857034+05:30.854349+05:30.158097+05:30.151960+05:30.613998+05:30.612259+05:30.743764+05:30.219495+05:30.226409+05:30.308267+05:30.671842+05:30.192408+05:30.489920+05:30.324090+05:30.681655+05:30.831238+05:30.300012+05:30.282249+05:30.

@@ -29,7 +29,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face space: Wan-AI/Wan2.2-Animate (Likes: 5120, Downloads: 0)
+Trending Hugging Face space: Wan-AI/Wan2.2-Animate (Likes: 5119, Downloads: 0)
 
 ## Use Cases
 

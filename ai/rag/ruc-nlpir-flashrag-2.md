@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/RUC-NLPIR/FlashRAG
-collected_at: '2026-07-23T14:18:10.919392+05:30'
-published_at: '2026-07-23T02:21:47Z'
+collected_at: '2026-07-28T14:28:51.581434+05:30'
+published_at: '2026-07-28T08:50:41Z'
 tags:
 - benchmark
 - dataset
@@ -14,7 +14,7 @@ tags:
 - rag
 - reddit
 - workflows
-stars: 3529
+stars: 3535
 language: Python
 status: active
 license: MIT
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-03-14T01:40:33Z'
 pushed_at: '2026-07-19T10:20:30Z'
 resource_id: github:ruc-nlpir/flashrag
-first_seen: '2026-07-23T14:18:10.919392+05:30'
-last_seen: '2026-07-23T14:18:10.919392+05:30'
-last_checked: '2026-07-23T14:18:10.919392+05:30'
+first_seen: '2026-07-28T14:28:51.581434+05:30'
+last_seen: '2026-07-28T14:28:51.581434+05:30'
+last_checked: '2026-07-28T14:28:51.581434+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-*   Python-based toolkit designed for efficient, streamlined Retrieval-Augmented Generation (RAG) research.
-*   Provides integrated components for RAG benchmarking, dataset management, and Large Language Model (LLM) interaction.
-*   Aims to accelerate RAG experimentation and development workflows.
+*   Python toolkit engineered for efficient Retrieval-Augmented Generation (RAG) research and development.
+*   Provides integrated functionalities for RAG benchmarking and dataset management within large language model (LLM) contexts.
+*   Aims to accelerate RAG workflow iteration and evaluation, designated as a WWW2025 resource.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: RUC-NLPIR
-- Stars: 3529
-- Forks: 311
+- Stars: 3535
+- Forks: 313
 - Language: Python
 - Topics: benchmark, datasets, large-language-models, retrieval-augmented-generation
-- Last Updated: 2026-07-23T02:21:47Z
+- Last Updated: 2026-07-28T08:50:41Z
 - License: MIT
 - Archived: No
 - Created At: 2024-03-14T01:40:33Z

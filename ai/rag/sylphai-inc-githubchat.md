@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SylphAI-Inc/GithubChat
-collected_at: '2026-07-28T01:26:01.789591+05:30'
+collected_at: '2026-07-28T14:27:36.543363+05:30'
 published_at: '2026-07-23T15:42:52Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2024-12-05T01:54:18Z'
 pushed_at: '2025-02-10T20:07:53Z'
 resource_id: github:sylphai-inc/githubchat
-first_seen: '2026-07-28T01:26:01.789591+05:30'
-last_seen: '2026-07-28T01:26:01.789591+05:30'
-last_checked: '2026-07-28T01:26:01.789591+05:30'
+first_seen: '2026-07-28T14:27:36.543363+05:30'
+last_seen: '2026-07-28T14:27:36.543363+05:30'
+last_checked: '2026-07-28T14:27:36.543363+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,7 @@ health_score: 100
 
 ## Summary
 
-*   RAG-based system enabling conversational interaction with downloaded GitHub repository content.
-*   Facilitates local ingestion and querying of repository data for project comprehension.
-*   Implemented in Python.
+*   Implements a Python-based Retrieval-Augmented Generation (RAG) system
 
 ## Why It Matters
 

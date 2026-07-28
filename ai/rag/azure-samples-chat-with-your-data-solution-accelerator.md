@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-07-27T15:41:08.762424+05:30'
-published_at: '2026-07-23T14:30:34Z'
+collected_at: '2026-07-28T14:28:41.621834+05:30'
+published_at: '2026-07-28T03:50:11Z'
 tags:
 - github-repo
 - openai
@@ -17,11 +17,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2023-06-06T01:40:48Z'
-pushed_at: '2026-07-27T05:05:29Z'
+pushed_at: '2026-07-28T03:53:04Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-07-27T15:41:08.762424+05:30'
-last_seen: '2026-07-27T15:41:08.762424+05:30'
-last_checked: '2026-07-27T15:41:08.762424+05:30'
+first_seen: '2026-07-28T14:28:41.621834+05:30'
+last_seen: '2026-07-28T14:28:41.621834+05:30'
+last_checked: '2026-07-28T14:28:41.621834+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,7 @@ health_score: 100
 
 ## Summary
 
-*   Implements a Retrieval Augmented Generation (RAG) pattern solution accelerator on Azure.
-*   Leverages Azure AI Search for document retrieval and Azure OpenAI for large language model (LLM) inference, enabling ChatGPT-style and Q&A experiences.
-*   Provides a Python-based framework incorporating best practices for enterprise-grade "chat with your data" applications.
+*   Implements a Retrieval Augmented Generation (RAG) pattern utilizing Azure AI Search for retrieval
 
 ## Why It Matters
 
@@ -44,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 642
 - Language: Python
 - Topics: ai-search, azd-templates, azure, azure-openai, openai
-- Last Updated: 2026-07-23T14:30:34Z
+- Last Updated: 2026-07-28T03:50:11Z
 - License: MIT
 - Archived: No
 - Created At: 2023-06-06T01:40:48Z
-- Pushed At: 2026-07-27T05:05:29Z
+- Pushed At: 2026-07-28T03:53:04Z
 
 ## Possible Use Cases
 

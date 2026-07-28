@@ -18,6 +18,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`staircase-ai.md`](../../ai/rag/staircase-ai.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
+### [Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2605-18770.md`](../../ai/rag/arxiv-2605-18770.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
 ### [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344)
 - **Category**: `ai/agents` | **Kind**: `PROMPT` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`arxiv-2606-12344.md`](../../ai/agents/arxiv-2606-12344.md)
@@ -63,11 +68,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `81` | **Path**: [`asbhogal-fyrre-magazine.md`](../../web-development/nextjs/asbhogal-fyrre-magazine.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [enesien/venefish](https://github.com/enesien/venefish)
-- **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `81` | **Path**: [`enesien-venefish.md`](../../web-development/nextjs/enesien-venefish.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 
 ## Recommended Learning Path
 
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-28 09:23 IST*
+*Last updated: 2026-07-28 14:44 IST*

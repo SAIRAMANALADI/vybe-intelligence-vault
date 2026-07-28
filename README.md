@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-69%2C250-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-125%2C503-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--28-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **69,250 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **125,503 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 13,342</p>
-        <p><b>Active:</b> 12,983 | <b>Inactive:</b> 359</p>
+        <p><b>Resources tracked:</b> 15,127</p>
+        <p><b>Active:</b> 14,767 | <b>Inactive:</b> 360</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,051</p>
+        <p><b>Archive Files:</b> 56,540</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 69,250 files</p>
-        <p><b>Last Update:</b> 2026-07-28 12:11 IST</p>
+        <p><b>Total Vault Size:</b> 125,503 files</p>
+        <p><b>Last Update:</b> 2026-07-28 14:44 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,25 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[ragnarokoffline/ragnarokoffline.github.io](ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[e2b-dev/awesome-ai-agents](ai/agents/e2b-dev-awesome-ai-agents.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[Netflix employee fired for sharing personal details in retreat trust exercise](ai/community/netflix-employee-fired-for-sharing-personal-detail.md)** • <kbd>+112 pts</kbd>
+- 🔼 **[Self-contained highly-portable Python distributions](ai/community/self-contained-highly-portable-python-distribution.md)** • <kbd>+21 pts</kbd>
+- 🔼 **[Securing Services with Rootless Containers](ai/community/securing-services-with-rootless-containers.md)** • <kbd>+21 pts</kbd>
+- 🔼 **[Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](ai/community/exploiting-volvo-eicher-s-fleet-platform-to-gain-c.md)** • <kbd>+12 pts</kbd>
+- 🔼 **[activepieces/activepieces](ai/rag/activepieces-activepieces.md)** • Rank: <kbd>+4483</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Kimi K3 Now Available via Telnyx Inference API](ai/community/kimi-k3-now-available-via-telnyx-inference-api.md)** • Score: `79`
+- 🆕 **[Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science](ai/research/arxiv-2607-22513.md)** • Score: `0`
+- 🆕 **[Neptuna: A Comprehensive Machine Learning Framework for Benchmarking Complex Multiphase Flows](ai/research/arxiv-2607-22280.md)** • Score: `0`
+- 🆕 **[Robostral Navigate](ai/rag/arxiv-2607-20785.md)** • Score: `0`
+- 🆕 **[The Hitchhiker's Guide to Monoculture](ai/rag/arxiv-2607-13077.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[The Burau representation of the braid group is faithful for n = 4](ai/community/arxiv-2607-05283.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

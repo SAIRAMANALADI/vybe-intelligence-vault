@@ -4,24 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-07-21T22:14:12.425205+05:30'
-published_at: '2026-06-17T01:51:32Z'
+collected_at: '2026-07-28T14:28:36.595037+05:30'
+published_at: '2026-07-25T03:18:55Z'
 tags:
 - agents
 - github-repo
 - java
 - rag
-- workflows
-stars: 35
+stars: 36
 language: Java
 status: active
 archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-07-21T22:14:12.425205+05:30'
-last_seen: '2026-07-21T22:14:12.425205+05:30'
-last_checked: '2026-07-21T22:14:12.425205+05:30'
+first_seen: '2026-07-28T14:28:36.595037+05:30'
+last_seen: '2026-07-28T14:28:36.595037+05:30'
+last_checked: '2026-07-28T14:28:36.595037+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Integration**: Implements Spring AI with Alibaba Cloud services, supporting SSE streaming, Agent-based workflows, and RAG via knowledge graphs, function calls, and historical message handling.
-
-- **Multimodal Processing**: Integrates embedding models, vector databases (RAG), and image generation/understanding capabilities (e.g., via Alibaba’s Tongyi Qianwen or similar APIs).
-
-- **Java-Based Architecture**: Leverages Spring Boot for backend logic, with structured components for embedding storage, retrieval, and multimodal AI interactions.
+*   Implements a RAG-based AI Q&A system leveraging personal knowledge bases, integrating Knowledge Graph RAG with embeddings and vector databases for enhanced retrieval.
+*   Features advanced AI agent capabilities, including function calling and historical message management for conversational context persistence.
+*   Supports multimodal AI functionalities (image generation, image understanding)
 
 ## Why It Matters
 
@@ -42,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: hllqkb
-- Stars: 35
-- Forks: 10
+- Stars: 36
+- Forks: 11
 - Language: Java
 - Topics: None
-- Last Updated: 2026-06-17T01:51:32Z
+- Last Updated: 2026-07-25T03:18:55Z
 - Archived: No
 - Created At: 2025-04-17T11:50:47Z
 - Pushed At: 2025-09-07T10:50:31Z

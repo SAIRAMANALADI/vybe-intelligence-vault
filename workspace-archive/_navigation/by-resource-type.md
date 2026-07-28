@@ -20,16 +20,16 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 
 - [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Tier: `essential` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
 - [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Tier: `essential` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
-- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (Tier: `essential` | [`Local File`](../../ai/rag/jamwithai-production-agentic-rag-course.md))
 - [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Tier: `essential` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
-- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (Tier: `essential` | [`Local File`](../../ai/rag/jamwithai-production-agentic-rag-course.md))
-- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (Tier: `essential` | [`Local File`](../../ai/rag/jamwithai-production-agentic-rag-course.md))
 - [RuBench: A Repository-Level Agentic Coding Benchmark with Natively Authored Russian Task Specifications](https://arxiv.org/abs/2607.06411) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2607-06411.md))
 - [Top 23 rag Open-Source Projects | LibHunt](https://www.libhunt.com/topic/rag) (Tier: `essential` | [`Local File`](../../ai/rag/top-23-rag-open-source-projects-libhunt.md))
 - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](https://developers.googleblog.com/en/introducing-gemma-3-270m) (Tier: `essential` | [`Local File`](../../ai/rag/introducing-gemma-3-270m-the-compact-model-for-hyp.md))
-- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (Tier: `essential` | [`Local File`](../../ai/rag/jamwithai-production-agentic-rag-course.md))
 - [Training-Free Model Selection and Domain-Aware Score Calibration for First-Shot Anomalous Sound Detection](https://arxiv.org/abs/2607.04526) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2607-04526.md))
 - [RuBench: A Repository-Level Agentic Coding Benchmark with Natively Authored Russian Task Specifications](https://arxiv.org/abs/2607.06411) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-06411.md))
+- [Can AI Agents Synthesize Scientific Conclusions?](https://arxiv.org/abs/2606.11337) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-11337.md))
+- [ROOFS: RObust biOmarker Feature Selection](https://arxiv.org/abs/2601.05151) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2601-05151.md))
+- [A comparative and critical study of EEGNet for fNIRS-driven cognitive load classification](https://arxiv.org/abs/2606.16160) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-16160.md))
+- [GestaltMML: Enhancing Rare Genetic Disease Diagnosis through Multimodal Machine Learning Combining Facial Images and Clinical Text](https://arxiv.org/abs/2312.15320) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2312-15320.md))
 
 ## DATASET
 
@@ -43,8 +43,8 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [MacrOData: New Benchmarks of Thousands of Datasets for Tabular Outlier Detection](https://arxiv.org/abs/2602.09329) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2602-09329.md))
 - [CFM-Bench: A Unified Multi-Domain, Multi-Task Benchmark for Channel Foundation Models](https://arxiv.org/abs/2607.14975) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-14975.md))
 - [Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation](https://arxiv.org/abs/2606.12594) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-12594.md))
+- [Integrating Factual and Normative Industrial Knowledge via Constraint-Aware Graph Attention for Process Plan Recommendation](https://arxiv.org/abs/2607.24213) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-24213.md))
 - [Towards a more realistic evaluation of machine learning models for bearing fault diagnosis](https://arxiv.org/abs/2509.22267) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2509-22267.md))
-- [Efficient reduction of stellar contamination and noise in planetary transmission spectra using neural networks](https://arxiv.org/abs/2602.10330) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2602-10330.md))
 
 ## FRAMEWORK
 
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) (Tier: `useful` | [`Local File`](../../ai/agents/ed1s0nz-cyberstrikeai.md))
 
 ---
-*Last updated: 2026-07-28 09:23 IST*
+*Last updated: 2026-07-28 14:44 IST*

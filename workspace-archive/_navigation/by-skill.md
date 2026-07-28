@@ -196,7 +196,7 @@ This index groups curated resources by target developer skills.
 - [langgenius/dify](https://github.com/langgenius/dify) (Tier: `essential` | [`Local File`](../../ai/rag/langgenius-dify.md))
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) (Tier: `essential` | [`Local File`](../../ai/rag/truefoundry-cognita.md))
 - [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Tier: `essential` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
-- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (Tier: `essential` | [`Local File`](../../ai/rag/jamwithai-production-agentic-rag-course.md))
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Tier: `essential` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
 
 ## LLMOps Observability
 
@@ -237,10 +237,10 @@ This index groups curated resources by target developer skills.
 - [Purchase & watch Primetime Channels on YouTube - Computer - YouTube Help](https://support.google.com/youtube/answer/12769543?sjid=5082629036510608231-NA) (Tier: `useful` | [`Local File`](../../ai/resources/purchase-watch-primetime-channels-on-youtube-compu.md))
 - [An Agentic Interface for End-to-End Probabilistic Seismic Hazard and Risk Analysis](https://arxiv.org/abs/2607.16249) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-16249.md))
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (Tier: `useful` | [`Local File`](../../ai/agents/bitbucket-atlassian-community.md))
+- [KAYROS: An Anytime and Exact Open-Source Solver for Duration-Minimization Time-Dependent Vehicle Routing. A Technical Report and a Case Study in Human-AI Engineering](https://arxiv.org/abs/2607.23116) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-23116.md))
 - [Quota Marketplace: Dynamic Pricing for Efficient Allocation of ML Training Resources](https://arxiv.org/abs/2607.09802) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-09802.md))
 - [A Control Theory of Predictability in Latent World Models](https://arxiv.org/abs/2607.10362) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2607-10362.md))
 - [reliverse/relivator](https://github.com/reliverse/relivator) (Tier: `useful` | [`Local File`](../../web-development/nextjs/reliverse-relivator.md))
-- [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page) (Tier: `useful` | [`Local File`](../../web-development/nextjs/nobruf-shadcn-landing-page.md))
 
 ## Market Analysis
 
@@ -339,13 +339,13 @@ This index groups curated resources by target developer skills.
 ## React Layouts
 
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (Tier: `useful` | [`Local File`](../../ai/rag/staircase-ai.md))
+- [Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2605-18770.md))
 - [reliverse/relivator](https://github.com/reliverse/relivator) (Tier: `useful` | [`Local File`](../../web-development/nextjs/reliverse-relivator.md))
 - [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace) (Tier: `useful` | [`Local File`](../../web-development/nextjs/shadcnspace-shadcnspace.md))
 - [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine) (Tier: `useful` | [`Local File`](../../web-development/nextjs/asbhogal-fyrre-magazine.md))
 - [enesien/venefish](https://github.com/enesien/venefish) (Tier: `useful` | [`Local File`](../../web-development/nextjs/enesien-venefish.md))
 - [linkb15/turborepo-shadcn-ui-tailwind-4](https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4) (Tier: `useful` | [`Local File`](../../web-development/nextjs/linkb15-turborepo-shadcn-ui-tailwind-4.md))
 - [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql) (Tier: `useful` | [`Local File`](../../web-development/nextjs/danybeltran-nextjs-typescript-and-postgresql.md))
-- [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page) (Tier: `useful` | [`Local File`](../../web-development/nextjs/nobruf-shadcn-landing-page.md))
 
 ## Regression Testing
 
@@ -356,7 +356,7 @@ This index groups curated resources by target developer skills.
 - [langgenius/dify](https://github.com/langgenius/dify) (Tier: `essential` | [`Local File`](../../ai/rag/langgenius-dify.md))
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) (Tier: `essential` | [`Local File`](../../ai/rag/truefoundry-cognita.md))
 - [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Tier: `essential` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
-- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (Tier: `essential` | [`Local File`](../../ai/rag/jamwithai-production-agentic-rag-course.md))
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Tier: `essential` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
 
 ## Reranking Pipelines
 
@@ -377,8 +377,8 @@ This index groups curated resources by target developer skills.
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (Tier: `useful` | [`Local File`](../../ai/rag/staircase-ai.md))
 - [Resources to help you build, secure, and scale with GitHub · GitHub](https://resources.github.com/) (Tier: `useful` | [`Local File`](../../ai/agents/resources-to-help-you-build-secure-and-scale-with.md))
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (Tier: `useful` | [`Local File`](../../ai/rag/didilili-ai-agents-from-zero.md))
+- [datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe) (Tier: `useful` | [`Local File`](../../ai/rag/datawhalechina-llm-universe.md))
 - [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) (Tier: `useful` | [`Local File`](../../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md))
-- [Resources - Linux Foundation - Education](https://training.linuxfoundation.org/resources) (Tier: `useful` | [`Local File`](../../ai/rag/resources-linux-foundation-education.md))
 
 ## SaaS Architectures
 
@@ -386,10 +386,10 @@ This index groups curated resources by target developer skills.
 - [Purchase & watch Primetime Channels on YouTube - Computer - YouTube Help](https://support.google.com/youtube/answer/12769543?sjid=5082629036510608231-NA) (Tier: `useful` | [`Local File`](../../ai/resources/purchase-watch-primetime-channels-on-youtube-compu.md))
 - [An Agentic Interface for End-to-End Probabilistic Seismic Hazard and Risk Analysis](https://arxiv.org/abs/2607.16249) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-16249.md))
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (Tier: `useful` | [`Local File`](../../ai/agents/bitbucket-atlassian-community.md))
+- [KAYROS: An Anytime and Exact Open-Source Solver for Duration-Minimization Time-Dependent Vehicle Routing. A Technical Report and a Case Study in Human-AI Engineering](https://arxiv.org/abs/2607.23116) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-23116.md))
 - [Quota Marketplace: Dynamic Pricing for Efficient Allocation of ML Training Resources](https://arxiv.org/abs/2607.09802) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-09802.md))
 - [A Control Theory of Predictability in Latent World Models](https://arxiv.org/abs/2607.10362) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2607-10362.md))
 - [reliverse/relivator](https://github.com/reliverse/relivator) (Tier: `useful` | [`Local File`](../../web-development/nextjs/reliverse-relivator.md))
-- [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page) (Tier: `useful` | [`Local File`](../../web-development/nextjs/nobruf-shadcn-landing-page.md))
 
 ## Scripting
 
@@ -460,13 +460,13 @@ This index groups curated resources by target developer skills.
 ## TailwindCSS
 
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (Tier: `useful` | [`Local File`](../../ai/rag/staircase-ai.md))
+- [Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2605-18770.md))
 - [reliverse/relivator](https://github.com/reliverse/relivator) (Tier: `useful` | [`Local File`](../../web-development/nextjs/reliverse-relivator.md))
 - [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace) (Tier: `useful` | [`Local File`](../../web-development/nextjs/shadcnspace-shadcnspace.md))
 - [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine) (Tier: `useful` | [`Local File`](../../web-development/nextjs/asbhogal-fyrre-magazine.md))
 - [enesien/venefish](https://github.com/enesien/venefish) (Tier: `useful` | [`Local File`](../../web-development/nextjs/enesien-venefish.md))
 - [linkb15/turborepo-shadcn-ui-tailwind-4](https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4) (Tier: `useful` | [`Local File`](../../web-development/nextjs/linkb15-turborepo-shadcn-ui-tailwind-4.md))
 - [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql) (Tier: `useful` | [`Local File`](../../web-development/nextjs/danybeltran-nextjs-typescript-and-postgresql.md))
-- [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page) (Tier: `useful` | [`Local File`](../../web-development/nextjs/nobruf-shadcn-landing-page.md))
 
 ## Three.js
 
@@ -493,13 +493,13 @@ This index groups curated resources by target developer skills.
 ## UI design
 
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (Tier: `useful` | [`Local File`](../../ai/rag/staircase-ai.md))
+- [Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2605-18770.md))
 - [reliverse/relivator](https://github.com/reliverse/relivator) (Tier: `useful` | [`Local File`](../../web-development/nextjs/reliverse-relivator.md))
 - [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace) (Tier: `useful` | [`Local File`](../../web-development/nextjs/shadcnspace-shadcnspace.md))
 - [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine) (Tier: `useful` | [`Local File`](../../web-development/nextjs/asbhogal-fyrre-magazine.md))
 - [enesien/venefish](https://github.com/enesien/venefish) (Tier: `useful` | [`Local File`](../../web-development/nextjs/enesien-venefish.md))
 - [linkb15/turborepo-shadcn-ui-tailwind-4](https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4) (Tier: `useful` | [`Local File`](../../web-development/nextjs/linkb15-turborepo-shadcn-ui-tailwind-4.md))
 - [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql) (Tier: `useful` | [`Local File`](../../web-development/nextjs/danybeltran-nextjs-typescript-and-postgresql.md))
-- [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page) (Tier: `useful` | [`Local File`](../../web-development/nextjs/nobruf-shadcn-landing-page.md))
 
 ## Vector Indexes
 
@@ -524,4 +524,4 @@ This index groups curated resources by target developer skills.
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Tier: `essential` | [`Local File`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md))
 
 ---
-*Last updated: 2026-07-28 09:23 IST*
+*Last updated: 2026-07-28 14:44 IST*

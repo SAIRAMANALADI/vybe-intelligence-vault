@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gomate-community/awesome-papers-for-rag
-collected_at: '2026-07-22T14:17:23.462445+05:30'
+collected_at: '2026-07-28T14:28:51.606226+05:30'
 published_at: '2026-07-01T02:40:05Z'
 tags:
 - github-repo
-- hackernews
 - paper
 - python
 - rag
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-02-23T08:38:47Z'
 pushed_at: '2025-10-31T14:16:08Z'
 resource_id: github:gomate-community/awesome-papers-for-rag
-first_seen: '2026-07-22T14:17:23.462445+05:30'
-last_seen: '2026-07-22T14:17:23.462445+05:30'
-last_checked: '2026-07-22T14:17:23.462445+05:30'
+first_seen: '2026-07-28T14:28:51.606226+05:30'
+last_seen: '2026-07-28T14:28:51.606226+05:30'
+last_checked: '2026-07-28T14:28:51.606226+05:30'
 health_score: 100
 ---
 
@@ -30,7 +29,7 @@ health_score: 100
 
 ## Summary
 
-*   Curated repository aggregating technical papers and resources specifically focused on Retrieval-Augmented Generation (
+*   Curated GitHub repository aggregating research papers and resources dedicated to Retrieval-Augmented Generation (
 
 ## Why It Matters
 

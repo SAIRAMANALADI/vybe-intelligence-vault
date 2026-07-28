@@ -54,7 +54,7 @@ This index groups resources by direct developer use-cases and design goals.
 - [langgenius/dify](https://github.com/langgenius/dify) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/langgenius-dify.md))
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/truefoundry-cognita.md))
 - [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
-- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/jamwithai-production-agentic-rag-course.md))
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
 
 ## Script Automations & External API Integration
 
@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [Modeling Complex Behaviors: Multi-Personality Composition and Dynamic Switching in Vision-Language Models](https://arxiv.org/abs/2606.11074) (Category: `project-ideas` | [`Local File`](../../ai/research/arxiv-2606-11074.md))
 
 ---
-*Last updated: 2026-07-28 09:23 IST*
+*Last updated: 2026-07-28 14:44 IST*
