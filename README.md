@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-70%2C071-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-125%2C508-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--28-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **70,071 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **125,508 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 14,162</p>
-        <p><b>Active:</b> 13,800 | <b>Inactive:</b> 362</p>
+        <p><b>Resources tracked:</b> 15,136</p>
+        <p><b>Active:</b> 14,772 | <b>Inactive:</b> 364</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,052</p>
+        <p><b>Archive Files:</b> 56,537</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 70,071 files</p>
-        <p><b>Last Update:</b> 2026-07-28 19:43 IST</p>
+        <p><b>Total Vault Size:</b> 125,508 files</p>
+        <p><b>Last Update:</b> 2026-07-28 20:25 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,26 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[activepieces/activepieces](ai/rag/activepieces-activepieces.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[ARUNAGIRINATHAN-K/awesome-ai-agents-2026](ai/agents/arunagirinathan-k-awesome-ai-agents-2026.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[XMUDeepLIT/MemGraphRAG](ai/rag/xmudeeplit-memgraphrag.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[jamwithai/production-agentic-rag-course](ai/rag/jamwithai-production-agentic-rag-course.md)** • Rank: <kbd>+965</kbd>
-- 🔼 **[IBM/mt-rag-benchmark](ai/rag/ibm-mt-rag-benchmark.md)** • Rank: <kbd>+965</kbd>
+- 🔼 **[Google's Beyond Zero: Enterprise Security for the AI Era](ai/community/google-s-beyond-zero-enterprise-security-for-the-a.md)** • <kbd>+55 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Kimi K3 Now Available via Telnyx Inference API](ai/community/kimi-k3-now-available-via-telnyx-inference-api.md)** • <kbd>+24 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+975</kbd>
+- 🔼 **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** • Rank: <kbd>+975</kbd>
+- 🔼 **[Applied AI](ai/companies/openai/applied-ai.md)** • Rank: <kbd>+822</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Mondragon Corporation – a federation of co-operatives](ai/community/mondragon-corporation-a-federation-of-co-operative.md)** • Score: `85`
+- 🆕 **[DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It](ai/community/dmarc-has-been-public-since-2012-68-4-of-domains-s.md)** • Score: `48`
+- 🆕 **[Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](ai/community/schildep-verified-3d-mesh-intersection.md)** • Score: `46`
+- 🆕 **[Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs](ai/community/ctrlb-hq-ctrlb-decompose.md)** • Score: `32`
+- 🆕 **[Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History](ai/community/over-150k-flights-airlines-just-flew-the-busiest-d.md)** • Score: `30`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Self-contained highly-portable Python distributions](ai/community/self-contained-highly-portable-python-distribution.md)**
+- 💤 **[Securing Services with Rootless Containers](ai/community/securing-services-with-rootless-containers.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

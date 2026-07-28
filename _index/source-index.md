@@ -11551,10 +11551,17 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It](../ai/community/dmarc-has-been-public-since-2012-68-4-of-domains-s.md)
+  - [Dolmenwood: Fantasy RPG built around the acclaimed Old-School Essentials rules](../ai/community/dolmenwood-fantasy-rpg-built-around-the-acclaimed.md)
+  - [Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)](../ai/community/fast-remediation-is-the-new-trust-model-jfrog-and.md)
   - [Google's Beyond Zero: Enterprise Security for the AI Era](../ai/community/google-s-beyond-zero-enterprise-security-for-the-a.md)
   - [Kimi K3 Now Available via Telnyx Inference API](../ai/community/kimi-k3-now-available-via-telnyx-inference-api.md)
-  - [Securing Services with Rootless Containers](../ai/community/securing-services-with-rootless-containers.md)
-  - [Self-contained highly-portable Python distributions](../ai/community/self-contained-highly-portable-python-distribution.md)
+  - [Mondragon Corporation – a federation of co-operatives](../ai/community/mondragon-corporation-a-federation-of-co-operative.md)
+  - [Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History](../ai/community/over-150k-flights-airlines-just-flew-the-busiest-d.md)
+  - [Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs](../ai/community/ctrlb-hq-ctrlb-decompose.md)
+  - [Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](../ai/community/schildep-verified-3d-mesh-intersection.md)
+  - [Show HN: Segue – Save context in one AI, load it in another by a short handle](../ai/community/show-hn-segue-save-context-in-one-ai-load-it-in-an.md)
+  - [What AI developers could learn from Charles Bukowski?](../ai/community/what-ai-developers-could-learn-from-charles-bukows.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -14810,4 +14817,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-28T17:15:50.585722+05:30*
+*Index generated on 2026-07-28T20:23:13.409935+05:30*

@@ -13,13 +13,14 @@ collected_at: '2026-07-28T16:58:50.806091+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:self-contained-highly-portable-python-distribution
 first_seen: '2026-07-28T01:25:18.918110+05:30'
 last_seen: '2026-07-28T16:58:50.806091+05:30'
 last_checked: '2026-07-28T16:58:50.806091+05:30'
 health_score: 100
 ---
+
 
 # Self-contained highly-portable Python distributions
 
