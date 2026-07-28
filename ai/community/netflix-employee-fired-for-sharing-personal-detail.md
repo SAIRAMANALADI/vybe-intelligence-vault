@@ -13,13 +13,14 @@ collected_at: '2026-07-28T14:21:17.774511+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:netflix-employee-fired-for-sharing-personal-detail
 first_seen: '2026-07-28T09:04:42.342528+05:30'
 last_seen: '2026-07-28T14:21:17.774511+05:30'
 last_checked: '2026-07-28T14:21:17.774511+05:30'
 health_score: 100
 ---
+
 
 # Netflix employee fired for sharing personal details in retreat trust exercise
 

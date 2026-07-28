@@ -11551,9 +11551,8 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](../ai/community/exploiting-volvo-eicher-s-fleet-platform-to-gain-c.md)
+  - [Google's Beyond Zero: Enterprise Security for the AI Era](../ai/community/google-s-beyond-zero-enterprise-security-for-the-a.md)
   - [Kimi K3 Now Available via Telnyx Inference API](../ai/community/kimi-k3-now-available-via-telnyx-inference-api.md)
-  - [Netflix employee fired for sharing personal details in retreat trust exercise](../ai/community/netflix-employee-fired-for-sharing-personal-detail.md)
   - [Securing Services with Rootless Containers](../ai/community/securing-services-with-rootless-containers.md)
   - [Self-contained highly-portable Python distributions](../ai/community/self-contained-highly-portable-python-distribution.md)
 
@@ -12392,7 +12391,7 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: huggingface_dataset)
 
   - [Benjy/typed_digital_signatures](../ai/models/huggingface-datasets-benjy.md)
-  - [KakologArchives/KakologArchives](../ai/models/huggingface-datasets-kakologarchives.md)
+  - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
   - [allenai/c4](../ai/models/huggingface-datasets-allenai.md)
   - [anisoleai/fineweb-tokenized](../ai/models/huggingface-datasets-anisoleai.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
@@ -14340,7 +14339,6 @@ Resources organized by publisher feed and query sources.
   - [The Sovereign AI Platform for Agents](../ai/rag/the-sovereign-ai-platform-for-agents.md)
   - [The Stack Overflow Blog - Stack Overflow](../ai/rag/the-stack-overflow-blog-stack-overflow.md)
   - [The Synack Red Team | Synack](../ai/rag/the-synack-red-team-synack.md)
-  - [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md)
   - [The University of Texas at Austin](../ai/resources/the-university-of-texas-at-austin.md)
   - [The Wayback Machine – Internet Archive Help Center](../ai/resources/the-wayback-machine-internet-archive-help-center.md)
   - [The WebM Project | Developer Overview](../ai/rag/the-webm-project-developer-overview.md)
@@ -14812,4 +14810,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-28T14:43:21.334583+05:30*
+*Index generated on 2026-07-28T17:15:50.585722+05:30*
