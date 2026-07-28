@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-125%2C510-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-70%2C086-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--29-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **125,510 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **70,086 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 15,140</p>
-        <p><b>Active:</b> 14,766 | <b>Inactive:</b> 374</p>
+        <p><b>Resources tracked:</b> 14,174</p>
+        <p><b>Active:</b> 13,800 | <b>Inactive:</b> 374</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 56,534</p>
+        <p><b>Archive Files:</b> 2,054</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 125,510 files</p>
-        <p><b>Last Update:</b> 2026-07-29 01:43 IST</p>
+        <p><b>Total Vault Size:</b> 70,086 files</p>
+        <p><b>Last Update:</b> 2026-07-29 03:39 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,26 +210,22 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[DMARC has been public since 2012 but most company domains still don't enforce it](ai/community/dmarc-has-been-public-since-2012-68-4-of-domains-s.md)** • <kbd>+46 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Harmony Explained: Progress Towards a Scientific Theory of Music (2012)](ai/community/arxiv-1202-4212.md)** • <kbd>+29 pts</kbd> • Rank: <kbd>+4</kbd>
-- 🔼 **[langchain-ai/new-langgraphjs-project](ai/agents/langchain-ai-new-langgraphjs-project.md)** • Rank: <kbd>+2978</kbd>
-- 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+4</kbd>
-- 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+966</kbd>
+- 🔼 **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** • Rank: <kbd>+966</kbd>
+- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+966</kbd>
+- 🔼 **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** • Rank: <kbd>+966</kbd>
+- 🔼 **[activepieces/activepieces](ai/rag/activepieces-activepieces.md)** • Rank: <kbd>+966</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Now Is the Time to Give LLMs Access to the ACM Digital Library](ai/community/now-is-the-time-to-give-llms-access-to-the-acm-dig.md)** • Score: `71`
-- 🆕 **[Una GPS smart watch – Repairable, USB-C charging, developer-friendly](ai/community/una-gps-smart-watch-repairable-usb-c-charging-deve.md)** • Score: `60`
+- 🆕 **[DMARC has been public since 2012 but most company domains still don't enforce it](ai/community/dmarc-has-been-public-since-2012-68-4-of-domains-s.md)** • Score: `151`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Mondragon Corporation – a federation of co-operatives](ai/community/mondragon-corporation-a-federation-of-co-operative.md)**
-- 💤 **[Google's Beyond Zero: Enterprise Security for the AI Era](ai/community/google-s-beyond-zero-enterprise-security-for-the-a.md)**
-- 💤 **[Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](ai/community/schildep-verified-3d-mesh-intersection.md)**
-- 💤 **[Dolmenwood: Fantasy RPG built around the acclaimed Old-School Essentials rules](ai/community/dolmenwood-fantasy-rpg-built-around-the-acclaimed.md)**
-- 💤 **[Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)](ai/community/fast-remediation-is-the-new-trust-model-jfrog-and.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
