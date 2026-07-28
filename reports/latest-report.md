@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-28T09:24:20.883730+05:30`
+Generated at: `2026-07-28T12:11:31.919512+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Netflix employee fired for sharing personal details in retreat trust exercise** - Score: `196` in category `ai/community` ([Link](https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit)) ([File](../ai/community/netflix-employee-fired-for-sharing-personal-detail.md))
-- **The Burau representation of the braid group is faithful for n = 4** - Score: `26` in category `ai/community` ([Link](https://arxiv.org/abs/2607.05283)) ([File](../ai/community/arxiv-2607-05283.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Securing Services with Rootless Containers** - Score: `74` (+53), Rank Change: `+4` ([File](../ai/community/securing-services-with-rootless-containers.md))
-- **Self-contained highly-portable Python distributions** - Score: `123` (+43), Rank Change: `+2` ([File](../ai/community/self-contained-highly-portable-python-distribution.md))
-- **Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles** - Score: `140` (+27), Rank Change: `+2` ([File](../ai/community/exploiting-volvo-eicher-s-fleet-platform-to-gain-c.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+4` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+974` ([File](../ai/rag/malonge-ragoo.md))
-- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/particlemedia-ragtruth.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+5` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+5` ([File](../ai/companies/human-language-technologies.md))
-- **Human-computer interaction** - Score: `0` (0), Rank Change: `+5` ([File](../ai/companies/human-computer-interaction.md))
-- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+5` ([File](../ai/companies/graphics-multimedia.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **e2b-dev/awesome-ai-agents** - Score: `0` (0), Rank Change: `+965` ([File](../ai/agents/e2b-dev-awesome-ai-agents.md))
+- **WenyuChiou/awesome-agentic-ai-zh** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md))
+- **czl9707/build-your-own-openclaw** - Score: `0` (0), Rank Change: `+965` ([File](../ai/agents/czl9707-build-your-own-openclaw.md))
+- **DEEP-PolyU/LinearRAG** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/deep-polyu-linearrag.md))
+- **EternityJune25/ComoRAG** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/eternityjune25-comorag.md))
+- **bakrianoo/mini-rag** - Score: `0` (0), Rank Change: `+965` ([File](../ai/rag/bakrianoo-mini-rag.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **malonge/RaGOO** - (Rank Change: `+974`) ([File](../ai/rag/malonge-ragoo.md))
-- **How to train a new language model from scratch using Transformers and Tokenizers** - (Rank Change: `+19`) ([File](../ai/models/huggingface-blog-how-to-train.md))
-- **How to generate text: using different decoding methods for language generation with Transformers** - (Rank Change: `+19`) ([File](../ai/models/huggingface-blog-how-to-generate.md))
-- **The Reformer - Pushing the limits of language modeling** - (Rank Change: `+19`) ([File](../ai/models/huggingface-blog-reformer.md))
-- **Block Sparse Matrices for Smaller and Faster Language Models** - (Rank Change: `+19`) ([File](../ai/models/huggingface-blog-pytorch-block-sparse.md))
-- **Transformer-based Encoder-Decoder Models** - (Rank Change: `+19`) ([File](../ai/models/huggingface-blog-encoder-decoder.md))
-- **Hyperparameter Search with Transformers and Ray Tune** - (Rank Change: `+19`) ([File](../ai/models/huggingface-blog-ray-tune.md))
-- **Porting fairseq wmt19 translation system to transformers** - (Rank Change: `+19`) ([File](../ai/models/huggingface-blog-porting-fsmt.md))
-- **Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models** - (Rank Change: `+19`) ([File](../ai/rag/huggingface-blog-warm-starting-encoder-decoder.md))
-- **How we sped up transformer inference 100x for 🤗 API customers** - (Rank Change: `+19`) ([File](../ai/models/huggingface-blog-accelerated-inference.md))
+- **infiniflow/ragflow** - (Rank Change: `+12780`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1** - (Rank Change: `+967`) ([File](../ai/rag/monday-service-langsmith-building-a-code-first-eva.md))
+- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+967`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
+- **promptfoo/promptfoo-action** - (Rank Change: `+967`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
+- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+967`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
+- **Understanding RAG from Scratch | martinuke0's Blog** - (Rank Change: `+967`) ([File](../ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md))
+- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+967`) ([File](../ai/rag/arxiv-2606-29031.md))
+- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+967`) ([File](../ai/research/arxiv-2606-26428.md))
+- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+967`) ([File](../ai/research/arxiv-2606-21887.md))
+- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+967`) ([File](../ai/rag/arxiv-2606-09677.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -46,9 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **MAI-Cyber-1-Flash inside MDASH** (Category: `ai/community`) ([File](../ai/community/mai-cyber-1-flash-inside-mdash.md))
-- **Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)** (Category: `web-development/community`) ([File](../web-development/community/removing-react-js-from-the-codebase-and-adapting-h.md))
-- **Modern email can be built from borrowed parts** (Category: `ai/community`) ([File](../ai/community/modern-email-can-be-built-from-borrowed-parts.md))
-- **Show HN: FeyNoBg – Automatic background removal model and training library** (Category: `ai/community`) ([File](../ai/community/show-hn-feynobg-automatic-background-removal-model.md))
-- **My current strategy is to not read any of the code written by my agents** (Category: `ai/community`) ([File](../ai/community/my-current-strategy-is-to-not-read-any-of-the-code.md))
-- **Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware** (Category: `ai/community`) ([File](../ai/community/bitcoin-trail-google-cookies-and-uber-eats-orders.md))
+No recently active resources transitioned to inactive.
+
