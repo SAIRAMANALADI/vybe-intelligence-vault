@@ -1,283 +1,6 @@
 {
-  "generated_at": "2026-07-29T14:59:36.176992+05:30",
+  "generated_at": "2026-07-29T17:01:51.781607+05:30",
   "trending_resources": [
-    {
-      "id": "hackernews:learnvector-andrew-ng-s-ai-company-building-one-to",
-      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://learnvector.ai",
-      "file_path": "ai/community/learnvector-andrew-ng-s-ai-company-building-one-to.md",
-      "score": 176,
-      "score_change": 116,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:truth-is-not-a-direction-a-tarski-attack-on-llm-pr",
-      "title": "Truth is not a direction: a Tarski attack on LLM probes",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
-      "file_path": "ai/community/truth-is-not-a-direction-a-tarski-attack-on-llm-pr.md",
-      "score": 92,
-      "score_change": 59,
-      "rank_change": -1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:una-gps-smart-watch-repairable-usb-c-charging-deve",
-      "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://unawatch.com",
-      "file_path": "ai/community/una-gps-smart-watch-repairable-usb-c-charging-deve.md",
-      "score": 207,
-      "score_change": 56,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:hubble-open-source-notetaking-app-for-you-and-your",
-      "title": "Hubble: Open-source notetaking app for you and your agents",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://hubble.md",
-      "file_path": "ai/community/hubble-open-source-notetaking-app-for-you-and-your.md",
-      "score": 107,
-      "score_change": 50,
-      "rank_change": -1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:now-is-the-time-to-give-llms-access-to-the-acm-dig",
-      "title": "Now is the time to give LLMs access to the ACM digital library",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library",
-      "file_path": "ai/community/now-is-the-time-to-give-llms-access-to-the-acm-dig.md",
-      "score": 159,
-      "score_change": 34,
-      "rank_change": -2,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:datarobot-community/datarobot-agent-templates",
-      "title": "datarobot-community/datarobot-agent-templates",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datarobot-community/datarobot-agent-templates",
-      "file_path": "ai/rag/datarobot-community-datarobot-agent-templates.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 2967,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:ten-framework/ten-framework",
-      "title": "TEN-framework/ten-framework",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/ten-framework/ten-framework",
-      "file_path": "ai/agents/ten-framework-ten-framework.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 2028,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:airweave-ai/airweave",
-      "title": "airweave-ai/airweave",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/airweave-ai/airweave",
-      "file_path": "ai/rag/airweave-ai-airweave.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 2034,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:vercel/ai",
-      "title": "vercel/ai",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/vercel/ai",
-      "file_path": "ai/agents/vercel-ai.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 2036,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:continuedev/continue",
-      "title": "continuedev/continue",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/continuedev/continue",
-      "file_path": "ai/agents/continuedev-continue.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 2036,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "fastest_rising_tools": [
-    {
-      "id": "github:alexpeclub/ai-coding-starter-kit",
-      "title": "AlexPEClub/ai-coding-starter-kit",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/alexpeclub/ai-coding-starter-kit",
-      "file_path": "ai/agents/alexpeclub-ai-coding-starter-kit.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 3275,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:wassim249/fastapi-langgraph-agent-production-ready-template",
-      "title": "wassim249/fastapi-langgraph-agent-production-ready-template",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template",
-      "file_path": "ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 3034,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:datarobot-community/datarobot-agent-templates",
-      "title": "datarobot-community/datarobot-agent-templates",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datarobot-community/datarobot-agent-templates",
-      "file_path": "ai/rag/datarobot-community-datarobot-agent-templates.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 2967,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:vercel/ai",
-      "title": "vercel/ai",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/vercel/ai",
-      "file_path": "ai/agents/vercel-ai.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 2036,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:continuedev/continue",
-      "title": "continuedev/continue",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/continuedev/continue",
-      "file_path": "ai/agents/continuedev-continue.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 2036,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:airweave-ai/airweave",
-      "title": "airweave-ai/airweave",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/airweave-ai/airweave",
-      "file_path": "ai/rag/airweave-ai-airweave.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 2034,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:ten-framework/ten-framework",
-      "title": "TEN-framework/ten-framework",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/ten-framework/ten-framework",
-      "file_path": "ai/agents/ten-framework-ten-framework.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 2028,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:czl9707/build-your-own-openclaw",
-      "title": "czl9707/build-your-own-openclaw",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/czl9707/build-your-own-openclaw",
-      "file_path": "ai/agents/czl9707-build-your-own-openclaw.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1804,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:malonge/ragoo",
-      "title": "malonge/RaGOO",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/malonge/ragoo",
-      "file_path": "ai/rag/malonge-ragoo.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 969,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:sylphai-inc/githubchat",
-      "title": "SylphAI-Inc/GithubChat",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/sylphai-inc/githubchat",
-      "file_path": "ai/rag/sylphai-inc-githubchat.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 965,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "new_discoveries": [
-    {
-      "id": "hackernews:more-tailscale-tricks-for-your-jailbroken-kindle",
-      "title": "More Tailscale tricks for your jailbroken Kindle",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-      "file_path": "ai/community/more-tailscale-tricks-for-your-jailbroken-kindle.md",
-      "score": 165,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
     {
       "id": "arxiv:2607.22205",
       "title": "Filling Before Advancing: Capability-Gap-Driven Post-Training for Scenario-Specialized Remote Sensing MLLMs",
@@ -287,8 +10,8 @@
       "file_path": "ai/rag/arxiv-2607-22205.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 967,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -300,8 +23,8 @@
       "file_path": "ai/research/arxiv-2607-21498.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 967,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -313,21 +36,8 @@
       "file_path": "ai/research/arxiv-2607-13454.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "arxiv:2607.06608",
-      "title": "Security and Privacy in Agentic AI: Grand Challenges and Future Directions",
-      "category": "ai/agents",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2607.06608",
-      "file_path": "ai/agents/arxiv-2607-06608.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 967,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -339,8 +49,8 @@
       "file_path": "ai/research/arxiv-2606-22338.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 968,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -352,8 +62,8 @@
       "file_path": "ai/research/arxiv-2606-19635.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 968,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -365,8 +75,8 @@
       "file_path": "ai/rag/arxiv-2606-01862.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 968,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -378,8 +88,8 @@
       "file_path": "ai/research/arxiv-2605-26092.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 968,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -391,8 +101,8 @@
       "file_path": "ai/research/arxiv-2605-16427.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 968,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -404,8 +114,8 @@
       "file_path": "ai/research/arxiv-2604-19341.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 968,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -417,43 +127,151 @@
       "file_path": "ai/agents/arxiv-2604-07126.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 968,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "fastest_rising_tools": [
+    {
+      "id": "github:infiniflow/ragflow",
+      "title": "infiniflow/ragflow",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/infiniflow/ragflow",
+      "file_path": "ai/rag/infiniflow-ragflow-2.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 12775,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "arxiv:2604.03881",
-      "title": "LLM-generated personalized nudges for improving pro-environmental behavior: Field evidence from resource conservation",
+      "id": "blog:monday-service-langsmith-building-a-code-first-eva",
+      "title": "monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://blog.langchain.com/customers-monday",
+      "file_path": "ai/rag/monday-service-langsmith-building-a-code-first-eva.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 971,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:medium-terms-of-service-by-medium-medium-policy",
+      "title": "Medium Terms of Service | by Medium | Medium Policy",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f",
+      "file_path": "ai/rag/medium-terms-of-service-by-medium-medium-policy.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 971,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:promptfoo/promptfoo-action",
+      "title": "promptfoo/promptfoo-action",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/promptfoo/promptfoo-action",
+      "file_path": "ai/rag/promptfoo-promptfoo-action.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 971,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:alucek/graphrag-breakdown",
+      "title": "ALucek/GraphRAG-Breakdown",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/alucek/graphrag-breakdown",
+      "file_path": "ai/rag/alucek-graphrag-breakdown.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 971,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:understanding-rag-from-scratch-martinuke0-s-blog",
+      "title": "Understanding RAG from Scratch | martinuke0's Blog",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://martinuke0.github.io/posts/2025-12-26-understanding-rag-from-scratch",
+      "file_path": "ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 971,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.29031",
+      "title": "How to Leverage Synthetic Speech for LLM-Based ASR Systems?",
       "category": "ai/rag",
       "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2604.03881",
-      "file_path": "ai/rag/arxiv-2604-03881.md",
+      "url": "https://arxiv.org/abs/2606.29031",
+      "file_path": "ai/rag/arxiv-2606-29031.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 971,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "arxiv:2603.14841",
-      "title": "Real-Time Driver Safety Scoring Through Inverse Crash Probability Modeling",
-      "category": "ai/agents",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2603.14841",
-      "file_path": "ai/agents/arxiv-2603-14841.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "arxiv:2602.10430",
-      "title": "Breaking the Curse of Repulsion: Remoteness-Aware Control of Negative Off-Policy Updates",
+      "id": "arxiv:2606.26428",
+      "title": "Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?",
       "category": "ai/research",
       "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2602.10430",
-      "file_path": "ai/research/arxiv-2602-10430.md",
+      "url": "https://arxiv.org/abs/2606.26428",
+      "file_path": "ai/research/arxiv-2606-26428.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 971,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.21887",
+      "title": "Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.21887",
+      "file_path": "ai/research/arxiv-2606-21887.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 971,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.09677",
+      "title": "MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation",
+      "category": "ai/rag",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.09677",
+      "file_path": "ai/rag/arxiv-2606-09677.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 971,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "new_discoveries": [
+    {
+      "id": "blog:langchain-ai-langgraph",
+      "title": "langchain-ai/langgraph",
+      "category": "Agent Framework",
+      "source_type": "",
+      "url": "",
+      "file_path": "docs/sample-digest.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -461,32 +279,7 @@
       "tier": "tier-3"
     }
   ],
-  "recently_inactive_resources": [
-    {
-      "id": "hackernews:show-hn-manim-3blue1brown-s-animation-engine-in-th",
-      "title": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
-      "category": "web-development/community",
-      "source_type": "hackernews",
-      "url": "https://studio.academa.ai",
-      "file_path": "web-development/community/show-hn-manim-3blue1brown-s-animation-engine-in-th.md"
-    },
-    {
-      "id": "hackernews:chip-stocks-slide-in-us-and-asia-as-ai-jitters-rat",
-      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://bbc.com/news/articles/cly8zng43npo",
-      "file_path": "ai/community/chip-stocks-slide-in-us-and-asia-as-ai-jitters-rat.md"
-    },
-    {
-      "id": "github:jagg-ix/zil-lean",
-      "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://github.com/jagg-ix/zil-lean",
-      "file_path": "ai/community/jagg-ix-zil-lean.md"
-    }
-  ],
+  "recently_inactive_resources": [],
   "entered_essential": [],
   "left_essential": []
 }
