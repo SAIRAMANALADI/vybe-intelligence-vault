@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-129%2C681-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-72%2C940-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--30-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **129,681 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **72,940 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 15,470</p>
-        <p><b>Active:</b> 15,077 | <b>Inactive:</b> 393</p>
+        <p><b>Resources tracked:</b> 14,501</p>
+        <p><b>Active:</b> 14,108 | <b>Inactive:</b> 393</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 57,850</p>
+        <p><b>Archive Files:</b> 2,056</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 129,681 files</p>
-        <p><b>Last Update:</b> 2026-07-30 01:32 IST</p>
+        <p><b>Total Vault Size:</b> 72,940 files</p>
+        <p><b>Last Update:</b> 2026-07-30 01:48 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -222,6 +222,7 @@ score_threshold: 0.65
 - 🆕 **[Some thoughts about Anthropic's new cryptanalysis results](ai/community/some-thoughts-about-anthropic-s-new-cryptanalysis.md)** • Score: `56`
 - 🆕 **[Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals](ai/community/commodification-of-intelligence-good-bad-and-ugly.md)** • Score: `10`
 - 🆕 **[How much can you delegate to agents?](ai/community/how-much-can-you-delegate-to-agents.md)** • Score: `8`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.

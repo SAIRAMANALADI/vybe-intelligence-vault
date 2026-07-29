@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-30T01:32:53.058157+05:30`
+Generated at: `2026-07-30T01:48:41.707805+05:30`
 
 ## Executive Summary
 
@@ -11,6 +11,7 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **Some thoughts about Anthropic's new cryptanalysis results** - Score: `56` in category `ai/community` ([Link](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results)) ([File](../ai/community/some-thoughts-about-anthropic-s-new-cryptanalysis.md))
 - **Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals** - Score: `10` in category `ai/community` ([Link](https://emergingtrajectories.com/lh/commodification-and-circularity)) ([File](../ai/community/commodification-of-intelligence-good-bad-and-ugly.md))
 - **How much can you delegate to agents?** - Score: `8` in category `ai/community` ([Link](https://newsletter.posthog.com/p/agent-autonomy)) ([File](../ai/community/how-much-can-you-delegate-to-agents.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
@@ -21,22 +22,22 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/datawhalechina-all-in-rag.md))
 - **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/raganwald-raganwald-github-com.md))
 - **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+970` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **Jul 9, 2026Case StudyUST is bringing Claude to physical AI** - Score: `0` (0), Rank Change: `+89` ([File](../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md))
-- **Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research** - Score: `0` (0), Rank Change: `+89` ([File](../ai/companies/anthropic/jul-14-2026announcementsanthropic-commits-10-milli.md))
-- **Jul 14, 2026ProductIntroducing Claude for Teachers** - Score: `0` (0), Rank Change: `+89` ([File](../ai/companies/anthropic/jul-14-2026productintroducing-claude-for-teachers.md))
+- **datarobot-community/datarobot-agent-templates** - Score: `0` (0), Rank Change: `+969` ([File](../ai/rag/datarobot-community-datarobot-agent-templates.md))
+- **TEN-framework/ten-framework** - Score: `0` (0), Rank Change: `+969` ([File](../ai/agents/ten-framework-ten-framework.md))
+- **airweave-ai/airweave** - Score: `0` (0), Rank Change: `+969` ([File](../ai/rag/airweave-ai-airweave.md))
 
 ## 🚀 Fastest Rising Tools
 
+- **infiniflow/ragflow** - (Rank Change: `+12776`) ([File](../ai/rag/infiniflow-ragflow-2.md))
 - **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - (Rank Change: `+983`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
-- **datawhalechina/llm-universe** - (Rank Change: `+970`) ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **google-t5/t5-small** - (Rank Change: `+831`) ([File](../ai/models/huggingface-google-t5-t5-small.md))
-- **sentence-transformers/all-mpnet-base-v2** - (Rank Change: `+831`) ([File](../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md))
-- **Qwen/Qwen3-0.6B** - (Rank Change: `+831`) ([File](../ai/models/huggingface-qwen-qwen3-0-6b.md))
-- **BAAI/bge-m3** - (Rank Change: `+831`) ([File](../ai/rag/huggingface-baai-bge-m3.md))
-- **sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2** - (Rank Change: `+831`) ([File](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md))
-- **google/electra-base-discriminator** - (Rank Change: `+831`) ([File](../ai/models/huggingface-google-electra-base-discriminator.md))
-- **BAAI/bge-small-en-v1.5** - (Rank Change: `+831`) ([File](../ai/rag/huggingface-baai-bge-small-en-v1-5.md))
-- **cross-encoder/ms-marco-MiniLM-L6-v2** - (Rank Change: `+831`) ([File](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md))
+- **monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1** - (Rank Change: `+972`) ([File](../ai/rag/monday-service-langsmith-building-a-code-first-eva.md))
+- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+972`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
+- **promptfoo/promptfoo-action** - (Rank Change: `+972`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
+- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+972`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
+- **Understanding RAG from Scratch | martinuke0's Blog** - (Rank Change: `+972`) ([File](../ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md))
+- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+972`) ([File](../ai/rag/arxiv-2606-29031.md))
+- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+972`) ([File](../ai/research/arxiv-2606-26428.md))
+- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+972`) ([File](../ai/research/arxiv-2606-21887.md))
 
 ## 🔄 Essential Tier Transitions
 
