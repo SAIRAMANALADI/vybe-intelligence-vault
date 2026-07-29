@@ -1399,6 +1399,7 @@ Resources organized by keyword tags.
   - [How We Use n8n to Build and Control AI Agents – Keeping Business in Focus | beezwax blog](../ai/rag/how-we-use-n8n-to-build-and-control-ai-agents-keep.md)
   - [How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](../ai/agents/huggingface-blog-mishig-spaces-agents-md.md)
   - [How does GitHub compare to other DevOps tools? · GitHub](../ai/rag/how-does-github-compare-to-other-devops-tools-gith.md)
+  - [How much can you delegate to agents?](../ai/community/how-much-can-you-delegate-to-agents.md)
   - [How to Detect and Measure the AI Dangers to Democracy](../ai/agents/arxiv-2606-16054.md)
   - [How to Implement RAG (Retrieval Augmented Generation) in 2025 | Complete Tutorial](../ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md)
   - [How to programmatically estimate baud rate of an FSK-2 signal in C#? - Signal Processing Stack Exchange](../ai/rag/how-to-programmatically-estimate-baud-rate-of-an-f.md)
@@ -3399,12 +3400,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI in Linux](../ai/community/ai-in-linux.md)
-  - [Ask HN: My domain registrar (Hover) rug-pulled me for $3000](../ai/community/ask-hn-my-domain-registrar-hover-rug-pulled-me-for.md)
-  - [Disrupting supply chain attacks on NPM and GitHub Actions](../ai/community/disrupting-supply-chain-attacks-on-npm-and-github.md)
+  - [Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals](../ai/community/commodification-of-intelligence-good-bad-and-ugly.md)
   - [Document-borne AI worms can self-propagate through Copilot for Word](../ai/community/document-borne-ai-worms-can-self-propagate-through.md)
   - [GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?](../ai/community/gpt-5-6-vs-claude-fable-5-for-physical-ai-which-pe.md)
-  - [Hunter-gatherers introduced fish to a mountain lake 7000 years ago](../ai/community/hunter-gatherers-introduced-fish-to-a-mountain-lak.md)
   - [More Tailscale tricks for your jailbroken Kindle](../ai/community/more-tailscale-tricks-for-your-jailbroken-kindle.md)
 
 ## animation
@@ -3745,6 +3743,7 @@ Resources organized by keyword tags.
   - [SkillOpt-Lite: Better and Faster Agent Self-evolution via One Line of Vibe](../ai/agents/arxiv-2607-03451.md)
   - [Skilljar Academy](../ai/rag/skilljar-academy.md)
   - [Snyk VulnBench JS 1.0: Can LLMs Find the Same Bugs Twice?](../ai/agents/arxiv-2606-15762.md)
+  - [Some thoughts about Anthropic's new cryptanalysis results](../ai/community/some-thoughts-about-anthropic-s-new-cryptanalysis.md)
   - [Sovereign, Open Source Retrieval-Augmented Generation](../ai/rag/sovereign-open-source-retrieval-augmented-generati.md)
   - [SpatialThinker: Reinforcing Scene Graph-Grounded Spatial Reasoning via Dense Rewards](../ai/rag/arxiv-2511-07403.md)
   - [Specification Grounding Drives Test Effectiveness for LLM Code](../ai/rag/arxiv-2607-06636.md)
@@ -13394,7 +13393,6 @@ Resources organized by keyword tags.
   - [AI and ML | Google Cloud Documentation](../ai/rag/ai-and-ml-google-cloud-documentation.md)
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
-  - [AI in Linux](../ai/community/ai-in-linux.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
   - [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](../ai/research/arxiv-2506-16898.md)
@@ -13529,7 +13527,6 @@ Resources organized by keyword tags.
   - [AsciiDoc](../ai/rag/asciidoc.md)
   - [AsciiDoc Language Documentation | Asciidoctor Docs](../ai/resources/asciidoc-language-documentation-asciidoctor-docs.md)
   - [Asciidoctor | A fast, open source text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocB](../ai/rag/asciidoctor-a-fast-open-source-text-processor-and.md)
-  - [Ask HN: My domain registrar (Hover) rug-pulled me for $3000](../ai/community/ask-hn-my-domain-registrar-hover-rug-pulled-me-for.md)
   - [Assessing the Operational Impact of Poisoning Attacks over Augmented 3D Point Cloud Public Datasets for Connected and Autonomous Vehicles](../ai/agents/arxiv-2607-06484.md)
   - [Associated Press Stylebook](../ai/resources/associated-press-stylebook.md)
   - [Asymptotically Optimal Regret for Reinforcement Learning without Horizon Dependence](../ai/research/arxiv-2607-19854.md)
@@ -13725,6 +13722,7 @@ Resources organized by keyword tags.
   - [Combining Retrieval-Augmented Text Generation with LLMs for Reading Content Recommendations](../ai/rag/arxiv-2606-14817.md)
   - [Commercial UAV Expo | Drone Conference & Trade Show](../ai/resources/commercial-uav-expo-drone-conference-trade-show.md)
   - [Commercial UAV News](../ai/rag/commercial-uav-news.md)
+  - [Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals](../ai/community/commodification-of-intelligence-good-bad-and-ugly.md)
   - [CommonMark](../ai/resources/commonmark.md)
   - [CommonMark Spec](../ai/resources/commonmark-spec.md)
   - [Community Participation Guidelines — Mozilla](../ai/rag/community-participation-guidelines-mozilla.md)
@@ -13864,7 +13862,6 @@ Resources organized by keyword tags.
   - [Discovering Functionally Selective Brain Regions with a Deep Topographic Multimodal Model](../ai/rag/arxiv-2606-09770.md)
   - [Discovery and inference beyond linearity for epidemiological data by integrating Bayesian regression, tree ensembles and Shapley values](../ai/research/arxiv-2505-00571.md)
   - [Disentangling Forced and Internal Climate Variability in Single Realizations using Dynamic Mode Decomposition with Control](../ai/agents/arxiv-2607-18298.md)
-  - [Disrupting supply chain attacks on NPM and GitHub Actions](../ai/community/disrupting-supply-chain-attacks-on-npm-and-github.md)
   - [Distributed General-Purpose Agent Networks: Architecture, Key Mechanisms, and Prototypes](../ai/agents/arxiv-2606-17368.md)
   - [Diátaxis](../ai/resources/diataxis.md)
   - [Do AI-Native Biotechs Need Departments? Benchmarking Company World Models for AI-Driven Drug Development](../ai/agents/arxiv-2607-18696.md)
@@ -14247,6 +14244,7 @@ Resources organized by keyword tags.
   - [How YouTube Works: Giving Everyone a Voice](../ai/resources/how-youtube-works-giving-everyone-a-voice.md)
   - [How building an HTML-first site doubled our users overnight](../ai/rag/how-building-an-html-first-site-doubled-our-users.md)
   - [How do we ensure our IoT products process information lawfully? | ICO](../ai/rag/how-do-we-ensure-our-iot-products-process-informat.md)
+  - [How much can you delegate to agents?](../ai/community/how-much-can-you-delegate-to-agents.md)
   - [How to DP-fy Your Data: A Practical Guide to Generating Synthetic Data With Differential Privacy](../ai/research/arxiv-2512-03238.md)
   - [How to Implement RAG (Retrieval Augmented Generation) in 2025 | Complete Tutorial](../ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md)
   - [How to contribute — Contributing to Godot](../ai/rag/how-to-contribute-contributing-to-godot.md)
@@ -14259,7 +14257,6 @@ Resources organized by keyword tags.
   - [Human-In-The-Loop Machine Learning for Safe and Ethical Autonomous Vehicles: Principles, Challenges, and Opportunities](../ai/agents/arxiv-2408-12548.md)
   - [Human-in-the-Loop Atlas-Based 3D Asset Segmentation for Interactive Content Workflows](../ai/research/arxiv-2606-17824.md)
   - [Human-in-the-Loop User Feedback Affects Perceived Accuracy and Trust, but Task Subjectivity Matters](../ai/research/arxiv-2607-17548.md)
-  - [Hunter-gatherers introduced fish to a mountain lake 7000 years ago](../ai/community/hunter-gatherers-introduced-fish-to-a-mountain-lak.md)
   - [HyGRL: Adaptive Hybrid Graph Reasoning for Multi-Entity Questions](../ai/rag/arxiv-2607-19398.md)
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
@@ -14687,6 +14684,7 @@ Resources organized by keyword tags.
   - [Parameter-Efficient Continual Fine-Tuning: A Survey](../ai/research/arxiv-2504-13822.md)
   - [Partial Contracts Suffice: Sound, LLM-Inferred Regression Verification](../ai/research/arxiv-2607-10291.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Passkeys for Developers](../ai/rag/passkeys-for-developers.md)
   - [Pattern-Aware Graph Neural Networks for Handling Missing Data](../ai/rag/arxiv-2607-08915.md)
   - [PentesterFlow/agent](../ai/agents/pentesterflow-agent.md)
@@ -15023,6 +15021,7 @@ Resources organized by keyword tags.
   - [Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation](../ai/agents/arxiv-2606-23743.md)
   - [Solana Price Today | SOL Live Price, Chart & Market Cap | OKX United States](../ai/rag/solana-price-today-sol-live-price-chart-market-cap.md)
   - [SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets](../ai/agents/arxiv-2607-08681.md)
+  - [Some thoughts about Anthropic's new cryptanalysis results](../ai/community/some-thoughts-about-anthropic-s-new-cryptanalysis.md)
   - [Something from Nothing: Data Augmentation for Robust Severity Level Estimation of Dysarthric Speech](../ai/rag/arxiv-2603-15988.md)
   - [Sound Probabilistic Safety Bounds for Large Language Models](../ai/rag/arxiv-2607-20286.md)
   - [Soundwaves settle debate about elusive quantum particle | Cornell Chronicle](../ai/rag/soundwaves-settle-debate-about-elusive-quantum-par.md)
@@ -15492,6 +15491,7 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -28884,7 +28884,6 @@ Resources organized by keyword tags.
   - [Developing your AI BS detector (v2) - Adam Drake](../ai/rag/developing-your-ai-bs-detector-v2-adam-drake.md)
   - [Differential protection against SARS-CoV-2 reinfection pre- and post-Omicron | Nature](../ai/rag/differential-protection-against-sars-cov-2-reinfec.md)
   - [Digital Millennium Copyright Act - Wikipedia](../ai/rag/digital-millennium-copyright-act-wikipedia.md)
-  - [Disrupting supply chain attacks on NPM and GitHub Actions](../ai/community/disrupting-supply-chain-attacks-on-npm-and-github.md)
   - [Docker Hub Container Image Library | App Containerization](../ai/rag/docker-hub-container-image-library-app-containeriz.md)
   - [Docker Hub | Docker Docs](../ai/resources/docker-hub-docker-docs.md)
   - [Documentation Overview - TACC HPC Documentation](../ai/rag/documentation-overview-tacc-hpc-documentation.md)
@@ -34724,4 +34723,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-29T22:28:00.939525+05:30*
+*Index generated on 2026-07-30T01:30:20.112633+05:30*

@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - scripts
-status: active
+status: inactive
 resource_id: hackernews:disrupting-supply-chain-attacks-on-npm-and-github
 first_seen: '2026-07-29T20:02:00.471497+05:30'
 last_seen: '2026-07-29T22:10:46.422167+05:30'
 last_checked: '2026-07-29T22:10:46.422167+05:30'
 health_score: 100
 ---
+
 
 # Disrupting supply chain attacks on NPM and GitHub Actions
 

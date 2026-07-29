@@ -11859,13 +11859,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI in Linux](../ai/community/ai-in-linux.md)
-  - [Ask HN: My domain registrar (Hover) rug-pulled me for $3000](../ai/community/ask-hn-my-domain-registrar-hover-rug-pulled-me-for.md)
-  - [Disrupting supply chain attacks on NPM and GitHub Actions](../ai/community/disrupting-supply-chain-attacks-on-npm-and-github.md)
+  - [Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals](../ai/community/commodification-of-intelligence-good-bad-and-ugly.md)
   - [Document-borne AI worms can self-propagate through Copilot for Word](../ai/community/document-borne-ai-worms-can-self-propagate-through.md)
   - [GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?](../ai/community/gpt-5-6-vs-claude-fable-5-for-physical-ai-which-pe.md)
-  - [Hunter-gatherers introduced fish to a mountain lake 7000 years ago](../ai/community/hunter-gatherers-introduced-fish-to-a-mountain-lak.md)
+  - [How much can you delegate to agents?](../ai/community/how-much-can-you-delegate-to-agents.md)
   - [More Tailscale tricks for your jailbroken Kindle](../ai/community/more-tailscale-tricks-for-your-jailbroken-kindle.md)
+  - [Some thoughts about Anthropic's new cryptanalysis results](../ai/community/some-thoughts-about-anthropic-s-new-cryptanalysis.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -15123,4 +15122,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-29T22:28:01.108431+05:30*
+*Index generated on 2026-07-30T01:30:20.277866+05:30*
