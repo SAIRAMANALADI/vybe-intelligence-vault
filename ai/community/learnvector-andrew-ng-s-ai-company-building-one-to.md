@@ -13,13 +13,14 @@ collected_at: '2026-07-29T17:05:07.011046+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:learnvector-andrew-ng-s-ai-company-building-one-to
 first_seen: '2026-07-29T09:08:12.339566+05:30'
 last_seen: '2026-07-29T17:05:07.011046+05:30'
 last_checked: '2026-07-29T17:05:07.011046+05:30'
 health_score: 100
 ---
+
 
 # LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences
 

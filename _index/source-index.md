@@ -11859,12 +11859,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Hubble: Open-source notetaking app for you and your agents](../ai/community/hubble-open-source-notetaking-app-for-you-and-your.md)
-  - [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](../ai/community/learnvector-andrew-ng-s-ai-company-building-one-to.md)
+  - [Disrupting supply chain attacks on NPM and GitHub Actions](../ai/community/disrupting-supply-chain-attacks-on-npm-and-github.md)
+  - [Document-borne AI worms can self-propagate through Copilot for Word](../ai/community/document-borne-ai-worms-can-self-propagate-through.md)
+  - [Hunter-gatherers introduced fish to a mountain lake 7000 years ago](../ai/community/hunter-gatherers-introduced-fish-to-a-mountain-lak.md)
   - [More Tailscale tricks for your jailbroken Kindle](../ai/community/more-tailscale-tricks-for-your-jailbroken-kindle.md)
-  - [Now is the time to give LLMs access to the ACM digital library](../ai/community/now-is-the-time-to-give-llms-access-to-the-acm-dig.md)
+  - [Show HN: Echologue – the private AI voice journal I built for myself](../ai/community/show-hn-echologue-the-private-ai-voice-journal-i-b.md)
   - [Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels](../ai/community/show-hn-vimgolf-ai-learn-vim-by-playing-through-a.md)
-  - [Una GPS smart watch – Repairable, USB-C charging, developer-friendly](../ai/community/una-gps-smart-watch-repairable-usb-c-charging-deve.md)
+  - [TokenTown: A visual way to understand how LLMs work](../ai/community/tokentown-a-visual-way-to-understand-how-llms-work.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -15122,4 +15123,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-29T17:22:16.488118+05:30*
+*Index generated on 2026-07-29T20:19:00.883708+05:30*

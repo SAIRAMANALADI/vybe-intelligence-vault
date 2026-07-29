@@ -4,24 +4,26 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-07-29T17:05:50.255826+05:30'
-published_at: '2026-07-29T11:15:49Z'
+collected_at: '2026-07-29T20:02:41.229463+05:30'
+published_at: '2026-07-29T14:30:51Z'
 tags:
 - github-repo
+- hackernews
 - meta-ai
 - models
 - python
 - rag
-stars: 9892
+- reddit
+stars: 9897
 language: Python
 status: active
 archived: false
 created_at: '2025-06-05T08:12:35Z'
-pushed_at: '2026-07-20T19:00:56Z'
+pushed_at: '2026-07-29T11:43:11Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-07-29T17:05:50.255826+05:30'
-last_seen: '2026-07-29T17:05:50.255826+05:30'
-last_checked: '2026-07-29T17:05:50.255826+05:30'
+first_seen: '2026-07-29T20:02:41.229463+05:30'
+last_seen: '2026-07-29T20:02:41.229463+05:30'
+last_checked: '2026-07-29T20:02:41.229463+05:30'
 health_score: 100
 ---
 
@@ -29,7 +31,9 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive guide to Retrieval-Augmented Generation (RAG) for large language model (LLM) application development, covering full-stack implementation.
+*   Provides a comprehensive, full-stack guide for developing RAG-based LLM applications using Python.
+*   Demonstrates practical integration of orchestration frameworks (LangChain, LlamaIndex) with vector/graph databases (Milvus, Neo4j) and various LLMs (e.g., DeepSeek, Kimi-K2).
+*   Covers advanced RAG methodologies including embedding techniques and multimodal data processing for enhanced retrieval.
 
 ## Why It Matters
 
@@ -38,14 +42,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 9892
-- Forks: 4950
+- Stars: 9897
+- Forks: 4951
 - Language: Python
 - Topics: ai, deepseek, embedding, kimi-k2, langchain, llama-index, llm, milvus, multimodal, neo4j, python, rag
-- Last Updated: 2026-07-29T11:15:49Z
+- Last Updated: 2026-07-29T14:30:51Z
 - Archived: No
 - Created At: 2025-06-05T08:12:35Z
-- Pushed At: 2026-07-20T19:00:56Z
+- Pushed At: 2026-07-29T11:43:11Z
 
 ## Possible Use Cases
 

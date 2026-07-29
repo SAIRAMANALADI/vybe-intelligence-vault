@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-72%2C928-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-129%2C672-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--29-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **72,928 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **129,672 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 14,490</p>
-        <p><b>Active:</b> 14,108 | <b>Inactive:</b> 382</p>
+        <p><b>Resources tracked:</b> 15,464</p>
+        <p><b>Active:</b> 15,078 | <b>Inactive:</b> 386</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,056</p>
+        <p><b>Archive Files:</b> 57,848</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 72,928 files</p>
-        <p><b>Last Update:</b> 2026-07-29 19:42 IST</p>
+        <p><b>Total Vault Size:</b> 129,672 files</p>
+        <p><b>Last Update:</b> 2026-07-29 20:21 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,28 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[datarobot-community/datarobot-agent-templates](ai/rag/datarobot-community-datarobot-agent-templates.md)** • Rank: <kbd>+969</kbd>
-- 🔼 **[TEN-framework/ten-framework](ai/agents/ten-framework-ten-framework.md)** • Rank: <kbd>+969</kbd>
-- 🔼 **[airweave-ai/airweave](ai/rag/airweave-ai-airweave.md)** • Rank: <kbd>+969</kbd>
-- 🔼 **[vercel/ai](ai/agents/vercel-ai.md)** • Rank: <kbd>+969</kbd>
-- 🔼 **[continuedev/continue](ai/agents/continuedev-continue.md)** • Rank: <kbd>+969</kbd>
+- 🔼 **[More Tailscale tricks for your jailbroken Kindle](ai/community/more-tailscale-tricks-for-your-jailbroken-kindle.md)** • <kbd>+74 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels](ai/community/show-hn-vimgolf-ai-learn-vim-by-playing-through-a.md)** • <kbd>+21 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+980</kbd>
+- 🔼 **[React Canaries: Enabling Incremental Feature Rollout Outside Meta](web-development/react-canaries-enabling-incremental-feature-rollou.md)** • Rank: <kbd>+8</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Document-borne AI worms can self-propagate through Copilot for Word](ai/community/document-borne-ai-worms-can-self-propagate-through.md)** • Score: `150`
+- 🆕 **[Disrupting supply chain attacks on NPM and GitHub Actions](ai/community/disrupting-supply-chain-attacks-on-npm-and-github.md)** • Score: `32`
+- 🆕 **[Show HN: Echologue – the private AI voice journal I built for myself](ai/community/show-hn-echologue-the-private-ai-voice-journal-i-b.md)** • Score: `16`
+- 🆕 **[Hunter-gatherers introduced fish to a mountain lake 7000 years ago](ai/community/hunter-gatherers-introduced-fish-to-a-mountain-lak.md)** • Score: `12`
+- 🆕 **[TokenTown: A visual way to understand how LLMs work](ai/community/tokentown-a-visual-way-to-understand-how-llms-work.md)** • Score: `4`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Una GPS smart watch – Repairable, USB-C charging, developer-friendly](ai/community/una-gps-smart-watch-repairable-usb-c-charging-deve.md)**
+- 💤 **[LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](ai/community/learnvector-andrew-ng-s-ai-company-building-one-to.md)**
+- 💤 **[Now is the time to give LLMs access to the ACM digital library](ai/community/now-is-the-time-to-give-llms-access-to-the-acm-dig.md)**
+- 💤 **[Hubble: Open-source notetaking app for you and your agents](ai/community/hubble-open-source-notetaking-app-for-you-and-your.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

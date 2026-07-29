@@ -1403,7 +1403,6 @@ Resources organized by keyword tags.
   - [How to Implement RAG (Retrieval Augmented Generation) in 2025 | Complete Tutorial](../ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md)
   - [How to programmatically estimate baud rate of an FSK-2 signal in C#? - Signal Processing Stack Exchange](../ai/rag/how-to-programmatically-estimate-baud-rate-of-an-f.md)
   - [How to run gpt-oss locally with Ollama](../ai/agents/how-to-run-gpt-oss-locally-with-ollama.md)
-  - [Hubble: Open-source notetaking app for you and your agents](../ai/community/hubble-open-source-notetaking-app-for-you-and-your.md)
   - [Hugging Face · GitHub](../ai/agents/hugging-face-github.md)
   - [Human AI Construction of Bayesian Networks for Operational Decision Support -- A Virtual Survey Approach](../ai/agents/arxiv-2607-14141.md)
   - [Human Cognition in Machines: A Unified Perspective of World Models](../ai/agents/arxiv-2604-16592.md)
@@ -3400,10 +3399,12 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](../ai/community/learnvector-andrew-ng-s-ai-company-building-one-to.md)
+  - [Disrupting supply chain attacks on NPM and GitHub Actions](../ai/community/disrupting-supply-chain-attacks-on-npm-and-github.md)
+  - [Document-borne AI worms can self-propagate through Copilot for Word](../ai/community/document-borne-ai-worms-can-self-propagate-through.md)
+  - [Hunter-gatherers introduced fish to a mountain lake 7000 years ago](../ai/community/hunter-gatherers-introduced-fish-to-a-mountain-lak.md)
   - [More Tailscale tricks for your jailbroken Kindle](../ai/community/more-tailscale-tricks-for-your-jailbroken-kindle.md)
+  - [Show HN: Echologue – the private AI voice journal I built for myself](../ai/community/show-hn-echologue-the-private-ai-voice-journal-i-b.md)
   - [Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels](../ai/community/show-hn-vimgolf-ai-learn-vim-by-playing-through-a.md)
-  - [Una GPS smart watch – Repairable, USB-C charging, developer-friendly](../ai/community/una-gps-smart-watch-repairable-usb-c-charging-deve.md)
 
 ## animation
 
@@ -13857,6 +13858,7 @@ Resources organized by keyword tags.
   - [Discovering Functionally Selective Brain Regions with a Deep Topographic Multimodal Model](../ai/rag/arxiv-2606-09770.md)
   - [Discovery and inference beyond linearity for epidemiological data by integrating Bayesian regression, tree ensembles and Shapley values](../ai/research/arxiv-2505-00571.md)
   - [Disentangling Forced and Internal Climate Variability in Single Realizations using Dynamic Mode Decomposition with Control](../ai/agents/arxiv-2607-18298.md)
+  - [Disrupting supply chain attacks on NPM and GitHub Actions](../ai/community/disrupting-supply-chain-attacks-on-npm-and-github.md)
   - [Distributed General-Purpose Agent Networks: Architecture, Key Mechanisms, and Prototypes](../ai/agents/arxiv-2606-17368.md)
   - [Diátaxis](../ai/resources/diataxis.md)
   - [Do AI-Native Biotechs Need Departments? Benchmarking Company World Models for AI-Driven Drug Development](../ai/agents/arxiv-2607-18696.md)
@@ -13868,6 +13870,7 @@ Resources organized by keyword tags.
   - [Docker + E2B: Building the Future of Trusted AI | Docker](../ai/agents/docker-e2b-building-the-future-of-trusted-ai-docke.md)
   - [Docker | Weaviate Documentation](../ai/rag/docker-weaviate-documentation.md)
   - [Docs: API Reference, Tutorials, and Integration | Twilio](../ai/rag/docs-api-reference-tutorials-and-integration-twili.md)
+  - [Document-borne AI worms can self-propagate through Copilot for Word](../ai/community/document-borne-ai-worms-can-self-propagate-through.md)
   - [Documentation Overview - TACC HPC Documentation](../ai/rag/documentation-overview-tacc-hpc-documentation.md)
   - [Domain-Validity-Gated Metamorphic Testing of Scientific ML Surrogates](../ai/research/arxiv-2606-17529.md)
   - [Données & Design par LINC](../ai/resources/donnees-design-par-linc.md)
@@ -14244,12 +14247,12 @@ Resources organized by keyword tags.
   - [How we optimized Dash's relevance judge with DSPy - Dropbox](../ai/rag/how-we-optimized-dash-s-relevance-judge-with-dspy.md)
   - [How web bloat impacts users with slow connections](../ai/rag/how-web-bloat-impacts-users-with-slow-connections.md)
   - [Hp30 & Hp60 - Kp-Index](../ai/rag/hp30-hp60-kp-index.md)
-  - [Hubble: Open-source notetaking app for you and your agents](../ai/community/hubble-open-source-notetaking-app-for-you-and-your.md)
   - [Human Vision Constrained Super-Resolution](../ai/research/arxiv-2411-17513.md)
   - [Human language technologies](../ai/companies/human-language-technologies.md)
   - [Human-In-The-Loop Machine Learning for Safe and Ethical Autonomous Vehicles: Principles, Challenges, and Opportunities](../ai/agents/arxiv-2408-12548.md)
   - [Human-in-the-Loop Atlas-Based 3D Asset Segmentation for Interactive Content Workflows](../ai/research/arxiv-2606-17824.md)
   - [Human-in-the-Loop User Feedback Affects Perceived Accuracy and Trust, but Task Subjectivity Matters](../ai/research/arxiv-2607-17548.md)
+  - [Hunter-gatherers introduced fish to a mountain lake 7000 years ago](../ai/community/hunter-gatherers-introduced-fish-to-a-mountain-lak.md)
   - [HyGRL: Adaptive Hybrid Graph Reasoning for Multi-Entity Questions](../ai/rag/arxiv-2607-19398.md)
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
@@ -14400,7 +14403,6 @@ Resources organized by keyword tags.
   - [Learn Unix the Hard Way](../ai/resources/learn-unix-the-hard-way.md)
   - [Learn Why Cypher is the Leading Language for Graph Databases](../ai/resources/learn-why-cypher-is-the-leading-language-for-graph.md)
   - [Learn from Your Mistakes: Tree-like Self-Play for Secure Code LLMs](../ai/research/arxiv-2606-03489.md)
-  - [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](../ai/community/learnvector-andrew-ng-s-ai-company-building-one-to.md)
   - [Learning Adaptive Safety Margins for Visual Navigation](../ai/research/arxiv-2607-18200.md)
   - [Learning Asymptotics with Convergence-Rate Guarantees using Linear Least Squares](../ai/research/arxiv-2607-23287.md)
   - [Learning Fair Pareto-Optimal Policies in Multi-Objective Reinforcement Learning](../ai/rag/arxiv-2606-18111.md)
@@ -14598,7 +14600,6 @@ Resources organized by keyword tags.
   - [Nondiscrimination Policy | Stanford University Bulletin](../ai/resources/nondiscrimination-policy-stanford-university-bulle.md)
   - [Nonparametric Control Koopman Operators](../ai/research/arxiv-2405-07312.md)
   - [NouveauVoice: Generating Novel Pseudo Speakers for Voice Anonymization](../ai/rag/arxiv-2607-03985.md)
-  - [Now is the time to give LLMs access to the ACM digital library](../ai/community/now-is-the-time-to-give-llms-access-to-the-acm-dig.md)
   - [Nuro—Autonomy for all. All roads, all rides. | Nuro](../ai/rag/nuro-autonomy-for-all-all-roads-all-rides-nuro.md)
   - [Nvidia is latest investor to back AV startup Nuro in $203M funding round | TechCrunch](../ai/rag/nvidia-is-latest-investor-to-back-av-startup-nuro.md)
   - [OECC2026](../ai/rag/oecc2026.md)
@@ -14987,6 +14988,7 @@ Resources organized by keyword tags.
   - [Seven Security Challenges in Cross-domain Multi-agent LLM Systems](../ai/agents/arxiv-2505-23847.md)
   - [Sexualised synthetic personas encode and amplify gendered power asymmetries through voice](../ai/research/arxiv-2606-21366.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: Echologue – the private AI voice journal I built for myself](../ai/community/show-hn-echologue-the-private-ai-voice-journal-i-b.md)
   - [Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels](../ai/community/show-hn-vimgolf-ai-learn-vim-by-playing-through-a.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -15195,6 +15197,7 @@ Resources organized by keyword tags.
   - [Tim Kadlec](../ai/rag/tim-kadlec.md)
   - [To Erase, or Not to Erase: Robust Training-Free Concept Erasure with Preservation aware Adaptive Ranked Subspace Expansion](../ai/research/arxiv-2607-23492.md)
   - [TokAN: Accent Normalization Using Self-Supervised Speech Tokens](../ai/research/arxiv-2607-03928.md)
+  - [TokenTown: A visual way to understand how LLMs work](../ai/community/tokentown-a-visual-way-to-understand-how-llms-work.md)
   - [Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md)
   - [Top 23 rag Open-Source Projects | LibHunt](../ai/rag/top-23-rag-open-source-projects-libhunt.md)
   - [Top 7 GitHub Repos to Master Retrieval-Augmented Generation](../ai/rag/top-7-github-repos-to-master-retrieval-augmented-g.md)
@@ -15274,7 +15277,6 @@ Resources organized by keyword tags.
   - [UZAY - Uzay Teknolojileri Araştırma Enstitüsü — TÜBİTAK UZAY](../ai/resources/uzay-uzay-teknolojileri-arastirma-enstitusu-tubita.md)
   - [Ubuntu on WSL documentation](../ai/rag/ubuntu-on-wsl-documentation.md)
   - [Ulusal Destek Programları | TÜBİTAK | Türkiye Bilimsel ve Teknolojik Araştırma Kurumu](../ai/resources/ulusal-destek-programlari-tubitak-turkiye-bilimsel.md)
-  - [Una GPS smart watch – Repairable, USB-C charging, developer-friendly](../ai/community/una-gps-smart-watch-repairable-usb-c-charging-deve.md)
   - [Unassigned Agents in Compilation-based Multi-agent Path Finding](../ai/agents/arxiv-2606-15797.md)
   - [Unbiased Open World Regularization for Fair Self-Supervised Learning](../ai/research/arxiv-2607-22149.md)
   - [Unboxing Diffusion Models for the Arts: Interactive Model Bending and Practice-Based Explainability](../ai/research/arxiv-2607-22428.md)
@@ -15486,6 +15488,7 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -16038,7 +16041,7 @@ Resources organized by keyword tags.
 
 ## llm
 
-  - [Now is the time to give LLMs access to the ACM digital library](../ai/community/now-is-the-time-to-give-llms-access-to-the-acm-dig.md)
+  - [TokenTown: A visual way to understand how LLMs work](../ai/community/tokentown-a-visual-way-to-understand-how-llms-work.md)
 
 ## mdx
 
@@ -28637,6 +28640,7 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [dart compile](../ai/rag/dart-compile.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents · PyPI](../ai/agents/deepagents-pypi.md)
@@ -28882,6 +28886,7 @@ Resources organized by keyword tags.
   - [Developing your AI BS detector (v2) - Adam Drake](../ai/rag/developing-your-ai-bs-detector-v2-adam-drake.md)
   - [Differential protection against SARS-CoV-2 reinfection pre- and post-Omicron | Nature](../ai/rag/differential-protection-against-sars-cov-2-reinfec.md)
   - [Digital Millennium Copyright Act - Wikipedia](../ai/rag/digital-millennium-copyright-act-wikipedia.md)
+  - [Disrupting supply chain attacks on NPM and GitHub Actions](../ai/community/disrupting-supply-chain-attacks-on-npm-and-github.md)
   - [Docker Hub Container Image Library | App Containerization](../ai/rag/docker-hub-container-image-library-app-containeriz.md)
   - [Docker Hub | Docker Docs](../ai/resources/docker-hub-docker-docs.md)
   - [Documentation Overview - TACC HPC Documentation](../ai/rag/documentation-overview-tacc-hpc-documentation.md)
@@ -34721,4 +34726,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-29T17:22:16.326629+05:30*
+*Index generated on 2026-07-29T20:19:00.711290+05:30*

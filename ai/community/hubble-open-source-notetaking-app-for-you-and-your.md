@@ -13,13 +13,14 @@ collected_at: '2026-07-29T17:05:07.716261+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:hubble-open-source-notetaking-app-for-you-and-your
 first_seen: '2026-07-29T09:08:13.328443+05:30'
 last_seen: '2026-07-29T17:05:07.716261+05:30'
 last_checked: '2026-07-29T17:05:07.716261+05:30'
 health_score: 100
 ---
+
 
 # Hubble: Open-source notetaking app for you and your agents
 

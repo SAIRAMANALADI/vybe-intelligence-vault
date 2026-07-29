@@ -13,13 +13,14 @@ collected_at: '2026-07-29T17:05:08.183948+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:una-gps-smart-watch-repairable-usb-c-charging-deve
 first_seen: '2026-07-29T01:23:17.889015+05:30'
 last_seen: '2026-07-29T17:05:08.183948+05:30'
 last_checked: '2026-07-29T17:05:08.183948+05:30'
 health_score: 100
 ---
+
 
 # Una GPS smart watch – Repairable, USB-C charging, developer-friendly
 
