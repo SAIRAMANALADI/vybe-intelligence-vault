@@ -13,13 +13,14 @@ collected_at: '2026-07-29T09:08:12.518954+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:chip-stocks-slide-in-us-and-asia-as-ai-jitters-rat
 first_seen: '2026-07-29T09:08:12.518954+05:30'
 last_seen: '2026-07-29T09:08:12.518954+05:30'
 last_checked: '2026-07-29T09:08:12.518954+05:30'
 health_score: 100
 ---
+
 
 # Chip stocks slide in US and Asia as AI jitters rattle investors
 

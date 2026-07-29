@@ -19,13 +19,13 @@ AI agents represent the transition from passive text generation to active, goal-
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 2669 resources matched in the intelligence vault.
+Active signals: 2735 resources matched in the intelligence vault.
 Recently detected signals:
-- [Skillware: A Software Ontology and Engineering Lifecycle for Persistent Behavioral Artifacts](../ai/agents/arxiv-2607-18970.md) (Source: Unknown Source) - Collected 2026-07-29
-- [Sparse Evidence Can Suffice: Agentic Evidence Seeking for Multimodal Video Misinformation Detection](../ai/rag/arxiv-2607-18080.md) (Source: Unknown Source) - Collected 2026-07-29
-- [Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents](../ai/agents/arxiv-2607-15263.md) (Source: Unknown Source) - Collected 2026-07-29
-- [How Do Practitioners Build SE Agents? Insights from a Mixed-Methods Study](../ai/agents/arxiv-2607-10856.md) (Source: Unknown Source) - Collected 2026-07-29
-- [Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation](../ai/agents/arxiv-2607-05382.md) (Source: Unknown Source) - Collected 2026-07-29
+- [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md) (Source: Unknown Source) - Collected 2026-07-29
+- [TEN-framework/ten-framework](../ai/agents/ten-framework-ten-framework.md) (Source: Unknown Source) - Collected 2026-07-29
+- [airweave-ai/airweave](../ai/rag/airweave-ai-airweave.md) (Source: Unknown Source) - Collected 2026-07-29
+- [vercel/ai](../ai/agents/vercel-ai.md) (Source: Unknown Source) - Collected 2026-07-29
+- [continuedev/continue](../ai/agents/continuedev-continue.md) (Source: Unknown Source) - Collected 2026-07-29
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -76,125 +76,125 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Framework for resilient AI agents**: LangGraph provides a Python-based framework for building, deploying, and managing resilient multi-agent systems, leveraging LLMs (e.g., OpenAI, Gemini) and ...
 
-### 10. [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md) ([GitHub](https://github.com/datarobot-community/datarobot-agent-templates))
-- Stars: 0
-- Language: Unknown
-- Description: - **Purpose**: Provides reusable templates for building agentic workflows integrating DataRobot, CrewAI, LangGraph, LlamaIndex, and LLM frameworks.
-
-### 11. [pingwu/crewai-similar-framework-finder-template](../ai/agents/pingwu-crewai-similar-framework-finder-template.md) ([GitHub](https://github.com/pingwu/crewai-similar-framework-finder-template))
+### 10. [pingwu/crewai-similar-framework-finder-template](../ai/agents/pingwu-crewai-similar-framework-finder-template.md) ([GitHub](https://github.com/pingwu/crewai-similar-framework-finder-template))
 - Stars: 0
 - Language: Unknown
 - Description: - Python-based template designed to identify and compare frameworks similar to CrewAI.
 
-### 12. [ksm26/Multi-AI-Agent-Systems-with-crewAI](../ai/agents/ksm26-multi-ai-agent-systems-with-crewai.md) ([GitHub](https://github.com/ksm26/multi-ai-agent-systems-with-crewai))
+### 11. [ksm26/Multi-AI-Agent-Systems-with-crewAI](../ai/agents/ksm26-multi-ai-agent-systems-with-crewai.md) ([GitHub](https://github.com/ksm26/multi-ai-agent-systems-with-crewai))
 - Stars: 0
 - Language: Unknown
 - Description: - **Multi-Agent System Framework**: Demonstrates specialized AI agent teams using the open-source `crewAI` library to automate complex, multi-step business processes (e.g., financial analysis, even...
 
-### 13. [langchain-ai/langgraph-swarm-py](../ai/rag/langchain-ai-langgraph-swarm-py.md) ([GitHub](https://github.com/langchain-ai/langgraph-swarm-py))
+### 12. [langchain-ai/langgraph-swarm-py](../ai/rag/langchain-ai-langgraph-swarm-py.md) ([GitHub](https://github.com/langchain-ai/langgraph-swarm-py))
 - Stars: 0
 - Language: Unknown
 - Description: - **Multi-Agent Orchestration Framework**: Implements a swarm-based architecture for coordinating multiple LLM-driven agents in Python, leveraging LangGraph for stateful workflows and dynamic agent...
 
-### 14. [crewAIInc/crewAI](../ai/rag/crewaiinc-crewai.md) ([GitHub](https://github.com/crewaiinc/crewai))
+### 13. [crewAIInc/crewAI](../ai/rag/crewaiinc-crewai.md) ([GitHub](https://github.com/crewaiinc/crewai))
 - Stars: 0
 - Language: Unknown
 - Description: - **Orchestration Framework**: CrewAI enables role-playing, autonomous AI agents to collaborate via structured task delegation and role-based workflows, optimizing multi-agent task execution.
 
-### 15. [krishnaik06/Agentic-LanggraphCrash-course](../ai/agents/krishnaik06-agentic-langgraphcrash-course.md) ([GitHub](https://github.com/krishnaik06/agentic-langgraphcrash-course))
+### 14. [krishnaik06/Agentic-LanggraphCrash-course](../ai/agents/krishnaik06-agentic-langgraphcrash-course.md) ([GitHub](https://github.com/krishnaik06/agentic-langgraphcrash-course))
 - Stars: 0
 - Language: Unknown
 - Description: - **Repository Overview**: GitHub repository `Agentic-LanggraphCrash-course` by `krishnaik06` containing Jupyter Notebooks, last updated on **2026-07-14**.
 
-### 16. [langchain-ai/retrieval-agent-template](../ai/rag/langchain-ai-retrieval-agent-template.md) ([GitHub](https://github.com/langchain-ai/retrieval-agent-template))
+### 15. [langchain-ai/retrieval-agent-template](../ai/rag/langchain-ai-retrieval-agent-template.md) ([GitHub](https://github.com/langchain-ai/retrieval-agent-template))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Template repository for building retrieval agents using LangGraph, a framework for constructing stateful, multi-actor applications with LLMs.
 
-### 17. [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md) ([GitHub](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template))
-- Stars: 0
-- Language: Unknown
-- Description: - **FastAPI + LangGraph Integration**: Production-ready template combining FastAPI for REST endpoints with LangGraph for building scalable, stateful AI agent workflows, including memory management ...
-
-### 18. [Denis2054/Context-Engineering-for-Multi-Agent-Systems](../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md) ([GitHub](https://github.com/denis2054/context-engineering-for-multi-agent-systems))
+### 16. [Denis2054/Context-Engineering-for-Multi-Agent-Systems](../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md) ([GitHub](https://github.com/denis2054/context-engineering-for-multi-agent-systems))
 - Stars: 0
 - Language: Unknown
 - Description: - **Universal MAS Blueprint**: Provides a production-ready, domain-agnostic framework for Multi-Agent Systems (MAS) using a high-level semantic orchestration engine, replacing rigid workflows with ...
 
-### 19. [crewAIInc/awesome-crewai](../ai/rag/crewaiinc-awesome-crewai.md) ([GitHub](https://github.com/crewaiinc/awesome-crewai))
+### 17. [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md) ([GitHub](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template))
+- Stars: 0
+- Language: Unknown
+- Description: *   FastAPI-centric template for building production-ready AI agent applications.
+
+### 18. [crewAIInc/awesome-crewai](../ai/rag/crewaiinc-awesome-crewai.md) ([GitHub](https://github.com/crewaiinc/awesome-crewai))
 - Stars: 0
 - Language: Unknown
 - Description: - **Curated Open-Source Projects**: Repository aggregates community-built AI agent projects leveraging CrewAI, facilitating discovery and contribution.
 
-### 20. [okahu-demos/crewai-travel-agent](../ai/agents/okahu-demos-crewai-travel-agent.md) ([GitHub](https://github.com/okahu-demos/crewai-travel-agent))
+### 19. [okahu-demos/crewai-travel-agent](../ai/agents/okahu-demos-crewai-travel-agent.md) ([GitHub](https://github.com/okahu-demos/crewai-travel-agent))
 - Stars: 0
 - Language: Unknown
 - Description: A travel agent python app built with CrewAI framework using GPT model from OpenAI to be run locally or on CI/CD with Github Actions.
 
-### 21. [panaversity/langgraph-agents-template](../ai/agents/panaversity-langgraph-agents-template.md) ([GitHub](https://github.com/panaversity/langgraph-agents-template))
+### 20. [panaversity/langgraph-agents-template](../ai/agents/panaversity-langgraph-agents-template.md) ([GitHub](https://github.com/panaversity/langgraph-agents-template))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Provides a starter template for constructing multi-agent systems using Python and LangGraph.
 
-### 22. [braincrew-lab/langgraph-mcp-agents](../ai/agents/braincrew-lab-langgraph-mcp-agents.md) ([GitHub](https://github.com/braincrew-lab/langgraph-mcp-agents))
+### 21. [braincrew-lab/langgraph-mcp-agents](../ai/agents/braincrew-lab-langgraph-mcp-agents.md) ([GitHub](https://github.com/braincrew-lab/langgraph-mcp-agents))
 - Stars: 0
 - Language: Unknown
 - Description: - **LangGraph + ReAct Agent**: Implements a LangGraph-based ReAct (Reasoning and Acting) agent architecture with Model Context Protocol (MCP) integration for dynamic tool usage and reasoning loops.
 
-### 23. [sickn33/agentic-awesome-skills](../ai/agents/sickn33-agentic-awesome-skills.md) ([GitHub](https://github.com/sickn33/agentic-awesome-skills))
+### 22. [sickn33/agentic-awesome-skills](../ai/agents/sickn33-agentic-awesome-skills.md) ([GitHub](https://github.com/sickn33/agentic-awesome-skills))
 - Stars: 0
 - Language: Unknown
 - Description: - **Agent-First Control Plane**: AAS Core provides a local-first architecture for agentic systems, enabling catalog discovery, agent-owned skill selection, stack validation, and planning with suppo...
 
-### 24. [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md) ([GitHub](https://github.com/nirdiamant/agents-towards-production))
+### 23. [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md) ([GitHub](https://github.com/nirdiamant/agents-towards-production))
 - Stars: 0
 - Language: Unknown
 - Description: *   Offers end-to-end, code-first tutorials for building and deploying production-grade GenAI agents, from prototyping to enterprise-scale.
 
-### 25. [jim-schwoebel/awesome_ai_agents](../ai/rag/jim-schwoebel-awesome-ai-agents.md) ([GitHub](https://github.com/jim-schwoebel/awesome_ai_agents))
+### 24. [jim-schwoebel/awesome_ai_agents](../ai/rag/jim-schwoebel-awesome-ai-agents.md) ([GitHub](https://github.com/jim-schwoebel/awesome_ai_agents))
 - Stars: 0
 - Language: Unknown
 - Description: - **Comprehensive Resource Hub**: Curated collection of 1,500+ tools, frameworks, and resources focused on AI agents, covering agent-based modeling, multi-agent systems, agentic workflows, and CLI ...
 
-### 26. [muhammad-uzair-yasin/CrewAi_starter_template](../ai/agents/muhammad-uzair-yasin-crewai-starter-template.md) ([GitHub](https://github.com/muhammad-uzair-yasin/crewai_starter_template))
+### 25. [muhammad-uzair-yasin/CrewAi_starter_template](../ai/agents/muhammad-uzair-yasin-crewai-starter-template.md) ([GitHub](https://github.com/muhammad-uzair-yasin/crewai_starter_template))
 - Stars: 0
 - Language: Unknown
 - Description: - **Repository**: `muhammad-uzair-yasin/CrewAi_starter_template` (Python-based starter template for CrewAI)
 
-### 27. [masumi-network/crewai-masumi-quickstart-template](../ai/agents/masumi-network-crewai-masumi-quickstart-template.md) ([GitHub](https://github.com/masumi-network/crewai-masumi-quickstart-template))
+### 26. [masumi-network/crewai-masumi-quickstart-template](../ai/agents/masumi-network-crewai-masumi-quickstart-template.md) ([GitHub](https://github.com/masumi-network/crewai-masumi-quickstart-template))
 - Stars: 0
 - Language: Unknown
 - Description: - **Template Purpose**: Provides a quickstart structure for integrating CrewAI with Masumi Network, though no explicit description is provided.
 
-### 28. [NirDiamant/GenAI_Agents](../ai/rag/nirdiamant-genai-agents.md) ([GitHub](https://github.com/nirdiamant/genai_agents))
+### 27. [NirDiamant/GenAI_Agents](../ai/rag/nirdiamant-genai-agents.md) ([GitHub](https://github.com/nirdiamant/genai_agents))
 - Stars: 0
 - Language: Unknown
 - Description: - **Comprehensive Resource**: Repository offering 50+ tutorials and implementations for Generative AI Agent techniques, spanning from basic conversational bots to advanced multi-agent systems.
 
-### 29. [jamwithai/production-agentic-rag-course](../ai/rag/jamwithai-production-agentic-rag-course.md) ([GitHub](https://github.com/jamwithai/production-agentic-rag-course))
+### 28. [jamwithai/production-agentic-rag-course](../ai/rag/jamwithai-production-agentic-rag-course.md) ([GitHub](https://github.com/jamwithai/production-agentic-rag-course))
 - Stars: 0
 - Language: Unknown
 - Description: *   Explores advanced Retrieval-Augmented Generation (RAG) architectures integrated with autonomous
 
-### 30. [lgesuellip/langgraph-whatsapp-agent](../ai/agents/lgesuellip-langgraph-whatsapp-agent.md) ([GitHub](https://github.com/lgesuellip/langgraph-whatsapp-agent))
+### 29. [lgesuellip/langgraph-whatsapp-agent](../ai/agents/lgesuellip-langgraph-whatsapp-agent.md) ([GitHub](https://github.com/lgesuellip/langgraph-whatsapp-agent))
 - Stars: 0
 - Language: Unknown
 - Description: - **LangGraph + Twilio Integration**: Enables AI agents to interact via WhatsApp, processing text/images and invoking graph-based workflows.
 
-### 31. [coleam00/agentic-chat-application-template](../ai/agents/coleam00-agentic-chat-application-template.md) ([GitHub](https://github.com/coleam00/agentic-chat-application-template))
+### 30. [coleam00/agentic-chat-application-template](../ai/agents/coleam00-agentic-chat-application-template.md) ([GitHub](https://github.com/coleam00/agentic-chat-application-template))
 - Stars: 0
 - Language: Unknown
 - Description: - **Tech Stack**: TypeScript-based agentic chat application template using Next.js, TailwindCSS, and Shadcn UI components.
 
-### 32. [cloudflare/agentic-inbox](../ai/rag/cloudflare-agentic-inbox.md) ([GitHub](https://github.com/cloudflare/agentic-inbox))
+### 31. [cloudflare/agentic-inbox](../ai/rag/cloudflare-agentic-inbox.md) ([GitHub](https://github.com/cloudflare/agentic-inbox))
 - Stars: 0
 - Language: Unknown
 - Description: - **Architecture**: Implements a self-hosted email client leveraging Cloudflare Workers for serverless execution, with TypeScript as the primary language.
 
-### 33. [langgenius/dify](../ai/rag/langgenius-dify.md) ([GitHub](https://github.com/langgenius/dify))
+### 32. [langgenius/dify](../ai/rag/langgenius-dify.md) ([GitHub](https://github.com/langgenius/dify))
 - Stars: 0
 - Language: Unknown
 - Description: - **Agentic Workflow Platform**: Open-source, production-ready framework (TypeScript/Python) for building, deploying, and orchestrating AI agents with low-code/no-code capabilities, supporting LLM ...
+
+### 33. [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md) ([GitHub](https://github.com/datarobot-community/datarobot-agent-templates))
+- Stars: 0
+- Language: Unknown
+- Description: *   Provides Python-based templates for constructing agentic AI workflows.
 
 ### 34. [transitive-bullshit/agentic](../ai/agents/transitive-bullshit-agentic.md) ([GitHub](https://github.com/transitive-bullshit/agentic))
 - Stars: 0
@@ -301,4 +301,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-29T09:24:15.137633+05:30.328714+05:30.885826+05:30.908692+05:30.809380+05:30.254588+05:30.231841+05:30.681111+05:30.265574+05:30.741435+05:30.071974+05:30.958778+05:30.571180+05:30.968153+05:30.349753+05:30.593913+05:30.053579+05:30.546756+05:30.179395+05:30.664302+05:30.398113+05:30.398835+05:30.637475+05:30.425064+05:30.405301+05:30.015168+05:30.490354+05:30.001973+05:30.362547+05:30.457431+05:30.044321+05:30.133141+05:30.672940+05:30.821454+05:30.388358+05:30.170332+05:30.067216+05:30.927352+05:30.137404+05:30.685701+05:30.902370+05:30.537173+05:30.037633+05:30.582118+05:30.130674+05:30.465456+05:30.435485+05:30.193452+05:30.955670+05:30.028864+05:30.219364+05:30.246109+05:30.808195+05:30.971840+05:30.835174+05:30.366310+05:30.118104+05:30.336855+05:30.686234+05:30.067346+05:30.577287+05:30.144563+05:30.714592+05:30.314389+05:30.637845+05:30.380885+05:30.546486+05:30.391871+05:30.649315+05:30.554674+05:30.354708+05:30.360708+05:30.005714+05:30.919156+05:30.030888+05:30.345874+05:30.707482+05:30.628117+05:30.034303+05:30.156000+05:30.319449+05:30.110089+05:30.782260+05:30.106382+05:30.999625+05:30.236595+05:30.913096+05:30.042557+05:30.450675+05:30.783290+05:30.782425+05:30.083616+05:30.077525+05:30.531231+05:30.539572+05:30.671032+05:30.145013+05:30.149869+05:30.236624+05:30.608028+05:30.124735+05:30.420008+05:30.259612+05:30.621412+05:30.398950+05:30.766203+05:30.229664+05:30.167707+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-29T14:55:55.550253+05:30.137633+05:30.328714+05:30.885826+05:30.908692+05:30.809380+05:30.254588+05:30.231841+05:30.681111+05:30.265574+05:30.741435+05:30.071974+05:30.958778+05:30.571180+05:30.968153+05:30.349753+05:30.593913+05:30.053579+05:30.546756+05:30.179395+05:30.664302+05:30.398113+05:30.398835+05:30.637475+05:30.425064+05:30.405301+05:30.015168+05:30.490354+05:30.001973+05:30.362547+05:30.457431+05:30.044321+05:30.133141+05:30.672940+05:30.821454+05:30.388358+05:30.170332+05:30.067216+05:30.927352+05:30.137404+05:30.685701+05:30.902370+05:30.537173+05:30.037633+05:30.582118+05:30.130674+05:30.465456+05:30.435485+05:30.193452+05:30.955670+05:30.028864+05:30.219364+05:30.246109+05:30.808195+05:30.971840+05:30.835174+05:30.366310+05:30.118104+05:30.336855+05:30.686234+05:30.067346+05:30.577287+05:30.144563+05:30.714592+05:30.314389+05:30.637845+05:30.380885+05:30.546486+05:30.391871+05:30.649315+05:30.554674+05:30.354708+05:30.360708+05:30.005714+05:30.919156+05:30.030888+05:30.345874+05:30.707482+05:30.628117+05:30.034303+05:30.156000+05:30.319449+05:30.110089+05:30.782260+05:30.106382+05:30.999625+05:30.236595+05:30.913096+05:30.042557+05:30.450675+05:30.783290+05:30.782425+05:30.083616+05:30.077525+05:30.531231+05:30.539572+05:30.671032+05:30.145013+05:30.149869+05:30.236624+05:30.608028+05:30.124735+05:30.420008+05:30.259612+05:30.621412+05:30.398950+05:30.766203+05:30.229664+05:30.167707+05:30.

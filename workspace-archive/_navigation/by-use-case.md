@@ -18,10 +18,10 @@ This index groups resources by direct developer use-cases and design goals.
 - [OpenAI · GitHub](https://github.com/openai) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/openai-github.md))
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [langchain-ai/new-langgraphjs-project](https://github.com/langchain-ai/new-langgraphjs-project) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/langchain-ai-new-langgraphjs-project.md))
+- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md))
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/mergisi-awesome-openclaw-agents.md))
 - [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/sri-krishna-v-awesome-adk-agents.md))
 - [langgenius/dify](https://github.com/langgenius/dify) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/langgenius-dify.md))
-- [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/scotthavird-crewai-template.md))
 
 ## Document Knowledge base & Search (RAG)
 
@@ -69,7 +69,7 @@ This index groups resources by direct developer use-cases and design goals.
 
 ## Streaming UI Layouts & Next.js AI SaaS Templates
 
-- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md))
+- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
 - [Future Confidence Distillation in Large Language Models](https://arxiv.org/abs/2607.07626) (Category: `llm-app-templates` | [`Local File`](../../ai/research/arxiv-2607-07626.md))
 - [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937) (Category: `llm-app-templates` | [`Local File`](../../ai/rag/arxiv-2606-24937.md))
@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [Modeling Complex Behaviors: Multi-Personality Composition and Dynamic Switching in Vision-Language Models](https://arxiv.org/abs/2606.11074) (Category: `project-ideas` | [`Local File`](../../ai/research/arxiv-2606-11074.md))
 
 ---
-*Last updated: 2026-07-29 09:26 IST*
+*Last updated: 2026-07-29 14:58 IST*

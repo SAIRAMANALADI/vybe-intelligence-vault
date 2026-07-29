@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-72%2C619-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-129%2C665-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--29-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **72,619 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **129,665 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 14,182</p>
-        <p><b>Active:</b> 13,804 | <b>Inactive:</b> 378</p>
+        <p><b>Resources tracked:</b> 15,458</p>
+        <p><b>Active:</b> 15,077 | <b>Inactive:</b> 381</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,055</p>
+        <p><b>Archive Files:</b> 57,847</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 72,619 files</p>
-        <p><b>Last Update:</b> 2026-07-29 14:13 IST</p>
+        <p><b>Total Vault Size:</b> 129,665 files</p>
+        <p><b>Last Update:</b> 2026-07-29 14:59 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,27 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[e2b-dev/awesome-ai-agents](ai/agents/e2b-dev-awesome-ai-agents.md)** • Rank: <kbd>+967</kbd>
-- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** • Rank: <kbd>+967</kbd>
-- 🔼 **[ragnarokoffline/ragnarokoffline.github.io](ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)** • Rank: <kbd>+967</kbd>
-- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+967</kbd>
-- 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+967</kbd>
+- 🔼 **[LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](ai/community/learnvector-andrew-ng-s-ai-company-building-one-to.md)** • <kbd>+116 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Truth is not a direction: a Tarski attack on LLM probes](ai/community/truth-is-not-a-direction-a-tarski-attack-on-llm-pr.md)** • <kbd>+59 pts</kbd>
+- 🔼 **[Una GPS smart watch – Repairable, USB-C charging, developer-friendly](ai/community/una-gps-smart-watch-repairable-usb-c-charging-deve.md)** • <kbd>+56 pts</kbd>
+- 🔼 **[Hubble: Open-source notetaking app for you and your agents](ai/community/hubble-open-source-notetaking-app-for-you-and-your.md)** • <kbd>+50 pts</kbd>
+- 🔼 **[Now is the time to give LLMs access to the ACM digital library](ai/community/now-is-the-time-to-give-llms-access-to-the-acm-dig.md)** • <kbd>+34 pts</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[More Tailscale tricks for your jailbroken Kindle](ai/community/more-tailscale-tricks-for-your-jailbroken-kindle.md)** • Score: `165`
+- 🆕 **[Filling Before Advancing: Capability-Gap-Driven Post-Training for Scenario-Specialized Remote Sensing MLLMs](ai/rag/arxiv-2607-22205.md)** • Score: `0`
+- 🆕 **[Artificial Epanorthosis: Why large language models overuse a classical rhetorical figure, and how to mitigate it](ai/research/arxiv-2607-21498.md)** • Score: `0`
+- 🆕 **[GeoAnchor: Collaborative Reasoning via Latent Decomposition for 3D Spatial Understanding](ai/research/arxiv-2607-13454.md)** • Score: `0`
+- 🆕 **[Security and Privacy in Agentic AI: Grand Challenges and Future Directions](ai/agents/arxiv-2607-06608.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU](web-development/community/show-hn-manim-3blue1brown-s-animation-engine-in-th.md)**
+- 💤 **[Chip stocks slide in US and Asia as AI jitters rattle investors](ai/community/chip-stocks-slide-in-us-and-asia-as-ai-jitters-rat.md)**
+- 💤 **[Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects](ai/community/jagg-ix-zil-lean.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

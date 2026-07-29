@@ -4,23 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/continuedev/continue
-collected_at: '2026-07-25T13:57:06.780614+05:30'
-published_at: '2026-07-25T05:41:29Z'
+collected_at: '2026-07-29T14:42:57.218359+05:30'
+published_at: '2026-07-29T09:11:02Z'
 tags:
 - agents
 - github-repo
 - typescript
-stars: 35102
+stars: 35175
 language: TypeScript
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2023-05-24T03:39:39Z'
-pushed_at: '2026-07-25T03:35:39Z'
+pushed_at: '2026-07-28T09:20:31Z'
 resource_id: github:continuedev/continue
-first_seen: '2026-07-25T13:57:06.780614+05:30'
-last_seen: '2026-07-25T13:57:06.780614+05:30'
-last_checked: '2026-07-25T13:57:06.780614+05:30'
+first_seen: '2026-07-29T14:42:57.218359+05:30'
+last_seen: '2026-07-29T14:42:57.218359+05:30'
+last_checked: '2026-07-29T14:42:57.218359+05:30'
 health_score: 100
 ---
 
@@ -28,8 +28,8 @@ health_score: 100
 
 ## Summary
 
-*   TypeScript-implemented open-source AI coding agent.
-*   Functions as
+*   Open-source AI coding agent.
+*   Implemented in TypeScript, providing
 
 ## Why It Matters
 
@@ -38,15 +38,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: continuedev
-- Stars: 35102
-- Forks: 5105
+- Stars: 35175
+- Forks: 5133
 - Language: TypeScript
 - Topics: agent, ai, cli, developer-tools, open-source
-- Last Updated: 2026-07-25T05:41:29Z
+- Last Updated: 2026-07-29T09:11:02Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-05-24T03:39:39Z
-- Pushed At: 2026-07-25T03:35:39Z
+- Pushed At: 2026-07-28T09:20:31Z
 
 ## Possible Use Cases
 

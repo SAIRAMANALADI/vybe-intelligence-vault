@@ -14,13 +14,14 @@ tags:
 - hackernews
 - threejs
 - webgpu
-status: active
+status: inactive
 resource_id: hackernews:show-hn-manim-3blue1brown-s-animation-engine-in-th
 first_seen: '2026-07-29T09:08:14.899103+05:30'
 last_seen: '2026-07-29T09:08:14.899103+05:30'
 last_checked: '2026-07-29T09:08:14.899103+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU
 

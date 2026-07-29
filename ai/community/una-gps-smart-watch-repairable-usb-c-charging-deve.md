@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://unawatch.com
 hn_url: https://news.ycombinator.com/item?id=49084813
-score: 151
+score: 207
 author: pimterry
-comments_count: 99
+comments_count: 132
 published_at: '2026-07-28T20:18:13+05:30'
-collected_at: '2026-07-29T09:08:15.474121+05:30'
+collected_at: '2026-07-29T14:39:07.897416+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:una-gps-smart-watch-repairable-usb-c-charging-deve
 first_seen: '2026-07-29T01:23:17.889015+05:30'
-last_seen: '2026-07-29T09:08:15.474121+05:30'
-last_checked: '2026-07-29T09:08:15.474121+05:30'
+last_seen: '2026-07-29T14:39:07.897416+05:30'
+last_checked: '2026-07-29T14:39:07.897416+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by pimterry. Score: 151, Comments: 99.
+Hacker News story by pimterry. Score: 207, Comments: 132.
 Original Link: https://unawatch.com/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: pimterry
-- Score: 151 Upvotes
-- Comments: 99 Discussions
+- Score: 207 Upvotes
+- Comments: 132 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49084813
 - Original Article: https://unawatch.com
 

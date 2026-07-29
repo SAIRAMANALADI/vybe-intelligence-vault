@@ -9,6 +9,7 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [RT-VLA: Real-Time Vision-Language-Action Models via Knowledge Distillation](https://arxiv.org/abs/2606.14010) | `ai-coding-agents/` | 70 |
 | [The Industrialization of Research ; On AI-Driven Science and Its Consequences](https://arxiv.org/abs/2607.15164) | `ai-coding-agents/` | 70 |
 | [AoA: Theorem Proving Agent over Abstract Syntax Tree of Redesigned Language](https://arxiv.org/abs/2607.16372) | `ai-coding-agents/` | 70 |
+| [Matryoshka Agent: Unfolding Sub-Agents for Long-Horizon Machine Learning Engineering](https://arxiv.org/abs/2607.25090) | `ai-coding-agents/` | 70 |
 | [CN-CBF: Composite Neural Control Barrier Function for Robot Navigation in Dynamic Environments](https://arxiv.org/abs/2603.06921) | `ai-coding-agents/` | 70 |
 | [Mask-based Predictive Representations for Reinforcement Learning](https://arxiv.org/abs/2607.04153) | `ai-coding-agents/` | 70 |
 | [Traccia: An OpenTelemetry-Based Governance Platform for AI Systems](https://arxiv.org/abs/2607.14309) | `ai-coding-agents/` | 70 |
@@ -28,6 +29,5 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [Cross-Layer Misalignment Detection in Agent Skills: A Progressive Loading-Aware Contrastive Learning Approach](https://arxiv.org/abs/2607.10534) | `ai-coding-agents/` | 70 |
 | [R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations](https://arxiv.org/abs/2510.18085) | `ai-coding-agents/` | 70 |
 | [When Summaries Distort Decisions: Information Fidelity in LLM-Compressed Financial Analysis](https://arxiv.org/abs/2606.29251) | `ai-coding-agents/` | 70 |
-| [Agentic Neural Architecture Search](https://arxiv.org/abs/2607.07984) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.
