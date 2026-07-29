@@ -11551,9 +11551,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Anthropic publishes a practical key-recovery attack on HAWK-256](../ai/community/anthropics-cryptography-research-demo.md)
-  - [Harmony Explained: Progress Towards a Scientific Theory of Music (2012)](../ai/community/arxiv-1202-4212.md)
-  - [OpenAI just open-sourced Codex Security](../ai/community/openai-codex-security.md)
+  - [Chip stocks slide in US and Asia as AI jitters rattle investors](../ai/community/chip-stocks-slide-in-us-and-asia-as-ai-jitters-rat.md)
+  - [Hubble: Open-source notetaking app for you and your agents](../ai/community/hubble-open-source-notetaking-app-for-you-and-your.md)
+  - [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](../ai/community/learnvector-andrew-ng-s-ai-company-building-one-to.md)
+  - [Now is the time to give LLMs access to the ACM digital library](../ai/community/now-is-the-time-to-give-llms-access-to-the-acm-dig.md)
+  - [Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects](../ai/community/jagg-ix-zil-lean.md)
+  - [Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU](../web-development/community/show-hn-manim-3blue1brown-s-animation-engine-in-th.md)
+  - [Truth is not a direction: a Tarski attack on LLM probes](../ai/community/truth-is-not-a-direction-a-tarski-attack-on-llm-pr.md)
   - [Una GPS smart watch – Repairable, USB-C charging, developer-friendly](../ai/community/una-gps-smart-watch-repairable-usb-c-charging-deve.md)
 
 ## Unknown Source (type: huggingface)
@@ -14812,4 +14816,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-29T04:04:59.982777+05:30*
+*Index generated on 2026-07-29T09:25:09.977195+05:30*

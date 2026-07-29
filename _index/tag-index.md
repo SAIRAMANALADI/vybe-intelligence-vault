@@ -1368,6 +1368,7 @@ Resources organized by keyword tags.
   - [How to Implement RAG (Retrieval Augmented Generation) in 2025 | Complete Tutorial](../ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md)
   - [How to programmatically estimate baud rate of an FSK-2 signal in C#? - Signal Processing Stack Exchange](../ai/rag/how-to-programmatically-estimate-baud-rate-of-an-f.md)
   - [How to run gpt-oss locally with Ollama](../ai/agents/how-to-run-gpt-oss-locally-with-ollama.md)
+  - [Hubble: Open-source notetaking app for you and your agents](../ai/community/hubble-open-source-notetaking-app-for-you-and-your.md)
   - [Hugging Face · GitHub](../ai/agents/hugging-face-github.md)
   - [Human AI Construction of Bayesian Networks for Operational Decision Support -- A Virtual Survey Approach](../ai/agents/arxiv-2607-14141.md)
   - [Human Cognition in Machines: A Unified Perspective of World Models](../ai/agents/arxiv-2604-16592.md)
@@ -3321,8 +3322,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Harmony Explained: Progress Towards a Scientific Theory of Music (2012)](../ai/community/arxiv-1202-4212.md)
-  - [OpenAI just open-sourced Codex Security](../ai/community/openai-codex-security.md)
+  - [Chip stocks slide in US and Asia as AI jitters rattle investors](../ai/community/chip-stocks-slide-in-us-and-asia-as-ai-jitters-rat.md)
+  - [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](../ai/community/learnvector-andrew-ng-s-ai-company-building-one-to.md)
+  - [Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects](../ai/community/jagg-ix-zil-lean.md)
   - [Una GPS smart watch – Repairable, USB-C charging, developer-friendly](../ai/community/una-gps-smart-watch-repairable-usb-c-charging-deve.md)
 
 ## animation
@@ -3386,7 +3388,6 @@ Resources organized by keyword tags.
   - [AlloBench: Measuring Online Tool Allocation Capability in LLM Agents](../ai/agents/arxiv-2607-23332.md)
   - [An Exam for Active Observers](../ai/rag/arxiv-2607-16165.md)
   - [An Experimental Design Approach to Evaluating Agentic AI's Autonomous Model Discovery](../ai/agents/arxiv-2607-06413.md)
-  - [Anthropic publishes a practical key-recovery attack on HAWK-256](../ai/community/anthropics-cryptography-research-demo.md)
   - [AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection](../ai/agents/arxiv-2604-11950.md)
   - [Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](../ai/rag/arxiv-2605-23243.md)
   - [Arize-ai/phoenix](../ai/rag/arize-ai-phoenix.md)
@@ -13181,7 +13182,6 @@ Resources organized by keyword tags.
   - [Android Developers](../ai/rag/android-developers.md)
   - [Android Developers Blog](../ai/agents/android-developers-blog.md)
   - [Android Developers Blog: A New Foundation for AI on Android](../ai/resources/android-developers-blog-a-new-foundation-for-ai-on.md)
-  - [Anthropic publishes a practical key-recovery attack on HAWK-256](../ai/community/anthropics-cryptography-research-demo.md)
   - [Apache Infrastructure Website](../ai/agents/apache-infrastructure-website.md)
   - [Apache SpamAssassin: Welcome](../ai/agents/apache-spamassassin-welcome.md)
   - [App Privacy Details - App Store - Apple Developer](../ai/resources/app-privacy-details-app-store-apple-developer.md)
@@ -13369,6 +13369,7 @@ Resources organized by keyword tags.
   - [Characterizing Earth’s damping mechanisms | MIT News | Massachusetts Institute of Technology](../ai/rag/characterizing-earths-damping-mechanisms-mit-news.md)
   - [Charity Navigator - GuideStar Profile](../ai/resources/charity-navigator-guidestar-profile.md)
   - [CheckMIABench: Firm Foundations For Membership Inference Attacks on Language Models](../ai/rag/arxiv-2606-17464.md)
+  - [Chip stocks slide in US and Asia as AI jitters rattle investors](../ai/community/chip-stocks-slide-in-us-and-asia-as-ai-jitters-rat.md)
   - [Chroma - YouTube](../ai/resources/chroma-youtube.md)
   - [Chroma - open-source search infrastructure for AI](../ai/rag/chroma-open-source-search-infrastructure-for-ai.md)
   - [Chrome for Developers - YouTube](../ai/resources/chrome-for-developers-youtube.md)
@@ -13843,7 +13844,6 @@ Resources organized by keyword tags.
   - [HandFlow: Fully Generative 4D Hand Recovery with Flow Matching](../ai/research/arxiv-2607-11221.md)
   - [Handle - AT Protocol](../ai/resources/handle-at-protocol.md)
   - [Handling Feature Heterogeneity with Learnable Graph Patches](../ai/rag/arxiv-2606-17667.md)
-  - [Harmony Explained: Progress Towards a Scientific Theory of Music (2012)](../ai/community/arxiv-1202-4212.md)
   - [Harrison.Rad 1.5 Technical Report: A radiology foundation model that can draft reports from images, priors and clinical context](../ai/research/arxiv-2607-05880.md)
   - [Harvard Digital Accessibility Policy revised, expanded — Harvard Gazette](../ai/resources/harvard-digital-accessibility-policy-revised-expan.md)
   - [Harvard University Digital Accessibility Policy | Digital Accessibility​ Services](../ai/rag/harvard-university-digital-accessibility-policy-di.md)
@@ -13915,6 +13915,7 @@ Resources organized by keyword tags.
   - [How we optimized Dash's relevance judge with DSPy - Dropbox](../ai/rag/how-we-optimized-dash-s-relevance-judge-with-dspy.md)
   - [How web bloat impacts users with slow connections](../ai/rag/how-web-bloat-impacts-users-with-slow-connections.md)
   - [Hp30 & Hp60 - Kp-Index](../ai/rag/hp30-hp60-kp-index.md)
+  - [Hubble: Open-source notetaking app for you and your agents](../ai/community/hubble-open-source-notetaking-app-for-you-and-your.md)
   - [Human Vision Constrained Super-Resolution](../ai/research/arxiv-2411-17513.md)
   - [Human language technologies](../ai/companies/human-language-technologies.md)
   - [Human-In-The-Loop Machine Learning for Safe and Ethical Autonomous Vehicles: Principles, Challenges, and Opportunities](../ai/agents/arxiv-2408-12548.md)
@@ -14069,6 +14070,7 @@ Resources organized by keyword tags.
   - [Learn Unix the Hard Way](../ai/resources/learn-unix-the-hard-way.md)
   - [Learn Why Cypher is the Leading Language for Graph Databases](../ai/resources/learn-why-cypher-is-the-leading-language-for-graph.md)
   - [Learn from Your Mistakes: Tree-like Self-Play for Secure Code LLMs](../ai/research/arxiv-2606-03489.md)
+  - [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](../ai/community/learnvector-andrew-ng-s-ai-company-building-one-to.md)
   - [Learning Adaptive Safety Margins for Visual Navigation](../ai/research/arxiv-2607-18200.md)
   - [Learning Asymptotics with Convergence-Rate Guarantees using Linear Least Squares](../ai/research/arxiv-2607-23287.md)
   - [Learning Fair Pareto-Optimal Policies in Multi-Objective Reinforcement Learning](../ai/rag/arxiv-2606-18111.md)
@@ -14262,6 +14264,7 @@ Resources organized by keyword tags.
   - [Nondiscrimination Policy | Stanford University Bulletin](../ai/resources/nondiscrimination-policy-stanford-university-bulle.md)
   - [Nonparametric Control Koopman Operators](../ai/research/arxiv-2405-07312.md)
   - [NouveauVoice: Generating Novel Pseudo Speakers for Voice Anonymization](../ai/rag/arxiv-2607-03985.md)
+  - [Now is the time to give LLMs access to the ACM digital library](../ai/community/now-is-the-time-to-give-llms-access-to-the-acm-dig.md)
   - [Nuro—Autonomy for all. All roads, all rides. | Nuro](../ai/rag/nuro-autonomy-for-all-all-roads-all-rides-nuro.md)
   - [Nvidia is latest investor to back AV startup Nuro in $203M funding round | TechCrunch](../ai/rag/nvidia-is-latest-investor-to-back-av-startup-nuro.md)
   - [OECC2026](../ai/rag/oecc2026.md)
@@ -14291,7 +14294,6 @@ Resources organized by keyword tags.
   - [Open Government Licence](../ai/rag/open-government-licence.md)
   - [Open Source Security Foundation – Linux Foundation Projects](../ai/resources/open-source-security-foundation-linux-foundation-p.md)
   - [Open Subscription Platforms](../ai/rag/open-subscription-platforms.md)
-  - [OpenAI just open-sourced Codex Security](../ai/community/openai-codex-security.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [OpenAnt: LLM-Powered Vulnerability Discovery Through Code Decomposition, Adversarial Verification, and Dynamic Testing](../ai/research/arxiv-2606-19149.md)
   - [OpenEM: Large-scale multi-structural 3D datasets for electromagnetic methods](../ai/research/arxiv-2510-21859.md)
@@ -14645,6 +14647,8 @@ Resources organized by keyword tags.
   - [Seven Security Challenges in Cross-domain Multi-agent LLM Systems](../ai/agents/arxiv-2505-23847.md)
   - [Sexualised synthetic personas encode and amplify gendered power asymmetries through voice](../ai/research/arxiv-2606-21366.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects](../ai/community/jagg-ix-zil-lean.md)
+  - [Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU](../web-development/community/show-hn-manim-3blue1brown-s-animation-engine-in-th.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Sign in to GitHub · GitHub](../ai/resources/langchain-ai-docs.md)
@@ -14900,6 +14904,7 @@ Resources organized by keyword tags.
   - [Trust Region On-Policy Distillation](../ai/rag/arxiv-2606-01249.md)
   - [Trusted open source for enterprises | Canonical](../ai/rag/trusted-open-source-for-enterprises-canonical.md)
   - [Trustworthy Networks Program | NIST](../ai/rag/trustworthy-networks-program-nist.md)
+  - [Truth is not a direction: a Tarski attack on LLM probes](../ai/community/truth-is-not-a-direction-a-tarski-attack-on-llm-pr.md)
   - [Tunable MAGMAX: Preference-Aware Model Merging for Continual Learning](../ai/rag/arxiv-2605-20803.md)
   - [TurboVec: A Case Study in Cost-Efficient Private Retrieval for Enterprise RAG via Codebook-Oblivious Quantization](../ai/rag/arxiv-2607-16973.md)
   - [Turnitin](../ai/resources/turnitin.md)
@@ -15685,6 +15690,11 @@ Resources organized by keyword tags.
   - [open-llm-leaderboard/open_llm_leaderboard](../ai/models/huggingface-spaces-open-llm-leaderboard.md)
   - [prometheus-eval/BiGGen-Bench at main · prometheus-eval/prometheus-eval · GitHub](../ai/rag/prometheus-eval-prometheus-eval.md)
   - [prometheus-eval/BiGGen-Bench · Datasets at Hugging Face](../ai/rag/huggingface-datasets-prometheus-eval.md)
+
+## llm
+
+  - [Now is the time to give LLMs access to the ACM digital library](../ai/community/now-is-the-time-to-give-llms-access-to-the-acm-dig.md)
+  - [Truth is not a direction: a Tarski attack on LLM probes](../ai/community/truth-is-not-a-direction-a-tarski-attack-on-llm-pr.md)
 
 ## mdx
 
@@ -19177,7 +19187,6 @@ Resources organized by keyword tags.
   - [Not All Skills Help: Measuring and Repairing Agent Knowledge](../ai/agents/arxiv-2606-15390.md)
   - [NousResearch/hermes-agent](../ai/agents/nousresearch-hermes-agent.md)
   - [Nvidia is latest investor to back AV startup Nuro in $203M funding round | TechCrunch](../ai/rag/nvidia-is-latest-investor-to-back-av-startup-nuro.md)
-  - [OpenAI just open-sourced Codex Security](../ai/community/openai-codex-security.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](../ai/rag/arxiv-2509-02594.md)
   - [Optimizing Databricks LLM Pipelines with DSPy | Databricks Blog](../ai/rag/optimizing-databricks-llm-pipelines-with-dspy-data.md)
@@ -28868,6 +28877,7 @@ Resources organized by keyword tags.
   - [Rendering on Real Silicon: GPU Render-Timing as a Passive, AI-Resistant CAPTCHA Signal](../ai/research/arxiv-2607-23389.md)
   - [Select Identity Provider](../ai/rag/select-identity-provider.md)
   - [Shift-Invariant Attribute Scoring for Kolmogorov-Arnold Networks via Shapley Value](../ai/research/arxiv-2510-01663.md)
+  - [Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU](../web-development/community/show-hn-manim-3blue1brown-s-animation-engine-in-th.md)
   - [Snowflake Status](../ai/rag/snowflake-status.md)
   - [SplineNet: An Isogeometric Deep Learning Method for Complex Shells](../ai/research/arxiv-2607-06026.md)
   - [Static Asset Handling | Vite](../ai/resources/static-asset-handling-vite.md)
@@ -31341,6 +31351,10 @@ Resources organized by keyword tags.
   - [라떼군 이야기 - YouTube](../ai/resources/raddegun-iyagi-youtube.md)
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
+
+## webgpu
+
+  - [Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU](../web-development/community/show-hn-manim-3blue1brown-s-animation-engine-in-th.md)
 
 ## workflows
 
@@ -34074,4 +34088,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-29T04:04:59.818887+05:30*
+*Index generated on 2026-07-29T09:25:09.828137+05:30*

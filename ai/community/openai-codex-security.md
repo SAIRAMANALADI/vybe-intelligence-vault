@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: github:openai/codex-security
 first_seen: '2026-07-29T03:47:42.258277+05:30'
 last_seen: '2026-07-29T03:47:42.258277+05:30'
 last_checked: '2026-07-29T03:47:42.258277+05:30'
 health_score: 100
 ---
+
 
 # OpenAI just open-sourced Codex Security
 
