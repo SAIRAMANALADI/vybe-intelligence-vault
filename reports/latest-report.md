@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-30T04:03:19.170398+05:30`
+Generated at: `2026-07-30T04:41:45.927403+05:30`
 
 ## Executive Summary
 
@@ -10,6 +10,7 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 - **Hunter-gatherers introduced fish to a mountain lake 7000 years ago** - Score: `125` in category `ai/community` ([Link](https://newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago)) ([File](../ai/community/hunter-gatherers-introduced-fish-to-a-mountain-lak.md))
 - **AI's top startups are barely publishing their research** - Score: `39` in category `ai/community` ([Link](https://science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)) ([File](../ai/community/ai-s-top-startups-are-barely-publishing-their-rese.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
@@ -19,23 +20,23 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **How much can you delegate to agents?** - Score: `31` (+23), Rank Change: `-1` ([File](../ai/community/how-much-can-you-delegate-to-agents.md))
 - **GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?** - Score: `77` (+17), Rank Change: `-1` ([File](../ai/community/gpt-5-6-vs-claude-fable-5-for-physical-ai-which-pe.md))
 - **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **Wan-AI/Wan2.2-Animate** - Score: `0` (0), Rank Change: `+16` ([File](../ai/models/huggingface-spaces-wan-ai.md))
-- **AP123/IllusionDiffusion** - Score: `0` (0), Rank Change: `+16` ([File](../ai/models/huggingface-spaces-ap123.md))
-- **dalle-mini/dalle-mini** - Score: `0` (0), Rank Change: `+16` ([File](../ai/models/huggingface-spaces-dalle-mini.md))
-- **mteb/leaderboard** - Score: `0` (0), Rank Change: `+16` ([File](../ai/models/huggingface-spaces-mteb.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+968` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **datarobot-community/datarobot-agent-templates** - Score: `0` (0), Rank Change: `+968` ([File](../ai/rag/datarobot-community-datarobot-agent-templates.md))
+- **TEN-framework/ten-framework** - Score: `0` (0), Rank Change: `+968` ([File](../ai/agents/ten-framework-ten-framework.md))
+- **airweave-ai/airweave** - Score: `0` (0), Rank Change: `+968` ([File](../ai/rag/airweave-ai-airweave.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Wan-AI/Wan2.2-Animate** - (Rank Change: `+16`) ([File](../ai/models/huggingface-spaces-wan-ai.md))
-- **AP123/IllusionDiffusion** - (Rank Change: `+16`) ([File](../ai/models/huggingface-spaces-ap123.md))
-- **dalle-mini/dalle-mini** - (Rank Change: `+16`) ([File](../ai/models/huggingface-spaces-dalle-mini.md))
-- **mteb/leaderboard** - (Rank Change: `+16`) ([File](../ai/models/huggingface-spaces-mteb.md))
-- **black-forest-labs/FLUX.1-dev** - (Rank Change: `+16`) ([File](../ai/models/huggingface-spaces-black-forest-labs.md))
-- **Kwai-Kolors/Kolors-Virtual-Try-On** - (Rank Change: `+16`) ([File](../ai/models/huggingface-spaces-kwai-kolors.md))
-- **jbilcke-hf/ai-comic-factory** - (Rank Change: `+16`) ([File](../ai/models/huggingface-spaces-jbilcke-hf.md))
-- **open-llm-leaderboard/open_llm_leaderboard** - (Rank Change: `+16`) ([File](../ai/models/huggingface-spaces-open-llm-leaderboard.md))
-- **enzostvs/deepsite** - (Rank Change: `+16`) ([File](../ai/models/huggingface-spaces-enzostvs.md))
-- **datawhalechina/llm-universe** - (Rank Change: `+2`) ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **infiniflow/ragflow** - (Rank Change: `+12774`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1** - (Rank Change: `+970`) ([File](../ai/rag/monday-service-langsmith-building-a-code-first-eva.md))
+- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+970`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
+- **promptfoo/promptfoo-action** - (Rank Change: `+970`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
+- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+970`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
+- **Understanding RAG from Scratch | martinuke0's Blog** - (Rank Change: `+970`) ([File](../ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md))
+- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+970`) ([File](../ai/rag/arxiv-2606-29031.md))
+- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+970`) ([File](../ai/research/arxiv-2606-26428.md))
+- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+970`) ([File](../ai/research/arxiv-2606-21887.md))
+- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+970`) ([File](../ai/rag/arxiv-2606-09677.md))
 
 ## 🔄 Essential Tier Transitions
 
