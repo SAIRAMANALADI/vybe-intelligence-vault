@@ -18614,7 +18614,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.expouav.com>
 
 * **[Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals](ai/community/commodification-of-intelligence-good-bad-and-ugly.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by cl42. Score: 10, Comments: 10. Original Link: https://www.emergingtrajectories.com/lh/commodification-and-circularity/
+  * Summary: Hacker News story by cl42. Score: 40, Comments: 22. Original Link: https://www.emergingtrajectories.com/lh/commodification-and-circularity/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://emergingtrajectories.com/lh/commodification-and-circularity>
 
@@ -18869,7 +18869,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://doclang.ai>
 
 * **[Document-borne AI worms can self-propagate through Copilot for Word](ai/community/document-borne-ai-worms-can-self-propagate-through.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Canopy9560. Score: 283, Comments: 212. Original Link: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/
+  * Summary: Hacker News story by Canopy9560. Score: 314, Comments: 236. Original Link: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word>
 
@@ -19429,7 +19429,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart>
 
 * **[GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?](ai/community/gpt-5-6-vs-claude-fable-5-for-physical-ai-which-pe.md)** (`benchmark` | `useful` tier)
-  * Summary: Hacker News story by mbauman. Score: 60, Comments: 12. Original Link: https://juliahub.com/blog/frontier-models-physical-ai-evaluation
+  * Summary: Hacker News story by mbauman. Score: 77, Comments: 18. Original Link: https://juliahub.com/blog/frontier-models-physical-ai-evaluation
   * Tags: `ai`, `anthropic`, `benchmark`, `hackernews`
   * Source URL: <https://juliahub.com/blog/frontier-models-physical-ai-evaluation>
 
@@ -19544,7 +19544,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://resources.github.com/devops/tools/compare>
 
 * **[How much can you delegate to agents?](ai/community/how-much-can-you-delegate-to-agents.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by duck. Score: 8, Comments: 0. Original Link: https://newsletter.posthog.com/p/agent-autonomy
+  * Summary: Hacker News story by duck. Score: 31, Comments: 0. Original Link: https://newsletter.posthog.com/p/agent-autonomy
   * Tags: `agents`, `hackernews`
   * Source URL: <https://newsletter.posthog.com/p/agent-autonomy>
 
@@ -19583,6 +19583,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.17824>
 
+* **[Hunter-gatherers introduced fish to a mountain lake 7000 years ago](ai/community/hunter-gatherers-introduced-fish-to-a-mountain-lak.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by stevenwoo. Score: 125, Comments: 94. Original Link: https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago>
+
 * **[hwchase17/langchain](ai/rag/hwchase17-langchain.md)** (`framework` | `useful` tier)
   * Summary: - **Unified Agent Framework**: Open-source Python framework (with TypeScript support) for building, orchestrating, and deploying AI agents, integrating LLMs (OpenAI, Anthropic, Gemini), tools (RAG, multi-agent systems), and enterprise workflows via `
   * Tags: `agents`, `anthropic`, `github-repo`, `openai`, `python`, `rag`, `workflows`
@@ -19598,8 +19603,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.11722>
 
-* **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** (`benchmark` | `useful` tier)
-  * Summary: * Python-based workflow repository for a Retrieval Augmented Generation (RAG) homework assignment.
+* **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** (`template` | `useful` tier)
+  * Summary: * Python-based repository `icensraghomework-classroom01-rag1-hw01_workflow` designed for a Retrieval Augmented Generation (RAG) homework assignment. * Functions as a GitHub Classroom template, evidenced by 101 forks and 0 stars, indicating widespread
   * Tags: `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow>
 
@@ -20152,11 +20157,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **GA Availability**: MongoDB Vector Search and Gasearch are now generally available in both Enterprise Advanced and Community Edition, enabling hybrid search workflows combining lexical and vector search in a single pipeline. - **Automated Embeddin
   * Tags: `agents`, `benchmark`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://mongodb.com/products/platform/atlas-vector-search>
-
-* **[More Tailscale tricks for your jailbroken Kindle](ai/community/more-tailscale-tricks-for-your-jailbroken-kindle.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Error6571. Score: 369, Comments: 106. Original Link: https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes>
 
 * **[Multi-Field Hybrid Retrieval-Augmented Generation for Maritime Accident Root Cause Analysis](ai/rag/arxiv-2606-13249.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.13249v1 Announce Type: new Abstract: Maritime accident adjudication reports contain critical tribunal findings for root cause analysis (RCA), yet retrieving relevant precedents and drafting consistent reports from decades of records remain
@@ -20904,7 +20904,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://firebase.google.com/use-cases>
 
 * **[Some thoughts about Anthropic's new cryptanalysis results](ai/community/some-thoughts-about-anthropic-s-new-cryptanalysis.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by supermatou. Score: 56, Comments: 28. Original Link: https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/
+  * Summary: Hacker News story by supermatou. Score: 82, Comments: 44. Original Link: https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/
   * Tags: `anthropic`, `hackernews`
   * Source URL: <https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results>
 
@@ -72822,7 +72822,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.09235>
 
 * **[allenai/c4](ai/models/huggingface-datasets-allenai.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: allenai/c4 (Likes: 621, Downloads: 1608387)
+  * Summary: Trending Hugging Face dataset: allenai/c4 (Likes: 622, Downloads: 1608387)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/allenai>
 
@@ -73336,7 +73336,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.14613>
 
 * **[anisoleai/fineweb-tokenized](ai/models/huggingface-datasets-anisoleai.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: anisoleai/fineweb-tokenized (Likes: 21, Downloads: 8550451)
+  * Summary: Trending Hugging Face dataset: anisoleai/fineweb-tokenized (Likes: 22, Downloads: 8550451)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/anisoleai>
 
@@ -77903,7 +77903,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2501.19401>
 
 * **[dalle-mini/dalle-mini](ai/models/huggingface-spaces-dalle-mini.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: dalle-mini/dalle-mini (Likes: 5709, Downloads: 0)
+  * Summary: Trending Hugging Face space: dalle-mini/dalle-mini (Likes: 5708, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/dalle-mini>
 
@@ -97504,7 +97504,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5139, Downloads: 253857817)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5140, Downloads: 253857817)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -107226,6 +107226,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `paper`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.24616>
 
+* **[AI's top startups are barely publishing their research](ai/community/ai-s-top-startups-are-barely-publishing-their-rese.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by YeGoblynQueenne. Score: 39, Comments: 29. Original Link: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research>
+
 * **[All-in-one Recruiting Software for Ambitious Teams | Ashby](ai/resources/all-in-one-recruiting-software-for-ambitious-teams.md)** (`tutorial` | `useful` tier)
   * Summary: - **Unified Recruiting Platform**: Ashby integrates ATS, CRM, Scheduling, and Analytics into a single system with AI embedded at every layer, enabling end-to-end structured hiring workflows for startups to enterprises. - **AI-Driven Automation**: Fea
   * Tags: `hackernews`, `producthunt`, `scripts`, `web-crawled`, `workflows`
@@ -110904,7 +110909,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
 * **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
-  * Summary: * Comprehensive RAG development guide covering full-stack implementation, from embedding to generation. * Utilizes key frameworks like LangChain and LlamaIndex, integrating vector databases (Milvus) and graph databases (Neo4j). * Explores diverse LLM
+  * Summary: * Comprehensive RAG application development guide leveraging `langchain` and `llama-index` frameworks. * Integrates vector databases (`milvus`), graph databases (`neo4j`), and various LLM/embedding models (e.g., DeepSeek, Kimi-K2). * Explores advance
   * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -110913,8 +110918,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tool` | `useful` tier)
-  * Summary: * Focuses on large language model (LLM) application development. *
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
+  * Summary: * Comprehensive LLM application development tutorial. * Leverages LangChain framework for implementing Retrieval
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -117599,7 +117604,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://superml.org/tutorials/rag-beginner>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * `raganwald/raganwald.github.com` functions as
+  * Summary: * Jekyll-based static site generator source for `raganwald.com`. * Primary implementation language is HTML, indicating frontend content focus. * Repository naming convention (`.github.com`) implies deployment via GitHub Pages.
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
@@ -118824,7 +118829,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.00558>
 
 * **[sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1333, Downloads: 52722748)
+  * Summary: Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1334, Downloads: 52722748)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2>
 

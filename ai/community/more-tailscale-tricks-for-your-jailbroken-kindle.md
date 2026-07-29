@@ -13,13 +13,14 @@ collected_at: '2026-07-30T01:13:14.951310+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:more-tailscale-tricks-for-your-jailbroken-kindle
 first_seen: '2026-07-29T14:39:03.447750+05:30'
 last_seen: '2026-07-30T01:13:14.951310+05:30'
 last_checked: '2026-07-30T01:13:14.951310+05:30'
 health_score: 100
 ---
+
 
 # More Tailscale tricks for your jailbroken Kindle
 
