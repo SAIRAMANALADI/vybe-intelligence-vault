@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-129%2C678-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-72%2C936-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--29-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **129,678 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **72,936 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 15,467</p>
-        <p><b>Active:</b> 15,078 | <b>Inactive:</b> 389</p>
+        <p><b>Resources tracked:</b> 14,498</p>
+        <p><b>Active:</b> 14,109 | <b>Inactive:</b> 389</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 57,851</p>
+        <p><b>Archive Files:</b> 2,056</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 129,678 files</p>
-        <p><b>Last Update:</b> 2026-07-29 22:30 IST</p>
+        <p><b>Total Vault Size:</b> 72,936 files</p>
+        <p><b>Last Update:</b> 2026-07-29 23:41 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,25 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Hunter-gatherers introduced fish to a mountain lake 7000 years ago](ai/community/hunter-gatherers-introduced-fish-to-a-mountain-lak.md)** • <kbd>+68 pts</kbd> • Rank: <kbd>+3</kbd>
-- 🔼 **[Document-borne AI worms can self-propagate through Copilot for Word](ai/community/document-borne-ai-worms-can-self-propagate-through.md)** • <kbd>+55 pts</kbd>
-- 🔼 **[More Tailscale tricks for your jailbroken Kindle](ai/community/more-tailscale-tricks-for-your-jailbroken-kindle.md)** • <kbd>+46 pts</kbd>
-- 🔼 **[Disrupting supply chain attacks on NPM and GitHub Actions](ai/community/disrupting-supply-chain-attacks-on-npm-and-github.md)** • <kbd>+28 pts</kbd>
-- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** • Rank: <kbd>+969</kbd>
+- 🔼 **[datarobot-community/datarobot-agent-templates](ai/rag/datarobot-community-datarobot-agent-templates.md)** • Rank: <kbd>+969</kbd>
+- 🔼 **[TEN-framework/ten-framework](ai/agents/ten-framework-ten-framework.md)** • Rank: <kbd>+969</kbd>
+- 🔼 **[airweave-ai/airweave](ai/rag/airweave-ai-airweave.md)** • Rank: <kbd>+969</kbd>
+- 🔼 **[vercel/ai](ai/agents/vercel-ai.md)** • Rank: <kbd>+969</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[AI in Linux](ai/community/ai-in-linux.md)** • Score: `30`
-- 🆕 **[GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?](ai/community/gpt-5-6-vs-claude-fable-5-for-physical-ai-which-pe.md)** • Score: `25`
-- 🆕 **[Ask HN: My domain registrar (Hover) rug-pulled me for $3000](ai/community/ask-hn-my-domain-registrar-hover-rug-pulled-me-for.md)** • Score: `24`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels](ai/community/show-hn-vimgolf-ai-learn-vim-by-playing-through-a.md)**
-- 💤 **[Show HN: Echologue – the private AI voice journal I built for myself](ai/community/show-hn-echologue-the-private-ai-voice-journal-i-b.md)**
-- 💤 **[TokenTown: A visual way to understand how LLMs work](ai/community/tokentown-a-visual-way-to-understand-how-llms-work.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
