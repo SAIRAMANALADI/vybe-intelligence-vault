@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-29T09:27:16.738108+05:30`
+Generated at: `2026-07-29T11:27:19.753107+05:30`
 
 ## Executive Summary
 
@@ -8,39 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Now is the time to give LLMs access to the ACM digital library** - Score: `125` in category `ai/community` ([Link](https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library)) ([File](../ai/community/now-is-the-time-to-give-llms-access-to-the-acm-dig.md))
-- **LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences** - Score: `60` in category `ai/community` ([Link](https://learnvector.ai)) ([File](../ai/community/learnvector-andrew-ng-s-ai-company-building-one-to.md))
-- **Hubble: Open-source notetaking app for you and your agents** - Score: `57` in category `ai/community` ([Link](https://hubble.md)) ([File](../ai/community/hubble-open-source-notetaking-app-for-you-and-your.md))
-- **Truth is not a direction: a Tarski attack on LLM probes** - Score: `33` in category `ai/community` ([Link](https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html)) ([File](../ai/community/truth-is-not-a-direction-a-tarski-attack-on-llm-pr.md))
-- **Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU** - Score: `32` in category `web-development/community` ([Link](https://studio.academa.ai)) ([File](../web-development/community/show-hn-manim-3blue1brown-s-animation-engine-in-th.md))
-- **Chip stocks slide in US and Asia as AI jitters rattle investors** - Score: `25` in category `ai/community` ([Link](https://bbc.com/news/articles/cly8zng43npo)) ([File](../ai/community/chip-stocks-slide-in-us-and-asia-as-ai-jitters-rat.md))
-- **Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects** - Score: `6` in category `ai/community` ([Link](https://github.com/jagg-ix/zil-lean)) ([File](../ai/community/jagg-ix-zil-lean.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Una GPS smart watch – Repairable, USB-C charging, developer-friendly** - Score: `151` (+41), Rank Change: `+1` ([File](../ai/community/una-gps-smart-watch-repairable-usb-c-charging-deve.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/human-language-technologies.md))
-- **Human-computer interaction** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/human-computer-interaction.md))
-- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/graphics-multimedia.md))
-- **Computer vision** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/computer-vision.md))
-- **Audio & acoustics** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/audio-acoustics.md))
-- **Artificial intelligence** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/artificial-intelligence.md))
-- **Microsoft Research blog** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/microsoft-research-blog.md))
-- **Code & data** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/code-data.md))
+- **e2b-dev/awesome-ai-agents** - Score: `0` (0), Rank Change: `+967` ([File](../ai/agents/e2b-dev-awesome-ai-agents.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+967` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` (0), Rank Change: `+967` ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+967` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+967` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **langchain-ai/new-langgraphjs-project** - Score: `0` (0), Rank Change: `+967` ([File](../ai/agents/langchain-ai-new-langgraphjs-project.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+967` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+967` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+967` ([File](../ai/rag/malonge-ragoo.md))
+- **activepieces/activepieces** - Score: `0` (0), Rank Change: `+967` ([File](../ai/rag/activepieces-activepieces.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Salesforce/wikitext** - (Rank Change: `+10`) ([File](../ai/models/huggingface-datasets-salesforce.md))
-- **ayuo/hd_tmp** - (Rank Change: `+10`) ([File](../ai/models/huggingface-datasets-ayuo.md))
-- **ryanmarten/OpenThoughts-1k-sample** - (Rank Change: `+10`) ([File](../ai/models/huggingface-datasets-ryanmarten.md))
-- **allenai/c4** - (Rank Change: `+10`) ([File](../ai/models/huggingface-datasets-allenai.md))
-- **k9cli/video-vec2wav2-tokenizer** - (Rank Change: `+10`) ([File](../ai/models/huggingface-datasets-k9cli.md))
-- **hf-doc-build/doc-build-dev** - (Rank Change: `+10`) ([File](../ai/models/huggingface-datasets-hf-doc-build.md))
-- **huggingface/documentation-images** - (Rank Change: `+10`) ([File](../ai/models/huggingface-datasets-huggingface.md))
-- **Benjy/typed_digital_signatures** - (Rank Change: `+10`) ([File](../ai/models/huggingface-datasets-benjy.md))
-- **codeparrot/github-code** - (Rank Change: `+10`) ([File](../ai/models/huggingface-datasets-codeparrot.md))
-- **anisoleai/fineweb-tokenized** - (Rank Change: `+10`) ([File](../ai/models/huggingface-datasets-anisoleai.md))
+- **infiniflow/ragflow** - (Rank Change: `+12776`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1** - (Rank Change: `+969`) ([File](../ai/rag/monday-service-langsmith-building-a-code-first-eva.md))
+- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+969`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
+- **promptfoo/promptfoo-action** - (Rank Change: `+969`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
+- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+969`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
+- **Understanding RAG from Scratch | martinuke0's Blog** - (Rank Change: `+969`) ([File](../ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md))
+- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+969`) ([File](../ai/rag/arxiv-2606-29031.md))
+- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+969`) ([File](../ai/research/arxiv-2606-26428.md))
+- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+969`) ([File](../ai/research/arxiv-2606-21887.md))
+- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+969`) ([File](../ai/rag/arxiv-2606-09677.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -51,6 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **OpenAI just open-sourced Codex Security** (Category: `ai/community`) ([File](../ai/community/openai-codex-security.md))
-- **Harmony Explained: Progress Towards a Scientific Theory of Music (2012)** (Category: `ai/community`) ([File](../ai/community/arxiv-1202-4212.md))
-- **Anthropic publishes a practical key-recovery attack on HAWK-256** (Category: `ai/community`) ([File](../ai/community/anthropics-cryptography-research-demo.md))
+No recently active resources transitioned to inactive.
+
