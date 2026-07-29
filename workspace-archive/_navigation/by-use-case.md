@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [Modeling Complex Behaviors: Multi-Personality Composition and Dynamic Switching in Vision-Language Models](https://arxiv.org/abs/2606.11074) (Category: `project-ideas` | [`Local File`](../../ai/research/arxiv-2606-11074.md))
 
 ---
-*Last updated: 2026-07-29 14:58 IST*
+*Last updated: 2026-07-29 17:23 IST*

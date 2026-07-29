@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://learnvector.ai
 hn_url: https://news.ycombinator.com/item?id=49092499
-score: 176
+score: 206
 author: ajhai
-comments_count: 104
+comments_count: 124
 published_at: '2026-07-29T07:19:19+05:30'
-collected_at: '2026-07-29T14:39:05.276097+05:30'
+collected_at: '2026-07-29T17:05:07.011046+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:learnvector-andrew-ng-s-ai-company-building-one-to
 first_seen: '2026-07-29T09:08:12.339566+05:30'
-last_seen: '2026-07-29T14:39:05.276097+05:30'
-last_checked: '2026-07-29T14:39:05.276097+05:30'
+last_seen: '2026-07-29T17:05:07.011046+05:30'
+last_checked: '2026-07-29T17:05:07.011046+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by ajhai. Score: 176, Comments: 104.
+Hacker News story by ajhai. Score: 206, Comments: 124.
 Original Link: https://learnvector.ai/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: ajhai
-- Score: 176 Upvotes
-- Comments: 104 Discussions
+- Score: 206 Upvotes
+- Comments: 124 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49092499
 - Original Article: https://learnvector.ai
 

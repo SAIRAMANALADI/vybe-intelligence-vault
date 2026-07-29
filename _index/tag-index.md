@@ -3402,6 +3402,7 @@ Resources organized by keyword tags.
 
   - [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](../ai/community/learnvector-andrew-ng-s-ai-company-building-one-to.md)
   - [More Tailscale tricks for your jailbroken Kindle](../ai/community/more-tailscale-tricks-for-your-jailbroken-kindle.md)
+  - [Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels](../ai/community/show-hn-vimgolf-ai-learn-vim-by-playing-through-a.md)
   - [Una GPS smart watch – Repairable, USB-C charging, developer-friendly](../ai/community/una-gps-smart-watch-repairable-usb-c-charging-deve.md)
 
 ## animation
@@ -14986,6 +14987,7 @@ Resources organized by keyword tags.
   - [Seven Security Challenges in Cross-domain Multi-agent LLM Systems](../ai/agents/arxiv-2505-23847.md)
   - [Sexualised synthetic personas encode and amplify gendered power asymmetries through voice](../ai/research/arxiv-2606-21366.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels](../ai/community/show-hn-vimgolf-ai-learn-vim-by-playing-through-a.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Sign in to GitHub · GitHub](../ai/resources/langchain-ai-docs.md)
@@ -15243,7 +15245,6 @@ Resources organized by keyword tags.
   - [Trust Region On-Policy Distillation](../ai/rag/arxiv-2606-01249.md)
   - [Trusted open source for enterprises | Canonical](../ai/rag/trusted-open-source-for-enterprises-canonical.md)
   - [Trustworthy Networks Program | NIST](../ai/rag/trustworthy-networks-program-nist.md)
-  - [Truth is not a direction: a Tarski attack on LLM probes](../ai/community/truth-is-not-a-direction-a-tarski-attack-on-llm-pr.md)
   - [Tunable MAGMAX: Preference-Aware Model Merging for Continual Learning](../ai/rag/arxiv-2605-20803.md)
   - [TurboVec: A Case Study in Cost-Efficient Private Retrieval for Enterprise RAG via Codebook-Oblivious Quantization](../ai/rag/arxiv-2607-16973.md)
   - [Turnitin](../ai/resources/turnitin.md)
@@ -15485,7 +15486,6 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -16039,7 +16039,6 @@ Resources organized by keyword tags.
 ## llm
 
   - [Now is the time to give LLMs access to the ACM digital library](../ai/community/now-is-the-time-to-give-llms-access-to-the-acm-dig.md)
-  - [Truth is not a direction: a Tarski attack on LLM probes](../ai/community/truth-is-not-a-direction-a-tarski-attack-on-llm-pr.md)
 
 ## mdx
 
@@ -34722,4 +34721,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-29T14:57:01.409306+05:30*
+*Index generated on 2026-07-29T17:22:16.326629+05:30*

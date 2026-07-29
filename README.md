@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-72%2C927-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-129%2C668-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--29-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **72,927 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **129,668 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 14,489</p>
-        <p><b>Active:</b> 14,108 | <b>Inactive:</b> 381</p>
+        <p><b>Resources tracked:</b> 15,459</p>
+        <p><b>Active:</b> 15,077 | <b>Inactive:</b> 382</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,056</p>
+        <p><b>Archive Files:</b> 57,849</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 72,927 files</p>
-        <p><b>Last Update:</b> 2026-07-29 17:01 IST</p>
+        <p><b>Total Vault Size:</b> 129,668 files</p>
+        <p><b>Last Update:</b> 2026-07-29 17:24 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Filling Before Advancing: Capability-Gap-Driven Post-Training for Scenario-Specialized Remote Sensing MLLMs](ai/rag/arxiv-2607-22205.md)** • Rank: <kbd>+967</kbd>
-- 🔼 **[Artificial Epanorthosis: Why large language models overuse a classical rhetorical figure, and how to mitigate it](ai/research/arxiv-2607-21498.md)** • Rank: <kbd>+967</kbd>
-- 🔼 **[GeoAnchor: Collaborative Reasoning via Latent Decomposition for 3D Spatial Understanding](ai/research/arxiv-2607-13454.md)** • Rank: <kbd>+967</kbd>
-- 🔼 **[RoboMME-Interference: Benchmarking Robot Memory Under Interference](ai/research/arxiv-2606-22338.md)** • Rank: <kbd>+968</kbd>
-- 🔼 **[Token Factory: Efficiently Integrating Diverse Signals into Large Recommendation Models](ai/research/arxiv-2606-19635.md)** • Rank: <kbd>+968</kbd>
+- 🔼 **[More Tailscale tricks for your jailbroken Kindle](ai/community/more-tailscale-tricks-for-your-jailbroken-kindle.md)** • <kbd>+65 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](ai/community/learnvector-andrew-ng-s-ai-company-building-one-to.md)** • <kbd>+30 pts</kbd>
+- 🔼 **[Una GPS smart watch – Repairable, USB-C charging, developer-friendly](ai/community/una-gps-smart-watch-repairable-usb-c-charging-deve.md)** • <kbd>+26 pts</kbd>
+- 🔼 **[Hubble: Open-source notetaking app for you and your agents](ai/community/hubble-open-source-notetaking-app-for-you-and-your.md)** • <kbd>+16 pts</kbd>
+- 🔼 **[Now is the time to give LLMs access to the ACM digital library](ai/community/now-is-the-time-to-give-llms-access-to-the-acm-dig.md)** • <kbd>+13 pts</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels](ai/community/show-hn-vimgolf-ai-learn-vim-by-playing-through-a.md)** • Score: `9`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Truth is not a direction: a Tarski attack on LLM probes](ai/community/truth-is-not-a-direction-a-tarski-attack-on-llm-pr.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

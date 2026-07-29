@@ -19549,7 +19549,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/huggingface/hub-docs/blob/main/docs/hub/spaces.md>
 
 * **[Hubble: Open-source notetaking app for you and your agents](ai/community/hubble-open-source-notetaking-app-for-you-and-your.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by handfuloflight. Score: 107, Comments: 38. Original Link: https://www.hubble.md/
+  * Summary: Hacker News story by handfuloflight. Score: 123, Comments: 55. Original Link: https://www.hubble.md/
   * Tags: `agents`, `hackernews`
   * Source URL: <https://hubble.md>
 
@@ -19879,7 +19879,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.1edtech.org/standards/lti>
 
 * **[LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](ai/community/learnvector-andrew-ng-s-ai-company-building-one-to.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by ajhai. Score: 176, Comments: 104. Original Link: https://learnvector.ai/
+  * Summary: Hacker News story by ajhai. Score: 206, Comments: 124. Original Link: https://learnvector.ai/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://learnvector.ai>
 
@@ -20144,7 +20144,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://mongodb.com/products/platform/atlas-vector-search>
 
 * **[More Tailscale tricks for your jailbroken Kindle](ai/community/more-tailscale-tricks-for-your-jailbroken-kindle.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Error6571. Score: 165, Comments: 49. Original Link: https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes
+  * Summary: Hacker News story by Error6571. Score: 230, Comments: 77. Original Link: https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes
   * Tags: `ai`, `hackernews`
   * Source URL: <https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes>
 
@@ -20219,7 +20219,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://registrar.ucla.edu/fees-residence/residence-requirements/nonresident-supplemental-tuition-exemptions>
 
 * **[Now is the time to give LLMs access to the ACM digital library](ai/community/now-is-the-time-to-give-llms-access-to-the-acm-dig.md)** (`framework` | `useful` tier)
-  * Summary: Hacker News story by rbanffy. Score: 159, Comments: 126. Original Link: https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/
+  * Summary: Hacker News story by rbanffy. Score: 172, Comments: 146. Original Link: https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/
   * Tags: `hackernews`, `llm`
   * Source URL: <https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library>
 
@@ -20853,6 +20853,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://shibuya.lepture.com>
 
+* **[Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels](ai/community/show-hn-vimgolf-ai-learn-vim-by-playing-through-a.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by nickandbro. Score: 9, Comments: 4. Original Link: https://vimgolf.ai
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://vimgolf.ai>
+
 * **[Signature filtering: a lightweight enhancement for statistical watermark detection in large language models](ai/research/arxiv-2606-18430.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18430v1 Announce Type: new Abstract: Statistical watermarks help organizations attribute large language model (LLM) outputs, yet existing detectors often struggle when watermark signals are weak, texts are repetitive, or watermarks are edi
   * Tags: `benchmark`, `meta-ai`, `models`, `workflows`
@@ -21247,11 +21252,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.22727>
 
-* **[Truth is not a direction: a Tarski attack on LLM probes](ai/community/truth-is-not-a-direction-a-tarski-attack-on-llm-pr.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by abelaer. Score: 92, Comments: 36. Original Link: https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html
-  * Tags: `hackernews`, `llm`
-  * Source URL: <https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html>
-
 * **[Twilio Resource Center | Twilio](ai/rag/twilio-resource-center-twilio.md)** (`framework` | `useful` tier)
   * Summary: - **Twilio recognized as a Leader in Gartner’s 2026 Magic Quadrant for CPaaS**, cited for strong **Ability to Execute** and **Completeness of Vision** in cloud communications. - **Twilio’s resource center provides structured technical content**, incl
   * Tags: `agents`, `frontend_ui`, `hackernews`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
@@ -21293,7 +21293,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.06306>
 
 * **[Una GPS smart watch – Repairable, USB-C charging, developer-friendly](ai/community/una-gps-smart-watch-repairable-usb-c-charging-deve.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by pimterry. Score: 207, Comments: 132. Original Link: https://unawatch.com/
+  * Summary: Hacker News story by pimterry. Score: 233, Comments: 142. Original Link: https://unawatch.com/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://unawatch.com>
 
@@ -92156,7 +92156,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.06625>
 
 * **[open-llm-leaderboard/open_llm_leaderboard](ai/models/huggingface-spaces-open-llm-leaderboard.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: open-llm-leaderboard/open_llm_leaderboard (Likes: 14063, Downloads: 0)
+  * Summary: Trending Hugging Face space: open-llm-leaderboard/open_llm_leaderboard (Likes: 14064, Downloads: 0)
   * Tags: `hf-space`, `huggingface`, `leaderboard`
   * Source URL: <https://huggingface.co/spaces/open-llm-leaderboard>
 
@@ -97499,7 +97499,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5137, Downloads: 253857817)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5138, Downloads: 253857817)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -105285,6 +105285,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`
   * Source URL: <https://nextjs.org/blog/styling-next-with-styled-jsx>
 
+* **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`benchmark` | `useful` tier)
+  * Summary: * Implements a Python-based Retrieval-Augmented Generation (RAG) pipeline. * Specializes in ingesting and vectorizing GitHub repository content for contextual retrieval. * Facilitates conversational querying of repository data via a chat interface.
+  * Tags: `github-repo`, `python`, `rag`
+  * Source URL: <https://github.com/SylphAI-Inc/GithubChat>
+
 * **[Talking to Your Data: Exploring Embodied Conversation as an Interface for Personal Health Reflection](ai/agents/arxiv-2606-17767.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.17767v1 Announce Type: cross Abstract: Personal health data from wearables are typically presented through dashboards of charts and summary statistics, requiring users to actively interpret patterns and implications. We explore an alternat
   * Tags: `agents`, `benchmark`, `dataset`, `models`, `paper`
@@ -110898,9 +110903,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tutorial` | `useful` tier)
-  * Summary: * Comprehensive guide for RAG-based LLM application development, encompassing full-stack implementation strategies. * Leverages LangChain and LlamaIndex for RAG orchestration, integrating vector databases (Milvus) and graph databases (Neo4j) for know
-  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
+  * Summary: * Comprehensive guide to Retrieval-Augmented Generation (RAG) for large language model (LLM) application development, covering full-stack implementation.
+  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -110909,7 +110914,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
 * **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`benchmark` | `useful` tier)
-  * Summary: * Comprehensive LLM application development tutorial leveraging LangChain. * Focuses on Retrieval-Augmented Generation (RAG) implementation methodologies. * Instructional content delivered via Jupyter Notebooks.
+  * Summary: * Provides foundational tutorials for large language model (LLM) application development. * Leverages LangChain for practical implementation of LLM-based systems. * Emphasizes Retrieval-Augmented Generation (RAG) architectures, presented through Jupy
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -119572,11 +119577,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.16617v1 Announce Type: cross Abstract: Sycophancy in LLMs is documented across 70+ papers, but expert agreement on construct boundaries remains low (ICC=.184; Ye et al., 2026). The construct fragments because behavioral classification depe
   * Tags: `benchmark`, `models`, `openai`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.16617>
-
-* **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`benchmark` | `useful` tier)
-  * Summary: * Python-based Retrieval-Augmented Generation (RAG) system. * En
-  * Tags: `github-repo`, `python`, `rag`
-  * Source URL: <https://github.com/SylphAI-Inc/GithubChat>
 
 * **[SylphxAI/pdf-reader-mcp](ai/rag/sylphxai-pdf-reader-mcp.md)** (`mcp-server` | `essential` tier)
   * Summary: 📄 Production-ready MCP server for PDF processing - 5-10x faster with parallel processing and 94%+ test coverage

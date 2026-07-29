@@ -11863,7 +11863,7 @@ Resources organized by publisher feed and query sources.
   - [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](../ai/community/learnvector-andrew-ng-s-ai-company-building-one-to.md)
   - [More Tailscale tricks for your jailbroken Kindle](../ai/community/more-tailscale-tricks-for-your-jailbroken-kindle.md)
   - [Now is the time to give LLMs access to the ACM digital library](../ai/community/now-is-the-time-to-give-llms-access-to-the-acm-dig.md)
-  - [Truth is not a direction: a Tarski attack on LLM probes](../ai/community/truth-is-not-a-direction-a-tarski-attack-on-llm-pr.md)
+  - [Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels](../ai/community/show-hn-vimgolf-ai-learn-vim-by-playing-through-a.md)
   - [Una GPS smart watch – Repairable, USB-C charging, developer-friendly](../ai/community/una-gps-smart-watch-repairable-usb-c-charging-deve.md)
 
 ## Unknown Source (type: huggingface)
@@ -15122,4 +15122,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-29T14:57:01.574837+05:30*
+*Index generated on 2026-07-29T17:22:16.488118+05:30*

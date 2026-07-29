@@ -21,11 +21,11 @@ AI agents represent the transition from passive text generation to active, goal-
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 2735 resources matched in the intelligence vault.
 Recently detected signals:
-- [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md) (Source: Unknown Source) - Collected 2026-07-29
-- [TEN-framework/ten-framework](../ai/agents/ten-framework-ten-framework.md) (Source: Unknown Source) - Collected 2026-07-29
-- [airweave-ai/airweave](../ai/rag/airweave-ai-airweave.md) (Source: Unknown Source) - Collected 2026-07-29
-- [vercel/ai](../ai/agents/vercel-ai.md) (Source: Unknown Source) - Collected 2026-07-29
-- [continuedev/continue](../ai/agents/continuedev-continue.md) (Source: Unknown Source) - Collected 2026-07-29
+- [Building Next.js for an agentic future](../ai/agents/building-next-js-for-an-agentic-future.md) (Source: Unknown Source) - Collected 2026-07-29
+- [Next.js 16.2: AI Improvements](../ai/agents/next-js-16-2-ai-improvements.md) (Source: Unknown Source) - Collected 2026-07-29
+- [Next.js 16.3: AI Improvements](../ai/agents/next-js-16-3-ai-improvements.md) (Source: Unknown Source) - Collected 2026-07-29
+- [TRACE-ROUTER: Task-Consistent and Adaptive Online Routing for Agentic AI](../ai/rag/arxiv-2607-22465.md) (Source: Unknown Source) - Collected 2026-07-29
+- [Enhanced Seam Segmentation for Automated Welding Robot in Construction Through Transfer Learning: Addressing Limitations of Bilateral Segmentation Network](../ai/agents/arxiv-2607-06150.md) (Source: Unknown Source) - Collected 2026-07-29
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -106,15 +106,15 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Purpose**: Template repository for building retrieval agents using LangGraph, a framework for constructing stateful, multi-actor applications with LLMs.
 
-### 16. [Denis2054/Context-Engineering-for-Multi-Agent-Systems](../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md) ([GitHub](https://github.com/denis2054/context-engineering-for-multi-agent-systems))
-- Stars: 0
-- Language: Unknown
-- Description: - **Universal MAS Blueprint**: Provides a production-ready, domain-agnostic framework for Multi-Agent Systems (MAS) using a high-level semantic orchestration engine, replacing rigid workflows with ...
-
-### 17. [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md) ([GitHub](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template))
+### 16. [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md) ([GitHub](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template))
 - Stars: 0
 - Language: Unknown
 - Description: *   FastAPI-centric template for building production-ready AI agent applications.
+
+### 17. [Denis2054/Context-Engineering-for-Multi-Agent-Systems](../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md) ([GitHub](https://github.com/denis2054/context-engineering-for-multi-agent-systems))
+- Stars: 0
+- Language: Unknown
+- Description: - **Universal MAS Blueprint**: Provides a production-ready, domain-agnostic framework for Multi-Agent Systems (MAS) using a high-level semantic orchestration engine, replacing rigid workflows with ...
 
 ### 18. [crewAIInc/awesome-crewai](../ai/rag/crewaiinc-awesome-crewai.md) ([GitHub](https://github.com/crewaiinc/awesome-crewai))
 - Stars: 0
@@ -301,4 +301,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-29T14:55:55.550253+05:30.137633+05:30.328714+05:30.885826+05:30.908692+05:30.809380+05:30.254588+05:30.231841+05:30.681111+05:30.265574+05:30.741435+05:30.071974+05:30.958778+05:30.571180+05:30.968153+05:30.349753+05:30.593913+05:30.053579+05:30.546756+05:30.179395+05:30.664302+05:30.398113+05:30.398835+05:30.637475+05:30.425064+05:30.405301+05:30.015168+05:30.490354+05:30.001973+05:30.362547+05:30.457431+05:30.044321+05:30.133141+05:30.672940+05:30.821454+05:30.388358+05:30.170332+05:30.067216+05:30.927352+05:30.137404+05:30.685701+05:30.902370+05:30.537173+05:30.037633+05:30.582118+05:30.130674+05:30.465456+05:30.435485+05:30.193452+05:30.955670+05:30.028864+05:30.219364+05:30.246109+05:30.808195+05:30.971840+05:30.835174+05:30.366310+05:30.118104+05:30.336855+05:30.686234+05:30.067346+05:30.577287+05:30.144563+05:30.714592+05:30.314389+05:30.637845+05:30.380885+05:30.546486+05:30.391871+05:30.649315+05:30.554674+05:30.354708+05:30.360708+05:30.005714+05:30.919156+05:30.030888+05:30.345874+05:30.707482+05:30.628117+05:30.034303+05:30.156000+05:30.319449+05:30.110089+05:30.782260+05:30.106382+05:30.999625+05:30.236595+05:30.913096+05:30.042557+05:30.450675+05:30.783290+05:30.782425+05:30.083616+05:30.077525+05:30.531231+05:30.539572+05:30.671032+05:30.145013+05:30.149869+05:30.236624+05:30.608028+05:30.124735+05:30.420008+05:30.259612+05:30.621412+05:30.398950+05:30.766203+05:30.229664+05:30.167707+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-29T17:21:11.442039+05:30.550253+05:30.137633+05:30.328714+05:30.885826+05:30.908692+05:30.809380+05:30.254588+05:30.231841+05:30.681111+05:30.265574+05:30.741435+05:30.071974+05:30.958778+05:30.571180+05:30.968153+05:30.349753+05:30.593913+05:30.053579+05:30.546756+05:30.179395+05:30.664302+05:30.398113+05:30.398835+05:30.637475+05:30.425064+05:30.405301+05:30.015168+05:30.490354+05:30.001973+05:30.362547+05:30.457431+05:30.044321+05:30.133141+05:30.672940+05:30.821454+05:30.388358+05:30.170332+05:30.067216+05:30.927352+05:30.137404+05:30.685701+05:30.902370+05:30.537173+05:30.037633+05:30.582118+05:30.130674+05:30.465456+05:30.435485+05:30.193452+05:30.955670+05:30.028864+05:30.219364+05:30.246109+05:30.808195+05:30.971840+05:30.835174+05:30.366310+05:30.118104+05:30.336855+05:30.686234+05:30.067346+05:30.577287+05:30.144563+05:30.714592+05:30.314389+05:30.637845+05:30.380885+05:30.546486+05:30.391871+05:30.649315+05:30.554674+05:30.354708+05:30.360708+05:30.005714+05:30.919156+05:30.030888+05:30.345874+05:30.707482+05:30.628117+05:30.034303+05:30.156000+05:30.319449+05:30.110089+05:30.782260+05:30.106382+05:30.999625+05:30.236595+05:30.913096+05:30.042557+05:30.450675+05:30.783290+05:30.782425+05:30.083616+05:30.077525+05:30.531231+05:30.539572+05:30.671032+05:30.145013+05:30.149869+05:30.236624+05:30.608028+05:30.124735+05:30.420008+05:30.259612+05:30.621412+05:30.398950+05:30.766203+05:30.229664+05:30.167707+05:30.
