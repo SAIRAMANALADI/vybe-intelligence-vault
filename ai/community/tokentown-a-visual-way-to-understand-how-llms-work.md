@@ -13,13 +13,14 @@ collected_at: '2026-07-29T20:02:02.246120+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:tokentown-a-visual-way-to-understand-how-llms-work
 first_seen: '2026-07-29T20:02:02.246120+05:30'
 last_seen: '2026-07-29T20:02:02.246120+05:30'
 last_checked: '2026-07-29T20:02:02.246120+05:30'
 health_score: 100
 ---
+
 
 # TokenTown: A visual way to understand how LLMs work
 

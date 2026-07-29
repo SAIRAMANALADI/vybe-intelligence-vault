@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago
 hn_url: https://news.ycombinator.com/item?id=49063983
-score: 12
+score: 80
 author: stevenwoo
-comments_count: 7
+comments_count: 50
 published_at: '2026-07-27T06:28:45+05:30'
-collected_at: '2026-07-29T20:02:01.221451+05:30'
+collected_at: '2026-07-29T22:10:44.869136+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:hunter-gatherers-introduced-fish-to-a-mountain-lak
 first_seen: '2026-07-29T20:02:01.221451+05:30'
-last_seen: '2026-07-29T20:02:01.221451+05:30'
-last_checked: '2026-07-29T20:02:01.221451+05:30'
+last_seen: '2026-07-29T22:10:44.869136+05:30'
+last_checked: '2026-07-29T22:10:44.869136+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by stevenwoo. Score: 12, Comments: 7.
+Hacker News story by stevenwoo. Score: 80, Comments: 50.
 Original Link: https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: stevenwoo
-- Score: 12 Upvotes
-- Comments: 7 Discussions
+- Score: 80 Upvotes
+- Comments: 50 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49063983
 - Original Article: https://newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago
 

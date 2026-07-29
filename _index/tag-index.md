@@ -3399,12 +3399,13 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [AI in Linux](../ai/community/ai-in-linux.md)
+  - [Ask HN: My domain registrar (Hover) rug-pulled me for $3000](../ai/community/ask-hn-my-domain-registrar-hover-rug-pulled-me-for.md)
   - [Disrupting supply chain attacks on NPM and GitHub Actions](../ai/community/disrupting-supply-chain-attacks-on-npm-and-github.md)
   - [Document-borne AI worms can self-propagate through Copilot for Word](../ai/community/document-borne-ai-worms-can-self-propagate-through.md)
+  - [GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?](../ai/community/gpt-5-6-vs-claude-fable-5-for-physical-ai-which-pe.md)
   - [Hunter-gatherers introduced fish to a mountain lake 7000 years ago](../ai/community/hunter-gatherers-introduced-fish-to-a-mountain-lak.md)
   - [More Tailscale tricks for your jailbroken Kindle](../ai/community/more-tailscale-tricks-for-your-jailbroken-kindle.md)
-  - [Show HN: Echologue – the private AI voice journal I built for myself](../ai/community/show-hn-echologue-the-private-ai-voice-journal-i-b.md)
-  - [Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels](../ai/community/show-hn-vimgolf-ai-learn-vim-by-playing-through-a.md)
 
 ## animation
 
@@ -3573,6 +3574,7 @@ Resources organized by keyword tags.
   - [Frontier LLM-based agents can overcome the ontology curation bottleneck for natural phenotypes](../ai/agents/arxiv-2605-28965.md)
   - [FuzzingLabs/mcp-security-hub](../ai/resources/fuzzinglabs-mcp-security-hub.md)
   - [GMD - Development and technical paper](../ai/rag/gmd-development-and-technical-paper.md)
+  - [GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?](../ai/community/gpt-5-6-vs-claude-fable-5-for-physical-ai-which-pe.md)
   - [Gainsight Certification Programs](../ai/rag/gainsight-certification-programs.md)
   - [Gainsight University](../ai/rag/gainsight-university.md)
   - [Generate Images with Claude and Hugging Face](../ai/models/huggingface-blog-claude-and-mcp.md)
@@ -5796,6 +5798,7 @@ Resources organized by keyword tags.
   - [GMoT: Gated Motion-Aware Tokenization for Fine-Grained Micro-Gesture Video Reasoning with Multimodal LLMs](../ai/research/arxiv-2607-16322.md)
   - [GOT-JEPA: Generic Object Tracking with Model Adaptation and Occlusion Handling using Joint-Embedding Predictive Architecture](../ai/research/arxiv-2602-14771.md)
   - [GOTS: Greedy Orthogonal Token Selection for High-Resolution Vision-Language Models](../ai/rag/arxiv-2607-23913.md)
+  - [GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?](../ai/community/gpt-5-6-vs-claude-fable-5-for-physical-ai-which-pe.md)
   - [GRACE-DS: a Guarded Reward-guided Agent Correction Environment in Data Science](../ai/agents/arxiv-2606-16000.md)
   - [GRACE: Gated Refinement for Accurate Causal Edge Discovery in High-Dimensional Time Series](../ai/research/arxiv-2606-23880.md)
   - [GRAFT: Grafted Reference Audio for Fine-grained Pronunciation in Zero-shot Text-to-Speech](../ai/research/arxiv-2607-02633.md)
@@ -11001,6 +11004,7 @@ Resources organized by keyword tags.
   - [Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification](../ai/research/arxiv-2604-26675.md)
   - [ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits](../ai/research/arxiv-2607-23225.md)
   - [ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](../ai/research/arxiv-2606-04468.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pathways of Visual Information Flow in Vision-Language Models](../ai/research/arxiv-2607-03358.md)
   - [Patient-Agnostic Synthetic Pretraining for Efficient Patient-Specific Intraoperative 2D/3D Registration](../ai/research/arxiv-2607-23343.md)
   - [Pattern-Aware Graph Neural Networks for Handling Missing Data](../ai/rag/arxiv-2607-08915.md)
@@ -13390,6 +13394,7 @@ Resources organized by keyword tags.
   - [AI and ML | Google Cloud Documentation](../ai/rag/ai-and-ml-google-cloud-documentation.md)
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
+  - [AI in Linux](../ai/community/ai-in-linux.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
   - [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](../ai/research/arxiv-2506-16898.md)
@@ -13524,6 +13529,7 @@ Resources organized by keyword tags.
   - [AsciiDoc](../ai/rag/asciidoc.md)
   - [AsciiDoc Language Documentation | Asciidoctor Docs](../ai/resources/asciidoc-language-documentation-asciidoctor-docs.md)
   - [Asciidoctor | A fast, open source text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocB](../ai/rag/asciidoctor-a-fast-open-source-text-processor-and.md)
+  - [Ask HN: My domain registrar (Hover) rug-pulled me for $3000](../ai/community/ask-hn-my-domain-registrar-hover-rug-pulled-me-for.md)
   - [Assessing the Operational Impact of Poisoning Attacks over Augmented 3D Point Cloud Public Datasets for Connected and Autonomous Vehicles](../ai/agents/arxiv-2607-06484.md)
   - [Associated Press Stylebook](../ai/resources/associated-press-stylebook.md)
   - [Asymptotically Optimal Regret for Reinforcement Learning without Horizon Dependence](../ai/research/arxiv-2607-19854.md)
@@ -14055,6 +14061,7 @@ Resources organized by keyword tags.
   - [GMD - fair-calibrate v1.4.1: calibration, constraining, and validation of the FaIR simple climate model for reliable fut](../ai/rag/gmd-fair-calibrate-v1-4-1-calibration-constraining.md)
   - [GNOME Development](../ai/resources/gnome-development.md)
   - [GNU Mailman / Mailman Core · GitLab](../ai/resources/gnu-mailman-mailman-core-gitlab.md)
+  - [GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?](../ai/community/gpt-5-6-vs-claude-fable-5-for-physical-ai-which-pe.md)
   - [GR2 Technical Report](../ai/research/arxiv-2606-31984.md)
   - [GRAFT: Grafted Reference Audio for Fine-grained Pronunciation in Zero-shot Text-to-Speech](../ai/research/arxiv-2607-02633.md)
   - [GTIN: A Unified Framework for Joint Event and Time Prediction in Temporal Graphs](../ai/research/arxiv-2607-23556.md)
@@ -14988,8 +14995,6 @@ Resources organized by keyword tags.
   - [Seven Security Challenges in Cross-domain Multi-agent LLM Systems](../ai/agents/arxiv-2505-23847.md)
   - [Sexualised synthetic personas encode and amplify gendered power asymmetries through voice](../ai/research/arxiv-2606-21366.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Echologue – the private AI voice journal I built for myself](../ai/community/show-hn-echologue-the-private-ai-voice-journal-i-b.md)
-  - [Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels](../ai/community/show-hn-vimgolf-ai-learn-vim-by-playing-through-a.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Sign in to GitHub · GitHub](../ai/resources/langchain-ai-docs.md)
@@ -15197,7 +15202,6 @@ Resources organized by keyword tags.
   - [Tim Kadlec](../ai/rag/tim-kadlec.md)
   - [To Erase, or Not to Erase: Robust Training-Free Concept Erasure with Preservation aware Adaptive Ranked Subspace Expansion](../ai/research/arxiv-2607-23492.md)
   - [TokAN: Accent Normalization Using Self-Supervised Speech Tokens](../ai/research/arxiv-2607-03928.md)
-  - [TokenTown: A visual way to understand how LLMs work](../ai/community/tokentown-a-visual-way-to-understand-how-llms-work.md)
   - [Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md)
   - [Top 23 rag Open-Source Projects | LibHunt](../ai/rag/top-23-rag-open-source-projects-libhunt.md)
   - [Top 7 GitHub Repos to Master Retrieval-Augmented Generation](../ai/rag/top-7-github-repos-to-master-retrieval-augmented-g.md)
@@ -15488,7 +15492,6 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -16038,10 +16041,6 @@ Resources organized by keyword tags.
   - [open-llm-leaderboard/open_llm_leaderboard](../ai/models/huggingface-spaces-open-llm-leaderboard.md)
   - [prometheus-eval/BiGGen-Bench at main · prometheus-eval/prometheus-eval · GitHub](../ai/rag/prometheus-eval-prometheus-eval.md)
   - [prometheus-eval/BiGGen-Bench · Datasets at Hugging Face](../ai/rag/huggingface-datasets-prometheus-eval.md)
-
-## llm
-
-  - [TokenTown: A visual way to understand how LLMs work](../ai/community/tokentown-a-visual-way-to-understand-how-llms-work.md)
 
 ## mdx
 
@@ -28640,7 +28639,6 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [dart compile](../ai/rag/dart-compile.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents · PyPI](../ai/agents/deepagents-pypi.md)
@@ -34726,4 +34724,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-29T20:19:00.711290+05:30*
+*Index generated on 2026-07-29T22:28:00.939525+05:30*

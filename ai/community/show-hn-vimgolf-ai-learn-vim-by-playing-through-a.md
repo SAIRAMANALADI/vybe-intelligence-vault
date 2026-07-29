@@ -13,13 +13,14 @@ collected_at: '2026-07-29T20:02:02.808575+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-vimgolf-ai-learn-vim-by-playing-through-a
 first_seen: '2026-07-29T17:05:07.245378+05:30'
 last_seen: '2026-07-29T20:02:02.808575+05:30'
 last_checked: '2026-07-29T20:02:02.808575+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels
 

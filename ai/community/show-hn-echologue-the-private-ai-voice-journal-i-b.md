@@ -13,13 +13,14 @@ collected_at: '2026-07-29T20:02:02.048707+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-echologue-the-private-ai-voice-journal-i-b
 first_seen: '2026-07-29T20:02:02.048707+05:30'
 last_seen: '2026-07-29T20:02:02.048707+05:30'
 last_checked: '2026-07-29T20:02:02.048707+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Echologue – the private AI voice journal I built for myself
 

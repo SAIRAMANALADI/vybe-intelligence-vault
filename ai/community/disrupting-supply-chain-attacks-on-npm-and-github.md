@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions
 hn_url: https://news.ycombinator.com/item?id=49096427
-score: 32
+score: 60
 author: nyku
-comments_count: 6
+comments_count: 19
 published_at: '2026-07-29T17:41:18+05:30'
-collected_at: '2026-07-29T20:02:00.471497+05:30'
+collected_at: '2026-07-29T22:10:46.422167+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:disrupting-supply-chain-attacks-on-npm-and-github
 first_seen: '2026-07-29T20:02:00.471497+05:30'
-last_seen: '2026-07-29T20:02:00.471497+05:30'
-last_checked: '2026-07-29T20:02:00.471497+05:30'
+last_seen: '2026-07-29T22:10:46.422167+05:30'
+last_checked: '2026-07-29T22:10:46.422167+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by nyku. Score: 32, Comments: 6.
+Hacker News story by nyku. Score: 60, Comments: 19.
 Original Link: https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: nyku
-- Score: 32 Upvotes
-- Comments: 6 Discussions
+- Score: 60 Upvotes
+- Comments: 19 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49096427
 - Original Article: https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions
 
