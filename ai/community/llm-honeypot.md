@@ -13,13 +13,14 @@ collected_at: '2026-07-30T20:01:26.815600+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:llm-honeypot
 first_seen: '2026-07-30T08:57:27.856690+05:30'
 last_seen: '2026-07-30T20:01:26.815600+05:30'
 last_checked: '2026-07-30T20:01:26.815600+05:30'
 health_score: 100
 ---
+
 
 # LLM Honeypot
 

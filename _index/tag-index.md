@@ -1255,6 +1255,7 @@ Resources organized by keyword tags.
   - [Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory](../ai/research/ghost-in-the-minecraft-generally-capable-agents-fo.md)
   - [Gimitest: A Comprehensive Tool for Testing Reinforcement Learning Policies](../ai/agents/arxiv-2607-07029.md)
   - [Git : Code : snapd](../ai/agents/git-code-snapd.md)
+  - [Git worktrees are not an isolation boundary for coding agents](../ai/community/git-worktrees-are-not-an-isolation-boundary-for-co.md)
   - [GitBook · GitHub](../ai/agents/gitbook-github.md)
   - [GitHub CLI | Take GitHub to the command line](../ai/agents/github-cli-take-github-to-the-command-line.md)
   - [GitHub Copilot CLI command reference - GitHub Docs](../ai/rag/github-copilot-cli-command-reference-github-docs.md)
@@ -3430,10 +3431,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI's top startups are barely publishing their research](../ai/community/ai-s-top-startups-are-barely-publishing-their-rese.md)
-  - [Carolina Cloud pays SOFR on unused prepaid credits](../ai/community/carolina-cloud-pays-sofr-on-unused-prepaid-credits.md)
-  - [GCC steering committee announces AI policy](../ai/community/gcc-steering-committee-announces-ai-policy.md)
   - [Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)](../ai/community/grafana-ai-sdk.md)
+  - [SDL_GPU minimal, single-header, high-performance 2D graphics painting library](../ai/community/n67094-sdl-gp.md)
+  - [Show HN: Claude-account – switch Claude Code accounts without logging in again](../ai/community/hamzarehmandeveloper-claude-account.md)
 
 ## animation
 
@@ -3771,6 +3771,7 @@ Resources organized by keyword tags.
   - [Seduced by the Narrative: Assessing Rule Adherence in Semi-Open Textual Sandboxes](../ai/agents/arxiv-2607-02802.md)
   - [Self-host LangSmith on Kubernetes - Docs by LangChain](../ai/rag/self-host-langsmith-on-kubernetes-docs-by-langchai.md)
   - [Shared SFT Lessons Across Alignment, Model Organisms, and Toy Models](../ai/research/arxiv-2607-26173.md)
+  - [Show HN: Claude-account – switch Claude Code accounts without logging in again](../ai/community/hamzarehmandeveloper-claude-account.md)
   - [SkillOpt-Lite: Better and Faster Agent Self-evolution via One Line of Vibe](../ai/agents/arxiv-2607-03451.md)
   - [Skilljar Academy](../ai/rag/skilljar-academy.md)
   - [Snyk VulnBench JS 1.0: Can LLMs Find the Same Bugs Twice?](../ai/agents/arxiv-2606-15762.md)
@@ -13568,7 +13569,6 @@ Resources organized by keyword tags.
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
   - [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](../ai/research/arxiv-2506-16898.md)
-  - [AI's top startups are barely publishing their research](../ai/community/ai-s-top-startups-are-barely-publishing-their-rese.md)
   - [AI, Machine Learning, and Data-Driven Decisions | Cornell Duffield Engineering](../ai/agents/ai-machine-learning-and-data-driven-decisions-corn.md)
   - [AI-Augmented Human Resource Management? Insights from German companies](../ai/research/arxiv-2607-13839.md)
   - [AI-Driven Framework for Adaptive Water Network Management with Proof-of-Concept Implementation: Addressing Non-Revenue Water in Jordan](../ai/rag/arxiv-2606-15709.md)
@@ -13851,7 +13851,6 @@ Resources organized by keyword tags.
   - [Cannot get 555 module to work - Electrical Engineering Stack Exchange](../ai/agents/cannot-get-555-module-to-work-electrical-engineeri.md)
   - [Canonical Variates in Wasserstein Metric Space](../ai/rag/arxiv-2405-15768.md)
   - [Canvas Privacy Notice | Center for Teaching Innovation](../ai/resources/canvas-privacy-notice-center-for-teaching-innovati.md)
-  - [Carolina Cloud pays SOFR on unused prepaid credits](../ai/community/carolina-cloud-pays-sofr-on-unused-prepaid-credits.md)
   - [Carpe Diem: Critical Learning Period-Aware Contract-Based Incentives for Federated Learning](../ai/rag/arxiv-2503-07869.md)
   - [Cartography and Imaging Sciences Discipline Node](../ai/rag/cartography-and-imaging-sciences-discipline-node.md)
   - [Catastrophic Compositional Generation: Why Vanilla Diffusion Models Fail to Extrapolate](../ai/research/arxiv-2606-23920.md)
@@ -14226,7 +14225,6 @@ Resources organized by keyword tags.
   - [Functional programming - Wikipedia](../ai/rag/functional-programming-wikipedia.md)
   - [GAS-Leak-LLM: Genetic Algorithm-Based Suffix Optimization for Black-Box LLM Jailbreaking](../ai/research/arxiv-2606-15788.md)
   - [GATE Exam Tutorial - GeeksforGeeks](../ai/rag/gate-exam-tutorial-geeksforgeeks.md)
-  - [GCC steering committee announces AI policy](../ai/community/gcc-steering-committee-announces-ai-policy.md)
   - [GDPR FAQs | Cloudflare](../ai/rag/cloudflare-and-gdpr-compliance-cloudflare.md)
   - [GEAR | Google Developer Program | Google for Developers](../ai/agents/gear-google-developer-program-google-for-developer.md)
   - [GEO Week News | Lidar, AEC, 3D Technology & Geospatial Insights](../ai/rag/geo-week-news-lidar-aec-3d-technology-geospatial-i.md)
@@ -14278,6 +14276,7 @@ Resources organized by keyword tags.
   - [Giskard : Byzantine Robust and Confidential Aggregation for Large-Scale Decentralized Learning](../ai/research/arxiv-2606-19129.md)
   - [Git : Code : snapd](../ai/agents/git-code-snapd.md)
   - [Git Workflow | Atlassian Git Tutorial](../ai/rag/git-workflow-atlassian-git-tutorial.md)
+  - [Git worktrees are not an isolation boundary for coding agents](../ai/community/git-worktrees-are-not-an-isolation-boundary-for-co.md)
   - [Git-Assistant: Planning-Based Support for Updating Git Repositories](../ai/research/arxiv-2607-09224.md)
   - [GitBook · GitHub](../ai/agents/gitbook-github.md)
   - [GitHub - commonmark/commonmark-spec: CommonMark spec, with reference implementations in C and JavaScript · GitHub](../ai/rag/github-commonmark-commonmark-spec-commonmark-spec.md)
@@ -14550,7 +14549,6 @@ Resources organized by keyword tags.
   - [LEXIC: Lightweight Eye-tracking eXtension via Injected Complexity](../ai/research/arxiv-2607-08152.md)
   - [LFM: Leveraging Foundation Models for Source-Free Universal Domain Adaptation](../ai/rag/arxiv-2607-17653.md)
   - [LLM Evolution as an Industry-Scale Ecosystem: A Lifecycle Perspective on Continual Learning](../ai/research/arxiv-2606-24901.md)
-  - [LLM Honeypot](../ai/community/llm-honeypot.md)
   - [LLM Powered Autonomous Agents | Lil'Log](../ai/rag/llm-powered-autonomous-agents-lil-log.md)
   - [LLM for EDA in Front-End Design: Challenges and Opportunities](../ai/rag/arxiv-2607-09616.md)
   - [LLM-Based Test Oracles: Source-of-Authority Taxonomy -- A Systematic Literature Review](../ai/research/arxiv-2607-05031.md)
@@ -15100,6 +15098,7 @@ Resources organized by keyword tags.
   - [SAGA: Scene-Aware, Goal-Evolving Agents for Long-Horizon Strategy Game Planning](../ai/agents/arxiv-2606-29932.md)
   - [SAGA: Synthetic Agentic Graph Architecture for Temporal Benchmark Generation](../ai/rag/arxiv-2607-17288.md)
   - [SAT: Dynamic Spatial Aptitude Training for Multimodal Language Models](../ai/research/sat-dynamic-spatial-aptitude-training-for-multimod.md)
+  - [SDL_GPU minimal, single-header, high-performance 2D graphics painting library](../ai/community/n67094-sdl-gp.md)
   - [SEER: Supervised Learning to Control Energetic Reasoning](../ai/research/arxiv-2607-16523.md)
   - [SENSE: Efficient EEG-to-Text via Privacy-Preserving Semantic Retrieval](../ai/rag/arxiv-2603-17109.md)
   - [SEV0 – The Incident, On-call and Reliability Conference](../ai/rag/sev0-the-incident-on-call-and-reliability-conferen.md)
@@ -15176,6 +15175,7 @@ Resources organized by keyword tags.
   - [Sexualised synthetic personas encode and amplify gendered power asymmetries through voice](../ai/research/arxiv-2606-21366.md)
   - [Shared SFT Lessons Across Alignment, Model Organisms, and Toy Models](../ai/research/arxiv-2607-26173.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: Claude-account – switch Claude Code accounts without logging in again](../ai/community/hamzarehmandeveloper-claude-account.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Sign in to GitHub · GitHub](../ai/resources/langchain-ai-docs.md)
@@ -15355,7 +15355,6 @@ Resources organized by keyword tags.
   - [The Method of Gaps: Exact Expressions for the Generalization Error of Supervised Learning Algorithms](../ai/research/arxiv-2411-12030.md)
   - [The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students](../ai/agents/arxiv-2607-11292.md)
   - [The Power of Light: Improving Synthetic-to-Real Domain Adaptation through Physically-Based Indirect Illumination](../ai/research/arxiv-2606-22574.md)
-  - [The Productivity Mirage](../ai/community/the-productivity-mirage.md)
   - [The Remarkable Effectiveness of Providing AI Agents with Natural Language Tools: A Replication Study Validating NLT Performance Across 14 Models](../ai/rag/arxiv-2607-03953.md)
   - [The Rise of Verbal Tics in Large Language Models: A Systematic Analysis Across Frontier Models](../ai/research/arxiv-2604-19139.md)
   - [The Role of Rigor in Artificial Intelligence](../ai/research/arxiv-2607-03634.md)
@@ -15679,6 +15678,7 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -15762,7 +15762,6 @@ Resources organized by keyword tags.
   - [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md)
   - [perluniintro - Perl Unicode introduction - Perldoc Browser](../ai/rag/perluniintro-perl-unicode-introduction-perldoc-bro.md)
   - [pgf-tikz Info Page](../ai/rag/pgf-tikz-info-page.md)
-  - [pguso/ai-agents-from-scratch](../ai/agents/pguso-ai-agents-from-scratch.md)
   - [pgvector/pgvector](../ai/rag/pgvector-pgvector.md)
   - [pinecone-io/examples](../ai/rag/pinecone-io-examples.md)
   - [pkgdown 2.1.0](../ai/rag/pkgdown-2-1-0.md)
@@ -16233,7 +16232,6 @@ Resources organized by keyword tags.
 ## llm
 
   - [Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)](../ai/community/grafana-ai-sdk.md)
-  - [LLM Honeypot](../ai/community/llm-honeypot.md)
 
 ## mdx
 
@@ -27074,7 +27072,6 @@ Resources organized by keyword tags.
   - [The Orthogonalized Read Is a Removable Training Scaffold for Recurrent Memory](../ai/rag/arxiv-2607-19390.md)
   - [The Perceived Fragility of Explanations in Audio Models: Manipulation of Attribution with Unchanged Predictions](../ai/rag/arxiv-2606-14466.md)
   - [The Pragmatic Persona: Discovering LLM Persona through Bridging Inference](../ai/rag/arxiv-2604-24079.md)
-  - [The Productivity Mirage](../ai/community/the-productivity-mirage.md)
   - [The Professor: Multi-Teacher Unsupervised Prompt Distillation for Vision-Language Models](../ai/rag/arxiv-2606-23897.md)
   - [The Proxy Presumption: From Semantic Embeddings to Valid Social Measures](../ai/rag/arxiv-2605-07409.md)
   - [The Qt Console for Jupyter — Jupyter Qt Console 5.7.2 documentation](../ai/rag/the-qt-console-for-jupyter-jupyter-qt-console-5-7.md)
@@ -28704,6 +28701,7 @@ Resources organized by keyword tags.
   - [Set up Apple Watch for a family member - Apple Support](../ai/resources/set-up-apple-watch-for-a-family-member-apple-suppo.md)
   - [Set up Gemini Code Assist Standard and Enterprise | Gemini for Google Cloud | Google Cloud Documentation](../ai/agents/set-up-gemini-code-assist-standard-and-enterprise.md)
   - [Shopping & Ordering Support | Verizon Customer Support](../ai/resources/shopping-ordering-support-verizon-customer-support.md)
+  - [Show HN: Claude-account – switch Claude Code accounts without logging in again](../ai/community/hamzarehmandeveloper-claude-account.md)
   - [Sign in to MED SSO (SU, SHC, LPCH)](../ai/resources/sign-in-to-med-sso-su-shc-lpch.md)
   - [SimBEV2X: A Large-Scale Dataset and Data Generation Tool for Multi-Task Vehicle-to-Everything Cooperative Perception](../ai/agents/arxiv-2607-23910.md)
   - [Site Map - Apple](../ai/rag/site-map-apple.md)
@@ -35093,4 +35091,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-30T20:18:22.579410+05:30*
+*Index generated on 2026-07-30T22:35:57.255883+05:30*

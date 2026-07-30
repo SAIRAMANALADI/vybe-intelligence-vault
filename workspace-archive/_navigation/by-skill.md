@@ -213,12 +213,12 @@ This index groups curated resources by target developer skills.
 
 - [Quantize with Confidence? An Empirical Study of Quantization for Code Generation](https://arxiv.org/abs/2607.14181) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2607-14181.md))
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Tier: `essential` | [`Local File`](../../ai/resources/llamasearchai-openagi-customization.md))
-- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) (Tier: `essential` | [`Local File`](../../ai/agents/pguso-ai-agents-from-scratch.md))
 - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](https://developers.googleblog.com/en/introducing-gemma-3-270m) (Tier: `essential` | [`Local File`](../../ai/rag/introducing-gemma-3-270m-the-compact-model-for-hyp.md))
 - [Evolution Strategy-Based Calibration for Low-Bit Quantization of Speech Models](https://arxiv.org/abs/2603.08173) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2603-08173.md))
 - [HeRo-Q: A General Framework for Stable Low Bit Quantization via Hessian Conditioning](https://arxiv.org/abs/2601.21626) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2601-21626.md))
 - [Contrastive Predictive Coding with Compression for Enhanced Channel State Feedback in Wireless Networks](https://arxiv.org/abs/2607.05419) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-05419.md))
 - [Empowering On-Device Model Adaptation with an Edge AI Inference Accelerator](https://arxiv.org/abs/2607.18101) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-18101.md))
+- [KANEL\'E: Kolmogorov-Arnold Networks for Efficient LUT-based Evaluation](https://arxiv.org/abs/2512.12850) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2512-12850.md))
 
 ## MCP Integrations
 
@@ -254,12 +254,12 @@ This index groups curated resources by target developer skills.
 
 - [Quantize with Confidence? An Empirical Study of Quantization for Code Generation](https://arxiv.org/abs/2607.14181) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2607-14181.md))
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Tier: `essential` | [`Local File`](../../ai/resources/llamasearchai-openagi-customization.md))
-- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) (Tier: `essential` | [`Local File`](../../ai/agents/pguso-ai-agents-from-scratch.md))
 - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](https://developers.googleblog.com/en/introducing-gemma-3-270m) (Tier: `essential` | [`Local File`](../../ai/rag/introducing-gemma-3-270m-the-compact-model-for-hyp.md))
 - [Evolution Strategy-Based Calibration for Low-Bit Quantization of Speech Models](https://arxiv.org/abs/2603.08173) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2603-08173.md))
 - [HeRo-Q: A General Framework for Stable Low Bit Quantization via Hessian Conditioning](https://arxiv.org/abs/2601.21626) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2601-21626.md))
 - [Contrastive Predictive Coding with Compression for Enhanced Channel State Feedback in Wireless Networks](https://arxiv.org/abs/2607.05419) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-05419.md))
 - [Empowering On-Device Model Adaptation with an Edge AI Inference Accelerator](https://arxiv.org/abs/2607.18101) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-18101.md))
+- [KANEL\'E: Kolmogorov-Arnold Networks for Efficient LUT-based Evaluation](https://arxiv.org/abs/2512.12850) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2512-12850.md))
 
 ## Model Selection
 
@@ -525,4 +525,4 @@ This index groups curated resources by target developer skills.
 - [langchain-ai/new-langgraphjs-project](https://github.com/langchain-ai/new-langgraphjs-project) (Tier: `essential` | [`Local File`](../../ai/agents/langchain-ai-new-langgraphjs-project.md))
 
 ---
-*Last updated: 2026-07-30 20:19 IST*
+*Last updated: 2026-07-30 22:37 IST*

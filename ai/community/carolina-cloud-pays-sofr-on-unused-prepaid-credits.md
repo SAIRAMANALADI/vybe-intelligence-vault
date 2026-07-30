@@ -13,13 +13,14 @@ collected_at: '2026-07-30T20:01:26.074200+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:carolina-cloud-pays-sofr-on-unused-prepaid-credits
 first_seen: '2026-07-30T16:52:10.281658+05:30'
 last_seen: '2026-07-30T20:01:26.074200+05:30'
 last_checked: '2026-07-30T20:01:26.074200+05:30'
 health_score: 100
 ---
+
 
 # Carolina Cloud pays SOFR on unused prepaid credits
 

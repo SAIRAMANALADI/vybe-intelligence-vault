@@ -12070,12 +12070,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI's top startups are barely publishing their research](../ai/community/ai-s-top-startups-are-barely-publishing-their-rese.md)
-  - [Carolina Cloud pays SOFR on unused prepaid credits](../ai/community/carolina-cloud-pays-sofr-on-unused-prepaid-credits.md)
-  - [GCC steering committee announces AI policy](../ai/community/gcc-steering-committee-announces-ai-policy.md)
+  - [Git worktrees are not an isolation boundary for coding agents](../ai/community/git-worktrees-are-not-an-isolation-boundary-for-co.md)
   - [Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)](../ai/community/grafana-ai-sdk.md)
-  - [LLM Honeypot](../ai/community/llm-honeypot.md)
-  - [The Productivity Mirage](../ai/community/the-productivity-mirage.md)
+  - [SDL_GPU minimal, single-header, high-performance 2D graphics painting library](../ai/community/n67094-sdl-gp.md)
+  - [Show HN: Claude-account – switch Claude Code accounts without logging in again](../ai/community/hamzarehmandeveloper-claude-account.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -12351,6 +12349,7 @@ Resources organized by publisher feed and query sources.
   - [From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot](../ai/agents/huggingface-blog-amazon-strands-lerobot-hub-to-hardware.md)
   - [GGML and llama.cpp join HF to ensure the long-term progress of Local AI](../ai/models/huggingface-blog-ggml-joins-hf.md)
   - [GLM-5.2: Built for Long-Horizon Tasks](../ai/models/huggingface-blog-zai-org-glm-52-blog.md)
+  - [GPU Management: Why Idle GPUs Are the New Grounded Aircraft](../ai/models/huggingface-blog-dharma-ai-gpu-management.md)
   - [GaLore: Advancing Large Model Training on Consumer-grade Hardware](../ai/models/huggingface-blog-galore.md)
   - [Gaia2 and ARE: Empowering the community to study agents](../ai/agents/huggingface-blog-gaia2.md)
   - [Gemma 3n fully available in the open-source ecosystem!](../ai/models/huggingface-blog-gemma3n.md)
@@ -15333,4 +15332,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-30T20:18:22.746578+05:30*
+*Index generated on 2026-07-30T22:35:57.400414+05:30*
