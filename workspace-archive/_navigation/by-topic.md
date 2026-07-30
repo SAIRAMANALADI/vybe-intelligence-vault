@@ -3,7 +3,7 @@ This index groups the workspace archive categories into high-level thematic clus
 
 ## Agentic AI Development
 
-- **[AI Coding Agents](../ai-coding-agents/README.md)** (2373 files): Coding agents, AI IDEs, software engineering agents, and repository workflows for AI-assisted development.
+- **[AI Coding Agents](../ai-coding-agents/README.md)** (2372 files): Coding agents, AI IDEs, software engineering agents, and repository workflows for AI-assisted development.
 - **[Agent Instructions](../agent-instructions/README.md)** (7 files): Repository instruction files and coding-agent rule formats such as AGENTS.md, CLAUDE.md, cursor rules, and copilot instructions.
 - **[MCP Registry](../mcp-registry/README.md)** (185 files): Public MCP server registries, MCP server metadata, MCP tool directories, and MCP integration guidance.
 - **[Agent Frameworks](../agent-frameworks/README.md)** (2478 files): Frameworks and examples for tool calling, agent orchestration, and multi-agent systems.
@@ -13,7 +13,7 @@ This index groups the workspace archive categories into high-level thematic clus
 
 - **[RAG Systems](../rag-systems/README.md)** (12189 files): RAG apps, retrieval pipelines, embeddings, chunking, reranking, graph RAG, and multimodal retrieval systems.
 - **[Vector Databases](../vector-databases/README.md)** (4626 files): Vector databases, embedding stores, vector search libraries, and retrieval storage examples.
-- **[Datasets](../datasets/README.md)** (8374 files): AI datasets, evaluation datasets, RAG datasets, benchmark datasets, and synthetic data tools.
+- **[Datasets](../datasets/README.md)** (8373 files): AI datasets, evaluation datasets, RAG datasets, benchmark datasets, and synthetic data tools.
 
 ## LLMOps, Evals & Model Infrastructure
 
@@ -33,7 +33,7 @@ This index groups the workspace archive categories into high-level thematic clus
 ## Creative 3D Dev & Frontend Interfaces
 
 - **[Frontend AI UI](../frontend-ai-ui/README.md)** (176 files): AI chat UI, dashboards, shadcn/ui, Tailwind components, bento grids, AI app layouts, and design systems.
-- **[Webdev 3D Creative](../webdev-3d-creative/README.md)** (122 files): Three.js, React Three Fiber, WebGL, WebGPU, shaders, Spline, GLTF/GLB, Blender-to-web, and creative coding.
+- **[Webdev 3D Creative](../webdev-3d-creative/README.md)** (123 files): Three.js, React Three Fiber, WebGL, WebGPU, shaders, Spline, GLTF/GLB, Blender-to-web, and creative coding.
 - **[LLM App Templates](../llm-app-templates/README.md)** (202 files): Runnable AI app templates, agent apps, RAG starters, chat apps, FastAPI examples, and Next.js AI templates.
 
 ## Career Track & Startup Engineering
@@ -44,4 +44,4 @@ This index groups the workspace archive categories into high-level thematic clus
 - **[Startup Builder](../startup-builder/README.md)** (134 files): AI startup ideas, SaaS ideas, MVP templates, launch checklists, pricing examples, landing pages, and growth automation.
 
 ---
-*Last updated: 2026-07-30 22:37 IST*
+*Last updated: 2026-07-31 01:40 IST*

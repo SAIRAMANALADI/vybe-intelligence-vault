@@ -13,13 +13,14 @@ collected_at: '2026-07-30T22:18:58.489234+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:git-worktrees-are-not-an-isolation-boundary-for-co
 first_seen: '2026-07-30T22:18:58.489234+05:30'
 last_seen: '2026-07-30T22:18:58.489234+05:30'
 last_checked: '2026-07-30T22:18:58.489234+05:30'
 health_score: 100
 ---
+
 
 # Git worktrees are not an isolation boundary for coding agents
 

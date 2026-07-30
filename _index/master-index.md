@@ -20,6 +20,7 @@ Welcome to your private local Intelligence Vault.
 
 ## Web Development
 
+- **web-development/community**: 1 files
 - **web-development/framer-motion**: 3 files
 - **web-development/gsap**: 3 files
 - **web-development/nextjs**: 71 files
@@ -57,4 +58,4 @@ Welcome to your private local Intelligence Vault.
 - [Skill Index](skill-index.md)
 
 ---
-*Index generated on 2026-07-30T22:35:56.965004+05:30*
+*Index generated on 2026-07-31T01:38:51.158188+05:30*

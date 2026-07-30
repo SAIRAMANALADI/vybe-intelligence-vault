@@ -19,13 +19,13 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 876 resources matched in the intelligence vault.
+Active signals: 878 resources matched in the intelligence vault.
 Recently detected signals:
-- [Moral Hazard in Multi-Agent Language Models](../ai/agents/arxiv-2607-23982.md) (Source: Unknown Source) - Collected 2026-07-30
-- [scMIR: a vision-language foundation model for single-cell light microscopy image representation](../ai/research/arxiv-2607-22712.md) (Source: Unknown Source) - Collected 2026-07-30
-- [Filling Before Advancing: Capability-Gap-Driven Post-Training for Scenario-Specialized Remote Sensing MLLMs](../ai/rag/arxiv-2607-22205.md) (Source: Unknown Source) - Collected 2026-07-30
-- [Artificial Epanorthosis: Why large language models overuse a classical rhetorical figure, and how to mitigate it](../ai/research/arxiv-2607-21498.md) (Source: Unknown Source) - Collected 2026-07-30
-- [Building Large-Scale English-Romanian Literary Translation Resources with Open Models](../ai/research/arxiv-2509-07829.md) (Source: Unknown Source) - Collected 2026-07-30
+- [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md) (Source: Unknown Source) - Collected 2026-07-31
+- [Moral Hazard in Multi-Agent Language Models](../ai/agents/arxiv-2607-23982.md) (Source: Unknown Source) - Collected 2026-07-31
+- [scMIR: a vision-language foundation model for single-cell light microscopy image representation](../ai/research/arxiv-2607-22712.md) (Source: Unknown Source) - Collected 2026-07-31
+- [Filling Before Advancing: Capability-Gap-Driven Post-Training for Scenario-Specialized Remote Sensing MLLMs](../ai/rag/arxiv-2607-22205.md) (Source: Unknown Source) - Collected 2026-07-31
+- [Artificial Epanorthosis: Why large language models overuse a classical rhetorical figure, and how to mitigate it](../ai/research/arxiv-2607-21498.md) (Source: Unknown Source) - Collected 2026-07-31
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -166,42 +166,47 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Multimodal Graph-based RAG Framework**: Introduces MegaRAG, a novel Retrieval-Augmented Generation (RAG) system leveraging multimodal data (text, images, graphs) structured as a unified graph f...
 
-### 28. [dyronrh/awesome-agentops-landscape](../ai/agents/dyronrh-awesome-agentops-landscape.md) ([GitHub](https://github.com/dyronrh/awesome-agentops-landscape))
+### 28. [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md) ([GitHub](https://github.com/particlemedia/ragtruth))
+- Stars: 0
+- Language: Unknown
+- Description: *   Introduces RAGTruth, a specialized corpus designed for the evaluation and mitigation of hallucinations in Retrieval-Augmented Language Models (RAGs).
+
+### 29. [dyronrh/awesome-agentops-landscape](../ai/agents/dyronrh-awesome-agentops-landscape.md) ([GitHub](https://github.com/dyronrh/awesome-agentops-landscape))
 - Stars: 0
 - Language: Unknown
 - Description: A curated list of the best AgentOps tools for 2026 — observability, tracing, evaluation, cost monitoring, and guardrails for LLM agents. Covering open-source and SaaS tools with feature benchmarks ...
 
-### 29. [Hugging Face · GitHub](../ai/agents/hugging-face-github.md) ([GitHub](https://github.com/huggingface))
+### 30. [Hugging Face · GitHub](../ai/agents/hugging-face-github.md) ([GitHub](https://github.com/huggingface))
 - Stars: 0
 - Language: Unknown
 - Description: - **Core Libraries**: Hugging Face provides foundational AI/ML libraries like `transformers` (SOTA models for text/vision/audio/multimodal tasks), `diffusers` (diffusion models for generative tasks...
 
-### 30. [langwatch/langwatch](../ai/agents/langwatch-langwatch.md) ([GitHub](https://github.com/langwatch/langwatch))
+### 31. [langwatch/langwatch](../ai/agents/langwatch-langwatch.md) ([GitHub](https://github.com/langwatch/langwatch))
 - Stars: 0
 - Language: Unknown
 - Description: The platform for LLM evaluations and AI agent testing
 
-### 31. [openai/openai-cookbook](../ai/resources/openai-openai-cookbook.md) ([GitHub](https://github.com/openai/openai-cookbook))
+### 32. [openai/openai-cookbook](../ai/resources/openai-openai-cookbook.md) ([GitHub](https://github.com/openai/openai-cookbook))
 - Stars: 0
 - Language: Unknown
 - Description: - **Repository Overview**: Open-source collection of Jupyter Notebooks demonstrating practical applications of the OpenAI API, including ChatGPT and GPT-4 integration.
 
-### 32. [Haohao-end/openagent](../ai/agents/haohao-end-openagent.md) ([GitHub](https://github.com/haohao-end/openagent))
+### 33. [Haohao-end/openagent](../ai/agents/haohao-end-openagent.md) ([GitHub](https://github.com/haohao-end/openagent))
 - Stars: 0
 - Language: Unknown
 - Description: AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + La...
 
-### 33. [dorianbrown/rank_bm25](../ai/resources/dorianbrown-rank-bm25.md) ([GitHub](https://github.com/dorianbrown/rank_bm25))
+### 34. [dorianbrown/rank_bm25](../ai/resources/dorianbrown-rank-bm25.md) ([GitHub](https://github.com/dorianbrown/rank_bm25))
 - Stars: 0
 - Language: Unknown
 - Description: - Implements **BM25** and **BM25+** ranking algorithms in Python for information retrieval tasks.
 
-### 34. [huggingface/transformers](../ai/resources/huggingface-transformers.md) ([GitHub](https://github.com/huggingface/transformers))
+### 35. [huggingface/transformers](../ai/resources/huggingface-transformers.md) ([GitHub](https://github.com/huggingface/transformers))
 - Stars: 0
 - Language: Unknown
 - Description: - **Framework Scope**: Provides a unified Python-based framework (PyTorch) for defining, training, and deploying state-of-the-art ML models across modalities (text, vision, audio, multimodal) with ...
 
-### 35. [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets.md) ([GitHub](https://github.com/glgh/awesome-llm-human-preference-datasets))
+### 36. [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets.md) ([GitHub](https://github.com/glgh/awesome-llm-human-preference-datasets))
 - Stars: 0
 - Language: Unknown
 - Description: A curated list of Human Preference Datasets for LLM fine-tuning, RLHF, and eval.
@@ -226,4 +231,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-30T22:35:06.211265+05:30.779783+05:30.472042+05:30.751901+05:30.962897+05:30.460555+05:30.753564+05:30.062605+05:30.162889+05:30.730982+05:30.930531+05:30.485185+05:30.509506+05:30.469620+05:30.849048+05:30.662793+05:30.252050+05:30.839955+05:30.310041+05:30.639517+05:30.536761+05:30.188078+05:30.529905+05:30.965633+05:30.152342+05:30.626666+05:30.108517+05:30.753151+05:30.271887+05:30.872075+05:30.966688+05:30.250978+05:30.037358+05:30.968714+05:30.629281+05:30.095697+05:30.472432+05:30.920693+05:30.010068+05:30.598886+05:30.701957+05:30.295240+05:30.440210+05:30.976494+05:30.702173+05:30.617479+05:30.465113+05:30.684701+05:30.230418+05:30.444668+05:30.111348+05:30.417501+05:30.152166+05:30.721703+05:30.915382+05:30.966615+05:30.764113+05:30.385557+05:30.567332+05:30.735695+05:30.745434+05:30.313265+05:30.467864+05:30.366258+05:30.850219+05:30.600182+05:30.827864+05:30.160807+05:30.551753+05:30.048264+05:30.580228+05:30.218675+05:30.737117+05:30.133154+05:30.907114+05:30.995114+05:30.879918+05:30.100207+05:30.992961+05:30.772346+05:30.817559+05:30.413937+05:30.324484+05:30.472404+05:30.722344+05:30.088271+05:30.008202+05:30.416368+05:30.558129+05:30.641788+05:30.475206+05:30.316516+05:30.443954+05:30.251607+05:30.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-31T01:37:46.146730+05:30.211265+05:30.779783+05:30.472042+05:30.751901+05:30.962897+05:30.460555+05:30.753564+05:30.062605+05:30.162889+05:30.730982+05:30.930531+05:30.485185+05:30.509506+05:30.469620+05:30.849048+05:30.662793+05:30.252050+05:30.839955+05:30.310041+05:30.639517+05:30.536761+05:30.188078+05:30.529905+05:30.965633+05:30.152342+05:30.626666+05:30.108517+05:30.753151+05:30.271887+05:30.872075+05:30.966688+05:30.250978+05:30.037358+05:30.968714+05:30.629281+05:30.095697+05:30.472432+05:30.920693+05:30.010068+05:30.598886+05:30.701957+05:30.295240+05:30.440210+05:30.976494+05:30.702173+05:30.617479+05:30.465113+05:30.684701+05:30.230418+05:30.444668+05:30.111348+05:30.417501+05:30.152166+05:30.721703+05:30.915382+05:30.966615+05:30.764113+05:30.385557+05:30.567332+05:30.735695+05:30.745434+05:30.313265+05:30.467864+05:30.366258+05:30.850219+05:30.600182+05:30.827864+05:30.160807+05:30.551753+05:30.048264+05:30.580228+05:30.218675+05:30.737117+05:30.133154+05:30.907114+05:30.995114+05:30.879918+05:30.100207+05:30.992961+05:30.772346+05:30.817559+05:30.413937+05:30.324484+05:30.472404+05:30.722344+05:30.088271+05:30.008202+05:30.416368+05:30.558129+05:30.641788+05:30.475206+05:30.316516+05:30.443954+05:30.251607+05:30.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.

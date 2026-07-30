@@ -18051,6 +18051,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `anthropic`, `benchmark`, `hackernews`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://dspy.ai/api/optimizers/GEPA/overview>
 
+* **[2x, not 10x: coding with LLMs in 2026](ai/community/2x-not-10x-coding-with-llms-in-2026.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by tnisonoff. Score: 61, Comments: 23. Original Link: https://obryant.dev/p/2x-not-10x/
+  * Tags: `hackernews`, `llm`
+  * Source URL: <https://obryant.dev/p/2x-not-10x>
+
 * **[7 Best GitHub Repositories For Mastering RAG Systems](ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)** (`framework` | `useful` tier)
   * Summary: * Retrieval-Augmented Generation (RAG) systems enhance Large Language Models (LLMs) by integrating external, contextually relevant data from knowledge bases, mitigating knowledge cut-off and hallucination for improved response accuracy and domain spe
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `producthunt`, `rag`, `reddit`, `scripts`, `threejs`, `web-crawled`, `workflows`
@@ -19501,11 +19506,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `rag`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <http://www.atlassian.com/git/tutorials/comparing-workflows>
 
-* **[Git worktrees are not an isolation boundary for coding agents](ai/community/git-worktrees-are-not-an-isolation-boundary-for-co.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by alchaplinsky. Score: 29, Comments: 29. Original Link: https://fletch.sh/blog/git-worktrees-vs-clones-for-ai-agents/
-  * Tags: `agents`, `hackernews`
-  * Source URL: <https://fletch.sh/blog/git-worktrees-vs-clones-for-ai-agents>
-
 * **[GitHub - pinecone-io/contextual-webinar-rag: Contextual RAG over webinar videos using Pinecone, Claude and AWS. · GitHub](ai/rag/pinecone-io-contextual-webinar-rag.md)** (`benchmark` | `useful` tier)
   * Summary: - **Contextual Video RAG Pipeline**: Implements a Retrieval-Augmented Generation (RAG) system for video data (YouTube, Zoom, meetings) using Pinecone for vector storage, AWS Bedrock for Claude model access, and contextual retrieval for enhanced Q&A.
   * Tags: `anthropic`, `producthunt`, `rag`, `web-crawled`, `workflows`, `youtube`
@@ -19565,11 +19565,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Second-order conservative remapping in spherical coordinates**: Identified a previously unaddressed flaw in the centroid formulation derivation of a pioneer method, which could theoretically impact remapping accuracy but has negligible practical
   * Tags: `anthropic`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `models`, `paper`, `rag`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://gmd.copernicus.org/development_and_technical_paper.html>
-
-* **[Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)](ai/community/grafana-ai-sdk.md)** (`framework` | `useful` tier)
-  * Summary: Hacker News story by matryer. Score: 46, Comments: 13. Original Link: https://github.com/grafana/ai-sdk
-  * Tags: `ai`, `frontend_ui`, `hackernews`, `llm`
-  * Source URL: <https://github.com/grafana/ai-sdk>
 
 * **[Godot Docs – 4.7 branch — Godot Engine (stable) documentation in English](ai/rag/godot-docs-4-7-branch-godot-engine-stable-document.md)** (`benchmark` | `useful` tier)
   * Summary: - **Cross-platform 2D/3D engine** with native support for both 2D and 3D rendering pipelines, including Forward+, Mobile, and Compatibility renderers, alongside a lightweight, scene-tree-based architecture optimized for real-time applications. - **Mu
@@ -20796,11 +20791,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/raga-ai-hub/raga-llm-hub>
 
-* **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`template` | `useful` tier)
-  * Summary: * Jekyll source repository for `raganwald.com`, implying a static site generation workflow. * Hosted via GitHub Pages, indicated by the `raganwald.github.com` naming convention. * Primary output language is HTML, compiled from Jekyll templates.
-  * Tags: `github-repo`, `html`, `rag`, `workflows`
-  * Source URL: <https://github.com/raganwald/raganwald.github.com>
-
 * **[ragas/docs/getstarted/evals.md at main · vibrantlabsai/ragas · GitHub](ai/rag/vibrantlabsai-ragas.md)** (`framework` | `useful` tier)
   * Summary: - **Quickstart Setup**: The `ragas quickstart rag_eval` command generates a modular project with `evals.py` (evaluation workflow), `rag.py` (RAG/LLM application), and structured directories (`evals/datasets/`, `experiments/`, `logs/`) for dataset man
   * Tags: `anthropic`, `benchmark`, `dataset`, `meta-ai`, `mistral`, `models`, `openai`, `rag`, `web-crawled`, `workflows`
@@ -20987,7 +20977,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.22712>
 
 * **[SDL_GPU minimal, single-header, high-performance 2D graphics painting library](ai/community/n67094-sdl-gp.md)** (`framework` | `useful` tier)
-  * Summary: Hacker News story by n67094. Score: 34, Comments: 11. Original Link: https://github.com/n67094/sdl_gp
+  * Summary: Hacker News story by n67094. Score: 50, Comments: 16. Original Link: https://github.com/n67094/sdl_gp
   * Tags: `ai`, `hackernews`
   * Source URL: <https://github.com/n67094/sdl_gp>
 
@@ -21037,9 +21027,14 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://shibuya.lepture.com>
 
 * **[Show HN: Claude-account – switch Claude Code accounts without logging in again](ai/community/hamzarehmandeveloper-claude-account.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by hamza_rehman. Score: 11, Comments: 7. Original Link: https://github.com/hamzarehmandeveloper/claude-account
+  * Summary: Hacker News story by hamza_rehman. Score: 34, Comments: 22. Original Link: https://github.com/hamzarehmandeveloper/claude-account
   * Tags: `ai`, `anthropic`, `hackernews`, `reddit`
   * Source URL: <https://github.com/hamzarehmandeveloper/claude-account>
+
+* **[Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents](ai/community/yashmahajan10-llm-differential-privacy-gateway.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by yashmahajan10. Score: 8, Comments: 0. Original Link: https://github.com/yashmahajan10/llm-differential-privacy-gateway
+  * Tags: `agents`, `ai`, `hackernews`
+  * Source URL: <https://github.com/yashmahajan10/llm-differential-privacy-gateway>
 
 * **[Signature filtering: a lightweight enhancement for statistical watermark detection in large language models](ai/research/arxiv-2606-18430.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18430v1 Announce Type: new Abstract: Statistical watermarks help organizations attribute large language model (LLM) outputs, yet existing detectors often struggle when watermark signals are weak, texts are repetitive, or watermarks are edi
@@ -93371,11 +93366,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2312.08230>
 
-* **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * Introduces RAGTruth, a specialized corpus for evaluating and mitigating hallucinations in Retrieval-Augmented Language Models (RAG-LMs). * Provides a benchmark dataset specifically designed to assess the factual consistency and trustworthiness of R
-  * Tags: `benchmark`, `dataset`, `github-repo`, `python`, `rag`
-  * Source URL: <https://github.com/ParticleMedia/RAGTruth>
-
 * **[PASs-MoE: Mitigating Misaligned Co-drift among Router and Experts via Pathway Activation Subspaces for Continual Learning](ai/research/arxiv-2601-13020.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2601.13020v2 Announce Type: replace-cross Abstract: Continual instruction tuning (CIT) requires multimodal large language models (MLLMs) to adapt to a stream of tasks without forgetting prior capabilities. A common strategy is to isolate update
   * Tags: `benchmark`, `models`
@@ -95377,7 +95367,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17846>
 
 * **[Qwen/Qwen3-0.6B](ai/models/huggingface-qwen-qwen3-0-6b.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1465, Downloads: 28544146)
+  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1466, Downloads: 28544146)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/qwen/qwen3-0.6b>
 
@@ -98144,7 +98134,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5143, Downloads: 254507269)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5144, Downloads: 254507269)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -111765,7 +111755,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
 * **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tool` | `useful` tier)
-  * Summary: * Focuses on large language model (LLM) application development. * Im
+  * Summary: * Curriculum for practical LLM application development. * Leverages Lang
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -117709,6 +117699,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2604.20711>
 
+* **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
+  * Summary: * Introduces RAGTruth, a specialized corpus designed for the evaluation and mitigation of hallucinations in Retrieval-Augmented Language Models (RAGs). * Facilitates the development of trustworthy RAG systems by providing a benchmark for assessing fa
+  * Tags: `benchmark`, `github-repo`, `models`, `python`, `rag`
+  * Source URL: <https://github.com/ParticleMedia/RAGTruth>
+
 * **[Pass the Baton: Trajectory-Relayed On-Policy Distillation](ai/rag/arxiv-2607-26057.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.26057v1 Announce Type: cross Abstract: On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent g
   * Tags: `benchmark`, `rag`
@@ -118553,6 +118548,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **RAG Architecture**: Five-step pipeline—load documents, chunk into retrieval-sized pieces, embed into vector representations, retrieve semantically similar chunks via vector similarity search, and generate grounded answers by passing retrieved con
   * Tags: `benchmark`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`
   * Source URL: <https://superml.org/tutorials/rag-beginner>
+
+* **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
+  * Summary: * Jekyll-powered GitHub Pages source for `raganwald.com`. *
+  * Tags: `github-repo`, `html`, `rag`
+  * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
 * **[ragnarokoffline/ragnarokoffline.github.io](ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)** (`tool` | `useful` tier)
   * Summary: * Distributes a pre-renewal pack for Ragnarok Offline, hosted via `github.io`. * Targets `ragnarokonline` pre-renewal mechanics, integrating with `openkore` and `rathena` ecosystems. * Repository serves as a resource for `ragnarokoffline` server/clie
@@ -119790,7 +119790,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.00558>
 
 * **[sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1336, Downloads: 55559128)
+  * Summary: Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1337, Downloads: 55559128)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2>
 
@@ -123384,6 +123384,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: React Three Fiber 3D Avatar Builder Tutorial
   * Tags: `frontend_ui`, `threejs`
   * Source URL: <https://github.com/wass08/r3f-ultimate-character-configurator>
+
+* **[We don't need no stinkin' tensor library: solving poker in custom WebGPU kernels](web-development/community/we-don-t-need-no-stinkin-tensor-library-solving-po.md)** (`framework` | `useful` tier)
+  * Summary: Hacker News story by patrickhulin. Score: 7, Comments: 1. Original Link: https://phulin.me/blog/poker/
+  * Tags: `hackernews`, `reddit`, `threejs`, `webgpu`
+  * Source URL: <https://phulin.me/blog/poker>
 
 * **[webgpu-tools/wesl-rs](web-development/webgpu/webgpu-tools-wesl-rs.md)** (`tool` | `useful` tier)
   * Summary: wesl-rs: a compiler for WESL (WGSL Extended) shaders.

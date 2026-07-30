@@ -15,13 +15,14 @@ tags:
 - frontend_ui
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: github:grafana/ai-sdk
 first_seen: '2026-07-30T20:01:26.165476+05:30'
 last_seen: '2026-07-30T22:18:57.214913+05:30'
 last_checked: '2026-07-30T22:18:57.214913+05:30'
 health_score: 100
 ---
+
 
 # Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)
 

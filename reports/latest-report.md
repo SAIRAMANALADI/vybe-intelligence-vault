@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-31T00:58:55.987519+05:30`
+Generated at: `2026-07-31T01:41:29.013565+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,35 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **2x, not 10x: coding with LLMs in 2026** - Score: `61` in category `ai/community` ([Link](https://obryant.dev/p/2x-not-10x)) ([File](../ai/community/2x-not-10x-coding-with-llms-in-2026.md))
+- **Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents** - Score: `8` in category `ai/community` ([Link](https://github.com/yashmahajan10/llm-differential-privacy-gateway)) ([File](../ai/community/yashmahajan10-llm-differential-privacy-gateway.md))
+- **We don't need no stinkin' tensor library: solving poker in custom WebGPU kernels** - Score: `7` in category `web-development/community` ([Link](https://phulin.me/blog/poker)) ([File](../web-development/community/we-don-t-need-no-stinkin-tensor-library-solving-po.md))
 
 ## Top Trending Resources
 
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+971` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+971` ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+971` ([File](../ai/rag/particlemedia-ragtruth.md))
-- **kylestratis/ai_agents_mcp_examples** - Score: `0` (0), Rank Change: `+971` ([File](../ai/agents/kylestratis-ai-agents-mcp-examples.md))
-- **TEN-framework/ten-framework** - Score: `0` (0), Rank Change: `+971` ([File](../ai/agents/ten-framework-ten-framework.md))
-- **airweave-ai/airweave** - Score: `0` (0), Rank Change: `+971` ([File](../ai/rag/airweave-ai-airweave.md))
-- **docker/compose-for-agents** - Score: `0` (0), Rank Change: `+971` ([File](../ai/agents/docker-compose-for-agents.md))
-- **huangjia2019/ai-agents** - Score: `0` (0), Rank Change: `+971` ([File](../ai/agents/huangjia2019-ai-agents.md))
-- **coleam00/ottomator-agents** - Score: `0` (0), Rank Change: `+971` ([File](../ai/agents/coleam00-ottomator-agents.md))
-- **langchain-ai/open-swe** - Score: `0` (0), Rank Change: `+971` ([File](../ai/agents/langchain-ai-open-swe.md))
+- **Show HN: Claude-account – switch Claude Code accounts without logging in again** - Score: `34` (+23), Rank Change: `+1` ([File](../ai/community/hamzarehmandeveloper-claude-account.md))
+- **SDL_GPU minimal, single-header, high-performance 2D graphics painting library** - Score: `50` (+16), Rank Change: `0` ([File](../ai/community/n67094-sdl-gp.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+974` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+972` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - Score: `0` (0), Rank Change: `+1` ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
+- **Sunsetting Create React App** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/sunsetting-create-react-app.md))
+- **Wan-AI/Wan2.2-Animate** - Score: `0` (0), Rank Change: `+1` ([File](../ai/models/huggingface-spaces-wan-ai.md))
+- **AP123/IllusionDiffusion** - Score: `0` (0), Rank Change: `+1` ([File](../ai/models/huggingface-spaces-ap123.md))
+- **dalle-mini/dalle-mini** - Score: `0` (0), Rank Change: `+1` ([File](../ai/models/huggingface-spaces-dalle-mini.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **infiniflow/ragflow** - (Rank Change: `+12774`) ([File](../ai/rag/infiniflow-ragflow-2.md))
-- **monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1** - (Rank Change: `+973`) ([File](../ai/rag/monday-service-langsmith-building-a-code-first-eva.md))
-- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+973`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
-- **promptfoo/promptfoo-action** - (Rank Change: `+973`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
-- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+973`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
-- **Understanding RAG from Scratch | martinuke0's Blog** - (Rank Change: `+973`) ([File](../ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md))
-- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+973`) ([File](../ai/rag/arxiv-2606-29031.md))
-- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+973`) ([File](../ai/research/arxiv-2606-26428.md))
-- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+973`) ([File](../ai/research/arxiv-2606-21887.md))
-- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+973`) ([File](../ai/rag/arxiv-2606-09677.md))
+- **ParticleMedia/RAGTruth** - (Rank Change: `+974`) ([File](../ai/rag/particlemedia-ragtruth.md))
+- **raganwald/raganwald.github.com** - (Rank Change: `+972`) ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **lpiccinelli/unidepth-v2-vitl14** - (Rank Change: `+6`) ([File](../ai/models/huggingface-lpiccinelli-unidepth-v2-vitl14.md))
+- **sentence-transformers/all-mpnet-base-v2** - (Rank Change: `+6`) ([File](../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md))
+- **Qwen/Qwen3-0.6B** - (Rank Change: `+6`) ([File](../ai/models/huggingface-qwen-qwen3-0-6b.md))
+- **BAAI/bge-m3** - (Rank Change: `+6`) ([File](../ai/rag/huggingface-baai-bge-m3.md))
+- **google/electra-base-discriminator** - (Rank Change: `+6`) ([File](../ai/models/huggingface-google-electra-base-discriminator.md))
+- **sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2** - (Rank Change: `+6`) ([File](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md))
+- **BAAI/bge-small-en-v1.5** - (Rank Change: `+6`) ([File](../ai/rag/huggingface-baai-bge-small-en-v1-5.md))
+- **cross-encoder/ms-marco-MiniLM-L6-v2** - (Rank Change: `+6`) ([File](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +47,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)** (Category: `ai/community`) ([File](../ai/community/grafana-ai-sdk.md))
+- **Git worktrees are not an isolation boundary for coding agents** (Category: `ai/community`) ([File](../ai/community/git-worktrees-are-not-an-isolation-boundary-for-co.md))

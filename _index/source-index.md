@@ -12070,10 +12070,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Git worktrees are not an isolation boundary for coding agents](../ai/community/git-worktrees-are-not-an-isolation-boundary-for-co.md)
-  - [Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)](../ai/community/grafana-ai-sdk.md)
+  - [2x, not 10x: coding with LLMs in 2026](../ai/community/2x-not-10x-coding-with-llms-in-2026.md)
   - [SDL_GPU minimal, single-header, high-performance 2D graphics painting library](../ai/community/n67094-sdl-gp.md)
   - [Show HN: Claude-account – switch Claude Code accounts without logging in again](../ai/community/hamzarehmandeveloper-claude-account.md)
+  - [Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents](../ai/community/yashmahajan10-llm-differential-privacy-gateway.md)
+  - [We don't need no stinkin' tensor library: solving poker in custom WebGPU kernels](../web-development/community/we-don-t-need-no-stinkin-tensor-library-solving-po.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -15332,4 +15333,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-30T22:35:57.400414+05:30*
+*Index generated on 2026-07-31T01:38:51.673912+05:30*

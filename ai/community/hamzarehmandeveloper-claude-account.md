@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/hamzarehmandeveloper/claude-account
 hn_url: https://news.ycombinator.com/item?id=49111019
-score: 11
+score: 34
 author: hamza_rehman
-comments_count: 7
+comments_count: 22
 published_at: '2026-07-30T20:28:59+05:30'
-collected_at: '2026-07-30T22:18:55.996271+05:30'
+collected_at: '2026-07-31T01:21:38.790312+05:30'
 tags:
 - ai
 - anthropic
@@ -18,8 +18,8 @@ tags:
 status: active
 resource_id: github:hamzarehmandeveloper/claude-account
 first_seen: '2026-07-30T22:18:55.996271+05:30'
-last_seen: '2026-07-30T22:18:55.996271+05:30'
-last_checked: '2026-07-30T22:18:55.996271+05:30'
+last_seen: '2026-07-31T01:21:38.790312+05:30'
+last_checked: '2026-07-31T01:21:38.790312+05:30'
 health_score: 100
 ---
 
@@ -27,7 +27,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by hamza_rehman. Score: 11, Comments: 7.
+Hacker News story by hamza_rehman. Score: 34, Comments: 22.
 Original Link: https://github.com/hamzarehmandeveloper/claude-account
 
 ## Why It Matters
@@ -37,8 +37,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: hamza_rehman
-- Score: 11 Upvotes
-- Comments: 7 Discussions
+- Score: 34 Upvotes
+- Comments: 22 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49111019
 - Original Article: https://github.com/hamzarehmandeveloper/claude-account
 

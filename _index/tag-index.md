@@ -1255,7 +1255,6 @@ Resources organized by keyword tags.
   - [Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory](../ai/research/ghost-in-the-minecraft-generally-capable-agents-fo.md)
   - [Gimitest: A Comprehensive Tool for Testing Reinforcement Learning Policies](../ai/agents/arxiv-2607-07029.md)
   - [Git : Code : snapd](../ai/agents/git-code-snapd.md)
-  - [Git worktrees are not an isolation boundary for coding agents](../ai/community/git-worktrees-are-not-an-isolation-boundary-for-co.md)
   - [GitBook · GitHub](../ai/agents/gitbook-github.md)
   - [GitHub CLI | Take GitHub to the command line](../ai/agents/github-cli-take-github-to-the-command-line.md)
   - [GitHub Copilot CLI command reference - GitHub Docs](../ai/rag/github-copilot-cli-command-reference-github-docs.md)
@@ -2508,6 +2507,7 @@ Resources organized by keyword tags.
   - [Shift & Drift: A Zero-Shot Benchmark for Generalizable and Robust Autonomous Driving Motion Planning](../ai/rag/arxiv-2607-07844.md)
   - [ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](../ai/agents/arxiv-2606-31693.md)
   - [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](../ai/agents/arxiv-2605-22142.md)
+  - [Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents](../ai/community/yashmahajan10-llm-differential-privacy-gateway.md)
   - [Shutdownable Agents through POST-Agency](../ai/agents/arxiv-2505-20203.md)
   - [Siamese Neural Network for Label-Efficient Critical Phenomena Prediction in 3D Percolation Models](../ai/agents/arxiv-2507-14159.md)
   - [Signed Compression Progress on a Sealed Audit is Goodhart-Resistant](../ai/agents/arxiv-2606-11417.md)
@@ -3431,9 +3431,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)](../ai/community/grafana-ai-sdk.md)
   - [SDL_GPU minimal, single-header, high-performance 2D graphics painting library](../ai/community/n67094-sdl-gp.md)
   - [Show HN: Claude-account – switch Claude Code accounts without logging in again](../ai/community/hamzarehmandeveloper-claude-account.md)
+  - [Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents](../ai/community/yashmahajan10-llm-differential-privacy-gateway.md)
 
 ## animation
 
@@ -11157,7 +11157,6 @@ Resources organized by keyword tags.
   - [Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification](../ai/research/arxiv-2604-26675.md)
   - [ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits](../ai/research/arxiv-2607-23225.md)
   - [ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](../ai/research/arxiv-2606-04468.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pathways of Visual Information Flow in Vision-Language Models](../ai/research/arxiv-2607-03358.md)
   - [Patient-Agnostic Synthetic Pretraining for Efficient Patient-Specific Intraoperative 2D/3D Registration](../ai/research/arxiv-2607-23343.md)
   - [Pattern-Aware Graph Neural Networks for Handling Missing Data](../ai/rag/arxiv-2607-08915.md)
@@ -12354,7 +12353,6 @@ Resources organized by keyword tags.
   - [Getting started | CHI@Edge](../ai/resources/getting-started-chi-edge.md)
   - [GitHub Copilot CLI · GitHub](../ai/agents/features-copilot.md)
   - [GitHub Enterprise · The AI-powered developer platform for the agent-ready enterprise · GitHub](../ai/rag/github-enterprise-the-ai-powered-developer-platfor.md)
-  - [Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)](../ai/community/grafana-ai-sdk.md)
   - [Graph Instance Landscapes: When Structural Similarity Does (Not) Reflect Shortest-Path Performance](../ai/research/arxiv-2606-18267.md)
   - [Graph neural networks in TensorFlow](../ai/rag/graph-neural-networks-in-tensorflow.md)
   - [Graph neural networks in TensorFlow — The TensorFlow Blog](../ai/rag/graph-neural-networks-in-tensorflow-the-tensorflow.md)
@@ -13483,6 +13481,7 @@ Resources organized by keyword tags.
   - [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md)
   - [2025 Stack Overflow Developer Survey](../ai/rag/2025-stack-overflow-developer-survey.md)
   - [24*I:cset_awesome*](../ai/agents/24-i-cset-awesome.md)
+  - [2x, not 10x: coding with LLMs in 2026](../ai/community/2x-not-10x-coding-with-llms-in-2026.md)
   - [3.14.6 Documentation](../ai/resources/3-14-6-documentation.md)
   - [40th General Assembly of the European Seismological Commission - ESC 2026](../ai/resources/40th-general-assembly-of-the-european-seismologica.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
@@ -14276,7 +14275,6 @@ Resources organized by keyword tags.
   - [Giskard : Byzantine Robust and Confidential Aggregation for Large-Scale Decentralized Learning](../ai/research/arxiv-2606-19129.md)
   - [Git : Code : snapd](../ai/agents/git-code-snapd.md)
   - [Git Workflow | Atlassian Git Tutorial](../ai/rag/git-workflow-atlassian-git-tutorial.md)
-  - [Git worktrees are not an isolation boundary for coding agents](../ai/community/git-worktrees-are-not-an-isolation-boundary-for-co.md)
   - [Git-Assistant: Planning-Based Support for Updating Git Repositories](../ai/research/arxiv-2607-09224.md)
   - [GitBook · GitHub](../ai/agents/gitbook-github.md)
   - [GitHub - commonmark/commonmark-spec: CommonMark spec, with reference implementations in C and JavaScript · GitHub](../ai/rag/github-commonmark-commonmark-spec-commonmark-spec.md)
@@ -14297,7 +14295,6 @@ Resources organized by keyword tags.
   - [Global drivers and barriers to the public acceptance of autonomous vehicles: Evidence from 17 countries](../ai/agents/arxiv-2607-14436.md)
   - [Glossary](../ai/rag/glossary.md)
   - [GnuTLS](../ai/resources/gnutls.md)
-  - [Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)](../ai/community/grafana-ai-sdk.md)
   - [Goal-Driven Reasoning in DatalogMTL with Magic Sets](../ai/research/arxiv-2412-07259.md)
   - [Godot Development Fund](../ai/rag/godot-development-fund.md)
   - [Godot Docs – 4.7 branch — Godot Engine (stable) documentation in English](../ai/rag/godot-docs-4-7-branch-godot-engine-stable-document.md)
@@ -15176,6 +15173,7 @@ Resources organized by keyword tags.
   - [Shared SFT Lessons Across Alignment, Model Organisms, and Toy Models](../ai/research/arxiv-2607-26173.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
   - [Show HN: Claude-account – switch Claude Code accounts without logging in again](../ai/community/hamzarehmandeveloper-claude-account.md)
+  - [Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents](../ai/community/yashmahajan10-llm-differential-privacy-gateway.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Sign in to GitHub · GitHub](../ai/resources/langchain-ai-docs.md)
@@ -15540,6 +15538,7 @@ Resources organized by keyword tags.
   - [WasmAssembly](../ai/resources/wasmassembly.md)
   - [Water in the West | Water Programs](../ai/resources/water-in-the-west-water-programs.md)
   - [WattCouncil: Context-Aware Household Energy Scenario Generation With Governed LLMs](../ai/agents/arxiv-2607-10720.md)
+  - [We don't need no stinkin' tensor library: solving poker in custom WebGPU kernels](../web-development/community/we-don-t-need-no-stinkin-tensor-library-solving-po.md)
   - [Weaviate Database | Weaviate Documentation](../ai/rag/weaviate-database-weaviate-documentation.md)
   - [Weaviate vector database - YouTube](../ai/rag/weaviate-vector-database-youtube.md)
   - [Web Application Security | Working Groups | Discover W3C groups | W3C](../ai/resources/web-application-security-working-groups-discover-w.md)
@@ -16231,7 +16230,7 @@ Resources organized by keyword tags.
 
 ## llm
 
-  - [Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)](../ai/community/grafana-ai-sdk.md)
+  - [2x, not 10x: coding with LLMs in 2026](../ai/community/2x-not-10x-coding-with-llms-in-2026.md)
 
 ## mdx
 
@@ -18540,6 +18539,7 @@ Resources organized by keyword tags.
   - [ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits](../ai/research/arxiv-2607-23225.md)
   - [Parthenon Law: A Self-Evolving Legal-Agent Framework](../ai/agents/arxiv-2606-04602.md)
   - [Partial Fusion of Neural Networks: Efficient Tradeoffs Between Ensembles and Weight Aggregation](../ai/research/arxiv-2605-22350.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pass@K Policy Optimization: Solving Harder Reinforcement Learning Problems](../ai/research/arxiv-2505-15201.md)
   - [Patcher: Post-Hoc Patching of Backdoored Large Language Models](../ai/research/arxiv-2606-02995.md)
   - [PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](../ai/agents/arxiv-2607-19261.md)
@@ -28880,6 +28880,7 @@ Resources organized by keyword tags.
   - [Volobsis - IPGP](../ai/resources/volobsis-ipgp.md)
   - [Want to learn more? Download the Wikipedia app – Wikimedia Foundation](../ai/rag/want-to-learn-more-download-the-wikipedia-app-wiki.md)
   - [Watch YouTube TV on supported devices - Computer - YouTube TV Help](../ai/rag/watch-youtube-tv-on-supported-devices-computer-you.md)
+  - [We don't need no stinkin' tensor library: solving poker in custom WebGPU kernels](../web-development/community/we-don-t-need-no-stinkin-tensor-library-solving-po.md)
   - [WeTeach_CS Home](../ai/resources/weteach-cs-home.md)
   - [Web Application Security | Working Groups | Discover W3C groups | W3C](../ai/resources/web-application-security-working-groups-discover-w.md)
   - [Web Authentication (WebAuthn) Credential and Login Demo](../ai/resources/web-authentication-webauthn-credential-and-login-d.md)
@@ -29838,6 +29839,7 @@ Resources organized by keyword tags.
   - [Unity Issue Tracker](../ai/rag/unity-issue-tracker.md)
   - [Unity: Develop, Deploy, and Grow | The World's Leading Game Engine](../ai/rag/unity-develop-deploy-and-grow-the-world-s-leading.md)
   - [Use the Performance view](../ai/rag/use-the-performance-view.md)
+  - [We don't need no stinkin' tensor library: solving poker in custom WebGPU kernels](../web-development/community/we-don-t-need-no-stinkin-tensor-library-solving-po.md)
   - [Web IDL Standard](../ai/rag/web-idl-standard.md)
   - [What is the Model Context Protocol (MCP)? - Model Context Protocol](../ai/agents/what-is-the-model-context-protocol-mcp-model-conte.md)
   - [abstract algebra - How to compute Krull dimension concretely - Mathematics Stack Exchange](../ai/resources/abstract-algebra-how-to-compute-krull-dimension-co.md)
@@ -32289,6 +32291,10 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
+## webgpu
+
+  - [We don't need no stinkin' tensor library: solving poker in custom WebGPU kernels](../web-development/community/we-don-t-need-no-stinkin-tensor-library-solving-po.md)
+
 ## workflows
 
   - ["Skill Issues'': Data-Centric Optimization of Lakehouse Agents](../ai/agents/arxiv-2606-01185.md)
@@ -33478,7 +33484,6 @@ Resources organized by keyword tags.
   - [pyodide-build — pyodide-build 0.35.2.dev9+g32bede8f1 documentation](../ai/resources/pyodide-build-pyodide-build-0-35-2-dev9-g32bede8f1.md)
   - [python-poetry/poetry](../ai/resources/python-poetry-poetry.md)
   - [raga-ai-hub/raga-llm-hub](../ai/rag/raga-ai-hub-raga-llm-hub.md)
-  - [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md)
   - [ragas/docs/getstarted/evals.md at main · vibrantlabsai/ragas · GitHub](../ai/rag/vibrantlabsai-ragas.md)
   - [ray-project/llm-applications](../ai/rag/ray-project-llm-applications.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
@@ -35091,4 +35096,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-30T22:35:57.255883+05:30*
+*Index generated on 2026-07-31T01:38:51.501692+05:30*
