@@ -12071,11 +12071,11 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [AI's top startups are barely publishing their research](../ai/community/ai-s-top-startups-are-barely-publishing-their-rese.md)
-  - [I Have Thoughts on the iPhone Air](../ai/community/i-have-thoughts-on-the-iphone-air.md)
+  - [Carolina Cloud pays SOFR on unused prepaid credits](../ai/community/carolina-cloud-pays-sofr-on-unused-prepaid-credits.md)
   - [Kuna: Decompiler Development in the Age of Coding Agents](../ai/community/kuna-decompiler-development-in-the-age-of-coding-a.md)
   - [LLM Honeypot](../ai/community/llm-honeypot.md)
-  - [Refactoring cuisine: how an Iraqi stew sailed to Singapore](../ai/community/refactoring-cuisine-how-an-iraqi-stew-sailed-to-si.md)
   - [Some thoughts about Anthropic's new cryptanalysis results](../ai/community/some-thoughts-about-anthropic-s-new-cryptanalysis.md)
+  - [Tailscale with Mullvad leaks your DNS](../ai/community/tailscale-tailscale.md)
   - [The Cold Email](../ai/community/the-cold-email.md)
   - [The Productivity Mirage](../ai/community/the-productivity-mirage.md)
 
@@ -15335,4 +15335,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-30T14:36:42.997710+05:30*
+*Index generated on 2026-07-30T17:08:53.721265+05:30*

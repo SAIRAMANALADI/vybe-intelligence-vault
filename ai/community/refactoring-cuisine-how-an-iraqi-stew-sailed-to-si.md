@@ -13,13 +13,14 @@ collected_at: '2026-07-30T14:19:35.961569+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:refactoring-cuisine-how-an-iraqi-stew-sailed-to-si
 first_seen: '2026-07-30T08:57:30.509088+05:30'
 last_seen: '2026-07-30T14:19:35.961569+05:30'
 last_checked: '2026-07-30T14:19:35.961569+05:30'
 health_score: 100
 ---
+
 
 # Refactoring cuisine: how an Iraqi stew sailed to Singapore
 

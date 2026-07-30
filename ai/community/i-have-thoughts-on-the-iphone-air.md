@@ -13,13 +13,14 @@ collected_at: '2026-07-30T14:19:33.549060+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:i-have-thoughts-on-the-iphone-air
 first_seen: '2026-07-30T14:19:33.549060+05:30'
 last_seen: '2026-07-30T14:19:33.549060+05:30'
 last_checked: '2026-07-30T14:19:33.549060+05:30'
 health_score: 100
 ---
+
 
 # I Have Thoughts on the iPhone Air
 

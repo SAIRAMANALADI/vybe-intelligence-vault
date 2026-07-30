@@ -11684,7 +11684,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.04686>
 
 * **[Tools Are Not Islands: Set-Level Tool Retrieval for LLM Agents via Query-Conditioned Hyperedge Prediction](ai/agents/arxiv-2607-25718.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2607.25718v2 Announce Type: replace Abstract: Large language model (LLM) agents increasingly rely on invoking external tools to complete real-world tasks. Tool retrieval, which selects a small task-relevant subset from a library of thousands of
+  * Summary: arXiv:2607.25718v2 Announce Type: cross Abstract: Large language model (LLM) agents increasingly rely on invoking external tools to complete real-world tasks. Tool retrieval, which selects a small task-relevant subset from a library of thousands of t
   * Tags: `agents`, `paper`
   * Source URL: <https://arxiv.org/abs/2607.25718>
 
@@ -18626,6 +18626,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `openai`, `paper`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.14818>
 
+* **[Carolina Cloud pays SOFR on unused prepaid credits](ai/community/carolina-cloud-pays-sofr-on-unused-prepaid-credits.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by bojangleslover. Score: 3, Comments: 0. Original Link: https://docs.carolinacloud.io/organizations/prepaid-interest/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://docs.carolinacloud.io/organizations/prepaid-interest>
+
 * **[Catching magnetic resonance imaging outliers in artificial intelligence-supported radiotherapy workflows: unsupervised detection and localization of image anomalies using deep learning](ai/research/arxiv-2605-24609.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.24609v2 Announce Type: replace-cross Abstract: Artificial intelligence is increasingly integrated into radiotherapy workflows, yet such pipelines remain vulnerable to out-of-distribution image data that may introduce unexpected behavior in
   * Tags: `benchmark`, `dataset`, `scripts`, `workflows`
@@ -19756,11 +19761,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.23983>
 
-* **[I Have Thoughts on the iPhone Air](ai/community/i-have-thoughts-on-the-iphone-air.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by janandonly. Score: 25, Comments: 16. Original Link: https://christianselig.com/2026/07/iphone-air-review/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://christianselig.com/2026/07/iphone-air-review>
-
 * **[ICA Lens: Interpreting Language Models Without Training Another Dictionary](ai/research/arxiv-2606-11722.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.11722v1 Announce Type: new Abstract: Finding interpretable directions in language-model representations is critical for understanding and controlling model behavior. Sparse autoencoders (SAEs) have become the standard tool for this purpose
   * Tags: `models`, `workflows`
@@ -19962,7 +19962,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://help.turnitin.com/known-issues.htm>
 
 * **[Kuna: Decompiler Development in the Age of Coding Agents](ai/community/kuna-decompiler-development-in-the-age-of-coding-a.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by matt_d. Score: 30, Comments: 7. Original Link: https://noelo.org/blog/kuna-release/
+  * Summary: Hacker News story by matt_d. Score: 50, Comments: 10. Original Link: https://noelo.org/blog/kuna-release/
   * Tags: `agents`, `hackernews`
   * Source URL: <https://noelo.org/blog/kuna-release>
 
@@ -20132,7 +20132,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.19300>
 
 * **[LLM Honeypot](ai/community/llm-honeypot.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by 8thom. Score: 224, Comments: 57. Original Link: https://llm2human.pages.dev/
+  * Summary: Hacker News story by 8thom. Score: 279, Comments: 80. Original Link: https://llm2human.pages.dev/
   * Tags: `hackernews`, `llm`
   * Source URL: <https://llm2human.pages.dev>
 
@@ -20821,11 +20821,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `reddit`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://github.com/readthedocs/>
 
-* **[Refactoring cuisine: how an Iraqi stew sailed to Singapore](ai/community/refactoring-cuisine-how-an-iraqi-stew-sailed-to-si.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by infinitewalk. Score: 54, Comments: 20. Original Link: https://iza.ac/posts/2026/07/the-journey-of-bamya/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://iza.ac/posts/2026/07/the-journey-of-bamya>
-
 * **[REFORGE: A Method for Benchmarking LLMs' Reverse Engineering Capabilities in Decompiled Binary Function Naming](ai/research/arxiv-2607-07738.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.07738v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly applied to reverse-engineering tasks, and recent threat-intelligence reporting shows them operating inside live offensive-security workflows. Claims about
   * Tags: `benchmark`, `paper`, `workflows`
@@ -21082,7 +21077,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://firebase.google.com/use-cases>
 
 * **[Some thoughts about Anthropic's new cryptanalysis results](ai/community/some-thoughts-about-anthropic-s-new-cryptanalysis.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by supermatou. Score: 149, Comments: 80. Original Link: https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/
+  * Summary: Hacker News story by supermatou. Score: 165, Comments: 92. Original Link: https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/
   * Tags: `anthropic`, `hackernews`
   * Source URL: <https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results>
 
@@ -21215,6 +21210,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `models`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.12387>
 
+* **[Tailscale with Mullvad leaks your DNS](ai/community/tailscale-tailscale.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by dtj1123. Score: 4, Comments: 0. Original Link: https://github.com/tailscale/tailscale/issues/9284
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://github.com/tailscale/tailscale>
+
 * **[Tanium Developer Portal](ai/rag/tanium-developer-portal.md)** (`benchmark` | `useful` tier)
   * Summary: - **Tanium APIs** provide real-time endpoint visibility and control for developing management, security, and risk solutions, accessible via [API Documentation](https://developer.tanium.com/apis/api_intro). - **Integration Methods** include SIEM/Data
   * Tags: `agents`, `benchmark`, `hackernews`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
@@ -21261,7 +21261,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems/>
 
 * **[The Cold Email](ai/community/the-cold-email.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by holman. Score: 195, Comments: 76. Original Link: https://zachholman.com/posts/cold-email
+  * Summary: Hacker News story by holman. Score: 232, Comments: 88. Original Link: https://zachholman.com/posts/cold-email
   * Tags: `ai`, `hackernews`
   * Source URL: <https://zachholman.com/posts/cold-email>
 
@@ -21286,7 +21286,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://docs.kernel.org/>
 
 * **[The Productivity Mirage](ai/community/the-productivity-mirage.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by msephton. Score: 216, Comments: 70. Original Link: https://frantic.im/mirage/
+  * Summary: Hacker News story by msephton. Score: 266, Comments: 111. Original Link: https://frantic.im/mirage/
   * Tags: `hackernews`, `rag`
   * Source URL: <https://frantic.im/mirage>
 
@@ -73054,7 +73054,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.09235>
 
 * **[allenai/c4](ai/models/huggingface-datasets-allenai.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: allenai/c4 (Likes: 624, Downloads: 1608387)
+  * Summary: Trending Hugging Face dataset: allenai/c4 (Likes: 624, Downloads: 1538715)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/allenai>
 
@@ -73583,7 +73583,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.14613>
 
 * **[anisoleai/fineweb-tokenized](ai/models/huggingface-datasets-anisoleai.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: anisoleai/fineweb-tokenized (Likes: 23, Downloads: 8550451)
+  * Summary: Trending Hugging Face dataset: anisoleai/fineweb-tokenized (Likes: 23, Downloads: 6609627)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/anisoleai>
 
@@ -74463,7 +74463,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.07538>
 
 * **[ayuo/hd_tmp](ai/models/huggingface-datasets-ayuo.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: ayuo/hd_tmp (Likes: 29, Downloads: 1472629)
+  * Summary: Trending Hugging Face dataset: ayuo/hd_tmp (Likes: 29, Downloads: 1472012)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/ayuo>
 
@@ -74771,7 +74771,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2503.17020>
 
 * **[Benjy/typed_digital_signatures](ai/models/huggingface-datasets-benjy.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: Benjy/typed_digital_signatures (Likes: 21, Downloads: 1980023)
+  * Summary: Trending Hugging Face dataset: Benjy/typed_digital_signatures (Likes: 21, Downloads: 1757823)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/benjy>
 
@@ -76761,7 +76761,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/codegemma>
 
 * **[codeparrot/github-code](ai/models/huggingface-datasets-codeparrot.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: codeparrot/github-code (Likes: 413, Downloads: 4629240)
+  * Summary: Trending Hugging Face dataset: codeparrot/github-code (Likes: 413, Downloads: 4272400)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/codeparrot>
 
@@ -79382,7 +79382,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.03998>
 
 * **[Directional Influence Function: Estimating Training Data Influence in Constrained Learning](ai/research/arxiv-2607-23388.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2607.23388v3 Announce Type: replace Abstract: As constrained learning becomes increasingly common, models are trained under explicit feasibility requirements to enforce fairness, safety, robustness, regulariza- tion, and physics or logic constr
+  * Summary: arXiv:2607.23388v3 Announce Type: replace-cross Abstract: As constrained learning becomes increasingly common, models are trained under explicit feasibility requirements to enforce fairness, safety, robustness, regulariza- tion, and physics or logic
   * Source URL: <https://arxiv.org/abs/2607.23388>
 
 * **[Director of Machine Learning Insights](ai/models/huggingface-blog-ml-director-insights.md)** (`tutorial` | `useful` tier)
@@ -85113,7 +85113,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.11744>
 
 * **[hf-doc-build/doc-build-dev](ai/models/huggingface-datasets-hf-doc-build.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: hf-doc-build/doc-build-dev (Likes: 50, Downloads: 1740100)
+  * Summary: Trending Hugging Face dataset: hf-doc-build/doc-build-dev (Likes: 50, Downloads: 1705330)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/hf-doc-build>
 
@@ -85792,7 +85792,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/iisc-huggingface-collab>
 
 * **[huggingface/documentation-images](ai/models/huggingface-datasets-huggingface.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: huggingface/documentation-images (Likes: 173, Downloads: 1960270)
+  * Summary: Trending Hugging Face dataset: huggingface/documentation-images (Likes: 173, Downloads: 1967613)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/huggingface>
 
@@ -87567,7 +87567,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02680>
 
 * **[k9cli/video-vec2wav2-tokenizer](ai/models/huggingface-datasets-k9cli.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: k9cli/video-vec2wav2-tokenizer (Likes: 14, Downloads: 1673066)
+  * Summary: Trending Hugging Face dataset: k9cli/video-vec2wav2-tokenizer (Likes: 14, Downloads: 1819933)
   * Tags: `dataset`, `hf-dataset`, `huggingface`, `youtube`
   * Source URL: <https://huggingface.co/datasets/k9cli>
 
@@ -90984,7 +90984,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2511.12810>
 
 * **[mteb/leaderboard](ai/models/huggingface-spaces-mteb.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7595, Downloads: 0)
+  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7596, Downloads: 0)
   * Tags: `hf-space`, `huggingface`, `leaderboard`
   * Source URL: <https://huggingface.co/spaces/mteb>
 
@@ -93378,7 +93378,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2312.08230>
 
 * **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * Introduces RAGTruth, a specialized hallucination corpus for evaluating and improving the trustworthiness of Retrieval-Augmented Language Models (RAG). * Designed to benchmark RAG system robustness by identifying and mitigating factual inconsistenci
+  * Summary: * Introduces RAGTruth, a specialized corpus for evaluating and mitigating hallucinations in Retrieval-Augmented Language Models (RAG-LMs). * Provides a benchmark dataset specifically designed to assess the factual consistency and trustworthiness of R
   * Tags: `benchmark`, `dataset`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 
@@ -95383,7 +95383,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17846>
 
 * **[Qwen/Qwen3-0.6B](ai/models/huggingface-qwen-qwen3-0-6b.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1463, Downloads: 28544146)
+  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1464, Downloads: 28544146)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/qwen/qwen3-0.6b>
 
@@ -97145,7 +97145,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.24894>
 
 * **[ryanmarten/OpenThoughts-1k-sample](ai/models/huggingface-datasets-ryanmarten.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: ryanmarten/OpenThoughts-1k-sample (Likes: 44, Downloads: 1596090)
+  * Summary: Trending Hugging Face dataset: ryanmarten/OpenThoughts-1k-sample (Likes: 44, Downloads: 1608804)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/ryanmarten>
 
@@ -97272,7 +97272,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.05259>
 
 * **[Salesforce/wikitext](ai/models/huggingface-datasets-salesforce.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: Salesforce/wikitext (Likes: 754, Downloads: 1461508)
+  * Summary: Trending Hugging Face dataset: Salesforce/wikitext (Likes: 754, Downloads: 1471099)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/salesforce>
 
@@ -103858,7 +103858,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.06988>
 
 * **[Wan-AI/Wan2.2-Animate](ai/models/huggingface-spaces-wan-ai.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: Wan-AI/Wan2.2-Animate (Likes: 5119, Downloads: 0)
+  * Summary: Trending Hugging Face space: Wan-AI/Wan2.2-Animate (Likes: 5120, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/wan-ai>
 
@@ -108024,7 +108024,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.24616>
 
 * **[AI's top startups are barely publishing their research](ai/community/ai-s-top-startups-are-barely-publishing-their-rese.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by YeGoblynQueenne. Score: 435, Comments: 226. Original Link: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research
+  * Summary: Hacker News story by YeGoblynQueenne. Score: 500, Comments: 256. Original Link: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research
   * Tags: `ai`, `hackernews`
   * Source URL: <https://science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research>
 
@@ -110116,7 +110116,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/GenAIOps-project-template>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3291, Downloads: 35229091)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3292, Downloads: 35229091)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
@@ -110231,7 +110231,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2603.06576>
 
 * **[Beyond "What to Retrieve": Uncertainty in Retrieval-Augmented Code Generation](ai/rag/arxiv-2607-24884.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2607.24884v2 Announce Type: replace-cross Abstract: Repository-level code generation relies on heterogeneous evidence whose relevance, compatibility, and completeness are inherently uncertain. Similar-code examples, repository context, and proj
+  * Summary: arXiv:2607.24884v2 Announce Type: cross Abstract: Repository-level code generation relies on heterogeneous evidence whose relevance, compatibility, and completeness are inherently uncertain. Similar-code examples, repository context, and project-spec
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24884>
 
@@ -111766,7 +111766,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
 * **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: * Comprehensive RAG implementation guide leveraging LangChain and Llama-Index for LLM application development. * Integrates vector databases (Milvus) and graph databases (Neo4j) for knowledge retrieval, supporting diverse LLMs (DeepSeek, Kimi-K2) and
+  * Summary: * Comprehensive RAG system development guide, emphasizing full-stack implementation and advanced techniques. * Utilizes `LangChain` and `LlamaIndex` for orchestration, integrating `Milvus` for vector search and `Neo4j` for knowledge graph-based retri
   * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -118566,7 +118566,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://superml.org/tutorials/rag-beginner>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * GitHub Pages repository `raganwald/raganwald.github.com` functions as
+  * Summary: * Jekyll-based static site source for `raganwald.com`. * Utilizes GitHub Pages for deployment, indicated by the `*.github.com` repository naming convention. * Outputs HTML
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 

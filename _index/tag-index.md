@@ -3432,8 +3432,8 @@ Resources organized by keyword tags.
 ## ai
 
   - [AI's top startups are barely publishing their research](../ai/community/ai-s-top-startups-are-barely-publishing-their-rese.md)
-  - [I Have Thoughts on the iPhone Air](../ai/community/i-have-thoughts-on-the-iphone-air.md)
-  - [Refactoring cuisine: how an Iraqi stew sailed to Singapore](../ai/community/refactoring-cuisine-how-an-iraqi-stew-sailed-to-si.md)
+  - [Carolina Cloud pays SOFR on unused prepaid credits](../ai/community/carolina-cloud-pays-sofr-on-unused-prepaid-credits.md)
+  - [Tailscale with Mullvad leaks your DNS](../ai/community/tailscale-tailscale.md)
   - [The Cold Email](../ai/community/the-cold-email.md)
 
 ## ai agent builder
@@ -13859,6 +13859,7 @@ Resources organized by keyword tags.
   - [Cannot get 555 module to work - Electrical Engineering Stack Exchange](../ai/agents/cannot-get-555-module-to-work-electrical-engineeri.md)
   - [Canonical Variates in Wasserstein Metric Space](../ai/rag/arxiv-2405-15768.md)
   - [Canvas Privacy Notice | Center for Teaching Innovation](../ai/resources/canvas-privacy-notice-center-for-teaching-innovati.md)
+  - [Carolina Cloud pays SOFR on unused prepaid credits](../ai/community/carolina-cloud-pays-sofr-on-unused-prepaid-credits.md)
   - [Carpe Diem: Critical Learning Period-Aware Contract-Based Incentives for Federated Learning](../ai/rag/arxiv-2503-07869.md)
   - [Cartography and Imaging Sciences Discipline Node](../ai/rag/cartography-and-imaging-sciences-discipline-node.md)
   - [Catastrophic Compositional Generation: Why Vanilla Diffusion Models Fail to Extrapolate](../ai/research/arxiv-2606-23920.md)
@@ -14442,7 +14443,6 @@ Resources organized by keyword tags.
   - [HyGRL: Adaptive Hybrid Graph Reasoning for Multi-Entity Questions](../ai/rag/arxiv-2607-19398.md)
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
-  - [I Have Thoughts on the iPhone Air](../ai/community/i-have-thoughts-on-the-iphone-air.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IBAN-Prüfer: Validierung der internationalen Kontonummer](../ai/resources/iban-prufer-validierung-der-internationalen-konton.md)
@@ -15041,7 +15041,6 @@ Resources organized by keyword tags.
   - [Redirecting](../ai/resources/redirecting.md)
   - [Redirecting to Unicode Resources page](../ai/resources/redirecting-to-unicode-resources-page.md)
   - [Reducing the Complexity of Deep Learning Models for EEG Analysis on Wearable Devices](../ai/research/arxiv-2606-12742.md)
-  - [Refactoring cuisine: how an Iraqi stew sailed to Singapore](../ai/community/refactoring-cuisine-how-an-iraqi-stew-sailed-to-si.md)
   - [Refnd: Preventing Data Leakage in Relational Datasets](../ai/rag/arxiv-2607-19376.md)
   - [Refokus](../ai/rag/refokus.md)
   - [Regret Optimality of Sample Average Approximation for Data-Driven Newsvendor Problems: A General Optimization Perspective](../ai/rag/arxiv-2407-04900.md)
@@ -15295,6 +15294,7 @@ Resources organized by keyword tags.
   - [TXYZ Launches the Writing Assistant in Its Academic AI Platform](../ai/rag/txyz-launches-the-writing-assistant-in-its-academi.md)
   - [TXYZ: How AI Tools Help Students in Academic Research](../ai/resources/txyz-how-ai-tools-help-students-in-academic-resear.md)
   - [TabPFN Extensions for Interpretable Geotechnical Modelling](../ai/rag/arxiv-2603-21033.md)
+  - [Tailscale with Mullvad leaks your DNS](../ai/community/tailscale-tailscale.md)
   - [Talk to Posit Sales - We're Here to Help You](../ai/resources/talk-to-posit-sales-we-re-here-to-help-you.md)
   - [Taming Curvature: Architecture Warm-Up for Stable Transformer Training](../ai/research/arxiv-2606-16768.md)
   - [Tanium Developer Portal](../ai/rag/tanium-developer-portal.md)
@@ -35115,4 +35115,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-30T14:36:42.834396+05:30*
+*Index generated on 2026-07-30T17:08:53.548879+05:30*
