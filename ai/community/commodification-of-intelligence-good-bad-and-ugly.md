@@ -13,13 +13,14 @@ collected_at: '2026-07-30T08:57:30.156987+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:commodification-of-intelligence-good-bad-and-ugly
 first_seen: '2026-07-30T01:13:14.005307+05:30'
 last_seen: '2026-07-30T08:57:30.156987+05:30'
 last_checked: '2026-07-30T08:57:30.156987+05:30'
 health_score: 100
 ---
+
 
 # Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals
 

@@ -15,13 +15,14 @@ tags:
 - anthropic
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: github:funador/claude-code-merge-queue
 first_seen: '2026-07-30T08:57:29.648343+05:30'
 last_seen: '2026-07-30T08:57:29.648343+05:30'
 last_checked: '2026-07-30T08:57:29.648343+05:30'
 health_score: 100
 ---
+
 
 # Show HN: A local merge queue for parallel Claude Code agents
 

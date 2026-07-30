@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-75%2C470-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-133%2C273-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--30-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **75,470 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **133,273 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 14,507</p>
-        <p><b>Active:</b> 14,110 | <b>Inactive:</b> 397</p>
+        <p><b>Resources tracked:</b> 15,689</p>
+        <p><b>Active:</b> 15,290 | <b>Inactive:</b> 399</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,056</p>
+        <p><b>Archive Files:</b> 58,699</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 75,470 files</p>
-        <p><b>Last Update:</b> 2026-07-30 13:58 IST</p>
+        <p><b>Total Vault Size:</b> 133,273 files</p>
+        <p><b>Last Update:</b> 2026-07-30 14:39 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,26 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** • Rank: <kbd>+969</kbd>
-- 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+969</kbd>
-- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+969</kbd>
-- 🔼 **[datarobot-community/datarobot-agent-templates](ai/rag/datarobot-community-datarobot-agent-templates.md)** • Rank: <kbd>+969</kbd>
-- 🔼 **[TEN-framework/ten-framework](ai/agents/ten-framework-ten-framework.md)** • Rank: <kbd>+969</kbd>
+- 🔼 **[AI's top startups are barely publishing their research](ai/community/ai-s-top-startups-are-barely-publishing-their-rese.md)** • <kbd>+169 pts</kbd>
+- 🔼 **[The Productivity Mirage](ai/community/the-productivity-mirage.md)** • <kbd>+140 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[LLM Honeypot](ai/community/llm-honeypot.md)** • <kbd>+131 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[The Cold Email](ai/community/the-cold-email.md)** • <kbd>+82 pts</kbd>
+- 🔼 **[Some thoughts about Anthropic's new cryptanalysis results](ai/community/some-thoughts-about-anthropic-s-new-cryptanalysis.md)** • <kbd>+34 pts</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Kuna: Decompiler Development in the Age of Coding Agents](ai/community/kuna-decompiler-development-in-the-age-of-coding-a.md)** • Score: `30`
+- 🆕 **[I Have Thoughts on the iPhone Air](ai/community/i-have-thoughts-on-the-iphone-air.md)** • Score: `25`
+- 🆕 **[lpiccinelli/unidepth-v2-vitl14](ai/models/huggingface-lpiccinelli-unidepth-v2-vitl14.md)** • Score: `0`
+- 🆕 **[Analyzing Image Encoder Choices and Graph Homophily in GCN Frameworks for Breast Ultrasound Classification](ai/rag/arxiv-2607-12054.md)** • Score: `0`
+- 🆕 **[MLVC: Multi-platform Learned Video Codec for Real-World Deployment](ai/rag/arxiv-2606-28027.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals](ai/community/commodification-of-intelligence-good-bad-and-ugly.md)**
+- 💤 **[Show HN: A local merge queue for parallel Claude Code agents](ai/community/funador-claude-code-merge-queue.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
