@@ -15,13 +15,14 @@ tags:
 - anthropic
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: github:hamzarehmandeveloper/claude-account
 first_seen: '2026-07-30T22:18:55.996271+05:30'
 last_seen: '2026-07-31T01:21:38.790312+05:30'
 last_checked: '2026-07-31T01:21:38.790312+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Claude-account – switch Claude Code accounts without logging in again
 

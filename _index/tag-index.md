@@ -2507,7 +2507,6 @@ Resources organized by keyword tags.
   - [Shift & Drift: A Zero-Shot Benchmark for Generalizable and Robust Autonomous Driving Motion Planning](../ai/rag/arxiv-2607-07844.md)
   - [ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](../ai/agents/arxiv-2606-31693.md)
   - [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](../ai/agents/arxiv-2605-22142.md)
-  - [Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents](../ai/community/yashmahajan10-llm-differential-privacy-gateway.md)
   - [Shutdownable Agents through POST-Agency](../ai/agents/arxiv-2505-20203.md)
   - [Siamese Neural Network for Label-Efficient Critical Phenomena Prediction in 3D Percolation Models](../ai/agents/arxiv-2507-14159.md)
   - [Signed Compression Progress on a Sealed Audit is Goodhart-Resistant](../ai/agents/arxiv-2606-11417.md)
@@ -3431,9 +3430,7 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [SDL_GPU minimal, single-header, high-performance 2D graphics painting library](../ai/community/n67094-sdl-gp.md)
-  - [Show HN: Claude-account – switch Claude Code accounts without logging in again](../ai/community/hamzarehmandeveloper-claude-account.md)
-  - [Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents](../ai/community/yashmahajan10-llm-differential-privacy-gateway.md)
+  - [GCC steering committee announces AI policy](../ai/community/gcc-steering-committee-announces-ai-policy.md)
 
 ## animation
 
@@ -3771,7 +3768,6 @@ Resources organized by keyword tags.
   - [Seduced by the Narrative: Assessing Rule Adherence in Semi-Open Textual Sandboxes](../ai/agents/arxiv-2607-02802.md)
   - [Self-host LangSmith on Kubernetes - Docs by LangChain](../ai/rag/self-host-langsmith-on-kubernetes-docs-by-langchai.md)
   - [Shared SFT Lessons Across Alignment, Model Organisms, and Toy Models](../ai/research/arxiv-2607-26173.md)
-  - [Show HN: Claude-account – switch Claude Code accounts without logging in again](../ai/community/hamzarehmandeveloper-claude-account.md)
   - [SkillOpt-Lite: Better and Faster Agent Self-evolution via One Line of Vibe](../ai/agents/arxiv-2607-03451.md)
   - [Skilljar Academy](../ai/rag/skilljar-academy.md)
   - [Snyk VulnBench JS 1.0: Can LLMs Find the Same Bugs Twice?](../ai/agents/arxiv-2606-15762.md)
@@ -14224,6 +14220,7 @@ Resources organized by keyword tags.
   - [Functional programming - Wikipedia](../ai/rag/functional-programming-wikipedia.md)
   - [GAS-Leak-LLM: Genetic Algorithm-Based Suffix Optimization for Black-Box LLM Jailbreaking](../ai/research/arxiv-2606-15788.md)
   - [GATE Exam Tutorial - GeeksforGeeks](../ai/rag/gate-exam-tutorial-geeksforgeeks.md)
+  - [GCC steering committee announces AI policy](../ai/community/gcc-steering-committee-announces-ai-policy.md)
   - [GDPR FAQs | Cloudflare](../ai/rag/cloudflare-and-gdpr-compliance-cloudflare.md)
   - [GEAR | Google Developer Program | Google for Developers](../ai/agents/gear-google-developer-program-google-for-developer.md)
   - [GEO Week News | Lidar, AEC, 3D Technology & Geospatial Insights](../ai/rag/geo-week-news-lidar-aec-3d-technology-geospatial-i.md)
@@ -15095,7 +15092,6 @@ Resources organized by keyword tags.
   - [SAGA: Scene-Aware, Goal-Evolving Agents for Long-Horizon Strategy Game Planning](../ai/agents/arxiv-2606-29932.md)
   - [SAGA: Synthetic Agentic Graph Architecture for Temporal Benchmark Generation](../ai/rag/arxiv-2607-17288.md)
   - [SAT: Dynamic Spatial Aptitude Training for Multimodal Language Models](../ai/research/sat-dynamic-spatial-aptitude-training-for-multimod.md)
-  - [SDL_GPU minimal, single-header, high-performance 2D graphics painting library](../ai/community/n67094-sdl-gp.md)
   - [SEER: Supervised Learning to Control Energetic Reasoning](../ai/research/arxiv-2607-16523.md)
   - [SENSE: Efficient EEG-to-Text via Privacy-Preserving Semantic Retrieval](../ai/rag/arxiv-2603-17109.md)
   - [SEV0 – The Incident, On-call and Reliability Conference](../ai/rag/sev0-the-incident-on-call-and-reliability-conferen.md)
@@ -15172,8 +15168,6 @@ Resources organized by keyword tags.
   - [Sexualised synthetic personas encode and amplify gendered power asymmetries through voice](../ai/research/arxiv-2606-21366.md)
   - [Shared SFT Lessons Across Alignment, Model Organisms, and Toy Models](../ai/research/arxiv-2607-26173.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Claude-account – switch Claude Code accounts without logging in again](../ai/community/hamzarehmandeveloper-claude-account.md)
-  - [Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents](../ai/community/yashmahajan10-llm-differential-privacy-gateway.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Sign in to GitHub · GitHub](../ai/resources/langchain-ai-docs.md)
@@ -15202,6 +15196,7 @@ Resources organized by keyword tags.
   - [Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation](../ai/agents/arxiv-2606-23743.md)
   - [Solana Price Today | SOL Live Price, Chart & Market Cap | OKX United States](../ai/rag/solana-price-today-sol-live-price-chart-market-cap.md)
   - [SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets](../ai/agents/arxiv-2607-08681.md)
+  - [Solving poker in custom WebGPU kernels](../web-development/community/we-don-t-need-no-stinkin-tensor-library-solving-po.md)
   - [Something from Nothing: Data Augmentation for Robust Severity Level Estimation of Dysarthric Speech](../ai/rag/arxiv-2603-15988.md)
   - [Sound Probabilistic Safety Bounds for Large Language Models](../ai/rag/arxiv-2607-20286.md)
   - [Soundwaves settle debate about elusive quantum particle | Cornell Chronicle](../ai/rag/soundwaves-settle-debate-about-elusive-quantum-par.md)
@@ -15538,7 +15533,6 @@ Resources organized by keyword tags.
   - [WasmAssembly](../ai/resources/wasmassembly.md)
   - [Water in the West | Water Programs](../ai/resources/water-in-the-west-water-programs.md)
   - [WattCouncil: Context-Aware Household Energy Scenario Generation With Governed LLMs](../ai/agents/arxiv-2607-10720.md)
-  - [We don't need no stinkin' tensor library: solving poker in custom WebGPU kernels](../web-development/community/we-don-t-need-no-stinkin-tensor-library-solving-po.md)
   - [Weaviate Database | Weaviate Documentation](../ai/rag/weaviate-database-weaviate-documentation.md)
   - [Weaviate vector database - YouTube](../ai/rag/weaviate-vector-database-youtube.md)
   - [Web Application Security | Working Groups | Discover W3C groups | W3C](../ai/resources/web-application-security-working-groups-discover-w.md)
@@ -15677,7 +15671,6 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -18539,7 +18532,6 @@ Resources organized by keyword tags.
   - [ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits](../ai/research/arxiv-2607-23225.md)
   - [Parthenon Law: A Self-Evolving Legal-Agent Framework](../ai/agents/arxiv-2606-04602.md)
   - [Partial Fusion of Neural Networks: Efficient Tradeoffs Between Ensembles and Weight Aggregation](../ai/research/arxiv-2605-22350.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pass@K Policy Optimization: Solving Harder Reinforcement Learning Problems](../ai/research/arxiv-2505-15201.md)
   - [Patcher: Post-Hoc Patching of Backdoored Large Language Models](../ai/research/arxiv-2606-02995.md)
   - [PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](../ai/agents/arxiv-2607-19261.md)
@@ -28701,7 +28693,6 @@ Resources organized by keyword tags.
   - [Set up Apple Watch for a family member - Apple Support](../ai/resources/set-up-apple-watch-for-a-family-member-apple-suppo.md)
   - [Set up Gemini Code Assist Standard and Enterprise | Gemini for Google Cloud | Google Cloud Documentation](../ai/agents/set-up-gemini-code-assist-standard-and-enterprise.md)
   - [Shopping & Ordering Support | Verizon Customer Support](../ai/resources/shopping-ordering-support-verizon-customer-support.md)
-  - [Show HN: Claude-account – switch Claude Code accounts without logging in again](../ai/community/hamzarehmandeveloper-claude-account.md)
   - [Sign in to MED SSO (SU, SHC, LPCH)](../ai/resources/sign-in-to-med-sso-su-shc-lpch.md)
   - [SimBEV2X: A Large-Scale Dataset and Data Generation Tool for Multi-Task Vehicle-to-Everything Cooperative Perception](../ai/agents/arxiv-2607-23910.md)
   - [Site Map - Apple](../ai/rag/site-map-apple.md)
@@ -28713,6 +28704,7 @@ Resources organized by keyword tags.
   - [Snowflake Status](../ai/rag/snowflake-status.md)
   - [Solana Price Today | SOL Live Price, Chart & Market Cap | OKX United States](../ai/rag/solana-price-today-sol-live-price-chart-market-cap.md)
   - [SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets](../ai/agents/arxiv-2607-08681.md)
+  - [Solving poker in custom WebGPU kernels](../web-development/community/we-don-t-need-no-stinkin-tensor-library-solving-po.md)
   - [Sovereign, Open Source Retrieval-Augmented Generation](../ai/rag/sovereign-open-source-retrieval-augmented-generati.md)
   - [Spaces · Hugging Face](../ai/rag/huggingface-docs-hub.md)
   - [Sparsity-Aware Low-Rank Representation for Efficient Fine-Tuning of Large Language Models](../ai/rag/arxiv-2601-16991.md)
@@ -28880,7 +28872,6 @@ Resources organized by keyword tags.
   - [Volobsis - IPGP](../ai/resources/volobsis-ipgp.md)
   - [Want to learn more? Download the Wikipedia app – Wikimedia Foundation](../ai/rag/want-to-learn-more-download-the-wikipedia-app-wiki.md)
   - [Watch YouTube TV on supported devices - Computer - YouTube TV Help](../ai/rag/watch-youtube-tv-on-supported-devices-computer-you.md)
-  - [We don't need no stinkin' tensor library: solving poker in custom WebGPU kernels](../web-development/community/we-don-t-need-no-stinkin-tensor-library-solving-po.md)
   - [WeTeach_CS Home](../ai/resources/weteach-cs-home.md)
   - [Web Application Security | Working Groups | Discover W3C groups | W3C](../ai/resources/web-application-security-working-groups-discover-w.md)
   - [Web Authentication (WebAuthn) Credential and Login Demo](../ai/resources/web-authentication-webauthn-credential-and-login-d.md)
@@ -29817,6 +29808,7 @@ Resources organized by keyword tags.
   - [Select Identity Provider](../ai/rag/select-identity-provider.md)
   - [Shift-Invariant Attribute Scoring for Kolmogorov-Arnold Networks via Shapley Value](../ai/research/arxiv-2510-01663.md)
   - [Snowflake Status](../ai/rag/snowflake-status.md)
+  - [Solving poker in custom WebGPU kernels](../web-development/community/we-don-t-need-no-stinkin-tensor-library-solving-po.md)
   - [SplineNet: An Isogeometric Deep Learning Method for Complex Shells](../ai/research/arxiv-2607-06026.md)
   - [Static Asset Handling | Vite](../ai/resources/static-asset-handling-vite.md)
   - [Structured Nonparametric Variational Inference for Dependent Latent Modeling](../ai/rag/arxiv-2606-15458.md)
@@ -29839,7 +29831,6 @@ Resources organized by keyword tags.
   - [Unity Issue Tracker](../ai/rag/unity-issue-tracker.md)
   - [Unity: Develop, Deploy, and Grow | The World's Leading Game Engine](../ai/rag/unity-develop-deploy-and-grow-the-world-s-leading.md)
   - [Use the Performance view](../ai/rag/use-the-performance-view.md)
-  - [We don't need no stinkin' tensor library: solving poker in custom WebGPU kernels](../web-development/community/we-don-t-need-no-stinkin-tensor-library-solving-po.md)
   - [Web IDL Standard](../ai/rag/web-idl-standard.md)
   - [What is the Model Context Protocol (MCP)? - Model Context Protocol](../ai/agents/what-is-the-model-context-protocol-mcp-model-conte.md)
   - [abstract algebra - How to compute Krull dimension concretely - Mathematics Stack Exchange](../ai/resources/abstract-algebra-how-to-compute-krull-dimension-co.md)
@@ -32293,7 +32284,7 @@ Resources organized by keyword tags.
 
 ## webgpu
 
-  - [We don't need no stinkin' tensor library: solving poker in custom WebGPU kernels](../web-development/community/we-don-t-need-no-stinkin-tensor-library-solving-po.md)
+  - [Solving poker in custom WebGPU kernels](../web-development/community/we-don-t-need-no-stinkin-tensor-library-solving-po.md)
 
 ## workflows
 
@@ -35096,4 +35087,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-31T01:38:51.501692+05:30*
+*Index generated on 2026-07-31T04:06:12.674824+05:30*

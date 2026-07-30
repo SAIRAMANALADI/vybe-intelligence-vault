@@ -13,13 +13,14 @@ collected_at: '2026-07-31T01:21:38.453539+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:n67094/sdl_gp
 first_seen: '2026-07-30T22:18:55.231747+05:30'
 last_seen: '2026-07-31T01:21:38.453539+05:30'
 last_checked: '2026-07-31T01:21:38.453539+05:30'
 health_score: 100
 ---
+
 
 # SDL_GPU minimal, single-header, high-performance 2D graphics painting library
 

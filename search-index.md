@@ -18052,7 +18052,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://dspy.ai/api/optimizers/GEPA/overview>
 
 * **[2x, not 10x: coding with LLMs in 2026](ai/community/2x-not-10x-coding-with-llms-in-2026.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by tnisonoff. Score: 61, Comments: 23. Original Link: https://obryant.dev/p/2x-not-10x/
+  * Summary: Hacker News story by tnisonoff. Score: 160, Comments: 115. Original Link: https://obryant.dev/p/2x-not-10x/
   * Tags: `hackernews`, `llm`
   * Source URL: <https://obryant.dev/p/2x-not-10x>
 
@@ -19390,6 +19390,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Watchtower is a simple AI-powered penetration testing automation CLI tool that leverages LLMs and LangGraph to orchestrate agentic workflows that you can use to test your websites locally. Generate useful pentest reports for your websites.
   * Tags: `agents`, `anthropic`, `github-repo`, `python`, `rag`, `scripts`, `workflows`
   * Source URL: <https://github.com/fzn0x/watchtower>
+
+* **[GCC steering committee announces AI policy](ai/community/gcc-steering-committee-announces-ai-policy.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by arto. Score: 212, Comments: 240. Original Link: https://lwn.net/Articles/1086041/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://lwn.net/articles/1086041>
 
 * **[Gemini Apps Privacy Hub - Gemini Apps Help](ai/rag/gemini-apps-privacy-hub-gemini-apps-help.md)** (`prompt` | `useful` tier)
   * Summary: - **Data Collection Scope**: Collects explicit user inputs (prompts, files, audio/video transcripts, feedback) and passive metadata (device identifiers, browser/OS settings, interaction logs, location data, subscription info) to power Gemini’s genera
@@ -20976,11 +20981,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `models`, `scripts`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.22712>
 
-* **[SDL_GPU minimal, single-header, high-performance 2D graphics painting library](ai/community/n67094-sdl-gp.md)** (`framework` | `useful` tier)
-  * Summary: Hacker News story by n67094. Score: 50, Comments: 16. Original Link: https://github.com/n67094/sdl_gp
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://github.com/n67094/sdl_gp>
-
 * **[Security model](ai/rag/security-model.md)** (`template` | `useful` tier)
   * Summary: - **Trust Model**: Hugo distinguishes between trusted (templates, assets) and untrusted (content, content adapters) sources, with exceptions for inline shortcodes; the `hugo server` is trusted but restricted to local development. - **Runtime Security
   * Tags: `rag`, `reddit`, `web-crawled`, `workflows`
@@ -21025,16 +21025,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Modern Sphinx Theme**: Shibuya is a responsive, visually appealing theme for Sphinx documentation, supporting Jupyter extensions like `nbsphinx` for enhanced AI/ML documentation workflows. - **Multi-Mode Customization**: Features light/dark mode
   * Tags: `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://shibuya.lepture.com>
-
-* **[Show HN: Claude-account – switch Claude Code accounts without logging in again](ai/community/hamzarehmandeveloper-claude-account.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by hamza_rehman. Score: 34, Comments: 22. Original Link: https://github.com/hamzarehmandeveloper/claude-account
-  * Tags: `ai`, `anthropic`, `hackernews`, `reddit`
-  * Source URL: <https://github.com/hamzarehmandeveloper/claude-account>
-
-* **[Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents](ai/community/yashmahajan10-llm-differential-privacy-gateway.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by yashmahajan10. Score: 8, Comments: 0. Original Link: https://github.com/yashmahajan10/llm-differential-privacy-gateway
-  * Tags: `agents`, `ai`, `hackernews`
-  * Source URL: <https://github.com/yashmahajan10/llm-differential-privacy-gateway>
 
 * **[Signature filtering: a lightweight enhancement for statistical watermark detection in large language models](ai/research/arxiv-2606-18430.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18430v1 Announce Type: new Abstract: Statistical watermarks help organizations attribute large language model (LLM) outputs, yet existing detectors often struggle when watermark signals are weak, texts are repetitive, or watermarks are edi
@@ -84379,7 +84369,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/gemma-july-update>
 
 * **[google-bert/bert-base-uncased](ai/models/huggingface-google-bert-bert-base-uncased.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: google-bert/bert-base-uncased (Likes: 2720, Downloads: 103531008)
+  * Summary: Trending Hugging Face model: google-bert/bert-base-uncased (Likes: 2721, Downloads: 103531008)
   * Tags: `dataset`, `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/google-bert/bert-base-uncased>
 
@@ -111744,9 +111734,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
-  * Summary: * Comprehensive full-stack guide on Retrieval-Augmented Generation (RAG) development, encompassing foundational and advanced techniques. * Explores diverse RAG components including LLM integration (e.g., DeepSeek, Kimi-K2), vector databases (Milvus),
-  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
+  * Summary: * Comprehensive full-stack RAG guide for LLM application development, encompassing embedding, retrieval, and generation. * Leverages LangChain and LlamaIndex for orchestration, integrating vector databases like Milvus and graph databases such as Neo4
+  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -111754,8 +111744,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tool` | `useful` tier)
-  * Summary: * Curriculum for practical LLM application development. * Leverages Lang
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tutorial` | `useful` tier)
+  * Summary: * Provides a tutorial for large language model (LLM) application development. *
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -117700,8 +117690,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2604.20711>
 
 * **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * Introduces RAGTruth, a specialized corpus designed for the evaluation and mitigation of hallucinations in Retrieval-Augmented Language Models (RAGs). * Facilitates the development of trustworthy RAG systems by providing a benchmark for assessing fa
-  * Tags: `benchmark`, `github-repo`, `models`, `python`, `rag`
+  * Summary: * Introduces RAGTruth, a specialized corpus designed for the analysis and quantification of hallucinations. * Aids in the development of trustworthy Retrieval-Augmented Language Models (RAGs) by providing a benchmark for generative inaccuracies. * Fa
+  * Tags: `benchmark`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 
 * **[Pass the Baton: Trajectory-Relayed On-Policy Distillation](ai/rag/arxiv-2607-26057.md)** (`framework` | `useful` tier)
@@ -118550,7 +118540,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://superml.org/tutorials/rag-beginner>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll-powered GitHub Pages source for `raganwald.com`. *
+  * Summary: * Jekyll-based static site source for `raganwald.com`. * Primary codebase implemented in HTML. * Hosted as `raganwald/raganwald.github.com` on GitHub.
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
@@ -123275,6 +123265,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `threejs`
   * Source URL: <https://arxiv.org/abs/2510.01663>
 
+* **[Solving poker in custom WebGPU kernels](web-development/community/we-don-t-need-no-stinkin-tensor-library-solving-po.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by patrickhulin. Score: 32, Comments: 10. Original Link: https://phulin.me/blog/poker/
+  * Tags: `hackernews`, `reddit`, `threejs`, `webgpu`
+  * Source URL: <https://phulin.me/blog/poker>
+
 * **[spite/Wagner](web-development/threejs/spite-wagner.md)** (`tool` | `useful` tier)
   * Summary: Effects composer for three.js
   * Tags: `threejs`
@@ -123384,11 +123379,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: React Three Fiber 3D Avatar Builder Tutorial
   * Tags: `frontend_ui`, `threejs`
   * Source URL: <https://github.com/wass08/r3f-ultimate-character-configurator>
-
-* **[We don't need no stinkin' tensor library: solving poker in custom WebGPU kernels](web-development/community/we-don-t-need-no-stinkin-tensor-library-solving-po.md)** (`framework` | `useful` tier)
-  * Summary: Hacker News story by patrickhulin. Score: 7, Comments: 1. Original Link: https://phulin.me/blog/poker/
-  * Tags: `hackernews`, `reddit`, `threejs`, `webgpu`
-  * Source URL: <https://phulin.me/blog/poker>
 
 * **[webgpu-tools/wesl-rs](web-development/webgpu/webgpu-tools-wesl-rs.md)** (`tool` | `useful` tier)
   * Summary: wesl-rs: a compiler for WESL (WGSL Extended) shaders.

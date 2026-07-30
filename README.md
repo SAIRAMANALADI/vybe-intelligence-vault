@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-75%2C696-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-133%2C278-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--31-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **75,696 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **133,278 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 14,729</p>
-        <p><b>Active:</b> 14,317 | <b>Inactive:</b> 412</p>
+        <p><b>Resources tracked:</b> 15,700</p>
+        <p><b>Active:</b> 15,286 | <b>Inactive:</b> 414</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,059</p>
+        <p><b>Archive Files:</b> 58,692</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 75,696 files</p>
-        <p><b>Last Update:</b> 2026-07-31 02:43 IST</p>
+        <p><b>Total Vault Size:</b> 133,278 files</p>
+        <p><b>Last Update:</b> 2026-07-31 04:08 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,23 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[pguso/ai-agents-from-scratch](ai/agents/pguso-ai-agents-from-scratch.md)** • Rank: <kbd>+971</kbd>
-- 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+971</kbd>
-- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+971</kbd>
-- 🔼 **[kylestratis/ai_agents_mcp_examples](ai/agents/kylestratis-ai-agents-mcp-examples.md)** • Rank: <kbd>+971</kbd>
-- 🔼 **[TEN-framework/ten-framework](ai/agents/ten-framework-ten-framework.md)** • Rank: <kbd>+971</kbd>
+- 🔼 **[2x, not 10x: coding with LLMs in 2026](ai/community/2x-not-10x-coding-with-llms-in-2026.md)** • <kbd>+99 pts</kbd>
+- 🔼 **[Solving poker in custom WebGPU kernels](web-development/community/we-don-t-need-no-stinkin-tensor-library-solving-po.md)** • <kbd>+25 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+2</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[GCC steering committee announces AI policy](ai/community/gcc-steering-committee-announces-ai-policy.md)** • Score: `212`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[SDL_GPU minimal, single-header, high-performance 2D graphics painting library](ai/community/n67094-sdl-gp.md)**
+- 💤 **[Show HN: Claude-account – switch Claude Code accounts without logging in again](ai/community/hamzarehmandeveloper-claude-account.md)**
+- 💤 **[Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents](ai/community/yashmahajan10-llm-differential-privacy-gateway.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

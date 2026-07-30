@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:yashmahajan10/llm-differential-privacy-gateway
 first_seen: '2026-07-31T01:21:38.244206+05:30'
 last_seen: '2026-07-31T01:21:38.244206+05:30'
 last_checked: '2026-07-31T01:21:38.244206+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents
 
