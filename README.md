@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-133%2C273-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-75%2C684-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--30-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **133,273 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **75,684 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 15,689</p>
-        <p><b>Active:</b> 15,290 | <b>Inactive:</b> 399</p>
+        <p><b>Resources tracked:</b> 14,719</p>
+        <p><b>Active:</b> 14,320 | <b>Inactive:</b> 399</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 58,699</p>
+        <p><b>Archive Files:</b> 2,058</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 133,273 files</p>
-        <p><b>Last Update:</b> 2026-07-30 14:39 IST</p>
+        <p><b>Total Vault Size:</b> 75,684 files</p>
+        <p><b>Last Update:</b> 2026-07-30 16:42 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,26 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[AI's top startups are barely publishing their research](ai/community/ai-s-top-startups-are-barely-publishing-their-rese.md)** • <kbd>+169 pts</kbd>
-- 🔼 **[The Productivity Mirage](ai/community/the-productivity-mirage.md)** • <kbd>+140 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[LLM Honeypot](ai/community/llm-honeypot.md)** • <kbd>+131 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[The Cold Email](ai/community/the-cold-email.md)** • <kbd>+82 pts</kbd>
-- 🔼 **[Some thoughts about Anthropic's new cryptanalysis results](ai/community/some-thoughts-about-anthropic-s-new-cryptanalysis.md)** • <kbd>+34 pts</kbd>
+- 🔼 **[Analyzing Image Encoder Choices and Graph Homophily in GCN Frameworks for Breast Ultrasound Classification](ai/rag/arxiv-2607-12054.md)** • Rank: <kbd>+969</kbd>
+- 🔼 **[MLVC: Multi-platform Learned Video Codec for Real-World Deployment](ai/rag/arxiv-2606-28027.md)** • Rank: <kbd>+969</kbd>
+- 🔼 **[BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation](ai/rag/arxiv-2606-19651.md)** • Rank: <kbd>+969</kbd>
+- 🔼 **[Minimax-Optimal Generalization Bounds for Smooth Deep Neural Networks Trained by (Stochastic) Gradient Descent](ai/research/arxiv-2606-06772.md)** • Rank: <kbd>+969</kbd>
+- 🔼 **[The Score Hamiltonian: Mapping Diffusion Models to Adiabatic Transport](ai/research/arxiv-2606-05217.md)** • Rank: <kbd>+969</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Kuna: Decompiler Development in the Age of Coding Agents](ai/community/kuna-decompiler-development-in-the-age-of-coding-a.md)** • Score: `30`
-- 🆕 **[I Have Thoughts on the iPhone Air](ai/community/i-have-thoughts-on-the-iphone-air.md)** • Score: `25`
-- 🆕 **[lpiccinelli/unidepth-v2-vitl14](ai/models/huggingface-lpiccinelli-unidepth-v2-vitl14.md)** • Score: `0`
-- 🆕 **[Analyzing Image Encoder Choices and Graph Homophily in GCN Frameworks for Breast Ultrasound Classification](ai/rag/arxiv-2607-12054.md)** • Score: `0`
-- 🆕 **[MLVC: Multi-platform Learned Video Codec for Real-World Deployment](ai/rag/arxiv-2606-28027.md)** • Score: `0`
+- No new discoveries in this run.
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals](ai/community/commodification-of-intelligence-good-bad-and-ugly.md)**
-- 💤 **[Show HN: A local merge queue for parallel Claude Code agents](ai/community/funador-claude-code-merge-queue.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
