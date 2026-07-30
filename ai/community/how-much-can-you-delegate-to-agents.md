@@ -13,13 +13,14 @@ collected_at: '2026-07-30T03:43:28.766200+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:how-much-can-you-delegate-to-agents
 first_seen: '2026-07-30T01:13:15.306156+05:30'
 last_seen: '2026-07-30T03:43:28.766200+05:30'
 last_checked: '2026-07-30T03:43:28.766200+05:30'
 health_score: 100
 ---
+
 
 # How much can you delegate to agents?
 

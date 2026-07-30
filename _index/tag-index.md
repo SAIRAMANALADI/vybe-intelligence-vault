@@ -1399,7 +1399,6 @@ Resources organized by keyword tags.
   - [How We Use n8n to Build and Control AI Agents – Keeping Business in Focus | beezwax blog](../ai/rag/how-we-use-n8n-to-build-and-control-ai-agents-keep.md)
   - [How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](../ai/agents/huggingface-blog-mishig-spaces-agents-md.md)
   - [How does GitHub compare to other DevOps tools? · GitHub](../ai/rag/how-does-github-compare-to-other-devops-tools-gith.md)
-  - [How much can you delegate to agents?](../ai/community/how-much-can-you-delegate-to-agents.md)
   - [How to Detect and Measure the AI Dangers to Democracy](../ai/agents/arxiv-2606-16054.md)
   - [How to Implement RAG (Retrieval Augmented Generation) in 2025 | Complete Tutorial](../ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md)
   - [How to programmatically estimate baud rate of an FSK-2 signal in C#? - Signal Processing Stack Exchange](../ai/rag/how-to-programmatically-estimate-baud-rate-of-an-f.md)
@@ -2482,6 +2481,7 @@ Resources organized by keyword tags.
   - [Shift & Drift: A Zero-Shot Benchmark for Generalizable and Robust Autonomous Driving Motion Planning](../ai/rag/arxiv-2607-07844.md)
   - [ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](../ai/agents/arxiv-2606-31693.md)
   - [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](../ai/agents/arxiv-2605-22142.md)
+  - [Show HN: A local merge queue for parallel Claude Code agents](../ai/community/funador-claude-code-merge-queue.md)
   - [Shutdownable Agents through POST-Agency](../ai/agents/arxiv-2505-20203.md)
   - [Siamese Neural Network for Label-Efficient Critical Phenomena Prediction in 3D Percolation Models](../ai/agents/arxiv-2507-14159.md)
   - [Signed Compression Progress on a Sealed Audit is Goodhart-Resistant](../ai/agents/arxiv-2606-11417.md)
@@ -3402,9 +3402,8 @@ Resources organized by keyword tags.
 
   - [AI's top startups are barely publishing their research](../ai/community/ai-s-top-startups-are-barely-publishing-their-rese.md)
   - [Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals](../ai/community/commodification-of-intelligence-good-bad-and-ugly.md)
-  - [Document-borne AI worms can self-propagate through Copilot for Word](../ai/community/document-borne-ai-worms-can-self-propagate-through.md)
-  - [GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?](../ai/community/gpt-5-6-vs-claude-fable-5-for-physical-ai-which-pe.md)
-  - [Hunter-gatherers introduced fish to a mountain lake 7000 years ago](../ai/community/hunter-gatherers-introduced-fish-to-a-mountain-lak.md)
+  - [Refactoring cuisine: how an Iraqi stew sailed to Singapore](../ai/community/refactoring-cuisine-how-an-iraqi-stew-sailed-to-si.md)
+  - [The Cold Email](../ai/community/the-cold-email.md)
 
 ## animation
 
@@ -3573,7 +3572,6 @@ Resources organized by keyword tags.
   - [Frontier LLM-based agents can overcome the ontology curation bottleneck for natural phenotypes](../ai/agents/arxiv-2605-28965.md)
   - [FuzzingLabs/mcp-security-hub](../ai/resources/fuzzinglabs-mcp-security-hub.md)
   - [GMD - Development and technical paper](../ai/rag/gmd-development-and-technical-paper.md)
-  - [GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?](../ai/community/gpt-5-6-vs-claude-fable-5-for-physical-ai-which-pe.md)
   - [Gainsight Certification Programs](../ai/rag/gainsight-certification-programs.md)
   - [Gainsight University](../ai/rag/gainsight-university.md)
   - [Generate Images with Claude and Hugging Face](../ai/models/huggingface-blog-claude-and-mcp.md)
@@ -3741,6 +3739,7 @@ Resources organized by keyword tags.
   - [SciPy 2026](../ai/rag/scipy-2026.md)
   - [Seduced by the Narrative: Assessing Rule Adherence in Semi-Open Textual Sandboxes](../ai/agents/arxiv-2607-02802.md)
   - [Self-host LangSmith on Kubernetes - Docs by LangChain](../ai/rag/self-host-langsmith-on-kubernetes-docs-by-langchai.md)
+  - [Show HN: A local merge queue for parallel Claude Code agents](../ai/community/funador-claude-code-merge-queue.md)
   - [SkillOpt-Lite: Better and Faster Agent Self-evolution via One Line of Vibe](../ai/agents/arxiv-2607-03451.md)
   - [Skilljar Academy](../ai/rag/skilljar-academy.md)
   - [Snyk VulnBench JS 1.0: Can LLMs Find the Same Bugs Twice?](../ai/agents/arxiv-2606-15762.md)
@@ -5798,7 +5797,6 @@ Resources organized by keyword tags.
   - [GMoT: Gated Motion-Aware Tokenization for Fine-Grained Micro-Gesture Video Reasoning with Multimodal LLMs](../ai/research/arxiv-2607-16322.md)
   - [GOT-JEPA: Generic Object Tracking with Model Adaptation and Occlusion Handling using Joint-Embedding Predictive Architecture](../ai/research/arxiv-2602-14771.md)
   - [GOTS: Greedy Orthogonal Token Selection for High-Resolution Vision-Language Models](../ai/rag/arxiv-2607-23913.md)
-  - [GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?](../ai/community/gpt-5-6-vs-claude-fable-5-for-physical-ai-which-pe.md)
   - [GRACE-DS: a Guarded Reward-guided Agent Correction Environment in Data Science](../ai/agents/arxiv-2606-16000.md)
   - [GRACE: Gated Refinement for Accurate Causal Edge Discovery in High-Dimensional Time Series](../ai/research/arxiv-2606-23880.md)
   - [GRAFT: Grafted Reference Audio for Fine-grained Pronunciation in Zero-shot Text-to-Speech](../ai/research/arxiv-2607-02633.md)
@@ -13875,7 +13873,6 @@ Resources organized by keyword tags.
   - [Docker + E2B: Building the Future of Trusted AI | Docker](../ai/agents/docker-e2b-building-the-future-of-trusted-ai-docke.md)
   - [Docker | Weaviate Documentation](../ai/rag/docker-weaviate-documentation.md)
   - [Docs: API Reference, Tutorials, and Integration | Twilio](../ai/rag/docs-api-reference-tutorials-and-integration-twili.md)
-  - [Document-borne AI worms can self-propagate through Copilot for Word](../ai/community/document-borne-ai-worms-can-self-propagate-through.md)
   - [Documentation Overview - TACC HPC Documentation](../ai/rag/documentation-overview-tacc-hpc-documentation.md)
   - [Domain-Validity-Gated Metamorphic Testing of Scientific ML Surrogates](../ai/research/arxiv-2606-17529.md)
   - [Données & Design par LINC](../ai/resources/donnees-design-par-linc.md)
@@ -14060,7 +14057,6 @@ Resources organized by keyword tags.
   - [GMD - fair-calibrate v1.4.1: calibration, constraining, and validation of the FaIR simple climate model for reliable fut](../ai/rag/gmd-fair-calibrate-v1-4-1-calibration-constraining.md)
   - [GNOME Development](../ai/resources/gnome-development.md)
   - [GNU Mailman / Mailman Core · GitLab](../ai/resources/gnu-mailman-mailman-core-gitlab.md)
-  - [GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?](../ai/community/gpt-5-6-vs-claude-fable-5-for-physical-ai-which-pe.md)
   - [GR2 Technical Report](../ai/research/arxiv-2606-31984.md)
   - [GRAFT: Grafted Reference Audio for Fine-grained Pronunciation in Zero-shot Text-to-Speech](../ai/research/arxiv-2607-02633.md)
   - [GTIN: A Unified Framework for Joint Event and Time Prediction in Temporal Graphs](../ai/research/arxiv-2607-23556.md)
@@ -14246,7 +14242,6 @@ Resources organized by keyword tags.
   - [How YouTube Works: Giving Everyone a Voice](../ai/resources/how-youtube-works-giving-everyone-a-voice.md)
   - [How building an HTML-first site doubled our users overnight](../ai/rag/how-building-an-html-first-site-doubled-our-users.md)
   - [How do we ensure our IoT products process information lawfully? | ICO](../ai/rag/how-do-we-ensure-our-iot-products-process-informat.md)
-  - [How much can you delegate to agents?](../ai/community/how-much-can-you-delegate-to-agents.md)
   - [How to DP-fy Your Data: A Practical Guide to Generating Synthetic Data With Differential Privacy](../ai/research/arxiv-2512-03238.md)
   - [How to Implement RAG (Retrieval Augmented Generation) in 2025 | Complete Tutorial](../ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md)
   - [How to contribute — Contributing to Godot](../ai/rag/how-to-contribute-contributing-to-godot.md)
@@ -14259,7 +14254,6 @@ Resources organized by keyword tags.
   - [Human-In-The-Loop Machine Learning for Safe and Ethical Autonomous Vehicles: Principles, Challenges, and Opportunities](../ai/agents/arxiv-2408-12548.md)
   - [Human-in-the-Loop Atlas-Based 3D Asset Segmentation for Interactive Content Workflows](../ai/research/arxiv-2606-17824.md)
   - [Human-in-the-Loop User Feedback Affects Perceived Accuracy and Trust, but Task Subjectivity Matters](../ai/research/arxiv-2607-17548.md)
-  - [Hunter-gatherers introduced fish to a mountain lake 7000 years ago](../ai/community/hunter-gatherers-introduced-fish-to-a-mountain-lak.md)
   - [HyGRL: Adaptive Hybrid Graph Reasoning for Multi-Entity Questions](../ai/rag/arxiv-2607-19398.md)
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
@@ -14376,6 +14370,7 @@ Resources organized by keyword tags.
   - [LEXIC: Lightweight Eye-tracking eXtension via Injected Complexity](../ai/research/arxiv-2607-08152.md)
   - [LFM: Leveraging Foundation Models for Source-Free Universal Domain Adaptation](../ai/rag/arxiv-2607-17653.md)
   - [LLM Evolution as an Industry-Scale Ecosystem: A Lifecycle Perspective on Continual Learning](../ai/research/arxiv-2606-24901.md)
+  - [LLM Honeypot](../ai/community/llm-honeypot.md)
   - [LLM Powered Autonomous Agents | Lil'Log](../ai/rag/llm-powered-autonomous-agents-lil-log.md)
   - [LLM for EDA in Front-End Design: Challenges and Opportunities](../ai/rag/arxiv-2607-09616.md)
   - [LLM-Based Test Oracles: Source-of-Authority Taxonomy -- A Systematic Literature Review](../ai/research/arxiv-2607-05031.md)
@@ -14686,7 +14681,6 @@ Resources organized by keyword tags.
   - [Parameter-Efficient Continual Fine-Tuning: A Survey](../ai/research/arxiv-2504-13822.md)
   - [Partial Contracts Suffice: Sound, LLM-Inferred Regression Verification](../ai/research/arxiv-2607-10291.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Passkeys for Developers](../ai/rag/passkeys-for-developers.md)
   - [Pattern-Aware Graph Neural Networks for Handling Missing Data](../ai/rag/arxiv-2607-08915.md)
   - [PentesterFlow/agent](../ai/agents/pentesterflow-agent.md)
@@ -14855,6 +14849,7 @@ Resources organized by keyword tags.
   - [Redirecting](../ai/resources/redirecting.md)
   - [Redirecting to Unicode Resources page](../ai/resources/redirecting-to-unicode-resources-page.md)
   - [Reducing the Complexity of Deep Learning Models for EEG Analysis on Wearable Devices](../ai/research/arxiv-2606-12742.md)
+  - [Refactoring cuisine: how an Iraqi stew sailed to Singapore](../ai/community/refactoring-cuisine-how-an-iraqi-stew-sailed-to-si.md)
   - [Refnd: Preventing Data Leakage in Relational Datasets](../ai/rag/arxiv-2607-19376.md)
   - [Refokus](../ai/rag/refokus.md)
   - [Regret Optimality of Sample Average Approximation for Data-Driven Newsvendor Problems: A General Optimization Perspective](../ai/rag/arxiv-2407-04900.md)
@@ -14995,6 +14990,7 @@ Resources organized by keyword tags.
   - [Seven Security Challenges in Cross-domain Multi-agent LLM Systems](../ai/agents/arxiv-2505-23847.md)
   - [Sexualised synthetic personas encode and amplify gendered power asymmetries through voice](../ai/research/arxiv-2606-21366.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: A local merge queue for parallel Claude Code agents](../ai/community/funador-claude-code-merge-queue.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Sign in to GitHub · GitHub](../ai/resources/langchain-ai-docs.md)
@@ -15148,6 +15144,7 @@ Resources organized by keyword tags.
   - [The Calibration Channel Determines the Bayes-Error Proxy: An Exact Law for Temperature-Induced Distortion](../ai/rag/arxiv-2607-18162.md)
   - [The Challenges of Balancing AI Compliance and Technological Innovations in Critical Sectors: A Systematic Literature Review](../ai/rag/arxiv-2606-12423.md)
   - [The Clinician's Veto: Navigating Trust, Liability, and Uncertainty in Autonomous AI Prescribing](../ai/rag/arxiv-2606-25108.md)
+  - [The Cold Email](../ai/community/the-cold-email.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
   - [The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality](../ai/rag/arxiv-2607-08495.md)
   - [The Contribution of XAI for the Safe Development and Certification of AI: An Expert-Based Analysis](../ai/research/arxiv-2408-02379.md)
@@ -15174,6 +15171,7 @@ Resources organized by keyword tags.
   - [The Method of Gaps: Exact Expressions for the Generalization Error of Supervised Learning Algorithms](../ai/research/arxiv-2411-12030.md)
   - [The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students](../ai/agents/arxiv-2607-11292.md)
   - [The Power of Light: Improving Synthetic-to-Real Domain Adaptation through Physically-Based Indirect Illumination](../ai/research/arxiv-2606-22574.md)
+  - [The Productivity Mirage](../ai/community/the-productivity-mirage.md)
   - [The Remarkable Effectiveness of Providing AI Agents with Natural Language Tools: A Replication Study Validating NLT Performance Across 14 Models](../ai/rag/arxiv-2607-03953.md)
   - [The Rise of Verbal Tics in Large Language Models: A Systematic Analysis Across Frontier Models](../ai/research/arxiv-2604-19139.md)
   - [The Role of Rigor in Artificial Intelligence](../ai/research/arxiv-2607-03634.md)
@@ -16043,6 +16041,10 @@ Resources organized by keyword tags.
   - [open-llm-leaderboard/open_llm_leaderboard](../ai/models/huggingface-spaces-open-llm-leaderboard.md)
   - [prometheus-eval/BiGGen-Bench at main · prometheus-eval/prometheus-eval · GitHub](../ai/rag/prometheus-eval-prometheus-eval.md)
   - [prometheus-eval/BiGGen-Bench · Datasets at Hugging Face](../ai/rag/huggingface-datasets-prometheus-eval.md)
+
+## llm
+
+  - [LLM Honeypot](../ai/community/llm-honeypot.md)
 
 ## mdx
 
@@ -26740,6 +26742,7 @@ Resources organized by keyword tags.
   - [The Orthogonalized Read Is a Removable Training Scaffold for Recurrent Memory](../ai/rag/arxiv-2607-19390.md)
   - [The Perceived Fragility of Explanations in Audio Models: Manipulation of Attribution with Unchanged Predictions](../ai/rag/arxiv-2606-14466.md)
   - [The Pragmatic Persona: Discovering LLM Persona through Bridging Inference](../ai/rag/arxiv-2604-24079.md)
+  - [The Productivity Mirage](../ai/community/the-productivity-mirage.md)
   - [The Professor: Multi-Teacher Unsupervised Prompt Distillation for Vision-Language Models](../ai/rag/arxiv-2606-23897.md)
   - [The Proxy Presumption: From Semantic Embeddings to Valid Social Measures](../ai/rag/arxiv-2605-07409.md)
   - [The Qt Console for Jupyter — Jupyter Qt Console 5.7.2 documentation](../ai/rag/the-qt-console-for-jupyter-jupyter-qt-console-5-7.md)
@@ -28359,6 +28362,7 @@ Resources organized by keyword tags.
   - [Set up Apple Watch for a family member - Apple Support](../ai/resources/set-up-apple-watch-for-a-family-member-apple-suppo.md)
   - [Set up Gemini Code Assist Standard and Enterprise | Gemini for Google Cloud | Google Cloud Documentation](../ai/agents/set-up-gemini-code-assist-standard-and-enterprise.md)
   - [Shopping & Ordering Support | Verizon Customer Support](../ai/resources/shopping-ordering-support-verizon-customer-support.md)
+  - [Show HN: A local merge queue for parallel Claude Code agents](../ai/community/funador-claude-code-merge-queue.md)
   - [Sign in to MED SSO (SU, SHC, LPCH)](../ai/resources/sign-in-to-med-sso-su-shc-lpch.md)
   - [SimBEV2X: A Large-Scale Dataset and Data Generation Tool for Multi-Task Vehicle-to-Everything Cooperative Perception](../ai/agents/arxiv-2607-23910.md)
   - [Site Map - Apple](../ai/rag/site-map-apple.md)
@@ -34725,4 +34729,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-30T04:00:43.435230+05:30*
+*Index generated on 2026-07-30T09:14:24.569539+05:30*

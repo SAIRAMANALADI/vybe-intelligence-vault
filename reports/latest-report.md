@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-30T07:44:46.966679+05:30`
+Generated at: `2026-07-30T09:16:11.938148+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,37 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **The Cold Email** - Score: `113` in category `ai/community` ([Link](https://zachholman.com/posts/cold-email)) ([File](../ai/community/the-cold-email.md))
+- **LLM Honeypot** - Score: `93` in category `ai/community` ([Link](https://llm2human.pages.dev)) ([File](../ai/community/llm-honeypot.md))
+- **The Productivity Mirage** - Score: `76` in category `ai/community` ([Link](https://frantic.im/mirage)) ([File](../ai/community/the-productivity-mirage.md))
+- **Refactoring cuisine: how an Iraqi stew sailed to Singapore** - Score: `27` in category `ai/community` ([Link](https://iza.ac/posts/2026/07/the-journey-of-bamya)) ([File](../ai/community/refactoring-cuisine-how-an-iraqi-stew-sailed-to-si.md))
+- **Show HN: A local merge queue for parallel Claude Code agents** - Score: `17` in category `ai/community` ([Link](https://github.com/funador/claude-code-merge-queue)) ([File](../ai/community/funador-claude-code-merge-queue.md))
 
 ## Top Trending Resources
 
-- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+969` ([File](../ai/rag/particlemedia-ragtruth.md))
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+969` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **datarobot-community/datarobot-agent-templates** - Score: `0` (0), Rank Change: `+969` ([File](../ai/rag/datarobot-community-datarobot-agent-templates.md))
-- **TEN-framework/ten-framework** - Score: `0` (0), Rank Change: `+969` ([File](../ai/agents/ten-framework-ten-framework.md))
-- **airweave-ai/airweave** - Score: `0` (0), Rank Change: `+969` ([File](../ai/rag/airweave-ai-airweave.md))
-- **vercel/ai** - Score: `0` (0), Rank Change: `+969` ([File](../ai/agents/vercel-ai.md))
-- **continuedev/continue** - Score: `0` (0), Rank Change: `+969` ([File](../ai/agents/continuedev-continue.md))
-- **wassim249/fastapi-langgraph-agent-production-ready-template** - Score: `0` (0), Rank Change: `+969` ([File](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
-- **AlexPEClub/ai-coding-starter-kit** - Score: `0` (0), Rank Change: `+969` ([File](../ai/agents/alexpeclub-ai-coding-starter-kit.md))
-- **czl9707/build-your-own-openclaw** - Score: `0` (0), Rank Change: `+969` ([File](../ai/agents/czl9707-build-your-own-openclaw.md))
+- **AI's top startups are barely publishing their research** - Score: `266` (+227), Rank Change: `+5` ([File](../ai/community/ai-s-top-startups-are-barely-publishing-their-rese.md))
+- **Some thoughts about Anthropic's new cryptanalysis results** - Score: `115` (+33), Rank Change: `+1` ([File](../ai/community/some-thoughts-about-anthropic-s-new-cryptanalysis.md))
+- **Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals** - Score: `63` (+23), Rank Change: `-1` ([File](../ai/community/commodification-of-intelligence-good-bad-and-ugly.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+1303` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+970` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - Score: `0` (0), Rank Change: `+9` ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
+- **Sunsetting Create React App** - Score: `0` (0), Rank Change: `+9` ([File](../ai/rag/sunsetting-create-react-app.md))
+- **Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones** - Score: `0` (0), Rank Change: `+9` ([File](../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md))
+- **Next.js 5.1: Faster Page Resolution, Environment Config & More** - Score: `0` (0), Rank Change: `+9` ([File](../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md))
+- **Next.js 6 and Nextjs.org** - Score: `0` (0), Rank Change: `+9` ([File](../web-development/nextjs/next-js-6-and-nextjs-org.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **infiniflow/ragflow** - (Rank Change: `+12775`) ([File](../ai/rag/infiniflow-ragflow-2.md))
-- **monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1** - (Rank Change: `+971`) ([File](../ai/rag/monday-service-langsmith-building-a-code-first-eva.md))
-- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+971`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
-- **promptfoo/promptfoo-action** - (Rank Change: `+971`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
-- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+971`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
-- **Understanding RAG from Scratch | martinuke0's Blog** - (Rank Change: `+971`) ([File](../ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md))
-- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+971`) ([File](../ai/rag/arxiv-2606-29031.md))
-- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+971`) ([File](../ai/research/arxiv-2606-26428.md))
-- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+971`) ([File](../ai/research/arxiv-2606-21887.md))
-- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+971`) ([File](../ai/rag/arxiv-2606-09677.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - (Rank Change: `+1303`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **ParticleMedia/RAGTruth** - (Rank Change: `+970`) ([File](../ai/rag/particlemedia-ragtruth.md))
+- **Security and Privacy in Agentic AI: Grand Challenges and Future Directions** - (Rank Change: `+854`) ([File](../ai/agents/arxiv-2607-06608.md))
+- **The Scaling Properties of Implicit Deductive Reasoning in Transformers** - (Rank Change: `+854`) ([File](../ai/research/arxiv-2605-04330.md))
+- **Next.js 16** - (Rank Change: `+18`) ([File](../web-development/nextjs/next-js-16.md))
+- **Next.js Security Update: December 11, 2025** - (Rank Change: `+18`) ([File](../web-development/nextjs/next-js-security-update-december-11-2025.md))
+- **Next.js 16.1** - (Rank Change: `+18`) ([File](../web-development/nextjs/next-js-16-1.md))
+- **Inside Turbopack: Building Faster by Building Less** - (Rank Change: `+18`) ([File](../web-development/nextjs/inside-turbopack-building-faster-by-building-less.md))
+- **Building Next.js for an agentic future** - (Rank Change: `+18`) ([File](../ai/agents/building-next-js-for-an-agentic-future.md))
+- **Next.js 16.2** - (Rank Change: `+18`) ([File](../web-development/nextjs/next-js-16-2.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +49,7 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Document-borne AI worms can self-propagate through Copilot for Word** (Category: `ai/community`) ([File](../ai/community/document-borne-ai-worms-can-self-propagate-through.md))
+- **Hunter-gatherers introduced fish to a mountain lake 7000 years ago** (Category: `ai/community`) ([File](../ai/community/hunter-gatherers-introduced-fish-to-a-mountain-lak.md))
+- **GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?** (Category: `ai/community`) ([File](../ai/community/gpt-5-6-vs-claude-fable-5-for-physical-ai-which-pe.md))
+- **How much can you delegate to agents?** (Category: `ai/community`) ([File](../ai/community/how-much-can-you-delegate-to-agents.md))

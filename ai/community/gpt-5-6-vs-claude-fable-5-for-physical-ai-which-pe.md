@@ -15,13 +15,14 @@ tags:
 - anthropic
 - benchmark
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:gpt-5-6-vs-claude-fable-5-for-physical-ai-which-pe
 first_seen: '2026-07-29T22:10:45.680507+05:30'
 last_seen: '2026-07-30T03:43:29.547100+05:30'
 last_checked: '2026-07-30T03:43:29.547100+05:30'
 health_score: 100
 ---
+
 
 # GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?
 

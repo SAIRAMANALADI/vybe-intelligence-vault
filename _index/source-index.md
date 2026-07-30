@@ -11861,11 +11861,12 @@ Resources organized by publisher feed and query sources.
 
   - [AI's top startups are barely publishing their research](../ai/community/ai-s-top-startups-are-barely-publishing-their-rese.md)
   - [Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals](../ai/community/commodification-of-intelligence-good-bad-and-ugly.md)
-  - [Document-borne AI worms can self-propagate through Copilot for Word](../ai/community/document-borne-ai-worms-can-self-propagate-through.md)
-  - [GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?](../ai/community/gpt-5-6-vs-claude-fable-5-for-physical-ai-which-pe.md)
-  - [How much can you delegate to agents?](../ai/community/how-much-can-you-delegate-to-agents.md)
-  - [Hunter-gatherers introduced fish to a mountain lake 7000 years ago](../ai/community/hunter-gatherers-introduced-fish-to-a-mountain-lak.md)
+  - [LLM Honeypot](../ai/community/llm-honeypot.md)
+  - [Refactoring cuisine: how an Iraqi stew sailed to Singapore](../ai/community/refactoring-cuisine-how-an-iraqi-stew-sailed-to-si.md)
+  - [Show HN: A local merge queue for parallel Claude Code agents](../ai/community/funador-claude-code-merge-queue.md)
   - [Some thoughts about Anthropic's new cryptanalysis results](../ai/community/some-thoughts-about-anthropic-s-new-cryptanalysis.md)
+  - [The Cold Email](../ai/community/the-cold-email.md)
+  - [The Productivity Mirage](../ai/community/the-productivity-mirage.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -15123,4 +15124,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-30T04:00:43.604419+05:30*
+*Index generated on 2026-07-30T09:14:24.722168+05:30*
