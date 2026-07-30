@@ -525,4 +525,4 @@ This index groups curated resources by target developer skills.
 - [langchain-ai/new-langgraphjs-project](https://github.com/langchain-ai/new-langgraphjs-project) (Tier: `essential` | [`Local File`](../../ai/agents/langchain-ai-new-langgraphjs-project.md))
 
 ---
-*Last updated: 2026-07-30 17:10 IST*
+*Last updated: 2026-07-30 20:19 IST*

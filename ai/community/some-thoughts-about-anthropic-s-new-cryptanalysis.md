@@ -13,13 +13,14 @@ collected_at: '2026-07-30T16:52:10.489995+05:30'
 tags:
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:some-thoughts-about-anthropic-s-new-cryptanalysis
 first_seen: '2026-07-30T01:13:13.553627+05:30'
 last_seen: '2026-07-30T16:52:10.489995+05:30'
 last_checked: '2026-07-30T16:52:10.489995+05:30'
 health_score: 100
 ---
+
 
 # Some thoughts about Anthropic's new cryptanalysis results
 

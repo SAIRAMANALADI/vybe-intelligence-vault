@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-75%2C686-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-133%2C273-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--30-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **75,686 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **133,273 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 14,721</p>
-        <p><b>Active:</b> 14,320 | <b>Inactive:</b> 401</p>
+        <p><b>Resources tracked:</b> 15,693</p>
+        <p><b>Active:</b> 15,288 | <b>Inactive:</b> 405</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,058</p>
+        <p><b>Archive Files:</b> 58,695</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 75,686 files</p>
-        <p><b>Last Update:</b> 2026-07-30 19:30 IST</p>
+        <p><b>Total Vault Size:</b> 133,273 files</p>
+        <p><b>Last Update:</b> 2026-07-30 20:20 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,26 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[kylestratis/ai_agents_mcp_examples](ai/agents/kylestratis-ai-agents-mcp-examples.md)** • Rank: <kbd>+970</kbd>
-- 🔼 **[TEN-framework/ten-framework](ai/agents/ten-framework-ten-framework.md)** • Rank: <kbd>+970</kbd>
-- 🔼 **[airweave-ai/airweave](ai/rag/airweave-ai-airweave.md)** • Rank: <kbd>+970</kbd>
-- 🔼 **[docker/compose-for-agents](ai/agents/docker-compose-for-agents.md)** • Rank: <kbd>+970</kbd>
-- 🔼 **[huangjia2019/ai-agents](ai/agents/huangjia2019-ai-agents.md)** • Rank: <kbd>+970</kbd>
+- 🔼 **[LLM Honeypot](ai/community/llm-honeypot.md)** • <kbd>+64 pts</kbd>
+- 🔼 **[AI's top startups are barely publishing their research](ai/community/ai-s-top-startups-are-barely-publishing-their-rese.md)** • <kbd>+62 pts</kbd>
+- 🔼 **[Carolina Cloud pays SOFR on unused prepaid credits](ai/community/carolina-cloud-pays-sofr-on-unused-prepaid-credits.md)** • <kbd>+48 pts</kbd> • Rank: <kbd>+3</kbd>
+- 🔼 **[The Productivity Mirage](ai/community/the-productivity-mirage.md)** • <kbd>+45 pts</kbd>
+- 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+4</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- No new discoveries in this run.
+- 🆕 **[GCC steering committee announces AI policy](ai/community/gcc-steering-committee-announces-ai-policy.md)** • Score: `148`
+- 🆕 **[Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)](ai/community/grafana-ai-sdk.md)** • Score: `24`
+- 🆕 **[xiaohuiwang-ai/xiaohuiwang-ai.github.io](world/public/vault/daily-digests/2026-06-26/xiaohuiwang-ai_github_io.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[The Cold Email](ai/community/the-cold-email.md)**
+- 💤 **[Some thoughts about Anthropic's new cryptanalysis results](ai/community/some-thoughts-about-anthropic-s-new-cryptanalysis.md)**
+- 💤 **[Kuna: Decompiler Development in the Age of Coding Agents](ai/community/kuna-decompiler-development-in-the-age-of-coding-a.md)**
+- 💤 **[Tailscale with Mullvad leaks your DNS](ai/community/tailscale-tailscale.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

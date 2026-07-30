@@ -1555,7 +1555,6 @@ Resources organized by keyword tags.
   - [Koopman Dreamer: Spectrally Constrained Latent Dynamics for Stable World-Model Imagination](../ai/agents/arxiv-2607-19719.md)
   - [Kotlin Programming Language](../ai/rag/kotlin-programming-language.md)
   - [Kotlin/Kotlin-AI-Examples](../ai/agents/kotlin-kotlin-ai-examples.md)
-  - [Kuna: Decompiler Development in the Age of Coding Agents](../ai/community/kuna-decompiler-development-in-the-age-of-coding-a.md)
   - [Kwai Summary Attention Technical Report](../ai/agents/arxiv-2604-24432.md)
   - [L-MAD: A Systematic Evaluation of Multi-Agent Debate Structures in Legal Reasoning](../ai/agents/arxiv-2607-09099.md)
   - [L-MARS: Legal Multi-Agent System with Agentic Search and Citation-Faithfulness Audit](../ai/rag/arxiv-2509-00761.md)
@@ -1759,7 +1758,6 @@ Resources organized by keyword tags.
   - [MedGemma 1.5 model card | Health AI Developer Foundations | Google for Developers](../ai/rag/medgemma-1-5-model-card-health-ai-developer-founda.md)
   - [MedicalAgentsBench for Complex Medical Reasoning: Comparing Internalized Reasoning Models versus Externalized Agent-based Frameworks](../ai/agents/arxiv-2503-07459.md)
   - [Medium Privacy Policy - Effective date December 31, 2019 through August 31, 2020 – Medium Help Center](../ai/rag/medium-privacy-policy-effective-date-december-31-2.md)
-  - [Medium Privacy Policy | by Medium | Medium Policy](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md)
   - [Medium Terms of Service | by Medium | Medium Policy](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md)
   - [Medium’s Copyright and DMCA Policy | by Medium | Medium Policy](../ai/agents/mediums-copyright-and-dmca-policy-by-medium-medium.md)
   - [MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](../ai/agents/arxiv-2507-02259.md)
@@ -3259,6 +3257,7 @@ Resources organized by keyword tags.
   - [idosal/git-mcp](../ai/agents/idosal-git-mcp.md)
   - [ilexistools/agents-sdk-templates](../ai/agents/ilexistools-agents-sdk-templates.md)
   - [imzodev/openai-agents-sdk-js-tutorial](../ai/agents/imzodev-openai-agents-sdk-js-tutorial.md)
+  - [infiniflow/ragflow](../ai/rag/infiniflow-ragflow-2.md)
   - [infiniumtek/terraform-review-agent](../ai/agents/infiniumtek-terraform-review-agent.md)
   - [interviewstreet/hiring-agent](../ai/agents/interviewstreet-hiring-agent.md)
   - [iris-eval/mcp-server](../ai/agents/iris-eval-mcp-server.md)
@@ -3282,6 +3281,7 @@ Resources organized by keyword tags.
   - [langchain-ai/data-enrichment](../ai/agents/langchain-ai-data-enrichment.md)
   - [langchain-ai/langchain](../ai/rag/langchain-ai-langchain.md)
   - [langchain-ai/langgraph](../ai/rag/langchain-ai-langgraph.md)
+  - [langchain-ai/langgraph](../docs/sample-digest.md)
   - [langchain-ai/langgraph-swarm-py](../ai/rag/langchain-ai-langgraph-swarm-py.md)
   - [langchain-ai/langgraphjs](../ai/rag/langchain-ai-langgraphjs.md)
   - [langchain-ai/new-langgraphjs-project](../ai/agents/langchain-ai-new-langgraphjs-project.md)
@@ -3377,7 +3377,6 @@ Resources organized by keyword tags.
   - [snyk/agent-scan](../ai/agents/snyk-agent-scan.md)
   - [spaCy · Industrial-strength Natural Language Processing in Python](../ai/agents/spacy-industrial-strength-natural-language-process.md)
   - [spacing - Fraction bar crashes into superscript exponent in manually-drawn TikZ fraction - TeX - LaTeX Stack Exchange](../ai/agents/spacing-fraction-bar-crashes-into-superscript-expo.md)
-  - [stanford-oval/storm](../ai/rag/stanford-oval-storm.md)
   - [steel-dev/awesome-web-agents](../ai/agents/steel-dev-awesome-web-agents.md)
   - [strnad/CrewAI-Studio](../ai/agents/strnad-crewai-studio.md)
   - [study8677/antigravity-workspace-template](../ai/rag/study8677-antigravity-workspace-template.md)
@@ -3433,12 +3432,8 @@ Resources organized by keyword tags.
 
   - [AI's top startups are barely publishing their research](../ai/community/ai-s-top-startups-are-barely-publishing-their-rese.md)
   - [Carolina Cloud pays SOFR on unused prepaid credits](../ai/community/carolina-cloud-pays-sofr-on-unused-prepaid-credits.md)
-  - [Tailscale with Mullvad leaks your DNS](../ai/community/tailscale-tailscale.md)
-  - [The Cold Email](../ai/community/the-cold-email.md)
-
-## ai agent builder
-
-  - [xiaohuiwang-ai/xiaohuiwang-ai.github.io](../world/public/vault/daily-digests/2026-06-26/xiaohuiwang-ai_github_io.md)
+  - [GCC steering committee announces AI policy](../ai/community/gcc-steering-committee-announces-ai-policy.md)
+  - [Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)](../ai/community/grafana-ai-sdk.md)
 
 ## animation
 
@@ -3779,7 +3774,6 @@ Resources organized by keyword tags.
   - [SkillOpt-Lite: Better and Faster Agent Self-evolution via One Line of Vibe](../ai/agents/arxiv-2607-03451.md)
   - [Skilljar Academy](../ai/rag/skilljar-academy.md)
   - [Snyk VulnBench JS 1.0: Can LLMs Find the Same Bugs Twice?](../ai/agents/arxiv-2606-15762.md)
-  - [Some thoughts about Anthropic's new cryptanalysis results](../ai/community/some-thoughts-about-anthropic-s-new-cryptanalysis.md)
   - [Sovereign, Open Source Retrieval-Augmented Generation](../ai/rag/sovereign-open-source-retrieval-augmented-generati.md)
   - [SpatialThinker: Reinforcing Scene Graph-Grounded Spatial Reasoning via Dense Rewards](../ai/rag/arxiv-2511-07403.md)
   - [Specification Grounding Drives Test Effectiveness for LLM Code](../ai/rag/arxiv-2607-06636.md)
@@ -7506,7 +7500,6 @@ Resources organized by keyword tags.
   - [RTSGameBench: An RTS Benchmark for Strategic Reasoning by Vision-Language Models](../ai/rag/arxiv-2606-18950.md)
   - [RUB: Evaluating Residual Knowledge in Unlearned Models](../ai/research/arxiv-2504-14798.md)
   - [RUBRIC: Realism--Utility Balanced Ranking for Imbalanced Classification](../ai/research/arxiv-2607-09816.md)
-  - [RUC-NLPIR/FlashRAG](../ai/rag/ruc-nlpir-flashrag-2.md)
   - [RVM: Ruby Version Manager - RVM Ruby Version Manager - Documentation](../ai/rag/rvm-ruby-version-manager-rvm-ruby-version-manager.md)
   - [RVN-Bench: A Benchmark for Reactive Visual Navigation](../ai/rag/arxiv-2603-03953.md)
   - [RW-Voice-EQ Bench: A Real World Benchmark for Evaluating Voice AI Systems](../ai/agents/arxiv-2607-14846.md)
@@ -8975,7 +8968,6 @@ Resources organized by keyword tags.
   - [sentence-transformers/examples/cross_encoder/training/ms_marco at main · huggingface/sentence-transformers · GitHub](../ai/resources/ukplab-sentence-transformers.md)
   - [sierra-research/tau2-bench](../ai/agents/sierra-research-tau2-bench.md)
   - [spaCy · Industrial-strength Natural Language Processing in Python](../ai/agents/spacy-industrial-strength-natural-language-process.md)
-  - [stanford-oval/storm](../ai/rag/stanford-oval-storm.md)
   - [std::ops - Rust](../ai/resources/std-ops-rust.md)
   - [steel-dev/awesome-web-agents](../ai/agents/steel-dev-awesome-web-agents.md)
   - [tavily-ai/tavily-search-evals](../ai/resources/tavily-ai-tavily-search-evals.md)
@@ -9052,10 +9044,6 @@ Resources organized by keyword tags.
   - [electron/electron](../ai/rag/electron-electron.md)
   - [facebookresearch/faiss](../ai/rag/facebookresearch-faiss.md)
   - [godotengine/godot](../ai/resources/godotengine-godot.md)
-
-## claude sdk
-
-  - [xiaohuiwang-ai/xiaohuiwang-ai.github.io](../world/public/vault/daily-digests/2026-06-26/xiaohuiwang-ai_github_io.md)
 
 ## codeql
 
@@ -11337,7 +11325,6 @@ Resources organized by keyword tags.
   - [RODS: Reward-Driven Online Data Synthesis for Multi-Turn Tool-Use Agents](../ai/agents/arxiv-2606-19047.md)
   - [RPAM: A Principled Metric for Evaluating Associations in Language Models with High Predictive Validity in Downstream Outputs](../ai/rag/arxiv-2607-05679.md)
   - [RSRCC: A Remote Sensing Regional Change Comprehension Benchmark Constructed via Retrieval-Augmented Best-of-N Ranking](../ai/rag/arxiv-2604-20623.md)
-  - [RUC-NLPIR/FlashRAG](../ai/rag/ruc-nlpir-flashrag-2.md)
   - [RUFNet: Query-Guided Support Mask Refinement and Uncertainty Fusion based on Hybrid Mamba for Few-Shot Brain Tumor Segmentation](../ai/research/arxiv-2607-05035.md)
   - [RVN-Bench: A Benchmark for Reactive Visual Navigation](../ai/rag/arxiv-2603-03953.md)
   - [R^3: Advertisement Compliance Rectification via Group-Relative Experience Extractor and Curriculum Reinforcement](../ai/research/arxiv-2607-07318.md)
@@ -12366,6 +12353,7 @@ Resources organized by keyword tags.
   - [Getting started | CHI@Edge](../ai/resources/getting-started-chi-edge.md)
   - [GitHub Copilot CLI · GitHub](../ai/agents/features-copilot.md)
   - [GitHub Enterprise · The AI-powered developer platform for the agent-ready enterprise · GitHub](../ai/rag/github-enterprise-the-ai-powered-developer-platfor.md)
+  - [Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)](../ai/community/grafana-ai-sdk.md)
   - [Graph Instance Landscapes: When Structural Similarity Does (Not) Reflect Shortest-Path Performance](../ai/research/arxiv-2606-18267.md)
   - [Graph neural networks in TensorFlow](../ai/rag/graph-neural-networks-in-tensorflow.md)
   - [Graph neural networks in TensorFlow — The TensorFlow Blog](../ai/rag/graph-neural-networks-in-tensorflow-the-tensorflow.md)
@@ -12944,7 +12932,6 @@ Resources organized by keyword tags.
   - [QwenLM/Qwen-Agent](../ai/rag/qwenlm-qwen-agent.md)
   - [QwenLM/Qwen3](../ai/resources/qwenlm-qwen3.md)
   - [RAIVNLab/MRL](../ai/resources/raivnlab-mrl.md)
-  - [RUC-NLPIR/FlashRAG](../ai/rag/ruc-nlpir-flashrag-2.md)
   - [Rehan-Ul-Haq/openai-agents-sdk-tutorial](../ai/agents/rehan-ul-haq-openai-agents-sdk-tutorial.md)
   - [SWE-agent/SWE-agent](../ai/agents/swe-agent-swe-agent.md)
   - [Sameera-Nazneen/AutogeneratedCV.github.io](../ai/agents/sameera-nazneen-autogeneratedcv-github-io.md)
@@ -13171,6 +13158,7 @@ Resources organized by keyword tags.
   - [ilexistools/agents-sdk-templates](../ai/agents/ilexistools-agents-sdk-templates.md)
   - [imadmaalouf02/RAG](../ai/rag/imadmaalouf02-rag.md)
   - [imzodev/openai-agents-sdk-js-tutorial](../ai/agents/imzodev-openai-agents-sdk-js-tutorial.md)
+  - [infiniflow/ragflow](../ai/rag/infiniflow-ragflow-2.md)
   - [infiniumtek/terraform-review-agent](../ai/agents/infiniumtek-terraform-review-agent.md)
   - [ipython/ipyparallel](../ai/resources/ipython-ipyparallel.md)
   - [iris-eval/mcp-server](../ai/agents/iris-eval-mcp-server.md)
@@ -13362,7 +13350,6 @@ Resources organized by keyword tags.
   - [snyk/agent-scan](../ai/agents/snyk-agent-scan.md)
   - [sphinx-doc/sphinx](../ai/resources/sphinx-doc-sphinx.md)
   - [stackitcloud/rag-template](../ai/rag/stackitcloud-rag-template.md)
-  - [stanford-oval/storm](../ai/rag/stanford-oval-storm.md)
   - [stanfordnlp/dsp](../ai/resources/stanfordnlp-dsp.md)
   - [stanfordnlp/dspy](../ai/resources/stanfordnlp-dspy.md)
   - [steel-dev/awesome-web-agents](../ai/agents/steel-dev-awesome-web-agents.md)
@@ -13458,6 +13445,7 @@ Resources organized by keyword tags.
   - [ghuntley/how-to-build-a-coding-agent](../ai/agents/ghuntley-how-to-build-a-coding-agent.md)
   - [github/github-mcp-server](../ai/resources/github-github-mcp-server.md)
   - [gohugoio/hugo-goldmark-extensions](../ai/resources/gohugoio-hugo-goldmark-extensions.md)
+  - [infiniflow/ragflow](../ai/rag/infiniflow-ragflow-2.md)
   - [milvus-io/milvus](../ai/rag/milvus-io-milvus.md)
   - [muesli/smartcrop](../ai/rag/muesli-smartcrop.md)
   - [nixopus/nixopus](../ai/agents/nixopus-nixopus.md)
@@ -13473,6 +13461,10 @@ Resources organized by keyword tags.
   - [Learn more](../ai/companies/deepmind/learn-more.md)
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
+
+## graph
+
+  - [langchain-ai/langgraph](../docs/sample-digest.md)
 
 ## hackernews
 
@@ -14234,6 +14226,7 @@ Resources organized by keyword tags.
   - [Functional programming - Wikipedia](../ai/rag/functional-programming-wikipedia.md)
   - [GAS-Leak-LLM: Genetic Algorithm-Based Suffix Optimization for Black-Box LLM Jailbreaking](../ai/research/arxiv-2606-15788.md)
   - [GATE Exam Tutorial - GeeksforGeeks](../ai/rag/gate-exam-tutorial-geeksforgeeks.md)
+  - [GCC steering committee announces AI policy](../ai/community/gcc-steering-committee-announces-ai-policy.md)
   - [GDPR FAQs | Cloudflare](../ai/rag/cloudflare-and-gdpr-compliance-cloudflare.md)
   - [GEAR | Google Developer Program | Google for Developers](../ai/agents/gear-google-developer-program-google-for-developer.md)
   - [GEO Week News | Lidar, AEC, 3D Technology & Geospatial Insights](../ai/rag/geo-week-news-lidar-aec-3d-technology-geospatial-i.md)
@@ -14305,6 +14298,7 @@ Resources organized by keyword tags.
   - [Global drivers and barriers to the public acceptance of autonomous vehicles: Evidence from 17 countries](../ai/agents/arxiv-2607-14436.md)
   - [Glossary](../ai/rag/glossary.md)
   - [GnuTLS](../ai/resources/gnutls.md)
+  - [Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)](../ai/community/grafana-ai-sdk.md)
   - [Goal-Driven Reasoning in DatalogMTL with Magic Sets](../ai/research/arxiv-2412-07259.md)
   - [Godot Development Fund](../ai/rag/godot-development-fund.md)
   - [Godot Docs – 4.7 branch — Godot Engine (stable) documentation in English](../ai/rag/godot-docs-4-7-branch-godot-engine-stable-document.md)
@@ -14549,7 +14543,6 @@ Resources organized by keyword tags.
   - [KronQ: LLM Quantization via Kronecker-Factored Hessian](../ai/research/arxiv-2607-07964.md)
   - [KruxAI/ragbuilder](../ai/rag/kruxai-ragbuilder.md)
   - [Kubernetes](../ai/rag/kubernetes.md)
-  - [Kuna: Decompiler Development in the Age of Coding Agents](../ai/community/kuna-decompiler-development-in-the-age-of-coding-a.md)
   - [Kwai Summary Attention Technical Report](../ai/agents/arxiv-2604-24432.md)
   - [LACE-SVD: Loss-Aware SVD with Cumulative Error Correction for LLM Compression](../ai/research/arxiv-2607-03057.md)
   - [LATTICE: Graph Self-Supervised Learning for Multimodal Spatial Omics Integration](../ai/rag/arxiv-2607-14410.md)
@@ -14701,7 +14694,6 @@ Resources organized by keyword tags.
   - [MediaWiki](../ai/resources/mediawiki.md)
   - [Medium - Apps on Google Play](../ai/rag/medium-apps-on-google-play.md)
   - [Medium Privacy Policy - Effective date December 31, 2019 through August 31, 2020 – Medium Help Center](../ai/rag/medium-privacy-policy-effective-date-december-31-2.md)
-  - [Medium Privacy Policy | by Medium | Medium Policy](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md)
   - [Medium Rules | by Medium | Medium Policy](../ai/rag/medium-rules-by-medium-medium-policy.md)
   - [Medium Terms of Service - Effective date March 7, 2016 through August 31, 2020 – Medium Help Center](../ai/rag/medium-terms-of-service-effective-date-march-7-201.md)
   - [Medium/medium-policy](../ai/resources/medium-medium-policy.md)
@@ -15212,7 +15204,6 @@ Resources organized by keyword tags.
   - [Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation](../ai/agents/arxiv-2606-23743.md)
   - [Solana Price Today | SOL Live Price, Chart & Market Cap | OKX United States](../ai/rag/solana-price-today-sol-live-price-chart-market-cap.md)
   - [SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets](../ai/agents/arxiv-2607-08681.md)
-  - [Some thoughts about Anthropic's new cryptanalysis results](../ai/community/some-thoughts-about-anthropic-s-new-cryptanalysis.md)
   - [Something from Nothing: Data Augmentation for Robust Severity Level Estimation of Dysarthric Speech](../ai/rag/arxiv-2603-15988.md)
   - [Sound Probabilistic Safety Bounds for Large Language Models](../ai/rag/arxiv-2607-20286.md)
   - [Soundwaves settle debate about elusive quantum particle | Cornell Chronicle](../ai/rag/soundwaves-settle-debate-about-elusive-quantum-par.md)
@@ -15294,7 +15285,6 @@ Resources organized by keyword tags.
   - [TXYZ Launches the Writing Assistant in Its Academic AI Platform](../ai/rag/txyz-launches-the-writing-assistant-in-its-academi.md)
   - [TXYZ: How AI Tools Help Students in Academic Research](../ai/resources/txyz-how-ai-tools-help-students-in-academic-resear.md)
   - [TabPFN Extensions for Interpretable Geotechnical Modelling](../ai/rag/arxiv-2603-21033.md)
-  - [Tailscale with Mullvad leaks your DNS](../ai/community/tailscale-tailscale.md)
   - [Talk to Posit Sales - We're Here to Help You](../ai/resources/talk-to-posit-sales-we-re-here-to-help-you.md)
   - [Taming Curvature: Architecture Warm-Up for Stable Transformer Training](../ai/research/arxiv-2606-16768.md)
   - [Tanium Developer Portal](../ai/rag/tanium-developer-portal.md)
@@ -15339,7 +15329,6 @@ Resources organized by keyword tags.
   - [The Calibration Channel Determines the Bayes-Error Proxy: An Exact Law for Temperature-Induced Distortion](../ai/rag/arxiv-2607-18162.md)
   - [The Challenges of Balancing AI Compliance and Technological Innovations in Critical Sectors: A Systematic Literature Review](../ai/rag/arxiv-2606-12423.md)
   - [The Clinician's Veto: Navigating Trust, Liability, and Uncertainty in Autonomous AI Prescribing](../ai/rag/arxiv-2606-25108.md)
-  - [The Cold Email](../ai/community/the-cold-email.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
   - [The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality](../ai/rag/arxiv-2607-08495.md)
   - [The Contribution of XAI for the Safe Development and Certification of AI: An Expert-Based Analysis](../ai/research/arxiv-2408-02379.md)
@@ -15690,7 +15679,6 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -15842,10 +15830,6 @@ Resources organized by keyword tags.
   - [라떼군 이야기 - YouTube](../ai/resources/raddegun-iyagi-youtube.md)
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
-
-## harness
-
-  - [xiaohuiwang-ai/xiaohuiwang-ai.github.io](../world/public/vault/daily-digests/2026-06-26/xiaohuiwang-ai_github_io.md)
 
 ## hf-dataset
 
@@ -16248,6 +16232,7 @@ Resources organized by keyword tags.
 
 ## llm
 
+  - [Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)](../ai/community/grafana-ai-sdk.md)
   - [LLM Honeypot](../ai/community/llm-honeypot.md)
 
 ## mdx
@@ -19634,10 +19619,6 @@ Resources organized by keyword tags.
   - [Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models](../ai/research/visual-sketchpad-sketching-as-a-visual-chain-of-th.md)
   - [Visuospatial Perspective Taking in Multimodal Language Models](../ai/research/visuospatial-perspective-taking-in-multimodal-lang.md)
 
-## network architecture
-
-  - [xiaohuiwang-ai/xiaohuiwang-ai.github.io](../world/public/vault/daily-digests/2026-06-26/xiaohuiwang-ai_github_io.md)
-
 ## openai
 
   - ["Not in My Backyard": LLMs Uncover Online and Offline Social Biases Against Homelessness](../ai/research/arxiv-2508-13187.md)
@@ -20103,6 +20084,10 @@ Resources organized by keyword tags.
   - [Applied AI](../ai/companies/openai/applied-ai.md)
   - [Engineering](../ai/companies/openai/engineering.md)
   - [Global Affairs](../ai/companies/openai/global-affairs.md)
+
+## orchestration
+
+  - [langchain-ai/langgraph](../docs/sample-digest.md)
 
 ## paper
 
@@ -22991,7 +22976,6 @@ Resources organized by keyword tags.
   - [QuivrHQ/quivr](../ai/rag/quivrhq-quivr.md)
   - [QwenLM/Qwen-Agent](../ai/rag/qwenlm-qwen-agent.md)
   - [QwenLM/Qwen3](../ai/resources/qwenlm-qwen3.md)
-  - [RUC-NLPIR/FlashRAG](../ai/rag/ruc-nlpir-flashrag-2.md)
   - [Rehan-Ul-Haq/openai-agents-sdk-tutorial](../ai/agents/rehan-ul-haq-openai-agents-sdk-tutorial.md)
   - [SWE-agent/SWE-agent](../ai/agents/swe-agent-swe-agent.md)
   - [SamuelSchmidgall/AgentLaboratory](../ai/rag/samuelschmidgall-agentlaboratory.md)
@@ -23196,7 +23180,6 @@ Resources organized by keyword tags.
   - [snyk/agent-scan](../ai/agents/snyk-agent-scan.md)
   - [sphinx-doc/sphinx](../ai/resources/sphinx-doc-sphinx.md)
   - [stackitcloud/rag-template](../ai/rag/stackitcloud-rag-template.md)
-  - [stanford-oval/storm](../ai/rag/stanford-oval-storm.md)
   - [stanfordnlp/dsp](../ai/resources/stanfordnlp-dsp.md)
   - [stanfordnlp/dspy](../ai/resources/stanfordnlp-dspy.md)
   - [steel-dev/awesome-web-agents](../ai/agents/steel-dev-awesome-web-agents.md)
@@ -25708,7 +25691,6 @@ Resources organized by keyword tags.
   - [Medium - Apps on Google Play](../ai/rag/medium-apps-on-google-play.md)
   - [Medium Members Can Listen To Any Medium Story With The Speechify Play Button | Speechify](../ai/rag/medium-members-can-listen-to-any-medium-story-with.md)
   - [Medium Privacy Policy - Effective date December 31, 2019 through August 31, 2020 – Medium Help Center](../ai/rag/medium-privacy-policy-effective-date-december-31-2.md)
-  - [Medium Privacy Policy | by Medium | Medium Policy](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md)
   - [Medium Rules | by Medium | Medium Policy](../ai/rag/medium-rules-by-medium-medium-policy.md)
   - [Medium Terms of Service - Effective date March 7, 2016 through August 31, 2020 – Medium Help Center](../ai/rag/medium-terms-of-service-effective-date-march-7-201.md)
   - [Medium Terms of Service | by Medium | Medium Policy](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md)
@@ -26381,7 +26363,6 @@ Resources organized by keyword tags.
   - [RSPO: Reward-Swap Policy Optimization for Multi-Turn LLM Agents](../ai/rag/arxiv-2607-04713.md)
   - [RSRCC: A Remote Sensing Regional Change Comprehension Benchmark Constructed via Retrieval-Augmented Best-of-N Ranking](../ai/rag/arxiv-2604-20623.md)
   - [RTSGameBench: An RTS Benchmark for Strategic Reasoning by Vision-Language Models](../ai/rag/arxiv-2606-18950.md)
-  - [RUC-NLPIR/FlashRAG](../ai/rag/ruc-nlpir-flashrag-2.md)
   - [RVM: Ruby Version Manager - RVM Ruby Version Manager - Documentation](../ai/rag/rvm-ruby-version-manager-rvm-ruby-version-manager.md)
   - [RVN-Bench: A Benchmark for Reactive Visual Navigation](../ai/rag/arxiv-2603-03953.md)
   - [RadioMaster: Multi-Agent System for Autonomous Radio Signal Generation](../ai/rag/arxiv-2606-01862.md)
@@ -27694,6 +27675,7 @@ Resources organized by keyword tags.
   - [iCloud](../ai/rag/icloud.md)
   - [iPadOS - Apple Developer](../ai/rag/ipados-apple-developer.md)
   - [imadmaalouf02/RAG](../ai/rag/imadmaalouf02-rag.md)
+  - [infiniflow/ragflow](../ai/rag/infiniflow-ragflow-2.md)
   - [jamwithai/production-agentic-rag-course](../ai/rag/jamwithai-production-agentic-rag-course.md)
   - [jim-schwoebel/awesome_ai_agents](../ai/rag/jim-schwoebel-awesome-ai-agents.md)
   - [jpanther/congo](../ai/rag/jpanther-congo.md)
@@ -27819,7 +27801,6 @@ Resources organized by keyword tags.
   - [sleeepeer/PoisonedRAG](../ai/rag/sleeepeer-poisonedrag.md)
   - [spec/cloudevents/spec.md at main · cloudevents/spec · GitHub](../ai/rag/cloudevents-spec.md)
   - [stackitcloud/rag-template](../ai/rag/stackitcloud-rag-template.md)
-  - [stanford-oval/storm](../ai/rag/stanford-oval-storm.md)
   - [streamlit/example-app-langchain-rag](../ai/rag/streamlit-example-app-langchain-rag.md)
   - [study8677/antigravity-workspace-template](../ai/rag/study8677-antigravity-workspace-template.md)
   - [supabase-community/vercel-ai-chatbot](../ai/rag/supabase-community-vercel-ai-chatbot.md)
@@ -28658,7 +28639,6 @@ Resources organized by keyword tags.
   - [RFC 9234 - Route Leak Prevention and Detection Using Roles in UPDATE and OPEN Messages](../ai/rag/rfc-9234-route-leak-prevention-and-detection-using.md)
   - [ROOFS: RObust biOmarker Feature Selection](../ai/research/arxiv-2601-05151.md)
   - [RStudio Latest Builds](../ai/resources/rstudio-latest-builds.md)
-  - [RUC-NLPIR/FlashRAG](../ai/rag/ruc-nlpir-flashrag-2.md)
   - [RVM: Ruby Version Manager - RVM Ruby Version Manager - Documentation](../ai/rag/rvm-ruby-version-manager-rvm-ruby-version-manager.md)
   - [Random Label Prediction Heads for Studying Memorization in Deep Neural Networks](../ai/rag/arxiv-2607-11541.md)
   - [Re-introducing Bridgy Fed | Ryan Barrett](../ai/resources/re-introducing-bridgy-fed-ryan-barrett.md)
@@ -29754,9 +29734,9 @@ Resources organized by keyword tags.
 
   - [googleapis/googleapis](../ai/resources/googleapis-googleapis.md)
 
-## static site
+## state-management
 
-  - [xiaohuiwang-ai/xiaohuiwang-ai.github.io](../world/public/vault/daily-digests/2026-06-26/xiaohuiwang-ai_github_io.md)
+  - [langchain-ai/langgraph](../docs/sample-digest.md)
 
 ## swift
 
@@ -31253,7 +31233,6 @@ Resources organized by keyword tags.
   - [Medium - Apps on Google Play](../ai/rag/medium-apps-on-google-play.md)
   - [Medium Members Can Listen To Any Medium Story With The Speechify Play Button | Speechify](../ai/rag/medium-members-can-listen-to-any-medium-story-with.md)
   - [Medium Privacy Policy - Effective date December 31, 2019 through August 31, 2020 – Medium Help Center](../ai/rag/medium-privacy-policy-effective-date-december-31-2.md)
-  - [Medium Privacy Policy | by Medium | Medium Policy](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md)
   - [Medium Rules | by Medium | Medium Policy](../ai/rag/medium-rules-by-medium-medium-policy.md)
   - [Medium Terms of Service - Effective date March 7, 2016 through August 31, 2020 – Medium Help Center](../ai/rag/medium-terms-of-service-effective-date-march-7-201.md)
   - [Medium Terms of Service | by Medium | Medium Policy](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md)
@@ -33121,7 +33100,6 @@ Resources organized by keyword tags.
   - [REFORGE: A Method for Benchmarking LLMs' Reverse Engineering Capabilities in Decompiled Binary Function Naming](../ai/research/arxiv-2607-07738.md)
   - [RL-Struct: A Lightweight Reinforcement Learning Framework for Reliable Structured Output in LLMs](../ai/research/arxiv-2512-00319.md)
   - [RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation](../ai/agents/arxiv-2607-24772.md)
-  - [RUC-NLPIR/FlashRAG](../ai/rag/ruc-nlpir-flashrag-2.md)
   - [RVM: Ruby Version Manager - RVM Ruby Version Manager - Documentation](../ai/rag/rvm-ruby-version-manager-rvm-ruby-version-manager.md)
   - [Read the Docs · GitHub](../ai/resources/read-the-docs-github.md)
   - [Real-World Evaluation of an AI Agent Drafting Translational Impact Summaries](../ai/agents/arxiv-2607-16989.md)
@@ -33450,6 +33428,7 @@ Resources organized by keyword tags.
   - [huggingface (Hugging Face)](../ai/rag/huggingface-hugging-face.md)
   - [hwchase17/langchain](../ai/rag/hwchase17-langchain.md)
   - [idosal/git-mcp](../ai/agents/idosal-git-mcp.md)
+  - [infiniflow/ragflow](../ai/rag/infiniflow-ragflow-2.md)
   - [infiniumtek/terraform-review-agent](../ai/agents/infiniumtek-terraform-review-agent.md)
   - [iuyup/AgentFlow](../ai/agents/iuyup-agentflow.md)
   - [jim-schwoebel/awesome_ai_agents](../ai/rag/jim-schwoebel-awesome-ai-agents.md)
@@ -33501,6 +33480,7 @@ Resources organized by keyword tags.
   - [pyodide-build — pyodide-build 0.35.2.dev9+g32bede8f1 documentation](../ai/resources/pyodide-build-pyodide-build-0-35-2-dev9-g32bede8f1.md)
   - [python-poetry/poetry](../ai/resources/python-poetry-poetry.md)
   - [raga-ai-hub/raga-llm-hub](../ai/rag/raga-ai-hub-raga-llm-hub.md)
+  - [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md)
   - [ragas/docs/getstarted/evals.md at main · vibrantlabsai/ragas · GitHub](../ai/rag/vibrantlabsai-ragas.md)
   - [ray-project/llm-applications](../ai/rag/ray-project-llm-applications.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
@@ -33520,7 +33500,6 @@ Resources organized by keyword tags.
   - [sirius-zuo/devops-skills](../ai/agents/sirius-zuo-devops-skills.md)
   - [spaCy · Industrial-strength Natural Language Processing in Python](../ai/agents/spacy-industrial-strength-natural-language-process.md)
   - [squidfunk/mkdocs-material - Docker Image](../ai/resources/squidfunk-mkdocs-material-docker-image.md)
-  - [stanford-oval/storm](../ai/rag/stanford-oval-storm.md)
   - [strnad/CrewAI-Studio](../ai/agents/strnad-crewai-studio.md)
   - [techwithtim/Langflow-RAG-Tutorial](../ai/rag/techwithtim-langflow-rag-tutorial.md)
   - [titiler/CONTRIBUTING.md at main · developmentseed/titiler · GitHub](../ai/rag/developmentseed-titiler.md)
@@ -34423,7 +34402,6 @@ Resources organized by keyword tags.
   - [Media Types](../ai/rag/media-types.md)
   - [Medium - Apps on Google Play](../ai/rag/medium-apps-on-google-play.md)
   - [Medium Privacy Policy - Effective date December 31, 2019 through August 31, 2020 – Medium Help Center](../ai/rag/medium-privacy-policy-effective-date-december-31-2.md)
-  - [Medium Privacy Policy | by Medium | Medium Policy](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md)
   - [Medium Rules | by Medium | Medium Policy](../ai/rag/medium-rules-by-medium-medium-policy.md)
   - [MegaSlide-DiT: Memory-Centric Adaptation and Deformable Local Attention for Efficient Video Diffusion](../ai/rag/arxiv-2607-22696.md)
   - [MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism](../ai/agents/arxiv-2606-07512.md)
@@ -35115,4 +35093,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-30T17:08:53.548879+05:30*
+*Index generated on 2026-07-30T20:18:22.579410+05:30*

@@ -18,13 +18,13 @@ It provides rapid API development speed, automatic OpenAPI documentation, asynch
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 248 resources matched in the intelligence vault.
+Active signals: 249 resources matched in the intelligence vault.
 Recently detected signals:
-- [TRACE-ROUTER: Task-Consistent and Adaptive Online Routing for Agentic AI](../ai/rag/arxiv-2607-22465.md) (Source: Unknown Source) - Collected 2026-07-30
-- [Rendering on Real Silicon: GPU Render-Timing as a Passive, AI-Resistant CAPTCHA Signal](../ai/research/arxiv-2607-23389.md) (Source: Unknown Source) - Collected 2026-07-30
-- [KAP: Bridging the Knowledge Selection-Runtime Consumption Gap in LLM Systems](../ai/research/arxiv-2607-24260.md) (Source: Unknown Source) - Collected 2026-07-30
+- [Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)](../ai/community/grafana-ai-sdk.md) (Source: Unknown Source) - Collected 2026-07-30
 - [OmniQEC: discovering practical quantum error-correcting codes by an AI scientist](../ai/research/arxiv-2607-25865.md) (Source: Unknown Source) - Collected 2026-07-30
+- [How Affect Propagates among LLM Agents: Emergent Emotional Contagion in Crowd Simulation](../ai/agents/arxiv-2607-25140.md) (Source: Unknown Source) - Collected 2026-07-30
 - [Beyond "What to Retrieve": Uncertainty in Retrieval-Augmented Code Generation](../ai/rag/arxiv-2607-24884.md) (Source: Unknown Source) - Collected 2026-07-30
+- [Quanto: a PyTorch quantization backend for Optimum](../ai/models/huggingface-blog-quanto-introduction.md) (Source: Unknown Source) - Collected 2026-07-30
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -205,67 +205,72 @@ Recently detected signals:
 - Language: Unknown
 - Description: Template for agentic Chat & Memory Agents with Dapr runtime, UV simplicity, and OpenAI Agents SDK.
 
-### 36. [gothinkster/realworld](../ai/resources/gothinkster-realworld.md) ([GitHub](https://github.com/gothinkster/realworld))
+### 36. [Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)](../ai/community/grafana-ai-sdk.md) ([GitHub](https://github.com/grafana/ai-sdk))
+- Stars: 0
+- Language: Unknown
+- Description: Title: Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)
+
+### 37. [gothinkster/realworld](../ai/resources/gothinkster-realworld.md) ([GitHub](https://github.com/gothinkster/realworld))
 - Stars: 0
 - Language: Unknown
 - Description: - **Multi-framework demonstration**: Repository provides a "mother of all demo apps" showcasing full-stack implementations of a Medium.com clone across multiple frameworks (e.g., React, Angular, No...
 
-### 37. [AgentTeam-TaichuAI/ScienceClaw](../ai/agents/agentteam-taichuai-scienceclaw.md) ([GitHub](https://github.com/agentteam-taichuai/scienceclaw))
+### 38. [AgentTeam-TaichuAI/ScienceClaw](../ai/agents/agentteam-taichuai-scienceclaw.md) ([GitHub](https://github.com/agentteam-taichuai/scienceclaw))
 - Stars: 0
 - Language: Unknown
 - Description: ScienceClaw is a personal research assistant built with LangChain DeepAgents and AIO Sandbox infrastructure, adopting a completely new architecture beyond OpenClaw. It offers stronger security, bet...
 
-### 38. [Kludex/uvicorn](../ai/rag/kludex-uvicorn.md) ([GitHub](https://github.com/kludex/uvicorn))
+### 39. [Kludex/uvicorn](../ai/rag/kludex-uvicorn.md) ([GitHub](https://github.com/kludex/uvicorn))
 - Stars: 0
 - Language: Unknown
 - Description: - **ASGI Server Implementation**: Uvicorn is a lightning-fast ASGI (Asynchronous Server Gateway Interface) server implementation for Python, leveraging `asyncio` for high-performance I/O-bound oper...
 
-### 39. [explosion/spacy-llm](../ai/resources/explosion-spacy-llm.md) ([GitHub](https://github.com/explosion/spacy-llm))
+### 40. [explosion/spacy-llm](../ai/resources/explosion-spacy-llm.md) ([GitHub](https://github.com/explosion/spacy-llm))
 - Stars: 0
 - Language: Unknown
 - Description: - **Integration Framework**: Provides a structured pipeline for integrating large language models (LLMs) like GPT-3/4, Llama, Cohere, and others into spaCy NLP workflows via modular components (e.g...
 
-### 40. [godotengine/godot](../ai/resources/godotengine-godot.md) ([GitHub](https://github.com/godotengine/godot))
+### 41. [godotengine/godot](../ai/resources/godotengine-godot.md) ([GitHub](https://github.com/godotengine/godot))
 - Stars: 0
 - Language: Unknown
 - Description: - **Multi-platform 2D/3D Game Engine**: Open-source C++ framework supporting cross-platform game development with native Vulkan, OpenGL ES, and Direct3D 12 backends.
 
-### 41. [agruai/ai-book-writer](../ai/agents/agruai-ai-book-writer.md) ([GitHub](https://github.com/agruai/ai-book-writer))
+### 42. [agruai/ai-book-writer](../ai/agents/agruai-ai-book-writer.md) ([GitHub](https://github.com/agruai/ai-book-writer))
 - Stars: 0
 - Language: Unknown
 - Description: AI-powered book-writing system that converts ideas into full manuscripts in hours with multi-agent collaboration, real-time streaming, and built-in cost control. Tech Stack: FastAPI · PostgreSQL · ...
 
-### 42. [gradio-app/gradio](../ai/resources/gradio-app-gradio.md) ([GitHub](https://github.com/gradio-app/gradio))
+### 43. [gradio-app/gradio](../ai/resources/gradio-app-gradio.md) ([GitHub](https://github.com/gradio-app/gradio))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Gradio is an open-source Python library designed for rapidly building and deploying interactive machine learning (ML) and data science applications with minimal code.
 
-### 43. [jupyter-widgets/ipywidgets](../ai/resources/jupyter-widgets-ipywidgets.md) ([GitHub](https://github.com/jupyter-widgets/ipywidgets))
+### 44. [jupyter-widgets/ipywidgets](../ai/resources/jupyter-widgets-ipywidgets.md) ([GitHub](https://github.com/jupyter-widgets/ipywidgets))
 - Stars: 0
 - Language: Unknown
 - Description: - **Core Functionality**: Provides interactive widgets (e.g., sliders, buttons, dropdowns) for Jupyter Notebooks and JupyterLab, enabling dynamic data visualization and user input handling via a cl...
 
-### 44. [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md) ([GitHub](https://github.com/datacamp/rdocumentation-2.0))
+### 45. [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md) ([GitHub](https://github.com/datacamp/rdocumentation-2.0))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Provides a searchable interface for documentation of every version of R packages from CRAN and Bioconductor.
 
-### 45. [firebase/extensions](../ai/resources/firebase-extensions.md) ([GitHub](https://github.com/firebase/extensions))
+### 46. [firebase/extensions](../ai/resources/firebase-extensions.md) ([GitHub](https://github.com/firebase/extensions))
 - Stars: 0
 - Language: Unknown
 - Description: - **Repository Overview**: Official Firebase Extensions source code, implemented in TypeScript, with 974 stars and 429 forks.
 
-### 46. [Let's Encrypt (ISRG) · GitHub](../ai/resources/let-s-encrypt-isrg-github.md) ([GitHub](https://github.com/letsencrypt))
+### 47. [Let's Encrypt (ISRG) · GitHub](../ai/resources/let-s-encrypt-isrg-github.md) ([GitHub](https://github.com/letsencrypt))
 - Stars: 0
 - Language: Unknown
 - Description: - **Let's Encrypt** is a free, automated, and open certificate authority (CA) providing X.509 certificates via the ACME protocol, primarily for TLS encryption.
 
-### 47. [jupyter-server/jupyter_server](../ai/resources/jupyter-server-jupyter-server.md) ([GitHub](https://github.com/jupyter-server/jupyter_server))
+### 48. [jupyter-server/jupyter_server](../ai/resources/jupyter-server-jupyter-server.md) ([GitHub](https://github.com/jupyter-server/jupyter_server))
 - Stars: 0
 - Language: Unknown
 - Description: - Core backend service for Jupyter web applications, providing essential services, APIs, and REST endpoints.
 
-### 48. [ollama/ollama-python](../ai/resources/ollama-ollama-python.md) ([GitHub](https://github.com/ollama/ollama-python))
+### 49. [ollama/ollama-python](../ai/resources/ollama-ollama-python.md) ([GitHub](https://github.com/ollama/ollama-python))
 - Stars: 0
 - Language: Unknown
 - Description: - Python client library for interacting with Ollama's local LLM service via REST API
@@ -290,4 +295,4 @@ Useful for roles such as: Full Stack Engineer, General Software Developer.
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-30T09:13:41.294270+05:30.717321+05:30.926947+05:30.438472+05:30.827646+05:30.035069+05:30.129016+05:30.678286+05:30.876364+05:30.431958+05:30.458916+05:30.504658+05:30.794255+05:30.350175+05:30.155604+05:30.750309+05:30.216935+05:30.537886+05:30.453186+05:30.163690+05:30.432560+05:30.939268+05:30.040731+05:30.538169+05:30.996393+05:30.656776+05:30.235136+05:30.627298+05:30.871174+05:30.223926+05:30.006587+05:30.867644+05:30.599041+05:30.060511+05:30.218202+05:30.803846+05:30.892109+05:30.469655+05:30.598769+05:30.259238+05:30.415849+05:30.909972+05:30.547397+05:30.488526+05:30.318173+05:30.550517+05:30.100484+05:30.307721+05:30.023619+05:30.023798+05:30.057841+05:30.646784+05:30.624068+05:30.799577+05:30.664978+05:30.078478+05:30.420977+05:30.547698+05:30.531429+05:30.108240+05:30.255424+05:30.201316+05:30.614950+05:30.362155+05:30.601824+05:30.915572+05:30.316791+05:30.818733+05:30.260429+05:30.012496+05:30.407442+05:30.909714+05:30.722908+05:30.700951+05:30.640274+05:30.816789+05:30.678741+05:30.439495+05:30.536126+05:30.054340+05:30.961322+05:30.162935+05:30.316905+05:30.746906+05:30.604273+05:30.011835+05:30.187457+05:30.153218+05:30.049858+05:30.161651+05:30.974568+05:30.638178+05:30.745367+05:30.412597+05:30.537921+05:30.886696+05:30.234825+05:30.231199+05:30.586852+05:30.528114+05:30.056055+05:30.971532+05:30.116346+05:30.593635+05:30.613397+05:30.665609+05:30.987729+05:30.505777+05:30.824934+05:30.632015+05:30.978685+05:30.193594+05:30.968527+05:30.145967+05:30.636606+05:30.745557+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-30T20:17:25.844255+05:30.294270+05:30.717321+05:30.926947+05:30.438472+05:30.827646+05:30.035069+05:30.129016+05:30.678286+05:30.876364+05:30.431958+05:30.458916+05:30.504658+05:30.794255+05:30.350175+05:30.155604+05:30.750309+05:30.216935+05:30.537886+05:30.453186+05:30.163690+05:30.432560+05:30.939268+05:30.040731+05:30.538169+05:30.996393+05:30.656776+05:30.235136+05:30.627298+05:30.871174+05:30.223926+05:30.006587+05:30.867644+05:30.599041+05:30.060511+05:30.218202+05:30.803846+05:30.892109+05:30.469655+05:30.598769+05:30.259238+05:30.415849+05:30.909972+05:30.547397+05:30.488526+05:30.318173+05:30.550517+05:30.100484+05:30.307721+05:30.023619+05:30.023798+05:30.057841+05:30.646784+05:30.624068+05:30.799577+05:30.664978+05:30.078478+05:30.420977+05:30.547698+05:30.531429+05:30.108240+05:30.255424+05:30.201316+05:30.614950+05:30.362155+05:30.601824+05:30.915572+05:30.316791+05:30.818733+05:30.260429+05:30.012496+05:30.407442+05:30.909714+05:30.722908+05:30.700951+05:30.640274+05:30.816789+05:30.678741+05:30.439495+05:30.536126+05:30.054340+05:30.961322+05:30.162935+05:30.316905+05:30.746906+05:30.604273+05:30.011835+05:30.187457+05:30.153218+05:30.049858+05:30.161651+05:30.974568+05:30.638178+05:30.745367+05:30.412597+05:30.537921+05:30.886696+05:30.234825+05:30.231199+05:30.586852+05:30.528114+05:30.056055+05:30.971532+05:30.116346+05:30.593635+05:30.613397+05:30.665609+05:30.987729+05:30.505777+05:30.824934+05:30.632015+05:30.978685+05:30.193594+05:30.968527+05:30.145967+05:30.636606+05:30.745557+05:30.

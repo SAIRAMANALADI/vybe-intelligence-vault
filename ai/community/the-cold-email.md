@@ -13,13 +13,14 @@ collected_at: '2026-07-30T16:52:09.485589+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-cold-email
 first_seen: '2026-07-30T08:57:28.213566+05:30'
 last_seen: '2026-07-30T16:52:09.485589+05:30'
 last_checked: '2026-07-30T16:52:09.485589+05:30'
 health_score: 100
 ---
+
 
 # The Cold Email
 

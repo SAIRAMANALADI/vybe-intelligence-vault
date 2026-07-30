@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://docs.carolinacloud.io/organizations/prepaid-interest
 hn_url: https://news.ycombinator.com/item?id=49107713
-score: 3
+score: 51
 author: bojangleslover
-comments_count: 0
+comments_count: 34
 published_at: '2026-07-30T14:58:01+05:30'
-collected_at: '2026-07-30T16:52:10.281658+05:30'
+collected_at: '2026-07-30T20:01:26.074200+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:carolina-cloud-pays-sofr-on-unused-prepaid-credits
 first_seen: '2026-07-30T16:52:10.281658+05:30'
-last_seen: '2026-07-30T16:52:10.281658+05:30'
-last_checked: '2026-07-30T16:52:10.281658+05:30'
+last_seen: '2026-07-30T20:01:26.074200+05:30'
+last_checked: '2026-07-30T20:01:26.074200+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by bojangleslover. Score: 3, Comments: 0.
+Hacker News story by bojangleslover. Score: 51, Comments: 34.
 Original Link: https://docs.carolinacloud.io/organizations/prepaid-interest/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: bojangleslover
-- Score: 3 Upvotes
-- Comments: 0 Discussions
+- Score: 51 Upvotes
+- Comments: 34 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49107713
 - Original Article: https://docs.carolinacloud.io/organizations/prepaid-interest
 

@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://frantic.im/mirage
 hn_url: https://news.ycombinator.com/item?id=49104335
-score: 266
+score: 311
 author: msephton
-comments_count: 111
+comments_count: 136
 published_at: '2026-07-30T04:48:11+05:30'
-collected_at: '2026-07-30T16:52:09.291291+05:30'
+collected_at: '2026-07-30T20:01:27.174132+05:30'
 tags:
 - hackernews
 - rag
 status: active
 resource_id: hackernews:the-productivity-mirage
 first_seen: '2026-07-30T08:57:27.965080+05:30'
-last_seen: '2026-07-30T16:52:09.291291+05:30'
-last_checked: '2026-07-30T16:52:09.291291+05:30'
+last_seen: '2026-07-30T20:01:27.174132+05:30'
+last_checked: '2026-07-30T20:01:27.174132+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by msephton. Score: 266, Comments: 111.
+Hacker News story by msephton. Score: 311, Comments: 136.
 Original Link: https://frantic.im/mirage/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: msephton
-- Score: 266 Upvotes
-- Comments: 111 Discussions
+- Score: 311 Upvotes
+- Comments: 136 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49104335
 - Original Article: https://frantic.im/mirage
 
