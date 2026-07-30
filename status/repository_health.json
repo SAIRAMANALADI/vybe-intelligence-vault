@@ -1,9 +1,9 @@
 {
-  "invalid_files_count": 58642,
-  "broken_links_count": 1771,
-  "duplicate_resources_count": 114467,
+  "invalid_files_count": 2001,
+  "broken_links_count": 1987,
+  "duplicate_resources_count": 0,
   "duplicate_filenames_count": 0,
   "yaml_errors_count": 0,
   "validation_status": "degraded",
-  "last_successful_validation": "2026-07-30T22:38:19.689394+05:30"
+  "last_successful_validation": "2026-07-30T23:01:49.110575+05:30"
 }
