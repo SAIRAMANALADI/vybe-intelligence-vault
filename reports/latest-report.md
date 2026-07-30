@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-30T20:20:42.311156+05:30`
+Generated at: `2026-07-30T21:28:15.066661+05:30`
 
 ## Executive Summary
 
@@ -8,35 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **GCC steering committee announces AI policy** - Score: `148` in category `ai/community` ([Link](https://lwn.net/articles/1086041)) ([File](../ai/community/gcc-steering-committee-announces-ai-policy.md))
-- **Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)** - Score: `24` in category `ai/community` ([Link](https://github.com/grafana/ai-sdk)) ([File](../ai/community/grafana-ai-sdk.md))
-- **xiaohuiwang-ai/xiaohuiwang-ai.github.io** - Score: `0` in category `daily-digests/2026-06-26` ([File](../world/public/vault/daily-digests/2026-06-26/xiaohuiwang-ai_github_io.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **LLM Honeypot** - Score: `343` (+64), Rank Change: `0` ([File](../ai/community/llm-honeypot.md))
-- **AI's top startups are barely publishing their research** - Score: `562` (+62), Rank Change: `0` ([File](../ai/community/ai-s-top-startups-are-barely-publishing-their-rese.md))
-- **Carolina Cloud pays SOFR on unused prepaid credits** - Score: `51` (+48), Rank Change: `+3` ([File](../ai/community/carolina-cloud-pays-sofr-on-unused-prepaid-credits.md))
-- **The Productivity Mirage** - Score: `311` (+45), Rank Change: `0` ([File](../ai/community/the-productivity-mirage.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+4` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/human-language-technologies.md))
-- **Human-computer interaction** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/human-computer-interaction.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+970` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **kylestratis/ai_agents_mcp_examples** - Score: `0` (0), Rank Change: `+970` ([File](../ai/agents/kylestratis-ai-agents-mcp-examples.md))
+- **TEN-framework/ten-framework** - Score: `0` (0), Rank Change: `+970` ([File](../ai/agents/ten-framework-ten-framework.md))
+- **airweave-ai/airweave** - Score: `0` (0), Rank Change: `+970` ([File](../ai/rag/airweave-ai-airweave.md))
+- **docker/compose-for-agents** - Score: `0` (0), Rank Change: `+970` ([File](../ai/agents/docker-compose-for-agents.md))
+- **huangjia2019/ai-agents** - Score: `0` (0), Rank Change: `+970` ([File](../ai/agents/huangjia2019-ai-agents.md))
+- **coleam00/ottomator-agents** - Score: `0` (0), Rank Change: `+970` ([File](../ai/agents/coleam00-ottomator-agents.md))
+- **langchain-ai/open-swe** - Score: `0` (0), Rank Change: `+970` ([File](../ai/agents/langchain-ai-open-swe.md))
+- **vercel/ai** - Score: `0` (0), Rank Change: `+970` ([File](../ai/agents/vercel-ai.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+970` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **RUC-NLPIR/FlashRAG** - (Rank Change: `+13765`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
-- **stanford-oval/storm** - (Rank Change: `+11559`) ([File](../ai/rag/stanford-oval-storm.md))
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+8379`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **datawhalechina/llm-universe** - (Rank Change: `+985`) ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **SylphAI-Inc/GithubChat** - (Rank Change: `+985`) ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **Security and Privacy in Agentic AI: Grand Challenges and Future Directions** - (Rank Change: `+866`) ([File](../ai/agents/arxiv-2607-06608.md))
-- **The Scaling Properties of Implicit Deductive Reasoning in Transformers** - (Rank Change: `+866`) ([File](../ai/research/arxiv-2605-04330.md))
-- **Salesforce/wikitext** - (Rank Change: `+855`) ([File](../ai/models/huggingface-datasets-salesforce.md))
-- **ayuo/hd_tmp** - (Rank Change: `+855`) ([File](../ai/models/huggingface-datasets-ayuo.md))
-- **allenai/c4** - (Rank Change: `+855`) ([File](../ai/models/huggingface-datasets-allenai.md))
+- **infiniflow/ragflow** - (Rank Change: `+12774`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1** - (Rank Change: `+972`) ([File](../ai/rag/monday-service-langsmith-building-a-code-first-eva.md))
+- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+972`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
+- **promptfoo/promptfoo-action** - (Rank Change: `+972`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
+- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+972`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
+- **Understanding RAG from Scratch | martinuke0's Blog** - (Rank Change: `+972`) ([File](../ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md))
+- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+972`) ([File](../ai/rag/arxiv-2606-29031.md))
+- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+972`) ([File](../ai/research/arxiv-2606-26428.md))
+- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+972`) ([File](../ai/research/arxiv-2606-21887.md))
+- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+972`) ([File](../ai/rag/arxiv-2606-09677.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -47,7 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **The Cold Email** (Category: `ai/community`) ([File](../ai/community/the-cold-email.md))
-- **Some thoughts about Anthropic's new cryptanalysis results** (Category: `ai/community`) ([File](../ai/community/some-thoughts-about-anthropic-s-new-cryptanalysis.md))
-- **Kuna: Decompiler Development in the Age of Coding Agents** (Category: `ai/community`) ([File](../ai/community/kuna-decompiler-development-in-the-age-of-coding-a.md))
-- **Tailscale with Mullvad leaks your DNS** (Category: `ai/community`) ([File](../ai/community/tailscale-tailscale.md))
+No recently active resources transitioned to inactive.
+
