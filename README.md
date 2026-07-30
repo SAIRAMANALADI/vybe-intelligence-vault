@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-72%2C941-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-75%2C465-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--30-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **72,941 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **75,465 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -197,8 +197,8 @@ score_threshold: 0.65
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 72,941 files</p>
-        <p><b>Last Update:</b> 2026-07-30 04:41 IST</p>
+        <p><b>Total Vault Size:</b> 75,465 files</p>
+        <p><b>Last Update:</b> 2026-07-30 07:44 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,23 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Document-borne AI worms can self-propagate through Copilot for Word](ai/community/document-borne-ai-worms-can-self-propagate-through.md)** • <kbd>+31 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals](ai/community/commodification-of-intelligence-good-bad-and-ugly.md)** • <kbd>+30 pts</kbd>
-- 🔼 **[Some thoughts about Anthropic's new cryptanalysis results](ai/community/some-thoughts-about-anthropic-s-new-cryptanalysis.md)** • <kbd>+26 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[How much can you delegate to agents?](ai/community/how-much-can-you-delegate-to-agents.md)** • <kbd>+23 pts</kbd>
-- 🔼 **[GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?](ai/community/gpt-5-6-vs-claude-fable-5-for-physical-ai-which-pe.md)** • <kbd>+17 pts</kbd>
+- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+969</kbd>
+- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+969</kbd>
+- 🔼 **[datarobot-community/datarobot-agent-templates](ai/rag/datarobot-community-datarobot-agent-templates.md)** • Rank: <kbd>+969</kbd>
+- 🔼 **[TEN-framework/ten-framework](ai/agents/ten-framework-ten-framework.md)** • Rank: <kbd>+969</kbd>
+- 🔼 **[airweave-ai/airweave](ai/rag/airweave-ai-airweave.md)** • Rank: <kbd>+969</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Hunter-gatherers introduced fish to a mountain lake 7000 years ago](ai/community/hunter-gatherers-introduced-fish-to-a-mountain-lak.md)** • Score: `125`
-- 🆕 **[AI's top startups are barely publishing their research](ai/community/ai-s-top-startups-are-barely-publishing-their-rese.md)** • Score: `39`
 - 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[More Tailscale tricks for your jailbroken Kindle](ai/community/more-tailscale-tricks-for-your-jailbroken-kindle.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
