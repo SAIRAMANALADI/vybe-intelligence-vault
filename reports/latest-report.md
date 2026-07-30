@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-30T17:11:31.652505+05:30`
+Generated at: `2026-07-30T19:30:18.122571+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,34 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Tailscale with Mullvad leaks your DNS** - Score: `4` in category `ai/community` ([Link](https://github.com/tailscale/tailscale)) ([File](../ai/community/tailscale-tailscale.md))
-- **Carolina Cloud pays SOFR on unused prepaid credits** - Score: `3` in category `ai/community` ([Link](https://docs.carolinacloud.io/organizations/prepaid-interest)) ([File](../ai/community/carolina-cloud-pays-sofr-on-unused-prepaid-credits.md))
+No new discoveries tracked in this run.
+
 
 ## Top Trending Resources
 
-- **AI's top startups are barely publishing their research** - Score: `500` (+65), Rank Change: `0` ([File](../ai/community/ai-s-top-startups-are-barely-publishing-their-rese.md))
-- **LLM Honeypot** - Score: `279` (+55), Rank Change: `0` ([File](../ai/community/llm-honeypot.md))
-- **The Productivity Mirage** - Score: `266` (+50), Rank Change: `0` ([File](../ai/community/the-productivity-mirage.md))
-- **The Cold Email** - Score: `232` (+37), Rank Change: `0` ([File](../ai/community/the-cold-email.md))
-- **Kuna: Decompiler Development in the Age of Coding Agents** - Score: `50` (+20), Rank Change: `+1` ([File](../ai/community/kuna-decompiler-development-in-the-age-of-coding-a.md))
-- **Some thoughts about Anthropic's new cryptanalysis results** - Score: `165` (+16), Rank Change: `0` ([File](../ai/community/some-thoughts-about-anthropic-s-new-cryptanalysis.md))
-- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+14` ([File](../ai/rag/particlemedia-ragtruth.md))
-- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+15` ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+10` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+14` ([File](../ai/companies/search-information-retrieval.md))
+- **kylestratis/ai_agents_mcp_examples** - Score: `0` (0), Rank Change: `+970` ([File](../ai/agents/kylestratis-ai-agents-mcp-examples.md))
+- **TEN-framework/ten-framework** - Score: `0` (0), Rank Change: `+970` ([File](../ai/agents/ten-framework-ten-framework.md))
+- **airweave-ai/airweave** - Score: `0` (0), Rank Change: `+970` ([File](../ai/rag/airweave-ai-airweave.md))
+- **docker/compose-for-agents** - Score: `0` (0), Rank Change: `+970` ([File](../ai/agents/docker-compose-for-agents.md))
+- **huangjia2019/ai-agents** - Score: `0` (0), Rank Change: `+970` ([File](../ai/agents/huangjia2019-ai-agents.md))
+- **coleam00/ottomator-agents** - Score: `0` (0), Rank Change: `+970` ([File](../ai/agents/coleam00-ottomator-agents.md))
+- **langchain-ai/open-swe** - Score: `0` (0), Rank Change: `+970` ([File](../ai/agents/langchain-ai-open-swe.md))
+- **vercel/ai** - Score: `0` (0), Rank Change: `+970` ([File](../ai/agents/vercel-ai.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+970` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+970` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **When Kernel Ridge Regression Meets the H\"older-Zygmund Class: Minimax Optimality and Failure of Properness** - (Rank Change: `+149`) ([File](../ai/research/arxiv-2607-26065.md))
-- **Wan-AI/Wan2.2-Animate** - (Rank Change: `+34`) ([File](../ai/models/huggingface-spaces-wan-ai.md))
-- **AP123/IllusionDiffusion** - (Rank Change: `+34`) ([File](../ai/models/huggingface-spaces-ap123.md))
-- **dalle-mini/dalle-mini** - (Rank Change: `+34`) ([File](../ai/models/huggingface-spaces-dalle-mini.md))
-- **mteb/leaderboard** - (Rank Change: `+34`) ([File](../ai/models/huggingface-spaces-mteb.md))
-- **black-forest-labs/FLUX.1-dev** - (Rank Change: `+34`) ([File](../ai/models/huggingface-spaces-black-forest-labs.md))
-- **Kwai-Kolors/Kolors-Virtual-Try-On** - (Rank Change: `+34`) ([File](../ai/models/huggingface-spaces-kwai-kolors.md))
-- **jbilcke-hf/ai-comic-factory** - (Rank Change: `+34`) ([File](../ai/models/huggingface-spaces-jbilcke-hf.md))
-- **open-llm-leaderboard/open_llm_leaderboard** - (Rank Change: `+34`) ([File](../ai/models/huggingface-spaces-open-llm-leaderboard.md))
-- **enzostvs/deepsite** - (Rank Change: `+34`) ([File](../ai/models/huggingface-spaces-enzostvs.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+973`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy-2.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+973`) ([File](../ai/rag/ruc-nlpir-flashrag.md))
+- **stanford-oval/storm** - (Rank Change: `+971`) ([File](../ai/rag/stanford-oval-storm-2.md))
+- **kylestratis/ai_agents_mcp_examples** - (Rank Change: `+970`) ([File](../ai/agents/kylestratis-ai-agents-mcp-examples.md))
+- **TEN-framework/ten-framework** - (Rank Change: `+970`) ([File](../ai/agents/ten-framework-ten-framework.md))
+- **airweave-ai/airweave** - (Rank Change: `+970`) ([File](../ai/rag/airweave-ai-airweave.md))
+- **docker/compose-for-agents** - (Rank Change: `+970`) ([File](../ai/agents/docker-compose-for-agents.md))
+- **huangjia2019/ai-agents** - (Rank Change: `+970`) ([File](../ai/agents/huangjia2019-ai-agents.md))
+- **coleam00/ottomator-agents** - (Rank Change: `+970`) ([File](../ai/agents/coleam00-ottomator-agents.md))
+- **langchain-ai/open-swe** - (Rank Change: `+970`) ([File](../ai/agents/langchain-ai-open-swe.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -46,5 +46,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Refactoring cuisine: how an Iraqi stew sailed to Singapore** (Category: `ai/community`) ([File](../ai/community/refactoring-cuisine-how-an-iraqi-stew-sailed-to-si.md))
-- **I Have Thoughts on the iPhone Air** (Category: `ai/community`) ([File](../ai/community/i-have-thoughts-on-the-iphone-air.md))
+No recently active resources transitioned to inactive.
+
