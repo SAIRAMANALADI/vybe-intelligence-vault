@@ -18,13 +18,13 @@ It provides rapid API development speed, automatic OpenAPI documentation, asynch
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 248 resources matched in the intelligence vault.
+Active signals: 258 resources matched in the intelligence vault.
 Recently detected signals:
-- [OmniQEC: discovering practical quantum error-correcting codes by an AI scientist](../ai/research/arxiv-2607-25865.md) (Source: Unknown Source) - Collected 2026-07-31
+- [TracecatHQ/tracecat](../ai/rag/tracecathq-tracecat.md) (Source: Unknown Source) - Collected 2026-07-31
+- [bakrianoo/mini-rag](../ai/rag/bakrianoo-mini-rag.md) (Source: Unknown Source) - Collected 2026-07-31
 - [Beyond "What to Retrieve": Uncertainty in Retrieval-Augmented Code Generation](../ai/rag/arxiv-2607-24884.md) (Source: Unknown Source) - Collected 2026-07-31
-- [How Affect Propagates among LLM Agents: Emergent Emotional Contagion in Crowd Simulation](../ai/agents/arxiv-2607-25140.md) (Source: Unknown Source) - Collected 2026-07-31
-- [Quanto: a PyTorch quantization backend for Optimum](../ai/models/huggingface-blog-quanto-introduction.md) (Source: Unknown Source) - Collected 2026-07-31
-- [Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference](../ai/models/huggingface-blog-tgi-multi-backend.md) (Source: Unknown Source) - Collected 2026-07-31
+- [Matilda: Engine-Agnostic Search with Human Policy Guidance](../ai/rag/arxiv-2606-25176.md) (Source: Unknown Source) - Collected 2026-07-31
+- [MemSecBench: Tracking Agent Memory Poisoning from Persistence to Consequence and Repair](../ai/agents/arxiv-2607-27080.md) (Source: Unknown Source) - Collected 2026-07-31
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -80,55 +80,55 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Integration Framework**: Demonstrates building full-stack agents using **Gemini 2.5** and **LangGraph**, combining frontend/backend components for agentic workflows.
 
-### 11. [TracecatHQ/tracecat](../ai/rag/tracecathq-tracecat.md) ([GitHub](https://github.com/tracecathq/tracecat))
-- Stars: 0
-- Language: Unknown
-- Description: - **Platform Architecture**: Python-based open-source security automation platform leveraging FastAPI, Pydantic, and Next.js for backend/frontend development, with temporalio for workflow orchestra...
-
-### 12. [stackitcloud/rag-template](../ai/rag/stackitcloud-rag-template.md) ([GitHub](https://github.com/stackitcloud/rag-template))
+### 11. [stackitcloud/rag-template](../ai/rag/stackitcloud-rag-template.md) ([GitHub](https://github.com/stackitcloud/rag-template))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Provides a template for deploying AI chatbots and document management systems using **Retrieval-Augmented Generation (RAG)** with **vector search** and **FastAPI** for backend services.
 
-### 13. [devloperdevesh/EnterpriseRAG-AI](../ai/rag/devloperdevesh-enterpriserag-ai.md) ([GitHub](https://github.com/devloperdevesh/enterpriserag-ai))
+### 12. [devloperdevesh/EnterpriseRAG-AI](../ai/rag/devloperdevesh-enterpriserag-ai.md) ([GitHub](https://github.com/devloperdevesh/enterpriserag-ai))
 - Stars: 0
 - Language: Unknown
 - Description: - **Linux-Native & eBPF-Powered**: Implements a security and governance mesh for AI agent workloads using Linux-native eBPF for real-time monitoring, enforcement, and isolation of AI processes.
 
-### 14. [llmware-ai/llmware](../ai/rag/llmware-ai-llmware.md) ([GitHub](https://github.com/llmware-ai/llmware))
+### 13. [llmware-ai/llmware](../ai/rag/llmware-ai-llmware.md) ([GitHub](https://github.com/llmware-ai/llmware))
 - Stars: 0
 - Language: Unknown
 - Description: - **Unified RAG Framework**: Provides an integrated Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines using small, specialized models optimized...
 
-### 15. [truefoundry/cognita](../ai/rag/truefoundry-cognita.md) ([GitHub](https://github.com/truefoundry/cognita))
+### 14. [truefoundry/cognita](../ai/rag/truefoundry-cognita.md) ([GitHub](https://github.com/truefoundry/cognita))
 - Stars: 0
 - Language: Unknown
 - Description: - **Modular RAG Framework**: Open-source Python-based framework for building production-grade Retrieval Augmented Generation (RAG) applications with modular components for seamless integration and ...
 
-### 16. [microsoft/promptflow-rag-project-template](../ai/rag/microsoft-promptflow-rag-project-template.md) ([GitHub](https://github.com/microsoft/promptflow-rag-project-template))
+### 15. [microsoft/promptflow-rag-project-template](../ai/rag/microsoft-promptflow-rag-project-template.md) ([GitHub](https://github.com/microsoft/promptflow-rag-project-template))
 - Stars: 0
 - Language: Unknown
 - Description: - **End-to-End RAG Pipeline**: Demonstrates Retrieval-Augmented Generation (RAG) workflow including development, evaluation, experimentation, and deployment using **Promptflow**.
 
-### 17. [redhat-data-and-ai/template-mcp-server](../ai/agents/redhat-data-and-ai-template-mcp-server.md) ([GitHub](https://github.com/redhat-data-and-ai/template-mcp-server))
+### 16. [redhat-data-and-ai/template-mcp-server](../ai/agents/redhat-data-and-ai-template-mcp-server.md) ([GitHub](https://github.com/redhat-data-and-ai/template-mcp-server))
 - Stars: 0
 - Language: Unknown
 - Description: Production-ready Python template for building MCP servers with FastMCP, FastAPI, OAuth, and OpenShift deployment.
 
-### 18. [langchain-ai/langchain](../ai/rag/langchain-ai-langchain.md) ([GitHub](https://github.com/langchain-ai/langchain))
+### 17. [langchain-ai/langchain](../ai/rag/langchain-ai-langchain.md) ([GitHub](https://github.com/langchain-ai/langchain))
 - Stars: 0
 - Language: Unknown
 - Description: - **Framework**: Open-source Python library (`langchain`) for building AI agents, integrating LLMs (OpenAI, Anthropic, Gemini), RAG, and multi-agent systems with modular components.
 
-### 19. [langchain-ai/langgraph](../ai/rag/langchain-ai-langgraph.md) ([GitHub](https://github.com/langchain-ai/langgraph))
+### 18. [langchain-ai/langgraph](../ai/rag/langchain-ai-langgraph.md) ([GitHub](https://github.com/langchain-ai/langgraph))
 - Stars: 0
 - Language: Unknown
 - Description: - **Framework for resilient AI agents**: LangGraph provides a Python-based framework for building, deploying, and managing resilient multi-agent systems, leveraging LLMs (e.g., OpenAI, Gemini) and ...
 
-### 20. [hwchase17/langchain](../ai/rag/hwchase17-langchain.md) ([GitHub](https://github.com/hwchase17/langchain))
+### 19. [hwchase17/langchain](../ai/rag/hwchase17-langchain.md) ([GitHub](https://github.com/hwchase17/langchain))
 - Stars: 0
 - Language: Unknown
 - Description: - **Unified Agent Framework**: Open-source Python framework (with TypeScript support) for building, orchestrating, and deploying AI agents, integrating LLMs (OpenAI, Anthropic, Gemini), tools (RAG,...
+
+### 20. [TracecatHQ/tracecat](../ai/rag/tracecathq-tracecat.md) ([GitHub](https://github.com/tracecathq/tracecat))
+- Stars: 0
+- Language: Unknown
+- Description: *   Event-driven security automation platform leveraging Temporal.io for resilient workflow orchestration and monitoring.
 
 ### 21. [cloudflare/agentic-inbox](../ai/rag/cloudflare-agentic-inbox.md) ([GitHub](https://github.com/cloudflare/agentic-inbox))
 - Stars: 0
@@ -140,35 +140,35 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Framework Integration**: Combines LangGraph for agent orchestration, FastAPI for backend REST services, and Streamlit for frontend UI in a Python-based AI agent service toolkit.
 
-### 23. [bakrianoo/mini-rag](../ai/rag/bakrianoo-mini-rag.md) ([GitHub](https://github.com/bakrianoo/mini-rag))
-- Stars: 0
-- Language: Unknown
-- Description: *   Provides a step-by-step educational framework for building production-ready Retrieval Augmented Generation (RAG) applications.
-
-### 24. [QuivrHQ/quivr](../ai/rag/quivrhq-quivr.md) ([GitHub](https://github.com/quivrhq/quivr))
+### 23. [QuivrHQ/quivr](../ai/rag/quivrhq-quivr.md) ([GitHub](https://github.com/quivrhq/quivr))
 - Stars: 0
 - Language: Unknown
 - Description: - **Modular RAG Framework**: QuivrHQ/quivr provides an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization...
 
-### 25. [pathwaycom/pathway](../ai/rag/pathwaycom-pathway.md) ([GitHub](https://github.com/pathwaycom/pathway))
+### 24. [pathwaycom/pathway](../ai/rag/pathwaycom-pathway.md) ([GitHub](https://github.com/pathwaycom/pathway))
 - Stars: 0
 - Language: Unknown
 - Description: - **Stream Processing & Real-Time Analytics**: Python-based ETL framework enabling continuous data ingestion, transformation, and analysis with low-latency stream processing capabilities.
 
-### 26. [Cinnamon/kotaemon](../ai/rag/cinnamon-kotaemon.md) ([GitHub](https://github.com/cinnamon/kotaemon))
+### 25. [Cinnamon/kotaemon](../ai/rag/cinnamon-kotaemon.md) ([GitHub](https://github.com/cinnamon/kotaemon))
 - Stars: 0
 - Language: Unknown
 - Description: - **RAG Architecture**: Implements Retrieval-Augmented Generation (RAG) for document-based chat, combining document retrieval with LLM inference for grounded responses.
 
-### 27. [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit.md) ([GitHub](https://github.com/yonatangross/orchestkit))
+### 26. [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit.md) ([GitHub](https://github.com/yonatangross/orchestkit))
 - Stars: 0
 - Language: Unknown
 - Description: The Complete AI Development Toolkit for Claude Code — 103 skills, 36 agents, 172 hooks. Production-ready patterns for full-stack development.
 
-### 28. [electron/electron](../ai/rag/electron-electron.md) ([GitHub](https://github.com/electron/electron))
+### 27. [electron/electron](../ai/rag/electron-electron.md) ([GitHub](https://github.com/electron/electron))
 - Stars: 0
 - Language: Unknown
 - Description: - **Cross-platform desktop app framework** leveraging Chromium for rendering, Node.js for backend integration, and V8 for JavaScript execution, enabling native-like applications using HTML/CSS/JS.
+
+### 28. [bakrianoo/mini-rag](../ai/rag/bakrianoo-mini-rag.md) ([GitHub](https://github.com/bakrianoo/mini-rag))
+- Stars: 0
+- Language: Unknown
+- Description: *   Provides a step-by-step educational guide for building production-ready Retrieval Augmented Generation (RAG) applications.
 
 ### 29. [onyx-dot-app/onyx](../ai/rag/onyx-dot-app-onyx.md) ([GitHub](https://github.com/onyx-dot-app/onyx))
 - Stars: 0
@@ -290,4 +290,4 @@ Useful for roles such as: Full Stack Engineer, General Software Developer.
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-31T09:35:45.725103+05:30.603852+05:30.125727+05:30.271985+05:30.844255+05:30.294270+05:30.717321+05:30.926947+05:30.438472+05:30.827646+05:30.035069+05:30.129016+05:30.678286+05:30.876364+05:30.431958+05:30.458916+05:30.504658+05:30.794255+05:30.350175+05:30.155604+05:30.750309+05:30.216935+05:30.537886+05:30.453186+05:30.163690+05:30.432560+05:30.939268+05:30.040731+05:30.538169+05:30.996393+05:30.656776+05:30.235136+05:30.627298+05:30.871174+05:30.223926+05:30.006587+05:30.867644+05:30.599041+05:30.060511+05:30.218202+05:30.803846+05:30.892109+05:30.469655+05:30.598769+05:30.259238+05:30.415849+05:30.909972+05:30.547397+05:30.488526+05:30.318173+05:30.550517+05:30.100484+05:30.307721+05:30.023619+05:30.023798+05:30.057841+05:30.646784+05:30.624068+05:30.799577+05:30.664978+05:30.078478+05:30.420977+05:30.547698+05:30.531429+05:30.108240+05:30.255424+05:30.201316+05:30.614950+05:30.362155+05:30.601824+05:30.915572+05:30.316791+05:30.818733+05:30.260429+05:30.012496+05:30.407442+05:30.909714+05:30.722908+05:30.700951+05:30.640274+05:30.816789+05:30.678741+05:30.439495+05:30.536126+05:30.054340+05:30.961322+05:30.162935+05:30.316905+05:30.746906+05:30.604273+05:30.011835+05:30.187457+05:30.153218+05:30.049858+05:30.161651+05:30.974568+05:30.638178+05:30.745367+05:30.412597+05:30.537921+05:30.886696+05:30.234825+05:30.231199+05:30.586852+05:30.528114+05:30.056055+05:30.971532+05:30.116346+05:30.593635+05:30.613397+05:30.665609+05:30.987729+05:30.505777+05:30.824934+05:30.632015+05:30.978685+05:30.193594+05:30.968527+05:30.145967+05:30.636606+05:30.745557+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-31T15:04:35.839227+05:30.725103+05:30.603852+05:30.125727+05:30.271985+05:30.844255+05:30.294270+05:30.717321+05:30.926947+05:30.438472+05:30.827646+05:30.035069+05:30.129016+05:30.678286+05:30.876364+05:30.431958+05:30.458916+05:30.504658+05:30.794255+05:30.350175+05:30.155604+05:30.750309+05:30.216935+05:30.537886+05:30.453186+05:30.163690+05:30.432560+05:30.939268+05:30.040731+05:30.538169+05:30.996393+05:30.656776+05:30.235136+05:30.627298+05:30.871174+05:30.223926+05:30.006587+05:30.867644+05:30.599041+05:30.060511+05:30.218202+05:30.803846+05:30.892109+05:30.469655+05:30.598769+05:30.259238+05:30.415849+05:30.909972+05:30.547397+05:30.488526+05:30.318173+05:30.550517+05:30.100484+05:30.307721+05:30.023619+05:30.023798+05:30.057841+05:30.646784+05:30.624068+05:30.799577+05:30.664978+05:30.078478+05:30.420977+05:30.547698+05:30.531429+05:30.108240+05:30.255424+05:30.201316+05:30.614950+05:30.362155+05:30.601824+05:30.915572+05:30.316791+05:30.818733+05:30.260429+05:30.012496+05:30.407442+05:30.909714+05:30.722908+05:30.700951+05:30.640274+05:30.816789+05:30.678741+05:30.439495+05:30.536126+05:30.054340+05:30.961322+05:30.162935+05:30.316905+05:30.746906+05:30.604273+05:30.011835+05:30.187457+05:30.153218+05:30.049858+05:30.161651+05:30.974568+05:30.638178+05:30.745367+05:30.412597+05:30.537921+05:30.886696+05:30.234825+05:30.231199+05:30.586852+05:30.528114+05:30.056055+05:30.971532+05:30.116346+05:30.593635+05:30.613397+05:30.665609+05:30.987729+05:30.505777+05:30.824934+05:30.632015+05:30.978685+05:30.193594+05:30.968527+05:30.145967+05:30.636606+05:30.745557+05:30.

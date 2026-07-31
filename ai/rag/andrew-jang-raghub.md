@@ -4,24 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Andrew-Jang/RAGHub
-collected_at: '2026-07-21T22:13:17.182322+05:30'
-published_at: '2026-07-20T05:19:15Z'
+collected_at: '2026-07-31T14:49:30.852448+05:30'
+published_at: '2026-07-30T12:19:05Z'
 tags:
 - github-repo
-- hackernews
 - rag
 - unknown
-stars: 1962
+stars: 1975
 language: Unknown
 status: active
 license: MIT
 archived: false
 created_at: '2024-10-02T12:07:52Z'
-pushed_at: '2026-07-15T23:37:59Z'
+pushed_at: '2026-07-28T00:51:39Z'
 resource_id: github:andrew-jang/raghub
-first_seen: '2026-07-21T22:13:17.182322+05:30'
-last_seen: '2026-07-21T22:13:17.182322+05:30'
-last_checked: '2026-07-21T22:13:17.182322+05:30'
+first_seen: '2026-07-31T14:49:30.852448+05:30'
+last_seen: '2026-07-31T14:49:30.852448+05:30'
+last_checked: '2026-07-31T14:49:30.852448+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Community-Driven RAG Repository**: Hosts a curated, open-source collection of RAG frameworks, projects, and resources, fostering collaboration within the AI/ML ecosystem.
-- **Technical Scope**: Encompasses retrieval-augmented generation (RAG), large language models (LLMs), NLP, and machine learning, with contributions spanning multiple subdomains.
-- **Active Maintenance**: Last updated in July 2026, indicating ongoing updates and community engagement with 1,962 stars and 182 forks.
+*   Aggregates and curates a community-driven repository of RAG (Retrieval-Augmented Generation) frameworks, projects, and resources.
+*   Centralizes evolving RAG ecosystem components, spanning LLM, NLP, and AI applications.
+*   Provides a collaborative platform for exploring and contributing to advancements in Retrieval-Augmented Generation.
 
 ## Why It Matters
 
@@ -40,15 +39,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Andrew-Jang
-- Stars: 1962
-- Forks: 182
+- Stars: 1975
+- Forks: 184
 - Language: Unknown
 - Topics: ai, artificial-intelligence, large-language-models, llm, machine-learning, natural-language-processing, nlp, open-source, rag, retrieval-augmented-generation
-- Last Updated: 2026-07-20T05:19:15Z
+- Last Updated: 2026-07-30T12:19:05Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-02T12:07:52Z
-- Pushed At: 2026-07-15T23:37:59Z
+- Pushed At: 2026-07-28T00:51:39Z
 
 ## Possible Use Cases
 

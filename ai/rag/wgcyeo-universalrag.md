@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-23T14:18:45.699193+05:30'
+collected_at: '2026-07-31T14:51:10.920773+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-23T14:18:45.699193+05:30'
-last_seen: '2026-07-23T14:18:45.699193+05:30'
-last_checked: '2026-07-23T14:18:45.699193+05:30'
+first_seen: '2026-07-31T14:51:10.920773+05:30'
+last_seen: '2026-07-31T14:51:10.920773+05:30'
+last_checked: '2026-07-31T14:51:10.920773+05:30'
 health_score: 100
 ---
 
@@ -28,7 +28,8 @@ health_score: 100
 
 ## Summary
 
-*   Implements Retrieval-Augmented Generation (RAG) across heterogeneous corpora.
+*   Implements a Retrieval-Augmented Generation (RAG) framework designed for heterogeneous data corpora.
+*   Supports diverse modalities (e
 
 ## Why It Matters
 

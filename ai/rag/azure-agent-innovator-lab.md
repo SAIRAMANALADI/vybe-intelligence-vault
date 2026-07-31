@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/agent-innovator-lab
-collected_at: '2026-07-21T22:14:12.445045+05:30'
-published_at: '2026-06-30T14:03:05Z'
+collected_at: '2026-07-31T14:50:25.948778+05:30'
+published_at: '2026-07-27T08:49:39Z'
 tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
-stars: 57
+stars: 58
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-01-02T08:11:52Z'
 pushed_at: '2026-02-20T14:45:01Z'
 resource_id: github:azure/agent-innovator-lab
-first_seen: '2026-07-21T22:14:12.445045+05:30'
-last_seen: '2026-07-21T22:14:12.445045+05:30'
-last_checked: '2026-07-21T22:14:12.445045+05:30'
+first_seen: '2026-07-31T14:50:25.948778+05:30'
+last_seen: '2026-07-31T14:50:25.948778+05:30'
+last_checked: '2026-07-31T14:50:25.948778+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository focused on constructing AI agents on Azure, emphasizing search optimization, agent architecture, evaluation methodologies, and RAG best practices.
-- **Technical Stack**: Primarily utilizes Jupyter Notebooks for implementation and documentation.
-- **Metadata**: 57 stars, 32 forks, last updated on 2026-06-30T14:03:05Z.
+*   Develops AI agents on Azure, emphasizing practical implementation and deployment.
+*   Covers advanced agent methodologies: search optimization, robust agent design, comprehensive evaluation, and RAG best practices.
+*   Leverages Jupyter Notebooks for interactive experimentation and demonstration of agent architectures.
 
 ## Why It Matters
 
@@ -42,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Azure
-- Stars: 57
-- Forks: 32
+- Stars: 58
+- Forks: 34
 - Language: Jupyter Notebook
 - Topics: None
-- Last Updated: 2026-06-30T14:03:05Z
+- Last Updated: 2026-07-27T08:49:39Z
 - License: MIT
 - Archived: No
 - Created At: 2025-01-02T08:11:52Z

@@ -13,13 +13,14 @@ collected_at: '2026-07-31T09:19:22.362071+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:does-speaking-to-agents-like-cavemen-save-65-of-to
 first_seen: '2026-07-31T09:19:22.362071+05:30'
 last_seen: '2026-07-31T09:19:22.362071+05:30'
 last_checked: '2026-07-31T09:19:22.362071+05:30'
 health_score: 100
 ---
+
 
 # Does Speaking to Agents Like Cavemen Save 65% of Tokens? We Test
 

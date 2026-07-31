@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-07-26T14:11:31.891744+05:30'
+collected_at: '2026-07-31T14:50:10.894252+05:30'
 published_at: '2026-07-16T10:59:46Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-07-26T14:11:31.891744+05:30'
-last_seen: '2026-07-26T14:11:31.891744+05:30'
-last_checked: '2026-07-26T14:11:31.891744+05:30'
+first_seen: '2026-07-31T14:50:10.894252+05:30'
+last_seen: '2026-07-31T14:50:10.894252+05:30'
+last_checked: '2026-07-31T14:50:10.894252+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-*   Streamlit application demonstrating Retrieval Augmented Generation (RAG).
-*   Leverages the LangChain framework for LLM orchestration and retrieval.
-*   Integrates a vectorstore with hybrid search for enhanced document retrieval.
+*   Streamlit application demonstrating Retrieval Augmented Generation (RAG) via LangChain.
+*   Integrates a vectorstore for semantic document retrieval within the RAG pipeline.
+*   Employs hybrid search to enhance retrieval accuracy for context augmentation.
 
 ## Why It Matters
 
