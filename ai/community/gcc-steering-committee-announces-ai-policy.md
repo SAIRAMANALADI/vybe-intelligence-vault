@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://lwn.net/articles/1086041
 hn_url: https://news.ycombinator.com/item?id=49108685
-score: 307
+score: 324
 author: arto
-comments_count: 343
+comments_count: 369
 published_at: '2026-07-30T17:15:44+05:30'
-collected_at: '2026-07-31T17:07:25.331380+05:30'
+collected_at: '2026-07-31T20:04:55.151899+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:gcc-steering-committee-announces-ai-policy
 first_seen: '2026-07-30T20:01:27.263386+05:30'
-last_seen: '2026-07-31T17:07:25.331380+05:30'
-last_checked: '2026-07-31T17:07:25.331380+05:30'
+last_seen: '2026-07-31T20:04:55.151899+05:30'
+last_checked: '2026-07-31T20:04:55.151899+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by arto. Score: 307, Comments: 343.
+Hacker News story by arto. Score: 324, Comments: 369.
 Original Link: https://lwn.net/Articles/1086041/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: arto
-- Score: 307 Upvotes
-- Comments: 343 Discussions
+- Score: 324 Upvotes
+- Comments: 369 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49108685
 - Original Article: https://lwn.net/articles/1086041
 

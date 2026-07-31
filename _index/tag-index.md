@@ -3523,7 +3523,7 @@ Resources organized by keyword tags.
 
   - [GCC steering committee announces AI policy](../ai/community/gcc-steering-committee-announces-ai-policy.md)
   - [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](../ai/community/google-fixed-more-chrome-bugs-in-june-than-over-th.md)
-  - [The AI Aesthetic](../ai/community/the-ai-aesthetic.md)
+  - [Situational Awareness Down 67% in July in AI Stock Rout](../ai/community/situational-awareness-down-67-in-july-in-ai-stock.md)
 
 ## animation
 
@@ -15588,6 +15588,7 @@ Resources organized by keyword tags.
   - [Simple Domain Generalization Methods are Strong Baselines for Open Domain Generalization](../ai/research/arxiv-2303-18031.md)
   - [Simplicity Paradox: Debunking myths about prompting and datasets for LLM evaluation](../ai/research/arxiv-2607-14109.md)
   - [Simplicity Suffices for Parameter Noise Injection in Stochastic Gradient Descent](../ai/rag/arxiv-2606-12054.md)
+  - [Situational Awareness Down 67% in July in AI Stock Rout](../ai/community/situational-awareness-down-67-in-july-in-ai-stock.md)
   - [SketchXplain: Intuitive Visual Explanations of Image Classifiers with Sketches](../ai/research/arxiv-2606-17646.md)
   - [SkillCenter: A Large-Scale Source-Grounded Skill Library for Autonomous AI Agents](../ai/agents/arxiv-2607-07676.md)
   - [SkillSieve: A Hierarchical Triage Framework for Detecting Malicious AI Agent Skills](../ai/rag/arxiv-2604-06550.md)
@@ -15726,7 +15727,6 @@ Resources organized by keyword tags.
   - [Texas AI](../ai/rag/texas-ai.md)
   - [Text and Data Mining | For Researchers | Springer Nature](../ai/rag/text-and-data-mining-for-researchers-springer-natu.md)
   - [ThRIve: Thermally Robust CNN Inference via Low-Rank Adaptation in Heterogeneous PIM Architectures](../ai/rag/arxiv-2607-17091.md)
-  - [The AI Aesthetic](../ai/community/the-ai-aesthetic.md)
   - [The AI Legal Specialist: A Juridically Autonomous Professional Profile for AI Governance](../ai/rag/arxiv-2606-12415.md)
   - [The Accountability Paradox: How Platform API Restrictions Undermine AI Transparency Mandates](../ai/research/arxiv-2505-11577.md)
   - [The Aura in the Machine: Genealogy and the Status of the Work of Art in the Generative Era](../ai/agents/arxiv-2607-17940.md)
@@ -19576,7 +19576,6 @@ Resources organized by keyword tags.
   - [SwiftRepertoire: Few-Shot Immune-Signature Synthesis via Dynamic Kernel Codes](../ai/research/arxiv-2602-01051.md)
   - [SwinIFS: Landmark Guided Swin Transformer For Identity Preserving Face Super Resolution](../ai/research/arxiv-2601-01406.md)
   - [Sycophancy as Material Failure under Pushback Loading: A Multi-Axis Characterization Across Three Loading Cases and up to Seventeen Material Charges](../ai/rag/arxiv-2606-16617.md)
-  - [SylphAI-Inc/GithubChat](../ai/rag/sylphai-inc-githubchat.md)
   - [Sympathetic Framing: Evaluating AI Alignment across Sociodemographic Groups](../ai/research/arxiv-2607-27232.md)
   - [Symplectic Transversality and Endpoint Green Estimates for Finite-Horizon Pontryagin Systems](../ai/research/arxiv-2606-17762.md)
   - [SynSur: An end-to-end generative pipeline for synthetic industrial surface defect generation and detection](../ai/research/arxiv-2604-26633.md)
@@ -35839,4 +35838,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-31T17:24:21.549724+05:30*
+*Index generated on 2026-07-31T20:22:09.526682+05:30*
