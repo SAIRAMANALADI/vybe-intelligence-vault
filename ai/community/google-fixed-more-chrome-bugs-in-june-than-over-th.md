@@ -14,13 +14,14 @@ collected_at: '2026-07-31T22:27:44.023658+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:google-fixed-more-chrome-bugs-in-june-than-over-th
 first_seen: '2026-07-31T14:47:36.340431+05:30'
 last_seen: '2026-07-31T22:27:44.023658+05:30'
 last_checked: '2026-07-31T22:27:44.023658+05:30'
 health_score: 100
 ---
+
 
 # Google fixed more Chrome bugs in June than over the past two years, thanks to AI
 

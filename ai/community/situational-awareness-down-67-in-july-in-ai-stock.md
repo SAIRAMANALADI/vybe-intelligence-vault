@@ -13,13 +13,14 @@ collected_at: '2026-07-31T22:27:45.011174+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:situational-awareness-down-67-in-july-in-ai-stock
 first_seen: '2026-07-31T20:04:52.556777+05:30'
 last_seen: '2026-07-31T22:27:45.011174+05:30'
 last_checked: '2026-07-31T22:27:45.011174+05:30'
 health_score: 100
 ---
+
 
 # Situational Awareness down 67% in July in AI stock rout
 

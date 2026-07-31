@@ -12483,9 +12483,11 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS](../ai/community/13-models-and-4-agents-on-swe-tasks-go-java-python.md)
-  - [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](../ai/community/google-fixed-more-chrome-bugs-in-june-than-over-th.md)
-  - [Is AI reasoning right for the wrong reasons?](../ai/community/is-ai-reasoning-right-for-the-wrong-reasons.md)
-  - [Situational Awareness down 67% in July in AI stock rout](../ai/community/situational-awareness-down-67-in-july-in-ai-stock.md)
+  - [Everyone is building LLM routers, we deprecated ours](../ai/community/everyone-is-building-llm-routers-we-deprecated-our.md)
+  - [Golang proposal: container/: generic collection types](../ai/community/golang-go.md)
+  - [Orca-Bench: How Ready Are Language Model Agents for Oncall?](../ai/community/arxiv-2607-28545.md)
+  - [Tailscale didn't stop the Hugging Face intrusion](../ai/community/tailscale-didn-t-stop-the-hugging-face-intrusion.md)
+  - [Using the railway network as a flatbed scanner [video]](../ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -15743,4 +15745,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-31T22:44:53.294543+05:30*
+*Index generated on 2026-08-01T01:39:43.144455+05:30*

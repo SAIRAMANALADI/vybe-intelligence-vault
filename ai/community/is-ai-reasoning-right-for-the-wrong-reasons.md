@@ -13,13 +13,14 @@ collected_at: '2026-07-31T22:27:44.130967+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:is-ai-reasoning-right-for-the-wrong-reasons
 first_seen: '2026-07-31T22:27:44.130967+05:30'
 last_seen: '2026-07-31T22:27:44.130967+05:30'
 last_checked: '2026-07-31T22:27:44.130967+05:30'
 health_score: 100
 ---
+
 
 # Is AI reasoning right for the wrong reasons?
 

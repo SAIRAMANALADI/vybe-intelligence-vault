@@ -2070,6 +2070,7 @@ Resources organized by keyword tags.
   - [Oracle Gap and Signal Fidelity: A Fixed-Pool Diagnostic for Test-Time Collaboration](../ai/rag/arxiv-2607-17531.md)
   - [Oracle Web Sites Terms of Use | Oracle](../ai/agents/oracle-web-sites-terms-of-use-oracle.md)
   - [Oracle-Efficient Combinatorial Semi-Bandits](../ai/rag/arxiv-2510-21431.md)
+  - [Orca-Bench: How Ready Are Language Model Agents for Oncall?](../ai/community/arxiv-2607-28545.md)
   - [OrchBench: Evaluating Multi-Agent Orchestration Plans in Isolation via Deterministic Simulation](../ai/agents/arxiv-2607-25656.md)
   - [Orchestra-o1: Omnimodal Agent Orchestration](../ai/agents/arxiv-2606-13707.md)
   - [Orchestrated Reality: From Role-Play to Living, Playable Game Worlds -- LLM-Driven World Simulation as a Parameterized-Action POMDP](../ai/agents/arxiv-2606-16014.md)
@@ -3522,9 +3523,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](../ai/community/google-fixed-more-chrome-bugs-in-june-than-over-th.md)
-  - [Is AI reasoning right for the wrong reasons?](../ai/community/is-ai-reasoning-right-for-the-wrong-reasons.md)
-  - [Situational Awareness down 67% in July in AI stock rout](../ai/community/situational-awareness-down-67-in-july-in-ai-stock.md)
+  - [Golang proposal: container/: generic collection types](../ai/community/golang-go.md)
+  - [Tailscale didn't stop the Hugging Face intrusion](../ai/community/tailscale-didn-t-stop-the-hugging-face-intrusion.md)
+  - [Using the railway network as a flatbed scanner [video]](../ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md)
 
 ## animation
 
@@ -14523,6 +14524,7 @@ Resources organized by keyword tags.
   - [Evaluating the Effect of Frame Rate in Sequence-Based Classification of Autism-Related Self-Stimulatory Hand Idiosyncrasies](../ai/research/arxiv-2607-07957.md)
   - [EvanThomasLuke/Awesome-AI-Hacking-Agents](../ai/agents/evanthomasluke-awesome-ai-hacking-agents.md)
   - [Events | Twilio](../ai/agents/events-twilio.md)
+  - [Everyone is building LLM routers, we deprecated ours](../ai/community/everyone-is-building-llm-routers-we-deprecated-our.md)
   - [Evolution Strategy-Based Calibration for Low-Bit Quantization of Speech Models](../ai/research/arxiv-2603-08173.md)
   - [Evolutionary Bilevel Reward Shaping for Generalization in Reinforcement Learning](../ai/agents/arxiv-2606-16236.md)
   - [Evolving Agents in the Dark: Retrospective Harness Optimization via Self-Preference](../ai/agents/arxiv-2606-05922.md)
@@ -14695,6 +14697,7 @@ Resources organized by keyword tags.
   - [Godot Development Fund](../ai/rag/godot-development-fund.md)
   - [Godot Docs – 4.7 branch — Godot Engine (stable) documentation in English](../ai/rag/godot-docs-4-7-branch-godot-engine-stable-document.md)
   - [Godot Foundation](../ai/resources/godot-foundation.md)
+  - [Golang proposal: container/: generic collection types](../ai/community/golang-go.md)
   - [Golioth IoT Infrastructure as Code](../ai/rag/golioth-iot-infrastructure-as-code.md)
   - [Good Practice Guide for quantifying uncertainties for machine learning models applied to photoplethysmography signals](../ai/research/arxiv-2607-19999.md)
   - [Google AI Studio news from Google I/O 2026](../ai/rag/google-ai-studio-news-from-google-i-o-2026.md)
@@ -14707,7 +14710,6 @@ Resources organized by keyword tags.
   - [Google Sustainability](../ai/rag/google-sustainability.md)
   - [Google Terms of Service – Privacy & Terms – Google](../ai/rag/google-terms-of-service-privacy-terms-google.md)
   - [Google Workspace Learning Center](../ai/rag/google-workspace-learning-center.md)
-  - [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](../ai/community/google-fixed-more-chrome-bugs-in-june-than-over-th.md)
   - [Google for Developers | Build with Gemini](../ai/agents/google-for-developers-build-with-gemini.md)
   - [Google variants - a Gemmaverse Collection](../ai/resources/huggingface-collections-gemmaverse.md)
   - [Google's products and services - About Google](../ai/rag/google-s-products-and-services-about-google.md)
@@ -14900,7 +14902,6 @@ Resources organized by keyword tags.
   - [Introduction · Hugging Face](../ai/rag/huggingface-learn-llm-course.md)
   - [InvWeaver: Deductive Feedback for Invariant Synthesis in Interacting-Loop Programs](../ai/research/arxiv-2607-05478.md)
   - [Investigation of Polycystic Ovary Syndrome (PCOS) Diagnosis Using Machine Learning Approaches](../ai/research/arxiv-2607-16941.md)
-  - [Is AI reasoning right for the wrong reasons?](../ai/community/is-ai-reasoning-right-for-the-wrong-reasons.md)
   - [Is My Vision-Language Data in Your AI? Membership Inference Test (MINT) Demo 2](../ai/research/arxiv-2606-14748.md)
   - [JAMS: Mediation, Arbitration and ADR Services](../ai/resources/jams-mediation-arbitration-and-adr-services.md)
   - [JDK Release Notes](../ai/resources/jdk-release-notes.md)
@@ -15230,6 +15231,7 @@ Resources organized by keyword tags.
   - [Optimizing Lithium Production Decisions under Geological, Demand, and Pricing Uncertainties: A POMDP Framework for Multi-Objective Decision Making](../ai/research/arxiv-2606-18598.md)
   - [Oracle Web Sites Terms of Use | Oracle](../ai/agents/oracle-web-sites-terms-of-use-oracle.md)
   - [OrbitForge: Text-to-3D Scene Generation via Reconstruction-Anchored Video Synthesis](../ai/rag/arxiv-2606-24799.md)
+  - [Orca-Bench: How Ready Are Language Model Agents for Oncall?](../ai/community/arxiv-2607-28545.md)
   - [OrchNAS: Orchestrated Neural Architecture Search Service for Personalised Federated Edge Intelligence](../ai/rag/arxiv-2607-22805.md)
   - [Orchestrating Power Grid Studies with Multi-Agent AI and MCP Servers](../ai/agents/arxiv-2607-14158.md)
   - [Order in Desbordante: Techniques for Efficient Implementation of Order Dependency Discovery Algorithms](../ai/research/arxiv-2607-23632.md)
@@ -15590,7 +15592,6 @@ Resources organized by keyword tags.
   - [Simple Domain Generalization Methods are Strong Baselines for Open Domain Generalization](../ai/research/arxiv-2303-18031.md)
   - [Simplicity Paradox: Debunking myths about prompting and datasets for LLM evaluation](../ai/research/arxiv-2607-14109.md)
   - [Simplicity Suffices for Parameter Noise Injection in Stochastic Gradient Descent](../ai/rag/arxiv-2606-12054.md)
-  - [Situational Awareness down 67% in July in AI stock rout](../ai/community/situational-awareness-down-67-in-july-in-ai-stock.md)
   - [SketchXplain: Intuitive Visual Explanations of Image Classifiers with Sketches](../ai/research/arxiv-2606-17646.md)
   - [SkillCenter: A Large-Scale Source-Grounded Skill Library for Autonomous AI Agents](../ai/agents/arxiv-2607-07676.md)
   - [SkillSieve: A Hierarchical Triage Framework for Detecting Malicious AI Agent Skills](../ai/rag/arxiv-2604-06550.md)
@@ -15691,6 +15692,7 @@ Resources organized by keyword tags.
   - [TXYZ Launches the Writing Assistant in Its Academic AI Platform](../ai/rag/txyz-launches-the-writing-assistant-in-its-academi.md)
   - [TXYZ: How AI Tools Help Students in Academic Research](../ai/resources/txyz-how-ai-tools-help-students-in-academic-resear.md)
   - [TabPFN Extensions for Interpretable Geotechnical Modelling](../ai/rag/arxiv-2603-21033.md)
+  - [Tailscale didn't stop the Hugging Face intrusion](../ai/community/tailscale-didn-t-stop-the-hugging-face-intrusion.md)
   - [Talk to Posit Sales - We're Here to Help You](../ai/resources/talk-to-posit-sales-we-re-here-to-help-you.md)
   - [Taming Curvature: Architecture Warm-Up for Stable Transformer Training](../ai/research/arxiv-2606-16768.md)
   - [Tanium Developer Portal](../ai/rag/tanium-developer-portal.md)
@@ -15914,6 +15916,7 @@ Resources organized by keyword tags.
   - [Using Your Own Models — PeekingDuck developer documentation](../ai/rag/using-your-own-models-peekingduck-developer-docume.md)
   - [Using a knowledge graph to implement a RAG application](../ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md)
   - [Using generative AI to expand and enhance help center content – Zendesk help](../ai/rag/using-generative-ai-to-expand-and-enhance-help-cen.md)
+  - [Using the railway network as a flatbed scanner [video]](../ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md)
   - [Utility-Diversity Aware Online Batch Selection for LLM Supervised Fine-tuning](../ai/rag/arxiv-2510-16882.md)
   - [V-DAT Working Group | National Centers for Environmental Information (NCEI)](../ai/rag/v-dat-working-group-national-centers-for-environme.md)
   - [V8 JavaScript engine](../ai/resources/v8-javascript-engine.md)
@@ -16634,6 +16637,10 @@ Resources organized by keyword tags.
   - [open-llm-leaderboard/open_llm_leaderboard](../ai/models/huggingface-spaces-open-llm-leaderboard.md)
   - [prometheus-eval/BiGGen-Bench at main · prometheus-eval/prometheus-eval · GitHub](../ai/rag/prometheus-eval-prometheus-eval.md)
   - [prometheus-eval/BiGGen-Bench · Datasets at Hugging Face](../ai/rag/huggingface-datasets-prometheus-eval.md)
+
+## llm
+
+  - [Everyone is building LLM routers, we deprecated ours](../ai/community/everyone-is-building-llm-routers-we-deprecated-our.md)
 
 ## mdx
 
@@ -18033,6 +18040,7 @@ Resources organized by keyword tags.
   - [Evaluating the Generalizability of Foundation Models for Extreme Environmental Events: Case Study of California Wildfire PM2.5](../ai/research/arxiv-2607-07951.md)
   - [Evaluation of Alternative-Based Information Systems for Deliberative Polling using an Agentic Simulator](../ai/rag/arxiv-2606-11692.md)
   - [Event-Aligned Analysis of Multi-Rater Pain Assessments Using Continuous Wearable Physiology](../ai/research/arxiv-2606-23705.md)
+  - [Everyone is building LLM routers, we deprecated ours](../ai/community/everyone-is-building-llm-routers-we-deprecated-our.md)
   - [Everyone is unique: Towards Behaviorally Heterogeneous Negotiation Dialogue Systems for Debt Collection](../ai/agents/arxiv-2607-25218.md)
   - [Evidence for feature-specific error correction in LLMs](../ai/research/arxiv-2606-24964.md)
   - [Evidence-Backed Video Question Answering](../ai/research/arxiv-2607-11862.md)
@@ -28865,6 +28873,7 @@ Resources organized by keyword tags.
   - [Evaluate a simple LLM application - Ragas](../ai/rag/evaluate-a-simple-llm-application-ragas.md)
   - [EventOD: Event-Aware OD Flow Generation via LLM-Guided Semantic Modulation](../ai/rag/arxiv-2607-22655.md)
   - [Events | Twilio](../ai/agents/events-twilio.md)
+  - [Everyone is building LLM routers, we deprecated ours](../ai/community/everyone-is-building-llm-routers-we-deprecated-our.md)
   - [EvoAgent: An Evolvable Agent Framework with Skill Learning and Multi-Agent Delegation](../ai/rag/arxiv-2604-20133.md)
   - [Exoplanets - NASA Science](../ai/resources/exoplanets-nasa-science.md)
   - [Exploring Structures in Physics Problems: Can AI Agents Discover Statistical Mechanical Mappings?](../ai/agents/arxiv-2607-26367.md)
@@ -28950,6 +28959,7 @@ Resources organized by keyword tags.
   - [GnuTLS](../ai/resources/gnutls.md)
   - [Go Web Examples - Learn Web Programming in Go by Examples](../ai/resources/go-web-examples-learn-web-programming-in-go-by-exa.md)
   - [Godot Docs – 4.7 branch — Godot Engine (stable) documentation in English](../ai/rag/godot-docs-4-7-branch-godot-engine-stable-document.md)
+  - [Golang proposal: container/: generic collection types](../ai/community/golang-go.md)
   - [Golioth IoT Infrastructure as Code](../ai/rag/golioth-iot-infrastructure-as-code.md)
   - [Google AI Studio news from Google I/O 2026](../ai/rag/google-ai-studio-news-from-google-i-o-2026.md)
   - [Google Accessibility Help](../ai/resources/google-accessibility-help.md)
@@ -35680,6 +35690,7 @@ Resources organized by keyword tags.
   - [UserWay | Web Accessibility Solutions](../ai/rag/userway-web-accessibility-solutions.md)
   - [Using Your Own Models — PeekingDuck developer documentation](../ai/rag/using-your-own-models-peekingduck-developer-docume.md)
   - [Using a knowledge graph to implement a RAG application](../ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md)
+  - [Using the railway network as a flatbed scanner [video]](../ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md)
   - [V-DEAL: Diagnosing Video Safety De-Calibration as an Understanding-Refusal Coupling Failure](../ai/rag/arxiv-2607-21151.md)
   - [VEGAS: Human-Aligned Video Caption Evaluation via Gaze](../ai/rag/arxiv-2607-08489.md)
   - [VINE: Taming Generative Control Policies for Reinforcement Learning](../ai/research/arxiv-2607-10369.md)
@@ -35842,4 +35853,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-31T22:44:53.117211+05:30*
+*Index generated on 2026-08-01T01:39:42.986030+05:30*

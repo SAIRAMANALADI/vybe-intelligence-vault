@@ -6,14 +6,14 @@
     "ai-browser-computer-use": 2759,
     "ai-coding-agents": 2445,
     "ai-tools-products": 109,
-    "automation-workflows": 1273,
+    "automation-workflows": 1275,
     "datasets": 8644,
-    "evals-and-benchmarks": 11989,
+    "evals-and-benchmarks": 11988,
     "frontend-ai-ui": 177,
     "guardrails-security": 6562,
     "inference-local-llm": 1089,
     "jobs-market": 5,
-    "learning-paths": 67,
+    "learning-paths": 66,
     "llm-app-templates": 201,
     "mcp-registry": 186,
     "model-providers": 1941,
@@ -26,5 +26,5 @@
     "vector-databases": 4739,
     "webdev-3d-creative": 125
   },
-  "last_updated": "2026-07-31T22:46:19.307855+05:30"
+  "last_updated": "2026-08-01T01:41:01.712893+05:30"
 }
