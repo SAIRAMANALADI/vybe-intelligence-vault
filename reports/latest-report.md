@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-01T01:41:55.059205+05:30`
+Generated at: `2026-08-01T01:55:46.742026+05:30`
 
 ## Executive Summary
 
@@ -13,6 +13,7 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **Golang proposal: container/: generic collection types** - Score: `22` in category `ai/community` ([Link](https://github.com/golang/go)) ([File](../ai/community/golang-go.md))
 - **Using the railway network as a flatbed scanner [video]** - Score: `11` in category `ai/community` ([Link](https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner)) ([File](../ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md))
 - **Orca-Bench: How Ready Are Language Model Agents for Oncall?** - Score: `9` in category `ai/community` ([Link](https://arxiv.org/abs/2607.28545)) ([File](../ai/community/arxiv-2607-28545.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
@@ -20,25 +21,25 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+970` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
 - **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - Score: `0` (0), Rank Change: `+1409` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
 - **malonge/RaGOO** - Score: `0` (0), Rank Change: `+981` ([File](../ai/rag/malonge-ragoo.md))
-- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - Score: `0` (0), Rank Change: `+5` ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
-- **Sunsetting Create React App** - Score: `0` (0), Rank Change: `+5` ([File](../ai/rag/sunsetting-create-react-app.md))
-- **Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones** - Score: `0` (0), Rank Change: `+5` ([File](../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md))
-- **Next.js 5.1: Faster Page Resolution, Environment Config & More** - Score: `0` (0), Rank Change: `+5` ([File](../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md))
-- **Next.js 6 and Nextjs.org** - Score: `0` (0), Rank Change: `+5` ([File](../web-development/nextjs/next-js-6-and-nextjs-org.md))
-- **Next.js 6.1** - Score: `0` (0), Rank Change: `+5` ([File](../web-development/nextjs/next-js-6-1.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+963` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+964` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **TracecatHQ/tracecat** - Score: `0` (0), Rank Change: `+964` ([File](../ai/rag/tracecathq-tracecat.md))
+- **wgcyeo/UniversalRAG** - Score: `0` (0), Rank Change: `+964` ([File](../ai/rag/wgcyeo-universalrag.md))
+- **DEEP-PolyU/LinearRAG** - Score: `0` (0), Rank Change: `+964` ([File](../ai/rag/deep-polyu-linearrag.md))
+- **bakrianoo/mini-rag** - Score: `0` (0), Rank Change: `+964` ([File](../ai/rag/bakrianoo-mini-rag.md))
 
 ## 🚀 Fastest Rising Tools
 
+- **infiniflow/ragflow** - (Rank Change: `+12763`) ([File](../ai/rag/infiniflow-ragflow-2.md))
 - **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - (Rank Change: `+1409`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
 - **malonge/RaGOO** - (Rank Change: `+981`) ([File](../ai/rag/malonge-ragoo.md))
 - **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - (Rank Change: `+970`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
-- **ayuo/hd_tmp** - (Rank Change: `+6`) ([File](../ai/models/huggingface-datasets-ayuo.md))
-- **Salesforce/wikitext** - (Rank Change: `+6`) ([File](../ai/models/huggingface-datasets-salesforce.md))
-- **allenai/c4** - (Rank Change: `+6`) ([File](../ai/models/huggingface-datasets-allenai.md))
-- **ryanmarten/OpenThoughts-1k-sample** - (Rank Change: `+6`) ([File](../ai/models/huggingface-datasets-ryanmarten.md))
-- **Benjy/typed_digital_signatures** - (Rank Change: `+6`) ([File](../ai/models/huggingface-datasets-benjy.md))
-- **hf-doc-build/doc-build-dev** - (Rank Change: `+6`) ([File](../ai/models/huggingface-datasets-hf-doc-build.md))
-- **k9cli/video-vec2wav2-tokenizer** - (Rank Change: `+6`) ([File](../ai/models/huggingface-datasets-k9cli.md))
+- **monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1** - (Rank Change: `+968`) ([File](../ai/rag/monday-service-langsmith-building-a-code-first-eva.md))
+- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+968`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
+- **promptfoo/promptfoo-action** - (Rank Change: `+968`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
+- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+968`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
+- **Understanding RAG from Scratch | martinuke0's Blog** - (Rank Change: `+968`) ([File](../ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md))
+- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+968`) ([File](../ai/rag/arxiv-2606-29031.md))
 
 ## 🔄 Essential Tier Transitions
 
