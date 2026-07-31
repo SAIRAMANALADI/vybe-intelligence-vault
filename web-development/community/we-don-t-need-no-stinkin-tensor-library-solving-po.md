@@ -15,13 +15,14 @@ tags:
 - reddit
 - threejs
 - webgpu
-status: active
+status: inactive
 resource_id: hackernews:we-don-t-need-no-stinkin-tensor-library-solving-po
 first_seen: '2026-07-31T01:21:37.488148+05:30'
 last_seen: '2026-07-31T03:49:31.891640+05:30'
 last_checked: '2026-07-31T03:49:31.891640+05:30'
 health_score: 100
 ---
+
 
 # Solving poker in custom WebGPU kernels
 

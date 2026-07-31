@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-78%2C220-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-135%2C809-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--31-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **78,220 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **135,809 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 14,729</p>
-        <p><b>Active:</b> 14,315 | <b>Inactive:</b> 414</p>
+        <p><b>Resources tracked:</b> 15,703</p>
+        <p><b>Active:</b> 15,288 | <b>Inactive:</b> 415</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,059</p>
+        <p><b>Archive Files:</b> 58,696</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 78,220 files</p>
-        <p><b>Last Update:</b> 2026-07-31 08:12 IST</p>
+        <p><b>Total Vault Size:</b> 135,809 files</p>
+        <p><b>Last Update:</b> 2026-07-31 09:37 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,17 +210,19 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[pguso/ai-agents-from-scratch](ai/agents/pguso-ai-agents-from-scratch.md)** • Rank: <kbd>+971</kbd>
-- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+971</kbd>
-- 🔼 **[kylestratis/ai_agents_mcp_examples](ai/agents/kylestratis-ai-agents-mcp-examples.md)** • Rank: <kbd>+971</kbd>
-- 🔼 **[TEN-framework/ten-framework](ai/agents/ten-framework-ten-framework.md)** • Rank: <kbd>+971</kbd>
-- 🔼 **[airweave-ai/airweave](ai/rag/airweave-ai-airweave.md)** • Rank: <kbd>+971</kbd>
+- 🔼 **[2x, not 10x: coding with LLMs in 2026](ai/community/2x-not-10x-coding-with-llms-in-2026.md)** • <kbd>+70 pts</kbd>
+- 🔼 **[GCC steering committee announces AI policy](ai/community/gcc-steering-committee-announces-ai-policy.md)** • <kbd>+42 pts</kbd>
+- 🔼 **[TEN-framework/ten-framework](ai/agents/ten-framework-ten-framework.md)** • Rank: <kbd>+976</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** • Rank: <kbd>+983</kbd>
+- 🔼 **[ragnarokoffline/ragnarokoffline.github.io](ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)** • Rank: <kbd>+1507</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Solving poker in custom WebGPU kernels](web-development/community/we-don-t-need-no-stinkin-tensor-library-solving-po.md)** • Score: `32`
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[The AI Aesthetic](ai/community/the-ai-aesthetic.md)** • Score: `177`
+- 🆕 **[Does Speaking to Agents Like Cavemen Save 65% of Tokens? We Test](ai/community/does-speaking-to-agents-like-cavemen-save-65-of-to.md)** • Score: `17`
+- 🆕 **[The bond market isn't buying what Fed Chair Warsh is selling](ai/community/the-bond-market-isn-t-buying-what-fed-chair-warsh.md)** • Score: `9`
+- 🆕 **[Jul 30, 2026Frontier Red TeamInvestigating three real-world incidents in our cybersecurity evaluations](ai/companies/anthropic/jul-30-2026frontier-red-teaminvestigating-three-re.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.

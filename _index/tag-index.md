@@ -900,6 +900,7 @@ Resources organized by keyword tags.
   - [Doctorina MedBench-ICD10: A Dialogue-Based Benchmark and Evaluation Framework for Agent-Based Medical AI](../ai/agents/arxiv-2603-25821.md)
   - [Documentation for Visual Studio Code](../ai/agents/documentation-for-visual-studio-code.md)
   - [Does AI Understand Imaging? A Systematic Benchmark of Agentic AI for Computational Imaging Tasks](../ai/agents/arxiv-2607-07189.md)
+  - [Does Speaking to Agents Like Cavemen Save 65% of Tokens? We Test](../ai/community/does-speaking-to-agents-like-cavemen-save-65-of-to.md)
   - [Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision-Language-Action Models](../ai/agents/arxiv-2606-19297.md)
   - [Doing What They Say, Not What They Reason: Locating the Faithfulness Gap in LLM Agents](../ai/agents/arxiv-2606-00476.md)
   - [Domain-Specific Agents for Cherenkov Telescope Array Control Software and Gamma-Ray Data Analysis](../ai/agents/arxiv-2510-01299.md)
@@ -3431,6 +3432,8 @@ Resources organized by keyword tags.
 ## ai
 
   - [GCC steering committee announces AI policy](../ai/community/gcc-steering-committee-announces-ai-policy.md)
+  - [The AI Aesthetic](../ai/community/the-ai-aesthetic.md)
+  - [The bond market isn't buying what Fed Chair Warsh is selling](../ai/community/the-bond-market-isn-t-buying-what-fed-chair-warsh.md)
 
 ## animation
 
@@ -3655,7 +3658,7 @@ Resources organized by keyword tags.
   - [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)
   - [Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md)
   - [Jul 27, 2026AnnouncementsOur position on open-weights models](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md)
-  - [Jul 9, 2026Case StudyUST is bringing Claude to physical AI](../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md)
+  - [Jul 30, 2026Frontier Red TeamInvestigating three real-world incidents in our cybersecurity evaluations](../ai/companies/anthropic/jul-30-2026frontier-red-teaminvestigating-three-re.md)
   - [Jupyter AI](../ai/rag/jupyter-ai.md)
   - [Just A Rather Very Intelligent Spoken Agent](../ai/agents/arxiv-2607-16610.md)
   - [KBF: Knowledge Boundary as Fingerprint for Language Model and Black-Box API Auditing](../ai/research/arxiv-2605-29524.md)
@@ -3889,7 +3892,7 @@ Resources organized by keyword tags.
   - [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)
   - [Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md)
   - [Jul 27, 2026AnnouncementsOur position on open-weights models](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md)
-  - [Jul 9, 2026Case StudyUST is bringing Claude to physical AI](../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md)
+  - [Jul 30, 2026Frontier Red TeamInvestigating three real-world incidents in our cybersecurity evaluations](../ai/companies/anthropic/jul-30-2026frontier-red-teaminvestigating-three-re.md)
   - [ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.](../ai/companies/anthropic/productjun-30-2026introducing-claude-sonnet-5sonne.md)
 
 ## astro
@@ -6314,6 +6317,7 @@ Resources organized by keyword tags.
   - [Judge Arena: Benchmarking LLMs as Evaluators](../ai/models/huggingface-blog-arena-atla.md)
   - [Judge-dependent safety gains and model-specific helpfulness costs of evidence-sufficiency prompting in clinical LLMs](../ai/research/arxiv-2607-18086.md)
   - [Judging the Judges: A Systematic Evaluation of Bias Mitigation Strategies in LLM-as-a-Judge Pipelines](../ai/research/arxiv-2604-23178.md)
+  - [Jul 30, 2026Frontier Red TeamInvestigating three real-world incidents in our cybersecurity evaluations](../ai/companies/anthropic/jul-30-2026frontier-red-teaminvestigating-three-re.md)
   - [JupOtter: Cell-Level Bug Detection in Jupyter Notebooks](../ai/research/arxiv-2606-23877.md)
   - [Just A Rather Very Intelligent Spoken Agent](../ai/agents/arxiv-2607-16610.md)
   - [Just Keep Prompting: Evaluating Repetitive Socratic Prompting in VLMs](../ai/research/arxiv-2607-14099.md)
@@ -9010,7 +9014,7 @@ Resources organized by keyword tags.
   - [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)
   - [Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md)
   - [Jul 27, 2026AnnouncementsOur position on open-weights models](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md)
-  - [Jul 9, 2026Case StudyUST is bringing Claude to physical AI](../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md)
+  - [Jul 30, 2026Frontier Red TeamInvestigating three real-world incidents in our cybersecurity evaluations](../ai/companies/anthropic/jul-30-2026frontier-red-teaminvestigating-three-re.md)
   - [Leanstral 1.5: Proof Abundance for All](../ai/companies/mistral/leanstral-1-5-proof-abundance-for-all.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
   - [Microsoft Research blog](../ai/companies/microsoft-research-blog.md)
@@ -11153,6 +11157,7 @@ Resources organized by keyword tags.
   - [Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification](../ai/research/arxiv-2604-26675.md)
   - [ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits](../ai/research/arxiv-2607-23225.md)
   - [ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](../ai/research/arxiv-2606-04468.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pathways of Visual Information Flow in Vision-Language Models](../ai/research/arxiv-2607-03358.md)
   - [Patient-Agnostic Synthetic Pretraining for Efficient Patient-Specific Intraoperative 2D/3D Registration](../ai/research/arxiv-2607-23343.md)
   - [Pattern-Aware Graph Neural Networks for Handling Missing Data](../ai/rag/arxiv-2607-08915.md)
@@ -14045,6 +14050,7 @@ Resources organized by keyword tags.
   - [Docker | Weaviate Documentation](../ai/rag/docker-weaviate-documentation.md)
   - [Docs: API Reference, Tutorials, and Integration | Twilio](../ai/rag/docs-api-reference-tutorials-and-integration-twili.md)
   - [Documentation Overview - TACC HPC Documentation](../ai/rag/documentation-overview-tacc-hpc-documentation.md)
+  - [Does Speaking to Agents Like Cavemen Save 65% of Tokens? We Test](../ai/community/does-speaking-to-agents-like-cavemen-save-65-of-to.md)
   - [Domain adaptation for handwriting trajectory reconstruction from IMU sensors](../ai/rag/arxiv-2607-26736.md)
   - [Domain-Validity-Gated Metamorphic Testing of Scientific ML Surrogates](../ai/research/arxiv-2606-17529.md)
   - [Données & Design par LINC](../ai/resources/donnees-design-par-linc.md)
@@ -15196,7 +15202,6 @@ Resources organized by keyword tags.
   - [Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation](../ai/agents/arxiv-2606-23743.md)
   - [Solana Price Today | SOL Live Price, Chart & Market Cap | OKX United States](../ai/rag/solana-price-today-sol-live-price-chart-market-cap.md)
   - [SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets](../ai/agents/arxiv-2607-08681.md)
-  - [Solving poker in custom WebGPU kernels](../web-development/community/we-don-t-need-no-stinkin-tensor-library-solving-po.md)
   - [Something from Nothing: Data Augmentation for Robust Severity Level Estimation of Dysarthric Speech](../ai/rag/arxiv-2603-15988.md)
   - [Sound Probabilistic Safety Bounds for Large Language Models](../ai/rag/arxiv-2607-20286.md)
   - [Soundwaves settle debate about elusive quantum particle | Cornell Chronicle](../ai/rag/soundwaves-settle-debate-about-elusive-quantum-par.md)
@@ -15316,6 +15321,7 @@ Resources organized by keyword tags.
   - [Texas AI](../ai/rag/texas-ai.md)
   - [Text and Data Mining | For Researchers | Springer Nature](../ai/rag/text-and-data-mining-for-researchers-springer-natu.md)
   - [ThRIve: Thermally Robust CNN Inference via Low-Rank Adaptation in Heterogeneous PIM Architectures](../ai/rag/arxiv-2607-17091.md)
+  - [The AI Aesthetic](../ai/community/the-ai-aesthetic.md)
   - [The AI Legal Specialist: A Juridically Autonomous Professional Profile for AI Governance](../ai/rag/arxiv-2606-12415.md)
   - [The Accountability Paradox: How Platform API Restrictions Undermine AI Transparency Mandates](../ai/research/arxiv-2505-11577.md)
   - [The Aura in the Machine: Genealogy and the Status of the Work of Art in the Generative Era](../ai/agents/arxiv-2607-17940.md)
@@ -15362,6 +15368,7 @@ Resources organized by keyword tags.
   - [The WebM Project | Submitting Patches](../ai/rag/the-webm-project-submitting-patches.md)
   - [The Website Obesity Crisis](../ai/rag/the-website-obesity-crisis.md)
   - [The Zero Pattern of a Design Matrix Drives Multiple Descent in Over-parameterized Regression](../ai/research/arxiv-2607-24041.md)
+  - [The bond market isn't buying what Fed Chair Warsh is selling](../ai/community/the-bond-market-isn-t-buying-what-fed-chair-warsh.md)
   - [The evolution of AI from image interpretation toward scientific inference in nanoparticle electron microscopy](../ai/agents/arxiv-2607-10388.md)
   - [The impact of artificial intelligence on enterprise software user roles](../ai/agents/arxiv-2606-25525.md)
   - [The knowledge layer for AI | GitBook](../ai/agents/the-knowledge-layer-for-ai-gitbook.md)
@@ -28704,7 +28711,6 @@ Resources organized by keyword tags.
   - [Snowflake Status](../ai/rag/snowflake-status.md)
   - [Solana Price Today | SOL Live Price, Chart & Market Cap | OKX United States](../ai/rag/solana-price-today-sol-live-price-chart-market-cap.md)
   - [SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets](../ai/agents/arxiv-2607-08681.md)
-  - [Solving poker in custom WebGPU kernels](../web-development/community/we-don-t-need-no-stinkin-tensor-library-solving-po.md)
   - [Sovereign, Open Source Retrieval-Augmented Generation](../ai/rag/sovereign-open-source-retrieval-augmented-generati.md)
   - [Spaces · Hugging Face](../ai/rag/huggingface-docs-hub.md)
   - [Sparsity-Aware Low-Rank Representation for Efficient Fine-Tuning of Large Language Models](../ai/rag/arxiv-2601-16991.md)
@@ -29033,7 +29039,6 @@ Resources organized by keyword tags.
   - [prometheus-eval/BiGGen-Bench at main · prometheus-eval/prometheus-eval · GitHub](../ai/rag/prometheus-eval-prometheus-eval.md)
   - [prompten-2026bahar/PE-2026-CrewAI](../ai/agents/prompten-2026bahar-pe-2026-crewai.md)
   - [questcollector/autogen-kubernetes](../ai/agents/questcollector-autogen-kubernetes.md)
-  - [ragnarokoffline/ragnarokoffline.github.io](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)
   - [real analysis - Hölder continuity of scaling paths - Mathematics Stack Exchange](../ai/rag/real-analysis-holder-continuity-of-scaling-paths-m.md)
   - [register](../ai/resources/register.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
@@ -29808,7 +29813,6 @@ Resources organized by keyword tags.
   - [Select Identity Provider](../ai/rag/select-identity-provider.md)
   - [Shift-Invariant Attribute Scoring for Kolmogorov-Arnold Networks via Shapley Value](../ai/research/arxiv-2510-01663.md)
   - [Snowflake Status](../ai/rag/snowflake-status.md)
-  - [Solving poker in custom WebGPU kernels](../web-development/community/we-don-t-need-no-stinkin-tensor-library-solving-po.md)
   - [SplineNet: An Isogeometric Deep Learning Method for Complex Shells](../ai/research/arxiv-2607-06026.md)
   - [Static Asset Handling | Vite](../ai/resources/static-asset-handling-vite.md)
   - [Structured Nonparametric Variational Inference for Dependent Latent Modeling](../ai/rag/arxiv-2606-15458.md)
@@ -32281,10 +32285,6 @@ Resources organized by keyword tags.
   - [라떼군 이야기 - YouTube](../ai/resources/raddegun-iyagi-youtube.md)
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
-
-## webgpu
-
-  - [Solving poker in custom WebGPU kernels](../web-development/community/we-don-t-need-no-stinkin-tensor-library-solving-po.md)
 
 ## workflows
 
@@ -35087,4 +35087,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-31T04:06:12.674824+05:30*
+*Index generated on 2026-07-31T09:36:21.287857+05:30*

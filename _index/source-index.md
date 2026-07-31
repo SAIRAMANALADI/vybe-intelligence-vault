@@ -11301,7 +11301,7 @@ Resources organized by publisher feed and query sources.
   - [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)
   - [Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md)
   - [Jul 27, 2026AnnouncementsOur position on open-weights models](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md)
-  - [Jul 9, 2026Case StudyUST is bringing Claude to physical AI](../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md)
+  - [Jul 30, 2026Frontier Red TeamInvestigating three real-world incidents in our cybersecurity evaluations](../ai/companies/anthropic/jul-30-2026frontier-red-teaminvestigating-three-re.md)
   - [Leanstral 1.5: Proof Abundance for All](../ai/companies/mistral/leanstral-1-5-proof-abundance-for-all.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
   - [Microsoft Research blog](../ai/companies/microsoft-research-blog.md)
@@ -12071,8 +12071,10 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [2x, not 10x: coding with LLMs in 2026](../ai/community/2x-not-10x-coding-with-llms-in-2026.md)
+  - [Does Speaking to Agents Like Cavemen Save 65% of Tokens? We Test](../ai/community/does-speaking-to-agents-like-cavemen-save-65-of-to.md)
   - [GCC steering committee announces AI policy](../ai/community/gcc-steering-committee-announces-ai-policy.md)
-  - [Solving poker in custom WebGPU kernels](../web-development/community/we-don-t-need-no-stinkin-tensor-library-solving-po.md)
+  - [The AI Aesthetic](../ai/community/the-ai-aesthetic.md)
+  - [The bond market isn't buying what Fed Chair Warsh is selling](../ai/community/the-bond-market-isn-t-buying-what-fed-chair-warsh.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -15331,4 +15333,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-31T04:06:12.802908+05:30*
+*Index generated on 2026-07-31T09:36:21.395568+05:30*

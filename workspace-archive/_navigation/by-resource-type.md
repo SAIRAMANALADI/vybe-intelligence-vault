@@ -22,6 +22,7 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Tier: `essential` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
 - [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Tier: `essential` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
 - [RuBench: A Repository-Level Agentic Coding Benchmark with Natively Authored Russian Task Specifications](https://arxiv.org/abs/2607.06411) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2607-06411.md))
+- [Jul 30, 2026Frontier Red TeamInvestigating three real-world incidents in our cybersecurity evaluations](https://anthropic.com/news/investigating-incidents-cybersecurity-evals) (Tier: `essential` | [`Local File`](../../ai/companies/anthropic/jul-30-2026frontier-red-teaminvestigating-three-re.md))
 - [Top 23 rag Open-Source Projects | LibHunt](https://www.libhunt.com/topic/rag) (Tier: `essential` | [`Local File`](../../ai/rag/top-23-rag-open-source-projects-libhunt.md))
 - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](https://developers.googleblog.com/en/introducing-gemma-3-270m) (Tier: `essential` | [`Local File`](../../ai/rag/introducing-gemma-3-270m-the-compact-model-for-hyp.md))
 - [Training-Free Model Selection and Domain-Aware Score Calibration for First-Shot Anomalous Sound Detection](https://arxiv.org/abs/2607.04526) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2607-04526.md))
@@ -29,7 +30,6 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Can AI Agents Synthesize Scientific Conclusions?](https://arxiv.org/abs/2606.11337) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-11337.md))
 - [ROOFS: RObust biOmarker Feature Selection](https://arxiv.org/abs/2601.05151) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2601-05151.md))
 - [A comparative and critical study of EEGNet for fNIRS-driven cognitive load classification](https://arxiv.org/abs/2606.16160) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-16160.md))
-- [GestaltMML: Enhancing Rare Genetic Disease Diagnosis through Multimodal Machine Learning Combining Facial Images and Clinical Text](https://arxiv.org/abs/2312.15320) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2312-15320.md))
 
 ## DATASET
 
@@ -119,7 +119,7 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients](https://anthropic.com/news/cognizant-anthropic) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md))
 - [Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research](https://anthropic.com/news/canadian-ai-research) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-14-2026announcementsanthropic-commits-10-milli.md))
 - [Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](https://anthropic.com/news/economic-futures-research-fund-agenda) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md))
-- [Jul 9, 2026Case StudyUST is bringing Claude to physical AI](https://anthropic.com/news/ust-claude) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jul-9-2026case-studyust-is-bringing-claude-to-phys.md))
+- [CompanyAI Now Summit 2026Innovations for global enterprises solving the world’s hardest problems. May 28, 2026By Mistral](https://mistral.ai/news/ai-now-summit-2026) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/companyai-now-summit-2026innovations-for-global-en.md))
 
 ## TEMPLATE
 
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) (Tier: `useful` | [`Local File`](../../ai/agents/ed1s0nz-cyberstrikeai.md))
 
 ---
-*Last updated: 2026-07-31 04:07 IST*
+*Last updated: 2026-07-31 09:37 IST*

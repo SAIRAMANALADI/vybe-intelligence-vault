@@ -4,23 +4,22 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ragnarokoffline/ragnarokoffline.github.io
-collected_at: '2026-07-29T03:48:40.744525+05:30'
-published_at: '2026-07-25T14:10:11Z'
+collected_at: '2026-07-31T09:20:41.722952+05:30'
+published_at: '2026-07-29T00:57:07Z'
 tags:
 - github-repo
 - html
 - rag
-- reddit
-stars: 17
+stars: 18
 language: HTML
 status: active
 archived: false
 created_at: '2025-02-06T11:16:38Z'
 pushed_at: '2026-07-18T12:35:00Z'
 resource_id: github:ragnarokoffline/ragnarokoffline.github.io
-first_seen: '2026-07-29T03:48:40.744525+05:30'
-last_seen: '2026-07-29T03:48:40.744525+05:30'
-last_checked: '2026-07-29T03:48:40.744525+05:30'
+first_seen: '2026-07-31T09:20:41.722952+05:30'
+last_seen: '2026-07-31T09:20:41.722952+05:30'
+last_checked: '2026-07-31T09:20:41.722952+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,7 @@ health_score: 100
 
 ## Summary
 
-*   Distributes a pre-renewal pack for Ragnarok Offline, hosted via `github.io`.
-*   Targets `ragnarokonline` pre-renewal mechanics, integrating with `openkore` and `rathena` ecosystems.
-*   Repository serves as a resource for `ragnarokoffline` server/client configurations and related tooling.
+*   GitHub Pages repository (`ragnarokoffline.github.io`) hosting a Pre-
 
 ## Why It Matters
 
@@ -39,11 +36,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ragnarokoffline
-- Stars: 17
+- Stars: 18
 - Forks: 8
 - Language: HTML
 - Topics: openkore, ragnarok, ragnarokoffline, ragnarokonline, rathena
-- Last Updated: 2026-07-25T14:10:11Z
+- Last Updated: 2026-07-29T00:57:07Z
 - Archived: No
 - Created At: 2025-02-06T11:16:38Z
 - Pushed At: 2026-07-18T12:35:00Z

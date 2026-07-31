@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-31T08:12:51.796282+05:30`
+Generated at: `2026-07-31T09:37:47.894782+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,36 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Solving poker in custom WebGPU kernels** - Score: `32` in category `web-development/community` ([Link](https://phulin.me/blog/poker)) ([File](../web-development/community/we-don-t-need-no-stinkin-tensor-library-solving-po.md))
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **The AI Aesthetic** - Score: `177` in category `ai/community` ([Link](https://blog.jim-nielsen.com/2026/ai-aesthetic)) ([File](../ai/community/the-ai-aesthetic.md))
+- **Does Speaking to Agents Like Cavemen Save 65% of Tokens? We Test** - Score: `17` in category `ai/community` ([Link](https://blog.jetbrains.com/ai/2026/07/speak-to-ai-agents-like-cavemen-tosave-tokens)) ([File](../ai/community/does-speaking-to-agents-like-cavemen-save-65-of-to.md))
+- **The bond market isn't buying what Fed Chair Warsh is selling** - Score: `9` in category `ai/community` ([Link](https://reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30)) ([File](../ai/community/the-bond-market-isn-t-buying-what-fed-chair-warsh.md))
+- **Jul 30, 2026Frontier Red TeamInvestigating three real-world incidents in our cybersecurity evaluations** - Score: `0` in category `ai/companies/anthropic` ([Link](https://anthropic.com/news/investigating-incidents-cybersecurity-evals)) ([File](../ai/companies/anthropic/jul-30-2026frontier-red-teaminvestigating-three-re.md))
 
 ## Top Trending Resources
 
-- **pguso/ai-agents-from-scratch** - Score: `0` (0), Rank Change: `+971` ([File](../ai/agents/pguso-ai-agents-from-scratch.md))
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+971` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **kylestratis/ai_agents_mcp_examples** - Score: `0` (0), Rank Change: `+971` ([File](../ai/agents/kylestratis-ai-agents-mcp-examples.md))
-- **TEN-framework/ten-framework** - Score: `0` (0), Rank Change: `+971` ([File](../ai/agents/ten-framework-ten-framework.md))
-- **airweave-ai/airweave** - Score: `0` (0), Rank Change: `+971` ([File](../ai/rag/airweave-ai-airweave.md))
-- **docker/compose-for-agents** - Score: `0` (0), Rank Change: `+971` ([File](../ai/agents/docker-compose-for-agents.md))
-- **huangjia2019/ai-agents** - Score: `0` (0), Rank Change: `+971` ([File](../ai/agents/huangjia2019-ai-agents.md))
-- **coleam00/ottomator-agents** - Score: `0` (0), Rank Change: `+971` ([File](../ai/agents/coleam00-ottomator-agents.md))
-- **langchain-ai/open-swe** - Score: `0` (0), Rank Change: `+971` ([File](../ai/agents/langchain-ai-open-swe.md))
-- **vercel/ai** - Score: `0` (0), Rank Change: `+971` ([File](../ai/agents/vercel-ai.md))
+- **2x, not 10x: coding with LLMs in 2026** - Score: `230` (+70), Rank Change: `0` ([File](../ai/community/2x-not-10x-coding-with-llms-in-2026.md))
+- **GCC steering committee announces AI policy** - Score: `254` (+42), Rank Change: `0` ([File](../ai/community/gcc-steering-committee-announces-ai-policy.md))
+- **TEN-framework/ten-framework** - Score: `0` (0), Rank Change: `+976` ([File](../ai/agents/ten-framework-ten-framework.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+983` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` (0), Rank Change: `+1507` ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+982` ([File](../ai/rag/malonge-ragoo.md))
+- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - Score: `0` (0), Rank Change: `+62` ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
+- **Sunsetting Create React App** - Score: `0` (0), Rank Change: `+62` ([File](../ai/rag/sunsetting-create-react-app.md))
+- **Salesforce/wikitext** - Score: `0` (0), Rank Change: `+6` ([File](../ai/models/huggingface-datasets-salesforce.md))
+- **ayuo/hd_tmp** - Score: `0` (0), Rank Change: `+6` ([File](../ai/models/huggingface-datasets-ayuo.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **infiniflow/ragflow** - (Rank Change: `+12774`) ([File](../ai/rag/infiniflow-ragflow-2.md))
-- **monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1** - (Rank Change: `+973`) ([File](../ai/rag/monday-service-langsmith-building-a-code-first-eva.md))
-- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+973`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
-- **promptfoo/promptfoo-action** - (Rank Change: `+973`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
-- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+973`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
-- **Understanding RAG from Scratch | martinuke0's Blog** - (Rank Change: `+973`) ([File](../ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md))
-- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+973`) ([File](../ai/rag/arxiv-2606-29031.md))
-- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+973`) ([File](../ai/research/arxiv-2606-26428.md))
-- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+973`) ([File](../ai/research/arxiv-2606-21887.md))
-- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+973`) ([File](../ai/rag/arxiv-2606-09677.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - (Rank Change: `+1507`) ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - (Rank Change: `+983`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **malonge/RaGOO** - (Rank Change: `+982`) ([File](../ai/rag/malonge-ragoo.md))
+- **TEN-framework/ten-framework** - (Rank Change: `+976`) ([File](../ai/agents/ten-framework-ten-framework.md))
+- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - (Rank Change: `+62`) ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
+- **Sunsetting Create React App** - (Rank Change: `+62`) ([File](../ai/rag/sunsetting-create-react-app.md))
+- **Salesforce/wikitext** - (Rank Change: `+6`) ([File](../ai/models/huggingface-datasets-salesforce.md))
+- **ayuo/hd_tmp** - (Rank Change: `+6`) ([File](../ai/models/huggingface-datasets-ayuo.md))
+- **allenai/c4** - (Rank Change: `+6`) ([File](../ai/models/huggingface-datasets-allenai.md))
+- **ryanmarten/OpenThoughts-1k-sample** - (Rank Change: `+6`) ([File](../ai/models/huggingface-datasets-ryanmarten.md))
 
 ## 🔄 Essential Tier Transitions
 

@@ -4,24 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TEN-framework/ten-framework
-collected_at: '2026-07-30T14:23:07.996108+05:30'
-published_at: '2026-07-30T06:10:37Z'
+collected_at: '2026-07-31T09:23:01.824480+05:30'
+published_at: '2026-07-31T03:30:35Z'
 tags:
 - agents
 - github-repo
 - python
 - youtube
-stars: 10983
+stars: 10986
 language: Python
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2024-06-19T14:26:15Z'
-pushed_at: '2026-07-30T08:53:06Z'
+pushed_at: '2026-07-31T03:30:57Z'
 resource_id: github:ten-framework/ten-framework
-first_seen: '2026-07-30T14:23:07.996108+05:30'
-last_seen: '2026-07-30T14:23:07.996108+05:30'
-last_checked: '2026-07-30T14:23:07.996108+05:30'
+first_seen: '2026-07-31T09:23:01.824480+05:30'
+last_seen: '2026-07-31T09:23:01.824480+05:30'
+last_checked: '2026-07-31T09:23:01.824480+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Python-based open-source framework for conversational voice AI agent development.
-*   Supports multi-modal, real-time interactions, encompassing voice and video processing.
-*   Designed for building AI agents requiring real-time conversational and multi-modal capabilities.
+*   Python-based open-source framework for building conversational voice AI agents.
+*   Enables multi-modal AI interactions, integrating real-time voice and video processing.
+*   Optimized for real-time operational deployment of AI agent systems.
 
 ## Why It Matters
 
@@ -40,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TEN-framework
-- Stars: 10983
-- Forks: 1338
+- Stars: 10986
+- Forks: 1339
 - Language: Python
 - Topics: ai, multi-modal, real-time, video, voice
-- Last Updated: 2026-07-30T06:10:37Z
+- Last Updated: 2026-07-31T03:30:35Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-06-19T14:26:15Z
-- Pushed At: 2026-07-30T08:53:06Z
+- Pushed At: 2026-07-31T03:30:57Z
 
 ## Possible Use Cases
 
