@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-137%2C944-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-78%2C644-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--31-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **137,944 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **78,644 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 16,119</p>
-        <p><b>Active:</b> 15,698 | <b>Inactive:</b> 421</p>
+        <p><b>Resources tracked:</b> 15,151</p>
+        <p><b>Active:</b> 14,730 | <b>Inactive:</b> 421</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 60,415</p>
+        <p><b>Archive Files:</b> 2,061</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 137,944 files</p>
-        <p><b>Last Update:</b> 2026-07-31 22:47 IST</p>
+        <p><b>Total Vault Size:</b> 78,644 files</p>
+        <p><b>Last Update:</b> 2026-07-31 23:56 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,22 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Google fixed more Chrome bugs in June than over the past two years, thanks to AI](ai/community/google-fixed-more-chrome-bugs-in-june-than-over-th.md)** • <kbd>+130 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Situational Awareness down 67% in July in AI stock rout](ai/community/situational-awareness-down-67-in-july-in-ai-stock.md)** • <kbd>+47 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+971</kbd>
-- 🔼 **[Wan-AI/Wan2.2-Animate](ai/models/huggingface-spaces-wan-ai.md)** • Rank: <kbd>+67</kbd>
+- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+968</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** • Rank: <kbd>+968</kbd>
+- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+968</kbd>
+- 🔼 **[TracecatHQ/tracecat](ai/rag/tracecathq-tracecat.md)** • Rank: <kbd>+968</kbd>
+- 🔼 **[wgcyeo/UniversalRAG](ai/rag/wgcyeo-universalrag.md)** • Rank: <kbd>+968</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Is AI reasoning right for the wrong reasons?](ai/community/is-ai-reasoning-right-for-the-wrong-reasons.md)** • Score: `62`
-- 🆕 **[13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS](ai/community/13-models-and-4-agents-on-swe-tasks-go-java-python.md)** • Score: `9`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[GCC steering committee announces AI policy](ai/community/gcc-steering-committee-announces-ai-policy.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
