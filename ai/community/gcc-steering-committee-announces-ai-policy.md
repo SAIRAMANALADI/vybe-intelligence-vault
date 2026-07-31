@@ -13,13 +13,14 @@ collected_at: '2026-07-31T20:04:55.151899+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:gcc-steering-committee-announces-ai-policy
 first_seen: '2026-07-30T20:01:27.263386+05:30'
 last_seen: '2026-07-31T20:04:55.151899+05:30'
 last_checked: '2026-07-31T20:04:55.151899+05:30'
 health_score: 100
 ---
+
 
 # GCC steering committee announces AI policy
 

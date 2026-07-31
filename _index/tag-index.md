@@ -16,6 +16,7 @@ Resources organized by keyword tags.
   - [0xSteph/pentest-ai-agents](../ai/agents/0xsteph-pentest-ai-agents.md)
   - [1-Click RCE To Steal Your OpenClaw Data and Keys (CVE-2026-25253) | depthfirst](../ai/rag/1-click-rce-to-steal-your-openclaw-data-and-keys-c.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
+  - [13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS](../ai/community/13-models-and-4-agents-on-swe-tasks-go-java-python.md)
   - [15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Blog](../ai/agents/15-updates-from-google-i-o-2026-powering-the-agent.md)
   - [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md)
   - [2.5-D Decomposition for LLM-Based Spatial Construction](../ai/agents/arxiv-2605-07066.md)
@@ -3521,9 +3522,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [GCC steering committee announces AI policy](../ai/community/gcc-steering-committee-announces-ai-policy.md)
   - [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](../ai/community/google-fixed-more-chrome-bugs-in-june-than-over-th.md)
-  - [Situational Awareness Down 67% in July in AI Stock Rout](../ai/community/situational-awareness-down-67-in-july-in-ai-stock.md)
+  - [Is AI reasoning right for the wrong reasons?](../ai/community/is-ai-reasoning-right-for-the-wrong-reasons.md)
+  - [Situational Awareness down 67% in July in AI stock rout](../ai/community/situational-awareness-down-67-in-july-in-ai-stock.md)
 
 ## animation
 
@@ -13856,6 +13857,7 @@ Resources organized by keyword tags.
   - [1. GEPA Overview - DSPy](../ai/rag/1-gepa-overview-dspy.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
   - [100 Years of Stanford Engineering](../ai/rag/100-years-of-stanford-engineering.md)
+  - [13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS](../ai/community/13-models-and-4-agents-on-swe-tasks-go-java-python.md)
   - [15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Blog](../ai/agents/15-updates-from-google-i-o-2026-powering-the-agent.md)
   - [17 U.S. Code § 107 - Limitations on exclusive rights: Fair use | U.S. Code | US Law | LII / Legal Information Institute](../ai/rag/17-u-s-code-ss-107-limitations-on-exclusive-rights.md)
   - [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md)
@@ -14617,7 +14619,6 @@ Resources organized by keyword tags.
   - [Functional programming - Wikipedia](../ai/rag/functional-programming-wikipedia.md)
   - [GAS-Leak-LLM: Genetic Algorithm-Based Suffix Optimization for Black-Box LLM Jailbreaking](../ai/research/arxiv-2606-15788.md)
   - [GATE Exam Tutorial - GeeksforGeeks](../ai/rag/gate-exam-tutorial-geeksforgeeks.md)
-  - [GCC steering committee announces AI policy](../ai/community/gcc-steering-committee-announces-ai-policy.md)
   - [GDPR FAQs | Cloudflare](../ai/rag/cloudflare-and-gdpr-compliance-cloudflare.md)
   - [GEAR | Google Developer Program | Google for Developers](../ai/agents/gear-google-developer-program-google-for-developer.md)
   - [GEO Week News | Lidar, AEC, 3D Technology & Geospatial Insights](../ai/rag/geo-week-news-lidar-aec-3d-technology-geospatial-i.md)
@@ -14899,6 +14900,7 @@ Resources organized by keyword tags.
   - [Introduction · Hugging Face](../ai/rag/huggingface-learn-llm-course.md)
   - [InvWeaver: Deductive Feedback for Invariant Synthesis in Interacting-Loop Programs](../ai/research/arxiv-2607-05478.md)
   - [Investigation of Polycystic Ovary Syndrome (PCOS) Diagnosis Using Machine Learning Approaches](../ai/research/arxiv-2607-16941.md)
+  - [Is AI reasoning right for the wrong reasons?](../ai/community/is-ai-reasoning-right-for-the-wrong-reasons.md)
   - [Is My Vision-Language Data in Your AI? Membership Inference Test (MINT) Demo 2](../ai/research/arxiv-2606-14748.md)
   - [JAMS: Mediation, Arbitration and ADR Services](../ai/resources/jams-mediation-arbitration-and-adr-services.md)
   - [JDK Release Notes](../ai/resources/jdk-release-notes.md)
@@ -15588,7 +15590,7 @@ Resources organized by keyword tags.
   - [Simple Domain Generalization Methods are Strong Baselines for Open Domain Generalization](../ai/research/arxiv-2303-18031.md)
   - [Simplicity Paradox: Debunking myths about prompting and datasets for LLM evaluation](../ai/research/arxiv-2607-14109.md)
   - [Simplicity Suffices for Parameter Noise Injection in Stochastic Gradient Descent](../ai/rag/arxiv-2606-12054.md)
-  - [Situational Awareness Down 67% in July in AI Stock Rout](../ai/community/situational-awareness-down-67-in-july-in-ai-stock.md)
+  - [Situational Awareness down 67% in July in AI stock rout](../ai/community/situational-awareness-down-67-in-july-in-ai-stock.md)
   - [SketchXplain: Intuitive Visual Explanations of Image Classifiers with Sketches](../ai/research/arxiv-2606-17646.md)
   - [SkillCenter: A Large-Scale Source-Grounded Skill Library for Autonomous AI Agents](../ai/agents/arxiv-2607-07676.md)
   - [SkillSieve: A Hierarchical Triage Framework for Detecting Malicious AI Agent Skills](../ai/rag/arxiv-2604-06550.md)
@@ -16082,6 +16084,7 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -23803,6 +23806,7 @@ Resources organized by keyword tags.
   - [1. GEPA Overview - DSPy](../ai/rag/1-gepa-overview-dspy.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
   - [100 Years of Stanford Engineering](../ai/rag/100-years-of-stanford-engineering.md)
+  - [13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS](../ai/community/13-models-and-4-agents-on-swe-tasks-go-java-python.md)
   - [17 U.S. Code § 107 - Limitations on exclusive rights: Fair use | U.S. Code | US Law | LII / Legal Information Institute](../ai/rag/17-u-s-code-ss-107-limitations-on-exclusive-rights.md)
   - [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md)
   - [2.3 to 2.4 | Dovecot CE](../ai/rag/2-3-to-2-4-dovecot-ce.md)
@@ -35838,4 +35842,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-07-31T20:22:09.526682+05:30*
+*Index generated on 2026-07-31T22:44:53.117211+05:30*

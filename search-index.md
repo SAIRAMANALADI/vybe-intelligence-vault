@@ -18445,6 +18445,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `anthropic`, `benchmark`, `hackernews`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://dspy.ai/api/optimizers/GEPA/overview>
 
+* **[13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS](ai/community/13-models-and-4-agents-on-swe-tasks-go-java-python.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by ibragim_bad. Score: 9, Comments: 3. Original Link: https://swe-rebench.com
+  * Tags: `agents`, `hackernews`, `rag`
+  * Source URL: <https://swe-rebench.com>
+
 * **[7 Best GitHub Repositories For Mastering RAG Systems](ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)** (`framework` | `useful` tier)
   * Summary: * Retrieval-Augmented Generation (RAG) systems enhance Large Language Models (LLMs) by integrating external, contextually relevant data from knowledge bases, mitigating knowledge cut-off and hallucination for improved response accuracy and domain spe
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `producthunt`, `rag`, `reddit`, `scripts`, `threejs`, `web-crawled`, `workflows`
@@ -19790,11 +19795,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `github-repo`, `python`, `rag`, `scripts`, `workflows`
   * Source URL: <https://github.com/fzn0x/watchtower>
 
-* **[GCC steering committee announces AI policy](ai/community/gcc-steering-committee-announces-ai-policy.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by arto. Score: 324, Comments: 369. Original Link: https://lwn.net/Articles/1086041/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://lwn.net/articles/1086041>
-
 * **[Gemini Apps Privacy Hub - Gemini Apps Help](ai/rag/gemini-apps-privacy-hub-gemini-apps-help.md)** (`prompt` | `useful` tier)
   * Summary: - **Data Collection Scope**: Collects explicit user inputs (prompts, files, audio/video transcripts, feedback) and passive metadata (device identifiers, browser/OS settings, interaction logs, location data, subscription info) to power Gemini’s genera
   * Tags: `agents`, `deepmind`, `hackernews`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
@@ -19986,7 +19986,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://blog.google/innovation-and-ai/technology/developers-tools/google-ai-studio-io-2026>
 
 * **[Google fixed more Chrome bugs in June than over the past two years, thanks to AI](ai/community/google-fixed-more-chrome-bugs-in-june-than-over-th.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Garbage. Score: 267, Comments: 240. Original Link: https://blog.google/security/chrome-stronger-with-every-update/
+  * Summary: Hacker News story by Garbage. Score: 397, Comments: 383. Original Link: https://blog.google/security/chrome-stronger-with-every-update/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://blog.google/security/chrome-stronger-with-every-update>
 
@@ -20314,6 +20314,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Interactive Python Shell & Jupyter Kernel**: Provides an enhanced interactive Python shell with comprehensive object introspection, persistent input history, and caching of output results, alongside a Jupyter kernel enabling Python code execution
   * Tags: `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://ipython.readthedocs.io/en/stable>
+
+* **[Is AI reasoning right for the wrong reasons?](ai/community/is-ai-reasoning-right-for-the-wrong-reasons.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by retupmoc01. Score: 62, Comments: 65. Original Link: https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731>
 
 * **[Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking](ai/rag/arxiv-2602-24009.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.24009v4 Announce Type: replace-cross Abstract: Jailbreak techniques for large language models (LLMs) evolve faster than benchmarks, making robustness estimates stale and difficult to compare across papers due to drift in datasets, harnesse
@@ -21480,8 +21485,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.apple.com/sitemap/>
 
-* **[Situational Awareness Down 67% in July in AI Stock Rout](ai/community/situational-awareness-down-67-in-july-in-ai-stock.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by pondsider. Score: 58, Comments: 56. Original Link: https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f
+* **[Situational Awareness down 67% in July in AI stock rout](ai/community/situational-awareness-down-67-in-july-in-ai-stock.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by pondsider. Score: 105, Comments: 104. Original Link: https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f
   * Tags: `ai`, `hackernews`
   * Source URL: <https://wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f>
 
@@ -88335,7 +88340,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02825>
 
 * **[jbilcke-hf/ai-comic-factory](ai/models/huggingface-spaces-jbilcke-hf.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11196, Downloads: 0)
+  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11197, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/jbilcke-hf>
 
@@ -98574,7 +98579,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.05259>
 
 * **[Salesforce/wikitext](ai/models/huggingface-datasets-salesforce.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: Salesforce/wikitext (Likes: 754, Downloads: 1478311)
+  * Summary: Trending Hugging Face dataset: Salesforce/wikitext (Likes: 755, Downloads: 1478311)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/salesforce>
 
@@ -107887,6 +107892,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `hackernews`, `paper`
   * Source URL: <https://arxiv.org/abs/2505.13518>
 
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
+  * Summary: * Comprehensive tutorial series on large language model (LLM) application development, targeting novice developers. * Emphasizes practical implementation of Retrieval-Augmented Generation (RAG) architectures utilizing the LangChain framework. * Conte
+  * Tags: `github-repo`, `jupyter notebook`, `rag`
+  * Source URL: <https://github.com/datawhalechina/llm-universe>
+
 * **[Design Methodology and Performance Trade-offs Management for Distributed and Compound AI Systems](ai/research/arxiv-2606-14350.md)** (`tutorial` | `useful` tier)
   * Summary: arXiv:2606.14350v1 Announce Type: cross Abstract: Artificial Intelligence (AI) systems must typically satisfy service-level objectives including accuracy, latency, and cost. The prevailing model-centric approaches select a monolithic model at design
   * Tags: `hackernews`, `workflows`
@@ -111740,7 +111750,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/GenAIOps-project-template>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3293, Downloads: 35251929)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3294, Downloads: 35251929)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
@@ -113444,20 +113454,15 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tutorial` | `useful` tier)
-  * Summary: * Comprehensive, full-stack guide for RAG application development, emphasizing practical implementation.
-  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
+  * Summary: * Comprehensive, full-stack guide to Retrieval-Augmented Generation (RAG) technology. * Demonstrates RAG implementation using frameworks like LangChain and LlamaIndex, integrating vector databases (Milvus), graph databases (Neo4j), and diverse LLMs (
+  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
   * Summary: - **Educational Repository**: Provides a comprehensive tutorial in Chinese titled *"从零开始构建智能体"* (Building Agents from Scratch), covering foundational principles and practical implementations of AI agents. - **Technical Focus**: Covers key AI agent co
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
-
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tool` | `useful` tier)
-  * Summary: * Comprehensive curriculum for large language model (LLM) application development. *
-  * Tags: `github-repo`, `jupyter notebook`, `rag`
-  * Source URL: <https://github.com/datawhalechina/llm-universe>
 
 * **[datawhalechina/wow-rag](ai/rag/datawhalechina-wow-rag.md)** (`framework` | `useful` tier)
   * Summary: - **Framework Design**: Implements a cross-platform RAG (Retrieval-Augmented Generation) framework with modular components for document ingestion, retrieval, and generation, optimized for Jupyter Notebook environments. - **Tutorial Integration**: Pro
@@ -120429,7 +120434,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://superml.org/tutorials/rag-beginner>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll source repository for `raganwald.com`. * Deployed as a GitHub Pages site, indicated by the `raganwald.github.com` repository name. *
+  * Summary: * Jekyll source repository for a `raganwald.com` GitHub Pages deployment.
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 

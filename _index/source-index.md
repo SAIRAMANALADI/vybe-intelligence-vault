@@ -12482,9 +12482,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [GCC steering committee announces AI policy](../ai/community/gcc-steering-committee-announces-ai-policy.md)
+  - [13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS](../ai/community/13-models-and-4-agents-on-swe-tasks-go-java-python.md)
   - [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](../ai/community/google-fixed-more-chrome-bugs-in-june-than-over-th.md)
-  - [Situational Awareness Down 67% in July in AI Stock Rout](../ai/community/situational-awareness-down-67-in-july-in-ai-stock.md)
+  - [Is AI reasoning right for the wrong reasons?](../ai/community/is-ai-reasoning-right-for-the-wrong-reasons.md)
+  - [Situational Awareness down 67% in July in AI stock rout](../ai/community/situational-awareness-down-67-in-july-in-ai-stock.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -15742,4 +15743,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-31T20:22:09.699896+05:30*
+*Index generated on 2026-07-31T22:44:53.294543+05:30*
