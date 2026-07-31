@@ -6,7 +6,7 @@
     "ai-browser-computer-use": 2759,
     "ai-coding-agents": 2445,
     "ai-tools-products": 109,
-    "automation-workflows": 1275,
+    "automation-workflows": 1276,
     "datasets": 8644,
     "evals-and-benchmarks": 11988,
     "frontend-ai-ui": 177,
@@ -21,10 +21,10 @@
     "project-ideas": 119,
     "prompt-libraries": 123,
     "public-apis": 31,
-    "rag-systems": 12583,
+    "rag-systems": 12582,
     "startup-builder": 134,
     "vector-databases": 4739,
     "webdev-3d-creative": 125
   },
-  "last_updated": "2026-08-01T01:41:01.712893+05:30"
+  "last_updated": "2026-08-01T04:05:56.582357+05:30"
 }

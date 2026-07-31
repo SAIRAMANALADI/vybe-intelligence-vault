@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-01T03:40:06.652320+05:30`
+Generated at: `2026-08-01T04:07:00.154945+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,34 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **Predictive Speculative KV Replication for Bursty LLM Inference** - Score: `9` in category `ai/community` ([Link](https://jwlabs.vercel.app/post/biting-the-bullet)) ([File](../ai/community/predictive-speculative-kv-replication-for-bursty-l.md))
+- **Thomson Reuters built its own AI model that now ranks among the best** - Score: `5` in category `ai/community` ([Link](https://thomsonreuters.com/en-us/posts/innovation/thomson-reuters-built-its-own-ai-model-that-now-ranks-among-the-worlds-best)) ([File](../ai/community/thomson-reuters-built-its-own-ai-model-that-now-ra.md))
 
 ## Top Trending Resources
 
-- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+968` ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+968` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+968` ([File](../ai/rag/particlemedia-ragtruth.md))
-- **TracecatHQ/tracecat** - Score: `0` (0), Rank Change: `+968` ([File](../ai/rag/tracecathq-tracecat.md))
-- **wgcyeo/UniversalRAG** - Score: `0` (0), Rank Change: `+968` ([File](../ai/rag/wgcyeo-universalrag.md))
-- **DEEP-PolyU/LinearRAG** - Score: `0` (0), Rank Change: `+968` ([File](../ai/rag/deep-polyu-linearrag.md))
-- **bakrianoo/mini-rag** - Score: `0` (0), Rank Change: `+968` ([File](../ai/rag/bakrianoo-mini-rag.md))
-- **olegnazarov/rag-security-scanner** - Score: `0` (0), Rank Change: `+968` ([File](../ai/rag/olegnazarov-rag-security-scanner.md))
-- **Azure/agent-innovator-lab** - Score: `0` (0), Rank Change: `+969` ([File](../ai/rag/azure-agent-innovator-lab.md))
-- **jxzhangjhu/Awesome-LLM-RAG** - Score: `0` (0), Rank Change: `+969` ([File](../ai/rag/jxzhangjhu-awesome-llm-rag.md))
+- **Tailscale didn't stop the Hugging Face intrusion** - Score: `270` (+214), Rank Change: `0` ([File](../ai/community/tailscale-didn-t-stop-the-hugging-face-intrusion.md))
+- **Golang proposal: container/: generic collection types** - Score: `84` (+62), Rank Change: `+2` ([File](../ai/community/golang-go.md))
+- **Everyone is building LLM routers, we deprecated ours** - Score: `69` (+46), Rank Change: `0` ([File](../ai/community/everyone-is-building-llm-routers-we-deprecated-our.md))
+- **Using the railway network as a flatbed scanner [video]** - Score: `38` (+27), Rank Change: `+1` ([File](../ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md))
+- **Orca-Bench: How Ready Are Language Model Agents for Oncall?** - Score: `20` (+11), Rank Change: `+1` ([File](../ai/community/arxiv-2607-28545.md))
+- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/malonge-ragoo.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+971` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **Search & information retrieval** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/search-information-retrieval.md))
+- **Human language technologies** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/human-language-technologies.md))
+- **Human-computer interaction** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/human-computer-interaction.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **infiniflow/ragflow** - (Rank Change: `+12765`) ([File](../ai/rag/infiniflow-ragflow-2.md))
-- **monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1** - (Rank Change: `+970`) ([File](../ai/rag/monday-service-langsmith-building-a-code-first-eva.md))
-- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+970`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
-- **promptfoo/promptfoo-action** - (Rank Change: `+970`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
-- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+970`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
-- **Understanding RAG from Scratch | martinuke0's Blog** - (Rank Change: `+970`) ([File](../ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md))
-- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+970`) ([File](../ai/rag/arxiv-2606-29031.md))
-- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+970`) ([File](../ai/research/arxiv-2606-26428.md))
-- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+970`) ([File](../ai/research/arxiv-2606-21887.md))
-- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+970`) ([File](../ai/rag/arxiv-2606-09677.md))
+- **raganwald/raganwald.github.com** - (Rank Change: `+971`) ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **Jul 14, 2026AnnouncementsAnthropic commits $10 million to Canadian AI research** - (Rank Change: `+67`) ([File](../ai/companies/anthropic/jul-14-2026announcementsanthropic-commits-10-milli.md))
+- **Jul 14, 2026ProductIntroducing Claude for Teachers** - (Rank Change: `+67`) ([File](../ai/companies/anthropic/jul-14-2026productintroducing-claude-for-teachers.md))
+- **Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants** - (Rank Change: `+67`) ([File](../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md))
+- **Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action** - (Rank Change: `+67`) ([File](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md))
+- **Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index** - (Rank Change: `+67`) ([File](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md))
+- **Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund** - (Rank Change: `+67`) ([File](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md))
+- **Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients** - (Rank Change: `+67`) ([File](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md))
+- **Jul 27, 2026AnnouncementsOur position on open-weights models** - (Rank Change: `+67`) ([File](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md))
+- **Jul 30, 2026Frontier Red TeamInvestigating three real-world incidents in our cybersecurity evaluations** - (Rank Change: `+67`) ([File](../ai/companies/anthropic/jul-30-2026frontier-red-teaminvestigating-three-re.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +46,4 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS** (Category: `ai/community`) ([File](../ai/community/13-models-and-4-agents-on-swe-tasks-go-java-python.md))

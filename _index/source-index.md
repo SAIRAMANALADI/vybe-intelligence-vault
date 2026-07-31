@@ -12482,11 +12482,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS](../ai/community/13-models-and-4-agents-on-swe-tasks-go-java-python.md)
   - [Everyone is building LLM routers, we deprecated ours](../ai/community/everyone-is-building-llm-routers-we-deprecated-our.md)
   - [Golang proposal: container/: generic collection types](../ai/community/golang-go.md)
   - [Orca-Bench: How Ready Are Language Model Agents for Oncall?](../ai/community/arxiv-2607-28545.md)
+  - [Predictive Speculative KV Replication for Bursty LLM Inference](../ai/community/predictive-speculative-kv-replication-for-bursty-l.md)
   - [Tailscale didn't stop the Hugging Face intrusion](../ai/community/tailscale-didn-t-stop-the-hugging-face-intrusion.md)
+  - [Thomson Reuters built its own AI model that now ranks among the best](../ai/community/thomson-reuters-built-its-own-ai-model-that-now-ra.md)
   - [Using the railway network as a flatbed scanner [video]](../ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md)
 
 ## Unknown Source (type: huggingface)
@@ -15745,4 +15746,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-08-01T01:39:43.144455+05:30*
+*Index generated on 2026-08-01T04:04:21.907985+05:30*

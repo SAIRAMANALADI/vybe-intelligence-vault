@@ -14,13 +14,14 @@ tags:
 - agents
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:13-models-and-4-agents-on-swe-tasks-go-java-python
 first_seen: '2026-07-31T22:27:43.872413+05:30'
 last_seen: '2026-08-01T01:22:51.332522+05:30'
 last_checked: '2026-08-01T01:22:51.332522+05:30'
 health_score: 100
 ---
+
 
 # 13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS
 

@@ -16,7 +16,6 @@ Resources organized by keyword tags.
   - [0xSteph/pentest-ai-agents](../ai/agents/0xsteph-pentest-ai-agents.md)
   - [1-Click RCE To Steal Your OpenClaw Data and Keys (CVE-2026-25253) | depthfirst](../ai/rag/1-click-rce-to-steal-your-openclaw-data-and-keys-c.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
-  - [13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS](../ai/community/13-models-and-4-agents-on-swe-tasks-go-java-python.md)
   - [15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Blog](../ai/agents/15-updates-from-google-i-o-2026-powering-the-agent.md)
   - [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md)
   - [2.5-D Decomposition for LLM-Based Spatial Construction](../ai/agents/arxiv-2605-07066.md)
@@ -3525,6 +3524,7 @@ Resources organized by keyword tags.
 
   - [Golang proposal: container/: generic collection types](../ai/community/golang-go.md)
   - [Tailscale didn't stop the Hugging Face intrusion](../ai/community/tailscale-didn-t-stop-the-hugging-face-intrusion.md)
+  - [Thomson Reuters built its own AI model that now ranks among the best](../ai/community/thomson-reuters-built-its-own-ai-model-that-now-ra.md)
   - [Using the railway network as a flatbed scanner [video]](../ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md)
 
 ## animation
@@ -13858,7 +13858,6 @@ Resources organized by keyword tags.
   - [1. GEPA Overview - DSPy](../ai/rag/1-gepa-overview-dspy.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
   - [100 Years of Stanford Engineering](../ai/rag/100-years-of-stanford-engineering.md)
-  - [13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS](../ai/community/13-models-and-4-agents-on-swe-tasks-go-java-python.md)
   - [15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Blog](../ai/agents/15-updates-from-google-i-o-2026-powering-the-agent.md)
   - [17 U.S. Code § 107 - Limitations on exclusive rights: Fair use | U.S. Code | US Law | LII / Legal Information Institute](../ai/rag/17-u-s-code-ss-107-limitations-on-exclusive-rights.md)
   - [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md)
@@ -15317,6 +15316,7 @@ Resources organized by keyword tags.
   - [Predicting Male Fertility Using Machine Learning: A Semen Parameters Based Analysis with the VISEM Dataset](../ai/research/arxiv-2607-08429.md)
   - [Predicting the Outcome of rTMS Depression Therapy using EEG Signals and CNN](../ai/research/arxiv-2607-22776.md)
   - [Predictive Analytics in E-Commerce for CustomerBehavior Forecasting using hybrid Ret-DNN withXGBoost Model](../ai/research/arxiv-2606-17931.md)
+  - [Predictive Speculative KV Replication for Bursty LLM Inference](../ai/community/predictive-speculative-kv-replication-for-bursty-l.md)
   - [Preference-based Antibody Expression Ranking: Scaling with Large-scale Weak Supervision](../ai/research/arxiv-2607-16263.md)
   - [Prerender pages in Chrome for instant page navigations | Web Platform | Chrome for Developers](../web-development/prerender-pages-in-chrome-for-instant-page-navigat.md)
   - [Presenter Capabilities | Knowledge Base](../ai/resources/presenter-capabilities-knowledge-base.md)
@@ -15788,6 +15788,7 @@ Resources organized by keyword tags.
   - [Theory-to-Practice Gap for Neural Networks and Neural Operators](../ai/research/arxiv-2503-18219.md)
   - [Think at 5 Hz, Act at 20 Hz: Asynchronous Fast-Slow Vision-Language-Action Inference for Closed-Loop Driving](../ai/agents/arxiv-2607-15621.md)
   - [Thinking Outside the [Chat]Box: Bridging Computer Science and Industrial Design for Cognitive-Inclusive Generative AI](../ai/rag/arxiv-2606-14306.md)
+  - [Thomson Reuters built its own AI model that now ranks among the best](../ai/community/thomson-reuters-built-its-own-ai-model-that-now-ra.md)
   - [Tightening the Score Matching Gap for Diffusion Models](../ai/research/arxiv-2607-04442.md)
   - [Tim Kadlec](../ai/rag/tim-kadlec.md)
   - [To Erase, or Not to Erase: Robust Training-Free Concept Erasure with Preservation aware Adaptive Ranked Subspace Expansion](../ai/research/arxiv-2607-23492.md)
@@ -16087,7 +16088,6 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -16641,6 +16641,7 @@ Resources organized by keyword tags.
 ## llm
 
   - [Everyone is building LLM routers, we deprecated ours](../ai/community/everyone-is-building-llm-routers-we-deprecated-our.md)
+  - [Predictive Speculative KV Replication for Bursty LLM Inference](../ai/community/predictive-speculative-kv-replication-for-bursty-l.md)
 
 ## mdx
 
@@ -23814,7 +23815,6 @@ Resources organized by keyword tags.
   - [1. GEPA Overview - DSPy](../ai/rag/1-gepa-overview-dspy.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
   - [100 Years of Stanford Engineering](../ai/rag/100-years-of-stanford-engineering.md)
-  - [13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS](../ai/community/13-models-and-4-agents-on-swe-tasks-go-java-python.md)
   - [17 U.S. Code § 107 - Limitations on exclusive rights: Fair use | U.S. Code | US Law | LII / Legal Information Institute](../ai/rag/17-u-s-code-ss-107-limitations-on-exclusive-rights.md)
   - [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md)
   - [2.3 to 2.4 | Dovecot CE](../ai/rag/2-3-to-2-4-dovecot-ce.md)
@@ -35853,4 +35853,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-08-01T01:39:42.986030+05:30*
+*Index generated on 2026-08-01T04:04:21.741218+05:30*

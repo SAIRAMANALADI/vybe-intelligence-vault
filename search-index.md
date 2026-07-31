@@ -18445,11 +18445,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `anthropic`, `benchmark`, `hackernews`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://dspy.ai/api/optimizers/GEPA/overview>
 
-* **[13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS](ai/community/13-models-and-4-agents-on-swe-tasks-go-java-python.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by ibragim_bad. Score: 30, Comments: 11. Original Link: https://swe-rebench.com
-  * Tags: `agents`, `hackernews`, `rag`
-  * Source URL: <https://swe-rebench.com>
-
 * **[7 Best GitHub Repositories For Mastering RAG Systems](ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)** (`framework` | `useful` tier)
   * Summary: * Retrieval-Augmented Generation (RAG) systems enhance Large Language Models (LLMs) by integrating external, contextually relevant data from knowledge bases, mitigating knowledge cut-off and hallucination for improved response accuracy and domain spe
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `producthunt`, `rag`, `reddit`, `scripts`, `threejs`, `web-crawled`, `workflows`
@@ -19576,7 +19571,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.06820>
 
 * **[Everyone is building LLM routers, we deprecated ours](ai/community/everyone-is-building-llm-routers-we-deprecated-our.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by brunaxLorax. Score: 23, Comments: 11. Original Link: https://manifest.build/blog/why-we-deprecated-our-llm-router/
+  * Summary: Hacker News story by brunaxLorax. Score: 69, Comments: 38. Original Link: https://manifest.build/blog/why-we-deprecated-our-llm-router/
   * Tags: `hackernews`, `llm`, `models`, `reddit`
   * Source URL: <https://manifest.build/blog/why-we-deprecated-our-llm-router>
 
@@ -19981,7 +19976,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://docs.godotengine.org/>
 
 * **[Golang proposal: container/: generic collection types](ai/community/golang-go.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by jabits. Score: 22, Comments: 2. Original Link: https://github.com/golang/go/issues/80590
+  * Summary: Hacker News story by jabits. Score: 84, Comments: 44. Original Link: https://github.com/golang/go/issues/80590
   * Tags: `ai`, `hackernews`, `reddit`
   * Source URL: <https://github.com/golang/go>
 
@@ -20916,7 +20911,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.databricks.com/blog/optimizing-databricks-llm-pipelines-dspy>
 
 * **[Orca-Bench: How Ready Are Language Model Agents for Oncall?](ai/community/arxiv-2607-28545.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by yruzin. Score: 9, Comments: 3. Original Link: https://arxiv.org/abs/2607.28545
+  * Summary: Hacker News story by yruzin. Score: 20, Comments: 6. Original Link: https://arxiv.org/abs/2607.28545
   * Tags: `agents`, `hackernews`
   * Source URL: <https://arxiv.org/abs/2607.28545>
 
@@ -21069,6 +21064,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.00491v2 Announce Type: replace-cross Abstract: Deep learning-based CT segmentation systems often achieve high accuracy on clean benchmark images, but their performance may degrade under heterogeneous clinical imaging conditions such as noi
   * Tags: `benchmark`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.00491>
+
+* **[Predictive Speculative KV Replication for Bursty LLM Inference](ai/community/predictive-speculative-kv-replication-for-bursty-l.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by shreybirmiwal. Score: 9, Comments: 0. Original Link: https://jwlabs.vercel.app/post/biting-the-bullet
+  * Tags: `hackernews`, `llm`
+  * Source URL: <https://jwlabs.vercel.app/post/biting-the-bullet>
 
 * **[Pretrained Models — Sentence Transformers documentation](ai/rag/pretrained-models-sentence-transformers-documentat.md)** (`framework` | `useful` tier)
   * Summary: - **Installation & Setup**: Supports multiple installation methods (`uv`, `pip`, `conda`, source) with optional CUDA-enabled PyTorch; editable installs available for development. - **Core Functionality**: Provides `SentenceTransformer` (bi-encoder),
@@ -21650,7 +21650,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.12387>
 
 * **[Tailscale didn't stop the Hugging Face intrusion](ai/community/tailscale-didn-t-stop-the-hugging-face-intrusion.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by bluehatbrit. Score: 56, Comments: 27. Original Link: https://tailscale.com/blog/hugging-face-intrusion
+  * Summary: Hacker News story by bluehatbrit. Score: 270, Comments: 111. Original Link: https://tailscale.com/blog/hugging-face-intrusion
   * Tags: `ai`, `hackernews`
   * Source URL: <https://tailscale.com/blog/hugging-face-intrusion>
 
@@ -21738,6 +21738,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **WebM Project Repositories**: Hosts open-source projects including `libvpx` (VP8/VP9 codec SDK), `libwebm` (WebM file parser), and `webm-tools` (alpha-channel, encryption, streaming tools), all managed via Git and Chromium Gerrit for code reviews
   * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.webmproject.org/code/#webp-repositories>
+
+* **[Thomson Reuters built its own AI model that now ranks among the best](ai/community/thomson-reuters-built-its-own-ai-model-that-now-ra.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by Cynddl. Score: 5, Comments: 0. Original Link: https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-built-its-own-ai-model-that-now-ranks-among-the-worlds-best/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://thomsonreuters.com/en-us/posts/innovation/thomson-reuters-built-its-own-ai-model-that-now-ranks-among-the-worlds-best>
 
 * **[Three-Phase Evaluation of AI-Assisted Software Development Life Cycle](ai/research/arxiv-2607-05125.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.05125v1 Announce Type: cross Abstract: This paper presents an exploratory evaluation of how increasing levels of AI autonomy affect software development productivity, requirement adherence, and developer cognitive workload. A team of four
@@ -21975,7 +21980,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://support.zendesk.com/hc/en-us/articles/6267360002714-Using-generative-AI-to-expand-and-enhance-help-center-content>
 
 * **[Using the railway network as a flatbed scanner [video]](ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Jimmc414. Score: 11, Comments: 3. Original Link: https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner
+  * Summary: Hacker News story by Jimmc414. Score: 38, Comments: 14. Original Link: https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner
   * Tags: `ai`, `hackernews`, `youtube`
   * Source URL: <https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner>
 
@@ -113459,9 +113464,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`dataset` | `useful` tier)
-  * Summary: * Provides a full-stack RAG implementation guide utilizing Python, LangChain, and LlamaIndex for practical application development. * Explores diverse LLM integrations (e.g., DeepSeek, Kimi-K2) and multimodal embedding techniques within RAG architect
-  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
+  * Summary: * Comprehensive RAG development guide leveraging Python for full-stack implementation, from data ingestion to LLM integration. * Utilizes LangChain and LlamaIndex for orchestration, integrating vector databases (Milvus) and graph databases (Neo4j) fo
+  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -117958,7 +117963,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.11288>
 
 * **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** (`tool` | `useful` tier)
-  * Summary: * Python-based bioinformatics tool for genome assembly and scaffolding. * Primary function involves ordering and orienting contigs into larger genomic scaffolds. * Deprecated; development and support have transitioned to the successor project, RagTag
+  * Summary: * Deprecated Python-based bioinformatics tool for *de novo* genome assembly and scaffolding. * Functionality superseded by the RagTag project (github.com/malonge/RagTag). * Specialized in resolving genome structure through contig/scaffold ordering an
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/malonge/RaGOO>
 
@@ -120444,7 +120449,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://superml.org/tutorials/rag-beginner>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll source repository for a `raganwald.com` GitHub Pages deployment.
+  * Summary: * Jekyll source for `raganwald.com`, indicating a static site generation
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
