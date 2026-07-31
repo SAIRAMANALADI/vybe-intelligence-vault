@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 78,650 files</p>
-        <p><b>Last Update:</b> 2026-08-01 01:55 IST</p>
+        <p><b>Last Update:</b> 2026-08-01 03:40 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,27 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS](ai/community/13-models-and-4-agents-on-swe-tasks-go-java-python.md)** • <kbd>+21 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** • Rank: <kbd>+970</kbd>
-- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md)** • Rank: <kbd>+1409</kbd>
-- 🔼 **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** • Rank: <kbd>+981</kbd>
-- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+963</kbd>
+- 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+968</kbd>
+- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+968</kbd>
+- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+968</kbd>
+- 🔼 **[TracecatHQ/tracecat](ai/rag/tracecathq-tracecat.md)** • Rank: <kbd>+968</kbd>
+- 🔼 **[wgcyeo/UniversalRAG](ai/rag/wgcyeo-universalrag.md)** • Rank: <kbd>+968</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Tailscale didn't stop the Hugging Face intrusion](ai/community/tailscale-didn-t-stop-the-hugging-face-intrusion.md)** • Score: `56`
-- 🆕 **[Everyone is building LLM routers, we deprecated ours](ai/community/everyone-is-building-llm-routers-we-deprecated-our.md)** • Score: `23`
-- 🆕 **[Golang proposal: container/: generic collection types](ai/community/golang-go.md)** • Score: `22`
-- 🆕 **[Using the railway network as a flatbed scanner [video]](ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md)** • Score: `11`
-- 🆕 **[Orca-Bench: How Ready Are Language Model Agents for Oncall?](ai/community/arxiv-2607-28545.md)** • Score: `9`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Google fixed more Chrome bugs in June than over the past two years, thanks to AI](ai/community/google-fixed-more-chrome-bugs-in-june-than-over-th.md)**
-- 💤 **[Situational Awareness down 67% in July in AI stock rout](ai/community/situational-awareness-down-67-in-july-in-ai-stock.md)**
-- 💤 **[Is AI reasoning right for the wrong reasons?](ai/community/is-ai-reasoning-right-for-the-wrong-reasons.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
