@@ -12484,7 +12484,6 @@ Resources organized by publisher feed and query sources.
 
   - [GCC steering committee announces AI policy](../ai/community/gcc-steering-committee-announces-ai-policy.md)
   - [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](../ai/community/google-fixed-more-chrome-bugs-in-june-than-over-th.md)
-  - [Show HN: What should the GUI for AI agents look like?](../ai/community/show-hn-what-should-the-gui-for-ai-agents-look-lik.md)
   - [The AI Aesthetic](../ai/community/the-ai-aesthetic.md)
 
 ## Unknown Source (type: huggingface)
@@ -15292,7 +15291,6 @@ Resources organized by publisher feed and query sources.
   - [Tooty](../ai/resources/tooty.md)
   - [Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md)
   - [Top 23 rag Open-Source Projects | LibHunt](../ai/rag/top-23-rag-open-source-projects-libhunt.md)
-  - [Top 7 GitHub Repos to Master Retrieval-Augmented Generation](../ai/rag/top-7-github-repos-to-master-retrieval-augmented-g.md)
   - [Top Open Source Github Repositories for creating your own RAG | Resemble AI](../ai/rag/top-open-source-github-repositories-for-creating-y.md)
   - [Top free game assets - itch.io](../ai/rag/top-free-game-assets-itch-io.md)
   - [Top game assets tagged Fonts - itch.io](../ai/resources/top-game-assets-tagged-fonts-itch-io.md)
@@ -15744,4 +15742,4 @@ Resources organized by publisher feed and query sources.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
 
 ---
-*Index generated on 2026-07-31T15:05:25.699075+05:30*
+*Index generated on 2026-07-31T17:24:21.730041+05:30*

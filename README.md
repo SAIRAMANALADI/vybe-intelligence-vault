@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-137%2C943-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-137%2C936-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--07--31-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **137,943 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **137,936 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 16,117</p>
-        <p><b>Active:</b> 15,699 | <b>Inactive:</b> 418</p>
+        <p><b>Resources tracked:</b> 16,116</p>
+        <p><b>Active:</b> 15,697 | <b>Inactive:</b> 419</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 60,416</p>
+        <p><b>Archive Files:</b> 60,410</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 137,943 files</p>
-        <p><b>Last Update:</b> 2026-07-31 15:07 IST</p>
+        <p><b>Total Vault Size:</b> 137,936 files</p>
+        <p><b>Last Update:</b> 2026-07-31 17:26 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,27 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[The AI Aesthetic](ai/community/the-ai-aesthetic.md)** • <kbd>+123 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[GCC steering committee announces AI policy](ai/community/gcc-steering-committee-announces-ai-policy.md)** • <kbd>+37 pts</kbd>
-- 🔼 **[TracecatHQ/tracecat](ai/rag/tracecathq-tracecat.md)** • Rank: <kbd>+3738</kbd>
-- 🔼 **[wgcyeo/UniversalRAG](ai/rag/wgcyeo-universalrag.md)** • Rank: <kbd>+2570</kbd>
-- 🔼 **[DEEP-PolyU/LinearRAG](ai/rag/deep-polyu-linearrag.md)** • Rank: <kbd>+2343</kbd>
+- 🔼 **[Google fixed more Chrome bugs in June than over the past two years, thanks to AI](ai/community/google-fixed-more-chrome-bugs-in-june-than-over-th.md)** • <kbd>+95 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[The AI Aesthetic](ai/community/the-ai-aesthetic.md)** • <kbd>+18 pts</kbd>
+- 🔼 **[GCC steering committee announces AI policy](ai/community/gcc-steering-committee-announces-ai-policy.md)** • <kbd>+16 pts</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** • Rank: <kbd>+13</kbd>
+- 🔼 **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** • Rank: <kbd>+14</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Show HN: What should the GUI for AI agents look like?](ai/community/show-hn-what-should-the-gui-for-ai-agents-look-lik.md)** • Score: `46`
-- 🆕 **[Google fixed more Chrome bugs in June than over the past two years, thanks to AI](ai/community/google-fixed-more-chrome-bugs-in-june-than-over-th.md)** • Score: `39`
-- 🆕 **[Can Deep Generative Models Reproduce Non-Stationary Gaussian Random Fields?](ai/research/arxiv-2607-25929.md)** • Score: `0`
-- 🆕 **[Learning to Select, Not Relearn: Hard-Routed Mixtures of Reasoning LoRAs](ai/research/arxiv-2606-31413.md)** • Score: `0`
-- 🆕 **[Learning-Augmented Algorithms for Online Vertex Cover](ai/research/arxiv-2606-22831.md)** • Score: `0`
+- No new discoveries in this run.
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[2x, not 10x: coding with LLMs in 2026](ai/community/2x-not-10x-coding-with-llms-in-2026.md)**
-- 💤 **[Does Speaking to Agents Like Cavemen Save 65% of Tokens? We Test](ai/community/does-speaking-to-agents-like-cavemen-save-65-of-to.md)**
-- 💤 **[The bond market isn't buying what Fed Chair Warsh is selling](ai/community/the-bond-market-isn-t-buying-what-fed-chair-warsh.md)**
+- 💤 **[Show HN: What should the GUI for AI agents look like?](ai/community/show-hn-what-should-the-gui-for-ai-agents-look-lik.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

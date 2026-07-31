@@ -252,8 +252,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | globalprivacyassembly.com | 2 |
 | blog.jim-nielsen.com | 1 |
 | lwn.net | 1 |
-| marbleos.com | 1 |
-| aidailypost.com | 1 |
 | analyticsvidhya.com | 1 |
 | gerrit.googlesource.com | 1 |
 | jucs.org | 1 |

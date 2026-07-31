@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-what-should-the-gui-for-ai-agents-look-lik
 first_seen: '2026-07-31T14:47:37.690763+05:30'
 last_seen: '2026-07-31T14:47:37.690763+05:30'
 last_checked: '2026-07-31T14:47:37.690763+05:30'
 health_score: 100
 ---
+
 
 # Show HN: What should the GUI for AI agents look like?
 
