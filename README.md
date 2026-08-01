@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-140%2C733-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-81%2C277-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--01-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **140,733 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **81,277 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 16,182</p>
-        <p><b>Active:</b> 15,755 | <b>Inactive:</b> 427</p>
+        <p><b>Resources tracked:</b> 15,186</p>
+        <p><b>Active:</b> 14,759 | <b>Inactive:</b> 427</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 60,579</p>
+        <p><b>Archive Files:</b> 2,059</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 140,733 files</p>
-        <p><b>Last Update:</b> 2026-08-01 09:39 IST</p>
+        <p><b>Total Vault Size:</b> 81,277 files</p>
+        <p><b>Last Update:</b> 2026-08-01 12:00 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,28 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Tailscale didn't stop the Hugging Face intrusion](ai/community/tailscale-didn-t-stop-the-hugging-face-intrusion.md)** • <kbd>+215 pts</kbd>
-- 🔼 **[Golang proposal: container/: generic collection types](ai/community/golang-go.md)** • <kbd>+49 pts</kbd>
-- 🔼 **[Using the railway network as a flatbed scanner [video]](ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md)** • <kbd>+23 pts</kbd>
-- 🔼 **[Join | Mozilla Data Collective](ai/resources/join-mozilla-data-collective.md)** • Rank: <kbd>+10750</kbd>
-- 🔼 **[Google Account Help](ai/rag/google-account-help.md)** • Rank: <kbd>+5022</kbd>
+- 🔼 **[Chrome DevTools | Chrome for Developers](ai/rag/chrome-devtools-chrome-for-developers.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[TLS / SSL](ai/agents/tls-ssl.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[Lighthouse | Chrome for Developers](ai/resources/lighthouse-chrome-for-developers.md)** • Rank: <kbd>+4</kbd>
+- 🔼 **[How to use the CrUX BigQuery dataset | Chrome UX Report | Chrome for Developers](ai/resources/how-to-use-the-crux-bigquery-dataset-chrome-ux-rep.md)** • Rank: <kbd>+4</kbd>
+- 🔼 **[Firebase | Google's Mobile and Web App Development Platform](ai/rag/firebase-google-s-mobile-and-web-app-development-p.md)** • Rank: <kbd>+4</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Is AI reasoning right for the wrong reasons?](ai/community/is-ai-reasoning-right-for-the-wrong-reasons.md)** • Score: `131`
-- 🆕 **[The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure](ai/community/the-first-transatlantic-telegraph-cable-was-a-bold.md)** • Score: `31`
-- 🆕 **[Flint: A Visualization Language for the AI Era](ai/community/show-hn-microsoft-releases-flint-a-visualization-l.md)** • Score: `13`
-- 🆕 **[Powering People-First Technology - Mozilla Foundation](ai/resources/powering-people-first-technology-mozilla-foundatio.md)** • Score: `0`
-- 🆕 **[Nothing Personal, a new editorial platform by Mozilla Foundation - Mozilla Foundation](ai/rag/nothing-personal-a-new-editorial-platform-by-mozil.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Everyone is building LLM routers, we deprecated ours](ai/community/everyone-is-building-llm-routers-we-deprecated-our.md)**
-- 💤 **[Orca-Bench: How Ready Are Language Model Agents for Oncall?](ai/community/arxiv-2607-28545.md)**
-- 💤 **[Predictive Speculative KV Replication for Bursty LLM Inference](ai/community/predictive-speculative-kv-replication-for-bursty-l.md)**
-- 💤 **[Thomson Reuters built its own AI model that now ranks among the best](ai/community/thomson-reuters-built-its-own-ai-model-that-now-ra.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

@@ -1,75 +1,46 @@
 ---
-title: douinc/agent-skills
-content_type: repo
-engine: v2
-category: daily-digests/2026-08-01
-tech_stack:
-- JavaScript/TypeScript
-- CLI tools
-- Figma API
-- Iconify API
-- SVGL API
-- Laravel AI SDK
-- Langfuse
-- shadcn/ui
-- Next.js
-quality_score: 8
-rag_relevance: 7
-deployment_complexity: Low
-tags:
-- AI agent skills
-- modular tooling
-- Figma integration
-- UX writing
-- observability
-source: https://github.com/douinc/agent-skills
-stars: 1
-language: HTML
-last_updated: '2026-07-13T06:08:44Z'
-discovered_at: '2026-07-13T06:15:42Z'
-evaluated_by: mistral-small-latest
+title: "Jerrylu97/agent-skills"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["YAML", "Agent Frameworks (Codex, Claude Code)", "Markdown", "Python (implied for agent integration)"]
+quality_score: 7
+rag_relevance: 6
+deployment_complexity: "Low"
+tags: ["AI agent skills", "modular workflows", "logging utilities", "cross-language reasoning", "agent tooling"]
+source: "https://github.com/Jerrylu97/agent-skills"
+stars: 0
+language: "None"
+last_updated: "2026-08-01T06:15:55Z"
+discovered_at: "2026-08-01T06:29:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A collection of modular skills for AI agents like Claude Code, Copilot CLI, Codex, and Gemini CLI, enabling specialized tasks such as UX writing, design workflows, Figma integrations, and observability. Skills are installable via CLI or manual setup.
+A curated collection of modular, reusable skills designed to enhance AI coding agents and assistant workflows, such as logging project inputs, conversations, and improving cross-language reasoning.
 
 ## Key Features
-- Pre-built skills for popular AI agents (Claude, Copilot, Codex, Gemini)
-- Figma MCP integration for icons (Iconify) and logos (SVGL)
-- Modular design with easy installation via CLI or manual setup
-- Supports UX writing, design workflows, and documentation generation
-- Observability integration with Langfuse for Laravel AI apps
+- Pre-built, standalone skills for AI agents with minimal dependencies
+- Supports logging project inputs and conversations to markdown files
+- Enhances reasoning for multi-language requests (Chinese, English, mixed)
+- Designed for easy integration with popular agent frameworks (Codex, Claude Code)
+- Each skill is independently installable and documented
 
 ## Why It Matters for RAG Builders
-It provides reusable, modular skills that accelerate AI agent workflows by integrating specialized tools like Figma, UX writing guides, and observability directly into agent environments.
+Provides reusable, lightweight skills that streamline AI agent workflows, reducing development time for logging and reasoning tasks.
 
 ## Tech Stack Deep Dive
-### JavaScript/TypeScript
-Automated review identified **JavaScript/TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### YAML
+Automated review identified **YAML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CLI tools
-Automated review identified **CLI tools** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Agent Frameworks (Codex, Claude Code)
+Automated review identified **Agent Frameworks (Codex, Claude Code)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Figma API
-Automated review identified **Figma API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Markdown
+Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Iconify API
-Automated review identified **Iconify API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### SVGL API
-Automated review identified **SVGL API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Laravel AI SDK
-Automated review identified **Laravel AI SDK** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Langfuse
-Automated review identified **Langfuse** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### shadcn/ui
-Automated review identified **shadcn/ui** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Next.js
-Automated review identified **Next.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python (implied for agent integration)
+Automated review identified **Python (implied for agent integration)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
