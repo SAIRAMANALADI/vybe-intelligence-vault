@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/masumi-network/crewai-masumi-quickstart-template
-collected_at: '2026-07-21T22:17:12.572017+05:30'
+collected_at: '2026-08-01T09:24:38.555775+05:30'
 published_at: '2026-04-12T20:15:37Z'
 tags:
 - agents
@@ -17,9 +17,9 @@ archived: false
 created_at: '2025-01-29T04:25:31Z'
 pushed_at: '2025-12-19T23:33:44Z'
 resource_id: github:masumi-network/crewai-masumi-quickstart-template
-first_seen: '2026-07-21T22:17:12.572017+05:30'
-last_seen: '2026-07-21T22:17:12.572017+05:30'
-last_checked: '2026-07-21T22:17:12.572017+05:30'
+first_seen: '2026-08-01T09:24:38.555775+05:30'
+last_seen: '2026-08-01T09:24:38.555775+05:30'
+last_checked: '2026-08-01T09:24:38.555775+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a quickstart structure for integrating CrewAI with Masumi Network, though no explicit description is provided.
-- **Repository Metrics**: 13 stars, 20 forks, primarily written in Python, last updated on April 12, 2026.
-- **Structure**: Likely includes pre-configured modules or scripts to accelerate deployment of CrewAI-based agents within the Masumi Network ecosystem.
+- **Repository**: `masumi-network/crewai-masumi-quickstart-template` – A Python-based template for quickstart implementations with CrewAI.
+- **Metadata**: 13 stars, 20 forks, last updated on **2026-04-12**.
+- **Purpose**: No description provided; likely serves as a starter project for CrewAI integrations.
 
 ## Why It Matters
 

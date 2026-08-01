@@ -4,22 +4,22 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/langchain-rag-tutorial
-collected_at: '2026-07-21T22:13:22.431845+05:30'
-published_at: '2026-07-12T13:21:37Z'
+collected_at: '2026-08-01T09:20:48.320057+05:30'
+published_at: '2026-07-31T14:35:00Z'
 tags:
 - github-repo
 - python
 - rag
-stars: 974
+stars: 979
 language: Python
 status: active
 archived: false
 created_at: '2023-11-13T09:14:54Z'
 pushed_at: '2024-07-31T23:46:44Z'
 resource_id: github:pixegami/langchain-rag-tutorial
-first_seen: '2026-07-21T22:13:22.431845+05:30'
-last_seen: '2026-07-21T22:13:22.431845+05:30'
-last_checked: '2026-07-21T22:13:22.431845+05:30'
+first_seen: '2026-08-01T09:20:48.320057+05:30'
+last_seen: '2026-08-01T09:20:48.320057+05:30'
+last_checked: '2026-08-01T09:20:48.320057+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 - **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced responses.
 
-- **Python-Based**: Entirely written in Python, leveraging LangChain's modular framework for LLM orchestration, document loading, and vector storage (e.g., FAISS or Chroma).
+- **Python-Based Architecture**: Utilizes Python with LangChain's modular components (e.g., `Retriever`, `LLMChain`) to process queries, fetch relevant documents, and generate context-aware outputs.
 
-- **Tutorial Focus**: Provides step-by-step guidance on building a RAG system, including data ingestion, embedding generation, vector database setup, and query handling.
+- **Modular Design**: Includes components for document loading (e.g., `PyPDFLoader`), text splitting (`RecursiveCharacterTextSplitter`), vector storage (e.g., `Chroma` or `FAISS`), and retrieval-augmented prompting.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pixegami
-- Stars: 974
-- Forks: 521
+- Stars: 979
+- Forks: 522
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-12T13:21:37Z
+- Last Updated: 2026-07-31T14:35:00Z
 - Archived: No
 - Created At: 2023-11-13T09:14:54Z
 - Pushed At: 2024-07-31T23:46:44Z

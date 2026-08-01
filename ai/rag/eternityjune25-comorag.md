@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-27T15:41:48.711210+05:30'
+collected_at: '2026-08-01T09:22:18.415850+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-27T15:41:48.711210+05:30'
-last_seen: '2026-07-27T15:41:48.711210+05:30'
-last_checked: '2026-07-27T15:41:48.711210+05:30'
+first_seen: '2026-08-01T09:22:18.415850+05:30'
+last_seen: '2026-08-01T09:22:18.415850+05:30'
+last_checked: '2026-08-01T09:22:18.415850+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-*   Implements a cognitive-inspired, memory-organized Retrieval-Augmented Generation (RAG) architecture.
-*   Designed for stateful reasoning over extended, long narrative contexts.
-*   Aims to enhance LLM performance in maintaining coherence and context across multi-turn interactions.
+- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory hierarchies.
+
+- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain context coherence across extended dialogues or narratives, leveraging episodic and semantic memory layers.
+
+- **AAAI 2026 Contribution**: Proposes a novel approach to long-form reasoning in LLMs by integrating memory organization principles, validated via poster presentation at AAAI 2026.
 
 ## Why It Matters
 

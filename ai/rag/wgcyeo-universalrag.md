@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-07-31T14:51:10.920773+05:30'
+collected_at: '2026-08-01T09:22:23.392750+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-07-31T14:51:10.920773+05:30'
-last_seen: '2026-07-31T14:51:10.920773+05:30'
-last_checked: '2026-07-31T14:51:10.920773+05:30'
+first_seen: '2026-08-01T09:22:23.392750+05:30'
+last_seen: '2026-08-01T09:22:23.392750+05:30'
+last_checked: '2026-08-01T09:22:23.392750+05:30'
 health_score: 100
 ---
 
@@ -28,8 +28,11 @@ health_score: 100
 
 ## Summary
 
-*   Implements a Retrieval-Augmented Generation (RAG) framework designed for heterogeneous data corpora.
-*   Supports diverse modalities (e
+- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by supporting retrieval and generation over diverse modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, or entity-level), enabling unified augmentation across heterogeneous corpora.
+
+- **ACL 2026 Oral Presentation**: The system is positioned as a novel approach for universal RAG, emphasizing scalability and adaptability to heterogeneous data sources, with a focus on real-world applicability in multimodal contexts.
+
+- **Modular Python Implementation**: The repository provides a Python-based, open-source implementation with extensible components for modality-specific encoders, retrievers, and fusion mechanisms, facilitating customization for domain-specific use cases.
 
 ## Why It Matters
 

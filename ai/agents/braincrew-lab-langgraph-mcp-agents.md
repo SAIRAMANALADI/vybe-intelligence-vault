@@ -4,23 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/braincrew-lab/langgraph-mcp-agents
-collected_at: '2026-07-21T22:17:12.618450+05:30'
-published_at: '2026-07-20T09:03:29Z'
+collected_at: '2026-08-01T09:24:38.607050+05:30'
+published_at: '2026-07-27T07:17:17Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
 - python
-stars: 713
+- workflows
+stars: 714
 language: Python
 status: active
 archived: false
 created_at: '2025-03-30T14:25:58Z'
 pushed_at: '2025-04-14T11:00:22Z'
 resource_id: github:braincrew-lab/langgraph-mcp-agents
-first_seen: '2026-07-21T22:17:12.618450+05:30'
-last_seen: '2026-07-21T22:17:12.618450+05:30'
-last_checked: '2026-07-21T22:17:12.618450+05:30'
+first_seen: '2026-08-01T09:24:38.607050+05:30'
+last_seen: '2026-08-01T09:24:38.607050+05:30'
+last_checked: '2026-08-01T09:24:38.607050+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **LangGraph + ReAct Agent**: Implements a LangGraph-based ReAct (Reasoning and Acting) agent architecture with Model Context Protocol (MCP) integration for dynamic tool usage and reasoning loops.
+- **LangGraph ReAct Agent**: Implements a ReAct (Reasoning and Acting) agent architecture using LangGraph for dynamic workflow orchestration and decision-making.
 
-- **Streamlit Web Interface**: Provides a Streamlit-based UI for real-time configuration, deployment, and interaction with AI agents, enabling dynamic setup of MCP tools and data source integrations.
+- **MCP Integration**: Supports Model Context Protocol (MCP) for seamless tool-based interactions with external data sources, APIs, and services.
 
-- **MCP Tool Integration**: Supports dynamic access to external APIs and data sources via MCP tools, allowing agents to execute actions and retrieve contextually relevant information during execution.
+- **Streamlit UI**: Provides a Streamlit-based web interface for real-time configuration, deployment, and interaction with agents, enabling dynamic tool selection and agent management.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: braincrew-lab
-- Stars: 713
-- Forks: 229
+- Stars: 714
+- Forks: 228
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-20T09:03:29Z
+- Last Updated: 2026-07-27T07:17:17Z
 - Archived: No
 - Created At: 2025-03-30T14:25:58Z
 - Pushed At: 2025-04-14T11:00:22Z

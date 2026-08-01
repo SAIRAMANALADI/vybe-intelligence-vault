@@ -15,13 +15,14 @@ tags:
 - llm
 - models
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:everyone-is-building-llm-routers-we-deprecated-our
 first_seen: '2026-08-01T01:22:49.633665+05:30'
 last_seen: '2026-08-01T03:47:09.235135+05:30'
 last_checked: '2026-08-01T03:47:09.235135+05:30'
 health_score: 100
 ---
+
 
 # Everyone is building LLM routers, we deprecated ours
 

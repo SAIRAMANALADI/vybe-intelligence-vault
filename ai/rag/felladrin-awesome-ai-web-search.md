@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/felladrin/awesome-ai-web-search
-collected_at: '2026-07-21T22:14:17.525114+05:30'
-published_at: '2026-07-19T03:40:56Z'
+collected_at: '2026-08-01T09:21:43.403728+05:30'
+published_at: '2026-07-31T22:56:12Z'
 tags:
 - github-repo
 - hackernews
 - html
 - rag
-stars: 1385
+stars: 1399
 language: HTML
 status: active
 license: CC0-1.0
 archived: false
 created_at: '2024-11-09T19:13:37Z'
-pushed_at: '2026-07-15T11:30:46Z'
+pushed_at: '2026-07-28T18:48:15Z'
 resource_id: github:felladrin/awesome-ai-web-search
-first_seen: '2026-07-21T22:14:17.525114+05:30'
-last_seen: '2026-07-21T22:14:17.525114+05:30'
-last_checked: '2026-07-21T22:14:17.525114+05:30'
+first_seen: '2026-08-01T09:21:43.403728+05:30'
+last_seen: '2026-08-01T09:21:43.403728+05:30'
+last_checked: '2026-08-01T09:21:43.403728+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated resource**: GitHub repository (`felladrin/awesome-ai-web-search`) listing AI-powered web search tools, frameworks, and applications for enhanced information retrieval, question answering, and metasearch.
-- **Technical scope**: Covers generative AI, LLM inference, RAG (Retrieval-Augmented Generation), and web-based search optimization tools.
-- **Metadata**: 1,385 stars, 117 forks, last updated July 19, 2026; hosted as an HTML page with topics including AI search engines, generative AI projects, and information retrieval.
+- **Curated AI-Powered Web Search Tools**: Repository aggregating software enabling AI-assisted web search, including generative AI, retrieval-augmented generation (RAG), and large language model (LLM) inference tools for enhanced information retrieval and question-answering.
+
+- **Technical Scope**: Covers metasearch engines, AI search engines, and projects leveraging LLMs for improved search accuracy, context-aware results, and dynamic query refinement in web-based information retrieval.
+
+- **Repository Metadata**: Hosted on GitHub with 1,399 stars, 117 forks, and last updated on 2026-07-31; primarily HTML-based but includes resources across AI, generative AI, and information retrieval domains.
 
 ## Why It Matters
 
@@ -40,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: felladrin
-- Stars: 1385
+- Stars: 1399
 - Forks: 117
 - Language: HTML
 - Topics: ai, ai-search-engine, artificial-intelligence, artificial-intelligence-projects, awesome, awesome-list, generative-ai, generative-ai-projects, generative-ai-tools, information-retrieval, llm-inference, metasearch, question-answering, rag, retrieval-augmented-generation, web-search
-- Last Updated: 2026-07-19T03:40:56Z
+- Last Updated: 2026-07-31T22:56:12Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2024-11-09T19:13:37Z
-- Pushed At: 2026-07-15T11:30:46Z
+- Pushed At: 2026-07-28T18:48:15Z
 
 ## Possible Use Cases
 

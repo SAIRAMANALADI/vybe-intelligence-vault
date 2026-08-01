@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PierreGode/Ragnar
-collected_at: '2026-07-21T22:14:32.443426+05:30'
-published_at: '2026-07-21T15:55:39Z'
+collected_at: '2026-08-01T09:21:58.378203+05:30'
+published_at: '2026-07-31T19:57:43Z'
 tags:
 - github-repo
 - paper
 - python
 - rag
-stars: 762
+stars: 783
 language: Python
 status: active
-license: MIT
+license: NOASSERTION
 archived: false
 created_at: '2025-11-01T03:12:25Z'
-pushed_at: '2026-07-21T10:28:05Z'
+pushed_at: '2026-07-31T19:57:12Z'
 resource_id: github:pierregode/ragnar
-first_seen: '2026-07-21T22:14:32.443426+05:30'
-last_seen: '2026-07-21T22:14:32.443426+05:30'
-last_checked: '2026-07-21T22:14:32.443426+05:30'
+first_seen: '2026-08-01T09:21:58.378203+05:30'
+last_seen: '2026-08-01T09:21:58.378203+05:30'
+last_checked: '2026-08-01T09:21:58.378203+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Network Scanning & Offensive Security Tool**: Python-based utility (`Ragnar`) designed for Raspberry Pi with a 2.13-inch e-Paper HAT, enabling discovery of network targets, open ports, exposed services, and vulnerabilities.
-- **Hardware Integration**: Leverages the e-Paper HAT for real-time display of scan results, combining offensive security capabilities with portable, low-power hardware.
-- **Project Metadata**: 762 stars, 63 forks, last updated on **2026-07-21**; no explicit topics tagged, but focuses on network reconnaissance and exploitation.
+- **Network Scanning & Offensive Security**: Python-based tool (`Ragnar`) for Raspberry Pi with a 2.13-inch e-Paper HAT, enabling target discovery, open port enumeration, service identification, and vulnerability assessment.
+
+- **Hardware Integration**: Leverages the e-Paper HAT for real-time display of scan results, combining offensive security capabilities with embedded system hardware.
+
+- **Project Metadata**: 783 stars, 65 forks, last updated 2026-07-31; part of a broader toolset (Father of `Bjorn`).
 
 ## Why It Matters
 
@@ -40,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: PierreGode
-- Stars: 762
-- Forks: 63
+- Stars: 783
+- Forks: 65
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-21T15:55:39Z
-- License: MIT
+- Last Updated: 2026-07-31T19:57:43Z
+- License: NOASSERTION
 - Archived: No
 - Created At: 2025-11-01T03:12:25Z
-- Pushed At: 2026-07-21T10:28:05Z
+- Pushed At: 2026-07-31T19:57:12Z
 
 ## Possible Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/RUC-NLPIR/FlashRAG
-collected_at: '2026-07-31T14:50:35.932674+05:30'
-published_at: '2026-07-31T08:07:46Z'
+collected_at: '2026-08-01T09:21:48.370754+05:30'
+published_at: '2026-07-31T09:42:05Z'
 tags:
 - benchmark
 - dataset
@@ -13,7 +13,6 @@ tags:
 - python
 - rag
 - reddit
-- workflows
 stars: 3536
 language: Python
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-03-14T01:40:33Z'
 pushed_at: '2026-07-19T10:20:30Z'
 resource_id: github:ruc-nlpir/flashrag
-first_seen: '2026-07-31T14:50:35.932674+05:30'
-last_seen: '2026-07-31T14:50:35.932674+05:30'
-last_checked: '2026-07-31T14:50:35.932674+05:30'
+first_seen: '2026-08-01T09:21:48.370754+05:30'
+last_seen: '2026-08-01T09:21:48.370754+05:30'
+last_checked: '2026-08-01T09:21:48.370754+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-*   Python-based toolkit facilitating efficient Retrieval-Augmented Generation (RAG) research and development.
-*   Integrates comprehensive modules for RAG benchmarking, dataset management, and large language model (LLM) interaction.
-*   Designed to streamline RAG experimentation workflows, indicated by its "Flash" prefix and focus on efficiency.
+- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit optimized for fast Retrieval-Augmented Generation (RAG) research, leveraging efficient algorithms and data structures to accelerate experimentation and deployment.
+
+- **Comprehensive Benchmarking**: Includes built-in support for standardized RAG benchmarks and datasets, enabling reproducible evaluation of retrieval and generation components across diverse tasks.
+
+- **Modular & Extensible**: Designed with modularity in mind, supporting custom retrieval strategies, model integrations, and pipeline configurations for rapid prototyping and advanced RAG system development.
 
 ## Why It Matters
 
@@ -44,10 +45,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: RUC-NLPIR
 - Stars: 3536
-- Forks: 314
+- Forks: 313
 - Language: Python
 - Topics: benchmark, datasets, large-language-models, retrieval-augmented-generation
-- Last Updated: 2026-07-31T08:07:46Z
+- Last Updated: 2026-07-31T09:42:05Z
 - License: MIT
 - Archived: No
 - Created At: 2024-03-14T01:40:33Z

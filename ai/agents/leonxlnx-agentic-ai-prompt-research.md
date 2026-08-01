@@ -4,24 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-07-21T22:16:17.515849+05:30'
-published_at: '2026-07-20T02:42:56Z'
+collected_at: '2026-08-01T09:23:38.481526+05:30'
+published_at: '2026-08-01T01:34:31Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - hackernews
 - unknown
-stars: 2485
+stars: 2498
 language: Unknown
 status: active
 archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-07-21T22:16:17.515849+05:30'
-last_seen: '2026-07-21T22:16:17.515849+05:30'
-last_checked: '2026-07-21T22:16:17.515849+05:30'
+first_seen: '2026-08-01T09:23:38.481526+05:30'
+last_seen: '2026-08-01T09:23:38.481526+05:30'
+last_checked: '2026-08-01T09:23:38.481526+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and operational frameworks for autonomous AI coding agents, emphasizing agent coordination mechanisms and multi-agent collaboration strategies.
-
-- **Security Classification**: Implements a structured security classification system for agentic AI interactions, addressing vulnerabilities in prompt injection, data exfiltration, and unauthorized code execution risks.
-
-- **Prompt Engineering & System Prompts**: Analyzes advanced prompt engineering techniques tailored for agentic AI systems, including dynamic prompt adaptation, context-aware reasoning, and system-level prompt optimization for reliability and performance.
+- **Agentic AI Coding Assistants**: Analyzes reconstructed prompt patterns and agent coordination mechanisms in agentic AI systems, focusing on autonomous task decomposition and multi-agent collaboration.
+- **Security Classification Framework**: Proposes a security classification system for agentic AI prompts, evaluating risks in prompt injection, data leakage, and unauthorized tool execution.
+- **Claude & Prompt Engineering**: Investigates system prompts and prompt engineering techniques optimized for agentic AI assistants, including dynamic context adaptation and constraint enforcement.
 
 ## Why It Matters
 
@@ -42,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Leonxlnx
-- Stars: 2485
-- Forks: 1069
+- Stars: 2498
+- Forks: 1068
 - Language: Unknown
 - Topics: agentic-ai, ai-research, claude, prompt-engineering, system-prompts
-- Last Updated: 2026-07-20T02:42:56Z
+- Last Updated: 2026-08-01T01:34:31Z
 - Archived: No
 - Created At: 2026-03-31T11:47:04Z
 - Pushed At: 2026-03-31T19:04:33Z

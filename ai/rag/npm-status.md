@@ -4,16 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://status.npmjs.com/
-published_at: '2026-07-21T22:20:04.278744+05:30'
-collected_at: '2026-07-21T22:20:04.278760+05:30'
+published_at: '2026-08-01T09:26:29.714075+05:30'
+collected_at: '2026-08-01T09:26:29.714084+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:npm-status
-first_seen: '2026-07-21T22:20:04.278760+05:30'
-last_seen: '2026-07-21T22:20:04.278760+05:30'
-last_checked: '2026-07-21T22:20:04.278760+05:30'
+first_seen: '2026-08-01T09:26:29.714084+05:30'
+last_seen: '2026-08-01T09:26:29.714084+05:30'
+last_checked: '2026-08-01T09:26:29.714084+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **npm Statuspage** provides real-time operational metrics and incident tracking for npm services, including website availability, package installation, publishing, search, security audits, and replication feeds, with historical uptime data (e.g., 99.93% for the website over 90 days).
-- **Notification System** supports email and SMS alerts for incident creation, updates, and resolutions, with global phone number validation and reCAPTCHA integration for security.
-- **Incident History** shows no major outages in the past 14 days (as of July 21, 2026), with all services marked as operational, and historical data accessible via Atom/RSS feeds.
+- **npm Statuspage** provides real-time operational metrics for npm services, including website availability, package installation, publishing, search, security audit, and replication feed, with 90-day uptime tracked (e.g., 100% for website/search, 99.99% for installation/publishing).
+- **Incident reporting** includes historical outages (e.g., intermittent publish/install failures on Jul 23-24, 2026) with timestamps for investigation, resolution, and monitoring phases.
+- **Notification system** supports email/SMS alerts for incident updates, with OTP-based verification and compliance with Atlassian/npm privacy policies.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T22:20:04.278744+05:30
+- Published: 2026-08-01T09:26:29.714075+05:30
 
 ## Related Tags
 

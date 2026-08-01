@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://electronforge.io
-published_at: '2026-07-21T22:19:10.689148+05:30'
-collected_at: '2026-07-21T22:19:10.689165+05:30'
+published_at: '2026-08-01T09:26:27.632078+05:30'
+collected_at: '2026-08-01T09:26:27.632087+05:30'
 tags:
 - rag
 - web-crawled
 - workflows
 status: active
 resource_id: blog:getting-started-electron-forge
-first_seen: '2026-07-21T22:19:10.689165+05:30'
-last_seen: '2026-07-21T22:19:10.689165+05:30'
-last_checked: '2026-07-21T22:19:10.689165+05:30'
+first_seen: '2026-08-01T09:26:27.632087+05:30'
+last_seen: '2026-08-01T09:26:27.632087+05:30'
+last_checked: '2026-08-01T09:26:27.632087+05:30'
 health_score: 100
 ---
 
@@ -22,13 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Electron Forge** is a unified build pipeline for Electron apps, providing built-in support for code signing, installers, and artifact publishing, with extensibility via [Plugin API](https://electronforge.io/config/plugins), [Makers](https://electronforge.io/config/makers), and [Publishers](https://electronforge.io/config/publishers).
+- **Electron Forge** provides a unified build pipeline for Electron apps, including code signing, installer generation, and artifact publishing, with extensibility via [Plugins](https://electronforge.io/config/plugins), [Makers](https://electronforge.io/config/makers), and [Publishers](https://electronforge.io/config/publishers).
 
-- **Packaging limitations**: Requires `node_modules` on disk; does not support symlinked dependencies or Yarn PnP (use `nodeLinker: node-modules` for Yarn ≥2 or `node-linker=hoisted` for pnpm).
+- **Packaging constraints**: Requires `node_modules` on disk; does not support Yarn PnP or symlinked dependencies. For Yarn ≥2, use `nodeLinker: node-modules`; for pnpm, set `node-linker=hoisted` in `.npmrc`.
 
-- **Initialization & build commands**:
-  - Scaffold projects via `npx create-electron-app@latest my-app` with optional templates (`webpack`, `vite`, etc.).
-  - Generate distributables with `make` and publish via `publish` using configured [Publishers](https://electronforge.io/config/publishers).
+- **Initialization & templates**: Use `npx create-electron-app@latest my-app`; supports first-party templates (`webpack`, `vite`, etc.) for modern JS tooling, with custom template support via [Writing Templates](https://electronforge.io/advanced/extending-electron-forge/writing-templates).
 
 ## Why It Matters
 
@@ -38,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T22:19:10.689148+05:30
+- Published: 2026-08-01T09:26:27.632078+05:30
 
 ## Related Tags
 

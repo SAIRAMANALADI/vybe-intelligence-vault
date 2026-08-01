@@ -6,6 +6,7 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | :--- | :--- | :--- |
 | 2026-07-15 | [CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault) | `rag-systems/` |
 | 2026-07-13 | [Chaelsoo/Zetsu](https://github.com/Chaelsoo/Zetsu) | `rag-systems/` |
+| 2026-07-11 | [TatarinBlack/ai-runtime-security-sandbox](https://github.com/TatarinBlack/ai-runtime-security-sandbox) | `rag-systems/` |
 | 2026-07-06 | [crazyaiml/attribute-knowledge-rag](https://github.com/crazyaiml/attribute-knowledge-rag) | `rag-systems/` |
 | 2026-07-03 | [Speechify-AI/tts-shims](https://github.com/Speechify-AI/tts-shims) | `ai-coding-agents/` |
 | 2026-07-02 | [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) | `agent-frameworks/` |
@@ -15,10 +16,11 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | 2026-06-04 | [danielt69/awesome-agent-observability](https://github.com/danielt69/awesome-agent-observability) | `ai-coding-agents/` |
 | 2026-06-03 | [antins-labs/SearchOS](https://github.com/antins-labs/SearchOS) | `ai-coding-agents/` |
 | 2026-05-31 | [PentesterFlow/agent](https://github.com/PentesterFlow/agent) | `ai-coding-agents/` |
+| 2026-05-27 | [scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools) | `rag-systems/` |
 | 2026-05-18 | [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) | `ai-coding-agents/` |
 | 2026-05-15 | [wxmb01/codex-app-autonomous-runs](https://github.com/wxmb01/codex-app-autonomous-runs) | `ai-coding-agents/` |
 | 2026-05-09 | [akihirookuda95/openai-agents-sdk-tutorial](https://github.com/akihirookuda95/openai-agents-sdk-tutorial) | `ai-coding-agents/` |
-| 2026-05-04 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `mcp-registry/` |
+| 2026-05-04 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `ai-coding-agents/` |
 | 2026-05-01 | [NotPBShaw/awesome-ai-governance](https://github.com/NotPBShaw/awesome-ai-governance) | `ai-coding-agents/` |
 | 2026-04-29 | [sirius-zuo/devops-skills](https://github.com/sirius-zuo/devops-skills) | `ai-coding-agents/` |
 | 2026-04-26 | [DenCabinetmaker/Rust-Rage](https://github.com/DenCabinetmaker/Rust-Rage) | `rag-systems/` |
@@ -32,5 +34,3 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | 2026-04-11 | [Ais1on/CTI-RAG](https://github.com/Ais1on/CTI-RAG) | `rag-systems/` |
 | 2026-04-10 | [run-llama/ParseBench](https://github.com/run-llama/ParseBench) | `rag-systems/` |
 | 2026-04-10 | [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox) | `rag-systems/` |
-| 2026-04-06 | [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape) | `ai-coding-agents/` |
-| 2026-04-04 | [ChrisChen667788/Your-First-LLM-Studio](https://github.com/ChrisChen667788/Your-First-LLM-Studio) | `ai-coding-agents/` |

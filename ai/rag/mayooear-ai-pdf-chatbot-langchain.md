@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mayooear/ai-pdf-chatbot-langchain
-collected_at: '2026-07-21T22:17:07.549222+05:30'
-published_at: '2026-07-21T16:17:11Z'
+collected_at: '2026-08-01T09:24:33.543631+05:30'
+published_at: '2026-07-31T08:52:05Z'
 tags:
 - agents
 - frontend_ui
@@ -15,7 +15,7 @@ tags:
 - reddit
 - typescript
 - workflows
-stars: 16584
+stars: 16590
 language: TypeScript
 status: active
 license: MIT
@@ -23,9 +23,9 @@ archived: true
 created_at: '2023-03-17T01:23:26Z'
 pushed_at: '2026-03-27T16:04:05Z'
 resource_id: github:mayooear/ai-pdf-chatbot-langchain
-first_seen: '2026-07-21T22:17:07.549222+05:30'
-last_seen: '2026-07-21T22:17:07.549222+05:30'
-last_checked: '2026-07-21T22:17:07.549222+05:30'
+first_seen: '2026-08-01T09:24:33.543631+05:30'
+last_seen: '2026-08-01T09:24:33.543631+05:30'
+last_checked: '2026-08-01T09:24:33.543631+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: TypeScript-based AI PDF chatbot leveraging LangChain, LangGraph, Next.js, and OpenAI for agentic workflows and document interaction.
-- **Core Functionality**: Enables conversational querying over PDF documents using LangChain’s retrieval-augmented generation (RAG) and LangGraph’s stateful agent orchestration.
-- **Scalability**: Designed for modularity with 16.5K+ GitHub stars, supporting customizable pipelines for document ingestion, embedding, and LLM inference.
+- **Tech Stack**: TypeScript-based AI chatbot leveraging LangChain for LLM orchestration and LangGraph for agent workflows, integrated with Next.js for frontend, and OpenAI for LLM inference.
+
+- **Core Functionality**: Processes PDF documents, extracts structured data, and enables conversational querying via a RAG (Retrieval-Augmented Generation) pipeline with vector embeddings and document retrieval.
+
+- **Deployment**: Open-source repository with 16.5K+ stars, supporting modular agent architecture for extensibility, and optimized for real-time PDF interaction with LangGraph-driven state management.
 
 ## Why It Matters
 
@@ -44,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: mayooear
-- Stars: 16584
-- Forks: 3230
+- Stars: 16590
+- Forks: 3234
 - Language: TypeScript
 - Topics: agents, ai, chatbot, langchain, langgraph, nextjs, openai, pdf, typescript
-- Last Updated: 2026-07-21T16:17:11Z
+- Last Updated: 2026-07-31T08:52:05Z
 - License: MIT
 - Archived: Yes
 - Created At: 2023-03-17T01:23:26Z

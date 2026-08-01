@@ -4,25 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVISOsecurity/cyber-security-llm-agents
-collected_at: '2026-07-21T22:16:17.581449+05:30'
-published_at: '2026-07-20T10:35:30Z'
+collected_at: '2026-08-01T09:23:43.514841+05:30'
+published_at: '2026-07-28T16:23:21Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 - workflows
-stars: 380
+stars: 384
 language: Jupyter Notebook
 status: active
 archived: false
 created_at: '2024-02-29T09:54:26Z'
 pushed_at: '2024-05-07T15:31:28Z'
 resource_id: github:nvisosecurity/cyber-security-llm-agents
-first_seen: '2026-07-21T22:16:17.581449+05:30'
-last_seen: '2026-07-21T22:16:17.581449+05:30'
-last_checked: '2026-07-21T22:16:17.581449+05:30'
+first_seen: '2026-08-01T09:23:43.514841+05:30'
+last_seen: '2026-08-01T09:23:43.514841+05:30'
+last_checked: '2026-08-01T09:23:43.514841+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Repository containing LLM-based agents designed to automate routine cybersecurity tasks, including adversary emulation and threat detection.
-- **Technical Stack**: Implemented in Jupyter Notebooks, leveraging LLMs for cybersecurity workflows.
-- **Integration**: Compatible with tools like CALDERA for adversary emulation and broader infosec operations.
+- **Purpose**: Repository of LLM-based agents designed to automate common cybersecurity tasks (e.g., adversary emulation) using Jupyter Notebooks.
+- **Integration**: Compatible with frameworks like **CALDERA** for adversary simulation and red teaming workflows.
+- **Tech Stack**: Leverages **Large Language Models (LLMs)** for AI-driven cybersecurity operations, last updated July 2026.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NVISOsecurity
-- Stars: 380
+- Stars: 384
 - Forks: 73
 - Language: Jupyter Notebook
 - Topics: adversary-emulation, ai, caldera, cybersecurity, infosec, llm
-- Last Updated: 2026-07-20T10:35:30Z
+- Last Updated: 2026-07-28T16:23:21Z
 - Archived: No
 - Created At: 2024-02-29T09:54:26Z
 - Pushed At: 2024-05-07T15:31:28Z

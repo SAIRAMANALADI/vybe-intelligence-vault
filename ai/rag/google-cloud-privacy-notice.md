@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://cloud.google.com/terms/cloud-privacy-notice
-published_at: '2026-07-21T22:21:08.560630+05:30'
-collected_at: '2026-07-21T22:21:08.560647+05:30'
+published_at: '2026-08-01T09:27:10.632039+05:30'
+collected_at: '2026-08-01T09:27:10.632049+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:google-cloud-privacy-notice
-first_seen: '2026-07-21T22:21:08.560647+05:30'
-last_seen: '2026-07-21T22:21:08.560647+05:30'
-last_checked: '2026-07-21T22:21:08.560647+05:30'
+first_seen: '2026-08-01T09:27:10.632049+05:30'
+last_seen: '2026-08-01T09:27:10.632049+05:30'
+last_checked: '2026-08-01T09:27:10.632049+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Service Data Definition & Scope**: Service Data includes personal information collected/generated during Cloud Services provision (e.g., account details, billing records, usage metrics, technical logs) but excludes Customer/Partner Data; defined under GDPR/EU/UK/Swiss data protection laws.
+- **Service Data Processing Scope**: Google Cloud Privacy Notice applies exclusively to *Service Data* (e.g., account details, billing records, usage metrics, technical logs) collected during Cloud Services provisioning, excluding *Customer Data* and *Partner Data*; processing includes fraud detection, billing, performance optimization, and legal compliance via automated algorithms and manual reviews.
 
-- **Processing Purposes & Methods**: Service Data is processed for service delivery, optimization, security, legal compliance, and support via algorithms, manual review, aggregation, and cross-product integration; retention periods vary (up to 180 days, longer for security/fraud prevention).
+- **Global Data Handling & Security**: Service Data may be processed in centralized/regionalized operations (e.g., billing, support) across global data centers, with transfers outside EEA/UK/Switzerland governed by legal frameworks; security measures include encryption (at rest/transit), role-based access controls, and contractual confidentiality obligations for employees/contractors.
 
-- **Data Sharing & Security Controls**: Service Data is shared only with third parties under explicit conditions (consent, legal requests, admin access) or for processing; encrypted at rest/transit, restricted to authorized personnel, and protected via contractual confidentiality obligations.
+- **Data Retention & Third-Party Sharing**: Retention periods vary by data type (default up to 180 days, longer for security/fraud prevention); Service Data is shared externally only under specific conditions (e.g., third-party service integration, user consent, legal requests, or with authorized administrators/resellers) and never sold.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T22:21:08.560630+05:30
+- Published: 2026-08-01T09:27:10.632039+05:30
 
 ## Related Tags
 

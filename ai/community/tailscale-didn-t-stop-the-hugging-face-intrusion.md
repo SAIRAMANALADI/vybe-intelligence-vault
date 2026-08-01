@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://tailscale.com/blog/hugging-face-intrusion
 hn_url: https://news.ycombinator.com/item?id=49127306
-score: 270
+score: 485
 author: bluehatbrit
-comments_count: 111
+comments_count: 191
 published_at: '2026-08-01T00:33:45+05:30'
-collected_at: '2026-08-01T03:47:06.172456+05:30'
+collected_at: '2026-08-01T09:19:50.299205+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:tailscale-didn-t-stop-the-hugging-face-intrusion
 first_seen: '2026-08-01T01:22:48.589868+05:30'
-last_seen: '2026-08-01T03:47:06.172456+05:30'
-last_checked: '2026-08-01T03:47:06.172456+05:30'
+last_seen: '2026-08-01T09:19:50.299205+05:30'
+last_checked: '2026-08-01T09:19:50.299205+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by bluehatbrit. Score: 270, Comments: 111.
+Hacker News story by bluehatbrit. Score: 485, Comments: 191.
 Original Link: https://tailscale.com/blog/hugging-face-intrusion
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: bluehatbrit
-- Score: 270 Upvotes
-- Comments: 111 Discussions
+- Score: 485 Upvotes
+- Comments: 191 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49127306
 - Original Article: https://tailscale.com/blog/hugging-face-intrusion
 

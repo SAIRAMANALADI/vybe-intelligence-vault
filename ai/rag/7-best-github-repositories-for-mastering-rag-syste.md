@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems/
-published_at: '2026-07-28T14:27:43.746531+05:30'
-collected_at: '2026-07-28T14:27:43.746546+05:30'
+published_at: '2026-08-01T09:25:06.929505+05:30'
+collected_at: '2026-08-01T09:25:06.929518+05:30'
 tags:
 - agents
 - anthropic
@@ -26,9 +26,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:7-best-github-repositories-for-mastering-rag-syste
-first_seen: '2026-07-28T14:27:43.746546+05:30'
-last_seen: '2026-07-28T14:27:43.746546+05:30'
-last_checked: '2026-07-28T14:27:43.746546+05:30'
+first_seen: '2026-08-01T09:25:06.929518+05:30'
+last_seen: '2026-08-01T09:25:06.929518+05:30'
+last_checked: '2026-08-01T09:25:06.929518+05:30'
 health_score: 100
 ---
 
@@ -36,9 +36,11 @@ health_score: 100
 
 ## Summary
 
-*   Retrieval-Augmented Generation (RAG) systems enhance Large Language Models (LLMs) by integrating external, contextually relevant data from knowledge bases, mitigating knowledge cut-off and hallucination for improved response accuracy and domain specificity.
-*   RAG frameworks typically involve modular pipelines for document ingestion, chunking, embedding, vector indexing, and retrieval, followed by prompt augmentation to feed relevant context to the LLM for response generation.
-*   Key open-source RAG toolkits offer specialized functionalities: LangChain for comprehensive LLM orchestration, Haystack
+- **LangChain**: Open-source LLM toolkit (MIT license) with 70K+ GitHub stars, providing modular components (prompt templates, LLM wrappers, vector stores) for end-to-end RAG pipeline development, supporting Python, JavaScript, and TypeScript with integrations for OpenAI, Hugging Face, and Azure.
+
+- **RAG Framework Architecture**: Retrieval-Augmented Generation integrates external knowledge sources to mitigate hallucinations and knowledge cutoff issues, enabling context-aware, temporally relevant LLM responses by dynamically retrieving and injecting relevant documents into the generation process.
+
+- **Top RAG GitHub Repositories**: Highlights open-source frameworks like Haystack (deepset-ai), LlamaIndex, RAGFlow, txtai, LLMWare, and Cognita, each offering specialized tools for document retrieval, embedding, and LLM augmentation to streamline RAG system implementation.
 
 ## Why It Matters
 
@@ -48,7 +50,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-28T14:27:43.746531+05:30
+- Published: 2026-08-01T09:25:06.929505+05:30
 
 ## Related Tags
 

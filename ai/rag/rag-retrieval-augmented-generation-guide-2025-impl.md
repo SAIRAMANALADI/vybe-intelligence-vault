@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://tensorblue.com/blog/rag-retrieval-augmented-generation-implementation-guide-2025
-published_at: '2026-07-21T19:52:29.475544+05:30'
-collected_at: '2026-07-21T19:52:29.475555+05:30'
+published_at: '2026-08-01T09:20:44.231881+05:30'
+collected_at: '2026-08-01T09:20:44.231890+05:30'
 tags:
 - anthropic
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-retrieval-augmented-generation-guide-2025-impl
-first_seen: '2026-07-21T19:52:29.475555+05:30'
-last_seen: '2026-07-21T19:52:29.475555+05:30'
-last_checked: '2026-07-21T19:52:29.475555+05:30'
+first_seen: '2026-08-01T09:20:44.231890+05:30'
+last_seen: '2026-08-01T09:20:44.231890+05:30'
+last_checked: '2026-08-01T09:20:44.231890+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 - **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI `text-embedding-ada-002`, Sentence Transformers), and vector databases (Pinecone, Weaviate, Qdrant) for dynamic knowledge retrieval and LLM response augmentation.
 
-- **Advanced Techniques**: Implements hierarchical retrieval, query expansion (20-30% recall improvement), hybrid search (dense + sparse vectors), and re-ranking (15-25% precision gain) to optimize context relevance and reduce hallucinations.
+- **Advanced Techniques**: Implements hierarchical retrieval, query expansion, hybrid search (dense + sparse vectors), cross-encoder re-ranking, and adaptive retrieval (Self-RAG) to improve precision, recall, and hallucination reduction by 15-30%.
 
-- **Production Metrics**: Achieves 90-95% accuracy with <2s latency, $0.02-0.10/query cost, and 10-50x cost savings vs. fine-tuning, validated in case studies (e.g., legal Q&A: 92% accuracy, 2.5s response time).
+- **Production Metrics**: Achieves 90-95% accuracy with <2s latency, $0.02-0.10/query cost, and 10-50x cost savings vs. fine-tuning; validated in case studies (e.g., legal Q&A at 92% accuracy, 78% automated support resolution).
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T19:52:29.475544+05:30
+- Published: 2026-08-01T09:20:44.231881+05:30
 
 ## Related Tags
 

@@ -25,8 +25,8 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 - [explosion/spacy-llm](https://github.com/explosion/spacy-llm)
 - [stanfordnlp/dsp](https://github.com/stanfordnlp/dsp)
 - [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](https://github.com/lm-sys/FastChat/blob/main/fastchat/llm_judge/data/judge_prompts.jsonl)
-- [h1papc11/healthcare-ai-agent-vault](https://github.com/h1papc11/healthcare-ai-agent-vault)
 - [jaypanchal18/production-ai-agents-and-llm-platform](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform)
+- [github/awesome-copilot](https://github.com/github/awesome-copilot)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 
 ---
 
-*Last updated: 2026-08-01 04:05 IST*
+*Last updated: 2026-08-01 09:38 IST*

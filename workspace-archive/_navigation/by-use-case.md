@@ -5,34 +5,34 @@ This index groups resources by direct developer use-cases and design goals.
 
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) (Category: `mcp-registry` | [`Local File`](../../ai/resources/firecrawl-firecrawl-mcp-server.md))
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) (Category: `mcp-registry` | [`Local File`](../../ai/resources/modelcontextprotocol-python-sdk.md))
+- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) (Category: `mcp-registry` | [`Local File`](../../ai/rag/apecloud-aperag.md))
 - [Detecting AI Coding Agents in Open Source: A Validated Multi-Method Census of 180 Million Repositories](https://arxiv.org/abs/2606.24429) (Category: `ai-coding-agents` | [`Local File`](../../ai/agents/arxiv-2606-24429.md))
 - [OpenAI · GitHub](https://github.com/openai) (Category: `ai-coding-agents` | [`Local File`](../../ai/agents/openai-github.md))
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) (Category: `mcp-registry` | [`Local File`](../../ai/resources/github-github-mcp-server.md))
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (Category: `mcp-registry` | [`Local File`](../../ai/resources/black-forest-labs-github.md))
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (Category: `mcp-registry` | [`Local File`](../../ai/resources/model-context-protocol-github.md))
-- [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp) (Category: `mcp-registry` | [`Local File`](../../ai/resources/jlbadano-ig-mcp.md))
 
 ## Orchestrating Multi-Agent Logic
 
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
 - [OpenAI · GitHub](https://github.com/openai) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/openai-github.md))
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
-- [langchain-ai/new-langgraphjs-project](https://github.com/langchain-ai/new-langgraphjs-project) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/langchain-ai-new-langgraphjs-project.md))
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md))
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/mergisi-awesome-openclaw-agents.md))
 - [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/sri-krishna-v-awesome-adk-agents.md))
 - [langgenius/dify](https://github.com/langgenius/dify) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/langgenius-dify.md))
+- [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/scotthavird-crewai-template.md))
 
 ## Document Knowledge base & Search (RAG)
 
-- [truefoundry/cognita](https://github.com/truefoundry/cognita) (Category: `rag-systems` | [`Local File`](../../ai/rag/truefoundry-cognita.md))
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (Category: `rag-systems` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
-- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `rag-systems` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
-- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Category: `rag-systems` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
-- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Category: `vector-databases` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
+- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) (Category: `rag-systems` | [`Local File`](../../ai/rag/apecloud-aperag.md))
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (Category: `vector-databases` | [`Local File`](../../ai/rag/decodingai-magazine-llm-twin-course.md))
 - [LlamaIndex · GitHub](https://github.com/run-llama/) (Category: `rag-systems` | [`Local File`](../../ai/rag/llamaindex-github.md))
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (Category: `rag-systems` | [`Local File`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
 - [mongodb · GitHub](https://github.com/mongodb) (Category: `rag-systems` | [`Local File`](../../ai/rag/mongodb-github.md))
+- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) (Category: `rag-systems` | [`Local File`](../../ai/rag/enescingoz-awesome-n8n-templates.md))
+- [Neo4j · GitHub](https://github.com/neo4j) (Category: `rag-systems` | [`Local File`](../../ai/rag/neo4j-github.md))
 
 ## Model Selection, Inference & Cost Profiling
 
@@ -41,31 +41,31 @@ This index groups resources by direct developer use-cases and design goals.
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (Category: `model-providers` | [`Local File`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md))
 - [Quantize with Confidence? An Empirical Study of Quantization for Code Generation](https://arxiv.org/abs/2607.14181) (Category: `inference-local-llm` | [`Local File`](../../ai/research/arxiv-2607-14181.md))
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Category: `observability` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
+- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) (Category: `observability` | [`Local File`](../../ai/rag/apecloud-aperag.md))
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) (Category: `model-providers` | [`Local File`](../../ai/resources/firecrawl-firecrawl-mcp-server.md))
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Category: `model-providers` | [`Local File`](../../ai/resources/llamasearchai-openagi-customization.md))
-- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (Category: `model-providers` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 
 ## Production Auditing & Prompt Injection Protection
 
 - [OpenAI · GitHub](https://github.com/openai) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/openai-github.md))
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
-- [Google Cloud Platform · GitHub](https://github.com/googlecloudPlatform/) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/google-cloud-platform-github.md))
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 - [langgenius/dify](https://github.com/langgenius/dify) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/langgenius-dify.md))
-- [truefoundry/cognita](https://github.com/truefoundry/cognita) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/truefoundry-cognita.md))
-- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
+- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/apecloud-aperag.md))
+- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/jamwithai-production-agentic-rag-course.md))
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
+- [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Category: `guardrails-security` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
 
 ## Script Automations & External API Integration
 
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (Category: `automation-workflows` | [`Local File`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
+- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) (Category: `automation-workflows` | [`Local File`](../../ai/rag/enescingoz-awesome-n8n-templates.md))
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (Category: `automation-workflows` | [`Local File`](../../ai/resources/black-forest-labs-github.md))
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (Category: `automation-workflows` | [`Local File`](../../ai/resources/model-context-protocol-github.md))
 - [github/roadmap](https://github.com/github/roadmap) (Category: `automation-workflows` | [`Local File`](../../ai/resources/github-roadmap.md))
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (Category: `automation-workflows` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [OpenAI · GitHub](https://github.com/openai) (Category: `automation-workflows` | [`Local File`](../../ai/agents/openai-github.md))
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Category: `automation-workflows` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
-- [langchain-ai/new-langgraphjs-project](https://github.com/langchain-ai/new-langgraphjs-project) (Category: `automation-workflows` | [`Local File`](../../ai/agents/langchain-ai-new-langgraphjs-project.md))
 
 ## Streaming UI Layouts & Next.js AI SaaS Templates
 
@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [Can AI Agents Synthesize Scientific Conclusions?](https://arxiv.org/abs/2606.11337) (Category: `project-ideas` | [`Local File`](../../ai/agents/arxiv-2606-11337.md))
 
 ---
-*Last updated: 2026-08-01 04:05 IST*
+*Last updated: 2026-08-01 09:38 IST*

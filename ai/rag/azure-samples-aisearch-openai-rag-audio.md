@@ -4,17 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/aisearch-openai-rag-audio
-collected_at: '2026-07-21T22:13:57.432432+05:30'
-published_at: '2026-07-18T02:31:26Z'
+collected_at: '2026-08-01T09:21:23.419365+05:30'
+published_at: '2026-07-27T15:00:03Z'
 tags:
 - github-repo
-- hackernews
 - models
 - openai
 - python
 - rag
-- workflows
-stars: 560
+stars: 561
 language: Python
 status: active
 license: MIT
@@ -22,9 +20,9 @@ archived: false
 created_at: '2024-09-19T22:36:40Z'
 pushed_at: '2025-11-19T20:13:53Z'
 resource_id: github:azure-samples/aisearch-openai-rag-audio
-first_seen: '2026-07-21T22:13:57.432432+05:30'
-last_seen: '2026-07-21T22:13:57.432432+05:30'
-last_checked: '2026-07-21T22:13:57.432432+05:30'
+first_seen: '2026-08-01T09:21:23.419365+05:30'
+last_seen: '2026-08-01T09:21:23.419365+05:30'
+last_checked: '2026-08-01T09:21:23.419365+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of VoiceRAG Pattern**: Demonstrates interactive voice generative AI using Retrieval-Augmented Generation (RAG) with Azure AI Search and Azure OpenAI's `gpt-4o-realtime-preview` model for real-time audio processing.
-
-- **Technical Stack**: Python-based solution leveraging Azure AI Search (vector database), Azure OpenAI, and generative AI models for RAG workflows in audio applications.
-
-- **Deployment & Integration**: Part of Azure Developer CLI (azd) templates, enabling rapid deployment of AI-powered voice experiences with vector search and OpenAI model integration.
+- **Implementation**: Demonstrates the VoiceRAG pattern for interactive voice generative AI using Azure AI Search and Azure OpenAI's `gpt-4o-realtime-preview` model.
+- **Architecture**: Combines Retrieval-Augmented Generation (RAG) with vector search for real-time audio-based Q&A or conversational experiences.
+- **Tech Stack**: Python-based, leveraging Azure AI Search (vector DB), OpenAI's GPT model, and Azure deployment templates (`azd-templates`).
 
 ## Why It Matters
 
@@ -45,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Azure-Samples
-- Stars: 560
-- Forks: 353
+- Stars: 561
+- Forks: 352
 - Language: Python
 - Topics: ai-azd-templates, azd-templates, azure, azure-ai-search, generative-ai, gpt, language-model, openai, rag, retrieval-augmented-generation, search, vector-database
-- Last Updated: 2026-07-18T02:31:26Z
+- Last Updated: 2026-07-27T15:00:03Z
 - License: MIT
 - Archived: No
 - Created At: 2024-09-19T22:36:40Z

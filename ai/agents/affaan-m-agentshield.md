@@ -4,25 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/affaan-m/agentshield
-collected_at: '2026-07-21T22:15:02.475740+05:30'
-published_at: '2026-07-21T13:16:50Z'
+collected_at: '2026-08-01T09:22:28.386908+05:30'
+published_at: '2026-07-31T08:52:19Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
+- scripts
 - typescript
-stars: 1002
+stars: 1034
 language: TypeScript
 status: active
 license: MIT
 archived: false
 created_at: '2026-02-11T06:31:44Z'
-pushed_at: '2026-06-23T07:19:42Z'
+pushed_at: '2026-07-22T07:01:25Z'
 resource_id: github:affaan-m/agentshield
-first_seen: '2026-07-21T22:15:02.475740+05:30'
-last_seen: '2026-07-21T22:15:02.475740+05:30'
-last_checked: '2026-07-21T22:15:02.475740+05:30'
+first_seen: '2026-08-01T09:22:28.386908+05:30'
+last_seen: '2026-08-01T09:22:28.386908+05:30'
+last_checked: '2026-08-01T09:22:28.386908+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: AI agent security scanner designed to detect vulnerabilities in agent configurations, MCP servers, and tool permissions.
-- **Features**: Available as CLI, GitHub Action, ECC plugin, and GitHub App integration.
-- **Technical Details**: Written in TypeScript; supports Anthropic's Claude Code and Opus; includes MCP (Model Context Protocol) security analysis.
+- **Multi-format security scanner** for AI agent ecosystems, detecting vulnerabilities in configurations, MCP servers, and tool permissions via CLI, GitHub Actions, ECC plugin, and GitHub App.
+
+- **TypeScript-based implementation** with integrations for Anthropic's Claude Code and Opus, targeting AI agent security in MCP environments.
+
+- **Hackathon-originated tool** with 1,034 stars and 218 forks, last updated July 31, 2026.
 
 ## Why It Matters
 
@@ -41,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: affaan-m
-- Stars: 1002
+- Stars: 1034
 - Forks: 218
 - Language: TypeScript
 - Topics: ai-agent, anthropic, claude-code, hackathon, mcp, opus, security
-- Last Updated: 2026-07-21T13:16:50Z
+- Last Updated: 2026-07-31T08:52:19Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-11T06:31:44Z
-- Pushed At: 2026-06-23T07:19:42Z
+- Pushed At: 2026-07-22T07:01:25Z
 
 ## Possible Use Cases
 

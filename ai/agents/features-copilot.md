@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/copilot/cli
-published_at: '2026-07-21T19:59:51.533559+05:30'
-collected_at: '2026-07-21T19:59:51.533572+05:30'
+published_at: '2026-08-01T09:27:12.228902+05:30'
+collected_at: '2026-08-01T09:27:12.228909+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-07-21T19:59:51.533572+05:30'
-last_seen: '2026-07-21T19:59:51.533572+05:30'
-last_checked: '2026-07-21T19:59:51.533572+05:30'
+first_seen: '2026-08-01T09:27:12.228909+05:30'
+last_seen: '2026-08-01T09:27:12.228909+05:30'
+last_checked: '2026-08-01T09:27:12.228909+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Workflows**: Copilot CLI enables parallelized task execution via `/fleet`, allowing subagents to work concurrently on subtasks (e.g., model comparisons with `/model`) and converge on a decision-ready result with user-controlled approvals.
+- **Multi-agent orchestration**: GitHub Copilot CLI enables parallelized subagent execution via `/fleet`, allowing concurrent task processing across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching and result convergence.
 
-- **GitHub-Native Integration**: Built on GitHub’s Model Context Protocol (MCP), it natively interacts with issues, PRs, and branches, inheriting organizational policies (branch protections, Copilot Business/Enterprise settings) while supporting `/plan` → `/IDE` → PR workflows.
+- **Native GitHub integration**: Built on GitHub’s Model Context Protocol (MCP), it directly interacts with issues, PRs, branches, and labels while enforcing org-specific policies (branch protections, required checks) without additional setup.
 
-- **Extensible & Cross-Platform**: Supports custom MCP servers, skills, and plugins for tool integration; operates across macOS/Linux/Windows and integrates with VS Code via terminal/chat panel, with session persistence and experimental feature access via `/experimental show`.
+- **Terminal-to-IDE workflow**: Supports `/plan` for task outlining, `/resume` for session persistence, and seamless transitions to VS Code for refinement, with autonomous execution via `/delegate` (e.g., branch creation, PR generation) under explicit user approval.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-21T19:59:51.533559+05:30
+- Published: 2026-08-01T09:27:12.228902+05:30
 
 ## Related Tags
 

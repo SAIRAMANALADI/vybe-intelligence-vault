@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://milvus.io/docs/install_standalone-docker.md
-published_at: '2026-07-20T15:09:47.388412+05:30'
-collected_at: '2026-07-20T15:09:47.388425+05:30'
+published_at: '2026-08-01T09:25:00.675064+05:30'
+collected_at: '2026-08-01T09:25:00.675074+05:30'
 tags:
 - anthropic
 - openai
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:run-milvus-in-docker-linux-milvus-documentation
-first_seen: '2026-07-20T15:09:47.388425+05:30'
-last_seen: '2026-07-20T15:09:47.388425+05:30'
-last_checked: '2026-07-20T15:09:47.388425+05:30'
+first_seen: '2026-08-01T09:25:00.675074+05:30'
+last_seen: '2026-08-01T09:25:00.675074+05:30'
+last_checked: '2026-08-01T09:25:00.675074+05:30'
 health_score: 100
 ---
 
@@ -26,9 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Milvus v3.0.x** introduces **Streaming Node** for enhanced data processing, **Woodpecker MQ** for optimized message queueing with reduced overhead, and an **optimized architecture** consolidating components for improved performance.
-- **Standalone Docker deployment** uses an embedded etcd (port `2379`), Milvus server (port `19530`), and a mapped data volume (`volumes/milvus`), with configurations modifiable via `user.yaml` and observable via WebUI (`127.0.0.1:9091`).
-- **Upgrade path** via `standalone_embed.sh upgrade` preserves data/configs, while **backup** requires Docker Compose for standalone deployments; managed Milvus (Zilliz Cloud) offers a 10x faster, fully managed alternative.
+- **Milvus v3.0.0 Docker Deployment**: Introduces **Streaming Node** for enhanced data processing, **Woodpecker MQ** (default) with local filesystem WAL backend, and an optimized architecture consolidating components for improved performance.
+
+- **Standalone Docker Setup**: Uses `standalone_embed.sh` script to deploy Milvus in a single container with embedded etcd (port `2379`) and Milvus (port `19530`), mapping data volume to `./volumes/milvus` and allowing config overrides via `user.yaml`.
+
+- **Upgrade & Optional Dependencies**: Supports seamless upgrades via `standalone_embed.sh upgrade`, preserving data/configs; optional dependencies include alternative message queues (Pulsar/Kafka/RocksMQ), object storage (MinIO/S3/Azure/GCP), and metadata stores (etcd).
 
 ## Why It Matters
 
@@ -38,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T15:09:47.388412+05:30
+- Published: 2026-08-01T09:25:00.675064+05:30
 
 ## Related Tags
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://policies.google.com/terms
-published_at: '2026-07-21T14:22:11.360532+05:30'
-collected_at: '2026-07-21T14:22:11.360549+05:30'
+published_at: '2026-08-01T09:26:11.722733+05:30'
+collected_at: '2026-08-01T09:26:11.722741+05:30'
 tags:
 - hackernews
 - paper
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:google-terms-of-service-privacy-terms-google
-first_seen: '2026-07-21T14:22:11.360549+05:30'
-last_seen: '2026-07-21T14:22:11.360549+05:30'
-last_checked: '2026-07-21T14:22:11.360549+05:30'
+first_seen: '2026-08-01T09:26:11.722741+05:30'
+last_seen: '2026-08-01T09:26:11.722741+05:30'
+last_checked: '2026-08-01T09:26:11.722741+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Service Provider & Legal Framework**: Google LLC (Delaware-registered, USA) operates under U.S. laws, providing services via a contractual relationship where users agree to the Terms of Service (effective May 22, 2024) and Privacy Policy, with updates previewed for July 30, 2026.
+- **Service Provider & Jurisdiction**: Google LLC (Delaware-registered, USA-based) provides services under U.S. laws, with contractual obligations governed by California jurisdiction (1600 Amphitheatre Parkway, Mountain View).
 
-- **User Obligations & Restrictions**: Users must comply with Google’s terms, service-specific policies (e.g., age requirements, Generative AI Prohibited Use Policy), and prohibitions against abuse (e.g., malware, phishing, reverse engineering, AI-generated content misuse, or automated scraping violating `robots.txt`).
+- **Automated & AI-Driven Service Modifications**: Google reserves rights to dynamically update services (e.g., AI/ML-driven features like spam detection or real-time translations) with material changes requiring advance notice unless urgent (e.g., security fixes, legal compliance).
 
-- **Content & Intellectual Property**: Users retain ownership of uploaded content but grant Google a license for service operation; Google retains IP rights in its services, while users must ensure lawful, rights-compliant content submission under Google’s [Privacy Policy](https://policies.google.com/privacy).
+- **Content Usage & Restrictions**: Users retain IP rights to uploaded content but grant Google a license for processing; prohibited actions include reverse-engineering models, using automated scraping (violating `robots.txt`), or training AI models on Google-generated content without explicit permission.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T14:22:11.360532+05:30
+- Published: 2026-08-01T09:26:11.722733+05:30
 
 ## Related Tags
 

@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- Introduced dark/light mode pairs for Chroma highlighter styles and new flags for `hugo gen chromastyles` command.
-- Added new template functions: `encoding.HexEncode`, `encoding.HexDecode`, and `crypto.Hash`, along with Pandoc citation support and `markup.rst.syntaxHighlight` option.
-- Deprecated `resources.PostProcess` in favor of `templates.Defer` and fixed performance regression introduced in v0.128.0 affecting larger sites.
+- Introduced dark/light mode pairs for Chroma highlighter styles and new CLI flags for `hugo gen chromastyles` in v0.164.0.
+- Added new template functions: `encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`, and `markup.rst.syntaxHighlight` option.
+- Deprecated `resources.PostProcess` in favor of `templates.Defer` and fixed a performance regression affecting large sites since v0.128.0.
 
 ## Use Cases
 

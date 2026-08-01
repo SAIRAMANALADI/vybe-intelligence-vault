@@ -3,9 +3,9 @@ title: TXYZ - Integrate all paths to knowledge
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.txyz.ai/
-published_at: '2026-07-20T22:23:26.787874+05:30'
-collected_at: '2026-07-20T22:23:26.787889+05:30'
+source_url: https://txyz.ai
+published_at: '2026-08-01T09:26:29.395709+05:30'
+collected_at: '2026-08-01T09:26:29.395724+05:30'
 tags:
 - agents
 - hackernews
@@ -13,14 +13,15 @@ tags:
 - producthunt
 - rag
 - reddit
+- scripts
 - threejs
 - web-crawled
 - workflows
 status: active
 resource_id: blog:txyz-integrate-all-paths-to-knowledge
-first_seen: '2026-07-20T22:23:26.787889+05:30'
-last_seen: '2026-07-20T22:23:26.787889+05:30'
-last_checked: '2026-07-20T22:23:26.787889+05:30'
+first_seen: '2026-08-01T09:26:29.395724+05:30'
+last_seen: '2026-08-01T09:26:29.395724+05:30'
+last_checked: '2026-08-01T09:26:29.395724+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **TXYZ Platform**: Offers four core products—**Searching** (AI-driven knowledge discovery), **Reading** (AI-augmented document analysis), **Writing** (AI-assisted content generation), and **API** (enterprise-grade integration)—with tiered pricing (Free, Pro at $96/year, Ultra at $288/year) featuring escalating usage limits, context windows (up to 3x Pro’s in Ultra), and agentic workflows.
+- **TXYZ AI Platform**: Integrates four core modules—**Searching** (knowledge discovery), **Reading** (AI-powered document analysis), **Writing** (agentic workflow automation), and **API** (enterprise integration)—across academic and industry R&D workflows.
 
-- **Privacy & Security**: Uploaded documents are **private by default**, with deletion triggering removal from the database; API access available for institutional/enterprise integration via `support@txyz.ai`.
+- **Pricing Tiers**: Offers **Free** (basic AI assistance, 100-page uploads), **Pro** ($96/year, extended limits, full library access), and **Ultra** ($288/year, 300-page uploads, 3x context window, premium agents).
 
-- **Reliability Mechanisms**: Implements **retrieval-augmented generation (RAG)** to mitigate hallucinations, providing **document-location references** for answers; supports **500K+ researchers** across academic, industry R&D, and market research use cases.
+- **Privacy & Reliability**: Uploaded documents remain private; deletion triggers database removal. Answers mitigate hallucinations via retrieval-augmented generation with source citations.
 
 ## Why It Matters
 
@@ -42,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T22:23:26.787874+05:30
+- Published: 2026-08-01T09:26:29.395709+05:30
 
 ## Related Tags
 
@@ -52,10 +53,11 @@ General public resource representing technology updates, guides, or tutorials.
 - producthunt
 - rag
 - reddit
+- scripts
 - threejs
 - web-crawled
 - workflows
 
 ## Source
 
-Original source: https://www.txyz.ai/
+Original source: https://txyz.ai

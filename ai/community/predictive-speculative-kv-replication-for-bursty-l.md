@@ -13,13 +13,14 @@ collected_at: '2026-08-01T03:47:10.404164+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:predictive-speculative-kv-replication-for-bursty-l
 first_seen: '2026-08-01T03:47:10.404164+05:30'
 last_seen: '2026-08-01T03:47:10.404164+05:30'
 last_checked: '2026-08-01T03:47:10.404164+05:30'
 health_score: 100
 ---
+
 
 # Predictive Speculative KV Replication for Bursty LLM Inference
 

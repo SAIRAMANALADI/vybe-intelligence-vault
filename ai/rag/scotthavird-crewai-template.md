@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/scotthavird/crewai-template
-collected_at: '2026-07-21T22:17:17.658977+05:30'
+collected_at: '2026-08-01T09:24:48.620049+05:30'
 published_at: '2026-04-29T02:05:35Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - producthunt
 - python
 - rag
+- scripts
 - workflows
 stars: 1
 language: Python
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-02-01T18:48:16Z'
 pushed_at: '2026-04-29T02:05:32Z'
 resource_id: github:scotthavird/crewai-template
-first_seen: '2026-07-21T22:17:17.658977+05:30'
-last_seen: '2026-07-21T22:17:17.658977+05:30'
-last_checked: '2026-07-21T22:17:17.658977+05:30'
+first_seen: '2026-08-01T09:24:48.620049+05:30'
+last_seen: '2026-08-01T09:24:48.620049+05:30'
+last_checked: '2026-08-01T09:24:48.620049+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Dockerized Scaffolding**: Provides a minimal, production-ready Docker Compose setup for CrewAI projects, pre-configured with essential dependencies and environment variables for rapid deployment.
-
-- **Python-Based Architecture**: Implements a Python-based CrewAI framework, leveraging modular agents, tasks, and tools for AI-driven workflow orchestration.
-
-- **Best Practices Integration**: Incorporates industry-standard configurations (e.g., logging, error handling) and modular project structure to ensure scalability and maintainability.
+- **Dockerized Scaffolding**: Provides a minimal, pre-configured Docker Compose setup for rapid CrewAI project deployment, including essential services and dependencies.
+- **Python-Based**: Entirely implemented in Python, leveraging CrewAI’s framework for agent orchestration and task automation.
+- **Pre-Built Best Practices**: Incorporates optimized configurations and project structure to streamline development and deployment workflows.
 
 ## Why It Matters
 

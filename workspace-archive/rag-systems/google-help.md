@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Google Chrome**: Chromium-based browser with V8 JavaScript engine, Blink rendering engine, and built-in Google Safe Browsing for phishing/malware protection.
-- **Google Workspace (Admin/Users)**: Cloud-based productivity suite (Gmail, Docs, Drive) with OAuth 2.0 authentication, SAML/SCIM identity management, and 256-bit AES encryption at rest.
-- **Google Cloud Platform**: Infrastructure-as-a-Service with Compute Engine (KVM-based VMs), BigQuery (petabyte-scale SQL analytics), and Cloud CDN (
+- **Google Chrome**: Cross-platform web browser developed by Google, utilizing Blink rendering engine and V8 JavaScript engine for high-performance web applications.
+- **Google Cloud**: Enterprise-grade cloud computing platform offering IaaS, PaaS, and serverless computing with services like Compute Engine, Kubernetes Engine, and BigQuery.
+- **Google Ads**: Pay-per-click advertising platform leveraging machine learning for ad targeting, bid optimization, and performance analytics across Search,
 
 ## Use Cases
 

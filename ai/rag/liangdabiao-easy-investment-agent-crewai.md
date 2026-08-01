@@ -4,23 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/liangdabiao/easy_investment_Agent_crewai
-collected_at: '2026-07-21T22:17:22.580139+05:30'
-published_at: '2026-07-17T06:08:52Z'
+collected_at: '2026-08-01T09:24:48.573137+05:30'
+published_at: '2026-07-30T13:10:40Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - python
 - rag
-stars: 463
+- workflows
+stars: 471
 language: Python
 status: active
 archived: false
 created_at: '2025-09-26T11:16:52Z'
 pushed_at: '2026-05-07T01:07:08Z'
 resource_id: github:liangdabiao/easy_investment_agent_crewai
-first_seen: '2026-07-21T22:17:22.580139+05:30'
-last_seen: '2026-07-21T22:17:22.580139+05:30'
-last_checked: '2026-07-21T22:17:22.580139+05:30'
+first_seen: '2026-08-01T09:24:48.573137+05:30'
+last_seen: '2026-08-01T09:24:48.573137+05:30'
+last_checked: '2026-08-01T09:24:48.573137+05:30'
 health_score: 100
 ---
 
@@ -28,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent A-Shares Analysis Framework**: Implements a 4-agent system (Python) using CrewAI for collaborative A-shares investment analysis, integrating real-time market data, financial metrics, fund flows, and sentiment analysis via AKShare APIs.
-- **China-Specific Optimization**: Tailored for Chinese stock market dynamics, leveraging localized data sources and analytical tools to address regional market characteristics.
-- **Actionable Investment Insights**: Aggregates multi-source data (e.g., AKShare) to generate automated, AI-driven investment recommendations and decision-support metrics.
+- **Multi-Agent A股 Analysis Framework**: Implements 4 specialized AI agents (data retrieval, financial analysis, sentiment evaluation, investment recommendation) using CrewAI for collaborative A-share market analysis with real-time AKShare data integration.
+
+- **Comprehensive A-Shares Data Pipeline**: Aggregates live quotes, financial metrics, fund flows, and market sentiment via AKShare API, with China-specific optimizations for A-share market characteristics.
+
+- **Automated Investment Decision Engine**: Processes multi-source data through agent collaboration to generate structured investment recommendations, leveraging Python-based CrewAI orchestration for modular analysis workflows.
 
 ## Why It Matters
 
@@ -39,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: liangdabiao
-- Stars: 463
+- Stars: 471
 - Forks: 96
 - Language: Python
 - Topics: agent
-- Last Updated: 2026-07-17T06:08:52Z
+- Last Updated: 2026-07-30T13:10:40Z
 - Archived: No
 - Created At: 2025-09-26T11:16:52Z
 - Pushed At: 2026-05-07T01:07:08Z

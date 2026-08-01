@@ -4,19 +4,18 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-07-21T22:13:27.416034+05:30'
-published_at: '2026-07-20T15:07:29Z'
+collected_at: '2026-08-01T09:20:53.385583+05:30'
+published_at: '2026-07-27T01:59:34Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
 - openai
 - rag
 - workflows
-stars: 969
+stars: 970
 language: Jupyter Notebook
 status: active
 license: Apache-2.0
@@ -24,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-07-21T22:13:27.416034+05:30'
-last_seen: '2026-07-21T22:13:27.416034+05:30'
-last_checked: '2026-07-21T22:13:27.416034+05:30'
+first_seen: '2026-08-01T09:20:53.385583+05:30'
+last_seen: '2026-08-01T09:20:53.385583+05:30'
+last_checked: '2026-08-01T09:20:53.385583+05:30'
 health_score: 100
 ---
 
@@ -34,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Examples**: Repository provides Jupyter Notebook-based tutorials and examples for multimodal AI, Retrieval-Augmented Generation (RAG), and agent-based systems using vector search and Large Language Models (LLMs).
-- **Toolchain Integration**: Demonstrates workflows integrating LanceDB (vector database), LangChain, LlamaIndex, OpenAI (including GPT-4 Vision), and fine-tuning techniques for embeddings and LLMs.
-- **Technical Focus**: Covers deep learning, embeddings optimization, and multimodal AI pipelines, with last update as of July 20, 2026.
+- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook examples for integrating vector search with LLMs (e.g., GPT-4-Vision, Llama-Index) to build Retrieval-Augmented Generation (RAG) systems and multimodal AI pipelines.
+
+- **Vector Database Recipes**: Demonstrates practical use cases of LanceDB (a vector database) for efficient similarity search, embeddings management, and hybrid retrieval in AI/ML workflows.
+
+- **Agent & Fine-Tuning Workflows**: Includes tutorials on deploying AI agents, fine-tuning models, and leveraging LangChain for end-to-end pipelines combining LLMs, embeddings, and vector databases.
 
 ## Why It Matters
 
@@ -45,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: lancedb
-- Stars: 969
-- Forks: 171
+- Stars: 970
+- Forks: 170
 - Language: Jupyter Notebook
 - Topics: agents, ai, deep-learning, embeddings, fine-tuning, gpt, gpt-4-vision, lancedb, langchain, llama-index, llms, machine-learning, multimodal, multimodal-ai, openai, rag, vector-database
-- Last Updated: 2026-07-20T15:07:29Z
+- Last Updated: 2026-07-27T01:59:34Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-06-25T06:10:35Z

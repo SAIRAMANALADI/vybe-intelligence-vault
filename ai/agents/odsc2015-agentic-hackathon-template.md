@@ -4,10 +4,11 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/odsc2015/agentic-hackathon-template
-collected_at: '2026-07-21T22:16:47.553219+05:30'
+collected_at: '2026-08-01T09:24:13.497739+05:30'
 published_at: '2026-05-10T13:08:24Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - unknown
 stars: 19
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-07-24T08:33:29Z'
 pushed_at: '2025-07-25T16:42:10Z'
 resource_id: github:odsc2015/agentic-hackathon-template
-first_seen: '2026-07-21T22:16:47.553219+05:30'
-last_seen: '2026-07-21T22:16:47.553219+05:30'
-last_checked: '2026-07-21T22:16:47.553219+05:30'
+first_seen: '2026-08-01T09:24:13.497739+05:30'
+last_seen: '2026-08-01T09:24:13.497739+05:30'
+last_checked: '2026-08-01T09:24:13.497739+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Standardized Framework**: Provides a pre-structured repository with predefined folders, environment specifications, and documentation templates to ensure consistency across submissions for the Agentic AI App Hackathon.
+- **Standardized Starter Repository**: Provides a pre-configured folder structure, reproducible environment specifications, and documentation templates for the Agentic AI App Hackathon to streamline team submissions and judging.
 
-- **Reproducible Environment**: Includes a reproducible setup (e.g., `environment.yml`, `requirements.txt`) to ensure consistent dependency management and execution across different systems.
+- **Reproducible Environment**: Includes a spec file (e.g., `environment.yml` or `requirements.txt`) to ensure consistent dependency management and execution across different setups.
 
-- **Judging Optimization**: Designed to streamline submission and judging processes by enforcing a standardized structure, reducing setup overhead for participants and evaluators.
+- **Judging Optimization**: Designed with placeholders for key documentation (e.g., `README.md`, `setup.md`) to facilitate structured and efficient evaluation by judges.
 
 ## Why It Matters
 

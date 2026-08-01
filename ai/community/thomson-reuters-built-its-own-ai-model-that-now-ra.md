@@ -13,13 +13,14 @@ collected_at: '2026-08-01T03:47:10.546995+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:thomson-reuters-built-its-own-ai-model-that-now-ra
 first_seen: '2026-08-01T03:47:10.546995+05:30'
 last_seen: '2026-08-01T03:47:10.546995+05:30'
 last_checked: '2026-08-01T03:47:10.546995+05:30'
 health_score: 100
 ---
+
 
 # Thomson Reuters built its own AI model that now ranks among the best
 

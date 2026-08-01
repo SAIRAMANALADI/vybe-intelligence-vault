@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/markup/#syntaxhighlight
-published_at: '2026-07-21T22:19:30.103049+05:30'
-collected_at: '2026-07-21T22:19:30.103066+05:30'
+published_at: '2026-08-01T09:26:19.071391+05:30'
+collected_at: '2026-08-01T09:26:19.071405+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-markup
-first_seen: '2026-07-21T22:19:30.103066+05:30'
-last_seen: '2026-07-21T22:19:30.103066+05:30'
-last_checked: '2026-07-21T22:19:30.103066+05:30'
+first_seen: '2026-08-01T09:26:19.071405+05:30'
+last_seen: '2026-08-01T09:26:19.071405+05:30'
+last_checked: '2026-08-01T09:26:19.071405+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Default Markdown Handler**: Hugo defaults to Goldmark for Markdown rendering (`.md`, `.mdown`, `.markdown`), with alternative handlers (`asciidocext`, `org`, `pandoc`, `rst`) configurable via `defaultMarkdownHandler`; Goldmark is recommended for its speed, CommonMark/GFM compliance, and maintenance.
+- Hugo defaults to **Goldmark** for Markdown rendering (CommonMark/GFM-compliant), with alternative handlers (`asciidocext`, `org`, `pandoc`, `rst`) requiring external tool installation and security policy updates.
 
-- **Goldmark Configuration**: Goldmark’s default settings include enabled extensions (`definitionList`, `footnote`, `linkify`, `strikethrough`, `table`, `taskList`, `typographer`) and configurable parser/renderer options (e.g., `autoHeadingID`, `hardWraps`, `unsafe`); extensions like `extras` (subscript/superscript) require disabling conflicting extensions (e.g., `strikethrough`).
+- Goldmark’s default config includes **enabled extensions** (`footnote`, `table`, `taskList`, `strikethrough`, `linkify`, `typographer`) and **disabled features** (`cjk`, `extras`, `passthrough`), with granular control via `markup.goldmark.*` settings.
 
-- **Multilingual & Render Hooks**: `duplicateResourceFiles` controls resource duplication in multilingual projects, defaulting to `false` to enable embedded link/image render hooks; `wrapStandAloneImageWithinParagraph` toggles standalone image wrapping in `<p>` tags (default: `true`).
+- Key Goldmark settings include `duplicateResourceFiles` (multilingual resource handling), `parser.wrapStandAloneImageWithinParagraph` (standalone image rendering), and `parser.autoHeadingID` (auto-generated heading IDs).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T22:19:30.103049+05:30
+- Published: 2026-08-01T09:26:19.071391+05:30
 
 ## Related Tags
 

@@ -4,10 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ajac-zero/example-rag-app
-collected_at: '2026-07-31T14:50:15.894093+05:30'
+collected_at: '2026-08-01T09:21:28.369728+05:30'
 published_at: '2026-07-25T21:07:25Z'
 tags:
+- anthropic
 - github-repo
+- mistral
+- models
+- openai
 - rag
 - typescript
 stars: 162
@@ -18,9 +22,9 @@ archived: false
 created_at: '2025-02-18T16:15:24Z'
 pushed_at: '2026-01-15T20:18:12Z'
 resource_id: github:ajac-zero/example-rag-app
-first_seen: '2026-07-31T14:50:15.894093+05:30'
-last_seen: '2026-07-31T14:50:15.894093+05:30'
-last_checked: '2026-07-31T14:50:15.894093+05:30'
+first_seen: '2026-08-01T09:21:28.369728+05:30'
+last_seen: '2026-08-01T09:21:28.369728+05:30'
+last_checked: '2026-08-01T09:21:28.369728+05:30'
 health_score: 100
 ---
 
@@ -28,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-*   Integrates Langfuse for LLM observability and LiteLLM for multi-provider LLM API abstraction.
-*   Implements a Dockerized RAG application architecture for containerized deployment.
-*   Ensures high code quality via TypeScript, full type-checking, and 100% test coverage.
+- **Observability & Multi-Provider Support**: Integrates Langfuse for LLM observability and LiteLLM for 100+ provider compatibility (e.g., OpenAI, Anthropic, Mistral).
+- **DevOps & Type Safety**: Dockerized deployment with full TypeScript type-checking and 100% test coverage for reliability.
+- **Modern RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) with modular architecture, optimized for production-grade AI applications.
 
 ## Why It Matters
 

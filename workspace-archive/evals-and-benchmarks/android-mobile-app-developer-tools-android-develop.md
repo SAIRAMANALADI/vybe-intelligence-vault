@@ -3,7 +3,7 @@ title: Android Mobile App Developer Tools - Android Developers
 archive_category: evals-and-benchmarks
 source_category: ai/rag
 source_url: http://developer.android.com/index.html
-resource_id: blog:android-mobile-app-developer-tools-android-develop
+resource_id: blog:android-mobile-app-developer-tools-android-develop-c49536a3
 local_vault_path: ai/rag/android-mobile-app-developer-tools-android-develop.md
 quality_score: 70
 archive_score: 72

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Code-and-Sorts/awesome-copilot-agents
-collected_at: '2026-07-21T22:15:07.480024+05:30'
-published_at: '2026-07-20T22:59:31Z'
+collected_at: '2026-08-01T09:22:33.461460+05:30'
+published_at: '2026-07-30T05:20:58Z'
 tags:
 - agents
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-19T17:37:01Z'
 pushed_at: '2026-04-29T06:42:59Z'
 resource_id: github:code-and-sorts/awesome-copilot-agents
-first_seen: '2026-07-21T22:15:07.480024+05:30'
-last_seen: '2026-07-21T22:15:07.480024+05:30'
-last_checked: '2026-07-21T22:15:07.480024+05:30'
+first_seen: '2026-08-01T09:22:33.461460+05:30'
+last_seen: '2026-08-01T09:22:33.461460+05:30'
+last_checked: '2026-08-01T09:22:33.461460+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resources**: Repository aggregates GitHub Copilot enhancement materials, including instructions, prompts, skills, MCPs, and agent markdown files, optimized for AI agent interactions.
-- **Technical Scope**: Focuses on custom agents, prompt engineering, and VS Code Copilot Chat integration, with TypeScript-based implementations and GitHub-specific tooling.
-- **Community Metrics**: Maintains 553 stars and 93 forks, last updated July 20, 2026, under the `Code-and-Sorts` organization.
+- **Curated Resource**: GitHub repository containing optimized GitHub Copilot instructions, prompts, skills, MCPs, and agent markdown files to enhance AI agent capabilities.
+- **Technical Scope**: Focuses on `agent-skills`, `prompt-engineering`, `custom-agents`, and `MCP` (Model Context Protocol) integration for VS Code Copilot Chat.
+- **Metadata**: 553 stars, 91 forks, TypeScript-based, last updated July 30, 2026.
 
 ## Why It Matters
 
@@ -41,10 +41,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: Code-and-Sorts
 - Stars: 553
-- Forks: 93
+- Forks: 91
 - Language: TypeScript
 - Topics: agent-skills, ai-agents, awesome, awesome-list, copilot-instructions, copilot-prompting, custom-agents, github-copilot, mcp, prompt-engineering, vscode-copilot-chat
-- Last Updated: 2026-07-20T22:59:31Z
+- Last Updated: 2026-07-30T05:20:58Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2025-04-19T17:37:01Z

@@ -5,28 +5,27 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731
 hn_url: https://news.ycombinator.com/item?id=49124358
-score: 62
+score: 131
 author: retupmoc01
-comments_count: 65
+comments_count: 155
 published_at: '2026-07-31T20:59:39+05:30'
-collected_at: '2026-07-31T22:27:44.130967+05:30'
+collected_at: '2026-08-01T09:19:51.082145+05:30'
 tags:
 - ai
 - hackernews
-status: inactive
+status: active
 resource_id: hackernews:is-ai-reasoning-right-for-the-wrong-reasons
 first_seen: '2026-07-31T22:27:44.130967+05:30'
-last_seen: '2026-07-31T22:27:44.130967+05:30'
-last_checked: '2026-07-31T22:27:44.130967+05:30'
+last_seen: '2026-08-01T09:19:51.082145+05:30'
+last_checked: '2026-08-01T09:19:51.082145+05:30'
 health_score: 100
 ---
-
 
 # Is AI reasoning right for the wrong reasons?
 
 ## Summary
 
-Hacker News story by retupmoc01. Score: 62, Comments: 65.
+Hacker News story by retupmoc01. Score: 131, Comments: 155.
 Original Link: https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/
 
 ## Why It Matters
@@ -36,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: retupmoc01
-- Score: 62 Upvotes
-- Comments: 65 Discussions
+- Score: 131 Upvotes
+- Comments: 155 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49124358
 - Original Article: https://quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731
 

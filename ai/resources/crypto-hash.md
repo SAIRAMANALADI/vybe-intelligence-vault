@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/functions/crypto/hash/
-published_at: '2026-07-21T22:19:34.880067+05:30'
-collected_at: '2026-07-21T22:19:34.880081+05:30'
+published_at: '2026-08-01T09:26:23.769881+05:30'
+collected_at: '2026-08-01T09:26:23.769888+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:crypto-hash
-first_seen: '2026-07-21T22:19:34.880081+05:30'
-last_seen: '2026-07-21T22:19:34.880081+05:30'
-last_checked: '2026-07-21T22:19:34.880081+05:30'
+first_seen: '2026-08-01T09:26:23.769888+05:30'
+last_seen: '2026-08-01T09:26:23.769888+05:30'
+last_checked: '2026-08-01T09:26:23.769888+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Functionality**: Hashes input using specified algorithm (`md5`, `sha1`, `sha256` (default), `sha384`, or `sha512`) and returns hex-encoded checksum.
-- **Syntax**: `crypto.Hash [ALGORITHM] INPUT` or piped input (`"Hello world" | crypto.Hash "sha256"`).
-- **SRI Integration**: Supports Subresource Integrity (SRI) via `crypto.Hash` combined with `encoding.HexDecode` and `encoding.Base64Encode` for constructing SRI hashes.
+- **Hashing Function**: `crypto.Hash` computes checksums of input strings using specified algorithms (`md5`, `sha1`, `sha256`, `sha384`, `sha512`), defaulting to `sha256` if unspecified.
+- **Output Encoding**: Returns checksum as a hexadecimal string; can be combined with `encoding.HexDecode` and `encoding.Base64Encode` for SRI hash construction.
+- **Syntax Variants**: Supports direct invocation (`crypto.Hash "sha256" "input"`) or piped input (`"input" | crypto.Hash "sha256"`).
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-21T22:19:34.880067+05:30
+- Published: 2026-08-01T09:26:23.769881+05:30
 
 ## Related Tags
 
