@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-01T14:24:52.678215+05:30`
+Generated at: `2026-08-01T14:37:25.607937+05:30`
 
 ## Executive Summary
 
@@ -13,16 +13,16 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **pinecone-io/pinecone-claude-code-plugin** - Score: `0` in category `ai/rag` ([Link](https://github.com/pinecone-io/pinecone-claude-code-plugin)) ([File](../ai/rag/pinecone-io-pinecone-claude-code-plugin.md))
 - **Installation | uv** - Score: `0` in category `ai/rag` ([Link](https://docs.astral.sh/uv/getting-started/installation)) ([File](../ai/rag/installation-uv.md))
 - **saket/telephoto** - Score: `0` in category `ai/rag` ([Link](https://github.com/saket/telephoto)) ([File](../ai/rag/saket-telephoto.md))
-- **About building integrations - GitHub Docs** - Score: `0` in category `ai/rag` ([Link](https://docs.github.com/get-started/exploring-integrations/about-building-integrations)) ([File](../ai/rag/about-building-integrations-github-docs.md))
 - **Collections · GitHub** - Score: `0` in category `ai/resources` ([Link](https://github.com/collections)) ([File](../ai/resources/collections-github.md))
-- **Take spatial photos and record spatial videos for Apple Vision Pro with your iPhone camera - Apple Support** - Score: `0` in category `ai/rag` ([Link](https://support.apple.com/guide/iphone/spatial-photos-record-videos-apple-vision-pro-iph6e3a6d4fe/ios)) ([File](../ai/rag/take-spatial-photos-and-record-spatial-videos-for.md))
 - **How to get Apple Intelligence - Apple Support** - Score: `0` in category `ai/rag` ([Link](https://support.apple.com/121115)) ([File](../ai/rag/how-to-get-apple-intelligence-apple-support.md))
 - **Mac - Official Apple Support** - Score: `0` in category `ai/rag` ([Link](https://support.apple.com/mac?cid=gn-ols-mac-psp-prodfly)) ([File](../ai/rag/mac-official-apple-support.md))
 - **Continuity features and requirements for Apple devices - Apple Support** - Score: `0` in category `ai/resources` ([Link](https://support.apple.com/108046)) ([File](../ai/resources/continuity-features-and-requirements-for-apple-dev.md))
-- **Fast, disk space efficient package manager | pnpm** - Score: `0` in category `ai/rag` ([Link](https://pnpm.io)) ([File](../ai/rag/fast-disk-space-efficient-package-manager-pnpm.md))
 - **Welcome to Haddock’s documentation! — Haddock documentation** - Score: `0` in category `ai/resources` ([Link](https://haskell.org/haddock/doc/html/ch03s08.html)) ([File](../ai/resources/welcome-to-haddocks-documentation-haddock-document.md))
-- **NVIDIA Corporation · GitHub** - Score: `0` in category `ai/rag` ([Link](https://github.com/nvidia)) ([File](../ai/rag/nvidia-corporation-github.md))
 - **World Leader in Artificial Intelligence Computing | NVIDIA** - Score: `0` in category `ai/rag` ([Link](https://nvidia.com)) ([File](../ai/rag/world-leader-in-artificial-intelligence-computing.md))
+- **Preparing your code for CodeQL analysis - GitHub Docs** - Score: `0` in category `ai/agents` ([Link](https://codeql.github.com/docs/codeql-cli/creating-codeql-databases)) ([File](../ai/agents/preparing-your-code-for-codeql-analysis-github-doc.md))
+- **Tensor playground** - Score: `0` in category `ai/resources` ([Link](https://docs.vespa.ai/playground)) ([File](../ai/resources/tensor-playground.md))
+- **Android Developers Blog: Celebrating 5 years of Jetpack Compose** - Score: `0` in category `ai/resources` ([Link](https://android-developers.googleblog.com/2026/07/five-years-of-jetpack-compose.html)) ([File](../ai/resources/android-developers-blog-celebrating-5-years-of-jet.md))
+- **iPad - Apple** - Score: `0` in category `ai/resources` ([Link](https://apple.com/ipad)) ([File](../ai/resources/ipad-apple.md))
 
 ## Top Trending Resources
 
@@ -30,25 +30,25 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **Tailscale didn't stop the Hugging Face intrusion** - Score: `540` (+55), Rank Change: `0` ([File](../ai/community/tailscale-didn-t-stop-the-hugging-face-intrusion.md))
 - **Is AI reasoning right for the wrong reasons?** - Score: `159` (+28), Rank Change: `0` ([File](../ai/community/is-ai-reasoning-right-for-the-wrong-reasons.md))
 - **Golang proposal: container/: generic collection types** - Score: `149` (+16), Rank Change: `-2` ([File](../ai/community/golang-go.md))
-- **Overview of the ML Kit GenAI APIs | Google for Developers** - Score: `0` (0), Rank Change: `+10123` ([File](../ai/rag/overview-of-the-ml-kit-genai-apis-google-for-devel.md))
-- **Introduction to Lighthouse | Chrome for Developers** - Score: `0` (0), Rank Change: `+28` ([File](../ai/rag/introduction-to-lighthouse-chrome-for-developers.md))
-- **Firebase | Google's Mobile and Web App Development Platform** - Score: `0` (0), Rank Change: `+6` ([File](../ai/rag/firebase-google-s-mobile-and-web-app-development-p.md))
-- **GoogleChrome/web-vitals** - Score: `0` (0), Rank Change: `+29` ([File](../ai/resources/googlechrome-web-vitals.md))
-- **About PageSpeed Insights | Google for Developers** - Score: `0` (0), Rank Change: `+20` ([File](../ai/resources/about-pagespeed-insights-google-for-developers.md))
-- **Performance panel: Analyze your website's performance | Chrome DevTools | Chrome for Developers** - Score: `0` (0), Rank Change: `+26` ([File](../ai/resources/performance-panel-analyze-your-website-s-performan.md))
+- **GoogleChrome/web-vitals** - Score: `0` (0), Rank Change: `+32` ([File](../ai/resources/googlechrome-web-vitals.md))
+- **Making sure you're not a bot!** - Score: `0` (0), Rank Change: `+4111` ([File](../ai/resources/making-sure-you-re-not-a-bot.md))
+- **npm Status** - Score: `0` (0), Rank Change: `+55` ([File](../ai/rag/npm-status.md))
+- **microsoft/vscode** - Score: `0` (0), Rank Change: `+4303` ([File](../ai/rag/microsoft-vscode.md))
+- **Digital Millennium Copyright Act - Wikipedia** - Score: `0` (0), Rank Change: `+4280` ([File](../ai/rag/digital-millennium-copyright-act-wikipedia.md))
+- **âApple Store App - App Store** - Score: `0` (0), Rank Change: `+11960` ([File](../ai/rag/aapple-store-app-app-store.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **âApple Store App - App Store** - (Rank Change: `+11954`) ([File](../ai/rag/aapple-store-app-app-store.md))
-- **âApps & Games for Vision - App Store** - (Rank Change: `+11275`) ([File](../ai/resources/aapps-games-for-vision-app-store.md))
-- **[2410.05779] LightRAG: Simple and Fast Retrieval-Augmented Generation** - (Rank Change: `+10785`) ([File](../ai/rag/arxiv-2410-05779.md))
-- **LightRAG** - (Rank Change: `+10563`) ([File](../ai/rag/lightrag.md))
-- **Overview of the ML Kit GenAI APIs | Google for Developers** - (Rank Change: `+10123`) ([File](../ai/rag/overview-of-the-ml-kit-genai-apis-google-for-devel.md))
-- **pandoc: Conversion between markup formats** - (Rank Change: `+8580`) ([File](../ai/rag/pandoc-conversion-between-markup-formats.md))
-- **Quickstart | Milvus Documentation** - (Rank Change: `+8507`) ([File](../ai/rag/quickstart-milvus-documentation.md))
-- **Google Family Link - Apps on Google Play** - (Rank Change: `+7771`) ([File](../ai/resources/google-family-link-apps-on-google-play.md))
-- **Quickstart - Pinecone Docs** - (Rank Change: `+6260`) ([File](../ai/rag/quickstart-pinecone-docs.md))
-- **Claude Code Plugin - Pinecone Docs** - (Rank Change: `+6259`) ([File](../ai/rag/claude-code-plugin-pinecone-docs.md))
+- **âApple Store App - App Store** - (Rank Change: `+11960`) ([File](../ai/rag/aapple-store-app-app-store.md))
+- **[2410.05779] LightRAG: Simple and Fast Retrieval-Augmented Generation** - (Rank Change: `+10831`) ([File](../ai/rag/arxiv-2410-05779.md))
+- **LightRAG** - (Rank Change: `+10613`) ([File](../ai/rag/lightrag.md))
+- **pandoc: Conversion between markup formats** - (Rank Change: `+8591`) ([File](../ai/rag/pandoc-conversion-between-markup-formats.md))
+- **Quickstart | Milvus Documentation** - (Rank Change: `+8543`) ([File](../ai/rag/quickstart-milvus-documentation.md))
+- **Google Family Link - Apps on Google Play** - (Rank Change: `+7780`) ([File](../ai/resources/google-family-link-apps-on-google-play.md))
+- **Claude Code Plugin - Pinecone Docs** - (Rank Change: `+6277`) ([File](../ai/rag/claude-code-plugin-pinecone-docs.md))
+- **Mailing list Subscription Form** - (Rank Change: `+5775`) ([File](../ai/resources/mailing-list-subscription-form.md))
+- **CommonMark** - (Rank Change: `+5666`) ([File](../ai/resources/commonmark.md))
+- **Apple Vision Pro - Apple** - (Rank Change: `+5590`) ([File](../ai/resources/apple-vision-pro-apple.md))
 
 ## 🔄 Essential Tier Transitions
 
