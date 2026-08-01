@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-08-01T19:26:41.488607+05:30'
+collected_at: '2026-08-01T21:46:01.547550+05:30'
 published_at: '2026-07-30T02:07:55Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-08-01T19:26:41.488607+05:30'
-last_seen: '2026-08-01T19:26:41.488607+05:30'
-last_checked: '2026-08-01T19:26:41.488607+05:30'
+first_seen: '2026-08-01T21:46:01.547550+05:30'
+last_seen: '2026-08-01T21:46:01.547550+05:30'
+last_checked: '2026-08-01T21:46:01.547550+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Memory Integration**: Implements a memory-based multi-agent system where agents collaboratively construct and refine graph structures for enhanced retrieval-augmented generation (RAG), leveraging agent-specific memory to improve contextual relevance.
+- **Multi-Agent Architecture**: Implements a memory-based multi-agent system for Graph Retrieval-Augmented Generation (GraphRAG), leveraging distributed agents to enhance graph construction and retrieval.
 
-- **Ontology-Guided Graph Construction**: Utilizes ontology-based techniques to dynamically build and update knowledge graphs, ensuring structured and semantically rich representations for improved graph retrieval and reasoning.
+- **Ontology-Driven Graph Construction**: Utilizes ontology construction techniques to dynamically build and refine graph structures, improving contextual relevance in RAG pipelines.
 
-- **KDD 2026 Framework**: Designed as a novel framework for graph RAG, optimizing multi-agent collaboration and memory-driven graph updates to enhance large-scale knowledge-intensive tasks.
+- **Memory Integration**: Incorporates agent-memory mechanisms to maintain and update graph representations, enabling adaptive retrieval and generation in dynamic environments.
 
 ## Why It Matters
 

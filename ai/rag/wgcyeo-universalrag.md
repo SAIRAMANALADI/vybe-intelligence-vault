@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-01T19:26:46.470738+05:30'
+collected_at: '2026-08-01T21:46:01.466988+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
 - github-repo
+- paper
 - python
 - rag
 stars: 174
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-01T19:26:46.470738+05:30'
-last_seen: '2026-08-01T19:26:46.470738+05:30'
-last_checked: '2026-08-01T19:26:46.470738+05:30'
+first_seen: '2026-08-01T21:46:01.466988+05:30'
+last_seen: '2026-08-01T21:46:01.466988+05:30'
+last_checked: '2026-08-01T21:46:01.466988+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **UniversalRAG Framework**: Introduces a retrieval-augmented generation (RAG) system designed to handle diverse modalities (text, images, tables) and granularities (document, paragraph, sentence) within a unified architecture, leveraging modality-agnostic embeddings and cross-modal retrieval mechanisms.
+- **Multimodal & Multigranular RAG Framework**: Introduces a retrieval-augmented generation (RAG) system capable of handling diverse modalities (text, images, tables) and granularities (document, paragraph, sentence) via unified embeddings and retrieval mechanisms.
 
-- **Modality-Agnostic Retrieval**: Implements a shared embedding space for heterogeneous data types, enabling efficient retrieval of relevant context across modalities without modality-specific encoders, via contrastive learning and unified indexing.
+- **ACL 2026 Oral Presentation**: Presented as an oral paper at ACL 2026, highlighting novel contributions in cross-modal retrieval and generation integration.
 
-- **ACL 2026 Oral Contribution**: Proposes a novel pipeline for multimodal RAG, demonstrating state-of-the-art performance in zero-shot and few-shot settings across mixed-modality corpora, with open-source implementation in Python for extensibility.
+- **Modular Python Implementation**: Provides an open-source Python library with modular components for modality-specific encoders, retrievers, and fusion strategies, enabling extensibility to new modalities.
 
 ## Why It Matters
 

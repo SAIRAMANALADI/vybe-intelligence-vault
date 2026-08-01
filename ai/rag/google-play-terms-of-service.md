@@ -3,9 +3,9 @@ title: Google Play Terms of Service
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://play.google.com/about/play-terms.html
-published_at: '2026-08-01T16:28:22.564219+05:30'
-collected_at: '2026-08-01T16:28:22.564231+05:30'
+source_url: http://play.google.com/about/play-terms.html
+published_at: '2026-08-01T21:54:28.184070+05:30'
+collected_at: '2026-08-01T21:54:28.184087+05:30'
 tags:
 - agents
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:google-play-terms-of-service
-first_seen: '2026-08-01T16:28:22.564231+05:30'
-last_seen: '2026-08-01T16:28:22.564231+05:30'
-last_checked: '2026-08-01T16:28:22.564231+05:30'
+first_seen: '2026-08-01T21:54:28.184087+05:30'
+last_seen: '2026-08-01T21:54:28.184087+05:30'
+last_checked: '2026-08-01T21:54:28.184087+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Content Access & Responsibilities**: Users must comply with age restrictions, third-party fees (e.g., data usage), and system requirements to access Google Play Content. Google is not liable for third-party Content or unauthorized account access, and users bear full responsibility for data/fees incurred.
+- **Content Access & Compliance**: Google Play requires a valid Google Account, compliance with age restrictions (varies by country), and adherence to regional availability of content/features. Users are responsible for third-party access/data fees (e.g., mobile carrier charges) and must accept automatic updates for security/operability fixes, even if updates conflict with local app store settings.
 
-- **Purchases & Payments**: Transactions are governed by separate contracts with Google or Providers, with Google Payments required for purchases. Family groups use a shared payment method, and taxes are user-responsible. All sales are final per Google Play’s Refund Policy.
+- **Purchase & Payment Terms**: Purchases on Google Play create a separate sale contract with Google LLC or the content provider (Google may act as an agent). Family groups require a designated payment method, with the family manager liable for all charges. Taxes are the user’s responsibility, and all sales are final per Google’s refund policy.
 
-- **Security & Updates**: Google may auto-update Content for security/operability, disable malicious apps, and analyze network/app data for malware. Users can disable some protections but cannot opt out of critical security updates or background system service monitoring.
+- **Security & Data Handling**: Google may analyze apps/URLs for malware, block harmful installations, and collect device/network data for security purposes. Family groups share limited user data (e.g., name, email, purchase history), and unauthorized account access violates terms. Instant Apps temporarily sync data across devices.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T16:28:22.564219+05:30
+- Published: 2026-08-01T21:54:28.184070+05:30
 
 ## Related Tags
 
@@ -48,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://play.google.com/about/play-terms.html
+Original source: http://play.google.com/about/play-terms.html

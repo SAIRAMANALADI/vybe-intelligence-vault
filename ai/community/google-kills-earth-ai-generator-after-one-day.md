@@ -13,13 +13,14 @@ collected_at: '2026-08-01T19:24:18.704779+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:google-kills-earth-ai-generator-after-one-day
 first_seen: '2026-08-01T19:24:18.704779+05:30'
 last_seen: '2026-08-01T19:24:18.704779+05:30'
 last_checked: '2026-08-01T19:24:18.704779+05:30'
 health_score: 100
 ---
+
 
 # Google kills Earth AI generator after one day
 

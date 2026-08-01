@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **BGE Collection**: A curated Hugging Face collection by BAAI featuring 31 models optimized for embedding tasks, updated on Feb 4.
+- **BGE Collection**: A curated Hugging Face collection by BAAI featuring 31 models optimized for text embedding tasks, with the latest update on February 4.
 
-- **Model Focus**: Primarily includes text embedding models (e.g., `BAAI/bge-base-en`, `BAAI/bge-large-en`) for semantic search, retrieval, and clustering.
+- **Model Diversity**: Includes a range of models (e.g., `BAAI/bge-small-en`, `BAAI/bge-base-en`, `BAAI/bge-large-en`) supporting varying scales (small, base, large) and languages for general-purpose embeddings.
 
-- **Performance**: Models leverage advanced architectures (e.g., transformer-based) with state-of-the-art benchmarks on MTEB (Massive Text Embedding Benchmark).
+- **Performance Focus**: Models are designed for high-quality dense retrieval, semantic similarity, and text classification, wit
 
 ## Use Cases
 

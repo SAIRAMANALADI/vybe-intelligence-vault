@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-81%2C483-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-141%2C226-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--01-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **81,483 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **141,226 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 15,251</p>
-        <p><b>Active:</b> 14,818 | <b>Inactive:</b> 433</p>
+        <p><b>Resources tracked:</b> 16,276</p>
+        <p><b>Active:</b> 15,841 | <b>Inactive:</b> 435</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,076</p>
+        <p><b>Archive Files:</b> 60,815</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 81,483 files</p>
-        <p><b>Last Update:</b> 2026-08-01 21:37 IST</p>
+        <p><b>Total Vault Size:</b> 141,226 files</p>
+        <p><b>Last Update:</b> 2026-08-01 22:01 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,26 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Push your ideas to the web | Netlify](ai/resources/push-your-ideas-to-the-web-netlify.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Client Libraries | Resemble | Documentation](ai/resources/client-libraries-resemble-documentation.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[AWS Marketplace: Checkly](ai/agents/aws-marketplace-checkly.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[Resemble AI (@resembleai) / X](ai/resources/resemble-ai-resembleai-x.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[Automatic Deepfake Audio Detection Benchmark - Podonos | Make Your Voice AI Monetizable in Every Language](ai/resources/automatic-deepfake-audio-detection-benchmark-podon.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[Flint: A Visualization Language for the AI Era](ai/community/show-hn-microsoft-releases-flint-a-visualization-l.md)** • <kbd>+50 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Terms of Use | OpenAI](ai/agents/terms-of-use-openai.md)** • Rank: <kbd>+5870</kbd>
+- 🔼 **[Hugging Face · GitHub](ai/agents/hugging-face-github.md)** • Rank: <kbd>+110</kbd>
+- 🔼 **[Webhook subscriptions | Better Stack Documentation](ai/agents/webhook-subscriptions-better-stack-documentation.md)** • Rank: <kbd>+5327</kbd>
+- 🔼 **[Android Mobile App Developer Tools - Android Developers](ai/rag/android-mobile-app-developer-tools-android-develop.md)** • Rank: <kbd>+42</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Charlie Stross – On the non-use of AI in my writing process](ai/community/charlie-stross-on-the-non-use-of-ai-in-my-writing.md)** • Score: `31`
+- 🆕 **[Explorative modeling: Train on the best of K guesses](ai/community/explorative-modeling-train-on-the-best-of-k-guesse.md)** • Score: `3`
+- 🆕 **[US privacy policy | OpenAI](ai/agents/us-privacy-policy-openai.md)** • Score: `0`
+- 🆕 **[How your data is used to improve model performance | OpenAI Help Center](ai/resources/how-your-data-is-used-to-improve-model-performance.md)** • Score: `0`
+- 🆕 **[Sign in](ai/rag/sign-in.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Golang proposal: container/: generic collection types](ai/community/golang-go.md)**
+- 💤 **[Google kills Earth AI generator after one day](ai/community/google-kills-earth-ai-generator-after-one-day.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

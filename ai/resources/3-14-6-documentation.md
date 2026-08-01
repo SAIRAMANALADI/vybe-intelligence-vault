@@ -3,17 +3,16 @@ title: 3.14.6 Documentation
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://docs.python.org
-published_at: '2026-07-21T20:03:53.195588+05:30'
-collected_at: '2026-07-21T20:03:53.195598+05:30'
+source_url: https://docs.python.org/3/
+published_at: '2026-08-01T21:53:09.632524+05:30'
+collected_at: '2026-08-01T21:53:09.632542+05:30'
 tags:
-- hackernews
 - web-crawled
 status: active
 resource_id: blog:3-14-6-documentation
-first_seen: '2026-07-21T20:03:53.195598+05:30'
-last_seen: '2026-07-21T20:03:53.195598+05:30'
-last_checked: '2026-07-21T20:03:53.195598+05:30'
+first_seen: '2026-08-01T21:53:09.632542+05:30'
+last_seen: '2026-08-01T21:53:09.632542+05:30'
+last_checked: '2026-08-01T21:53:09.632542+05:30'
 health_score: 100
 ---
 
@@ -21,11 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Python Documentation Structure**: Official Python 3.14.6 docs include "What's New," Tutorial, Library/Reference Manuals, HOWTOs, C API, and FAQs, with version-specific archives (e.g., 3.15 pre-release, 3.12 security-fixes).
-
-- **Version Support Lifecycle**: Python 3.14.x is stable; 3.12/3.11/3.10 receive security fixes; versions ≤3.9 are End-of-Life (EOL), with 3.16 in active development.
-
-- **Technical Resources**: Includes PEP Index, Packaging Guide, Static Typing docs, and Sphinx 8.2.3-generated content; C API docs target C/C++ integration; licensing under PSF v2 + Zero-Clause BSD for code snippets.
+- **Python 3.14.6** is the latest stable release, with documentation hosted at `docs.python.org/3/`, covering syntax, libraries, and C API references.
+- **Versioning support**: Active versions (3.14–3.12) receive security updates; EOL versions (≤3.9) are archived.
+- **Documentation structure**: Includes tutorials, language/reference manuals, packaging guides, and static typing resources (e.g., `typing.python.org`).
 
 ## Why It Matters
 
@@ -35,13 +32,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-21T20:03:53.195588+05:30
+- Published: 2026-08-01T21:53:09.632524+05:30
 
 ## Related Tags
 
-- hackernews
 - web-crawled
 
 ## Source
 
-Original source: https://docs.python.org
+Original source: https://docs.python.org/3/

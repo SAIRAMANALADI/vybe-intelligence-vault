@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://skills.sh
-published_at: '2026-07-20T20:11:25.416429+05:30'
-collected_at: '2026-07-20T20:11:25.416447+05:30'
+published_at: '2026-08-01T21:54:16.435592+05:30'
+collected_at: '2026-08-01T21:54:16.435643+05:30'
 tags:
 - agents
 - animation
@@ -15,15 +15,17 @@ tags:
 - meta-ai
 - models
 - paper
+- producthunt
 - reddit
 - scripts
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: blog:the-agent-skills-directory
-first_seen: '2026-07-20T20:11:25.416447+05:30'
-last_seen: '2026-07-20T20:11:25.416447+05:30'
-last_checked: '2026-07-20T20:11:25.416447+05:30'
+first_seen: '2026-08-01T21:54:16.435643+05:30'
+last_seen: '2026-08-01T21:54:16.435643+05:30'
+last_checked: '2026-08-01T21:54:16.435643+05:30'
 health_score: 100
 ---
 
@@ -31,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Top Skills by Install Count**: `find-skills` (2.6M installs) leads, followed by `frontend-design` (684.3K) and `grill-me` (605.6K), indicating high demand for AI-driven skill discovery and frontend development tools.
-
-- **Dominant Repositories**: `microsoft/azure-skills` (7.4M total installs) and `open.feishu.cn` (9.7M total installs) dominate, with skills like `microsoft-foundry` and `lark-approval` showcasing enterprise and collaboration-focused tooling.
-
-- **Emerging Trends**: Skills like `hyperframes` (244.6K) and `shadcn` (243.4K) highlight growth in AI-powered media processing and modern UI component frameworks, while `supabase-postgres-best-practices` (296.9K) reflects database optimization trends.
+- **Top 3 Skills by Install Count**: `find-skills` (2.8M), `frontend-design` (728.9K), `grill-me` (722.9K), all hosted on Vercel Labs, Anthropic, and Matt Pocock repositories respectively.
+- **Repository Dominance**: Microsoft/azure-skills (11.2M total installs), mattpocock/skills (898.0K+ installs), and leonxlnx/taste-skill (1.7M+ installs) lead in cumulative installs.
+- **Skill Categories**: Dominant themes include frontend design (e.g., `frontend-design`, `shadcn`), Azure cloud services (e.g., `azure-messaging`, `azure-cost`), and AI-driven workflows (e.g., `ai-video-generation`, `hyperframes`).
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-20T20:11:25.416429+05:30
+- Published: 2026-08-01T21:54:16.435592+05:30
 
 ## Related Tags
 
@@ -57,9 +57,11 @@ General public resource representing technology updates, guides, or tutorials.
 - meta-ai
 - models
 - paper
+- producthunt
 - reddit
 - scripts
 - web-crawled
+- workflows
 - youtube
 
 ## Source

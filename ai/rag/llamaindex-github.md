@@ -3,9 +3,9 @@ title: LlamaIndex · GitHub
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/run-llama/
-published_at: '2026-08-01T19:30:32.077000+05:30'
-collected_at: '2026-08-01T19:30:32.077010+05:30'
+source_url: https://github.com/run-llama
+published_at: '2026-08-01T21:50:20.470589+05:30'
+collected_at: '2026-08-01T21:50:20.470603+05:30'
 tags:
 - agents
 - meta-ai
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:llamaindex-github
-first_seen: '2026-08-01T19:30:32.077010+05:30'
-last_seen: '2026-08-01T19:30:32.077010+05:30'
-last_checked: '2026-08-01T19:30:32.077010+05:30'
+first_seen: '2026-08-01T21:50:20.470603+05:30'
+last_seen: '2026-08-01T21:50:20.470603+05:30'
+last_checked: '2026-08-01T21:50:20.470603+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **LlamaParse Cloud Services**: Offers **Parse** (document parsing), **Extract** (structured data extraction), and a **Platform Documentation** suite for agentic OCR workflows, leveraging state-of-the-art (SOTA) OCR models.
+- **LlamaParse Cloud Services**: Provides SOTA agentic OCR via cloud-based `Parse` and `Extract` APIs for document processing workflows, with platform documentation available at [developers.llamaindex.ai](https://developers.llamaindex.ai/python/cloud/).
 
-- **Open-Source Tooling**: Provides **LiteParse** (lightweight parsing), **LlamaAgents** (agent orchestration framework), and **LlamaIndex (Python)** (core indexing/embedding library) with full documentation for custom document workflows.
+- **Open-Source Tooling**: Includes `LiteParse` for lightweight OCR, `LlamaAgents` for agentic workflows, and the core `LlamaIndex` Python library for document indexing/retrieval, all with linked documentation.
 
-- **Community & Support**: Maintains active presence on **X (Twitter)**, **LinkedIn**, and **YouTube** for updates, tutorials, and engagement with the LlamaIndex ecosystem.
+- **Community & Support**: Maintains active engagement via [X (Twitter)](https://twitter.com/llama_index), [LinkedIn](https://www.linkedin.com/company/llamaindex), and [YouTube](https://www.youtube.com/@llamaindex) for updates and tutorials.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T19:30:32.077000+05:30
+- Published: 2026-08-01T21:50:20.470589+05:30
 
 ## Related Tags
 
@@ -54,4 +54,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://github.com/run-llama/
+Original source: https://github.com/run-llama

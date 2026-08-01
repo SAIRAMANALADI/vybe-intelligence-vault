@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-08-01T19:25:51.397844+05:30'
+collected_at: '2026-08-01T21:45:06.407110+05:30'
 published_at: '2026-07-17T22:50:34Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
-- workflows
 stars: 265
 language: Python
 status: active
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-08-01T19:25:51.397844+05:30'
-last_seen: '2026-08-01T19:25:51.397844+05:30'
-last_checked: '2026-08-01T19:25:51.397844+05:30'
+first_seen: '2026-08-01T21:45:06.407110+05:30'
+last_seen: '2026-08-01T21:45:06.407110+05:30'
+last_checked: '2026-08-01T21:45:06.407110+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) best practices tailored for Vietnamese language processing, leveraging Python-based pipelines for document retrieval and generation.
-
-- **Modular Architecture**: Features a structured backend with modular components (e.g., embedding models, vector databases, and LLM interfaces) optimized for Vietnamese text retrieval and contextual generation.
-
-- **Performance Optimization**: Includes Vietnamese-specific preprocessing (tokenization, stopword removal) and retrieval strategies (dense/sparse retrieval) to enhance accuracy and efficiency in RAG workflows.
+- **Implementation**: Python-based RAG (Retrieval-Augmented Generation) pipeline optimized for Vietnamese text processing, integrating embedding models and vector databases for efficient retrieval.
+- **Architecture**: Modular design with components for document preprocessing, embedding generation (e.g., using `sentence-transformers`), and retrieval via similarity search (e.g., FAISS or Weaviate).
+- **Evaluation**: Includes benchmarking scripts for Vietnamese RAG tasks, assessing retrieval accuracy and generation quality with metrics like MRR, precision@k, and ROUGE scores.
 
 ## Why It Matters
 

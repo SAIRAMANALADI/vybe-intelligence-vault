@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: github:golang/go
 first_seen: '2026-08-01T01:22:49.282397+05:30'
 last_seen: '2026-08-01T19:24:20.547489+05:30'
 last_checked: '2026-08-01T19:24:20.547489+05:30'
 health_score: 100
 ---
+
 
 # Golang proposal: container/: generic collection types
 

@@ -4,17 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://code.visualstudio.com/docs/copilot/agents/background-agents
-published_at: '2026-08-01T19:33:17.565128+05:30'
-collected_at: '2026-08-01T19:33:17.565138+05:30'
+published_at: '2026-08-01T21:50:10.037372+05:30'
+collected_at: '2026-08-01T21:50:10.037389+05:30'
 tags:
 - agents
 - openai
 - web-crawled
 status: active
 resource_id: blog:copilot-cli-sessions-in-visual-studio-code
-first_seen: '2026-08-01T19:33:17.565138+05:30'
-last_seen: '2026-08-01T19:33:17.565138+05:30'
-last_checked: '2026-08-01T19:33:17.565138+05:30'
+first_seen: '2026-08-01T21:50:10.037389+05:30'
+last_seen: '2026-08-01T21:50:10.037389+05:30'
+last_checked: '2026-08-01T21:50:10.037389+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Copilot CLI Sessions**: VS Code supports autonomous background agent sessions via GitHub Copilot CLI, managed through the Chat view, enabling parallel task execution with local machine execution persistence beyond VS Code sessions.
+- **Copilot CLI Sessions**: Background agent sessions in VS Code, managed via Copilot CLI, running autonomously on local machines with GitHub Copilot SDK integration; support multi-repository workspaces, custom agents, and deep research tasks.
 
-- **Isolation Modes**: Copilot CLI supports **Worktree** (isolated Git worktree for safe changes) and **Folder** (direct workspace modifications) isolation, with auto-approval in Worktree mode and configurable permissions in Folder mode.
+- **Isolation Modes**: Two modes for Copilot CLI sessions—**Worktree** (isolated Git worktree for changes) and **Folder** (direct workspace modifications)—with auto-approval in Worktree mode and configurable permissions (Default/Bypass/Autopilot/Assisted) in Folder mode.
 
-- **Permissions & Slash Commands**: Supports `/research`, `/compact`, `/yolo`, and `/autoApprove` for task management, with permission levels (Bypass Approvals, Default Approvals, Autopilot) configurable per isolation mode.
+- **Permissions & Approvals**: Copilot CLI enforces permission levels (Bypass Approvals in Worktree, configurable in Folder mode) with experimental **Assisted permissions** available via `chat.assistedPermissions.enabled`; slash commands (`/research`, `/yolo`, etc.) enable advanced session control.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-01T19:33:17.565128+05:30
+- Published: 2026-08-01T21:50:10.037372+05:30
 
 ## Related Tags
 

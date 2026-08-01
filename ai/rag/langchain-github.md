@@ -4,21 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai
-published_at: '2026-08-01T19:31:16.427047+05:30'
-collected_at: '2026-08-01T19:31:16.427054+05:30'
+published_at: '2026-08-01T21:49:02.011554+05:30'
+collected_at: '2026-08-01T21:49:02.011570+05:30'
 tags:
 - agents
 - anthropic
 - rag
-- scripts
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:langchain-github
-first_seen: '2026-08-01T19:31:16.427054+05:30'
-last_seen: '2026-08-01T19:31:16.427054+05:30'
-last_checked: '2026-08-01T19:31:16.427054+05:30'
+first_seen: '2026-08-01T21:49:02.011570+05:30'
+last_seen: '2026-08-01T21:49:02.011570+05:30'
+last_checked: '2026-08-01T21:49:02.011570+05:30'
 health_score: 100
 ---
 
@@ -26,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications, while LangGraph/LangGraph.js enable building LLM agents as computational graphs for complex workflows.
+- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications, while LangGraph/LangGraph.js enable building LLM agents as graphs; Deep Agents/Deep Agents.js support planning, subagents, and file system interactions for complex tasks.
 
-- **Agent Frameworks**: Deep Agents/Deep Agents.js support hierarchical agent planning, subagent delegation, and file system interactions for advanced task execution.
+- **Commercial & OSS Extensions**: LangSmith offers a platform for building/monitoring production-grade LLM apps; extensions like `dcode`, Open SWE, MCP Adapters, Agent Protocol, and OpenWiki provide specialized agent functionalities (e.g., terminal-based coding, async agents, MCP tool compatibility, standardized agent APIs, and CLI-based wiki generation).
 
-- **Commercial & OSS Extensions**: LangSmith offers production-grade LLM application monitoring, while tools like `dcode`, Open SWE, and MCP Adapters extend functionality for coding, automation, and interoperability.
+- **Documentation & Community**: Unified documentation (source: [LangChain Docs](https://github.com/langchain-ai/docs)), a community forum, and free courses via LangChain Academy support development and adoption of LangChain’s ecosystem.
 
 ## Why It Matters
 
@@ -40,16 +38,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T19:31:16.427047+05:30
+- Published: 2026-08-01T21:49:02.011554+05:30
 
 ## Related Tags
 
 - agents
 - anthropic
 - rag
-- scripts
 - web-crawled
-- workflows
 - youtube
 
 ## Source

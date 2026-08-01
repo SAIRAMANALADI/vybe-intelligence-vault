@@ -5,6 +5,7 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | Repository | Focus Category | Quality Score |
 | :--- | :--- | :--- |
 | [pmndrs/triplex](https://github.com/pmndrs/triplex) | `ai-coding-agents/` | 70 |
+| [Mintlify · GitHub](https://github.com/mintlify) | `ai-coding-agents/` | 70 |
 | [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) | `ai-coding-agents/` | 70 |
 | [golf-mcp/golf](https://github.com/golf-mcp/golf) | `ai-coding-agents/` | 70 |
 | [HKUDS/OpenPhone](https://github.com/HKUDS/OpenPhone) | `ai-coding-agents/` | 70 |
@@ -28,6 +29,5 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [iuyup/AgentFlow](https://github.com/iuyup/AgentFlow) | `ai-coding-agents/` | 70 |
 | [Flux159/mcp-chat](https://github.com/flux159/mcp-chat) | `ai-coding-agents/` | 70 |
 | [BrandPeng/Langchain1.0-Langgraph1.0-Learning](https://github.com/BrandPeng/Langchain1.0-Langgraph1.0-Learning) | `ai-coding-agents/` | 70 |
-| [seehiong/seehiong.github.io](https://github.com/seehiong/seehiong.github.io) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

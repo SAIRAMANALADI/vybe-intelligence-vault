@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Deprecation Notice**: `ChatVertexAI` is deprecated; use [`ChatGoogleGenerativeAI`](https://python.langchain.com/oss/python/integrations/chat/google_generative_ai) instead per [migration guide](https://github.com/langchain-ai/langchain-google/discussions/1422).
-- **Model Access**: Vertex AI provides enterprise-grade models (e.g., `gemini-2.5-pro`, `gemini-2.5-flash`) via GCP, separate from the standard Gemini API.
-- **Tool Integration**: Supports server-side tools like **Google Search** (requ
+- **Deprecation Notice**: `ChatVertexAI` integration is deprecated and will be replaced by `ChatGoogleGenerativeAI`; migration guide available [here](https://github.com/langchain-ai/langchain-google/discussions/1422).
+- **Model Support**: Vertex AI exposes foundational models (e.g., `gemini-2.5-pro`, `gemini-2.5-flash`) via Google Cloud, with full model list documented in [VertexAI docs](https://cloud.google.com/vertex-ai/generative-ai/docs/models).
+- **Built-in Tools**: Supports server-side too
 
 ## Use Cases
 

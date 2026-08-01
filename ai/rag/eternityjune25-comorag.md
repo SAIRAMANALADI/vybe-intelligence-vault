@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-01T19:26:41.473088+05:30'
+collected_at: '2026-08-01T21:45:56.497696+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-01T19:26:41.473088+05:30'
-last_seen: '2026-08-01T19:26:41.473088+05:30'
-last_checked: '2026-08-01T19:26:41.473088+05:30'
+first_seen: '2026-08-01T21:45:56.497696+05:30'
+last_seen: '2026-08-01T21:45:56.497696+05:30'
+last_checked: '2026-08-01T21:45:56.497696+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Memory Architecture**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning by structuring memory hierarchically for efficient retrieval and contextual understanding.
+- **Cognitive-Inspired Architecture**: Introduces **ComoRAG**, a Retrieval-Augmented Generation (RAG) framework mimicking human memory organization (e.g., episodic/semantic memory) to enhance **stateful long narrative reasoning** by dynamically structuring and retrieving contextually relevant information.
 
-- **Stateful Long Narrative Reasoning**: Implements mechanisms to maintain and utilize state across extended interactions, allowing for coherent, context-aware reasoning in long-form narratives through dynamic memory updates and retrieval.
+- **Memory-Organized Retrieval**: Implements a **hierarchical memory system** (short-term vs. long-term memory) with adaptive retrieval mechanisms, prioritizing **temporal coherence** and **semantic relevance** to mitigate context fragmentation in extended dialogues or narratives.
 
-- **AAAI 2026 Poster Submission**: Presented as a cutting-edge research contribution at AAAI 2026, demonstrating advancements in memory-augmented RAG systems for complex, state-dependent reasoning tasks.
+- **Stateful Reasoning Enhancement**: Validated on **AAAI 2026** benchmarks, demonstrating superior performance in **multi-turn reasoning tasks** (e.g., storytelling, QA) by leveraging **memory-augmented attention** and **contextual chunking** to preserve narrative continuity and factual consistency.
 
 ## Why It Matters
 

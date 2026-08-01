@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/langchain
-collected_at: '2026-08-01T19:28:41.651298+05:30'
-published_at: '2026-08-01T13:56:56Z'
+collected_at: '2026-08-01T21:48:01.731936+05:30'
+published_at: '2026-08-01T15:39:22Z'
 tags:
 - agents
 - anthropic
@@ -14,7 +14,7 @@ tags:
 - python
 - rag
 - workflows
-stars: 143161
+stars: 143167
 language: Python
 status: active
 license: MIT
@@ -22,9 +22,9 @@ archived: false
 created_at: '2022-10-17T02:58:36Z'
 pushed_at: '2026-08-01T09:41:15Z'
 resource_id: github:langchain-ai/langchain
-first_seen: '2026-08-01T19:28:41.651298+05:30'
-last_seen: '2026-08-01T19:28:41.651298+05:30'
-last_checked: '2026-08-01T19:28:41.651298+05:30'
+first_seen: '2026-08-01T21:48:01.731936+05:30'
+last_seen: '2026-08-01T21:48:01.731936+05:30'
+last_checked: '2026-08-01T21:48:01.731936+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent & LLM Integration Framework**: Open-source Python library (`langchain`) enabling orchestration of AI agents, LLMs (OpenAI, Anthropic, Gemini), and multi-agent systems with modular components for enterprise and RAG workflows.
+- **Multi-agent & Enterprise Framework**: Open-source Python framework (`langchain`, `langgraph`) for building AI agents, multi-agent systems, and enterprise-grade LLM applications with support for OpenAI, Anthropic, Gemini, and other providers.
 
-- **LangGraph & TypeScript Support**: Extends functionality via `langgraph` for stateful, multi-actor workflows and includes TypeScript compatibility for broader ecosystem integration.
+- **Modular Architecture**: Integrates with Pydantic for structured data handling, RAG (Retrieval-Augmented Generation), and enterprise tools, enabling scalable agent workflows and tool orchestration.
 
-- **Pydantic & Enterprise Features**: Leverages Pydantic for data validation, supports deepagents for advanced agent engineering, and targets enterprise use cases with scalability and modularity.
+- **Cross-Language Support**: Core in Python with TypeScript extensions, facilitating development across Python and JS/TS ecosystems for generative AI and agent-based applications.
 
 ## Why It Matters
 
@@ -45,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 143161
-- Forks: 23844
+- Stars: 143167
+- Forks: 23843
 - Language: Python
 - Topics: agents, ai, ai-agents, anthropic, chatgpt, deepagents, enterprise, framework, gemini, generative-ai, langchain, langgraph, llm, multiagent, open-source, openai, pydantic, python, rag, typescript
-- Last Updated: 2026-08-01T13:56:56Z
+- Last Updated: 2026-08-01T15:39:22Z
 - License: MIT
 - Archived: No
 - Created At: 2022-10-17T02:58:36Z

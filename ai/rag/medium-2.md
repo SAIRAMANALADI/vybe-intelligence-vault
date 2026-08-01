@@ -3,19 +3,18 @@ title: Medium
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://medium.com/blog/all?source=collection_home_page
-resource_id: blog:medium
-----15f753907972-----1-----------------------------------
-published_at: '2026-08-01T19:31:07.716756+05:30'
-collected_at: '2026-08-01T19:31:07.716764+05:30'
+source_url: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f
+published_at: '2026-08-01T21:54:07.848961+05:30'
+collected_at: '2026-08-01T21:54:07.848977+05:30'
 tags:
+- agents
 - rag
 - web-crawled
 status: active
 resource_id: blog:medium
-first_seen: '2026-08-01T19:31:07.716764+05:30'
-last_seen: '2026-08-01T19:31:07.716764+05:30'
-last_checked: '2026-08-01T19:31:07.716764+05:30'
+first_seen: '2026-08-01T21:54:07.848977+05:30'
+last_seen: '2026-08-01T21:54:07.848977+05:30'
+last_checked: '2026-08-01T21:54:07.848977+05:30'
 health_score: 100
 ---
 
@@ -23,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Medium’s sitemap.xml** provides structured XML-based indexing of all accessible URLs, including `/blog/all`, `/new-story`, `/search`, and `/m/signin` endpoints for authentication and content creation.
+- **License Grant & IP Rights**: Users retain ownership of submitted content but grant Medium a **nonexclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all Services (e.g., web, mobile) with attribution, including derivative works (e.g., previews, curated lists).
 
-- **Authentication flow** leverages OAuth2 via `/m/signin` with `operation=login/register` parameters, redirecting users to post-authentication destinations (e.g., `/blog/all` or `/new-story`) via URL-encoded `redirect` query strings.
+- **Dispute Resolution & Liability Limits**: Mandatory **binding arbitration** (via JAMS) waives class actions/jury trials; liability is capped at **$50 USD or fees paid**, excluding gross negligence/fraud, with disputes resolved in San Francisco (or consumer’s county of residence).
 
-- **Static resources** (e.g., `/help`, `/status`, `/about`) and policy pages (Privacy, Terms, Rules) are served as static HTML, while dynamic features like "Text to speech" integrate third-party APIs (e.g., Speechify) via external links.
+- **Data Processing & Termination**: Users consent to **cross-border data processing** (US/global) for Service delivery; Medium reserves rights to **suspend/terminate access**, modify storage limits, or remove content for violations (e.g., IP infringement, Rule breaches).
 
 ## Why It Matters
 
@@ -37,13 +36,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T19:31:07.716756+05:30
+- Published: 2026-08-01T21:54:07.848961+05:30
 
 ## Related Tags
 
+- agents
 - rag
 - web-crawled
 
 ## Source
 
-Original source: https://medium.com/blog/all?source=collection_home_page----15f753907972-----1-----------------------------------
+Original source: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f

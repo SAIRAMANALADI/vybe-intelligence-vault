@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzfly/awesome-voice-agents
-collected_at: '2026-08-01T19:27:36.505318+05:30'
+collected_at: '2026-08-01T21:46:56.504483+05:30'
 published_at: '2026-07-31T08:46:34Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-11-03T02:20:30Z'
 pushed_at: '2026-07-03T22:06:38Z'
 resource_id: github:yzfly/awesome-voice-agents
-first_seen: '2026-08-01T19:27:36.505318+05:30'
-last_seen: '2026-08-01T19:27:36.505318+05:30'
-last_checked: '2026-08-01T19:27:36.505318+05:30'
+first_seen: '2026-08-01T21:46:56.504483+05:30'
+last_seen: '2026-08-01T21:46:56.504483+05:30'
+last_checked: '2026-08-01T21:46:56.504483+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: Comprehensive list of frameworks, tools, and best practices for voice AI agents, covering STT, TTS, VAD, voice cloning, conversion, recognition, and synthesis.
-- **Technical Scope**: Includes real-time chat, voice assistants, and agent-specific resources, updated as of July 31, 2026.
-- **Repository Stats**: 39 stars, 21 forks, with active maintenance (last updated 2026-07-31).
+- **Comprehensive resource**: Curated list of frameworks, tools, and best practices for voice AI agents, covering STT, TTS, VAD, voice cloning, conversion, recognition, and synthesis.
+- **Active maintenance**: Last updated July 31, 2026, ensuring relevance with recent advancements in voice agent technologies.
+- **Community engagement**: 39 stars and 21 forks indicate moderate community interest and potential for collaborative contributions.
 
 ## Why It Matters
 

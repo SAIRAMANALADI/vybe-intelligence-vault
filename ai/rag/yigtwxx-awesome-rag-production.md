@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-08-01T19:25:56.424226+05:30'
+collected_at: '2026-08-01T21:45:11.454148+05:30'
 published_at: '2026-08-01T12:26:39Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 stars: 185
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-08-01T12:26:23Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-08-01T19:25:56.424226+05:30'
-last_seen: '2026-08-01T19:25:56.424226+05:30'
-last_checked: '2026-08-01T19:25:56.424226+05:30'
+first_seen: '2026-08-01T21:45:11.454148+05:30'
+last_seen: '2026-08-01T21:45:11.454148+05:30'
+last_checked: '2026-08-01T21:45:11.454148+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Production-Grade RAG Resources**: Repository aggregates battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems, focusing on deployment-ready solutions.
+- **Curated resources**: Repository provides a vetted collection of tools, frameworks, and best practices for deploying scalable, production-grade RAG systems, covering components like embeddings, vector databases, and LLMOps.
 
-- **Comprehensive Tech Stack Coverage**: Includes tools and libraries for embeddings, vector databases, LLMOps, and MLOps, with specific mentions of LangChain, Python-based frameworks, and large language models (LLMs).
+- **Technical scope**: Focuses on Python-based implementations, integrating AI/ML engineering tools (e.g., LangChain) and MLOps practices for end-to-end RAG pipeline optimization.
 
-- **Continuous Updates & Community-Driven**: Last updated in 2026, the repository maintains relevance through ongoing curation, with 185 stars and 46 forks indicating active community engagement.
+- **Community metrics**: Maintained repository with 185 stars and 46 forks, last updated August 2026, emphasizing continuous curation for cutting-edge RAG advancements.
 
 ## Why It Matters
 

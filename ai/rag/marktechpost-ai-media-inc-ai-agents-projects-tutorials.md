@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
-collected_at: '2026-08-01T19:27:01.496228+05:30'
+collected_at: '2026-08-01T21:46:16.530700+05:30'
 published_at: '2026-08-01T07:44:05Z'
 tags:
 - agents
-- benchmark
 - github-repo
 - jupyter notebook
 - rag
+- scripts
 - workflows
 stars: 2844
 language: Jupyter Notebook
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-05-15T09:00:54Z'
 pushed_at: '2026-07-31T16:29:07Z'
 resource_id: github:marktechpost-ai-media-inc/ai-agents-projects-tutorials
-first_seen: '2026-08-01T19:27:01.496228+05:30'
-last_seen: '2026-08-01T19:27:01.496228+05:30'
-last_checked: '2026-08-01T19:27:01.496228+05:30'
+first_seen: '2026-08-01T21:46:16.530700+05:30'
+last_seen: '2026-08-01T21:46:16.530700+05:30'
+last_checked: '2026-08-01T21:46:16.530700+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent Systems**: Repository focuses on frameworks and implementations for deploying AI agents with collaborative capabilities, including task delegation, inter-agent communication protocols, and distributed decision-making architectures.
+- **Multi-Agent Systems**: Repository focuses on frameworks and implementations for multi-agent systems, emphasizing coordination, communication, and task delegation among autonomous agents.
 
-- **Memory & Reasoning Loops**: Includes tutorials on integrating short-term/long-term memory (e.g., vector stores, RAG) and cyclic reasoning loops (e.g., self-reflection, feedback-driven optimization) for adaptive agent behavior.
+- **Memory & Reasoning Loops**: Includes tutorials on integrating memory architectures (e.g., short/long-term memory) and reasoning loops (e.g., reflection, planning) to enhance agent decision-making and adaptability.
 
-- **Agentic Workflows**: Demonstrates end-to-end agentic AI pipelines, covering planning (e.g., hierarchical task decomposition), tool-use (e.g., API integrations), and evaluation metrics for agent performance in dynamic environments.
+- **Agentic Workflows**: Provides Jupyter Notebook-based projects demonstrating agentic AI development, covering skills like tool use, RAG integration, and workflow automation for complex problem-solving.
 
 ## Why It Matters
 

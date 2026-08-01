@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.resemble.ai/resources/top-open-source-github-repositories-for-creating-your-own-rag
-published_at: '2026-08-01T19:29:37.362532+05:30'
-collected_at: '2026-08-01T19:29:37.362540+05:30'
+published_at: '2026-08-01T21:48:44.290615+05:30'
+collected_at: '2026-08-01T21:48:44.290629+05:30'
 tags:
 - agents
 - benchmark
@@ -17,13 +17,12 @@ tags:
 - rag
 - reddit
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:top-open-source-github-repositories-for-creating-y
-first_seen: '2026-08-01T19:29:37.362540+05:30'
-last_seen: '2026-08-01T19:29:37.362540+05:30'
-last_checked: '2026-08-01T19:29:37.362540+05:30'
+first_seen: '2026-08-01T21:48:44.290629+05:30'
+last_seen: '2026-08-01T21:48:44.290629+05:30'
+last_checked: '2026-08-01T21:48:44.290629+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Top Open-Source RAG Repositories**: Key frameworks include **Cognita** (Truefoundry) for modular RAG configuration and deployment, **Verba** (Weaviate) for a user-friendly, modular RAG application with HuggingFace model support, and **LlamaIndex** for structured data integration and retrieval pipelines.
+- **Resemble AI** provides a **multimodal deepfake detection and protection suite**, including tools like **Resemble Detect** for real-time deepfake monitoring in calls, **Resemble Identity** for biometric verification, and **Resemble Watermarker** for embedding forensic traces in media.
 
-- **GitHub Topic & System Design Primer**: The **Retrieval-augmented-generation** GitHub topic aggregates tools for search, recommendation, and RAG applications, while the **System Design Primer** repository provides scalable system design resources for large-scale AI deployments.
+- **Open-source RAG frameworks** highlighted include **Cognita** (Truefoundry) for modular RAG deployment, **Verba** (Weaviate) for user-friendly RAG pipelines, and **LlamaIndex** for structured data integration and retrieval optimization.
 
-- **Real-World & LlamaIndex**: The **Realworld** repository offers full-stack application templates (React, Angular, Node, Django), and **LlamaIndex** enables efficient data ingestion, indexing, and querying for RAG workflows.
+- **Key selection criteria for RAG repositories** involve **active maintenance** (stars, commits, community support), **scalability** (handling large-scale data/queries), and **compatibility** (license, dependencies, and integration with LLMs/embedding models).
 
 ## Why It Matters
 
@@ -45,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T19:29:37.362532+05:30
+- Published: 2026-08-01T21:48:44.290615+05:30
 
 ## Related Tags
 
@@ -59,7 +58,6 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - reddit
 - web-crawled
-- workflows
 - youtube
 
 ## Source

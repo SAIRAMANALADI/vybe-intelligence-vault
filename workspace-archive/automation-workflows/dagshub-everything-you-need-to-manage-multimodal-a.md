@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Multimodal Data Management**: Supports versioning, lineage tracking, and annotation for vision, audio, and LLM datasets with petabyte-scale storage and multimodal auto-labeling (Team/Enterprise plans).
-
-- **Experiment & Model Lifecycle Tracking**: Enables MLflow-compatible experiment tracking, model versioning, deployment, and CI/CD/CT integration with RBAC controls (Team/Enterprise) and on-prem/VPC deployments (Enterprise).
-
-- **Integration & Scalability**: Provides open-source format compa
+- **Multimodal Data Management**: Supports versioning, lineage tracking, and annotation for vision, audio, and LLM datasets with up to petabyte-scale storage in Enterprise plans.
+- **Experiment Tracking & Model Registry**: Enables unlimited experiment tracking (with private limits), MLflow compatibility, model versioning, and deployment with full lineage from data to model.
+- **RBAC & Enterprise Features**: Provides team/project-based RBAC, SSO/LDAP/OIDC integration, air-gapped on-premise deploy
 
 ## Use Cases
 

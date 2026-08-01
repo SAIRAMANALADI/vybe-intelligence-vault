@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NicholasGoh/fastapi-mcp-langgraph-template
-collected_at: '2026-07-21T19:56:09.505371+05:30'
-published_at: '2026-07-13T09:40:34Z'
+collected_at: '2026-08-01T21:48:06.594625+05:30'
+published_at: '2026-07-23T22:24:29Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
 - workflows
-stars: 553
+stars: 554
 language: Python
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-04-16T13:47:46Z'
 pushed_at: '2026-03-03T23:35:58Z'
 resource_id: github:nicholasgoh/fastapi-mcp-langgraph-template
-first_seen: '2026-07-21T19:56:09.505371+05:30'
-last_seen: '2026-07-21T19:56:09.505371+05:30'
-last_checked: '2026-07-21T19:56:09.505371+05:30'
+first_seen: '2026-08-01T21:48:06.594625+05:30'
+last_seen: '2026-08-01T21:48:06.594625+05:30'
+last_checked: '2026-08-01T21:48:06.594625+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Template integrates FastAPI, MCP (Model Context Protocol), and LangGraph for agentic orchestration, enabling modular agent workflows with Python-based LangGraph for stateful computation graphs.
+- **Architecture**: Template integrates FastAPI for backend, LangGraph for agentic orchestration, and MCP for modular tooling, enabling scalable agent workflows with community-supported components.
 
-- **Observability & Scalability**: Pre-configured with Prometheus (metrics), Grafana (dashboards), Langfuse (LLM observability), and Supabase (PostgreSQL) for scalable data storage and monitoring.
+- **Observability & Storage**: Includes Prometheus/Grafana for monitoring, Langfuse for LLM tracing, and Supabase/SQLModel for persistent data handling.
 
-- **Deployment**: Includes Nginx (reverse proxy), Docker-ready setup, and SQLModel for ORM, optimized for rapid iteration and cloud-native deployment.
+- **Deployment**: Pre-configured with Nginx for reverse proxy and Docker-ready for containerized deployment, optimized for rapid iteration and production-scale use.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NicholasGoh
-- Stars: 553
+- Stars: 554
 - Forks: 85
 - Language: Python
 - Topics: compose, fastapi, grafana, langfuse, langgraph-python, mcp, nginx, prometheus, sqlmodel, supabase
-- Last Updated: 2026-07-13T09:40:34Z
+- Last Updated: 2026-07-23T22:24:29Z
 - License: MIT
 - Archived: No
 - Created At: 2025-04-16T13:47:46Z

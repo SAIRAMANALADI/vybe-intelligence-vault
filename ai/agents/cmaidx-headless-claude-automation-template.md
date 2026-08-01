@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cmAIdx/headless-claude-automation-template
-collected_at: '2026-08-01T19:28:26.567991+05:30'
+collected_at: '2026-08-01T21:47:46.568328+05:30'
 published_at: '2026-07-30T16:08:30Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-28T19:33:02Z'
 pushed_at: '2026-03-02T03:11:44Z'
 resource_id: github:cmaidx/headless-claude-automation-template
-first_seen: '2026-08-01T19:28:26.567991+05:30'
-last_seen: '2026-08-01T19:28:26.567991+05:30'
-last_checked: '2026-08-01T19:28:26.567991+05:30'
+first_seen: '2026-08-01T21:47:46.568328+05:30'
+last_seen: '2026-08-01T21:47:46.568328+05:30'
+last_checked: '2026-08-01T21:47:46.568328+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Headless Claude Automation**: Template enabling autonomous software delivery via headless Claude agents, converting requirements documents into reviewed pull requests.
-- **Multi-Agent CI/CD Pipeline**: Integrates GitHub Actions, Linear, and Claude Code for autonomous coding workflows with multi-agent orchestration.
-- **Shell-Based Template**: Provides reusable infrastructure for AI-driven automation, last updated July 30, 2026, with 14 stars and 4 forks.
+- **Headless Claude Agent Automation**: Template enables autonomous software delivery via headless Claude agents, processing input requirements and generating pull requests for review.
+- **Multi-Agent CI/CD Pipeline**: Integrates GitHub Actions, Linear, and multi-agent systems to automate workflows in a headless environment.
+- **Shell-Based Implementation**: Repository is implemented in Shell, supporting AI-driven automation, autonomous coding, and CI/CD processes.
 
 ## Why It Matters
 

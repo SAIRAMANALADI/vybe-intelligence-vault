@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-08-01T19:28:21.551492+05:30'
+collected_at: '2026-08-01T21:47:36.557363+05:30'
 published_at: '2026-08-01T02:25:01Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
+- scripts
 - shell
 - workflows
 stars: 542
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-07-31T11:24:38Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-08-01T19:28:21.551492+05:30'
-last_seen: '2026-08-01T19:28:21.551492+05:30'
-last_checked: '2026-08-01T19:28:21.551492+05:30'
+first_seen: '2026-08-01T21:47:36.557363+05:30'
+last_seen: '2026-08-01T21:47:36.557363+05:30'
+last_checked: '2026-08-01T21:47:36.557363+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging adaptive RAG-powered memory, MCP templates for Skills, and Expert Agents with delegated sub-agents for hierarchical task execution.
-
-- **Capabilities**: Features proactive task management, media understanding, and self-hosted deployment via a single setup script, integrating tools like Crawl4AI, SearXNG, and Supabase for data processing and storage.
-
-- **Technical Stack**: Shell-based repository with dependencies on n8n, MCP, and frameworks like OpenClaw, designed for extensibility and modularity in AI agent development.
+- **Architecture**: OpenClaw-inspired autonomous AI agent implemented entirely in n8n, leveraging adaptive RAG-powered memory and Skills via MCP templates for dynamic task execution.
+- **Capabilities**: Supports expert agents with delegated sub-agents, proactive task management, and media understanding, with self-hosting enabled via a single setup script.
+- **Integration Stack**: Combines crawl4ai for scraping, SearXNG for search, and Supabase for data storage, with MCP and n8n as core frameworks.
 
 ## Why It Matters
 

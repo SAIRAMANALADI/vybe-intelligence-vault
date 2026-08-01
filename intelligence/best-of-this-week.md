@@ -10,6 +10,8 @@ Curated highlights from the current week's collection, representing high-quality
 *   [bbPress Codex](https://codex.bbpress.org) (Score: 70) - Category: `ai-coding-agents/`
 *   [Blog | Bluesky](https://docs.bsky.app/blog) (Score: 70) - Category: `ai-coding-agents/`
 *   [Photojournal - NASA Science](https://photojournal.jpl.nasa.gov/index.html) (Score: 70) - Category: `ai-coding-agents/`
+*   [Mintlify · GitHub](https://github.com/mintlify) (Score: 70) - Category: `ai-coding-agents/`
+*   [How your data is used to improve model performance | OpenAI Help Center](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance) (Score: 70) - Category: `ai-coding-agents/`
 *   [How your Apple Card application is evaluated - Apple Support](https://support.apple.com/kb/HT209218) (Score: 70) - Category: `ai-coding-agents/`
 *   [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) (Score: 70) - Category: `ai-coding-agents/`
 *   [Stylised pathways to “well below 2°C”](https://cicero.oslo.no/en/articles/stylised-pathways-to-well-below-2c) (Score: 70) - Category: `ai-coding-agents/`
@@ -17,7 +19,5 @@ Curated highlights from the current week's collection, representing high-quality
 *   [Graph Neural Network-based Algorithm Selection for the Traveling Salesman Problem: A Systematic Study of Cost and Rank Losses under Distinct Budget Regimes](https://arxiv.org/abs/2607.18632) (Score: 70) - Category: `ai-coding-agents/`
 *   [Algorithmic Constitutionalism](https://arxiv.org/abs/2606.12437) (Score: 70) - Category: `ai-coding-agents/`
 *   [RT-VLA: Real-Time Vision-Language-Action Models via Knowledge Distillation](https://arxiv.org/abs/2606.14010) (Score: 70) - Category: `ai-coding-agents/`
-*   [The Industrialization of Research ; On AI-Driven Science and Its Consequences](https://arxiv.org/abs/2607.15164) (Score: 70) - Category: `ai-coding-agents/`
-*   [AoA: Theorem Proving Agent over Abstract Syntax Tree of Redesigned Language](https://arxiv.org/abs/2607.16372) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

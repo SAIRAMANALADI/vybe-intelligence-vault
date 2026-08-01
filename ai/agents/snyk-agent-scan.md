@@ -4,15 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/snyk/agent-scan
-collected_at: '2026-08-01T19:28:06.594559+05:30'
-published_at: '2026-08-01T09:37:56Z'
+collected_at: '2026-08-01T21:47:21.592960+05:30'
+published_at: '2026-08-01T16:03:25Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - workflows
-stars: 2845
+stars: 2847
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-07T14:31:26Z'
 pushed_at: '2026-07-28T19:31:54Z'
 resource_id: github:snyk/agent-scan
-first_seen: '2026-08-01T19:28:06.594559+05:30'
-last_seen: '2026-08-01T19:28:06.594559+05:30'
-last_checked: '2026-08-01T19:28:06.594559+05:30'
+first_seen: '2026-08-01T21:47:21.592960+05:30'
+last_seen: '2026-08-01T21:47:21.592960+05:30'
+last_checked: '2026-08-01T21:47:21.592960+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Security scanner designed to audit AI agents, MCP servers, and agent skills for vulnerabilities.
-- **Key Features**: Supports detection of security flaws in AI-driven workflows and integrations via MCP (Model Context Protocol).
-- **Technical Stack**: Implemented in Python, with active maintenance and updates as of August 2026.
+- **Purpose**: Security scanner designed to audit AI agents, MCP servers, and agent skills for vulnerabilities and misconfigurations.
+- **Key Features**: Supports detection of security risks in AI workflows, integrates with Model Context Protocol (MCP), and provides Python-based scanning capabilities.
+- **Repository Stats**: 2,847 stars, 253 forks, last updated on 2026-08-01.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: snyk
-- Stars: 2845
+- Stars: 2847
 - Forks: 253
 - Language: Python
 - Topics: agent, ai, mcp, modelcontextprotocol, security
-- Last Updated: 2026-08-01T09:37:56Z
+- Last Updated: 2026-08-01T16:03:25Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-04-07T14:31:26Z

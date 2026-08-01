@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-08-01T19:26:41.500559+05:30'
+collected_at: '2026-08-01T21:45:56.543470+05:30'
 published_at: '2026-08-01T13:09:12Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-08-01T19:26:41.500559+05:30'
-last_seen: '2026-08-01T19:26:41.500559+05:30'
-last_checked: '2026-08-01T19:26:41.500559+05:30'
+first_seen: '2026-08-01T21:45:56.543470+05:30'
+last_seen: '2026-08-01T21:45:56.543470+05:30'
+last_checked: '2026-08-01T21:45:56.543470+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph RAG Architecture**: Introduces a linear graph-based retrieval mechanism for RAG, optimizing large-scale corpus indexing and retrieval efficiency by leveraging linear graph traversal instead of traditional hierarchical or dense retrieval methods.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG paradigm leveraging linear graph structures for efficient retrieval in large-scale corpora, optimizing LLM performance by reducing computational overhead while maintaining contextual relevance.
 
-- **Scalability & Performance**: Demonstrates linear-time complexity for retrieval operations, enabling efficient handling of large-scale corpora while maintaining high accuracy in downstream LLM tasks, validated on ICLR 2026 benchmarks.
+- **Key Innovation**: Proposes a linear-time graph construction method for retrieval, enabling scalable and fast augmentation of LLM prompts with structured knowledge graphs derived from extensive document collections.
 
-- **Python Implementation**: Provides an open-source Python framework with modular components for graph construction, retrieval, and integration with LLMs, supporting extensibility for custom graph-based RAG pipelines.
+- **Performance Metrics**: Demonstrates superior efficiency and accuracy over traditional RAG methods in ICLR 2026 evaluations, with significant reductions in retrieval latency and improved generation quality on benchmark corpora.
 
 ## Why It Matters
 

@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/apecloud/ApeRAG
-collected_at: '2026-08-01T19:26:36.487901+05:30'
+collected_at: '2026-08-01T21:45:51.491803+05:30'
 published_at: '2026-07-31T14:52:54Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
+- workflows
 stars: 1291
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2023-06-20T12:18:12Z'
 pushed_at: '2026-05-02T05:01:36Z'
 resource_id: github:apecloud/aperag
-first_seen: '2026-08-01T19:26:36.487901+05:30'
-last_seen: '2026-08-01T19:26:36.487901+05:30'
-last_checked: '2026-08-01T19:26:36.487901+05:30'
+first_seen: '2026-08-01T21:45:51.491803+05:30'
+last_seen: '2026-08-01T21:45:51.491803+05:30'
+last_checked: '2026-08-01T21:45:51.491803+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal indexing**: Supports structured (knowledge graphs) and unstructured (text, documents) data integration with vector embeddings for hybrid retrieval.
-- **AI agents & MCP integration**: Enables autonomous agents with MCP (Model Context Protocol) for dynamic context engineering and tool orchestration.
-- **Scalable K8s deployment**: Containerized architecture with Kubernetes support for distributed, fault-tolerant GraphRAG pipelines.
+- **Multi-modal indexing**: Supports both text and structured data integration for GraphRAG, enabling hybrid knowledge graph construction.
+- **AI agents & MCP integration**: Includes agentic workflows with Model Context Protocol (MCP) support for dynamic, scalable retrieval-augmented generation (RAG).
+- **Kubernetes-native deployment**: Optimized for scalable, production-grade deployments with Helm charts and modular microservices architecture.
 
 ## Why It Matters
 

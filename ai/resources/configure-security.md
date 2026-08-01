@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/security/
-published_at: '2026-08-01T19:32:06.873641+05:30'
-collected_at: '2026-08-01T19:32:06.873649+05:30'
+published_at: '2026-08-01T21:51:28.038979+05:30'
+collected_at: '2026-08-01T21:51:28.038995+05:30'
 tags:
 - frontend_ui
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-security
-first_seen: '2026-08-01T19:32:06.873649+05:30'
-last_seen: '2026-08-01T19:32:06.873649+05:30'
-last_checked: '2026-08-01T19:32:06.873649+05:30'
+first_seen: '2026-08-01T21:51:28.038995+05:30'
+last_seen: '2026-08-01T21:51:28.038995+05:30'
+last_checked: '2026-08-01T21:51:28.038995+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Default Security Policy**: Hugo enforces a restrictive security policy by default, blocking `os/exec`, remote communication, and other sensitive operations unless explicitly allowed via allowlists, with detailed failure messages for unauthorized attempts.
+- **Security Policy**: Hugo enforces a default-deny security policy via allowlists for `os/exec`, remote HTTP calls, and Node.js operations, blocking unauthorized actions with detailed error messages.
 
-- **Configurable Allowlists**: Security settings are defined via regex-based allowlists for content types (`allowContent`), executables (`exec.allow`), OS env vars (`exec.osEnv`/`funcs.getenv`), HTTP methods/URLs (`http.methods`/`urls`), and Node.js permissions (`node.permissions`), with negation rules (`!`) for explicit denials.
+- **Configuration Structure**: Security settings include `allowContent` (media type restrictions), `exec.allow` (permitted binaries), `http.urls` (allowed remote URLs), and Node.js permissions (`allowRead`, `allowWrite`, etc.), all configurable via regex patterns.
 
-- **Environment Overrides**: Security policies can be dynamically adjusted via environment variables (e.g., `HUGO_SECURITY_HTTP_URLS=none`) or disabled entirely for specific features (e.g., `none` in allowlists), with Node.js tools restricted by `--permission` flags when enabled.
+- **Negation & Overrides**: Deny rules (prefixed with `!`) take precedence; entire allowlists can be disabled via `none` or overridden via `HUGO_SECURITY_*` environment variables (e.g., `HUGO_SECURITY_HTTP_URLS=none`).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-01T19:32:06.873641+05:30
+- Published: 2026-08-01T21:51:28.038979+05:30
 
 ## Related Tags
 

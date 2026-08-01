@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-08-01T19:26:16.487701+05:30'
+collected_at: '2026-08-01T21:45:31.469201+05:30'
 published_at: '2026-07-31T02:19:14Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-08-01T19:26:16.487701+05:30'
-last_seen: '2026-08-01T19:26:16.487701+05:30'
-last_checked: '2026-08-01T19:26:16.487701+05:30'
+first_seen: '2026-08-01T21:45:31.469201+05:30'
+last_seen: '2026-08-01T21:45:31.469201+05:30'
+last_checked: '2026-08-01T21:45:31.469201+05:30'
 health_score: 100
 ---
 
@@ -31,15 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a dataset and benchmark framework for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of performance in real-world scenarios.
+- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on enterprise internal documents, enabling standardized assessment of LLM performance in real-world contexts.
 
-- **Key Features**:
-  - Includes synthetic and real-world enterprise data for RAG evaluation.
-  - Supports metrics for retrieval quality, answer correctness, and latency in enterprise search contexts.
+- **Features**: Includes synthetic data generation, semantic search evaluation, and question-answering tasks tailored for enterprise knowledge bases and internal search applications.
 
-- **Technical Scope**:
-  - Compatible with Python-based RAG pipelines and LLM evaluation tools.
-  - Focuses on semantic search, information retrieval, and generative AI evaluation in enterprise environments.
+- **Technical Scope**: Supports Python-based RAG evaluation pipelines, covering large language models (LLMs), information retrieval, and generative AI metrics for enterprise use cases.
 
 ## Why It Matters
 

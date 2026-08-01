@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.githubstatus.com
-published_at: '2026-08-01T19:33:22.784366+05:30'
-collected_at: '2026-08-01T19:33:22.784374+05:30'
+published_at: '2026-08-01T21:54:20.851138+05:30'
+collected_at: '2026-08-01T21:54:20.851157+05:30'
 tags:
 - anthropic
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-status
-first_seen: '2026-08-01T19:33:22.784374+05:30'
-last_seen: '2026-08-01T19:33:22.784374+05:30'
-last_checked: '2026-08-01T19:33:22.784374+05:30'
+first_seen: '2026-08-01T21:54:20.851157+05:30'
+last_seen: '2026-08-01T21:54:20.851157+05:30'
+last_checked: '2026-08-01T21:54:20.851157+05:30'
 health_score: 100
 ---
 
@@ -27,14 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Status Page**: Provides real-time operational status for GitHub services (e.g., Git Operations, API Requests, Actions) with 90-day uptime metrics and incident tracking via email, SMS, Slack, or webhooks.
+- **GitHub Status Page**: Provides real-time operational status of GitHub services (e.g., Git Operations, Webhooks, API Requests) with historical uptime metrics and incident tracking across regions (US, EU, Australia, Japan).
 
-- **Recent Incidents (July 25–Aug 1, 2026)**: Multiple outages reported:
-  - **Actions**: Elevated REST API timeouts (July 29, 2% workflows delayed) due to under-provisioned internal service.
-  - **Copilot AI Models**: Degraded availability for GPT-5.6 Luna and Claude Fable 5 (July 29–Aug 1) linked to upstream model provider issues.
-  - **GraphQL API**: Performance degradation (July 27) resolved within ~16 minutes.
+- **Incident Management**: Documents recent major outages (e.g., Copilot AI Model Providers, GitHub Actions) with root cause analyses, mitigation steps, and resolution timestamps, including degraded performance due to upstream provider issues.
 
-- **Regional Status Pages**: Dedicated endpoints for GitHub Enterprise Cloud status by region (Australia, EU, Japan, US) with historical uptime data.
+- **Notification Systems**: Supports multi-channel incident notifications via email, SMS (global phone codes), Slack, and webhooks for automated alerting on service disruptions or status changes.
 
 ## Why It Matters
 
@@ -44,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T19:33:22.784366+05:30
+- Published: 2026-08-01T21:54:20.851138+05:30
 
 ## Related Tags
 

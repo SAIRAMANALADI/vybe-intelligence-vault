@@ -4,25 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/SkillSpector
-collected_at: '2026-07-21T22:16:12.608051+05:30'
-published_at: '2026-07-21T16:20:14Z'
+collected_at: '2026-08-01T21:47:16.585822+05:30'
+published_at: '2026-08-01T14:31:16Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
-stars: 13504
+stars: 14025
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2026-03-21T00:28:43Z'
-pushed_at: '2026-07-21T16:28:37Z'
+pushed_at: '2026-07-31T14:47:11Z'
 resource_id: github:nvidia/skillspector
-first_seen: '2026-07-21T22:16:12.608051+05:30'
-last_seen: '2026-07-21T22:16:12.608051+05:30'
-last_checked: '2026-07-21T22:16:12.608051+05:30'
+first_seen: '2026-08-01T21:47:16.585822+05:30'
+last_seen: '2026-08-01T21:47:16.585822+05:30'
+last_checked: '2026-08-01T21:47:16.585822+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Static Analysis Tool**: SkillSpector performs static analysis on AI agent skills to detect vulnerabilities, malicious patterns, and security risks without executing the code.
-- **Python-Based**: Implemented in Python, leveraging static analysis techniques to inspect AI agent skill definitions for security flaws.
-- **NVIDIA-Developed**: Open-source project by NVIDIA for proactive security assessment of AI agent skills, updated as of July 2026.
+- **Static Analysis Tool**: SkillSpector performs static analysis on AI agent skills to detect vulnerabilities, malicious patterns, and security risks without execution.
+- **Python-Based**: Implemented in Python, leveraging libraries for abstract syntax tree (AST) parsing and pattern matching to identify security flaws.
+- **Open-Source Security Scanner**: Released under an open-source license (likely Apache 2.0 or MIT), enabling community-driven security audits for AI agent frameworks.
 
 ## Why It Matters
 
@@ -41,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NVIDIA
-- Stars: 13504
-- Forks: 1116
+- Stars: 14025
+- Forks: 1169
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-21T16:20:14Z
+- Last Updated: 2026-08-01T14:31:16Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-03-21T00:28:43Z
-- Pushed At: 2026-07-21T16:28:37Z
+- Pushed At: 2026-07-31T14:47:11Z
 
 ## Possible Use Cases
 

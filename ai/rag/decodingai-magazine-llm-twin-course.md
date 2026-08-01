@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-08-01T19:25:56.470017+05:30'
+collected_at: '2026-08-01T21:45:16.486676+05:30'
 published_at: '2026-07-30T17:44:31Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 stars: 4379
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-08-01T19:25:56.470017+05:30'
-last_seen: '2026-08-01T19:25:56.470017+05:30'
-last_checked: '2026-08-01T19:25:56.470017+05:30'
+first_seen: '2026-08-01T21:45:16.486676+05:30'
+last_seen: '2026-08-01T21:45:16.486676+05:30'
+last_checked: '2026-08-01T21:45:16.486676+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **End-to-end LLM & RAG system design**: Course provides hands-on guidance for building production-ready LLM and Retrieval-Augmented Generation (RAG) systems using LLMOps best practices, covering architecture, deployment, and scalability.
+- **Course Content**: Provides a free, hands-on guide to building a production-ready LLM and RAG system using LLMOps best practices, including source code and 12 structured lessons.
 
-- **Tooling & infrastructure integration**: Utilizes AWS, Pulumi (IaC), Docker, Bytewax, Qdrant, and Qwak for MLOps, with Comet-ML for experiment tracking and Superlinked for vector search optimization.
+- **Technical Stack**: Implements AWS, Pulumi (IaC), Bytewax (stream processing), Qdrant (vector DB), Superlinked (embedding optimization), and integrates tools like Comet-ML, Qwak, and Docker for MLOps.
 
-- **Hands-on learning structure**: Includes 12 hands-on lessons with source code, covering ML system design, MLOps, and infrastructure-as-code (IaC) for deploying scalable generative AI applications.
+- **System Design Focus**: Covers end-to-end ML system design, including infrastructure-as-code, MLOps pipelines, and deployment strategies for scalable generative AI applications.
 
 ## Why It Matters
 

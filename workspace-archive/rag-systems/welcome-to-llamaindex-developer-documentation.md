@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Abstraction**: Simplifies complex systems by modeling classes/objects with essential attributes/methods, hiding unnecessary details (e.g., encapsulation in OOP).
-- **Polymorphism**: Enables objects of different classes to be treated as objects of a common superclass, facilitating dynamic method resolution (e.g., method overriding in Java/Python).
-- **Design Patterns**: Reusable solutions to common problems (e.g., Singleton, Observer) that optimize code maintainability, scalability, and modul
+- **Abstraction**: Simplifies complex systems by modeling classes/objects with essential attributes/methods, hiding unnecessary details.
+- **Encapsulation**: Bundles data (attributes) and methods (functions) within a class, restricting direct access to some components (e.g., via `private` modifiers).
+- **Polymorphism**: Enables objects of different classes to be treated as instances of a common superclass, facilitating method overriding (runtime) and overloading (compile-time).
 
 ## Use Cases
 

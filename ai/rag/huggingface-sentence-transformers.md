@@ -1,35 +1,33 @@
 ---
-title: sentence-transformers/examples/sentence_transformer/applications/retrieve_rerank/in_document_search_crossencoder.py
-  at m
+title: sentence-transformers/examples/sentence_transformer/applications/retrieve_rerank/retrieve_rerank_simple_wikipedia.ipynb
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/huggingface/sentence-transformers/tree/main/examples/sentence_transformer/applications/retrieve_rerank/in_document_search_crossencoder.py
-published_at: '2026-07-21T20:01:29.175000+05:30'
-collected_at: '2026-07-21T20:01:29.175015+05:30'
+source_url: https://github.com/huggingface/sentence-transformers/tree/main/examples/sentence_transformer/applications/retrieve_rerank/retrieve_rerank_simple_wikipedia.ipynb
+published_at: '2026-08-01T21:54:25.151927+05:30'
+collected_at: '2026-08-01T21:54:25.151943+05:30'
 tags:
-- dataset
-- models
+- hackernews
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: github:huggingface/sentence-transformers
-first_seen: '2026-07-21T20:01:29.175015+05:30'
-last_seen: '2026-07-21T20:01:29.175015+05:30'
-last_checked: '2026-07-21T20:01:29.175015+05:30'
+first_seen: '2026-08-01T21:54:25.151943+05:30'
+last_seen: '2026-08-01T21:54:25.151943+05:30'
+last_checked: '2026-08-01T21:54:25.151943+05:30'
 health_score: 100
 ---
 
-# sentence-transformers/examples/sentence_transformer/applications/retrieve_rerank/in_document_search_crossencoder.py at m
+# sentence-transformers/examples/sentence_transformer/applications/retrieve_rerank/retrieve_rerank_simple_wikipedia.ipynb
 
 ## Summary
 
-- **Cross-Encoder-based in-document search**: Splits document into passages (e.g., 3 consecutive sentences) and uses a CrossEncoder (`cross-encoder/ms-marco-TinyBERT-L2`) to score relevance of each passage for a given query, returning top-5 highest-scoring passages.
+- **Library Overview**: `sentence-transformers` is a Hugging Face GitHub repository with 19k+ stars and 2.8k+ forks, providing tools for generating dense vector representations of sentences/paragraphs using pre-trained models.
 
-- **Efficiency trade-off**: The TinyBERT-L2 model achieves ~9,000 passages/sec on a V100 GPU but becomes inefficient for large documents due to per-query scoring of all [query, passage] pairs.
+- **Retrieve-Rerank Pipeline**: Includes a Jupyter notebook (`retrieve_rerank_simple_wikipedia.ipynb`) demonstrating a two-stage retrieval-and-reranking system for semantic search, leveraging transformer-based embeddings and cross-encoders.
 
-- **Preprocessing pipeline**: Uses NLTK’s `sent_tokenize()` to split document into sentences, then groups them into passages with configurable `window_size` (e.g., 3 sentences), balancing context retention and passage length.
+- **Technical Scope**: The repository integrates with Hugging Face’s ecosystem, supporting applications like semantic similarity, clustering, and retrieval-augmented generation (RAG) with modular examples and pre-trained models.
 
 ## Why It Matters
 
@@ -39,16 +37,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T20:01:29.175000+05:30
+- Published: 2026-08-01T21:54:25.151927+05:30
 
 ## Related Tags
 
-- dataset
-- models
+- hackernews
 - rag
 - reddit
 - web-crawled
 
 ## Source
 
-Original source: https://github.com/huggingface/sentence-transformers/tree/main/examples/sentence_transformer/applications/retrieve_rerank/in_document_search_crossencoder.py
+Original source: https://github.com/huggingface/sentence-transformers/tree/main/examples/sentence_transformer/applications/retrieve_rerank/retrieve_rerank_simple_wikipedia.ipynb

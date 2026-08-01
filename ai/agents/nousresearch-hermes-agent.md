@@ -4,26 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NousResearch/hermes-agent
-collected_at: '2026-08-01T19:28:16.592066+05:30'
-published_at: '2026-08-01T13:56:48Z'
+collected_at: '2026-08-01T21:47:36.574782+05:30'
+published_at: '2026-08-01T16:17:04Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - openai
 - python
-- workflows
-stars: 223669
+stars: 223728
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-07-22T22:22:28Z'
-pushed_at: '2026-08-01T11:55:09Z'
+pushed_at: '2026-08-01T16:06:27Z'
 resource_id: github:nousresearch/hermes-agent
-first_seen: '2026-08-01T19:28:16.592066+05:30'
-last_seen: '2026-08-01T19:28:16.592066+05:30'
-last_checked: '2026-08-01T19:28:16.592066+05:30'
+first_seen: '2026-08-01T21:47:36.574782+05:30'
+last_seen: '2026-08-01T21:47:36.574782+05:30'
+last_checked: '2026-08-01T21:47:36.574782+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports Anthropic (Claude/Code), OpenAI (ChatGPT/Codex), and other LLM APIs for dynamic agentic workflows.
-- **Self-Improving Architecture**: Implements recursive self-correction and tool-use (e.g., `claude-code`, `moltbot`) for autonomous skill acquisition.
-- **Extensible Python Framework**: Modular design with 223K+ stars, enabling custom tool integration and scalable agent development.
+- **Modular AI Agent Framework**: Hermes-Agent is a Python-based framework designed for building extensible AI agents, supporting integration with multiple LLMs (e.g., Anthropic, OpenAI, ChatGPT) and tools (e.g., `claude-code`, `codex`, `moltbot`).
+
+- **Dynamic Agent Growth**: Implements adaptive learning and tool augmentation, enabling agents to evolve capabilities over time via community-driven contributions (`hermes-agent`, `clawdbot`) and plugin ecosystems.
+
+- **Multi-Platform Compatibility**: Optimized for cross-platform execution (e.g., `anthropic`, `openclaw`) with last update (Aug 2026) ensuring compatibility with modern LLM APIs and tooling.
 
 ## Why It Matters
 
@@ -42,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NousResearch
-- Stars: 223669
-- Forks: 43119
+- Stars: 223728
+- Forks: 43149
 - Language: Python
 - Topics: ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw
-- Last Updated: 2026-08-01T13:56:48Z
+- Last Updated: 2026-08-01T16:17:04Z
 - License: MIT
 - Archived: No
 - Created At: 2025-07-22T22:22:28Z
-- Pushed At: 2026-08-01T11:55:09Z
+- Pushed At: 2026-08-01T16:06:27Z
 
 ## Possible Use Cases
 
