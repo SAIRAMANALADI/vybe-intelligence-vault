@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-137%2C952-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-81%2C176-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--01-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **137,952 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **81,176 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 16,126</p>
-        <p><b>Active:</b> 15,701 | <b>Inactive:</b> 425</p>
+        <p><b>Resources tracked:</b> 15,158</p>
+        <p><b>Active:</b> 14,733 | <b>Inactive:</b> 425</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 60,415</p>
+        <p><b>Archive Files:</b> 2,061</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 137,952 files</p>
-        <p><b>Last Update:</b> 2026-08-01 04:07 IST</p>
+        <p><b>Total Vault Size:</b> 81,176 files</p>
+        <p><b>Last Update:</b> 2026-08-01 05:36 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,22 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Tailscale didn't stop the Hugging Face intrusion](ai/community/tailscale-didn-t-stop-the-hugging-face-intrusion.md)** • <kbd>+214 pts</kbd>
-- 🔼 **[Golang proposal: container/: generic collection types](ai/community/golang-go.md)** • <kbd>+62 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[Everyone is building LLM routers, we deprecated ours](ai/community/everyone-is-building-llm-routers-we-deprecated-our.md)** • <kbd>+46 pts</kbd>
-- 🔼 **[Using the railway network as a flatbed scanner [video]](ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md)** • <kbd>+27 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Orca-Bench: How Ready Are Language Model Agents for Oncall?](ai/community/arxiv-2607-28545.md)** • <kbd>+11 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** • Rank: <kbd>+968</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md)** • Rank: <kbd>+968</kbd>
+- 🔼 **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** • Rank: <kbd>+968</kbd>
+- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+968</kbd>
+- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+968</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Predictive Speculative KV Replication for Bursty LLM Inference](ai/community/predictive-speculative-kv-replication-for-bursty-l.md)** • Score: `9`
-- 🆕 **[Thomson Reuters built its own AI model that now ranks among the best](ai/community/thomson-reuters-built-its-own-ai-model-that-now-ra.md)** • Score: `5`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS](ai/community/13-models-and-4-agents-on-swe-tasks-go-java-python.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
