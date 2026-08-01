@@ -20,7 +20,7 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [greensock/gsap-skills](https://github.com/greensock/gsap-skills) | `ai-coding-agents/` | 70 |
 | [sierra-research/tau2-bench](https://github.com/sierra-research/tau2-bench) | `ai-coding-agents/` | 70 |
 | [Resources to help you build, secure, and scale with GitHub · GitHub](https://resources.github.com/) | `ai-coding-agents/` | 70 |
-| [GitHub CLI | Take GitHub to the command line](https://cli.github.com) | `ai-coding-agents/` | 70 |
+| [GitHub CLI | Take GitHub to the command line](https://cli.github.com/) | `ai-coding-agents/` | 70 |
 | [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) | `ai-coding-agents/` | 70 |
 | [cisco-ai-defense/defenseclaw](https://github.com/cisco-ai-defense/defenseclaw) | `ai-coding-agents/` | 70 |
 | [abuzarmahmood/blech_github_bot](https://github.com/abuzarmahmood/blech_github_bot) | `ai-coding-agents/` | 70 |

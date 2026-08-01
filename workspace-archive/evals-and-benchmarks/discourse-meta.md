@@ -3,7 +3,7 @@ title: Discourse Meta
 archive_category: evals-and-benchmarks
 source_category: ai/rag
 source_url: https://meta.discourse.org
-resource_id: blog:discourse-meta
+resource_id: blog:discourse-meta-ebd09292
 local_vault_path: ai/rag/discourse-meta.md
 quality_score: 70
 archive_score: 82

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-08-01T21:45:16.500835+05:30'
+collected_at: '2026-08-02T01:05:29.481588+05:30'
 published_at: '2026-07-25T03:18:55Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-08-01T21:45:16.500835+05:30'
-last_seen: '2026-08-01T21:45:16.500835+05:30'
-last_checked: '2026-08-01T21:45:16.500835+05:30'
+first_seen: '2026-08-02T01:05:29.481588+05:30'
+last_seen: '2026-08-02T01:05:29.481588+05:30'
+last_checked: '2026-08-02T01:05:29.481588+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) with vector databases (Embedding), knowledge graphs, and function calls for structured/agent-based Q&A, supporting text, images (generation/understanding), and historical message context.
-
-- **Streaming & Agent Integration**: Utilizes Server-Sent Events (SSE) for real-time AI responses and integrates AI agents with tools like FunctionCall for dynamic workflows.
-
-- **Spring AI + Alibaba Stack**: Built on Spring AI framework with Alibaba Cloud services (e.g., embedding models, vector DBs) for scalable, production-grade AI applications.
+- **Implements RAG with Vector Database**: Utilizes embedding models and vector databases (e.g., Chroma, Milvus) for efficient retrieval-augmented generation (RAG) in AI Q&A systems.
+- **Supports SSE Streaming & Agent Workflows**: Enables real-time Server-Sent Events (SSE) streaming for dynamic responses and integrates AI agents with FunctionCall for tool-based interactions.
+- **Multi-Modal & Historical Context Handling**: Includes image generation/understanding (via models like Stable Diffusion), embedding-based similarity search, and persistent historical message storage for context-aware conversations.
 
 ## Why It Matters
 

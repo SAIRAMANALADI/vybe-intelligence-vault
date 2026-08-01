@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/MLGym
-collected_at: '2026-08-01T21:47:11.607476+05:30'
+collected_at: '2026-08-02T01:07:29.645045+05:30'
 published_at: '2026-07-24T07:21:05Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
+- workflows
 stars: 613
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-02-18T18:26:47Z'
 pushed_at: '2025-08-10T20:00:53Z'
 resource_id: github:facebookresearch/mlgym
-first_seen: '2026-08-01T21:47:11.607476+05:30'
-last_seen: '2026-08-01T21:47:11.607476+05:30'
-last_checked: '2026-08-01T21:47:11.607476+05:30'
+first_seen: '2026-08-02T01:07:29.645045+05:30'
+last_seen: '2026-08-02T01:07:29.645045+05:30'
+last_checked: '2026-08-02T01:07:29.645045+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Design**: MLGym is a Python-based framework designed to standardize and benchmark AI research agents, enabling systematic evaluation of algorithms across diverse tasks and environments.
-
-- **Benchmarking System**: The repository includes a structured benchmark suite to assess AI agents' performance, facilitating reproducibility and comparative analysis in machine learning research.
-
-- **Modular Architecture**: The framework emphasizes modularity, allowing researchers to integrate custom agents, tasks, and evaluation metrics while maintaining scalability and flexibility.
+- **Framework Overview**: MLGym is a Python-based framework designed to facilitate AI research agents by providing modular components for experiment design, execution, and benchmarking.
+- **Benchmarking System**: Introduces a standardized benchmarking system to evaluate AI research agents across diverse tasks, enabling reproducible and comparable results.
+- **Modular Architecture**: Features a highly modular architecture allowing customization of agents, tasks, and environments, supporting extensibility for advanced AI research workflows.
 
 ## Why It Matters
 

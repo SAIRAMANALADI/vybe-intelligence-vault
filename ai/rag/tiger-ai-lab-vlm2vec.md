@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIGER-AI-Lab/VLM2Vec
-collected_at: '2026-08-01T21:46:06.547730+05:30'
+collected_at: '2026-08-02T01:06:19.556108+05:30'
 published_at: '2026-07-31T06:24:04Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
-- models
 - python
 - rag
+- workflows
 - youtube
 stars: 670
 language: Python
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-10-07T15:14:52Z'
 pushed_at: '2026-07-24T03:40:03Z'
 resource_id: github:tiger-ai-lab/vlm2vec
-first_seen: '2026-08-01T21:46:06.547730+05:30'
-last_seen: '2026-08-01T21:46:06.547730+05:30'
-last_checked: '2026-08-01T21:46:06.547730+05:30'
+first_seen: '2026-08-02T01:06:19.556108+05:30'
+last_seen: '2026-08-02T01:06:19.556108+05:30'
+last_checked: '2026-08-02T01:06:19.556108+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: Repository hosts **VLM2Vec** (ICLR 2025), **VLM2Vec-V2** (TMLR 2026), and **MMEB-V3** (COLM 2026), a progressive series of **Multimodal Multi-task Evaluation Benchmarks (MMEB)** for evaluating Vision-Language Models (VLMs) across tasks like image/video/document retrieval, RAG, and representation learning.
+- **VLM2Vec Framework**: Implements contrastive learning-based multimodal embedding models (VLM2Vec, VLM2Vec-V2, VLM2Vec-V3) for tasks like image, video, and visual document retrieval, evaluated via the **MMEB** benchmark suite (ICLR 2025, TMLR 2026, COLM 2026).
 
-- **Technical Focus**: Implements **contrastive learning** for embedding generation, supporting **multimodal embeddings** (text, image, video) with applications in retrieval, document understanding, and multimodal AI systems.
+- **Benchmark Suite (MMEB)**: Provides standardized evaluations across **10+ multimodal embedding tasks**, including retrieval, representation learning, and RAG applications, with progressive updates (MMEB-V2/V3) enhancing scalability and task coverage.
 
-- **Codebase**: Python-based repository with modular implementations for benchmarking, evaluation, and fine-tuning of VLMs, including tools for **visual document retrieval**, **image/video retrieval**, and **multimodal embedding extraction**.
+- **Technical Stack**: Python-based implementation leveraging multimodal vision-language models (VLMs) for embedding generation, with modular design for integration into retrieval pipelines and benchmarking workflows.
 
 ## Why It Matters
 

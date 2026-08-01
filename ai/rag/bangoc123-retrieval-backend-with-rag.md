@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-08-01T21:45:06.407110+05:30'
+collected_at: '2026-08-02T01:05:24.499730+05:30'
 published_at: '2026-07-17T22:50:34Z'
 tags:
 - benchmark
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-08-01T21:45:06.407110+05:30'
-last_seen: '2026-08-01T21:45:06.407110+05:30'
-last_checked: '2026-08-01T21:45:06.407110+05:30'
+first_seen: '2026-08-02T01:05:24.499730+05:30'
+last_seen: '2026-08-02T01:05:24.499730+05:30'
+last_checked: '2026-08-02T01:05:24.499730+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Python-based RAG (Retrieval-Augmented Generation) pipeline optimized for Vietnamese text processing, integrating embedding models and vector databases for efficient retrieval.
-- **Architecture**: Modular design with components for document preprocessing, embedding generation (e.g., using `sentence-transformers`), and retrieval via similarity search (e.g., FAISS or Weaviate).
-- **Evaluation**: Includes benchmarking scripts for Vietnamese RAG tasks, assessing retrieval accuracy and generation quality with metrics like MRR, precision@k, and ROUGE scores.
+- **Vietnamese RAG Implementation**: Repository provides a production-ready Vietnamese Retrieval-Augmented Generation (RAG) backend with optimized pipelines for document retrieval and response generation.
+- **Key Components**: Includes Vietnamese text preprocessing, embedding models (e.g., `vinai/phobert-base`), vector database integration (FAISS/Chroma), and LLM inference (e.g., `vllm` or `transformers`).
+- **Deployment-Ready**: Features FastAPI-based REST endpoints, Docker support, and evaluation scripts for Vietnamese RAG performance benchmarking.
 
 ## Why It Matters
 

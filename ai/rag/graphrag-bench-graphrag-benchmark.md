@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
-collected_at: '2026-08-01T21:45:26.441237+05:30'
+collected_at: '2026-08-02T01:05:44.503434+05:30'
 published_at: '2026-07-31T14:06:35Z'
 tags:
 - benchmark
 - dataset
 - github-repo
 - hackernews
-- paper
 - python
 - rag
 stars: 471
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-06-09T03:34:06Z'
 pushed_at: '2026-06-07T02:17:59Z'
 resource_id: github:graphrag-bench/graphrag-benchmark
-first_seen: '2026-08-01T21:45:26.441237+05:30'
-last_seen: '2026-08-01T21:45:26.441237+05:30'
-last_checked: '2026-08-01T21:45:26.441237+05:30'
+first_seen: '2026-08-02T01:05:44.503434+05:30'
+last_seen: '2026-08-02T01:05:44.503434+05:30'
+last_checked: '2026-08-02T01:05:44.503434+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Official repository for GraphRAG-Bench, a benchmarking framework for evaluating Graph Retrieval-Augmented Generation (GraphRAG) models, as introduced in the ICLR'26 paper *"When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation"*.
-- **Technical Scope**: Provides datasets, evaluation metrics, and analysis tools to assess performance of GraphRAG systems, focusing on graph-based retrieval augmentation in generative models.
-- **Implementation**: Python-based framework with modular components for benchmarking, including dataset preprocessing, retrieval evaluation, and model comparison under standardized conditions.
+- **Benchmark Suite**: Provides a standardized evaluation framework for GraphRAG models, including datasets and metrics for assessing performance in graph-based retrieval-augmented generation (RAG) tasks.
+- **Technical Scope**: Focuses on analyzing when graph structures enhance RAG performance, covering retrieval strategies, graph construction methods, and model architectures.
+- **Implementation**: Python-based repository with modular components for dataset generation, evaluation, and model comparison, optimized for ICLR'26 submission.
 
 ## Why It Matters
 

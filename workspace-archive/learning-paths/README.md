@@ -25,6 +25,7 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 - [Resources to help you build, secure, and scale with GitHub · GitHub](https://resources.github.com/)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
 - [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
+- [LangChain · GitHub](https://github.com/langchain-ai)
 
 ## Best Learning Resources
 
@@ -40,4 +41,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-08-01 22:00 IST*
+*Last updated: 2026-08-02 01:22 IST*

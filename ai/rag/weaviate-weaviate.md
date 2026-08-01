@@ -1,71 +1,66 @@
 ---
-title: weaviate/weaviate
+title: Release v1.38.0 - HFresh, Namespaces, Nested Object Filtering, Alter Schema
+  Reindex property · weaviate/weaviate · GitHu
 category: ai/rag
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/weaviate/weaviate
-collected_at: '2026-08-01T16:27:24.872002+05:30'
-published_at: '2026-08-01T10:50:29Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/weaviate/weaviate/releases/tag/v1.38.0
+published_at: '2026-08-02T01:15:28.036940+05:30'
+collected_at: '2026-08-02T01:15:28.036955+05:30'
 tags:
-- github-repo
-- go
+- agents
+- anthropic
+- benchmark
+- dataset
+- frontend_ui
 - hackernews
+- models
 - rag
-stars: 16677
-language: Go
+- reddit
+- web-crawled
+- workflows
+- youtube
 status: active
-license: BSD-3-Clause
-archived: false
-created_at: '2016-03-30T15:03:17Z'
-pushed_at: '2026-08-01T06:05:58Z'
 resource_id: github:weaviate/weaviate
-first_seen: '2026-08-01T16:27:24.872002+05:30'
-last_seen: '2026-08-01T16:27:24.872002+05:30'
-last_checked: '2026-08-01T16:27:24.872002+05:30'
+first_seen: '2026-08-02T01:15:28.036955+05:30'
+last_seen: '2026-08-02T01:15:28.036955+05:30'
+last_checked: '2026-08-02T01:15:28.036955+05:30'
 health_score: 100
 ---
 
-# weaviate/weaviate
+# Release v1.38.0 - HFresh, Namespaces, Nested Object Filtering, Alter Schema Reindex property · weaviate/weaviate · GitHu
 
 ## Summary
 
-- **Hybrid Vector & Structured Data Storage**: Weaviate integrates object storage with vector embeddings, enabling combined vector search and structured filtering while maintaining cloud-native scalability and fault tolerance.
-
-- **HNSW & gRPC-Powered Search**: Implements Hierarchical Navigable Small World (HNSW) for approximate nearest neighbor search and leverages gRPC for high-performance, low-latency communication.
-
-- **Multi-Modal & Generative Search**: Supports semantic, hybrid, and generative search across text, images, and structured data, optimized for MLOps, recommender systems, and neural search applications.
+- **HFresh GA**: Introduced extensive performance optimizations in Weaviate v1.38.0, including normalized query vector rescoring, asymmetric distance computation, reduced memory usage, and enhanced error handling during reassignments and rescoring tasks.
+- **Namespaces (Preview)**: Added multi-tenant isolation via namespaces, including RAFT-based control-plane/data separation, RBAC integration, OIDC support, cross-namespace reference filtering, and per-namespace object limits with cascading delete functionality.
+- **Nested Object Filtering (Preview)**: Implemented indexed JSON property filtering with 21-part development spanning LSM storage, batched writes, correlated AND resolution, `IsNull` support, and GraphQL/gRPC ingress integration.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: weaviate
-- Stars: 16677
-- Forks: 1357
-- Language: Go
-- Topics: approximate-nearest-neighbor-search, generative-search, grpc, hnsw, hybrid-search, image-search, information-retrieval, mlops, nearest-neighbor-search, neural-search, recommender-system, search-engine, semantic-search, semantic-search-engine, similarity-search, vector-database, vector-search, vector-search-engine, vectors, weaviate
-- Last Updated: 2026-08-01T10:50:29Z
-- License: BSD-3-Clause
-- Archived: No
-- Created At: 2016-03-30T15:03:17Z
-- Pushed At: 2026-08-01T06:05:58Z
+- Source: Web Discovery
+- Category: ai/rag
+- Published: 2026-08-02T01:15:28.036940+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- agents
+- anthropic
+- benchmark
+- dataset
+- frontend_ui
+- hackernews
+- models
+- rag
+- reddit
+- web-crawled
+- workflows
+- youtube
 
 ## Source
 
-Original source: https://github.com/weaviate/weaviate
+Original source: https://github.com/weaviate/weaviate/releases/tag/v1.38.0

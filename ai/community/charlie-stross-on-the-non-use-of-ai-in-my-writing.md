@@ -13,13 +13,14 @@ collected_at: '2026-08-01T21:43:19.668345+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:charlie-stross-on-the-non-use-of-ai-in-my-writing
 first_seen: '2026-08-01T21:43:19.668345+05:30'
 last_seen: '2026-08-01T21:43:19.668345+05:30'
 last_checked: '2026-08-01T21:43:19.668345+05:30'
 health_score: 100
 ---
+
 
 # Charlie Stross – On the non-use of AI in my writing process
 

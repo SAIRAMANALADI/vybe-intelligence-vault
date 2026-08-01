@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-08-01T21:44:51.439073+05:30'
+collected_at: '2026-08-02T01:05:09.476353+05:30'
 published_at: '2026-07-29T09:54:30Z'
 tags:
-- dataset
 - github-repo
 - hackernews
 - jupyter notebook
 - models
 - rag
-- workflows
 stars: 1221
 language: Jupyter Notebook
 status: active
@@ -22,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-08-01T21:44:51.439073+05:30'
-last_seen: '2026-08-01T21:44:51.439073+05:30'
-last_checked: '2026-08-01T21:44:51.439073+05:30'
+first_seen: '2026-08-02T01:05:09.476353+05:30'
+last_seen: '2026-08-02T01:05:09.476353+05:30'
+last_checked: '2026-08-02T01:05:09.476353+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) designed for visualizing and exploring Retrieval-Augmented Generation (RAG) pipelines with an interactive Streamlit interface.
-
-- **Technical Stack**: Built in Python, leveraging Streamlit for frontend interactivity, with support for LLM integration and dynamic data visualization of RAG components (retrievers, embeddings, and generation).
-
-- **Key Features**: Enables real-time exploration of RAG workflows, supports custom dataset integration, and provides debugging/analysis tools for optimizing retrieval and generation performance. Last updated July 2026.
+- **Purpose**: Open-source tool for interactive visualization and debugging of Retrieval-Augmented Generation (RAG) pipelines, enabling users to analyze retrieval quality, context relevance, and model performance.
+- **Technical Stack**: Built with Python, Streamlit (for web UI), and Jupyter Notebooks; leverages LLM integration for dynamic analysis of RAG outputs.
+- **Features**: Real-time visualization of retrieval steps, context relevance scoring, and interactive exploration of RAG-generated responses.
 
 ## Why It Matters
 

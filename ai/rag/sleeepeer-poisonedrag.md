@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-08-01T21:45:36.455713+05:30'
+collected_at: '2026-08-02T01:05:54.490654+05:30'
 published_at: '2026-07-30T15:36:09Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - hackernews
 - meta-ai
@@ -24,9 +23,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-08-01T21:45:36.455713+05:30'
-last_seen: '2026-08-01T21:45:36.455713+05:30'
-last_checked: '2026-08-01T21:45:36.455713+05:30'
+first_seen: '2026-08-02T01:05:54.490654+05:30'
+last_seen: '2026-08-02T01:05:54.490654+05:30'
+last_checked: '2026-08-02T01:05:54.490654+05:30'
 health_score: 100
 ---
 
@@ -34,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Attack Methodology**: Introduces *knowledge corruption attacks* targeting Retrieval-Augmented Generation (RAG) systems by poisoning the external knowledge base, causing LLMs to generate manipulated or incorrect outputs while maintaining high semantic similarity to the original responses.
-
-- **Technical Implementation**: Demonstrates a two-phase attack—*knowledge base poisoning* (injecting adversarial documents) and *exploitation* (leveraging RAG’s retrieval mechanism to influence LLM outputs)—with minimal perturbation to evade detection.
-
-- **Evaluation & Impact**: Validates effectiveness across multiple RAG frameworks (e.g., LangChain, LlamaIndex) and datasets, showing significant degradation in response accuracy, trustworthiness, and robustness, with potential real-world implications for AI-driven decision systems.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by manipulating the retrieval corpus to mislead LLM outputs.
+- **Technical Mechanism**: Exploits adversarial document insertion into the knowledge base, causing RAG models to retrieve and generate incorrect or harmful responses while maintaining high semantic similarity to benign inputs.
+- **Evaluation & Impact**: Validated on multiple RAG pipelines (e.g., FAISS, BM25) and LLMs (e.g., Llama2, Vicuna), achieving >90% attack success rate with minimal perturbations, highlighting critical security vulnerabilities in production RAG deployments.
 
 ## Why It Matters
 

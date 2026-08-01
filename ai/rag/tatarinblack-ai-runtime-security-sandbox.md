@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TatarinBlack/ai-runtime-security-sandbox
-collected_at: '2026-08-01T21:45:46.463743+05:30'
+collected_at: '2026-08-02T01:05:59.558299+05:30'
 published_at: '2026-07-29T02:26:26Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 stars: 35
@@ -18,9 +19,9 @@ archived: false
 created_at: '2026-07-11T11:39:26Z'
 pushed_at: '2026-07-27T06:16:09Z'
 resource_id: github:tatarinblack/ai-runtime-security-sandbox
-first_seen: '2026-08-01T21:45:46.463743+05:30'
-last_seen: '2026-08-01T21:45:46.463743+05:30'
-last_checked: '2026-08-01T21:45:46.463743+05:30'
+first_seen: '2026-08-02T01:05:59.558299+05:30'
+last_seen: '2026-08-02T01:05:59.558299+05:30'
+last_checked: '2026-08-02T01:05:59.558299+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Demonstrates runtime security vulnerabilities in AI systems, including prompt injection, tool abuse, and excessive agency, using a live RAG chatbot.
-- **Tech Stack**: Implemented in Python, showcasing real-time attack simulations and mitigation strategies.
-- **Updates**: Last modified on **2026-07-29**, with 35 stars and 24 forks, indicating active community engagement.
+- **Purpose**: Demonstrates runtime security vulnerabilities in AI systems, including prompt injection, tool abuse, and excessive agency, via a live RAG chatbot.
+- **Implementation**: Built in Python, showcasing real-time exploitation techniques and mitigation strategies for AI runtime threats.
+- **Status**: Last updated on 2026-07-29, with 35 stars and 24 forks on GitHub.
 
 ## Why It Matters
 

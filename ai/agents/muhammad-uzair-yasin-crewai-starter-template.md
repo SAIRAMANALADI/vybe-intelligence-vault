@@ -4,12 +4,11 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/muhammad-uzair-yasin/CrewAi_starter_template
-collected_at: '2026-08-01T21:48:21.639607+05:30'
+collected_at: '2026-08-02T01:08:39.648475+05:30'
 published_at: '2025-09-09T15:50:32Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - workflows
 stars: 7
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-01-29T19:06:15Z'
 pushed_at: '2025-02-04T07:49:45Z'
 resource_id: github:muhammad-uzair-yasin/crewai_starter_template
-first_seen: '2026-08-01T21:48:21.639607+05:30'
-last_seen: '2026-08-01T21:48:21.639607+05:30'
-last_checked: '2026-08-01T21:48:21.639607+05:30'
+first_seen: '2026-08-02T01:08:39.648475+05:30'
+last_seen: '2026-08-02T01:08:39.648475+05:30'
+last_checked: '2026-08-02T01:08:39.648475+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A minimal starter template for CrewAI, a Python-based framework for agentic workflows, with 7 stars and 4 forks.
-- **Technical Stack**: Implemented in Python, last updated on 2025-09-09.
-- **Purpose**: Serves as a foundational template for initializing CrewAI projects, though no explicit description or topics are provided.
+- **Repository**: `muhammad-uzair-yasin/CrewAi_starter_template` is a Python-based starter template for CrewAI, last updated on **2025-09-09**.
+- **Metrics**: Contains **7 stars** and **4 forks**, with no additional topics or description provided.
+- **Purpose**: Serves as a foundational template for integrating or experimenting with CrewAI workflows in Python.
 
 ## Why It Matters
 

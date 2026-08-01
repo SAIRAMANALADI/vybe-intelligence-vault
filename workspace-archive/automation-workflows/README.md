@@ -12,10 +12,10 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (mcp-server - ESSENTIAL Tier)
 - [Stainless · GitHub](https://github.com/stainless-api) (template - ESSENTIAL Tier)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (framework - ESSENTIAL Tier)
+- [git/git](https://github.com/git/git) (workflow - ESSENTIAL Tier)
 - [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
+- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
-- [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) (template - ESSENTIAL Tier)
-- [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (benchmark - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -24,8 +24,8 @@ https://github.com/n8n-io/n8n (n8n)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs)
 - [Stainless · GitHub](https://github.com/stainless-api)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
+- [git/git](https://github.com/git/git)
 - [OpenAI · GitHub](https://github.com/openai)
-- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-08-01 22:00 IST*
+*Last updated: 2026-08-02 01:22 IST*

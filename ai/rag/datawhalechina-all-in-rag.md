@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-08-01T21:44:06.411075+05:30'
-published_at: '2026-08-01T15:49:40Z'
+collected_at: '2026-08-02T01:04:29.478983+05:30'
+published_at: '2026-08-01T18:40:28Z'
 tags:
 - github-repo
 - hackernews
@@ -13,16 +13,17 @@ tags:
 - models
 - python
 - rag
-stars: 9977
+- workflows
+stars: 9979
 language: Python
 status: active
 archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-07-29T11:43:11Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-08-01T21:44:06.411075+05:30'
-last_seen: '2026-08-01T21:44:06.411075+05:30'
-last_checked: '2026-08-01T21:44:06.411075+05:30'
+first_seen: '2026-08-02T01:04:29.478983+05:30'
+last_seen: '2026-08-02T01:04:29.478983+05:30'
+last_checked: '2026-08-02T01:04:29.478983+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Development Guide**: A full-stack technical resource for building Retrieval-Augmented Generation (RAG) applications with large language models (LLMs), covering embedding models, vector databases (Milvus), and multimodal integration.
+- **Comprehensive RAG Stack Guide**: Provides a full-stack technical guide for Retrieval-Augmented Generation (RAG) applications, covering end-to-end development workflows, from embedding models to deployment.
 
-- **Toolchain Integration**: Supports frameworks like LangChain, LlamaIndex, and DeepSeek, with examples leveraging Neo4j for knowledge graphs and Kimi-K2 for advanced LLM interactions.
+- **Multi-Tool & Framework Integration**: Demonstrates integration with multiple frameworks (LangChain, LlamaIndex) and tools (Milvus, Neo4j, DeepSeek, Kimi-K2) for multimodal and vector database-driven RAG pipelines.
 
-- **Python-Centric Implementation**: Provides hands-on Python code examples, optimized for production-grade RAG pipelines with multimodal data processing and vector search capabilities.
+- **Python-Centric Implementation**: Focuses on Python-based implementations with practical examples, covering embedding techniques, LLM fine-tuning, and multimodal RAG architectures.
 
 ## Why It Matters
 
@@ -43,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 9977
-- Forks: 4984
+- Stars: 9979
+- Forks: 4985
 - Language: Python
 - Topics: ai, deepseek, embedding, kimi-k2, langchain, llama-index, llm, milvus, multimodal, neo4j, python, rag
-- Last Updated: 2026-08-01T15:49:40Z
+- Last Updated: 2026-08-01T18:40:28Z
 - Archived: No
 - Created At: 2025-06-05T08:12:35Z
 - Pushed At: 2026-07-29T11:43:11Z

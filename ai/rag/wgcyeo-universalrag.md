@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-01T21:46:01.466988+05:30'
+collected_at: '2026-08-02T01:06:19.533783+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
 - github-repo
-- paper
 - python
 - rag
 stars: 174
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-01T21:46:01.466988+05:30'
-last_seen: '2026-08-01T21:46:01.466988+05:30'
-last_checked: '2026-08-01T21:46:01.466988+05:30'
+first_seen: '2026-08-02T01:06:19.533783+05:30'
+last_seen: '2026-08-02T01:06:19.533783+05:30'
+last_checked: '2026-08-02T01:06:19.533783+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multigranular RAG Framework**: Introduces a retrieval-augmented generation (RAG) system capable of handling diverse modalities (text, images, tables) and granularities (document, paragraph, sentence) via unified embeddings and retrieval mechanisms.
+- **Multimodal RAG Framework**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation across diverse modalities (e.g., text, images, tables) and granularities (e.g., paragraphs, sentences, entities), leveraging unified encoders and cross-modal retrieval mechanisms.
 
-- **ACL 2026 Oral Presentation**: Presented as an oral paper at ACL 2026, highlighting novel contributions in cross-modal retrieval and generation integration.
+- **ACL 2026 Oral Contribution**: The framework introduces novel architectures for modality-agnostic indexing and retrieval, optimizing for heterogeneous corpus integration while maintaining high retrieval precision and generation quality.
 
-- **Modular Python Implementation**: Provides an open-source Python library with modular components for modality-specific encoders, retrievers, and fusion strategies, enabling extensibility to new modalities.
+- **Open-Source Implementation**: Provides a Python-based toolkit with modular components for customizable RAG pipelines, supporting dynamic modality fusion and granularity-aware retrieval strategies.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-08-01T21:44:21.436914+05:30'
+collected_at: '2026-08-02T01:04:39.503373+05:30'
 published_at: '2026-07-31T15:52:46Z'
 tags:
 - github-repo
@@ -13,7 +13,6 @@ tags:
 - models
 - openai
 - rag
-- workflows
 stars: 897
 language: Jupyter Notebook
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-08-01T21:44:21.436914+05:30'
-last_seen: '2026-08-01T21:44:21.436914+05:30'
-last_checked: '2026-08-01T21:44:21.436914+05:30'
+first_seen: '2026-08-02T01:04:39.503373+05:30'
+last_seen: '2026-08-02T01:04:39.503373+05:30'
+last_checked: '2026-08-02T01:04:39.503373+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational Repository**: A structured 5-week learning program focused on mastering **Retrieval-Augmented Generation (RAG)** with hands-on Jupyter Notebooks, covering topics like hybrid search, vector indexing (HNSW), and quantization techniques (binary/scalar).
-- **Technical Stack**: Integrates **Azure OpenAI**, **Matryoshka Representation Learning**, and **multimodal** workflows, emphasizing responsible AI practices and efficient retrieval strategies (e.g., keyword + vector search).
-- **Tooling & Optimization**: Designed for **Visual Studio Code**, includes **Azure deployment**, and explores advanced techniques like **binary quantization** for scalable, low-latency RAG pipelines.
+- **Learning Framework**: A structured 5-week program in Jupyter Notebooks for mastering Retrieval-Augmented Generation (RAG), covering topics like hybrid search, vector search, and quantization techniques (binary/scalar).
+- **Technical Stack**: Integrates Azure, OpenAI APIs, HNSW (Hierarchical Navigable Small World) for indexing, and Matryoshka Representation Learning for efficient multimodal embeddings.
+- **Responsible AI Focus**: Emphasizes responsible AI practices, including keyword search, GPT fine-tuning, and deployment via Visual Studio Code.
 
 ## Why It Matters
 

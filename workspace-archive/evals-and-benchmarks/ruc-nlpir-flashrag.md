@@ -14,7 +14,6 @@ tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - python
 - rag
 - reddit
@@ -36,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Efficient RAG Research Toolkit**: FlashRAG is a Python-based toolkit designed for efficient Retrieval-Augmented Generation (RAG) research, optimized for performance and scalability in large language model (LLM) applications.
+- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit optimized for fast and scalable Retrieval-Augmented Generation (RAG) research, leveraging efficient implementations for large language models (LLMs) and retrieval systems.
 
-- **Benchmarking & Datasets**: The repository includes curated benchmarks and datasets tailored for evaluating RAG systems, enabling standardized performance comparisons across retrieval and generation tasks.
+- **Benchmark & Datasets**: Includes standardized benchmarks and curated datasets to evaluate RAG performance across diverse tasks, enabling reproducible and comparable research in retrieval-augmented generation.
 
-- **Modular & Extensible**: FlashRAG provides modular compon
+- **Modular & Extensible**: Designed with modular
 
 ## Use Cases
 

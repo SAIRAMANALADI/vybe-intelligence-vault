@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Polymarket/agents
-collected_at: '2026-08-01T21:47:51.622622+05:30'
+collected_at: '2026-08-02T01:08:04.682009+05:30'
 published_at: '2026-07-31T22:09:53Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: true
 created_at: '2024-07-03T22:44:18Z'
 pushed_at: '2024-11-05T15:40:29Z'
 resource_id: github:polymarket/agents
-first_seen: '2026-08-01T21:47:51.622622+05:30'
-last_seen: '2026-08-01T21:47:51.622622+05:30'
-last_checked: '2026-08-01T21:47:51.622622+05:30'
+first_seen: '2026-08-02T01:08:04.682009+05:30'
+last_seen: '2026-08-02T01:08:04.682009+05:30'
+last_checked: '2026-08-02T01:08:04.682009+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Trading Framework**: Python-based repository enabling AI agents to autonomously execute trades on Polymarket, leveraging market-making and predictive modeling strategies.
+- **Autonomous Trading Framework**: Python-based repository enabling AI agents to execute trades autonomously on Polymarket, leveraging market-making and arbitrage strategies.
 
-- **Agent Architecture**: Implements modular agent components (e.g., decision engines, risk management, and execution modules) to interact with Polymarket’s API for real-time order placement and liquidity provision.
+- **Modular Architecture**: Designed with extensible components for order execution, strategy implementation, and real-time market data processing.
 
-- **Integration & Scalability**: Designed for extensibility with APIs for strategy backtesting, performance monitoring, and multi-agent coordination, supporting high-frequency trading (HFT) and arbitrage opportunities.
+- **Dependencies**: Requires `python>=3.9`, `polymarket-api-client`, and additional libraries for async operations and data handling.
 
 ## Why It Matters
 

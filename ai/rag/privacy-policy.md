@@ -3,20 +3,20 @@ title: Privacy Policy
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://scite.ai/policy
-published_at: '2026-07-18T16:58:13.416644+05:30'
-collected_at: '2026-07-18T16:58:13.416650+05:30'
+source_url: https://www.deepset.ai/privacy-policy
+published_at: '2026-08-02T01:09:59.716024+05:30'
+collected_at: '2026-08-02T01:09:59.716039+05:30'
 tags:
 - agents
+- frontend_ui
 - hackernews
 - rag
 - web-crawled
-- youtube
 status: active
 resource_id: blog:privacy-policy
-first_seen: '2026-07-18T16:58:13.416650+05:30'
-last_seen: '2026-07-18T16:58:13.416650+05:30'
-last_checked: '2026-07-18T16:58:13.416650+05:30'
+first_seen: '2026-08-02T01:09:59.716039+05:30'
+last_seen: '2026-08-02T01:09:59.716039+05:30'
+last_checked: '2026-08-02T01:09:59.716039+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: Scite collects diverse personal data categories, including identifiers (name, email, ORCID/MS Azure/Google/Facebook-linked data), financial details, professional info, user-generated content (publications, comments), and device/browsing metadata (IP, geolocation, interaction logs), with explicit opt-in via third-party authentication or direct input.
+- **GDPR Compliance & Consent**: Processing of personal data by deepset GmbH adheres to GDPR, requiring explicit consent when no statutory basis exists; users can opt for alternative data transfer methods (e.g., telephone) to mitigate web-based security risks.
 
-- **Cookie & Tracking Mechanisms**: Uses strictly necessary, analytics (Google Analytics), functional, and targeting cookies; enables cross-site tracking for ads via Digital Advertising Alliance/NAI opt-out tools, while recognizing Global Privacy Control for opt-outs but ignoring "Do Not Track" signals.
+- **Data Collection & Retention**: Automatically logs general data (e.g., IP, browser type) for security and optimization; deepset Studio captures component/pipeline usage data with consent for product improvement, while personal data is retained only as long as necessary per legal/regulatory requirements.
 
-- **Data Processing & Disclosure**: Processes data for service provision, analytics, marketing, and legal compliance; shares data with service providers, public-facing content, advertising networks, advisors, government bodies, and in M&A transactions, with no AI/ML training use of customer data.
+- **Data Subject Rights**: Users retain rights to access, rectify, restrict, or erase their data, object to processing, and lodge complaints with supervisory authorities; deepset GmbH ensures transparency in data handling and provides a dedicated Data Protection Officer for inquiries.
 
 ## Why It Matters
 
@@ -38,16 +38,16 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-18T16:58:13.416644+05:30
+- Published: 2026-08-02T01:09:59.716024+05:30
 
 ## Related Tags
 
 - agents
+- frontend_ui
 - hackernews
 - rag
 - web-crawled
-- youtube
 
 ## Source
 
-Original source: https://scite.ai/policy
+Original source: https://www.deepset.ai/privacy-policy

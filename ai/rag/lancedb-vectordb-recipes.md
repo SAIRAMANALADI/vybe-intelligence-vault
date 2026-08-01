@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-08-01T21:44:31.485995+05:30'
+collected_at: '2026-08-02T01:04:49.451678+05:30'
 published_at: '2026-07-27T01:59:34Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -24,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-08-01T21:44:31.485995+05:30'
-last_seen: '2026-08-01T21:44:31.485995+05:30'
-last_checked: '2026-08-01T21:44:31.485995+05:30'
+first_seen: '2026-08-02T01:04:49.451678+05:30'
+last_seen: '2026-08-02T01:04:49.451678+05:30'
+last_checked: '2026-08-02T01:04:49.451678+05:30'
 health_score: 100
 ---
 
@@ -34,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based examples and tutorials for building multimodal AI systems, Retrieval-Augmented Generation (RAG), and AI agents using vector search and Large Language Models (LLMs).
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples and tutorials for Retrieval-Augmented Generation (RAG) and multimodal AI applications using vector search and LLMs (e.g., GPT-4-Vision, LlamaIndex, LangChain).
 
-- **Tooling & Framework Integration**: Demonstrates integration with key frameworks including LangChain, LlamaIndex, OpenAI APIs (GPT-4 Vision), and LanceDB for vector database operations, covering embeddings, fine-tuning, and multimodal workflows.
+- **Vector Database Integration**: Demonstrates practical use cases of LanceDB (a vector database) for efficient embedding storage, retrieval, and similarity search in AI pipelines.
 
-- **Technical Focus Areas**: Covers deep learning, machine learning, and vector database optimization, with practical implementations for agents, multimodal AI, and RAG pipelines. Last updated in July 2026.
+- **Agent & Fine-Tuning Workflows**: Includes recipes for building AI agents, fine-tuning models, and leveraging OpenAI embeddings for tasks like multimodal retrieval, hybrid search, and LLM-powered applications.
 
 ## Why It Matters
 

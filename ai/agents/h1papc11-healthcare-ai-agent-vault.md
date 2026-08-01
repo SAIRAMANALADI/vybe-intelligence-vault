@@ -4,11 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/h1papc11/healthcare-ai-agent-vault
-collected_at: '2026-08-01T21:47:26.524383+05:30'
+collected_at: '2026-08-02T01:07:44.608491+05:30'
 published_at: '2026-07-28T19:17:02Z'
 tags:
 - agents
 - github-repo
+- hackernews
+- scripts
 - unknown
 - workflows
 stars: 134
@@ -19,9 +21,9 @@ archived: false
 created_at: '2026-06-25T17:08:15Z'
 pushed_at: '2026-07-06T09:39:26Z'
 resource_id: github:h1papc11/healthcare-ai-agent-vault
-first_seen: '2026-08-01T21:47:26.524383+05:30'
-last_seen: '2026-08-01T21:47:26.524383+05:30'
-last_checked: '2026-08-01T21:47:26.524383+05:30'
+first_seen: '2026-08-02T01:07:44.608491+05:30'
+last_seen: '2026-08-02T01:07:44.608491+05:30'
+last_checked: '2026-08-02T01:07:44.608491+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-component system**: Integrates Obsidian templates, AI prompt workflows, and a TypeScript preprocessing pipeline to process Apple Health export data for healthcare AI agent applications.
+- **Integration Framework**: Combines Obsidian templates, AI prompt workflows, and a TypeScript preprocessing pipeline to process Apple Health exports into a structured healthcare AI agent vault.
 
-- **Health data pipeline**: TypeScript preprocessing pipeline converts raw Apple Health data into structured formats compatible with AI agent workflows.
+- **Technical Stack**: Utilizes TypeScript for preprocessing, with AI-driven workflows for data extraction, transformation, and healthcare-specific agent orchestration.
 
-- **Modular healthcare agent framework**: Combines Obsidian knowledge management with AI-driven analytics to create a customizable healthcare agent vault for family health monitoring.
+- **Repository Metrics**: 134 stars, 1,112 forks, last updated July 28, 2026, focusing on healthcare AI agents, health vaults, and agent-based healthcare automation.
 
 ## Why It Matters
 

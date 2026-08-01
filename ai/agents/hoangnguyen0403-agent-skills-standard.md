@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-01T19:27:36.519725+05:30'
+collected_at: '2026-08-02T01:07:09.595674+05:30'
 published_at: '2026-07-30T04:42:26Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
 - typescript
-- workflows
 stars: 536
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-01T19:27:36.519725+05:30'
-last_seen: '2026-08-01T19:27:36.519725+05:30'
-last_checked: '2026-08-01T19:27:36.519725+05:30'
+first_seen: '2026-08-02T01:07:09.595674+05:30'
+last_seen: '2026-08-02T01:07:09.595674+05:30'
+last_checked: '2026-08-02T01:07:09.595674+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized agent skills and best practices for programming languages (e.g., Kotlin, Go, Swift) and frameworks (e.g., Angular, NestJS, Spring Boot), designed to guide AI agents in adhering to coding standards.
+- **Repository Overview**: A TypeScript-based collection of standardized coding practices and best practices for AI agents across multiple programming languages and frameworks (e.g., Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, Spring Boot).
 
-- **Scope & Topics**: Covers 19+ topics including mobile (Android, iOS, Flutter), web (React, Next.js), backend (Laravel, NestJS), and agentic AI workflows, with structured `.cursorrules` files for AI tool integration.
+- **Purpose**: Provides structured guidelines (e.g., `cursor-rules`) to ensure AI agents adhere to framework-specific and language-specific coding standards for consistency and reliability.
 
-- **Metadata**: 536 stars, 155 forks, last updated July 30, 2026; serves as a reference for AI agents to implement language/framework-specific best practices.
+- **Metadata**: 536 stars, 155 forks, last updated July 30, 2026; covers topics like agentic AI, best practices, and cross-platform development (iOS/Android).
 
 ## Why It Matters
 

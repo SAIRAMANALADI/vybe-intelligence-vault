@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Core Functionality**: GitHub integrates Git for version control, supports SSH for secure remote access, and provides repository management for collaborative development workflows.
-
-- **Collaboration & Automation**: Enables pull requests for code review/merging, IDE-based code suggestions via GitHub Copilot, and CI/CD automation through GitHub Actions.
-
-- **Security & Extensibility**: Offers secrets management, vulnerability scanning, REST/GraphQL APIs for integration, and webhooks for
+- GitHub Docs provides structured guides for **Git setup, SSH authentication, and repository management**, covering local and remote workflows with security best practices.
+- **Collaborative development** is supported via **pull requests, GitHub Actions CI/CD, and Codespaces**, enabling secure code review, automation, and cloud-based development environments.
+- **Security and scalability** are enforced through **CodeQL vulnerability scanning, secret management, and enterprise-level access contro
 
 ## Use Cases
 

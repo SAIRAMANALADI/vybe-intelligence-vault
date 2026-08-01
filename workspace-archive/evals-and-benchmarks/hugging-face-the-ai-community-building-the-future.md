@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Model Overview**: Kimi-K3 is a large language model developed by Moonshot AI, hosted on Hugging Face with 560k downloads and 9.34k likes.
-- **Performance Metrics**: The model is optimized for advanced natural language processing tasks, though specific benchmarks are not detailed in the provided resource.
-- **Accessibility**: Available for public use via Hugging Face, facilitating integration and fine-tuning for downstream applications.
+- **Model Overview**: Kimi-K3 is a large-scale language model developed by Moonshot AI, hosted on Hugging Face with 560k downloads and 9.46k likes.
+- **Performance Metrics**: The model is optimized for advanced natural language processing tasks, though specific benchmark results are not detailed in the provided resource.
+- **Accessibility**: Available for public use via Hugging Face, facilitating integration and fine-tuning for research and production applications.
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/integrations
-published_at: '2026-08-01T16:29:43.734347+05:30'
-collected_at: '2026-08-01T16:29:43.734360+05:30'
+published_at: '2026-08-02T01:10:35.177923+05:30'
+collected_at: '2026-08-02T01:10:35.177939+05:30'
 tags:
 - agents
 - anthropic
@@ -24,9 +24,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:integrations-haystack
-first_seen: '2026-08-01T16:29:43.734360+05:30'
-last_seen: '2026-08-01T16:29:43.734360+05:30'
-last_checked: '2026-08-01T16:29:43.734360+05:30'
+first_seen: '2026-08-02T01:10:35.177939+05:30'
+last_seen: '2026-08-02T01:10:35.177939+05:30'
+last_checked: '2026-08-02T01:10:35.177939+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack supports 166 integrations** across categories including vector databases (e.g., Chroma, FAISS), model providers (e.g., Cohere, Anthropic), monitoring tools (e.g., Arize Phoenix, Datadog), and data ingestion frameworks (e.g., Docling, Amazon Textract), with both deepset-maintained and community-driven components.
+- **Haystack supports 166+ integrations** across categories including vector databases (FAISS, Chroma), model providers (Cohere, Anthropic, Azure OpenAI), document stores (Elasticsearch, AstraDB), and monitoring tools (Arize Phoenix, Datadog), maintained by deepset or the community.
 
-- **Key integration types** include document stores (e.g., AstraDB, Elasticsearch), model providers (e.g., AIMLAPI, Cerebras), and monitoring tools (e.g., Arize AI, DeepEval), enabling modular pipeline construction for retrieval, generation, and observability.
+- **Key integration types** include Model Providers (e.g., AIMLAPI, Cerebras), Document Stores (e.g., AlloyDB, ArangoDB), Data Ingestion tools (e.g., Amazon Textract, Docling), and Monitoring/Logging frameworks (e.g., Arize AI, Context AI).
 
-- **Community and contribution pathways** are formalized via GitHub PRs for new integrations and dedicated forms for feature requests, with documentation outlining the process for creating custom components or extending existing integrations.
+- **Community-driven contributions** are facilitated via GitHub (haystack-integrations) and guided by deepset’s documentation, enabling custom integration development for tools like FastEmbed, Firecrawl, and E2B.
 
 ## Why It Matters
 
@@ -48,7 +48,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T16:29:43.734347+05:30
+- Published: 2026-08-02T01:10:35.177923+05:30
 
 ## Related Tags
 

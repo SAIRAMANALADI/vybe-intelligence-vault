@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://changelog.langchain.com/
-published_at: '2026-08-01T21:53:16.545331+05:30'
-collected_at: '2026-08-01T21:53:16.545349+05:30'
+published_at: '2026-08-02T01:09:34.125454+05:30'
+collected_at: '2026-08-02T01:09:34.125470+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langsmith-cloud-changelog-docs-by-langchain
-first_seen: '2026-08-01T21:53:16.545349+05:30'
-last_seen: '2026-08-01T21:53:16.545349+05:30'
-last_checked: '2026-08-01T21:53:16.545349+05:30'
+first_seen: '2026-08-02T01:09:34.125470+05:30'
+last_seen: '2026-08-02T01:09:34.125470+05:30'
+last_checked: '2026-08-02T01:09:34.125470+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Deprecation & Migration**: Legacy feedback formula endpoints (`POST/GET /feedback/formulas`) deprecated in favor of composite evaluators, with removal scheduled for **2026-08-20**; migration required.
-
-- **Performance & Reliability**: Improved experiment comparison views, evaluator spend charts, and bulk export compression (default: **zstandard**); fixed trace ingestion, OpenTelemetry child span buffering, and dataset split rendering.
-
-- **Security & Access Control**: Enforced **monthly trace limits** per project/user; added **download datasets permission**; ABAC-based access control for thread pages; clearer 409 Conflict messages for duplicate run payloads.
+- **Deprecation & Migration**: Legacy feedback formula endpoints (`POST/GET /feedback/formulas`) deprecated in favor of composite evaluators, with removal scheduled for 2026-08-20; migration required.
+- **Performance & Reliability**: Enhanced experiment comparison views with real-time dataset split rendering, improved evaluator timeout handling, and optimized run ingestion batching to prevent data loss.
+- **Security & Access Control**: Enforced user-defined monthly trace limits per project/user, added dataset download permissions, and improved ABAC-based access control for thread traces.
 
 ## Why It Matters
 
@@ -46,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T21:53:16.545331+05:30
+- Published: 2026-08-02T01:09:34.125454+05:30
 
 ## Related Tags
 

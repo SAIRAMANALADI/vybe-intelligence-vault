@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Tencent/WeKnora
-collected_at: '2026-08-01T21:44:56.500435+05:30'
+collected_at: '2026-08-02T01:05:09.494438+05:30'
 published_at: '2026-08-01T13:46:48Z'
 tags:
 - agents
@@ -16,7 +16,6 @@ tags:
 - models
 - openai
 - rag
-- workflows
 stars: 19233
 language: Go
 status: active
@@ -25,9 +24,9 @@ archived: false
 created_at: '2025-07-22T08:01:23Z'
 pushed_at: '2026-08-01T11:56:10Z'
 resource_id: github:tencent/weknora
-first_seen: '2026-08-01T21:44:56.500435+05:30'
-last_seen: '2026-08-01T21:44:56.500435+05:30'
-last_checked: '2026-08-01T21:44:56.500435+05:30'
+first_seen: '2026-08-02T01:05:09.494438+05:30'
+last_seen: '2026-08-02T01:05:09.494438+05:30'
+last_checked: '2026-08-02T01:05:09.494438+05:30'
 health_score: 100
 ---
 
@@ -35,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Functional LLM Platform**: Converts raw documents into a queryable Retrieval-Augmented Generation (RAG) system, an autonomous reasoning agent, and a self-maintaining Wiki, supporting both structured and unstructured data processing.
+- **Multi-Functional LLM Platform**: Converts raw documents into a queryable RAG system, autonomous reasoning agent, and self-maintaining Wiki, supporting multimodal and multi-tenant architectures.
 
-- **Technical Stack & Features**: Implemented in Go, supports multimodal models (e.g., Ollama, OpenAI), multi-tenancy, vector search, embeddings, reranking, and semantic search with evaluation capabilities for generative AI workflows.
+- **Technical Stack**: Implements embeddings, semantic search, vector search, reranking, and integrates with Ollama and OpenAI for LLM interactions, all written in Go.
 
-- **Deployment & Integration**: Designed for scalability and modularity, enabling seamless integration with external LLM APIs, local model deployment (e.g., Ollama), and enterprise-grade knowledge management via semantic indexing and RAG pipelines.
+- **Features**: Supports question-answering, chatbot functionalities, and evaluation metrics, with last update on 2026-08-01.
 
 ## Why It Matters
 
@@ -49,7 +48,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: Tencent
 - Stars: 19233
-- Forks: 2729
+- Forks: 2730
 - Language: Go
 - Topics: agent, agentic, ai, chatbot, embeddings, evaluation, generative-ai, golang, knowledge-base, llm, multi-tenant, multimodel, ollama, openai, question-answering, rag, reranking, semantic-search, vector-search, wiki
 - Last Updated: 2026-08-01T13:46:48Z

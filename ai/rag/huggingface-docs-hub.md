@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-08-01T19:30:25.486764+05:30'
-collected_at: '2026-08-01T19:30:25.486773+05:30'
+published_at: '2026-08-02T01:09:30.961962+05:30'
+collected_at: '2026-08-02T01:09:30.961976+05:30'
 tags:
 - agents
 - creative_dev
@@ -20,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-08-01T19:30:25.486773+05:30'
-last_seen: '2026-08-01T19:30:25.486773+05:30'
-last_checked: '2026-08-01T19:30:25.486773+05:30'
+first_seen: '2026-08-02T01:09:30.961976+05:30'
+last_seen: '2026-08-02T01:09:30.961976+05:30'
+last_checked: '2026-08-02T01:09:30.961976+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting via Gradio, Docker, or static HTML/JS, with optional GPU acceleration for performance-critical applications.
+- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting via Gradio SDK, Dockerfiles, or static HTML/JS, with optional GPU acceleration for performance-critical applications.
 
-- **Integration & Extensibility**: Supports custom Python environments, OpenCV, GitHub Actions for CI/CD, and embedding in external platforms for collaborative ML showcasing.
+- **Integration & Customization**: Supports dependency management, GitHub Actions for CI/CD, and embeddable demos; also allows custom Python Spaces and organization card integration.
 
-- **Resource Management**: Provides dev mode, disk/storage monitoring, and GPU upgrades; includes configuration references, changelogs, and OAuth for secure access control.
+- **Storage & Scalability**: Provides disk usage monitoring, ZeroGPU for cost-efficient inference, and configurable storage limits for scalable ML deployments.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T19:30:25.486764+05:30
+- Published: 2026-08-02T01:09:30.961962+05:30
 
 ## Related Tags
 

@@ -4,16 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/data-enrichment
-collected_at: '2026-08-01T21:48:11.701546+05:30'
+collected_at: '2026-08-02T01:08:24.746041+05:30'
 published_at: '2026-07-29T08:48:15Z'
 tags:
 - agents
-- dataset
 - github-repo
 - hackernews
 - jupyter notebook
-- scripts
-- workflows
 stars: 242
 language: Jupyter Notebook
 status: active
@@ -22,9 +19,9 @@ archived: false
 created_at: '2024-08-28T15:50:13Z'
 pushed_at: '2026-07-25T18:57:31Z'
 resource_id: github:langchain-ai/data-enrichment
-first_seen: '2026-08-01T21:48:11.701546+05:30'
-last_seen: '2026-08-01T21:48:11.701546+05:30'
-last_checked: '2026-08-01T21:48:11.701546+05:30'
+first_seen: '2026-08-02T01:08:24.746041+05:30'
+last_seen: '2026-08-02T01:08:24.746041+05:30'
+last_checked: '2026-08-02T01:08:24.746041+05:30'
 health_score: 100
 ---
 
@@ -32,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: LangGraph Studio template for building agents that autonomously perform web research to generate or enrich structured datasets.
-- **Technical Stack**: Implemented in Jupyter Notebook using LangGraph (Python) for agent orchestration and workflow management.
-- **Key Features**: Template-based design for rapid deployment; supports web scraping, data validation, and structured output generation.
+- **Template Purpose**: Provides a LangGraph Studio template for constructing an agent that performs web research to generate or enrich structured data.
+- **Technical Stack**: Utilizes LangGraph (Python) and is implemented as a Jupyter Notebook.
+- **Repository Metadata**: 242 stars, 60 forks, last updated July 29, 2026.
 
 ## Why It Matters
 

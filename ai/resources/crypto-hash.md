@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/functions/crypto/hash/
-published_at: '2026-08-01T21:51:39.233453+05:30'
-collected_at: '2026-08-01T21:51:39.233462+05:30'
+published_at: '2026-08-02T01:10:33.622827+05:30'
+collected_at: '2026-08-02T01:10:33.622841+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:crypto-hash
-first_seen: '2026-08-01T21:51:39.233462+05:30'
-last_seen: '2026-08-01T21:51:39.233462+05:30'
-last_checked: '2026-08-01T21:51:39.233462+05:30'
+first_seen: '2026-08-02T01:10:33.622841+05:30'
+last_seen: '2026-08-02T01:10:33.622841+05:30'
+last_checked: '2026-08-02T01:10:33.622841+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Hashing Function**: The `crypto.Hash` function in Hugo supports multiple cryptographic hash algorithms (`md5`, `sha1`, `sha256` (default), `sha384`, `sha512`) to compute checksums of input strings, returning the result as a hexadecimal string.
-- **Default Algorithm**: If no algorithm is specified, `sha256` is used by default for hashing operations.
-- **SRI Hash Construction**: The function can be combined with `encoding.HexDecode` and `encoding.Base64Encode` to generate Subresource Integrity (SRI) hashes for resources, e.g., `{{ $integrity := printf "%s-%s" $algo ("Hello world" | crypto.Hash $algo | encoding.HexDecode | encoding.Base64Encode) }}`.
+- **Functionality**: Hashes input using specified algorithm (`md5`, `sha1`, `sha256` (default), `sha384`, or `sha512`) and returns checksum as hexadecimal string.
+- **Syntax**: `crypto.Hash [ALGORITHM] INPUT` or piped input with optional algorithm parameter.
+- **SRI Integration**: Supports Subresource Integrity (SRI) hash construction via combination with `encoding.HexDecode` and `encoding.Base64Encode` for fingerprinting resources.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-01T21:51:39.233453+05:30
+- Published: 2026-08-02T01:10:33.622827+05:30
 
 ## Related Tags
 

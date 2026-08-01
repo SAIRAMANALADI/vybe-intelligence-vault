@@ -4,16 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.rust-lang.org/conduct.html
-published_at: '2026-06-24T23:18:19.315882+05:30'
-collected_at: '2026-06-24T23:18:19.315890+05:30'
+published_at: '2026-08-02T01:16:14.877189+05:30'
+collected_at: '2026-08-02T01:16:14.877201+05:30'
 tags:
 - web-crawled
-- youtube
 status: active
 resource_id: blog:conduct-html
-first_seen: '2026-06-24T23:18:19.315890+05:30'
-last_seen: '2026-06-24T23:18:19.315890+05:30'
-last_checked: '2026-06-24T23:18:19.315890+05:30'
+first_seen: '2026-08-02T01:16:14.877201+05:30'
+last_seen: '2026-08-02T01:16:14.877201+05:30'
+last_checked: '2026-08-02T01:16:14.877201+05:30'
 health_score: 100
 ---
 
@@ -21,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Scope**: Applies to all official Rust Project spaces, including communication channels, events, and repositories.
-- **Expected Behavior**: Prohibits harassment, discrimination, and exclusionary conduct; emphasizes respect, empathy, and constructive collaboration.
-- **Enforcement**: Outlines reporting mechanisms, confidentiality, and potential sanctions (e.g., warnings, temporary bans, permanent expulsion).
+- The Rust Code of Conduct outlines expected behavior for community interactions, emphasizing respect, inclusivity, and professionalism.
+- Violations of the Code of Conduct are handled by the Rust Moderation Team, which may enforce sanctions up to and including expulsion from the community.
+- Reporting mechanisms are provided for incidents, ensuring confidentiality and prompt investigation by trained moderators.
 
 ## Why It Matters
 
@@ -33,12 +32,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T23:18:19.315882+05:30
+- Published: 2026-08-02T01:16:14.877189+05:30
 
 ## Related Tags
 
 - web-crawled
-- youtube
 
 ## Source
 

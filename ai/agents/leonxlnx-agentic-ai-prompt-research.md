@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-08-01T19:28:01.536636+05:30'
+collected_at: '2026-08-02T01:07:34.578638+05:30'
 published_at: '2026-08-01T01:34:31Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - unknown
+- workflows
 stars: 2498
 language: Unknown
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-08-01T19:28:01.536636+05:30'
-last_seen: '2026-08-01T19:28:01.536636+05:30'
-last_checked: '2026-08-01T19:28:01.536636+05:30'
+first_seen: '2026-08-02T01:07:34.578638+05:30'
+last_seen: '2026-08-02T01:07:34.578638+05:30'
+last_checked: '2026-08-02T01:07:34.578638+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Analyzes prompt patterns, agent coordination mechanisms, and security classifications for AI-driven coding assistants, focusing on autonomous task decomposition and execution.
-- **Prompt Engineering & System Prompts**: Reconstructs structured prompt templates to optimize agentic behavior, including role definition, task constraints, and iterative feedback loops.
-- **Security & Classification Framework**: Proposes a security taxonomy for agentic AI systems, addressing risks like privilege escalation, data leakage, and adversarial prompt injection in multi-agent environments.
+- **Agentic AI Coding Assistants**: Analyzes prompt patterns and coordination mechanisms in agentic AI systems for coding tasks, including multi-agent architectures and dynamic task delegation.
+- **Security & Classification**: Investigates security classifications and vulnerabilities in agentic AI workflows, focusing on prompt injection, data leakage, and access control.
+- **Prompt Engineering & System Prompts**: Deconstructs system prompts used in agentic AI (e.g., Claude) to optimize performance, reliability, and task-specific adaptability.
 
 ## Why It Matters
 

@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Profile**: `tensorblue` is a GitHub user account with 51 stars, 2 followers, and no public repositories, projects, or packages.
-- **Account Status**: No public activity (repositories, projects, or packages) is visible; only profile metadata (avatar, followers) is accessible.
-- **Error State**: The profile page displays loading errors, suggesting potential API/data retrieval issues or a restricted/empty account state.
+- GitHub user `tensorblue` has **51 stars** but **0 public repositories, projects, or packages** as of the snapshot.
+- User account is **inactive** with **2 followers** and **0 following**, indicating minimal engagement.
+- GitHub API/interface errors suggest **potential account deactivation, suspension, or data retrieval issues**.
 
 ## Use Cases
 

@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: http://creativecommons.org/licenses/by/4.0/
-published_at: '2026-08-01T21:54:08.961013+05:30'
-collected_at: '2026-08-01T21:54:08.961024+05:30'
+published_at: '2026-08-02T01:10:12.406856+05:30'
+collected_at: '2026-08-02T01:10:12.406865+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:deed-attribution-4-0-international-creative-common
-first_seen: '2026-08-01T21:54:08.961024+05:30'
-last_seen: '2026-08-01T21:54:08.961024+05:30'
-last_checked: '2026-08-01T21:54:08.961024+05:30'
+first_seen: '2026-08-02T01:10:12.406865+05:30'
+last_seen: '2026-08-02T01:10:12.406865+05:30'
+last_checked: '2026-08-02T01:10:12.406865+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- A **Canonical URL** is a web page's preferred, standardized URL that consolidates duplicate or similar content to prevent SEO issues like content duplication penalties.
-- It is defined using the `<link rel="canonical">` HTML element or the `rel=canonical` HTTP header, signaling search engines to treat the specified URL as the authoritative version.
-- Canonical URLs help consolidate link equity, improve crawl efficiency, and ensure consistent indexing, particularly in cases of URL parameters, session IDs, or mirrored content.
+- **Definition**: A canonical URL is a specific URL designated as the preferred version among duplicate or similar content pages to consolidate ranking signals and avoid dilution of SEO value.
+- **Purpose**: It prevents search engines from indexing multiple versions of the same content by specifying a single authoritative URL for search engine crawlers.
+- **Implementation**: Declared using the `<link rel="canonical">` tag in the HTML `<head>` section or via HTTP headers to signal the canonical version to search engines.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-01T21:54:08.961013+05:30
+- Published: 2026-08-02T01:10:12.406856+05:30
 
 ## Related Tags
 

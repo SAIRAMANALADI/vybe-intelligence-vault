@@ -4,10 +4,11 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/github/roadmap
-collected_at: '2026-08-01T19:34:16.897398+05:30'
+collected_at: '2026-08-02T01:11:14.895775+05:30'
 published_at: '2026-08-01T13:38:55Z'
 tags:
 - github-repo
+- hackernews
 - unknown
 stars: 8828
 language: Unknown
@@ -17,9 +18,9 @@ archived: false
 created_at: '2020-03-31T21:35:07Z'
 pushed_at: '2024-10-15T17:31:37Z'
 resource_id: github:github/roadmap
-first_seen: '2026-08-01T19:34:16.897398+05:30'
-last_seen: '2026-08-01T19:34:16.897398+05:30'
-last_checked: '2026-08-01T19:34:16.897398+05:30'
+first_seen: '2026-08-02T01:11:14.895775+05:30'
+last_seen: '2026-08-02T01:11:14.895775+05:30'
+last_checked: '2026-08-02T01:11:14.895775+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Public Roadmap for GitHub Features**: Outlines planned enhancements, updates, and new functionalities for GitHub products (e.g., GitHub.com, GitHub Enterprise) with community-driven feedback integration.
-
-- **Structured Issue Tracking**: Uses GitHub Issues to categorize and prioritize roadmap items, enabling transparent progress tracking and direct contributor engagement.
-
-- **Regular Updates**: Roadmap is dynamically updated to reflect evolving priorities, with the latest commit timestamp indicating active maintenance (e.g., `2026-08-01T13:38:55Z`).
+- **Repository Overview**: Public GitHub roadmap tracking upcoming features and improvements for GitHub and GitHub Enterprise, maintained by GitHub.
+- **Metadata**: 8,828 stars, 1,719 forks, last updated August 1, 2026.
+- **Technical Scope**: Focuses on platform-level changes, not language-specific; topics include `github`, `github-enterprise`, and `roadmap`.
 
 ## Why It Matters
 

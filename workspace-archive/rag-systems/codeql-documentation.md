@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **CodeQL Overview**: CodeQL treats code as data, enabling vulnerability queries to identify and eradicate variants across supported languages/frameworks (e.g., C/C++, Java, Python, JavaScript) via a declarative query language (QL).
-- **Key Resources**: Includes QL language reference, standard libraries, and query help; supported via CLI, VS Code extension, and GitHub’s open-source repository for libraries/queries.
-- **Coverage & Requirements**: Provides CWE coverage details, system requirement
+- **CodeQL Overview**: Enables querying code as structured data to identify and eradicate vulnerabilities across supported languages/frameworks (e.g., C/C++, Java, Python, JavaScript).
+- **Core Components**: Includes QL (query language), standard libraries, and tooling (CLI, VS Code extension) for writing, running, and sharing security-focused queries.
+- **Resources & Documentation**: Provides language guides, CWE coverage details, and reference docs (e.g., [QL language reference](https://codeql
 
 ## Use Cases
 

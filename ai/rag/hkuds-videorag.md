@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-08-01T21:45:56.501020+05:30'
+collected_at: '2026-08-02T01:06:09.539951+05:30'
 published_at: '2026-08-01T15:04:42Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - python
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-08-01T21:45:56.501020+05:30'
-last_seen: '2026-08-01T21:45:56.501020+05:30'
-last_checked: '2026-08-01T21:45:56.501020+05:30'
+first_seen: '2026-08-02T01:06:09.539951+05:30'
+last_seen: '2026-08-02T01:06:09.539951+05:30'
+last_checked: '2026-08-02T01:06:09.539951+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to interactively query video content with multi-modal inputs (e.g., text, frames, audio).
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-form video understanding, enabling LLMs to process and interact with video content via multi-modal inputs (visual + textual).
 
-- **Technical Implementation**: Leverages Python with multi-modal LLMs to process and retrieve contextually relevant segments from videos, optimizing for long-form video comprehension and dynamic Q&A.
+- **Technical Implementation**: Leverages Python-based multi-modal LLMs to segment, index, and retrieve video frames/context for dynamic Q&A, optimizing long-video comprehension without full sequential processing.
 
-- **Benchmark & Scalability**: Designed for KDD'2026, supporting high-dimensional video data retrieval with modular components for extensibility (e.g., custom embeddings, retrieval strategies).
+- **KDD'2026 Contribution**: Proposes a novel pipeline for scalable video-grounded dialogue, addressing challenges in temporal reasoning and multi-modal retrieval efficiency.
 
 ## Why It Matters
 

@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-08-01T21:46:01.547550+05:30'
+collected_at: '2026-08-02T01:06:14.584164+05:30'
 published_at: '2026-07-30T02:07:55Z'
 tags:
 - agents
+- benchmark
 - github-repo
-- hackernews
 - python
 - rag
 stars: 123
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-08-01T21:46:01.547550+05:30'
-last_seen: '2026-08-01T21:46:01.547550+05:30'
-last_checked: '2026-08-01T21:46:01.547550+05:30'
+first_seen: '2026-08-02T01:06:14.584164+05:30'
+last_seen: '2026-08-02T01:06:14.584164+05:30'
+last_checked: '2026-08-02T01:06:14.584164+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Architecture**: Implements a memory-based multi-agent system for Graph Retrieval-Augmented Generation (GraphRAG), leveraging distributed agents to enhance graph construction and retrieval.
+- **Memory-based Multi-Agent System**: Introduces a novel multi-agent architecture leveraging memory mechanisms for enhanced Graph Retrieval-Augmented Generation (GraphRAG), enabling dynamic knowledge integration and reasoning over graph-structured data.
 
-- **Ontology-Driven Graph Construction**: Utilizes ontology construction techniques to dynamically build and refine graph structures, improving contextual relevance in RAG pipelines.
+- **Graph & Ontology Construction**: Implements automated graph construction and ontology learning pipelines to dynamically build and refine knowledge graphs, improving contextual relevance and retrieval precision in RAG systems.
 
-- **Memory Integration**: Incorporates agent-memory mechanisms to maintain and update graph representations, enabling adaptive retrieval and generation in dynamic environments.
+- **Python-Based Framework**: Provides an open-source Python implementation optimized for scalability, with modular components for agent-memory interaction, graph operations, and ontology management, validated in KDD 2026 benchmarks.
 
 ## Why It Matters
 

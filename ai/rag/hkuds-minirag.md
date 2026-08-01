@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-08-01T21:44:51.448442+05:30'
+collected_at: '2026-08-02T01:05:09.557227+05:30'
 published_at: '2026-07-31T02:33:16Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-08-01T21:44:51.448442+05:30'
-last_seen: '2026-08-01T21:44:51.448442+05:30'
-last_checked: '2026-08-01T21:44:51.448442+05:30'
+first_seen: '2026-08-02T01:05:09.557227+05:30'
+last_seen: '2026-08-02T01:05:09.557227+05:30'
+last_checked: '2026-08-02T01:05:09.557227+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
-- **Optimized Architecture**: Implements lightweight retrieval and generation components, including a distilled encoder-decoder model and efficient indexing strategies, to enable deployment on resource-constrained hardware.
-- **Open-Source Implementation**: Provides a Python-based repository with modular components for customization, supporting integration with various vector databases and LLMs for scalable RAG applications.
+- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (SLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
+
+- **Architectural Efficiency**: Implements lightweight retrieval and generation components, optimizing for low-resource environments without sacrificing accuracy, validated through extensive benchmarking.
+
+- **Open-Source & Reproducibility**: Provides a Python-based, modular implementation with permissive licensing, enabling community-driven improvements and reproducibility in RAG research.
 
 ## Why It Matters
 

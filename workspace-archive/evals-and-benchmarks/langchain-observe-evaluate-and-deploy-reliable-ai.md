@@ -2,7 +2,7 @@
 title: 'LangChain: Observe, Evaluate, and Deploy Reliable AI Agents'
 archive_category: evals-and-benchmarks
 source_category: ai/agents
-source_url: https://www.langchain.com/
+source_url: https://www.langchain.com
 resource_id: blog:langchain-observe-evaluate-and-deploy-reliable-ai
 local_vault_path: ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md
 quality_score: 70
@@ -15,6 +15,7 @@ tags:
 - benchmark
 - producthunt
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **LangSmith Engine** autonomously clusters production agent failures, performs root cause analysis via trace inspection, and proposes fixes for review to accelerate agent improvement cycles.
+- **LangSmith Engine** autonomously clusters production agent failures into prioritized issues, performs root cause analysis on traces/code, and proposes fixes for review to accelerate agent improvement.
 
-- **Observability & Evaluation** features provide native tracing for agent frameworks, multi-turn message threading, LLM-as-judge evals, and human feedback integration to iteratively refine agent performance.
+- **Core Capabilities**: Framework-agnostic observability (OpenTelemetry, SDKs in Python/TS/Go/Java), multi-turn message threading, LLM-as-judge evals, fault-tolerant agent server with durable checkpointing, and A2A/MCP protocol support.
 
-- **Deployment & Fleet** capabilities include durable checkpointing, A2A/MCP protocol support, d
+- **Enterprise Features**: Fleet for autonomous task exe
 
 ## Use Cases
 
@@ -48,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.langchain.com/
+Original source URL: https://www.langchain.com
 
 ## Local Vault File
 

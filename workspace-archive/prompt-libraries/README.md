@@ -14,7 +14,7 @@ Well-crafted system and user prompts are the primary mechanism for directing LLM
 - [Visual prompt engineering for video models](https://arxiv.org/abs/2607.25537) (framework - USEFUL Tier)
 - [LLM-as-Judge in Education: A Curriculum-Grounded Marking Pipeline](https://arxiv.org/abs/2606.17507) (framework - USEFUL Tier)
 - [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (template - USEFUL Tier)
-- [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) (template - USEFUL Tier)
+- [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) (prompt - USEFUL Tier)
 - [explosion/spacy-llm](https://github.com/explosion/spacy-llm) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
@@ -24,8 +24,8 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 - [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research)
 - [explosion/spacy-llm](https://github.com/explosion/spacy-llm)
 - [stanfordnlp/dsp](https://github.com/stanfordnlp/dsp)
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 - [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](https://github.com/lm-sys/FastChat/blob/main/fastchat/llm_judge/data/judge_prompts.jsonl)
-- [shanraisshan/codex-cli-best-practice](https://github.com/shanraisshan/codex-cli-best-practice)
 - [jaypanchal18/production-ai-agents-and-llm-platform](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform)
 
 ## Best Learning Resources
@@ -44,4 +44,4 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 
 ---
 
-*Last updated: 2026-08-01 22:00 IST*
+*Last updated: 2026-08-02 01:22 IST*

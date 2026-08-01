@@ -22,7 +22,7 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | 2026-05-18 | [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) | `ai-coding-agents/` |
 | 2026-05-15 | [wxmb01/codex-app-autonomous-runs](https://github.com/wxmb01/codex-app-autonomous-runs) | `ai-coding-agents/` |
 | 2026-05-09 | [akihirookuda95/openai-agents-sdk-tutorial](https://github.com/akihirookuda95/openai-agents-sdk-tutorial) | `ai-coding-agents/` |
-| 2026-05-04 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `ai-coding-agents/` |
+| 2026-05-04 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `mcp-registry/` |
 | 2026-05-01 | [NotPBShaw/awesome-ai-governance](https://github.com/NotPBShaw/awesome-ai-governance) | `ai-coding-agents/` |
 | 2026-04-29 | [sirius-zuo/devops-skills](https://github.com/sirius-zuo/devops-skills) | `ai-coding-agents/` |
 | 2026-04-26 | [DenCabinetmaker/Rust-Rage](https://github.com/DenCabinetmaker/Rust-Rage) | `rag-systems/` |

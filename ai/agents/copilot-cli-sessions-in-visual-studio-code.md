@@ -4,17 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://code.visualstudio.com/docs/copilot/agents/background-agents
-published_at: '2026-08-01T21:50:10.037372+05:30'
-collected_at: '2026-08-01T21:50:10.037389+05:30'
+published_at: '2026-08-02T01:12:31.046706+05:30'
+collected_at: '2026-08-02T01:12:31.046721+05:30'
 tags:
 - agents
 - openai
 - web-crawled
 status: active
 resource_id: blog:copilot-cli-sessions-in-visual-studio-code
-first_seen: '2026-08-01T21:50:10.037389+05:30'
-last_seen: '2026-08-01T21:50:10.037389+05:30'
-last_checked: '2026-08-01T21:50:10.037389+05:30'
+first_seen: '2026-08-02T01:12:31.046721+05:30'
+last_seen: '2026-08-02T01:12:31.046721+05:30'
+last_checked: '2026-08-02T01:12:31.046721+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Copilot CLI Sessions**: Background agent sessions in VS Code, managed via Copilot CLI, running autonomously on local machines with GitHub Copilot SDK integration; support multi-repository workspaces, custom agents, and deep research tasks.
+- **Copilot CLI Sessions**: Background agent sessions in VS Code run autonomously via Copilot CLI, managed through the Chat view; supports parallel execution, slash commands (`/research`, `/yolo`), and two isolation modes (Worktree/Folder) for code changes.
 
-- **Isolation Modes**: Two modes for Copilot CLI sessions—**Worktree** (isolated Git worktree for changes) and **Folder** (direct workspace modifications)—with auto-approval in Worktree mode and configurable permissions (Default/Bypass/Autopilot/Assisted) in Folder mode.
+- **Isolation & Permissions**: Worktree isolation (Git worktree) auto-approves tools (Bypass Approvals), while Folder isolation allows configurable permissions (Default/Approvals/Autopilot/Assisted); Git repository required for Worktree.
 
-- **Permissions & Approvals**: Copilot CLI enforces permission levels (Bypass Approvals in Worktree, configurable in Folder mode) with experimental **Assisted permissions** available via `chat.assistedPermissions.enabled`; slash commands (`/research`, `/yolo`, etc.) enable advanced session control.
+- **Session Lifecycle**: Sessions persist outside VS Code (unlike local agents), support multi-repo workspaces, and enable handoffs between local/CLI/cloud agents; managed via Copilot SDK with terminal/IDE integration.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-01T21:50:10.037372+05:30
+- Published: 2026-08-02T01:12:31.046706+05:30
 
 ## Related Tags
 
