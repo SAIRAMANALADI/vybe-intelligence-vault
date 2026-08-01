@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-141%2C096-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-81%2C459-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--01-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **141,096 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **81,459 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 16,258</p>
-        <p><b>Active:</b> 15,825 | <b>Inactive:</b> 433</p>
+        <p><b>Resources tracked:</b> 15,251</p>
+        <p><b>Active:</b> 14,818 | <b>Inactive:</b> 433</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 60,756</p>
+        <p><b>Archive Files:</b> 2,076</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 141,096 files</p>
-        <p><b>Last Update:</b> 2026-08-01 19:44 IST</p>
+        <p><b>Total Vault Size:</b> 81,459 files</p>
+        <p><b>Last Update:</b> 2026-08-01 20:32 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,27 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Flint: A Visualization Language for the AI Era](ai/community/show-hn-microsoft-releases-flint-a-visualization-l.md)** • <kbd>+37 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Golang proposal: container/: generic collection types](ai/community/golang-go.md)** • <kbd>+11 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[UnoCSS: The instant on-demand Atomic CSS engine](ai/resources/unocss-the-instant-on-demand-atomic-css-engine.md)** • Rank: <kbd>+5305</kbd>
-- 🔼 **[content/files/en-us/web/security/defenses/subresource_integrity/index.md at main · mdn/content · GitHub](ai/resources/mdn-content.md)** • Rank: <kbd>+1368</kbd>
-- 🔼 **[Built-in AI | AI on Chrome | Chrome for Developers](ai/rag/built-in-ai-ai-on-chrome-chrome-for-developers.md)** • Rank: <kbd>+4290</kbd>
+- 🔼 **[Push your ideas to the web | Netlify](ai/resources/push-your-ideas-to-the-web-netlify.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Client Libraries | Resemble | Documentation](ai/resources/client-libraries-resemble-documentation.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[AWS Marketplace: Checkly](ai/agents/aws-marketplace-checkly.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[Resemble AI (@resembleai) / X](ai/resources/resemble-ai-resembleai-x.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[Automatic Deepfake Audio Detection Benchmark - Podonos | Make Your Voice AI Monetizable in Every Language](ai/resources/automatic-deepfake-audio-detection-benchmark-podon.md)** • Rank: <kbd>+3</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Google kills Earth AI generator after one day](ai/community/google-kills-earth-ai-generator-after-one-day.md)** • Score: `46`
-- 🆕 **[paul-hammant/tbd](ai/resources/paul-hammant-tbd.md)** • Score: `0`
-- 🆕 **[Checkly | LinkedIn](ai/agents/checkly-linkedin.md)** • Score: `0`
-- 🆕 **[Status | Checkly Status](ai/rag/status-checkly-status.md)** • Score: `0`
-- 🆕 **[AWS Marketplace: Checkly](ai/agents/aws-marketplace-checkly.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Google fixed more Chrome bugs in June than over the past two years, thanks to AI](ai/community/google-fixed-more-chrome-bugs-in-june-than-over-th.md)**
-- 💤 **[AI doesn't generate working products, that's still your job](ai/community/ai-doesn-t-generate-working-products-that-s-still.md)**
-- 💤 **[EU will mandate labels on authentic-looking AI content starting August 2](ai/community/eu-will-mandate-labels-on-authentic-looking-ai-con.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
