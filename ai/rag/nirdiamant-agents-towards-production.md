@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/agents-towards-production
-collected_at: '2026-08-01T14:07:09.342407+05:30'
+collected_at: '2026-08-01T16:21:30.954122+05:30'
 published_at: '2026-08-01T07:28:58Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
 stars: 21219
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-06-16T17:33:44Z'
 pushed_at: '2026-07-31T21:07:09Z'
 resource_id: github:nirdiamant/agents-towards-production
-first_seen: '2026-08-01T14:07:09.342407+05:30'
-last_seen: '2026-08-01T14:07:09.342407+05:30'
-last_checked: '2026-08-01T14:07:09.342407+05:30'
+first_seen: '2026-08-01T16:21:30.954122+05:30'
+last_seen: '2026-08-01T16:21:30.954122+05:30'
+last_checked: '2026-08-01T16:21:30.954122+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Tutorials**: Provides end-to-end, code-first guides for developing production-grade GenAI agents, covering prototyping to enterprise deployment with a focus on practical implementation.
+- **Comprehensive Tutorials**: End-to-end, code-first guides for developing production-grade GenAI agents, covering prototyping to enterprise deployment with a focus on practical implementation.
 
-- **Multi-Framework Support**: Integrates multiple agent frameworks (e.g., LangGraph, MCP) and tools (e.g., RAG, LLMs) with Python-based Jupyter Notebooks, emphasizing MLOps and observability for scalable deployments.
+- **Technical Scope**: Integrates frameworks like LangGraph, MCP, and tools for RAG, multi-agent systems, and MLOps, with observability and deployment best practices in Python.
 
-- **Enterprise-Grade Focus**: Covers advanced topics like multi-agent systems, deployment strategies, and production-grade observability, targeting scalable GenAI agent architectures in real-world environments.
+- **Educational Resource**: Open-source repository with Jupyter Notebooks, 21.2K+ stars, and 2.8K+ forks, last updated August 2026, targeting developers building scalable AI agents.
 
 ## Why It Matters
 

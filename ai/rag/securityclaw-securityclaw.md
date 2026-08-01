@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-08-01T14:06:59.383701+05:30'
+collected_at: '2026-08-01T16:21:20.993272+05:30'
 published_at: '2026-07-30T10:49:09Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - python
 - rag
 - scripts
-- workflows
 stars: 263
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-07-31T20:03:39Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-08-01T14:06:59.383701+05:30'
-last_seen: '2026-08-01T14:06:59.383701+05:30'
-last_checked: '2026-08-01T14:06:59.383701+05:30'
+first_seen: '2026-08-01T16:21:20.993272+05:30'
+last_seen: '2026-08-01T16:21:20.993272+05:30'
+last_checked: '2026-08-01T16:21:20.993272+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous agent integrating OpenSearch/Elasticsearch for real-time log monitoring, with modular components for extensibility in cybersecurity operations.
-- **RAG-Enhanced Behavioral Memory**: Constructs Retrieval-Augmented Generation (RAG)-based memory to contextualize historical and real-time anomalies, enabling adaptive threat detection and validation.
-- **LLM-Driven Anomaly Validation**: Uses Large Language Models (LLMs) to validate and interpret anomalies dynamically, automating threat hunting and reducing false positives in SOC workflows.
+- **Modular SOC Agent**: Python-based autonomous agent with skill-based architecture for monitoring OpenSearch/Elasticsearch logs, integrating RAG for behavioral memory, and validating anomalies in real-time using LLMs.
+
+- **RAG-Enhanced Anomaly Detection**: Retrieval-Augmented Generation (RAG) dynamically builds contextual behavioral memory from historical data to improve real-time anomaly validation and threat detection accuracy.
+
+- **Autonomous Threat Hunting**: Combines SOC automation, LLM-driven validation, and modular skills to autonomously detect, validate, and respond to cybersecurity threats with minimal human intervention.
 
 ## Why It Matters
 

@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Fosowl/agenticSeek
-collected_at: '2026-08-01T14:08:59.428113+05:30'
+collected_at: '2026-08-01T16:23:21.138831+05:30'
 published_at: '2026-08-01T08:37:11Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
 stars: 26717
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-02-19T18:03:06Z'
 pushed_at: '2026-07-12T11:50:42Z'
 resource_id: github:fosowl/agenticseek
-first_seen: '2026-08-01T14:08:59.428113+05:30'
-last_seen: '2026-08-01T14:08:59.428113+05:30'
-last_checked: '2026-08-01T14:08:59.428113+05:30'
+first_seen: '2026-08-01T16:23:21.138831+05:30'
+last_seen: '2026-08-01T16:23:21.138831+05:30'
+last_checked: '2026-08-01T16:23:21.138831+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Local-first autonomous agent**: Implements a fully local AI system (agenticSeek) using Python, eliminating dependency on cloud APIs or paid services; operates autonomously with reasoning, web browsing, and code execution capabilities.
-- **DeepSeek-R1 integration**: Leverages the DeepSeek-R1 model for advanced LLM-based agentic workflows, enabling complex task decomposition and execution without external API calls.
-- **Cost-efficient deployment**: Designed for minimal operational cost (electricity-only), supporting voice assistant functionality and multi-agent orchestration while maintaining privacy and autonomy.
+- **Fully Local AI Agent**: Implements a self-hosted, autonomous agent (agenticSeek) using Python, eliminating dependency on external APIs or cloud services, operating solely on local compute resources.
+- **DeepSeek-R1 Integration**: Leverages the DeepSeek-R1 model for reasoning, browsing, and code generation tasks, enabling advanced agentic behavior without recurring costs.
+- **Voice & Web Capabilities**: Supports voice assistant functionality and web interaction, with all processing performed locally to ensure privacy and cost efficiency.
 
 ## Why It Matters
 

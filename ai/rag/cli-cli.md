@@ -4,24 +4,26 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cli/cli#installation
-collected_at: '2026-07-21T20:01:14.743853+05:30'
-published_at: '2026-07-21T14:04:50Z'
+collected_at: '2026-08-01T16:29:32.327386+05:30'
+published_at: '2026-08-01T10:50:32Z'
 tags:
 - github-repo
 - go
 - hackernews
 - rag
-stars: 45350
+- scripts
+- workflows
+stars: 45560
 language: Go
 status: active
 license: MIT
 archived: false
 created_at: '2019-10-03T15:24:53Z'
-pushed_at: '2026-07-21T14:03:38Z'
+pushed_at: '2026-08-01T07:52:51Z'
 resource_id: github:cli/cli
-first_seen: '2026-07-21T20:01:14.743853+05:30'
-last_seen: '2026-07-21T20:01:14.743853+05:30'
-last_checked: '2026-07-21T20:01:14.743853+05:30'
+first_seen: '2026-08-01T16:29:32.327386+05:30'
+last_seen: '2026-08-01T16:29:32.327386+05:30'
+last_checked: '2026-08-01T16:29:32.327386+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Official GitHub CLI tool (`gh`) for interacting with GitHub repositories and APIs directly from the command line.
-- **Technical Stack**: Written in Go, leveraging GitHub's GraphQL API v4 (`github-api-v4`) for efficient data fetching.
-- **Features**: Supports Git operations, GitHub API interactions, and repository management; last updated on 2026-07-21.
+- **Purpose**: Official GitHub CLI tool for interacting with GitHub repositories and APIs directly from the command line.
+- **Technical Stack**: Built in Go, leveraging GitHub's GraphQL API v4 for efficient data fetching and mutation operations.
+- **Features**: Supports Git operations, GitHub API interactions, and workflow automation via a unified CLI interface.
 
 ## Why It Matters
 
@@ -40,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: cli
-- Stars: 45350
-- Forks: 8736
+- Stars: 45560
+- Forks: 8800
 - Language: Go
 - Topics: cli, git, github-api-v4, golang
-- Last Updated: 2026-07-21T14:04:50Z
+- Last Updated: 2026-08-01T10:50:32Z
 - License: MIT
 - Archived: No
 - Created At: 2019-10-03T15:24:53Z
-- Pushed At: 2026-07-21T14:03:38Z
+- Pushed At: 2026-08-01T07:52:51Z
 
 ## Possible Use Cases
 

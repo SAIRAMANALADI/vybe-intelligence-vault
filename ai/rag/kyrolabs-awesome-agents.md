@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/kyrolabs/awesome-agents
-collected_at: '2026-08-01T14:08:19.402704+05:30'
+collected_at: '2026-08-01T16:22:41.058058+05:30'
 published_at: '2026-07-31T20:09:01Z'
 tags:
 - agents
+- dataset
 - github-repo
+- hackernews
+- paper
 - rag
-- scripts
 - unknown
 stars: 2678
 language: Unknown
@@ -19,9 +21,9 @@ archived: false
 created_at: '2023-07-02T11:12:36Z'
 pushed_at: '2026-07-31T00:44:26Z'
 resource_id: github:kyrolabs/awesome-agents
-first_seen: '2026-08-01T14:08:19.402704+05:30'
-last_seen: '2026-08-01T14:08:19.402704+05:30'
-last_checked: '2026-08-01T14:08:19.402704+05:30'
+first_seen: '2026-08-01T16:22:41.058058+05:30'
+last_seen: '2026-08-01T16:22:41.058058+05:30'
+last_checked: '2026-08-01T16:22:41.058058+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Aggregates a comprehensive list of AI agent frameworks, libraries, and tools, spanning autonomous agents, multi-agent systems, and agent-based simulations.
-- **Multi-Domain Coverage**: Includes resources for task automation, research agents, game-playing agents, and agent orchestration platforms across diverse domains (e.g., software development, finance, robotics).
-- **Open-Source Focus**: Primarily features open-source projects with active maintenance, GitHub stars >100, and recent updates (last synced July 2026).
+- **Curated AI Agent Resources**: A comprehensive, community-driven collection of tools, frameworks, libraries, and research papers focused on AI agents, including autonomous systems, multi-agent systems, and agent-based modeling.
+
+- **Multi-Topic Coverage**: Encompasses diverse domains such as reinforcement learning, natural language processing (NLP), robotics, and swarm intelligence, with links to open-source projects, datasets, and academic publications.
+
+- **Active Maintenance**: Regularly updated (last commit: 2026-07-31) with contributions from 727 forks and 2,678 stars, indicating strong community engagement and continuous expansion of agent-related technologies.
 
 ## Why It Matters
 

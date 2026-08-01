@@ -3,9 +3,9 @@ title: Privacy Policy – Privacy & Terms – Google
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://accounts.google.com/TOS?loc=US&hl=en-US&privacy=true
-published_at: '2026-08-01T14:16:11.735061+05:30'
-collected_at: '2026-08-01T14:16:11.735076+05:30'
+source_url: https://policies.google.com/privacy
+published_at: '2026-08-01T16:26:00.729233+05:30'
+collected_at: '2026-08-01T16:26:00.729247+05:30'
 tags:
 - agents
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:privacy-policy-privacy-terms-google
-first_seen: '2026-08-01T14:16:11.735076+05:30'
-last_seen: '2026-08-01T14:16:11.735076+05:30'
-last_checked: '2026-08-01T14:16:11.735076+05:30'
+first_seen: '2026-08-01T16:26:00.729247+05:30'
+last_seen: '2026-08-01T16:26:00.729247+05:30'
+last_checked: '2026-08-01T16:26:00.729247+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: Google aggregates data across apps, browsers, and devices, including unique identifiers, IP addresses, device settings, and activity logs (e.g., searches, YouTube interactions, call/message logs) to personalize services and ads.
-
-- **Location Tracking**: Location data is collected via GPS, IP addresses, Wi-Fi/Bluetooth signals, and user-labeled places (e.g., "home/work"), with storage duration dependent on device/account settings (e.g., Timeline feature).
-
-- **User Content & Account Data**: Google stores user-generated content (emails, photos, docs) and account details (name, payment info) when signed in, while non-account interactions (e.g., Incognito mode) use anonymized identifiers for session-specific preferences.
+- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Chrome) including account-linked (personal info, activity) and non-account-linked (unique identifiers, device/browser metadata) data, with retention tied to user settings and regulatory compliance.
+- **Technical Mechanisms**: Data is collected via APIs, cookies, pixel tags, local storage (e.g., browser web storage), and device sensors (GPS, IP, Wi-Fi/Bluetooth signals), with cross-service synchronization (e.g., Chrome Sync) and third-party integrations (e.g., embedded Maps, ads).
+- **Privacy Controls & Security**: Users manage data via Google Account settings (e.g., Privacy Checkup, Timeline, ad personalization), with security measures including encryption, access controls, and compliance frameworks (e.g., GDPR, data deletion/export options).
 
 ## Why It Matters
 
@@ -42,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T14:16:11.735061+05:30
+- Published: 2026-08-01T16:26:00.729233+05:30
 
 ## Related Tags
 
@@ -58,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://accounts.google.com/TOS?loc=US&hl=en-US&privacy=true
+Original source: https://policies.google.com/privacy

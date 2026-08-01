@@ -4,19 +4,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://aws.amazon.com/about-aws/global-infrastructure/
-published_at: '2026-08-01T14:16:09.048227+05:30'
-collected_at: '2026-08-01T14:16:09.048243+05:30'
+published_at: '2026-08-01T16:26:29.522695+05:30'
+collected_at: '2026-08-01T16:26:29.522704+05:30'
 tags:
 - hackernews
 - producthunt
 - rag
+- reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:global-infrastructure-aws
-first_seen: '2026-08-01T14:16:09.048243+05:30'
-last_seen: '2026-08-01T14:16:09.048243+05:30'
-last_checked: '2026-08-01T14:16:09.048243+05:30'
+first_seen: '2026-08-01T16:26:29.522704+05:30'
+last_seen: '2026-08-01T16:26:29.522704+05:30'
+last_checked: '2026-08-01T16:26:29.522704+05:30'
 health_score: 100
 ---
 
@@ -24,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Global Reach & Scalability**: AWS operates **39 Regions** with **123 Availability Zones (AZs)**, plus **750+ CloudFront POPs**, **45 Local Zones**, and **33 Wavelength Zones**, enabling low-latency, high-performance deployments across **7 continents** with near **20M km of fiber optic backbone**.
+- **Global Reach & Resilience**: AWS operates 123 Availability Zones (AZs) across 39 geographic regions, with 7 additional AZs and 2 new regions planned (Saudi Arabia, Chile), ensuring high availability via multi-AZ redundancy and low-latency performance through 20M+ km of fiber optic backbone.
 
-- **High Availability & Resilience**: Each AWS Region contains **≥3 physically isolated AZs**, ensuring fault tolerance and **99.99% uptime SLA** for critical workloads, while **Dedicated Local Zones** and **Outposts** extend compliance and hybrid cloud capabilities.
+- **Edge & Hybrid Infrastructure**: Leverages 750+ CloudFront Points of Presence (PoPs), 45 Local Zones, 33 Wavelength Zones, and services like Outposts/Dedicated Local Zones for hybrid, edge, and latency-sensitive workloads.
 
-- **Performance-Optimized Infrastructure**: AWS leverages **AI-driven power optimization**, subsea/terrestrial fiber networks, and **Wavelength/Edge Locations** to minimize latency, with **CloudFront** and **Regional edge caches** accelerating content delivery globally.
+- **Security & Optimization**: Designed for security (Gartner/IDC Leader in 2025), sustainability (AI-driven power optimization), and scalability, with dedicated compliance tools (e.g., AWS Capabilities by Region) for regulatory needs.
 
 ## Why It Matters
 
@@ -38,13 +39,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T14:16:09.048227+05:30
+- Published: 2026-08-01T16:26:29.522695+05:30
 
 ## Related Tags
 
 - hackernews
 - producthunt
 - rag
+- reddit
 - web-crawled
 - youtube
 

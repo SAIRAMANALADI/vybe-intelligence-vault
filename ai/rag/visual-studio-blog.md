@@ -3,12 +3,11 @@ title: Visual Studio Blog
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://devblogs.microsoft.com/visualstudio
-published_at: '2026-06-24T10:31:31.230673+05:30'
-collected_at: '2026-06-24T10:31:31.230688+05:30'
+source_url: https://devblogs.microsoft.com/visualstudio/
+published_at: '2026-08-01T16:29:27.612054+05:30'
+collected_at: '2026-08-01T16:29:27.612064+05:30'
 tags:
 - agents
-- models
 - rag
 - reddit
 - scripts
@@ -17,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:visual-studio-blog
-first_seen: '2026-06-24T10:31:31.230688+05:30'
-last_seen: '2026-06-24T10:31:31.230688+05:30'
-last_checked: '2026-06-24T10:31:31.230688+05:30'
+first_seen: '2026-08-01T16:29:27.612064+05:30'
+last_seen: '2026-08-01T16:29:27.612064+05:30'
+last_checked: '2026-08-01T16:29:27.612064+05:30'
 health_score: 100
 ---
 
@@ -27,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Visual Studio 2026** introduces **Fluent-based theme customization**, enabling granular control over accent colors, hover states, and shell/tab header styling via a new *Theme colors* options page.
+- **Visual Studio 2026** introduces a **thinking effort control** for AI models, allowing developers to adjust reasoning depth (e.g., higher for debugging memory leaks, lower for variable renaming), optimizing both response quality and cost efficiency.
 
-- **GitHub Copilot in VS 2026** now supports **Agent Skills** (reusable instruction sets) and **Plan agent**, allowing teams to define task-specific workflows and validate implementation strategies before coding.
+- **New Agent Skills** in Copilot Chat, powered by the **GitHub Copilot SDK**, provide domain-specific expertise (e.g., .NET/Azure) to streamline agentic workflows and improve task reliability in VS 18.8+.
 
-- **TypeScript 7 Beta** is enabled by default in VS 2026 18.6 Insiders, improving compiler/language service integration for TypeScript/JavaScript projects lacking explicit SDK configurations.
+- **Private Marketplace Preview** enables organizations to enforce curated extension acquisition policies in VS, addressing security, compliance, and governance requirements via centralized extension management.
 
 ## Why It Matters
 
@@ -41,12 +40,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T10:31:31.230673+05:30
+- Published: 2026-08-01T16:29:27.612054+05:30
 
 ## Related Tags
 
 - agents
-- models
 - rag
 - reddit
 - scripts
@@ -56,4 +54,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://devblogs.microsoft.com/visualstudio
+Original source: https://devblogs.microsoft.com/visualstudio/

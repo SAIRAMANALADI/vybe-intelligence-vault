@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://changelog.langchain.com/
-published_at: '2026-08-01T14:10:33.842652+05:30'
-collected_at: '2026-08-01T14:10:33.842666+05:30'
+published_at: '2026-08-01T16:27:12.404794+05:30'
+collected_at: '2026-08-01T16:27:12.404807+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langsmith-cloud-changelog-docs-by-langchain
-first_seen: '2026-08-01T14:10:33.842666+05:30'
-last_seen: '2026-08-01T14:10:33.842666+05:30'
-last_checked: '2026-08-01T14:10:33.842666+05:30'
+first_seen: '2026-08-01T16:27:12.404807+05:30'
+last_seen: '2026-08-01T16:27:12.404807+05:30'
+last_checked: '2026-08-01T16:27:12.404807+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Deprecation & Migration**: Legacy feedback formula endpoints (`POST/GET /feedback/formulas`) deprecated in favor of composite evaluators (code evaluator + run rule), with removal scheduled for 2026-08-20; migration required.
+- **Deprecation & Migration**: Legacy feedback formula endpoints (`POST/GET /feedback/formulas`) are deprecated in favor of composite evaluators (code evaluator + run rule), with removal scheduled for 2026-08-20; existing formulas must be migrated.
 
-- **Enhanced Experiment & Evaluator Features**: Experiment comparison views now show live dataset splits, improved evaluator spend charts, and support for PEP 604 union return types in code evaluators; added `langsmith evaluator create-llm` for structured LLM-as-judge evaluators.
+- **Performance & Reliability**: Improved experiment comparison views (e.g., run tree expansion, token/cost stats from SmithDB), evaluator timeouts handling, and bulk export compression (defaulting to zstd) for efficiency.
 
-- **Performance & Security Updates**: Enforced monthly trace limits per project/user, improved batch ingestion handling for oversized inputs, and added user-defined permissions for dataset downloads; optimized experiment table rendering and evaluator timeouts.
+- **Enhanced Features**: Added structured LLM-as-judge evaluator creation (`langsmith evaluator create-llm`), multi-turn evaluator testing, and OpenTelemetry resource attribute support (`otel.resource.*` namespace) for trace metadata.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T14:10:33.842652+05:30
+- Published: 2026-08-01T16:27:12.404794+05:30
 
 ## Related Tags
 

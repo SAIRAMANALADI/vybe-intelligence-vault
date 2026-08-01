@@ -3,9 +3,9 @@ title: Google Terms of Service – Privacy & Terms – Google
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://policies.google.com/terms
-published_at: '2026-08-01T09:26:11.722733+05:30'
-collected_at: '2026-08-01T09:26:11.722741+05:30'
+source_url: https://myaccount.google.com/termsofservice
+published_at: '2026-08-01T16:26:54.112721+05:30'
+collected_at: '2026-08-01T16:26:54.112732+05:30'
 tags:
 - hackernews
 - paper
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:google-terms-of-service-privacy-terms-google
-first_seen: '2026-08-01T09:26:11.722741+05:30'
-last_seen: '2026-08-01T09:26:11.722741+05:30'
-last_checked: '2026-08-01T09:26:11.722741+05:30'
+first_seen: '2026-08-01T16:26:54.112732+05:30'
+last_seen: '2026-08-01T16:26:54.112732+05:30'
+last_checked: '2026-08-01T16:26:54.112732+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Service Provider & Jurisdiction**: Google LLC (Delaware-registered, USA-based) provides services under U.S. laws, with contractual obligations governed by California jurisdiction (1600 Amphitheatre Parkway, Mountain View).
+- **Legal Entity & Jurisdiction**: Google LLC (Delaware-registered, US-based) provides services under US laws, with contractual obligations defined for users globally, including age restrictions (parental consent required for minors).
 
-- **Automated & AI-Driven Service Modifications**: Google reserves rights to dynamically update services (e.g., AI/ML-driven features like spam detection or real-time translations) with material changes requiring advance notice unless urgent (e.g., security fixes, legal compliance).
+- **Service Provision & AI Integration**: Google services (Search, Maps, Pixel, etc.) are continuously improved via AI/ML (e.g., spam detection, translations), with automatic updates to software/features; material changes trigger advance notice and export options (Google Takeout) unless urgent (abuse/security).
 
-- **Content Usage & Restrictions**: Users retain IP rights to uploaded content but grant Google a license for processing; prohibited actions include reverse-engineering models, using automated scraping (violating `robots.txt`), or training AI models on Google-generated content without explicit permission.
+- **User Obligations & Restrictions**: Users must comply with terms, service-specific policies (e.g., Generative AI Prohibited Use), and prohibitions against abuse (e.g., malware, reverse engineering, automated scraping, or AI-generated content misuse), while granting Google limited rights to process user-submitted content per privacy policies.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T09:26:11.722733+05:30
+- Published: 2026-08-01T16:26:54.112721+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://policies.google.com/terms
+Original source: https://myaccount.google.com/termsofservice

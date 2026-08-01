@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-01T14:08:14.379105+05:30'
+collected_at: '2026-08-01T16:22:36.035277+05:30'
 published_at: '2026-07-30T04:42:26Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - typescript
 stars: 536
 language: TypeScript
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-01T14:08:14.379105+05:30'
-last_seen: '2026-08-01T14:08:14.379105+05:30'
-last_checked: '2026-08-01T14:08:14.379105+05:30'
+first_seen: '2026-08-01T16:22:36.035277+05:30'
+last_seen: '2026-08-01T16:22:36.035277+05:30'
+last_checked: '2026-08-01T16:22:36.035277+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 - **Repository Overview**: A TypeScript-based collection of standardized best practices and coding standards for AI agents, covering frameworks and languages such as Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, Spring Boot, and more.
 
-- **Purpose & Scope**: Designed to guide AI agents in adhering to industry-standard coding practices across multiple platforms (mobile, web, backend) and languages, ensuring consistency and high-quality output.
+- **Purpose & Scope**: Designed to guide AI agents in adhering to optimal coding practices across multiple platforms (mobile, web, backend) and technologies, ensuring consistency and high-quality output.
 
-- **Metadata**: 536 stars, 155 forks, last updated on 2026-07-30, with a focus on agentic AI, cursor rules, and framework-specific best practices.
+- **Metadata**: 536 stars, 155 forks, last updated July 30, 2026, with topics including agentic AI, coding standards, and framework-specific best practices.
 
 ## Why It Matters
 

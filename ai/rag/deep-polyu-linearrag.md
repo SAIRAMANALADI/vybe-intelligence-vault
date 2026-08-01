@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-08-01T14:07:19.356679+05:30'
+collected_at: '2026-08-01T16:21:40.993982+05:30'
 published_at: '2026-07-31T05:38:38Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-08-01T14:07:19.356679+05:30'
-last_seen: '2026-08-01T14:07:19.356679+05:30'
-last_checked: '2026-08-01T14:07:19.356679+05:30'
+first_seen: '2026-08-01T16:21:40.993982+05:30'
+last_seen: '2026-08-01T16:21:40.993982+05:30'
+last_checked: '2026-08-01T16:21:40.993982+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Proposes a novel RAG framework leveraging linear graph structures for efficient retrieval in large-scale corpora, optimizing both scalability and performance for LLMs.
-- **Graph-Based Retrieval Mechanism**: Utilizes linear graph traversal to dynamically extract and synthesize relevant context, reducing computational overhead while maintaining high retrieval accuracy.
-- **ICLR 2026 Contribution**: Introduces a scalable, graph-augmented RAG paradigm, demonstrating superior efficiency and effectiveness over traditional dense retrieval methods in empirical evaluations.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval in large-scale corpora, optimizing LLM performance by reducing computational overhead while maintaining retrieval accuracy.
+
+- **Graph-Based Retrieval Mechanism**: Implements a linear graph traversal algorithm to dynamically extract relevant context from corpora, enabling scalable and low-latency retrieval compared to traditional dense retrieval methods.
+
+- **ICLR 2026 Contribution**: Proposes a hybrid approach combining graph-based retrieval with generative models, demonstrating significant improvements in efficiency and contextual relevance for large-scale language model inference.
 
 ## Why It Matters
 

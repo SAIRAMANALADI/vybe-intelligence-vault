@@ -4,13 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aws-samples/amazon-bedrock-samples
-collected_at: '2026-08-01T14:06:24.387232+05:30'
+collected_at: '2026-08-01T16:20:46.018610+05:30'
 published_at: '2026-07-30T06:39:17Z'
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
-- models
 - rag
 - workflows
 stars: 1481
@@ -21,9 +19,9 @@ archived: false
 created_at: '2023-07-05T18:23:34Z'
 pushed_at: '2026-07-21T18:46:37Z'
 resource_id: github:aws-samples/amazon-bedrock-samples
-first_seen: '2026-08-01T14:06:24.387232+05:30'
-last_seen: '2026-08-01T14:06:24.387232+05:30'
-last_checked: '2026-08-01T14:06:24.387232+05:30'
+first_seen: '2026-08-01T16:20:46.018610+05:30'
+last_seen: '2026-08-01T16:20:46.018610+05:30'
+last_checked: '2026-08-01T16:20:46.018610+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Content**: Provides Jupyter Notebook examples for Amazon Bedrock, covering all available foundational models (e.g., Amazon Titan) and use cases like embeddings, generative AI, knowledge bases, and Retrieval-Augmented Generation (RAG) with LangChain integration.
+- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook examples demonstrating usage of all available Amazon Bedrock foundational models, including Amazon Titan and other supported models.
 
-- **Technical Focus**: Demonstrates practical implementations for Amazon Bedrock services, including model fine-tuning, inference, and integration with AWS services like knowledge bases and embeddings.
+- **Multi-Faceted AI Integration**: Includes examples for key AI/ML workflows such as embeddings generation, Retrieval-Augmented Generation (RAG), LangChain integration, and knowledge base construction.
 
-- **Framework & Tools**: Utilizes LangChain for RAG workflows and includes examples for deploying and interacting with Bedrock models in a notebook environment.
+- **AWS Service Ecosystem**: Focuses on seamless integration with AWS services, particularly Amazon Bedrock, to enable generative AI applications with enterprise-grade scalability and security.
 
 ## Why It Matters
 

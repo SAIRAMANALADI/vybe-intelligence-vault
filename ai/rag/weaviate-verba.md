@@ -1,13 +1,14 @@
 ---
-title: weaviate/verba
+title: weaviate/Verba
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/weaviate/verba
-collected_at: '2026-08-01T14:13:12.046115+05:30'
+source_url: https://github.com/weaviate/Verba/
+collected_at: '2026-08-01T16:27:24.854533+05:30'
 published_at: '2026-07-30T21:05:04Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 stars: 7713
@@ -18,21 +19,19 @@ archived: true
 created_at: '2023-07-28T16:53:42Z'
 pushed_at: '2026-06-08T09:25:18Z'
 resource_id: github:weaviate/verba
-first_seen: '2026-08-01T14:13:12.046115+05:30'
-last_seen: '2026-08-01T14:13:12.046115+05:30'
-last_checked: '2026-08-01T14:13:12.046115+05:30'
+first_seen: '2026-08-01T16:27:24.854533+05:30'
+last_seen: '2026-08-01T16:27:24.854533+05:30'
+last_checked: '2026-08-01T16:27:24.854533+05:30'
 health_score: 100
 ---
 
-# weaviate/verba
+# weaviate/Verba
 
 ## Summary
 
-- **RAG Implementation**: Weaviate-based chatbot leveraging Retrieval Augmented Generation (RAG) for dynamic, context-aware responses by integrating retrieval and generation models.
-
-- **Python Framework**: Built in Python, utilizing Weaviate’s vector search and generative AI capabilities for efficient data retrieval and response synthesis.
-
-- **Open-Source Repository**: Hosted on GitHub with 7,713 stars and 850 forks, last updated July 30, 2026, enabling community contributions and scalability.
+- **Core Functionality**: Verba is a Retrieval Augmented Generation (RAG) chatbot leveraging Weaviate as its vector database backend for contextual retrieval and generation.
+- **Technical Stack**: Implemented in Python, it integrates Weaviate’s vector search capabilities with LLM APIs for dynamic, context-aware responses.
+- **Repository Stats**: 7,713 stars, 850 forks, last updated July 30, 2026.
 
 ## Why It Matters
 
@@ -67,4 +66,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/weaviate/verba
+Original source: https://github.com/weaviate/Verba/

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IntelLabs/fastRAG
-collected_at: '2026-08-01T14:06:54.355616+05:30'
+collected_at: '2026-08-01T16:21:16.024633+05:30'
 published_at: '2026-07-31T19:02:18Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: true
 created_at: '2023-01-23T16:25:35Z'
 pushed_at: '2026-01-12T19:58:22Z'
 resource_id: github:intellabs/fastrag
-first_seen: '2026-08-01T14:06:54.355616+05:30'
-last_seen: '2026-08-01T14:06:54.355616+05:30'
-last_checked: '2026-08-01T14:06:54.355616+05:30'
+first_seen: '2026-08-01T16:21:16.024633+05:30'
+last_seen: '2026-08-01T16:21:16.024633+05:30'
+last_checked: '2026-08-01T16:21:16.024633+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: FastRAG is an efficient Python-based framework for Retrieval Augmented Generation (RAG), optimized for low-latency, high-throughput applications in generative AI and NLP tasks.
-- **Key Features**: Supports multi-modal retrieval (text, knowledge graphs), integrates with ColBERT and Sentence Transformers, and includes benchmarks for semantic search, QA, and summarization.
-- **Architecture**: Leverages Intel-optimized components (e.g., diffusion models, transformers) for scalable, high-performance RAG pipelines with minimal overhead.
+- **Efficient RAG Framework**: Implements optimized retrieval-augmented generation (RAG) pipelines leveraging Intel's hardware acceleration (e.g., AVX-512, oneDNN) for low-latency inference in NLP tasks like QA, summarization, and semantic search.
+
+- **Multi-Modal & Hybrid Retrieval**: Supports dense retrieval (ColBERT, Sentence-Transformers), sparse retrieval (BM25), and knowledge graph integration, enabling hybrid retrieval strategies for improved accuracy and context relevance.
+
+- **Scalable & Modular Design**: Built on PyTorch with plug-and-play components for diffusion models, multi-modal encoders, and customizable retrieval strategies, optimized for distributed inference and benchmarking across generative AI workloads.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.youtube.com/howyoutubeworks/
-published_at: '2026-07-20T20:14:16.194709+05:30'
-collected_at: '2026-07-20T20:14:16.194724+05:30'
+published_at: '2026-08-01T16:30:08.654119+05:30'
+collected_at: '2026-08-01T16:30:08.654128+05:30'
 tags:
 - hackernews
 - producthunt
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:how-youtube-works-giving-everyone-a-voice
-first_seen: '2026-07-20T20:14:16.194724+05:30'
-last_seen: '2026-07-20T20:14:16.194724+05:30'
-last_checked: '2026-07-20T20:14:16.194724+05:30'
+first_seen: '2026-08-01T16:30:08.654128+05:30'
+last_seen: '2026-08-01T16:30:08.654128+05:30'
+last_checked: '2026-08-01T16:30:08.654128+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **AI Content Labeling**: YouTube enforces mandatory disclosure and labeling of AI-generated or AI-altered content since 2024, enhancing transparency for viewers and creators.
-- **Likeness Detection Expansion**: New tools for civic leaders and journalists to detect unauthorized AI-generated impersonations, safeguarding identity integrity in AI-driven media.
-- **Digital Wellbeing Initiatives**: $20M funding allocated to develop a global digital wellbeing hub, focusing on teen mental health and online safety through structured educational and protective frameworks.
+- **AI Content Labeling**: YouTube enforces mandatory disclosure and labeling of AI-generated content since 2024, enhancing transparency for viewers and creators.
+
+- **Likeness Detection Expansion**: Introduced advanced likeness detection tools for civic leaders and journalists to protect their identities in AI-generated content.
+
+- **Digital Wellbeing Initiatives**: Committed $20M to fund global digital wellbeing programs, including a first-of-its-kind hub, to support teens' online safety and mental health.
 
 ## Why It Matters
 
@@ -35,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-20T20:14:16.194709+05:30
+- Published: 2026-08-01T16:30:08.654119+05:30
 
 ## Related Tags
 

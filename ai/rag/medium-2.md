@@ -3,20 +3,17 @@ title: Medium
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://policy.medium.com/medium-privacy-policy-f03bf92035c9
-published_at: '2026-08-01T14:13:34.954855+05:30'
-collected_at: '2026-08-01T14:13:34.954867+05:30'
+source_url: https://about.medium.com/
+published_at: '2026-08-01T16:26:30.941362+05:30'
+collected_at: '2026-08-01T16:26:30.941371+05:30'
 tags:
-- agents
-- hackernews
 - rag
 - web-crawled
-- youtube
 status: active
 resource_id: blog:medium
-first_seen: '2026-08-01T14:13:34.954867+05:30'
-last_seen: '2026-08-01T14:13:34.954867+05:30'
-last_checked: '2026-08-01T14:13:34.954867+05:30'
+first_seen: '2026-08-01T16:26:30.941371+05:30'
+last_seen: '2026-08-01T16:26:30.941371+05:30'
+last_checked: '2026-08-01T16:26:30.941371+05:30'
 health_score: 100
 ---
 
@@ -24,9 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: Medium collects user-provided data (e.g., name, email, content, payment details via third parties) and automatically gathers activity, device, and usage data (IP, OS, cookies, beacons) for service personalization, analytics, and security.
-- **Third-Party Sharing**: Personal data is shared with vendors (e.g., analytics, hosting, fraud prevention), other users (visible profile/content interactions), and under legal obligations; aggregated/de-identified data may also be disclosed.
-- **Cross-Border Transfers**: User data is transferred/stored globally (e.g., AWS data centers), with measures to ensure adequate protection despite varying jurisdiction privacy standards.
+- **Platform Purpose**: Medium is a content publishing platform designed to foster in-depth, thoughtful writing and discussion, prioritizing depth, nuance, and meaningful engagement over sensational or superficial content.
+
+- **User Base & Revenue Model**: Hosts over 100M monthly active users (developers, designers, CEOs, etc.) sharing expertise; operates ad-free, funded by a subscription-based membership model (~1M members).
+
+- **Core Values**: Emphasizes human-centric storytelling, user privacy (no ad/tracking revenue), and community-driven curation to reward substantive, time-invested content over viral, low-effort posts.
 
 ## Why It Matters
 
@@ -36,16 +35,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T14:13:34.954855+05:30
+- Published: 2026-08-01T16:26:30.941362+05:30
 
 ## Related Tags
 
-- agents
-- hackernews
 - rag
 - web-crawled
-- youtube
 
 ## Source
 
-Original source: https://policy.medium.com/medium-privacy-policy-f03bf92035c9
+Original source: https://about.medium.com/

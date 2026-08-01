@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/muhammad-uzair-yasin/CrewAi_starter_template
-collected_at: '2026-08-01T14:09:44.459902+05:30'
+collected_at: '2026-08-01T16:24:06.124536+05:30'
 published_at: '2025-09-09T15:50:32Z'
 tags:
 - agents
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-01-29T19:06:15Z'
 pushed_at: '2025-02-04T07:49:45Z'
 resource_id: github:muhammad-uzair-yasin/crewai_starter_template
-first_seen: '2026-08-01T14:09:44.459902+05:30'
-last_seen: '2026-08-01T14:09:44.459902+05:30'
-last_checked: '2026-08-01T14:09:44.459902+05:30'
+first_seen: '2026-08-01T16:24:06.124536+05:30'
+last_seen: '2026-08-01T16:24:06.124536+05:30'
+last_checked: '2026-08-01T16:24:06.124536+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A minimal starter template for CrewAI, a Python-based framework for multi-agent AI systems, with no additional documentation or examples provided.
-- **Metadata**: 7 stars, 4 forks, last updated on 2025-09-09; no associated topics or extended description.
-- **Technical Stack**: Pure Python implementation, intended as a foundational scaffold for CrewAI agent orchestration.
+- **Repository Overview**: A starter template for CrewAI, a Python-based framework for AI agent orchestration, with 7 stars and 4 forks.
+- **Technical Stack**: Implemented in Python, last updated on September 9, 2025.
+- **Purpose**: Provides a foundational structure for deploying CrewAI applications without additional documentation.
 
 ## Why It Matters
 

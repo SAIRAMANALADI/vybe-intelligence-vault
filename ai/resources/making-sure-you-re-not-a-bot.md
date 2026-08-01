@@ -3,18 +3,17 @@ title: Making sure you're not a bot!
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://lumendatabase.org/
-published_at: '2026-08-01T14:16:28.480821+05:30'
-collected_at: '2026-08-01T14:16:28.480837+05:30'
+source_url: https://www.lumendatabase.org/
+published_at: '2026-08-01T16:28:19.820649+05:30'
+collected_at: '2026-08-01T16:28:19.820656+05:30'
 tags:
-- hackernews
 - scripts
 - web-crawled
 status: active
 resource_id: blog:making-sure-you-re-not-a-bot
-first_seen: '2026-08-01T14:16:28.480837+05:30'
-last_seen: '2026-08-01T14:16:28.480837+05:30'
-last_checked: '2026-08-01T14:16:28.480837+05:30'
+first_seen: '2026-08-01T16:28:19.820656+05:30'
+last_seen: '2026-08-01T16:28:19.820656+05:30'
+last_checked: '2026-08-01T16:28:19.820656+05:30'
 health_score: 100
 ---
 
@@ -22,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Proof-of-Work Mechanism**: Anubis implements a Hashcash-inspired Proof-of-Work (PoW) scheme to mitigate aggressive AI-driven web scraping, imposing computational overhead primarily at scale to deter mass requests while remaining negligible for individual users.
+- **Anubis employs a Proof-of-Work (PoW) mechanism inspired by Hashcash** to mitigate aggressive AI-driven web scraping, imposing computational overhead that scales with scraper volume while remaining negligible for individual users.
 
-- **Headless Browser Detection**: The system is a temporary solution; ongoing development focuses on fingerprinting headless browsers (e.g., via font rendering discrepancies) to bypass PoW challenges for legitimate users.
+- **The system prioritizes headless browser detection** (e.g., via font rendering analysis) to minimize PoW challenges for legitimate users, with Anubis serving as a temporary mitigation until such fingerprinting is fully implemented.
 
-- **Technical Requirements**: Anubis mandates modern JavaScript execution (disabling plugins like JShelter may be necessary), as a no-JS alternative is not yet available due to evolving circumvention tactics by AI scrapers.
+- **Requires modern JavaScript** for PoW validation (plugins like JShelter must be disabled), as non-JS solutions are still under development due to evolving circumvention tactics by AI scrapers.
 
 ## Why It Matters
 
@@ -36,14 +35,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-01T14:16:28.480821+05:30
+- Published: 2026-08-01T16:28:19.820649+05:30
 
 ## Related Tags
 
-- hackernews
 - scripts
 - web-crawled
 
 ## Source
 
-Original source: https://lumendatabase.org/
+Original source: https://www.lumendatabase.org/

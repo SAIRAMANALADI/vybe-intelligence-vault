@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-08-01T14:08:59.424791+05:30'
+collected_at: '2026-08-01T16:23:21.072380+05:30'
 published_at: '2026-08-01T02:25:01Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - rag
 - scripts
 - shell
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-07-31T11:24:38Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-08-01T14:08:59.424791+05:30'
-last_seen: '2026-08-01T14:08:59.424791+05:30'
-last_checked: '2026-08-01T14:08:59.424791+05:30'
+first_seen: '2026-08-01T16:23:21.072380+05:30'
+last_seen: '2026-08-01T16:23:21.072380+05:30'
+last_checked: '2026-08-01T16:23:21.072380+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in `n8n`, leveraging adaptive Retrieval-Augmented Generation (RAG) for memory management and Skills via Model Context Protocol (MCP) templates.
+- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging adaptive Retrieval-Augmented Generation (RAG) for memory, MCP templates for skills, and expert agents with delegated sub-agents for hierarchical task management.
 
-- **Features**: Supports expert agent delegation with sub-agents, proactive task management, and media understanding capabilities; integrates `crawl4ai` for scraping, `SearXNG` for search, and `Supabase` for data storage.
+- **Capabilities**: Supports proactive task execution, media understanding, and self-hosted deployment via a single setup script; integrates with Supabase for data persistence and SearXNG for search functionality.
 
-- **Deployment**: Fully self-hosted via a single setup script, written primarily in Shell, with dependencies on `n8n`, MCP, and related AI/agent frameworks.
+- **Technical Stack**: Shell-based setup, with dependencies on Crawl4AI for web scraping, MCP for skill templates, and n8n for workflow orchestration; designed for extensibility and modular agent interactions.
 
 ## Why It Matters
 

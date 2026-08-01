@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-08-01T14:06:54.340367+05:30'
+collected_at: '2026-08-01T16:21:15.953938+05:30'
 published_at: '2026-08-01T07:51:41Z'
 tags:
 - benchmark
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 402
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-08-01T14:06:54.340367+05:30'
-last_seen: '2026-08-01T14:06:54.340367+05:30'
-last_checked: '2026-08-01T14:06:54.340367+05:30'
+first_seen: '2026-08-01T16:21:15.953938+05:30'
+last_seen: '2026-08-01T16:21:15.953938+05:30'
+last_checked: '2026-08-01T16:21:15.953938+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Development**: Introduces CRUD-RAG, a Chinese-language benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems in Large Language Models (LLMs) with a focus on comprehensive performance assessment.
+- **Benchmark Development**: Introduces CRUD-RAG, a Chinese-language benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems, focusing on comprehensive performance assessment across multiple dimensions (e.g., retrieval accuracy, generation quality, and robustness).
 
-- **Evaluation Framework**: Implements a structured evaluation pipeline covering four key operations: **C**reate, **R**etrieve, **U**pdate, and **D**elete, to test RAG capabilities in dynamic, real-world scenarios.
+- **Evaluation Framework**: Implements a structured evaluation pipeline with standardized metrics for assessing RAG models, including metrics for retrieval precision/recall, answer correctness, and contextual relevance in Chinese language tasks.
 
-- **Dataset & Metrics**: Provides a curated Chinese dataset and standardized metrics to measure retrieval accuracy, generation quality, and end-to-end system efficiency in RAG workflows.
+- **Open-Source Toolkit**: Provides a Python-based repository with datasets, evaluation scripts, and baseline models to facilitate reproducible research and benchmarking of RAG systems in Chinese contexts.
 
 ## Why It Matters
 

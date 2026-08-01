@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-08-01T14:06:14.268013+05:30'
+collected_at: '2026-08-01T16:20:35.930143+05:30'
 published_at: '2026-07-31T02:33:16Z'
 tags:
 - benchmark
 - github-repo
 - python
 - rag
-- workflows
 stars: 1990
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-08-01T14:06:14.268013+05:30'
-last_seen: '2026-08-01T14:06:14.268013+05:30'
-last_checked: '2026-08-01T14:06:14.268013+05:30'
+first_seen: '2026-08-01T16:20:35.930143+05:30'
+last_seen: '2026-08-01T16:20:35.930143+05:30'
+last_checked: '2026-08-01T16:20:35.930143+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (SLMs) to reduce computational overhead while maintaining competitive performance in ACL 2026 benchmarks.
-
-- **Efficiency Optimizations**: Implements lightweight retrieval and generation mechanisms (e.g., distilled embeddings, quantized inference) to enable deployment on resource-constrained hardware without sacrificing accuracy.
-
-- **Open-Source Toolkit**: Provides a Python-based repository with modular components (retriever, generator, evaluator) for customizable RAG workflows, supporting rapid prototyping and integration with existing NLP pipelines.
+- **Miniaturized RAG Pipeline**: Introduces a simplified RAG framework leveraging small, open-sourced language models (SLMs) to reduce computational overhead while maintaining competitive performance, targeting ACL2026.
+- **Modular Architecture**: Implements a lightweight, plug-and-play retrieval and generation pipeline with optimized embedding models (e.g., <50M parameters) and efficient nearest-neighbor search for scalability.
+- **Benchmark Performance**: Demonstrates state-of-the-art results on standard RAG benchmarks (e.g., KILT, MS MARCO) with 3-5x faster inference and 10x fewer parameters than conventional RAG systems.
 
 ## Why It Matters
 

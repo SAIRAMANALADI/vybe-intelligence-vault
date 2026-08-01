@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **S3 Replication Failures**: Amazon S3 object replication may fail due to misconfigured IAM roles, incorrect bucket policies, or missing replication configuration on the source or destination bucket.
+- **S3 Replication Failures**: Verify S3 bucket replication configuration, IAM permissions, and destination bucket ownership to diagnose replication issues between general-purpose buckets in same/different regions.
 
-- **EC2 Connection Issues**: SSH/RDP connection failures to EC2 instances often stem from security group misconfigurations, missing or incorrect key pairs, or disabled SSH/RDP services on the instance.
+- **EC2 Connection Failures**: Troubleshoot SSH/RDP access to EC2 instances by checking security groups, network ACLs, IAM roles, and instance-level firewalls (e.g., `iptables`).
 
-- **WAF Rate-Based Rule Misconfiguration**: AWS WAF rate-based rules may not block traffic if
+- **Lambda Deployment Errors**: Resolve Lambda deployment package size limits (50MB zipped, 250MB unzipp
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/dannyblaker/rag-tutorial
-collected_at: '2026-08-01T14:05:44.267891+05:30'
+collected_at: '2026-08-01T16:20:05.835933+05:30'
 published_at: '2026-07-22T13:21:53Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-01-03T09:47:50Z'
 pushed_at: '2026-01-03T09:50:45Z'
 resource_id: github:dannyblaker/rag-tutorial
-first_seen: '2026-08-01T14:05:44.267891+05:30'
-last_seen: '2026-08-01T14:05:44.267891+05:30'
-last_checked: '2026-08-01T14:05:44.267891+05:30'
+first_seen: '2026-08-01T16:20:05.835933+05:30'
+last_seen: '2026-08-01T16:20:05.835933+05:30'
+last_checked: '2026-08-01T16:20:05.835933+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 - **Progressive RAG Tutorial**: 6-step guide from fundamentals to production deployment, covering embeddings, vector databases, LLMs, and advanced RAG techniques with reusable Python utilities and hands-on demos.
 
-- **Code-Centric Learning**: Includes working code examples and reusable components for practical implementation, enabling direct experimentation and integration into custom RAG systems.
+- **Technical Implementation**: Provides working code examples and modular utilities for building RAG systems, emphasizing practical integration of retrieval and generation components.
 
-- **Metadata**: Python-based repository last updated on 2026-07-22, with 8 stars and 0 forks as of the provided snapshot.
+- **Repository Metadata**: Python-based project with last update on 2026-07-22, minimal community adoption (8 stars, 0 forks), and no specified topics.
 
 ## Why It Matters
 

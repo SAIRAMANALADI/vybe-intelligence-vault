@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://speechify.com/privacy
-published_at: '2026-07-20T20:13:31.366196+05:30'
-collected_at: '2026-07-20T20:13:31.366211+05:30'
+published_at: '2026-08-01T16:27:05.283462+05:30'
+collected_at: '2026-08-01T16:27:05.283470+05:30'
 tags:
 - agents
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:privacy-policy-speechify
-first_seen: '2026-07-20T20:13:31.366211+05:30'
-last_seen: '2026-07-20T20:13:31.366211+05:30'
-last_checked: '2026-07-20T20:13:31.366211+05:30'
+first_seen: '2026-08-01T16:27:05.283470+05:30'
+last_seen: '2026-08-01T16:27:05.283470+05:30'
+last_checked: '2026-08-01T16:27:05.283470+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: Speechify collects Personal Data (e.g., username, email, payment info) and Non-Personal Data (e.g., aggregated usage stats) via user interactions, with explicit consent for social logins and third-party integrations (e.g., PayPal, Google, Facebook).
-
-- **Data Usage & Third-Party Disclosure**: Data is processed for service provision, fraud prevention, and analytics (e.g., Google Analytics, Meta Pixel), with strict limits on sharing—only with vetted service providers, under legal obligation, or in mergers; **no sale/rental of Personal Data**.
-
-- **Automated Tracking & Cookies**: Logs include IP addresses, device identifiers, and cookies for cross-site tracking (e.g., ad delivery), with no opt-out for Do Not Track; third-party plugins (e.g., social media widgets) may independently collect data per their policies.
+- **Data Collection & Usage**: Speechify collects Personal Data (e.g., username, email, payment info) and Non-Personal Data (e.g., log data, device info, usage metrics) for service provision, fraud prevention, and business optimization, with strict limits on third-party sharing (no sales/rentals).
+- **Automated Processing & Third Parties**: Automatically logs IP, browser, and device data; uses third-party analytics (Google, Amplitude) and ad tools (Meta Pixel, TikTok) for tracking and optimization, with data subject to their respective privacy policies.
+- **Content Handling & Disclosure**: User-generated content (UGC) is generally not reviewed unless for support, legal compliance, or proofreading services; Personal Data may be disclosed only under explicit consent, legal obligation, or in mergers/acquisitions.
 
 ## Why It Matters
 
@@ -37,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T20:13:31.366196+05:30
+- Published: 2026-08-01T16:27:05.283462+05:30
 
 ## Related Tags
 

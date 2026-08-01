@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jamwithai/production-agentic-rag-course
-collected_at: '2026-08-01T14:07:09.293190+05:30'
-published_at: '2026-08-01T07:03:16Z'
+collected_at: '2026-08-01T16:21:30.956822+05:30'
+published_at: '2026-08-01T10:34:39Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
-stars: 8194
+stars: 8197
 language: Python
 status: active
 license: MIT
@@ -21,9 +19,9 @@ archived: false
 created_at: '2025-08-06T19:52:50Z'
 pushed_at: '2026-06-05T07:23:49Z'
 resource_id: github:jamwithai/production-agentic-rag-course
-first_seen: '2026-08-01T14:07:09.293190+05:30'
-last_seen: '2026-08-01T14:07:09.293190+05:30'
-last_checked: '2026-08-01T14:07:09.293190+05:30'
+first_seen: '2026-08-01T16:21:30.956822+05:30'
+last_seen: '2026-08-01T16:21:30.956822+05:30'
+last_checked: '2026-08-01T16:21:30.956822+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A Python-based course repository focused on production-level agentic RAG (Retrieval-Augmented Generation) systems, with 8,194 stars and 1,816 forks.
-- **Technical Scope**: Implicitly targets advanced RAG pipelines, likely covering agentic workflows, scalability, and deployment in production environments.
-- **Last Activity**: Most recent update on **2026-08-01**, indicating active maintenance or future development.
+- **Repository Overview**: GitHub repository for a production-focused course on Agentic RAG (Retrieval-Augmented Generation) systems, implemented in Python.
+- **Metrics**: 8,197 stars, 1,816 forks, last updated on August 1, 2026.
+- **Purpose**: Aims to provide practical, production-ready implementations and methodologies for Agentic RAG pipelines.
 
 ## Why It Matters
 
@@ -42,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: jamwithai
-- Stars: 8194
+- Stars: 8197
 - Forks: 1816
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-01T07:03:16Z
+- Last Updated: 2026-08-01T10:34:39Z
 - License: MIT
 - Archived: No
 - Created At: 2025-08-06T19:52:50Z

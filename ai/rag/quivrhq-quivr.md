@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-08-01T14:06:59.327526+05:30'
+collected_at: '2026-08-01T16:21:20.993006+05:30'
 published_at: '2026-08-01T07:37:23Z'
 tags:
 - frontend_ui
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-08-01T14:06:59.327526+05:30'
-last_seen: '2026-08-01T14:06:59.327526+05:30'
-last_checked: '2026-08-01T14:06:59.327526+05:30'
+first_seen: '2026-08-01T16:21:20.993006+05:30'
+last_seen: '2026-08-01T16:21:20.993006+05:30'
+last_checked: '2026-08-01T16:21:20.993006+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting complexities to focus on product development with customizable pipelines.
+- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting complexities to focus on product development.
 
-- **Multi-Backend Compatibility**: Supports any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), enabling flexible deployment across diverse AI models and storage backends.
+- **Multi-LLM & Vectorstore Support**: Compatible with any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), enabling flexible deployment across diverse GenAI ecosystems.
 
-- **Full-Stack Integration**: Provides a Python-based backend with Docker support, alongside a React/TypeScript frontend, enabling end-to-end AI-powered applications with file ingestion, privacy controls, and security features.
+- **Customizable & Extensible**: Supports integration with any file type, Dockerized deployment, and customizable frontend/backend components (React, TypeScript, Python), prioritizing privacy and security.
 
 ## Why It Matters
 

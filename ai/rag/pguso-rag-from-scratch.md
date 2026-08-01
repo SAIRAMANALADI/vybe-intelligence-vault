@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-08-01T14:05:54.240831+05:30'
+collected_at: '2026-08-01T16:20:15.967956+05:30'
 published_at: '2026-07-30T12:30:17Z'
 tags:
 - agents
@@ -13,7 +13,6 @@ tags:
 - meta-ai
 - models
 - rag
-- workflows
 stars: 1485
 language: JavaScript
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-08-01T14:05:54.240831+05:30'
-last_seen: '2026-08-01T14:05:54.240831+05:30'
-last_checked: '2026-08-01T14:05:54.240831+05:30'
+first_seen: '2026-08-01T16:20:15.967956+05:30'
+last_seen: '2026-08-01T16:20:15.967956+05:30'
+last_checked: '2026-08-01T16:20:15.967956+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) from scratch using local LLMs (via `node-llama-cpp`) to avoid black-box abstractions, focusing on embeddings, vector search, retrieval, and context-augmented generation.
+- **End-to-End RAG Pipeline**: Implements a Retrieval-Augmented Generation (RAG) system from scratch using JavaScript, covering embeddings, vector search, retrieval, and context-augmented generation without relying on black-box APIs.
 
-- **JavaScript-Based Pipeline**: Built entirely in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference, with a modular architecture for educational clarity in RAG components.
+- **Local LLM Integration**: Utilizes `node-llama-cpp` to run large language models (LLMs) locally, ensuring no external dependencies and full transparency in the generation process.
 
-- **Open-Source Tutorial**: Provides a hands-on, step-by-step guide for developers to implement RAG pipelines, including agents, chatbots, and retrieval workflows, last updated July 2026.
+- **Educational Focus**: Designed as a hands-on tutorial to demystify RAG mechanics, including agents, AI-agents, and RAG pipeline components for Node.js environments.
 
 ## Why It Matters
 

@@ -4,23 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/earendil-works/pi
-collected_at: '2026-08-01T14:08:54.442376+05:30'
-published_at: '2026-08-01T08:38:47Z'
+collected_at: '2026-08-01T16:23:16.109285+05:30'
+published_at: '2026-08-01T10:51:52Z'
 tags:
 - agents
 - github-repo
 - typescript
-stars: 81666
+stars: 81726
 language: TypeScript
 status: active
 license: MIT
 archived: false
 created_at: '2025-08-09T14:03:50Z'
-pushed_at: '2026-08-01T08:09:58Z'
+pushed_at: '2026-08-01T10:26:34Z'
 resource_id: github:earendil-works/pi
-first_seen: '2026-08-01T14:08:54.442376+05:30'
-last_seen: '2026-08-01T14:08:54.442376+05:30'
-last_checked: '2026-08-01T14:08:54.442376+05:30'
+first_seen: '2026-08-01T16:23:16.109285+05:30'
+last_seen: '2026-08-01T16:23:16.109285+05:30'
+last_checked: '2026-08-01T16:23:16.109285+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified LLM API**: Provides a standardized interface for interacting with multiple large language models (LLMs) via a single API, abstracting provider-specific differences.
-- **Agent Loop & TUI**: Implements a modular agent loop for autonomous task execution and includes a terminal user interface (TUI) for real-time interaction and debugging.
-- **Coding Agent CLI**: Offers a command-line interface (CLI) for deploying and managing AI-powered coding agents, enabling automated code generation, analysis, and execution.
+- **Unified LLM API**: Provides a standardized interface to interact with multiple large language models (LLMs) via a single API, abstracting provider-specific differences.
+
+- **Agent Loop & TUI**: Implements a modular agent loop for autonomous task execution and includes a terminal user interface (TUI) for real-time interaction and monitoring.
+
+- **Coding Agent CLI**: Features a command-line interface (CLI) for deploying and managing AI-powered coding agents, enabling automated code generation, debugging, and optimization.
 
 ## Why It Matters
 
@@ -39,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: earendil-works
-- Stars: 81666
-- Forks: 10086
+- Stars: 81726
+- Forks: 10093
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-08-01T08:38:47Z
+- Last Updated: 2026-08-01T10:51:52Z
 - License: MIT
 - Archived: No
 - Created At: 2025-08-09T14:03:50Z
-- Pushed At: 2026-08-01T08:09:58Z
+- Pushed At: 2026-08-01T10:26:34Z
 
 ## Possible Use Cases
 

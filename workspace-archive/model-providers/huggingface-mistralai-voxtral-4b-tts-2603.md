@@ -1,10 +1,10 @@
 ---
 title: mistralai/Voxtral-4B-TTS-2603 · Hugging Face
 archive_category: model-providers
-source_category: ai/resources
+source_category: ai/rag
 source_url: https://huggingface.co/mistralai/Voxtral-4B-TTS-2603
 resource_id: huggingface:mistralai/voxtral-4b-tts-2603
-local_vault_path: ai/resources/huggingface-mistralai-voxtral-4b-tts-2603.md
+local_vault_path: ai/rag/huggingface-mistralai-voxtral-4b-tts-2603.md
 quality_score: 70
 archive_score: 82
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: high
 tags:
 - mistral
 - models
+- rag
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Voxtral Collection**: Official Mistral AI repository housing proprietary audio models on Hugging Face.
-- **4 Models**: Includes specialized speech and audio processing models (e.g., transcription, synthesis).
-- **Updated Apr 14**: Last repository refresh date; models optimized for Mistral’s AI ecosystem.
+- **Voxtral Collection**: Official Mistral AI repository hosting audio models on Hugging Face, comprising 4 distinct models.
+- **Updated**: Models last revised on **April 14**, indicating recent development activity.
+- **Purpose**: Designed for **audio processing tasks**, leveraging Mistral AI's proprietary architectures.
 
 ## Use Cases
 
@@ -48,4 +49,4 @@ Original source URL: https://huggingface.co/mistralai/Voxtral-4B-TTS-2603
 
 ## Local Vault File
 
-Path: [huggingface-mistralai-voxtral-4b-tts-2603.md](../../ai/resources/huggingface-mistralai-voxtral-4b-tts-2603.md)
+Path: [huggingface-mistralai-voxtral-4b-tts-2603.md](../../ai/rag/huggingface-mistralai-voxtral-4b-tts-2603.md)

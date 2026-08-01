@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-08-01T14:08:39.383666+05:30'
+collected_at: '2026-08-01T16:23:01.037596+05:30'
 published_at: '2026-08-01T01:34:31Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-08-01T14:08:39.383666+05:30'
-last_seen: '2026-08-01T14:08:39.383666+05:30'
-last_checked: '2026-08-01T14:08:39.383666+05:30'
+first_seen: '2026-08-01T16:23:01.037596+05:30'
+last_seen: '2026-08-01T16:23:01.037596+05:30'
+last_checked: '2026-08-01T16:23:01.037596+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Investigates prompt patterns, agent coordination mechanisms, and security classifications for autonomous AI-driven coding systems.
-- **Technical Focus**: Deconstructs system prompts and reconstructs optimized patterns for agentic AI workflows in software development.
-- **Research Scope**: Covers security frameworks, multi-agent collaboration, and prompt engineering techniques for AI-assisted coding environments.
+- **Agentic AI Coding Assistants**: Analyzes prompt patterns and coordination mechanisms in agentic AI systems (e.g., Claude) for autonomous coding tasks, including multi-agent workflows and task decomposition.
+- **Security Classification Framework**: Proposes a structured approach to classify and mitigate risks in agentic AI systems, addressing vulnerabilities in prompt injection, data leakage, and unauthorized tool access.
+- **Prompt Engineering Techniques**: Documents reconstructed prompt patterns for optimizing agentic AI performance, focusing on system prompts, context management, and adaptive reasoning in coding workflows.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: Leonxlnx
 - Stars: 2498
-- Forks: 1068
+- Forks: 1067
 - Language: Unknown
 - Topics: agentic-ai, ai-research, claude, prompt-engineering, system-prompts
 - Last Updated: 2026-08-01T01:34:31Z

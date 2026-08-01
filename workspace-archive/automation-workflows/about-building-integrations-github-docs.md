@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Integration Types**: GitHub integrations extend functionality via GitHub Apps (server/device-hosted), GitHub Actions workflows (event-triggered), or custom actions (workflow-executable code).
+- **Integration Types**: GitHub integrations extend functionality via GitHub Apps (server/device-hosted), GitHub Actions workflows (event-triggered), or custom actions (executable code within workflows).
 
-- **API & Webhook Support**: Integrations interact with GitHub using REST/GraphQL APIs for data operations and webhooks for event-driven automation.
+- **API & Webhook Support**: Integrations interact with GitHub using REST/GraphQL APIs for data operations and webhooks for event-driven notifications (e.g., issue/PR events).
 
-- **Marketplace & AI**: GitHub Apps/custom actions can be published to GitHub Marketplace; AI-powered workflows leverage GitHub Copilot for generative AI
+- **Distribution & AI**: GitHub Apps/custom actions can be published to GitHub Marketplace; AI-powered workflows lever
 
 ## Use Cases
 

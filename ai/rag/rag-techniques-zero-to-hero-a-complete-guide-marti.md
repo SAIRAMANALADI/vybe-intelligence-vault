@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-08-01T14:05:44.647137+05:30'
-collected_at: '2026-08-01T14:05:44.647148+05:30'
+published_at: '2026-08-01T16:20:06.252155+05:30'
+collected_at: '2026-08-01T16:20:06.252169+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-08-01T14:05:44.647148+05:30'
-last_seen: '2026-08-01T14:05:44.647148+05:30'
-last_checked: '2026-08-01T14:05:44.647148+05:30'
+first_seen: '2026-08-01T16:20:06.252169+05:30'
+last_seen: '2026-08-01T16:20:06.252169+05:30'
+last_checked: '2026-08-01T16:20:06.252169+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/query rewriting layers; hybrid search (BM25 + vector) and two-stage retrieval (first-stage ANN + second-stage cross-encoder reranking) optimize precision/recall trade-offs.
+- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional rerankers/caching; hybrid retrieval (BM25 + vector) improves recall/precision while ANN indexes (HNSW/IVF+PQ) enable scalable vector search.
 
-- **Chunking & Embeddings Optimization**: Chunking strategies (fixed-size with overlap, semantic, structure-aware, or LLM-based) directly impact retrieval quality; domain-specific embedding fine-tuning and dimensionality normalization improve semantic search performance, while ANN indexes (HNSW/IVF) enable scalable vector search.
+- **Chunking & Embeddings Optimization**: Structure-aware chunking (preserving paragraphs/sections) with overlap (10–20%) balances coherence and retrieval; domain-specific fine-tuning of embeddings (query-document pairs) outperforms off-the-shelf models, with dimensionality/normalization tuned for latency and accuracy.
 
-- **Context Management & Multi-Hop Reasoning**: Token budgeting, autocut/trim strategies, and explicit source citation prompts reduce hallucinations; multi-hop retrieval (decomposed sub-queries, GraphRAG) and iterative retrieval enable complex reasoning, while context distillation condenses retrieved evidence for efficient downstream generation.
+- **Multi-Stage Retrieval & Context Control**: Two-stage retrieval (first-stage retriever + cross-encoder reranker) enhances precision; query rewriting (LLM-based canonicalization/expansion) and multi-query fusion improve coverage; context distillation (LLM-based condensation) and autocut (token budgeting) mitigate hallucinations and token limits.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T14:05:44.647137+05:30
+- Published: 2026-08-01T16:20:06.252155+05:30
 
 ## Related Tags
 

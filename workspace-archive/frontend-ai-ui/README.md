@@ -8,6 +8,7 @@ Aesthetic, responsive AI chat interfaces and bento grids enhance user engagement
 
 ## Top Matched Resources
 
+- [Stainless · GitHub](https://github.com/stainless-api) (framework - ESSENTIAL Tier)
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
 - [Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770) (benchmark - USEFUL Tier)
 - [reliverse/relivator](https://github.com/reliverse/relivator) (template - USEFUL Tier)
@@ -15,18 +16,17 @@ Aesthetic, responsive AI chat interfaces and bento grids enhance user engagement
 - [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine) (template - USEFUL Tier)
 - [enesien/venefish](https://github.com/enesien/venefish) (template - USEFUL Tier)
 - [linkb15/turborepo-shadcn-ui-tailwind-4](https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4) (template - USEFUL Tier)
-- [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/shadcn-ui/ui (shadcn/ui)
 https://github.com/tailwindlabs/tailwindcss (Tailwind CSS)
+- [Stainless · GitHub](https://github.com/stainless-api)
 - [reliverse/relivator](https://github.com/reliverse/relivator)
 - [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace)
 - [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine)
 - [enesien/venefish](https://github.com/enesien/venefish)
 - [linkb15/turborepo-shadcn-ui-tailwind-4](https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4)
-- [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/tailwindlabs/tailwindcss (Tailwind CSS)
 
 ---
 
-*Last updated: 2026-08-01 14:23 IST*
+*Last updated: 2026-08-01 16:38 IST*

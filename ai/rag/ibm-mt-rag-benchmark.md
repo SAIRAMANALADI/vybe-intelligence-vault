@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IBM/mt-rag-benchmark
-collected_at: '2026-08-01T14:06:54.335990+05:30'
+collected_at: '2026-08-01T16:21:15.989717+05:30'
 published_at: '2026-07-26T05:15:17Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - python
 - rag
+- workflows
 stars: 149
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-12-17T19:26:10Z'
 pushed_at: '2026-07-14T01:32:02Z'
 resource_id: github:ibm/mt-rag-benchmark
-first_seen: '2026-08-01T14:06:54.335990+05:30'
-last_seen: '2026-08-01T14:06:54.335990+05:30'
-last_checked: '2026-08-01T14:06:54.335990+05:30'
+first_seen: '2026-08-01T16:21:15.989717+05:30'
+last_seen: '2026-08-01T16:21:15.989717+05:30'
+last_checked: '2026-08-01T16:21:15.989717+05:30'
 health_score: 100
 ---
 
@@ -31,8 +31,8 @@ health_score: 100
 ## Summary
 
 - **Multi-Turn RAG Evaluation Framework**: Provides a benchmarking suite for assessing multi-turn Retrieval-Augmented Generation (RAG) systems, focusing on iterative query refinement and context retention.
-- **Python-Based Implementation**: Implements core benchmarking logic in Python, with dependencies likely including libraries for NLP (e.g., `transformers`, `langchain`) and evaluation metrics.
-- **Dataset & Metrics**: Includes standardized datasets and evaluation metrics (e.g., answer correctness, context relevance, turn-level consistency) to compare RAG models across multi-turn interactions.
+- **Python-Based Implementation**: Open-source toolkit written in Python, enabling extensibility and integration with existing RAG pipelines or evaluation workflows.
+- **Last Updated (2026-07-26)**: Repository includes recent updates, ensuring compatibility with modern RAG architectures and evaluation methodologies.
 
 ## Why It Matters
 

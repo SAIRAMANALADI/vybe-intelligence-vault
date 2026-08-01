@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-08-01T14:07:19.369143+05:30'
+collected_at: '2026-08-01T16:21:41.011016+05:30'
 published_at: '2026-07-30T02:07:55Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 stars: 123
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-08-01T14:07:19.369143+05:30'
-last_seen: '2026-08-01T14:07:19.369143+05:30'
-last_checked: '2026-08-01T14:07:19.369143+05:30'
+first_seen: '2026-08-01T16:21:41.011016+05:30'
+last_seen: '2026-08-01T16:21:41.011016+05:30'
+last_checked: '2026-08-01T16:21:41.011016+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Implements a graph retrieval-augmented generation (GraphRAG) framework leveraging memory-augmented agents for dynamic knowledge graph construction and retrieval, enabling adaptive reasoning in multi-agent interactions.
+- **Multi-Agent Architecture**: Implements a memory-based multi-agent system for Graph Retrieval-Augmented Generation (GraphRAG), leveraging distributed agents for graph construction and retrieval tasks.
 
-- **Ontology-Driven Graph Construction**: Utilizes ontology construction techniques to structure and enrich knowledge graphs, facilitating precise entity-relation extraction and hierarchical reasoning for improved RAG performance.
+- **Ontology & Graph Integration**: Dynamically constructs and utilizes ontologies to enhance graph-based knowledge representation, enabling structured memory retrieval for improved LLM context augmentation.
 
-- **Python-Based Framework**: Provides a modular Python implementation with tools for graph-based memory management, agent coordination, and retrieval-augmented generation, optimized for scalability and extensibility.
+- **Python Implementation**: Provides a Python-based framework with modular components for agent-memory management, graph construction, and ontology-driven retrieval, optimized for KDD 2026 research integration.
 
 ## Why It Matters
 

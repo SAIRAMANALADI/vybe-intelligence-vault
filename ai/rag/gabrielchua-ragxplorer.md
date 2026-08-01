@@ -4,15 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-08-01T14:06:14.257323+05:30'
+collected_at: '2026-08-01T16:20:35.887506+05:30'
 published_at: '2026-07-29T09:54:30Z'
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
 - models
 - rag
-- workflows
 stars: 1221
 language: Jupyter Notebook
 status: active
@@ -21,9 +19,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-08-01T14:06:14.257323+05:30'
-last_seen: '2026-08-01T14:06:14.257323+05:30'
-last_checked: '2026-08-01T14:06:14.257323+05:30'
+first_seen: '2026-08-01T16:20:35.887506+05:30'
+last_seen: '2026-08-01T16:20:35.887506+05:30'
+last_checked: '2026-08-01T16:20:35.887506+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source **RAG visualization tool** built with **Streamlit** and **Python**, enabling interactive exploration of **Retrieval-Augmented Generation (RAG)** pipelines.
-- **Key Features**: Provides **real-time visualization** of RAG components (retriever, LLM, prompts) via **Jupyter Notebook** integration, facilitating debugging and performance analysis.
-- **Technical Stack**: Leverages **LLM APIs**, **vector databases**, and **interactive UI** to dynamically render RAG workflows, with support for custom model integration.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of LLM interactions with retrieved context.
+
+- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based visualization, facilitating real-time debugging and analysis of RAG components (retriever, generator, and intermediate steps).
+
+- **Python-Based & Modular**: Built in Python with modular design, supporting customization of RAG pipelines, visualization of embedding spaces, and comparative analysis of retrieval strategies.
 
 ## Why It Matters
 

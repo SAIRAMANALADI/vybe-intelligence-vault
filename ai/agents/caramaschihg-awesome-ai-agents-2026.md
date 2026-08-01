@@ -4,11 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/caramaschiHG/awesome-ai-agents-2026
-collected_at: '2026-08-01T14:08:19.394627+05:30'
+collected_at: '2026-08-01T16:22:41.023269+05:30'
 published_at: '2026-08-01T06:39:31Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - openai
 - unknown
 stars: 1518
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-03-07T13:21:09Z'
 pushed_at: '2026-06-10T16:46:10Z'
 resource_id: github:caramaschihg/awesome-ai-agents-2026
-first_seen: '2026-08-01T14:08:19.394627+05:30'
-last_seen: '2026-08-01T14:08:19.394627+05:30'
-last_checked: '2026-08-01T14:08:19.394627+05:30'
+first_seen: '2026-08-01T16:22:41.023269+05:30'
+last_seen: '2026-08-01T16:22:41.023269+05:30'
+last_checked: '2026-08-01T16:22:41.023269+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Aggregates 300+ AI agent frameworks and tools across 20+ categories within an "awesome list" structure.
-*   Focuses on advanced AI paradigms including LLMs, LangChain, and ChatGPT, with a forward-looking 2026 scope.
-*   Maintained with monthly updates, evidenced by a 2026-08-01 timestamp.
+- **Curated Repository**: A meticulously maintained GitHub repository (`caramaschiHG/awesome-ai-agents-2026`) listing **300+ AI agents, frameworks, and tools** across **20+ categories**, updated monthly as of **August 2026**.
+- **Technical Scope**: Encompasses **AI agents, LLM integrations (e.g., ChatGPT, LangChain), machine learning tools**, and cutting-edge frameworks for autonomous systems, with a focus on **2026 advancements**.
+- **Community Metrics**: **1,518 stars** and **509 forks**, reflecting significant adoption and collaborative engagement in the AI agent ecosystem.
 
 ## Why It Matters
 

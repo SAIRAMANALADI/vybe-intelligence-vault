@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources/
-published_at: '2026-08-01T14:05:44.841251+05:30'
-collected_at: '2026-08-01T14:05:44.841265+05:30'
+published_at: '2026-08-01T16:20:06.467647+05:30'
+collected_at: '2026-08-01T16:20:06.467660+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-techniques-beginner-to-advanced-practical-patt
-first_seen: '2026-08-01T14:05:44.841265+05:30'
-last_seen: '2026-08-01T14:05:44.841265+05:30'
-last_checked: '2026-08-01T14:05:44.841265+05:30'
+first_seen: '2026-08-01T16:20:06.467660+05:30'
+last_seen: '2026-08-01T16:20:06.467660+05:30'
+last_checked: '2026-08-01T16:20:06.467660+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Minimal RAG Pipeline**: Uses `sentence-transformers` for embeddings, FAISS for vector search, and `transformers` (Flan-T5) for generation; replaceable with other LLMs or vector DBs (e.g., Chroma, Weaviate).
+- **Core RAG Architecture**: Combines dense (embeddings + vector search) and sparse (BM25/TF-IDF) retrieval with an LLM generator; uses FAISS/Chroma for vector storage and sentence-transformers for embeddings.
 
-- **Core RAG Components**: Retriever (dense/sparse), generator (LLM), embeddings (e.g., `all-MiniLM-L6-v2`), chunking (400–1000 tokens with overlap), and reranking (e.g., `monoT5`); hybrid retrieval combines sparse (BM25) and dense methods.
+- **Intermediate Optimization Techniques**: Implements hybrid retrieval (sparse + dense), reranking (cross-encoders like monoT5), query expansion (HyDE, multi-query), metadata filtering, and chunking with overlap for context preservation.
 
-- **Advanced Techniques**: Multi-hop retrieval, GraphRAG (knowledge graphs), multi-vector retrievers, context compression, agentic RAG (tool integration), and safety grounding; includes optimizations for latency/cost and evaluation frameworks.
+- **Advanced Enhancements**: Incorporates multi-hop retrieval, GraphRAG (knowledge graphs), agentic RAG (tool integration), context compression, and safety/grounding mechanisms for production-grade RAG pipelines.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T14:05:44.841251+05:30
+- Published: 2026-08-01T16:20:06.467647+05:30
 
 ## Related Tags
 

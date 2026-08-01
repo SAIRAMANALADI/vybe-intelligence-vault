@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
-published_at: '2026-08-01T14:05:41.049943+05:30'
-collected_at: '2026-08-01T14:05:41.049955+05:30'
+published_at: '2026-08-01T16:20:02.760048+05:30'
+collected_at: '2026-08-01T16:20:02.760061+05:30'
 tags:
 - agents
 - benchmark
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
-first_seen: '2026-08-01T14:05:41.049955+05:30'
-last_seen: '2026-08-01T14:05:41.049955+05:30'
-last_checked: '2026-08-01T14:05:41.049955+05:30'
+first_seen: '2026-08-01T16:20:02.760061+05:30'
+last_seen: '2026-08-01T16:20:02.760061+05:30'
+last_checked: '2026-08-01T16:20:02.760061+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Firecrawl**: Web data extraction API converting entire websites (e.g., documentation sites) into structured markdown/text via `scrape()` or `crawl()` methods, optimized for LLM consumption; includes LLM-friendly `llms.txt` generation and deep research endpoints for dynamic data retrieval.
+- **Firecrawl** provides a scalable web data extraction API converting dynamic websites into structured markdown/LLM-friendly formats (e.g., `llms.txt`), supporting crawling, agent-based extraction, and deep research endpoints for RAG pipeline data enrichment.
 
-- **LangChain**: Modular framework for RAG pipelines with data connectors, model flexibility, and retrieval components; integrates with LangSmith (debugging) and LangGraph (workflow management); installed via `pip install -U langchain`.
+- **RAGFlow** specializes in deep document understanding, extracting structured data (tables, layouts) from complex PDFs via a visual web interface, with GraphRAG support, agentic reasoning, and dual storage backends (Elasticsearch/Infinity).
 
-- **Milvus**: High-performance, distributed vector database for scalable ANN search, supporting hybrid queries (vector + scalar/full-text) and multi-modal embeddings; deployable via Docker (`milvusdb/milvus:latest`) with Python client libraries for RAG integration.
+- **Milvus** is a cloud-native vector database optimized for billion-scale ANN search, offering hybrid retrieval (vector + scalar filtering), multi-modal support, and enterprise-grade consistency, seamlessly integrable with frameworks like LangChain/LlamaIndex.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T14:05:41.049943+05:30
+- Published: 2026-08-01T16:20:02.760048+05:30
 
 ## Related Tags
 

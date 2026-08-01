@@ -1,19 +1,18 @@
 ---
 title: All-in-one incident management platform | incident.io
 archive_category: frontend-ai-ui
-source_category: ai/rag
+source_category: ai/resources
 source_url: https://incident.io?utm_source=medium&utm_medium=status-pages
 resource_id: blog:all-in-one-incident-management-platform-incident-i
-local_vault_path: ai/rag/all-in-one-incident-management-platform-incident-i.md
+local_vault_path: ai/resources/all-in-one-incident-management-platform-incident-i.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- hackernews
-- rag
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -32,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **AI-powered alert noise reduction**: Automatically filters and prioritizes alerts to minimize unnecessary pages, leveraging machine learning to distinguish critical incidents from routine notifications.
+- **AI-powered alert filtering**: Reduces noise and minimizes unnecessary pages by intelligently prioritizing critical incidents.
 
-- **Human-centric scheduling**: Implements effortless, automated on-call rotation with intelligent escalation policies, ensuring the right team members are engaged based on availability, expertise, and incident severity.
+- **Automated scheduling & escalation**: Optimizes on-call rotations with human-centric design, ensuring efficient incident response.
 
-- **Real-time incident trends & mobile integration**: Provides actionab
+- **Real-time incident trends & analytics**: Provides actionable insights via mobile app and dashboard to improve incident response workflows.
 
 ## Use Cases
 
@@ -50,4 +49,4 @@ Original source URL: https://incident.io?utm_source=medium&utm_medium=status-pag
 
 ## Local Vault File
 
-Path: [all-in-one-incident-management-platform-incident-i.md](../../ai/rag/all-in-one-incident-management-platform-incident-i.md)
+Path: [all-in-one-incident-management-platform-incident-i.md](../../ai/resources/all-in-one-incident-management-platform-incident-i.md)

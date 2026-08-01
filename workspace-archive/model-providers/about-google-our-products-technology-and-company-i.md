@@ -2,13 +2,13 @@
 title: 'About Google: Our products, technology and company information - About Google'
 archive_category: model-providers
 source_category: ai/rag
-source_url: https://about.google
-resource_id: blog:about-google-our-products-technology-and-company-i-caef99ff
+source_url: https://about.google/
+resource_id: blog:about-google-our-products-technology-and-company-i
 local_vault_path: ai/rag/about-google-our-products-technology-and-company-i.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - deepmind
@@ -18,7 +18,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # About Google: Our products, technology and company information - About Google
@@ -27,18 +27,18 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Screen Recording Enhancements**: Android 17 introduces a new native screen-recording feature with improved performance and lower latency, optimized for real-time capture and sharing.
+- **Video Understanding Integration**: ER 2 leverages Gemini’s video understanding capabilities to enable robots to interpret and respond to dynamic visual environments in real-time, enhancing situational awareness and task execution.
 
-- **Gemini Omni Integration**: Text-to-video capabilities via Gemini Omni enable AI-driven video generation directly from device inputs, leveraging on-device ML for faster processing.
+- **Task Orchestration Framework**: Implements a multi-layered orchestration system for decomposing complex tasks into subtasks, optimizing multi-robot collaboration through shared context and adaptive scheduling.
 
-- **Multitasking Improvements**: Enhanced split-screen and floating window APIs allow for more efficient app pairing and resizi
+- **Multi-Robot Coordination**: Utilizes distribu
 
 ## Use Cases
 
@@ -48,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://about.google
+Original source URL: https://about.google/
 
 ## Local Vault File
 

@@ -4,22 +4,21 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/run-llama/
-published_at: '2026-07-21T22:18:33.441426+05:30'
-collected_at: '2026-07-21T22:18:33.441442+05:30'
+published_at: '2026-08-01T16:25:27.264649+05:30'
+collected_at: '2026-08-01T16:25:27.264662+05:30'
 tags:
 - agents
 - meta-ai
 - models
 - rag
-- reddit
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: blog:llamaindex-github
-first_seen: '2026-07-21T22:18:33.441442+05:30'
-last_seen: '2026-07-21T22:18:33.441442+05:30'
-last_checked: '2026-07-21T22:18:33.441442+05:30'
+first_seen: '2026-08-01T16:25:27.264662+05:30'
+last_seen: '2026-08-01T16:25:27.264662+05:30'
+last_checked: '2026-08-01T16:25:27.264662+05:30'
 health_score: 100
 ---
 
@@ -27,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **LlamaParse Cloud Services**: Provides state-of-the-art (SOTA) agentic OCR via `Parse` and structured data extraction via `Extract` for document workflows and AI agents, with platform documentation available for integration.
+- **LlamaParse Cloud Services**: Provides cloud-based OCR and document parsing with three core products—`Parse` (document parsing), `Extract` (structured data extraction), and a `Platform Documentation` suite for integration and usage guidance.
 
-- **Open-Source Tooling**: Includes `LiteParse` for lightweight parsing, `LlamaAgents` for agent orchestration, and the core `LlamaIndex` (Python) framework for building LLM-powered applications, all with official documentation.
+- **Open-Source Tooling**: Offers three open-source components—`LiteParse` (lightweight parsing), `LlamaAgents` (agentic workflows), and `LlamaIndex (Python)` (full document processing framework)—each with dedicated documentation for deployment and customization.
 
-- **Community & Support**: Maintains active engagement via Twitter/X, LinkedIn, and YouTube for updates, tutorials, and community-driven development.
+- **Community & Documentation**: Maintains active engagement via `X (Twitter)`, `LinkedIn`, and `YouTube`, alongside centralized documentation hubs for cloud services and open-source tools.
 
 ## Why It Matters
 
@@ -41,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T22:18:33.441426+05:30
+- Published: 2026-08-01T16:25:27.264649+05:30
 
 ## Related Tags
 
@@ -49,7 +48,6 @@ General public resource representing technology updates, guides, or tutorials.
 - meta-ai
 - models
 - rag
-- reddit
 - web-crawled
 - workflows
 - youtube

@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-platform installation**: Ollama provides platform-specific download links for macOS, Linux, and Windows, with native installers (`.pkg`, `.deb`, `.rpm`, `.exe`) and direct PowerShell command (`irm https://ollama.com/install.ps1 | iex`) for Windows.
-- **Windows compatibility**: Requires Windows 10 or later; offers both a PowerShell script and a standalone `.exe` installer (`OllamaSetup.exe`) for deployment.
-- **Cross-OS execution**: Uses platform-appropriate commands (e.g., `iex` for Po
+- **Installation Methods**: Ollama provides platform-specific installation options via direct downloads for macOS, Linux, and Windows, with a PowerShell command (`irm https://ollama.com/install.ps1 | iex`) for Windows automation.
+- **Windows Requirements**: The Windows version mandates Windows 10 or later for compatibility.
+- **Download Options**: Standalone executable (`OllamaSetup.exe`) and PowerShell script are available for Windows installation.
 
 ## Use Cases
 

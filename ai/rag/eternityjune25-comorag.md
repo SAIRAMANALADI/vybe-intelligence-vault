@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-01T14:07:19.321452+05:30'
+collected_at: '2026-08-01T16:21:40.951155+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
+- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 stars: 343
@@ -18,9 +20,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-01T14:07:19.321452+05:30'
-last_seen: '2026-08-01T14:07:19.321452+05:30'
-last_checked: '2026-08-01T14:07:19.321452+05:30'
+first_seen: '2026-08-01T16:21:40.951155+05:30'
+last_seen: '2026-08-01T16:21:40.951155+05:30'
+last_checked: '2026-08-01T16:21:40.951155+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework (`ComoRAG`) designed for stateful long narrative reasoning, drawing inspiration from human cognitive memory structures.
+- **Cognitive Architecture**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
 
-- **Stateful Reasoning Mechanism**: Implements a structured memory system to maintain context and coherence across extended dialogues or narratives, enabling persistent state tracking and dynamic retrieval.
+- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended dialogue or document sequences.
 
-- **AAAI 2026 Poster Submission**: Presented as a high-impact research contribution at AAAI 2026, emphasizing advancements in long-form reasoning for RAG systems.
+- **AAAI 2026 Contribution**: Proposes novel memory organization techniques to enhance reasoning efficiency in long-form narrative tasks, validated through empirical benchmarks.
 
 ## Why It Matters
 

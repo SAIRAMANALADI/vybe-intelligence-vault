@@ -8,16 +8,15 @@ local_vault_path: ai/rag/information-commissioner-s-office-linkedin.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - frontend_ui
 - rag
-- reddit
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Information Commissioner's Office | LinkedIn
@@ -26,18 +25,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Consent validity under UK GDPR**: Consent must be freely given, specific, informed, unambiguous, and demonstrated via clear affirmative action; pre-ticked boxes, biased framing, and "confirmshaming" invalidate consent.
-
-- **Consent interface design constraints**: Multiple choices must be equally prominent, consent requests must not be repeated or rushed, and users must face no detriment for refusal/withdrawal.
-
-- **Positive friction & disruption balance**: Consent mechanisms should introduce
+- **ICO's strategic focus**: Prioritizes children's privacy and responsible data handling in digital services, aiming to foster trust among parents, children, and organizations.
+- **Draft corporate strategy**: Introduces a new framework to guide innovation while ensuring compliance with children's data protection rights.
+- **Public engagement**: Encourages feedback via a LinkedIn blog post titled *"Creating a safer digital world for children – our corporate strategy"*.
 
 ## Use Cases
 

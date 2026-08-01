@@ -18,77 +18,77 @@ Well-engineered prompts reduce downstream parsing failures, control costs throug
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 458 resources matched in the intelligence vault.
+Active signals: 455 resources matched in the intelligence vault.
 Recently detected signals:
-- [Gemini Developer API | Gemma open models | Google AI for Developers](../ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md) (Source: Unknown Source) - Collected 2026-08-01
-- [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) (Source: Unknown Source) - Collected 2026-08-01
+- [LangSmith Observability - Docs by LangChain](../ai/rag/langsmith-observability-docs-by-langchain.md) (Source: Unknown Source) - Collected 2026-08-01
+- [Speechify-AI/tts-shims](../ai/agents/speechify-ai-tts-shims.md) (Source: Unknown Source) - Collected 2026-08-01
 - [Leonxlnx/agentic-ai-prompt-research](../ai/agents/leonxlnx-agentic-ai-prompt-research.md) (Source: Unknown Source) - Collected 2026-08-01
 - [WenyuChiou/awesome-agentic-ai-zh](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) (Source: Unknown Source) - Collected 2026-08-01
-- [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero.md) (Source: Unknown Source) - Collected 2026-08-01
+- [JCodesMore/ai-website-cloner-template](../ai/agents/jcodesmore-ai-website-cloner-template.md) (Source: Unknown Source) - Collected 2026-08-01
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
 
 <!-- GENERATED:BEST_REPOS_START -->
-### 1. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero.md) ([GitHub](https://github.com/didilili/ai-agents-from-zero))
+### 1. [WenyuChiou/awesome-agentic-ai-zh](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) ([GitHub](https://github.com/wenyuchiou/awesome-agentic-ai-zh))
 - Stars: 0
 - Language: Unknown
-- Description: - **Comprehensive 2026 AI Agent Guide**: Covers a systematic learning path from zero to enterprise-level AI agent development, including frameworks (LangChain, LangGraph, Coze, Dify), tools (MCP, s...
+- Description: - **Curated Learning Path**: Provides a structured, trilingual (Chinese/English/Traditional Chinese) roadmap covering LLM fundamentals to advanced multi-agent systems, with 240+ resources and hands...
 
-### 2. [WenyuChiou/awesome-agentic-ai-zh](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) ([GitHub](https://github.com/wenyuchiou/awesome-agentic-ai-zh))
+### 2. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero.md) ([GitHub](https://github.com/didilili/ai-agents-from-zero))
 - Stars: 0
 - Language: Unknown
-- Description: - **Comprehensive trilingual learning roadmap** covering agentic AI from LLM fundamentals to multi-agent systems, featuring **240+ curated resources** and practical examples in English, Simplified ...
+- Description: - **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, structured as a full learning path from basics to enterprise deployment and ...
 
-### 3. [rosgluk (Rost Glukhov) · GitHub](../ai/agents/rosgluk-rost-glukhov-github.md) ([GitHub](https://github.com/rosgluk))
+### 3. [JCodesMore/ai-website-cloner-template](../ai/agents/jcodesmore-ai-website-cloner-template.md) ([GitHub](https://github.com/jcodesmore/ai-website-cloner-template))
+- Stars: 0
+- Language: Unknown
+- Description: - **Automated Website Cloning**: Uses AI coding agents (e.g., Claude Code) to clone any website with a single command via reverse-engineering and web-scraping.
+
+### 4. [rosgluk (Rost Glukhov) · GitHub](../ai/agents/rosgluk-rost-glukhov-github.md) ([GitHub](https://github.com/rosgluk))
 - Stars: 0
 - Language: Unknown
 - Description: - **Profile Summary**: Technical Team Leader with expertise in C#, Golang, ReactJS, Flutter, Python, C++, SQL, Kubernetes, distributed/embedded systems, AI/ML, and LLMs; based in Melbourne, Australia.
 
-### 4. [Azure-Samples/chat-with-your-data-solution-accelerator](../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md) ([GitHub](https://github.com/azure-samples/chat-with-your-data-solution-accelerator))
+### 5. [jxzhangjhu/Awesome-LLM-RAG](../ai/rag/jxzhangjhu-awesome-llm-rag.md) ([GitHub](https://github.com/jxzhangjhu/awesome-llm-rag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for vector-based retrieval and **Azure OpenAI** for LLM-powered chat/Q&A, deployed on Azure.
+- Description: - **Curated resource**: `Awesome-LLM-RAG` aggregates advanced **retrieval-augmented generation (RAG)** techniques, frameworks, and research papers for **Large Language Models (LLMs)**, focusing on ...
 
-### 5. [Leonxlnx/agentic-ai-prompt-research](../ai/agents/leonxlnx-agentic-ai-prompt-research.md) ([GitHub](https://github.com/leonxlnx/agentic-ai-prompt-research))
+### 6. [Leonxlnx/agentic-ai-prompt-research](../ai/agents/leonxlnx-agentic-ai-prompt-research.md) ([GitHub](https://github.com/leonxlnx/agentic-ai-prompt-research))
 - Stars: 0
 - Language: Unknown
-- Description: - **Agentic AI Coding Assistants**: Investigates prompt patterns, agent coordination mechanisms, and security classifications for autonomous AI-driven coding systems.
+- Description: - **Agentic AI Coding Assistants**: Analyzes prompt patterns and coordination mechanisms in agentic AI systems (e.g., Claude) for autonomous coding tasks, including multi-agent workflows and task d...
 
-### 6. [firecrawl/web-agent](../ai/agents/firecrawl-web-agent.md) ([GitHub](https://github.com/firecrawl/web-agent))
+### 7. [firecrawl/web-agent](../ai/agents/firecrawl-web-agent.md) ([GitHub](https://github.com/firecrawl/web-agent))
 - Stars: 0
 - Language: Unknown
 - Description: - **TypeScript-based web data agent** designed for structured web research, enabling automated extraction and processing of web content.
 
-### 7. [analyticsworld1/RAG_Techniques2025-main](../ai/rag/analyticsworld1-rag-techniques2025-main.md) ([GitHub](https://github.com/analyticsworld1/rag_techniques2025-main))
+### 8. [analyticsworld1/RAG_Techniques2025-main](../ai/rag/analyticsworld1-rag-techniques2025-main.md) ([GitHub](https://github.com/analyticsworld1/rag_techniques2025-main))
 - Stars: 0
 - Language: Unknown
 - Description: - **Repository Overview**: Single-starred, un-forked GitHub repository (`analyticsworld1/RAG_Techniques2025-main`) containing Jupyter Notebooks focused on Gen AI and Retrieval-Augmented Generation ...
 
-### 8. [junwoojeong100/azure-intelligent-app-labs](../ai/rag/junwoojeong100-azure-intelligent-app-labs.md) ([GitHub](https://github.com/junwoojeong100/azure-intelligent-app-labs))
+### 9. [junwoojeong100/azure-intelligent-app-labs](../ai/rag/junwoojeong100-azure-intelligent-app-labs.md) ([GitHub](https://github.com/junwoojeong100/azure-intelligent-app-labs))
 - Stars: 0
 - Language: Unknown
 - Description: Labs for Prompt Engineering, AutoGen, AI Agents, Vibe Coding, GitHub Copilot, AKS, RAG, and Azure AI Search.
 
-### 9. [github/awesome-copilot](../ai/agents/github-awesome-copilot.md) ([GitHub](https://github.com/github/awesome-copilot))
+### 10. [github/awesome-copilot](../ai/agents/github-awesome-copilot.md) ([GitHub](https://github.com/github/awesome-copilot))
 - Stars: 0
 - Language: Unknown
-- Description: - **Curated Resources**: GitHub repository aggregating community-driven guides, agent frameworks, custom skills, and optimized configurations for enhancing GitHub Copilot's functionality.
-
-### 10. [Code-and-Sorts/awesome-copilot-agents](../ai/agents/code-and-sorts-awesome-copilot-agents.md) ([GitHub](https://github.com/code-and-sorts/awesome-copilot-agents))
-- Stars: 0
-- Language: Unknown
-- Description: - **Curated Resource**: A GitHub repository hosting a structured collection of GitHub Copilot instructions, prompts, skills, MCPs (Model Context Protocol), and agent markdown files to optimize AI-d...
+- Description: - **Curated Resources**: Repository aggregating community-driven guides, agent frameworks, custom skills, and configurations to optimize GitHub Copilot usage across workflows.
 
 ### 11. [chaoql/rag-best-practices](../ai/rag/chaoql-rag-best-practices.md) ([GitHub](https://github.com/chaoql/rag-best-practices))
 - Stars: 0
 - Language: Unknown
-- Description: - **Repository Overview**: A Python-based repository (`chaoql/rag-best-practices`) focused on best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), last updated...
+- Description: - **Repository Overview**: GitHub repository `chaoql/rag-best-practices` focuses on best practices for Retrieval-Augmented Generation (RAG) techniques with large language models (LLMs), implemented...
 
-### 12. [run-llama/llama-cloud-ts](../ai/agents/run-llama-llama-cloud-ts.md) ([GitHub](https://github.com/run-llama/llama-cloud-ts))
+### 12. [Speechify-AI/tts-shims](../ai/agents/speechify-ai-tts-shims.md) ([GitHub](https://github.com/speechify-ai/tts-shims))
 - Stars: 0
 - Language: Unknown
-- Description: - **TypeScript SDK for LlamaParse**: Provides cloud-based OCR and document parsing capabilities via the `llamaparse` API, enabling structured extraction from unstructured documents.
+- Description: - **Multi-Provider TTS Shim Layer**: Go-based proxy engine (`tts-shims`) that standardizes API interactions for 14 TTS providers (e.g., OpenAI, ElevenLabs, AWS Polly) by routing requests to the Spe...
 
 ### 13. [jaypanchal18/production-ai-agents-and-llm-platform](../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform.md) ([GitHub](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform))
 - Stars: 0
@@ -130,4 +130,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-08-01T14:21:05.321166+05:30.884057+05:30.539117+05:30.993417+05:30.164563+05:30.255542+05:30.485249+05:30.540217+05:30.856039+05:30.488261+05:30.946179+05:30.991584+05:30.561159+05:30.304297+05:30.554104+05:30.766955+05:30.259603+05:30.535965+05:30.862617+05:30.965895+05:30.537710+05:30.737989+05:30.293638+05:30.316697+05:30.256191+05:30.655013+05:30.522699+05:30.069042+05:30.655951+05:30.127347+05:30.457240+05:30.351426+05:30.989356+05:30.346883+05:30.768330+05:30.972354+05:30.443745+05:30.928648+05:30.570021+05:30.074470+05:30.718812+05:30.784310+05:30.053521+05:30.839194+05:30.785791+05:30.431282+05:30.900403+05:30.321102+05:30.741735+05:30.830398+05:30.420902+05:30.520185+05:30.099407+05:30.241381+05:30.787705+05:30.531596+05:30.441738+05:30.293456+05:30.509769+05:30.054209+05:30.271288+05:30.926998+05:30.294234+05:30.970094+05:30.533943+05:30.771466+05:30.797579+05:30.579488+05:30.244825+05:30.395678+05:30.571425+05:30.587288+05:30.146322+05:30.309609+05:30.196830+05:30.695248+05:30.446523+05:30.671659+05:30.006993+05:30.397725+05:30.895171+05:30.442877+05:30.058410+05:30.599921+05:30.978407+05:30.741321+05:30.852913+05:30.727510+05:30.954461+05:30.856247+05:30.640771+05:30.674145+05:30.286656+05:30.198622+05:30.334265+05:30.606069+05:30.969440+05:30.888730+05:30.300450+05:30.432366+05:30.541189+05:30.363472+05:30.159452+05:30.335293+05:30.168152+05:30.369157+05:30.042780+05:30.172643+05:30.562942+05:30.900875+05:30.896989+05:30.203766+05:30.195583+05:30.685581+05:30.652618+05:30.785597+05:30.261200+05:30.269860+05:30.348616+05:30.707889+05:30.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-08-01T16:35:20.257052+05:30.321166+05:30.884057+05:30.539117+05:30.993417+05:30.164563+05:30.255542+05:30.485249+05:30.540217+05:30.856039+05:30.488261+05:30.946179+05:30.991584+05:30.561159+05:30.304297+05:30.554104+05:30.766955+05:30.259603+05:30.535965+05:30.862617+05:30.965895+05:30.537710+05:30.737989+05:30.293638+05:30.316697+05:30.256191+05:30.655013+05:30.522699+05:30.069042+05:30.655951+05:30.127347+05:30.457240+05:30.351426+05:30.989356+05:30.346883+05:30.768330+05:30.972354+05:30.443745+05:30.928648+05:30.570021+05:30.074470+05:30.718812+05:30.784310+05:30.053521+05:30.839194+05:30.785791+05:30.431282+05:30.900403+05:30.321102+05:30.741735+05:30.830398+05:30.420902+05:30.520185+05:30.099407+05:30.241381+05:30.787705+05:30.531596+05:30.441738+05:30.293456+05:30.509769+05:30.054209+05:30.271288+05:30.926998+05:30.294234+05:30.970094+05:30.533943+05:30.771466+05:30.797579+05:30.579488+05:30.244825+05:30.395678+05:30.571425+05:30.587288+05:30.146322+05:30.309609+05:30.196830+05:30.695248+05:30.446523+05:30.671659+05:30.006993+05:30.397725+05:30.895171+05:30.442877+05:30.058410+05:30.599921+05:30.978407+05:30.741321+05:30.852913+05:30.727510+05:30.954461+05:30.856247+05:30.640771+05:30.674145+05:30.286656+05:30.198622+05:30.334265+05:30.606069+05:30.969440+05:30.888730+05:30.300450+05:30.432366+05:30.541189+05:30.363472+05:30.159452+05:30.335293+05:30.168152+05:30.369157+05:30.042780+05:30.172643+05:30.562942+05:30.900875+05:30.896989+05:30.203766+05:30.195583+05:30.685581+05:30.652618+05:30.785597+05:30.261200+05:30.269860+05:30.348616+05:30.707889+05:30.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.

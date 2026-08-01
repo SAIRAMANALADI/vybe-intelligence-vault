@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-08-01T14:06:54.351584+05:30'
+collected_at: '2026-08-01T16:21:15.942657+05:30'
 published_at: '2026-07-31T02:19:14Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - rag
 - unknown
 stars: 492
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-08-01T14:06:54.351584+05:30'
-last_seen: '2026-08-01T14:06:54.351584+05:30'
-last_checked: '2026-08-01T14:06:54.351584+05:30'
+first_seen: '2026-08-01T16:21:15.942657+05:30'
+last_seen: '2026-08-01T16:21:15.942657+05:30'
+last_checked: '2026-08-01T16:21:15.942657+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark & Dataset**: EnterpriseRAG-Bench provides a curated dataset and evaluation framework for Retrieval-Augmented Generation (RAG) systems tailored to company internal documents, enabling standardized assessment of performance in enterprise contexts.
+- **Purpose**: Dataset and benchmark designed for evaluating Retrieval-Augmented Generation (RAG) systems on company internal documents, enabling assessment of enterprise-specific information retrieval and question-answering capabilities.
 
-- **Synthetic Data Generation**: Implements synthetic data generation techniques to create realistic internal document corpora, facilitating controlled experimentation and reproducibility in RAG evaluations.
+- **Features**: Includes synthetic data generation, semantic search evaluation, and LLM performance testing across enterprise use cases, with support for Python-based RAG pipelines and large language models.
 
-- **Multi-Task Evaluation**: Supports comprehensive evaluation across key RAG dimensions (retrieval accuracy, answer correctness, hallucination detection, and latency) with Python-based tooling for automated benchmarking.
+- **Scope**: Covers enterprise search, knowledge base integration, and generative AI evaluation, last updated in July 2026 with 492 stars and 52 forks.
 
 ## Why It Matters
 

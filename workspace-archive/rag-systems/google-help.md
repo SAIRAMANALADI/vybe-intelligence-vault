@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Google Chrome**: Cross-platform web browser developed by Google, utilizing Blink rendering engine and V8 JavaScript engine for high-performance web applications.
-- **Google Cloud**: Enterprise-grade cloud computing platform offering IaaS, PaaS, and serverless computing with services like Compute Engine, Kubernetes Engine, and BigQuery.
-- **Google Ads**: Pay-per-click advertising platform leveraging machine learning for ad targeting, bid optimization, and performance analytics across Search,
+- **Google Chrome**: Open-source Chromium-based browser with V8 JavaScript engine, Blink rendering engine, and built-in sandboxing for security.
+- **Google Cloud**: Enterprise-grade cloud platform offering Compute Engine (IaaS), BigQuery (serverless data warehouse), and Kubernetes Engine (managed K8s).
+- **Google Ads**: Programmatic advertising platform leveraging real-time bidding (RTB) with ML-driven audience targeting and conversion tracking via gtag.js.
 
 ## Use Cases
 

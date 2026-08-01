@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KruxAI/ragbuilder
-collected_at: '2026-08-01T14:07:09.400981+05:30'
+collected_at: '2026-08-01T16:21:31.045369+05:30'
 published_at: '2026-07-31T10:58:37Z'
 tags:
-- dataset
+- benchmark
 - github-repo
-- hackernews
+- meta-ai
+- models
 - python
 - rag
-- workflows
 stars: 1540
 language: Python
 status: active
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-06-24T07:25:00Z'
 pushed_at: '2025-05-20T03:53:13Z'
 resource_id: github:kruxai/ragbuilder
-first_seen: '2026-08-01T14:07:09.400981+05:30'
-last_seen: '2026-08-01T14:07:09.400981+05:30'
-last_checked: '2026-08-01T14:07:09.400981+05:30'
+first_seen: '2026-08-01T16:21:31.045369+05:30'
+last_seen: '2026-08-01T16:21:31.045369+05:30'
+last_checked: '2026-08-01T16:21:31.045369+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a Python-based toolkit for constructing production-grade Retrieval Augmented Generation (RAG) pipelines optimized for custom datasets.
+- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-ready RAG systems with customizable components (e.g., embedders, retrievers, LLMs) and configurable pipelines for optimal performance.
 
-- **Key Features**: Includes modular components for data ingestion, embedding, retrieval, and generation, with support for customization and scalability in RAG workflows.
+- **Optimization Framework**: Implements automated evaluation and tuning mechanisms to benchmark and refine RAG setups, ensuring high relevance, latency, and cost-efficiency in real-world deployments.
 
-- **Technical Stack**: Built in Python, leveraging GenAI libraries and developer tools for modular, extensible RAG system development.
+- **Open-Source Toolkit**: Supports integration with popular GenAI libraries (e.g., LangChain, LlamaIndex) and includes pre-built templates for rapid prototyping and deployment of RAG applications.
 
 ## Why It Matters
 
