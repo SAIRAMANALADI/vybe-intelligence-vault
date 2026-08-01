@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-141%2C335-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-81%2C610-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--02-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **141,335 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **81,610 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 16,298</p>
-        <p><b>Active:</b> 15,862 | <b>Inactive:</b> 436</p>
+        <p><b>Resources tracked:</b> 15,285</p>
+        <p><b>Active:</b> 14,849 | <b>Inactive:</b> 436</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 60,856</p>
+        <p><b>Archive Files:</b> 2,089</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 141,335 files</p>
-        <p><b>Last Update:</b> 2026-08-02 01:23 IST</p>
+        <p><b>Total Vault Size:</b> 81,610 files</p>
+        <p><b>Last Update:</b> 2026-08-02 02:22 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,25 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Explorative modeling: Train on the best of K guesses](ai/community/explorative-modeling-train-on-the-best-of-k-guesse.md)** • <kbd>+48 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Flint: A Visualization Language for the AI Era](ai/community/show-hn-microsoft-releases-flint-a-visualization-l.md)** • <kbd>+15 pts</kbd>
-- 🔼 **[Syntax highlighting styles](ai/rag/syntax-highlighting-styles.md)** • Rank: <kbd>+85</kbd>
-- 🔼 **[conduct.html](ai/resources/conduct-html.md)** • Rank: <kbd>+10886</kbd>
-- 🔼 **[Get an app for Mastodon - Mastodon](ai/resources/get-an-app-for-mastodon-mastodon.md)** • Rank: <kbd>+5298</kbd>
+- 🔼 **[cpg/CHANGELOG.md at master · mozilla/cpg · GitHub](ai/resources/mozilla-cpg.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[conduct.html](ai/resources/conduct-html.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[discourse/discourse](ai/resources/discourse-discourse.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Get an app for Mastodon - Mastodon](ai/resources/get-an-app-for-mastodon-mastodon.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Discourse Meta](ai/resources/discourse-meta.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Kaisel – Routes as Values. Dart 3 Native Router for Flutter](ai/community/kaisel-routes-as-values-dart-3-native-router-for-f.md)** • Score: `29`
-- 🆕 **[Franken.domains: Stitched-Together Domains, Because Every .com Is Taken](ai/community/franken-domains-stitched-together-domains-because.md)** • Score: `18`
-- 🆕 **[cpg/CHANGELOG.md at master · mozilla/cpg · GitHub](ai/resources/mozilla-cpg.md)** • Score: `0`
-- 🆕 **[discourse/discourse](ai/resources/discourse-discourse.md)** • Score: `0`
-- 🆕 **[Discourse Meta](ai/resources/discourse-meta.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Charlie Stross – On the non-use of AI in my writing process](ai/community/charlie-stross-on-the-non-use-of-ai-in-my-writing.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
