@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/braincrew-lab/langgraph-mcp-agents
-collected_at: '2026-08-02T01:08:34.712072+05:30'
+collected_at: '2026-08-02T03:46:18.630432+05:30'
 published_at: '2026-07-27T07:17:17Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
 - python
-- workflows
 stars: 714
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-03-30T14:25:58Z'
 pushed_at: '2025-04-14T11:00:22Z'
 resource_id: github:braincrew-lab/langgraph-mcp-agents
-first_seen: '2026-08-02T01:08:34.712072+05:30'
-last_seen: '2026-08-02T01:08:34.712072+05:30'
-last_checked: '2026-08-02T01:08:34.712072+05:30'
+first_seen: '2026-08-02T03:46:18.630432+05:30'
+last_seen: '2026-08-02T03:46:18.630432+05:30'
+last_checked: '2026-08-02T03:46:18.630432+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **LangGraph ReAct Agent**: Implements a reasoning-and-acting (ReAct) agent using LangGraph for dynamic workflow orchestration, integrating Model Context Protocol (MCP) for tool-based interactions.
+- **LangGraph + ReAct Agent**: Implements a LangGraph-based ReAct (Reasoning and Acting) agent architecture with Model Context Protocol (MCP) integration for dynamic AI agent orchestration.
 
-- **Streamlit Web Interface**: Provides a dynamic UI for configuring, deploying, and interacting with AI agents, enabling real-time management of MCP-enabled tools and data sources.
+- **Streamlit Web Interface**: Provides a Streamlit-based UI for real-time configuration, deployment, and interaction with AI agents, enabling dynamic tool and data source management via MCP.
 
-- **MCP Integration**: Enables agents to access external APIs and data sources via MCP tools, facilitating modular and extensible agent capabilities in Python.
+- **MCP Tool Integration**: Enables agents to access and interact with external data sources and APIs through MCP-compatible tools, facilitating modular and extensible agent functionality.
 
 ## Why It Matters
 

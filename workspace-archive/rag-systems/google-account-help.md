@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Google Account Management**: Centralized control for security (2FA, Advanced Protection), recovery (password reset, hacked account remediation), and data privacy (activity controls, location settings, deletion policies).
-- **Family & Device Integration**: Supports child accounts (via Family Link), device tracking (Android Find My Device), and cross-platform sign-in (Apple devices, linked apps).
-- **Advanced Security & Compliance**: Features like Enhanced Safe Browsing, Cross-Account Protecti
+- **Google Account Management**: Centralized control for account creation, recovery, security (2FA/Advanced Protection), and linked app permissions via OAuth-based Sign-In with Google.
+- **Family & Child Accounts**: Supports supervised child accounts (via Family Link), age-based access controls, and parental management of content/activity.
+- **Privacy & Security Controls**: Granular data management (Web & App Activity, Timeline, location), Enhanced Safe Browsing, and account deletion policies wi
 
 ## Use Cases
 

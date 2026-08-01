@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/llm-universe
-collected_at: '2026-08-02T01:04:24.437854+05:30'
+collected_at: '2026-08-02T03:42:13.502251+05:30'
 published_at: '2026-08-01T15:49:01Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2023-10-29T16:01:22Z'
 pushed_at: '2026-07-28T13:47:59Z'
 resource_id: github:datawhalechina/llm-universe
-first_seen: '2026-08-02T01:04:24.437854+05:30'
-last_seen: '2026-08-02T01:04:24.437854+05:30'
-last_checked: '2026-08-02T01:04:24.437854+05:30'
+first_seen: '2026-08-02T03:42:13.502251+05:30'
+last_seen: '2026-08-02T03:42:13.502251+05:30'
+last_checked: '2026-08-02T03:42:13.502251+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational Resource**: Provides a beginner-friendly tutorial for developing LLM applications, structured as Jupyter Notebooks with hands-on guidance.
+- **Educational Resource**: A beginner-friendly tutorial for developing LLM applications, structured as Jupyter Notebooks, with online documentation available at [datawhalechina.github.io/llm-universe](https://datawhalechina.github.io/llm-universe/).
 
-- **Technical Focus**: Covers LangChain and RAG (Retrieval-Augmented Generation) frameworks for building LLM-powered applications.
+- **Technical Focus**: Covers LangChain and RAG (Retrieval-Augmented Generation) methodologies for building LLM-powered applications.
 
-- **Maintenance**: Last updated on **2026-08-01**, with 13.6k+ stars and 1.3k+ forks, indicating active community engagement.
+- **Repository Metrics**: 13,686 stars, 1,388 forks, last updated on 2026-08-01, hosted on GitHub.
 
 ## Why It Matters
 

@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/liangdabiao/easy_investment_Agent_crewai
-collected_at: '2026-08-02T01:08:44.706659+05:30'
+collected_at: '2026-08-02T03:46:28.615502+05:30'
 published_at: '2026-08-01T18:59:43Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-09-26T11:16:52Z'
 pushed_at: '2026-05-07T01:07:08Z'
 resource_id: github:liangdabiao/easy_investment_agent_crewai
-first_seen: '2026-08-02T01:08:44.706659+05:30'
-last_seen: '2026-08-02T01:08:44.706659+05:30'
-last_checked: '2026-08-02T01:08:44.706659+05:30'
+first_seen: '2026-08-02T03:46:28.615502+05:30'
+last_seen: '2026-08-02T03:46:28.615502+05:30'
+last_checked: '2026-08-02T03:46:28.615502+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent A股 Analysis System**: Leverages AKShare for real-time A-share data (quotes, financials, fund flows, sentiment) with 4 specialized AI agents (e.g., data fetcher, analyzer, sentiment evaluator, decision generator) collaborating via CrewAI framework.
-
-- **China-Specific Optimization**: Tailored for A-share market nuances (e.g., regulatory constraints, market microstructure) with localized financial metrics and sentiment analysis from Chinese sources.
-
-- **Automated Investment Pipeline**: Integrates AKShare APIs for structured data ingestion, employs CrewAI’s orchestration for multi-agent workflows, and outputs actionable insights (e.g., buy/hold/sell signals) with risk assessment.
+- **Multi-Agent System**: Implements 4 specialized AI agents (e.g., data fetcher, analyzer, sentiment evaluator, decision maker) collaborating via CrewAI to automate A-share investment analysis.
+- **Data Integration**: Leverages AKShare for real-time A-share metrics (pricing, financials, fund flows, sentiment) and AKTools for preprocessing.
+- **Optimized Workflow**: Outputs structured investment recommendations by synthesizing technical, fundamental, and sentiment analysis tailored to China’s stock market dynamics.
 
 ## Why It Matters
 

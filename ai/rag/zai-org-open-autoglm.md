@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zai-org/Open-AutoGLM
-collected_at: '2026-08-02T01:07:44.611701+05:30'
+collected_at: '2026-08-02T03:45:28.590519+05:30'
 published_at: '2026-08-01T18:50:59Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- scripts
 stars: 25933
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-12-08T09:23:44Z'
 pushed_at: '2026-03-06T08:38:39Z'
 resource_id: github:zai-org/open-autoglm
-first_seen: '2026-08-02T01:07:44.611701+05:30'
-last_seen: '2026-08-02T01:07:44.611701+05:30'
-last_checked: '2026-08-02T01:07:44.611701+05:30'
+first_seen: '2026-08-02T03:45:28.590519+05:30'
+last_seen: '2026-08-02T03:45:28.590519+05:30'
+last_checked: '2026-08-02T03:45:28.590519+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Open-AutoGLM Framework**: A Python-based open-source framework designed to deploy AI agents capable of autonomous phone interactions, enabling tasks such as call handling, SMS processing, and app navigation without manual intervention.
-
-- **Modular Architecture**: Implements a plug-and-play system for integrating custom AI models, tools, and plugins, supporting extensibility for diverse phone automation use cases (e.g., customer service, personal assistant).
-
-- **Performance & Scalability**: Optimized for low-latency inference and multi-threaded execution, leveraging GLM (General Language Model) variants to balance accuracy and computational efficiency in real-time phone agent operations.
+- **Open-AutoGLM Framework**: A Python-based open-source framework designed to enable AI-driven phone agent capabilities, facilitating autonomous interactions via mobile interfaces.
+- **Agent Model Integration**: Implements a specialized phone-use agent model (`AutoGLM`) to automate tasks such as calls, SMS, and app navigation, leveraging large language models (LLMs) for decision-making.
+- **Scalability & Extensibility**: Supports modular extensions for custom agent behaviors, with active community contributions (25.9k+ stars, 4k+ forks) and recent updates (Aug 2026) ensuring continuous improvements.
 
 ## Why It Matters
 
@@ -44,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: zai-org
 - Stars: 25933
-- Forks: 4022
+- Forks: 4021
 - Language: Python
 - Topics: agent, phone-use-agent
 - Last Updated: 2026-08-01T18:50:59Z

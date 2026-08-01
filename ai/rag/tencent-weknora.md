@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Tencent/WeKnora
-collected_at: '2026-08-02T01:05:09.494438+05:30'
+collected_at: '2026-08-02T03:42:53.467020+05:30'
 published_at: '2026-08-01T13:46:48Z'
 tags:
 - agents
@@ -16,6 +16,7 @@ tags:
 - models
 - openai
 - rag
+- workflows
 stars: 19233
 language: Go
 status: active
@@ -24,9 +25,9 @@ archived: false
 created_at: '2025-07-22T08:01:23Z'
 pushed_at: '2026-08-01T11:56:10Z'
 resource_id: github:tencent/weknora
-first_seen: '2026-08-02T01:05:09.494438+05:30'
-last_seen: '2026-08-02T01:05:09.494438+05:30'
-last_checked: '2026-08-02T01:05:09.494438+05:30'
+first_seen: '2026-08-02T03:42:53.467020+05:30'
+last_seen: '2026-08-02T03:42:53.467020+05:30'
+last_checked: '2026-08-02T03:42:53.467020+05:30'
 health_score: 100
 ---
 
@@ -34,11 +35,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Functional LLM Platform**: Converts raw documents into a queryable RAG system, autonomous reasoning agent, and self-maintaining Wiki, supporting multimodal and multi-tenant architectures.
+- **Multi-functional LLM Platform**: Transforms raw documents into a queryable RAG system, autonomous reasoning agent, and self-maintaining Wiki, supporting multimodal and multi-tenant architectures.
 
-- **Technical Stack**: Implements embeddings, semantic search, vector search, reranking, and integrates with Ollama and OpenAI for LLM interactions, all written in Go.
+- **Technical Stack**: Implements vector search, embeddings, reranking, and semantic search with Go, integrating OpenAI, Ollama, and generative AI models for question-answering and chatbot functionalities.
 
-- **Features**: Supports question-answering, chatbot functionalities, and evaluation metrics, with last update on 2026-08-01.
+- **Advanced Features**: Supports agentic workflows, evaluation frameworks, and knowledge-base management with last update on 2026-08-01.
 
 ## Why It Matters
 

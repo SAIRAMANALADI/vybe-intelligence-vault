@@ -4,17 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://code.visualstudio.com/docs/copilot/agents/background-agents
-published_at: '2026-08-02T01:12:31.046706+05:30'
-collected_at: '2026-08-02T01:12:31.046721+05:30'
+published_at: '2026-08-02T03:48:15.880175+05:30'
+collected_at: '2026-08-02T03:48:15.880189+05:30'
 tags:
 - agents
 - openai
 - web-crawled
 status: active
 resource_id: blog:copilot-cli-sessions-in-visual-studio-code
-first_seen: '2026-08-02T01:12:31.046721+05:30'
-last_seen: '2026-08-02T01:12:31.046721+05:30'
-last_checked: '2026-08-02T01:12:31.046721+05:30'
+first_seen: '2026-08-02T03:48:15.880189+05:30'
+last_seen: '2026-08-02T03:48:15.880189+05:30'
+last_checked: '2026-08-02T03:48:15.880189+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Copilot CLI Sessions**: Background agent sessions in VS Code run autonomously via Copilot CLI, managed through the Chat view; supports parallel execution, slash commands (`/research`, `/yolo`), and two isolation modes (Worktree/Folder) for code changes.
+- **Copilot CLI Sessions**: Background agent sessions in VS Code run autonomously via Copilot CLI, managed through the Chat view; supports multi-repository workspaces, custom agents, and deep research tasks with isolation modes (Worktree/Folder) and permission controls (Bypass Approvals, Autopilot, Assisted permissions).
 
-- **Isolation & Permissions**: Worktree isolation (Git worktree) auto-approves tools (Bypass Approvals), while Folder isolation allows configurable permissions (Default/Approvals/Autopilot/Assisted); Git repository required for Worktree.
+- **Agent Integration**: VS Code uses the Copilot SDK to interface with Copilot CLI sessions, enabling start/stop/monitoring; sessions persist outside VS Code (unlike local agents) and support slash commands (`/research`, `/yolo`, `/compact`) for task management and context engineering.
 
-- **Session Lifecycle**: Sessions persist outside VS Code (unlike local agents), support multi-repo workspaces, and enable handoffs between local/CLI/cloud agents; managed via Copilot SDK with terminal/IDE integration.
+- **Isolation & Permissions**: Worktree isolation creates a Git worktree for agent changes, auto-approving tool calls; Folder isolation applies changes directly to the workspace with configurable permissions (Default/Bypass/Autopilot/Assisted), requiring Git repository setup for worktree mode.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-02T01:12:31.046706+05:30
+- Published: 2026-08-02T03:48:15.880175+05:30
 
 ## Related Tags
 

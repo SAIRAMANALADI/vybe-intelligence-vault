@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/markup/#syntaxhighlight
-published_at: '2026-08-01T21:51:23.388879+05:30'
-collected_at: '2026-08-01T21:51:23.388897+05:30'
+published_at: '2026-08-02T03:48:41.892781+05:30'
+collected_at: '2026-08-02T03:48:41.892796+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-markup
-first_seen: '2026-08-01T21:51:23.388897+05:30'
-last_seen: '2026-08-01T21:51:23.388897+05:30'
-last_checked: '2026-08-01T21:51:23.388897+05:30'
+first_seen: '2026-08-02T03:48:41.892796+05:30'
+last_seen: '2026-08-02T03:48:41.892796+05:30'
+last_checked: '2026-08-02T03:48:41.892796+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- Hugo defaults to **Goldmark** for Markdown rendering, with support for alternative renderers (`asciidocext`, `org`, `pandoc`, `rst`) configurable via `defaultMarkdownHandler`.
+- **Markup Handler Configuration**: Hugo defaults to Goldmark for Markdown rendering (`defaultMarkdownHandler: goldmark`), but supports alternative renderers (`asciidocext`, `org`, `pandoc`, `rst`) via configuration; requires external tooling for non-Goldmark handlers.
 
-- Goldmark’s default configuration includes extensions like **footnote**, **linkify**, **strikethrough**, **table**, **taskList**, and **typographer**, with optional extras (e.g., subscript, superscript) and passthrough for LaTeX math.
+- **Goldmark Extensions**: Default extensions include `footnote`, `linkify`, `strikethrough`, `table`, `taskList`, and `typographer`; extras (`delete`, `insert`, `mark`, `subscript`, `superscript`) and `passthrough` require explicit enablement.
 
-- Key Goldmark settings include `duplicateResourceFiles` (bool), `parser.wrapStandAloneImageWithinParagraph` (bool), `autoHeadingID` (bool), and `autoIDType` (string), controlling resource duplication, image wrapping, and heading ID generation.
+- **Goldmark Parser/Runtime Settings**: Key settings include `duplicateResourceFiles` (controls multilingual resource duplication), `wrapStandAloneImageWithinParagraph` (affects standalone image rendering), `autoHeadingID` (auto-generates heading IDs), and `unsafe` (disables raw HTML rendering by default).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T21:51:23.388879+05:30
+- Published: 2026-08-02T03:48:41.892781+05:30
 
 ## Related Tags
 

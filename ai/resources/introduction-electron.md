@@ -4,16 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://electronjs.org/docs/latest
-published_at: '2026-08-02T01:10:20.169081+05:30'
-collected_at: '2026-08-02T01:10:20.169095+05:30'
+published_at: '2026-08-02T03:50:18.422085+05:30'
+collected_at: '2026-08-02T03:50:18.422100+05:30'
 tags:
 - producthunt
 - web-crawled
+- workflows
 status: active
 resource_id: blog:introduction-electron
-first_seen: '2026-08-02T01:10:20.169095+05:30'
-last_seen: '2026-08-02T01:10:20.169095+05:30'
-last_checked: '2026-08-02T01:10:20.169095+05:30'
+first_seen: '2026-08-02T03:50:18.422100+05:30'
+last_seen: '2026-08-02T03:50:18.422100+05:30'
+last_checked: '2026-08-02T03:50:18.422100+05:30'
 health_score: 100
 ---
 
@@ -21,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Electron** is a cross-platform desktop app framework that bundles **Chromium** and **Node.js** into a single binary, enabling JavaScript/HTML/CSS-based development for Windows, macOS, and Linux without native code requirements.
+- **Cross-platform desktop apps**: Electron embeds Chromium and Node.js into a single binary, enabling JavaScript/HTML/CSS-based desktop apps that run on Windows, macOS, and Linux without native development.
 
-- **Electron Fiddle** is an official sandbox tool for prototyping and testing Electron APIs, integrating directly with documentation via "Open in Fiddle" buttons to load examples without manual setup.
+- **Core components**: Electron apps consist of a main process (`main.js`) managing app lifecycle and windows, a preload script (`preload.js`) bridging Node.js APIs to the renderer, and an HTML/CSS/JS frontend (`index.html`).
 
-- **Official Electron docs** are organized into structured categories (Tutorial, Processes, Best Practices, Distribution, etc.), with community support available via Discord and GitHub issue tracking for debugging.
+- **Development tools**: Electron Fiddle provides an interactive sandbox for prototyping and testing APIs, while official docs include tutorials, best practices, debugging guides, and distribution workflows.
 
 ## Why It Matters
 
@@ -35,12 +36,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-02T01:10:20.169081+05:30
+- Published: 2026-08-02T03:50:18.422085+05:30
 
 ## Related Tags
 
 - producthunt
 - web-crawled
+- workflows
 
 ## Source
 

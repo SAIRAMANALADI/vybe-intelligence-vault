@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-08-02T01:09:30.961962+05:30'
-collected_at: '2026-08-02T01:09:30.961976+05:30'
+published_at: '2026-08-02T03:47:32.238450+05:30'
+collected_at: '2026-08-02T03:47:32.238465+05:30'
 tags:
 - agents
 - creative_dev
@@ -15,14 +15,15 @@ tags:
 - models
 - paper
 - rag
+- reddit
 - scripts
 - web-crawled
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-08-02T01:09:30.961976+05:30'
-last_seen: '2026-08-02T01:09:30.961976+05:30'
-last_checked: '2026-08-02T01:09:30.961976+05:30'
+first_seen: '2026-08-02T03:47:32.238465+05:30'
+last_seen: '2026-08-02T03:47:32.238465+05:30'
+last_checked: '2026-08-02T03:47:32.238465+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting via Gradio SDK, Dockerfiles, or static HTML/JS, with optional GPU acceleration for performance-critical applications.
+- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting on user/organization profiles with support for Gradio, Docker, and static HTML/JavaScript apps, including GPU/accelerated hardware upgrades.
 
-- **Integration & Customization**: Supports dependency management, GitHub Actions for CI/CD, and embeddable demos; also allows custom Python Spaces and organization card integration.
+- **SDK & Customization**: Built-in Gradio SDK for rapid Python app development, with advanced options for Dockerfile-based deployments, dependency management, and GitHub Actions integration.
 
-- **Storage & Scalability**: Provides disk usage monitoring, ZeroGPU for cost-efficient inference, and configurable storage limits for scalable ML deployments.
+- **Storage & Performance**: Disk usage/storage management, GPU acceleration (`Spaces GPU Upgrades`), and ZeroGPU options for cost-efficient inference, alongside embedding and API endpoint capabilities.
 
 ## Why It Matters
 
@@ -44,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T01:09:30.961962+05:30
+- Published: 2026-08-02T03:47:32.238450+05:30
 
 ## Related Tags
 
@@ -56,6 +57,7 @@ General public resource representing technology updates, guides, or tutorials.
 - models
 - paper
 - rag
+- reddit
 - scripts
 - web-crawled
 - workflows

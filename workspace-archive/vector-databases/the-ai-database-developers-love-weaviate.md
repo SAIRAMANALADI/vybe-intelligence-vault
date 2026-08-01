@@ -8,10 +8,9 @@ local_vault_path: ai/rag/the-ai-database-developers-love-weaviate.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: dataset
+resource_kind: tutorial
 importance: medium
 tags:
-- dataset
 - rag
 - web-crawled
 selection_reason:
@@ -25,18 +24,18 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: dataset
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Scalability & Uptime Assurance**: Weaviate's vector database provides a scalable and highly available foundation, eliminating concerns about performance degradation or downtime during system scaling.
+- **Scalability & Uptime Assurance**: Weaviate's vector database is designed to handle scaling needs without compromising uptime, providing a reliable foundation for core services.
 
-- **Operational Efficiency**: Achieved 200+ hours of saved database maintenance time, enhancing productivity and reducing operational overhead.
+- **Operational Efficiency**: Achieved 200+ hours saved on database maintenance, reducing operational overhead and allowing focus on core business functions.
 
-- **Large-Scale Deployment**: Successfully manages 9 billion vectors in production, demonstrating robust handling of massive datasets.
+- **High-Volume Production Readiness**: Successfully manages 9B vectors in production, demonstrating robust performance at scale.
 
 ## Use Cases
 

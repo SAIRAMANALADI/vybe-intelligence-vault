@@ -1,6 +1,6 @@
 ---
 title: community · Discussions · GitHub
-archive_category: frontend-ai-ui
+archive_category: ai-tools-products
 source_category: ai/rag
 source_url: https://github.com/orgs/community/discussions
 resource_id: github:orgs/community
@@ -11,7 +11,7 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- agents
+- anthropic
 - frontend_ui
 - rag
 - scripts
@@ -26,7 +26,7 @@ selection_reason:
 
 ## Why This Is In The Archive
 
-- Matched archive category: `Frontend AI UI`
+- Matched archive category: `AI Tools and Products`
 - Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: tutorial
 - Selection reasons:
@@ -35,15 +35,15 @@ selection_reason:
 
 ## Summary
 
-- GitHub Community serves as a central hub for GitHub-related discussions, repositories, and announcements, including dedicated categories for AI & Copilot, Education, and Code Security.
-- Pinned discussions highlight key updates such as GitHub Code Quality general availability, Copilot usage metrics dashboards, and surveys targeting small teams.
-- Active threads include unresolved issues like Student Developer Pack access problems, historical contribution tracking after email changes, and Copil
+- GitHub Community serves as a central hub for GitHub-related discussions, repositories, and announcements, including AI-powered tools like Copilot and Code Quality metrics.
+- The platform organizes discussions into structured categories (e.g., AI & Copilot, Automation, Enterprise) with filtering options for open/closed threads and labels.
+- Recent pinned discussions highlight Copilot’s usage-based billing transition, new metrics dashboards, and ongoing platform incidents affecting AI tool perfo
 
 ## Use Cases
 
-- AI chat bubbled views
-- Tailwind bento dashboards
-- Aesthetic layout templates
+- Workflow automation search
+- AI developer tooling
+- Developer utility updates
 
 ## Source
 

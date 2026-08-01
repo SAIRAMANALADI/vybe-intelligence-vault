@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-08-02T01:05:49.526336+05:30'
+collected_at: '2026-08-02T03:43:33.521105+05:30'
 published_at: '2026-08-01T07:51:41Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-08-02T01:05:49.526336+05:30'
-last_seen: '2026-08-02T01:05:49.526336+05:30'
-last_checked: '2026-08-02T01:05:49.526336+05:30'
+first_seen: '2026-08-02T03:43:33.521105+05:30'
+last_seen: '2026-08-02T03:43:33.521105+05:30'
+last_checked: '2026-08-02T03:43:33.521105+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Development**: Introduces CRUD-RAG, a Chinese-language benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems for Large Language Models (LLMs), focusing on comprehensive performance assessment across multiple dimensions.
+- **Benchmark Framework**: CRUD-RAG provides a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems with Large Language Models (LLMs), focusing on retrieval quality and generation performance in Chinese contexts.
 
-- **Evaluation Framework**: Implements a structured evaluation pipeline with four key operations—**C**reate, **R**etrieve, **U**pdate, and **D**elete—to systematically test RAG capabilities in dynamic, real-world scenarios.
+- **CRUD Operations Integration**: Implements Create, Read, Update, and Delete (CRUD) operations to simulate dynamic knowledge base interactions, enabling assessment of RAG systems under realistic, evolving data scenarios.
 
-- **Open-Source Toolkit**: Provides a Python-based, modular toolkit for benchmarking, including datasets, evaluation metrics, and reference implementations to facilitate reproducibility and further research in Chinese RAG systems.
+- **Evaluation Metrics**: Includes standardized metrics for assessing retrieval precision, latency, and generation coherence, with open-source tools and datasets tailored for Chinese language processing.
 
 ## Why It Matters
 

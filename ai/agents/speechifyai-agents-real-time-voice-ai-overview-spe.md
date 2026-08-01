@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.speechify.ai/voice-agents/guides/welcome
-published_at: '2026-08-02T01:14:33.708726+05:30'
-collected_at: '2026-08-02T01:14:33.708741+05:30'
+published_at: '2026-08-02T03:50:17.100630+05:30'
+collected_at: '2026-08-02T03:50:17.100637+05:30'
 tags:
 - agents
 - benchmark
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:speechifyai-agents-real-time-voice-ai-overview-spe
-first_seen: '2026-08-02T01:14:33.708741+05:30'
-last_seen: '2026-08-02T01:14:33.708741+05:30'
-last_checked: '2026-08-02T01:14:33.708741+05:30'
+first_seen: '2026-08-02T03:50:17.100637+05:30'
+last_seen: '2026-08-02T03:50:17.100637+05:30'
+last_checked: '2026-08-02T03:50:17.100637+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Agent Architecture**: Agents are reusable definitions combining prompt, voice, tools, and evaluation criteria, enabling real-time voice interactions via `POST /v1/agents/{id}/conversations` with low-latency speech-to-speech pipelines and transcript persistence.
+- **Agent Architecture**: Speechify Agents provide a real-time voice interaction system via the Speechify API, enabling AI-driven conversations with configurable prompts, voices, tools, and evaluation criteria; supports both web and phone-based interactions.
 
-- **Tool Integration**: Supports dynamic tool invocation (backend calls, device execution, MCP servers) and built-ins (`end_call`, `transfer_to_number`), with tool traces logged in transcripts and post-call LLM evaluations.
+- **Core Features**: Includes a curated catalog of natural voices (`GET /v1/agents/voices`), low-latency real-time audio processing, tool integration (backend calls, device execution, MCP servers, built-ins like `end_call`), persistent transcripts with timestamps, and post-call LLM-graded evaluations.
 
-- **Deployment Flexibility**: Enables inbound/outbound support, IVR replacement, and no-code agent creation via Speechify console, with structured data extraction and webhook notifications for lifecycle events.
+- **Deployment & Use Cases**: Agents are provisioned via `POST /v1/agents/{id}/conversations`, returning a session token/URL for real-time audio/transcript/tool flow; ideal for inbound support, outbound follow-ups, and IVR replacement, with no-code console workflows available.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-02T01:14:33.708726+05:30
+- Published: 2026-08-02T03:50:17.100630+05:30
 
 ## Related Tags
 

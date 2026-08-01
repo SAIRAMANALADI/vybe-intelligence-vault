@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.resemble.ai/resources/top-open-source-github-repositories-for-creating-your-own-rag
-published_at: '2026-08-02T01:09:06.037712+05:30'
-collected_at: '2026-08-02T01:09:06.037728+05:30'
+published_at: '2026-08-02T03:46:48.871752+05:30'
+collected_at: '2026-08-02T03:46:48.871767+05:30'
 tags:
 - agents
 - benchmark
@@ -20,9 +20,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:top-open-source-github-repositories-for-creating-y
-first_seen: '2026-08-02T01:09:06.037728+05:30'
-last_seen: '2026-08-02T01:09:06.037728+05:30'
-last_checked: '2026-08-02T01:09:06.037728+05:30'
+first_seen: '2026-08-02T03:46:48.871767+05:30'
+last_seen: '2026-08-02T03:46:48.871767+05:30'
+last_checked: '2026-08-02T03:46:48.871767+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Open-source RAG frameworks**: Resemble AI provides multiple open-source GitHub repositories (e.g., [LlamaIndex](https://github.com/run-llama/llama_index), [Verba](https://github.com/weaviate/Verba)) for building Retrieval-Augmented Generation (RAG) systems, supporting modular architectures, document ingestion (Unstructured, GitHub), and HuggingFace model integration.
+- **Resemble AI** provides a suite of **multimodal deepfake detection and protection tools**, including **Resemble Detect** for real-time deepfake detection in calls, **Resemble Watermarker** for media authentication, and **Resemble Identity** for biometric verification.
 
-- **Deepfake detection tools**: Resemble AI offers multimodal deepfake detection solutions (e.g., [Resemble Detect](https://www.resemble.ai/products/detect), [Deepfake Detector for Chrome](https://chromewebstore.google.com/detail/resemble-ai-deepfake-dete/ligejojghpehckjpfldljdcckgcbngle)) leveraging real-time analysis of audio, video, and images for AI-generated media verification.
+- **Open-source RAG frameworks** highlighted include **Cognita** (Truefoundry) for modular RAG deployment, **Verba** (Weaviate) for user-friendly RAG applications, and **LlamaIndex** for structured data integration and retrieval pipelines.
 
-- **Enterprise-grade security APIs**: Resemble AI’s [Resemble Identity](https://www.resemble.ai/products/identity) and [Resemble Watermarker](https://www.resemble.ai/products/watermarker) provide SDKs for identity verification, media watermarking, and fraud prevention, with cloud-based deployment and compliance-ready frameworks.
+- **GitHub repositories** like **Retrieval-augmented-generation Topic**, **System Design Primer**, and **Realworld** offer foundational resources for building scalable RAG systems, emphasizing modularity, documentation, and community-driven development.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T01:09:06.037712+05:30
+- Published: 2026-08-02T03:46:48.871752+05:30
 
 ## Related Tags
 

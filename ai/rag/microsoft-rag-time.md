@@ -4,15 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-08-02T01:04:39.503373+05:30'
+collected_at: '2026-08-02T03:42:23.508127+05:30'
 published_at: '2026-07-31T15:52:46Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
 - models
 - openai
 - rag
+- reddit
 stars: 897
 language: Jupyter Notebook
 status: active
@@ -21,9 +23,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-08-02T01:04:39.503373+05:30'
-last_seen: '2026-08-02T01:04:39.503373+05:30'
-last_checked: '2026-08-02T01:04:39.503373+05:30'
+first_seen: '2026-08-02T03:42:23.508127+05:30'
+last_seen: '2026-08-02T03:42:23.508127+05:30'
+last_checked: '2026-08-02T03:42:23.508127+05:30'
 health_score: 100
 ---
 
@@ -31,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Learning Framework**: A structured 5-week program in Jupyter Notebooks for mastering Retrieval-Augmented Generation (RAG), covering topics like hybrid search, vector search, and quantization techniques (binary/scalar).
-- **Technical Stack**: Integrates Azure, OpenAI APIs, HNSW (Hierarchical Navigable Small World) for indexing, and Matryoshka Representation Learning for efficient multimodal embeddings.
-- **Responsible AI Focus**: Emphasizes responsible AI practices, including keyword search, GPT fine-tuning, and deployment via Visual Studio Code.
+- **Comprehensive RAG Mastery Program**: A structured 5-week learning journey covering core RAG concepts, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization, HNSW indexing, and Matryoshka representation learning for efficient retrieval and generation.
+
+- **Multi-Tool & Framework Integration**: Demonstrates RAG implementation using Azure AI Search, OpenAI LLMs, and VS Code, with notebooks showcasing multimodal retrieval, responsible AI practices, and optimization for low-latency/high-accuracy deployments.
+
+- **Performance & Scalability Focus**: Includes benchmarks and optimizations for vector/keyword search pipelines, leveraging scalar/binary quantization and HNSW for scalable, production-grade RAG systems.
 
 ## Why It Matters
 

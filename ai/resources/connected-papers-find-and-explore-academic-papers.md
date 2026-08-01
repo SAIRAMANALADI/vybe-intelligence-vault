@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.connectedpapers.com/about
-published_at: '2026-08-01T09:26:28.825930+05:30'
-collected_at: '2026-08-01T09:26:28.825943+05:30'
+published_at: '2026-08-02T03:47:32.296283+05:30'
+collected_at: '2026-08-02T03:47:32.296296+05:30'
 tags:
 - paper
 - web-crawled
 status: active
 resource_id: blog:connected-papers-find-and-explore-academic-papers
-first_seen: '2026-08-01T09:26:28.825943+05:30'
-last_seen: '2026-08-01T09:26:28.825943+05:30'
-last_checked: '2026-08-01T09:26:28.825943+05:30'
+first_seen: '2026-08-02T03:47:32.296296+05:30'
+last_seen: '2026-08-02T03:47:32.296296+05:30'
+last_checked: '2026-08-02T03:47:32.296296+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **JavaScript Dependency**: Connected Papers requires JavaScript to function properly, as indicated by the error message.
-- **Core Functionality Impact**: Without JavaScript enabled, the tool cannot perform its intended operations, such as generating paper connections or visualizations.
-- **User Action Required**: Users must enable JavaScript in their browser settings to utilize Connected Papers effectively.
+- **JavaScript Dependency**: Connected Papers requires JavaScript to function properly.
+- **Core Functionality Impact**: Disabling JavaScript prevents the tool from operating as intended.
+- **User Action Required**: Users must enable JavaScript in their browser to use Connected Papers.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-01T09:26:28.825930+05:30
+- Published: 2026-08-02T03:47:32.296283+05:30
 
 ## Related Tags
 

@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/alvinreal/awesome-opensource-ai
-collected_at: '2026-08-02T01:05:39.461472+05:30'
-published_at: '2026-08-01T19:35:17Z'
+collected_at: '2026-08-02T03:43:23.499892+05:30'
+published_at: '2026-08-01T19:58:22Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
 - rag
-stars: 4402
+stars: 4403
 language: Python
 status: active
 license: CC0-1.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-03-24T15:58:22Z'
 pushed_at: '2026-07-29T12:18:53Z'
 resource_id: github:alvinreal/awesome-opensource-ai
-first_seen: '2026-08-02T01:05:39.461472+05:30'
-last_seen: '2026-08-02T01:05:39.461472+05:30'
-last_checked: '2026-08-02T01:05:39.461472+05:30'
+first_seen: '2026-08-02T03:43:23.499892+05:30'
+last_seen: '2026-08-02T03:43:23.499892+05:30'
+last_checked: '2026-08-02T03:43:23.499892+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Aggregates top-tier open-source AI projects, models, tools, and infrastructure, with daily updates to ensure relevance.
-- **Technical Scope**: Encompasses agents, generative AI, LLMs, MLOps, RAG, and other AI/ML domains, primarily implemented in Python.
-- **Community Metrics**: 4.4K+ stars, 557+ forks, last updated August 2026, reflecting active maintenance and broad adoption.
+- **Curated Repository**: Hosts a meticulously maintained, daily-updated list of premier open-source AI projects, models, tools, and infrastructure, spanning agents, LLMs, generative AI, MLOps, and RAG systems.
+
+- **Technical Scope**: Primarily Python-based, covering core AI domains (e.g., machine learning, artificial intelligence) with a focus on transparency, accessibility, and community-driven development.
+
+- **Metrics**: 4,403 stars, 557 forks, last updated on **2026-08-01T19:58:22Z**, emphasizing active maintenance and relevance in the open-source AI ecosystem.
 
 ## Why It Matters
 
@@ -41,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: alvinreal
-- Stars: 4402
+- Stars: 4403
 - Forks: 557
 - Language: Python
 - Topics: agents, ai, artificial-intelligence, awesome, awesome-list, generative-ai, llm, machine-learning, mlops, open-source, open-source-ai, rag
-- Last Updated: 2026-08-01T19:35:17Z
+- Last Updated: 2026-08-01T19:58:22Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2026-03-24T15:58:22Z

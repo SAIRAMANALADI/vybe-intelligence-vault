@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Shubhamsaboo/awesome-llm-apps
-collected_at: '2026-08-02T01:05:04.521493+05:30'
-published_at: '2026-08-01T19:18:33Z'
+collected_at: '2026-08-02T03:42:48.450052+05:30'
+published_at: '2026-08-01T22:08:01Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
 - rag
-stars: 129562
+stars: 129579
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-04-29T05:30:25Z'
 pushed_at: '2026-07-31T01:19:04Z'
 resource_id: github:shubhamsaboo/awesome-llm-apps
-first_seen: '2026-08-02T01:05:04.521493+05:30'
-last_seen: '2026-08-02T01:05:04.521493+05:30'
-last_checked: '2026-08-02T01:05:04.521493+05:30'
+first_seen: '2026-08-02T03:42:48.450052+05:30'
+last_seen: '2026-08-02T03:42:48.450052+05:30'
+last_checked: '2026-08-02T03:42:48.450052+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Repository hosts **100+ open-source AI agents, agent skills, and RAG applications** implemented in Python, covering diverse LLM-driven use cases.
-- **Technical Scope**: Focuses on **agents, LLMs, RAG (Retrieval-Augmented Generation), and Python-based implementations**, with modular designs for extensibility.
-- **Community Metrics**: Highly active with **129K+ stars** and **19K+ forks**, last updated **August 2026**, indicating sustained maintenance and growth.
+- **Curated Collection**: Repository hosting 100+ open-source AI agents, agent skills, and RAG applications, primarily implemented in Python.
+- **Technical Scope**: Focuses on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and agent-based architectures for AI-driven applications.
+- **Community & Maintenance**: Actively maintained with 129,579 stars and 19,112 forks, last updated in August 2026.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Shubhamsaboo
-- Stars: 129562
-- Forks: 19110
+- Stars: 129579
+- Forks: 19112
 - Language: Python
 - Topics: agents, llms, python, rag
-- Last Updated: 2026-08-01T19:18:33Z
+- Last Updated: 2026-08-01T22:08:01Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-04-29T05:30:25Z

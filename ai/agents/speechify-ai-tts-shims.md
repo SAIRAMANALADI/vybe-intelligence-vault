@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Speechify-AI/tts-shims
-collected_at: '2026-08-01T21:54:14.534146+05:30'
+collected_at: '2026-08-02T03:52:12.681022+05:30'
 published_at: '2026-07-13T18:28:02Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-07-03T11:20:06Z'
 pushed_at: '2026-07-13T18:27:45Z'
 resource_id: github:speechify-ai/tts-shims
-first_seen: '2026-08-01T21:54:14.534146+05:30'
-last_seen: '2026-08-01T21:54:14.534146+05:30'
-last_checked: '2026-08-01T21:54:14.534146+05:30'
+first_seen: '2026-08-02T03:52:12.681022+05:30'
+last_seen: '2026-08-02T03:52:12.681022+05:30'
+last_checked: '2026-08-02T03:52:12.681022+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Provider-Agnostic TTS Shim Layer**: Go-based proxy engine (`tts-shims`) that standardizes API calls from 13 TTS providers (e.g., OpenAI, ElevenLabs, Cartesia) to the Speechify API, ensuring unified input/output handling via a single binary per provider.
+- **Multi-Provider TTS Shim Layer**: Go-based proxy system (`tts-shims`) translating provider-specific TTS APIs (OpenAI, ElevenLabs, Cartesia, AWS Polly, etc.) into a unified interface for Speechify’s API, enabling BYOC (Bring Your Own Codec) voice-agent integration.
 
-- **BYOC (Bring Your Own Codec) Optimization**: Designed for voice-agent architectures requiring custom TTS integration, minimizing provider-specific logic while maintaining compatibility with Speechify’s backend.
+- **Modular Binary Architecture**: Single Go engine with per-provider binaries, ensuring minimal overhead while maintaining compatibility with 13+ TTS providers via standardized shim implementations.
 
-- **Minimalist Implementation**: Single-repo structure with Go-based core, no external dependencies beyond provider SDKs, and last updated July 2026 for cutting-edge TTS interoperability.
+- **Voice-Agent Optimization**: Designed for real-time TTS routing in voice-agent frameworks, prioritizing low-latency proxying and provider-agnostic voice synthesis for scalable deployments.
 
 ## Why It Matters
 

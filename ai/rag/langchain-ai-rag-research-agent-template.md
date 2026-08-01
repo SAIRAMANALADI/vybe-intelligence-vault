@@ -4,15 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-08-02T01:04:54.532418+05:30'
-published_at: '2026-07-20T04:47:41Z'
+collected_at: '2026-08-02T03:42:38.551574+05:30'
+published_at: '2026-08-01T21:17:59Z'
 tags:
 - agents
+- anthropic
 - github-repo
+- openai
 - python
 - rag
 - workflows
-stars: 314
+stars: 313
 language: Python
 status: active
 license: MIT
@@ -20,9 +22,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-08-02T01:04:54.532418+05:30'
-last_seen: '2026-08-02T01:04:54.532418+05:30'
-last_checked: '2026-08-02T01:04:54.532418+05:30'
+first_seen: '2026-08-02T03:42:38.551574+05:30'
+last_seen: '2026-08-02T03:42:38.551574+05:30'
+last_checked: '2026-08-02T03:42:38.551574+05:30'
 health_score: 100
 ---
 
@@ -30,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a structured starter repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, optimized for research workflows.
-- **Key Components**: Includes pre-configured pipelines for document ingestion, retrieval, and agent-based query execution with modular Python components.
-- **Tech Stack**: Leverages Python with LangChain’s ecosystem for LLM integration, vector stores (e.g., FAISS), and agent orchestration tools.
+- **Purpose**: Provides a template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating structured workflows for document retrieval and synthesis.
+- **Components**: Includes modular Python-based pipelines for indexing, retrieval, and agent-based query processing, leveraging LangChain’s abstractions (e.g., `RetrievalQA`, `ConversationalRetrievalChain`).
+- **Dependencies**: Requires Python; integrates with vector stores (e.g., FAISS, Chroma) and LLM providers (e.g., OpenAI, Anthropic) via LangChain’s framework.
 
 ## Why It Matters
 
@@ -41,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 314
+- Stars: 313
 - Forks: 73
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-20T04:47:41Z
+- Last Updated: 2026-08-01T21:17:59Z
 - License: MIT
 - Archived: Yes
 - Created At: 2024-10-14T20:06:54Z

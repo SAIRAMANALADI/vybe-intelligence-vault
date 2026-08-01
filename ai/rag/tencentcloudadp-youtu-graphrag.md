@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-08-02T01:06:14.520475+05:30'
+collected_at: '2026-08-02T03:43:58.520625+05:30'
 published_at: '2026-07-31T19:00:24Z'
 tags:
 - agents
-- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 stars: 1228
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-08-02T01:06:14.520475+05:30'
-last_seen: '2026-08-02T01:06:14.520475+05:30'
-last_checked: '2026-08-02T01:06:14.520475+05:30'
+first_seen: '2026-08-02T03:43:58.520625+05:30'
+last_seen: '2026-08-02T03:43:58.520625+05:30'
+last_checked: '2026-08-02T03:43:58.520625+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent architecture where specialized agents (e.g., retrieval, reasoning, planning) operate hierarchically within a graph-based RAG framework to decompose and solve complex reasoning tasks.
+- **Vertically Unified Agents Framework**: Introduces a multi-agent architecture where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced contextual understanding.
 
-- **Graph-Centric RAG**: Leverages graph neural networks (GNNs) to model relationships in unstructured data, enabling dynamic retrieval and structured reasoning over heterogeneous knowledge graphs for improved contextual accuracy.
+- **Graph Retrieval-Augmented Generation (GraphRAG)**: Integrates graph-based knowledge representation with RAG, enabling dynamic subgraph retrieval to augment LLM reasoning with structured, domain-specific context for improved accuracy in complex queries.
 
-- **ICLR 2026 Contribution**: Proposes a novel vertical integration of agents with graph-based retrieval, demonstrating state-of-the-art performance in complex reasoning benchmarks through iterative refinement and cross-agent collaboration.
+- **Optimized for ICLR 2026**: Implements advanced techniques like adaptive agent routing, multi-modal graph fusion, and efficient subgraph sampling to address scalability and performance challenges in large-scale graph reasoning tasks.
 
 ## Why It Matters
 

@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/coding-agent-template
-collected_at: '2026-08-02T01:06:44.573030+05:30'
+collected_at: '2026-08-02T03:44:28.569155+05:30'
 published_at: '2026-07-30T15:28:52Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-- workflows
 stars: 1754
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-09-23T14:00:46Z'
 pushed_at: '2026-07-30T00:17:35Z'
 resource_id: github:vercel-labs/coding-agent-template
-first_seen: '2026-08-02T01:06:44.573030+05:30'
-last_seen: '2026-08-02T01:06:44.573030+05:30'
-last_checked: '2026-08-02T01:06:44.573030+05:30'
+first_seen: '2026-08-02T03:44:28.569155+05:30'
+last_seen: '2026-08-02T03:44:28.569155+05:30'
+last_checked: '2026-08-02T03:44:28.569155+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Multi-agent AI coding platform leveraging Vercel Sandbox for isolated execution and AI Gateway for API orchestration, enabling scalable distributed workflows.
-
-- **Tech Stack**: Built with TypeScript, integrating Vercel’s serverless infrastructure for dynamic agent deployment and inter-agent communication.
-
-- **Key Features**: Supports concurrent agent collaboration, sandboxed code execution, and AI-driven task delegation, optimized for rapid prototyping and debugging.
+- **Architecture**: Multi-agent AI system leveraging Vercel Sandbox for isolated execution and Vercel AI Gateway for unified API access to LLMs.
+- **Tech Stack**: TypeScript-based implementation with Vercel’s edge runtime for low-latency agent orchestration.
+- **Key Features**: Dynamic agent collaboration, sandboxed code execution, and AI Gateway integration for scalable LLM interactions.
 
 ## Why It Matters
 

@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/workflow-builder-template
-collected_at: '2026-08-01T21:46:26.621842+05:30'
+collected_at: '2026-08-02T03:44:28.586056+05:30'
 published_at: '2026-07-31T17:40:21Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
 - scripts
 - typescript
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-11-03T17:14:16Z'
 pushed_at: '2026-01-13T08:27:13Z'
 resource_id: github:vercel-labs/workflow-builder-template
-first_seen: '2026-08-01T21:46:26.621842+05:30'
-last_seen: '2026-08-01T21:46:26.621842+05:30'
-last_checked: '2026-08-01T21:46:26.621842+05:30'
+first_seen: '2026-08-02T03:44:28.586056+05:30'
+last_seen: '2026-08-02T03:44:28.586056+05:30'
+last_checked: '2026-08-02T03:44:28.586056+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: Visual AI workflow automation platform enabling drag-and-drop creation of multi-agent AI workflows with TypeScript-based architecture.
-
-- **Key Features**: Supports modular agent composition, real-time workflow execution, and integrates with Vercel’s ecosystem for scalable deployment.
-
-- **Technical Stack**: Built with TypeScript, leveraging modern AI/agent frameworks; last updated July 31, 2026, with 1,177 stars and 233 forks.
+- **Platform**: Visual AI workflow automation platform built with TypeScript, enabling drag-and-drop creation of AI-driven workflows.
+- **Key Features**: Supports agent-based automation, integrates AI models for task orchestration, and provides a template-driven architecture for rapid deployment.
+- **Repository Stats**: 1,177 stars, 233 forks, last updated July 31, 2026.
 
 ## Why It Matters
 

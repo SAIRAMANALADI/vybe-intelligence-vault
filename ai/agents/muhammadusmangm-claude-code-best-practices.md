@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-08-02T01:07:09.594219+05:30'
+collected_at: '2026-08-02T03:44:53.552466+05:30'
 published_at: '2026-07-30T13:05:04Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - hackernews
+- scripts
 - shell
 - workflows
 stars: 67
@@ -21,9 +22,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-08-02T01:07:09.594219+05:30'
-last_seen: '2026-08-02T01:07:09.594219+05:30'
-last_checked: '2026-08-02T01:07:09.594219+05:30'
+first_seen: '2026-08-02T03:44:53.552466+05:30'
+last_seen: '2026-08-02T03:44:53.552466+05:30'
+last_checked: '2026-08-02T03:44:53.552466+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A curated wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-- **Technical Scope**: Focuses on agentic AI workflows, CLI tooling, LLM integration, and MCP (Model Context Protocol) patterns for efficient AI-driven development.
-- **Resource Structure**: Provides Shell-based scripts and templates to standardize Claude Code usage, with last update timestamp of **2026-07-30T13:05:04Z**.
+- **Repository Overview**: A curated GitHub repository (`MuhammadUsmanGM/claude-code-best-practices`) providing structured best practices for **Claude Code**, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
+
+- **Technical Scope**: Focuses on **agentic AI workflows**, **CLI tools**, **LLM integration**, and **MCP (Model Context Protocol)** patterns, with Shell scripts for automation and template generation.
+
+- **Metadata**: 67 stars, 14 forks, last updated **2026-07-30**, covering topics like `agentic-ai`, `anthropic`, `claude`, and `developer-tools`.
 
 ## Why It Matters
 

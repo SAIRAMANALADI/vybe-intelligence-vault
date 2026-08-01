@@ -34,8 +34,8 @@ selection_reason:
 ## Summary
 
 - **Abstraction**: Simplifies complex systems by modeling classes/objects with essential attributes/methods, hiding unnecessary details.
-- **Encapsulation**: Bundles data (attributes) and methods (functions) within a class, restricting direct access to some components (e.g., via `private` modifiers).
-- **Polymorphism**: Enables objects of different classes to be treated as instances of a common superclass, facilitating method overriding (runtime) and overloading (compile-time).
+- **Encapsulation**: Bundles data and methods within a class, restricting direct access to some components (e.g., via private/protected modifiers).
+- **Polymorphism**: Enables objects of different classes to be treated as instances of a common superclass, facilitating method overriding and interface implementation.
 
 ## Use Cases
 

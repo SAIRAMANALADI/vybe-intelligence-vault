@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-08-02T01:05:09.476353+05:30'
+collected_at: '2026-08-02T03:42:53.435118+05:30'
 published_at: '2026-07-29T09:54:30Z'
 tags:
+- dataset
 - github-repo
-- hackernews
 - jupyter notebook
 - models
 - rag
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-08-02T01:05:09.476353+05:30'
-last_seen: '2026-08-02T01:05:09.476353+05:30'
-last_checked: '2026-08-02T01:05:09.476353+05:30'
+first_seen: '2026-08-02T03:42:53.435118+05:30'
+last_seen: '2026-08-02T03:42:53.435118+05:30'
+last_checked: '2026-08-02T03:42:53.435118+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source tool for interactive visualization and debugging of Retrieval-Augmented Generation (RAG) pipelines, enabling users to analyze retrieval quality, context relevance, and model performance.
-- **Technical Stack**: Built with Python, Streamlit (for web UI), and Jupyter Notebooks; leverages LLM integration for dynamic analysis of RAG outputs.
-- **Features**: Real-time visualization of retrieval steps, context relevance scoring, and interactive exploration of RAG-generated responses.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processes.
+
+- **Streamlit-Powered UI**: Integrates Streamlit for a user-friendly interface, allowing real-time visualization of RAG components (e.g., retrieval steps, prompt engineering, and model outputs) with dynamic updates.
+
+- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting custom RAG pipelines, dataset integration, and performance metrics visualization. Last updated July 2026.
 
 ## Why It Matters
 

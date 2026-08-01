@@ -4,7 +4,7 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datacamp/rdocumentation-2.0
-collected_at: '2026-08-01T19:34:36.856205+05:30'
+collected_at: '2026-08-02T03:51:15.501679+05:30'
 published_at: '2026-07-01T13:45:34Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2020-11-25T19:30:05Z'
 pushed_at: '2026-01-26T09:35:10Z'
 resource_id: github:datacamp/rdocumentation-2.0
-first_seen: '2026-08-01T19:34:36.856205+05:30'
-last_seen: '2026-08-01T19:34:36.856205+05:30'
-last_checked: '2026-08-01T19:34:36.856205+05:30'
+first_seen: '2026-08-02T03:51:15.501679+05:30'
+last_seen: '2026-08-02T03:51:15.501679+05:30'
+last_checked: '2026-08-02T03:51:15.501679+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive R Package Documentation**: Aggregates and provides searchable documentation for every version of every R package on CRAN and Bioconductor, enabling version-specific queries.
-
-- **TypeScript-Based Architecture**: Implements a modern TypeScript frontend for efficient documentation retrieval and user interaction, ensuring scalability and maintainability.
-
-- **Updated & Maintained**: Last updated in July 2026, ensuring compatibility with the latest R package versions and documentation standards.
+- **Purpose**: Provides a searchable interface for documentation of every version of R packages from CRAN and Bioconductor.
+- **Tech Stack**: Built in TypeScript for frontend and backend functionality.
+- **Last Updated**: Repository last updated on July 1, 2026, with 299 stars and 52 forks.
 
 ## Why It Matters
 

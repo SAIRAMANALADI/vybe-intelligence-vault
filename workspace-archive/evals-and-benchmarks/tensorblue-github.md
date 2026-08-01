@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- GitHub user `tensorblue` has **51 stars** but **0 public repositories, projects, or packages** as of the snapshot.
-- User account is **inactive** with **2 followers** and **0 following**, indicating minimal engagement.
-- GitHub API/interface errors suggest **potential account deactivation, suspension, or data retrieval issues**.
+- **GitHub Profile**: `tensorblue` is a GitHub user account with 51 stars but no public repositories, projects, or packages as of the snapshot.
+- **User Activity**: The account has 2 followers and 0 following, with no visible public activity or contributions.
+- **Error State**: The profile page displays a loading error, indicating potential API or data retrieval issues.
 
 ## Use Cases
 

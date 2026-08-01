@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-08-02T01:06:14.530307+05:30'
+collected_at: '2026-08-02T03:43:58.544798+05:30'
 published_at: '2026-07-26T03:07:53Z'
 tags:
 - benchmark
-- dataset
 - github-repo
+- hackernews
 - python
 - rag
 stars: 256
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-08-02T01:06:14.530307+05:30'
-last_seen: '2026-08-02T01:06:14.530307+05:30'
-last_checked: '2026-08-02T01:06:14.530307+05:30'
+first_seen: '2026-08-02T03:43:58.544798+05:30'
+last_seen: '2026-08-02T03:43:58.544798+05:30'
+last_checked: '2026-08-02T03:43:58.544798+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework (LeanRAG) with two-stage retrieval: coarse-grained semantic aggregation followed by fine-grained hierarchical retrieval to improve context relevance.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., entity → subgraph → global) and semantic aggregation to enhance contextual relevance in generation tasks.
 
-- **Efficiency Optimizations**: Uses lightweight graph traversal and semantic pruning to reduce computational overhead while maintaining retrieval accuracy, as validated in AAAI 2026 benchmarks.
+- **Efficiency Optimizations**: Utilizes lightweight graph traversal and pruning techniques to reduce computational overhead while maintaining retrieval accuracy, as evidenced by AAAI 2026 benchmarks.
 
-- **Python Implementation**: Provides an open-source Python library with modular components for knowledge graph integration, retrieval augmentation, and generation, supporting extensibility for custom datasets.
+- **Python Implementation**: Provides an open-source Python library with modular components for graph construction, retrieval, and generation, supporting extensibility for custom knowledge graphs.
 
 ## Why It Matters
 

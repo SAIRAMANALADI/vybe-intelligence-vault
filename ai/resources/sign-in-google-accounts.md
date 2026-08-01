@@ -3,16 +3,16 @@ title: Sign in - Google Accounts
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://takeout.google.com/
-published_at: '2026-08-01T21:53:30.506329+05:30'
-collected_at: '2026-08-01T21:53:30.506342+05:30'
+source_url: https://www.blogger.com/go/takeout
+published_at: '2026-08-02T03:50:14.077883+05:30'
+collected_at: '2026-08-02T03:50:14.077896+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:sign-in-google-accounts
-first_seen: '2026-08-01T21:53:30.506342+05:30'
-last_seen: '2026-08-01T21:53:30.506342+05:30'
-last_checked: '2026-08-01T21:53:30.506342+05:30'
+first_seen: '2026-08-02T03:50:14.077896+05:30'
+last_seen: '2026-08-02T03:50:14.077896+05:30'
+last_checked: '2026-08-02T03:50:14.077896+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Authentication Flow**: Google's login page initiates OAuth 2.0-based authentication via `ServiceLogin` for Google Takeout, requiring user credentials (email/phone) for access.
+- **Authentication Flow**: Utilizes Google's OAuth-based WebLiteSignIn for secure user authentication via email/phone recovery, with follow-up redirect to `takeout.google.com` post-login.
 
-- **Recovery & Security**: Provides `usernamerecovery` endpoint for forgotten emails and enforces private browsing (`Guest mode`) to mitigate session hijacking risks.
+- **Session Management**: Supports private browsing (Guest mode) via `osid` and `ifkv` tokens for temporary session isolation, enhancing security for non-primary devices.
 
-- **Account Management**: Includes `SignUp` flow for new account creation, with `GlifWebSignIn` handling registration redirects back to Google Takeout post-authentication.
+- **Account Provisioning**: Offers GlifWebSignIn signup flow for new users, integrating with `takeout.google.com` via lifecycle management parameters (`flowEntry=SignUp`, `followup` URL).
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-01T21:53:30.506329+05:30
+- Published: 2026-08-02T03:50:14.077883+05:30
 
 ## Related Tags
 
@@ -42,4 +42,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://takeout.google.com/
+Original source: https://www.blogger.com/go/takeout

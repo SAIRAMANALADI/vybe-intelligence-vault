@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Sri-Krishna-V/awesome-adk-agents
-collected_at: '2026-08-01T21:46:51.538976+05:30'
+collected_at: '2026-08-02T03:44:53.523864+05:30'
 published_at: '2026-08-01T09:18:51Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - hackernews
 - python
 - scripts
-- workflows
 stars: 334
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-05-27T11:48:53Z'
 pushed_at: '2026-07-26T06:21:31Z'
 resource_id: github:sri-krishna-v/awesome-adk-agents
-first_seen: '2026-08-01T21:46:51.538976+05:30'
-last_seen: '2026-08-01T21:46:51.538976+05:30'
-last_checked: '2026-08-01T21:46:51.538976+05:30'
+first_seen: '2026-08-02T03:44:53.523864+05:30'
+last_seen: '2026-08-02T03:44:53.523864+05:30'
+last_checked: '2026-08-02T03:44:53.523864+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated ADK Resources**: Repository offering a structured collection of AI agents built with Google’s Agent Development Kit (ADK), including templates, best practices, and production-ready examples across research, business, automation, and education domains.
-
-- **Technical Scope**: Focuses on ADK-Python and ADK-Web implementations, with support for multi-agent systems, Gemini AI integration, and Google ADK-based agentic AI workflows.
-
-- **Metadata**: 334 stars, 48 forks, last updated 2026-08-01; primarily Python-based with topics covering ADK, agent samples, and AI automation frameworks.
+- **Curated ADK Resources**: Repository aggregates Google’s Agent Development Kit (ADK) templates, best practices, and production-ready AI agent examples across domains like research, business, automation, and education.
+- **Multi-Faceted ADK Support**: Includes Python-based ADK implementations (`adk-python`), web components (`adk-web`), and multi-agent system examples, with focus on Google’s Gemini AI integration.
+- **Active Maintenance**: Last updated August 2026, with 334 stars and 48 forks, reflecting ongoing community engagement and updates.
 
 ## Why It Matters
 

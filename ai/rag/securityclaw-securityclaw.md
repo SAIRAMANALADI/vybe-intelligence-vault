@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-08-02T01:05:54.560698+05:30'
+collected_at: '2026-08-02T03:43:38.522316+05:30'
 published_at: '2026-07-30T10:49:09Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - python
 - rag
 - scripts
+- workflows
 stars: 263
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-07-31T20:03:39Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-08-02T01:05:54.560698+05:30'
-last_seen: '2026-08-02T01:05:54.560698+05:30'
-last_checked: '2026-08-02T01:05:54.560698+05:30'
+first_seen: '2026-08-02T03:43:38.522316+05:30'
+last_seen: '2026-08-02T03:43:38.522316+05:30'
+last_checked: '2026-08-02T03:43:38.522316+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous SOC agent with skill-based modules for monitoring OpenSearch/Elasticsearch logs, integrating RAG for behavioral memory, and validating real-time anomalies using LLMs.
+- **Modular SOC Agent**: Python-based autonomous agent integrating OpenSearch/Elasticsearch for real-time log monitoring, with modular components for extensibility in threat detection and response workflows.
 
-- **RAG & LLM Integration**: Uses Retrieval-Augmented Generation (RAG) to build contextual behavioral memory from security data, while LLMs validate and refine anomaly detection in real-time.
+- **RAG-Enhanced Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to build and query contextual behavioral patterns from historical security data, enabling adaptive anomaly validation via LLMs.
 
-- **Automated Threat Detection**: Implements SOC automation for threat hunting and anomaly detection, leveraging AI-driven decision-making for cybersecurity operations.
+- **LLM-Driven Anomaly Validation**: Uses large language models (LLMs) to cross-verify detected anomalies against behavioral baselines, enhancing detection accuracy and reducing false positives in SOC operations.
 
 ## Why It Matters
 

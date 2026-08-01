@@ -3,7 +3,7 @@ title: Discovered Web Resource
 archive_category: vector-databases
 source_category: ai/rag
 source_url: https://pinecone-contextual-rag-demo.streamlit.app/
-resource_id: blog:discovered-web-resource
+resource_id: blog:discovered-web-resource-6ce9deb2
 local_vault_path: ai/rag/discovered-web-resource.md
 quality_score: 70
 archive_score: 72

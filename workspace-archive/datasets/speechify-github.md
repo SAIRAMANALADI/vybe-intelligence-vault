@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Meta-Voicebox**: First generative AI model for speech, enabling cross-task generalization with state-of-the-art performance, implemented in Python/TypeScript.
-- **Speechify AI API SDKs**: Multi-language support (Python, TypeScript) for interacting with Speechify’s AI services, including legacy SDKs and Cloudflare Worker integrations.
-- **Text Processing Libraries**: Open-source tools like `olmocr` (PDF linearization for LLM training) and `textract` (multi-format document text extraction) und
+- **Meta-Voicebox**: First generative AI model for speech, enabling cross-task generalization with state-of-the-art performance, implemented in the `Meta-voicebox` repository.
+
+- **Speechify AI SDKs**: TypeScript/Python SDKs (`speechify-api-sdk-typescript`, `speechify-api-sdk-python`) and legacy SDKs (`speechify-ai-legacy-sdks`) for interfacing with Speechify’s AI APIs.
+
+- **Open-source toolkits**: Includes `olmocr` (PDF linearization for LLM training), `SpecForge` (speculative decoding model tr
 
 ## Use Cases
 

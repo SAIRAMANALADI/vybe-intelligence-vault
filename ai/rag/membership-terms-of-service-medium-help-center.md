@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://help.medium.com/hc/en-us/articles/115004932468-Paid-Terms-of-Service
-published_at: '2026-08-01T09:27:09.692413+05:30'
-collected_at: '2026-08-01T09:27:09.692423+05:30'
+published_at: '2026-08-02T03:48:26.831425+05:30'
+collected_at: '2026-08-02T03:48:26.831437+05:30'
 tags:
 - agents
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:membership-terms-of-service-medium-help-center
-first_seen: '2026-08-01T09:27:09.692423+05:30'
-last_seen: '2026-08-01T09:27:09.692423+05:30'
-last_checked: '2026-08-01T09:27:09.692423+05:30'
+first_seen: '2026-08-02T03:48:26.831437+05:30'
+last_seen: '2026-08-02T03:48:26.831437+05:30'
+last_checked: '2026-08-02T03:48:26.831437+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Subscription Model**: Medium's Member Services operate on a recurring payment model (monthly/annually), with fees charged automatically on the same day of each billing cycle; non-payment due to invalid payment methods may result in immediate service suspension until updated.
+- **Recurring Billing & Cancellation**: Member Services operate on auto-renewing subscriptions (monthly/annual) with fees charged on the same day of renewal; cancellation takes effect at the end of the current billing period without refunds, except as determined by Medium.
 
-- **License & Restrictions**: Users receive a non-exclusive, personal license for Member Services; violations (e.g., illegal use, sharing credentials, reverse-engineering) may lead to immediate termination without refund.
+- **Payment & Account Access**: Medium charges the stored payment method for renewals; failed payments may revoke access until updated, with potential subscription cancellation after a reasonable period. Taxes are the user’s responsibility if not automatically collected.
 
-- **Gift Memberships**: Pre-paid, one-year access codes are issued upon purchase; recipients must redeem via a Medium account, with no refunds for partial use or failed redemptions, and Medium disclaims liability for non-delivery due to invalid emails or spam filters.
+- **License & Restrictions**: Member Services are non-transferable, non-commercial, and subject to strict usage rules (e.g., no reverse-engineering, illegal use, or sharing credentials). Violations may result in immediate termination without refund.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T09:27:09.692413+05:30
+- Published: 2026-08-02T03:48:26.831425+05:30
 
 ## Related Tags
 

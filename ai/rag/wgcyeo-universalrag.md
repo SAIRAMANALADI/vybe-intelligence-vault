@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-02T01:06:19.533783+05:30'
+collected_at: '2026-08-02T03:44:03.491376+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-02T01:06:19.533783+05:30'
-last_seen: '2026-08-02T01:06:19.533783+05:30'
-last_checked: '2026-08-02T01:06:19.533783+05:30'
+first_seen: '2026-08-02T03:44:03.491376+05:30'
+last_seen: '2026-08-02T03:44:03.491376+05:30'
+last_checked: '2026-08-02T03:44:03.491376+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal RAG Framework**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation across diverse modalities (e.g., text, images, tables) and granularities (e.g., paragraphs, sentences, entities), leveraging unified encoders and cross-modal retrieval mechanisms.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework for retrieval-augmented generation (RAG) that handles diverse data modalities (text, images, tables) and granularities (documents, paragraphs, entities) within a unified architecture.
 
-- **ACL 2026 Oral Contribution**: The framework introduces novel architectures for modality-agnostic indexing and retrieval, optimizing for heterogeneous corpus integration while maintaining high retrieval precision and generation quality.
+- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval mechanism leveraging modality-specific encoders (e.g., CLIP for vision, BERT for text) and a shared embedding space for unified retrieval across modalities.
 
-- **Open-Source Implementation**: Provides a Python-based toolkit with modular components for customizable RAG pipelines, supporting dynamic modality fusion and granularity-aware retrieval strategies.
+- **Dynamic Granularity Adaptation**: Proposes a hierarchical retrieval strategy that dynamically selects the optimal granularity (e.g., chunk vs. full document) based on query complexity and context, improving generation quality and efficiency.
 
 ## Why It Matters
 

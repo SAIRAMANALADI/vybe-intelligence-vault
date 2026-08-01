@@ -4,7 +4,7 @@ title: examples/learn/generation/better-rag/02b-semantic-chunking.ipynb at main 
 archive_category: evals-and-benchmarks
 source_category: ai/rag
 source_url: https://github.com/pinecone-io/examples/blob/master/learn/generation/better-rag/02b-semantic-chunking.ipynb
-resource_id: github:pinecone-io/examples
+resource_id: github:pinecone-io/examples-35f63238
 local_vault_path: ai/rag/pinecone-io-examples.md
 quality_score: 70
 archive_score: 87

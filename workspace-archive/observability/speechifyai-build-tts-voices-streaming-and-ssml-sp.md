@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **API Endpoint**: Single POST request to `/v1/audio/speech` with JSON payload (`input`, `voice_id`, `audio_format`, `model`) for TTS generation.
-- **Voice Cloning & SSML**: Supports cloning from 10-30s samples (cross-language compatible) and fine-grained SSML control (pitch, rate, emotions, speech marks).
-- **Model Variants**: `simba-3.2` (low-latency English), `simba-3.0` (streaming + 6 European langs), `simba-multilingual` (30+ langs), `simba-english` (cloned voices only).
+- **API Endpoint**: Single POST request to `/v1/audio/speech` with JSON payload (`input`, `voice_id`, `audio_format`, `model`) for TTS generation, supporting streaming up to 20,000 characters.
+- **Voice Customization**: Supports voice cloning from 10-30s samples, SSML for fine-grained control (pitch, rate, emotion presets), and speech marks for word-level timestamps.
+- **Model & Integration**: Offers multilingual models (`simba-multilingual` for 30+ languages, `simba-3.2` for low-latency English
 
 ## Use Cases
 

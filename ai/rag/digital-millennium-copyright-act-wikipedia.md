@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act
-published_at: '2026-08-01T14:16:22.286016+05:30'
-collected_at: '2026-08-01T14:16:22.286034+05:30'
+published_at: '2026-08-02T03:51:26.288741+05:30'
+collected_at: '2026-08-02T03:51:26.288756+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:digital-millennium-copyright-act-wikipedia
-first_seen: '2026-08-01T14:16:22.286034+05:30'
-last_seen: '2026-08-01T14:16:22.286034+05:30'
-last_checked: '2026-08-01T14:16:22.286034+05:30'
+first_seen: '2026-08-02T03:51:26.288756+05:30'
+last_seen: '2026-08-02T03:51:26.288756+05:30'
+last_checked: '2026-08-02T03:51:26.288756+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Criminalizes circumvention of DRM**: Prohibits production, distribution, or use of tools/services designed to bypass technological measures controlling access to copyrighted works, regardless of actual infringement.
+- **Criminalizes circumvention**: Prohibits production, distribution, or use of technologies/services designed to bypass DRM or access controls, even without actual copyright infringement (17 U.S.C. § 1201).
 
-- **Heightens internet copyright penalties**: Increases legal consequences for copyright infringement online and amends Title 17 U.S.C. to extend copyright reach while limiting liability for compliant online service providers.
+- **Liability limitations for ISPs**: Provides "safe harbor" provisions (17 U.S.C. § 512) shielding online service providers from direct/indirect liability for user-generated copyright infringement if they comply with takedown notices and implement repeat infringer policies.
 
-- **Implements WIPO treaties**: Enacts two 1996 World Intellectual Property Organization treaties (Copyright Treaty and Performances and Phonograms Treaty) into U.S. law, effective October 28, 1998.
+- **Enhanced penalties**: Increases statutory damages and criminal penalties for copyright infringement on the internet, aligning U.S. law with WIPO treaties (1996) while amending Title 17 U.S.C. to extend copyright reach.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T14:16:22.286016+05:30
+- Published: 2026-08-02T03:51:26.288741+05:30
 
 ## Related Tags
 

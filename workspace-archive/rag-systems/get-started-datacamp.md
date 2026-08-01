@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Authentication Methods**: Supports traditional email/password login, Single Sign-On (SSO), and OAuth via Google, Microsoft, LinkedIn, Facebook, and Apple.
-- **Security & Compliance**: Enforces Terms of Use, Privacy Policy, and data storage in the USA per user agreement.
-- **Session Management**: Includes "Remember me" option for persistent sessions and password recovery via email.
+- Supports **Single Sign-On (SSO)** via Google, Microsoft, LinkedIn, Facebook, and Apple for authentication.
+- Redirects to `python-amazon-bedrock` sandbox environment post-authentication with `remember_me` parameter control.
+- Compliance requires acceptance of **Terms of Use**, **Privacy Policy**, and data storage in the USA.
 
 ## Use Cases
 

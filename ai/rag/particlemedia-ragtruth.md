@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-08-02T01:04:29.468163+05:30'
+collected_at: '2026-08-02T03:42:13.498246+05:30'
 published_at: '2026-07-20T20:54:26Z'
 tags:
 - benchmark
 - dataset
 - github-repo
 - hackernews
+- models
 - python
 - rag
 stars: 260
@@ -21,9 +22,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-08-02T01:04:29.468163+05:30'
-last_seen: '2026-08-02T01:04:29.468163+05:30'
-last_checked: '2026-08-02T01:04:29.468163+05:30'
+first_seen: '2026-08-02T03:42:13.498246+05:30'
+last_seen: '2026-08-02T03:42:13.498246+05:30'
+last_checked: '2026-08-02T03:42:13.498246+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve trustworthiness in Retrieval-Augmented Generation (RAG) language models by identifying and mitigating hallucinations in generated outputs.
-
-- **Technical Composition**: Contains structured hallucination annotations (e.g., factual inaccuracies, unsupported claims) paired with retrieval contexts, enabling fine-grained analysis of RAG model failures in real-world scenarios.
-
-- **Implementation**: Provides Python-based tools for dataset construction, evaluation metrics, and baseline model training, facilitating reproducibility and benchmarking against hallucination-prone RAG systems.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and quantifying hallucinations in generated outputs.
+- **Technical Composition**: Provides a Python-based framework with curated datasets containing adversarial prompts, retrieval contexts, and model-generated responses, annotated for hallucination detection and mitigation.
+- **Evaluation Metrics**: Enables benchmarking of RAG systems using precision, recall, and F1-score for hallucination detection, with tools for fine-tuning and validating trustworthy model performance.
 
 ## Why It Matters
 

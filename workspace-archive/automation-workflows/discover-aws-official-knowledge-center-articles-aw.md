@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **S3 Replication Failures**: Common causes include missing IAM permissions, incorrect bucket policy configurations, or replication rule misconfigurations in Amazon S3 general-purpose buckets.
+- **S3 Replication Failures**: Verify S3 bucket replication configuration, IAM permissions, and ensure source/destination regions support replication; check S3 event notifications and replication metrics in CloudWatch.
 
-- **EC2 Instance Connection Issues**: Troubleshooting steps involve verifying security group rules, network ACLs, IAM instance profiles, and SSH/Session Manager configurations for Linux/Windows instances.
+- **EC2 SSH Connection Errors**: Confirm security group rules allow inbound SSH (port 22), validate key pair associations, and troubleshoot network ACLs or instance-level firewall rules (e.g., `iptables`).
 
-- **Lambda Deployment Errors**: Resolution requires checking deployment package size limits (50MB z
+- **Lambda Deployment Size Limits**: Resolve deployment package size erro
 
 ## Use Cases
 

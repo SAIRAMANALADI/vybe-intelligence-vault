@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datarobot-community/datarobot-agent-templates
-collected_at: '2026-08-02T01:08:39.720691+05:30'
+collected_at: '2026-08-02T03:46:23.716707+05:30'
 published_at: '2026-07-31T15:53:17Z'
 tags:
 - agents
@@ -24,9 +24,9 @@ archived: false
 created_at: '2025-05-14T14:40:53Z'
 pushed_at: '2026-07-31T15:56:17Z'
 resource_id: github:datarobot-community/datarobot-agent-templates
-first_seen: '2026-08-02T01:08:39.720691+05:30'
-last_seen: '2026-08-02T01:08:39.720691+05:30'
-last_checked: '2026-08-02T01:08:39.720691+05:30'
+first_seen: '2026-08-02T03:46:23.716707+05:30'
+last_seen: '2026-08-02T03:46:23.716707+05:30'
+last_checked: '2026-08-02T03:46:23.716707+05:30'
 health_score: 100
 ---
 
@@ -34,9 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides pre-built agentic workflow templates for DataRobot, leveraging frameworks like CrewAI, LangGraph, and LlamaIndex to enable LLM-driven automation.
-- **Technical Stack**: Implemented in Python, integrating with DataRobot’s agentic AI capabilities and supporting tools like LlamaIndex for indexing and retrieval.
-- **Updates & Maintenance**: Last updated on 2026-07-31, indicating active development with 20 stars and 12 forks, reflecting community engagement.
+- **Purpose**: Provides pre-built agentic workflow templates for DataRobot, leveraging frameworks like CrewAI, LangGraph, and LlamaIndex to enable autonomous AI agents.
+- **Technical Stack**: Implemented in Python, integrates with DataRobot's LLM and agentic AI capabilities for workflow automation.
+- **Repository Details**: Last updated July 31, 2026, with 20 stars and 12 forks, focused on agentic AI, LLM orchestration, and DataRobot-specific workflows.
 
 ## Why It Matters
 

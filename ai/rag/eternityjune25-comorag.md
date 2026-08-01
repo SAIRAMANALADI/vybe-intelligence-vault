@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-02T01:06:14.511219+05:30'
+collected_at: '2026-08-02T03:43:58.486975+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-02T01:06:14.511219+05:30'
-last_seen: '2026-08-02T01:06:14.511219+05:30'
-last_checked: '2026-08-02T01:06:14.511219+05:30'
+first_seen: '2026-08-02T03:43:58.486975+05:30'
+last_seen: '2026-08-02T03:43:58.486975+05:30'
+last_checked: '2026-08-02T03:43:58.486975+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework (`ComoRAG`) mimicking human-like stateful reasoning for long narrative comprehension, leveraging structured memory hierarchies to maintain context coherence.
+- **Cognitive-Inspired Architecture**: Introduces a memory-organized RAG (Retrieval-Augmented Generation) framework inspired by human cognitive memory structures, enabling stateful long narrative reasoning for complex multi-turn interactions.
 
-- **Stateful Long-Form Reasoning**: Implements dynamic memory updates and retrieval mechanisms to handle extended narratives, enabling iterative reasoning while preserving temporal and causal relationships across multi-turn interactions.
+- **Stateful Long Narrative Reasoning**: Implements dynamic memory retrieval and organization to maintain context coherence across extended dialogues, addressing limitations in traditional RAG systems for sequential reasoning tasks.
 
-- **AAAI 2026 Poster Submission**: Proposes novel evaluation metrics and benchmarks for stateful RAG systems, with open-source Python implementation (`ComoRAG`) demonstrating superior performance in narrative coherence and contextual recall compared to traditional RAG baselines.
+- **AAAI 2026 Poster Submission**: Presented as a novel approach in the AAAI 2026 conference, highlighting advancements in memory-augmented retrieval mechanisms for AI-driven narrative understanding and reasoning.
 
 ## Why It Matters
 

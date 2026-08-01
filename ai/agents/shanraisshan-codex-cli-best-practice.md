@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-08-02T01:07:04.576316+05:30'
+collected_at: '2026-08-02T03:44:48.512741+05:30'
 published_at: '2026-08-01T03:48:05Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-08-02T01:07:04.576316+05:30'
-last_seen: '2026-08-02T01:07:04.576316+05:30'
-last_checked: '2026-08-02T01:07:04.576316+05:30'
+first_seen: '2026-08-02T03:44:48.512741+05:30'
+last_seen: '2026-08-02T03:44:48.512741+05:30'
+last_checked: '2026-08-02T03:44:48.512741+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository provides structured methodologies for transitioning from vibe coding to agentic engineering using Codex CLI, emphasizing automation, context engineering, and modular agentic workflows.
+- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for AI-driven development workflows.
 
-- **CLI Skills & Hooks**: Implements Codex CLI commands, custom skills, and hooks to enable dynamic task execution, context retention, and multi-agent collaboration in Python-based AI workflows.
+- **Codex CLI Best Practices**: Provides a curated set of commands, skills, and hooks for OpenAI Codex, optimizing agentic coding efficiency with reusable templates, context management, and CLI-based agent orchestration.
 
-- **Best Practices & Scalability**: Documents optimized practices for OpenAI Codex integration, including context management, agentic task decomposition, and scalable AI-driven development patterns for Pakistani developers and global audiences.
+- **Pakistani Developer Contribution**: Open-source project led by a Pakistani developer, showcasing regional expertise in AI agent frameworks while maintaining compatibility with Python-based Codex CLI ecosystems.
 
 ## Why It Matters
 

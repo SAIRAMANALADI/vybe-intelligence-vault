@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/security/advanced-security/code-security
-published_at: '2026-07-21T16:58:25.090909+05:30'
-collected_at: '2026-07-21T16:58:25.090943+05:30'
+published_at: '2026-08-02T03:53:29.689351+05:30'
+collected_at: '2026-08-02T03:53:29.689362+05:30'
 tags:
 - benchmark
 - paper
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: github:security/advanced-security
-first_seen: '2026-07-21T16:58:25.090943+05:30'
-last_seen: '2026-07-21T16:58:25.090943+05:30'
-last_checked: '2026-07-21T16:58:25.090943+05:30'
+first_seen: '2026-08-02T03:53:29.689362+05:30'
+last_seen: '2026-08-02T03:53:29.689362+05:30'
+last_checked: '2026-08-02T03:53:29.689362+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **AI-Powered Vulnerability Remediation**: GitHub Code Security integrates **CodeQL** for static analysis and **Copilot Autofix** to automatically detect and fix vulnerabilities in real-time, reducing remediation time by **3X** with AI-driven contextual fixes.
+- **CodeQL Integration**: GitHub Code Security leverages CodeQL for real-time static analysis, tracing data flows to detect vulnerabilities early in development cycles.
 
-- **Proactive Dependency & Supply Chain Security**: **Dependency Review Action** scans PRs for vulnerable dependencies, while **EPSS scoring** prioritizes remediation based on exploit likelihood, ensuring proactive mitigation of supply chain risks.
+- **AI-Powered Remediation**: Copilot Autofix provides contextual explanations and automated fixes for CodeQL-detected alerts, reducing remediation time by ~3x and covering 90% of alert types with AI suggestions.
 
-- **Structured Security Campaigns**: Enables systematic tracking of security fixes across repositories via **Security Campaigns**, grouping vulnerabilities by type or compliance needs, with unified dashboards for progress monitoring and risk reduction.
+- **Dependency & Supply Chain Security**: Dependency Review Action scans PRs for vulnerable dependencies, while EPSS scoring prioritizes remediation based on exploit likelihood; Security Campaigns enable structured, scalable vulnerability management.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T16:58:25.090909+05:30
+- Published: 2026-08-02T03:53:29.689351+05:30
 
 ## Related Tags
 

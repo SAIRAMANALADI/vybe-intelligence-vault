@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/RAG_Techniques
-collected_at: '2026-08-02T01:04:44.426285+05:30'
-published_at: '2026-08-01T19:20:20Z'
+collected_at: '2026-08-02T03:42:28.457914+05:30'
+published_at: '2026-08-01T19:50:02Z'
 tags:
 - agents
+- benchmark
+- dataset
 - github-repo
 - hackernews
 - jupyter notebook
@@ -15,7 +17,6 @@ tags:
 - models
 - openai
 - rag
-- workflows
 stars: 28905
 language: Jupyter Notebook
 status: active
@@ -24,9 +25,9 @@ archived: false
 created_at: '2024-07-13T16:08:36Z'
 pushed_at: '2026-07-31T21:07:02Z'
 resource_id: github:nirdiamant/rag_techniques
-first_seen: '2026-08-02T01:04:44.426285+05:30'
-last_seen: '2026-08-02T01:04:44.426285+05:30'
-last_checked: '2026-08-02T01:04:44.426285+05:30'
+first_seen: '2026-08-02T03:42:28.457914+05:30'
+last_seen: '2026-08-02T03:42:28.457914+05:30'
+last_checked: '2026-08-02T03:42:28.457914+05:30'
 health_score: 100
 ---
 
@@ -34,9 +35,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Hosts advanced RAG techniques with Jupyter Notebook tutorials, covering agentic RAG, embeddings, and integration with LangChain/LlamaIndex for LLM augmentation.
-- **Technical Scope**: Demonstrates semantic search, vector databases, and hybrid retrieval methods for enhancing generative AI models (e.g., GPT, OpenAI).
-- **Ecosystem**: Supports Python-based workflows, emphasizing NLP, machine learning, and retrieval-augmented generation with modular implementations.
+- **Advanced RAG Techniques**: Repository provides Jupyter Notebook tutorials on cutting-edge RAG methodologies, including agentic RAG, hybrid search, and multi-modal retrieval, with implementations leveraging LangChain, LlamaIndex, and vector databases.
+
+- **Multi-Framework Support**: Demonstrates integration with major LLM ecosystems (OpenAI, GPT) and retrieval frameworks (LangChain, LlamaIndex), emphasizing embeddings, semantic search, and vector storage optimizations.
+
+- **Scalable & Modular Design**: Includes modular components for custom RAG pipelines, with benchmarks for performance evaluation and techniques for handling large-scale datasets and real-time retrieval augmentation.
 
 ## Why It Matters
 
@@ -46,10 +49,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: NirDiamant
 - Stars: 28905
-- Forks: 3530
+- Forks: 3529
 - Language: Jupyter Notebook
 - Topics: agentic-rag, ai, embeddings, generative-ai, gpt, langchain, llama-index, llm, llms, machine-learning, nlp, openai, python, rag, retrieval-augmented-generation, semantic-search, tutorials, vector-database
-- Last Updated: 2026-08-01T19:20:20Z
+- Last Updated: 2026-08-01T19:50:02Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-07-13T16:08:36Z

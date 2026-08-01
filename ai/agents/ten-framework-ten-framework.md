@@ -4,12 +4,11 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TEN-framework/ten-framework
-collected_at: '2026-08-02T01:06:54.576919+05:30'
+collected_at: '2026-08-02T03:44:38.564419+05:30'
 published_at: '2026-08-01T11:31:47Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - youtube
 stars: 11010
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-06-19T14:26:15Z'
 pushed_at: '2026-07-31T10:33:16Z'
 resource_id: github:ten-framework/ten-framework
-first_seen: '2026-08-02T01:06:54.576919+05:30'
-last_seen: '2026-08-02T01:06:54.576919+05:30'
-last_checked: '2026-08-02T01:06:54.576919+05:30'
+first_seen: '2026-08-02T03:44:38.564419+05:30'
+last_seen: '2026-08-02T03:44:38.564419+05:30'
+last_checked: '2026-08-02T03:44:38.564419+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source framework for building conversational voice AI agents with multi-modal capabilities (voice, video, real-time processing).
-- **Technical Stack**: Primarily implemented in Python, supporting real-time, multi-modal interactions.
-- **Metrics**: 11,010 GitHub stars, 1,344 forks; last updated August 1, 2026.
+- **Open-source Python framework** for building real-time, multi-modal conversational voice AI agents with support for video and voice modalities.
+- **Real-time processing capability** enables low-latency interactions, optimized for conversational AI applications.
+- **Modular architecture** supports extensibility for custom integrations, with active development tracked via GitHub (11K+ stars, 1.3K+ forks).
 
 ## Why It Matters
 
