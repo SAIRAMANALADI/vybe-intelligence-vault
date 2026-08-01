@@ -13,13 +13,14 @@ collected_at: '2026-08-01T09:19:50.624348+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-first-transatlantic-telegraph-cable-was-a-bold
 first_seen: '2026-08-01T09:19:50.624348+05:30'
 last_seen: '2026-08-01T09:19:50.624348+05:30'
 last_checked: '2026-08-01T09:19:50.624348+05:30'
 health_score: 100
 ---
+
 
 # The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure
 

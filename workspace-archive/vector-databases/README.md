@@ -8,25 +8,25 @@ Vector databases provide sub-millisecond similarity search across millions of em
 
 ## Top Matched Resources
 
-- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (tutorial - ESSENTIAL Tier)
+- [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (benchmark - ESSENTIAL Tier)
+- [Pinecone · GitHub](https://github.com/pinecone-io) (framework - ESSENTIAL Tier)
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
+- [zilliztech/milvus_cli](https://github.com/zilliztech/milvus_cli) (framework - ESSENTIAL Tier)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (framework - ESSENTIAL Tier)
-- [Top 7 GitHub Repos to Master Retrieval-Augmented Generation](https://aidailypost.com/news/7-top-github-repos-offering-tutorials-code-master-rag-system) (framework - ESSENTIAL Tier)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (tutorial - ESSENTIAL Tier)
 - [Haystack | Haystack](https://haystack.deepset.ai/) (framework - ESSENTIAL Tier)
 - [AI & Vectors | Supabase Docs](https://supabase.com/docs/guides/ai) (template - ESSENTIAL Tier)
-- [LlamaIndex · GitHub](https://github.com/run-llama/) (framework - ESSENTIAL Tier)
-- [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/chroma-core/chroma (Chroma)
 https://github.com/qdrant/qdrant (Qdrant)
 https://github.com/lancedb/lancedb (LanceDB)
-- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
+- [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
+- [Pinecone · GitHub](https://github.com/pinecone-io)
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
+- [zilliztech/milvus_cli](https://github.com/zilliztech/milvus_cli)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
-- [LlamaIndex · GitHub](https://github.com/run-llama/)
-- [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/lancedb/lancedb (LanceDB)
 
 ---
 
-*Last updated: 2026-08-01 09:38 IST*
+*Last updated: 2026-08-01 14:23 IST*

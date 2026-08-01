@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/ParseBench
-collected_at: '2026-08-01T09:23:28.518262+05:30'
+collected_at: '2026-08-01T14:08:29.440974+05:30'
 published_at: '2026-07-29T11:45:17Z'
 tags:
 - agents
 - benchmark
-- dataset
 - github-repo
-- hackernews
 - meta-ai
 - models
 - python
@@ -25,9 +23,9 @@ archived: false
 created_at: '2026-04-10T20:46:33Z'
 pushed_at: '2026-07-27T21:25:19Z'
 resource_id: github:run-llama/parsebench
-first_seen: '2026-08-01T09:23:28.518262+05:30'
-last_seen: '2026-08-01T09:23:28.518262+05:30'
-last_checked: '2026-08-01T09:23:28.518262+05:30'
+first_seen: '2026-08-01T14:08:29.440974+05:30'
+last_seen: '2026-08-01T14:08:29.440974+05:30'
+last_checked: '2026-08-01T14:08:29.440974+05:30'
 health_score: 100
 ---
 
@@ -35,17 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: ParseBench is a benchmarking suite designed to evaluate document parsing capabilities of AI agents, focusing on metrics for accuracy, robustness, and efficiency across diverse document types (e.g., PDFs, tables, OCR outputs).
-
-- **Key Features**:
-  - Supports evaluation of **LLMs, vision-language models (VLMs), and OCR pipelines** for tasks like **text extraction, table parsing, and layout analysis**.
-  - Integrates with **LlamaIndex** for structured document processing and retrieval-augmented generation (RAG) workflows.
-  - Includes **standardized datasets** and metrics for fair comparison of parsing performance.
-
-- **Technical Scope**:
-  - Implemented in **Python**, with extensible APIs for custom parsers and evaluation modules.
-  - Covers **multimodal parsing** (text + vision) and **structured data extraction** (e.g., tables, forms).
-  - Last updated **July 2026**, reflecting ongoing support for emerging parsing challenges.
+- **Purpose**: ParseBench is a benchmark suite designed to evaluate document parsing capabilities of AI agents, focusing on tasks like PDF parsing, OCR, and table extraction.
+- **Key Features**: Supports evaluation of vision-language models (VLMs) and LLMs in structured document understanding, with metrics for accuracy, robustness, and efficiency.
+- **Integration**: Compatible with LlamaIndex, enabling seamless benchmarking of document parsing pipelines in Python-based AI workflows.
 
 ## Why It Matters
 

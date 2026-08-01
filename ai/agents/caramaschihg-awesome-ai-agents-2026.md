@@ -4,15 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/caramaschiHG/awesome-ai-agents-2026
-collected_at: '2026-08-01T09:23:18.453120+05:30'
-published_at: '2026-08-01T02:04:29Z'
+collected_at: '2026-08-01T14:08:19.394627+05:30'
+published_at: '2026-08-01T06:39:31Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - openai
 - unknown
-stars: 1517
+stars: 1518
 language: Unknown
 status: active
 license: NOASSERTION
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-03-07T13:21:09Z'
 pushed_at: '2026-06-10T16:46:10Z'
 resource_id: github:caramaschihg/awesome-ai-agents-2026
-first_seen: '2026-08-01T09:23:18.453120+05:30'
-last_seen: '2026-08-01T09:23:18.453120+05:30'
-last_checked: '2026-08-01T09:23:18.453120+05:30'
+first_seen: '2026-08-01T14:08:19.394627+05:30'
+last_seen: '2026-08-01T14:08:19.394627+05:30'
+last_checked: '2026-08-01T14:08:19.394627+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Repository**: Comprehensive collection of 300+ AI agents, frameworks, and tools categorized into 20+ topics, updated monthly.
-- **Technical Scope**: Covers AI agents, LangChain, LLMs, machine learning, and ChatGPT-related resources for 2026.
-- **Metadata**: 1517 stars, 508 forks, last updated 2026-08-01T02:04:29Z.
+*   Aggregates 300+ AI agent frameworks and tools across 20+ categories within an "awesome list" structure.
+*   Focuses on advanced AI paradigms including LLMs, LangChain, and ChatGPT, with a forward-looking 2026 scope.
+*   Maintained with monthly updates, evidenced by a 2026-08-01 timestamp.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: caramaschiHG
-- Stars: 1517
-- Forks: 508
+- Stars: 1518
+- Forks: 509
 - Language: Unknown
 - Topics: 2026, ai-agents, artificial-intelligence, awesome-list, chatgpt, langchain, llm, machine-learning
-- Last Updated: 2026-08-01T02:04:29Z
+- Last Updated: 2026-08-01T06:39:31Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2026-03-07T13:21:09Z

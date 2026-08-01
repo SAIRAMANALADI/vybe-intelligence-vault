@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-01T09:22:18.415850+05:30'
+collected_at: '2026-08-01T14:07:19.321452+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-01T09:22:18.415850+05:30'
-last_seen: '2026-08-01T09:22:18.415850+05:30'
-last_checked: '2026-08-01T09:22:18.415850+05:30'
+first_seen: '2026-08-01T14:07:19.321452+05:30'
+last_seen: '2026-08-01T14:07:19.321452+05:30'
+last_checked: '2026-08-01T14:07:19.321452+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory hierarchies.
+- **Cognitive-Inspired Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework (`ComoRAG`) designed for stateful long narrative reasoning, drawing inspiration from human cognitive memory structures.
 
-- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain context coherence across extended dialogues or narratives, leveraging episodic and semantic memory layers.
+- **Stateful Reasoning Mechanism**: Implements a structured memory system to maintain context and coherence across extended dialogues or narratives, enabling persistent state tracking and dynamic retrieval.
 
-- **AAAI 2026 Contribution**: Proposes a novel approach to long-form reasoning in LLMs by integrating memory organization principles, validated via poster presentation at AAAI 2026.
+- **AAAI 2026 Poster Submission**: Presented as a high-impact research contribution at AAAI 2026, emphasizing advancements in long-form reasoning for RAG systems.
 
 ## Why It Matters
 

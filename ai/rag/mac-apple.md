@@ -4,10 +4,9 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.apple.com/mac/
-published_at: '2026-07-20T22:25:27.936992+05:30'
-collected_at: '2026-07-20T22:25:27.937007+05:30'
+published_at: '2026-08-01T14:13:58.528183+05:30'
+collected_at: '2026-08-01T14:13:58.528196+05:30'
 tags:
-- creative_dev
 - rag
 - reddit
 - web-crawled
@@ -15,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:mac-apple
-first_seen: '2026-07-20T22:25:27.937007+05:30'
-last_seen: '2026-07-20T22:25:27.937007+05:30'
-last_checked: '2026-07-20T22:25:27.937007+05:30'
+first_seen: '2026-08-01T14:13:58.528196+05:30'
+last_seen: '2026-08-01T14:13:58.528196+05:30'
+last_checked: '2026-08-01T14:13:58.528196+05:30'
 health_score: 100
 ---
 
@@ -25,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Mac Portfolio**: Apple offers a range of Mac devices including MacBook Neo (budget-friendly), MacBook Air (thin/portable), MacBook Pro (high-performance), iMac (all-in-one desktop), Mac mini (affordable), and Mac Studio (pro-level performance), with customizable configurations and color options.
+- **Mac Product Lineup**: Apple offers a range of Mac devices including MacBook Neo (starting at a lower price point), MacBook Air (13" and 15"), MacBook Pro (14" and 16"), iMac (with multiple color options), Mac mini (most affordable desktop), and Mac Studio (high-performance desktop for professionals).
 
-- **Education & Trade-In Programs**: Eligible students/educators receive discounts on Mac purchases, while Apple Trade-In allows users to exchange old devices for credit toward new Macs or free recycling for non-eligible devices.
+- **Key Mac Features**: macOS integrates with Apple Silicon for AI processing, supports seamless cross-device workflows (iPhone, iPad, Apple Watch), and includes advanced privacy/security features like on-device AI processing and hardware-based encryption.
 
-- **Ecosystem Integration**: macOS supports AI-driven features (e.g., on-device processing), seamless cross-device workflows (iPhone/iPad/Apple Watch), and compatibility with industry-standard apps (e.g., Adobe Photoshop, Microsoft Excel).
+- **Customization & Ecosystem**: Macs support customization in chip (M-series), memory, storage, and color; Apple Trade-In allows recycling old devices for credit; and accessories like Studio Display (5K Retina/XDR) enhance productivity.
 
 ## Why It Matters
 
@@ -39,11 +38,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T22:25:27.936992+05:30
+- Published: 2026-08-01T14:13:58.528183+05:30
 
 ## Related Tags
 
-- creative_dev
 - rag
 - reddit
 - web-crawled

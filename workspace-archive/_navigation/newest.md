@@ -12,6 +12,7 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | 2026-07-02 | [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) | `agent-frameworks/` |
 | 2026-06-26 | [crazyaiml/VAR](https://github.com/crazyaiml/VAR) | `ai-coding-agents/` |
 | 2026-06-25 | [h1papc11/healthcare-ai-agent-vault](https://github.com/h1papc11/healthcare-ai-agent-vault) | `ai-coding-agents/` |
+| 2026-06-15 | [run-llama/llama-parse-java](https://github.com/run-llama/llama-parse-java) | `rag-systems/` |
 | 2026-06-11 | [Jhonata-Matias/crewai-hackathon-2026](https://github.com/Jhonata-Matias/crewai-hackathon-2026) | `ai-coding-agents/` |
 | 2026-06-04 | [danielt69/awesome-agent-observability](https://github.com/danielt69/awesome-agent-observability) | `ai-coding-agents/` |
 | 2026-06-03 | [antins-labs/SearchOS](https://github.com/antins-labs/SearchOS) | `ai-coding-agents/` |
@@ -33,4 +34,3 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | 2026-04-13 | [grafana/o11y-bench](https://github.com/grafana/o11y-bench) | `ai-coding-agents/` |
 | 2026-04-11 | [Ais1on/CTI-RAG](https://github.com/Ais1on/CTI-RAG) | `rag-systems/` |
 | 2026-04-10 | [run-llama/ParseBench](https://github.com/run-llama/ParseBench) | `rag-systems/` |
-| 2026-04-10 | [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox) | `rag-systems/` |

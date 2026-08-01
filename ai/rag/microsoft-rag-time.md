@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-08-01T09:20:43.377235+05:30'
+collected_at: '2026-08-01T14:05:44.266340+05:30'
 published_at: '2026-07-31T15:52:46Z'
 tags:
 - github-repo
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-08-01T09:20:43.377235+05:30'
-last_seen: '2026-08-01T09:20:43.377235+05:30'
-last_checked: '2026-08-01T09:20:43.377235+05:30'
+first_seen: '2026-08-01T14:05:44.266340+05:30'
+last_seen: '2026-08-01T14:05:44.266340+05:30'
+last_checked: '2026-08-01T14:05:44.266340+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Time**: A structured 5-week learning program focused on Retrieval-Augmented Generation (RAG) techniques, covering hybrid search, vector indexing, and quantization methods (binary/scalar) for efficient LLM retrieval.
-- **Technologies & Tools**: Integrates Azure, OpenAI APIs, HNSW for approximate nearest neighbor search, and Matryoshka representation learning; designed for execution in Jupyter Notebooks with VS Code.
-- **Advanced Topics**: Covers multimodal RAG, responsible AI practices, and hybrid search combining keyword/vector retrieval with optimizations for LLM performance and scalability.
+- **Learning Path**: 5-week structured curriculum covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization and Matryoshka representation learning.
+- **Tools & Tech**: Integrates Azure, OpenAI APIs, HNSW for vector search, and VS Code for hands-on Jupyter Notebook exercises.
+- **Topics**: Focuses on retrieval-augmented generation (RAG), responsible AI, multimodal indexing, and optimization strategies for scalable LLM applications.
 
 ## Why It Matters
 

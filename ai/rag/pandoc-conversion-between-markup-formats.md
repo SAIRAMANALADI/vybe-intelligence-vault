@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://hackage.haskell.org/package/pandoc
-published_at: '2026-07-08T09:30:36.092972+05:30'
-collected_at: '2026-07-08T09:30:36.092981+05:30'
+published_at: '2026-08-01T14:15:21.507491+05:30'
+collected_at: '2026-08-01T14:15:21.507505+05:30'
 tags:
 - hackernews
 - rag
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:pandoc-conversion-between-markup-formats
-first_seen: '2026-07-08T09:30:36.092981+05:30'
-last_seen: '2026-07-08T09:30:36.092981+05:30'
-last_checked: '2026-07-08T09:30:36.092981+05:30'
+first_seen: '2026-08-01T14:15:21.507505+05:30'
+last_seen: '2026-08-01T14:15:21.507505+05:30'
+last_checked: '2026-08-01T14:15:21.507505+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-format conversion**: Pandoc is a Haskell library supporting bidirectional conversion between 30+ markup formats (Markdown variants, LaTeX, HTML, EPUB, Docx, Jupyter notebooks, etc.) with extensible readers/writers via Lua scripting.
+- **Multi-format conversion engine**: Pandoc is a Haskell library enabling bidirectional conversion between 30+ markup formats, including Markdown variants, LaTeX, HTML5, EPUB, Docx, Jupyter notebooks, and PDF (via external tools), with support for mathematical content translation (TeX ↔ MathML ↔ Word equations).
 
-- **Mathematical & bibliographic processing**: Converts TeX/MathML/Word equations to/from plain text, with built-in citation/bibliography systems (BibTeX, CSL JSON/YAML) and template-based customization.
+- **Modular architecture**: Implements a plugin-based system with 100+ modules for readers (input parsers) and writers (output generators), extensible via Lua filters for custom transformations, and includes a dedicated `pandoc-cli` package for command-line usage.
 
-- **Modular architecture**: Organized into 100+ modules (e.g., `Text.Pandoc.Readers.LaTeX`, `Text.Pandoc.Writers.Docx`) under a unified `Text.Pandoc` namespace, enabling fine-grained integration and extensibility.
+- **Advanced document processing**: Features automated citation/bibliography generation (CSL, BibTeX), template-driven output customization, and supports structured formats like CSV/TSV tables, slide shows (reveal.js/Beamer), and XML-based formats (DocBook, TEI).
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T09:30:36.092972+05:30
+- Published: 2026-08-01T14:15:21.507491+05:30
 
 ## Related Tags
 

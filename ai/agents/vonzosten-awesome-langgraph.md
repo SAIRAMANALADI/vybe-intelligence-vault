@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vonzosten/awesome-LangGraph
-collected_at: '2026-08-01T09:24:23.502654+05:30'
-published_at: '2026-07-31T15:13:37Z'
+collected_at: '2026-08-01T14:09:24.442065+05:30'
+published_at: '2026-08-01T08:28:24Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - javascript
 - workflows
-stars: 1938
+stars: 1940
 language: JavaScript
 status: active
 license: CC0-1.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-11-02T15:54:00Z'
 pushed_at: '2026-07-10T12:16:13Z'
 resource_id: github:vonzosten/awesome-langgraph
-first_seen: '2026-08-01T09:24:23.502654+05:30'
-last_seen: '2026-08-01T09:24:23.502654+05:30'
-last_checked: '2026-08-01T09:24:23.502654+05:30'
+first_seen: '2026-08-01T14:09:24.442065+05:30'
+last_seen: '2026-08-01T14:09:24.442065+05:30'
+last_checked: '2026-08-01T14:09:24.442065+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 - **Comprehensive Ecosystem Index**: Curated collection of LangChain and LangGraph resources, including concepts, projects, tools, templates, and guides for building LLM and multi-agent applications.
 
-- **Technical Breadth**: Covers core components (e.g., workflows, state management) and practical implementations (e.g., agent frameworks, integrations) with JavaScript-centric tooling.
+- **Technical Focus**: Primarily JavaScript-based, with emphasis on AI-driven workflows, agent architectures, and LLM integration patterns.
 
-- **Active Maintenance**: Last updated July 31, 2026, with 1,938 stars and 247 forks, reflecting ongoing community engagement and updates.
+- **Active Maintenance**: Last updated in August 2026, ensuring relevance with ongoing updates to the LangGraph ecosystem.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vonzosten
-- Stars: 1938
+- Stars: 1940
 - Forks: 247
 - Language: JavaScript
 - Topics: ai, awesome, awesome-list, langchain, langgraph, llm, llm-agents
-- Last Updated: 2026-07-31T15:13:37Z
+- Last Updated: 2026-08-01T08:28:24Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2024-11-02T15:54:00Z

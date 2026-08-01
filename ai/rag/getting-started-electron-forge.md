@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://electronforge.io
-published_at: '2026-08-01T09:26:27.632078+05:30'
-collected_at: '2026-08-01T09:26:27.632087+05:30'
+published_at: '2026-08-01T14:11:17.721902+05:30'
+collected_at: '2026-08-01T14:11:17.721916+05:30'
 tags:
 - rag
 - web-crawled
 - workflows
 status: active
 resource_id: blog:getting-started-electron-forge
-first_seen: '2026-08-01T09:26:27.632087+05:30'
-last_seen: '2026-08-01T09:26:27.632087+05:30'
-last_checked: '2026-08-01T09:26:27.632087+05:30'
+first_seen: '2026-08-01T14:11:17.721916+05:30'
+last_seen: '2026-08-01T14:11:17.721916+05:30'
+last_checked: '2026-08-01T14:11:17.721916+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Electron Forge** provides a unified build pipeline for Electron apps, including code signing, installer generation, and artifact publishing, with extensibility via [Plugins](https://electronforge.io/config/plugins), [Makers](https://electronforge.io/config/makers), and [Publishers](https://electronforge.io/config/publishers).
-
-- **Packaging constraints**: Requires `node_modules` on disk; does not support Yarn PnP or symlinked dependencies. For Yarn ≥2, use `nodeLinker: node-modules`; for pnpm, set `node-linker=hoisted` in `.npmrc`.
-
-- **Initialization & templates**: Use `npx create-electron-app@latest my-app`; supports first-party templates (`webpack`, `vite`, etc.) for modern JS tooling, with custom template support via [Writing Templates](https://electronforge.io/advanced/extending-electron-forge/writing-templates).
+- **Electron Forge** is an all-in-one tool for packaging and distributing Electron applications, providing a full build pipeline with built-in support for code signing, installers, and artifact publishing.
+- **Packaging requires** `node_modules` **to be on disk** due to Forge's naive module resolution algorithm, which does not support symlinked dependencies or Yarn's Plug'n'Play (PnP) format; Yarn ≥2 must use `nodeLinker: node-modules` and pnpm must set `node-linker=hoisted` in `.npmrc`.
+- **Advanced workflows** can be customized via the Forge lifecycle using the [Plugin API](https://electronforge.io/config/plugins), with support for custom [Makers](https://electronforge.io/config/makers) and [Publishers](https://electronforge.io/config/publishers) for build and storage targets.
 
 ## Why It Matters
 
@@ -36,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T09:26:27.632078+05:30
+- Published: 2026-08-01T14:11:17.721902+05:30
 
 ## Related Tags
 

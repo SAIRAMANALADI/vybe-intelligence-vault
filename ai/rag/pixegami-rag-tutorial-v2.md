@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-08-01T09:20:48.325896+05:30'
+collected_at: '2026-08-01T14:05:49.264330+05:30'
 published_at: '2026-07-31T14:35:03Z'
 tags:
 - benchmark
 - github-repo
-- models
 - python
 - rag
+- workflows
 stars: 964
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-08-01T09:20:48.325896+05:30'
-last_seen: '2026-08-01T09:20:48.325896+05:30'
-last_checked: '2026-08-01T09:20:48.325896+05:30'
+first_seen: '2026-08-01T14:05:49.264330+05:30'
+last_seen: '2026-08-01T14:05:49.264330+05:30'
+last_checked: '2026-08-01T14:05:49.264330+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates deployment and fine-tuning of local large language models (LLMs) for retrieval-augmented generation (RAG) pipelines using Langchain.
+- **Local LLM Integration**: Demonstrates RAG workflows using locally hosted large language models (LLMs) for privacy and offline capability, leveraging frameworks like LangChain for orchestration.
 
-- **Dynamic Database Updates**: Implements mechanisms for real-time or periodic updates to the vector database (e.g., Chroma, FAISS) to ensure retrieval relevance with evolving data.
+- **Dynamic Database Updates**: Implements automated or incremental updates to the vector database (e.g., Chroma, FAISS) to ensure retrieval relevance without full reindexing, improving scalability.
 
-- **Testing & Evaluation Framework**: Includes structured testing methodologies (e.g., retrieval accuracy, response quality) to validate RAG system performance under varying conditions.
+- **Testing & Evaluation**: Includes structured testing pipelines (e.g., retrieval accuracy, response quality) with tools like `pytest` or custom scripts to validate RAG performance under varying conditions.
 
 ## Why It Matters
 

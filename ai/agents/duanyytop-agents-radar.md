@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/duanyytop/agents-radar
-collected_at: '2026-07-21T22:15:02.466087+05:30'
-published_at: '2026-07-21T15:25:13Z'
+collected_at: '2026-08-01T14:07:29.323923+05:30'
+published_at: '2026-08-01T02:10:15Z'
 tags:
 - agents
 - github-repo
@@ -13,18 +13,17 @@ tags:
 - producthunt
 - scripts
 - typescript
-- workflows
-stars: 913
+stars: 924
 language: TypeScript
 status: active
 license: MIT
 archived: false
 created_at: '2026-02-23T03:22:26Z'
-pushed_at: '2026-07-21T01:33:05Z'
+pushed_at: '2026-08-01T02:10:11Z'
 resource_id: github:duanyytop/agents-radar
-first_seen: '2026-07-21T22:15:02.466087+05:30'
-last_seen: '2026-07-21T22:15:02.466087+05:30'
-last_checked: '2026-07-21T22:15:02.466087+05:30'
+first_seen: '2026-08-01T14:07:29.323923+05:30'
+last_seen: '2026-08-01T14:07:29.323923+05:30'
+last_checked: '2026-08-01T14:07:29.323923+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Automated AI Ecosystem Aggregation**: Daily curation of AI-related updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions.
-- **Bilingual Report Generation**: Produces daily digests in both Chinese and English using automated workflows.
-- **Technical Stack**: Built in TypeScript, last updated on 2026-07-21 with 913 stars and 162 forks.
+*   Aggregates daily AI ecosystem data from 10 distinct sources including GitHub, ArXiv, and HuggingFace.
+*   Automates daily digest generation and reporting via GitHub Actions.
+*   Produces bilingual reports in Chinese (ZH) and English (EN).
 
 ## Why It Matters
 
@@ -43,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: duanyytop
-- Stars: 913
-- Forks: 162
+- Stars: 924
+- Forks: 164
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-07-21T15:25:13Z
+- Last Updated: 2026-08-01T02:10:15Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-23T03:22:26Z
-- Pushed At: 2026-07-21T01:33:05Z
+- Pushed At: 2026-08-01T02:10:11Z
 
 ## Possible Use Cases
 

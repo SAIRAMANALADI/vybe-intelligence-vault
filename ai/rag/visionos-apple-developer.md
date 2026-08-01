@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.apple.com/visionos/
-published_at: '2026-07-21T01:36:20.091619+05:30'
-collected_at: '2026-07-21T01:36:20.091640+05:30'
+published_at: '2026-08-01T14:16:13.939513+05:30'
+collected_at: '2026-08-01T14:16:13.939526+05:30'
 tags:
 - hackernews
 - producthunt
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:visionos-apple-developer
-first_seen: '2026-07-21T01:36:20.091640+05:30'
-last_seen: '2026-07-21T01:36:20.091640+05:30'
-last_checked: '2026-07-21T01:36:20.091640+05:30'
+first_seen: '2026-08-01T14:16:13.939526+05:30'
+last_seen: '2026-08-01T14:16:13.939526+05:30'
+last_checked: '2026-08-01T14:16:13.939526+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Spatial Computing Architecture**: visionOS supports multi-modal experiences via windows (2D SwiftUI), volumes (3D RealityKit/Unity), and full spaces (immersive environments), enabling seamless transitions between shared and dedicated environments with ARKit-driven spatial understanding (plane estimation, scene reconstruction, hand tracking).
+- **Spatial Computing Architecture**: visionOS supports multi-modal spatial experiences via **Windows** (SwiftUI-based 2D/3D hybrid UIs), **Volumes** (3D SwiftUI scenes with RealityKit/Unity integration), and **Spaces** (Shared Space for multi-app coexistence or Full Space for immersive single-app environments).
 
-- **Development Stack**: Native apps leverage SwiftUI with 3D depth, gestures, and immersive scene types, integrated with RealityKit for photorealistic rendering (MaterialX support) and ARKit for environmental interaction; Unity apps can deploy via AR Foundation with foveated rendering and passthrough.
+- **Core Frameworks & Tools**: Development leverages **SwiftUI** (with 3D/depth support), **RealityKit** (physically accurate 3D rendering with MaterialX), **ARKit** (environmental understanding, hand tracking, and spatial anchors), and **Reality Composer Pro** (3D asset creation/preview with Xcode integration).
 
-- **Tooling & Integration**: Xcode provides visionOS SDK, simulator, and Xcode Previews; Reality Composer Pro accelerates 3D asset creation with Live Preview; Apple Intelligence enables Siri/App Intents integration and on-device multimodal AI via Foundation Models framework.
+- **Apple Intelligence & Ecosystem Integration**: Supports **Apple Intelligence** via App Intents and Foundation Models for on-screen awareness, while Unity apps benefit from visionOS-specific features (e.g., passthrough, foveated rendering) via RealityKit-managed rendering.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T01:36:20.091619+05:30
+- Published: 2026-08-01T14:16:13.939513+05:30
 
 ## Related Tags
 

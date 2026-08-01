@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-08-01T09:21:08.389762+05:30'
+collected_at: '2026-08-01T14:06:09.302012+05:30'
 published_at: '2026-07-31T19:02:29Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-07-14T16:53:59Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-08-01T09:21:08.389762+05:30'
-last_seen: '2026-08-01T09:21:08.389762+05:30'
-last_checked: '2026-08-01T09:21:08.389762+05:30'
+first_seen: '2026-08-01T14:06:09.302012+05:30'
+last_seen: '2026-08-01T14:06:09.302012+05:30'
+last_checked: '2026-08-01T14:06:09.302012+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Document Chat Tool**: Open-source Python application enabling conversational interaction with documents via Retrieval-Augmented Generation (RAG), leveraging LLMs for contextual responses.
-- **Modular Architecture**: Supports customizable pipelines for document ingestion, embedding, retrieval, and generation, with pluggable components (e.g., vector stores, LLMs).
-- **Scalable Deployment**: Designed for extensibility with APIs, Docker support, and integration with frameworks like LangChain, optimized for production-grade document processing.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational AI, leveraging LLMs for contextual responses.
+- **Modular Python Framework**: Built with Python, supporting extensible components for document ingestion, retrieval, and LLM interaction.
+- **Open-Source & Document-Centric**: Designed for local or cloud deployment, enabling secure, private document interactions with customizable retrieval pipelines.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: Cinnamon
 - Stars: 25673
-- Forks: 2139
+- Forks: 2141
 - Language: Python
 - Topics: chatbot, llms, open-source, rag
 - Last Updated: 2026-07-31T19:02:29Z

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-08-01T09:21:53.396017+05:30'
+collected_at: '2026-08-01T14:06:54.351584+05:30'
 published_at: '2026-07-31T02:19:14Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-08-01T09:21:53.396017+05:30'
-last_seen: '2026-08-01T09:21:53.396017+05:30'
-last_checked: '2026-08-01T09:21:53.396017+05:30'
+first_seen: '2026-08-01T14:06:54.351584+05:30'
+last_seen: '2026-08-01T14:06:54.351584+05:30'
+last_checked: '2026-08-01T14:06:54.351584+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmarking framework and synthetic dataset for evaluating Retrieval-Augmented Generation (RAG) systems on enterprise internal documents, enabling standardized assessment of retrieval and generation performance.
+- **Benchmark & Dataset**: EnterpriseRAG-Bench provides a curated dataset and evaluation framework for Retrieval-Augmented Generation (RAG) systems tailored to company internal documents, enabling standardized assessment of performance in enterprise contexts.
 
-- **Key Features**: Includes synthetic data generation for knowledge bases, enterprise-specific evaluation metrics, and tools for assessing RAG pipelines in private document contexts.
+- **Synthetic Data Generation**: Implements synthetic data generation techniques to create realistic internal document corpora, facilitating controlled experimentation and reproducibility in RAG evaluations.
 
-- **Technical Scope**: Supports Python-based evaluation of LLM-driven QA systems, semantic search, and information retrieval, with a focus on enterprise use cases like internal knowledge bases and document search.
+- **Multi-Task Evaluation**: Supports comprehensive evaluation across key RAG dimensions (retrieval accuracy, answer correctness, hallucination detection, and latency) with Python-based tooling for automated benchmarking.
 
 ## Why It Matters
 

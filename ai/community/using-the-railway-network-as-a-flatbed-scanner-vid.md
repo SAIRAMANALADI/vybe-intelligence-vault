@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - youtube
-status: active
+status: inactive
 resource_id: hackernews:using-the-railway-network-as-a-flatbed-scanner-vid
 first_seen: '2026-08-01T01:22:50.183299+05:30'
 last_seen: '2026-08-01T09:19:51.145588+05:30'
 last_checked: '2026-08-01T09:19:51.145588+05:30'
 health_score: 100
 ---
+
 
 # Using the railway network as a flatbed scanner [video]
 

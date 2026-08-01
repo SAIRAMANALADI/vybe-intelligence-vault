@@ -9,24 +9,24 @@ Retrieval-Augmented Generation (RAG) grounds LLM completions in private document
 ## Top Matched Resources
 
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (dataset - ESSENTIAL Tier)
-- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) (dataset - ESSENTIAL Tier)
+- [Pinecone · GitHub](https://github.com/pinecone-io) (framework - ESSENTIAL Tier)
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
+- [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (benchmark - ESSENTIAL Tier)
+- [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page-----dba899ae0355---------------------------------------) (framework - ESSENTIAL Tier)
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (framework - ESSENTIAL Tier)
 - [LlamaIndex · GitHub](https://github.com/run-llama/) (framework - ESSENTIAL Tier)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
-- [mongodb · GitHub](https://github.com/mongodb) (tutorial - ESSENTIAL Tier)
-- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) (template - ESSENTIAL Tier)
-- [Neo4j · GitHub](https://github.com/neo4j) (framework - ESSENTIAL Tier)
-- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/run-llama/llama_index (LlamaIndex)
 https://github.com/langchain-ai/langchain (LangChain)
 https://github.com/microsoft/graphrag (GraphRAG)
-- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG)
-- [LlamaIndex · GitHub](https://github.com/run-llama/)
-- [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
-- [mongodb · GitHub](https://github.com/mongodb)
-- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)
+- [Pinecone · GitHub](https://github.com/pinecone-io)
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
+- [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
+- [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page-----dba899ae0355---------------------------------------)
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/microsoft/graphrag (GraphRAG)
 
 ---
 
-*Last updated: 2026-08-01 09:38 IST*
+*Last updated: 2026-08-01 14:23 IST*

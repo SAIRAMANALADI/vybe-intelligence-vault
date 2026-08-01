@@ -4,14 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/coree/awesome-rag
-collected_at: '2026-08-01T09:21:43.371459+05:30'
-published_at: '2026-07-30T11:11:44Z'
+collected_at: '2026-08-01T14:06:44.298158+05:30'
+published_at: '2026-08-01T07:38:22Z'
 tags:
 - github-repo
 - hackernews
+- models
+- paper
 - rag
 - unknown
-stars: 430
+stars: 431
 language: Unknown
 status: active
 license: CC0-1.0
@@ -19,9 +21,9 @@ archived: false
 created_at: '2024-02-10T12:01:04Z'
 pushed_at: '2025-12-01T08:45:44Z'
 resource_id: github:coree/awesome-rag
-first_seen: '2026-08-01T09:21:43.371459+05:30'
-last_seen: '2026-08-01T09:21:43.371459+05:30'
-last_checked: '2026-08-01T09:21:43.371459+05:30'
+first_seen: '2026-08-01T14:06:44.298158+05:30'
+last_seen: '2026-08-01T14:06:44.298158+05:30'
+last_checked: '2026-08-01T14:06:44.298158+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-*   Curated resource list for Retrieval-Augmented Generation (RAG) within Large Language Models (LLMs).
-*   Encompasses technical materials related to RAG model architectures and implementations.
-*   Covers core RAG components, including embeddings and retrieval systems.
+- Curated repository of **Retrieval-Augmented Generation (RAG)** resources, tools, and research papers for large language models (LLMs).
+- Includes categories such as **embeddings, retrieval systems, LLM fine-tuning, and RAG model architectures**.
+- Last updated **August 2026**, with 431 stars and 53 forks, covering foundational to advanced RAG techniques.
 
 ## Why It Matters
 
@@ -40,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: coree
-- Stars: 430
+- Stars: 431
 - Forks: 53
 - Language: Unknown
 - Topics: awesome-list, awesome-resources, embeddings, large-language-models, llm, rag, rag-model, retrieval-augmented, retrieval-augmented-generation, retrieval-systems
-- Last Updated: 2026-07-30T11:11:44Z
+- Last Updated: 2026-08-01T07:38:22Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2024-02-10T12:01:04Z

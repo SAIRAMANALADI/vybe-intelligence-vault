@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://changelog.langchain.com/
-published_at: '2026-07-21T22:18:33.337343+05:30'
-collected_at: '2026-07-21T22:18:33.337363+05:30'
+published_at: '2026-08-01T14:10:33.842652+05:30'
+collected_at: '2026-08-01T14:10:33.842666+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langsmith-cloud-changelog-docs-by-langchain
-first_seen: '2026-07-21T22:18:33.337363+05:30'
-last_seen: '2026-07-21T22:18:33.337363+05:30'
-last_checked: '2026-07-21T22:18:33.337363+05:30'
+first_seen: '2026-08-01T14:10:33.842666+05:30'
+last_seen: '2026-08-01T14:10:33.842666+05:30'
+last_checked: '2026-08-01T14:10:33.842666+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Datasets & Experiments Enhancements**: Improved experiment comparison views with accurate truncation, dynamic split chips, and real-time split assignments; added `langsmith evaluator create-llm` for structured LLM-as-judge evaluators; enforced evaluator caps per workspace; fixed evaluator timeout handling and dataset example creation from source runs.
+- **Deprecation & Migration**: Legacy feedback formula endpoints (`POST/GET /feedback/formulas`) deprecated in favor of composite evaluators (code evaluator + run rule), with removal scheduled for 2026-08-20; migration required.
 
-- **Tracing & Observability Updates**: Enforced monthly trace limits per project/user; improved public run sharing and OpenTelemetry trace rendering (e.g., Vercel AI SDK, VS Code Copilot Chat); added project UUID support in LangSmith MCP tools; preserved traces in multipart ingestion batches despite oversized inputs.
+- **Enhanced Experiment & Evaluator Features**: Experiment comparison views now show live dataset splits, improved evaluator spend charts, and support for PEP 604 union return types in code evaluators; added `langsmith evaluator create-llm` for structured LLM-as-judge evaluators.
 
-- **API & UI Optimizations**: Added batch item limits (200) for annotation queues; improved evaluator spend chart readability; enforced dataset download permissions; optimized bulk export compression (zstd by default); fixed duplicate run conflict messages and non-primitive metadata display in run details.
+- **Performance & Security Updates**: Enforced monthly trace limits per project/user, improved batch ingestion handling for oversized inputs, and added user-defined permissions for dataset downloads; optimized experiment table rendering and evaluator timeouts.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T22:18:33.337343+05:30
+- Published: 2026-08-01T14:10:33.842652+05:30
 
 ## Related Tags
 

@@ -11,11 +11,11 @@ authors:
 - Tu Ao
 - Chao Huang
 year: 2024
-citation_count: 391
+citation_count: 395
 code_url: None
 stars: N/A
 published_at: '2024-01-01T00:00:00Z'
-collected_at: '2026-07-31T01:21:35.789378+05:30'
+collected_at: '2026-08-01T14:04:53.281960+05:30'
 tags:
 - augmented
 - generation
@@ -26,8 +26,8 @@ tags:
 status: active
 resource_id: blog:lightrag-simple-and-fast-retrieval-augmented-gener
 first_seen: '2026-07-19T16:15:03.003854+05:30'
-last_seen: '2026-07-31T01:21:35.789378+05:30'
-last_checked: '2026-07-31T01:21:35.789378+05:30'
+last_seen: '2026-08-01T14:04:53.281960+05:30'
+last_checked: '2026-08-01T14:04:53.281960+05:30'
 health_score: 100
 ---
 
@@ -45,7 +45,7 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 - Authors: Zirui Guo, Lianghao Xia, Yanhua Yu, Tu Ao, Chao Huang
 - Publication Year: 2024
-- Citation Count: 391
+- Citation Count: 395
 - Paper Link: https://semanticscholar.org/paper/1ea143c34b9bc359780f79ba4d68dee68bcc1129
 - Code Link: None
 - Code Stars: N/A

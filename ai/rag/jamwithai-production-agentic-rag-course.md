@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jamwithai/production-agentic-rag-course
-collected_at: '2026-08-01T09:22:08.389103+05:30'
-published_at: '2026-07-31T19:46:30Z'
+collected_at: '2026-08-01T14:07:09.293190+05:30'
+published_at: '2026-08-01T07:03:16Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - python
 - rag
 - workflows
-stars: 8193
+stars: 8194
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-08-06T19:52:50Z'
 pushed_at: '2026-06-05T07:23:49Z'
 resource_id: github:jamwithai/production-agentic-rag-course
-first_seen: '2026-08-01T09:22:08.389103+05:30'
-last_seen: '2026-08-01T09:22:08.389103+05:30'
-last_checked: '2026-08-01T09:22:08.389103+05:30'
+first_seen: '2026-08-01T14:07:09.293190+05:30'
+last_seen: '2026-08-01T14:07:09.293190+05:30'
+last_checked: '2026-08-01T14:07:09.293190+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Course Repository**: GitHub repository (`jamwithai/production-agentic-rag-course`) focused on production-grade Agentic RAG (Retrieval-Augmented Generation) systems, with 8,193 stars and 1,816 forks.
-- **Technical Stack**: Implemented in Python, targeting scalable, production-ready RAG architectures with agentic workflows.
-- **Last Updated**: Repository last modified on **July 31, 2026**, indicating active development or maintenance.
+- **Repository Overview**: A Python-based course repository focused on production-level agentic RAG (Retrieval-Augmented Generation) systems, with 8,194 stars and 1,816 forks.
+- **Technical Scope**: Implicitly targets advanced RAG pipelines, likely covering agentic workflows, scalability, and deployment in production environments.
+- **Last Activity**: Most recent update on **2026-08-01**, indicating active maintenance or future development.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: jamwithai
-- Stars: 8193
+- Stars: 8194
 - Forks: 1816
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-31T19:46:30Z
+- Last Updated: 2026-08-01T07:03:16Z
 - License: MIT
 - Archived: No
 - Created At: 2025-08-06T19:52:50Z

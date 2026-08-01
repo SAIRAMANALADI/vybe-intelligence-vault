@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink&referrer=utm_source%3Dplayhelpcenter
-published_at: '2026-07-09T21:13:28.798276+05:30'
-collected_at: '2026-07-09T21:13:28.798288+05:30'
+published_at: '2026-08-01T14:16:08.057134+05:30'
+collected_at: '2026-08-01T14:16:08.057147+05:30'
 tags:
 - hackernews
 - reddit
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:google-family-link-apps-on-google-play
-first_seen: '2026-07-09T21:13:28.798288+05:30'
-last_seen: '2026-07-09T21:13:28.798288+05:30'
-last_checked: '2026-07-09T21:13:28.798288+05:30'
+first_seen: '2026-08-01T14:16:08.057147+05:30'
+last_seen: '2026-08-01T14:16:08.057147+05:30'
+last_checked: '2026-08-01T14:16:08.057147+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Parental Control Framework**: Google Family Link enables granular screen time management (daily limits, school/downtime schedules), app-level restrictions (time limits, blocking), and content filtering across Google services (Chrome, Play Store, YouTube, Search) for supervised child accounts.
+- **Parental Control Framework**: Google Family Link provides granular parental controls for supervised Google accounts, enabling screen time limits, app management (including blocking/unblocking), and content filtering across Google services (Chrome, Play, YouTube, Search).
 
-- **Location & Security Monitoring**: Real-time device location tracking (requires active internet/WiFi), geofenced alerts (arrival/departure notifications), and remote device management (ring, battery status, password resets) with data encrypted in transit.
+- **Location & Security Monitoring**: The app offers real-time device location tracking (dependent on power/connectivity), location-based notifications (arrival/departure alerts), and account management tools (password resets, data deletion, permission controls).
 
-- **Data Handling & Limitations**: Collects personal/financial data but prohibits third-party sharing; parental controls exclude auto-updates, pre-installed apps (e.g., Google Play), and non-Google Play billing systems, with location tracking dependent on device power/connectivity.
+- **Data Handling & Limitations**: No third-party data sharing; collects personal/financial data encrypted in transit with deletion requests supported. Key limitations include lack of approval for app updates/pre-approved apps, compatibility restrictions, and inability to disable certain pre-installed system apps.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-09T21:13:28.798276+05:30
+- Published: 2026-08-01T14:16:08.057134+05:30
 
 ## Related Tags
 

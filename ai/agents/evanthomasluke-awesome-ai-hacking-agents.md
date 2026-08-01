@@ -4,23 +4,22 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EvanThomasLuke/Awesome-AI-Hacking-Agents
-collected_at: '2026-08-01T09:23:23.449739+05:30'
-published_at: '2026-07-31T18:09:24Z'
+collected_at: '2026-08-01T14:08:24.389556+05:30'
+published_at: '2026-08-01T06:15:15Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - unknown
-stars: 621
+stars: 622
 language: Unknown
 status: active
 archived: false
 created_at: '2026-02-06T02:08:01Z'
 pushed_at: '2026-07-29T00:06:34Z'
 resource_id: github:evanthomasluke/awesome-ai-hacking-agents
-first_seen: '2026-08-01T09:23:23.449739+05:30'
-last_seen: '2026-08-01T09:23:23.449739+05:30'
-last_checked: '2026-08-01T09:23:23.449739+05:30'
+first_seen: '2026-08-01T14:08:24.389556+05:30'
+last_seen: '2026-08-01T14:08:24.389556+05:30'
+last_checked: '2026-08-01T14:08:24.389556+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,8 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Curated list of AI-driven hacking agents, tools, and frameworks for offensive security research and penetration testing.
-- **Metadata**: 621 stars, 95 forks, last updated July 31, 2026; language and topics unspecified.
-- **Purpose**: Centralized resource for AI-powered cybersecurity tools, likely including autonomous exploit generation, vulnerability scanning, and adversarial AI techniques.
+*   Catalogs AI agents engineered for offensive cybersecurity operations.
+*   Serves as
 
 ## Why It Matters
 
@@ -39,11 +37,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: EvanThomasLuke
-- Stars: 621
+- Stars: 622
 - Forks: 95
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-31T18:09:24Z
+- Last Updated: 2026-08-01T06:15:15Z
 - Archived: No
 - Created At: 2026-02-06T02:08:01Z
 - Pushed At: 2026-07-29T00:06:34Z

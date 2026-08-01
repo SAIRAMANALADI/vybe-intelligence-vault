@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-08-01T09:20:53.385583+05:30'
+collected_at: '2026-08-01T14:05:54.328435+05:30'
 published_at: '2026-07-27T01:59:34Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-08-01T09:20:53.385583+05:30'
-last_seen: '2026-08-01T09:20:53.385583+05:30'
-last_checked: '2026-08-01T09:20:53.385583+05:30'
+first_seen: '2026-08-01T14:05:54.328435+05:30'
+last_seen: '2026-08-01T14:05:54.328435+05:30'
+last_checked: '2026-08-01T14:05:54.328435+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook examples for integrating vector search with LLMs (e.g., GPT-4-Vision, Llama-Index) to build Retrieval-Augmented Generation (RAG) systems and multimodal AI pipelines.
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples and tutorials for integrating vector search with LLMs (e.g., GPT-4 Vision, LangChain, LlamaIndex) to build Retrieval-Augmented Generation (RAG) systems and multimodal AI applications.
 
-- **Vector Database Recipes**: Demonstrates practical use cases of LanceDB (a vector database) for efficient similarity search, embeddings management, and hybrid retrieval in AI/ML workflows.
+- **Vector Database Recipes**: Demonstrates practical use cases leveraging LanceDB (a vector database) for efficient embedding storage, retrieval, and fine-tuning workflows in deep-learning pipelines.
 
-- **Agent & Fine-Tuning Workflows**: Includes tutorials on deploying AI agents, fine-tuning models, and leveraging LangChain for end-to-end pipelines combining LLMs, embeddings, and vector databases.
+- **Agent & Tool Integration**: Includes recipes for deploying AI agents with OpenAI APIs, embedding models, and vector search to enable autonomous or semi-autonomous task execution in machine-learning workflows.
 
 ## Why It Matters
 

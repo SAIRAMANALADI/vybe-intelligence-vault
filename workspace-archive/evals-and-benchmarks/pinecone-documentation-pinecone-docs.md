@@ -2,7 +2,7 @@
 title: Pinecone documentation - Pinecone Docs
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://docs.pinecone.io
+source_url: https://docs.pinecone.io/
 resource_id: blog:pinecone-documentation-pinecone-docs
 local_vault_path: ai/rag/pinecone-documentation-pinecone-docs.md
 quality_score: 70
@@ -17,7 +17,6 @@ tags:
 - models
 - rag
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -37,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- Pinecone is a vector database optimized for AI applications, enabling semantic search, knowledge retrieval, and scalable long-term memory storage.
-- Supports integration via IDEs/CLIs (e.g., Claude Code, Cursor), MCP server for agent compatibility, and APIs/SDKs for programmatic access.
-- Offers quickstart guides, example notebooks, third-party integrations (LangChain, LlamaIndex), and release notes for AI-driven workflows.
+- Pinecone is a scalable vector database optimized for semantic search, knowledge retrieval, and long-term memory in AI applications.
+
+- Supports quickstarts for database integration, AI assistant creation, and no-code knowledge app publishing via templates.
+
+- Provides IDE/CLI tools, MCP server compatibility, API/SDK references, and integrations with frameworks like LangChain and LlamaIndex.
 
 ## Use Cases
 
@@ -49,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.pinecone.io
+Original source URL: https://docs.pinecone.io/
 
 ## Local Vault File
 

@@ -3,10 +3,8 @@ title: neuml/txtai
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/neuml/txtai?source=post_page
-resource_id: github:neuml/txtai
------dba899ae0355---------------------------------------
-collected_at: '2026-08-01T09:24:58.599486+05:30'
+source_url: https://github.com/neuml/txtai
+collected_at: '2026-08-01T14:09:59.522180+05:30'
 published_at: '2026-08-01T02:40:50Z'
 tags:
 - agents
@@ -14,7 +12,6 @@ tags:
 - hackernews
 - python
 - rag
-- scripts
 - workflows
 stars: 12771
 language: Python
@@ -24,9 +21,9 @@ archived: false
 created_at: '2020-08-09T19:14:59Z'
 pushed_at: '2026-07-30T21:50:01Z'
 resource_id: github:neuml/txtai
-first_seen: '2026-08-01T09:24:58.599486+05:30'
-last_seen: '2026-08-01T09:24:58.599486+05:30'
-last_checked: '2026-08-01T09:24:58.599486+05:30'
+first_seen: '2026-08-01T14:09:59.522180+05:30'
+last_seen: '2026-08-01T14:09:59.522180+05:30'
+last_checked: '2026-08-01T14:09:59.522180+05:30'
 health_score: 100
 ---
 
@@ -34,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system for end-to-end AI applications.
+- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system, supporting agents, RAG, and vector search.
 
-- **Key Capabilities**: Supports embeddings, vector search, retrieval-augmented generation (RAG), and transformer-based NLP tasks with built-in agents and pipeline automation.
+- **Key Features**: Implements sentence embeddings, transformers, and vector databases for efficient information retrieval, with support for NLP pipelines and large language models.
 
-- **Technical Stack**: Leverages sentence embeddings, vector databases, and large language models (LLMs) for high-performance information retrieval and generative AI workflows.
+- **Technical Stack**: Built in Python with modular components for embeddings, retrieval, and LLM integration, optimized for semantic search and vector-based operations.
 
 ## Why It Matters
 
@@ -73,4 +70,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/neuml/txtai?source=post_page-----dba899ae0355---------------------------------------
+Original source: https://github.com/neuml/txtai

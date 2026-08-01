@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/alfredodeza/azure-rag
-collected_at: '2026-08-01T09:21:18.351448+05:30'
+collected_at: '2026-08-01T14:06:19.281414+05:30'
 published_at: '2026-04-23T18:04:11Z'
 tags:
 - github-repo
 - openai
 - python
 - rag
-- workflows
 stars: 53
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2023-12-26T16:03:29Z'
 pushed_at: '2024-01-03T12:16:36Z'
 resource_id: github:alfredodeza/azure-rag
-first_seen: '2026-08-01T09:21:18.351448+05:30'
-last_seen: '2026-08-01T09:21:18.351448+05:30'
-last_checked: '2026-08-01T09:21:18.351448+05:30'
+first_seen: '2026-08-01T14:06:19.281414+05:30'
+last_seen: '2026-08-01T14:06:19.281414+05:30'
+last_checked: '2026-08-01T14:06:19.281414+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Demonstrates a Retrieval Augmented Generation (RAG) implementation using Azure services, leveraging Python for AI-driven document retrieval and generation workflows.
-
-- **Key Components**: Integrates Azure AI Search for document retrieval and Azure OpenAI for generative AI, enabling context-aware responses from indexed data.
-
-- **Repository Status**: Last updated in April 2026, with 53 stars and 229 forks, indicating active community engagement and potential for further development.
+- **Purpose**: Demonstrates Retrieval Augmented Generation (RAG) implementation using Azure services (e.g., Azure Cognitive Search, OpenAI) to enhance LLM responses with retrieved data.
+- **Tech Stack**: Python-based, leveraging Azure SDKs for search/indexing and OpenAI APIs for generation.
+- **Key Features**: Includes vector search, document retrieval, and prompt augmentation for contextual LLM outputs.
 
 ## Why It Matters
 
@@ -44,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: alfredodeza
 - Stars: 53
-- Forks: 229
+- Forks: 230
 - Language: Python
 - Topics: None
 - Last Updated: 2026-04-23T18:04:11Z

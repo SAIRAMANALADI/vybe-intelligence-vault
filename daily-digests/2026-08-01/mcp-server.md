@@ -1,19 +1,34 @@
 ---
-title: "Correctover/mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "TypeScript", "Node.js", "MCP Protocol", "FastAPI", "NPM", "PyPI", "Docker", "JSON Schema", "LLM APIs (OpenAI, Anthropic, DeepSeek, etc.)"]
+title: Correctover/mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-08-01
+tech_stack:
+- Python
+- TypeScript
+- Node.js
+- MCP Protocol
+- FastAPI
+- NPM
+- PyPI
+- Docker
+- JSON Schema
+- LLM APIs (OpenAI, Anthropic, DeepSeek, etc.)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["runtime security", "MCP validation", "AI agent governance", "failover automation", "conformance standard"]
-source: "https://github.com/Correctover/mcp-server"
+deployment_complexity: Medium
+tags:
+- runtime security
+- MCP validation
+- AI agent governance
+- failover automation
+- conformance standard
+source: https://github.com/Correctover/mcp-server
 stars: 1
-language: "Python"
-last_updated: "2026-07-17T10:42:59Z"
-discovered_at: "2026-07-17T10:46:36Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-17T10:42:59Z'
+discovered_at: '2026-07-17T10:46:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

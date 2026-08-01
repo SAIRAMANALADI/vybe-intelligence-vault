@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Optimized Dependency Management**: Uses a strict, non-duplicative dependency resolution algorithm (content-addressable storage) to minimize disk usage and installation time by avoiding redundant package copies.
-
-- **Enhanced Security & Control**: Implements `minimumReleaseAge` to delay dependency updates, reducing supply chain attack risks; removes postinstall scripts by default, mitigating a major attack vector.
-
-- **Monorepo & Runtime Support**: Provides built-in workspace support for larg
+- **Optimized Dependency Management**: pnpm uses a content-addressable store to avoid redundant downloads and disk usage, reducing installation time and storage overhead by sharing dependencies across projects.
+- **Strict Dependency Resolution**: Enforces strict dependency isolation via symlinks, preventing dependency hoisting and mitigating supply chain attacks by blocking postinstall scripts.
+- **Monorepo & Workspace Support**: Native workspace protocol enables efficient multi-package manageme
 
 ## Use Cases
 

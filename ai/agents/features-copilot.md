@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/copilot/cli
-published_at: '2026-08-01T09:27:12.228902+05:30'
-collected_at: '2026-08-01T09:27:12.228909+05:30'
+published_at: '2026-08-01T14:12:27.576252+05:30'
+collected_at: '2026-08-01T14:12:27.576264+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-08-01T09:27:12.228909+05:30'
-last_seen: '2026-08-01T09:27:12.228909+05:30'
-last_checked: '2026-08-01T09:27:12.228909+05:30'
+first_seen: '2026-08-01T14:12:27.576264+05:30'
+last_seen: '2026-08-01T14:12:27.576264+05:30'
+last_checked: '2026-08-01T14:12:27.576264+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent orchestration**: GitHub Copilot CLI enables parallelized subagent execution via `/fleet`, allowing concurrent task processing across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching and result convergence.
+- **Multi-agent orchestration**: Copilot CLI enables parallelized subagent execution via `/fleet`, allowing concurrent task processing with model switching via `/model`, and supports multi-agent workflows for decision convergence.
 
-- **Native GitHub integration**: Built on GitHub’s Model Context Protocol (MCP), it directly interacts with issues, PRs, branches, and labels while enforcing org-specific policies (branch protections, required checks) without additional setup.
+- **GitHub-native integration**: Built on GitHub’s `/mcp` protocol, it directly interacts with issues, PRs, and branches while inheriting organization policies (branch protections, governance) and enabling seamless transitions between CLI, VS Code, and GitHub.com.
 
-- **Terminal-to-IDE workflow**: Supports `/plan` for task outlining, `/resume` for session persistence, and seamless transitions to VS Code for refinement, with autonomous execution via `/delegate` (e.g., branch creation, PR generation) under explicit user approval.
+- **Session persistence & security**: Maintains context across sessions via `/resume` and memory compaction, requires explicit approval for file/command execution, and integrates with Copilot’s existing security/compliance frameworks (Business/Enterprise policies enforced automatically).
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-01T09:27:12.228902+05:30
+- Published: 2026-08-01T14:12:27.576252+05:30
 
 ## Related Tags
 

@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
-collected_at: '2026-08-01T09:21:48.375324+05:30'
+collected_at: '2026-08-01T14:06:49.304670+05:30'
 published_at: '2026-07-31T14:06:35Z'
 tags:
 - benchmark
 - dataset
 - github-repo
 - hackernews
-- paper
 - python
 - rag
 stars: 471
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-06-09T03:34:06Z'
 pushed_at: '2026-06-07T02:17:59Z'
 resource_id: github:graphrag-bench/graphrag-benchmark
-first_seen: '2026-08-01T09:21:48.375324+05:30'
-last_seen: '2026-08-01T09:21:48.375324+05:30'
-last_checked: '2026-08-01T09:21:48.375324+05:30'
+first_seen: '2026-08-01T14:06:49.304670+05:30'
+last_seen: '2026-08-01T14:06:49.304670+05:30'
+last_checked: '2026-08-01T14:06:49.304670+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: Provides a standardized framework for evaluating GraphRAG (Graph Retrieval-Augmented Generation) models, including datasets and metrics for assessing performance in graph-based RAG tasks.
-- **Technical Focus**: Implements methodologies from the ICLR'26 paper *"When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation"* to analyze and compare graph-based vs. non-graph RAG approaches.
-- **Python Implementation**: Open-source repository with Python-based tools for dataset generation, model evaluation, and result analysis, supporting reproducibility and extensibility.
+- **Benchmark Suite**: Provides a standardized evaluation framework for Graph Retrieval-Augmented Generation (GraphRAG) models, including datasets and metrics for assessing performance across diverse tasks.
+
+- **Technical Scope**: Focuses on analyzing when and how graph structures enhance RAG systems, covering retrieval strategies, indexing methods, and contextual reasoning in generative models.
+
+- **Implementation**: Python-based repository with modular components for graph construction, retrieval, and evaluation, supporting reproducibility and extensibility for ICLR'26 research.
 
 ## Why It Matters
 

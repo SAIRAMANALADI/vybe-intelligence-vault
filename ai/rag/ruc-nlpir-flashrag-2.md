@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/RUC-NLPIR/FlashRAG
-collected_at: '2026-08-01T09:21:48.370754+05:30'
+collected_at: '2026-08-01T14:06:49.417400+05:30'
 published_at: '2026-07-31T09:42:05Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-03-14T01:40:33Z'
 pushed_at: '2026-07-19T10:20:30Z'
 resource_id: github:ruc-nlpir/flashrag
-first_seen: '2026-08-01T09:21:48.370754+05:30'
-last_seen: '2026-08-01T09:21:48.370754+05:30'
-last_checked: '2026-08-01T09:21:48.370754+05:30'
+first_seen: '2026-08-01T14:06:49.417400+05:30'
+last_seen: '2026-08-01T14:06:49.417400+05:30'
+last_checked: '2026-08-01T14:06:49.417400+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit optimized for fast Retrieval-Augmented Generation (RAG) research, leveraging efficient algorithms and data structures to accelerate experimentation and deployment.
+- **Efficient RAG Framework**: FlashRAG is a Python-based toolkit optimized for fast and scalable Retrieval-Augmented Generation (RAG) research, leveraging efficient algorithms and data structures to accelerate experiments.
 
-- **Comprehensive Benchmarking**: Includes built-in support for standardized RAG benchmarks and datasets, enabling reproducible evaluation of retrieval and generation components across diverse tasks.
+- **Comprehensive Benchmarking**: Includes built-in support for standardized RAG benchmarks and datasets, enabling reproducible evaluations across retrieval, generation, and end-to-end RAG pipelines.
 
-- **Modular & Extensible**: Designed with modularity in mind, supporting custom retrieval strategies, model integrations, and pipeline configurations for rapid prototyping and advanced RAG system development.
+- **Modular & Extensible**: Designed with modular components for retrieval, reranking, and generation, allowing customization for novel RAG architectures and seamless integration with LLMs.
 
 ## Why It Matters
 

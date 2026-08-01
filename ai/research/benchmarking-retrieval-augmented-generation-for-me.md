@@ -10,11 +10,11 @@ authors:
 - Zhiyong Lu
 - Aidong Zhang
 year: 2024
-citation_count: 577
+citation_count: 578
 code_url: None
 stars: N/A
 published_at: '2024-01-01T00:00:00Z'
-collected_at: '2026-07-31T01:21:35.789367+05:30'
+collected_at: '2026-08-01T14:04:53.281948+05:30'
 tags:
 - augmented
 - benchmark
@@ -30,8 +30,8 @@ tags:
 status: active
 resource_id: blog:benchmarking-retrieval-augmented-generation-for-me
 first_seen: '2026-07-19T16:15:03.003841+05:30'
-last_seen: '2026-07-31T01:21:35.789367+05:30'
-last_checked: '2026-07-31T01:21:35.789367+05:30'
+last_seen: '2026-08-01T14:04:53.281948+05:30'
+last_checked: '2026-08-01T14:04:53.281948+05:30'
 health_score: 100
 ---
 
@@ -49,7 +49,7 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 - Authors: Guangzhi Xiong, Qiao Jin, Zhiyong Lu, Aidong Zhang
 - Publication Year: 2024
-- Citation Count: 577
+- Citation Count: 578
 - Paper Link: https://semanticscholar.org/paper/b798cf6af813638fab09a8af6ad0f3df6c241485
 - Code Link: None
 - Code Stars: N/A

@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/golang/go
 hn_url: https://news.ycombinator.com/item?id=49127031
-score: 133
+score: 149
 author: jabits
-comments_count: 81
+comments_count: 116
 published_at: '2026-08-01T00:09:47+05:30'
-collected_at: '2026-08-01T09:19:50.421904+05:30'
+collected_at: '2026-08-01T14:04:54.436680+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: github:golang/go
 first_seen: '2026-08-01T01:22:49.282397+05:30'
-last_seen: '2026-08-01T09:19:50.421904+05:30'
-last_checked: '2026-08-01T09:19:50.421904+05:30'
+last_seen: '2026-08-01T14:04:54.436680+05:30'
+last_checked: '2026-08-01T14:04:54.436680+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by jabits. Score: 133, Comments: 81.
+Hacker News story by jabits. Score: 149, Comments: 116.
 Original Link: https://github.com/golang/go/issues/80590
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: jabits
-- Score: 133 Upvotes
-- Comments: 81 Discussions
+- Score: 149 Upvotes
+- Comments: 116 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49127031
 - Original Article: https://github.com/golang/go
 

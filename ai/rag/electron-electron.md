@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/electron/electron
-collected_at: '2026-08-01T09:26:27.003872+05:30'
-published_at: '2026-08-01T03:47:03Z'
+collected_at: '2026-08-01T14:11:21.769774+05:30'
+published_at: '2026-08-01T08:14:57Z'
 tags:
 - c++
 - github-repo
-- hackernews
 - rag
 stars: 122279
 language: C++
@@ -19,9 +18,9 @@ archived: false
 created_at: '2013-04-12T01:47:36Z'
 pushed_at: '2026-08-01T03:45:28Z'
 resource_id: github:electron/electron
-first_seen: '2026-08-01T09:26:27.003872+05:30'
-last_seen: '2026-08-01T09:26:27.003872+05:30'
-last_checked: '2026-08-01T09:26:27.003872+05:30'
+first_seen: '2026-08-01T14:11:21.769774+05:30'
+last_seen: '2026-08-01T14:11:21.769774+05:30'
+last_checked: '2026-08-01T14:11:21.769774+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Cross-platform desktop app framework** leveraging Chromium, Node.js, and V8 engine to build apps using JavaScript, HTML, and CSS.
-- **C++ core** with bindings to JavaScript/Node.js, enabling native performance and access to low-level system APIs.
-- **Active development** with 122K+ stars and 17K+ forks, last updated Aug 2026, supporting modern web technologies and CodeSpaces integration.
+- **Cross-platform desktop framework** leveraging Chromium, Node.js, and V8 to build native apps using HTML, CSS, and JavaScript.
+- **Core architecture** integrates Blink (rendering engine), Node.js (backend runtime), and a custom C++ API for OS-level interactions.
+- **Performance-critical components** include multi-process sandboxing, IPC (Inter-Process Communication), and GPU acceleration for rendering.
 
 ## Why It Matters
 
@@ -41,10 +40,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: electron
 - Stars: 122279
-- Forks: 17372
+- Forks: 17371
 - Language: C++
 - Topics: c-plus-plus, chrome, css, electron, html, javascript, nodejs, v8, works-with-codespaces
-- Last Updated: 2026-08-01T03:47:03Z
+- Last Updated: 2026-08-01T08:14:57Z
 - License: MIT
 - Archived: No
 - Created At: 2013-04-12T01:47:36Z

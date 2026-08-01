@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-81%2C277-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-140%2C926-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--01-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **81,277 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **140,926 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 15,186</p>
-        <p><b>Active:</b> 14,759 | <b>Inactive:</b> 427</p>
+        <p><b>Resources tracked:</b> 16,220</p>
+        <p><b>Active:</b> 15,792 | <b>Inactive:</b> 428</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,059</p>
+        <p><b>Archive Files:</b> 60,695</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 81,277 files</p>
-        <p><b>Last Update:</b> 2026-08-01 12:00 IST</p>
+        <p><b>Total Vault Size:</b> 140,926 files</p>
+        <p><b>Last Update:</b> 2026-08-01 14:24 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,26 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Chrome DevTools | Chrome for Developers](ai/rag/chrome-devtools-chrome-for-developers.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[TLS / SSL](ai/agents/tls-ssl.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[Lighthouse | Chrome for Developers](ai/resources/lighthouse-chrome-for-developers.md)** • Rank: <kbd>+4</kbd>
-- 🔼 **[How to use the CrUX BigQuery dataset | Chrome UX Report | Chrome for Developers](ai/resources/how-to-use-the-crux-bigquery-dataset-chrome-ux-rep.md)** • Rank: <kbd>+4</kbd>
-- 🔼 **[Firebase | Google's Mobile and Web App Development Platform](ai/rag/firebase-google-s-mobile-and-web-app-development-p.md)** • Rank: <kbd>+4</kbd>
+- 🔼 **[Flint: A Visualization Language for the AI Era](ai/community/show-hn-microsoft-releases-flint-a-visualization-l.md)** • <kbd>+88 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Tailscale didn't stop the Hugging Face intrusion](ai/community/tailscale-didn-t-stop-the-hugging-face-intrusion.md)** • <kbd>+55 pts</kbd>
+- 🔼 **[Is AI reasoning right for the wrong reasons?](ai/community/is-ai-reasoning-right-for-the-wrong-reasons.md)** • <kbd>+28 pts</kbd>
+- 🔼 **[Golang proposal: container/: generic collection types](ai/community/golang-go.md)** • <kbd>+16 pts</kbd>
+- 🔼 **[Overview of the ML Kit GenAI APIs | Google for Developers](ai/rag/overview-of-the-ml-kit-genai-apis-google-for-devel.md)** • Rank: <kbd>+10123</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Google fixed more Chrome bugs in June than over the past two years, thanks to AI](ai/community/google-fixed-more-chrome-bugs-in-june-than-over-th.md)** • Score: `505`
+- 🆕 **[Quickstart - Claude Code Docs](ai/agents/quickstart-claude-code-docs.md)** • Score: `0`
+- 🆕 **[pinecone-io/pinecone-claude-code-plugin](ai/rag/pinecone-io-pinecone-claude-code-plugin.md)** • Score: `0`
+- 🆕 **[Installation | uv](ai/rag/installation-uv.md)** • Score: `0`
+- 🆕 **[saket/telephoto](ai/rag/saket-telephoto.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Using the railway network as a flatbed scanner [video]](ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md)**
+- 💤 **[The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure](ai/community/the-first-transatlantic-telegraph-cable-was-a-bold.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

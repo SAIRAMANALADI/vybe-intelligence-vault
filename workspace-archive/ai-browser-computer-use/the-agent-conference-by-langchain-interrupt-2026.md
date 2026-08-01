@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Event Details**: Interrupt, hosted by LangChain, is scheduled for **September 24, 2026, in NYC** and **October 13, 2026, in London**, focusing on AI agent development.
-- **Target Audience**: The conference targets **engineers, builders, and teams** driving advancements in AI agent technology.
-- **Access & Engagement**: Tickets are available for purchase at [interrupt.langchain.com/get-tickets](https://interrupt.langchain.com/get-tickets), with additional resources on [LangChain’s website](ht
+- **Event Details**: Interrupt 2026 is a LangChain-hosted conference in NYC (Sep 24) and London (Oct 13), focusing on agent development and innovation.
+- **Target Audience**: Gathers engineers, builders, and teams advancing AI agent technologies and applications.
+- **Registration**: Tickets available via [interrupt.langchain.com/get-tickets](https://interrupt.langchain.com/get-tickets).
 
 ## Use Cases
 

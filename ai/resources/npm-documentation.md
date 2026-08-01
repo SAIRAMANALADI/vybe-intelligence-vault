@@ -4,12 +4,12 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/npm/documentation
-collected_at: '2026-08-01T09:26:31.988243+05:30'
+collected_at: '2026-08-01T14:12:54.700399+05:30'
 published_at: '2026-07-31T21:28:45Z'
 tags:
 - github-repo
-- hackernews
 - mdx
+- workflows
 stars: 693
 language: MDX
 status: active
@@ -18,9 +18,9 @@ archived: false
 created_at: '2020-09-22T21:51:41Z'
 pushed_at: '2026-07-31T03:23:24Z'
 resource_id: github:npm/documentation
-first_seen: '2026-08-01T09:26:31.988243+05:30'
-last_seen: '2026-08-01T09:26:31.988243+05:30'
-last_checked: '2026-08-01T09:26:31.988243+05:30'
+first_seen: '2026-08-01T14:12:54.700399+05:30'
+last_seen: '2026-08-01T14:12:54.700399+05:30'
+last_checked: '2026-08-01T14:12:54.700399+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Centralized documentation for npm registry operations, website interfaces, and CLI functionalities.
-- **Technical Stack**: Written in MDX, integrating Markdown with JSX for interactive documentation components.
-- **Repository Status**: Actively maintained with 693 stars, 4109 forks, and last updated on 2026-07-31.
+- **Purpose**: Centralized documentation for npm registry operations, website interfaces, and CLI tooling, maintained in MDX format for dynamic content rendering.
+- **Structure**: Modular MDX-based documentation enabling collaborative updates and versioned releases via GitHub workflows.
+- **Integration**: Supports npm CLI development with cross-referenced guides for registry interactions, package publishing, and user authentication flows.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: npm
 - Stars: 693
-- Forks: 4109
+- Forks: 4110
 - Language: MDX
 - Topics: npm-cli
 - Last Updated: 2026-07-31T21:28:45Z

@@ -1,17 +1,16 @@
 ---
 title: arXiv + Replicate | Replicate
 archive_category: model-providers
-source_category: ai/rag
+source_category: ai/resources
 source_url: https://replicate.com/docs/arxiv/about
 resource_id: blog:arxiv-replicate-replicate
-local_vault_path: ai/rag/arxiv-replicate-replicate.md
+local_vault_path: ai/resources/arxiv-replicate-replicate.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: prompt
 importance: medium
 tags:
-- rag
 - web-crawled
 - youtube
 selection_reason:
@@ -25,16 +24,18 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Nano-Banana-2**: Google's lightweight diffusion-based image generation model enabling real-time conversational editing, multi-image fusion, and character consistency with 15M+ public runs.
-- **Grok-Imagine-Video**: xAI's autoregressive video generation model leveraging transformer architecture for high-quality video synthesis, achieving 1.4M+ public runs.
-- **Flux-2-Max**: Black Forest Labs' high-fidelity latent diffusion model optimized for photorealistic image generation, surpassing prior
+- **Google's `gemini-3.1-flash-tts`**: Fast, expressive TTS model supporting 30 voices and 70+ languages, optimized for low-latency inference with high naturalness.
+
+- **Alibaba's `happyhorse-1.0`**: Diffusion-based video generation/animation model converting text prompts or static images into 720p/1080p videos (3–15s duration) with 5 aspect ratio options.
+
+- **ByteDance's `seedream-5-lite`**: Multimodal image generation model integrating reasoning, example-based editing, and domain-specific kno
 
 ## Use Cases
 
@@ -48,4 +49,4 @@ Original source URL: https://replicate.com/docs/arxiv/about
 
 ## Local Vault File
 
-Path: [arxiv-replicate-replicate.md](../../ai/rag/arxiv-replicate-replicate.md)
+Path: [arxiv-replicate-replicate.md](../../ai/resources/arxiv-replicate-replicate.md)

@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-08-01T09:21:23.405571+05:30'
+collected_at: '2026-08-01T14:06:24.324463+05:30'
 published_at: '2026-07-16T10:59:46Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 158
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-08-01T09:21:23.405571+05:30'
-last_seen: '2026-08-01T09:21:23.405571+05:30'
-last_checked: '2026-08-01T09:21:23.405571+05:30'
+first_seen: '2026-08-01T14:06:24.324463+05:30'
+last_seen: '2026-08-01T14:06:24.324463+05:30'
+last_checked: '2026-08-01T14:06:24.324463+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Search Integration**: Demonstrates combining vector similarity search with traditional keyword-based retrieval in LangChain for enhanced RAG performance.
-- **Vectorstore Utilization**: Implements a vector database (e.g., FAISS, Chroma) for efficient storage and retrieval of embeddings in the RAG pipeline.
-- **Streamlit Frontend**: Provides a web interface built with Streamlit to visualize and interact with the LangChain-based RAG workflow.
+- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vector store retrieval (likely FAISS or similar) with hybrid search (dense + sparse retrieval) for improved document retrieval accuracy.
+
+- **LangChain Integration**: Utilizes LangChain's modular framework for chaining LLM calls, document loaders, and retrievers, with Streamlit for interactive UI deployment.
+
+- **Streamlit Deployment**: Wraps the RAG pipeline in a Streamlit app for real-time user queries, displaying retrieved context and generated responses with minimal latency.
 
 ## Why It Matters
 
@@ -41,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: streamlit
 - Stars: 158
-- Forks: 81
+- Forks: 80
 - Language: Python
 - Topics: None
 - Last Updated: 2026-07-16T10:59:46Z

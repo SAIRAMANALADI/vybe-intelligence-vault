@@ -4,25 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Kotlin/Kotlin-AI-Examples
-collected_at: '2026-08-01T09:23:08.491159+05:30'
-published_at: '2026-07-31T15:04:36Z'
+collected_at: '2026-08-01T14:08:09.421776+05:30'
+published_at: '2026-08-01T06:44:28Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - openai
-- workflows
-stars: 265
+stars: 266
 language: Jupyter Notebook
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2024-10-03T23:36:12Z'
-pushed_at: '2026-07-01T13:55:55Z'
+pushed_at: '2026-08-01T05:53:46Z'
 resource_id: github:kotlin/kotlin-ai-examples
-first_seen: '2026-08-01T09:23:08.491159+05:30'
-last_seen: '2026-08-01T09:23:08.491159+05:30'
-last_checked: '2026-08-01T09:23:08.491159+05:30'
+first_seen: '2026-08-01T14:08:09.421776+05:30'
+last_seen: '2026-08-01T14:08:09.421776+05:30'
+last_checked: '2026-08-01T14:08:09.421776+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-framework AI examples** in Kotlin, integrating Spring AI, LangChain4j, and other frameworks for AI/ML workflows.
-- **Interactive Kotlin notebooks** for hands-on learning, covering agents, inference, and OpenAI integrations.
-- **Jupyter Notebook-based repository** with 265 stars, last updated July 2026, focusing on Kotlin AI tooling and best practices.
+- **Repository Overview**: Kotlin-based examples integrating AI frameworks (Spring AI, LangChain4j) with Jupyter Notebooks for interactive learning.
+- **Technical Scope**: Covers agents, inference, OpenAI integration, and Kotlin-specific AI tooling.
+- **Metadata**: 266 stars, 32 forks, last updated 2026-08-01.
 
 ## Why It Matters
 
@@ -41,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Kotlin
-- Stars: 265
+- Stars: 266
 - Forks: 32
 - Language: Jupyter Notebook
 - Topics: agents, ai, awesome, inference, kotlin, langchain, openai, spring
-- Last Updated: 2026-07-31T15:04:36Z
+- Last Updated: 2026-08-01T06:44:28Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-10-03T23:36:12Z
-- Pushed At: 2026-07-01T13:55:55Z
+- Pushed At: 2026-08-01T05:53:46Z
 
 ## Possible Use Cases
 

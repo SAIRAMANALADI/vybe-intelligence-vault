@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.resemble.ai/resources/top-open-source-github-repositories-for-creating-your-own-rag
-published_at: '2026-08-01T09:25:04.834508+05:30'
-collected_at: '2026-08-01T09:25:04.834520+05:30'
+published_at: '2026-08-01T14:10:10.483564+05:30'
+collected_at: '2026-08-01T14:10:10.483577+05:30'
 tags:
 - agents
 - benchmark
@@ -20,9 +20,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:top-open-source-github-repositories-for-creating-y
-first_seen: '2026-08-01T09:25:04.834520+05:30'
-last_seen: '2026-08-01T09:25:04.834520+05:30'
-last_checked: '2026-08-01T09:25:04.834520+05:30'
+first_seen: '2026-08-01T14:10:10.483577+05:30'
+last_seen: '2026-08-01T14:10:10.483577+05:30'
+last_checked: '2026-08-01T14:10:10.483577+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Resemble AI** provides multimodal deepfake detection and verification tools, including **Resemble Detect** for real-time deepfake identification, **Resemble Identity** for biometric verification, and **Resemble Watermarker** for embedding forensic traces in media.
+- **Resemble AI** provides a suite of **multimodal deepfake detection and verification tools**, including **Resemble Detect** (real-time deepfake detection), **Resemble Watermarker** (media authenticity verification), and **Resemble Identity** (biometric authentication) for security applications.
 
-- **Open-source RAG frameworks** highlighted include **Cognita** (Truefoundry) for modular RAG deployment, **Verba** (Weaviate) for user-friendly RAG applications with HuggingFace integration, and **LlamaIndex** for structured data orchestration in RAG pipelines.
+- **Open-source RAG frameworks** like **Cognita** (Truefoundry) and **Verba** (Weaviate) offer modular, production-ready solutions for **Retrieval-Augmented Generation (RAG)**, supporting document ingestion, embedding, and LLM integration with customizable pipelines.
 
-- **GitHub repositories** like **Retrieval-augmented-generation Topic** and **Realworld** offer curated resources for building scalable RAG systems, emphasizing active maintenance, dependency management, and production-ready architectures.
+- **LlamaIndex** is a leading **RAG framework** enabling structured data indexing, retrieval, and synthesis, optimized for large-scale knowledge bases and enterprise-grade AI applications.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T09:25:04.834508+05:30
+- Published: 2026-08-01T14:10:10.483564+05:30
 
 ## Related Tags
 

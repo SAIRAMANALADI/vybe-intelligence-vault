@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/Awesome-GraphRAG
-collected_at: '2026-08-01T09:21:38.425738+05:30'
+collected_at: '2026-08-01T14:06:39.339900+05:30'
 published_at: '2026-07-31T11:40:03Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-10-21T08:29:58Z'
 pushed_at: '2026-06-02T12:52:38Z'
 resource_id: github:deep-polyu/awesome-graphrag
-first_seen: '2026-08-01T09:21:38.425738+05:30'
-last_seen: '2026-08-01T09:21:38.425738+05:30'
-last_checked: '2026-08-01T09:21:38.425738+05:30'
+first_seen: '2026-08-01T14:06:39.339900+05:30'
+last_seen: '2026-08-01T14:06:39.339900+05:30'
+last_checked: '2026-08-01T14:06:39.339900+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based Retrieval-Augmented Generation (GraphRAG)**, emphasizing integration of knowledge graphs with large language models (LLMs).
-- **Technical Scope**: Covers **GraphRAG architectures**, retrieval mechanisms, and evaluation frameworks, targeting improvements in contextual reasoning and factual grounding for LLMs.
-- **Community-Driven**: Actively maintained repository (last updated **2026-07-31**) with **2,566 stars** and **227 forks**, serving as a central reference for research and implementations in GraphRAG.
+- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based Retrieval-Augmented Generation (GraphRAG)**, covering knowledge graphs, large language models (LLMs), and RAG techniques.
+- **Technical Scope**: Encompasses **GraphRAG-specific topics** (e.g., graph-augmented retrieval, graph neural networks for RAG) and broader **LLM/RAG advancements**, with emphasis on structured knowledge integration.
+- **Community-Driven**: Maintained repository with **2,566 stars** and **227 forks**, last updated **July 31, 2026**, serving as a dynamic reference for cutting-edge research in graph-enhanced LLM reasoning.
 
 ## Why It Matters
 

@@ -3,9 +3,9 @@ title: Privacy Policy – Privacy & Terms – Google
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://policies.google.com/privacy
-published_at: '2026-08-01T09:26:16.811470+05:30'
-collected_at: '2026-08-01T09:26:16.811480+05:30'
+source_url: https://accounts.google.com/TOS?loc=US&hl=en-US&privacy=true
+published_at: '2026-08-01T14:16:11.735061+05:30'
+collected_at: '2026-08-01T14:16:11.735076+05:30'
 tags:
 - agents
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:privacy-policy-privacy-terms-google
-first_seen: '2026-08-01T09:26:16.811480+05:30'
-last_seen: '2026-08-01T09:26:16.811480+05:30'
-last_checked: '2026-08-01T09:26:16.811480+05:30'
+first_seen: '2026-08-01T14:16:11.735076+05:30'
+last_seen: '2026-08-01T14:16:11.735076+05:30'
+last_checked: '2026-08-01T14:16:11.735076+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: Google collects diverse data types, including personal information (name, email, payment details), device identifiers (IP, unique IDs, OS/browser specs), user activity (searches, YouTube interactions, location via GPS/Wi-Fi/cell towers), and third-party data (public sources, partners) to enhance service functionality and personalization.
+- **Data Collection Scope**: Google aggregates data across apps, browsers, and devices, including unique identifiers, IP addresses, device settings, and activity logs (e.g., searches, YouTube interactions, call/message logs) to personalize services and ads.
 
-- **Account vs. Non-Account Data**: Data is processed differently based on account status—signed-in users' data is linked to their Google Account (treated as personal info), while non-signed-in users' data is tied to anonymous identifiers (browser/device) for cross-session preferences (e.g., language, ad relevance).
+- **Location Tracking**: Location data is collected via GPS, IP addresses, Wi-Fi/Bluetooth signals, and user-labeled places (e.g., "home/work"), with storage duration dependent on device/account settings (e.g., Timeline feature).
 
-- **Retention & Compliance**: Google retains data for varying durations (e.g., activity history, location logs) based on user settings and regulatory requirements, with mechanisms for export/deletion. Compliance includes adherence to frameworks like GDPR and cooperation with regulators, alongside security measures (encryption, access controls) to protect stored data.
+- **User Content & Account Data**: Google stores user-generated content (emails, photos, docs) and account details (name, payment info) when signed in, while non-account interactions (e.g., Incognito mode) use anonymized identifiers for session-specific preferences.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T09:26:16.811470+05:30
+- Published: 2026-08-01T14:16:11.735061+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://policies.google.com/privacy
+Original source: https://accounts.google.com/TOS?loc=US&hl=en-US&privacy=true

@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://electronjs.org/docs/latest
-published_at: '2026-08-01T09:26:05.557742+05:30'
-collected_at: '2026-08-01T09:26:05.557757+05:30'
+published_at: '2026-08-01T14:11:20.012591+05:30'
+collected_at: '2026-08-01T14:11:20.012604+05:30'
 tags:
 - producthunt
 - web-crawled
 status: active
 resource_id: blog:introduction-electron
-first_seen: '2026-08-01T09:26:05.557757+05:30'
-last_seen: '2026-08-01T09:26:05.557757+05:30'
-last_checked: '2026-08-01T09:26:05.557757+05:30'
+first_seen: '2026-08-01T14:11:20.012604+05:30'
+last_seen: '2026-08-01T14:11:20.012604+05:30'
+last_checked: '2026-08-01T14:11:20.012604+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Electron Framework**: Enables cross-platform desktop app development using JavaScript, HTML, and CSS by embedding Chromium and Node.js into a single binary, eliminating the need for native development experience.
+- **Cross-platform desktop apps**: Electron embeds Chromium and Node.js into a single binary, enabling JavaScript/HTML/CSS-based desktop apps that run on Windows, macOS, and Linux without native development requirements.
 
-- **Electron Fiddle**: A sandbox application for prototyping and experimenting with Electron APIs, integrating directly with documentation via "Open in Fiddle" buttons for seamless code testing.
+- **Core components**: Electron apps consist of a `main.js` (Node.js process managing app lifecycle), `preload.js` (bridge between Node.js and renderer processes), and `index.html` (UI rendered via Chromium).
 
-- **Documentation Structure**: Organized into categories (Tutorial, Processes, Best Practices, Examples, Distribution, Testing/Debugging, References, Contributing) and supported by community resources like Discord and GitHub issue tracking for development assistance.
+- **Development ecosystem**: Electron provides official tutorials, API docs, and Electron Fiddle (a sandbox tool) for prototyping; community resources include Discord support and GitHub issue tracking for debugging.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-01T09:26:05.557742+05:30
+- Published: 2026-08-01T14:11:20.012591+05:30
 
 ## Related Tags
 

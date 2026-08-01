@@ -4,10 +4,9 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GoogleChrome/web-vitals
-collected_at: '2026-08-01T09:32:06.902038+05:30'
+collected_at: '2026-08-01T14:16:33.740209+05:30'
 published_at: '2026-08-01T02:29:17Z'
 tags:
-- frontend_ui
 - github-repo
 - javascript
 stars: 8569
@@ -18,9 +17,9 @@ archived: false
 created_at: '2020-03-23T18:31:05Z'
 pushed_at: '2026-07-27T10:21:37Z'
 resource_id: github:googlechrome/web-vitals
-first_seen: '2026-08-01T09:32:06.902038+05:30'
-last_seen: '2026-08-01T09:32:06.902038+05:30'
-last_checked: '2026-08-01T09:32:06.902038+05:30'
+first_seen: '2026-08-01T14:16:33.740209+05:30'
+last_seen: '2026-08-01T14:16:33.740209+05:30'
+last_checked: '2026-08-01T14:16:33.740209+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Core Metrics Library**: Provides JavaScript utilities to measure key web performance metrics (LCP, FID, CLS, etc.) per [W3C Web Vitals](https://w3c.github.io/web-performance/) standards.
-- **Lightweight Implementation**: Optimized for minimal overhead (~1KB gzipped), using [Performance API](https://developer.mozilla.org/en-US/docs/Web/API/Performance_API) and [Observer APIs](https://developer.mozilla.org/en-US/docs/Web/API/PerformanceObserver) for real-user monitoring (RUM).
-- **Framework Agnostic**: Compatible with any frontend stack (React, Angular, Vue) and supports both client-side and server-side tracking via modular integrations.
+- **Purpose**: JavaScript library providing standardized metrics (e.g., Largest Contentful Paint, Cumulative Layout Shift) to quantify user-perceived performance of web pages.
+- **Key Features**: Includes lightweight (~1KB) JavaScript modules for real-user monitoring (RUM) and synthetic testing, with support for modern browsers and frameworks.
+- **Integration**: Designed for seamless integration with analytics tools (e.g., Google Analytics) and web performance monitoring services via standardized APIs.
 
 ## Why It Matters
 

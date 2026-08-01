@@ -8,64 +8,64 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
+### [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `91` | **Path**: [`pinecone-io-pinecone-claude-code-plugin.md`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/)
 - **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `ESSENTIAL`
 - **Score**: `90` | **Path**: [`rag-application-tutorial-2025-build-production-rea.md`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
-### [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG)
-- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`apecloud-aperag.md`](../../ai/rag/apecloud-aperag.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
-- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`decodingai-magazine-llm-twin-course.md`](../../ai/rag/decodingai-magazine-llm-twin-course.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset](https://arxiv.org/abs/2407.18245)
-- **Category**: `ai/research` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `88` | **Path**: [`arxiv-2407-18245.md`](../../ai/research/arxiv-2407-18245.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [LlamaIndex · GitHub](https://github.com/run-llama/)
+### [Pinecone · GitHub](https://github.com/pinecone-io)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`llamaindex-github.md`](../../ai/rag/llamaindex-github.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
-- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`ritik-prog-n8n-automation-templates-5000.md`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [mongodb · GitHub](https://github.com/mongodb)
-- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`mongodb-github.md`](../../ai/rag/mongodb-github.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)
-- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`enescingoz-awesome-n8n-templates.md`](../../ai/rag/enescingoz-awesome-n8n-templates.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [Neo4j · GitHub](https://github.com/neo4j)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`neo4j-github.md`](../../ai/rag/neo4j-github.md)
+- **Score**: `89` | **Path**: [`pinecone-github.md`](../../ai/rag/pinecone-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`bakrianoo-mini-rag.md`](../../ai/rag/bakrianoo-mini-rag.md)
+- **Score**: `89` | **Path**: [`bakrianoo-mini-rag.md`](../../ai/rag/bakrianoo-mini-rag.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [langgenius/dify](https://github.com/langgenius/dify)
+### [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`pinecone-io-pinecone-claude-code-plugin.md`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page-----dba899ae0355---------------------------------------)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
+- **Score**: `89` | **Path**: [`truefoundry-cognita.md`](../../ai/rag/truefoundry-cognita.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
-- **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`sylphxai-pdf-reader-mcp.md`](../../ai/rag/sylphxai-pdf-reader-mcp.md)
+### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [Pinecone · GitHub](https://github.com/pinecone-io)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`pinecone-github.md`](../../ai/rag/pinecone-github.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`bakrianoo-mini-rag.md`](../../ai/rag/bakrianoo-mini-rag.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [zilliztech/milvus_cli](https://github.com/zilliztech/milvus_cli)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`zilliztech-milvus-cli.md`](../../ai/rag/zilliztech-milvus-cli.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset](https://arxiv.org/abs/2407.18245)
+- **Category**: `ai/research` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `88` | **Path**: [`arxiv-2407-18245.md`](../../ai/research/arxiv-2407-18245.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-01 09:38 IST*
+*Last updated: 2026-08-01 14:23 IST*

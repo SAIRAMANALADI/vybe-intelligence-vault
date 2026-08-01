@@ -4,23 +4,24 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/git/git
-collected_at: '2026-07-21T22:22:02.382605+05:30'
-published_at: '2026-07-21T16:23:23Z'
+collected_at: '2026-08-01T14:14:38.097543+05:30'
+published_at: '2026-08-01T08:38:24Z'
 tags:
 - c
 - github-repo
+- hackernews
 - scripts
-stars: 62125
+stars: 62308
 language: C
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2008-07-23T14:21:26Z'
-pushed_at: '2026-07-21T00:14:06Z'
+pushed_at: '2026-07-31T23:27:49Z'
 resource_id: github:git/git
-first_seen: '2026-07-21T22:22:02.382605+05:30'
-last_seen: '2026-07-21T22:22:02.382605+05:30'
-last_checked: '2026-07-21T22:22:02.382605+05:30'
+first_seen: '2026-08-01T14:14:38.097543+05:30'
+last_seen: '2026-08-01T14:14:38.097543+05:30'
+last_checked: '2026-08-01T14:14:38.097543+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Publish-only Git mirror**: Official source code repository for Git, accepting contributions via patches submitted to the mailing list (GitGitGadget integration available).
-- **Language & Tooling**: Primarily written in C, with shell scripts for auxiliary tooling; supports `hacktoberfest` contributions.
-- **Update Status**: Last synced on **2026-07-21T16:23:20Z** with **62,125 stars** and **28,156 forks**.
+- **Repository Details**: Official Git source code mirror (C-based) with 62,308 stars and 28,189 forks; last updated 2026-08-01.
+- **Contribution Process**: Accepts pull requests via GitGitGadget for mailing list patch submission; contributors must follow `Documentation/SubmittingPatches`.
+- **Technical Scope**: Supports C and shell scripting (topics: `c`, `hacktoberfest`, `shell`); no direct PR merging—patches are processed externally.
 
 ## Why It Matters
 
@@ -39,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: git
-- Stars: 62125
-- Forks: 28156
+- Stars: 62308
+- Forks: 28189
 - Language: C
 - Topics: c, hacktoberfest, shell
-- Last Updated: 2026-07-21T16:23:23Z
+- Last Updated: 2026-08-01T08:38:24Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2008-07-23T14:21:26Z
-- Pushed At: 2026-07-21T00:14:06Z
+- Pushed At: 2026-07-31T23:27:49Z
 
 ## Possible Use Cases
 

@@ -10,21 +10,21 @@ Discovering modern AI productivity tools allows developers to streamline their d
 
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (framework - ESSENTIAL Tier)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
-- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) (template - ESSENTIAL Tier)
+- [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page-----dba899ae0355---------------------------------------) (framework - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
 - [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (framework - USEFUL Tier)
 - [Mining Architectural Quality Under Agentic AI Adoption: A Causal Study of Java Repositories](https://arxiv.org/abs/2606.13298) (framework - USEFUL Tier)
 - [Nonuniformity Principle in Human-AI Coworking](https://arxiv.org/abs/2607.16530) (framework - USEFUL Tier)
+- [First, do NOHARM: towards clinically safe large language models](https://arxiv.org/abs/2512.01241) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/steven-tey/charlie (Charlie Directory App)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
-- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)
-- [Kotlin/Kotlin-AI-Examples](https://github.com/Kotlin/Kotlin-AI-Examples)
+- [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page-----dba899ae0355---------------------------------------)
+- [continuedev/continue](https://github.com/continuedev/continue)
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security)
 
 ## Best Learning Resources
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-08-01 09:38 IST*
+*Last updated: 2026-08-01 14:23 IST*

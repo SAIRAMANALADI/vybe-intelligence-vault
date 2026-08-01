@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://nodejs.org/
-published_at: '2026-07-21T22:20:11.837533+05:30'
-collected_at: '2026-07-21T22:20:11.837546+05:30'
+published_at: '2026-08-01T14:12:59.731839+05:30'
+collected_at: '2026-08-01T14:12:59.731851+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:node-js-run-javascript-everywhere
-first_seen: '2026-07-21T22:20:11.837546+05:30'
-last_seen: '2026-07-21T22:20:11.837546+05:30'
-last_checked: '2026-07-21T22:20:11.837546+05:30'
+first_seen: '2026-08-01T14:12:59.731851+05:30'
+last_seen: '2026-08-01T14:12:59.731851+05:30'
+last_checked: '2026-08-01T14:12:59.731851+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Cross-platform JS runtime**: Node.js is an open-source, event-driven JavaScript runtime built on Chrome's V8 engine, enabling server-side execution of JS code across platforms.
-- **Core capabilities**: Supports HTTP server creation, file I/O operations (e.g., reading/hashing), streams processing, and multi-threading via worker threads.
-- **Modular architecture**: Uses ES modules (`.mjs`) for HTTP server implementation, with built-in APIs for handling requests/responses and asynchronous I/O operations.
+- **Cross-platform JS runtime**: Node.js is an open-source JavaScript runtime enabling server-side execution, CLI tool development, and script creation across platforms.
+
+- **Core modules & APIs**: Provides built-in modules (`http`, `fs`, `crypto`, `stream`, `worker_threads`) for HTTP servers, file I/O, hashing, stream pipelines, and multi-threading.
+
+- **Testing & modularity**: Supports native test runner (`node:test`) and assertions (`node:assert`), with ES modules (`import/export`) for structured code organization.
 
 ## Why It Matters
 
@@ -32,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-21T22:20:11.837533+05:30
+- Published: 2026-08-01T14:12:59.731839+05:30
 
 ## Related Tags
 

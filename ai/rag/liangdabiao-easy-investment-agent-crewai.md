@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/liangdabiao/easy_investment_Agent_crewai
-collected_at: '2026-08-01T09:24:48.573137+05:30'
+collected_at: '2026-08-01T14:09:49.517847+05:30'
 published_at: '2026-07-30T13:10:40Z'
 tags:
 - agents
-- benchmark
+- creative_dev
 - github-repo
 - python
 - rag
-- workflows
 stars: 471
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-09-26T11:16:52Z'
 pushed_at: '2026-05-07T01:07:08Z'
 resource_id: github:liangdabiao/easy_investment_agent_crewai
-first_seen: '2026-08-01T09:24:48.573137+05:30'
-last_seen: '2026-08-01T09:24:48.573137+05:30'
-last_checked: '2026-08-01T09:24:48.573137+05:30'
+first_seen: '2026-08-01T14:09:49.517847+05:30'
+last_seen: '2026-08-01T14:09:49.517847+05:30'
+last_checked: '2026-08-01T14:09:49.517847+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent A股 Analysis Framework**: Implements 4 specialized AI agents (data retrieval, financial analysis, sentiment evaluation, investment recommendation) using CrewAI for collaborative A-share market analysis with real-time AKShare data integration.
-
-- **Comprehensive A-Shares Data Pipeline**: Aggregates live quotes, financial metrics, fund flows, and market sentiment via AKShare API, with China-specific optimizations for A-share market characteristics.
-
-- **Automated Investment Decision Engine**: Processes multi-source data through agent collaboration to generate structured investment recommendations, leveraging Python-based CrewAI orchestration for modular analysis workflows.
+- **Multi-Agent A-Shares Analysis System**: Leverages AKShare for real-time A-shares data (quotes, financials, fund flows, sentiment) and CrewAI to coordinate 4 specialized AI agents for collaborative investment analysis.
+- **China-Specific Optimization**: Tailored for A-shares market dynamics, integrating localized data sources and analytical tools to address regional investment nuances.
+- **Automated Investment Insights**: Processes multi-source data via CrewAI agents to generate structured, actionable investment recommendations for A-shares portfolios.
 
 ## Why It Matters
 

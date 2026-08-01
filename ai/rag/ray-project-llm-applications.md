@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-08-01T09:22:13.464757+05:30'
+collected_at: '2026-08-01T14:07:14.453200+05:30'
 published_at: '2026-07-31T02:35:37Z'
 tags:
 - github-repo
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-08-01T09:22:13.464757+05:30'
-last_seen: '2026-08-01T09:22:13.464757+05:30'
-last_checked: '2026-08-01T09:22:13.464757+05:30'
+first_seen: '2026-08-01T14:07:14.453200+05:30'
+last_seen: '2026-08-01T14:07:14.453200+05:30'
+last_checked: '2026-08-01T14:07:14.453200+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with examples leveraging Llama2 and OpenAI models.
-- **Fine-Tuning & Optimization**: Includes notebooks for model fine-tuning (e.g., LoRA) and performance optimization techniques for scalable LLM inference.
-- **Multi-Model Serving**: Showcases hybrid serving architectures combining Anyscale, Ray Serve, and custom vector databases for low-latency LLM applications.
+- **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2 and OpenAI models with optimized retrieval mechanisms.
+
+- **Fine-Tuning & Serving Integration**: Provides end-to-end examples for fine-tuning LLMs (e.g., Llama2) and deploying them via Ray Serve, including model optimization and latency reduction techniques.
+
+- **Multi-Model & Tooling Support**: Includes notebooks for hybrid LLM applications (e.g., combining OpenAI APIs with custom fine-tuned models) and leverages Anyscale for scalable compute.
 
 ## Why It Matters
 
