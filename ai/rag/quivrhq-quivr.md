@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-08-01T16:21:20.993006+05:30'
+collected_at: '2026-08-01T19:26:21.497672+05:30'
 published_at: '2026-08-01T07:37:23Z'
 tags:
 - frontend_ui
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-08-01T16:21:20.993006+05:30'
-last_seen: '2026-08-01T16:21:20.993006+05:30'
-last_checked: '2026-08-01T16:21:20.993006+05:30'
+first_seen: '2026-08-01T19:26:21.497672+05:30'
+last_seen: '2026-08-01T19:26:21.497672+05:30'
+last_checked: '2026-08-01T19:26:21.497672+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting complexities to focus on product development.
-
-- **Multi-LLM & Vectorstore Support**: Compatible with any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), enabling flexible deployment across diverse GenAI ecosystems.
-
-- **Customizable & Extensible**: Supports integration with any file type, Dockerized deployment, and customizable frontend/backend components (React, TypeScript, Python), prioritizing privacy and security.
+*   Provides an opinionated RAG framework designed for seamless GenAI integration, abstracting complex RAG pipeline management for application developers.
+*   Offers broad LLM (GPT4, Groq, Llama) and vectorstore (PGVector, Faiss) agnosticism, supporting diverse data ingestion and retrieval strategies.
+*   Features a full-stack architecture (Python, React, TypeScript) with Docker support, enabling flexible deployment and integration into existing product ecosystems.
 
 ## Why It Matters
 
@@ -46,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: QuivrHQ
 - Stars: 39372
-- Forks: 3724
+- Forks: 3723
 - Language: Python
 - Topics: ai, api, chatbot, chatgpt, database, docker, framework, frontend, groq, html, javascript, llm, openai, postgresql, privacy, rag, react, security, typescript, vector
 - Last Updated: 2026-08-01T07:37:23Z

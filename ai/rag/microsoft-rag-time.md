@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-08-01T16:20:05.930693+05:30'
+collected_at: '2026-08-01T19:25:06.434732+05:30'
 published_at: '2026-07-31T15:52:46Z'
 tags:
 - github-repo
@@ -13,6 +13,7 @@ tags:
 - models
 - openai
 - rag
+- workflows
 stars: 897
 language: Jupyter Notebook
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-08-01T16:20:05.930693+05:30'
-last_seen: '2026-08-01T16:20:05.930693+05:30'
-last_checked: '2026-08-01T16:20:05.930693+05:30'
+first_seen: '2026-08-01T19:25:06.434732+05:30'
+last_seen: '2026-08-01T19:25:06.434732+05:30'
+last_checked: '2026-08-01T19:25:06.434732+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: `microsoft/rag-time` is a 5-week structured learning program focused on mastering **Retrieval-Augmented Generation (RAG)** with hands-on Jupyter Notebooks, covering topics like hybrid search, vector indexing, and quantization techniques (binary/scalar).
-- **Technical Stack**: Integrates **Azure OpenAI**, **HNSW** (Hierarchical Navigable Small World) for vector search, **Matryoshka Representation Learning** for efficient embeddings, and supports **multimodal RAG** with keyword/binary search optimizations.
-- **Key Features**: Emphasizes **responsible AI**, **scalable indexing**, and **Visual Studio Code** compatibility, with last update (2026-07-31) ensuring alignment with modern generative AI practices.
+- **RAG Time**: A structured 5-week learning program focused on Retrieval-Augmented Generation (RAG) techniques, covering hybrid search, vector indexing, and quantization methods (binary/scalar) for efficient LLM retrieval.
+
+- **Key Technologies**: Integrates Azure, OpenAI APIs, HNSW (Hierarchical Navigable Small World) for vector search, and Matryoshka Representation Learning for scalable embeddings, with notebooks optimized for VS Code.
+
+- **Responsible AI & Multimodality**: Emphasizes responsible AI practices and includes multimodal RAG workflows, combining text, images, and structured data for enhanced generative AI applications.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/enescingoz/awesome-n8n-templates
-collected_at: '2026-08-01T16:20:20.876406+05:30'
-published_at: '2026-08-01T10:23:26Z'
+collected_at: '2026-08-01T19:25:21.419710+05:30'
+published_at: '2026-08-01T13:37:39Z'
 tags:
 - agents
 - github-repo
@@ -14,7 +14,7 @@ tags:
 - scripts
 - unknown
 - workflows
-stars: 24313
+stars: 24317
 language: Unknown
 status: active
 license: NOASSERTION
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-05-08T18:34:01Z'
 pushed_at: '2026-07-23T21:04:30Z'
 resource_id: github:enescingoz/awesome-n8n-templates
-first_seen: '2026-08-01T16:20:20.876406+05:30'
-last_seen: '2026-08-01T16:20:20.876406+05:30'
-last_checked: '2026-08-01T16:20:20.876406+05:30'
+first_seen: '2026-08-01T19:25:21.419710+05:30'
+last_seen: '2026-08-01T19:25:21.419710+05:30'
+last_checked: '2026-08-01T19:25:21.419710+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Extensive n8n Template Library**: Over 280 pre-built, ready-to-use automation workflows for platforms like Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, and OpenAI, covering AI agents, RAG chatbots, email automation, social media, DevOps, and document processing.
+- **Extensive n8n Template Library**: 280+ pre-built, production-ready automation workflows for 15+ platforms (Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, etc.), covering AI agents, RAG chatbots, email automation, social media, DevOps, and document processing.
 
-- **Open-Source & Self-Hosted**: Largest open-source collection of n8n templates (24.3k+ stars, 6.3k+ forks), designed for low-code/no-code AI and automation, enabling self-hosted workflow deployment.
+- **Open-Source & Self-Hosted**: Fully open-source collection (MIT License) with 24.3k+ GitHub stars and 6.3k+ forks, enabling low-code/no-code automation without vendor lock-in.
 
-- **Multi-Platform Integration**: Supports automation across AI, messaging (Telegram, Discord), collaboration (Slack, Notion), cloud storage (Google Drive), and DevOps, with last update on 2026-08-01.
+- **AI & Workflow Integration**: Supports AI agent orchestration, retrieval-augmented generation (RAG) chatbots, and cross-platform integrations via n8n’s visual workflow editor, optimized for self-hosted deployments.
 
 ## Why It Matters
 
@@ -45,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: enescingoz
-- Stars: 24313
-- Forks: 6317
+- Stars: 24317
+- Forks: 6318
 - Language: Unknown
 - Topics: ai-agents, ai-automation, automation, automation-templates, awesome, awesome-list, integration, low-code, n8n, n8n-automation, n8n-template, no-code-ai, no-code-automation, self-hosted, telegram-bot, workflow-automation
-- Last Updated: 2026-08-01T10:23:26Z
+- Last Updated: 2026-08-01T13:37:39Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-05-08T18:34:01Z

@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIGER-AI-Lab/VLM2Vec
-collected_at: '2026-08-01T16:21:46.004945+05:30'
+collected_at: '2026-08-01T19:26:46.494666+05:30'
 published_at: '2026-07-31T06:24:04Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
 - youtube
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-10-07T15:14:52Z'
 pushed_at: '2026-07-24T03:40:03Z'
 resource_id: github:tiger-ai-lab/vlm2vec
-first_seen: '2026-08-01T16:21:46.004945+05:30'
-last_seen: '2026-08-01T16:21:46.004945+05:30'
-last_checked: '2026-08-01T16:21:46.004945+05:30'
+first_seen: '2026-08-01T19:26:46.494666+05:30'
+last_seen: '2026-08-01T19:26:46.494666+05:30'
+last_checked: '2026-08-01T19:26:46.494666+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **VLM2Vec Framework**: Repository hosts code for VLM2Vec (ICLR 2025), VLM2Vec-V2 (TMLR 2026), and MMEB-V3 (COLM 2026), focusing on multimodal embedding models leveraging contrastive learning for tasks like image, video, and visual document retrieval.
+- **VLM2Vec Framework**: Implements three versions (ICLR 2025, TMLR 2026, COLM 2026) of a contrastive learning-based multimodal embedding model (VLM2Vec) for tasks like image/video retrieval, visual document retrieval, and multimodal representation learning.
 
-- **Benchmark Suite (MMEB)**: Implements the Massive Multimodal Embedding Benchmark (MMEB) across multiple versions, evaluating representation learning performance in multimodal (vision-language) contexts.
+- **MMEB Benchmark Suite**: Provides the **Multimodal Multi-task Evaluation Benchmark (MMEB)** for standardized evaluation across diverse multimodal tasks, including retrieval, RAG, and representation learning.
 
-- **Technical Stack**: Python-based implementation with support for RAG (Retrieval-Augmented Generation) and multimodal applications, including contrastive learning and embedding optimization for retrieval tasks.
+- **Python Implementation**: Open-source codebase in Python, supporting multimodal embedding generation, contrastive training, and evaluation across multiple benchmarks (MMEB, MMEB-V2, MMEB-V3).
 
 ## Why It Matters
 

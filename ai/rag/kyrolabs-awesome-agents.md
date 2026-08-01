@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/kyrolabs/awesome-agents
-collected_at: '2026-08-01T16:22:41.058058+05:30'
+collected_at: '2026-08-01T19:27:41.581554+05:30'
 published_at: '2026-07-31T20:09:01Z'
 tags:
 - agents
-- dataset
 - github-repo
 - hackernews
 - paper
 - rag
+- scripts
 - unknown
 stars: 2678
 language: Unknown
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-07-02T11:12:36Z'
 pushed_at: '2026-07-31T00:44:26Z'
 resource_id: github:kyrolabs/awesome-agents
-first_seen: '2026-08-01T16:22:41.058058+05:30'
-last_seen: '2026-08-01T16:22:41.058058+05:30'
-last_checked: '2026-08-01T16:22:41.058058+05:30'
+first_seen: '2026-08-01T19:27:41.581554+05:30'
+last_seen: '2026-08-01T19:27:41.581554+05:30'
+last_checked: '2026-08-01T19:27:41.581554+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated AI Agent Resources**: A comprehensive, community-driven collection of tools, frameworks, libraries, and research papers focused on AI agents, including autonomous systems, multi-agent systems, and agent-based modeling.
-
-- **Multi-Topic Coverage**: Encompasses diverse domains such as reinforcement learning, natural language processing (NLP), robotics, and swarm intelligence, with links to open-source projects, datasets, and academic publications.
-
-- **Active Maintenance**: Regularly updated (last commit: 2026-07-31) with contributions from 727 forks and 2,678 stars, indicating strong community engagement and continuous expansion of agent-related technologies.
+- **Curated Collection**: Aggregates a comprehensive list of AI agent frameworks, libraries, tools, and research papers for autonomous agent development and deployment.
+- **Multi-Domain Coverage**: Encompasses agents for software engineering, research, automation, gaming, and multi-agent systems, with links to GitHub repositories and academic resources.
+- **Active Maintenance**: Last updated in 2026, indicating ongoing updates and community-driven contributions to track advancements in AI agent technologies.
 
 ## Why It Matters
 
@@ -45,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: kyrolabs
 - Stars: 2678
-- Forks: 727
+- Forks: 728
 - Language: Unknown
 - Topics: None
 - Last Updated: 2026-07-31T20:09:01Z

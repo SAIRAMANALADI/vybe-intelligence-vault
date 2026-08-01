@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemotron/
-published_at: '2026-08-01T16:20:08.546059+05:30'
-collected_at: '2026-08-01T16:20:08.546071+05:30'
+published_at: '2026-08-01T19:25:09.201460+05:30'
+collected_at: '2026-08-01T19:25:09.201472+05:30'
 tags:
 - agents
 - dataset
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:build-a-retrieval-augmented-generation-rag-agent-w
-first_seen: '2026-08-01T16:20:08.546071+05:30'
-last_seen: '2026-08-01T16:20:08.546071+05:30'
-last_checked: '2026-08-01T16:20:08.546071+05:30'
+first_seen: '2026-08-01T19:25:09.201472+05:30'
+last_seen: '2026-08-01T19:25:09.201472+05:30'
+last_checked: '2026-08-01T19:25:09.201472+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Architecture**: Implements a ReAct agent framework where the LLM dynamically decides between direct response generation or retrieval tool activation, integrating NVIDIA Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for document embedding, and NeMo Retriever Reranking Model for document prioritization).
+- **Agentic RAG Architecture**: Implements a ReAct agent with dynamic tool-calling, integrating retrieval pipelines (via NVIDIA NeMo Retriever) only when additional context is required, enabling autonomous decision-making and complex reasoning beyond static LLM outputs.
 
-- **NVIDIA NIM Integration**: Utilizes NVIDIA NIM endpoints for high-performance inference, supporting tool binding, structured output (Pydantic models), async operations, and enterprise-grade reliability, with the LLM configured via `ChatNVIDIA` for optimized agent behavior.
+- **Core Model Stack**: Utilizes NVIDIA Nemotron Nano 9b V2 for response generation, Llama 3.2 EmbedQA 1b V2 for document embeddings, and Llama 3.2 RerankQA 1b V2 for reranking retrieved documents, all deployed via NVIDIA NIM for high-performance inference with tool-binding and async support.
 
-- **Modular Pipeline Components**: Includes a structured workflow with data ingestion, text splitting, vector database storage, and a retrieval chain, where the agent adheres to a system prompt defining role, tool usage, grounding requirements, source citation, and communication style for reliable RAG-based responses.
+- **Pipeline Workflow**: Processes user prompts through a Retrieval Chain (embedding → vector DB search → reranking) before LLM generation, with the ReAct agent autonomously deciding retrieval necessity and tool invocation, ensuring grounded, citation-backed responses.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T16:20:08.546059+05:30
+- Published: 2026-08-01T19:25:09.201460+05:30
 
 ## Related Tags
 

@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-08-01T16:23:06.170744+05:30'
+collected_at: '2026-08-01T19:28:06.617479+05:30'
 published_at: '2026-08-01T05:06:13Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - python
 - rag
 - scripts
@@ -22,9 +23,9 @@ archived: false
 created_at: '2024-02-27T06:48:32Z'
 pushed_at: '2026-08-01T03:44:40Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-08-01T16:23:06.170744+05:30'
-last_seen: '2026-08-01T16:23:06.170744+05:30'
-last_checked: '2026-08-01T16:23:06.170744+05:30'
+first_seen: '2026-08-01T19:28:06.617479+05:30'
+last_seen: '2026-08-01T19:28:06.617479+05:30'
+last_checked: '2026-08-01T19:28:06.617479+05:30'
 health_score: 100
 ---
 
@@ -32,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: Open-source security automation platform leveraging Python, FastAPI, and Temporal.io for event-driven workflow orchestration with low-code capabilities.
-- **Architecture**: Combines Next.js (frontend), Pydantic (data validation), and OpenAPI (API specification) with LLM integration for AI agent-driven security operations.
-- **Key Features**: Supports monitoring, automation, and security workflows with a scalable, distributed architecture optimized for team collaboration and AI agent interactions.
+- **Platform Architecture**: Open-source security automation platform built with **Python**, **FastAPI**, and **Next.js**, leveraging **Temporal.io** for event-driven workflow orchestration and **Pydantic** for data validation.
+
+- **Core Features**: Supports **low-code automation**, **AI agent integration**, and **OpenAPI-based API design**, with monitoring capabilities via **LLM-driven workflows** and **security-focused event processing**.
+
+- **Technical Stack**: Combines **workflow engine** (Temporal.io), **backend** (FastAPI), **frontend** (Next.js), and **security automation** tools, optimized for team collaboration and AI agent interactions.
 
 ## Why It Matters
 

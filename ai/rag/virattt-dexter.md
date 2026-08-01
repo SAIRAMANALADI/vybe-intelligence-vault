@@ -4,15 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/virattt/dexter
-collected_at: '2026-08-01T16:23:31.083053+05:30'
+collected_at: '2026-08-01T19:28:31.597541+05:30'
 published_at: '2026-08-01T09:16:00Z'
 tags:
 - agents
-- dataset
 - github-repo
 - rag
 - typescript
-- workflows
 stars: 27478
 language: TypeScript
 status: active
@@ -20,9 +18,9 @@ archived: false
 created_at: '2025-10-14T21:02:00Z'
 pushed_at: '2026-07-17T19:23:31Z'
 resource_id: github:virattt/dexter
-first_seen: '2026-08-01T16:23:31.083053+05:30'
-last_seen: '2026-08-01T16:23:31.083053+05:30'
-last_checked: '2026-08-01T16:23:31.083053+05:30'
+first_seen: '2026-08-01T19:28:31.597541+05:30'
+last_seen: '2026-08-01T19:28:31.597541+05:30'
+last_checked: '2026-08-01T19:28:31.597541+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Financial Research Agent**: Dexter is a TypeScript-based autonomous agent designed to perform deep financial research, leveraging AI-driven data analysis and decision-making for market insights.
-- **High Scalability & Modularity**: The repository structure supports extensibility, enabling integration with financial APIs, datasets, and custom research pipelines for automated workflows.
-- **Active Development & Community Engagement**: With 27,478 stars and 3,405 forks, Dexter demonstrates significant community interest, and its recent update (2026-08-01) indicates ongoing maintenance and feature enhancements.
+- **Autonomous Deep Research Agent**: Dexter is a TypeScript-based autonomous agent designed for deep financial research, leveraging AI-driven data analysis and decision-making processes.
+- **GitHub Metrics**: The repository has garnered 27,478 stars and 3,405 forks, indicating significant community interest and adoption.
+- **Last Updated**: The project was last updated on August 1, 2026, reflecting active maintenance and development.
 
 ## Why It Matters
 

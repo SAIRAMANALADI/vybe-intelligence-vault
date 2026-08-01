@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-08-01T16:20:06.252155+05:30'
-collected_at: '2026-08-01T16:20:06.252169+05:30'
+published_at: '2026-08-01T19:25:06.886606+05:30'
+collected_at: '2026-08-01T19:25:06.886615+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-08-01T16:20:06.252169+05:30'
-last_seen: '2026-08-01T16:20:06.252169+05:30'
-last_checked: '2026-08-01T16:20:06.252169+05:30'
+first_seen: '2026-08-01T19:25:06.886615+05:30'
+last_seen: '2026-08-01T19:25:06.886615+05:30'
+last_checked: '2026-08-01T19:25:06.886615+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional rerankers/caching; hybrid retrieval (BM25 + vector) improves recall/precision while ANN indexes (HNSW/IVF+PQ) enable scalable vector search.
+- **RAG Architecture**: Combines a retriever (vector/lexical) with a generator (LLM), enabling dynamic access to external knowledge at inference time to improve factuality and reduce hallucinations, while introducing latency and cost overhead.
 
-- **Chunking & Embeddings Optimization**: Structure-aware chunking (preserving paragraphs/sections) with overlap (10–20%) balances coherence and retrieval; domain-specific fine-tuning of embeddings (query-document pairs) outperforms off-the-shelf models, with dimensionality/normalization tuned for latency and accuracy.
+- **Chunking & Embeddings**: Optimal retrieval depends on semantic-aware chunking (e.g., structure-aware or LLM-based) and domain-fine-tuned embeddings (normalized, low-dimensional) to balance coherence and retrieval precision.
 
-- **Multi-Stage Retrieval & Context Control**: Two-stage retrieval (first-stage retriever + cross-encoder reranker) enhances precision; query rewriting (LLM-based canonicalization/expansion) and multi-query fusion improve coverage; context distillation (LLM-based condensation) and autocut (token budgeting) mitigate hallucinations and token limits.
+- **Multi-Stage Retrieval & Context Optimization**: Two-stage retrieval (ANN + cross-encoder reranker) improves precision, while iterative/multi-hop strategies and context distillation (e.g., autocut, LLM-based summarization) enhance reasoning and token efficiency.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T16:20:06.252155+05:30
+- Published: 2026-08-01T19:25:06.886606+05:30
 
 ## Related Tags
 

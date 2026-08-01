@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KruxAI/ragbuilder
-collected_at: '2026-08-01T16:21:31.045369+05:30'
+collected_at: '2026-08-01T19:26:31.487238+05:30'
 published_at: '2026-07-31T10:58:37Z'
 tags:
 - benchmark
+- dataset
 - github-repo
-- meta-ai
 - models
 - python
 - rag
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-06-24T07:25:00Z'
 pushed_at: '2025-05-20T03:53:13Z'
 resource_id: github:kruxai/ragbuilder
-first_seen: '2026-08-01T16:21:31.045369+05:30'
-last_seen: '2026-08-01T16:21:31.045369+05:30'
-last_checked: '2026-08-01T16:21:31.045369+05:30'
+first_seen: '2026-08-01T19:26:31.487238+05:30'
+last_seen: '2026-08-01T19:26:31.487238+05:30'
+last_checked: '2026-08-01T19:26:31.487238+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-ready RAG systems with customizable components (e.g., embedders, retrievers, LLMs) and configurable pipelines for optimal performance.
+- **Purpose-built RAG Toolkit**: Provides a Python-based framework for constructing production-grade Retrieval-Augmented Generation (RAG) pipelines optimized for custom datasets.
 
-- **Optimization Framework**: Implements automated evaluation and tuning mechanisms to benchmark and refine RAG setups, ensuring high relevance, latency, and cost-efficiency in real-world deployments.
+- **Modular Architecture**: Implements reusable components (e.g., embedders, retrievers, LLMs) with configurable pipelines to streamline RAG deployment.
 
-- **Open-Source Toolkit**: Supports integration with popular GenAI libraries (e.g., LangChain, LlamaIndex) and includes pre-built templates for rapid prototyping and deployment of RAG applications.
+- **Performance Optimization**: Includes utilities for benchmarking, fine-tuning, and validating RAG setups to ensure scalability and efficiency in real-world applications.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://firecrawl.dev/changelog
-published_at: '2026-07-20T22:21:29.262259+05:30'
-collected_at: '2026-07-20T22:21:29.262276+05:30'
+published_at: '2026-08-01T19:30:35.164940+05:30'
+collected_at: '2026-08-01T19:30:35.164953+05:30'
 tags:
 - agents
 - anthropic
@@ -24,9 +24,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:changelog-firecrawl
-first_seen: '2026-07-20T22:21:29.262276+05:30'
-last_seen: '2026-07-20T22:21:29.262276+05:30'
-last_checked: '2026-07-20T22:21:29.262276+05:30'
+first_seen: '2026-08-01T19:30:35.164953+05:30'
+last_seen: '2026-08-01T19:30:35.164953+05:30'
+last_checked: '2026-08-01T19:30:35.164953+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Web-scale `/monitor`**: Always-on search engine that continuously monitors the web for user-defined queries/goals, alerting via webhook/email when new matching content appears, replacing DIY monitoring stacks with a single endpoint.
+- **Enhanced `/search` Accuracy**: Custom relevance model scores excerpts (paragraphs, lists, tables) against queries, achieving **94.7% accuracy on SimpleQA** while using **10x fewer tokens** than full-page processing, with unchanged API integration.
 
-- **Firecrawl Research Index**: Specialized index with 3M+ arXiv papers + GitHub artifacts (issues/PRs/READMEs), achieving 53.3% recall on arXivQA (18% better than competitors) and enabling agents to verify claims against full text while retrieving related code.
+- **Firecrawl Research Index**: Specialized index for AI/ML research with **53.3% recall on arXivQA** (18% higher than competitors), covering **3M+ arXiv papers + GitHub artifacts**, enabling end-to-end literature-to-code workflows.
 
-- **`/interact` Endpoint**: Enables browser automation by converting scraped pages into live sessions where agents can click buttons, fill forms, or extract dynamic content using natural language or Playwright/Bash scripts, with persistent sessions and reusable profiles.
+- **`/parse` Endpoint**: Rust-based engine for **PDFs, Word, spreadsheets (up to 50MB)** with **5x faster parsing**, structured Markdown/JSON output, and **zero data retention** support for security-sensitive documents.
 
 ## Why It Matters
 
@@ -48,7 +48,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T22:21:29.262259+05:30
+- Published: 2026-08-01T19:30:35.164940+05:30
 
 ## Related Tags
 

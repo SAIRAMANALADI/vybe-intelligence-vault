@@ -4,15 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-08-01T16:23:01.037596+05:30'
+collected_at: '2026-08-01T19:28:01.536636+05:30'
 published_at: '2026-08-01T01:34:31Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - unknown
-- workflows
 stars: 2498
 language: Unknown
 status: active
@@ -20,9 +18,9 @@ archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-08-01T16:23:01.037596+05:30'
-last_seen: '2026-08-01T16:23:01.037596+05:30'
-last_checked: '2026-08-01T16:23:01.037596+05:30'
+first_seen: '2026-08-01T19:28:01.536636+05:30'
+last_seen: '2026-08-01T19:28:01.536636+05:30'
+last_checked: '2026-08-01T19:28:01.536636+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Analyzes prompt patterns and coordination mechanisms in agentic AI systems (e.g., Claude) for autonomous coding tasks, including multi-agent workflows and task decomposition.
-- **Security Classification Framework**: Proposes a structured approach to classify and mitigate risks in agentic AI systems, addressing vulnerabilities in prompt injection, data leakage, and unauthorized tool access.
-- **Prompt Engineering Techniques**: Documents reconstructed prompt patterns for optimizing agentic AI performance, focusing on system prompts, context management, and adaptive reasoning in coding workflows.
+- **Agentic AI Coding Assistants**: Analyzes prompt patterns, agent coordination mechanisms, and security classifications for AI-driven coding assistants, focusing on autonomous task decomposition and execution.
+- **Prompt Engineering & System Prompts**: Reconstructs structured prompt templates to optimize agentic behavior, including role definition, task constraints, and iterative feedback loops.
+- **Security & Classification Framework**: Proposes a security taxonomy for agentic AI systems, addressing risks like privilege escalation, data leakage, and adversarial prompt injection in multi-agent environments.
 
 ## Why It Matters
 

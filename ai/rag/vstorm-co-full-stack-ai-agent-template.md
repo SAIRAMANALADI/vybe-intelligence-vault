@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-08-01T16:20:20.921794+05:30'
-published_at: '2026-08-01T10:37:30Z'
+collected_at: '2026-08-01T19:25:21.443140+05:30'
+published_at: '2026-08-01T11:04:27Z'
 tags:
 - agents
 - frontend_ui
@@ -18,11 +18,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2025-12-19T12:23:15Z'
-pushed_at: '2026-08-01T10:38:55Z'
+pushed_at: '2026-08-01T11:04:53Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-08-01T16:20:20.921794+05:30'
-last_seen: '2026-08-01T16:20:20.921794+05:30'
-last_checked: '2026-08-01T16:20:20.921794+05:30'
+first_seen: '2026-08-01T19:25:21.443140+05:30'
+last_seen: '2026-08-01T19:25:21.443140+05:30'
+last_checked: '2026-08-01T19:25:21.443140+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: Full-stack AI application template combining FastAPI (Python) backend with Next.js (TypeScript/React) frontend, PostgreSQL database, and Docker for containerization.
+- **Tech Stack**: Full-stack template integrating FastAPI (backend) with Next.js (frontend), PostgreSQL (database), and Docker (containerization), supporting AI agents via CrewAI, LangChain, LangGraph, and Pydantic-AI/Deep.
 
-- **AI Capabilities**: Pre-integrated with AI agent frameworks (CrewAI, LangChain, LangGraph, Pydantic-AI), RAG (Retrieval-Augmented Generation), real-time streaming via WebSockets, and 20+ third-party integrations.
+- **Key Features**: Built-in AI agent orchestration, Retrieval-Augmented Generation (RAG), real-time streaming via WebSocket, authentication, and 20+ third-party integrations (e.g., LLM APIs, databases).
 
-- **Features**: Built-in authentication, Pydantic data validation (Deep), and last updated with AI agent tooling advancements (August 2026).
+- **Architecture**: Modular design with Pydantic validation, FastAPI for REST/async endpoints, Next.js/React for UI, and PostgreSQL for persistent storage, optimized for scalability and rapid AI app deployment.
 
 ## Why It Matters
 
@@ -47,11 +47,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 315
 - Language: Python
 - Topics: agent-framework, ai-agent-template, ai-agents, crewai, docker, fastapi, full-stack, langchain, langgraph, llm, nextjs, postgresql, pydantic-ai, pydantic-deep, python, rag, react, typescript, vstorm, websocket
-- Last Updated: 2026-08-01T10:37:30Z
+- Last Updated: 2026-08-01T11:04:27Z
 - License: MIT
 - Archived: No
 - Created At: 2025-12-19T12:23:15Z
-- Pushed At: 2026-08-01T10:38:55Z
+- Pushed At: 2026-08-01T11:04:53Z
 
 ## Possible Use Cases
 

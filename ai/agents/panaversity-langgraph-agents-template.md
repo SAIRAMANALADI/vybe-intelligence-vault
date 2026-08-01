@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/panaversity/langgraph-agents-template
-collected_at: '2026-08-01T09:24:28.555785+05:30'
+collected_at: '2026-08-01T19:28:51.614290+05:30'
 published_at: '2026-06-10T10:39:30Z'
 tags:
 - agents
 - github-repo
 - python
+- workflows
 stars: 98
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-11-29T22:45:35Z'
 pushed_at: '2025-02-03T12:17:21Z'
 resource_id: github:panaversity/langgraph-agents-template
-first_seen: '2026-08-01T09:24:28.555785+05:30'
-last_seen: '2026-08-01T09:24:28.555785+05:30'
-last_checked: '2026-08-01T09:24:28.555785+05:30'
+first_seen: '2026-08-01T19:28:51.614290+05:30'
+last_seen: '2026-08-01T19:28:51.614290+05:30'
+last_checked: '2026-08-01T19:28:51.614290+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a starter template for constructing multi-agent systems using LangGraph in Python.
-- **Key Features**: Modular architecture designed for scalability and agent orchestration.
-- **Last Updated**: June 10, 2026, with 98 stars and 24 forks.
+- **Purpose**: Provides a starter template for constructing multi-agent systems using Python.
+- **Key Features**: Implements LangGraph framework for orchestrating agent interactions and workflows.
+- **Updates**: Last modified on **2026-06-10**, with 98 stars and 24 forks on GitHub.
 
 ## Why It Matters
 

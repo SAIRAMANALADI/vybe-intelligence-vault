@@ -13,13 +13,14 @@ collected_at: '2026-08-01T16:19:17.015242+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-doesn-t-generate-working-products-that-s-still
 first_seen: '2026-08-01T16:19:17.015242+05:30'
 last_seen: '2026-08-01T16:19:17.015242+05:30'
 last_checked: '2026-08-01T16:19:17.015242+05:30'
 health_score: 100
 ---
+
 
 # AI doesn't generate working products, that's still your job
 

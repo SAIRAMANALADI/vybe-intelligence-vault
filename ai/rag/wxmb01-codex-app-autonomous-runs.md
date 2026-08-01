@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wxmb01/codex-app-autonomous-runs
-collected_at: '2026-07-21T22:16:37.540282+05:30'
+collected_at: '2026-08-01T19:28:26.576805+05:30'
 published_at: '2026-07-05T04:27:06Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - javascript
 - rag
 - scripts
-- workflows
 stars: 9
 language: JavaScript
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-05-15T11:57:03Z'
 pushed_at: '2026-05-15T22:12:41Z'
 resource_id: github:wxmb01/codex-app-autonomous-runs
-first_seen: '2026-07-21T22:16:37.540282+05:30'
-last_seen: '2026-07-21T22:16:37.540282+05:30'
-last_checked: '2026-07-21T22:16:37.540282+05:30'
+first_seen: '2026-08-01T19:28:26.576805+05:30'
+last_seen: '2026-08-01T19:28:26.576805+05:30'
+last_checked: '2026-08-01T19:28:26.576805+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous AI Agent Framework**: Provides templates for long-running autonomous project execution using AI agents, reviewer agents, and learning loops to enhance automation and decision-making.
+- **Templates for autonomous AI agent runs**: Provides Codex App templates enabling long-duration autonomous execution with integrated reviewer agents and learning loops for iterative improvement.
 
-- **Safety & Narrow Hooks**: Implements narrow safety hooks to constrain agent behavior and mitigate risks during autonomous operations, ensuring controlled execution.
+- **Narrow safety hooks**: Incorporates targeted safety mechanisms to constrain agent behavior during autonomous operations, mitigating risks in project execution.
 
-- **JavaScript-Based Implementation**: Built entirely in JavaScript, leveraging modern AI agent ecosystems (e.g., Codex) for modular, extensible autonomous workflows.
+- **JavaScript-based implementation**: Repository is implemented in JavaScript, leveraging Codex App framework for agent automation and project management.
 
 ## Why It Matters
 

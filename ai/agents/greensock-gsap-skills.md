@@ -4,15 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/greensock/gsap-skills
-collected_at: '2026-08-01T16:22:31.052149+05:30'
-published_at: '2026-08-01T10:16:55Z'
+collected_at: '2026-08-01T19:27:31.533530+05:30'
+published_at: '2026-08-01T13:53:55Z'
 tags:
 - agents
 - animation
 - github-repo
 - hackernews
 - unknown
-stars: 12803
+- workflows
+stars: 12814
 language: Unknown
 status: active
 license: MIT
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-03-04T17:22:35Z'
 pushed_at: '2026-07-29T17:36:08Z'
 resource_id: github:greensock/gsap-skills
-first_seen: '2026-08-01T16:22:31.052149+05:30'
-last_seen: '2026-08-01T16:22:31.052149+05:30'
-last_checked: '2026-08-01T16:22:31.052149+05:30'
+first_seen: '2026-08-01T19:27:31.533530+05:30'
+last_seen: '2026-08-01T19:27:31.533530+05:30'
+last_checked: '2026-08-01T19:27:31.533530+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **GSAP AI Skills Repository**: Provides structured AI training for GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration.
-- **Technical Focus**: Designed to optimize AI coding agents' proficiency in GSAP, ensuring correct implementation of animations and performance optimizations.
-- **Repository Metadata**: 12.8K+ stars, 754 forks, last updated August 2026, language unspecified (likely JavaScript/TypeScript).
+- **GSAP AI Skills Repository**: Provides structured training for AI agents on GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration.
+- **Technical Focus**: Includes optimized coding patterns, performance considerations, and plugin-specific workflows for GSAP animations.
+- **Repository Metadata**: 12,814 stars, 757 forks, last updated 2026-08-01. Language/tech stack unspecified.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: greensock
-- Stars: 12803
-- Forks: 754
+- Stars: 12814
+- Forks: 757
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-08-01T10:16:55Z
+- Last Updated: 2026-08-01T13:53:55Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-04T17:22:35Z

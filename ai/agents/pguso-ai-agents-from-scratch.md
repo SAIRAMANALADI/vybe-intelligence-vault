@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/ai-agents-from-scratch
-collected_at: '2026-08-01T16:22:01.005385+05:30'
+collected_at: '2026-08-01T19:27:01.488486+05:30'
 published_at: '2026-08-01T09:26:46Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-10-23T19:39:04Z'
 pushed_at: '2026-07-24T15:40:39Z'
 resource_id: github:pguso/ai-agents-from-scratch
-first_seen: '2026-08-01T16:22:01.005385+05:30'
-last_seen: '2026-08-01T16:22:01.005385+05:30'
-last_checked: '2026-08-01T16:22:01.005385+05:30'
+first_seen: '2026-08-01T19:27:01.488486+05:30'
+last_seen: '2026-08-01T19:27:01.488486+05:30'
+last_checked: '2026-08-01T19:27:01.488486+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational Repository**: Provides a hands-on tutorial for building AI agents from scratch using JavaScript, emphasizing local LLMs and eliminating black-box dependencies.
-- **Core Technical Focus**: Covers function calling, memory management, and ReAct (Reasoning and Acting) patterns to demystify AI agent architectures.
-- **Toolchain & Integration**: Utilizes `node-llama-cpp` for local LLM inference and includes React-based agent implementations for practical demonstration.
+- **Educational Repository**: Provides a hands-on tutorial for building AI agents from scratch using JavaScript, focusing on local LLMs (via `node-llama-cpp`) to eliminate black-box dependencies.
+
+- **Core Technical Concepts**: Covers function calling, memory management, and ReAct (Reasoning and Acting) patterns to implement functional, state-aware AI agents.
+
+- **Tooling & Patterns**: Demonstrates integration with `node-llama-cpp` for local LLM inference and React-based agent architectures for dynamic interaction flows.
 
 ## Why It Matters
 

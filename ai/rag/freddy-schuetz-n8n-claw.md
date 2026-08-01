@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-08-01T16:23:21.072380+05:30'
+collected_at: '2026-08-01T19:28:21.551492+05:30'
 published_at: '2026-08-01T02:25:01Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - rag
-- scripts
 - shell
 - workflows
 stars: 542
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-07-31T11:24:38Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-08-01T16:23:21.072380+05:30'
-last_seen: '2026-08-01T16:23:21.072380+05:30'
-last_checked: '2026-08-01T16:23:21.072380+05:30'
+first_seen: '2026-08-01T19:28:21.551492+05:30'
+last_seen: '2026-08-01T19:28:21.551492+05:30'
+last_checked: '2026-08-01T19:28:21.551492+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging adaptive Retrieval-Augmented Generation (RAG) for memory, MCP templates for skills, and expert agents with delegated sub-agents for hierarchical task management.
+- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging adaptive RAG-powered memory, MCP templates for Skills, and Expert Agents with delegated sub-agents for hierarchical task execution.
 
-- **Capabilities**: Supports proactive task execution, media understanding, and self-hosted deployment via a single setup script; integrates with Supabase for data persistence and SearXNG for search functionality.
+- **Capabilities**: Features proactive task management, media understanding, and self-hosted deployment via a single setup script, integrating tools like Crawl4AI, SearXNG, and Supabase for data processing and storage.
 
-- **Technical Stack**: Shell-based setup, with dependencies on Crawl4AI for web scraping, MCP for skill templates, and n8n for workflow orchestration; designed for extensibility and modular agent interactions.
+- **Technical Stack**: Shell-based repository with dependencies on n8n, MCP, and frameworks like OpenClaw, designed for extensibility and modularity in AI agent development.
 
 ## Why It Matters
 

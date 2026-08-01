@@ -2,7 +2,7 @@
 title: Get Started | DataCamp
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://app.datacamp.com/?support=true
+source_url: https://app.datacamp.com/sandbox/get-started/python-amazon-bedrock
 resource_id: blog:get-started-datacamp
 local_vault_path: ai/rag/get-started-datacamp.md
 quality_score: 70
@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Authentication Methods**: Supports email/password login, Single Sign-On (SSO), and OAuth via Google, Microsoft, LinkedIn, Facebook, and Apple.
+- **Authentication Methods**: Supports traditional email/password login, Single Sign-On (SSO), and OAuth via Google, Microsoft, LinkedIn, Facebook, and Apple.
 - **Security & Compliance**: Enforces Terms of Use, Privacy Policy, and data storage in the USA per user agreement.
-- **Session Management**: Includes "Remember me" option for persistent sessions and a password recovery mechanism via email.
+- **Session Management**: Includes "Remember me" option for persistent sessions and password recovery via email.
 
 ## Use Cases
 
@@ -43,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://app.datacamp.com/?support=true
+Original source URL: https://app.datacamp.com/sandbox/get-started/python-amazon-bedrock
 
 ## Local Vault File
 

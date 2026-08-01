@@ -13,13 +13,14 @@ collected_at: '2026-08-01T16:19:18.436988+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:eu-will-mandate-labels-on-authentic-looking-ai-con
 first_seen: '2026-08-01T16:19:18.436988+05:30'
 last_seen: '2026-08-01T16:19:18.436988+05:30'
 last_checked: '2026-08-01T16:19:18.436988+05:30'
 health_score: 100
 ---
+
 
 # EU will mandate labels on authentic-looking AI content starting August 2
 

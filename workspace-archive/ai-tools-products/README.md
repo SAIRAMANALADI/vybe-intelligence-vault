@@ -22,10 +22,10 @@ Discovering modern AI productivity tools allows developers to streamline their d
 https://github.com/steven-tey/charlie (Charlie Directory App)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
 - [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents)
+- [HoangNguyen0403/agent-skills-standard](https://github.com/HoangNguyen0403/agent-skills-standard)
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security)
-- [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero)
+- [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices)
 - [Kotlin/Kotlin-AI-Examples](https://github.com/Kotlin/Kotlin-AI-Examples)
-- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-08-01 16:37 IST*
+*Last updated: 2026-08-01 19:42 IST*

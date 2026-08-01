@@ -4,7 +4,7 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama-parse-go
-collected_at: '2026-08-01T16:26:18.225610+05:30'
+collected_at: '2026-08-01T19:31:20.894628+05:30'
 published_at: '2026-07-31T09:11:24Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-06-15T21:38:11Z'
 pushed_at: '2026-07-31T06:31:49Z'
 resource_id: github:run-llama/llama-parse-go
-first_seen: '2026-08-01T16:26:18.225610+05:30'
-last_seen: '2026-08-01T16:26:18.225610+05:30'
-last_checked: '2026-08-01T16:26:18.225610+05:30'
+first_seen: '2026-08-01T19:31:20.894628+05:30'
+last_seen: '2026-08-01T19:31:20.894628+05:30'
+last_checked: '2026-08-01T19:31:20.894628+05:30'
 health_score: 100
 ---
 
@@ -30,8 +30,8 @@ health_score: 100
 ## Summary
 
 - **Go SDK for LlamaParse**: Provides Go bindings for cloud-based OCR and document parsing using LlamaParse, enabling structured extraction from unstructured documents.
-- **Minimalist Repository**: Lightweight implementation with 4 stars, 0 forks, and no additional topics, indicating early-stage or niche adoption.
-- **Last Updated**: Repository last modified on **2026-07-31**, suggesting active maintenance or recent updates despite low star count.
+- **Minimal Repository**: Currently has 4 stars and 0 forks, with no additional topics or metadata beyond its core functionality.
+- **Last Updated**: Repository was last updated on **July 31, 2026**, indicating active maintenance.
 
 ## Why It Matters
 

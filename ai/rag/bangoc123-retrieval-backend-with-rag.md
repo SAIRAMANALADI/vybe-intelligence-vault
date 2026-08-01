@@ -4,16 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-08-01T16:20:50.927293+05:30'
+collected_at: '2026-08-01T19:25:51.397844+05:30'
 published_at: '2026-07-17T22:50:34Z'
 tags:
-- benchmark
-- dataset
 - github-repo
-- hackernews
-- models
 - python
 - rag
+- workflows
 stars: 265
 language: Python
 status: active
@@ -21,9 +18,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-08-01T16:20:50.927293+05:30'
-last_seen: '2026-08-01T16:20:50.927293+05:30'
-last_checked: '2026-08-01T16:20:50.927293+05:30'
+first_seen: '2026-08-01T19:25:51.397844+05:30'
+last_seen: '2026-08-01T19:25:51.397844+05:30'
+last_checked: '2026-08-01T19:25:51.397844+05:30'
 health_score: 100
 ---
 
@@ -31,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Demonstrates best practices for building a Retrieval-Augmented Generation (RAG) system optimized for Vietnamese language processing, including text preprocessing, embedding, and retrieval strategies.
+- **Vietnamese RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) best practices tailored for Vietnamese language processing, leveraging Python-based pipelines for document retrieval and generation.
 
-- **Modular Python Architecture**: Utilizes a structured backend with components for document ingestion, vector storage (e.g., FAISS or Chroma), and LLM integration (e.g., ViT5, PhoBERT) for Vietnamese-specific tasks.
+- **Modular Architecture**: Features a structured backend with modular components (e.g., embedding models, vector databases, and LLM interfaces) optimized for Vietnamese text retrieval and contextual generation.
 
-- **Evaluation & Optimization**: Includes benchmarking tools for Vietnamese RAG performance, with metrics like retrieval accuracy, response relevance, and latency, alongside fine-tuning techniques for domain-specific datasets.
+- **Performance Optimization**: Includes Vietnamese-specific preprocessing (tokenization, stopword removal) and retrieval strategies (dense/sparse retrieval) to enhance accuracy and efficiency in RAG workflows.
 
 ## Why It Matters
 

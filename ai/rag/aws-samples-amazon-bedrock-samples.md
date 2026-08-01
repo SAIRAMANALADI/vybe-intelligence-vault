@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aws-samples/amazon-bedrock-samples
-collected_at: '2026-08-01T16:20:46.018610+05:30'
+collected_at: '2026-08-01T19:25:46.508125+05:30'
 published_at: '2026-07-30T06:39:17Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2023-07-05T18:23:34Z'
 pushed_at: '2026-07-21T18:46:37Z'
 resource_id: github:aws-samples/amazon-bedrock-samples
-first_seen: '2026-08-01T16:20:46.018610+05:30'
-last_seen: '2026-08-01T16:20:46.018610+05:30'
-last_checked: '2026-08-01T16:20:46.018610+05:30'
+first_seen: '2026-08-01T19:25:46.508125+05:30'
+last_seen: '2026-08-01T19:25:46.508125+05:30'
+last_checked: '2026-08-01T19:25:46.508125+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook examples demonstrating usage of all available Amazon Bedrock foundational models, including Amazon Titan and other supported models.
+- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook-based examples covering all available Amazon Bedrock foundational models, including Amazon Titan, for customer onboarding and experimentation.
 
-- **Multi-Faceted AI Integration**: Includes examples for key AI/ML workflows such as embeddings generation, Retrieval-Augmented Generation (RAG), LangChain integration, and knowledge base construction.
+- **Multi-Faceted AI Workflows**: Demonstrates integrations with LangChain, embeddings, Retrieval-Augmented Generation (RAG), and knowledge bases, showcasing end-to-end generative AI use cases.
 
-- **AWS Service Ecosystem**: Focuses on seamless integration with AWS services, particularly Amazon Bedrock, to enable generative AI applications with enterprise-grade scalability and security.
+- **AWS Service Ecosystem**: Focuses on seamless integration with AWS services (e.g., Bedrock, Titan) while emphasizing modularity for extensibility in generative AI and machine learning pipelines.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: aws-samples
 - Stars: 1481
-- Forks: 707
+- Forks: 708
 - Language: Jupyter Notebook
 - Topics: amazon-bedrock, amazon-titan, bedrock, embeddings, generative-ai, knowledge-base, langchain, rag
 - Last Updated: 2026-07-30T06:39:17Z

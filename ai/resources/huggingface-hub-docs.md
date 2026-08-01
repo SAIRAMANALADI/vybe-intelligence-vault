@@ -4,10 +4,11 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/huggingface/hub-docs
-collected_at: '2026-08-01T16:26:23.181791+05:30'
+collected_at: '2026-08-01T19:31:20.836378+05:30'
 published_at: '2026-08-01T04:12:15Z'
 tags:
 - github-repo
+- hackernews
 - handlebars
 stars: 579
 language: Handlebars
@@ -17,9 +18,9 @@ archived: false
 created_at: '2022-03-16T13:26:14Z'
 pushed_at: '2026-08-01T04:11:56Z'
 resource_id: github:huggingface/hub-docs
-first_seen: '2026-08-01T16:26:23.181791+05:30'
-last_seen: '2026-08-01T16:26:23.181791+05:30'
-last_checked: '2026-08-01T16:26:23.181791+05:30'
+first_seen: '2026-08-01T19:31:20.836378+05:30'
+last_seen: '2026-08-01T19:31:20.836378+05:30'
+last_checked: '2026-08-01T19:31:20.836378+05:30'
 health_score: 100
 ---
 
@@ -27,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Documentation Framework**: Utilizes **Handlebars** templating for dynamic content rendering in the Hugging Face Hub documentation.
-- **Repository Metrics**: Maintains **579 stars** and **476 forks**, indicating moderate community engagement.
-- **Maintenance Status**: Last updated **August 2026**, suggesting active but infrequent updates.
+- **Repository Overview**: Official documentation for the Hugging Face Hub, hosted on GitHub with 579 stars and 476 forks.
+- **Technical Stack**: Written in Handlebars, a templating language, with machine learning as a primary topic.
+- **Maintenance**: Last updated on August 1, 2026, indicating active but infrequent updates.
 
 ## Why It Matters
 

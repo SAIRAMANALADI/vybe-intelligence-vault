@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVISOsecurity/cyber-security-llm-agents
-collected_at: '2026-08-01T14:08:44.474607+05:30'
+collected_at: '2026-08-01T19:28:06.606408+05:30'
 published_at: '2026-07-28T16:23:21Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 - workflows
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-02-29T09:54:26Z'
 pushed_at: '2024-05-07T15:31:28Z'
 resource_id: github:nvisosecurity/cyber-security-llm-agents
-first_seen: '2026-08-01T14:08:44.474607+05:30'
-last_seen: '2026-08-01T14:08:44.474607+05:30'
-last_checked: '2026-08-01T14:08:44.474607+05:30'
+first_seen: '2026-08-01T19:28:06.606408+05:30'
+last_seen: '2026-08-01T19:28:06.606408+05:30'
+last_checked: '2026-08-01T19:28:06.606408+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Repository containing LLM-based agents designed to automate cybersecurity tasks such as adversary emulation and red teaming, leveraging Large Language Models (LLMs) for offensive and defensive security operations.
-
-- **Technical Stack**: Implemented primarily in Jupyter Notebooks, integrating with **MITRE Caldera** for adversary emulation workflows and AI-driven decision-making for cybersecurity tasks.
-
-- **Key Features**: Supports modular agent-based architectures for cybersecurity workflows, with capabilities for automated threat simulation, security testing, and LLM-driven analysis of attack/defense strategies.
+- **LLM-Powered Cybersecurity Agents**: Repository contains Jupyter Notebook-based agents leveraging LLMs to automate common cybersecurity tasks (e.g., adversary emulation, threat detection).
+- **Integration with CALDERA**: Agents designed to interface with the CALDERA adversary emulation platform, enabling automated red teaming and security testing workflows.
+- **Open-Source Toolkit**: Provides a modular framework for cybersecurity professionals to extend and customize LLM-driven security operations, with active updates as of July 2026.
 
 ## Why It Matters
 

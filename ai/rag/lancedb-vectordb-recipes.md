@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-08-01T16:20:15.905767+05:30'
+collected_at: '2026-08-01T19:25:16.434118+05:30'
 published_at: '2026-07-27T01:59:34Z'
 tags:
 - agents
@@ -24,9 +24,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-08-01T16:20:15.905767+05:30'
-last_seen: '2026-08-01T16:20:15.905767+05:30'
-last_checked: '2026-08-01T16:20:15.905767+05:30'
+first_seen: '2026-08-01T19:25:16.434118+05:30'
+last_seen: '2026-08-01T19:25:16.434118+05:30'
+last_checked: '2026-08-01T19:25:16.434118+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based examples and tutorials for building multimodal AI systems, Retrieval-Augmented Generation (RAG), and agent-based workflows using vector search and LLMs.
+- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based tutorials for integrating vector search with LLMs (e.g., GPT-4 Vision) for multimodal AI, Retrieval-Augmented Generation (RAG), and agent-based workflows using LanceDB, LangChain, and LlamaIndex.
 
-- **Tooling & Framework Integration**: Demonstrates integration with key libraries such as LangChain, LlamaIndex, OpenAI (GPT-4 Vision), and LanceDB for embeddings, fine-tuning, and vector database operations.
+- **End-to-End Workflows**: Demonstrates fine-tuning, embedding generation, and vector database operations (via LanceDB) for multimodal tasks, including OpenAI API integrations and deep learning model pipelines.
 
-- **Technical Focus Areas**: Covers deep learning, embeddings generation, multimodal AI pipelines, and agent orchestration with a focus on practical implementations for AI-driven applications.
+- **Technical Stack**: Focuses on vector databases (LanceDB), embeddings, and agent frameworks (LangChain/LlamaIndex) with practical examples for deploying scalable AI systems leveraging LLMs and multimodal inputs.
 
 ## Why It Matters
 

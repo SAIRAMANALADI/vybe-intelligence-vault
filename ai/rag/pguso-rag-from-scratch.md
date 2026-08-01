@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-08-01T16:20:15.967956+05:30'
+collected_at: '2026-08-01T19:25:16.422652+05:30'
 published_at: '2026-07-30T12:30:17Z'
 tags:
 - agents
@@ -13,6 +13,7 @@ tags:
 - meta-ai
 - models
 - rag
+- workflows
 stars: 1485
 language: JavaScript
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-08-01T16:20:15.967956+05:30'
-last_seen: '2026-08-01T16:20:15.967956+05:30'
-last_checked: '2026-08-01T16:20:15.967956+05:30'
+first_seen: '2026-08-01T19:25:16.422652+05:30'
+last_seen: '2026-08-01T19:25:16.422652+05:30'
+last_checked: '2026-08-01T19:25:16.422652+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **End-to-End RAG Pipeline**: Implements a Retrieval-Augmented Generation (RAG) system from scratch using JavaScript, covering embeddings, vector search, retrieval, and context-augmented generation without relying on black-box APIs.
+- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using JavaScript, emphasizing transparency with local LLMs (via `node-llama-cpp`) and avoiding proprietary black boxes.
 
-- **Local LLM Integration**: Utilizes `node-llama-cpp` to run large language models (LLMs) locally, ensuring no external dependencies and full transparency in the generation process.
+- **Core Components**: Covers embeddings generation, vector search, retrieval mechanisms, and context-augmented generation, providing hands-on understanding of each step in the RAG workflow.
 
-- **Educational Focus**: Designed as a hands-on tutorial to demystify RAG mechanics, including agents, AI-agents, and RAG pipeline components for Node.js environments.
+- **Practical Tutorial**: Serves as a step-by-step guide for building a RAG-based chatbot, targeting developers interested in Node.js and AI agents, with the last update as of July 30, 2026.
 
 ## Why It Matters
 
@@ -45,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: pguso
 - Stars: 1485
-- Forks: 179
+- Forks: 180
 - Language: JavaScript
 - Topics: agents, ai-agents, educational, llm, node-llama-cpp, nodejs, rag, rag-chatbot, rag-pipeline, tutorial
 - Last Updated: 2026-07-30T12:30:17Z

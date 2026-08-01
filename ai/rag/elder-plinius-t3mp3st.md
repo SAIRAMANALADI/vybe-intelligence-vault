@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/elder-plinius/T3MP3ST
-collected_at: '2026-08-01T16:23:01.047206+05:30'
-published_at: '2026-08-01T09:26:37Z'
+collected_at: '2026-08-01T19:28:01.525662+05:30'
+published_at: '2026-08-01T13:38:53Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - rag
 - scripts
 - typescript
-- workflows
-stars: 5334
+stars: 5337
 language: TypeScript
 status: active
 license: AGPL-3.0
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-07-02T17:53:55Z'
 pushed_at: '2026-07-31T03:56:46Z'
 resource_id: github:elder-plinius/t3mp3st
-first_seen: '2026-08-01T16:23:01.047206+05:30'
-last_seen: '2026-08-01T16:23:01.047206+05:30'
-last_checked: '2026-08-01T16:23:01.047206+05:30'
+first_seen: '2026-08-01T19:28:01.525662+05:30'
+last_seen: '2026-08-01T19:28:01.525662+05:30'
+last_checked: '2026-08-01T19:28:01.525662+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Offensive Security Framework**: Autonomous red teaming platform leveraging TypeScript to orchestrate AI-driven agents for penetration testing, vulnerability assessment, and adversarial simulation in offensive security operations.
+- **Autonomous Red Teaming Platform**: Open-source TypeScript-based framework for autonomous offensive security operations, enabling multi-agent AI-driven red teaming with minimal human intervention.
 
-- **Meta-Harness Architecture**: Modular, extensible system enabling dynamic agent collaboration, task decomposition, and adaptive attack chain generation for complex security engagements.
+- **Multi-Agent Offensive-Security Meta-Harness**: Integrates specialized agents for reconnaissance, exploitation, lateral movement, and post-exploitation, dynamically coordinating tasks for complex attack simulations.
 
-- **AI-Powered Automation**: Integrates autonomous agent swarms with offensive security tooling, supporting real-time exploit execution, lateral movement simulation, and post-exploitation workflows via AI-driven decision-making.
+- **AI-Powered Attack Chain Automation**: Leverages adaptive agent interactions to emulate real-world adversarial tactics, techniques, and procedures (TTPs) with dynamic tool selection and execution prioritization.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: elder-plinius
-- Stars: 5334
+- Stars: 5337
 - Forks: 1108
 - Language: TypeScript
 - Topics: agents, ai, multi-agent, offensive-security, redteam
-- Last Updated: 2026-08-01T09:26:37Z
+- Last Updated: 2026-08-01T13:38:53Z
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2026-07-02T17:53:55Z

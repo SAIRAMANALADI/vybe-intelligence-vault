@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-08-01T16:21:40.984448+05:30'
+collected_at: '2026-08-01T19:26:41.471477+05:30'
 published_at: '2026-07-26T03:07:53Z'
 tags:
+- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 stars: 256
@@ -17,9 +19,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-08-01T16:21:40.984448+05:30'
-last_seen: '2026-08-01T16:21:40.984448+05:30'
-last_checked: '2026-08-01T16:21:40.984448+05:30'
+first_seen: '2026-08-01T19:26:41.471477+05:30'
+last_seen: '2026-08-01T19:26:41.471477+05:30'
+last_checked: '2026-08-01T19:26:41.471477+05:30'
 health_score: 100
 ---
 
@@ -27,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., entity → subgraph → global) and semantic aggregation for improved context relevance.
+- **Semantic Aggregation & Hierarchical Retrieval**: Introduces a knowledge-graph-based RAG framework with two-stage retrieval—semantic aggregation for entity linking and hierarchical retrieval for multi-hop reasoning over structured knowledge graphs.
 
-- **Efficiency Optimizations**: Uses lightweight graph traversal (e.g., pruning, caching) and modular design to reduce latency in large-scale KG retrieval while maintaining accuracy.
+- **Efficiency Optimizations**: Implements lightweight graph traversal and pruning techniques to reduce computational overhead while maintaining retrieval accuracy, targeting AAAI 2026 efficiency benchmarks.
 
-- **AAAI 2026 Framework**: Designed for structured knowledge integration, supporting dynamic updates to the KG and adaptive retrieval strategies for domain-specific applications.
+- **Python-Based Implementation**: Provides an open-source Python library with modular components for knowledge graph integration, retrieval augmentation, and semantic aggregation, supporting extensibility for downstream tasks.
 
 ## Why It Matters
 

@@ -4,16 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-08-01T16:21:45.973741+05:30'
-published_at: '2026-08-01T04:01:38Z'
+collected_at: '2026-08-01T19:26:46.463266+05:30'
+published_at: '2026-08-01T13:41:35Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - hackernews
-- paper
 - rag
+- scripts
 - unknown
-stars: 830
+stars: 831
 language: Unknown
 status: active
 license: MIT
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-07-23T04:27:32Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-08-01T16:21:45.973741+05:30'
-last_seen: '2026-08-01T16:21:45.973741+05:30'
-last_checked: '2026-08-01T16:21:45.973741+05:30'
+first_seen: '2026-08-01T19:26:46.463266+05:30'
+last_seen: '2026-08-01T19:26:46.463266+05:30'
+last_checked: '2026-08-01T19:26:46.463266+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Aggregates cutting-edge resources (papers, tools, frameworks) for **agentic deep research** in ACL 2026 KnowFM, focusing on autonomous LLM-driven reasoning and search agents.
-- **Technical Scope**: Covers **Agentic RAG**, **deep research agents**, and **multi-agent reasoning systems**, emphasizing scalability and adaptive knowledge synthesis.
-- **Repository Metrics**: 830 stars, 68 forks; last updated **2026-08-01**, with active contributions to **LLM reasoning**, **search agents**, and **knowledge-intensive tasks**.
+- **Curated Collection**: Aggregates cutting-edge resources on agentic deep research, focusing on autonomous agents leveraging LLMs for multi-step reasoning, search, and RAG (Retrieval-Augmented Generation) in ACL 2026 KnowFM context.
+- **Technical Scope**: Covers agentic AI frameworks, reasoning agents, and deep-research methodologies, including search-agent architectures and hybrid LLM-RAG pipelines for complex knowledge synthesis.
+- **Dynamic Repository**: Actively maintained (last updated Aug 2026) with 831 stars and 68 forks, indicating a rapidly evolving ecosystem of tools and benchmarks for next-gen research automation.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: DavidZWZ
-- Stars: 830
+- Stars: 831
 - Forks: 68
 - Language: Unknown
 - Topics: agentic-ai, agentic-rag, deep-research, deep-research-agent, large-language-models, llms, rag, reasoning, reasoning-agent, search-agent
-- Last Updated: 2026-08-01T04:01:38Z
+- Last Updated: 2026-08-01T13:41:35Z
 - License: MIT
 - Archived: No
 - Created At: 2025-06-06T01:54:55Z

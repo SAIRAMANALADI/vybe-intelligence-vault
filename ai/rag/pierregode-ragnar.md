@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PierreGode/Ragnar
-collected_at: '2026-08-01T16:21:20.923667+05:30'
-published_at: '2026-08-01T09:35:38Z'
+collected_at: '2026-08-01T19:26:21.462968+05:30'
+published_at: '2026-08-01T11:03:18Z'
 tags:
 - github-repo
 - hackernews
@@ -18,11 +18,11 @@ status: active
 license: NOASSERTION
 archived: false
 created_at: '2025-11-01T03:12:25Z'
-pushed_at: '2026-08-01T10:49:17Z'
+pushed_at: '2026-08-01T11:03:13Z'
 resource_id: github:pierregode/ragnar
-first_seen: '2026-08-01T16:21:20.923667+05:30'
-last_seen: '2026-08-01T16:21:20.923667+05:30'
-last_checked: '2026-08-01T16:21:20.923667+05:30'
+first_seen: '2026-08-01T19:26:21.462968+05:30'
+last_seen: '2026-08-01T19:26:21.462968+05:30'
+last_checked: '2026-08-01T19:26:21.462968+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Tool Overview**: Ragnar is an offensive security tool designed for Raspberry Pi, integrating a 2.13-inch e-Paper HAT for network scanning and vulnerability assessment.
-- **Functionality**: Discovers network targets, enumerates open ports, identifies exposed services, and detects vulnerabilities in scanned environments.
-- **Technical Details**: Implemented in Python, last updated on 2026-08-01, with 785 stars and 65 forks on GitHub.
+- **Tool Overview**: Ragnar is an offensive security framework designed for Raspberry Pi with a 2.13-inch e-Paper HAT, combining network scanning, target discovery, port enumeration, service identification, and vulnerability assessment.
+- **Technical Stack**: Implemented in Python, it integrates with hardware (e-Paper display) for real-time data visualization of network reconnaissance results.
+- **Functionality**: Automates discovery of network targets, open ports, exposed services, and potential vulnerabilities, positioning itself as a portable penetration testing tool.
 
 ## Why It Matters
 
@@ -45,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 65
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-01T09:35:38Z
+- Last Updated: 2026-08-01T11:03:18Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-11-01T03:12:25Z
-- Pushed At: 2026-08-01T10:49:17Z
+- Pushed At: 2026-08-01T11:03:13Z
 
 ## Possible Use Cases
 

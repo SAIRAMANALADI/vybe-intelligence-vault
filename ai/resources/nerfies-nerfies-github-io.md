@@ -4,21 +4,21 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/nerfies/nerfies.github.io
-collected_at: '2026-08-01T16:24:26.202669+05:30'
-published_at: '2026-07-31T12:45:42Z'
+collected_at: '2026-08-01T19:29:26.650233+05:30'
+published_at: '2026-08-01T13:58:16Z'
 tags:
 - github-repo
 - javascript
-stars: 4307
+stars: 4308
 language: JavaScript
 status: active
 archived: false
 created_at: '2020-11-24T09:35:45Z'
 pushed_at: '2024-06-21T11:47:54Z'
 resource_id: github:nerfies/nerfies.github.io
-first_seen: '2026-08-01T16:24:26.202669+05:30'
-last_seen: '2026-08-01T16:24:26.202669+05:30'
-last_checked: '2026-08-01T16:24:26.202669+05:30'
+first_seen: '2026-08-01T19:29:26.650233+05:30'
+last_seen: '2026-08-01T19:29:26.650233+05:30'
+last_checked: '2026-08-01T19:29:26.650233+05:30'
 health_score: 100
 ---
 
@@ -26,9 +26,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository for Nerfies, a JavaScript-based project with 4,307 stars and 1,938 forks, last updated on 2026-07-31.
-- **Primary Language**: Entirely implemented in JavaScript.
-- **Static Hosting**: Serves as the project's official website (`nerfies.github.io`).
+- **Repository**: `nerfies/nerfies.github.io` is a JavaScript-based project with 4,308 stars and 1,938 forks, last updated on **2026-08-01**.
+- **Purpose**: No description provided, but likely serves as the official website/documentation for the Nerfies project (NeRF-based 3D scene reconstruction).
+- **Tech Stack**: Primarily JavaScript, with no additional topics or dependencies specified.
 
 ## Why It Matters
 
@@ -37,11 +37,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: nerfies
-- Stars: 4307
+- Stars: 4308
 - Forks: 1938
 - Language: JavaScript
 - Topics: None
-- Last Updated: 2026-07-31T12:45:42Z
+- Last Updated: 2026-08-01T13:58:16Z
 - Archived: No
 - Created At: 2020-11-24T09:35:45Z
 - Pushed At: 2024-06-21T11:47:54Z

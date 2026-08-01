@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/msoedov/agentic_security
-collected_at: '2026-08-01T16:23:01.069468+05:30'
+collected_at: '2026-08-01T19:28:01.598558+05:30'
 published_at: '2026-07-31T19:45:18Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - github-repo
 - hackernews
 - python
+- scripts
 stars: 1946
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-04-11T17:18:54Z'
 pushed_at: '2026-07-31T16:27:20Z'
 resource_id: github:msoedov/agentic_security
-first_seen: '2026-08-01T16:23:01.069468+05:30'
-last_seen: '2026-08-01T16:23:01.069468+05:30'
-last_checked: '2026-08-01T16:23:01.069468+05:30'
+first_seen: '2026-08-01T19:28:01.598558+05:30'
+last_seen: '2026-08-01T19:28:01.598558+05:30'
+last_checked: '2026-08-01T19:28:01.598558+05:30'
 health_score: 100
 ---
 
@@ -30,14 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Agentic LLM Vulnerability Scanner is an AI red-teaming toolkit designed to evaluate and test the security of Large Language Models (LLMs) through automated prompt testing, fuzzing, and jailbreak detection.
-
-- **Features**:
-  - Supports LLM security evaluation, fuzzing, and vulnerability scanning via an agent-based framework.
-  - Includes guardrails, jailbreak detection, and prompt-testing utilities for comprehensive LLM assessment.
-  - Aggregates and analyzes results from multiple LLM security tools and techniques.
-
-- **Technical Stack**: Python-based, with integration support for agent frameworks, LLM evaluation, and security testing methodologies.
+- **Purpose**: Agentic LLM Vulnerability Scanner designed for AI red teaming, enabling automated evaluation of LLM security vulnerabilities, jailbreaks, and prompt testing.
+- **Features**: Supports LLM fuzzing, vulnerability scanning, and guardrail testing within an agentic framework, aggregating results for comprehensive security assessment.
+- **Technical Stack**: Python-based, integrates with agent frameworks for dynamic LLM interaction and security testing automation.
 
 ## Why It Matters
 

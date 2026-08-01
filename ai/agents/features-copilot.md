@@ -4,23 +4,23 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/copilot/cli
-published_at: '2026-08-01T16:27:10.000050+05:30'
-collected_at: '2026-08-01T16:27:10.000059+05:30'
+published_at: '2026-08-01T19:32:06.662118+05:30'
+collected_at: '2026-08-01T19:32:06.662130+05:30'
 tags:
 - agents
 - anthropic
 - frontend_ui
 - hackernews
 - openai
-- reddit
+- scripts
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-08-01T16:27:10.000059+05:30'
-last_seen: '2026-08-01T16:27:10.000059+05:30'
-last_checked: '2026-08-01T16:27:10.000059+05:30'
+first_seen: '2026-08-01T19:32:06.662130+05:30'
+last_seen: '2026-08-01T19:32:06.662130+05:30'
+last_checked: '2026-08-01T19:32:06.662130+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Model & Parallel Execution**: Supports `/model` switching and `/fleet` parallelization across multiple subagents (e.g., Anthropic, Google, OpenAI) for concurrent task execution with `/plan` to `/merge` workflows.
+- **Multi-Agent Parallel Execution**: Copilot CLI supports `/fleet` for parallelized subagent execution across multiple models (e.g., Anthropic, Google, OpenAI), enabling concurrent task processing with `/model` switching and result convergence.
 
-- **GitHub-Native MCP Integration**: Operates via GitHub’s native Model Context Protocol (MCP) for direct issue/PR/branch management, enforces org policies (branch protections, required checks), and maintains session persistence across `/remote` devices.
+- **GitHub-Native MCP Integration**: Built on GitHub’s native Model Context Protocol (MCP), the CLI interacts directly with issues, PRs, branches, and labels, enabling context-aware workflows (e.g., `/plan` to `/IDE` transitions) while inheriting org-level governance policies.
 
-- **Agentic SDK & Customization**: Extensible via `/agent` and `/skills` (AGENTS.md) for behavior consistency, supports experimental `/experimental` features, and integrates with `@github/copilot` SDK for custom agentic workflows.
+- **Autonomous Workflow Automation**: Features `/autopilot` mode for hands-free execution, `/resume` for session persistence, and `/delegate` for PR creation with branch management, all requiring explicit user approval for file changes/commands.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-01T16:27:10.000050+05:30
+- Published: 2026-08-01T19:32:06.662118+05:30
 
 ## Related Tags
 
@@ -51,7 +51,7 @@ General public resource representing technology updates, guides, or tutorials.
 - frontend_ui
 - hackernews
 - openai
-- reddit
+- scripts
 - web-crawled
 - workflows
 - youtube

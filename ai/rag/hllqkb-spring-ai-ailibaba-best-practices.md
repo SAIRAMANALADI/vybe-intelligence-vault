@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-08-01T16:20:55.919975+05:30'
+collected_at: '2026-08-01T19:25:56.409009+05:30'
 published_at: '2026-07-25T03:18:55Z'
 tags:
 - agents
 - github-repo
 - java
 - rag
-- reddit
 - workflows
 stars: 36
 language: Java
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-08-01T16:20:55.919975+05:30'
-last_seen: '2026-08-01T16:20:55.919975+05:30'
-last_checked: '2026-08-01T16:20:55.919975+05:30'
+first_seen: '2026-08-01T19:25:56.409009+05:30'
+last_seen: '2026-08-01T19:25:56.409009+05:30'
+last_checked: '2026-08-01T19:25:56.409009+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of RAG with Vector Databases**: Demonstrates Retrieval-Augmented Generation (RAG) using embedding models and vector databases for efficient knowledge retrieval in AI Q&A systems.
-
-- **Agent-Based Workflows**: Integrates AI agents with Function Calling capabilities for dynamic, multi-step task execution, including historical message context management.
-
-- **Multimodal AI Features**: Supports image generation (via diffusion models), image understanding (OCR/VLM integration), and SSE (Server-Sent Events) streaming for real-time AI responses.
+- **Multi-modal AI Integration**: Implements SSE streaming, Agent-based workflows, and FunctionCall for real-time AI interactions, supporting both text and image modalities (generation/understanding) with RAG pipelines.
+- **Knowledge Graph & Vector DB**: Utilizes knowledge graphs for structured data retrieval and vector databases (e.g., embedding-based retrieval) for semantic search, enhancing RAG performance.
+- **Java-Based Architecture**: Built on Spring AI with Alibaba Cloud integrations, featuring historical message management, embedding models, and modular components for extensibility.
 
 ## Why It Matters
 

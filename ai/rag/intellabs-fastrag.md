@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IntelLabs/fastRAG
-collected_at: '2026-08-01T16:21:16.024633+05:30'
-published_at: '2026-07-31T19:02:18Z'
+collected_at: '2026-08-01T19:26:16.481153+05:30'
+published_at: '2026-08-01T13:43:04Z'
 tags:
 - benchmark
 - github-repo
 - python
 - rag
-stars: 1784
+stars: 1783
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +19,9 @@ archived: true
 created_at: '2023-01-23T16:25:35Z'
 pushed_at: '2026-01-12T19:58:22Z'
 resource_id: github:intellabs/fastrag
-first_seen: '2026-08-01T16:21:16.024633+05:30'
-last_seen: '2026-08-01T16:21:16.024633+05:30'
-last_checked: '2026-08-01T16:21:16.024633+05:30'
+first_seen: '2026-08-01T19:26:16.481153+05:30'
+last_seen: '2026-08-01T19:26:16.481153+05:30'
+last_checked: '2026-08-01T19:26:16.481153+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Efficient RAG Framework**: Implements optimized retrieval-augmented generation (RAG) pipelines leveraging Intel's hardware acceleration (e.g., AVX-512, oneDNN) for low-latency inference in NLP tasks like QA, summarization, and semantic search.
-
-- **Multi-Modal & Hybrid Retrieval**: Supports dense retrieval (ColBERT, Sentence-Transformers), sparse retrieval (BM25), and knowledge graph integration, enabling hybrid retrieval strategies for improved accuracy and context relevance.
-
-- **Scalable & Modular Design**: Built on PyTorch with plug-and-play components for diffusion models, multi-modal encoders, and customizable retrieval strategies, optimized for distributed inference and benchmarking across generative AI workloads.
+- **Framework Overview**: FastRAG is an efficient, open-source Python framework for Retrieval-Augmented Generation (RAG) optimized for low-latency, high-throughput applications, supporting multi-modal, knowledge graph, and diffusion-based augmentation.
+- **Core Components**: Integrates state-of-the-art retrieval (e.g., ColBERT, sentence-transformers) with generative models (LLMs) and semantic search, enabling dynamic knowledge injection and context-aware generation.
+- **Benchmarking & Extensibility**: Includes built-in benchmarks for RAG pipelines, supports modular integration with transformers, and facilitates customization for tasks like QA, summarization, and information retrieval.
 
 ## Why It Matters
 
@@ -42,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: IntelLabs
-- Stars: 1784
+- Stars: 1783
 - Forks: 167
 - Language: Python
 - Topics: benchmark, colbert, diffusion, generative-ai, information-retrieval, knowledge-graph, llm, multi-modal, nlp, question-answering, semantic-search, sentence-transformers, summarization, transformers
-- Last Updated: 2026-07-31T19:02:18Z
+- Last Updated: 2026-08-01T13:43:04Z
 - License: Apache-2.0
 - Archived: Yes
 - Created At: 2023-01-23T16:25:35Z

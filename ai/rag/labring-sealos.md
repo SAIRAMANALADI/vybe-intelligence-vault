@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/labring/sealos
-collected_at: '2026-08-01T16:21:50.995729+05:30'
+collected_at: '2026-08-01T19:26:51.501065+05:30'
 published_at: '2026-08-01T07:54:05Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2018-08-15T12:22:50Z'
 pushed_at: '2026-07-31T15:31:27Z'
 resource_id: github:labring/sealos
-first_seen: '2026-08-01T16:21:50.995729+05:30'
-last_seen: '2026-08-01T16:21:50.995729+05:30'
-last_checked: '2026-08-01T16:21:50.995729+05:30'
+first_seen: '2026-08-01T19:26:51.501065+05:30'
+last_seen: '2026-08-01T19:26:51.501065+05:30'
+last_checked: '2026-08-01T19:26:51.501065+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Deployment & Management**: Open-source tool enabling GitHub/AI-agent-driven deployment of projects with AI-powered operations for continuous runtime management.
+- **Sealos** is a TypeScript-based tool for deploying GitHub projects or AI-generated code as Kubernetes applications, with automated operations for continuous uptime.
 
-- **Kubernetes-Centric**: Supports Kubernetes clusters (including HA setups) via `kubeadm`, leveraging `ipvs` for load balancing and `container` runtime (Docker-compatible).
+- **Core Features**: Supports Kubernetes HA (High Availability) via `kubeadm`, IPVS load balancing, and integrates Docker for containerization.
 
-- **Multi-Language & CloudOS**: Primarily written in TypeScript with Go components; integrates with cloud operating systems for scalable, containerized workloads.
+- **Architecture**: Leverages `labring/sealos` to simplify cloud OS deployments, enabling scalable, self-hosted Kubernetes clusters with minimal manual configuration.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: labring
 - Stars: 18310
-- Forks: 2475
+- Forks: 2476
 - Language: TypeScript
 - Topics: cloudos, container, docker, golang, install, ipvs, kubeadm, kubernetes, kubernetes-ha
 - Last Updated: 2026-08-01T07:54:05Z

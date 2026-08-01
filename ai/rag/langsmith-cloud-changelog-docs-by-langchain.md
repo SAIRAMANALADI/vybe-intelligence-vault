@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://changelog.langchain.com/
-published_at: '2026-08-01T16:27:12.404794+05:30'
-collected_at: '2026-08-01T16:27:12.404807+05:30'
+published_at: '2026-08-01T19:32:18.589773+05:30'
+collected_at: '2026-08-01T19:32:18.589781+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langsmith-cloud-changelog-docs-by-langchain
-first_seen: '2026-08-01T16:27:12.404807+05:30'
-last_seen: '2026-08-01T16:27:12.404807+05:30'
-last_checked: '2026-08-01T16:27:12.404807+05:30'
+first_seen: '2026-08-01T19:32:18.589781+05:30'
+last_seen: '2026-08-01T19:32:18.589781+05:30'
+last_checked: '2026-08-01T19:32:18.589781+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,16 @@ health_score: 100
 
 ## Summary
 
-- **Deprecation & Migration**: Legacy feedback formula endpoints (`POST/GET /feedback/formulas`) are deprecated in favor of composite evaluators (code evaluator + run rule), with removal scheduled for 2026-08-20; existing formulas must be migrated.
+- **Deprecation & Migration**: Legacy feedback formula endpoints (`POST/GET /feedback/formulas`) deprecated in favor of composite evaluators (code evaluator + run rule) with removal scheduled for 2026-08-20; migration required.
 
-- **Performance & Reliability**: Improved experiment comparison views (e.g., run tree expansion, token/cost stats from SmithDB), evaluator timeouts handling, and bulk export compression (defaulting to zstd) for efficiency.
+- **Enhanced Experiment & Evaluator Features**:
+  - Experiment tables now support real-time truncation, interactive +N overflow menus, and reorderable "Splits (latest)" columns.
+  - New `langsmith evaluator create-llm` CLI command enables structured LLM-as-judge evaluators from prompt/schema/model config.
+  - Multi-turn evaluators now include a "Test" action and enforce `Trace count ≥ 2` filter for managed thread evaluators.
 
-- **Enhanced Features**: Added structured LLM-as-judge evaluator creation (`langsmith evaluator create-llm`), multi-turn evaluator testing, and OpenTelemetry resource attribute support (`otel.resource.*` namespace) for trace metadata.
+- **Performance & Reliability Improvements**:
+  - LangSmith enforces monthly trace limits per project/user; oversized batch ingestion preserves traces with placeholder placeholders for oversized fields.
+  - Thread stats API now supports streaming and filter parameters; OpenTelemetry traces from VS Code Copilot Chat render as clean nested traces with corrected metadata.
 
 ## Why It Matters
 
@@ -46,7 +51,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T16:27:12.404794+05:30
+- Published: 2026-08-01T19:32:18.589773+05:30
 
 ## Related Tags
 

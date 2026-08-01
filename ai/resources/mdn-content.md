@@ -5,15 +5,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/mdn/content/blob/main/files/en-us/web/security/defenses/subresource_integrity/index.md?plain=1
-published_at: '2026-08-01T14:15:30.314785+05:30'
-collected_at: '2026-08-01T14:15:30.314799+05:30'
+published_at: '2026-08-01T19:36:20.836920+05:30'
+collected_at: '2026-08-01T19:36:20.836932+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: github:mdn/content
-first_seen: '2026-08-01T14:15:30.314799+05:30'
-last_seen: '2026-08-01T14:15:30.314799+05:30'
-last_checked: '2026-08-01T14:15:30.314799+05:30'
+first_seen: '2026-08-01T19:36:20.836932+05:30'
+last_seen: '2026-08-01T19:36:20.836932+05:30'
+last_checked: '2026-08-01T19:36:20.836932+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Subresource Integrity (SRI)** enforces cryptographic hash validation (`sha256`, `sha384`, `sha514`) on fetched resources (scripts/stylesheets) to prevent supply chain attacks by verifying resource integrity via `integrity` attribute.
+- **Subresource Integrity (SRI)** enforces cryptographic hash verification (SHA-256/384/512) for fetched resources (scripts/stylesheets) to detect tampering during CDN-based delivery, mitigating supply chain attacks.
 
-- **CORS Requirement**: SRI mandates `crossorigin` attribute and valid `Access-Control-Allow-Origin` headers for cross-origin requests; `no-cors` mode is explicitly blocked to prevent integrity-based XS-Leak attacks.
+- **CORS Requirement**: SRI mandates `crossorigin` attribute and valid `Access-Control-Allow-Origin` headers for cross-origin resources to enable integrity checks.
 
-- **Integrity Policy Headers**: `Integrity-Policy` (blocking) and `Integrity-Policy-Report-Only` headers enforce SRI metadata requirements, generating `integrity-violation` reports via Reporting API for violations.
+- **Integrity Policy Headers**: `Integrity-Policy` and `Integrity-Policy-Report-Only` HTTP headers enforce mandatory `integrity` attributes on scripts/stylesheets, blocking violations or reporting them via Reporting API.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-01T14:15:30.314785+05:30
+- Published: 2026-08-01T19:36:20.836920+05:30
 
 ## Related Tags
 

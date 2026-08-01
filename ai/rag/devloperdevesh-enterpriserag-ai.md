@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-01T16:21:25.953440+05:30'
+collected_at: '2026-08-01T19:26:26.453309+05:30'
 published_at: '2026-08-01T05:44:27Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-24T08:10:54Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-01T16:21:25.953440+05:30'
-last_seen: '2026-08-01T16:21:25.953440+05:30'
-last_checked: '2026-08-01T16:21:25.953440+05:30'
+first_seen: '2026-08-01T19:26:26.453309+05:30'
+last_seen: '2026-08-01T19:26:26.453309+05:30'
+last_checked: '2026-08-01T19:26:26.453309+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native features and eBPF (extended Berkeley Packet Filter) for low-overhead runtime monitoring and enforcement.
+- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native eBPF (Extended Berkeley Packet Filter) for runtime monitoring, enforcement, and low-overhead telemetry.
 
-- **Enterprise-Grade RAG Pipeline**: Deploys a Retrieval-Augmented Generation (RAG) system with FastAPI backend, TypeScript frontend, and vector databases for scalable, secure AI workloads in SaaS environments.
+- **Enterprise-Grade RAG Pipeline**: Deploys a Retrieval-Augmented Generation (RAG) architecture with FastAPI backend, TypeScript frontend, and vector database integration for scalable, secure AI-driven SaaS applications.
 
-- **Multi-Component Architecture**: Combines GenAI, LLM orchestration, and governance controls (e.g., access policies, audit logging) with FastAPI for API-driven interactions and TypeScript for modular frontend/backend separation.
+- **GenAI Governance & Compliance**: Enforces real-time security policies, audit trails, and governance controls via eBPF-powered hooks, ensuring compliance for multi-tenant AI workloads in production environments.
 
 ## Why It Matters
 

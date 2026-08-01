@@ -4,25 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-08-01T16:20:55.932834+05:30'
-published_at: '2026-07-31T10:18:57Z'
+collected_at: '2026-08-01T19:25:56.424226+05:30'
+published_at: '2026-08-01T12:26:39Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
-stars: 184
+stars: 185
 language: Python
 status: active
 license: CC0-1.0
 archived: false
 created_at: '2025-12-19T08:13:33Z'
-pushed_at: '2026-07-27T08:10:44Z'
+pushed_at: '2026-08-01T12:26:23Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-08-01T16:20:55.932834+05:30'
-last_seen: '2026-08-01T16:20:55.932834+05:30'
-last_checked: '2026-08-01T16:20:55.932834+05:30'
+first_seen: '2026-08-01T19:25:56.424226+05:30'
+last_seen: '2026-08-01T19:25:56.424226+05:30'
+last_checked: '2026-08-01T19:25:56.424226+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resources**: Repository provides a vetted collection of tools, frameworks, and best practices for deploying scalable, production-grade RAG systems, covering LLMs, embeddings, and vector databases.
-- **Technical Scope**: Focuses on AI engineering, MLOps, and LLMops with Python-centric implementations, including LangChain and generative AI workflows.
-- **Maintenance & Reach**: Actively updated (last commit: 2026-07-31) with 184 stars and 46 forks, targeting production-grade RAG deployment challenges.
+- **Curated Production-Grade RAG Resources**: Repository aggregates battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems, focusing on deployment-ready solutions.
+
+- **Comprehensive Tech Stack Coverage**: Includes tools and libraries for embeddings, vector databases, LLMOps, and MLOps, with specific mentions of LangChain, Python-based frameworks, and large language models (LLMs).
+
+- **Continuous Updates & Community-Driven**: Last updated in 2026, the repository maintains relevance through ongoing curation, with 185 stars and 46 forks indicating active community engagement.
 
 ## Why It Matters
 
@@ -41,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Yigtwxx
-- Stars: 184
+- Stars: 185
 - Forks: 46
 - Language: Python
 - Topics: ai, ai-engineering, artificial-intelligence, awesome, awesome-list, curated-list, embeddings, generative-ai, langchain, large-language-models, list, llm, llmops, machine-learning, mlops, production, python, rag, retrieval-augmented-generation, vector-database
-- Last Updated: 2026-07-31T10:18:57Z
+- Last Updated: 2026-08-01T12:26:39Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2025-12-19T08:13:33Z
-- Pushed At: 2026-07-27T08:10:44Z
+- Pushed At: 2026-08-01T12:26:23Z
 
 ## Possible Use Cases
 

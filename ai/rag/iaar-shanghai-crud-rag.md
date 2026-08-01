@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-08-01T16:21:15.953938+05:30'
+collected_at: '2026-08-01T19:26:16.483594+05:30'
 published_at: '2026-08-01T07:51:41Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-08-01T16:21:15.953938+05:30'
-last_seen: '2026-08-01T16:21:15.953938+05:30'
-last_checked: '2026-08-01T16:21:15.953938+05:30'
+first_seen: '2026-08-01T19:26:16.483594+05:30'
+last_seen: '2026-08-01T19:26:16.483594+05:30'
+last_checked: '2026-08-01T19:26:16.483594+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Development**: Introduces CRUD-RAG, a Chinese-language benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems, focusing on comprehensive performance assessment across multiple dimensions (e.g., retrieval accuracy, generation quality, and robustness).
+- **Benchmark Design**: CRUD-RAG introduces a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) in Large Language Models (LLMs), focusing on comprehensive retrieval and generation capabilities in Chinese contexts.
 
-- **Evaluation Framework**: Implements a structured evaluation pipeline with standardized metrics for assessing RAG models, including metrics for retrieval precision/recall, answer correctness, and contextual relevance in Chinese language tasks.
+- **CRUD Framework**: The benchmark assesses four core RAG operations—**C**reate, **R**etrieve, **U**pdate, and **D**elete—providing a structured evaluation of LLMs' dynamic interaction with external knowledge bases.
 
-- **Open-Source Toolkit**: Provides a Python-based repository with datasets, evaluation scripts, and baseline models to facilitate reproducible research and benchmarking of RAG systems in Chinese contexts.
+- **Evaluation Metrics**: Includes standardized metrics for assessing retrieval accuracy, generation quality, and end-to-end RAG performance, enabling comparative analysis across models and configurations.
 
 ## Why It Matters
 

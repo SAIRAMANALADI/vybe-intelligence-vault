@@ -30,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Python Data Fundamentals Track**: Covers data manipulation, visualization, and advanced analytics in Python, designed for data-driven decision-making.
-
-- **Course Structure**: 7 courses, ~28 hours total, targeting Python 4.7+ with 98 reviews (avg. rating: 4.7).
-
-- **Outcome**: Equips learners with skills to manipulate/visualize data and apply advanced analytics for data-driven decisions.
+- **Python Data Fundamentals Track**: Covers Python 4.7+ with 101 reviews, focusing on data manipulation, visualization, and advanced analytics for data-driven decision-making.
+- **Course Structure**: 28-hour program consisting of 7 courses designed to build core data skills.
+- **Target Audience**: Aimed at individuals seeking to enhance their data analysis capabilities using Python.
 
 ## Use Cases
 

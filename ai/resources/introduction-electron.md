@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://electronjs.org/docs/latest
-published_at: '2026-08-01T14:11:20.012591+05:30'
-collected_at: '2026-08-01T14:11:20.012604+05:30'
+published_at: '2026-08-01T19:33:20.272313+05:30'
+collected_at: '2026-08-01T19:33:20.272320+05:30'
 tags:
 - producthunt
 - web-crawled
 status: active
 resource_id: blog:introduction-electron
-first_seen: '2026-08-01T14:11:20.012604+05:30'
-last_seen: '2026-08-01T14:11:20.012604+05:30'
-last_checked: '2026-08-01T14:11:20.012604+05:30'
+first_seen: '2026-08-01T19:33:20.272320+05:30'
+last_seen: '2026-08-01T19:33:20.272320+05:30'
+last_checked: '2026-08-01T19:33:20.272320+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Cross-platform desktop apps**: Electron embeds Chromium and Node.js into a single binary, enabling JavaScript/HTML/CSS-based desktop apps that run on Windows, macOS, and Linux without native development requirements.
+- **Cross-platform desktop apps**: Electron combines Chromium and Node.js into a single binary, enabling JavaScript/HTML/CSS-based desktop apps that run on Windows, macOS, and Linux without native development.
 
-- **Core components**: Electron apps consist of a `main.js` (Node.js process managing app lifecycle), `preload.js` (bridge between Node.js and renderer processes), and `index.html` (UI rendered via Chromium).
+- **Electron Fiddle**: A sandbox tool for prototyping and testing Electron APIs, integrating with documentation via "Open in Fiddle" buttons to load examples directly.
 
-- **Development ecosystem**: Electron provides official tutorials, API docs, and Electron Fiddle (a sandbox tool) for prototyping; community resources include Discord support and GitHub issue tracking for debugging.
+- **Official docs structure**: Organized into tutorials, process references, best practices, examples, distribution guides, testing/debugging tools, and contribution guidelines for comprehensive Electron development.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-01T14:11:20.012591+05:30
+- Published: 2026-08-01T19:33:20.272313+05:30
 
 ## Related Tags
 

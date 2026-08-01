@@ -3,17 +3,19 @@ title: Medium
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://about.medium.com/
-published_at: '2026-08-01T16:26:30.941362+05:30'
-collected_at: '2026-08-01T16:26:30.941371+05:30'
+source_url: https://medium.com/blog/all?source=collection_home_page
+resource_id: blog:medium
+----15f753907972-----1-----------------------------------
+published_at: '2026-08-01T19:31:07.716756+05:30'
+collected_at: '2026-08-01T19:31:07.716764+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:medium
-first_seen: '2026-08-01T16:26:30.941371+05:30'
-last_seen: '2026-08-01T16:26:30.941371+05:30'
-last_checked: '2026-08-01T16:26:30.941371+05:30'
+first_seen: '2026-08-01T19:31:07.716764+05:30'
+last_seen: '2026-08-01T19:31:07.716764+05:30'
+last_checked: '2026-08-01T19:31:07.716764+05:30'
 health_score: 100
 ---
 
@@ -21,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Purpose**: Medium is a content publishing platform designed to foster in-depth, thoughtful writing and discussion, prioritizing depth, nuance, and meaningful engagement over sensational or superficial content.
+- **Medium’s sitemap.xml** provides structured XML-based indexing of all accessible URLs, including `/blog/all`, `/new-story`, `/search`, and `/m/signin` endpoints for authentication and content creation.
 
-- **User Base & Revenue Model**: Hosts over 100M monthly active users (developers, designers, CEOs, etc.) sharing expertise; operates ad-free, funded by a subscription-based membership model (~1M members).
+- **Authentication flow** leverages OAuth2 via `/m/signin` with `operation=login/register` parameters, redirecting users to post-authentication destinations (e.g., `/blog/all` or `/new-story`) via URL-encoded `redirect` query strings.
 
-- **Core Values**: Emphasizes human-centric storytelling, user privacy (no ad/tracking revenue), and community-driven curation to reward substantive, time-invested content over viral, low-effort posts.
+- **Static resources** (e.g., `/help`, `/status`, `/about`) and policy pages (Privacy, Terms, Rules) are served as static HTML, while dynamic features like "Text to speech" integrate third-party APIs (e.g., Speechify) via external links.
 
 ## Why It Matters
 
@@ -35,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T16:26:30.941362+05:30
+- Published: 2026-08-01T19:31:07.716756+05:30
 
 ## Related Tags
 
@@ -44,4 +46,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://about.medium.com/
+Original source: https://medium.com/blog/all?source=collection_home_page----15f753907972-----1-----------------------------------

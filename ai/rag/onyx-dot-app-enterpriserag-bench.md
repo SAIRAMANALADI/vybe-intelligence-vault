@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-08-01T16:21:15.942657+05:30'
+collected_at: '2026-08-01T19:26:16.487701+05:30'
 published_at: '2026-07-31T02:19:14Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - rag
 - unknown
 stars: 492
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-08-01T16:21:15.942657+05:30'
-last_seen: '2026-08-01T16:21:15.942657+05:30'
-last_checked: '2026-08-01T16:21:15.942657+05:30'
+first_seen: '2026-08-01T19:26:16.487701+05:30'
+last_seen: '2026-08-01T19:26:16.487701+05:30'
+last_checked: '2026-08-01T19:26:16.487701+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,15 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Dataset and benchmark designed for evaluating Retrieval-Augmented Generation (RAG) systems on company internal documents, enabling assessment of enterprise-specific information retrieval and question-answering capabilities.
+- **Purpose**: Provides a dataset and benchmark framework for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of performance in real-world scenarios.
 
-- **Features**: Includes synthetic data generation, semantic search evaluation, and LLM performance testing across enterprise use cases, with support for Python-based RAG pipelines and large language models.
+- **Key Features**:
+  - Includes synthetic and real-world enterprise data for RAG evaluation.
+  - Supports metrics for retrieval quality, answer correctness, and latency in enterprise search contexts.
 
-- **Scope**: Covers enterprise search, knowledge base integration, and generative AI evaluation, last updated in July 2026 with 492 stars and 52 forks.
+- **Technical Scope**:
+  - Compatible with Python-based RAG pipelines and LLM evaluation tools.
+  - Focuses on semantic search, information retrieval, and generative AI evaluation in enterprise environments.
 
 ## Why It Matters
 

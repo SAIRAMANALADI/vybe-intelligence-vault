@@ -4,12 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-01T16:21:40.951155+05:30'
+collected_at: '2026-08-01T19:26:41.473088+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
-- benchmark
 - github-repo
-- hackernews
 - python
 - rag
 stars: 343
@@ -20,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-01T16:21:40.951155+05:30'
-last_seen: '2026-08-01T16:21:40.951155+05:30'
-last_checked: '2026-08-01T16:21:40.951155+05:30'
+first_seen: '2026-08-01T19:26:41.473088+05:30'
+last_seen: '2026-08-01T19:26:41.473088+05:30'
+last_checked: '2026-08-01T19:26:41.473088+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
+- **Cognitive-Inspired Memory Architecture**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning by structuring memory hierarchically for efficient retrieval and contextual understanding.
 
-- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended dialogue or document sequences.
+- **Stateful Long Narrative Reasoning**: Implements mechanisms to maintain and utilize state across extended interactions, allowing for coherent, context-aware reasoning in long-form narratives through dynamic memory updates and retrieval.
 
-- **AAAI 2026 Contribution**: Proposes novel memory organization techniques to enhance reasoning efficiency in long-form narrative tasks, validated through empirical benchmarks.
+- **AAAI 2026 Poster Submission**: Presented as a cutting-edge research contribution at AAAI 2026, demonstrating advancements in memory-augmented RAG systems for complex, state-dependent reasoning tasks.
 
 ## Why It Matters
 
